@@ -1,0 +1,1047 @@
+ry : 
+BE I apts ha 
+
+
+QUESTION PRESENTED 
+
+
+Where a “plain, speedy and efficient remedy” is 
+available under state law for Commerce Clause or other 
+Constitutional or federal law challenges to state tax laws, 
+are the state courts, in view of the principles of federalism 
+and comity, required by federal law to entertain a coexten- 
+sive claim under 42 U.S.C. §§ 1983, asserted solely for the 
+purpose of claiming attorney fees pursuant to § 1988? 
+
+
+TABLE OF CONTENTS 
+
+
+PAGE 
+QUESTION PRESENTED ............-.-2-5- i 
+ADDITIONAL STATUTORY PROVISIONS ..... 1 
+STATEMENT OF THE CASE ................ 2 
+SUMMARY OF THE ARGUMENT ............ 5 
+ee ee 6 
+
+
+I. IN STATE TAX CHALLENGES, STATE COURTS ARE 
+NOT REQUIRED TO IMPOSE FEDERAL REMEDIES 
+PURSUANT TO 42 U.S.C. §§ 1983 AND 1988 WHEN 
+A “PLAIN, SPEEDY AND EFFICIENT” REMEDY MAY 
+BE HAD UNDER STATE LAW. ..........-.+--: 6 
+
+
+A. Congress Has Drastically Limited Federal 
+Interference In The Administration of 
+State Taxation When A “Plain, Speedy 
+And Efficient” State Remedy Is Avail- 
+ee rer rr eee ree 8 
+
+
+B. Oklahoma Provides A “Plain, Speedy And 
+DE I, nc ccc cc eceececees 12 
+
+
+II. NEITHER THE SUPREMACY CLAUSE NOR THIS 
+COURT’S DECISIONS REQUIRE THE STATE TO 
+
+
+GRANT ADDITIONAL REMEDIES UNDER § 1988 IN 
+STATE TAX CHALLENGES... -........ccceee- 16 
+
+
+Ee eee eee eee eee 18 
+
+
+ENOTES ee eee eee ee ee TEE la 
+
+
+ill 
+
+
+TABLE OF AUTHORITIES 
+
+
+PAGE 
+CASES 
+Boise Artesian Water Co. v. Boise City, 
+
+So Res 2. BR re err 10 
+California v. Grace Brethren Church, 
+
+eis ea ee ee ee i337 
+Chapman v. Houston Welfare Rights Organization, 
+
+ee ef Ferrer rare re ee 14 
+Cities Service Gas Co. v. Oklahoma Tax Comm’n, 
+
+656 F.2d 584 (10th Cir.), cert. denied, 
+
+pe ee ED ovo bo O53 48a de Oe 13 
+Dennis v. Higgins, 498 U.S. 439 (1991) ......... 3 
+Dows v. City of Chicago, 
+
+r Bie Beem , Bp Esl») | ree 9 
+Ex Parte Young, 209 U.S. 123 (1908) ........... 16 
+Fair Assessment in Real Estate Ass’n v. McNary, 
+
+Ge Sia. Se OE oo oe cee eeewceece se eess passim 
+Great Lakes Dredge & Dock Co. v. Huffman, 
+
+eee OF EEE os hoes eo biaecsasusaics 10 
+Hudson v. Palmer, 468 U.S. 517 (1984) ......... 14 
+Kentucky v. Graham, 473 U.S. 159 (1985) ....... 16,18 
+Lynch v. Household Finance Corp., 
+
+Me Ore ee CE sv ep ok nse che de dee eed 9 
+Matthews v. Rodgers, 284 U.S. 521 (1932) ....... 10 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES (cont’d) 
+
+
+PAGE 
+CASES (CONT’D) 
+McKesson Corp. v. Division of Alcoholic Beverages 
+
+and Tobacco, 496 U.S. 18 (1990) ............. 13 
+Monroe v. Pape, 365 U.S. 167 (1961) ........... 8,9 
+Oklahoma Tax Commission v. Harris, 
+
+bo oe A Ff ee re 6,7,17 
+Oklahoma Tax Commission v. Smith, 
+
+610 P.2d 704 (Okla. 1960)... cc cece 12 
+Parratt v. Taylor, 451 U.S. 527 (1981) .......... 14 
+Perez v. Ledesma, 401 U.S. 82 (1971) ........... 11 
+Private Truck Council of America, Inc. v. 
+
+Oklahoma Tax Comm’n, 806 P.2d 598 (1991) ... 6 
+Private Truck Council of America, Inc. v. 
+
+Oklahoma Tax Comm’n, 879 P.2d 137 ........ 12,13 
+Rosewell v. LaSalle National Bank, 
+
+Ee | ar 11,14,15 
+Singer Sewing Machine Co. v. Benedict, 
+
+Se hk 8 6 as ROO aeRO 10 
+Tully v. Griffin, Inc., 429 U.S. 68 (1976) ........ 10 
+Will v. Michigan Dep’t of State Police, 
+
+ee Sf ee re 16,17 
+
+
+TABLE OF AUTHORITIES (cont’d) 
+
+
+PAGE 
+
+CONSTITUTION AND STATUTES 
+Eee Oe fk test eaeeveusenws 2 
+ee WO ©. wc eceteneeeeeneeen 8 
+I ED 5 yo bn bb's 0 6 ORS we bee OS 80 passim 
+a a ig a 6b ig i Wb iy eae ee ae passim 
+TS. 2. vine a de 0 eke baa OOS ee passim 
+OKLA. STAT. tit. 12, §§ 1651 et seg. (1981) ....... 2 
+OKLA. STAT. tit. 68, §§ 201 et seg. (1981) ........ 12 
+ee ee Oe, Oe nc, Vlew eu wales 05.6 oS 12 
+Se ee, OR A Is occ kev eeet sewed es 13 
+OKLA. STAT. tit. 68, § 226 (1981) ............. passim 
+OTHER 
+Robert L. Stern, et al., Supreme Court Practice 
+
+ere, SD ss 5 60.0 aes ak bee Se ween eas 4 
+
+
+vi 
+
+
+In the 
+
+
+Supreme Court of the United States 
+October Term, 1994 
+
+
+No. 94-688 
+
+
+NATIONAL PRIVATE TRUCK COUNCIL, INC., 
+WESTINGHOUSE ELECTRIC CORPORATION, AND 
+Roy E. GRIFFIS, 
+
+
+Petitioners, 
+v. 
+
+
+OKLAHOMA TAX COMMISSION, ET AL., 
+
+
+Respondents. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE SUPREME COURT OF OKLAHOMA 
+
+
+BRIEF OF RESPONDENTS 
+
+
+ADDITIONAL STATUTORY PROVISIONS 
+
+
+In addition to the Constitutional and statutory pro- 
+visions cited by Petitioners, the following state statute is 
+involved: 
+
+
+OKLA. STAT. tit. 68, § 226 (1981), which creates a right 
+of action to afford a remedy to any taxpayer who wishes to 
+challenge any state tax or its collection or enforcement, 
+where the taxes complained of are claimed to be an 
+unlawful burden on interstate commerce, or the collection 
+thereof violative of any Congressional Act or provision of 
+
+
+2 
+
+
+the Federal Constitution, is set out in full in the Appendix 
+to this Brief, at la. 
+
+
+STATEMENT OF THE CASE 
+
+
+Petitioners (plaintiffs below) initially brought this action 
+in state district court pursuant to OKLA. STAT. tit. 68, § 
+226 (1981) to recover taxes paid under protest, which taxes 
+plaintiffs charged were violative of the Commerce Clause.’ 
+The plaintiffs’ Petition invoked the state court’s jurisdic- 
+tion pursuant to §.226 and OKLA. STArT. tit. 12, §§ 1651 et 
+seq. (1981) (Declaratory Judgments Act). J.A. 20. In 
+Count III of their state court petition, plaintiffs alleged 
+that the actions of the defendants?’ in collecting the taxes 
+imposed by the challenged statutes were “taken under 
+color of state law,” and that defendants, Respondents here, 
+were therefore “liable to plaintiffs pursuant to 42 U.S.C. 
+§ 1983.”> J.A. 25. In their prayer for relief, plaintiffs 
+sought attorney fees under state law and 42 U.S.C. § 1988. 
+J.A. 26. 
+
+
+Defendants argued in favor of the statutes’ consti- 
+tutionality, and also challenged the plaintiffs’ claim for 
+
+
+* US. Const. art. I, § 8, cl. 3. 
+
+
+2 The original defendants were the State of Oklahoma, the 
+Oklahoma Tax Commission, the Commissioners of the Tax 
+Commission, both individually and in their official capacities, 
+and the State Treasurer. The action was later dismissed as to 
+the State, the State Treasurer, and the Tax Commissioners as 
+individuals. 
+
+
+* No specific damages or relief were sought under § 1983 in 
+the petition, either in the form of declaratory or injunctive relief, 
+or as refunds. Those remedies were available, and invoked, 
+under state law, ie., 68 O.S. § 226. 
+
+
+3 
+
+
+attorney fees in a two-fold argument: (1) that a § 1983 
+claim could not be brought on Commerce Clause grounds; 
+and (2) that a § 1983 claim is not cognizable in state court 
+where a complete and adequate remedy (such as 68 O.S. 
+1981, § 226) is provided under state law to redress the 
+plaintiffs’ substantive claim. 
+
+
+The trial court upheld the tax statutes’ constitutionality 
+under the Commerce Clause, and also dismissed plaintiffs’ 
+§ 1983 claim. That dismissal was based upon the court’s 
+conclusion that the Commerce Clause would not support a 
+claim under § 1983. 
+
+
+On appeal, the Oklahoma Supreme Court reversed the 
+trial court as to the constitutionality of the taxing statutes, 
+holding them violative of the Commerce Clause, and 
+ordered partial refunds.* That court agreed, however, that 
+plaintiffs were not entitled to attorney fees, also upon the 
+grounds that, under then extant jurisprudence, a § 1983 
+claim could not be maintained on Commerce Clause 
+grounds. As with the trial court, although the existence 
+and adequacy of the state-law remedy as grounds for 
+dismissal of a § 1983 claim had been briefed and argued 
+by the Oklahoma Attorney General and by the Tax 
+Commission,’ that issue was not addressed in the Oklaho- 
+ma court’s opinion. 
+
+
+Subsequent to the Oklahoma Supreme Court’s decision 
+on June 28, 1990, this Court ruled in Dennis v. Higgins, 
+498 U.S. 439, 111 S.Ct. 865 (1991), that suits for violations 
+of the Commerce Clause may be brought under § 1983. As 
+a result, on plaintiffs’ petition for certiorari, the Court 
+
+
+* 806 P.2d 598 (Okla. 1990). 
+* See, eg., J.A. at 57-60. 
+
+
+4 
+
+
+vacated the Oklahoma Supreme Court’s opinion and 
+remanded for further consideration in light of Dennis.® 
+
+
+On remand, the Oklahoma court recognized this Court’s 
+holding in Dennis, and acknowledged that, pursuant 
+thereto, Commerce Clause violations do indeed provide a 
+basis for the bringing of a § 1983 action. 879 P.2d at 138, 
+140, Pet.App. la, 5a. The court, however, went on to 
+examine the pertinent issue of this case, which was not 
+involved in Dennis: Are the state courts required to 
+entertain such actions where, as here, a “plain, speedy and 
+efficient remedy” is available—and invoked—under state 
+law? 
+
+
+The Oklahoma court first found that Oklahoma law 
+provides an adequate state remedy affording the relief the 
+plaintiffs requested. 879 P.2d at 138, 139, Pet.App. 1a, 4a. 
+Consequently, under the provisions of the Tax Injunction 
+Act, 28 U.S.C. § 1341, a federal court would be prohibited 
+from entertaining Petitioner-plaintiffs’ claim. Jd., at 138, 
+Pet.App. 2a-3a. Thus that court, while acknowledging 
+that state courts have jurisdiction to consider § 1983 
+claims, found that the determinative issue in this case was 
+whether, under principles of federalism and comity, the 
+state courts were required to exercise that jurisdiction 
+when tax challengers could receive constitutionally 
+adequate relief under state law. IJd., at 140-142, Pet.App. 
+6a-lla. After reviewing the decisions and rationale both 
+of this Court and of those state court decisions which 
+
+
+* In issuing such a summary reconsideration order, this 
+Court told the Oklahoma court to reconsider the case “in light 
+of the intervening precedent—which may or may not compel a 
+different result.” Robert L. Stern, et al., Supreme Court Practice 
+250 (7th ed. 1993). 
+
+
+5 
+
+
+considered that question—and those which did not—the 
+court held that, under those principles, the exercise of such 
+jurisdiction was not required under these circumstances. 
+Ibid. 
+
+Accordingly, the court below found that plaintiff- 
+petitioners had been afforded a plain, speedy and efficient 
+remedy under state law which was adequate for 14th 
+Amendment due process purposes, and that this Court’s 
+decision in Dennis v. Higgins, under these circumstances, 
+did not compel a different result in this case. As the court 
+said, “[aJlthough the reasons for so doing have changed,” 
+the trial court (and the Oklahoma Supreme Court) 
+“reached the right result in declining to grant an attor- 
+neys’ fee under §§ 1983 and 1988.” Jd., at 142, Pet.App. 
+10a-lla. The prior judgment was reinstated. Ibid. 
+
+
+As will be shown, that decision is consistent with 
+applicable decisions of this Court, the Constitution, and 
+the mandates of Congress regarding the enforcement of 
+state tax laws. The decision below should be affirmed. 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+No action, claim or remedy is or was necessary under 42 
+U.S.C. § 1983 to vindicate Petitioners’ rights under the 
+Commerce Clause in this case, or to award them the tax 
+refunds they sought. All of their remedies, which were 
+adequate and complete, were and are provided by state 
+law. In such a case, Congress’ intent and policy, as 
+manifested by 28 U.S.C. § 1341, is one of nonintrusion and 
+noninterference. Petitioners’ argument, therefore, that the 
+state court’s refusal to grant additional remedies under 
+’ Jeral law is in conflict with the policies and purposes of 
+he federal statutes, is simply untenable. The Court’s 
+‘ecisions have well established that where state laws 
+
+
+6 
+
+
+provide taxpayers a complete and adequate remedy, one 
+that is “plain, speedy and efficient,” the intent and policy 
+of Congress is that those taxpayers should be remitted 
+solely to those state remedies. That is what was done in 
+this case. The decision below is not in conflict with federal 
+policy; rather, it preserves and follows it. The decision 
+should be affirmed. 
+
+
+ARGUMENT 
+I 
+
+
+IN STATE TAX CHALLENGES, STATE COURTS ARE 
+NOT REQUIRED TO IMPOSE FEDERAL REMEDIES 
+PURSUANT TO 42 U.S.C. §§ 1983 AND 1988 
+WHEN A “PLAIN, SPEEDY AND EFFICIENT” REME- 
+DY MAY BE HAD UNDER STATE LAW. 
+
+
+The State of Oklahoma, though the provisions of OKLA. 
+STAT. tit. 68, § 226 (1981), provides an “all-in-one” legal 
+remedy to taxpayers who contend that a state tax or its 
+enforcement constitutes an unlawful burden on interstate 
+commerce, or otherwise violates any of the Acts of Con- 
+gress or the United States Constitution. Private Truck 
+Council of America, Inc. v. Oklahoma Tax Comm’n, 806 
+P.2d 598, 606-607 (1991). This section, which provides a 
+specific right of action and remedy for state tax challenges, 
+authorizes taxpayers to pay the complained-of taxes under 
+protest and to file suit for their recovery where, if success- 
+ful, the taxpayer may obtain a declaration of the tax 
+statute’s constitutional invalidity,’ preclude future collec- 
+
+
+’ The statute itself does not provide for either declaratory or 
+injunctive relief. App. la. And the Oklahoma court has held 
+that a taxpayer may not maintain an action solely to enjoin the 
+collection of a tax. Oklahoma Tax Commission v. Harris, 126 
+
+(continued...) 
+
+
+Sn | 
+
+
+7 
+
+
+tion of those taxes, and obtain a refund of the protested 
+taxes paid, with interest. Jd. 
+
+
+In this case, Petitioners brought just such an action in 
+state court under § 226 to challenge certain state taxes 
+imposed on motor carriers. The state statute, however, 
+does not authorize attorneys’ fees. Therefore, although 
+Petitioners could obtain full redress for their complaints 
+under state law, they appended to their state court petition 
+a claim that the imposition of the tax “deprived” them of 
+rights secured by the Constitution, and that the Respon- 
+dents were therefore “liable” pursuant to 42 U.S.C. § 1983. 
+Accordingly, although there was no relief or “liability” to 
+be granted under § 1983—~—a complete remedy being 
+provided by the state statute—Petitioners asked for 
+attorneys’ fees pursuant to 42 U.S.C. § 1988. 
+
+
+Petitioners’ basic argument in support of their quest for 
+attorneys’ fees is that Congress, in enacting 42 U.S.C. §§ 
+1983 and 1988, has mandated that all remedies available 
+under those federal laws must also be made available in 
+state court actions challenging state taxes, even when the 
+state-law remedy is “plain, speedy and efficient.” As will 
+be seen, however, there is no such mandate, and Respon- 
+dents submit that Congress never intended such a result. 
+
+
+*(...continued) 
+P.2d 685 (Okla. 1942). However, in order to find the taxpayer 
+entitled to a refund under 68 O.S. § 226, the court must 
+
+
+violative of federal law. See Fair Assessment in Real Estate 
+Ass’n v. McNary, 454 U.S. 100, 115 (1981). 
+
+
+8 
+
+
+A. Congress Has Drastically Limited Federal 
+Interference In The Administration of State 
+Taxation When A “Plain, Speedy And 
+Efficient” State Remedy Is Available. 
+
+
+The basis of Petitioners’ argument is that 42 U.S.C. § 
+1983, being an Act of Congress, is a part of the Supreme 
+Law of the Land,°® and that the state courts are therefore 
+obligated to provide all remedies that might be available 
+in an action brought thereunder, regardless of the reme- 
+dies that are available under state law. This argument, 
+however, is nothing more than an attempt to rely upon 
+and to reinstate, in state tax challenges, the following 
+language from Monroe v. Pape, 365 U.S. 167, 183 (1961): 
+
+
+It is no answer that the State has a law. which 
+if enforced would give relief. The federal reme- 
+dy is supplementary to the state remedy, and 
+the latter need not be first sought and refused 
+before the federal one is involved.® 
+
+
+However, the doctrine originating in Monroe v. Pape is 
+unavailing to Petitioners here, for two reasons: first, it is 
+taken out of context; and second, it has long been repudiat- 
+ed by the Court where state tax challenges are concerned. 
+
+
+In Monroe v. Pape the Court pointed out that Section 1 
+of the Ku Klux Act of 1871, 17 Stat. 13, from whence 
+comes § 1983, had three main aims: (1) it might, of course, 
+override certain state laws; (2) it provided a remedy where 
+state law was inadequate; and (3) it was to provide a 
+federal remedy where the state remedy, though adequate ) 
+in theory, was not available in practice. Monroe, 365 U.S. 
+at 173-174. Thus, recognized the Court: 
+
+
+®* U.S. Const. art. VI, cl. 2. 
+
+
+* See Petitioners’ Reply to Brf. in Opp., at 3. 
+
+
+9 
+
+
+It is abundantly clear that one reason the 
+legislation was passed was to afford a federal 
+right in federal courts because, by reason of 
+prejudice, passion, neglect, intolerance or other- 
+wise, state laws might not be enforced and the 
+claims of citizens to the enjoyment of rights, 
+privileges and immunities guaranteed by the 
+Fourteenth Amendment might be denied by the 
+state Agencies. 
+
+
+Id., at 180. Accordingly, it was in this light—that the evil 
+sought to be addressed was the inadequacy of state 
+remedies or, more often, the inability or unwillingness of 
+state agencies and officers to enforce state laws—that the 
+Court advanced the doctrine that comity, a respect for 
+state laws, did not apply where § 1983 is involved. 
+
+
+That situation does not pertain here. Oklahoma does 
+provide a remedy to redress challenges to its tax laws, and 
+that remedy is enforced and effective—just as it was in this 
+case. And in the area of state tax administration, Con- 
+gress has expressed a policy of noninterference. 
+
+
+The Court has recognized that “Congress has treated 
+judicial interference with the enforcement of state tax laws 
+as a subject governed by unique considerations and has 
+restricted federal jurisdiction accordingly ... .” Lynch v. 
+Household Finance Corp., 405 U.S. 538, 542 n. 6 (1972). 
+Shortly before Congress enacted § 1983 to provide a 
+federal remedy and forum where state laws were inade- 
+quate to protect citizens’ rights under the Constitution, the 
+Court “recognized the importance and sensitive nature of 
+state tax systems and the need for federal-court restraint 
+when deciding cases that affect such systems,” Fair 
+Assessment in Real Estate Ass’n v. McNary, 454 U.S. 100, 
+102 (1981), and in Dows v. City of Chicago, 78 U.S. (11 
+Wall.) 108 (1871), the Court held that a suit in equity will 
+
+
+10 
+
+
+not lie in the federal courts to restrain or enjoin the 
+collection of an unconstitutional state tax where the 
+taxpayer had an adequate remedy at law. As Justice Field | 
+wrote for the Court: 
+
+
+It is upon taxation that the several States 
+chiefly rely to obtain the means to carry on 
+their respective governments, and it is of the 
+utmost importance to all of them that the | 
+modes adopted to enforce the taxes levied 
+should be interfered with as little as possible. 
+
+
+Id., at 110.” 
+
+
+As the Court observed in Fair Assessment, § 1983 cut a | 
+“broad swath.” 454 U.S. at 103. However, “Congress also | 
+recognized that the autonomy and fiscal stability of the | 
+States survive best when state tax systems are not subject | 
+to scrutiny in federal courts.” Jd., at 102-103. Thus, in 
+1937 Congress passed the Tax Injunction Act, 28 U.S.C. 
+§ 1341, which provides: 
+
+
+The district courts shall not enjoin, suspend 
+or restrain the assessment, levy or collection of 
+any tax under State law where a plain, speedy 
+and efficient remedy may be had in the courts 
+of such state. 
+
+
+This Act, which “has its roots in equity practice, in 
+principles of federalism, and in recognition of the impera- 
+tive need of a State to administer its own fiscal opera- 
+tions,” Tully v. Griffin, Inc., 429 U.S. 68, 73 (1976), was 
+“first and foremost a vehicle to limit drastically federal 
+
+
+© See also, Great Lakes Dredge & Dock Co. v. Huffman, 319 
+U.S. 293 (1943); Matthews v. Rodgers, 284 U.S. 521 (1932); 
+Singer Sewing Machine Co. v. Benedict, 229 U.S. 481 (1913); 
+Boise Artesian Water Co. v. Boise City, 213 U.S. 276 (1909). 
+
+
+ee 
+
+
+11 
+
+
+district court jurisdiction to interfere with so important a 
+local concern as the collection of taxes.” Rosewell v. 
+LaSalle National Bank, 450 U.S. 503, 522 (1981). 
+
+
+As the Court observed in California v. Grace Brethren 
+Church, 457 U.S. 393, 409 n. 22 (1982), “the legislative 
+history of the Tax Injunction Act demonstrates that 
+Congress worried not so much about the form of relief 
+available in the federal courts, as about divesting the 
+federal courts of jurisdiction to interfere with state tax 
+administration.”"' These principles and the Congressio- 
+nal intent and policy embodied in the Tax Injunction Act 
+“reflect the fundamental principle of comity between 
+federal courts and state governments that is essential to 
+‘Our Federalism,’ particularly in the area of state taxa- 
+tion.” Fair Assessment, 454 U.S. at 103. Accordingly, the 
+Court held that where the “broad swath” of § 1983 comes 
+into contact with Congress’ policy of noninterference with 
+state tax remedies, “the principle of comity controls.” Jd., 
+at 105. Accordingly, the Court held: 
+
+
+Therefore, despite the ready access to federal 
+courts provided by Monroe and its progeny, we 
+hold that taxpayers are barred by the principle 
+of comity from asserting § 1983 actions against 
+the validity of state tax systems in federal 
+courts. Such taxpayers must seek protection of 
+their federal rights by state remedies, provided 
+
+
+‘! See also, Perez v. Ledesma, 401 U.S. 82, 128, n. 17 (1971) 
+(Brennan, J., concurring in part and dissenting in part). 
+
+
+12 
+
+
+of course that those remedies are plain, ade- 
+quate and complete”’.... 
+
+
+Id., 454 U.S. at 116 (Emphasis added). Oklahoma’s 
+remedies for challenging its taxes meet the test established 
+by the Court and mandated by Congress. 
+
+
+B. Oklahoma Provides A “Plain, Speedy And 
+Efficient Remedy.” 
+
+
+Under Oklahoma’s Uniform Tax Procedure Code, OKLA. 
+STAT. tit. 68, §§ 201 et seg. (1981), taxpayers have several 
+remedies available by which to challenge the State’s tax 
+laws or their enforcement. See generally, Private Truck 
+Council of America, Inc. v. Oklahoma Tax Comm’n, 879 
+P.2d 137, 145-146, Pet. App. at 17a-2la (Wilson, J., 
+dissenting). In a case where a taxpayer fails to report and 
+pay, or underreports and underpays, the Oklahoma Tax 
+Commission may issue a proposed assessment and the 
+taxpayer may protest the same and demand an administra- 
+tive hearing before the Commission before payment of the 
+tax."*> OKLA. STAT. tit. 68, § 221. If the taxpayer is ag- 
+grieved by the Commission’s decision on his protest, he 
+may pay the proposed assessment under protest (or post a 
+
+
+® As the Court noted, there is no significant difference 
+between remedies that are “plain, adequate and complete” and 
+those which are “plain, speedy and efficient” within the meaning 
+of § 1341. “Both phrases refer to the obvious precept that 
+plaintiffs seeking protection of federal rights in federal courts 
+should be remitted to their state remedies if their federal rights 
+will not thereby be lost.” Fair Assessment, 454 U.S. at 116, n. 
+8 (emphasis added). 
+
+
+’* If the tax has not yet become due, an Oklahoma taxpayer 
+may maintain a declaratory judgment action to challenge the 
+validity of a tax statute on its face. Oklahoma Tax Commission 
+v. Smith, 610 P.2d 794 (Okla. 1980). 
+
+
+ini enaineneanaetiel 
+
+
+13 
+
+
+bond), and appeal the Commission’s order directly to the 
+Oklahoma Supreme Court. OKLA. STAT. tit. 68, § 225. If 
+the taxpayer is successful on appeal, the taxes, penalties 
+or interest so paid shall be refunded, with interest. Jbid, 
+
+
+In addition to the right to protest taxes in administra- 
+tive hearings before the Tax Commission, with the right of 
+judicial review by the state supreme court, the taxpayer 
+has a further remedy where the taxes are said to violate 
+federal laws or the Constitution. In such a case, as was 
+done here, the taxpayer may pay the taxes proposed to be 
+assessed, under protest, and file suit in the state district 
+court for their recovery. OKLA. STAT. tit. 68, § 226. 
+Again, if the taxpayer prevails, by final judgment or on 
+appeal, the amounts paid are refunded, with interest. bid. 
+
+
+These administrative and judicial remedies provide the 
+taxpayer with a full hearing and the opportunity for 
+judicial review, during which all constitutional objections 
+can be raised, and provide taxpayers a “plain, speedy and 
+efficient remedy” for challenging state taxes, as defined in 
+Rosewell. Cities Service Gas Co. v. Oklahoma Tax 
+Comm’n, 656 F.2d 584 (10th Cir. 1981), cert. denied, 454 
+U.S. 1124. Further, the state remedies provide both 
+predeprivation and postdeprivation remedies with “mean- 
+ingful relief” as described in McKesson Corp. v. Division of 
+Alcoholic Beverages and Tobacco, 496 U.S. 18 (1990). See, 
+Private Truck Council, 879 P.2d at 147, Pet. App. at 21a, 
+(Wilson, J., dissenting). 
+
+
+Petitioners here do not dispute that Oklahoma’s reme- 
+dies are plain, speedy and efficient, but only suggest that 
+the state remedies are not “adequate” because they do not 
+provide for attorneys’ fees. This, of course, is the sole 
+reason why Petitioners appended a § 1983 “claim” to their 
+action under 68 O.S. 1981, § 226. The first fallacy of 
+Petitioners’ reasoning, of course, is their assumption that 
+
+
+14 
+
+
+they have a federal “right” to attorneys’ fees. As the 
+Court has held, § 1983 confers no rights, it only gives a 
+remedy. Chapman v. Houston Welfare Rights Organiza- 
+tion, 441 U.S. 600 (1979) (“One cannot go into court and 
+claim a ‘violation of § 1983’—for § 1983 by itself does not 
+protect anyone against anything.”). 
+
+
+Further, the refusal of the court below to entertain an 
+action under § 1983 so as to impose additional relief to 
+Petitioners in the form of attorneys’ fees, does not make 
+the state remedy “inadequate.” As the Court has said: 
+
+
+Although the state remedies may not provide 
+the respondent with all the relief which may 
+have been available if he could have proceeded 
+under § 1983, that does not mean that the state 
+remedies are not adequate to satisfy the re- 
+quirements of due process. The remedies pro- 
+vided could have fully compensated the respon- 
+dent for the property loss he suffered, and we 
+hold that they are sufficient to satisfy the 
+requirements of due process. 
+
+
+Parratt v. Taylor, 451 U.S. 527, 544 (1981). See also, 
+Hudson v. Palmer, 468 U.S. 517, 535 (1984) (That the 
+petitioner might not be able to recover under state reme- 
+dies the full amount which he might receive in a § 1983 
+action is not determinative of the adequacy of the state 
+remedies.) 
+
+
+Finally, as the Court held in Rosewell, the failure of a 
+state to pay interest on taxes refunded under state reme- 
+dies does not mean that those remedies were not “piain, 
+speedy and efficient” for purposes of the Tax Injunction 
+Act, 28 U.S.C. § 1341. 450 U.S., at 523-524. The Court 
+recognized that when it passed § 1341, Congress knew that 
+many state tax systems commonly provided for payment of 
+
+
+~ 5 seNgh aiim aeADOS ale 1B satin hts Iregee 
+
+
+15 
+
+
+taxes under protest with subsequent refund as their 
+exclusive remedy. Ibid. And, the Court said: 
+
+
+It is only common sense to presume that 
+Congress was also aware that some of these 
+same States did not pay interest on their re- 
+funds to taxpayers, following the then-familiar 
+rule that interest in refund actions was recover- 
+able only when expressly allowed by statute. It 
+would be wholly unreasonable, therefore, to 
+construe a statute passed to limit federal-court 
+interference in state tax matters to mean that 
+Congress nevertheless wanted taxpayers from 
+States not paying interest on refunds to have 
+unimpaired access to the federal courts. If 
+Congress had meant to carve out such an ex- 
+pansive exception, one would expect to find 
+some mention of it. The statute’s broad prophy- 
+lactic language is incompatible with such an 
+
+
+interpretation. 
+Ibid. (Internal citation omitted). The same is true of 
+attorney fees: the failure of some states to provide for 
+attorney fees as part of the state remedies for challenging 
+state tax systems is no more determinative—or destruc- 
+tive—of the adequacy and completeness of those remedies 
+than the failure to pay interest. 
+
+
+In sum, Congress and this Court have recognized that, 
+“in the unique area of state taxation,” the principles of 
+comity and federalism dictate a policy of federal noninter- 
+ference in state tax matters, and Congress has expressed 
+that policy by passing the Tax Injunction Act. The only 
+condition for such noninterference is that the States 
+provide complete and adequate remedies and procedures 
+for challenging those state taxes and, as required by due 
+process, provide “meaningful relief.” Oklahoma has done 
+
+
+16 
+
+
+so, and the policies and dictates of Congress have been 
+satisfied. 
+
+
+II 
+
+
+NEITHER THE SUPREMACY CLAUSE NOR THIS 
+COURT’S DECISIONS REQUIRE THE STATE TO 
+GRANT ADDITIONAL REMEDIES UNDER § 1988 IN 
+STATE TAX CHALLENGES. 
+
+
+Petitioners argue that it is “clear” that their request for 
+injunctive-and declaratory relief against the challenged 
+state taxes can be maintained under § 1983, relying on the 
+footnote in Will v. Michigan Dep’t of State Police, 491 U.S. 
+58, 71, n. 10 (1989). See Pet. Brf. at 20, n. 11. Thus, say 
+Petitioners, by appending a request for such relief to their 
+state-provided action to recover taxes paid under protest, 
+they became entitled to engraft upon their state remedies 
+a “right” to attorneys’ fees under § 1988. However, the 
+availability of injunctive and declaratory relief under 
+§ 1983 is far from “clear” in this case, and Petitioners’ 
+asserted “right” to attorneys’ fees by virtue of federal law 
+is directly contrary to Congress’ expressed policy regarding 
+state tax challenges. 
+
+
+First, the relied-upon footnote in Will says only that 
+state officials in their official capacity, when sued for 
+injunctive relief, are “persons” under § 1983 because 
+official-capacity actions for prospective relief are not 
+treated as actions against the state. Jbid., citing Kentucky 
+v. Graham, 473 U.S. 159, 167, n. 14 (1985); and Ex Parte 
+Young, 209 U.S. 123, 159-160 (1908). Graham, of course, 
+relied upon Young for this proposition. g.v. And, contrary 
+to Petitioners’ assumption, whether injunctive or declarato- 
+ry relief may be sought against state officials in their 
+
+
+17 
+
+
+official capacity in state tax matters is another question 
+altogether. 
+
+
+As the Court has noted, after it was decided in Ex Parte 
+Young that federal courts may enjoin state officers from 
+enforcing an unconstitutional state law, Congress in 1937 
+enacted § 1341 and specifically prohibited such injunctive 
+federal intrusions in state tax challenges where state law 
+provided a plain, speedy and efficient remedy. Fair 
+Assessment in Real Estate Ass’n v. McNary, 454 U.S. at 
+102-103. For the same reasons, declaratory judgments 
+against the validity of state taxes are also prohibited. 
+California v. Grace Brethren Church, 457 U.S. at 411. As 
+these cases hold, injunctive and declaratory relief would 
+not be available in federal court under § 1983 or other- 
+wise. Nor, as independent claims for relief, would they be 
+available in state court in this case. See, eg., Oklahoma 
+Tax Comm’n v. Harris, supra (taxpayer may not maintain 
+action to enjoin collection of a tax); and Fair Assessment, 
+454 U.S. at 115 (a declaration in this case as to the state 
+statutes’ validity is merely incident to Petitioners’ claim 
+for refund.) See n. 7, supra, at p. 6. Petitioners’ claim 
+against the State for refunds, of course, is not cognizable 
+under § 1983 under any circumstance. See Will, 491 U.S. 
+at 68-69. 
+
+
+Secondly, the simple answer to Petitioners’ Supremacy 
+Clause argument is that this case does not present a 
+situation where federal remedies have been denied because 
+they were thought to be contrary to the policy of the State. 
+Just the opposite: the policy of the State is to provide 
+taxpayers a plain, speedy and efficient method for chal- 
+lenging its tax laws, and to provide meaningful relief from 
+those tax laws found to be unconstitutional—in this case, 
+refunds. That, itself, is the very essence of the federal 
+policy as reflected in § 1341 and the decisions of this Court. 
+
+
+18 
+
+
+Finally, Petitioners’ claim of conflict with the purpose 
+and policy of federal statutes is based upon their assump- 
+tion that they have a “right” to attorneys’ fees under § 
+1988. However, § 1988 simply does not create a fee 
+liability where there is no liability under § 1983. See, e.g., 
+Kentucky v. Graham, 473 U.S. 159, 168 (1985). It would be 
+anomalous indeed to acknowledge Congress’ intent “to 
+limit drastically” federal-court interference with state tax 
+systems, and at the same time urge that Congress intend- 
+ed to interfere with those systems directly by mandating 
+the award of attorneys fees in state court actions regarding 
+
+those systems, irrespective of state law. 
+
+
+CONCLUSION 
+
+
+The remedies here provided to Petitioners are plain, 
+speedy and efficient. Consistent with Congress’ announced 
+policy, those state remedies are all the remedies to which 
+Petitioners are entitled. The decision of the Oklahoma 
+Supreme Court should be affirmed. 
+
+
+Respectfully submitted, 
+
+
+STANLEY P. JOHNSTON 
+Deputy General Counsel 
+(Counsel of Record) 
+ROBERT B. STRUBLE 
+Assistant General Counsel 
+OKLAHOMA TAX COMMISSION 
+P. O. Box 53248 
+Oklahoma City, OK 73152-3248 
+(405) 521-3141 
+Counsel for Respondents 
+
+
+la 
+APPENDIX 
+OKLA. STAT. tit. 68, § 226 (1981): 
+
+
+(a) In addition to the right of appeal to the Supreme 
+Court provided for in the preceding section, a right of 
+action is hereby created to afford a remedy to any taxpayer 
+aggrieved by the provisions of this article or of any other 
+state tax law, or who resists the collection of or the 
+enforcement of the rules or regulations of the Tax Commis- 
+sion relating to the collection of any state tax. 
+
+
+(b) Within thirty (30) days from the date of mailing to 
+the taxpayer of the order, ruling or finding of the Tax 
+Commission, any such taxpayer shall pay the tax to the 
+Tax Commission, and at the time of making such payment 
+shall give notice to the Tax Commission of his intention to 
+file suit for recovery of such tax. If the taxpayer prevails 
+the Tax Commission shall, by cash voucher drawn by the 
+Tax Commission upon its official depository clearing 
+account or special refund reserve account with the State 
+Treasurer, refund to the taxpayer the amount of tax 
+determined not to be due pursuant to the final judgment 
+of the cowrt having jurisdiction, together with interest on 
+such amount at the rate of three percent (3%) per annum 
+from the date of payment by the taxpayer to the date of 
+the court’s final order. The refunds paid shall be payable 
+as provided in Section 225(d). 
+
+
+(c) This section shall afford a legal remedy and right 
+of action in any state or federal court having jurisdiction 
+of the parties and the subject matter. It shall be construed 
+to provide a legal remedy in the state or federal courts by 
+action at law in cases where the taxes complained of are 
+claimed to be an unlawful burden on interstate commerce, 
+or the collection thereof violative of any Congressional Act 
+
+
+2a 
+
+
+or provision of the Federal Constitution, or in cases where 
+jurisdiction is vested in any of the Courts of the United 
+States. In all actions brought hereunder service of process 
+upon the Chairman of the Tax Commission shall be 
+sufficient service, and the Tax Commission shall be the 
+sole, necessary and proper party defendant in any such 
+suit, and the State Treasurer shall not be a necessary or 
+proper party thereto. 
+
+
+(d) Upon request of any taxpayer and upon proper 
+showing that the principle of law involved in the as- 
+sessment of any tax is already pending before the courts 
+for judicial determination, the taxpayer, upon agreement 
+to abide by the decision of the court, may pay the tax so 
+assessed under protest, but need not file a suit. 
+
+

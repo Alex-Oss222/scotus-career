@@ -1,0 +1,1369 @@
+        aeronnTe Soae, n ||
+
+                  >
+
+a. the       JAN 12 1995
+
+        ee Pee e"
+
+ITE                                           GLERA
+
+Iu the Supreme Court of the United States
+
+                        OCTOBER TERM, 1994
+
+UNITED STATES OF AMERICA, PETITIONER
+
+                                         Vv.
+
+                ROBERT P. AGUILAR
+
+               ON WRIT OF CERTIORARI
+
+TO THE UNITED STATES COURT OF APPEALS
+               FOR THE NINTH CIRCUIT
+
+BRIEF FOR THE UNITED STATES
+
+Drew S. Days, III
+   Solicitor General
+
+JO ANN HARRIS
+   Assistant Attorney General
+
+MICHAEL R. DREEBEN
+   Deputy Solicitor General
+
+JAMES A, FELDMAN
+   Assistant to the Solicitor General
+
+PATTY MERKAMP STEMLER
+
+   Attorney
+   Department of Justice
+   Washington, D.C. 20530
+    (202) 514-2217
+                     QUESTIONS PRESENTED
+
+   1. Whether an individual who endeavors to ob-
+struct a grand jury proceeding by making false and
+misleading statements to prospective witnesses may
+be prosecuted for obstruction of justice, within the
+meaning of 18 U.S.C. 1503.
+
+   2. Whether an individual who knows of an appli-
+
+cation for authorization to intercept telephone con-
+versations and who discloses its existence to a target
+in order to obstruct the interception of the target's
+conversations may be found guilty of violating 18
+U.S.C. 2232(c), regardless of whether the authoriza-
+tion had expired by the time the disclosure was made.
+
+                               (1)
+           TABLE OF CONTENTS
+
+ES                    involved...
+EE
+Statutory provisions
+
+Argument:
+
+I, Section 1508 prohibits making false and mis-
+        leading statements to a potential grand jury
+        witness with the intent of obstructing a grand
+        5
+                      EE     a
+
+        A. The evidence at trial established the elements
+            of an obstruction of justice...
+
+        B. The omnibus clause of Section 1508 applies
+
+             to misleading statements made to a potential
+
+            I
+
+          1. The scope of the omnibus clause was not       36
+               affected by the 1982 amendments..."         49
+
+          2. The omnibus clause was not narrowed by        RR
+               the 1988 amendment to Section 1512...
+
+     C. NeitthheeFrifth Amendnmorethne trule
+          of lenity supports the court of appeals'
+          EEERLE E TT
+
+IT. Section 2232(c) prohibited the disclosure of the
+     wiretap application in this case...
+
+Conclusion ....... a
+
+           TABLE OF AUTHORITIES
+
+Cases:
+
+American Hosp. Ass'n v. NLRB, 499 U.S. 606
+   SSE eae
+
+                      (mit)
+                        IV                                                            v
+
+Cases--Continued:                                          Page    Cases--Continued:                                         Page
+
+Edwards v. United States, 312 U.S. 473 (1941)...... 27             United States v. Howard, 569 F.2d 1831 (5th Cir.),
+Morton v. Mancari, 417 U.S. 585 (1974) ............... 26
+Osborn V. United States, 885 U.S. 328 (1966)... 40                 cert. denied, 439 U.S. 884 (1978) 00 .. 17, 48
+                                                                   United States v. Jackson, 805 F.2d 457 (2d Cir.
+Posadas v. National City Bank, 296 U.S. 497                        1986), cert. denied, 480 U.S. 922 (1987)... 29
+LEENAD S TRE)                                              26
+Randall v. Loftsgaarden, 478 U.S. 647 (1986)........ 26            United States v. Jeter, 775 F.2d 670 (6th Cir.
+                                                                   1985), cert. denied, 475 U.S. 1142 (1986) .......... 48
+Russello v. United States, 464 U.S. 16 (1983)........ 34           United States v. Kenny, 978 F.2d 389 (4th Cir.
+Snepp V. United States, 444 U.S. 507 (1980) .......... 48          STE) acne cnnceenavevennnctrnatencnsntsetinsenesstbtntnceseseesse 28, 33
+Staples v. United States, 114 S. Ct. 1798 (1944)... 36             United States v. Kulezyk, 981 F.2d 542 (9th Cir.
+TVA V. Hill, 487 U.S. 158 (1978) -.....-cccccccceecccseeenen- 26   1991) ............. sstndainienasaaidieticesstasettialteenailateendssitin 29
+United States v. Barber, 881 F.2d 345 (7th Cir.                    United States v. Lavelle, 751 F.2d 1266 (D.C. Cir.),
+1989), cert. denied, 495 U.S. 922 (1990) ............. 20          cert. denied, 474 U.S. 817 (1986) oe ececeeee 20
+United States v. Barfield, 999 F.2d 1520 (11th Cir.
+SE deinen sinentliiesdiiiiiadiiaiamcitinditdiiedseiieadis 17, 20   United States v. Lester, 749 F.2d 1288 (9th Cir.
+                                                                   BOE) sastcnnenanencnsneenenesentntmncessseteesstivercetssasee 27, 29
+United States v. Batchelder, 442 U.S. 114 (1979).. 25, 26          United States v. Marrapese, 826 F.2d 145 (1st
+United States v. Beacon Brass Co., 344 U.S. 43                     Cir.), cert. denied, 484 U.S. 944 (1987)... 28
+EEE                RRS eA ER EP 3S: rh SIE Ta              25
+United States v. Biaggi, 858 F.2d 89 (2d Cir.                      United States v. Masterpol, 940 F.2d 760 (2d Cir.
+                                                                   ri area are rpepraemarererte »
+1988), cert. denied, 489 U.S. 1052 (1989)                  17      United States v. McComb, 744 F.2d 555 (7th Cir.
+United States v. Borden Co., 308 U.S. 188 (1989).. 26              te oc ape
+United States v. Capo, 791 F.2d 1054 (1986), va-                   United States v. Moody, 977 F.2d 1420 (11th Cir.          19
+
+cated in part on reh'g en banc, 817 F.2d 947 (2d                   1992), cert. denied, 113 S. Ct. 1848 (1998)........ 23,28
+Cir. 1967) ................ NE  Es                         17
+                                                                   United States v. Nelson, 852 F.2d 706 (3d Cir.),
+United States v. Carson, 969 F.2d 1480 (8d Cir.
+iis rsntinteninpaatiin          satiate                       44      cert. denied, 488 U.S. 909 (1988). nnneeannee                19
+United States v. Cohn, 452 F.2d 881 (2d Cir.
+1971), cert. denied, 405 U.S. 975 (1972) .............         20  United States v. Noveck, 273 U.S. 202 (1927)........          27
+United States v. Essex, 407 F.2d 214 (6th Cir.                20
+SE cccedisibieecie ee                                          19  United States v. Ojeda Rios, 495 U.S. 257 (1990).             48
+United States v. Faudman, 640 F.2d 20 (6th Cir.               43
+1981) ....         REL                                        43   United States v. Poeta, 455 F.2d 117 (2d Cir.),              43
+United States v. Gallo, 863 F.2d 185 (2d Cir. 1988),
+cert. denied, 489 U.S. 1088 (1989) .....................       20    cert. denied, 406 U.S. 948 (1972) .....-.----noctenove      19
+United States v. Giordano, 416 U.S. 505 (1974)......       19, 20
+United States v. Gonzalez-Mares, 752 F.2d 1485                     United States v. Rankin, 870 F.2d 109 (8d Cir.               28
+(9th Cir.), cert. denied, 473 U.S. 913 (1985)......
+                                                                     1989)                                                       36
+
+                                                                   United States v. Risken, 788 F.2d 1361 (8th Cir.),           28
+
+                                                                     cert. denied, (79 U.S. 923 (1986) econo.                     40
+
+                                                                   United States v. Rodriguez-Rios, 14 F.3d 1040 (5th        19,20
+
+                                                                     ED seeinuticcnterteesdiameersatneihitatneiranets
+
+                                                                   United States v. Rovetuso, 768 F.2d 809 (7th Cir.
+
+United States v. Grubb, 11 F.8d 426 (4th Cir.                      1985), cert. denied, 474 U.S. 1076 and 476 U.S.
+                                                                   ge  Ae Ee
+1998) .....
+                                                                   United States v. Russell, 255 U.S. 128 (1921) ........
+United States v. Hernandez7,30 F.2d 895 (2d Cir.                   --_-- Vv. Shoup, 608 F.2d 950 (3d Cir.
+                                                                       Sr                PRES i) SAAT,
+1984)                                                      29
+
+United States v. Hirsch, 100 U.S. 88 (1879) ......... »-»
+                                                       VI                                                                VII
+
+Cases--Continued:                                                                Page
+
+United States v. Simmons, 691 F.2d 206 (8d Cir.                                       17  Statutes and rule--Continued:                                             Page
+                                                                                      11
+TTT cconsenssensecmeanineduicdiehsatmmananiapebanetianttiinessiatliscinipeanens  19, 20   A                              Se a eT mee nr                             89
+                                                                                      28
+United States v. Tham, 960 F.2d 1391 (9th Cir.                                        43  ER                                                                        passim
+
+| ESS Se ae Cee                                                                  20, 23   TTATT RE Te                                                               82
+
+United States v. Walasek, 527 F.2d 676 (8d Cir.                                       89  18 U.S.C. 1512(b) ......... ulicnidaiintedienan ieddelnanieaiaanl 12, 23, 32, 34
+
+TI cxishisseunteinsctantidaanieeionasniiesdiis bideilinaiiiidiiinantiaaiess               a                                                                         23
+
+United States v. Wesley, 748 F.2d 962 (5th Cir.                                           I                                         sicitdiiilimbaaaanel            24
+
+1984), cert. denied, 471 U.S. 1130 (1985) ..........                                      A               eT                        24, 25, 28, 31
+
+United States v. Williams, 7387 F.2d 594 (7th Cir.                                        EE                                        TTL se 24
+
+1984), cert. denied, 470 U.S. 1008 (1985) ..........                                      a               I                         itieidaiodal passim
+
+United States v. Williams, 874 F.2d 968 (5th Cir.                                         ee                                        iat ieatednahioas               3
+
+I circctnsiernerninintcinatinteabiasieentineattinldaindiiinliiitieead 17,                 I                       a                                                 3
+
+United States v. Zemek, 634 F.2d 1159 (9th Cir.                                           EE                             EN I i           3, 42, 43
+
+1980), cert. denied, 450 U.S. 916, 985, and 452                                           SE                                  RT A  RE a                            44
+
+|  eee ree                                                                                a                                                                         4
+
+Constitution, statutes and rule:                                                          ME hs CORR, Bs CEO) ann nenea nener nen °
+
+      U.S. Const.:                                                                        Miscellaneous:
+
+AE aE eT 14, 47                                                                           128 Cong. Rec. (1982):
+
+EAE ccirenicciipnlintiiiieitaiatinicaiaetintanl 13, 35,36                                 Pe IG cecttrnnevsrvenenercctnstesepuctndereccessenscecssensensess 30
+Criminal Law and Procedure Technical Amend-
+ments Act of 1986, Pub. L. No. 99-646, § 61, 100                                          Ds BOBOB one eeeeneveneennerenerenereneeernnerneernerenete 80
+Sg" glauca                                                                       82       D. DEB10 nee nneeenernnerenesenneeneeernneennenennennets 31
+Minor and Technical Criminal Law Amendments                                               De 20BOT eerenenvneevvneeeneeeenereneetneetneetneetneee 30
+
+Act of 1988, Pub. L. No. 100-690, Tit. VII,                                               H.R. Rep. No. 647, 99th Cong., 2d Sess. (1986)...                         41
+
+                                                                                          H.R. Rep. No. 169, 100th Cong., 1st Sess>-¢1987)_. 34
+
+Subtit. B, § '7029(c), 102 Stat. 4898 2.0000...                                  82       S. Rep. No. 582, 97th Cong., 2d Sess. (1982)........                      29, 30
+Racketeer Influenced and Corrupt Organizations
+Act, 18 U.S.C. 1962(c) .................                                                  S. Rep. No. 541, 99th Cong., 2d Sess. (1986)...                               41
+                                                                                 10                                                                                     39
+                                                                                          Webster's Third New International Dictionary
+Victim and Witness Protection Act of 1982, Pub.
+                                                                                             (1986) ......... n--rensneneseneneesvesonseneveanvocesssessonssessece
+   L. No. 97-291, 96 Stat. 1248:
+
+§ 4(a), 96 Stat. 1249-1253                                                       22-23
+§ 4(a), 96 Stat. 1249
+§ 4(a), 96 Stat. 1249-1250                                    :                  23
+§ 4(a), 96 Stat. 1250
+§ 4(c), 96 Stat. 1253                                      "     aa 23
+
+                                                                                 24
+
+                                                                                 23
+
+18 U.S.C. 871 .                                                            10
+18 U.S.C. 1508 (1976)                                            22, 28, 24
+18 U.S.C. 1503
+18 U.S.C, 1505                                                      passim
+                                                                     20, 31
+ Iu the Supreme Court of the Anited States
+
+                          OCTOBER TERM, 1994
+
+                               No. 94-270
+          UNITED STATES OF AMERICA, PETITIONER
+
+                                                         Vv.
+
+                        ROBERT P. AGUILAR
+
+                            ON WRIT OF CERTIORARI
+            TO THE UNITED STATES COURT OF APPEALS
+
+                            FOR THE NINTH CIRCUIT
+
+               BRIEF FOR THE UNITED STATES
+
+                          OPINIONS BELOW
+
+   The opinion of the en bane court of appeals (Pet.
+App. la-28a) is reported at 21 F.3d 1475. The opin-
+ion of the panel of the court of appeals (Pet. App.
+29a-113a), which was subsequently vacated, is re-
+ported at 994 F.2d 609.
+
+                             JURISDICTION
+
+   The judgment of the en bane court of appeals was
+entered on April 19, 1994. On July 11, 1994, Justice
+
+O'Connor extended the time for filing a petition for
+
+a writ of certiorari to and including August 17,
+1994, and the petition was filed on August 11, 1994,
+On November 28, 1994, the Court granted the peti-
+tion. J.A. 132. The jurisdiction of this Court rests
+
+on 28 U.S.C. 1254(1).
+                              (1)
+                                2                                                               3
+
+         STATUTORY PROVISIONS INVOLVED                                                    STATEMENT
+
+a 18 U.S.C. 1503 provides:                                    This case arises from the prosecution of respondent
+                                                           United States District Judge Robert Aguilar of the
+      Whoever corruptly, or by threats or force, or        Northern District of California. He was convicted
+   by any threatening letter or communication,             after a jury trial on two counts of a multi-count
+   endeavors to influence, intimidate, or impede any       indictment. One count charged respondent with ob-
+  grand or petit juror, or officer in or of any court      struction of justice, in violation of 18 U.S.C. 1503.
+  of the United States, or officer who may be serv-        The other count charged respondent with disclosing
+   ing at any examination or other proceeding be-          a wiretap with the intent of obstructing or imped-
+  fore any United States commissioner or other            ing it, in violation of 18 U.S.C. 2232(c). The en
+  committing magistrate, in the discharge of his          bane Ninth Circuit reversed the convictions on both
+  duty, or injures any such grand or petit juror          counts. Pet. App. la-28a.
+   in his person or property on account of any ver-
+  dict or indictment assented to by him, or on                1. In 1986 and 1987, as part of a nationwide
+   account of his being or having been such juror,        investigation of health care provider fraud, the San
+  or injures any such officer, commissioner, or           Francisco office of the Federal Bureau of Investi-
+  other committing magistrate in his person or            gation (FBI) was investigating Michael Rudy Tham,
+  property on account of the performance of his           a convicted former Teamster official, and Abe Chap-
+  official duties, or corruptly or by threats or force,   man, an individual with longstanding criminal ties
+  or by any threatening letter or communication,          who was then under indictment. Pet. App. 3a, 5a,
+  influences, obstructs, or impedes, or endeavors to      6a; 7 Tr. 983, 1008. Chapman had a distant family
+  influence, obstruct, or impede, the due adminis-        connection with respondent; Chapman's wife's daugh-
+  tration of justice, shall be fined not more than        ter had at one time been married to respondent's
+  $5,000 or imprisoned not more than five years,         brother. Pet. App. 8a. On April 12, 1987, the gov-
+  or both.                                               ernment applied to then-Chief Judge Peckham of the
+    18 U.S.C. 2232(c) provides, in relevant part:        United States District Court for the Northern Dis-
+                                                         trict of California for authorization to conduct elec-
+     Whoever, having knowledge that a Federal in-        tronic surveillance of Tham's business telephones,
+  vestigative or law enforcement officer has been        pursuant to 18 U.S.C. 2516. The application named
+                                                         Chapman as an individual whose communications
+  authorized or has applied for authorization under      were toe be intercepted. See 18 U.S.C. 2518(1) (b).
+                                                         By statute, the wiretap could run for no more than
+  chapter 119 [of Title 18] to intercept a wire,         30 days unless extended, see 18 U.S.C. 2518(5), and
+                                                         it expired on May 20, 1987. Pet. App. 5a. Begin-
+  oral, or electronic communication, in order to
+  obstruct, impede, or prevent such interception,        ning on July 15, 1987, however, Judge Peckham
+  gives notice or attempts to give notice of the
+                                                         signed a series of orders postponing the service of
+  possible interception to any person shall be fined
+  under this title or imprisoned not more than five
+  years, or both.
+                                              4                                              5
+
+notices of the wiretap on the interceptees and main-     ence Judge Weigel, met with respordent and called
+taining the secrecy of the wiretap through April 25,     him periodically with regard to the Section 2255
+1989. 7 Tr. 918-919.                                     motion. Respondent checked on the scheduling of the
+
+   On July 9, 1987, law enforcement agents saw           Section 2255 motion, and asked Judge Weigel if a
+respondent leave the federal courthouse with Chap-
+man. Pet. App. 3a, 5a-6a; 7 Tr. 964. On August 5,        hearing had been set. Pet. App. 3a-4a. In a taped
+the FBI advised Judge Peckham that Chapman and          conversation, respondent acknowledged that he "did
+respondent had been seen together. Pet. App. 6a. As     more than that" in connection with the case, although
+Judge Peckham later testified at trial, he warned       he stated that "[w]hat I did I did on my own."
+respondent four days later at an ABA reception          J.A. 12.
+"that in the course of a wiretap application that the
+name Abie Chapman had come up," that Judge Peck-            Meanwhile, the wiretap on Tham's telephones
+ham had prosecuted Chapman "in a notorious nar-         began again on September 11, 1987. Pet. App. 5a.
+cotic case" in 1951, and that Chapman "had been a
+member of a sinister East Coast criminal organiza-      On October 12, 1987, the wiretap once again expired,
+tion and that he was convicted and sentenced to a       but it was reinstituted on October 22, 1987, and
+substantial term." 7 Tr. 921. Judge Peckham testi-
+fied that he spoke to respondent because he was "con-   subsequently extended through May 8, 1988, when
+cerned that * * * associating with a notorious felon    it finally expired. Pet. App. 5a. By October 1987,
+would create an appearance of impropriety." 7 Tr.       the wiretap was directed in part at investigating the
+922. Judge Peckham "feared that Chapman might           apparent improper attempt by Tham and others to
+be going to use the judge's prestige of his office in   influence Judge Weigel, and Chapman continued to
+the furtherance of Chapman's interest." Jbid.           be named as an interceptee. Pet, App. 5a; Gov't
+
+   Tham wanted to have his prior conviction for em-     Exh. 1B. On January 13, 1988, the FBI obtained
+bezzlement and making false entries in union records
+overturned so that he could resume his union activ-    authorization to expand its electronic surveillance to
+ities. After consulting with Chapman and attorney      respondent's telephone. Gov't Exh. 1B.
+Edward Solomon, who had been a law school class-
+mate of respondent, Tham filed a motion under 28           The charge that respondent disclosed wiretap in-
+U.S.C. 2255 in mid-July 1987, seeking to vacate his    formation arose out of the events of February 6,
+prior conviction. Tham, Solomon, and Chapman           1988. On that date, Chapman visited respondent at
+hoped to use Chapman's and Solomon's ties to re-       his house. As Chapman was leaving, respondent
+spondent to obtain help and advice from respondent     noticed a surveillance unit on the street in front of
+with regard to the Section 2255 motion. Chapman        his house. Pet. App. 7a. Respondent immediately
+and Solomon, who hoped to have respondent influ-       called his nephew, Steve Aguilar, and asked him to
+                                                       come to his house "right now, it's very, very urgent."
+                                                       Tape N-504. Respondent stated that "Tijt'll only
+                                                       take a minute, but it's very important you come here
+                                                       please." Ibid. He also told Steve that "I need to get
+                                                       a message to [Chapman], who was just here a minute
+                                                       ago. * * * But I can't talk over the phone." Jbid.
+
+                                                       Steve testified at trial that, upon his arrival at re-
+                                     6                                                      7
+
+spondent's house, respondent told him that "he rec-        By April 1988, Judge Weigel became aware of the
+ognized a car taking off following Abie [Chapman]
+                                                        FBI investigation in this case. On April 23, 1988,
+and he recognized the driver as an FBI agent." 5 Tr.    Judge Weigel recused himself from Tham's case. 9
+
+824. Respondent also told Steve that "he had over-      Tr. 1236; Gov't Exh. 16. As he explained at trial,
+heard at work about the possibility of Abie's phone
+being wiretapped." 5 Tr. 825. Steve drove to Chap-      he did so because, if he denied Tham's motion,
+man's house and informed-Chapman of those facts.
+                                                        "[Tham's] lawyers could have claimed I was influ-
+Ibid. Later that day, respondent again called Steve    enced by the FBI and their investigation." 9 Tr.
+
+and asked him to come to his house. When Steve          1245. On the other hand, he believed that if he
+arrived, respondent asked Steve if he had seen Chap-   granted Tham's motion, "the claim could have been
+man. Steve assured respondent that he had given
+respondent's message to Chapman. 5 Tr. 826-827.        made that I was I w i a n s flu n e o n t c . e " d Jbi b d y . Judge Aguilar, which
+Respondent explained to Steve that he called Steve        On May 17, 1988, respondent and Solomon met for
+over, rather than talking to him on the telephone,
+because he "didn't really know what phones were        lunch. Solomon was cooperating with the govern-
+tapped." 5 Tr. 828.                                    ment by this time and was secretly recording the
+
+   Thereafter, Chapman used an alias ("Dr. Green')     conversation. J.A. 5-42. During lunch, respondent
+when he called respondent. See, e.g., Tape O-1449,
+0-2022, 0-3092. On February 29, 1988, Chapman          said that he "knew" the FBI was wiretapping Chap-
+told Tham that someone "very big" had told him that    man because Judge Peckham had told him. J.A. 7.
+his telephone was tapped. Tape M-1189. Respondent,     Respondent made quite clear that, in his view, Chap-
+Chapman, Tham, and Solomon continued to discuss        man's telephone was "definitely tapped." J.A. 21.
+Tham's Section 2255 motion. In conversations with      Respondent admitted that he "told [his] nephew"
+Chapman ("Dr. Green"), respondent discussed Sol-      about the tap of Chapman's telephone and that he
+omon's representation of Tham. On April 20, for       had said to the nephew "TI want you to tell him not
+example, Chapman called respondent, who requested     over the phone," but to "get to his house and tell
+that Chapman "ask * * * Solomon to call me to-        him." Ibid. Respondent also stated that
+day." Tape O0-6238. Chapman relayed the message
+to Tham. Tape H-6276. Using an agreed-upon code,             once I found out that they were tapping the
+Tham gave the message to Solomon. Tape H-6289,
+                                                             guy's phone the first thing I ask him, where are
+H-6299. As Solomon later reported back to Tham,
+                                                             you calling me from? The pay phone. See I can
+when he called respondent, respondent dictated the           hear the traffic. It's okay. What do you want?
+language for a motion requesting a hearing on                I wouldn't talk to him any other time. One time
+Tham's Section 2255 motion and told Solomon to file         he called me I said where you calling me from?
+it. Tape J-4494.                                            Marilyn's [respondent's former sister-in-law's]
+                                                            house. I said well I'm busy right now you'll have
+                                                            to call me some other time.
+                                                      J.A. 27. Respondent also told Solomon to tell the
+                                                      authorities that "I [respondent] had nothing to do
+                                       8                                                       9
+                                                              Respondent made a number of false statements to
+with you regarding this case," J.A. 13, and that, if       the agents. For example, respondent stated that he
+Solomon needed to call respondent at his chambers, he      had found out "recently" that Solomon was Tham's
+should "just say on, over the phone just say to me         lawyer. J.A. 73. He stated that he "simply didn't
+                                                           discuss" the Tham case with Solomon, J.A. 76, even
+god I ran into some of our. . . our classmates" and        when the two had had lunch together. J.A. 74. See
+`"`we oughta have lunch together." J.A. 40. Finally,       also J.A. 81 ("I never discussed it with Solomon'"').
+respondent told Solomon that, if asked concerning his      He said that Solomon had asked him "how to proceed
+contact with Solomon, he was going to claim Solomon        on a um wrongful termination or employment dis-
+asked for advice about a "wrongful discharge" case,       crimination" case. J.A. 78.
+a subject that the two had in fact discussed many             Agent Carlon informed respondent that Chapman
+months before. J.A. 32. At the end of the lunch,          had been observed leaving his house to make calls
+respondent stated, "As far as I'm concerned we dis-       from a pay telephone and then immediately return-
+cussed a wrongful termination case." J.A. 42.             ing home. Carlon stated his v`ew that Chapman was
+                                                          acting like those who "sispect perhaps that their
+   On May 26, 1988, respondent and Solomon met            phones are tapped." J.A. 83. Respondent replied,
+again for lunch, and Solomon once again secretly          "Well he can't have learned that from me because I
+taped their conversation. J.A. 43-63. Solomon told        don't. . . I don't know anything about that." Jbid.
+respondent that FBI agents had interviewed him and        Respondent also denied that he had "ever f[ou]nd
+informed him that "there's a grand jury goin' on          out or learn[ed] of any wire tap order on Abe Chap-
+now," that they had "subpoenaed [Solomon's] toll          man." J.A. 84. See also J.A. 86. At the conclusion
+calls," and that Solomon would be subpoenaed to ap-       of the interview, respordent returned to the subject
+pear as a witness. J.A. 47. During the conversation,     of his conversations with Chapman and stated:
+respondent stated that "if they subpoena me I may               As you can see my conversations with him aren't
+have a problem. A real problem explaining my dis-               very long, you know, and my and my visits with
+cussions with Judge Weigel. It depends on what                  him aren't very long. He'll call me and say well
+Judge Weigel says." J.A. 51. When Solomon told                  I saw your mother and father and they're fine
+respondent that "[i]f anything develops I'll try to get
+in touch with you," respondent instructed, "Always                       e.
+call me by pay phone." J.A. 62.
+                                                         J.A. 94. At that point, the transcript indicates
+   The obstruction of justice count arises from a        "(laughter)," followed immediately by respondent's
+secretly recorded interview with respondent conducted    adding: "And that's it." bid.
+on June 22, 1988, by Agent Carlon and another agent
+of the FBI. J.A. 64-95. The two agents visited re-          Early in the interview, respondent asked whether
+spondent and informed respondent that there had          he was "some kind of a target" of the investigation
+been an allegation that, at Chapman's request, re-       and stated that he "assume[d] from this * * * that
+spondent had "attempted to intervene" in Tham's
+Section 2255 motion. J.A. 68.
+                                      10                                                11
+
+I very likely am if I've done anything wrong." J.A.      He was acquitted on the four remaining counts. Re-
+68. Agent Carlon responded, "Yeah." Jbid. Later,         spondent was sentenced to concurrent sentences of
+respondent asked again if he was "the target." J.A.      six months' imprisonment and ordered to pay a
+86. Agent Carlon stated that "certainly some of this     $2,000 fine. See Pet. App. 4a, 30a, 106a. Meanwhile,
+evidence is pointing in your direction and I'd have      Tham was convicted in a separate trial on one count
+to say yes * * * there is a Grand Jury meeting"          of conspiracy and one count of obstruction of justice.
+and that "some evidence will be heard I'm... I'm         See United States v. Tham, 960 F.2d 1391 (9th Cir.
+sure on this issue." Jbid. Respondent again said         1991). Chapman pleaded guilty to the conspiracy
+that he was "concerned" that a grand jury would          charge. See id. at 1398 n.1.
+meet "to determine whether or not they should re-        3. A divided panel of the Ninth Circuit affirmed
+turn some indictment * * * against me for obstructing    in part and reversed in part. Pet. App. 29a-113a.
+justice." J.A. 85.                                       The result hinged on the adequacy and effect of the
+                                                         knowledge instruction given to the jury, which was
+   2. On June 13, 1989, an eight-count indictment        derived from the Model Penal Code's definition of
+                                                         knowledge. Judge Hall found that knowledge instruc-
+was returned against respondent, Tham, and Chap-         tion correct, and would have affirmed the convictions
+man. J.A. 96-107. Respondent was charged with            on both counts. Jd. at 31a-57a. Judge Hug believed
+conspiring to defraud the United States and to en-       that the knowledge instruction was incorrect, that
+deavor to obstruct justice, in violation of 18 U.S.C.    the error was not harmless as to either count, and
+371; four counts of endeavoring to obstruct justice,
+                                                         that both counts were defective for other reasons as
+in violation of 18 U.S.C. 1503; two counts of illegally  well. He would therefore have reversed the convic-
+                                                         tions on both counts. Jd. at 65a-10la. J udge O'Scann-
+disclosing a wiretap application, in violation of 18     lain agreed with Judge Hug that the knowledge
+U.S.C, 2232(c); and one count of violating the Rack-     instruction was incorrect, but he viewed that error
+eteer Influenced and Corrupt Organizations Act           to be harmless as to the wiretap disclosure count.
+(RICO), 18 U.S.C. 1962(c). On March 19, 1990,            Id. at 102a-118a. Accordingly, the panel affirmed
+a jury acquitted respondent on one count of obstruct-    respondent's conviction on the wiretap disclosure
+ing justice and deadlocked on the remaining counts       count and reversed his conviction on the obstruction
+against respondent and the other defendants. Pet.        of justice count. Jd. at 30a.
+                                                            On the government's appeal of respondent's sen-
+App. 4a, 30a.                                            tence, the panel remanded the case to the district
+                                                         court for resentencing, holding that the district court
+   The cases were severed, and the trial court granted   had failed to provide a reasoned explanation for its
+the government's motion to dismiss the RICO count        downward departure at sentencing.
+and one of the obstruction of justice counts against
+                                                         31a, 65a & n.1, 106a-112a.
+respondent. After a retrial, respondent was found
+
+guilty on one count of obstruction of justice and one
+count of illegally disclosing a wiretap application.
+
+                                                                                            Pet. App. 30a-
+                                 12                                                          13
+                                                            the court held that the 1988 amendment nonetheless
+   4. On rehearing en banc, the Ninth Circuit re-           "indicates that the conduct [claimed to be in viola-
+versed respondent's convictions on both counts. Pet.        tion of Section 1503] must involve a defendant who
+App. la-28a. The court did not reach the question           `corruptly persuades . . . or attempts to [persuade ]'
+whether the knowledge instruction was adequate or,          a witness so as to influence his testimony." Jd. at
+if not, whether giving that instruction was harmless        22a. Since respondent was charged with obstructing
+error.                                                     the grand jury's investigation by making false and
+                                                           misleading statements to the FBI agents, and not by
+   With respect to the obstruction of justice count, the   attempting to "corruptly persuade" them to testify
+court observed that this prosecution was brought           falsely before the grand jury, the court concluded
+                                                           that no Section 1503 offense had been charged or
+under the so-called "omnibus clause" of Section 1503,      proven in this case. Jd. at 22a-24a. The court also
+which makes it an offense to endeavor to "corruptly        found support for its conclusion in the rule of lenity,
+or by threats or force, or by any threatening letter       and in the Fifth Amendment concerns that would in
+or communication, * * * influence, obstruct, or im-        its view result from "[{eJonstruing section 1503 so
+pede[] the due administration of justice." 18 U.S.C.       broadly as to cover making false and misleading
+1503. The court held that "the conduct charged in          statements to FBI agents." Jd. at 24a.
+the indictment and found by the jury does not consti-
+tute a violation of" that clause. Pet. App. 16a. In the       With respect to the wiretap disclosure count, the
+court's view, Congress had implicitly narrowed the         court held that the statute under which respondent
+broad language of the omnibus clause when it enacted       was charged, 18 U.S.C. 2232(c), does not prohibit
+and later amended another statute, 18 U.S.C. 1512.         disclosure of wiretaps if the authorization of which
+Pet. App. 19a-22a.                                         the defendant had knowledge had expired by the time
+                                                           the defendant made the disclosure. In the court's
+   Specifically, the court observed that attempts to
+obstruct justice by influencing a witness were orig-      view, a defendant could not have made a disclosure
+inally covered by Section 1503. Pet. App. 19a. In
+1982, Congress had removed all express references to      with the intent to interfere with "such interception" --
+witnesses from Section 1503 when it enacted Section       i.é., the interception contemplated in the wiretap
+1512, a new offense directed toward tampering with        application of which he had knowledge--if the inter-
+or influencing witnesses. Then, in 1988, Congress had     ception had in fact expired before he had made the
+amended Section 1512 in turn to make clear that it        disclosure. Pet. App. 9a. Although the court be-
+extended not only to coercion of witnesses, but also      lieved that interference with possible interception
+to non-coercive witness tampering, in which the de-       could result from disclosure of a pending wiretap
+fendant "corruptly persuades [a witness] * * * or         application or from disclosure of a still-active author-
+attempts to do so." 18 U.S.C. 1512(b). The court          ization, the court stated that "disclosure of an appli-
+acknowledged that the 1988 amendment did not alter        cation that already has been denied, or whose authori-
+Section 1503 and that it was enacted five months          zation already has expired, cannot possibly interfere
+after the conduct at issue here. Pet. App. 2la. But
+                                   14                                                        15
+                                                          ported the jury's findings that, when respondent lied
+with `such interception.'" Jbid. In reaching that         to the FBI agents, there was a pending grand jury
+conclusion, the court added that its analysis of the      proceeding and respondent knew of that proceeding.
+statute was supported once again by the rule of
+lenity, id. at 9a-10a, and by the "substantial" impact   The evidence also was sufficient to show that respond-
+on First Amendment interests that it believed could
+result from reading the statute to "bar[] disclosure      ent made a serie of false statements to the FBI
+of a wiretap application many months or years after      agents with the intent that they be reported to the
+the fact," id. at lla.                                   grand jury and obstruct its investigation. Under the
+                                                         plain meaning of the omnibus clause of Section 1503,
+   Judge Fernandez, joined by Chief Judge Wallace,       that conduct constituted a corrupt endeavor to ob-
+dissented from the court's reversal of the conviction    struct justice. Accordingly, respondent was properly
+on the wiretap disclosure count. Pet. App. 25a-28a.      convicted of violating Section 1503.
+In Judge Fernandez's view, the plain language of the
+statute requires the government to prove only "that         The court of appeals erred in limiting the scope of
+[respondent] knew that a wiretap had been applied        the omnibus clause of Section 1503 on the ground
+for; that [respondent] intended to obstruct or im-       that some of its protections are duplicated in 18
+pede the interception for which the application was      U.S.C. 1512, a statute protecting against witness
+designed to obtain authorization; and that [respond-     tampering. Congress did not alter or amend the
+ent] gave or attempted to give notice of the possible    omnibus clause of Section 1503 when it enacted Sec-
+interception." Jd. at 25a. Judge Fernandez explained     tion 1512 in 1982 or when it amended Section 1512
+that, because the evidence was more than adequate        in 1988. Although the 1982 legislation did remove
+to prove those three elements, respondent's conviction   the express references to witnesses from other clauses
+under Section 2232(c) should be affirmed. In Judge
+Fernandez's view, so long as respondent "attempt[ed]     in Section 1503, the effect of doing so was simply to
+to give a notice that would interfere with a wiretap,"
+the fact that the wiretap of which he had notice had     remove specific language in Section 1503 that became
+in fact expired was of no relevance. Jd. at 26a.        redundant with the enactment of the new statute.
+                                                        And the 1988 legislation on which the court of ap-
+                     SUMMARY OF ARGUMENT                peals relied in construing the omnibus clause did not
+                                                        change Section 1503 at all. There is no reason to
+   The obstruction of justice offense defined by the    believe that Congress intended to alter the applica-
+omnibus clause of Section 1503 requires proof that      bility of the omnibus clause of Section 1503 in ac-
+there was a pending proceeding, that the defendant      cordance with its terms.
+had knowledge of that proceeding, and that the de-
+fendant "corruptly * * * endeavor[ed] to influence,        The court of appeals also erred in reversing re-
+obstruct, or impede[] the due administration of jus-    spondent's conviction for wiretap disclosure under
+tice" in that proceeding. The evidence at trial sup-    18 U.S.C. 2232(c). The text of that statute requires
+                                                        proof that a defendant knew of an application to
+
+                                                        intercept conversations, intended to obstruct such in-
+
+                                                        terception, and attempted to give notice of the pos-
+                                                        sible interception. There is no basis for the court of
+                                      16                                                       17
+                                                           administration of justice." United States v. Williams,
+appeals' holding that a defendant charged with vio-        874 F.2d 968, 977 (5th Cir. 1989); see also United
+lating Section 2232(c) may not be convicted if, un-        States v. Barfield, 999 F.2d 1520 (11th Cir. 1993) ;
+                                                           United States v. Biaggi, 858 F.2d 89, 104 (2d Cir.
+beknownst te him, the interception of communications       1988), cert. denied, 489 U.S. 1052 (1989). Among
+                                                           the proceedings protected by the statute are grand
+had not been authorized or the authorization had ex-       jury proceedings. See, e.g., United States v. Capo,
+pired by the time he made his disclosure. The statu-       791 F.2d 1054, 1070 (1986), vacated in part on other
+tory language requires that the defendant intend to        grounds on reh'g en bane, 817 F.2d 947 (2d Cir.
+obstruct the interception; it does not require that the    1987) ;United States v. Simmons, 591 F.2d 206, 208
+interception actually be occurring at the time of the      (3d Cir. 1979); United States v. Howard, 569 F.2d
+disclosure. And the statute's requirement that the         1331 (5th Cir.), cert. denied, 439 U.S. 834 (1978).
+defendant give notice of the "possible interception"
+specifically recognizes that the government need not          Viewed in the light most favorable to the govern-
+                                                           ment (as the verdicts of guilty require), the evidence
+prove that the interception was actually occurring at      in this case was ample to support the jury's finding
+                                                          that each of those elements was established. And,
+the time of disclosure in order to obtain a conviction.   contrary to the court of appeals' holding, there is no
+If, after acquiring knowledge of the application to in-   basis for concluding that respondent did not obstruct
+tercept communications, the defendant discloses the       justice because his misconduct involved making false
+possibility of interception to others, he has violated    statements to prospective grand jury witnesses.
+the statute.
+                                                                    A. The Evidence At Trial Established The Elements
+                                  ARGUMENT                              Of An Obstruction Of Justice
+
+    I. SECTION 1503 PROHIBITS MAKING FALSE AND               At the time of respondent's interview with the FBI
+         MISLEADING STATEMENTS TO A POTENTIAL             agents on June 22, 1988, it is undisputed that there
+         GRAND JURY WITNESS WITH THE INTENT OF            was a pending grand jury proceeding. There likewise
+         OBSTRUCTING A GRAND JURY PROCEEDING              can be no serious dispute that respondent had knowl-
+                                                          edge of the pending grand jury proceeding. In the
+    The "omnibus clause" of 18 U.S.C. 1503 makes it       tape-recorded conversation with Solomon on May 26,
+                                                          1988--a month before the June 22 interview with the
+a crime to                                                FBI agents on which the obstruction of justice
+                                                          count was based--Solomon informed respondent that
+       corruptly or by threats or force, or by any         `there's a grand jury goin' on now," that the FBI
+       threatening letter or communication, influence[],  agents had informed him that they had "subpoenaed
+       obstruct[], or impede[], or endeavor[] to influ-   [Solomon's] toll calls," and that Solomon had been
+       ence, obstruct, or impede, the due administration  told he would be subpoenaed to appear as a witness.
+       of justice.
+
+A violation of that clause requires proof of the fol-
+lowing elements: `"(1) there must be a pending judi-
+cial proceeding; (2) the defendant must have knowl-
+edge or notice of the pending proceeding; and (3) the
+defendant must have acted corruptly with the specific
+ intent to obstruct or impede the proceeding in its due
+                                      18                                                             19
+
+J.A. 47. In that same conversation, respondent made              the Tham case with Solomon, and his "cover story"
+clear that he understood that there was an ongoing               that he and Solomon had simply talked about a wrong-
+grand jury investigation. He stated that                         ful termination case--were made with intent to mis-
+                                                                 lead the grand jury and avoid testifying himself
+      if they subpoena me I may have a problem. A                before the grand jury. See pp. 8-10, supra. That
+      real problem explaining my discussions with                course of action constituted "corrupt" conduct under
+      Judge Weigel. It depends on what Judge Weigel              Section 1503, and the evidence showed that respond-
+      says.                                                      ent performed it with the intent to obstruct a grand
+                                                                 jury proceeding. See United States v. Grubb, 11 F.3d
+J.A. 51. In addition, at the beginning of the June 22            426, 437 (4th Cir. 1993) (omnibus clause applies as
+interview, the FBI agents informed respondent that               long as the person who lied to a potential grand jury
+                                                                 witness knew of the pending grand jury proceeding
+he was a "target" of the investigation, J.A. 68, and             and "acted corruptly, that is with the intent to in-
+                                                                 fluence, obstruct, or impede that proceeding').
+respondent voiced concern to FBI Agent Carlon that
+he would be indicted "for obstructing justice," J.A.                Courts have long recognized that closely analogous
+88.                                                              action to mislead the grand jury constitutes "cor-
+                                                                 rupt" conduct, in violation of the omnibus clause of
+   The evidence also supported the jury's conclusion             Section 1503. For example, the courts of appeals
+that respondent acted "corruptly" with intent to ``ob-           have uniformly recognized that obstruction of justice,
+struct * * * the due administration of justice." 18              in violation of the omnibus clause of Section 1503,
+U.S.C. 1508. Respondent made false statements to                 may be committed by submitting false, forged, or
+FBI agents to minimize his involvement in a matter               altered documents to a grand jury. See, e.g., United
+under grand jury investigation. He understood that               States v. Rankin, 870 F.2d 109, 112 (3d Cir. 1989);
+his false statements would be provided to the grand              United States v. Nelson, 852 F.2d 706, 711-712 (3d
+jury, J.A. 86-88, and he made those statements with
+the intent to thwart the grand jury investigation."              Cir.), cert. denied, 488 U.S. 909 (1988); United
+The evidence showed that respondent's false state-               States v. McComb, 744 F.2d 555, 559 (7th Cir. 1984) ;
+ments--including his statement that he had no knowl-             United States v. Faudman, 640 F.2d 20, 23 (6th Cir.
+edge concerning the Chapman wire tap, his denial of              1981) ; United States v. Walasek, 527 F.2d 676, 679-
+knowledge concerning the relationship between Solo-              680 (3d Cir. 1975). Obstruction of justice may also
+ mon and Tham, his statement that he did not discuss             occur even when the false documents had not been
+                                                                 subpoenaed by the grand jury and were not produced
+    1The jury was specifically instructed that "[t]he thrust of  directly to the grand jury. For example, in United
+ this count is not that [respondent] lied to the FBI because     States v. Shoup, 608 F.2d 950, 959-963 (3d Cir.
+ that's not a violation of a particular law we're concerned      1979), the defendant submitted a misleading report
+ with here." J.A. 126-127. Instead, the jury was instructed      to the United States Attorney, knowing that the con-
+ that the issue in this case was whether respondent "en-
+ deavored in those interviews, whether the FBI people or not,
+ to in some way impede, interfere with or obstruct the func-
+ tioning of that grand jury." J.A. 127.
+                                20                                                                21
+
+tents of that report would be given to a sitting grand               Respondent's conduct had the same effect as the
+jury. Id. at 962. The Third Circuit affirmed the con-            submission of false or misleading documents or testi-
+viction, rejecting the defendant's argument that he              mony to a grand jury. The only distinction between
+could not have violated Section 1503 "because his                the misconduct in those cases and respondent's mis-
+report was requested by the United States Attorney,              conduct is that respondent's particular method of
+not the grand jury." Jbid. Because the defendant                 obstructing justice was to make false oral statements
+"knew that his report would likely be submitted to               to FBI agents whom, he knew, would report those
+the grand jury and that he would be called to testify            statements to the grand jury. Cf. Costello v. United
+about his findings," ibid., the court affirmed his con-          States, 350 U.S. 359 (1956) (grand jury may return
+viction. And, as respondent has conceded, "the courts            valid indictment based solely on hearsay testimony
+have routinely applied Section 1503 to false testimony           of FBI agents). But a defendant can as readily
+to the grand jury." Br. in Opp. 19.'                             obstruct justice through the medium of false state-
+                                                                 ments to witnesses as through the medium of false
+   2 The majority of the courts of appeals that have addressed   documents or testimony, and both of those forms
+the issue have so held. E.g., United States v. Grubb, 11 F.3d    of misconduct violate the omnibus clause of Section
+426, 436-487 (4th Cir. 1993); United States v. Williams, 874     1503. In short, the jury's finding that respondent
+F.2d 968, 976-982 (5th Cir. 1989); United States v. Gonzalez-    made his false statements with the intent to obstruct
+Mares, 752 F.2d 1485, 1491-1492 (9th Cir.), cert. denied, 473    the grand jury proceedings was supported by the evi-
+U.S. 918 (1985); United States v. Walasek, 527 F.2d 676,         dence, and all of the elements of a violation of the
+679-681 (3d Cir. 1975); United States v. Cohn, 452 F.2d 881,     omnibus clause of Section 1503 were made out.
+883-884 (2d Cir. 1971), cert. denied, 405 U.S. 975 (1972);
+cf. United States v. Lavelle, 751 F.2d 1266, 1270 (D.C. Cir.)            B. The Omnibus Clause Of Section 1503 Applies To
+ (defendant caused false and misleading statement to be sub-
+mitted to agency, in violation of 18 U.S.C. 1505, the adminis-                 Misleading Statements Made To A Potential Grand
+trative counterpart to Section 1503), cert. denied, 474 U.S.
+817 (1985). But see United States v. Essex, 407 F.2d 214                      Jury Witness
+ (6th Cir. 1969) (false statements in affidavit filed with dis-
+ trict court not covered by omnibus clause of Section 1503).        In overturning respondent's conviction for obstruc-
+                                                                 tion of justice, the court of appeals held that a special
+    The same principles have also been applied outside the       requirement exists under Section 1503 for cases in-
+ grand jury context. See, e.g., United States v. Barber, 881     volving potential grand jury witnesses. When the
+ F.2d 345, 351 (7th Cir. 1989) (submission of forged letters     defendant is charged with endeavoring to obstruct a
+ to judge to influence sentencing of a defendant in another      grand jury investigation by conduct directed toward
+ case), cert. denied, 495 U.S. 922 (1990); United States v.      a prospective grand jury witness, the court held, the
+ Barfield, 999 F.2d at 1522, 1524 (confidential informant pro-   conduct may be prosecuted under the omnibus clause
+ vided false information to attorney for defendant, so that      of Section 1503 only if it can be characterized as an
+ informant's own testimony would be impeached and defendant      attempt to "corruptly persuade[]" the witness. Pet.
+ would not be convicted).                                        App. 22a, 24a. In the court's view, although "threats,
+                                                                 force, bribery, [or] extortion" would satisfy that re-
+                                22                                                          23
+
+quirement, id. at 23, "making a false statement to a     § 4(a), 96 Stat. 1249-1253, which included provisions
+potential witness" would not, id. at 22a. Applying       that duplicated the references to witnesses in Section
+that requirement to the facts of this case, the court    1503. To eliminate that duplication, Congress re-
+found that respondent's endeavor to obstruct the         moved the specific references to witnesses from Sec-
+grand jury was not prohibited by the omnibus clause      tion 15038. VWPA § 4(c), 96 Stat. 1253. Those dele-
+of Section 1503.                                         tions "left untouched" the omnibus clause of Section
+                                                         1503 that is at issue here. United States v. Moody,
+   The court of appeals' conclusion is erroneous. In     977 F.2d 1420, 1424 (11th Cir. 1992), cert. denied,
+narrowing the scope of the omnibus clause with re-       113 S. Ct. 1348 (1993).
+spect to witness-related misconduct, the court of ap-
+peals took note of the enactment in 1982 of a separate      a. Before the 1982 amendments, the introductory
+statute specifically -addressed to witness tampering,    clause of Section 1503 proscribed endeavors "cor-
+18 U.S.C. 1512, and then relied heavily on the amend-    ruptly, or by threats or force, or by any threatening
+ment of Section 1512 in 1988. But the fact remains
+                                                         letter or communication, * * * to influence, intimidate,
+that, throughout the entire period, the portion of Sec-  or impede any witness" in a federal court proceeding.
+tion 1503 under which respondent was charged--the        18 U.S.C. 1503 (1976). In 1982, the VWPA added
+omnibus clause--remained unchanged. A _ natural          a new provision to federal law, codified at 18 U.S.C.
+                                                         1512, to address witness tampering. § 4(a), 96 Stat.
+reading of the text of that clause, both before and      1249-1250. The new provision proscribed "knowingly
+after the enactment of Section 1512, is that it pro-     us[ing] intimidation or physical force, or threaten-
+hibits all forms of conduct intended to mislead or       [ing] another person, or attempt[ing] to do so, or
+obstruct the grand jury, including making false          engag[ing] in misleading conduct" with intent to
+statements to potential witnesses with the intent that   "influence * * * testimony" or "cause * * * any
+those statements be reported to a grand jury to          person to" withhold or alter testimony or documents,
+thwart its investigation. Neither the 1982 enactment     evade legal process, or communicate information re-
+of Section 1512 nor the 1988 amendment to Section        garding a federal crime to law enforcement officers
+1512 provides any basis for altering that conclusion.    or federal courts. 96 Stat. 1249.
+
+   1. The scope of the omnibus clause was not af-           Section 1512(b) differed in several specific respects
+fected by the 1982 amendments. Section 1503 has al-      from the clause of Section 1503 it replaced. For ex-
+ways contained an omnibus clause; in addition, the       ample, Section 1503 requires a pending federal pro-
+original version of Section 1503 included two specific   ceeding. See, e.g., United States v. Williams, 874
+references to witnesses. The first primarily addressed   F.2d 968, 977 (5th Cir. 1989). The new provision,
+efforts to influence or affect witnesses before their    however, applied if the witness was anticipated to
+testimony, while the second primarily addressed in-      testify at an "official proceeding," which "need not be
+juring witnesses because of testimony already given.     pending or about to be instituted at the time of the
+See 18 U.S.C. 1503 (1976) (quoted at Pet. App. 19a       offense." 18 U.S.C. 1512(e)(1). The new Section
+n.5). In 1982, Congress enacted the Victim and Wit-      1512 also applied regardless of whether the defendant
+ness Protection Act (VWPA), Pub. L. No. 97-291,
+                                   24                                                     25
+
+knew that the official proceeding was federal in char-    prohibition against "corruptly * * * endeavor[ing]
+
+acter, rather than state or local. 18 U.S.C. 1512(f).     to influence, obstruct, or impede[] the due adminis-
+Section 1512 was narrower in one important respect.       tration of justice" in the omnibus clause of Section
+Perhaps unwittingly, Congress neglected to include        1503 remained the primary source of protection in
+in it a prohibition of attempts to bribe or otherwise     federal law against obstruction of justice.
+corruptly persuade a witness. The significance of
+that omission became the subject of debate in the            It is true that some conduct that violates Section
+courts of appeals. See pp. 28-29, infra. But whether      1503 would also violate the new prohibitions in Sec-
+or not that omission was intended, the scope of the       tion 1512 or Section 1513. But it is a familiar prin-
+new provision at least substantially overlapped that      ciple in the criminal law that the same conduct may
+of the clause it replaced in Section 1503. Accordingly,   constitute an offense under two distinct statutes, and
+Congress in the VWPA deleted the specific proscrip-       that in such a situation the government has the option
+tion in Section 1503.                                     to proceed under either one. See, e.g., United States
+                                                          v. Batchelder, 442 U.S. 114, 123-126 (1979) (citing
+   Before the enactment of the VWPA, Section 1503         cases); United States v. Beacon Brass Co., 344 U.S.
+also included one other specific reference to witnesses:  43, 45-46 (1952). There is therefore no reason to
+it proscribed "injur[ing] any * * * witness * * * on      assume that Congress made an implicit decision in
+account of his attending * * * or on account of his       the VWPA to eliminate any possible overlap between
+testifying" in a federal court. 18 U.S.C. 1503            the omnibus clause of Section 1503 and the new pro-
+(1976). At the same time as Congress enacted Sec-         visions specifically directed at witness-related offenses.
+                                                          Indeed, even the court of appeals in this case did not
+tion 1512, it also enacted 18 U.S.C. 1513. VWPA           adopt the theory that Sections 1503 and 1512 are
+$4(a), 96 Stat. 1250. That provision proscribes,          mutually exclusive. Pet. App. 22a. And any holding
+inter alia, "caus[ing] bodily injury to another person    that the two statutes are mutually exclusive would
+* * * or threaten[ing] to do so, with intent to           place prosecutors in the difficult position of having to
+retaliate against any person for * * * the attendance     elect in advance between two provisions that both
+of a witness * * * at an official proceeding, or any      apparently apply to a particular course of conduct,
+testimony given or any record, document, or other         with the risk that a reviewing court might later con-
+object produced by a witness in an official proceed-      clude that the wrong statute had been invoked. Ab-
+ing." 18 U.S.C. 1513(a)(1). As with Section 1512,         sent express language requiring that result, an inten-
+Section 1513 substantially overlapped the clause in       tion to impose that burden on the criminal justice
+Section 1503 that it replaced. Accordingly, Congress      system should not be attributed to Congress.
+deleted the specific prohibition on injuring a witness
+from Section 1503.                                           Nor is there any reason to attribute an intent to
+                                                          Congress to remove all misconduct involving wit-
+   b. Because the VWPA did not alter the scope of         nesses from the scope of Section 1503. Because Con-
+the omnibus clause of Section 1503, misconduct that       gress did not alter the text of the omnibus clause in
+violated that clause before 1982 continued to be          any respect when it enacted the VWPA in 1982, the
+within its scope after the 1982 enactments. The broad
+                                   26                                                            27
+
+conclusion that its substantive scope had changed          from making false statements to a potential grand
+would require a finding that the omnibus clause had        jury witness, because that conduct "is very different
+been partially repealed by implication. As this Court      from the other types of activities enumerated in
+has frequently explained, however, "[i]t is, of course,    section 1503." Pet. App. 23a. The omnibus clause,
+a cardinal principle of statutory construction that        however, stands as an additional broad prohibition
+repeals by implication are not favored." Randall v.        against obstructions of justice, and its purpose is to
+                                                           prohibit "more imaginative forms of criminal he-
+Lofisgaarden, 478 U.S. 647, 661 (1986); see, e.g.,         havior * * * that defy enumeration." United States
+                                                           v. Lester, 749 F.2d 1288, 1294 (9th Cir. 1984). That
+TVA y. Hill, 437 U.S. 153, 189-190 (1978); Morton          role of the omnibus clause would be frustrated by
+v. Maneari, 417 U.S. 585, 551 (1974); Posadas v.           limiting it to the specifically defined offenses in other
+                                                           clauses of Section 1503.
+National City Bank, 296 U.S. 497, 508 (1986).
+                                                              c. In United States v. Noweck, 273 U.S. 202
+When a new statute overlaps a portion of an older          (1927), this Court rejected reasoning that closely
+one, any legislative intent to repeal the earlier statute  paralleled the holding of the court of appeals here.
+must be manifest in a "positive repugnancy between         The court of appeals in that case had held that a
+                                                           statute prohibiting anyone from "willfully attempt-
+the provisions," United States v. Borden Co., 308          [ing] in any manner to defeat or evade" an income
+U.S. 188, 199 (1939), for "it is not enough to show        tax impliedly repealed the general perjury statute,
+                                                           insofar as that statute applied to perjurious state-
+that the two statutes produce differing results when       ments on a tax return. This Court reversed. The
+applied to the same factual situation." United States      Court noted that there "was confessedly no express
+v. Batchelder, 442 U.S. at 122 (internal quotation         repeal" and that "it is clear that the two sections are
+                                                           not inconsistent." Jd. at 206. Because the two of-
+marks omitted).                                            fenses "are entirely distinct in point of law, even
+   This case does not justify the invocation of either     when they arise out of the same transaction or act,"
+                                                           the Court found that the conclusion that "Congress
+of the two exceptions to the rule severely disfavoring     must have intended" an implied repeal "does not fol-
+implied repeals--where there is "irreconcilabie con-       low." Ibid. The Court applied the same analysis in
+flict" between the two statutes or where "the later act    Edwards v. United States, 312 U.S. 473, 484 (1941),
+covers the whole situation of the earlier one and is       in rejecting a claim that the enactment of a prohibi-
+                                                           tion against "the fraudulent sale of securities by
+clearly intended as a substitute." Randall, 478 U.S.       mail" in the Securities Act of 1933 "repeals by impli-
+at 661. There is no "conflict" or "positive repug-         cation the provisions of the old mail fraud statute in
+nancy" between Section 1512 and the omnibus clause         so far as they cover securities." See also United
+of Section 1503; both statutes define distinct criminal
+offenses, and, by refraining from committing both
+offenses, individuals may easily comply with both.
+Nor does Section 1512 cover "the whole situation"
+
+of the omnibus clause of Section 1503. Indeed, each
+statute prohibits substantial conduct that is not pro-
+hibited by the other.
+
+   The court of appeals indicated some reluctance to
+interpret the omnibus clause to prohibit a defendant
+                                   28                                                       29
+
+States v. Hirsch, 100 U.S. 33, 35 (1879). That analy-    dant's "engaging in misleading conduct toward [a]
+sis leads to the same conclusion here.                   grand jury witness * * * fall{s] within the terms of
+                                                         [both statutes]." Indeed, before this case, even the
+   All but one of the courts of appeals that have ad-    Ninth Circuit appeared to recognize that Congress's
+dressed the question have held that the enactment of     removal of the specific references to witnesses in Sec-
+Sections 1512 and 1513 did not alter the scope of        tion 1503 did not preclude the prosecution of at least
+                                                         some witness-tampering offenses under the omnibus
+the omnibus clause of Section 1503. For example,         clause of Section 1503. See United States v. Lester,
+                                                         749 F.2d at 1295-1296; see also United States v.
+in United States v. Kenny, 973 F.2d 339 (4th Cir.        Kulezyk, 931 F.2d 542, 546 & n.6 (9th Cir. 1991)'
+
+1992), the court affirmed a conviction under Section        d. The legislative history of the VWPA provides
+1503 for a witness-related offense, even though the      no support for truncating the scope of the omnibus
+same conduct could have been prosecuted under Section    clause of Section 1503. As reported by the Senate
+1512. The court held that "[t]he fact that § 1512        committee, the bill that evolved into the VWPA in-
+more specifically addresses improper conduct involv-     cluded an omnibus clause in Section 1512 that essen-
+ing a witness does not preclude application of § 1503."  tially tracked the omnibus clause of Section 1503 and
+973 F.2d at 342. Other courts have also concluded        that was not specifically tied to witness protection.
+that Section 1512 "is not the exclusive vehicle for      S. Rep. No. 532, 97th Cong., 2d Sess. 3 (1982) (quot-
+prosecution for witness tampering," and that Section     ing bill).* The "use of a broad residual clause" was
+1503 "is broad enough to cover such proscribed acts
+against witnesses." United States v. Moody, 977 F.2d        8 Only the Second Circuit has held that, in light of the enact-
+                                                         ment of Section 1512, witness-related offenses may not be
+at 1424. See United States v. Rovetuso, 768 F.2d         prosecuted under the omnibus clause of Section 1503. See
+809, 824 (7th Cir. 1985) ("it is entirely proper to
+charge defendants under § 1503 with interfering with     United States v. Hernandez, 730 F.2d 895, 899 (2d Cir. 1984)
+the due administration of justice when the conduct
+of the defendant relates to tampering with a wit-        (threat to kill a witness); United States v. Jackson, 805 F.2d
+ness"), cert. denied, 474 U.S. 1076 and 476 U.S.
+1106 (1986) ; United States v. Wesley, 748 F.2d 962,     457, 461 (2d Cir. 1986) (dictum), cert. denied, 480 U.S. 922
+965 (5th Cir. 1984) (relying on "clear" terms of
+Section 1503 to affirm convictions under both Section    (1987); see also United States v. Masterpol, 940 F.2d 760,
+1503 and Section 1512 for intimidating a witness),       762-763 (2d Cir. 1991). The Second Circuit concluded that
+cert. denied, 471 U.S. 1130 (1985); United States
+v. Marrapese, 826 F.2d 145, 148 (1st Cir.), cert.        Congress's 1982 removal of the specific references to witnesses
+denied, 484 U.S. 944 (1987).
+                                                         in Section 1503, coupled with a statement of a Senator in floor
+    In United States v. Risken, 788 F.2d 1361, 1369      debate on the bill, leads to the conclusion that the legislature
+ (8th Cir.), cert. denied, 479 U.S. 923 (1986), the
+court applied that principle in circumstances quite      "affirmatively intended to remove witnesses entirely from the
+similar to this case, affirming convictions under both
+Section 1503 and Section 1512 because the defen-         scope of § 1503." Hernandez, 730 F.2d at 898. For the rea-
+                                                         sons discussed in this brief, the Second Circuit's reasoning is
+                                                         unsound.
+
+                                                            * The Senate bill would have made it a crime to
+
+                                                               with intent corruptly, or by threats of force, or by
+                                                                any threatening letter or communication, influence[],
+                                   30                                                                31
+
+intended "to carry forward the basic coverage" of                      First, Senator Heinz addressed the omnibus clause.
+Section 1503, because "the purpose of preventing an                 He explained that the omnibus clause in the Senate-
+obstruction or miscarriage of justice cannot be fully               passed Section 1512 "was taken out of the bill as
+carried out by a simple enumeration of the commonly                 beyond the legitimate scope of this witness protection
+prosecuted obstruction offenses." S. Rep. No. 532,                  measure" and because it "also is probably duplica-
+supra, at 18. The bill would not have amended Sec-                  tive of [o]bstruction of justice statutes already in
+tion 1503 at all: both the omnibus clause and the                   the books." 128 Cong. Rec. 26,810 (1982). The
+specific references to witnesses were left intact.                  "duplicative" obstruction statutes to which he re-
+                                                                    ferred were Section 1503 and its administrative ana-
+   When the bill was sent to the House, it substituted              logue, 18 U.S.C. 1505. Far from demonstrating an
+its own version, which did not include the omnibus                  intent to eliminate all witness-related provisions from
+clause in Section 1512 and which did amend Section                  Section 1503, Senator Heinz thus relied on the con-
+1503 to eliminate the explicit references to witnesses.             tinued applicability of Section 1503 as the basis for
+See 128 Cong. Rec. 26,357, 26,358 (1982). There was                 removing what would have been "duplicative" cover-
+no committee report on the House bill. The Senate                   age in Section 1512.
+then further amended the bill, leaving intact the
+basic structure of the House bill, including the omis-                 Second, Senator Heinz stated that
+sion of the omnibus clause in Section 1512 and the
+elimination of the specific clauses referring to wit-                     18 U.S.C. 1503 already provides some witness
+nesses in Section 1503. See 128 Cong. Ree. 27,391                         protections--but only as to witnesses under sub-
+(1982) (discussing changes Senate made to this por-                       pena in active cases. The Senate passed bill al-
+tion of the bill). During the floor debate, Senator                       lowed a slight overlap between old section 1503
+Heinz, one of the initiators and primary backers of                       and new sections 1512 and 1513. The House
+the legislation, made two relevant statements concern-                    version amends section 1503 so it will make no
+ing the differences between the House and Senate                          mention of, and provide no protection to, su[b]-
+versions of the bill.                                                     penaed witnesses. The compromise accepts the
+                                                                          House position. By amending section 1503 in
+       obstruct[], impede[], or attempt[] to corruptly, or by             this way, the proposal will contribute to a clearer
+       threats of force, or by threatening letter or communica-           and less duplicative law.
+       tions, influence[], obstruct[], [or] impede[] the--
+                                                                    128 Cong. Rec. 26,810 (1982). That statement did
+                  (A) enforcement and prosecution of federal law;   not mean that the omnibus clause of Section 1503
+                  (B) administration of a law under which an offi-  no longer applied to witness-related offenses. Taken
+              cial proceeding is being or may be conducted; or      in context, the statement explained the removal of
+                                                                    the specific references to witnesses from Section 1503.
+                (C) exercise of a Federal legislative power of      In light of the enactment of Sections 1512 and 1513,
+                                                                    Congress believed those references to be duplicative.
+              inquiry.                                              The desire to eliminate that specific duplication, how-
+
+S. Rep. No. 532, supra, 2-3.
+                                    32                                                             33
+
+ ever, does not suggest that Congress intended to              what kind of non-coercive conduct toward witnesses
+ remove all witness-related offenses from the scope            is prohibited by Section 1512; it also should be used
+ of Section 1503, or to limit in some other way the            "as a guide to interpreting the pre-amendment sec-
+ scope of the omnibus clause of Section 1503. Indeed,          tion 1503." Jd. at 24a.
+ as Senator Heinz's earlier statements made clear, he
+ was relying on the continued protection of the omni-             The court of appeals was mistaken. Initially, as
+ bus clause to justify the omission of a virtually iden-       the court itself acknowledged, the 1988 amendment
+ tical clause from Section 1512.                               to Section 1512 was enacted "approximately five
+                                                               months after the conduct forming the basis for the
+    2. The omnibus clause was not narrowed by the              charge against [respondent] occurred." Pet. App.
+ 1988 amendment to Section 1512. In finding that               21a. The amendment accordingly could have had no
+Section 1503 did not embrace false statements to a
+grand jury witness, the court of appeals did not rely          effect on Section 1503 (or, for that matter, Section
+principally on the provisions enacted by the VWPA
+in 1982; rather, the court put its principal reliance          1512), as applied in this case. In addition, a dra-
+on an amendment to Section 1512 that Congress en-              matic leap of logic is required to conclude that Con-
+acted in 1988.° As originally enacted, Section 1512            gress's intent to amend Section 1512 to prohibit
+did not expressly prohibit bribery or similar uses of          certain conduct has any bearing on the proper inter-
+non-coercive means to persuade a witness to withhold           pretation of Section 1503, which the 1988 legislation
+testimony or testify falsely. In November 1988, Con-
+gress remedied that defect by adding the words "or             left entirely untouched. See United States v. Kenny,
+corruptly persuades" to Section 1512(b). Pub. L.
+No. 100-690, Tit. VII, Subtit. B, § 7029(c), 102 Stat.         973 F.2d at 343 ("[T]he 1988 amendment does not
+4398. See Pet. App. 2la. According to the court of             change the plain language of the omnibus clause of
+appeals, the "importance" of the amendment is that             18 U.S.C. § 1503 and does not, therefore, preclude
+by enacting it "Congress indicated what type of non-           its general application to acts that obstruct justice."').
+coercive conduct was meant to be proscribed with               Finally, the 1988 amendment did not in any way
+regard to witnesses." Jd. at 2la-22a. In the court's           address the conduct at issue in this case. Respond-
+view, the 1988 amendment does not merely establish             ent was not charged with "corrupt persuasion" of
+                                                               the FBI agents; he was instead charged with lying
+   5In 1986, Section 1512 had been amended to add what is      to the FBI agents with the intent that the false in-
+now designated 18 U.S.C. 1512(a), which makes it a federal     formation he provided would in turn be furnished
+                                                               to the grand jury and would obstruct its investiga-
+offense to kill or attempt to kill any person with intent to   tion. Even if it could be inferred that Congress in
+                                                               1988 intended that cases involving "corrupt persua-
+prevent the appearance of a witness, the production of evi-    sion" be prosecuted only under Section 1512 ard not
+dence, or the communication of information relating to crim-   under the omnibus clause of Section 1503 (and for
+inal offenses. Pub. L. No. 99-646, § 61, 100 Stat. 3614. That  the reasons given above, no such inference should be
+provision has no bearing on the issues in this case.           drawn), there would be no basis for the further
+                                                               inference that Congress intended in 19858 to remove
+                                    34                                                       35
+
+cases that did not involve "corrupt persuasion" from     sion of intent in a committee report on an amend-
+                                                         ment to one statute could affect the substantive scope
+ the scope of the omnibus clause of Section 1503.        of the criminal prohibition in another statute, which
+    The court of appeals' reliance on the 1988 amend-    remained unchanged. The most reasonable reading
+                                                         of the report is thus as a communication from Con-
+ment of Section 1512 "as a guide to interpreting         gress to the Executive Branch concerning how future
+the pre-amendment section 1503," Pet. App. 24a, is       prosecutions should be brought, not as an attempt
+particularly misplaced because the language of the       to amend Section 1503 by means of a committee
+two provisions is significantly different. The omni-     report. Cf. American Hosp. Ass'n v. NLRB, 499
+bus clause of Section 1503 has no direct counterpart     U.S. 606, 616-617 (1991). In any event, the com-
+to the phrase "or corruptly persuades" that Con-         mittee report, like the amendment to which it was
+gress added to Section 1512 in 1988. The omnibus         attached, addresses only cases of "corrupt persua-
+clause uses the all-embracing formulation "or cor-       sion," and it thus has no effect on cases like this that
+ruptly * * * endeavors to influence, obstruct, or        involve lying to prospective witnesses with the intent
+impede[] the due administration of justice." That        that the false information be communicated to the
+difference in language strongly undercuts the court      grand jury. The prohibition of such conduct in the
+of appeals' determination to accord the same scope       omnibus clause of Section 1503 was not affected by
+to the two formulations. Cf. Russello v. United          Congress's action in 1988.
+States, 464 U.S. 16, 23 (1983).
+                                                                  C. Neither The Fifth Amendment Nor The Rule Of
+   Respondent has argued (Br. in Opp. 16) that                         Lenity Supports The Court Of Appeals' Holding
+the court of appeals' conclusion finds support in
+the committee report on the 1988 amendment, which           The court of appeals also briefly appealed to what
+provides:                                                it viewed as Fifth Amendment concerns that would be
+                                                         raised by "[c]Jonstruing section 1503 so broadly as to
+      It is intended that culpable conduct that is not   cover making false and misleading statements to FBI
+      coercive or "misleading conduct" be prosecuted     agents." Pet. App. 24a. Had respondent invoked
+      under 18 U.S.C. 1512(b), rather than under the     his Fifth Amendment privilege and refused to speak
+       [omnibus] clause of 18 U.S.C. 1503. [The          with the FBI agents, his conduct would no doubt be
+      amendment], therefore, will permit prosecution     constitutionally protected. Although the Fifth Amend-
+      of such conduct in the Second Circuit, where such  ment protects an individual's right to remain silent,
+      prosecutions cannot now be brought, and will in    it does not protect his right to obstruct grand jury
+      other circuits result in such prosecutions being   proceedings through calculated false statements. See,
+      brought under 18 U.S.C. 1512(b).                   e.q., Bryson v. United States, 396 U.S. 64, 72 (1969)
+                                                         ("A citizen may decline to answer the question, or
+H.R. Rep. No. 169, 100th Cong., 1st Sess. 12 (1987)      answer it honestly, but he cannot with impunity
+(footnote omitted). That language expresses an in-
+tent that cases of "corrupt persuasion" could and
+should thenceforth be brought under Section 1512(b).
+Even as to such cases, it is doubtful that an expres-
+                                    36                                                         37
+
+knowingly and willfully answer with a falsehood.");        Federal investigative * * * officer has been author-
+United States v. Rodriguez-Rios, 14 F.3d 1040, 1049-       ized or has applied for authorization * * * to inter-
+1050 (5th Cir. 1994) (en bane). Accordingly, Fifth         cept a wire * * * communication." Second, there is
+Amendment concerns do not support the court of             an intent element: the government must prove that
+appeals' limitation of the scope of Section 1503.          the defendant disclosed information "in order to ob-
+                                                           struct, impede, or prevent such interception." Third,
+   Nor does the rule of lenity, upon which the court       there is the physical act of attempted disclosure:
+of appeals also relied, see Pet. App. 24a-25a, support     "gives notice or attempts to give notice of the possible
+its holding in this case. As this Court has repeatedly     interception." Contrary to the court of appea's' view,
+cautioned, "[t]hat maxim of construction is reserved       there is no requirement that a wiretap resulting from
+for cases where, after seizing every thing from which      the application of which the defendant has knowledge
+aid can be derived, the Court is left with an am-          must actually be in place when the defendant makes
+biguous statute." Staples v. United States, 114 S. Ct.     disclosure `"`of the possible interception."
+1793, 1804 n.17 (1994) (internal quotation marks
+and brackets omitted). The broad language of the              1. The knowledge element of the offense is satis-
+omnibus clause of Section 1503 leaves no room for          fied by showing that the defendant knew of either
+ambiguity concerning any issue in this case. Accord-       an authorization or an application for authorization
+ingly, the rule of lenity has no application here.         to intercept communications. The government's the-
+                                                           ory in this case was that respondent knew of and
+   II. SECTION 2232(c) PROHIBITED THE DISCLOSURE           divulged information regarding an application to
+        OF THE WIRETAP APPLICATION IN THIS CASE            intercept conversations in which Chapman was named
+                                                           as a potential interceptee.
+   Section 2232(c) of Title 18 protects the integrity
+of wiretaps that have been sought or authorized.              The evidence clearly established the knowledge ele-
+It provides, in relevant part:                             ment. Judge Peckham testified that, because he
+                                                           "feared that Chapman might be going to use the
+         Whoever, having knowledge that a Federal in-      judge's prestige of his office in the furtherance of
+      vestigative or law enforcement officer has been
+      authorized or has applied for authorization          Chapman's interest," 7 Tr. 922, he informed respond-
+      under chapter 119 [of Title 18] to intercept a       ent that "in the course of a wiretap application that
+       wire, oral, or electronic communication, in order   the name Abie Chapman had come up," 7 Tr. 921.
+      to obstruct, impede, or prevent such interception,   As respondent himself later explained to Solomon,
+      gives notice or attempts to give notice of the pos-  he "knew" the FBI was wiretapping Chapman be-
+      sible interception to any person shall be fined      cause Judge Peckham had told him that "the F.B.I.'s
+      under this title or imprisoned not more than five    up there getting * * * a * * * wire tap order on [Chap-
+      years, or both.                                      man]." J.A. 7. Respondent also confirmed the same
+                                                           fact to his nephew, who conveyed respondent's in-
+The statute requires proof of three elements. First,       formation about the wiretap to Chapman. Respond-
+there is a knowledge element: "knowledge that a            ent's nephew testified that when respondent told him
+                       38                                                                          39
+
+about the wiretap, respondent "did say that he had                The court of appeals erred in interpreting the
+                                                               term "such interception" to preclude conviction of
+overheard at work about the possibility of [Chap-              a defendant for disclosing a wiretap that had already
+                                                               expired by the time he made the disclosure. Nothing
+man's] phone be'ng wiret: pped." 5 Tr      |                   in the statutory language suggests that result. The
+                                                               words "such interception" are the object of the phrase
+2. The dispute in this case centers on the intent              "in order to obstruct." That phrase, in turn, iden-
+                                                               tifies the specific intent with which the defendant
+element of the offense. That element requires proof            must have acted and the object that the defendant
+                                                               sought to attain.' A defendant can intend to obstruct
+that the defendant disclosed or attempted to disclose          a wiretap that is not in operation, or even a wiretap
+                                                               that was never authorized. So long as the defendant
+information about either an application or authori-            acted with the object of obstruction, the intent ele-
+                                                               ment of the statute, as written by Congress, is
+zation to intercept telephone communications "in               satisfied.
+
+order to obstruct, impede, or prevent such intercep-              Indeed, the fact that the wiretap--unbeknownst to
+                                                               the defendant--was not in operation or had never
+tion." In our view, that means that the defendant              been authorized is generally of no relevance in deter-
+
+must have acted with the purpose of obstructing any            mining whether the defendant acted "in order to
+
+interception that may have resulted from the govern-           obstruct * * * such interception." Section 2232(c)
+                                                               prohibits disclosure of information learned from a
+ment's application. It does not require that the inter-        wiretap application, as well as information learned
+                                                               from a wiretap authorization order.* An individual,
+ception in fact be occurring at the time the defendant         like respondent, who learned of a wiretap application
+                                                               would ordinarily have no way of knowing whether
+makes his disclosure.
+                                                                  7 A leading dictionary defines "in order to" as "for the pur-
+a. The court of appeals believed that the term                 pose of." Webster's Third New International Dictionary 1588
+                                                               (1986). "Purpose" is defined as "something that one sets
+"such interception" in the phrase "in order to ob-             before himself as an object to be attained." Jd. at 1847.
+
+struct * * * such interception" precluded a convic-               * Cf. United States v. Zemek, 634 F.2d 1159, 1176-1177 (9th
+
+tion in this case. See Pet. App. 8a-9a. As the court           Cir. 1980) (in prosecution for obstruction of a criminal in-
+                                                               vestigation under 18 U.S.C. 1510, investigation need not be
+of appeals explained it, "no matter what `concrete
+                                                               taking place concurrently with proscribed acts), cert. denied,
+action' a defendant may take, if no wiretap exists             450 U.S. 916, 985, and 452 U.S. 905 (1981).
+
+or is currently authorized and if there is no pending
+
+application, there is no way that the defendant can
+
+obstruct or attempt to obstruct the possible intercep-
+
+tion of a wiretap." Jd. at 14a-15a. Therefore, ac-
+
+cording to the court, "because the wiretap had ex-
+
+pired at the time [respondent] acted, no violation
+
+of section 2232(c) occurred." Id. at 15a.
+
+   * The application did not in fact propose to tap Chapman's
+telephone, although Chapman was named as an intended
+interceptee of the wiretap for which application was made.
+See Pet. App. 5a. The court of appeals attributed no signifi-
+cance to the fact that a wiretap was not proposed for Chap-
+man's own telephone, and nothing in the statute suggests that
+anything turns on that fact.
+                                      40                                                            41
+
+or when the application had been initially approved                 The legislative history makes clear that Section
+or when the interception had begun. So long as he
+intended to bring about the forbidden result--i.e.,              2232(c) does not require that an authorization be
+so long as he ac' d "in order to obstruct * * * such             in effect or an application pending at the time the
+interception"--his state of mind satisfied the intent            defendant makes his disclosure. The Senate report
+element of the statute.                                          explained that the statute requires proof that "the
+                                                                 defendant have knowledge that the Federal law en-
+   That result follows directly from this Court's de-            forcement or investigative officer has been authorized
+cision in United States v. Russell, 255 U.S. 138                 or has applied for an interception order." S. Rep.
+
+(1921). In Russell, the defendant was indicted for               No. 541, 99th Cong., 2d Sess. 34 (1986). The report
+                                                                 went on to state that the authorization need not be
+an "endeavor" to influence a juror, in violation of the          in effect at the time the disclosure is made: "The
+statutory predecessor to Section 1503. The indict-
+                                                                 defendant must engage in conduct of giving notice
+ment, however, did not allege that the person who                of the possible interception to any person who was
+                                                                 or is the target of the interception." Jhid. (emphasis
+was the object of the defendant's approach had yet               added). The report also stated that "[t]he offense
+been selected or sworn as a juror when the defendant             also includes an attempt to engage in the offense,"
+made his approach. 255 U.S. at 142, 143. This Court              ibid., indicating that a prosecution may be brought
+held that fact immaterial, explaining that the defend-           even when the disclosure did not or could not have
+ant "had some purpose in his approach" and the word              actually interfered with the interception. The House
+"endeavor" describes "any effort or essay to accom-
+plish the evil purpose that the section was enacted              report included substantially identical language. H.R.
+to prevent." Jbid. The phrase "in order to" in Sec-              Rep. No. 647, 99th Cong., 2d Sess. 60-61 (1986).
+tion 2232(c) has much the same meaning as "en-
+deavor" in Section 1503: both describe the intent of                The jury instructions in this case accurately de-
+the defendant, not the result that is achieved. Accord-          scribed the intent requirement of Section 2232(c).
+ingly, just as in Russell, the defendant can be found            The court instructed that "it is not necessary that at
+to have acted with the requisite intent even if he
+could not achieve his goal.' See also Osborn v. United           case would not have constituted a viclation of Section 1503,
+States, 385 U.S. 323, 332-333 (1966).
+                                                                 because an independent element of a Section 1508 violation
+   *The court of appeals attempted to distinguish Russell,
+arguing that this case is analogous to what would have oc-       is that there be a pending proceeding, and that element would
+                                                                 not be satisfied. The analogous case under Section 2232(c)
+curred in Russell "had there been no trial contemplated at       would be if there had been no wiretap application at all, and
+                                                                 the defendant simply mistook some other pleading for a wire-
+all, and thus no possible jurors to attempt to influence." Pet.  tap application. In that case, the defendant could not be
+App. 14a. In such a case, according to the court, "it would      convicted of a violation of Section 2232(c), because he would
+have been legally impossible for the defendant to have com-      not have had "knowtl hateadFeg dereal * * * officer * * *
+mitted a statutory violation." Jbid. But the hypothesized
+                                                                 appfol r aui thore izad tion * * * to intercaewpirte * * *
+                                                                 communication."
+                                   42                             43
+
+the time the disclosures were made the interception     tap] order may be granted" if a new application is
+was still going on." J.A. 120. Instead, the court       submitted and the court makes the necessary findings.
+instructed, the jury must determine whether or not
+it was respondent's "intent, by giving notice or at-    Ibid. See United States v. Giordano, 416 U.S. 505,
+
+tempting to give notice, to in some way impede or       530-533 (1974). Although "[t]he period of exten-
+                                                        sion [pursuant to a given extension application]
+interfere with the interceptions that have been ap-
+plied for." Ibid.                                       shall be no longer than * * * thirty days," 18 U.S.C.
+                                                        2518(5), there is no limit on how many successive
+   b. The absence of actual interception under a wire-
+                                                        applications may be submitted or how many exten-
+tap is relevant in one sense under Section 2232(c).     sions may be granted."
+
+If the defendant knew at the time he made the dis-         In any event, the evidence presented to the jury
+closure that the wiretap had never been authorized      in this case made it quite clear that respondent be-
+or that it had been terminated, that knowledge would    lieved that the interception was continuing when he
+constitute compelling evidence that he did not act      made his disclosure. On February 6, 1988, respond-
+"in order to obstruct * * * such interception." That    ent called his nephew and told him to come to his
+is because such knowledge would negate the intent       house "right now, it's very, very urgent." Tape
+element of the offense; an individual ordinarily can-   N-504. He told his nephew that "I need to get a
+not be said to have acted in order to accomplish an     message to [Chapman], who was just here a minute
+end that he himself knows is impossib!>.                ago. * * * But I can't talk over the phone." Jbid.
+                                                        That alone suggests that he believed that the inter-
+    In this case, however, there was no reason to
+                                                        It is not uncommon for the government to obtain several
+believe that respondent thought that no wiretap was
+authorized or in place when he alerted Chapman to the   extensions to a wiretap order in a complex criminal case. For
+possible interception. Although respondent made his
+disclosure in February 1988--five months after learn-   example, in United States v. Ojeda Rios, 495 U.S. 257, 260-261
+ing from Judge Peckham of the application to inter-
+cept Chapman's communications--that does not sug-       (1990), one wiretap was authorized on May 11, 1984, and
+gest that he knew that the wiretap had expired by
+the time he made his disclosure. There is no absolute   continually extended until October 10, 1984; a wiretap on a
+temporal limit--and certainly no five-month limit--
+on how long an interception may continue under          different telephone was authorized on November 1, 1984, and
+federal law. Under 18 U.S.C. 2518(5), "[n]o [wire-
+tap] order * * * may authorize * * * the intercep-      extended until May 30, 1985; two other wiretaps lasted for
+tion of any wire * * * communication for any period
+longer than * * * thirty days." The statute also        an initial period plus two extensions; and one wiretap lasted
+provides, however, that "[e]xtensions of a[] [wire-
+                                                        only for a single month, with no extensions. See also, e.g.,
+
+                                                        United States v. Gallo, 863 F.2d 185, 191-193 (2d Cir. 1988)
+
+                                                        (wiretap authorized in November 1982 and extended through
+
+                                                        August 1983), cert. denied, 489 U.S. 1083 (1989); United
+                                                        States v. Williams, 737 F.2d 594, 600 (7th Cir. 1984) (wire
+                                                        tap authorized in early 1979 and extended into 1980), cert.
+                                                        denied, 470 U.S. 1008 (1985); United States v. Poeta, 455
+
+                                                        F.2d 117, 119 (2d Cir.) (wiretap authorized in March 1970
+
+                                                        yoot-- e  through June 1970), cert. denied, 406 U.S. 948
+                                                         1 :
+                                   44                                                                  45
+
+ception was continuing. Indeed, respondent believed                    3. The third, physical act element of the statute
+that the authorization had been granted and extended                requires proof that the defendant "g[a]ve[] notice
+until after the date he made the disclosure: as he                  or attempt[ed] to give notice of the possible inter-
+stated to Solomon in a conversation secretly taped on               ception." The government proved that element at
+May 17, more than three months after the disclosure,                trial by showing that respondent informed Chap-
+"To]h yeah the phone's definitely tapped. * * * Ab-                 man, through respondent's nephew, Steve Aguilar,
+solutely." J.A. 21.                                                 that Chapman's telephone conversations were being
+                                                                    intercepted.
+   Based on those facts, the jury reasonably con-
+cluded that respondent acted "in order to obstruct                     a. The evidence was more than sufficient to sup-
+* * * such interception." As it turned out, the orig-               port the jury's conclusion that respondent gave the
+inal authorization of which respondent had knowledge                requisite notice. Steve Aguilar testified at trial that,
+resulted in a wiretap order that expired after 30                   after he arrived at respondent's house in response to
+                                                                    respondent's telephone call, respondent told him that
+days, on May 21, 1987, although it was later re-                    respondent "had overheard at work about the possi-
+                                                                    bility of [Chapman's] phone being wiretapped." 5
+authorized and extended further with respect to the                 Tr. 825. Steve drove to Chapman's house and in-
+same telephone number and an overlapping, though                    formed Chapman of that fact. bid. Later that day,
+changing, list of interceptees. See Pet. App. 5a. Those             respondent again called Steve and asked him to come
+facts, however, are of no significance, for there is no             to his house. Replying to respondent's questions,
+evidence that respondent knew that the wiretap had                  Steve told him that he had conveyed the information
+ever expired (or that it had ever been reauthorized )."             to Chapman. 5 Tr. 826-827.
+
+In the absence of such knowledge, the termination,                     There was substantial corroboration to show that
+                                                                    respondent had conveyed the information to Chap-
+reauthorization, and extension of the interception
+order that in fact occurred in this case do not suggest             man. After February 6, 1988, Chapman used an
+that there was any error in the jury's finding that
+respondent acted "in order to obstruct * * * such                   alias ("Dr. Green") when he called respondent. See,
+interception."                                                      e.g., Tape 0-1449, 0-2022, 0-3092. On February 29,
+                                                                    1988, Chapman told Tham that someone "very big"
+    11 This Court therefore need not reach the question whether     had told him that his telephone was tapped. Tape
+                                                                    M-1189. Finally respondent himself explained to
+ the reauthorization and successive extension orders of the         Solomon in one of the secretly taped conversations
+ wiretap in this case should be regarded as extensions of the       precisely how he instructed his nephew to tell Chap-
+ original wiretap order, since they involved the same telephone     man about the wiretap. Respondent said,
+ number and an overlapping, though changing, list of inter-
+ ceptees. Cf., e.g., United States v. Carson, 969 F.2d 1480, 1487-        I told my nephew and I said I want you to tell
+ 1489 (3d Cir. 1992) (discussing whether successive intercep-             him not over the phone. You get to his house
+                                                                          and tell him. He says I'm gonna go see him
+ tion orders were extensions of original interception order, for
+ purposes of "sealing" requirement of 18 U.S.C. 2518(8) (a)).
+                                     46                                                      47
+
+      tonight. So he went and saw him that night and      statute. One of the predicates for the application of
+      told him and then the next time I talked to Abe     the statute is the defendant's knowledge of a wiretap
+      he called me from a pay phone. He only calls        application. Since some wiretap applications may not
+      me from pay phones.                                 be approved, a defendant who learns of an applica-
+                                                          tion may well be unaware of whether any intercep-
+J.A. 21-22.                                               tion was likely to or did occur. There is no basis in
+   b. The court of appeals may also have believed         the statutory language to conclude that Congress in-
+                                                          tended that such a defendant can avoid conviction by
+that respondent's conduct did not satisfy the dis-        proving that the application had in fact--and un-
+closure element of the offense, on the ground that        beknownst to him--been denied before he made his
+there was no "possible interception" at the time the      disclosure.
+disclosure was made. See Pet. App. 12a-13a. The           - Indeed, if such a windfall defense were recognized,
+court stated that, because "the element of `possible      other defenses not discussed by the court of appeals
+interception' must be met[,] * * * the wiretap must       presumably would have to be recognized as well. As
+be in existence or there must be a pending applica-       the dissenting judges noted, see Pet. App. 27a, if the
+tion or authorization." Jd. at 13a.                       telephone line or the wiretap equipment was malfunc-
+                                                          tioning, the defendant would be able to escape convic-
+   The court of appeals' construction of the words        tion because no interception was therefore "possible."
+"possible interception" conflicts with the plain lan-     Similarly, if the interceptee had simply ceased using
+guage of the statute. The statute does not refer to       the telephone to be tapped, for reasons unrelated to
+a "pending application" but to an "application." And      the wiretap, a defendant who later disclosed the wire-
+it does not refer to an "actual interception," or an      tap with the intent to obstruct the interception could
+"interception" simpliciter, but to a "possible intercep-  not be convicted, since no interception would have
+tion." As ordinarily understood, the use of the term      been "possible." There is no reason to believe that
+"possible" indicates that the government need not         Congress would have wanted to create such defenses
+prove that the actual wiretap was in operation or         to Section 2232(c). Yet such defenses would be a
+that the authorization for a wiretap was pending at       logical result of the court of appeals' interpretation.
+the time the disclosure was made. To the contrary,
+the term "possible" indicates that it is a crime to dis-     4. The court of appeals suggested that the rule of
+close a wiretap application, regardless of whether an     lenity and First Amendment considerations support
+actual wiretap was in operation. So long as the de-       its interpretation. See Pet. App. 9a-10a, 1la-12a.
+fendant believed it was "possible" that an opera-         As with the obstruction statute, resort to the rule of
+tional wiretap resulted or would result from the          lenity is unnecessary because both the language and
+application of which he had knowledge at the time         the intent of Section 2232(c) are unambiguous.
+he made the disclosure, the disclosure element is
+satisfied.                                                   Nor does the construction of the statute we ad-
+                                                          vocate raise a substantial First Amendment concern.
+    Any other interpretation of the term "possible"
+would result in an untenable interpretation of the
+                                    48                                                     49
+
+Under any construction, the statute limits some dis-                                 CONCLUSION
+closure of information that could be of public in-         The judgment of the court of appeals: should be
+terest. But the statute only prohibits disclosures      reversed.
+made with the intent to impede or obstruct a possible      Respectfully submitted.
+interception. Where the disclosure is made with
+that intent--rather than an intent "to correct past                   DrEw S. Days, ITI                          General
+government misconduct and to avert similar abuses                        Solicitor General
+of power in the future," by disclosing ``politically-
+motivated wiretaps, such as those that occurred at                    JO ANN HARRIS
+the height of the civil rights movement," Pet. App.                      Assistant Attorney
+lla-12a--the defendant can plainly be prosecuted
+under Section 2232(c). Moreover, it has long been                     MICHAEL R. DREEBEN
+settled that the government may prohibit individuals
+in a position of confidence, such as respondent, from                    Deputy Solicitor General
+disclosing confidential information that they receive
+in their official capacity. See, e.g., Snepp v. United                JAMES A. FELDMAN
+States, 444 U.S. 507, 511 & n.6 (1980) (per curiam).
+Indeed, the grand jury secrecy requirement of Fed.                       Assistant to the Solicitor General
+R. Crim. P. 6(e) is based on essentially the same
+rationale as Section 2232(c), and it is enforceable                   PATTY MERKAMP STEMLER
+through a criminal contempt sanction or, in an appro-                    Attorney
+priate case, a prosecution for obstruction of justice.
+See, e.g., United States v. Jeter, 775 F.2d 670, 678-   JANUARY 1995
+679 (6th Cir. 1985) (rejecting argument that First
+Amendment provides defense to charge of obstructing
+justice by violating Rule 6(e)), cert. denied, 475
+U.S. 1142 (1986); United States v. Howard, 569
+F.2d 1331, 13836 (5th Cir.), cert. denied, 439 U.S.
+834 (1978).
+
+                                                                      W ov. 8. Goveenwent printing orrice; 1995  367147   20032
+

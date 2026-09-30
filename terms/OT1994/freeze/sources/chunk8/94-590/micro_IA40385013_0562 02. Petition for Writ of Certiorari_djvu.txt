@@ -1,0 +1,6042 @@
+~ Supreme Court, U.S. 
+1) FiLeED 
+
+
+94 590 SEP 3.019% 
+
+
+No. 
+OFFICE OF THE CLERK 
+
+
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+
+
+OCTOBER TERM, 1994 
+
+
+VERNONIA SCHOOL DISTRICT 47J, 
+Petitioner, 
+Vv. 
+
+
+WAYNE and JUDY ACTON, guardians ad 
+litem for JAMES ACTON, 
+
+
+Respondents. 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF 
+APPEALS FOR THE NINTH CIRCUIT 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+TIMOTHY R. VOLPERT 
+Counsel of Record 
+Davis Wright Tremaine 
+1300 SW 5th Avenue 
+Portland, OR 97201 
+(503) 241-2300 
+Counsel for Petitioners 
+
+
+i 
+QUESTION PRESENTED FOR REVIEW 
+
+Whether Vernonia School District 
+47J's program of random drug testing of 
+middle and high school student athletes 
+in the absence of individualized 
+suspicion is a constitutionally 
+reasonable "search" under the Fourth 
+Amendment to the United States 
+
+
+Constitution? 
+
+
+ii 
+STATEMENT PURSUANT TO RULE 29.1 
+Petitioner is not a corporation and 
+has no parent companies, subsidiaries or 
+
+
+affiliates. 
+
+
+TABLE OF CONTENTS 
+OPINIONS BELOW ........-. 
+
+
+JURISDICTION ..... ++ © © « « 
+
+
+CONSTITUTIONAL PROVISIONS 
+INVOLVED . . . + «+ © © © © © « «@ 
+
+
+STATEMENT OF THE CASE 
+
+
+Facts Relevant to the 
+CET aT 6 i. 6 6 «© © « ¢ 
+
+
+Trial Court Proceedings 
+
+
+The Ruling of the United 
+States Court of Appeals for 
+the Ninth Circuit ..... 
+
+
+REASONS FOR GRANTING THE PETITION 
+
+
+1. The Holding Below Directly 
+Conflicts with an Existing 
+Seventh Circuit Holding 
+
+
+2. This Case Presents the 
+Opportunity for the Supreme 
+Court to Expand its Holding 
+in New Jersey v. TLO by 
+Specifically Addressing School 
+Searches in the Absence of 
+Individualized Suspicion 
+
+
+14 
+
+
+17 
+
+
+19 
+
+
+28 
+
+
+iv 
+
+
+3. Educating Children in an 
+Environment Free From Drugs, 
+Excessive Discipline Problems 
+and a Heightened Risk of 
+Physical Injury Justifies 
+Urinalysis Drug Testing of 
+Student Athletes ........ 38 
+
+
+ee eee ee ee 45 
+
+
+ean © + 6 ee «6 es 8s 6 © 6 la 
+eae — @¢ = se ee ee wee weet 76a 
+ne S° +e Se ee ee 6 ee 143a 
+
+
+Cases Page 
+
+
+Acton v. Vernonia School 
+Dist., 23 F.3d 1514 
+(9th Cir. 1994) >. >. >. * . >. . . . 4, 8, 
+
+
+11-14, 17- 
+20, 24-26, 
+40-42 
+
+
+Acton v. Vernonia School Dist., 
+796 F. Supp. 1356 (D. 
+1, We sit tee wee cs CO, 
+
+
+Dimeo v. Griffin, 
+943 F.2d 679 (7th Cir. 1991) . . . 26-27 
+
+
+National Treasury Employees 
+Union v. Von Raab, 489 U.S. 
+EE See 
+
+
+New Jersey v. TLO, 
+469 U.S. 325 
+(1985) . . . . . . . . . . 7 22, 26, 28- 
+
+
+36, 38-40, 
+43 
+Schaill by Kross v. Tippecanoe 
+County Sch. Corp., 864 F.2d 
+1309 (7th Cir. 1988) reh'g 
+denied (1989) se 6 20-24, 
+
+
+26, 34 
+
+
+vi 1 
+Skinner v. Railway Labor PETITION FOR WRIT OF CERTIORARI 
+Executives' Ass'n., 489 U.S. a 
+a ee a eee ee ee ee Petitioner, Vernonia School District 
+University of Colorado v. 473, respectfully petitions for a writ of 
+Derdeyn, 863 P.2d 929 ; 
+(Colo. 1993), cert. denied certiorari to review the judgment of the 
+__. U.S. __, 114 S&S. Ct. ; 
+1646 (1994) ......4 24444 + 43-44 United States Court of Appeals for the 
+Ninth Circuit in this case. 
+Statutes: 
+OPINIONS BELOW 
+28 U.S.C. §@ 12884 . «© © se ee eo eevee @ a 
+The opinion of the United States 
+O8 GiO.G.:8 898 «we cose vnecne B& . 
+Court of Appeals for the Ninth Circuit 
+28 U.S.C. § 1367 . «. «© «© © © © © © «@ 15 ; 
+(Pet. App. A, infra) is reported at 23 
+68 0.8.6..6 0003 2. ce eee sveves 3 — 
+F.3d 1514 (9th Cir. 1994). The opinion 
+42 U.S.C. § 1988 .. . «© «© © © © @ » 3 
+of the United States District Court (Pet. 
+Constitutions: App. B, infra) is reported at 796 F. 
+OR. CONST. Art. I, § 9 .. . . 17-19, 24 Supp. 1354 (D. Or. 1992). 
+U.S. CONST. amend. IV... ... 2, 17- JURISDICTION 
+19, 28-29 —_ 
+The opinion and judgment of the 
+Miscellaneous: United States Court of Appeals for the 
+a Se ee Ninth Circuit were filed on May 5, 1994 
+
+
+(Pet. App. A). Petitioner's timely peti- 
+
+
+tion for rehearing was denied by that 
+
+
+2 
+court by order of July 8, 1994 (Pet. App. 
+C). The jurisdiction of this Court is 
+invoked under 28 U.S.C. § 1254(1). 
+CONSTITUTIONAL PROVISION INVOLVED 
+U.8. Const. Amend. IV. 
+"The right of the people to be 
+secure in their persons, hous- 
+es, papers, and effects, 
+against unreasonable searches 
+and seizures, shall not be vio- 
+lated, and no Warrants shall 
+issue, but upon probable cause, 
+supported by Oath or affirma- 
+tion, and particularly describ- 
+ing the place to be searched, 
+and the persons or things to be 
+
+
+seized." 
+
+
+ee 
+
+
+3 
+STATEMENT OF THE CASE 
+
+Petitioner, Vernonia School District 
+47J (hereinafter "the District"), estab- 
+lished a policy allowing it to conduct 
+urinalysis drug testing of its middle and 
+high school student athletes to protect 
+those students from physical injury and 
+to counteract an epidemic of drug use and 
+disciplinary problems involving student 
+athletes and other students in the Dis- 
+trict. 
+
+Respondents Wayne and Judy Acton, as 
+guardians ad litem for James Acton, a 12- 
+year old student in the 7th grade of 
+Washington Grade School in Vernonia Ore- 
+gon, objected to the District's drug- 
+testing program and, represented by the 
+ACLU, filed an action under 42 U.S.C. 
+1983 and 1988 seeking a judicial declara- 
+
+
+tion that the drug-testing policy vio- 
+
+
+4 
+
+lates guarantees in the federal and state 
+constitutions against unreasonable 
+searches. Respondents also sought an 
+injunction against enforcement of the 
+policy. 
+
+Facts Relevant to the Petition.’ 
+
+Vernonia, Oregon is a small logging 
+community of approximately 3000. The 
+community has a central interest in 
+school district activities in general and 
+in athletics in particular. 796 F. Supp. 
+at 1356 (Pet. App. B at 76a). A signifi- 
+cant majority of Vernonia high school and 
+elementary school students participate in 
+
+
+District sponsored athletics. [Id., 
+
+
+' The Ninth Circuit found no clear error in 
+the district court's findings of fact. 23 F.3d 
+at 1519 (Pet. App. A at 20a). The facts stated 
+herein are therefore largely taken from the dis- 
+trict court's findings. On occasion, petitioner 
+will cite to facts recited by the Ninth Circuit. 
+
+
+5 
+(Pet. App. B at 77a.)’ 
+
+Although discipline and drug use had 
+not previously been a significant problem 
+in the Vernonia schools, beginning in the 
+mid-to-late 1980s, the teaching staff 
+began noticing "a startling and progres- 
+sive increase in students' use of drugs 
+and alcohol." Id., (Pet. App. B at 
+78a.) The administration investigated 
+the source and attempted to address this 
+increasing problem through education. 
+
+
+796 F. Supp. at 1357 (Pet. App. B at 82a- 
+
+
+84a).’ Yet, as time passed, the glamor- 
+
+
+* Interscholastic athletics play a dominant 
+role in the Vernonia community and student ath- 
+letes are well known and admired. Approximately 
+60-65% of the high school students and 75% of the 
+elementary school students participate in Dis- 
+trict sponsored athletics. Id., (Pet. App. B at 
+76a-77a.) 
+
+
+> Initially, the Vernonia High School princi- 
+pal met with the teaching staff and asked them to 
+gauge the magnitude of the drug and alcohol prob- 
+lem and to determine what responsive steps should 
+be taken. The school administration first at- 
+tempted to deter drug and alcohol use through 
+education. Special classes were held on the 
+effect and addictive nature of drugs. The school 
+
+
+6 
+ization and use of drugs and alcohol be- 
+came more blatant. Students boasted 
+about drug use. Drug paraphernalia was 
+confiscated on school grounds, and open 
+use of drugs was observed at a local cafe 
+across the street from the high school. 
+Class decorum suffered. Outbursts of 
+profane language during class, rude and 
+obscene statements directed at other stu- 
+dents and "a general flagrant attitude 
+that there was nothing the school could 
+do about their conduct or their use of 
+drugs or alcohol" typified a usual day. 
+796 F. Supp. at 1356-57 (Pet. App. B at 
+
+
+79a-80a). There was an almost three-fold 
+
+
+administration invited well-known speakers to ad- 
+dress the students, hoping the speakers could 
+reach the students. Seminars within classes, 
+polls, and theatrical presentations were all 
+tested but failed to achieve any significant 
+impact on the disruptive atmosphere. The day 
+after the presentation of a play directed at the 
+problems caused by drug use, several sophomore 
+athletes were caught cutting classes to hold a 
+party where arrests took place for the use of 
+intoxicants. Id. 
+
+
+7 
+increase in classroom disruptions and 
+disciplinary reports between 1986 and 
+1989.‘ 
+
+Drug and alcohol use invaded the 
+sports program. 796 F. Supp. at 1357 
+(Pet. App. B at 80a). In fact, the ad- 
+ministration determined that the leading 
+student athletes were also the leaders of 
+the drug activity, thus endangering "the 
+very center of activity of the school and 
+the community." Id., (Pet. App. B at 
+82a-83a). Students consumed alcohol ina 
+bus after a game. Others stole alcohol 
+
+
+from a store after a track meet. At 
+
+
+* Vernonia teachers felt upset and helpless 
+as students increasingly expressed their attrac- 
+tion to, and vocal defense of, the use of drugs. 
+One teacher, who had never experienced classroom 
+discipline problems in the past, was ready to 
+give up 15 years of service because of her frus- 
+tration in dealing with this new situation. 
+Organizations formed within the student drug 
+culture, taking such names as the "Big Elk" or 
+the “Drug Cartel.” Loud “bugling” or “head butt- 
+ing” became the symbols for these groups. 796 F. 
+Supp. at 1356 (Pet. App. B at 79a~-80a). 
+
+
+8 
+
+least one of the student scushisetions 
+which formed within the drug culture--the 
+Big Elk--was composed largely of ath- 
+letes. Athletes turned in classroom as- 
+Signments which bragged about drug use. 
+23 F.3d at 1516 (Pet. App. A at 3a-4a). 
+
+Ron Svenson, a teacher and coach, 
+testified that suspected drug use con- 
+tributed to the serious injury of a wres- 
+tler who failed to execute a basic maneu- 
+ver. Likewise, the football coach gave 
+"convincing testimony" that drug use af- 
+fected certain football players who ig- 
+nored or forgot well-drilled safety rou- 
+tines. 796 F. Supp. at 1357 (Pet. App. B 
+at 8la). Parents reported that they had 
+heard of drug use on a football trip and, 
+when confronted by the principal, stu- 
+dents admitted that they had used mari- 
+
+
+Juana. 23 F.3d at 1516 (Pet. App. A at 
+
+
+9 
+
+4a). Svenson expressed a concern that 
+use of intoxicants slowed the reaction 
+time of athletes, and thereby made them 
+more susceptible to injury. 796 F. Supp. 
+at 1357 (Pet. App. B at 81la).° That con- 
+cern was corroborated by testimony from 
+Dr. Robert L. Dupont, a nationally recog- 
+nized expert on drug abuse.° 
+
+The school administrators feared 
+that the corruption of the school's lead- 
+ing athletes would have a significant 
+poisoning impact upon the broader student 
+
+
+population, including the younger and 
+
+
+’ Svenson also testified that a student in- 
+jured in a regular physical education class is 
+much more apt to disclose an injury than one 
+engaged in interscholastic activity, given the 
+highly competitive atmosphere of the latter. 
+
+This sense of pride and desire to stay in the 
+game, when coupled with the numbing influence of 
+drugs, became a significant concern to all in- 
+volved in the athletic program. Id., (Pet. App. B 
+at 82a). 
+
+
+6 Dr. DuPont explained the deleterious ef- 
+fects of drugs and alcohol on a teenager's moti- 
+vation, memory, judgment, reaction, coordination 
+and performance. Id., (Pet. App. B at 8la). 
+
+
+10 
+more impressionable elementary school 
+students who emulated the older athletes. 
+Id., (Pet. App. B at 83a). 
+
+The evidence at trial “amply demon- 
+strate that the administration was at its 
+wits end and that a large segment of the 
+student body, particularly those involved 
+in interscholastic athletics, was in a 
+state of rebellion." Id., (Pet. App. B 
+at 85a). Disciplinary actions had 
+reached “epidemic proportions." Id. The 
+administration concluded that the rebel- 
+lion "was being fueled by alcohol and 
+drug abuse as well as the student's 
+misperceptions about the drug culture." 
+Id., (Pet. App. B at 85a-86a). The ad- 
+ministration also concluded that, unless 
+it took immediate action, the problem 
+would worsen and become more widespread. 
+
+
+At one point, the administration felt the 
+
+
+11 
+only practical solution was mass expul- 
+sion. 796 F. Supp. at 1357-58 (Pet. App. 
+B at 86a).’ 
+
+Having tried all other reasonable 
+alternatives, the District began investi- 
+gating drug testing in 1988. The Dis- 
+trict conducted a study of such programs 
+in other parts of the country. 796 F. 
+Supp. at 1358 (Pet. App. B at 86a-87a). 
+The District obtained a lawyer, consid- 
+ered legal opinions and held meetings of 
+interested parents. In 1989, the Dis- 
+trict board approved a drug testing pro- 
+gram. Id., (Pet. App. B at 87a). 
+
+The policy involved testing by uri- 
+
+
+nalysis for amphetamines, marijuana, co- 
+
+
+; The Ninth Circuit reviewed the record 
+and found,"... that drug use appeared to be more 
+extreme than it should be and even appeared to be 
+growing. It was sufficient to give them [Verno- 
+nia administrators and faculty] concern for the 
+future of the youth they had responsibility for. 
+Based upon the evidence, we cannot say that con- 
+cern was unreasonable." 23 F.3d at 1519 (Pet. 
+App. A at 20a). 
+
+
+12 
+
+caine and LSD. 23 F.3d at 1517. (Pet. 
+App. A at 7a). It was limited in scope 
+to student athletes and narrowly tailored 
+to effectuate the District's objectives. 
+The District took significant steps to 
+limit the extent of the intrusion, to 
+protect the chain of custody and to main- 
+tain the confidentiality of the results. 
+As the Ninth Circuit found, the policy 
+was completely random and vested no dis- 
+cretion in any District officials. 23 
+F.3d at 1522 (Pet. App. A at 36a-37a).° 
+
+Penalties imposed for positive tests 
+where progressive, ranging from partici- 
+pation in a drug treatment program with 
+weekly testing to suspension from athlet- 
+
+
+ics for the current and two subsequent 
+
+
+* The mechanics of the policy were never in 
+dispute. They are set forth adequately and con- 
+cisely in the district court's opinion, 796 F. 
+Supp. at 1358-1359 (Pet. App. B at 87a-9la) and 
+in the Ninth Circuit's opinion, 23 F.3d at 1516- 
+17 (Pet. App. A at 4a-6a). 
+
+
+13 
+athletic seasons.® Results were not dis- 
+closed to criminal authorities and could 
+not be used for school disciplinary pro- 
+ceedings such as suspension or expulsion 
+from school. 796 F. Supp. at 1364 (Pet. 
+App. B at 121a). 
+Finally, as the Ninth Circuit ac- 
+
+
+knowledged, the policy accomplished its 
+
+
+* If a student tested positive and that test 
+was confirmed by a second test, the parents were 
+notified. A due process hearing was then held by 
+the principal with the student and parents. For 
+a first offense, the student was given the option 
+of: (a) participating in an assistance program 
+and taking weekly urinalysis for six weeks; or 
+(b) suspension from athletics for the remainder 
+of the current season and next athletic season. 
+The student would then be retested prior to the 
+start of the next athletic season for which he or 
+she was eligible. 796 F. Supp. at 1358-1359 
+(Pet. App. B at 9la-92a). As the policy is writ- 
+ten, a second offense resulted in the student 
+being suspended from participating in athletics 
+for the remainder of the current season and the 
+next athletic season for which he or she was 
+eligible. 23 F.3d at 1517 (Pet. App. A at 8a). 
+However, although not spelled out in the policy, 
+a student athlete who committed a second offense 
+was allowed to continue participating in sports 
+if he or she submitted to counseling and weekly 
+urinalysis. 796 F. Supp. at 1359 (Pet. App. B at 
+92a). The third offense resulted in the 
+student's suspension from athletics for the re- 
+mainder of the current season and the next two 
+athletic seasons. 23 F.3d at 1517 (Pet. App. A 
+at 8a). 
+
+
+14 
+
+desired goal. “Every teacher who testi- 
+fied had noticed an improvement in disci- 
+pline, a reduction in disciplinary refer- 
+rals, and a decrease in drug use and the 
+glorification of drug culture since the 
+Policy was implemented." 23 F.3d at 1522 
+(Pet. App. A at 34a). 
+
+Trial Court Proceedings. 
+
+The district court had jurisdiction 
+over the Fourth Amendment claim under 28 
+U.S.C. § 1331 and supplemental jurisdic- 
+tion over the Oregon constitutional cause 
+of action under 28 U.S.C. § 1367(a). 23 
+F.3d at 1517 (Pet. App. A at 10a). The 
+district court ruled that the District's 
+drug-testing policy did not violate ei- 
+ther the federal or state constitutions 
+and entered a judgment dismissing the 
+action. 796 F. Supp. at 1368 (Pet. App. 
+
+
+B at 143a). The district court found 
+
+
+15 
+that several factors weighed in favor of 
+the District's drug testing policy in- 
+cluding: (1) evidence of specific in- 
+stances where coaches had observed ath- 
+letes performing unsafely under the in- 
+fluence of intoxicants; (2) evidence that 
+athletes in the District's schools were 
+role models for this entire community so 
+that deterring athletes from drug use 
+would also deter other students; (3) the 
+fact that the policy was limited in scope 
+and narrowly tailored to effectuate the 
+District's objectives; (4) the fact that 
+the policy was implemented in a middle 
+and high school setting, where courts 
+should accord deference to school admin- 
+istrators "in matters concerning disci- 
+pline and maintaining order;" (5) the 
+facts that the District considered and 
+
+
+actually tried several alternative meth- 
+
+
+16 
+ods of dealing with the increase of drug 
+and alcohol disciplinary problems before 
+instituting its drug testing program, and 
+that less intrusive "screening" methods 
+for detecting drug use have proven inef- 
+fective; (6) the facts that the District 
+had taken significant steps to limit the 
+extent of the intrusion including confi- 
+dentiality of the results, that the re- 
+sults were not disclosed to criminal au- 
+thorities and that the test results could 
+not be used for school disciplinary pro- 
+ceedings such as suspension or expul- 
+sions; and (7) the fact that the program 
+limited the degree of discretion that 
+could be exercised by coaches and school 
+administrators. 735 F. Supp. at 1363-65 
+
+
+(Pet. App. B at 115a-122a). 
+
+
+17 
+
+The Ruling of the United states 
+
+Court of Appeals for the Ninth Cir- 
+
+cuit. 
+
+The Ninth Circuit reversed the judg- 
+ment of the District Court and held that 
+the District's drug-testing policy vio- 
+lated the Fourth Amendment and therefore 
+violated Article I, Section 9 of the Ore- 
+gon Constitution. 23 F.3d at 1526 (9th 
+Cir. 1994) (Pet. App. A at 59a-60a)."° 
+The Ninth Circuit found both that 
+
+
+petitioner's drug testing policy contrib- 
+
+
+' The Ninth Circuit noted that the Oregon 
+courts have never decided a random drug testing 
+case, leaving the court “without a compass that 
+clearly points us in the right direction unless 
+we use a federal compass.” 23 F.3d at 1518 (Pet. 
+App. A at 16a). The court then stated: 
+
+
+Therefore, in our ensuing discussion 
+we will, to the extent possible, re- 
+fer to the guideposts set out for us 
+by the Oregon courts. But, particu- 
+larly in the specific area of urine 
+testing-the core issue in this 
+case—we will unabashedly refer to 
+federal law and decide the case based 
+upon the Fourth Amendment, confident 
+in our view that Oregon itself would 
+do no less. 
+
+
+23 F.3d at 1519 (Pet. App. A at 17a-18a). 
+
+
+18 
+
+
+uted to reaching the desired goal of re- 
+
+
+ducing drug use among students, and that 
+
+
+it was nondiscretionary because it was 
+
+
+truly random. 23 F.3d at 1522 (Pet. App. 
+
+
+A at 34a-37a). Despite these findings, 
+the Ninth Circuit held: 
+Given the Fourth Amendment, 
+given our traditions, given our 
+law, we are constrained to hold 
+that the Policy is invalid un- 
+der the Fourth Amendment. That 
+being so, Oregon would find it 
+invalid under Article I, Sec- 
+tion 9, of its Constitu- 
+tion. 
+23 F.3d at 1527 (Pet. App. A at 65a). 
+In a concurring opinion, Judge 
+Reinhardt emphasized that the Ninth 
+Circuit's opinion holds that the policy 
+violates the Fourth Amendment to the 
+United States Constitution as well as 
+Article I, Section 9 of the Oregon Con- 
+
+
+stitution. Justice Reinhardt wrote: 
+
+
+Although I am in complete 
+agreement with the reasoning 
+
+
+6 a Fee a ee me 
+
+
+19 
+
+
+and the result in Judge 
+Fernandez's opinion for the 
+court, I write separately to 
+emphasize that while our opin- 
+ion holds expressly that Verno- 
+nia School District's drug 
+testing policy is violative of 
+Article I, Section 9 of the 
+Oregon Constitution, it also 
+necessarily holds that the pol- 
+icy violates the Fourth Amend- 
+ment to the United States Con- 
+stitution. Indeed, the opinion 
+cannot be read otherwise: 
+
+there is no way to "avoid" a 
+federal constitutional holding 
+in this case, because Article 
+I, Section 9 and the Fourth 
+Amendment are textually identi- 
+cal and are interpreted "coex- 
+tensively." Moreover, our de- 
+cision is based almost exclu- 
+Sively on the application of 
+federal law. Under the circunm- 
+stances, our holding cannot be 
+confined to one of Oregon law. 
+
+
+23 F.3d 1527 (Reinhardt, J., concurring) 
+(Pet. App. A at 65a-66a). 
+
+
+REASONS FOR GRANTING THE PETITION 
+
+
+1. The Holding Below Directly Con- 
+flicts with an Existing Seventh Cir- 
+cuit Holding. 
+
+
+The Ninth Circuit's decision below 
+
+
+directly conflicts with an existing hold- 
+
+
+20 
+
+ing by the Seventh Circuit in Schaill by 
+Kross v. Tippecanoe County Sch. Corp., 
+864 F.3d 1309 (7th Cir. 1988) reh'g de- 
+nied (1989).'' In Tippecanoe, the Sev- 
+enth Circuit held that a high school's 
+random drug testing program, which was 
+very similar to the District's drug test- 
+ing program, is valid under the Fourth 
+Amendment. 864 F.2d at 1322. As the 
+Ninth Circuit tersely summarized: "[I]n 
+a nutshell, we simply do not agree with 
+the Seventh Circuit." 23 F.3d at 1527. 
+(Pet. App. A at 63a). 
+
+The student athletes in Tippecanoe 
+and their parents were required to sign a 
+form consenting to urinalysis. The stu- 
+
+
+dents had assigned numbers, and the num- 
+
+
+'' This Court's Rule 10.1(a) includes as one 
+of the reasons it will consider for granting a 
+writ of certiorari: "When a United States court 
+of appeals has rendered a decision in conflict 
+with the decision of another United States court 
+of appeals on the same matter ..." 
+
+
+21 
+bers were randomly drawn to select stu- 
+dents for testing. Testing was carefully 
+monitored and conducted by a private lab- 
+oratory, and all positive tests were re- 
+peated. Students and parents or guard- 
+ians were allowed to explain any positive 
+result. 864 F.2d at 1311. 
+
+The penalty imposed under the 
+Tippecanoe policy was suspension from 
+participation in interscholastic sports, 
+with the percentage of suspension ranging 
+from 30% of remaining games (first posi- 
+tive result) to suspension from all in- 
+terscholastic sports programs during the 
+remainder of a student's high school ca- 
+reer (fourth positive result). No other 
+penalties were imposed and students could 
+decrease the specified punishment by par- 
+ticipating in an approved drug counseling 
+
+
+program. Id. 
+
+
+22 
+
+The school administrators in 
+Tippecanoe also faced a serious drug 
+problem among student athletes, although 
+on balance the instant case was even 
+worse. As is noted above, substantial 
+evidence in this case demonstrated "that 
+the administration was at its wits end 
+and that a large segment of the student 
+body, particularly those involved in in- 
+terscholastic athletics, were ina state 
+of rebellion. 796 F. Supp. at 1357 (Pet. 
+App. B at 85a). 
+
+In light of this court's holding in 
+New Jersey v. TLO, 469 U.S. 325 (1985), 
+the appellate court in Tippecanoe first 
+held that the probable cause and warrant 
+requirements were not applicable to the 
+program, and that the appropriate method 
+
+
+for determining constitutionality was to 
+
+
+apply the “general fourth amendment stan- 
+
+
+23 
+
+
+dard of reasonableness." 864 F.2d at 
+
+
+1315. However, because the program was 
+
+
+not based upon any individualized suspi- 
+cion, the court held the school district 
+to a “heavier burden" to justify its pro- 
+
+
+gram. Id. The court balanced the priva- 
+
+
+cy interests of the students against the 
+government's objectives and the nature 
+and degree of the intrusion and then up- 
+held the constitutionality of the policy, 
+concluding: 
+
+
+[T}]he convergence of several 
+important factors convinces us 
+that the searches involved here 
+take place in one of the rela- 
+tively unusual environments in 
+which suspicionless searches 
+are permissible: interscholas- 
+tic athletes have diminished 
+expectations of privacy, and 
+have voluntarily chosen to par- 
+ticipate in an activity which 
+subjects them to pervasive reg- 
+ulation of off-campus behavior; 
+the school's interest in pre- 
+serving a drug-free athletic 
+program is substantial, and 
+cannot adequately be furthered 
+by less intrusive measures; the 
+
+
+24 
+
+
+TSC program adequately limits 
+the discretion of the officials 
+performing the search; and the 
+information sought is intended 
+to be used solely for noncrimi- 
+nal educational and rehabilita- 
+tive purposes. Based on a 
+careful and considered weighing 
+of these factors, we conclude 
+that the TSC urinalysis program 
+does not violate the fourth 
+amendment. 
+
+
+864 F.2d at 1322 (footnote omitted). The 
+court found that the school board in 
+Tippecanoe was “entitled to considerable 
+deference" in implementing its drug test- 
+ing program because the board likely knew 
+"how to best deal with a serious threat 
+to the school's learning environment." 
+864 F.2d at 1321. 
+
+The holding in Tippecanoe contrasts 
+starkly with the Ninth Circuit's holding: 
+
+Thus, when we mix all of the 
+
+elements together - the slight 
+
+weight in favor of efficiency, 
+
+the privacy interest, the gov- 
+
+ernmental interest, and the 
+
+
+discretionary factor - and step 
+back to look at the compound 
+
+
+25 
+
+
+they yield, it becomes apparent 
+that the Policy violates the 
+Fourth Amendment. It follows 
+that it also violates Article 
+I, Section 9 of the Oregon Con- 
+stitution. 
+
+
+23 F.3d at 1526 (Pet. App. A at 59a-60a). 
+
+
+The Ninth Circuit squarely acknowl- 
+
+
+edged the direct conflict between its 
+
+
+holding and that in the Tippecanoe case: 
+
+
+Before concluding, we must ac- 
+knowledge that in Schaill v. 
+Tippecanoe County Sch. Corp., 
+864 F.2d 1309 (7th Cir. 1988), 
+the court upheld a random drug 
+testing program very similar to 
+the one we now review. Perhaps 
+that court found a more compel- 
+ling set of facts than we dis- 
+cover here, but we are unable 
+to say so after reading the 
+opinion. We believe, instead, 
+that the Seventh Circuit has 
+unduly minimized the privacy 
+interests of students. It has 
+also given undue weight to the 
+governmental interest by focus- 
+ing on the general problems 
+generated by the drug plague, 
+rather than upon the question 
+of whether the danger to safety 
+is so high as to be compel- 
+ling.’ We could fill more pag- 
+es reiterating what we have 
+already said, but, in a nut- 
+
+
+26 
+
+
+shell, we simply do not agree 
+with the Seventh Circuit. 
+
+
+23 F.3d at 1527 (Pet. App. A at 62a-63a).” 
+
+
+12 
+
+
+The footnote in the quoted passage says: 
+
+
+We note that the Schaill court bal- 
+anced the students’ privacy interests 
+against the school district's "“sub- 
+stantial interest in enforcement of 
+its proposed random urinalysis pro- 
+gram." 864 F.2d at 1321 (emphasis 
+added). In contrast, subsequent Su- 
+preme Court cases have allowed random 
+urinalysis programs only after find- 
+ing compelling governmental interests 
+that outweigh employees’ diminished 
+expectations of privacy. See Skin- 
+ner, 489 U.S. at 626-33, 109 S. Ct. 
+at 1418-21; Von Raab, 489 U.S. at 
+670-77, 109 S. Ct. at 1393-96. 
+
+
+23 F.3d at 1527 n. 3 (Pet. App. A at 63a). 
+
+
+The subsequent cases referred to in that 
+footnote apply a “compelling governmental inter- 
+est" standard to random drug testing in non- 
+school settings. As noted in Section 2 below, 
+given this Court's holding in New Jersey v. TLO, 
+469 U.S. 325 (1985), which allows a more flexible 
+Fourth Amendment standard in schools, it is 
+doubtful that the “compelling governmental inter- 
+est" standard applies to drug testing by school 
+administrators. Thus, it is unlikely the Seventh 
+Circuit would apply any different standard in the 
+school setting today. 
+
+
+In fact, the Seventh Circuit has since 
+cited Tippecanoe without casting any doubt on its 
+continuing validity. In Dimeo v. Griffin, 943 
+F.2d 679 (7th Cir. 1991), the Seventh Circuit, 
+sitting en banc, upheld the constitutionality of 
+random drug testing of horse race participants by 
+a state racing board. In doing so, the court 
+
+
+— 
+
+
+| 
+: 
+4 
+
+
+27 
+
+This case therefore presents a clear 
+conflict between the circuits. As a re- 
+sult of the Ninth Circuit's decision, 
+middle and high schools in Oregon, Wash- 
+ington, Idaho, Montana, Nevada, Alaska, 
+Arizona, Hawaii and California are pro- 
+hibited from conducting random drug test- 
+ing to safeguard the health and safety of 
+student athletes. On the other hand, 
+high schools in Indiana, Illinois and 
+Wisconsin may conduct such testing. 
+School officials in other states can only 
+guess as to the constitutionality of drug 
+testing of middle and high school ath- 
+letes, but will inevitably be deterred by 
+
+
+the risk of incurring massive legal ex- 
+
+
+divided random drug testing cases into three 
+categories: transportation workers, the leading 
+case being Skinner; government employees, the 
+leading case being Von Raab; and sports cases. 
+The Seventh Circuit in Dimeo placed Tippecanoe in 
+the third category, saying that the decision 
+there was based “on the idea that the Fourth 
+Amendment applies with diminished force in 
+schools”. 943 F.2d at 685. 
+
+
+28 
+penses in challenges to the constitution- 
+ality of drug testing programs. The fed- 
+eral constitution should not be inter- 
+preted to have opposing meanings in dif- 
+ferent regions of the country, especially 
+on an issue as important as this to the 
+maintenance of our public schools. 
+
+2. This Case Presents the Opportu- 
+
+nity for the Supreme Court to Expand 
+
+its Holding in New Jersey v. TLO by 
+
+Specifically Addressing School 
+
+Searches in the Absence of Individu- 
+
+alized Suspicion. 
+
+This Court recognized that high 
+school students may be treated different- 
+ly from adults for Fourth Amendment pur- 
+poses in New Jersey v. TLO, 469 U.S. 325 
+(1985). There, a 14-year-old student was 
+discovered smoking in the lavatory and 
+was taken to the assistant vice 
+principal's office. Upon hearing the 
+
+
+report, the assistant vice principal 
+
+
+searched the student's purse for ciga- 
+
+
+a ated 
+
+
+—lidlephhe tp th had BO 
+
+
+4 ee 
+
+
+29 
+rettes. During the search, he discovered 
+rolling papers, marijuana, a pipe, a 
+fairly substantial amount of money and 
+possible records of drug sales to other 
+students. Thereafter, the State brought 
+delinquency charges against the student 
+and the admissibility of the items seized 
+by the vice principal was ultimately ap- 
+pealed to the Supreme Court. 469 U.S. at 
+328-29. 
+
+The Supreme Court held that the 
+Fourth Amendment's prohibition on unrea- 
+sonable searches and seizures applied to 
+searches conducted by public school offi- 
+cials, but that the school setting re- 
+quires some “easing” of the usual Fourth 
+Amendment restrictions to enable school 
+administrators to preserve order and 
+maintain an adequate, educational envi- 
+
+
+ronment. 469 U.S. at 334, 339-340. The 
+
+
+30 
+
+Supreme Court held that, ". . . the le- 
+gality of a search of a student should 
+depend simply on the reasonableness, un- 
+der all the circumstances, of the 
+search." 469 U.S. at 341. The Court ex- 
+plained further: 
+
+Such a search will be permissi- 
+
+ble in its scope when the mea- 
+
+sures adopted are reasonably 
+
+related to the objectives of 
+
+the search and not excessively 
+
+intrusive in light of the age 
+
+and sex of the student and na- 
+
+ture of the infraction. 
+469 U.S. at 342 (footnote omitted). 
+The Supreme Court noted that it was not 
+at that point deciding "whether individu- 
+alized suspicion is an essential element 
+of the reasonableness standard we adopt 
+for searches by school authorities." 469 
+U.S. at 342, n. 8. But the Court added 
+that ". the Fourth Amendment imposes 
+no irreducible requirement of such suspi- 
+
+
+cion." Id. quoting United States v. Mar- 
+
+
+| 
+: 
+
+
+31 
+tinez-Fuente, 428 U.S. 543, 560-61 
+(1976). Thus, while TLO provided in- 
+valuable guidance to school administra- 
+tors regarding searches of students and 
+certainly shed light on the issue pre- 
+sented in the instant case, it did not 
+directly address the application of the 
+Fourth Amendment in schools in the ab- 
+sence of individualized suspicion. This 
+case presents the Court with an opportu- 
+nity to address the issue which was not 
+addressed in TLO, by deciding if and un- 
+der what circumstances middle and high 
+school searches without individualized 
+suspicion are constitutionally valid. 
+This issue is of great importance to edu- 
+cators attempting to deal with drug prob- 
+
+
+lems in schools.” As the administrators 
+
+
+' This Cou: ‘s Rule 10.1l(c) includes as one 
+of the reasons it will consider granting a writ 
+of certiorari: "“Whena. . United States court 
+of appeals has decided an important question of 
+
+
+32 
+of the District found in this case, the 
+deterrence provided by random drug test- 
+ing may be the only effective way to deal 
+with a drug use epidemic among school 
+children." 
+
+Clearly drug abuse and its attendant 
+discipline problems in public schools 
+nationwide can pose a serious threat to 
+the education of our children, requiring 
+in some circumstances a more flexible 
+Fourth Amendment standard than that ap- 
+
+
+plied in non-school settings. As this 
+
+
+federal law which has not been, but should be, 
+settled by this Court." 
+
+
+‘ At trial, Dr. Dupont testified that visual 
+observations (even by professionals) are not 
+reliable indicators of whether a student has 
+consumed alcohol or drugs. He testified that, 
+since many people do not display outward manifes- 
+tations of drug or alcohol abuse, application of 
+the reasonable and individualized suspicion stan- 
+dard is an unreliable and impractical tool to aid 
+in preventing accidents before they happen. 796 
+F. Supp. at 1364 (Pet. App. B at 120a). The Dis- 
+trict Court found Dr. Dupont's testimony “par- 
+ticularly persuasive on the significant deterrent 
+effects that a random drug testing program can 
+have on a youthful population." 796 F. Supp. at 
+1363. (Pet. App. B at 116a). 
+
+
+; 
+: 
+3 
+5 
+: 
+, 
+: 
+: 
+i 
+4 
+y 
+4 
+
+
+33 
+
+
+Court noted in TLO: 
+
+
+Against the child's interest in 
+privacy must be set the sub- 
+stantial interest of teachers 
+and administrators in maintain- 
+ing discipline in the classroom 
+and on school grounds. Main- 
+taining order in the classroom 
+has never been easy, but in 
+recent years, school disorder 
+has often taken particularly 
+ugly forms: drug use and vio- 
+lent crime in the schools have 
+become major social problems. 
+See generally i NIE, U. S. 
+Dept. of Health, Education and 
+Welfare, Violent Schools--Safe 
+Schools: The Safe School Study 
+Report to the Congress (1978). 
+Even in schools that have been 
+spared the most severe disci- 
+plinary problems, the preserva- 
+tion of order and a proper edu- 
+cational environment requires 
+close supervision of school- 
+children, as well as the en- 
+forcement of rules against con- 
+duct that would be perfectly 
+permissible if undertaken by an 
+adult. “Events calling for 
+discipline are frequent occur- 
+rences and sometimes require 
+immediate, effective action." 
+Goss v Lopez, 419 U.S., at 580. 
+Accordingly, we have recognized 
+that maintaining security and 
+order in the schools requires a 
+certain degree of flexibility 
+in school disciplinary proce- 
+
+
+34 
+
+dures, and we have respected 
+
+the value of preserving the 
+
+informality of the student- 
+
+teacher relationship. See id., 
+
+at 582-583; Ingraham v Wright, 
+
+430 U.S. at 680-682. 
+
+469 U.S. at 339-340. 
+
+In the instant case, a “large seg- 
+ment of the student body, particularly 
+those involved in interscholastic athlet- 
+ics . . . was in a state of rebellion. 
+Disciplinary action had reached epidemic 
+proportions." 796 F. Supp. 1357 (Pet. 
+App. B at 85a). 
+
+At issue here is whether it is rea- 
+sonable for school authorities to impose 
+random drug testing where they are faced 
+with a drug and disciplinary problem that 
+threatens the very fabric of the school, 
+and where they have tried all lesser mea- 
+sures conceivable by them to deal with 
+the problems created by student drug 
+
+
+abuse. School officials across this na- 
+
+
+© 0 te eevee, dab Neil ddt SOR aed 
+
+
+Aoi 
+
+
+mag. 
+
+
+Che aE 0 ee FRE DOE ch tw es OR te ek 
+
+
+35 
+
+tion deal with variations on the same, 
+catastrophic theme presented here. The 
+directly opposing holdings in Tippecanoe 
+and Acton leave public school officials 
+in need of guidance on the standard to be 
+imposed where, as here, a serious drug 
+and classroom discipline problem requires 
+random searches. This Court would do a 
+great service by addressing the unre- 
+solved issue in TLO: the validity of 
+random testing in public schools in the 
+absence of individualized suspicion. 
+
+The Ninth Circuit mentioned TLO, but 
+did not pay heed to the requirement of 
+TLO that there be an “easing” of Fourth 
+Amendment restrictions and a "degree of 
+flexibility" in the school setting. 23 
+F.3d at 1522, 1525 (Pet. App. A at 35a- 
+36a and 52a-53a). The Ninth’Circuit in- 
+
+
+stead held the school district here to 
+
+
+36 
+exactly the same, “compelling governmen- 
+tal interest" standard this Court re- 
+quired for random drug testing in the 
+non-school settings presented in Skin- 
+ner v. Railway Labor Executives’ Ass'n., 
+489 U.S. 602, 617 (1989) and National 
+Treasury Employees Union v. Von Raab, 489 
+U.S. 656 (1989), 23 F.2d at 1526 (Pet. 
+App. A at 57a-59a). TLO authorizes a 
+more flexible standard for searches in 
+schools than for searches in non-school 
+
+
+settings.’ The Ninth Circuit ruled out 
+
+
+'S As the district court concluded on the 
+basis of TLO: 
+
+
+Although the types and magni- 
+tude of safety and security concerns 
+addressed in Skinner and Von Raab 
+differ from those faced by students, 
+teachers and coaches who participate 
+in middle and high school athletic 
+programs, courts have acknowledged 
+that the public school is a unique 
+setting in which the constraints of 
+the Fourth Amendment are "re- 
+laxed." . . . Thus, although student 
+athletes who use drugs do not pose 
+the magnitude of a threat to society 
+that, say, an intoxicated air traffic 
+controller might, the fact that the 
+
+
+eon ATA 
+
+
+tae 
+
+
+i ed ee ee Pe Tae ee ee ee were 
+
+
+elie NR kN of le m1 Ral SB 
+
+
+37 
+such a flexible standard that accounts 
+for the specific problems and concerns of 
+the school setting. In so doing, the 
+Ninth Circuit denied those school offi- 
+cials the "degree of flexibility" this 
+Court has recognized is necessary to 
+maintain security, order and an environ- 
+ment conducive to education in the 
+schools. 469 U.S. at 339-340. 
+
+That is patently unfair to a school 
+administration such as the one in Verno- 
+nia which was "at its wits end." 796 F. 
+Supp. at 1357 (Pet. App. B at 85a). The 
+job of school officials is to educate the 
+
+
+children who are their students. Educa- 
+
+
+searches take place within the school 
+setting, as part of a program de- 
+signed to maintain discipline, en- 
+force athletic program regulations, 
+and protect the safety of student 
+athletes, is a significant factor 
+that must weigh heavily in any bal- 
+ancing process. 
+
+
+796 F. Supp. at 1361 (Pet. App. B at 102a-105a). 
+
+
+38 
+
+tion cannot occur where, as the district 
+court found here, disciplinary problems 
+are “epidemic" and mass expulsions seem 
+the only reasonable alternative to drug 
+testing. Id., (Pet. App. B at 85a-86a). 
+This Court should specifically consider 
+the issue of suspicionless drug testing 
+in schools in light of its holding in 
+TLO. 
+
+3. Educating Children in an Envi- 
+
+ronment Free From Drugs, Excessive 
+
+Discipline Problems and a Heightened 
+
+Risk of Physical Injury Justifies 
+
+Urinalysis Drug Testing of student 
+
+Athletes. 
+
+As noted above, given the holding in 
+TLO, it is not at all clear that the Dis- 
+trict was required to show a "compelling 
+governmental interest" to justify its 
+drug testing program. But even if such a 
+showing were required, the Ninth Circuit 
+
+
+erred in holding that school officials do 
+
+
+not have a compelling governmental inter- 
+
+
+_ ow Te ) ee 
+
+
+39 
+est in dealing with an epidemic of drug 
+use and discipline problems like that 
+presented in the Vernonia schools. In 
+his concurring opinion in TLO, Justice 
+Powell, joined by Justice O'Connor, rec- 
+ognized that a state has a "compelling 
+interest" in educating and training its 
+young people: 
+
+
+The primary duty of the school 
+officials and teachers, as the 
+Court states, is the education 
+and training of young people. 
+
+A State has a compelling inter- 
+est in assuring that the 
+schools meet this responsibili- 
+ty. Without first establishing 
+discipline and maintaining or- 
+der, teachers cannot begin to 
+educate their students. And 
+apart from education, the 
+school has the obligation to 
+protect pupils from mistreat- 
+ment by other children, and 
+also to protect teachers them- 
+selves from violence by the few 
+students whose conduct in re- 
+cent years has prompted nation- 
+al concern. For me, it would 
+be unreasonable and at odds 
+with history to argue that the 
+full panoply of constitutional 
+rules applies with the same 
+
+
+40 
+force and effect in the school- 
+house as it does in the en- 
+forcement of criminal laws. 
+469 U.S. at 350 (Powell, J., concurring) 
+(footnote omitted). Similarly, Justice 
+Blackmun, in his concurrence, noted that: 
+Education “is perhaps the most 
+important function" of govern- 
+ment, Brown v. Board of Educa- 
+tion, 347 U.S. 483, 493, and 
+government has a heightened 
+obligation to safeguard stu- 
+dents whom it compels to attend 
+schools. 
+469 U.S. at 353 (Blackmun, J., concur- 
+ring). 
+The Ninth Circuit nevertheless re- 
+jected the argument that the District's 
+interest was sufficiently "compelling" to 
+
+
+justify drug testing. 23 F.3d at 1526 
+(Pet. App. A at 57a-59a). The Ninth Cir- 
+cuit acknowledged the tragedy of drug 
+usage by students: 
+
+Having uncaring, disrespectful, 
+
+
+drug impaired children in our 
+schools is tragic. Having them 
+
+
+_ 
+
+
+41 
+
+anywhere is equally tragic. In 
+
+fact, it is tragic to have 
+
+adults of that type in our so- 
+
+ciety. It is widely conceded 
+
+that what drug usage has done 
+
+to the fabric of our society is 
+
+a tragedy of national propor- 
+
+tions. 
+23 F.3d at 1526 (Pet. App. A at 57a-58a). 
+But the Ninth Circuit apparently did not 
+believe that the conditions facing the 
+Vernonia school administration were 
+"tragic" enough to justify the solution 
+the District was driven to impose. Ac- 
+cording to the Ninth Circuit, 
+suspicionless drug testing requires, 
+"some additional horrible event, some 
+terrible threat to society that can flow 
+from the presence of drugs - some shoot- 
+ing, some explosion, some crash of train, 
+truck, or aircraft, or some breach of top 
+secret national security." 23 F.3d at 
+
+
+1526 (Pet. App. A at 58a). 
+
+
+In other words, the Ninth Circuit 
+
+
+42 
+
+concluded that the risk of someone being 
+shot or involved in a train crash is of a 
+greater magnitude than the risk that a 
+child participating in high school or 
+middle school athletics will be seriously 
+injured on the playing field as a result 
+of drug use, or that a whole school, fol- 
+lowing the lead of student athletes, will 
+suffer from an "epidemic" of drug abuse 
+and disciplinary problems. The shootings 
+and train crashes which the Ninth Circuit 
+said justify drug testing may, at first 
+glance, seem more dramatic than the trag- 
+edy that faced the teachers and adminis- 
+trators in the Vernonia schools. But 
+that is deceptive. 
+
+The situation presented to the 
+teachers and administrators in Vernonia, 
+had it not been promptly remedied, would 
+
+
+have had a profound, negative effect on 
+
+
+43 
+every student in the Vernonia public 
+schools. It is obvious that education 
+cannot occur in an environment poisoned 
+by a significant number of children abus- 
+ing drugs. It is equally obvious that 
+school officials cannot preserve the 
+safety of students playing sports under 
+the influence of drugs. As Justice 
+Blackmun noted in his concurrence in TLO, 
+government has a “heightened obligation 
+to safeguard" these very students. 
+
+
+469 U.S. at 353.'® Public school offi- 
+
+
+'© Petitioner recognizes that this Court 
+recently denied the petition for writ of certio- 
+rari in University of Colorado v. Derdeyn, 863 
+P.2d 929 (Colo. 1993), cert. denied _ U.S. __, 
+114 S. Ct. 1646 (1994). That case presented the 
+issue of whether the University of Colorado's 
+random, suspicionless drug testing of college 
+athletes violated the Fourth Amendment to the 
+United States Constitution. 863 P.2d at 930. 
+But the instant case is readily distinguishable 
+from Derdeyn. Respondents’ ward was a 12-year- 
+old grade school student, not an adult intercol- 
+legiate athlete at a major university. The Dis- 
+trict is charged with protecting its young stu- 
+dents in a way that a major university for adult 
+students is not. There is also an inculcative 
+role which society has assigned to our grade 
+schools and high schools, which is not expected 
+
+
+44 
+cials dedicated to educating and protect- 
+ing students should not be left without 
+the tools available to accomplish the 
+crucial job our society has assigned to 
+them. This Court should establish a na- 
+tional standard for drug testing in 
+
+
+schools. 
+
+
+of a major university. The duty of establishing 
+discipline, maintaining order, and protecting and 
+nurturing students is far greater in middle 
+schools and high schools than in colleges. 
+
+
+The district court in the instant case 
+pointed out that Derdeyn involved students who 
+have, for the most part, reached the age of 
+adulthood, and then distinguished Derdeyn as 
+follows: 
+
+
+University programs are far less 
+structured, class attendance is vol- 
+untary and discipline is largely left 
+to the students. I also note that 
+the role of an athletic program on a 
+large University is far different 
+than that of a rural middle school or 
+high school with limited alternative 
+activities. 796 F. Supp. at 1363-64, 
+n. 7 (Pet. App. B at 118a). 
+
+
+Derdeyn is also distinguishable because 
+there was no evidence in that case of actual drug 
+problems or drug related injuries among the 
+University's athletes. See, University of Colo- 
+rado v. Derdeyn, 863 P2d at 933. 
+
+
+45 
+CONCLUSION 
+
+
+The petition for writ of certiorari 
+
+
+should be granted. 
+
+
+Dated: September 28, 1994. 
+Respec. fully submitted, 
+
+
+TIMOTHY R. VOLPERT 
+
+Counsel of Record 
+DAVIS WRIGHT TREMAINE 
+2300 First Interstate Tower 
+1300 S.W. Fifth Avenue 
+Portland, Oregon 97201 
+(503) 241-2300 
+
+
+COUNSEL FOR PETITIONER 
+
+
+APPENDICES 
+
+
+la 
+
+
+APPENDIX A 
+
+
+UNITED STATES COURT OF APPEALS FOR THE 
+NINTH CIRCUIT 
+
+
+No. 92-35520 
+WAYNE ACTON and JUDY ACTON, guardians ad 
+litem for JAMES ACTON, 
+Plaintiffs-Appellants, 
+
+
+Vv. 
+
+
+VERNONIA SCHOOL DISTRICT 47J, 
+Defendant-Appellee. 
+
+
+Argued and Submitted November 3, 1993 
+Decided May 5, 1994 
+
+
+[23 F.2d 1514] 
+Before: Stephen Reinhardt, Melvin 
+Brunetti, and Ferdinand F. Fernandez, 
+Circuit Judges. 
+
+
+Opinion by Judge Fernandez; Concurrence 
+by Judge Reinhardt. | 
+
+
+FERNANDEZ, Circuit Judge: 
+
+Wayne and Judy Acton, guardians ad 
+litem for James Acton, appeal the 
+district court's judgment at trial that 
+the Vernonia School District's mandatory 
+
+
+random drug testing policy for 
+
+
+2a 
+participants in interscholastic athletics 
+("the Policy") does not violate James's 
+right to be free from unreasonable 
+searches, under either Article I, Section 
+9 of the Oregon Constitution or the 
+Fourth Amendment. We reverse. 
+BACKGROUND 
+
+The District runs two schools, 
+Washington Grade School and Vernonia High 
+School. Several teachers in the District 
+testified that prior to 1985 drugs and 
+alcohol were used by only a small group 
+of students and that there were very few 
+discipline problems in the schools. 
+Between 1985 and 1989, however, teachers 
+and administrators began to perceive a 
+marked increase in disciplinary problems, 
+student drug use, and the glorification 
+of drug culture. Athletic coaches 
+
+
+noticed an increase in the number and 
+
+
+3a 
+severity of injuries, which they 
+attributed to greater drug use. They 
+testified to a number of incidents where 
+students had, or were suspected to have, 
+used drugs. They personally saw some of 
+the problems, but were told of others. 
+Some of the involved students were 
+athletes and others were not. Among 
+other things, one teacher had often seen 
+students smoking marijuana during the 
+school day at a coffee shop across the 
+street from the high school. An English 
+teacher received several essays 
+describing and glorying in scenes of 
+student drug and alcohol use. At one 
+wrestling meet a boy was seriously 
+injured when he failed to perform a basic 
+well-drilled safety maneuver. The 
+student's hotel room smelled of marijuana 
+
+
+when the coach later went to check on his 
+
+
+4a 
+
+condition. Parents reported that they 
+had heard of drug use on a football trip, 
+and students confronted by the principal 
+admitted that they had used marijuana. 
+Students even formed rowdy groups. One 
+group called itself the "Big Elk." It was 
+composed largely of athletes. Another 
+group called itself the "Drug Cartel." 
+
+By 1989, Mr. Aultman, the principal 
+of the grade school, and his faculty felt 
+that they had to do something to combat 
+the growing drug problem. They had 
+attempted drug education programs and 
+even a drug-sniffing dog, but they 
+noticed no decrease in disciplinary 
+problems or in drug use. They decided to 
+institute the Policy. 
+
+The Policy was unanimously adopted 
+by the Vernonia School Board in the fall 
+
+
+of 1989. By its terms, all students who 
+
+
+5a 
+want to participate in interscholastic 
+athletics are required to sign a form 
+authorizing the District to perform a 
+drug test on a urine sample provided by 
+the student. All interscholastic 
+student-athletes are tested at the 
+beginning of each athletic season in 
+which they compete. During the season, 
+student athietes are tested at random on 
+a weekly basis. 
+
+Boys and girls are tested in 
+different areas of the school. Girls go 
+to the office of Ms. King, the director 
+of girls' athletics, and boys go to the 
+boys' locker room. Each student fills 
+out part of a specimen control form, 
+which assigns a number to the specimen. 
+The faculty monitor then gives the 
+student a testing packet, which contains 
+
+
+a cup and a vial. Boys go to the urinals 
+
+
+6a 
+in the boys' locker room bathroom and 
+produce a specimen in the cup. A male 
+faculty member, either Mr. Aultman or Mr. 
+Svenson, a coach, is seated on a bench 
+some 12 to 15 feet away while the boy 
+urinates. The student remains fully 
+clothed with his back to the monitor. At 
+no time does the monitor have a view of 
+the student's genitals. Aultman and 
+Svenson testified that they do not always 
+watch the student while he produces the 
+specimen, but they generally listen for 
+the normal sounds of urination. After 
+the student produces the specimen, he 
+returns the cup to the monitor who checks 
+it for temperature and obvious signs of 
+tampering. The monitor pours the 
+specimen into the vial. The procedure 
+
+
+for girls differs only slightly. 
+
+
+7a 
+
+Samples are sent to Metrolab, a 
+private company that specializes in drug 
+testing by urinalysis. Security 
+procedures protect the chain of 
+possession and the identity of the 
+student. The tests screen for 
+creatinine, amphetamines, cocaine 
+marijuana and LSD. They are 
+approximately 99.94% accurate. Test 
+results are reported by telephone to 
+authorized District personnel. Positive 
+tests are mailed to the District's 
+superintendent. 
+
+If a student's test returns 
+positive, a second test is administered 
+as soon as possible to confirm the 
+results. The District notifies the 
+student's parents after the second 
+positive test. If the second test is 
+
+
+negative, no disciplinary action is 
+
+
+8a 
+taken. A student who returns two 
+positive tests is given two options. The 
+student may either participate in a drug 
+counseling program for six weeks and 
+submit to weekly drug tests or accept a 
+suspension from the athletic program for 
+the remainder of the current season and 
+the entire following athletic season. 
+
+For the second offense, the Policy 
+states that a student is suspended from 
+participating in athletics for the 
+remainder of the current season and the 
+next athletic season, with no other 
+option. The third offense draws a 
+suspension for the remainder of the 
+current season and the next two athletic 
+seasons with no opportunity to reduce the 
+penalty. Any student who refuses to 
+submit to a drug test at any time is 
+
+
+suspended from the team for the remainder 
+
+
+9a 
+of the athletic season. 
+
+James was a seventh grader at 
+Washington Grade School during the 1991- 
+92 academic year. In the fall, he tried 
+out for the football team. At the first 
+practice team members were given drug 
+testing consent forms to sign and to have 
+their parents sign. James brought the 
+form home, but he and his parents decided 
+that they did not want to sign the forn. 
+Because James refused to consent to drug 
+testing, he was suspended from 
+interscholastic athletics for the season. 
+No evidence suggested that James has ever 
+used drugs or that the District has any 
+reason to suspect that he has. 
+
+James's parents brought this action 
+Claiming that the Policy violated James's 
+right to be free from unreasonable 
+
+
+government searches under both the Fourth 
+
+
+10a 
+Amendment of the United States 
+Constitution and Article I, Section 9 of 
+the Oregon Constitution. After a trial, 
+the district court rejected both claims. 
+Acton v. Vernonia Sch. Dist., 796 F. 
+Supp. 1354 (D.Or.1992) (Acton I). This 
+appeal ensued. 
+
+
+JURISDICTION AND STANDARD 
+OF REVIEW 
+
+
+The district court had jurisdiction 
+over the Fourth Amendment claim under 28 
+U.S.C. § 1331. It had supplemental 
+jurisdiction over the Oregon 
+constitutional cause of action. 28 U.S.C. 
+§ 1367(a). We have jurisdiction under 28 
+U.S.C. § 1291. 
+
+We review the district court's 
+findings of fact for clear error. 
+Fed.R.Civ.P. 52(a). "A finding is 
+‘clearly erroneous' when although there 
+
+
+is evidence to support it, the reviewing 
+
+
+lla 
+court on the entire evidence is left with 
+the definite and firm conviction that a 
+mistake has been committed." United 
+States v. United States Gypsum Co., 333 
+U.S. 364, 395, 68 S.Ct. 525, 542, 92 
+L.Ed. 746 (1948). Questions of federal 
+law are reviewed de novo, Bordallo v. 
+Reyes, 763 F.2d 1098, 1102 (9th 
+Cir.1985), as are questions of state law, 
+In re McLinn, 739 F.2d 1395, 1403 (9th 
+Cir.1984) (en banc). 
+DISCUSSION 
+The Actons assert that the District 
+failed to prove that there actually was a 
+drug problem. They say that there was no 
+foundation upon which to build a drug 
+policy. They go on to argue that even if 
+there were a drug problem, it did not 
+justify a random testing program. We 
+
+
+disagree with their first contention, but 
+
+
+12a 
+agree with the second one. 
+
+Before turning to a discussion of 
+the substantive issues, we must address 
+the somewhat arcane question of whether 
+we should decide this case on the basis 
+of the Oregon Constitution or on the 
+basis of the United States Constitution. 
+We have held that when the state and 
+federal constitutional provisions are 
+"coextensive," we can decide the federal 
+constitutional claims because that will 
+also decide the state constitutional 
+Claims. See Los Angeles County Bar 
+Ass'n v. Eu, 979 F.2d 697, 705 n.4 (9th 
+Cir.1992). However, if they are not 
+coextensive and the state constitution 
+actually gives more protection than the 
+federal constitution, we decide validity 
+under the state constitution in order to 
+
+
+avoid addressing federal constitutional 
+
+
+13a 
+claims unnecessarily. See, e.g., Ellis 
+v. City of La Mesa, 990 F.2d 1518, 1524 
+(9th Cir.1993); Hewitt v. Joyner, 940 
+F.2d 1561, 1565 (9th Cir.1991), cert. 
+denied, — U.S. —, 112 S.Ct. 969, 117 
+L.Ed.2d 134 (1992). Oregon presents us 
+with a variation on these themes. 
+
+The language of Article I, Section 9 
+of the Oregon Constitution regarding 
+searches and seizures is almost exactly 
+the same as the language of the Fourth 
+Amendment. To the extent the provisions 
+read differently, the Oregon courts have 
+said that the language differences are of 
+no consequence. See State v. Flores, 280 
+Or. 273, 279-81, 570 P.2d 965, 968-69 
+(1977). Nonetheless, Oregon insists that 
+its constitutional provision can give 
+more protection than the federal 
+
+
+constitution and that it sometimes does 
+
+
+14a 
+so. See State v. Caraher, 293 Or. 741, 
+748-50, 653 P.2d 942, 946-47 (1982); see 
+also State v. Florance, 270 Or. 169, 182- 
+83, 527 P.2d 1202, 1208-09 (1974), 
+overruled on other grounds by Caraher, 
+293 Or. at 748-50, 653 P.2d at 946-47. 
+For example, in Nelson v. Lane County, 
+304 Or. 97, 743 P.2d 692 (1987) (Nelson 
+II) the court found, in effect, that a 
+roadblock stop violated the Oregon 
+Constitution due to a lack of proper 
+authorization, despite the fact that it 
+would not violate the Fourth Amendment. 
+Id. at 101-11, 743 P.2d at 694-700. We 
+say “in effect" because it is not 
+entirely clear whether the authorization 
+requirement is a matter of general law 
+rather than a matter of Oregon 
+constitutional analysis. In any event, 
+
+
+it must be taken into account when the 
+
+
+15a 
+Oregon constitutional provision is 
+analyzed. Furthermore, Oregon courts, or 
+judges on those courts, have gone out of 
+their way to insist that the federal 
+constitutional analysis does not control 
+Oregon search and seizure analysis. See, 
+e.g., Nelson II, 304 Or. at 101-02, 743 
+P.2d at 694; State v. Boyanovsky, 304 Or. 
+131, 137, 743 P.2d 711, 714 (1987) 
+(Gillette, J., specially concurring) ; 
+Caraher, 293 Or. at 748-52, 653 P.2d at 
+946-48; Nelson v. Lane County, 79 Or.App. 
+753, 760, 720 P.2d 1291, 1296 (1986) 
+(Nelson I);' see also State v. Ainsworth, 
+310 Or. 613, 619 n.8, 801 P.2d 749, 752 
+
+
+n.8 (1990) (aerial search questions for 
+
+
+’ This case was affirmed on other 
+grounds in Nelson II. Thus, this iteration of 
+the case is probably not controlling precedent. 
+See Rogers v. Saylor, 88 Or.App. 480, 483-84, 746 
+P.2d 718, 720 (1987), rev’d on other grounds, 306 
+Or. 267, 760 P.2d 232 (1988). 
+
+
+16a 
+
+Oregon purposes are different from what 
+they are for federal purposes. The 
+result, however, appears to be the same). 
+
+We are therefore constrained, in the 
+first instance, to decide this case on 
+Oregon constitutional grounds. That, 
+however, is no mean task. Oregon law 
+regarding random searches in general is 
+not entirely clear. More importantly, as 
+far as we can ascertain, the Oregon 
+courts have never decided a random drug 
+testing case. We are, therefore, left 
+without a compass that Clearly points us 
+in the right direction unless we use a 
+federal compass. We can say with 
+absolute confidence that the Oregon 
+Constitution will not be construed to 
+offer less protection than the Fourth 
+Amendment. It is highly likely that it 
+
+
+will be found to offer more protection. 
+
+
+17a 
+
+We also take note of the fact that the 
+Oregon Supreme Court itself has often 
+decided cases by declaring that "although 
+
+at liberty to adopt a stricter 
+test," it will apply Fourth Amendment 
+analysis because that is, at least, a 
+floor. State v. Tourtillott, 289 Or. 
+845, 854, 618 P.2d 423, 427 (1980), cert. 
+denied, 451 U.S. 972, 101 S.Ct. 2051, 68 
+L.Ed.2d 352 (1981). Having done that, 
+the court has then gone on to state that 
+a particular search violates neither the 
+Fourth Amendment nor Article I, Section 
+9. Id. at 859, 618 P.2d at 430; see also 
+Flores, 280 Or. at 277-82, 570 P.2d at 
+967-70. 
+
+Therefore, in our ensuing discussion 
+we will, to the extent possible, refer to 
+the guideposts set out for us by the 
+
+
+Oregon courts. But, particularly in the 
+
+
+18a 
+
+specific area of urine testing—the core 
+issue in this case-we will unabashedly 
+refer to federal law and decide the case 
+based upon the Fourth Amendment, 
+confident in our view that Oregon itself 
+would do no less. 
+I. Evidentiary Questions 
+
+The Actons make two basic challenges 
+to the district court's finding that a 
+drug problem existed. They argue that 
+much of the evidence upon which the court 
+relied was inadmissible hearsay. Insofar 
+as the court relied on admissible 
+evidence, they contend that it shows only 
+that the faculty in the District believed 
+that there was a drug problem, not that 
+there actually was one. 
+
+The district court found that the 
+Policy is limited to the one activity 
+
+
+that is likely to have the greatest 
+
+
+19a 
+impact "on the drug and alcohol abuse 
+problem[(,)" Acton I, 796 F. Supp. at 
+1363, that there was "ample evidence in 
+the record to support the [Djistrict's 
+claim that alcohol and drug use were the 
+primary causes of disruptions and 
+disciplinary problems during school 
+hours," id. at 1367, and that “coaches 
+have observed athletes perform poorly and 
+unsafely while under the influence of 
+some intoxicant." Id. at 1363. 
+
+The underlying evidence need not be 
+extensively reported here. We, however, 
+have read the record. It demonstrates 
+that both the administrators and the 
+faculty beheld instances of drug use and 
+glorification. They also perceived 
+actions of athletes and others that were 
+so far out of the norm that use of drugs 
+
+
+was a logical inference. Besides that, 
+
+
+20a 
+
+they were told of incidents by others who 
+were concerned and who had no reason to 
+lie. Perhaps dubbing this a "problem" is 
+a matter of perception or definition. 
+What appears to be a problem in one place 
+might seem to be a minor annoyance 
+elsewhere. Suffice it to say that drug 
+use appeared to be more extreme than it 
+should be and even seemed to be growing. 
+It was sufficient to give them concern 
+for the future of the youths they had 
+responsibility for. Based upon the 
+evidence, we cannot say that the concern 
+was unreasonable. Similarly, we cannot 
+say that the district court committed 
+clear error in finding the facts. 
+
+However, we reemphasize that what 
+the evidence shows, and all it shows, is 
+that there was some drug usage in the 
+
+
+schools, that student discipline had 
+
+
+21a 
+
+declined, that athletes were involved, 
+and that there was reason to believe that 
+one athlete had suffered an injury 
+because of drug usage and others may 
+have. Moreover, administrators, 
+teachers, parents, and ultimately the 
+school board were deeply concerned and 
+they developed the Policy in order to 
+deal with the "problem." 
+II. Constitutional Analysis 
+
+Article I, Section 9 of the Oregon 
+Constitution provides: 
+
+No law shall violate the right 
+
+of the people to be secure in 
+
+their persons, houses, papers, 
+
+and effects, against 
+
+unreasonable search, or 
+
+seizure; and no warrant shall 
+
+issue but upon probable cause, 
+
+supported by oath, or 
+
+affirmation, and particularly 
+
+describing the place to be 
+
+searched, and the person or 
+
+thing to be seized. 
+
+
+As we have already said and as can be 
+
+
+plainly seen, this phraseology is not 
+
+
+22a 
+materially different from that of the 
+Fourth Amendment. In Oregon, the courts 
+ask three questions when they are 
+considering an Article I, Section 9 
+search case: was there a search; did the 
+executive official have the authority to 
+conduct the search; and was the search 
+reasonable? So will we. 
+
+We first turn to the question of 
+
+whether the conduct of a government 
+official constitutes a "search" in the 
+
+
+constitutional sense. See State v. 
+
+
+Gerrish, 311 Or. 506, 510, 815 P.2d 1244, 
+
+
+1246 (1991); Ainsworth, 310 Or. at 616- 
+
+
+17, 801 P.2d at 750. The Oregon Supreme 
+
+
+Court has stated that "Article I, section 
+
+
+9, protects privacy and possessory 
+interests from unreasonable governmental 
+intrusion." Id. at 617, 801 P.2d at 751; 
+
+
+see also State v. Tanner, 304 Or. 312, 
+
+
+23a 
+319, 745 P.2d 757, 760 (1987) (“three 
+interests [are] protected by section 9: 
+privacy, property, and some sort of 
+a. . . right to be protected from 
+undignified, forcible violations of the 
+person") (internal quotation and citation 
+omitted). Any time a government inquiry 
+intrudes upon one of these rights, it is 
+an Article I, Section 9 "search." See 
+State v. Campbell, 306 Or. 157, 170-72, 
+759 P.2d 1040, 1047-49 (1988); State v. 
+Owens, 302 Or. 196, 206, 729 P.2d 524, 
+530 (1986). 
+
+Because the Oregon courts have not 
+decided a urine testing case, we turn to 
+Fourth Amendment law to decide if the 
+collection and testing of urine is a 
+search. Of course, it is. See 
+Skinner v. Railway Labor Executives’ 
+
+
+Ass'n, 489 U.S. 602, 617, 109 S.Ct. 1402, 
+
+
+24a 
+1413, 103 L.Ed.2d 639 (1989). Thus, it 
+cannot be doubted that collection and 
+testing pursuant to the Policy was a 
+search within the meaning of Article I, 
+Section 9. Given the requirements of the 
+Fourth Amendment, it could hardly be 
+otherwise. 
+
+The next question is whether the 
+executive officials who executed the 
+search had authority to do so. The 
+Oregon Supreme Court has stated that 
+"the function of [Article I, Section 9) 
+is to subordinate the power of executive 
+officers over the people and their 
+houses, papers, and effects to legal 
+controls beyond the executive branch 
+itself.’" AFSCME Local 2623 v. Department 
+of Corrections, 315 Or. 74, 82, 843 P.2d 
+409, 414 (1992) (quoting State v. Weist, 
+
+
+302 Or. 370, 376, 730 P.2d 26, 29 
+
+
+25a 
+
+(1986)). If a search is not authorized, 
+the court's inquiry ends. The search 
+violates the state constitution. 
+State v. Atkinson, 298 Or. 1, 8-11, 688 
+P.2d 832, 836-38 (1984); see Nelson II, 
+304 Or. at 105-06, 743 P.2d at 696-97. 
+
+Constitutionally satisfactory 
+authorization to search may come from one 
+of four sources. First, in most cases, 
+"“(ajbsent consent, law enforcement 
+officials must have a warrant to 
+search...." State v. Bridewell, 306 Or. 
+231, 235, 759 P.2d 1054, 1057 (1988). A 
+warrant is always sufficient 
+authorization to search. Next, a 
+warrantless search is permissible if it 
+falls within one of the "specifically 
+established and carefully delineated 
+exceptions to the warrant requirement," 
+
+
+that is, consent, search incident to 
+
+
+26a 
+
+arrest, plain view, exigent 
+circumstances, inventory search, and 
+"stop and frisk." Id. Third, 
+authorization by a legislative enactment 
+that defines and limits official 
+authority satisfies Article I, Section 9 
+in some cases. AFSCME, 315 Or. at 82-83, 
+843 P.2d at 414. Finally, even if a 
+legislative grant of authority does not 
+sufficiently limit the scope of executive 
+discretion, the executive itself may 
+provide limits by establishing a 
+systematically administered program 
+pursuant to its statutory authority. Id. 
+
+Oregon courts analyze "criminal" 
+searches and “administrative" searches 
+
+
+differently.’ Criminal searches are only 
+
+
++ 
+
+
+7 The classification of a search 
+depends upon "(t)jhe purpose of the search and the 
+consequences that flow from it." Nelson II, 304 
+Or. at 104, 743 P.2d at 696. If the consequences 
+of noncompliance with whatever standards the 
+inspection is meant to uphold are noncriminal, 
+
+
+27a 
+permissible under Article I, Section 9 if 
+they conform with the warrant clause or 
+one of its recognized exceptions. Nelson 
+IT, 304 Or. at 104, 743 P.2d at 696. By 
+contrast, the warrant clause and its 
+exceptions do not provide the exclusive 
+authorizations for an administrative 
+search. Oregon courts have also upheld 
+administrative searches against Article 
+I, Section 9 challenge, where they have 
+been authorized by legislative enactments 
+or administered according to executive 
+programs that sufficiently limit official 
+discretion. AFSCME, 315 Or. at 82-83, 
+843 P.2d at 414; see State v. Boyanovsky, 
+
+
+304 Or. 131, 133-34, 743 P.2d 711, 712 
+
+
+the search is “civil, or “administrative.” By 
+contrast, if offenders face criminal sanctions, 
+the inspection implicates criminal law 
+enforcement purposes. Id. A search in the 
+Criminal context can be administrative in nature. 
+See Atkinson, 298 Or. at 10-11, 688 P.2d at 837- 
+38 (police inventory search). 
+
+
+28a 
+(1987). The district court found that 
+the Policy was properly authorized by a 
+
+
+politically accountable body when it was 
+
+
+adopted by a vote of the Board. Acton I, 
+
+
+796 F. Supp. at 1367. That finding is 
+not challenged on appeal. 
+
+The third question is whether the 
+search was "reasonable." Here again the 
+analysis proceeds differently for 
+criminal and administrative searches. 
+Criminal searches are reasonable only if 
+authorized by a warrant or an exception 
+to the warrant requirement. No Oregon 
+court has upheld a criminal search 
+without finding that the executive 
+official had a reasonable individualized 
+suspicion that evidence of wrongdoing 
+
+
+would be found on the person or at the 
+
+
+place being searched. Nelson II, 304 Or. 
+
+
+at 101, 743 P.2d at 694 ("searches for 
+
+
+29a 
+evidence to be used in a criminal 
+prosecution, conducted without a warrant 
+or suspicion of wrongdoing violate 
+Article I, section 9"); see also 
+Boyanovsky, 304 Or. at 133-34, 743 P.2d 
+at 712 (1987). 
+
+Administrative searches conducted 
+pursuant to a warrant or an exception to 
+the warrant requirement are also 
+reasonable. An administrative search 
+satisfies the reasonableness inquiry if 
+its procedures require officers to have 
+an individualized suspicion of wrongdoing 
+before conducting a search. See AFSCME, 
+315 Or. at 83, 843 P.2d at 414. A 
+suspicionless administrative search may 
+also withstand a state constitutional 
+challenge. 
+
+In Tourtillott, the Oregon Supreme 
+
+
+Court held that a fixed game checkpoint, 
+
+
+30a 
+at which police stop all cars travelling 
+on certain roads to check for hunting 
+licenses, does not violate Article I, 
+Section 9 even though police do not have 
+an individualized suspicion that they 
+will discover evidence of wrongdoing in 
+any particular car. 289 Or. at 859, 618 
+P.2d at 430. In reaching its decision, 
+the court relied upon an analysis of 
+federal law. In particular, it referred 
+to Delaware v. Prouse, 440 U.S. 648, 99 
+S.Ct. 1391, 59 L.Ed.2d 660 (1979). In 
+Prouse, the Court developed a four part 
+analysis for determining the 
+reasonableness of random, suspicionless 
+searches and seizures. As it said, "the 
+permissibility of a particular law 
+enforcement practice is judged by 
+balancing its intrusion on the 
+
+
+individual's Fourth Amendment interests 
+
+
+31a 
+against its promotion of legitimate 
+governmental interests." Id. at 654, 99 
+S.Ct. at 1396. From Prouse, four 
+considerations, no one of which is 
+determinative, can be distilled: (1) the 
+importance of the governmental interests; 
+(2) the degree of physical and 
+psychological intrusion on the citizen's 
+rights; (3) the amount of discretion the 
+procedure vests in individual officials; 
+and (4) the efficiency of the procedure - 
+that is how well it contributes to the 
+reaching of its purported goals and how 
+necessary it is. Id. at 653-63, 99 S. Ct. 
+1396-1401. These are the factors that 
+the Oregon Supreme Court identified and 
+adopted. See Tourtillott, 289 Or. at 
+864, 618 P.2d at 433. That court then 
+determined that a random search procedure 
+
+
+which passed muster under the factors 
+
+
+32a 
+“was not unreasonable under either the 
+Fourth Amendment of the United States 
+Constitution or Article I, section 9 of 
+the Oregon Constitution." Id. at 859, 618 
+P.2d at 430. 
+
+It has since been suggested that the 
+Tourtillott analysis was really made 
+under the Fourth Amendment and was not a 
+complete explication of the reach of 
+Article I, Section 9. See, e.g. Nelson 
+II, 304 Or. at 101-02, 743 P.2d at 694. 
+Nonetheless, the Oregon Supreme Court has 
+not substituted a new test, so if some 
+nuance remains to be added to the Prouse 
+and Tourtillott analysis, we are not 
+aware of what that is. At any rate, we 
+need not enter the lists on that issue. 
+If Tourtillott does set forth the proper 
+test under the Oregon Constitution, as it 
+
+
+seems to, we must apply what amounts to 
+
+
+33a 
+the Prouse analysis. If it does not, 
+Oregon law is unclear, and we will turn 
+to the federal constitution for ed 
+There we find the Prouse test. Again, 
+that will at least establish the floor, 
+regardless of where Oregon may later 
+discover the ceiling. 
+
+It is clear that the Policy 
+authorizes administrative, noc criminal, 
+searches. It is equally clear that the 
+school administrators do not obtain 
+search warrants and do not claim that 
+administration of the tests fits into one 
+of the exceptions to the warrant 
+requirement. Furthermore, the District 
+concedes that, as is the case with most 
+students who are tested, it had no reason 
+to suspect that James has ever taken 
+drugs. Testing is totally suspicionless. 
+
+
+As a suspicionless, administrative search 
+
+
+34a 
+program, the Policy can only withstand 
+Article I, Section 9 challenge if the 
+drug tests that it authorizes are 
+reasonable, under the four factor 
+analysis outlined in Prouse and 
+Tourtillott. 
+
+Two factors weigh in favor of the 
+Policy's constitutionality. The Policy 
+contributed to reaching the desired goal. 
+Every teacher who testified had noticed 
+an improvement in discipline, a reduction 
+in disciplinary referrals, and a decrease 
+in drug use and the glorification of drug 
+culture since the Policy was implemented. 
+Thus, the efficiency factor weighs 
+Slightly in favor of the Policy. We say 
+Slightly because the exact nature of the 
+goal is not entirely clear. If the goal 
+was to avoid athletic injuries, testing 
+
+
+of athletes was certainly a good way to 
+
+
+35a 
+approach that problem. If the goal was 
+to reduce drug use in the student body in 
+general, testing athletes seems to be a 
+considerably more roundabout way of 
+reaching that goal. Furthermore, if, as 
+the testimony showed, teachers and 
+administrators could detect behavior and 
+physical problems that rather clearly 
+appeared to be drug related, a program 
+designed to target those who displayed 
+the problems might be more efficient, 
+although it might also present 
+difficulties of its own when it came to 
+discretionary enforcement. Of course, 
+the Supreme Court has recognized that a 
+somewhat relaxed standard of suspicion 
+may well justify searches of students. 
+New Jersey v. T.L.O., 469 U.S. 325, 341- 
+42, 105 S.Ct. 733, 743, 83 L.Ed.2d 720 
+
+
+(1985). That does not mean that the 
+
+
+36a 
+Court decided that no form of 
+individualized suspicion is required in 
+schools. Id. at 342 n.8, 105 S.Ct. at 
+743 n.8. It does overcome some of the 
+difficulty that is often mentioned when 
+individualized testing is suggested. 
+Certainly the Policy seems to have helped 
+the District realize its goals of making 
+the school run more smoothly. Its use 
+and a return to normalcy coincided. 
+Whether random testing was necessary to 
+reach that goal is somewhat more 
+questionable. However, on balance we 
+believe the efficiency factor favors the 
+District's position. 
+
+Moreover, neither party contests the 
+district court's finding that drug 
+testing under the Policy is completely 
+Testing is initially required of 
+
+
+random. 
+
+
+all athletes and then conducted on a 
+
+
+er sateen 
+
+
+37a 
+
+lottery basis throughout the athletic 
+season. It vests no discretion in any 
+District officials. This favors the 
+Policy. That leaves importance and 
+intrusiveness. In this case they are 
+dispositive. They dispose of the Policy. 
+
+In Tourtillott, the Oregon Supreme 
+Court held that enforcing hunting and 
+fishing laws was a sufficient state 
+interest to justify a checkpoint at which 
+police ask drivers for their hunting 
+licenses, or if none was presented, for 
+their driving licenses and automobile 
+registrations. 289 Or. at 864-67, 618 
+P.2d at 433-34. The District contends 
+that if the state's interest in freeing 
+its forests and streams from unlicensed 
+hunters and fisherman is important enough 
+to justify a random search procedure, so 
+
+
+is its interest in freeing its schools 
+
+
+38a 
+
+
+from the pernicious effects of illegal 
+
+
+drugs. We do agree that keeping children 
+
+
+away from drugs is at least as important 
+as keeping unlicensed hunters away from 
+the forests, but we must reject the 
+District's argument. The two situations 
+are not at all comparable. 
+
+Tourtillott merely approved of a 
+checkpoint stop. In 1976, the United 
+States Supreme Court approved fixed 
+immigration checkpoints in Texas and 
+Southern California. United States v. 
+Martinez-Fuerte, 428 U.S. 543, 96 S.Ct. 
+3074, 49 L.Ed.2d 1116 (1976). Because 
+the level of intrusion on privacy was so 
+limited, the Court only required the 
+government to justify the policy with a 
+legitimate interest. Id. at 561-62, 96 
+S.Ct. at 3084-85. The desire to exclude 
+
+
+illegal aliens was sufficient. 
+
+
+39a 
+
+As we have already said, the Oregon 
+appellate courts have never decided a 
+random drug testing case. The federal 
+courts have. When confronted with a 
+random drug testing case, the Supreme 
+Court did not point to the kind of 
+governmental interest—legitimatethat it 
+found to be sufficient in its earlier 
+checkpoint case. It found a compelling 
+government interest. Skinner, 489 U.S. 
+at 628-33, 109 S.Ct. at 1419-22. Oregon 
+would, no doubt, do the same when 
+deciding the case under Article I, 
+Section 9. But left without explicit 
+guidance from the Oregon Courts, we will 
+turn to a Fourth Amendment analysis. 
+That analysis will not only uncover the 
+legal principies, but will also flesh 
+them out by some consideration of the 
+
+
+facts of the relevant cases. We will 
+
+
+40a 
+also consider the private and 
+governmental interests together. While 
+they are separate elements, they are 
+intertwined in any analysis to a very 
+high degree, for they are not separate 
+little weights to be put on a chemist's 
+balance. Rather, different mixtures of 
+the values they represent will yield 
+different results, just as different 
+mixtures of chemicals will yield 
+different reactions. 
+
+We start with Skinner, where the 
+Court emphasized the need to balance 
+governmental and privacy interests in any 
+Fourth Amendment analysis. Id. at 619, 
+109 S.Ct. at 1414. In Skinner, the Court 
+referred to the number of train accidents 
+which had occurred over the last decade 
+and which were drug or alcohol related. 
+
+
+Id. at 607, 109 S.Ct. at 1408. It went 
+
+
+ee ni er Se oe ee vos 
+
+
+WSs ed 
+
+
+ee eee 
+
+
+i et al a I te tt em Ml i me 
+
+
+a 
+
+
+4la 
+on to mention the injuries and property 
+loss that had resulted; there had even 
+been 25 fatalities. Id. The Court said: 
+
+
+In limited circumstances, where 
+the privacy interests 
+implicated by the search are 
+minimal, and where an important 
+governmental interest furthered 
+by the intrusion would be 
+placed in jeopardy by a 
+requirement of individualized 
+suspicion, a search may be 
+reasonable despite the absence 
+of such suspicion. We believe 
+this is true of the intrusions 
+in question here. 
+
+
+Id. at 624, 109 S.Ct. at 1417. 
+
+The Court emphasized that as a 
+general rule "the collection and testing 
+of urine intrudes upon expectations of 
+privacy that society has long recognized 
+as reasonable...." Id. at 617, 109 S.Ct. 
+at 1413. As it said: 
+
+There are few activities in our 
+
+society more personal or 
+
+private than the passing of 
+urine. Most people describe it 
+
+
+by euphemisms if they talk 
+about it at all. It isa 
+
+
+42a 
+
+function traditionally 
+
+performed without public 
+
+observation; indeed, its 
+
+performance in public is 
+
+generally prohibited by law as 
+
+well as social custon. 
+Id. (quotation and citation omitted.) 
+However, the Court found that in the 
+pervasively regulated railroad industry, 
+the employees' expectations of privacy 
+were diminished. While they might not be 
+exactly minimal, they were at a rather 
+low ebb because the employees in question 
+had been the principal focus of 
+regulatory concern for a very long time. 
+Id. at 627-28, 109 S.Ct. at 1418-19. 
+
+Against this rather minimal employee 
+interest the Court set what it described 
+as the compelling interest of the 
+government in testing without a showing 
+of individualized suspicion. It 
+
+
+explained that determination as follows: 
+
+
+"Employees subject to the tests discharge 
+
+
+7 
+; 
+| 
+| 
+| 
+§ 
+| 
+7 
+, 
+
+
+43a 
+duties fraught with such risks of injury 
+to others that even a momentary lapse of 
+attention can have disastrous 
+conseguences." Id. at 628, 109 S.Ct. at 
+1419. Given the minimal employee 
+interest and the compelling governmental 
+interest, the Court upheld the drug 
+testing program. 
+
+In National Treasury Employees 
+Union v. Von Raab, 489 U.S. 656, 109 
+S.Ct. 1384, 103 L.Ed.2d 685 (1989), the 
+Court was presented with a somewhat 
+different kind of safety concern. There 
+it dealt with certain groups of employees 
+in the Customs Service. Those were 
+employees who were directly involved in 
+drug interdiction or enforcement, those 
+who carried firearms, and those who 
+The Court 
+
+
+handled classified material. 
+
+
+determined that testing the first two of 
+
+
+44a 
+these groups was valid; we will discuss 
+the third later in this opinion. 
+
+As to the first two areas of 
+coverage, the Court declared that 
+employees involved in the interdiction of 
+drugs and those who carry firearms have a 
+diminished expectation of privacy 
+because, considering the nature of their 
+duties, they “reasonably should expect 
+effective inquiry into their fitness and 
+probity." Id. at 672, 109 S.Ct. at 1394. 
+They should expect that reasonable tests 
+will be applied to them. 
+
+To some extent the discussion of 
+their expectations was a reiteration of 
+the governmental interest discussion in 
+which the Court declared that those who 
+interdicted drugs are “our Nation's first 
+line of defense against one of the 
+
+
+greatest problems affecting the health 
+
+
+45a 
+
+and welfare of our population." Id. at 
+668, 109 S.Ct. at 1392. As such, they 
+are subject to trickery, bribes, 
+temptation, and extreme physical danger. 
+Thus they must be "physically fit, and 
+have unimpeachable integrity and 
+judgment." Id. at 670, 109 S.Ct. at 1393. 
+Turning to employees who carry guns, the 
+Court said that those "who may use deadly 
+force ‘plainly discharge duties fraught 
+with such risks of injury to others that 
+even a momentary lapse of attention can 
+have disastrous consequences.’" Id. 
+(citation omitted) . Given that analysis 
+of interests, the Court, not 
+surprisingly, determined that the 
+suspicionless testing of those employees 
+was proper. 
+
+Our cases have approved the 
+
+
+expansion of drug testing to still more 
+
+
+46a 
+
+employees, but that has always been in 
+the context of truly serious concerns of 
+a safety nature. In AFGE Local 1533 v. 
+Cheney, 944 F.2d 503 (9th Cir.1991), for 
+example, we pointed out that people who 
+are required to hold top secret security 
+clearances are in a position to obtain 
+information “the unauthorized disclosure 
+of which reasonably could be expected to 
+cause exceptionally grave damage to the 
+national-security." Id. at 504 (internal 
+quotation omitted). Those individuals, 
+we said, have positions which subject 
+them to regular close review of their 
+personal lives, as a result of which 
+their expectations of privacy are much 
+attenuated. Id. at 507. The compelling 
+nature of the government's interest, on 
+the other hand, is found in the gravity 
+
+
+of the risk. It takes no hierophant to 
+
+
+47a 
+see that the very safety of this country 
+and its citizens can be seriously 
+compromised by a drug-afflicted person 
+with access to top secret materials. See 
+also Department of the Navy v. Egan, 484 
+U.S. 518, 527-28, 108 S.Ct. 818, 824, 98 
+L.Ed.2d 918 (1988). 
+
+Our other cases are to the same 
+effect. See IBEW, Local 1245 v. United 
+States Nuclear Regulatory Commln, 966 
+F.2d 521 (9th Cir.1992) (IBEW v. NRC) 
+(diminished expectation of privacy 
+conceded, and the danger of catastrophic 
+harm in a nuclear accident is 
+compelling); International Bhd. of 
+Teamsters v. Department of Transp., 932 
+F.2d 1292 (9th Cir.1991) (privacy 
+expectations of truck drivers are 
+markedly reduced, and given the size of 
+
+
+commercial trucks and the possible danger 
+
+
+48a 
+from their loads, the government's 
+interest is compelling); IBEW, Local 
+1245 v. Skinner, 913 F.2d 1454 (9th 
+Cir.1990) (the privacy interest of gas 
+pipeline workers is diminished in this 
+regulated industry, and the terrible 
+accidents that can occur show a 
+compelling government interest) ; 
+Bluestein v. Skinner, 908 F.2d 451 (9th 
+Cir.1990) (diminished expectation of 
+privacy conceded, and the interest of the 
+government in preventing air crash 
+disasters is compelling), cert. denied, 
+498 U.S. 1083, 111 S.Ct. 954, 112 L.Ed.2d 
+1042 (1991). 
+
+The nature of the Fourth Amendment 
+analysis is further illuminated by the 
+Court's comments on those who cannot 
+necessarily be covered by random testing. 
+
+
+In Von Raab, for example, although the 
+
+
+49a 
+Court approved testing of front-line and 
+gun-toting workers, it did not as readily 
+accept the notion that for security 
+reasons a compelling government interest 
+justifies the testing of all accountants, 
+animal caretakers, attorneys, baggage 
+clerks, coop students, electrical 
+equipment repairers, mail clerks and 
+messengers in the Customs Department. 489 
+U.S. at 678, 109 S.Ct. at 1397. The 
+Court returned the case for further 
+findings regarding them. Similarly, in 
+IBEW v. NRC, in a concurring opinion 
+joined by two judges of the three-judge 
+panel, we expressed serious doubt that 
+the danger of nuclear accidents justified 
+drug testing of all clerical workers. 966 
+F.2d at 528-29. See also Taylor v. 
+O'Grady, 888 F.2d 1189, 1199 (7th 
+
+
+Cir.1989) (while prison employees in 
+
+
+50a 
+direct contact with prisoners can be 
+tested, other prison personnel cannot be 
+- “generalized interest in the integrity 
+of the work force" is not enough); 
+Harmon v. Thornburgh, 278 U.S. App. D.C. 
+382, 878 F.2d 484, 492-93 (D.C.Cir.1989) 
+(while attorneys with access to top 
+secret information can be tested, other 
+attorneys in the DOJ who merely deal with 
+grand juries and prosecute criminal cases 
+cannot be, as a group), cert. denied, 493 
+U.S. 1056, 110 S.Ct. 865, 107 L.Ed.2d 949 
+(1990). 
+
+It can, therefore, be readily seen 
+that although the courts have been 
+willing—perhaps too willing—to allow 
+employee drug testing, they have done so 
+in cases fraught with danger where the 
+interests of the person to be tested were 
+
+
+attenuated. We must consider the 
+
+
+51a 
+efficacy of the Policy with these 
+principles in mind. 
+
+As we turn to our analysis we must 
+be ever mindful that "students [do not] 
+shed their constitutional rights... at 
+the schoolhouse gate." Tinker v. Des 
+Moines Indep. Community Sch. Dist., 393 
+U.S. 503, 506, 89 S.Ct. 733, 736, 21 
+L.Ed.2d 731 (1969). School boards have: 
+
+
+important, delicate, and highly 
+discretionary functions, but 
+none that they may not perform 
+within the limits of the Bill 
+of Rights. That they are 
+educating the young for 
+citizenship is reason for 
+scrupulous protection of 
+Constitutional freedoms of the 
+individual, if we are not to 
+strangle the free mind at its 
+source and teach youth to 
+discount important principles 
+of our government as mere 
+platitudes. 
+
+
+West Virginia State Bd. of Educ. v. 
+Barnette, 319 U.S. 624, 637, 63 S.Ct. 
+
+
+1178, 1185, 87 L.Ed. 1628 (1943). 
+
+
+52a 
+
+Children are compelled to attend 
+school, but nothing suggests that they 
+lose their right to privacy in their 
+excretory functions when they do so. 
+While they must attend classes and follow 
+school rules, that does not indicate they 
+have given up their basic privacy rights. 
+It is true, of course, that after a 
+complete application of the balancing 
+test, the Supreme Court did allow 
+individualized searches of students based 
+upon a somewhat lessened standard of 
+suspicion than that which applies 
+elsewhere. But the Court was careful to 
+say that "the situation is not so dire 
+that students in the schools may claim no 
+legitimate expectations of privacy." 
+T.L.0O., 469 U.S. at 338, 105 S.Ct. at 
+741. In fact, the Court suggested, 
+
+
+without holding, that a student's 
+
+
+53a 
+interest in privacy is not of the minimal 
+kind that had been found to justify 
+random searches in the past. Id. at 342 
+n.-8, 105 S.Ct. at 743 n.8. There simply 
+is no sufficient basis for saying that 
+the privacy interests of students are 
+much less robust than the interests of 
+people in general. 
+
+Nor can we say that the privacy 
+interests of athletes are substantially 
+lower than those of students in general. 
+The District's argument that student- 
+athletes have a reduced expectation of 
+privacy because of their participation in 
+an activity with many rules analogizes to 
+inapposite cases. Training rules and 
+grade point average requirements are not 
+the sort of extensive government 
+regulation that has been found to 
+
+
+diminish the expectation of privacy of 
+
+
+54a 
+workers in high risk industries or high 
+security areas of the government. See, 
+e.g., IBEW v. NRC, 966 F.2d at 525 
+(workers at nuclear power plants); AFGE, 
+944 F.2d at 507 (Navy civilian employees 
+who hold "Top Secret with Access" 
+security clearances); Bluestein, 908 F.2d 
+at 456 n.7 (airline workers). High 
+school athletes do not go through 
+extensive background checks in order to 
+join their teams. Nor, in general, do 
+their lives or the lives of others depend 
+upon their ability to perform their roles 
+on the football team. Participation in 
+interscholastic sports does not 
+significantly diminish a high school 
+athlete's reasonable expectation that he 
+will not be compelled to submit to 
+suspicionless drug testing by urinalysis. 
+
+
+Appellee's contention that conditions in 
+
+
+55a 
+the school locker room reduce an 
+athlete's expectation of privacy is 
+Similarly unavailing. Normal locker room 
+Or rest room activities are a far cry 
+from having an authority figure watch, 
+listen to, and gather the results of 
+one's urination. 
+
+We recognize that, in some sense, 
+students, participation in athletics is 
+"voluntary." That, too, is insufficient 
+to reduce their privacy interests to a 
+minimal level. Participation in 
+athletics is obviously highly desirable 
+and encouraged, as this record shows. 
+The fact is that parents wish to have 
+their children obtain the physical and 
+mental benefits of organized sports. 
+That, too, is part of the educational 
+process; part of what tax dollars pay 
+
+
+for. While separating mind and body 
+
+
+56a 
+might be a fine idea for scientific 
+
+
+purposes, we have learned that they are 
+
+
+inextricably intertwined. Ina word, 
+
+
+what benefits one, benefits the other. 
+Children, students, do not have to 
+surrender their right to privacy in order 
+to secure their right to participate in 
+athletics. Athletes' right to privacy 
+also remains robust. 
+
+But the strength of the government's 
+interests must be considered. Those 
+interests themselves are not minimal. 
+The District wishes to prevent 
+unnecessary athletic injuries, to reduce 
+the attraction of drugs among other 
+students, and to improve discipline. 
+Certainly those are worthy goals. 
+However, worthy as they are, they suffer 
+by comparison to the kinds of dangers 
+
+
+that have existed when random testing has 
+
+
+57a 
+
+been approved. The extreme dangers and 
+hazards involved in the prior cases are 
+simply not present here. The prospect 
+that an athlete might hurt himself or a 
+competitor is real enough, but it is not 
+a risk of the same magnitude as an 
+airplane or train wreck, or a gas 
+pipeline or nuclear power plant disaster. 
+The concern that our children will fail 
+to acquire knowledge or respect is also 
+real enough, but it, too, does not reach 
+the level of the concerns that have 
+permitted suspicionless testing. All of 
+this is true as a general proposition, 
+and nothing in this record shows a 
+Situation or problem so exacerbated as to 
+take it beyond the generality. 
+
+Having uncaring, disrespectful, 
+drug-impaired children in our schools is 
+
+
+tragic. Having them anywhere is equally 
+
+
+a 
+
+
+58a 
+
+tragic. In fact, it is tragic to have 
+adults of that type in our society. It 
+is widely conceded that what drug usage 
+has done to the fabric of our society is 
+a tragedy of national proportions. We do 
+not disagree with that. However, it is 
+not the type of potential disaster that 
+has caused the Court or us to find a 
+governmental interest compelling enough 
+to permit suspicionless testing. It has 
+been lurking as a background condition 
+for our determinations, but that is all. 
+Its presence has been referred to, but 
+the disaster or tragedy has been some 
+additional horrible element, some 
+terrible threat to safety that can flow 
+from the presence of drugs—some shooting, 
+some explosion, some crash of train, 
+truck, or aircraft, or some breach of top 
+
+
+secret national security. The record 
+
+
+59a 
+shows no such possibility here. Nor does 
+it show that the incremental difficulties 
+involved in athletics elevated the drug 
+danger so far above the norm that the 
+government interest became compelling. 
+The District has alluded to the 
+
+possibility that it could incur liability 
+if it knowingly fielded a team of drug- 
+affected students. No doubt it could. 
+
+We agree that it need not do that, but 
+our concession is a far cry from saying 
+that the District can mandatorily test 
+everyone. Given the standard made 
+possible by T.L.0., the District's 
+argument might well justify 
+individualized testing; on this record, 
+
+it does not justify random testing. 
+
+Thus, when we mix all of the 
+
+elements together—the Slight weight in 
+
+
+favor of efficiency, the privacy 
+
+
+60a 
+interest, the governmental interest, and 
+the discretionary factor—and step back to 
+look at the compound they yield, it 
+becomes apparent that the Policy violates 
+the Fourth Amendment. It follows that it 
+also violates Article I, Section 9 of the 
+Oregon Constitution. 
+
+It is important to understand the 
+contours and outer limits of our holding. 
+We do not, as we have already suggested, 
+decide that there could be no appropriate 
+individualized testing program. More 
+than that, we do not say that there could 
+never be a case where a random search 
+would be appropriate in a school setting. 
+
+
+See, e.g., In re Isiah B, 176 Wis.2d 639, 
+500 N.W.2da 637 (after a series of 
+shootings on campus, rumors indicated 
+
+
+that there would be a shootout on 
+
+
+November 19, 1990; a random search of 
+
+
+6la 
+
+lockers on that date was upheld), cert. 
+denied, — U.S.—, 114 S.Ct. 231, 126 
+L.Ed.2d 186 (1993). But see Brooks v. 
+East Chambers Consol. Indep. Sch. Dist., 
+730 F. Supp. 759 (S.D.Tex.1989) (initial 
+and random drug testing of all students 
+who wish to participate in 
+extracurricular activities violates the 
+Fourth Amendment) , aff'd, 930 F.2d 915 
+(Sth Cir.1991); Derdeyn v. University of 
+Colorado, 832 P.2d 1031 (Colo. App.1991) 
+(random drug testing of athletes violates 
+Fourth Amendment; governmental interest 
+not compelling) aff'd, 863 P.2da 929 
+(Col0.1993); Odenheim v. Carlstadt-East 
+Rutherford Regional Sch. Dist., 211 
+N.J.Super. 54, £510 A.2da 709 (Ch.Div.1985) 
+(drug testing of all students violates 
+Fourth Amendment) . Moreover, we do not 
+
+
+decide whether a program based upon the 
+
+
+62a 
+truly voluntary consent of individual 
+parents to have their child randomly 
+testednot, no testing, no playing—would 
+obviate the difficulties we find with the 
+Policy. 
+
+Before concluding, we must 
+acknowledge that in Schaill v. Tippecanoe 
+County Sch. Corp., 864 F.2d 1309 (7th 
+Cir.1988), the court upheld a random drug 
+testing pro_ram very similar to the one 
+we now review. Perhaps that court found 
+a more compelling set of facts than we 
+discover here, but we are unable to say 
+so after reading the opinion. We 
+believe, instead, that the Seventh 
+Circuit has unduly minimized the privacy 
+interests of students. It has also given 
+undue weight to the governmental interest 
+by focusing on the general problems 
+
+
+generated by the drug plague, rather than 
+
+
+63a 
+upon the question of whether the danger 
+to safety is so high as to be 
+compelling.’ We could fill more pages 
+reiterating what we have already said, 
+but, in a nutshell, we simply do not 
+agree with the Seventh Circuit. 
+CONCLUSION 
+
+We understand the importance of 
+having drug-free children, and the sorrow 
+our society is reaping from the fact that 
+the drugs which have invaded it have 
+found their way into our children's 
+hands. We also understand the deep 
+
+
+concerns of parents, teachers, 
+
+
+3 
+
+
+We note that the Schaill court balanced 
+the students’ privacy interests against the 
+school district's “substantial interest in 
+enforcement of its proposed random urinalysis 
+program.” 864 F.2d at 1321 (emphasis added). In 
+contrast, subsequent Supreme Court cases have 
+allowed random urinalysis programs only after 
+finding compelling governmental interests that 
+outweigh employees’ diminished expectations of 
+Privacy. See Skinner, 489 U.S. at 626-33, 109 
+
+
+S.Ct. at 1418-21; Von Raab, 489 U.S. at 670-77, 
+109 S.Ct. at 1393-96. 
+
+
+64a 
+
+
+administrators, and school boards. We 
+
+
+have no doubt that the District and those 
+
+
+associated with it have proceeded in all 
+good faith. 
+
+However, we also understand the 
+concern of our forebears and the 
+importance of the protections given by 
+the constitutional provisions which 
+prohibit unreasonable searches and 
+seizures. We are all too aware of the 
+dangers to our liberties that those 
+provisions are designed to protect 
+against and of the constant pressures 
+upon them, despite centuries of living 
+
+
+with and under their protections. 
+
+
+We have found that we must live with 
+
+
+a certain amount of discomfort, even 
+
+
+danger, if we are to maintain 
+
+
+constitutional protections. If they are 
+
+
+to continue to exist and flourish, we and 
+
+
+65a 
+
+
+our children must understand them, profit 
+
+
+from them, and believe in then. They 
+are, after all, just words, ideas, 
+beliefs, and principles. But if we are 
+vigilant there is a great deal of power 
+in the word "just." 
+
+Given the Fourth Amendment, given 
+our traditions, given our law, we are 
+constrained to hold that the Policy is 
+invalid under the Fourth Amendment. That 
+being so, Oregon would find it invalid 
+under Article I, Section 9, of its 
+Constitution. As we have already 
+indicated, it would probably do so with 
+less lucubration, and with less spilt 
+ink. 
+
+REVERSED and REMANDED 
+REINHARDT, Circuit Judge concurring: 
+
+Although I am in complete agreement 
+
+
+with the reasoning and the result in 
+
+
+66a 
+‘Judge Fernandez's opinion for the court, 
+I write separately to emphasize that 
+while our opinion holds expressly that 
+Vernonia School District's drug testing 
+policy is violative of Article I, Section 
+9 of the Oregon Constitution, it also 
+necessarily holds that the policy 
+violates the Fourth Amendment to the 
+United States Constitution. Indeed, the 
+opinion cannot be read otherwise: there 
+is no way to "avoid" a federal 
+constitutional holding in this case, 
+because Article I, Section 9 and the 
+Fourth Amendment are textually identical 
+and are interpreted "coextensively." 
+Moreover, our decision is based almost 
+exclusively on the application of federal 
+law. Under the circumstances, our 
+holding cannot be confined to one of 
+
+
+Oregon law. 
+
+
+67a 
+Generally, federal courts will avoid 
+
+federal constitutional issues when the 
+alternative ground of decision is one of 
+state statutory or constitutional law. 
+Hewitt v. Joyner, 940 F.2d 1561, 1565 
+(9th Cir.1991) (state "no {religious} 
+preference" clause, rather than 
+dissimilar religion clauses of First 
+Amendment, held proper ground for 
+decision). Where, however, a question 
+involves identical or "coextensive" state 
+and federal constitutional provisions, a 
+holding based on state constitutional law 
+does not "avoid" answering the federal 
+question as well. As both Oregon law and 
+Judge Fernandez's opinion for the court 
+make clear, Article I, Section 9 and the 
+Fourth Amendment are textually 
+
+
+"coextensive" and are interpreted 
+
+
+68a 
+identically.' See State v. Flores, 280 
+Or. 273, 279-81, 570 P.2d 965, 968-69 
+(1977). ("(T)here is no reason, based on 
+
+
+either the text or the history of Article 
+
+
+' The Fourth Amendment reads: 
+
+
+The right of the people to 
+be secure in their person, 
+houses, papers, and 
+effects, against 
+unreasonable searches and 
+seizures, shall not be 
+violated, and no Warrants 
+shall issue, but upon 
+probable cause, supported 
+by Oath or affirmation, 
+and particularly 
+describing the place to be 
+searched, and the persons 
+or things to be seized. 
+
+
+Article I, section 9 of the Oregon 
+Constitution provides: 
+
+
+No law shall violate the 
+right of the people to be 
+secure in their persons, 
+houses, papers, and 
+effects, against 
+unreasonable search or 
+seizure; and no warrant 
+shall issue but upon 
+probable cause, supported 
+by oath or affirmation, 
+and particularly 
+describing the place to be 
+searched, and the person 
+or thing to be seized. 
+
+
+69a 
+
+I, Sec. 9, to suppose that that section 
+has a different meaning from the Fourth 
+Amendment."). Therefore, a decision on 
+the meaning of Article I, Section 9 is by 
+necessity also a decision on the meaning 
+of the Fourth Amendment. Any attempt to 
+limit our decision to Article I, Section 
+9 would be sheer flim-flammery. 
+
+We acknowledged this simple fact in 
+Los Angeles County Bar Ass'n v. Eu, 979 
+F.2d 697, 705 n.4 (9th Cir.1992). In Eu, 
+we held that the right to access to the 
+courts provided in the California 
+Constitution and the Fourteenth Amendment 
+were coextensive and decided plaintiff's 
+right-to-access claim under the federal 
+provision. The Supreme Court, without 
+any analysis, adopted the same approach 
+in Wisconsin v. Constantineau, 400 U.S. 
+
+
+433, 27 L.Ed.2d 515, 91 S.Ct. 507 (1971). 
+
+
+70a 
+
+In Constantineau, the Court struck down a 
+Wisconsin statute on the basis of federal 
+due process without addressing the 
+dissent's assertion that an identical due 
+process provision of the Wisconsin 
+Constitution was sufficient to dispose of 
+the case. 
+
+Interestingly, Chief Justice Lucas 
+of the California Supreme Court has 
+suggested that state courts, when faced 
+with complex and sensitive constitutional 
+questions implicating coextensive state 
+and federal provisions, should defer 
+decision on the state provision in favor 
+of the federal one. See Sands v. Morongo 
+Unified School Dist., 53 Cal.3d 863, 281 
+Cal.Rptr. 34, 809 P.2d 809 (1991) (en 
+banc) (religious invocation and 
+benedictions at public high school 
+
+
+violate coextensive clauses of the 
+
+
+7la 
+federal and California Constitutions). 
+Such deferral, Justice Lucas explained, 
+would invite early review of the state 
+court's decision by the United States 
+Supreme Court, the "primary interpreter 
+and protector of the guarantees of the 
+Bill of Rights. . .." Id. 281 Cal.Rptr. 
+at 59, 809 P.Ld at 834-835 (Lucas, J., 
+concurring) . I point this out because if 
+Justice Lucas is correct, and we were to 
+attempt to base our holding solely on 
+Article I, Section 9, we would be faced 
+with the anomalous situation wherein 
+state courts avoid state constitutional 
+questions but freely reach sensitive 
+federal constitutional questions while 
+federal courts avoid federal 
+constitutional questions in favor of 
+resolution on the basis of coextensive 
+
+
+state constitutional provisions. That 
+
+
+72a 
+would make even less sense than many of 
+the other contortions in which we engage 
+in our continuing effort to avoid doing 
+justice by relying on arcane procedural 
+precepts. 
+
+The process is not as simple as 
+Chief Justice Lucas suggests, however. 
+State courts are free to give broader 
+meaning to state constitutional 
+provisions with similar language, so long 
+as they are relying on state law and not 
+just on their interpretations of federal 
+cases. They may give a more expansive 
+protection to individual rights, but not 
+a lesser one. In any event, this is not 
+that type of case. There is as yet no 
+independent Oregon determination of the 
+status of drug testing under Article I, 
+Section 9. Lacking such guidance, we are 
+
+
+obliged to refer to federal law, 
+
+
+73a 
+specifically to federal judicial 
+construction of the Fourth Amendment. 
+
+In any event, there are good common 
+sense reasons why we are unable to avoid 
+a federal decision in this case. Even 
+without the guidance of E£u and 
+Constantineau, it seems likely that the 
+identical plain language of the Fourth 
+Amendment and Article I, Section 9 will 
+result in similar interpretation. It is 
+true that in the future the Oregon courts 
+could choose to interpret Article Be 
+Section 9 to provide more protection than 
+the Fourth Amendment against randon, 
+Suspicionless drug searches. As stated 
+above, however, there are as yet no 
+Oregon cases that apply Article I, 
+Section 9 to the question of drug 
+testing. Hence, as Judge Fernandez's 
+
+
+opinion correctly states, we are unable 
+
+
+74a 
+to interpret Article I, Section 9 without 
+"a federal compass"; i.e., we have only 
+Fourth Amendment jurisprudence to guide 
+our analysis. Therefore, we first are 
+obliged to clarify the extent of the 
+Fourth Amendment restraint on random drug 
+searches. Toward that end, we determine 
+that the Vernonia School District's 
+random, suspicionless drug testing policy 
+for interscholastic athletes is 
+inconsistent with the Fourth Amendment. 
+Equipped with our "federal compass," we 
+also determine that the policy is 
+inconsistent with Article I, Section 9. 
+As Judge Fernandez's opinion clearly 
+shows, we could not have reached our 
+conclusion regarding Article I, Section 9 
+
+
+without first holding that the school 
+
+
+75a 
+
+
+district's policy violates the Fourth 
+Amendment. 
+
+
+76a 
+
+
+APPENDIX B 
+
+
+United States District Court 
+for the District of Oregon. 
+
+
+Civ. No. 91-1154~MA. 
+
+
+WAYNE and JUDY ACTON, guardians ad litem 
+
+
+for JAMES ACTON, 
+Plaintiffs, 
+
+
+Vv. 
+
+
+VERNONIA SCHOOL DISTRICT 47J, 
+Defendant. 
+
+
+May 7, 1992. 
+(796 F.Supp. 1354] 
+OPINION 
+MARSH, Judge. 
+
+Plaintiffs filed this action for 
+declaratory and injunctive relief claim- 
+ing that the Vernonia School District's 
+drug testing policy violates their son's 
+rights under the Fourth Amendment of the 
+United States Constitution and Article l, 
+
+
+Section 9 of the Oregon Constitution. 
+
+
+— 
+
+
+é 
+
+
+77a 
+The following constitutes my findings of 
+fact and conclusions of law pursuant to 
+Fed.R.Civ.P. 52. 
+FACTS 
+
+I. Background 
+
+Vernonia, Oregon, is a small logging 
+community of approximately 3000 persons 
+including all those living within or near 
+the city limits. Plaintiffs Wayne and 
+Judy Acton reside in Vernonia and their 
+son James, age 12, is enrolled in the 
+seventh grade of Washington Grade School. 
+Due to its small size and somewhat remote 
+location, Vernonia is typified by its 
+central interest in school district ac- 
+tivities in general and athletics in par- 
+ticular. Witnesses explained that the 
+entertainment opportunities in Vernonia 
+are fairly limited so that interscholas- 
+
+
+tic athletics play a dominant role in the 
+
+
+78a 
+community and student athletes are well 
+known and admired. Approximately 60-65% 
+of the high school students and 75% of 
+the elementary school students partici- 
+pate in district sponsored athletics. 
+
+The school district employs a small 
+but stable and closely knit teaching 
+staff with deep ties to the community. 
+For instance, two of the teachers who 
+testified at trial grew up and attended 
+school in Vernonia. Randall Aultman, the 
+current principal of Washington Grade 
+School, has a long tenure with the dis- 
+trict and has held the positions of As- 
+sistant Superintendent and principal of 
+the high school. Other teachers who tes- 
+tified had years of experience in the 
+district, and I was impressed by their 
+knowledge and concern for the community, 
+
+
+its students and school systen. 
+
+
+79a 
+
+Aultman and the teachers testified 
+that, up until the early 1980s, disci- 
+pline at the Vernonia schools was not a 
+problem. The teachers were well ac- 
+quainted with the students and their fam- 
+ilies and students were generally cooper- 
+ative and respectful both in the class- 
+rooms and during after-school activities. 
+Drug and alcohol use, although present, 
+was limited to certain small "fringe" 
+elements of the student population. 
+Then, in the mid-to-late 1980s, the staff 
+began noticing a startling and progres- 
+Sive increase in students' use of drugs 
+and alcohol. As the administration be- 
+came more aware of the problem, it began 
+investigating its possible source. 
+Aultman met with the teaching staff and 
+asked them to look for any signs of drug 
+
+
+or alcohol use to gauge the magnitude of 
+
+
+80a 
+the problem and to try to determine what 
+responsive steps should be taken. 
+
+In the meantime the glamorization 
+and use of drugs and alcohol became more 
+blatant. All of the teachers who testi- 
+fied at trial expressed how appalled and 
+helpless they felt as students increas- 
+ingly expressed their attraction to, and 
+vocal defense of, the use of drugs. Stu- 
+dents boasted about drug use and regaled 
+one another with stories of the latest 
+"high" or "party". Class decorum suf- 
+fered. One teacher, who had never expe- 
+rienced classroom discipline problems in 
+the past, was ready to give up 15 years 
+
+
+of service because of her frustration and 
+
+
+apparent inability to deal with this new ~ 
+
+
+situation. Outbursts of profane language 
+during class, rude and obscene statements 
+
+
+directed at other students, and a general 
+
+
+8la 
+flagrant attitude that there was nothing 
+the school could do about their conduct 
+or their use of drugs or alcohol typified 
+a usual day. Organizations formed within 
+the student drug culture taking such 
+names as the "Big Elks" or the "Drug Car- 
+tel." Loud “bugling" or “head butting" 
+were the calling cards of these groups. 
+Drug paraphernalia was confiscated on 
+schools grounds, and open use of drugs 
+was observed at a local cafe across the 
+street from the high school. 
+
+Drug and alcohol use also invaded 
+the sports program. Students consumed 
+alcohol on a bus after a game. Others 
+stole alcohol from a store after a track 
+meet. Ron Svenson, a teacher and wres- 
+tling coach, testified that suspected 
+drug use contributed to the injury of a 
+
+
+wrestler who failed to execute a basic 
+
+
+82a 
+
+maneuver. When visiting the hotel room 
+of the student the next day the smell of 
+marijuana permeated the area. Svenson 
+also gave convincing testimony that drug 
+use affected certain football players in 
+that they ignored or forgot well-drilled 
+safety routines. He also expressed a 
+concern that the use of intoxicants would 
+Slow down their reaction time and hence, 
+make them more susceptible to injury. 
+Svenson's concerns were corroborated by 
+the testimony of Dr. DuPont, who ex- 
+plained the deleterious effects of drugs 
+and alcohol on a person's motivation, 
+memory, judgment, reaction, coordination 
+and performance. 
+
+Svenson also explained that a stu- 
+dent injured in a regular physical educa- 
+tion class is much more apt to disclose 
+
+
+an injury than one engaged in interscho- 
+
+
+83a 
+lastic activity, given the highly compet- 
+itive atmosphere of the latter. This 
+sense of pride and desire to stay in the 
+game, when coupled with the numbing in- 
+fluence of drugs, became a significant 
+concern to all involved in the athletic 
+program. 
+
+School officials had a clear percep- 
+tion that the discipline problems they 
+were experiencing were the result of sub- 
+stance abuse. Informal interviews with 
+responsible students and parents con- 
+firmed that fact. Based upon the 
+administration's investigation, it also 
+became clear that the leaders of this 
+activity were also the leading student 
+athletes. Thus, the very center of ac- 
+tivity of the school and the community 
+was endangered. Further, the administra- 
+
+
+tion was concerned that the corruption of 
+
+
+84a 
+
+the school's leading athletes might have 
+a significant poisoning impact upon the 
+broader student population, including the 
+younger and more impressionable elementa- 
+ry school students who would eventually 
+seek to emulate their elders. No evi- 
+dence was presented that refuted any of 
+the facts set forth nor the conclusions 
+reached by the school officials. 
+
+Following its initial investigation, 
+the school administration attempted to 
+address this problem and deter drug and 
+alcohol use through education. Special 
+classes were held on the effect and ad- 
+dictive nature of drugs. Special speak- 
+ers were invited who the school hoped 
+would have a particular charm with the 
+students. Seminars within classes, 
+polls, and theatrical presentations were 
+
+
+all tested and failed to achieve any sig- 
+
+
+85a 
+nificant impact on the disruptive atmo- 
+sphere. The day after the presentation 
+of a play directed at the evils of drug 
+use, several sophomore athletes were 
+caught cutting classes to hold a party 
+where arrests took place for the use of 
+intoxicants. The administration even 
+brought in a specially trained dog to 
+sniff for drugs in locker area, but none 
+of these efforts deterred the students. 
+As Dr. DuPont confirmed, youth who use 
+drugs are typically in denial and think 
+they can control their drug use. Thus, 
+Simply telling them that drug use is bad 
+for their health and that they should 
+stop using is invariably ineffective. 
+DuPont testified that what youth really 
+need is a compelling reason or incentive 
+to stop using drugs. 
+
+
+The evidence amply demonstrated that 
+
+
+86a 
+the administration was at its wits end 
+and that a large segment of the student 
+body, particularly those involved in in- 
+terscholastic athletics, was in a state 
+of rebellion. Disciplinary actions had 
+reached "epidemic proportions." The coin- 
+cidence of an almost three-fold increase 
+in classroom disruptions and disciplinary 
+reports along with the staff's direct 
+observations of students using drugs or 
+glamorizing drug and alcohol use led the 
+administration to the inescapable conclu- 
+sion that the rebellion was being fueled 
+by alcohol and drug abuse as well as the 
+student's misperceptions about the drug 
+culture. It also became readily apparent 
+to staff that, unless it took immediate 
+action, the problem was going to get far 
+worse and widespread before it got bet- 
+
+
+ter. At one point, the administration 
+
+
+87a 
+
+felt that the only practical solution was 
+mass expulsion. Fortunately for the city 
+of Vernonia, school officials remained 
+vigilant in their efforts and continued 
+to pursue less drastic alternatives. 
+
+Spurred on by an article in the lo- 
+cal Oregonian, the idea of a drug testing 
+program was considered. While the idea 
+had been discussed before, concerns over 
+its legality had deferred its consider- 
+ation in favor of exhausting other alter- 
+natives. But sometime in 1988, borne out 
+of necessity, the idea was investigated. 
+A study was made of such programs across 
+the country. Legal opinions were stud- 
+ied, legal counsel obtained, and parent 
+meetings were held. Finally, with the 
+blessing of the administration, a unani- 
+mous vote of parents at the meeting, and 
+
+
+approval of the superintendent a plan was 
+
+
+88a 
+submitted to the School Board and ap- 
+proved for implementation beginning in 
+
+
+the fall of 1989. 
+
+
+II. Defendant's Drug Testing Policy 
+
+All students who desire to partici- 
+pate in interscholastic athletics are 
+required to sign a form authorizing the 
+District to conduct a test on a urine 
+specimen provided by the student as a 
+prerequisite to participation in the ath- 
+letic program. The test requirement is 
+applied to all students and is limited to 
+determining whether the student has been 
+using illegal drugs and/or alcohol. 
+
+All students in the athletic program 
+are tested at the beginning of each ath- 
+letic season in which they participate. 
+During the season, student athletes are 
+
+
+tested at random on a weekly basis. The 
+
+
+89a 
+names of all students participating in 
+sports during that season are placed in a 
+"pool" and approximately ten percent of 
+the names are drawn from the "pool" each 
+week. A student draws numbers represent- 
+ing names from the "pool," but is not 
+aware of the names he or she draws. Stu- 
+dents whose numbers are drawn are tested 
+one at a time throughout that day. 
+
+The procedure for the test varies 
+Slightly for boys and girls. Boys begin 
+the process by filling out of a portion 
+of a specimen control form which assigns 
+the student a number. The student is 
+then given a testing packet which con- 
+tains a cup and a vial. The student en- 
+ters an empty locker room with a male 
+school official acting as a monitor. The 
+monitor opens the packet and provides the 
+
+
+student with the cup. The student then 
+
+
+90a 
+proceeds to a urinal to produce the sam- 
+ple. While producing the sample. the 
+student remains fully clothed and has his 
+back to the monitor. The monitor is 
+present to assure that there is no tam- 
+pering and remains 12 to 15 feet behind 
+the student. 
+
+After producing the sample, the stu- 
+dent returns the cup to the monitor. The 
+monitor checks the sample for temperature 
+and signs of tampering. The monitor then 
+transfers the sample into a vial, and the 
+student places a lid on the vial. The 
+vial is sealed with security tape which 
+the student signs and dates. The vial is 
+assigned a number which coincides with 
+the student's number on the specimen con- 
+trol form and then is placed in a plastic 
+bag which is also sealed and signed and 
+
+
+dated by the student. Finally, the stu- 
+
+
+9la 
+dent completes the specimen control form 
+by verifying that the specimen is his and 
+that the specimen and package were se- 
+curely sealed in his presence. 
+
+The procedure for girls differs only 
+in that a female school official acts as 
+a monitor and the sample is produced in 
+an enclosed stall with a toilet. The 
+monitor remains outside the stall and 
+
+
+listens for signs of tampering. 
+
+
+92a 
+
+The samples are sent for testing to 
+Metrolab under security procedures de- 
+signed to protect the chain of posses~ 
+sion. Metrolab technicians do not know 
+the identity of the person being tested 
+and rely solely upon the assigned numbers 
+for identification. The test screens for 
+amphetamines, cocaine, marijuana, and 
+alcohol and has an accuracy of appr¢ xi- 
+mately 99.94%. Test results are reported 
+by telephone to authorized Vernonia 
+School District personnel. Positive re- 
+sults are also mailed to the district 
+superintendent. 
+
+If a student's test is positive, a 
+second test will be administered as soon 
+as possible to confirm the results. Par- 
+ents will be notified after the second 
+positive test. If the second test is 
+
+
+negative, no further action will be tak- 
+
+
+93a 
+en. If the second test is positive, the 
+school notifies the parents or guardians 
+and conducts a hearing with the student 
+and his or her parents. At this hearing, 
+the student will be given the option of 
+either participating in an assistance 
+program and taking a weekly drug test for 
+six weeks or suspension from the athletic 
+program for the remainder of the current 
+season and the next athletic season. The 
+student will be retested before beginning 
+the next season for which he or she is 
+eligible. 
+
+At trial, Aultman testified that, 
+though not spelled out in the written 
+policy, a student athlete who commits a 
+second offense may also continue partici- 
+pating in the athletic program if he or 
+
+
+she submits to counseling and weekly uri- 
+
+
+nalysis. 
+
+
+Ss 
+
+
+94a 
+III. Basis of the Plaintiffs' Claim 
+
+In the Fall of 1991, James Acton, a 
+seventh grade student attending Washing- 
+ton Grade School in the Vernonia School 
+District, signed up to participate in 
+district-sponsored football. To partici- 
+pate in football, James had to take a 
+physical examination.’ James attended the 
+first football practice and received the 
+District's consent form for drug and al- 
+cohol testing. After discussing the form 
+with his parents, they decided not to 
+sign it. James and his parents scheduled 
+a meeting with Aultman. 
+
+At the meeting, the Actons explained 
+to Aultman that they objected to the drug 
+testing policy because it required James 
+to submit to a urinalysis in the absence 
+
+
+of any evidence that he had used drugs or 
+
+
+? The physical examination included giving a 
+urine sample. 
+
+
+95a 
+alcohol. Aultman informed the Actons 
+that James could not participate in dis- 
+trict-sponsored athletics without a 
+Signed consent form. The Actons notified 
+the district Superintendent, Ellis Mason, 
+of their decision. Mason confirmed that 
+James could not participate in district- 
+sponsored sports without a signed consent 
+form. There is no dispute that the poli- 
+Cy was applied to James in the same man- 
+ner as it was applied to all other stu- 
+dents who sought to participate in inter- 
+scholastic athletics and was not based 
+upon any individualized Suspicion that 
+
+
+James had used drugs or alcohol. 
+
+
+96a 
+DISCUSSION 
+Bs The Fourth Amendment’? 
+The Fourth Amendment to the United 
+States Constitution provides: 
+"The right of the people to be 
+secure in their persons, hous- 
+es, papers and effects against 
+unreasonable searches and sei- 
+zures shall not be violated, 
+and no warrant shall issue but 
+upon probable cause, supported 
+by Oath or Affirmation, and 
+particularly describing the 
+place to be searched and the 
+
+
+persons or things to be 
+seized." 
+
+
+The collection and testing of urine 
+constitutes a "search" within the meaning 
+of the Fourth Amendment. Skinner v. 
+Railway Labor Executives Assn,, 489 U.S. 
+602, 109 S.Ct. 1402, 1413, 103 L.Ed.2d 
+
+
+639 (1989). The urinalysis test is a 
+
+
+> It is undisputed that defendant's drug 
+testing program constitutes a "state action” for 
+the purposes of establishing the threshold con- 
+stitutional inquiry. See e.g. Brooks v. East 
+Chambers Consol. Ind. School Dist., 730 F.Supp. 
+759, 762-3 (S.D.Tex.1989) aff’d 930 F.2d 915 (5th 
+Cir.1991). 
+
+
+97a 
+"search," regardless of whether the act 
+of urination is observed, because the 
+test necessarily discloses facts about 
+which an ordinary citizen has a reason- 
+able expectation of privacy. National 
+Treasury Employees Union v. Von Raab, 816 
+F.2d 170, 175-6 (5th Cir.1987) aff'd 489 
+U.S. 656, 109 S.Ct. 1384, 103 L.Ed.2d 685 
+(1989). Procedures for collecting urine 
+samples necessarily invade a personal 
+function “traditionally shielded by great 
+privacy." Id., 109 S.Ct. at 1418. The 
+Fourth Amendment applies to government 
+searches undertaken for a purpose other 
+than criminal law enforcement. See e.g. 
+National Treasury Employees Union v. Von 
+Raab, 109 S.Ct. at 1390 (urinalysis test- 
+ing of customs service employees who face 
+potential of dismissal must satisfy 
+
+
+Fourth Amendment reasonableness require- 
+
+
+98a 
+ment). 
+
+In the criminal context, the Fourth 
+Amendment dictates that searches conduct- 
+ed without a warrant are per se unreason- 
+able, subject to a few well-delineated 
+exceptions. Katz v. United States, 389 
+U.S. 347, 357, 88 S.Ct. 507, 514, 19 
+L.Ed.2d 576 (1967). The “essential pur- 
+pose" of a warrant is to protect 
+citizens' privacy interests and assure 
+that any searches or seizures are "not 
+the random or arbitrary acts of govern- 
+ment agents." Skinner, 109 S.Ct. at 1415; 
+see also Delaware v. Prouse, 440 U.S. 
+648, 654-55, 99 S.Ct. 1391, 1396-97, 59 
+L.Ed.2d 660 (1979) (proscriptions of 
+Fourth Amendment designed to avoid the 
+
+
+'grave danger' of abuse of official dis- 
+
+
+99a 
+cretion) .‘ 
+
+The application of the Fourth Amend- 
+ment to a civil administrative context is 
+a relatively recent development in the 
+law. The majority of the cases that have 
+addressed this issue have done so in the 
+employment context. For example, in 
+Skinner, railroad employees challenged 
+several provisions of the Federal Rail- 
+road Administration's regulations which 
+required railroads to conduct urine, 
+blood and breath tests following acci- 
+dents or violations of certain safety 
+
+
+rules to assist in its investigation and 
+
+
+“In Prouse, the Court held that random auto- 
+mobile “safety checks" conducted by police offi- 
+cers without the benefit of any objective crite- 
+ria to guide their discretion were unconstitu- 
+tional. The Court noted however, that its hold- 
+ing “does not preclude ... states from developing 
+methods for spot checks that involve less intru- 
+sion or that do not involve the unconstrained 
+exercise of discretion. Questioning of all o2n- 
+coming traffic at roadblock-type stops is one 
+possible alternative." 440 U.S. at 664, 99 S.Ct. 
+at 1401. 
+
+
+100a 
+
+to take whatever remedial actions were 
+necessary against employees. Positive 
+tests could result in administrative dis- 
+cipline, including dismissal, but would 
+not subject an employee to criminal pros- 
+ecution. The Court noted that, given the 
+factual context, "a warrant would do lit- 
+tle to further these [governmental] 
+aims." Id., 109 S.Ct. at 1415. Further, 
+the Court explained that although some 
+"“suantum" of individualized suspicion 
+would "usually" be required in the ab- 
+sence of probable cause, that "a showing 
+of individualized suspicion is not a con- 
+stitutional floor, below which a search 
+must be presumed unreasonable." Id., at 
+1417. 
+
+The Court analyzed the challenged 
+regulations by balancing the interests 
+
+
+sought to be achieved by the government 
+
+
+10la 
+against the intrusion upon the employees’ 
+privacy to determine if the challenged 
+tests were "reasonable." Id., at 1421- 
+1422; see also Von Raab, 109 S.Ct. at 
+1392 (applying Skinner balancing test to 
+urinalysis tests of applicants for cus- 
+toms officials promotions). The Court 
+found that the employees had a diminished 
+expectation of privacy since they worked 
+in a highly safety oriented industry 
+which was already subject to significant 
+regulation. Id., 109 S.ct. at 1417; see 
+also Von Raab, 109 S.ct. at 1392 (dimin- 
+ished expectation of privacy due to expo- 
+Sure to controlled substances); IBEW Lo- 
+cal 1245 v. Skinner, 913 F.2d 1454 (9th 
+Cir.1990) (upholding constitutionality of 
+testing employees who work on natural gas 
+and hazardous liquid Pipelines); and 
+
+
+Bluestein v. Skinner, 908 F.2d 451 (9th 
+
+
+102a 
+
+
+—, 111 
+cir.1990), cert. denied, — U.S. . 
+
+
+S.ct. 954, 112 L.Ed.2d 1042 (1991) (up~ 
+
+
+air- 
+holding random urinalysis testing of 
+
+
+i- 
+line personnel with safety responsibil 
+
+
+ties). The Court concluded that the 
+
+
+; ; = 
+government's "compelling" interests i 
+
+
+s' 
+railway safety outweighed the employee 
+
+
+- at 
+privacy concerns. Skinner, 109 S.Ct 
+
+
+- at 
+1421; see also Von Raab, 109 S.Ct 
+
+
+1396.° | 
+Thus, although not expressly doing 
+
+
+ve 
+so, the Supreme Court appears to ha 
+’ 
+
+
+“ se" 
+abandoned the Fourth Amendment “per 
+. *. . . n fa- 
+analysis utilized in criminal law 1 
+
+
+j j e 
+vor of a “balancing” test in which th 
+
+
+individual- 
+government, in the absence of individ 
+
+
+ect- 
+. Von Raab, the Court apestsicaliy = — 
+r loyees' contention that — . 
+= ayy: ee there were so few ro a 
+— roximately five tested pos ny Ai 
+3200. be sar in light of the olgnneseers | a 
+a pee the tests would have on — oi 
+oor aan off duty. Id., 109 S.Ct. 
+re) 
+
+
+103a 
+
+ized suspicion or probable cause, must 
+demonstrate a "compelling need" for the 
+invasion which outweighs the individuals 
+interest in privacy.® The Supreme Court's 
+decisions in Skinner and Von Raab, and 
+the Ninth Circuit's decisions in IBEW and 
+Bluestein, demonstrate that the govern- 
+ment may show a "compelling need" which 
+obviates the need for either a warrant or 
+individualized Suspicion if security or 
+safety interests are implicated. 
+
+Although the types and magnitude of 
+Safety and security concerns addressed in 
+
+
+Skinner and Von Raab differ from those 
+
+
+* This is not meant to imply that there ex- 
+ists a separate and distinct "administrative" 
+search doctrine. See Schaill v. Tippecanoe Coun- 
+ty School Corp., 864 F.2d 1309, 1316, n. 7, reh’g 
+denied (7th Cir.1988) (discussing debate sur- 
+rounding ‘administrative search’ doctrine). 
+Instead, as discussed more fully infra, I find 
+that the existence (Or absence) of criminal pen- 
+alties is but one factor which I must consider in 
+
+
+determining the weight of individual privacy 
+interests. 
+
+
+104a 
+faced by students, teachers and coaches 
+who participate in middle and high school 
+athletic programs, courts have acknowl- 
+edged that the public school is a unique 
+setting in which the constraints of the 
+Fourth Amendment are "relaxed." In New 
+Jersey v. T.L.O., 469 U.S. 325, 105 S.Ct. 
+733 83 L.Ed.2d 720 (1985), a 14 year old 
+student who was discovered smoking in the 
+lavatory was taken to the assistant vice 
+principal's office. Upon hearing the 
+report, the assistant vice principal 
+searched the student's purse for ciga- 
+rettes. During the search, he discovered 
+rolling papers, marijuana, a pipe, a 
+fairly substantial amount of money and 
+possible records of drug sales to other 
+students. Thereafter, the state brought 
+delinquency charges against the student 
+
+
+and the admissibility of the items seized 
+
+
+105a 
+by the vice-principal was ultimately ap- 
+pealed to the Supreme Court. The Court 
+held that the Fourth Amendment's prohibi- 
+tion on unreasonable searches and sei- 
+zures applies to searches conducted by 
+public school officials, but that the 
+school setting requires some "easing" of 
+the restrictions to enable school admin- 
+istrators to preserve order and maintain 
+an adequate educational environment. 
+Id., at 334, 340-41, 105 S.Ct. at 738, 
+742-43. Thus, although student athletes 
+who use drugs do not pose the magnitude 
+of a threat to society that, say, an in- 
+toxicated air traffic controller might, 
+the fact that the searches take place 
+within the school setting, as part of a 
+program designed to maintain discipline, 
+enforce athletic program regulations, and 
+
+
+protect the safety of student athletes, 
+
+
+106a 
+
+
+is a significant factor that must weigh 
+heavily in any balancing process. 
+Further, relying upon the “fundamen- 
+tal command" of the Fourth Amendment that 
+all searches be “reasonable,” the Court 
+
+
+in T.L.O. held: 
+
+
+"(T}he legality of a search of 
+a student should depend simply 
+on the reasonableness, under 
+all the circumstances, of the 
+search. Determining the rea- 
+sonableness of any search in- 
+volves a twofold inquiry: 
+first, one must consider wheth- 
+er the action was justified at 
+its inception ... second, one 
+must determine whether the 
+search as actually conducted 
+was reasonably related in scope 
+to the circumstances which jus- 
+tified the interference in the 
+first place." 
+
+
+Id., at 341-42, 105 S.Ct. at 742-43 (ci- 
+tations omitted). In a footnote, the 
+Court pointed out that it was not con- 
+fronted with the issue of whether indi- 
+vidualized suspicion was an essential 
+
+
+element of the reasonableness standard. 
+
+
+107a 
+Id., at 343 n. 8, 105 S.Ct. at 743 n. 8. 
+However, the Court emphasized that the 
+"Fourth Amendment imposes no irreducible 
+requirement of such [individualized] sus- 
+picion." Id. Thus, although the context 
+of the T.L.O. case involved the search of 
+an individual student, the Court express- 
+ly held that "any search" of a student be 
+measured by "reasonableness" based upon 
+the totality of the circumstances and 
+balancing of relative interests. 
+
+Whether and how the "reasonableness" 
+analysis and rationale supporting the 
+decisions in Skinner, Von Raab, and 
+T.L.O. may be extended to an athletic 
+program under guidelines adopted by a 
+school board is a question that has yet 
+to be directly addressed by either the 
+Supreme Court or the Ninth Circuit. How- 
+
+
+ever, several other courts have confront- 
+
+
+108a 
+ed the issue. In Schaill v. Tippecanoe 
+County School District, 864 F.2d 1309 
+(7th Cir.1988) reh'g denied (1989)’, sev- 
+eral students challenged the constitu- 
+tionality of the school system's program 
+for random urine testing for interscho- 
+lastic athletes. Under the program, all 
+students desiring to participate in in- 
+terscholastic athletics and their parents 
+had to agree to submit to random urinaly- 
+sis testing. A positive test would re- 
+sult in suspension from participation in 
+all or a portion of the athletic season 
+unless the student agreed to participate 
+in a drug treatment program. In light of 
+the Supreme Court's holding in T.L.O., 
+the court began its inquiry by noting 
+
+
+that the probable cause and warrant re~- 
+
+
+? Although Tippecanoe was ultimately pub- 
+lished in 1989, it predates the Supreme Court's 
+decisions in Skinner and Von Raab. 
+
+
+109a 
+quirements were not applicable to the 
+program. Instead, the court found that 
+the test should be under the "general 
+Fourth Amendment standard of reasonable- 
+ness." Id., at 1315. However, because 
+the program was premised upon a lack of 
+any individualized suspicion, the court 
+found that the school district bore a 
+“heavier burden" to justify its contem- 
+plated actions. Id.; compare Brooks, 730 
+F.Supp. at 764 (search of students must 
+be based upon individualized suspicion 
+absent "extraordinary" circumstances) . 
+Although the court did not quantify how 
+heavy that burden should be, I find that 
+the analysis presaged the Supreme Court's 
+"compelling need" standard in Skinner and 
+Von Raab. Accordingly, the court bal- 
+anced the privacy interests of the stu- 
+
+
+dents against the government's objectives 
+
+
+110a 
+and the nature and degree of the intru- 
+sion. Factors which the court found 
+weighed in favor of the program's reason- 
+ableness included: first, the random na~ 
+ture of the testing which necessarily 
+limited official discretion; second, the 
+limited non-punitive purposes for the 
+search; third, evidence to support a 
+finding that the use of drugs posed a 
+"particular threat" to athletes; fourth, 
+evidence of at least three student inju- 
+ries that had been caused or exacerbated 
+by drug impairment; fifth, substantial 
+evidence that alternatives methods of 
+investigation would not adequately serve 
+the school's goals; sixth, the diminished 
+expectations that student athletes enjoy 
+by the public nature of the events and by 
+the existence of other regulations and 
+
+
+restrictions; and seventh, the incorpora~ 
+
+
+lila 
+tion of adequate privacy safeguards such 
+as the strict limits on disclosure of 
+test results and the lack of direct visu- 
+al observation during the testing proce- 
+dures. 
+
+In Derdeyn v. University of Colora- 
+do, 832 P.2d 1031 (Colo.App.1991), stu- 
+dents challenged a drug testing program 
+for intercollegiate athletics at the Uni- 
+versity of Colorado. In that program, a 
+student was randomly selected for a rapid 
+eye movement test which, if found posi- 
+tive, would lead to a urinalysis test. 
+The court held that the University's in- 
+terest in securing a drug free athletic 
+program was not compelling and held that 
+the testing procedures violated the 
+Fourth Amendment of the U.S. Constitu- 
+tion. The court enjoined the University 
+
+
+from continuing the testing procedures in 
+
+
+112a 
+the absence of reasonable suspicion to 
+believe that an athlete was using drugs. 
+The court specifically noted that there 
+was no evidence in the record to indicate 
+that student athletes used drugs more 
+than other persons of similar age among 
+the general population and no evidence of 
+actual drug problems or drug related in- 
+juries among University athletes. See 
+also Hill v. NCAA, 7 Cal.App.4th 1738, 
+273 Cal.Rptr. 402, petition for review 
+granted 276 Cal.Rptr. 319, 801 P.2dad 1070 
+(1990) (college drug testing program in- 
+valid under California constitution given 
+lack of evidence to show utility of pro- 
+gram outweighed students’ privacy 
+rights); and Brooks, 730 F.Supp. 759, 
+764-65 (urinalysis of all students par- 
+ticipating in all extracurricular activi- 
+
+
+ties unconstitutional given laxity in 
+
+
+113a 
+
+testing procedures and lack of any evi- 
+dence to show connection between drug 
+use, participation in extra-curricular 
+activities and injuries sought to be 
+avoided); and Anable v. Ford, 653 F.Supp. 
+22, 40-41, modified in part 663 F.Supp. 
+149 (W.D.Ark.1985) (finding urinalysis of 
+individual students suspected of marijua- 
+na use unconstitutional given unreliable 
+test results and insufficient evidence to 
+justify intrusive procedures utilized). 
+
+Based upon the guidance provided by 
+these cases, I find that I must determine 
+whether defendant's urinalysis testing 
+program is "reasonable" in light of all 
+of the justifications underlying the in- 
+stitution of the program and the circun- 
+stances surrounding its administration. 
+To assess the "reasonableness" of the 
+
+
+progrem, I find that I must engage in a 
+
+
+114a 
+balancing test. Because defendant stipu- 
+lates that it had no individualized sus- 
+picion that James had ever used drugs or 
+alcohol, I find that the school district 
+must demonstrate a "compelling need" for 
+the program. Although it is impossible 
+to define the term "compelling need" with 
+any degree of specificity, I find that 
+the cases discussed, supra, are instruc- 
+tive and provide an adequate "spectrum" 
+by which I may measure the testing proce- 
+dures and justification put forth in this 
+case. The Supreme Court, in Skinner and 
+Von Raab, teaches that a search may be 
+"reasonable" in the absence of a search 
+warrant or individualized suspicion where 
+the safety and security interests of the 
+public significantly outweigh the privacy 
+interests of certain employees who work 
+
+
+in industries that carry a high risk of 
+
+
+115a 
+serious accidents or who are exposed to 
+illegal substances. Brooks, Hill and 
+Derdeyn teach that a school may not jus- 
+tify a random urinalysis program upon 
+amorphous statistics or generalized no- 
+tions about the national drug problem. 
+Finally, the Seventh Circuit Court of 
+Appeals, in Tippecanoe, teaches that a 
+schools random urinalysis program for 
+interscholastic athletes which employs 
+the least intrusive means possible to 
+effectuate this goal may withstand con- 
+stitutional scrutiny if based upon spe- 
+cific evidence of drug related injuries 
+and disciplinary concerns. 
+
+In considering all of the evidence 
+produced in this case, I find that 
+there are several factors which weigh in 
+favor of the district's drug testing pol- 
+
+
+icy. First, and foremost, there is evi- 
+
+
+116a 
+
+dence in the record of specific instances 
+in which coaches have observed athletes 
+perform poorly and unsafely while under 
+the influence of some intoxicant. On one 
+occasion, a wrestler was seriously in- 
+jured and subsequently observed to smell 
+of marijuana. 
+
+Next, there is evidence to show that 
+athletes at Vernonia, perhaps more be- 
+cause of its rural setting, are role mod- 
+els for the entire community. The "Big 
+Elks," the "Drug Cartel" or their succes- 
+sors are clearly leaders for other stu- 
+dents and if they are deterred from drug 
+use by threat of suspension from the ath- 
+letic program, then it is reasonable for 
+school administrators to believe that 
+other students will also be deterred. 
+The testimony of Dr. DuPont was particu- 
+
+
+larly persuasive on the significant de- 
+
+
+117a 
+terrent effects that a random drug test- 
+ing program can have on a youthful popu- 
+lation. 
+
+Further, the affected activity is 
+limited in Scope and narrowly tailored to 
+effectuate the district's objectives. 
+Unlike the policy challenged in Brooks, 
+which applied random drug testing to all 
+extra-curricular activities, the Vernonia 
+policy is limited to the one activity 
+which, in that community, is likely to 
+have the greatest impact on the drug and 
+alcohol abuse problem given the document- 
+ed evidence of incidents involving par- 
+ticular students. The regulations al- 
+ready require that students undergo a 
+Physical examination prior to participa- 
+tion, the locker rooms themselves are 
+Open spaces and do not provide a great 
+
+
+deal of privacy when Students shower and 
+
+
+118a 
+
+change. Thus, drug testing is but one 
+part of a substantial number of other 
+rules and regulations governing athletes. 
+
+In addition, the middle to high 
+school setting itself tends to favor the 
+administration's policy given the stated 
+goals and the deference that courts 
+should accord school administrators in 
+matters concerning discipline and main- 
+taining order. I am satisfied by the 
+evidence that defendant did not institute 
+this policy to engage in a "fishing expe- 
+dition" for drug and alcohol use to carry 
+on a moral crusade. Rather, I find that 
+defendant demonstrated that its concerns 
+were for the limited purposes of address- 
+ing student safety in athletic programs 
+
+
+and, ultimately, maintaining discipline 
+
+
+119a 
+in the classrooms.* As defendant ac- 
+knowledges, the school plays a signifi- 
+cant role in the development of its stu- 
+dents and as such, owes a duty to take 
+such steps as are reasonable and neces- 
+sary to protect students from harm. Al- 
+though it is purely speculative, I cannot 
+help but wonder what liability defendant 
+might have faced had it failed to take 
+the next step in combatting the drug and 
+alcohol problem when confronted with such 
+clear evidence that students were abusing 
+drugs and alcohol and engaging in sports. 
+
+
+Also significant is the fact that 
+
+
+* I also note that while I find the Derdeyn 
+and Hill cases helpful to my analysis of the law 
+to apply, those cases involve college students 
+who have, for the most part, reached the age of 
+adulthood. University programs are far less 
+structured, class attendance is voluntary and 
+discipline is largely left to the students. I 
+also note that the role of an athletic program on 
+a large University is far different than that of 
+a rural middle school or high school with limited 
+alternative activities. 
+
+
+120a 
+the school district considered and actu- 
+ally tried several alternative methods of 
+dealing with the increase in drug and 
+alcohol related disciplinary problems 
+prior to instituting the drug testing 
+program. As I noted earlier, the school 
+instituted several educational programs 
+designed to discourage drug use and found 
+that the "subtle" approach not only 
+failed, but seemed to cause further dis- 
+ruptions. Less intrusive "screening" 
+methods have proven to be ineffective. 
+As Dr. DuPont explained, visual observa- 
+tions (even by professionals) are simply 
+not reliable indicators of whether that 
+student may have consumed alcohol or 
+drugs. DuPont testified that, although 
+some people display outward manifesta- 
+tions of drug or alcohol use, many others 
+
+
+do not, making application of the reason- 
+
+
+12la 
+
+able and individualized suspicion stan- 
+dard an unreliable and impractical tool 
+to aid in preventing accidents before 
+they happen. Thus, random drug urinaly- 
+sis testing was seen as the next logical 
+step in a progressive attempt to address 
+the drug and alcohol problems. 
+
+I further find that defendant has 
+taken significant steps to limit the ex- 
+tent of the intrusion. Students at Ver- 
+nonia, like the employees subject to 
+testing in Skinner and Von Raab, may pro— 
+duce the sample without a direct eye wit- 
+ness. Test results remain confidential 
+and may only be used to suspend the stu- 
+dent from participation in the athletic 
+program-test results are not disclosed to 
+criminal authorities and may not be used 
+as the basis for school disciplinary pro- 
+
+
+ceedings such as suspension or expul- 
+
+
+122a 
+sions. The scope of the test is limited 
+to the detection of illegal drugs and 
+alcohol, thus ensuring that prescription 
+drugs or contraceptive use will remain 
+undisclosed. The testing procedures 
+
+
+used, unlike those in Anable, are highly 
+
+
+effective and have an accuracy of 99.94%. 
+
+
+Finally, the program limits the de- 
+gree of discretion that may be exercised 
+by coaches and school administrators. 
+Testing during the season is random and 
+
+
+thus, does not implicate the kind of un- 
+
+
+fettered discretion which raised the con- 
+
+
+stitutional concerns surrounding automo- 
+bile "safety checks" in Delaware v. 
+Prouse. 
+
+When I balance all of the factors 
+present in this case against James' le- 
+gitimate expectations of privacy, I find 
+
+
+that his privacy interests must give way 
+
+
+1z3a 
+to the district's need to maintain order 
+and protect its students from injury by 
+use of the least intrusive means avail- 
+able to it. Although I recognize that 
+the program caters to the lowest common 
+denominator and that students who have 
+never consumed alcohol or drugs may suf- 
+fer a degree of embarrassment, I feel 
+that defendant has come forward with suf- 
+ficient evidence to show that its drug 
+testing program serves a "compelling 
+need." I emphasize that my holding today 
+is limited to the unique circumstances 
+which confronted the Vernonia School 
+staff. Defendant has proven, beyond all 
+possible doubt, that it was faced with a 
+crisis situation in attempting to main- 
+tain order and discipline. Based upon 
+the observations of teachers and coaches, 
+
+
+the district came to the inescapable con- 
+
+
+124a 
+clusion that their problems were directly 
+related to the students' unlawful use of 
+alcohol and drugs. Further, the 
+district's decision to target its athlet- 
+ic program for regulation given the pre- 
+dominant role that athletics play in this 
+small rural community demonstrates that 
+defendant made every effort to tailor 
+this program to the least intrusive ex- 
+tent possible. Thus, whether a similar 
+program could withstand constitutional 
+scrutiny in large metropolitan schools or 
+in other small rural schools will neces-~- 
+sarily depend, at a minimum, upon evi- 
+dence of drug related problems, attempts 
+to address the problems in less intrusive 
+ways, and establishing a connection be- 
+
+
+tween the stated objectives and the means 
+
+
+125a 
+
+chosen to achieve those objectives.”? 
+
+Based on the foregoing, I find that 
+defendant's drug testing program was jus- 
+tified at its inception and is reasonably 
+related in, scope to the circumstances 
+that exist in Vernonia. Accordingly, 
+plaintiffs have failed to demonstrate 
+that the defendant's drug testing program 
+unconstitutionally interferes with their 
+son's right to be free from unreasonable 
+
+
+searches or seizures under the Fourth 
+
+
+Amendment. 
+
+
+II. The Oregon Constitution, Article I 
+§ 9 
+
+
+Article I § 9 of the Oregon Consti- 
+
+
+tution provides: 
+
+
+* For example, Vernonia's drug program might 
+not be "reasonable" as applied to a large metro- 
+politan high school where the students who engage 
+in drug use may neither participate in, nor have 
+
+
+contact with students who participate in inter- 
+scholastic athletics. 
+
+
+126a 
+
+"No law shall violate the right 
+
+of the people to be secure in 
+
+their persons, house, papers, 
+
+and effects, against unreason- 
+
+able search, or seizure; and no 
+
+warrant shall issue but upon 
+
+probable case [sic], supported 
+
+by oath, or affirmation, and 
+
+particularly describing the 
+
+place to be searched, and the 
+
+person or thing to be seized." 
+In State v. Owens, 302 Or. 196, 206, 729 
+P.2d 524 (1986), the court stated that 
+Article I, section 9 protects privacy 
+interests, and that a "search" for con- 
+stitutional purposes occurs when a 
+person's privacy interests are invaded. 
+The Oregon Supreme Court has interpreted 
+Article I, section 9 independently, but 
+parallel to federal court interpretations 
+of the Fourth Amendment. State v. Brown, 
+301 Or. 268, 273, 721 P.2d 1357 (1986). 
+
+Oregon courts have not directly ad- 
+
+
+dressed administrative, non-criminal, 
+
+
+suspicionless searches of the type pre- 
+
+
+127a 
+sented by a school's random drug testing 
+program.'® However, in State v. 
+Tourtillott, 289 or. 845, 618 P.2d 423 
+(1980) cert. denied, 451 U.S. 972, 101 
+S.Ct. 2051, 68 L.Ed.2d 352 (1981), the 
+court addressed the constitutionality of 
+
+
+game checkpoint stops.'' puring one of 
+
+
+'° Prior to 1980, the court of Appeals exam- 
+ined and upheld the validity of administra- 
+tive, non-criminal searches in four cases and 
+treated the requirements of Oregon and federal 
+search and seizure law as interchangeable. See 
+the Discussion in 46 Op.Atty.Gen. (No. 8191, 
+Nov. 16, 1987) (Slip Op. at 25), citing Eddie’s 
+Supper Club v. OLCC, 23 Or.App. 493, 543 P.2da 19 
+(1975) (OLCC searches of licensed premises with- 
+Out warrants or individualized Suspicion); State 
+ex rel. Accident Prev. Div. y. Foster, 31 
+Or.App. 291, 570 P.2d 398 (1977) (statute allow- 
+ing warrant to search business premises for safe- 
+ty violations may issue without individualized 
+probable cause); State v. Westside Fish Co., 31 
+Or.App. 299, 570 P.2d 401 (1977) (warrantless 
+search of food processing plant by Fish and Game 
+Commission); and Accident Prevention Division v. 
+Hogan, 37 Or.App. 251, 586 P.2d 1132 (1978) (war- 
+rant issued without probable cause to determine 
+compliance with safety regulation). 
+
+
+'' The roadblocks were manned by officers of 
+the Oregon State Police Game Division and were 
+set up to check hunters’ compliance with the game 
+laws, to check hunting licenses and to gather 
+statistics on hunter success on the opening day 
+of deer hunting season. Tourtillott, 289 Or. at 
+
+
+128a 
+these checkpoint stops, Ms. Tourtillott 
+was arrested for driving with a revoked 
+license and was ultimately sentenced to 
+imprisonment for one year. There was no 
+dispute that the officers had neither 
+probable cause nor reasonable suspicion 
+to believe that the defendant had been 
+involved in criminal activity at the time 
+she was stopped. On appeal, the defen- 
+dant argued that the stop violated Arti- 
+cle I § 9 of the Oregon Constitution and 
+the Fourth Amendment of the U.S. Consti- 
+tution because the stop was not based 
+upon reasonable suspicion. The court 
+rejected the contention that reasonable 
+or individualized suspicion was a neces~ 
+sary requisite for a valid stop. In- 
+stead, the court followed the reasoning 
+
+
+from United States Supreme Court cases 
+
+
+848, 618 P.2d 423. 
+
+
+129a 
+which upheld the constitutional validity 
+of border searches and highway safety 
+checks. Id., 289 Or. at 854-857, 618 
+P.2d 423. Like the federal decisions, 
+the Oregon court held that to determine 
+the reasonableness of the checkpoint stop 
+procedures, it must balance the 
+government's interest in the promotion of 
+legitimate interests against the 
+
+
+defendant's right to be free from unrea- 
+
+
+sonable seizures. Id., at 857-859, 618 
+
+
+P.2d 423. The Oregon court enunciated 
+the following four factors which it con- 
+Sidered particularly Significant in de- 
+termining the constitutionality of a par- 
+ticular government procedure: 
+
+
+(1) the importance of the govern- 
+mental interest at stake; 
+
+
+(2) the psychologically and physi- 
+cally intrusive nature of the 
+procedure; 
+
+
+(3) the efficiency of the procedure 
+
+
+130a 
+
+
+in reaching its desired goals; 
+and 
+
+
+(4) the degree of discretion the 
+procedure vests in the particu- 
+lar officers. 
+
+
+Id., at 864, 618 P.2d 423. Although the 
+court ultimately held that the game 
+checkpoint was lawful, it emphasized that 
+its holding was limited to determining 
+the constitutionality of a stop, not a 
+search. Id., at 861, 618 P.2d 423. The 
+dissent criticized the majority for its 
+reliance upon Supreme Court decisions 
+which involved administrative searches: 
+
+
+"I believe the majority errs in 
+transferring that evaluation 
+[of the degree of official dis- 
+cretion] from the context in 
+which the Supreme Court devel- 
+oped it—the context of inspec- 
+tions for preventative or cor- 
+rective purposes—to the dif- 
+ferent and wider context of 
+seizures aiming at the discov- 
+ery and punishment of past of- 
+fenses." 
+
+
+Id., at 873, 618 P.2d 423, Linde, J. dis- 
+
+
+l3la 
+senting. 
+
+Thereafter, in Nelson v. Lane Coun- 
+ty, 304 Or. 97, 743 P,2d 692 (1987), the 
+court considered an appeal from a civil 
+judgment in which the Plaintiff sought 
+civil remedies against three Oregon state 
+police officers who stopped and detained 
+her at a sobriety roadblock. On appeal, 
+the state argued that the roadblock was 
+justified under the reasoning in 
+Tourtillott and as an administrative 
+search. Compare State v. Anderson, 304 
+Or. 139, 743 P.2?d 715 (1987) and State v. 
+Boyanovsky, 304 Or. 131, 743 P.2d 711 
+(1987) {roadblocks designed to gather 
+evidence for criminal prosecution of 
+drunk drivers rather than administrative 
+enforcement unconstitutional absent indi- 
+vidualized suspicion). The three-justice 
+
+
+plurality did not reach the issue of the 
+
+
+132a 
+constitutionality of the roadblock, but 
+instead decided the case on statutory 
+grounds, ruling that, unlike the game 
+regulations which authorized the check- 
+point in Tourtillott, there was no ex~ 
+press legislative authorization to con- 
+duct the sobriety checkpoints. The 
+court's holding appeared to be an out- 
+growth of the "unconstrained exercise of 
+discretion" concern voiced by the Supreme 
+Court in Delaware v. Prouse. Although 
+the roadblock stops were not the product 
+of a decision made by a single officer 
+out in the field as in Prouse, the road- 
+blocks were developed as part of the Ore- 
+gon State Police Patrol Technique Manu- 
+al—a group which is not "politically 
+accountable," or specifically authorized 
+by a politically accountable body to con- 
+
+
+duct such inspections. Id., 304 Or. at 
+
+
+133a 
+
+105, 743 P.2d 692. In dictum, the plu- 
+rality suggested that sobriety check- 
+points might be lawful if properly autho- 
+rized and “providing sufficient indica- 
+tions of the purposes and limits of exec- 
+utive authority, and if carried out pur- 
+Suant to a properly authorized adminis- 
+trative program designed and systemati- 
+cally administered to control the discre- 
+tion of non-supervisory officers." TI[d., 
+at 104, 743 P.2d 692, Citing State v. 
+Atkinson, 298 or. 1, 9-10, 688 P.2d 832 
+(1984)." Two dissenting justices argued 
+that the majority had failed to adequate- 
+ly consider the state's interest in pro- 
+
+
+tecting its citizens from harm suffered 
+
+
+In Atkinson, the court held that warrant- 
+less, suspicionless non-criminal “inventory” 
+searches of lawfully impounded cars were permis- 
+sible under Article I § 9 if properly authorized 
+and administered in a Systematic, non-discretion- 
+ary fashion. Id., 298 Or. at 10, 688 P.2d 832. 
+
+
+134a 
+by intoxicated drivers and would apply 
+the four-part test of Tourtillott. > 
+304 Or. at 115-119, 743 P.2d 692, Peter- 
+son, C.J. dissenting. 
+
+Although Oregon courts have not di- 
+rectly addressed the issues in this case 
+or the legal standards to be applied to 
+administrative searches under Article I 
+§ 9 of the Oregon Constitution, I find 
+that the Supreme Court's decisions in 
+Tourtillott and Nelson provide me with 
+sufficient guidance to determine the va- 
+lidity of the challenged drug testing 
+program in this case. This finding is 
+influenced, to a large extent, by the 
+parties' stipulation that jurisdiction is 
+proper in this court. I agree with coun- 
+sel that remanding the state constitu- 
+tional challenge to the state court at 
+
+
+this stage in the proceedings would not 
+
+
+135a 
+serve the interests of judicial economy, 
+efficiency or be required in the inter- 
+ests of comity. Compare Castellano v. 
+Board of Trustees, 937 F.2d 752, 758 (2nd 
+Cir.), cert. denied — U.S —, 112 S.Ct. 
+378, 116 L.Ed.2d 329 (1991) (holding 
+court ‘should’ dismiss supplemental state 
+constitutional claim in interest of comi- 
+ty). 
+
+In light of Nelson, I find that I 
+must first determine whether the drug 
+testing procedures in this case were 
+properly "authorized." Under the Oregon 
+statutes, school districts are considered 
+“corporate bodies." O.R.S. 332.072. 
+School boards in each district are ex- 
+pressly authorized to "transact all busi- 
+ness coming within the jurisdiction of 
+the district and to sue and be sued." 
+
+
+Id. Further, school boards are charged 
+
+
+136a 
+
+with responsibility "for educating chil- 
+dren residing in the district" which in- 
+Cludes determining "what things are det- 
+rimental to the successful management, 
+good order and discipline of the schools 
+and the rules required to produce these 
+conditions." JId.; and Burkitt et al. v. 
+School District No. 1, et al., 195 Or. 
+471, 492, 246 P.2d 566 (1952) (citations 
+omitted). This grant of authority ex- 
+pressly includes the power to develop a 
+drug abuse program as provided by O.R.S. 
+336.222: 
+
+"In accordance with rules 
+
+adopted by the State Board of 
+
+Education . . . each district 
+
+school board shall adopt a com- 
+
+prehensive drug abuse policy 
+
+and implementation plan includ- 
+
+ing, but not limited to... 
+
+alcohol and drug abuse preven- 
+
+tions curriculum and public 
+
+information programs * 
+
+
+Unlike the Oregon State police de- 
+
+
+partment, which is an executive agency, 
+
+
+137a 
+the Vernonia School Board is a political- 
+ly accountable bedy. Each board member 
+is elected by the voters in the District 
+area. Each is subject to recall and must 
+face re-election. Thus, voters who op- 
+pose the policy may lobby the board and 
+voice their objections through the elec- 
+toral process. 
+
+Based on the foregoing, I find that 
+the challenged drug testing program is 
+authorized by Oregon statutes and was 
+properly promulgated and implemented by 
+the Vernonia School District. 
+
+AS a preliminary matter, I note that 
+the Oregon Supreme court has not directly 
+addressed the issue of whether a urinaly- 
+Sis test is a "search." However, Oregon 
+courts have held that a "search" occurs 
+when a person's privacy interests are 
+
+
+invaded. Owens, 302 Or. at 206, 729 P.2a 
+
+
+138a 
+524. In State v. Milligan, 304 Or. 659, 
+748 P.2da 130 (1988), the court held that 
+compelled extraction of blood constitutes 
+a search under Article I § 9. I find 
+that a urinalysis test is a “search” un- 
+der Article I § 9 of the Oregon constitu- 
+tion. Having determined that the drug 
+policy is properly “authorized" pursuant 
+to Oregon law and that the urinalysis 
+test is a "search," I now turn to the 
+issue of whether the program is valid 
+under Article I § 9 of the Oregon Consti- 
+tution. Based upon the court's holding 
+in Tourtillott, I find that the relevant 
+inquiry is whether the program is “rea- 
+sonable." The “reasonableness" of the 
+program must be determined by balancing 
+the school district's asserted interests 
+against the plaintiffs' right to be free 
+
+
+from unreasonable intrusions into his 
+
+
+139a 
+privacy. In conducting this balancing 
+test, I shall consider each of the four 
+factors articulated by the court. 
+
+The first factor is the importance 
+of the governmental interest at stake. 
+289 Or. at 864, 618 P.2d 423. In this 
+case, the school district's interest in 
+preventing and deterring drug and alcohol 
+abuse among the student population is 
+highly significant. As I noted previous- 
+ly, there is ample evidence in the record 
+to support the district's claim that al- 
+cohol and drug use were the primary caus- 
+es of disruptions and disciplinary prob- 
+lems during school hours. Further, there 
+is evidence which tends to show that al- 
+cohol and drug use contributed to an 
+athlete's injury and/or would eventually 
+lead to additional injuries. 
+
+
+The second factor is the psychologi- 
+
+
+140a 
+cally and physically intrusive nature of 
+the procedure. Id. Again, as discussed 
+in greater detail infra, I find that the 
+district program uses the least intrusive 
+method possible by insuring the confiden- 
+tiality of the test results and by per- 
+mitting students to produce the sample 
+without direct witness observation. Most 
+significantly however, is the fact that 
+the search program was instituted to cor- 
+rect behavior and deter future unlawful 
+conduct—it was not designed to punish the 
+students for past conduct and does not 
+expose the students to possible criminal 
+sanctions or investigation. 
+
+The third factor, the efficiency of 
+the procedure in reaching the desired 
+goals, is best demonstrated by the re- 
+sults actually achieved in this case. 
+
+
+Disciplinary reports are back down to 
+
+
+14la 
+
+"normal" levels and there have been no 
+subsequent reports of athletic injuries 
+attributable to drug or alcohol use. As 
+the school officials testified, the pro- 
+gram runs smoothly and causes no disrup- 
+tions to either the school or athletic 
+progran. 
+
+The final factor, the degree of dis- 
+cretion left to individual officers, is 
+not implicated by the program at all 
+Since testing is required of all appli- 
+cants and then conducted on a randon, 
+lottery-type basis during the course of 
+the season. 
+
+When I consider all of these factors 
+in light of the unique circumstances 
+present in the Vernonia School district, 
+I find that the balance of interests 
+weighs heavily in favor of the 
+
+
+government's interests in maintaining a 
+
+
+142a 
+healthy and productive scholastic atmo- 
+sphere. Accordingly, I find that the 
+challenged program is "reasonable" under 
+Article I § 9 of the Oregon Constitution. 
+CONCLUSION 
+
+Based on the foregoing, I find that 
+defendant's drug testing program is rea- 
+sonable under the Fourth Amendment of the 
+United States Constitution and Article I 
+§ 9 of the Oregon Constitution. Accord- 
+ingly, plaintiffs' claims for injunctive 
+
+
+and declaratory relief are denied. 
+
+
+143a 
+
+
+APPENDIX C 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+No. 92-35520 
+
+
+D.C. No. CV-91-1154-MFM 
+
+
+ORDER 
+
+
+WAYNE ACTON and JUDY ACTON, guardians ad 
+litem for JAMES ACTON, 
+Plaintiffs-Appellant, 
+Vv. 
+VERNONIA SCHOOL DISTRICT 47J, 
+
+Defendant-Appellee. 
+
+Before: REINHARDT, BRUNETTI, and 
+
+FERNANDEZ, Circuit Judges 
+
+The panel has unanimously voted to 
+
+deny the appellee's petition for rehear- 
+
+ing. The suggestion for rehearing en 
+
+banc was circulated to the active judges 
+
+
+of the court, and no judge requested a 
+
+
+vote for en banc consideration. 
+
+
+144a 
+The petition for rehearing is DENIED 
+and the suggestion for rehearing en banc 
+is REJECTED. 
+
+
+FILED: July 8, 1994. 
+
+

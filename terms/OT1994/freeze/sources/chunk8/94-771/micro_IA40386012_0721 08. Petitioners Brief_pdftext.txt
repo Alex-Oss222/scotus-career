@@ -1,0 +1,2474 @@
+                                                  Vv .    Petitioner,
+                                                        Respondent.
+CHICKASAW NATION,
+
+      On Writ of Certiorarito
+the United States Court of Appeals
+
+         for the Tenth Circuit
+
+BRIEF OF PETITIONER
+
+STANLEY JOHNSTON            CHARLES ROTHFELD* ©
+
+ Deputy General Counsel     Gary A. WINTERS
+
+DAVID ALLEN MILEY           LAURIE R. RUBENSTEIN
+ Assistant General Counsel    Mayer, Brown & Platt
+
+ Oklahoma Tax Commission      Suite 6500
+
+Post Office Box 53248        2000 Pennsylvania Ave., N.W.
+
+ Oklahoma City, OK 73152      Washington, D.C. 20006
+
+ (405) 521-3141              (202) 778-0616
+
+                            *Counsel ofRecord
+                   QUESTIONS PRESENTED
+
+      1. Whether principles of federal preemption or Indian
+sovereignty preclude a State from imposing a tax on sales of
+motor fuel by an Indian tribe, when the fuel is purchased in
+substantial part by non-Indians or non-members of the Tribe,
+and the fuel is used outside of Indian country on roads
+constructed and maintained by the State.
+
+     2. Whether the legal incidence of Oklahoma's tax on
+motor fuel falls on the ultimate purchaser of the fuel.
+
+     3. Whether federal law precludes state taxation of the
+income of Indians who work on tribal trust lands but live
+outside of Indian country.
+        `i
+
+    TABLE OF CONTENTS
+
+                                         Page
+
+CUMS EUG FINE gg ce ccc esstwosues i
+
+TABLE OF AUTHORITIES ................ iv
+
+CO UE . cewicesnnesneaeewesees 1
+
+PE  6.6 o wn oe ee ee aN eerre rey 1
+
+ee BO   reeee e ee ee ee 2
+
+SOD ha di6e 60 ags ad ee ee                 2
+
+SUMMARY OF ARGUMENT ............... 9
+
+SE, ae eck eed eee Kee eee 12
+
+I. OKLAHOMA'S FUEL TAX MAY BE APPLIED
+     TO SALES BY THE TRIBE.............. 12
+
+A. The Sale Of Fuel That Is Used Almost
+
+Exclusively On State Jurisdiction Roads Is
+
+er                       ee 12
+
+1. The Balance Of State And _ Tribal
+
+    SS. 0 ate@ 6 eee ee                     14
+
+2. Federal Law Does Not Preclude State
+
+    Taxation Of Indian Tribes In All
+
+    SN  ee eee 18
+
+3. Sales By The Tribe Are Subject To The
+      Oklahoma Fuel Tax. ............. 24
+
+4. The Decision Below Rests On A Formalism
+
+     That DisreEcognoa micrRedalisties. ... 29
+
+5. The State May Tax Sales Of Fuel Used By
+     Tribal Members Outside Indian Country. . 32
+
+B. The Legal Incidence Of The Fuel Tax Falls
+     Upon The Comsumer ........ccccecees 33
+                                ili
+
+                            TABLE OF CONTENTS - Continued
+
+                                                                 Page
+
+                            Tl. THE TREATY WITH THE CHICKASAW
+
+                            NATION DOES NOT PRECLUDE IMPOSITION
+
+                            OF OKLAHOMA'S INCOME TAX ON TRIBAL
+
+                            MEMBERS WHO LIVE OUTSIDE INDIAN
+
+                            TS  oa oe 4b oe wee. 4 eo oe Oe 39
+
+                            sa  ire a ce up 6 ak a oe Oe 47
+
+SpMSOUe aeamDAisertRaedeRs
+                             iv
+
+       TABLE OF AUTHORITIES
+
+Cases                                      waa
+
+Atlantic and Pacific R. Co. v. Mingus,
+
+Se,    ee ee ee 46
+
+Brendale v. Confederated Tribes and Bands
+
+of the Yakima Nation, 492 U.S. 408
+
+res    ls Wand WG hac 4-4 be wee 47
+
+Bryan v. Itasca County, 426 U.S. 373
+
+ee     ea oy ae ea eS 6 AS                 ee 19, 21
+
+California State Board of Equalization v.
+
+Chemehuevi Indian Tribe, 474 U.S. 9
+
+RS     hale arcuaa aa t gade8 8.3 18, 35, 38
+
+California v. Cabazon Band of Mission      15, 17, 21, 22, 26
+     Indians, 480 U.S. 202 (1985) ...
+
+Complete Auto Transit, Inc. v. Brady,      10, 30, 31
+     Cogs Re 0 fs) re
+
+Cotton Petroleum Corp. v. New Mexico,      15, 22, 27, 43
+
+     GD UB. PGR CD ects
+
+DeCoteau v. District County Court,
+
+ee es  TED os ik a ak Cees ek ee eS 5
+
+Department of Taxation and Finance v.
+
+Milhelm Attea & Bros., 114 S. Ct. 2028
+
+arti   oP eh awe ahaa bande led & & 4 passim
+
+Detroit v. Murray Corp., 355 U.S. 489
+
+RM     tar rrr a                           er 31
+
+Diamond Nat'! Corp. v. State Board of
+     Equalization, 425 U.S. 268 (1976) .......... 35
+
+Dows v. City of Chicago, 78 U.S. (11
+     cp 8k Ul, ee youre rae ere rere 31
+            v
+
+TABLE OF AUTHORITIES - Continued
+
+                                               Pages
+
+Duro v. Reina, 495 U.S. 676 (1990) ....... 19-21, 26
+
+First Agricultural Nat'l Bank v. State
+      Tax Comm'n, 392 U.S. 339 (1968) ........ 34, 35
+
+Fleming v. McCurtain, 215 U.S. 56
+
+COE. ete Be eb as B99 oe-a wae 6 oe            46
+
+Gurley v. Rhoden, 421 U.S. 200 (1975) .... 12, 35, 39
+
+McClanahan v. Arizona State Tax Comm'n,
+
+eS ee       rr                                 passim
+
+McCulloch v. Maryland, 17 U.S. (4 Wheat.)
+
+PS      RR  ee                          re ee  31
+
+Merrion v. Jicarilla Apache Tribe,
+
+ee ea,  I 6 ko 6 OS ee eee eee 15
+
+Mescalero Apache Tribe v. Jones,
+      ae ee ee I sa Ola 0-0 0h we ee a ees passim
+
+Moe v. Confederated Salish and Kootenai        passim
+      eee, Tee Grae Ge CUED 4 ce ee we ee
+
+Montana v. Blackfeet Tribe of Indians,     19, 20, 21
+     op Bi ap. | CA
+
+Montana v. United States, 450 U.S. 544
+
+EN ae   ae a ee Lh as ae                   14, 16, 26, 47
+
+New Mexico v. Mescalero Apache Tribe,          passim
+      ee
+
+Oklahoma Tax Comm'n v. Citizen Band      18, 19, 25, 30, 44
+      Potawatomi Indian Tribe, 498 U.S.
+      _f | i
+
+Oklahoma Tax Comm'n v. Sac and Fox
+     Nation, 113 S. Ct. 1985 (1993) .......... passim
+         vi
+
+     TABLE OF AUTHORITIES - Continued
+
+                                                 Pages
+
+Oklahoma Tax Comm'n v. Texas Co.,
+
+cco  ee er                                       21
+
+Otlahoma Tax Comm'n v. United States,     4, 20, 21
+
+     SEF Cie SO CAPD vv vaeweswanween
+
+Puyallup Tribe v. Washington Game Dep't,
+
+gS Rb: Se                                        47
+
+Ramah Navajo School Board, Inc. v. Bureau        12, 16
+
+      of Revenue, 458 U.S. 832 (1982) .........
+
+Rice v. Rehner, 463 U.S. 713 (1983) . 16, 17, 27, 28, 33
+
+Sac and Fox Nation v. Oklahoma Tax
+
+     Comm'n, 967 F.2d 1425 (10th Cir. 1992),
+     vacated, 113 S. Ct. 1985 (1993) ............ 7
+
+South Dakota v. Bourland, 113 S. Ct.
+
+pg Sa a ae                                       47
+
+The Kansas Indians, 72 U.S. (5 Wall.)
+
+i ,a              e                              r 20
+
+The New York Indians, 72 U.S. (5 Wall.)   haee na ee 20
+     Fee GE 6 hee ee ce eee tee
+
+United States v. Celestine, 215 U.S. 278
+
+a     re ee                                      23
+
+United States v. County of Fresno,
+
+GP Uw, Fae FI ok                    eee   eee wees 43
+
+Unted States v. Mississippi Tax Comm'n,          34, 35
+    2 BR gy
+
+Unted States v. New Mexico, 455 U.S.
+
+Fee 6&6           a ee 8                  ew Ks 31
+                                                        Vii
+
+                                     TABLE OF AUTHORITIES - Continued
+
+                                                                               Pages
+
+                                 Warren Trading Post Co. v. Arizona Tax        17, 25
+                                       Conus, 360 U.S. GES (19G5) ..........
+
+                                 Washington v. Confederated Tribes of
+
+                                     Colville Indian Reservation, 447 U.S.
+
+                                     Ns     a Ee a a a a ly hk, 8 8            passim
+
+                                 White Mountain Apache Tribe v. Bracker,
+
+                                     ge a               rere                   passim
+
+                                 Williams v. Lee, 358 U.S. 217 (1959) .......... 19
+
+                                 Woodward v. DeGraffenreid, 238 U.S. 284       4, 29
+                                      NT oe a eek lace on ee a iele ie 64 WRK
+
+                                 Worcester v. Georgia, 31 U.S. (6 Pet.)        14, 20
+                                      a a
+
+                                 Statutes and Treaties
+
+                                 eo BR Foe S| | a                             aera 2
+
+                                 Oe      I              Sink wa no eee @ 8 eee He 24
+
+                                 Act of July 5, 1862, 12 Stat. 512 .............. 3
+
+                                 Act of May 2, 1890, 26 Stat. 81 ............ 4, 46
+
+NCAfi"rBnaIOaeneelnrNeos)enE)a Act of June 28, 1898, 30 Stat. 495 ............ 22
+
+                                 Act of April 28, 1904, 33 Stat.573 .......... 4, 46
+
+                                 Act of April 26, 1906, 34 Stat. 137 ............ 22
+
+                                 Act of June 16, 1906, 34 Stat. 267 .......... 4, 47
+
+                                 Act of May 10, 1928, 45 Stat. 495 ............ 22
+
+                                 jp'. 9 pp Meee. >      | es y ere             22
+
+a inSceasttilttensnsnescitelnom
+                   Vili
+
+    TABLE OF AUTHORITIES - Continued
+
+                                        Pages
+
+Hayden-Cartwright Act, 4 U.S.C. § 104 ..... 9, 14, 23
+
+Indian Reorganization Act of 1934,
+
+    a ee       Se                6 Oe ks ee 4
+
+Oklahoma Indian Welfare Act of 1936,
+
+    po Sl 8        ea                   ee 4
+
+Treaty of Dancing Rabbit Creek,
+
+    Ve Me      a                    re 2, 3, 8, 42, 45
+
+Treaty with the Chickasaw, 7 Stat.
+
+    I      i                        ka se a bo ee 45
+
+Treaty With the Choctaw and Chickasaw,                  -
+
+    BR     RR                       ee    3
+
+Treaty with the Choctaw and Chickasaw,
+
+    ee            aw lam Yok Ww ee 3
+
+Cs Bc      I       ow im ee ee ee ee      2
+
+ee                                        36
+
+Ce a          Se 6 oss oe ek weoe 6 ee ;
+
+Cie. SO        te                       es 2,3, %
+
+oe       SS S C.F eee ere eee 2, 3, 36
+
+Cie. Beee., Hee. GR, See iw te          2,3, %
+
+Obie. Stat. Tit. GE, 6RUA 2 www ww wk ke ee 2, 3, 36
+
+Gee We,       SS ntk e ee ee yi
+
+Ce. Beet... Te, GS, SMe.S www ww te ee 2, 36
+
+Sy                                      2, 3, 36
+
+Se Og Ue OD he ee eeeewes 7
+                               ix
+
+                    TABLE OF AUTHORITIES - Continued
+
+                                                                   Pages
+
+                oo  eS             ere eee                         3
+
+                Co Wg We       I eee eeee wan 38, 39
+
+                Ce Se, SU      I oc cee eas! Pere 3
+
+                oe             eee ee eee eee 36
+
+                oo  ee Of                                          37
+
+                ee Wy Oe i I a sc sc i                   ee ew awe 2
+
+                oy             rr                                  er 3
+
+                ss WU I Es oc ew ei e ee awa 3
+
+                ee cg es I     ee 8 es ee z. 3
+
+                oe                                                 a, a ae
+
+                io  Se 2 £. 8 eeee ee eee as a oe
+
+eiCer5aenapaad
+
+                Cs Sg Se       EP so Sk eee eee es 3
+
+                ee  ee         8 ee ee 3
+
+                Miscellaneous
+
+                Application of Federal and State Sales             24, 32
+                      Taxes to Activities of Menominee Indian
+
+                      Mills, 57 Interior Dec. 129 (1940) ........
+
+                Felix S. Cohen's Handbook of Federal
+
+                      IndLai w (a 197n 1 ed.) ..............34,,47
+
+                A. Gibson, The Chickasaws (1971) ............. 3
+
+                M. Wright, A Guide to the Indian Tribes
+
+                    I              cc cc ee ce he ee               29
+
+                38 Op. Atty. Gen. 522 (1936) ...... an oy .8
+In the Supreme Court of the Gnited States
+
+                        OCTOBER TERM, 1994
+
+              No. 94-771              Petitioner,
+OKLAHOMA TAX COMMISSION,            Respondent.
+
+                            Vv.
+
+       CHICKASAW NATION
+
+       On Writ of Certiorari to
+the United States Court of Appeals
+
+          for the Tenth Circuit
+
+BRIEF OF PETITIONER
+
+                         OPINIONS BELOW
+
+     The opinion of the court of appeals (Pet. App. 1a-31a) is
+reported at 31 F.3d 964. The opinion of the district court
+(Pet. App. 32a-38a) is unreported.
+
+                          JURISDICTION
+
+     The judgment of the court of appeals was entered on July
+29, 1994. The petition for a writ of certiorari was filed on
+                                    2
+
+October 27, 1994 and was granted on January 6, 1995. The
+jurisdiction of this Court rests on 28 U.S.C. § 1254(1).
+
+                     STATUTES INVOLVED
+
+      Relevant portions of Okla. Stat., Tit. 68, Art. 5, and of
+the Treaty of Dancing Rabbit Creek, Sept. 27, 1830, 7 Stat.
+333, are reprinted at Pet. App. 39a-43a.
+
+                              STATEMENT
+
+      The court of appeals' decision in this case imposes an
+extraordinary restriction on state taxing authority. The court
+held that imposition of a state tax on motor fuel sold by an
+Indian tribe is precluded by principles of federal preemption
+and Indian sovereignty -- even though much of the fuel is
+sold to non-Indians, and virtually all of it is used outside of
+Indian country on roads constructed and maintained by the
+State. The court also held that federal law precludes the
+imposition of a state income tax on tribal members who are
+employed on tribal trust lands but who live outside of Indian
+country. These holdings are premised on formalism rather
+than economic reality, disregard the State's interest in taxing
+the recipients of state services, and -- not surprisingly --
+depart from the decisions of this Court. They should be set
+aside.
+
+      1. The State of Oklahoma imposes a tax "upon the sale
+of each and every gallon" of gasoline and diesel fuel sold
+within the State. Okla. Stat., Tit. 68, §§ 502, 502.1. See
+also id., §§ 502.2, 502.3, 502.4, 502.5, 502.6, 502.7, 516,
+520, 522, 522.1. The tax statute makes the distributors of the
+fuel "agent[s] of the state for the collection of the excise tax"
+(id. § 506) and requires them to pay the tax due on each
+gallon of fuel sold to retailers or others in Oklahoma (id. §
+505), although "[t]he retailer's wholesale price will include
+the motor fuel taxes which are in turn included in the retail
+price at the pump." Pet. App. 35a. The tax, imposed at the
+rate of $.17 per gallon on gasoline and $.14 per gallon on
+                                    3
+
+diesel fuel, is a significant source of revenue for Oklahoma,
+generating approximately $320 million annually. See Okla.
+Stat. Tit. 68, §§ 502, 502.1, 502.2, 502.3, 502.4, 502.5,
+506.2, 502.7, 520, 522, and 522.1. Over 70% of this
+revenue is deposited in the State Transportation Fund for use
+in highway construction; most of the remainder is given to
+counties and municipalities for road maintenance. .See id. §§
+504, 504.1, 518, 519, 523, 523.1.
+
+      2. Respondent ("the Tribe"), a federally recognized
+Indian tribe, is one of the "Five Civilized Tribes" that were
+
+relocated in the 1830s from the southeastern United States to
+the area that became known as Indian Territory in what is
+now the State of Oklahoma. See Felix S. Cohen's Handbook
+of Federal Indian Law 426 (1971 ed.); A. Gibson, The
+
+Chickasaws 142-162 (1971). In 1837 the Tribe received title
+
+to a substantial tract of land in what currently is southern
+Oklahoma on the understanding, as stated in the 1830 Treaty
+of Dancing Rabbit Creek, that "no Territory or State shall
+ever have a right to pass laws for the government of the
+[Chickasaw Nation] of Red People and their descendants; and
+that no part of the land granted them shall ever be embraced
+in any Territory or State." 7 Stat. 333.'
+
+     In later years, however, congressional policy towards the
+Five Civilized Tribes underwent a radical change. Far from
+precluding the application of state or territorial law to those
+
+   ' This treaty actually was concluded with the Choctaw Nation, another
+of the Five Civilized Tribes. The lands deeded to the Chickasaw were
+purchased from the Choctaw, however, and the United States agreed that
+these lands would "be held [by the Chickasaw] on the same terms that the
+Choctaw now hold it." Treaty With the Choctaw and Chickasaw, 11 Stat.
+573 (1837). Because the Five Civilized Tribes supported the Confederacy
+during the Civil War, Congress authorized the President to abrogate the
+existing treaties with the Tribes in 1862. Act of July 5, 1862, 12 Stat.
+512, 528. A new treaty was negotiated with the Choctaw and Chickasaw
+in 1866 pursuant to this authority, but it did not change the substance of
+the provision quoted in text. See 14 Stat. 769.
+                                    4
+
+Tribes, Congress itself made the Indian Territory subject first
+to the laws of Arkansas (see Act of May 2, 1890, 26 Stat. 81;
+Act of April 28, 1904, 33 Stat. 573) and then to the laws of
+the Oklahoma Territory. Act of June 16, 1906, 34 Stat. 267.
+Meanwhile, Congress also began a process, which was
+completed early in this century, of providing for the allotment
+of most Chickasaw lands to individual members of the Tribe,
+with much of the remainder to be held in trust by the United
+States for the Tribe's benefit. See Woodward v.
+
+DeGraffenreid, 238 U.S. 284 (1915); F. Cohen, supra, at
+
+430-437. This "virtual dissolution of the tribal governments
+in the Indian Territory cleared the way for the creation of
+another state" (F. Cohen, supra, at 428); in 1906 Congress
+accordingly provided for the admission into the Union of the
+
+combined Indian and Oklahoma Territories as the State of
+
+Oklahoma. The following year the Tribe's lands -- now a
+
+"checkerboard" of scattered allotments and trust lands (cf.
+
+Oklahoma Tax Comm'n v. Sac and Fox Nation, 113 S. Ct.
+1985, 1993 (1993)) -- were embraced within state boundaries
+with the admission of Oklahoma to the Union."
+
+      3. The Tribe currently owns and operates convenience
+stores on lands held in trust for it by the United States.
+These stores, which are open to the general public, sell motor
+fuel and other goods both to tribal members and to non-
+member customers. Pet. App. 2a. While the State has
+exempted from tax fuel purchased by respondent for use in
+
+   2 Surveying the "situation" of the Five Civilized Tribes, the Court has
+observed that "[a]lthough there are remnants of the form of tribal
+sovereignty, these Indians have no effective tribal autonomy" and have
+"little to distinguish them from all other citizens." Oklahoma Tax
+Comm 'n v. United States, 319 U.S. 598, 603 (1943). See also F. Cohen,
+
+supra, at 429-430. The Court has also noted, however, that under the
+Indian Reorganization Act of 1934, 25 U.S.C. § 461 et seq., and the
+Oklahoma Indian Welfare Act of 1936, 25 U.S.C. § 501 et seq., "some
+progress has been made in the restoration of tribal government."
+Oklahoma Tax Comm'n v. United States, 319 U.S. at 603 n.5.
+                                    5
+
+tribally owned vehicles (see id. at 35a), it has collected the
+tax on fuel obtained by respondent for resale at the Tribe's
+
+convenience stores.
+
+     Invoking principles of preemption and Indian sovereignty,
+respondent brought this suit against the Commission in 1991,
+seeking to enjoin collection of the tax "on all motor fuel it
+purchases for resale" (Pet. App. 35a (emphasis added)) --
+including fuel sold to non-Indians for use on state roads lying
+
+outside of Indian country.* The United States District Court
+
+for the Eastern District of Oklahoma rejected respondent's
+claim. Jd. at 35a-38a. The court began by noting that
+"[flederal law does not preempt the state motor fuel tax
+scheme," which meant that the Tribe could prevail only by
+"show[ing] that the motor fuel tax infringes on the right of
+tribal self-government." Jd. at 36a. On that issue, the
+district court explained that this Court's decisions "seek[] an
+accommodation between the interests of the Tribes and the
+
+Federal Government, on the one hand, and those of the State,
+
+on the other." Ibid.
+
+     In conducting that inquiry, the court accepted a series of
+factual stipulations:
+
+           In Oklahoma the gasoline transported onto Indian
+     country is for resale only and is used almost exclusively
+     off of Indian country on State jurisdiction roads. * * *
+
+            Further, the Tribe does not construct or maintain
+
+     roads and highways for the use of the general public in
+     Oklahoma. The State of Oklahoma constructs and
+     maintains 111,412.76 miles of streets, roads and
+     highways in Oklahoma which is funded by the state tax
+     on motor fuel. All of the road mileage maintained by the
+     state is off Indian Country.
+
+   > Indian country generally includes not only formal reservations, but
+also Indian allotments and trust lands. See Sac and Fox, 113 S. Ct. at
+1991; DeCoteau v. District County Court, 420 U.S. 425, 427 n.2 (1975).
+Pet. App. -36a-37a.
+
+      Against this background, the court found that the tax
+exemption sought by respondent would serve principally to
+permit it "`to market an exemption from state taxation to
+persons who would normally do their business elsewhere.'"
+Pet. App. 37a, quoting Washington v. Confederated Tribes of
+Colville Indian Reservation, 447 U.S. 134, 155 (1980). In
+addition, because the motor fuel subject to tax is used almost
+exclusively on state roads maintained by Oklahoma outside
+Indian country, "the gasoline tax used to maintain these roads
+is directed at off-reservation value where the taxpayer is
+receiving State services, whether the taxpayer is a tribal
+
+member or not." Ibid. "In this context," the court
+
+concluded, "the patrons of tribal gas stations are properly
+subject to the State's motor fuel taxes." Ibid.
+
+     The court of appeals reversed, holding that the district
+court erred in two respects. Pet. App. 12a-16a. First, the
+court of appeals concluded that the district court should have
+found the legal incidence of the tax to be on the retailer and
+
+therefore, in this case, on the Tribe. The court of appeals
+
+recognized that "the statutes do not expressly declare the legal
+incidence of the taxes to be on the retailer" (id. at 13a) and
+acknowledged that "it may well be that the tax is ultimately
+passed on to the consumer at the pump." 7d. at 14a. But the
+court nevertheless relied on the observation that "[t]he
+Statutes nowhere require the amount of the tax to be included
+in the retail price at the pump, a requirement which we could
+interpret as imposing the tax on the consumer." Jd. at 13a.
+The court also found that certain statutory provisions -- in
+particular, those providing that distributors receive credits for
+tax remittances that cannot be collected from retailers --
+make the distributor "no more than a transmittal agent for the
+taxes imposed on the retailer." Jd. at 14a.
+
+     In this setting, the court of appeals concluded that the
+district court also erred in rejecting respondent's claim that
+                                       7
+
+the motor fuel tax was displaced by principles of Indian
+sovereignty. The court of appeals reasoned that
+
+      [b]ecause they are directed toward funding traditional
+      government activities, the taxes fall within the ambit of
+      the sovereignty of the tribal government. * * * Where
+      the state action conflicts with a power within the
+      traditional scope of Indian sovereign authority, preemp-
+      tion is presumed in the absence of an explicit statement
+      of congressional intent to the contrary.
+
+Pet. App. 15a-16a. The court of appeals therefore held that
+"the district court's balancing of the respective tribal and state
+interests at stake was not relevant to the determination of the
+propriety of the fuel taxes"; it directed a grant of summary
+judgment in the Tribe's favor. Jd. at 16a.
+
+      4. This case also involves a claim that the State cannot
+impose its income tax on persons who are employed by the
+Tribe on tribal trust lands. See Pet. App. 33a. The district
+court found that claim controlled by the Tenth Circuit's
+
+decision in Sac and Fox Nation v. Oklahoma Tax Comm'n,
+
+967 F.2d 1425 (1992), and dismissed it as moot. Pet. App.
+38a. While the appeal in this case was pending, however,
+this Court vacated and remanded the Tenth Circuit's decision
+in Sac and Fox (see Oklahoma Tax Comm'n v. Sac and Fox
+Nation, 113 S. Ct. 1985 (1993)), and the court below
+accordingly addressed the merits of respondent's claim.
+
+      The court of appeals first held that the State may impose
+the tax on tribal employees who are not members of the Tribe
+(Pet. App. 21a-22a), but that the tax may not be applied to
+employees who are members of the Tribe and who live on
+trust lands or in Indian country. Jd. at 23a-24a. In the
+portion of the holding at issue here, the court then held that
+the state may not tax the income of tribal members who are
+employed by the Tribe but who live outside of Indian
+country. Noting that this Court in Sac and Fox left open the
+question whether such persons are presumptively outside the
+                                    8
+
+scope of the State's taxing jurisdiction (id. at 25a, citing 113
+S. Ct. at 1992), the court of appeals concluded that such a
+presumption should not apply. See id. at 26a.
+
+      The court nevertheless held, however, that state taxation
+of tribal members is expressly barred by the United States'
+treaty with the Chickasaw Nation. That treaty provides, in
+relevant part:
+
+     The Government and the people of the United States are
+     hereby obliged to secure to the said [Chickasaw] Nation
+     of Red People the jurisdiction and government of all the
+     persons and property that may be within their limits west,
+     so that no Territory or State shall ever have a right to
+     pass laws for the government of the [Chickasaw] Nation
+     of Red People and their descendants, and that no part of
+     the land granted them shall ever be embraced in any
+      Territory or State; but the U.S. shall forever secure said
+      [Chickasaw] Nation from, and against, all laws except
+     such as from time to time may be enacted in their own
+      National Councils, not inconsistent with the Constitution,
+      Treaties, and Laws of the United States; and except such
+      as may, and which have been enacted by Congress, to
+     the extent that Congress under the Constitution are
+      required to exercise a legislation over Indian Affairs.
+
+Treaty of Dancing Rabbit Creek, Sept. 27, 1830, 7 Stat. 333
+(emphasis added).* The court concluded that "[t]he crucial
+question in determining the validity of the income tax under
+the relevant treaty language is * * * whether the law is one
+imposed on the Chickasaw Nation or its descendants.
+Residency is simply not relevant to this determination." Pet.
+App. 30a. The court therefore held that Oklahoma's income
+tax may not be imposed "on the wages of Chickasaw
+
+    ` As noted above (at note 1), the treaty actually was concluded with the
+Choctaw Nation but became applicable to the Chickasaw Nation in 1837.
+See also Pet. App. 29a-30a & n.10.
+                                    9
+
+members, earned on the reservation or in Indian country,
+
+regardless of the residence of those members." Ibid.°
+
+                 SUMMARY OF ARGUMENT
+
+      1. The court of appeals' invalidation of Oklahoma's fuel
+tax as it applies to sales by the Tribe is insupportable. As an
+
+initial matter, the court's decision cannot be reconciled with
+
+the Hayden-Cartwright Act, 4 U.S.C. § 104, which expressly
+authorizes state taxation of motor fuel sales on federal
+reservations. But even apart from the Act, the court of
+appeals' application of a conclusive presumptior against the
+validity of state taxation cannot bear scrutiny. This Court's
+modern decisions have grounded Indian tax immunities on the
+general preemption principles that govern all assertions of
+State authority affecting reservation activities, which require
+a particularized examination of relevant state and tribal
+interests. And while the Indian interest in immunity from
+State taxation typically is strong and the State's interest in
+taxing reservation activities typically is weak, that
+generalization hardly justifies tax immunity when it is
+demonstrated in a particular case that the state's justification
+for laying the tax is compelling, the tribal interest in resisting
+
+it is insubstantial, and the tax would have no effect on tribal
+
+governance or self-determination.
+
+     This is just such a case. Because the fuel sold by the
+
+Tribe is used almost exclusively on state roads, the activity
+
+subject to tax imposes very substantial costs on the State --
+but no burden at all on the Tribe. In these circumstances,
+imposition of the tax has no bearing on tribal self-
+
+   * The decision below also addressed challenges to two other Oklahoma
+taxes. The court of appeals upheld the validity of the State's tax on 3.2%
+beer sold in tribal stores. Pet. App. 4a-12a. In addition, respondent
+contended that the State was improperly requiring the collection of sales
+tax on retail sales made to the Tribe; the State responded that it treated
+such sales as exempt from tax. Both the Tribe and the court accepted
+Oklahoma's statement of its policy as valid. Jd. at 16a-19a.
+                                       10
+
+government. And the levy does not reach any value
+generated by the Tribe on Indian land; the tax falls on "on-
+reservation sales outlets which market to non-members goods
+not manufactured by the tribe or its members, in which the
+tribal contribution to [the] enterprise is de minimis." New
+Mexico v. Mescalero Apache Tribe, 462 U.S. 324, 341
+(1983). This is the paradigm of a case in which the Court
+has indicated that there is no tribal interest supporting
+immunity from state law.
+
+      On the other side of the equation, the State has a
+powerful interest in imposing the tax: the sale and use of
+motor fuel has a significant impact beyond the limits of
+Indian country. Tax immunity therefore would give the Tribe
+an enormous windfall, while leaving the State with none of
+the revenues but all of the burdens flowing from the Tribe's
+activity. And that becomes particularly clear when it is
+recognized that the decision below rests entirely on a
+formalism. It is plain from this Court's decisions that the
+State could impose precisely the same burden on the Tribe
+that it would bear if subjected directly to the tax by instead
+declaring the legal incidence of the tax to fall on the
+consumer and directing the Tribe to collect and remit the
+levy. By invalidating the tax because its legal incidence
+instead was said to fall on the Tribe, the court below
+"focus[ed] on [a] formalism [that] merely obscures the
+question whether the tax produces a forbidden effect."
+Complete Auto Transit, Inc. v. Brady, 430 U.S. 274, 279
+(1977).
+
+      2. If we are wrong in our first submission and the
+Court concludes that the legal incidence of a state tax never
+may be imposed on an Indian tribe, the decision below
+nevertheless should be set aside: the court of appeals erred
+in holding that the legal incidence of the fuel tax falls on the
+retailer. Under this Court's decisions, the legal incidence of
+a tax is borne not by the entity that has legal liability for
+payment, but rather by the one that the legislature intends to
+                                       11
+
+bear the burden of the levy. Here, that plainly is the
+consumer. The basic definitional elements of the tax code
+indicate that both the distributor and the retailer are expected
+to pass the tax on to someone further down the distribution
+chain, while the code's tax exemptions expressly relieve
+certain consumers of the burden that they otherwise would
+carry of paying the tax. It may be added that.if we are
+wrong in our definition of legal incidence -- so that the legal
+incidence of a tax is borne only by those who are in some
+way subject to legal liability for payment of the tax -- the
+incidence of the fuel tax plainly falls on the distributor, the
+only entity in the distribution chain that has any legal
+obligation to do anything.
+
+      3. The court of appeals' holding that the treaty with the
+Chickasaw Nation precludes the imposition of state income
+tax on members of the Tribe who work on trust lands but live
+outside Indian country is insupportable. The court concluded
+that the treaty, which grants the Chicksaw Nation jurisdiction
+"within their limits west, so that" states may not "pass laws
+for the government of the [Chickasaw] Nation," confers tax
+immunity on any member of the Tribe, irrespective of
+residence. But the court of appeals' approach is plainly
+inconsistent with the terms of the treaty, which provides the
+Tribe with rights only within its territorial "limits." This
+understanding is confirmed by the treaty's history. By
+guaranteeing the Chickasaw Nation that its territory would
+never "be embraced in any Territory or State," the treaty
+literally removed the Tribe from state jurisdiction; now that
+Congress has changed its policy and encompassed the Tribe
+
+within the State of Oklahoma, it cannot be the case that tribal
+
+members who live outside of tribal territory are exempt from
+State law.
+                        12
+
+                     ARGUMENT
+
+This case involves a "vexing" question (Washington v.
+
+Confederated Tribes of the Colville Indian Reservation, 447
+
+U.S. 134, 138 (1980)) that "has occupied the Court many
+
+times in the recent past" (Ramah Navajo School Board, Inc.
+
+v. Bureau of Revenue, 458 U.S. 832, 847 (1982) (Rehnquist,
+
+J., dissenting)): how to "`reconcile the plenary power of the
+
+States over residents within their borders with the semi-
+
+autonomous status of Indians living on tribal reservations.'"
+
+Department of Taxation and Finance v. Milhelm Attea &
+
+Bros., 1148. Ct. 2028, 2035 (1994), quoting McClanahan v.
+
+Arizona State Tax Comm'n, 411 U.S. 164, 165 (1973). The
+
+court of appeals' answer to that question is wrong in several
+
+fundamental respects. The approach taken by the court below
+
+avowedly elevates form over substance, wholly disregarding
+
+the States' interest in taxing the recipients of state services;
+
+it departs from this Court's precedents in the placement of the
+
+legal incidence of the challenged tax; and it distorts the plain
+
+language of the relevant treaty. The decision accordingly
+
+should be reversed.  .
+
+I. OKLAHOMA'S FUEL TAX MAY BE APPLIED TO
+     SALES BY THE TRIBE
+
+A. The Sale Of Fuel That Is Used Almost Exclusively
+     On State Jurisdiction Roads Is Subject To Tax
+
+     At the outset, there are several areas of common ground
+between the parties that must frame the Court's analysis of
+the fuel tax in this case. First is the nature of the tax. The
+economic burden of the tax plainly falls upon the ultimate
+
+consumer of fuel, as the court of appeals itself understood;
+the court acknowledged that "it may well be that the tax is
+ultimately passed on to the consumer at the pump." Pet.
+App. 14a. See Gurley v. Rhoden, 421 U.S. 200, 204 (1975)
+("The economic burden of taxes incident to the sale of
+merchandise is traditionally passed on to the purchasers of the
+merchandise."). The purchasers bearing that burden are, in
+                                    13
+
+substantial part, non-Indians or non-members of the Tribe.°
+The motor fuel subject to tax is used almost exclusively
+outside of Indian country on state jurisdiction roads. And the
+tax revenues are used to defray the costs (of road construction
+and maintenance) imposed upon the State -- and only upon
+the State -- by the use of that fuel; the Tribe does not
+construct, police, or maintain significant road mileage.
+
+     Second, there is no denying that the court of appeals'
+invalidation of the fuel tax rested on a formalism. The court
+properly did not suggest that the tax was preempted by the
+terms of any treaty; instead, it found that the legal incidence
+of the tax falls upon the retailer (and therefore, in this case,
+upon the Tribe), and proceeded to apply a conclusive
+presumption against the validity of such a tax. We explain
+below that the court's placement of the levy's legal incidence
+was wrong. But even granting for the moment that the legal
+incidence of the tax does fall upon the Tribe, it is beyond
+dispute that, at least so far as sales to non-members of the
+Tribe are concerned, Oklahoma could permissibly impose a
+tax that is, in all essential respects, identical to the one
+invalidated by the court of appeals. It has long been settled,
+and the Tribe does not dispute, that a State may require an
+Indian tribe to collect a tax on on-reservation sales to non-
+members where the legal incidence of the levy falls on the
+purchaser. See pages 17-18, infra. This means, as the Tribe
+itself acknowledged in its brief in opposition to the petition
+for certiorari (at 7), that Oklahoma could cure the asserted
+defect in the tax with "a stroke of the pen" simply by
+
+   * The Court has made clear that Indians who reside in Indian country
+but who are not members of the Tribe with local jurisdiction are not
+entitled to the protections of the Indian preemption and sovereignty
+doctrines. See, e.g., Colville, 447 U.S at 160-161. References in this
+brief to non-members of the Tribe accordingly describe both non-Indians
+and Indians who are not members of the Chickasaw Nation.
+                                       14
+
+declaring the levy's legal incidence to fall on the ultimate
+
+consumer rather than the retailer.
+
+     Against this background, the question in this case is
+whether the formalism of "legal incidence" precludes
+imposition of a state tax on tribal transactions that impose
+enormous burdens on the State and no burdens at all on the
+Tribe, and that in large part are concluded with non-
+members. In answering that question, the court below
+expressly disregarded economic realities, declaring the
+competing state and tribal interests "not relevant." Pet. App.
+16a. In our view, however, the court of appeals' answer
+plainly departed from this Court's precedents: it elevated
+form over substance, ignored the substantial extra-reservation
+consequences of the taxed activities, and imposed a dramatic
+restriction on state taxing authority. That decision also
+cannot be reconciled with the plain terms of the Hayden-
+
+Cartwright Act, 4 U.S.C. § 104, which expressly authorizes
+
+state taxation of motor fuel sales made on federal
+reservations, including Indian reservations. The holding
+below therefore is insupportable.
+
+     1. The Balance Of State And Tribal Interests.
+
+      a. Although it once was thought that States lacked any
+power to assert their authority on Indian reservations, the
+Court "[l]ong ago * * * departed from Mr. Chief Justice
+Marshall's view," expressed in Worcester v. Georgia, 31
+U.S. (6 Pet.) 515 (1832), "that `the laws of [a State] can have
+no force within reservation boundaries.'" White Mountain
+Apache Tribe v. Bracker, 448 U.S. 136, 141 (1980), quoting
+Worcester, 31 U.S. (6 Pet.) at 561. See New Mexico v.
+
+Mescalero Apache Tribe, 462 U.S. 324, 331 (1983);
+
+Mescalero Apache Tribe v. Jones, 411 U.S. 145, 148 (1973).
+Instead, the Court has recognized that "through their original
+incorporation into the United States as well as through
+specific treaties and statutes, the Indian tribes have lost many
+
+of the attributes of sovereignty." Montana v. United States,
+                                                       15
+
+                 450 U.S. 544, 563 (1981). As a consequence, "tribes do not
+                possess the same attributes of sovereignty that the Federal
+                Government and the several States enjoy." Merrion v.
+                 Jicarilla Apache Tribe, 455 U.S. 130, 169 (1982) (Stevens,
+                J., dissenting).
+
+                      Although the court below resolved this case through
+                application of a dispositive presumption, the recognition of
+                limitations on tribal sovereignty has led the Court to the
+                conclusion that, as a general matter, "there is no rigid rule by
+                which to resolve the question whether a particular state law
+                may be applied to an Indian reservation or to tribal
+                members." White Mountain Apache, 448 U.S. at 142.
+                 "Instead, [the Court] ha[s] applied a flexible preemption
+                analysis sensitive to the particular facts and legislation
+                involved. Each case `requires a particularized examination of
+                 the relevant state, federal, and tribal interests.'" Cotton
+                 Petroleum Corp. v. New Mexico, 490 U.S. 163, 176 (1989)
+                (citation omitted). As the Court explained just last Term,
+
+                        [rJesolution of conflicts of this kind does not depend on
+                      "rigid rule{s]" nor on "mechanical or absolute
+                     conceptions of state or tribal sovereignty," but instead on
+                     a "particularized inquiry into the nature of the state,
+                     federal, and tribal interests at stake, an inquiry designed
+                     to determine whether, in the specific context, the exercise
+                     of state authority would violate federal law."
+
+--
+
+               Milhelm Attea, 114 §. Ct. at 2035 (citation omitted). See
+                 also, e.g., California v. Cabazon Band of Mission Indians,
+               480 U.S. 202, 241-215 (1985); id. at 223 (Stevens, J.,
+               dissenting). The controlling test accordingly looks both to
+                 tribal interests and to whether the "state interests at stake are
+               sufficient to justify the assertion of state authority." New
+               Mexico v. Mescalero Apache, 462 U.S. at 334.
+
+                     In conducting this inquiry, "`[cJongressional authority
+               and the "semi-independent position" of Indian tribes * * *
+               [are] two independent but related barriers to the assertion of
+                                      16
+
+state regulatory authority over tribal reservations and
+members.'" Rice v. Rehner, 463 U.S. 713, 718 (1983)
+(citations omitted). This means that "state authority may be
+preempted by federal law, or it may interfere with the tribe's
+ability to exercise its sovereign functions." Ramah Navajo,
+458 U.S. at 837 (citation omitted). This distinction may not
+make much of a practical difference, however. While "the
+trend has been away from the idea of inherent Indian
+sovereignty as a bar to state jurisdiction and toward reliance
+on federal preemption" (McClanahan, 411 U.S. at 172; see
+Rice, 463 U.S. at 718-719; Colville, 447 U.S. at 178-179
+(opinion of Rehnquist, J.)), principles of Indian sovereignty
+"provide[] a backdrop against which the applicable treaties
+
+and federal statutes must be read." McClanahan, 411 U.S.
+
+at 172. Those principles accordingly give content to the
+unique preemption doctrine that is applied to state laws
+affecting Indians. See generally Rice, 463 U.S. at 718-719;
+
+White Mountain Apache, 448 U.S. at 143; McClanahan, 411
+
+U.S. at 172. The practicalities of Indian self-government
+therefore bear on the existence of preemption.
+
+      b. While the Court has not set out a precise formula to
+govern in these cases involving overlapping state and tribal
+concerns, it has offered "[c]ertain broad considerations [that]
+guide our assessment" of the competing interests. New
+Mexico v. Mescalero Apache, 462 U.S. at 334. On the
+tribe's side of this equation, the Court looks above all to
+whether application of state law on tribal lands "`would
+ interfere with reservation self-government'" (Rice, 463 U.S.
+at 718, quoting Mescalero Apache v. Jones, 411 U.S. at
+
+ 148); "`the question has always been whether the state action
+
+ infringed on the right of reservation Indians to make their
+ own laws and be ruled by them.'" McClanahan, 411 U.S. at
+
+ 172 (citation omitted). In undertaking this assessment, the
+
+ Court has found the tribal interest particularly weighty where
+ the state action affects `ine tribe's relations only with its own
+
+ members. See Montana v. United States, 450 U.S. at 564.
+                                       17
+
+And not surprisingly, the Court is apt to find the assertion of
+state authority untenable where it is "unable to identify any
+regulatory function or service performed by the State that
+would justify the assessment of taxes" (White Mountain
+Apache, 448 U.S. at 148-149; see Warren Trading Post Co.
+
+v. Arizona Tax Comm'n, 380 U.S. 685, 691 (1965)), or
+
+where the State seeks revenues "derived from value generated
+on the reservation by activities involving the Tribes."
+Colville, 447 U.S. at 156-157.
+
+      At the same time, in completing this calculus the Court
+has "recognized that `any applicable regulatory interest of the
+State must be given weight.'" Rice, 463 U.S. at 719. Thus,
+"[a] State's regulatory interest will be particularly substantial
+if the State can point to off-reservation effects that necessitate
+
+State intervention"; the State's "`interest in raising revenue is
+
+... Strongest when the tax is directed at off-reservation value
+and when the taxpayer is the recipient of state services.'"
+New Mexico v. Mescalero Apache, 462 U.S. at 336, quoting
+Colville, 447 U.S. at 157 (ellipses inserted by the Court). By
+the same token, the State has a correspondingly strong
+interest where the tribal activities involve non-Indians and
+
+where the tribe, rather than producing on-reservation value,
+
+is simply importing goods into Indian country for immediate
+
+resale. See Cabazon Band, 480 U.S. at 219-220.
+
+      The Court has followed this approach of balancing the
+state and tribal interests in assessing the validity of at least
+some aspects of state taxation. It is clear, for example, that
+the principle of Indian sovereignty does not preclude
+imposition of state taxes that fall on an Indian tribe for "tribal
+activities conducted outside the reservation." Mescalero
+
+Apache v. Jones, 411 U.S. at 148. See Colville, 447 U.S. at
+
+163-164. Even as to activities taking place on reservation or
+trust lands, it also is plain that "sales to persons other than
+reservation Indians * * * are legitimately subject to state
+taxation." Milhelm Attea, 114 S. Ct. at 2031. And so far as
+such transactions are concerned, the Court has held repeatedly
+                                       18
+
+that States may exercise their authority directly against tribes
+by requiring them to shoulder tax collection obligations on the
+States' behalf; States may "impose tax collection and book-
+keeping burdens on reservation retailers who are themselves
+enrolled tribal members, including stores operated by the
+tribes themselves." Jd. at 2036. See Oklahoma Tax Comm'n
+
+v. Citizen Band Potawatomi Indian Tribe, 498 U.S. 505, 512,
+
+513 (1991); California State Board of Equalization v.
+Chemehuevi Indian Tribe, 474 U.S. 9, 12 (1985) (per
+
+curiam); Colville, 447 U.S. at 151, 159; Moe v. Confederated
+Salish and Kootenai Tribes, 425 U.S. 463, 481-483 (1976).
+
+     2. Federal Law Does Not Preclude State Taxation Of
+Indian Tribes In All Circumstances. a. Having said this,
+we of course recognize that the Court has been especially
+vigilant in protecting tribal interests where the full weight of
+state taxation has fallen directly upon the on-reservation
+activities of Indian tribes. The Court thus has characterized
+
+McClanahan, the seminal modern decision in the area, as
+
+holding that
+
+      even on reservations, state laws may be applied unless
+      such application would interfere with reservation self-
+      government or would impair a right granted or reserved
+      by federal law. * * * Even so, in the special area of
+      state taxation, absent cession of jurisdiction or other
+      federal statutes permitting it, there has been no
+      satisfactory authority for taxing Indian reservation lands
+      or Indian income from activities carried on within the
+      boundaries of the reservation.
+
+Mescalero Apache v. Jones, 411 U.S. at 148. See Moe, 425
+U.S. at 475-476.
+
+      The Court has applied this principle repeatedly to
+invalidate state taxes whose legal and economic incidence
+necessarily fell on tribal activities taking place in Indian
+country -- for example, a state income tax on "a reservation
+Indian whose entire income derives from reservation sources"
+                                       19
+
+(McClanahan, 411 U.S. at 165), or a tax on a tribe's royalty
+
+interests in reservation oil and gas leases (Montana v.
+Blackfeet Tribe of Indians, 471 U.S. 759, 761 (1985)), or a
+tax on the sale of cigarettes on the reservation "to tribal
+members for their own consumption." Milhelm Attea, 114 S.
+Ct. at 2031.' These decisions followed from the notion of
+Indian sovereignty that underlies the Court's analysis in this
+area, for all of the challenged taxes infringed to some degree
+"`on the right of reservation Indians to make their own laws
+and be ruled by them.'" White Mountain Apache, 448 U.S.
+at 142, quoting Williams v. Lee, 358 U.S. 217, 220 (1959).
+
+See McClanahan, 411 U.S. at 172. After all, a state tax on
+
+reservation sales by the tribe to tribal members who are the
+recipients of tribal services could "interfere with internal
+
+governance" (Duro v. Reina, 495 U.S. 676, 686 (1990)) by
+
+regulating the relationship between the tribal entity and its
+
+members; direct taxation of tribal income derived from the
+
+exploitation of on-reservation tribal resources could impose
+potentially ruinous liability and threaten to displace the
+mechanisms of tribal self-government.
+
+      But the rule against direct taxation of a tribe's on-
+reservation activities has not been stated in absolute terms.
+It is, instead, a "presumption against jurisdiction" (Sac and
+
+Fox, 113 S. Ct. at 1990 (emphasis added)) under which
+
+"Indian tribes and individuals generally are exempt from state
+taxation within their own territory." Blackfeet Tribe, 471
+
+U.S. at 764 (emphasis added). See White Mountain Apache,
+
+   " See also Sac and Fox, 113 S. Ct. at 1990-1993 (income tax, and
+excise tax and registration fees on vehicles, imposed on Indians in Indian
+country); Potawatomi, 498 U.S. at 507 (tax on sale of cigarettes in Indian
+
+country to tribal members); Colville, 447 U.S. at 162-164 (taxes on motor
+vehicles owned by tribes or their members); Bryan v. Itasca County, 426
+U.S. 373, 375-377 (1976) (personal property tax on on-reservation mobile
+home); Moe, 425 U.S. at 480-481 (personal property tax on reservation
+property, license fee on Indian retailers doing business on the reservation,
+and tax on on-reservation sales of cigarettes by Indians to Indians).
+20
+
+448 U.S. at 144 ("state law is generally inapplicable")
+(emphasis added); Duro, 495 U.S. at 686 ("[w]e have held
+that States may not impose certain taxes on transactions of
+tribal members on the reservation") (emphasis added). For
+its part, McClanahan, the fountainhead of the Couri's
+doctrine, based its holding on particular treaty language (see
+411 U.S. at 173-177) and, even so, stated its rule as
+applicable only to taxes on Indian lands or income. Indeed,
+the Court later expressly stated that its holdings invalidating
+state taxes did not extend to levies on the receipts of
+reservation retailers that were "attributable to on-reservation
+
+sales to non-Indians." Moe, 425 U.S. at 482.
+
+     b. As this discussion suggests, respondent's argument
+(see Br. in Opp. 21-25) that state taxation of Indian tribes is
+entirely precluded unless in terms permitted by Congress
+cannot bear scrutiny. It is true that the bar on state taxation
+of Indians, like the parallel restraint on state regulation of
+
+reservation activities, was once understood to be absolute;
+
+that is because the decisions first recognizing Indian tax
+immunity, The Kansas Indians, 72 U.S. (5 Wall.) 737, 755
+
+(1867), and The New York Indians, 72 U.S. (5 Wall.) 761,
+
+770 (1867), simply "extended" the Worcester rationale "to
+
+state taxation within the reservation." McClanahan, 411 U.S.
+
+at 169. See Oklahoma Tax Comm'n v. United States, 319
+
+U.S. 598, 602 (1943) (Worcester principle "was carried into
+
+the tax field in The Kansas Indians, 5 Wall. 737, and for the
+
+same reasons"). While the Court occasionally has cited these
+nineteenth century decisions in modern times (see Blackfeet
+Tribe, 471 U.S. at 764), the broadest implications of the early
+holdings necessarily cannot survive the demise of the
+Worcester rule.
+
+In later years the Court changed course, grounding Indian
+
+tax immunity, "not on the Indian sovereignty doctrine," but
+
+rather on the theory that tribal lands and enterprises were      SaeOslotrEeos
+
+federal instrumentalities. McClanahan, 411 U.S. at 169-170.
+
+See Colville, 447 U.S. at 183-184 n.8 (opinion of Rehnquist,     a
+
+                                                                 *
+                                       21
+
+J.). But that approach also "did not survive" (Mescalero
+Apache v. Jones, 411 U.S. at 150), and the Court more
+recently has "decline[d] the invitation to resurrect the
+expansive version of the intergovernmental immunity doctrine
+that has been so consistently rejected in modern times." Jd.
+at 155. See Colville, 447 U.S. at 183-184 n.8 (opinion of
+Rehnquist, J.) (as applied to Indians, federal instrumentality
+ "line of analysis * * * was later overruled"); Oklahoma Tax
+
+ Comm'n v. Texas Co., 336 U.S. 342 (1949); Oklahoma Tax
+
+Comm'n v. United States, 319 U.S. at 603 (the "federal
+instrumentality theory has been renounced" in the Indian
+setting).
+
+      In its contemporary decisions, the Court has grounded
+Indian tax immunities on the more general principles that
+govern all assertions of state authority affecting reservation
+activities. The Court thus has explained that it has "held that
+States may not impose certain taxes on transactions of tribal
+members on the reservation because this would interfere with
+internal governance and self-determination." Duro, 495 U.S.
+at 686. See Bryan v. Itasca County, 426 U.S. 373, 376 n.2
+(1976) (invoking "general preemption analysis"). To be sure,
+the Court has "recognized that the federal tradition of Indian
+immunity from state taxation is very strong and that the state
+interest in taxation is correspondingly weak. Accordingly, it
+is unnecessary to rebalance these interests in every case."
+
+Cabazon Band, 480 U.S. at 215 n.17.% But. this
+
+generalization -- with which we agree -- hardly justifies tax
+
+   * In Cabazon Band, 480 U.S. ai 215 n.17, the Court observed in a
+footnote that "[iJn the special area of state taxation on Indian tribes and
+tribal members, we have adopted a per se rule." But Cabazon Band,
+which was not a case involving state taxation and which relied for its
+observation on Blackfeet Tribe and McClanahan, cannot be read as
+approving preemption of state law in the circumstances of this case.
+Certainly, the statement that "it is unnecessary to rebalance these [state
+and tribal] interests in every case" does not mean that all state taxes
+falling on tribes are invalid in all circumstances.
+                                      22
+
+immunity when it is demonstrated in a particular case that the
+State interest supporting the levy is compelling, that the tribal
+interest is insubstantial, and that the state tax would have no
+effect on "tribal governance and self-determination."
+
+     c. Nor is there any congressional policy that requires
+general use of a conclusive presumption against the validity
+of a State's taxation of tribal activities. There is nothing
+magical in the imposition of a state tax's legal incidence, and
+a concomitant state-created legal obligation, on a tribe; this
+Court already has held, in the Moe-Colville line of cases, that
+tribes may be subjected to a legal obligation to collect and
+remit state taxes. By the same token, there is not, of course,
+any federal statute that broadly grants tax exempt status to
+Indians in all circumstances.' And although the Court has
+noted the congressional goals of "encouraging tribal self-
+sufficiency and economic development" (Cabazon Band, 480
+U.S. at 216; see New Mexico v. Mescalero Apache, 462 U.S.
+at 335), a state tax is not invalid simply because it affects the
+tribal treasury. To the contrary, the Court has expressly
+rejected the argument that state legislation is preempted
+whenever it has an "adverse effect on the Tribe's finances"
+(Cotton Petroleum, 490 U.S. at 187) -- even where "the
+economic impact" on the Tribe "is particularly severe."
+Colville, 447 U.S. at 151 n.27. See also id. at 156-157.
+Similarly, it is plain that a state tax on particular activities is
+
+   * To the contrary, Congress on occasion has explicitly authorized state
+taxation of Indian activities or lands. See McClanahan, 411 U.S. at 177
+n.16. And jest it be thought that the existence of these statutes suggests
+a background congressional view that state taxes are preempted unless
+explicitly permitted (cf. id. at 177), Congress also has specifically
+precluded the application of certain state taxes to specified activities or
+holdings of particular tribes -- including taxation of lands held by
+members of the Chickasaw Nation or of the other Five Civilized Tribes.
+See, e.g., Act of June 28, 1898, 30 Stat. 495, 505-513; Act of April 26,
+1906, 34 Stat. 137, 144; Act of May 10, 1928, 45 Stat. 495, §§ 3, 5
+(1928); Act of Jan. 27, 1933, 47 Stat. 777.
+                                   23
+
+not preempted simply because, as a practical matter, it
+precludes the imposition of a tribal tax on the same conduct.
+See id. at 154-159.
+
+     In fact, in the particular setting presented here, it is plain
+that the State's authority to tax is wholly consistent with --
+and, indeed, is expressly permitted by -- federal enactments.
+The Hayden-Cartwright Act, 4 U.S.C. § 104, explicitly
+authorizes States to collect taxes on the sale of motor fuel in
+federal reservations, providing:
+
+     That all taxes levied by any State * * * upon, or with
+     respect to, or measured by, sales, purchases, storage, or
+     use of gasoline or other motor vehicle fuels may be
+
+      levied, in the same manner and to the same extent, with
+
+      respect to such fuels when sold by or through * * *
+      filling stations [or] licensed traders, * * * located on
+      United States military or other reservations, when such
+      fuels are not for the exclusive use of the United States.
+
+     Four months after the statute's enactment, the Attorney
+General concluded that the reference to "reservations" in the
+Hayden-Cartwright Act "`describe[s] any body of land, large
+or small, which Congress has reserved from sale for any
+purpose. It may be a military reservation, or an Indian
+reservation, or, indeed, one for any purpose for which
+Congress has authority to provide * * *.'" 38 Op. Atty.
+Gen. 522, 524 (1936) (first emphasis in original), quoting
+United States v. Celestine, 215 U.S. 278, 285 (1909). See
+ibid. ("some of the agencies [selling fuel] which are expressly
+designated in [the Act] apparently are such as usually pertain
+
+to military, naval, or Indian reservations"). And four years
+
+later, speaking to precisely the situation at issue here,
+Solicitor of the Interior Margold concluded that the Act
+authorizes state taxation of sales of motor fuel purchased by
+an on-reservation tribal enterprise for resale both to non-
+Indians and to members of the tribe. Application of Federal
+and State Sales` Taxes to Activities of Menominee Indian
+                                      24
+
+Mills, 57 Interior Dec. 129, 138-140 (1940). There is no
+reason to doubt that conclusion, particularly since Congress
+reenacted the Act in 1947 -- seven years after Solicitor
+Margold issued his opinion -- without any relevant change.
+
+61 Stat. 644."°
+
+     3. Sales By The Tribe Are Subject To The Oklahoma
+Fuel Tax. a. These principles make clear that Oklahoma's
+fuel tax may validly be applied to respondent's sales. At the
+outset, the Hayden-Cartwright Act expressly authorizes the
+tax. There should be no doubt, as the Attorney General
+concluded in 1936, that the Act reaches sales of motor fuel on
+all lands reserved by the United States for any purpose. That
+plainly reaches the federal trust lands that are the sites of the
+sales at issue in this case. See Sac and Fox, 113 S. Ct. at
+1991-1992."
+
+   '© In White Mountain Apache, 448 U.S. at 152 n.16, the Court
+reserved the question whether the Hayden-Cartwright Act applies to Indian
+reservations. But even apart from the Act's broad language, there are
+compelling reasons to believe that it does. As the Solicitor of the Interior
+noted, the Act was an amendment to the Federal Aid Highway Act of
+1936, which also included "a section devoted to roadways in Indian
+reservations[,] indicating that attention was called in the consideration of
+the act to Indian reservations." 57 Interior Dec. at 139. In addition,
+among the selling agencies specifically enumerated as subject to tax are
+"licensed traders," a reference that is "particularly suggestive of Indian
+reservations." Ibid.
+
+   '! Oklahoma did not assert the Act in defense of its tax in the lower
+courts because it was of the view that "the relevant boundary for taxing
+jurisdiction is the perimeter of a formal reservation, not merely land set
+aside for a tribe or its members." Sac and Fox, 113 S. Ct. at 1991. The
+State therefore viewed Chickasaw lands as indistingushable for fuel tax
+
+purposes from other lands; because Chickasaw lands were seen as within
+the State's taxing jurisdiction, they were seen as outside the scope of the
+Hayden-Cartwright Act. But the Court's decision in Sac and Fox, issued
+after the State filed its brief in the court of appeals, rejected the State's
+position -- and therefore implicitly made clear that the Act applies to
+Indian country.
+                                      25
+
+      Even apart from the Act, however, there is no principle
+of preemption or tribal sovereignty that precludes application
+of the tax. So far as we are aware, the Court has never
+invalidated a state tax in the circumstances here: where the
+economic burden of the tax falls on purchasers who are non-
+Indians or non-members of the Tribe; where the State
+undeniably could impose the tax directly on those purchasers
+-- and could, under Milhelm Attea, Potawatomi, Colville, and
+Moe, require the Tribe to collect and remit the tax; and where
+use of the product sold generates costs that are imposed
+entirely upon the State. Indeed, as we note above, the Court
+has declared that the rule against state taxation does not reach
+just that situation, emphasizing that its holdings invalidating
+state levies on Indian income did not address claims "that the
+State could not tax that portion of the receipts attributable to
+on-reservation sales to non-Indians." Moe, 425 U.S. at
+482.'2 See also Colville, 447 U.S. at 178 (opinion of
+Rehnquist, J.) ("[h]istorically this Court had found Indians to
+be exempt from taxes on Indian ownership and activity
+confined to the reservation and not involving non-Indians")
+(emphasis added).
+
+      The reason is apparent. Aside from its naked interest in
+raising revenue, the Tribe has no significant stake here.
+After all, requiring a tribe to remit a tax on sales to non-
+members -- a tax that will be used to meet costs imposed on
+the State by use of the goods sold -- in no sense imposes a
+
+   '2 The Court in Moe was addressing Warren Trading Post Co. v.
+
+Arizona Tax Commission, 380 U.S. 685 (1965), where the Court
+invalidated a state gross proceeds or income tax imposed on an on-
+reservation Indian trader. The Court noted that the "challenge to these
+[taxes] is limited to the State's attempt to apply them to gross income from
+sales made on the reservation to reservation Indians." /d. at 686 n.1.
+That was so even though the legal incidence of the tax on sales to non-
+Indians plainly fell on the Indian trader. The tax immunity of licensed
+Indian traders is generally equivalent to that of Indians themselves. See
+Milhelm Attea, 114 S. Ct. at 2036.
+                                   26
+
+"burden which frustrates tribal self-government." Moe, 425
+
+U.S. at 483. To the contrary, it is difficult to see how such
+
+a tax has any bearing whatsoever on the tribes' ability "to
+control their own internal relations, and to preserve their own
+unique customs and social order." Duro, 495 U.S. at 685-
+686. Indeed, any argument that immunity from the levy "is
+necessary to * * * tribal government is refuted" by the fact
+that the State historically assessed the tax and the Tribe until
+very recently paid it, so "that the parties to this case had
+accommodated themselves to the state regulation." Montana
+
+v. United States, 450 U.S. at 564-565 n.13.
+
+      Moreover, the tax at issue here does not fall upon any
+
+value generated by Indians on Indian land. Instead, this is the
+paradigm of a case in which the Court has indicated that there
+is no tribal interest supporting immunity from state law: the
+tax falls on "on-reservation sales outlets which market to non-
+members goods not manufactured by the tribe or its members,
+in which the tribal contribution to [the] enterprise is de
+minimis." New Mexico v. Mescalero Apache, 462 U.S. at
+341. See Cabazon Band, 480 U.S. at 219 (noting minimal
+tribal interest where the tribe "merely import[s] a product
+
+onto the reservation for immediate resale to non-Indians").
+
+     As the Court has explained in very similar circumstances:
+
+     It is painfully apparent that the value marketed by the
+      [retailers] to persons coming from outside is not
+      generated on the reservations by activities in which the
+      Tribes have a significant interest. * * * What the
+      [retailers] offer these customers, and what is not
+      available elsewhere, is solely an exemption from state
+      taxation.
+
+Colville, 447 U.S. at 155. And the Court has repeatedly
+"rejected the proposition that `principles of federal Indian
+law, whether stated in terms of preemption, tribal self-
+government, or otherwise, authorize Indian tribes thus to
+market an exemption from state taxation to persons who
+        27
+
+would   normally do their business elsewhere.'" Milhelm
+        114 S. Ct. at 2035, quoting Colville, 447 U.S. at
+Attea,
+155."
+
+      c. While the Tribe has no substantial interest in avoiding
+the tax, the State has a compelling interest in imposing it, for
+the sale and use of motor fuel "has a significant impact
+beyond the limits of" Indian country. Rice, 463 U.S. at 724.
+"This is not a case in which the State has nothing to do with
+
+the on-reservation activity, save to tax it" (Cotton Petroleum,
+
+490 U.S. at 186), or where it is impossible "to identify any
+regulatory function or service performed by the State that
+would justify the assessment of taxes." White Mountain
+Apache, 448 U.S. at 148-149. To the contrary, it is the
+existence of state-funded public highways that makes possible
+the Tribe's sale of fuel, while the use of that fuel requires
+considerable expenditures for the maintenance and
+construction of state roads. "This particular `spillover' effect
+is qualitatively different from. any `spillover' effects of
+income taxes or taxes on cigarettes. `A State's regulatory
+interest will be particularly substantial if the State can point
+to off-reservation effects that necessitate state intervention.'"
+
+Rice, 463 U.S. at 724, quoting New Mexico v. Mescalero
+
+Apache, 462 U.S. at 336. And here -- in contrast to other
+
+   `3 After the decision below, the Tribe imposed its own tax on gasoline
+and diesel fuel that is roughly equivalent to that imposed by the State. See
+Tribal Law 11-011 (Aug. 11, 1994). That the Tribe is not now marketing
+its tax exemption by undercutting other retailers, however, does not mean
+that it -- or Oklahoma's many other tribes -- will not do so in the future.
+In any event, even if the Tribe does not lower its prices, the tax
+exemption nevertheless is valuable only because it allows for imposition
+of a tribal tax that otherwise would not be feasible. See Colville, 447
+U.S. at 154-159. Yet the State "`does not infringe the right of reservation
+Indians `to make their own laws and be ruled by them,' Williams v. Lee,
+358 U.S. 217, 220 (1959), merely because the result of imposing its taxes
+will be to deprive the Tribes of revenues which they currently are
+
+receiving." Colville, 447 U.S. at 156.
+                                      28
+
+cases in which state taxes have been invalidated (see White
+Mountain Apache, 448 U.S. at 150) -- the Tribe does not
+construct or maintain highways for the use of the general
+public; that burden falls entirely on the State.
+
+     As the district court recognized:
+
+           In Oklahoma the gasoline transported onto Indian
+      Country is for resale only and is used almost exclusively
+     off of Indian Country on State jurisdiction roads. * * *
+
+            Further, the Tribe does not construct or maintain
+
+      roads and highways for the use of the general public in
+      Oklahoma. The State of Oklahoma constructs and
+     maintains 111,412.76 miles of streets, roads and
+      highways in Oklahoma which is funded by the state tax
+     on motor fuel. All of the road mileage maintained by the
+      state is off Indian Country. Therefore, the gasoline tax
+     used to maintain these roads is directed at off-reservation
+     value where the taxpayer is receiving State services,
+      whether the taxpayer is a tribal member or not.
+
+Pet. App. 36a-37a.
+
+     It should be added that the magnitude of the State's
+interest here is brought home by a consideration of the
+practical effects of the decision below. The motor fuel tax is
+a very significant source of revenue for Oklahoma, producing
+more than $300 million annually, almost all of which is
+devoted to road construction and maintenance. Under the
+court of appeals' rule, the taxes forgone on sales by.
+respondent -- and by Oklahoma's 40 other tribes -- would be
+substantial. But that will not be the extent of the State's loss;
+"marketing" of the tax exemption by the tribes will take
+business (and therefore taxable sales) from non-Indian
+retailers, further diminishing tax revenue. The amounts
+involved surely will be significant since, as amicus Petroleum
+Marketers Association of America, et al., demonstrates, the
+market for motor fuel is extraordinarily price sensitive. Cf.
+                                      29
+
+Milhelm Attea, 114 S. Ct. at 2031 (purchases of untaxed
+cigarettes by non-Indians cost State $65 million in annual
+revenue).'* Tax immunity therefore gives the tribes an
+enormous windfall, while leaving the State with few of the
+revenues but all of the burdens flowing from the sale and use
+of motor fuel.
+
+      The court of appeals accordingly erred in holding that
+"the district court's balancing of the respective tribal and state
+interests at stake was not relevant to the determination of the
+propriety of the fuel taxes." Pet. App. 16a. Instead,
+
+      [w]hile the Tribes do have an interest in raising revenue
+      for essential governmental programs, that interest is
+      strongest when the revenues are derived from value
+      generated on the reservation by activities involving the
+     Tribes and when the taxpayer is the recipient of tribal
+      services. The State also has a legitimate governmental
+      interest in raising revenues, and that interest is likewise
+      strongest when the tax is directed at off-reservation value
+     and when the taxpayer is the recipient of state services.
+
+Colville, 447 U.S. at 156-157. Under this test, the proper
+accommodation here is manifest.
+
+     4. The Decision Below Rests On A Formalism That
+Disregards Economic Realities. In these circumstances, the
+holding below, which invalidates the fuel tax simply because
+the legal incidence is said to fall on the Tribe, rests upon the
+most sterile formalism. It is indisputable that the State could
+impose precisely the same burden on the Tribe by declaring
+the tax to fall on the consumer and directing the Tribe to
+
+   '* This is a particular problem in Oklahoma because it is home to many
+tribes; in addition, the history of Oklahoma allotments means that Indian
+country is scattered helter skelter across the State, so that purchasers of
+fuel always are likely to be near an Indian retailer. See generally Sac and
+Fox, 113 S. Ct. at 1987, 1993; Woodward v. DeGraffenried, 238 U.S.
+284 (1915); M. Wright, A Guide to the Indian Tribes of Oklahoma (1971).
+-_-- --~~ +                                      30
+
+             collect and remit the levy. See pages 17-18, supra. In the
+             court of appeals' view, then, "the only difference between"
+             a constitutional tax and one that is invalid is "their names."
+             Sac and Fox, 113 S. Ct. at 1993.
+
+                  If this defect may be cured simply by declaring in the
+             text of the tax statute that the legal incidence falls on the
+             consumer, as the court below appeared to suggest (Pet. App.
+             13a), its decision "has no relationship to economic realities.
+             Rather it stands only as a trap for the unwary draftsman."
+             Complete Auto Transit, Inc. v. Brady, 430 U.S. 274, 279
+             (1977). And as this case illustrates, the trap would be a
+             significant one. The Oklahoma statute does not, after all,
+             "expressly declare the legal incidence of the taxes to be on
+             the retailer" (Pet. App. 13a), and the State consistently has
+             understood the incidence of the tax to fall on the consumer.
+             That the court of appeals nevertheless found the incidence of
+             the tax to rest on the Tribe -- and that the Tribe is entitled to
+             a tax exemption as a result -- is sure to foment litigation, as
+             other tribes across the country attempt to convert arguable
+             statutory ambiguities into tax immunities.
+
+                  Moreover, the possibility that States could withdraw
+             those exemptions after the fact by changing the statutory
+             language is not a complete solution to this problem, because
+             Indian sovereign immunity would prevent recovery by the
+             States of forgone tax revenues. See Potawatomi, 498 U.S. at
+             509-511.'* And such a change would not be a permanent
+             solution either, because a tribe could chase the tax exemption
+             up the distribution chain by the simple expedient of becoming
+             distributors of fuel. The court of appeals' rule, like all
+
+                'S Of course, if the immunity conferred by the court of appeals could
+             not be eliminated with the stroke of a pen, the ultimate constitutionality of
+             a State's tax regime would turn on "mere nomenclature." Colville, 447
+             U.S. at 163-164. Such an approach could impose crippling burdens on
+             state governments.
+                                      31
+
+formalisms, thus would invite gamesmanship and
+manipulation.
+
+     The decision below therefore departs from this Court's
+clear holdings: "[t]here is of course no question that the
+Court has discarded the controlling significance of the label
+a State attaches to its taxes. A tax instead must be judged by
+its `practical operation.'" Colville, 447 U.S. at 188 (opinion
+of Rehnquist, J.), quoting Detroit v. Murray Corp., 355 U.S.
+489, 492 (1958).'° And because "[t]here is no economic
+consequence that follows necessarily from the use of * * *
+particular words, * * * and a focus on that formalism merely
+obscures the question whether the tax produces a forbidden
+effect" (Complete Auto, 430 U.S. at 288), the court of
+appeals' approach entirely divorces Indian tax immunity from
+its rationale, leaving it as an engine for the destruction of the
+state fisc. This is a matter of the greatest significance to the
+States, for "[iJt is upon taxation that the several States chiefly
+rely to obtain the means to carry on their respective
+governments." Dows v. City of Chicago, 78 U.S. (11 Wall.)
+108, 110 (1871). The holding below therefore is manifestly
+wrong as it applies to sales by the Tribe to non-members.
+
+   '© The Court has found the legal incidence of the tax to be controlling
+in one circumstance: when a state levy falls directly on the United States.
+That is because the Federal Government's immunity from state taxation
+"has taken on essentially symbolic importance, as the visible `consequence
+of that [federal] supremacy which the constitution has declared.'" United
+States v. New Mexico, 455 U.S. 720, 735 (1982), quoting McCulloch v.
+Maryland, 17 U.S. (4 Wheat.) 316, 436 (1819). That rationale has no
+application to the relationship between States and Indian tribes, however.
+The United States, as the "suprem[e]" sovereign, is wholly immune from
+state regulation and taxation. In contrast, the rules of Indian sovereignty
+are adjusted to accommodate state interests. See pages 14-18, supra.
+That has become particularly clear with the Court's rejection of the notion
+that tribal enterprises are federal instrumentalities. See pages 20-21,
+supra.
+                                   32
+
+     5. The State May Tax Sales Of Fuel Used By Tribal
+Members Outside Indian Country. While we therefore
+think it plain that Oklahoma's tax may be imposed on sales to
+non-members, we also submit that the tax may be applied to
+sales to members of the Tribe. As Solicitor of the Interior
+Margold explained, the Hayden-Cartwright Act must be read
+to make such sales taxable
+
+      in view of the purpose of the statute to permit State taxes
+      of all sales on reservations not previously subjected to
+      such taxes, and of the wording of the statute, permitting
+     taxes to be levied "in the same manner and to the same
+      extent" as upon sales outside the reservation. Indians
+      making purchases of gasoline outside the reservation
+      must pay the sales tax in the same manner as other
+     persons.
+
+57 Interior Dec. at 140.
+
+      But even apart from the Hayden-Cartwright Act, in the
+circumstances of this case there is no justification for granting
+the Tribe immunity from tax on sales to tribal members.
+Because the Tribe does not maintain public highways, motor
+fuel purchased by tribal members is used almost exclusively
+on state jurisdiction roads, and therefore imposes precisely
+the same burdens upon the State as does the use of fuel by
+non-members. As the district court correctly held, "the
+gasoline tax used to maintain these roads is directed at off-
+reservation value where the taxpayer is receiving State
+services, whether the taxpayer is a tribal member or not."
+Pet. App. 37a. These extra-reservation effects of the taxed
+activity decisively distinguish this case from those (involving
+Cigarette, personal property, and income taxes, see pages 18-
+19 & n. 7, supra) in which the Court has invalidated taxes on
+tribal members; as the Court has explained, the "`spillover'
+effect [here] is qualitatively different from any `spillover'
+effect of income taxes or taxes on cigarettes." Rice, 463
+U.S. at 724.
+                                    33
+
+      In fact, in analogous circumstances the Court has
+recognized that a state tax may be imposed on tribal members
+who live in Indian country. In both Sac and Fox and
+Colville, the Court suggested that automobile excise taxes and
+registration fees may be imposed on tribal members who live
+(and presumably garage their vehicles) in Indian country, so
+long as the amount of the tax is tailored to use of the vehicle
+off of Indian country. See Sac and Fox, 113 S. Ct. at 1993;
+Colville, 447 U.S. at 163-164. That conclusion, which rests
+on the understanding that a State must be able to tax
+recipients of its services, validates a tax on the purchase of
+fuel by tribal members that is "used almost exclusively off of
+Indian Country on State jurisdiction roads." Pet. App. 36a.
+
+      B. The Legal Incidence Of The Fuel Tax Falls Upon
+           The Consumer
+
+      For the reasons set out above, Oklahoma's power to
+impose the motor fuel tax on sales by the Tribe should be
+upheld regardless of who bears the legal incidence of that tax.
+But if the Court rejects that proposition and concludes that the
+legal incidence of a state tax never may be imposed on an
+Indian tribe absent express congressional intent (and
+concludes further that the Hayden-Cartwright Act does not
+provide that consent), the decision below regarding the fuel
+tax still should be set aside. The essential foundation for the
+court of appeals' holding -- the conclusion that the legal
+incidence of the tax falls on the retailer -- is incorrect. That
+conclusion disregarded both this Court's precedents on the
+placement of a tax's legal incidents and manifest indications
+of the Oklahoma Legislature's intent.
+
+      1. As the concept has been understood by this Court,
+the legal incidence of a tax does not necessarily fall on the
+entity that must remit the tax, or that can be held legally
+liable for nonpayment; instead, the legal incidence is borne by
+the entity that the legislature intended to carry the burden of
+the tax in a practical sense. This central role of legislative
+                                      34
+
+intent comes clear from this Court's decisions, including its
+discussion of the factors that are not dispositive of the legal
+incidence inquiry. The Court thus has "squarely rejected the
+proposition that the legal incidence of a tax falls always upon
+the person legally liable for its payment." United States v.
+Mississippi Tax Comm'n, 421 U.S. 599, 607 (1975).
+Similarly, although the legal incidence of a sales tax will fall
+on the consumer when there is a statutory requirement that
+the retailer pass it on (see, e.g., Moe, 425 U.S. at 481-482),
+that will be so even when the statute does not contain any
+
+mechanism for enforcing the pass-through requirement."'
+
+And when the legislature intends that the tax be passed on,
+the consumer to whom it is passed on may bear the levy's
+legal incidence even if he or she is not subject to suit by the
+State (or by the vendor) for nonpayment; none of this Court's
+decisions addressing the issue has suggested that legal
+provisions subjecting the consumer to legal liability are
+essential to a determination that the consumer bears the legal
+incidence of the tax.
+
+      Nor, for that matter, is an express pass-through
+requirement necessary. As this Court explained when
+rejecting a tribal claim of immunity from a state tax requiring
+payment by the tribe:
+
+      None of our cases has suggested that an express
+      Statement that the tax is to be passed on to the ultimate
+     purchaser is necessary before a State may require a tribe
+      to collect * * * taxes from non-Indian purchasers and
+      remit the amounts of such tax to the State. Nor do our
+
+   '7 See Mississippi Tax Comm'n, 421 U.S. at 609 n.8 (rejecting
+contention that, because the statute does not sanction the vendor for failing
+to pass on the tax, the legal incidence falls on the vendor); First
+Agricultural Nat'l Bank v. State Tax Comm'n, 392 U.S. 339, 348 (1968)
+("We cannot accept the reasoning of the court below that simply because
+there is no sanction against a vendor who refuses to pass on the tax
+(assuming this is true), this means the tax is on the vendor.").
+                                   35
+
+     cases suggest that the only test for whether the legal inci-
+     dence of such a tax falls on purchasers is whether the
+     taxing statute contains an express "pass on and collect"
+     provision.
+
+Chemehuevi Indian Tribe, 474 U.S. at 11. Instead, the Court
+
+explained, "the test to be derived from [our] cases * * * is
+nothing more than a fair interpretation of the taxing statute as
+written and applied." Jbid. So long as the statute, "fairly
+interpreted," reveals a legislative intent that the consumer
+bear the ultimate burden of the tax, the legal incidence is on
+the consumer. See generally First Agricultural Nat'l Bank v.
+State Tax Comm'n, 392 U.S. 339, 347 (1968) ("[t]here can
+be no doubt from the clear wording of the statute that the
+Massachusetts Legislature intended that this sales tax be
+passed on to the purchaser"); Gurley v. Rhoden, 421 U.S.
+200, 205 (1975) (legislative "purpose" dispositive).
+
+     A "fair interpretation" of Oklahoma's motor fuel tax
+leaves no doubt that the Oklahoma legislature intended the
+consumer (and certainly not the retailer) to bear the burden of
+
+the fuel tax.'* Thus, the basic definitional elements of the
+
+motor fuel tax code -- which were wholly ignored by the
+court below -- refer to the requirement that "a distributor,
+
+dealer, or retailer * * * collect taxes levied by this act."
+Okla. Stat., Tit. 68, § 501C (emphasis added). This makes
+
+   '® Although the "legal incidence" inquiry touches on a matter of state
+law and this Court often defers to the views of the courts of appeals on
+such matters, it is clear that when the determination of a tax's legal
+incidence affects a federal right to tax immunity, "the duty rests on this
+Court to decide [such issues] for itself." Mississippi Tax Comm'n, 421
+U.S. at 609 (citation omitted). The Court accordingly has not viewed as
+dispositive even state court pronouncements on where the legal incidence
+of a state tax falls. See, e.g., Diamond Nat'l Corp. v. State Board of
+Equalization, 425 U.S. 268 (1976) (per curiam); First Agricultural Nat'l
+Bank, 392 U.S. at 346. Surely, the courts of appeals may claim no
+greater deference when interpreting state enactments than may the state
+courts themselves. See Chemehuevi Indian Tribe, supra.
+                                   36
+
+plain that the obligation of both the distributor and the
+retailer is that of collecting the tax from someone further
+down the distribution chain.
+
+     This conclusion is confirmed by the exemptions that
+appear in virtually every one of the numerous provisions
+establishing the various constituents of the motor fuel tax.
+See Okla. Stat., Tit 68, §§ 501B, 502.2B, 502.3B, 502.4B,
+502.5B, 502.6B, 502.7B, 522(d). These exemptions relieve
+the consumer of the obligation to pay the tax and are passed
+up the distribution chain to the retailer and then to the
+distributor. Thus, Section 501B (emphasis added) -- again,
+a definitional provision of the statute -- provides that
+"[pJurchasers of nontaxable diesel fuel must comply with the
+provisions of Section 509 [of this title] in order to avoid the
+taxes levied by Sections 502.1 and 522.1 [of this title]."
+Section 509B, in tum, provides that "[e]very person actually
+engaged in farming in Oklahoma or in a state which borders
+the State of Oklahoma and buying motor fuel to be used as
+fuel for farm tractors or stationary engines * * * and used
+exclusively for agricultural purposes * * * may purchase such
+
+motor fuel without paying the tax." (emphasis added).'°
+
+     The statute similarly declares that tax is not due on diesel
+fuel "used exclusively for purposes other than to operate
+motor vehicles on the public highways of this state" (Okla.
+
+Stat., Tit. 68, § 509.2A (1994)), and any person who places
+
+diesel fuel purchased under such an exemption "into the fuel
+tank of a motor vehicle for use in operating the motor vehicle
+on the public highways shall be liable for the taxes." Id. §
+509.2C (emphasis added). Fuel purchased by a county, city,
+or town for use in its vehicles is exempt from tax "provided
+that if the diesel fuel is placed directly into the fuel supply
+
+   '? The court of appeals itself cited this provision for the proposition
+"that the tax is not imposed on the distributor." Pet. App. 14a. We
+agree that the exemption does indeed stand for that proposition -- and for
+the further proposition that the tax is imposed on the consumer.
+                                      37
+
+tank or tanks of the motor vehicle by the supplier,
+certification must be made on the invoice and all such sales
+must be reported by the supplier on forms furnished by the
+Oklahoma Tax Commission." Jd. § 509.2(F). The statute
+provides similar exemptions to those purchasing fuel for use
+in specified aircraft, in passenger buses or coaches, by public
+school vehicles, by FFA or 4-H club trucks, or by-volunteer
+fire departments (id. §§ 508(a), 509.2E, 527). That these
+provisions relieve the consumer of the burden of "paying the
+tax" makes clear that the consumer ordinarily bears that
+burden, and thus the legal incidence of the levy. And this is
+confirmed by the practice when an exempt consumer
+purchases fuel from a retailer: the retailer subtracts from the
+consumer's invoice the tax ordinarily due on the sale and
+obtains a credit on its next purchase of fuel from the
+distributor.
+
+     It is true, as the court of appeals observed, that the tax
+"statutes nowhere require the amount of the tax to be
+included in the retail price at the pump, a requirement which
+we could interpret as imposing the tax on the consumer." Pet
+App. 13a. But, as mentioned above, this Court already has
+rejected a similar statutory interpretation that gave
+significance to the absence of "`any * * * explicit pass-
+through' language." Chemehuevi, 474 U.S. at 10, quoting
+757 F.2d 1047, 1056 (9th Cir. 1985) (emphasis added by the
+Court). Just as important, the Oklahoma statute nowhere
+declares its legal incidence to fall on the retailer, makes the
+retailer legally liable for payment of the fuel taxes as a
+general matter, or requires the distributor to pass the taxes on
+to the retailer. Accordingly, if it is significant that the statute
+does not expressly require pass-through of the tax from the
+retailer to the consumer, it must be equally as significant that
+                                   38.
+
+the statute does not require pass-through of the tax from the
+distributor to the retailer."°
+
+     Finally, the provision principally relied upon by the court
+of appeals as evidence that the legal incidence of the tax falls
+on the retailer does not support its analysis. That provision,
+Okla. Stat., Tit. 68, § 5OSC, indicates that distributors remit
+taxes to the State "on behalf of a licensed retailer," and that
+a distributor who is unable to collect the tax from the retailer
+may deduct that amount from its future tax remittances. See
+Pet. App. 13a-14a. But the reference to "collection" suggests
+only that the legal incidence of the tax falls somewhere down
+the distribution chain from the distributor; it says nothing
+about whether that incidence comes to rest with the retailer
+rather than the consumer. Moreover, the portion of § 505C
+omitted by the court below from its opinion makes clear that,
+at a minimum, the retailer cannot always bear the legal
+incidence of the tax. The unabridged version of the relevant
+portion of Section 50SC refers to "[m]otor fuel taxes remitted
+by a distributor on behalf of a licensed retailer [for] the
+distributor or collected on behalf of a nonlicensed purchaser
+of motor fuel" (emphasis added). The legislature therefore
+expressly contemplated a class of cases in which retailers do
+not play any role in paying or collecting the tax. The
+significant point for the legislature thus was that the
+distributor be able to pass on the tax, not that the tax be
+borne by a retailer. In these circumstances, the motor fuel
+tax, "fairly interpreted," imposes the legal incidence of the
+tax on the consumer.
+
+   * Okla. Stat., Tit. 68, § SOSE does provide that a retailer "shall, at its
+option, pay to the distributor * * * all taxes due on all diesel fuel
+purchased from distributors or may procure a distributor's license as
+provided in Section 510 of this title." This provision, which refers only
+to taxes on diesel fuel, contains no enforcement mechanism; it also says
+nothing about the requirement that the retailer of diesel fuel collect the tax
+from those below it on the distribution chain.
+                                    39
+
+      2. It should be added that if we are wrong in our
+definition of legal incidence -- so that the legal incidence of
+a tax is borne only by those who are in some way subject to
+legal liability for payment of the tax -- then the legal
+incidence of Oklahoma's fuel tax plainly falls on the
+distributor, rather than the retailer. While the Oklahoma
+Legislature doubtless expected that distributors would pass on
+the tax to retailers (just as it expected that retailers would
+pass it on to consumers), nothing in the statute requires them
+to do so. Similarly, as we note above, if the distributor does
+not pay the tax the State has no legal recourse against the
+retailer. See Gurley, 421 U.S. at 205-206 ("if the
+[distributor] does not pay the tax, the Government cannot
+collect it from his vendees; the statute has no provision
+making the vendee liable for its payment"). By the same
+token, the State has no right of action against a retailer who
+fails to compensate its distributor for taxes paid. In any
+event, then, the legal incidence of the tax here does not fall
+on the retailer, which means that the fuel tax is valid as
+applied to sales by tribal retailers.
+
+Il. THE TREATY WITH THE CHICKASAW NATION
+      DOES NOT PRECLUDE IMPOSITION OF
+      OKLAHOMA'S INCOME TAX ON TRIBAL
+     MEMBERS WHO LIVE OUTSIDE INDIAN
+      COUNTRY
+
+     The court of appeals also erred in holding that Cklahoma
+may not impose its income tax on enrolled members of the
+Chickasaw Nation who work on tribal trust lands but live
+outside the formal boundaries of Indian country. That
+decision rests on a plain misreading of the treaty with the
+Chickasaw Nation. We discuss first the framework for the
+court of appeals' decision, an understanding of which is
+critical to the issue presented here, and then proceed to
+demonstrate why the court's reading of the treaty is
+indefensible.
+                                 40
+
+      1. As we explain above (at 18-19), decisions such as
+
+McClanahan and Mescalero Apache v. Jones have recognized
+a strong presumption against state taxation of the reservation
+income of Indians who live on formal reservations and derive
+their income from reservation sources. Two Terms ago, in
+Sac and Fox, the Court extended this presumption to Indians
+who live in all areas defined as "Indian country" and who
+derive their income from work within that territory. The
+Court explained that it had "never drawn [a] distinction"
+between formal reservations and Indian country for purposes
+of the McClanahan presumption. 113 S. Ct. at 1991. Thus,
+the Court held that "[i]f the tribal members do live in Indian
+country," the relevant treaties and statutes would have to be
+analyzed, as in McClanahan, "against the backdrop of Indian
+sovereignty." Id. at 1992.
+
+      At the same time that it has recognized the presumptive
+
+income tax immunity of reservation Indians, however, the
+
+Court has contrasted the status of "Indians who have left or
+
+never inhabited reservations set aside for their exclusive use, "
+
+as to whom no such presumption applies. McClanahan, 411
+U.S. at 167. The Court in Sac and Fox thus reaffirmed that
+ "It]he residence of a tribal member is a significant component
+of the McClanahan presumption against state tax
+jurisdiction." 113 S. Ct. at 1991. In the context of Sac and
+Fox, where the State sought to apply its income and motor
+ vehicle excise taxes to members of the Tribe who lived in
+Indian country (see id. at 1988-1989), this statement reflected
+ the Court's continuing recognition of the distinction between
+ Indians who live on land set aside for them by the United
+
+ States, and those who do not. See also id. at 1991 ("To
+
+ determine whether a tribal member is exempt from state
+ income taxes under McClanahan, a court first must determine
+ the residence of that tribal member.").
+
+       Because all of the Indians whom Oklahoma sought to tax
+
+ in Sac and Fox may have lived within Indian country, the
+
+ Court had no occasion to determine whether the Tribe's
+                                       +i
+ "right to self-governance could operate independently of its
+territorial jurisdiction to preempt the State's ability to tax
+income earned from work performed for the Tribe itself when
+the employee does not reside in Indian country." 113 S. Ct.
+at 1992. In addressing that question, the court below held
+that no presumption of invalidity applies to state income taxes
+on Indians living outside Indian country, but that a state
+nevertheless may be prohibited from imposing such taxes if
+"the tribe [can] show that the tax is barred by one of the two
+independent barriers to the exercise of state jurisdiction over
+Indians, i.e. interference with reservation self-government or
+impairment of rights granted or reserved by federal law."
+Pet. App. 26a-27a. While petitioner has no quarrel with this
+Statement in the abstract, the court's construction of the treaty
+with the Chickasaw -- which it held to create such an
+independent bar to taxation -- is insupportable.
+
+     2. The court of appeals relied on Article IV of the
+treaty, which provides:
+
+     The Government and the people of the United States are
+
+      hereby obliged to secure to the said [Chickasaw] Nation
+
+     of Red People the jurisdiction and government of all the
+     persons and property that may be within their limits west,
+     so that no Territory or State shall ever have a right to
+     pass laws for the government of the [Chickasaw] Nation
+     of Red People and their descendants. and that no part of
+     the land granted them shall ever be embraced in any
+     Territory or State; but the U.S. shall forever secure said
+     [Chickasaw] Nation from, and against, all laws except
+     such as from time to time may be enacted in their own
+
+     National Councils, not inconsistent with the Constitution,
+     Treaties, and Laws of the United States; and except such
+     aS may, and which have been enacted by Congress, to
+
+    the extent that Congress under the Constitution are
+    required to exercise a legislation over Indian Affairs.
+                                      42
+
+Treaty of Dancing Rabbit Creek, Sept. 27, 1830, 7 Stat.
+
+333.71 The court focused in particular on the language
+providing that "no Territory or State shall ever have [the]
+right to pass laws for the government of the [Chickasaw]
+Nation," reading this language to mean that "[t]he crucial
+question in determining the validity" of Oklahoma's tax is
+simply "whether the law is one imposed on the Chickasaw
+Nation or its descendants." Pet. App. 30a. Under this
+analysis, "[rJesidency is simply not relevant." Ibid. All that
+matters is whether the law -- although facially neutral as
+between Indians and non-Indians -- is being applied to
+members of the Tribe. If so, in the court of appeals' view,
+the law is one "for the government of the Chickasaw Nation"
+and is invalid.
+
+     This approach does violence to the plain terms of the
+treaty, which precludes the State from "pass[ing] laws for the
+government of the [Chickasaw] Nation" (emphasis added). In
+light of the McClanahan presumption, this language may
+reasonably be read as barring state laws that govern the
+Chickasaw in a manner that displaces the mechanisms of
+tribal government in Indian country. But it cannot fairly be
+stretched to proscribe a non-discriminatory state income tax
+imposed on persons living outside of Indian country, who
+receive from the State both a myriad of particular services
+and "[t]he intangible value of citizenship in an organized
+
+society." Cotton Petroleum, 490 U.S. at 190. One would
+not, after all, characterize a state income tax imposed on a
+
+federal employee who lives within the State's jurisdiction as
+a law passed "for the government of the United States."
+
+     That point is conclusively established by the treaty
+language immediately preceding that relied upon by the court
+
+   71 As we have explained (at note 1, supra), this treaty actually was
+concluded with the Choctaw Nation but subsequently was applied to the
+Chickasaw Nation.
+                                       43
+
+of appeals. Read in context, the treaty provides that the
+"United States are hereby obliged to secure to the said
+[Chickasaw] Nation of Red People the jurisdiction and
+government of all persons and property that may be within
+their limits west, so that no Territory or State shall ever have
+the right to pass laws for the government of the [Chickasaw]
+Nation of Red People and their descendants" (emphasis
+added). This provides expressly that the agreement confers
+rights to the Tribe "within their limits" (what we would now
+call the reservation, trust land, or Indian country); the
+conferral of these rights "so that" state laws may not be
+passed for the Tribe makes clear that the treaty has effect
+only within Indian country.
+
+      It may be added that the imposition of a tax on someone
+living outside Indian country is not rendered a law "for the
+government of the Chickasaw Nation" "within their limits
+west" simply because the income subject to tax is earned in
+Indian country. The tax here is not imposed upon the
+payment of funds by the tribal government in Indian country;
+it falls, instead, upon individual members of the Tribe who
+reside outside of Indian country. See United States v. County
+of Fresno, 429 U.S. 452, 461 n.9 (1977) ("The theory * * *
+that a tax on income is legally or economically a tax on its
+source, is no longer tenable") (citation omitted). By
+declaring that the residence of that tribal member "is simply
+not relevant" (Pet. App. 30a), the court of appeals therefore
+
+   " A tax on tribal members who live outside but work within Indian
+country is in this respect identical to a tax on non-members who work for
+the Tribe. The latter tax, as the court of appeals itself recognized, plainly
+is valid. Pet. App. 21a. Cf. Cotton Petroleum, supra (state could impose
+severance tax on on-reservation oil and gas drilling by non-member
+company, where tax did not affect tribal interests and company derived
+substantial benefits from the state). In both instances, the legal and
+economic incidence of the tax falls on the individual taxed, not the entity
+by whom the individual is employed. See County of Fresno, 429 U.S. at
+461 n.9.
+                                   44
+
+necessarily has held that tax immunity is an entitlement
+conferred upon individual Chickasaws. While the court
+purported not to resolve the question (see id. at 30a n.11),
+this rule would seem to preclude the imposition of
+Oklahoma's income tax on all Chickasaw Indians who live
+outside Indian country, not just those who derive their income
+
+from work on the reservation. Indeed, taken to the limits of
+
+its logic, the court's analysis would preclude the imposition
+of any state law on members of the Tribe -- including all the
+other laws of Oklahoma and the laws of other states when
+Chickasaw Indians journey beyond the borders of Oklahoma.
+The parties to this treaty surely cannot have intended to
+provide Chickasaw Indians with a blanket exemption from all
+State law. But if that is not what the treaty means, the
+holding of the court below is insupportable.
+
+      Moreover, the court of appeals' holding cannot be
+
+reconciled with the rule that Indians are "subject to
+nondiscriminatory state law otherwise applicable to all
+citizens of the State" when they travel beyond the reservation
+boundaries. Mescalero Apache v. Jones, 411 U.S. at 148-
+149. While that presumption may be overcome by "express
+federal law" (ibid.), the treaty language relied upon here
+hardly carries the necessary clarity. In fact, this Court has
+never found federal law sufficient to overcome the rule of
+Mescalero Apache. That is not surprising, for the interest of
+Indians in remaining "`free from state jurisdiction and
+control'" (McClanahan, 411 U.S. at 168 (citation omitted))
+is most significant when "on-reservation conduct involving
+
+only Indians is at issue." White Mountain Apache, 448 U.S.
+
+at 144. See Potawatomi, 498 U.S. at 511."
+
+   * The court of appeals evidently found it significant that on-reservation
+Indian immunity from state regulation is stated more explicitly in the
+treaty with the Chickasaw than in the treaties addressed in McClanahan
+and Sac and Fox. See Pet. App. 27a-28a. Even if true, however, that
+observation hardly supports the court's conclusion. The tax at issue in
+                                       45
+
+      3. This understanding of the treaty is confirmed by the
+purposes of its draftsmen and the circumstances of its
+drafting. The guarantee of freedom from state laws "for the
+government of the Choctaw Nation," a guarantee
+subsequently applied to the Chickasaw Nation, must be
+understood in relation to language elsewhere in the treaty and
+to the other clauses in Article IV of the Treaty'of Dancing
+Rabbit Creek. As explained in the preamble, the treaty was
+necessitated by the State of Mississippi's extension of its laws
+to "persons and property" within the State's limits and the
+inability of the United States to guarantee the Choctaw (and
+Chickasaw) people freedom from those laws. See also Treaty
+
+with the Chickasaw, 7 Stat. 450 (1834). The United States
+
+therefore agreed to convey "a tract of country west of the
+
+Mississippi River, in fee simple to them and their
+
+descendants, to inure to them while they shall exist as a
+nation and live on it." Treaty of Dancing Rabbit Creek, Art.
+I.
+
+     The land given to the Choctaw and Chickasaw Nations
+did not at that time lie within any State. And critically,
+Article IV promised that it never would: "No part of the land
+granted them shall ever be embraced in any State or
+Territory." Because they were to be outside the jurisdiction
+of any political unit (except the United States), other portions
+of Article IV gave the Chickasaw a significant degree of
+sovereignty within their lands. They were to be subject only
+to their own laws (so long as those laws were consistent with
+
+the Constitution and federal law) and to the exercise of
+
+federal power pursuant to the Indian Commerce Clause. This
+and similar treaties under which the Five Civilized Tribes
+removed to Indian Territory caused this Court to comment,
+
+McClanahan was invalidated because it fell upon a reservation Indian and
+therefore was (needless to say) subject to the McClanahan presumption;
+the Court left open whether the tax at issue in Sac and Fox could be
+applied to Indians living outside of Indian country.
+                                      46
+
+prior to statehood, that the Territory stood "in an entirely
+
+different relation to the United States from other Territories,
+
+and * * * for most purposes it is to be considered as an
+independent country." Alflantic and Pacific R. Co. v.
+Mingus, 165 U.S. 413, 435-436 (1897)."
+
+     It is in this context that the first clause of Article TV must
+be read. The point of the treaty, after all, was literally to
+remove the Tribe from the jurisdiction of any State, and
+comcomitantly to grant the Tribe "the jurisdiction and
+government of all the persons and property that may be within
+their limits west." Given the understanding that the Tribe's
+lands never would be within the jurisdiction of a State, it was
+quite natural for the treaty to provide that "no Territory or
+State shall ever have a right to pass laws for the government
+of the [Chickasaw] Nation." In this setting, the drafters
+could not have meant to create state tax immunities for
+members of the Tribe who moved west of the Mississippi yet
+lived outside Indian country, because it was not thought that
+those members would live within a State.
+
+      The subsequent history of the territory that was conveyed
+to the Chickasaw further demonstrates that the court of
+appeals' interpretation of the treaty is untenable. As noted
+above, the treaty provided that this territory would never be
+embraced within any state. The Chickasaw Nation, as well
+as several of the other tribes that removed to Indian
+Territory, initially had fully functioning systems of
+government. See F. Cohen, supra, at 427. But as we also
+have explained (at 3-4), Congress substantially modified the
+guarantee that Indian lands would be free from state
+encroachment, first by extending certain laws of Arkansas to
+a portion of Indian Territory (Act of May 2, 1890, 26 Stat.
+
+   * This relationship is further confirmed by the fact that the treaty
+granted the land in fee simple to the Chickasaw Nation "as a quasi
+independent nation," and was not to be held in trust by the United States.
+Fleming v. McCurtain, 215 U.S. 56, 60 (1909).
+                            47
+
+81), then by displacing tribal law (Act of April 28, 1904, 33
+Stat. 573), allotting Chickasaw lands, enacting the Oklahoma
+Enabling Act that authorized the admission to the Union of
+the Oklahoma and Indian Territories as the State of Oklahoma
+(Act of June 16, 1906, 34 Stat. 267), and, finally, by
+admitting Oklahoma to the Union on November 16, 1907.
+
+      This Court has, on several occasions, observed that treaty
+
+rights "`must be read in light of * * * subsequent'" relevant
+
+legislation. South Dakota v. Bourland, 113 S. Ct. 2309,
+
+2321 (1993) (quoting Montana v. United States, 450 U.S.
+
+544, 561 (1981)). See also Brendale v. Confederated Tribes
+
+and Bands of the Yakima Nation, 492 U.S. 408, 422 (1989)
+
+(opinion of White, J.); Puyallup Tribe v. Washington Game
+Dep't, 433 U.S. 165, 174 (1977). In the case of the
+
+Chickasaw Nation, Acts of Congress subsequent to 1830
+
+made it possible for members of the Tribe to reside within the
+State of Oklahoma on lands that no longer were subject to the
+
+obligations of the treaty. In these circumstances, "`[i]t defies
+
+common sense'" (Brendale, 492 U.S. at 423 (opinion of
+
+White, J.) (citation omitted)) to conclude that tribal members
+
+-- who live in and receive services from Oklahoma -- are
+
+exempted from state tax by the treaty.
+
+                     CONCLUSION
+
+The decision of the court of appeals for the Tenth Circuit
+
+should be reversed.
+
+                            Respectfully submitted.
+
+STANLEY JOHNSTON            CHARLES ROTHFELD*
+ Deputy General Counsel     GARY A. WINTERS
+DAVID ALLEN MILEY           LAURIE R. RUBENSTEIN
+ Assistant General Counsel   Mayer, Brown & Platt
+ Oklahoma Tax Commission     Suite 6500
+ Post Office Box 53248       2000 Pennsylvania Ave., N. W.
+ Oklahoma City, OK 73152     Washington, D.C. 20006
+ (405) 521-3141
+                             (202) 778-0616
+FEBRUARY 1995
+                            * Counsel of Record
+

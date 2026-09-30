@@ -1,0 +1,1464 @@
+No. 94-270 
+
+
+t 
+t 
+\ 
+
+
+In The 
+
+
+Supreme Court of the Hnited Stats kone 
+
+
+October Term, 1994 
+. 
+
+
+THE UNITED STATES OF AMERICA, 
+
+
+Petitioner, 
+
+
+ROBERT P. AGUILAR, 
+
+
+Respondent. 
+¢ 
+On Petition For Writ Of Certiorari 
+To The United States Court Of Appeals 
+
+
+For The Ninth Circuit 
+r 
+
+
+PRIEF IN OPPOSITION 
+¢ 
+
+
+Rosert D. Luskin* 
+
+JoserpH G. Davis 
+
+Comey Boyp & LuskIN 
+
+1800 M Street, N.W. 
+
+Suite 575 South 
+
+Washington, D.C. 20036-5869 
+Telephone: (202) 822-6340 
+
+
+Pau. B. MELTZER 
+Peter A. LEEMING 
+
+
+Law Orrices Or Mectzer & LeemMiIna 
+
+
+A Professional Corporation 
+340 Soquel Avenue, Suite 212 
+Santa Cruz, CA 95062 
+Telephone: (408) 426-6000 
+
+
+Attorneys for Robert P. Aguilar 
+
+
+* Counsel of Record 
+
+
+——S——=ahhhBUUUxoO ===a—a—=—S—— 
+COCKLE LAW BRIEF PRINTING CO., (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Did false statements to FBI agents during an informal 
+investigative interview unconnected with a grand jury 
+constitute obstruction of justice within the meaning of the 
+omnibus clause of 18 U.S.C. § 1503 prior to the enactment 
+of the Criminal Law and Procedure Minor Substantive 
+and Technical Amendments Act of 1987? 
+
+
+2. Does disclosure of the existence of a wiretap authori- 
+zation that has expired constitute a violation of 18 U.S.C. 
+§ 2232(c)? 
+
+
+il 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+CUBSTIONS PREGRPSTEO «cscs ccsescuncuccncseues i 
+TABLE GR ALTTROIEGD < ccccccccccvessctaunenase iv 
+A. SEAT oc cdvcecnccccceceudeseae eee 1 
+A. History of the Proceedings Below......... 2 
+B. Statement of Ghe Facts ....ccccscccvcecsess 4 
+1. Events Related to the Section 2232(c) 
+oh MST 5 
+2. Events Related to the Section 1503 
+eo” . SETI. 7 
+II. REASONS FOR DENYING THE PETITION.... 11 
+A. Section BBBD. «occacccesescuesseeneeeee 12 
+1. Review of This Case Will Not Resolve 
+the Issue Presented or the Outcome of 
+the Fasenettiehs ....0s+ctenkegeeusenen 13 
+2. No Court Has Ever Construed Section 
+1503 to Cover Conduct that is Wholly 
+Unconnected With Any Exercise of 
+Grand Jury Authority................. 18 
+B. Section BERR). .cccccccccedevobaeseescucss 21 
+
+
+1. The Plain Language of Section 2232(c) is 
+Inconsistent with the Interpretation the 
+Government 
+
+
+and the Interests 
+
+
+iii 
+
+
+TABLE OF CONTENTS - Continued 
+Page 
+
+
+3. The First Amendment and the Rule of 
+Lenity Preclude the Government's Inter- 
+DIG SS OS 650s ccccccccccccccssecess 25 
+
+
+eee bea nscescccccccsccccccce 29 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+CASES 
+Cooper v. United States, 471 U.S. 1130 (1985)......... 15 
+Edward J. DeBartolo Corp. v. Florida Gulf Coast Bldg. 
+
+& Constr. Trades Council, 485 U.S. 568 (1988) ...... 28 
+Landmark Communications, Inc. v. Virginia, 435 U.S. 
+
+See Co kinks bee nccctivesssiacenesedanetsencensa 26 
+Moskal v. United States, 498 U.S. 103 (1990).......... 28 
+Smith v. Daily Mail Pub. Co., 443 U.S. 97 (1979)...... 26 
+Sullivan v. Louisiana, 113 S. Ct. 2078 (1993).......... 18 
+Sullivan v. Stroop, 496 U.S. 478 (1990) ............... 24 
+The Florida Star v. B.J.F., 491 U.S. 524 (1989)......... 26 
+United States v. Brown, 688 F.2d 596 (9th Cir. 1982) .... 19 
+United States v. Bass, 404 U.S. 336 (1971)............ 28 
+United States v. Fayer, 573 F.2d 741 (2d Cir.), cert. 
+
+Goma, GP Dabs Te GHD: + 6.94000 enks dapescaaeess 19 
+
+
+United States v. Granderson, 114 S. Ct. 1259 (1994) .... 28 
+United States v. Grubb, 11 F.3d 426 (4th Cir. 1993) .... 20 
+United States v. Hawkins, 765 F.2d 1482 (11th Cir. 
+
+
+1985), cert. denied, 474 U.S. 1103 (1986)............ 19 
+United States v. Hernandez, 730 F.2d 895 (2d Cir. | 
+SOD. ds conc sacocananeiehe eens 15 
+
+United States v. King, 762 F.2d 232 (2d Cir. 1985), 
+cert. denied, 475 U.S. 1018 (1986) ...............0-- 15 
+
+
+United States v. Langella, 776 F.2d 1078 (2d Cir. 
+1985), cert. denied, 475 U.S. 1019 (1986)............ 19 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+Page 
+
+United States v. Lester, 749 F.2d 1288 (9th Cir. 1984) .... 15 
+United States v. McComb, 744 F.2d 555 (7th Cir. 
+
+
+IEP STE eT eer eT TTT eT err Tere TT eTTT Te 19 
+United States v. Nordic Village, Inc., 112 S. Ct. 1011 
+
+SEA ARORERORKCRAGSCORDSER tHe Cad eC Ese ne Seceese 23 
+United States v. Rovetuso, 768 F.2d 809 (7th Cir. 
+
+1985), cert. denied, 474 U.S. 1076 (1986)............ 15 
+
+
+United States v. Shoup, 608 F.2d 950 (3d Cir. 1979) .... 19 
+
+
+United States v. Simmons, 591 F.2d 206 (3d Cir. 
+NL AUG atc nUehd nk oS GaN AE EER PRR 60 0400800 19 
+
+
+United States v. Turkette, 452 U.S. 576 (1981)......... 24 
+United States v. Walasek, 527 F.2d 676 (3d Cir. 1975) .... 19 
+
+
+United States v. Wesley, 748 F.2d 962 (5th Cir. 1984), 
+CHE. GENE, GE WE BES CROGOE coc sce cccccccesees 15 
+
+
+Rute & STATUTES 
+
+
+ie i Coen eke Seeedbewsshteneseneesesstess 13 
+62 Stat. 769, 18 U.S.C. § 1503 (1948) ................ 14 
+Cee Sesh erescesaccesesoeseeess passim 
+i Cibo cc ebdecdUCsuencovsnessvececees 13 
+cave kek dade vedeaddecssesesccesseess 13 
+cc ceeeenesscecsecessocscceceseseees 13 
+ccc hccedavenetegepesedesceseesesss 13 
+EG Sic caccevbidessocccccccccceces passim 
+PTE MG So cce debe sdnccvcccccceccsecccesives 14 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Bl ae 8 Perret Str 14 
+0 I oi. ial esters 12 
+8B UGC. © FRIED on cccccccccccscccsccvvcecanes passim 
+Criminal Law and Procedure Minor Substantive 
+and Technical Amendments Act of 1987, Pub. L. 
+Doe, TPG Ce 6 5 6 sire ceccere ss cesoscnvevces. 15 
+Victim and Witness Protection Act, Pub. L. No. 
+97-291, 96 Stat. 1249 (1982) .........cccccceccvceee 15 
+Oe i Te a a eg eed 5 
+OTHER AUTHORITIES 
+S. Rep. No. 541, 99th Cong., 1st Sess. 1 (1986), 
+reprinted in 1986 U.S.C.C.A.N. 3555 .......-- 020 ees 24 
+H.R. Rep. No. 100-169, 100th Cong., 1st Sess. 
+GIDE sv vcccccvcccbccuctacebdccsbesssscéuusstbnens 16 
+
+
+No. 94-270 
+r 
+In The 
+Supreme Court of the United States 
+October Term, 1994 
+o 
+THE UNITED STATES OF AMERICA, 
+
+Petitioner, 
+
+V. 
+
+ROBERT P. AGUILAR, 
+
+Respondent. 
+
+
+¢ 
+
+
+On Petition For Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Ninth Circuit 
+Sd 
+
+
+BRIEF IN OPPOSITION 
+o 
+
+
+Respondent Robert P. Aguilar respectfully requests that 
+the Court deny the Petition for a Writ of Certiorari to the 
+United States Court of Appeals for the Ninth Circuit filed by 
+the Solicitor General on behalf of the United States. 
+
+
+¢ 
+
+
+I. STATEMENT 
+
+
+On April 19, 1994, a unanimous eleven-member, en 
+banc panel of the Ninth Circuit reversed the conviction of 
+respondent Robert P. Aguilar, a judge of the United States 
+District Court for the Northern District of California, for 
+obstruction of justice in violation of 18 U.S.C. § 1503. 
+
+
+Nine of the eleven panel members also agreed to reverse 
+Judge Aguilar’s conviction for disclosure of a wiretap 
+authorization in violation of 18 U.S.C. § 2232(c). In each 
+instance, the Ninth Circuit ruled that the record did not 
+establish a violation of the statute. 
+
+
+A. History of the Proceedings Below 
+
+
+Judge Aguilar originally was charged in an eight- 
+count indictment along with Michael Rudy Tham 
+(“Tham”) and Abie Chapman (“Chapman”) on June 13, 
+1989. The centerpiece of the charges against Judge Agui- 
+lar was that he violated the Racketeer Influenced and 
+Corrupt Organizations Act (“RICO”), 18 U.S.C. § 1962(c), 
+by allegedly obstructing the affairs of the U.S. District 
+Court for the Northern District of California through a 
+pattern of racketeering activity. The government charged 
+Judge Aguilar, Tham and Chapman with one count of 
+conspiracy to deprive the United States of its govern- 
+mental rights and functions and to obstruct justice in 
+connection with Tham’s habeas corpus petition before the 
+Honorable Stanley Weigel in violation of 18 U.S.C. § 371, 
+and with one count of endeavoring to obstruct justice in 
+violation of 18 U.S.C. § 1503. The government also 
+charged Judge Aguilar alone with three additional viola- 
+tions of 18 U.S.C. § 1503; and two counts of unlawful 
+disclosure of an application for a wiretap authorization in 
+violation of 18 U.S.C. § 2232(c). See Pet. at 4a, 30a. 
+
+
+On March 19, 1990, a jury acquitted Judge Aguilar of 
+one count of obstruction of justice, but was unable to 
+reach a verdict on the remaining counts. The district court 
+accordingly declared a mistrial and set a retrial for all 
+
+
+three defendants. Subsequently, the district court granted 
+the unopposed motion of the government to dismiss with 
+prejudice the RICO charge and one obstruction of justice 
+count against Judge Aguilar and granted the unopposed 
+motions of Tham and Chapman for severance. A second 
+jury acquitted Judge Aguilar of all counts connected with 
+the underlying conspiracy to influence Judge Weigel and 
+one wiretap disclosure count, but convicted him of one 
+count of endeavoring to obstruct justice in violation of 18 
+U.S.C. § 1503 and of unlawfully disclosing the existence 
+of a wiretap application in violation of 18 U.S.C. 
+§ 2232(c). Id. at 4a-5a, 30a, 67a-68a; Tr. 1590-91. 
+
+
+A divided panel of the Ninth Circuit reversed the 
+obstruction of justice conviction and affirmed the wiretap 
+disclosure conviction. Id. at 29a-113a. A majority con- 
+cluded that, as to both counts, the district court erro- 
+neously relieved the government of its burden to prove 
+beyond a reasonable doubt the element of knowledge, 
+essential to both counts of conviction, by requiring the 
+government to establish only what Judge Aguilar “proba- 
+bly” knew. Id. at 77a-90a, 100a-101a, 102, 104a-105a. A 
+different majority found that the erroneous jury instruc- 
+tion was harmless as to the wiretap disclosure conviction. 
+Id. at 51a-52a, 103a-104a. 
+
+
+On rehearing en banc, the Ninth Circuit did not reach 
+the knowledge issue. Id. at 25a. Instead, the court 
+reversed both counts on the grounds that the conduct did 
+not violate the statutes under which it was charged. Id. at 
+la-28a. The eleven en banc panel members agreed unani- 
+mously that the government had not identified a viola- 
+tion of Section 1503. The court affirmed that there was 
+“no evidence that a grand jury had authorized or directed 
+
+
+the FBI investigation, [or] . . . that the FBI agents had 
+been subpoenaed to testify.” Id. at 18a. Thus, “[t]he con- 
+duct alleged was interference with an FBI investigation, 
+not a judicial proceeding.” Id. The court unanimously 
+held that “interference with an FBI investigation” by 
+making false statements during an informal interview did 
+not obstruct or impede a pending judicial proceeding in 
+violation of Section 1503. Id. at 18a-24a. 
+
+
+The en banc court also held, over the dissent of only 
+two of its members, that the alleged conduct failed to 
+establish that Judge Aguilar had violated 18 U.S.C. 
+§ 2232(c). Id. at 8a-15a; 25a-28a. The court reasoned that 
+“[t]he plain language of the statute makes it clear that the 
+purpose of the statute is to prevent interference with a 
+‘possible interception.’” Id. at 9a (quoting 18 U.S.C. 
+§ 2232(c)). Since the government charged Judge Aguilar 
+with attempting to give notice of an authorization to 
+intercept certain electronic communications that had 
+expired more than eight months before the disclosure, id. 
+at 5a-8a, the government failed to establish a violation of 
+Section 2232(c). Id. at 15a. 
+
+
+B. Statement of the Facts 
+
+Throughout the lengthy appellate proceedings in this 
+case, the government has consistently mischaracterized the 
+trial record.! It has remained true to that practice in its 
+
+
+1 See, e.g., Reply /Response Brief for Defendant-Appellant, 
+
+
+filed September 19, 1991, at 9-13; Defendant’s Corrected 
+I to the Brief for the United States in Support of Partial 
+Rehearing En Banc, filed July 7, 1993, at 1. 
+
+
+Petition. We address the government's specific misstatements 
+below. Particularly offensive, however, is the government's 
+continued emphasis on the charges of conspiracy and 
+obstruction of which Judge Aguilar was acquitted, see Pet. at 
+4, 6-7, the more so because they are entirely irrelevant to the 
+issues that the government has presented for review. The 
+government's disingenuous presentation of disproved allega- 
+tions as “facts” suggests that the only “special and important 
+reason{]” for review on certiorari, S. Ct. R. 10.1, is the 
+government's wish to be relieved from the unanimous find- 
+ings of two successive juries. 
+
+
+1. Events Related to the Section 2232(c) Charge 
+
+
+This case arises out of a prolonged, extensive and 
+ultimately fruitless FBI probe of possible labor racketeer- 
+ing activities by the late Abie Chapman, then an 83-year 
+old alcoholic and distant relative of Judge Aguilar and 
+Rudy Tham, a former union official. 4 Tr. 669; 7 Tr. 965, 
+982. On April 20, 1987, the FBI obtained an authorization 
+signed by Judge Robert Peckham of the United States 
+District Court for the Northern District of California for a 
+30-day wiretap on phones used by Tham. Chapman, an 
+associate of Tham, was named on the application as 
+someone whose conversation might be intercepted. The 
+wiretap expired without renewal on May 20, 1987, and on 
+May 21, 1987 Judge Peckham signed an order terminating 
+the wiretap. 7 Tr. 917-919, 929, 933-35; Pet. at 5a.? 
+
+
+2 Many of the facts in this Statement of the Facts are drawn 
+directly from the en banc panel's opinion, which adequately and 
+accurately sets forth the relevant facts. See Pet. at 2a-7a, 16a. 
+
+
+, 
+
+
+On July 9, 1987, an FBI agent assigned to Chapman 
+observed Judge Aguilar eating lunch with Chapman, who 
+had a criminal record. 7 Tr. 964-69. Soon thereafter, on 
+August 5, 1987, the Special Agent in charge of the FBI's 
+San Francisco office visited Judge Peckham and told him 
+that Judge Aguilar had been seen in Chapman’s company. 
+7 Tr. 920, 938, 986, 1010. 
+
+
+Four days later, Judge Peckham met Judge Aguilar at 
+a social function and told him that Abie Chapman’s name 
+had come up “in the course of” or “in connection with” a 
+wiretap application. 7 Tr. 921, 942. Judge Aguilar 
+responded that he “[knew] the old man.” 7 Tr. 921, 
+942-43; see also 9 Tr. 1213-14. In fact, Chapman was mar- 
+ried to Josephine Knaack, an old friend of the Aguilar 
+family and the mother of Judge Aguilar’s sister-in-law. 5 
+Tr. 821-22; 9 Tr. 1207-08. Judge Aguilar had no other 
+knowledge of the application to intercept Tham’s calls, 
+which had by then already expired, and no further con- 
+versations with Judge Peckham on this subject. See Pet. at 
+69a, 88a. 
+
+
+Six months later, on February 6, 1988, Chapman 
+invited himself to Judge Aguilar’s home. After a few 
+minutes and two drinks, Chapman got up to leave. As 
+Judge Aguilar walked outside with Chapman, he noticed 
+a man sitting in a car across the street, who was holding a 
+camera and attempting to conceal himself from Judge 
+Aguilar. When Chapman drove away, the man followed 
+him. 5 Tr. 802-03, 815; 9 Tr. 1256-58, 1328-29; Pet. at 7a. 
+
+
+Judge Aguilar was understandably concerned by the 
+sight of what appeared to him to be a law enforcement 
+
+
+official watching and photographing him at home. See 
+
+
+Pet. at 7a. Judge Aguilar knew that Chapman was on his 
+way to visit his stepdaughter, Marilyn Knaack Aguilar, 
+but Judge Aguilar did not have her phone number. 
+Instead, he called his nephew, Steve Aguilar (Marilyn 
+Knaack Aguilar’s son) and asked him to come over. 5 Tr. 
+821-23; 9 Tr. 1271, 1328; Pet. at 7a. When Steve arrived, 
+Judge Aguilar told him that he had seen an FBI agent 
+following Chapman and that he heard at work that tele- 
+phones might be tapped. He asked Steve to go to his 
+mother’s house and personally tell Chapman that he did 
+not want Chapman to call or visit him any more. Steve 
+Aguilar relayed the message. 5 Tr. 824-26, 832; 9 Tr. 
+1272-73; Pet. at 7a. There was no evidence that Chap- 
+man’s phone lines were ever tapped, and the only wire- 
+tap of which Judge Aguilar might have had knowledge 
+had expired eight months before. Pet. at 7a. 
+
+
+2. Events Related to the Section 1503 Charge 
+
+
+In late 1987, Chapman and the late Edward Solomon, 
+whom Judge Aguilar knew from law school, visited Judge 
+Aguilar’s house with a Section 2255 petition collaterally 
+attacking Tham’s conviction for embezzlement, which 
+was then pending before Judge Weigel, Judge Aguilar’s 
+colleague. 4 Tr. 602-03, 606, 608, 611, 643; 9 Tr. 1206, 
+1215-17. Judge Aguilar looked at the motion, advised 
+Solomon (who was representing Tham) to get the case on 
+the calendar and stated that Judge Weigel would give 
+Solomon a “fair shot” on the motion. 4 Tr. 611-13, 646, 
+651-54, 719-27; 9 Tr. 1215-20. 
+
+
+Although Judge Aguilar inquired of Judge Weigel 
+concerning the status of the Section 2255 petition, Judge 
+
+
+Weigel testified unequivocally that Judge Aguilar made 
+no attempt to influence his ruling on the petition. 9 Tr. 
+1224-28, 1236-37, 1249; Pet. at 4a. The jury agreed, acquit- 
+ting Judge Aguilar of the charge that he conspired with 
+Tham, Solomon and Chapman to influence Judge Weigel. 
+Pet. at 4a. 
+
+
+Unlike the jury, the FBI did not believe Judge Weigel 
+when he told them that Judge Aguilar had not acted 
+improperly. Instead, the FBI pressed him to wear a tape 
+recording device to a luncheon that he was to attend with 
+Judge Aguilar in order to record any statement Judge 
+Aguilar made to him. Judge Weigel was highly incensed 
+at the FBI’s request and he refused. 9 Tr. 1240-42. Con- 
+trary to the implication conveyed by the government's 
+Statement, Pet. at 6, Judge Weigel recused himself from 
+Tham’s petition, which he had preliminarily decided to 
+deny, not because of questionable conduct by Judge Agui- 
+lar, but because of the FBI’s heavy-handed intervention. 9 
+Tr. 1236, 1245. 
+
+
+The FBI had more luck with Solomon. On May 10, 
+1988, the FBI approached Solomon, told him that his 
+phones had been tapped, and accused him of obstruction 
+of justice. 4 Tr. 617, 669-74. Although he did not believe 
+that he was guilty of obstruction, Solomon agreed to 
+cooperate because he feared the cost and risk of a trial 
+and he was concerned about previous problems relating 
+to his income tax. See 4 Tr. 674, 678-80. Solomon subse- 
+quently wore a recording device to two meetings with 
+Judge Aguilar in an attempt to elicit information for the 
+
+
+FBI. 4 Tr. 617, 684-85, 687-88; 8 Tr. 1102; see App. ER at 
+
+
+4-53. Based on these conversations, the government also 
+charged that Judge Aguilar violated 18 U.S.C. § 1503 by 
+
+
+attempting to induce Solomon to testify falsely. The jury 
+acquitted Judge Aguilar of this charge as well. Pet. at 29a; 
+15 Tr. 1591. 
+
+
+By virtue of the wiretaps, Solomon’s cooperation, the 
+recorded conversations between Judge Aguilar and 
+Solomon, and the interview of Judge Weigel, the FBI was 
+familiar with all the relevant facts concerning Judge 
+Aguilar’s relationship with Solomon and Chapman and 
+whether Judge Aguilar had attempted to intervene with 
+Judge Weigel. App. ER at 57. Nevertheless, on June 22, 
+1988, two FBI agents interviewed Judge Aguilar on these 
+subjects for no apparent purpose other than to induce 
+Judge Aguilar to make the false statements. “There [was] 
+no evidence that a grand jury had authorized or directed 
+the FBI investigation; nor [was] there evidence that the 
+FBI agents had been subpoenaed to testify.” Pet. at 18a. 
+Likewise, there was no evidence that the agents ever 
+testified before the grand jury either directly or through 
+the hearsay testimony of others. 
+
+
+Judge Aguilar explained that he was asked by some- 
+one, probably Chapman, to find out when there would be 
+a hearing on a motion, and that Judge Aguilar had done 
+so. App. ER at 57-59, 69. In response to an agent’s ques- 
+tion, Judge Aguilar told them that he had known 
+Solomon since 1955, App. ER at 61, and that he had found 
+out recently that Solomon was Tham’s attorney. App. ER 
+at 62. Judge Aguilar said that he did not discuss the Tham 
+matter with Solomon, App. ER at 62, 69, and that he did 
+not find out or learn of any wiretap order on Chapman. 
+App. ER at 70-71. The jury found that some of these 
+statements were false. 
+
+
+10 
+
+
+The government’s Statement implies incorrectly that 
+the FBI agents made Judge Aguilar aware that a grand 
+jury was meeting prior to eliciting the false statements. 
+Pet. at 8. The plain fact that emerges from the transcript 
+of the interview is that Judge Aguilar repeatedly sought 
+to determine whether a grand jury was reviewing the 
+issues that were the subject of the FBI interview and the 
+agents rebuffed or evaded his questions. See App. ER at 
+54-80. Throughout the colloquy that included the state- 
+ments found to be false, neither the agents nor Judge 
+Aguilar mentioned a pending grand jury proceeding, 
+although Judge Aguilar asked the agents whether he was 
+a target of their investigation. After the false statements 
+were made, Judge Aguilar asked again whether he was a 
+“target.” On this occasion, an agent answered with a 
+confusing response about grand jury proceedings, but did 
+not directly confirm that a grand jury was meeting or that 
+Judge Aguilar was a subject of its inquiry. See App. ER at 
+73. 
+
+
+Judge Aguilar remained confused about whether a 
+grand jury was in fact pending or merely was being 
+considered. A few moments later, Judge Aguilar asked 
+again whether “a Grand Jury’s gonna meet.” App. ER at 
+74. The agent made no effort to clear up the confusion, 
+replying opaquely: “Okay.” Id. Judge Aguilar later testi- 
+fied that “[a]fter the interview was over” it was his 
+“impression” that his statements would be reported to the 
+grand jury. 9 Tr. 1360 (emphasis added); compare Pet. at 
+14. 
+
+
+11 
+
+
+II. REASONS FOR DENYING THE PETITION 
+
+
+This case presents a particularly poor occasion for the 
+Court to exercise its discretionary power of review. 
+Although the government litters its Petition with refer- 
+ences to “freshly minted exceptions” and “limitations,” it 
+cannot point to a single case supporting the application of 
+18 U.S.C. § 1503 in circumstances so far removed from 
+any exercise of the grand jury’s authority, nor can it 
+identify any case decided under 18 U.S.C. § 2232(c), much 
+less one endorsing an interpretation of the statute 
+squarely at odds with its plain terms. 
+
+
+With respect to Section 1503, moreover, review of 
+Judge Aguilar’s conviction would be an empty exercise. 
+The Petition fails to acknowledge that Judge Aguilar’s 
+conviction on the obstruction count was reversed by a 
+panel of the Ninth Circuit on independent and unassail- 
+able grounds. Just as important, shortly after the conduct 
+for which Judge Aguilar was charged under Section 1503, 
+Congress, through amendment to 18 U.S.C. § 1512, explic- 
+itly undertook to resolve a conflict about the overlap 
+between the omnibus clause of Section 1503, under which 
+Judge Aguilar was charged, and Section 1512, which dealt 
+specifically with interference with witnesses. By this 
+amendment, Congress made clear that it intended to 
+address questions such as the one presented here through 
+specific provisions in Section 1512 and not through the 
+omnibus clause of Section 1503. Review by this Court 
+would be a matter of historical curiosity only: it would 
+not even affect the outcome of this case, much less any 
+other. 
+
+
+" 
+ae a ~ 
+
+
+12 
+
+
+The Ninth Circuit’s ruling on Section 2232(c) is an 
+even less worthy object of the Court’s certiorari power. 
+The proceedings below are the first and only reported 
+proceedings applying Section 2232(c). Without support 
+from the language of the statute, the decisions of other 
+courts, or even meaningful legislative history, the govern- 
+ment asks this Court to reconsider an interpretation that 
+conscientiously comports with the statute’s express 
+terms. 
+
+
+Together, the best that can be said about the issues 
+presented by the government for review is that consider- 
+ation of the scope of the omnibus clause of Section 1503 
+comes too late, while speculation about the outer limits of 
+Section 2232(c) comes too soon. Neither issue merits 
+review by this Court. 
+
+
+A. Section 1503 
+
+
+By its Petition, the government seeks the Court's 
+endorsement of an application of Section 1503 that was 
+nothing more than an adventure in artful pleading, 
+unsupported by the terms of the statute, prior judicial 
+decision, or even a compelling government interest. 
+Although all parties agree that the interests implicated by 
+Judge Aguilar’s conduct are directly addressed, if at all, 
+by 18 U.S.C. § 1001 (false statements to government agen- 
+cies), the government eschewed the use of this statute 
+because Section 1001 is not a predicate act of “racketeer- 
+ing activity” for the purposes of its RICO charge. See 18 
+U.S.C. § 1961(1). Although the RICO charge has long- 
+since been abandoned and the underlying accusations 
+
+
+| 
+
+
+13 
+
+
+against Judge Aguilar resolved by acquittals, the govern- 
+ment persists in its effort to apply Section 1503 to circum- 
+stances where it does not fit, was never before applied, 
+and now may no longer be used. 
+
+
+1. Review of This Case Will Not Resolve the Issue 
+Presented or the Outcome of the Prosecution 
+
+
+Before this Court can reach the narrow question of 
+whether simple false statements to an investigator may 
+be said to “obstruct or impede the due administration of 
+justice,” the Court would be required first to resolve the 
+threshold question of whether Section 1503 addresses any 
+conduct relating to potential witnesses, much less the 
+particular type of conduct alleged here. Although that 
+question was, at the time of the conduct giving rise to the 
+charges against Judge Aguilar, the subject of a split 
+among the Circuits, Congress later amended the statutory 
+scheme and clearly expressed its intent that Section 1512, 
+not Section 1503, govern such conduct. The issue pre- 
+sented here is thus purely historical as it relates to the 
+application of Section 1503. 
+
+
+As this Court is well aware, the omnibus clause of 
+Section 1503 does not stand as the last or only protection 
+against obstructive conduct, but instead forms only a 
+small part of a comprehensive statutory scheme designed 
+to protect a broad array of interests.* In particular, 
+
+
+3 See, e.g., 18 U.S.C. §§ 1501 (process servers); (judges, court 
+officers, and jurors); 1505 (Executive Branch agencies and Con- 
+gressional Committees); 1509 (court orders); 1510 (criminal 
+investigations); 1511 (state or local law enforcement); 1512 
+
+
+14 
+
+
+Congress has spent the better part of a decade refining 
+the terms under which violent, coercive, or misleading 
+conduct toward witnesses or potential witnesses may be 
+punished as obstruction of justice. As originally enacted, 
+Section 1503 expressly included witnesses among those 
+whom it protected. See Pet. at 19a & n.5 (quoting original 
+text of Section 1503); 62 Stat. 769, 18 U.S.C. § 1503 (1948). 
+In 1982, as part of the Victim and Witness Protection Act, 
+Congress amended Section 1503 to its present form by 
+eliminating all references to witnesses;* it simultaneously 
+added Section 1512, which was specifically tailored to 
+
+
+(witnesses, victims and informants); 1513 (same); 1514 (civil 
+actions to restrain harassment of victims and witnesses). 
+
+
+4 Section 1503 provides: 
+
+Whoever corruptly, or by threats or force, or by any 
+threatening letter or communication, endeavors to 
+influence, intimidate, or impede any grand or petit 
+juror, or officer in or of any court of the United States, 
+or officer who may be serving at any examination or 
+other proceeding before any United States commis- 
+sioner or other committing magistrate, in the-dis- 
+charge of his duty, or injures any such grand or petit 
+juror in his person or property on account of any 
+verdict or indictment assented to by him, or on 
+account of his being or having been such juror, or 
+injures any such officer, commissioner, or other com- 
+mitting magistrate in his person or property on 
+account of the performance of his official duties, or 
+corruptly or by threats or force, or by any threatening 
+letter or communication, influences, obstructs, or 
+impedes, or endeavors to influence, obstruct, or 
+impede, the due administration of justice, shall be 
+fined not more than $5,000 or imprisoned not more 
+than five years, or both. 
+
+18 U.S.C. § 1503. 
+
+
+15 
+
+
+address witness tampering. Id; Victim and Witness Pro- 
+tection Act, Pub. L. No. 97-291, 96 Stat. 1249 (1982). As 
+first enacted, Section 1512 only proscribed the use of 
+intimidation, physical force, threats or misleading con- 
+duct. 18 U.S.C. § 1512 (1985). The circuits interpreting the 
+statutory scheme split over whether non-coercive witness 
+tampering not expressly covered by Section 1512 could be 
+prosecuted under the omnibus clause of Section 1503 
+after the enactment of 1512.5 In 1985, over the dissent of 
+three of its members, this Court expressly declined to 
+resolve that disagreement. Cooper v. United States, 471 U.S. 
+1130, 1130-31 (1985) (White, J., Brennan, J., and Marshall, 
+J., dissenting). 
+
+
+Three years later, Congress intervened finally to 
+resolve the conflict. In 1988, several months after the 
+conduct at issue here, the Criminal Law and Procedure 
+Minor Substantive and Technical Amendments Act of 
+1987 was enacted, which amended Section 1512 to include 
+generic non-coercive behavior towards witnesses — “cor- 
+rupt[] persua[sion]” - within the class of proscribed 
+behavior. See Criminal Law and Procedure Minor Sub- 
+stantive and Technical Amendments Act of 1987, Pub. L. 
+No. 100-690 (1987); 18 U.S.C. § 1512(b). This is, of course, 
+precisely the term of the omnibus clause of Section 1503 
+upon which the government relied to prosecute Judge 
+
+
+5 Compare United States v. Hernandez, 730 F.2d 895, 899 (2d 
+Cir. 1984); United States v. King, 762 F.2d 232 (2d Cir. 1985), cert. 
+denied, 475 U.S. 1018 (1986) with United States v. Lester, 749 F.2d 
+1288, 1295-96 (9th Cir. 1984); Linited States v. Rovetuso, 768 F.2d 
+809 (7th Cir. 1985), cert. denied, 474 U.S. 1076 (1986); United States 
+v. Wesley, 748 F.2d 962 (5th Cir. 1984), cert. denied, 471 U.S. 1130 
+
+
+(1985). 
+
+
+16 
+
+
+Aguilar. As the House Report accompanying the act con- 
+firms, Congress intended to “resolve[] [the circuit] con- 
+flict by amending 18 U.S.C. 1512(b) to proscribe ‘corrupt 
+persuasion.’” H.R. Rep. No. 100-169, 100th Cong., 1st 
+Sess. (1987) at 12. The report continues: 
+
+
+It is intended that culpable conduct that is not 
+coercive or “misleading conduct” be prosecuted 
+under 18 U.S.C. 1512(b), rather than under the 
+[omnibus] clause of 18 U.S.C. 1503. [The amend- 
+ment], therefore, will permit prosecution of such 
+conduct in the Second Circuit, where such pros- 
+ecutions cannot now be brought, and will in 
+other circuits result in prosecutions being 
+brought under 18 U.S.C. 1512(b). 
+
+
+Id. This legislative history simply confirms what is 
+obvious from the language of the amendments: Section 
+1512 and not Section 1503 now governs all forms of 
+witness tampering.® 
+
+
+In sum, the best that can be said for the issue pre- 
+sented by the government is that it has no continuing 
+relevance. Congress has clearly evidenced its intent to 
+address all potentially obstructive conduct towards wit- 
+nesses, including “corrupt persuasion,” in the context of 
+Section 1512, not Section 1503. The question presented by 
+
+
+6 Congress did not amend the omnibus clause of Section 
+1503 in 1987, nor need it have done so in order to achieve its 
+stated objective. The omnibus clause continues to serve other 
+important purposes unrelated to witnesses even after the enact- 
+ment of Section 1512 and the 1987 amendments to it. It is diffi- 
+cult to imagine another way for to have accomplished 
+its purpose, short of the omnibus clause altogether, 
+which would have curtailed Section 1503 in ways Congress 
+obviously did not intend. 
+
+
+17 
+
+
+the government's Petition - whether “false and mislead- 
+ing statements to prospective witnesses” constitute 
+obstruction of justice - must now of necessity be resolved 
+according to, or at least with reference to the amended 
+terms of Section 1512(b); and that question cannot con- 
+ceivably be addressed through this prosecution.” The 
+only question presented in this case is whether such 
+conduct violated Section 1503 prior to the amendment of 
+Section 1512. Having declined to address the interplay 
+between Sections 1503 and 1512 in Cooper, when it could 
+be said to have mattered, it hardly makes sense for the 
+Court to revisit that issue now in order to decide the 
+narrow question of whether the novel use of Section 1503 
+in this case was appropriate. 
+
+
+Although the government cites “the importance of 
+this prosecution” as a basis for granting review, the con- 
+viction of Judge Aguilar under Section 1503 cannot be 
+saved by review of the issue presented by the govern- 
+ment. Before the Court of Appeals set this case for en banc 
+review, the panel hearing the cross-appeals had already 
+reversed Judge Aguilar’s conviction under Section 1503 
+on independent grounds, holding that the jury instruction 
+defining knowledge impermissibly shifted the burden of 
+
+
+7 It is possible, of course, that the government takes the 
+position in this Court that, notwithstanding the irrefutable evi- 
+dence of contrary legislative intent, Section 1503 stil! covers 
+non-coercive witness While that argument would 
+have the virtue of presenting a live question, it cannot be 
+ee ent he 
+addressed 
+
+
+statutory landscape as it existed 
+orn: a ne pa Dean nweey Ape 
+
+
+‘ 
+
+
+—— ail 
+oo ital wait 
+
+
+18 
+
+
+proving an essential element of the offense to the defen- 
+dant and erroneously lowered the government’s burden 
+of proof. Pet. at 77a-86a; 104a-105a. Relying both on the 
+paucity of evidence that Judge Aguilar had any knowl- 
+edge of the pendency of a grand jury proceeding or that 
+the agents might appear before it as witnesses, as well as 
+this Court’s recent decision in Sullivan v. Louisiana, 113 S. 
+Ct. 2078 (1993), the panel concluded that this error was 
+not harmless as to the Section 1503 conviction. Pet. at 
+86a-90a; 104a-105a. Although the en banc court declined 
+to reach this issue, the government can offer no plausible 
+grounds to disturb that result and has not suggested that 
+this issue also warrants this Court’s review. 
+
+
+2. No Court Has Ever Construed Section 1503 to 
+Cover Conduct that is Wholly Unconnected 
+With Any Exercise of Grand Jury Authority 
+
+
+Although the government refers glibly to “freshly 
+minted exceptions” to Section 1503, it cannot point to a 
+single case in which simple false statements to any poten- 
+tial witness or false statements to law enforcements 
+agents who were not acting on behalf of a grand jury 
+have ever been punished under Section 1503. 
+
+
+Far from constituting a “freshly minted exception,” 
+the decision of the Ninth Circuit in this case is consistent 
+with all prior decisions applying Section 1503, including 
+every case identified by the government: every single 
+court to construe Section 1503 has required a direct nexus 
+between the conduct alleged to be criminal and the law- 
+ful exercise of the grand jury’s authority. Thus, as the 
+
+
+19 
+
+
+government notes, the courts have routinely applied Sec- 
+tion 1503 to false testimony to the grand jury, United 
+States v. Langella, 776 F.2d 1078 (2d Cir. 1985), cert. denied, 
+475 U.S. 1019 (1986), its investigator, United States v. 
+Hawkins, 765 F.2d 1482 (11th Cir. 1985), cert. denied, 474 
+U.S. 1103 (1986), as well as to efforts to defeat the grand 
+jury’s subpoena power by altering, destroying or conceal- 
+ing evidence, United States v. McComb, 744 F.2d 555 (7th 
+Cir. 1984) (alteration of documents subpoenaed by grand 
+jury); United States v. Shoup, 608 F.2d 950, 959-63 (3d Cir. 
+1979) (falsification of evidence by contractor hired to 
+assist grand jury investigation); United States v. Walasek, 
+527 F.2d 676 (3d Cir. 1975) (destruction of documents 
+subpoenaed by grand jury); Pet. at 14-15. 
+
+
+The courts thus have been vigilant in protecting the 
+authority of the grand jury, whether it acts directly or 
+through an intermediary; at the same time, however, they 
+have consistently refused to conflate the independent 
+functions of the FBI, on the one hand, and the grand jury, 
+on the other. The courts have rebuffed efforts to shoehorn 
+within Section 1503 conduct that does not implicate the 
+exercise by the grand jury of its authority to compel the 
+truthful testimony of witnesses or the production of doc- 
+uments. See United States v. Brown, 688 F.2d 596, 598 (9th 
+Cir. 1982) (“the obstruction of a government agency’s 
+investigation is insufficient to trigger § 1503”); United 
+States v. Simmons, 591 F.2d 206, 208 (3d Cir. 1979) 
+(obstruction of an FBI investigation does not violate Sec- 
+tion 1503); United States v. Fayer, 573 F.2d 741, 745 (2d 
+Cir.) (same), cert. denied, 439 U.S. 831 (1978). 
+
+
+Both the decision of the Court of Appeals below as 
+well as the decision of the Court of Appeals for the 
+
+
+20 
+
+
+Fourth Circuit in United States v. Grubb, 11 F.3d 426 (4th 
+Cir. 1993), upon which the government relies to assert a 
+conflict among the circuits, are consonant with this prin- 
+ciple. In Grubb, the indictment alleged that “the Grand 
+Jury was assisted in this investigation by Special Agents 
+of the FBI... ”, 11 F.3d at 436 n. 15, and the evidence 
+showed that the grand jury investigation was “being 
+conducted through this FBI agent.” Id. at 436. By contrast, 
+the Court of Appeals below found that “[t]here [was] no 
+evidence that a grand jury had authorized or directed the 
+FBI investigation; nor [was] there evidence that the FBI 
+agents had been subpoenaed to testify.” Pet at 18a. 
+Rather, the government explicitly based its prosecution 
+on the premise that the FBI agents were not acting for or 
+on behalf of the grand jury. 10 Tr. 1632-33. Instead, the 
+only nexus between the agents and the grand jury that 
+the government identifies is that the agents were poten- 
+tial witnesses. Pet. at 15. 
+
+
+The unanimous decision of the Ninth Circuit en banc 
+in this case thus does no violence at all to the principle 
+consistently recognized by the Courts to determine when 
+Section 1503 may be applied, nor is it inconsistent with 
+the reasoning of the Fourth Circuit in Grubb.® By contrast, 
+the rule advocated by the government would vastly 
+expand the scope of Section 1503. In the absence of any 
+proof that the FBI agents here were or were intended to 
+
+
+8 We are, frankly, at a loss to explain the mention in Grubb 
+of a conflict with the Ninth Circuit, since it refers to the decision 
+by the panel in this case that did not decide the question ulti- 
+mately resolved by the Ninth Circuit en banc. See Grubb, 11 F.3d 
+at 437 n.20. 
+
+
+21 
+
+
+be grand jury witnesses, the rule advocated by the gov- 
+ernment would treat any interference with the FBI’s evi- 
+dence-gathering function as an obstruction of the grand 
+jury. It would for the first time sweep within Section 1503 
+all potentially false or misleading statements to law 
+enforcement investigators, regardless of whether the 
+investigations were moored in any fashion to the grand 
+jury’s exercise of its authority. Such an unprecedented 
+expansion of the statute is wholly unwarranted by the 
+consistent decisions of every court to consider Section 
+1503. It would, moreover, swallow whole Congress’ 
+efforts to refine questions relating to the obstruction of 
+potential witnesses through Section 1512(b), notwith- 
+standing Congress’ clear efforts to avoid this result. It 
+would accomplish these objects, finally, without protect- 
+ing a single articulable government interest not already 
+addressed directly through other statutes. 
+
+
+The use of Section 1503 in this case was unfortunate, 
+unprecedented, unwarranted and ill-conceived. The 
+unanimous decision of the en banc Court does not merit 
+further review. 
+
+
+B. Section 2232(c) 
+
+
+In a case of first impression, although of no special 
+importance, the government asks the Court to construe 
+Section 2232(c) contrary to its plain terms based upon a 
+supposed legislative purpose unexpressed in the statute 
+or its legislative history. Section 2232(c) protects the 
+secrecy of authorizations to intercept electronic commu- 
+nications while such authorizations are in effect or while 
+
+
+22 
+
+
+applications for authorization are pending. Once a wire- 
+tap authorization has expired, or an application for 
+authorization has been denied, Section 2232(c) no longer 
+prohibits its disclosure. While the government might 
+assert a limited interest in protecting the secrecy of 
+expired wiretaps, Congress expressly confined Section 
+2232(c) to pending or ongoing wiretap authorizations. 
+The government does not supply a reasoned interpreta- 
+tion of the language, a single precedent, or legislative 
+history that would dictate a contrary result. This Court's 
+review is wholly unwarranted. 
+
+
+1. The Plain Language of Section 2232(c) is Incon- 
+sistent with the Interpretation the Government 
+Proposes and the Interests it Seeks to Protect 
+
+
+18 U.S.C. § 2232(c) provides: 
+
+
+Whoever, having knowledge that a Federal 
+investigative or law enforcement officer has 
+been authorized or has applied for authorization 
+under chapter 119 to intercept a wire, oral, or 
+electronic communication, in order to obstruct, 
+impede or prevent such interception, gives notice 
+or attempts to give notice of the possible inter- 
+ception to any person shall be fined under this 
+title or imprisoned not more than five years, or 
+both. 
+
+
+18 U.S.C. § 2232(c) (1988) (emphasis supplied). In the only 
+reported opinion to construe this provision, the en banc 
+court confirmed what is clear from the plain language of 
+the statute: “the purpose of the statute is to prevent 
+interference with ‘possible interception.’” Pet. at 9a. 
+Once a wiretap has expired or been denied, the Ninth 
+
+
+23 
+
+
+Circuit reasoned, there is no “possible interception” to 
+disclose or to attempt to disclose. Id. The “plain lan- 
+guage” of Section 2232(c) does not prohibit the conduct 
+alleged in this case. Id. That narrow purpose is further 
+evidenced by the statute’s intent requirement, which 
+limits punishable disclosures to those undertaken with 
+intent to interfere with “such interception” of which the 
+defendant has knowledge. See id. Under the circum- 
+stances, the disclosure of an expired wiretap not only 
+fails to violate the terms of the statute, it also fails to 
+implicate any interest protected by Section 2232(c). 
+
+
+The Petition is completely devoid of a reasoned, 
+alternative explanation accounting for all the terms of the 
+statute. The government simply reads the phrase “possi- 
+ble interception” out of the statute. It baldly asserts that 
+“there is no basis in the statutory language for the court 
+of appeals requirement that [] obstruction be possible at 
+the time the disclosure was made.” Pet. at 23 (emphasis 
+supplied). Even in its own flawed argumentation, the 
+government cannot avoid using the very language of the 
+statute to express the requirement it inexplicably claims 
+to be unable to locate. The government likewise simply 
+ignores the limited intent requirement, or as it did below, 
+asserts incorrectly that the statute punishes disclosures 
+designed to interfere with government investigations. See 
+Brief For the United States of America (Aug. 9, 1991) at 
+38-39. The government's reading of Section 2232(c) vio- 
+lates “the settled rule that a statute must, if possible, be 
+construed in such fashion that every word has some 
+operative effect.” United States v. Nordic Village, Inc., 112 
+S. Ct. 1011, 1015 (1992). As the Ninth Circuit concluded, 
+
+
+24 
+
+
+the interpretation of Section 2232(c) that the government 
+urges on this Court is not even “reasonable.” Pet. at 8a. 
+
+
+2. The Government Provides No Meaningful 
+Authority that Would Contradict the Plain 
+Meaning of Section 2232(c) 
+
+
+The government provides literally no precedent, even 
+by analogy, that might suggest that Section 2232(c) has a 
+broader meaning or purpose than its terms reflect. See 
+Pet. at 20-25. Essentially, the government relies on a single 
+piece of evidence to make its case: “an isolated phrase in 
+a Senate Committee Report.” Pet. at 10a; see Pet at 23-24. 
+Given the unambiguous terms of Section 2232(c), resort to 
+legislative history is inappropriate. See Sullivan v. Stroop, 
+496 U.S. 478, 482 (1990); United States v. Turkette, 452 U.S. 
+576, 580 (1981). As the en banc court noted, “[i]t is only if 
+the language is unclear that [a court] refer[s] to legislative 
+history as an aid to statutory interpretation.” Pet. at 10a 
+(citing Blum v. Stenson, 465 U.S. 886, 896 (1984)). 
+
+
+Even if resort to legislative history were appropriate, 
+the Senate Report does little to advance the government's 
+cause. In summarizing Section 2232(c), the Senate Report 
+on which the government relies notes that “[t]he defen- 
+dant must engage in conduct of giving notice of the 
+possible interception to any person who was or is the 
+target of the interception.” See S. Rep. No. 541, 99th 
+Cong., 1st Sess. 1, 34 (1986), reprinted in 1986 
+U.S.C.C.A.N. 3555, 3588; Pet. at 23 (emphasis supplied). 
+From the use of the single word “was,” the government 
+contends that Section 2232(c) was intended to reach 
+expired wiretaps. See Pet. at 23-24. 
+
+
+rar fee OUD 
+
+
+25 
+
+
+The most that can be said for the sentence on which 
+the government relies, however, is that it represents a 
+sloppy effort to capture the terms of Section 2232(c). It 
+describes a statute broader in some respects and nar- 
+rower in others than the provision Congress actually 
+enacted. By its plain terms, the statute does not reach 
+disclosures to someone who “was” a target of the inter- 
+ception, since it encompasses only “possible intercep- 
+tion[s].” At the same time, the statute is plainly not 
+limited, as the report suggests, only to disclosures to the 
+“target of the interception.” Rather, as all parties agree, 
+the statute reaches disclosures made to anyone with the 
+intent to impede the known interception.’ 
+
+
+3. The First Amendment and the Rule of Lenity 
+Preclude the Government's Interpretation 
+
+
+The government's interpretation of Section 2232(c) 
+also runs afoul of the First Amendment and the Rule of 
+Lenity. This Court has made clear time and again that 
+where the interests of the First Amendment and the gov- 
+ernment collide, the government bears the burden of 
+
+
+9 The government's reliance on the fact that Section 2232(c) 
+punishes attempted disclosures, see Pet. at 24, is a red herring. 
+Contrary to the government's assertion, the Ninth Circuit did 
+not find that “the statute requires proof that the defendant be 
+shown to have succeeded in obstructing the interception of a 
+wire communication.” Id. at 23; compare id. at 12a-13a. There is 
+no dispute that Section 2232(c) punishes the “attempts to give 
+notice of [a] possible interception.” 18 U.S.C. § 2232(c). “The 
+issue in this case is not whether Judge Aguilar attempted to 
+disclose prohibited wiretap information, but whether the wire- 
+tap information he did disclose was prohibited.” Pet. at 13a. 
+
+
+26 
+
+
+demonstrating a compelling “state interest of the highest 
+order” before it may punish the disclosure of informa- 
+tion. Smith v. Daily Mail Pub. Co., 443 U.S. 97, 103 (1979). 
+It may be that under certain circumstances, the govern- 
+ment can assert a compelling interest in preventing the 
+disclosure of the existence of a wiretap authorization or 
+application. !° 
+
+
+However, the issue here is not whether the govern- 
+ment ever could identify such an interest, but whether it 
+can identify such an interest, consistent with the statute, 
+for a wiretap that has long-since expired.'! Before the 
+Ninth Circuit, the government argued that it had a com- 
+pelling interest in protecting law enforcement interests 
+
+
+10 That question is not free from doubt. The Court has 
+specifically reserved the question of whether the First Amend- 
+ment permits the criminal punishment of “one who secures 
+_. . information by illegal means and thereafter divulges it.” 
+Landmark Communications, Inc. v. Virginia, 435 U.S. 829, 837 
+(1978). 
+
+11 The interest that the government identifies also must be 
+consistent with the facts of this case. As the government has 
+acknowledged, see Pet. at 43a, 87a, 91a, at least a substantial 
+portion of Judge Aguilar’s suspicions about electronic surveil- 
+lance arose from the fact the government chose to conduct a 
+public surveillance of Chapman from a car parked in front of 
+Judge Aguilar’s house. It would be “highly anomalous” to pun- 
+ish Judge Aguilar for commenting upon activities the govern- 
+ment chose to conduct in public. See The Florida Star v. B.J.F., 491 
+U.S. 524, 535 (1989). The First Amendment requires the govern- 
+ment to demonstrate that it has eliminated the risk of wrongful 
+disclosure “through careful internal procedures” before it may 
+impose criminal penalties on outsiders. Landmark Communica- 
+tions, Inc., 435 U.S. at 845. This Court has yet to identify a 
+circumstance in which the government has met its burden. 
+
+
+—. eo 
+
+
+27 
+
+
+generally or in future efforts at electronic surveillance. 
+See Brief for the United States of America (Aug. 9, 1991) 
+at 38-39; see also Pet. at 39a. Recognizing that Section 
+2232(c) does not even purport to protect these interests — 
+since by its terms it protects only attempts to interfere 
+with the particular interception that has been disclosed — 
+the government has retreated from that argument here. 
+Instead, it now argues that it has a compelling interest in 
+the protection of the secrecy of extensions and re-authori- 
+zations of wiretaps. Pet. at 22. That interest, however, is 
+not even arguably implicated by the government's efforts 
+to apply Section 2232(c) to the facts of this case. The 
+wiretap application of which Judge Aguilar allegedly was 
+aware resulted in an interception that terminated 30 days 
+after it was begun, Pet. at 5a; it was never extended or re- 
+authorized, id., and had been completely defunct for 
+
+
+nearly eight months when the alleged disclosure was 
+made. Id. 
+
+
+There may come a time when this Court is presented 
+with the question of whether disclosure of an application 
+or authorization for a wiretap violates Section 2232(c) 
+when the wiretap has been extended or re-authorized. At 
+that time, this Court also will be called upon to decide 
+whether such an interpretation conflicts with the First 
+Amendment. But this is, indisputably, not such a case. 
+Despite its repeated efforts, the government cannot iden- 
+tify an interest within the reach of Section 2232(c) that 
+would warrant punishing the disclosure of expired wire- 
+taps. Its utter failure fully supports the Ninth Circuit's 
+refusal to embrace a Constitutional confrontation by 
+
+
+Ronn ae 
+
+
+28 
+
+
+broadly construing Section 2232(c). See Edward J. DeBar- 
+tolo Corp. v. Florida Gulf Coast Bldg. & Constr. Trades Coun- 
+cil, 485 U.S. 568, 575 (1988).?? 
+
+
+¢ 
+
+
+12 As the Ninth Circuit noted in conclusion, even if the 
+government's interpretation of Section 2232(c) were possible 
+because of some ambiguity, “the more lenient construction is 
+required.” Pet. at 24a-25a. This Court has long emphasized that 
+“ambiguity concerning the ambit of criminal statutes should be 
+resolved in favor of lenity.” United States v. Bass, 404 U.S. 336, 
+347 (1971) (quoting Rewis v. United States, 401 U.S. 808, 812 
+(1971)). Thus, if any “reasonable doubt persists about a statute’s 
+intended scope even after resort to ‘the language and structure, 
+legislative history and motivating policies’ of the statute,” 
+Moskal v. United States, 498 U.S. 103, 108 (1990), it should be 
+construed narrowly. See also United States v. Granderson, 114 S. 
+Ct. 1259, 1267 (1994). 
+
+
+29 
+
+
+Ill. CONCLUSION 
+
+
+For the foregoing reason, Respondent respectfully 
+asks that the Petition for Certiorari be denied. 
+
+
+Respectfully submitted. 
+
+
+Rosert D. Luskin* 
+
+JoserpH G. Davis 
+
+Comey Boyp & LuskIN 
+
+1800 M Street, N.W., 
+
+Suite 575 South 
+
+Washington, D.C. 20036-5869 
+
+
+Pau. B. MELTZER 
+
+Peter A. LEEMING 
+
+Law Orrices Or Mettzer & LEEMING 
+A Professional Corporation 
+
+340 Soquel Avenue, Suite 212 
+Santa Cruz, CA 95062 
+
+
+Attorneys for Robert P. Aguilar 
+
+
+* Counsel of Record 
+
+
+oe Ul ire ie? 
+
+

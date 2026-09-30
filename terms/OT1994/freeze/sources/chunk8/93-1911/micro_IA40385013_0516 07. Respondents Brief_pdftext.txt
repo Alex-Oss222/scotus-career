@@ -1,0 +1,1234 @@
+                                      In The
+
+Supreme Court of the United States
+
+                           October Term, 1994
+                                          o
+
+         CINDA SANDIN, Unit Team Manager,
+                Halawa Correctional Facility,
+
+                                                                           Petitioner,
+                                         vs.
+
+DeMONT                  R.D. CONNER,
+                                              Respondent.
+
+                           o
+
+ On Writ Of Certiorari To The
+
+United States Court Of Appeals
+
+        For The Ninth Circuit
+
+                             ®
+
+RESPONDENT'S BRIEF
+
+                     ¢
+
+Peter LABRADOR          Paut L. HorrmMan          90401
+550 Halekauwila Street  (Counsel of Record)
+Suite 300               Gary L. Bostwick
+Honolulu, Hawaii 96813  Erwin CHEMERINSKY
+(808) 538-7761          Law OFFICES OF
+
+                           Paut L. HorrMan
+                        100 Wilshire Boulevard
+                        Suite 1000
+                        Santa Monica, California
+                        (310) 260-9585
+
+Counsel for Respondent
+
+ DeMont R.D. Conner
+                     QUESTION PRESENTED
+
+     Whether Hawaii regulations that require a finding or
+admission of guilt of "serious misconduct" before disci-
+plinary segregation may be imposed as a punishment
+create a liberty interest under the Due Process Clause.
+                         TABLE OF CONTENTS                                           TABLE OF CONTENTS --- Continued
+                                                                               Page
+                                                                                                                                 Page
+QUESTION PREBEITERD. .....cccccccscccesissvensns i
+                                                                                     1. The Hawaii Regulations Contain "Sub-
+TABLE OF AUTEOORITERS oo cc ccccccccccccsccncsees Vv                                      stantive Predicates" Limiting Official
+                                                                                          Discretion Before Punishment for Mis-
+STATEMENT OF THE CASE... ........2.cccecccees 1                                           conduct May Be Imposed............ 16
+
+   A. Epbondbeeetla. 2 osc ccccsccsccscccsesucessnanun 1                             2. Prison Administrators May Impose
+                                                                                          Discipline Only After a Finding or
+   B. Background of the Litigation................. 2                                     Admission of Misconduct............ 21
+
+        1. The August 13, 1987, Incident............ 2                               3. The Thompson Decision Does Not
+
+        2. The August 28, 1987, Hearing............ 4                                Condition the Creation of a "Liberty
+
+   C. The Hawaii Prison Disciplinary Regime...... 6                                  Interest" Upon Regulations that Man-
+
+   D. Tiele Lithgatiem .....cccccccccccscsssuseenccee 9                              CE                                          23
+
+         1. Proceedings in District Court ............ )                             4. The Limitations on Officer Discretion
+
+         2. Proceedings in the Court of Appeals..... 10                              at Issue Herein Are Substantive Lim-
+
+SUMMARY OF ARGUMENT.................-++.-- 11                                        a                                           26
+
+ARGURGEINT «oo cccccesccsececenessssapieueeeneee 16                                  B. The Fact That Respondent Might Have
+
+    I. HAWAII PRISON REGULATIONS GOVERN-                                             Been Confined to the Special Holding Unit
+         ING DISCIPLINE ARE WRITTEN IN MANDA-
+         TORY LANGUAGE LIMITING THE                                                  For Classification or Other Non-Punitive
+         DISCRETION OF PRISON OFFICIALS AND
+        THUS CREATE A "LIBERTY INTEREST" IN                                          Reasons Does Not Undermine Respon-
+         REMAINING FREE FROM DISCIPLINARY
+        SEGREGATION ABSENT A FINDING OR                                              dent's Liberty Interest in Avoiding Disci-
+         ADMISSION OF MISCONDUCT ............. 16
+                                                                                     plinary Segregation As a Punishment for
+        A. Hawaii's Regulations Create a Right to be
+               Free from Disciplinary Segregation or                                 Ech  hi hvhvererecccecccescces: 27
+               Other Punishment in the Absence of a
+               Finding or Admission of "Serious Miscon-                              A Prisoner Need Not Lose Good Time
+               Gnet.©... oc cctccccecessecnneteeenaeseenaenn 16
+                                                                                     Credits or Have His Parole Date Affected
+                                                                                     Before He Possesses A Liberty Interest in
+                                                                                     Avoiding Arbitrary Punishment in Prison... 31
+
+                                                                                     Because Parole in Hawaii May Be Denied
+                                                                                     As Well As Rescinded After It Has Been
+                                                                                     Granted Based upon an Inmate's Miscon-
+                                                                                     duct Record, The Holding and Rationale of
+
+                                                                                     Wolff v. McDonnell Apply to Hawaii's Dis-
+
+                                                                                     ciplinary Regulations.................... 32
+   iv                                                                      Vv
+
+TABLE OF CONTENTS - Continued                                              TABLE OF AUTHORITIES
+                                                                Page                                                               Page
+
+E. The State Is Not Significantly Burdened                            Cases:
+                                                                      Allen v. City and County of Honolulu, 816 F.Supp.
+and Federalism Is Not Offended By Judi-
+                                                                         Se GY WEEDS S:diivndbse Geseeteeevenschseoes 28
+cial Recognition that Hawaii Law Creates a
+                                                                      Bell v. Wolfish, 441 U.S. 520 (1979) ....14, 28, 39, 41, 42
+Liberty Interest that Prisoners Not Be Sub-
+                                                                      Board of Pardons v. Allen, 482 U.S. 369 (1987)........ 18
+jected to Disciplinary Segregation Without
+                                                                      Board of Regents v. Roth, 408 U.S. 564 (1972)......... 31
+4  Rr re rere 34
+
+F. Fundamental Principles of Stare Decisis                            Cleavinger v. Saxner, 474 U.S. 193 (1985)............. 47
+     Stand in the Way of Petitioner's Radical
+     Reworking of This Court's Due Process
+     PUCIROREETIED «0c cc ccccnvccncasnccescceess 36
+
+Il. THE DUE PROCESS CLAUSE, INDEPEN-                                  Cam ©. Comm, GID UD. 756 (IGTE). oc cece tii cccccess 32, 43
+      DENT OF LIBERTY INTERESTS EMANATING
+      FROM STATE LAW, REQUIRES THAT FAIR                              Fisher v. Koehler, 692 F.Supp. 1519 (S.D.N.Y. 1988) .... 38
+      PROCEDURES BE EMPLOYED BEFORE
+      IMPOSING PUNISHMENT LIKE THAT                                   Flemming v. Nestor, 363 U.S. 603 (1960).............. 39
+      IMPOSED UPON RESPONDENT............. 39
+                                                                      Gilbert v. Frazier, 931 F.2d 1581 (7th Cir. 1991)....... 19
+
+                                                                      Gene O Capek, GED WB. TE (UGG oc ccc cccccscccceses 16
+
+A. The Imposition of Substantial Punishment                           Green v. Ferrell, 801 F.2d 765 (5th Cir. 1986)......... 19
+      is a Liberty Deprivation Meriting Due Pro-
+      CONS FURRREIIOGR on neccraserecsepsgucevess 39                  Greenholtz v. Inmates of Nebraska Penal Cor. Com-
+                                                                         , Ge We OF OE 68 hb sebcovecsccsessencen: 18, 46
+B. The Court's Prior Decisions Acknowledge
+     that Substantial Punishments Require Due                         Haines v. Kerner, 404 U.S. 519 (1972)................. 32
+     FUSGEED FURERGIGES «occ scccccceneccvecses 42
+                                                                      Hatori v. Haga, 751 F.Supp. 1401 (D.Haw. 1989)...... 28
+
+C. The Consequences of Prison Punishment                              Hewitt v. Helms, 459 U.S. 460 (1983)............. passim
+     Go Beyond the Sanction Imposed and
+      Have a Pervasive Effect on Liberty...... 44                     Hughes v. Rowe, 449 U.S. 5 (1980) ...........0005. 17, 43
+
+D. Important Policy Considerations Support                            Ingraham v. Wright, 430 U.S. 651 (1977).............. 39
+      the View that Substantial Prison Punish-
+                                                                      Kennedy v. Mendoza-Martinez, 372 U.S. 144 (1963)
+      ments Cannot be Imposed Without Due                               in eden acdh verre se deed + éPRESs Ceetennceererelhs 39, 41, 42
+      PORE oc cccvetncecctvess,ceteredepeterss 47
+
+CEILS o vecvecivdebsqicvddevessveuseaueowns 49                        Kentucky Dep't. of Corrections v. Thompson, 490 U.S.
+
+                                                                      EES  Fr PR PE: OP an ee ye re                         passim
+     vi                                                                                                                         vii
+
+     TABLE OF AUTHORITIES - Continued                                                     TABLE OF AUTHORITIES - Continued
+                                                                        Page                                                                                  Page
+
+LaMarca v. Turner, 995 F.2d 1526 (11th Cir. 1993),                            Siegert v. Gilley, __ U.S. ___, 111 S.Ct. 1789 (1991) .... 36
+   cert. denied, 114 S.Ct. 1189 (1994). ..............0.. 38                  Smith v. Shettle, 946 F.2d 1250 (7th Cir. 1991),....... 25
+
+Layton v. Beyer, 953 F.2d 839 (3d Cir. 1992).......... 25                     Templeman v. Gunter, 16 F.3d 367 (10th Cir. 1994) .... 44
+
+McCann v. Coughlin, 698 F.2d 112 (2d Cir. 1983)..... 42                       United States v. Salerno, 481 U.S. 739 (1987).......... 28
+
+MCI Telecommunications v. American Tel. & Tel.,                               Vitek v. Jones, 445 U.S. 480 (1980) ............... passim
+
+CS,  ,.FR Be Be GSE Sv ence ccctsccvceess 22                                  Wallace v. Robinson, 940 F.2d 243 (7th Cir. 1991)..... 29
+
+Meachum v. Fano, 427 U.S. 215 (1976)..... 14, 24, 28, 40                      Washington v. Harper, 494 U.S. 210 (1990)..... 18, 32, 40
+
+Mendoza v. Blodgett, 960 F.2d 1425 (9th Cir. 1992),                           Wolff v. McDonnell, 418 U.S. 539 (1974).......... passim
+   cert. denied, 113 S.Ct. 1005 and 113 S.Ct. 1027                            Wong Wing v. United States, 163 U.S. 228 (1896) ..... 39
+   GDUGD sock ci ccdsciccnnsvensoesaddpeeceredoneseyeer 25
+                                                                              Wright v. Enomoto, 434 U.S. 1052 (1978) ............. 17
+Montanye v. Haymes, 427 U.S. 236 (1976).......... 28, 41
+                                                                              Wright v. Enomoto, 462 F.Supp. 397 (N.D. Cal. 1976) .... 17
+Morrisey v. Brewer, 480 U.S. 471 (1971) ....... 15, 46, 48
+
+Mujahid v. Apao, 795 F.Supp. 1020 (D.Haw. 1992) 19, 23
+
+Newell v. Brown, 981 F.2d 880 (6th Cir. 1992), cert.                          CONSTITUTION AND STATUTES:
+   Goriad, 194 GAN. THF CIGGED occccccvccccccccccces .. 44
+
+O'Bar v. Pinon, 953 F.2d 74 (4th Cir. 1991)........... 44                     rid             cheb kwles oeds sense  aiweton 10
+
+Olim v. Wakinekona, 461 U.S. 238 (1983) .......... 24, 28                     sy                          weg edinneos6-ceewdeawnces 43
+
+Paul v. Davis, 424 U.S. 693 (1974) ..... 6.6 cc cece eee 36                   ee ee iw        abe deen buses dodedcedssanecesees 32
+
+Perez v. Brownell, 356 U.S. 44 (1958)............0006. 41                     Haw. Rev. Stat. §§ 353-68, 353-69 (1985)............. 33
+
+Perry v. Sinderman, 408 U.S. 593 (1972)...........45. 36                      Seer, TOUS, TOE, © BPROD oc ce ccccctcccsecceecees 45
+
+Planned Parenthood v. Casey, __ U.S. __, 112 S.Ct.                            Haw. Rev. Stat. § 354D-1, et seq. (1985 & Supp.
+   BNE BPR von eicccsscicoscannetuseasiineséi« 14, 37
+                                                                              DM            cvehsreeeehisavdentess bdvescacedencaeaeen 45
+
+Schroeder v. McDonald, 823 F.Supp. 750 (D.Haw.                                REGULATIONS:
+   i s.knt bas cecdtecdeeeewedantedekevnGéissheceocses 28
+
+Sher v. Coughlin, 739 F.2d 77 (2d Cir. 1984).......... 19                     Haw. Admin. R.
+
+                                                                              Se  ID          Dik pos 4db se ciccccedencaeens 4, 22
+   Vill                                                                         ix
+
+   TABLE OF AUTHORITIES -- Continued                                        TABLE OF AUTHORITIES -- Continued
+                                                                      Page                                                                    Page
+
+Po ike ksbe ose ends tnd vesese st canenees 6, 20, 22                       ns   2 oc bverséecnevedeks suedendvucesounae 8
+                                                                            TN  bs osc 0d nbenedhv e ea neeckee ne es 6, 8, 21
+Si ins nb es 00s 006s cndcb sane tes daeneekeete 4                          6a
+Bre Oe Be ot PPrreeerererrrreriiee 4, 8, 20                                 EE      bb KA6-1060056 doekds oi awedddeneeos 5, 8
+§§ 17-201-6(b); 17-201-7(b); 17-201-8(b);                                   i   6 cng 6k odo 0s knee kd0 bs 50 bbeneehaneennl 6
+SFE CPO OREEED 6 6 ce ccncccnscvovecseoneces 42                             i    cctedduéenbishan ovdyeeees 8, 21, 22, 23
+ET cc bncccdetcosececeatcdtebecessescesceieses 4                            cr  chs sbu bkdeus dhe rensceeupnceogeten 33, 46
+
+DD PM a cc ccccduencsncsenevesadsvcvesevesesesens 4                               cis bok ti siwasdiseevateeceseateanes 33
+
+SPE owas vcvenceviccccdenwnabdvestecsevineenss 4
+
+SPE ncn sccccccdacecccesucadeseatercoevennen 4                              OrHer MAreriats:
+
+PIED bv vt co ccncdntccusenshegsscsssaccusaieans 4                          O. Holmes, The Common Law 3 (1881)............... 40
+
+DS GME hod beeecnctecdeeadnesddectenccnasess 7, 20                          Susan N. Herman, The New Liberty: The Procedural
+                                                                               Due Process Rights of Prisoners and Others Under
+§§ 17-201-12 through 17-201-20...............60055. 6                          the Burger Court, 59 N.Y.U.L. Rev. 482, 526 (1984) .... 36
+
+OB BF-BBRED Oe BFDERGED ..cc cccccscvccccccccvcsees 7                       Initial Report of the United States of America to
+                                                                               the U.N. Human Rights Committee Under the
+PPE os ce cccb en cecdcccceesucceeceevecesen 7                                 International Covenant on Civil and Political
+                                                                               Rights, United States Department of State (July
+De PPD bc vescccccctededcccdecesacentcoesbege 7                                Se eS PD Sarre ey ee ree here ren pe ee 37
+
+f  - =BAPVTTTTTTIT ITTTT eIerITtrT 7                                        Parole Handbook, Hawaii Paroling Authority........ 46
+
+DS TPE bo ocacccceccevensesescesesdecvessanes 7
+
+Dy EP 6 6550 cvececectennesnocedecescosee rk
+
+I  osc ac reccoecestevesewestiedeneetsaau 7
+
+2. | MOWATT ITTTTTT LTTTT ree  7,8
+
+da ccccccccsdssconcccveceesetpecaeusest 8
+
+PRS. 1... cio, Jelvesenaeemnditendal 4
+                                   No. 93-1911
+
+                                                   ¢
+
+                                          In The
+
+  Supreme Court of the United States
+
+                               October Term, 1994
+                                           o
+
+              CINDA SANDIN, Unit Team Manager,
+                       Halawa Correctional Facility,
+
+                                                                        Petitioner,
+                                             vs.
+
+                      DeMONT R.D. CONNER,
+                                                                Respondent.
+
+                                       +
+                  On Writ Of Certiorari To The
+                United States Court Of Appeals
+
+                        For The Ninth Circuit
+
+                                                   ¢
+
+                        RESPONDENT'S BRIEF
+
+                                                   ¢
+
+                   STATEMENT OF THE CASE
+
+A. Introduction.
+
+      As this Court underscored in Wolff v. McDonnell, 418
+U.S. 539, 555-56 (1974), "[t]here is no iron curtain drawn
+between the Constitution and the prisons of this country"
+and "a prisoner is not wholly stripped of constitutional
+protections when he is imprisoned for crime."
+
+      In this case the State of Hawaii seeks to eviscerate
+constitutional due process protections in a wide range of
+cases in which prisoners seek essential guarantees of
+procedural fairness when state laws provide liberty inter-  segregation in operation at the time,! but this status was
+ests as this Court has defined them in cases following      reviewed after only 8 days and he was placed back in the
+Wolff. This radical request to abandon long-established     general population. [J.A. 237]. It appears that the August
+due process jurisprudence is unwarranted under any cir-     1987 incident at issue in this case led to a spiral of
+cumstances. It is especially unwarranted in the context of  disciplinary issues between Respondent and prison
+the issues presented in this case.                          authorities. [J.A. 237-242].
+
+B. Background of the Litigation.                                  The August 13, 1987, incident itself began when
+                                                            Respondent left his cell to attend a religious session. [J.A.
+      1. The August 13, 1987, Incident.                     93]. Adult Corrections Officer ("ACO") Furtado ordered
+                                                            Respondent to go through a strip search procedure in a
+      Respondent, DeMont Conner, was incarcerated in        way Respondent believed was abusive and degrading.
+Halawa Correctional Facility ("HCF") starting in Septem-    [Pet. App. A63]. Sergeant Summers was present during
+ber 1985. By the end of 1986 Respondent had made excel-     the incident and cancelled Respondent's religious visit
+lent progress at HCF; the Administrator of the facility     and ordered him to be returned to his cell.
+noted "a remarkable change in his attitude and behavior."
+[J.A. 101]. He consistently received favorable evaluations        Shortly after the August 13, 1987 incident ACO Fur-
+at his work assignment. [J.A. 102-124].                     tado filed a report of Respondent's alleged misconduct.
+                                                            [Pet. App. A61]. Another officer, ACO Johnson conducted
+      Respondent was assigned to the general population     a brief investigation of the incident and filed a report that
+at the time of the August 13, 1987, incident which is the   was submitted to the prison Adjustment Committee. [Pet
+subject of this case. [CR 83, Exhibits "C" and "K"]. He     App. A61-63]. Respondent was notified of the charges
+had the opportunity to work and participate in educa-       against him and given the opportunity to appear at an
+tional and other programs at the facility. [J.A. 101].      August 28, 1987, hearing before an Adjustment Commit-
+Between his September 3, 1985 arrival at HCF and the        tee chaired by Petitioner. Respondent acknowledged that
+August 13, 1987, incident, Respondent was found guilty      he complained to Furtado about the harassment he expe-
+of only one other incident of misconduct on January 1,      rienced during the incident but Respondent denied at all
+1987. [J.A. 369; CR 83, Exhibit "J"]. He received a 30 day
+sentence of disciplinary segregation for fighting with            ' Petitioner notes that Phase I status is no longer in opera-
+another inmate. This sentence was completed by January      tion at HCF. (Pet. Br. 6 n. 3]. Respondent agrees with Petitioner's
+30, 1987. After the expiration of this sentence Respondent  contention that this case is not moot because of this change in
+was assigned to Phase I status, a form of administrative    the rules relating to administrative segregation. In Respon-
+                                                            dent's view, this case concerns only issues of the punishment of
+                                                            disciplinary segregation for misconduct.
+times that he had engaged in conduct that would justify a         moderate" misconduct charges. [Pet. App. A66]. Respon-
+finding of "serious misconduct." [Pet. App. A63}].?               dent received notice of these charges on August 25, 1987.
+                                                                  [J.A. 45].°
+     2. The August 28, 1987, Hearing.
+                                                                        The hearing took place on August 28, 1987. [J.A. 46].
+     Under Title 17 of the regulations governing the cor-         Respondent was present and pled not guilty to all
+rections division of the Hawaii Department of Social Ser-         charges. Apparently, no prison staff testified at the hear-
+vices and Housing, inmates are intended to have all of            ing. The Adjustment Committee relied on the written
+the "rights" set forth in subtitle 2 of these regulations         reports made by Officers Furtado and Johnson. [Pet. App.
+governing the "adjustment process." These regulations             A67].4
+provide for "punishment" only for "specific rule viola-
+tions."                                                                 Respondent was not permitted to call staff witnesses
+                                                                  he asserted would clear him of the charges. [Pet. App.
+     Sections 17-201-6 to 17-201-11 set forth prohibited          A66]. The only reason given for the refusal to allow
+acts amounting to "greatest misconduct" (§ 17-201-6),             Respondent to call staff witnesses was Petitioner Sandin's
+"high misconduct" (§ 17-201-7), "moderate misconduct"             written statement that "[wlitnesses were unavailable due
+(§ 17-201-8), "low moderate misconduct" (§ 17-201-9),             to move to the medium facility and being short staffed on
+"minor misconduct" (§ 17-201-10), and "adjustments"               the modules." [Pet. App. A67].
+(§ 17-201-11). [Pet.Br. 7-16].
+                                                                        Respondent was found guilty of all of the misconduct
+      Respondent was charged with using "physical inter-          charges filed against him and was sentenced to 30 days
+ference or obstacle resulting in the obstruction, hin-            disciplinary segregation on the high misconduct charges,
+derance, or impairment of the performance of a                    as provided in § 17-201-19. [Pet. App. A66]. He received
+correctional function of a public servant," a high miscon-        four hours disciplinary segregation on the low moderate
+duct offense. [Pet. App. A65]. He was also charged with           misconduct charge. [Pet. App. A66]. He served the 30
+using "abusive or obscene language to a staff member"             days.
+and engaging in "[h]arassment of employees," both "low
+                                                                       % Officer Furtado's report is dated August 13, 1987. [Pet.
+      2 Respondent also contended that Sergeant Summers, the      App. A61]. Officer Johnson's report on his investigation into the
+officer on the scene who cancelled his religious visit, was       incident is dated August 14, 1987. [Pet. App. A62-63]. There is
+harassing him because of the legal assistance Respondent was      no explanation in the record concerning the reason for the delay
+providing to other inmates. [J.A. 93]. It is not clear whether    between August 14 and August 25 in notifying Respondent of
+prison officials ever considered this allegation of retaliation.  the charges against him.
+
+                                                                       * There is no transcript, tape or other record of the proceed-
+
+                                                                  ing.
+      Respondent filed an administrative appeal under         they will not be found guilty of misconduct or punished
+§ 17-201-20(a). On May 16, 1988, after Respondent filed       as a result of such a finding unless there is "substantial
+this federal civil rights action in March 1988, Deputy        evidence" of their guilt of specific misconduct.
+Administrator Pikini overturned the Adjustment Com-
+mittee's findings of high misconduct and expunged those             In addition, Hawaii's regulations provide mandatory
+charges from his record. [Pet. Br. 15]. Respondent had        procedures for determining whether an inmate has vio-
+already served the entire sentence on the high miscon-        lated a rule. An inmate accused of "serious misconduct,"5
+duct charge. The findings of "low moderate" misconduct        "shall" be punished only pursuant to the procedures in
+remain on his record.                                         §§ 17-201-13 to 17-201-20. [Pet. Br. 16-24]. The regulations
+                                                              provide for notice and a hearing before an unbiased
+C. The Hawaii Prison Disciplinary Regime.                     adjustment committee normally composed of three mem-
+                                                              bers. [Pet. Br. 16-18]. The inmate "shall" receive prior
+      Hawaii's prison regulations limit the administrator's   notice of the hearing. § 17-201-16(a). The inmate "shall"
+discretion to impose disciplinary segregation for "serious    be served with written notice of the time and place of the
+misconduct" in the absence of a finding or an admission       hearing and the specific charges, including a brief nota-
+of guilt. The regulations provide for "punishment" only       tion of the facts not less than twenty-four hours before
+for "specific rule violations." § 17-201-4. Punishment for a  the hearing. § 17-201-16(b). The inmate or counsel substi-
+"serious rule violation" may not occur absent a finding or    tute "shall" have the opportunity to review all relevant
+admission of guilt. §§ 17-201-12 through 17-201-20. Sec-      non-confidential reports of misconduct during the period
+tion 17-201-18(b) states that a "finding of guilt shall be    between the notice and the hearing. § 17-201-16(c). The
+made where:                                                   misconduct report "shall" contain specific information
+                                                              about the charge, the facts and witnesses. § 17-201-16(d).
+      (1) the inmate or ward admits the violation or
+pleads guilty; or                                                  Unless institutional safety or the good government of
+                                                              the facility would be jeopardized, an inmate has a "right
+     (2) the charge is supported by substantial evi-          to appear" at the hearing. § 17-201-17(a). An inmate has a
+dence." (Emphasis supplied).                                  "right" to remain silent. § 17-201-17(c). Subject to specific
+                                                              limitations an inmate has the "right" to confront and
+     There appears to be no way in which punishment for
+misconduct may lawfully be imposed under the Hawaii                5 "Serious misconduct" is defined as a "serious rule viola-
+regulations without a prior finding or admission of guilt     tion . . . which poses a serious threat to the safety, security, or
+of a "specific rule violation." Thus, inmates in Hawaii       welfare of the staff, other inmates or wards, or the institution
+prisons have a legitimate expectation based on the            and subjects the individual to the imposition of serious penal-
+explicit mandatory language in Hawaii's regulations that      ties such as segregation for longer than four hours." § 17-201-12.
+cross-examine witnesses against him. § 17-201-17(e). An       D. This Litigation.
+inmate has a "right" to respond to the evidence intro-
+duced against him, § 17-201-17(f), and "shall" be permit-           1. Proceedings in District Court.
+ted to employ substitute counsel. § 17-201-17(g).
+                                                                   Respondent filed his original complaint on March 14,
+      Under § 17-201-18(a) an inmate has a "right to be       1988. [J.A. 20]. In its Order Granting In Forma Pauperis
+                                                              Application, the District Court recognized that due pro-
+apprised of the findings of the Adjustment Committee."        cess was required for the imposition of sanctions for
+The Adjustment Committee may "render a decision based         major misconduct based on Wolff v. McDonnell, 418 U.S.
+upon evidence presented at the hearing to which the
+individual has an opportunity to respond or any cumula-       539 (1976). [J.A. 25-26]. Petitioner Sandin was named as a
+tive evidence which may subsequently come to light... "       defendant in the initial complaint. On May 3, 1988,
+                                                              Respondent moved to amend his complaint to add addi-
+§ 17-201-18(b). However, "disciplinary action shall be
+based upon more than mere silence." Id.                       tional defendants and to add a request for injunctive
+                                                              relief, in addition to the declaratory relief and damages
+     Under § 17-201-19, the Adjustment Committee may
+render "sanctions commensurate with the gravity of the        he sought in his initial complaint. [J.A. 27-29].
+rule and the severity of the violation." The specific pun-
+ishments are set forth in this section and in the provisions        Between March 1988 and September 1991 the parties
+defining each level of offense in §§ 17-201-6 to 17-201-11.   litigated a variety of claims in the district court. In Sep-
+                                                              tember 1989 Respondent filed a second amended com-
+      Section 17-201-20(b) permits the Administrator to ini-  plaint raising additional claims,° including claims that he
+tiate a review of the Adjustment Committee's decisions        was being subjected to a campaign of harassment and
+and to modify the Committee's findings or decisions.          retaliation in response to his activities as a jailhouse
+However, nothing in this section authorizes the Adminis-      lawyer. [J.A. 169-194]. In December 1988, Respondent
+trator to ignore the Committee's findings or decisions, as    won a preliminary injunction guaranteeing his access to
+Petitioner claims, or to impose punishment in the absence     the law library but failed to obtain interim injunctive
+of a finding of guilt or admission of misconduct.             relief on other claims. [J.A. 66-71).
+
+                                                                   On May 21, 1991, the Magistrate issued his Report
+                                                              and Recommendations Granting Defendants' Motion For
+                                                              Summary Judgment. [J.A. 325-352]. The district court
+                                                              approved the Magistrate's Report and entered summary
+
+                                                                   © Respondent continued to assert his due process claims
+                                                              arising out of the August 13, 1987, incident in his amended
+
+                                                              complaint. [J.A. 251].
+                                          10                      e + rrr                                               11
+                                                                  e en eeeee
+judgment against Respondent on all of his claims on                                 The Ninth Circuit, applying this Court's precedents,
+September 30, 1991. [Pet. App. A21-A38]."                                     found that the Hawaii regulations granted Respondent a
+                                                                              "liberty interest" in remaining free from disciplinary seg-
+     2. Proceedings in the Court of Appeals.                                  regation unless there was substantial evidence that
+                                                                              Respondent was guilty of an act of misconduct justifying
+     The Court of Appeals affirmed the District Court's                       disciplinary segregation under the regulations. Based
+Order in all respects except for two issues. The court                        upon this finding, the Court of Appeals remanded the
+overturned the District Court's summary judgment on                           case for further proceedings in the District Court.
+Respondent's First Amendment claim that his religious
+freedom was impaired by restricting prayers in Arabic.                                                                           e
+This ruling was not the subject of the Petition and the
+prison authorities have repealed the rule under which                                            SUMMARY OF ARGUMENT
+Respondent was disciplined. [Pet. Cert. 9].
+                                                                                    1. The Ninth Circuit's judgment is hardly remark-
+     The Ninth Circuit also reversed the District Court's                     able. It is based on the core principle firmly established in
+summary judgment on Respondent's claim that he was                            Wolff, supra, 418 U.S. at 571 n.19, that a prisoner may not
+denied due process at the August 28, 1987, hearing. The                       be punished for misconduct by disciplinary segregation
+Court of Appeals found that the record disclosed a genu-                      in the absence of procedures satisfying the Due Process
+ine issue of material fact as to whether Respondent was                       Clause. This Court has held that prisoners have a liberty
+denied due process because Petitioner Sandin did not                          interest protectible under the Due Process Clause when-
+explain why Respondent was not permitted to call staff                        ever explicitly mandatory language in connection with
+witnesses who he contended would support his defense                          specific "substantive predicates" in state prison regula-
+to the charge of high misconduct. [Pet. Cert. A3-A9]. The                     tions limit official discretion. Hewitt v. Helms, 459 U.S.
+court determined that the issue of whether Petitioner                         460, 472 (1983).
+Sandin was entitled to qualified immunity in these cir-
+cumstances could not be decided without a fuller devel-                                   a. Hawaii's prison regulations governing the
+opment of the record.® [Pet. Cert. A9].                                       imposition of discipline give rise to a "liberty interest"
+                                                                              because prisoners may only be punished, by segregation
+     ? Respondent represented himself in both the District Court              or otherwise, if they are found guilty of or admit to
+and Court of Appeals. Respondent is represented by counsel for                specific misconduct as defined by Hawaii law. The
+the first time before this Court.
+                                                                              Respondent will not address the qualified immunity issue or the
+     8 Because this Court's October 7, 1994, Order limits this                issue of what process was due Respondent if a "liberty interest"
+proceeding to the first Question Presented by Petitioner,                     is found.
+                                          12                    m goga                                             13
+
+Hawaii discipline regulations are a paradigm of "substan-               segregation. Even if the conditions imposed upon an
+tive predicates" limiting official discretion. Although                 inmate under discretionary administrative classification
+under Hawaii law the warden may modify Adjustment                       decisions are found to be similar to those resulting from
+Committee decisions or findings, punishment may only                    disciplinary segregation, a prisoner's interest in avoiding
+                                                                        disciplinary segregation is still one of "real substance"
+be imposed after a substantive finding or an admission of               requiring Due Process. Wolff, supra, 418 U.S. at 557. Not
+                                                                        only does disciplinary segregation entail adverse living
+misconduct. Thus, Hawaii prisoners have a legitimate                    conditions and loss of privileges, the punishment has
+expectation that they will not suffer disciplinary punish-              enormous potential collateral consequences, including
+ment unless they are found guilty of specific misconduct                possible adverse consequences for parole.
+defined in Hawaii law. The Due Process Clause requires
+that these legitimate expectations be safeguarded by fair                           d. The holding in Wolff is not limited to disci-
+procedures.                                                             plinary procedures that inevitably result in the loss of
+                                                                        good time credit or other lengthening of confinement. In
+            b. Petitioner's contention that Kentucky Dep't. of          Wolff a liberty interest was found even though the
+                                                                        Nebraska regulations in that case provided for sanctions
+Corrections v. Thompson, 490 U.S. 454 (1989), adds an addi-             as minor as a reprimand for misconduct. In Hewitt, this
+                                                                        Court unanimously found a liberty interest to exist even
+tional requirement that a prisoner always be punished                   though the Pennsylvania administrative segregation reg-
+under Hawaii law before a liberty interest exists misreads              ulations did not have any effect on the duration or nature
+                                                                        of confinement as such, nor did administrative segrega-
+that decision. The denial of the prisoner's claims in                   tion have any impact on parole decisions.
+
+Thompson occurred because the visiting regulations in                               e. Even if the Court accepted Petitioner's sug-
+                                                                        gestion that a "bright line" should exist that allows
+that case placed no substantive limitations on the discre-              prison administrators complete discretion to engage in
+tion of prison officials. Furthermore, the limitations in               arbitrary punishment so long as the duration of a pris-
+                                                                        oner's sentence is not directly affected, this case should
+Hawaii law are not merely procedural. The requirement                   still be governed by Wolff and its progeny. Under Hawaii
+of "substantial evidence" of guilt of misconduct is inex-               law parole may be denied to an inmate when the Hawaii
+tricably tied to a substantive finding of specific miscon-              State Paroling Authority finds that the inmate's miscon-
+                                                                        duct record shows that he has been a management or
+duct.                                                                   security problem in prison. Also, even after a parole has
+                                                                        been granted, it may be rescinded prior to release if the
+            c. Petitioner's argument that because Hawaii
+prisoners may be placed in administrative segregation
+under conditions similar to the conditions of disciplinary
+segregation undermines Respondent's expectation of
+freedom from disciplinary segregation without a finding
+of misconduct is inconsistent with this Court's cases.
+Under this Court's cases states may create liberty inter-
+ests in the context of disciplinary segregation, while plac-
+ ing no such limitations on the use of administrative
+                                          14                                                            15
+
+Authority receives new information regarding miscon-          state may legitimately take action for administrative or
+duct. Thus, in Hawaii, the inmate's misconduct record         regulatory reasons without triggering the Due Process
+plays a role in the Hawaii regulatory scheme substan-         Clause, but may be required to afford fair procedures
+tially identical to the system before this Court in Wolff,    when similar measures are taken because of punishment
+which permitted but did not require the deprivation of        for misconduct.
+"good time" upon a finding of misconduct.
+                                                                          b. State prison disciplinary systems have uni-
+           f. The Ninth Circuit's recognition of a liberty    formly recognized that substantial punishment must be
+interest in avoiding disciplinary segregation in the          accompanied by fair procedures. One reason for this is
+absence of "substantial evidence" of specific misconduct      that punishment for misconduct inescapably has conse-
+flows naturally from this Court's decisions in Wolff and      quences beyond the time a prisoner spends in solitary
+Hewitt and represents no radical new federal intrusion        confinement. This Court has recognized the stigma
+into day-to-day prison administration. Principles of fed-     atiached to disciplinary segregation in its earlier cases
+eralism are not undermined by recognition of liberty          regarding segregation decisions by prison officials.
+interests found in Hawaii's prison regulations.               Hewitt, supra, 459 U.S. at 473.
+
+           g. The Court's decisions in Wolff and Hewitt                  c. The safeguards provided by Wolff guarantee
+created a body of precedent and settled expectations          much more than abstract notions of fairness. Those safe-
+throughout the country that should not be lightly aban-       guards play a major role in maintaining peace and secu-
+doned. Planned Parenthood v. Casey, __ U.S. __, 112 S.Ct.     rity for both inmates and staff. Furthermore, society has a
+2791, 2808 (1992). None of the justifications for overruling  great stake in rehabilitation, promoting that policy of
+this Court's precedents exist in this case.                   "restoring [the offender] to normal and useful life within
+                                                              the law." Morrisey v. Brewer, 408 U.S. 471, 484 (1971).
+      2. Apart from the "substantive predicates" of
+Hawaii law, the Due Process Clause protects Respondent                                                           ©
+and prisoners similarly situated from arbitrary punish-
+ment for alleged misconduct. A central tenet of due pro-
+cess is that persons "may not be punished prior to an
+adjudication of guilt in accordance with due process of
+law." Bell v. Wolfish, 441 U.S. 520, 535 (1979).
+
+            a. The imposition of substantial punishment
+upon prisoners is not "within the normal limits or range
+of custody which the conviction has authorized the State
+to impose." Meachum v. Fano, 427 U.S. 215, 225 (1976). The
+                                          16                                                                17
+
+                                 ARGUMENT                         Clause. This Court also acknowledged in Wolff that pris-
+                                                                  oners had a "liberty interest" in avoiding solitary confine-
+I. HAWAII PRISON REGULATIONS GOVERNING
+    DISCIPLINE ARE WRITTEN IN MANDATORY                           ment. Id., at 571, n.19.
+     LANGUAGE LIMITING THE DISCRETION OF
+     PRISON OFFICIALS AND THUS CREATE A "LIB-                            In Wright v. Enomoto, 434 U.S. 1052 (1978), this Court
+     ERTY INTEREST" IN REMAINING FREE FROM
+     DISCIPLINARY SEGREGATION ABSENT A FIND-                      summarily affirmed a decision requiring due process
+     ING OR ADMISSION OF MISCONDUCT.                              before inmates could be placed in "maximum security"
+                                                                  units at several California prisons. Wright v. Enomoto, 462
+     A. Hawaii's Regulations Create a Right to be Free            F.Supp. 397 (N.D. Cal. 1976).? Similarly, in Hughes v. Rowe,
+           from Disciplinary Segregation or Other Punish-         449 U.S. 5, 11 (1980), this Court observed that "[slegrega-
+           ment in the Absence of a Finding or Admission          tion of a prisoner without a prior hearing may violate due
+           of "Serious Misconduct."                               process."
+
+           1. The Hawaii Regulations Contain "Substan-                  In Hewitt, supra, 459 U.S. 460, this Court expressly
+                tive Predicates" Limiting Official Discretion     held that prisoners have a liberty interest in remaining
+                Before Punishment for Misconduct May Be           free from administrative segregation if "the repeated use
+                Imposed.                                          of explicitly mandatory language in connection with
+                                                                  requiring specific substantive predicates demands a con-
+     This Court long has held that liberty interests under        clusion that the State has created a liberty interest." 459
+the Due Process Clause are created by the Constitution            U.S. at 472.
+and by statutes. The Court has explained that "a person's
+liberty is equally protected even when the liberty is a                States may create liberty interests in a variety of
+statutory creation of the state," Wolff, supra, 418 U.S. at       ways. Id. The dispositive point here is whether the state
+558, since statutory entitlements include "many of the
+core values of unqualified liberty." Morrisey, supra, 408              ® Petitioner seeks to distinguish Wright v. Enomoto because
+U.S. at 482. In many cases and in many contexts, the              of the particular conditions in the "maximum security" units at
+Court has relied on state law as the basis for finding            issue in that case, or the "strong inference" of racial discrimina-
+liberty interests. See, e.g., Goss v. Lopez, 419 U.S. 565 (1975)  tion, or the "apparent total irrationality" of the placement sys-
+(state law creates a liberty interest in students not being       tem in the case. [Pet. Br. 30-31 n.17]. However, the Wright court
+suspended from school without due process).                       did not base its holding on an independent constitutional viola-
+                                                                  tion or on the issue of whether placement in "maximum secu-
+     This Court's decision in Wolff, supra, 418 U.S. 539,         rity" extended an inmate's length of sentence. To the extent
+found that state prison regulations governing the imposi-         Wright was based on the conditions in California's maximum
+tion of discipline created a "liberty interest" protected by      security units, the conditions at HCF should be considered by
+the guarantees of procedural fairness in the Due Process          the district court on remand. The record before this Court about
+                                                                  these conditions is incomplete.
+                                          18                                                                  19
+
+has placed substantive limits on the discretion of prison                The regulations at issue in this case raise no novel
+authorities to impose disciplinary segregation as a pun-            issue under this Court's cases. Indeed, prison discipline
+ishment for misconduct.'° As this Court recognized in               regulations will rarely, if ever, give prison officials the
+Thompson, the most common manner in which a state                   unlimited authority to punish a prisoner without a find-
+creates a liberty interest is by establishing "substantive          ing of misconduct by the prisoner.'! Such required find-
+predicates" that govern and restrict official decision-             ings are a paradigm of "substnative predicates" with a
+making and "by mandating the outcome to be reached                  mandatory relationship to the outcome of decision-
+upon a finding that the relevant criteria have been met."           making. The Hawaii rules constitute "a definite, unqual-
+Thompson, supra, 490 U.S. at 462.                                   ified, nondiscretionary standard for determining when
+                                                                    [the state's] prison officials may as a disciplinary measure
+      Therefore, under established due process jurispru-            take away a prisoner's right to the relatively greater
+dence the courts below were required to "examine closely            liberty of ordinary confinement, compared to the approx-
+the language of the relevant statutes and regulations" to           imation to solitary confinement that is segregation... . "
+determine if Hawaii had placed "substantive limitations             Gilbert v. Frazier, 931 F.2d 1581, 1582 (7th Cir. 1991);
+on official discretion" in its prison regulations to create a
+liberty interest in remaining free from disciplinary seg-           accord, Green v. Ferrell, 801 F.2d 765, 768-69 (5th Cir.
+regation absent a finding of substantial evidence of                1986); Sher v. Coughlin, 739 F.2d 77, 81 (2d Cir. 1984).
+serious misconduct. Kentucky Dep't of Corrections v.
+Thompson, 490 U.S. 454 (1989).                                            As Judge Fong found in Mujahid v. Apao, 795 F.Supp.
+                                                                    1020, 1024 (D.Haw. 1992), "[t]here is no question that
+      10 This Court has found "liberty interests" in state laws     Hawaii's administrative regulations governing the con-
+governing various aspects of prison administration. For exam-       duct of a disciplinary hearing are mandatory." More
+ple, in Greenholtz v. Inmates of Nebraska Penal Cor. Complex, 442   important, Judge Fong found that "[w]ithout question,
+U.S. 1, 12 (1979), this Court ruled that although the mere exis-    the Adjustment Committee could not have imposed the
+tence of a parole system fails to establish a liberty interest for  sanction or punishment of disciplinary segregation
+those seeking parole, the particular statute at issue contained     absent a factual finding of misconduct." Id. at 1025. "An
+mandatory language and thus entitled the inmate to protection.      Adjustment Committee does not have the discretion to
+See also Board of Pardons v. Allen, 482 U.S. 369 (1987) (Montana    impose sanctions wantonly; instead its actions must be
+parole law required that parole be granted if inmate can be
+released without detriment to community and therefore creates             1! As the Second Circuit observed in Sher v. Coughlin, 739
+a liberty interest); Washington v. Harper, 494 U.S. 210, 221-22     F.2d 77, 80 (2d Cir. 1984), "[t]he state statutes and regulations
+(1990) (prisoners have a liberty interest in avoiding the           authorizing restrictive confinement as a punishment upon a
+unwanted administration of antipsychotic drugs); Vitek v. Jones,    finding of a disciplinary infraction will invariably provide suffi-
+445 U.S. 480, 488 (1980) (prisoners have a liberty interest in not  cient limitation on the discretion of prison officials to create a
+being transferred from a prison to a mental institution).           liberty interest."
+predicated on substantive charges." Id. "Punishment is                                                         21
+predicated upon guilt." Id.
+                                                                     Committee "shall" make a finding of guilt where either
+     The particulars of Hawaii's disciplinary scheme illus-          (1) the inmate or ward admits the violation or pleads
+trate its mandatory character. The regulations list specific         guilty; or (2) the charge is supported by substantial evi-
+categories of misconduct from the most to least serious              dence. § 17-201-18(b).
+and set forth maximum penalties for each category.'?
+§ 17-201-6 to § 17-201-11. The "adjustment process" estab-                 This disciplinary system gives every inmate in the
+lished therein is concerned with tailoring "punishment"              Hawaii State Prison system a legitimate expectation that
+to "specific rule violations." § 17-201-4.                           they will not suffer punishment for "serius misconduct"
+                                                                     in the absence of an admission of guilt or a finding of
+      "Serious misconduct," as defined in § 17-201-12,               guilt based on "substantial evidence."'? There could be
+"shall" be punished through an Adjustment Committee.                 no clearer substantive limitation on the discretion of
+The regulations mandate a series of steps before punish-             prison officials than this.
+ment can be imposed. After these steps are followed and
+there is a hearing before the Adjustment Committee, the                         2. Prison Administrators May Impose Disci-
+                                                                                     pline Only After a Finding or Admission of
+      !2 Petitioner contends that it is significant that punishment                  Misconduct.
+is optional even for proven misconduct. Section 17-201-12 states
+that serious misconduct "shall" be punished and so it is not               Petitioner contends that Hawaii's elaborate set of
+clear that Petitioner's premise is correct. However, even if there   procedures and substantive limits on the imposition of
+is an option not to punish, as discussed in § IA2, infra, whether    punishment for misconduct are subject to a discretionary
+administrators were required to impose punishment upon a find-       override by the warden or "facility administrator" in
+ing of guilt is not the issue. The important fact is that punish-    § 17-201-20(b) that is governed by no limitations on dis-
+ment may not be imposed in the absence of a finding or               cretion at all. [Pet. Br. 11-12]. § 17-201-20(b) does give the
+admission of guilt.                                                  warden the authority to initiate review of any Adjust-
+                                                                     ment Committee decision and to "modify any committee
+     The regulations at issue in Wolff, like Hawaii's regulations,
+provided for a variety of sanctions and authorized, but did not            '3 Petitioner argues that the "substantial evidence" require-
+mandate, a loss of good time. Wolff, supra, 418 U.S. at 552. The     ment is a mere procedural burden of proof and thus cannot be
+Nebraska regulations stated that "[d]isciplinary action taken        found by itself to create a "liberty interest." [Pet. Br. 43-45].
+and recommended may include but not necessarily be limited to        However, even if this characterization of the "substantive evi-
+the following: reprimand, restrictions of various kinds, extra       dence" standard is accepted, there is no question but that the
+duty, confinement in the Adjustment Center, withholding of           "substantive predicate" of a finding of misconduct must occur
+statutory good time and/or extra earned good time, or a combi-       before punishment can be imposed, regardless of the evidenti-
+nation of the elements listed herein." Id. Thus, this Court found    ary burden applied. See § IA4, infra.
+a liberty interest in this scheme even though there was a very
+wide range of punishment.
+                                      22                                                                   23
+
+findings or decisions." Petitioner's suggestion, though,             findings or decisions, there is no basis in the regulations,
+that the warden may impose disciplinary segregation or               Hawaii law or common sense or in the leading federal
+other punishments without regard to the substantive and             court decision construing the regulations, Mujahid v.
+procedural limitations in sub-chapter 2 is a bizarre read-          Apao, 795 F.Supp. at 1024-25, for Petitioner's argument
+ing of § 17-201-20(b). Petitioner's contention would make            that the warden may impose punishment without an
+the adjustment process an elaborate sham.                           admission of guilt or substantial evidence of guilt of
+                                                                    specified misconduct. Nor is there anything in the record
+     The entire structure of Subchapter 2 of the disciplin-         of this case indicating that § 17-201-20(b) provides such
+ary regulations relating to "The Adjustment Process" is             unfettered discretion to the warden under Hawaii law or
+based on § 17-201-4's general mandate that the process              that the warden has in fact punished inmates without a
+"tailors punishment for specific rules violations." The             finding or admission of misconduct.
+residual authority vested in the warden to review and
+modify adjustment committee findings and decisions                             3. The Thompson Decision Does Not Condi-
+must be understood in the context of the entire regulatory                           tion the Creation of a "Liberty Interest"
+scheme as a further tool to "tailor" punishment and not                              Upon Regulations that Mandate Punish-
+as an independent, standardless override power enabling
+the warden to impose punishment without a finding of                                  ment.
+guilt.
+                                                                          Petitioner contends that this Court's decision in
+       While § 17-201-20(b) gives the warden certain pro-           Thompson creates a "two way mandatory outcomes" test
+                                                                    for determining when a "liberty interest" is created by
+cedural rights (e.g., to order the Adjustment Committee to          prison regulations. That is, she contends that to create a
+rehear the matter) and the right to "modify"'* committee            liberty interest, a regulation must specify the outcome
+                                                                    both when the substantive predicate is present and when
+      14 Indeed, the use of the word "modify" in the regulation is  it is absent, eliminating all discretion either to impose a
+itself a substantial limit on the warden's discretion and under-    sanction or to refrain from imposing it.
+mines Petitioner's claim that the regulation gives the warden
+unfettered ability to overturn committee findings. As this Court          Petitioner misinterprets the result in Thompson. The
+declared just last Term: "The word `modify' - like a number of      result in Thompson was based on the fact that visitors
+other English words employing the root `mod-' (deriving from
+the Latin word for `measure'), such as `moderate,' `modulate,'      warden only can make minor changes, modifications, in punish-
+`modest,' and `modicum,' - has a connotation of increment or        ment. There is no limitless discretion to ignore what the Adjust-
+limitation. Virtually every dictionary we are aware of says that    ment Committee has done or to impose punishment in the
+`to modify' means to change moderately or in minor fashion."        absence of substantial evidence of guilt as Petitioner argues.
+MCI Telecommunications v. American Tel. & Tel., __ U.S. __, 114
+S.Ct. 2223, 2229 (1994). In other words, under Hawaii law, the
+                                          24                   una Peer e                                         25
+                                                               a eeee
+could be excluded at will under the policies; thus, there                  490 U.S. at 464-65. Thus, this Court's central concern in
+were no "substantive predicates" in Kentucky's visiting                    Thompson, as in Hewitt, was the question whether the
+regulations, i.e., regulations did not place any limits on                 individual had an expectation of enforcement against the
+decisions to deny visits. Thompson, supra, 490 U.S. at                     government, not whether the government had committed
+464-465. Thus, at bottom Thompson is a case like Meachum                   itself to enforcement without exception against the indi-
+v. Fano, supra, 427 U.S. 215, or Olim v. Wakinekona, 461 U.S.              vidual.'>
+238 (1983), where no substantive limitations on discretion
+existed in state law.                                                            The "liberty interest" created by the administrative
+                                                                           segregation regulations at issue in Hewitt did not require
+      Thompson itself distinguished the visiting regulations               prison administrators to segregate prisoners if the sub-
+at issue in that case from the administrative segregation                  stantive predicates were met, nor did the disciplinary
+rules creating a "liberty interest" in Hewitt. In Hewitt, the              regulations at issue in Wolff require the loss of good time if
+regulations stated that administrative segregation "may"                   a finding of misconduct was made.'* The key point in
+- not "shall" -- be imposed based on "the need for con-
+trol" or other substantive predicates. The Supreme Court                         1S See, Smith v. Shettle, 946 F.2d 1250, 1253 (7th Cir. 1991)
+noted that this really means that "administrative segrega-
+tion will not occur absent specific substantive predi-                     (Posner, J.) (dicta that "prosecutorial discretion" does not
+cates," 459 U.S. at 471-72, and found a liberty interest                   negate a liberty interest); Mendoza v. Blodgett, 960 F.2d 1425 (9th
+even though the regulation permitted officials to refrain
+from imposing segregation even when the substantive                        Cir. 1992), cert. denied, 113 S.Ct. 1005 and 113 S.Ct. 1027 (1993)
+predicates were present. Thus, this Court did not require
+the existence of a "two-way mandatory" outcome to be                       (question whether there was discretion not to impose a restric-
+present before a "liberty interest" was protected.                         tion was beside the point of liberty interest analysis).
+
+     The Court in Thompson concluded:                                            16 The Third Circuit reached a similar conclusion in Layton
+                                                                           v. Beyer, 953 F.2d 839 (3d Cir. 1992), in finding a liberty interest
+      The overall effect of the regulations is not such                    in regulations governing placement in the Management Control
+      that an inmate can reasonably form an objective                      Units of the New Jersey prison system. The defendants in Lay-
+      expectation that a visit would necessarily be                        ton, as Petitioner does here, argued that under Thompson the
+      allowed absent the occurrence of one of the                          existence of discretion not to impose a liberty deprivation if the
+      listed conditions. Or, to state it differently, the                  substantive predicates are found precludes a finding of a liberty
+      regulations are not worded in such a way that
+     an inmate could reasonably expect to enforce                          interest.
+      them against the prison officials.
+                                                                                In rejecting this argument, the Layton court found that the
+                                                                           key to the Thompson holding is that the Kentucky regulations
+                                                                           permitted exclusion of visitors based on the listed reasons " `but
+                                                                           not limited to' them." 953 F.2d at 848. That is, if a statute or
+                                                                           regulation lists "substantive predicates," but does not make
+                                                                           them the exclusive basis for the liberty deprivation at issue, it
+                                                                           does not limit officials' discretion sufficiently to create a liberty
+
+                                                                           interest.
+                                         26                                                                  27
+
+Wolff and Hewitt was that prison administrators were               remain free from disciplinary segregation until and
+limited in their discretion to impose disciplinary segrega-        unless the State can prove, with substantial evidence, that
+tion (Wolff) or administrative segregation (Hewitt) by the         they have committed specified offenses. See § IA1, supra.
+requirements imposed by state law. Unless these "sub-              The substantive limitations exist in Hawaii's discipline
+stantive predicates" were met officials could not act              regulations regardless of the evidentiary standard under
+against the prisoner. In contrast, in Thompson, official           which guilt must be demonstrated.
+discretion was unlimited. If Kentucky regulations had
+provided that visits "shall not be denied unless" there                  Moreover, Hawaii law precludes disciplinary punish-
+was a finding of specified misconduct, Wolff and Hewitt            ment unless the state meets its burden of proving certain
+would have required recognition of a liberty interest.             offenses by substantial evidence. Respondent does not
+                                                                   claim a liberty interest based solely on the "substantial
+              4. The Limitations on Officer Discretion at          evidence" test, as Petitioner suggests [Pet. Br. 43-45]. The
+                    Issue Herein Are Substantive Limitations.      fact that Hawaii requires "substantial evidence" of speci-
+                                                                   fic misconduct before disciplinary segregation, or other
+      Petitioner argues that Hawaii's regulations offer            punishment, may be imposed creates the liberty interest
+merely an expectation of receiving process and that is not         claimed by Respondent and found by the Ninth Circuit.
+a liberty interest protected by the Due Process Clause.
+[Pet. Br. 43-45]. However, Hawaii law provides that disci-               B. The Fact That Respondent Might Have Been
+plinary segregation "shall" occur only when particular                        Confined to the Special Holding Unit For Clas-
+offenses are proven by "substantial evidence." Thus, the                      sification or Other Non-Punitive Reasons Does
+primary limitations in the Hawaii regulations on adminis-                     Not Undermine Respondent's Liberty Interest
+trative discretion to punish are substantive. The regula-                      in Avoiding Disciplinary Segregation As a Pun-
+tions provide assurance that prisoners have a right to                        ishment for Misconduct.
+
+     The Third Circuit went on to find that Thompson's require-         Petitioner argues that Respondent is not entitled to
+ment that the statute or regulation must "mandatle] the out-       due process in disciplinary proceedings, despite the man-
+come to be reached" if the substantive predicates exist means      datory requirements of Hawaii law, because prisoners
+only "that the statutes must force the decisionmaker to use the    may be held in HCF's Special Housing Unit in conditions
+listed criteria as the only reasons for depriving the prisoner of  similar to disciplinary segregation for reasons other than
+the liberty interest in question." 953 F.2d at 849. The Third
+Circuit's reading of Thompson is fully consistent with this        punishment. [Pet. Br. 45]. This case does not concern the
+Court's decisions in Hewitt and Vitek. Petitioner's argument
+would require the conclusion that this Court overruled Hewitt      authority of prison administrators to make classification
+and Vitek in Thompson without saying so.                           or housing decisions. Whether the regulations governing
+                                          28                                                                    29
+
+the exercise of discretion in these areas create liberty                   The fact that Hawaii may allow prison officials to
+interests requires a separate analysis.!"                             make classification decisions in their discretion does not
+                                                                      vitiate the liberty interest created by the Hawaii regula-
+      Wolff and Hewitt, taken together, treat these two seg-          tions that Respondent not be punished by disciplinary
+regation determinations differently. If Hawaii wishes to              segregation absent a finding or admission of miscon-
+allow complete discretion in classification and housing               duct.!9 Such classification decisions would not have the
+decisions, Hawaii may do so, regardless of the different              collateral impact on parole decisions that a finding of
+requirements of disciplinary proceedings.'®                           "serious misconduct" may have. Hawaii law does not
+                                                                      provide for any consideration of a prisoner's administra-
+      '7 Hawaii classification regulations appear to create liberty   tive segregation record in connection with parole deci-
+interests. Schroeder v. McDonald, 823 F.Supp, 750, 762-64 (D.Haw.     sions.
+1992); aff'd in relevant part, __ F.3d ___, 1994 WL 663407 (9th Cir.
+1994). Hawaii's administrative segregation placement regula-                Another problem with Petitioner's argument is that it
+tions were initially held to implicate a liberty interest, but this   would require courts to examine and compare the condi-
+decision was overturned in Allen v. City and County of Honolulu,      tions in administrative segregation and those in disciplin-
+816 FSupp. 1501, 1508-09 (D.Haw. 1993), overruling Hatori v.          ary segregation before deciding if the Due Process Clause
+                                                                      applied in any given case. This new approach not only
+Haga, 751 F.Supp. 1401 (D.Haw. 1989).                                 lacks a coherent rationale; it would be unworkable in
+
+     This Court has previously found that Hawaii prison regula-             19 Petitioner places great reliance on the Seventh Circuit's
+tions do not limit the discretion of prison officials to transfer a
+prisoner to a prison on the mainland. Olim, supra, 461 U.S. 238.      decision in Wallace v. Robinson, 940 F.2d 243 (7th Cir. 1991) (en
+The result in Olim followed a line of cases starting with Meac-
+hum, supra, 427 U.S. 215, and Montanye, supra, 427 U.S. 236, in       banc) for her argument that the discretion to put an inmate in
+which such transfer decisions were found not to implicate lib-        administrative segregation undermines Respondent's liberty
+erty interests when state statutes or regulations granted unfet-      interest in avoiding disciplinary segregation. As the dissenting
+tered discretion to prison officials over such decisions. This is in  opinions in Wallace point out, the Seventh Circuit's due process
+contrast to Vitek, supra, 445 U.S. 480, where the transfer to a       analysis is unsupported by this Court's cases or any other Cir-
+mental institution was found to be subject to due process pro-        cuit court cases. Id., at 249. More important, the Wallace case did
+                                                                      not involve the prison disciplinary system. Rather, the inmate
+tections.                                                             alleged that his transfer from a job assignment, a decision
+                                                                      admittedly not subject to substantive limitations on administra-
+      '8 This Court has acknowledged the differences between          tive discretion, was really motivated by disciplinary concerns
+disciplinary and administrative segregation in Hewitt, observ-        rather than the stated reason that he did not get along with his
+ing that "[u]nlike disciplinary confinement the stigma of wrong-      supervisor. In this case, there is no question about whether
+doing or misconduct does not attach to administrative                 Petitioner was acting under Hawaii's discipline regulations and
+segregation under Pennsylvania's prison regulations." 459 U.S.        thus Wallace is inapplicable. Similarly, Wallace involved no gov-
+at 473. This Court has frequently emphasized the difference           ernment action that might have consequences for parole.
+between confinement for a regulatory purpose and confinement
+as a punishment even when those two confinements are in the
+same location. See also, e.g., Bell v. Wolfish, 441 U.S. 520, 535
+
+(1979); United States v. Salerno, 481 U.S. 739, 746 (1987).
+                                              30                                                                                              31
+
+practice and would lead to increased litigation and uncer-                                                    C. A Prisoner Need Not Lose Good Time Credits
+tainty.                                                                                                             or Have His Parole Date Affected Before He
+                                                                                                                    Possesses A Liberty Interest in Avoiding Arbi-
+                                                                                                     \             trary Punishment in Prison.
+
+      Petitioner's attempt to trivialize Respondent's suit by                                                 Petitioner argues, without support in this Court's
+the suggestion that a finding of misconduct merely                                                      cases, that a prisoner must lose good time credits, or
+"marred [Respondent's] record" and was thus no more                                                     otherwise have his sentence affected, before a "liberty
+meaningful than an alleged libel must be rejected in light                                              interest" deriving from state law should be recognized by
+of the effect a finding of misconduct has in terms of                                                   this Court. [Pet. Br. 24-37].
+punishment, classification and parole under Hawaii law.
+[Pet. Br. 47]. The potential punishment, which is more                                                        However, this Court has not determined "liberty
+germane for due process analysis, is 30 days in segrega-                                                interests" by a subjective evaluation of the importance of
+tion and a finding of misconduct that may be considered                                                 the interest involved but rather has insisted that "liberty
+by Hawaii parole authorities in deciding when Respon-                                                   interests" are created by reference to state law. "[T]o
+dent will be released from prison.?° In this case the record                                            determine whether due process requirements apply in the
+indicates that Respondent's ability to work was inter-                                                  first place, we must look not to the `weight' but to the
+rupted by his punishment for misconduct. Thus, punish-                                                  nature of the interest at stake." Board of Regents v. Roth,
+ment for misconduct may have enormous collateral
+consequences in addition to a temporary change in hous-                                                 408 U.S. 564, 570-571 (1972). The existence of a "liberty
+ing and privileges. A prisoner's interest in avoiding 30
+days in disciplinary segregation, especially with all of the                                            interest" under this Court's cases depends on whether a
+collateral consequences of a finding of misconduct, is                                                  person has "a legitimate claim of entitlement to it." Id., at
+clearly an interest with "real substance." Wolff, supra, 418                                            577.
+U.S. at 557. See § IL, infra.
+                                                                                                              In Hewitt, this Court found that a "liberty interest"
+     20 The fact that Respondent's "high misconduct" has been                                           existed without a showing that administrative segregation
+expunged does not moot his claim for damages.                                                           would result in a loss of good time credits, a loss of parole or
+                                                                                                        any other extrinsic adverse consequence. The only conse-
+                                                                                                        quence of the decision at issue in Hewitt was the removal of a
+                                                                                                        prisoner from the general population pending resolution of
+                                                                                                        disciplinary charges. A unanimous Court held that the
+                                                                                                        regulations created a "liberty interest."?! Thus, only by
+
+                                                                                                             21 Wolff v. McDonnell itself did not limit its holding to disci-
+                                                                                                        plinary procedures that inevitably resulted in the loss of good
+                                         32                                                                  33
+
+overruling Hewitt can Petitioner's arguments be                             Hawaii has established a system of parole. Parole
+accepted.??                                                           may be granted in Hawaii "at any time after a prisoner
+                                                                      has served the minimum term of imprisonment fixed
+     D. Because Parole in Hawaii May Be Denied As                     according to law." Haw. Rev. Stat. §§ 353-68, 353-69
+            Well As Rescinded After It Has Been Granted               (1985). [Pet. Br., 10; Pet. Br. App., 36a-37a]. Though
+            Based upon an Inmate's Misconduct Record,                 Hawaii has no system of good time credits, an inmate's
+            The Holding and Rationale of Wolff v. McDon-              misconduct record is an important criteria in the parole
+            nell Apply to Hawaii's Disciplinary Regula-               decision. Parole may be denied to an inmate when the
+            tions.                                                    Hawaii State Paroling Authority ("Authority") finds,
+                                                                      among other things, that the "inmate has been a manage-
+     Even if this Court accepted Petitioner's revisionist             ment or security problem in prison as evidenced by the
+understanding of Wolff and overturned Hewitt, the poten-              inmate's misconduct record." Haw. Admin. R.
+tial effect of a finding of misconduct on Respondent's                23-700-33(b). [Pet. Br. App. at 43a-44a]. Furthermore, even
+parole brings this case squarely within the holding and               if parole is granted, "it may be rescinded prior to the
+rationale of Wolff. Without adequate due process protec-              release of the inmate on parole when the Authority
+tions governing disciplinary charges, prisoners would be              receives new information on the inmate that would be the
+subject to the denial of parole based on erroneous mis-               basis to deny the parole." Haw. Admin. R. 23-700-31(c).
+conduct findings - a possibility at odds with the basic               [Pet. Br. App. 42a].
+teaching of Wolff and its progeny.
+                                                                            The inmate's misconduct record plays a role in the
+time credit. If misconduct was found, the Nebraska regulations        Hawaiian regulatory scheme identical to the "good time"
+at issue in Wolff provided for a wide range of penalties from a       credit system used by the State of Nebraska in Wolff, i.e.,
+reprimand to the loss of good time credit. See, note 12, supra.       misconduct may cause a deprivation of physical freedom.
+This Court held, in Haines v. Kerner, 404 U.S. 519, 520 (1972), that  In Wolff, a finding of misconduct could lead to conse-
+a claim involving disciplinary confinement alone stated a due         quences that "may include but not necessarily be limited
+process claim under 42 U.S.C. § 1983. See also Cox v. Cook, 420       to the following: . . . withholding of statutory good time
+U.S. 734 (1975).                                                      and/or extra earned good time, or a combination of the
+                                                                      elements listed herein." Id., at 552. Thus, although the
+      22 This position would also require the overruling of Vitek v.  existence of "good time" was created by statute, the
+Jones and Washington v. Harper, in which this Court found that        decision to take away such credits upon a predicate find-
+prisoners have liberty interests in avoiding transfer to mental       ing of misconduct was entirely discretionary.
+institutions and in being free from involuntary administration
+of anti-psychotic medications. Petitioner's request for a bright           Hawaii has thus created a system of parole where the
+line rule would entail overruling a quarter of a century of this      availability of early release or the revocation of release
+Court's decisions, relied upon by states throughout the country,
+that state laws do create liberty interests for prisoners.
+                                         34                                                           35
+
+already granted is impacted by a finding of misconduct.        state prison management in a manner which this Court
+This is identical to the "if/then" syllogism in Wolff. Since   has never approved." [Pet. Br. 24]. This hyperbole is
+prisoners in Hawaii can be denied parole if they are           unjustified. The Ninth Circuit's ruling was limited and
+guilty of any misconduct, the "determination of whether        concluded only that Hawaii law created a liberty interest
+such behavior has occurred becomes critical, and the           in avoiding disciplinary punishment in the absence of
+minimum requirements of procedural due process appro-          substantial evidence of or an admission of specific mis-
+priate for the circumstances must be observed." Wolff,         conduct. As demonstrated in § IA, supra, this ruling was
+supra, 418 U.S. at 558.                                        fully in accord with two decades of decisions from this
+                                                               Court holding that state laws can create liberty interests
+      Petitioner carefully skirts this issue in her statement  for prisoners. The decision did not, as Petitioner claims,
+of the "Question Presented." Petitioner expresses the          require "exacting federal review of prison disciplinary
+question before the Court as being whether an inmate           records." [Pet. Br. 25]. All the Ninth Circuit did was
+"who is not subject to a loss of good time credit nor to       recognize that the minimum due process requirements of
+any necessary impact on parole... " has a "liberty             Wolff applied to Hawaii's scheme for disciplinary punish-
+interest" involved. [Pet. Br., i [emphasis added]]. In Wolff,  ment in its prisons.
+the chief executive officer of any penal facility was
+empowered so that he "may order that a person's reduc-               Although Petitioner repeatedly invokes federalism
+tion of term as provided in [the Nebraska good time            and the undesirability of federal judicial control of
+credit statute] be forfeited or withheld." 418 U.S. at 545     prisons, Petitioner ignores the fact that the "liberty inter-
+n.5 (emphasis supplied). A serious misconduct finding          est" here was created entirely by Hawaii law and may be
+did not necessarily have an impact on early release. Like-     modified by Hawaii. It is only then that this Court would
+wise here, parole may not necessarily be impacted, but the     be faced with the issue of whether the Due Process
+parole authority may base its decision to deny parole on a     Clause itself constrains Hawaii officials from imposing
+finding of misconduct. This potential consequence, like        punishment for misconduct in the absence of state regula-
+the possible loss of good time credit in Wolff, is serious     tions creating liberty interests.
+enough to require due process safeguards even under the
+arguments advanced by Petitioner and her amici.                      In reality, it is the approach urged by Petitioner and
+                                                               her amici that would work a radical change in the law. If
+      E. The State Is Not Significantly Burdened and           this Court accepts the argument that state laws do not
+           Federalism Is Not Offended By Judicial Recog-       create liberty interests, then the judiciary would bear the
+           nition that Hawaii Law Creates a Liberty Inter-     entire burden of determining the liberty interests pro-
+           est that Prisoners Not be Subjected to              tected by the Due Process Clause. In addition to requiring
+           Disciplinary Segregation Without Due Process.
+
+      Petitioner describes the Ninth Circuit's decision as a
+"far-reaching ruling" that "expands federal control over
+                                      36                                                                      37
+
+the reversal of decades of settled law? and the expecta-               precedent is, by definition, indispensable." Planned Par-
+tions that have developed around this Court's decisions,
+courts would be required to embark on their own exam-                  enthood v. Casey, __ U.S. ___, 112 S.Ct. 2791, 2808 (1992).25
+ination of what constitutes "liberty" for due process pur-
+poses. Surely this approach raises more federalism                           25 So imbedded in our law are the due process guarantees
+concerns than this Court's decisions grounding liberty                 of Wolff v. McDonneli that the United States government has
+interests in state law.?4                                              relied upon the protections of Wolff in assuring the international
+                                                                       community that our Constitution protects prisoners from cruel,
+      F. Fundamental Principles of Stare Decisis Stand                 inhuman and degrading treatment or punishment in its first
+           in the Way of Petitioner's Radical Reworking of             compliance report to the United Nations Human Rights Com-
+           This Court's Due Process Jurisprudence.                     mittee under the recently ratified International Covenant on
+                                                                       Civil and Political Rights. As the report underscored:
+      In urging this Court to overrule a quarter of a cen-
+tury of precedents defining the meaning of liberty under                      All correctional systems in the U.S. have codes of
+the Due Process Clause, Petitioner and her amici ignore                       conduct that govern behavior, and all have systems
+the importance of stare decisis and the expectations that                     for imposing sanctions when inmates violate this
+have developed throughout the country based on this                           code. These disciplinary systems are essential to
+Court's decisions. As this Court has noted, "the very                         ensuring the security and good order of correctional
+concept of the rule of law underlying our own Constitu-                       institutions. Inmates are provided a copy of the code
+tion requires such continuity over time that a respect for                    of conduct immediately upon their arrival at a correc-
+                                                                              tional institution, and additional copies are main-
+      23 See, e.g., Siegert v. Gilley, _ U.S. __, 111 S.Ct. 1789              tained in the inmate law libraries. The prison
+                                                                              disciplinary process is administered internally, but
+(1991); Paul v. Davis, 424 U.S. 693 (1974); Perry v. Sinderman, 408           there are important constitutional requirements that
+U.S. 593 (1972).                                                              provide guidance.
+                                                                              Segregation is one of the sanctions that may be
+      24 A leading commentator explained that "[t]he positivist               imposed upon an inmate who it has been determined,
+definition of property and liberty also promotes the Court's                  has violated the code of conduct. Before this sanction
+interest in judicial restraint by making due process dependent                may be imposed, the inmate is entitled to due process
+on extrajudicial sources. It promotes federalism by directing the             protections emanating from the Fifth and Fourteenth
+federal judiciary to turn to state law to determine whether                   Amendments of the Constitution and recognized by
+protectible interests exist. Including liberty interests in this pos-         the Supreme Court in Wolff v. McDonnell, 418 U.S. 539
+itivist model compels federal judges to defer to state prison                 (1974).
+administrators and subjects individual freedom to state con-           Initial Report of the United States of America to the U.N.
+trol." Susan N. Herman, The New Liberty: The Procedural Due            Human Rights Committee Under the International Covenant on
+Process Rights of Prisoners and Others Under the Burger Court, 59      Civil and Political Rights, United States Department of State
+N.Y.U. L. Rev. 482, 526 (1984).                                        (July 1994), at 68. The United States will defend its initial report
+                                                                       before the United Nations Human Rights Committee in March
+                                                                       1995.
+                                          38                                                                   39
+
+      Stare decisis, of course, is not absolute. But this Court            For the last quarter of a century, this Court has held
+has recognized only relatively limited circumstances                 that liberty and property interests are generated by laws
+which justify the overruling of precedents. Precedents are           that create expectations. The function of due process is to
+overruled if a "rule has proved to be intolerable simply in          protect these expectations and to limit arbitrary govern-
+defying practical workability," or if the law has changed            ment conduct which would deprive people of their lib-
+so much as "to have left the old rule no more than a                 erty and property interests created outside the
+remnant of abandoned doctrine," or if "facts have so                 Constitution. This Court should reject the urging of Peti-
+changed or come to be seen so differently as to have                 tioner and her amici to overrule countless decisions which
+robbed the old rule of significant application or justifica-         have followed this approach to the Due Process Clause.
+tion." Id., at 2808-2809.
+                                                                     Il. THE DUE PROCESS CLAUSE, INDEPENDENT OF
+      None of these justifications for overruling precedent                LIBERTY INTERESTS EMANATING FROM STATE
+is present here. Every state has adopted statutes and                      LAW, REQUIRES THAT FAIR PROCEDURES BE
+regulations that provide for due process before the impo-                  EMPLOYED BEFORE IMPOSING PUNISHMENT
+sition of prison discipline; this has not proven unwork-                   LIKE THAT IMPOSED UPON RESPONDENT.
+able in practice.2° Neither the law nor facts have changed
+in a way that would justify the radical departure from                     A. The Imposition of Substantial Punishment is a
+precedent urged by Petitioner and her amici in asking this                       Liberty Deprivation Meriting Due Process Pro-
+Court to abandon state law as a source of liberty interests                      tections.
+or to conclude that prisoners, once incarcerated, have no
+liberty interests.                                                         A central tenet of due process is that persons "may
+                                                                     not be punished prior to an adjudication of guilt in accor-
+      26 Many federal court cases have found that the extent of      dance with due process of law." Bell v. Wolfish, 441 U.S.
+inmate-inmate violence in particular prisons constitutes cruel       520, 535 (1979). This principle has been applied in a
+and unusual punishment. However, counsel knows of no case            variety of contexts. In Bell, it governed the inquiry into
+attributing such a condition to the strictures of Wolff in the       the constitutionality of conditions of pre-trial detention.
+conduct of disciplinary hearings. Rather, they are generally         In other cases it has been applied to matters as various as
+attributed to overcrowding or to management deficiencies such        the deprivation of citizenship, Kennedy v. Mendoza-
+as inadequate classification or staff supervision, or to failure to  Martinez, 372 U.S. 144, 165-67, 186 (1963); the suspension
+investigate and prosecute misconduct in the first instance. See,     of Social Security benefits, Flemming v. Nestor, 363 U.S.
+                                                                     603 (1960); the corporal punishment of schoolchildren,
+e.g., LaMarca v. Turner, 995 F.2d 1526, 1537-38 (11th Cir. 1993)     Ingraham v. Wright, 430 U.S. 651, 674 (1977); and imprison-
+                                                                     ment at hard labor for immigration violations. Wong Wing
+cert. denied, 114 S.Ct. 1189 (1994); Fisher v. Koehler, 692 F.Supp.  v. United States, 163 U.S. 228, 237 (1896).
+1519 (S.D.N.Y. 1988), aff'd 902 F.2d 2 (2d Cir. 1990).
+                                         40                                                              41
+
+     To say that punishment may not be imposed without an      administrative or regulatory reasons that are similar or
+adjudication of guilt acknowledges the self-evident fact that  even identical to measures that are used as punishment in
+one of the greatest constraints of human freedom is the        other contexts. Thus, persons awaiting trial may be incar-
+power of government to bring its coercive powers to bear       cerated, Bell, 441 U.S. at 537, although incarceration is
+upon citizens. Moreover, an action taken to punish a person    also the nation's primary form of punishment. Depriva-
+for some real or imagined misconduct is more devastating in    tion of citizenship requires due process when done for
+its impact than that same action taken in the service of the   punitive reasons, but not when done as an exercise of
+legitimate operation of government.?7                          Congress' power to regulate foreign affairs. Kennedy v.
+                                                               Mendoza-Martinez, supra, 372 U.S. at 162-67, distinguish-
+     Convicted prisoners have been adjudicated guilty of       ing Perez v. Brownell, 356 U.S. 44 (1958). In the prison
+crimes. However, a finding of guilt as to one specific         context, persons may be placed in administrative seg-
+crime does not give the state unlimited power exercised        regation, despite similarity to the conditions of punitive
+by prison officials to impose additional punishments for       segregation, without running afoul of the Due Process
+alleged misconduct in prison. Such an unlimited power to       Clause. Hewitt, supra, 459 U.S. at 468.
+punish cannot rationally be comprehended within the
+proposition that "given a valid conviction, the criminal            The "punishment" inquiry may present difficult line-
+defendant has been constitutionally deprived of his lib-       drawing problems in some cases, as this Court has long
+erty to the extent that the State may confine him and          acknowledged.?® See Montanye v. Haymes, 427 U.S. 236
+subject him to the rules of its prison system so long as the
+conditions of confinement do not otherwise violate the              28 This Court's cases acknowledge that determining what
+Constitution." Meachum v. Fano, supra, 427 U.S. at 224.        constitutes punishment is not always straightforward. It has
+Disciplinary punishment without constitutional check is        stated as a test:
+not "within the normal limits or range of custody which
+the conviction has authorized the State to impose," (Id., at          Whether the sanction involves an affirmative disabil-
+225), any more than commitment to a mental hospital or                ity or restraint, whether it has historicaliy been
+subjection to the unwanted administration of psycho-                  regarded as a punishment, whether it comes into play
+tropic drugs. See Vitek, supra, 445 U.S. at 488; Washington,         only on a finding of scienter, whether its operations
+supra, 494 U.S. at 221-22.                                            will promote the traditional aims of punishment -
+                                                                     retribution and deterrence, whether the behavior to
+     Given the complexities of modern life and govern-               which it applies is already a crime, whether an alter-
+ment, the state may legitimately take actions for genuine            native purpose to which it may rationally be con-
+                                                                     nected is assignable for it, and whether it appears
+     27 As Justice Holmes once observed, "even a dog distin-         excessive in relation to the alternative purpose
+guishes between being stumbled over and being kicked." O.            assigned are all relevant to the inquiry, and may often
+Holmes, The Common Law 3 (1981).                                     point in differing directions.
+                                         42                                                                     43
+
+(1976) (declining to distinguish between transfers                     due process clause of the Fourteenth Amendment, inde-
+                                                                       pendent of any liberty interest that may be created by
+imposed for administrative purposes and those that                     state law, in not being arbitrarily punished with solitary
+might circumstantially be shown to be punitive). How-                  confinement. The Court declared:
+ever, no such problems present themselves here, since it
+is not disputed that Hawaii's system of sanctions for                        [I]t would be difficult for the purposes of pro-
+violations of disciplinary rules is a punitive system or                     cedural due process to distinguish between the
+that the treatment of the Respondent was punitive in                         procedures that are required where good time is
+                                                                             forfeited and those that must be extended when
+nature.??                                                                    solitary confinement is at issue.
+
+      B. The Court's Prior Decisions Acknowledge that                  Id., at 571 n. 19.
+            Substantial Punishments Require Due Process
+            Protections.                                                     This Court did not concern itself with the source of
+                                                                       this right not to be arbitrarily held in solitary confine-
+      The Court's decisions support the proposition that               ment, but recognized that there was no principled dis-
+due process protections must be observed when substan-                 tinction between punishment forfeiting good time and
+tial punishments are meted out to prisoners in the prison              punishment imposing solitary confinement. This right
+disciplinary system. In Wolff, supra, 418 U.S. 539, the                was acknowledged to exist even though the Court did not
+Court held that a prisoner has a liberty interest under the            locate its source within state law.
+
+Bell v. Wolfish, supra, 441 U.S. at 537-38, quoting Kennedy v.               In Cox v. Cook, 420 U.S. 734, 736 (1975) (per curiam),
+Mendoza-Martinez, supra, 372 U.S. at 168-69.                           this Court noted one year later that "[i]n Wolff v. McDon-
+
+      The practicalities of prison administration may impose a de      nell, .. . we held that a state prisoner was entitled under
+minimis standard of punitive action such that minor punish-            the Due Process Clause of the Fourteenth Amendment to
+ments for minor misconduct may escape due process scrutiny or          notice and some kind of hearing in connection with disci-
+call for lesser procedural protections. See Wolff, supra, 418 U.S. at  pline determinations involving serious misconduct."
+571 n. 19 (dicta suggesting that "lesser penalties such as the loss
+of privileges" would not require Wolff procedures); McCann v.          (Emphasis added.) In Hughes v. Rowe, 449 U.S. 5 (1980)
+
+ Coughlin, 698 F.2d 112, 121 (2d Cir. 1983) (setting threshold for     this Court approved of a lower court's statement that the
+                                                                       Fourteenth Amendment affords a prisoner minimum pro-
+ due process inquiry at placement in "Special Housing Unit" or         cedural safeguards before disciplinary action may be
+ two weeks' confinement in prisoner's own cell). That question         taken. (Id. at 9.) This Court has been steady in holding
+ is not before the Court in this case.                                 that, in addition to liberty interests created by state laws,
+                                                                       the serious loss of freedom imposed by solitary confine-
+      29 The lexicon of the Hawaii prison regulations focuses on       ment is inherently a deprivation of liberty.
+ "punishment" for prohibited acts within the various categories.
+ §§ 17-201-6(b); 17-201-7(b); 17-201-8(b); 17-201-9(b);
+ 17-201-10(b).
+                                          44                                                                       45
+
+      The Court emphasized in Wolff that the "touchstone                 specific act in violation of a specific rule -- notwithstand-
+of due process is protection of the individual against                   ing the tortured construction placed on the Hawaii rules
+arbitrary action of government." 418 U.S. at 558. Since                  by the present Petitioner.
+Wolff, neither this Court nor any lower court has altered
+the composition of that touchstone by allowing arbitrary                       This recognition by the states is consistent with the
+government action that results in the serious loss of free-              reality that punishment for misconduct in a prison setting
+dom to a prisoner.                                                       inescapably has broad consequences beyond the days a
+                                                                         prisoner may spend in a segregated unit. A prisoner's
+      C. The Consequences of Prison Punishment Go                        disciplinary record can and will affect his eligibility for a
+            Beyond the Sanction Imposed and Have a Per-                  less restrictive classification, for more desirable (or for
+            vasive Effect on Liberty.                                    any) employment within the prison, for transfer to a more
+                                                                         desirable prison, for admission to educational or other
+      In recognition that imposing punishment is a quali-                program opportunities,*? or for work-release, furloughs,
+tatively different act from imposing restrictions based on               and other forms of temporary release. While the depriva-
+administrative necessity, every state prison disciplinary                tion of none of these matters individually rises to the
+system appears to require some finding of misconduct                     level of constitutionally defined liberty, their pervasive
+before discipline can be imposed.*° Most states' classifica-             and cumulative impact strongly supports the proposition
+tion and transfer systems, and many states' administra-                  that the factor common to all of them - the prisoner's
+tive segregation systems, build in sufficient discretion                 disciplinary determinations - should be recognized as
+that they do not create liberty interests.*! By contrast, we             implicating liberty.
+know of no state that authorizes the imposition of sub-
+stantial punishment at the discretion of prison officials,                     A fortiori, the impact of prison discipline and punish-
+without requiring a finding that the prisoner committed a                ment on the extent of imprisonment itself compels the
+
+     30 This is the characterization made by the United States in              32 Inmates at HCF, including Respondent herein, are eligi-
+international human rights forums. See note 25, supra.                   ble to and do participate in the Correctional Industries Program.
+                                                                         Hawaii Revised Statutes (1985 & Supp. 1992) § 354D-1, et seq.
+     31 See, e.g., Templeman v. Guntez, 16 F.3d 367, 369 (10th Cir.      Under that program, the Department of Public Safety, "shall
+1994) (Colorado administrative segregation); Newell v. Brown,            recommend a possible reduction in the minimum term to the
+981 F.2d 880, 883-84 (6th Cir. 1992) (Michigan security classifica-      Hawaii Paroling Authority for any offender satisfactorily par-
+tion), cert. denied, 114 S.Ct. 127 (1993); O'Bar v. Pinon, 953 F.2d 74,  ticipating in the Correctional Industries Program for a minimum
+84-85 (4th Cir. 1991) (North Carolina "pending evaluation" seg-          of one year. ... " § 354D-119b. A finding of serious misconduct
+regation, temporary release, reclassification, and transfers).           disables the inmate from satisfactorily participating in the pro-
+                                                                         gram and thereby obtaining the recommendation of a possible
+                                                                         reduction in the minimum term.
+                                          46                                                                  47
+
+recognition that imposing substantial punishment in                 it will have a significant effect on parole. Hewitt, supra, 459
+prison should be recognized as a liberty deprivation. It is         U.S. at 473, ("[t]here is no indication that administrative
+plain that a prisoner with an unfavorable disciplinary              segregation will have any significant effect in parole oppor-
+record has a substantially diminished chance of release             tunities.") The influence of the inmate's disciplinary record
+on parole.** What is more, findings of misconduct can be            on parole opportunities in Hawaii is indisputable.
+used not just to deny parole but also to rescind parole
+that already has been granted. Haw. Admin. R.                             D. Important Policy Considerations Support the
+23-700-31(c).                                                                   View that Substantial Prison Punishments Can-
+                                                                                not be Imposed Without Due Process.
+     The Hawaii Parole Handbook expressly declares that
+the Parole Authority looks at the "number of miscon-                      There was a day when prisons could and did operate
+ducts." Specifically, the Hawaii Parole Handbook states             entirely arbitrarily, with no authority except the personal
+that "(t]he Authority will look at: (1) the seriousness of          authority of the prison staff, and no recourse from their
+the misconduct; (2) the number of frequencies of miscon-            actions and decisions. That day is past. The exercise of
+duct; (3) whether the misconduct indicates that the                 arbitrary authority to punish, in prison or out of it, is
+offender displays the patterns of behavior which brought            alien to the basic norms of American society.
+him/her to prison; and (4) whether the misconduct
+record indicates that the offender cannot follow the terms                The safeguards of Wolff do more than guarantee a
+and conditions of parole." Parole Handbook, at 7.                   minimal integrity of fact-finding in prison discipline.
+                                                                    They play a major role in maintaining the peace in prison,
+     The initial finding of serious misconduct in this case         and therefore maintaining the safety of both inmates and
+and the imposition of disciplinary segregation potentially          staff. Twenty years after Wolff, minimal fairness in prison
+had a significant effect on Respondent's release date. In           disciplinary proceedings has become part of the settled
+Hewitt, this Court recognized that the protections offered          expectations of prison life.*4
+an inmate depend to a certain extent upon whether or not
+                                                                         34 One cannot expect that the self-interest of prison officials
+     33 The fact that an expectation of parole may not constitute   and staff is sufficient to guarantee fairness in discipline, without
+a liberty interest does not vitiate this point. When parole is      reference to constitutional requirements and their enforcement.
+possible and one of the criteria that paroling authorities use is   As this Court has acknowledged in denying absolute immunity
+an inmate's conduct record, parole decisions "involve a wholly      to prison hearing officers, there are many pressures militating
+retrospective factual questions" (Greenholtz v. Inmates of the      against fairness in prison. "It is the old situational problem of
+Nebraska Penal and Correctional Complex, 442 U.S. 1, 9-10 (1979))   the relationship between the keeper and the kept, a relationship
+that demand a structure "to minimize the risk of erroneous          that hardly is conducive to a truly adjudicatory performance."
+decisions." Id. at 13; see also Morrissey, supra, 408 U.S. at 484.  Cleavinger v. Saxner, 474 U.S. 193, 204 (1985).
+                     48                                                                 49
+
+Moreover, both society and the inmate have a stake                                           CONCLUSION
+                                                                     For all of these reasons the judgment of the Court of
+in rehabilitation. Concededly, there is no constitutional
+                                                                Appeals should be affirmed.
+right to rehabilitation; but it is beyond the nation's ability
+
+to keep all, or even most, wrongdoers locked up in perpe-
+
+tuity. For all but the worst offenders, the day will come        99 DATED:      Santa Monica, California, December 19,
+                                                                --
+when they return to the streets of lawful society. This
+
+Court recognized long ago that "[s]ociety has a stake in                                Paut L. Horrman
+
+whatever may be the chance of restoring [the offender] to                               (Counsel of Record)
+| ond wacéel Ue wae      as  Perret
+normal and useful life within the law. . .. And society has                             Gary L. Bostwick
+                                                                                        icetes Chama.
+a further interest in treating the parolee with basic fair-
+                                                                                        Law Offices OF
+ness: fair treatment in parole revocations will enhance the
+                                                                Peter LABRADOR          Paut L. HorrmMan
+
+chance of rehabilitation by avoiding reactions to arbitrari-    550 Halekauwila Street 100 Wilshire Boulevard
+
+ness." Morrissey, supra, 480 U.S. at 484 (dealing with          Suite 300               Suite 1000
+                                                                Honolulu, Hawaii 96813  Santa Monica, California 90401
+parcte sevecation).
+                                                                (808) 538-7761          (310) 260-9585
+
+      What is true for parolees is no less true for prisoners.                  Counsel for Respondent
+Treating prisoners in a lawless fashion cannot promote                           DeMont R.D. Conner
+their allegiance to the rule of law. The entire rehabilitative
+ethos, even in maximum security facilities like HCF, as
+well as the need for security and order in the facility,
+depend upon an environment that gives prisoners reason-
+able expectations that they will not be punished arbi-
+trarily. To command obedience, the law itself must be
+credible and fair. For prisoners, once convicted and sen-
+tenced, their primary experience of the law is the prison
+disciplinary system. To hold that states can place this
+system wholly outside the bounds of the Due Process
+Clause, the Constitution's central guarantee of official
+lawfulness, would author a lesson for which all society
+ultimately may pay.
+

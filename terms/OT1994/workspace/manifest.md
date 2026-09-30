@@ -13,8 +13,8 @@ Generated from case-list.md and canonical Records. Standing State carryovers or 
 | 1994-12-06 | OT_1994CHUNK1 | Reich v. Collins | 93-908 | MERITS | Merits decision | Completed: Reich_v_Collins_merits_1994-12-06.md |
 | 1994-12-12 | OT_1994CHUNK1 | Brown v. Gardner | 93-1128 | MERITS | Merits decision | Completed: Brown_v_Gardner_merits_1994-12-12.md |
 | 1994-12-12 | OT_1994CHUNK1 | Nebraska Department of Revenue v. Loewenstein | 93-823 | MERITS | Merits decision | Completed: Nebraska_Department_of_Revenue_v_Loewenstein_merits_1994-12-12.md |
-| 1994-12-12 | OT_1994CHUNK1 | In re Baby K + | 93-1673 | MERITS | Merits decision | Completed: In_re_Baby_K_merits_1994-12-12.md |
-| 1995-01-09 | OT_1994CHUNK1 | Plakas v. Drinski + | 93-1824 | MERITS | Merits decision | Completed: Plakas_v_Drinski_merits_1995-01-09.md |
+| 1994-12-12 | OT_1994CHUNK1 | In re Baby K + | 93-1673 | MERITS | Merits decision | Open |
+| 1995-01-09 | OT_1994CHUNK1 | Plakas v. Drinski + | 93-1824 | MERITS | Merits decision | Open |
 | 1995-01-10 | OT_1994CHUNK1 | Interstate Commerce Commission v. Transcon Lines | 93-1318 | MERITS | Merits decision | Completed: Interstate_Commerce_Commission_v_Transcon_Lines_merits_1995-01-10.md |
 | 1995-01-10 | OT_1994CHUNK2 | Tome v. United States | 93-6892 | MERITS | Merits decision | Completed: Tome_v_United_States_merits_1995-01-10.md |
 | 1995-01-17 | OT_1994CHUNK2 | Young v. Northern Illinois Conference of United Methodist Church + | 93-1917 | MERITS | Merits decision | Completed: Young_v_Northern_Illinois_Conference_merits_1995-01-17.md |
@@ -58,7 +58,7 @@ Generated from case-list.md and canonical Records. Standing State carryovers or 
 | 1995-04-25 | OT_1994CHUNK5 | California Department of Corrections v. Morales | 93-1462 | MERITS | Merits decision | Completed: California_Department_of_Corrections_v_Morales_merits_1995-04-25.md |
 | 1995-04-25 | OT_1994CHUNK5 | United States v. Williams | 94-395 | MERITS | Merits decision | Completed: United_States_v_Williams_merits_1995-04-25.md |
 | 1995-04-26 | OT_1994CHUNK5 | United States v. Lopez | 93-1260 | MERITS | Merits decision | Completed: United_States_v_Lopez_merits_1995-04-26.md |
-| 1995-04-26 | OT_1994CHUNK5 | New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co. / Pataki v. Travelers Insurance Co. / Hospital Association of New York State v. Travelers Insurance Co. | 93-1408; 93-1414; 93-1415 | MERITS | Merits decision | Completed: New_York_State_Conference_of_Blue_Cross_Blue_Shield_Plans_v_Travelers_Insurance_Co_merits_1995-04-26.md |
+| 1995-04-26 | OT_1994CHUNK5 | New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co. / Pataki v. Travelers Insurance Co. / Hospital Association of New York State v. Travelers Insurance Co. | 93-1408; 93-1414; 93-1415 | MERITS | Merits decision | Open |
 | 1995-04-27 | OT_1994CHUNK5 | United States v. Harris + | 94-297 | MERITS | Merits decision | Completed: United_States_v_Harris_merits_1995-04-27.md |
 | 1995-05-01 | OT_1994CHUNK5 | United States v. Robertson | 94-251 | MERITS | Per curiam decision after merits submission | Completed: United_States_v_Robertson_merits_1995-05-01.md |
 | 1995-05-08 | OT_1994CHUNK5 | United States v. Pinson + | 94-164 | MERITS | Merits decision | Completed: United_States_v_Pinson_merits_1995-05-08.md |
@@ -66,11 +66,11 @@ Generated from case-list.md and canonical Records. Standing State carryovers or 
 | 1995-05-15 | OT_1994CHUNK5 | Hubbard v. United States | 94-172 | MERITS | Merits decision | Completed: Hubbard_v_United_States_merits_1995-05-15.md |
 | 1995-05-15 | OT_1994CHUNK6 | City of Edmonds v. Oxford House, Inc. | 94-23 | MERITS | Merits decision | Completed: City_of_Edmonds_v_Oxford_House_merits_1995-05-15.md |
 | 1995-05-15 | OT_1994CHUNK6 | Reynoldsville Casket Co. v. Hyde | 94-3 | MERITS | Merits decision | Completed: Reynoldsville_Casket_Co_v_Hyde_merits_1995-05-15.md |
-| 1995-05-15 | OT_1994CHUNK6 | Day v. Holahan + | 94-672 | MERITS | Merits decision | Completed: Day_v_Holahan_merits_1995-05-15.md |
+| 1995-05-15 | OT_1994CHUNK6 | Day v. Holahan + | 94-672 | MERITS | Merits decision | Open |
 | 1995-05-22 | OT_1994CHUNK6 | U.S. Term Limits, Inc. v. Thornton / Bryant v. Hill | 93-1456; 93-1828 | MERITS | Merits decision | Completed: US_Term_Limits_v_Thornton_Bryant_v_Hill_merits_1995-05-22.md |
 | 1995-05-22 | OT_1994CHUNK6 | Wilson v. Arkansas | 94-5707 | MERITS | Merits decision | Completed: Wilson_v_Arkansas_merits_1995-05-22.md |
 | 1995-05-22 | OT_1994CHUNK6 | First Options of Chicago, Inc. v. Kaplan | 94-560 | MERITS | Merits decision | Completed: First_Options_of_Chicago_Inc_v_Kaplan_merits_1995-05-22.md |
-| 1995-05-22 | OT_1994CHUNK6 | Kelley v. Board of Trustees of the University of Illinois + | 94-783 | MERITS | Merits decision | Completed: Kelley_v_Board_of_Trustees_of_the_University_of_Illinois_merits_1995-05-22.md |
+| 1995-05-22 | OT_1994CHUNK6 | Kelley v. Board of Trustees of the University of Illinois + | 94-783 | MERITS | Merits decision | Open |
 | 1995-05-30 | OT_1994CHUNK6 | Nebraska v. Wyoming | 108, Original | ORIGINAL | Original proceeding: exceptions to Special Master report | Completed: Nebraska_v_Wyoming_original_exceptions_1995-05-30.md |
 | 1995-05-30 | OT_1994CHUNK6 | North Star Steel Co. v. Thomas / Crown Cork & Seal Co., Inc. v. United Steelworkers of America, AFL-CIO-CLC | 94-834; 94-835 | MERITS | Merits decision | Completed: North_Star_Steel_v_Thomas_and_Crown_Cork_merits_1995-05-30.md |
 | 1995-05-30 | OT_1994CHUNK6 | Garlotte v. Fordice | 94-6790 | MERITS | Merits decision | Completed: Garlotte_v_Fordice_merits_1995-05-30.md |
@@ -88,18 +88,18 @@ Generated from case-list.md and canonical Records. Standing State carryovers or 
 | 1995-06-14 | OT_1994CHUNK7 | Commissioner v. Schleier | 94-500 | MERITS | Merits decision | Completed: Commissioner_v_Schleier_merits_1995-06-14.md |
 | 1995-06-14 | OT_1994CHUNK7 | Chandris, Inc. v. Latsis | 94-325 | MERITS | Merits decision | Completed: Chandris_Inc_v_Latsis_merits_1995-06-14.md |
 | 1995-06-14 | OT_1994CHUNK7 | Witte v. United States | 94-6187 | MERITS | Merits decision | Completed: Witte_v_United_States_merits_1995-06-14.md |
-| 1995-06-14 | OT_1994CHUNK8 | Gutierrez de Martinez v. Lamagno | 94-167 | MERITS | Merits decision | Open |
-| 1995-06-14 | OT_1994CHUNK8 | Oklahoma Tax Commission v. Chickasaw Nation | 94-771 | MERITS | Merits decision | Open |
-| 1995-06-19 | OT_1994CHUNK8 | Sandin v. Conner | 93-1911 | MERITS | Merits decision | Open |
-| 1995-06-19 | OT_1994CHUNK8 | United States v. Gaudin | 94-514 | MERITS | Merits decision | Open |
-| 1995-06-19 | OT_1994CHUNK8 | Vimar Seguros y Reaseguros, S.A. v. M/V Sky Reefer | 94-623 | MERITS | Merits decision | Open |
-| 1995-06-19 | OT_1994CHUNK8 | Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston | 94-749 | MERITS | Merits decision | Open |
-| 1995-06-19 | OT_1994CHUNK8 | National Private Truck Council, Inc. v. Oklahoma Tax Commission | 94-688 | MERITS | Merits decision | Open |
-| 1995-06-21 | OT_1994CHUNK8 | United States v. Aguilar | 94-270 | MERITS | Merits decision | Open |
-| 1995-06-21 | OT_1994CHUNK8 | Florida Bar v. Went For It, Inc. | 94-226 | MERITS | Merits decision | Open |
-| 1995-06-26 | OT_1994CHUNK8 | Vernonia School District 47J v. Acton | 94-590 | MERITS | Merits decision | Open |
-| 1995-06-29 | OT_1994CHUNK8 | Rosenberger v. Rector and Visitors of the University of Virginia | 94-329 | MERITS | Merits decision | Open |
-| 1995-06-29 | OT_1994CHUNK8 | Babbitt v. Sweet Home Chapter of Communities for a Great Oregon | 94-859 | MERITS | Merits decision | Open |
+| 1995-06-14 | OT_1994CHUNK8 | Gutierrez de Martinez v. Lamagno | 94-167 | MERITS | Merits decision | Completed: Gutierrez_de_Martinez_v_Lamagno_merits_1995-06-14.md |
+| 1995-06-14 | OT_1994CHUNK8 | Oklahoma Tax Commission v. Chickasaw Nation | 94-771 | MERITS | Merits decision | Completed: Oklahoma_Tax_Commission_v_Chickasaw_Nation_merits_1995-06-14.md |
+| 1995-06-19 | OT_1994CHUNK8 | Sandin v. Conner | 93-1911 | MERITS | Merits decision | Completed: Sandin_v_Conner_merits_1995-06-19.md |
+| 1995-06-19 | OT_1994CHUNK8 | United States v. Gaudin | 94-514 | MERITS | Merits decision | Completed: United_States_v_Gaudin_merits_1995-06-19.md |
+| 1995-06-19 | OT_1994CHUNK8 | Vimar Seguros y Reaseguros, S.A. v. M/V Sky Reefer | 94-623 | MERITS | Merits decision | Completed: Vimar_Seguros_y_Reaseguros_SA_v_MV_Sky_Reefer_merits_1995-06-19.md |
+| 1995-06-19 | OT_1994CHUNK8 | Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston | 94-749 | MERITS | Merits decision | Completed: Hurley_v_Irish_American_Gay_Lesbian_and_Bisexual_Group_of_Boston_merits_1995-06-19.md |
+| 1995-06-19 | OT_1994CHUNK8 | National Private Truck Council, Inc. v. Oklahoma Tax Commission | 94-688 | MERITS | Merits decision | Completed: National_Private_Truck_Council_Inc_v_Oklahoma_Tax_Commission_merits_1995-06-19.md |
+| 1995-06-21 | OT_1994CHUNK8 | United States v. Aguilar | 94-270 | MERITS | Merits decision | Completed: United_States_v_Aguilar_merits_1995-06-21.md |
+| 1995-06-21 | OT_1994CHUNK8 | Florida Bar v. Went For It, Inc. | 94-226 | MERITS | Merits decision | Completed: Florida_Bar_v_Went_For_It_Inc_merits_1995-06-21.md |
+| 1995-06-26 | OT_1994CHUNK8 | Vernonia School District 47J v. Acton | 94-590 | MERITS | Merits decision | Completed: Vernonia_School_District_47J_v_Acton_merits_1995-06-26.md |
+| 1995-06-29 | OT_1994CHUNK8 | Rosenberger v. Rector and Visitors of the University of Virginia | 94-329 | MERITS | Merits decision | Completed: Rosenberger_v_Rector_and_Visitors_of_the_University_of_Virginia_merits_1995-06-29.md |
+| 1995-06-29 | OT_1994CHUNK8 | Babbitt v. Sweet Home Chapter of Communities for a Great Oregon | 94-859 | MERITS | Merits decision | Completed: Babbitt_v_Sweet_Home_Chapter_of_Communities_for_a_Great_Oregon_merits_1995-06-29.md |
 | 1995-06-29 | OT_1994CHUNK9 | Miller v. Johnson / Abrams v. Johnson / United States v. Johnson | 94-631; 94-797; 94-929 | MERITS | Merits decision | Open |
 | 1995-06-29 | OT_1994CHUNK9 | Capitol Square Review and Advisory Board v. Pinette | 94-780 | MERITS | Merits decision | Open |
 | 1995-06-29 | OT_1994CHUNK9 | Chabad-Lubavitch of Georgia v. Miller + | 93-1047 | MERITS | Merits decision | Open |
@@ -140,12 +140,12 @@ Potential dependencies identify questions for refresh, not holdings. Only an act
 | Johnson v. Jones | Swint v. Chambers County Commission (1995-03-01) | Swint is completed. Apply its actual finality, municipal-liability and pendent-review boundaries; it does not decide the later officers' evidence-sufficiency question. |
 | Kimberlin v. Quinlan | Johnson v. Jones (1995-06-12) | Same-day relationship only; no coordinated sequence established. Common entering baseline unless an express sequence is established and recorded before adjudication. The brief supports a bounded pure-law controversy; an evidence-sufficiency component or claimed earlier Johnson release requires separate reachability and source revalidation. |
 | Commissioner v. Schleier | McKennon v. Nashville Banner Publishing Co. (1995-01-23) | McKennon is completed. Its after-acquired-misconduct holding separates assumed ADEA liability from available remedies; it decides no tax characterization. Refresh the later tax question against that precise scope. |
-| United States v. Gaudin | Hubbard v. United States (1995-05-15) | Hubbard is completed. Apply only its actual section 1001 entity-coverage holding and exact Bramblett treatment; it supplies no Gaudin materiality or jury ruling. Refresh the distinct later question. |
-| Vimar Seguros y Reaseguros, S.A. v. M/V Sky Reefer | Allied-Bruce Terminix Cos. v. Dobson (1995-01-18); Mastrobuono v. Shearson Lehman Hutton, Inc. (1995-03-06); First Options of Chicago, Inc. v. Kaplan (1995-05-22) | Allied-Bruce and Mastrobuono are completed. Preserve their actual FAA coverage, consent, choice-of-law and remedy limits. First Options is completed May 22: clear and unmistakable antecedent delegation, independent review absent agreement, and ordinary appellate review govern at the precise proposition-level joins of its Record. |
-| National Private Truck Council, Inc. v. Oklahoma Tax Commission | Reich v. Collins (1994-12-06) | Reich is completed: use its actual tax-remedy/fair-notice rule without inventing a statutory civil-rights remedy or automatic refund. Refresh the distinct later remedial question. |
-| United States v. Aguilar | Hubbard v. United States (1995-05-15); United States v. Gaudin (1995-06-19) | Hubbard is completed at the exact court-coverage and precedent-treatment scope of its Record. Gaudin remains a future source until actually adjudicated; no materiality, jury or obstruction proposition is forecast. |
-| Florida Bar v. Went For It, Inc. | Lanphere & Urbaniak v. Colorado + (1995-04-18); Rubin v. Coors Brewing Co. (1995-04-19) | Lanphere and Rubin are completed. Refresh against their actual commercial-speech advancement and fit holdings, named coalitions and limits; distinguish the truthful numerical-label application from the later advertising restriction. No later result is forecast. |
-| Rosenberger v. Rector and Visitors of the University of Virginia | Church of Scientology Flag Service Organization, Inc. v. City of Clearwater + (1994-12-05) | Clearwater is completed but creates no constitutional financing or establishment holding. Its RFRA rule and preserved constitutional boundaries must be distinguished in the later entering-law review. |
+| United States v. Gaudin | Hubbard v. United States (1995-05-15) | Completed June19. Hubbard’s entity-coverage holding is distinct; Gaudin requires jury determination of criminal elements, reserving universal clause and error classifications. |
+| Vimar Seguros y Reaseguros, S.A. v. M/V Sky Reefer | Allied-Bruce (1995-01-18); Mastrobuono (1995-03-06); First Options (1995-05-22) | Completed June19. Actual FAA coverage, consent and review limits remain; COGSA substantive protection coexists with arbitration, and the domestic action is retained. |
+| National Private Truck Council, Inc. v. Oklahoma Tax Commission | Reich v. Collins (1994-12-06) | Completed June19. Actual honored adequate refunds support withholding duplicate federal tax equity; no automatic refund amount or general exhaustion rule follows. |
+| United States v. Aguilar | Hubbard v. United States (1995-05-15); United States v. Gaudin (1995-06-19) | Completed June21. Actual Gaudin was refreshed and changed no statutory commitment; no §1001 count or withheld materiality element was invented. Preserved knowledge-instruction issues remain below. |
+| Florida Bar v. Went For It, Inc. | Lanphere & Urbaniak v. Colorado (1995-04-18); Rubin v. Coors Brewing Co. (1995-04-19) | Completed June21. Actual real-harm, advancement and reasonable-fit requirements applied to the specific waiting period; no mandatory numerical study or least-restrictive-means rule created. |
+| Rosenberger v. Rector and Visitors of the University of Virginia | Church of Scientology v. Clearwater (1994-12-05); Hurley (1995-06-19) | Completed June29. RFRA does not settle constitutional financing; Hurley’s private-composition protection reinforces distinct attribution but decides no printing subsidy. Procedural Zobrest supplies no aid-merits holding. |
 | Capitol Square Review and Advisory Board v. Pinette | Rosenberger v. Rector and Visitors of the University of Virginia (1995-06-29) | Same-day relationship only; no coordinated sequence established. Common entering baseline unless an express sequence is established and recorded before adjudication. |
 | Chabad-Lubavitch of Georgia v. Miller + | Rosenberger v. Rector and Visitors of the University of Virginia (1995-06-29); Capitol Square Review and Advisory Board v. Pinette (1995-06-29) | Same-day relationship only; no coordinated sequence established. Common entering baseline unless an express sequence is established and recorded before adjudication. |
 
@@ -172,17 +172,13 @@ Authority for inventory identity and dates: `case-list.md` and the nine briefs�
 | 1995-03-10 | Revised Vaccine Injury Table and Qualifications and Aids to Interpretation, 60 Fed. Reg. 7678–7696 | [Admitted Source Record](../records/Vaccine_Injury_Table_regulatory_effectiveness_1995-03-10.md). Both revised provisions govern petitions filed on or after March 10; earlier petitions retain section 2114(a) and (b) as in effect February 8, 1995. No Court action or individual award. Explicit late chronology insertion leaves earlier adjudications unchanged. |
 | 1995-04-04 | Plant Variety Protection Act amendments, Pub. L. 103-349, sections 14–15 | Section 15 makes the Act effective 180 days after October 6, 1994. Section 14(a) preserves the former law for certificates already issued and pending applications, except as section 14 provides. Section 14(b) allows refiling a pending application after effectiveness under amended eligibility and protection terms while retaining its original date for section 42. Section 14(c) requires notice of amended protection and retains section 128 sanctions for false or misleading claims or labels. Section 9’s contract-producer provision has its own scope for listed non-soybean crops. Completed source admission: [Admitted Source Record](../records/Plant_Variety_Protection_Act_Amendments_statutory_effectiveness_1995-04-04.md). Do not retroactively apply the amendment to Asgrow. See the Asgrow source map and [official enrolled law](https://www.govinfo.gov/content/pkg/STATUTE-108/pdf/STATUTE-108-Pg3136.pdf). |
 
-## Current chronology control after chunk 7
+## Current chronology control after chunk 8
 
-**Posture:** After chunk 7, with 84 completed inventory events and two additional effective-source admissions. **Chronology cursor:** 1995-06-14. The June 5 group is complete. Uncoordinated same-day matters share a common entering baseline; no file-preservation order creates an earlier release. The June 14 group continues in chunk 8. Chunk-7 June 14 decisions do not supply entering law to their uncoordinated chunk-8 same-date peers.
+**Posture:** After chunk 8, with 96 completed inventory events and two additional effective-source admissions. **Chronology cursor:** 1995-06-29. The June 14 group is complete. Uncoordinated same-day decisions share a common entering baseline. The June 29 group continues in chunk 9; Rosenberger and Sweet Home do not supply entering law to their uncoordinated same-date peers.
 
-The opening authority remains the synchronized September 28, 2026 OT1993 edition, processed through June 30, 1994: [Holdings volumes](../../../state/holdings/INDEX.md), [continuous Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md). The August 3, 1994 Court and circuit allotments remain effective. Current Records supplement that baseline only from their effective dates.
+The [manifest](manifest.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 96 inventory events are completed; three remain unadjudicated. Nebraska remains before the Special Master on the admitted amendments. Kansas remains open for remedy. No inherited carryover is closed. The Vaccine Table and Plant Variety Protection Act transitions remain Admitted Source Records, not additional Court judgments.
 
-Earlier-term endpoints remain Benten v. Kessler (July 17, 1992), DeBoer v. DeBoer (July 26, 1993), and the complete June 30, 1994 OT1993 group: Holder; De Grandy and companions; Bagwell; McFarland; Madsen; and Tuilaepa/Proctor.
-
-The [manifest](manifest.md) retains 99 scheduled Court inventory matters and seven additional unscheduled carryovers. 84 inventory events are completed; 15 remain unadjudicated. Nebraska's original proceeding remains before the Special Master on the admitted amendments. Kansas remains open for remedy. No inherited carryover is closed. The Vaccine Table and Plant Variety Protection Act transitions remain Admitted Source Records, not additional Court judgments.
-
-The next scheduled unresolved inventory event after chunk 7 is **Gutierrez de Martinez v. Lamagno, 1995-06-14, OT_1994CHUNK8**.
+The next scheduled unresolved inventory event after chunk 8 is **Miller v. Johnson / Abrams v. Johnson / United States v. Johnson, 1995-06-29, OT_1994CHUNK9**. The June 29 peer group shares entering law effective before June 29 absent an established coordinated release sequence.
 
 ## Current-term continued proceeding
 

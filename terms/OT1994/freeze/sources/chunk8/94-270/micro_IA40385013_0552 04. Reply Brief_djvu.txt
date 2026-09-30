@@ -1,0 +1,684 @@
+Bugema Court, WS 
+EILeED 
+
+
+No. 94-270 ~ OCT 2 7 1994 
+
+
+OFHCE Ur THE CLERK 
+
+
+In the Supreme Court of the Gin 
+
+
+OCTOBER TERM, 1994 
+
+
+UNITED STATES OF AMERICA, PETITIONER 
+v. 
+
+
+ROBERT P. AGUILAR 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+REPLY BRIEF FOR THE PETITIONER 
+
+
+DREW S. DAYs, II] 
+Solicitor General 
+Department of Justice 
+Washington, D.C. 20530 
+(202) 514-2217 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases: Page 
+
+
+Bank of Nova Scotia v. United States, 487 U.S. 250 
+
+I <li inlaid dagen aad ie eerinranaimansaecons 
+Dowling v. United States, 493 U.S. 342 (1990) ................. 
+Evans v. United States, 112 S. Ct. 1881 (1992) ................ 
+Glasser v. United States, 315 U.S. 60 (1942) ................... 
+Morton v. Mancari, 417 U.S. 535 (1974) ............ccceeeeeeees 
+Posadas v. National City Bank, 296 U.S. 497 (1936) ...... 
+Randall v. Loftsgaarden, 478 U.S. 647 (1986) ................. 2, 
+i RB eee 
+United States v. Batchelder, 442 U.S. 114 (1979) ............ 
+United States v. Beacon Brass Co., 344 U.S. 43 (1952) ... 
+United States v. Grubb, 11 F.3d 426 (4th Cir. 1993) ........ 3, 
+United States v. Powell, 469 U.S. 57 (1984) ...........cceeeeee 
+United States v. Wood, 6 F.3d 692 (10th Cir. 1993) ......... 
+
+
+wwonrwwWwnNwnwsnvov © or 
+
+
+Constitution, statutes and rule: 
+
+
+I a asaenssesiniaisennnncidinieinents 
+| RAT EE 1, 2, 3, 4, 5, 6 
+I setae 1, 2, 3, 
+I a lil 
+I ase 
+
+
+Miscellaneous: 
+S. Rep. No. 541, 99th Cong., 2d Sess. (1986) ................004 7 
+
+
+(1) 
+
+
+In the Supreme Court of the Gnited States 
+
+
+OCTOBER TERM, 1994 
+
+
+No. 94-270 
+UNITED STATES OF AMERICA, PETITIONER 
+Vv. 
+
+
+ROBERT P. AGUILAR 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+REPLY BRIEF FOR THE PETITIONER 
+
+
+1. Respondent’s primary argument opposing certiorari is 
+that, in respondent’s view, the Ninth Circuit’s construction of 
+18 U.S.C. 1503 “has no continuing relevance.” Br. in Opp. 16. 
+In 1988, Congress amended another statute defining certain 
+witness tampering offenses—18 U.S.C. 1512(b), see App., 
+infra, la-2a—to extend it to offenses involving the “corrupt[] 
+persuas[ion]” of witnesses.’ Congress did not at that time 
+amend Section 1503. Respondent acknowledges that this case 
+presents the question “whether [respondent’s] conduct 
+
+
+1 Respondent states that “corrupt[{] persua[sion]”—the term added to 
+Section 1512(b)—was “precisely the term of the omnibus clause of Section 
+1503 upon which the government relied to prosecute Judge Aguilar.” Br. in 
+Opp. 15-16. The term “corrupt” was and is part of the omnibus clause of 
+Section 1503. See Pet. 2. But neither the term “persua[sion]” nor any of its 
+variants appeared in any modern version of Section 1503. 
+
+
+(1) 
+
+
+2 
+
+
+violated Section 1503 prior to the amendment of Section 1512.” 
+Br. in Opp. 17. But respondent argues that “it hardly makes 
+sense for the Court to revisit that issue now,” because the 
+1988 amendments would govern future cases of this sort. /bid. 
+Nothing in the language or legislative history of the 1988 
+amendment to Section 1512(b) would have any effect on a 
+prosecution such as this one under Section 1503. The 1988 
+amendment simply substituted the term “threatens, or 
+corruptly persuades” for the term “threatens” in Section 
+1512(b). As stated in the committee report on which 
+respondent relies, that substitution was intended to make 
+clear that cases of “corrupt persuasion” could and should 
+thenceforth be brought under Section 1512(b). See Br. in Opp. 
+16. This, however, was not a case of “corrupt persuasion”; 
+respondent was not alleged to have persuaded, or attempted to 
+persuade, the FBI agents to make false statements to the 
+grand jury. Instead, he was charged with attempting to 
+obstruct the grand jury’s investigation by making false 
+statements to the FBI agents, with the intent that those 
+statements be reported to the grand jury. The 1988 
+amendment to Section 1512(b) had nothing to do with that 
+charge, and the question that respondent concedes is 
+presented in this case accordingly remains an important one. 
+In any event, respondent’s argument essentially reduces to 
+the proposition that Congress effected a partial implied repeal 
+of Section 1503’s omnibus clause when it amended Section 
+1512(b) in 1988 or, perhaps, when it first enacted Section 
+1512(b) in 1982. As this Court has frequently explained, “[iJt 
+is, of course, a cardinal principle of statutory construction 
+that repeals by implication are not favored.” Randall v. 
+Loftsgaarden, 478 U.S. 647, 661 (1986); see, e.g., TVA v. Hill, 
+437 U.S. 153, 190 (1978); Morton v. Mancari, 417 U.S. 535, 551 
+(1974); Posadas v. National City Bank, 296 U.S. 497, 503 
+(1936). Neither of the long-recognized exceptions to that 
+rule—where there is “irreconcilable conflict” between the 
+
+
+3 
+
+
+two statutes or where “the later act covers the whole 
+situation of the earlier one and is clearly intended as a 
+substitute,” see Randall, 478 U.S. at 661—would apply to the 
+statutes at issue in this case. And if a partial repeal cannot be 
+implied from the language of the statute, still less could it be 
+implied from the comments of a congressional committee, 
+upon which respondent places sole reliance. It is a familiar 
+principle in the criminal law that the same conduct may 
+constitute an offense under two distinct statutes, and the law 
+is clear that in such a situation the government has the option 
+of proceeding under either one. See, e.g., United States v. 
+Batchelder, 442 U.S. 114, 123-126 (1979) (citing cases); United 
+States v. Beacon Brass Co., 344 U.S. 43, 45-46 (1952). 
+
+That the controversy concerning the meaning of Section 
+1503 remains alive is apparent from the Fourth Circuit’s 
+decision in United States v. Grubb, 11 F.3d 426 (1993). As we 
+explain in the petition, see Pet. 18-19, the facts of Grubb are 
+remarkably similar to the facts of this case: the prosecution 
+under Section 1503 of a sitting judge for obstruction of a grand 
+jury investigation, based on false statements he made in a tape 
+recorded interview with FBI agents investigating corruption. 
+The false statements at issue in Grubb were made on October 
+8, 1991, see 11 F.3d at 437, well after the 1988 amendment. 
+Similarly, the false statements to FBI agents that formed the 
+basis of the Section 1503 count in United States v. Wood, 6 
+F.3d 692 (10th Cir. 1993), occurred in 1989, see id. at 693, and 
+therefore also post-dated the amendment to Section 1512(b). 
+See Pet. 20 (discussing Wood). 
+
+2. Respondent asserts that the Fourth Circuit’s decision 
+in Grubb does not conflict with the Ninth Circuit’s decision in 
+this case, because in Grubb the indictment alleged that “the 
+Grand Jury was assisted in this investigation by Special 
+Agents of the FBI” and the evidence showed that the grand 
+jury investigation was “being conducted through this FBI 
+agent.” Br. in Opp. 20 (quoting opinion in Grubb). In res- 
+
+
+4 
+
+
+pondent’s view, those facts were not present in this case and 
+the two cases can therefore be harmonized. 
+
+The facts of this case are virtually identical to those of 
+Grubb. To be sure, the indictment in this case did not 
+expressly allege that the FBI agents were assisting the grand 
+jury investigation, nor is there any requirement that an 
+indictment under Section 1503 must explain the details of the 
+relationship between the defendant’s conduct and the grand 
+jury investigation. But there was ample evidence that the 
+FBI agents to whom respondent made the false statements 
+were assisting a grand jury investigation. The foreperson of 
+the grand jury testified at trial that both of the agents to 
+whom respondent made his false statements—Agents Carlon 
+and Noel—appeared before the grand jury, 6 Tr. 890, and that 
+she was “familiar” with numerous other FBI agents involved 
+in this case, id. at 896. In the tape recorded conversation 
+between Solomon and respondent on May 26, 1988, prior to 
+respondent’s interview with the FBI agents, Solomon 
+informed respondent that FBI agents had met with him and 
+said that “there’s a grand jury goin’ on now” and that “they’d 
+be back with a subpoena for the grand jury.” Resp. C.A. E.R. 
+39, 40.2 In addition, one of the agents himself told respondent 
+that “I’d have to say yes, you know, um there is a Grand Jury 
+meeting,” and that “some evidence will be heard I’m . . . I’m 
+sure on this issue.” Jd. at 73. When respondent asked a 
+further question about the grand jury investigation, the agent 
+replied “I don’t know if I can tell you that. I mean what’s... 
+is there a 6(e) rule prohibiting me from telling you that?” 
+Ibid. Federal Rule of Criminal Procedure 6(e) protects the 
+secrecy of grand jury proceedings, and the agent’s statements 
+
+
+2 Respondent immediately understood the significance of the grand jury 
+investigation, commenting that “if they subpoena me I may have a 
+problem. A real problem explaining my discussions with Judge Weigel.” 
+Resp. C.A. E.R. 43. 
+
+
+5 
+
+
+surely provided evidence that he was assisting the grand jury 
+investigation. 
+
+Respondent seizes upon the Ninth Circuit’s comment that 
+“(t]here is no evidence that a grand jury had authorized or 
+directed the FBI investigation; nor is there evidence that the 
+FBI agents had been subpoenaed to testify,” Pet. App. 18a, and 
+argues that those comments distinguish this case from 
+Grubb. Br. in Opp. 20. They do not. Ordinarily grand juries 
+neither specifically authorize nor specifically direct FBI 
+agents who are assisting investigations, and there was no 
+evidence that the grand juries either in this case or in Grubb 
+did so. Indeed, this Court has explained that the government 
+has no authority to swear law enforcement agents in as 
+“‘agents’ of the grand jury,” and that such agents are 
+ordinarily “aligned with the prosecutors.” Bank of Nova 
+Scotia v. United States, 487 U.S. 250, 260 (1988). Nor does a 
+grand jury ordinarily have any need to issue subpoenas to FBI 
+agents, who can be expected to appear voluntarily when called. 
+In short, insofar as it is of importance, the evidence in this 
+case demonstrated that the relationship between the FBI 
+agents and the grand jury was identical to that in Grubb: FBI 
+agents were working in conjunction with the prosecutors to 
+“assist[]” a grand jury in gathering evidence. See 11 F.3d at 
+436 n.15. 
+
+In any event, the Grubb court explained that the false 
+statements to the FBI agents constituted obstruction of 
+justice not because of some special and unusual relationship 
+between the agents and the grand jury, but because the false 
+statements were equivalent to other kinds of efforts to 
+influence a witness to give false testimony. The Fourth 
+Circuit explained that the defendant’s conduct violated 
+Section 1503 because his “false statements to the FBI agents 
+are not significantly different from influencing a witness 
+before the grand jury to give false testimony.” 11 F.3d at 438. 
+As the court stated, “[t]he effect, that of obstructing the 
+
+
+6 
+
+
+Grand Jury investigation, is the same.” Jbid. The Fourth 
+Circuit’s affirmance of the Section 1503 conviction in Grubb is 
+in direct conflict with the Ninth Circuit’s reversal of the 
+Section 1503 conviction in this case. 
+
+3. Respondent states that review is unwarranted in this 
+case because the divided Ninth Circuit panel that first heard 
+this case reversed respondent’s Section 1503 conviction on 
+other grounds. Br. in Opp. 17-18. Respondent neglects to 
+mention that the panel opinions were withdrawn when the 
+Ninth Cireuit decided to hear the case en banc, see 11 F.3d 124 
+(1993), and that the en banc court of appeals expressly 
+declined to reach the question that formed the basis of the 
+panel’s reversal of the Section 1503 conviction. See Pet. App. 
+25a. Respondent’s speculation as to how the Ninth Circuit 
+would resolve the knowledge issue on remand has no bearing 
+on whether the questions now presented to this Court 
+warrant further review. 
+
+4. In the petition, we explain that, under the plain 
+language of Section 2232(c), the government must prove that 
+the defendant knew that there had been an authorization or 
+application for a wiretap; that the defendant intended to 
+obstruct, impede, or prevent the “possible” interception for 
+which authorization had been given or application made; and 
+that the defendant gave notice or attempted to give notice of 
+the possible interception. Pet. 21. We continue to believe 
+that the additional requirement added by the court of 
+appeals—that, at the time the defendant gave notice, the 
+original, unextended application or authorization of which 
+defendant had notice was in fact still in effect—is not 
+consonant with the language of the statute and is directly 
+contradicted by its legislative history. 
+
+Respondent errs in arguing that our interpretation of 18 
+U.S.C. 2232(c) “reads the phrase ‘possible interception’ out of 
+the statute.” Br. in Opp. 23. Our interpretation fully 
+recognizes that the defendant has to “give notice of the 
+
+
+7 
+
+
+possible interception.” The effect of the term “possible” in 
+that phrase is that there need not be any actual interception 
+occurring. For example, where the defendant merely finds out 
+about an application for a wiretap but does not know whether 
+it has ‘been authorized, the statute prohibits disclosure of the 
+“possible interception.” So long as it is “possible,” from the 
+defendant’s point of view, that a wiretap is occurring and the 
+defendant gives notice with intent to obstruct it, the violation 
+is made out. 
+
+Indeed, as we explain in the petition, although the 
+interception need be “possible,” the obstruction need not be, 
+for there is no reason to engraft a defense of factual 
+impossibility on to the statute. See Pet. 23 (“there is no basis 
+in the statutory language for the court of appeals’ require- 
+ment that such obstruction be possible at the time the 
+disclosure was made”) (emphasis added). There can be many 
+reasons why an obstruction would not be possible, including 
+failure of the application to be approved in the first place, 
+malfunction of the wiretap equipment, or termination of the 
+wiretap. See Pet. App. 26a-27a (Fernandez, J., dissenting). 
+None of those circumstances provides a defense, where the 
+defendant has otherwise violated the statutory prohibition, so 
+long as the defendant “g{a]v[e] notice of the possible inter- 
+ception to any person who was or is the target of the 
+interception.” S. Rep. No. 541, 99th Cong., 2d Sess. 34 (1986) 
+(emphasis added).’ A fortiori, the fact that the wiretap has 
+expired and then been reauthorized—as occurred in this 
+case—at the time the defendant makes his disclosure does not 
+constitute a defense.‘ 
+
+
+% Respondent certainly believed that a wiretap was possible at the time 
+he made the disclosure. See Pet. App. 25a-26a & n.2. As he stated to 
+Solomon in a taped conversation on May 17, 1988, “Oh yeah the phone’s 
+definitely tapped. * * * Absolutely.” Resp. C.A. E.R. 17. 
+
+
+* Respondent cites the court of appeals’ opinion for the proposition that 
+“(t]he wiretap application of which [respondent] allegedly was aware 
+
+
+8 
+
+
+Respondent appears to argue that the First Amendment 
+protects respendent’s right to disclose confidential law 
+enforcement information he obtained in his official capacity as 
+federal judge because “at least a substantial portion of 
+[respondent’s] suspicions about electronic surveillance arose 
+from the fact that the government chose to conduct a public 
+surveillance of Chapman from a car parked in front of 
+[respondent's] house.” Br. in Opp. 26 n.11. Initially, we never 
+“acknowledged” that respondent’s suspicions “arose” from his 
+observation of the surveillance vehicle. See Jbid. To the 
+contrary, the evidence at trial established that, though 
+respondent’s memory may have been jolted by his observation 
+of the surveillance vehicle, respondent’s knowledge of the 
+electronic surveillance “arose” entirely from Judge 
+Peckham’s statement to him that he had recently reviewed a 
+wiretap application involving Chapman.° 
+
+Equally important, although respondent may be correct 
+that it would be “highly anomalous’ to punish [respondent] for 
+
+
+resulted in an interception that terminated 30 days after it was begun,” and 
+that “it was never extended or reauthorized.” Br. in Opp. 27. Nothing in 
+the statute, however, requires that the wiretap be in existence at the time 
+the disclosure was made. In any event, the dispute about the proper 
+characterization of the history of the wiretap in this case is merely 
+semantic. The court of appeals characterized the wiretap as having 
+“expired” and stated that “other” wiretaps were later authorized. Pet. App. 
+5a. The “[o]ther” wiretaps, however, included the same telephone number 
+and an overlapping, though changing, list of interceptees. As we 
+characterized the same facts, the original wiretap was terminated and then 
+was reauthorized, terminated again, reauthorized again, and then 
+extended. See Pet. 22 n.5. 
+
+° Judge Peckham testified that he told respondent “that in the course of 
+a wiretap application that the name Abie Chapman had come up.” 7 Tr. 
+921. And respondent's nephew, who conveyed the information about the 
+wiretap from respondent to Chapman, testified that when respondent told 
+him about the wiretap just after having observed the FBI surveillance, 
+respondent “did say that he had overheard at work about the possibility of 
+{Chapman’s] phone being wiretapped.” 5 Tr. 825. 
+
+
+9 
+
+
+commenting upon activities the government chose to conduct 
+in public,” Br. in Opp. 26 n.11, the wiretap at issue in this case 
+was not conducted in public. Had respondent merely informed 
+Chapman that a law enforcement agent appeared to be 
+following him, it would perhaps have constituted an error of 
+judgment, not a criminal offense. But respondent was charged 
+in this case with informing Chapman of the possible inter- 
+ception of his conversations, a fact that respondent learned in 
+his official capacity. Nothing about the wiretap or the 
+application was in any sense public. Indeed, Judge Peckham 
+signed a series of orders postponing the service of notices of 
+the wiretap on the interceptees and maintaining the secrecy 
+of the wiretap through April 25, 1989. 7 Tr. 918-919. 
+
+5. Respondent charges that we have mischaracterized the 
+trial record. Br. in Opp. 4-5. The facts, of course, are to be 
+taken in the light most favorable to the verdict, which in this 
+case was guilty on two counts. See, e.g., Evans v. United 
+States, 112 S. Ct. 1881, 1884 (1992); Glasser v. United States, 
+315 U.S. 60, 80 (1942). The fact that respondent was acquitted 
+on other charges—and, in particular, on the conspiracy 
+charge—has no effect on that rule. That is because the basis 
+for the acquittals cannot be known—i.e., whether the jury had 
+a reasonable doubt about a fact the government had to prove or 
+reached its verdict through “mistake, compromise, or lenity.” 
+United States v. Powell, 469 U.S. 57, 65 (1984). Indeed, even an 
+acquittal on the ground that the jury had a reasonable doubt 
+as to an essential fact would not establish that the jury found 
+that fact to be false. See Dow! ing v. United States, 493 U.S. 
+342, 348-350 (1990). 
+
+Respondent specifically identifies only two areas of alleged 
+“mischaracterization.” First, respondent states that “[cJon- 
+trary to the implication conveyed by the government's State - 
+ment, Pet. at 6, Judge Weigel recused himself from Tham’s 
+petition * * * not because of questionable conduct by Judge 
+Aguilar, but because of the FBI’s heavy-handed intervention. 
+
+
+10 
+
+
+9 Tr. 1236, 1245.” Br. in Opp. 8 The petition conveys no 
+“implication” concerning this matter, because it is of no rele- 
+vance to the issues before this Court. In any event, Judge 
+Weigel did not explain his recusal as does respondent. See 
+App., vofra, 2a-4a. 
+
+Second, respondent states that the petition “implies 
+incorrectly that the FBI agents made Judge Aguilar aware 
+that a grand jury was meeting prior to eliciting the false 
+statements.” Br. in Opp. 10. In the current posture of this 
+‘ase, respondent’s suggestion is foreclosed. The trial court 
+instructed the jury, in connection with the Section 1503 count 
+on which respondent was convicted, that: 
+
+
+[A] grand jury proceeding is a judicial proceeding. You 
+should first determine whether one existed at or about 
+| June 22, 1988]. You should then determine whether or not 
+the defendant knew of it according to the standard that | 
+mentioned [earlier in the instructions], that he had 
+knowledge that it was ongoing and kn[e]w about it. 
+
+
+10 Tr. 1582.° By convicting respondent, the jury therefore 
+necessarily found that respondent knew of the ongoing grand 
+jury investigation. There was ample support in the record for 
+that finding, including the tape of respondent’s June 22 
+conversation with the FBI agents, see Pet. 8, and Solomon's 
+previous conversation with respondent, see p. 4, supra. 
+
+
+® The court’s reference to “the standard that I mentioned” referred back 
+to the court’s earlier general instruction that proof of a violation of Section 
+1503 requires “proof [that] must satisfy you beyond a reasonable doubt 
+unanimously * * * that there was a pending judicial proceeding known 
+to the defendant.” 10 Tr. 1515 (emphasis added). 
+
+
+A nee ne ee a 
+
+
+11 
+
+
+* * * Kk * 
+
+
+For the foregoing reasons, as well as those stated in our 
+petition, the petition for a writ of certiorari should be granted. 
+
+
+Respectfully submitted. 
+
+
+DREWS. Days, III 
+Solicitor General 
+
+
+OCTOBER 1994 
+
+
+APPENDIX A 
+
+
+18 U.S.C. 1512(b) provides: 
+
+
+Whoever knowingly uses intimidation or physical 
+force, threatens, or corruptly persuades another 
+person, or attempts to do so, or engages in misleading 
+conduct toward another person, with intent to— 
+
+
+(1) influence, delay, or prevent the testimony of 
+
+
+any person in an official proceeding; 
+
+
+(2) cause or induce any person to— 
+
+
+(A) withhold testimony, or withhold a 
+record, document, or other object, from an 
+official proceeding; 
+
+
+(B) alter, destroy, mutilate, or conceal an 
+object with intent to impair the object’s 
+integrity or availability for use in an official 
+proceeding; 
+
+
+(C) evade legal process summoning that 
+person to appear as a witness, or to produce a 
+record, document, or other object, in an official 
+proceeding; or 
+
+
+(D) be absent from an official proceeding to 
+which such person has been summoned by legal 
+process; or 
+
+
+(3) hinder, delay or prevent the com-munication 
+
+
+to a law enforcement officer or judge of the 
+United States of information relating to the 
+commission or possible commission of a Federal 
+
+
+(la) 
+
+
+2a 
+offense or a violation of conditions of probation, 
+
+
+parole, or release pending judicial proceedings; 
+
+
+shall be fined not more than $250,000 or imprisoned 
+not more than ten years, or both. 
+
+
+sa 
+
+
+APPENDIX B 
+
+
+UNITED STATES DISTRICT COURT 
+NORTHERN DISTRICT OF CALIFORNIA 
+
+
+No. Cr 89-0365 LCB 
+
+
+UNITED STATES 
+
+
+v. 
+
+
+ROBERT P. AGUILAR 
+
+
+Transcript of Proceedings 
+August 14, 1990 
+Volume 9 
+
+
+[1245] The Court: What are the grounds upon which 
+you believe you should have to disqualify yourself? 
+
+The Witness: Thank you, your honor. I felt I did 
+disqualify myself and I did so for this reason: 
+
+If | denied Tham’s motion for reconsideration, 
+which it was my intention to do, but if I had done that 
+his lawyers could have claimed I was influenced by 
+the FBI and their investigation. 
+
+On the other hand, if I granted his motion, which | 
+would not have done, but had I done so, the claim could 
+have been made that I was influenced by Judge 
+Aguilar, which I was not. 
+
+
+4a 
+
+
+And, Your Honor, if I may, I’d like to describe to the 
+jury how these cases arise in our court, may I do 
+that? 
+
+The Court: Briefly. 
+
+The Witness: In our court when a case is filed, 
+whether it’s a criminal case or a civil case, there’s a 
+lottery by computer, it’s assigned at the filing to one 
+judge. If it’s a case assigned to me the case will bear 
+a number and my initials following the cas» 
+
+[1246] Then the case is then that jucige’s for all 
+time, for all purposes. But if, for example, the case 
+involves something in which a judge, I or another 
+judge who gets the case, has stock in the corporation, 
+he disqualifies himself because it would be unfair for 
+him to hear that case. 
+
+So for the reasons I’ve already indicated I dis- 
+qualified myself from the Tham case and the result of 
+that was that it goes back into the lottery and 
+another judge’s name is drawn and the judge hears 
+the rest of the case and that’s the way it works. 
+
+Q. (By Mr. Meltzer) Had Judge Aguilar done 
+anything to you to cause you to disqualify yourself in 
+the Tham matter, sir? 
+
+A. You mean, before I disqualified myself? 
+
+Q. Yes, sir. 
+
+A. No. 
+
+Q. And at any time did Judge Aguilar attempt to 
+improperly influence your decision in the Tham 2255? 
+
+A. Well, not directly to me. 
+
+

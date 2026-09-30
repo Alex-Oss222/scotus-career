@@ -1,0 +1,3507 @@
+                      Supreme Court, U.S.
+                              FILED
+
+         94 688 OCI 17 1994,
+
+         OFFICE OF THE CLERK
+           No.
+
+Supreme              In The       States
+
+         Court Of Che United
+
+              October Term, 1994
+
+NATIONAL PRIVATE TRUCK COUNCIL, INC.,
+WESTINGHOUSE ELECTRIC CORPORATION,
+
+                     and ROY E. GRIFFIS,
+                                                                 Petitioners,
+
+                                 v.
+OKLAHOMA TAX COMMISSION, et al.,
+
+                                                         Respondents.
+
+PETITION FOR A WRIT OF CERTIORARI TO THE
+           SUPREME COURT OF OKLAHOMA
+
+         RICHARD A. ALLEN
+            (Counsel of Record)
+
+         RICHARD P. SCHWEITZER
+            ZUCKERT, SCOUTT &
+            RASENBERGER
+
+         888 Seventeenth Street, N.W.
+         Suite 600
+         Washington, D.C. 20006
+         (202) 298-8660
+
+Balmar Legal Publishing Services, Washington, D.C. (202) 682-9800
+4
+                                            i
+
+                      QUESTION PRESENTED
+
+      Whether state courts may refuse to grant federal remedies
+under 42 U.S.C. §§ 1983 and 1988 to persons who have suc-
+cessfully challenged state taxes as violating their nghts under
+the Commerce Clause of the United States Constitution.
+                       ii
+
+      TABLE OF CONTENTS
+
+QUESTION PRESENTED .........--.-.--
+
+TABLE OF AUTHORITIES  ..........----
+Ce ew ww                             ee
+
+a
+CONSTITUTIONAL AND STATUTORY
+PROVISIONS INVOLVED ........-.----
+
+STATEMENT OF THE CASE
+
+      A. Proceedings Before this Court's
+
+      a                    ee
+
+      B. ThisCourt's Remand ........
+
+      C. The Decision Below. ........
+
+REASONS FOR GRANTING THE WRIT
+
+I. THE DECISION BELOW PRESENTS
+     A RECURRING AND IMPORTANT
+
+    ISSUE ON WHICH STATE
+     SUPREME COURTS ARE SHARPLY
+
+      EE
+
+Il. THE DECISION BELOW CONFLICTS
+    WITH DENNIS V.HIGGINS AND
+
+      OTHER DECISIONS OF THIS COURT
+      REQUIRING STATE COURTS TO
+      ENFORCE FEDERAL RIGHTS ... .        14
+
+oe i                                      16
+e
+--
+                     iii
+
+              TABLE OF AUTHORITIES
+
+Cases                                                 Pages
+                                                       3,6,7
+American Trucking Ass'ns v. Scheiner, 483 U.S. 266
+       Nga Pesee ee eee on                                 12
+                                                           12
+American Trucking Ass'ns v. Secretary of                    12
+Administration, 415 Mass. 337, 613 N.E.2d 95
+              era ee a a                               12,13
+he
+                                                            12
+American Trucking Ass'ns v. Secretary of State,             12
+       595 A.2d 1014 (Me. 1991) .....-.----                 10
+                                                           5,6
+Backus v. Civilis, 236 Ga. 500, 224 S.E.2d 370
+      RA, Gs GS) ae oe ee oe                                 6
+                                                       passim
+Bloomingdale's by Mail, Ltd. v. Huddleston,
+                                                              4
+      848 S.W.2d 52 (Tenn. 1993); cert. denied            9,14
+      __ US. __, 113 S.Ct. 3002 (1993)... -
+                                                             10
+Bung's Bar and Grille, Inc. v. Township of
+       Florence, 206 N.J. Super., 432, 502 A.2d 1198
+              a> ae       a a
+       Liban
+
+Burrell v. Mississippi State Tax Commission,
+
+      536 So.2d 848 (Miss. 1988). ....-.----
+
+City of Riverside v. Rivera, 477 U.S. 561 (1986). .
+
+Complete Auto Transit, Inc. v. Brady, 430 U.S. 271
+      Cane os y gliecia 4 elle sie ee ee ee
+
+Consolidated Freightways Corp. v. Kassel,
+
+      730 F.2d 1139 (8th Cir.) cert. denied .....
+
+Dennis v. Higgins, 498 U.S. 439 (1991) ....--
+
+Dennis v. State, 234 Neb. 427, 451 N.W.2d 676
+
+      (1990), rev'd on other grounds sub nom.
+      Dennis v. Higgins, 498 U.S. 439 (1991) . . .
+
+Howlett v. Rose, 496 U.S. 356 (1990) ....---
+
+Hutto v. Finney, 437 U.S. 678 (1978) ...-.---
+               iv
+
+Kentucky v. Graham, 473 U.S. 159 (1985).....         10
+
+Maine v. Thiboutot, 448 U.S. 1(1980).......          10
+
+Marx v. Truck Renting and Leasing Ass'n, Inc.,
+
+520 So.2d 1333 (Miss. 1987) .........                12
+
+Murtagh v. County of Berks, 634 A.2d 179 ((Pa.
+
+1993), cert. denied, _ U.S. __, 114 S.Ct. 1497
+
+CS       ee Be aa ee eo ee a                         12,13
+
+National Private Truck Council, Inc., et al. v.
+
+Oklahoma Tax Commission, et al., 501 U.S.
+
+See Cee. 6k a ee oe ee AT Ae                         3
+
+Neiman Marcus Group, Inc. v. Meehan, 1991 Conn.
+
+Super. LEXIS 2155 (1991) ....'......                 12
+
+Newman v. Piggie Park Enterprises, Inc.,
+
+Dee Sa   GS) eeee                                    11
+
+Pechiney Corp. v. Crystal, 43 Conn. Supp. 91,        12,13,15
+      643 A.2d 319 (Conn. Super. 1994) ......
+
+Pennhurst State School and Hospital v. Halderman,
+
+S63 0.5. TP Gn 4-5 6 CAR EA                          15
+
+Private Truck Council of America et al. v. Oklahoma  passim
+      Tax Commission, 806 P.2d 598
+      CE EE © oe eh os nk es ae
+
+Private Truck Council v. Secretary of State,
+
+503 A.2d 214 (Me. 1986), cert. denied,
+
+S76 UT. Vi Ge ise + sr ae oe sw                      4
+
+Private Truck Council v. State, 128 N.H. 466,
+
+SEF Pie  iss       + ace 8 a a so                    4
+
+Private Truck Council v. State, 221 N.J. Super. 89,
+
+534 A.2d 13 (1987) aff'd en banc, 111 N.J. 214,
+
+S66 ADE De as      hk ek ee                          4
+
+Radio Common Carriers of New York, Inc. v. State,
+
+601 N.Y.S.2d 513 (Sup. Ct. 1993) ......              12
+    Vv
+
+Raschke v. Blancher, 141 Ill. App.3d 813, 491 N.E.        12
+                                                          12
+       1171,96 Ill. Dec. 711 (ll. App. 1986) ....          12
+                                                           10
+Riverton Produce Co. v. State, 871 P.2d 1213
+                                                           12
+       oe 8, eer ee eo
+Rowan Companies, Inc. v. State Tax Commission,               4
+                                                             7
+       623 So.2d 159 (La. App. 1 Cir. 1993) ....             4
+Smith v. Robinson, 468 U.S. 992 (1984) ......-
+Spencer v. South Carolina Tax Commission, 281            8,11
+                                                            10
+      S.C. 492, 316 S.E.2d 386 (C.S. 1984),
+                                                             11
+       aff d by an equally divided court, 471 U.S. 82
+                                                       passim
+       ee eee ee                                              5
+
+ State Dep't of Revenue v. Private Truck Council,
+       531 So.2d 367 (Fla. Dist. Ct. App. 1st Dist.
+        ea ag Se a hee w.«
+
+ State ex rel. Burk v. Oklahoma City, 522 P.2d 612
+
+        se ee a a a
+
+State v. Private Truck Council, 258 Ga. 531,
+       471 SE.20378 (1968) ...-------s-
+
+State v. Quill, 500 N.W.2d 196 (N.D. 1993),
+
+       cert. denied, __ U.S. __, 1148.Ct. 173
+
+      5 Meee a
+
+Will v. Michigan Dep't of State Police, 491 U.S. 58
+      Se a
+
+Ziska v. Water Pollution Control Authority,
+
+195 Conn. 682, 490 A.2d 509
+
+Vo  . Se a
+
+Constitutional Provisions And Statutes
+Commerce Clause of the United States Constitution,
+
+      Article I, Section8 ........-.---:--:-
+Privileges and Immunities Clause of Article IV,
+
+      Section 2 of the United States Constitution . .
+ee     Be  Sa RSE                           2
+
+PRR        oan ss ee                        8,9,13,14,15
+
+eS         As 4.3.53 ook ta oe ee           passim
+
+ee     ES 8 6 ek en a wee                   passim
+
+a          ee         ee                    7
+
+47 O.S. 1986 Supp. § 1120(K) ...........    3
+
+GB OS. tee eee. $GR7.1 2 ww ke.             3
+
+Other
+
+H.R. Rep. No. 94-1558 (1976) ........2.2..  1]
+         No.
+
+Supreme              In The      States
+
+         Court Of The United
+
+             October Term, 1994
+
+NATIONAL PRIVATE TRUCK COUNCLL, INC.,
+WESTINGHOUSE ELECTRIC CORPORATION,
+
+                   and ROY E. GRIFFIS,
+
+                                                               Petitioners, |
+
+                              V.
+OKLAHOMA TAX COMMISSION, et al.,
+
+                                                   Respondents.*
+
+PETITION FOR A WRIT OF CERTIORARI TO THE
+           SUPREME COURT OF OKLAHOMA
+
+                          OPINIONS BELOW
+      The opinion of the Supreme Court of Oklahoma issued on
+July 19, 1994 (App. A, infra) is not yet reported. An earlier
+opinion of the Oklahoma Supreme Court (App. B), infra, which
+was vacated and remanded by this Court "for further considera-
+
+tion in light of Dennis v. Higgins, 498 U.S. 439 (1991)," is
+reported at 806 F.2d 598 (Okla. 1991). The opinion of the
+district court of Oklahoma County (App. C, infra) is not re-
+
+    1 National Private Truck Council, Inc. is a trade association and has no
+subsidiaries. The non-wholly owned subsidiaries of Westinghouse Electric
+Corpoarre laistted iinoApnp. H.
+
+Wadley, ViceChairman, andDonKilpatrick, Secretary-Member. The indi-
+vidual respondents are successors inoffice toother officials whom petitioners
+
+had sued intheir official capacities fordeclaratory and injunctive relief.
+i
+
+                                                                 2
+
+                   ported. The decision of the district court of Oklahoma County
+                   denying petitioners' motion for a preliminary injunction or
+                   escrow is Set forth in App. D and App. E, infra.
+
+                                                JURISDICTION
+                          The judgment of the Supreme Court of Oklahoma (App.
+                   A, infra, |a-23a) was entered on July 19, 1994. The jurisdiction
+                     of this Court is invoked under 28 U.S.C. § 1257(a).
+
+                               CONSTITUTIONAL AND STATUTORY
+                                       PROVISIONS INVOLVED
+
+                            The Commerce Clause of the United States Constitution,
+                   Article I, Section 8, provides:
+
+                          The Congress shall have Power. . .
+
+                          To regulate Commerce with foreign Nations, and
+                          among the several States, and with the Indian Tribes;
+                   42 U.S.C. § 1983 provides, in pertinent part:
+                          Every person who, under color of any statute, ordi-
+                          nance, regulation, custom, or usage, of any State or
+                          Territory or the District of Columbia, subjects, or
+                          Causes to be subjected, any citizen of the United States
+                          or other person within the jurisdiction thereof to the
+                          deprivation of any rights, privileges, or immunities
+                          secured by the Constitution and laws, shall be liable
+                          to the party injured in an action at law, suit in equity,
+                          or other proper proceeding for redress.
+                   42 U.S.C. § 1988 provides in pertinent part:
+                          In any action or proceeding to enforce a provision of
+                            section[ J... 1983. . . ofthis title . . ., the court,in
+                          its discretion, may allow the prevailing party, other
+                          than the United States, a reasonable attorney's fee as
+                          part of the cost.
+                                       2
+      Pertinent provisions of Oklahoma's retaliatory tax statute,
+47 O.S. 1986 Supp. § 1120(K) and 68 O.S. 1982 Supp. § 607.1,
+are set forth in App. F, infra.
+
+                   STATEMENT OF THE CASE
+       In the decision under review, the Supreme Court of Okla- nd time, held that petitioners, who suc-
+cessfully challenged ho a ma sta h t a e s, tr f u o c r k th t e ax se a c s o violating their nghts
+under the Commerce Clause of the United States Constitution, ederal remedies under 42 U.S.C. §§ 1983 and
+ 1988 notwithstandi ar n e g no t t hi e s nti C t o l u e r d t' t s o f action in vacating and re-
+ manding the first decision denying such relief "for further light of Dennis v. Higgins, 498 U.S. 439
+ (1991)." National Priv c a o t n e sid T e r r u a c t k ion Coun i c n il, Inc., et al. v. Okla-
+ homa Tax Commission, et al., 501 U.S. 1247 (1991).
+        A. Proceedings Before this Court's Remand
+        This case has had a long and tortuous history. On Decem- s filed a class action suit in Oklahoma
+  state court challeng b i e n r g 17 t , he 19 c 8 o 4 n , sti p t e u t t i i t o i n o a n l e i r ty of certain "retali-
+  atory taxes" that the State of Oklahoma imposed on motor ted trucks in Oklahoma that were registered
+  in certain other sta c t a e r s r . ier T s he w se ho- t o a p xe e s ra were not imposed on trucks
+  registered in Oklahoma. (App. 27a-28a, 59a.) The purpose of retaliate against states imposing so-called
+
+  these taxes was to "third structure taxes,"2 which certain states have imposed on
+
+taxes, which arebased ontheweightof trucks andthemileage operated in e, andaxletaxes, which impose a flatcharge based onthe
+thetaxing stats on each vehicle. In American Trucking Ass'ns, Inc. v.
+number of axle 66 (1987), this Court invalidated onesuch third structure
+Scheiner, 483 US. 2            Court noted that flattaxes like Pennsylva-
+                     tax. The
+tax, Pennsylvania's axle nia's had prompted Oklahoma andsixother states toenactretaliatory 'axes,
+                                        4
+
+all motor carriers operating in those states, including Oklahoma
+registered carriers, and to which the Oklahoma legislature ob-
+jected. These statutes carried out this purpose by authorizing
+respondents to impose taxes on carriers registered in those states
+that operate in Oklahoma which taxes are equal in amount to the
+third structure tax imposed by the carriers' state of registration.
+By thus penalizing carriers from third-structure tax states, Okla-
+homa's legislature hoped to pressure the legislatures of those
+states to repeal their third-structure taxes or to exempt Okla-
+homa-based carriers from them.
+
+      Respondents implemented these statutes in 1983 by impos-
+ing retaliatory taxes on carriers with trucks operating in Okla-
+homa that were registered in 25 states.4
+
+       Petitioners are the National Private Truck Council, Inc.
+("NPTC'"), Westinghouse Electric Corporation, and Roy Grif-
+fis. NPTC is the national trade association of "private carriers"
+-- companies that own and operate their own truck fleets
+primarily in furtherance of their non-transportation businesses.
+NPTC is the successor to the Private Truck Council of America,
+Inc., which was the original lead plaintiff in this suit and in six
+other suits which successfully challenged retaliatory taxes im-
+posed by other states.5 Westinghouse Electric Corporation is
+
+and it stated: "Such taxes can obviously divide and disrupt the market for
+interstate transportation services." Jd. at 285 (footmotes omitted).
+
+    4 These were Alabama, Arizona, Arkansas, Connecticut, Delaware, Flor-
+ida, Georgia, Idaho, Kentucky, Louisiana, Maine, Maryland, Massachusetts,
+Mississippi, New Hampshire, New Jersey, New Mexico, New York, North
+Carolina, Nevada, Ohio, Oregon, Pennsylvania, Vermont, and West Virginia.
+
+    > Private Truck Council v. Secretary of State, 503 A.2d 214 (Me. 1986),
+cert. denied, 476 U.S. 1129 (1986); Private Truck Council v. State, 128 N.H.
+466, 517 A.2d 1150 (1986); Private Truck Council v. State, 221 N.J. Super.
+89, 534 A.2d 13 (1987) aff'd en banc, 111 N_J. 214, 544 A.2d 33 (1988); State
+v. Private Truck Council, 258 Ga. 531, 371 SE.2d 378 (1988); State Dep't
+of Revenue v. Private Truck Council, 531 So.2d 367 (Fla. Dist. Ct. App. 1st
+Dist. 1988); Dennis v. State, 234 Neb. 427, 451 N.W. 2d 676 (1990), rev'd
+on other grounds sub nom. Dennis v. Higgins, 498 U.S. 499 (1991).
+                                        5
+
+the successor to the rights of its former subsidiary Circle W ch operated 15 Pennsylvania registered
+
+trucks in Okl T a ra h n o s m p a ort a a n t d ion t , her w ef h o i re paid $1,080 in retaliatory
+
+taxes to Oklahoma in 1984. Roy Griffis is an unincorporated siding in Bearden, Arkansas. Griffis paid
+$185 in retaliatory t " ax o e w s ne t r o O o k p l er a a h t o o m r" a r i e n 1984. (App. 25a.)
+
+       Petitioners' complaint alleged that Oklahoma's retaliatory on their face against interstate com-
+merce and out-of-st t a a t x e s r ta e t s u i t d e e s nts dis i c n ri vi m o i l n a a t t i e o d n of the Commerce
+ Clause and the Privileges and Immunities Clause of Article IV, ited States Constitution. It also alleged that
+ the respondents wer S e ect t i h o e n ref 2 or o e f t l h i e ab U l n e to petitioner under 42
+ U.S.C. § 1983. The complaint sought declaratory and injunctive xes paid and attorneys' fees under state law
+ and 42 U.S.C. § 1 re 9 l 8 i 8 e . f, r U e p f o un n ds fi o l f ing ta the complaint, petitioners
+ moved for a preliminary injunction or, alternatively, for an order
+ requiring the tax collections to be held in escrow pending the
+  outcome of the suit.
+
+        Although the trial court acknowledged that the taxes were al, it denied petitioners' motion for a
+  preliminary injunc p t r i o o b n ab a l g y ain u s n t co t n h s e t ir it c u o t l i l o e n ction, or alternatively,
+  for an order requiring them to be held in escrow because it felt action could be promptly decided. (App.
+  54a-55a, 58a.) Two t y h e a a t rs the lat m e e r r , i a t n s ot o h f e t r he judge of the same court
+  finally ruled on petitioners' summary judgment motion, denying
+  it and upholding the constitutionality of the taxes. (App. 48a-
+
+   53a.)
+
+         Petitioners appealed to the Oklahoma Supreme Court. ter, on June 28, 1990, that court issued
+
+   a decision r M e o v r e e rsi t n h g an th t e hre t e ria y l ea c r o s ur l t a 's decision upholding the
+
+   taxes. (App. B.) The court held, "The questioned statutes are ry" and thus violate the Commerce Clause
+   under the test set f p o l r a th inl i y n C d o i m s p c l ri e m t i e na A t u o to Transit, Inc. v. Brady,
+   430 U.S. 274, 279 (1977). (Ud. at 34a-35a.) The court stated:
+                                            6
+
+"Obviously ... Oklahoma's retaliatory taxes do not pass the third
+and fourth prongs [of the Complete Auto test]." (Id. at 35a.)
+
+      With respect to a remedy, the court held that petitioners are
+entitled under the pertinent Oklahoma tax refund statute to
+recover refunds of unconstitutional taxes on a class-wide basis.
+(Id. at 39a.) However, the court ruled that its holding would
+operate "quasi-prospectively from the date of the . . . decision
+[of this Court inAmerican Trucking Ass'ns v. Scheiner,}" --i.e.,
+from June 23, 1987.6 As corrected by two subsequent orders,
+the court's final opinion remanded with directions to respon-
+dents to refund taxes paid with respect to tax periods occurring
+after June 23, 1987.7
+
+      The Oklahoma Supreme Court also briefly addressed and
+
+rejected petitioners' claim under 42 U.S.C. § 1983 and their
+associated claim for attorneys' fees under 42 U.S.C. § 1988. It
+
+did so on the basis of Consolidated Freightways Corp. v. Kassel,
+730 F.2d 1139 (8th Cir.) cert. denied, 469 U.S. 834 (1984) and
+
+   © The court did not explain how the decision in Scheiner, which con-
+
+cerned the constitutionality of facially neutral taxes, was related to the
+constitutionality of facially discriminatory taxes like those at issue in this
+case, but it concluded that denying refunds of taxes paid before Scheiner was
+warranted because of the "significant financial hardship upon the State in
+exercising its governmental functions" if full retroactive effect were given to
+its decision and because of a supposed "presumption of prospective applica-
+tion of state court decisions invalidating tax statutes." (Id. at 45a.)
+
+   ' The court's initial decision, dated June 28, 1990, directed respondents
+
+to refund taxes "colleacfttereJdune 23, 1990." On respondents' petition for
+rehearing, the Court issued a "Corrected Order" which amended the June 28,
+1990 opinion to require refunds of all taxes collected "for the tax year 1987"
+and thereafter. On a petition for further rehearing filed jointly by respondents
+and petitioners, the court issued a further "Order of Clarification" which
+directed respondents to refund taxes paid "for the tax periods or portions of
+tax periods occurring after June 23, 1987."
+                                     7
+
+other decisions (App. 46a), all of which this Court overruled in
+
+Dennis v. Higgins.'
+
+B. This Court's Remand
+
+Petitioners filed a petition for a writ of certiorari to review
+two aspects of the Oklahoma Supreme Court's decision: its axes paid with respect to the period before
+the Scheiner decision d a e n n d ia i l ts o d f en r i e a f l un o d f s pe o t f it t ioners' claims under
+42 US.C. §§ 1983 and 1988. Petitioners pointed out that the
+denial of their claims under §§ 1983 and 1988 conflicted directly cision in Dennis v. Higgins. In Dennis,
+which involved the ch w a i l t l h eng t e his by Co N u P r T t' C s an d d e others to Nebraska's
+retaliatory truck tax on the same Commerce Clause ground the Court held that the taxpayer's Com-
+merce Clause claims a w s e s r e e rte c d ogn i i n za t b h l is e c u a n se d , er § 1983. The Court
+stated that § 1983 "provides a remedy, to be broadly construed, official violation of federally protected
+against all forms of                 With respect specifically to the
+rights." 498 U.S. at 445.
+challenge to Nebraska's truck taxes, the Court held: "We con- me Court of Nebraska erred in holding that
+petitioner's Commerce c C l l u a d u e se tha c t lai th m e c S o u u p ld re not be brought under
+42 U.S.C. § 1983." Id. at 451.
+On July 31, 1991 this Court issued an order in which it judgment of the Oklahoma Supreme
+Court and remanded the su c m a m s a e r t i o ly that va c c o a u t r e t d "f t o h r e further reconsid-
+eration in light of Dennis v. Higgins, 498 U.S. 439 (1991)." S501
+
+U.S. 1247.
+8 Petitionerhsadalsoarguteodthetrial courtandthe Oklahoma Supreme d to an award of attorneys' fees from the fund of
+refunds recovered forth Co e u c r l t as t s ha u t nd t e he r y t w h e e re co e m n m t o it n le fund doctrine, which is
+well established under Oklahoma law, as it isinother states andinfederal l. Burk v. Oklahoma City, 522 P.2d 612 (Okla. 1973). The
+law. State ex re Court in its decision did not address petitioners' claim
+Oklahoma  Supreme                    stated that petitioners were  not entitled to
+                  fees, but insteadd
+for common f fees under a ruenpealed state fee shifting statute, 12 O.S. 1981 § 18(c) --a
+contention that petitioners had never argued. (App. 46a).
+                                        8
+
+       C. The Decision Below
+
+      After several unsuccessful attempts to resolve outstanding
+issues with respondents, petitioners on July 20, 1992 filed a
+motion with the Oklahoma Supreme Court to remand the case
+to permit the trial court to establish a plan of distribution of tax
+refunds and accrued interest and to determine petitioners' attor-
+neys' fees and litigation expenses. Respondents filed no oppo-
+sition or other response to that motion.
+
+      On February 24, 1994 the Oklahoma Supreme Court sua
+sponte issued an order directing the parties to file briefs address-
+ing various issues related to petitioners' entitlement to attorneys'
+fees. (App. G, infra.) After receipt of briefs from the parties,
+the court issued a decision holding that "plaintiffs are not
+entitled to relief under §§ 1983 and 1988." (App. 6a.)
+
+      The court below concluded that "principles of comity and
+federalism" supported its view that petitioners are not "entitled
+to assert federally created remedies under §§ 1983 and 1988 in
+this state court action." (App. 6a.) The court reasoned that the
+
+policies of the Tax Injunction Act, 28 U.S.C. § 1341, which
+
+prohibits federal courts from enjoining state taxes where "a
+plain, speedy and efficient remedy may be had in the courts of
+such State," authorize state courts to refuse to provide federal
+
+remedies established by §§ 1983 and 1988 to litigants challeng-
+
+ing State taxes in State courts. (App. 6a-9a.) The court also relied
+
+on a decision of the North Dakota Supreme Court in State v.
+Quill, 500 N.W.2d 196 (N.D. 1993), cert. denied, ___ U.S. __,
+
+114 S.Ct. 173 (1993) to the same effect.
+
+      The court also asserted that its decision was not contrary
+to this Court's decision in Dennis v. Higgins, because, it said,
+this Court in Dennis had not addressed the effect of the Tax
+Injunction Act on the availability of remedies under §§ 1983 and
+1988 in state tax cases (although it noted that the dissenting
+opinion in Dennis had cited the Tax Injunction Act). (App. 7a.)
+                                           9
+
+For similar reasons the court rejected petitioners' reliance on
+Howlett v. Rose, 496 U.S. 356 (1990). (App. 8a.)
+
+       Accordingly, the court reinstated its earlier judgment with-
+out change. (App. 11a.)
+
+           REASONS FOR GRANTING THE WRIT
+I. THE DECISION BELOW PRESENTS A NG AND IMPORTANT ISSUE ON
+
+       WHICH STA R T E E CU S R U R P I REME COURTS ARE
+        SHARPLY DIVIDED
+        In the decision below the Oklahoma Supreme Court held ot accord litigants remedies established
+ that state courts need n by federal statutes in cases where federal courts lack jurisdiction
+
+                       remedies. That decision presents very funda-
+ to provide such mental and far reaching questions regarding the obligations of
+  state courts to enforce federal law under our constitutional
+  system.
+
+         In the context of this case -- whether state courts must edies under 42 U.S.C. §§ 1983 and 1988
+  in cases challen en g f i o n r g ce st r a i t g e hts tax a e n s d r o e n m federal grounds -- the raordinarily important and recurring one. As
+  question is an ext this Court's reports alone reflect, cases challenging state taxes under §§
+
+                        ds are legion, and claims for relief
+   on federal groun 1983 and 1988 may be presented in every such case. Inasmuch
+
+                          are precluded by the Tax Injunction Act, 28
+   as federal courts U.S.C. § 1341, from providing injunctive or declaratory relief
+
+                         that contravene federal constitutional or statu-
+   from state taxes tory requirements "where a plain, speedy and efficient remedy effect of the decision
+
+                                        uch state," the
+    may be had in the courts of s
+
+        2 The c e lawco o m u m r o t n al f so un he d ld do t c h t a r t i p n e e ti wa `o s ne b r a s r ' re c d la b i y m o i f t e se nt a i r t l l i e e m r ent to attomeys'
+    fees underthestat opinion andthelawofthecase doctrine (App. 10-1 1a), even though its earlier fees and expenses
+     opinion had never addressed petitioners' entitlement to
+     under the common fund doctrine.
+                                           10
+
+below would be to nullify, in all such cases, the remedies that
+Congress established in §§ 1983 and 1988, including, perhaps
+most significantly, the recovery of attorneys' fees under § 1988.
+
+      Such a result would take away the ability of many persons
+effectively to enforce their federal rights under the Commerce
+Clause or other constitutional or statutory provisions when they
+are violated by state taxes. When Congress enacted § 1988 in
+1976, it recognized that the ability of plaintiffs to recover
+litigation costs and attorneys' fees is often essential to the
+effective protection of their constitutional rights. In Maine v.
+Thiboutot, 448 U.S. 1, 11 (1980), this Court noted that "Con-
+gress viewed the fees authorized by § 1988 as `an integral part
+of the remedies necessary to obtain' compliance with § 1983."
+(citation omitted). See also Smith v. Robinson, 468 U.S. 992,
+1006 (1984).10
+
+      Furthermore, Congress enacted § 1988 in recognition of
+the fact that parties who bring suit under § 1983 and prevail are
+typically seeking to redress not only their own injuries but also
+to vindicate important civil and constitutional rights of many
+other people and the public at large. See City of Riverside v.
+Rivera, 477 U.S. 561, 574 (1986). As the House Report accom-
+panying § 1988 noted, a person who obtains injunctive relief
+under § 1983 " does so not for himself alone but also as a `private
+attomey general,' vindicating a policy that Congress considered
+
+   10 This Court'sdecisions make clear that plaintiffs who would be entitled
+
+to relief under § 1983 are also entitled to recover their attorneys' fees unless
+there are special circumstances that would make such a recovery unjust.
+Smith v. Robinson, 468 U.S. at 1006. They also establish that plaintiffs may
+bring actions under § 1983 for injunctive and declaratory relief against state
+officials acting in their official capacities (Will v. Michigan Department of
+State Police, 491 U.S. 58, 71, n. 10(19a8nd9th)at)the obligation of the states
+or agencies whom those officials represent to pay attorneys' fees is notsubject
+to defenses of sovereign immunity or good faith execution of the challenged
+state law or practice. Hutto v. Finney, 47 U.S. 678 (1978); Kentucky v.
+Graham, 473 U.S. 159, 164-167 (1985).
+                    11
+
+of the highest importance." H.R. Rep. No. 94-1558, p. 2 (1976)
+(quoting Newman v. Piggie Park Enterprises, Inc., 390 U.S.
+
+400, 402 (1968)).
+Section 1988 is no less important in vindicating the public
+and national interests in the free flow of interstate commerce, rlying § 1988 are fully applicable to
+and the policies unde                     In many cases,
+Commerce Clause tax cases like this one.
+including this one, a state tax that violates the Commerce Clause tutional or statutory strictures will impose
+a cost on persons and or co ot m h p e a r ni fe e d s era t l ha c t on is st s i ubstantially less, in the
+case of even the largest companies, than the expense of bringing it. If, as the court below held in this case,
+attorneys' fees are no a t l r a e w c s o u v i e t ra t b o l c e ha u l n l d e e n r ge state law, the prospect
+of recovering litigation and attorneys' fees under § 1988 may be
+the only practical means of bringing suit to invalidate and enjoin
+
+the tax.!!
+
+      Accordingly, whether the Oklahoma Supreme Court cor- es Congress established in 8§ 1983
+and 1988 are not availab r l e e ctl i y n c h a e s l e d s c t h ha a t ll t e h n e gin r g eme st d a i te taxes would
+be an important question warranting this Court's review even if ct on that issue among the courts of the
+states. State courts, t h h o e w r e e ve w r e , re ar n e o sh co a n r f p l l i y divided on that issue.
+
+       In the decision below, the court cited and relied on deci- a Supreme Court in State v. Quill,
+ supra, the Connecticu s t ion S s up o r f em t e he C N o o u r r t t h in Da Zi k s o k t a v. Water Pollu-
+
+ tion Control Authority, 195 Conn. 682, 490 A.2d 509 (1985),
+
+" Insome case, of course, associations of taxpayers orother victims of y fund litigation challenging unconstitutional
+state taxes. Inother ca u s n e c s o , ns t t h i e t r u e ti m on a a y l no st t at b e e ac a t s i s o o n ci m at a ions with sufficient Inthe case of NPTC's litigation against retaliatory taxcs,
+resources to do so. ssor were abletoundertake thateffort onlybecause 1ts
+NPTC anditspredece  o so on a contingent feebasis. Even where
+willing to d
+attommeys were associations or individuals fund litigation themselves, moreover, Congress those expenses onthe party whose
+                                        ose
+
+                    inorder toimp
+enacted § 19 unconstitutiona8l8 actsgave risetotheexpenses rather than onthevictims of
+those acts or their representatives.
+                                           12
+
+the Georgia Supreme Court in Backus v. Civilis, 236 Ga. 500,
+224 S.E.2d 370 (1976), and an Illinois appellate court inRaschke
+v. Blancher, 141 Dll. App.3d 813, 96 Ill. Dec. 711, 491 N_E.
+1171, (Ill. App. 1986). (App. 6a-9a.). See also Spencer v. South
+Carolina Tax Commission, 281 S.C. 492, 316 S.E.2d 386 (S.C.
+1984), aff'd by an equally divided court, 471 U.S. 82 (1985).
+
+      As the court below also acknowledged, a number of other
+State court decisions have upheld the rights of plaintiffs to
+challenge state taxing schemes under § 1983 in state court and
+to obtain relief under § 1988. These have included decisions of
+the Pennsylvania Supreme Court in Murtagh v. County of Berks,
+634 A.2d 179 (Pa. 1993), cert. denied, ___ U.S. __, 114 S.Ct.
+1497 (1994); the Supreme Judicial Court of Massachusetts in
+American Trucking Ass'ns v. Secretary of Admin., 415 Mass.
+337, 613 N.E.2d 95 (1993); the Supreme Court of Tennessee in
+Bloomingdale's by Mail v. Huddleston, 848 S.W.2d 52 (Tenn.
+1992); cert. denied __U.S.__ , 113 S.Ct. 3002 (1993); the
+Supreme Judicial Court of Maine in American Trucking Ass'ns
+v. Secretary of State, 595 A.2d 1014 (Me. 1991); the Supreme
+Court of Mississippi in Burrell v. Mississippi State Tax Comm'n,
+536 So.2d 848, 863-64 (Miss. 1988); Marx v. Truck Renting and
+Leasing Ass'n, Inc., 520 So.2d 1333 (Miss. 1987); and the
+Supreme Court of Colorado in Riverton Produce Co. v. State,
+871 P.2d 1213 (Colo. 1994). See also Pechiney Corp. v. Crystal,
+43 Conn. Supp. 91, 643 A.2d 319 (Conn. Super. 1994); Rowan
+Companies, Inc. v. State Tax Comm'n, 623 So.2d 159 (La. Ct.
+App. Ist Cir. 1993); Radio Common Carriers of New York, Inc.
+v. State, 601 N.Y.S.2d 513 (Sup. Ct. 1993); Neiman Marcus
+Group, Inc. v. Meehan, 1991 Conn. Super. LEXTS 2135 (1991);
+and Bung's Bar and Grille, Inc. v. Township Council of
+Florence, 206 N.J. Super., 432, 457-62, 502 A.2d 1198, 1213-16
+(1985).
+
+      The conflict is clear and direct. In Bloomingdale's By
+Mail, for example, the Supreme Court of Tennessee held that
+                           13
+
+Tennesse it applied to out-of-st e at ' e s m u a s i e l t o ax rde v r iol c a o t m e p d an t i he es C , om a m n e d r i c t e hel C d la t u h s a e t to the extent ttorneys' fees under 42 U.S.C. §
+1988. After r t e h v e ie p w l i ai n n g tif t f h s is we C r o e urt e ' n s tit d l e e c d is t i o on a s, the court con-
+        that "a state court that has subject matter jurisdiction may
+cluded      to such proceeding its federal rights. ... If the
+not deny a party party enforcing such rights is successful, that party is entitled to U.S.C. § 1988... oF
+receive an award of attorney's fees under 42
+848 S.W.2d at 56.
+                               y of Berks, a case challeng-
+ing tax assessment Sim p i r l o a c r e l d y u , re i s n Mu un r d t e a r gh th v e . C F o o u u n rt t eenth Amend- Court of Pennsylvania squarely rejected the
+ment; the Supreme argument, adopted by the court below, that prohibitions imposed and principles of
+                                                        t
+o t n e f n e j d o e i r n a i l ng cou s r t t a s te b t y ax t e h s e j T u a s x tifi I e n d jun s c t t a i te on co A u c rts in
+comity agains refusing to enforce federal remedies. The court stated:
+        [T]he principle of comity that causes a federal court m exercising jurisdiction over secuon
+        to refrain fro 1983 tax assessment cases has no relevance to a class
+                           ing, in state court, the constitutionality
+        of a system o a f ct p i r o o n pe c r h t a y ll t e a n x g assessment.
+634 A.2d at 321. The other cited decisi a o t ns 185 r . efl S e e ct e t a h l e so, sa P m e e ch c i o n n e c y lu C s o i r o p n . s, v. Crystal, 643 A.2d
+implicitly or explicitly.
+                               rts, including many of the
+        state courts, Th wa i r s ra c n o t n s fli t c h t is a C m o o u n rt g 's th r e ev s i ta e t w e . co T u he issue has
+highest            s in recent years. It is likely to recur in almost
+every case cha a l r l is e e n n gi i n n g ma st n a y te c t a a s x e es under t a h n e d C m o a m y merce Clause
+o w r it o h the r r es f p e e d c e t ral to co o n t s h t e i r tut s i ta o l n e al co a u n r d t st a a c t t u i t o o n r s y p s r e o e v k i i s n i g ons t , o
+also arise                 to which the rationale of the court below
+enforce federal rights
+                               nts the issue squarely and is
+an appropriate co c u as l e d i b n e w e h x i t c e h nde t d o . con T s h i i d s er cas a e nd pr r e e s s e olve the issue.
+                                            14
+
+II. THE DECISION BELOW CONFLICTS WITH
+      DENNIS V. HIGGINS AND OTHER DECISIONS OF
+       THIS COURT REQUIRING STATE COURTS TO
+      ENFORCE FEDERAL RIGHTS
+
+      Contrary to the opinion of the Oklahoma Supreme Court,
+petitioners submit that its decision conflicts directly with this
+Court's decision in Dennis v. Higgins. In Dennis, as noted, the
+Court held that "the Supreme Court of Nebraska erred in holding
+that petitioner's Commerce Clause claim could not be brought
+under 42 U.S.C. § 1983." 498 U.S. at 451. In this case, the
+Supreme Court of Oklahoma held that petitioners' identical
+Commerce Clause claim could not be brought under § 1983.!2
+That holding is as erroneous as was the Nebraska Supreme
+Court's in Dennis.'3
+
+       The decision below is also contrary to Howlett v. Rose, 496
+U.S. 356 (1990), in which this Court held that state courts could
+not refuse to entertain actions under § 1983 on the grounds of
+sovereign immunity. The Court reaffirmed the basic principle
+that "[f]ederal law is enforceable in state courts . . . because the
+Constitution and laws passed pursuant to it are as much laws in
+the States as laws passed by the state legislature." 496 U.S. at
+367. The Court therefore held that Florida courts could not
+
+   12 By holding that "plaintiffs are [not] entitled to assert federally created
+
+remedies under §§ 1983 and 1988 in this state court action" and that "plaintiffs
+are not entitled to relief under §§ 1983 and 1988" despite the undisputed
+violation of their Commerce Clause rights by the State (App. 6a), there can
+be no question but that the court below held that petitioners were not entitled
+to bring their Commerce Clause challenge under § 1983.
+
+    m Nor is there any basis for the Oklahoma Supreme Court's suggestion
+that this Court did not consider "the effoef tchetTax Injunction Act on the
+issue of whether the state court should grant § 1983 relief, although a federal
+court could not do so." (App. 7a.) Since, as that court itself noted, Justice
+Kennedy's dissent in Dennis specifically expressed concern about the effect
+of the Court's decision in view ofthe policies underlying the Tax Injunction
+Act, there is no basis for supposing that the majority of the Court did not
+consider it.
+                            15
+
+refuse to enforce claims under § 1983 unless they did so on the of court administration, such as forum non
+conveniens rules, tha b t as a i r s e o a f p n p e l u i t e r d al eq ru u l a e l s ly to federal and state
+law causes of action. Because Florida courts entertain state-law defendants that are similar to Howlett's
+federal claim based a o c n ti § ons 198 a 3 g , ain t s h t e C s o ta u t r e t held that they could
+
+not deny his § 1983 claim.
+Those principles apply fully in this case. Oklahoma courts nctive and declaratory relief against
+unconstitutional state en t t a e x r e t s a , in and act i i n o f n a s ct f d o i r d i s n o ju in this case. They
+cannot therefore deny claims for such relief based on certain
+federal statutes -- namely, §§ 1983 and 1988.
+Furthermore, as the Supreme Court of Pennsylvania and nciples of comity and the Tax Injunc-
+other courts have held, pri                            Those
+tion Act provide no support for the decision below.
+principles and that Act only limit the authority of federal courts
+to interfere with state tax processes. As Judge Blue of the
+Connecticut Superior Court recently stated:
+These concerns of comity, however, in no way fore-
+close state courts from hearing § 1983 actions in
+conjunction with state tax appeals. Neither the letter
+nor spirit of [28 U.S.C.] § 1341 are violated by the
+existence of such state court jurisdiction. This juris-
+diction, in fact, fully implements the policies of both
+§ 1983 (i.e. the vindication of civil rights) and § 1341
+(i.e. the noninterference of federal courts in state tax
+matters) in a way that federal jurisdiction does not.
+Pechiney Corp. v. Crystal, 643 A.2d at 321.14 Indeed, because Eleventh Amendment and the Tax Injunc-
+tion Act impose on fe o d f er t a h l e l c i o m u i r t t a s ti i o n ns sta t t h e e tax matters, this Court
+observed in Pennhurst State School and Hospital v. Halderman,
+
+  14 Judge Blue also correctly observed that because federal courts are
+
+courts of limited jurisdiction andstate courts arecourts of general jurisdiction, malous forstate courts tohave jurisdiction over matters
+that federal courts c " a i n t no i t gn l o a t wf a u t l a ly lla a n dj o udicate." 643 A.2atd321.
+                                           16
+
+465 U.S. 89, 122 (1984) that "[c]Jhallenges to the validity of state
+
+tax systems under 42 U.S.C. § 1983... must be brought in state
+
+court."
+
+      The decision below cannot be reconciled with the forego-
+ing decisions.
+
+                              CONCLUSION
+      The petition for the wnit of certiorari to the Supreme Court
+of Oklahoma should be granted.
+
+                                          Respectfully submitted,
+
+                                          RICHARD A. ALLEN
+
+                                                  (Counsel of Record)
+
+                                          RICHARD P. SCHWEITZER
+                                             ZUCKERT, SCOUTT &
+                                             RASENBERGER
+
+                                              888 Seventeenth Street, N.W.
+                                              Suite 600
+
+                                          Washington, D.C. 20006
+                                          (202) 298-8660
+la
+
+                    APPENDIX A
+
+IN THE SUPREME COURT OF THE
+        STATE OF OKLAHOMA
+
+No. 68,401
+
+ PRIVATE TRUCK COUNCIL OF AMERICA, INC.,
+         CIRCLE W TRANSPORTATION, INC.,
+
+                     and ROY E. GRIFFIS,
+on behalf of themselves and all others similarly situated,
+
+                                                              Appellants,
+
+                                          ¥.
+
+OKLAHOMA TAX COMMISSION, ET AL.,
+                                                         Appellees,
+
+                          and  CARRIERS
+                               INC.,
+ASSOCIATED MOTOR
+        OF OKLAHOMA,
+
+                                         Intervenor.
+
+       ON REMAND FROM THE UNITED STATES
+                          SUPREME COURT
+
+      The United States Supreme Court vacated the judgment
+called for in our opinion in Private Truck Council of America,
+Inc. et. al. v. Oklahoma Tax Commission, et. al., 806 P.2d 598
+(Okla. 1991), and remanded the matter to this Court for further
+consideration in light of Dennis v. Higgins, 498 U.S. 439, 111
+
+S.Ct. 865, 112 L.Ed.2d 969 (1991), where the court held, for the
+
+first time, that suits for unconstitutional violations of the Inter-
+state Commerce Clause created a right of action under 42 U.S.C.
+
+§ 1983. Although the right of action is created, we find that in
+Oklahoma an adequate state remedy exists for redress, as the
+trial court held. We hold that the trial court correctly dismissed
+plaintiffs' § 1983 claim. A federal court would have been
+                                                                      2a
+
+IE ABiLNT S
+
+                  prohibited, under The Tax Injunction Act, 28 U.S.C. § 1341,
+                  from entertaining such a claim because "the district courts shall
+                  not enjoin, suspend or restrain the assessment, levy or collection
+                  of any tax under state law where a plain, speedy and efficient
+                  remedy may be had in the courts of such state." To allow § 1983
+                  remedies in the courts of this state would give plaintiffs relief to
+                  which they would not have been entitled in federal court. Thus,
+                  under the principles of comity, we hold that state courts in
+                  Oklahoma may not enforce federally created nghts, which fed-
+                  eral law prohibits federal courts from enforcing.
+
+                    JUDGMENT REINSTATED   For Appellants
+                                            For Appellee
+Richard A. Allen
+Richard P. Schweitzer
+Zuckert, Scoutt & Rasenberger
+Washington, D.C.
+
+William B. Rogers
+William B. Rogers & Associates
+Oklahoma City, Oklahoma
+
+David Hudson
+General counsel, Oklahoma Tax Commission
+Stanley P. Johnston
+Deputy General Counsel
+Oklahoma Tax Commission
+Oklahoma City, Oklahoma
+
+PER CURIUM, -
+
+      This case is before us on remand from the United States
+Supreme Court. The judgment was vacated and the cause re-
+manded for our consideration in light of Dennis v. Higgins, 498
+U.S. 439, 111 S.Ct. 865, 112 L.Ed.2d 969 (1991). We held in
+Our original opinion in this appeal, Private Truck Council, Inc.
+v. Oklahoma Tax Commission, 806 P.2d 598 (Okla. 1991), that
+                                                          3a
+
+         68 O.S.Supp.1982 § 607.1 and 47 O.S.Supp.1986 § 1120(K) l because they violated the fundamental
+iO ESn!aotneR requirement of nondiscr we i r m e ina u t n i c o o n nst a i g t a u i t n i s o t na interstate commerce.'
+
+         Based upon that holding, we found it unnecessary to address itutional challenge of the tax statutes under the
+         Privileges and Immuni p t l i a e i s nti C ff l s a ' use c . ons W t e affirmed the trial court's
+
+          denial of plaintiffs' federal claim for refund under 42 U.S.C. oma has an adequate state remedy afford-
+          ing the requested relief. § W 1 e 983 al b l e o c w a e u d se a O re k f l u a n h d to plaintiffs based
+          upon the refund procedures in 68 O.S. 1981 § 226.1, from the taxes, based upon American Trucking
+          Ass'ns., Inc. v. Schei p n a e y r, men 4 t 83 of U. t S h . e 2 1 6 9 6 8 , 7 107 S.Ct. 2829, 97
+
+           L.Ed.2d 226 (1987), and American Trucking Ass 'ns., Inc. v.
+
+          Smith, 496 U.S. 167, 110 S.Ct. 2323, 110 L.Ed.2d 148 (1990).
+
+                 The trial court denied plaintiffs' motion for summary judg- statutes did not violate the Interstate
+           Commerce Clause, and me d n i t s , mi f s i s n e d d ing Co t u ha n t t th I e l t o w f o plaintiffs' peti-
+           tion, which sought a refund under 42 U.S.C. § 1983, for failure ffs' Count III asserted that the defendants
+           violated the Interstat t e o s C t o at m e me ac r l c a e im. Cl P a l u a s i e nti and the Privileges and
+           Immunities clauses of the United States Constitution, as set out their petition, under color of state law, and
+           threatened to deprive in C pl o a u i n n t ti s ff I s an o d f I r I ig o h f ts guaranteed by the
+            United States Constitution. Thus, plaintiffs alleged that defen- intiffs under 42 U.S.C. § 1983. Plaintiffs
+            prayed for: 1) a declar d a a t n o t r s y w j e u r d e gm li e a n b t le t t h o at pl t a he two statutes were
+            null and void because they violated the United States Constitu-
+
+             tion and other laws, 2) a permanent injunction enjoining the
+
+            Oklahoma Tax Commission from assessing Or collecting the
+
+                   . Plaintiffs, whoare appellants here, filed suit against defendants fora 68 O.S.Supp. 1983 § 607.1 and 47 O.S.Supp.
+
+             1983 § 22.5j(K). T re h f e u s n e d s o t f at t u a t x es es i i m m p p o o s s e e d d fe u e n s de a r nd taxes on nonresident motor
+
+               carriers operating inOklahoma tothesame extent carriers resident inOkla- nonresident motor carriers' states of residence.
+
+              Plaintiffs claimed t h h o a m t a the w s e e re sta t tu a t x e e s d w b e y re t u h n e constitutional.
+                                               4a ~
+
+retaliatory taxes and fees on nonresident motor carries under the
+above-referenced statutes, 3) a refund of all retaliatory taxes and
+fees collected by the Oklahoma Tax Commission pursuant to 68
+O.S. 1981 § 607.1 and 47 O.S. Supp. 1986 § 1120(K), plus
+interest, and 4) attorneys' fees under 12 O.S. 1981 § 18(C) and
+42 U.S.C. § 1988, and costs.
+
+      The trial court dismissed plaintiffs' claim for refund under
+42 U.S.C. § 1983, relying on Consolidated Freightways of
+Delaware v. Kassel, 730 F.2d 1139 (8th Cir. 1984), in which the
+Eighth Circuit had held that violations of the Interstate Com-
+merce Clause were not a basis for bringing a civil rights action
+under 42 U.S.C. § 1983. We affirmed the trial court's denial of
+plaintiffs' claim for refund under § 1983, because Oklahoma has
+an adequate state remedy affording the relief plaintiffs re-
+quested. We reversed the trial court's summary judgment to
+defendants on Counts I and Il of plaintiffs' petition, finding that
+the two statutes violated the Interstate Commerce Clause. We
+denied the plaintiffs claim for attorneys' fees, however, because
+plainuffs had no civil rights claim under § 1983 and, accord-
+ingly, no right to attorneys' fees under 42 U.S.C. § 1988. We
+also denied plaintiffs' claim for attorneys' fees under state law
+on the ground that the statute upon which plaintiffs relied, 12
+O.S. 1981 § 18(C) was repealed before plaintiffs filed their
+action.
+
+      After our decision in the case at bar, the United States
+Supreme Court handed down the case of Dennis v. Higgins, 498
+U.S. 439, 111 S.Ct. 865, 112 L-Ed.2d 969 (1991). In Dennis,
+the United States Supreme Court held, contrary to our earlier
+opinion in this matter, that claims for violations of the Interstate
+Commerce Clause may be brought under § 1983. In Dennis the
+trial court held that the Nebraska taxing statutes at issue violated
+the Interstate Commerce Clause, for essentially the same rea-
+sons that we held in our first opinion in the case at bar. The
+Dennis trial court permanently enjoined the Nebraska Depart-
+asi
+
+                             5a
+
+     ment fees. Th o e f N M e o b t r o a r sk V a ehi t c r l ia e l s co f u r r o t m aw as a s r e d s e s d ing t , he le p v l y ai i n n - g or collecting
+     the taxes and           expenses under the "common fund"
+     doctrine, but de t n if i f e s d a t t h t e or § ney 1 s 9 ' 83 f c e l e a s im a s nd under Kassel. Both sides statutes
+     appealed, although the unconstitutionality of the taxing pealed. The Supreme Court of Nebraska affirmed the
+     was not ap dismissal of plaintiffs' § 1983 claim, but reversed the allowance mon fund doctrine. The Ne-
+                              under the com
+     braska Supreme o C f ou a r t t tor h n e e l y d s , ' de fe s e p s ite § 1983's br violation of oad language,
+     that there was no cause of action under § 1983 for Clause. As in Dennis, the trial court in the case
+     the Commerce at bar ruled that plaintiffs failed to state a claim under § 1983.
+         In Dennis v. Higgins, Id., the United States Supreme Court mmerce Clause creates rights that can be
+     decided that the Co asserted under 42 U.S.C. 8 1983 because the Commerce Clause the meaning of
+                                          immunities within
+     § 1983. Thus, s c u o i n ts fer f s or r v i i g o h l t a s t , io p n riv o i f le th g e es Co or mmerce Clause may
+     be broug e action ht tha u t nd v e i r ola § tes 198 t 3 he t C o om ob m t e a r in ce inj C u l n a c u t s i e v . e W a e nd declaratory
+     relief from stat directed the parties to file supplemental briefs addressing the
+     affect of Dennis on plaintiffs' claims.ry and injunctive relief, a
+; refund of He t r a e x , es p p l a a i i d nt , i a ff n s d s an ou a g t h t t orn d e e y c s l ' ar f a e t e o , under both state law, first opinion we held the two taxing statutes
+asitaed and § 1983. In our unconstitutional and granted plaintiffs a partial refund. It is clear rt vacated our opinion
+                                                              ou
+     cause of our to r u e s li t a h n a c t e th o e n U K n a i s t s e e d l, St w a h t i es ch Su t p h r e e S m u e p C reme Court
+     be       d in Dennis. Dennis, however, did not address the
+
+     repudiate      f whether a state court, under the principles of
+
+     critical issue o comity, should decline to grant relief under § 1983, a federal been prohibited from
+     l l a i w ef , u w n h de e r n T a he fe T d a e x ral Inj c u ou n r c t tio w n ou A l c d t, h 2 a 8 ve U.S.C. §
+     granting such re
+
+     1341.
+                                                6a
+
+                                         I.
+
+       We now reconsider whether plaintiffs are entitled to assert
+federally created remedies under §§ 1983 and 1988 in this state
+court action. We hold, under the principles of comity and
+federalism, that plaintiffs are not entitled to relief under §§ 1983
+and 1988.
+
+       We have not previously addressed this issue, but the Su-
+preme Court of North Dakota recently considered it. State v.
+Quill, 500 N.W.2d 196 (N.D. 1993) Cert. Denied___--- U.S. __,
+114 S.Ct. 173 (1993), was virtually identical to the case at bar.
+There, as here, 1) the matter came before the court following
+reversal by the United States Supreme Court of an earlier
+opinion, which had erroneously held that a state tax act did not
+violate the Commerce Clause of the U.S. Constitution; 2) the
+taxpayers sought an attorneys' fee under § 1983 and § 1988; and
+3) the parties did not dispute that state statutes provided the
+parties full relief from the unconstitutionality of the involved tax
+acts. The Quill court denied an attorneys' fee to Quill, on the
+ground of comity and federalism, because a federal court would
+have been prohibited from granting such relief under the Tax
+
+Injunction Act, 28 U.S.C. § 1341.7 The Quill court concluded
+
+that, while § 1341 did not expressly prohibit state courts from
+granting federally created relief, state courts should decline to
+exercise such jurisdiction. Relying on its earlier opinion in
+Linderkamp v. Bismark School District No. 1, 397 N.W.2d 76
+(N.D. 1986), the Quill court held that the taxpayer could not
+obtain § 1983 relief in the state court action.
+
+      We find the language of the North Dakota Supreme Court's
+Linderkamp opinion convincing:
+
+      Recognition that the proscriptions of the Tax Injunc-
+      tion Act are based at least in part upon deference to
+
+  2 § 1341 directs:
+
+The district courts shall not enjoin, suspend or restrain the assessment, levy
+or collection of any tax under state law where a plain, speedy and efficient
+remedy may be had in the courts of such state.
+                                                        7a
+
+              state remedial schemes leads to the conclusion that a action, which applies a federal
+              remedial statute st f a o t r e a c l o l u e r g t ed §1 vi 9 o 8 l 3 ations of federally-
+             created rights, is no less of a burden upon the state
+               remedial scheme than would be a §1983 action
+               brought in federal court... (Emphasis added.] Lin-
+               derkamp, 387 N.W.2d at 80.
+               Plaintiffs' contentions here, are virtually identical to those Plaintiffs contend that the Quill-Lin-
+         derkamp rationale of is th c e on p t l r a a i r n y tif t f o i t n he Qu h i o l l l d . ings of the U.S. Su- nnis, and Howlett v. Rose, 496 U.S. 356, | 10
+         preme Court in De S.Ct. 2430, 110 L.Ed.2d 332 (1990). We disagree. Neither
+
+                                  t, addressed the issue of whether a state
+         Dennis, nor Howlet court should decline to impose federal remedies when state
+
+                               quate and a federal court would, therefore, be
+          remedies are ade prohibited from enforcing such remedies under the Tax Injunc-
+          tion Act."
+
+                The Dennis court's majority did not address whether state te, or the effect of the Tax Injunction Act
+          remedies were adequa on the issue of whether the state court should grant § 1983 relief,
+          although a federal court could not do so. Justice Kennedy's in which the Chief Justice concurred, how-
+           dissent in Dennis, ever, expressed concern that ignoring the Tax Injunction Act
+
+                        ction of state fiscal integrity in a manner which may
+` risks "destru require congressional correction." Dennis, 498 U.S. at 464-65,
+
+           111 S.Ct. at 880.
+
+: : Because oftheproscriptions of TheTaxInjunction Act, theadequacy
+
+reprocess requirem m ent e s mda b d y ei p a r ve o ai v ls i a d b i l n e g b f y o t r h a e r C e o f n u g n r d e o s f si t n h § e 1 t 9 a 8 x 3 e a s c t ti h on e s s . i S t t e ate law satisfied
+due  cted, interest onthose amounts, andaninjunction prohibiting the
+
+wrongly exa htaxes inthefuture. No case we have found requires @n
+collection of suc ranted tosatisfydueprocess requirements. Indeed, 1
+
+                    obeg
+attorneys' feest Congress did notprovide for anattorneys' feien §1983 actions until the 1976
+amendmentto§ 1988 soprovided. Pub.L. 94-559.
+
+                                                                               - 4|
+     Bs i
+8a
+
+In Howlett, the U.S. Supreme Court held that the Suprem-
+
+acy Clause of the Constitution is "the supreme law of the land"
+
+and requires state courts to enforce federally created remedies
+
+"according to their regular modes of procedure." Howlett, 496
+
+U.S. at 367, 110 S.Ct. at 2438. As noted in Quill, however,
+
+Howlett makes clear that "the Supremacy Clause precludes state
+
+courts from applying state procedural rules that would neces-         ted eeerhi
+
+sarily produce a different result than if the case had been
+
+brought in federal court." [Emphasis added.] Quill, 500
+
+N.W.2d at 199. Our holding today, applying the Quill-Lin-
+
+derkamp rationale, is perfectly consistent with the federal inter-
+
+est, and this State's interest, in having state courts apply the law
+
+no differently than would federal courts. Clearly, state courts are
+
+not required to grant attorneys' fees under §§ 1983 and 1988,
+
+when federal courts would be prohibited from doing so.
+
+      Plaintiffs argue, correctly, that The Tax Injunction Act
+
+applies only to federal courts. Plaintiffs, however, fail to recog-
+
+nize that one of the principles of comity is that potential differ-
+ences in remedies available in state court and federal court
+should be avoided. The existence of such differences encourages
+forum shopping. As the U.S. Supreme Court observed in Felder
+v. Casey, 487 U.S. 131, 108 S.Ct. 2302, 101 L.Ed.2d 123 (1988),
+"A law that predictably alters the outcome of § 1983 claims
+depending solely on whether they are brought in state or federal
+court within the same State is obviously inconsistent with this
+federal interest in intrastate uniformity." To order an attorneys'
+fee under § 1988 here, would pervert this wise policy of intra-
+State uniformity between state and federal courts.
+
+      In addition to North Dakota, at least three other states have
+declined to impose § 1983 remedies in cases in which a federal
+court could not have also granted such remedies: Ziska v. Water
+
+Pollution Control Authority, 195 Conn. 682, 490 A.2d 509
+(Conn. 1985); Backus v. Chilivis, 236 Ga. 500, 224 S.E.2d 370
+(Ga. 1976); Raschke v. Blancher, 141 Ill.App.3d 813, 491
+                                              9a
+
+N.E.2d 1171, 96 Il.Dec. 711 (Il-App. 1986) appeal denied there is authority contrary to the views ©x-
+pressed in the cases (19 f 8 r 6 o ) m . t A h l es t e ho f u o g u h r states, we believe that these
+cases represent the better view' We have found no case, which ef in these circumstances, which satisfacto-
+rily explains to us g w r h an y te a d s § tat 1 e 98 c 3 our r t eli should do so.
+
+       An important distinction exists between a state court's inciples of comity. In State Tax Commis-
+sion v. Fondren, 3 j 8 u 7 ris S d o i . c 2 t d ion 7 , 12, an 7 d 23 the (M p i r ss. 1981), the Missis-
+ sippi Supreme Court held that a state court hearing a § 1983 diction to grant more relief than a federal court
+ could have done. c T l h ai e m C l o a n ck n e e d ct j i u c ri u s t Supreme Court, in Ziska,
+ rejected the Fondren court's analysis, saying, "we believe that that § 1341 [The Tax Injunction Act] does not
+ the better view is deprive state courts of all jurisdiction to hear § 1983 challenges
+
+                        ion 1341] is rooted in principles offederalism.
+ to state taxes. Sect It reflects the policy that federal courts should not interfere with
+  the collection of state taxes." [Emphasis added.}] 490 A.2d at
+  513. The Ziska court declined to hear plaintiffs § 1983 claims
+  under the principles of comity and federalism.
+
+        The Mississippi Supreme Court later observed, in Burrell ax Commission, 536 So.2d 848, 863-64,
+  that it had impli vy c . i M t i l s y sis o s v i e p r p r i u , le S d tat F e on T dren in Marx v. Truck
+  Renting and Leasing Ass'n., Inc., 520 So.2d 1333, 1346 (Miss.
+
+     4 As few state courts have applied § 1983 remedies, despite the adequacy dies, andthefactthata federal court would have been
+
+   of state lawreme prohibited from granting such relief because of The Tax Injunction Act. See, Dept. ofState Revenue,
+                                                               a
+
+                                                        Indian
+                     rlan Sprague Dawley, Inc. v.
+   for example, Ha 583 N E.2d 214 (Ind.Tax 1991) and Murtaugh v. County of Berks, 634 A.2d
+    discussed reliefinstatecourttowhich the t y h w e o l u ik l e d li n h o o t o h d a o ve f b f e o e r n um ent s i h t o le p d pi i n n g fe c d r e e r a a t l e c d ou b r y t allowing the parties
+
+            e
+                                               10a
+
+1987). In both opinions, the Mississippi court, as it had in
+Fondren, limited its discussions to the jurisdiction of state
+courts to hear§ 1983 claims. Neither Fondren, nor the two later
+Opinion discussed the comity and federalism issues.
+
+      Plaintiffs rely on an unpublished opinion of the Connecti-
+cut intermediate appellate court, Neiman Marcus Group, Inc. v.
+Meehan, 1991 WL 194298, LEXIS 2135 (Conn.Super. 1991),
+which concluded that Ziska could not be relied upon as author-
+ity to support the state's claim that Connecticut courts lacked
+jurisdiction to consider § 1983 claims. As in the later Mississippi
+opinions, the comity and federalism issues were not considered
+by the Neiman Marcus court. Our analysis convinces us that if
+the Connecticut Supreme Court were again presented with the
+issues of comity and federalism, which it decided in Ziska, it
+would again conclude, as the North Dakota court did in Quill
+and Linderkamp, that the state court should not give relief that
+a federal court sitting in the samie state could not give.
+
+       We hold that the trial court reached the right result in
+declining to grant an attorneys' fee under §§ 1983 and 1988.
+
+                                        Il.
+
+       Plaintiffs claim that they are entitled to an attorneys' fee
+under state law. They contend that they should be granted a fee
+from the amount of the recovery under the "common fund
+doctrine." Plaintiffs made identical claims in the first appeal of
+this case. The facts concerning this issue are unchanged from
+the first appeal. Consequently, our conclusion in the first appeal
+
+    > The Neiman Marcus courtrelied on the U.S. Supreme Court's opinions
+in Dennis and Felder to support its position that Ziska was no longer good
+law. The comity and federalism issues were not before the U.S. Supreme
+Court in Dennis, and Felder points out that a policy allowing the choice of a
+fedoe r sr tata e fl orum, within the same state, to change the result of a § 1983
+case, "is obviously inconsistent with this federal interestinintrastate uniform-
+ity." This desire for intrastate consistency is the basis for our opinithoatnwe
+should not allow § 1983 remedies here.
+                                              lla
+
+               that plaintiffs are not law is the law of the case. "As the e ` nt l i a t w le o d f t t h o e a c n ase a , t ' to t r h n e ey o s r ' igi f n e a e l s under state and will not be
+               appeal controls all subsequent proceedings,      d] result
+               n a second appeal, [unless not to do so woul
+               in a gros r s ev o e r rs m e a d ni o fest in a j n us d t y ice v. " C M it c y Do o n f a L l aw d ton v. , Hu 83 m 5 phries, 810
+               P.2d 1262, 1266-67 (Okla. 1990); H            in our prior opinion
+               P.2d 870, 873 (Okla. 1992). We find no error
+                                                             it the issue
+               on this issue. r W os e s O a r re ma s n at i i f s e f s i t ed in t j h u a s t ti o c u e r ". re M fu c sa D l on t a o ld re , vi 8 s 10
+               will not result in a "g P.2d at 1267. Consequently, we decline to reconsider the issue.
+               Although the up r o e n aso r n e s man fo d r f so oll d o u w i i n n g g h t a he ve fir c s h t anged, our
+               directions to the trial court
+               appeal remain in effect.
+
+               JUDGMENT REINSTATED                           HARGRAVE,
+
+               HODGES, C.J., LAVENDER, V.C.J.,     SIMMS,    dissent in part.
+               WATT, JJ., concur.
+                                                   in part,
+               KAUGER, SUMMERS, JJ., concur
+
+               OPALA, WILSON, JJ., dissent.
+
+aeogP eaieteN
+nenee ni ae eee Tee eID
+
+                                                                          12a
+
+                                      IN THE SUPREME COURT OF THE
+                                              STATE OF OKLAHOMA
+
+                                                    No.68,401
+
+                            PRIVATE TRUCK COUNCIL OF AMERICA, INC.,
+                         CIRCLE W TRANSPORTATION, and ROY E. GRIFFIS,
+
+                          on behalf of themselves and all others similarly situated,
+                                                                                          Appellants,
+
+                                                              V.
+                             OKLAHOMA TAX COMMISSION, ET AL.,
+
+                                                                                           Appellees,
+
+                                                                   and
+
+                         ASSOCIATED MOTOR CARRIERS OF OKLAHOMA. INC
+                                                                                                  Intervenor.
+
+                        ALMA WILSON, J., with whom OPALA, J., joins, dissent-
+
+                      ing:
+                             Today's opinion closes the state courts to a taxpayer's §
+
+                       1983 action, which may have the effect of opening the federal
+                      courts to state tax challenges. Dennis v. Higgins. 498 U.S. 439,
+                       111 S.Ct. 865, 112 L.Ed.2d 969 (1991) requires a substantive
+                      remedy be afforded taxpayers aggrieved by state laws that
+                      violate the Commerce Clause. The Tax Injunction Act, 28
+                      U.S.C. § 1341 requires the state to provide minimum procedural
+                      protection to taxpayers. The majority fails to recognize the
+                      distinction. Accordingly I must respectfully dissent, even
+                      though I would, as the Court does today, affirm the district
+                      court's dismissal of the § 1983 claim in this cause.
+
+                             In Private Truck Council ofAmerica. Inc. v. Oklahoma Tax
+                      Commission, 806 P.2d 598 (Okla. 1991), this Court reversed the
+                      district court, holding that 68 O.S.Supp.1982 § 607.1 and 47
+                      O.S.Supp. 1986, § 1120(K) violate the Commerce Clause, U. S.
+                     Const., Art. I, § 8, cl. 3, and allowing partial refunds of taxes
+                  13a
+
+pa 3 claim. On id ce t r h t e i r o e ra u r n i d , er t , he bu U t ni a t f e f d irm S e t d ate t s he S di u s p t r ri e c m t e cou C r o t u ' r s t dismissal of the
+§ 198    e judgment of the above court in this cause 1S
+
+ordered "that th vacated with costs, and that this cause is remanded to the ration in light
+                                            further conside
+of Dennis v. Hig S g u i p ns r , em 4 e 98 Co U ur . t S. ( o 1 f 99 O 1 k ) l . a " h D o e m n a nis for v. Higgins holds
+tptBRePeapaDee RatreI,littal that e ta t x h p e ay C e o rs mme wi r t c h e in C t l h a e us m e ea c n o i n n f g ers of ri § ght 1 s 9 , 83 p . ri T vi h l e eges and immu-
+nities upon stat Dennis holding rests upon the Commerce Clause restriction on se entitlement
+                                               Process Clau
+to relief. Hence s , tate De p n o n w i e s r a c l o lo m w b s ine a d tax w p i a t y h er the to Du s e eek meaningful
+relief meani i n n gf a ul § 1 r 9 el 8 i 3 ef a f c r t o io m n t i h n e S e t x a a t c e ti c o o n urt of w t h a e x r e e s i t n he state remedy
+does not provide
+violation of the Commerce Clause. s was a class-action suit
+       Ohio motor c S a i r m r i i l e a r r in to th t e he st i a n t s e ta c n o t ur c t aus o e f , Ne D b e r n a n s i ka seeking
+by an             injunctive relief and recovery of state taxes paid
+
+declaratory and pursuant to Nebraska's retaliatory tax statute and costs and declared the challenged
+                                           court
+statute violativ a e tt o o f rn th e e y C fe o e m s. me T r h c e e Ne Cl b a r u a s s e k , a e t n r t i e al red a permanent
+injunction, awarded attorney fees and costs under the common d dismissed the § 1983 claim. The dismissal of
+fund doctrine an the § 1983 claim was challenged on appeal. Relying on Consoli- 730 F.2d | 139
+                         Corp. of Delaware v. Kassel,
+dated Freightways (8th Cir. 1984), cert. denied, 469 U.S. 834 (1984), the Nebraska violations
+Supreme Court determined that Commerce Clause ble under § 1983 and affirmed the dismissal. The
+are not cogniza United States Supreme Court reversed and remanded for further has a right within the
+                                       taxpayer
+meaning of § pr 1 o 9 c 8 e 3 edi t n o gs s , eek ho re l l d i i e n f g for tha C t om a merce Clause viola-
+tions. The Dennis holding is grounded in the Commerce Clause Corp. v. Division of Alcoholic Beverages and
+and McKesson Tobacco. Dept. of Business Regulation of F lorida, 496 U.S. 18
+
+(1990):
+   14a
+
+           The Commerce Clause "has long been recog-
+   nized as a self-executing limitation on the power of
+   the States to enact laws imposing substantial burdens
+   on such commerce." South- Central Timber Develop-
+   ment. Inc. v. Wunnicke, 467 U.S. 82, 87 (1984). In
+   addition, individuals injured by state action may sue
+   and obtain injunctive and declaratory relief. See, e.g.,
+   McKesson Corp. v. Division of Alcoholic Beverages
+   and Tobacco. Dept. of Business Regulation of Fla.,
+   496 U.S. 18, 31 (1990). Indeed, the trial court in the
+   case before us awarded such relief, and respondents
+   do not contest that decision. We have also recently
+   held that taxpayers who are required to pay taxes
+   before challenging a state tax that is subsequently
+   determined to violate the Commerce Clause are enti-
+   tled to retrospective relief "that will cure any uncon-
+   stitutional discrimination against interstate commerce
+   during the contested period." Jd., at 51. This combined
+   restriction on state power and entitlement to relief
+   under the Commerce Clause amounts to a "right,
+   privilege, or immunity" under the ordinary meaning
+
+   of those terms. [Footnote omitted.]
+
+                                        [Emphasis added.]
+
+   Dennis v. Higgins, 498 U.S. at 447.
+
+   McKesson Corp. V. Division of Alcoholic Beverages &
+
+   Taxation, 496 U.S. 18, 110 S.Ct. 2250, 110 L.Ed.2d 17 (1990)
+
+   was initiated to challenge Florida's liquor tax as violative of the
+
+   Commerce Clause because of its preferences for liquor made
+
+   from crops which Florida is adapted to growing. A similar tax
+
+   scheme had been struck down in Bacchus Imports. Ltd. v. Dias,
+
+|  468 U.S. 263, 104 S.Ct. 3049, 82 L.Ed.2d 200 (1984). The
+
+|  Florida Supreme Court declared that the tax scheme violated the
+
+|  Commerce Clause and permanently enjoined its enforcement,
+
+   but refused to order refund of the tax. The United State Supreme
+                         15a
+
+Court addressed the question of whether prospective relief
+{declaratory and injunctive relief], by itself, exhausts the re-
+
+                    ederal law where a state places a taxpayer under
+quirements of f duress promptly to pay a tax when due and relegates him to a challenge the tax's
+                       nd action in which he can
+postpayment refu legality. Because the exaction of a tax constitutes deprivation of pro-
+                                        son Court determined that
+p o r n o e pe w rt a y s , n t o h t e s u u n ff a i n c i i m en o t us to M s c at K i e sf s y the commands
+of the Due sp P e r c o t c iv e e ss rel C i l ef au a s l e tates' constitutional obligatio o n f t t o he pr F o o v u i r d t e ee p n r t o h - Amendment.
+Analyzing the s cedural safeguards against the unlawful exaction of taxes, relief that would
+                     orth three general categories of
+be meaningful under the Due Process Cl eNee McKesson sets f ause: 1 ) a remedy to grievances before payment; or 2) a remedy for
+refund of r t e h d e res u s nl t a a w x f p u a l yer part of th it; or 3) imposition of back taxes o e n t t a h x ose fr w o h m o those who were
+required to pay were not required to pay the tax resulting in the discrimination. and fine-tuning of the
+                     Court left the selection
+The McKesson             taxpayer to each state, as long as the relief
+relief to be afforded a
+                  cures, at least  partially, the mischief that has
+is meaningful --
+
+been done.
+      We have already noted that States have a legitimate ound fiscal planning and that this interest
+      interest in s is sufficiently weighty to allow States to withhold
+                      n relief for allegedly unlawful tax as-
+      sessments, provi pr d e i d n e g pr p i o v s a t t d i e o privation relief only. See
+                   7. But even if a State chooses to provide
+      partial refunds s a u s pra a , me a a t n 3 s of curing the unlawful
+       discrimination (as opposed to increasing the tax as- f those previously favored), the State's
+       sinetsesrmeestntin ofinancial stability does not justify a refusal
+       to provide relief. As noted earlier, see supra, at 46, the es not and cannot claim that the Florida
+       couns invalidat S i t o a n te o h f er t e he d L o iquor Tax was a surprise,
+        and even after the trial court found a Commerce
+                                              16a
+
+      Clause violation the State failed to take reasonable
+      precautions to reduce its ultimate exposure for the
+      unconstitutional tax. And in the future, States may
+      avail themselves of a variety of procedural protection
+      against any disruptive effects of a tax scheme's invali-
+      dation, such as providing by statute that refunds will
+      be available to only those taxpayers paying under
+      protest, or enforcing relatively short statutes of limi-
+      tation applicable to refund actions. See supra, at 45.
+      Such procedural measures would sufficiently protect
+      States' fiscal security when weighed against their
+      obligation to provide meaningful relief for their un-
+      constitutional taxation.
+
+      Respondents also observe that the State's choice of
+      relief may entail various administrative costs (apart
+      from the "cost" of any refund itself [Footnote omit-
+      ted.]). Cf. Matthews, supra, at 348 ("{T]he Govern-
+      ment's interest . . . in conserving scarce fiscal and
+      administrative resources is a factor that must be
+      weighed" when determining precise contours of proc-
+      ess due). The State may, of course, consider such costs
+      when choosing between the various avenues of relief
+      open to it. Because the Florida Supreme Court did not
+      recognize in its refund proceeding the State's obliga-
+      tion under the Due Process Clause to rectify the
+      invalidity of its deprivation of petitioner's property,
+      the court did not consider how any administrative
+      costs might influence the selection and fine-tuning of
+      the relief afforded petitioner. We leave this to the state
+      court on remand.
+
+McKesson. 496 U.S. at 50-51.
+
+      By its reliance on McKesson in finding that a Commerce
+Clause violation is within the meaning of § 1983, Dennis stands
+for the propositions that: 1) a state taxpayer is entitled to
+                                                          17a
+
+          meaningful relief from the payment of taxes which are sub- to be violative of the Commerce Clause,
+          and, 2) where the sta s te eq r u e e m nt e l d y ies det d e o rm no i t ne p d rovide meaning relief,
+          a state taxpayer may seek relief in state courts pursuant to 42
+
+       U S.C. § 1983. That is, I read Dennis as providing a § 1983
+
+          remedy to state taxpayers for Commerce Clause violations , the state has failed to provide a remedy
+          that affords meaning w r h el e i n e , f. T a h n u d s, on r l a y th w er he t n han instruct our district
+          courts to decline jurisdiction over a taxpayer's § 1983 claim, we rict courts to entertain a taxpayer's § 1983
+aLRlR daAiEpdoebel,ltR as claim whenever in s a ho c u a l s d e d t i e r n e d ct ere ou d r t d o is t t hem the available state
+           law remedies are found short of the "meaningful relief' require-
+           ment of the Due Process Clause.
+
+                  Although the majority does not review the state remedies, te law remedies available to the tax-
+           payers herein are ade i q ts ua c t o e nc i l s u c s o i r o r n ect tha e t ve t n he un st d a er the "meaningful
+           relief" requirement of the Due Process Clause as explained in
+           McKesson. Oklahoma's predeprivation remedies afforded tax-
+
+                  1 in light of the following authorities, Dennis v. Higgins can only be read ght to file suit for violations of the Commerce
+              Clause in state court under as § a 1 f 9 f 8 o 3 r . di F n e g de a ra t l ax C p o a u y r e t r s t m h a e y ri not render declaratory
+              judgments as to the constitutionality of state tax laws. Great Lakes Dredge & 9 U.S. 293, 63 S.Ct. 1070, 87 L.Ed. 1407 (1943).
+              Federal Courts may not D g o r c a k nt C d o a . ma v g . e H s uff re m l a i n e , f in 31 a § 1983 action challenging
+               state tax law, if taxpayers have an adequate state remedy for protection of their 1341 and Fair Assessment in Real Estate Associa-
+
+             tion v. McNary, f 4 e 5 d 4 era U l .S. rig 1 ht 0 . 0, 28 10 U 2 .S S . . C Ct . . § 177, 70 LEd.2d 271 (1981 ). Absent or a valid congressional override, the Eleventh Amend-
+              ment bars damages actions wa a i g v a e i r nst by St t a h t e es sta a t n e d state officers in their official
+              capacity in federal court. Kentucky v. Graham, 473 U.S. 159, 105 S.Ct. 3099, (1985). Federal law is part of the Law of the Land and
+              87 LEd.2d 114 enforceable in state court. Howlett v. Rose, 496 US. 356, 110 S.Ct. 2430, 110 to 42 U.S.C. § 1983 may be maintained
+
+                                 90). Claims pursuant
+              L.Ed.2d 332 (19 in our district courts. Martin v. Harrah Independent School District, 543 P.2d
+               1370 (Okla. 1975) and Willborm v. City of Tulsa, 721 P.2d 803 (Okla. 1986).
+                                                  18a
+
+   payers are limited to situations where the authority of the
+   assessing entity is challenged or where the tax has not become
+   due and payable." Oklahoma's postdeprivation administrative
+   remedies with the right of appellate review are limited only by
+   time restrictions, while the district court remedies are further
+   limited.
+
+          1. Where a taxpayer fails to report and pay or under-re-
+   ports and under-pays, the Oklahoma Tax Commission may issue
+   a proposed assessment and the taxpayer may seek an adminis-
+   trative hearing on the proposed assessment by way of a written
+   protest before the payment of the tax. 68 O.S. 1991, § 221.
+   However judicial review of the protest by appeal may not be had
+   without payment of the proposed assessment under protest and,
+   if the taxpayer prevails the taxes paid under protest will be
+   refunded. 68 O.S.1991, § 225.
+
+         2. Where a taxpayer has voluntarily reported and paid
+   taxes, the taxpayer may claim a refund of taxes paid within three
+   years from the date of the claim alleging erroneous payment. 68
+
+   O.S.1991, § 227.4
+
+   2 An Oklahoma taxpayer May not maintain an action to enjoin the
+
+   collection of a tax. Oklahoma Tax Commission v. Harris, 191 Okla. 28, 126
+
+   P.2d 685 (1942). However, an Oklahoma taxpayer may maintain a declaratory
+
+   judgment action to challenge the validity of a taxing statute on its face before
+   the tax becomes due, Oklahoma Tax Commission v. Smith, 610 P.2d 794
+
+   (1980), or to challenge the authority of the assessing entity. United Airlines,
+
+   Inc. v. State Board of Equalization. 789 P.2d 1305 (Okla. 1990).
+
+   > Citation is to the 1991 codification of the statutes providing taxpayer
+
+   remedies. Although these statutes may have been amended since this suit was
+
+   instituted and since the 1991 codification, the substance of the taxpayer
+
+   remedies have not changed. Also, the remedies outlined herein are not
+
+|  intended to be exhaustive. Each of the various tax codes contain additional
+
+|  remedies or restrictions peculiar to the tax. For instance, income tax refunds
+
+   are authorized and limited by 68 O.S.1 991, § 2373. See, Strelecki v. Okla-
+
+   homa Tax Commission, 872 P.2d 910 (Okla. 1993).
+
+      ' Taxpayers who did not protest the payment of a tax under a statute
+   which is subsequently declared unconstitutional have a statutory right to
+
+n  --
+                                             19a
+
+detiSakeotle atlah        If the refund is denied at the division level, the taxpayer ve hearing on the claim. 68 O.S.1991,
+                    §§ 227 and 228. J m ud a i y cia s l ee r k ev a i n ew ad of mi t n h i e st c r l a a t i i m for refund by appeal
+                    may be had, and if the taxpayer prevails the taxes erroneously
+                    paid during the previous three years will be refunded. 68 O
+                    §.1991, § 225.
+
+                           3. Where a taxpayer voluntarily reports but pays the tax r carriers did in this cause, the taxpayer
+                    may claim a refund un a d n e d r s pr e o e t k est a , n a a s d t m h i e ni m s o t t r o ative hearing on the
+                     challenge to the payment. 68 O.S.1991, § 207. Judicial review by appeal may be had, and if the taxpayer
+                     prevails the taxes of p t a h i e d c u h n a d l e l r enge protest will be refunded. 68
+                     O.S.1991, § 225.
+
+                            4 In addition to the administrative and judicial review
+                     provided in 68 0.§.1991, §§ 207, 221, 227 and 225, a taxpayer
+
+                     may seek review inthe state district court. 68 O.S. 1991, §226.4
+
+                     The state district court remedy is limited to challenges of taxes
+
+                     under federal law. 68 O.S.1991, § 226(C).° If the challenged
+
+                    recover ion, 620 P.2d ta 8 x 9 e 6 s ( p 1 a 9 i 8 d 1). wi T t h h e in Su t n he Oi t l im c e ase lim i i n t v s olv pr e e d scribed. Sun Oil Company Vv.
+                    Oklahoma Tax Commiss              nstitutional in an original acuon
+                                                  unco
+                    r i e l f l u i n p d s o v. f u O s k e la ta h x o e m s a tha T t ax wer C e om d m e i c s l s a i r o e n d , 577 P.2d 1278
+                    before this Court in Ph
+
+                    (Okla. 1978).
+
+                       5 Subsection (a) of Section 226, as amended by 1990 Okla. Sess. Laws.
+
+                    ch. 339, § 16, provides:
+
+                            (a) In addition to the right to a protest of a proposed assessment as 1 of this title, a right of action is hereby created
+                           to afford a rem a e u d t y hor t i o z a ed ta b x y pa S y e e c r tio a n gg 2 r 2 ieved by the provisions of this state taxlaw, orwhoresists thecollecuon of or
+                            enforcement of the r a u r l t e i s cl a e n o d ro r f eg a ul n a y t o i t o h ns er of the Tax Commission on of any state tax; however, such remedy shall
+
+                          be limai s prt esce ribd ed rel b a y ti s n u g bs t e o ct th i e on col ( l c) ec o t f i this section. nted in§ 226islimited tocases which meet
+                     6 The judicial remedy gra the statutory delineated criteria 1) an unlawful burden on interstate commerce, or 3) in
+
+                                     f Acts of Congress or the United States Constitution,
+                     2) violative o
+                                                                       20a
+
+                    taxes have not been paid, the taxpayer must pay under protest
+                    within thirty days from the mailing of the assessment and give
+                    notice of intent to file suit. 68 O.S.1991, § 226(B).' Similarly
+                    situated taxpayers may likewise pay the tax under protest and,
+                    upon request, enter into an agreement to be bound by the
+                    decision in another taxpayer suit, rather than file a separate suit.
+                    68 O.S. 1991, § 226(D). If the taxpayer prevails the taxes paid
+                    under protest will be refunded. 68 O.S.1991, § 226(B).®
+
+                        cases where jurisdiction is vested in any of the courts of the United States.
+                        Cimarron Industries. Inc. v. Oklahoma Tax Commission, 621 P.2d 539 (Okla.
+                        1980), wherein we decided that the taxpayer failed to bring itself within § 226
+                        and thus should have exhausted its administrative remedies. Subsequently in
+                        Ladd Petroleum Corporation v. Oklahoma Tax Commission, 767 P.2d 897
+                        (Okla. 1989), this Court concluded that there is no requirement of exhaustion
+                        of administrative remedies under § 226. The dispositive issue in Ladd was
+                        whether the trial court erred in sustaining the Oklahoma Tax Commission's
+                        demurrer to the evidence on the basis that the taxpayer was not entitled to
+                        maintain an action under § 226 because it failed to present evidence of a
+                        violation of federal law. Allowing taxpayers to assert federal challenges in
+                        district court without the necessity of exhausting administrative remedies
+                        avoids needless litigation when the administrative agency has no authority to
+                        declare a tax statute void as contrary to federal law. Dow Jones & Co. v.
+                        Oklahoma Tax Commission, 787 P.2d 843, (Okla. 1990).
+
+                            7 Pursuant to § 226, the payment of a proposed assessment under protest
+                        within thirty days is jurisdictional and may not be extended under the
+                        provisions of § 221 that allow an extention of time to file a protest and seek
+                     an administrative hearing. Ladd Petroleum Corporation v. Oklahoma Tax
+                      Commission, 619 P.2d 602 (Okla. 1980).
+
+                    8 InStallings v. Oklahoma Tax Commission, appeal No. 73,769, opinion
+
+                     promulgated on July 19, 1994, this Court ruled that § 226 provides a district
+                        court remedy to a taxpayer against whom the OTC has issued a proposed
+                        assessment. Stallings denied a § 226 action to the taxpayers who had overpaid
+                        taxes and claimed the presence of a federal constitutional infirmity by means
+                        of an unlawful exaction. The Stallings opinion could bring Oklahoma's
+                        postdeprivation remedies below the "meaningful relief' demanded by federal
+                        due process as to those taxpayers who self-assess an illegal exaction as
+                        required by the tax reporting and paying statutory provisions.
+
+ictal
+                2la
+
+      These postdeprivation taxpayer remedies allow the refund test and the refund of erroneous payment
+of taxes during of th t e axe p s re p c a e i d d in u g nde t r hre p e ro years. Where the tax iS federal law, the district court remedy allows
+challenged under taxpayers to seek refund of the taxes paid under protest without tdeprivation reme-
+
+                     multiple suits. With these pos
+the necessity of dies, Oklahoma preserves its fiscal affairs from disruption ex- or taxes paid
+
+                     und of taxes paid under protest
+cept for the ref voluntarily during the preceding three years. Where suit is filed tected its fiscal secu-
+
+                      Oklahoma has further pro
+ in district court, rity by allowing a single suit for the determination of a violation
+
+                       reby dispensing with the costs of multiple suits.
+ of federal law the These postdeprivation administrative and judicial remedies af-
+
+                        in Oklahoma fit neatly within the "meaningful
+ forded taxpayers relief" requirement of the Due Process Clause of the Fourteenth
+  Amendment as pronounced in M cKesson.
+
+        The district court denied the § 1983 claim herein, for failure he attendant § 1988 attorney fees request.
+  to state a claim, and t Because my review of extant jurisprudence convinces me that
+
+                       s which were affordable to these taxpayers in
+  the state remedie this case satisfy the "meaningful relief" standards, I would
+  affirm the district courts dismissal of the § 1983 and § 1988
+
+claims herein.
+Even though I would reach the same result reached by the in the majority's rationale must be dis-
+Susitaixt Court today, the flaw cussed. Following State v. Quill, 500 N.W.2d 196 (N.D. 1993),
+                                   S.Ct. 173, the majority opinion holds that our
+cert. denied 114 state courts should decline to grant relief under § 1983 to a mmerce
+taxpayer aggrieved by a tax statute that violates the Co the federal courts are prohibited from granting
+Clause because               § 1341 . Section 1341, the Tax
+such relief under 28 U.S.C.
+                f 1937, provides that the federal district courts
+Injunction Act o "shall not enjoin, suspend or restrain the assessment, levy or plain, speedy and
+collection of any tax under State law where a
+   22a
+
+   efficient remedy may be had in the courts of such State." The
+   federal Tax Injunction Act appears to defer to state remedies
+   similarly to McKesson. But, neither the majority nor the Quill
+   court recognize the procedural/substantive demarcation. The
+   "plain, speedy and efficient" remedy in state court requirement
+   in § 1341 is a procedural requirement. Rosewell v. LaSalle
+   National Bank, 450 U.S. 503, 101 S.Ct. 1221, 67 L.Ed.2d 464
+
+   (1981). The "meaningful relief' requirement of the Due Process
+
+   Clause as pronounced in McKesson is a substantive require-
+   ment. Oklahoma's taxpayer remedies satisfy the minimum pro-
+   cedural requirements of § 1341. Cities Service Gas Co. v.
+   Oklahoma Tax Commission, 656 F.2d 584 ( 1 Oth Cir. 1981 )
+   cert. denied, 454 U.S. 1124, following Rosewell. However, it
+   does not necessarily follow that those same remedies are mean-
+   ingful under the Due Process Clause. Hence, Quill may be no
+   more than a primrose path.
+
+   Quill is not virtually identical to this cause, as the majority
+
+   says. North Dakota sought declaratory judgment in its state court
+
+   that Quill Corp., as an out-of-state entity doing substantial mail
+
+   order business in the state, was required to collect, report and
+
+   remit state use tax. Quill Corp. had refused to collect the North
+
+   Dakota tax -- that is, Quill Corp. had not been deprived of any
+
+   property right except maybe for the cost of defending the
+
+   declaratory ©)]gment. Quill Corp. filed a counter claim alleging
+
+   it was entitled to relief under § 1983. The North Dakota Supreme
+
+   Court upheld the tax statute which imposed the collection duty
+
+   on an out-of-state vendor, concluding that the statute is consis-
+
+   tent with National Geographic Society v. California Board of
+
+   Equalization, 430 U.S. 551, 97 S.Ct. 1386, 51 L.Ed.2d 631
+
+   (1977) and that National Bellas Hess. Inc. v. Department of
+
+|  Revenue, 386 U.S. 753, 87 S.Ct. 1389, 18 L.Ed.2d 505 ( 1967)
+
+|  is obsolete. Quill Corp.'s counterclaim was dismissed. On
+
+   certiorari, the United States Supreme Court reversed the North
+
+   Dakota Supreme Court, concluding that the statute violated the
+
+   Commerce Clause, refused to overrule National Bellas Hess and
+
+        _--
+                                              23a
+
+remanded the cause to the state for further proceedings. Quill
+Corporation v. North Dakota, __US.__, 112S.Ct. 1904, | 19
+L.Ed.2d 91 (1992). In Quill, the High Court does not mentuon 983 claim, nor did it remand in light of
+Dennis v. Higgins. Th t e he No d r i t s h mis D s a al kot o a f § Sup 1 reme Court was not
+concerned with a meaningful McKesson refund relief as is us, Quill is readily distinguishable and
+should not be readily f i o n l v l o o l w v e e d d . h F e u r r e t i h n e . r, T t h he Quill rationale does
+not fall within the guidelines set by the United State Supreme
+Court in Howlett v. Rose, 496 U.S. 356, 110 S.Ct. 2430, 110
+
+ L.Ed.2d 332 (1990), for state courts to decline jurisdiction over
+
+ one category of § 1983 claims.
+       Predicating a §1983 taxpayer suit upon the inadequacy of es is consistent with the aftermath of
+
+ Dennis. The United S t t h a e tes ava S i u la p b r l e e me sta C te ou r r e t me h d a i s said that "§ 1983
+ remains a generally and presumptively available remedy for ederal law. Dennis v. Higgins, 498 U.S.
+ 439, 443, 111 S.Ct 8 c 6 l 5 a , ime 8 d 68, v 1 i 1 o 2 lat L i . on E s d.2 o d f f 969 (1991)." Livadas
+  vy. Bradshaw, California Labor Commissioner. ___U.S.___ 114
+  S.Ct. 2068, 2083 (1994). Further, in Heck v. Humphrey, _-- 4594 (decided June 24, 1994), the Court
+  said that a § 1983 act U i . o S n . w _ o __ u , ld 62 be U d S e L ni W ed a prisoner, unless and
+  until the conviction or sentence is reversed, expunged, invali-
+  dated or impugned by the grant of habeas corpus.
+                                              24a
+
+                               APPENDIX B
+
+     PRIVATE TRUCK COUNCIL OF AMERICA, INC.,
+  Circle W. Transportation, Inc.. and Roy E. Griffis, On
+  behalf of Themselves and all Others Similarly Situated,
+
+                                                                   Appellants,
+
+                                                            -
+
+            OKLAHOMA TAX COMMISSION, et al.,
+                                                                    Appellees,
+
+                                      and
+
+         Associated Motor Carriers of Oklahoma, Inc.,
+                                                                                 Intervenor.
+
+                                     No. 68401
+
+                      Supreme Court of Oklahoma
+
+                                June 28, 1990
+
+                      As Amended March 5, 1991.
+
+      Appeal from the District Court of Oklahoma County; John
+M. Amick, Trial Judge.
+
+      Class action by and on behalf of non-resident motor carri-
+ers challenging the constitutionality of retaliatory/third-tier
+taxes imposed on non-Oklahoma residents operating foreign
+based motor carriers, pursuant to 47 O.S.1986 Supp. § 1120(K)
+and 68 O.S. 1982 Supp. § 607.1. District court upheld constitu-
+tionality of challenged taxes, denied appellant's motion for
+summary judgment, including declaratory and injunctive relief,
+tax payment refunds, costs and attorneys fees, and rendered final
+judgment for appellees.
+                                 25a
+
+             REVERSED AND REMANDED FOR
+                   FURTHER PROCEEDINGS.
+
+      William B. Rogers & Associates, by William L. Rogers Oklahoma City, and Zuckert, Scout,
+Rasenberger & Jo a h n n d son R , ona b l y d R C i . ch P a a r l d mat A a . ry, Allen and Andrew R.
+Plump, Washington, D.C., for appellants.
+
+      Oklahoma Tax Com'n by Joe Mark Elkouri and Stanley
+Johnston, and Office of the Atty. Gen., by Thomas L. Spencer,
+As Intervenor, Oklahoma City, for appellees.
+
+       Kimball, Wilson & Walker, by Thomas G. Ferguson, Jr.,
+Oklahoma City, for intervenor.
+
+      DOOLIN, Justice.
+      Appellants Private Truck Council of America, Inc., Circle
+
+W. Transportation, and Roy E. Griffis, (Truckers)! have chal-
+
+1 Trucker, Private Truck Counsil of America, Inc., (PTCA), is a non- orporated in 1939 under the laws of New York,
+with its principal place p o r f of b i u t si b n u e s s i s nes i s n W a a s s s h oc i i n a g t t i o o n n , in D c .C. PTCA is comprised ompanies operating trucks and related equipment as private
+of over 1,800 c                A's member companies, oeprating in inter-
+carriers. A large number of PTC
+                  homa, register their           vehicles in states against
+state commerce through Okla which the Oklahoma Tax Commission retaliates under the authority contained
+in rs §§ b 1 y 12 a 0( v k a ) rie a t n y d o 6 f 07 a . c 1 ti . vit P i T es C , A' i s ncl p u r d i i n n c g ipa d l is p s u e r m p i o n s a e ti i n s g to protect and promote
+information, undertaki t n h g e in e t d e u r c e a s t t i s on o a f l its ac m t e iv m i b te e s, lobbying Congress and state private carriers, and engaging in
+legislatures on regulatory issues affecting               Trucker, Circle W, a
+                               on behalf of its members.
+litigation of this kind subsidiary of Westinghouse Electric Corporation, provides transportation hicles that
+                                                                            e
+                                                                           v
+
+                                 throughout the nation, with fifteen
+primarily for that company are registered in Pennsylvania. Those vehicles paid Pennsylvania's annual
+                                                                                   corre-
+$36.00 per axle tax, and according were also subject to Oklahoma's liatory tax. In 1984, for example, Circle W, through Westing-
+sponding reta
+house, paid Oklahoma $1,080.00 in mirror taxes.
+Trucker, Roy E. Griffis and his wife, Freida Griffis, reside in Bearden, gan a trucking business in January 1984. The Griffises
+Arkansas, and be operate in several states, including Oklahoma. Their truck is registered in Oklahoma's retaliatory tax of
+Ar a k n a d nsa i s t , s ret a a n l d iato a r c y cord f i u n e g l ly mar t k h e e r y h f a ee ve of pa $ i 1 d 0.00 per year.
+$175.00 per year
+------------
+
+                                                                            26a
+
+                        lenged the constitutionality of 47 O.S.Supp. 1986 § 1120(K) and
+                        68 O.S.Supp. 1982 § 607.1. The questioned statutes impose fees
+                        and taxes on out of state motor carriers, operating in Oklahoma,
+                        in the same manner and extent that Oklahoma based motor
+                        Carriers are taxed in other states. The pivotal issue presented is
+                          whether 47 O.S. § 1120(K) and 68 O.S. § 607.1 discriminate on
+                        their face against interstate commerce and nonresident motor
+                        Carriers in violation of both the Commerce Clause, U.S. Const.,
+                        Art. I, § 8, cl. 3, and the Privileges and Immunities Clause, U.S.
+                        Const., Art. IV, § 2, cl. 1. Other issues before this Court are
+                        whether Truckers are entitled to reimbursement of litigation
+                        expenses and reasonable attorneys' fees, and whether Truckers
+                        are entitled to refunds, and if so, whether retroactive or prospec-
+                        tive application is appropriate.
+
+                                                 I. Factual Background
+                               In its overall taxing scheme, the State of Oklahoma im-
+                        poses several fees and taxes on all motor carriers operating
+                        within its borders. At the "first tier', the State imposes an annual
+                        registration fee, determined by the vehicle's total weight, for all
+                        trucks and related equipment operating in the State. 47
+                        0.S.Supp.1985 § 1101 et seq. As a participating member of the
+                        International Registration Plan (IRP), an apportioned interstate
+                        registration system, Oklahoma also shares its registration fees
+                        for Oklahoma based-motor carriers, engaged in interstate com-
+                        merce, with other participating IRP States, wherein the motor
+                        carrier travels. 47 O.S.1985 § 1120.
+
+                               In return, Oklahoma receives a percentage of nonresident
+                        motor carrier's total registration fee which is determined by
+                        dividing the vehicle's actual mileage within Oklahoma by its
+                        overall total mileage for the preceding year. Thus, with respect
+                        to motor carriers engaged in .nterstate commerce, Oklahoma's
+                        total registration fees are determined by the vehicle's registra-
+                        tion fee, and its percentage share of the vehicle's in-state mile-
+                           age. 17 0.8.1985 § 1120(B). No Oklahoma motor carrier is
+                               27a
+
+required to pay more than one full registration fee, nor does the tration fees against motor carriers based in
+non-IRP States. Al S t t h a o te ugh imp O o k s l e aho re m g a is does not share its registra-
+tion fees with non-IRP States, the appellee, Oklahoma Tax horized and empowered to enter into and
+make reciprocal C c o o m m m p i a s c s t i s on, an i d s " a a g u r t eements" with non-IRP
+States. 47 0.S.1985 § 1123.
+
+       At the "second tier', the State also imposes a tax on all of their state of registration, for the
+ use of motor fuel mo w t it o h r in ca t r h ri e er S s t , ate r . ega A r d d d l i e t s i s onally, a number of
+ special excise taxes are imposed on the use of diesel fuel. 68
+ 0.S.1981 §§ 501 and 601 et seq.
+
+        Beyond the traditional registration fees and fuel taxes is a taxes are known as "mirror" or "retalia-
+ tory" taxes, and ar " e thi a r l d so ti c e a r l ' led tax. "`t S hi u r c d h structure" taxes. Third
+  structure taxes are neither apportioned nor prorated, and exam- mile taxes, based on the truck's weight and
+  miles driven in t p h l e es ta i x n i c n l g ude st : ate; ton ax - le taxes, a flat charge based
+  on the number of axles on each vehicle, annual fuel marker fees,
+
+           and trip fees.
+                  In the instant case, retaliatory taxes and fees are imposed ident motor carriers whose vehicles are
+
+regi nr stered in state s s ol t e h l a y t o i n mp c o e s r e tai t n hi n rd onr ti e e s r taxes on heavy trucks
+          registered in Oklahoma2 The Oklahoma Legislature, by enact-
+
+2 imposed by section S s ect 2 i 2 o . n 1 1 th 1 r 2 o 0 u ( g K h ) 2 p 2 r . o 3 v 4 ide o s f t i h n is pe t r i t d i e n , en t t he pa s rt a : me In o a r ddition to those taxes
+or fees          same type or cafegory of tax or fee may be imposed upon an
+
+substantially the out-of-state resident as is imposed upon residents of Oklahoma for the same
+                                                                                     mount, Or,
+or substantially similar use of a vehicle in such other state in the a al amount, of any fee or tax, including property, motor fuel,
+approximate tot              required by thelawsof suchother statetobe
+excise, sale, useormilage tax
+paidby a resident of this  state making the same or similar use of a like vehicle
+
+in such state.
+
+   Section 607.1 provides in pertinent part:
+In addition title, the same or, substantially the t s o am t e hos t e yp t e ax o e r s ca o t r eg f o e r e y s i o m f p t o a s x ed or b f y ee Ar m t a i y cle b s e 5, 6, and 7 of this
+                                                  28a
+
+- ing the "mirror" statutes in 1982, intended that registration and
+  licensing fees, and motor fuel taxes "assessed against residents
+  of other states operating similar vehicles in Oklahoma be com-
+  parably the same as the (fees and taxes) assessed against resi-
+  dents of Oklahoma operating a similar vehicle for a similar
+  purpose in such other state." 47 0.S. § 1120 (K), and 68 0.S. §
+  607.1(D).
+
+         In 1983, the Oklahoma Tax Commission started imposing
+  mirror fees and taxes against motor carriers with vehicles regis-
+  tered in 25 states. The retaliatory taxes and fees, varying in
+  amount, are wholly dependent upon the vehicle's state of regis-
+  tration, because the taxing scheme mirrors the fees and taxes
+  imposed by that state as a condition precedent to the use of that
+  state's highways by Oklahoma based carriers.4 The revenues
+  generated by these fees and taxes are distributed and used for
+  the construction and maintenance of the highways and roads in
+  the State of Oklahoma.
+
+                      II. Procedural Background.
+
+         Truckers filed this class action, on behalf of themselves and
+  all other persons similarly situated, on December 17, 1984. With
+  respect to the Commerce Clause, Truckers keenly recognized
+
+  imposed upon an out-of-state resident as is imposed upon residents of Okla-
+  homa for, the same or substanstimiilaar lusle yof a vehicle in such other state
+  in the amount, or approximate total amount, of any fee or tax, including
+  property, motor fuel, excise, sales, use or mileage tax required by the laws of
+  such other state making the same or similar use of a like vehicle in such state.
+
+      > These are Alabama, Arizona, Arkansas, Connecticut, Delaware, Flor-
+  ida, Georgia, Idaho, Kentucky, Louisiana, Maine, Maryland, Massachusetts,
+  Mississippi, New Hampshire, New Jersey, New Mexico, New York, North
+  Carolina, Nevada, Ohio, Oregon, Pennsylvania, Vermont, and West Virginia.
+
+      ` For example, because Arkansas imposed a nonapportfilaot-nfeeedof
+  $175.pe0r y0ear against resident and nonresmiotodr ecanrriters, Oklahoma
+  retaliated by imposing the same fees against Arkansas registered carriers
+  doing business in the state. See Ark.Code Ann. tit. 27, § 27-35-205 (1983)
+  (repealed 1987).
+                               29a
+
+that a State may require persons engaged in interstate commerce their fair share of state taxes.» However, Truckers argued
+to pay            retaliatory  fees  and  taxes  are  a blatant  and  an
+
+      Oklahoma's
+that              on of the Commerce Clause, because they
+
+egregious violati discriminate, on their face, against nonresident motor carriers.
+                      a declaratory judgment declaring Oklahoma's
+Truckers sought retaliatory statutes unconstitutional, and also requested a perma- allenged taxes, re-
+                     against collection of the ch
+nent injunction funds of all taxes and fees paid by class members, and attorneys'
+                     ter having its "class action" certified as such
+fees and cost. Af pursuant to 12 O.S. Supp.1987, § 2023(B)(1)(b) and (B)(2),
+Truckers moved for summary judgment.
+      The Tax Commission argued that Truckers' frontal attack ity of Oklahoma's statutes could not be
+determined with u o p u o t n a th " e co c s o t nst i i m t p u a t c i t on " al analysis. Since Truckers any factual evidence showing actual damages,
+failed to produce measured in dollars and cents, resulting from the alleged dis-
+                    nt or effect of the statutes, the Tax Commission
+criminatory inte urged the district court to reject Truckers' claim of facial uncon-
+
+stitutionality.
+      While not representing any party in this case, the Oklahoma the Associated Motor Carriers of Okla-
+Attorney General and homa, Inc., were granted permission to intervene pursuant to 12 of third structure
+                                                  ion
+
+               84, § 2024. Since the imposit
+0.S.Supp. 19         base-registered operators of motor carti-
+taxes upon Oklahoma
+                  barrier to cond    ucting interstate business in that
+ates ers constitutes a taxing state, both intervenors, and the Tax Commission, asked
+                             to uphold the constitutionality of the disputed
+the trial court      Oklahoma Legislature further promoted
+statutes, because the ualizing the third tier taxation burden.
+interstate  commerce by eq                issues of fact," the district
+
+court denied Trucker F s i ' ndi m n o g ti " o n n o f d o i r spu s t u e m d ma m r a y teri j a u l dgment The
+
+        5 Marylandv.Louisiana4,51U.S. 725, 754, S.Ct. 21 14,2133, 68L-Ed.2d
+      576 (1981).
+                                               30a
+
+court further upheld the constitutionality of both retaliatory
+Statutes, and granted final judgment to the Tax Commission, as
+a matter of law. In its memorandum opinion, the district court
+expressly acknowledged that the Supreme Judicial Court of
+Maine had struck down Maine's reciprocal truck taxes as a
+violation of the Commerce Clause.®
+
+      Curiously, the district court also noted that the Maine
+Supreme Judicial Court had found unpersuasive, and "refused
+to accord any precedential value" to an earlier New Jersey trial
+court decision which upheld New Jersey's retaliatory truck tax.'
+The Maine Court found that "any significance accorded the
+Supreme Court's 1974 summary disposition of B & L Motor
+Freight must yield to supervening `doctrinal developments.'"
+See Private Truck Council, 503 A.2d, at 218 n. 7.
+
+      Nevertheless, our district court, relying on the United
+States Supreme Court's summary disposition of B & L to
+Support its contention that "the matter was no longer open to
+question," concluded:
+
+      It would seem that the view taken by the New Jersey
+      Court is better reasoned and more in accord with the
+      views of the United States Supreme Court. It is the
+      actual effect on interstate commerce that we must
+      consider, not the form of the statute. It seems to me
+      that the purpose of the reciprocal laws is to motivate
+      all states to abandon excessive taxes on out-of-state
+      truckers, and I am not willing to say that such laws are
+
+    © Private Truck Council v. Secretary of State, 503 A.2d 214 (Me.1986),
+cert. denied 476 U.S. 1129, 106 S.Ct. 1997, 90 L_Ed.2d 677 (1986).
+
+   7 B & L Motor Freight, Inc. v. Heymann, 120 N.J.Super. 270, 293 A.2d
+711 (Ch.Div.1972), affd mem., 125 N.J.Super. 372, 311 A.2d 184 (App.
+Div.1973), certif. denied, 64 N.J.494, 317 A.2d 707 (1974), appeal dismissed,
+419 US. 1042, 95 S.Ct. 613, 42 L.Ed.2d 636 (1974), reh'g denied, 420 U.S.
+913, 95 S.Ct. 837, 42 L.Ed.2d 845 (1975). But see n. 11 infra and accompa-
+nying text .
+                              3la
+
+       either an undue burden on interstate commerce or that
+
+      they violate the privileges and immunities clause.
+Truck upholding the constitu e t r i s ona a l p i p t e y al of all t e h g e ing cha t l h l at eng t e he d d s i t s a tr t i u c t t es. court erred in the disputed statutes are
+facially uncon T s r t u i c t k u e ti r o s nal a , lso the c y on a t r e e nd enti t t h l a e t d b to ec r a e u f s u e nds of the fees
+and taxes collected and cost under the federal Civil Rights Act,
+42 U.S.C. § 1983.
+
+   Iu. Ruling is not A a Un p i re t c e e d de S n t t a i t a e l s S de u c p i r si e o m n e . Court Procedural
+Initially, yenors' contention, apparentl w y e a m d u o s p t ted add b r y es t s he t c h o e ur T t ax bel C o o w m , mi t s ha s t ion and Inter- dismissal of B &
+inding p th r e ec U e n d i e t n e t d o S n ta t t h e i s s C S o u u p r r t, em r e eg C a o rd u l r e t s ' s s o s f um ou m r ar a y pproval
+Lis b              the Commerce Clause analysis contained in
+or disapproval of
+                                   ney General asserts that "B & L
+Motor Freigh t t he i o s p n i o ni w on. a d I e n ci b s r i ie o f n , t o h f e th A e tt U o n r ite St d ate S s tates Supreme
+Court," and that "if it is to be overturned only the United
+Supreme Court may do so." se contentions, because they
+float in the sea o W f e friv d o i l s i a t g y r . ee The and Uni r t e e je d ct St t a h t e es Supreme Court
+has made it "quite clear" ® that itsto be taken as rulings on
+       the merits, s . u . m . m , a i r n y th d e is s m e i n s s s e als tha a t re, th . e - y -, rejected the presented in the statement of
+       jurisdiction' ` a s n pe d ci l f e i f c t ` c u h n a d l i l s e t n u g r e b s ed the judgment ap-
+       pealed from.' They do not, however, have the same
+
+8 washington 20,99 S.Ct. 740, 749 n. 20, 58 v L . -_ C E o d n .2 f d ed 7 e 4 r 0 at ( e 1 d 979 B ) a . nd In s th a e nd sam Tr e ib v e e s i , n, 4 w 3 e 9 s U t . a S t . ed 463, 476 n. n, 769 P.2d 1309, 1315
+this limitation in Turpen Vv. Okla Corp. Comm' uthority for state courts,
+O k1.1988): summary dispositions are a "source of a is confined to the
+(but the precedential weight of that summa: , disposition
+
+narrowest possible grounds."
+                                         32a
+
+         precedential value here as does an opinion of this
+         Court after briefing and oral argument on the mer-
+         its, .... A summary dismissal of an appeal represents
+         no more than a view that the judgment appealed from
+         was correct as to those federal questions raised and
+         necessary to the decision. It does not, as we have
+         continued to stress. .., necessarily reflect our agree-
+         ment with the opinion of the court whose judgment
+         is appealed. It is not at all unusual for the Court to
+        find it appropriate to give full consideration to a
+         question that has been the subject of previous sum-
+          mary action. [Emphasis added] [Citations omitted].
+
+         Where the constitutionality of a state statute is questioned,
+   summary actions by the Supreme Court of the United States,
+   except for their persuasive value, have no final or binding effect
+   on this Court. Nor can such summary actions be regarded as
+   precedent in later cases presenting the precise question pre-
+   viously subjected to summary action.? It is the prerogative of
+   this Court to determine whether this State's statutes pass consti-
+   tutional muster. As we previously stated, "[t]he interpretation of
+   State legislation and the `construction placed upon state statutes
+   by our highest court is binding upon the United States Supreme
+   Court.' '"10
+
+         In the instant case, B & L is irrelevant, because the New
+   Jersey Supreme Court has agreed with one of its lower courts in
+   overtuling B & L. In striking down New Jersey's third tier taxes
+   and fees that state's Superior Court, Appellate Division, agreed
+   with the Supreme Judicial Court of Maine's assessment and
+   concluded:
+
+         While we entertain doubts about whether the discrimi-
+         nation question was decided in that case, we need not
+
+     9. Id.
+     10 Ingram v. Oneok, 775 P.2d 810, 813-14 (Okl. 1989), quoting United
+
+   States v. Home Federal S.& L. Ass'n of Tulsa, 418 P.2d 319, 325 (Ok1. 1966).
+
+j
+
+   `a  `                                                                         ` Ss
+                            33a
+
+decide the issue because we are satisfied that in any st yield to supervening doctrinal
+event B & developmentL, mu.., which requires a different result. !!
+[Emphasis added.}
+The Attorney General's contention that since 1972 "no s have occurred which would affect this
+issue," is do i c n t c r o i n n s a i l ste d n e t ve w l i o t p h me t n h t e cases he United States Supreme Court str c u i c t k ed do in wl b i rief.!2 Despite
+the fact that t Pennsylvania's marker fee and axle tax as impermissible under al, citing Western
+                    Clause,!* the Attorney Gener
+the Commerce and Southern Life Insurance Company v. State Board of Equali- L.Ed.2d 514 (1981) as
+                      648, 101 S.Ct. 2070, 68
+zation, 451 U.S. precedent, asserts that this Court should uphold the constitution- ss has clearly
+                       nged statutes, because "Congre
+ality of the challe expressed its intent to allow the States the power to tax interstate Clause."
+                                                                rce
+motor carriers free from attacks under the Comme 21. Admittedly, state regulation and taxation of
+49 U.S.C. § 105 insurance companies are not subject to Commerce Clause limi- the insurance industry
+                     Congress has exempted
+tations because       e coverage.!4 However, state taxation of
+from Commerce Claus
+motor carriers engaged  in interstate  commerce remains fully
+
+11 affd percuriam "For ther p e r a i s v o a n t s e e T x r p u r c e k ss C e o d un i ci n l th v e . o St p a i t n e i , on 221 oft N h . e J.S A u p p p e e r l . la 8 t 9 e , 534 A.2d 13 (1987), 214, 544 A.2d 33 (1988). The Superior Court of New
+Division," 111 N.J. Jersey also noted that our district court's opinion, which heavily relied upon feesimilar toNew
+                                                  ng a counterpart
+B & L istheonlydecision "upholdi
+Jersey's." See Private Truck Council, supra, 534 A.2d, at 170.4.
+12 See generally, American Trucking Ass'ns, Inc. v. Gray, 288 Ark. 488, 9 (1986) (Upholding the constitutionality of Arkansas' High-
+          75
+707 S.W 2d            tax), vacated and remanded 483 U.S. 1014, 107 S.Ct.
+way Use Equalization
+                            ' don  remand as a violation of the Commerce
+3252, 97 L_Ed.2d 752 (1987), rev Ark. 43, 746 S.W 2d 377 (1988).
+Clause, 295 13 See American Trucking Ass'ns v. Scheiner, 483 U.S. 266, 107 S.Ct.
+2829, 97 LEd.222d6 (1987).
+14 See MoCarren-Ferguson Act, 15 U.S.C. § 1011, et seq.
+                                               34a
+
+subject to the strictures of the Commerce Clause. The Suprem-
+acy Clause, U.S. Const., Art. VI, cl. 2, and the Attorney Gen-
+eral's recognition of Scheiner, supra note 13, fully supports our
+conclusion.
+
+ IV. The questioned statutes are plainly discriminatory.
+
+      The Commerce Clause is the origin of Congressional
+authority "To regulate Commerce ... among the several States,
+
+and with the Indian Tribes.!5 More important for the purposes
+
+of this appeal, the Clause also implicitly limits the State's power
+to discriminate against interstate commerce.'!© The fundamen-
+tal "purpose of the Commerce Clause was to create an area of
+free trade among the several States." !' The essential tenet of
+the Commerce Clause is that no State may practice economic
+protectionism by imposing "a tax which discriminates against
+interstate commerce .. . by providing a direct commerical
+advantage to local business." !8 In its continuous task of defin-
+ing the limits of the Commerce Clause on State power, the
+Supreme Court has observed: !9
+
+    - ge Const., Art. 1, § 8, cl. 3.
+
+    16 HP. Hood & Sons, Inc. v. Dumond 336 U.S. 525, 532-533, 69 S.Ct.
+657, 662, 93 L.Ed. 865 (1949); Hughes v. Oklahoma 441 U.S. 322, 326, 99
+S.Ct. 1727, 1731, 60 L-Ed.2d 250 (1979). "[E]ven in the absence of a
+congressional exercise of this power, the Commerce Clause `prevents the
+States from erecting barriers to the free flow of interstate commerce.'"
+AmericanTrucking Ass'n, Inc. v. Larson, 683 F.2d 787, 790 (3d Cir.) [quoting
+Raymond MotorTransportation, Inc. v. Rice, 434 U.S. 429, 440, 98 S.Ct. 787,
+793, 54 L.Ed.2d 664 (1978)], cert. denied, 459 U.S. 1036, 103 S.Ct. 448, 74
+L.Ed.2d 603 (1982).
+
+    17 McLeod v. J.E. Dilworth Co., 322 U.S. 327, 330, 64 S.Ct. 1023, 1026,
+88 L.Ed. 1304 (1944).
+
+    18 Northwestern States Portland Cement Co. v. State of Minnesota, 358
+U.S. 450, 458, 79 S.Ct. 357, 362, 3 LEd.2d 421 (1959); Bacchus Imports,
+Lid v. Dias, 468 U.S. 263, 268, 104 S.Ct. 3049, 3052, 82 L_Ed.2d 200 (1984).
+
+    19 See Boston Stock Exchange v. State Tax Comm'n, 429 U.S. 318, 329,
+97 S.Ct. 599, 607, 50 L.Ed.2d 514 (1977), quoting Dean Milk Co. v. Madison,
+340 US. 349, 71 S.Ct. 295, 95 L.Ed. 329 (1951).
+                                   35a
+
+    T erstate comm h e e rce proh f i o b l i l t o i w o s n i a n g e a x i o n r s a t bl d y is f cr r i o m m in t a h t e or b y a- treatment of
+    int            of the Clause. Permitting the individual
+
+    sic purpose States to enact laws that favor local enterprises at the "would invite a
+    e n xpe of ns p e ref o e f ren o t u i t a - l of- t s r t a a d t e e ar b e u a s s in d e e s s s t e r s uctive"
+    of the free tr m a u d l e ti w p h l i i c c h ati t o he Clause protects.
+         e district court aptly noted, the Supreme Court of the
+    As th          et forth a four-prong test for determining the
+
+United States has s validity of state statutes affecting interstate commerce: 4 state (1) the activity being
+                                                    if
+tax will pass constitutional muster only d has a Substantial nexus with the taxing state, (2) is fairly
+    e
+tax apportioned, (3) does not discriminate against interstate com- rvices provided by the state.2°
+                                      to se
+Although th m e er d c i e s , tri a ct nd co ( u 4 r ) t is r f e a s i t r a l t y ed rel t a h t e ed pr tu e t c e e s di u n n g de f r our-part test
+    its opinion, it did not scrutinize the challenged sta
+in                 the test. It is apparent that the district court erred
+al r l uc f k o e u r r s' par c t o s ns o t f itutional attack.
+in denying T as asserted by Truckers, Oklahoma's retali-
+    Obviously,                       the third and fourth prongs. Both
+atory statutes do not pass
+statutes impose excessive fees and tax                 es on out-ofstate regis-
+                                                                                 ahoma regis-
+tered motor carriers that are not imposed on Okl ers. "{ A] state tax that favors in-state business
+
+                  arri
+over out-of- t s e ta r t e e d m b o u t s o in r es C s for no other Cla r u e s a e s . o " n 7 t ! han the location
+of its business is prohibited by the Commerce the mirror taxes and fees are
+fairly related Ap t p o el th l e ee s s e ' rvi c c o e n s ten p t r i o o v n ide t d hat by the state, that is, the
+                                               Brady,  430         U.S.          274,  279,                                                             97 S.Ct.
+    20   Complete  Auto  Transit,    Inc.  v.                                          sia                                                              na, 451
+                             26 (1977). See also, Maryland v. Loui
+    1076, 1079, 51 L-Bd.2d 3
+    US., at 754, 101 S.Ct. at 2133.
+    21 scheiner, way, 483 14 U 6 .S V . t , . a 5 t 74 2 , 86, 508 107 A.2 S. d Ct 4 , 05 at ( 2 19 8 8 4 6 1 ) . , S c e e e rt. also, Amencan
+    denied 48 T 3 ru U c . k S i . ng 102 As 0 s , 'n 1 s 0 , 7 In S c . . Ct v. 3 C 2 o 6 n 2, 97of America, Inc., L_E 5 d 3 . 1 2d So 7 . 6 2 1 d ( 3 19 6 8 7 7); Department
+    of Revenue v. Private Truck Council
+    (Fla.App. 1 Dist.1988).
+                                                 36a
+
+ cost of construction and maintenance of Oklahoma's highway
+  system, is unavailing. All motor carriers, having paid one state's
+ registration fee, are free to travel all the roads in that jurisdiction,
+ and are entitled to freely operate in the interstate market by
+
+ making commerical entrances into all the States.22 Appellees'
+
+ argument must fail because they confuse a tax on the privilege
+ of using this State's highways with a tax on the privilege of
+ engaging in interstate commerce. "{T]he Commerce Clause
+ prohibits a State from imposing a heavier tax burden on out-of-
+ State businesses that compete in an interstate market than it
+ imposes on its own residents who also engage in commerce
+
+ among States."?3 In considering the state's entire scheme of
+
+ taxation, we note that Oklahoma does not impose any comple-
+ mentary or offsetting taxes on comparable intrastate motor
+
+ carriers engaged in interstate commerce.24 Neither the Tax
+
+ Commission nor Intervenors have shown that such a compen-
+ Satory tax exists in Oklahoma. Finding no equality of treatment
+ between local in-state and out-of-state interstate commerce car-
+ riers, we must conclude that the ultimate effect of the statutes
+ are not Compensatory in nature, because they favor intrastate
+ business interest.2> Next, we reject the Tax Commission's ad-
+ verse dollars and cents "cost-impact" argument. In the present
+
+   22 Scheiner, 483 U.S., at 283, 107 S.Ct, at 2840. See also, Private Truck
+
+Council of America, 517 A2d. at 1154.
+
+   *5 Scheiner, 483 U.S., at 282, 107 S.Ct, at 2839. Oklahoma's mirror
+
+taxes are indistinguishable from Pennsylvania'sunapportioned flat tax. Con-
+sequently, the challenged taxes also fail to pass the "internal consistency test"
+
+imposed inScheine4r83 U.S., at284, 107 S.Ct., at2840: "To pass the internal
+
+consistency test, a state tax must be of the kind that, `if applied by every
+
+jurisdiction there would be no impermissible interference with free trade.'
+
+(Citation omitted.) If each State imposed flat taxes for theprivilege of making
+commercial entrances into its territory, there is no conceivable doubt that
+commerce among the States would be deterred."
+
+  *4 See Marylandv.Louisiana, 451 US., at75658, 101 S.Ct, at2134-135.
+   25 Id, at 758-59, 101 S.Ct. at 2135.
+                                              37a
+
+case, no record establishing the economic burden of the chal-
+lenged taxes on out-of-state carriers is required. The Supreme
+Court of New Hamshire, invalidating a similar New Hampshire
+
+tax, 2° observed that:
+
+      A factual record delineating the greater burden on
+      out-of-state vehicles is necessary only if the statute
+      does not discriminate on its face.... Knowledge of the
+      amount of discrimination imposed by a statute is not
+
+      necessary to decide that it discriminates. `We need not
+
+      know how unequal the the tax is before concluding
+      that it unconstitutionally discriminates.' [emphasis
+
+       ours].
+
+       We also find that the legislative purpose in enacting the
+challenged statutes and the district court's conclusion that such
+defensive measures are justified by their purpose runs afoul of
+the "very purpose of the Commerce Clause [in] creat{ing] an
+
+area of free trade among the several States." 2" Appellees'
+
+contention that the Legislature enabled the state's taxing scheme
+to cancel the discriminatory effect that other state taxes impose
+ on Oklahoma based carriers is unpersuasive. Discrimination
+
+cannot be corrected by retaliatory discrimination."* Retaliatory
+
+ legislation, designed to motivate a sister State to cease its alleged
+ unconstitutional tax burden on interstate commerce, has no
+ legitimate State purpose and is a wholly unacceptable legislative
+ remedy.29 The appropriate remedy for another state's unconsti-
+
+    26 private Truck Council of America v. State, 128 N.H. 466, 517 A.2d
+
+ 1150, 1153-154 (1986), quoting Maryland v. Louisiana, 451 U.S., at 760, 101
+
+ S.Ct, at2136. See also, Armco, Inc. v. Hardesty, 467 U.S. 638, 644, 104 S.Ct.
+ 2620, 2623, 81 L_Ed.2d 540, reh'g denied 469 U.S. 912, 105 S.Ct. 285, 83
+ L.Ed.2d 222 (1984).
+
+    27 McLeod supra, n. 17.
+
+   28 See Travis v. Yale & Towne Mfg. Co., 252 U.S. 60, 40 S.Ct. 228, 64
+ L.Ed. 460 (1920).
+
+    29 Great Atlantic Pacific Tea Co. v. Cottrell, 424 U.S. 366, 96 S.Ct. 923,
+
+ 47 LEd.2d 55 (1976); New Energy Co. v. Limbach, 486 U.S. 269, 108 S.Ct.
+  1803, 100 L.Ed.2d 302 (1988); Private Truck Council, 534 A.2d, at 17.
+                          38a
+
+       tutional burden on interstate commerce in an action under the
+      Commerce Clause itself.3?
+
+             Truckers' challenge to the constitutionality of 47 O.S. §
+      -1120(K) and 68 0.S. § 607.1 under the Commerce Clause must
+      be upheld, and in that respect, we reverse the district court. We
+      hold that both statutes violate the fundamental requirement of
+      nondiscrimination against interstate commerce. There is no
+      equality of treatment, because Oklahoma does not impose any
+      compensatory tax on domestic carriers engaged in intrastate or
+      interstate commerce. In light of our disposition of Truckers'
+      discrimination claim, we find it unnecessary to fully address
+      their constitutional challenge under the Privileges and Immuni-
+      ties Clause.>!
+
+      V. Truckers are entitled to a partial refund.
+
+            We now turn to the principal thrust of Truckers' appeal of
+      the district court's opinion denying Truckers' request for re-
+
+      5° A & PTea Co., 424 US.. at 379-80. 96 S.Ct., at 931-32. "A state may
+
+      not violate the Commerce Clause in an attempt through self-help to coerce
+
+      another state into desisting from a commerce Clause violation." Private
+
+   `  Truck Council 503 A.2d, at 218. See also Private Truck Council of America
+
+      517 A.2d. at 1154.
+
+      >! In this class action, Truckers stand in the shoes of all non-Oklahoma
+
+      businesses operating in interstate commerce as private motor carriers. How-
+
+      ever, in its corporate capacity, Truckers are not natural persons nor "citizens
+
+      of each state ... entitled to all Privileges and Immunities of Citizens of the
+
+      several States." U.S. Const. art IV, § 2, cl. 1. corporations are not entitled
+
+      under anicle 4. § 2, Const. U.S., to all privileges and immunities of citizens
+
+      in the several states. " Nelson v. Deming Inv. Co., 21 Okl. 610, 614, 96 P. 742,
+
+      743 (1908), citing Lafayette Ins. Co. v. French, 59 U.S. (18 How.) 404, 15
+
+      LEd. 451(1856), and Paul v. Virginia, 75 U.S. 8 Wall.)168, 181, 19 L.Ed. 357
+
+      (1869). See also Western & Southern Life Ins. Co., 451 U.S., at656, 101 S.Ct.,
+
+      at 2076-77. Consequently, we hold Truckers are not entitled to protection
+
+      under the Privileges and Immunities Clause. While quite novel and innova-
+
+|     tive, we also reject Truckers' argument to create, here on appeal, a sub-class
+
+      consisting only ofthe Griffises, so this court may address the Privileges and
+
+      Immunities Clause claim of all other non-corporate members of this class
+
+      action. Only a district court may certify a sub-class action. See 12 O.S.1985
+                                     39a
+
+fstatutes. Truckers un a d ss s ert of th a a l t l t t a h x e e y s ar p e re e v n i t o i u t s le l d y to pa a id re p f u u r n s d ua o n f t al t l o the challenged
+                      and fees pursuant to 42 U.S.C. § 1983. Nearly
+
+retaliatory taxes $12,000,000.00 was collected under the statutes from April,
+                                                affirm the district court's
+
+19 f 8 ed 3 era t l hro c u l g a h im Oc f t or obe r r e , fund 1 s 987. und W e e r § 1983.
+denial of Truckers' Oklahoma has an adequate State remedy affording the requested
+
+relief.                                    requested relief is
+
+contrary to Oklahom T a he l C aw o . mmi T s he sio C n omm ar i g s u s e i s on that co T n r t u e c n k d e s rs' that
+           requires Truckers to pay the taxes under protest,
+Oklahoma law and then file suit to recover the taxes so paid under this alleged mmission seems to argue that
+                                     Co
+a class action fo m r is r i e n f t u e n r d p s ret m a a t y ion not of b j e a b w r 3 ou 2 g T h h t e in Oklahoma, for
+it asserts that Truckers' monetary relief, if any, is limited to a paid in 1984, and then only to the named motor
+refund of taxes carriers. The Commission desires this court to limit recovery to Griffis in the amount of
+                                           E.
+
+             Transportation and Roy
+Circle W.           the Commission argues that the only other
+$1,265.00. Finally
+relief available to Truckers' c      lass is a declaratory judgment as
+
+to the constitutionality of the statutes.
+         In our view, the Commission's argument totally miscon- atutory provision authorizing an action for
+declaratory and ce i i n v j e u s nct t i h v e e spe r c e i li f e i f c , st including abatement of the es, and a refund. 68 O.S.1981, § 226. This special
+challenged tax tax refund statute, § 226(a), reads in part: "In addition to the created to afford
+                                                is hereby
+r p i a g y h e t r to ag a g p r r i o e t v es e t d . b . y ., t 4 he ri p g r h o t vi o s f i a o c n t s io o n f this article
+a remedy to a tax or of any other state tax law." This all-in-one legal remedy is
+
+supp. § 2  023(C)(4) [When appropriate: (a) an action may be brought or
+                    saction withrespect toparticular issues, or(b)a class
+sir ained asa clas may be divided into subclasses and each subclass treated as a class]. See also
+                                                                   (Ok1.1984).
+Shores v. First City Bank Corp., 689 P.2d 299, 301 x Comm'n, 620 P.2d 896 (Ok1.1980).
+         32 gun Oil Co. v. Okla. Ta
+Re ee See en NET a CN eR oN
+
+                                                                        40a
+
+                     further limited to cases "where the taxes complained of are 1)
+                       an unlawful burden on interstate commerce, 2) violative of Acts
+                     of Congress or the United States Constitution, or 3) in cases
+                     where jurisdiction is vested in any of the courts of the United
+                    States."33 Truckers satisfied the first statutorily delineated cri-
+                     terion. Furthermore, Truckers gave proper notice on December
+                     14, 1984, as required by § 226(b), and "service of process upon
+                     the Chairman of the Tax Commission" was properly made as
+                     mandated by § 226(c). The legal avenues for bringing an action
+                       under § 226(c) are not expressly limited, there is no requirement
+                     that a taxpayer seek and exhaust administrative remedies. How-
+                     ever, there is a requirement that a taxpayer must pay the taxes
+                     under protest or at the time of payment give notice of an intent
+                     to file a lawsuit.>4 Truckers complied with the proscribed statu-
+                     tory method mandated by the legislature.
+
+                           The Commission's argument also implicitly challenges the
+                       standing of Private Truck Council of America (PTCA), because
+                     PTCA is not itself an aggrieved taxpayer, and has suffered no
+                     concrete injury resulting from the challenged statutes. This
+                     contention is without merit. As we noted at the outset, PTCA is
+                     a voluntary business association, with 1,800 companies as mem-
+                     bers. Seen. 1 supra. PTCA's associational standing to prosecute
+                     this action as the representative of its constituents is clear under
+
+                      33 Cimarron Industries, Inc. v. Okla. Tax Comm'n, 621 P.2d 539. 542
+                   (Ok1.1980).
+
+                     34 Section 226 (d) provides:
+
+                                 Upon request of any taxpayer and upon proper showing that the prin-
+                                cipolfelaw involvedin the assessment of any tax is already pending
+                                before the couns for judicial determination, the taxpayer, upon agree-
+                                ment to abide by the decision of the court, may pay the tax so assessed
+                                 under protest, but nced not file a suit.
+
+                              However § 226(d) is inapplicable to the instant cause inasmuch as itis
+                                a certiclfassiaectdion. Neither appellee nor intervenors have argued
+                              "chat the trial court abused its discretion in certifying this class action."
+                             Shores v. First City Bank, 689 P.2d. at 301.
+                                                   4la
+
+prior decisions of the United States Supreme Court.2> The
+Supreme Court of the United States "has recognized that an
+association may have standing to assert the claims of its mem-
+bers even where it has suffered no injury from the challenged
+
+activity." 3 In determining whether an association has standing,
+
+the United States Supreme Court has:
+       recognized that an association has standing to bring
+
+       suit on behalf of its members when: (a) its members
+
+       would otherwise have standing to sue in their own
+       right; (b) the interests it seeks to protect are germane
+       to the organization's purpose; and (c) neither the
+       claim asserted nor the relief requested requires the
+
+       participation of individual members in the Lawsuit 37
+       With respect to Truckers' claim for declaratory and injunc-
+ tive relief, we have no doubt that PTCA satisfies the above
+ criteria. In its petition, PTCA alleged that many of its members
+ are subject to the challenged taxes since its members have
+ vehicles registered in states against which Oklahoma retaliates; would have standing in their own right
+ to assert a justiciable c t a h s u e s . , P T T he CA' i s nter m e e st m s ber t s hat PTCA seeks to
+
+ protect are definitely germane to the 51 year old association's Finally, PTCA's Commerce Clause claim, request for
+ declaratory and injunc p t u i r v p e ose. relief, and refunds does not require
+
+  individualized proof of such claim, inasmuch as such financial
+
+     35 NAACP vy. Alabama, 357 U.S. 449, 78 S.Ct. 1163, 2 LEd.2d 1488 tor Freight Assn v. United States, 372 U.S. 246, 83 S.Ct.
+
+  (1958); National Mo 688, 9 LEd.2d 709 (1963); Sierra Club v. Morton, 405 U.S. 727, 92 S.Ct.
+  1361, 31 LEd.2d 636 (1972); Hunt v. Washington State Apple Advertising S. 333, 97 S.Ct. 2434. 53 L.Ed.2d 383 (1977). see, .g., 0. 44
+  Comm'n, 432 U. infra. This courthas alsorecognized thestanding of anassociation toseek
+
+   relief on behalfof it members: Democratic Party of Oklahoma v. Estep, 652
+
+   P.2d 271 (Ok1.1982); Oklahoma Ass'n of Municipal Attorneys v. State, 577
+   P.2d 1310 (Okl. 1978).
+
+     36 tynt 432 U:S., at 342, 97 S.Ct, at 2441.
+     37 punt, 432 U.S., at 343, 97 S.Ct, at 2441
+                                           42a
+
+information is readily available from the records of the Com-
+mission.
+
+      Consequently, we must determine the question as to
+whether our ruling is to operate (1) retroactively from the time
+the taxes were first collected in 1983, (2) quasi-prospectively
+from the date of the Scheiner decision, or (3) prospectively. In
+Griggs v. State el rel. Okla. Dept. of Trans.,*8 we observed that:
+
+      Retroactive operation of an overruling decision is
+       neither required nor prohibited by the United States
+      Constitution. Judicial policy determines whether, and
+       to what extent, a new rule will operate retroactively.
+       In Chevron Oil Co v. Huson, [404 U.S. 97, 92 S.Ct.
+      349, 30 L.Ed.2d 296 (1971)], the United States Su-
+       preme Court isolated three factors for ascertaining
+- when retroactivity of anew pronouncement should be
+       restricted: (1) at the threshold, the decision must
+      establish a new principle of law, either by overruling
+      clear past precedent on which litigants may have
+       relied, or on an issue of first impression whose deci-
+       sion is not clearly foreshadowed; (2) the court must
+      weigh the merits and demerits of applying the rule
+       retroactively by considering the rule's prior history,
+       its purpose and effect, and whether retroactivity will
+    _ further or retard its operation; and (3) the court must
+      consider the inequity flowing from retroactive appli-
+      cation, including unfairness and hardship to the par-
+       ties.
+
+       The Attorney General argues that if the tax statutes are
+declared unconstitutional, this court should make its decision
+prospective only and award no refunds. In analyzing Trucker's
+claim for retroactive application, the Attorney General relies
+heavily upon First McAlester Corporation v. Okla. Tax
+
+   38 702 P.2d 1017, 1020 (Ok1.1985).
+                                              43a
+
+Comm'n,39 and applies the three-prong test enunciated in Chev-
+
+ron Oil Co to the instant case. The Attorney General concludes
+that a prospective remedy would be sufficient relief, because
+Truckers are freed from paying the taxes, and a retroactive
+judgment would be fiscally disruptive to the State of Oklahoma.
+
+Because tax statutes are strictly construed against the state,4° the
+
+Attorney General has not met the state's burden of presenting
+the required equitable predicate for this court to adopt a rule of
+
+pure prospectivity in this exceptional case.4!
+
+       We are not at all persuaded by the Attorney General's
+argument, for it is bottomed on the ill-fated premise concerning
+ the binding effect of the United States Supreme Court's sum-
+ mary dismissal of B & L, which we rejected in Part III supra. B
+ & L was not adopted by the Supreme Court, nor did it establish
+ a new binding principle of law so as to constitute a clear change
+ in Commerce Clause jurisprudence as established by previous
+ Supreme Court decisions. Even if this court substituted a more
+ plausible alternative for B & L, i.e, the Scheiner opinion, in our
+ view, that decision does not represent a clear break with past
+ Commerce Clause precedent.
+
+        Although it is true that the Supreme Court did not overrule
+
+  any clear past precedent in Scheiner, we observe that such a non-sequitur under the approach articulated in
+
+ Chevron. re I q t ui is re o m u e r nt bel i i s ef that the Supreme Court in Scheiner
+
+  did decide an issue offirst impression by declaring the revenue methodology employed by Pennsylvania's un-
+  apportioned fla i t mp t l ax eme u n nc t o a n t s i t o i n tutional. But, we must also recog--
+  nize that the Supreme Court implicitly concluded that its
+
+     39 709 P.2d 1026 (Ok1.1985).
+     40 Oklahoma Tax Comma v. McAfec, 461 P.2d 602, 605 (OK1.1969).
+     41 Cash v. Califano, 621 F.2d 626, ¢29 (4th Cir. 1980).
+     42 See Gosa v. Mayden, 413 U.S. 665, 673, 93 S.Ct. 2926, 2932, 37
+  L.Ed.2d 873 (1973).
+                                               44a
+
+resolution of Scheiner was foreshadowed by a long line of
+precedent invalidating unapportioned flat taxes.43 We also ob-
+serve that previous state court decisions may have foreshadowed
+the Scheiner pronouncementt." Thus, the state of Oklahoma
+can not argue that it was surprised by the results reached in
+
+Scheiner. Nevertheless, for the purposes of this case, we hold
+
+that Scheiner did establish a new constitutional principle.
+
+       The Supreme Court's pronouncement was `new' in the
+sense that it decisively impeded a tax revenue practice accepted
+and relied upon by a number of states. Although Scheiner did
+not expressly overrule Oklahoma's retaliatory tax statutes, we
+cannot ignore the fact that the Supreme Court denounced the
+purpose and effect of the statutes in question.45 Given the
+explicitness of the Scheiner pronouncement, we find it difficult
+to conceive and justify any continued good faith reliance upon
+the constitutionality of the laws after the Scheiner opinion.
+Notwithstanding the state's limited reliance interest under the
+threshold Chevron factor, we believe that Scheiner's newly
+established constitutional principle can not, without resulting in
+manifest injustice and inequity, be applied under a pure prospec-
+tive approach.
+
+   43 Scheiner, 483 U.S., at 280-87, 107 S.Ct., 2838-842.
+
+   44 Private Truck Council v. Secretary of State, 503 A.2d 214 (Me.1986),
+
+cert. denied 476 U.S. 1129, 106 S.Ct. 1997, 90 L_Ed.2d 677 (1986); American
+Trucking Assn, Inc. v. Conway, 146 Vt. 574, 508 A.2d 405 (1986), cert. denied
+483 U.S. 1020, 107 S.Ct. 3262, 97 LEd.2d 761 (1987); Private Truck Council
+v. State, 128 N.H. 466, 517 A.2d 1150 (1986). See also Commonwealth of
+Kentucky, Transportation Cabinet v. American Trucking Ass'ns, Inc., 746
+S.W.2d 65 (Ky.1988); American Trucking Ass'ns, Inc. v. Goldstein, 312 Md.
+583, 541 A.2d 955 (1988); Black Beauty Trucking, Inc. v. Indiana Dept. of
+State Revenue, 527 N.E.2d 1163 (Ind.Tax 1988); Owner Operators Inde-
+pendent Drivers Ass'n of America v. State, 209 Conn. 679, 553 A.2d 1104
+(1989); American Trucking Ass'ns, Inc. v. Conway, 566 A.2d 1335 (Vt. 1989).
+
+   45 "Such taxes can obviously divide and disrupt the market forinterstate
+
+transportation services. In practical effect, . . ., the taxes are plainly discrimi-
+
+natory." Scheiner, 483 U.S., at 285-86, 107 S.Ct., at 2841.
+                         45a
+
+The next factor of the Chevron standard is whether retro- rther or retard the purpose of the Com-
+merce Clause. The a c c e t n i t v r e al op " e p r u a r t p i o on se wi o l f l t f h u e Commerce Clause e an area of free trade among the several States." 4°
+As a practical matter, wa r s et t r o oa c c r t e i a v t e application would not neces-
+sarily advance the further development of Commerce Clause ause interstate commerce must pay its fair
+share of tax burden j s uri f s o p r ru t d h e e nc g e o , ver b n e m c ental services it enjoys.*'
+Furthermore, the Oklahoma Legislature has significant interest interstate commerce its fair share of the cost of
+in exacting fro state governmenmt." 48 However, unlike the situation presented
+in First McAlester, the Commission has not informed this court ting the taxes after the Scheiner opinion.
+Truckers have paid tha a t nd it ar c e ea p s a e y d ing col m l o e r c e than their proportionate
+share of the tax burden imposed on those non-residents engaged erce. Furthermore, in light of the Scheiner
+decision, no appellee in h i a n s te c rs o t n a c t e e de c d om t m hat the disputed statutes are nor has the Oklahoma legislature repealed the
+state tax law. We unco wi n l s l tit n u o t t ion r a e l t , ard the implementation of the Under these circumstances, the purpose Cri-
+teria tip towards re S t c r h o e a i c n ti e v r e d a e p c p i l s i io c n a . tion of Scheiner.
+Considering the inequities presented, if this court afforded pplication, and ordered refunds with in-
+terest as provided com b p y le § te 226 r ( e b t ) r , oac o t b i v v i e ous a ly, we would impose a nancial hardship upon the State in exercising its
+significant fi           This we decline. On the other hand, the
+governmental functions.
+                t this court can not, consistent with constitu-
+fact remains tha tional limitations, retard the very purpose, of the Commerce
+Clause by permitting the State to violate theCommerce Clause
+
+   46 McLeod, supra, n. 17
+
+  47 Maryland v. Lousiana, supra, 0.5
+
+   - Department of Revenue of the State of Washington v. Ass'n of Wash- 734, 748, 98 S.Ct. 1388, 55 L.Ed.2d 682
+                        o., 435 USS.
+
+ington Stevedoring C
+(1978).
+A
+
+                                                                        46a
+
+                     and reap the financial benefits under a discriminatory tax law.
+                     To allow this application of nonretroactivity would deter any
+                     taxpayer's incentive to challenge the tax laws, and in the instant
+                     case, deny Truckers the benefit of the ruling in Scheiner. Fur-
+                     thermore, this state's statutory refund provision would have no
+                     effect other than providing an illusory and empty victory. We
+                     can not allow the Commission to retain all funds collected after
+                     Scheiner. In light of the presumption of prospective application
+                     of state court decisions invalidating tax statutes,499 and after a
+                     careful balance of the three Chevron factors, coupled with a
+                     showing of inequity on both parties in this exceptional case, we
+                   hold that Truckers are entitled to a partial refund pursuant to §
+                     226. Truckers claim for refunds before June 23, 1987, the
+                     effective date of the Scheiner opinion, are denied.
+
+                            Truckers also contend that they are entitled to attorneys
+                     fees as provided under 12 0.S.1981 § 18(C) and 42 U.S.C. §
+                    1988, including the costs of this action. Subsequent to Truckers'
+                     present action, the Oklahoma Legislature repealed § 18(C), with
+                     the adoption of this State's Pleading Code, 12 0.S.Supp.1984, §
+                     2001 et seq. Truckers can not recover attorneys fees under a
+                     Statute not applicable at the time they instituted this action,
+                     because they had no rights accrued thereunder.' Nor may
+                     Truckers recover attorneys fees under § 1988 for the adjudicated
+                     Commerce Clause violation.>!
+
+                            The judgment of the district court is REVERSED. On their
+                     face both §§ 1120(K) and 607.1 violate the fundamental require-
+
+                          49 National Can Corp. v. State of Washington Dept. of Revenue, 109
+                       Wash.2d 878, 749 P.2d 1286, 1292-93 (1988).
+
+                      5° Okla. const., Art. 5, § 54See also Gayman v.Mull58eOknla.,477,
+                   161 P. 1051 (1916).
+
+                     °! Consolidated Freightways Corp. ofDelaware v. Kassel, 730 F.2d 1139
+                  (8th Cir.1984); Private Truck Council ofAmerica, Inc, 503 A.2d 214; Private
+
+                       Truck Council ofAmerica, Inc. v. State ofNew Hampshire, 128 N.H. 466. sI"
+
+                  A.2d 1150 (1986); State v. Private Truck Council ofAmerica, Inc., 258 Ga
+                  531, 371 S.E.2d 378 (1988).
+                                                   47a
+
+ment for non-discrimination against interstate commerce. Pur-
+suant to § 226(b) the Oklahoma Tax Commission shall deter- fund is due for tax periods or portions
+
+of tax pe m r i i n od e s wh oc a c t ur a r m i o ng unt aft o e f r r J e une 23, 1987.52 In the case of
+
+those taxes and fees reported and paid on the quarterly basis, for
+quarterly periods commencing July 1, 1987, and thereafter,
+together with interest. The refund shall be paid in the manner
+and from the accounts as provided by 68 0.S.Supp.1989, §
+225(d). Fhis cause is REMANDED to the District Court for a interest as provided by statute, calculated
+from the dates set forth fin i a n l t d h e is ter p m a i r n a a g t r i a o p n h, o e f ntry of judgment as
+ to that amount, including notification to all class members as
+ determined by the tax rolls of the Commission, and further
+ proceedings not inconsistent with the views expressed herein.
+
+        HARGRAVE, CJ., and SIMMS, KAUGER and SUM-
+ MERS. JJ.. concur.
+
+        OPALA, V.C.J., LAVENDER, J., concur in part, dissent
+ in part.
+
+  HODGES, J., dissents.
+
+      52 The United States Supreme Court inAmerica Trucking Assn's v. Smith, Ct. 2323, 110 L.Ed. 2d 148 (1990), found that the critical
+   __US.__, 110S. event for prospectivity is not the payment of the money but the occurrence of equitable to
+
+                                     . It further found that it was more
+
+   refund the taxes the pai u d nde fo r r lyi th n e g 198 t 7 ra - n 8 s 8 acti t o a n x year because if states collect prior e taxes then the parties would not be allowed a refund.
+   to 1987 for thos
+                             48a
+
+                   APPENDIX C
+
+    IN THE DISTRICT COURT OF THE
+SEVENTH JUDICIAL DISTRICT OF THE
+
+           STATE OF OKLAHOMA
+
+PRIVATE TRUCK COUNCIL OF AMERICA, et al.,
+                                                                Plaintiffs
+
+                                  VS.  Defendants
+
+   STATE OF OKLAHOMA, et al.,           Intervenor
+
+ASSOCIATED MOTOR CARRIERS
+        OF OKLAHOMA, INC.,
+
+                      MEMORANDUM OPINION
+
+        The plaintiffs, Private Truck Council of America, Inc., a
+nonprofit New York corporation, Circle W. Transportation, a
+Delaware corporation, and Roy E. Griffis, an unincorporated
+motor Carrier registered in Arkansas, contend that Oklahoma
+Statutes 68 O.S.A. § 607.1 and 47 O.S.A. § 22.5 j (k) (now 47
+O.S.A. §1120 (K) ) are unconstitutional as to them and the
+members of the class they represent, and they ask for declaratory
+and injunctive relief, for a refund of all taxes collected under
+these statutes and for attorneys fees.
+
+      In Count I of the petition, plaintiffs contend that these taxes
+are in violation of the Commerce Clause (Article I, Section 8,
+Clause 3 of the United States Constitution); in Count II they
+assert that these taxes violated the Privileges and Immunities
+Clause (Article IV, Section 2).
+
+      In Count II of their petition, plaintiffs seek damages under
+42 U.S.C. §1983 for violation of their constitutional rights, and
+for attorneys' fees under 42 U.S.C. § 1988.
+                    49a
+
+       The statutes under attack impose taxes called "mirror" or are sometimes called "third structure"
+or "third tier" taxes. ret T a h l e iat e o f r f y ect tax o e f s th a e n s d e t s h t e a y tutes is to tax motor
+carriers which operate in Oklahoma but are base-registered in ame manner and to the same extent that
+Oklahoma based ca a r n r o i t e h r e s r ar S e tat t e axe in d t i h n e t s hat other State.
+
+       The plaintiffs have moved for summary judgment in their here is no issue of material fact in issue,
+and that they are enti f t a l v e o d r t o o n j t u h d e gm g e r n o t und as t a ha m t at t ter of law.
+
+       I have previously held that Count III should be dismissed plaintiffs are concemed, for the reason
+that the privileges in a s n o d fa i r mm a u s ni a t l i l e c s orp c o l r au a s t e e is not applicable to
+
+ corporations. Western & Southern Life Ins. Co. v. State Bd. of
+ Equalization of Calif., 451 US. 648, 101 S. Ct. 2070, 68 L. Ed
+
+2d 514 (1981).
+      Defendants have moved to dismiss Count III on the ground ause does not secure rights cognizable
+
+under 42 U.S.C. t § h 1 a 9 t 83 t . he Th c o o u m g m h erc th e ere cl is some authority argu-
+able to the contrary, the most persuasive authority on this point, e case of Consolidated Freightways Corp. of
+Del. v. Kassel, 730 F.2d i 1 n 13 m 9 y ( o 3 p r i d ni Ci o r n . i 1 s 98 t 4 h ). In that case it was although the appellant was successful in its
+squarely held that assertion that an Iowa statute was in violation of the Commerce
+
+                         t establish a deprivation of any right, privi-
+ Clause, this did no lege, or immunity secured by the United States Constitution
+
+                        g of 42 U.S.C. §1983. It follows that Count
+ within the meanin III should also be dismissed insofar as all corporate plaintiffs
+
+are concerned.                 ed are (1) whether or
+
+not  the taxes violate the T C h o u m s m , er t c he e q C u l e a s u t s i e o ; ns (2 l ) ef w t he to th b e e r d o e r ci n d ot
+                    the Privileges and Immunities Clause insofar
+such taxes violate             the Plaintiffs' class are concerned,
+as the individual members of
+and (3) If so, whether or not  the individual  plaintiffs are entitled
+
+to damages and attorney fees.
+                                              50a
+
+       A tax analogous, in some respects, to the Oklahoma tax
+under attack here was a tax enacted by California against non-
+resident insurance companies. The constitutionality of that tax
+was considered in Western, see supra.
+
+      That case clearly held that such taxes are not a violation of
+the Equal Protection Clause of the 14th Amendment. It is not
+authority on the question of the validity of the tax under the
+Commerce Clause for the reason that Congress has given the
+State the power to regulate the insurance business; nor is it
+authonty on the validity of the tax under the Privileges and
+Immunities Clause for the reason that the plaintiff in that case
+was acorporation, and that clause in inapplicable to corpora-
+tions, Western, supra at 655.
+
+      The facet of that case which would seem to be helpful here
+is the view of the purpose and effect of such taxes taken by the
+court. Justice Brennan, in writing the opinion of the Court,
+quoted the California Court of Appeals in saying:
+
+      "(T]he purpose of the retaliatory tax is to put pressure
+      oa the several states to impose the same tax burden on
+      all insurance companies, foreign or domestic, and
+      thereby encourage the doing of interstate business."
+
+and at sage 672:
+
+      "But whether in fact the provision will accomplish its
+      objectives is not the question: The Equal Protection
+      Cause is satisfied if we conclude that the California
+      lezislature rationally could have believed that the
+      realiatory tax would promote its objective."
+
+      The Court concluded that it could not say that the California
+legislaure's conclusion was irrational or even unreasonable.
+
+      The parameters of decision under the Commerce Clause
+are set `orth in Complete Auto Transitt, Inc. v. Brady, 430 U.S.
+274, 97S.Ct. 1076, 51 L.Ed. 326 (1977) . It was there held that
+the practical effect, not the forrnal language of the tax statute
+                                              S5la
+
+should be considered by the courts, and that the tax should be
+sustained if:
+1. It has a substantial nexus with the Taxing State;
+
+2. It is fairly apportioned;
+3. It does not discriminate against interstate commerce, and
+4. It is fairly related to the services provided by the State.
+
+       In that case the appellant, a Michigan corporation, hauled
+automobiles which came by rail to Jackson, Mississippi to other
+points within the State. These automobiles had been shipped into
+Mississippi from assembly plants outside the State. The tax was
+five percent of the gross income of the business within the State.
+This tax was upheld as meeting all four of the criteria.
+
+       In Maryland v. Louisiana, 451 U.S. 725, 101 S.Ct. 2114,
+ 68 L.Ed. 576 (1981), a so-called "first use" tax imposed by the
+ State of Louisiana on natural gas coming from the Outer Conti-
+ nental Shelf and passing through Louisiana to other States was
+ held to violate the Commerce Clause since residents of Louisi-
+ ana were largely immune from this tax. The Court said that this
+ tax provided direct commercial advantage to local business. The
+ Supreme Judicial Court of Maine has recently considered the
+ question of the validity of a law in that State which imposed a
+ reciprocal or retaliatory tax, and concluded that such a tax is a
+ constitutionally impermissible burden on interstate commerce. of America, Inc. et al. v. Secretary of
+  State, 503 A.2d 214 (19 P 8 r 6 i ) v . ate In t T h r a u t ck case C , oun t c he il Maine Court simply
+
+  held that the taxing statute was facially discriminatory because certain foreign registered trucks which it does
+  not levy against Main i e t - l r e e v g i i e s s ter a ed tax on trucks. The Maine Court
+
+  refused to accord any precedential value to a New Jersey case x. In that case the Supreme Court dismissed
+
+  the appeal for u w p a h n o t ldin o g f a f s e u de c r h al a t q a uestion. Three members of the would have noted probable jurisdiction and set
+  Supreme Court the case for oral argument B & L Motor Freight, Inc. v.
+                              52a
+
+Heymann, 293 A.2d711, aff'd without opin., 311 A.2d 184, cert.
+denied, 317 A.2d 707 (N.J. 1974), app'! dislm'd, 419 U.S. 1042
+(1974).
+
+The opinion of the New Jersey Court was in a lower court,
+
+which very clearly and explicitly discussed the commerce clause
+
+at length, and concluded that the New Jersey statute did not
+
+violate the commerce clause.          :
+
+The Maine Court consigned the action of the United States
+
+Supreme Court to a footnote, stating that such a summary
+
+disposition may mean only that the issues were not there refined
+
+with sufficient clarity, precision and certainty desirable before
+
+the Supreme Court undertakes review.                     :
+
+      What would seem more probable since the United States
+Supreme Court has in the past upheld these reciprocal taxes was
+that the matter was no longer open to question. The New Jersey
+Court said id. at 715:
+
+Reciprocal (not retaliatory) features of state laws im-
+posing taxes on motor vehicles came before the court
+in Bode v. Barrett, 344 U.S. 583, 73 S.Ct. 468, 97
+L.Ed. 567 (1953) and in Storaasli v. Minnesota, 283
+U.S. 57, 51 S.Ct. 354, 75 L.Ed. 839 (1931). In Bode
+the appellants were motor truck operators engaged in
+interstate as well as intrastate commerce. They at-
+tacked the constitutionality of an Illinois law impos-
+ing a tax for the use of that state's highways and
+measuring the tax exclusively by the gross weight of
+the vehicle. The law was held valid and among the
+arguments rejected by the court was this: That the
+Statute should be held unconstitutional because it
+required [Illinois residents to pay the tax and at the
+same time exempted non-residents if the states of their
+residence rciprocated by granting like exemptions to
+Illinois residents. Storassli was cited as controlling.
+                                              53a
+
+and further, id. at 716:
+
+      State legislation which has the effect of regulating
+      interstate commerce is sometimes valid, sometimes
+       invalid. If the regulation takes the form of a reciprocal
+
+       (retaliatory) Statute, the use of that form will not make
+
+       unconstitutional a state requirement which would oth-
+       erwise be valid for a foreign corporation engaged in
+
+      interstate commerce. This view of existing law is
+
+       supported by In re Insurance Tax Cases., 160 Kan.
+       300, 161 P.2d 726 (1945), aff'd wtihout opinion
+       Prudential Ins. Co. of America v. Hobbs, 328 US.
+        822, 66 S.Ct. 1360, 90 L.Ed. 1602 (1946). That deci-
+        sion followed the general rule and sustained insurance
+        laws having a retaliatory feature.
+         It would seem that the view taken by the New Jersey Court
+
+  is better reasoned and more in accord with the views of the
+
+  United States Supreme Court.
+        It is the actual effect on interstate commerce that we must of the statute. It seems to me that the
+
+  purpose of the recipro c c o a n l si l d a e w r s , is no t t o m t o h t e iva f t o e rm all states to abandon
+  excessive taxes on out-of-state truckers, and I am not willing to are either an undue burden on interstate
+  commerce or that s t a h y ey th v at iol s a u t c e h th l e aws privileges and immunities
+  clause.
+
+         It is therefore the order and judgment of this court that the
+   plaintiffs motion for summary judgment be overruled.
+         54a
+
+IN THE                   APPENDIX D    COUNTY
+
+        DISTRICT COURT OF OKLAHOMA
+                 STATE OF OKLAHOMA
+
+         NO. CJ- 84-9902
+
+PRIVATE  TRUCK COUNCIL OF AMERICA      INC., et al.,
+           STATE OF OKLAHOMA, et al.,      Plaintiffs,
+
+                                        Defendants.
+
+ORDER DENYING MOTION FOR PRELIMINARY
+   INJUNCTION AND ALTERNATIVE MOTION
+                 FOR ESCROW OF TAXES
+
+                            [Filed Apr. 1,1985]
+
+        This matter comes on for hearing in its regular order on
+the 29th day of January, 1985, upon plaintiffs' motions for a
+preliminary injunction prohibiting the defendants, during the
+pendency of this action, from assessing or collecting taxes and
+fees on motor carriers, pursuant to 68 O.S. Supp. 1982,. § 607.1
+and 47 O.S. Supp. 1982, § 22.5 (K); or, in the alternative, for a
+temporary order of this Court impounding all funds collected
+thereunder into an escrow account and prohibiting the defen-
+dants from disbursing the proceeds of any and all such taxes and
+fees collected pursuant to said statutes.
+
+      All parties appearing by counsel, and the Court, having
+heard the arguments of counsel, having read the pleadings,
+briefs, and memoranda of law filed in connection therewith,
+having examined the affidavits in support of said motions and
+the exhibits introduced, and being fully advised in the premises,
+the Court finds:
+
+1. That plaintiffs have an adequate remedy at law;
+                                              55a
+
+2. That plaintiffs have failed to show that the denial of either of se irreparable injury to plaintiffs; or that
+sufficient emergency suc e h xis m t o s ti t o o ns req w u i i l r l e c t a h u e granting of either of
+such motions.
+
+      IT IS THEREFORE ORDERED that plaintiffs' motion for
+preliminary injunction and alternative motion for escrow of
+taxes be, and hereby are DENIED.
+
+                                      /s/ William S. Myers, Jr.
+                                           Chief Judge
+         56a
+
+                            APPENDIX E  COUNTY
+
+IN THE DISTRICT COURT OF OKLAHOMA
+                     STATE OF OKLAHOMA
+
+         Case No. CJ-84-9902
+
+     PRIVATE TRUCK COUNCIL OF AMERICA, INC.,
+            CIRCLE W. TRANSPORTATION, INC.,
+
+        and ROY E. GRIFFIS, On Behalf of Themselves
+
+                  and all Others Similarly Situated,
+                                                                     Plaintiffs,
+
+         VS.
+
+         STATE OF OKLAHOMA,
+
+     OKLAHOMA TAX COMMISSION, ODIE A. NANCE,
+
+Individually as Chairman of the Oklahoma Tax Commission,
+
+ROBERT L. WADLEY, Individually and as Vice-Chairman
+
+     of the Oklahoma Tax Commission, J.L. MERRILL,
+
+Individually and as Secretary-Member of the Oklahoma Tax
+
+     Commission, and LEO WINTERS, Individually and as
+
+         State Treasurer of Oklahoma,
+
+     ee                                 Defendants.
+
+         TRANSCRIPT OF PROCEEDINGS
+
+      PROCEEDINGS had before the Honorable William S.
+Myers, Jr., Judge of the District Court of Oklahoma County,
+Oklahoma, on the 29th day of January, 1985.
+
+[2]      APPEARANCES
+
+ON BEHALF OF THE PLAINTIFFS:
+
+     Mr. William B. Rogers
+     Attorney at Law
+     6440 Avondale Drive
+     Oklahoma City, OK 73116
+Mr. Jacob Billig
+Attorney at Law
+
+2033 K Street, N.W.
+
+Suite 300
+
+Washington, D.C. 20006
+
+     Mr. Richard Allen
+     Attorney at Law
+      2033 K Street, N.W.
+
+      Suite 300
+      Washington, D.C. 20006
+ON BEHALF OF THE DEFENDANTS:
+
+Mr. Thomas Spencer
+Assistant Attorney General
+112 State Capitol Building
+Oklahoma City, OK 73102
+
+F. Andrew Fugitt
+Assistant Attorney General
+112 State Capitol Building
+Oklahoma City, OK 73102
+
+Mr. Stanley Johnston
+Oklahoma Tax Commission,
+
+Legal Division
+M.C. Connors Building
+Oklahoma City, OK 73105
+                              of January, 1985, with
+Mr. Rogers [3 , ] Mr. (T B h i e l r li e g up a o n n d ) M a r n . d A o l n len the ap 2 p 9 e t a h ri d n a g y as counsel for , Mr. Fugitt and Mr. Johnston
+the Plaintiffs and Mr. Spencer appearing as counsel for the Defendants, the following is the
+ruling of the Court:)
+                            for the Court's ruling? Ap-
+THE COURT: Are we ready
+
+parently so.
+                                               58a
+
+       I want to thank counsel for their briefs and for the fine
+manner in which they presented their argument to the Court.
+
+      I do think that Plaintiff's characterization of the tax as
+retaliatory is correct. I think that ultimately, these taxes, where
+a State imposes a burden on interstate commerce to get even for
+what has been done to its truckers, will be struck down and will
+cease to exist. I think ultimately, the Plaintiffs will probably
+prevail in this case. There are other questions, of course, that go
+to whether this Court should grant an Injunction, be it a Tempo-
+rary Injunction, and also whether the Court. should impound
+funds. One thing that I think is very important is the fact that
+this has been collected for nearly two years already and I'm
+looking to see the emergency nature of it. Iam most confident
+that there will be an appeal from either party who does not
+prevail when the matter is decided ultimately on the merits by
+the assigned judge and this should take place, I would think,
+within the next thirty to sixty days, considering the speed with
+which such matters are decided. I think that there is substantially
+an adequate remedy provided by law. I recognize it doesn't
+cover the cost of preparing the necessary paperwork which all
+businessmen are inundated with today. Considering the very
+small amount that is involved on any one individual in the next
+thirty to sixty days and weighing that, to some extent, against
+the myraid of problems that would be created by an impound-
+ment on a temporary basis prior to the resolution of this matter
+on its merits, I am going to decline to grant the Temporary
+Injunction or to impound funds. However, I will talk to the
+assigned judge and explain to him the fact that there should be
+a decision made on it promptly and see if he can't give you a
+quick hearing date on the merits. Thank you.
+
+                   ( END OF PROCEEDINGS.)
+                                              59a
+
+                                     APPENDIX F
+
+47 O.S. Supp. 1986 §1120 (K) provided in pertinent part:
+      In addition to those taxes or fees imposed by Sections
+      22.1 through 22.34 of this title, the same or substan-
+       tially the same type or category of tax or fee may be
+       imposed upon an out-of-state resident as is imposed
+       upon residents of Oklahoma for the same or substan-
+       tially similar use of a vehicle in such other state in the
+       amount, or approximate total amount, of any fee or
+       tax, including property, motor fuel, excise, sale, use
+       or mileage tax required by the laws of such other state
+       to be paid by a resident of this state making the same
+       or similar use of a like vehicle in such state.
+
+ 68 O.S. Supp. 1982 § 607.1 provided in pertinent part:
+        In addition to those taxes or fees imposed by Articles
+        5, 6, and 7 of this title, the same or substantially the
+        same type or category of tax or fee may be imposed
+        upon an out-of-state resident as is imposed upon oma for the same or substantially
+        similar use of a veh r i e c s l i e dent i s n o s f uch Okl o a t h her state in the
+         amount, or approximate total amount, of any fee or rty, motor fuel, excise sales, use
+         or mileage tax req t u a i x r , ed inc b l y ud t i h n e g la p w r s ope of such other state
+         making the same or similar use of a like vehicle in
+         such state.
+                            60a
+
+               APPENDIX G
+IN THE SUPREME COURT OF THE
+
+       STATE OF OKLAHOMA
+
+No. 68,401
+
+PRIVATE TRUCK COUNCIL OF AMERICA, INC.,
+        CIRCLE W TRANSPORTATION, INC.,
+
+    and ROY E. GRIFFIS, on behalf of themselves
+              and all others similarly situated,
+                                                              Appellants,
+
+V.
+
+OKLAHOMA TAX COMMISSION, ET AL.,
+                                                          Appellees,
+
+and
+
+ASSOCIATED MOTOR CARRIERS
+         OF OKLAHOMA, INC.,
+
+                                 Intervenor.
+
+                                   ORDER
+
+      The parties are directed to file simultaneous briefs on or
+before the 11th of March 1994, on the following issues:
+
+1. What is the effect of Dennis v. Higgins, 498 U.S. 439,
+      111 S.Ct. 865, 112 L.Ed.2d 969 (1991), on Appellants'
+      coextensive state law claims, including Appellants' night
+      to attorney's fees in this case?
+
+2. Is the Oklahoma Tax Commission liable for an attorney's
+
+       fee under 42 U.S.C. § 1988 in this matter?
+
+3. Because the Oklahoma Tax Commission is required by
+      law to enforce statutes, which may be ultimately found
+                                             6la
+
+      unconstitutional, should that fact defeat Appellants'
+      claim to attorney's fees in this case?
+4. Whateffect, if any, should we give to the trial court's de-
+      nial of attorney fees in this litigation?
+5. Isa§ 1988 attorney's fee mandatory or discretionary
+      under Dennis?
+       Consideration of Appellants' Motion to Remand is de-
+ferred until resolution of the foregoing issues.
+       DONE BY ORDER OF THE SUPREME COURT IN
+CONFERENCE THIS 24TH DAY OF FEBRUARY, 1994.
+
+                                      \s\ Ralph B. Hodges
+                                          CHIEF JUSTICE
+
+ ALL THE JUSTICES CONCUR.
+                                        62a
+
+                         APPENDIX H
+      NON-WHOLLY OWNED SUBSIDIARIES
+OF WESTINGHOUSE ELECTRIC CORPORATION
+
+ADEPT Technologies            Inova Microelectronics, Inc.
+
+AEG-Beteiligunagesellschaft Integrated Communication
+
+MBH                           Systems, Inc.
+
+AEG-Westinghouse              Alma Industries
+
+Transportation Systems, Inc. Corporate Interiors, Inc.
+
+Airship Industries, Ltd.      Beaux Arts Group of
+
+CEEC Investments              Florida, Inc. (The)
+
+Incorporated                  Corporate Environments of
+
+Challenger Electrical         Minnesota, Inc.               ;
+
+Equipment Corporation         Corporate Environments of
+
+CEEC Holdings Incorporated    Tennessee, Inc.
+
+Computer Aided Training       Stillman/Estes, Inc.
+
+Company, Incorporated         Gaviform
+
+Cypher Communications         Knoll International (SEA)
+
+Technology, Inc.              Lid.                          |
+
+Edge Emitter Technology, Inc. Knoll Hong Kong PTE Ltd.
+
+Eletromar Industria Eletrica  Knoll Malaysia Sdn. Bvd.
+
+Brasileira, S.A.              Lyn (PTE) Limited
+
+Eletromar Nordeste, S.A.      Topform Postforming (PTE)
+
+Email Westinghouse Pty.,      Ltd.
+
+Limited                       Shaw-Walker Company
+
+Enwesa Servicos, S.A.           (The)
+
+Eregli Demir ve Celik         Mecanica Pesada, S.A.
+
+Fabrikaloni, A.S.             Mex Control S.A. de C.V.
+
+Escorts, Ltd.                 Micros Systems Inc.
+
+Gamma Metrics                 Photocomm, Inc.
+
+Industria IEM, S.A. de C.V.   Powerex, Inc.
+
+Infrared Fiber Systems, Inc.  Project Funding Corporation
+
+Shaw-Walker Company, The Serratosa & Castells, S.A.
+
+Siam Toracato de Tella, Ltd. Contadores Electricos, C.A.
+
+Silectra S.A. de C.V.         (CONTELCA)
+
+Speech Plus                   Elektrik Technizati Imalti
+
+Texas PFC, Inc.               Tesisati, A.S.
+63a
+
+Theta J. Corporation           Horiba Westinghouse, Ltd.
+Turbine Metal Technologies,    Hyosung Heavy Industries,
+
+   Inc.                           Ltd.
+United Western Telchnologies   Industria Electrica de
+
+   Corp.                          Mexico, S.A.
+Vektron S.A.                   Industria IEM, S.A. de C.V.
+WB Bottling Corporation
+                               Industria et Technologie de
+W:S. Industries (India) Ltd.      la Machine Intelligentie
+
+Westinghouse-Airship              (ITM])
+   Industries, Inc.            ISCOSA Industries and
+
+Westinghouse de Argentina,        Maintenance, Ltd.
+   S.A.
+                               Mex Control, S.A. and C.V.
+Group W. Radio, Inc.
+Metron, Inc.                   Reftrans, S.A.
+Herbinger*EDI Services, Inc.   Silectra, S.A. de C.V.
+Westinghouse Electro
+                               Societe Generale de Travaux
+   Metalurgicas C.A. (WEMCA)
+                                  Electriques (SGTE)
+Westinghouse do Brasil S.A.
+   (WEBSA)                     ETIC BV Rotterdam
+
+Eletromar Industna Electrica   Westinghouse de Argentina,
+   Brasileira, S.A.               S.A.
+
+Westinghouse Electric          Westinghouse Asia Controls
+   Australia Holdings Limited
+                                  Corporation (WEASIA)
+Email Westinghouse Private,
+   Ltd.                        Westinghouse Electric
+                                  Australia Holdings
+Email Westinghouse                Limited (WEAHL)
+   Properties
+                               Cemac Westinghouse Pty.
+                                  Ltd.
+
+                               Westinghouse Electric
+                                  Supply Company of Saudi
+                                  Arabia (WESCOSA)
+
+                               Societe Generale de Travaux
+
+                                  Electriques (SGTE)
+
+                               Westinghouse Plasma
+                                 Systems International, N.V.
+
+                               Westinghouse Saudi Arabia
+                                  Ltd. (WSAL)
+
+                               Integrated Sensors, Inc.
+Jerry Thompson &
+   Associates, Inc.
+
+Westinghouse Industria
+   Electrica Brasileira S.A.
+
+Westinghouse Motor
+   Company
+
+WEXICO Systems and
+    Services, Ltd.
+

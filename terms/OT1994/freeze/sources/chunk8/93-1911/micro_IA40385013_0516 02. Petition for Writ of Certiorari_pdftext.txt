@@ -1,0 +1,2139 @@
+         ~ > - aw Gee                                            ee  a
+
+              FILED
+
+         `\ 981 911 MAY 26 1994
+
+Supreme               ; OFFICE UF iHE CLERK
+
+                       In The
+
+         Court of the United States
+
+                October Term, 1993
+
+                             .
+
+CINDA SANDIN, Unit Team Manager,
+       Halawa Correctional Facility,
+
+                                       Petitioner,
+         vs.
+
+       DEMONT R.D. CONNER, et al.,
+
+                                                   Respondents.
+
+                                      e
+
+     On Petition For Writ Of Certiorari
+
+To The United States Court Of Appeals
+
+                For The Ninth Circuit
+
+                                          o
+
+PETITION FOR WRIT OF CERTIORARI
+
+                                      ¢
+
+                            Ropert A. Marks
+
+                      Attorney General
+
+                          State of Hawaii
+
+                          STEVEN S. MICHAELS*
+                          Girarp D. Lau
+
+                      Deputy Attorneys General
+
+                          State of Hawaii
+
+                      *Counsel of Record
+
+                      Department of the
+                         Attorney General
+
+                       State of Hawaii
+                       425 Queen Street
+                        Honolulu, Hawaii 96813
+                       (808) 586-1360
+
+                      Counsel for Petitioner
+                      Cinda Sandin, Unit Team
+                      Manager, Halawa
+                      Correctional Facility
+
+         COCKLE LAW BRIEF PRINTING CO., (800) 225-6964                          }
+                  OR CALL COLLECT (402) 342-2831                        A y
+                                                                     )
+                                     QUESTIONS PRESENTED
+
+                   1. Whether a maximum security state prison inmate
+             who is not subject to a loss of good time credit, nor to any
+             necessary impact on parole, but who "may be" subjected
+             to disciplinary segregation for violation of prison rules,
+             has a "liberty interest" in avoiding disciplinary segrega-
+             tion solely because state prison disciplinary rules require
+             a disciplinary committee to find "substantial evidence" of
+             a rule infraction before deciding whether and to what
+             extent to order the inmate segregated?
+
+                   2. Whether, assuming, arguendo, state prison rules
+             create a "liberty interest" in avoiding disciplinary seg-
+             regation, an inmate who has confessed to facts which
+             establish misconduct is entitled, by reason of the Due
+             Process Clause of the Fourteenth Amendment, to call
+             witnesses at his prison disciplinary hearing?
+
+                   3. Whether in light of the uncertainty created by
+             this Court's precedents regarding the creation of "liberty
+             interests" in the prison setting, and in light of the uncer-
+             tainty in the law bearing on prisoners' rights to call
+             witnesses at prison disciplinary hearings, the Ninth Cir-
+             cuit erred in reversing the judgment of the District Court
+             and in stripping Petitioner of her qualified immunity
+              under Harlow v. Fitzgerald, 457 U.S. 800 (1982), and its
+             progeny, or, alternatively, whether the Court should grant
+             the writ, vacate the judgment, and remand in light of
+             Elder v. Holloway, 114 S. Ct. 1019 (U.S. Feb. 23, 1994)?
+
+R -- N
+                                           ii                                                          ili
+
+                 PARTIES TO THE PROCEEDING                         PARTIES TO THE PROCEEDING - Continued
+
+      Petitioner Cu? Sandin was, at the times relevant to    State and each of the officer respondents have an interest
+this proceeding, a Unit Team Manager at Halawa Correc-       in the outcome of (and support) Ms. Sandin's petition,
+tional Facility, Department of Corrections, State of         and are named as nominal respondents only pursuant to
+Hawaii. She appears in this Court in her official and        S. Ct. R. 12.4. All of the officer respondents are named, as
+individual capacities. Petitioner was one of sixteen state   below, in their official and their individual capacities.
+prison officials sued by Respondent Demont R.D. Conner
+in the amended complaint in the District Court in Civil
+No. 88-0169 (D. Haw. am. comp. filed Sept. 8, 1989). She is
+the only official left in the litigation with respect to
+Respondent Conner's procedural due process claim in
+connection with an August 28, 1987, disciplinary hearing.
+See Pet. App. A8-A9. Ms. Sandin is the only Petitioner.
+
+      Respondents include Demont R.D. Conner, who at all
+times was and is serving a thirty-years-to-life prison sen-
+tence in the Hawaii state penal system. Other Respon-
+dents are Theodore Sakai, Acting Administrator,
+Department of Corrections; Harold Falk, Director of Cor-
+rections, and various employees of Halawa Correctional
+Facility, i.e., Lawrence Shohet, Corrections Supervisor,
+William Oku, Administrator, Leonard Gonsalves, Chief of
+Security, Francis Sequeira, Unit Team Manager, and Adult
+Corrections Officers William Summers, Robert Johnson,
+Gordon Furtado, Abraham Lota, Edward Marshall, Wil-
+liam Paaga, and Brian Lee, all of whom were Defendants
+below. Also named as a Defendant below, and as a
+Respondent here, is Dr. Kim Thorburn, a medical officer
+with responsibility for Halawa facility. Also a Defendant
+below and a Respondent here is the State of Hawaii. The
+      iv                                                        Vv
+
+    TABLE OF CONTENTS                                           TABLE OF AUTHORITIES
+                                                          Page
+                                                                                      Page(s)
+
+CSE PRUNEEED cnccccccccccecccescecesse i                                  Cases:
+                                                                e e a ee Anderson v. Creighton, 483 U.S. 635 (1987) ........ 19, 20
+PARTIES TO THE PROCEEDING .................. ii
+                                                                           Arizona v. Fulminante, 111 S. Ct. 1246 (1991)......... 16
+Ee I  das oho wheusavercdceeeccuent iv
+                                                                Brown v. Frey, 889 F.2d 159 (8th Cir. 1989) (en banc) .... 18
+BARES GE FARTPOURUTIED 6 6 vec ci cccecsdccccccceses Vv         Burgin v. Nix, 899 F.2d 733 (8th Cir. 1990)........... 13
+                                                                Burns v. Reed, 111 S. Ct. 1934 (1991) ................ 19
+PETITION FOR WRIT OF CERTIORARI............ 1
+
+PP ES ca cciivetaeselegescadesienwnces 2                        Codd v. Velger, 429 U.S. 624 (1977) (per curiam) ..... 18
+
+EE oer eT ry nT me ne 2                                         Elder v. Holloway, 114 S. Ct. 1019 (U.S. Feb. 23,
+                                                                   PU AvAda Wd Cen ven eecéeccboveedauwedues 12, 21, 22
+CONSTITUTIONAL AND ADMINISTRATIVE PRO-
+                                                                Forbes v. Trigg, 976 F.2d 308 (7th Cir. 1992).......... 17
+Ds    dn nc dhe eeaen Ghnheuwadas 3
+                                                                Harlow v. Fitzgerald, 457 U.S. 800 (1982).......... 10, 19
+SEARCMGECS COP Bite CARE... cece cccccnccccceces 3
+
+REASONS FOR GRANTING THE WRIT ........... 10                    Hewitt v. Helms, 459 U.S. 460 (1983)................. 15
+
+I. This Court Should Grant Review, Because The                  Hunter v. Bryant, 112 S. Ct. 534 (1992) .............. 21
+    Ninth Circuit's Reading Of The Requirements                 Hutto v. Davis, 454 U.S. 370 (1982) (per curiam)..... 13
+    For A State-Created "Liberty Interest" In The               Inaba v. Soong, 112 S. Ct. 40 (U.S. Oct. 7, 1991)...... 19
+    Prison Setting Is In Direct Conflict With This              Kentucky Department of Corrections v. Thompson,
+
+    Court's Precedents And With Decisions of                       GO US. G56 (IGGD) . gcc ccccccccccess 3, 12, 13, 14, 20
+    Other Courts Of Appeals; In Any Case, The                   Kokkonen v. Guardian Life Insurance Co., 62 U.S.L.W.
+    Issue At A Minimum Is An Unresolved Issue
+    Of Nationwide Importance And Should Be                         GREP GG Ty Gl SUED Scho ecestcenscccccccscess 16
+    UE WU 56 55 Kpin Cen e WN bn bakin bdk6¢0's < 12            Malley v. Briggs, 475 U.S. 334 (1986)................. 19
+                                                                Mitchell v. Forsyth, 472 U.S. 511 (1985) .............. 19
+Il. Review Should Be Granted To Correct The
+                                                                Montanye v. Haymes, 427 U.S. 236 (1976)............. 15
+      Ninth Circuit's Intrusive Review Of State
+     Prison Disciplinary Decisions To Refuse To                 Ponte v. Real, 471 U.S. 401 (1985)................. 17, 18
+     Compel Witness Testimony.................. 16              Ramer v. Kerby, 936 F.2d 1102 (10th Cir. 1991)....... 17
+
+Ill. Review Should Be Granted, At A Minimum,
+
+        To Correct The Ninth Circuit's Drastic Disre-
+
+      gard Of Harlow Immunity................... 18
+
+GUUS NEE SoNudlacest Culeeueadesteekeneccbeces 22
+                             vi                                                          Vii
+
+        TABLE OF AUTHORITIES -- Continued                                                TABLE OF AUTHORITIES -- Continued
+                                                                       Page(s)
+                                                                                |                                           Page(s)
+
+Scott v. Kelly, 962 F.2d 145 (2nd Cir. 1992)........... 17                             Haw. Admin. R. Subchapter 2, Title 17............... 3
+Siegert v. Gilley, 111 S. Ct. 1789 (1993)...........0.4. 19                     | Haw. Admin. R. § 17-201-6(b)..........06.002-00s0. 6
+
+Smith v. Elkins, No. 93-1585 (9th Cir. Mar. 2, 1994) ..... 9                    |        Haw Admin. R. § 17-201-18(b)6.....0.0-.0.ee.e.eees 6
+
+United States v. Layton, 767 F.2d 549 (9th Cir. 1985) .... 16                   | Rinne, ME, TE PII acs cc vccececbevesedesyce 6
+
+United States v. Mendoza, 464 U.S. 154 (1984) ........ 20                       /
+Wolff v. McDonnell, 418 U.S. 539 (1974)... 10, 15, 17, 18
+
+Woods v. Thieret, 903 F.2d 1080 (7th Cir. 1990) (per
+
+    6       ci ode decews daneeeiee ceeded dies 13
+
+CONSTITUTIONS AND STATUTES:                                                     |
+
+Se ik                idk cuca wean citassnedtceeeues 11
+
+Fourteenth Amendment.....................e0ee00: 3,9
+
+ee Ne Sais 6 dai 0 de.0 05 664 N conde eOS ve ednaes 4
+
+ee          ID ce binds dheredincdedessnbitenner's 2
+
+ee          iar      56s ody kde bind done ataenneewisds 3
+
+Be Ce ee Re 65a be rikdn cine CUR Veni ees bc duces 2
+
+Haw. Rev. Stat. § 353-7(b)(1) (1985 & Supp. 1992)..... 5
+
+        ge       RG              rere                 6                         |
+
+Paaee. Giaw. Soak. © TPS CITED oc ccc ccccccvccccccsess 6                       .
+
+RULEs:                                                                          Tmear e
+
+Fed. R. Civ. P. 26(g) (as amended Mar. 2, 1987)..... 17
+
+Fed. R. Civ. P. 26(g)(2)(C) (as amended Dec. 1,
+
+    RP           Pee eee err ey eye ee eee 17
+         No.
+
+                   +
+
+Supreme                In The   States
+
+         Court of the United
+
+            October Term, 1993
+
+         S
+
+CINDA SANDIN, Unit Team Manager,
+       Halawa Correctional Facility,
+
+                                                               Petitioner,
+                                 vs.
+
+DEMONT   R.D. CONNER,  et al.,
+                         Respondents.
+                 *
+
+    On Petition For Writ Of Certiorari
+
+To The United States Court Of Appeals
+
+               For The Ninth Circuit
+
+                                     °
+
+PETITION FOR WRIT OF CERTIORARI
+
+                                      °
+
+      Petitioner Cinda Sandin, Unit Team Manager, Halawa
+Correctional Facility, in her official and individual capaci-
+ties, prays that a writ of certiorari issue to review the
+opinion and judgment of the United States Court of
+Appeals for the Ninth Circuit entered in this proceeding
+on June 2, 1993, as amended by the opinion and judgment
+entered February 2, 1994.
+                            OPINIONS BELOW                                      entered in the District Court in favor of all Defendants lay in
+                                                                                the United States Court of Appeals pursuant to 28 U.S.C.
+     The amended opinion of the United States Court of                          § 1291.
+Appeals for the Ninth Circuit entered February 2, 1994, is
+reported at 15 F.3d 1463 (9th Cir. 1994), and is reprinted                                                                               *
+in Appendix ("App.") "A," infra. The order of the Court
+of Appeals, filed February 25, 1994, denying Petitioner's                             CONSTITUTIONAL AND ADMINISTRATIVE
+petition for rehearing, is unreported and is printed in                                              PROVISIONS INVOLVED
+App. "E." The initial opinion of the Court of Appeals,
+entered June 2, 1993, is reported at 994 F.2d 1408 (9th Cir.                          The Fourteenth Amendment to the Constitution pro-
+1993). The order and judgment of the District Court from                        vides in relevant part that:
+which appeal was taken by Respondent Conner are unre-
+ported and are printed at Apps. "C," and "D," infra.            7Sbnin
+
+                                                   ¢                                  [No State shall] deprive any person of life, lib-
+                                                                                      erty, or property, without due process of law.
+                               JURISDICTION
+                                                                                      Subchapter 2, Title 17, of the Hawaii Administrative
+     The original opinion of the United States Court of                         Rules, and which governed the adjustment process at
+Appeals for the Ninth Circuit was entered June 2, 1993,                         Halawa Correctional Facility at all times relevant to this
+see Pet. App. Al, and a timely petition for rehearing and                       litigation, has been reprinted in its entirety in App. "F,"
+suggestion of the appropriateness of rehearing en banc                          infra, Pet. App. A41 et seq.
+was filed June 16, 1993. On February 2, 1994, the Ninth
+Circuit issued an amended opinion, but did not dispose                                             STATEMENT OF THE CASE
+of the petition for rehearing. Id. On February 25, 1994, the
+Court of Appeals denied the petition for rehearing and                                In Kentucky Department of Corrections v. Thompson, 490
+rejected the suggestion for en banc review. See App. "E,"                        U.S. 454 (1989), this Court held that a prison's rules that
+The time in which this Pet.tion may be filed therefore                          permitted, but did not mandate, denial of visitation privi-
+extends to and includes May 26, 1994, and this Petition is                      leges under certain circumstances did not create a "lib-
+timely. Jurisdiction is invoked here under 28 U.S.C.                           erty interest" in receiving visitors. Id. at 464. In response
+                                                                                to the request of thirty-one States' Attorneys General, the
+§ 1254(1).                                                                     Court found it was unnecessary to create a "bright line"
+                                                                                rule "that prison regulations, regardless of the mandatory
+      Jurisdiction in the United States District Court for the                 character of their language or the extent to which they
+District of Hawaii was alleged to have been conferred by 28                     limit official discretion, `do not create an entitlement
+U.S.C. § 1343(3). Jurisdiction to review the final judgment
+protected by the Due Process Clause when they do not           accused inmate should have been stripped by the Ninth
+affect the duration or release from confinement, or the        Circuit of her qualified immunity from federal suit.
+very nature of confinement.' " Id. at 461 n.3. "Inasmuch as
+a `bright line' of this kind [was] not necessary for a ruling        1. Inmate Demont R.D. Conner is a Hawaii state
+in favor of petitioners," the Court "refrain[ed] from con-     prisoner serving a thirty-years-to-life sentence for
+sidering it at this time," "express[ing] no view on the        attempted murder, robbery, kidnapping, burglary, and
+proposal and leav[ing] its resolution for another day." Id.    rape. Pet. App. A2, Clerk's Record 83 (Exh. "A"). Conner,
+at 462 n.3.                                                    at the times relevant to this Petition, was housed at
+                                                               Halawa Correctional Facility, the only maximum security
+     This case concerns not the due process implications       correctional facility in the Hawaii penal system. By law,
+of visitation with those outside the prison, who are pre-      Halawa is charged with providing "extensive control and
+sumed to be innocent, but the ability of prison officials to   correctional programs for categories of persons who can-
+segregate inmates within the prison for violation of disci-    not be held or treated in other correctional facilities,"
+plinary rules. In this context, where the need to be free of   including "[i]Jndividuals committed because of serious
+intrusive federal review is at its height, the Ninth Circuit   predatory or violent crimes against the person"; "intract-
+has held that Hawaii prison rules create a "liberty inter-     able recidivists"; "[pJersons characterized by varying
+est" in avoiding "disciplinary segregation" without more.      degrees of personality disorders"; "[rJecidivists identified
+Hawaii does not grant "good time" credits, and even the        with organized crime"; and "[vJiolent and dangerously
+most serious disciplinary finding has no necessary impact      deviant persons." Haw. Rev. Stat. § 353-7(b)(1) (1985 &
+upon parole. The main issue in this case is whether            Supp. 1992). At the times relevant here, Halawa facility
+Hawaii's prison rules, which authorize, but do not             inmates were governed by a disciplinary system that
+require, the imposition of disciplinary segregation, create    consisted of Hawaii's general criminal laws and an
+a federally protected "liberty interest" solely because        "adjustment process" administered by the prison itself.
+those rules require, as a matter of state law, "substantial    See App. "F," in`ra.
+evidence" of misconduct before an official exercises the
+discretion to order, or not order, an inmate to a period of          2. Under the "adjustment process," prison adminis-
+segregation. A second issue is whether an inmate who           trators have defined a variety of "prohibited acts," cate-
+has confessed to facts that constitute misconduct is none-     gorizing them as to their severity. "Misconduct" is
+theless entitled, as a matter of federal Due Process           categorized as "greatest misconduct," "high misconduct,"
+requirements, to call witnesses to his prison disciplinary     "moderate misconduct," "low moderate misconduct,"
+hearing. A third issue is whether the prison official who      and "minor misconduct." Pet. App. A43, A45, A47, A49,
+failed to ensure the availability of witnesses for the         A51. The maximum punishment for the most serious
+                                                               "misconduct" is "[d]isciplinary segregation up to sixty
+                                                               days," or "[a]ny other sanction other than disciplinary
+ segregation." Haw. Admin. R. § 17-201-6(b), Pet. App.            On Thu. Aug. 13, 1987 at approx. 0900 hrs. I
+ A45. The "other sanctions" to which the administrative      ACO G. FURTADO while on duty in Module A
+ rule refers includes loss of privileges, such as access to  along with ACO R. AHUNA escorted INMATE
+non-legal mail or the commissary, but do not include any     D. CONNER from his cell (quad II) to the mod-
+sanction that lengthen's inmate's term of incarceration.     ule program area. At this time I informed
+Hawaii does not employ any system of "good time"             Inmate CONNER to move against the wall to be
+credits, and the Hawaii State Paroling Authority is free to  strip-searched before leaving the module.
+ignore a record of misconduct in granting parole. See        Inmate CONNER then stripped, faced the wall
+Haw. Rev. Stat. §§ 353-68, 353-69 (1985). Parole may be      and squatted. I then asked Inmate CONNER to
+granted "at any time after the prisoner has served the       put both hands on the wall and lift up both feet
+minimum term of imprisonment fixed according to law,"        one at a time to which he did with no incident.
+id. § 353-68, and so long as "it appears to the Hawaii
+paroling authority that there is a reasonable probability          I then asked him to step back, bend over
+that the prisoner concerned will live and remain at liberty  and with both hands spread his buttocks so that
+without violating the law and that the prisoner's release    I could check for contraband in the rectal area to
+is not incompatible with the welfare and safety of soci-     which he said "Fuck!" in an angry tone of voice.
+ety," id. at 353-69. In the event an inmate is accused of a  This part of the search was thus completed, but
+"serious rule violation," see Pet. App. A52, the prison      as Inmate CONNER turned around and faced
+convenes an "adjustment committee," which, in relevant       this writer he stared at me and stated "Why are
+respect, is required to make "[a] finding of guilt," only    you harassing me?" I informed him that I'm just
+"where: (1) The inmate or ward admits the violation or       following a routine procedure. He then stated in
+pleads guilty" or "(2) the charge is supported by substan-   a very sarcastic voice "What you got something
+tial evidence." Haw. Admin. R. § 17-201-18(b), Pet. App.     personal against me! Why you harassing me?" |
+A57-A58. After a finding of guilt, "[t]he adjustment com-    then told him all you have to do is just listen
+mittee may render sanctions commensurate with the            and follow what I tell you to do but Inmate
+gravity of the rule and the severity of the violation," id.  CONNER just kept on making sarcastic remarks
+§ 17-201-19, Pet. App. A58. The committee need not           about being harassed and the way that this
+                                                             writer was doing his job.
+impose any sanctions upon the prisoner.
+                                                                   At this time because of the tense atmo-
+     3. On August 13, 1987, Respondent Conner was            sphere and also the very provoking attitude
+charged with a variety of misconducts based upon the         towards this writer, Sgt. SUMMERS who wit-
+following report of Aduit Corrections Officer Gordon         nessed this incident canceled Inmate CONNER's
+Furtado:                                                     privilege of religious counselling. Inmate CON-
+                                                             NER was then escorted back to his cell by this
+                                                             writer and ACO D. COELHO.
+
+                                                                   It should be noted that as Inmate CONNER
+                                                             went through the strip search procedures he
+       moved very slow and questioned every move as        Clerk's Record 83; Exh. "K"; Pet. App. A66. Although
+       if trying to hinder the search, hoping that this    Conner's "high misconduct" was ultimately expunged as
+       writer might overlook a certain area. Inmate        a result of an internal prison review, Conner filed a
+      CONNER appeared to be very unruly in his             federal lawsuit in the United States District Court for the
+      attitude toward this writer.                         District of Hawaii against Petitioner, who served as
+                                                           Chairman of the adjustment committee, and other offi-
+Clerk's Record 83; Exh. "K"; Pet. App. A61-A62. Conner     cials, alleging a variety of defects in the adjustment com-
+was given notice of the charges, and the opportunity to    mittee process, including the allegedly improper denial of
+                                                           witnesses. After over three years of litigation, the District
+contest them before an adjustment committee. The Com-      Court granted summary judgment to Defendants. See
+mittee concluded that Conner had "use[d] physical inter-   App. "C."
+ference or obstacle resulting in the obstruction,
+                                                                 4. The Ninth Circuit, in a published opinion by
+hindrance, or impairment of the performance of a correc-   Judge Reinhardt, joined by Judges Browning and Norris,
+tional function by a public servant" (a high misconduct);  reversed and remanded in part. Pet. App. "A." In rele-
+                                                           vant provision,' the panel concluded that "Conner had a
+"us[ed] abusive or obscene language to a staff member";    liberty interest, protected by the fourteenth amendment,
+
+and engaged in "[h]arassment of employees" (the latter           1 In a portion of the decision not challenged by this Peti-
+both low-moderate misconducts). Pet. App. A66. The         tion, the Ninth Circuit struck down, on procedural grounds, the
+Committee, in its August 31, 1987, disposition of the      application of a prison rule barring communication in a lan-
+                                                           guage other than English to what inmates asserted was Islamic
+charges, gave the following as its contemporary state-     prayer. See Pet. App. A9-A12. Because the Ninth Circuit did not
+                                                           forbid the prison to proscribe acts susceptible of communicative
+ment for its decision:                                     effects in languages other than English, see id. at All n.9, left
+
+            The Committee based their decision upon        open the issue of qualified immu~ *y, id. at Al2, and affirmed
+      the inmate's statements that during the strip
+      search procedure he turned around after squat-       the grant of qualified immunity ix related cases, see Smith v.
+      ting and looked at the ACO. He was then              Elkins, No. 93-1585 (9th Cir. Mar. 2, 1994), and State officials
+      directed to "spread his cheeks" by ACO Furtado       have repealed the rule at issue on the "Islamic prayer" claim,
+      as part of the new strip search procedure. He        certiorari is not sought as to the specific issues implicated by the
+      felt angry, humiliated and apprehensive. He          Court's ruling pertaining to Conner's alleged claim "that his
+      then "eyed up" ACO Furtado and was hesitant          first and fourteenth amendment rights were violated when
+      to comply. He further indicated that he dislikes     prison officials punished him for praying aloud in Arabic." See
+      ACO Furtado and feels he should not work on          Pet. App. A9. This Petition, rather, concerns the Court's reversal
+      the module. The inmate admitted saying the           of "summary judgment as to Conner's claim regarding disci-
+      word "fuck" during the procedure. The Com-           plinary segregation." Id.; see also id. at A18-19.
+      mittee also reviewed the submitted reports. Wit-
+      nesses were unavailable due to move to the
+      medium facility and being short staffed on the
+      modules.
+                                           10                                                              11
+
+ in not being arbitrarily placed in disciplinary segrega-        (1982). In the circumstances of this case, the exacting
+ tion." Id. at A3. To reach this conclusion, the panel relied    federal review directed by the Ninth Circuit does not -
+ entirely upon the "substantial evidence" provision of the
+ prison rules. The Court found the rule that mandates            and cannot -- serve to restore "good time" credits, or
+ "freedom from disciplinary segregation" if "the inmate
+ does not admit guilt," and "the committee does not find         compel or even necessarily affect, parole. Such review
+ substantial evidence," ts ";rovide explicit standards that      does not rid Hawaii's prisons of unsafe environmental
+ fetter official discretion." id. at A4. Then, "[h]laving found  conditions, or deter violence against inmates, either from
+ that Conner possessed a liberty interest in not being           errant correctional officers, or from other inmates; nor
+confined to disciplinary segregation," the panel found,          does it serve to protect the important but limited First
+despite Conner's own incriminating statements, that Peti-        Amendment rights inmates enjoy despite their incarcer-
+tioner had not sufficiently demonstrated "the adequacy           ated status. Nor does it even protect state inmates from
+of its justification for denying an inmate the right to          irrational and arbitrary assignments to disciplinary seg-
+present witnesses." Id. at A8. The Court reversed the            regation. After all, even without procedural Due Process
+summary judgment, even as to claims for monetary relief          protections, inmates would be entitled under the Equal
+against Petitioner, stating that "[t]he right to call wit-       Protection Clause to treatment that meets minimum ratio-
+nesses at a disciplinary hearing has been clearly estab-
+                                                                 nality.
+lished since Wolff v. McDonnell|, 418 U.S. 539 (1974),] was
+                                                                       Instead, without reason or precedent to back it, the
+decided in 1974." Id. at A9. Although the Court, on a            Ninth Circuit has simply made every disciplinary pro-
+timely petition for rehearing, reinstated summary judg-          ceeding a basis for intrusive federal review, and for
+ment for Defendants on other claims, it ultimately let the       extensive litigation of personal-capacity damage claims,
+foregoing rulings stand.                                         regardless of the limited effect of the discipline measures
+
+          REASONS FOR GRANTING THE WRIT                          at issue, and without heed to the most pertinent fact: a
+
+      The Ninth Circuit panel's decision in this case over-      confession of inmate misconduct.
+turning summary judgment as it pertains to Conner's
+challenge to the 1987 misconduct hearing threatens an                  This Court should grant review, if for no other reason
+undue --- and unprecedented -- expansion of federal judi-        than to protect inmates from the adverse consequences of
+cial review of prison management decisions, and an               the decision below. For under that decision, prison
+equally disturbing constriction of the doctrine of quali-        administrators have far diminished incentive to formu-
+fied immunity under Harlow v. Fitzgerald, 457 U.S. 800           late disciplinary systems containing standards of proof,
+                                                                 for no matter how minimal the time in segregation, and
+                                                                 no matter how great the discretion to impose no penalty
+                                                                 at all, the mere announcement of a standard of proof
+                                                                 thereby hog-ties prison administrators with the full-
+                                                                 blown requirements imposed upon prison disciplinary
+                                           12                                                            13
+
+ decisions that do have a necessary impact on the length       to have compelled the Ninth Circuit to affirm with
+ or very nature of confinement. For these reasons, and         respect to the disciplinary segregation issues; instead, the
+ because the decision below conflicts with the decisions of    Ninth Circuit followed the reasoning of the dissent in
+ this Court and of the other courts of appeals, the Court      Thompson, see 490 U.S. at 475 (Marshall, J., joined by
+ should grant the petition for certiorari. Because the Ninth   Brennan, and Stevens, JJ., dissenting).
+ Circuit did not have the benefit of this Court's decision in
+ Elder v. Holloway, 114 S. Ct. 1019 (U.S. Feb. 23, 1994), the        As this Court has stated in a related context, "unless
+Court may wish to grant the petition, vacate the judg-         we wish anarchy to prevail within the federal judicial
+ ment, and remand for further consideration in light of the    system, a precedent of this Court must be followed by the
+ Elder decision.                                               lower federal courts no matter how misguided the judges
+                                                               of those courts may think it to be." Hutto v. Davis, 454
+ I. This Court Should Grant Review, Because The
+                                                               U.S. 370, 375 (1982) (per curiam). Indeed, other courts of
+     Ninth Circuit's Reading Of The Requirements For A
+     State-Created "Liberty Interest" In The Prison Set-       appeals to have addressed issues of this nature have
+     ting Is In Direct Conflict With This Court's Prece-       dutifully followed Thompson's reasoning.
+     dents And With Decisions Of Other Courts Of
+     Appeals; In Any Case, The Issue At A Minimum Is                 The decision below, for example, directly conflicts
+     An Unresolved Issue Of Nationwide Importance              with the Eighth Circuit's analysis in Burgin v. Nix, 899
+     And Should Be Settled Now.                                F.2d 733 (8th Cir. 1990). There, the regulations at issue
+                                                               effectively stated that the prison officials must find an
+      In Kentucky Department of Corrections v. Thompson, 490   inmate to be incorrigible before he may be given a sack
+U.S. 454 (1989), the Court determined that prison regula-      lunch instead of the usual tray lunch. Applying
+tions that authorized administrators to deny visitation        Thompson, the Court held that the regulations did not
+privileges in particular circumstances failed to establish a   create a liberty interest in being served tray lunches
+"liberty interest" because "[t]hey stop short of requiring     because the regulations did not mandate that prison offi-
+that a particular result is to be reached upon a finding       cials serve sacked lunches to inmates found to be incor-
+that the substantive predicates are met." Id. at 464. Thus,    rigible. 899 F.2d at 735. Likewise, the Ninth Circuit's
+the Court reasoned, although "[v]Jisitors may be excluded      ruling conflicts with the Seventh Circuit's analysis in
+if they fall within one of the described categories," "they
+need not be." Id. Here, as in Thompson, inmates found by       Woods v. Thieret, 903 F.2d 1080 (7th Cir. 1990) (per curiam).
+"substantial evidence" to have committed disciplinary          There, while prison rules "mandate[d] who shall make the
+infractions "may be" assigned to segregation for a period
+of time, but they "need not be." This, without more ought      determinations and what shall be considered," including
+                                                               "three substantive predicates," "they do not mandate any
+                                                               particular outcome with regard to the substantive predi-
+                                                               cates." Id. at 1083. Because a decision to place an inmate
+                                                               on "lockdown" was not mandated by the prison rules for
+                                           14                                                            15
+
+ any specific situation the rules did not create a liberty           In the leading case in this area, Wolff v. McDonnell,
+ interest. Id. The Ninth Circuit's analysis in this case thus  418 U.S. 539 (1974), for example, Nebraska had created a
+                                                               scheme for the forfeiture of good-time credits, without
+ not only conflicts with this Court's own holding in           providing due process protections. The Court subjected
+ Thompson, but at least two circuits' construction of that     the scheme to analysis of "the process due," after deter-
+ holding.                                                      mining that, because "the State ha[s] created the right to
+
+      Review should be granted, in that, at a minimum,         good time and itself recogniz[ed] that its deprivation is a
+
+ federal judicial recognition of "liberty interests" as stem-  sanction authorized for major misconduct," "the pris-
+                                                               oner's interest has real substance and is sufficiently
+ming from state prison disciplinary schemes that do not        embraced within Fourteenth Amendment `liberty' to enti-
+affect "good time" credits and that do not necessarily         tle him to those minimum procedures appropriate under
+impact on parole considerations raises unsettled issues of     the circumstances and required by the Due Process
+nationwide import that the Court should review. In
+                                                               Clause to insure that the state-created right is not arbi-
+Thompson itself, the Court was able to avoid a substantial     trarily abrogated." Id. at 557. As the Court would later
+                                                               hold in Montanye v. Haymes, 427 U.S. 236, 242 (1976) "|a|s
+claim, presented both by the Petitioner in that case, and      long as the conditions or degree of confinement to which
+more than thirty States' Attorneys General, see 490 U.S. at    the prisoner is subjected is within the sentence imposed
+455 n.*, urging the Court "to adopt a rule that prison         upon him and is not otherwise violative of the Constitu-
+regulations, regardless of the mandatory character of          tion, the Due Process Clause does not in itself subject an
+their language or the extent to which they limit official      inmate's treatment by prison authorities to judicial over-
+discretion, `do not create an entitlement protected by the     sight." The Court has also emphasized "that regulations
+Due Process Clause when they do not affect the duration        structuring the authority of prison administrators may
+or release from confinement, or the very nature of con-        warrant treatment, for purposes of creation of entitle-
+
+finement.' " 490 U.S. at 461 n.3. The Court "express[ed]       ments to `liberty,' different from statutes and regulations
+                                                               in other areas." Hewitt v. Helms, 459 U.S. 460, 470 (1983).
+no view on the proposal and le[ft] its resolution for          In Hewitt, the Court did state that a liberty interest had
+                                                               been created by Pennsylvania's procedures for adminis-
+another day." Id. at 462 n.3. The decision below calls upon    trative detention; but the Court found that no Due Pro-
+this Court to decide this issue, which is of vast impor-       cess violation had been shown. See 459 U.S. at 472-78.
+tance to all of the States.                                    Thus, Hewitt's statements that the State had "created a
+
+     The Ninth Circuit's decision to extend due process        protected liberty interest" are ultimately dicta, and "lijt is
+protection to any prison disciplinary proceeding that          the holdings of [the Court's] cases, rather than their dicta,
+threatens to impose disciplinary segregation is not tied to
+any principle that this Court has espoused in its Due
+Process jurisprudence.
+                                          16                                                             17
+
+that we must attend." Kokkonen v. Guardian Life Insurance      face proves sufficient reason to deny witnesses, even if
+Co., 62 U.S.L.W. 4313, 4315 (U.S. May 15, 1994) (Scalia, J.,   Respondent had a "liberty interest."
+for a unanimous Court). It is doubtless for just this reason
+that the "bright-line" rule proposed, and deferred, in               As this Court has made clear since Wolff, "|p]rison
+Thompson remains a pressing question on which this             officials must have the necessary discretion to keep the
+Court has "express[ed] no view," and left "for another
+day." 490 U.S. at 462. In light of Judge Reinhardt's opin-     hearing within reasonable limits and to refuse to call
+ion for the court below, that day, at a minimum, has           witnesses that may create a risk of reprisal or undermine
+come. The writ should be granted.                              authority, as well as to limit access to other inmates to
+                                                               collect statements or to compile other documentary evi-
+Il. Review Should Be Granted To Correct The Ninth              dence." 418 U.S. at 566. See also Ponte v. Real, 471 U.S. 491,
+       Circuit's Intrusive Review Of State Prison Disci-       496 (1985). For years, every lawyer practicing in the fed-
+                                                               eral system, when he or she requests discovery in a civil
+      plinary Decisions To Refuse To Compel Witness            case, has certified that a particular request is "not unrea-
+       Testimony.                                              sonable or unduly burdensome or expensive, given the
+                                                               needs of the case, the discovery already had in the case,
+      While recognizing, in trial settings, that the judge on  the amount in controversy, and the importance of the
+the scene "is in the best position to assess the impact and    issues at stake in the litigation." Fed. R. Civ. P. 26(g) (as
+effect of evidence based upon what he perceives from the
+live proceedings of a trial," United States v. Layton, 767     amended Mar. 2, 1987); see Fed. R. Civ. P. 26(g)(2)(C) (as
+                                                               amended Dec. 1, 1993). The quoted language from Wolff,
+F.2d 549, 554 (9th Cir. 1985), the Ninth Circuit gave no       which at a minimum reflects similar concerns, has
+                                                               prompted rulings in virtually every Circuit that stand for
+deference to the prison administrators who refused to call     the proposition that prison disciplinary committees have
+witnesses at Conner's request, since, in the words of the      broad authority to reject proffered testimony as cumula-
+Committee, "[w]Jitnesses were unavailable due to move to       tive or irrelevant. See, e.g., Forbes v. Trigg, 976 F.2d 308,
+the medium facility and being short staffed on the mod-        318 (7th Cir. 1992) (allowing refusal to call witnesses
+ules." In this case, however, Conner admitted to having        whose testimony is "irrelevant or repetitive" or "could
+                                                               have added little" to the proceeding); Scott v. Kelly, 962
+                                                on"            F.2d 145, 147 (2d Cir. 1992) (" `a prisoner's request for a
+                                                               witness can be denied on the basis of irrelevance or lack
+" "eyed up' " and cursed at Correctional Officer Furtado       of necessity' "); Ramer v. Kerby, 936 F.2d 1102, 1104 (10th
+during the strip search, admitting to every element of at      Cir. 1991) (allowing denial of prisoner requests if officials
+least two different disciplinary infractions. As this Court    "affirmatively determine" that the proposed testimony
+held in Arizona v. Fulminante, 111 S. Ct. 1246, 1255 (1991),
+"[a] defendant's confession is `probably the most proba-
+tive and damaging evidence that can be admitted against
+him,' " and, in light of this confession, the record on its
+                                         18                                                             19
+
+  "would be irrelevant, cumulative, or otherwise unnecess-    respect to the merits of his claims "at all," Siegert v. Gilley,
+                                                              111 S. Ct. 1789, 1793 (1993). But what is perhaps most
+ ary for the committee to come to a fair resolution of the    disturbing of all is the Court of Appeals' drastic curtail-
+
+ matter"); Brown v. Frey, 889 F.2d 159, 168 (8th Cir. 1989)   ment of the generous protections of the doctrine of quali-
+ (en banc).
+                                                              fied immunity in this case.
+       Here, where Conner had confessed to the material
+ elements of the charged conduct, and where neither he              As this Court has emphasized, qualified immunity is
+ nor the Ninth Circuit took issue with the validity of his    a "protective" doctrine that " `provides ample support to
+ confession, the Ninth Circuit's remand simply makes          all but the plainly incompetent or those who knowingly
+ nonsense of the law. As this Court ruled in a related
+ context, "if the hearing mandated by the Due Process         violate the law.' " Burns v. Reed, 111 S. Ct. 1934, 1944
+ Clause is to serve any useful purpose, there must be some
+                                                              (1991) (quoting Malley v. Briggs. 475 U.S. 334, 341 (1986)).
+ factual dispute . . . which has some significant bearing"    The scope of the doctrine's protections is not to be judged
+                                                              by reference to "abstract rights," Anderson v. Creighton,
+ on the matter in controversy. Codd v. Velger, 429 U.S. 624,  483 U.S. 635, 639 (1987). And this is especially so where
+                                                              the constitutional rights at stake "have been expressed in
+ 627 (1977) (per curiam). Here, as in Codd, Conner "made      terms of `unreasonable' " government conduct. /d. at 643.
+                                                              Since this Court adopted an "objective" test for qualified
+out no claim under the Fourteenth Amendment that he           immunity in Harlow v. Fitzgerald, 457 U.S. 800 (1982), it
+                                                              has been clear "that officials performing discretionary
+ was harmed by the denial of [witnesses]." Id. at 628. At
+                                                              functions are not subject to suit when [federal] questions
+the very least, the record does not allow any reasonable
+factfinder to conclude that Conner was unconstitutionally     are resolved against them only after they have acted,"
+denied witnesses.                                             and "hindsight-based reasoning on immunity issues is
+                                                              precisely what Harlow rejected." Mitchell v. Forsyth, 472
+      Because the Ninth Circuit's reversal of summary
+judgment on the denial of witnesses issue conflicts with      U.S. 511, 535 (1985). The "decisive fact is not that [a
+this Court's decisions in Wolff, and Ponte, and with a
+broad array of rulings in the courts of appeals, the Court    defendant's] position turned out to be incorrect, but that
+should grant certiorari.
+                                                              the question was open at the time he acted." Id. Such
+III. Review Should Be Granted, At A Minimum, To               "facts," at worst, are present, and mandate immunity.
+       Correct The Ninth Circuit's Drastic Disregard Of
+       Harlow Immunity.                                             In denying immunity to Petitioner Sandin, the Ninth
+                                                              Circuit fundamentally misconstrued the teachings of this
+     As the foregoing demonstrates, it is clear that the      Court, and in a way that plainly warrants review, or, at a
+Ninth Circuit was unwarranted in concluding that Con-         minimum, a summary remand. Cf. Inaba v. Soong, 112 S.
+ner had raised a genuine dispute of material fact with        Ct. 40 (U.S. Oct. 7, 1991).
+                                          20                                                                21
+
+      First, if nothing else, this Court's explicit reservation  - Browning, and Norris, to strip Petitioner of her qualified
+of issues in Thompson, see 490 U.S. at 462 n.3, constitutes       immunity for denying witnesses, even though inmate
+the very sort of authoritative deferral that should allow         Conner undisputedly confessed to swearing at Correc-
+officials to continue to press legal claims and defenses
+without fear of personal liability. After all, when this          tional Officer Furtado, "convert[s] the rule of qualified
+Court "leave[s]" "for another day," a particular defense
+to Due Process challenges, it is intolerable that state           immunity that [this Court's] cases plainly establish into a
+officials be subject to personal-capacity damage actions          rule of virtually unqualified liability." 483 U.S. at 635.
+by provoking review of that defense. To let the Ninth             Like other refusals by the Ninth Circuit to recognize
+Circuit's decision stand would not only "substantially            qualified immunity, see, e.g., Hunter v. Bryant, 112 S. Ct.
+thwart the development of irnportant questions of law by
+freezing the first initial decision rendered on a particular      534, 537 (1992), this conversion should be reversed.
+legal issue," United States v. Mendoza, 464 U.S. 154, 160
+(1984) (Rehnquist, J., for a unanimous Court); it would                 At a minimum, the Ninth Circuit's decision appears
+freeze the law in such a way that a legal issue would             to be colored by the narrow review given to immunity
+never be litigated.                                               issues in the Ninth Circuit prior to this Court's reversal in
+                                                                  Elder v. Holloway, 114 S. Ct. 1019 (1994). Elder unequivo-
+      Second, wholly apart from the " `bright line' " argu-       cally mandates that "[w]Jhether an asserted federal right
+ment that renders any particularized analysis of Hawaii's         was clearly established at a particular time so that a
+prison rules irrelevant to the Due Process issues in this         public official who allegedly violated the right has no
+case, it is hardly "incompetent" to assert that Thompson's        qualified immunity from suit, presents a question of law,
+"mandatory outcomes" test precludes the conclusion that           not one of `legal facts,'" which, "like the generality of
+Hawaii has created liberty interests. The fact that               such questions, must be resolved de novo on appeal." 114
+Thompson, without response to Justice Marshall's dissent,         S. Ct. at 1023. Most significantly, Elder mandates that "[a]
+held that no liberty interest was created because visitors        court engaging in review of a qualified immunity judg-
+"need not be" excluded, is - and should be - enough to            ment should therefore use its `full knowledge of its own
+warrant qualified immunity as a matter of law on the              {and other relevant] precedents.' " Id. By remanding Peti-
+record present. For this reason, too, review is warranted.        tioner for "a fuller development of the record" (Pet. App.
+                                                                   A9), where, inter alia, the record absolutely and unequivo- .
+      Third, by relying on the "abstract" right to call wit-      cally shows that Connor confessed, the Ninth Circuit
+nesses outlined (for good-time-credit States, such as             simply abdicated its appellate function, and disobeyed
+Nebraska) in Wolff, the Ninth Circuit committed the very           the requirements of the Elder decision.
+error that this court reversed in Anderson v. Creighton, 483
+U.S. 635 (1987). The determination, by Judges Reinhardt,                  Because the Ninth Circuit did not have the benefit of
+                                                                   this Court's decision in Elder, at a minimum the Court
+
+                                                                   may wish to grant the petition, vacate the judgment, and
+                                      22                                                 Al
+
+remand for further consideration in light of Elder v. Hollo-                    APPENDIX "A"
+way, supra.                                                                 FOR PUBLICATION
+                                                              UNITED STATES COURT OF APPEALS
+                                                                       FOR THE NINTH CIRCUIT
+
+                 CONCLUSION
+
+For the foregoing reasons, the Court should grant the         DeMont R.D. CONNER,               ) No. 91-16704
+
+petition for certiorari. Because the decision in Elder v.              Plaintiff-Appellant,     )
+                                                                  V. _
+Holloway, 114 S. Ct. 1019 (U.S. Feb. 23, 1994), was handed                                      ) D.C. No.
+                                                              THEODORE SAKAI et al.,               CV-88-0169-ACK
+down only two days before rehearing was denied, the
+                                                                         Defendants-Appellees.  ) OARMDEENRDEADND
+Court may wish to grant the petition, vacate the judg-
+                                                                                                ) OPINION
+ment, and remand for further consideration in light of
+                                                                                                )
+Elder. In any event, the Court should grant the petition
+
+for certiorari.              |
+
+Dated: Honolulu, Hawaii, May 26, 1994.                           Appeal from the United States District Court
+                                                                                for the District of Hawaii
+                 Rosert A. Marks
+                 Attorney General                                      Alan C. Kay, District Judge, Presiding
+                 State of Hawaii
+                                                                                Submitted November 5, 1992*
+                 Steven S. MICHAELs*                                                      Honolulu, Hawaii
+                 Girarp D. Lau
+                 Deputy Attorneys General                                               Filed June 2, 1993
+                 State of Hawaii                                               Amended February 2, 1994
+                 "Counsel of Record
+                                                              Before: James R. Browning, William A. Norris, and
+                 Department of the                                        Stephen Reinhardt, Circuit Judges.
+                    Attorney General
+                                                                             Opinion by Judge Reinhardt
+                 State of Hawaii
+                 425 Queen Street                             *The panel unanimously finds this case suitable for submission
+                 Honolulu, Hawaii 96813                       on the record and briefs without oral argument. Fed. R. App. P.
+                 (808) 586-1360
+                                                              34(a); Ninth Circuit Rule 34-4.
+                 Counsel for Petitioner
+                 Cinda Sandin, Unit Team
+                 Manager, Halawa
+                 Correctional Facility
+                                        A2                                                             A3
+
+                                  OPINION                        v. Louisiana, 134 U.S. 1 (1890), 10 S. Ct. 504, Quern v.
+
+ REINHARDT, Circuit Judge:                                       Jordan, 440 U.S. 332, 338-41, 99 S. Ct. 1139, 1143-45 (1979),?
+                                                                 and Conner's suit against the other defendants in their
+       DeMont R.D. Conner, a Hawaii state prisoner serving
+ a thirty-years-to-life sentence, appeals pro se the district    official capacities, Hafer v. Melo, 112 S. Ct. 358, 362 (1991).
+ court's grant of the state's motion for summary judgment,       However, the eleventh amendment does not bar Conner's
+ and the district court's denial of his cross-motion for
+ summary judgment on his § 1983 suit against a number of         suit against the other defendants in their personal capaci-
+ prison officials! and the State of Hawaii. We reverse, as to
+ certain of the defendants, the district court's grant of        ties. Id. at 362.
+ summary judgment in the state's favor on certain of
+Conner's claims: that he was improperly subjected to                   2. Disciplinary Segregation
+disciplinary segregation and that he was punished for
+praying aloud in Arabic with a fellow inmate. We affirm                Conner contends that the disciplinary segregation
+the remainder of the district court's order, including the       imposed on him after a hearing on August 28, 1987,
+denial of Conner's cross-motion for summary judgment.            violated his right to due process. He asserts that, before
+                                                                 the hearing, he was not given a summary of the facts
+                                       II.                       leading to the charges, that he was not permitted to
+                                                                 question the guard who charged him with the offense,
+A. State's Motion for Summary Judgment                           that he was not allowed to call witnesses at the hearing,
+                                                                 and that his testimony was "doctor[ed]" and used against
+      1. Sovereign Immunity                                      him. We agree that Conner has presented a genuine issue
+                                                                 of material fact as to whether his hearing comported with
+      The state correctly contends that the eleventh amend-      due process.
+ment bars Conner's suit against the State of Hawaii, Hans
+                                                                       [1] The first issue we face is whether Conner had a
+      ' The named defendants are Theodore Sakai, Acting          liberty interest, protected by the fourteenth amendment,
+Administrator, Department of Institutions; Harold Falk, Direc-   in not being arbitrarily placed in disciplinary segregation.
+tor of Corrections; and several administrators of the Halawa     The fourteenth amendment protects liberty interests aris-
+Correctional Facility; Lawrence Shohet, Corrections Supervisor;  ing from the Due Process Clause or created by state law.
+William Oku, Administrator; Leonard Gonsalves, Chief of Secu-    Hewitt v. Helms, 459 U.S. 460, 466, 103 S. Ct. 864, 868-69
+rity; Cinda Sandin and Francis Sequeira, Unit Team Managers;
+                                                                       2 Conner claims that the State has waived its immunity
+and seven Adult Corrections Officers (ACOs), William Sum-        through Haw. Rev. Stat. § 662-2. However, this section waives
+mers, Robert Johnson, Gordon Furtado, Abraham Lota, Edward       the state's immunity only as to tort suits. Conner does not make
+                                                                 out a tort claim.
+Marshal, William Paaga, and Brian Lee.
+                                          A4                                                              A5
+
+(1983). To discover whether state law has created a liberty                 i. summary of facts
+interest, we must "examine closely the language of the
+relevant statutes and regulations" to see whether the state           Under the Due Process Clause, an inmate facing a
+has placed "substantive limitations on official discretion."     disciplinary hearing must be given advance notice of the
+Kentucky Dep't of Corrections v. Thompson, 109 S. Ct. 1904,      hearing. Wolff v. McDonnell, 418 U.S. 539, 563-65, 94 S. Ct.
+1909 (1989) (internal quotation omitted; citation omitted).      2963, 2978-79 (1974). Even if state administrative regula-
+Most commonly a state fetters official discretion by a two-      tions supply additional process due to inmates of Hawai-
+step process. First, the state establishes "substantive          ian prisons, see § 17-300-3 et seq.,> and even if inmates
+predicates" to govern official decisionmaking. These are         may sue to enforce such regulations in federal court,
+"particularized standards or criteria to guide the State's       there is no genuine issue of material fact as to whether
+decisionmakers." Id. Next, the state requires, in "explic-       Conner was given the opportunity to review the facts and
+itly mandatory language," that if the substantive predi-         other materials supporting the charge against him. The
+cates are met, a particular outcome must follow. Id. at          record contains a form, apparently signed and dated by
+1909-10. We conclude that Hawaii's regulations create a          Conner, that recites the charge against him and states,
+liberty interest in remaining free from disciplinary seg-        "Facts supporting the charge(s) are as stated on the
+regation. The regulations provide explicit standards that        attached Misconduct Report." Because Conner does not
+fetter official discretion. Under Title 17, subtitle 2 (Correc-  contest that he signed and dated the form or that the
+tions Division), Department of Social Services and Hous-         misconduct report was attached, and does not otherwise
+ing, § 17-201-18(b) ("§ 17-201-18(b)"), the inmate must          dispute the authenticity of the form, he has failed to show
+admit guilt or the prison disciplinary committee must be         that a genuine issue of material fact exists as to this
+presented with substantial evidence before the committee         contention. Celotex Corp. v. Catrett, 477 U.S. 317, 324, 106
+may make a finding of guilt. If the inmate does not admit        S. Ct. 2548, 2553 (1986); Fed. R. Civ. Pro. 56(c).
+guilt, or the committee does not find substantial evi-
+dence, the particular outcome - freedom from disciplin-                3 Section 17-201-16(c) requires that an inmate be given an
+ary segregation -- must follow. § 17-201-18(b).                  opportunity to review all relevant non-confidential reports of
+                                                                 misconduct or a summary of such reports between the time the
+      Having found that Conner possessed a liberty inter-        inmate receives notice of the hearing and the hearing itself.
+est in not being confined to disciplinary segregation, we        Section 17-201-16(d) provides that the misconduct reports or
+now proceed to the issue whether he was afforded suffi-          summary "shall contain" a description of the specific rule
+cient process before being so confined.                          alleged to have been violated, the facts that support the charge,
+                                                                 and the names of witnesses.
+                                          A6                                                              A7
+
+                ii. cross-examination                               defeat a motion for summary judgment: Conner's obliga-
+                                                                    tion, rather, was to relate "specific facts showing that
+      No genuine issue of material fact exists as to Con-           there is a genuine issue for trial." Celotex, 477 U.S. at 324,
+ner's contention that he was not permitted to cross-exam-           106 S. Ct. at 2552.
+ine the guard who charged him with misconduct. The
+Due Process Clause does not require prison administra-                            iv. witnesses
+
+tors to afford inmates such a right. Wolff v. McDonnell, 418              [2] Under Wolff v. McDonnell, an inmate "should be
+U.S. at 567-69, 94 S. Ct. at 2980-81. Even if state regula-         allowed to call witnesses and present documentary evi-
+                                                                    dence in his defense when permitting him to do so will
+tions may be enforced in a case such as this, Hawaii has            not be unduly hazardous to institutional safety or correc-
+not created a due process right to cross-examine wit-               tional goals." 418 U.S. at 566, 94 S. Ct. at 2979. The state's
+nesses at a disciplinary hearing.                                   regulations, even if applicable, do not expand on this
+                                                                    right.5 A genuine issue of material fact exists as to Con-
+           ii. alteration of testimony                              ner's contention that he was not permitted to call wit-
+                                                                    nesses at his hearing. The record contains a form,
+      Conner has not raised a genuine issue of material fact        apparently distributed to Conner after the hearing, that
+to support his contention that his testimony at his hearing         states that witnesses were unavailable at the hearing
+was doctored. His affidavits do not disclose the alter-             "due to the move to the medium facility and being short
+ations allegedly made. Bare allegations do not suffice to           staffed on the modules."
+
+      * Under § 17-200-16(e), the prison may decline to permit the        Prison disciplinary committees may not deny a
+inmate to cross-examine witnesses at a disciplinary hearing. It     defendant the right to call important witnesses solely for
+States that the inmate "may" be given the opportunity to con-       the sake of administrative efficiency. Bostic v. Carlson, 884
+front and cross-examine adverse witnesses unless, in the judg-      F.2d 1267, 1273 (9th Cir. 1989). Rather they must show the
+ment of the disciplinary committee, such a confrontation would      adequacy of their justification for denying a request to
+
+       (A) Subject the witnesses to potential reprisal;                   5 The state's regulation's [sic] track Wolff v. McDonnell,
+       (B) Jeopardize the security or good government of            supra, in stating that the inmate "should" be given the oppor-
+       the facility;                                                tunity to call witnesses "as long as it will not be unduly haz-
+       (C) Be unduly hazardous to the facility's safety or          ardous to institutional safety or correctional goals."
+       correctional goals; or
+       (D) Otherwise reasonably appear to be impractical            § 17-200-16(f)(1). Reasons for denial of such an opportunity are
+       or unwarranted.
+                                                                    irrelevance, lack of necessity, the hazards presented in the indi-
+§ 17-200-16(e)(2). If the inmate is not permitted to confront or    vidual case, and "any other justifiable reason." § 17-200-16(f)(2).
+
+cross-examine adverse witnesses, the disciplinary committee "is
+encouraged" to record the reason for the denial and to explain
+
+the reason to the inmate. § 17-200-16(e)(3).
+                                          A8                                                              AY
+
+present witnesses in a disciplinary proceeding. Id. Fur-         defendants, including Defendant Sandin, are protected by
+ther, we note that "[t]he security issues that concerned         qualified immunity. Harlow v. Fitzgerald, 457 U.S. 800, 815,
+the Wolff Court were the risk of death or injury to inmate
+witnesses and informants identified at hearings or in            102 S.Ct. 2727, 2737 (1982); Anderson v. Creighton, 483 U.S.
+produced documents, as well as the potential for break-
+down in authority, order and discipline inside the institu-      635, 640-41, 107 S. Ct. 3034, 3039-40 (1987); Erickson v.
+tion." Young v. Kann, 926 F.2d 1396, 1400 & nn. 8, 9 (3d
+Cir. 1991). It is not clear that these were the concerns that    United States, 976 F.2d 1299, 1301 (9th Cir. 1992). Under
+motivated the disciplinary committee that considered
+Conner's case.                                                   the doctrine of qualified immunity, the issue is whether
+                                                                 the right infringed was clearly established at the time of
+      [3] In the context of a motion for summary judgment,       the defendant's complained-of action, and whether a rea-
+the prisons burden to show the adequacy of its justifica-        sonable official could have believed that his or her
+tion for denying an inmate the right to present witnesses        actions did not violate that right. Anderson v. Creighton,
+at his hearing is the one it would bear in a motion for a        483 U.S. at 640-41, 107 S. Ct. at 3039-40. The right to call
+judgment as a matter of law (directed verdict) under Fed.        witnesses at a disciplinary hearing has been clearly estab-
+R. Civ. Pro. 50(a). Celotex Corp. v. Catrett, 477 U.S. at 323,   lished since Wolff v. McDonnell was decided in 1974.
+106 S. Ct. at 2552. Such a burden requires that the evi-         Whether a reasonable official could have believed his
+dence "permit[] only one reasonable conclusion as to the         actions in denying Conner the requested witnesses were
+verdict." McGonigle v. Combs, 968 F.2d 810, 816 (9th Cir.        lawful is a matter that cannot be decided without a fuller
+1992), cert. denied sub nom. Casares v. Spendthrift Farm, Inc.,  development of the record.
+113 S. Ct. 399 (1992). In stating without more that "wit-
+nesses were unavailable due to [the] move to the medium                Accordingly, summary judgment as to Conner's
+facility and being short staffed on the modules," the state      claim regarding disciplinary segregation is reversed with
+has not met its affirmative burden.                              respect to Defendant Sandin.'
+
+     Conner links only Defendant Sandin to the denial of               3. Prayer in Arabic
+his right to call witnesses.® The state claims that all of the
+                                                                       Conner alleges that his first and fourteenth amend-
+     © In his affidavit of May 17, 1988, Conner states: "On      ment rights were violated when prison officials punished
+August 28, 1987, Defendant Cinda Sandin did violate my right     him for praying aloud in Arabic. He was punished for
+to due process when she denied me the right to question the      violating a prison rule that requires inmates to "commu-
+correctional officer whom had written me up, and to review the   nicate in the English language only; including telephone
+submitted reports, and to call witnesses."
+                                                                       7 Conner also contends that no evidence supported the disci-
+                                                                 plinary committee's finding of guilt. However, he has not supported
+                                                                 his contention with an affidavit or a verified complaint.
+                                      Al0                                                            All
+
+ calls, visits, and letters." Conner contends that as a Mus-    used. Nor do the examples provided in the rule -- tele-
+ lim he must say his prayers in Arabic and that he must         phone calls, visits, and letters - suggest a more holy
+ say them aloud; that on February 1, 1989, he was a recent
+convert to Islam and had only begun to learn Arabic; and        meaning.
+
+that on that day he was praying aloud in Arabic in unison            [5] In addition, even if the interpretation of the rule
+with a more experienced fellow inmate when Defendants           could be stretched to include prayer, we would hold that
+                                                                the due process clause forbids the implementation of
+ Paaga and Lee ordered the two men to speak in English
+only. When Conner refused to comply, Defendant Paaga            such a construction. The due process clause bars the state
+issued a misconduct report, which led to Conner's con-
+finement in disciplinary segregation for fourteen days. In      from imposing punishment on the basis of an unexpected
+addition to Defendants Paaga and Lee, Conner seeks
+relief from Defendants Oku, Sakai, and Falk for the depri-      and unusual interpretation of plain language. See Bouie v.
+                                                                City of Columbia, 378 U.S. 347, 352, 84 S. Ct. 1697, 1702
+vation of due process he claims to have suffered.               (1964). The language of the English-only rule on its face
+                                                                clearly proscribes only inter-personal communication,
+      [4] Construing the facts most favorably to Conner, as     and the examples accompanying the rule reinforce such a
+                                                                reading. Had the state desired to proscribe praying aloud,
+we must on a motion for summary judgment, see Leer v.           language clearly proscribing such conduct could been
+                                                                [sic] included in the rule.? See United States v. Petrillo, 332
+Murphy, 844 F.2d 628, 631 (9th Cir. 1988), we assume that       U.S. 1, 7, 67 S. Ct. 1538, 1540 (1947) (upholding a law
+                                                                against a void-for-vagueness challenge because no
+Conner was punished after refusing to stop praying in           "clearer and more precise language. . . . occurs to us, nor
+Arabic.® It is a fundamental element of due process that        has any better language been suggested, effectively to
+                                                                carry out what appears to have been the Congressional
+conduct may be punished under a rule only if that rule          purpose"). The interpretation of the English-only rule
+
+proscribes the conduct. It seems clear that the prison's        sought by the state would be most unexpected and highly
+English-only rule does not apply to prayer. We believe
+that the plain meaning of the rule forbids the non-English      unusual. Therefore, the rule cannot be constitutionally
+                                                                applied to the conduct at issue here: it gives inmates
+interchange of information between or among humans,             insufficient notice that they are forbidden to pray in a
+                                                                foreign language.
+not between humans and their gods. If the rule were
+intended to apply to "communication" with divine                      9 We indicate no view regarding the constitutionality of
+beings, certainly the term "prayer" would have been             such a proscription.
+
+     ® The misconduct report states that Conner was punished
+for refusing to obey Defendant Paaga's order. However, because
+Defendant Paaga's order was to stop speaking in a foreign
+language, we consider whether, under the Due Process Clause,
+Conner may be punished for violating the underlying rule.
+                                      Al2                                                                Al3
+
+      Conner does not proximately connect Defendants                  4. Denial of Access
+ Oku, Sakai, and Falk to the constitutional wrong he has              [6] Conner has submitted affidavits alleging that cer-
+ suffered. Summary judgment was therefore appropriate
+as to these defendants. Leer v. Murphy, 844 F.2d at 633-34;      tain defendants have deprived him of legal materials;
+ Taylor v. List, 880 F.2d 1040, 1045 (9th Cir. 1989). The state
+maintains that Defendants Paaga and Lee are immune               however, he has failed to allege or offer evidence of
+from suit. It is true that government officials performing       "actual injury" with respect to court access as a result of
+discretionary functions enjoy a qualified immunity inso-         these deprivations. When a claim of denial of access to
+far as their conduct does not violate statutory or constitu-     the courts does not involve inadequate law libraries or
+tional rights of which a reasonable person should have           inadequate legal assistance, actual injury must be alleged.
+known. See Harlow v. Fitzgerald, 457 U.S. at 818, 102 S. Ct.
+at 2738. As indicated by our discussion above, we believe        Sands v. Lewis, 886 F.2d 1166, 1171 (9th Cir. 1989). Sum-
+a reasonable official would have known that a regulation
+that forbids communication in a foreign language does            mary judgment on this issue is therefore affirmed.
+not forbid prayer. Thus, the state cannot assert the
+defense of qualified immunity based on uncertainty in                 5. Review of Confinement
+the law or the law's application to this case.                         Conner argues by reference to Sims v. Falk, No.
+                                                                 88-0348-DAE (D. Ha. 1989), that he has been denied
+      Nevertheless, Defendants Paaga and Lee may still be        meaningful periodic review of his confinement in the
+entitled to qualified immunity. The proper question is           maximum security portion of the prison.'!° However, his
+whether, at the time of the challenged conduct, a reason-        affidavit in support of his contention is conclusory. With-
+able official would have understood that the actions of          out supporting facts, we are required to hold that sum-
+Defendants Paaga and Lee violated Conner's rights.               mary judgment was properly granted on this issue.
+Anderson v. Creighton, 483 U.S. at 640-41, 107 S. Ct. at
+3039-40. Thus, if a reasonable official would not have                 10 The district court in Sims, assessing the same claim made
+realized that Conner was praying but could have thought
+that he was simply communicating with humans regard-             against several of the same defendants (Falk, Oku, and Shobet)
+ing earthly subjects, Defendants Paaga and Lee would be
+entitled to qualified immunity. On remand, the district          regarding the same portion of the same prison, held that such
+court should consider whether Defendants Paaga and Lee           confinement was punitive rather than classificatory in nature,
+are entitled to qualified immunity on this basis.                and issued a preliminary injunction that ordered the prison to
+                                                                 review Sims' confinement not less than every thirty days and to
+                                                                 permit Sims to meaningfully participate in the review. The com-
+                                                                 plaint was later dismissed by stipulation.
+                                      Al4                                                             Al5
+
+      6. Possession of Written Rules                                  Whether or not the Program was approved by the
+                                                                 director or the governor, and whether or not the conjunc-
+      Conner argues, again by reference to Sims, that due        tion of § 17-200-1 and Haw. Rev. Stat. § 353-3 creates a
+                                                                 liberty interest, Conner's claim fails. The Program was
+process entitles him to retain a copy of the written rules       implemented in 1981, according to an affidavit of Defen-
+                                                                 dant Shohet, while § 17-200-1 did not become effective
+that set the standard against which inmates' behavior is         until Octobe: 6, 1983. Therefore, § 17-200-1 does not
+                                                                 govern the Program and cannot create a liberty interest.
+judged within the prison. He states in an affidavit that he
+has not been given a copy of such rules. The prison                    In addition, Conner appears to argue that the Pro-
+contends that Conner has been furnished with a copy of           gram is invalid because it does not comply with the
+the Inmate Handbook. A question of material fact thus            Hawaii Administrative Procedures Act. Conner's argu-
+                                                                 ment appears to make a state claim. Such claims are
+exists as to this contention. However, Conner has not            barred in § 1983 suits. Pennhurst State School & Hosp. v.
+                                                                 Halderman, 465 U.S. 89, 121, 104 S. Ct. 900, 919 (1984).
+proximately connected any of the defendants to the loss          Summary judgment on this issue is affirmed.
+
+he claims to have suffered. Therefore, his argument fails.              of Hawaii. Each individual facility may adopt rules
+Leer v. Murphy, 844 F.2d at 633-34; Taylor v. List, 880 F.2d at         governing its unique situation pursuant to Chapter
+                                                                        353, subject to the approval of the director of the
+1045.                                                                   department of social services and housing and the
+                                                                       governor.
+      7. Legal Status of the Segregation and Maximum Cus-        The version of Haw.Rev.Stat. § 353-3 in effect when the Program
+           tody Program                                          was implemented provided that
+                                                                        [t]he director of social services and housing . . . may
+      Conner contends that the existence of the Segregation             make and from time to time alter or amend rules
+and Maximum Custody Program ("Program") has vio-                        relating to the conduct and management of [the state
+lated his right to due process because the Program was                   correctional] facilities and the care, control, treat-
+never correctly authorized by the Director of the Depart-               ment, furlough and discipline of persons committed
+ment of Social Services or the Governor of Hawaii. He                   to his care, which rules must be approved by the
+asserts that § 17-200-1 and Haw. Rev. Stat. § 353-3 create a            governor. ...
+
+liberty interest in not being subject to any law not explic-
+
+itly authorized by the governor, that the Program lacks
+
+the signatures required by the statute, and that without
+
+the signatures the Program does not have the force of
+law.!!
+
+       1! Section 17-200-1 states:
+
+      This subtitle shall govern the corrections division of
+      the department of social services and housing, State
+                                          Al6                                                                Al7
+
+       8. The Program as a Behavior Modification Program             suffered. His contention fails as to Defendant Falk
+                                                                     because his affidavit is made on information and belief,
+       Conner argues that the Program is invalid because its
+ policy of providing privileges for good conduct is a                not on the personal knowledge required by Fed. R. Civ.
+ behavior modification program of the type rejected in
+ Canterino v. Wilson, 546 F. Supp. 174 (W.D. Ky. 1982), as           Pro. 56(e). See Taylor v. List, 880 F.2d at 1045 n.3. His claim
+ amended, 562 F. Supp. 106, aff'd, 875 F.2d 862 (6th Cir.            fails as to Defendants Sakai, Oku, and Shohet because he
+
+ 1989), cert denied, 493 U.S. 991, 110 S. Ct. 539 (1989).            neglects to set forth facts that proximately connect them
+                                                                     with the constitutional injury he contends they inflicted.
+ Canterino was decided under an eighth amendment the-                Id. at 1045; Leer v. Murphy, 844 F.2d at 633-34.""
+ ory. Construing Conner's complaint and affidavits liber-
+                                                                           Additionally, Conner asserts that the Program vio-
+ ally, see Haines v. Kerner, 404 U.S. 519, 92 S. Ct. 594 (1972),
+                                                                     lates Haw. Rev. Stat. § 465(2), which requires those who
+ United States v. Bigman, 906 F.2d at 395, we conclude that
+Conner contends that the prison's behavior modification              practice psychology to be licensed. Such a contention
+                                                                     presents a state law claim, which is barred under Penn-
+ program is so unnecessarily restrictive © to constitute
+                                                                     hurst, 465 U.S. at 121, 104 S. Ct. at 919.
+cruel and unusual punishment.!?
+                                                                           9. 106 Minor Misconduct Warnings
+       Conner alleges that Defendants Falk, Sakai, Oku, and
+                                                                           Conner claims that he was harassed by prison offi-
+Shohet are responsible for deprivation he contends he has            cials through numerous 106 warnings. These are written
+                                                                     citations that in themselves lead to no disciplinary action
+      '? In his affidavit of March 6, 1989, Conner states that the   but the accumulation of which may lead to disciplinary
+most restrictive non-disciplinary confinement within the Pro-
+gram is virtually identical to disciplinary segregation, see Can-    segregation.
+terino, 546 F. Supp. at 184; that an inmate is permitted to move to
+a less restrictive environment only after completing a set                 Even if such warnings infringe on a protected liberty
+number of days free of misconduct and that a single act of
+misconduct erases all the accumulated days and forces an             interest, there is no constitutional violation unless and
+inmate to begin at the beginning, see id. at 187; that the Program,
+as administered, leaves Conner "edgy often, argumentative,           until the inmate is placed in disciplinary segregation as a
+and frustrative," see id. at 184, 186; and that no written criteria
+are made available to him so that he will know what behavior is            13 Conner claims, for example, in an affidavit dated Decem-
+required in order to move to less restrictive environments, see id.  ber 26, 1989, that Defendants Oku and Shohet "are liable for
+at 187. In his affidavit of December 26, 1989, he alleges that,      depriving [him] of adequate exercise and recreation when they
+while he is confined in the most restrictive prison environments,
+he is denied periodic reviews of his confinement; allowed inad-      subject [him] to 22 hours of punitive isolation." Assuming with-
+equate exercise time; and denied permission both to receive
+newspaper articles, brochures, books, and magazines through          out deciding that twenty-two hours of punitive isolation consti-
+the mail, and to contest the rulings of those who censor his mail.   tutes cruel and unusual! punishment, Conner's contention lacks
+                                                                     the specificity necessary to defeat a motion for summary judg-
+                                                                     ment.
+                                     Al8                                                           Al9
+
+result of the accumulated warnings. Conner has not set             AFFIRMED IN PART, REVERSED IN PART, AND
+forth any facts that indicate that the warnings he received   REMANDED.
+resulted in any punishment. Therefore, he has failed to
+support this claim.
+
+       1V. Retaliation Claim
+
+     Finally, Conner contends that the defendants have
+retaliated against him for his activities as a jailhouse
+lawyer. However, none of his allegations is supported by
+an affidavit or verified complaint. Summary judgment on
+this issue is therefore affirmed.
+
+B. Conner's Cross-Motion for Summary Judgment
+     The foregoing discussion makes clear that the only
+
+issues on which Conner might be entitled to summary
+judgment are disciplinary segregation and prayer in Ara-
+bic. The state has presented genuine issues of material
+fact as to both these claims. The district court's denial of
+Conner's cross-motion for summary judgment is there-
+fore affirmed.
+
+     The district court's grant of the defendants' motion
+for summary judgment is reversed on the following
+issues: the disciplinary segregation claim as to Defendant
+Sandin; and the prayer claim as to Defendants Paaga and
+Lee. Summary judgment is upheld on all other claims and
+as to all other defendants. The district court's denial of
+Conner's motion for summary judgment is affirmed.
+                  A20                                                          A21
+          APPENDIX "B"
+                                                                              APPENDIX "C"
+JUDGMENT                                                  IN THE UNITED STATES DISTRICT COURT
+
+UNITED STATES COURT OF APPEALS                                    FOR THE DISTRICT OF HAWAII
+        FOR THE NINTH CIRCUIT
+                                                          DEMONT R.D. CONNER,             )  CIV. NO.
+
+                                                                              Plaintiff,     88-0169 ACK
+
+                                 NO. 91-16704             THEODORE    VS.   et al.,       )
+                      CT/AG#: CV-88-00169-ACK
+DEMONT R.D. CONNER                                                  SAKAI,                )
+      Plaintiff - Appellant
+  v.                                                                        Defendants.   `
+                                                                                          )
+THEODORE SAKAI, et. al.
+                                                            ORDER ADOPTING MAGISTRATE'S REPORT AND
+     Defendant - Appellee                                    RECOMMENDATION GRANTING DEFENDANTS'
+
+                         (MANDATE ISSUED                             MOTION FOR SUMMARY JUDGMENT
+                              Mar. 25, 1994)
+                                                                             (Filed Sept. 30, 1991)
+       APPEAL FROM the United States District Court for
+                                                          I. INTRODUCTION
+the District of Hawaii (Honolulu).
+                                                               On May 20, 1991, the Magistrate entered a report and
+     THIS CAUSE came on to be heard on the Transcript of  recommendation (R & R) wherein it was recommended
+the Record from the United States District Court for the  that this court grant defendants' motion for summary
+District of Hawaii (Honolulu) and was duly submitted.     judgment, deny plaintiff's motion for summary judg-
+                                                          ment, and dismiss the complaint with prejudice. On June
+     ON CONSIDERATION WHEREOF, It is now here             18, 1991, plaintiff filed his objections to the R & R.
+ordered and adjudged by this Court, that the judgment of
+the said District Court in this cause be, and hereby is   For the following reasons, the court adopts the R & R.
+AFFIRMED in part, REVERSED in part, and
+REMA.NDED.                                                II. FACTS
+
+Filed and entered February 2, 1994                             Plaintiff is an inmate at Halawa High Security Facil-
+                                                          ity (HHSF). Plaintiff filed a pro se complaint in 1986
+                                                          alleging violations of his rights under 28 U.S.C. § 1983.
+                                      A22                                                           A23
+
+The complaint was thereafter amended twice, the last           (7) defendants violated plaintiff's free exercise rights
+amendment occurring on September 8, 1989.                              to religion;
+
+      In the current amended complaint, plaintiff alleges      (8) defendants' "blanket policy" regarding items plain-
+that his constitutional rights were being violated under              tiff could receive through the mail violated plain-
+28 U.S.C. §§ 1983, 1985(3), and 1986. Plaintiff seeks a                tiff's rights;
+declaratory judgment, injunctive relief, and money dam-
+ages. All defendants are officials of the state's prison       (9) defendants violated plaintiff's freedom of associa-
+system and are sued in their official and individual                   tion and expression rights by way of defendants'
+capacities.
+                                                                      "publishers only" rule, and defendants' rule requir-
+      The complaint alleges violations of plaintiff's First,          ing plaintiff to first donate the publication to the
+Fourth, Fifth, Sixth, Eighth, and Fourteenth Amendment
+rights. In addition, the complaint alleges that plaintiff's            state;
+rights under the Hawaii state constitution were violated.
+In particular, plaintiff makes the following claims in his     (10) defendants subjected plaintiff to excessively long
+complaint:                                                            periods of punitive confinement in dehumanizing
+                                                                      "strip-cells;"
+(1) defendants impermissibly subjected plaintiff to a
+        behavior modification program that was invalid         (11) defendants subjected plaintiff to "double-celling" in
+         under state law;                                              inadequately lighted cells for 17 hours per day;
+
+(2) defendants subjected plaintiff to punitive isolation       (12) defendants subjected plaintiff to retribution for his
+        pursuant to the behavior modification program                  activities as a jail-house lawyer;
+        without due process of law, and in violation of state
+        law;                                                   (13) defendant's "English-only" rule violated plaintiff's
+                                                                       rights to freedom of expression, speech, religion
+(3) defendants denied plaintiff adequate exercise and                  and association;
+        recreation in violation of state law and the Eighth
+                                                               (14) defendants violated plaintiff's Eighth Amendment
+         Amendment;                                                    rights by denying him psychological and psychi-
+                                                                       atric treatment while he was in the behavior mod-
+(4) defendants' strip-search policy violated plaintiff's               ification program; and
+        right to privacy;
+                                                               (15) defendants denied plaintiff his state-created liberty
+(5) defendants used "#106 Minor Misconduct" forms                      interests in participating in educational, vocational,
+        against plaintiff in violation of due process of law;          and counseling programs that are mandated by
+                                                                       state law.
+(6) defendants were deliberately indifferent to plain-
+        tiff's (and all inmates') medical needs;                     Defendants moved for summary judgment. Plaintiff
+                                                               filed a cross-motion for summary judgment. The Magis-
+                                                               trate's R & R recommended that defendants' motion be
+                                         A24                                                         A25
+
+granted, and that plaintiff's motion be denied. In addi-                    1. Order Partially Granting Extension to File
+tion, the Magistrate recommended that the complaint be                            Objections
+dismissed with prejudice.
+                                                                      Plaintiff objects to the order partially granting plain-
+Ill. DISCUSSION                                                 tiff an extension of time to file his objections. Plaintiff
+                                                                complains that the court should have granted plaintiff
+        A. Standard of Review                                   more time in which to have objected. Plaintiff bases this
+                                                                assertion on the grounds that he needed additional time
+      Any party may file objections to a R & R by filing the    because of his limited access to the law library. In addi-
+same within 10 days of service of the R & R. Local Rule         tion, plaintiff asserts that he needed additional time
+404-2. This court "shall make a de novo determination of        because of time pressures exerted by other cases he has
+those portions of the [R & R] to which objection is             filed. Plaintiff also claims he needed additional time
+made. ... " Id. (bold in original).                             because of his pro se status and lack of education.
+
+        B. The Merits                                                The court rejects plaintiff's contention that it should
+                                                                have granted him additional time. The Local Rules of this
+      The R & R was served on May 21, 1991. Pursuant to         court and the United States Code explicitly state that
+Fed.R.Civ.P. 6(a), the parties had until June 5, 1991 to file   objections are to be served within 10 days of the R & R. 28
+objections. Defendants filed no objections. Plaintiff filed a   U.S.C. § 636(b)(1)(C); Local Rule 404-2. Thus, the court
+motion to extend the time within which to file objections.      was under no obligation to extend that time period.
+The motion was filed May 31, 1991 and requested that            Nonetheless, the court gratuitously extended the dead-
+plaintiff be granted leave to "submit his objections with-      line. In the motion requesting additional time, plaintiff's
+in... the week of June 10, 1991." This court partially          only stated reason for the request was the fact that he has
+granted the motion, giving plaintiff until June 10, 1991 to     many lawsuits he has filed which also require his atten-
+file his objections. Plaintiff's objections were filed on June  tion. Under the circumstances, the court's extension was
+18, 1991, although the objections were signed and dated         not unreasonable. Furthermore, the court notes that
+by plaintiff on June 6, 1991.                                   plaintiff's contention that his lack of education and his
+                                                                status as a non-lawyer hindered his ability to respond
+     The court is somewhat puzzled by the late filing date      quickly is unconvincing. Plaintiff has amply demon-
+of plaintiff's objections in that they are dated some 12        strated, through his various lawsuits filed in this district,
+days beforehand. Nonetheless, the court will consider the       that he is very familiar with the legal system and pos-
+objections as timely filed because of the latitude that         sesses enough education to confidently and quickly
+must be afforded pro se litigants.                              maneuver within the system.
+                                          A26                                                       A27
+
+             2. The R&R                                        the "invalid rule" violates his rights. For the following
+                                                               reasons, the court rejects this contention.
+       Plaintiff acknowledges that the R & R is correct inso-
+ far as it found that he conceded his claims relating to            The SMCP was instituted in 1981. See Shohet's affi-
+                                                               davit (attached as exhibit E to plaintiff's opposition to
+strip-searches and mechanical restraints. Objections, at       defendants' motion for summary judgment filed January
+ 12. Moreover, plaintiff concedes that he does not assert a    8, 1990). It is an inmate behavior program wherein
+                                                               inmates demonstrating satisfactory behavior gain greater
+claim for his "placement" in HHSF's "Segregation and           privileges and advance to more favorable levels of the
+Maximum Control Program" (SMCP). Therefore, with the           program. Id. SMCP was "geared to the security needs of a
+exception of the above-mentioned issues (strip-searches,       high security facility," ie, HHSF. Id. 7 4, at 2. SMCP was
+mechanical restraints, and any claim that can be con-          not approved by either the director of the department of
+strued as a claim of violation of rights relating to plain-    social services and housing, or the governor of the state
+tiff's placement in SMCP) the court will proceed to
+address each issue raised by the R & R.                        of Hawaii.
+
+                  a. Summary Judgment Standard                       Plaintiff claims the SMCP is an invalid rule because
+                                                               SMCP governs the HHSF facility, and neither the director
+      Plaintiff objects to the Magistrate's summary judg-      of the Department and Social Services and Housing
+
+ment standard on page 3 of the R & R. This court has           (DSSH) nor the governor approved SMCP. This, plaintiff
+
+reviewed the standard on page 3 of the R & R and               contends was a violation of DSSH Rule 17-200-1, Title 17.
+
+concludes that though it is less descriptive than the court          DSSH Rule 17-200-1 provides:
+
+would prefer, it is accurate and adequate. Therefore, the            This subtitle shall govern the corrections divi-
+court rejects plaintiff's objection on this point.                   sion of the department of social services and
+                                                                     housing, State of Hawaii. Each individual facility
+                     b. Invalid Rule
+                                                                     may adopt rules governing its unique situation
+      Plaintiff objects to the Magistrate's characterization
+of plaintiff's claims relating to placement in the behavior          pursuant to Chapter 353,['] subject to the approval
+
+control program, SMCP. Plaintiff states that he does not              1 The version of HR.S. § 353-3 in effect in 1981 when the
+
+contest his placement in the program. Rather, plaintiff        SMCP was implemented provided that
+contends SMCP is an invalid "rule" to which he should                 [t]he director of social services and housing... may
+not have been subjected. Moreover, plaintiff claims that              make and from time to time alter or amend rules
+                                                                      relating to the conduct and management of [the state
+                                                                       correctional] facilities and the care, control treatment,
+                                                                      furlough and discipline of persons committed to his
+                                      A28                                                                A29
+
+       of the director of the department of social services      Rule 17-200-1 (copy attached to plaintiff's opposition to
+       and housing and the governor. However, suppres-           defendant's motion filed January 8, 1990). Thus, SMCP,
+       sion of these rules shall be permitted only where         when it was implemented, was not subject to Rule
+      necessary due to the unique characteristics of             17-100-1 because Rule 17-200-1 did not exist then. There-
+       the facility.                                             fore, Rule 17-200-1 is inapplicable to SMCP. SMCP is not
+                                                                 an invalid rule.
+(emphasis added).
+                                                                       Plaintiff also argues that SMCP is invalid because it
+      SMCP affects the individual "facility" of HHSF. See        fails to comply to the Hawaii Administrative Procedures
+Shohet's affidavit ¥ 4, at 2 (attached as exhibit E to           Act (HAPA). Plaintiff appears to concede that HAPA is
+plaintiff's opposition to defendants' motion for summary         inapplicable to regulations concerning only the internal
+judgment filed January 8, 1990). Moreover, SMCP was not          management of HHSF. See objections, at 5; Tai v. Chang, 58
+approved by the director or the governor. Plaintiff cites to     Haw. 386, 387 (1977) ("Under HAPA, the term rule is
+Wilder v. Tanouye, 753 P.2d 816 (Haw.App. 1988) to indi-         defined to exclude "regulations concerning only the inter-
+cate that SMCP is an invalid rule.?                              nal management of an agency."). However, plaintiff
+                                                                 appears to contend that SMCP is not an internal manage-
+     Wilder held that Rule 17-200-1 "applie[s] only to rules     ment regulation. Plaintiff cites to the "Inmate Guidelines"
+                                                                 as an example of internal management regulations
+governing a `facility'. ... " 753 P.2d at 824. As noted          exempt from HAPA, and argues that the SMCP is vastly
+above, SMCP governs HHSF. Wilder also held that former           different from the guidelines, and therefore, not an inter-
+                                                                 nal management regulation.
+H.R.S. § 353-1.2 provided for the establishment of a high
+                                                                       The court rejects this argument. The court has reviewed
+security correctional facility. Id. Presumably, HHSF is that     plaintiff's exhibits regarding SMCP and concludes that
+facility. Rule 17-200-1 would indicate that SMCP should          SMCP is an internal management regulation. SMCP is
+                                                                 "geared to the security needs of a high security facility" such
+have been approved by the director and governor in               as HHSF. Shohet affidavit. Security needs are:
+
+order to be valid.                                                     matters relating to the operation and manage-
+                                                                       ment of state and county penal . . . inst-
+      However, this is not the case. Rule 17-200-1 became              itutions . . . [and are] primarily a matter of
+effective on October 6, 1983 while SMCP was imple-                      "internal management" [thus] excluded
+mented in 1981. Compare Shohet affidavit and Title 17,                  from .. . [HAPA].
+
+      care, which rules must be approved by the gover-           House Standing Committee Report No. 8 (1961).
+       nor. .
+     2 Plaintiff does not attempt to argue that H.R.S. § 353-3
+renders SMCP an invalid rule. Such argument would be merit-
+less because SMCP is applied only to HHSF, and the require-
+ment of 353-3 apply only to rules affecting "correctional
+facilities .. . on a statewide basis." Wilder, 752 P.2d at 824.
+                                          A30                                                             A31
+
+      Since SMCP is not an invalid rule, all of plaintiff's       resulted in his conviction for attempted escape in the
+
+objections and claims based on his contention that he has         second degree on April 4, 1984. In addition to attempting
+a state-created liberty interest in being free from an
+invalid rule fail. There is no "invalid" rule upon which to       escape, Plaintiff has committed such misconduct as
+base the state-created liberty interest.%                         assault, attempted assault on other inmates, and harass-
+                                                                  ment and abuse of staff personnel. As a result of his
+                      c. Cruel and Unusual Punishment
+                                                                  predicated behavior, Plaintiff, considered a high custodial
+      Plaintiff objects to the Magistrate's finding that plain-
+tiff's placement in HHSF was not cruel and unusual                risk inmate, is incarcerated at HHSF which is, of neces-
+                                                                  sity, the most restrictive prison in the state system. Plain-
+punishment. Plaintiff claims this issue was not raised by         tiff does not dispute or contest the reasons necessitating
+                                                                  his actual transfer to HHSF.4
+either party in their motions for summary judgment.
+Alternatively, plaintiff claims that placement in HHSF is               Based on the foregoing, the court rejects plaintiff's
+punishment and cites to an opinion by Judge Ezra for              claim that placement in HHSF is punishment within the
+                                                                  meaning of the Eighth Amendment.
+support. See Sims v. Falk, Civil No. 88-348 DAE (Jan. 4,
+1989).                                                                                 d. Inmate Communication
+
+      Plaintiff's first objection that the issue was not raised         Plaintiff objects to the R & R insofar as it recom-
+by the parties is without merit. Defendants squarely              mends summary judgment in favor of defendants on the
+raised the issue in their motion for summary judgment.            issue of the "English only" rule. Plaintiff claims it
+See defendants' motion, at 7-8.                                   infringes on his free exercise of religion rights.
+
+      In addition, as the R & R correctly notes, plaintiff's            The rule prohibits inmates from conversing with each
+placement within HHSF is reasonably related to the                other in any language except English. Defendants con-
+prison system's legitimate goal of maintaining institu-           tend that the rule is necessary to prevent entry of contra-
+tional security and discipline. HHSF was designed to
+house inmates who attempted escape attempts, assaults,            band, and checking for rumors of plans of escape,
+etc. Plaintiff was at HHSF for such reasons. Prior to his
+incarceration at HHSF, plaintiff attempted to escape. This              4 Plaintiff concedes and admits, "Plaintiff does not chal-
+                                                                  lenge his transfer and placement `at and within the Halawa
+    m The court assumes but expressly notes that it does not      High Security Facility,' as it is obviously apparent from Plain-
+decide whether plaintiff has a state-created liberty interest in  tiff's institutional filed and from his criminal convictions that
+being free from an invalid rule under the Hawaii statutes.        the high security facility is a proper place for inmates who pose
+                                                                  such a threat to the community and to the prison environment."
+                                                                  Opposition Memorandum at 4.
+                                     A32                                                             A33
+
+extortion, or of fights within the facility. Allowing such           This court finds that the regulation prohibiting Plain-
+                                                               tiff from praying aloud in Arabic together with another
+communication, defendants contend, would undermine             inmate is valid as it is "reasonably related to legitimate
+                                                               penological interests." Being enforced for reasons per-
+prison security.                                               taining to security interests, the regulation does not arbi-
+                                                               trarily infringe upon Plaintiff's constitutional rights.
+      The rule states that "[iJnmates shall communicate in     Moreover, in Johnson v. Moore, 926 F.2d 921, 923 (9th Cir.
+the English language only; including telephone calls,          1991), the Ninth Circuit held that "[p]risons need only
+visits, and letters."                                          provide inmates a `reasonable opportunity' to worship in
+                                                               accord with their conscience."
+     The U.S. Supreme Court has repeatedly held that
+prison regulations alleged to infringe constitutional                The regulation does not prohibit plaintiff from indi-
+rights are judged under a "reasonableness" test less           vidually praying aloud in Arabic, or from praying with
+restrictive than that ordinarily applied to alleged            another inmate in English. Plaintiff has not asserted that
+infringements of fundamental constitutional rights.            praying aloud together with another individual in Arabic
+O'Lone v. Estate of Shabazz, 482 U.S. 340, 347, 107 S.Ct.      is a necessary and fundamental tenet of his religion.
+2400, 2404 (1987); Turner v. Safley, 482 U.S. 78, 86-87, 107   Cinda Sandin, Residency Section Supervisor at Halawa
+S.Ct. 2254, 2260-2261 (1987); Bell v. Wolfish, 441 U.S. 520,   High Security Facility, attested that "Conner may pray
+562, 99 S.Ct. 1861, 1886 (1979). When a prison regulation      quietly as required by his Muslim faith." (See affidavit of
+impinges on inmates' constitutional rights, the regulation     Cinda Sandin attached to Defendants' Motion for Sum-
+is valid if it is "reasoanbly related to legitimate penologi-  mary Judgment filed November 20, 1989 at 4).
+cal interests." O'Lone, 482 U.S. at 347, 107 S.Ct. at 2404,
+(citing Turner v. Safley, 482 U.S. at 89, 107 S.Ct. at 2261).       Thus, the "English-only" rule affords plaintiff a rea-
+Moreover, the Supreme Court in O'Lone further articu-          sonable opportunity to worship pursuant to the Johnson
+lated that a separate burden should not be placed on state     test.
+prison officials to prove that "no reasonable method exis-
+ted by which prisoners' religious rights could be accom-            Plaintiff cites to the four-part test for determining
+modated without creating bona fide security problems."         whether a prison regulation is reasonably related to a
+Id., 482 U.S. at 351, 107 S.Ct. at 2405. Although the avail-   legitimate penological interest in Turner v. Safley, 482 U.S.
+ability of alternatives is relevant to the reasonableness      78, 89-90, 107 S.Ct. 2254, 2261-62 (1987) for support of his
+inquiry, the Supreme Court rejected the notion that            contention that the "English-only" violates his rights to
+"prison officials have to set up every conceivable alterna-    freedom of religion. The elements of the test are:
+tive method of accommodating the claimant's constitu-
+tional complaint." Id.
+                                      A34                                                             A35
+
+(1) whether there is a valid, rational connection between              e. Retaliation Claim
+       the regulation and a legitimate and neutral govern-
+        ment interest;                                                 Plaintiff objects to the R & R insofar as it recom-
+                                                                 mends granting defendants' motion and insofar as it
+(2) whether there are alternative means of exercising the        holds that plaintiff's retaliation claim is vague and con-
+      asserted constitutional right that remain open to          clusory. Plaintiff claims he was retaliated against because
+       inmates;                                                  of his status as a "jail-house lawyer." Plaintiff claims that
+                                                                 his First Amendment rights are implicated. Objections, at
+(3) whether and the extent to which the accommodation            20 (citing Bridges v. Russell, 757 F.2d 1155 (11th Cir. 1985)).
+      of the asserted right will impact the prison staff,        The gist of plaintiff's claim appears to be that defendants
+       inmates' liberty and prison resources; and                retaliate against plaintiff because plaintiff exercises his
+                                                                 freedom of speech rights by being a jail-house lawyer.
+(4) whether the regulation represents an exaggerated             Plaintiff frames the issues as follows: Were "the actions of
+      response to prison concerns in light of the ready          the named defendants done for the purpose of retaliating
+      availability of alternatives.                              against plaintiff because of his choice to exercise his right
+                                                                 to seek redress from government?" Id.
+Johnson, 926 F.2d at 924 (citing Turner v. Safley, 482 U.S. 78,
+89-90, 107 S.Ct. 2254, 2261-62 (1987)). However, as                    In connection with this claim, plaintiff takes excep-
+pointed out in Iron Eyes v. Henry, 907 F.2d 810, 813 (8th        tion to the Magistrate's finding that plaintiff's claim that
+Cir. 1990), "[bJefore the Turner factors are applied to a        he "held a virtual positive behavior since his arrival" at
+prisoner's free exercise claim, the inmate must first estab-     HHSF was false. Plaintiff points to his record at HHSF
+lish the existence of a sincerely held religious belief, and     which indicates that he was cited for negative behavior
+that the challenged regulation infringes upon that belief."      only once. However, plaintiff, in his affidavit attached to
+                                                                 his motion opposing defendants' motion states that he
+      As noted above, plaintiff has not established that         has accumulated "a collection of misconduct" while at
+praying in Arabic infringes upon the practice of his Mus-        HHSF. Conner affidavit { 21.
+lim beliefs. Plaintiff is free to pray individually in Arabic,
+or jointly with other inmates in English. Plaintiff has not            Plaintiff claims that his record demonstrates good
+established that praying in Arabic is a tenet of the Mus-        behavior. Even so, plaintiff claims he was denied
+lim religion, and therefore such a prohibition does not          advancement to more favorable phases of SMCP because
+infringe upon his beliefs.                                       of his jail-house lawyering. Plaintiff "believes he would be
+                                                                 able to show that his record in H.H.S.F. . . . was better than
+     The court rejects plaintiff's objection to the R & R on     those inmates who were advanced to the next higher
+this issue.                                                      level of" SMCP. Objection's [sic], at 24. However, plaintiff
+                                       A36                                                              A37
+  provided no evidence substantiating this claim. He con-
+ cedes that at this time he is not prepared to defend             that he had insufficient time to prepare an adequate
+ defendants' motion on this issue. Id.
+                                                                  objection.
+       Plaintiff attributes this dearth of evidence to the fact
+ that he allegedly received no discovery. Plaintiff also                As noted previously, the court rejects plaintiff's claim
+ requests additional time for discovery based on the "com-        regarding the amount of time this court granted plaintiff
+ plexity" of this issue. However, the record indicates oth-       in which to file his objections. Therefore, this reason for
+ erwise. Defendants were ordered by the Magistrate on             failing to prepare a substantive objection to the remaining
+ November 7, 1989 to file responses to plaintiff's inter-        issues presented in the R & R is rejected. Moreover, upon
+ rogatories by November 27, 1989. Defendants' motion for         review of the remaining issues, the court adopts the R &
+ summary judgment was not filed until November 20,               R and rejects the catch-all objection.
+ 1989. After defendants' filing, the record is devoid of
+ evidence indicating that plaintiff requested or was denied            The court notes that with respect to the publishers-
+ discovery. Plaintiff has produced no evidence indicating        only rule, that such a rule is not per se reasonable
+ that he was deprived of discovery.
+                                                                 because of Bell v. Wolfish, 441 U.S. 520 (1979), which held
+      The court rejects plaintiff's objections. Plaintiff filed  that such rules were constitutional. See Johnson, 926 F.2d
+the lawsuit on March 14, 1988. Defendants' motion for
+summary judgment was filed on November 20, 1989.                 at 923-25. However, in this case, the evidence indicates
+Plaintiff had until January 2, 1990 to respond to the
+motion. There was an abundance of time for plaintiff to          that plaintiff was entitled to order "hard-cover" books
+conduct discovery. As plaintiff admits, he has provided
+no evidence supporting his retaliation claims. Therefore,        from publishers as well as from the library, and that the
+the court adopts the Magistrate's recommendation and             plaintiff is not required to donate the books to the state.
+grants summary judgment to defendants on this issue.             Plaintiff has provided no evidence to prove he is being
+                                                                 deprived of literature.
+      f. "Every Other Issue"
+                                                                       In addition, the court adds the following regarding
+      Plaintiff includes a "catch-all" provision where he        the R & R's discussion of sovereign immunity. The defen-
+                                                                 dants are not immune under the Eleventh Amendment to
+objects to every remaining issue that the Magistrate rec-        the extent plaintiff seeks to sue them in their official
+ommends be decided in defendants' favor. Plaintiff pro-
+vides no support for this objection. Rather, he complains        capacities for prospective injunctive relief
+
+                                                                       In all other respects the court adopts the R & R, as
+                                                                 plaintiff either has not produced evidence to substantiate
+                                                                 such claims or has failed to argue the merits.
+                                     A38                                                   A39
+
+      g. Issues Not raised in Summary Judgment                                   APPENDIX "D"
+      Plaintiff claims that there are other claims in this         UNITED STATES DISTRICT COURT
+lawsuit that have not been disposed of by way of the
+motions. The court rejects this argument. Plaintiff was                     DISTRICT OF HAWAII
+put on notice by defendants' motion that defendants
+sought to dispose of the entire lawsuit. For example,              DEMONT RAPAHEL [sic]         JUDGMENT
+defendants stated that they sought "Summary Judgment               DARWIN CONNER                IN A CIVIL CASE
+in their favor in the above-entitled action on the ground
+that defendants are entitled to judgment in their favor as                 V.                   CASE NUMBER:
+a matter of law." Defendants, Motion, cover page
+(emphasis added); id. at 20 ("The complaint should                 T HEODORE SAKAI, et al       CIVIL
+accordingly be dismissed.").                                                                    88-00169 ACK
+
+IV. CONCLUSION                                                                   (Filed Sept. 30, 1991)
+      Based upon the foregoing reasons, this court adopts
+                                                                   Jury Verdict. This action came before the Court for a
+the R & R granting defendants' motion for summary                  trial by jury. The issues have been tried and the jury
+judgment, denying plaintiff's cross motion for summary             has rendered its verdict.
+judgment, and dismissing the complaint with prejudice.
+                                                                   |>< Decision by Court. This action came to trial or hear-
+       DATED: Honolulu, Hawaii, SEP 30 1991.                            ing before the Court. The issues have been tried or
+                                                                        heard and a decision has been rendered.
+                              /s/ Alan C. Kay
+                                     United States District Judge        IT IS ORDERED AND ADJUDGED
+                                                                   that the court adopts the Report and Recommendation
+DeMont R.D Conner v. Theodore Sakai, et al.; Civil No.             granting Defendants' motion for summary judgment,
+88-0169 ACK; Order Adopting Magistrate's Report and Rec-           denying Plaintiff's cross motion for summary judgment,
+ommendation Granting Defendants' Motion for Summary                and dismissing the complaint with prejudice.
+Judgment.
+                                                                   September 30, 1991      /s/ Walter A.Y.H. Chinn
+                                                                   Date                            Clerk WALTER
+                                                                                                     A.Y.H. CHINN
+                                                                   cc: all parties
+                                                                                           (By) Deputy Clerk
+A40                                                                 A4l
+
+                 APPENDIX "E"                                       APPENDIX "F"
+          NOT FOR PUBLICATION
+UNITED STATES COURT OF APPEALS                              (Seal)
+        FOR THE NINTH CIRCUIT
+                                                             STATE OF HAWAII
+DeMont R.D. Conner,               ) No. 91-16704
+                                                            DEPARTMENT OF
+           Plaintiff-Appellant,       pod No. 88-0169-      SOCIAL SERVICES
+                                                            AND HOUSING
+   "                              ) ORDER                   TITLE 17, ADMINISTRATIVE
+                                                            RULES OF THE
+Theodore Sakai et al.,                (Filed                CORRECTIONS DIVISION
+
+           Defendants-Appellees.  ) Feb. 25, 1994           INMATE HANDBOOK
+                                  )                         OCTOBER 1983
+
+Before: BROWNING, NORRIS, AND REINHARDT, Cir-                                   [MATERIAL DELETED]
+cuit Judges
+                                                                                         SUBCHAPTER 2
+      The panel has voted to deny the petition for rehear-                    THE ADJUSTMENT PROCESS
+ing and to reject the suggestion for rehearing en banc.           §17-201-4 General provisions. The adjustment process
+                                                            tailors punishment for specific rule violations to the indi-
+     The full court was advised of the suggestion for       vidual's training and treatment needs while maintaining
+rehearing en banc and no active judge has requested a       facility order and ensuring respect for rules and the
+vote on whether to rehear the matter en banc. Fed. R.       rights of others. [Ef ( f. Imp O : ct. HR 6 S , 19 § 8 3 3 5 ] 3-3 ( ) Auth: HRS §353-3)
+App. P. 35.
+                                                                 §17-201-5 Rights, privileges, and responsibilities. (a) The
+     The petition for rehearing is denied and the sugges-   rights and privileges of all inmates and wards shall be as
+tion for rehearing en banc is rejected.                     follows:
+
+                                                                  (1) You may expect that as a human being you
+                                                                          will be treated respectfully, impartially,
+                                                                         and fairly by all personnel.
+
+                                                                 (2) You shall be informed of the rules, pro-
+                                                                         cedures, a o n p d era s t c i h o e n du o l f es the co i n n c s e ti r t n u i t n io g n. the
+    A42                                                                   A43
+
+(3) You have the right to freedom of religious           (2) You have the responsibility to know and
+        affiliation, and voluntary religious wor-                abide by the rules, procedures, and sched-
+        ship.                                                    ules concerning the operation of the insti-
+                                                                 tution.
+;'  ;'
+(4) You will be provided health care which               (3) You have the responsibility to recognize,
+                                                                 respect, and not interfere with the rights
+includes nutritious meals, proper bedding                        of others.
+
+and clothing, a laundry schedule for                     (4) It is your responsibility to not waste food,
+                                                                 to follow the laundry and shower sched-
+cleanliness of the same, an opportunity to                      ule, to maintain neat and clean living
+
+agp regularly, ee ae ge                                         quarters, and to seek medical and dental
+
+resPorro a t o:nf "sgese tures                                   care as you may need it.
+
+SS eee                                                   (5) It is your responsibility to conduct your-
+
+(5) You may reasonably correspond and visit
+
+        with family members, friends, and other
+
+persons according to the rules and sched-
+
+       to security, order, or correctional program-           pass contraband, and to not violate the
+
+        TURE.                                                 law through your correspondence.
+
+(6) You may have access to the courts by cor-            (6) You have the responsibility to present to
+
+        respondence on matters such as the legal-                the court honestly and fairly your peti-
+
+       ity of your conviction, pending criminal                 tions, questions, and problems.
+
+        cases, or the conditions of your confine-        (7)     ,  your            --    to seek  and     -
+                                                              Itis        responsibility                utilize
+           ment.
+                                                              reading materials for personal benefit,
+(7) You may utilize reading material for edu-
+                                                              without depriving others of their equal
+        cational purposes and for your own enjoy-
+                                                              right to the use of this material.
+         ment.
+                                                         (8) You have the responsibility to take advar-
+(8) You have the right to participate in coun-
+        seling, education, vocational training,                  tage of activities which may help you live
+        employment, and other programs as far as                 a successful and law abiding life within
+        resources are available and in keeping
+        with your interests, needs, and abilities.               the institution and in the community. You
+                                                                will be expected to abide by the regula-
+      (b) The responsibilities of all inmates and wards          tions governing the use of such activities.
+
+shall be as follows:                                             [Eff. Oct. 6, 1983] (Auth: HRS §353-3 (Imp:
+
+                                                               HRS §353-3)
+
+(1) You have the responsibility to treat others               §17-201-6 Prohibited acts within institutions of the divi-
+        respectfully, impartially, and fairly.
+                                                         sion; greatest misconduct category. (a) Acts constituting mis-
+
+                                                         conduct of the greatest category shall be as follows:
+                                    A44                                                      A45
+
+  (1) Sexual assault.                                             of the performance of a correctional func-
+ (2) Killing.                                                     tion by a public servant.
+ (3) Assaulting any person, with or without a
+                                                         (14) Any lesser and reasonably included
+          dangerous instrument, causing bodily
+                                                                  offense of the acts in paragraph (1) to (13).
+          injury.
+                                                         (15) Any other criminal act which the Hawaii
+ (4) The use of force on or threats to a correc-
+         tional worker or the worker's family.                    Penal Code classifies as a class A felony.
+                                                         (b) Sanctions which may be imposed as punishment
+ (5) Escape:
+                                                   for acts listed in subsection (a) shall include one or more
+          (A) From closed confinement, with or     of the following:
+                  without threat of violence;
+                                                         (1) Disciplinary segregation up to sixty days.
+         (B) From an open facility or program           (2) Any other sanction other than disciplinary
+                 involving the use of violence or
+                threat of violence.                                segregation. [Eff. Oct. 6, 1983] (Auth: HRS
+
+ (6) Setting a fire.                                             §353-3) (Imp: HRS §353-3)
+(7) Destroying, altering, or damaging govern-           §17-201-7 Prohibited acts; high misconduct category. (a)
+                                                   Acts constituting misconduct of high category shall be as
+         ment property or the property of another
+         person resulting in damage of $1,000 or   follows:
+        more, including irreplaceable documents.
+(8) Adulteration of any food or drink which              (1) Fighting with another person.
+        does or could result in serious bodily           (2) Threatening another person, other than a
+        injury or death.
+(9) Possession or introduction of an explosive                   correctional worker, with bodily harm, or
+                                                                 with any offense against the other person
+         or ammunition.                                         or the other person's property.
+
+(10) Possession or introduction of any firearm,         (3) Extortion, blackmail, protection: demand-
+        weapon, sharpened instrument, knife, or
+        other dangerous instrument.                             ing or receiving anything of value in
+                                                                return for protection against others, to
+(11) Rioting.                                                   avoid bodily harm, or under threat of
+(12) Encouraging others to riot.                                informing.
+(13) The use of force or violence resulting in
+                                                       (4) Assaulting any person without weapon or
+        the obstruction, hindrance, or impairment
+                                                                dangerous instrument.
+
+                                                       (5) Escape from an open institution or pro-
+
+                                                                gram, conditional release center, or work
+                                    A46                                                         A47
+
+          release furlough which does not involve           (b) Sanctions which may be imposed as punishment
+          the use or threat of violence.
+  (6) Attempting or planning escape.                   for acts listed in subsection (a) shall include one or more
+ (7) Destroying, altering, or damaging govern-
+          ment property or the property of another    of the following:
+          person resulting in damages between                (1) Disciplinary segregation up to thirty days.
+                                                             (2) Any other sanction other than disciplinary
+          $500-$999.99.
+                                                                      segregation. [Eff. Oct. 6, 1983] (Auth: HRS
+ (8) Tampering with or blocking any locking
+                                                                    §353-3) (Imp: HRS §353-3)
+          `device.                                          §17-201-8 Prohibited acts; moderate misconduct category.
+                                                      (a) Acts constituting misconduct of moderate category
+ (9) Adulteration of any food or drink which          shall be as follows:
+                                                            (1) Engaging in sexual acts.
+         could or does result in bodily injury or           (2) Making sexual proposals or threats to
+         sickness.
+                                                                    another.
+ (10) Possession of an unauthorized tool.                  (3) Indecent exposure.
+ (11) Possession or introduction or use of any
+                                                            (4) Wearing a disguise or a mask.
+         narcotic paraphernalia, drugs, or intoxi-
+         cants not prescribed for the individual by        (5) Destroying, altering, or damaging govern-
+         the medical staff.                                        ment property or the property of another
+                                                                   person resulting in damages between
+(12) Possession of any staff member's clothing                     $50-$499.99.
+
+         or equipment.                                     (6) Theft.
+                                                           (7) Misuse of authorized medication.
+(13) Encouraging or inciting others to refuse to           (8) Possession of unauthorized money or cur-
+
+         work or to participate in work stoppage.                    rency.
+
+(14) The use of physical interference or obsta-           (9) Loaning of property or anything of value
+                                                                  for profit or increased return.
+        cle resulting in the obstruction, hindrance,
+        or impairment of the performance of a             (10) Possession of anything not authorized for
+        correctional function by a public servant.
+                                                                  retention or receipt by the inmate or ward
+(15) Giving or offering any public official or                    and not issued to the inmate or ward
+                                                                  through regular institutional channels.
+        staff member a bribe.
+(16) Any lesser and reasonably included
+
+        offense of paragraphs (1) to (15).
+
+(17) Any other criminal act which the Hawaii
+
+        Penal Code classifies as a class B felony.
+                                    A48                                                            A49
+
+  (11) Refusing to obey an order of any staff                   (27) Preparing or conducting a gambling pool.
+          member.                                              (28) Possession of gambling paraphernalia.
+                                                               (29) Being unsanitary or untidy; failing to keep
+  (12) Violating a condition of any community
+          release or furlough program.                                  one's person and one's quarters in accor-
+                                                                        dance with posted safety standards.
+  (13) Unexcused absence from work, or other
+          authorized assignment.                               (30) Unauthorized contacts with the public or
+
+ (14) Failing to perform work as instructed by a                        other inmates.
+          staff member.
+                                                               (31) Giving money or anything of value to or
+ (15) Lying or providing false statements, infor-
+         mation, or documents to a staff member,                        accepting money or anything of value
+         government official, or member of the                          from an inmate or ward, a member of the
+         public.                                                        inmate's or ward's family, or friend.
+
+ (16) Counterfeiting, or unauthorized reproduc-                (32) Any lesser and reasonably included
+
+         tion of any document, article, or identi-                      offense of paragraphs (1) to (31).
+         fication, money, security, or official paper.
+ (17) Participating in an unauthorized meeting                (33) Any other criminal act which the Hawaii
+         or gathering.
+                                                                       Penal Code classifies as a class C felony
+(18) Being in an unauthorized area.                                    and misdemeanor.
+(19) Failure to follow safety or sanitary rules.
+(20) Using any equipment or machinery which                     (b) Sanctions which may be imposed as punishment
+
+        is not specifically authorized.                  for acts listed in subsection (a) shall include one or more
+(21) Using any equipment or machinery con-
+                                                        of the following:
+         trary to instructions or posted safety stan-
+                                                              (1) Disciplinary segregation up to fourteen
+        dards.
+                                                                       days.
+(22) Failing to stand count.
+(23) Interfering with the taking count.                       (2) Any sanction other than disciplinary seg-
+(24) Making intoxicants or alcoholic beverage.
+(25) Being intoxicated.                                                regation. [Eff. Oct. 6, 1983] (Auth: HRS
+(26) Gambling.                                                        §353-3) (Imp: HRS §353-3)
+
+                                                              §17-201-9 Prohibited acts; low moderate misconduct cate-
+
+                                                        gory. (a) Acts constituting misconduct of low moderate
+                                                        category shall be as follows:
+
+                                                             (1) Destroying, altering, or damaging govern-
+
+                                                                       ment property, or the property of another
+
+                                                                      person resulting in damage less than $50.
+                                         A50                                                        A51
+
+      (2) Possession of property belonging to                 be any criminal act which the Hawaii Penal Code classi-
+              another person.                                 fies as a violation.
+
+      (3) Possessing unauthorized clothing.                         (b) Sanctions which may be imposed as punishment
+
+      (4) Malingering, feigning an illness.                   for acts in subsection (a) shall include one or more of the
+
+      (5) Using abusive or obscene language to a              following:
+              staff member.
+                                                                    (1) Loss of privileges (i.e., community recre-
+      (6) Smoking where prohibited.
+                                                                            ation; commissary; snacks; cigarettes,
+      (7) Tattooing or self mutilation.
+                                                                           smoking; personal visits - no longer than
+      (8) Unauthorized use of mail or telephone.                           fifteen days; personal correspondence; per-
+                                                                           sonal phone calls for not longer than fifteen
+      (9) Correspondence or conduct with a visitor                         days).
+              in violation of rules.
+                                                                    (2) Impound inmate's personal property.
+      (10) Any lesser and reasonably included
+               offense of paragraphs (1) to (9).                    (3) Extra duty.
+
+      (11) Any other criminal act which the Hawaii                  (4) Reprimand.
+              Penal Code classifies as a petty misde-
+              meanor.                                              (c) Attempting to commit any of the above acts,
+                                                             aiding another person to commit any of the above acts,
+       (12) Harassment of employees.                         and conspiring to commit any of the above acts shall be
+
+      (b) Sanctions which may be imposed as punishment       considered the same as a commission of the act itself. [Eff.
+for acts listed in subsection (a) shall include one or more
+of the following:                                            Oct. 6, 1983] (Auth: HRS §353-3) (Imp: HRS §353-3)
+
+      (1) Disciplinary segregation up to four hours                §17-201-11 Minor misconduct; Adjustments. (a) A
+              in cell.
+                                                             minor rule violation is defined as that which poses no
+       (2) Monetary restitution.                             serious threat to the safety, security, or welfare of the
+                                                             staff, other inmates or wards, or the institution or subjects
+      (3) Any sanction other than disciplinary seg-          the individual to the imposition of lesser penalties. Such
+               regation. [Eff. Oct. 6, 1983] (Auth: HRS      misconduct may be punished by a staff member desig-
+              §353-3) (Imp: HRS §353-3)                      nated by the facility administrator who did not make the
+                                                             charge against the inmate or ward. The staff member
+     §17-201-10 Prohibited acts; minor misconduct category.  shall inform the inmate or ward that the individual is
+(a) Acts constituting misconduct of minor category shall     accused of committing a minor infraction, to which the
+                                                             individual shall be given a brief opportunity to respond,
+                                                             to offer an explanation in defense, or otherwise show that
+                                     A52                                                             A53
+
+the individual is not guilty of the alleged misconduct.        in the capacity of the adjustment committee. [Eff. Oct. 6,
+The following sanctions may be imposed:                        1983] (Auth: HRS §353-3) (Imp: HRS §353-3)
+
+      (1) Loss of privileges; e.g., community recre-                 §17-201-14 Pre-hearing detention. An inmate or ward
+              ation; commissary; snacks, cigarettes;           may be detained for a reasonable time pending an adjust-
+             smoking; personal visits no longer than fif-      ment committee hearing if, in the judgment of the facility
+             teen days; personal correspondence no             administrator, detention is necessary:
+             longer than fifteen days; personal phone
+             calls.                                                   (1) To protect life or limb;
+
+      (2) Impound inmate's or ward's personal prop-                   (2) For the security or good government of the
+                                                                            facility;
+               erty.
+                                                                      (3) To protect the community;
+      (3) Extra duty.
+                                                                     (4) For any other good reason. [Eff. Oct. 6,
+       (4) Reprimand.                                                       1983] (Auth: HRS §353-3) (Imp: HRS
+                                                                            §353-3)
+      (b) The officer shall prepare a brief written report to
+be given to and placed in the individual's file, indicating          §17-201-15 Pre-hearing investigation. (a) A staff mem-
+the infraction, the sanction, and the date or dates the        ber may conduct a complete investigation into the facts of
+sanction is to be or was carried out. JEff. Oct. 6, 1983]      the alleged misconduct to determine if there is probable
+(Auth: HRS §353-3) (Imp: HRS §353-3)                           cause to believe the inmate or ward committed miscon-
+                                                               duct. If the staff member finds sufficient cause to believe
+      §17-201-12 Serious misconduct. A serious rule viola-     that a rule violation has occurred, the adjudication pro-
+tion is defined as that which poses a serious threat to the    cedures may be initiated. Additionally, the pre-hearing
+safety, security, or welfare of the staff, other inmates or    investigator may present the evidence against the inmate
+wards, or the institution and subjects the individual to       or ward to the adjustment committee.
+the imposition of serious penalties such as segregation for
+longer than four hours. Such misconduct shall be pun-                (b) The implementation of a pre-hearing investiga-
+ished through the adjustment committee pursuant to the         tion shall be within the facility administrator's discretion.
+procedures in sections 17-201-13 to 17-201-20. [Eff. Oct. 6,   (Eff. Oct. 6, 1983] (Auth: HRS §353-3) (Imp: HRS §353-3)
+1983] (auth: HRS §353-3) (Imp: HRS §353-3)
+                                                                     §17-201-16 Notice. (a) The inmate or ward shall
+      §17-201-13 Adjustment committee. The adjustment          receive prior notice that an adjustment committee hearing
+committee shall be normally composed of at least three         will be held regarding the individual.
+members who are not actually biased against the inmate
+or ward. A small facility may designate one person to act           (b) Within a reasonable time, not less than twenty-
+                                                               four hours before the hearing, the charged inmate or
+                                        A54                                                                                                                       aia, |
+
+ward shall be served with written notice of the time and                                          A55
+place of the adjustment committee hearing, what the
+specific charges are, including a brief notation of the            (b) The committee shall explain the reason for the
+facts. If the inmate or ward waives the twenty-four hour    hearing and the nature of the charge or charges against
+period, the waiver shall be reduced to writing and signed   the inmate or ward. The inmate or ward shall plead
+by the inmate or ward on the face of the notice.            guilty or not guilty to the charges. Failure to plead shall
+                                                            be accepted as a plea of not guilty.
+      (c) The inmate or ward or counsel substitute shall
+have the opportunity to review all relevant non-confiden-         (1) A plea of guilty eliminates the need to con-
+tial reports of misconduct or a summary of the details                   sider other evidence against the inmate or
+thereof during the period between the notice and the                    ward who shall then be given an oppor-
+hearing.                                                                 tunity to explain the actions or offer evi-
+                                                                         dence in mitigation.
+      (d) The misconduct report or summary shall briefly
+contain the following:                                            (2) A plea of not guilty necessitates the consid-
+                                                                         eration of evidence against the inmate or
+       (1) The specific rule violated;                                    ward.
+
+      (2) The facts supporting the charge;                        (c) The inmate or ward shall be advised of the right
+                                                            to remain silent, but that silence may be used as a permis-
+       (3) Any unusual inmate or ward behavior;             sible inference of guilt. An inmate or ward cannot, how-
+                                                            ever, be compelled to testify against oneself without the
+       (4) Any staff or inmate or ward witnesses; the       granting of immunity and may not be required to waive
+                                                            that immunity.
+             disposition of any physical evidence (e.g.,
+             weapons); and                                        (d) Formal rules of evidence shall not apply. The
+                                                            committee may rely on any form of evidence, documen-
+       (5) Any immediate action taken. [Eff. Oct. 6,        tary, or testimonial, that it believes is reliable.
+              1983] (Auth: HRS §353-3) (Imp: HRS
+              §353-3)                                             (e) Confrontation and cross examination:
+
+     §17-201-17 Hearing. (a) The inmate or ward has a             (1) The inmate or ward may be given the privi-
+right to appear at the adjustment committee hearing,                     lege to confront and cross examine adverse
+except where institutional safety or the good government                 witnesses.
+of the facility would be jeopardized. If the individual is
+excluded from the hearing, reasons shall be given in               (2) The committee may deny confrontation and
+writing. If the inmate or ward declines to attend the                      cross examination and identification of
+hearing, it shall be held regardless of the inmate's or
+ward's absence.                                                         adverse witnesses if in its judgment such a
+                                                                         confrontation would:
+                                        A56                                                      A57
+
+            (A) Subject the witnesses to potential                       (A) Irrelevance;
+                    reprisal;
+                                                                          (B) Lack of necessity;
+            (B) Jeopardize the security or good gov-
+                    ernment of the facility;                             (C) The hazards presented in individual
+                                                                                 cases; or
+            (C) Be unduly hazardous to the facility's
+                    safety or correctional goals; or                    (D) Any other justifiable reason.
+
+            (D) Otherwise reasonably appear to be                 In this regard, the committee may keep the hear-
+                    impractical or unwarranted.                   ing within reasonable limits and refuse the pre-
+                                                                 sentation of evidence or the calling of witnesses,
+      (3) If confrontation and cross examination and              keeping in mind the right of the inmate or ward
+            identification of adverse witnesses are              to be heard. The committee is encouraged to
+            denied, the committee is encouraged to               state the reason for the refusal.
+            enter in the record of the proceeding and
+            make available to the inmate or ward an              (g) An inmate or ward siall be permitted to employ
+            explanation for the denial. Additionally, the  counsel substitute. A counsel substitute shall be a mem-
+             inmate or ward may be given an oral or        ber of the facility staff who did not actively participate in
+             written summary of the confidential evi-      the process by which the individual was brought before
+            dence against the individual and provided      the committee or, in the facility administrator's discre-
+             an opportunity to respond.                    tion, a sufficiently competent inmate or ward designated
+                                                           by the facility staff. [Eff. Oct. 6, 1983] (Auth: HRS §353-3)
+(f) The inmate or ward shall be given an opportunity to    `Imp: HRS §353-3)
+respond to evidence against the inmate or ward, explain
+the alleged misconduct, or offer evidence of mitigation.          §17-201-18 Findings. (a) The inmate o: ward has a
+
+      (1) The inmate or ward should be permitted to        right to be apprised of the findings of the adjustment
+             call witnesses and present evidence of
+             defense as long as it will not be unduly      committee.
+             hazardous to institutional safety or correc-
+              tional goals.                                       (b) Upon completion of the hearing, the committee
+
+      (2) The committee may deny the inmate's or           may take the matter under advisement and render a
+             ward's calling of certain witnesses or pre-   decision based upon evidence presented at the hearing to
+             sentation of certain evidence, after being    which the individual had an opportunity to respond or
+             given an offer of proof as to the nature of   any cumulative evidence which may subsequently come
+             the evidence, for reasons such as:            to light may be used as a permissible inference of guilt,
+                                                           although disciplinary action shall be based upon more
+                                                           than mere silence. A finding of guilt shall be made where:
+                                     A58                                                             A59
+
+       (1) The inmate or ward admits the violation or                       inmate's or ward's confinement at least
+             pleads guilty.                                                   once every thirty days.
+
+      (2) The charge is supported by substantial evi-                 (3) Any other punishment deemed necessary
+             dence.                                                         by the adjustment committee.
+
+      (c) The inmate or ward shall be given a brief written           (b) The committee may also refer the matter to the
+summary of the committee's findings which shall be             program committee for further action. A description of
+entered in the case file. The findings will briefly set forth  the basic living levels of disciplinary confinement shall be
+the evidence relied upon and the reasons for the action        as provided in subsections (c) to (h).
+taken. The findings may properly exclude certain items of
+evidence if necessitated by personal or institutional                 (c) The quarters used for segregation should be
+safety and goals; the fact that evidence has been omitted      ventilated, adequately lighted, and maintained in a sani-
+and the reason or reasons therefor must be set forth in the    tary condition by the inmate or ward at all times. Nor-
+findings. [Eff. Oct. 6, 1983] (Auth: HRS §353-3) (Imp: HRS     mally, a segregated inmate or ward should be entitled to
+§353-3)                                                        clothing, and bedding. If an inmate or ward is likely to
+                                                               destroy the clothing or bedding, injure oneself, or create a
+      §17-201-19 Punishment. (a) The adjustment committee      disturbance detrimental to others, or for other good rea-
+may render sanctions commensurate with the gravity of          sons, materials may be removed from the cell until the
+the rule and the severity of the violation. Corporal pun-      condition which prompted removal subsides.
+ishment is prohibited, provided that physical force may
+be employed for self defense or defense of others, to                (d) Segregated inmates or wards shall be given an
+maintain the immediate order and security of the prison,       adequately nutritious diet.
+to remove an inmate or ward pursuant to a lawful order,
+or any other reason demanded by the exigencies of insti-             {e) Segregated inmates or wards shall maintain an
+tutional safety and correctional goals. The following          acceptable level of personal hygiene.
+types of punishment may be rendered by the adjustment
+committee:                                                           (f) Each segregated inmate or ward should be per-
+                                                               mitted indoor or outdoor exercise, unless security or
+      (1) Temporary loss of privileges.                        institutional government dictates otherwise.
+
+      (2) Segregation or confinement not longer than                 (g) Personal property will ordinarily be impounded,
+             sixty days, provided that a longer period         inventoried, and receipted.
+             may be imposed with the expressed written
+             approval of the corrections division admin-            (h) Normally, religious and legal materials are per-
+             istrator, and the committee shall review the      mitted. However, inmates or wards may be denied all
+                                                               reading and legal materials during temporary confine-
+                                                               ment for not longer than fifteen days. Access to legal
+                                                               A60                                            A6l
+                    materials shall be permitted if an inmate or ward demon-
+                    strates the need for the materials and for prompt access                                       APPENDIX "G"
+                    to the courts in preparation of a habeas corpus petition or
+                      other application for relief. [Eff. Oct. 6, 1983] (Auth: HRS           Department of Social Services and Housing
+                    §353-3) (Imp: HRS §353-3)                                                                  Corrections Division
+
+                            §17-201-20 Review. (a) Each inmate or ward has the                            MISCONDUCT REPORT
+                    right to seek administrative review of the decision of the
+                    disciplinary hearing officer or adjustment committee                                                      Facility HHSF
+                    through the grievance process. Review shall be initiated                                                  Prepared on: 8-13-87
+                    within fourteen calendar days of the day of receipt of the      TO: MARIANO, Eugene ACO VI
+                    committee's decision.
+                                                                                              (Watch Supervisor)
+                          (b) The facility administrator may also initiate
+                    review of any adjustment committee decision and it shall        FROM: FURTADO, Gordon ACO III
+                    be within the administrator's discretion to modify any                  (Name, title -- Reporting Officer)
+                    committee findings or decisions. The administrator may
+                    demand any matter to the adjustment committee for fur-          RE: X CONNER, Demont      SSN:
+                    ther hearing or rehearing if the administrator believes it            (Name of Violator)
+                      to be in the interest of justice. [Eff. Oct. 6, 1983] (Auth:                                  (ID Number)
+                    HRS §353-3) (Imp: HRS §353-3)
+                                                                                    FACTS CONCERNING THE MISCONDUCT:               violated,
+~~
+                                                                                          (Give time occurred/discovered, rule(s)  incident
+
+                                                                                         location, what happened and time the
+
+                                                                                          ceased or was corrected.)
+
+                                                                                         On Thu. Aug. 13, 1987 at approx. 0900 hrs. I ACO G.
+                                                                                    FURTADO while on duty in Module A along with ACO
+                                                                                    R. AHUNA escorted INMATE D. CONNER from his cell
+                                                                                    (quad II) to the module program area. At this time |
+                                                                                    informed Inmate CONNER to move against the wall to be
+                                                                                    strip-searched before leaving the module. Inmate CON-
+                                                                                    NER then stripped, faced the wall and squatted. I then
+                                                                                    asked Inmate CONNER to put both hands on the wail
+                                                                                    and lift up both feet one at a time to which he did with no
+                                                                                    incident.
+
+                                                                                          I then asked him to step back, bend over and with
+                                                                                    both hands spread his buttocks so that I could check for
+                                                                                    contraband in the rectal area to which he said "Fuck!" in
+                                                                                    an angry tone of voice. This part of the search was thus
+                                         A62                                                         A63
+
+completed, but as Inmate CONNER turned around and                 CONNERS claims that he did not swear at ACO
+faced this writer he stared at me and stated "Why are you    FURTADO and did not disobey any order given by ACO
+harassing me?" I informed him that I'm just following a      FURTADO, CONNERS claims that ACO FURTADO was
+routine procedure. He then stated in a very sarcastic        unreasonable in the strip search procedure and that ACO
+voice "What you got something personal against me!           FURTADO did not show him (CONNERS) any respect.
+Why you harassing me?" I then told him all you have to       CONNERS also feels that the staff treats inmates like
+do is just listen and follow what I tell you to do but       dogs when they are being stripped and humiliates
+Inmate CONNER just kept on making sarcastic remarks          inmates.
+about being harassed and the way that this writer was
+doing kishis job.                                                  At that time I explained to inmate CONNERS that
+                                                             ACO FURTADO was only following orders in his (ACO
+      At this time because of the tense atmosphere and also  FURTADO's) strip searching techniques and that all
+the very provoking attitude towards this writer, Sgt.        inmates are to be searched in the same manner.
+SUMMERS who witnessed this incident cancelled l#tmate
+CONNER's privilege of religious counselling. Inmate               Subsequently, I talked to ACO FURTADO concerning
+CONNER was then escorted back to his cell by this wrier      the incident and from ACO FURTADO's testimony the
+and ACO D. COELHO.                                           search was conducted properly in a professional manner.
+                                                             As a result of this investigation there appears to be proba-
+      It should be noted that as Inmate CONNER went          ble cause that inmate CONNERS may be in violation of
+through the strip search procedures he moved very slow       the DSSH Inmate Handbook/Rules And Regulations and
+and questioned every move as if trying to hinder the         that this matter be referred to the adjustment committee.
+search, hoping that this writer might overlook a certain
+area. Inmate CONNER appeared to be very unruly in his                                R. JOHNSON, ACO IV, HCF
+attitude a towards this writer.
+                                                                                             /s/ R. Johnson
+      It appears that Inmate D. CONNER is in violation of
+CD rules sec. 17-201-7 #14 & 16, 17-201-9 #5 & #12.          FINDINGS:
+
+INVESTIGATION: (by supervisor - statements of violator,      {[ |] Guilty
+
+witness(es))                                                 [ ] Not Guilty
+
+     On Friday, 8/14/87 at approximately 1935 hrs. this      [X] Referred to Adjustment Committee
+writer interviewed inmate CONNERS concerning an
+alleged misconduct. CONNERS was apprised of his con-
+stitutional rights and the charges against him.
+                         A64                                               A65
+
+            CHARGE(S)                      RULE #                      STATE OF HAWAII
+                                                      Department of Social Services and Housing
+17-201-7 The use of physical interference  14 & 16
+or obstacle resulting in the obstruction,                             Corrections Division
+hindrance, or impairment of the
+performance of a correctional function by                                     Facility  HHSF
+a public servant.                                                          Demont
+                                                                  Conner,
+                                                                  (Name)                      (Number)
+
+17-201-9 Using abusive or obscene                 5   NOTICE OF REPORT OF MISCONDUCT
+
+language to a staff member.
+
+17-201-9 Harassment of employees.                 12              Date Aug. 25, 1987    Time 1200 hrs.
+
+INFORMAL ADJUSTMENT BY SUPERVISOR:                                                                                                        (Date)
+
+                                                      e You are herein notified that a written report of miscon-
+
+| |] Withdrawal of:                                   duct was filed against you on Aug. 13, 1987 . A copy of
+
+                     (specify)                        the charge(s) are listed below.
+
+| | Extra Work assigned                               e A hearing on the charge(s) has been scheduled and you
+| | Confinement
+                                                      are to be present at HHSF PBHR                                                              ;
+
+                                                                          (Location)
+
+PERIOD OF CORRECTIVE ACTION:                          0900 hrs. , on Aug. 28, , 1987.
+
+                                                      (Time)      (Date)
+
+hours, OR                                             As required by Corrections Division procedure, this hear-
+                                                      ing has been scheduled to determine the facts and admin-
+Beginning                                             ister just corrective action. You have the right to: 1) Have
+                                                      any charge explained to you; 2) Question those who have
+            (time) | (day)                            made any charge against you and examine any written
+                                                      material concerning the charge; 3) Explain any charge
+and ending                                            brought against you; 4) Request an administrative review
+BY:                                                   through the adjustment process.
+
+                     (Name, supervisor)
+
+                                           DATE:
+
+            (Title)
+
+                                                      Charge(s):  17-201-7 (14) & (16); The use of physical
+                                                                  interference or obstcale [sic] resulting in the
+                                                                  obstruction, hindrance, or impairment of the
+                                                                  performance of a correctional funtion [sic] by
+                                                                  a public servant.
+               A66                                                                  A67
+
+         17-201-9 (5 ); Using abusive or obscene lan-                                   17-201-9(12) 4 hours disciplinary seg-
+                                                                                          regation concurrent
+         guage to a staff mmember [sic].                        17-201-7(14 & 16) charges are expunged. NOT GUILTY ON
+                                                                BOTH COUNTS. The segregation period will run from
+         17-201-9 (12); Harassment of employees.                8/31/87 to 9/29/87."
+
+Facts supporting the charge(s) are as stated on the             Evidence relied upon for decision: The Committee based
+                                                                their decision upon the inmate's statements that during the
+attached Misconduct Report.                                     strip search procedure he turned around after squatting and
+                                                                looked at the ACO. He was then directed to "spead his
+               /s/ Cinda Sandin                                 cheeks" by ACO Furtado as part of the new strip search
+                      Chairman                                  procedure. He felt angry, humiliated and apprehensive. He
+                                                                then "eyed up" ACO Furtado and was hesitant to comply.
+Receipt of notice of charges and rights:                        He further indicated that he dislikes ACO Furtado and feels
+                                                                he should not work on the module. The inmate admitted
+I acknowledge receipt of the above charges. I understand        saying the word "fuck" during the procedure. The Commit-
+                                                                tee also reviewed the submitted reports. Witnesses were
+that 1: may __/ may not X, have legal counsel present           unavailable due to move to the medium facility and being
+                                                                short staffed on the modules.
+at the hearing. I also understand that I have 24 hours
+
+notice prior to the hearing.               1
+
+I do     I do not X_ waive legal counsel.
+
+I do     I do not X_ waive my right to 24 hour prior
+
+notice.
+
+Date: 8/25/87  Signature: /s/ Demont R.D. Conner                /s/ Cinda Sandin                      8/31/87
+                                                                Committee Chairman                          Date
+                                                    (Resident)
+
+Findings and Disposition of Corrective Action: FIND-            Receipt of findings and disposition:  8/31/87
+INGS: The Adjustment Hearing was held 8/28/87. The                                                          Date
+                                                                       /s/ Demont R.D. Conner
+Committee consisted of UM Cinda Sandin (Chairman),                     Inmate
+
+SW Carolyn Corley and ACO Shook. The inmate pled not            * [This exhibit reflects the ultimate disposition of the charges.
+guilty to the three charges. The inmate was found not           Conner was originally found guilty of all charges lodged
+                                                                against him.]
+guilty of 17-201-7(14) & (16)
+
+DISPOSITION:   17-201-7 (14 & 16) 30 days disciplinary
+
+               segregation.
+
+               17-201-9(5) 4 hours disciplinary segrega-
+
+               tion concurrent
+

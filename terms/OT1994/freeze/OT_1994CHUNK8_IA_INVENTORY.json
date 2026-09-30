@@ -1,0 +1,394 @@
+[
+  {
+    "docket": "94-167",
+    "name": "Lamagno",
+    "query": "collection:us-supreme-court AND (identifier:*94-167* OR title:\"Lamagno\")",
+    "matches": [
+      {
+        "identifier": "micro_IA40385013_0600",
+        "title": "Gutierrez De Martinez v. Lamagno, 515 U.S. 417 (1995) (No. 94-167)"
+      },
+      {
+        "identifier": "micro_IA40386013_1075",
+        "title": "Gutierrez de Martinez v. Lamagno, 522 U.S. 931 (1997) (No. 97-104)"
+      }
+    ],
+    "count": 2,
+    "status": 200
+  },
+  {
+    "docket": "94-771",
+    "name": "Chickasaw",
+    "query": "collection:us-supreme-court AND (identifier:*94-771* OR title:\"Chickasaw\")",
+    "matches": [
+      {
+        "identifier": "micro_IA40386019_0423",
+        "title": "United States v. the Choctaw Nation and the Chickasaw Nation, 193 U.S. 115 (1904) (Nos. 322, 323)"
+      },
+      {
+        "identifier": "micro_IA40385602_0228",
+        "title": "Bauman v. Choctaw-Chickasaw Nations, 379 U.S. 965 (1965) (No. 608)"
+      },
+      {
+        "identifier": "micro_IA40386416_0284",
+        "title": "Chickasaw Nation v. United States, 326 U.S. 751 (1945) (No. 337)"
+      },
+      {
+        "identifier": "micro_IA40385014_0420",
+        "title": "Chickasaw Nation v. United States, 534 U.S. 84 (2001) (No. 00-507)"
+      },
+      {
+        "identifier": "micro_IA40386417_1067",
+        "title": "Seitz v. Choctaw & Chickasaw Nations, 343 U.S. 919 (1952) (No. 589)"
+      },
+      {
+        "identifier": "micro_IA40386012_0721",
+        "title": "Oklahoma Tax Comm'n v. Chickasaw Nation, 515 U.S. 450 (1995) (No. 94-771)"
+      }
+    ],
+    "count": 6,
+    "status": 200
+  },
+  {
+    "docket": "93-1911",
+    "name": "Sandin",
+    "query": "collection:us-supreme-court AND (identifier:*93-1911* OR title:\"Sandin\")",
+    "matches": [
+      {
+        "identifier": "micro_IA40385013_0516",
+        "title": "Sandin v. Conner, 515 U.S. 472 (1995) (No. 93-1911)"
+      }
+    ],
+    "count": 1,
+    "status": 200
+  },
+  {
+    "docket": "94-514",
+    "name": "Gaudin",
+    "query": "collection:us-supreme-court AND (identifier:*94-514* OR title:\"Gaudin\")",
+    "matches": [
+      {
+        "identifier": "micro_IA40386012_0076",
+        "title": "United States v. Gaudin, 515 U.S. 506 (1995) (No. 94)"
+      },
+      {
+        "identifier": "micro_IA40386017_1997",
+        "title": "Gaudin v. Remis, 562 U.S. 832 (2010) (No. 09-1402)"
+      }
+    ],
+    "count": 2,
+    "status": 200
+  },
+  {
+    "docket": "94-623",
+    "name": "Sky Reefer",
+    "query": "collection:us-supreme-court AND (identifier:*94-623* OR title:\"Sky Reefer\")",
+    "matches": [
+      {
+        "identifier": "micro_IA40385013_0563",
+        "title": "Vimar Seguros Y Reaseguros, SA v. M/V Sky Reefer, 515 U.S. 528 (1995) (No. 94-623)"
+      }
+    ],
+    "count": 1,
+    "status": 200
+  },
+  {
+    "docket": "94-749",
+    "name": "Hurley",
+    "query": "collection:us-supreme-court AND (identifier:*94-749* OR title:\"Hurley\")",
+    "matches": [
+      {
+        "identifier": "per_scotus_james-callanan-jr-appellant-vs-michael-hurley_1876_115",
+        "title": "James Callanan, Jr., Appellant, vs. Michael Hurley 1876: Vol 115"
+      },
+      {
+        "identifier": "micro_IA40386003_1574",
+        "title": "Urban v. Hurley, 125 S. Ct. 968 (2005) (No. 04-655)"
+      },
+      {
+        "identifier": "micro_IA40386014_0017",
+        "title": "Atlantic City Police Department v. Hurley, 528 U.S. 1074 (2000) (No. 99-431)"
+      },
+      {
+        "identifier": "micro_IA40386417_0153",
+        "title": "Drury v. Hurley, 340 U.S. 804 (1950) (No. 780)"
+      },
+      {
+        "identifier": "micro_IA40386008_0131",
+        "title": "Hurley v. Kincaid, 285 U.S. 95 (1932) (No. 457)"
+      },
+      {
+        "identifier": "micro_IA40386004_0584",
+        "title": "Hurley v. Commission of Fisheries of Va., 257 U.S. 223 (1921) (No. 33)"
+      },
+      {
+        "identifier": "micro_IA40386011_0647",
+        "title": "Hurley v. United States, 506 U.S. 817 (1992) (No. 91-1817)"
+      },
+      {
+        "identifier": "per_scotus_michael-hurley-appellant-vs-d-w-jones_1877_262",
+        "title": "Michael Hurley, Appellant, vs. D. W. Jones. 1877: Vol 262"
+      },
+      {
+        "identifier": "micro_IA40386401_0169",
+        "title": "Maytag Co. v. Hurley MacHine Co., 307 U.S. 243 (1939) (No. 76)"
+      },
+      {
+        "identifier": "micro_IA40385006_2246",
+        "title": "Massachusetts v. Hurley, 449 U.S. 809 (1980) (No. 79-1557)"
+      },
+      {
+        "identifier": "micro_IA40386020_1420",
+        "title": "Parker v. Hurley (No. 07-1368)"
+      },
+      {
+        "identifier": "micro_IA40386416_1639",
+        "title": "Hurley v. Lowe, 334 U.S. 828 (1948) (No. 751)"
+      },
+      {
+        "identifier": "micro_IA40385004_0474",
+        "title": "Hurley v. United States, 429 U.S. 1038 (1977) (No. 76-245)"
+      },
+      {
+        "identifier": "micro_IA40385003_0189",
+        "title": "Van Lare v. Hurley, 421 U.S. 338 (1975) (No. 74-453)"
+      },
+      {
+        "identifier": "micro_IA40385603_0435",
+        "title": "Hurley v. United States, 386 U.S. 967 (1967) (No. 1207)"
+      },
+      {
+        "identifier": "micro_IA40385017_0728",
+        "title": "Hurley v. West American Insurance Co. of Ohio Casualty Group, 485 U.S. 1001 (1988) (No. 87-1457)"
+      },
+      {
+        "identifier": "per_scotus_1871_354",
+        "title": "Michael Hurley, Plaintiff in Error, vs. Frank. Street. 1871: Vol 354"
+      },
+      {
+        "identifier": "micro_IA40386417_1715",
+        "title": "Illinois ex rel. Kennedy v. Hurley, 346 U.S. 817 (1953) (No. 106)"
+      },
+      {
+        "identifier": "micro_IA40385004_0057",
+        "title": "Hurley v. Illinois, 429 U.S. 828 (1976) (No. 75-1770)"
+      },
+      {
+        "identifier": "micro_IA40385008_0276",
+        "title": "Hurley v. Commonwealth Land Title Insurance, 454 U.S. 967 (1981) (No. 81-436)"
+      },
+      {
+        "identifier": "micro_IA40386006_0582",
+        "title": "Myers v. Hurley Motor Co., 273 U.S. 18 (1927) (No. 65)"
+      },
+      {
+        "identifier": "micro_IA40386012_1232",
+        "title": "In re Hurley, 514 U.S. 1036 (1995) (No. 94-1318)"
+      },
+      {
+        "identifier": "micro_IA40386014_1493",
+        "title": "Hurley v. Motor Coach Industries, Inc., 531 U.S. 1148 (2001) (No. 00-955)"
+      },
+      {
+        "identifier": "micro_IA40386012_0312",
+        "title": "Hurley v. United States, 513 U.S. 931 (1994) (No. 94-340)"
+      },
+      {
+        "identifier": "micro_IA40385602_1509",
+        "title": "Hurley v. Beech Aircraft Corp., 385 U.S. 821 (1966) (No. 184)"
+      },
+      {
+        "identifier": "micro_IA40386012_0701",
+        "title": "Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston, Inc., 515 U.S. 557 (1995) (No. 94-749)"
+      },
+      {
+        "identifier": "micro_IA40386020_0556",
+        "title": "Hurley v. Atchison, T. & SFR Co., 213 U.S. 126 (1909) (No. 95)"
+      },
+      {
+        "identifier": "micro_IA40386009_1538",
+        "title": "Randlett v. Hurley (No. 07-448)"
+      },
+      {
+        "identifier": "micro_IA40385011_0915",
+        "title": "Hurley v. Albuquerque Title Co., 464 U.S. 1044 (1984) (No. 83-759)"
+      },
+      {
+        "identifier": "micro_IA40386020_1466",
+        "title": "Hurley v. Bureau of Immigration and Customs Enforcement (No. 07-1422)"
+      },
+      {
+        "identifier": "micro_IA40386409_0352",
+        "title": "Cohen v. Hurley (No. 84)"
+      },
+      {
+        "identifier": "micro_IA40385004_0481",
+        "title": "Hurley v. United States, 429 U.S. 1038 (1977) (No. 76-252)"
+      },
+      {
+        "identifier": "micro_IA40386009_1044",
+        "title": "Urban v. Hurley, 535 U.S. 930 (2002) (No. 01-1029)"
+      }
+    ],
+    "count": 33,
+    "status": 200
+  },
+  {
+    "docket": "94-688",
+    "name": "National Private Truck",
+    "query": "collection:us-supreme-court AND (identifier:*94-688* OR title:\"National Private Truck\")",
+    "matches": [
+      {
+        "identifier": "micro_IA40386012_0642",
+        "title": "National Private Truck Council, Inc. v. Oklahoma Tax Commission, 513 U.S. 1071 (1995) (No. 94-688)"
+      },
+      {
+        "identifier": "micro_IA40386006_1284",
+        "title": "Commissioner of Revenue of Massachusetts v. National Private Truck Council, Inc., 523 U.S. 1137 (1998) (No. 97-1570)"
+      },
+      {
+        "identifier": "micro_IA40385017_1030",
+        "title": "National Private Truck Council, Inc. v. Oklahoma Tax Commission, 501 U.S. 1247 (1991) (No. 90-1597)"
+      }
+    ],
+    "count": 3,
+    "status": 200
+  },
+  {
+    "docket": "94-270",
+    "name": "Aguilar",
+    "query": "collection:us-supreme-court AND (identifier:*94-270* OR title:\"Aguilar\")",
+    "matches": [
+      {
+        "identifier": "micro_IA40385014_0346",
+        "title": "Avis Rent A Car System, Inc. v. Aguilar, 529 U.S. 1138 (2000) (No. 99-781)"
+      },
+      {
+        "identifier": "micro_IA40385018_0052",
+        "title": "Aguilar v. County of Los Angeles, 471 U.S. 1125 (1985) (No. 84-1569)"
+      },
+      {
+        "identifier": "micro_IA40386016_2274",
+        "title": "Herrera-Aguilar v. United States (No. 06-1237)"
+      },
+      {
+        "identifier": "micro_IA40385017_2022",
+        "title": "Aguilar v. Texas, 470 U.S. 1052 (1985) (No. 84-1163)"
+      },
+      {
+        "identifier": "micro_IA40385012_0048",
+        "title": "Aguilar v. Felton, 473 U.S. 402 (1985) (No. 84-237)"
+      },
+      {
+        "identifier": "micro_IA40385012_0046",
+        "title": "Aguilar v. Felton, 473 U.S. 402 (1985) (No. 84-237)"
+      },
+      {
+        "identifier": "micro_IA40385601_1042",
+        "title": "Aguilar v. Texas, 375 U.S. 812 (1963) (No. 118)"
+      },
+      {
+        "identifier": "micro_IA40386012_2099",
+        "title": "de Aguilar v. Boeing Co., 516 U.S. 865 (1995) (No. 95-102)"
+      },
+      {
+        "identifier": "micro_IA40386403_0154",
+        "title": "Aguilar v. Standard Oil Co. of NJ, 318 U.S. 724 (1943) (No. 454)"
+      },
+      {
+        "identifier": "micro_IA40386010_0677",
+        "title": "Aguilar v. Mukasey (No. 07-1116)"
+      },
+      {
+        "identifier": "micro_IA40386015_1654",
+        "title": "Aguilar Espinoza v. United States, 540 U.S. 945 (2003) (No. 02-1762)"
+      },
+      {
+        "identifier": "micro_IA40385601_1043",
+        "title": "Aguilar v. Texas, 375 U.S. 812 (1963) (No. 121)"
+      },
+      {
+        "identifier": "micro_IA40386411_0080",
+        "title": "Aguilar v. Texas, 378 U.S. 108 (1964) (No. 548)"
+      },
+      {
+        "identifier": "micro_IA43085015_0487",
+        "title": "Anaya-Aguilar v. Holder, (2008) (No. 1484)"
+      },
+      {
+        "identifier": "micro_IA40385004_2325",
+        "title": "Aguilar v. Bell, 434 U.S. 920 (1977) (No. 77-190)"
+      },
+      {
+        "identifier": "micro_IA40385017_1471",
+        "title": "United States v. Ahumada-Aguilar, 533 U.S. 913 (2001) (No. 99-1872)"
+      },
+      {
+        "identifier": "micro_IA40385013_0552",
+        "title": "United States v. Aguilar, 515 U.S. 593 (1995) (No. 94-270)"
+      }
+    ],
+    "count": 17,
+    "status": 200
+  },
+  {
+    "docket": "94-226",
+    "name": "Went For It",
+    "query": "collection:us-supreme-court AND (identifier:*94-226* OR title:\"Went For It\")",
+    "matches": [
+      {
+        "identifier": "micro_IA40385013_0549",
+        "title": "Florida Bar v. Went for It, Inc., 515 U.S. 618 (1995) (No. 94-226)"
+      }
+    ],
+    "count": 1,
+    "status": 200
+  },
+  {
+    "docket": "94-590",
+    "name": "Vernonia",
+    "query": "collection:us-supreme-court AND (identifier:*94-590* OR title:\"Vernonia\")",
+    "matches": [
+      {
+        "identifier": "micro_IA40385013_0562",
+        "title": "Vernonia School Dist. 47J v. Acton, 515 U.S. 646 (1995) (No. 94-590)"
+      }
+    ],
+    "count": 1,
+    "status": 200
+  },
+  {
+    "docket": "94-329",
+    "name": "Rosenberger",
+    "query": "collection:us-supreme-court AND (identifier:*94-329* OR title:\"Rosenberger\")",
+    "matches": [
+      {
+        "identifier": "micro_IA40386003_0135",
+        "title": "Rosenberger v. Pacific Express Co., 241 U.S. 48 (1916) (No. 249)"
+      },
+      {
+        "identifier": "micro_IA40385013_0555",
+        "title": "Rosenberger v. Rector and Visitors of Univ. of Va., 515 U.S. 819 (1995) (No. 94-329)"
+      }
+    ],
+    "count": 2,
+    "status": 200
+  },
+  {
+    "docket": "94-859",
+    "name": "Sweet Home",
+    "query": "collection:us-supreme-court AND (identifier:*94-859* OR title:\"Sweet Home\")",
+    "matches": [
+      {
+        "identifier": "micro_IA40386016_1627",
+        "title": "Jensen v. Sweet Home Home One One Care Care Facility Facility (No. 06-546)"
+      },
+      {
+        "identifier": "micro_IA40386012_0804",
+        "title": "Babbitt v. Sweet Home Chapter, Communities for Great Ore., 515 U.S. 687 (1995) (No. 94-859)"
+      }
+    ],
+    "count": 2,
+    "status": 200
+  }
+]

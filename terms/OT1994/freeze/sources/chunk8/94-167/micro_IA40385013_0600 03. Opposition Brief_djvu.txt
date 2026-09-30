@@ -1,0 +1,532 @@
+No. 94-167 | ortoc 08 me © 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1994 
+
+
+KATIA GUTIERREZ DE MARTINEZ, ET AL., 
+PETITIONERS 
+
+
+v. 
+
+
+Dirk A. LAMAGNO, ET AL. 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+DrEw S. Days, III 
+Solicitor General 
+
+
+FRANK W. HUNGER 
+Assistant Attorney General 
+
+
+BARBARA L. HERWIG 
+PETER R. MAIER 
+Attorneys 
+
+
+Department of Justice 
+Washington, D.C. 20530 
+(202) 514-2217 
+
+
+ee __ inal el 
+
+
+BEST AVAILABLE COPY 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether the Attorney General’s certification 
+under the Westfall Act, 28 U.S.C. 2679(d), that a 
+government employee was acting within the scope of 
+employment conclusively requires that the United 
+States be substituted for the employee as the defendant 
+in a civil action. 
+
+2. Whether Section 709 of the Controlled Substances 
+Act, 21 U.S.C. 904, which authorizes the Attorney 
+General to pay tort claims arising from operations of the 
+Drug Enforcement Administration abroad, gives 
+petitioner a right of action for damages against the 
+United States. 
+
+
+(I) 
+
+
+TABLE OF CONTENTS 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases: 
+
+
+Arbour v. Jenkins, 903 F.2d 416 (6th Cir. 1990) ............. . 
+Aviles v. Lutz, 887 F.2d 1046 (10th Cir. 1989) ................. 7 
+Bob Jones Univ. v. United States, 461 U.S. 574 (1983) .... 8 
+Brown v. Armstrong, 949 F.2d 1007 (8th Cir. 1991) ........ 7 
+Cheng Fan Kwok v. INS, 392 U.S. 206 (1968) ................. s 
+Hamrick v. Franklin, 931 F.2d 1209 (7th Cir.), cert. 
+
+denied, 112 S. Ct. 200 (1991) ...........ccccccceeneeeeeeneneeneeeenees 7 
+Johnson v. Carter, 983 F.2d 1316 (4th Cir.), cert. denied, 
+
+rT 2,5, 7 
+Meridian Int'l Logistics, Inc. v. United States, 939 F.2d 
+
+ire rnnrerennsenmnngeananessenaceaeeeseqteeseee 7 
+Mitchell v. Carison, 896 F.2d 128 (5th Cir. 1990) ............. 7 
+Nasuti v. Scannell, 906 F.2d 802 (ist Cir. 1990) .............. s 
+S.J. & W. Ranch, Inc. v. Lehtinen, 913 F.2d 1538, 
+
+modified, 924 F.2d 1555 (11th Cir. 1990), cert. denied, 
+
+inet nresnerentnenennemennnngensnessncnaceceeneetestees 7-8 
+Schrod v. Catterson, 967 F.2d 929 (3d Cir. 1992) ............. 7 
+United States v. Testan, 424 U.S. 392 (1976) 9 
+
+2 
+
+
+Westfall v. Erwin, 484 U.S. 292 (1988) .............cceceeeeeeees 
+
+
+Statutes and regulation: 
+Controlled Substances Act, § 709, 21 U.S.C. 904 .............. 4,5,8 
+
+
+IV 
+Statutes and regulation—Continued: Page 
+of Justice Appropriation Authoriziation Act, 
+Fiscal Year 1980, Pub. L. No. 96-132, § 13, 98 Stat. 
+
+
+1048 4 
+Federal Employees Liability Reform and Tort Compensa- 
+
+tion Act of 1988 (Westfall Act), Pub. L. No. 100-694, 
+
+102 Stat. 4563 2 
+Federal Tort Claims Act, 28 U.S.C. 2671 et seq. ............+ 2 
+
+28 U.S.C. 2672 4 
+
+28 U.S.C. 26TH DML) .......ccceeeeeeeeeeneeees — 3 
+
+BB UBC. BOTBEID cceccceccccccccccccccccccscsescccccossscsscsessssesseess 3 
+
+28 U.S.C. 2679(d)(1) 3, 5, 6 
+
+28 U.S.C. 267%(d)(2) ... , 3 
+
+BB U.S.C. BOBO) ...cccccccccescccccscccccccccsccccsscccsscesssoocssosees 4, 5,6 
+GB CPRR, WED cccsrececnscsssssesccscccsccssssnsnsssensessece sepemmetgeiene 4 
+
+
+In the Supreme Court of the Ginited States 
+OcTOBER TERM, 1994 
+
+
+No. 94-167 
+
+
+KATIA GUTIERREZ DE MARTINEZ, ET AL., 
+PETITIONERS 
+
+
+v. 
+
+
+Dork A. LAMAGNO, ET AL. 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+The opinion of the court of appeals (Pet. App. 1b-7b) 
+is unpublished, but the decision is noted at 23 F.3d 402 
+(Table). The order of the district court (Pet. App. 1a) 
+is unreported. 
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+April 28, 1994. The petition for a writ of certiorari 
+was filed on July 25, 1994. The jurisdiction of this 
+Court is invoked under 28 U.S.C. 1254(1). 
+
+
+2 
+
+
+STATEMENT 
+
+
+The principal question presented in this case is 
+whether the Attorney General’s certification that a 
+federal employee was acting within the scope of 
+employment is conclusive for purposes of substitution 
+of the United States as the defendant in a pending 
+tort action. In its decision below, the court of appeals 
+followed its prior decision in Johnson v. Carter, 983 
+F.2d 1316, 1319-1321 (4th Cir.) (en banc), cert. denied, 
+114 S. Ct. 57 (1993), and concluded that the Attorney 
+General’s certification is conclusive and not subject 
+to judicial review. 
+
+1. This Court held in Westfall v. Erwin, 484 U.S. 
+292 (1988), that the judicially created doctrine of 
+official immunity does not provide complete 
+protection to federal government employees for torts 
+committed within the scope of their employment. 
+Congress subsequently enacted the Federal 
+Employees Liability Reform and Tort Compensation 
+Act of 1988 (commonly known as the Westfall Act), 
+Pub. L. No. 100-694, 102 Stat. 4563. The Westfall Act 
+provides immunity to government employees for torts 
+committed while acting within the scope of their 
+employment by requiring that the United States be 
+substituted as the defendant. The suit then proceeds 
+against the government under the Federal Tort 
+Claims Act (FTCA), 28 U.S.C. 2671 et seq. 
+
+
+The Westfall Act accomplishes this result through 
+statutory language that states in relevant part: 
+
+
+(1) Upon certification by the Attorney General 
+that the defendant employee was acting within the 
+seope of his office or employment at the time of 
+the incident out of which the claim arose, any civil 
+
+
+3 
+
+
+action or proceeding commenced upon such claim 
+in a United States district court shall be deemed 
+an action against the United States under the 
+provisions of this title and all references thereto, 
+and the United States shall be substituted as the 
+party defendant. 
+
+
+28 U.S.C. 2679(d)(1).' The remedy against the United 
+States “is exclusive of any other civil action or 
+proceeding for money damages * * * against the 
+employee whose act or omission gave rise to the 
+claim.” 28 U.S.C. 2679(b)(1). The Attorney General 
+has delegated the authority to certify that an 
+employee was acting within the scope of the 
+employee’s office or employment to the United States 
+Attorneys, who make scope certification deter- 
+
+
+1 Subsection (d) also authorizes the United States to remove 
+actions from state court: 
+
+
+(2) Upon certification by the Attorney General that the 
+
+
+which the claim arose, any civil action or proceeding com- 
+menced upon such claim in a State court shall be removed 
+without bond at any time before trial by the Attorney 
+General to the district court of the United States for the 
+district and division embracing the place in which the 
+action or proceeding is pending. Such action or pro- 
+
+shall be deemed to be an action or proceeding 
+
+
+tification of the Attoruey General shall conclusively 
+office or employment for purposes of 
+
+
+4 
+
+
+minations in consultation with the Department of 
+Justice. See 28 C.F.R. 15.3. 
+
+2. Petitioners are citizens of the Republic of 
+Colombia. They allege that on January 18, 1991, 
+respondent Dirk A. Lamagno, a Special Agent 
+employed by the Drug Enforcement Administration 
+(DEA), caused an automobile accident in Barran- 
+quilla, Colombia. Lamagno was the driver of a 
+government-owned Ford Bronco that collided with the 
+car in which petitioners were occupants. Petitioners 
+seek general and specific damages for physical 
+injuries and property damage. Pet. App. 2b. See Pet. 
+5-9. 
+
+On May 8, 1991, petitioners filed an administrative 
+claim with the DEA pursuant to Section 709 of the 
+Controlled Substances Act, as amended, which states: 
+
+
+Notwithstanding section 2680(k) of title 28,'" the 
+Attorney General, in carrying out the functions of 
+the Department of Justice under this subchapter, 
+is authorized to pay tort claims in the manner 
+authorized by section 2672 of title 28," when such 
+claims arise in a foreign country in connection 
+with the operations of the Drug Enforcement 
+Administration abroad. 
+
+
+21 U.S.C. 904 (as amended by the Department of 
+Justice Appropriation Authorization Act, Fiscal Year 
+1980, Pub. L. No. 96-132, § 18, 93 Stat. 1048). The 
+Drug Enforcement Administration lacked authority 
+
+
+2 Section 2680(k) excepts “[aJny claim arising in a foreign 
+country” from the FTCA and Title 28’s provisions governing 
+tort claim procedure. 
+
+8 Section 2672 deals with administrative adjustment of 
+claims. 
+
+
+5 
+
+
+to resolve a claim in the dollar amount that peti- 
+tioners requested, and it referred the claim to the 
+Department of Justice. The Department has not 
+made a final administrative decision on that claim. 
+Pet. App. 2b-3b. 
+
+On January 15, 1993, petitioners filed this action in 
+the United States District Court for the Eastern 
+District of Virginia based on diversity of citizenship. 
+The United States Attorney certified on behalf of the 
+Attorney General that respondent Lamagno was 
+acting within the scope of his office or employment 
+under the Westfall Act and moved to substitute the 
+United States as the defendant. See 28 U.S.C. 
+2679(d)(1). The district court substituted the United 
+States in place of Lamagno and dismissed him from 
+the action. The United States then moved to dismiss 
+the suit on the ground that the United States has re- 
+tained its immunity for suits based on “[aJny claim 
+arising in a foreign country.” 28 U.S.C. 2680(k). Tie 
+district court granted the motion and dismissed the 
+action. Pet. App. la, 3b. 
+
+The court of appeals affirmed the order of the 
+district court that substituted the United States as 
+defendant in place of Lamagno. Pet. App. 1b-7b. It 
+held that, under the law of the circuit, a certification 
+by the Attorney General that an employee was acting 
+within the scope of his office or employment at the 
+time of the incident that gave rise to the claim is 
+conclusive and not subject to judicial review. Pet. 
+App. 6b-7b. See Johnson v. Carter, 983 F.2d 1316, 
+1319-1321 (4th Cir.) (en banc), cert. denied, 114 S. Ct. 
+57 (1998). It also concluded that Section 709 of the 
+Controlled Substances Act, 21 U.S.C. 904, did not 
+provide a basis for petitioners’ suit, because that 
+
+
+6 
+
+
+provision is not a waiver of sovereign immunity and 
+because it does not provide for judicial review of the 
+Attorney General’s actions on tort claims arising in a 
+foreign country. Pet. App. 4b-5b. The court of appeals 
+further rejected petitioners’ argument that their 
+claim is based on “headquarters” negligence 
+originating in the District of Columbia and therefore 
+is not barred by 28 U.S.C. 2680(k). Pet. App. 5b-6b. 
+
+
+DISCUSSION 
+
+
+Petitioners challenge the court of appeals’ 
+determination that respondent Lamagno was acting 
+within the scope of his employment for purposes of 
+the Westfall Act at the time of the auto accident from 
+which their claims arise. Petitioners specifically 
+take issue with the court of appeals’ ruling that the 
+Attorney General’s scope-of-employment certification 
+is conclusive under the Westfall Act. Pet. 12-30. We 
+believe that the court of appeals’ ruling on this 
+question was incorrect, and we agree that this issue 
+warrants review by this Court. 
+
+1. The Westfall Act does not expressly provide for 
+judicial review of the Attorney General’s certification 
+decisions. Immediately after enactment of the 
+Westfall Act, the United States took the position that 
+the Attorney General’s scope-of-employment certi- 
+fication is conclusive and not subject to judicial 
+review. The United States subsequently reconsider- 
+ed its position, however, and concluded that a 
+certification decision made under 28 U.S.C. 2679(d)(1) 
+is judicially reviewable. See U.S. Br. in Opp. in 
+Lehtinen v. S.J. & W. Ranch, Inc., cert. denied, 112 S. 
+Ct. 62 (1991) (No. 90-1789); U.S. Br. in Opp. in Johnson 
+v. Carter, cert. denied, 114 S. Ct. 57 (1993) (No. 92- 
+
+
+— Tio. ee | eS 
+
+
+7 
+
+
+1591). Despite the United States’ position, the 
+Fourth Circuit has held that the Attorney General’s 
+scope-of-employment certification is conclusive and 
+not subject to judicial review. See Johnson v. Carter, 
+983 F.2d 1316, 1319-1321 (en banc), cert. denied, 114 S. 
+Ct. 57 (1993). 
+
+The Fourth Circuit’s ruling that the Attorney 
+General’s scope-of-employment certification is con- 
+clusive and not subject to judicial review decides a 
+significant question of federal law on which there is a 
+square conflict among the courts of appeals. The 
+Fourth Circuit’s holding finds support in the 
+decisions of two courts of appeals that have 
+suggested, in cases in which the Attorney General’s 
+certification was not challenged, that the 
+certification decision must be given conclusive effect.‘ 
+Seven other courts of appeals, however, have reached 
+a contrary result and have allowed judicial review of 
+the certification decision.° Because the Fourth 
+
+
+* See Mitchell v. Carlson, 896 F.2d 128, 136 (5th Cir. 1990); 
+Aviles v. Lutz, 887 F.2d 1046 (10th Cir. 1989). On September 
+12, 1994, the Fifth Circuit heard argument en banc in Garcia v. 
+United States, No. 92-8490, which presents the question 
+whether the Attorney General’s scope-of-employment 
+certification is conclusive and not subject to judicial review. 
+The question is also presented in a petition for certiorari filed 
+from another Fifth Circuit decision that is currently pending 
+before this Court. See King Fisher Marine Serv., Inc. vy. 
+Perez, No. 94-48, We are filing a response to that petition 
+simultaneously with this brief. 
+
+
+5 See Schrob v. Catterson, 967 F.2d 929, 935 (3d Cir. 1992); 
+Brown v. Armstrong, 949 F.2d 1007, 1012 (8th Cir. 1991); 
+Meridian Int'l Logistics, Inc. v. United States, 939 F.2d 740, 
+744-745 (9th Cir. 1991); Hamrick v. Franklin, 931 F.2d 1209, 
+1210-1211 (7th Cir.), cert. denied, 112 S. Ct. 200 (1991); S.J. & 
+
+
+8 
+
+
+Circuit’s position was established in an en banc 
+decision, Johnson v. Carter, supra, the conflict is 
+likely to persist. Accordingly, the Court should 
+grant the petition to review whether the Attorney 
+General’s scope-of-employment certification is con- 
+clusive and not subject to judicial review for the 
+purpose of the substitution of the United States as 
+defendant.° 
+
+2. The other question raised in the petition, 
+whether petitioners are entitled to judicial review 
+under Section 709 of the Controlled Substances Act, 
+does not warrant further consideration by this Court. 
+By its plain language, Section 709 simply grants the 
+Attorney General discretion to pay tort claims when 
+such claims arise from DEA activities in foreign 
+countries. See 21 U.S.C. 904. Section 709 does not 
+waive the United States’ sovereign immunity or allow 
+for judicial review of the Attorney General’s decision 
+to pay or not pay a claim. This Court has repeatedly 
+refused to infer that Congress has waived the United 
+
+
+W. Ranch, Inc. v. Lehtinen, 913 F.2d 1538, 1548, modified, 924 
+F.2d 1555 (11th Cir. 1990), cert. denied, 112 8S. Ct. 62 (1991); 
+Nasuti v. Scannell, 906 F.2d 802, 812-814 (Ist Cir. 1990); 
+Arbour v. Jenkins, 903 F.2d 416, 421 (6th Cir. 1990). 
+
+
+® The Justice Department has represented Mr. Lamagno in 
+the proceedings below. We have notified him that the United 
+States will take a position in this litigation that is potentially 
+contrary to his personal interests and that he may wish to 
+retain private counsel to represent his interests before this 
+Court. In the event that Mr. Lamagno does not enter an 
+appearance through retained counsel, this Court may wish to 
+appoint counsel to defend the Fourth Circuit’s decision and to 
+ensure that this Court has the benefit of an adversarial 
+presentation. See Bob Jones Univ. v. United States, 461 U.S. 
+574 (1983); Cheng Fan Kwok v. INS, 392 U.S. 206 (1968). 
+
+
+9 
+
+
+States’ sovereign immunity through statutory 
+language that does not “unequivocally” express that 
+intent. E.9., United States v. Testan, 424 U.S. 392, 399 
+(1976). There is no conflict among the courts of 
+appeals on this question, and the decision of the court 
+of appeals below does not conflict with any decision of 
+this Court. 
+
+
+CONCLUSION 
+
+
+The petition for a writ of certiorari should be 
+granted limited to question one. 
+
+
+Respectfully submitted. 
+
+
+Drew S§S. Days, III 
+Solicitor General 
+
+
+FRANK W. HUNGER 
+Assistant Attorney General 
+
+
+BARBARA L. HERWIG 
+PETER R. MAIER 
+Attorneys 
+
+
+OCTOBER 1994 
+
+

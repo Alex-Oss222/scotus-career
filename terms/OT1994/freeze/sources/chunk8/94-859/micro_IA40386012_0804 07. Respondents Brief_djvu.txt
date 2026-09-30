@@ -1,0 +1,3092 @@
+Tit eo on ee ee hh otal Fe 
+v Pip "3% ¢ fo 
+
+
+Bruce BassitT, Secretary of the United States 
+Department of the Interior, et al., 
+Petitioners, 
+Vv. 
+SwEET HOME CHAPTER OF COMMUNITIES 
+
+
+FOR A GREAT OREGON, et al., 
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the District of Columbia Circuit 
+
+
+BRIEF FOR RESPONDENTS 
+
+
+Of Counsel: JOHN A. MACLEOD * 
+
+WILLIAM R. MURRAY STEVEN P. QUARLES 
+
+AMERICAN FOREST & CLIFTON S. ELGARTEN 
+
+PAPER ASSOCIATION THOMAS R. LUNDQUIST 
+
+1111 19th Street, N.W. CROWELL & MORING 
+
+Suite 800 1001 Pennsylvania Avenue, N.W. 
+
+Washington, D.C. 20036 Washington, D.C. 20004-2595 
+(202) 624-2500 
+Attorneys for Respondents 
+
+
+* Counsel of Record 
+
+
+WiLeon - Eres Paintine Co., Inc. - 789-0096 - WASHINGTON, D.C. 20001 
+
+
+m | BESTAVAILABLE COPY | Same 
+
+
+r| ; 
+' ee, 
+
+
+QUESTION PRESENTED 
+
+
+Section 9(a)(1) of the Endangered Species Act of 
+1973, 16 U.S.C. § 1538(a)(1), makes it unlawful for 
+any person to “take” an endangered fish or wildlife 
+species. The Act defines “take” to mean “to harass, 
+harm, pursue, hunt, shoot, wound, kill, trap, capture, or 
+collect, or to attempt to engage in any such conduct.” 
+Id. § 1532(19). By regulation, the U.S. Fish and Wild- 
+life Service has defined “harm” in a way that focuses 
+exclusively on the ultimate effect that any action has on 
+a wildlife species; by its terms, it extends to ordinary 
+land use activities (“habitat modifications”), like those 
+engaged in by Respondents here, neither directed at wild- 
+life nor directly injuring wildlife. 50 C.F.R. § 17.3. The 
+question presented is: 
+
+
+Whether the Fish and Wildlife Service’s regulatory 
+definition of “harm” represents a permissible expan- 
+sion of liability under Endangered Species Act 
+
+
+§ 9(a) (1)? 
+
+
+(i) 
+
+
+TABLE OF CONTENTS 
+
+
+TABLE OF AUTHORITIES |... 
+
+
+STATUTORY AND REGULATORY PROVISIONS 
+dia se, a: Ee ae 
+
+
+“ss spate gatas ne PO a 
+
+
+I. FWS’S EXPANSIVE DEFINITION OF 
+“HARM” IS NOT CONSISTENT WITH THE 
+LANGUAGE, STRUCTURE, OR HISTORY 
+cuit: Se = SES See ee angen 
+
+
+II. 
+
+
+A. 
+B. 
+
+
+The Agency’s Attempt to Define “Harm” and 
+“Take” to Encompass Habitat Modification 
+Actions Affecting Wildlife, But Not Directed 
+at Wildlife, Is Inconsistent With the Statu- 
+kita SERIES ee eee 
+
+
+es 
+I Sr ee 
+
+
+. The Structure of the Act Further Under- 
+
+
+mines FWS’s “Harm” Regulation 
+
+
+. Established Precedents and Principles of 
+
+
+Construction Suggest Skepticism of FWS’s 
+Interpretation 002... 
+
+
+. The Legislative History Confirms That Hab- 
+
+
+itat Modification Actions Are Not Regulated 
+ae ee Oe 
+
+
+PETITIONERS’ REMAINING ARGUMENTS 
+DO NOT OVERCOME THE TEXT AND 
+STRUCTURE OF THE ACT... 
+
+
+(ili) 
+
+
+12 
+12 
+18 
+
+
+22 
+
+
+26 
+
+
+29 
+
+
+36 
+
+
+iv 
+
+
+TABLE OF CONTENTS—Continued 
+
+
+Page 
+
+A. The “Facial Challenge” Argument Is A Red 
+PN osx cansatao iain se baraieaeammeasiaadieuaniien 36 
+
+B. The 1978 and 1982 ESA Amendments Did 
+
+Not Change The Meaning Of “Take” Or 
+Ratify The 1981 “Harm” Regulation ........... 39 
+
+C. TVA v. Hill Did Not Decide the Meaning of 
+“Take” or Endorse the Agency’s View .......... 46 
+
+D. Petitioners’ Policy Arguments Are Unavail- 
+BNI. cshs said nanan nacsucnananaadsnaseniicatsiiiaaiasgearanee aot 47 
+I cae re cee ecdedeneniabeicbens 49 
+
+
+FI Sotinei nd itsosisJucccsinnsheraointhotaamamiogicicauamaaniens la 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES 
+CASES Page 
+
+
+Adams Fruit Co. v. Barrett, 494 U.S. 638 (1990).. 27 
+American Hospital Ass’n v. NLRB, 499 U.S. 606 
+
+
+(1991) ....... acta eemisystsinleomsiaascebeeainiatdncdedatamidiaia te a. 40 
+Amoco Prod. Co. v. Village of Gambell, 480 U.S. 
+
+2: ls enter ras ae 46 
+Beecham v. United States, —— U.S. ——, 114 
+
+i SE III, “esate peicicaieedaiieeietacaihaliinanC Eda 12 
+Board of Governors of Fed. Reserve Sys. v. Dimen- 
+
+sion Financial Corp., 474 U.S. 361 (1986) ........... 37 
+Breininger v. Sheet Metal Workers Int'l Ass’n Lo- 
+
+COG, Ge a. he I ci tieeccils cickccscicitdateierenens 13 
+Brown v. Gardner, —— U.S. ——, 115 S.Ct. 552 
+
+EI cccisnditaeintsaTomniosbisicsubacesi-cstaediemsisateadlaadaiiinel 11, 12, 40, 41 
+
+
+Central Bank of Denver, N.A. v. First Interstate 
+
+
+Bank of Denver, N.A.., US. —, 114 
+
+aes I I viiia cites sheen ces ietital a occnshedetinae 40, 41, 44, 47 
+Chevron U.S.A., Inc. v. Natural Resources Defense 
+
+Council, Inc., 467 U.S. 8387 (1984) -200002...2. eee. 6, 11, 28 
+Crandon v. United States, 494 U.S. 152 (1990).... 28 
+Demarest v. Manspeaker, 498 U.S. 184 (1991).... 11, 40 
+Dewsnup v. Timm, 502 U.S. 410 (1992) -...00220002. 30 
+Dole v. United Steelworkers of America, 494 U.S. 
+
+» FE s,m eer I CS re ee NE ee Shao mR OS ae 12 
+Gustafson v. Alloyd Co., —— U.S. ——, 115 S.Ct. 
+
+I I i oii uiena eee. 12,17 
+
+
+Hill v. Tennessee Valley Auth., 419 F. Supp. 753 
+(E.D. Tenn. 1976), aff'd in pert. part, 549 F.2d 
+1064 (6th Cir. 1977), aff'd, 437 U.S. 153 
+
+
+ECT SNP UC ope cael MRIS neha tases a ese Oe NE 46 
+Holder v. Hall, —— U.S. ——, 114 S.Ct. 2581 
+
+I aig ee hk ee eal 12 
+Hughey v. United States, 495 U.S. 411 (1990) ........ 12 
+INS v. Cardoza-Fonseca, 480 U.S. 421 (1987)........ 11, 31 
+
+
+Jarecki v. G.D. Searle & Co., 367 U.S. 303 (1961).. 12,15 
+John Hancock Mut. Life Ins. Co. v. Harris Trust 
+& Sav. Bank, USS. , 114 S.Ct. 517 
+Sas ciene ara daa ca eee 31 
+Keene Corp. v. United States, 
+
+
+113 S.Ct. 2035 (1993) ponaqnisctaiepealomennaeiaaaaia 23 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+King v. St. Vincent’s Hosp., 502 U.S. 215 (1991)... 10 
+Landgraf v. USI Film Products, US. —, 
+114 S.Ct. 1483 (1994)... a len LS DAI ORE 44, 49 
+Mackey v. Lanier Collection Agency & Serv., 486 
+ok Rr Remon hee Koineen 26, 45 
+Massachusetts v. Morash, 490 U.S. 107 (1989)... 12 
+MCI Telecommunications Corp. v. AT&T, —— 
+US. » 26 BAK. Beee CARS) ......-.....-.-<0.-.-.. 44 
+NLRB v. Health Care & Retirement Corp. of 
+America, USS. , 114 S.Ct. 1778 
+BRE: coicrus Dsciveslatesuiapies uae ame te eeeaene 17, 40, 44 
+National Wildlife Fed’n v. Burlington Northern 
+R.R., 23 F.3d 1508 (9th-Cir. ee RNS MONEDA 47 
+
+
+Nationsbank of North Carolina, N.A. v. Variable 
+Annuity Life Ins. Co., US. , 115 
+Ee ie | RRS ea Pong co eon nth Pn RN CO 11 
+Pacific Northwest Generating Cooperative v. 
+Brown, 38 F.3d 1058 (9th Cir. 1994) RO aciecaenpanaceas 
+Palila v. Hawaii Dep’t of Land and Natural Re- 
+sources, 852 F.2d 1106 (9th Cir. 1988) ................ 23 
+Platte River Whooping Crane Critical Habitat 
+Maintenance Trust v. FERC, 962 F.2d 27, 
+
+
+reh’g denied, 972 F.2d 1362 (D.C. Cir. 1992).... 47 
+Public Employees Retirement Sys. v. Betts, 492 
+
+iis TE os eacectas cece ena nscancosoees Se 40, 41 
+R.A.V. v. City of St. Paul, —— U.S. ——, 112 
+
+Sis I MI oo ecscsteicia Salen ecq coeenueremeeine edie 46 
+Ratzlaf v. United States, U.S. ——, 114 S.Ct 
+
+Gs IE ioe ee 28 
+Reno v. Flores, —— US. ——, 118 S.Ct. 1439 
+
+be ERROR Tt MAMPI EKG OE tm es PAO 36-38 
+Reves v. Ernst & Young, —— U.S. —— , 113 S.Ct. 
+
+pg __, CRON e Do ianN Mewe exer Doe. Bebe yea 35 
+
+
+Rodriguez v. United States, 480 U.S. 522 (1987)... 46 
+
+Seattle Audubon Soc’y v. Evans, 952 F.2d 297 (9th 
+a_i ng B AE Be as eo 21 
+
+Sierra Club v. Froehlke, 534 F.2d 1289 (8th Cir. 
+RARER hy Recs te Is 2 pM RCN SN Ie Nh edema SS, OAs 18 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+Taylor v. Freeland & Kronz, US. ——, 112 
+I cr a eee 36 
+Tennessee Valley Auth. v. Hill, 487 U.S. 153 
+I ei cel ettadea sion ceinis isla chtoeemd nadanetadaencaaicadl 2, 22, 23, 46, 47 : 
+Third Nat'l Bank in Nashville v. Impac Ltd., 482 4 
+RU I 15 
+United States v. Bass, 404 U.S. 336 (1971) _......... 29 
+Rh LNA SNMP EI ew LL OTN Co DI Reo END 13, 21 
+United States v. FMC Corp., 572 F.2d 902 (2d Cir. 
+United States v. Granderson, US. ——, 114 
+Sic I 28, 34 
+United States v. Hayashi, 22 F.8d 859 (9th Cir. 
+RR Re LET ARI DANSON 15, 19, 22 
+United States v. Kozminski, 487 U.S. 931 (1988)... 29 
+United States v. Nguyen, 916 F.2d 1016 (5th Cir. : 
+| RRC Se nee ec ieieaas ee 2 
+United States v. Thompson/Center Arms Co., 
+US. fie ® Fs.  ; on 28 
+West Virginia Univ. Hosps., Inc. v. Casey, 499 
+A Fe IR cast cainteeebnctasinetecisananeces Ee ena TR a Oe 44 
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS 
+Fade ee MN Bie UF Wg Ole OE wiccecincecescarennccnncenoesececousscaceses 40 
+Administrative Procedure Act, 5 U.S.C. § 706........ 37, 39 
+Endangered Species Act of 1973 (“ESA”), as 
+amended 
+pS ek Eo 6. Ceres 22, 23, 47 
+BI ie Be ie Oe I occ cesinicacicececococsantcuameens passim 
+ESA § 4,16 U.S.C. $ 1588 ................................ 45, 47, 48 
+ESA § 5, 16 U.S.C. § 1584......0000000000... 2, 23, 24, 47, 48 
+Te hy Be ire OF BI ooking scisnceceesecnececcesmerseecs 24 
+ESA $7, 16 U.S.C. § 1536 ..................... 24, 23-26, 46-48 
+MR Oy Oe ls Oe BPI nc vncsnensnccecocencenceuanenses passim 
+ESA § 10, 16 U.S.C. § 1589 _......................... 4, 20, 41, 48 
+ESA § 11, 16 U.S.C. § 1540............................. 2, 5, 20, 37 
+Endangered Species Act Amendments of 1978, 92 
+RO 39-41, 45, 46 
+
+
+Endangered Species Act Amendments of 1982, 96 
+te MINE UII oie hese ccabeicenddacscansabieceosedecid ees 39-46 
+
+
+viii 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+Marine Mammal Protection Act, 16 U.S.C. §§ 1361- 
+
+IE iiactbsccitadpakinteibetidicaiide amet tone anne ae ee 15, 42 
+Migratory Bird Treaty Act, 16 U.S.C. § 703 .......... 21 
+Te ee I anki li criscicecedicreccnteaecca einen 25 
+Pe IE IE oc sscscsiccesistssusencebhadkinbensiiecberteciaucsiie 2 
+ee NE Ga siitnise op cdcsecinnsinsihinintiialcauaeciace 37 
+103 Stat. 1038 (1989), 16 U.S.C. § 1537 note 
+
+I a 42 
+ps EE aT Ce a Ne RN eS 42 
+
+
+LEGISLATIVE HISTORY 
+
+
+Endangered Species Act of 1973: Hearings on S. 
+1592 and S. 1982 Before the Subcomm. on En- 
+vironment of the Senate Comm. on Commerce, 
+ee ee ee hy» | Senne enn erEE 30, 31 
+Endangered Species: Hearings on H.R. 37 and 
+Other Bills Before the Subcomm. on Fisheries 
+and Wildlife Conservation and the Environment 
+of the House Comm. on Merchant Marine and 
+Fisheries, 93d Cong., 1st Sess. (1973) -.......002..... 16, 31 
+Endangered Species Act: Hearings Before the 
+Subcomm. on Fisheries and Wildlife Conserva- 
+tion and the Environment of the Comm. On 
+Merchant Marine and Fisheries, 97th Cong., 2d 
+
+
+I Te icicsc ss sdeieetistihaiatetiieebieneae a 26, 43 
+H.R. Conf. Rep. No. 835, 97th Cong., 2d Sess. 32 
+
+(1982), reprinted in 1982 U.S.C.C.A.N. 2873.... 43 
+H.R. Rep. No. 412, 98d Cong., Ist Sess. (1973) ...... 35 
+S. Rep. No. 307, 938d Cong., Ist Sess. (1973), 
+
+reprinted in 1973 U.S.C.C.A.N. 2989 .............. 18, 30, 34 
+S. Rep. No. 418, 97th Cong., 2d Sess. (1982) .......... 43, 45 
+119 Cong. Rec. 25,669 (July 24, 1973) .............220. 32 
+119 Cong. Rec. 25,678 (July 24, 1973).......000002 2c... 32 
+119 Cong. Rec. 25,682-83 (July 24, 1973) .......00000000.... 34 
+119 Cong. Rec. 25,691 (July 24, 1973) ........000000000000... 32 
+119 Cong. Rec. 30,162 (Sept. 18, 1973) -......0000000000..... 24, 32 
+119 Cong. Rec. 42,451 and 42,535 (Dec. 19, 1973).. 32 
+124 Cong. Rec. 21,565 (July 19, 1978) ............... eee 41 
+
+
+124 Cong. Rec. 38,156 and 38,666 (Oct. 14, 1978).. 45 
+128 Cong. Rec. 26,188 (Sept. 30, 1982) .............20...2.... 43 
+
+
+ix 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+REGULATIONS Page 
+ic Of FE LAL EAA NE passim 
+ale LLL LEO 5 
+ad} ih , RR ee ee cae ee ae 25 
+AP I in enahanithcidecctatasanaiccetteee des siceia 25 
+MISCELLANEOUS 
+
+
+Anthony, Interpretive Rules, Policy Statements, 
+Guidances, Manuals, And The Like—Should 
+Federal Agencies Use Them To Bind The Pub- 
+lic?, 41 Duke L.J. 1811 (1992) ......................... 9 
+
+Arnold, Conserving Habitats and Building Habi- 
+tats: The Emerging Impact of the Endangered 
+Species Act on Land Use Development, 10 Stan. 
+
+
+BOTS Bala BRIE cintercctiemrecctsttrneccsetidis doc ene,... 9 
+M. Bean, The Evolution Of National Wildlife Law 
+CURE ND sits et 26 
+
+
+Brennan and Swanson, Wildlife Protection o. the 
+Public Lands, Public Land Law 7-21 (Rocky 
+
+
+Mt. Min. L. Found. Sp. Inst. 1992) 3 
+G. Crabb, Crabb’s English Synonymes 449 
+
+WRI ahctieciabie tae 10 
+Compact Edition Of The Oxford English Diction- 
+
+I i ee ed 19 
+
+
+Gidari, The Endangered Species Act: Impact Of 
+Section 9 On Private Landowners, 24 Envtl. L. 
+Ae I eet rs | 4, 9, 34, 35 
+Lachenmeier, The Endangered Species Act of 
+1973: Preservation Or Pandemonium? 5 Envtl. 
+
+
+ls Me I ee le a 34 
+C. Mann and M. Plummer, Noah’s Choice—The 
+
+Future of Endangered Species ( Knopf 1995)... 48 
+McArthur, The Oxford Companion to the English 
+
+Language (1971) ............. RES ARE eee ee a 10 
+Note, Increased Scrutiny for the Administrative 
+
+Crime, 77 Cornell L. Rev. 612 (1992)... 29 
+J. Opdycke, Mark Mu Words: A Guide to Mod- 
+
+ern Usage and Expression (1949) _.................... 10 
+
+
+0 ee 
+
+
+x 
+
+
+TABLE OF AUTHORITIES—Continued 
+Page 
+
+
+Ruhl, Regional Habitat Conservation Planning 
+Under The Endangered Species Act: Pushing 
+The Legal And Practical Limits Of Species Pro- 
+tection, 44 Sw. L.J. 1893 (1991) .....000. 4, 48 
+Salzman, Evolution and Application of Critical 
+Habitat under the Endangered Species Act, 14 
+Harv. Envtl. L. Rev. 311 (1990) ......... ee Thee RR 26 
+Thornton, Takings under Endangered Species Act 
+Section 9, 4 Nat. Resources & Env’t 7 (Spring 
+I nesiccauceteacaibhedeaintae cacaaiaielintacenogss ieaededeunutededeiace eens 9 
+Thornton, The Search for a Conservation Planning 
+Paradigm: Section 10 of the ESA, 8 Nat. Re- 
+
+
+sources & Env’t 21 (Summer 1998) ........00.0..0...... 48 
+The Random House Dictionary of the English 
+
+Language—The Unabridged Edition (1971).... 19 
+Using Bird Tapes, BIRDING, June 1992 .................... 16-17 
+
+
+Webster’s Third New International Dictionary Of 
+
+The English Language—Unabridged (1971)..10, 16, 19 
+Yellow Rails, Birding Ethics, and the Law, BIRD- 
+
+Ss I I oe diacncan cic ecnesiecancealion spuhstisdecuceiasian 17 
+46 Fed. Reg. 29,491 (June 2, 1981) (J.A. 58) ............ 15 
+60 Fed. Reg. 9486, 9491, 9496 (Feb. 17, 1995) ........... 4 
+
+
+IN THE 
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1994 
+
+
+No. 94-859 
+
+
+BRUCE BABBITT, Secretary of the United States 
+Department of the Interior, et al., 
+
+
+‘ Petitioners, 
+
+
+SWEET HOME CHAPTER OF COMMUNITIES 
+FOR A GREAT OREGON, et al., 
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the District of Columbia Circuit 
+
+
+BRIEF FOR RESPONDENTS 
+
+
+STATUTORY AND REGULATORY 
+PROVISIONS INVOLVED 
+
+
+The relevant provisions of the Endangered Species Act 
+of 1973 as amended (“ESA” or “Act”), 16 U.S.C. 
+§§ 1531-44, that are not in the Appendix to the Brief 
+of Petitioners * (“Pet. Br.”) are set forth in the Appendix 
+to this brief. 
+
+' Petitioners, Secretary of the Interior Babbitt and Fish and 
+Wildlife Service (“FWS”) Director Beattie, are collectively re- 
+ferred to as “Petitioners” or “FWS.” Respondents are collectively 
+referred to as “Respondents” or “Sweet Home.” The corporate 
+Respondents (Erickson Busheling, Inc.; Ridgetree Logging Co.: 
+Shotpouch Logging Co.) are privately held and have no parent 
+or subsidiary companies. Respondents include all the parties iden- 
+
+
+a 
+
+
+2 “ 
+STATEMENT 
+
+
+Congress did not intend the prohibition against “take” 
+of protected wildlife, set forth in ESA § 9(a)(1), to 
+encompass ordinary land use activities that are not di- 
+rected at wildlife and do not directly injure protected 
+wildlife. 
+
+
+The Statute. The ESA protects against two significant 
+sources of species extinction: (1) the depletion of needed 
+habitat, and (2) human predation. Tennessee Valley 
+Authority v. Hill, 437 U.S. 153, 179 (1978) (“TVA”). 
+‘The ESA targets the first source in §§ 5 and 7, and the 
+second in §9. 16 U.S.C. §§ 1534, 1536, and 1538. 
+
+
+ESA § 9(a)(1) prohibits commerce in or the taking 
+of an endangered wildlife species.” Jd. § 1538(a)(1). 
+The provision specifically at issue here makes it “unlaw- 
+ful for any person subject to the jurisdiction of the United 
+States to . . . take any such species”. Id. § 1538(a) 
+(1)(B). “Take” is defined in the Act. It means “to 
+harass, harm, pursue, hunt, shoot, wound, kill, trap, cap- 
+ture, or collect, or to attempt to engage in any such 
+conduct.” Id. § 1532(19). 
+
+
+tified by Petitioners except Betty Orem, who has sold her prop- 
+erty and no longer wishes to be a party. 
+
+
+“ESA §11 sets civil and criminal penalties for violations of the 
+Act. An individual who has “knowingly” taken a listed species can 
+be imprisoned for up to one year and fined up to $100,000 for 
+each member taken. 16 U.S.C. § 1540(b); 18 U.S.C. §§ 3559, 3571. 
+The lower courts have held that the “knowingly” standard of 
+§ 1540(b) requires only a general intent to perform an act, not 
+a specific intent to violate the ESA. F.g., United States v. Nguyen, 
+916 F.2d 1016 (5th Cir. 1990). In addition, ESA § 11 authorizes 
+governmental and citizen suits to enjoin violations. 16 U.S.C. 
+§ 1540(e) (6), (2) (1). 
+
+Although ESA §9(a)(1) refers to endangered wildlife species, 
+FWS has adopted a regulation extending the “take” prohibition 
+to most threatened wildlife species. 50 C.F.R. §17.31(a). ESA 
+§$9(a)(1)(G) makes it unlawful for any person to “violate any 
+[ESA] regulation.” 16 U.S.C. § 1538(a) (1) (G). 
+
+
+3 
+
+
+The Regulation. FWS has elaborated upon the statu- 
+tory definition by adopting a regulation that in turn de- 
+fines “harm”: 
+
+
+Harm in the definition of “take” in the Act means 
+an act which actually kills or injures wildlife. Such 
+act may include significant habitat modification or 
+degradation where it actually kills or injures wild- 
+life by significantly impairing essential behavioral 
+patterns, including breeding, feeding or sheltering. 
+
+
+50 C.F.R. §17.3. That regulatory definition sweeps 
+within the “take” prohibition a host of activities that are 
+not directed at wildlife and not ordinarily thought of as 
+the taking of wildlife. Specifically, it includes “habitat 
+modifications” that cause or contribute to some injury to 
+a listed species* generally, for example by withdrawing 
+some beneficial habitat from the species and thus “impair- 
+ing essential behavioral patterns, including breeding, feed- 
+ing or sheltering.” The agency definition achieves this 
+result by relying on the ultimate effect of an action; the 
+nature of the action itself is not important. Thus, the 
+regulation does not require that the prohibited action be 
+directed at or against wildlife. Nor does it require any 
+direct injury to some identifiable creature.* 
+
+
+Application of the Regulation. As written, the regu- 
+lation reaches the use of land in furtherance of ordinary 
+
+
+*“Listed species” is the common collective reference for en- 
+dangered and threatened species. 
+
+
+* As Petitioners advised the court below, “ ‘harm’ exists where 
+there is proof that habitat modification alters essential behavioral 
+patterns which then indirectly will cause death or injury (such as 
+reproductive failures) to the species. . . .” Brief for Federal 
+Appellees 47 (Nov. 25, 1992). The necessary proof ‘may consist 
+
+. Of measurable declines in the population of the animal.” Jd. 
+See Brennan and Swanson, Wildlife Protection on the Public 
+Lands, Public Land Law 7-21 (Rocky Mt. Min. L. Found. Sp. 
+Inst. 1992) (FWS officials advising of “FWS position that habitat 
+modification alone, without direct evidence of physical harm, can 
+constitute a forbidden taking of listed species”). 
+
+
+4 
+
+
+agricultural, silvicultural, housing, and similar objectives. 
+FWS relies on the regulation to warn landowners that it 
+considers certain land uses harmful to certain listed 
+species (as by interferring with breeding or foraging pat- 
+terns), and that engaging in such activities will subject 
+the actor to agency enforcement.’ As a practical matter, 
+“persons whose extended conduct might be found a ‘take,’ 
+and who thus are exposed to the criminal penalties .. . 
+are under commanding pressure to comply” with FWS’s 
+view of “harm,” either by forgoing such conduct or by 
+applying for an incidental take permit.° Pet. App. 93a. 
+
+
+The scope and uses of the regulation are illustrated by 
+FWS’s “owl guidelines.” Those guidelines describe what 
+FWS considers “harm” to the northern spotted owl, a 
+threatened species that is widely dispersed across forested 
+lands in the Northwest. The guidelines state that timber- 
+land owners will be “subject to investigation” for prose- 
+cution under ESA §9 if they do not preserve (forgo 
+timber harvesting on) 1,000 to 3,960 acres around each 
+spotted owl nest site.’ 
+
+
+5 These warnings put landowners on “notice,” of course, and 
+thus facilitate criminal enforcement for a “knowing” violation of 
+the Act. 
+
+
+* Under the 1982 ESA Amendments, FWS is authorized to per- 
+mit actions that it would otherwise view as prohibited. 16 U.S.C. 
+§$§ 15386(b) (4), 1539(a). A person seeking an “incidental take 
+permit” to use his or her land without fear of prosecution must 
+agree to be bound by a “conservation plan” setting forth the per- 
+missible uses of that land. Jd. § 1539(a). 
+
+
+7 J.A. 42-44. See Sweet Home’s Complaint { 24, J.A. 25. The 
+owl guidelines and other examples of FWS’s application of its 
+“harm” definition are discussed in Gidari, The Endangered Species 
+Act: Impact of Section 9 On Private Landowners, 24 Envtl. L. 
+419, 426-43 (1994); Ruhl, Regional Habitat Conservation Planning 
+Under The Endangered Species Act: Pushing The Legal And 
+Practical Limits Of Species Protection, 44 Sw. L.J. 1393, 1409-19 
+(1991). FWS continues to follow the standards in the owl guide- 
+lines. See 60 Fed. Reg. 9486, 9491, 9496 (Feb. 17, 1995). 
+
+
+5 
+
+
+The Proceedings Below. Respondents are directly af- 
+fected by the agency’s “harm” regulation. They brought 
+this action under ESA § 11(g) and the Administrative 
+Procedure Act (“APA”) to challenge it. See J.A. 17-26. 
+As the district court summarized (Pet. App. 76a): 
+
+
+Plaintiffs in this action are small landowners, small 
+logging companies, and families allegedly dependent 
+on the forest products industry in the Pacific North- 
+west and in the Southeast. In order to enforce the 
+regulations at 50 C.F.R. § 17.3 and § 17.31 (a) 
+and to avoid “harm”-type takings of the northern 
+spotted owl and other threatened wildlife species, 
+the Fish and Wildlife Service (“FWS”) has placed 
+restrictions on timber harvesting. Plaintiffs claim 
+that these restrictions have forced them to lay off 
+employees, limited their income from trust lands, 
+reduced the timber supply, and placed some of the 
+plaintiffs in the position of being unable to support 
+their families. They bring this action challenging the 
+“harm” definition at 50 C.F.R. § 17.3 as contrary 
+to the ESA. 
+
+
+The district court sustained the regulation. Pet. App. 
+77a-83a. The court of appeals reversed,* holding the 
+“harm” regulation invalid in its effort to “embrace habitat 
+modifications.” Pet. App. 24a. The court concluded that 
+the agency’s definition was inconsistent with the statutory 
+(and ordinary) meaning of “take,” with the overall struc- 
+ture of the Act, and with its legislative history. Pet. App. 
+3a-10a. 
+
+
+* Upon initial consideration, the panel voted to affirm. Pet. App. 
+46a. Judge Williams agreed with Judge Sentelle that the agency’s 
+“harm” regulation was irreconcilable with the 1973 Act, but he 
+believed the ESA Amendments of 1982 had implicitly ratified the 
+agency’s interpretation. Pet. App. 67a-72a. He thus voted with 
+Judge Mikva for affirmance; Judge Sentelle dissented. On Sweet 
+Home’s petition for rehearing, Judge Williams reconsidered his 
+earlier views on the effect of the 1982 Amendments, concluding 
+that they had not altered the 1973 Act in any relevant respect. 
+Pet. App. 10a-24a. He authored the 2-1 majority opinion. 
+
+
+6 
+
+
+Judge Sentelle concurred, emphasizing that the lan- 
+guage and structure of the Act precluded the agency’s 
+interpretation, without resort to legislative history. He 
+found himself unable to “cram the agency’s huge regula- 
+tory definition” into the “tiny crack of ambiguity” created 
+by including “harm” with the nine other terms in the 
+Statutory definition of “take.” Pet. App. 26a. 
+
+
+Judge Mikva dissented. He found “the legislative his- 
+tory to be most ambiguous,” Pet. App. 34a, and con- 
+cluded that the deference owed the agency interpretation 
+under Chevron U.S.A., Inc. v. Natural Resources Defense 
+Council, Inc., 467 U.S. 837, 842-45 (1984), required 
+the regulation to be sustained. Pet. App. 40a-4la. 
+
+
+On August 12, 1994, the court of appeals denied Peti- 
+tioners’ request for rehearing en banc. Pet. App. 89a-99a. 
+Judge Williams’ opinion filed that day summarizes how 
+the “harm” regulation exceeds statutory limits: 
+
+
+[T]he statute, fairly read -in light of the “traditional 
+tools of statutory interpretation,” manifests a clear 
+determination by Congress that the prohibitions of 
+[ESA] §9 should not reach habitat modifications 
+as defined by the Department [of the Interior], where 
+there is no direct action by the defendant against 
+any member of the species. Extending the word 
+“harm” to reach habitat modification as so conceived 
+carries § 9’s prohibition far beyond the reach effected 
+by all the other terms used in the definition; it applies 
+to every citizen duties the Act expressly imposed 
+only on federal government agencies; and it ignores 
+the plausible inferences from the Senate’s deletion 
+of the phrase “habitat modification” from the draft 
+bill. 
+
+
+Pet. App. 95a-96a. 
+
+
+This Court granted certiorari on January 6, 1995. 
+
+
+7 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The prohibition against “take” of listed wildlife set 
+forth in ESA §9, 16 U.S.C. § 1538, cannot fairly be 
+read to bar ordinary uses of land. Yet FWS has seized 
+on the elastic word “harm,” one of ten verbs within the 
+statutory definition of “take,” to expand the reach of 
+ESA §9 in just that way. FWS defines “harm” to forbid 
+any “habitat modification” if its ultimate effect is to injure 
+a listed species, even by reducing the reproductive success 
+of a species member. See note 4, supra. By looking ex- 
+Clusively to ultimate effect, and disregarding the character 
+of the conduct sought to be prohibited, FWS’s regulation 
+reaches many normal activities that are not directed at 
+wildlife and cause no concrete injury to listed wildlife. 
+That effort is irreconcilable with the Act as written. 
+
+
+The words Congress used to describe what it sought to 
+prohibit reveal adherence to the traditional concept of a 
+wildlife “take.” They reflect Congress’ desire to stop all 
+forms of human predation on protected species. As en- 
+acted by Congress, the “take” prohibition evokes purpose- 
+ful efforts to injure or capture wildlife: the direct applica- 
+tion of force to, or physical intrusions on, specific crea- 
+tures; direct and concrete injury to identifiable animals; 
+and actions which a specifically acting human does to a 
+specific creature. Whatever elasticity “harm” may have 
+in other contexts, its use as one of ten descriptors of 
+wildlife “take” will not allow it to reach “habitat modifi- 
+cations” that unintentionally deprive listed wildlife of 
+some environmental benefit. The expansion of ESA § 9 
+to reach and potentially criminalize ordinary actions of 
+Ordinary citizens cannot be hung on so “small a_ nail” 
+(Pet. App. 96a) as the unelaborated and unhighlighted 
+use of “harm,” a word added to nine existing words in 
+the reported definition of “take” by “technical amend- 
+ment” on the Senate floor. 
+
+
+Petitioners are correct that Congress was concerned 
+with the need to preserve vital habitat for endangered 
+
+
+8 
+
+
+species. The structure of the Act confirms, however, that 
+Congress addressed that concern through other provisions. 
+Those provisions, which impose special duties on the 
+federal government, would be rendered meaningless or 
+inconsequential if Petitioners’ view of “harm” were ac- 
+cepted. The intent of the Congress that enacted ESA § 9 
+cannot be found in amendments that subsequent Con- 
+gresses did not adopt or made to other provisions of the 
+Act. Nor can Petitioners’ policy arguments overcome the 
+text and structure of the Act. 
+
+
+ARGUMENT 
+
+
+I. FWS’S EXPANSIVE DEFINITION OF “HARM” IS 
+NOT CONSISTENT WITH THE LANGUAGE, 
+STRUCTURE, OR HISTORY OF THE ACT 
+
+
+A. The Issue Presented 
+
+
+The agency’s aggressive interpretation of “harm” (and 
+therefore of “take” as used in the operative portions of 
+the Act) broadly expands the prohibitions of ESA § 9, 
+creating FWS authority over any number of private land 
+uses. As Petitioners make clear, FWS’s gloss on the word 
+“harm” is important because it, and it alone, renders 
+unlawful an extraordinarily broad class of seemingly law- 
+ful activities—private land use activities indirectly affect- 
+ing listed wildlife, but in no respect directed at wildlife 
+or directly injuring specific animals. These activities would 
+otherwise be beyond the “take” prohibition and, indeed, 
+beyond the regulatory scope of the Act. “Harm” is thus 
+the “hook” upon which FWS hangs a pervasive constraint 
+on the use of private land. 
+
+
+Under FWS’s definition, effects on listed wildlife alone 
+are sufficient to render a person’s actions unlawful. This 
+is clearly expressed in the regulation: “habitat modifica- 
+tion . . . where it actually kills or injuries wildlife by 
+significantly impairing essential behavioral patterns, in- 
+cluding breeding, feeding or sheltering.” ° 
+
+
+950 C.F.R. § 17.3. As Petitioners explain, FWS does not limit 
+“actual injury” to physical injury to an identifiable animal. See 
+
+
+wy Meee 
+
+
+9 
+
+
+The court below held that this regulatory definition 
+carries “take” and “harm,” as used in the Act, too far. 
+When read in its statutory context, “take” necessarily 
+involves action directed at wildlife. It thus cannot be 
+stretched to cover the types of ordinary land use activities 
+of concern to Respondents, such as cutting trees, clearing 
+brush, or constructing or maintaining roads. 
+
+
+In so concluding, the court below recognized, and we 
+concede, that the word “harm,” wrenched from its con- 
+text and considered abstractly, is a word of extraordinary 
+elasticity, arguably capable of the meaning FWS attributes 
+to it. See Pet. App. 3a-4a, Pet. Br. at 20-21. “Harm” can 
+be used to refer to any sort of action that produces any 
+sort of negative effect on a person or thing. It is some- 
+times even used to refer to actions or inactions that de- 
+prive some person or thing of some needed benefit (e.g., 
+
+
+Pet. Br. at 6-7, 45; note 4, supra. The uncertainty in evaluating 
+whether a given “habitat modification” will “significantly” impair 
+the “essential behavioral patterns” of a particular species adds to 
+the regulation’s force as a land use constraint. Through general 
+and specific warnings to private landowners that ordinary uses 
+of their lands would subject them to “take” investigations, FWS 
+effectively uses a threat of criminal sanctions to chill a great 
+many land use activities that might or might not cause actual 
+injury or death. 
+
+In addition, FWS has threatened state and local officials with 
+prosecution for “harm” if they approve a permit and the per- 
+mittee’s actions “harm” listed wildlife. Rather than risk liability, 
+these officials often apply FWS’s view of “harm” as a limit on their 
+permitting authority, thereby further constraining private land 
+uses. See Gidari, 24 Envtl. L. at 432-36; Anthony, Interpretive 
+Rules, Policy Statements, Guidances, Manuals, And The Like— 
+Should Federal Agencies Use Them To Bind The Public?, 41 
+Duke L.J. 1311, 1366-71 (1992) ; Thornton, Takings under Endan- 
+gered Species Act Section 9, 4 Nat. Resources & Env’t 7, 51 
+(Spring 1990) (local officials “listen when told they may go to 
+jail for issuing a grading permit”). Thus, the “harm” regulation 
+broadly constrains land uses. See Arnold, Conserving Habitats 
+and Building Habitats: The Emerging Impact of the Endangered 
+Species Act on Land Use Development, 10 Stan. Envt’] L. J. 1, 
+30-36 (1991). 
+
+
+10 
+
+
+a hospitable habitat), thereby “harming” that person or 
+thing. 
+
+
+Yet the word is generally and most comfortably used 
+in reference to purposeful efforts to injure.” The com- 
+mand, “Don’t harm that child!”, for example, would not 
+naturally be thought of as a directive to restrict- the 
+child’s television-watching or candy intake, even though 
+either in excess would cause the child “harm.” In active 
+voice, or in a prohibitory sense—as in ESA §§ 3(19) 
+and 9(a)(1)—‘“harm” is commonly understood to convey 
+a sense of purposeful effort and direct, concrete injury. 
+
+
+But the meaning of the ESA term “harm” need not and 
+cannot be judged in the abstract. As in virtually every 
+case of statutory construction, its meaning must be deter- 
+mined by its use in context."’ King v. St. Vincent’s Hosp., 
+502 U.S. 215, 221 (1991) (the “meaning of statutory 
+language, . . . depends on context”). If Congress’ intent 
+is discernible from the statutory language and its context, 
+the statute’s structure, and principles of statutory con- 
+
+
+10 See J. Opdycke, Mark My Words: A Guide to Modern Usage 
+and Expression 330 (1949) (“[H]urt connotes pain as a rule, as 
+a hurt to a hand or a paw or a hoof, or to a name or a reputation 
+or a trade. Like harm, it is almost as broad in connotation as 
+injury itself. But harm has in it a little of the idea of specially 
+focused hurt or injury, as if a personal injury has been anticipated 
+and intended”) (emphasis added); G. Crabb, Crabb’s English 
+Synonymes 449 (1917) (‘Harm and mischief are as general in 
+their application as injury, and comprehend what is physically 
+as well as morally bad, but they are more particularly applicable 
+to what is done intentionally by the person”) (emphasis added). 
+
+
+11 This proposition is equally true in discerning the meaning 
+of language generally. See Webster’s Third New International 
+Dictionary of the English Language—Unabridged (1971) at 19a 
+(“The best sense is the one that most aptly fits the context’) ; 
+McArthur, The Oxford Companion to the English Language 33 
+(1971) (Although most common English words have multiple 
+meanings, “when a native user of English encounters [a word] 
+there is rarely any ambiguity, because the context is usually 
+clear”). 
+
+
+11 
+
+
+struction, that is the end of the matter. INS v. Cardoza- 
+Fonseca, 480 U.S. 421, 446-49 (1987). Where Con- 
+gress’ intent can be discerned, no deference is owed under 
+Chevron to an inconsistent interpretation that the agency 
+regards as more felicitous.” 
+
+
+It is only when Congress’ intent is not fairly discernible 
+from “the text and reasonable inferences from it,” Brown, 
+115 S.Ct. at 556, that the Court must proceed to the 
+second step of the Chevron analysis. The question at 
+that point is whether the agency interpretation is “reason- 
+able in light of the legislature’s revealed design.” Nations- 
+bank of North Carolina, N.A. v. Variable Annuity Life 
+Ins. Co., US. , 115 S.Ct. 810, 813-14 (1998) 
+
+
+Here, Congress’ intent is discernible and precludes the 
+“harm” regulation under the first Chevron inquiry. But 
+even if it were not, Petitioners’ reading is fundamentally 
+inconsistent with Congress’ revealed design, and thus un- 
+reasonable under Chevron’s second step. 
+
+
+The analysis below follows a series of widening con- 
+centric circles, proceeding (1) from the words used with 
+“harm” in the statutory definition; (2) to the defined 
+term “take” itself; (3) to the way “take” is used in the 
+Act generally and in similar legislation; (4) to the struc- 
+ture of the Act as a whole; (5) to the other, nontextual 
+principles of construction which provide guidance in con- 
+struing statutes; and, finally, (6) to the legislative process 
+and legislative history. 
+
+
+12 Contrary to Petitioners’ suggestion (at 30), the agency’s in- 
+terpretation receives no judicial deference during the first step 
+of Chevron. E.g., Brown v. Gardner, US. , 115 S.Ct. 
+552, 557 (1994); Demarest v. Manspeaker, 498 U.S. 184, 190-91 
+(1991) ; Chevron, 467 U.S. at 843 n.9. 
+
+
+12 
+
+
+B. The Agency’s Attempt to Define “Harm” and 
+“Take” to Encompass Habitat Modification Actions 
+Affecting Wildlife, But Not Directed at Wildlife, 
+Is Inconsistent With the Statutory Text 
+
+
+The ESA makes it “unlawful for any person .. . to 
+. . . take” endangered wildlife. 16 U.S.C. § 1538(a) 
+(1)(B). “Take” is defined in the Act, and the word 
+“harm” appears within the statutory definition: “ ‘take’ 
+means to harass, harm, pursue, hunt, shoot, wound, kill, 
+trap, capture, or collect, or to attempt to engage in any 
+such conduct.” Jd. § 1532(19). We focus first upon this 
+statutory definition and the inferences to be drawn from 
+the way “harm” is used within it. 
+
+
+1. “Harm” 
+
+
+a. Because “harm” is an indefinite word in a list con- 
+taining words that are more definite, two established 
+canons of construction are helpful. The first is the maxim 
+“noscitur a sociis, that a word is known by the company 
+it keeps.” Jarecki v. G.D. Searle & Co., 367 U.S. 303, 
+307 (1961). That principle is “often wisely applied 
+where a word is capable of many meanings in order to 
+avoid the giving of unintended breadth to the Acts of 
+Congress.” Jd. This Court has frequently applied that 
+principle (or something closely akin to it) in interpreting 
+Statutes because it provides one of the surest means of 
+discerning the sense in which a statutory term has been 
+used.** A second, related canon is “ejusdem generis— 
+that a general statutory term should be understood in light 
+of the specific terms that surround it”—so that the general 
+word is understood to include only “categories similar in 
+type to those specifically enumerated.” * 
+
+
+3 B.g., Gustafson v. Alloyd Co., U.S. , 115 S.Ct. 1061, 
+1069-70 (1995); Brown, 115 S.Ct. at 555; Beecham v. United 
+States, ——- U.S. ——, 114 S.Ct. 1669, 1671 (1994); Dole v. United 
+
+
+Steelworkers of America, 494 U.S. 26, 36 (1990); Massachusetts 
+v. Morash, 490 U.S. 107, 114-15 (1989). 
+
+
+14 Hughey v. United States, 495 U.S. 411, 419 (1990); see 
+, 114 §.Ct. 2581, 2604 (1994) (con- 
+
+
+Holder v. Hall, USS. 
+
+
+13 
+
+
+It is not difficult to identify the common threads that 
+run through the nine verbs accompanying the word “harm” 
+in the statutory definition of “take.” Each of these terms— 
+“to harass, . . . pursue, hunt, shoot, wound, kill, trap, 
+capture, or collect” wildlife—involves action directed at 
+the wildlife object, rather than merely affecting that ob- 
+ject.” They are all active words, suggesting purposeful 
+conduct directed at some living thing. All “involve a sub- 
+stantially direct application of force, which the Service’s” 
+definition lacks altogether. Pet. App. 5a-6a. And all 
+describe actions concretely affecting individual members 
+of a species; they do not suggest actions more tenuously 
+affecting the vitality of the species as a whole (e.g., effects 
+on the reproductive success rate). See note 4, supra. 
+
+
+In sum, each of the nine words accompanying “harm” 
+is fully consistent with a comprehensive prohibition on the 
+taking or attempted taking of wildlife, as taking is com- 
+monly used (see pages 19-22, infra). Looked at individ- 
+ually, and as a whole, those words reflect an effort to ban 
+hunting and other forms of predation directed at listed 
+
+
+curing opinion); Breininger v. Sheet Metal Workers Int’! Ass’n 
+Local 6, 493 U.S. 67, 91-92 (1989). Petitioners also invoke ejusdem 
+generis, agreeing that “harm” should be regarded as a general 
+term whose meaning is guided by the common elements of the 
+words that follow. Pet. Br. at 23. The problem for Petitioners, 
+however, is that ejusdem generis undermines their broad, effect- 
+driven definition, because the other words all imply efforts to 
+cause hurt or injury to specific animals. 
+
+
+All of the terms, except perhaps “kill,” can be faily used only 
+to describe action specifically directed at an object. When “kill” 
+is used in active voice, or prohibitory sense (“Thou shall not 
+kill”), it too connotes intentional and directed conduct. Here, 
+the operative language of ESA § 9 is phrased in a present, active, 
+and prohibitory sense. It would stretch “kill” beyond its ESA 
+limits to use it to encompass everyday actions merely because 
+they ultimately result in death. “Kill” is not synonymous with 
+death. See United States v. FMC Corp., 572 F.2d 902, 905 (2d 
+Cir. 1978) (it “would offend reason and common sense” to find 
+that wildlife “take” includes “deaths caused by automobiles’’). 
+
+
+ee 
+
+
+14 
+
+
+wildlife. None implies the prohibition of an ordinary act, 
+not directed against wildlife, that may generally deprive a 
+species of some advantage (in the form of a preferred 
+habitat) that it might otherwise enjoy. 
+
+
+The other terms used in the statutory “take” definition 
+are thus far removed from the agency’s “harm” regulation 
+and the paradigm of habitat modification set forth in its 
+second sentence. Unlike the verbs that are “harm’s” 
+neighbors in the statute, the agency’s definition is not 
+limited by the character of the conduct (whether the 
+action is directed at wildlife), or even by the relationship 
+between the actor and the consequences of the act (direct 
+and immediate). Instead, it focuses exclusively on the 
+ultimate effect of the act on listed wildlife. This confuses 
+some remote effect on a species’ population with a con- 
+crete effect on some member of that species (as is evoked 
+by all the other terms within the definition). It also ignores 
+the role of intervening acts in bringing about that general- 
+ized effect. It thus inflates the definition of “take” far 
+beyond that which a specificaly acting human does to an 
+identifiable member of some species. 
+
+
+Applying the noscitur a sociis principle, Judge Sentelle 
+expressed the point this way: 
+
+
+In the present statute, all the other terms among 
+which “harm” finds itself keeping company relate 
+to an act which a specifically acting human does 
+to a specific individual representative of a wildlife 
+species. In fact, they are the sorts of things an 
+individual human commonly does when he intends 
+to “take” an animal. Otherwise put, if I were intent 
+on taking a rabbit, a squirrel, or a deer, as the 
+term “take” is used in common English parlance, I 
+would go forth with my dogs or my guns or my 
+snares and proceed to “harass . . . pursue, hunt, 
+shoot, wound, kill, trap, capture, or collect” one of 
+the target species. 16 U.S.C. § 1532(19). If I suc- 
+ceeded in that endeavor, I would certainly have 
+
+
+15 
+
+
+“taken” the beast. If I failed, I would at least have 
+“attempt[ed] to engage in . . . such conduct.” Jd. 
+
+
+Pet. App. 70a (emphasis added). 
+
+
+Although Petitioners (at 21-23) appear to criticize the 
+use of contextual canons, such as noscitur a sociis, it is 
+plain that one must look somewhere to divine the sense 
+in which an undebated, unelaborated and highly elastic 
+term like “harm” is being used.* The natural place to 
+start is with its companion words in the statute. Third 
+Nat'l Bank of Nashville v. Impac Ltd., 432 U.S. 312, 322 
+and n.16 (1977) (“one hardly need rely on such Latin 
+phrases as ejusdem generis and noscitur a sociis to reach 
+this obvious conclusion” that “words grouped in a list 
+should be given related meaning”). Because “harm” is 
+“capable of many meanings,” the context-based canons 
+are “wisely applied . . . to avoid the giving of unintended 
+breadth” to the term. Jarecki, 367 U.S. at 307. 
+
+
+Petitioners themselves have agreed on another occasion. 
+In an Interior Department legal opinion, published in 
+1981, they analyzed the ESA meaning of “harm.” Peti- 
+tioners there concluded that under the ejusdem generis 
+principle, “ ‘harm’ should be interpreted to include only 
+those actions that are directed against, and likely to injure 
+or kill, individual wildlife.” "7 
+
+
+16 There is no specific legislative history on “harm.” The term 
+was added as part of a package of 24 undebated “technical” floor 
+amendments. See page 34, infra. 
+
+
+1746 Fed. Reg. 29,491 (June 2, 1981) (J.A. 58). Similarly, the 
+Ninth Circuit recently applied the “familiar principle . . . that 
+words grouped in a list should be given related meaning” to con- 
+strue the term “harass” and other forms of “take” under the 
+Marine Mammal Protection Act of 1972 (“MMPA”). United 
+States v. Hayashi, 22 F.3d 859, 864 (9th Cir. 1994). Concluding 
+that those terms all involved “direct intrusions,” the court re- 
+fused to read “take” as extending far beyond the legislative focus 
+on aninals that “have been blown up, clubbed to death, run down 
+by boats, [or] poisoned” to include the ordinary activities of 
+private fishermen. /d. at 864 n.12. 
+
+
+a : 16 
+
+
+Petitioners (at 27) argue that the court of appeals’ 
+description of all the other “take” terms as involving the 
+“direct application of physical force” is undermined by 
+the inclusion of “harass” and the example in the House 
+Report of birdwatching as harassment (quoted at pages 
+34-35, infra). The argument is fundamentally miscon- 
+ceived. Petitioners are of course correct that “take” does 
+not turn on “physical blows to the body” (Pet. Br. at 27), 
+or any other actual physical touching. But the problems 
+with FWS’s definition and its focus on habitat modification 
+lie elsewhere. It is the absence of activity directed at wild- 
+life, of direct intrusion and concrete effect, that renders 
+the definition untenable. “Harass” necessarily encom- 
+passes those elements.’* It is, like the other words within 
+the definition, an act which a “specifically acting human 
+does to a specific individual representative of a wildlife 
+species.” Pet. App. 70a. 
+
+
+The birdwatching-as-harassment example that Petition- 
+ers take from the 1973 House Report highlights what is 
+lacking in the agency’s “harm” definition. However be- 
+nign the birdwatchers’ motives,”’ the “excessive birdwatch- 
+
+
+18 The first meaning of “harass” is “to lay waste” or “to worry 
+and impede by repeated attacks.” Webster’s Third New Interna- 
+tional Dictionary Of The English Language-Unabridged 1031 
+(1971). All of the meanings of “harass” incorporate the elements 
+of purposeful action and intrusion. See id. Similarly, the first 
+meaning of “pursue”, which FWS also claims (at 23) is “broader” 
+than the other terms in the Act’s definition, is “to follow with 
+enmity” or to follow “determinedly in order to overtake, capture, 
+kill or defeat.” Jd. ut 1848. These words are thus entirely con- 
+sistent with Congress’ intent in ESA §$3(19) to reach all forms 
+of “take” or “attempts to take” listed wildlife, as “take” is com- 
+monly understood. See pages 18-22, infra. 
+
+
+19 Petitioners suggest the image of a lone figure quietly observ- 
+ing birds from afar. But birdwatching often is not so benign. 
+See, e.g., Using Bird Tapes, BIRDING, June 1992, at 168 (“sheer 
+numbers of birdwatchers” cause certain birds to “face serious 
+disruption”) ; id. at 168-73 (discussing common practice of using 
+tapes to bring birds into view, a practice that pulls them from 
+
+
+17 
+
+
+ing” example assuredly involves physically intrusive action 
+directed at wildlife. The conduct could not fairly be 
+described as “harassment” without (1) the element of 
+action directed at the object, and (2) the element of 
+direct physical intrusion on particular birds. The “harm” 
+regulation goes well beyond these limiting principles in 
+prohibiting ordinary land uses (and other actions) merely 
+on the basis of their ultimate effect on the species. 
+
+
+b. As Judge Sentelle pointed out below, the term 
+“harm,” as construed by FWS to focus solely on the 
+ultimate effect on the species, makes superfluous all the 
+other words in the statutory “take” definition. Pet. App. 
+25a and 71a-72a; see NLRB v. Health Care & Retirement 
+Corp., USS. , 114 S.Ct. 1778, 1783 (1994) 
+(rejecting interpretation which “renders portions of the 
+statutory definition . . . meaningless”). Limited as the 
+court of appeals suggested, however, the term fills a statu- 
+tory gap designed to encompass the purposeful infliction 
+of injury by means other than (for example) shooting or 
+wounding.” 
+
+
+their nests and normal activities and severely agitates territorial 
+birds); Yellow Rails, Birding Ethics, and the Law, BIRDING, Dec. 
+1989, at 305 (describing 70 birdwatchers “tromp[ing] through 
+a fragile marsh . . . to surround the Yellow Rail, close in on it, 
+and catch it by hand’); id. at 306 (letter from FWS agent de- 
+scribing how people wanting to see a Whooping Crane “were 
+pulling up in vehicles and flashing their headlights on the bird 
+as it roosted,” causing it to “repeatedly flush from the roost”). 
+
+
+*? Petitioners’ argument to avoid surplusage (Pet. Br. 23) is 
+difficult to comprehend. It seems to be that by defining “harm” 
+to encompass the other words in the definition and any other ways 
+to inflict injury. surplusage is somehow eliminated. Jd. But the 
+language of the Act does not hint at any such intended breadth. 
+For example, the Act does not make it unlawful “to harass, shoot. 
+wound, kill, pursue, capture or harm in any (other) way.” “Harm” 
+is merely one of the several words in the list, indistinct from the 
+others as to dignity or emphasis. See Gustafson, 115 S.Ct. at 
+1069 (narrowly construing “communication,” which “is but one 
+word in a list”). 
+
+
+r. 
+a 
+
+
+18 
+
+
+c. The ESA’s “take” definition also encompasses the 
+“attempt to engage in any such conduct.” The reference 
+to “attempt” confirms that purposeful activity is what 
+Congress had in mind.*' It is impossible to apply the 
+concept of “attempt” to the notion of “harm” sponsored 
+by Petitioners. That is, it is linguistically comfortable to 
+speak of an attempt to harass, attempt to kill, attempt to 
+hunt, attempt to pursue, attempt to shoot, attempt to 
+wound, attempt to trap, attempt to capture, attempt to 
+collect, or indeed, attempt to harm—but only if “harm” 
+refers to some purposeful effort to injure wildlife. 
+
+
+2. “Take” 
+
+
+a. Petitioners (at 27-28) rely heavily on the state- 
+ments from the Senate and House Reports to the effect 
+that “ ‘Take’ is defined . . . in the broadest possible manner 
+to include every conceivable way in which a person can 
+‘take’ or attempt to ‘take’ any fish or wildlife.” ** S. Rep. 
+No. 307, 93d Cong., Ist Sess. 7 (1973), reprinted in 
+1973 U.S.C.C.A.N. 2995. Petitioners’ reliance on such 
+statements highlights a fundamental point. While much 
+attention has focused on the meaning of “harm,” the 
+operative statutory term is “take.” It is the “take” of 
+listed wildlife, as defined in the ESA, that § 9 forbids. 
+
+
+Congress is, of course, free to give any word it uses a 
+wholly arbitrary meaning. But the presumption must be 
+that Congress was using the word in at least one of its 
+ordinary senses, and the term should be construed in a 
+
+
+“1An “attempt to harass or harm” wildlife under the ESA 
+means that the activity’s “purposes” are directed at wildlife. 
+Sierra Club v. Froehlke, 534 F.2d 1289, 1302, 1304 (8th Cir. 
+1976). 
+
+
+*2 This circular formulation is ineffectual to «1pport the point 
+Petitioners hope to make. At the time this sti ment was made, 
+“harm” was not included in the “take” definition. See pages 34-35, 
+infra. 
+
+
+19 
+
+
+way that is faithful to that core meaning.” In other 
+words, it is one thing to give “take” its broadest possible 
+meaning; it is quite another thing to give it an impossible 
+one—a meaning that cannot be reconciled with conven- 
+tional usage. 
+
+
+“Take” has an established meaning, as does the familiar 
+concept of a “wildlife take.” The dictionary definitions 
+consistently convey the sense of purpose, the effort to 
+exercise dominion over some creature, and the concrete 
+effect of that creature.** Judge Sentelle aptly explained 
+how Petitioners’ approach is inconsistent with the estab- 
+lished meaning of “take”: 
+
+
+I see no reasonable way that the term “take” can 
+be defined to include “significant habitat modifica- 
+tion or degradation” as it is defined in 50 C.F.R. 
+§ 17.3. I have in my time seen a great many farm- 
+
+
+“3 F.g., Hayashi, 22 F.3d at 864 (construing “harass” to “com- 
+port[] with a common understanding of the term ‘take,’ of which 
+‘harass’ is simply one form”). 
+
+“4 “Take” means: 
+
+1. to get into one’s hands, possession, control, etc., by force 
+
+
+or artifice ... 2. to seize or capture... 3. to catch or get 
+(fish, game, etc.), esp. by killing . . . 4. to hold, grasp, or 
+grip... 5. to get into one’s hold or possession by voluntary 
+action. 
+
+
+The Random House Dictionary of the English Language-The Un- 
+abridged Edition 1448 (1971). 
+
+
+I1. To touch... II. To seize, grasp, capture, catch, and re- 
+
+
+lated senses. 2. To lay hold upon, get into one’s hands by 
+force or artifice ...b. To catch, capture (a wild beast, bird, 
+
+
+fish, etc.) ; also of an animal, to seize or catch (prey). 
+Compact Edition of the Oxford English Dictionary 3223 (1971). 
+
+
+1: to get into one’s hands or into one’s possession, power, or 
+control by force or stratagem, as a: to seize or capture phys- 
+
+
+ically ...b (1): to get possession of (as fish or game) by 
+killing or capturing . . . sometimes used to include acts in 
+attempt to ki'l or capture... (2) : to seize as prey. 
+
+
+Webster’s Third New International Dictionary of the English 
+Language-Unabridged 2329-30 (1971). 
+
+
+20 
+
+
+ers modifying habitat. They modify by plowing, by 
+tilling, by clearing, and in a thousand other ways. 
+At no point when I have seen a farmer so engaged 
+has it occurred to me that he is taking game. Nor 
+do I think it would occur to anyone else that he was 
+taking wildlife. He may be doing something harmful 
+to wildlife, but he is not “taking” it. 
+
+
+Pet. App. 69a. 
+
+
+b. FWS’s “harm” definition is also inconsistent with 
+ESA § 9 generally, with the way “take” is used through- 
+out the 1973 ESA, and with the use of wildlife “take” 
+in similar statutes. 
+
+
+First, all of the prohibited acts in ESA § 9(a)(1) 
+(e.g., “import any such species,” “take any such species,” 
+“possess, sell, deliver, carry, transport, or ship” any such 
+species) refer to conduct that a specifically acting person 
+engages in with respect to specific wildlife. 16 U.S.C. 
+§ 1538(a)(1). The focus of the provision is on the 
+purposeful abuse and transportation of individual speci- 
+mens Of listed wildlife. 
+
+
+Second, “take” is used frequently in the Act, but not in 
+a manner broad enough to house the meaning Petitioners 
+attempt to give it in their “harm” definition. For ex- 
+ample, ESA § 10(e) (addressing subsistence takings by 
+Alaska Natives) refers to “byproducts of species taken 
+pursuant to this section.” 16 U.S.C. § 1539(e). ESA 
+§ 3(3) specifies “regulated taking’ as a conservation 
+measure that may be employed to relieve population 
+pressures. Id. § 1532(3). ESA § 9(a)(1)(D) outlaws 
+certain commercial transactions involving “species taken 
+in violation” of the Act. /d. § 1538(a)(1)(D). And 
+ESA § 11(e) provides for the forfeiture of instrumentali- 
+ties used in a taking—the “guns, traps, nets, and other 
+equipment, vessels, vehicles, aircraft, and other means 
+of transportation used to aid the taking, possessing, sell- 
+ing.” Id. § 1540(e)(4)(B). Substituting FWS’s “harm” 
+
+
+21 
+
+
+definition for “take” in each of those statutory provisions 
+would make the provisions nonsensical. 
+
+
+Finally, wildlife “take” has long been used in this sense 
+of purposeful action against wildlife. See dictionary defi- 
+nitions in note 24, supra. The Migratory Bird Treaty 
+Act (“MBTA”), as amended through 1989, makes it 
+“unlawful at any time, by any means or in any manner, 
+to pursue, hunt, take, capture, kill, attempt to take 
+any migratory bird [or] any part, nest or egg of any such 
+bird.” 16 U.S.C. § 703 (emphasis added). Even with the 
+highlighted language, “take” under the MBTA is inter- 
+preted to mean “physical conduct of the sort engaged in 
+by hunters and poachers.” Seattle Audubon Soc'y v. 
+Evans, 952 F.2d 297, 302 (9th Cir. 1991). Notwith- 
+standing the MBTA’s broad language, “take” simply does 
+not reach ordinary land uses: “habitat destruction, lead- 
+ing indirectly to bird deaths . . . . does not ‘take’ them 
+within the meaning of the MBTA.” ~* 
+
+
+Under the MBTA, therefore, “take” is understood to 
+involve actions directed at wildlife.*” It does not reach 
+“deaths caused by automobiles” and other everyday activ- 
+ities. FMC Corp., 572 F.2d at 905. Similarly, “take” 
+
+“5 952 F.2d at 303. The Evans opinion attempts to contrast the 
+MBTA with the ESA, stating in dicta that “{h]abitat destruction 
+causes ‘harm’ to the owls under the ESA.” Jd. To the extent the 
+Evans dicta drew upon FWS’s regulatory definition of “harm,” 
+the opinion is correct. But as 2 statutory matter, the contrast is 
+not persuasive. Since the MBTA contains a statutory directive 
+that “take” be construed as broadly as possible, “take” under the 
+MBTA is no less expansive than it is under the ESA. 
+
+
+*6 As Petitioners point out (at 26 n.12), “‘texke’” has been found 
+under the MBTA when protected birds were killed by toxic pesti- 
+cides. See FMC Corp., 572 F.2d 902. The manufacture and use 
+of pesticides, however, are actions directed at killing animals. 
+Like trapping or fishing, they may have the unintended effect of 
+incidentally “taking” a listed species. But this would hardly ex- 
+tend the concept of “take” to ordinary activities not in the nature 
+of killing, capturing, etc. 
+
+
+22 
+
+
+under the MMPA “must entail a . . . direct intrusion” 
+against an animal. Hayashi, 22 F.3d at 864 (fisherman’s 
+firing a rifle near, not at, a protected porpoise was not a 
+“take”). 
+
+
+C. The Structure of the Act Further Undermines 
+FWS’s “Harm” Regulation 
+
+
+1. The basic structure of the 1973 ESA belies Peti- 
+tioners’ theory of “harm.” It is difficult to believe that 
+Congress extended the reach of the ESA to ordinary 
+land uses by adding the word “harm,” without elabora- 
+tion, to nine other verbs, in the course of defining a 
+“take” prohibition that, on its face and in context, seemed 
+to prohibit predatory actions directed at listed wildlife. 
+
+
+If Congress had intended to reach land use under 
+ESA § 9, it would have addressed the matter forthrightly. 
+If Congress had meant “harm” to have such significance, 
+it would have made the operative term in the statute 
+“harm” instead of “take’—or found some other way 
+to highlight ESA § 9’s intended breadth. See, e.g., note 
+20, supra. Instead, Congress cast the section more nar- 
+rowly, as a prohibition on “take,” and quietly placed 
+the word “harm” in a list alongside nine other terms in 
+the definitional section. 
+
+
+2. Congress was well aware that habitat destruction 
+was the greatest threat to species extinction. See TVA, 
+437 U.S. at 179. The absence of any reference to habitat 
+modification in ESA § 9 is therefore all the more signifi- 
+cant, because it underscores the choice that Congress 
+made to address that threat through other provisions of 
+the Act.** The statutory structure shows that Congress 
+
+
+“7 FWS resists that choice, emphasizing (at 4, 18, 24) the ESA 
+§ 2(b) statement that the “purposes of this chapter are to provide 
+a means whereby the ecosystems upon which endangered and 
+threatened species depend may be conserved, [and] to provide a 
+program for the conservation of such” species. 16 U.S.C. 
+§ 1531(b). This is, of course, true, but it proves nothing. The 
+
+
+23 
+
+
+perceived habitat destruction and human predation to 
+be separate threats which the ESA would address in dif- 
+ferent ways.” 
+
+
+3. As Petitioners acknowledge (at 8-9, 24), the 1973 
+ESA explicitly addressed the habitat destruction problem 
+in §§ 5 and 7.* Each is directed to and imposes specific 
+duties on the federal sector. Under ESA § 5, FWS “shall 
+establish and implement a program to conserve” listed 
+wildlife and “shall” do so by using its “land acquisition” 
+authority. 16 U.S.C. § 1534(b). And under ESA § 7, 
+every federal agency “shall” carry out programs for the 
+conservation of listed species. /d. § 1536(a)(1). In 
+addition, every federal agency: 
+
+
+shall . . . insure that any action authorized, funded 
+or carried out by such agency... . is not likely to 
+jeopardize the continued existence of any [listed] 
+species or result in the destruction or adverse modi- 
+fication of habitat of such species which is deter- 
+mined by the Secretary . . . to be critical. | 
+
+
+very next provision and ESA §7(a)(1) assign the duty to con- 
+serve to federal agencies. Id. §§ 1531(c) (1), 1536(a) (1); see 
+TVA, 437 U.S. at 180. As Petitioners said in their amicus brief 
+to the Ninth Circuit in Palila v. Hawaii Dep’t of Land and Na- 
+tural Resources, 852 F.2d 1106 (9th Cir. 1988), “[rJeliance on 
+this broad statement of purpose [in § 1531(b)] cannot overcome 
+. . . the limitations of the specific language Congress has chosen 
+in Section 9 of the Act. ... The responsibility to conserve, as 
+defined in the Act, is specifically directed to federal agencies and 
+activities, and not to the other persons and entities that are sub- 
+ject to the civil and criminal penalties of the Act.” Dist. Ct. 
+Docket Entry 8, Ex. 5 at 20. 
+
+
+28 By expressly addressing habitat modification in ESA §7 but 
+not in ESA § 9, Congress must be presumed to have acted “pur- 
+posely in the . . . exclusion,” i.e., as not intending to reach habitat 
+modification under ESA $9. Keene Corp. v. United States, 
+US. , 113 S. Ct. 2035, 2040 (1993). 
+
+
+29 See TVA, 437 U.S. at 179 and n.24 (“[vlirtually every bill 
+introduced in Congress during the 1973 session responded to this 
+[habitat destruction] concern by incorporating language similar, 
+if not identical, to that found in the present §7 of the Act”). 
+
+
+———————EOEO—_eEOO 
+
+
+24 
+
+
+Id. § 1536(a)(2) (emphasis added). This extends the 
+federal duty to every proposed project on private or state 
+lands that involves federal funding or requires a federal 
+permit. ‘\ 
+
+4. ESA §9, in contrast, directly applies to private 
+and other non-federal landowners as well as the federal 
+sector. By terms, it imposes no habitat conservation duty. 
+It simply tells citizens that they cannot “take” listed spe- 
+cies. Id. § 1538(a)(1)(B). “Thus,” the court below 
+found, “on a specific segment of society, the federal gov- 
+ernment, the Act imposes very broad burdens, including 
+the avoidance of adverse habitat modifications; on a 
+broad segment, every person, it imposes relatively narrow 
+ones.” Pet. App. 7a-8a. 
+
+
+5. By its application to ordinary land uses (i.e., hab- 
+itat modifications), FWS’s “harm” regulation turns this 
+statutory scheme on its head, making the federal duties 
+under ESA §§ 5 and 7 redundant and meaningless. There 
+is little incentive for FWS to buy needed habitat (or con- 
+servation easements) from private landowners, in order 
+to protect such habitat, if ESA § 9 is read to bar the 
+destruction of any habitat that “harms” listed species.*° 
+The result, of course, is to bleed ESA § 5 of all meaning.” 
+
+
+39 ESA $5 provided funds to acquire critical habitat because 
+landowners “are understandably unwilling to [| provide habitat bene- 
+fits for listed species] at excessive costs to themselves.” 119 Cong. 
+Rec. 30,162 (Sept. 18, 1973) (remarks of Hceuse floor manager 
+Sullivan). Thus, contrary to Petitioners’ surmise (at 21) that 
+there is “no reason why Congress would have” excluded “destruc- 
+tion of habitat” from “take,” the legislative history confirms that 
+it did so to respect the prerogatives of private property owners. f\ 
+A similar manifestation of Congress’ intent to reach the non- | 
+federal sector through incentives, rather than compulsion, is em- 
+bodied in ESA § 6, which encourages (but does not coerce) States 
+to assist in achieving ESA objectives by providing “financial as- 
+sistance to any State’ which enters into a “cooperative agree- 
+ment.” 16 U.S.C. § 1535(c) and (qd). 
+
+
+31 Amici Cairns, et al., point out that the government spent 
+only $253 million between 1967 and 1993 to acquire land for listed 
+
+
+a 
+
+
+Moreover, if ESA §9 already prohibits anyone from 
+modifying any habitat to the detriment of even one mem- 
+ber of a listed wildlife species, then ESA § 7(a)(2)’s 
+specific prohibition on “adverse modifications of habitat” 
+(as applied to federal lands and federally-authorized ac- 
+tions) becomes surplusage.* Similarly, if everyone has 
+a duty under ESA §9 to avoid inadvertently injuring 
+even one member of a listed species, there is nothing 
+left of the separate federal duty under ESA § 7(a)(2) 
+to avoid actions that “jeopardize the continued existence” 
+of the species. 
+
+
+species protection. Cairns Br. at 18. That is a small fraction of 
+the amount that Congress has authorized for appropriation from 
+the Land and Water Conservation Fund, which is currently run- 
+ning $900 million annually. 16 U.S.C. § 4601-5. 
+
+
+32 Despite Petitioners’ contrary argument (at 41-42), there is 
+no meaningful “operational difference” between FWS’s view of 
+“harm” and its view of the habitat “determined . . . to be critical” 
+that is protected by ESA §7(a) (2). Pet. App. 92a-93a; compare 
+50 C.F.R. §§ 17.94 and 402.02 (descriptions of critical habitat) 
+with the “harm” regulation and the preamble descripiton at 46 
+Fed. Reg. 54,750 (J.A. 72). FWS has defined the ESA §7 con- 
+cept of “destruction or adverse modification” of critical habitat 
+as meaning an action that “diminishes the value of the critical 
+habitat for both the survival and recovery of a listed species.” 
+50 C.F.R. § 402.02. Quite evidently, such a diminution in the sur- 
+vival and recovery rate will occur when individuals die young or 
+have decreased reproductive success. This replicates the “harm” 
+standard of a “habitat modification” which “actually” lessens the 
+“breeding” success of a listed species. See id. $17.3; note 4, 
+supra. 
+
+
+Petitioners protest at some length (at 41-44) that ESA §§7 
+and 9 are not rendered coextensive by the “harm” regulation. 
+Their best argument that habitat to be protected under the 
+“harm” regulation differs from critical habitat to be protected 
+under § 7 seems to be that critical habitat can include areas “not 
+curently inhabited by the species,” whereas §9 would not reach 
+those areas. It trivializes the Act to suggest that Congress in- 
+tended no difference between §§ 7 and 9 except the regulation of 
+currently unoccupied areas. 
+
+
+26 
+
+
+Thus, under FWS’s interpretation of “harm,” ESA § 9 
+would subsume all the significant aspects of § 7 of the 
+1973 ESA. See Pet. App. 93a. If “ ‘taking’ comprehends 
+habitat destruction, then it is at least doubtful whether 
+Section 7 of the Act is even necessary.” M. Bean, The 
+Evolution Of National Wildlife Law 397 (GPO 1977); 
+see Salzman, Evolution and Application of Critical Habi- 
+tat under the Endangered Species Act, 14 Harv. Envtl. 
+L. Rev. 311, 330 (1990) (FWS’s interpretation of harm 
+“effectively supplants jeopardy” as the ESA’s operative 
+standard ).** 
+
+
+FWS’s interpretation does more than create minor 
+“overlaps” (Pet. Br. at 17, 43) among the ESA’s provi- 
+sions. It either makes whole sections of the ESA entirely 
+superfluous, or relegates them to a minor role in relation 
+to the comprehensive duty to avoid “harm” conceived by 
+FWS. The Court is rightly “hesitant to adopt an inter- 
+pretation of a congressional enactment” having such ef- 
+fects. Mackey v. Lanier Collection Agency & Serv., 486 
+U.S. 825, 837 (1988). 
+
+
+D. Established Precedents and Principles of Construc- 
+tion Suggest Skepticism of FWS’s Interpretation 
+
+
+Other well-established principles of construction and 
+precedents of the Court—based in policy, common sense, 
+or the legal background against which Congress is pre- 
+sumed to legislate—are also appropriate guides for inter- 
+preting statutes and determining whether deference is ap- 
+
+
+33 ESA §7 cannot be relegated to such a subsidiary role. Even 
+in 1982, the chairman of the House subcommittee with ESA 
+jurisdiction described ESA §7 as “the ‘guts’ of the act” and an 
+environmental group spokesman agreed that ESA § 7(a) (2) “is, 
+without question, the most important provision of the Act.” En- 
+dangered Species Act: Hearings Before the Subcomm. on Fish- 
+eries and Wildlife Conservation and the Environment of the Comm. 
+On Merchant Marine and Fisheries, 97th Cong., 2d Sess. 151 
+(statement of Rep. Breaux), 164 (statement of Michael J. Bean) 
+(1982) (“1982 House Hearings”). 
+
+
+27 
+
+
+propriate. Even were Petitioners’ case stronger than it is 
+on the face of the statute (and the legislative history, see 
+subsection E below), the concerns reflected in those prin- 
+ciples and precedents would warrant a healthy skepticism 
+about the agency’s interpretation of “harm.” 
+
+
+First, FWS’s interpretation broadly expands the agency’s 
+power and the ESA’s reach based on the seemingly in- 
+cidental use of a word in a statutory definition. Caution 
+is warranted where an agency seizes on an elastic word to 
+“bootstrap itself into an area in which it has no juris- 
+diction.” Adams Fruit Co. v. Barrett, 494 U.S. 638, 650 
+(1990). The court of appeals put it this way: 
+
+
+The extension [claimed by FWS] vests the Depart- 
+ment with authority to supervise the use of privately 
+owned land in vast tracts of the United States, even 
+to the point of- forbidding modest clearing efforts 
+conducted in the interest of fire protection in popu- 
+lated areas. . . . Congress clearly did not hang 
+SO Massive an expansion of government power on 
+so slight a nail as § 9’s provision that no one should 
+“harass, harm, pursue, hunt, shoot, wound, kill, trap, 
+capture, or collect” an endangered species. 
+
+
+Pet. App. 96a. 
+
+
+Second, the Court should be wary of Petitioner’s claim 
+that Congress converted what are commonly regarded as 
+innocent land uses into violations of law. Many activities 
+are thought of as sufficiently questionable that a person 
+engaging in them would not be surprised to find that he 
+or she is subject to regulation. Taking game (in the 
+ordinary sense) is of that character: it is common knowl- 
+edge that hunting and fishing require a license. But a 
+different set of activities is at issue here. One does not 
+perceive that the cutting of trees on one’s own land. or 
+the tilling of one’s field, or the harvesting of one’s crops, 
+is an activity subject to government regulation (let alone 
+government prohibitions against taking game). There is 
+nothing in the ESA (or its history) to suggest that Con- 
+
+
+28 
+
+
+gress intended to upset such settled expectations. This 
+Court requires a clear statutory statement before finding 
+that common activities like these have been transformed 
+into crimes. E.g., Ratzlaf v. United States, — U.S. —, 
+114 S.Ct. 655, 660-62 (1994). 
+
+
+Third, participants in heavily regulated industries (such 
+as banking, insurance, or securities) might fairly antici- 
+pate that their actions could easily cross the line from the 
+lawful to the unlawful—and be alert to where such lines 
+are drawn. Moreover, within the confines of an elaborate 
+regulatory framework, it is appropriate to defer to agency 
+judgments. But the many forms of activity that are poten- 
+tially rendered unlawful by Petitioners’ construction of 
+“harm” are not “heavily regulated.” Nor can the agency’s 
+construction fairly be described as internal gap-filling. To 
+the contrary, it is nothing less than a broad extension of 
+the Act’s prohibitory scope. 
+
+
+Fourth, the familiar rule of lenity mandates that crimi- 
+nal statutes be narrowly construed. Petitioners argue, of 
+course, that they are entitled to massive doses of Chevron 
+deference. But Chevron should have no application to a 
+provision, such as this, that effectively criminalizes ordi- 
+nary activities. See Pet. App. 97a; note 2, supra. Where 
+a statutory term has both civil and criminal consequences, 
+the rule of lenity requires the courts to “resolve . . . am- 
+biguity in [the defendant’s] favor.” United States v. 
+Thompson/Center Arms Co., US. » 892 BC. 
+2102, 2109-10 (1992) (plurality opinion); see id. 112 
+S.Ct. at 2111 (concurring opinion) (“rule of lenity pre- 
+vents” the government’s broad interpretation even in a 
+civil setting); Crandon v. United States, 494 U.S. 152, 
+157-58 (1990) (also applying the rule of lenity in a 
+“civil remedy” context). 
+
+
+In several recent cases, the rule of lenity has prevailed 
+over an agency’s contrary view of the statute. See United 
+States v. Granderson, USS. , 114 S.Ct. 1259, 
+1267 (1994); Thompson/Center, 112 S.Ct. at 2110 and 
+n.9; Crandon, 494 U.S. at 177-78 (concurring opinion). 
+
+
+Feereann SS enna. De 
+
+
+ate isha Anil we sshd ade 
+
+
+29 
+
+
+The rule of lenity should prevail because it reflects: (1) 
+the separation of powers concern that Congress (not 
+agencies or courts) should ordinarily define crimes; and 
+(2) the due process concern that statutory terms with 
+criminal consequences should be defined narrowly to pro- 
+vide fair warning of the conduct that will occasion those 
+penalties.™ 
+
+
+The rule of lenity has particular force in a case like 
+this one, where the agency has gratuitously offered its 
+gloss to an ordinary statutory term. If deference is war- 
+ranted at all when an agency interprets an everyday term 
+like “harm,” it is doubtless much less than is owed to a 
+specialized interpretation clearly committed to the agency’s 
+expertise. 
+
+
+E. The Legislative History Confirms That Habitat 
+Modification Actions Are Not Regulated Under 
+ESA §9 
+
+
+4 
+
+
+Because the language and the structure of the Act 
+illuminate Congress’ intent, there is no need to seek guid- 
+ance in the legislative history. Nevertheless, that history 
+confirms that Petitioners’ interpretation is fundamentally 
+inconsistent with Congress’ intent. That confirmation 
+comes from both the legislative process itself and the 
+explanatory statements of the Senate and House leaders 
+who managed their respective bills through that process. 
+
+
+1. Given Congress’ conceded understanding that habitat 
+destruction was a major cause of species extinction, the 
+absence of any legislative history directly supporting the 
+proposition that “take” encompasses habitat modification 
+weighs heavily against FWS’s interpretation.” The Court 
+
+
+34 See United States v. Kozminski, 487 U.S. 931, 952 (1988); 
+United States v. Bass, 404 U.S. 336, 347-49 (1971). See also 
+Note, /ncreased Scrutiny for the Administrative Crime, 77 Cornell 
+L. Rev. 612, 642-46 (1992). 
+
+
+35 In this respect, the transcripts of the 1972 and 1973 ESA 
+committee hearings are telling. If the statute had been perceived 
+
+
+30 
+
+
+ought not interpret “vague” language to “effect a major 
+change” (expansion of “take” into the new arena of land 
+use activities) without “at least some discussion in the 
+legislative history.” Dewsnup v. Timm, 502 U.S. 410, 
+419 (1992). The conspicuous silence suggests that “no 
+reasonable legislator” actually perceived the breadth in 
+ESA § 9 that Petitioners claim Congress intended. 
+
+
+2. The 1973 Congress had before it language very 
+similar to that which FWS would now impose on the 
+statute by regulation, but Congress decided not to in- 
+clude it in the bill as passed. A reference to “habitat 
+modification” had been included in an earlier version of 
+the ESA definition of “take.” ** Notwithstanding testi- 
+
+- mony emphasizing that the language was necessary to 
+prevent listed wildlife from being “killed as a result of 
+habitat modification,” the Senate Committee on Com- 
+merce deleted that reference when it reported the bill to 
+the full Senate.” See Pet. App. 9a-10a. The “deliberate 
+deletion of habitat modification” from the “take” defini- 
+tion is flatly inconsistent with the notion that Congress 
+
+
+as reaching ordinary uses of land, witnesses from the forest 
+products, farming, housing, and other fected sectors would have 
+sought to testify and their testimony would have been welcomed 
+by the congressional committees. Moreover, the vote itself belies 
+the agency interpretation. The ESA passed unanimously in the 
+Senate and with only 12 nay votes in the House. The very lack 
+of controversy demonstrates that no one imagined a basis for the 
+broader ng gloss FWS has now added. 
+
+
+46 Sp cifically, §3(6) of S. 1983 had defined “take” to include 
+the “destruction, modification, or curtailment of [a listed species’ | 
+habitat or range.” Endangered Species Act of 1973: Hearings on 
+S. 1592 and S. 1983 Before the Subcomm. on Environment of the 
+Senate Comm. on Commerce, 93d Cong., 1st Sess. 27 (1973) 
+(“1973 Senate Hearings’’). 
+
+
+37 1973 Senate Hearings at 80; see id. at 81-116. The reported 
+version defined “take” as “harass, pursue, hunt, shoot, wound, 
+kill, trap, capture, or collect, or to attempt to engage in any such 
+conduct,” much as the ESA does today. S. Rep. No. 307, 93d 
+Cong., lst Sess. 14 (1973). 
+
+
+31 
+
+
+intended “habitat modification” to be a method by which 
+“take” could occur. Pet. App. 9a. “Congress does not 
+intend sub silentio to enact statutory language that it has 
+earlier discarded in favor of other language.” Cardoza- 
+Fonseca, 480 U.S. at 442-43 (collecting cases). 
+
+
+Petitioners argue (at 28-29) that the Senate Com- 
+mittee Report does not explain why “habitat modification” 
+was deleted from the bill as reported. Given Congress’ 
+emphasis on habitat protection in other sections of the 
+Act (see pages 23-24, supra) and the explanation of the 
+Senate floor manager (see page 34, infra), the only 
+plausible reason is that the Committee did not want habi- 
+tat modification to be a “take.” It is not reasonable to 
+infer that the language was deleted because the Com- 
+mittee somehow believed destruction of habitat was al- 
+ready a “take.” ” 
+
+
+38 Petitioners argue (at 28-29) that the language was deleted 
+because it was overbroad, reaching any habitat modification ‘with- 
+out regard to any effect on wildlife.” If that had been the intent 
+of the unenacted language, Congress certainly could have fixed 
+the problem directly. For example, it could have prohibited ‘“habi- 
+tat modification causing injury.” Instead, it deleted all references 
+to such activity in ESA § 9. 
+
+
+%®9In fact, several legislators stated that they disapproved of 
+the effort to define “take” to include destruction of habitat. Sen- 
+ator Stevens said, “I understand the comment about habitat. You 
+[the environmental groups} have all commented on that with 
+respect to wildlife. I really question it... .” 1973 Senate Hear- 
+ings at 90. In the 1973 House Hearings, environmental groups 
+urged that the House bill’s definiiton of “take” be expanded to 
+include “habitat modification.” See Endangered Species: Hear- 
+ings on H.R. 37 and Other Bills Before the Subcomm. on Fisher- 
+ies and Wildlife Conservation and the Environment of the House 
+Comm. on Merchant Marine and Fisheries, 93d Cong., 1st Sess. 
+251, 287, 299, 301, 307 (1973). The House declined to do so. 
+See id. at 305. Even if the deletion of “habitat modification” 
+were completely unexplained, the Court should give effect to such 
+a legislative deletion, as it did in John Hancock Mut. Life Ins. 
+Co. v. Harris Trust & Sav. Bank, —— U.S. ——, 114 S.Ct. 517, 
+526 (1993). 
+
+
+32 
+
+
+3. The statements of the Senate and House floor man- 
+agers confirm that “take” was meant in its ordinary sense 
+and did not address “habitat modification.” In explaining 
+the ESA provisions that their colleagues would be voting 
+on, Senator Tunney and Representative Sullivan each 
+described the Act as dealing separately with (1) the prob- 
+lem of predation by man, and (2) the distinct problem 
+of habitat destruction. 
+
+
+Senator Tunney stated: 
+
+
+Many species have been inadvertently extermi- 
+nated by a negligent destruction of their habitat... . 
+Under this bill, we can take steps to make amends 
+for our negligent encroachment. The Secretary 
+would be empowered to use the land acquisition au- 
+thority . . . to acquire land for the use of the 
+endangered species programs. . . . Through these 
+land acquisition provisions, we will be able to con- 
+serve habitats necessary to protect fish and wildlife 
+from further destruction. 
+
+
+Although most endangered species are threatened 
+primarily by the destruction of their natural habitats, 
+a significant portion of these animals are subject to 
+predation by man for commercial, sport, consump- 
+tion, or other purposes. The provisions of S. 1983 
+would prohibit the commerce in or the importation, 
+exportation, or taking of endangered species except 
+where permitted by the Secretary. 
+
+
+119 Cong. Rec. 25,669 (July 24, 1973) (emphasis 
+added) .*° 
+
+
+Rep. Sullivan, whose Committee on Merchant Marine 
+and Fisheries had declined to add “habitat modification” 
+
+
+40 Even after “harm” was added to the bill’s definition of “take,” 
+Senator Nelson made the same distinction between ESA § 9’s as- 
+surance that “an animal or fish species will not be overtly ‘taken’ ” 
+and “another danger” separately posed by “habitat modification.” 
+119 Cong. Rec. 25,691 (July 24, 1973); see also 119 Cong. Rec. 
+25,678 (July 24, 1973), 42,451 and 42,535 (Dec. 19, 1973) (re- 
+marks of Sens. Moss and Stevens). 
+
+
+33 
+
+
+to the ESA “take” definition, distinguished between: (1) 
+the “destruction of . .. habitat”, which the Act “will 
+meet . . . by providing funds for acquisition of critical 
+habitat”, and (2) “[aJnother hazard,” involving people 
+who “capture or kill [listed species] for pleasure or profit,” 
+which the Act would address through the “take” pro- 
+hibition: 
+
+
+For the most part, the principal threat to animals 
+stems from the destruction of their habitat. The 
+destruction may be intentional, as would be the case 
+in clearing of fields and forests for development or 
+resource extraction, or it may be unintentional, as 
+in the case of the spread of pesticides beyond their 
+target area. .. . H.R. 37 will meet this problem 
+by providing funds for acquisition of critical hab- 
+itat. . . . It will also enable the Department of 
+Agriculture to cooperate with willing landowners 
+who desire to assist in the protection of endangered 
+species, but who are understandably unwilling to do 
+so at excessive cost to themselves. 
+
+
+Another hazard to endangered species arises from 
+those who would capture or kill them for pleasure 
+or profit. There is no way that Congress can make 
+it less pleasurable for a person to take an animal, 
+but we can certainly make it less profitable for them 
+to do so. 
+
+
+119 Cong. Rec. 30,162 (Sept. 18, 1973) (emphasis 
+added). Thus, as the Act was described on the floor of 
+the Senate and House, “take” was used in its ordinary 
+sense to refer to predation by man; the preservation of 
+habitat needed for survival of a species was addressed 
+by other provisions.*' 
+
+
+41 A contemporaneous law review article examined the legisla- 
+tive history and foreshadowed by 20 years the common sense 
+conclusion of the court below: 
+
+
+Congress meant to apply taking restrictions to stop killing 
+or otherwise harming the animal directly but reserved the 
+acquisition power. . . as the sole remedy for protecting habi- 
+
+
+34 
+
+
+4. “Harm” was added to the ESA’s “take” definition | 
+as one of 24 “technical” and “clarifying” amendments 
+considered and adopted “en bloc,’ without debate, on the 
+Senate floor.” It would require a remarkably jaundiced | 
+view of the legislative process to believe that the most | 
+expansive and intrusive aspect of the ESA became law 
+through stealth, rather than debate, slipped into the law 
+by misdescribing the operative language as merely clari- 
+fying and technical. See Granderson, 114 S.Ct. at 1266- 
+67 (narrowly construing an undebated floor amendment). 
+It is far more realistic to read “harm” as the minor 
+technical addition that it was described to be, rather than 
+as a fountainhead for the regulation of ordinary land use 
+activities under the ESA. 
+
+
+5. Petitioners read too much into two statements in 
+Committee Reports: 
+
+
+“Take” is defined in section 3(12) in the broadest 
+possible manner to include every conceivable way 
+in which a person can “take” or attempt to “take” 
+any fish or wildlife. 
+
+
+S. Rep. No. 307, supra at 7, reprinted in 1973 
+U.S.C.C.A.N. 2995. 
+
+
+“Take” is defined broadly. It includes harassment, 
+whether intentional or not. This would allow, for 
+
+
+tats. . . . Based on this legislative history it is clear that 
+“taking” should not apply to commercial cutting of timber 
+on private lands. 
+Lachenmeier, The Endangered Species Act of 1973: Preservation 
+Or Pandemonium?, 5 Envtl. L. 29, 39-41 (1974). See also Gidari, 
+24 Envtl. L. at 459 (“Congress cannot be said to have intended to 
+circumscribe the development of private lands through the prohibi- 
+tions of section 9 of the ESA”’). 
+
+
+42119 Cong. Rec. 25,682-83 (July 24, 1973). Petitioners high- 
+light (at 29) that Senator Tunney described the 24 amendments 
+as including language “omitted from early drafts which went un- 
+noticed” and which “will help to achieve the purposes of the bill.” 
+But there is no indication this portion of his explanation referred 
+to “harm,” or that anyone would have understood it in that way. 
+
+
+35 
+
+
+example, the Secretary to regulate or prohibit the 
+activities of birdwatchers where the effect of those 
+activities might disturb the birds and make it diffi- 
+cult for them to hatch or raise their young. 
+
+
+H.R. Rep. No. 412, 93d Cong., Ist Sess. 11 (1973). 
+
+
+These are essentially circular statements that “take 
+means take.” See Pet. App. 71a. The focus on “take” is 
+not helpful to Petitioners, because a “take” of wildlife is 
+an action directed at wildlife. See pages 13-22, supra. 
+Moerover, even a statutory clause (as opposed to this leg- 
+islative history) directing that an Act be construed 
+broadly “is not an invitation to apply [the Act] to new 
+purposes that Congress never intended. Nor does the 
+clause help us to determine what Congress had in mind.” 
+Reves v. Ernst & Young, U.S. , 1339 BAA. 
+1163, 1172 (1993). Finally, “harm” was not in the ESA 
+bills reported by these Committees (having been added 
+later, on the Senate floor), and was therefore not the 
+subject of these Committee Reports. 
+
+
+The birdwatching example, of course, fits squarely 
+within the model that “take” focuses on action directed 
+at, and directly intruding upon, specific wildlife. See 
+pages 16-17, supra; Gidari, 24 Envtl. L. at 459 (“it is 
+clear from the birdwatching example that the harassment 
+‘had to be directed against an individual member of the 
+species and that the effects of the conduct had to be palp- 
+able”). The legislative history thus confirms what the text 
+of ESA § 9 and the structure of the Act show—that Con- 
+gress intended the “take” prohibition to halt all forms of 
+predation against listed species, but never meant that 
+prohibition to address the “separate” problem of habitat 
+modification. 
+
+
+36 
+
+
+II. PETITIONERS’ REMAINING ARGUMENTS DO 
+NOT OVERCOME THE TEXT AND STRUCTURE 
+OF THE ACT 
+
+
+A. The “Facial Challenge” Argument Is A Red 
+Herring 
+
+
+For the first time, Petitioners present an argument that 
+this is a “facial challenge” to the “harm” regulation. 
+They assert that Sweet Home failed to meet its alleged 
+burden (under Reno v. Flores, US. , 113 
+S.Ct. 1439, 1446 (1993)) of showing the absence of 
+any circumstances under which the regulation would be 
+valid.** The argument is a red herring. 
+
+
+1. In Reno, the Court was asked to address the valid- 
+ity of a regulation that had never “been applied in a 
+particular instance.” 113 S.Ct. at 1446. The challenge 
+was based on the theory—unsupported by evidence or 
+actual illustration—that the regulation might be applied 
+in ways that would raise constitutional problems. See, 
+e.g., id. at 1451 (absence of specific time period for 
+hearing does not invalidate regulation because court can- 
+not simply “assume, on . . . facial challenge, that an 
+excessive delay will invariably ensue”). The Court had 
+before it “no findings of fact, indeed no record, concern- 
+ing the [agency’s} interpretation of the regulation or the 
+history of its enforcement.” Jd. at 1446. In those cir- 
+cumstances, the Court was unwilling to declare the regu- 
+lation invalid on its face, based on the mere possibility 
+
+
+43 Petitioners did not present the “facial challenge” theory to 
+the district court, the original panel, or the rehearing or en banc 
+panels, apparently accepting that this was at bottom a concrete, 
+“as applied” challenge, albeit broad enough to undermine the 
+entirety of the regulation. The Court should not consider an argu- 
+ment that was not presented to (or addressed by) the panel below. 
+See Taylor v. Freeland & Kronz, U.S. , 112 S.Ct. 1644, 
+
+
+1649 (1992) (in order to “maintain the integrity of the process 
+of certiorari”, the Court does not ordinarily decide questions not 
+raised in the lower courts). 
+
+
+37 
+
+
+that the regulation might, in some future circumstances, 
+be improperly applied. 
+
+
+In contrast, where the challenge concerns a central 
+feature of a regulation, the Court has found (and indeed 
+the APA itself provides) that regulations may be reviewed 
+to determine whether they exceed statutory authority.“* 
+E.g., Board of Governors of Fed. Reserve Sys. v. Dimen- 
+sion Financial Corp., 474 U.S. 361 (1986) (invalidating 
+regulation as inconsistent with statutory authority even 
+though the regulation encompassed not only its invalid 
+application to “nonbank banks” but its valid application 
+to true “banks”’). 
+
+
+This case bears no resemblance to the situation in 
+Reno. This challenge does not depend on hypothetical, 
+extreme, or potential aberrant applications of the “harm” 
+regulation. To the contrary, it addresses directly the 
+central features of the regulation and the “habitat modi- 
+fication” example around which it was written.” 
+
+
+The regulation has been applied to Respondents 
+(through the owl guidelines and otherwise) in ways that 
+
+
+44In the APA, Congress directed that a “reviewing court shail 
+... hold unlawful and set aside agency action . . . found to be 
+
+. (C) in excess of statutory jurisdiction,’ authority, or limita- 
+tions, or short of statutory right.” 5 U.S.C. § 706. Congress has 
+thus provided for “facial” challenges to regulations in excess of 
+statutory authority. In fact, in some cases it has effectively man- 
+dated them by providing that regulations can only be challenged 
+within 60 days (or some other short time period) of their promul- 
+gation. See, e.g., 30 U.S.C. §1276(a)(1). This challenge was 
+brought pursuant to the APA and the ESA §11(g) provision on 
+citizen suits. See Complaint { 2 (J.A. 17). 
+
+
+45 This is not a case where the regulation has yet to be applied. 
+There is no dispute about its manner of application and scope. 
+The essential premises of the “harm” regulation (with its focus 
+exclusively on effect, and its express inclusion of habitat modifi- 
+cation) go beyond the agency’s statutory authority. Those essen- 
+tial premises, evident on the face of the regulation, have limited 
+the ability of Respondents to use their lands; they must conform 
+their conduct to the regulation. 
+
+
+—————— Oe 
+
+
+38 
+
+
+have directly constrained Respondents’ ability to harvest 
+timber and engage in related activities; those applica- 
+tions prompted this challenge.** The clearly expressed 
+threats of enforcement and the possibility of criminal 
+penalties create a “commanding pressure to comply.” Pet. 
+App. 93a. For that reason, no question has been raised 
+about Respondents’ standing or the existence of a ripe 
+controversy. For the same reason, Petitioners’ newly 
+found “facial challenge” argument is without merit. 
+
+
+In short, this is not a “facial challenge” in the sense 
+of the unapplied and unknown regulation that was before 
+the Court in Reno. The concrete application of this reg- 
+ulation to Respondents, and the history of its use, leave 
+no room for argument that the regulations will be inter- 
+preted within the confines of the Act. 
+
+
+2. Even if this were to be considered a “facial chal- 
+lenge” in some sense, Respondents have squarely met 
+the standard for demonstrating that the regulation is in- 
+valid.** The regulation was beyond the power of the 
+
+
+#6 See Complaint "4-14, 23-26 (J.A. 17-26); Pet. Br. at 11 
+(Respondents “are engaged in, or depend upon, timber harvesting” 
+and “allege that they are affected by the ‘harm’ regulation because 
+of its application to the northern spotted owl” and red-cockaded 
+woodpecker); Pet. App. 76a (similar description by district 
+court). FWS’s “owl guidelines” effectively prohibit timber har- 
+vesting on up to 3,960 acres surrounding each spotted owl nest 
+site. That restriction applies despite the absence of any evidence 
+or allegation of injury to, or any intention to injure, a single 
+spotted owl. See pages 4, 8-9, supra. 
+
+
+47 Petitioners battle strawmen (at length) in suggesting that 
+the court of appeals based its holding on “an extravagant reading 
+and speculative applications.” Pet. Br. at 49. Petitioners mis- 
+characterize the narrow purposes for which the court cited its 
+examples. Moreover, the aspects of the regulation cited by Peti- 
+tioners as providing a narrower view of its scope address the 
+quantum of injury that must be shown. E.g., Pet. Br. at 46-49. 
+The primary flaws in the agency definition do not involve that 
+
+
+ra 
+
+
+39 
+
+
+agency to adopt because it prohibits conduct that, under 
+the statute, is lawful. It does so by excluding from the 
+definition the central characteristics needed to render such 
+conduct unlawful under the Act. What this means, of 
+course, is that the “harm” regulation is overbroad in 
+every application. The elimination of the essential attri- 
+butes of the type of conduct meant to be prohibited by 
+ESA § 9—actions directed at wildlife, directly injuring 
+wildlife—is what makes the agency’s regulation ultra 
+vires. See Pet. App. 95a. The model it establishes for 
+proper enforcement (habitat modification, in the form of 
+withdrawing some benefit from a species) is a paradigm 
+of the type of action that cannot be a wildlife — 
+Such a regulation, being “in excess of statutory jurisdic- 
+tion,” should be held “unlawful and set aside.” 5 U.S.C. 
+§ 706. 
+
+
+B. The 1978 and 1982 ESA Amendments Did Not 
+Change The Meaning Of “Take” Or Ratify The 
+1981 “Harm” Regulation 
+
+
+Petitioners rely heavily on the legislative history of the 
+ESA Amendments of 1978 (“1978 Amendments”) and 
+1982 (“1982 Amendments”). See Pet. Br. at 31-40. 
+The court below examined Petitioners’ arguments at 
+length, and found them insufficient to sustain the regu- 
+lation. See Pet. App. 10a-24a. Judge Mikva, dissenting, 
+
+
+issue; they concern the regulation’s indifference to the nature of 
+the conduct sought to be prohibited. 
+
+
+48 It is unavailing to suggest (e.g., Pet. at 25-26) that “habitat 
+modification” might be purposely used to kill listed wildlife (as 
+in the example posed by Judge Silberman, in which the lake is 
+drained in order to kill the fish). Such an action can certainly be 
+prohibited or punished under the Act as it is written, because the 
+example assumes that the action was directed at wildlife. But 
+under the “harm” regulation, a court or agency applying the 
+statute would never reach the question whether the action was 
+directed at wildlife. It would be sufficient that the action affected 
+the subject wildlife to the requisite degree. 
+
+
+40 
+
+
+acknowledged that the subsequent legislative history, 
+standing alone, does not support the weight of the 
+agency’s interpretation. Pet. App. 39a. 
+
+
+This Court has repeatedly cautioned that “the interpre- 
+tation given by one Congress (or a committee or Member 
+thereof) to an earlier statute is of little assistance in 
+discerning the meaning of that statute.” Central Bank of 
+Denver, N.A. v. First Interstate Bank of Denver, N.A., 
+USS. , 114 S.Ct. 1439, 1452 (1994), quoting 
+Public Employees Retirement Sys. v. Betts, 492 U.S. 158, 
+168 (1989). The Court’s reluctance is grounded in con- 
+stitutional principle: “Congress may legislate . . . only 
+through passage of a bill which is approved by both 
+Houses and signed by the President. See U.S. Const. art. 
+I, $7, cl. 2.” Central Bank, 114 S.Ct. at 1453. The 
+Court must be guided by the intentions of the Congress 
+that actually passed the law. Later legislative-history 
+“statements do not have ‘the force of law, for the Con- 
+stitution is quite explicit about the procedure that Con- 
+gress must follow in legislating.”” NLRB v. Health Care, 
+114 S.Ct. at 1784-85, quoting American Hospital Ass’n 
+v. NLRB, 499 U.S. 606, 616 (1991). 
+
+
+Even the reenactment of a statute is not enough to 
+ratify a regulation, absent some specific endorsement of 
+that regulation. Where “the law is plain, subsequent 
+reenactment does not constitute an adoption of a previous 
+administrative construction.” Brown, 115 S.Ct. at 556- 
+57, quoting Demarest, 498 U.S. at 190. In any event, 
+neither the 1978 Amendments nor the 1982 Amendments 
+reenacted the ESA § 3(19) definition of “take” or the 
+$9 language on “take.” They were both directed to the 
+revision of selected other sections. See 92 Stat. 3751 
+(1978); 96 Stat. 1411 (1982). Consequently, the some- 
+times stated principle that Congress ratifies a regulation 
+when it reenacts a statute and voices its approval of the 
+regulation does not apply. See NLRB v. Health Care, 
+114 S.Ct. at 1784; Central Bank, 114 S.Ct. at 1452 
+
+
+41 
+
+
+(because “Congress has not reenacted the language of 
+§$10(b) ..., we need not determine whether the other 
+conditions for applying the reenactment doctrine are pres- 
+ent”); Betts, 492 U.S. at 162; Pet. App. 23a-24a. 
+
+
+1. Petitioners argue (at 31-32) that the legislative 
+history of the 1978 Amendments supports the validity 
+of the “harm” regulation because Senator Garn proposed 
+in that year, and later withdrew, an amendment that 
+would have negated the “harm” regulation. In fact, Sen- 
+ator Garn proposed (and ultimately withdrew) a whole- 
+sale revision of the ESA, of which the provision cited by 
+Petitioners was only one small part. See 124 Cong. Rec. 
+21,565 (July 19, 1978); Pet. App. 15a-16a. There was 
+no debate on the withdrawn amendment, and there is no 
+indication in the legislative history of any particularized 
+concern about the proposed revision of ESA § 9 that it 
+contained. Pet. App. 15a-16a. There can be many rea- 
+sons for congressional action or inaction. See Pet. App. 
+21a. As the Court reiterated only recently, “congressional 
+silence ‘lacks persuasive significance.’” Brown, 115 S.Ct. 
+at 557, quoting Central Bank, 114 S.Ct. at 1453. 
+
+
+2. Petitioners (at 34-40) focus most heavily on the 
+1982 Amendments. Those Amendments modified ESA 
+$ 10(a) to provide a process for authorizing a “taking 
+[which] is incidental to, and not the purpose of, carrying 
+out an otherwise lawful activity.” *° There is certainly 
+nothing in the text of the 1982 Amendments that endorses 
+or adopts the agency’s view of “harm.” The relief granted 
+: by the Amendments is consistent with either a broad or a 
+more narrow view of “harm.” 
+
+
+The 1982 Amendments provide a means by which pro- 
+hibited activities that incidentally take protected wildlife 
+
+
+4916 U.S.C. $ 1539(a) (1) (B). The prerequisites for obtaining 
+such an “incidental take permit” include: (1) preparing and 
+agreeing to be bound by a “conservation plan”, and (2) agreeing 
+“to the maximum extent practicable, [to] minimize and mitigate 
+the impacts of such taking.” See id. § 1539(a) (2). 
+
+
+NS Mee Beta Note ee ed 
+
+
+i anrneemmale 
+
+
+42 
+
+
+might nonetheless be permitted. Absent such a provision, 
+a trapper who set traps to catch an unprotected species 
+would be in violation of the law if a listed animal instead 
+chanced within the snare. See Pet. App. lla. The “in- 
+cidental take permit” amendment gives the trapper a way 
+out. It allows the activity to go forward, without the 
+trapper having to fear prosecution, if the take of the 
+protected species is truly incidental, will not severely harm 
+the population, and if efforts are made to mitigate the 
+effects of the action on protected species. 
+
+
+a. This understanding of “incidental take” as an action 
+directed at wildlife, which inadvertently “takes” listed 
+wildlife, follows from the only examples of “incidental 
+take” that Congress enacted into law. The first statutory 
+example concerns the “incidental taking of . . . sea turtles” 
+while harvesting “shrimp.” 103 Stat. 1038 (1989), 16 
+U.S.C. § 1537 note (Supp. II 1990), at § 609(b)(2). 
+In the second example, embodied in the 1994 MMPA 
+amendments, Congress adopted provisions to “govern the 
+incidental taking of marine mammals in the course of 
+commercial fishing operations. . . .” 108 Stat. 546, 
+$118(a) (1994) (emphasis added); see also Pacific 
+Northwest Generating Cooperative v. Brown, 38 F.3d 
+1058, 1067-68 (9th Cir. 1994) (approving “ ‘incidental’ 
+take” of listed salmon under the ESA while fishing for 
+other salmon). It does no violence to the meaning of 
+“take” to suggest that when one is out setting nets to 
+“take” shrimp, and unintentionally captures or kills a 
+listed sea turtle instead, one has “taken” the turtle along 
+with the shrimp. Indeed, that would be an ordinary use 
+of the word “take.” 
+
+
+b. There appears to be no contrary example in which 
+Congress has adopted statutory provisions that equate 
+“incidental take” with “habitat modification” activities. 
+Petitioners focus instead (at 35-36) on an ambiguous 
+excerpt from the legislative history of the 1982 Amend- 
+ments, a discussion of the plan adopted to protect two 
+listed butterflies. Nothing in that legislative history, 
+
+
+43 
+
+
+however, demonstrates that Congress understood “habitat 
+modification” to be the source of the asserted “take.” 
+Indeed, the legislative history appears to suggest other 
+sources. See H.R. Conf. Rep. No. 835, 97th Cong., 2d 
+
+
+Sess. 32 (1982), reprinted in 1982 U.S.C.C.A.N. 2873; 
+
+
+128 Cong. Rec. 26,188 (Sept. 30, 1982) (remarks of 
+Rep. Breaux) .” 
+
+
+What is clear, however, is that the Conference Report's 
+discussion is centered on the. types of remedial conserva- 
+tion activities that FWS might find acceptable in exercis- 
+ing its enlarged permitting power. While the Report does 
+indicate that a “habitat conservation plan” could be the 
+remedy for a “take,” this “does not imply . . . that takings 
+encompass habitat modification.” Pet. App. 14a. 
+
+
+c. It is true that during the 1982 House Hearings, a 
+House Subcommittee received some conflicting testimony 
+about whether the ESA contemplated that “take” would 
+reach activities not directed at harming wildlife. See 
+Pet. Br. at 37. Additionally, a passage in the 1982 
+Senate Report compares plant protection with animal 
+protection in a way that acknowledges the FWS view that 
+“harm” includes habitat modifications. See id. 
+
+
+These snippets of legislative history at most demon- 
+strate that some committee staffers (those who wrote the 
+“plant” section of the Senate Report), and presumably 
+some members of the respective Committees, were aware 
+that FWS had adopted the “harm” regulation. But this 
+resolves nothing, because Congress, as a legislative body, 
+
+
+“ Another legislative history example, addressed by the court 
+of appeals, belies Petitioners’ theory. See Pet. App. lia-13a. 
+
+
+“1 Compare 1982 House Hearings at 233-34, 240, 342 with id. 
+at 273, 290-94, 348, 425-28. Many witnesses recommended that 
+the debate about the meaning of “harm” be resolved by adopting 
+remedial provisions allowing incidental take, and FWS agreed. 
+See id. at 327-333, 355, 357, 484, 622-27. 648. The “incidental 
+take” provisions subsequently adopted were thus remedial provi- 
+sions successfully obtained to provide relief from ESA §9 what- 
+ever its scope. As such, they cannot be deemed an endorsement 
+of the “harm” regulation. 
+
+
+44 
+
+
+did not actually build such an interpretation into the 
+Amendments.” This is not a case where “one or the 
+other interpretation . . . is essential” to the amendatory 
+legislation. MCI Telecommunications Corp. v. AT&T, 
+U.S. ——, 114 S.Ct. 2223, 2233 (1994). 
+
+
+d. Even if FWS’s broad interpretation of “harm” had 
+been widely understood,” and some members, or perhaps 
+a majority, of Congress had focused on mitigating the 
+effects of that interpretation, the granting of relief by 
+Congress in the 1982 Amendments could not be taken as 
+a ratification or endorsement of the agency’s prior ultra 
+vires interpretation. The 1982 Congress (or some or all 
+of its voting members) could have “supported the 
+{[Amendments’] permit system on a completely agnostic 
+premise about [the interpretation of “harm”]: ‘There are 
+some pretty wild interpretations out there, and they may 
+stick; if they do, it would certainly be helpful to have a 
+mechanism for softening their impact.’ ” Pet. App. 12a-13a. 
+
+
+Since the 1973 ESA did not include ordinary land uses 
+within “take,” the possibility that some members of the 
+1982 Congress acted on the opposite assumption in adopt- 
+ing the “incidental take” provisions would change nothing. 
+See Landgraf, 114 S.Ct. at 1495; West Virginia Univ. 
+Hosps., Inc. v. Casey, 499 U.S. 83, 101 (1991); Pet. 
+App. 17a (“where Congress adopts amendments on the 
+basis of misconception as to the meaning of a prior 
+statute’s related provisions, the later act does not turn the 
+
+
+52 The legislative history, of course, is not law. E.g., NLRB v. 
+Health Care, 114 S.Ct. at 1784-85; Landgraf v. USI Film Products, 
+U.S. ——, 114 S.Ct. 1483, 1495-96 (1994); Central Bank, 
+114 S.Ct. at 1453. 
+
+
+"8 Given the shifting and elusive interpretations of “harm” by 
+the agency itself (see Brief of Amicus Curiae Cargill, Inc.), it is 
+not possible to say that Congress endorsed any particular agency 
+theory. See also Brief of Amicus Curiae National Wildlife Federa- 
+tion, et al., at 7 (the “harm” regulation was little understood 
+because there had been no federal “actions to enforce the ‘harm’ 
+regulation” in 1975-81). 
+
+
+ee ae 
+
+
+SS - 
+
+
+45 
+
+
+misconception into law”). At bottom, the “opinion of 
+this later Congress as to the meaning of a law enacted 
+10 years earlier does not control the issue”; rather, it 
+“is the intent of Congress that originally enacted the 
+provision” that controls. Mackey, 486 U.S. at 839-40. 
+
+
+3. There is other statutory language enacted in the 
+1978 and 1982 Amendments that further undercuts Peti- 
+tioners’ argument that the “harm” regulation was im- 
+plicitly ratified by those Amendments. In 1978 and 1982, 
+Congress adopted and reenacted important ESA provi- 
+sions regarding critical habitat. 
+
+
+Congress specifically defined critical habitat and re- 
+quired FWS to designate such habitat for each listed 
+species, generally when the listing decision is made.™ 
+Importantly, it required FWS to make the designations of 
+critical habitat by regulation, utilizing the APA’s notice 
+and comment rulemaking procedures. 16 U.S.C. § 1533 
+(a)(3), (b)(4). Congress specifically directed FWS to 
+take into “consideration the economic impact . . . of 
+specifying any particular area as critical habitat,” and 
+allowed FWS to “exclude any area from critical habitat” 
+if “the benefits of such exclusion outweigh the’ benefits” 
+of inclusion. Id. § 1533(b)(2). The unmistakable im- 
+port is that Congress did not intend habitat protection— 
+even critical habitat protection—to be universally and 
+unilaterally imposed by FWS, without regard to other 
+considerations.” These provisions cannot be squared with 
+
+
+416 U.S.C. $$ 1582(5) (A), 1533(a) (3). “Critical habitat” was 
+defined to mean the “specific areas... which may require special 
+management considerations or protection.” Id. § 1532(5) (A). This 
+suggests that habitat outside critical habitat boundaries does not 
+warrant “special protection” under the ESA. 
+
+
+85 See 124 Cong. Rec. 38,156 (Oct. 14, 1978) (remarks of Rep. 
+Buchanan); 124 Cong. Rec. 38,666 (Oct. 14, 1978) (remarks of 
+Rep. Murphy that the provision authorizing FWS “to alter the 
+critical habitat designation based m this economic evaluation” is 
+“the most significant provision in the entire bill”); S. Rep. No. 
+418, 97th Cong., 2d Sess. 11-12 (1932). 
+
+
+46 
+
+
+the “harm” regulation, making it apparent that the 1978 
+and 1982 Amendments did not ratify that regulation.” 
+
+
+C. TVA v. Hill Did Not Decide the Meaning of “Take” 
+or Endorse the Agency’s View 
+
+
+Petitioners rely throughout on TVA v. Hill, 437 US. 
+153 (1978). Although they invoke (at 6, 30) the Court’s 
+characterization of the “harm” regulation, see 437 U.S. 
+at 184-85 n.30, the TVA Court merely assumed the 
+validity of that regulation. Unlike this case, no party in 
+TVA had “suggest[ed] that the Secretary exceeded his 
+authority or abused his discretion in issuing the regu- 
+lations.” 
+
+
+Petitioners (at 17, 30) also highlight the TVA state- 
+ment that the ESA was intended to “reverse the trend 
+
+
+56 The “harm” regulation undermines the effectiveness of these 
+provisions. There is little incentive for FWS to designate critical 
+habitat by rulemaking if it can effectively protect all habitat 
+against modification by simply applying its inflated version of 
+ESA § 9. As a result, the ESA § 7(a) (2) duty of federal agencies 
+to protect critical habitat loses its force, and is effectively shifted 
+to the private sector. See Pet. App. 7a. Moreover, two important 
+benefits that Congress provided private landowners are lost: (1) 
+the right to participate (through the rulemaking process) in the 
+designation of protected habitat, and (2) the right to have the 
+economic impact of the designation considered. 
+
+
+57 437 U.S. at 172. No ESA §9 “take” issue was before the 
+Court. The lower courts had found violations of ESA §7. See 
+Hill v. TVA, 419 F. Supp. 753, 755 and n.1 (E.D. Tenn. 1976), 
+aff'd in pert. part, 549 F.2d 1064, 1069-70 and notes 13 and 14 
+(6th Cir. 1977), aff'd, 437 U.S. 153 (1978). This Court observed 
+that it was not reviewing the existence of those violations, but 
+only whether injunctive relief should issue and whether an implied 
+repeal had occurred. See 437 U.S. at 156, 171-72; Amoco Prod. 
+Co. v. Village of Gambell, 480 U.S. 531, 543 n.9 (1987) (ESA §7 
+violations were “conceded” in TVA v. Hill). TVA is not dispositive 
+as to the “harm” regulation, because it is “contrary to all traditions 
+of our jurisprudence to consider the law on [a] point conclusively 
+resolved by broad language in cases where the issue [here, the 
+legality of the “harm” regulation] was not presented.” R.A.V. v. 
+City of St. Paul, USS. , 112 S.Ct. 2538, 2545 n.5 (1992). 
+
+
+a 
+
+
+‘bon cnet 
+
+
+ees sak eyes 
+
+
+47 
+
+
+towards species extinction, whatever the cost.” 437 US. 
+at 184. But that statement does not mean that courts 
+must adopt all interpretations that favor listed species.” 
+It “frustrates rather than effectuates legislative intent sim- 
+plistically to assume that whatever furthers the statute’s 
+primary objective must be the law.” Rodriguez v. United 
+States, 480 U.S. 522, 526 (1987). 
+
+
+The court below, as it should have, looked to see how 
+Congress chose to “reverse the trend towards species ex- 
+tinction.” It determined that Congress addressed the 
+problem of habitat destruction by imposing duties on the 
+federal government, and addressed the separate problem 
+of predation by making it unlawful for anyone to “take” 
+listed species. Under that scheme,’ it held the “harm” 
+regulation invalid. 
+
+
+D. Petitioners’ Policy Arguments Are Unavailing 
+
+
+Petitioners emphasize Congress’ recognition that habitat 
+modification has significant effects on species. They argue, 
+in essence, that the purpose of the Act would be better 
+served if ESA § 9 were construed to reach habitat modi- 
+fication. Such appeals to “policy” are unavailing to over- 
+ride “the text and structure of the Act.” Central Bank, 
+114 S.Ct. at 1448, 1453-54. 
+
+
+In any event, the ESA’s habitat protection purpose is 
+in fact carefully addressed in the Act. ESA §§ 2(c), 4, 
+5 and 7 further the habitat conservation purpose through 
+a combination of different federal mechanisms: (1) the 
+
+
+58 See National Wildlife Fed’n v. Burlington Northern R.R., 23 
+F.3d 1508, 1512 (9th Cir. 1994); Platte River Whooping Crane 
+Critical Habitat Maintenance Trust v. FERC, 962 F.2d 27, 34, 
+reh’g denied, 972 F.2d 1362 (D.C. Cir. 1992). Even federal agencies 
+do not have an absolute duty to avoid jeopardizing the continued 
+existence of listed species. See 16 U.S.C. § 1536(e)-(j). And the 
+extent of designated critical habitat can be reduced based on 
+“economic” considerations “and other relevant factors.” I/d. 
+§ 1533 (b) (2). 
+
+
+48 
+
+
+federal duty to conserve by designating critical habitat 
+under ESA § 4; (2) the federal duty under ESA §7 to 
+conserve and to insure that federally-authorized actions 
+will not adversely modify critical habitat; and (3) the 
+federal duty under ESA §5 to conserve needed habitat 
+on non-federal lands by acquiring land interests.” 
+
+
+Finally, Petitioners (at 21) ask rhetorically why a 
+Congress which recognized that habitat modification was 
+the greatest threat to species would impose habitat pro- 
+tection obligations on federal agencies, but draw the line 
+at imposing habitat preservation duties on private citi- 
+zens.” The question nearly answers itself. As House 
+floor manager Sullivan made clear, Congress wished to 
+protect private property rights and to avoid federal inter- 
+ference with private land uses. See pages 24, 33, supra. 
+
+
+” See pages 22-24, supra. These mechanisms, properly exer- 
+cised, can be very effective. Nearly one-third of the Nation’s land 
+is owned by the federal government. Habitat designated as critical 
+on non-federal lands is protected under ESA §7(a)(2) to the 
+extent that non-federal actions require federal permits or funding. 
+This extension of the federal power is sufficient to reach the many 
+major private land projects that require some form of federal 
+authorization. Finally, ESA §5 provides a sure mechanism for 
+protecting habitat—if the federal government makes the policy 
+decision to appropriate the funds necessary to implement it. See 
+note 31, supra. 
+
+
+® Petitioners criticize (at 49-50) the decision below because it 
+eliminates incentives to prepare conservation plans and receive 
+incidental take permits. Private landowners should not, however, 
+be forced to buy their way out of “take” liability that does not 
+exist. Moreover, the high cost and long delays that characterize 
+the permit process make that process impractical for most private 
+landowners. See Thornton, The Search for a Conservation Plan- 
+ning Paradigm: Section 10 of the ESA, 8 Nat. Resources & Env’t 
+21, 22-23 (Summer 1993); Ruhl, 44 Sw. LJ. 15 1408-23. As a 
+result, only 30 permits have been approved in the past 10 years. 
+Pet. Br. at 50. For a readable case study of the problems asso- 
+ciated with fashioning a conservation plan under ESA § 10, see 
+C. Mann and M. Plummer, Noah's Choice—The Future of Endan- 
+gered Species 176-211, 216-28 (Knopf 1995). 
+
+
+SS a eee 
+
+
+49 
+
+
+Although the broad prohibition Petitioners advocate would 
+arguably help preserve endangered species, “[s]tatutes are 
+seldom crafted to pursue a single goal, and compromises 
+necessary to their enactment may require adopting means 
+other than those that would most effectively pursue the 
+main goal.” Landgraf, 114 S.Ct. at 1508. 
+
+
+CONCLUSION 
+The judgment of the court of appeals should be affirmed. 
+Respectfully submitted, 
+
+Of Counsel: JOHN A. MACLEOD * 
+WILLIAM R. MURRAY STEVEN P. QUARLES 
+AMERICAN FOREST & CLIFTON S. ELGARTEN 
+
+PAPER ASSOCIATION THOMAS R. LUNDQUIST 
+1111 19th Street, N.W. CROWELL & MORING 
+Suite 800 1001 Pennsylvania Avenue, N.W. 
+
+
+Washington, D.C. 20036 Washington, D.C. 20004-2595 
+(202) 624-2500 
+
+
+Attorneys for Respondents 
+Dated: March 24, 1995 * Counsel of Record 
+
+

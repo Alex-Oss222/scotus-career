@@ -1,0 +1,1518 @@
+6) No. 94-167 
+
+
+IN THE 
+
+
+Supreme Court of the Unite 
+
+
+OFFICE OF THE CLERK 
+
+
+OCTOBER TERM, 1994 
+
+
+Katia Martinez, Eduardo Martinez Puccini, 
+and Henny Martinez de Papaiani, 
+Petitioners, 
+Vv. 
+Dirk A. Lamagno, The Drug Enforcement 
+Administration, and the United States of 
+
+
+America, 
+
+
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals for the 
+Fourth Circuit 
+
+
+PETITIONERS’ BRIEF ON THE MERITS 
+
+
+ISIDORO RODRIGUEZ, ESQ. 
+Attorney for Petitioners 
+
+
+Law Offices of 
+
+Isidoro Rodriguez, P.Cc. 
+Calle 84, No. 56-51 
+
+Piso 2, Oficina 4 
+Barranquilla, Colombia 
+(011)57-58-561678/458273 
+
+
+December 13, 1994 
+
+
+PETITION FOR CERTIORARI FILED JULY 25, 1994 
+CERTIORARI GRANTED NOVEMBER 14, 1994 
+
+
+} 
+
+
+QUESTION PRESENTED 
+MUST THE DISTRICT COURT CONDUCT DE 
+NOVO REVIEW OF THE ATTORNEY GEN- 
+ERAL’S CERTIFICATION ISSUED UNDER 
+28 U.S.C. § 2679(d), WHEN FACTS AND 
+INDIVIDUAL FACTORS RAISE NUMEROUS 
+QUESTIONS OF THE CORRECTNESS AND 
+IMPARTIALITY OF THE DETERMINATION 
+OF THE EXECUTIVE OFFICER, AS TO 
+WHETHER ITS EMPLOYEE’S CONDUCT WAS 
+“ACTUATED,” AT LEAST IN PART, BY A 
+PURPOSE TO SERVE THE UNITED STATES 
+AT THE TIME OF THE INCIDENT OUT OF 
+
+
+WHICH THE CLAIM AROSE?" 
+
+
+ii 
+LIST OF PARTIES 
+The parties that have appeared here 
+include all those listed on the case 
+
+
+caption. 
+
+
+iii 
+TABLE OF CONTENTS 
+QUESTION PRESENTED ...+ + + « « i 
+LIST OF PARTIES ...++ e+e «© «© ii 
+TABLE OF AUTHORITIES ...++ + « « v 
+OPINIONS BELOW ...+4+ «6+ «© «© © @© « 1 
+
+
+NR 
+
+
+STATEMENT OF JURISDICTION .... . 
+STATUTE INVOLVED .... =. 
+
+
+> 
+
+
+STATEMENT OF THE CASE .....- 
+
+
+SUMMARY OF THE ARGUMENT... . . 15 
+
+
+3 
+
+: 
+a 
+Rd> 
+
+
+; 
+eT 
+
+
+>> 
+
+
+26 
+
+
+CONCLUSION 
+
+
+Cases: 
+Arbour _v. Jenking, 903 F.2d 416 (6th 
+Cir. 1990) . . . . * >. >. > . —_ * * 25 
+
+
+Aviles v. Lutz, 887 F2d 1046 (10th Cir. 
+1989) * . * . . * . . . * . * * * . 25 
+
+
+Barr v. Matteo, 360 U.S. 564, 79 S.Ct. 
+1335, 3 L.Ed.2d 1434 (1959) . . 20, 22 
+
+
+Brown v Armstrong, 949 F.2d 1007 (8th 
+Cir. 1991) . . . . > * > * . * 25, 4l 
+
+
+Cronin v Hertz Corp., 818 F.2d 1064 (2nd 
+Cir. 1987) 27, 29, 31, 34, 35, 36, 40 
+
+
+Hamrick v. Franklin, 931 F.2d 1209 (7th 
+Cir. 1991) > > > _ * >. > > > * > > 41 
+
+
+, 983 F.d 1316 (4th 
+
+
+Johnson v. Carter 
+Cir)(en banc), cert. denied, 1320 
+U.S.L.W. 3244 (U.S. 1993) * . * . * 21 
+
+
+McGowan v. Williams, 623 F.2d 1239, 1242 
+(7th Cir. 1980) > > > * >. >. . > > > 28 
+
+
+McHugh v. University of Vermont, 966 
+F.2d 67 (2nd Cir. 1992) ...... 26 
+
+
+Melo v. Hafer, 912 F.2d 628 (3rd Cir. 
+1990) . . . > * *. >. *. . >. . >. > > >. 25 
+
+
+Meridian Logistics, Inc. v. United 
+States, 939 F.2d 740 (9th Cir. 1991) 26 
+
+
+Mitchell v. Carlson, 896 F2d 128, 136 
+(5th Cir. 1990) . . . > . *. * . . >. 25 
+
+
+vi 
+
+
+Nasuti_v. Scannell, 906 F.2d 802 (ist 
+
+
+Cir. 1990) . . . . . . . + o . . . 25 
+
+
+Petrousky v. United States, 728 F.Supp 
+890, 891 (N.D.N.¥Y., 1984) ..... 27 
+
+
+, 913 
+F.2d 1538 (llth Cir. 1990) .... 26 
+
+
+Snodgrass v Jones, 957 F.2d 482 (7th 
+Cir. 1992) oe > . . > >. > a o . . * 25 
+
+
+Spalding v. Vilas 161 U.S. 483, 16 S.Ct. 
+631, 637, 40 L.Ed. 780 (1896) ... 19 
+
+
+States, 298 U.S. 38, 56 S.Ct. 720 
+(1936) . . >. . . >. . > . . . * . 39 
+
+
+Westfall _v. Erwin, 484 U.S. 292, 108 
+S.Ct. 580 (1988) ....... 19, 20 
+
+
+United States Constitution, Article I, § 
+
+
+6 . . . . . . . . . . . . . . . . . 22 
+
+
+The Federal Drivers Act, 28 U.S.C. § 
+2679 (b)-(c) = ££ | 27, 28, 36 
+
+
+Federal Employees Liability Reform and 
+Tort Compensation Act of 1988, Pub. L. 
+No 100-694, 102 Stat. 4563, (Westfall 
+Act) 28 U.S.C. § 2679... . . 20, 21, 
+* * © © «© «© «© «© « 25, 26, 28, 37-39, 42 
+
+
+28 0.8.C. § 2671 . . . . 7 . . 22, 28 
+28 U.S.C. § 2679 . . . . . . 7 . . 24 
+
+
+28 U.S.C. 
+28 U.S.C. 
+28 U.S.C. 
+28 U.S.C. 
+
+
+vii 
+§ 2679(b).. 
+§ 2679(d) (1) 
+§ 2679(d) (2) 
+§ 2679(d)(3). 
+
+
+21, 30, 
+- 2i, 
+. 28, 
+
+
+Federal Torts Claims Act, 28 U.S.C. 
+2671 et seq. ....-.s 
+
+
+Legislation to Amend the Federal Tort 
+Claims Act: Hearing Before the Subcom- 
+mittee on Administrative Law and Gov- 
+
+
+. 21, 
+
+
+, 100th Cong., 2d Sess. 60, 
+128 (April 14, 1988) 
+
+
+- 37, 
+
+
+38 
+
+
+No. 94-167 
+
+
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+
+
+OCTOBER TERM, 1994 
+
+
+KATIA GUTIERREZ DE MARTINEZ, EDUARDO 
+MARTINEZ PUCCINI, AND HENNY MARTINEZ DE 
+PAPAIANI, 
+
+
+Petitioners, 
+Vv. 
+DIRK A. LAMAGNO, THE DRUG ENFORCEMENT 
+ADMINISTRATION, AND THE UNITED STATES OF 
+AMERICA, 
+Respondents. 
+
+
+ON WRIT OF CERTIORARI TO 
+THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+PETITIONERS’ BRIEF ON THE MERITS 
+
+
+OPINIONS BELOW 
+The opinion of the United States 
+Court of Appeal for the Fourth Circuit 
+is unpublished (see Petitioners Appen- 
+dix, hereinafter "App." 1l-b; Joint Ap- 
+pendix, hereinafter "“JA"-10), but the 
+
+
+2 
+decision is noted at 23 F.3d 402 (Ta- 
+ble). The judgment of the United States 
+District Court for the Eastern District 
+of Virginia (App. l-a; JA-9) is unre- 
+ported. 
+STATEMENT OF JURISDICTION 
+
+As a result of injuries and loss of 
+property due to an automobile accident 
+occurring on January 18, 1991, a timely 
+administrative claim was filed on May 5, 
+1991. Subsequently, within both the 
+State of Virginia and the Federal two 
+year statute of limitation period, a 
+complaint was filed on January 15, 1993. 
+On May 4, 1993, a Notice of Appeal was 
+filed appealing the final order of the 
+District Court of April 16, 1993. The 
+judgment of the Court of Appeals affirm- 
+ing the order of the District Court was 
+
+
+entered on April 28, 1994. This Court 
+
+
+3 
+has jurisdiction under 28 U.S.C. 1254- 
+(1). The petition for writ of certiora- 
+ri was filed on July 25, 1994, and gran- 
+ted on November 14, 1994. 
+STATUTE INVOLVED 
+
+
+28 U.S.C. § 2679 
+Exclusiveness of remedy 
+
+
+(d)(1) Upon a certification by the 
+Attorney General that the defendant 
+employee was acting within the scope of 
+his office or employment at the time of 
+the incident out of which the claim 
+arose, any civil action or proceeding 
+commenced upon such claim in a United 
+States district court shall be deemed an 
+action against the United States under 
+the provisions of this title and all 
+references thereto, and the United 
+States shall be substituted as the party 
+defendant. 
+
+
+(2) Upon certification by the At- 
+torney General that the defendant em- 
+ployee was acting within the scope of 
+his office or employment at the time of 
+the incident out of which the claim 
+arose, any civil action or proceeding 
+commenced upon such claim in a State 
+court shall be removed without bond at 
+any time before trial by the Attorney 
+General to the district court of the 
+United States for the district and divi- 
+sion embracing the place in which the 
+action or proceeding is pending. Such 
+
+
+4 
+
+
+action or proceeding shall be deemed to 
+be an action or proceeding brought 
+against the United States under the 
+provisions of this title and all refer- 
+ences thereto, and the United States 
+shall be substituted as the party defen- 
+dant. This certification of the Attor- 
+ney General shall conclusively establish 
+scope of office or employment for pur- 
+poses of removal. 
+
+
+(3) In the event that the Attorney 
+General has refused to certify scope of 
+office or employment under this section, 
+the employee may at any time before 
+trial petition the court to find and 
+
+
+certify that the employee was acting 
+within the scope of his office or em- 
+
+
+ployment. .. - 
+STATEMENT OF THE CASE 
+
+
+Petitioners Mrs. Katia Gutierrez de 
+Martinez, Eduardo Martinez Puccini, and 
+Henny Martinez de Papaiani, (hereinafter 
+“Injured Parties"), are citizens of the 
+Republic of Colombia, who on January 15, 
+1993, filed in the United States Dis- 
+trict Court for the Eastern District of 
+Virginia, a Complaint based on diversity 
+of citizenship, against respondent Dirk 
+
+
+5 
+
+A. Lamagno, (hereinafter "Mr. Lamagno"), 
+a Special Agent employed by The Drug 
+Enforcement Administration (DEA), for 
+damages as a result of personal injuries 
+and loss of property, due to an automo- 
+bile accident occurring in Barranquilla, 
+Colombia, on a Friday night, at 11:45 
+P-m. on January 18, 1991.3 
+
+Thus the only issue now before the 
+Court is whether, under the Federal Tort 
+Claims Act, the Attorney General of the 
+United States by certifying to the dis- 
+trict court, pursuant to 28 U.S.C. § 
+2679(d) (1), that a defendant federal 
+
+
+employee was acting within the scope of 
+
+
+‘The Complaint originally included counts 
+against the DEA, and the United States, pursuant 
+to the “headquarters exception” to 28 U.s.c. § 
+2680(k). In addition, judicial enforcement of 
+the right to compensation under 21 U.8.c. § 904, 
+was sought. These Counts were also dismissed by 
+the lower courts. of the two issues, only the 
+question under 21 U.S.C. § 904, was raised in the 
+Petition for Certiorari, however, the Court did 
+not grant an order to review this second issue. 
+
+
+6 
+
+his federal employment at the time of 
+his allegedly tortious conduct, the 
+United States may insulate the federal 
+employee from all liability, without any 
+independent judicial inquiry in the 
+propriety of the Attorney General’s cer- 
+tification. 
+
+The Fourth Circuit held that such 
+absolute immunity was required by stat- 
+ute, irrespective of the fact that: (1) 
+Mr. Lamagno works for the Attorney Gen- 
+eral; (2) the Injured Parties came for- 
+ward with specific facts, unrebutted by 
+the Government, that demonstrate that 
+the Attorney General’s certification was 
+not based on facts and was incorrect; 
+and, (3) the Attorney General certifica- 
+tion precluded recovery for the Injured 
+
+
+Parties’ personal injuries and loss of 
+
+
+7 
+
+property, because of the “foreign coun- 
+try" exception, 28 U.S.C. § 2680(k).? 
+
+In summary the Injured Parties 
+charged that Mr. Lamagno, negligently 
+caused the accident while driving away 
+from his hotel under the influence of 
+alcohol, late at night after normal 
+working hours, in the company of an un- 
+identified female passenger who was not 
+a federal employee, and in a vehicle 
+identified by non-diplomatic license 
+plates No. LK 9264. (1 Record, Com- 
+plaint, First Count 9 1, 4 3 and ] 9; 18 
+Record Transcript of hearing of April 
+16, 1993, p. 5, line 23; Appellants’ 
+
+
+7although the court of appeals was correct 
+in noting in their opinion that the Injured Par- 
+ties “may yet receive redress for their inju- 
+ries,” (JA-20), because of their still valid ad- 
+ministrative claim filed against DEA pursuant to 
+21 U.S.C. § 904, the reality is that the Justice 
+Department has for over three and a half years 
+been “sandbagging” this claim since filed on May 
+
+
+5, 1991. 
+
+
+8 
+
+Brief to Fourth Circuit, p. 16, note 5; 
+Joint Appendix to Fourth Circuit A-59) 
+
+Furthermore, because of Mr. Lamagn- 
+o’s DWI condition while driving away 
+from his hotel at a high rate of speed 
+he failed to stop at a marked intersec- 
+tion. His armored truck did hit and to- 
+tally demolished the Injured Parties 
+car. Mr. Lamagno left the Injured Par- 
+ties trapped in their car for over 45 
+minutes, unattended and bleeding with 
+numerous physical injuries. (1 Record, 
+Complaint, First Count 4 5 and @ 16; 
+Second Count 9 2; and Third Count 9 2) 
+
+At the accident Mr. Lamagno, was 
+ordered by the police to appear at a 
+judicial hearing to be held by the 6th 
+Criminal Court on January 19, 1991, and 
+March 7, 1991, and provide testimony re- 
+
+
+9 
+garding the accident. (1 Record, Com- 
+plaint, First Count 4 10 and q 15) 
+
+However, instead of assuring Mr. 
+Lamagno’s appearance at the judicial 
+hearing, officials of the DEA removed 
+the non-diplomatic license plates No. LK 
+9264, and replaced them with diplomatic 
+license plates No. CD0172. 1 Record, 
+Complaint, First Count @ 11; and then 
+instructed Mr. Lamagno not to appear at 
+either of the ordered judicial hearings, 
+and assisting Mr. Lamagno’s fleeing of 
+the Republic of Colombia on or about 
+January 19, 1991. (1 Record, Complaint, 
+First Count 4 13) 
+
+Thus Mr. Lamagno was accused of 
+“careless, reckless, and grossly negli- 
+gent operation of the motor vehicle.” (1 
+Record, Complaint, Pirst Count 4 16) 
+
+
+10 
+
+
+In response to the Complaint, on 
+
+
+March 4, 1993, the United States Attor- 
+
+
+ney issued a Certificate of Scope of Em- 
+
+
+ployment under 28 U.S.C. § 2679(d)(1), 
+
+
+which only stated the following, 
+
+
+tute 
+
+
+I, »- « « , hereby certify that I 
+have investigated the circumstances 
+of the incident upon which the pla- 
+intiff’s claims were based. On the 
+basis of the information now avail- 
+able with respect to the allega- 
+tions of the complaint, I hereby 
+certify that defendant Dirk A. 
+Lamagno was acting within scope of 
+his employment as an loyee of 
+the United States of America at the 
+time of the incident giving rise to 
+the above entitled action. (JA-1) 
+
+
+The United States’ moved to substi- 
+itself for Mr. Lamagno. (JA-3). 
+
+
+The following day, March 5, 1993, 
+
+
+based on the above one-paragraph certif- 
+
+
+ication of scope of employment, that was 
+
+
+the only statement made by the United 
+
+
+States, which neither stated any factual 
+
+
+basis for its issuance, nor denied nor 
+
+
+11 
+rebutted the Injured Parties facts, the 
+District Court entered an ex parte order 
+substituting the United States for Mr. 
+Lamagno (JA-7). 
+
+Subsequently, the United States 
+filed a motion under Rules 12(b)(1) and 
+12(b)(6) of the Federal Rules of Civil 
+Procedure. The United States stated 
+that recovery was not available due to 
+the "foreign country" exception, despite 
+Mr. Lamagno’s driving after normal work 
+hours, away from his hotel, under the 
+influence of alcohol, in the company of 
+an unknown female, intentionally failing 
+to appear at two judicial ordered hear- 
+ings; and, being charged with violations 
+of the Colombian Traffic Code. (9 and 10 
+Record, Motion of United States to Dis- 
+miss. See also Brief of Appellees, 4th 
+Cir. Ct App., pp. 4 and 16) 
+
+
+12 
+At a hearing on the United States 
+motion, on April 16, 1993, despite the 
+Injured Parties counsel’s argument that, 
+". « «the Government raises what I 
+Classify as a James Bond defense: 
+Mr. Lamagno, acting under the 
+influence of alcohol, after hours, 
+and in the company of a woman, was 
+in the scope of his employment. 
+Which [for] James Bond may be good 
+in movies, .. . is not good when 
+it causes severe accidents such as 
+this.” (18 Record, Transcript of 
+Hearing p. 5); 
+the District Court dismissed the action 
+against the United States, based on the 
+“foreign country exemption” under _28 
+U.S.C. § 2680(k), wherein the United 
+States cannot be subject to suit for any 
+tort committed outside of the United 
+States (JA-9). 
+In the brief on appeal the Governm- 
+ent continued to maintain that the 
+
+
+"James Bond Defense” warranted the sub- 
+
+
+13 
+stitution of the United States for its 
+DEA agent, since he is on, 
+ol twenty four hours a day. A 
+pecial Agent does not follow a 
+normal civilian lifestyle while on 
+special assignment in a foreign 
+country.” (Brief of Appellees, 4th 
+
+Cir. Ct App., p. 19) 
+
+Despite the undisputed facts sur- 
+rounding the accident, and the absurdity 
+of the “James Bond Defense", on April 
+28, 1994, the Fourth Circuit affirmed 
+the District Court’s holding on all 
+counts, stating that there is no dis- 
+cretion given to the district court to 
+review the Attorney General’s certifi- 
+cation. (JA-19). 
+
+Because of the Fourth Circuit’s 
+absolute immunity holding, which is at 
+odds with the rulings of eight other 
+courts of appeals, and cannot be squired 
+with either the specific wording of 28 
+
+
+U.S.C. § 2679(d)(1)(2) and (3), or the 
+
+
+14 
+Congressional intent which becomes ap- 
+parent from reviewing the legislative 
+history, a Petition for Certiorari was 
+filed seeking review by this Court of 
+the Fourth Circuits holding. Said Peti- 
+tion for review was joined by the Solic- 
+
+
+itor General. 
+
+
+15 
+SUMMARY OF THE ARGUMENT 
+
+In their Certification of Scope of 
+Employment, neither the Attorney General 
+nor any of her subordinates explained 
+the basis of their certification deci- 
+sion, nor did they rebut, or even ac- 
+knowledge, any of the proofs presented 
+by the Injured Parties. 
+
+By establishing that Mr. Lamagno 
+was driving away from his hotel under 
+the influence of alcohol, late at night 
+after normal working hours, in the com- 
+pany of an unidentified female passenger 
+who was not a federal employee, and in a 
+vehicle identified by non-diplomatic li- 
+cense plates No. LK 9264, the Injured 
+Parties met their burden of proof that 
+Mr. Lamagno was not acting within the 
+scope of his federal employment at the 
+time of the accident. 
+
+
+16 
+
+Thus in holding that the Attorney 
+General’s certification under the 28 
+U.S.C. 2679(d), conclusively requires 
+that the United States be substituted 
+for the government employee as the de- 
+fendant in all civil actions, and is not 
+subject to de novo judicial review, the 
+Court of Appeals for the Fourth Circuit, 
+is in error not only because of their 
+accepting the absurdity of the Govern- 
+ment’s “James Bond Defense," but also 
+because their decision is not in accord 
+with either the Federal Drivers Act, or 
+the Westfall Act. 
+
+Other circuit courts, in a more 
+reasoned approach than the Fourth Cir- 
+cuit’s grant of absolute immunity to 
+federal employees, stress the statutory 
+construction of 28 U.S.C. § 2679(d)(1) 
+vis-a-vis § 2679(d)(2), and place empha 
+
+
+17 
+
+sis on the legislative history of the 
+Westfall Act, to conclude that with 
+exception of the denying -he right to 
+review the removal from a State court, 
+the procedure established under the 
+Federal Drivers Act which permitted the 
+District Court to consider facts and 
+circumstances which refute the certifi- 
+cation of scope of employment remained 
+unamended. 
+
+Accordingly because of the need to 
+protect the public interest by assuring 
+that public funds are not utilized to 
+insure the actions of a federal employee 
+committing tortious conduct while not 
+within the scope of his or her federal 
+employment, independent judicial review 
+is required. This is particularly true 
+given there is nothing either in the 
+Westfall Act nor its legislative history 
+
+
+18 
+to lead to the conclusion that for other 
+than removal, Congress did not desire to 
+amend the procedure established under 
+Federal Drivers Act. Thus the Court is 
+respectfully urged to reverse the deci- 
+sion below and mandate that the District 
+Court conduct a de novo review of the 
+“James Bond Defense” and Attorney Gener- 
+al’s issuance of the certification of 
+
+
+scope of employment. 
+
+
+This Court held unanimously in 
+
+
+Westfall _v. Erwin, 484 U.S. 292, 300, 
+108 §.Ct. 580, 585, 98 L.Ed.2d 619 (19- 
+
+
+< 
+
+
+88), that consistent with earlier deci- 
+sions which furthered the policy of pro- 
+moting effective government, absolute 
+official immunity from state-law tort 
+actions would be available only when the 
+challenged conduct of federal officials 
+is within the outer perimeter of an 
+official’s duties and is discretionary 
+in nature. See Spalding v. Vilas 161 
+
+
+U.S. 483, 16 S.Ct. 631, 637, 40 L.Ed. 
+
+
+20 
+
+780 (1896); Barr v. Matteo, 360 U.S. 
+564, 79 S.Ct. 1335 (1959). 
+
+Subsequently, Congress followed the 
+Court’s recommendation to “provide guid- 
+ance for the complex and often highly 
+empirical inquiry into whether absolute 
+immunity is warranted in a particular 
+context,” Westfall, 108 S.Ct. at 585; by 
+enacting the Federal Employees Liability 
+Reform and Tort Compensation Act of 
+1988, (hereafter cited as the "Westfall 
+Act"), Pub. L. No 100-694, 102 Stat. 
+4563, in which absolute immunity is 
+provided to all federal employees for 
+any state law tort committed, so long as 
+they were found to be acting within the 
+scope of their employment. 
+
+Thus if the federal employee was 
+acting within the scope of his employ- 
+
+
+ment the United States would be substi- 
+
+
+21 
+
+tuted as the defendant, and the suit 
+would then proceed against the United 
+States under the Federal Torts Claims 
+Act (FTCA), 28 U.S.C. $$ 2671 et seq. 
+
+However, Fourth Circuit in inter- 
+preting the Westfall Act, in the instant 
+appeal, and in Johnson v. Carter, 983 
+F.d 1316, 1320 (4th Cir) (en banc), cert. 
+denied, 1320 U.S.L.wW. 3244 (U.S. 1993), 
+
+
+did so at odds with the rulings of eight 
+other Circuit Courts of Appeals, by 
+holding that “no discretion is given to 
+the district court to review the Attor- 
+ney General’s certification [of scope of 
+employment} made pursuant to 28 U.S.C.A. 
+$$ 2679(d) (1), (2)" (JA-19). 
+
+Thus the Fourth Circuit holding has 
+extended the concept of absolute imm- 
+
+
+22 
+
+nity for all federal employees,’ beyond 
+that previously established either for 
+Congress in the United States Consti- 
+tution under Article I, § 6, or for 
+judges through historical precedent (". 
+. . absolute (judicial) immunity arising 
+out of judicial proceeding existed at 
+least as early as 1608 in England."). 
+Dissenting opinion Barr v. Matteo, 360 
+U.S. 564, 579, 79 S.Ct. 1335, 1344 (19- 
+59)). 
+
+In short, the Fourth Circuit holds 
+that a federal employee is absolutely 
+
+
+jmmune from suit in his individual ca- 
+
+
+3«pederal agency” includes the executive 
+departments, the judicial and legislative bran- 
+ches, the military departments... .- " 
+
+“Employees of the government” includes 
+officers or employees of any federal opener > 
+members of the military or naval forces of 
+United states, members of the National Guard 
+while engaged in training or duty. . - =, and 
+persons acting on behalf of a federal agency in 
+an official capecity, temporarily or permanently 
+in the service of the United States, whether 
+
+
+with or without compensation. 28 U.S.C. § 2671. 
+
+
+23 
+
+pacity, whether or not on a temporary 
+duty assignment or at their home sta- 
+tion, for all activity during the twen- 
+ty-four hour of the day, i.e. “James 
+Bond Defense." (See dissenting opinion 
+of Judge Spouse, Carter 983 F.2d at 
+1324). 
+
+This despite the fact that the 
+analysis of the factors supporting the 
+determination of “scope of employment” 
+is not made by an impartial fact finder, 
+but by the Attorney General, who as an 
+appointed official of the Executive 
+Branch is neither a disinterested party, 
+nor independent of political and public 
+pressure. 
+
+Portunately with the exception of 
+the Fourth Circuit, all other Circuit 
+Courts that have addressed the specific 
+question of the reviewability of a dis- 
+
+
+24 
+puted scope-of-employment certification 
+issued under the 1988 amendments to 28 
+U.S.C. § 2679, have uniformly held them 
+to be subject to de novo judicial re- 
+view. 
+As the Second Circuit stated in 
+
+
+McHugh v. University of Vermont, 966 
+F.2d 67, 72 (2nd Cir. 1992), "“{wje be- 
+
+
+lieve that the scope-of-employment cer- 
+tification should be reviewed de novo 
+for purposes of substituting the United 
+States as a defendant and precluding an 
+action against the federal employee." 
+In addition to the Second Circuit, 
+seven other Circuit Courts have held 
+that as a rule of law the Attorney Gen- 
+eral’s certification will be reviewed de 
+novo prior to substituting the United 
+
+
+25 
+
+States as a defendant and immunizing the 
+federal employee:‘ 
+
+o the First Circuit, see Nasuti v. 
+Scannell, 906 F.2d 802 (lst Cir. 1990); 
+
+o the Third Circuit, see Melo vy. 
+Hafer, 912 F.2d 628 (3rd Cir. 1990), 
+aff’d on separate grounds. __-U.S. _—s, 
+112 S.Ct. 358, 116 L.Ed.2d 301(1991); 
+
+© the Sixth Circuit, see Arbour v. 
+Jenkins, 903 F.2d 416 (6th Cir. 1990); 
+
+o the Seventh Circuit, see Snod- 
+grass v Jones, 957 F.2d 482 (7th Cir. 
+1992); 
+
+o the Eighth Circuit, see Brown v. 
+Armstong, 949 F.2d 1007 (8th Cir. 1991); 
+
+
+‘only in Fifth and the Tenth Circuits, where 
+the Westfall Act scope of employment certifica- 
+tion was not a disputed issue, has it been held 
+
+
+that substitution is automatic and manda upon 
+certification, , 896 F2d 
+128, 136 (Sth cir. 1 PP , 887 
+
+
+F2d 1046 (10th Cir. 1989). 
+
+
+26 
+o the Ninth Circuit, see Meridian 
+
+
+Logistics, Inc. v. United States, 939 
+F.2d 740 (9th Cir. 1991); and, 
+
+
+o the Eleventh Circuit, see S.J. & 
+
+
+W Ranch, Inc. v. Lehtinen, 913 F.2d 1538 
+(llth Cir. 1990). 
+
+
+The interpretation by the eight 
+
+
+Circuit Courts that have dealt with the 
+question of the reviewability of a cer~ 
+tification issued under the Westfall 
+Act, holding for judicial review, is 
+consistent with an analysis of the West~- 
+fall Act, in conjunction with preexist- 
+ing statute and case law against which 
+it was enacted. 
+The Westfall Act amended the 
+
+1961 amendments to the Federal Tort 
+Claims Act, Public Law 87-258 [75 Stat 
+
+
+27 
+
+539) (1961), known as The Federal Driv- 
+ers Act, 28 U.S.C. § 2679 (b)-(c), by 
+which Congress did “provide for the de- 
+fense of suits against Federal employees 
+arising out of their operation of motor 
+vehicles in the scope of their employ- 
+ment." 
+
+Under the Federal Drivers Act, “the 
+trial judge determined the scope of 
+employment issue as a matter of law.” 
+Petrousky v. United States, 728 F.Supp 
+890, 891 (N.D.N.Y., 1984). 
+
+Therefore, if the district court 
+found that the federal driver was not 
+acting within the scope of his employ- 
+ment, the United States would not be 
+substituted, and the action would pro- 
+ceed against the federal employee in his 
+
+
+individual capacity. Cronin v Hertz 
+
+
+Corp., 818 F.2d 1064 (2nd Cir. 1987). 
+
+
+28 
+
+Furthermore, in those actions in- 
+volving removal from a State court, if 
+the district court found that the feder- 
+al driver was not acting within his 
+scope of employment the action was to be 
+“remanded to the state court where it is 
+to be recommended against the federal 
+driver in his individual capacity." 
+McGowan v. Williams, 623 F.2d 1239, 1242 
+(7th Cir. 1980). 
+
+The Westfall Act modified the Fed- 
+eral Drivers Act in several respects: 
+
+First, absolute immunity for all 
+tort actions was granted to all officers 
+or employees of the executive, judicial, 
+or legislative branches of the United 
+States. 28 U.S.C. §§ 2671 and 2679(b). 
+
+Second, 28 U.S.C. §2679(d) (3) added 
+the provision that, if a certification 
+
+
+is refused, would allow federal employ~ 
+
+
+29 
+
+ees for the first time to petition the 
+court in which the action is pending, 
+state or federal, to find that they were 
+acting within the scope of employment. 
+But see Cronin v Hertz Corp., 818 F.2d 
+1064 (2nd Cir. 1987), wherein the feder- 
+al courts already recognized this right 
+of de novo review by the judiciary of 
+the denial of certification in an action 
+not involving removal under the Federal 
+Drivers Act. 
+
+Furthermore, in the context of 
+removal, under this section the Attorney 
+General is empowered to remove the ac- 
+tion, if in state court, to the district 
+court upon such employee’s petition. If 
+the district court finds that the acts 
+were not within the scope of employment, 
+the case is to be remanded to state 
+
+
+court. 
+
+
+30 
+
+Third, in 28 U.S.C. § 2679(d)(1), 
+the Westfall Act extended the certifica- 
+tion procedure to all cases, including 
+those already in federal court. 
+
+Therefore, under the Westfall Act 
+the Attorney General’s certification 
+serves two purposes: 
+
+First, it is the basis for removal 
+of state court actions to federal court; 
+and, 
+
+Second, it is the basis for the 
+substitution of the United States as a 
+defendant and for the resultant immuni- 
+zation of the federal employee. 
+
+With regard to removal, 28 U.S.C. § 
+2679(d)(2), amended existing law by pro- 
+viding that a certification “conclusive- 
+ly establish{es} scope of office or 
+employment for purposes of removal." 
+
+
+31 
+
+In contrast, 28 U.S.C. $ 2679(d) 
+(1), which provides for substitution and 
+triggers the preclusive effect of 28 
+U.S.C. § 2679(b) on the actions against 
+the federal employee, contains no ex- 
+plicit language conferring conclusive 
+status upon the Attorney General’s cer- 
+tification. Thus because Congress did 
+not amend the procedures under the Fed- 
+eral Drivers Act, the right to judicial 
+review of the certification was not 
+amended. 
+
+This interpretation of the statute 
+not conferring automatic conclusive sta- 
+tus upon the Attorney General certif- 
+ication is consistent with the holding 
+in Cronin v Hertz Corp., 818 F.2d 1064 
+(2nd Cir. 1987), which was the only case 
+located that involved diversity and did 
+
+
+not involve removal. There the lower 
+
+
+32 
+court undertook judicial review of the 
+denial of certification, based on the 
+question present, which was the vicari- 
+ous liability of the United States for 
+an automobile accident caused by a ci- 
+vilian employee on temporary assignment 
+(TDY) away from home.’ 
+
+In Cronin, as in the instant appeal 
+the accident occurred late at night 
+after working hours and after the feder- 
+al employee had a number of alcoholic 
+drinks, but unlike in the instant appeal 
+where the lower courts neither held a 
+
+
+hearing nor took notice that Mr. Lamagno 
+
+
+a Herts rental car to go bar hopping, ene wes 
+to his hotel collided with, and kil 
+a motorcyclist. The consevatrix of the estate 
+sued Hertz, Hertz She Sederel enpheree 
+living in Hawaii, federal emp c 
+
+he was acting within the scope of his loy- 
+ment, and therefore the United States was vicar- 
+iously liable. 
+
+
+33 
+was driving away from his hotel in the 
+company of a female companion not in 
+federal employment, in Cronin, the Dis- 
+trict Court held a hearing wherein it 
+was established that the employee was on 
+his way back alone to lodging, which was 
+provided by the Government. 
+
+Since it was not a removal action, 
+the District Court had no statutory 
+authority to hold a hearing and review 
+the scope of employment issue, but the 
+court did so, and found that the federal 
+employee was not acting within his scope 
+of employment. 
+
+On appeal the Second Circuit af- 
+firmed, stated that because it could not 
+accept, the “argument that persons on 
+temporary duty are at all times acting 
+solely for the benefit of the employer’s 
+benefit, and are always with the scope 
+
+
+34 
+
+of employment. Rather, we look to the 
+facts and to the individual factors 
+involved. . . [Because an) employer who 
+sends an employee away for temporary 
+duty does not automatically become an 
+insurer for all that the employee may do 
+while he or she is away from home." 
+Cronin 818 at 1067. 
+
+In Cronin, the “James Bond Def- 
+ense," was emphatically rejected. 
+
+Therefore, the question for the 
+circuit court, in this pre-Westfall Act 
+case, was not whether it had a right to 
+review the denial of the certification, 
+but was whether the federal employee’s 
+conduct was “actuated, at least in part, 
+by a purpose to serve the master. Re 
+statement (Second) of Agency § 228(1)- 
+(c)" Cronin 818 at 1067. 
+
+
+35 
+
+Regarding the factors to consider 
+in a case involving an intoxicated fed- 
+eral employee, the circuit court recog- 
+nized that some acts of a federal em- 
+ployee “even when committed in a state 
+of intoxication may nevertheless be said 
+to be actuated by the interests of the 
+employer.” Cronin 818 at 1068. 
+
+In its analysis the circuit court 
+considered in those cases where the 
+motivation of the federal employee is 
+difficult to discern, that it would 
+“look next to see whether the risk of 
+this type of accident was foreseeability 
+in such a sense as to make it fair to 
+charge the Government for responsibili- 
+ty” Cronin 818 at 1068. 
+
+However, the circuit court stated 
+“that what is reasonable foreseeable in 
+
+
+the context of respondent superior is 
+
+
+36 
+
+quite a different thing from the fore- 
+seeable unreasonable risk of harm that 
+spells negligence. . . In this sense 
+‘fairness probably cannot be altogether 
+divorced from some kind of foreseeabili- 
+ty.’ We should, however, look to the 
+‘broadscope of a whole enterprise,’ in- 
+cluding both its ‘more or less inevita- 
+ble toll’ and the harm that is likely to 
+flow from the employer’s activity de- 
+spite the reasonable precautions that 
+might be taken." (citation omitted) 
+Cronin 818 at 1068. 
+
+Consequently, under the Federal 
+Drivers Act, judicial review of the 
+certification was the norm, even in non- 
+
+
+removal cases. 
+
+
+As further support of the continued 
+right to judicial review under the West- 
+fall Act, we turn to its legislative 
+history, wherein during the hearing 
+before the House Subcommittee on Admin- 
+istrative Law and Government Relations 
+of the Committee on the Judiciary, Sub- 
+committee Chair Frank, who was the West- 
+fall Act’s sponsor, stated that the Act 
+was, 
+
+“not going to void the [certifi- 
+
+cation] litigation. It seems to me 
+
+that certification is a weapon 
+against the employee, not against 
+the plaintiff, because the plain- 
+tiff would still have the right to 
+contest the certification if they 
+[sic] thought the Att General 
+were (sic) certifying wi t jus- 
+tification." : Te 
+
+
+a 
+
+
+aministratic 
+
+
+38 
+
+
+, 100th Cong., 2d Sess. 
+60, 128 (April 14, 1988). 
+
+
+Furthermore, even the Department of 
+Justice representative, Deputy Assistant 
+Attorney General Robert Willmore, who 
+appeared at the Congressional hearing 
+confirmed the reviewability of the cer- 
+tification, stating that “Chairman Frank 
+is correct that a plaintiff can chal- 
+lenge that certification. So that would 
+be reviewable by a court at some point, 
+probably by a Federal District Court.” 
+
+
+Legislation to Amend the Federal Tort 
+
+
+Claims Act: Hearing, at 133. 
+Thus a review of the legislative 
+
+
+history, and the Westfall Act itself, 
+fails to present any evidence that Con- 
+gress intended to eliminate judicial 
+review of the determination of the 
+
+
+scope of employment issue, except with 
+regard to removal. 
+
+
+39 
+
+Indeed, such an elimination of 
+judicial review would amount to a viola- 
+tion of the Injured Parties right to due 
+process and equal protection of the 
+laws, since it defiies them the right to 
+be heard on the issue of their challenge 
+to the scope of employment, and thereby 
+deprives them of the right to recovery 
+for loss of property and for personal 
+
+
+injuries. See St Joseph Stock Yards Co. 
+
+
+vy United States, 298 U.S. 38, 56 S.Ct. 
+720, 726 (1936). 
+
+
+This deprivation of due process and 
+equal protection of the laws is obvious, 
+and particularly onerous, since the 
+Westfall Act does now empower the feder- 
+al employees to challenge a refusal by 
+an Attorney General to certify scope of 
+employment. See 28 U.S.C. § 2679(d)(3). 
+
+
+40 
+
+In the instant action, the DEA 
+raise only the “James Bond Defense," 
+that is Mr. Lamagno as a Special Agent 
+is on duty twenty-four hours a day, (4th 
+Cir. Ct Appeal, Brief of Appellees, p. 4 
+and p 20). This as noted was rejected 
+by the Second Circuit in Cronin. 
+
+Because it has been admitted that 
+Mr. Lamagno was driving away from his 
+hotel, recklessly and under the influ- 
+ence of alcohol, late at nigh after 
+normal office hours in the company of an 
+unidentified woman, and was charged with 
+a violation of the provisions of the Co- 
+lombian traffic Code, the United States 
+cannot be automatically substituted as 
+the defendant, and thereby causing Mr. 
+Lamagno to be immunize from suit in his 
+individual capacity. 
+
+
+41 
+In fact, by these very admissions, 
+the Injured Parties have more than met 
+their burden of presenting “specific 
+facts rebutting the government’s scope 
+
+
+of employment certification" Brown yv 
+Armstrong, 949 F.2d 1007 at p. 1012 (8th 
+
+
+Cir. 1991); Hamrick vy. Franklin, 931 
+F.2d 1209 at 1211 (7th Cir. 1991), and 
+the district court, in accordance with 
+the procedure established under the 
+Federal Drivers Act, was required to 
+conduct at least limited judicial hear- 
+ing to review the Attorney General’s 
+scope-of-employment certification before 
+substituting the United States as de- 
+fendant. 
+
+
+42 
+
+CONCLUSION 
+For the reasons given herein, the 
+Court is respectfully requested to re- 
+verse the decision of the United States 
+Court of Appeals for the Fourth Circuit, 
+and remand the action to the District 
+Court for a de novo review of the evi- 
+dence to determine whether Mr. Lamagno 
+is entitled to the Attorney General’s 
+certification under the Westfall Act, 28 
+U.S.C. § 2679(d). 
+Respectfully submitted, 
+KATIA GUTIERREZ DE MARTINEZ, 
+
+
+EDUARDO MARTINEZ PUCCINI, 
+AND HENNY MARTINEZ DE PAPAIANI, 
+
+
+sy rtaidere 
+Isidoro Rodriguez, \Esqr 
+Attorney for Petitidners 
+
+
+— 
+
+
+LAW OFFICE OF ISIDORO RODRIGUEZ P.C. 
+Calle 84 No. 56-51 ; 
+Piso 2, Office 4 
+Barranquilla, Colombia S.A. 
+(011)5758-561678 
+
+
+December 13, 1994 
+
+
+oe. 
+oe “ 
+, a $ 
+
+
+« 
+
+
+ie r = zee 
+
+
+* 
+
+

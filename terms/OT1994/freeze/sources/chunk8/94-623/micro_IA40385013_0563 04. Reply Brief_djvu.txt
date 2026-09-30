@@ -1,0 +1,337 @@
+OCTOBER TERM, 1994 
+
+
+VIMAR SEGUROS Y REASEGUROS, S.A.., 
+PETITIONER, 
+
+
+Vv. 
+
+
+M/V SKY REEFER, HER ENGINES, ETC., 
+AND M.H. MARITIMA, S.A.., 
+RESPONDENTS. 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FIRST CIRCUIT 
+
+
+REPLY BRIEF FOR THE PETITIONER 
+
+
+STANLEY MCDERMOTT III LAWRENCE S. ROBBINS 
+
+
+Varet & Fink, P.C. Counsel of Record 
+53 Wall Street ADAM C. SLOANE 
+New York, NY 10005 Mayer, Brown & Platt 
+(212) 858-5407 2000 Pennsylvania Ave., N.W. 
+Washington, D.C. 20006 
+(202) 778-0611 
+Counsel for Petitioner 
+
+
+Vimar Seguros Y Reaseguros, S.A. 
+
+
+—Sx 
+
+
+oe 7 * 
+BE ey ee 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases 
+
+
+Ilva (USA), Inc. v. Alexander’s Daring 
+M/V, 10 F.3d 255 (Sth Cir. 1993) 
+
+
+State Establishment for Agricultural 
+Product Trading v. M/V Wesermunde, 
+838 F.2d 1576 (11th Cir.), cert. 
+denied, 488 U.S. 916 (1988) 
+
+
+Union Insurance Society of Canton, Ltd. 
+v. Elikon, 642 F.2d 721 (4th Cir. 1981) 
+
+
+Statutes 
+
+
+9 U.S.C. 16(b)(1) 
+28 U.S.C. 1292(b) 
+
+
+Miscellaneous 
+
+
+Uniform Ocean Bills of Lading — Hague 
+Rules, H.R. Rep. No. 2218, 74th Cong., 
+2d Sess. 7 (1936) 
+
+
+In the Supreme Court of the Anited States 
+OCTOBER TERM, 1994 
+
+
+No. 94-623 
+
+
+VIMAR SEGUROS Y REASEGUROS, S.A.., 
+PETITIONER, 
+
+
+We 
+
+
+M/V SKY REEFER, HER ENGINES, ETC., 
+AND M.H. MARITIMA, S.A., 
+RESPONDENTS. 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FIRST CIRCUIT 
+
+
+REPLY BRIEF FOR THE PETITIONER 
+
+
+As we explained in the petition (at 10), the court of 
+appeals has decided an important and recurring question of 
+federal maritime law — and has done so in direct (and 
+acknowledged) conflict with the Eleventh Circuit's decision 
+in State Establishment for Agricultural Product Trading v. 
+M/V Wesermunde, 838 F.2d 1576, cert. denied, 488 U.S. 916 
+(1988). Applying two “canons of statutory interpretation” 
+(Pet. App. 11a), the court held that Section 2 of the Federal 
+Arbitration Act “removes” foreign arbitration clauses “from 
+the grasp of COGSA.” The court’s decision undermines the 
+purposes of COGSA, invokes mistaken principles of statutory 
+
+
+2 
+
+
+construction, and imposes needless, and costly, uncertainty 
+for maritime transactions. 
+
+
+Respondents concede most of this. They acknowledge 
+(Opp. 3), as they must, that the First Circuit’s decision is 
+squarely in conflict with the Eleventh Circuit’s decision in 
+Wesermunde. They do not dispute that the question presented 
+is both important and recurring. And they do not deny that 
+the decision beiow creates significant difficulties for maritime 
+commerce: as amicus Maritime Law Association puts it 
+(Amicus Br. 10), the court of appeals’ decision “deprive[s] 
+maritime commercial interests of precisely those elements the 
+Court has long endeavored to propagate: certainty, 
+predictability, and uniformity.” 
+
+
+Respondents nevertheless ask the Court to deny the 
+p ‘ition on three grounds. First, they assert (Opp. 2) that the 
+petition is “premature” because the case is in an interlocutory 
+posture, and “[fa}fter the arbitration in Japan concludes, 
+[petitioner] may no longer wish to challenge the validity of 
+the foreign arbitration clause” (ibid.). Second, respondents 
+contend that the Court should withhold a grant “until other 
+courts of appeals have the opportunity to address the issue” 
+(id. at 4). Finally, respondents argue (id. at 4-6) that the 
+court of appeals’ decision is correct. As we show below, 
+none of these is a persuasive reason to deny further review. 
+
+
+1. There is no reason to require petitioner to arbitrate 
+its claim in Japan before it may petition this Court for further 
+review. As respondents themselves recognize (Opp. 3), the 
+question whether foreign arbitration clauses are enforceable 
+is squarely presented in this case and requires no additional 
+factual development. It is ripe for review now: as the 
+district court explained when it certified the question for 
+immediate review, the issue presents “a question of statutory 
+interpretation which is not fact-specific” and “involves a 
+serious legal issue, on which courts have disagreed, which 
+doubtless will arise in future cases.” Pet. App. 28a. 
+
+
+3 
+
+
+Respondents have simply “not demonstrated that the costs 
+associated with immediate appeal would be unduly. 
+prejudicial, as compared with the expense and potential waste 
+associated with pursuing arbitration in Japan, which may later 
+be invalidated.” Id. at 29a. 
+
+
+Moreover, petitioner’s central submission is that COGSA 
+relieves shippers of the burden of arbitrating overseas. It is 
+no answer to suggest that petitioner should first submit to a 
+vexatious (and unlawful) arbitration in Japan and only 
+afterwards seek review of the legitimacy of such arbitration. 
+Respondents do not explain why petitioner should be put to 
+that burden when the question is clearly presented now, the 
+conflict was squarely acknowledged, and the pending 
+arbitration in Japan will shed no additional light on the legal 
+issues at stake. Respondents no doubt hope that the burden 
+of arbitrating in Japan (and the unpredictability of later 
+review) would force petitioner to discount and settle its claims 
+against its will and interest, in which event the foreign 
+arbitration clause would take its toll and yet escape further 
+review entirely. 
+
+2. It goes without saying that “[i}t is not necessary for 
+the Court to grant certiorari in every case where the lower 
+courts differ” (Opp. 3). But that is hardly a reason to deny 
+certiorari in this case. First, as we have noted, the question 
+whether foreign arbitration clauses may be enforced is clearly 
+presented in this case and is ripe for review: it is a pure 
+question of law and respondents do not deny that this case is 
+an appropriate vehicle for resolving the issue. Second, 
+although there is, to be sure, only one other court of appeals 
+decision on point, it is squarely in conflict, and the court 
+below expressly acknowledged the conflict and rejected the 
+conflicting authority. Third, the lower federal courts have 
+already garnered the requisite “experience with conflicting 
+interpretations of federal rules” (Opp. 4). Indeed, as 
+respondents concede, a wide array of district courts have 
+
+
+4 
+
+
+addressed the issue and reached starkly conflicting results. 
+See Pet. 23 n.18.' 
+
+
+Finally, it is no answer to suggest, as respondents do, 
+that the Court should simply wait for the next case. As 
+respondents themselves recognize (Opp. 2), it is exceedingly 
+difficult to secure appellate review of orders requiring 
+arbitration. Absent certification, the FAA precludes review 
+of an order staying litigation pending arbitration. 9 U.S.C. 
+16(b)(1). See Ilva (USA), Inc. v. Alexander’s Daring M/V, 
+10 F.3d 255 (Sth Cir. 1993) (dismissing under 9 U.S.C. 
+16(b) an appeal from an order staying litigation pending 
+arbitration, despite appellant’s waiver of its arbitration rights 
+in the notice of appeal). Generally speaking, it is only when 
+(as here) a district court agrees to certify the arbitration order 
+under 28 U.S.C. 1292(b), and the court of appeals accepts 
+certification, that a party can obtain review of an order 
+enforcing a foreign arbitration clause. 
+
+
+In short, if respondents had their way, district courts 
+could (and assuredly would) continue to enforce foreign 
+arbitration clauses, effectively insulated from appellate 
+review. For the reasons set out in our petition (at 16-24), 
+that outcome is inconsistent with the text and purposes of 
+COGSA and imposes needless costs and uncertainties for 
+
+3. Respondents urge the Court to deny certiorari 
+because, in their view, the court of appeals’ decision is 
+correct. Opp. 4-6. But respondents overlook all three of our 
+challenges to the decision below on the merits. See Pet. 16- 
+21. Respondents offer no rationale for the distinction 
+
+
+' Respondents observe that “more of these cases enforce [foreign 
+arbitration] clauses than invalidate them.” Opp. 3 n.2. Perhaps. 
+The question, however, is not how the cases line up, but rather the 
+fact that there is a deep and abiding conflict. Respondents concede 
+that there is. 
+
+
+5 
+
+
+effectively created by the court of appeals between foreign 
+forum selection clauses (which the court acknowledged are 
+unenforceable under COGSA (see Pet. App. 6a)) and foreign 
+arbitration clauses (which the court enforced). See Pet. 16- 
+
+
+18. Nor do respondents deny that the court of appeals’ 
+decision guts the purposes of COGSA and introduces 
+
+
+significant “uncertainty concerning the responsibilities and 
+liabilities of carriers, the responsibilities and rights of 
+shippers and the liabilities of underwriters who insure 
+waterborne cargo.” Union Ins. Soc. of Canton, Lid. v. 
+Elikon, 642 F.2d 721, 723 (4th Cir. 1981). See Pet. 18-21. 
+And although respondents agree with the court of appeals that 
+the FAA and COGSA are “in conflict” (Opp. 4), they never 
+explain why the two statutes cannot be reconciled according 
+to their plain terms. See Pet. 20-21. 
+
+
+4. The short of the matter is this: The court of appeals’ 
+decision is wrong, is concededly in conflict with the Eleventh 
+Circuit’s decision in Wesermunde, and resolves an important 
+and recurring question of federal law (that unfortunately 
+escapes ready appellate review in the ordinary course). 
+Amicus Maritime Law Association — which “represents a 
+broad constituency inclusive of ship and cargo owners, 
+charterers, shippers, forwarders, seamen, longshoremen, 
+passengers, insurers, and others” (Amicus Br. 2) — has put 
+it squarely: “Without knowing which of the two approaches 
+will apply, shippers and carriers face uncertainties that will 
+be translated into expensive litigation. The resulting litigation 
+will do little either to advance the important federal interests 
+in the uniformity of maritime law or to facilitate private 
+arbitration efforts.” Jd. at 11-12. 
+
+
+Respondents offer no reason why shippers and carriers 
+should absorb those costs — costs that Congress expressly 
+
+
+sought to minimize when it enacted COGSA. See Uniform 
+Ocean Bills of Lading — Hague Rules, H.R. Rep. No. 2218, 
+74th Cong., 2d Sess. 7 (1936). The petition for a writ of 
+certiorari should be granted. 
+
+
+6 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, and the reasons stated in our 
+petition, the petition for a writ of certiorari should be 
+granted. 
+
+
+Respectfully submitted. 
+
+
+STANLEY MCDERMOTT III LAWRENCE S. ROBBINS 
+
+
+Varet & Fink, P.C. Counsel of Record 
+53 Wall Street ADAM C. SLOANE 
+New York, NY 10005 Mayer, Brown & Platt 
+(212) 858-5407 2000 Pennsylvania Ave., N.W. 
+Washington, D.C. 20006 
+(202) 778-0611 
+Counsel for Petitioner 
+
+
+Vimar Seguros Y Reaseguros, S.A. 
+
+
+NOVEMBER 1994 
+
+

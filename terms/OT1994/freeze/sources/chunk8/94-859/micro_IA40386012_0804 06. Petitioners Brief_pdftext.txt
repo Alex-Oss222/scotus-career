@@ -1,0 +1,3731 @@
+                    i aig              a                 hag
+
+                       FILED
+
+Y                   : FEB 2 1 1999
+
+No. 94-859                                                    |
+
+rt
+
+In the Supreme Court of the Giited States
+
+OCTOBER TERM, 1994
+
+BRUCE BABBITT, SECRETARY OF THE INTERIOR, ET AL.,
+                                  PETITIONERS
+
+                                                    Vv.
+
+      SWEET HOME CHAPTER OF COMMUNITIES FOR
+                        A GREAT OREGON, ET AL.
+
+               ON WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+ FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+BRIEF FOR PETITIONERS
+
+Drew S. Days, III
+   Solicitor General
+
+LOIS J. SCHIFFER
+
+   Assistant Attorney General
+
+EDWIN S. KNEEDLER
+
+   Deputy Solicitor General
+
+BETH S. BRINKMANN
+
+   Assistant to the Solicitor General
+
+MARTIN W. MATZEN
+ELLEN J. DURKEE
+JEAN E. WILLIAMS
+
+   Attorneys
+
+   Department of Justice
+   Washington, D.C. 20530
+   (202) 514-2217
+
+ESTAVAILABLECOPY ©
+                       QUESTION PRESENTED
+   Under Section 9(a)(1) of the Endangered Species Act of
+1973, 16 U.S.C. 1538(a)(1), and implementing regulations, it is
+unlawful for any person to "take" an endangered or threatened
+species, except for certain "takes" that are incidental to
+otherwise lawful activities and authorized by the Secretary of
+the Interior under conditions designed to minimize and
+mitigate the impact on the species, 16 U.S.C. 1536(b)(4),
+1539(a)(1). The Act defines the term "take" to include "harm."
+16 U.S.C. 1532(19). The question presented is:
+   Whether the regulation promulgated by the Secretary in
+1975 and 1981 that defines "harm" to include "significant
+habitat modification or degradation" that "actually kills or
+injures wildlife," 50 C.F.R. 17.3, is invalid on its face.
+
+                                     (I)
+                                     II
+
+                 PARTIES TO THE PROCEEDINGS
+
+   The petitioners are Bruce Babbitt, in his official capacity as
+the Secretary of the Interior, and Mollie H. Beattie, in her
+official capacity as Director of the United States Fish and
+Wildlife Service, an agency within the Department of the
+
+Interior. The respondents are Sweet Home Chapter of
+Communities for a Great Oregon, Betty F. Orem, Erickson
+
+Busheling, Inc., Southeastern Lumber Manufacturers
+Association, Inc., Southern Timber Purchasers Council,
+Ridgetree Logging Company, Shotpouch Logging Company,
+Jean Reynolds, Emmy G. Birkenfeld, and Pat McCollum.
+        TABLE OF CONTENTS
+
+I IG seis vsioscresennstnssancponcnstconacasecssceskreisevicbsasebenecees          Page
+                                                                                        1
+IR      icc citscsashtnbsctierbisacineinadukdlntssidihindcidsceedbemmnentninevone       2
+                                                                                        2
+Statutory and regulatory provisions involved ................+0++                       3
+                                                                                       16
+Re      RS os ccnsiciecdhterisinnn theta sinks eebe sereewonsinqnacvones
+                                                                                       17
+OR MO SINS oiniecesenncessonntinsscosecestneesssaceonnesooupeesees                     20
+
+Argument:                                                                              25
+  The Secretary's interpretation of "harm" is based on a
+  reasonable construction of the Endangered Species                                     40
+  Act and therefore should be sustained ................::.ccccee00                     51
+
+A. The text and structure of the Act support the                                       la
+     SOGTSCATY HW THUETPTECALION ...........00cccccccccccescccscesseccccess
+
+B. The validity of the "harm" regulation is supported
+
+        by the background of and subsequent amendments to
+        the Endangered Species Act ............:scsccccseseeeereeeeeeeees
+
+C. The court of appeals' reasons for rejecting the
+     Secretary's reasonable interpretation of "harm"
+
+        i.                    scantaiinconanese
+
+ee      Ed  sauphipedddvennbeaeundeacivereee
+
+PI isa diiehice cbiiendttdasecnesnsxunhecanpeinsnsuvocsetssanannesunsseceeocerese
+
+        TABLE OF AUTHORITIES
+
+Cases:
+
+American Bald Eagle v. Bhatti, 9 F.3d 163 (ist Cir.
+
+Le aala nbbndabianadhdeeserousedesssenecenceces                                    46
+
+Bowen v. Yuckert, 482 U.S. 187 (1987) ...............ceeeees                       19
+
+Brown v. Gardner, 115 S. Ct. 552 (1994) ...... eee 23, 30
+
+California Coastal Comm'n v. Granite Rock Co., 480
+
+a akceciinwamacensntneterteniavecsasecs                                            19
+
+' Chevron U.S.A. Inc. v. Natural Resources Defense
+
+Council, Inc., 467 U.S. 837 (1984) ...............06 12, 13, 18, 19
+
+Dole v. United Steelworkers, 494 U.S. 26 (1990) ......... 22, 24
+
+Friends of Endangered Species, Inc. v. Jantzen, 760
+
+ee      I  as cicsseivonscdsevinvasenosncconcsesseesccsess                         35
+                   IV
+
+Cases--Continued:                                                              Page
+
+INS v. National Ctr. for Immigrants' Rights, 112
+
+BCR. GD. ABE svinsdisicesecdscindicacondapsiseianubigeaesaviaeanaitess         19
+
+INS v.Cardoza-Fonseca, 480 U.S. 421 (1987) .............                       22
+
+Michigan Citizens for an Indep. Press v.
+
+Thornburgh, 868 F.2d 1285 (D.C. Cir.), aff'd, 493 U.S.
+
+SD CI cacicsiesenhiceseatatviheibidadel sccrotesnaa ais sand                   22
+
+Morissette v. United States, 342 U.S. 246 (1952) ..........                    47
+
+Morrill v. Lujan, 802 F. Supp. 424 (S.D. Ala. 1992) .....                      46
+
+National Treasury Employees Union v. Bush, 891 F.2d
+
+SO Re SA Be edatsnrsatcenirenthdcinzcceibainsieitiitaiiiies                    45
+
+National Wildlife Fed'n v. Burlington N. R.R., 23 F.3d
+
+2GGS «CRE Ss Fe hitstttieceibimaes                                             46
+
+National Wildlife Fed'n v. National Park Serv., 669
+
+FP. Ca ee GA Fee BaD tevin ccdastitiecensteiasilntenciinns                     46
+
+NationsBank v. Variable Annuity Life Ins. Co., No.
+
+SO Be I is PE se irestttdatscsscrsatssestiienerenaen 19, 20
+
+Palila v. Hawaii Dep't of Land & Natural Resources:
+
+SD Fe re Cs FI eacdicstnecnsncisiccnntetninderntuxinieeany 37, 45
+
+Se Fe Be Crs BD ii steccinicnaicccsuntiansioniece: 27, 41, 45
+
+Pyramid Lake Paiute Tribe of Indians v. United States
+
+Dep't of Navy, 898 F.2d 1410 (9th Cir. 1990) ................                  46
+
+Reno v. Flores, 118 S. Ct. 1439 (1998) ..............ccccccccecece             19
+
+Russell Motor Car Co. v. United States, 261 U.S.
+
+Be CID cSavssssianstanca cciebisnsiaditaesibbmeineanesehnreeians               22
+
+Rust v. Sullevan, GOO U.S. FIG (IGG) ccceccssccvccscessccceccees               19
+
+Schreiber v. Burlington Northern, Inc., 472 U.S. 1
+
+Ce Bi siccrchvaisanecaieniciseinnisasiMnRaatkeaebiaiisnebcietssie              23
+
+Seattle Audubon Soc'y v. Evans, 952 F.2d 297 (9th Cir.
+
+SIRI Fisica sethtech evnisiniandbebanteiintangiilddiaaaitca tialaaienacaenten  25
+
+Sierra Club v. Yeutter, 926 F.2d 429 (5th Cir. 1991) .....                     45
+
+Third Nat'l Bank in Nashville v. Impac Ltd.,
+
+SE Ty. Sa SRD tacerere tected ninictiinadibtietatlninesiue                     22
+
+TVA v. Hill, 487 U.S. 153 (1978) ..... 6, 16, 17, 18, 24, 30, 32, 50
+
+United States v. FMC Corp., 572 F.2d 902 (2d Cir.
+
+RUPU MED knisliasicdectincinsencisindipedacentatessateiseusebaabaiosademaaainetadd 26, 47
+Cases--Continued:                                                              Page
+
+United States v. Glenn-Colusa Irrigration Dist., 788                           36, 46
+  PF. Sap. TIDE CHD. Cal. TOGED cscccenncasceccremnapsicerssoncstsen               26
+
+United States v. Hayashi, 22 F.3d 859 (9th Cir. 1993) .                             29
+United States v. Lee, 937 F.2d 1388 (9th Cir. 1991),                                19
+
+  cert. denied, 113 SH. Ch. GET CHOC cccccccccrvesescscosececesess
+United States v. Salerno, 481 U.S. 739 (1987) ..............
+Zenith Radio Corp. v. United States, 487 U.S. 443
+
+  (1978)
+
+Statutes and regulations:
+
+Endangered Species Act of 1973, 16 U.S.C. 1531 et seq. ... 3,4, 16
+
+16 U.S.C. REE WEF tiiinsundsdctsioentécimlactiimeaadsaniabatelinnae 3, la-3a
+
+16 U.S.C. PRONEED tkinitudcnecstaberdechenniadidbiabiaakaaainn 4, la
+
+16 U.S.C. ST cis ciicdaubdbcudebebedeabincdiios 4, 18, 24, 50, 2a-3a
+
+16 U.S.C. EE kiviceasbiveriscncyncsescdiugaienececaensapsaneialin 8, 9, 41
+
+16 U.S.C. NEED séstiebnntnddanris santieindestibisdaadeeseneiinaiinn           41
+
+16 U.S.C. IEEE -<csdsciandccsntdnsedasvasbpuniabciaeaguiates                   7-8
+
+16 U.S.C. SIIUEED ccc cdctcichcdesdusvaneubhainecssnanienamadis                8
+
+16 U.S.C. DEE. Guiksvagsscuusiinesanenebiaditsgibdenbacibideuasiines           4
+
+16 U.S.C. IIE Usnigh lic iscsssiceniiensuecgsiaandebanenibaekeieeadaiaeabinia  5
+
+16 U.S.C. PURINIED idsiicatbbisiisancusiinatenteunmesdenialceinbasnats 5, 44
+
+16 U.S.C. Nd               ania as lel ge habs eutiieesaineies                 5
+
+16 U.S.C. UIE 12-1, icled iss rephianapadodawenoaheniniiaulen                  4
+
+16 U.S.C. FOE) CH OLED)) ciccovnsccsnscccrccecess 2-3, 5, 18, 20, 26
+
+16 U.S.C. IIIT Lp chds cid cigldtetasdepaleunareiasicmmaaaneiadisiin           4
+
+16 U.S.C. EE ETE vcs idinbiecadetusininkctenes 3, 7, 8, 18, 42, 3a-4a
+
+16 U.S.C. sta              ie tik deed ad andsbeawidachonaaentanernidea        4, 3a
+
+16 U.S.C. ARE SEREepeN e proE ne eer s 7, 24, 4a
+
+16 U.S.C. EE               oo  can bieuaiioaneabebbenuibeapnctes               4
+
+16 U.S.C. I                aie acing indenkvadvanndicibens 7, 24, 42, 43, 5a
+
+16 U.S.C. IED ii ic cedsbavchanbhascaensavenasnmiandelene 7, 24
+
+16 U.S.C. IETS os; i ncnaiciavasctpabacsidanssebdnasbun                        43
+
+16 U.S.C. SE ND Satanencscentinasivcncevinsinnss 5, 40, 5a-6a
+
+16 U.S.C. I IMEI in cn sn scsvrntcensaatchibectiiubibodeas                     9
+
+16 U.S.C. BEE" CER TED Scktdcaccntscacsndqcesnsccddnintbddeumiein 8, 9, 24, 29
+
+16 U.S.C. SEED UEP WP dic icccivsscnnteuvieanennnceeesinind passim, 6a-13a
+           VI
+
+Statutes and regulations--Continued:                                    Page
+
+16 U.S.C.  1536(a)(1) (§ T(a)(1)) ........cceeeseeerreeeeeeeeneeees 9, 6a
+
+16 U.S.C.  1536(a)(2) (§ 7(a)(2)) .....eeeeeeeereeeereeeees passim, 6a
+
+Fa         Ne eiteneninirniaivenninies sncinierctaceniiowion 8, 7a
+
+BG |TG.    SED OG POD) vccccccceccenecceceecescvnnseiecucee 8, 44, 7a
+
+16 U.S.C.  1536(b)(4) (8 7(b)(4)) ........-. 10, 11, 38, 39, 8a-9a
+BD TAG
+           FRED acccccrecvacoseccetcnscagneseusentni 38, 39, 9a
+BE TWS..
+           TEGIAE) coveerscstsecisesseesvensieneses 38, 39, 44, 9a
+BO Fic,
+BD eke,    SIE diieasievsicnecvossnesisicienmiiianiennintantan 8, 9a-10a
+Be Baa
+16 U.S.C.  BD cvinsanesaservtasesosanesneinrannepiniin 9, lla-13a
+16 U.S.C.
+36 USB.C.  SOD cncnnestbcsssenconcevsnensticsataiiduens 32,1la-13a
+16 U.S.C.
+16 U.S.C.  1536(h) ($ T(h)) «2... ccceeesesrreeeeeeeees 32, 38, lla
+
+DE DBS.    1536(0) (Supp. IIT 1979) ........c.cc.cc.cs.se.ee.ees 9, 32
+
+BG U.S.C.  1GBRMe) THe). ~..2-..creccveceeseseess 32, 33, 39, 44, 13a
+
+16 U.S.C.  1536(0)(1) ($ 7(0)(1)) .........ceeeeeeeeeeeeees 38, 44, 13a
+
+16 U.S.C.  1536(0)(2) (§ 7(0)(2)) ......... 11, 38, 39, 40, 44, 13a
+16 U.S.C.
+           TER GD) oiccvcseresccosvsnecessesceesiven passim, 14a-l5a
+16 U.S.C.
+           UGBa) CF Ha)) .....cccrecccceesserserceserecessnenceeee 32, 38
+16 U.S.C.
+           1538(a)(1) (§ 9(a)(1)) «2... eeeeeeeeee 2, 3, 5, 33, 14a
+BE UB.C.
+16 U.S.C.  1538(a)(1)(B) (1976) ....... eee eeeeeteeeteeeteeeeees       30
+1G U.S.C.
+16 U.S.C.  1538(a)(1)(B) (§ 9(a)(1)(B)) .........-- 2, 5, 9, 10, 16,
+Be Wa Ais
+16 U.S.C.                             39, 40, 44, 14a
+BE UBC.
+BE TG,     1538(a)(1)(G) (§ 9(a)(L)(G)) ...eeeeeeeeeeeeees 2, 14a
+Re Te
+BE TDC.    1538(a)(2) (§ 9(a)(2)) ......eeeeeeeeeeeeee 5, 37, 14a-15a
+16 U.S.C.
+16 U.S.C.  TGTOMEMB) .cccsscsscrcssccccncvsecehenctecernscaness 37, 15a
+Be Ras
+           1539 (§ 10) ....... 3, 9, 18, 24, 36, 38, 40, 49, 16a-19a
+
+           168G(a) ($10(a)) .........ccccccccescssersececsrsecercess 36, 50
+
+           1539(a)(1)(B) (§ 10(a)(1)(B)).............. 34, 36, 16a
+
+           MAD eacnnestircemrensionsasnsccsstivndasenonens 34, 49, 16a
+
+           1539(a)(2)(A) (§ 10(a)(2)(A))............. 10, 11, 16a
+
+           WGRITEMEMA) G) occcccccscccssnesesecsorscccssesesese 34, 16a
+
+           TE FD cccsiccevessescistesntcnercenaconsse 34, 16a
+
+           Fel Paani cerns cess enticccanecedescones 11, 16a
+
+           TORR) wecerrccceconessesenseserencsnncsececsosse 11, 17a
+
+           1539(a)(2)(B)G) «0... eceeeeeeeeseeeeeeeeeeeenees 34-35, 17a
+
+           1539(a)(2)(B)(ii) «02... eeeeeeeeeeseseeeeeeeenees           35, 17a
+
+           BOOS vacwictescesececeasenvenntsceutenntasicvesiounsanianse  33
+          Vil
+
+Statutes and regulations--Continued:                                          Page
+
+16 U.S.C. 1539(i)(1) (Supp. ITI 1979) .............. eens                     33
+
+1G UKs. BEA) 5G SED) seveviceeserstintatnctniciinaseene 39, 17a-19a
+
+TG UE), TS Ued cecsstnnenesarnacconsintioarieniiie' 39, 17a-18a
+
+BD Uh EE tetera aii cienenehedbineinsintasdes                                 5
+
+BS etal ee et clct he disenasidenineniidininlannasbeiaseiia                   5
+
+RG SER Be bes sikcnctcnpidinnbgcsaibaithidevinbesin:                          5
+
+SG She Ne iasisanh kdetia aniddlc itnasn initinn theandt inanit ibimenened .  6
+
+Endangered Species Act Amendments of 1978, Pub. L.
+
+BOG), FP Rn Ss NUNN. skdcicisnbentpdespicddenpuinenincesenseenebedees         31
+
+§ 3, 92 Stat. 3752-3759 (16 U.S.C. 1536(0) (Supp. III
+
+PED visitesiancilsinetisiadinitiasarvethinsaibiignaiiadieanisitisitinialaievsnie 9, 32
+
+§ 5, 92 Stat. 3761 (16 U.S.C. 1539(i)(1) (Supp. III
+
+TCIE <sadiisihinssiais tiicadvesendintinniniiiamenanatiibtlinehiiadecnniecs   33
+
+Endangered Species Act Amendments of 1982, Pub. L.
+
+eG"       RE                                         ee                       34
+
+§ 4(a)(2), 96 Stat. 1418 (16 U.S.C. 1536(b)(4)) ............ 10, 8a
+
+§ 4(a)(7), 96 Stat. 1420 (16 U.S.C. 1536(0)(2)
+
+Ce lsilitihcteniaadhateessdentaiamninniinaaidopenmdvehdlsnnesbbeeniien 38, 13a
+
+DO Fa ie  cist cinidncneniniancdennbdiakciiciinnnninn                         34
+
+§ 6(1), 96 Stat. 1422 (16 U.S.C. 1539(a)(1)(B)) .... 10, 34, 16a
+
+SF        IE cenictiteceniestehesnnnchecisilisblionicsncreneninn              33
+
+§ 6(6), 96 Stat. 1424 (16 U.S.C. 1539(j)) ..... eee 39, 17a
+
+Fee       I BE iirc ice cntavaiccesniinasepetbenexineepes                     37
+
+Endangered Species Conservation Act of 1969, Pub. L.
+
+een Ree ee Pa SEE Serritrecnddeccinahscihdnarehesasacesecssceesncee           11
+
+Energy and Water Development Appropriation Act, 1980,
+
+Pub. L. No. 96-69, Tit. IV, 93 Stat. 449 ........  eee                        33
+
+Fisheries Conservation and Management Act, Pub. L.
+
+No. 99-659, Tit. IV, § 401, 100 Stat. 3737:
+
+§ 411(b)(4)-(6), 100 Stat. 3742 (16 U.S.C. 1536(b)(4)
+
+CIEE pecnrenaiecastihacccbbtinbivdebeiabnloncdinttaseitbindumeseslecess       39
+
+§ 411(c), 100 Stat. 3742 (16 U.S.C. 1536(c)(iii)) ..........                  39
+
+Marine Mammal Protection Act, 16 U.S.C. 1361 et seq. ...                      25
+
+16 U.S.C. 1362(13) (Supp. V 1993) ................cccccsesseceeees            26
+
+See Te Me UE heticdcancahicsensntacteupsessnnorsstnncneecsinnns               39
+                VIII
+
+Statutes and regulations--Continued:                                                      Page
+
+BG UL Te eects bien ciliieticicicinetieinincaeneitinten                                   39
+
+BD Uae See Ge BU titsaatbh nied te esdbaniininecteatncuctes                               39
+
+Marine Mammal Protection Act Amendments of 1994,
+
+Pub. L. No. 103-238, § 12, 108 Stat. 557 ...............cccsseeeees                       26
+
+Migratory Bird Treaty Act, 16 U.S.C. 703 et seq............. 25, 48
+
+16 U.S.C. 703 (1988 & Supp. V 1998) ......c.ees.cc.se.ree.eee                             25
+
+Natural Community Conservation Planning Act,
+
+Cal. Fish & Game Code §§ 2800-2840 (West 1995) ..........                                 49
+
+50 C.F.R.:
+
+TUE ©ED eisnsciinciesivecesbvcdéecticnen 3, 6, 7, 18, 21, 22, 29, 36, 40
+III-B Bs cccisiverencconsionimaiisnesaniniaiaaenmanviin 4, 12
+
+I               By Fe hineibitihnindeccnkathneticnbieaminianidanamibamopaagiie            11
+
+UA              Wiisliadiadacedabidatcninintdenesctceicthaihatialaniabiaideelantamalteia  4
+
+BSD: EY sidssnicnrcebuscctidediavinnsacavteceudstbenmnanianias                            5
+
+NE SIEE cichbcdintaricsncssebiatishinenshevihiadedeaddataasdaaans                         13
+
+SIL: |SEND bitecntnonincicnsasicasiccsnsnaiecsetsaetovstnoeiunihebein 5, 12
+
+I               TE cidadedahiiccckereictescsiuideecsvassennbadebianeniaiah                5
+
+SEL SEU witiceiaiennicktincevtansdaiinninreutenisiddnenehetigibiatates                    26
+
+ee SEED winnctsrrscinnvvaitcicdesiianaabncbcsieheniakeatents                              4
+
+PINE STII Sapiitdascctincdscnssnsndmanentnnetanessiensisbccnsebsbiemeioulie               4
+
+TIED» ditiasitssectinsesssipsiernsaretbcinenbicdedchasachentbebele                        4
+
+SCRE: TITER boca chtasisccstciccncutncciseiausaductinacianenes                            43
+
+SRCERUER SIE FIT) occkcckietassccrccsdeccccissstacceantecisasiiens                        43
+
+Miscellaneous:
+
+Amending the Endangered Species Act of 1973: Hearings
+
+on S. 2899 Before the Subcomm. on Resource Protection
+
+of the Senate Comm. on Environment and Public Work,
+
+SEER Cie A I Ce ccerreccetctdecsiniettascnitetatersadivcnnnes                             31
+
+Rocky Barker, Saving All The Parts: Reconciling
+
+Economics and the Endangered Species Act
+eT ge CREE Uen ne en ne                                                                   48
+
+Timothy Beatley, Habitat Conservation Planning
+
+CURRIE, Ge      I ID iain cncecicosensceciettnansdecncosiaeis                             35
+
+55 Cong. Rec. 5544-5545 (1917) ....ccccccscsssscsssscescsssesesseeees                     25
+                           IX
+
+Miscellaneous--Continued:                                                    Page
+
+119 Cong. Rec. (1973):
+
+i, FE Shtekinsintcinneestnessessnneniasonesimennenentunneliatiagienenn           29
+                                                                                 47
+1s SII ticscoteenadesiinennsndeceinapiisbicendsipeicnisnasheuanbunbbadlihen      32
+                                                                                 33
+124 Cong. Rec. (1978):
+                                                                                 39
+9. MIE cient Mieebicsihnennscilbaenvaincndicidaninnnesbinsinncabeanadane         39
+
+aE cette eclchenisaccvbsrercusnbiinsotemmnatapeaboumeiiaganse                    33
+
+IIE, ccc sncicnecnsodenccosendetebeseseoobiaiucaelibeahes --                 36, 38
+
+132 Cong. Rec. (1986):                                                       36, 37
+
+Si eI secinniveerscncasenencsenesnniotpanniiediniiiiabionnen                      31
+
+i - tee ih caataica daiinbiniiabipnakditethniaiennilbeintintidinamecnes           31
+                                                                              6, 29
+CRS, Senate Comm. on Environmental Public Works,
+                                                                                    6
+97th Cong., 2d Sess., A Legislative Hisiory of the                            6, 29
+
+Endangered Species Act of 1973, as amended (Comm.                                 23
+
+Pe I icinshia iicscpdietdeatitebdhieccdimitreaetsdvens
+
+Endangered Species Act Amendments of 1982: Hearings
+
+Before the Subcomm. on Environmental Pollution
+
+of the Senate Comm. on Environment and Public
+
+Works, 97th Cong., 2d Sess. (1982) ............sseccseeseceeeeees
+
+Endangered Species Act: Hearings Before the Subcomm.
+
+  on Fisheries and Wildlife Conservation and the
+  Environment of the House Comm. on Merchant Marine
+  and Fisheries, 97th Cong., 2d Sess. (1982) .............. 35,
+Endangered Species Oversight: Hearings Before the
+  Subcomm. on Resource Protection of the Senate
+
+Comm. on Environment and Public Works, 95th Cong.,
+
+Reh Ts: Fee peivininieishiciiniedinmentaierentiniiebineengsesneccenee
+
+Endangered Species, Parts 1 & 2: Hearings Before the
+  Subcomm. on Fisheries and Conservation and the
+  Environment of the House Comm. on Merchant
+
+Marine and Fisheries, 95th Cong., 2d Sess. (1978) ........
+
+40 Fed. Reg. (1975):
+
+ST sili s eas nidledhistwedantvbbehuadsnsttinngubnsiiqeoninishsoaroinece
+
+i          bi irid ek Gi shenannandaswtanianiecisnuiesenquneyinenennees
+
+Oi  ihe ld dusmrnanintenaanhnnunineseneindentvondesenes
+
+46 Fed. Reg. (1981):
+
+Si. aidan               etna phbnecetvedadsetiuinintenaneeninetaaeournsanes
+   Miscellaneous--Continued:
+            pp. 54,748-54,749
+
+   Fed. Reg. 60,252 (1994)
+   Fed. Reg. 26,114 (1990)
+   Fed. Reg. (1993):
+
+   GD FO. TR, DG Tee windcidincinbiigtaccctinsstatdsesisneistnnnddens       5
+
+   H.R. Conf. Rep. No. 1804, 95th Cong., 2d Sess. (1978) ..... 33, 47
+
+   H.R. Conf. Rep. No. 835, 97th Cong., 2d Sess. (1982) .....               36
+
+   H.R. Rep. No. 412, 93d Cong., Ist Sess. (1978) ........... 27, 28, 29
+
+   H.R. Rep. No. 1625, 95th Cong., 2d Sess. (1978) ....  31, 32, 33, 44
+   H.R. Rep. No. 567, 97th Cong., 2d Sess. (1982) .....  34, 37-38, 39
+
+   Daniel J. Rohlf, The Endangered Species Act: A Guide
+
+   to its Protections and Implementation (Stan. Envtl.
+
+   SA TRO TOE ciniictsenentecdscinessnicinasesninidecsnnsadeieneamasiovass  18
+
+   S. 1592, 98d Cong., Ist Sess. (1978) .........ccccccccscccsseceseseoees  28
+
+   S. 1983, 98d Cong., let Sess. (1978) .......ccccccccceccseccessecescees  28
+
+   S. Rep. No. 2, 65th Cong., Ist Sess. (1917) ...............ceeeeees      25
+
+   S. Rep. No. 307, 93d Cong., Ist Sess. (1978) ................ 27, 28, 29
+
+   S. Rep. No. 418, 97th Cong., 2d Sess. (1982) ......... 35, 37, 39, 40
+
+   2A Norman J. Singer, Sutherland Statutory Con-
+
+   SOWETO TT GG. BIE denskstecscicncciocseccsincAsnisemavincs 22, 23, 24
+
+   The Random House Dictionary of the English Language
+     CE OEE. FRED sinkpeescnccstpictncsenriccdaavisintcasmnniveasaina 20-21
+
+   U.S. General Accounting Office, Endangered Species Act:
+
+   Information in Species Protection on Nonfederal Lands
+
+   CORRE, TIED sccissimeiaccits ideas                                       50
+
+|  Webster's Third New International Dictionary (1986) .....                20
+
+   Edward O. Wilson, The Diversity of Life (Belknap
+
+|  Prose Of Tiare. Univ. PUGGO TOE ccccsecsssscsiscccesensszssessenes       18
+Jn the Supreme Court of the United States
+
+                         OCTOBER TERM, 1994
+
+BRUCE  BABBITT,           No. 94-859  INTERIOR,  ET AL.,
+
+                 SECRETARY OF THE
+                       PETITIONERS
+
+                                           Vv.
+
+SWEET HOME CHAPTER OF COMMUNITIES FOR
+                A GREAT OREGON, ET AL.
+
+                      ON WRIT OF CERTIORARI
+       TO THE UNITED STATES COURT OF APPEALS
+        FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       BRIEF FOR PETITIONERS
+
+                              OPINIONS BELOW
+
+   The March 11, 1994, opinion of the court of appeals issued
+
+after granting respondents' petition for rehearing (Pet. App.
+
+la-4la) is reported at 17 F.3d 1463. The August 12, 1994,
+
+statements accompanying the court of appeals' denial of peti-
+tioners' petition for rehearing and suggestion of rehearing en
+banc (Pet. App. 89a-99a) are reported at 30 F.3d 190. The July
+
+23, 1993, initial opinion of the court of appeals (Pet. App. 42a-
+
+72a) is reported at 1 F.3d 1. The opinion of the district court
+
+(Pet. App. 73a-88a) is reported at 806 F. Supp. 279.
+
+                 (1)
+                                         2
+
+                              JURISDICTION
+
+   The court of appeals entered its initial judgment on July 23,
+
+1993. The court of appeals thereafter granted respondents'
+
+petition for rehearing, and on March 11, 1994, it entered a new
+
+judgment that differed from its earlier judgment. Petitioners
+
+then sought rehearing of that new judgment, and the court of
+appeals denied that petition for rehearing on August 12, 1994.
+Pet. App. 89a-99a. The petition for a writ of certiorari was
+filed on November 10, 1994, and was granted on January 6,
+
+1995. The jurisdiction of this Court is invoked under 28
+U.S.C. 1254(1).
+
+                 STATUTORY AND REGULATORY
+                       PROVISIONS INVOLVED
+
+   1. Section 9(a)(1) of the Endangered Species Act of 1973
+(ESA), 16 U.S.C. 1538(a)(1), provides in relevant part:
+
+   Except as provided in sections 6(g)(2) and 10 of this Act,
+with respect to any endangered species of fish or wildlife
+listed pursuant to section 4 of this Act it is unlawful for any
+
+person subject to the jurisdiction of the United States to--
+
+                                                                    * * * *
+
+        (B) take any such species within the United States or
+     the territorial sea of the United States;
+
+                                                                    * * ee Ke 
+
+        (G) violate any regulation pertaining to such species or
+     to any threatened species of fish or wildlife listed
+     pursuant to section 4 of this Act and promulgated by the
+     Secretary pursuant to authority provided by this Act.
+
+   2. Section 3(19) of the ESA, 16 U.S.C. 1532(19) pro-
+vides:
+
+      For the purposes of this Act--
+                3
+
+The term "take" means to harass, harm, pursue, hunt,
+
+shoot, wound, kill, trap, capture, or collect, or to attempt
+
+to engage in any such conduct.
+
+Other pertinent provisions of the ESA (§§ 2, 4, 7, 9, 10,
+
+16 U.S.C. 1531, 1533, 1536, 1538, 1539) are reprinted at App.,
+
+infra, la-19a.     ;
+
+3. The Secretary of the Interior's regulation defining
+
+"harm" for purposes of the ESA, 50 C.F.R. 17.3, provides:
+
+  Harm in the definition of "take" in the Act means an act
+which actually kills or injures wildlife. Such act may
+include significant habitat modification or degradation
+where it actually kills or injures wildlife by significantly
+impairing essential behavioral patterns, including
+breeding, feeding or sheltering.
+
+                                STATEMENT
+
+   The Endangered Species Act of 1973 (ESA), 16 U.S.C. 1531
+et seq., makes it unlawful for any person to "take" a species of
+fish or wildlife that is listed as endangered or threatened. 16
+U.S.C. 1538(a)(1). The ESA defines the term "take" to mean
+
+"to harass, harm, pursue, hunt, shoot, wound, kill, trap,
+
+capture, or collect, or to attempt to engage in any such
+conduct." 16 U.S.C. 1532(19). A regulation issued by the
+Secretary of the Interior in 1975 and 1981 in turn defines
+"harm" to mean an act "includ{ing] significant habitat
+modification or degradation" that "actually kills or injures
+wildlife" by "significantly impairing essential behavioral
+patterns, including breeding, feeding or sheltering." 50
+C.F.R. 17.3. The district court sustained the validity of 50
+C.F.R. 17.3. The court of appeals reversed and held the
+                                         4
+
+regulation facially invalid insofar as it defines "harm" to
+embrace any form of habitat modification or degradation.'
+
+   1. Congress enacted the Endangered Species Act in 1973
+
+in response to increasing concern about the extent to which
+
+"various species of fish, wildlife, and plants" had been
+rendered extinct "as a consequence of economic growth and
+development untempered by adequate concern and con-
+servation." 16 U.S.C. 1531(a)(1). The purposes of the ESA
+include providing "a means whereby the ecosystems upon
+which endangered species and threatened species depend may
+be conserved."; 16 U.S.C. 1531(b).
+
+   a. Under the ESA, the Secretary determines the wildlife
+
+species that are "endangered" or "threatened" within the
+meaning of the Act and maintains a list of such species." 16
+U.S.C. 1533(a). In deciding whether to list a species, the
+Secretary must consider, inter alia, "the present or
+
+threatened destruction, modification, or curtailment of its
+habitat or range." 16 U.S.C. 1533(a)(1)(A).
+
+    1 Responsibility for administration of the ESA is divided between the
+Fish and Wildlife Service (FWS) in the Department of the Interior and the
+National Marine Fisheries Service (NMFS), in the Department of
+Commerce. See 16 U.S.C. 1532(15); 50 C.F.R. 402.01(b); see also 50 C.F.R.
+17.11, 17.12, 222.23(a) and 227.4 (listing species within NMFS and FWS
+jurisdiction). Because this action was brought against the Secretary of the
+Interior and the Director of FWS and was prompted by respondents'
+challenge to protection afforded to two species of birds within the
+jurisdiction of FWS, we shall refer in this brief only to the responsibilities
+of the Secretary of the Interior and FWS.
+
+    2 "Endangered species" means any species (other than certain insect
+species) "which is in danger of extinction throughout all or a significant
+portion of its range." 16 U.S.C. 1532(6). "Threatened species" means "any
+species which is likely to become an endangered species within the
+foreseeable future throughout all or a significant portion of its range." 16
+U.S.C. 1532(20). Endangered and threatened species are referred to
+collectively as "listed species."
+                                      5
+
+   When a fish or wildlife species is listed as endangered, it is
+
+protected by Section 9(a)(1) of the ESA.' Section 9(a)(1)(B)
+
+makes it unlawful for "any person" (which includes
+governmental entities, see 16 U.S.C. 1532(13)) to "take" an
+endangered species. 16 U.S.C. 1538(a)(1)(B). The prohibition
+may be enforced through suits for injunctive relief, 16 U.S.C.
+
+1540(e)(6), as well as civil and criminal penalties, 16 U.S.C.
+
+1540(a) and (b). By regulation, the Section 9 "take" pro-
+hibition also applies generally to species that are listed as
+threatened.`
+
+   The ESA defines the term "take" to mean "to harass, harm,
+pursue, hunt, shoot, wound, kill, trap, capture, or collect, or to
+
+attempt to engage in any such conduct." 16 U.S.C. 1532(19).
+As part of its initial set of programmatic regulations
+implementing the ESA, FWS promulgated a regulation in 1975
+interpreting the term "harm" for purposes of the ESA. As
+
+   8 "Fish or wildlife" is defined in the ESA as "any member of the animal
+kingdom, including without limitation any mammal, fish, bird (including
+any migratory, nonmigratory, or endangered bird for which protection is
+also afforded by treaty or other international agreement), amphibian,
+reptile, mollusk, crustacean, arthropod or other invertebrate, and includes
+any part, product, egg, or offspring thereof, or the dead body or parts
+thereof." 16 U.S.C. 1532(8). The term "plant" is separately defined, see 16
+U.S.C. 1532(14). The "take" prohibition in Section 9(a)(1)(B) does not apply
+to endangered species of plants, which are instead protected by Section
+9(a)(2) of the Act, 16 U.S.C. 1538(a)(2). See note 24, infra.
+
+    4 Under Section 4(d) of the Act, 16 U.S.C. 1533(d), the Secretary may,
+by regulation, prohibit with respect to threatened species any act prohibited
+under 16 U.S.C. 1538(a)(1). The Secretary has extended the "take"
+prohibition in 16 U.S.C. 1538(a)(1)(B) to threatened fish and wildlife species.
+See 50 C.F.R. 17.31(a), 17.21(c)(1). Thus, the "take" prohibition applies to
+all listed species of fish or wildlife except where special rules applicable to
+particular threatened species otherwise provide. See 50 C.F.R. 17.40-17.48.
+On February 17, 1995, the Secretary published regulations under Section
+4(d) that address the application of the "take" prohibition to the northern
+spotted owl (a threatened species). 60 Fed. Reg. 9484.
+                                         6
+
+this Court noted in TVA v. Hill, 437 U.S. 153, 184-185 n.30
+(1978), the 1975 regulation defined "harm" to mean an act that
+
+"actually injures or kills wildlife, including acts which annoy
+it to such an extent as to significantly disrupt essential
+
+behavioral patterns, which include, but are not limited to,
+
+breeding, feeding or sheltering," and which include
+"significant environmental modification or degradation which
+
+has such effects." 50 C.F.R. 17.3; see 40 Fed. Reg. 44,412,
+
+44,416 (1975) (J.A. 49, 51). The preamble to the 1975 regulation
+explained that the regulation represented a "reasonable
+response to the habitat needs of listed species," which
+Congress had specifically acknowledged in the "[pJurposes"
+
+section of the ESA, 16 U.S.C. 1631; see 40 Fed. Reg. 44,413
+
+(J.A. 50). The preamble further noted that the environmental
+degradation encompassed within the regulatory definition of
+
+"harm" was:
+
+     expressly limited to those actions causing actual death or
+     injury to a protected species of fish or wildlife. The actual
+
+     consequences of such an action upon a listed species is
+      paramount.
+
+40 Fed. Reg. 44,413 (J.A. 50).
+   The Secretary revised the "harm" regulation in 1981
+
+because of concerns that the 1975 regulatory language was
+susceptible to an interpretation that would bar habitat
+modification even where there would be no resulting injury to
+listed fish or wildlife, contrary to the intent of both the
+Secretary and Congress. See 46 Fed. Reg. 54,748 (1981) (J.A.
+65). The Secretary modified the regulation to make it
+consistent with the original intent that a Section 9 "take"
+violation does not arise out of "habitat modification alone
+without any attendant death or injury of the protected
+
+wildlife." 46 Fed. Reg. 54,748-54,749 (1981) (J.A. 66-68). At the
+same time, however, the Secretary reaffirmed that "harm" is
+
+not limited "to direct physical injury to an individual member
+                                      7
+
+of the wildlife species," and that in redefining the term, he
+
+"did not intend to imply that significant habitat destruction
+which could be shown to injure protected wildlife through the
+impairment of its essential behavioral patterns was not
+subject to the Act." 46 Fed. Reg. 54,748 (J.A. 66-67). The
+"harm" regulation as revised in 1981 provides:
+
+     Harm in the definition of "take" in the Act means an act
+     which actually kills or injures wildlife. Such an act may
+     include significant habitat modification or degradation
+     where it actually kills or injures wildlife by significantly
+     impairing essential behavioral patterns, including breed-
+     ing, feeding or sheltering.
+
+50 C.F.R. 17.3; see 46 Fed. Reg. 54,748 (J.A. 65).
+   b. In addition to the Section 9 "take" prohibition, the ESA
+
+includes other methods of protecting listed species. Section
+7(a)(2) provides that each federal agency shall, in consultation
+with and with the assistance of the Secretary,
+
+     insure that any action authorized, funded, or carried out
+     by such agency * * * is not likely to jeopardize the
+     continued existence of any endangered species or
+     threatened species or result in the destruction or adverse
+     modification of habitat of such species which is
+     determined by the Secretary * * * to be critical,'" unless
+
+    5 "Critical habitat" has a specific and limited meaning for purposes of
+the ESA. Section 4 empowers the Secretary to designate "critical" habitat
+
+for listed species. 16 U.S.C. 1533(a)(3), (b)(2) and (b)(6)(C). "Critical
+
+habitat" is defined by the Act to mean:
+
+           (i) the specific areas within the geographical area occupied by the
+
+       species, at the time it is listed in accordance with the provisions of
+       section 4 of this Act, on which are found those physical or biological
+       features (I) essential to the conservation of the species and (II) which
+
+        may require special management considerations or protection; and
+                                         8
+
+     such agency has been granted an exemption for such
+     action * * * pursuant to subsection (h).
+
+16 U.S.C. 1536(a)(2). This obligation to ensure against
+"jeopardizing" a species' continued existence or destroying or
+adversely modifying its "critical" habitat applies to a federal
+agency's issuance of licenses and permits to non-federal
+parties (for activities on either public or private lands), as well
+as actions undertaken by the agency itself. 16 U.S.C.
+1536(a)(3); see generally 16 U.S.C. 1536(c) (directing federal
+agency to prepare biological assessment to determine whether
+listed species is "likely to be affected" by proposed action); 16
+U.S.C. 1536(b) (provisions for Secretary to issue biological
+opinion to action agency).
+
+   The ESA also contains several provisions, in Sections 4, 5
+and 7, that are aimed not merely at preventing extinction of
+listed species, but also at their conservation. For purposes of
+the ESA, "conservation" means "the use of all methods and
+procedures which are necessary to bring any endangered
+species or threatened species to the point at which the
+measures provided pursuant to this chapter are no longer
+necessary." 16 U.S.C. 1532(3). Available conservation meas-
+
+         (ii) specific areas outside the geographical area occupied by the
+      species at the time it is listed in accordance with the provisions of
+      section 4 of this Act, upon a determination by the Secretary that such
+      areas are essential for the conservation of the species.
+
+16 U.S.C. 1532(5)(A). In appropriate cases, designating unoccupied
+potential habitat for listed species can play a role in the recovery of the
+species by providing for "natural range expansion into adjacent suitable
+habitat." 49 Fed. Reg. 38,9604 (1984). However, "[e]xcept in those
+circumstances determined by the Secretary, critical habitat shall not
+include the entire geographical area which can be occupied" by listed
+species. 16 U.S.C. 1532(5)(C). Thus, designation of critical habitat may add
+protections for a listed species against federal government actions that are
+likely to take place on some suitable, but unoccupied, habitat.
+                                    eS ae hilePWeratFE w  gu-e, OES  ler i " ay itn
+                                    * 7  a
+
+                                 9
+
+ures include, but are not limited to, "all activities associated
+
+with scientific resources management such as research,
+
+census, law enforcement, habitat acquisition and maintenance,
+
+propagation, live trapping, and transplantation, and, in the
+
+extraordinary case where population pressures within a given
+
+ecosystem cannot be otherwise relieved, may include regula-
+
+ted taking." 16 U.S.C. 1532(3).                           ,
+
+The conservation provisions of the ESA are intended to
+
+achieve the eventual removal of the species from the
+
+endangered and threatened lists. To that end, Section 4(f)
+
+authorizes the Secretary to develop and implement recovery
+
+plans to promote the conservation of species. 16 U.S.C.
+
+1533(f). Section 5 empowers the Secretary to utilize land
+
+acquisition and authority under other wildlife protection
+
+statutes to acquire land to implement a program to conserve
+
+endangered and threatened species. 16 U.S.C. 1534. And
+
+Section 7(a)(1) requires federal agencies, in consultation with
+
+and with the assistance of the Secretary, to "utilize their
+
+authorities in furtherance of the purposes of [the Act] by
+
+carrying out programs for the conservation of endangered
+
+species and threatened species." 16 U.S.C. 1536(a)(1).
+
+ce. The "take" prohibition in Section 9 and the "jeopardy"
+
+and "critical" habitat restrictions in Section 7 are not
+
+absolute--the Secretary may permit "incidental takings" in
+
+some instances that meet detailed criteria enacted by
+
+Congress in 1982.° Specifically, by amendments to Sections 7
+
+and 10, Congress authorized the Secretary to permit takings
+
+that would otherwise be prohibited under Section 9(a)(1)(B),
+
+   6 Even prior to 1982, Sections 7 and 9 were not absolute. In 1978,
+Congress had established a procedure for exempting projects from the
+Section 7(a)(2) prohibitions, see 16 U.S.C. 1536(e)-(n), and from liability for
+violation of the Section 9 "take" prohibition, see 16 U.S.C. 1536(0) (Supp. III
+1979). Endangered Species Act Amendments of 1978, Pub. L. No. 95-632,
+§ 3, 92 Stat. 3753-3759. See page 32, infra.
+                                        10
+
+"if such taking is incidental to, and not the purpose of, the
+
+carrying out of an otherwise lawful activity." Endangered
+Species Act Amendments of 1982, Pub. L. No. 97-304, § 6(1), 96
+
+Stat. 1422 (codified at 16 U.S.C. 1539(a)(1)(B)); see also
+
+§ 4(a)(2), 96 Stat. 1418 (codified at 16 U.S.C. 1536(b)(4)).
+   Section 10(a)(2)(A) provides for the issuance of an incidental
+
+take permit to applicants (including nonfederal entities and
+private parties) who are not subject to the jeopardy and
+critical habitat restrictions (and related consultation require-
+ment) applicable to federal agencies under Section 7(a)(2).
+Congress conditioned issuance of a Section 10 incidental take
+permit, however, on the assumption by the applicant of certain
+duties. The ESA states that "[nJo permit may be issued by the
+
+Secretary" authorizing an incidental taking unless the
+
+applicant therefor submits to the Secretary
+
+     a conservation plan that specifies--
+
+            (i) the impact which will likely result from such
+
+     taking;
+             (ii) what steps the applicant will take to minimize
+
+     and mitigate such impacts, and the funding that will be
+     available to implement such steps;
+
+             (iii) what alternative actions to such taking the
+
+     applicant considered and the reasons why such alter-
+
+     natives are not being utilized; and
+             (iv) such other measures that the Secretary may
+
+     require as being necessary or appropriate for purposes of
+     the plan.
+
+16 U.S.C. 1539(a)(2)(A). The Secretary will issue the permit if
+
+he finds, inter alia, that the taking will be incidental, that the
+
+applicant will "to the maximum extent practicable, minimize
+
+and mitigate the impacts of such taking," that "the applicant
+
+will ensure that adequate funding for the plan will be
+provided," that "the taking will not appreciably reduce the
+likelihood of the survival and recovery of the species in the
+                                                                                                                                                                                                                                                                                           Sse
+
+                                      11
+
+wild," and that the applicant will meet "such other measures
+that the Secretary may require as being necessary or appro-
+priate for purposes of the plan." 16 U.S.C. 1539(a)(2)(B) and
+(A)(iv).
+
+   Congress provided a somewhat different mechanism for
+authorizing "incidental takes" resulting from a project
+subject to the Section 7(a)(2) jeopardy prohibition and' critical
+habitat restrictions. The biological opinion that FWS
+prepares during the formal Section 7 consultation process
+includes what is known as an "incidental take statement."
+That statement must identify the impact of any take that is
+anticipated to occur incidental to the proposed federal action,
+as well as the "reasonable and prudent measures" that the
+Secretary considers "necessary or appropriate to minimize
+such impact"; it also sets forth the "terms and conditions
+* * * that must be complied with by the Federal agency or
+[permit or license] applicant (if any) or both to implement the
+measures specified." 16 U.S.C. 1536(b)(4). Any taking that is
+in compliance with those terms and conditions is not
+considered a prohibited taking of the species in violation of
+Section 9. 16 U.S.C. 1536(0)(2).
+
+   2. Respondents are individuals and organizations in the
+Pacific Northwest and Southeast who are engaged in, or
+depend upon, timber harvesting. They allege that they are
+affected by the Secretary's "harm" regulation because of its
+application to the northern spotted owl, which was listed as a
+threatened species in 1990, 55 Fed. Reg. 26,114, and the red-
+cockaded woodpecker, which was listed as an endangered
+
+species in 1970, 50 C.F.R. 17.11(h). J.A. 17-23."
+
+   Respondents brought this action as a facial challenge to the
+
+regulation, and did not challenge it as applied to any of their
+
+                                                                                                                                                                                                                                                                                                                      OIO ,O
+
+   7 The red-cockaded woodpecker was listed pursuant to the Endangered
+Species Conservation Act of 1969, Pub. L. No. 91-135, 83 Stat. 275, a
+predecessor to the Endangered Species Act.
+                                        12
+
+own actions in relation to the listed birds." On cross-motions
+for summary judgment, the district court upheld the validity
+of the "harm" regulation under step one of the analytical
+framework set forth in Chevron U.S.A. Inc. v. Natural
+
+Resources Defense Council, Inc., 467 U.S. 837, 842-843 (1984),
+
+concluding that the "language, structure and history of the
+ESA reveal that Congress intended an expansive
+interpretation of the word `take,' an interpretation that
+encompasses habitat modification." Pet. App. 82a-83a. The
+court further stated that even if it were to find the ESA
+"silent or ambiguous" on the issue, it would uphold the
+Secretary's regulation under step two of the Chevron
+analysis as a reasonable interpretation of the Act. Jd. at 83a.
+The district court also held that the regulatory definition of
+"harm" was not void for vagueness. Id. at 83a-85a.
+
+   3. a. The court of appeals initially affirmed the district
+court's judgment, with the panel divided on the question of the
+validity of the "harm" regulation. Pet. App. 42a-72a. The
+
+majority opinion included a per curiam ruling that the
+
+"harm" regulation does not violate the ESA. Jd. at 46a. Chief
+Judge Mikva wrote a concurring opinion, reasoning that the
+"harm" regulation represents a reasonable interpretation of
+the Act that is entitled to deference under Chevron. Id. at
+59a-66a. Judge Williams wrote a concurring opinion agreeing
+that the regulation complies with the ESA. He reasoned that
+
+the 1982 amendments authorizing incidental taking permits
+
+"support the inference that the ESA otherwise forbids some
+
+such incidental takings, including some _ habitat
+modifications." Jd. at 67a. Judge Sentelle dissented. Jd. at
+68a-72a.
+
+    8 Respondents also challenged the facial validity of a regulation that
+extends certain protections to threatened species, 50 C.F.R. 17.31(a). The
+courts below sustained that regulation (see Pet. App. 85a-88a; id. at 2a, 5la-
+58a), and no party sought further review of that issue.
+           b. The panel granted respondents' petition for rehearing
+        and, on March 11, 1994, in another divided decision, reversed
+       the district court's judgment with respect to the validity of
+       the "harm" regulation."® Pet. App. la-4la. Judge Sentelle
+        filed a concurring opinion (id. at 25a-26a) and Chief Judge
+        Mikva filed a dissenting opinion (id. at 27a-41a).
+
+           The court of appeals concluded that the "harm" regulation
+        was "neither clearly authorized by Congress nor a `reasonable
+        interpretation' of the statute," and that no later action of
+        Congress "supplied the missing authority." Pet. App. 3a,
+        citing Chevron, 467 U.S. at 842-843, 844. The court acknowl-
+        edged that "[t]he potential breadth of the word `harm' is
+        indisputable," Pet. App. 3a, but nonetheless held that the
+
+        Secretary's definition of the term is too broad. In the court's
+
+        view, the other words in the statutory definition ("harass,
+
+         * * * pursue, hunt, shoot, wound, kill, trap, capture, or
+
+        collect") all "contemplate the perpetrator's direct application
+        of force against the animal taken"--e.g., "A hit B." Jd. at 4a.
+        The court reasoned that it should therefore apply the maxim
+        "noscitura sociis" (that a word is known by the company it
+        keeps) and read the term "harm" as limited to direct appli-
+
+        cation of force against animals, and to exclude any habitat
+
+        modification. Jd. at 5a-7a.
+           The court viewed the "structure and history of the Act" as
+
+        confirming its reading. Pet. App. 7a. Thus, it read the "harm"
+        regulation to have "transposed to the private anti-`take'
+        provision" the duty of federal agencies under Section 7(a)(2) to
+
+        ensure that actions are "not likely to jeopardize the continued
+
+        existence" of a listed species or result in "`the destruction or
+        adverse modification of habitat of such species which is
+        determined * * * to be critical.'" Pet. App. 7a. The court
+
+               9 The court's original judgment is otherwise unaltered. Pet. App. 24a.
+         Thus, the court of appeals adhered to its rulings that 50 C.F.R. 17.31 is
+         valid and that the "harm" regulation is not void for vagueness.
+
+eee ele
+                                          14
+
+  found that result to be contrary to the legislative history of
+  the ESA, which it read as assigning "the primary task of
+
+ habitat preservation to the government." Jd. at 8a. The court
+
+ also noted that the bill ultimately enacted did not include
+
+ language in one bill considered by the Senate committee that
+
+  would have defined "take" to include "the destruction,
+  modification, or curtailment of [a species'] habitat or range."
+_ Id. at 9a-10a. Finally, the court read the legislative history of
+ the 1982 amendments' provision for incidental take permits as
+  not referring to habitat modification, and therefore as not
+ ratifying the Secretary's interpretation. Jd. at 10a-24a.
+
+     In a concurring opinion, Judge Sentelle expressed the view
+
+ that the language and structure of the ESA provided a
+  sufficient basis for invalidating the "harm" regulation and
+ that resort to the legislative history was unnecessary. Pet.
+
+ App. 25a. He also reasoned that to define "harm" as the
+ Secretary does would render superfluous the other words in
+ the statutory definition of "take." Jbid.
+
+    Judge Mikva dissented. Pet App. 27a-4la. He first objected
+ that the majority erroneously shifted the burden to the
+
+ government agency to show that its interpretation is clearly
+ authorized or reasonable, whereas, under Chevron, the burden
+
+ is on those challenging governmental action to show either ,
+
+  that Congress has directly spoken on the issue or that the
+
+ agency's interpretation is unreasonable. Jd. at 28a. In this
+
+  case, Judge Mikva concluded that the Act is silent, or at best
+  ambiguous, on the scope of the term "harm," so that the issue
+
+ is whether the Secretary's interpretation of that term
+ constitutes a permissible reading of the ESA. Z/d. at 29a. He
+ concluded that it does, expressing the view that the majority's
+
+  application of noscitur a sociis was fatally flawed because the
+
+ "definition of `take' does not conform to the paradigm of one
+
+  broad word alongside many narrow ones." /d. at 30a.
+     Judge Mikva found additional support for the Secretary's
+
+ interpretation in the purpose and legislative history of the
+                                      15
+
+ ESA, including the 1982 amendments. The amendments, he
+reasoned, demonstrate that Congress thought that the
+original Section 9 prohibition against "takings" included some
+"incidental takings," and that by "incidental takings"
+Congress clearly meant to include some habitat modification.
+Pet. App. 37a-39a.
+
+    c. Petitioners filed a petition for rehearing with
+suggestion of rehearing en banc, which the court denied on
+August 12, 1994. Pet. App. 89a-90a. Judge Williams, writing
+for the panel majority, issued a statement accompanying the
+order denying rehearing. In response to petitioners'
+contention that the court had ascribed an overly broad reading
+to the Secretary's "harm" regulation, the panel majority
+expressed the belief that omissions as well as affirmative acts
+are embraced by the regulation, and that enforcement of the
+
+regulation would reach habitat modification over vast tracts of
+
+land. Jd. at 91a. The panel majority also reiterated its view
+that the "harm" regulation imposes on private parties
+responsibilities under Section 9 that are identical to those
+imposed on federal agencies under Section 7. Id. at 91a-94a.
+Finally, in response to petitioners' submission that its
+Chevron analysis was flawed and unclear, the panel majority
+
+announced that its invalidation of the regulation was based on
+
+step one of the Chevron analysis and that, in its view, the Act
+
+"manifests a clear determination by Congress" that the
+Section 9 "take" prohibition "should not reach habitat
+
+modifications * * * where there is no direct action by the
+
+defendant against any member of the species." Pet. App. 95a.
+   Four members of the court of appeals voted to grant
+
+rehearing en banc. Pet. App. 90a. Three of those judges--
+
+Judge Silberman, joined by Chief Judge Mikva and Judge
+
+Wald--filed a statement expressing the view that under a
+
+Chevron analysis, the interpretation of "harm" in the
+
+Secretary's regulation should be sustained. /d. at 98a-99a.
+                                                      7
+
+                                        16
+
+                       SUMMARY OF ARGUMENT
+
+   A. The Secretary of the Interior's interpretation of
+"harm" is based on a reasonable construction of the En-
+dangered Species Act of 1973 (ESA). Defining "harm" to
+include habitat modification or degradation that actually kills
+or injures wildlife is consistent with the text and structure of
+the Act. The carefully tailored "harm" regulation does not
+apply to habitat modification or degradation generally. It is
+limited to such actions that actually kill or injure. The
+ordinary meaning of "harm" encompasses killing or injuring,
+whether by habitat modification or otherwise. The court of
+appeals' reliance on noscitur a sociis to invalidate the
+Secretary's interpretation was misplaced. Construing
+"harm" as extending the "take" definition to embrace all
+conduct that comes within the more particular words of the
+statute, such as "kill," gives effect to all the words in the
+statute so that none is superfluous. To sustain respondents'
+facial challenge to the regulation would be inconsistent with
+the object and structure of the Act as a whole.
+
+   B. From the outset, Congress intended the prohibition
+against the "taking" of endangered species in Section
+9(a)(1)(B) to be interpreted broadly to include "every con-
+ceivable way in which a person can `take'" wildlife. The
+Secretary's regulation has been in effect, with revision in
+1981, since shortly after the ESA was enacted and warrants
+substantial deference. As early as 1978, this Court cited the
+"harm" regulation approvingly in TVA v. Hill, 437 U.S. 153,
+185, emphasizing the regulation's inclusion of "significant
+environmental modification or degradation." Congress
+amended the ESA on the heels of TVA v. Hill to permit federal
+projects that obtain an exemption under Section 7 of the Act
+to be exempted from the Section 9 "take" prohibition, and any
+regulations promulgated thereunder (no doubt including the
+"harm" regulation in light of the virtually contemporaneous
+                                      17
+
+TVA ruling). Congress's 1982 amendment of the ESA
+reinforced the validity of the "harm" regulation through the
+creation of the incidental take permit process. The text and
+history of that permit process leave no doubt that Congress,
+like the Secretary, interprets the Section 9 "take" prohibition
+to extend, in the absence of such a permit, to actions that
+cause a "take" by habitat modification.
+
+   C. Contrary to the court of appeals' interpretation, the
+Secretary's interpretation of "harm" does not impose on
+private parties the same obligations imposed on federal
+agencies by Section 7. The court's erroneous reasoning is
+based on its misunderatanding of "critical habitat" under the
+ESA and its failure to appreciate that various provisions of
+the ESA were designed to overlap to further the purposes of
+the Act. The court of appeals nonetheless invalidated the
+"harm" regulation on the basis of imagined applications that
+were not before it. Application of the standard for deter-
+
+mining whether a regulation is valid on its face (7.e., whether
+there are any circumstances under which the regulation
+
+would be valid) demonstrates that the Secretary's inter-
+pretation should be sustained.
+
+                                 ARGUMENT
+
+THE SECRETARY'S INTERPRETATION OF "HARM" IS
+BASED ON A REASONABLE CONSTRUCTION OF THE
+ENDANGERED SPECIES ACT AND THEREFORE SHOULD
+BE SUSTAINED
+
+   "(T]he Endangered Species Act of 1973 represented the
+most comprehensive legislation for the preservation of
+endangered species ever enacted by any nation." TVA v. Hill,
+
+437 U.S. 153, 180 (1978). "The plain intent of Congress in
+
+enacting [the ESA] was to halt and reverse the trend toward
+species extinction, whatever the cost." Jd. at 184. It is widely
+recognized that loss or degradation of habitat most often poses
+                                        18
+
+the greatest risk to endangered and threatened species. Jd. at
+179; Edward O. Wilson, The Diversity of Life 253, 346
+(Belknap Press, Harv. Univ. Press 1992); Daniel J. Rohlf, The
+Endangered Species Act: A Guide to its Protection and
+Implementation 11 (Stan. Envtl. Law Soe'y 1989). When
+Congress enacted the ESA in 1973, it concluded that habitat
+destruction played a central role in the rising number of
+species threatened with extinction. Thus, one of the stated
+purposes of the ESA is "to provide a means whereby the
+ecosystems upon which endangered species and threatened
+species depend may be conserved." 16 U.S.C. 1531(b).
+
+   The Secretary of the Interior is charged with
+responsibility for implementing and enforcing the ESA. See
+16 U.S.C. 1533. The Secretary, through the Director of the
+Fish and Wildlife Service, promulgated a regulation, 50 C.F.R.
+17.3, to define "harm," which is one of the words used in the
+ESA to define "take." 16 U.S.C. 1532(19). The term "take" is
+significant under the ESA both because Section 9 makes it
+unlawful for "any person" to "take" an endangered species,
+and because Sections 7 and 10 establish procedures for
+permitting a "take" that is merely incidental to an otherwise
+lawful activity. The Secretary's regulation defines "harm" to
+mean an act that "actually kills or injures wildlife," including
+"significant habitat modification or degradation" that causes
+those consequences by "significantly impairing essential
+behavioral patterns" of the wildlife, such as "breeding, feeding
+and sheltering." 50 C.F.R. 17.3.
+
+   When a court reviews an agency's construction of a statute
+that it administers, the two-step inquiry prescribed by this
+Court in Chevron U.S.A. Inc. v. Natural Resources Defense
+Council, Inc., 467 U.S. 837, 842-843 (1984), governs the
+analysis. At step one, the reviewing court determines
+"whether Congress has directly spoken to the precise
+question at issue." Jd. at 842. If the court determines that
+Congress unambiguously expressed an intent on the precise
+                                      19
+
+question, the court must give effect to that intent. Jd. at 843.
+If the statute is silent or ambiguous with respect to the issue,
+however, the court proceeds to step two and determines
+whether the agency's interpretation is based on a permissible
+construction of the statute. Jd. at 843-845. "If the adminis-
+trator's reading fills a gap or defines a term in a way that is
+reasonable in light of the legislature's revealed design, [the
+Court] give[s] the administrator's judgment `controlling
+weight.'" NationsBank v. Variable Annuity Life Ins. Co.,
+No. 93-1612 (Jan. 18, 1995), slip op. 5 (quoting Chevron, 467
+U.S. at 844).
+
+   Respondents brought this action as a facial challenge to the
+"harm" regulation insofar as it embraces any habitat
+modification activities. Respondents assume a "heavy
+burden" by attacking the regulation on its face. See Rust v.
+Sullivan, 500 U.S. 173, 183 (1991), quoting United States v.
+Salerno, 481 U.S. 739, 745 (1987). To prevail, they "must
+establish that no set of circumstances exists under which the
+[regulation] would be valid." Reno v. Flores, 113 S. Ct. 1439,
+1446 (1993), quoting United States v. Salerno, 481 U.S. at 745;
+see also INS v. National Ctr. for Immigrants' Rights, 112
+S. Ct. 551, 555 (1991); ef. Bowen v. Yuckert, 482 U.S. 137, 154
+n.12 (1987); California Coastal Comm'n v. Granite Rock Co.,
+480 U.S. 572, 593 (1987) (facial preemption challenge defeated
+by identifying possible set of conditions in which state
+requirements are not in conflict with federal law). Thus,
+respondents must establish that Congress intended that in no
+set of circumstances could Section 9's provision forbidding
+any person to "take" a protected species--i.e., to "harass,
+harm, pursue, hunt, shoot, wound, kill, trap, capture, or
+collect" such a species--he applied to conduct that "actually
+kills or injures wildlife" by means of "significant habitat
+modification or degradation." This respondents failed to do.
+
+   The district court sustained the "harm" regulation against
+respondents' facial challenge at step one of the Chevron
+                                        20
+
+analysis, holding that the "language, structure and history of
+the ESA reveal that Congress intended an expansive
+
+interpretation of the word `take,' an interpretation that
+encompasses habitat modification." Pet. App. 82a-83a. At the
+
+very least, however, the Secretary's interpretation of the
+term "harm" is a "permissible" or "reasonable" one in light of
+
+the "revealed design" of Congress in the ESA (NationsBank,
+slip op. 5), and it therefore should be sustained under step two
+
+of the Chevron analysis.
+
+   As its language makes clear, the regulatory definition of
+"harm" does not apply to habitat modification or degradation
+generally. It reaches only such acts that in turn actually kill
+
+or injure wildlife. This carefully tailored regulation is firmly
+
+supported by the text of the statutory definition of "take," the
+structure and purposes of the ESA as a whole, the legislative
+history of the original 1973 enactment of the ESA, the
+consistent and longstanding administration of the Act, and the
+1978 and 1982 amendments to the Act that specifically
+
+addressed the subject of "takes." The court of appeals
+therefore erred in holding that the regulation's inclusion of
+
+any habitat modification activities--even those that "actually
+
+kill or injure wildlife"--is invalid on its face.
+
+   A. The Text And Structure Of The Act Support The
+          Secretary's Interpretation
+
+   The Secretary's interpretation of the statutory term
+"harm" is affirmatively supported by the text and structure of
+the ESA in a number of respects.
+
+   1. The term "take" is defined in the Act to mean "to
+harass, harm, pursue, hunt, shoot, wound, kill, trap, capture,
+or collect, or to attempt to engage in any such conduct." 16
+U.S.C. 1532(19). In ordinary usage, the word "harm," in its
+verb form, means "to cause hurt or damage to: INJURE,"
+Webster's Third New International Dictionary 1034 (1986),
+or "to do or cause harm to; injure; damage; hurt," The
+                                      21
+
+Random House Dictionary of the English Language 873 (2d
+ed. 1987). This common understanding of the word
+unquestionably encompasses an act that actually "kills or
+injures wildlife'--the basic definition of "harm" in the first
+sentence of 50 C.F.R. 17.3. Respondents do not challenge that
+basic definition of "harm" by the Secretary, and its soundness
+
+is demonstrated by the fact that the definition of "take" in the
+
+KSA itself expressly includes "kill" and "wound."
+   The second sentence of 50 C.F.R. 17.3, which respondents do
+
+challenge, merely elaborates on the basic definition in the
+first sentence by explaining its application in one particular
+context. The second sentence specifies that an act con-
+stituting "harm" may include the actual killing or injuring of
+wildlife by means of "significant habitat modification or
+degradation" that "significantly impair[s]" essential behav-
+ioral patterns of the wildlife. There is no reason why
+Congress would have intended to allow the killing or injuring
+of protected wildlife where that consequence is brought about
+by the destruction of habitat essential for the wildlife's
+breeding, feeding, or shelter, rather than by other means,
+such as the discharge of a firearm or similarly direct
+application of force (the types of actions to which the court of
+appeals believed the "take" prohibition should be limited, see
+Pet. App. 4a ).
+
+   2. The court of appeals in fact acknowledged that the
+"potential breadth of the word `harm' is indisputable" and that
+"harm" can be understood to include conduct encompassed by
+the regulatory definition. Pet. App. 3a-4a. The court never-
+theless rejected the Secretary's interpretation by relying on
+
+the maxim noscitur a sociis. Id. at 6a-7a. That reliance was
+misplaced. The assumption underlying the court of appeals'
+
+invocation of noscitur a sociis was that Congress must have
+intended for certain words in the definition of "take" that
+involve the application of physical force ("hunt," "shoot,"
+
+"trap," "capture") to furnish a narrowing focus even with
+                                     22
+
+respect to "harm," despite that word's concededly broader
+connotation. Whatever utility the maxim noscitur a sociis
+
+might have in other settings, it does not assist respondents
+
+here, especially since ihe relevant statutory language
+contains both broader and narrower terms.'
+
+   The placement cf "harm" between the words "harass" and
+"pursue" in the ESA's definition of "take" is sufficient in
+itself to refute the court of appeals' crabbed interpretation, for
+neither of those words necessarily (or even ordinarily)
+involves the direct application of force. There accordingly is
+no reason why the word "harm" should be artificially confined
+in that manner. Compare Third Nat'l Bank in Nashville v.
+
+Impac Ltd., 432 U.S. 312, 322 (1977) (construing term by
+reference to words it is "sandwiched in between"); Dole v.
+United Steelworkers, 494 U.S. 26, 36 (1990) (statutory term
+
+   10 The maxim noscitur a sociis applies only where "the legislative
+
+intent or meaning of a statute is not clear." 2A Norman J. Singer,
+Sutherland Statutes and Statutory Construction § 47.16 (5th ed. 1992)
+[Sutherland]; Russell Motor Car Co. v. United States, 261 U.S. 514, 519, 520
+(1923). Thus, the majority's invocation of the maxim undermines its later
+statement (upon the denial of rehearing en banc) that its holding rested on a
+finding of an "unambiguously expressed" and "clear" determination by
+Congress that Section 9 does not reach the acts of habitat modification
+encompassed by the second sentence of 50 C.F.R. 17.3. See Pet. App. 95a.
+To be sure, a court may employ traditional tools of statutory construction at
+Chevron step one to determine whether Congress expressly resolved the
+relevant question, INS v. Cardoza-Fonseca, 480 U.S. 421, 446-447 (1987).
+But because resort to the maxim noscitur a sociis necessarily is premised
+on some measure of textual ambiguity, a court should not lightly rely on
+that maxim to override the agency's interpretation of a particular statutory
+term that is otherwise reasonable and consistent with the context of the
+statute as a whole. See Michigan Citizens for an Indep. Press v.
+Thornburgh, 868 F.2d 1285, 1292 (D.C. Cir.) ("Chevron implicitly precludes
+courts' picking and choosing among various canons of statutory construction
+to reject reasonable agency interpretations of ambiguous statutes."), aff'd
+by an equally divided court, 493 U.S. 38 (1989).
+                                     23
+
+may be "understood to be analogous to the examples sur-
+rounding it").
+
+   The structure of the statutory definition of "take"
+reinforces that conclusion in another respect. A number of
+terms at the beginning of the definition ("harass, harm,
+pursue") are broader than those that follow ("hunt, shoot,
+wound, kill, trap, capture or collect"). When specific words
+follow general words in a statutory enumeration, effect is
+given "to both the particular and the general words, by
+treating the particular words as indicating the class, and the
+general words as extending the provisions of the statute to
+everything embraced in that class, though not specifically
+named by the particular words." Sutherland § 47.17, at 189
+(describing maxim ejusdem generis, a variation of noscitur a
+sociis). In this case, the general word "harm" can be
+understood to apply the statutory term "take" to all conduct of
+the sort that the other words ("kill," "wound," etc.) merely
+exemplify, Brown v. Gardner, 115 S. Ct. 552, 555 (1994),
+including conduct that causes such consequences as killing or
+wounding by means of significant habitat modification. See 46
+Fed. Reg. 29,491 (1981) (J.A. 56-57); 46 Fed. Reg. 54,749 (J.A.
+68) ("Congress intended to create a definition of take which
+included all of the various ways of killing or injuring
+protected wildlife."). This construction gives effect to all the
+words in the definition so that none is superfluous, thereby
+answering a concern expressed by Judge Sentelle in his
+concurring opinion below. See Pet. App. 25a."
+
+    11 There is no reasonable definition of "harm" that would not overlap
+with some of the other terms. Moreover, the principle against surplusage is
+in tension with noscitur a sociis. To avoid surplusage, the word "harm"
+must be given meaning that is different from, rather than synonymous
+with, the other terms. The court of appeals' interpretation, by contrast,
+does render the term "harm" superfluous.
+                                        24
+
+   3. Respondents' effort to carve out of the "take"
+prohibition those actual killings of or injuries to wildlife that
+are brought about by means of habitat modification or
+degradation also is inconsistent with "the object and
+structure of the Act as a whole." Dole v. United Steel-
+workers, 494 U.S. at 36. In TVA v. Hill, this Court described
+the ESA as "the most comprehensive legislation for the
+preservation of endangered species ever enacted by any
+nation." 437 U.S. at 180. The Court also noted Congress's
+recognition that the destruction of habitat often poses the
+greatest risk to protected species, id. at 179, and that the
+ESA's "stated purposes were `to provide a means whereby the
+ecosystems upon which endangered species and threatened
+species depend may be conserved,' and `to provide a program
+for the conservation of such . . . species . . .,'" id. at 180
+(quoting 16 U.S.C. 1531(b)). To achieve those purposes, the
+Act contains numerous provisions that specifically address, in
+varying ways, the protection of habitat. See pages 7-9, supra;
+see, eg., 16 U.S.C. 1533(a)(3), (b)(2) and (b)(6)(C), 1534,
+1536(a)(2). It would be directly contrary to both the
+comprehensive thrust of the Act and its recognition of the
+importance of habitat for species survival to construe the
+prohibition against "taking" a protected species not to reach
+the actual killing or injuring of wildlife that results from
+significant modification or degradation of habitat on which the
+wildlife depends for its "essential" behavioral patterns.
+
+   Furthermore, as we explain below (see pages 32, 34, infra),
+Congress amended Sections 7 and 10 in 1978 and 1982 to
+authorize exemptions to the taking prohibition in Section 9 in
+particular circumstances, and those exempting provisions are
+tailored precisely to accommodate incidental takes of
+protected species that are caused by land development and
+other forms of habitat modification. Congress's fashioning of
+exemptions for habitat modification activities that would
+otherwise constitute a "take" of protected species weighs
+
+                                                                                             &
+                                     25
+
+strongly against an interpretation of the Act that would
+altogether exclude such activities from the "take" prohibition
+in the first place.
+
+    B. The Validity Of The "Harm" Regulation Is Supported
+           By The Background Of And Subsequent Amendments
+           To The Endangered Species Act
+
+   Any doubts about whether the Secretary's interpretation of
+"harm" represents a reasonable interpretation of the ESA are
+removed by a consideration of the legislative history of the
+Act in 1973, as well as by the text and legislative history of
+the amendments to the Act in 1978 and 1982.
+
+   1. The background and legislative history of the 1973 Act
+support the Secretary's interpretation of "harm" and under-
+mine that of the court of appeals. In the first place, the court
+of appeals' attempt to tie "harm" to what it perceived to be
+narrower terms in the ESA's definition of "take" that involve
+the direct application of physical force ignores the fact that
+the inclusion of "harass" and "harm" in the ESA constituted a
+marked departure from the definition of "take" in predecessor
+wildlife statutes, such as the Migratory Bird Treaty Act
+(MBTA), 16 U.S.C. 703 et seq., and the Marine Mammal
+Protection Act (MMPA), 16 U.S.C. 1361 et seg. The definition
+of "take" under the Migratory Bird Treaty Act omits both
+"harm" and "harass." See 16 U.S.C. 703 (1988 & Supp. V
+1993).'* When Congress enacted the MMPA in 1972, it
+
+   12 The Migratory Bird Treaty Act, 16 U.S.C. 703 et seq., was passed 55
+years prior to the ESA for the purpose of halting the "indiscriminate
+slaughter" of migratory birds. See, e.g., 55 Cong. Rec. 5544-5545 (1917); S.
+
+Rep. No. 2, 65th Cong., Ist Sess. (1917). It prohibits the taking of virtually
+every bird in the United States, not just endangered or threatened birds.
+
+    Even though the definition of "take" in the Migratory Bird Treaty Act is
+undoubtedly narrower than that in the ESA, see Seattle Audubon Soc'y v.
+Evans, 952 F.2d 297, 302-303 (9th Cir. 1991) ("{hJabitat destruction causes
+`harm' to the owls under the ESA but does not `take' them within the
+                                        26
+
+included "harass" in the definition of "take." See 16 U.S.C.
+
+1362(13) (Supp. V 1993).'* Then, when enacting the ESA in
+
+1973, Congress enlarged the concept of "take" still further by
+
+adding "harm" to the definition. See 16 U.S.C. 1532(19). The
+
+court of appeals' endeavor to maintain conformity with the
+narrowest terms defining "take" under the ESA defeats the
+deliberate enlargement of that concept under the ESA.
+
+meaning of the MBTA"), the MBTA has been applied to circumstances that
+cannot be characterized as involving a direct application of force. For
+example, United States v. FMC Corp., 572 F.2d 902 (2d Cir. 1978), held that
+migratory waterfowl were "killed" in violation of the Migratory Bird
+Treaty Act's "take" prohibition as the result of the defendant's release of
+chemicals in its manufacturing process, even though the defendant did not
+intend to harm birds and did not know its action would be lethal to them.
+
+   13 Contrary to the court of appeals' suggestion (Pet. App. 5a), United
+
+States v. Hayashi, 22 F.3d 859 (9th Cir. 1993), does not support the court's
+conclusion that the "take" prohibition under the ESA requires a
+substantially direct application of force. Hayashi involved a criminal
+prosecution for violation of the "take" provision under the MMPA. The
+Ninth Circuit specifically noted that the ESA "harm" regulation, "is not the
+controlling regulatory definition and is an improper starting point for any
+MMPA prosecution." 22 F.3d at 864; see also id at 862. The issue in
+Hayashi was whether a fisherman's firing of a rifle in order to scare
+porpoises away from his fishing lines constituted a criminal "take" by
+"harassment" under the MMPA, which is defined by a regulation, see 50
+C.F.R. 216.3, that differs from the "harm" regulation at issue here. In
+holding that it did not, the court reasoned that the fisherman's action did not
+disrupt normal behavioral patterns because feeding from a fishing line is
+not part of porpoises' normal eating habits. 22 F.3d at 864-865. The court
+also believed that the fisherman's action did not have a significant impact
+on the porpoise. because the disruption was of short duration and because
+regulations aiso prohibit the feeding of porpoises. bid. Thus, Hayashi
+turned on the court's conclusion that the activity in question had no
+significant adverse effect on the wildlife's normal and essential behavioral
+patterns. Moreover, the ruling in Hayashi is of no continuing importance,
+because in Section 12 of the MMPA Amendments of 1994, Pub. L. No. 103-
+238, 108 Stat. 557, Congress enacted a definition of "harassment" that is
+more expansive than the Ninth Circuit's interpretation in Hayashi.
+                                     27
+
+   The court of appeals' narrow focus on actions that involve
+the direct application of physical force also is inconsistent
+with the legislative history addressing the word "harass,"
+which immediately precedes "harm" in the statutory def-
+inition of "take" and which, as pointed out above (see pages 22-
+23, supra) does not connote the direct application of physical
+force. The House Report on the 1972 Act explained that the
+prohibition of actions that "harass" species, "whether
+intentional or not," would allow the "Secretary to regulate or
+prohibit the activities of birdwatchers where the effect of
+those activities might disturb the birds and make it difficult
+for them to hatch or raise their young." H.R. Rep. No. 412,
+93d Cong., Ist Sess. 11 (1973).'* Such otherwise benign
+actions as birdwatching do not reasonably fit the supposed
+paradigm of direct physical force applied against an animal.
+See Palila v. Hawaii Dep't of Land & Natural Resources, 852
+F.2d 1106, 1108-1109 (9th Cir. 1988) (Palila II) ("If the
+`harassment' form of taking includes activities so remote from
+actual injury to the bird as birdwatching, then the `harm' form
+
+of taking should include more direct activities."--in that case,
+
+the maintenance of sheep that fed on and destroyed woodlands
+
+on which an endangered species depended for survival).'°
+
+   Finally, a narrow focus on physical blows to the body of
+individual animals would defeat the intent expressed by the
+responsible congressional committees that "take" have a
+broad scope. See S. Rep. No. 307, 93d Cong., 1st Sess. 7 (1973)
+
+    14 The passage from the House Report quoted in the text also confirms
+that the taking prohibition focuses on the "effect" the conduct has on a
+species, rather than on the means by which the effect is brought about.
+
+    15 Palila II was a suit by environmental groups against the State of
+Hawaii for maintaining feral sheep in the remaining habitat areas of the
+endangered Palila bird. The sheep were maintained for hunting, but their
+overbrowsing and destruction of trees upon which the Palila depended for
+its survival were held to cause a "take" in violation of Section 9.
+                                     28
+
+(" `Take' is defined * * * in the broadest possible manner to
+include every conceivable way in which a person can `take' or
+attempt to `take' any fish or wildlife."); see also H.R. Rep. No.
+
+412, 93d Cong., Ist Sess. 11, 15 (1973).
+
+   The court of appeals believed that its narrow reading of
+"take" was supported by the failure of the Senate Committee
+on Commerce to adopt a definition in the version of the bill (S.
+
+1983, 93d Cong., Ist Sess. (1973)) that, as introduced, would
+
+have made modification of habitat a form of "take." See Pet.
+App. 8a-9a. The proposal in question, however, would have
+
+made all destruction, modification or curtailment of a listed
+
+species' habitat or range a "take," regardless of the effect on a
+listed species.'® In other words, under that provision, habitat
+modification would have been a per se violation of Section 9.
+The provision did not contain the limitations inhering in the
+concept of "harm" to the species itself. "Harm" was added to
+the definition of "take" later in the legislative process (after
+the habitat modification provision was omitted) and, under the
+Secretary's interpretation, it applies only if the habitat
+modification or degradation is significant and actually kills or
+injures protected wildlife.
+
+   Moreover, S. 1983 was one of two endangered species bills
+under consideration by the Senate committee. The other bill
+contained all of the terms in the definition of "take" as finally
+enacted except "harass" and "harm." See S. 1592, 93d Cong.,
+1st Sess. § 2(d)(4) (reproduced at 119 Cong. Rec. 12,432 (1973)).
+The bill reported out of committee included the terms in
+S. 1592 as introduced, plus "harass" from S. 1983. See S. Rep.
+No. 307, supra, at 14. The Senate Report did not explain why
+the Committee included some terms in the definition but not
+
+    16 The bill in question defined "take" to mean to "threaten, harass, hunt,
+capture, or kill [an endangered species] * * * or the destruction,
+modification, or curtailment of its habitat or range." S. 1983, 93d Cong., Ist
+Sess. § 3(6) (1973).
+                                      29
+
+others, but it did express the intent (quoted above) to define
+"take" in the "broadest possible manner to include every
+conceivable way in which a person can `take' " fish or wildlife.
+Id. at 7. The word "harm" was then added during the Senate
+floor debate as part of a package of amendments that were
+intended "to achieve the purposes of the bill" and to-"clarify
+some confusion caused by language remaining in the bill from
+earlier drafts or omitted from earlier drafts which went
+unnoticed during the final committee markup." 119 Cong.
+Rec. 25,683 (1973) (Sen. Tunney). In these circumstances, the
+Senate committee's failure to adopt a provision referring
+broadly to habitat modification per se (without regard to any
+effect on wildlife) does not suggest that the Secretary acted
+unreasonably in giving a far more circumscribed scope to a
+different term ("harm") under a regulation that does focus on
+resulting injury or death to wildlife. Cf. United States v. Lee,
+937 F.2d 1388, 1391 (9th Cir. 1991) (declining to give limiting
+significance to deletion of word in Lacey Act because overall
+congressional intent was to expand scope of the Act), cert.
+
+denied, 112 S. Ct. 977 (1992).""
+
+   2. The Secretary promulgated the original version of the
+
+"harm" regulation in 1975 (50 C.F.R. 17.3; see 40 Fed. Reg.
+44,412, 44,416 (J.A. 49, 51)), shortly after the ESA was passed.
+
+Following the 1981 revision (46 Fed. Reg. 54,748 (J.A. 65)), it
+has remained in effect ever since. The regulation therefore
+
+   17 The legislative history likewise does not support the court of appeals'
+suggestion that Congress intended land acquisition pursuant to Section 5 of
+the ESA to be the exclusive means by which habitat destruction on private
+lands can be curbed under the ESA. The legislative history cited by the
+court of appeals (Pet. App. 8a-9a) simply indicates that Congress considered
+acquisition of private land to be one available tool in addressing habitat
+concerns. It would depart from the ESA's comprehensive design tc assume
+that Congress compartmentalized the problems associated with endangered
+species and provided only a single solution to a complex problem--
+especially one as central to the Act as the habitat of protected species.
+                                     30
+
+represents the Secretary's contemporaneous and long-
+standing interpretation of the term "harm," and as such is
+entitled to particular deference. See Brown v. Gardner, 115
+S. Ct. at 557, citing Zenith Radio Corp. v. United States, 437
+U.S. 443, 450 (1978). The subsequent history of the regulation
+and the provisions later added to the Act to address the "take"
+prohibition validate that interpretation and build upon the
+protection it affords.
+
+   3. Significantly, only three years after the "harm"
+regulation was promulgated, this Court discussed the
+regulation's operation and its place in the overall statutory
+scheme in TVA v. Hill. The Court stated:
+
+     The plain intent of Congress in enacting this statute was
+     to halt and reverse the trend toward species extinction,
+     whatever the cost. This is reflected not only in the stated
+     policies of the Act, but in literally every section of the
+     statute. All persons, including federal agencies, are
+     specifically instructed not to "take" endangered species,
+     meaning that no one is "to harass, harm, pursue, hunt,
+
+     shoot, wound, trap, capture, or collect" such life forms.
+
+437 U.S. at 184-185 (quoting 16 U.S.C. 1538(a)(1)(B) (1976)). In
+a footnote to the word "harm" in the statutory definition of
+"take," the Court quoted (with emphasis) the "harm"
+regulation's inclusion of "significant environmental modifi-
+cation or degradation" that actually injures or kills wildlife,
+and explained that it did "not understand how TVA intends to
+operate Tellico Dam without `harming' the snail darter." 437
+U.S. at 184-185 n.30. In light of this Court's early recognition
+of the central role played by the take prohibition (specifically
+including the "harm" regulation) in achieving the overall
+purposes of the Act, the Court should be reluctant, 17 years
+
+later, to endorse an interpretation of "harm" that would
+
+render the current version of that same regulation facially
+invalid insofar as it interprets the Act to prohibit those
+                                      31
+
+ significant modifications or degradations of habitat that
+ actually kill or injure protected wildlife.
+
+    4. When Congress enacted the Endangered Species Act
+
+ Amendments of 1978, Pub. L. No. 95-632, 92 Stat. 3752, in the
+
+immediate wake of this Court's decision in TVA v. Hill (see
+ H.R. Rep. No. 1625, 92d Cong., 2d Sess. 3-4, 10 (1978)), it chose
+to retain the "harm" regulation in effect. During the
+extensive hearings that preceded those amendments, repre-
+sentatives of the timber industry and other witnesses called
+attention to the "take" prohibition in Section 9, its application
+to activities on private land, and the regulation defining
+"harm" to include significant environmental modification or
+degradation that significantly disrupts normal behavioral
+patterns; and a number of witnesses urged Congress to refine
+the statutory definition of "take" so as to exclude land
+
+management activities on private lands." In response to those
+
+criticisms, Senator Garn proposed (and later withdrew)
+amendments that included the following redefinition of "take":
+
+     The term "take" means purposefully to harass, harm,
+
+      pursue, hunt, shoot, wound, kill, trap, capture, or collect,
+
+     or to attempt to engage in any such conduct which is
+     inimical to the continued existence of an endangered or
+     threatened species. It does not include effects from
+
+      normal forestry, farming, ranching or water management
+      practices.
+
+    18 Endangered Species Oversight: Hearings Before the Subcomm. on
+Resource Protection of the Senate Comm. on Environment and Public
+Works, 95th Cong., Ist Sess. 306-307, 316 (1977); Amending the Endangered
+Species Act of 1973: Hearings on S. 2899 Before the Subcomm. on Resource
+
+Protection of the Senate Comm. on Environment and Public Works, 95th
+Cong., 2d Sess. 50, 52, 59, 222, 260, 389 (1978); Endangered Species, Parts 1
+
+& 2: Hearings Before the Subcomm. on Fisheries and Conservation and the
+
+Environment of the House Comm. on Merchant Marine and Fisheries, 95th
+
+Cong., 2d Sess. 206, 211, 223, 413, 724-725, 726-727 (1978).
+                               32
+
+124 Cong. Rec. 21,565 (1978).
+
+Despite the attention focused on the subject, Congress did
+
+not revise the statutory definition of "take" or modify the                         an
+
+general operation of the prohibition in Section 9 as it affects
+
+habitat-modification activities encompassed by the "harm"
+
+regulation. Instead, Congress responded in a far more limited
+
+manner that was premised on the regulation's continued
+
+existence. It did so by providing relief from the "take"
+
+prohibition in the specific context of the exemption
+
+mechanism it added in Section 7(h) of the Act, 16 U.S.C.
+
+1536(h), which permits a project that would otherwise violate
+
+Section 7(a)(2) to go forward if it is authorized by a specially
+
+constituted Endangered Species Committee. See 16 U.S.C.
+
+1536(e)-(0). Recognizing that an exemption from Section
+
+7\a)(2) would not remove a project from the "take" prohibition
+
+in Section 9(a), Congress included Section 7(o) in the Act to
+
+provide (emphasis added):
+
+   Notwithstanding sections 4(d) and 9(a) of this Act or
+any regulations promulgated pursuant to such sections,
+
+any action for which an exemption is granted under
+subsection (h) of this section shall not be considered a
+
+taking of any endangered or threatened species with -
+respect to any activity which is necessary to carry out
+such action.
+
+Pub. L. No. 95-632, § 3, 92 Stat. 3759 (codified at 16 U.S.C.
+1536(0) (Supp. III 1979)).'
+
+   Against the backdrop of this Court's discussion of the
+
+"harm" regulation in TVA v. Hill only five months earlier, as
+
+'9 The House Report explained that this provision (which was then                \
+
+contained in Section 7(k)(2) of the bill, see H.R. Rep. No. 1625, supra, at 51)
+
+was included "in recognition of the fact that even though a project might be     |
+
+exempted from the requirements of section 7, section 9 of the agt would still    !
+
+prohibit the `taking' of any endangered animal species." H'R. Rep. No.           |
+
+1625, supra, at 25.
+
+Te                                                                               we
+                  33
+
+well as the specific discussion of that regulation in the
+
+legislative history of the 1978 amendments, the reference in
+
+the new Section 7(0) to "regulations promulgated pursuant to
+
+[section 9(a)]" plainly encompasses the "harm" regulation."
+
+- Yet far from disapproving that regulation or the interpre-
+
+tation of "harm" it embodied, Congress instead cafved out
+
+only a narrow exception to the "take" prohibition and its
+
+implementing regulations and otherwise left those regul-
+
+ations in place.
+
+5. Following the 1978 amendments to the Act, the
+
+Secretary revised the "harm" regulation in 1981 to clarify
+
+that it applies only to significant habitat modification or
+
+degradation that actually kills or injures a species. See page                   =
+
+   20 During floor consideration of the bill, the House, by a roll-call vote of
+231-157, adopted an amendment that would have entirely exempted the
+Tellico Dam Project from the Act and also would have provided that any
+"harassment, harm, killing or wounding" of any endangered or threatened
+species attributable to the construction or operation of the project would not
+be considered to be a taking under Section 9(a)(1). 124 Cong. Rec. 38,148
+
+(1978); see id. at 38,150-38,151. The Senate bill did not contain such a
+provision. The Conference Committee adopted and Congress enacted a
+compromise that called for expedited consideration of the Tellico Dam
+Project under the special exemption provisions added to Section 7. See
+Pub. L. No. 95-632, § 5, 92 Stat. 3761 (codified at 16 U.S.C. 1539(i)(1) (Supp.
+III 1979)); the Endangered Species Committee subsequently declined to
+grant an exemption, see Congressional Research Service, Senate Comm. on
+Environment and Public Works, 97th Cong., 2d Sess., A Legislative History
+of the Endangered Species Act of 1973, as amended, at Part V, pp. 1235-1236
+(Comm. Print 1982). Congress thereafter directed TVA to complete
+construction and operation of the Tellico Dam and Reservoir,
+"notwithstanding the provision of 16 U.S.C. chapter 35 [the ESA], or any
+other law." Pub. L. No. 96-69, Tit. IV, 93 Stat. 449. H.R. Conf. Rep. No.
+1804, 95th Cong., 2d Sess. 24-25 (1978). The special provision in the ESA for
+expedited consideration of the Project was then repealed (and replaced by
+another provision in 16 U.S.C. 1539(i) that is of no relevance here) by
+Section 6(5) of the Endangered Species Act Amendments of 1982, Pub. L.
+No. 97-304, 96 Stat. 1424.
+                                     34
+
+6, supra. Congress then amended the Act once again in the
+Endangered Species Act Amendments of 1982, Pub. L. No. 97-
+304, 96 Stat. 1411. In a number of respects, those amendments
+further reinforce the validity of the "harm" regulation.
+
+   a. Of particular relevance to this case, Congress affirm-
+atively acted in 1982 to lessen the restriction imposed by
+Section 9's take prohibition by authorizing the Secretary to
+issue permits under Section 10 to allow a taking that is
+"incidental to, and not the purpose of, the carrying out of an
+otherwise lawful activity." 16 U.S.C. 1539(a)(1)(B) (as added
+by Pub. L. No. 97-304, § 6, 96 Stat. 1422). The background and
+text of that provision show that Congress, like the Secretary,
+understood Section 9 to prohibit actions that cause a "take"
+through habitat modification.
+
+   The House Report made clear that "by use of the word
+`incidental' the Committee intend[ed] to cover situations in
+which it is known that a taking will occur if the other activity
+is engaged in but such taking is incidental to, and not the
+purpose of, the activity." H.R. Rep. No. 567, 97th Cong., 2d
+Sess. 31 (1982). Thus, "incidental" was not intended to cover
+simply inadvertent takings of a listed species that might
+occur in conjunction with, e.g., the trapping or hunting of a
+nonlisted species. Rather, it was intended to include takings
+that are known ahead of time to be a consequence of an
+otherwise lawful activity--precisely the situation that arises
+when there are incidental takings through land development
+or other types of habitat modification or degradation.
+
+   The applicability of the incidental take permit process to
+habitat modification is also reflected in the text of Section 10
+that describes the "conservation plan" that must be prepared
+by an applicant. See 16 U.S.C. 1539(a)(2). In the conservation
+plan, the applicant must specify, inter alia, the "impact" that
+is likely to result from the taking and what steps the applicant
+will carry out to "minimize and mitigate" such impacts. 16
+U.S.C. 1539(a)(2)(A)(i) and (ii); see also 16 U.S.C. 1539(a)(2)
+                                35
+
+(B)(i) and (ii). The focus on minimization and mitigation
+
+demonstrates that Congress was concerned not merely with
+
+inadvertent takings that might occur during hunting or
+
+trapping, but also with those having varying degrees of impact
+
+that could be determined ahead of time and controlled--that is,
+
+actions such as habitat modification that can often be.tailored
+
+in their scope, timing, or location. Thus, based on the
+
+statutory text that Congress enacted in 1982 to add flexibility
+
+to Section 9's take prohibition, it is all the more reasonable for
+
+the Secretary to interpret the category of permitted
+
+"takes"--those that are merely "incidental" to otherwise
+
+lawful activity--to encompass habitat modification or degrad-                 ;
+
+ation that actually kills or injures protected wildlife.                      :
+
+Congress's enactment of a detailed mechanism for permitting
+
+such activities under specified conditions weighs against a                   i
+
+construction of the prohibition that would not bar those
+
+activities in the first place.
+
+The legislative history shows, moreover, that Congress had
+
+incidental takes through habitat modification specifically in
+
+mind when it created the Section 10 incidental take program.
+
+The permit process was described in the Senate Report as
+
+being modeled after the response to a specific situation in San
+
+Mateo County, California, in which the "taking" of endanger-
+
+ed butterflies was incidental to "the development of some 3000
+
+dwelling units" on a site inhabited by the species--i.e., was
+
+incidental to habitat modification. S. Rep. No. 418, 97th Cong.,
+
+2d Sess. 10 (1982).2 The Conference Report similarly
+
+   21 The cited development is described further in Friends of Endangered
+Species, Inc. v. Jantzen, 760 F.2d 976 (9th Cir. 1985); Endangered Species
+Act: Hearings Before the Subcomm. on Fisheries and Wildlife Conservation
+and the Environment of the House Comm. on Merchant Marine and
+Fisheries ,97th Cong., 2d Sess. 331-335 (1982) [1982 House Hearings]. Not
+surprisingly, that housing development project received the first Section 10
+incidental take permit issued by the FWS. See generally Timothy Beatley,
+Habitat Conservation Planning 23-24, 54-68 (Univ. of Texas Press 1994).
+                                     36
+
+discussed the San Mateo project in detail, noting that large
+portions of the butterflies' habitat was privately owned, that
+the County had conducted an exhaustive study of the location
+of the butterflies and "their food plants," and that the
+conservation plan developed through governmental and private
+efforts "preserves sufficient habitat to allow for enhancement
+of the survival of the species." See H.R. Conf. Rep. No. 835,
+
+97th Cong., 2d Sess. 30-32 (1982)."
+
+    22 In discussing the significance of the 1982 amendments, the court of
+appeals suggested (Pet. App. lla) that the "key example" of the sort of
+problem Congress had in mind when it enacted Section 10(a)(1)(B) was the
+incidental take caused by a water intake associated with a proposed nuclear
+power plant. See 1982 House Hearings at 358; Endangered Species Act
+Amendments of 1982: Hearings Before the Subcomm. on Environmental
+Pollution of the Senate Comm. on Environment and Public Works, 97th
+Cong., 2d Sess. (1982) 299-303 [196 Senate Hearings]. The nuclear power
+plant would have resulted in a taking because it would have caused the
+"entrainment or impingement" of Shortnose Sturgeon eggs, larvae or
+adults. 1982 House Hearings at 358. The court of appeals suggested that
+such a taking is not the result of "habitat modification" and that the
+conservation plan required by Section 10(a) made the most sense for this
+type of incidental "take." Pet. App. 12a. Both suggestions are faulty.
+
+    First, construction and operation of a water intake structure is
+appropriately characterized as "habitat modification" within the meaning
+of 50 C.F.R. 17.3. See, e.g., United States v. Glenn-Colusa Irrigation Dist.,
+788 F. Supp. 1126, 1133 (E.D. Cal. 1992) (water district's pumping "harms"
+fish within the meaning of 50 C.F.R. 17.3 by creating water velocity that
+causes salmon to be pinned or battered against screens or by diverting fish
+into channels full of predators).
+
+   Second, there is no foundation for the court of appeals' suggestion that
+the nuclear power plant example played the primary instigating role in
+Congress's authorization of incidental take permits. As explained in the
+text, the congressional reports and hearings demonstrate that Congress had
+takes by habitat modification primarily in mind. Moreover, Section 10
+applies only to non-federal projects. The proposed nuclear power plant,
+however, required a federal permit and thus had to meet the Section 7(a)(2)
+"jeopardy" and "critical habitat" restrictions. Northeast Utilities sought an
+amendment to the ESA because its project would have remained subject to
+                                       37
+     Also, in the hearings that preceded enactment of the 1982
+ amendments, objections to the regulatory definition of "harm"
+
+ were once again voiced." Similarly, the Ninth Circuit's
+
+ decision in Palila v. Hawaii Dep't of Land & Natural
+ Resources, 639 F.2d 495 (1981) (Palila D, finding a prohibited
+ taking based on "harm" caused by habitat modification, was
+ before Congress during its consideration of the 1982
+ amendments. 1982 House Hearings at 273, 291, 331. It
+ therefore is not surprising that the Senate Report
+ specifically noted that "section 9 * * * prohibits the taking of
+ any endangered fish or wildlife, including harm which may
+ occur as a result of habitat modification." S. Rep. No. 418,
+ supra, at 26 (emphasis added);" see also H.R. Rep. No. 567,
+
+ the take prohibition in Section 9 even if it had complied with Section 7(a)(2).
+ 1982 House Hearings at 358-360; 1982 Senate Hearings at 297-309.
+ Northeast proffered its illustration to support its proposal that the ESA be
+ amended to provide that a project be immunized from Section 9 whenever
+ the Secretary issues a "no jeopardy" opinion in connection with Section 7
+consultation on a project--a problem separately addressed by Congress's
+
+enactment of Section 7(b)(4) and (0)(2), discussed at pages 38-39, infra.
+
+Northeast explicitly suggested, however, that "where no Section 7
+consultation has been obtained because there is no federal involvement in
+the activity, Section 9 would remain fully operative." 1982 House Hearings
+at 360.
+
+    2 See 1982 House Hearings at 240, 262, 273, 328-329, 331, 343; see also
+
+1982 Senate Hearings at 320-321.
+    *4 The passage in the Senate Report quoted in the text was part of the
+
+discussion of an amendment to Section 9(a)(2) (now codified, as later
+amended, at 16 U.S.C. 1538(a)(2)(B)), that makes it unlawful to remove and
+
+reduce to possession endangered species of plants on federal lands. See
+Pub. L. No. 97-304, § 9(b)(i), 96 Stat. 1426. The Report explained that
+although Section 9 "prohibits the taking of endangered species of fish or
+wildlife," it "does not * * * prohibit the taking of endangered plants," and
+that, as a result, "harm to species of plants" that "may occur as a result of
+habitat modification" would not be within the scope of the new prohibition
+against removal of plants from federal lands. S. Rep. No. 418, supra, at 26.
+                                      38
+
+supra, at 15 (incidental take permit provisions will respond to
+"situations where the unintentional taking may occur on
+private lands owned by a developer" and assist "private land
+
+owners" who present a "conservation plan"); id. at 31
+
+(amendment to Section 10 addresses concerns of "private
+landowners").
+
+   b. Congress also amended Section 7 of the Act in 1982 to
+provide for the Secretary to issue an incidental take
+statement as part of the biological! opinion that he prepares at
+the conclusion of the formal consultation process under
+Section 7(a)(2). See 16 U.S.C. 1536(b)(4). The terminology of
+that provision directly parallels that of the incidental take
+permit provision added to Section 10, discussed above, and for
+that reason it likewise confirms that incidental takes include
+those brought about by habitat modification or degradation of
+the sort described in the "harm" regulation. In addition,
+Congress enacted a new Section 7(0)(2) of the Act to provide
+
+that "[nJotwithstanding sections 4(d) and 9(a)(1)(B) and (C) or
+
+any regulation promulgated to implement either such
+section," any "taking that is in compliance with the terms and
+conditions specified in a written [incidental take] statement
+provided under subsection (b)(4)(iii) [of Section 7] shall not be
+considered to be a taking of the species concerned." Pub. L.
+No. 97-304, § 4(a)(7), 96 Stat. 1420 (emphasis added) (codified at
+
+16 U.S.C. 1536 (0)(2) (1982)." By virtue of the emphasized
+
+Thus, Congress once again tailored the Act with specific reference to the
+
+"harm" regulation.
+
+       See H.R. Rep. No. 567, supra, at 26-27. The same provision of the
+
+1982 amendments also reenacted (as Section 7(0)(1) of the ESA) the
+exception from the take prohibition in Section 9(a) and implementing
+regulations for activities that are covered by an exemption granted under
+Section 7(h) of the Act. See 16 U.S.C. 1536(0)(1).
+
+    In 1986, subsection (b)(4) of Section 7 was amended to move the reference
+
+to the terms and conditions in the incidental take statement from subsection
+(b)(4)(iii) to a new subsection (b)(4)(iv) (where they now appear), and
+                                     39
+
+language, Congress once again specifically recognized in the
+text of the Act itself the "regulation[s]}" promulgated to
+
+"implement," inter alia, the prohibition in Section 9(a)(1)(B)
+
+against the taking of protected species."* In light of the
+
+subsection (b)(4)(iii) was revised to provide for the incidental take
+statement to specify, in the case of marine mammals, the measures
+necessary to comply with Section 101(a)(5) of the Marine Mammal
+Protection Act (16 U.S.C. 1371(a)(5)) with regard to such taking. Pub. L.
+No. 99-659, § 411(b)(4)-(6), 100 Stat. 3742 (codified at 16 U.S.C. 1536(b)(4)(iii)
+and (iv)). Corresponding amendments were made in 1986 to Section 7(0).
+These amendments consisted of: the addition of Sections 101 and 102 of the
+MMPA (16 U.S.C. 1371 and 1372) to the "notwithstanding" clause at the
+beginning of Section 7(0); the substitution of subsection (b)(iv) for subsection
+(b)(iii) in Section 7(0)(2); and the insertion of the word "prohibited" before
+"taking" in Section 7(0)(2). See Pub. L. No. 99-659, § 411(c), 100 Stat. 3742.
+These amendments are reflected in the 1988 codification of Section 7(o )(2).
+See 16 U.S.C. 1536(0 (2); see also 132 Cong. Rec. 31,294-31,295, 32,185 (1986)
+(describing 1986 amendments to ESA).
+
+    26 There is yet another feature of the 1982 amendments (involving
+"experimental populations") that is premised upon and accommodates the
+"harm" regulation's inclusion of certain habitat modifications within the
+statutory take prohibition. The Senate Report explained that the Secretary
+already had the authority to establish "experimental populations" to aid
+recovery of a species, such as by reestablishment in the wild of captive-bred
+animals. The Report continued: "Other Federal agencies, State officials
+and private individuals, however, are reluctant to allow experimental or
+new populations of endangered species to be established on their land for fear
+that the section 7 jeopardy standard, critical habitat designation, and the
+section 9 taking prohibitions will be applied to limit their land management
+options." S. Rep. No. 418, supra, at 3 (emphasis added). Congress's
+response was not to repeal the application of Section 9 to all "land
+management" activities, which is the result the court of appeals reached.
+Instead, Congress established a special mechanism in a new Section 10(j) to
+add still further flexibility to the take prohibition in the particular context
+of experimental populations. See id. at 3-4, 7-9; Pub. L. No. 94-307, § 6(6),
+96 Stat. 1424 (codified at 16 U.S.C. 1539(j)). Congress provided, inter alia,
+for experimental populations of endangered species to be treated as
+threatened species, see 16 U.S.C. 1539(j)(2)(C), which has the effect of
+                                     40
+
+prominence during congressional consideration of the 1982
+amendments of the "harm" regulation and the taking of
+species caused by habitat modification, Section 7(o)(2)--
+together with the provisions elsewhere in Section 7 and in
+Section 10 for allowing such incidental takings in particular
+circumstances--must be regarded as a congressional ratifi-
+cation of the interpretation of "harm" embodied in the
+Secretary's regulation.
+
+   C. The Court of Appeals' Reasons for Rejecting the
+           Secretary's Reasonable Interpretation of "Harm" Are
+           Without Merit
+
+   We have explained in Points A and B that the interpretation
+of "harm" set forth in 50 C.F.R. 17.3 is affirmatively supported
+by the text and structure of the ESA, its legislative history,
+this Court's decision in TVA v. Hill, and the subsequent
+amendments to the Act in 1978 and 1982. The court of appeals
+failed to appreciate the strength of each of those con-
+siderations, and we have already answered its efforts to
+minimize them in the course of our discussion above.
+
+   The court of appeals advanced several additional objections
+to the Secretary's interpretation, based on the overlap it
+believed the Secretary's interpretation would create between
+Sections 7 and 9 of the Act and the potential breadth it
+ascribed to that interpretation. Those remaining objections
+are without merit.
+
+removing such populations from the automatic coverage of the take
+prohibition in Section 9(a)(1)(B) itself and instead subjecting the application
+of that prohibition to experimental populations to the discretion of the
+Secretary under Section 4(d), 16 U.S.C. 1533(d). The experimental
+populations of gray wolves that were recently introduced into central Idaho
+and into Yellowstone National Park in Montana (and that are endangered
+in those areas) are covered by that special provision. See 50 Fed. Reg.
+60,252 (1994).
+                    41
+
+1. Contrary to the court of appeals' interpretation, the
+Secretary's interpretation of "harm" for purposes of the
+Section 9 prohibition against the taking of listed species does
+not impose on private parties the equivalent of federal
+agencies' Section 7 obligation to avoid destruction or adverse
+modification of critical habitat. The Secretary's `"harm"
+regulation prohibits only habitat modification that causes
+actual death or injury, and does not prohibit habitat
+degradation that merely retards recovery. See Palila II, 852
+F.2d at 1108-1110.
+                        ,
+The court of appeals incorrectly suggested (Pet. App. 92a-
+93a) that because "critical habitat" is defined as areas
+"essential to the conservation of the species," any alteration
+or use of land designated as "critical habitat" necessarily will
+result in prohibited "harm" to the species. That is not true.
+The obligations on federal agencies arising from Section 7 are
+more extensive than those imposed on such agencies and other
+persons by Section 9. An action may result in the destruction
+or adverse modification of critical habitat, and yet not result
+in a taking of an endangered species because it does not
+"actually kill or injure wildlife." For example, where there is
+an area designated as critical habitat for a species but not
+currently inhabited by the species,"' a federal agency may be
+prevented by Section 7 from authorizing or carrying out
+action in the area, such as the harvesting of trees that, if
+allowed to stand, would likely attain the attributes of suitable
+
+    27 As explained above, see note 5, supra, critical habitat includes areas
+that are not occupied by the species, but are nonetheless "essential to the
+conservation of the species." 16 U.S.C. 1532(5). Conservation means the use
+of all methods necessary to recover the species so that it may be removed
+from the lists of species protected by the ESA. 16 U.S.C. 1532(3). Critical
+habitat for many species therefore includes areas the protection of which is
+crucial to the species' recovery but not to its bare survival.
+                                     42
+
+habitat for the species. Harvest of a similar area would not,
+however, be prevented by the Section 9 "take" prohibition."
+
+   At the same time, the Section 9 "take" prohibition may
+restrict conduct that would not violate Section 7. A particular
+action may cause a taking of individual members of a listed
+species, but not adversely affect the species as a whole to such
+an extent that it violates the "jeopardy" prohibition or critical
+habitat restrictions in Section 7(a)(2). For example,
+interference with the spawning of particular fish would
+constitute prohibited "harm" to those fish because of its
+interference with their breeding, but its transitory nature
+and spatially circumscribed effect would likely prevent it from
+triggering a determination of "jeopardy" to the species or
+
+"adverse modification" of its critical habitat. Also,
+
+modification of habitat that actually kills or injures wildlife
+(and therefore constitutes a prohibited "take"), but is not
+within critical habitat designated under Section 4," does not
+
+   *8 Part of the reason for the court's erroneous analysis was its apparent
+misinterpretation of critical habitat as "simply another way of referring to
+habitat modifications so significant to the species that they might lead to
+death (or at léast some very serious injury) for members of the species."
+See Pet. App. 92a. As noted above (see notes 5 and 27 supra), however, in
+appropriate cases, unoccupied potential habitat may be designated as
+critical for a listed species in order to provide for "natural range expansion
+into adjacent suitable habitat." 49 Fed. Reg. 38,904 (1984). Indeed,
+designation of critical habitat is most likely to furnish meaningful
+additional protections for listed species when federal actions are likely to
+take place that will impact upon suitable, but unoccupied, habitat.
+
+   2° Under Section 4 of the ESA, the Secretary's decision whether to
+designate critical habitat for a species is not solely a biological judgment.
+The Secretary is also required to consider and weigh "the economic impact,
+and any other relevant impact," of such a designation. 16 U.S.C. 1533(b)(2).
+
+    Moreover, the Secretary "may exclude any area from critical habitat if
+he determines that the benefits of such exclusion outweigh the benefits of
+specifying such area as part of the critical habitat, unless he determines
+based on the best scientific and commercial data available, that the failure
+                                      43
+
+ violate Section 7 unless it rises to the level of jeopardizing the
+ continued existence of the listed species.
+
+    Thus, Sections 9 and 7 are not rendered coextensive by the
+ "harm" regulation. They do overlap to some degree, however,
+ as do many provisions of the ESA. Indeed, it is by design that
+ various sections of the ESA provide for protection of
+ endangered and threatened species through a variety of
+ measures. For example, within Section 7(a)(2) itself, the
+ determination whether a federal action is "likely to jeopardize
+ the continued existence" of a listed species may overlap with
+ the determination whether the action is likely to "result in
+
+ the destruction or adverse modification" of habitat designated
+
+by the Secretary as "critical." 16 U.S.C. 1536(a)(2). In a
+similar vein, the fact that an action that would "jeopardize the
+continued existence" of a listed species or "destroy or
+adversely modify" its critical habitat in contravention of
+Section 7 may also result in a taking of the species in violation
+of Section 9 does not render either Section superfluous. Nor
+does any such overlap indicate that the Secretary's inter-
+
+pretation of "harm" is unreasonable.
+
+to designate such area as critical habitat will result in the extinction of the
+species concerned." 16 U.S.C. 1533(b)(2). Designation of critical habitat is
+authorized only "to the maximum extent prudent." 16 U.S.C.
+
+1533(b)(6)(C)(ii). By regulation, "[a] designation of critical habitat is not
+
+prudent when one or both of the following situations exist: (i) The species is
+threatened by taking or other human activity, and identification of critical
+habitat can be expected to increase the degree of such threat to the species,
+or (ii) Such designation of critical habitat would not be beneficial to the
+species." 50 C.F.R. 424.12(a)(1)(i) and (ii) (emphasis added). The factors to
+be considered in individual cases include whether "designation of critical
+habitat may generate public antagonism that could lead to vandalism" of
+habitat, and whether there would a "net benefit to the conservation of the
+species and their habitats." 49 Fed. Reg. 38,903 (1984).
+                     44
+
+   It is significant in this regard that both Section 7 and
+
+Section 9 apply to federal agencies.*° As we have explained
+
+above (see pages 32, 38, supra), Congress addressed their
+
+interaction and provided for their accommodation in Section
+
+7(b) and (0) of the Act, specifically recognizing that
+
+authorization or exemption of a project under Section 7 does
+
+not exempt it from the taking prohibition in Section 9.*° The
+
+court of appeals therefore erred in relying on the existence of
+
+critical habitat restrictions in Section 7, which do not even
+
+apply to private persons (except when such persons apply for
+
+a federal permit or license), as a reason for also construing
+
+Section 9 not to apply to habitat modification or degradation
+
+by private parties--even when it actually kills or injures
+
+protected wildlife.
+
+2. Far from applying the proper standard for determining
+
+whether a regulation is invalid on its face (7.e., whether there
+
+are any circumstances under which the regulation would be
+
+valid), the court of appeals took the opposite approach--it
+
+invalidated the "harm" regulation on the basis of imagined
+
+applications that were not before it. That analytical error
+
+manifested itself in a number of ways.  :
+
+   30 The "take" prohibition in Section 9(a1)(B) applies to "any person," 16
+U.S.C. 1538(a)(1)(B), and "person" is defined to include any "department, or
+instrumentality of the Federal Government." 16 U.S.C. 1532(13).
+
+   31 Section 7(0) confirms Congress' awareness that a Section 9 "take"
+may occur even though the action does not violate Section 7(a)(2). Thus,
+Section 7(0)(2) provides that any taking that is in compliance with the
+terms and conditions of an "incidental take" statement (see 16 U.S.C. 1536
+(b\(4)iv); page 38, supra) shall not be considered a prohibited take, and
+Section 7(0)(1) provides that any action granted an exemption under Section
+7(h) shall not be considered a "taking" of listed species. See H.R. Rep. No.
+1625, supra, at 25) (Section 7(o (1) was included "in recognition of the fact
+that even though a project might be exempted from the requirements of
+section 7, section 9 of the act would still prohibit the `taking' of any
+endangered animal species").
+                       45
+
+a. The court of appeals failed to take into account the fact
+
+that the requirement of showing "actual death or injury"
+
+directly traceable to habitat-disturbing actions imposes
+
+significant limitations on the regulation's application. When
+
+the Secretary revised the "harm" regulation in 1981, he
+
+emphasized the circumscribed reach of its second sentence.
+
+He explained that the                                   .
+
+additional language makes it clear that habitat modifi-
+
+cation or degradation, standing alone, is not a taking
+
+pursuant to section 9. To be subject to section 9, the
+
+modification or degradation must be significant, must
+
+significantly impair essential behavioral patterns, and
+
+must result in actual injury to a protected wildlife
+
+species. The word "impair" was substituted for "disrupt"
+
+to limit harm to situations where a behavioral pattern was
+
+adversely affected and not simply disturbed on a                             eoaN ee ShsePee
+
+temporary basis with no consequent injury to the
+
+protected species.
+
+46 Fed. Reg. 54,750 (1981) (J.A. 72).
+   The court of appeals also overlooked the cases in which
+
+courts have applied the regulation in an appropriate manner."
+The courts that have found violations of the regulation have
+recognized that it applies only where actual injury or death
+directly traceable to the actions of the defendant has occurred
+
+or will occur. See, e.g., Palila I, 639 F.2d at 498; Palila IT, 852
+F.2d at 1108-1110; Sierra Club v. Yeutter, 926 F.2d 429 (5th
+Cir. 1991) (enjoining Forest Service from even-aged lumber
+practices following documentation of dramatic decline in red-
+cockaded woodpecker colonies found traceable to lumbering
+
+   ® The fact that other courts of appeals have         upheld particular
+applications of the challenged regulation should weigh  heavily in favor of
+upholding its facial validity. See National Treasury    Employees Union
+
+(NTEU) v. Bush, 891 F.2d 99, 101 (5th Cir. 1989).
+                                     46
+
+practices); United States v. Glenn-Colusa Irrigation Dist.,
+788 F. Supp. 1126, 1133 (E.D. Cal. 1992) (water district's
+pumping creates water velocity that causes salmon to be
+pinned or battered against screens or diverts fish into
+channels full of predators).
+
+   By the same token, courts have correctly interpreted the
+"harm" prohibition not to extend to activity that only
+potentially, as opposed to actually, causes (or will cause)
+
+harm. American Bald Eagle v. Bhatti, 9 F.3d 163, 166 (ist
+
+Cir. 1993) ("courts have granted injunctive relief only where
+petitioners have shown that the alleged activity has actually
+harmed the species or if continued will actually, as opposed to
+potentially, cause harm to the species"); see also National
+
+Wildlife Fed'n v. Burlington N. R.R., 23 F.3d 1508, 1511-1513
+
+(9th Cir. 1994) (corn spill was localized in nature and did not
+constitute significant habitat modification or cause signif-
+icant impact to grizzly bears); Pyramid Lake Paiute Tribe of
+Indians v. United States Dep't of Navy, 898 F.2d 1410, 1420
+(9th Cir. 1990) (evidence does not establish that diversion of
+water actually caused spawning problems); National Wildlife
+Fed'n v. National Park Serv., 669 F. Supp. 384 (D. Wyo. 1987)
+(insufficient evidence of injury from plan designed to reduce
+conflicts between humans and grizzly bears); Morrill v.
+Lujan, 802 F. Supp. 424, 430-433 (S.D. Ala. 1992) (insufficient
+evidence that destruction of habitat would cause injury to
+
+mouse).
+
+   b. The court of appeals also suggested that the
+
+interpretation of "harm" in the regulation is overly broad
+
+because it is directed at harm flowing from the withholding of
+a benefit, rather than physical intrusions that wound an
+individual member of an endangered species. Pet. App. 3a-4a.
+The panel majority's statement upon denial of rehearing en
+banc reiterated that view and pointed to the commentary
+
+accompanying the promulgation of the "harm" regulation,
+which stated that an "act" is inclusive of either commissions
+47
+
+or "omissions" that would be prohibited by Section 9. Pet.
+
+App. 91a; 46 Fed. Reg. 54,750 (1981) (J.A. 72). An "omission"
+
+constitutes an "act" prohibited by Section 9, however, only if
+
+there is a legal duty to act and the failure to discharge that
+
+duty causes significant habitat modification or degradation
+
+that in turn leads to death or injury to protected wildlife.*
+
+Such an omission might arise, for example, from a duty to
+
+maintain a licensed dam structure. A maintenance omission
+
+causing a dam breach could significantly destroy habitat and
+
+cause death or injury to a listed species as a result. The
+
+commentary cited by the majority below does not encompass
+
+passive acts of nonfeasance or create a duty (where none
+
+otherwise would exist) to maintain a listed species' habitat.
+
+c. The court of appeals expressed the view that the "harm"
+
+regulation reflects an improbable relation to congressional
+
+intent because it might forbid any modification of an area
+
+between 35 and 42 million acres in size, which "some
+
+scientists" believed was necessary to the survival of the
+
+threatened grizzly bear--even though the court acknowledged
+
+that such broad coverage represented the views of an                            ee"eeae k tneN
+
+"adherent of aggressive protection." Pet. App. 6a.*4 By
+
+    33 Cf. United States v. FMC Corp., 572 F.2d 902, 906-907 (2d Cir. 1978)
+(rejecting defendants' contention that liability for a "take" under the
+Migratory Bird Treaty Act cannot be imposed for failure to act to prevent a
+chemical from escaping into a pond and killing birds); Morissette v. United
+States, 342 U.S. 246, 255 (1952) (public welfare offenses may encompass
+inaction where the law imposes a duty).
+
+   4 In its statement upon denial of rehearing en banc, the panel majority
+expressed the view that if millions of acres are necessary to the survival of
+grizzly bears, then any material curtailment necessarily would involve
+death for members of the species. Pet. App. 91a. The majority also stated,
+however, that it did not endorse the specific claim of what acreage might
+actually be necessary for the grizzlies. Jd. at 91a n.1. That qualification is
+significant, because it is unrealistic to assume that a prohibited taking
+could be found with respect to any and all habitat modification activities
+
+based on such evidence.
+                                     48
+
+focusing only on extreme examples and the potential for
+unreasonably broad application of the regulation to specific
+species, the court of appeals failed to heed the limited nature
+of review accorded in a facial challenge.
+
+   The panel majority also cited the Special Rule Concerning
+Take of the Threatened Coastal California Gnatcatcher,
+published at 58 Fed. Reg. 65,088 (1993), as evidence that the
+"harm" regulation entails the Secretary's exercise of power
+over large tracts of land. Pet. App. 94a-95a. That reliance was
+misplaced, however, because the cited reference (58 Fed. Reg.
+65,090 (1993)) is to a state planning process that encompasses
+3.8 million acres. That area does not equate to gnatcatcher
+habitat, nor does the reference mean, as the panel majority
+suggested (Pet. App. 94a-95a), that the "take" prohibition
+would apply to all habitat modification activities within that
+area. FWS's issuance by special rule of an incidental take
+authorization for the gnatcatcher was largely the result of
+special circumstances in California whereby state law, the
+Natural Community Conservation Planning Act (NCCP), Cal.
+Fish & Game Code §§ 2800-2840 (West 1995), provides for a
+regional planning program for establishing systematic
+evaluation and restoration of the State's native habitats. The
+
+    The inherent exaggeration of the regulation's impact based on that
+illustration is also reflected in the fact that the referenced 35 to 42 million-
+acre figure includes grizzly bear habitat in Canada. Rocky Barker, Saving
+All The Parts: Reconciling Economics and the Endangered Species Act 34-
+35 (Island Press 1993). And much of the habitat in the continental United
+States is federal, not private, land. Jd. at 41. For example, only one
+percent of the land in the Greater Yellowstone Ecosystem, the largest bear
+habitat area in the continental United States, is private land. Jhid.
+Furthermore, the court of appeals failed to note that the cited source noted
+that grizzly bear numbers have continued to rise despite the shrinking of
+their habitat. Jd. at 32. The author expressed concern, however, that the
+population increase will cause management complacency and that not
+enough is being done to ensure long-term survival. /bid.
+                                       49
+
+ purpose of the NCCP program is to provide for regional
+ protection and perpetuation of natural wildlife diversity (not
+ limited to species listed under the ESA), while allowing
+ compatible land use and appropriate development and growth.
+ Because the state plan incorporates criteria that meet ESA
+ incidental take permit standards (see 16 U.S.C. 1539(a)(2)),
+ F'WS, by its special rule, issued a blanket incidental take
+ authorization for projects that comply with the criteria in the
+ state plan. Thus, FWS's special rule effectively eliminates
+ duplication of state, local and federal efforts and serves to
+
+ reduce, rather than extend, federal involvement over the land
+
+ included in the state planning process.
+    The majority's erroneous characterization of the import of
+
+ the gnatcatcher plan also reflected a misunderstanding of con-
+ servation plan requirements under Section 10 of the ESA.
+ Specifically, its concern about the breadth of the "harm"
+regulation failed to appreciate that Congress's creation of the
+Section 10 permit program adds flexibility to the "take"
+prohibition by enabling private owners' land uses to be
+accommodated in a way that protects listed species. By
+altogether removing private habitat modification and
+degradation that kills or injures protected wildlife from the
+reach of Section 9, the court of appeals' interpretation would
+upset the careful balance intended by Congress among the
+
+many competing interests of private landowners, govern-
+
+mental entities, and the purposes of the ESA.
+   3. In sum, the court of appeals erred when it invalidated
+
+the Secretary's interpretation of the statutory term "harm"
+
+based on an extravagant reading and speculative applications
+
+of the regulation. It thereby failed to respect both the
+
+limitations imposed by the Secretary's interpretation of his
+own regulation and the nature of a facial challenge to a
+regulation. Moreover, the Secretary's interpretation, unlike
+
+that of the court of appeals, furthers the object of the Act as a
+whole. The ESA is intended to be a powerful yet workable law
+                                      50
+
+that accords substantial protection to listed species.
+Congress was aware that the greatest threat to listed species
+
+is the destruction of their natural habitat, see TVA v. Hill,
+
+437 U.S. at 179, and the purposes of the Act include providing a
+means whereby the ecosystems upon which endangered and
+threatened species depend may be conserved. 16 U.S.C.
+ 1531(b). The "harm" regulation furthers that purpose by
+interpreting the Act to bar significant habitat modification or
+degradation that actually kills or injures protected wildlife.
+
+    Furthermore, the Secretary's interpretation of "harm"
+dovetails with Congress's decision to temper the impact of the
+"take" prohibition on private land uses by enacting the 1982
+amendments to allow the issuance of an incidental take permit
+in circumstances in which an acceptable habitat conservation
+plan has been prepared. The Section 10(a) process has
+`resulted in the submission of more than 100 conservation
+plans and the approval of more than 30. See U.S. General
+Accounting Office, Endangered Species Act: Information on
+Species Protection on Nonfederal Lands at 9 (Dec. 1994). The
+first (and prototype) conservation plan was the plan,
+
+extensively discussed in the committee reports on the 1982
+
+amendments, that was fashioned to protect listed butterflies
+in the context of habitat modification resulting from a housing
+development in California. See pages 35-36, supra; see also
+
+ Pet. 23-25; note 4, supra. The interpretation of "take" and
+
+"harm" adopted by the court of appeals would substantially
+undermine such balanced and cooperative efforts to protect
+species while at the same time providing for development and
+productive land use.
+                                  51
+
+                            CONCLUSION
+The judgment of the court of appeals should be reversed.
+Respectfully submitted.
+
+               DREw S. Days, III     General
+                 Solicitor General
+
+               Lois J. SCHIFFER
+                 Assistant Attorney
+
+               EDWIN S. KNEEDLER
+
+                 Deputy Solicitor General
+
+               BETH S. BRINKMANN
+
+                 Assistant to the Solicitor General
+
+               MARTIN W. MATZEN
+
+               ELLEN J. DURKEE
+               JEAN E. WILLIAMS
+
+                  Attorneys
+
+FEBRUARY 1995
+                                   APPENDIX
+
+   The Endangered Species Act of 1973, as amended
+and codified at 16 U.S.C. 1531 et seq., provides in rele-
+
+vant part:
+
+§ 1531. Congressional findings and declaration
+               of purposes and policy
+
+(a) Findings
+
+  The Congress finds and declares that--
+      (1) various species of fish, wudlife, and plants in
+
+    the United States have been rendered extinct as a
+    consequence of economic growth and development
+    untempered by adequate concern and conserv-
+     ation;
+
+      (2) other species of fish, wildlife, and plants have
+    been so depleted in numbers that they are in
+    danger of or threatened with extinction;
+
+      (3) these species of fish, wildlife, and plants are
+     of esthetic [sic], ecological, educational, histori-
+     cal, recreational, and scientific value to the
+    Nation and its people;
+
+      (4) the United States has pledged itself as a
+    sovereign state in the international community to
+    conserve to the extent practicable the various
+    species of fish or wildlife and plants facing
+    extinction, pursuant to--
+
+                                    (la)
+                                         2a
+
+            (A) migratory bird treaties with Canada and
+         Mexico;
+
+            (B) the Migratory and Endangered Bird
+         Treaty with Japan;
+
+              (C) the Convention on Nature Protection
+          and Wildlife Preservation in the Western
+
+         Hemisphere;
+
+              (D) the International Convention for the
+
+         Northwest Atlantic Fisheries;
+
+              (E) the International Convention for the
+
+         High Seas Fisheries of the North Pacific
+         Ocean;
+
+            (F) the Convention on International Trade
+        in Endangered Species of Wild Fauna and
+         Flora; and
+
+            (G) other international agreements; and
+
+      (5) encouraging the States and other interested
+    parties, through Federal financial assistance and
+    a system of incentives, to develop and maintain
+    conservation programs which meet national and
+    international standards is a key to meeting the
+    Nation's international commitments and to better
+     safeguarding, for the benefit of all citizens, the
+    Nation's heritage in fish, wildlife, and plants.
+
+(b) Purposes
+
+  The purposes of this chapter are to provide a means
+whereby the ecosystems upon which endangered
+species and threatened species depend may be con-
+served, to provide a program for the conservation of
+                                   3a
+
+such endangered species and threatened species, and
+to take such steps as may be appropriate to achieve
+the purposes of the treaties and conventions set forth
+in subsection (a) of this section.
+
+(c) Policy
+
+   (1) It is further declared to be the policy of
+Congress that all Federal departments and agencies
+shall seek to conserve endangered species and
+threatened species and shall utilize their authorities
+in furtherance of the purposes of this chapter.
+
+   (2) It is further declared to be the policy of
+Congress that Federal agencies shall cooperate with
+State and local agencies to resolve water resource
+issues in concert with conservation of endangered
+species.
+
+                                                     * * * * *
+
+§ 1533. Determination         of endangered  species
+              and threatened  species
+
+(a) Generally
+
+   (1) The Secretary shall by regulation promulgated
+in accordance with subsection (b) of this section
+determine whether any species is an endangered
+species or a threatened species because of any of the
+following factors:
+
+       (A) the present or threatened destruction,
+     modification, or curtailment of its habitat or
+     range;
+
+        (B) overutilization for commercial, recrea-
+
+     tional, scientific, or educational purposes;
+
+       (C) disease or predation;
+                                   4a  existing  regulatory
+
+  (D) the inadequacy of
+mechanisms; or
+
+  (E) other natural or manmade factors affecting
+its continued existence.
+
+                                                            * * ***
+
+   (3) The Secretary, by regulation promulgated in
+accordance with subsection (b) of this section and to
+the maximum extent prudent and determinable--
+
+       (A) shall, concurrently with making a
+    determination under paragraph (1) that a species
+    is an endangered species or a threatened species,
+    designate any habitat of such species which is
+     then considered to be critical habitat; and
+
+  (B) may, from time-to-time thereafter as appro-
+priate, revise such designation.
+
+(b) Basis for determinations
+
+  (1)(A) The Secretary shall make determinations
+required by subsection (a) (1) of this section solely on
+the basis of the best scientific and commercial data
+available to him after conducting a review of the
+status of the species and after taking into account
+those efforts, if any, being made by any State or
+foreign nation, or any political subdivision of a State
+or foreign nation, to protect such species, whether by
+predator control, protection of habitat and food
+supply, or other conservation practices, within any
+area under its jurisdiction, or on the high seas.
+
+   (B) In carrying out this section, the Secretary
+shall give consideration to species which have been--
+                                          5a
+
+        (i) designated as requiring protection from un-
+     restricted commerce by any foreign nation, or
+
+      pursuant to any international agreement; or
+
+        (ii) identified as in danger of extinction, or
+     likely to become so within the foreseeable future,
+     by any State agency or by any agency of a foreign
+     nation that is responsible for the conservation of
+     fish or wildlife or plants.
+
+   (2) The Secretary shall designate critical habitat,
+
+and make revisions thereto, under subsection (a) (3) of
+
+this section on the basis of the best scientific data
+available and after taking into consideration the
+economic impact, and any other relevant impact, of
+specifying any particular area as critical habitat. The
+Secretary may exclude any area from critical habitat
+if he determines that the benefits of such exclusion
+outweigh the benefits of specifying such area as part
+
+of the critical habitat, unless he determines, based on
+
+the best scientific and commercial data available, that
+the failure to designate such area as critical habitat
+will result in the extinction of the species concerned.
+
+                                                             * * * *K *
+
+(d) Protective regulations
+
+   Whenever any species is listed as a threatened
+
+species pursuant to subsection (c) of this section, the
+
+Secretary shall issue such regulations as he deems
+necessary and advisable to provide for the
+
+conservation of such species. The Secretary may by
+
+regulation prohibit with respect to any threatened
+species any act prohibited under section 1538(a) (1) of
+
+this title, in the case of fish or wildlife, or section
+1538(a) (2) of this title, in the case of plants, with
+
+respect to endangered species; except that with
+respect to the taking of resident species of fish or
+                                         6a
+
+wildlife, such regulations shall apply in any State
+which has entered into a cooperative agreement
+pursuant to section 1535(c) of this title only to the
+extent that such regulations have also been adopted
+by such State.
+
+      ; *****
+
+§ 1536. Interagency cooperation
+
+(a) Federal agency actions and consultations
+
+   (1) The Secretary shall review other programs
+administered by him and utilize such programs in
+furtherance of the purposes of this chapter. All other
+Federal agencies shall, in consultation with and with
+the assistance of the Secretary, utilize their
+authorities in furtherance of the purposes of this
+chapter by carrying out programs for the con-
+servation of endangered species and threatened
+species listed pursuant to section 1533 of this title.
+
+   (2) Each Federal agency shall, in consultation
+with and with the assistance of the Secretary, insure
+that any action authorized, funded, or carried out by
+such agency (hereinafter in this section referred to
+as an "agency action") is not likely to jeopardize the
+continued existence of any erdangered species or
+threatened species or result in the destruction or
+adverse modification of habitat of such species which
+is determined by the Secretary, after consultation as
+appropriate with affected States, to be critical, unless
+such agency has been granted an exemption for such
+action by the Committee pursuant to subsection (h) of
+this section. In fulfilling the requirements of this
+paragraph each agency shall use the best scientific
+and commercial data available.
+                                          Ta
+
+   (3) Subject to such guidelines as the Secretary
+may establish, a Federal agency shall consult with
+the Secretary on any prospective agency action at the
+request of, and in cooperation with, the prospective
+permit or license applicant if the applicant has reason
+to believe that an endangered species or a threatened
+species may be present in the area affected `by his
+project and that implementation of such action will
+likely affect such species.
+
+   (4) Each Federal agency shall confer with the
+Secretary on any agency action which is likely to
+jeopardize the continued existence of any species
+proposed to be listed under section 1533 of this title or
+result in the destruction or adverse modification of
+critical habitat proposed to be designated for such
+species. This paragraph does not require a limitation
+on the commitment of resources as described in
+subsection (d) of this section.
+
+(b) Opinion of Secretary
+
+   (1)(A) Consultation under subsection (a) (2) of this
+section with respect to any agency action shall be
+concluded within the 90-day period beginning on the
+date on which initiated or, subject to subparagraph
+(B), within such other period of time as is mutually
+agreeable to the Secretary and the Federal agency.
+
+                                                            * ****
+
+   (3)(A) Promptly after conclusion of consultation
+under paragraph (2) or (8) of subsection (a) of this
+section, the Secretary shall provide to the Federal
+agency and the applicant, if any, a written statement
+setting forth the Secretary's opinion, and a summary
+of the information on which the opinion is based,
+detailing how the agency action affects the species or
+                                         8a
+
+its critical habitat. If jeopardy or adverse modifi-
+cation is found, the Secretary shall suggest those
+reasonable and prudent alternatives which he believes
+would not violate subsection (a) (2) of this section and
+can be taken by the Federal agency or applicant in
+implementing the agency action.
+
+   (B) Consultation under subsection (a) (3) of this
+
+section, and an opinion issued by the Secretary
+incident to such consultation, regarding an agency
+action shall be treated respectively as a consultation
+
+under subsection (a) (2) of this section, and as an
+
+opinion issued after consultation under such
+subsection, regarding that action if the Secretary
+reviews the action before it is commenced by the
+Federal agency and finds, and notifies such agency,
+that no significant changes have been made with
+respect to the action and that no significant change
+has occurred regarding the information used during
+the initial consultation.
+
+   (4) If after consultation under subsection (a)(2) of
+this section, the Secretary concludes that--
+
+       (A) the agency action will not violate such
+     subsection, or offers reasonable and prudent
+     alternatives which the Secretary believes would
+     not violate such subsection;
+
+       (B) the taking of an endangered species or a
+     threatened species incidental to the agency action
+     will not violate such subsection; and
+
+       (C) if an endangered species or threatened
+     species of a marine mammal is involved, the
+     taking is authorized pursuant to section 1371(a)(5)
+     of this title;
+                                                                                           9a"
+
+the Secretary shall provide the Federal agency and
+the applicant concerned, if any, with a written
+statement that--
+
+       (i) specifies the impact of such incidental
+     taking on the species,
+
+       (ii) specifies those reasonable and prudent
+     measures that the Secretary considers necessary
+     or appropriate to minimize such impact,
+
+       (iii) in the case of marine mammals, specifies
+     those measures that are necessary to comply with
+     section 1371(a)(5) of this title with regard to such
+     taking, and
+
+       (iv) sets forth the terms and conditions (includ-
+     ing, but not limited to, reporting requirements)
+     that must be complied with by the Federal agency
+     or applicant (if any), or both, to implement the
+     measures specified under clauses (ii) and (iii).
+
+(c) Biological assessment
+
+   (1) To facilitate compliance with the requirements
+of subsection (a) (2) of this section, each Federal
+agency shall, with respect to any agency action of
+such agency for which no contract for construction
+has been entered into and for which no construction
+has begun on November 10, 1978, request of the
+Secretary information whether any species which is
+listed or proposed to be listed may be present in the
+area of such proposed action. If the Secretary
+advises, based on the best scientific and commercial
+data available, that such species may be present, such
+agency shall conduct a biological assessment for the
+purpose of identifying any endangered species or
+threatened species which is likely to be affected by
+such action. Such assessment shall be completed
+                                        10a
+
+within 180 days after the date on which initiated (or
+within such other period as is mutually agreed to by
+the Secretary and such agency, except that if a
+permit or license applicant is involved, the 180-day
+period may not be extended unless such agency
+provides the applicant, before the close of such period,
+with a written statement setting forth the estimated
+length of the proposed extension and the reasons
+therefor) and, before any contract for construction is
+entered into and before construction is begun with
+respect to such action. Such assessment may be
+undertaken as part of a Federal agency's compliance
+with the requirements of section 102 of the National
+Environmental Policy Act of 1969 (42 U.S.C. 4332).
+
+   (2) Any person who may wish to apply for an
+exemption under subsection (g) of this section for
+that action may conduct a biological assessment to
+identify any endangered species or threatened species
+which is likely to be affected by such action. Any
+such biological assessment must, however, be con-
+ducted in cooperation with the Secretary and under
+the supervision of the appropriate Federal agency.
+
+(d) Limitation on commitment of resources
+
+   After initiation of consultation required under
+subsection (a) (2) of this section, the Federal agency
+and the permit or license applicant shall not make any
+irreversible or irretrievable commitment of re-
+sources with respect to the agency action which has
+the effect of foreclosing the formulation or
+implementation of any reasonable and prudent
+alternative measures which would not violate
+subsection (a) (2) of this section.
+                                     lla
+
+(e) Endangered Species Committee
+
+   (1) There is established a committee to be known
+as the Endangered Species Committee (hereinafter in
+this section referred to as the "Committee").
+
+   (2) The Committee shall review any application
+submitted to it pursuant to this section and `deter-
+mine in accordance with subsection (h) of this section
+whether or not to grant an exemption from the
+requirements of subsection (a) (2) of this section for
+the action set forth in such application.
+
+                                                            * * * * *
+
+(h) Grant of exemption
+
+   (1) The Committee shall make a final deter-
+mination whether or not to grant an exemption
+within 30 days after receiving the report of the
+Secretary pursuant to subsection (g) (5) of this
+section. The Committee shall grant an exemption
+from the requirements of subsection (a) (2) of this
+section for an agency action if, by a vote of not less
+than five of its members voting in person--
+
+        (A) it determines on the record, based on the
+    report of the Secretary, the record of the hearing
+    held under subsection (g) (4) of this section and on
+    such other testimony or evidence as it may
+     receive, that--
+
+             (i) there are no reasonable and prudent
+        alternatives to the agency action;
+
+             (ii) the benefits of such action clearly
+        outweigh the benefits of alternative courses of
+        action consistent with conserving the species
+         or its critical habitat, and such action is in the
+        public interest;
+                                        12a
+
+             (iii) the action is of regional or national
+        significance; and
+
+             (iv) neither the Federal agency concerned
+        nor the exemption applicant made any irrever-
+        sible or irretrievable commitment of resources
+        prohibited by subsection (d) of this section; and
+
+       (B) it establishes such reasonable mitigation
+     and enhancement measures, including, but not
+    limited to, live propagation, transplantation, and
+    habitat acquisition and improvement, as are
+    necessary and appropriate to minimize the
+     adverse effects of the agency action upon the
+    endangered species, threatened species, or
+    critical habitat concerned.
+
+Any final determination by the Committee under this
+subsection shall be considered final agency action for
+purposes of chapter 7 of Title 5.
+
+  (2)(A) Except as provided in subparagraph (B), an
+exemption for an agency action granted under
+paragraph (1) shall constitute a permanent exemption
+with respect to all endangered or threatened species
+for the purposes of completing such agency action--
+
+             (i) regardless whether the species was
+         identified in the biological assessment; and
+
+             (ii) only if a biological assessment has
+         been conducted under subsection (c) of this
+        section with respect to such agency action.
+
+       (B) An exemption shall be permanent under
+    subparagraph (A) unless--
+
+              (i) the Secretary finds, based on the best
+         scientific and commercial data available, that
+        such exemption would result in the extinction
+                                  13a
+
+        of a species that was not the subject of
+        consultation under subsection (a) (2) of this
+        section or was not identified in any biological
+        assessment conducted under subsection (c) of
+         this section, and
+
+            (ii) the Committee determines within 60
+        days after the date of the Secretary's finding
+        that the exemption should not be permanent.
+
+If the Secretary makes a finding described in clause
+(i), the Committee shall meet with respect to the
+matter within 30 days after the date of the finding.
+
+                                                            * ****
+
+(o) Exemption as providing exception on
+         taking of endangered species
+
+   Notwithstanding sections 1533(d) and 1538(a)(1)(B)
+and (C) of this title, sections 1371 and 1372 of this
+title, or any regulation promulgated to implement any
+such section--
+
+      (1) any action for which an exemption is granted
+    under subsection (h) of this section shall not be
+    considered to be a taking of any endangered
+    species or threatened species with respect to any
+    activity which is necessary to carry out such
+    action; and
+
+      (2) any taking that is in compliance with the
+    terms and conditions specified in a written
+    statement provided under subsection (b)(4)(iv) of
+    this section shall not be considered to be a
+    prohibited taking of the species concerned.
+
+                                                            * * * *K *
+                                        l4a
+
+§ 1538. Prohibited acts
+
+(a) Generally
+
+   (1) Except as provided in sections 1535(g)(2) and
+1539 of this title, with respect to any endangered
+species of fish or wildlife listed pursuant to section
+1533 of this title it is unlawful for any person subject
+to the jurisdiction of the United States to--
+
+       (A) import any such species into, or export any
+    such species from the United States;
+
+       (B) take any such species within the United
+     States or the territorial sea of the United States;
+
+       (C) take any such species upon the high seas;
+
+        (D) possess, sell, deliver, carry, transport, or
+    ship, by any means whatsoever, any such species
+    taken in violation of subparagraphs (B) and (C);
+
+       (E) deliver, receive, carry, transport, or ship in
+     interstate or foreign commerce, by any means
+    whatsoever and in the course of a commercial
+    activity, any such species;
+
+       (F) sell or offer for sale in interstate or foreign
+    commerce any such species; or
+
+       (G) violate any regulation pertaining to such
+    species or to any threatened species of fish or
+     wildlife listed pursuant to section 1533 of this
+    title and promulgated by the Secretary pursuant
+    to authority provided by this chapter.
+
+   (2) Except as provided in sections 1535(g)(2) and
+1539 of this title, with respect to any endangered
+species of plants listed pursuant to section 1533 of
+                                  15a
+
+this title, it is unlawful for any person subject to the
+jurisdiction of the United States to--
+
+       (A) import any such species into, or export any
+     such species from, the United States;
+
+       (B) remove and reduce to possession any such
+     species from areas under Federal jurisdiction;
+     maliciously damage or destroy any such species
+     on any such area; or remove, cut, dig up, or
+     damage or destroy any such species on any other
+     area in knowing violation of any law or regulation
+     of any State or in the course of any violation of a
+     State criminal trespass law;
+
+       (C) deliver, receive, carry, transport, or ship in
+     interstate or foreign commerce, by any means
+     whatsoever and in the course of a commercial
+     activity, any such species;
+
+        (D) sell or offer for sale in interstate or foreign
+     commerce any such species; or
+
+        (E) violate any regulation pertaining to such
+     species or to any threatened species of plants
+     listed pursuant to section 1533 of this title and
+     promulgated by the Secretary pursuant to
+     authority provided by this chapter.
+
+                                                             * * ***
+
+ (g) Violations
+
+    It is unlawful for any person subject to the
+jurisdiction of the United States to attempt to
+
+ commit, solicit another to commit, or cause to be
+
+committed, any offense defined in this section.
+                                        l6a
+
+$ 1539. Exceptions
+
+(a) Permits
+
+   (1) The Secretary may permit, under such terms
+and conditions as he shall prescribe--
+
+       (A) any act otherwise prohibited by section
+     1538 of this title for scientific purposes or to
+     enhance the propagation or survival of the
+     affected species, including, but not limited to, acts
+    necessary for the establishment and maintenance
+    of experimental populations pursuant to sub-
+    section (j) of this section; or
+
+       (B) any taking otherwise prohibited by section
+     1538(a) (1) (B) of this title if such taking is
+    incidental to, and not the purpose of, the carrying
+    out of an otherwise lawful activity.
+
+  (2)(A) No permit may be issued by the Secretary
+authorizing any taking referred to in paragraph (1)
+(B) unless the applicant therefor submits to the
+Secretary a conservation plan that specifies--
+
+        (i) the impact which will likely result from
+      such taking;
+
+        (ii) what steps the applicant will take to
+      minimize and mitigate such impacts, and the
+      funding that will be available to implement such
+       steps;
+
+         (iii) what alternative actions to such taking
+      the applicant considered and the reasons why
+      such alternatives are not being utilized; and
+
+        (iv) such other measures that the Secretary
+      may require as being necessary or appropriate
+      for purposes of the plan.
+                                        17a
+
+   (B) If the Secretary finds, after opportunity for
+public comment, with respect to a permit application
+and the related conservation plan that--
+
+       (i) the taking will be incidental;
+
+       (ii) the applicant will, to the maximum extent
+     practicable, minimize and mitigate the impacts of
+     such taking;
+
+       (iii) the applicant will ensure that adequate
+     funding for the plan will be provided;
+
+       (iv) the taking will not appreciably reduce the
+     likelihood of the survival and recovery of the
+     species in the wild; and
+
+        (v) the measures, if any, required under
+     subparagraph (A) (iv) will be met;
+
+and he has received such other assurances as he may
+require that the plan will be implemented, the
+Secretary shall issue the permit. The permit shall
+contain such terms and conditions as the Secretary
+deems necessary or appropriate to carry out the
+purposes of this paragraph, including, but not limited
+to, such reporting requirements as the Secretary
+deems necessary for determining whether such
+terms and conditions are being complied with.
+
+   (C) The Secretary shall revoke a permit issued
+under this paragraph if he finds that the permittee is
+not complying with the terms and conditions of the
+permit.
+
+                                                             * * * * *
+
+(j) Experimental populations
+
+   (1) For purposes of this subsection, the term
+"experimental population" means any population
+                                        18a
+
+(including any offspring arising solely therefrom)
+authorized by the Secretary for release under
+paragraph (2), but only when, and at such times as,
+the population is wholly separate geographically from
+nonexperimental populations of the same species.
+
+   (2)(A) The Secretary may authorize the release
+(and the related transportation) of any population
+(including eggs, propagules, or individuals) of an
+endangered species or a threatened species outside
+the current range of such species if the Secretary
+determines that such release will further the
+conservation of such species.
+
+   (B) Before authorizing the release of any
+population under subparagraph (A), the Secretary
+shall by regulation identify the population and
+determine, on the basis of the best available
+information, whether or not such population is
+essential to the continued existence of an endangered
+species or a threatened species.
+
+   (C) For the purposes of this chapter, each member
+of an experimental population shall be treated as a
+threatened species; except that--
+
+       (i) solely for purposes of section 1536 of this
+     title (other than subsection (a) (1) thereof), an
+     experimental population determined under sub-
+     paragraph (B) to be not essential to the continued
+     existence of a species shall be treated, except
+     when it occurs in an area within the National
+     Wildlife Refuge System or the National Park
+     System, as a species proposed to be listed under
+     section 1533 of this title; and
+
+       (ii) critical habitat shall not be designated under
+     this chapter for any experimental population
+     determined under subparagraph (B) to be not
+     essential to the continued existence of a species.
+                                         19a
+
+   (3) The Secretary, with respect to populations of
+endangered species or threatened species that the
+
+Secretary authorized, before October 13, 1982, for
+
+release in geographical areas separate from the other
+populations of such species, shall determine by
+regulation which of such populations are an experi-
+mental population for the purposes of this subsection
+and whether or not each is essential to the continued
+existence of an endangered species or a threatened
+species.
+
