@@ -1,0 +1,1472 @@
+SOURCE-ONLY: exact OCR of petitioner merits brief substantive body. Covers and procedural opening omitted. Retained OCR page markers. No framing or completeness certification.
+
+CONSTITUTIONALAND 
+STATUTORY PROVISIONS INVOLVED 
+
+
+Title 18, Section 6 provides as follows: 
+
+
+The term “department” means one of the 
+executive departments enumerated in section 
+1 [now section 101] of Title 5, unless the 
+context shows that such term was intended to 
+describe the executive, legislative, or judicial 
+branches of the government. 
+
+
+The term “agency” includes any 
+department, independent establishment, 
+commission, administration, authority, board 
+or bureau of the United States or any 
+corporation in which the United States has a 
+proprietary interest, unless the context shows 
+that such term was intended to be used in a 
+more limited sense. 
+
+
+2 
+Title 18, Section 1001 provides: 
+
+
+Whoever, in any matter within the 
+jurisdiction of any department or agency of 
+the United States knowingly and willfully 
+falsifies, conceals or covers up by any trick, 
+scheme, or device a material fact, or makes 
+any false, fictitious or fraudulent statements 
+or representations, or makes or uses any false 
+writing or document knowing the same to 
+contain any false, fictitious or fraudulent 
+statement or entry, shall be fined not more 
+than $10,000 or imprisoned not more than 
+five years, or both. : 
+
+
+STATEMENT OF THE CASE 
+
+
+In 1985, the petitioner filed a petition for bankruptcy under 
+Chapter 7 of the Bankruptcy Code. During the course of the 
+bankruptcy proceedings, a successor trustee filed an amended 
+complaint (J.A. 3-4) and a motion for an order requiring the 
+petitioner to surrender records of his businesses. (J.A. 5-7). The 
+petitioner filed through counsel an answer to the complaint (J.A. 
+11-12) and a response to the motion. (J.A. 8-10). On the ground 
+that the answer and response were knowingly false, the petitioner 
+was charged in counts five, six and seven of a ten-count 
+indictment with making false statements in violation of 18 U.S.C. 
+§ 1001.'(J.A. 13-16). 
+
+
+Paragraph three of the successor trustee’s motion alleged 
+that in response to a request of the original trustee, the petitioner 
+had failed to surrender requested books and records. (J.A. 6-7). 
+
+
+1. The petitioner was also charged with four counts of bankruptcy fraud 
+in violation of 18 U.S.C. § 152 (Counts 1-4) and three counts of mail fraud in 
+violation of 18 U.S.C. § 1341 (Counts 8-10). 
+
+
+3 
+
+
+The petitioner’s alleged false response, which comprised count 
+five, was as follows: “That in Answer to the allegations contained 
+in Paragraph Three of Trustee's Motion, Debtor denies same for 
+the reason it is untrue. Debtor further states that the original 
+trustee requested records, books, and documents which were 
+delivered to her place of business and from which she 
+photocopied many documents and surrendered the balance of the 
+documents to the Debtor. Debtor further states that at no time has 
+the Trustee nor his agents contacted Debtor or Debtor’s attorney 
+and requested the materials alleged to herein.” (J.A. 10). 
+Testimony adduced by the Government at the petitioner’s 
+criminal trial concerning count five established that after the 
+petitioner had filed the response, the bankruptcy judge entered an 
+order directing the petitioner to turn over documents at which 
+time the petitioner delivered a carton of documents to the 
+successor trustee. Government's Court of Appeals Brief at 14-15. 
+
+
+Counts six and seven were based upon two of the petitioner’s 
+denials contained in his answer to the trustee’s amended 
+complaint regarding the location of assets. Paragraph 10 of the 
+complaint alleged that a well-drilling machine was stored at a 
+certain address. (J.A. 4). The petitioner’s answer to paragraph 10 
+of the complaint, which comprised count six of the indictment, 
+was as follows: “That in Answer to the allegations contained in 
+Paragraph Ten of Trustee’s First Amended Complaint Debtor 
+denies same for the reason it is untrue.” (J.A. 12). Paragraph 13 of 
+the complaint alleged that drill bits and a drilling mechanism 
+were at one time being stored on a certain property. (J.A. 4). The 
+petitioner’s answer to paragraph 13, which comprised count 
+seven of the indictment, was as follows: “That in Answer to the 
+allegations contained in Paragraph Thirteen of Trustee’s First 
+Amended Complaint Debtor denies same for the reason it is 
+untrue.” (J.A. 12). At the petitioner’s criminal trial, the 
+Government presented testimony with regard to counts six and 
+seven that the petitioner had stored some items at the property. 
+
+
+4 
+
+
+Government's Court of Appeals Brief at 15-16. The Government 
+also presented evidence that when the petitioner had attempted to 
+insure the well-driller and drill bits approximately one year prior 
+to the filing of his answer, he had represented that the drilling 
+mechanism was then located at the property in question. /d., at 16. 
+
+
+The petitioner was found guilty of all ten counts and was 
+sentenced on counts one through nine to concurrent 24-month 
+terms of incarceration. On count 10, sentence was suspended and 
+the petitioner was placed on probation for five years to 
+commence upon expiration of his prison sentence. On each of the 
+10 counts, the petitioner was assessed a consecutive fine. 
+
+
+On appeal to the Sixth Circuit, the petitioner challenged the 
+§ 1001 convictions on the ground, inter alia, that the false 
+statements fell outside the scope of § 1001. In a split opinion, the 
+majority affirmed. United States v. Hubbard, 16 F.3d 694 (6th 
+Cir. 1994). 
+
+
+ARGUMENT 
+A. 
+
+
+This case raises the question whether the so-called “judicial 
+function” exception to Title 18, § 1001 bars the convictions of a 
+party to a bankruptcy proceeding for false answers to a complaint 
+and for a false response to a discovery motion. The question calls 
+for a determination of the scope of § 1001's applicability to 
+judicial proceedings which must comme nce with an examination 
+of the language of the statute. United States v. Turkette, 452 U.S. 
+576, 580, 101 S. Ct. 2524, 2527, 69 L. Ed. 2d 246 (1981). Title 18, 
+§ 1001 provides: 
+
+
+Whoever, in any matter within the 
+jurisdiction of any department or agency of 
+
+
+5 
+
+
+the United States knowingly and willfully 
+falsifies, conceals or covers up by any trick, 
+scheme, or device a material fact, or makes 
+any false, fictitious or fraudulent statements 
+or representations, or makes or uses any false 
+writing or document knowing the same to 
+contain any false, fictitious or fraudulent 
+statement or entry, shall be fined not more 
+than $10,000 or imprisoned not more than 
+five years, or both. 
+
+
+The terms “department” and “agency” are defined in Title 
+18, § 6 which provides as follows: 
+
+
+The term “department” means one of the 
+executive departments enumerated in section 
+1 [now section 101] of Title 5, unless the 
+context shows that such term was intended to 
+describe the executive, legislative, or judicial 
+branches of the government. 
+
+
+The term “agency” includes any 
+department, independent establishment, 
+or bureau of the United States or any 
+corporation in which the United States has a 
+proprietary interest, unless the context shows 
+that such term was intended to be used in a 
+
+
+Title 5, § 101 lists as executive departments the Departments of 
+State, Treasury, Defense, Justice, Interior, Agriculture, 
+Commerce, Labor, Health and Human Services, Housing and 
+Urban Development, Transportation, Energy, Education, and 
+Veteran Affairs. 
+
+
+i 
+
+
+6 
+
+
+The Reviser’s Note to Title 18, § 6 states the following: 
+
+
+The word “department” appears 57 times in 
+Title 18, U.S.C., 1940 ed., and the word 
+“agency” 14 times. It was considered 
+necessary to define clearly these words in 
+order to avoid possible litigation as to the 
+scope or coverage of a given section 
+containing such words. (See United States v. 
+Germaine, 1878, 99 U.S. 508, 25 L.Ed. 482, 
+for definition of words “department” or “head 
+
+
+of department.”) 
+
+
+Germaine was cited in Freytag v. Commissioner of Internal 
+Revenue, 501 U.S. __, __, 111 S. Ct. 2631, 2642, 115 L. Ed. 2d 
+764 (1991), wherein the Court noted in pertinent part: 
+
+
+This Court for more than a century has held 
+that the term “Department” refers only to “‘a 
+part or division of the executive government, 
+as the Department of State, or of the 
+Treasury,” expressly “creat[ed]” and “give[n] 
+the name of a department” by Congress. 
+Germaine, 99 U.S., at 510-11. See also 
+Burnap [v. United States}, 252 U.S. [512], at 
+515, 40 S.Ct. [374], at 376 [64 L.Ed. 592 
+(1920)} (“The term head of a Department 
+means... the Secretary in charge of a great 
+division of the executive branch of the 
+Government, like the State, Treasury, and 
+War, who is a member of the Cabinet”). 
+
+
+The plain language of § 1001 and the definitions of 
+“department” and “agency” unambiguously establish that the 
+statute does not apply to statements made to the courts. Because 
+
+
+7 
+
+
+“the statutory language is unambiguous, in the absence of ‘a 
+clearly expressed legislative intent to the contrary, that language 
+must ordinarily be regarded as conclusive.’” Turkette, 452 U.S., 
+at 580, 101 S. Ct., at 2527, quoting Consumer Product Safety 
+Comm'n v. GTE Sylvania, Inc., 447 U.S. 102, 108, 100 S. Ct. 
+2051, 2056, 64 L. Ed. 2d 766 (1980). Where Congress intends a 
+Title 18 statute concerning “departments” and “agencies” to 
+include “courts” or the “judicial branch” within its ambit, it so 
+provides in the statute. See, e.g., 18 U.S.C. Appendix 2, § 5 (“All 
+courts, departments, agencies, officers, and employees of the 
+United States. . .”); 18 U.S.C. § 203(a)(1), (b)(1) (“. . . before any 
+department, agency, court, .. .”); 18 U.S.C. § 666(d)(2) (“the 
+term ‘government agency’ means a subdivision of the executive, 
+legislative, judicial, or other branch of government, .. .”); 18 
+U.S.C. § 1030(a)(7) (“the term ‘department of the United States’ 
+means the legislative or judicial branch of the Government or one 
+of the executive departments enumerated in section 101 of title 
+5"); 18 U.S.C. § 2515 (“... before any court, grand jury, 
+department, officer, agency, regulatory body, legislative 
+committee, or other authority of the United States,...”); 18 
+U.S.C. § 2518 (10)(a) (“Any aggrieved person in any trial, 
+hearing, or proceeding in or before any court, department, officer, 
+agency, regulatory body, or other authority of the United 
+States,. . .”); 18 U.S.C. § 2710(d) (“. . . in or before any court, 
+grand jury, department, officer, agency,...”); 18 U.S.C. 
+§ 3504(a) (“In any trial, hearing, or other proceeding in or before 
+any court, grand jury, department, officer, agency, ...”). 
+Accordingly, the petitioner's statements fall outside the ambit of 
+§ 1001, having been made within the jurisdiction of a court and 
+not within the jurisdiction of a “department” or “agency” as 
+defined by Congress. 
+
+
+However, in United States v. Bramblett, 348 U.S. 503, 509, 
+75 S. Ct. 504, 508, 99 L. Ed. 594 (1955), this Court stated in 
+dictum that the word “department” “was meant to describe the 
+
+
+executive, legislative and judicial branches of the Government.” 
+(Emphasis supplied). As discussed in greater detail below in “B”, 
+the courts of appeals have adhered to Brambilett’s dictum, often 
+with express misgivings. Indeed, in this case, the Court of 
+Appeals stated that “[a)t first glance, one might be tempted to 
+believe that the plain language of the statute prohibits application 
+of § 1001 to the case at bar” because in “ordinary usage”, the 
+terms “department” and “agency” mean the divisions of the 
+executive branch “and not the whole or any divisions of the 
+judicial or legislative branches — Congress is not the Department 
+of Lawmaking, nor is the U.S. Court of Appeals the Appellate 
+Adjudication Agency. And the statutory definitions section of 
+Title 18 [i.e., § 6] seems to support this common sense view.” 
+Hubbard, 16 F.3d, at 703 n.4. However, the Court of Appeals 
+opined that because Brambiett “has instructed us that the ‘any 
+department or agency’ language of § 1001 is not to be restricted 
+by § 6”, it was “necessary to reject Hubbard's plain language 
+argument. . .”. /d., at 699. 
+
+
+The case at bar questions Brambilett’s conclusions and raises 
+the issue whether Brambiett’s holding and/or “dictum, and the 
+Court[s] of Appeals’ reliance upon it, cannot be squared with 
+congressional intent, and should be ‘recede[d] from’ now that the 
+issue ... is ‘squarely presented.’ NLRB v. Hendricks County 
+Rural Electric Membership Corporation, 454 U.S. 170, 188, 102 
+S. Ct. 216, 228, 70 L. Ed. 24 323 (1981), quoting NLRB v. Boeing 
+Co., 412 U.S. 67, 72, 93 S. Ct. 1952, 1955, 36 L. Ed. 2d 752 
+(1973). 
+
+
+In Bramblett, a former member of Congress was prosecuted 
+under § 1001 for a false representation to the disbursing office of 
+the House of Representatives. In the district court, the defendant 
+challenged the applicability of the statute to the legislative 
+branch. The government argued that the statute was not 
+ambiguous and that Congress intended the statute to apply to all 
+
+
+9 
+
+
+branches of the Government. The district court reviewed the 
+history of § 1001, Congress’ definitions of “department” and 
+“agency”, the “significant” Reviser’s Notes to 18 U.S.C. § 6 as 
+well as Congress’ use of the term “department” in other statutes. 
+United States v. Brambiett, 120 F. Supp. 857, 858-864 
+(D.D.C.1954). Finding the issue to be one of first impression, the 
+district court reasoned that “[i)t seems apparent ... upon a 
+reading of . . . Section 6 of Title 18 and Section 1 of Title 5, that 
+Congress intended to limit the words ‘department or agency’ to 
+the executive branches of the Government unless the context 
+shows that such term was intended to include the legislative or 
+judicial branches of the Government.” Bramblett, 120 F. Supp., at 
+862. The district court cited other provisions in Title 18 as 
+examples of contexts where Congress intended the terms 
+“department or agency” to describe branches of Government 
+other than the executive. Concluding that there was reasonable 
+doubt as to the scope of § 1001, the district court resolved the 
+doubt in favor of the defendant. /d., at 862-864 
+
+
+On direct appeal by the Government, this Court reversed.” 
+The decision, which turned upon a view of the legislative history 
+of the statute contrary to that of the disirict court, found no 
+evidence in committee reports or debates that the statute was to 
+have a restricted scope. The Court felt that the terms “department 
+or agency” were “apparently” added “to indicate that not all 
+falsifications but only those made to government organs were 
+reached”, Bramblett, 348 U.S., at 507, 75 S. Ct., at 507, and that 
+the legislative history “dispels the possibility of attaching any 
+significance” to the new phraseology. /d., at 508. With regard to 
+Congress’ definitions of “department” and “agency” in 18 U.S.C. 
+§ 6, the Court concluded that “[ijt would do violence to the 
+purpose of Congress to limit the section to falsifications made to 
+the executive departments. Congress could not have intended to 
+
+
+2. The Chief Justice and Justices Burton and Harlan did not participate. 
+
+
+10 
+
+
+leave frauds such as this without penalty.” Brambiett, 348 U.S. at 
+509, 75S. Ct. at 508. 
+
+
+The decision in Bramblett is contrary to the plain language of 
+§ 1001. In deeming the terms “department or agency” 
+insignificant, the Bramblett Court violated the “ancient and 
+sound rule of construction that each word in a statute should, if 
+possible, be given effect.” Crandon v. United States, 494 U.S. 
+152, 171, 110S. Ct. 997, 1000, 108 L. Ed. 2d 132 (1990) (Scalia, 
+J., concurring). From this rule of construction it logically follows 
+that when Congress supplies definitions for statutory words, as is 
+the case here, effect must be given to the definitions as well. In 
+failing to so construe the terms of § 1001, Brambiett improperly 
+broadened the scope of the statute beyond its plain language and 
+wrongfully “resort[ed] to legislative history to cloud a statutory 
+text that is clear.” Ratzlaf v. United States, __ U.S. __, __, 1145S. 
+Ct. 655, 662, 126 L. Ed. 2d 615 (1994). 
+
+
+In any event, the sparse legislative history relied upon in 
+Bramblett is hardly conclusive. In fact, it is equally supportive of 
+the contrary conclusion that the statute was not intended to apply 
+to conduct or statements made to the judiciary. “Because 
+construction of a criminal statute must be guided by the need for 
+fair warning, it is rare that legislative history or statutory policies 
+will support a construction of a statute broader than that clearly 
+warranted by the text.” Crandon, 494 U.S., at 160, 110 S. Ct., at 
+1002. A review of the legislative history of § 1001 reveals that we 
+are not here dealing with that “rare” case, but one which, 
+consistent with providing “fair warning”, demands a construction 
+no broader than the terms of the statute itself as well as the 
+definitions of those terms supplied by Congress. 
+
+
+The Act of October 23, 1918, Ch. 194, 40 Stat. 1015, was the 
+first federal criminal statute prohibiting the making of a false 
+statement. United States v. Yermian, 468 U.S. 63, 70, 104 S. Ct. 
+
+
+ll 
+
+
+2936, 2940, 82 L. Ed. 2d 53 (1984). The statute provided, inter 
+alia, that whoever “for the purpose and with the intent of cheating 
+and swindling or defrauding the Government of the United 
+States, or any department thereof shall knowingly and willfully 
+falsify or conceal or cover up by any trick, scheme, or device a 
+material fact, or make or cause to be made any false or fraudulent 
+statements or representations, or make or use or cause to be made 
+or used any false bill, receipt, voucher,” etc., shall be punishable 
+by fine or imprisonment or both. In United States v. Cohn, 270 
+U.S. 339, 46 S. Ct. 251, 70 L. Ed. 616 (1926), the Government 
+argued that the terms “with the intent of defrauding” should be 
+broadly construed as intending not merely cheating the 
+Government out of property or money, but also in the sense of 
+interfering with or obstructing a lawful governmental function by 
+deceit and fraud. This Court rejected the Government's broad 
+reading. “[I}f Congress had intended to prohibit all intentional 
+deceit of the Federal Government, it would have used the broad 
+language then employed in 18 U.S.C. Sec. 37, which ‘by its 
+specific terms, extends broadly to every conspiracy . . .’ with no 
+words of limitation whatsoever.” Yermian, 468 U.S., at 71, 104S. 
+Ct., at 2940, quoting Cohn, 270 U.S., at 346, 46S. Ct., at 253. 
+
+
+Under this version of the statute, the Secretary of the Interior 
+felt unable to enforce the provisions of the National Industrial 
+Recovery Act of 1933 which prohibited interstate transportation 
+of “hot oil.” Congress therefore passed H.R. 8046, which 
+prohibited the making of false statements “to any matter within 
+the jurisdiction of any department, establishment, 
+administration, agency, office, board, or commission of the 
+United States . . .”. President Roosevelt vetoed the bill not only 
+because it was no broader than the 1918 Act, but also because it 
+reduced the penalties. Yermian, 468 U.S., at 71, 104 S. Ct., at 
+2941. “This was hardly the measure needed to increase the 
+protection of federal agencies from the variety of deceptive 
+practices plaguing the New Deal administration.” /d. 
+
+
+12 
+
+
+Congress reacted by passing the Act of June 18, 1934, 48 
+Stat. 996. The 1934 provision was enacted eliminating the 
+
+
+“purpose” clauses and penalizing anyone who 
+
+
+shall knowingly and willfully falsify or 
+conceal or cover up by any trick, scheme, or 
+device a material fact, or make or cause to be 
+made any false or fraudulent statements or 
+representations .. . in any matter within the 
+jurisdiction of any department or agency of 
+the United States... . 
+
+
+This enactment came “at the urging of some of the newly created 
+regulatory agencies”. United States v. Rodgers, 466 U.S. 475, 
+478, 104 S. Ct. 1942, 1945, 80 L. Ed. 2d 492 (1984). There is 
+nothing in the legislative history of the statute that indicates any 
+intention to criminalize statements made in judicial proceedings. 
+To the contrary, the legislative history indicates the terms 
+“department” and “agency” were employed in lieu of language 
+that would have limited application of the statute to matters 
+within the jurisdiction of the Secretary of the Interior, 
+Administrator of the Federal Emergency Administration of 
+Public Works, or Administrator of the Code of Fair Competition 
+for the Petroleum Industry, “so as to cover all the departments.” 
+78 Cong. Rec. 2858-2859 (1934). Congress’ driving force was its 
+intent to make the law “applicable to the new operations of the 
+Government”, 78 Cong. Rec. 3724 (1934), which obviously 
+would not include the courts. The types of activities in question 
+were far removed from the judiciary. See 78 Cong. Rec. 11270 
+(1934) (“There is nothing which permits us to make an 
+investigation and prosecute persons who are engaged in the 
+‘kick-back’ practice. They make false returns, claiming that they 
+
+
+3. The 1934 act proscribed false claims and false statements. In 1948, the 
+false claims provision was codified as 18 U.S.C. § 287 and the false statement 
+provision as 18 U.S.C. § 1001. 
+
+
+13 
+
+
+paid certain amounts to their employees, when they have not done 
+so. This bill just amends the law so as to give the Federal 
+Government authority to deal with that class of cases.”). See also 
+S. Rep. No. 1202, 730 Cong., 2d Sess. (1934) (amendment was 
+designed to reach “hot oil” cases, and also cases involving 
+contractors on Public Works Administration projects who 
+falsified certificates as to the wages being paid). As amended, the 
+statute reflected “the congressional intent to protect the 
+authorized functions of governmental departments and agencies 
+from the perversion which might result from the deceptive 
+practices described.” United States v. Gilliland, 312 U.S. 86, 93, 
+61S. Ct. 518, 522, 85 L. Ed. 598 (1941). 
+
+
+As previously noted, where Congress has intended a statute 
+which concerns “departments” and “agencies” to be broader than 
+the statutory definitions of 18 U.S.C. § 6, it has so provided. In 
+fact, the phrase “before any department” has been found to 
+express a Congressional intent to exclude courts. See, e.g., United 
+States v. Waldin, 122 F. Supp. 903 (E.D. Pa. 1954); United States 
+v. Adams, 115 F. Supp. 731 (D.N.D. 1953). “That Congress did 
+not include such language, either in the 1934 enactment or in the 
+1948 revision, provides convincing evidence. . .” that the statute 
+was not intended to reach courts. Yermian, 468 U.S., at 72, 104 S. 
+Ct., at 2942. Alternatively, if there has been an intention to 
+include the judiciary, Congress could have enacted the statute 
+“with no words of limitation. . .”. Yermian, 468 U.S., at 71, 104 
+S. Ct., at 2940, quoting Cohn, 270 U.S., at 346, 46S. Ct., at 253. 
+Neither being the case here, the legislative history, at best for the 
+Government, is ambiguous, and at worst for the Government, 
+demonstrates an intent consistent with the statute’s express 
+limitation to statements made to “departments” or “agencies” as 
+those terms have been previously defined and commonly 
+understood and as those terms are defined in § 6 of Title 18. 
+
+
+Bramblett was also concerned that “Congress could not have 
+
+
+14 
+
+
+intended to leave frauds such as this without penalty.” Bramblett, 
+348 U.S. at 509, 75 S. Ct. at 508. Such a concern cannot justify a 
+judicial broadening of the scope of a statute for several reasons. 
+First, it is not for the courts to legislate criminal liability where 
+Congress has not, United States v. Bass, 404 U.S. 336, 348, 92S. 
+Ct. 515, 522-523, 30 L. Ed. 2d 488 (1971), and certainly not in 
+the name of statutory construction. 
+
+
+Second, Bramblett’s concern is ill-founded because there is 
+no glaring gap in coverage. Congress has provided criminal 
+penalties in Title 18 for acts of fraud or dishonesty committed in 
+judicial proceedings. See, e.g., § 401 (contempt); § 1501 et seq. 
+(obstruction of justice); § 1512 (improper influence of official 
+proceeding); § 1621 (perjury); § 1622 (subornation of perjury); 
+§ 1623 (false declarations).* Additionally, Rule 11 of the Federal 
+
+
+4. This Court has been reluctant to ascribe to Congress an intent to 
+criminalize behavior where the statutory language hints of no such intent and 
+where such behavior is amply addressed elsewhere. For example, in Williams v. 
+United States, 458 U.S. 279, 287, 102 S. Ct. 3088, 3093, 73 L. Ed. 2d 767 
+
+
+(1982), this Court stated in pertinent part the following in interpreting § 1014: 
+
+
+Yet, if Congress really set out to enact a national bad 
+check law in Sec. 1014, it did so with a peculiar choice 
+of language and in an unusually backhanded manner. 
+Federal action was not necessary to interdict the 
+deposit of bad checks, for, as Congress surely knew, 
+fraudulent checking activities already were addressed 
+in comprehensive fashion by state law. [citation 
+omitted) Absent support in the legislative history for 
+the proposition that Sec. 1014 was “designed to have 
+general application to the passing of worthless 
+checks,” [citation omitted] we are not prepare to hold 
+petitioner's conduct proscribed by that particular 
+statute. 
+Thus, here, as was the case in Williams, “(t}he legislative history does not 
+demand a broader reading of the statute.” 458 U.S., at 288, 102 S. Ct., at 3094. 
+
+
+15 
+
+
+Rules of Civil Procedure authorizes the impositions of sanctions 
+upon counsel and parties. See Business Guides, Inc. v. Chromatic 
+Communications Enterprises, Inc.,498 U.S. 533, 111 S. Ct. 922, 
+112 L. Ed. 2d 1140 (1991). While it is true that prosecution under 
+§ 1001 is not precluded merely because another statute may 
+proscribe the same conduct, Woodward, 469 U.S. 105, at 109-110 
+(1985) , the question here is not one of preclusion but of intended 
+scope, i.e., whether § 1001 should apply in the first place. The 
+existence of other and more specific means of policing false 
+pleadings filed by parties during litigation offers additional 
+support to the observation, shared by nearly every court of 
+appeals that has addressed the issue, that “(t]he legislative history 
+{of § 1001] reveals no evidence of an intent to pyramid 
+punishment for offenses covered by another statute as well as by § 
+1001.” United States v. Masterpol, 940 F.2d 760 (2d Cir. 1991). 
+See also United States v. Mayer, 775 F.2d 1387, 1390 (9th Cir. 
+1985) (§ 1001 “should not be permitted to swallow up perjury and 
+other federal statutes”); United States v. Rose, 570 : 2d 1358, 
+1363 (9th Cir. 1978) (legislative history reveals no e\ dence of 
+intent to pyramid); United States v. Erhardt, 381 F.2d 173, 175 
+(6th Cir. 1967) (application of § 1001 to judicial proceedings 
+would undermine the effectiveness of the perjury statutc); 
+Friedman v. United States, 374 F.2d 363, 367 (8th Cir. 1967) (“a 
+strict application of this statute would remove the time-honored 
+and now necessary formality of requiring witnesses to testify 
+under oath.”).° 
+
+
+Finally, as discussed in greater detail below, almost 
+
+
+5. Also consistent with this view is the United States Attorneys’ Manual 
+which, as noted in United States v. Deffenbagh, 957 F.2d 749, 752 (10th Cir. 
+1992), “provides that ‘[p}Jrosecutions should not be brought under 18 U.S.C. 
+$ 1001 for false statements submitted in federal court proceedings,’ but rather 
+such prosecutions should be under 18 U.S.C. §§ 1503 and 1621.” See United 
+States Department of Justice, United States Attorney’s Manual, § 9-69.267 
+(1984). 
+
+
+16 
+
+
+immediately after Bramblett was decided, the courts of appeals 
+commenced carving out exceptions to that decision, imposing 
+various restrictions upon the applicability of § 1001 to judicial 
+proceedings. Those restrictions have been in place for more than 
+three decades during which time Congress has taken no action to 
+repudiate them. If the limitless scope of § 1001 suggested by the 
+Government were intended by Congress, one might reasonably 
+have expected during this substantial period of time some 
+Congressional response to the restrictions in the form of 
+amendment to the statute to expressly include the judicial branch. 
+
+
+Even assuming, arguendo, that the term “department” 
+includes the judiciary, the conclusion that § 1001 was not 
+intended to reach documents such as those filed by the petitioner 
+is, at the very least, equally plausible, as evidenced by the failure 
+of any circuit to have held that § 1001 applies to documents filed 
+by a party in the course of litigation under circumstances such as 
+those in the case at bar. The “time-honored interpretive 
+guideline” that “ambiguity concerning the ambit of criminal 
+statutes should be resolved in favor of lenity”, Dowling, 473 U.S., 
+at 228, 105S. Ct., at 3139, quoting Liparota v. United States, 471 
+U.S. 419, 427, 105 S. Ct. 2004, 2089 (1985), quoting in turn 
+Rewis v. United States, 401 U.S. 808, 812, 91 S. Ct. 1056, 1059, 
+28 L. Ed. 2d 493 (1971), warrants adoption of the narrower 
+construction. “[W]Jhen choice has to be made between two 
+readings of what conduct Congress has made a crime, it is 
+appropriate, before we choose the harsher alternative, to require 
+that Congress should have spoken in language that is clear and 
+definite.” United States v. Universal C.1.T. Credit Corp., 344 U.S. 
+218, 221-222, 73 S. Ct. 227, 229, 97 L. Ed. 260 (1952), quoted in 
+Dowling, 473 U.S., at 214, 105 S. Ct., at 3131, in Williams, 458 
+U.S., at 286, 102 S. Ct., at 3094, and in Bass, 404 U.S., at 347, 92 
+S.Ct., at 522. 
+
+
+This principle advances two policies: “first, ‘a fair warning 
+should be given to the world in a language that the common world 
+
+
+17 
+
+
+will understand, of what the law intends to do if a certain line is 
+passed. To make the warning fair, so fair as possible the line 
+should be clear.’ McBoyle v. United States, 283 U.S. 25,27,51S. 
+Ct. 340, 341,75 L. Ed. 816 (1931) (Holmes, J.).” Bass, 404 U.S., 
+at 348, 92 S. Ct., at 522. See also United States v. Cardiff, 344 
+U.S. 174, 73 S. Ct. 189, 97 L.Ed. 200 (1952); United States v. 
+Wiltberger, 5 Wheat. 76, 95, 5 L. Ed. 37 (1820). Second, because 
+of the seriousness of criminal penalties, and because criminal 
+punishment usually represents the moral condemnation of the 
+community, legislatures and not courts should define criminal 
+activity. “This policy embodies the ‘instinctive distastes against 
+men languishing in prison unless the lawmaker has clearly said 
+they should.’ H. Friendly Mr. Justice Frankfurter and the Reading 
+of Statutes, in Benchmarks 196, 209 (1967).” Bass, 404 U.S., at 
+348, 92 S. Ct., at 522-523. It is probably fair to say that most 
+members of the bar would be startled to learn that a false denial 
+contained in an answer to a complaint filed in a federal court 
+subjects the maker to criminal liability under § 1001. Of course, 
+that fact alone would obviously not be dispositive of the scope of 
+§ 1001. However, it is certainly significant that for the past sixty 
+years, there has been no signal from the Congress or the courts to 
+the contrary and consequently no “fair warning” that such 
+conduct has been marked for criminal prosecution. 
+
+
+Allowing § 1001 prosecutions in connection with litigation 
+and discovery poses grave potential for abuse. The Tenth Circuit 
+expressed its concern on this matter in Deffenbagh, supra, in the 
+context of a discovery subpoena issued in connection with a 
+grand jury probe. The defendant was charged with a § i001 
+violation upon the allegation that he did not supply all of the 
+documents requested. The Court of Appeals stated: 
+
+
+We are also reluctant to allow the Justice 
+Department, which apparently initiated the 
+discovery subpoena, the power to prosecute 
+
+
+18 
+
+
+under § 1001 persons who allegedly did not 
+comply completely. There is considerable 
+room for error or misunderstanding in 
+compliance with subpoenas duces tecum. 
+Parties considering discovery requests in any 
+litigation situation, including grand jury 
+proceedings, often will interpret such 
+commands narrowly. To give the Department 
+of Justice power to prosecute allegedly false 
+statements under Sec. 1001 in connection 
+with a form affidavit of compliance with a 
+subpoena would give the government a more 
+powerful weapon than we believe Congress 
+- intended. 
+
+
+Deffenbagh, 957 F.2d, at 754.° The same considerations apply to 
+the preliminary stages of litigation where parties have yet to 
+undertake investigations or frame all of the issues but are 
+operating under the pressures of time constraints and procedural 
+requirements imposed by the applicable court rules.’ 
+
+
+Because 1001 has not “plainly and unmistakably” rendered 
+
+
+6. The testimony relied upon by the Government to convict the 
+petitioner for his discovery response that he was not in possession of the 
+requested documents established that the petitioner did turn over the 
+documents in response to an order of the bankruptcy judge. This is precisely 
+the type of dispute which can give rise to “considerable room for error or 
+misunderstanding in compliance”, Deffenbagh, 957 F.2d, at 754, and is ill- 
+suited to resolution via criminal prosecution. 
+
+
+7. Subjecting all pleadings filed in federal litigation to the possibility of 
+criminal liability under § 1001 could have other farreaching consequences. 
+Prevailing parties, especially those in hotly contested matters or those who are 
+vindictive, will be encouraged to refer for prosecution the losing parties or 
+their counsel for having made “statements” that could be deemed “false” or for 
+having “concealed” or “covered up”. 
+
+
+19 
+
+
+filings in litigation such as the petitioner's subject to criminal 
+punishment, Bass, 404 U.S., at 348, 92S. Ct., at 522, and because 
+the “text, structure and history fail to establish that the 
+Government’s position is unambiguously correct”, United States 
+v. Granderson, __ U.S. __, 114S. Ct. 1259, 1267, 127 L. Ed. 2d 
+611 (1994), the petitioner’s § 1001 convictions are invalid. 
+
+
+Even if § 1001 applies to judicial proceedings, virtually all of 
+the courts of appeals have concluded that the statute is not 
+without some limitations in the judicial arena. However, in the 
+various applications of § 1001 addressed and/or approved by this 
+Court, none to date has involved statements made in court. See, 
+e.g., Yermian, supra (false statements to employer eventually 
+submitted to federal agency); Rodgers, supra (false statement to 
+FBI and Secret Service that wife had been kidnapped and that she 
+was involved in a plot to assassinate the president); United States 
+v. Knox, 396 U.S. 77, 90S. Ct. 363, 24 L. Ed. 2d 275 (1969) (false 
+wagering registration form filed with Internal Revenue Service); 
+Bryson v. United States, 396 U.S. 64, 90S. Ct. 355, 24 L. Ed. 2d 
+264 (1969) (affidavit filed with National Labor Relations Board 
+falsely denying affiliation with Communist Party); United States 
+v. Bramblett, supra (statement to disbursing office of House of 
+Representatives); United States v. Gilliland, supra (false reports 
+filed with Secretary of Interior concerning amount of petroleum 
+produced from certain wells). 
+
+
+The application of § 1001 to judicial proceedings was 
+touched upon by this Court in Rodgers. In that case, the defendant 
+claimed that his allegedly false statements to the FBI and Secret 
+Service were not matters “within the jurisdiction” of the 
+respective agencies as that language is used in § 1001. The 
+District Court granted Rodgers’ motion to dismiss and the Eighth 
+Circuit affirmed, finding itself bound by its prior decision in 
+
+
+20 
+
+
+Friedman v. United States, supra. Resolving a conflict among the 
+circuits, this Court reversed, ruling inter alia, that the term 
+“jurisdiction” as used in § 1001 did not admit of the constricted 
+construction adopted by the Court of Appeals. In footnote four of 
+the opinion in Rodgers, this Court responded as follows to the 
+Eighth Circuit’s concern in Friedman about the adverse effect a 
+literal construction of § 1001 could have upon the taking of oaths 
+
+
+21 
+
+
+Abrahams, supra, at 392-393; Erhardt, 
+supra, at 175. See also Morgan v. United 
+States, 114 U.S.App.D.C. 13, 16, 309 F.2d 
+234, 237 (D.C.Cir. 1962), cert. denied, 373 
+U.S. 917, 83 S.Ct. 1306, 10 L. Ed. 2d 416 
+(1963). We express no opinion on the validity 
+of this line of cases. 
+
+
+in courts: 
+
+
+The Eighth Circuit also expressed concern 
+that a literal application of the statute would 
+obviate the taking of oaths in judicial 
+proceedings. “Since the Judiciary is an 
+agency of the United States Government, a 
+strict application of this statute would remove 
+the time-honored and now necessary 
+formality of requiring witnesses to testify 
+under oath.” Friedman v. United States, 374 
+F.2d, at 367. Several courts faced with that 
+question have in fact held that § 1001 does not 
+reach false statements made under oath in a 
+court of law. See, ¢.g., United States v. 
+Abrahams, 604 F.2d 386 (CAS 1979); United 
+States v. D'Amato, 507 F.2d 26 (CA2 1974) 
+(holding limited to private civil actions); 
+United States v. Erhardt, 381 F.2d 173 (CA6 
+1967) (per curiam). But they have mostly 
+relied, not on a restricted construction of the 
+term “jurisdiction,” but rather on the phrase 
+“department or agency.” These courts have 
+held that, although the federal judiciary is a 
+“department or agency” within the meaning 
+of § 1001 with respect to its housekeeping or 
+administrative functions, the judicial 
+proceedings themselves do not so qualify. 
+
+
+The decision of the District of Columbia Circuit in Morgan is 
+credited as having given rise to what came to be known as the 
+“judicial function” or “adjudicative function” exception to 
+§ 1001. In Morgan, the defendant was convicted under § 1001 for 
+falsely representing to a court that he was a licensed attorney. On 
+appeal, the defendant argued that § 1001 was inapplicable 
+because his conduct did not involve a “matter within the 
+jurisdiction of any department or agency of the United States” but 
+rather involved a matter within the jurisdiction of a court. In 
+finding § 1001 applicable to the defendant's conduct, Judge 
+Bazelon, writing for the Court of Appeals, reluctantly followed 
+the Bramblett dictum as follows: 
+
+
+Were we examining the statute without the 
+benefit of prior Supreme Court construction, 
+perhaps we would agree with appellant that 
+Congress did not intend it to apply to courts 
+(especially in light of 18 U.S.C. § 6 which 
+states that the term “department” means “one 
+of the executi'e departments * * * unless the 
+context shows that such term was intended to 
+describe the executive, legislative, or judicial 
+branches of the government”). But the 
+Supreme Court has explicitly stated, in 
+Brambiett . . . that the “context” of § 1001 
+“calls for an unrestricted interpretation” and 
+that the word “‘department,’ as used in this 
+
+
+22 
+
+
+context, was meant to describe the executive, 
+legislative and judicial branches of 
+Government.” 
+
+
+Morgan, 309 F.2d, at 237 (emphasis by the court), quoting 
+Bramblett, 348 U.S., at 509, 75 S. Ct., at 508. Morgan went on to 
+note, however, that § 1001 was not without any limitations. In 
+discussing whether, within the meaning of § 1001, a defendant 
+“covers up” a material fact when he pleads not guilty, or whether 
+an attorney violates § 1001 when he moves to exclude hearsay 
+testimony he knows to be true, or whether a summation on behalf 
+of a client counsel knows to be guilty also violates § 1001, the 
+Morgan court, in dictum, stated the following: 
+
+
+We are certain that neither Congress nor the 
+Supreme Court intended to _ include 
+traditional trial tactics within the statutory 
+terms ‘conceals or covers up.’ We hold only, 
+on the authority of the Supreme Court 
+construction, that the statute does apply to the 
+type of action with which appellant was 
+charged, action which essentially involved 
+the ‘administrative’ or ‘housekeeping’ 
+functions, not the ‘judicial’ machinery of the 
+
+
+court. 
+
+
+Morgan, 309 F.2d, at 237. The distinction drawn in Morgan 
+between the adjudicative and administrative functions of the 
+courts gained approval in several circuits. See, e.g., United States 
+v. Masterpol, 940 F.2d 760 (2d Cir.1991); United States v. 
+Holmes, 840 F.2d 246 (4th Cir.), cert. denied, 488 U.S. 831, 109 
+S. Ct. 87, 102 L. Ed. 2d 63 (1988); United States v. Lawson, 809 
+F.2d 1514 (11th Cir.1987); United States v. Abrahams, supra, 
+United States v. Erhardt, supra. \f Morgan and its progeny are 
+correct, the petitioner's statements clearly fall outside the ambit 
+
+
+23 
+
+
+of § 1001 whether viewed as constituting “traditional trial 
+tactics” or concerning the “judicial” machinery of the court. 
+
+
+(1) 
+
+
+The phrase “traditional trial tactics” was apparently coined 
+in Morgan in response to the absurd and unjust results which 
+could flow from a literal application of § 1001. The defendant in 
+Morgan suggested that § 1001 would apply, if not subject to some 
+limitations, to traditional criminal trial practices such as a guilty 
+defendant's plea of not guilty, or a motion to suppress evidence, 
+or a summation to a jury. In concluding that § 1001 could not be 
+read as punishing such “traditional trial tactics”, Morgan is 
+consistent with well-settled rules of statutory construction. 
+
+
+As noted in In re Chapman, 166 U.S. 661, 667, 17 S. Ct. 677, 
+680, 41 L. Ed. 1154 (1897), “nothing is better settled than that 
+statutes should receive a sensible construction, such as will 
+effectuate the legislative intention, and, if possible, so as to avoid 
+an unjust or an absurd conclusion”. Chief Justice Hughes in 
+Sorrells v. United States, 287 U.S. 435, 450, 53 S.Ct. 210, 216, 77 
+L.Ed. 413 (1932) amplified upon this maxim as follows: “To 
+construe statutes so as to avoid absurd or glaringly unjust results, 
+foreign to legislative purpose, is, as we have seen, a traditional 
+and appropriate function of the courts.” It is both unjust and 
+absurd that a statute should be read as subjecting to criminal 
+prosecution the federal criminal trial practices of pleading not 
+guilty, moving to suppress or exclude evidence and presenting 
+summations to juries where the statute admits to an alternative 
+reading. Additionally, these federal criminal trial practices 
+implicate constitutional guarantees such as the presumption of 
+to effective assistance of counsel. Consequently, a literal 
+application of § 1001 must be avoided for the additional reason 
+that “every reasonable construction must be resorted to, in order 
+
+
+24 
+
+
+to save a statute from unconstitutionality.” Chapman v. United 
+States, 500 U.S. 453, 464, 111 S. Ct. 1919, 1927, 114 L. Ed. 2d 
+524 (1991), quoting Edward J. DeBartolo Corp. v. Florida Gulf 
+Coast Building and Construction Trades Council, 485 U.S. 568, 
+575, 108 S. Ct. 1392, 1397, 99 L. Ed. 2d 645 (1988). 
+
+
+The Solicitor General has argued in its brief on jurisdiction 
+that a plea of not guilty is distinguishable from the petitioner's 
+statements in that the former falls outside the purview of § 1001 
+“because it is not a statement of fact, but rather a formal notice of 
+nonacquiescence.” Brief for the United States at 8. But a denial 
+made in response to an allegation contained in a complaint is no 
+less a “formal notice of “nonacquiescence”. In fact, it has been 
+long understood that an entire cause of action can be “put at issue 
+by a general denial”, United States v. McCoy, 193 U.S. 593, 597, 
+24 S. Ct. 528, 530, 48 L. Ed. 805 (1904), and that a general denial 
+will “put the plaintiff upon proof of every fact necessary to 
+constitute the cause of action set out in his petition. . .”. County 
+of Nemaha v. Frank, 120 U.S. 41, 45,7 S. Ct. 395, 397, 30 L. Ed. 
+584 (1887). See also United States v. American Tobacco Co., 166 
+U.S. 468, 470, 17 S. Ct. 619, 620, 41 L. Ed. 1081 (1897) (noting 
+that the “usual general denial of all the allegations of the petition 
+was filed by the attorney general on behalf of the United 
+States. . . .”); United States v. Weld, 127 U.S. 51, 53, 8 S. Ct. 
+1000, 1001, 32 L. Ed. 62 (1888) (“The answer of the United 
+States consisted of a general denial of all the material allegations 
+in claimant's petition. . . .”). 
+
+
+“The general denial has ‘deep roots’ in both common law 
+and code pleading practice.” United States v. Minissee, 113 
+F.R.D. 121, 122 (S.D. Ohio 1986), citing 5 Wright & Miller, 
+Federal Practice and Procedure § 1265, citing in turn Shipman, 
+Common-Law Pleading (3d ed. 1923) § 169, and Clark, Code 
+Pleading (2d ed. 1947), § 92. To this day, general denials are 
+permitted under Rule 8(b) of the Federal Rules of Civil 
+
+
+25 
+
+
+Procedure. While it is true that a general denial must be made “in 
+good faith” and is subject to the obligations of Rule 11, Rule 8(b) 
+
+
+does not contemplate an elaborate reply to 
+every allegation of a complaint. It does not 
+bind a defendant to his, her, or its responses 
+for all time. It does not even condemn 
+averments of insufficient information or 
+knowledge upon which to form a belief as to 
+the truth of the complainant's allegations. The 
+merely that an answer be sufficiently 
+particular to inform the plaintiff what 
+defenses he, she, or it will be called upon to 
+meet. 
+
+
+White v. Smith, 91 F.R.D. 607, 608 (W.D.N.Y.1981).* Even 
+though the petitioner’s denials and his discovery response were 
+more specific than general denials, they nevertheless were 
+denials subject to further investigation, proof and judicial fact- 
+finding. Thus, the same considerations apply. 
+
+
+peaiuaetnaaaes ’s view of § 1001, traditional trial 
+to revolutionary change. The specter 
+of criminal prosecution would hang over every document filed 
+and every word spoken in the federal judicial system. Attorneys 
+would not be immune. They would have to be concerned about 
+being charged as principals under § 1001, aiders and abettors 
+under 18 U.S.C. § 2, or coconspirators under 18 U.S.C. § 371. 
+“We do not assume that Congress, in passing laws, intended such 
+
+
+8. Under the Government's claimed scope of § 1001, the filing of the 
+general denial by the assistant attorney general in White v. Smith, supra, would 
+arguably constitute a crime because it was knowingly false. Criminal charges 
+
+
+in such cases are an absurdity. The district judge in White found the threat of 
+Rule |! sanctions sufficient. 
+
+
+26 
+
+
+results.” United States v. X-Citement Video, Inc.,__ U.S. __, 
+(1994). Of course it is true that vigorous advocacy does not entail 
+“knowing falsification” or “lying to the court”. Brief for the 
+United States at 8-9. But the chilling effect which would result 
+from the Government's position cannot be ignored. See Mayer, 
+775 F.2d, at 1389 (“In reading Morgan, we sense a concern that 
+applying § 1001 to positions taken before a court during litigation 
+could inhibit vigorous advocacy of parties’ interests, particularly 
+those of a defendant in a criminal case.”). At the very least, every 
+step of the pleading stage would require burdensome 
+prophylactic measures such as written and oral warnings and 
+disclaimers. See Crandon, 494 U.S., at 177-178, 110 S. Ct., at 
+1011 (Scalia, J., concurring) (“Any responsible lawyer advising 
+on whether particular conduct violates a criminal statute will 
+obviously err in the direction of inclusion rather than 
+exclusion . . .”.) Nothing in the language of § 1001, its legislative 
+history, its predecessor statutes, or its interpretation, has 
+suggested the need for or the applicability of criminal sanctions 
+in the realm of procedural filings in civil and criminal litigation. 
+
+
+In Yermian, supra, a sharply divided Court held that proof of 
+actual knowledge of federal agency jurisdiction is not required to 
+obtain a conviction under § 1001. After tracing the evolution of 
+the statute, the dissenting opinion reached the following 
+conclusion: 
+
+
+Of course “{iJt is not unprecedented for 
+Congress to enact [such] stringent 
+legislation,” United States v. Feola, 420 U.S. 
+671, 709, 95 S.Ct. 1255, 1276, 43 L.Ed.2d 
+451 (STEWART, J., dissenting). But I cannot 
+subscribe to the Court’s interpretation of this 
+statute in such a way as to “make a 
+surprisingly broad range of unremarkable 
+conduct a violation of federal law,” Williams 
+
+
+27 
+
+
+v. United States, 458 U.S. 279, 286, 102 S.Ct. 
+3088, 3093, 73 L.Ed.2d 767 (1982), when the 
+legislative history simply “fails to evidence 
+congressional awareness of the statute’s 
+claimed scope.” Id., at 290, 102 S.Ct., at 290. 
+
+
+United States v. Yermian, 468 U.S., at 82-3, 104 S. Ct., at 2946-47 
+(Rehnquist, C.J., dissenting). The scope of § 1001 claimed here 
+by the Government far exceeds that advanced in Yermian. 
+
+
+Because Morgan’s interpretation that § 1001 excludes 
+criminal liability for traditional trial practices is appropriate to 
+avoid unjust and absurd results’, and because the petitioner’s 
+filings fall within such practices, the § 1001 convictions should 
+be vacated. 
+
+
+(2) 
+
+
+Under Morgan and its progeny, the petitioner's statements 
+also fall outside the scope of § 1001 as implicating the 
+
+
+9. Another absurdity which would flow from the Government's 
+interpretation is that a false unsworn siatement in a bankruptcy proceeding 
+would warrant conviction and incarceration even though such a statement is 
+insufficient to bar discharge. In re Kunec, 27 B.R. 670 (M.D. Pa. 1982), citing 
+11 U.S.C. § 727. This anomaly is one of the results of the inconsistency 
+between an expansion of § 1001 and the present bankruptcy statutory scheme 
+which places great significance upon and attaches severe penalties to 
+falsehoods made under oath. Under 18 U.S.C. § 152, bankruptcy crimes 
+include the making of a false oath or account, the use or presentation of a false 
+claim, the giving or receiving of money for acting or forbearing to act, and the 
+withholding from an officer of the estate entitlement to possession of books 
+and records relating to the debtor's financial affairs. For these and other 
+reasons, the decision of the Court of Appeals in the case at bar has been 
+characterized as a “result to be avoided if the current balance of laws and status 
+of the bankruptcy courts are to be maintained.” Collier on Bankruptcy, 7A.03 
+at 7A-140(1 5th ed.1994). 
+
+
+28 
+
+
+“adjudicative” as opposed to the “administrative” or 
+“housekeeping” functions of the bankruptcy court. This so-called 
+“judicial function” exception represents a narrow but salutary 
+limitation upon an overly expansive, unintended and 
+unforeseeable interpretation of § 1001. 
+
+
+That the petitioner’s statements involved the “judicial” as 
+opposed to the “administrative” or “housekeeping” functions of 
+the bankruptcy court appears to be without controversy. The 
+statements were made during the course of litigation and were, 
+essentially, “an extension of the defendant’s trial itself.” 
+Masterpol, 940 F.2d, at 766, quoting Mayer, 775 F.2d, at 1391-92. 
+The controversy is over whether the distinction between the 
+functions is warranted in the first place. The Government 
+criticizes the distinction between the two functions as “elusive”, 
+and argues that the courts of appeal are not always consistent in 
+their decisions on the issue. Brief for the United States at 7. Even 
+if the Government is correct, it does not follow that the exception 
+is ill-founded. In fact, inconsistencies are a likely result of the 
+necessarily fact-specific inquiry into whether conduct falls 
+within the adjudicative or administrative function. Such a 
+determination requires a case by case approach which “often may 
+be a close question”. United States v. Holmes, 840 F.2d at 248. As 
+with most close questions, reasonable persons may differ as to the 
+appropriate outcome. But here, as was the case in Holmes, 
+determining which function applies “is not challenging.” Jd. The 
+petitioner’s statements clearly fall within the “adjudicative” 
+function."® 
+
+
+10. Several courts of appeals have addressed the exception with regard 
+to false statements made during criminal proceedings. Comparing the 
+decisions finding an adjudicative function, see, ¢.g., Masterpol, supra, 940 
+F.2d at 764-65 (defendant's submission of false letter of recommendation to 
+sentencing judge falls within adjudicative function); Mayer, supra (same as 
+Masterpol); Abrahams, supra (defendant's false statements to magistrate 
+during removal hearing fall within adjudicative function); oe 
+
+(Cont'd) 
+
+
+29 
+
+
+There are additional reasons not to abandon the judicial 
+function exception. Since it was first suggested in 1962 in 
+Morgan, “there has been no response on the part of Congress 
+either repudiating the limitation or refining it. It therefore seems 
+too late in the day to hold that no exception exists.” Mayer, 775 
+F.2d, at 139Q. Accord United States v. Wood, 6 F.3d 692, 695 (10th 
+Cir. 1993); Masterpol, 940 F.2d, at 766. Although congressional 
+silence in the face of judicial statutory interpretation is not 
+necessarily indicative of legislative acceptance of the 
+interpretation, the passage of more than three decades since 
+Morgan without any sign of disapproval from Congress provides 
+additional grounds against dismantling the exception. 
+
+
+In the case at bar, the Court of Appeals “decline[d] to adopt 
+the judicial function exception”, Hubbard, 16 F.3d, at 701, for 
+four reasons. “First, the Supreme Court in Bramblett said that 
+§ 1001 was to be read broadly and Bramblett never indicated that 
+there might be such a thing as a judicial function exception.” /d. 
+But in expounding a broad reading, this Court never approved a 
+limitless one. Moreover, it is precisely because the statute is 
+couched in broad terms that the courts must be careful to ensure 
+that reasonable limits are observed. And while it is true that 
+Bramblett did not announce a judicial function exception to 
+§ 1001, it is also true that the issue was not squarely presented. It 
+is just as easily said, and just as significant, that Bramblett did not 
+proscribe a judicial function exception. 
+
+(Cont'd) 
+
+(defendant’s submission of false receipt as evidence during criminal 
+proceeding falls within adjudicative function), with those finding an 
+administrative function, see, ¢.g., United States v. Barber, 881 F.2d 345 (7th 
+Cir. 1989) (even if exception were valid, false information sent to judge to 
+influence sentencing of third party violated statute), cert. denied, 495 U.S. 922, 
+110 S. Ct. 1956, 109 L. Ed. 2d 318 (1990); and Holmes, supra (defendant's 
+falsification of standardized consent forms falls within administrative 
+function), it is evident that even if the petitioner's statements were made in 
+criminal proceedings, the adjudicative function would apply. 
+
+
+30 
+
+
+The next reason given by the Court of Appeals is as follows: 
+“Second, we agree with the Poindexter court [United States v. 
+Poindexter, 951 F.2d 369 (D.C. Cir.1991)] . . . that the judicial 
+function exception does not rest on solid ground.” Hubbard, 16 
+F.3d, at 701. The answer to this argument requires consideration 
+of the decision in Poindexter. 
+
+
+In Poindexter, the Court of Appeals was asked to carve out a 
+legislative function exception to § 1001. In revisiting its decision 
+in Morgan, the Court of Appeals stated the following: 
+
+
+The judicial function exception traces to a 
+dictum in Morgan v. United States, 309 F.2d 
+234 (D.C.Cir. 1962), the holding of which is 
+that § 1001 does apply to one who practiced 
+law by “falsely [holding] himself out to be” 
+another person and member of the bar. Jd. at 
+235, 237. We relied upon Supreme Court 
+precedent to conclude that a court could be a 
+“department” for purposes of § 1001, but also 
+cautioned that the Congress did not intend 
+that the statute apply to “traditional trial 
+tactics.” Id. at 237 (citing Bramblett, 348 U.S. 
+at 509, 75 S.Ct. at 508). We viewed the acts 
+charged, however, as involving the court’s 
+“administrative” or “housekeeping” 
+functions, rather than the “judicial” 
+machinery of the court. /d. 
+
+
+Id., at 386. In refusing to carve out a legislative function 
+exception to § 1001, it is true that the Court of Appeals in 
+Poindexter declined to extend Morgan, doubting that its rationale 
+governing “traditional trial tactics” would “shield{] from 
+criminal responsibility a defendant who knowingly makes a 
+material false statement of fact in a judicial proceeding.” /d., at 
+
+
+31 
+
+
+387. The Court of Appeals did note, however, that Morgan and 
+the opinions of other circuits were concerned that the terms 
+“conceals or covers up’ not be applied to sanction ‘traditional 
+trial tactics’ ”, id., at 387, citing as an example United States v. 
+Mayer, supra. 
+
+
+The problem with Poindexter is the conflict between its 
+suggestion that Morgan might not prohibit § 1001 prosecution for 
+false statements made in judicial proceedings and its recognition 
+of the widespread concern that § 1001 not be used to punish 
+traditional trial tactics. The proper resolution of that conflict is 
+not through a broadening of the scope of § 1001 by the courts. And the 
+concern over the punishment of such statements vests exclusively 
+with Congress. Because the judicial function exception both 
+advances the express scope of § 1001 and avoids absurd and 
+unjust results, it does, contrary to the Court of Appeal’s 
+characterization of Poindexter, rest upon solid legal ground. 
+
+
+Third, the Court of Appeals noted that “if we were to believe 
+a limitation should be placed on § 1001 so that it did not overlap 
+the purpose and scope of the federal perjury statute, this would 
+not be the case in which to do it; none of the false statements here 
+was made under oath”. Hubbard, 16 F.3d, at 701. But the concern 
+about § 1001's relationship to perjury is not one of overlap, but 
+rather, as previously noted, that its “strict application ... would 
+remove the time-honored and now necessary formality of 
+requiring witnesses to testify under oath.” Friedman v. United 
+States, 374 F.2d, at 367. Moreover, overlap exists anyway 
+because unsworn false statements are punishab!= under statutes 
+other than perjury." 
+
+
+11. See, e.g., 18 U.S.C. §§ 401 (contempt); 1501 et seg. (obstruction of 
+justice); 1512 (improper influence of official proceeding). See also Rule 11 of 
+the Federal Rules of Civil Procedure. Additionally, in the context of 
+
+
+bankruptcy proceedings, the knowing and fraudulent making of a false oath or 
+(Cont'd) 
+
+
+32 
+
+
+As its last reason, the Court of Appeals stated that it read this 
+Court’s decision in Rodgers as “cautioning against an automatic 
+acceptance” of the exception. Hubbard, 16 F.3d, at 701. “[W]e 
+will instead wait for the Supreme Court to tell us there is such an 
+exception before approving it for use in this Circuit.” Jd. The 
+petitioner obviously hopes that the Court of Appeals’ wait is over. 
+
+
+The Court of Appeals also declined to apply United States v. 
+D’Amato, 507 F.2d 26 (2d Cir. 1974). In D’Amato, the Second 
+Circuit reversed a § 1001 conviction for the filing of a false 
+affidavit during a civil action in federal court to which the 
+government was not a party. D’Amato noted that § 1001 has never 
+been applied to a false statement in a private civil action “where 
+the Government is involved only by way of a court deciding a 
+matter in which the Government or its agencies are not involved.” 
+Id., at 28. Analyzing the statute’s legislative history as interpreted 
+in Bramblett and Gilliland, the Second Circuit in D’Amato found 
+no support for the Government’s expansive view that the statute 
+applies to all false statements made in the courts. Rather, the 
+legislative history indicated to the D’Amato court that the 
+applicability of § 1001 often turned upon whether the false 
+statement in question was intended to deceive the government or 
+its agencies. However, in the private civil action at issue in 
+D'Amato, the court observed that there was neither a fraud upon 
+the Government nor a deception upon an investigative or 
+regulatory agency. In rejecting the Government’s view that the 
+mere involvement of a court renders § 1001 applicable, the 
+D’ Amato court drew from the distinction Morgan found between 
+administrative and judicial court functions, agreeing therefrom 
+
+
+(Cont'd) 
+
+account in connection with a bankruptcy case is sufficient to bar a debtor's 
+discharge. 11 U.S.C. § 727(a)(4)(A). In bankruptcy proceedings, deliberate 
+omissions by the debtor in schedules or stetements of financial affairs or sworn 
+testimony may also result in the denial of discharge. See In re Chalik, 748 F.2d 
+616 (11th Cir. 1984) and cases cited. 
+
+
+33 
+
+
+that § 1001 was never intended to apply to ev tatement made 
+before a federal court. —T cout 
+
+
+In Masterpol, supra, the Second Circuit applied the rationale 
+of D’Amato to reject a theory of prosecution that the defendant 
+had defrauded the government as court, not the government as 
+prosecutor. The court found that the “government offers no 
+reason why that holding [in D’Amato] should not apply with 
+equal force to a federal court hearing a criminal matter; nor can 
+we envision any.” Masterpol, 940 F.2d, at 765. 
+
+
+In United States v. London, 714 F.2d 1558 (11th Cir. 1983), 
+the Eleventh Circuit also voiced agreement with D’Amato, 
+refusing to apply § 1001 to the falsification of a district court 
+order in private civil litigation intended to defraud the attorney’s 
+clients. Subsequently in United States v. Lawson, 809 F.2d 1514 
+(11th Cir. 1987), the Eleventh Circuit held that the defendant’s 
+production of false documents in a state court action brought by a 
+city housing authority constituted a § 1001 violation where the 
+housing authority was the agent of the United States Department 
+of Housing and Urban Development and the defendant was 
+attempting to improperly extract money which would have been 
+authorized under HUD’s contract. The court distinguished 
+D'Amato and London as not involving attempts to deceive the 
+government. 
+
+
+In the case at bar, the Court of Appeals opined that D'Amato 
+was “distinguishable from the case at bar.” Hubbard. 16 F.3d, at 
+702. But the Court of Appeals did not explain how the case was 
+distinguishable, instead stating the following: “Without focusing 
+on the distinguishing features, however, we simply hold that to 
+the extent that D'Amato is similar enough to be controlling on this 
+issue were this case being heard in the Second Circuit, we decline 
+to follow it in the Sixth Circuit.” Jd. Oddly enough, however, the 
+Court of Appeals stated that the “London holding seems sound”, 
+
+
+34 
+
+
+but found that case distinguishable on the ground that “the 
+attorney never made any fraudulent statement to the court or to 
+
+
+the opposing party in any court document or proceeding.” /d. 
+
+
+The rationale of D’Amato applies with equal if not greater 
+force to the case at bar. The bankruptcy proceeding constitutes a 
+private civil action. As in D’Amato, the Government was not a 
+party. The only involvement of “Government” was in the sense 
+that the bankruptcy court was involved. Moreover, the 
+petitioner’s responses to the trustee were not responses to a 
+government official. “The [bankruptcy] trustee is the 
+representative of the debtor’s estate, not an arm of the 
+Government. ..”. California State Board of Equalization v. 
+Sierra Summit, 490 U.S. 844, 845, 109 S. Ct. 2228, 2230, 104 L. 
+Ed. 2d 910 (1989). The London rationale is, of course, the same. 
+And the Court of Appeal’s distinction of London is unsound 
+because the petitioner’s statements similarly were not made to the 
+court. The fact that the petitioner’s statements were made to the 
+trustee does not, as previously noted, constitute a statement to the 
+Government. 
+
+
+35 
+CONCLUSION 
+
+
+For these reasons, the judgment of the Sixth Circuit shoul 
+
+d 
+be vacated and the cause remanded with instructions to vacate the 
+petitioner’s § 1001 convictions. 
+
+
+Respectfully submitted, 
+
+
+PAUL MORRIS* 
+
+LAW OFFICES OF 
+
+PAUL MORRIS, P.A. 
+Attorney for Petitioner 
+2600 Douglas Road 
+Penthouse II 
+
+Coral Gables, Florida 33134 
+(305) 446-2020 
+
+
+* Counsel of Record

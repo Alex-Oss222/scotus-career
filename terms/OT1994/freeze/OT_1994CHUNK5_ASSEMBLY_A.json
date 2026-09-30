@@ -1,0 +1,27 @@
+{
+  "status": "Three April19 Records preserved after full assembly compatibility and bounded-source review; no Git operations or repository commit claim.",
+  "checks": [
+    "24 reconciled associate rows",
+    "approved Stone positions retained",
+    "judgment and proposition arithmetic",
+    "holding explanation word depths",
+    "exact private/Public holdings identity",
+    "11 public blocks",
+    "final-relative links; aggregate validation link pending",
+    "common pre-April19 baseline"
+  ],
+  "records": [
+    {
+      "record": "terms\\OT1994\\records\\Kyles_v_Whitley_merits_1995-04-19.md",
+      "sha256": "75e76afab6b3e0f3f9694423fc36fe23ed8ae9eb4ce9e13c835a1752e2251e5b"
+    },
+    {
+      "record": "terms\\OT1994\\records\\Rubin_v_Coors_Brewing_Co_merits_1995-04-19.md",
+      "sha256": "f2edc7df9253af5c07f816557ce4447ca68ce80f8e1d5077a9d4944ed01e0391"
+    },
+    {
+      "record": "terms\\OT1994\\records\\Stone_v_Immigration_and_Naturalization_Service_merits_1995-04-19.md",
+      "sha256": "ffbd6ef28b3802b0a56189f93d238c51feadec5008969e5d46679a2e1f5ec91f"
+    }
+  ]
+}

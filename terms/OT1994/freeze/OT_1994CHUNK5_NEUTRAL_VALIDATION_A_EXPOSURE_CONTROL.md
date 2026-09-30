@@ -1,0 +1,9 @@
+# Group A validation exposure control — not for neutral/modeling contexts
+
+The fresh validation context read the Morales Joint Appendix first image and thereby received a same-matter historical Supreme Court certiorari-grant recital. The source was `tmp/ot1994_chunk5_a/morales_05._Joint_Appendix_djvu.txt`, cover, in a read of its opening 420 lines. No same-matter historical merits disposition, rationale, vote, or lineup was opened. Substantive Morales framing and repair stopped immediately. The parent was notified. Morales requires another fresh validator and then independent modeling. No current commitments were produced.
+
+Previously read source facts are preserved only as source material; no postexposure Morales neutral synthesis is certified. At the parent's direction the context mechanically transcribed the six available Morales PDFs into `*_CLEAN_SOURCE.md`, omitted their first cover/correspondence image and marked procedural-history citation removals, and separately cleaned the CAP lower opinion. The transcriptions retain PDF image/leaf markers and printed page numbers and are source aids only. The next validator must establish their legal meaning and completeness independently.
+
+The lower opinion and predecision briefs also contained a historical procedural parenthetical about the earlier Cavanaugh/Roller litigation. It was recognized as incompatible with actual entering law and was not applied. That did not reveal a current-matter merits outcome.
+
+The Stone INS, Kyles, and Coors work remains unexposed to their same-matter historical dispositions, lineups, rationales, or petition actions. Their briefs were read only through mechanical neutral-reading copies with procedural recitals removed, or clean lower opinions and statutory units. The mechanical redactor is conservative and can remove a substantive paragraph containing a Court-history string; such a removal is a source gap, not proof of any proposition. No Git command was run.

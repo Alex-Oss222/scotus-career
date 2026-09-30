@@ -1,0 +1,21 @@
+{
+  "stage": "Harris-only intermediate review",
+  "source": "terms\\OT1994\\entering-law\\OT_1994CHUNK5_BEFORE_1995-05-08.md",
+  "source_sha256": "2050543f3cb961e9d045caf01b03685c6936fa848d5f7521200eaea959465425",
+  "inclusive_lines_read": [
+    424,
+    512
+  ],
+  "note": "terms\\OT1994\\freeze\\OT_1994CHUNK5_KANSAS_HARRIS_REVIEW_PARTIAL.md",
+  "note_sha256": "a3a7382ce9c7d38a6b456fa0799d0170b6653ee6492357ef25f234438fcc9a4b",
+  "prior_artifacts_unchanged": {
+    "OT_1994CHUNK5_COMMITMENTS_KANSAS_PRE_REFRESH.md": true,
+    "OT_1994CHUNK5_KANSAS_ACTUAL_LAW_REVIEW_1995-04-26_PARTIAL.md": true,
+    "OT_1994CHUNK5_KANSAS_TRAVELERS_REVIEW_PARTIAL.md": true
+  },
+  "eight_associates_and_ten_components_reviewed": true,
+  "commitment_changes": false,
+  "final_release": false,
+  "remaining_actual_law_gate": "Pinson",
+  "git_commands_run": false
+}

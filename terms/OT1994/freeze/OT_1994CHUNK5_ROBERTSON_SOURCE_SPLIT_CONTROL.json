@@ -1,0 +1,44 @@
+[
+  {
+    "source": "tmp\\ot1994_chunk5_c\\robertson_2.txt",
+    "copy": "terms\\OT1994\\runtime\\OT_1994CHUNK5_ROBERTSON_SOURCE_2.txt",
+    "source_sha256": "4fb0349e65d575d3b6a560d5aefb874945384b72f10436724b00536c7966a51e",
+    "copy_sha256": "296ef16eb9cada86da84d6079800bcd82dc1fa6f6afcc7a23adf5b9f4e820e4a",
+    "jurisdiction_sections_removed": 1,
+    "covers_removed": 0
+  },
+  {
+    "source": "tmp\\ot1994_chunk5_c\\robertson_5.txt",
+    "copy": "terms\\OT1994\\runtime\\OT_1994CHUNK5_ROBERTSON_SOURCE_5.txt",
+    "source_sha256": "a9d1bc516d78ee868b90e094157afde99c3fbd74b7cabad3852a2f91b61b8ab5",
+    "copy_sha256": "bec6487fe3ae8b73e61c709be841744c68740f41c370a774fe837767270ded43",
+    "jurisdiction_sections_removed": 1,
+    "covers_removed": 2
+  },
+  {
+    "source": "tmp\\ot1994_chunk5_c\\robertson_6.txt",
+    "copy": "terms\\OT1994\\runtime\\OT_1994CHUNK5_ROBERTSON_SOURCE_6.txt",
+    "source_sha256": "337ecd86b86851f058db2c0837aa70a4f767d04d8edd38fb907007a834738198",
+    "copy_sha256": "55a5eed310bc87e825b34d48553c0a0725c4206639ce66c002840da9037d29c0",
+    "jurisdiction_sections_removed": 1,
+    "covers_removed": 1
+  },
+  {
+    "source": "tmp\\ot1994_chunk5_c\\robertson_7.txt",
+    "copy": "terms\\OT1994\\runtime\\OT_1994CHUNK5_ROBERTSON_SOURCE_7.txt",
+    "source_sha256": "09f16ad1980ac4a6ef2bae8a10d5be39145229543efa78cc6f7a98ef0db6d347",
+    "copy_sha256": "7b72725967236b2c2723f79c52320cff5a6618b213f081d93d048af0387ab574",
+    "jurisdiction_sections_removed": 0,
+    "covers_removed": 2
+  },
+  {
+    "source": "tmp\\ot1994_chunk5_c\\robertson_4.txt",
+    "copy": "terms\\OT1994\\runtime\\OT_1994CHUNK5_ROBERTSON_SOURCE_4.txt",
+    "source_sha256": "db031b965ec80ba269a492227e939237c3207aa7f810f31b726f0efad2b33bd4",
+    "copy_sha256": "852e8c8f1198c04dc453ed8efd173983b253f95e0e3e4e2972ff2ccaa7e76516",
+    "source_character_range": [
+      911,
+      126444
+    ]
+  }
+]

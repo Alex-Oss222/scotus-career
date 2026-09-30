@@ -1,0 +1,25 @@
+{
+  "stage": "intermediate actual-law review only",
+  "pre_refresh_sha256": "e599c46349f352010e09598a4e0339f6e0011a5785b339fc8e9b8c4e657f6a20",
+  "pre_refresh_unchanged": true,
+  "pre_refresh_runtime_byte_identical": true,
+  "note": "terms\\OT1994\\freeze\\OT_1994CHUNK5_KANSAS_ACTUAL_LAW_REVIEW_1995-04-26_PARTIAL.md",
+  "note_sha256": "fe373c0fc991711f18f824c269822ccebb40b0429011daad749745a7c18f0233",
+  "sources": [
+    {
+      "path": "terms\\OT1994\\entering-law\\OT_1994CHUNK5_BEFORE_1995-04-26.md",
+      "sha256": "30697819ba8843f831f2f7b3d4710e757da4bd935ceacd2e04e2026d890a0fc3",
+      "lines_read": 282
+    },
+    {
+      "path": "terms\\OT1994\\entering-law\\OT_1994CHUNK5_LOPEZ_PUBLIC.md",
+      "sha256": "ece8e9447ff2db062fb1cc671f52cabec4f5e7471394f7ebdbcc383117be149c",
+      "lines_read": 102
+    }
+  ],
+  "eight_associates_reviewed": true,
+  "ten_components_reviewed": true,
+  "changes_to_provisional_commitments": false,
+  "final_release": false,
+  "git_commands_run": false
+}

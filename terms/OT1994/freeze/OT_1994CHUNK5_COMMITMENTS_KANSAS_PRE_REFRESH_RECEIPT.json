@@ -1,0 +1,13 @@
+{
+  "stage": "provisional-before-actual-law-refresh",
+  "freeze": "terms\\OT1994\\freeze\\OT_1994CHUNK5_COMMITMENTS_KANSAS_PRE_REFRESH.md",
+  "runtime": "terms\\OT1994\\runtime\\OT_1994CHUNK5_COMMITMENTS_KANSAS_PRE_REFRESH.md",
+  "sha256": "e599c46349f352010e09598a4e0339f6e0011a5785b339fc8e9b8c4e657f6a20",
+  "byte_identical": true,
+  "associate_rows": 8,
+  "each_has_10_components": true,
+  "explicit_provisional_gate": true,
+  "rules_review": "control cleared: assignment-only change; no assignment made",
+  "no_final_promotion": true,
+  "git_commands_run": false
+}

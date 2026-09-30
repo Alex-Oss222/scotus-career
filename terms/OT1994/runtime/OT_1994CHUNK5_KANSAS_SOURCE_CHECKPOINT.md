@@ -1,0 +1,15 @@
+# Kansas — clean source checkpoint, not a validated modeling packet
+
+No target Supreme Court decision, vote, author or rationale was retrieved. The candidate must still be independently checked against the full sources. This checkpoint selects no exception disposition.
+
+**Read boundary:** The Master report's front matter, contents, glossary, introduction and procedural text through printed p.22 have been read. The start of p.23 was encountered but that page and the rest of the report are not certified complete. Volumes II and III, all exception briefs, federal response and the newly recovered Appendix remain for fresh validation. No hydrologic findings, proposed allocations or unexcepted recommendations from unread pages have been adopted here.
+
+**Exact compact:** runtime/OT_1994CHUNK5_KANSAS_COMPACT_SOURCE.txt mechanically copies the entire relevant act from the official 63 Stat.145–152 PDF, read in full. The raw official PDF and text are in tmp/ot1994_chunk5_c/validation_sources/arkansas_compact_63stat145.*. The source supplies Articles I–IX and consent act §2, including every qualification; it is preferable to paraphrases. Distinguish the text's conditions from the Master's findings concerning their application.
+
+**Source structure:** Report volumes I–III are kansas_13/14/15.pdf/.txt. Part I is the primary liability report (pp.1–337); Part II the winter-storage approval ruling (338ff.); Part III Trinidad (373ff.); Part IV Lake McKinney counterclaim (436ff.); Part V well counterclaim (447ff.). The separate Appendix recovered by control is kansas_16.pdf/.txt, Exhibits1–13: Compact App.1; amended complaint18; Colorado answer29; federal answer40; other procedural orders and 1980 Plan later. The Appendix has not been read in this context.
+
+**Date check:** The recovered report cover says July 1994, with an apparently July 29 received stamp. Candidate language calling October 3 the filing date is not independently verified here. These could identify different docket events; do not declare a conflict resolved or invent a filing date. '1994 report' is sufficient unless the exact date is legally material.
+
+**Already verified procedural distinction:** The Master's opening account says remedy, including damages, was severed pending liability. His five report parts include separate substantive decisions held for review; they are recommendations requiring Court confirmation. The 1951-resolution/WWSP approval issue is distinct from the WWSP's actual depletion claim. Pre-divergence references and appointments establish the inherited original channel. No later historical Supreme action is imported.
+
+Use the authorized April 19 entering-law slice, particularly the actual Nebraska v. Wyoming enforcement/modification distinction. It supplies current public law, not an answer to the seven exceptions. All seven exceptions, proof alternatives, laches, baseline, offsets, usable-flow methods, Trinidad qualifications, WWSP findings and unexcepted components remain to be independently validated before release.

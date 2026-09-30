@@ -1,0 +1,646 @@
+{
+  "scope": "Named public judgment-table arithmetic for all nine participating Justices. Proposition joins and legal compatibility are separately reviewed in assembly.",
+  "rows": [
+    {
+      "record": "California_Department_of_Corrections_v_Morales_merits_1995-04-25.md",
+      "component": "Retrospective application of the 1981 hearing-deferral provision to Morales",
+      "stated": [
+        5,
+        4
+      ],
+      "support": [
+        "Kennedy",
+        "OConnor",
+        "Scalia",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [
+        "Breyer",
+        "Ginsburg",
+        "Souter",
+        "Stevens"
+      ],
+      "errors": []
+    },
+    {
+      "record": "Hubbard_v_United_States_merits_1995-05-15.md",
+      "component": "Reach the court-entity question",
+      "stated": [
+        9,
+        0
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "OConnor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [],
+      "errors": []
+    },
+    {
+      "record": "Hubbard_v_United_States_merits_1995-05-15.md",
+      "component": "Count V: records response",
+      "stated": [
+        7,
+        2
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "Scalia",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [
+        "OConnor",
+        "Souter"
+      ],
+      "errors": []
+    },
+    {
+      "record": "Hubbard_v_United_States_merits_1995-05-15.md",
+      "component": "Count VI: machinery-location denial",
+      "stated": [
+        7,
+        2
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "Scalia",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [
+        "OConnor",
+        "Souter"
+      ],
+      "errors": []
+    },
+    {
+      "record": "Hubbard_v_United_States_merits_1995-05-15.md",
+      "component": "Count VII: parts-location denial",
+      "stated": [
+        7,
+        2
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "Scalia",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [
+        "OConnor",
+        "Souter"
+      ],
+      "errors": []
+    },
+    {
+      "record": "Kansas_v_Colorado_original_exceptions_1995-05-15.md",
+      "component": "Colorado: proof standard and pumping liability",
+      "stated": [
+        9,
+        0
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "OConnor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [],
+      "errors": []
+    },
+    {
+      "record": "Kansas_v_Colorado_original_exceptions_1995-05-15.md",
+      "component": "Colorado: pre-Compact pumping",
+      "stated": [
+        9,
+        0
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "OConnor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [],
+      "errors": []
+    },
+    {
+      "record": "Kansas_v_Colorado_original_exceptions_1995-05-15.md",
+      "component": "Colorado: laches",
+      "stated": [
+        9,
+        0
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "OConnor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [],
+      "errors": []
+    },
+    {
+      "record": "Kansas_v_Colorado_original_exceptions_1995-05-15.md",
+      "component": "Colorado: Plan legal credit",
+      "stated": [
+        9,
+        0
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "OConnor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [],
+      "errors": []
+    },
+    {
+      "record": "Kansas_v_Colorado_original_exceptions_1995-05-15.md",
+      "component": "Kansas: Trinidad Principles",
+      "stated": [
+        9,
+        0
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "OConnor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [],
+      "errors": []
+    },
+    {
+      "record": "Kansas_v_Colorado_original_exceptions_1995-05-15.md",
+      "component": "Kansas: WWSP depletion",
+      "stated": [
+        9,
+        0
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "OConnor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [],
+      "errors": []
+    },
+    {
+      "record": "Kansas_v_Colorado_original_exceptions_1995-05-15.md",
+      "component": "Kansas: usable-water methodology",
+      "stated": [
+        9,
+        0
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "OConnor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [],
+      "errors": []
+    },
+    {
+      "record": "Kansas_v_Colorado_original_exceptions_1995-05-15.md",
+      "component": "Unexcepted: WWSP prior approval",
+      "stated": [
+        9,
+        0
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "OConnor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [],
+      "errors": []
+    },
+    {
+      "record": "Kansas_v_Colorado_original_exceptions_1995-05-15.md",
+      "component": "Unexcepted: Lake McKinney",
+      "stated": [
+        9,
+        0
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "OConnor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [],
+      "errors": []
+    },
+    {
+      "record": "Kansas_v_Colorado_original_exceptions_1995-05-15.md",
+      "component": "Unexcepted: Kansas wells",
+      "stated": [
+        9,
+        0
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "OConnor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [],
+      "errors": []
+    },
+    {
+      "record": "Kansas_v_Colorado_original_exceptions_1995-05-15.md",
+      "component": "Further original proceedings",
+      "stated": [
+        9,
+        0
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "OConnor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [],
+      "errors": []
+    },
+    {
+      "record": "Kyles_v_Whitley_merits_1995-04-19.md",
+      "component": "Conviction-level Brady claim",
+      "stated": [
+        6,
+        3
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "OConnor",
+        "Souter",
+        "Stevens",
+        "Stone"
+      ],
+      "opposition": [
+        "Kennedy",
+        "Scalia",
+        "Thomas"
+      ],
+      "errors": []
+    },
+    {
+      "record": "New_York_State_Conference_of_Blue_Cross_Blue_Shield_Plans_v_Travelers_Insurance_Co_merits_1995-04-26.md",
+      "component": "Reviewed commercial-insurance application of the 13% hospital differential",
+      "stated": [
+        9,
+        0
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "OConnor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [],
+      "errors": []
+    },
+    {
+      "record": "New_York_State_Conference_of_Blue_Cross_Blue_Shield_Plans_v_Travelers_Insurance_Co_merits_1995-04-26.md",
+      "component": "Reviewed commercial-insurance application of the additional 11% charge",
+      "stated": [
+        9,
+        0
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "OConnor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [],
+      "errors": []
+    },
+    {
+      "record": "New_York_State_Conference_of_Blue_Cross_Blue_Shield_Plans_v_Travelers_Insurance_Co_merits_1995-04-26.md",
+      "component": "Reviewed HMO application of the conditional up-to-9% assessment",
+      "stated": [
+        9,
+        0
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "OConnor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [],
+      "errors": []
+    },
+    {
+      "record": "New_York_State_Conference_of_Blue_Cross_Blue_Shield_Plans_v_Travelers_Insurance_Co_merits_1995-04-26.md",
+      "component": "Reviewed direct-self-funded adjudication and associated ERISA hospital-surcharge protection, insofar as either reaches an application left unresolved",
+      "stated": [
+        9,
+        0
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "OConnor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [],
+      "errors": []
+    },
+    {
+      "record": "Rubin_v_Coors_Brewing_Co_merits_1995-04-19.md",
+      "component": "Challenged numerical label ban",
+      "stated": [
+        9,
+        0
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "OConnor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [],
+      "errors": []
+    },
+    {
+      "record": "Stone_v_Immigration_and_Naturalization_Service_merits_1995-04-19.md",
+      "component": "Original-order timeliness dismissal",
+      "stated": [
+        5,
+        4
+      ],
+      "support": [
+        "Ginsburg",
+        "Kennedy",
+        "Scalia",
+        "Stevens",
+        "Thomas"
+      ],
+      "opposition": [
+        "Breyer",
+        "OConnor",
+        "Souter",
+        "Stone"
+      ],
+      "errors": []
+    },
+    {
+      "record": "United_States_v_Harris_merits_1995-04-27.md",
+      "component": "Commerce challenge to original \u00a72119 and the dependent federal predicate",
+      "stated": [
+        9,
+        0
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "OConnor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [],
+      "errors": []
+    },
+    {
+      "record": "United_States_v_Harris_merits_1995-04-27.md",
+      "component": "Presented criminal-fault and fair-notice challenges",
+      "stated": [
+        9,
+        0
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "OConnor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [],
+      "errors": []
+    },
+    {
+      "record": "United_States_v_Harris_merits_1995-04-27.md",
+      "component": "Cumulative convictions and consecutive punishment",
+      "stated": [
+        9,
+        0
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "OConnor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [],
+      "errors": []
+    },
+    {
+      "record": "United_States_v_Lopez_merits_1995-04-26.md",
+      "component": "Original \u00a7922(q)(1)(A) conviction and dismissal mandate",
+      "stated": [
+        5,
+        4
+      ],
+      "support": [
+        "Kennedy",
+        "OConnor",
+        "Scalia",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [
+        "Breyer",
+        "Ginsburg",
+        "Souter",
+        "Stevens"
+      ],
+      "errors": []
+    },
+    {
+      "record": "United_States_v_Pinson_merits_1995-05-08.md",
+      "component": "Preserved Fourth Amendment search claim",
+      "stated": [
+        7,
+        2
+      ],
+      "support": [
+        "Ginsburg",
+        "OConnor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [
+        "Breyer",
+        "Kennedy"
+      ],
+      "errors": []
+    },
+    {
+      "record": "United_States_v_Pinson_merits_1995-05-08.md",
+      "component": "Challenged suppression ruling and conviction affirmance",
+      "stated": [
+        7,
+        2
+      ],
+      "support": [
+        "Ginsburg",
+        "OConnor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone",
+        "Thomas"
+      ],
+      "opposition": [
+        "Breyer",
+        "Kennedy"
+      ],
+      "errors": []
+    },
+    {
+      "record": "United_States_v_Williams_merits_1995-04-25.md",
+      "component": "Statutory availability of Williams's refund action",
+      "stated": [
+        7,
+        2
+      ],
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "OConnor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone"
+      ],
+      "opposition": [
+        "Kennedy",
+        "Thomas"
+      ],
+      "errors": []
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,134 @@
+{
+  "records": [
+    {
+      "record": "California_Department_of_Corrections_v_Morales_merits_1995-04-25.md",
+      "effective_date": "1995-04-25",
+      "explanation_words": [
+        166
+      ],
+      "public_blocks": 11,
+      "sha256": "f2358309b0e69cce17e55f3fee02ae59b0b0f6b78de96487c8c94d11b6a9500f"
+    },
+    {
+      "record": "Hubbard_v_United_States_merits_1995-05-15.md",
+      "effective_date": "1995-05-15",
+      "explanation_words": [
+        160,
+        162,
+        160,
+        155
+      ],
+      "public_blocks": 11,
+      "sha256": "4adf6d40fc29bd2ff1e19a5c9968f5fe2a0f4e35799a04b957a74511738f79e3"
+    },
+    {
+      "record": "Kansas_v_Colorado_original_exceptions_1995-05-15.md",
+      "effective_date": "1995-05-15",
+      "explanation_words": [
+        167,
+        162,
+        164,
+        166,
+        172,
+        169,
+        161,
+        163,
+        157,
+        164
+      ],
+      "public_blocks": 11,
+      "sha256": "ffb0bb168031b43c1f7613bbe6135406be4736fe7ff00249ba3da74be4c7ab47"
+    },
+    {
+      "record": "Kyles_v_Whitley_merits_1995-04-19.md",
+      "effective_date": "1995-04-19",
+      "explanation_words": [
+        153,
+        159,
+        153
+      ],
+      "public_blocks": 11,
+      "sha256": "75e76afab6b3e0f3f9694423fc36fe23ed8ae9eb4ce9e13c835a1752e2251e5b"
+    },
+    {
+      "record": "New_York_State_Conference_of_Blue_Cross_Blue_Shield_Plans_v_Travelers_Insurance_Co_merits_1995-04-26.md",
+      "effective_date": "1995-04-26",
+      "explanation_words": [
+        174,
+        164,
+        165,
+        171
+      ],
+      "public_blocks": 11,
+      "sha256": "7cdef02eeb2b4934e479df346d0cc217b7e629208d726dc6c4e16c366a95c289"
+    },
+    {
+      "record": "Rubin_v_Coors_Brewing_Co_merits_1995-04-19.md",
+      "effective_date": "1995-04-19",
+      "explanation_words": [
+        159,
+        164,
+        156
+      ],
+      "public_blocks": 11,
+      "sha256": "f2edc7df9253af5c07f816557ce4447ca68ce80f8e1d5077a9d4944ed01e0391"
+    },
+    {
+      "record": "Stone_v_Immigration_and_Naturalization_Service_merits_1995-04-19.md",
+      "effective_date": "1995-04-19",
+      "explanation_words": [
+        165
+      ],
+      "public_blocks": 11,
+      "sha256": "ffbd6ef28b3802b0a56189f93d238c51feadec5008969e5d46679a2e1f5ec91f"
+    },
+    {
+      "record": "United_States_v_Harris_merits_1995-04-27.md",
+      "effective_date": "1995-04-27",
+      "explanation_words": [
+        165,
+        166,
+        161,
+        156
+      ],
+      "public_blocks": 11,
+      "sha256": "d9f9a60338f1aafd3cff0963bb8abfcace6ffd105c41228ca30ca4ae14901ace"
+    },
+    {
+      "record": "United_States_v_Lopez_merits_1995-04-26.md",
+      "effective_date": "1995-04-26",
+      "explanation_words": [
+        172,
+        165
+      ],
+      "public_blocks": 11,
+      "sha256": "ef1418f4e37f1e05a53d67e7efdfa6c24f2a802172f6ec88fcd21a4d8de3423b"
+    },
+    {
+      "record": "United_States_v_Pinson_merits_1995-05-08.md",
+      "effective_date": "1995-05-08",
+      "explanation_words": [
+        159,
+        149,
+        162
+      ],
+      "public_blocks": 11,
+      "sha256": "b2c620c4eb7f9ca146a9521f75b7bc7f59ca310b21c3154084415b480361e809"
+    },
+    {
+      "record": "United_States_v_Williams_merits_1995-04-25.md",
+      "effective_date": "1995-04-25",
+      "explanation_words": [
+        167,
+        170,
+        162
+      ],
+      "public_blocks": 11,
+      "sha256": "d2618a6fafb27bc77bf7cf290d9c38474cb42e670eebff485fc4499c7ce0c8c1"
+    }
+  ],
+  "checks": "Preservation-receipt hashes, fixed headers, cutoff, eleven blocks, verbatim holding copies, explanation word bounds, public metadata scan, file links and protected opening-file hashes. Legal meaning and vote/joinder support remain qualitative assembly checks. No Git command invoked.",
+  "failures": [
+    "foundation/ENGINE.md changed"
+  ]
+}

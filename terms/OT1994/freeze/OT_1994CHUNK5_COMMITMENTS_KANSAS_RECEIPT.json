@@ -1,0 +1,52 @@
+{
+  "stage": "final independent modeling before historical reconciliation",
+  "matter": "Kansas v. Colorado, No. 105, Original",
+  "event": "1995-05-15",
+  "runtime": "terms\\OT1994\\runtime\\OT_1994CHUNK5_COMMITMENTS_KANSAS.md",
+  "freeze": "terms\\OT1994\\freeze\\OT_1994CHUNK5_COMMITMENTS_KANSAS.md",
+  "sha256": "9d4de87765539e9f0f31f9165889a55a876e558f18c51d9b22ffa2f1487c852d",
+  "byte_identical": true,
+  "substantive_body_copied_exactly": true,
+  "associate_rows": 8,
+  "named_associates": [
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "components_per_associate": [
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "total_component_positions": 80,
+  "actual_pinson_public_lines_read": [
+    513,
+    609
+  ],
+  "final_public_source": "terms\\OT1994\\entering-law\\OT_1994CHUNK5_BEFORE_1995-05-15.md",
+  "final_public_source_sha256": "bedcecf8a9db546baeb6c8029c0e3fbbc05914336c10350bf6d8010f953c9a71",
+  "earlier_eight_public_substance_identical": true,
+  "only_prior_prefix_change": "source-title cutoff date",
+  "refresh_changed_any_legal_ground_or_commitment": false,
+  "remaining_source_blocker": null,
+  "no_current_kansas_stone_or_comparator_exposure": true,
+  "git_commands_run": false,
+  "preserved_sources": {
+    "terms\\OT1994\\freeze\\OT_1994CHUNK5_COMMITMENTS_KANSAS_PRE_REFRESH.md": "e599c46349f352010e09598a4e0339f6e0011a5785b339fc8e9b8c4e657f6a20",
+    "terms\\OT1994\\runtime\\OT_1994CHUNK5_COMMITMENTS_KANSAS_PENDING_PINSON.md": "771f44188f8e2bb11ab5bcee6669d0ce589e6b5669e20c6c35d4e510022e4203",
+    "terms\\OT1994\\freeze\\OT_1994CHUNK5_KANSAS_ACTUAL_LAW_REVIEW_1995-04-26_PARTIAL.md": "fe373c0fc991711f18f824c269822ccebb40b0429011daad749745a7c18f0233",
+    "terms\\OT1994\\freeze\\OT_1994CHUNK5_KANSAS_TRAVELERS_REVIEW_PARTIAL.md": "0e1a9a304e63840732c53292de6276fa306f1906c7498d49bd7c4c60fe533989",
+    "terms\\OT1994\\freeze\\OT_1994CHUNK5_KANSAS_HARRIS_REVIEW_PARTIAL.md": "a3a7382ce9c7d38a6b456fa0799d0170b6653ee6492357ef25f234438fcc9a4b",
+    "terms\\OT1994\\freeze\\OT_1994CHUNK5_KANSAS_PINSON_FINAL_REVIEW.md": "8fbaea36828280b3c6da003271ff0db4713a8be3351bdf7752a11e08b2958836"
+  }
+}

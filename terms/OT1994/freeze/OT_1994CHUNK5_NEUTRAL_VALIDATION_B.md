@@ -1,0 +1,40 @@
+# OT1994 chunk5 — group B independent neutral validation
+
+**Stage:** Neutral validation only. No non-Stone commitments, model votes, joins, opinion assignments, reconciliation or assembly were produced. The packet is a repaired source handoff, not a frozen adjudication.
+
+**Released handoffs:**
+
+- [Validated Lopez / Travelers / Harris packet](../runtime/OT_1994CHUNK5_NEUTRAL_B_VALIDATED.md).
+- [Statutory qualifications and source-review supplement](../runtime/OT_1994CHUNK5_NEUTRAL_B_SOURCE_SUPPLEMENT.md), required with the packet.
+- [Exact additional actual Fabe law and published positions](../entering-law/OT_1994CHUNK5_B_FABE_SUPPLEMENT.md), required with entering-law B.
+
+**Scope isolation.** The validator read AGENTS.md and the three required foundations; candidate B, preflight B, entering-law B, the current neutral projection, allowed primary source files and cleaned substantive transcriptions. No private Stone material, current comparator, commitments, reconciliation, combined brief, raw Decision Record, existing control/exposure note, or comparator-source directory was opened. Public earlier-law excerpts can identify earlier published Stone positions; these are not private current-matter input. The parent expressly authorized the actual Fabe opening-law/public-render selection. Current-matter Supreme procedural recitals do not supply simulated grants or other actions.
+
+Williams is excluded from this validator's final certification and routed to a fresh context. The isolation incident and its evidence are recorded separately in a control-only artifact; that material must not accompany any neutral/model handoff. A navigation-only receipt identifies pre-stop Williams source reading for the fresh validator. No Williams outcome or new Williams framing appears in the released packet.
+
+## Readiness by matter
+
+| Matter | Core neutral status | Exact conditions and excluded surplus decisions |
+|---|---|---|
+|53 Williams|Not certified here; separately assigned fresh validation.|Use only the fresh validator's released Williams packet. This context must not complete its framing.|
+|54 Lopez|Ready for neutral modeling on the stated original-possession and indictment questions, with normal actual-law refresh.|Both the substantive power ground and the omitted-indictment-nexus ground must be addressed. Rejection of the power objection does not resolve the preserved supervised-release/special-assessment questions automatically. No automatic1994 retroactive cure, blanket decision of all discharge applications, new originalist reconstruction, or quantitative empirical premise is supplied. A materially broader new rationale needs its own primary support.|
+|55 Travelers|Ready for neutral modeling of the ERISA surcharge controversy and the stated narrower/remand alternatives, with normal actual-law refresh.|Keep13%,11% and conditional9% separate; preserve FEHBA and stop-loss-letter components outside supplied review. Saving for9% is not established as preserved. Direct self-funded/deemer resolution and an expressly requested remand are distinct paths. Exact1995 rate liability, mootness based on expiration, or an amended-law prospective command requires full intervening legislation and live-relief record; none is inferred. No new categorical insurance-factor rule is supplied.|
+|56 Harris|Predecision record/three-claim map ready; final modeling remains pending actual Lopez.|The clean actual-Lopez refresh is a hard chronological prerequisite. Particular instruction-error/harmless-error relief requires the indictment, jury charge and preservation record, which are absent. A bounded statutory/fair-notice analysis or explained remand is supported without inventing those records. No1994 §2119 intent phrase is applied to December1992 conduct.|
+
+## Corrections and completeness findings
+
+**Lopez.** Read the whole lower opinion, not only its constitutional discussion. Added the indictment alternative and dismissal mandate; identified the unresolved sentence claims from respondent's merits brief; read the complete Government reply addressing findings, aggregation, clear-statement construction and state regulation; independently read the exact original exemptions and complete1994 findings supplement. Preserved the distinction between an individual paid-delivery fact, the statute's class and the enacted elements. Full official Gregory and actual New York/Allied-Bruce/X-Citement positions support Justice-specific tests without attributing a commerce decision to the Allied-Bruce dissenters.
+
+**Travelers.** Read the complete amended lower judgment and statutory appendix. Separated ERISA, FEHBA, Tax Injunction Act, laches and Actuarial Letter dispositions. Verified the Blues' express exclusion of FEHBA/Actuarial Letter from the current issue; checked respondents' self-funded argument, the Blues' reply acknowledgment and HANYS's remand alternative. Checked the HMO respondents' distinct9% saving-preservation point. Replaced bare percentages with actual rate categories, exceptions, enrollment thresholds, district exemptions, caps, timing and point-of-service transfer conditions. Explicitly retained the appendix's statutory date bounds and11(i) ellipsis. Full Shaw/Mackey/FMC opinions, including every separate writing, and actual Fabe/Wolens/Board of Trade/John Hancock supply the competing legal grounds and each associate's applicable prior writing/join. No historical postdivergence Fabe rule or lineup was imported.
+
+**Harris.** Read the full lower opinion and Singleton, including footnotes. Verified original1992 §2119 and the actual41-plus60-month sentences. Read official§924(c) and amendment notes and explicitly reconstructed the offense-date differences rather than presenting the1994 Code as a1992 compilation. Full Hunter supplies same-trial cumulative-authority law and Stevens's contrary prior join. Actual Smith/Deal/Ratzlaf/Staples/Dixon/X-Citement/Shabani remain distinct; particularly, Singleton's historical claim about Dixon cannot displace the actual retention of Grady. Original §2119's commerce element and the car's interstate history are stated without predicting the effect of actual Lopez.
+
+**Justice-specificity.** The packet gives every current associate a source-linked comparison on each matter's material alternatives. Existing writings/joins are evidence to test both paths; they are not projected votes. Absence of a directly analogous earlier Supreme writing by a later appointee is not filled with a fictional join. A proposed doctrine extending beyond the sourced position must obtain additional primary support before freezing that choice.
+
+## Research receipt and verification
+
+The required source supplement distinguishes complete independent reading from selected passages, source-preparer reading and documents merely downloaded. Clean same-matter merit bodies omit withheld covers/procedural material mechanically. Complete official prior opinions independently read: Gregory, Hunter, Shaw, Mackey, FMC; Dalm was read for Williams before that matter stopped, but it supplies no Williams validation here. A downloaded Garcia PDF is not certified read or used as an independently reviewed Justice-specific source. An invalid guessed1992-Code HTML download was removed and is not cited.
+
+The Fabe supplement is a verbatim mechanical extraction of the full relevant opening Holdings entry, public judgment/topology and published separate position; the copied segments were checked against their exact source substrings. No raw Record was read. The original candidate, approved briefs, state, foundations and tools were not edited. All authored files and downloads are confined to terms/OT1994 or repository tmp; Python was invoked with -B. No Git operation was performed.
+
+The operator should send the released neutral packet, both supplements and the applicable refreshed neutral entering law to the model context, excluding this task's control-only artifacts. No point in this validation permits later actual current-chunk law to be predicted.

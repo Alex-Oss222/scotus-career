@@ -1,0 +1,14 @@
+[
+  {
+    "record": "California_Department_of_Corrections_v_Morales_merits_1995-04-25.md",
+    "sha256": "f2358309b0e69cce17e55f3fee02ae59b0b0f6b78de96487c8c94d11b6a9500f",
+    "finding": "Private lineage retains initial draft/not-yet-preserved wording although root reviewed and preserved this Record under the ASSEMBLY_MW receipt. Substance and Public Projection are unaffected.",
+    "status": "Administrative discrepancy recorded for operator verification; preserved Record bytes not rewritten."
+  },
+  {
+    "record": "United_States_v_Williams_merits_1995-04-25.md",
+    "sha256": "d2618a6fafb27bc77bf7cf290d9c38474cb42e670eebff485fc4499c7ce0c8c1",
+    "finding": "Private lineage retains initial draft/not-yet-preserved wording although root reviewed and preserved this Record under the ASSEMBLY_MW receipt. Substance and Public Projection are unaffected.",
+    "status": "Administrative discrepancy recorded for operator verification; preserved Record bytes not rewritten."
+  }
+]

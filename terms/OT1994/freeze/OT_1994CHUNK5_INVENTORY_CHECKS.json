@@ -1,0 +1,114 @@
+{
+  "inventory": [
+    {
+      "number": 49,
+      "caption": "Stone v. Immigration and Naturalization Service",
+      "date": "1995-04-19",
+      "records": [
+        "Stone_v_Immigration_and_Naturalization_Service_merits_1995-04-19.md"
+      ],
+      "stopped": false
+    },
+    {
+      "number": 50,
+      "caption": "Kyles v. Whitley",
+      "date": "1995-04-19",
+      "records": [
+        "Kyles_v_Whitley_merits_1995-04-19.md"
+      ],
+      "stopped": false
+    },
+    {
+      "number": 51,
+      "caption": "Rubin v. Coors Brewing Co.",
+      "date": "1995-04-19",
+      "records": [
+        "Rubin_v_Coors_Brewing_Co_merits_1995-04-19.md"
+      ],
+      "stopped": false
+    },
+    {
+      "number": 52,
+      "caption": "California Department of Corrections v. Morales",
+      "date": "1995-04-25",
+      "records": [
+        "California_Department_of_Corrections_v_Morales_merits_1995-04-25.md"
+      ],
+      "stopped": false
+    },
+    {
+      "number": 53,
+      "caption": "United States v. Williams",
+      "date": "1995-04-25",
+      "records": [
+        "United_States_v_Williams_merits_1995-04-25.md"
+      ],
+      "stopped": false
+    },
+    {
+      "number": 54,
+      "caption": "United States v. Lopez",
+      "date": "1995-04-26",
+      "records": [
+        "United_States_v_Lopez_merits_1995-04-26.md"
+      ],
+      "stopped": false
+    },
+    {
+      "number": 55,
+      "caption": "New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co. / Pataki v. Travelers Insurance Co. / Hospital Association of New York State v. Travelers Insurance Co.",
+      "date": "1995-04-26",
+      "records": [
+        "New_York_State_Conference_of_Blue_Cross_Blue_Shield_Plans_v_Travelers_Insurance_Co_merits_1995-04-26.md"
+      ],
+      "stopped": false
+    },
+    {
+      "number": 56,
+      "caption": "United States v. Harris +",
+      "date": "1995-04-27",
+      "records": [
+        "United_States_v_Harris_merits_1995-04-27.md"
+      ],
+      "stopped": false
+    },
+    {
+      "number": 57,
+      "caption": "United States v. Robertson",
+      "date": "1995-05-01",
+      "records": [],
+      "stopped": true
+    },
+    {
+      "number": 58,
+      "caption": "United States v. Pinson +",
+      "date": "1995-05-08",
+      "records": [
+        "United_States_v_Pinson_merits_1995-05-08.md"
+      ],
+      "stopped": false
+    },
+    {
+      "number": 59,
+      "caption": "Kansas v. Colorado",
+      "date": "1995-05-15",
+      "records": [
+        "Kansas_v_Colorado_original_exceptions_1995-05-15.md"
+      ],
+      "stopped": false
+    },
+    {
+      "number": 60,
+      "caption": "Hubbard v. United States",
+      "date": "1995-05-15",
+      "records": [
+        "Hubbard_v_United_States_merits_1995-05-15.md"
+      ],
+      "stopped": false
+    }
+  ],
+  "new_records": 11,
+  "stopped": 1,
+  "failures": [],
+  "limits": "Matches supplied docket and date only; legal disposition and vote checks are separate. No Git invoked."
+}

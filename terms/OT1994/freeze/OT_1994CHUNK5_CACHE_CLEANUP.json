@@ -1,0 +1,9 @@
+{
+  "artifact": "tools/__pycache__/build_entering_law.cpython-314.pyc",
+  "cause": "Early clean source-slicing imports of build_entering_law ran without Python -B; own child-session calls at 2026-09-29T23:38:51Z establish provenance.",
+  "scope_deviation": "An incidental bytecode cache was written outside the authorized directories. No tool source was changed.",
+  "cleanup": "Only that generated cache file was copied into ignored tmp and removed; no recursive deletion or other outside-directory edit. Later Python calls use -B and the clerical adapter sets PYTHONDONTWRITEBYTECODE.",
+  "removed": true,
+  "backup_sha256": "8f0c6d96e912a74384d6486c5ff74c32a7baea4cf5c243af80c8e2121606738a",
+  "empty_directory_cleanup": "The directory was created by the same imports at 19:38:52 local and is now empty. Automatic approval review rejected its nonrecursive removal with the stated reason blocked by policy. No retry; empty directory remains."
+}

@@ -1,0 +1,11 @@
+{
+  "opening_engine_sha256": "d63b5227566d2bb260b1a10b16b97c88089b7bc00602fe8981d9cf905302f95c",
+  "observed_engine_sha256": "debaf9f6d630d44e0ec551dd4291898a7fb706cc88287138be56479349c2ff3b",
+  "observed_file_mtime_local": "2026-09-29 20:43:56 America/New_York",
+  "recovery": "Exact opening hash recovered by substituting the original section 8 paragraph from this root session?s 23:33:26.700Z tool output into the current file. No Git command or Git-file inspection was used. Opening recovery is in ignored tmp/ot1994_chunk5_ENGINE_INTAKE_RECOVERED.md.",
+  "only_substantive_change": "Section 8 limits deliberate fit/expansion assignment to the Chief. A senior Associate assigning in the Chief?s absence instead follows that Justice?s own ordinary assignment practice, supported by reliable historical or Justice-specific evidence where available.",
+  "operator_edits_to_foundation": false,
+  "effect": "Neutral validation and independent merits modeling are unaffected. Stone v INS has the Chief dissenting, so its existing assignment explanation is potentially affected. Its judgment, rule and associate grounds are unaffected. Kyles and Coors have the Chief assigning, so unchanged. No existing Record silently rewritten.",
+  "user_clarification": "Requested asynchronously; pending. Modeling released because its rules did not change.",
+  "scope_verification": "All tool inputs in this root session and its 17 child sessions were scanned for ENGINE.md combined with write/patch operations. The six matches were scoped neutral/commitment patches or this change investigation; none wrote foundation/ENGINE.md. This is an operator-action check, not attribution of the external edit to a person."
+}

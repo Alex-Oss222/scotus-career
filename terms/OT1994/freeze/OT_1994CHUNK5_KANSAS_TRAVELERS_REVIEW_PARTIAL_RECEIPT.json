@@ -1,0 +1,17 @@
+{
+  "stage": "Travelers-only intermediate review",
+  "source": "terms\\OT1994\\entering-law\\OT_1994CHUNK5_BEFORE_1995-04-27.md",
+  "source_sha256": "2b58fdc5126de99ff1082abe89283b44793bf7b7c0929461d4b01bafc4a37297",
+  "inclusive_lines_read": [
+    283,
+    364
+  ],
+  "note": "terms\\OT1994\\freeze\\OT_1994CHUNK5_KANSAS_TRAVELERS_REVIEW_PARTIAL.md",
+  "note_sha256": "0e1a9a304e63840732c53292de6276fa306f1906c7498d49bd7c4c60fe533989",
+  "pre_refresh_unchanged": true,
+  "pre_refresh_runtime_byte_identical": true,
+  "prior_partial_review_unchanged": true,
+  "commitment_changes": false,
+  "final_release": false,
+  "git_commands_run": false
+}

@@ -1,0 +1,47 @@
+{
+  "manifest_events": 99,
+  "statuses": {
+    "Completed:": 59,
+    "Stopped:": 1,
+    "Open": 39
+  },
+  "ledger_records": 61,
+  "projections": {
+    "continuity": {
+      "public_fields_checked": 55,
+      "sha256": "846f0b8d8c331e08fa42701b155cfcd24cb617a863dba8afc316da14acfc85e0"
+    },
+    "neutral-projection": {
+      "public_fields_checked": 55,
+      "sha256": "d396c52a8e05be7e9253dda6d6011b268201f3f4af34cb7ae5c2f266ac6dc1b0"
+    }
+  },
+  "dated_slices": [
+    {
+      "file": "OT_1994CHUNK5_BEFORE_1995-04-25.md",
+      "effective_before": "1995-04-25",
+      "records": 3
+    },
+    {
+      "file": "OT_1994CHUNK5_BEFORE_1995-04-26.md",
+      "effective_before": "1995-04-26",
+      "records": 5
+    },
+    {
+      "file": "OT_1994CHUNK5_BEFORE_1995-04-27.md",
+      "effective_before": "1995-04-27",
+      "records": 7
+    },
+    {
+      "file": "OT_1994CHUNK5_BEFORE_1995-05-08.md",
+      "effective_before": "1995-05-08",
+      "records": 8
+    },
+    {
+      "file": "OT_1994CHUNK5_BEFORE_1995-05-15.md",
+      "effective_before": "1995-05-15",
+      "records": 9
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,1877 @@
+RECT AVAIL ARIE COPY 
+
+
+QUESTION PRESENTED 
+
+
+Whether 18 U.S.C. § 1962(a) requires a particularized 
+dvtermination whether the activities of an enterprise had 
+a substantial effect upon interstate commerce. 
+
+
+(i) 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+a i 
+ER Vv 
+I ssntitctpennonanece 1 
+RE SS RITES Se 1 
+CONSTITUTIONAL AND STATUTORY PROVI- 
+ES 2 
+a scadissunseotueenmnevecs 2 
+RS 0h) | 1. y cc 4 
+OEE EE DOL , 6 
+I. THE ACTIVITIES OF RESPONDENT’S GOLD 
+MINE DID NOT HAVE A SUBSTANTIAL 
+EFFECT ON INTERSTATE COMMERCE 
+AND ARE THEREFORE BEYOND THE 
+ee tides 6 
+A. Under this Court’s precedents, Congress’s 
+t power to regulate activities affecting inter- 
+state commerce extends only to those activi- 
+ties which individually or as a class have a 
+substantial effect on interstate commerce ...... 6 
+| 1. Most regulations of activities “affecting 
+) commerce” are “class of activities” statutes 
+that do not require a particularized inquiry 
+into a party’s effect on interstate commerce.. ® 
+| 2. General prohibitions require a particu- 
+! larized inquiry into the nexus between a 
+party’s activity and interstate commerce...... 10 
+
+
+3. RICO is not a “class of activities” statute.. 11 
+
+
+(iii) 
+
+
+i ees = lie A aad 
+
+
+ae ee nw 
+
+
+iv 
+TABLE OF CONTENTS—Continued 
+
+
+4. Sherman Act cases provide the best model 
+for the appropriate judicial inquiry........ 
+
+
+5. Petitioner posits a standard contrary to 
+this Court’s precedent in suggesting that 
+the “effects” on interstate commerce un- 
+der RICO are sufficient if they are “per- 
+ceptible and identifiable” 0.000.000.0000. 
+
+
+B. The activities of respondent’s gold mine did 
+not substantially affect interstate commerce 
+and are beyond the reach of RICO ................ 
+
+
+II. THE EXPANSION OF FEDERAL JURISDIC- 
+TION INTO AREAS HAVING MINIMAL CON- 
+NECTION WITH INTERSTATE COMMERCE 
+IMPOSES SUBSTANTIAL COSTS ON THE 
+FEDERAL-STATE BALANCE AND RIGHTS 
+GRANTED UNDER STATE LAW... 
+
+
+A. The “substantial effects” test serves to pre- 
+serve the delicate balance between state and 
+IEE adhtticinsach indi cetintenindnntininiithdeineiadatienien 
+
+
+B. RICO is already an expansive statute reach- 
+ing activities other than organized crime; 
+an extension of jurisdiction would be unwar- 
+gp NR a a 
+
+
+C. Federalization of criminal law is destroying 
+the balance between state and federal 
+
+
+Page 
+
+
+14 
+
+
+17 
+
+
+20 
+
+
+23 
+
+
+24 
+
+
+OT PER” me = 
+
+
+v 
+
+
+TABLE OF AUTHORITIES 
+
+
+CASES Page 
+Carter v. Carter Coal Co., 298 U.S. 238 (1936) ....... 7 
+F.C.C. v. American Broadcasting Co., 347 U.S. 284 
+
+I eect 26 
+Garcia V. San Antonio Metro. Transit Auth., 469 
+
+re a 7 ct Siseibiemiedinen 19, 26 
+Goldfarb v. Virginia State Bar, 421 U.S. 773 
+
+gpl OE AI <a ea ARR, VS MICAS ets SPL Sy Ra DO 17, 18 
+
+
+Gregory V. Ashcroft, 501 U.S. 452 (1991) ....19, 20, 23, 24 
+Gulf Oil Corp. v. Copp Paving Co., 419 U.S. 186 
+
+
+(Ea Sir te tons OER RS. Ste a 10, 12 
+Hammes v. AAMCO Transmissions, Inc., 33 F.3d 
+
+atone 16 
+Heart of Atlanta Motel, Inc. v. United States, 379 
+
+Sg Sk ETRE REALE a LA Da cr Oe x 
+Heille v. City of St. Paul, 671 F.2d 1134 (8th Cir. 
+
+a a i a 15 
+Hodel v. Virginia Surface Mining & Reclamation 
+
+Fw UG O_o 6, 8, 10 
+Holmes Vv. Securities Investor Protection Corp., 112 
+
+a ne endian tes a 16, 17 
+Hospital Bldg. Co. Vv. Trustees of Rex Hosp., 425 
+
+I Oe cmiampens 14, 22 
+Katzenbach Vv. McClung, 379 U.S. 294 (1964) ......... 8,9 
+Kolender v. Lawson, 461 U.S. 352 (1983) —.............. 13 
+Mandeville Island Farms v. American Crystal 
+
+Sugar Co., 334 U.S. 219 (1948) —......-.... Wan 14,17 
+Maryland v. Wirtz, 392 U.S. 183 (1968) —.............. 8 
+McCulloch v. Maryland, 17 U.S. (4 Wheat.) 316 
+
+(BARS AE RNS ES Se ee aOR Ds ae SS 6 
+McNally v. United States, 483 U.S. 350 (1987) ...... 23 
+McLain Vv. Real Estate Bd. of New Orleans, Inc., 
+
+Se Pee ee I cab setackccniicchstcccnticernendot 8, 14, 15, 18 
+Moskal v. United States, 498 U.S. 103 (1990) ....... a 27 
+Musick v. Burke, 913 F.2d 1390 (9th Cir. 1990) .... 15 
+NLRB v. Jones & Laughlin Steel Corp., 301 U.S. 1 
+
+FT ee Rar nen Sienna nti J 7,12 
+New York v. United States, 112 S. Ct. 2408 
+
+GENE tessinnnssecibcnsnsntntcinisintmntaintnansciateistuatiinelig eta tnitenints 27 
+
+
+vi 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+Polish Nat’l Alliance of the United States of N. 
+Am. v. NLRB, 322 U.S. 648 (1944) ................ 12, 23, 24 
+R.A.G.S. Culter, Inc. v. Hyatt, 774 F.2d 1350 (5th 
+2 TITLE RRS 0) Sere 18 
+Rewis v. United States, 401 U.S. 808 (1971) ......... 26 
+Rose V. Bartle, 871 F.2d 331 (3d Cir. 1989) ........... 18 
+Russell v. United States, 471 U.S. 858 (1985) ...... 8, 13,14 
+Schreiber Distrib. Co. v. Serv-Well Furniture Co., 
+806 F.2d 1393 (9th Cir. 1986) .............................. 25 
+Sedima, S.P.R.L. Vv. Imrex Co., 473 U.S. 479 
+I thi cttailiaiinetndinenttagnniannneeniepdmenicne 25 
+Shreveport Rate Cases, 234 U.S. 342 (1914) ~...... 18 
+Smith v. Goguen, 415 U.S. 566 (1978) ..................... 13 
+Stone v. William Beaumont Hosp., 782 F.2d 609 
+EI 6 aniniinasihignitbiadiintiaalbiitettiontnipittewistaneen 15 
+Summit Health, Ltd. v. Pinhas, 500 U.S. 322 
+a asltnetnisitseliieinapmathinntonice 15, 16 
+United States v. Darby, 312 U.S. 100 (1940)........ 7 
+United States v. Local 560 (I.B.T.), 974 F.2d 315 
+CE Ft BE iccnisieransrernnianigtetepiinteimitmsinmagparennens 17 
+United States v. Lopez, No. 93-2047 ........................ 19 
+United States v. McNinch, 356 U.S. 595 (1958)...... 26 
+United States v. Reese, 92 U.S. 214 (1876) ............. 13 
+United States v. Robertson, 15 F.3d 862 (9th Cir. 
+SI iciicinssiRiiciadithntactinysidtinitanentpnecreapeiagpnieisnanianscceees 25 
+United States v. Rone, 598 F.2d 564 (9th Cir. 
+1979), cert. denied, 445 U.S. 946 €1980) ............. 18, 19 
+United States v. Wrightwood Dairy Co., 315 U.S. 
+ED sds hicdedtntshaitihibeclinenttabtlinnabaiiteetustinintencee 7,12 
+Wickard V. Filburn, 317 U.S. 111 (1942) ................. 8, 9,12 
+STATUTES AND LEGISLATIVE MATERIALS 
+I EE —e— ee 2 
+0S ST 10, 14 
+ee I peccecicicinccinicetcnrnntecepstewemrneniesinans 2,9 
+iia cicchnacitenechdndinctncstamentiameneetiitileiel 19 
+ITIP, .:cxsscisdinieimsesesenssinnnavnseshishdbeaiiintlatigalal 6, 11 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Siete thi tee ee 
+
+
+SEE EERE EEE EERE RR EERE EEE EEE EEE EERE eee ee eeee 
+
+
+ETS a ee 
+Pub. L. No. 87-781, § 301 (1962) 
+Organized Crime Control Act of 1970, Pub. L. No. 
+Rs Oe ees 
+S. 2048, 90th Cong., Ist Sess. (1967)... 
+Measures Relating to Organized Crime: Hearings 
+on S. 30, S. 994 Before the Subcomm. on Crimi- 
+nal Laws and Procedure of the Senate Comm. on 
+the Judiciary, 91st Cong., 1st Sess. 496 (1969) .. 
+115 Cong. Rec. 9567 (1969) 
+
+
+BOOKS AND JOURNALS 
+
+
+Philip E. Areeda & Herbert Hovenkamp, ANTI- 
+TRUST LAW, {] 232.1c, 301-04 (1994 Supp.)........ 
+Stephen Calkins, The 1990-91 Supreme Court 
+Term and Antitrust, 60 ANTITRUST L.J. 603 
+(1991) 
+
+
+OREO O ORE Eee eeeee 
+
+
+PES EEE EOE EEE EEE EEE EEE EEE ESE EE HEE SESE SESE REESE EERE EEE ee Eeeeeee 
+
+
+1948) 
+
+
+FOOSE SOO SESE SESS SESE ESSE SSEEESESSSSESESESESSESES ESE SESE SESE EEE SE SES SESOOS 
+
+
+REPORTS AND MISCELLANEOUS MATERIALS 
+
+
+Conference of Chief Justices, Resolution IX (Feb. 
+a Re ARTE ONES EFS Ce Se Re Oe 
+Judicial Conference of the United States, Federali- 
+zation of State Prosecutions, Position of the 
+Judicial Conference of the United States (Sept. 
+I, a 
+Ee ares. 2) ene ee 
+Ninth Circuit Judicial Conference, Mem. No. 4 
+TTI. nine hiiiscapecietichdatiincina si hai aa 
+Report of the Fed. Courts Study Comm. (Apr. 2, 
+1990) 
+
+
+3 
+
+
+3 
+
+
+8 
+
+
+IN THE 
+Supreme Court of the Wuited States 
+
+
+OCTOEFER TERM, 1994 
+
+
+No. 94-251 
+
+
+UNITED STATES OF AMERICA, 
+
+
+. Petitioner 
+
+
+JUAN PAUL ROBERTSON 
+
+
+[Procedural cover text omitted.] 
+
+
+BRIEF FOR RESPONDENT 
+
+
+OPINION BELOW 
+
+
+The opinion of the court of appeals (Pet. App. la- 
+36a) is reported at 15 F.3d 862 (9th Cir. 1994). 
+
+
+[Procedural section withheld from this source reading copy.]
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+1. The Commerce Clause of the Constitution, Article 
+I, Section 8, Clause 3, provides: “The Congress shall 
+have Power . . . to regulate Commerce with foreign Na- 
+tions, and among the several States, and with the Indian 
+Tribes.” 
+
+
+2. The pertinent provisions of the Racketeer Influenced 
+and Corrupt Organizations Act (RICO), 18 U.S.C. 
+§§ 1961 et seq., are set forth in an appendix to this brief. 
+
+
+STATEMENT 
+
+
+1. On November 15, 1983, respondent Juan Paul 
+Robertson, stole a Cadillac containing $980,000 and two 
+kilograms of cocaine. In 1984, respondent and his wife 
+purchased a home near Phoenix for $270,000 in cash. 
+Pet. App. 3a; Tr. 61-76, 371-72. They also made ad- 
+ditional large cash purchases totalling approximately 
+$700,000. Pet. App. 3a; Tr. 383-405. 
+
+
+In 1985, respondent and Richard Horchler agreed as 
+equal partners to buy mining claims in Alaska. Horchler 
+negotiated the purchase of the claims for $125,000. He 
+and a crew went to Alaska to begin work to make the 
+claims operational. There, he purchased heavy equipment, 
+including a bulldozer and frontloader, bought hand tools, 
+and made arrangements to buy a generator. Respondent 
+gave Horchler $85,000 for initial purchases and for sal- 
+aries. Tom Black, a friend of respondent, purchased a 
+small truck in Los Angeles and drove to Alaska with 
+some of his tools to assist in setting up the mine. While 
+in Alaska, Horchler and respondent agreed to name the 
+mining operation “Double Eagle.” The “Double Eagle” 
+mining partnership lasted from June 20, 1985 until July 
+31, 1985, when it was dissolved. Thereafter, the mining 
+operation became “Robertson Mining Company.” A small 
+quantity of gold was mined and sold in 1985. Tr. 825- 
+36, 608-12, 909, 915, 1004-15, 2067. 
+
+
+3 
+
+
+In 1986, Tim Robertson, respondent’s brother, and 
+Boyce Clock drove the Cadillac to Alaska so that they 
+could work with respondent and others at the mine. The 
+Cadillac was wrecked after they arrived, and was inoper- 
+able at the mine. Respondent obtained his pilot’s license 
+in 1986, bought a plane, and used it to fly from Alaska. 
+Tr. 757-58, 1720, 1904-05. 
+
+
+According to respondent’s ex-wife, in 1986, she and 
+respondent received a $300,000 loan secured by the house 
+in Phoenix. Respondent allocated a portion of this loan 
+for mine expenses. Approximately $200,000 of gold was 
+sold by the mine. All of the purchasers were Alaskan 
+refiners. Respondent kept about $30,000 of nuggets. Jd. 
+at 453-60, 782-83, 1906-07. In 1987, the mine was not 
+profitable; and that year respondent gave the mine to his 
+wife as part of their dissolution. Jd. at 1985-86. 
+
+
+2. On October 17, 1991, respondent was indicted on 
+eight narcotics and racketeering counts. A jury found 
+respondent guilty on four narcotics counts and one count 
+of investing racketeering proceeds in an enterprise, the 
+activities of which affect interstate commerce, in violation 
+of 18 U.S.C. 1962(a). Respondent was sentenced to con- 
+current terms of twenty years imprisonment on each of 
+the five counts. 
+
+
+3. The court of appeals reversed respondent’s RICO 
+conviction and affirmed the narcotics convictions. Pet. 
+App. 7a-10a. In a unanimous decision, the panel held 
+that RICO’s interstate nexus requirement was not satis- 
+fied because “the Government failed to establish that the 
+RICO enterprise had anything more than an incidental 
+effect on interstate commerce.” Jd. at 9a. The court 
+noted that “none of the gold obtained from the mine was 
+sold outside Alaska.” Jd. The court further found that 
+“(t]he mine was a relatively small and entirely local op- 
+eration.” Jd. The court rejected the Government’s argu- 
+
+
+4 
+
+
+ment that respondent's use of an airplane and the Cadillac 
+were sufficient to establish the requisite impact on inter- 
+State commerce. /d. at 10a. Evidence that some start-up 
+funds originated in Arizona was similarly disregarded as 
+not an activity of the enterprise. “There was no evidence 
+introduced to show that the activities of the enterprise 
+itself affected interstate commerce.” Jd. at 9a. 
+
+
+Judge Reinhardt, writing a special concurrence, ex- 
+pressed concern over the overcharging of respondent by 
+the prosecution. “Rather than simply prosecuting the de- 
+fendant on the basis of the overwhelming evidence of his 
+illicit drug activity, the prosecutors . . . decided to turn 
+the defendant’s ownership of a gold mine into the center- 
+piece of his prosecution.” Jd. at 28a-29a. Judge Rein- 
+hardt stated that the “practice of overcharging a defend- 
+ant involves an abuse of the prosecutor’s generally unre- 
+viewable discretion.” Jd. at 29a-30a. He further noted 
+that RICO “seems particularly susceptible to prosecutorial 
+abuse, given that its scope is broad and somewhat ill- 
+defined, and its penalties are severe.” Id. at 32a. 
+
+
+The Government's petition for rehearing was denied and 
+its suggestion for rehearing en banc was rejected without 
+dissent on April 26, 1994. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Respondent was charged and convicted under 18 U.S.C. 
+§ 1962(a) which makes unlawful the investment of funds 
+derived from a pattern of racketeering activity in an enter- 
+prise whose activities “affect[] interstate or foreign com- 
+merce.” The activities of respondent’s gold mine did not 
+“affect” interstate commerce within the meaning of the 
+Statute. 
+
+
+A. Under this Court’s precedents, congressional power 
+to regulate activities affecting interstate commerce extends 
+only to those activities which individually or when ag- 
+gregated as a class have a “substantial effect” upon inter- 
+state commerce. If Congress sets out to regulate a par- 
+
+
+—— = = <> 
+
+
+5 
+
+
+ticular industry or “class of activity,” courts review Con- 
+gress’s determination that the cumulative effect of the 
+activities of the industry or class has a substantial effect 
+on interstate commerce. Neither the language of the 
+RICO statute nor its legislative history demonstrates a 
+congressional purpose to regulate a “class of activities.” 
+Rather, 18 U.S.C. § 1962(a), like the Sherman Act, is 
+a general prchibition. Accordingly, under RICO the fact- 
+finder must analyze the individual activities of the enter- 
+prise in question to determine whether they nave a sub- 
+stantial effect on interstate commerce. 
+
+
+B. Applying the “substantial effect” standard and con- 
+ducting a particularized inquiry compel the conclusion that 
+respondent’s gold mining enterprise had an insufficient 
+nexus with interstate commerce under 18 U.S.C. § 1962 
+(a). First, the sales of gold from the mine were only 
+approximately $200,000 over a three-year period, and all 
+the sales were made to refiners within Alaska. Second, 
+the investment of monies in the mine and equipment in 
+order to establish and sustain the operation is not an “ac- 
+tivit{y] of [the mine] which affects[] interstate commerce.” 
+Third, the use of the telephones and mails is a con- 
+comitant but is not an activity of the mine as contem- 
+plated by the RICO statute. If such use were a sufficient 
+“effect” on commerce, then federal laws like RICO and 
+the Sherman Act would cover every imaginable form of 
+economic activity. 
+
+
+C. The “substantial effect” standard and a rigorous 
+particularized inquiry serve to preserve the delicate bal- 
+ance between state and federal power and to maintain 
+the separation of powers. To apply a lesser standard 
+would, in the case of RICO, result in an unwarranted 
+federalization and proliferation of criminal and civil cases. 
+In general, because other statutes, such as the Sherman 
+Act, also base jurisdiction on effects upon commerce, it 
+would result in a further overburdening of the federal 
+courts. 
+
+
+6 
+
+
+ARGUMENT 
+
+
+I. THE ACTIVITIES OF RESPONDENT'S GOLD MINE 
+DID NOT HAVE A SUBSTANTIAL EFFECT ON 
+INTERSTATE COMMERCE AND ARE THERE- 
+FORE BEYOND THE REACH OF RICO. 
+
+
+Congress “can exercise only the powers granted to it” 
+by the Constitution. McCulloch vy. Maryland, 17 U.S. 
+(4 Wheat.) 316, 405 (1819). “[U]nlike the reserved po- 
+lice powers of the States, which are plenary unless chal- 
+lenged as violating some specific provision of the Con- 
+stitution, the connection with interstate commerce is itself 
+a jurisdictional prerequisite for any substantive legisla- 
+tion by Congress under the Commerce Clause.” Hodel v. 
+Virginia Surface Mining & Reclamation Ass'n, 452 US. 
+264, 311 (1981) (Rehnquist, J., concurring). Under the 
+Commerce Clause, Congress can regulate (1) the chan- 
+nels of interstate commerce; (2) the instrumentalities of 
+interstate commerce; and (3) activities affecting com- 
+merce. Perez v. United States, 402 U.S. 146, 150 (1971). 
+
+
+In the instant case, jurisdiction is asserted based upon 
+the third category—activities affecting commerce. The 
+Racketeer Influenced and Corrupt Organizations Act 
+(RICO), 18 U.S.C. §§ 1961 et seq., prohibits the invest- 
+ment of racketeering proceeds into an “enterprise . . . 
+the activities of which affect[] interstate or foreign com- 
+merce.” Jd. § 1962(a). The issue here is the requisite 
+“effect” on interstate commerce necessary to fall within 
+the reach of RICO. 
+
+
+A. Under this Court’s precedents, Congress’s power to 
+regulate activities affecting interstate commerce 
+extends only to those activities which individually 
+or as a class have a substantial effect on interstate 
+commerce. 
+
+
+Petitioner urges the Court to hold that “perceptible and 
+identifiable” effects upon interstate commerce are sufficient 
+to confer jurisdiction under the Commerce Clause. Pet. 
+Br. 25; see infra at Part I, A-5. This Court, however, 
+has long held that the Commerce Clause grants Congress 
+
+
+7 
+
+
+the power to regulate activities “affecting commerce” only 
+when they have a substantial effect on interstate com- 
+merce. In NLRB v. Jones & Laughlin Steel Corp., 301 
+U.S. 1 (1937), the Court held that Congress could regu- 
+late labor relations at any manufacturing plant which 
+had interstate sales. See id. at 40-42. Jones & Laughlin 
+was issued less than one year after the Court struck down 
+the application of the same statute to striking coal miners 
+because mining was “manufacturing” not “commerce.” 
+See Carter v. Carter Coal Co., 298 U.S. 238, 302 (1936). 
+The Jones & Laughlin Court adopted a more expansive 
+definition of “commerce,” which emphasized the inter- 
+connected nature of the national economy, declaring that 
+a work stoppage “would have a most serious effect upon 
+interstate commerce.” Jones & Laughlin, 301 U.S. at 41 
+(emphasis added). The requirement of a “serious effect” 
+was necessary to counter the concern, as expressed by 
+Chief Justice Hughes, that 
+
+
+[t]he authority of the federal government may not be 
+pushed to such an extreme as to destroy the distinc- 
+tion, which the commerce clause itself establishes, 
+between commerce “among the several States” and 
+the internal concerns of a state. That distinction be- 
+tween what is national and what is local in the ac- 
+tivities of commerce is vital to the maintenance of our 
+federal system. 
+
+
+Id. at 30. 
+
+
+In United States v. Darby, 312 U.S. 100 (1940), this 
+Court stated, “But it does not follow that Congress may 
+not by appropriate legislation regulate intrastate activities 
+where they have a substantial effect on interstate com- 
+merce.” Id. at 119 (citing Santa Cruz Fruit Packing Co. 
+Vv. NLRB, 303 U.S. 453, 466 (1938)) (emphasis added). 
+In United States v. Wrightwood Dairy Co., 315 U.S. 110 
+(1942), Chief Justice Stone wrote that the commerce 
+power “extends to those intrastate activities which in a 
+substantial way interfere with or obstruct the exercise of 
+
+
+8 
+
+
+the granted power.” /d. at 119 (emphasis added). Simi- 
+larly, in Wickard v. Filburn, 317 U.S. 111 ( 1942), in an 
+oft-quoted passage, the Court stated: 
+
+
+even if appellee’s activity be local and though it may 
+not be regarded as commerce, it may still, whatever 
+its nature, be reached by Congress if it exerts a sub- 
+stantial economic effect on interstate commerce, and 
+this irrespective of whether such effect is what might 
+at some earlier time have been defined as “direct” or 
+“indirect.” 
+
+
+Id. at 125 (emphasis added); see also McLain v. Real 
+Estate Bd. of New Orleans, Inc., 444 U.S. 232, 244 
+(1980); Heart of Atlanta Motel, Inc. v. United States, 
+379 U.S. 241, 258 (1964); Katzenbach v. McClung, 379 
+U.S. 294, 302 (1964); Perez, 402 U.S. at 151-52. The 
+necessity of a “substantial effect” on interstate commerce 
+was directly addressed by Justice Harlan who, writing for 
+the Court in Maryland v. Wirtz, 392 U.S. 183 (1968), 
+declared: “Neither here nor in Wickard has the Court 
+declared that Congress may use a relatively trivial impact 
+on commerce as an excuse for broad general regulation 
+of state or private activities.” Jd. at 196 n.27: see also 
+Hodel, 452 U.S. at 309 (Rehnquist, J., concurring); 
+Russell v. United States, 471 U.S. 858, 859 n.4 (1985) 
+(referring to “all activity substantially affecting interstate 
+commerce”) (emphasis added) (citations omitted). 
+
+
+1. Most regulations of activities “affecting com- 
+merce” are “class of activities” statutes that do 
+not require a particularized inquiry into a party’s 
+effect on interstate commerce. 
+
+
+Congress has exercised its power to regulate activities 
+“affecting commerce” in two distinct ways. Typically, 
+Congress has enacted statutes regulating an entire class 
+of activities that in the aggregate has a substantial effect 
+on interstate commerce. In some instances, however, 
+Congress enacts a general prohibition, like the Sherman 
+
+
+9 
+
+
+Act. In such general prohibitions, Congress writes a 
+jurisdictional requirement into the text of the statute. 
+
+
+In 1942, this Court held that the production of a single 
+wheat farmer was within the scope of federal regulation 
+because “taken together with that of many others simi- 
+larly situated” it had “a substantial influence on price 
+and market conditions.” Wickard, 317 U.S. at 128. Con- 
+gress has relied on the “cumulative effect” principle of 
+Wickard as its constitutional justification for the enact- 
+ment of civil rights legislation;* regulatory measures af- 
+fecting the sale of foods and additives;* a registration 
+law for drug producers; * and criminal statutes. 
+
+
+For example, in Title II of the Consumer Credit Pro- 
+tection Act, 18 U.S.C. §§ 891 et seq., Congress made 
+explicit findings that extortionate credit transactions affect 
+interstate commerce.‘ In interpreting the Act, this Court 
+held that—based on legislative findings that loan-sharking 
+in general substantially affected interstate commerce— 
+Congress could make criminal any purely intrastate loan- 
+sharking activity: 
+
+
+Where the class of activities is regulated and that 
+class is within the reach of federal power, the courts 
+have no power “to excise as trivial, individual in- 
+stances” of the class. 
+
+
+Perez, 402 U.S. at 154 (quoting Wirtz, 392 U.S. at 193). 
+
+
+1 See, e.g., 42 U.S.C. § 2000a, upheld in Katzenbach v. McClung, 
+379 U.S. 294, 305 (1964). 
+
+
+* See, e.9., 21 U.S.C. §§ 347, 347a (oleomargarine). 
+8 See, e.g., 21 U.S.C. § 360; Public Law 87-781, § 301 (1962). 
+
+
+*Section 201(a) of Title II states in pertinent part: “Even 
+where extortionete credit transactions are purely intrastate in 
+character, they nevertheless directly affect interstate and foreign 
+commerce.” 18 U.S.C. § 891. 
+
+
+10 
+
+
+The judicial inquiry is relatively superficial when Con- 
+gress has identified the activity or industry to be regulated, 
+and findings (explicit or implicit) demonstrate a substan- 
+tial effect on interstate commerce. “The court must defer 
+to a congressional finding that a regulated activity affects 
+interstate commerce, if there is any rational basis for such 
+a finding.” Hodel, 452 U.S. at 276. 
+
+
+Thus, in cases involving a “class of activities” statute, 
+a court need find only that the party is a member of a 
+class whose activities Congress could rationally have 
+found have a substantial effect on interstate commerce. 
+When interpreting such statutes, the “substantial effect” 
+on interstate commerce is relatively easy to show because 
+an entire industry or market will almost always have a 
+substantial effect on interstate commerce. 
+
+
+2. General prohibitions require a particularized in- 
+quiry into the nexus between a party’s activity 
+and interstate commerce. 
+
+
+In contrast, the judicial inquiry is more rigorous and 
+involves a particularized determination of fact when cases 
+are brought under statutes containing general prohibitions, 
+like the Sherman Act and RICO. Congress cannot pos- 
+sibly predetermine all the types of trade or enterprises in- 
+tended to be covered by RICO or the Sherman Act. In 
+such statutes, Congress has included a nexus element re- 
+quiring proof that a particular activity or enterprise suf- 
+ficiently affects interstate commerce. See 15 U.S.C. § 1; 
+18 U.S.C. § 1962. Congress leaves the nexus determina- 
+tion to be made by the courts on a case-by-case basis. As 
+stated by this Court in Gulf Oil Corp. v. Copp Paving 
+Co., 419 U.S. 186 (1974): 
+
+
+The jurisdictional inquiry under general prohibitions 
+. .+ like § 1 of the Sherman Act, turning as it does 
+on the circumstances presented in each case and re- 
+quiring a particularized judicial determination, dif- 
+
+
+fers significantly from that required when Congress: 
+
+
+itself has defined the specific persons and activities 
+
+
+11 
+
+
+that affect commerce and therefore require federab 
+regulation. 
+
+
+Id. at 197 n.12 (emphasis added).° 
+
+
+3. RICO is not a “class of activities” statute. 
+
+
+RICO is a general prohibition intended to cover a 
+broad range of enterprises. The statute was enacted as 
+Title [IX of the Organized Crime Control Act of 1970, 
+Pub. L. No. 91-452, 84 Stat. 941. The “Statement of 
+Findings and Purpose” that prefaced the Act declares 
+Congress’s concern with organized crime and its infiltration 
+of legitimate businesses. Pub. L. No. 91-452, § 1, 84 
+Stat. 922-23; 18 U.S.C. § 1961. The legislative history 
+lists a broad range of activities that had been overtaken 
+by organized crime, including banking, construction, foot- 
+ball, and restaurants. See Measures Relating to Organized 
+Crime: Hearings on S. 30, S. 994 Before the Subcomm. 
+on Criminal Laws and Procedures of the Senate Comm. 
+on the Judiciary, 91st Cong., 1st Sess. 496 (1969) (Stmt. 
+by Sen. McClellan). 
+
+
+Neither the “Statement of Findings and Purpose” nor 
+the legislative history, including congressional findings, 
+indicates that Congress intended to regulate a “class of 
+activities.” ° The jurisdictional requirement that an “en- 
+terprise . . . affect interstate or foreign commerce” is a 
+further indication that RICO is not a “class[] of activities” 
+
+
+5 The Perez Court also noted the distinction, stating, “ ‘Congress 
+has sometimes left it to the courts to determine whether the 
+intrastate activities have the prohibited effect on the commerce, 
+as in the Sherman Act. . . . And sometimes Congress itself has 
+said that a particular activity affects the commerce... .’” Perez 
+Vv. United States, 402 U.S. 146, 152 (1971) (quoting United States 
+Vv. Darby, 312 U.S. 100, 120-21 (1940) ). 
+
+
+* The Ninety-First Congress certainly was aware of its power to 
+adopt a “class of activities” approach. Pub. L. No. 91-452, 84 Stat. 
+936—the same act that contains RICO—contains an explicit finding 
+that illegal gambling has “an effect upon, interstate commerce 
+noc ee 
+
+
+12 
+
+
+statute and that a determination as to whether there is a 
+“substantial” effect on interstate commerce is to be made 
+by the courts. Cf. Gulf Oil, 419 U.S. at 208." 
+
+
+Petitioner argues that the gold mine is part of a “class 
+of activities” that “in the aggregate substantially affects 
+interstate or foreign commerce.” Pet. Br. 21. Unlike 
+Perez v. United States, 402 U.S. 146, 153-54 (1971) 
+(class defined by Congress as loan-sharking activities), 
+Wickard v. Filburn, 317 U.S. 111, 124-25 (1942) (class 
+defined as wheat farmers), and United States v. Wright- 
+wood Dairy Co., 315 U.S. 110, 120 (1942) (class de- 
+fined as intrastate milk market), petitioner can point to 
+no identifiable class that Congress identified and sought 
+to regulate by the enactment of RICO. 
+
+
+By arguing that RICO should be treated as a “class of 
+activities” statute (Pet. Br. 19-21) and that the phrase 
+“affecting interstate commerce” indicates Congress’s intent 
+to exercise its full power, petitioner appears to be propos- 
+ing a “class” coterminous with the full reach of Congress’s 
+commerce power. This class would be comprised of all 
+enterprises affecting interstate commerce into which rack- 
+eteering funds could be invested. Such a class is far 
+broader than the categories defined in traditional “class 
+of activities” statutes. See supra. Such a broad class 
+makes the act of defining a class meaningless. More- 
+over, a class with such an ill-defined boundary is par- 
+
+
+T Although the presence of a nexus element in the statute is a 
+strong indicator of a general prohibition, there is at least one 
+statute that contains findings and a nexus element requiring that 
+the agency (the National Labor Relations Board) make a more 
+particularized inquiry. See Polish Nat'l Alliance of the United 
+States of N. Am. V. NLRB, 322 U.S. 643, 648 (1944). As peti- 
+tioner notes, in that case the Court held that the Board should 
+apply a “class of activities” approach. Jd.: Pet. Br. 20 n.6. How- 
+ever, unlike the instant case, Congress set forth specific findings 
+in the NLRB regarding the class of activities. See NLRB v. Jones 
+& Laughlin Steel Corp., 301 U.S. 1, 22 (1937) (discussing findings 
+found at 29 U.S.C. § 151). 
+
+
+ee 
+
+
+13 
+
+
+ticularly inappropriate for delineating criminal liability 
+and would present the possibility of prosecutorial abuse.* 
+
+
+While petitioner also contends that the class of activity 
+is the precious metal industry (Pet. Br. 21), RICO was not 
+enacted for the purpose of protecting just this industry. 
+It may be true that Congress can regulate gold mines 
+through, for example, safety and environmental laws. It 
+is very doubtful, however, that such laws were meant to 
+extend the reach of RICO’s civil and criminal provisions, 
+the Sherman Act, and other general prohibitions. The 
+question is not whether Congress has the power to regu- 
+late gold mines, but whether RICO’s proceeds provision, 
+18 U.S.C. § 1962(a), reaches respondent’s gold mine. 
+The class of activities approach defers to a congressional 
+determination about an industry or practice in the statute 
+at issue; it does not allow prosecutors, juries, or courts to 
+fill in the class of their choice.® 
+
+
+8 See Kolender v. Lawson, 461 U.S. 352 (1983). In Kolender 
+this Court recognized that the vagueness doctrine’s “more import- 
+ant aspect” is its requirement that legislatures not permit arbi- 
+trary and discriminatory enforcement of criminal statutes by giv- 
+ing unbridled discretion to those who must apply them. /d. at 
+358. To permit the class of proscribed enterprises under § 1962(a) 
+to be defined simply by reference to the full reach of the commerce 
+power would create a net so large and indefinite that prosecutors, 
+judges, and juries would be left free to step inside and pursue their 
+own personal predilections without even minimal guidelines. See 
+generally Smith v. Goguen, 415 U.S. 566, 575 (1973): United 
+States v. Reese, 92 U.S. 214, 221 (1876). Judge Reinhardt ex- 
+pressed this concern in his special concurrence in this case. See 
+Pet. App. 29a-32a. 
+
+
+* Petitioner relies on Russell v. United States, 471 U.S. 858 
+(1985). In Russell, the Court held that a federal anti-arson statute 
+covering “any building ... used .. . in any activity affecting inter- 
+state or foreign commerce” applied to an apartment building. Jd. 
+at 862 (quoting 18 U.S.C. § 844(i)). The Court, citing Perez, 
+justified its holding by arguing that the commercial market in 
+rental properties substantially affects interstate commerce. /d. 
+The Court held the arson statute to be a class of activities statute, 
+
+
+14 
+
+
+4. Sherman Act cases provide the best model for 
+the appropriate judicial inquiry. 
+
+
+The Sherman Act cases are an appropriate model for 
+the type of particularized inquiry required when courts 
+analyze the reach of a general prohibition like RICO. 
+The Sherman Act prohibits activities “in restraint of trade 
+or commerce among the several States.” 15 U.S.C. § 1. 
+Since 1948, this Court has held that this jurisdictional 
+requirement is satisfied by a showing that the activities 
+at issue in a particular case substantially affect commerce. 
+Mandeville Island Farms v. American Crystal Sugar Co., 
+334 U.S. 219, 234, 237 (1948). See also McLain v. 
+Real Estate Bd. of New Orleans, Inc., 444 U.S. 232, 242 
+(1980). 
+
+
+Courts reviewing a challenge to the Sherman Act’s in- 
+terstate commerce requirement have focused on the ac- 
+tivity of the particular party before the court—not the 
+activities of the entire industry to which that party be- 
+longs. For example, in Hospital Building Co. v. Trustees 
+of Rex Hospital, 425 U.S. 738 (1976), this Court did 
+not examine whether the hospital industry affected com- 
+merce, but rather whether defendants’ alleged conspiracy 
+had a substantial effect on interstate commerce. Id. at 
+744. Similarly, in McLain, the test was not whether the 
+entire real estate brokerage industry affected interstate 
+commerce.” Courts typically have focused either on the 
+defendant's general business activities or the impact of 
+
+
+not a general prohibition like the Sherman Act. Indeed, the Court 
+quoted from legislative history showing that Congress intended 
+for the statute to cover almost all buildings except most private 
+homes. Jd. at 861 nn.6-7. 
+
+
+10 In 1980, in McLain v. Real Estate Board of New Orleans, Inc., 
+444 U.S. 232 (1980), this Court appeared to endorse both a focused 
+inquiry into whether the particular restraint on trade had an 
+effect on interstate commerce and a relatively broader inquiry into 
+the impact of defendant’s business activities on interstate com- 
+merce. Jd. at 232, 242, 246. 
+
+
+15 
+
+
+defendant’s alleged restraint on trade.’ In order to find a 
+Sherman Act violation, the activities at issue must “ ‘as 
+a matter of practical economics’ . . . have a not insub- 
+stantial effect on the interstate commerce involved.” 
+McLain, 444 U.S. at 246 (quoting Hospital Bldg., 425 
+U.S. at 745). 
+
+
+Since 1980, a number of courts of appeal have held 
+that Sherman Act defendants’ business activities and/or 
+the alleged conspiracy had an insufficient nexus with in- 
+terstate commerce. The Eighth Circuit examined the ac- 
+tivities of the defendant’s trash collection business and 
+held that the business did not substantially affect inter- 
+state commerce despite its purchase of out-of-state trucks 
+and equipment. Heille v. City of St. Paul, 671 F.2d 1134 
+(8th Cir. 1982). In the precedent relied on by the 
+Ninth Circuit in this case, the panel unanimously heid 
+that a mobile catering company’s activities did not have 
+a substantial “effect on interstate commerce.” Musick 
+Vv. Burke, 913 F.2d 1390, 1396 (9th Cir. 1990). The 
+Musick Court held that the purchase of supplies and 
+equipment from out of state, by itself, is an insufficient 
+showing of interstate commerce nexus. /d. In one of the 
+many cases involving doctor’s privileges, the Sixth Circuit 
+held that excluding a doctor from a local hospital has no 
+more “than a de minimis impact on interstate commerce.” 
+Stone v. William Beaumont Hosp., 782 F.2d 609, 614 
+(6th Cir. 1986). 
+
+
+In 1991, in Summit Health, this Court held that the 
+denial of a doctor’s privileges had a sufficient nexus with 
+interstate commerce. Summit Health, Ltd. v. Pinhas, 500 
+U.S. 322, 331-32 (1991). Although the basis for the 
+decision is not altogether clear, the Summit Health Court 
+conducted a particularized inquiry into both the effect of 
+
+
+11 See infra at pages 15-16 & notes 12-13 (discussing the alter- 
+native readings of Summit Health, Ltd. v. Pinhas, 500 U.S. 322 
+(1991) ). 
+
+
+16 
+
+
+defendant’s business activity and the effect of the alleged 
+restraint.” The Summit Health Court noted that defend- 
+ant was engaged in interstate commerce and that the con- 
+spiracy would affect the defendant’s purchase of out-of- 
+State medicine and supplies and the revenues from out- 
+of-state insurance companies. Jd. at 330. The Court fur- 
+ther held that “‘as a matter of practical economics’ there 
+will be a reduction in the provision of ophthalmological 
+services in the Los Angeles market.” /d. at 331 (quoting 
+Hospital Bldg., 425 U.S. at 745).* 
+
+
+The Sherman Act is a particularly appropriate guide in 
+RICO cases. The similarities between RICO and the 
+Sherman Act go beyond their applicability to a broad 
+range of enterprises. RICO was modeled, in part, on 
+antitrust laws, “draw[ing] heavily upon the remedies de- 
+veloped in the field of antitrust.” 115 Cong. Rec. 9567 
+(1969) (Senator McClellan’s comments regarding S. 1861, 
+which later became RICO). This Court has “repeatedly 
+observed . . . that Congress modeled § 1964(c) on the 
+civil-action provision of the federal antitrust laws.” 
+Holmes v. Securities Investor Protection Corp., 112 S. Ct. 
+
+
+2 See Philip E. Areeda & Herbert Hovenkamp, ANTITRUST LAW, 
+| 232.1c, 302-04 (1994 Supp.) (arguing that the Court could have 
+decided Summit Health on the basis of the effect of defendant’s 
+activities or the effect of the conspiracy); Stephen Calkins, The 
+1990-91 Supreme Court Term and Antitrust, 60 ANTITRUST L.J. 
+603, 625-28 (1991) (same). 
+
+
+13 Summit Health could also be read to endorse a class-of- 
+activities approach. Such a reading has been criticized by Pro- 
+fessor Areeda and the four dissenting justices. See Areeda & 
+Hovenkamp, supra n.12, at 302; Summit Health, 500 U.S. at 333-34 
+(Scalia, J., dissenting); see also Calkins, supra n.12, at 625-26. 
+Even if Summit Health is read to require a market-wide inquiry, 
+this is uniquely appropriate to antitrust law. In a post-Summit 
+Health decision, the Seventh Circuit held that it was the potential 
+to incrementaliy cartelize markets that necessitated a broader in- 
+quiry. Hammes v. AAMCO Transmissions, Inc., 38 F.3d 774, 781 
+(7th Cir. 1994) ; see also Areeda & Hovenkamp, supra n.12, at 304. 
+
+
+Oe eee ace 
+
+
+17 
+
+
+1311, 1317 (1992) (internal citations omitted). Indeed, 
+the predecessor to RICO was proposed as an amendment 
+to the Sherman Act. See S. 2048, 90th Cong., Ist Sess. 
+(1967). In other contexts, courts have turned to antitrust 
+standards to establish a test under RICO. See Holmes, 
+112 S. Ct. at 1317-18 (applying antitrust causation 
+standards when interpreting RICO’s treble damages pro- 
+vision); see also United States v. Local 560 (1.B.T.), 974 
+F.2d 315, 332 (3d Cir. 1992) (applying antitrust in- 
+junction standards in a RICO case). 
+
+
+5. Petitioner posits a standard contrary to this 
+Court’s precedent in suggesting that the “effects” 
+on interstate commerce under RICO are suffi- 
+cient if they are “perceptible and identifiable.” 
+
+
+As discussed at the outset, this Court has repeatedly 
+required that activities regulated by Congress have a “sub- 
+stantial effect” on interstate commerce. Petitioner urges 
+a standard of “perceptible and identifiable.” Pet. Br. 25. If 
+such a standard has applied at all, it has applied to an 
+individual member of a class challenging the scope of a 
+“class of activities” statute. In addition to citing “class 
+of activities” cases, petitioner relies on two antitrust cases 
+that do not support its proposed standard. 
+
+
+Petitioner relies on Mandeville Island Farms v. Amer- 
+ican Crystal Sugar Co., 334 U.S. 219 (1948) and Gold- 
+farb v. Virginia State Bar, 421 U.S. 773 (1975) to argue 
+that the effects on interstate commerce do not have to be 
+“substantial” but that it is enough that they are “percepti- 
+ble and identifiable.” Pet. Br. 24-25. That is not the hold- 
+ing of those cases. In Mandeville Island Farms, this 
+Court stated that “the vital question becomes whether the 
+effect is sufficiently substantial and adverse to Congress’ 
+paramount policy declared in the Act’s terms to constitute 
+a forbidden consequence,” 334 U.S. at 240 (emphasis 
+added).** In Goldfarb, the Court stated that “[g]iven the 
+
+
+14 Petitioner quotes Mandeville Island Farms v. American Crystal 
+Sugar Co., 334 U.S. at 232, for the proposition that “ ‘the essence’ 
+
+
+18 
+
+
+substantial volume of commerce involved, and the insep- 
+arability of this particular legal service from the inter- 
+state aspects of real estate transactions, we conclude that 
+interstate commerce has been sufficiently affected.” Gold- 
+farb, 421 U.S. at 785 (emphasis added) (internal foot- 
+note omitted). This Court, however, has held that Gold- 
+farb was based on a “stream of interstate commerce” 
+analysis rather than an “effect on commerce” test. There- 
+fore, whatever the standard is in Goldfarb, it does not 
+apply here. See McLain v. Real Estate Bd. of New 
+Orleans, Inc., 444 U.S. 232, 244 (1980). 
+
+
+The difficulty in determining whether there has been 
+a sufficient effect upon interstate commerce to satisfy the 
+Commerce Clause has led many lower courts to conclude 
+that virtually any activity connected with interstate com- 
+merce is sufficient. See Pet. Br. 18-19, and cases cited 
+therein. As noted supra, however, this Court has re- 
+peatedly held that the connection with interstate com- 
+merce must be “substantial.” ** If Congress had intended 
+
+
+of the modern rule is that the nature or degree of the impact is 
+irrelevant to whether Congress may exercise its powers to regulate 
+an activity.” Pet. Br. 25. The case does not stand for that propo- 
+sition, but rather discusses the Shreveport Rate Cases, 234 U.S. 
+342 (1914), and states that the commerce power comprehends not 
+only transportation but manufacturing that is linked to interstate 
+commerce. 
+
+
+15 Petitioner quotes Goldfarb v. Virginia State Bar, 421 U.S. 
+784, 785 (1975), as stating that, rather, this Court’s “cases have 
+shown that, once an effect [on interstate commerce] is shown, no 
+specific magnitude need be proved.” Pet. Br. 25. 
+
+
+16 Petitioner cannot rely directly on Supreme Court authority 
+for its proposed “perceptible and identifiable” effects test. For 
+example, petitioner cites Rose v. Bartle, 871 F.2d 331, 356-57 (3d 
+Cir. 1989), for the proposition that all that is required is a “mini- 
+mal” interstate nexus. Rose relies on R.A.G.S. Culter, Inc. V. 
+Hyatt, 774 F.2d 1850, 1853 (5th Cir. 1985), which in turn cites 
+United States v. Rone, 598 F.2d 564, 573 (9th Cir. 1979), cert. 
+denied, 445 U.S. 946 (1980). Rone refers to Perez, supra, to assert 
+that a “minimal” nexus of the enterprise to interstate’ com- 
+
+
+a 
+
+
+19 
+
+
+to depart from its historical and traditional “substantial 
+effect” requirement,” then it should have clearly spelled 
+out the reach of the power that it intended to exercise. 
+Cf. Gregory v. Ashcroft, 501 U.S. 452, 464 (1991); 
+United States v. Lopez, No. 93-2047, Oral Argument Tr. 
+_ 
+
+
+merce satisfies the Commerce Clause. Jd. at 573. Perez did not 
+hold, however, that a “minimal” connection between the enterprise 
+and interstate commerce satisfies the requirements of the Commerce 
+Clause; rather, Perez held that Congress had a basis to determine 
+that a “class of activities,” loan sharking, affected interstate com- 
+merce and that the courts have no power “ ‘to excise, as trivial, 
+individual instances’” of the class. Perez v. United States, 402 
+U.S. 146, 154 (1971) (quoting Maryland v. Wirtz, 392 U.S. 183, 
+193 (1968) ). 
+
+
+17 Congress has written nexus elements that apparently have 
+resulted in a less rigorous standard than “substantial effect.” For 
+example, the Hobbs Act covers “[w]hoever in any way or degree 
+obstructs, delays or affects commerce or the movement of any 
+article or commodity in commerce.” 18 U.S.C. §1951(a) (empha- 
+sis added). Petitioner argues that the Hobbs Act cases should 
+govern here. However, the plain language of the nexus requirement 
+in the Hobbs Act differs from that in the RICO statute and the 
+standard developed in Hobbs Act cases should not be applied to 
+RICO cases. 
+
+
+18 The requirement that Congress speak plainly has its roots in 
+the “constitutionally mandated balance of power” between state 
+and national government which reflects the Founders’ deliberate 
+preference for decentralized government. Garcia v. San Antonio 
+Metro. Transit Auth., 469 U.S. 528, 572 (1985) (Powell, J., dis- 
+senting). This “federalist structure of joint sovereigns” was in- 
+tended by the Founders to “ensure the protection of ‘our funda- 
+mental liberties’ by preventing ‘the accumulation of excessive 
+power’ by either.” Gregory v. Ashcroft, 501 U.S. 452, 458 (1991) 
+(quoting Garcia). 
+
+
+Under the Supremacy Clause, Congress has the power to sig- 
+nificantly alter the “substantial sovereign powers” retained by 
+the states under this constitutional structure of dual sovereigns. 
+Id. at 461. To safeguard against the unnecessary erosion of state 
+power, this Court has thus adopted the plain statement require- 
+ment as a rule of statutory construction. Federal legislation will 
+not be construed to invade areas of traditional state sovereignty 
+
+
+20 
+
+
+B. The activities of respondent’s gold mine did not 
+substantially affect interstate commerce and are 
+beyond the reach of RICO. 
+
+
+In order to make out a violation of 18 U.S.C. § 1962(a), 
+there must be evidence that the activities of the enterprise 
+itself substantially affected interstate commerce. It is im- 
+material whether the predicate racketeering activities af- 
+fected interstate commerce.” It is immaterial whether 
+the use or investment of income derived from these 
+racketeering activities affected interstate commerce.” It is 
+immaterial whether the acts involved in the acquisition or 
+establishment of the enterprise by the use or investment 
+of racketeering income affected interstate commerce. Yet, 
+petitioner focuses almost exclusively upon the actions of 
+respondent and others carried out during the acquisition 
+and establishment of the mine or on actions ancillary to 
+the activities of the mine (the mining and selling of gold). 
+
+
+unless the language of the statute makes it “absolutely certain,” 
+id. at 464, that Congress intended “to pre-empt the historic powers 
+of the States,” id. at 461, and “alter the usual constitutional balance 
+of power.” Jd. at 460. This rule assures that Congress has “in 
+fact faced, and intended to bring into issue” the question of the 
+proper balance of power between state and federal governments. 
+Id. at 461. In view of the numerous holdings of this Court that 
+the words “affect interstate commerce” require a “substantial 
+effect” it cannot be said that Congress made it “unmistakably 
+clear” that it intended to reach insubstantial effects by using the 
+“affects” language in RICO. 
+
+
+19 As the court of appeals held in its opinion, “the Government 
+must prove that the activities of the enterprise itself affect inter- 
+state commerce and not that each predicate act affects interstate 
+commerce.” Pet. App. 8a (citing United States v. Bagnariol, 
+665 F.2d 887, 892 (9th Cir. 1981), cert. denied sub nom. Walgren 
+v. United States, 456 U.S. 962 (1982) ). 
+
+
+20It is not the act of investing that must substantially affect 
+interstate commerce. The “investment” required by the statute 
+can be “direct or indirect[]” and can apply to the “establishment 
+or operation.” However, the “investment” is a separate element 
+from the “enterprise,” and the geographical origin of the invest- 
+ment is not the focus of the jurisdictional nexus inquiry. 
+
+
+a es tt ————-~,/i, 
+
+
+wencmanenee 
+
+
+21 
+
+
+Petitioner first argues that the mine’s purchase of equip- 
+ment and supplies, the hiring of employees from outside 
+Alaska, and the purchase by respondent of an airplane 
+to travel to and from Alaska as well as the transportation 
+of a car from California to Alaska, are sufficient to prove 
+that the gold mine’s activities “affect[] interstate . . . com- 
+merce” within the meaning of section 1962(a). Pet. Br. 
+18. The majority of the equipment for the mine was pur- 
+chased in Alaska. Tr. 902-03. Although the Cadillac was 
+driven to Alaska in 1986, it was inoperable at the mine. 
+Tr. 757-58. The airplane was flown out of Alaska by 
+respondent in 1986, but there is no evidence that it was 
+ever used in connection with the mine. 18 U.S.C. § 1962 
+(a) requires that the activities of the enterprise “affect 
+interstate commerce.” 
+
+
+If the factors relied upon by petitioner can somehow 
+be viewed as activities of the mine, they are certainly 
+trivial—not substantial—and should not provide a basis 
+for RICO jurisdiction. Because virtually any business or- 
+ders supplies, either directly or indirectly from another 
+state, and has at least one employee who has driven a 
+vehicle from another state at some point in time, to adopt 
+petitioner’s argument would be to hold that the activities 
+of every business have a sufficient effect on interstate 
+commerce to invoke the Commerce Clause. This was not 
+the intent of Congress. 
+
+
+Petitioner next argues that the sale of approximately 
+$200,000 of gold had a sufficient effect on interstate com- 
+merce. It should be noted that these sales occurred over 
+a three-year period and were made to refiners within the 
+state of Alaska. While petitioner refers to the amount of 
+gold sold as “significant” (Pet. Br. 20), the court of ap- 
+peals stated that “[t]he mine was relatively small and an 
+entirely local operation, only producing approximately 
+$200,000 in gold.” Pet. App. 9a. 
+
+
+Relying on this Court’s cases holding that the cumula- 
+tive effect of individual activities can be used to satisfy 
+
+
+22 
+
+
+the commerce power, petitioner argues that “the intrastate 
+sale of the mine’s output clearly affected interstate and 
+foreign commerce.” Pet. Br. 21. Petitioner fails, how- 
+ever, to point to a discrete class, identified by either the 
+RICO statute or by Congress in the legislative history of 
+RICO, of which intrastate gold mining and sales are a 
+part. See supra Part I A-3. 
+
+
+The court of appeals was correct in finding that none 
+of the other activities referenced by petitioner were activi- 
+ties of the mine itsself. Petitioner argues that respondent’s 
+refinancing of his home in 1986 had an effect on inter- 
+state commerce since the purpose of refinancing was to 
+raise operating expenses for the gold mine. Within the 
+context of the real estate and credit market in Arizona, 
+any effect was relatively trivial.” In addition, it was an 
+activity of respondent relating to the use or investment 
+of proceeds from racketeering activity and was not an 
+activity of the enterprise which was involved in the mining 
+and sale of gold as required under section 1962(a). 
+
+
+Finally, petitioner notes that the enterprise used the 
+telephone and mails and contends that this is sufficient 
+to satisfy a requisite effect on interstate commerce. Peti- 
+tioner has not demonstrated that any phone calls or letters 
+were activities of the enterprise.” Further, such slight or 
+
+
+21 Petitioner relies on Hospital Building Co. v. Trustees of Rex 
+Hospital, 425 U.S. 738 (1976), in asserting that out-of-state financ- 
+ing has an effect on interstate commerce. In that case, which 
+involved the Sherman Act, the petitioner alleged a combination of 
+several areas of interstate commerce in which respondent was 
+involved: the purchase of up to eighty percent of its medicine and 
+supplies from out-of-state sellers, a substantial number of patients 
+coming from out of state, a large proportion of revenues coming 
+from out-of-state insurance companies or from the federal gov- 
+ernment, a management service fee paid to its out-of-state parent 
+company, and a large part of a planned four million dollar expan- 
+sion to be financed through out-of-state lenders. No comparable 
+combination of activity occurred here. Id. at 744. 
+
+
+22 Although mail and telecommunications may furnish a basis 
+for federal jurisdiction where they are used as “instruments of 
+
+
+SO A RET ech Pratap 8 ls ih te alte itn 
+
+
+23 
+
+
+trivial effects are insufficient to invoke Congress’s com- 
+merce power. If petitioner’s argument is correct, every 
+economic activity and organization in the United States 
+would have a sufficient effect on interstate commerce so 
+as to qualify as an enterprise under RICO. 
+
+
+Respondent’s mine was a small enterprise in Alaska 
+which was not engaged in interstate commerce. Like all 
+businesses, it had some incidental connections with inter- 
+state commerce. The totality of these connections cannot 
+be considered “substantial” so as to conclude that the 
+mine “affected” interstate commerce. As this Court has 
+stated, “[s]cholastic reasoning may prove that no activity 
+is isolated within the bouncaries of a single State, but 
+that cannot justify absorption of legislative power by the 
+United States over every activity.” Polish Nat'l Alliance 
+of the United States of N. Am. v. NLRB, 322 US. 643, 
+650 (1944). 
+
+
+Il. THE EXPANSION OF FEDERAL JURISDICTION 
+INTO AREAS HAVING MINIMAL CONNECTION 
+WITH INTERSTATE COMMERCE IMPOSES SUB- 
+STANTIAL COSTS ON THE FEDERAL-STATE 
+BALANCE AND RIGHTS GRANTED UNDER 
+STATE LAW. 
+
+
+It is axiomatic that “[t]he Constitution created a Fed- 
+eral Government of limited powers.” Gregory v. Ash- 
+
+
+crime,” see, e.g., McNally v. United States, 483 U.S. 350, 365 
+(1987) (internal quotation omitted), such is not the case here. The 
+use of the mails and phones was a concomitant—not an activity— 
+of the mine and did not facilitate any unlawful actions. 
+
+
+23 James Madison wrote: 
+
+The powers delegated by the proposed Constitution to the fed- 
+eral government are few and defined. Those which are to re- 
+main in the State governments are numerous and _ indefi- 
+nite. .. . The powers reserved to the several States will extend 
+to all the objects which, in the ordinary ccurse of affairs, 
+concern the lives, liberties and properties of the people, and 
+the internal order, improvement, and prosperity of the State. 
+
+
+THE FEDERALIST No. 45, at 202 (Charles A. Beard ed., 1948). 
+
+
+24 
+
+
+croft, 501 U.S. 457 (1991). The doctrine of federalism 
+holds that many states may be firmly and permanently 
+united under a strong central government endowed with 
+large powers, and may at the same time retain liberty 
+for their people and full autonomy in the management 
+of internal affairs. The federalist system was designed 
+to provide decentralized government which would foster 
+innovation and experimentation by the States and involve- 
+ment in the democratic processes by their citizens. Per- 
+haps most important, “[t]he constitutionally mandated 
+balance of power between the States and the Federal 
+Government was adopted by the framers to ensure the 
+protection of our fundamental liberties.” Jd. at 458 
+(Powell, J., dissenting) (internal quotations and citations 
+omitted). 
+
+
+A. The “substantial effects” test serves to preserve 
+the delicate balance between state and federal 
+power. 
+
+
+Since the adoption of the Constitution, a constant ten- 
+sion has existed between the need for a strong national 
+government on the one hand and the interests of the 
+States, their citizens, and decentralized government on the 
+other hand. This tension is reflected in the Court’s juris- 
+prudence during over 200 years of interpreting the Com- 
+merce Clause. With the transformation from an agrarian 
+to a highly sophisticated and technological economy, the 
+Commerce Clause has been used increasingly as a basis 
+for federal legislation, including, of course, the enactment 
+of criminal statutes. Nevertheless, 
+
+
+the interpenetrations of modern society have not 
+wiped out State lines. It is not for us to make 
+inroads upon our federal system either by indifference 
+to its meintenance or excessive regard for the unify- 
+ing forces of modern technology. 
+
+
+Polish Nat'l Alliance of the United States of N. Am. v. 
+NLRB, 322 U.S. 643, 650 (1944). 
+
+
+7 he ee ti 
+
+
+25 
+
+
+The “substantial effect” standard serves to preserve the 
+delicate balance between state and federal power and to 
+maintain the separation of powers. Maintaining some 
+limit on the scope of Congress’s regulatory power is nec- 
+essary to prevent federalization of all imaginable activity. 
+If mere use of the telephones and the mails brings an 
+activity within Congress’s reach, federal regulation also 
+could cover babysitting, and jaywalking could be a fed- 
+eral crime. 
+
+
+Similarly, in the absence of a finding that Congress 
+intended to regulate a class of activities, a rigorous judi- 
+cial inquiry regarding jurisdiction should be required. 
+Some deference to congressional determinations is due, 
+but when Congress leaves the jurisdictional inquiry to the 
+fact-finder that determination should be individualized. 
+This is particularly true when a defendant’s liberty is at 
+
+
+stake. 
+
+
+B. RICO is already an expansive statute reaching ac- 
+tivities other than organized crime; an extension 
+of jurisdiction would be unwarranted and unwise. 
+
+
+RICO’s definitions of “pattern” and “enterprise” are 
+already extremely broad. An expansive reading of RICO’s 
+jurisdictional requirement would not only be legally un- 
+justified, but would also be unwise as a practical matter. 
+It has been widely recognized that RICO covers far more 
+than organized crime. With its civil provisions, RICO 
+reaches garden variety commercial disputes.” With its 
+criminal provisions, RICO reaches persons like respondent 
+who should have been charged only with the narcotics 
+counts. See United States v. Robertson, 15 F.3d 862 
+
+
+24The actual and potential proliferation of civil RICO cases 
+has been repeatedly acknowledged. See, e.g., Sedima, S.P.R.L. V. 
+Imrex Co., 473 U.S. 482, 503-04 (1985) (Marshall, J., dissenting) ; 
+Schreiber Distrib. Co. v. Serv-Well Furniture Co., 806 F.2d 1393, 
+1402 (9th Cir. 1986) (Kennedy, J., concurring). Civil plaintiffs 
+are not always constrained by either guidelines or scarcity of re- 
+sources, as is the case with criminal prosecutors. 
+
+
+26 
+
+
+(9th Cir. 1994); Pet. App. 29a-32a (Reinhardt, J., con- 
+curring). 
+
+
+Petitioner urges an interpretation of the Commerce 
+Clause that would enhance “a real risk that Congress will 
+gradually erase the diffusion of power between State and 
+Nation on which the Framers based their faith in the 
+efficiency and vitality of our Republic.” Garcia v. San 
+Antonio Metro. Transit Auth., 469 U.S. 581, 584 (1985) 
+(O'Connor, J., dissenting). Under petitioner’s interpreta- 
+tion of the Commerce Clause, any federal prosecutor or 
+any civil plaintiff can bring an action under RICO if 
+there is a “pattern” of racketeering activity with subse- 
+quent investment in an “enterprise” where the “enterprise” 
+makes as little as one phone call to another state. In 
+general, virtually any activity would be subject to the 
+power. Almost any private activity has some ultimate 
+theoretical effect on interstate commerce. For example, 
+a jaywalker presents the possibility of an automobile acci- 
+dent which will bring into play insurance companies which 
+do business across state lines. Under petitioner’s argu- 
+ment, the cumulative effect of jaywalking would give Con- 
+gress the power to make jaywalking a federal offense.” 
+
+
+*5 Petitioner argues that Congress intended RICO to have a broad 
+scope and to effectuate this purpose provided that “[t]he provisions 
+of RICO shall be liberally construed to effectuate its remedial pur- 
+poses.” Pet. Br. 13-14 (quoting Pub. L. No. 91-452, §904(a), 84 
+Stat. 947). This ignores the fact that “ambiguity concerning the 
+ambit of criminal statutes should be resolved in favor of lenity.” 
+Rewis v. United States, 401 U.S. 809, 812 (1971) (citing Bell v. 
+United States, 349 U.S. 81, 88 (1955) ). Although RICO is both a 
+criminal and civil statute, it must be strictly interpreted. Cf. F.C.C. 
+Vv. American Broadcasting Co., 347 U.S. 284, 296 (1954); United 
+States v. McNinch, 356 U.S. 595, 598 (1958). The rule of lenity: 
+
+
+is founded on two policies that have long been part of our 
+tradition. First, a “fair warning should be given to the world 
+in language that the common world will understand, of what 
+the law intends to do if a certain line is passed. To make the 
+warning fair, so far as possible the line should be clear.” 
+McBoyle v. United States, 283 U.S. 25, 27 (1931) (Holmes, 
+J.).... Second, because of the seriousness of criminal penal- 
+
+
+.= 
+
+
+t 
+
+t 
+
+us 
+3 
+
+
+27 
+
+
+Respondent is well aware of the concern in this country 
+about organized crime and its eifects. See Pet. Br. 15-16. 
+The fact that organized crime may be pervasive, however, 
+does not mean that the Commerce Clause has unlimited 
+scope. In addition, a clear and confined scope is particu- 
+larly appropriate in the ever-increasing number of federal 
+criminal statutes. As this Court recently held: 
+
+
+[T]he Constitution protects us from our own best in- 
+tentions: It divides power among sovereigns and 
+among branches of government precisely so that we 
+may resist the temptation to concentrate power in one 
+location as an expedient solution to the crisis of the 
+day. 
+New York v. United States, 112 S. Ct. 2408, 2434 
+(1992). 
+Almost a quarter of a century ago, Justice Stewart 
+presciently stated: 
+
+
+In order to sustain this law we would, in my view, 
+have to be able at the least to say that Congress 
+could rationally have concluded that loan sharking 
+is an activity with interstate attributes that distin- 
+guish it in some substantial respect from other local 
+crime. But it is not enough to say that loan sharking 
+is a national problem, for all crime is a national 
+problem. It is not enough to say that some loan 
+sharking has interstate characteristics, for any crime 
+may have an interstate setting. In the circumstance 
+that loansharking has an adverse impact on inter- 
+
+
+ties, and because criminal punishment usually represents the 
+moral condemnation of the community, legislatures and not 
+courts should define criminal activity. This policy embodies 
+“the instinctive distaste of men languishing in prison unless 
+the lawmaker has clearly said they should.” H. Friendly, Mr. 
+Justice Frankfurter and The Reading of Statutes, in Bench- 
+marks, 196, 209 (1967). 
+
+
+Moskal v. United States, 498 U.S. 103, 131 (1990) (Scalia, J., 
+dissenting) (quoting United States v. Bass, 404 U.S. 336, 347-49 
+
+
+(1971) ). 
+
+
+28 
+
+
+state business is not a distinguishing attribute, for 
+interstate business suffers from almost all criminal ac- 
+tivity, be it shoplifting or violence in the streets. 
+
+
+Perez v. United States, 402 U.S. 146, 157-58 (1971). 
+
+
+C. Federalization of criminal law is destroying the 
+balance between state and federal power. 
+
+
+The Judicial Conference of the United States and vari- 
+ous federal circuit judicial conferences have issued resolu- 
+tions expressing concern about the effect of the expansion 
+of federal criminal jurisdiction upon the very structure 
+of federalism.” In 1991, the United States Judicial Con- 
+ference opposed a proposed law which would define as 
+a federal crime violent felonies involving handguns. The 
+Conference said: “[s]Juch expansion of federal jurisdiction 
+would be inconsistent with long-accepted concepts of fed- 
+eralism and would ignore the boundaries between appro- 
+priate state and federal action.” Judicial Conference of 
+the United States, Federalization of State Prosecutions, 
+Position of the Judicial Conference of the United States 
+(Sept. 20, 1991). The Ninth Circuit Judicial Conference 
+declared in 1993 that: 
+
+
+The increased federalization of traditional state law 
+crimes by the Congress has a far-reaching impact 
+on our conceptual ideal of the complementary roles 
+of state and federal courts. Such actions by Congress 
+
+
+26 This expansion of federal criminal law has also affected the 
+performance of the courts. According to the Federal Courts Study 
+Committee, 
+
+
+[t}he deterioration in the indices of federal judicial perform- 
+ance has been gradual, but the expanded federal effort to re- 
+duce druy trafficking has led to a recent surge in federal crimi- 
+nal trials that is preventing judges in larger met.opolitan areas 
+from scheduling civil trials, especially civil jury trials, of 
+which there is now a rapidly growing backlog. It appears that 
+the long expected crisis of the federal courts ... is at last 
+upon us. 
+
+
+Report of the Fed. Courts Study Comm., at 4-5 (Apr. 2, 1990). 
+
+
+——— 
+
+
+: 
+
+
+29 
+
+
+evince a lack of respect and faith in the ability of the 
+states to handle their affairs, and places an unreason- 
+able burden on the much smaller federal court system 
+to handle expanding criminal dockets. 
+
+
+Ninth Circuit Judicial Conference, Mem. No. 4 (Aug. 
+1993). 
+
+
+Federal courts are not alone in their concern about 
+expansive federal criminal jurisdiction. The Conference 
+of Chief Justices, comprised of state, territorial, and 
+commonwealth judicial officials, adopted a_ resolution 
+prompted by the Senate’s recent crime bill which stated, 
+inter alia, that the Conference “strongly opposes federal 
+action which, contrary to the principles of federalism and 
+historical experience, would have the pernicious effect of 
+federalizing state criminal law and procedure . . . . Con- 
+ference of Chief Justices, Resolution IX (Feb. 10, 1994). 
+Most recently, the National Governors Association de- 
+clared “that some attempts to expand federal criminal law 
+in traditional state functions . . . could undermine state 
+and local anti-crime efforts,” and “urge[d] legislators to 
+pursue policies that recognized rather than erode[d] the 
+state’s role on the chief planners and administrators of 
+criminal justice programs.” National Governors Ass'n, 
+HR-25 Policy (July 1994). 
+
+
+The activities of respondent’s gold mine had far less 
+effect on interstate commerce than most businesses. To 
+hold that the mine’s activities constituted a sufficient con- 
+nection with interstate commerce to satisfy the jurisdic- 
+tional requirement of RICO would be yet another step 
+in the disruption of the traditional federal-state balance 
+and in the formation of a truly national police power. 
+
+
+30 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be af- 
+
+
+firmed. 
+Respectfully submitted, 
+
+
+GLENN STEWART WARREN 
+(Appointed by this Court) 
+2442 Fourth Avenue 
+San Diego, California 92101 
+(619) 236-8058 
+
+
+Counsel for Respondent 
+
+
+en oe 
+
+
+la 
+APPENDIX 
+
+
+18 U.S.C. § 1962. Prohibited activities 
+
+
+(a) It shall be unlawful for any person who has received 
+any income derived, directly or indirectly, from a pattern 
+of racketeering activity or through collection of an unlaw- 
+ful debt in which such person has participated as a prin- 
+cipal within the meaning of section 2, title 18, United 
+States Code, to use or invest, directly or indirectly, any 
+part of such income, or the proceeds of such income, in 
+acquisition of any interest in, or the establishment or 
+operation of, any enterprise which is engaged in, or the 
+activities of which affect, interstate or foreign commerce. 
+A purchase of securities on the open market for purposes 
+of investment, and without the intention of controlling or 
+participating in the control of the issuer, or of assisting 
+another to do so, shall not be unlawful under this sub- 
+section if the securities of the issuer held by the purchaser, 
+the members of his immediate family, and his or their 
+accomplices in any pattern or racketeering activity or the 
+collection of an unlawful debt after such purchase do not 
+amount in the aggregate to one percent of the ovtstanding 
+securities of any one class, and do not confer, either in 
+law or in fact, the power to elect one or more directors 
+of the issuer. 
+
+
+(b) It shall be unlawful for any person through a pattern 
+of racketeering activity or through collection of an un- 
+lawful debt to acquire or maintain, directly or indirectly, 
+any interest in or control of any enterprise which is en- 
+gaged in, or the activities of which affect, interstate or 
+foreign commerce. 
+
+
+(c) It shall be unlawful for any person employed by or 
+associated with any enterprise engaged in, or the activities 
+of which affect, interstate or foreign commerce, to con- 
+duct or participate, directly or indirectly, in the conduct 
+of such enterprise’s affairs through a pattern of racketeer- 
+ing activity or collection of unlawful debt. 
+
+
+2a 
+
+
+(d) It shall be unlawful for any person to conspire to 
+violate any of the provisions of subsection (a), (b), or 
+(c) of this section. 
+
+
+(Added Oct. 15, 1970, P. L. 91-452, Title IX, § 901(a), 
+84 Stat. 942; Nov. 18, 1988, P. L. 100-690, Title VII, 
+Subtitle B, § 7033, 102 Stat 4398.) 
+
+

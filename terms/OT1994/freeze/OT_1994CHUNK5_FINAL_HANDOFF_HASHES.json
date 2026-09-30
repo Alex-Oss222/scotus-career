@@ -1,0 +1,95 @@
+{
+  "kind": "filesystem preservation; operator Git verification and commit deferred",
+  "stages": {
+    "COMMITMENTS": {
+      "inputs": [
+        {
+          "file": "OT_1994CHUNK5_COMMITMENTS_A.md",
+          "sha256": "88de65a10419446d11a4cfb8d77069bc73940706186fde53fc1efb9f2e8d46d7",
+          "runtime_freeze_identical": true
+        },
+        {
+          "file": "OT_1994CHUNK5_COMMITMENTS_MW.md",
+          "sha256": "ece3e3d7ad0a7a5ee3fd0d3e9a0ae692e6075c7ca087805e5235620ef9e0d04e",
+          "runtime_freeze_identical": true
+        },
+        {
+          "file": "OT_1994CHUNK5_COMMITMENTS_B.md",
+          "sha256": "79269820466e483a206114d7eb3835d7c85413f8d853c9448faf209ab3501ac1",
+          "runtime_freeze_identical": true
+        },
+        {
+          "file": "OT_1994CHUNK5_COMMITMENTS_TRAVELERS_REMEDY.md",
+          "sha256": "3c6b14e487d5a6f8998e74efceb9ab96d168402917e7dbf9a9e880c2e129e03a",
+          "runtime_freeze_identical": true
+        },
+        {
+          "file": "OT_1994CHUNK5_COMMITMENTS_HARRIS.md",
+          "sha256": "071c5d43996f10cc89be8bee17aae61a99eef80cdb2740d561ed0a1dcf93a784",
+          "runtime_freeze_identical": true
+        },
+        {
+          "file": "OT_1994CHUNK5_COMMITMENTS_PINSON.md",
+          "sha256": "3283283dc602464012fe52a0289cd61291afd6daf39aa642078f48615b65fa83",
+          "runtime_freeze_identical": true
+        },
+        {
+          "file": "OT_1994CHUNK5_COMMITMENTS_KANSAS.md",
+          "sha256": "9d4de87765539e9f0f31f9165889a55a876e558f18c51d9b22ffa2f1487c852d",
+          "runtime_freeze_identical": true
+        },
+        {
+          "file": "OT_1994CHUNK5_COMMITMENTS_HUBBARD.md",
+          "sha256": "4ee26b6fa38299a5b93c12614dc66ab2c174738457bdc2b25277916abfd22211",
+          "runtime_freeze_identical": true
+        }
+      ],
+      "aggregate_sha256": "07c77cba8024fb2e03c5d7b931e734d64206b6aca563c93a60a2507796eabd56"
+    },
+    "RECONCILED": {
+      "inputs": [
+        {
+          "file": "OT_1994CHUNK5_RECONCILED_A.md",
+          "sha256": "8a9f02ec68ac2f6cae9b4fddd6e9d51f67abcadf88c766bcf0f3b742be426692",
+          "runtime_freeze_identical": true
+        },
+        {
+          "file": "OT_1994CHUNK5_RECONCILED_MW.md",
+          "sha256": "cb3c317147d20f91563d2be2486d40de9232a727a586520eb0753a3e97c6866b",
+          "runtime_freeze_identical": true
+        },
+        {
+          "file": "OT_1994CHUNK5_RECONCILED_B.md",
+          "sha256": "f468b8a5ee35f85bcd8d9a4d606f687d7c649c9fc142b2bed1843739c08b3b66",
+          "runtime_freeze_identical": true
+        },
+        {
+          "file": "OT_1994CHUNK5_RECONCILED_TRAVELERS_REMEDY.md",
+          "sha256": "cb80b405c8b7233bb0612bf51056f9280b0acd818f35833605dae52e6f997e9c",
+          "runtime_freeze_identical": true
+        },
+        {
+          "file": "OT_1994CHUNK5_RECONCILED_HARRIS.md",
+          "sha256": "a175b0f61382b3fe51aba17b63bba30122876f8388e2ce5e1ac46cceba47348e",
+          "runtime_freeze_identical": true
+        },
+        {
+          "file": "OT_1994CHUNK5_RECONCILED_PINSON.md",
+          "sha256": "df23e3430a9d39ea773cc046f73925f62aff50fd7e148ad8e173a84788229cbb",
+          "runtime_freeze_identical": true
+        },
+        {
+          "file": "OT_1994CHUNK5_RECONCILED_KANSAS.md",
+          "sha256": "7f7ccc53eef5a04df216eee3f77c6355e56e01043e119671c7fab6d94c492e7c",
+          "runtime_freeze_identical": true
+        },
+        {
+          "file": "OT_1994CHUNK5_RECONCILED_HUBBARD.md",
+          "sha256": "c9b417d282a4d671f8d29d112b66e01f4c6d6a1c40869f309d088569346e1c5b",
+          "runtime_freeze_identical": true
+        }
+      ],
+      "aggregate_sha256": "e7177b6a138ae58516347191b58cfdc468233cd2d338ec62b1820bd51c8b15a8"
+    }
+  }
+}
