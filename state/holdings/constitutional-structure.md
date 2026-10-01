@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1993
-**Processed through:** June 30, 1994, after all eleven chunk-8 matters and all 95 OT1993 inventory Court events.
-**Edition:** September 28, 2026
+**Last completed October Term:** 1994
+**Processed through:** June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.
+**Edition:** October 1, 2026
 
 ## Constitutional Structure
 
@@ -632,12 +632,12 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Treatment of earlier authority:**
 
-- National Bellas Hess v. Department of Revenue, 386 U.S.753 — overruled only to the extent its due-process holding requires physical presence for use-tax collection; its Commerce rule is treated separately below.
-- Miller Brothers v. Maryland, 347 U.S.340 — the minimum-connection requirement remains; any indispensable physical-entry implication is displaced at the stated collection scope.
-- International Shoe Co. v. Washington, 326 U.S.310 — applied for purposeful affiliation and fair connection.
-- Burger King Corp. v. Rudzewicz, 471 U.S.462 — its nonphysical purposeful-contact reasoning is extended by analogy to the collection obligation; every personal-jurisdiction rule is not imported.
-- Shaffer v. Heitner, 433 U.S.186 — applied by comparable reasoning against a mechanical presence prerequisite.
-- Moorman Manufacturing Co. v. Bair, 437 U.S.267 — the requirement that the tax relate rationally to state-connected values remains.
+- National Bellas Hess v. Department of Revenue, 386 U.S. 753 — overruled only to the extent its due-process holding requires physical presence for use-tax collection; its Commerce rule is treated separately below.
+- Miller Brothers v. Maryland, 347 U.S. 340 — the minimum-connection requirement remains; any indispensable physical-entry implication is displaced at the stated collection scope.
+- International Shoe Co. v. Washington, 326 U.S. 310 — applied for purposeful affiliation and fair connection.
+- Burger King Corp. v. Rudzewicz, 471 U.S. 462 — its nonphysical purposeful-contact reasoning is extended by analogy to the collection obligation; every personal-jurisdiction rule is not imported.
+- Shaffer v. Heitner, 433 U.S. 186 — applied by comparable reasoning against a mechanical presence prerequisite.
+- Moorman Manufacturing Co. v. Bair, 437 U.S. 267 — the requirement that the tax relate rationally to state-connected values remains.
 
 ##### Whether Bellas Hess’s specific Commerce Clause collection rule remains controlling
 
@@ -653,11 +653,11 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Treatment of earlier authority:**
 
-- National Bellas Hess v. Department of Revenue, 386 U.S.753 — retained for its specific Commerce Clause sales-and-use collection rule; no general immunity for interstate commerce is restored.
-- Complete Auto Transit v. Brady, 430 U.S.274 — substantial nexus remains distinct from fair apportionment, nondiscrimination and fair relation to state services; its rejection of Spector’s labeling rule remains.
-- National Geographic Society v. California Board of Equalization, 430 U.S.551, and D.H. Holmes Co. v. McNamara, 486 U.S.24 — their express distinctions of Bellas Hess preserve reasonable reliance on the particular collection precedent rather than establish its abandonment.
-- Patterson v. McLean Credit Union, 491 U.S.164, and Payne v. Tennessee, 501 U.S.808 — their congressional-correction and reliance principles support the narrower adherence ground at the stated scope.
-- Prudential Insurance Co. v. Benjamin, 328 U.S.408 — preserves Congress’s power to authorize otherwise dormant-Commerce burdens; Congress cannot authorize a due-process violation.
+- National Bellas Hess v. Department of Revenue, 386 U.S. 753 — retained for its specific Commerce Clause sales-and-use collection rule; no general immunity for interstate commerce is restored.
+- Complete Auto Transit v. Brady, 430 U.S. 274 — substantial nexus remains distinct from fair apportionment, nondiscrimination and fair relation to state services; its rejection of Spector’s labeling rule remains.
+- National Geographic Society v. California Board of Equalization, 430 U.S. 551, and D.H. Holmes Co. v. McNamara, 486 U.S. 24 — their express distinctions of Bellas Hess preserve reasonable reliance on the particular collection precedent rather than establish its abandonment.
+- Patterson v. McLean Credit Union, 491 U.S. 164, and Payne v. Tennessee, 501 U.S. 808 — their congressional-correction and reliance principles support the narrower adherence ground at the stated scope.
+- Prudential Insurance Co. v. Benjamin, 328 U.S. 408 — preserves Congress’s power to authorize otherwise dormant-Commerce burdens; Congress cannot authorize a due-process violation.
 
 ##### Whether the limited licensed-software interests provide sufficient local collection nexus
 
@@ -673,9 +673,9 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Treatment of earlier authority:**
 
-- National Bellas Hess v. Department of Revenue, 386 U.S.753 — applied to this mail-order collection demand after rejection of the asserted distinguishing property interest.
-- Tyler Pipe Industries v. Washington Department of Revenue, 483 U.S.232 — distinguished for actual in-state market-maintaining activity, including representatives; no employee-only nexus requirement is adopted.
-- National Geographic Society v. California Board of Equalization, 430 U.S.551 — Part IV’s additional rejection of a slightest-presence standard supports its four signers’ explanation; Stone’s fifth vote adopts the stated record-specific insufficiency without a whole-opinion join. Its local-office holding remains undisturbed.
+- National Bellas Hess v. Department of Revenue, 386 U.S. 753 — applied to this mail-order collection demand after rejection of the asserted distinguishing property interest.
+- Tyler Pipe Industries v. Washington Department of Revenue, 483 U.S. 232 — distinguished for actual in-state market-maintaining activity, including representatives; no employee-only nexus requirement is adopted.
+- National Geographic Society v. California Board of Equalization, 430 U.S. 551 — Part IV’s additional rejection of a slightest-presence standard supports its four signers’ explanation; Stone’s fifth vote adopts the stated record-specific insufficiency without a whole-opinion join. Its local-office holding remains undisturbed.
 
 ### Foreign commerce and state taxation
 
@@ -693,8 +693,8 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Treatment of earlier authority:**
 
-- Air France v. Saks, 470 U.S.392 (1985): applied for treaty interpretation beginning with text while considering relevant context.
-- Factor v. Laubenheimer, 290 U.S.276 (1933): applied for consideration of treaty parties' practical construction; the practice asserted here does not displace the operative importation limitation.
+- Air France v. Saks, 470 U.S. 392 (1985): applied for treaty interpretation beginning with text while considering relevant context.
+- Factor v. Laubenheimer, 290 U.S. 276 (1933): applied for consideration of treaty parties' practical construction; the practice asserted here does not displace the operative importation limitation.
 
 ##### Federal container regulation does not preempt this local lease tax
 
@@ -704,10 +704,10 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Treatment of earlier authority:**
 
-- Hines v. Davidowitz, 312 U.S.52 (1941): applied for conflict with federal purposes; no such obstacle established here.
-- McGoldrick v. Gulf Oil Corp., 309 U.S.414 (1940): distinguished because the bonded-warehouse benefit and supervision differ from container leasing.
-- Xerox Corp. v. County of Harris, 459 U.S.145 (1982): distinguished on the same specific federal warehouse purpose; its protection remains.
-- R. J. Reynolds Tobacco Co. v. Durham County, 479 U.S.130 (1986): applied against inferring complete field occupation from detailed customs regulation.
+- Hines v. Davidowitz, 312 U.S. 52 (1941): applied for conflict with federal purposes; no such obstacle established here.
+- McGoldrick v. Gulf Oil Corp., 309 U.S. 414 (1940): distinguished because the bonded-warehouse benefit and supervision differ from container leasing.
+- Xerox Corp. v. County of Harris, 459 U.S. 145 (1982): distinguished on the same specific federal warehouse purpose; its protection remains.
+- R. J. Reynolds Tobacco Co. v. Durham County, 479 U.S. 130 (1986): applied against inferring complete field occupation from detailed customs regulation.
 
 ##### The local lease tax satisfies the additional foreign-commerce requirements
 
@@ -717,10 +717,10 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Treatment of earlier authority:**
 
-- Complete Auto Transit, Inc. v. Brady, 430 U.S.274 (1977): its four requirements remain mandatory; their satisfaction is conceded in this case.
-- Japan Line, Ltd. v. County of Los Angeles, 441 U.S.434 (1979): retained and distinguished; foreign-owned property taxed fully abroad presented a different multiple-taxation and uniformity problem.
-- Container Corp. of America v. Franchise Tax Board, 463 U.S.159 (1983): applied to distinguish inevitable duplication from potential foreign taxation and to assess foreign-policy evidence.
-- Wardair Canada Inc. v. Florida Department of Revenue, 477 U.S.1 (1986): applied for the significance of a discrete local transaction and the actual federal arrangement.
+- Complete Auto Transit, Inc. v. Brady, 430 U.S. 274 (1977): its four requirements remain mandatory; their satisfaction is conceded in this case.
+- Japan Line, Ltd. v. County of Los Angeles, 441 U.S. 434 (1979): retained and distinguished; foreign-owned property taxed fully abroad presented a different multiple-taxation and uniformity problem.
+- Container Corp. of America v. Franchise Tax Board, 463 U.S. 159 (1983): applied to distinguish inevitable duplication from potential foreign taxation and to assess foreign-policy evidence.
+- Wardair Canada Inc. v. Florida Department of Revenue, 477 U.S. 1 (1986): applied for the significance of a discrete local transaction and the actual federal arrangement.
 
 ##### A local lease transaction is not the import or export taxed in Richfield
 
@@ -730,9 +730,9 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 
 **Treatment of earlier authority:**
 
-- Michelin Tire Corp. v. Wages, 423 U.S.276 (1976): applied through its three constitutional concerns.
-- Department of Revenue v. Association of Washington Stevedoring Cos., 435 U.S.734 (1978): applied for distinct local services and the interstate-harmony inquiry.
-- Richfield Oil Corp. v. State Board of Equalization, 329 U.S.69 (1946): distinguished; its direct-export rule is not overruled or finally reconciled with every implication of Michelin.
+- Michelin Tire Corp. v. Wages, 423 U.S. 276 (1976): applied through its three constitutional concerns.
+- Department of Revenue v. Association of Washington Stevedoring Cos., 435 U.S. 734 (1978): applied for distinct local services and the interstate-harmony inquiry.
+- Richfield Oil Corp. v. State Board of Equalization, 329 U.S. 69 (1946): distinguished; its direct-export rule is not overruled or finally reconciled with every implication of Michelin.
 
 **Limits and questions not reached:** The temporary-admission regime requires reexportation within three months unless customs authorities extend it. Domestic ownership does not remove Japan Line review; Executive support is informative, not dispositive. Complete Auto compliance is conceded rather than independently adjudicated. No general apportionment exemption, field occupation, express-conflict-only rule or overruling of Richfield follows.
 
@@ -1083,6 +1083,31 @@ For the other questions in Northwest Airlines, Inc. v. County of Kent, 1994-01-2
 
 **Operative remedy or transition:** The Fifth Circuit is reversed, 5–3, and the matter remanded with directions to deny §27A(b) reinstatement. The completed August 1991 dismissal remains undisturbed. O'Connor does not participate; no fraud findings or damages trial is ordered.
 
+#### [Plaut v. Spendthrift Farm, Inc.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Plaut_v_Spendthrift_Farm_Inc_merits_1995-04-18.md)
+
+**Docket or dockets:** No. 93-1121.
+**Decided:** April 18, 1995.
+
+##### Section 27A(b) cannot reopen this completed private federal judgment
+
+**Holding:** Article III prevents §27A(b) from requiring reinstatement of this private §10(b) action after its dismissal with prejudice became final without appeal before December 19, 1991. Satisfaction of the statute's reinstatement conditions does not overcome that constitutional limit; the denial of reinstatement is affirmed without deciding pending cases, judgments still on direct review, continuing prospective relief, or independently lawful judicial reopening.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter and Breyer: seven Justices.
+
+**Treatment of earlier authority:**
+
+- Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994: applies its as-applied Article III rule to the same completed, unappealed private-dismissal setting without enlarging it.
+- Robertson v. Seattle Audubon Society, March 25, 1992: preserves genuine legislative changes governing pending cases; it does not authorize the present reopening of a completed judgment.
+- McCullough v. Virginia, 172 U.S. 102: applies the distinction between changing law and disturbing completed adjudication.
+- United States v. Klein, 80 U.S. (13 Wall.) 128: preserves protection of the judicial function without treating actual legislative amendment as forbidden.
+- Pennsylvania v. Wheeling & Belmont Bridge Co., 59 U.S. (18 How.) 421: distinguishes adjustment of the continuing prospective operation of equitable relief.
+- United States v. Sioux Nation of Indians, 448 U.S. 371: distinguishes sovereign waiver of the Government's own final-judgment defense from compulsory reopening between private parties.
+- Chase Securities Corp. v. Donaldson, 325 U.S. 304: leaves its due-process revival rule intact; it does not resolve the Article III question presented.
+
+**Limits and questions not reached:** Section 27A(b) addresses a private §10(b) action commenced on or before June 19, 1991, dismissed as time barred after that date, and timely under the law of the jurisdiction, including retroactivity principles, as it existed June 19, 1991. It directs reinstatement on a plaintiff's motion within sixty days after December 19, 1991. These conditions were satisfied here, including the February 11, 1992 motion. Subsection (a), other applications of subsection (b), general severability, constitutional due process, fraud, damages, federal waiver, and independently authorized judicial reopening are not decided. The Court adopts no comprehensive prohibition governing every later legislative effect on every final order.
+
+**Operative remedy or transition:** Denial of §27A(b) reinstatement is affirmed. The completed dismissal remains binding; there is no reinstatement or merits remand.
+
 ### Military judicial appointments and impartiality
 
 #### [Weiss v. United States, 510 U.S. 163](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Weiss_v_United_States_merits_1994-01-19.md)
@@ -1108,3 +1133,440 @@ For the other questions in Weiss v. United States, 1994-01-19, No. 92-1482, incl
 **Limits and questions not reached:** Civilian appellate appointments, unrelated new offices and assignment to principal offices are not decided. The tenure holding depends on this system's protections, including limits on command evaluation, improper censure and influence, judicial review and disqualification; supported retaliation, reassignment and structural-bias challenges remain distinct.
 
 **Operative remedy or transition:** Both Court of Military Appeals judgments, including Hernandez under Rule 12.2, are affirmed on the appointment and fixed-tenure objections. No second appointment, fixed term or retrial is ordered.
+
+#### [Ryder v. United States](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Ryder_v_United_States_merits_1995-06-12.md)
+
+**Docket or dockets:** No. 94-431.
+**Decided:** June 12, 1995.
+
+For the other questions in Ryder v. United States, decided June 12, 1995, No. 94-431. see Criminal Procedure — Military judicial appointments and impartiality (The higher court did not supply the missing Article 66 review).
+
+##### A timely direct appointment challenger receives lawful adjudication
+
+**Holding:** A litigant who timely challenges a substantial constitutional defect in the appointments of officers adjudicating his own case and pursues that objection on direct review is entitled to a fresh adjudication by lawfully appointed officers; the de facto officer doctrine cannot validate the defective panel’s judgment against him. Ryder must receive new Article 66 review by a properly appointed military appellate panel, without automatic dismissal or reversal of his trial conviction.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer; nine Justices adopt this bounded rule and remedy.
+
+**Limits and questions not reached:** The rule concerns a timely direct challenge to substantial constitutional appointment defects. It does not prescribe collateral reopening, invalidate ministerial acts, decide defaults in an available challenge channel, or settle every officer-and-department classification.
+
+**Treatment of earlier authority:** Buckley v. Valeo is distinguished as a universal de facto remedial defense. Glidden Co. v. Zdanok and Freytag are applied to substantial constitutional adjudicator qualifications. Ball v. United States, McDowell v. United States and Ex parte Ward are distinguished by collateral or technical-assignment settings. The completed Weiss decision retains its commissioned-officer/germane-assignment scope and leaves civilian appointments open.
+
+**Operative remedy or transition:** Reverse and remand for fresh Article 66 review by a lawfully appointed military appellate panel. No acquittal, dismissal, trial-conviction reversal or decision of the underlying drug, evidence or sentence merits is ordered.
+
+### Airline preemption and voluntary contracts
+
+#### [American Airlines, Inc. v. Wolens](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/American_Airlines_Inc_v_Wolens_merits_1995-01-18.md)
+
+**Docket or dockets:** No. 93-1286.
+**Decided:** January 18, 1995.
+
+##### State consumer-fraud standards governing these airline benefits are preempted
+
+**Holding:** The Airline Deregulation Act's transaction-period §1305(a)(1) preempts application of the Illinois Consumer Fraud and Deceptive Business Practices Act to the pleaded devaluation of earned airline-travel awards through changed redemption restrictions, because that claim enforces a state-imposed substantive standard directly related to airline rates and services. General applicability, a damages remedy and the general §1506 savings clause do not avoid that express prohibition; materially different duties with only tenuous, remote or peripheral connections remain outside this ruling.
+
+**Proposition-level authority:** Ginsburg's consumer-fraud portion, joined by Stone-Zsela, Kennedy, Souter and Breyer: five of eight participants. Scalia did not participate.
+
+**Treatment of earlier authority:**
+
+- Morales v. Trans World Airlines, Inc., 504 U.S. 374: applies the controlling connection-or-reference rule and the specific-preemption/general-savings distinction to these award restrictions; its separate fare-marketing effects holding remains confined to that package, and its remote-effects reservation remains.
+- Cipollone v. Liggett Group, Inc., 505 U.S. 504: distinguishes its clause-specific preservation of general intentional falsehood; that cigarette holding supplies no universal airline-fraud exemption and retains its own scope.
+
+##### An airline's actual voluntary bargain remains enforceable
+
+**Holding:** Section 1305(a)(1) does not preempt ordinary court enforcement of an airline's self-imposed contractual obligations, including ordinary contract remedies, when the claim is confined to the undertaking the parties actually made. Courts may use ordinary contract law to identify and enforce that undertaking, but may not enlarge or reform it through a state policy external to the agreement; the pleaded contract claims survive dismissal only within that boundary.
+
+**Proposition-level authority:** Ginsburg's contract portion, joined by Stone-Zsela, Stevens, Kennedy, Souter and Breyer: six of eight participants. Scalia did not participate.
+
+**Treatment of earlier authority:**
+
+- Cipollone, 505 U.S. 504: extends the voluntary-source distinction by analogy to this independently construed airline clause; its narrower warranty ground does not become a blanket common-law exemption.
+- Morales, 504 U.S. 374: preserves preemption of state-prescribed airline terms while resolving the contract-enforcement question that Morales left open; neither that case's injunction nor its fare-marketing effects holding decides the actual bargain here.
+- Norfolk & Western Railway Co. v. American Train Dispatchers Association, 499 U.S. 117: distinguishes the dependence of a contract on law for enforceability from the source of the substantive obligation under this statute; its construction of the distinct railroad immunity provision is undisturbed.
+
+**Limits and questions not reached:** The lower courts must determine the actual agreement, including whether American reserved authority to alter already earned credits, applicable ordinary defenses and any proved remedy. Good-faith and implied-term tools may identify the agreement but may not reintroduce external state rate policy; no particular such theory, punitive award or nonflight-benefit claim is adjudicated. The earlier rejection of injunctive relief remains undisturbed. No final fraud or contract liability, amount or precise retroactive blackout application is decided.
+
+**Operative remedy or transition:** Consumer-fraud survival is reversed, 7–1; denial of dismissal of the confined contract claims is affirmed, 6–2; the case is remanded to identify and enforce the actual bargain. The earlier rejection of injunctive relief remains. No final liability, damages or injunction is ordered.
+
+### Commerce power and armed vehicle taking
+
+#### [United States v. Harris](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Harris_merits_1995-04-27.md)
+
+**Docket or dockets:** No. 94-297.
+**Decided:** April 27, 1995.
+
+For the other questions in this decision, see Criminal Procedure — Armed vehicle taking and cumulative firearm punishment (Knowing participation and intentional assistance give the original offense definite content; Section 924(c) expressly adds a consecutive term for this armed carjacking; Hunter permits the clearly authorized punishment in this single prosecution).
+
+##### The vehicle-taking economic class supplies the commerce connection
+
+**Holding:** Congress may apply original §2119 to the armed forcible acquisition of the vehicle proved here as regulation of the economic vehicle-taking class within the interstate motor-vehicle theft-prevention scheme. The statute's separately enacted requirement that the particular vehicle have been transported, shipped, or received in interstate or foreign commerce must be proved; neither remote movement alone nor generalized crime, insurance, or productivity costs independently supplies this holding's constitutional ground.
+
+**Proposition-level authority:** O'Connor's commerce portion, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: eight Justices; Stone-Zsela concurs in the judgment on a distinct ground.
+
+**Treatment of earlier authority:**
+
+- United States v. Lopez, April 26, 1995: applies its retained economic-class boundary and distinguishes its inadequate stand-alone possession/downstream-effects chain; no missing element is supplied.
+- Wickard v. Filburn, 317 U.S. 111 (1942): applies aggregation within a regulated economic class rather than demanding a substantial effect from each individual taking.
+- Perez v. United States, 402 U.S. 146 (1971): applies Congress's authority over the economic class despite an individual instance's local character.
+- Allied-Bruce Terminix Cos. v. Dobson, January 18, 1995: preserves its distinction between actual commercial operation and remote object history; prior manufacture alone is not the constitutional ground here.
+
+**Operative remedy or transition:** Both convictions and each defendant's forty-one-month Count One term plus consecutive sixty-month Count Two term are affirmed on all three presented challenges. No merger, vacatur, concurrent conversion, sentence increase, resentencing, new trial or exploratory remand is ordered.
+
+### Commerce power and school-zone firearm possession
+
+#### [United States v. Lopez](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Lopez_merits_1995-04-26.md)
+
+**Docket or dockets:** No. 93-1260.
+**Decided:** April 26, 1995.
+
+##### The original possession offense lacks the required commerce connection
+
+**Holding:** The original §922(q)(1)(A) school-zone possession prohibition cannot sustain this prosecution on the chain from local firearm possession through crime costs, impaired education and reduced productivity to the national economy. Its stand-alone regulated class and enacted elements supply no adequate commercial connection, and that generalized downstream-effects theory cannot supply one; the holding does not categorically exclude all noneconomic intrastate conduct from federal regulation.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), joined by Stone-Zsela, O'Connor, Scalia and Thomas: five Justices.
+
+**Treatment of earlier authority:**
+
+- Wickard v. Filburn, 317 U.S. 111: preserves aggregation at its economic-class scope; the school-possession/productivity chain does not extend that holding to this stand-alone offense.
+- Perez v. United States, 402 U.S. 146: preserves Congress’s regulation of an economic class without requiring each instance to have a substantial effect; its regulated commercial setting remains material.
+- Allied-Bruce Terminix Cos. v. Dobson, January 18, 1995: distinguishes actual interstate commercial operation from remote-object history; its statutory breadth and reserved constitutional ceiling remain intact.
+- Hodel v. Virginia Surface Mining & Reclamation Assn., 452 U.S. 264: preserves broad review of congressional commercial regulation without treating deference as a grant of general police power or imposing a universal formal-findings requirement.
+- New York v. United States, June 19, 1992: distinguishes compelled state administration from direct regulation of private persons; neither its anti-compulsion rule nor the traditional local subject alone decides this case.
+- Garcia v. San Antonio Metropolitan Transit Authority, 469 U.S. 528: remains undisturbed in its generally applicable regulation of state activity; traditional-governmental-function immunity is not revived.
+
+**Limits and questions not reached:** No categorical exclusion of all noneconomic intrastate conduct or universal formal-findings requirement is adopted. The holding creates no Second Amendment rule and decides no amended possession statute, separate discharge offense, Elections Clause standard or Reconstruction Amendment standard.
+
+##### The possession text cannot be saved by adding a new commerce element
+
+**Holding:** The Court will not insert an unexpressed commerce element into original §922(q)(1)(A) to sustain this charge. Because the constitutional ground requires affirmance of dismissal under the enacted prohibition, the Court does not decide the independent indictment defect that would arise if a permissible construction made a nexus an element.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), joined by Stone-Zsela, O'Connor, Scalia and Thomas: five Justices.
+
+**Treatment of earlier authority:**
+
+- United States v. Bass, 404 U.S. 336: preserves federalism-sensitive construction of ambiguous firearms language, without authorizing addition of an element absent from this unambiguous provision.
+- Gregory v. Ashcroft, 501 U.S. 452: preserves its clarity principle within permissible statutory interpretation; it supplies no power to rewrite this offense.
+- United States v. X-Citement Video, Inc., November 29, 1994: distinguishes interpretation of an enacted knowledge term from adding a new jurisdictional condition; its separate rules for defending a favorable judgment remain intact.
+- Stirone v. United States, 361 U.S. 212: supplies the grand-jury allegation boundary invoked against substituting trial proof for a necessary indictment allegation; the renewed objection remains conditional and is not decided after affirmance on another sufficient ground.
+- Russell v. United States, 369 U.S. 749: supplies the grand-jury allegation boundary invoked against curing omission of a necessary offense allegation through later proof; that conditional indictment objection is left unresolved because the commerce ground is sufficient.
+
+**Operative remedy or transition:** The Fifth Circuit's reversal of the original §922(q)(1)(A) conviction and dismissal mandate are affirmed. No prosecution reinstatement, new commerce allegation, sentencing decision or merits remand is ordered. Supervised-release, special-assessment and conditional indictment objections are unnecessary to decide.
+
+### Federal borrowing and state taxation
+
+#### [Nebraska Department of Revenue v. Loewenstein](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Nebraska_Department_of_Revenue_v_Loewenstein_merits_1994-12-12.md)
+
+**Docket or dockets:** No. 93-823.
+**Decided:** December 12, 1994.
+
+For the other questions in this decision, see Federal Taxation — Federal obligations and private repurchase income (The private repo return is outside the federal-obligation exemption; The asserted discrimination lacks a supported comparator policy).
+
+##### The borrowing-power objection is not established by evidence about bankruptcy classification
+
+**Holding:** The constitutional borrowing-power objection fails because the supplied evidence concerning the effects of classifying repos in bankruptcy does not establish the asserted tax-specific burden on federal borrowing. Rockford's exclusion of remote or conjectural impairment applies without a finding that taxation can never affect borrowing or a numerical threshold for permissible effects.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), eight Justices; Stone-Zsela agrees only in the disposition of the borrowing-power objection.
+
+**Treatment of earlier authority:**
+
+- Rockford Life Insurance Co. v. Illinois Department of Revenue, 482 U.S. 182 (1987): applies the limit on remote or conjectural impairment of federal borrowing; it creates no rule that every market effect is irrelevant.
+
+**Operative remedy or transition:** The Nebraska Supreme Court is reversed as to Revenue Ruling 22-85-1 and the case remanded to uphold the challenged tax on this repo income and conduct consistent remaining proceedings. No separate Seller-Borrower add-back construction, assessment, refund or recomputation is ordered.
+
+### Interstate transportation sales taxes
+
+#### [Oklahoma Tax Commission v. Jefferson Lines, Inc.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Oklahoma_Tax_Commission_v_Jefferson_Lines_Inc_merits_1995-04-03.md)
+
+**Docket or dockets:** No. 93-1677.
+**Decided:** April 3, 1995.
+
+##### The completed local sale and carrier operations supply substantial nexus
+
+**Holding:** A physically present carrier's completed Oklahoma sale of a ticket for a trip originating in Oklahoma supplies the substantial nexus required for this sales tax. The ruling does not decide remote collection obligations or a ticket for transportation wholly outside the State.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), joined by Stone-Zsela, Stevens, Souter and Ginsburg: five Justices. Scalia and Thomas concur in the judgment only.
+
+**Treatment of earlier authority:**
+
+- Complete Auto Transit, Inc. v. Brady, 430 U.S. 274: applies substantial nexus as one independent requirement; the other requirements remain necessary.
+- Quill Corp. v. North Dakota, May 26, 1992: preserves its specific remote-collection boundary and separate constitutional inquiries; it does not govern this physically present seller's local transactions.
+- National Geographic Society v. California Board of Equalization, 430 U.S. 551: applies the significance of actual local business operations; no remote-seller or slightest-presence rule is announced.
+
+##### Identical taxation of the completed retail sale is internally consistent
+
+**Holding:** A tax applied by every State to completed local retail sales of the kind at issue would tax this ticket sale once and is internally consistent. Furnishing later segments of the purchased interstate transportation does not itself constitute a second retail sale of this ticket under the identical local-sale application.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), joined by Stone-Zsela, Stevens, Souter and Ginsburg: five Justices. Scalia and Thomas concur in the judgment only.
+
+**Treatment of earlier authority:**
+
+- Goldberg v. Sweet, 488 U.S. 252: applies the distinction between internal and external consistency; passing the structural inquiry does not dispense with external allocation.
+- Complete Auto Transit, Inc. v. Brady, 430 U.S. 274: applies fair apportionment while preserving its other independent requirements.
+
+##### The full price measures the local consumer sale without mileage apportionment
+
+**Holding:** The full price of this completed Oklahoma retail sale of locally originating interstate transportation may measure the consumer sales tax without mileage apportionment. The distinct carrier-business gross-receipts tax addressed in Central Greyhound remains subject to apportionment, and neither a tax's label nor nominal buyer incidence alone establishes external consistency.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), joined by Stone-Zsela, Stevens, Souter and Ginsburg: five Justices. Scalia and Thomas concur in the judgment only.
+
+**Treatment of earlier authority:**
+
+- Complete Auto Transit, Inc. v. Brady, 430 U.S. 274: preserves practical examination of the actual tax rather than reliance on labels.
+- Central Greyhound Lines, Inc. v. Mealey, 334 U.S. 653: distinguishes the carrier-business gross-receipts tax; its apportionment requirement for that taxable activity remains in force.
+- Itel Containers International Corp. v. Huddleston, February 23, 1993: applies the significance of a distinct local transaction, while preserving the fact that Complete Auto compliance was conceded there and must be decided here.
+- Goldberg v. Sweet, 488 U.S. 252: applies external consistency to attribution of the actual taxable event; its telephone-service and credit setting is not a mandatory credit rule for every local sale.
+
+##### The established burden does not discriminate against interstate ticket sales
+
+**Holding:** Equal taxation of interstate and intrastate tickets sold locally satisfies nondiscrimination in this application because no additional discriminatory burden is established. Equal facial rates are not invariably sufficient; here the bankruptcy court's contrary practical-effect conclusion rests on the external-apportionment premise the Court rejects.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), joined by Stone-Zsela, Stevens, Souter and Ginsburg: five Justices. Scalia and Thomas concur in the judgment only.
+
+**Treatment of earlier authority:**
+
+- Complete Auto Transit, Inc. v. Brady, 430 U.S. 274: applies nondiscrimination independently of the other requirements.
+- Associated Industries of Missouri v. Lohman, May 23, 1994: preserves comparison of the actual local burden and rejects fictional offsets; no statewide averaging or compensatory-tax defense is supplied here.
+
+##### General services supporting the local activity supply a fair relation
+
+**Holding:** A sales tax is fairly related to state services when broad governmental services support the locally taxed activity; the Constitution requires no dollar-for-dollar or mile-for-mile reimbursement calculation. Oklahoma's services supporting ticket sales, passenger loading, and local operations establish that relation for these transactions.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), joined by Stone-Zsela, Stevens, Souter and Ginsburg: five Justices. Scalia and Thomas concur in the judgment only.
+
+**Treatment of earlier authority:**
+
+- Commonwealth Edison Co. v. Montana, 453 U.S. 609: applies the connection to broad governmental benefits without dollar-for-dollar accounting.
+- Goldberg v. Sweet, 488 U.S. 252: applies the fair-relation inquiry to general protections supporting the taxable activity.
+- Complete Auto Transit, Inc. v. Brady, 430 U.S. 274: keeps fair relation independent of nexus, apportionment, and nondiscrimination.
+
+**Operative remedy or transition:** The Commerce-ground disallowance is reversed and remanded, 7–2. The bankruptcy court shall allow the tax claims to the extent otherwise valid; allowance, priority, and payment remain subject to ordinary tax and bankruptcy law and the operative plan. No immediate $46,659.15 payment, priority, withdrawn amount, credit or mileage formula is ordered.
+
+### Interstate water compacts and usable-water depletion
+
+#### [Kansas v. Colorado](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Kansas_v_Colorado_original_exceptions_1995-05-15.md)
+
+**Docket or dockets:** No. 105, Original.
+**Decided:** May 15, 1995.
+
+##### Pumping liability is established without choosing a general proof quantum
+
+**Holding:** Colorado’s post-Compact well development, including increased use of existing wells, materially depleted water protected by Article IV-D in usable quantity or availability. The substantial pumping violation is established even by clear and convincing evidence, while the separate WWSP claim fails even by a preponderance; the Court therefore overrules Colorado’s proof-standard exception without choosing the general quantum governing disputed Compact-enforcement facts or fixing a compensable quantity.
+
+**Proposition-level authority:** Opinion of the Court (O’Connor), unanimous on each proposition.
+
+**Treatment of earlier authority:**
+
+- Nebraska v. Wyoming, April 20, 1993: preserves the distinction between enforcement of an established decree right and modification requiring clear and convincing real and substantial injury; it does not replace this Compact’s material-depletion element or settle its general factual quantum.
+- Colorado v. New Mexico, 467 U.S. 310 (1984): distinguishes the proposed new-diversion setting while applying its explanation that clear and convincing proof requires high probability rather than certainty; the general Compact standard remains open.
+
+**Limits and questions not reached:** Article III-B and IV-A concern waters originating in the natural Arkansas drainage basin above the Stateline, including tributaries, and exclude imported waters; Article IV-B preserves New Mexico rights in Trinchera Creek and other Purgatoire tributaries there. Actual imported return flows may nevertheless reduce the measured loss and remain in causal accounting.
+
+##### The protected pumping baseline is actual use, not hypothetical capacity
+
+**Holding:** Article IV-D’s protection against material depletion extends to the improved or prolonged functioning of existing works, and Article VI-A(2) preserves Colorado’s administration only subject to the Compact’s other provisions. The supported 15,000-acre-foot historical actual-use benchmark governs this liability accounting rather than later decreed quantities or hypothetical maximum capacity; it is not an unconditional annual pumping cap or a final damages quantity.
+
+**Proposition-level authority:** Opinion of the Court (O’Connor), unanimous on each proposition.
+
+**Treatment of earlier authority:**
+
+- Texas v. New Mexico, 462 U.S. 554 (1983): applies the duty to enforce the congressionally approved Compact as written; neither state decrees nor preferred allocation policy replaces its express conditions.
+
+##### The laches exception fails for lack of established inexcusable delay
+
+**Holding:** Assuming laches could apply, Colorado has not established Kansas’s inexcusable lack of diligence and therefore cannot obtain the requested bar to monetary liability for periods before March 1985. The Court leaves laches’s categorical availability in Compact enforcement open, makes no independently sufficient prejudice holding, and reserves the eventual form of relief and properly supported remedy-stage equities.
+
+**Proposition-level authority:** Opinion of the Court (O’Connor), unanimous on each proposition.
+
+**Treatment of earlier authority:**
+
+- Illinois v. Kentucky, 500 U.S. 380 (1991): distinguishes its concrete prescription and acquiescence setting; its general laches observation does not establish an absolute Compact-enforcement exemption.
+- Nebraska v. Wyoming, April 20, 1993: preserves its concrete acquiescence determination without treating knowledge of wells or passage of time as equivalent conduct here.
+- Texas v. New Mexico, 482 U.S. 124 (1987): retains enforcement of past Compact obligations despite good-faith uncertainty, while leaving appropriate remedial considerations for the remedy proceeding.
+
+##### The separate reservoir bargain supplies no independent pumping credit
+
+**Holding:** The 1980 John Martin Operating Plan does not create the asserted independent legal credit against well-pumping liability for benefits Kansas obtained through a separately bargained exchange of release and timing rights. Actual Plan operation and actual imported return flows that reduce the measured loss must remain in the physical accounting; the Court rejects no credit actually created by agreement and awards no final numerical offset.
+
+**Proposition-level authority:** Opinion of the Court (O’Connor), unanimous on each proposition.
+
+**Treatment of earlier authority:**
+
+- Texas v. New Mexico, 482 U.S. 124 (1987): applies enforcement of the actual Compact obligation with remedial flexibility; that flexibility does not create an unbargained credit or establish a present numerical offset.
+
+##### The pleaded Trinidad claim requires the Compact’s material depletion
+
+**Holding:** The 1967 Trinidad Operating Principles do not establish the asserted independent Compact command making every departure a violation without the material depletion required by Article IV-D. Kansas has not established that depletion by comparing actual operation with conditions without the project, so its pleaded Compact claim is dismissed; independent agreement, third-party-beneficiary and other authorized enforcement theories remain undecided.
+
+**Proposition-level authority:** Opinion of the Court (O’Connor), unanimous on each proposition.
+
+**Treatment of earlier authority:**
+
+- Texas v. New Mexico, 462 U.S. 554 (1983): applies respect for the Compact’s actual institutional authority while forbidding judicial alteration of its allocation; it does not foreclose every valid implementation rule or separate undertaking.
+
+##### The WWSP depletion claim fails on the particular proof
+
+**Holding:** Kansas has not proved even by a preponderance that the reviewed Winter Water Storage Program materially depleted protected usable water, and its depletion exception is overruled. The conclusion rests on the comparison’s operational, nonparallel-error and timing defects, not a finding of no possible depletion, a demand for perfect modeling, or a rule that calibration error larger than the modeled effect always defeats proof.
+
+**Proposition-level authority:** Opinion of the Court (O’Connor), unanimous on each proposition.
+
+**Treatment of earlier authority:**
+
+- Daubert v. Merrell Dow Pharmaceuticals, Inc., June 28, 1993: preserves reliability and task-specific fit while keeping preliminary admissibility distinct from the persuasive sufficiency of a particular estimate; no mandatory checklist or perfect-model requirement is imposed.
+
+##### The adopted usable-water method fits this liability record
+
+**Holding:** Article IV-D protects usable quantity and availability, including supported timing and recharge, rather than gross annual flow alone. For this liability record the Court accepts Durbin’s approach with Larson’s modifications—72% summer, 25% winter, a 9.9% pre-Compact recharge component, and monthly/seasonal ceilings of 40,000/140,000 acre-feet in summer and 7,500/40,000 in winter—and rejects Kansas’s exception without prescribing a permanent formula or foreclosing reliable daily analysis.
+
+**Proposition-level authority:** Opinion of the Court (O’Connor), unanimous on each proposition.
+
+**Treatment of earlier authority:**
+
+- Daubert v. Merrell Dow Pharmaceuticals, Inc., June 28, 1993: applies the importance of fit to the inference sought, without turning its admission rule into a permanent water-accounting formula or choosing the ultimate Compact proof quantum.
+
+##### The separate WWSP prior-approval ruling is confirmed on its narrow ground
+
+**Holding:** The 1951 Administration policy resolution, the Compact and the cited 1944 and 1962 federal authorizations do not establish the asserted general requirement of prior Administration approval for WWSP. The partial summary judgment is confirmed on that legal ground, while Article IV-D’s material-depletion restriction, Article IV-C’s actual operational qualifications and Article IX’s federal reservation and jointly approved John Martin exceptions remain effective.
+
+**Proposition-level authority:** Opinion of the Court (O’Connor), unanimous on each proposition.
+
+**Treatment of earlier authority:**
+
+- Texas v. New Mexico, 462 U.S. 554 (1983): preserves actual Compact machinery and judicial enforcement despite administrative impasse, without creating either an unexpressed approval veto or a universal exception to administrative procedures.
+
+**Limits and questions not reached:** Article IV-C permits authorized Corps flood-control releases at necessary or advisable times and rates regardless of either State's ditch capacities or requirements, conservation-pool releases or suspension of storage needed for maintenance, and temporary use of conservation capacity for flood operations. These are particular operational qualifications, not general reservoir immunity. Article IX-A and consent Act §2 reserve federal sovereignty, rights and jurisdiction; the Chief of Engineers may operate John Martin's conservation features consistently with the Compact, subject to exceptions jointly approved by the Chief and Administration. Article VIII-B procedures involving John Martin operation require District Engineer approval; VIII-D gives each State one vote, requires unanimity and permits arbitration of a divided vote only by subsequent unanimous referral. None establishes the asserted general WWSP approval veto.
+
+##### Lake McKinney is dismissed for failure to prove unauthorized retention
+
+**Holding:** Colorado’s Lake McKinney counterclaim is dismissed because it has not adequately traced protected John Martin releases to unauthorized retention rather than the short retention needed to move water through the pool. Article V-E(2) still requires prompt beneficial use unless the Administration authorizes downstream storage; this record-specific failure of proof supplies no general permission for storage and no universal counterclaim proof rule.
+
+**Proposition-level authority:** Opinion of the Court (O’Connor), unanimous on each proposition.
+
+**Treatment of earlier authority:**
+
+- Texas v. New Mexico, 462 U.S. 554 (1983): applies enforcement of the enacted obligation with its express qualification; the Court neither deletes authorized downstream storage nor adds a categorical storage permission.
+
+##### The Kansas-well counterclaim fails for want of proved Colorado injury
+
+**Holding:** Colorado’s Kansas-well counterclaim is dismissed because the asserted additional calls, transit or account effects, and lost surplus have not been shown to injure Colorado’s protected supply. The dismissal does not immunize Kansas development, equate all Kansas groundwater with Compact-covered Colorado-origin water, or remove Kansas pumping from the distinct calculation of water Kansas could actually have used.
+
+**Proposition-level authority:** Opinion of the Court (O’Connor), unanimous on each proposition.
+
+**Treatment of earlier authority:**
+
+- Texas v. New Mexico, 462 U.S. 554 (1983): applies the actual Compact obligation and protected entitlement as the basis for adjudication; failure to prove this claimed injury creates no general immunity for downstream development.
+
+**Operative remedy or transition:** All seven exceptions are overruled, pumping liability and the three unexcepted recommendations are adopted at their stated scope, and the matter is recommitted to the Special Master for remedy evidence and recommendations. Liability and the accepted accounting govern that work; rejected claims receive no automatic new trial. No final quantity, damages, interest, valuation, offset, engineering regime or final decree is entered.
+
+### Legislative punishment and land-use regulation
+
+#### [Ambassador Books & Video, Inc. v. City of Little Rock](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Ambassador_Books_Video_Inc_v_City_of_Little_Rock_merits_1995-03-20.md)
+
+**Docket or dockets:** No. 93-1886.
+**Decided:** March 20, 1995.
+
+For the other questions in this decision, see First Amendment — Adult-business zoning and alternative locations (The enacted zoning measure satisfies the secondary-effects inquiry on this record; The established relocation opportunities defeat the cost-only alternatives objection); Property and Economic Rights — Existing businesses and prospective land-use regulation (Existing-business status does not create an absolute due-process exemption; Relocation alone does not establish the presented categorical taking).
+
+##### The ordinance is not established as legislative punishment
+
+**Holding:** A prospective land-use category, transition period, and ordinary regulatory administration do not constitute a bill of attainder merely because the affected businesses are readily identifiable. The record does not establish legislative punishment for past conduct without trial; a law using zoning form to impose such punishment would present a different question.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), Part V, unanimous.
+
+**Treatment of earlier authority:**
+
+- Nixon v. Administrator of General Services, 433 U.S. 425 — identification and punishment remain distinct; historical, functional, and purpose considerations govern the latter.
+- O’Brien — individual motive evidence alone does not conclusively characterize the enactment; the independent punishment inquiry remains.
+
+**Limits and questions not reached:** Section 17-215(a) permits an existing business to continue for three years and permits a reasonable extension when necessary to prevent undue financial hardship. Extension is neither automatic nor forbidden; no application or denial is found. For the ordinance’s coverage and the separate compensation limits, see this decision’s First Amendment and Property and Economic Rights entries.
+
+**Operative remedy or transition:** Dismissal and denial of preliminary relief are affirmed: 7–2 on speech and unanimously on the bounded due-process, categorical-taking and attainder claims. The ordinance remains effective. No parcel-specific compensation, transition extension or valuation is adjudicated; no later action is guaranteed, reopened or exempted from ordinary procedural defenses.
+
+### Motor-vehicle safety and common-law preemption
+
+#### [Freightliner Corp. v. Myrick](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Freightliner_Corp_v_Myrick_merits_1995-04-18.md)
+
+**Docket or dockets:** No. 94-286.
+**Decided:** April 18, 1995.
+
+##### No in-effect federal standard supplies the express-preemption predicate here
+
+**Holding:** Section 1392(d)'s express restriction requires an in-effect federal motor-vehicle safety standard governing the same aspect of performance as the asserted state duty. The asserted antilock-equipment defect claims are not expressly displaced on this record because that federal predicate is absent; the Court does not decide whether common-law duties themselves are safety standards within that provision.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg), eight Justices; Scalia concurs in the judgment only.
+
+**Treatment of earlier authority:**
+
+- CSX Transportation, Inc. v. Easterwood, April 21, 1993: applies its attention to the aspect of performance actually covered, without importing the separate railroad speed holding or treating every braking rule as coverage of antilock omission.
+- Cipollone v. Liggett Group, Inc., June 24, 1992: applies clause- and duty-specific analysis; its particular cigarette holdings do not answer all Safety Act questions.
+- Paccar, Inc. v. National Highway Traffic Safety Administration, 573 F.2d 632: treats its judicial invalidation as the regulatory-history predicate, not as a new federal right to avoid common-law liability.
+
+##### Judicial invalidation alone establishes no actual federal conflict
+
+**Holding:** An express preemption clause does not categorically foreclose inquiry into an independently established actual conflict with operative federal law or a demonstrated federal objective. Here neither impossibility nor interference with such an objective is established by judicial invalidation and the absence of an operative antilock requirement, so the asserted conflict does not bar these common-law claims.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg), eight Justices; Scalia concurs in the judgment only.
+
+**Treatment of earlier authority:**
+
+- Cipollone v. Liggett Group, Inc., June 24, 1992: rejects the lower court's universal inference that any express provision exhausts every possible actual-conflict inquiry; its enacted-clause holdings remain intact.
+- Gade v. National Solid Wastes Management Association, June 18, 1992: preserves the shared rule against automatic displacement from overlap; no physical-impossibility-only theory or broader separate theory is made Court law.
+- Paccar, Inc. v. National Highway Traffic Safety Administration, 573 F.2d 632: distinguishes inadequate support for a mandatory standard from an affirmative policy protecting noninstallation against state duties.
+
+**Limits and questions not reached:** Section 1397(k)'s compliance saving clause is not held to immunize every common-law action from an actual conflict. The Court does not decide whether tort duties are standards under §1392(d), every effect of the saving clause when a standard exists, or a federal field-wide ceiling. It does not find all air-brake regulation absent, invent an agency policy from an unproduced revision, or decide defect, accident causation, consortium entitlement, wrongful-death recovery, or damages.
+
+**Operative remedy or transition:** The return of the Myrick and Lindsey common-law claims for further proceedings is affirmed. The abandoned Georgia RICO contention, Fruehauf dismissal and stipulated predecessor treatment are undisturbed. Ordinary liability proof and defenses remain.
+
+### Congressional control of airport administration
+
+#### [Metropolitan Washington Airports Authority v. Hechinger](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Metropolitan_Washington_Airports_Authority_v_Hechinger_merits_1995-06-05.md)
+
+**Docket or dockets:** No. 94-851.
+**Decided:** June 5, 1995.
+
+##### Congressional agents may not control the legal effectiveness of airport decisions
+
+**Holding:** Congress may advise, oversee, obtain reports and enact a fixed waiting period, but may not vest a congressional agent with selective, legally operative control over execution outside the constitutional allocation of power. The revised Board is such an agent and its ability to trigger an additional restraint on covered Authority actions makes the challenged control provisions unconstitutional; mere influence, nominations considered alone, consultation, reporting and nonvoting attendance are not independently invalidated.
+
+**Proposition-level authority:** Stevens's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; nine Justices adopt the congressional-agency-plus-operative-control ground. Stone's independent Article I ground is not an additional Court holding.
+
+**Limits and questions not reached:** Appointments Clause, incompatibility and ineligibility grounds remain undecided. The holding requires congressional agency plus selective legally operative control; it does not invalidate mere nominations, consultation, reporting or nonvoting attendance.
+
+**Treatment of earlier authority:** Citizens for the Abatement of Aircraft Noise, 501 U.S. 252, is applied to the revised agency and retained operative control. Bowsher v. Synar is applied to congressional execution. Buckley v. Valeo supplies constitutional accountability for governmental power without independently deciding appointments here. INS v. Chadha preserves bicameralism and presentment for responsive congressional prohibition; no broader independent Article I holding is adopted.
+
+##### The enacted contingency limits the remedy
+
+**Holding:** When a judicial order prevents the Board from carrying out its statutory functions, 49 U.S.C.App. §2456(h) withdraws the Authority’s power thereafter to perform actions required to be submitted to that Board. The restraint is affirmed subject to that enacted consequence: unaffected functions, the lease and compact survive, past Board actions are not automatically invalidated, and severance cannot authorize prohibited covered actions.
+
+**Proposition-level authority:** Stevens's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; all nine adopt the precise statutory remedial limit.
+
+**Limits and questions not reached:** The enacted covered-action categories and timing, selection and vacancy conditions set out below define the restraint's scope. Particular retrospective reliance and finality disputes are not resolved; no entire-compact invalidation or authorization of prohibited covered actions follows.
+
+Members must have aviation and airport-user experience, frequently use the metropolitan airports and be registered voters outside Virginia, Maryland and the District of Columbia. The Authority appoints from mandatory Speaker and President-pro-tempore lists, may request additional names but cannot select outside them, and may remove a member for cause by a two-thirds directors’ vote. Covered actions include adoption or amendment of an annual budget; bond authorization and an annual bond plan or its amendments; adoption, amendment or repeal of a regulation; adoption or revision of a master plan; appointment of the chief executive; award of a directors-approved contract; approval or modification of terminal design or airport layout; and authorization to acquire or dispose of land or grant a long-term easement. The recommendation period is the longer of thirty calendar days or ten legislative days. Silence through that period permits immediate effectiveness on expiration; earlier notice that no recommendation will be made permits immediate effectiveness then. Acceptance permits the proposed action with the recommended changes; rejection triggers sixty legislative days of review. Legislative days exclude Saturdays, Sundays, holidays, and days neither House sits because of sine-die adjournment or recess or adjournment longer than three days. Congressional prohibition must proceed by constitutional lawmaking. No general urgent-and-compelling-circumstances override exists. More than four vacancies after congressional lists have been supplied independently disables covered actions under §2456(f)(2)(D). Those statutory branches do not eliminate the selective control or the §2456(h) remedial consequence.
+
+**Treatment of earlier authority:** Citizens for the Abatement of Aircraft Noise is applied to the constitutional defect, not extended into permission to ignore §2456(h). The earlier FEC v. NRA jurisdictional disposition supplies no merits or severability rule.
+
+**Operative remedy or transition:** Affirm the restraint on the challenged control with section 2456(h)'s consequence for covered actions, preserving unaffected functions, the lease and compact and no automatic invalidation of past acts. The October 24, 1994 stay operates through the applicable mandate machinery: the June 5 final Supreme Court disposition satisfies its applicable branch; March 31, 1995 was not an earlier automatic expiry while that branch remained pending. The sixty-day-after-certiorari-denial branch does not govern this merits disposition. No new transition stay is imposed.
+
+### Congressional qualifications and state ballot restrictions
+
+#### [U.S. Term Limits, Inc. v. Thornton / Bryant v. Hill](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/US_Term_Limits_v_Thornton_Bryant_v_Hill_merits_1995-05-22.md)
+
+**Docket or dockets:** Nos. 93-1456; 93-1828.
+**Decided:** May 22, 1995.
+
+**Companion or consolidated matters:** U.S. Term Limits, Inc. v. Thornton / Bryant v. Hill. The dockets share the holdings at their stated component scopes.
+
+##### States cannot add congressional qualifications through the ordinary ballot
+
+**Holding:** A State may not deny an otherwise constitutionally qualified congressional candidate ordinary ballot access because of prior congressional service when that restriction adds a substantive personal qualification. The exclusive Article I qualifications cannot be supplemented indirectly through the ballot; genuine time, place and manner administration remains distinct.
+
+**Proposition-level authority:** Stevens's Opinion of the Court, joined by Stone-Zsela, Kennedy, Souter, Ginsburg and Breyer: six direct votes, in both consolidated dockets.
+
+**Limits and questions not reached:** The Tenth Amendment supplies no reserved state power to alter qualifications for national offices created by Article I. A remaining write-in opportunity does not save this substantive service-based exclusion. Neutral filing, petition, support and ballot-management requirements and separate state-office provisions remain outside the holding.
+
+**Treatment of earlier authority:**
+
+- Powell, 395 U.S. 486: applies fixed congressional qualifications and elector choice to the State's service-based restriction; Congress's own exclusion was its original setting.
+- Storer, 415 U.S. 724: distinguishes genuine electoral administration from added substantive qualifications; ordinary neutral election rules are preserved.
+- Gregory, 501 U.S. 452: distinguishes state control of its own officers from qualification of federal representatives; its actual state-officer protection remains intact.
+
+**Operative remedy or transition:** Affirm the Arkansas Supreme Court in Nos. 93-1456 and 93-1828. Section 3 of Amendment 73's ordinary-ballot exclusions after three House terms or two Senate terms remain unenforceable; no state-office term limit or separate redistricting remedy is adjudicated.

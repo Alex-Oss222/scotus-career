@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1993
-**Processed through:** June 30, 1994, after all eleven chunk-8 matters and all 95 OT1993 inventory Court events.
-**Edition:** September 28, 2026
+**Last completed October Term:** 1994
+**Processed through:** June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.
+**Edition:** October 1, 2026
 
 ## Business and Commercial Law
 
@@ -173,9 +173,9 @@ No earlier decision is independently construed, extended or overruled by this pr
 **Docket or dockets:** No. 92-34.
 **Decided:** June 1, 1993.
 
-##### Contribution is available among persons jointly liable under the received Rule10b-5 action
+##### Contribution is available among persons jointly liable under the received Rule 10b-5 action
 
-**Holding:** Persons jointly liable for the same violation under the established implied Rule10b-5 action may seek contribution, subject to proof of their shared underlying liability and the applicable allocation requirements. The rule is a bounded incident of that received action and does not create general professional liability, an automatic aiding-and-abetting rule, indemnity, or contribution under unrelated statutes.
+**Holding:** Persons jointly liable for the same violation under the established implied Rule 10b-5 action may seek contribution, subject to proof of their shared underlying liability and the applicable allocation requirements. The rule is a bounded incident of that received action and does not create general professional liability, an automatic aiding-and-abetting rule, indemnity, or contribution under unrelated statutes.
 
 **Proposition-level authority:** Kennedy’s Opinion of the Court; Stone-Zsela, White, Stevens, Scalia, Kennedy, Souter (6 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
@@ -185,12 +185,12 @@ No earlier decision is independently construed, extended or overruled by this pr
 
 **Treatment of earlier authority:**
 
-- Lampf, Pleva, Lipkind, Prupis & Petigrow v. Gilbertson, 501 U.S.350: close express securities analogies applied to define an incident of the received action.
-- Blue Chip Stamps v. Manor Drug Stores, 421 U.S.723: bounded judicial definition of the established action applied.
-- Ernst & Ernst v. Hochfelder, 425 U.S.185: limits on implied securities liability preserved.
-- Northwest Airlines, Inc. v. Transport Workers Union, 451 U.S.77: different express remedial scheme distinguished; no universal contribution presumption announced.
-- Texas Industries, Inc. v. Radcliff Materials, Inc., 451 U.S.630: different statutory scheme distinguished.
-- Franklin v. Gwinnett County Public Schools, February26,1992: existing-action/remedy distinction preserved; no freestanding professional cause created.
+- Lampf, Pleva, Lipkind, Prupis & Petigrow v. Gilbertson, 501 U.S. 350: close express securities analogies applied to define an incident of the received action.
+- Blue Chip Stamps v. Manor Drug Stores, 421 U.S. 723: bounded judicial definition of the established action applied.
+- Ernst & Ernst v. Hochfelder, 425 U.S. 185: limits on implied securities liability preserved.
+- Northwest Airlines, Inc. v. Transport Workers Union, 451 U.S. 77: different express remedial scheme distinguished; no universal contribution presumption announced.
+- Texas Industries, Inc. v. Radcliff Materials, Inc., 451 U.S. 630: different statutory scheme distinguished.
+- Franklin v. Gwinnett County Public Schools, February 26, 1992: existing-action/remedy distinction preserved; no freestanding professional cause created.
 
 ### National bank insurance authority
 
@@ -213,10 +213,10 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 **Treatment of earlier authority:**
 
-- Hammock v. Loan & Trust Co., 105 U.S.77: punctuation read in the whole enacted context where that context establishes the legal meaning.
-- Marshall Field & Co. v. Clark, 143 U.S.649: enrolled-bill authenticity distinguished from interpretation of an agreed authentic text.
-- Posadas v. National City Bank, 296 U.S.497: a description of §5202 amendments does not decide this repeal question.
-- Commissioner v. First Security Bank of Utah, 405 U.S.394: prior assumed validity is not treated as a holding resolving statutory survival.
+- Hammock v. Loan & Trust Co., 105 U.S. 77: punctuation read in the whole enacted context where that context establishes the legal meaning.
+- Marshall Field & Co. v. Clark, 143 U.S. 649: enrolled-bill authenticity distinguished from interpretation of an agreed authentic text.
+- Posadas v. National City Bank, 296 U.S. 497: a description of §5202 amendments does not decide this repeal question.
+- Commissioner v. First Security Bank of Utah, 405 U.S. 394: prior assumed validity is not treated as a holding resolving statutory survival.
 - Germain, March 9, 1992: fidelity to operative statutory language and coexistence preserved.
 
 ### Insurance liquidation priorities
@@ -234,11 +234,11 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 **Treatment of earlier authority:**
 
-- SEC v. National Securities, Inc., 393 U.S.453: policyholder relationship and function-specific treatment of a state statute applied.
-- Group Life & Health Insurance Co. v. Royal Drug Co., 440 U.S.205: antitrust setting distinguished; insurance companies’ every business decision is not insurance regulation.
-- Union Labor Life Insurance Co. v. Pireno, 458 U.S.119: risk-transfer and policy-relationship criteria considered without excluding actual policy performance.
-- Prudential Insurance Co. v. Benjamin, 328 U.S.408: Congress’s support for state insurance regulation confirms the enacted allocation.
-- United States v. Knott, 298 U.S.544: pre-Act priority setting distinguished; it does not nullify §1012(b)’s later operative text.
+- SEC v. National Securities, Inc., 393 U.S. 453: policyholder relationship and function-specific treatment of a state statute applied.
+- Group Life & Health Insurance Co. v. Royal Drug Co., 440 U.S. 205: antitrust setting distinguished; insurance companies’ every business decision is not insurance regulation.
+- Union Labor Life Insurance Co. v. Pireno, 458 U.S. 119: risk-transfer and policy-relationship criteria considered without excluding actual policy performance.
+- Prudential Insurance Co. v. Benjamin, 328 U.S. 408: Congress’s support for state insurance regulation confirms the enacted allocation.
+- United States v. Knott, 298 U.S. 544: pre-Act priority setting distinguished; it does not nullify §1012(b)’s later operative text.
 
 ##### Necessary administration shares the protected function
 
@@ -248,24 +248,24 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 **Treatment of earlier authority:**
 
-- National Securities, 393 U.S.453: the protected policyholder relationship includes administration necessary to implement the policy-payment function.
-- Royal Drug, 440 U.S.205: indirect benefit to insurer reliability alone remains insufficient.
+- National Securities, 393 U.S. 453: the protected policyholder relationship includes administration necessary to implement the policy-payment function.
+- Royal Drug, 440 U.S. 205: indirect benefit to insurer reliability alone remains insufficient.
 
 ##### Ordinary creditor preferences remain subject to federal priority
 
-**Holding:** Section1012(b)’s first clause does not preserve Ohio’s ordinary employee-wage and general-creditor preferences against §3713 merely because those priorities appear in an insurance-liquidation statute. Their indirect relationship to policyholder welfare is too tenuous; the United States retains federal priority over these unprotected preferences, subject to the actual statutory trigger.
+**Holding:** Section 1012(b)’s first clause does not preserve Ohio’s ordinary employee-wage and general-creditor preferences against §3713 merely because those priorities appear in an insurance-liquidation statute. Their indirect relationship to policyholder welfare is too tenuous; the United States retains federal priority over these unprotected preferences, subject to the actual statutory trigger.
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court; the four dissenters agree in this disposition on their broader ground; Stone-Zsela, White, Blackmun, Stevens, O'Connor (5 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Limits and questions not reached:** Protection is functional, not for every claim grouped with policyholders or labeled administrative. The antitrust clause and separate boycott exception are not altered. The federal priority operates on the established insolvency/act-of-bankruptcy predicate; §3713(a)(2) excludes cases under Title11, distinct from this state insurer liquidation.
+**Limits and questions not reached:** Protection is functional, not for every claim grouped with policyholders or labeled administrative. The antitrust clause and separate boycott exception are not altered. The federal priority operates on the established insolvency/act-of-bankruptcy predicate; §3713(a)(2) excludes cases under Title 11, distinct from this state insurer liquidation.
 
 **Operative remedy or transition:** Affirm policyholder and necessary-administration protection; reverse protection of ordinary wage and general-creditor priorities. Remand for proper expense classification, remaining state-law effects and severability; no equitable reordering or amount is fixed.
 
 **Treatment of earlier authority:**
 
-- National Securities, 393 U.S.453: distinct shareholder/creditor functions are not protected merely because regulated entities are insurers.
-- Royal Drug, 440 U.S.205: tenuous indirect benefits to policyholders do not establish protected insurance regulation.
-- Stanton v. Stanton, 421 U.S.7: effects on remaining state-law provisions and severability left for remand rather than judicial redesign.
+- National Securities, 393 U.S. 453: distinct shareholder/creditor functions are not protected merely because regulated entities are insurers.
+- Royal Drug, 440 U.S. 205: tenuous indirect benefits to policyholders do not establish protected insurance regulation.
+- Stanton v. Stanton, 421 U.S. 7: effects on remaining state-law provisions and severability left for remand rather than judicial redesign.
 
 ### Civil racketeering
 
@@ -460,3 +460,244 @@ For the other question-level holdings in United States National Bank of Oregon v
 **Limits and questions not reached:** The Court does not decide the full rules for duty-based omissions, duty-free inaction, agency attribution, a universal securities recklessness rule, other enforcement or statutory settings, or Stone's additional concurrence formulations. The §20(a) defense for a controller acting in good faith without directly or indirectly inducing the violation remains distinct. Reliance on the underlying fraud is required; investors need not personally rely on concealed assistance, and no reliance presumption is established for these bonds.
 
 **Operative remedy or transition:** Affirm the Tenth Circuit insofar as it reinstated the pleaded bank claim and remand, 5–4. The bank's summary judgment cannot rest on the rejected categorical grounds or the disputed assistance and culpability record. No liability, damages, automatic indemnity, unpleaded primary claim or adjudication of another defendant's claim is supplied.
+
+### Arbitration agreements and punitive remedies
+
+#### [Mastrobuono v. Shearson Lehman Hutton, Inc.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Mastrobuono_v_Shearson_Lehman_Hutton_Inc_merits_1995-03-06.md)
+
+**Docket or dockets:** No. 94-18.
+**Decided:** March 6, 1995.
+
+##### This integrated agreement permits the disputed punitive award
+
+**Holding:** A general New York governing-law clause in this agreement does not withdraw punitive authority from its broad arbitration submission: it supplies substantive rights and duties without incorporating Garrity’s special allocation of punitive power exclusively to courts. The punitive award therefore cannot be vacated for that asserted excess of arbitral power, while genuine contractual remedy restrictions and governing substantive limits remain enforceable.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), eight Justices; Thomas does not join.
+
+**Treatment of earlier authority:**
+
+- Volt Information Sciences, Inc. v. Board of Trustees, 489 U.S. 468 — actual selection of state arbitration rules remains enforceable; its accepted contract construction does not dictate this agreement’s meaning.
+- Allied-Bruce Terminix Cos. v. Dobson (January 18, 1995) — the FAA’s enforcement command continues to respect assent, scope, and genuine contract restrictions.
+- Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc., 473 U.S. 614 — selection of arbitration does not itself surrender substantive rights.
+- Garrity v. Lyle Stuart, Inc., 40 N.Y.2d 354 — its special punitive-forum rule is not incorporated here; its general displacement by federal law is not decided.
+
+**Limits and questions not reached:** FAA §2 makes covered written arbitration agreements valid, irrevocable, and enforceable, subject to generally applicable grounds for revoking any contract. Section 4 requires arbitration in the manner the agreement provides. Section 10(a)(4) permits vacatur when arbitrators exceed their powers or so imperfectly execute them that no mutual, final, and definite award on the submitted subject is made; this case concerns the former ground. The agreement selects New York law and submits controversies arising from the accounts, transactions, agreement, or its breach to arbitration unless federal or state law makes arbitration unenforceable. It selects the then-effective NASD, NYSE, and/or AMEX rules at the customer’s election; if the customer fails to elect by registered mail within five days after demand, Shearson may elect. Future federal-securities disputes are excluded only to the extent the law makes their compelled arbitration impermissible. Award entry requires a court with jurisdiction. No term expressly names a punitive-damages exclusion. NASD Code §41(e) specifies award contents; it does not itself create every remedy. The Arbitrator’s Manual is explanatory context, not automatically incorporated superior law. Rule 21(f)(5) limits (f)(1)–(4) to new agreements signed by existing or new customers after September 7, 1989. No qualifying later agreement is established; Rule 21(f)(4) has no operative application to this 1985 agreement.
+
+**Operative remedy or transition:** The Seventh Circuit's partial vacatur is reversed and remanded. The punitive award is reinstated unless an actually preserved independent ground requires vacatur; no such ground is invented or decided. The paid compensatory award is untouched and no alternative judicial punitive trial is ordered.
+
+### Arbitration coverage and state courts
+
+#### [Allied-Bruce Terminix Cos. v. Dobson](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Allied_Bruce_Terminix_Cos_v_Dobson_merits_1995-01-18.md)
+
+**Docket or dockets:** No. 93-1001.
+**Decided:** January 18, 1995.
+
+##### Section 2 continues to govern covered agreements in state court
+
+**Holding:** FAA §2 governs covered written arbitration agreements in state as well as federal court, making them valid, irrevocable and enforceable save upon grounds existing at law or equity for revocation of any contract. The Court retains Southland's state-court holding; Alabama may apply generally applicable contract defenses but may not deny enforcement solely because its law singles out predispute arbitration agreements for a categorical disability.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter and Ginsburg: seven Justices.
+
+**Treatment of earlier authority:**
+
+- Southland Corp. v. Keating, 465 U.S. 1: retains the substantive state-court application of §2 against the express request to overrule it; its commerce and general-contract-defense conditions remain.
+- Perry v. Thomas, 482 U.S. 483: applies its rejection of a state judicial-forum exception directed at arbitration while preserving generally applicable contract defenses.
+- Volt Information Sciences, Inc. v. Board of Trustees of Leland Stanford Junior University, 489 U.S. 468: preserves enforcement of an actual contractual choice of state arbitration rules; a forum-wide hostility to arbitration is not itself that choice.
+
+##### Coverage turns on actual commerce within Congress's power
+
+**Holding:** Section 2's phrase involving commerce reaches contracts evidencing transactions within the full commerce authority Congress constitutionally possesses, and coverage turns on the transaction's actual interstate commercial operation rather than whether the parties contemplated substantial interstate activity when contracting. The multistate service operations and interstate procurement of treatment and repair materials establish the necessary commerce here, requiring reversal of Alabama's coverage ruling; this statutory construction does not define the outer constitutional boundary or make remote interstate history alone conclusive.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter and Ginsburg: seven Justices.
+
+**Treatment of earlier authority:**
+
+- Bernhardt v. Polygraphic Co. of America, Inc., 350 U.S. 198: distinguishes a record failing to establish the requisite commerce; its transaction predicate survives, without a newly attributed contemplation requirement.
+- Southland, 465 U.S. 1: applies its substantive enforceability rule after identifying the actual covered transaction; general hostility to arbitration does not substitute for the statutory commerce inquiry.
+
+**Limits and questions not reached:** The Alabama Supreme Court judgment is reversed and the cause remanded under the actual-commerce rule. Formation, consent, fraud, duress, unconscionability, severability and other generally applicable contract defenses remain for ordinary adjudication to the extent properly presented and preserved below, together with party assent, clause scope and appropriate implementing procedure. Coverage is not a final order compelling all parties to arbitrate every claim. Section 1's separate employment exclusion is not presented by this service bond. The Court does not decide the tort merits, damages, a particular fraud-in-the-inducement defense, a contractual choice of state rules not established here, or wholesale state-court incorporation of §§3–4.
+
+**Operative remedy or transition:** The Alabama Supreme Court is reversed and remanded to apply the actual-commerce rule while addressing properly presented assent, clause scope, general contract defenses and implementing procedure. Coverage does not compel every party to arbitrate every claim or decide tort liability.
+
+### Attorney debt collection
+
+#### [Heintz v. Jenkins](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Heintz_v_Jenkins_merits_1995-04-18.md)
+
+**Docket or dockets:** No. 94-367.
+**Decided:** April 18, 1995.
+
+##### Regular attorney debt collectors remain covered when they use litigation
+
+**Holding:** The FDCPA applies to an attorney who regularly collects or attempts to collect covered consumer debts owed or asserted to be owed another, including through litigation, subject to the statute's actual definition, exceptions, elements and defenses. There is no categorical attorney-litigation exemption; the decision does not cover lawyers merely because they practice law or establish that this settlement letter violated the Act.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Treatment of earlier authority:**
+
+- Brown v. Gardner, December 12, 1994: applies respect for enacted conditions and rejection of an added category restriction; it does not create a new FDCPA proof rule or resolve conduct liability.
+- Green v. Hocking, 9 F.3d 18: rejects the lower-court categorical litigation-exemption approach as inconsistent with the enacted definition and attorney-exemption repeal; it supplies no continuing exemption in this Court's law.
+
+**Limits and questions not reached:** A covered debt is an obligation or alleged obligation of a consumer to pay money arising from a transaction whose money, property, insurance or services are primarily for personal, family or household purposes, whether or not reduced to judgment. The retained §1692a(6)(D) exception concerns a person while serving or attempting to serve legal process on another in connection with judicial enforcement of a debt; it does not create a whole-attorney exemption. No factual statutory exception is established here.
+
+Section 1692e prohibits false, deceptive or misleading representations in debt collection; §1692f(1) addresses collection of an amount not expressly authorized by the agreement creating the debt or permitted by law. The alleged $4,173 charge remains to be tested under those provisions. Section 1692e(5) concerns threatened action that cannot legally be taken or is not intended; failure to prevail alone does not necessarily satisfy it. No authoritative resolution of those conduct applications is made.
+
+The communication and defense provisions invoked in the objection retain their exact conditions. Under §1692c(c), a consumer's written refusal to pay or written request to cease communication bars further communications except to advise that collection efforts are terminated, to notify that the collector or creditor may invoke specified remedies ordinarily invoked by that collector or creditor, or, where applicable, to notify that the collector or creditor intends to invoke a specified remedy. A mailed notice is complete on receipt. These are alternative permissions, not mandatory notices. Under §1692k(c), the collector must prove by a preponderance that a violation was unintentional and resulted from bona fide error despite procedures reasonably adapted to avoid it; no general immunity for legal error is decided. Under §1692k(e), good-faith conformity with an FTC advisory opinion protects an act or omission even if the opinion is later amended, rescinded or held invalid; staff commentary is not automatically such an opinion. Section 814(d) denies the FTC and the other agencies assigned enforcement responsibility under §814(b) authority to promulgate trade-regulation rules or other regulations concerning collection of debts by debt collectors as defined in the Act. No defense is established on these allegations, and no comprehensive litigation exception or fee entitlement is adopted.
+
+**Operative remedy or transition:** The Seventh Circuit's reversal of categorical dismissal is affirmed. The complaint proceeds under ordinary coverage, elements and defenses; regularity, letter liability, contractual authorization and defenses remain unadjudicated, with no damages or fee award.
+
+### Color trademarks and functionality
+
+#### [Qualitex Co. v. Jacobson Products Co.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Qualitex_Co_v_Jacobson_Products_Co_merits_1995-03-28.md)
+
+**Docket or dockets:** No. 93-1577.
+**Decided:** March 28, 1995.
+
+##### Color may identify source under the Lanham Act
+
+**Holding:** A color is eligible for trademark protection when it has acquired source-identifying significance and is nonfunctional, subject to the ordinary Lanham Act requirements, including likelihood of confusion where required. Color alone is not categorically excluded, but neither bare color without secondary meaning nor ownership of color in the abstract is protected.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Treatment of earlier authority:**
+
+- Two Pesos, Inc. v. Taco Cabana, Inc., June 26, 1992: applies the separation of qualifying source identification, nonfunctionality, and confusion; its inherent-distinctiveness rule for restaurant trade dress is not extended to bare color.
+- Brown v. Gardner, December 12, 1994: applies fidelity to statutory terms without an invented category exclusion; it supplies no separate trademark proof rule.
+
+##### Functionality preserves useful and competitively necessary color features
+
+**Holding:** Acquired source significance does not make a functional color protectable: a feature essential to the product's use or purpose or affecting its cost or quality remains outside trademark protection, and protection cannot foreclose color features shown to be competitively necessary. The record's absence of a competitive need for this particular green-gold shade defeats a categorical functionality objection to its eligibility; no general rule about every aesthetic feature is decided.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Treatment of earlier authority:**
+
+- Inwood Laboratories, Inc. v. Ives Laboratories, Inc., 456 U.S. 844, 850 n.10: applies the essential-use-or-purpose and cost-or-quality functionality boundary to the asserted color feature; functionality remains independent of source significance.
+- Two Pesos, Inc. v. Taco Cabana, Inc., June 26, 1992: preserves the separate nonfunctionality requirement; neither its holding nor this decision confers rights in useful designs or generic subject matter.
+
+**Operative remedy or transition:** The categorical color-registration bar and cancellation direction are reversed for ordinary further proceedings. The independently sustained §43(a) judgment, damages and injunction remain undisturbed; no new award or double recovery is authorized.
+
+### National bank annuity brokerage
+
+#### [NationsBank of North Carolina, N.A. v. Variable Annuity Life Insurance Co. / Ludwig v. Variable Annuity Life Insurance Co.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/NationsBank_Ludwig_v_Variable_Annuity_Life_Insurance_Co_merits_1995-01-18.md)
+
+**Docket or dockets:** Nos. 93-1612; 93-1613.
+**Decided:** January 18, 1995.
+
+##### Reasoned approval of annuity brokerage falls within the banking power
+
+**Holding:** The business of banking under 12 U.S.C. §24 Seventh is not exhausted by its enumerated activities, and the Comptroller's reasonable construction may include financial-intermediary agency sales of the fixed, variable and combined annuity products covered by this approval. The construction must remain within banking and its incidental powers and comply with enacted restrictions; this conditioned brokerage approval authorizes no underwriting, issuance or guarantee of the insurers' obligations and no unrelated commercial enterprise.
+
+**Proposition-level authority:** Opinion of the Court (Souter), eight Justices; Stone-Zsela concurs in both judgments only.
+
+**Treatment of earlier authority:**
+
+- Clarke v. Securities Industry Association, 479 U.S. 388: applies its substantial respect for reasonable Comptroller banking-law construction and brokerage analysis to this agency activity.
+- Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837: applies deference within the ambiguity left after the enacted banking boundaries are determined; clear prohibitions still govern.
+- Investment Company Institute v. Camp, 401 U.S. 617: preserves substantive banking restrictions and the need for an actual reasoned agency judgment, which this approval supplies.
+- MCI Telecommunications Corp. v. American Telephone & Telegraph Co., 512 U.S. 218, and Brown v. Gardner, 513 U.S. 115: preserve text-first review and actual statutory limits; neither displaces permissible construction within a genuine delegation.
+
+##### Section 92 does not defeat this annuity classification
+
+**Holding:** The Comptroller reasonably classifies the annuity agency products covered by this approval as investment instruments outside the insurance category of 12 U.S.C. §92 for this statutory purpose, so §92 does not invalidate the approval. The Court does not decide whether §92 exclusively limits genuine insurance-agency activity to banks in qualifying small places, and it neither repeals that provision's conditions nor determines classification under a distinct state insurance law.
+
+**Proposition-level authority:** Opinion of the Court (Souter), eight Justices; Stone-Zsela concurs in both judgments only.
+
+**Treatment of earlier authority:**
+
+- United States National Bank of Oregon v. Independent Insurance Agents of America, Inc., 508 U.S. 439: applies the statutory-survival holding and respects its reservation of scope and agency-construction questions; no repeal issue is reopened.
+- Chevron, 467 U.S. 837, and Clarke, 479 U.S. 388: apply permissible, reasoned construction to this statutory classification after examining the text and product features.
+
+**Limits and questions not reached:** The Comptroller's approval separately requires advertising, promotional materials and customer descriptions to disclose that the annuities are not bank products and are not FDIC insured, together with a signed purchaser acknowledgment of agency status and lack of federal insurance. Brokerage does not issue, underwrite or guarantee an insurer's undertaking. Applicable banking, securities and insurance requirements otherwise remain.
+
+When §92 applies, it requires the national bank to be located and doing business in a place of no more than 5,000 inhabitants under the last preceding decennial census; the insurer must be authorized by the State where the bank is located; and the agency must operate under Comptroller rules. It permits solicitation and sale of insurance and collection of premiums for agreed fees or commissions, but prohibits the bank from assuming or guaranteeing premium payment and separately prohibits guaranteeing the truth of the insured applicant's statements. Those statutory terms are not the same as this approval's disclosure conditions. Section 24's distinction between without-recourse, customer-order/customer-account securities transactions and own-account activity remains; no own-account investment exception is adjudicated. No individual customer's contract, universal annuity classification or separate state-law preemption dispute is resolved.
+
+**Operative remedy or transition:** The Fifth Circuit is reversed in both consolidated dockets, 9–0, and the conditioned approval reinstated. Advertising, promotional materials and customer descriptions must disclose that these are not bank products and are not FDIC insured, with signed acknowledgment of agency status and lack of federal insurance. Otherwise applicable banking, securities and insurance rules remain; no new agency rationale, underwriting or bank guarantee is authorized.
+
+### RICO enterprise commerce
+
+#### [United States v. Robertson](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Robertson_merits_1995-05-01.md)
+
+**Docket or dockets:** No. 94-251.
+**Decided:** May 1, 1995.
+
+##### The mine’s own interstate operations satisfy the enacted enterprise-commerce condition
+
+**Holding:** An enterprise is engaged in interstate commerce under §1962(a) when it directly participates in interstate acquisition, production or distribution of goods or services. This mine’s actual cross-border procurement, repeated interstate recruitment and mine-work movement, together with its proprietor’s carriage out of Alaska of approximately $30,000 of its own output, establish that connection without a separate showing that this individual mine substantially affected interstate commerce.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), unanimous.
+
+**Treatment of earlier authority:**
+
+- United States v. American Building Maintenance Industries, 422 U.S. 271, 283–286 (1975): applies its distinction between direct interstate goods or services transactions and local purchases after interstate movement has ended; its Clayton Act setting does not erase RICO’s separate affecting-commerce alternative.
+- Gulf Oil Corp. v. Copp Paving Co., 419 U.S. 186, 195 (1974): applies its direct-engagement distinction; local economic effects and direct participation remain different inquiries.
+- United States v. Lopez, April 26, 1995: distinguishes the stand-alone school-possession offense and generalized social-cost chain from this proved interstate enterprise connection; its bounded holding remains intact.
+- Allied-Bruce Terminix Cos. v. Dobson, January 18, 1995: preserves attention to actual multistate commercial operation and its reserved constitutional ceiling; the FAA’s broader involving-commerce wording is not substituted for §1962(a).
+- United States v. Harris, April 27, 1995: preserves the economic-class vehicle-taking holding and refusal to make remote vehicle history alone conclusive; this decision instead concerns the enterprise’s own present interstate operations.
+
+**Limits and questions not reached:** The cumulative ground makes an independently sufficient procurement-only holding unnecessary. The Court does not decide whether a purely intrastate enterprise with only remote economic consequences satisfies §1962(a), establish a universal owner-activity attribution rule, or make a jurisdictional phrase substitute for proof. Predicate drug commerce alone is not enterprise commerce. Neither an out-of-state nugget sale, a precise output percentage, productive use of the wrecked Cadillac, mine use of the airplane, nor traced downstream refinery shipment is necessary or found. The Court decides no other RICO appellate claim, Guidelines issue or claim arising under a different RICO subsection.
+
+Section 1962(a)’s separate income, participation and investment conditions remain intact. Its securities qualification continues to exclude an open-market investment purchase made without intent to control or participate in control of the issuer or assist another in doing so, when the purchaser’s, immediate family’s and racketeering or unlawful-debt accomplices’ aggregate holdings after purchase are less than one percent of any outstanding class and confer no power, in law or fact, to elect a director. That qualification is not implicated by ownership and operation of this mine.
+
+**Operative remedy or transition:** The Ninth Circuit's commerce-based reversal of Count Six is reversed and remanded. Reinstatement remains subject to preserved special-verdict, venue, severance, Agent Devetko testimony, Cadillac-owner-location funding and vagueness claims, plus the unresolved post-November-1-1987 Guidelines argument. Counts One–Four convictions and their separate actual-resentencing mandate remain undisturbed, as do the acquittals on Five and Eight and forfeiture dismissal on Seven. No unconditional RICO conviction or sentence reinstatement is directed.
+
+### Securities liability for negotiated acquisitions
+
+#### [Gustafson v. Alloyd Co.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Gustafson_v_Alloyd_Co_merits_1995-02-28.md)
+
+**Docket or dockets:** No. 93-404.
+**Decided:** February 28, 1995.
+
+##### The negotiated acquisition agreement is outside section 12(2)
+
+**Holding:** Section 12(2) does not apply to the bespoke, privately negotiated agreement by which sophisticated purchasers with direct access to the enterprise acquired substantially all the stock of this closely held business and allocated disclosure and valuation risk through individualized contractual terms. Such an acquisition agreement is outside the prospectus disclosure setting of sections 2(10), 10 and 12; neither sophistication alone nor the existence of a contractual adjustment creates an exemption, and the Court leaves standardized exempt or institutional distributions unresolved.
+
+**Proposition-level authority:** Opinion of the Court (Souter), joined by Stone-Zsela, Stevens, O'Connor and Kennedy: five Justices on the confined acquisition-agreement rule. No broader public-offering-only rule commands a majority.
+
+**Treatment of earlier authority:** Rowland v. California Men's Colony applies its definition-and-context method; its association-eligibility holding is unchanged, and the different wording of the two contextual provisos is preserved. United States v. Naftalin is distinguished: section 17(a)(1)'s separate fraud prohibition lacks the prospectus limitation and retains its own breadth. Central Bank and Musick, Peeler concern the received section 10(b) action and do not prescribe the scope of this express remedy; their affirmative-assistance and bounded-contribution rules remain intact. Pinter's requirement to construe the express civil provision on its own terms is preserved; no new seller-status question is decided.
+
+**Limits and questions not reached:** Section 2's definitions apply unless context otherwise requires. Section 2(10) includes prospectuses, notices, circulars, advertisements, letters and written, radio or television communications offering or confirming a security sale. Its two communication exceptions remain separate. Under section 2(10)(a), the communication must follow registration effectiveness, must itself be other than a section 10(b) prospectus, and is excluded only upon proof that a written prospectus satisfying section 10(a) at the time was sent or given to the same person before or with it. Under section 2(10)(b), the communication must identify where a section 10 prospectus can be obtained and give no more than the security's identity, price, executing intermediary and information permitted by Commission rules under their terms. Neither exception is a free-standing private-sale exemption.
+
+Section 10(a)'s registration-information command is subject to its own qualifications and subsections (c), (d) and (e). It permits omission of Schedule A documents 28-32 for securities other than foreign-government or foreign-political-subdivision securities, and Schedule B documents 13-14 for those foreign securities. Use more than nine months after effectiveness requires information dated no more than sixteen months before use, so far as known or obtainable without unreasonable effort or expense. Commission rules may designate information that may be omitted; permission is not a duty to omit.
+
+Section 10(b) requires Commission rules permitting an abbreviated or summarized prospectus for section 5(b)(1). It is filed as part of the registration statement unless Commission rules otherwise provide, but is not treated as part of that statement for section 11 liability. The Commission may prevent or suspend its use for required nonfiling or the provision's materially false or deficient information, must provide notice and a hearing opportunity, and must vacate or modify the order for good cause or compliant filing or amendment. Section 10(c) permits additional required information; subsection (d) permits classifications and prescribed forms and content under rule conditions; subsection (e) requires conspicuous placement and ordinarily type as large as the prospectus body; subsection (f) requires filing broadcast copies under Commission rules and permits required filing of forms and prospectuses used with registered securities. These provisions are not interchangeable with section 2(10)'s exceptions.
+
+When section 12(2) applies, its interstate-facilities or mails requirement, materially false statement or contextually misleading omission, purchaser ignorance, and purchase from the statutory seller remain. Its coverage extends to exempt securities subject to the cross-referenced section 3(a)(2) exclusion. The Court does not construe that exclusion's precise scope because this claim fails the prospectus requirement first; the reference is not a holding that the exclusion covers government securities alone. The seller bears the burden of showing lack of knowledge and inability to discover the matter with reasonable care. The purchaser may recover consideration with interest, less income received, upon tender, or damages if the security is no longer owned. The Court adds no fraud, actual-reliance or sophistication element and finds none of those liability or remedy predicates satisfied here. No independent oral-misrepresentation claim is established; merely speaking this agreement's terms does not evade the common prospectus setting, while other oral solicitation questions remain open.
+
+Section 17(a) separately prohibits a scheme to defraud; obtaining money or property through a material falsehood or an omission necessary to avoid misleading statements; and a transaction, practice or course of business operating or that would operate as fraud upon the purchaser. The purchaser language in the third branch is not imported into the first. Section 17(c), unlike section 12's qualified treatment, makes section 3 exemptions inapplicable to section 17. This decision does not restrict section 17, section 10(b), or any independently preserved contract, fraud, warranty, indemnification, price-adjustment or other securities claim whose own requirements are met. It creates no new private action under section 17 and decides none of those claims. The audit adjustment is not a finding that every remedy has already been satisfied.
+
+**Operative remedy or transition:** The Seventh Circuit is reversed and remanded, 5–4, for dismissal of the §12(2) claim based on this agreement and lawful treatment of independently preserved claims. No misrepresentation liability, rescission, damages or contract merits are adjudicated; the District Court's jurisdictional explanation is not automatically reinstated.
+
+### Arbitration assent, delegation and appellate review
+
+#### [First Options of Chicago, Inc. v. Kaplan](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/First_Options_of_Chicago_Inc_v_Kaplan_merits_1995-05-22.md)
+
+**Docket or dockets:** No. 94-560.
+**Decided:** May 22, 1995.
+
+##### Antecedent assent and delegation
+
+**Holding:** Courts independently determine agreement to arbitrate arbitrability unless ordinary applicable contract law establishes clear and unmistakable delegation. Presenting an objection while denying panel jurisdiction does not itself establish delegation; company submission does not itself establish an owner's personal assent. Where parties actually delegate arbitrability, limited award review governs that decision.
+
+**Proposition-level authority:** Breyer's Opinion of the Court, Part I; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer on the antecedent-assent rule and application; Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer alone on the additional conditional actual-delegation review rule (Stone-Zsela reserves that proposition) directly join this proposition.
+
+**Limits and questions not reached:** Broad clauses, incorporated rules and independent nonsignatory-binding theories are not resolved. The antecedent-assent rule has nine joins; the conditional limited-review rule for actual delegation has eight, excluding Stone-Zsela. No judgment-only or fractured-decision aggregation supplies either coalition.
+
+**Treatment of earlier authority:**
+
+- AT&T Technologies, Inc. v. Communications Workers, 475 U.S. 643: applies clear-and-unmistakable delegation.
+- Volt Information Sciences, Inc. v. Board of Trustees, 489 U.S. 468: applies arbitration's contractual foundation.
+- Allied-Bruce Terminix Cos. v. Dobson, January 18, 1995: federal coverage supplies no missing assent.
+- Mastrobuono v. Shearson Lehman Hutton, Inc., March 6, 1995: actual integrated contract terms preserve the antecedent-consent inquiry.
+
+##### Ordinary appellate review
+
+**Holding:** Appellate courts independently review district-court legal conclusions and review factual findings for clear error. Arbitration supplies no additional appellate deference to the district judge's independent arbitrability determination.
+
+**Proposition-level authority:** Breyer's Opinion of the Court, Part II; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer directly join this proposition.
+
+**Treatment of earlier authority:**
+
+- AT&T Technologies, 475 U.S. 643: preserves decisionmaker/merits distinctions.
+- Volt, 489 U.S. 468: actual agreement explains arbitral deference; it insulates no district-court legal conclusion.
+
+**Operative remedy or transition:** Affirm the Third Circuit on arbitrability and appellate review. Vacatur of the award against the Kaplans personally remains effective; MKI's separate corporate submission remains distinct. No new FAA merits-vacatur ground or rehearing of agreed arbitration merits is authorized.

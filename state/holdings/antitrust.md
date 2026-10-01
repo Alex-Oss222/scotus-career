@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1993
-**Processed through:** June 30, 1994, after all eleven chunk-8 matters and all 95 OT1993 inventory Court events.
-**Edition:** September 28, 2026
+**Last completed October Term:** 1994
+**Processed through:** June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.
+**Edition:** October 1, 2026
 
 ## Antitrust
 
@@ -137,10 +137,10 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Treatment of earlier authority:**
 
-- Swift & Co. v. United States,196 U.S.375 — applied: dangerous probability requires proximity and degree beyond intent alone.
-- Copperweld Corp. v. Independence Tube Corp.,467 U.S.752 — applied: unilateral conduct must actually monopolize or dangerously threaten monopolization for these §2 offenses.
-- Eastman Kodak Co. v. Image Technical Services,June8,1992 — preserved at its stated scope: evidence may establish a single-brand market and power; no presumption replaces separate attempt elements.
-- Lessig v. Tidewater Oil Co.,327 F.2d459 — rejected insofar as its conduct-based inference dispenses with market and dangerous-probability proof.
+- Swift & Co. v. United States, 196 U.S. 375 — applied: dangerous probability requires proximity and degree beyond intent alone.
+- Copperweld Corp. v. Independence Tube Corp., 467 U.S. 752 — applied: unilateral conduct must actually monopolize or dangerously threaten monopolization for these §2 offenses.
+- Eastman Kodak Co. v. Image Technical Services, June 8, 1992 — preserved at its stated scope: evidence may establish a single-brand market and power; no presumption replaces separate attempt elements.
+- Lessig v. Tidewater Oil Co., 327 F.2d 459 — rejected insofar as its conduct-based inference dispenses with market and dangerous-probability proof.
 
 ##### The undifferentiated verdict requires further proceedings
 
@@ -150,8 +150,8 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Treatment of earlier authority:**
 
-- Sunkist Growers, Inc. v. Winckler & Smith Citrus Products Co.,370 U.S.19 — applied: the possibility of reliance on a legally erroneous submitted ground requires reversal here.
-- Griffin v. United States,December3,1991 — distinguished at its stated scope: its factual-insufficiency rule does not validate an element-removing instruction or decide the unreviewed civil claims.
+- Sunkist Growers, Inc. v. Winckler & Smith Citrus Products Co., 370 U.S. 19 — applied: the possibility of reliance on a legally erroneous submitted ground requires reversal here.
+- Griffin v. United States, December 3, 1991 — distinguished at its stated scope: its factual-insufficiency rule does not validate an element-removing instruction or decide the unreviewed civil claims.
 
 **Limits and questions not reached:** No market-share floor, small-firm immunity, general supply duty or automatic inference of market power from a proprietary product is adopted. Antitrust injury and other recovery elements remain necessary but are not separately decided. RICO, state claims and other parties’ judgments are not resolved.
 
@@ -176,11 +176,11 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Treatment of earlier authority:**
 
-- Eastern Railroad Presidents Conference v. Noerr Motor Freight, Inc., 365 U.S.127, and United Mine Workers v. Pennington, 381 U.S.657: applies protection for government-directed competitive advocacy.
-- City of Columbia v. Omni Outdoor Advertising, Inc., 499 U.S.365: applies process/outcome distinction.
-- California Motor Transport Co. v. Trucking Unlimited, 404 U.S.508: clarifies sham litigation without deciding every pattern or fraud case.
-- Bill Johnson’s Restaurants, Inc. v. NLRB, 461 U.S.731: applies distinction between baseless and reasonably grounded suits.
-- Spectrum Sports, January25 1993, : ordinary antitrust elements remain necessary; no new exemption from their proof.
+- Eastern Railroad Presidents Conference v. Noerr Motor Freight, Inc., 365 U.S. 127, and United Mine Workers v. Pennington, 381 U.S. 657: applies protection for government-directed competitive advocacy.
+- City of Columbia v. Omni Outdoor Advertising, Inc., 499 U.S. 365: applies process/outcome distinction.
+- California Motor Transport Co. v. Trucking Unlimited, 404 U.S. 508: clarifies sham litigation without deciding every pattern or fraud case.
+- Bill Johnson’s Restaurants, Inc. v. NLRB, 461 U.S. 731: applies distinction between baseless and reasonably grounded suits.
+- Spectrum Sports, January 25, 1993: ordinary antitrust elements remain necessary; no new exemption from their proof.
 
 ### Primary-line predatory pricing
 
@@ -197,10 +197,10 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Treatment of earlier authority:**
 
-- Brown Shoe, 370 U.S.294 — competition/competitor distinction applied.
-- Matsushita, 475 U.S.574 — recoupment logic applied without requiring an express conspiracy here.
-- Cargill, 479 U.S.104 — low prices distinguished from actionable predation.
-- Utah Pie, 386 U.S.685 — read consistently with competitive injury; not treated as rival-protection liability.
+- Brown Shoe, 370 U.S. 294 — competition/competitor distinction applied.
+- Matsushita, 475 U.S. 574 — recoupment logic applied without requiring an express conspiracy here.
+- Cargill, 479 U.S. 104 — low prices distinguished from actionable predation.
+- Utah Pie, 386 U.S. 685 — read consistently with competitive injury; not treated as rival-protection liability.
 - Spectrum Sports, January 25, 1993 — intent cannot replace competitive danger; Sherman Act elements not transplanted wholesale.
 
 ##### This record lacks the necessary recoupment showing
@@ -215,9 +215,9 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Treatment of earlier authority:**
 
-- Matsushita, 475 U.S.574 — economically plausible mechanism must have evidentiary support.
-- Cargill, 479 U.S.104 — rival losses do not alone establish competitive harm.
-- Utah Pie, 386 U.S.685 — circumstantial proof permitted, but necessary recovery inference absent here.
+- Matsushita, 475 U.S. 574 — economically plausible mechanism must have evidentiary support.
+- Cargill, 479 U.S. 104 — rival losses do not alone establish competitive harm.
+- Utah Pie, 386 U.S. 685 — circumstantial proof permitted, but necessary recovery inference absent here.
 
 ### Insurance antitrust exemptions and foreign conduct
 
@@ -234,10 +234,10 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Treatment of earlier authority:**
 
-- Group Life & Health Insurance v. Royal Drug, 440 U.S.205: activity/entity distinction applied; loose outsider analogy confined to its context.
-- Union Labor Life v. Pireno, 458 U.S.119: practice-specific criteria retained.
-- SEC v. National Securities, 393 U.S.453: regulation of insurance business distinguished from regulation of companies.
-- Case-Swayne v. Sunkist, 389 U.S.384, and United States v. Borden, 308 U.S.188: producer/entity-based exemptions distinguished.
+- Group Life & Health Insurance v. Royal Drug, 440 U.S. 205: activity/entity distinction applied; loose outsider analogy confined to its context.
+- Union Labor Life v. Pireno, 458 U.S. 119: practice-specific criteria retained.
+- SEC v. National Securities, 393 U.S. 453: regulation of insurance business distinguished from regulation of companies.
+- Case-Swayne v. Sunkist, 389 U.S. 384, and United States v. Borden, 308 U.S. 188: producer/entity-based exemptions distinguished.
 - Fabe, June 11, 1993: separate first-clause holding not expanded into the antitrust proviso.
 
 ##### Collateral refusals distinguish boycott from agreement on terms
@@ -248,10 +248,10 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Treatment of earlier authority:**
 
-- St. Paul Fire&Marine v. Barry, 438 U.S.531: collateral-pressure application retained; not limited to boycotts of competitors.
-- Eastern States Retail Lumber v. United States, 234 U.S.600: unrelated trade used as leverage illustrates the boundary.
-- United States v. South-Eastern Underwriters, 322 U.S.533: coercive exclusion distinguished from mere agreement on terms; not abrogated.
-- McLain v. Real Estate Board, 444 U.S.232, and Conley v. Gibson, 355 U.S.41: then-operative pleading standard applied; no actual liability finding.
+- St. Paul Fire & Marine v. Barry, 438 U.S. 531: collateral-pressure application retained; not limited to boycotts of competitors.
+- Eastern States Retail Lumber v. United States, 234 U.S. 600: unrelated trade used as leverage illustrates the boundary.
+- United States v. South-Eastern Underwriters, 322 U.S. 533: coercive exclusion distinguished from mere agreement on terms; not abrogated.
+- McLain v. Real Estate Board, 444 U.S. 232, and Conley v. Gibson, 355 U.S. 41: then-operative pleading standard applied; no actual liability finding.
 
 ##### The asserted British permission does not bar these American-market claims
 
@@ -259,14 +259,14 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Proposition-level authority:** Souter’s Opinion of the Court, this proposition; Stone-Zsela, White, Blackmun, Stevens, Souter (5 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Limits and questions not reached:** Qualifying activity and actual state regulation remain required. Section6a’s precise applicability is reserved; where applicable its direct, substantial and reasonably foreseeable domestic effect and claim-connection requirements remain, and the pleaded effect here gives rise to these claims. No universal comity-impossibility rule, general independent coercion definition, proven cartel or actual liability is adopted.
+**Limits and questions not reached:** Qualifying activity and actual state regulation remain required. Section 6a’s precise applicability is reserved; where applicable its direct, substantial and reasonably foreseeable domestic effect and claim-connection requirements remain, and the pleaded effect here gives rise to these claims. No universal comity-impossibility rule, general independent coercion definition, proven cartel or actual liability is adopted.
 
-**Operative remedy or transition:** No.91-1111: reject association-based loss of exemption; affirm reinstatement of California I–IV/Connecticut I–II; reverse reinstatement of California VII/Connecticut VI against domestic defendants for lack of an alleged refusal mechanism, preserving unresolved state-regulation questions. No.91-1128: affirm continued adjudication of California V, VI, VIII/Connecticut III–V against London defendants and remand for proof and other defenses. California IX–XI and Connecticut VII remain untouched; no damages or injunction.
+**Operative remedy or transition:** No. 91-1111: reject association-based loss of exemption; affirm reinstatement of California I–IV/Connecticut I–II; reverse reinstatement of California VII/Connecticut VI against domestic defendants for lack of an alleged refusal mechanism, preserving unresolved state-regulation questions. No. 91-1128: affirm continued adjudication of California V, VI, VIII/Connecticut III–V against London defendants and remand for proof and other defenses. California IX–XI and Connecticut VII remain untouched; no damages or injunction.
 
 **Treatment of earlier authority:**
 
-- United States v. Aluminum Co.of America, 148 F.2d 416, and Matsushita, 475 U.S.574: intended substantial domestic effects standard applied.
-- Continental Ore v. Union Carbide, 370 U.S.690: foreign permission does not itself immunize conduct.
-- SociétéNationale Industrielle Aérospatiale, 482 U.S.522: actual foreign/domestic conflict considered; Blackmun’s separate analysis identified as not the whole Court’s holding.
+- United States v. Aluminum Co. of America, 148 F.2d 416, and Matsushita, 475 U.S. 574: intended substantial domestic effects standard applied.
+- Continental Ore v. Union Carbide, 370 U.S. 690: foreign permission does not itself immunize conduct.
+- Société Nationale Industrielle Aérospatiale, 482 U.S. 522: actual foreign/domestic conflict considered; Blackmun’s separate analysis identified as not the whole Court’s holding.
 - Charming Betsy, 2 Cranch 64: interpretive canon retained; does not require the asserted dismissal here.
-- Aramco, 499 U.S.244, and Sale, June 21, 1993: source-specific geographic scope preserved; different statutes do not erase established Sherman Act reach.
+- Aramco, 499 U.S. 244, and Sale, June 21, 1993: source-specific geographic scope preserved; different statutes do not erase established Sherman Act reach.

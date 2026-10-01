@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1993
-**Processed through:** June 30, 1994, after all eleven chunk-8 matters and all 95 OT1993 inventory Court events.
-**Edition:** September 28, 2026
+**Last completed October Term:** 1994
+**Processed through:** June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.
+**Edition:** October 1, 2026
 
 ## Administrative Law
 
@@ -376,7 +376,7 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 - Maislin Industries, U.S., Inc. v. Primary Steel, Inc., 497 U.S. 116: applied; its rejection of the negotiated-rate unreasonable-practice policy remains, alongside the statutory unreasonable-rate remedy.
 - United States ex rel. Louisville Cement Co. v. ICC, 246 U.S. 638: its payment-based accrual construction was superseded by Congress's delivery-accrual provision; it cannot establish the proposed prerequisite.
 - Southern Construction Co. v. Pickard, 371 U.S. 57: applied for assertion of related counterclaims under ordinary federal procedure.
-- Texas & Pacific Railway v. Mugg, 202 U.S. 242; Louisville & Nashville Railroad v. Maxwell, 237 U.S. 94; Pittsburgh, Cincinnati, Chicago & St.Louis Railway v. Fink, 250 U.S. 577: their bars on common-law avoidance of filed tariffs remain; statutory reparations are distinct.
+- Texas & Pacific Railway v. Mugg, 202 U.S. 242; Louisville & Nashville Railroad v. Maxwell, 237 U.S. 94; Pittsburgh, Cincinnati, Chicago & St. Louis Railway v. Fink, 250 U.S. 577: their bars on common-law avoidance of filed tariffs remain; statutory reparations are distinct.
 - T.I.M.E. Inc. v. United States, 359 U.S. 464: its rejection of a free-standing unreasonable-rate defense does not eliminate the later express statutory cause of action.
 
 ##### Same-transaction recoupment survives the affirmative limitation
@@ -415,7 +415,7 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 - Sears, Roebuck & Co. v. Mackey, 351 U.S. 427, and Cold Metal Process Co. v. United Engineering & Foundry Co., 351 U.S. 445: applied for Rule 54(b)'s separate-judgment authority and safeguards.
 - Curtiss-Wright Corp. v. General Electric Co., 446 U.S. 1: applied; actual or threatened insolvency is relevant, not an absolute bar, and protective conditions may address competing risks.
 - Crancer v. Lowden, 315 U.S. 631: distinguished; it sustained discretionary collection without an available judicial reparations counterclaim after the shippers chose the separate rail-agency route, rather than requiring collection in every case.
-- Keogh v. Chicago & Northwestern Railway, 260 U.S. 156; Arizona Grocery Co. v. Atchison,Topeka & Santa Fe Railway, 284 U.S. 370; Lowden v. Simonds-Shields-Lonsdale Grain Co., 306 U.S. 516: applied for the continuing force of filed rates not disapproved by the ICC.
+- Keogh v. Chicago & Northwestern Railway, 260 U.S. 156; Arizona Grocery Co. v. Atchison, Topeka & Santa Fe Railway, 284 U.S. 370; Lowden v. Simonds-Shields-Lonsdale Grain Co., 306 U.S. 516: applied for the continuing force of filed rates not disapproved by the ICC.
 
 **Limits and questions not reached:** Referral means allowing a party time to seek an ICC determination, not commanding the agency to answer. Negotiated rates do not supplant filed tariffs. Same-transaction recoupment fixes the estate’s proper claim rather than paying an unrelated preference. No rate, affirmative excess damages or separate-judgment outcome is decided.
 
@@ -430,19 +430,19 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 ##### Confidentiality requires an assurance or a supported inference, not an FBI label
 
-**Holding:** Under Exemption7(D), a source is confidential when the information was furnished under an express assurance or circumstances supporting a reasonable inference of confidentiality; an assurance of absolute secrecy is unnecessary. The Government bears the burden and cannot presume every FBI criminal-investigation source confidential, but may rely on a supported, rebuttable inference tied to particular circumstances or a properly defined category, including the crime and the source’s relationship to it.
+**Holding:** Under Exemption 7(D), a source is confidential when the information was furnished under an express assurance or circumstances supporting a reasonable inference of confidentiality; an assurance of absolute secrecy is unnecessary. The Government bears the burden and cannot presume every FBI criminal-investigation source confidential, but may rely on a supported, rebuttable inference tied to particular circumstances or a properly defined category, including the crime and the source’s relationship to it.
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
 **Treatment of earlier authority:**
 
-- Department of Justice v. Reporters Committee for Freedom of the Press, 489 U.S.749: distinguished; privacy categories do not establish every source’s confidentiality.
-- John Doe Agency v. John Doe Corp., 493 U.S.146: compilation analysis preserved; it does not eliminate the confidentiality requirement.
-- Department of State v. Ray, December16,1991: distinct Exemption6 privacy holding preserved.
+- Department of Justice v. Reporters Committee for Freedom of the Press, 489 U.S. 749: distinguished; privacy categories do not establish every source’s confidentiality.
+- John Doe Agency v. John Doe Corp., 493 U.S. 146: compilation analysis preserved; it does not eliminate the confidentiality requirement.
+- Department of State v. Ray, December 16, 1991: distinct Exemption 6 privacy holding preserved.
 
 ##### Source identity and criminal-source information receive distinct statutory protection
 
-**Holding:** Exemption7(D) protects identity when law-enforcement disclosure could reasonably be expected to reveal a confidential source, including an agency, authority or private institution furnishing information confidentially; it also protects information furnished by a confidential source in a criminal investigation conducted by a criminal-law-enforcement authority. The statute separately covers a lawful national-security intelligence investigation; reasonably segregable nonexempt material remains subject to release, but redacting identity alone does not remove protection for covered source information.
+**Holding:** Exemption 7(D) protects identity when law-enforcement disclosure could reasonably be expected to reveal a confidential source, including an agency, authority or private institution furnishing information confidentially; it also protects information furnished by a confidential source in a criminal investigation conducted by a criminal-law-enforcement authority. The statute separately covers a lawful national-security intelligence investigation; reasonably segregable nonexempt material remains subject to release, but redacting identity alone does not remove protection for covered source information.
 
 **Proposition-level authority:** O'Connor’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
@@ -452,8 +452,8 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Treatment of earlier authority:**
 
-- John Doe Agency v. John Doe Corp., 493 U.S.146: statutory compilation requirement applied.
-- Department of Air Force v. Rose, 425 U.S.352: nonexempt segregable disclosure preserved, without overriding protected source information.
+- John Doe Agency v. John Doe Corp., 493 U.S. 146: statutory compilation requirement applied.
+- Department of Air Force v. Rose, 425 U.S. 352: nonexempt segregable disclosure preserved, without overriding protected source information.
 
 ### Lump-sum appropriations and agency organization
 
@@ -470,10 +470,10 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Treatment of earlier authority:**
 
-- Heckler v. Chaney, 470 U.S.821: discretionary resource-allocation rationale applied beyond the enforcement setting within the statutory limits stated.
-- ICC v. Brotherhood of Locomotive Engineers, 482 U.S.270: recognized discretionary administrative categories applied.
-- Citizens to Preserve Overton Park v. Volpe, 401 U.S.402: distinguished; an actual statutory standard remains enforceable.
-- Webster v. Doe, 486 U.S.592: separate constitutional review preserved.
+- Heckler v. Chaney, 470 U.S. 821: discretionary resource-allocation rationale applied beyond the enforcement setting within the statutory limits stated.
+- ICC v. Brotherhood of Locomotive Engineers, 482 U.S. 270: recognized discretionary administrative categories applied.
+- Citizens to Preserve Overton Park v. Volpe, 401 U.S. 402: distinguished; an actual statutory standard remains enforceable.
+- Webster v. Doe, 486 U.S. 592: separate constitutional review preserved.
 
 ##### This organizational and policy change does not require notice and comment
 
@@ -487,7 +487,7 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Treatment of earlier authority:**
 
-- Morton v. Ruiz, 415 U.S.199: distinguished; compliance with applicable agency procedures does not create a universal notice-and-comment duty.
+- Morton v. Ruiz, 415 U.S. 199: distinguished; compliance with applicable agency procedures does not create a universal notice-and-comment duty.
 
 ### Medicare reasonable-cost adjustments
 
@@ -504,8 +504,8 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Treatment of earlier authority:**
 
-- Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S.837: traditional tools followed by permissible construction of remaining ambiguity applied.
-- Bowen v. Georgetown University Hospital, 488 U.S.204: unauthorized retroactive rulemaking distinguished; its holding does not decide this clause’s meaning.
+- Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837: traditional tools followed by permissible construction of remaining ambiguity applied.
+- Bowen v. Georgetown University Hospital, 488 U.S. 204: unauthorized retroactive rulemaking distinguished; its holding does not decide this clause’s meaning.
 - Connecticut National Bank v. Germain, March 9, 1992: text/coexistence principle preserved; the dispute concerns what these provisions require, not implied repeal.
 
 ##### A changed agency interpretation is not automatically disqualified
@@ -520,9 +520,9 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Treatment of earlier authority:**
 
-- FEC v. Democratic Senatorial Campaign Committee, 454 U.S.27: reasonable agency interpretation within the statutory delegation applied.
-- INS v. Cardoza-Fonseca, 480 U.S.421: judicial interpretation and the significance of inconsistent agency positions preserved.
-- Georgetown University Hospital, 488 U.S.204: unsupported litigation rationalizations receive no automatic controlling weight; change itself is a different issue.
+- FEC v. Democratic Senatorial Campaign Committee, 454 U.S. 27: reasonable agency interpretation within the statutory delegation applied.
+- INS v. Cardoza-Fonseca, 480 U.S. 421: judicial interpretation and the significance of inconsistent agency positions preserved.
+- Georgetown University Hospital, 488 U.S. 204: unsupported litigation rationalizations receive no automatic controlling weight; change itself is a different issue.
 
 ### Exhaustion of superior-agency review
 
@@ -544,7 +544,7 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 **Treatment of earlier authority:**
 
 - 5 U.S.C.§704 — statutory requirement OR mandatory-and-inoperative agency rule; alternatives and conjunction preserved.
-- McKart, 395 U.S.185 — exhaustion policy subordinate to enacted conditions.
+- McKart, 395 U.S. 185 — exhaustion policy subordinate to enacted conditions.
 - McCarthy, March 4, 1992 — express statutory primacy retained; different damages-only setting.
 - McNeil, May 17, 1993 — express FTCA exhaustion distinguished.
 - Lincoln, May 24, 1993 — distinct reviewability limits preserved.
@@ -860,3 +860,309 @@ Section 413.17(a), subject to the separate exception in paragraph (d), includes 
 - PUD No. 1 of Jefferson County v. Washington Department of Ecology, May 31, 1994: distinguishes broad conditioning authority grounded in that Act's operative compliance language; no general rule against consequential agency action follows.
 
 **Operative remedy or transition:** The D.C. Circuit's judgment setting aside the permissive-detariffing rule is affirmed in Nos. 93-356 and 93-521. No tariff rate, replacement program, damages or retrospective monetary consequence of earlier nonfiling is decided, and no new direction is given in the distinct complaint proceeding.
+
+### AFDC assistance units and income attribution
+
+#### [Anderson v. Edwards](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Anderson_v_Edwards_merits_1995-03-22.md)
+
+**Docket or dockets:** No. 93-1883.
+**Decided:** March 22, 1995.
+
+##### A lawful common-caretaker unit does not itself impute unavailable income
+
+**Holding:** Federal AFDC law permits California to apply its benefit schedule to the otherwise eligible applicants and recipients lawfully grouped under the challenged common-caretaker rule; a grant smaller than the sum of separate grants does not itself establish forbidden assumed support. Federal membership, exclusion, availability, disregard, and equitable-treatment requirements remain operative, and neither household residence nor a unit label makes an outsider's unavailable resources countable.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Treatment of earlier authority:**
+
+- King v. Smith, 392 U.S. 309: distinguishes the invalid substitute-parent assumption while preserving its protection against fictitious support.
+- Lewis v. Martin, 397 U.S. 552: preserves the actual-support limitations; it does not prescribe a universal nonsibling unit boundary.
+- Van Lare v. Hurley, 421 U.S. 338: distinguishes reduction attributed to an unaided nonresponsible person's presence from measurement of this lawful aided unit; its outside-support protection remains.
+- Dandridge v. Williams, 397 U.S. 471: applies bounded state discretion over benefit levels without dispensing with federal statutory or regulatory conditions.
+
+**Limits and questions not reached:** Section 233.90(a)(1) determines deprivation through death, continued absence, incapacity, or a covered State-plan unemployment case by reference to a natural/adoptive parent or the qualifying married stepparent with the generally applicable equal support duty. Its second sentence independently forbids using a substitute parent's, man-in-the-house's, or other undescribed person's presence to find ineligibility or assume income. The Court does not reduce that regulation to parental deprivation alone.
+
+Section 233.20(a)(2)(viii) forbids reducing a need item solely because a non-legally-responsible individual is present and forbids assumed contributions, subject separately to §233.20(a)(3)(xiv)'s stepparent-income provision, §233.20(a)(5)'s authorized proration, and §233.51's sponsored-alien regime. These are distinct qualified provisions, not permission to presume every resident's contribution. For a co-resident married stepparent without the generally applicable equal support duty, paragraph (a)(3)(xiv) counts income after deducting the first $90 of gross earnings; the State need-standard allowance for the stepparent and qualifying co-resident tax dependents whose needs are not otherwise included, excluding sanctioned or required-but-noncooperating persons; amounts actually paid to qualifying dependents outside the home; and outside-household alimony or child support. If the stepparent is in the unit, paragraph (a)(11)(i)–(ii)'s disregards apply instead. Sponsored-alien deemed income does not count toward unsponsored family members' need unless actually available. No individual stepparent or sponsorship calculation is made.
+
+Section 233.20(a)(3)(ii)(D) considers income after applicable disregards, subject to paragraph (a)(3)(xiii), and resources available for current use. Consistently with other provisions of the chapter, actual availability suffices; the alternative requires both a legal interest in a liquidated sum and legal ability to make it available for support and maintenance. No sum unavailable to every unit member becomes available merely through grouping. The separate gross-income limit denies aid for a month when non-assistance income exceeds 185 percent of the State need standard, including special needs, for the same family composition, without the specified paragraph (a)(11)(i), (ii), and (viii) earned-income and tax-credit disregards except as paragraph (a)(3)(xix) permits. That permission allows a State-plan full-time-dependent-student earned-income disregard for no more than six months per calendar year; JTPA income disregarded under that paragraph, paragraph (a)(3)(xvii), or both has a combined six-month limit. The Court recalculates no family's eligibility.
+
+##### Mandatory family inclusion does not exhaust lawful unit composition
+
+**Holding:** Section 602(a)(38)'s qualified mandatory inclusion of co-resident parents and qualifying siblings does not make those relationships the exclusive permissible assistance unit. Optional nonparent caretakers or nonsiblings may decline aid only when mandatory inclusion does not require membership, and §605 creates no duty to transfer non-AFDC income between nonsiblings or other unit members.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Treatment of earlier authority:**
+
+- Bowen v. Gilliard, 483 U.S. 587: applies the distinction between Congress's required family inclusion and an asserted exclusive unit definition; its child-support holding remains limited to its own statutory setting.
+- King v. Smith, 392 U.S. 309: retains its unavailable-outside-support protection notwithstanding lawful membership and grant computation.
+- Lewis v. Martin, 397 U.S. 552: retains its unavailable-outside-support protection notwithstanding lawful membership and grant computation.
+- Van Lare v. Hurley, 421 U.S. 338: retains its unavailable-outside-support protection notwithstanding lawful membership and grant computation.
+- Brown v. Gardner, December 12, 1994: applies fidelity to enacted conditions without inserting an additional exclusivity command.
+
+**Limits and questions not reached:** Section 602(a)(38), except as otherwise provided in the same part, requires inclusion of a dependent child's parent and a brother or sister satisfying §606(a)(1)–(2) or §607(a) when living in the same home. Their income or available income enters the determination under paragraphs (7) and (8), notwithstanding §405(j) for Title II benefits. The reproduced 1986 instructions cover otherwise eligible natural/adoptive parents, dependent blood or adoptive siblings within the State's age limit, and a married stepparent subject to a generally applicable state duty equal to a natural parent's support duty. A stepbrother or stepsister is not automatically included merely because the stepparent is. In incapacity cases, and under a State's unemployment-of-the-principal-earner program, both parents are included if otherwise eligible.
+
+Those instructions retain exclusions for SSI recipients, persons failing citizenship/alienage requirements, aliens ineligible because of sponsor income/resources or agency or organizational sponsorship, and lump-sum-income ineligibility. Required overlapping co-resident memberships consolidate. A family need not apply for a grandchild in the minor-mother example, but applying triggers the linked mandatory grouping. A nonparent caretaker or nonsibling can decline aid only when not mandatorily included; a required sibling cannot withdraw alone while leaving the required sibling grouping intact, and the supplied example may require both siblings to decline. The reproduced instructions distinguish Title II payments to a representative payee in the household from payments to an outside payee, with the latter counted only to the extent made available for the beneficiary. No hypothetical restricted award or payee dispute is adjudicated as a named family's fact.
+
+Section 605 concerns proper use of the AFDC grant for its beneficiaries. It creates no duty to transfer a child's or caretaker's non-AFDC income and changes no general state-law support obligation. Counseling and guidance, advice about protective payments or guardianship, and authorized penalties remain qualified permitted responses rather than mandatory cumulative remedies. No caretaker misuse is found. The disposition rests on lawful membership and actual income rules, not an assumed transfer duty.
+
+##### The classwide equitable-treatment objection fails on its merits
+
+**Holding:** Applying the same unit-size schedule to eligible applicants lawfully grouped under the common-caretaker rule does not violate §§233.10(a)(1) and 233.20(a)(1)(i) merely because consolidation reduces aggregate aid or an unaided caretaker's needs are absent from a grant. Classifications must remain reasonable, statewide, objective, equitable in light of the Act, and consistent with eligibility requirements; the Court assumes without deciding that the cited provisions are enforceable under §1983.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Treatment of earlier authority:**
+
+- Dandridge v. Williams, 397 U.S. 471: applies bounded benefit-level discretion, not a replacement of the regulations' equity commands with constitutional rational-basis review.
+- King v. Smith, 392 U.S. 309: preserves its substantive availability limits within the equitable scheme.
+- Lewis v. Martin, 397 U.S. 552: preserves its substantive availability limits within the equitable scheme.
+- Van Lare v. Hurley, 421 U.S. 338: preserves its substantive availability limits within the equitable scheme.
+- Suter v. Artist M.: its enforcement-channel treatment does not decide this substantive AFDC construction; enforceability of the cited provisions is assumed without decision here.
+
+**Limits and questions not reached:** Section 233.10(a)(1) requires reasonable program classifications and stated eligibility conditions, prohibits arbitrary or unreasonable exclusions and inequitable treatment in light of the Act's provisions and purposes, and requires every statutory eligibility condition. Narrower coverage is permitted only where the Act or its legislative history authorizes it. Administrative-efficiency or independent state-welfare conditions remain permissible only when consistent with the Act's provisions and purposes. The plan must distinguish groups inside and outside federal financial participation, apply conditions consistently and equitably statewide, preserve the opportunity to apply and obtain an eligibility determination, and use methods consistent with assisting eligible persons to qualify. Its separate title XVI uniformity condition is not converted into an additional AFDC holding.
+
+Section 233.20(a)(1)(i) independently requires objective and equitable determination of need and assistance and consideration of all types of income in the same way except where federal statute specifically authorizes otherwise. The income-uniformity exception does not erase the separate equity requirement or decide whose income belongs to a unit. These two equity provisions are applied on their merits, without a ruling whether they confer an enforceable §1983 right.
+
+##### The outsider-proration option does not require fragmentation of this lawful unit
+
+**Holding:** Section 612's optional reasonable proration of shelter, utilities, and similar needs when household members are not claiming aid together does not require dividing this otherwise lawful assistance unit. A unit-size schedule is not itself an election of that option; when a State elects proration, the statutory SSI qualification and §233.20(a)(5)'s separate SSI, landlord-tenant, both-standards, and plan requirements remain binding.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Treatment of earlier authority:**
+
+- Bowen v. Gilliard, 483 U.S. 587: retains the mandatory-family-grouping rule without making a household of nonclaimants identical to an aided unit.
+- Dandridge v. Williams, 397 U.S. 471: preserves lawful benefit-level choices, subject to the independently operative proration conditions.
+
+**Limits and questions not reached:** Section 612 permits reasonable proration of shelter, utilities, and similar needs when individuals share a household without claiming aid together; an SSI recipient subject to the statutory one-third reduction is excluded from that calculation. Section 233.20(a)(5) separately prohibits proration with respect to such an SSI recipient and where a bona fide landlord-tenant relationship exists. If a State elects this option, it must prorate both need and payment standards reasonably; the plan must identify allowances, procedure, and circumstances, including which other persons count as sharing the household. Election is permitted, not compelled. None of these conditions authorizes a new proration percentage here.
+
+##### Independent construction supplies the result without a binding-guidance holding
+
+**Holding:** The statutes and binding regulations independently permit this bounded common-caretaker rule and defeat the preserved classwide objections. ACF-AT-94-6 may confirm that reading at its actual scope, but guidance does not create authority, override a regulation, or resolve an objection it does not address; the maximum deference owed to the guidance is left undecided.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Treatment of earlier authority:**
+
+- Brown v. Gardner, December 12, 1994: applies independent fidelity to the enacted conditions.
+- NationsBank of North Carolina, N.A. v. Variable Annuity Life Insurance Co., January 18, 1995: distinguishes its particular delegation and agency choice; no general guidance deference rule is imported.
+- Shalala v. Guernsey Memorial Hospital, March 6, 1995: applies separation of distinct regulatory questions and the actual instrument's function; no AFDC regulation is displaced.
+
+**Limits and questions not reached:** The 1994 transmittal permits statewide unit policies within these limits. Its consolidated-grandmother-and-five-children example excludes a surviving male friend's unavailable funds; its separate-unit example forbids presumed sharing across those separate units. The instrument discusses §233.20 equity but does not separately decide §233.10's Act-purpose language. The Court supplies that analysis independently. The 1986 transmittal is known here only through its reproduced excerpt.
+
+**Operative remedy or transition:** The categorical invalidation is reversed and remanded. The injunction, implementation directions and corrective-payment provisions must conform to rejection of all preserved classwide grounds, including equitable treatment on its merits. Individual membership, availability, opt-out and inequitable-administration claims retain their own requirements. No new amount, recoupment or fee award is ordered.
+
+### Emergency hospital treatment and transfer
+
+#### [In re Baby K](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/In_re_Baby_K_merits_1994-12-12.md)
+
+**Docket or dockets:** No. 93-1673.
+**Decided:** December 12, 1994.
+
+##### The acute respiratory emergency triggers stabilization or lawful transfer
+
+**Holding:** When a participating hospital determines that an individual has an emergency respiratory condition, §1395dd(b)(1) requires the examination and treatment within its available staff and facilities necessary to prevent likely material deterioration, within reasonable medical probability, resulting from or during transfer, or transfer complying with subsection (c). Inability to cure the patient's underlying anencephaly, an ethical or medical objection to continued life support, uniform withholding from comparable anencephalic patients, and the hospital's lack of an intention to transfer do not excuse this duty where the acute emergency and effective stabilizing capability are established.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg), unanimous.
+
+**Treatment of earlier authority:**
+
+- King v. St. Vincent's Hospital, 502 U.S. 215 (1991): applies contextual reading and respect for expressed statutory coverage and limits; its military-leave rule does not decide a medical question.
+- Suter v. Artist M., 503 U.S. 347 (1992): preserves separate inquiries into enacted duty, cause of action and remedy; its rejection of particular child-welfare claims supplies no categorical exemption from express hospital duties.
+
+**Limits and questions not reached:** Screening under subsection (a) is requested examination of an individual coming to the emergency department within that department's capability, including routinely available ancillary services. The diagnosed-emergency duty under subsection (b) is distinct. Transfer includes hospital-directed movement and discharge, but excludes movement after declaration of death or departure without hospital-affiliated permission. The separate labor provisions are not decided; Congress remains free to enact a defined futility exception.
+
+##### Unstabilized transfer remains a fully conditional alternative
+
+**Holding:** An unstabilized transfer requires either a written request by the individual or legally responsible person after explanation of the hospital's obligations and transfer risks, or a physician-signed certification, based on then-available information, that expected medical benefits at the other facility outweigh increased transfer risks; if no physician is physically present in the emergency department, a qualified medical person may sign only after consulting a physician who makes that determination and later countersigns, and every certification must summarize risks and benefits. Every route also requires available treatment minimizing risk; receiving space, qualified personnel and acceptance of appropriate care; transmission of all available emergency-related records, the request or certification, and the name and address of a required on-call physician who refused or failed timely to appear; qualified transportation personnel and equipment with necessary appropriate life support; and the Secretary's applicable additional health-and-safety requirements.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg), unanimous.
+
+**Treatment of earlier authority:**
+
+- King v. St. Vincent's Hospital, 502 U.S. 215 (1991): preserves the force of express statutory alternatives and conditions; protective purpose does not erase an enacted transfer route.
+
+##### Refusal compliance requires an actual offer and informed refusal
+
+**Holding:** Subsection (b)(2) deems the treatment requirement met when the hospital offers the required examination and treatment, explains its risks and benefits, the individual or representative refuses, and the hospital takes all reasonable steps to obtain written informed refusal. Subsection (b)(3) separately deems compliance when the hospital offers a transfer satisfying subsection (c), explains its risks and benefits, the individual or representative refuses, and the hospital takes all reasonable steps to obtain written informed refusal; the mother's opposition alone establishes neither route here.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg), eight Justices; Stone-Zsela agrees in the disposition only.
+
+**Treatment of earlier authority:**
+
+- King v. St. Vincent's Hospital, 502 U.S. 215 (1991): applies the coordinated statutory structure, including the separate conditions attached to separate alternatives.
+- Suter v. Artist M., 503 U.S. 347 (1992): preserves the distinction between a substantive duty and a claimed consequence; no broader family-authority or remedial rule is inferred.
+
+##### The receiving-hospital route depends on appropriate transfer, required specialized capability and capacity
+
+**Holding:** If a nursing-home movement is an appropriate transfer requiring the participating hospital's specialized capabilities or facilities, §1395dd(g) prohibits the hospital from refusing acceptance when it has capacity to treat the individual. The Court does not settle every movement's classification or presume future capacity; the conditional receiving-hospital route preserves those requirements independently of the ordinary arrival-and-diagnosed-emergency route.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg), eight Justices; Stone-Zsela agrees in the disposition only.
+
+**Treatment of earlier authority:**
+
+- King v. St. Vincent's Hospital, 502 U.S. 215 (1991): applies reading of related provisions together while retaining each provision's expressed conditions.
+
+##### State medical law yields only to an applicable direct conflict
+
+**Holding:** Under §1395dd(f), a state or local requirement remains effective except to the extent it directly conflicts with an applicable EMTALA requirement; state law cannot authorize withholding the stabilizing treatment required here. Virginia §54.1-2990, a limitation within an article concerning adult directives and surrogates, does not itself establish an infant-care exemption, and the Court invalidates no wider field of state medical law.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg), unanimous.
+
+**Treatment of earlier authority:**
+
+- King v. St. Vincent's Hospital, 502 U.S. 215 (1991): applies the whole-enactment approach; the limited preemption clause and affirmative duty both retain effect.
+
+**Operative remedy or transition:** The Fourth Circuit is affirmed. The declaration remains effective for the identified acute respiratory emergencies, with available-capacity, appropriate-transfer, informed-refusal and receiving-hospital predicates retained. No present transfer certification or accepting facility is established, and no indefinite post-stabilization care obligation is imposed.
+
+### Filed rates and public credit-rule enforcement
+
+#### [Interstate Commerce Commission v. Transcon Lines, 513 U.S. 138](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Interstate_Commerce_Commission_v_Transcon_Lines_merits_1995-01-10.md)
+
+**Docket or dockets:** No. 93-1318.
+**Decided:** January 10, 1995.
+
+##### The filed-rate duty does not defeat express public credit-rule enforcement
+
+**Holding:** Under the applicable pre-reform 49 U.S.C. §§10743(b)(1) and 11702(a)(4), the ICC may seek a judicial injunction against collection violating valid credit regulations, and §§10761–10762's filed-rate commands do not categorically defeat that enforcement. Section 11702(a)(4) excludes an action under a provision governing the reasonableness or discriminatory character of rates; this action enforces specified credit and billing requirements rather than asking the court to determine rate reasonableness or discrimination.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), unanimous.
+
+**Treatment of earlier authority:**
+
+- Southern Pacific Transportation Co. v. Commercial Metals Co., 456 U.S. 336 (1982): applies its distinction between an implied private credit defense and the ICC's express public enforcement tools; the private-defense holding remains intact.
+- Maislin Industries, U.S., Inc. v. Primary Steel, Inc., 497 U.S. 116 (1990): distinguishes its invalid negotiated-rate unreasonable-practice policy from enforcement under the separate credit delegation; no general equitable departure from filed rates is permitted.
+- Reiter v. Cooper, 507 U.S. 258 (1993): applies its preservation of specifically enacted statutory routes alongside filed-rate duties; counterclaims, recoupment, primary jurisdiction and separate-judgment discretion retain their own conditions.
+- MCI Telecommunications Corp. v. American Telephone & Telegraph Co., 512 U.S. 218 (1994): applies the requirement of actual delegated authority; its limit on replacing mandatory tariff filing does not erase Congress's distinct credit and enforcement provisions.
+- Brown v. Gardner, 513 U.S. 115 (1994): applies statutory construction before deference while preserving actual delegated discretion; its veterans-benefit causation and eligibility rules remain confined to that statute.
+- Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837 (1984): preserves deference within a lawful statutory delegation; neither a litigation demand nor general agency expertise supplies power Congress withheld.
+
+##### The admitted collection class violates the credit conditions
+
+**Holding:** The challenged loss-of-discount liquidated-damages collections violate 49 C.F.R. §1320.3(c) because the original bills omitted the required late-payment warning, §1320.2(g)(2)(vi) because revised billing occurred years later rather than within ninety days after authorized-credit expiration, and §1320.2(g)(2)(iii) because the demands aggregate past-shipment balances. The concessions establish those violations and the charge's liquidated-damages character for the challenged class, without establishing every account's inclusion or amount, every regulatory exception, statutory authority, remedial entitlement or a distinct contractual collection route.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), unanimous.
+
+**Treatment of earlier authority:**
+
+- Commercial Metals, 456 U.S. 336: preserves its private-defense rule and distinction between lawful freight principal and enforcement of particular credit obligations; it does not immunize the admitted liquidated-damages class.
+- Security Services, Inc. v. Kmart Corp., 511 U.S. 431 (1994): distinguishes an effectively canceled essential tariff component from this violation of credit conditions; no absent tariff component or wholesale tariff cancellation is found here.
+
+**Limits and questions not reached:** All operative credit qualifications remain. Authorized credit begins the day after bill presentation; absent a published alternative the period is fifteen days including weekends and holidays, and permitted combined credit cannot exceed thirty days. Service charges within the standard period are prohibited. Published additional-period charges and published post-expiration charges are distinct; post-expiration charges neither authorize delay nor remove the carrier's good-faith reassessment obligation before another credit extension. The tariff's ninety calendar days after shipment for discount eligibility is separate from the revised-billing deadline measured from authorized-credit expiration.
+
+Section 1320.2(g)(1) permits reasonable, certain collection-expense liquidated damages through an identified dollar or percentage charge or loss of an identified discount after a stated payment date no earlier than authorized-credit expiration. Section (g)(2) requires clear terms and conditions, prohibits unlawful prejudice or unjust discrimination, permits only original separate independent bills rather than aggregate past-shipment balance-due demands, excludes clear clerical or ministerial errors such as nonreceipt, a lost payment check or misaddressing, and prohibits duplicate collection fees already provided by the bill of lading for the same transportation. Damages arise only after authorized credit expires, with a revised bill or notice issued within ninety days after that expiration. Section (g)(3)'s separate contractual bill-of-lading collection-charge route outside the tariff is not an entitlement established here. Section 1320.3(c)'s original-bill or accompanying-notice requirements concerning penalties, time limits, service and collection charges, and discount terms remain distinct from revised billing. No unreported exception, account inclusion or amount is inferred.
+
+##### A confined injunction is appropriate and must be implemented on remand
+
+**Holding:** On the admitted violations and the defined loss-of-discount liquidated-damages request, an injunction preventing collection of that class is an appropriate exercise of the ICC's public enforcement authority, and the case must be remanded for its confined implementation. The lower court must specify the order's terms and may resolve genuine scope, inclusion and amount questions beyond the concessions or a properly presented distinct lawful collection basis, but may not reopen the admitted violation or charge character, restrain ordinary unpaid freight principal or other estate receivables, or treat this decision as a universal discharge.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), unanimous.
+
+**Treatment of earlier authority:**
+
+- Commercial Metals, 456 U.S. 336: applies its recognition of public enforcement to a confined injunction protecting the intended beneficiaries of the violated credit rules; no new automatic private defense follows.
+- ABF Freight System, Inc. v. NLRB, 510 U.S. 317 (1994): applies by analogy its respect for explained statutory remedial discretion and meaningful review; its review of a Board remedy neither transfers that power to the ICC nor binds a court to every injunction request.
+- Maislin, 497 U.S. 116: preserves the ban on a general nonstatutory negotiated-rate exception; the filed-rate objection cannot be recast as an equitable balance that defeats these expressly authorized credit conditions.
+
+**Limits and questions not reached:** The court independently examines authority, established violation, the restraint's legal character and its fit. Review remains available for an unsupported premise, insufficient explanation, arbitrariness, excessive scope or inconsistency with the statute. No automatic Chevron deference to litigation demands, universal agency-remedy standard or broader limitation on Chevron is adopted. The prior distinct coded-rate component, individual private defenses, other statutory claims, estate distribution, exact dollar relief and unpresented reform-statute relief remain outside the disposition. A distinct contractual route requires its own presentation and proof; nothing here accepts its availability for these claims.
+
+**Operative remedy or transition:** The Ninth Circuit is reversed and remanded to implement an injunction against the admitted-unlawful loss-of-discount liquidated-damages class. The original-notice failure, years-late revised billing, prohibited aggregation and liquidated-damages character may not be reopened. Genuine scope, inclusion and amount issues beyond the concessions and a properly presented distinct lawful collection basis remain; ordinary freight principal and other estate receivables are excluded. The separate coded-rate component remains undisturbed. No exact award, estate-distribution order or general discharge is entered.
+
+### Medicare refinancing costs and interpretive rules
+
+#### [Shalala v. Guernsey Memorial Hospital](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Shalala_v_Guernsey_Memorial_Hospital_merits_1995-03-06.md)
+
+**Docket or dockets:** No. 93-1251.
+**Decided:** March 6, 1995.
+
+##### The accounting regulations do not compel immediate recognition of this loss
+
+**Holding:** Section 1395x(v)(1)(A) and 42 C.F.R. §§413.20 and 413.24 do not make every generally accepted accounting recognition rule conclusive for Medicare reimbursement or require immediate recognition of this advance-refunding accounting loss. Provider records remain the accounting base, while lawful reasonable-cost allocation may distribute the relevant expense elements across the periods benefited, subject to the distinct existing allowance and calculation conditions.
+
+**Proposition-level authority:** Kennedy's Parts I–III, joined by Stone-Zsela, Stevens, Ginsburg and Breyer: five Justices.
+
+**Treatment of earlier authority:**
+
+- Good Samaritan Hospital v. Shalala, 508 U.S. 402 — lawful cost methods and allocation remain distinct from a demand for individualized correction of every claimed shortfall.
+- Thomas Jefferson University v. Shalala (June 24, 1994) — its different education-cost regulation does not resolve these accounting terms; no general change to its existing review rule is adopted.
+- MCI Telecommunications Corp. v. AT&T Co. (June 17, 1994) — agency action must remain within actual legal authority; no power to contradict a binding regulation is recognized.
+
+##### The manual explains a lawful allocation rather than changing binding law
+
+**Holding:** PRM §233’s application to the advance-refunding timing at issue is interpretive because it explains a permissible application of the existing reasonable-cost regulations rather than imposing a conflicting new legal obligation; APA §553(b)(A) therefore does not require notice and comment for that explanation. The Secretary’s actual adjudicative allocation ground is sustained within existing law, not as authority to evade a binding regulatory command.
+
+**Proposition-level authority:** Kennedy's Parts I–III, joined by Stone-Zsela, Stevens, Ginsburg and Breyer: five Justices.
+
+**Treatment of earlier authority:**
+
+- Lincoln v. Vigil, 508 U.S. 182 — interpretive or policy material is distinguished from a new binding substantive rule; form does not authorize evasion of statutory procedure.
+- SEC v. Chenery Corp., 332 U.S. 194 — lawful adjudication and the agency’s actual stated ground matter; a court cannot supply a different administrative decision.
+- Good Samaritan Hospital v. Shalala — reasoned implementation remains subject to governing methods and legal limits.
+
+**Limits and questions not reached:** Section 1395x(v)(1)(A) defines reasonable cost by actual incurred cost, excluding unnecessary cost in efficient delivery of needed services, under regulations specifying methods and included items. The Secretary must consider accepted accounting principles, not necessarily adopt them. Methods may differ with circumstances and employ estimates, limits, per-unit measures, or charges where reasonable. Direct and indirect costs must be allocated so Medicare does not bear non-Medicare costs and the converse; suitable corrective adjustments operate within lawful methods. Section 413.20(a) requires sufficient standardized financial records and statistical data, says accepted accounting and reporting practices are followed, says changes to those systems will not be required to determine payable costs, and uses basic accounts as the starting point for equitable and proper payment. Section 413.24 requires adequate verifiable data, approved cost finding, and accrual accounting: revenue when earned and expense when incurred, regardless of collection or payment. Accrual accounting alone does not compel GAAP reimbursement timing. Sections 413.9 and 413.153 retain reasonable patient-care cost and necessary-and-proper-interest limits.
+
+PRM §233.1 covers advance refunding through new debt initiated on or after July 1, 1983; recall without new debt is excluded and referred to §215. Initiation is provider or official issuer action clearly intending refunding; board authorization, hiring an underwriter, or applying to the issuer are examples, not cumulative requirements. Under §233.2, legal defeasance need not mean the old holders have received principal. For necessary patient-care debt defeased or repurchased through advance refunding, §233.3 treats expense elements separately: new debt issue costs amortize from incurrence to scheduled maturity of the new debt; old unamortized discounts, premiums, and issue costs amortize from new issuance until old holders receive principal, with proportionate treatment for serial bonds; call premiums or penalties are allowed when old holders receive principal, prorated by principal payments for serial bonds. Redemption and miscellaneous expenses and annual authority/trustee fees are allowed as paid or accrued subject to the separate §2305 qualification. Interest on both debts is allowed annually as paid or accrued; new discount/premium amortization adjusts interest, and income from investment of new proceeds offsets interest whether earned directly or through a trust. Individual expense elements, rather than the accounting loss as an undifferentiated sum, determine reimbursement.
+
+Section 233.4 retains necessary-and-proper and reasonable-cost requirements. Available sinking funds count in necessary borrowing, and existing funded depreciation counts when excess borrowing purchases depreciable assets. Ordinarily net allowable refinancing costs cannot exceed costs allowable without refinancing. Compelling factors, such as necessary cash flow or removal of a restrictive borrowing covenant, may justify excess costs upon a showing satisfactory to the intermediary; absent that showing, the annual ceiling is the cost without refinancing. Section 233.5 permits qualifying debt and proceeds in equity-capital calculations but excludes debt and related assets to the extent interest is disallowed under §233.4. No equity-capital award is decided. Exact §2305 allowance conditions are not established, and no expense-specific entitlement dependent on them is adjudicated. Medicare allocation, ordinary calculation limits, and these distinct periods remain in place; no universal amortization period or new amount is fixed.
+
+The Manual lacks regulatory force. APA §553(b)(A)’s interpretive-rule exemption is distinct from the benefits exemption, on which the decision does not rely. The later §1395hh rulemaking provision does not govern this preexisting manual dispute. No agency may use interpretive form or adjudication to contradict binding statutes or regulations.
+
+**Operative remedy or transition:** The Sixth Circuit's advance-refunding timing judgment is reversed and remanded consistently with sustaining the Secretary's determination, subject to existing allowance and calculation rules. The separate interest-offset affirmance is undisturbed. No dollar award or expense-specific entitlement is fixed.
+
+### Vaccine Table onset and compensation burdens
+
+#### [Shalala v. Whitecotton](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Shalala_v_Whitecotton_merits_1995-04-18.md)
+
+**Docket or dockets:** No. 94-372.
+**Decided:** April 18, 1995.
+
+##### The Table onset route requires the first manifestation of the injury
+
+**Holding:** A claimant using the applicable Table's onset route must establish that the first symptom or manifestation of onset of the claimed Table injury occurred within the prescribed period after vaccination; for the DPT encephalopathy claim here, that period is three days. A later manifestation of the same already manifested injury does not satisfy first onset, but no finding that Maggie had that injury before vaccination is made or insulated from review by this construction.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), unanimous.
+
+**Treatment of earlier authority:**
+
+- Brown v. Gardner, December 12, 1994: applies respect for distinct statutory conditions without inserting a universal actual-causation requirement into the Table route; its veterans-benefits rule is not transplanted.
+- Daubert v. Merrell Dow Pharmaceuticals, Inc., June 28, 1993: leaves expert-evidence admissibility separate from the Vaccine Act's entitlement predicates; no new admissibility determination is made.
+
+##### Preserve significant aggravation and the separate rebuttal stage on remand
+
+**Holding:** A qualifying significant-aggravation claim and an otherwise available actual-causation claim remain distinct from first onset. The claimant's statutory entitlement showing by a preponderance precedes the Secretary's separate burden to establish an unrelated factor by a preponderance; the disputed preexisting-injury finding, preserved alternative routes, and consolidated new-evidence proceeding return for lawful consideration without an award, final denial, or hypothetical rebuttal ruling.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), unanimous.
+
+**Treatment of earlier authority:**
+
+- Director, OWCP v. Greenwich Collieries, June 20, 1994: applies only the distinction among persuasion, presumptions, and separately allocated defenses; the Vaccine Act's own burdens govern.
+- Brown v. Gardner, December 12, 1994: preserves the distinction between an eligibility condition and additional grounds not supplied by the statute; no compensation follows automatically from removing a legal error.
+
+**Limits and questions not reached:** Section 13(a)(2)(A) excludes any idiopathic, unexplained, unknown, hypothetical, or undocumentable cause, factor, injury, illness, or condition from unrelated factors. That provision is distinct from §14(b)(3)(B), which excludes an encephalopathy from the Table when a preponderance establishes that its cause is infection, toxins, trauma, or metabolic disturbances; those specified Table causes were not asserted by the Secretary in this appeal. No application of either provision is decided. The August 2, 1990 petition uses §2114(a) and (b) as in effect February 8, 1995: the March 10, 1995 revision applies only to petitions filed on or after March 10. The earlier Table and its qualifications both remain applicable. No new definition of significant aggravation, final preexisting-injury finding, actual-causation determination, or new-evidence merits ruling is adopted.
+
+**Operative remedy or transition:** The Federal Circuit's compensation direction is reversed and remanded to review the preexisting-injury finding, preserved significant-aggravation and other routes, and the consolidated new-evidence proceeding. No final award, denial, independent Rule 60 decision or mootness holding is entered; rebuttal follows only a qualifying claimant showing.
+
+### Veterans benefits and medical causation
+
+#### [Brown v. Gardner](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Brown_v_Gardner_merits_1994-12-12.md)
+
+**Docket or dockets:** No. 93-1128.
+**Decided:** December 12, 1994.
+
+##### Section 1151 requires causation, not provider fault or accident
+
+**Holding:** Section 1151 requires an injury or aggravation resulting from covered VA hospitalization, medical or surgical treatment, chapter 31 vocational rehabilitation, or examination, producing additional disability or death and not resulting from the veteran's own willful misconduct; it does not additionally require negligence, other provider fault, or an unforeseen untoward accident. Section 3.358(c)(3)'s added fault-or-accident prerequisite is invalid, and Gardner's claim must be redetermined under the surviving statutory conditions without an automatic benefits award.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Treatment of earlier authority:**
+
+- Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837 (1984): applies the statutory-meaning inquiry before deference; the clear causal standard leaves no authority to add provider fault, without abolishing deference in genuine interpretive gaps.
+- King v. St. Vincent's Hospital, 502 U.S. 215 (1991): applies contextual reading of protective veterans legislation and respect for express rather than invented limits; the veterans-protective canon confirms the text instead of replacing it.
+- MCI Telecommunications Corp. v. American Telephone & Telegraph Co., 512 U.S. 218 (1994): applies the limit that administrative expertise cannot supply statutory power Congress did not grant; the distinct tariff-modification rule is not extended into a general rejection of agency discretion.
+
+**Limits and questions not reached:** The natural-progress provision is left undisturbed. No complete rule governing consent or necessary consequences is adopted. The separate FTCA coordination sentence remains: for a qualifying judgment under 28 U.S.C. §1346(b), or settlement or compromise under §§2672 or 2677, on or after December 1, 1962, for a disability, aggravation, or death treated as service connected under §1151, benefits for months after finality are withheld until the aggregate otherwise payable equals the total recovery. That is a coordination rule, not a provider-fault requirement; no qualifying recovery is found here.
+
+**Operative remedy or transition:** The Federal Circuit is affirmed. Administrative redetermination must proceed without the invalid fault-or-accident prerequisite, with causation, additional disability and the remaining statutory conditions preserved; benefits are not automatically awarded.

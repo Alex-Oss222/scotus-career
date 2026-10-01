@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1993
-**Processed through:** June 30, 1994, after all eleven chunk-8 matters and all 95 OT1993 inventory Court events.
-**Edition:** September 28, 2026
+**Last completed October Term:** 1994
+**Processed through:** June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.
+**Edition:** October 1, 2026
 
 ## Federal Taxation
 
@@ -83,6 +83,29 @@
 **Authority of the judgment:** The Sixth Circuit’s exclusion ruling is reversed, 6–3: White, Blackmun, Stevens, Scalia, Kennedy and Souter support reversal; Stone, O’Connor and Thomas oppose it. The identified payments may not be excluded in the refund action. No controlling statutory rationale exists under *Marks*. Blackmun, White, Stevens and Kennedy rely on the old Title VII remedial scheme; Scalia separately construes the statute around physical or mental health; Souter accepts the regulation, recognizes competing tort and contract analogies, rejects making intangible remedies indispensable, and relies on narrow construction of uncertain exclusions. Neither concurrence is established as a logical subset of the plurality’s remedial classification.
 
 **Limits and questions not reached:** The judgment creates no general remedial-range test, health-injury requirement or discrimination-recovery exclusion. No separate FICA wages issue, punitive-damages classification, ordinary wage settlement, distinct tort allocation, amended statutory regime or Title VII jury-trial question is decided. The settlement establishes no adjudicated discrimination finding. No independently sufficient alternative holding has five votes. Further proceedings must give effect to reversal, without enlarging the recovery or valuation; no tax amount, separate withholding theory or reopening of the settlement is ordered.
+
+#### [Commissioner v. Schleier](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Commissioner_v_Schleier_merits_1995-06-14.md)
+
+**Docket or dockets:** No. 94-500.
+**Decided:** June 14, 1995.
+
+##### Receipt-specific causation under the return-year exclusion
+
+**Holding:** Under the applicable § 104(a)(2), a taxpayer must satisfy both the regulation's tort-or-tort-type-right requirement and the statute's independent requirement that the particular damages be received on account of personal injuries or sickness; amounts attributable to deductions allowed under § 213 in a prior year remain excepted from the exclusion. Assuming the ADEA claim satisfies the first requirement, these backpay and willfulness-based liquidated damages fail the second and must be included in gross income.
+
+**Proposition-level authority:** Stevens's Opinion of the Court, joined by Stone-Zsela, Kennedy, Ginsburg and Breyer; five directly support the causal holding. Scalia concurs only in the judgment and supplies no vote for this explanation.
+
+**Limits and questions not reached:** The return-year provision concerns personal injuries or sickness without the later physical-injury amendment. Backpay here replaces earnings lost through employment deprivation, not inability to work from a demonstrated personal injury; ADEA liquidated damages punish knowing or reckless willfulness. Tort-type status is assumed. No categorical ADEA classification, exclusion of all wage-measured injury damages, general punitive-damages rule, physical/mental-health-only test or other settlement allocation is decided.
+
+**Treatment of earlier authority:**
+
+- United States v. Burke — its fractured judgment remains; no general remedial-range rule is treated as controlling and no new tort-classification alternative is adopted.
+- Trans World Airlines, Inc. v. Thurston, 469 U.S. 111 — applied for the punitive purpose of ADEA liquidated damages.
+- Hazen Paper Co. v. Biggins — applied for knowing or reckless willfulness; it does not itself decide tax treatment.
+- Overnight Motor Transportation Co. v. Missel, 316 U.S. 572 — distinguished because its FLSA compensatory account does not characterize this ADEA multiplier.
+- McKennon v. Nashville Banner Publishing Co. — preserved as distinguishing liability and employment remedy; it supplies no tax-exclusion holding.
+
+**Operative remedy or transition:** Reverse both exclusions and remand for any necessary allocation and lawful tax calculation including the ADEA backpay and liquidated damages. No exact deficiency, refund, withholding amount or new settlement valuation is ordered.
 
 ### Intergovernmental tax immunity
 
@@ -301,15 +324,15 @@ The controlling classification follows the coordinated statutory and regulatory 
 
 **Treatment of earlier authority:**
 
-- Helvering v. Hammel, 311 U.S.504: settled tax treatment of obligation-discharging transfers applied.
-- Sorenson v. Secretary of Treasury, 475 U.S.851: consistent tax-language construction applied.
-- Atlantic Cleaners & Dyers, Inc. v. United States, 286 U.S.427: contextual qualification preserved; it does not justify a different meaning here.
-- Commissioner v. Lester, 366 U.S.299: internal consistency of tax language supports the established-meaning rationale.
-- Albernaz v. United States, 450 U.S.333: prior settled construction informs the meaning Congress selected.
+- Helvering v. Hammel, 311 U.S. 504: settled tax treatment of obligation-discharging transfers applied.
+- Sorenson v. Secretary of Treasury, 475 U.S. 851: consistent tax-language construction applied.
+- Atlantic Cleaners & Dyers, Inc. v. United States, 286 U.S. 427: contextual qualification preserved; it does not justify a different meaning here.
+- Commissioner v. Lester, 366 U.S. 299: internal consistency of tax language supports the established-meaning rationale.
+- Albernaz v. United States, 450 U.S. 333: prior settled construction informs the meaning Congress selected.
 
 ##### Discharge supplies consideration even without importing a technical tax meaning
 
-**Independent alternative holding:** Independently of a settled technical tax meaning, transferring property to discharge an employer’s pension-funding duty is an exchange under §4975(c)(1)(A): the plan receives property and the employer receives release from its obligation. Section4975(f)(3)’s inclusion of property subject to a mortgage or similar lien assumed by the plan or placed by a disqualified person within ten years does not exclude other exchanges supported by consideration.
+**Independent alternative holding:** Independently of a settled technical tax meaning, transferring property to discharge an employer’s pension-funding duty is an exchange under §4975(c)(1)(A): the plan receives property and the employer receives release from its obligation. Section 4975(f)(3)’s inclusion of property subject to a mortgage or similar lien assumed by the plan or placed by a disqualified person within ten years does not exclude other exchanges supported by consideration.
 
 **Proposition-level authority for alternative holding:** Blackmun’s Parts III-C and III-D; Stone-Zsela, White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
@@ -444,3 +467,110 @@ The controlling classification follows the coordinated statutory and regulatory 
 - Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994: preserves protection of the completed federal judgment there; no such judgment is reopened here.
 
 **Operative remedy or transition:** The Ninth Circuit is reversed and the case remanded for judgment applying the amended ownership requirement. No refund follows from the rejected due-process theory and no compensation is awarded for the transaction loss. The Court fixes no new assessment, penalty, valuation, allocation failure or refund amount.
+
+### Federal obligations and private repurchase income
+
+#### [Nebraska Department of Revenue v. Loewenstein](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Nebraska_Department_of_Revenue_v_Loewenstein_merits_1994-12-12.md)
+
+**Docket or dockets:** No. 93-823.
+**Decided:** December 12, 1994.
+
+For the other questions in this decision, see Constitutional Structure — Federal borrowing and state taxation (The borrowing-power objection is not established by evidence about bankruptcy classification).
+
+##### The private repo return is outside the federal-obligation exemption
+
+**Holding:** Section 3124(a) does not exempt the return on these repurchase agreements because it is owed under a separate private financing obligation, rather than on the United States' securities; actual book-entry delivery does not change the source of the negotiated earnings. The statute continues to protect direct and indirect taxation of federal obligations and their interest, except nondiscriminatory corporate franchise or substitute corporate nonproperty taxes and estate or inheritance taxes; the State prevails because this income is outside the protected subject, not because an exception covers this individual income tax.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), unanimous.
+
+**Treatment of earlier authority:**
+
+- Rockford Life Insurance Co. v. Illinois Department of Revenue, 482 U.S. 182 (1987): applies its distinction between an actual federal obligation and separate private earnings; its GNMA facts are not substituted for these delivered federal securities.
+- Smith v. Davis, 323 U.S. 111 (1944): applies the boundary between the Government's own direct obligation and a separate private obligation supported by federal assets or credit.
+- Frank Lyon Co. v. United States, 435 U.S. 561 (1978): distinguishes respect for a genuine transaction's form from identifying the obligation producing income under §3124; no sham or universal form-disregard rule is adopted.
+- American Bank & Trust Co. v. Dallas County, 463 U.S. 855 (1983), and First National Bank of Atlanta v. Bartow County Board of Tax Assessors, 470 U.S. 583 (1985): preserve protection when the tax computation actually reaches protected obligations or their income; neither classifies this private repo return.
+
+**Limits and questions not reached:** Subsection (b) sends the tax status of interest on Government or agency obligations, income from evidences of ownership, and disposition gain or loss to the Internal Revenue Code. An obligation that the Federal Housing Administration agreed, under a contract made before March 1, 1941, to issue at a future date retains the tax-exemption privileges provided by the authorizing law at the time of that contract. Subsection (b) does not apply to obligations and evidences of ownership issued by the District of Columbia, a territory or possession, or their departments, agencies, instrumentalities or political subdivisions; it does not erase subsection (a). No separate construction, application or validity ruling concerning a Seller-Borrower's §77-2716(1)(e)(i) add-back is made.
+
+##### The asserted discrimination lacks a supported comparator policy
+
+**Holding:** A ruling that expressly addresses federal-obligation repos does not, without an identified favorable policy for comparable state or local repos, establish the discriminatory taxation alleged here. The discrimination objection therefore supplies no ground to invalidate Revenue Ruling 22-85-1 on this record; the Court does not approve actual discriminatory treatment or find every Nebraska practice neutral.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), unanimous.
+
+**Treatment of earlier authority:**
+
+- Memphis Bank & Trust Co. v. Garner, 459 U.S. 392 (1983): preserves the prohibition of actual discriminatory taxation favoring state obligations; an unproved comparator policy does not establish its predicate.
+
+**Operative remedy or transition:** The Nebraska Supreme Court is reversed as to Revenue Ruling 22-85-1 and the case remanded to uphold the challenged tax on this repo income and conduct consistent remaining proceedings. No separate Seller-Borrower add-back construction, assessment, refund or recomputation is ordered.
+
+### Refund suits by nonassessed property owners
+
+#### [United States v. Williams](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Williams_merits_1995-04-25.md)
+
+**Docket or dockets:** No. 94-395.
+**Decided:** April 25, 1995.
+
+##### Express refund consent includes this lien-backed collection claim
+
+**Holding:** Section 1346(a)(1) permits a refund suit by a person who, although not personally liable for the assessment against another, paid under the coercive force of a federal tax lien to free property claimed as her own and alleges that the Government wrongfully collected that payment. Section 7422(a)'s duly filed administrative claim and §6511's applicable timing requirements remain mandatory; §6511's taxpayer terminology does not implicitly exclude this timely collection claim from the express waiver.
+
+**Proposition-level authority:** Ginsburg's express-waiver ground, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Souter and Breyer: seven Justices.
+
+**Treatment of earlier authority:**
+
+- United States v. Nordic Village, Inc., February 25, 1992: applies its demand for unequivocal monetary consent and distinguishes its text permitting nonmonetary readings; the present refund waiver expressly authorizes monetary recovery.
+- United States v. Dalm, 494 U.S. 596 (1990): applies its connected claim-and-timing requirements, while distinguishing its untimely action from this timely nonassessed claimant.
+- United States v. California, April 26, 1993: preserves its refusal to create a common-law refund remedy; this action rests on the express congressional remedy it left open.
+- Stahmann v. Vidal, 305 U.S. 61 (1938): applies its distinction between collection from one's property and a volunteered payment, while retaining its different statutory incidence and collector-action limits.
+
+**Limits and questions not reached:** Section 6511(a) allows, for a tax requiring a return, a claim within three years of filing the return or two years of payment, whichever expires later; if no return was filed, the period is two years from payment. Its separate stamp-tax clause allows three years from payment. No lateness is alleged here. Section 7422(b) permits suit whether or not payment was under protest or duress. The coercive lien and property connection identify the facts and limited plaintiff category decided; they do not create a universal protest or duress prerequisite or decide every other claimant's eligibility.
+
+**Independent alternative holding:** Independently, a person whose claimed property and own payment are subjected to the lien-backed tax collection presented here is a person subject to an internal-revenue tax within §7701(a)(14) for the connected refund provisions, even though she is not personally liable for the assessment. This construction allows her timely administrative refund claim; it neither makes every payer a taxpayer for all Code purposes nor adjudicates the debt or lien's validity.
+
+**Proposition-level authority for alternative holding:** Ginsburg's independent taxpayer-definition ground, joined by Stevens, O'Connor, Souter and Breyer: five Justices; Stone-Zsela and Scalia do not join.
+
+**Treatment of earlier authority:**
+
+- Dalm: applies the integrated treatment of waiver, claim, and timing provisions without converting its late-claim holding into a decision about this plaintiff category.
+- Nordic Village: applies clear-consent analysis to the actual refund text and its connected definition; no general jurisdictional or equitable label supplies consent.
+
+##### Distinct third-party mechanisms do not foreclose this refund action
+
+**Holding:** The cited quiet-title, wrongful-levy, and substitute-fund provisions do not make those mechanisms exclusive of this §1346(a)(1) collection claim or require their exhaustion before her duly claimed refund suit. Their own triggers and restrictions remain in force: a lien is not a levy, discharge into a substitute fund is permissive and requires an agreement, and the fund remedies presuppose the corresponding fund.
+
+**Proposition-level authority:** Ginsburg's third-party-remedies ground, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Souter and Breyer: seven Justices.
+
+**Treatment of earlier authority:**
+
+- Dalm: preserves the statutory refund-claim requirement without adding an exhaustion duty for quiet-title, levy, or substitute-fund proceedings.
+- United States v. California: preserves the distinction between an express remedy and one newly created by a court; the practical limitations of other remedies corroborate statutory construction but do not create consent.
+
+**Limits and questions not reached:** The holding is jurisdictional. Lien validity and priority, purchaser status and consideration, the effect and scope of any binding Government concession, wrongfulness of collection, payment components, and recoverable amount remain for further proceedings as necessary. No interest, fees, damages, or unrestricted challenge to Rabin's underlying assessment is awarded or authorized by this decision.
+
+Section 2410 permits quiet-title proceedings against a claimed federal lien, without automatically creating a refund action after payment. Section 7426(a)(1) requires a levy; none occurred here. Section 6325(b)(3) permits discharge of sold property upon an agreement holding the proceeds in a substitute fund with the same lien priority; it neither requires an agreement nor establishes that Williams obtained one. Sections 7426(a)(3) and (b)(4) presuppose such a fund. Section 7426(c)'s conclusive presumption that the assessment is valid remains confined to proceedings under that section and is not silently transferred to §1346.
+
+**Operative remedy or transition:** Refund jurisdiction is affirmed, 7–2, leaving the Ninth Circuit's further-proceedings remand in force. Lien validity and priority, purchaser status, any binding concession, wrongfulness, payment components and amount remain as necessary. No refund, interest, fees, damages or unrestricted challenge to Rabin's assessment is awarded.
+
+### State-tax refund procedures
+
+#### [Reich v. Collins](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Reich_v_Collins_merits_1994-12-06.md)
+
+**Docket or dockets:** No. 93-908.
+**Decided:** December 6, 1994.
+
+##### A State may not withdraw its apparent postpayment remedy after payment
+
+**Holding:** When a State holds out a clear postpayment remedy for illegally assessed and collected taxes, including voluntary payments, due process forbids withdrawing that remedy after payment for the constitutional invalidity asserted and then relying on the taxpayer's failure to pursue a different prepayment route. Georgia must afford Reich a clear and certain opportunity for the refund or constitutionally adequate equivalent relief due under federal law, subject to ordinary proof of payment and amount; it may prospectively establish an adequate prepayment system with fair notice.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), unanimous.
+
+**Treatment of earlier authority:**
+
+- McKesson Corp. v. Division of Alcoholic Beverages and Tobacco, 496 U.S. 18 (1990): applies its clear-and-certain-remedy requirement to withdrawal of an apparently available postpayment route; adequate prepayment systems and lawful remedial choices remain permissible.
+- Harper v. Virginia Department of Taxation, 509 U.S. 86 (1993): applies the distinction between the federal rule governing open direct review and the lawful remedy; no automatic refund or reopening of final judgments follows.
+- Barker v. Kansas, 503 U.S. 594 (1992): preserves its separate reservation of refund questions; substantive pension-tax invalidity does not fix the amount or form of relief.
+
+**Limits and questions not reached:** The substantive tax invalidity is already accepted. The Court neither declares every Georgia prepayment avenue inadequate nor converts discretionary stays into guaranteed stays. It creates no general government-estoppel doctrine, exemption from clearly announced reasonable requirements, fixed refund, interest award, or reopening of final judgments. Prospective procedural changes remain permissible with adequate review and fair notice.
+
+**Operative remedy or transition:** The Georgia Supreme Court's denial of adequate backward-looking relief is reversed and remanded for a clear and certain lawful remedial opportunity. No refund amount, interest award or reopening of final judgments is ordered.

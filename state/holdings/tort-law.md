@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1993
-**Processed through:** June 30, 1994, after all eleven chunk-8 matters and all 95 OT1993 inventory Court events.
-**Edition:** September 28, 2026
+**Last completed October Term:** 1994
+**Processed through:** June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.
+**Edition:** October 1, 2026
 
 ## Tort Law
 
@@ -95,8 +95,8 @@
 
 **Treatment of earlier authority:**
 
-- Pacific Mutual Life Insurance Co. v. Haslip,499 U.S.1: actual procedural safeguards applied; no mandatory reproduction of every Alabama feature.
-- Garnes v. Fleming Landfill,186 W.Va.656,413 S.E.2d897: state review framework examined as part of this record, not transformed into a federal checklist.
+- Pacific Mutual Life Insurance Co. v. Haslip, 499 U.S. 1: actual procedural safeguards applied; no mandatory reproduction of every Alabama feature.
+- Garnes v. Fleming Landfill, 186 W.Va. 656, 413 S.E.2d 897: state review framework examined as part of this record, not transformed into a federal checklist.
 
 ##### Whether the amount of this punitive award establishes a controlling substantive due-process rule
 

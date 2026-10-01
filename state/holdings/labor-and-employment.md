@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1993
-**Processed through:** June 30, 1994, after all eleven chunk-8 matters and all 95 OT1993 inventory Court events.
-**Edition:** September 28, 2026
+**Last completed October Term:** 1994
+**Processed through:** June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.
+**Edition:** October 1, 2026
 
 ## Labor and Employment
 
@@ -267,7 +267,7 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 ##### The reviewed compensatory award is not appropriate equitable relief
 
-**Holding:** Section502(a)(3)’s appropriate equitable relief encompasses traditionally equitable categories of relief, not compensatory damages merely because a court of equity could award them in trust litigation. The requested monetary compensation from this admitted nonfiduciary for the plan’s losses is therefore unavailable under that provision; the Court does not bar every monetary equitable remedy or decide the antecedent, expressly disclaimed cause-of-action question.
+**Holding:** Section 502(a)(3)’s appropriate equitable relief encompasses traditionally equitable categories of relief, not compensatory damages merely because a court of equity could award them in trust litigation. The requested monetary compensation from this admitted nonfiduciary for the plan’s losses is therefore unavailable under that provision; the Court does not bar every monetary equitable remedy or decide the antecedent, expressly disclaimed cause-of-action question.
 
 **Proposition-level authority:** Scalia’s Opinion of the Court; Blackmun, Scalia, Kennedy, Souter, Thomas (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
@@ -277,13 +277,13 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Treatment of earlier authority:**
 
-- Curtis v. Loether, 415 U.S.189: traditional legal compensation distinction applied.
-- Chauffeurs, Teamsters & Helpers v. Terry, 494 U.S.558: remedy classification applied; trust forum alone does not decide the statutory category.
-- Firestone Tire & Rubber Co. v. Bruch, 489 U.S.101: trust-law guidance preserved subject to express statutory limits.
-- Clews v. Jamieson, 182 U.S.461: equity’s monetary powers acknowledged but distinguished from the statutory category.
-- Massachusetts Mutual Life Insurance Co. v. Russell, 473 U.S.134: enforcement-structure caution applied; its reserved question is now resolved only within this holding.
-- United States v. Burke, May26,1992: its fractured judgment supplies no controlling general remedial-range test.
-- Franklin v. Gwinnett County Public Schools, February26,1992: appropriate-remedy presumption distinguished because Congress expressly limited this provision to equitable relief.
+- Curtis v. Loether, 415 U.S. 189: traditional legal compensation distinction applied.
+- Chauffeurs, Teamsters & Helpers v. Terry, 494 U.S. 558: remedy classification applied; trust forum alone does not decide the statutory category.
+- Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101: trust-law guidance preserved subject to express statutory limits.
+- Clews v. Jamieson, 182 U.S. 461: equity’s monetary powers acknowledged but distinguished from the statutory category.
+- Massachusetts Mutual Life Insurance Co. v. Russell, 473 U.S. 134: enforcement-structure caution applied; its reserved question is now resolved only within this holding.
+- United States v. Burke, May 26, 1992: its fractured judgment supplies no controlling general remedial-range test.
+- Franklin v. Gwinnett County Public Schools, February 26, 1992: appropriate-remedy presumption distinguished because Congress expressly limited this provision to equitable relief.
 
 ### Federal supervision of employee benefit trusts
 
@@ -294,7 +294,7 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 ##### Section 302 restrains prohibited transactions
 
-**Holding:** Section302(e) authorizes restraint of violations of the payment, demand, receipt and related prohibitions in §302(a) and (b); §302(c)(5) identifies qualifying trusts rather than a general supervisory remedy for later administration. Retaining these reserves supplies no transfer remedy without an actual prohibited transaction; payment to a nonqualifying trust remains subject to the statute.
+**Holding:** Section 302(e) authorizes restraint of violations of the payment, demand, receipt and related prohibitions in §302(a) and (b); §302(c)(5) identifies qualifying trusts rather than a general supervisory remedy for later administration. Retaining these reserves supplies no transfer remedy without an actual prohibited transaction; payment to a nonqualifying trust remains subject to the statute.
 
 **Proposition-level authority:** Scalia’s Opinion of the Court, Section 302 restrains prohibited transactions portion; Stone-Zsela, O’Connor, Scalia, Kennedy, Souter, Thomas (6 Justices). Direct proposition-level majority; no Marks aggregation.
 
@@ -304,9 +304,9 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Treatment of earlier authority:**
 
-- Arroyo, 359 U.S.419 — lawful receipt distinguished from later diversion; contrary supervisory language is dictum.
-- Amax, 453 U.S.322 — fiduciary independence retained; supervisory language does not establish jurisdiction.
-- Robinson, 455 U.S.562 — reasonableness-review rejection retained; reserved supervisory scope resolved.
+- Arroyo, 359 U.S. 419 — lawful receipt distinguished from later diversion; contrary supervisory language is dictum.
+- Amax, 453 U.S. 322 — fiduciary independence retained; supervisory language does not establish jurisdiction.
+- Robinson, 455 U.S. 562 — reasonableness-review rejection retained; reserved supervisory scope resolved.
 - Mertens, June 1, 1993 — unchanged; its remedy limit does not resolve these unreviewed ERISA claims.
 
 ### Employment discrimination and proof of pretext
@@ -328,10 +328,10 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 
 **Treatment of earlier authority:**
 
-- McDonnell Douglas Corp. v. Green,411 U.S.792: indirect framework retained; no automatic liability holding adopted.
-- Texas Department of Community Affairs v. Burdine,450 U.S.248: production stage retained; no five-Justice replacement of its persuasion rule.
-- Postal Service Board of Governors v. Aikens,460 U.S.711: actual discrimination and circumstantial evidence remain central.
-- Hazen, April20,1993: prohibited motive remains distinct from general unfairness; no added evidence category follows.
+- McDonnell Douglas Corp. v. Green, 411 U.S. 792: indirect framework retained; no automatic liability holding adopted.
+- Texas Department of Community Affairs v. Burdine, 450 U.S. 248: production stage retained; no five-Justice replacement of its persuasion rule.
+- Postal Service Board of Governors v. Aikens, 460 U.S. 711: actual discrimination and circumstantial evidence remain central.
+- Hazen, April 20, 1993: prohibited motive remains distinct from general unfairness; no added evidence category follows.
 
 ### Hostile work environments
 
@@ -576,3 +576,217 @@ For the other questions in Livadas v. Bradshaw, 1994-06-13, No. 92-1920, see Civ
 - Rogers, 352 U.S. 500: preserves relaxed causal contribution but does not let causation evidence replace the required injury category.
 
 **Operative remedy or transition:** Both Third Circuit judgments are reversed, 5–4. Gottshall is remanded for first-instance application of the zone-of-danger rule, without automatic reinstatement of summary judgment, a trial entitlement or a damages award. Carlisle is remanded with instructions to enter judgment for Conrail, with no new trial of the excluded work-stress claim.
+
+### After-acquired evidence and discrimination remedies
+
+#### [McKennon v. Nashville Banner Publishing Co.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/McKennon_v_Nashville_Banner_Publishing_Co_merits_1995-01-23.md)
+
+**Docket or dockets:** No. 93-1543.
+**Decided:** January 23, 1995.
+
+##### Later-discovered misconduct does not erase an earlier ADEA violation
+
+**Holding:** Misconduct unknown to the employer when it discharged an employee cannot defeat liability for an age-discriminatory discharge or categorically bar every remedy. The employee must still establish an ADEA violation under the governing liability rules; an employer’s assumption of discrimination for summary judgment is not a final liability finding.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), unanimous.
+
+**Treatment of earlier authority:** Hazen Paper’s actual-motive requirement remains controlling; Mt. Healthy and Price Waterhouse are distinguished because they concern reasons involved in the challenged decision. St. Mary’s Honor Center retains its existing proof framework and does not make rejection of an employer’s explanation an automatic liability judgment.
+
+##### Proven independently sufficient misconduct limits appropriate relief
+
+**Holding:** To limit relief through after-acquired evidence, the employer must prove misconduct so serious that it would in fact have discharged the employee for that reason alone had it known, rather than merely showing that discharge was permissible. Once that showing is made, reinstatement and front pay are ordinarily inappropriate, and backpay’s starting measure is the period from unlawful discharge to actual discovery, subject to extraordinary equitable circumstances affecting either party’s legitimate interests.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), unanimous.
+
+**Treatment of earlier authority:** Hazen Paper’s knowledge-or-recklessness standard continues to govern any claim of willfulness; this remedial ruling does not lower it. Mt. Healthy and Price Waterhouse supply no complete forfeiture rule for a reason discovered after the challenged discharge.
+
+**Limits and questions not reached:** Genuine protected opposition or participation cannot supply a lawful discharge ground; this case announces no general ban on obtaining evidence of discrimination. No final discrimination, willfulness, compensation, liquidated-damages, fee, or reinstatement finding is made. Section 626(c)(1)’s termination of the individual right to bring an action when the EEOC commences an action to enforce that employee’s right remains distinct; no such agency action is established here. The 1991 Title VII amendments supply no new rule for this ADEA discharge.
+
+**Operative remedy or transition:** The Sixth Circuit is reversed and remanded for liability adjudication without treating unknown misconduct as a discharge reason and for relief under the employer's actual-would-discharge showing. No final discrimination or damages determination is entered.
+
+### ERISA plan amendment and corporate authority
+
+#### [Curtiss-Wright Corp. v. Schoonejongen](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Curtiss_Wright_Corp_v_Schoonejongen_merits_1995-03-06.md)
+
+**Docket or dockets:** No. 93-1935.
+**Decided:** March 6, 1995.
+
+##### The company-amendment clause satisfies §402(b)(3)
+
+**Holding:** In this employer-sponsored welfare plan, a written reservation of amendment to the Company provides an amendment procedure and identifies an authorized person under ERISA §402(b)(3), because §3(9) includes corporations and applicable corporate law identifies actors empowered to bind the Company. The statute does not invariably require a list of individual officers; actual additional procedures adopted by the plan remain binding.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Treatment of earlier authority:**
+
+- Nationwide Mutual Insurance Co. v. Darden, 503 U.S. 318 — ordinary legal meaning informs ERISA where the enacted text supplies no contrary rule; no employee-classification test is imported into amendment authority.
+- John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank (December 13, 1993) — status and function remain separate from breach and relief; procedural sufficiency establishes no final amendment or immunity.
+
+##### A sufficient procedure still requires authorized corporate action
+
+**Holding:** A legally sufficient reservation of amendment power does not establish adoption of the challenged amendment. The lower courts must determine who had express or implied authority, whether an authorized actor approved the 1983 cutoff, and, if necessary, whether later ratification was legally effective, including its timing and consequences, before entering a conforming benefits judgment.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Treatment of earlier authority:**
+
+- Mertens v. Hewitt Associates, 508 U.S. 248 — the reviewed §502(a)(3) compensation limit remains; it does not bar benefits due under §502(a)(1)(B).
+- John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank — the distinction between legal status and ultimate liability is preserved; no new breach or remedy follows merely from identifying amendment power.
+
+**Limits and questions not reached:** ERISA §402(b)(3), 29 U.S.C. §1102(b)(3), requires every plan to provide a procedure for amending it and for identifying the persons with amendment authority. Section 3(9), §1002(9), includes a corporation among persons, as well as an individual, partnership, joint venture, mutual company, joint-stock company, trust, estate, unincorporated organization, association, and employee organization. The plan Constitution reserves to the Company the right at any time and from time to time to modify or amend any or all provisions, in whole or in part, and separately reserves termination. Delaware §141(a) places corporate business and affairs under the board’s management or direction except as otherwise provided by that chapter or the certificate of incorporation. No charter, bylaw, delegation, or approval is established as a fact here. Section 402(a)(1)’s written-instrument and named-fiduciary requirements remain distinct from sponsor amendment authority. Sections 1022 and 1024 retain actual summary, disclosure, and instrument-access duties; an SPD is not proof of authorized amendment. Section 502(a)(1)(B) benefits enforcement is distinct from §502(a)(3)’s appropriate-equitable-relief category.
+
+**Operative remedy or transition:** The Third Circuit is reversed and the case remanded to identify authorized corporate actors, determine actual approval and legally effective ratification, including timing and consequences, and enter a conforming benefits judgment. Actual termination and amounts are not decided; rejected lifetime vesting is not automatically reopened.
+
+### ERISA preemption and hospital-payment measures
+
+#### [New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co. / Pataki v. Travelers Insurance Co. / Hospital Association of New York State v. Travelers Insurance Co.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/New_York_State_Conference_of_Blue_Cross_Blue_Shield_Plans_v_Travelers_Insurance_Co_merits_1995-04-26.md)
+
+**Docket or dockets:** Nos. 93-1408; 93-1414; 93-1415.
+**Decided:** April 26, 1995.
+
+For the other questions in this decision, see Federal Courts — Component-specific vacatur and independent relief (The reserved direct-plan claim remains live after limited vacatur).
+
+##### The reviewed 13% hospital differential is not preempted
+
+**Holding:** ERISA §514(a) does not preempt the reviewed 13% hospital differential merely because its price effect may influence a covered plan’s choice of insurer or coverage arrangement. In these commercial-insurance applications the measure neither uses ERISA status or covered-plan benefits as its legal benchmark nor commands plan benefits, eligibility, uniform administration or an alternative enforcement remedy; the Court reserves economic effects sufficiently acute to operate as a substantive coverage command or effectively restrict insurer choice.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Treatment of earlier authority:**
+
+- Shaw v. Delta Air Lines, Inc., 463 U.S. 85: applies the connection-or-reference inquiry and its remote-effects boundary without making every cost consequence preemptive.
+- Mackey v. Lanier Collection Agency & Service, Inc., 486 U.S. 825: applies the distinction between singling out ERISA plans and ordinary legal effects, including costs, without making general applicability an automatic defense.
+- District of Columbia v. Greater Washington Board of Trade, December 14, 1992: distinguishes its mandatory covered-plan benefit benchmark, which these reviewed payment categories do not contain; that holding remains intact.
+- FMC Corp. v. Holliday, 498 U.S. 52: distinguishes its alteration of plan subrogation and benefit calculation; its separate saving/deemer architecture remains undisturbed.
+
+**Limits and questions not reached:** Section 2807-c(1) excludes Medicare payments and permits alternative reimbursement methodologies authorized under subdivision four, paragraphs (e)–(i). Paragraph (a) covers state governmental agencies, article 43 insurance corporations’ expense-incurred policies, the described payments by those corporations for foreign-corporation subscribers under subdivision 12(d), and article 44 HMO subscribers. The diagnosis-related-group case payment includes reimbursable operating costs, capital expenses, bad-debt and charity-care allowances, the primary-care allowance, the allowance for financially distressed hospitals, the rate-year trend factor and the subdivision four (a)–(d) case-payment adjustments. Paragraph (a-1) gives local-government payments for local correctional inmates the state-agency rates.
+
+Paragraph (b) covers expense-incurred payments under workers’ compensation, volunteer firefighters’, volunteer ambulance workers’ and no-fault laws; self-insured funds paying hospitals directly, except enrollees covered by a rate-method agreement under paragraph (a) of subdivision two; licensed commercial accident-and-health insurers whose policies cover inpatient services on that basis; and out-of-plan benefits authorized under §4406, except those offered by a not-for-profit corporation or an organization qualifying under Internal Revenue Code §501(c). The payment equals the article 43 case-payment basis, adjusted for uncovered services, increased by 13%, and adjusted under subdivision 11(i) where applicable. A hospital may not refuse a qualifying direct-payment arrangement without due cause. Paragraphs (a) and (b) payors may not choose the lower of charges and the case payment or apportion the case payment by excluding a preexisting or acquired condition that must be treated along with the reason for admission. These are statutory payment rules; they are not findings that an ERISA plan changed its benefits.
+
+Paragraph (c) uses hospital charges for patients without an authorized case-payment arrangement under paragraphs (a) or (b), or coverage under subdivision two (a). The subdivision four (d) short-stay definition applies, with that paragraph’s developed payment increased by 13%. For a charge-paying patient the ceiling is 120% of the paragraph (b) diagnosis-related-group case payment, without the subdivision 11(i) adjustment. A hospital must apply its charge schedule uniformly. This is not another application of the full 24% differential.
+
+##### The additional commercial-insurer 11% charge is not preempted
+
+**Holding:** The reviewed additional 11% commercial-insurer charge likewise is not preempted under §514(a): its revenue destination and additional price differential do not establish a required plan benefit, insurer choice or administrative arrangement on this record. This application adopts neither a numerical safe harbor for combined charges nor immunity for financial pressure that actually operates as a substantive coverage command or effectively restricts insurer choice.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Treatment of earlier authority:**
+
+- Shaw: applies its relation boundary to the additional charge’s actual operation, rather than treating legislative purpose or percentage alone as conclusive.
+- Mackey: applies the distinction between ordinary added economic costs and the relation ERISA preempts; it supplies no quantitative exemption.
+- Board of Trade: preserves its covered-plan-content benchmark and distinguishes this additional payor charge, whose amount does not use plan benefits as the legal measure.
+
+**Limits and questions not reached:** The reproduced subdivision 11(i) applies the additional 11%, totaling 24% with the existing 13%, to the identified commercial-insurer expense-incurred discharges from April 1, 1992 through March 31, 1993. The appendix contains an ellipsis after that provision’s total-24% statement. Subdivision 14-e creates the statewide supplementary pool: hospitals submit the additional component, and the commissioner deposits it and investment income into the general fund. The complete extension text and resulting current rate liability are not decided here.
+
+##### The conditional HMO assessment is not preempted
+
+**Holding:** The reviewed HMO assessment of up to 9%, subject to its actual Medicaid participation, enrollment, exemption, reduction and payment conditions, is not preempted by §514(a) on this record. It affects HMO prices and participation choices without a demonstrated command to an ERISA plan’s benefit structure, eligibility, insurer choice or uniform administration; its conditions receive no categorical immunity from preemption if a different application establishes such a connection or effective compulsion.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Treatment of earlier authority:**
+
+- Shaw: applies connection-or-reference analysis separately to the HMO measure and preserves the possibility that more acute indirect effects could suffice.
+- Mackey: applies the distinction between actual administrative commands and economic consequences without dismissing duties merely because imposed through generally applicable law.
+- FMC: distinguishes compulsory changes to plan reimbursement rights from the HMO participation and payment conditions shown here, retaining the insured/self-funded distinction where saving and deemer issues must be reached.
+
+**Limits and questions not reached:** No direct self-funded merits ruling, new insurance-saving test, numerical safe harbor, uniform-cost guarantee, FEHBA ruling, stop-loss-letter ruling, Tax Injunction Act holding, or amended-law rate command is adopted. These are record-specific applications of the relation boundary, not categorical immunity for health regulation, price regulation, generally applicable statutes or indirect burdens.
+
+Subdivision 2-a(a) addresses article 44 and article 43 HMO inpatient discharges on or after July 1, 1992. Medicaid-eligible subscribers and participants in the 1988 chapter 703 regional pilot projects are excluded. The base is the subdivision one case payment, subdivision four per-diem rate, or negotiated and approved subdivision two (b) rate, whichever applies. The additional factor is 9%, subject to elimination or reduction. Notice was due June 1 for the 1992 rate period and December 1 for each following annual January rate period. An appeal by May 1 can obtain a July 1 adjustment.
+
+Elimination under subdivision 2-a(b)(i) requires status as a Social Services Law §364-j managed-care provider in each social-services district in the service area and enrollment of at least 90% of the sum of the target numbers of Medicaid recipients not exempt from managed care. The reproduced determination dates are May 1 for the 1992 rate period, November 1 preceding the 1993 rate year, and May 1 when an appeal is taken for the six-month period beginning July 1. Reaching 25%, 50% or 75% of total target enrollment gives the corresponding 25%, 50% or 75% reduction, rather than elimination.
+
+An HMO may apply to the social-services commissioner for a district participation exemption by May 1 for the 1992 period or October 1 preceding the 1993 rate year, based on a good-faith effort to obtain a managed-care contract or other commissioner-established criteria. The following nonexclusive good-faith routes apply only to the reproduced 1992 and 1993 rate years. First, the HMO submitted an implementation plan and would have begun enrollment but for the district’s failure or refusal to contract. Second, it submitted letters of intent to all districts, contracted with half by July 1, 1992 and two-thirds by January 1, 1993, and could have contracted with the rest but for Department-agreed implementation delay. Third, the same letters and agreed-delay conditions apply where contracts cover districts containing half and then two-thirds of the service area’s nonexempt Medicaid population on those dates. Fourth, it meets the total enrollment target for its otherwise nonexempt districts despite incomplete contracts. For the fourth route, 1992–1993 fee-for-service enrollment is calculated from annual Medicaid visits to a licensed diagnostic and treatment center operated by the HMO or a distinct licensed nonprofit providing or arranging a majority of its services, divided by commercial subscribers’ annual average visits to those facilities. The commissioner also considers implementation of a plan to capitate a substantial percentage of that enrollment under an approved viable schedule. This fourth route permits only a 75% reduction, not elimination.
+
+An exempt district is removed from the service area for the calculation. An HMO with noncontiguous regions may apply across its whole service area or separately on an aggregate basis for each region. The district target equals the ratio of its commercial subscribers to all HMO commercial subscribers in that district, excluding Medicaid, Medicare and regional-pilot subscribers from both sides, multiplied by the district enrollment objective. That objective is the greatest applicable measure: the approved nonexempt Medicaid enrollment goal as of July 1 of the preceding year; 5% of the district’s nonexempt Medicaid population before completion of the first full year of its approved managed-care plan; or actual nonexempt enrollment on July 1 of the preceding year, except May 1, 1992 for the first period. The actual-enrollment measure excludes providers that are neither HMOs nor entities authorized under §4403-a. The most recent subscriber statistics govern the ratio. Medicaid enrollees under an affiliation contract with a prepaid health-services plan may count when the commissioner approves the contract in consultation with the social-services commissioner.
+
+Payment and administration: HMOs remit the adjusted assessment directly to a statewide pool for the preceding month’s discharges; pool funds and investment income go to the general fund. Estimated payment is due within fifteen days after month-end unless the actual payment has been made within that period. Collection stops when the commissioner, consulting the budget director, determines that $31 million has been or will be collected for the fiscal year ending March 31, 1993. Excess collections for that year are refunded in proportion to each HMO’s share of total payments. Arrearages bear subdivision twenty interest and penalties on the basis used for the bad-debt and charity-care pools. The commissioner may contract with the subdivision sixteen (c) pool administrator or, if unavailable, another designated administrator. If a contract is made, annual receipt-and-distribution audits are required; approved reasonable costs may be paid from the pool, with annual personnel services limited to $200,000. The $31 million cap is not declared permanent.
+
+Subdivision 2-a(d) extends the adjusted factor to point-of-service inpatient business when an article 43 corporation offering those benefits was HMO-certified on April 1, 1992 and later transfers to its point-of-service product reduce HMO enrollment by more than 20%. The pre-April-1 subscriber ratio then controls the target. Satisfactory evidence that the transfers occurred for reasons beyond the corporation’s control prevents that provision’s application. The same pool and payment procedure apply. Subdivision 2-a(e) requires the information needed to administer the scheme, including county enrollment data by May 1 each year, identifying Medicaid, Medicare and regional-pilot subscribers separately and reflecting enrollment no earlier than the previous year.
+
+ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they relate to a §4(a) plan not exempt under §4(b); its effective date is January 1, 1975, and §514(b)(1) excludes earlier causes of action, acts and omissions. Section 514(b)(2)(A), subject to (B), preserves state insurance, banking and securities regulation. Subparagraph (B) prevents a covered nonexempt plan or its trust from being deemed an insurer, bank, trust company or investment company, or engaged in insurance or banking, for the stated state-regulatory purposes; its express exception is a plan established primarily to provide death benefits. A separate exempt workers’ compensation, unemployment or disability plan does not exempt a different covered health plan. Relation, saving and deeming are distinct questions. The direct self-funded application remains for remand; the separate insurance-saving theory for the up-to-9% assessment is not established as preserved. No new ruling on the Tax Injunction Act, laches, FEHBA, or the stop-loss letter is made.
+
+**Operative remedy or transition:** In all three dockets, reverse the decided commercial-insurance and HMO ERISA rulings and dissolve the associated ERISA relief; vacate reviewed direct-self-funded adjudication and ERISA surcharge protection insofar as they reach the reserved application, and remand that live claim. This removes no independently surviving FEHBA or Actuarial Letter protection and decides no direct-plan merits or right to interim relief. No new payment, escrow, reimbursement or accrued-liability command is entered.
+
+### Pension withdrawal-liability installments
+
+#### [Milwaukee Brewery Workers' Pension Plan v. Jos. Schlitz Brewing Co.](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Milwaukee_Brewery_Workers_Pension_Plan_v_Jos_Schlitz_Brewing_Co_merits_1995-02-21.md)
+
+**Docket or dockets:** No. 93-768.
+**Decided:** February 21, 1995.
+
+##### The assumed payment date fixes the computational starting point
+
+**Holding:** Under 29 U.S.C. §1399(c)(1)(A)(i), the withdrawal-liability installment calculation uses the first day of the plan year after the withdrawal year as the assumed first-payment and computational-interest starting point; it does not capitalize interest for the preceding withdrawal year. Actual payment commencement, overdue-payment interest, default acceleration, prepayment, and mass-withdrawal rules retain their separate statutory triggers and qualifications.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), unanimous.
+
+**Treatment of earlier authority:** Concrete Pipe and Products of California, Inc. v. Construction Laborers Pension Trust retains its independent arbitration, factual-review, and actuarial-review rules; this legal date question changes none of their burdens. Brown v. Gardner’s attention to statutory text and context is applied without creating a broader agency-deference rule.
+
+**Limits and questions not reached:** When the calculated payment period exceeds twenty years, ordinary liability is limited to the first twenty annual payments. That cap does not apply when the plan terminates through withdrawal of every employer or withdrawal of substantially all employers pursuant to an agreement or arrangement to withdraw. Actual payments begin no later than sixty days after demand notwithstanding review or appeal; the assumed date permits no delay. Payments are quarterly unless the plan specifies other intervals, and overdue-payment interest runs from the due date to payment. Prepayment of outstanding annual payments and accrued interest is allowed without penalty, subject to redetermination if the withdrawal later qualifies under the mass-withdrawal rule. After statutory default, acceleration may include interest from the first untimely payment’s due date; nonpayment must remain uncured sixty days after written notice, while other events defined in adopted plan rules must indicate a substantial likelihood that the employer will be unable to pay its withdrawal liability. The prevailing-market-rate rule is distinct from the amortization assumptions. No mass-withdrawal, cap, default, independent partial-year-demand, or agency-litigation-deference question is decided here.
+
+**Operative remedy or transition:** The Seventh Circuit is affirmed and enforcement of the arbitral award preserved. Added withdrawal-year interest and prejudgment interest on that addition do not survive. No amount is recalculated and the separate allocation-method ruling is not reopened.
+
+### Nonscheduled compensation and earning-capacity modification
+
+#### [Metropolitan Stevedore Co. v. Rambo](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Metropolitan_Stevedore_Co_v_Rambo_merits_1995-06-12.md)
+
+**Docket or dockets:** No. 94-820.
+**Decided:** June 12, 1995.
+
+##### Economic change can support timely nonscheduled modification
+
+**Holding:** Section 22 permits modification of a nonscheduled disability award upon a demonstrated change in injury-related earning capacity even when physical impairment is unchanged. Modification remains limited to the enacted grounds of changed conditions or mistake in a determination of fact, within one year after the last compensation payment, whether or not a compensation order issued, or within one year after rejection of a claim; true §8(i) settlements remain distinct.
+
+**Proposition-level authority:** Justice Kennedy's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer; eight Justices adopt the construction and bounded reversal/remand.
+
+**Limits and questions not reached:** The stipulated award was not a section 8(i) settlement discharging liability with the required best-interest finding. The employer has an actual assessment and reimbursement stake despite Fund payments; the Director's distinct appellate entitlement is not enlarged. Scheduled compensation, medical benefits, untimely reopening and unrestricted revision of final awards are outside the holding.
+
+**Treatment of earlier authority:**
+
+- O'Keeffe v. Aerojet-General Shipyards, Inc., 404 U.S. 254 (1971): analogous breadth of fact-correction authority does not erase statutory grounds or deadline.
+- Banks v. Chicago Grain Trimmers Assn., Inc., 390 U.S. 459 (1968): applies resistance to restrictions not enacted in the modification text; the mistake ground remains distinct.
+- Potomac Electric Power Co. v. Director, OWCP, 449 U.S. 268 (1980): preserves scheduled/nonscheduled statutory branches.
+- Bath Iron Works Corp. v. Director, OWCP (January 12, 1993): retains mandatory scheduled-loss operation; no economic-loss condition is added to that branch.
+- Director, OWCP v. Newport News Shipbuilding (March 21, 1995): distinguishes general administrative disagreement from an employer's genuine financial interest; no Director appellate entitlement is enlarged.
+
+##### Capacity, proof and the remand
+
+**Holding:** The employer seeking modification must prove the qualifying earning-capacity change; increased wages are probative but conclusive only insofar as they fairly and reasonably represent capacity under §8(h). Otherwise capacity must be determined with due regard to injury, physical impairment, usual employment, other capacity-affecting circumstances and natural future effects of disability; findings retain statutory substantial-evidence review, and the Ninth Circuit must address preserved arguments it did not reach rather than presume termination.
+
+**Proposition-level authority:** Justice Kennedy's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer; eight Justices adopt this application/remedy qualification.
+
+**Limits and questions not reached:** Actual earnings are not an automatic recovery presumption or burden shift. The existing findings considered training, several years of crane work, physical demands, work availability, inflation, occupation-specific wage increases and risk of losing the job. Future recurrence and nominal-award doctrine remain undecided.
+
+**Treatment of earlier authority:**
+
+- Director, OWCP v. Greenwich Collieries (June 20, 1994): applies persuasion on the modification proponent without a wage-created burden shift.
+- Bath Iron Works and Potomac Electric: retain scheduled compensation as a different branch; this capacity inquiry governs the presented nonscheduled award.
+
+**Operative remedy or transition:** Reverse the Ninth Circuit's physical-change-only rule and remand for unresolved preserved arguments and lawful review of the existing administrative findings. No immediate termination, unconditional new hearing, new dollar award or finding of complete recovery is ordered.
+
+### WARN limitations periods
+
+#### [North Star Steel Co. v. Thomas / Crown Cork & Seal Co., Inc. v. United Steelworkers of America, AFL-CIO-CLC](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/North_Star_Steel_v_Thomas_and_Crown_Cork_merits_1995-05-30.md)
+
+**Docket or dockets:** Nos. 94-834; 94-835.
+**Decided:** May 30, 1995.
+
+**Companion or consolidated matters:** North Star Steel Co. v. Thomas / Crown Cork & Seal Co., Inc. v. United Steelworkers of America, AFL-CIO-CLC. The dockets share the holdings at their stated component scopes.
+
+##### Source and application of the WARN limitations period
+
+**Holding:** For these WARN claims, courts must borrow an appropriate analogous state limitations period because NLRA § 10(b) is neither a clearly closer analogy nor shown significantly more suitable through federal policy and litigation practicalities. Both claims are timely under the state candidates presented; the Court need not select an exact statute or decide the WARN merits.
+
+**Proposition-level authority:** Souter’s Opinion of the Court, joined by Stone-Zsela, Stevens, O’Connor, Kennedy, Thomas, Ginsburg and Breyer; eight Justices directly support the rule and application. Scalia joins only the judgment.
+
+**Limits and questions not reached:** Federal borrowing requires both a clearly closer federal analogy and significantly greater suitability from federal policy and litigation practicalities. Section 1658 supplies no period for this 1988 cause. Arbitration, exhaustion, statutory deferral and associated tolling are outside review; the earlier union action does not dispose of the separate employees' claims.
+
+**Treatment of earlier authority:**
+
+- DelCostello v. Teamsters, 462 U.S. 151: preserves the ordinary state-borrowing rule and confines its federal exception to a genuinely closer analogy and significantly greater federal suitability; its hybrid labor-settlement application is distinguished.
+- Reed v. United Transportation Union, 488 U.S. 319: applies its restrictive account of the exception; a labor setting alone remains insufficient.
+- Fort Halifax Packing Co. v. Coyne, 482 U.S. 1: applies its separation of independent substantive employment protections from bargaining mechanisms; no arbitration question is decided.
+
+**Operative remedy or transition:** Affirm both Third Circuit judgments: in No. 94-834, preserve reversal of the employees' limitations dismissal; in No. 94-835, preserve rejection of the six-month defense. Both claims are timely under the state candidates presented; no exact period, liability, damages, accrual, tolling or WARN merits exception is decided.

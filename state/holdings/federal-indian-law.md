@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1993
-**Processed through:** June 30, 1994, after all eleven chunk-8 matters and all 95 OT1993 inventory Court events.
-**Edition:** September 28, 2026
+**Last completed October Term:** 1994
+**Processed through:** June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.
+**Edition:** October 1, 2026
 
 ## Federal Indian Law
 
@@ -77,8 +77,8 @@
 
 **Treatment of earlier authority:**
 
-- McClanahan v. Arizona State Tax Commission, 411 U.S.164: applied with both residence and income-source predicates.
-- Oklahoma Tax Commission v. Citizen Band Potawatomi Indian Tribe, 498 U.S.505: applied against a reservation-label-only geography.
+- McClanahan v. Arizona State Tax Commission, 411 U.S. 164: applied with both residence and income-source predicates.
+- Oklahoma Tax Commission v. Citizen Band Potawatomi Indian Tribe, 498 U.S. 505: applied against a reservation-label-only geography.
 - County of Yakima v. Confederated Tribes, January 14, 1992: distinguished; limited land-tax authorization supplies no income-tax authority.
 
 ##### The challenged vehicle levies cannot be sustained merely as off-country use charges
@@ -93,8 +93,31 @@
 
 **Treatment of earlier authority:**
 
-- Moe v. Confederated Salish and Kootenai Tribes, 425 U.S.463: applied to member vehicle property taxation.
-- Washington v. Confederated Tribes of the Colville Indian Reservation, 447 U.S.134: applied to the substance of the vehicle levies; genuinely tailored off-country use charges remain distinct.
+- Moe v. Confederated Salish and Kootenai Tribes, 425 U.S. 463: applied to member vehicle property taxation.
+- Washington v. Confederated Tribes of the Colville Indian Reservation, 447 U.S. 134: applied to the substance of the vehicle levies; genuinely tailored off-country use charges remain distinct.
+
+#### [Oklahoma Tax Commission v. Chickasaw Nation](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Oklahoma_Tax_Commission_v_Chickasaw_Nation_merits_1995-06-14.md)
+
+**Docket or dockets:** No. 94-771.
+**Decided:** June 14, 1995.
+
+For the other questions in Oklahoma Tax Commission v. Chickasaw Nation, decided June 14, 1995, No. 94-771. see Federal Indian Law — State fuel-tax incidence in Indian country (Legal incidence of the reviewed motor-fuels tax).
+
+##### Resident taxation and the surviving treaty promise
+
+**Holding:** Oklahoma may apply its generally applicable income tax to members residing outside Indian country who earn wages from tribal work in Indian country; the Treaty of Dancing Rabbit Creek does not exempt that employee income. Members residing and earning tribal income in Indian country retain the ordinary protection under McClanahan and Sac and Fox.
+
+**Proposition-level authority:** Ginsburg’s income portion, joined by Stone-Zsela, Scalia, Kennedy and Thomas; five Justices adopt the off-country-resident treaty construction.
+
+**Limits and questions not reached:** The treaty construction rests on the surviving territorial promise, not implied repeal at statehood. Article IV's retained council authority is conditioned on consistency with the federal Constitution, treaties and laws, and expressly permits congressional laws within constitutional Indian-affairs authority. Nonmember wages, nontribal-source income and the independent unpressed Williams infringement theory remain outside review.
+
+**Treatment of earlier authority:**
+
+- McClanahan v. Arizona State Tax Commission; Oklahoma Tax Commission v. Sac and Fox Nation: retain the residence-and-source protection within Indian country, including statutory Indian country beyond formal reservation labels.
+- Mescalero Apache Tribe v. Jones: applies ordinary off-reservation state authority absent contrary federal law.
+- Graves v. New York ex rel. O’Keefe: distinguishes employee income taxation from taxation of government as employer.
+
+**Operative remedy or transition:** Affirm the bar on the reviewed tribal-retailer-incidence fuel tax; reverse the exemption for the specified off-country-resident tribal wages and remand for ordinary tax law and residence/source predicates. No tax amount, refund, individual residence finding or replacement-tax approval is entered.
 
 ### Treaty exclusion and acquired recreation lands
 
@@ -111,10 +134,10 @@
 
 **Treatment of earlier authority:**
 
-- Dion, 476 U.S.734 — clear congressional choice required, without an invariable express-words requirement.
-- Montana, 450 U.S.544 — exclusion-derived authority and effects of alienation applied.
-- Brendale, 492 U.S.408 — land-specific setting considered without inventing a universal rule from its fracture.
-- Menominee, 391 U.S.404 — protection against casual implied abrogation preserved; particular enactments distinguished.
+- Dion, 476 U.S. 734 — clear congressional choice required, without an invariable express-words requirement.
+- Montana, 450 U.S. 544 — exclusion-derived authority and effects of alienation applied.
+- Brendale, 492 U.S. 408 — land-specific setting considered without inventing a universal rule from its fracture.
+- Menominee, 391 U.S. 404 — protection against casual implied abrogation preserved; particular enactments distinguished.
 
 ##### Residual authority remains a distinct inquiry
 
@@ -128,8 +151,8 @@
 
 **Treatment of earlier authority:**
 
-- Montana, 450 U.S.544 — both consensual-relationship and serious tribal-interest exceptions expressly retained.
-- United States v. Wheeler, 435 U.S.313 — retained internal tribal powers do not themselves establish nonmember regulation after the abrogation found here.
+- Montana, 450 U.S. 544 — both consensual-relationship and serious tribal-interest exceptions expressly retained.
+- United States v. Wheeler, 435 U.S. 313 — retained internal tribal powers do not themselves establish nonmember regulation after the abrogation found here.
 
 ### Reservation diminishment
 
@@ -203,3 +226,28 @@
 - County of Yakima v. Confederated Tribes, January 14, 1992: preserves the exact authorization and legal-incidence analysis for its distinct land taxes; collection labels do not authorize prohibited taxes.
 
 **Operative remedy or transition:** The New York Court of Appeals is reversed on both grounds supporting its facial judgment and the case remanded. The facial injunction cannot rest on categorical trader preemption or the rejected facial excessive-burden ground. Concrete challenges to inadequate exempt supply, arbitrary approval or allocation, and excessive compliance burdens remain available; no particular quota, recovery from a tribe or treaty claim is adjudicated.
+
+### State fuel-tax incidence in Indian country
+
+#### [Oklahoma Tax Commission v. Chickasaw Nation](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Oklahoma_Tax_Commission_v_Chickasaw_Nation_merits_1995-06-14.md)
+
+**Docket or dockets:** No. 94-771.
+**Decided:** June 14, 1995.
+
+For the other questions in Oklahoma Tax Commission v. Chickasaw Nation, decided June 14, 1995, No. 94-771. see Federal Indian Law — State taxation of resident tribal members (Resident taxation and the surviving treaty promise).
+
+##### Legal incidence of the reviewed motor-fuels tax
+
+**Holding:** Without clear congressional authorization, Oklahoma cannot enforce a tax whose legal incidence falls on the Tribe or tribal members for Indian-country sales. Under the reviewed statute’s payment, remittance and credit arrangement, incidence falls on the tribal retailer, so the fuel tax is barred in that application.
+
+**Proposition-level authority:** Ginsburg’s Opinion of the Court, joined by all eight other Justices; nine Justices support the fuel-incidence rule and application.
+
+**Limits and questions not reached:** Retailer incidence is the supported construction of payment, remittance and credits, not an express statutory declaration. Hayden-Cartwright authorization was not raised below or in the petition and is not decided. A lawfully shifted non-Indian-incidence tax still requires separate preemption and collection analysis; proposed bills do not establish an enacted replacement.
+
+**Treatment of earlier authority:**
+
+- Moe v. Confederated Salish and Kootenai Tribes; Oklahoma Tax Commission v. Citizen Band Potawatomi Indian Tribe: distinguish immune tribal incidence from valid nonmember taxation and collection.
+- County of Yakima v. Confederated Tribes: applies tax-specific congressional authorization, without transferring one tax’s permission to another.
+- Department of Taxation v. Milhelm Attea & Bros.: preserves reasonable controls for valid nonmember taxes; supplies no tribal-incidence tax authority.
+
+**Operative remedy or transition:** Affirm the bar on the reviewed tribal-retailer-incidence fuel tax; reverse the exemption for the specified off-country-resident tribal wages and remand for ordinary tax law and residence/source predicates. No tax amount, refund, individual residence finding or replacement-tax approval is entered.

@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1993
-**Processed through:** June 30, 1994, after all eleven chunk-8 matters and all 95 OT1993 inventory Court events.
-**Edition:** September 28, 2026
+**Last completed October Term:** 1994
+**Processed through:** June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.
+**Edition:** October 1, 2026
 
 ## Bankruptcy
 
@@ -145,7 +145,7 @@
 **Treatment of earlier authority:**
 
 - Taylor v. Freeland & Kronz, April 21, 1992, decision: distinguishes the Rule 4003(b)/9006(b)(3) exemption-objection limit; preserves its strict operation.
-- Lujan v. National Wildlife Federation, 497 U.S.871 (1990): distinguishes the requirement of a supported post-deadline request; does not confine every qualifying neglect to uncontrollable events.
+- Lujan v. National Wildlife Federation, 497 U.S. 871 (1990): distinguishes the requirement of a supported post-deadline request; does not confine every qualifying neglect to uncontrollable events.
 
 ##### Counsel's conduct is attributed to the creditor
 
@@ -155,8 +155,8 @@
 
 **Treatment of earlier authority:**
 
-- Link v. Wabash Railroad Co., 370 U.S.626 (1962): applies attribution of freely selected counsel's conduct to the client.
-- United States v. Boyle, 469 U.S.241 (1985): applies the rejection of reliance on an agent as an automatic filing excuse.
+- Link v. Wabash Railroad Co., 370 U.S. 626 (1962): applies attribution of freely selected counsel's conduct to the client.
+- United States v. Boyle, 469 U.S. 241 (1985): applies the rejection of reliance on an agent as an automatic filing excuse.
 
 ##### This record supports allowing the late proofs of claim
 
@@ -166,7 +166,7 @@
 
 **Treatment of earlier authority:**
 
-- Link v. Wabash Railroad Co., 370 U.S.626 (1962): applies full attorney attribution while permitting the separate excusability inquiry authorized by this rule.
+- Link v. Wabash Railroad Co., 370 U.S. 626 (1962): applies full attorney attribution while permitting the separate excusability inquiry authorized by this rule.
 
 **Limits and questions not reached:** Rule 9006(b)(2) forbids enlargement under Rules 1007(d), 1017(b)(3), 2003(a) and (d), 7052, 9023 and 9024. Rule 9006(b)(3) permits enlargement only on the conditions of Rules 1006(b)(2), 1017(e), 3002(c), 4003(b), 4004(a), 4007(c), 8002 and 9033. Neither Chapter 7 claims nor Taylor’s exemption-objection deadline gains a general equitable exception. No factor is dispositive: good faith or no prejudice alone is insufficient, and ordinary ignorance or inadvertence ordinarily does not excuse a clear deadline.
 
@@ -185,14 +185,14 @@
 
 **Proposition-level authority:** Thomas’s Opinion of the Court; Stone-Zsela, White, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas (9 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Limits and questions not reached:** Section1322(b)(5) permits cure within a reasonable time and maintenance of payments during the case when the final claim payment falls after the last plan payment. The automatic stay operates independently. Wholly unsecured liens and classification of ancillary deed collateral remain undecided.
+**Limits and questions not reached:** Section 1322(b)(5) permits cure within a reasonable time and maintenance of payments during the case when the final claim payment falls after the last plan payment. The automatic stay operates independently. Wholly unsecured liens and classification of ancillary deed collateral remain undecided.
 
 **Operative remedy or transition:** Affirm rejection of the proposed stripping treatment; other lawful plan treatment remains available.
 
 **Treatment of earlier authority:**
 
-- Butner v. United States, 440 U.S.48: state law identifies the property and contract rights to which federal protection attaches.
-- United States v. Ron Pair Enterprises, Inc., 489 U.S.235: the text of each Bankruptcy Code provision receives independent effect.
+- Butner v. United States, 440 U.S. 48: state law identifies the property and contract rights to which federal protection attaches.
+- United States v. Ron Pair Enterprises, Inc., 489 U.S. 235: the text of each Bankruptcy Code provision receives independent effect.
 - Dewsnup v. Timm, January 15, 1992: Chapter 7 §506(d) rule distinguished; §506(a) valuation is not displaced.
 
 ### Interest on mortgage cure arrearages
@@ -210,7 +210,7 @@
 
 **Treatment of earlier authority:**
 
-- United States v. Ron Pair Enterprises, Inc., 489 U.S.235: statutory interest distinguished from agreement-dependent reasonable fees, costs and charges.
+- United States v. Ron Pair Enterprises, Inc., 489 U.S. 235: statutory interest distinguished from agreement-dependent reasonable fees, costs and charges.
 - Nobelman v. American Savings Bank, June 1, 1993: protected mortgage rights coexist with independent Code provisions; contract silence does not displace §506(b).
 
 ##### Deferred cure payments must preserve present value under the applicable confirmation alternative
@@ -226,7 +226,7 @@
 **Treatment of earlier authority:**
 
 - Nobelman, June 1, 1993: the anti-modification rule and express cure authority retained without erasing the separate confirmation requirement.
-- Ron Pair, 489 U.S.235: distinct Bankruptcy Code provisions receive their own operative effect; the present-value holding rests on §1325(a)(5)(B), not §506(b) alone.
+- Ron Pair, 489 U.S. 235: distinct Bankruptcy Code provisions receive their own operative effect; the present-value holding rests on §1325(a)(5)(B), not §506(b) alone.
 
 ### Foreclosure avoidance and federal value
 
@@ -265,3 +265,87 @@
 **Limits and questions not reached:** The inquiry concerns timely mortgage foreclosure avoidance of real property, not every forced sale. All statutory predicates and transferee protections remain necessary. The allegation of a value above $725,000 against a $433,000 sale price is not a finding. No Durrett percentage or Bundles presumption is adopted.
 
 **Operative remedy or transition:** Both the district-court/private-buyer and Bankruptcy Appellate Panel/Imperial routes are reversed on the categorical value ground and remanded, 5–4. The rejected no-property-interest alternative is not revived. No avoidance, title transfer, refund or fixed recovery is automatic; proved avoidance and recovery requirements and transferee protections remain necessary, without reopening titles outside this timely proceeding.
+
+### Bond execution and bankruptcy restraints
+
+#### [Celotex Corp. v. Edwards](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Celotex_Corp_v_Edwards_merits_1995-04-19.md)
+
+**Docket or dockets:** No. 93-1504.
+**Decided:** April 19, 1995.
+
+##### The operative June injunction reaches this proposed bond enforcement
+
+**Holding:** The June 13, 1991 order expressly continued the §105 restraint and required relief from the issuing bankruptcy court before collection on bonds whose appeals had concluded when the bankruptcy petition was filed. Its coverage reaches the Edwards bond proceeding authorized in May 1992; this conclusion does not depend on an automatic §362 stay, estate ownership of the matured bond, or a finding of contempt.
+
+**Proposition-level authority:** Thomas's June-order coverage portion, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter and Breyer: seven Justices.
+
+**Treatment of earlier authority:**
+
+- Rule 65.1 retains its motion procedure and surety-jurisdiction function; it does not itself answer the effect of another court's applicable injunction.
+- United States v. United Mine Workers, 330 U.S. 258: preserves the distinction between the operative order and objections to its validity; no sanction or culpability finding is imported.
+
+**Limits and questions not reached:** Section 105(a) permits orders, process, or judgments necessary or appropriate to carry out title 11. A provision allowing a party in interest to raise an issue does not preclude the court from acting on its own when necessary or appropriate to enforce or implement orders or rules or prevent abuse of process. This is remedial authority, not an independent subject-matter jurisdiction grant or an override of §157. The June order distinguishes bonds during an ongoing appellate process, which that court regarded as estate property subject to §362, from bonds after a creditor succeeds through an authorized completed appeal and bonds whose appeals ended by the petition date. Its latter two categories require relief from the continued §105 restraint. The Court's coverage holding does not adopt every premise of the first category, decide §362's scope, or find that every completed bond remains estate property.
+
+##### Immediate execution on this bond is related to the Chapter 11 case
+
+**Holding:** Whether the Edwardses may immediately execute against Northbrook on this supersedeas bond is at least related to Celotex's Chapter 11 case under §1334(b). The bond, retained insurance-settlement collateral, and reorganization connection establish actual nonexclusive subject-matter relatedness; this holding does not establish exact depletion, final core authority, the outer limits of relatedness, or an independent jurisdictional grant under §105.
+
+**Proposition-level authority:** Thomas's actual-relatedness portion, joined by O'Connor, Scalia, Kennedy, Souter and Breyer: six Justices; Stone-Zsela does not join.
+
+**Treatment of earlier authority:**
+
+- U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership, November 8, 1994: preserves the distinction between procedural power and unpresented underlying merits; its holding does not independently determine bankruptcy relatedness.
+
+**Limits and questions not reached:** Section 1334(b) grants original but nonexclusive district-court jurisdiction over civil proceedings arising under title 11, arising in a title 11 case, or related to one, notwithstanding an Act of Congress conferring exclusive jurisdiction on a court other than the district courts. It differs from §1334(a)'s original and exclusive jurisdiction over cases under title 11 and the then-applicable §1334(d)'s exclusive jurisdiction, in the district where the case begins or is pending, over the debtor's property wherever located as of commencement and property of the estate. The 1994 amendments do not apply to this bankruptcy commenced in 1990; the later property designation (e), new jury provision, and changed appellate-panel/election provisions supply no rule here.
+
+##### Section 157 permits this interim restraint without a final core determination
+
+**Holding:** In this related proceeding, §157(c)(1)'s restriction on a bankruptcy judge's final noncore adjudication does not deprive that judge of authority to enter this interlocutory restraint preserving the matter for proper determination. That sufficient interim authority defeats the asserted collateral-displacement ground without deciding final core status, all-parties consent, every equitable predicate, or the ultimate propriety and duration of the §105 injunction.
+
+**Proposition-level authority:** Thomas's interim-authority portion, joined by O'Connor, Scalia, Kennedy, Souter and Breyer: six Justices; Stone-Zsela does not join.
+
+**Treatment of earlier authority:**
+
+- United States v. United Mine Workers, 330 U.S. 258: extends its interim-preservation reasoning to this substantial bankruptcy authority question without treating arguable authority as final legality.
+- Connecticut National Bank v. Germain, 503 U.S. 249: preserves distinct statutory functions and qualifying review routes; it does not independently validate the injunction or decide §157 classification.
+- Swint v. Chambers County Commission, March 1, 1995: preserves attention to the actual authorized judicial act; its appellate holding is not a grant of bankruptcy injunction power.
+
+**Limits and questions not reached:** Section 157(a) permits a district court to refer title 11 cases and proceedings arising under title 11, arising in such a case, or related to one to its bankruptcy judges. Under §157(b)(1), referred core proceedings arising under title 11 or in a title 11 case may be heard and determined, with appropriate orders subject to §158 review. The bankruptcy court called its bond-property determination core under §157(b)(2)(A), (G), and (O); that is its classification, not this Court's final adoption. Those clauses concern estate administration; motions to terminate, annul, or modify the automatic stay; and other proceedings affecting liquidation of estate assets or adjustment of debtor-creditor or equity-security-holder relationships, except personal-injury tort and wrongful-death claims. Section 157(b)(3) places the classification question before the bankruptcy judge on the judge's own motion or timely party motion and forbids a noncore classification solely because state law may affect the outcome. It does not make the classification unreviewable.
+
+For a noncore but related proceeding, §157(c)(1) permits hearing and proposed findings and conclusions submitted to the district court; the final order belongs to the district judge after consideration and de novo review of the matters timely and specifically objected to. De novo review is not automatically required for every unobjected proposition. Section 157(c)(2) separately permits district-court referral for hearing, determination, and orders with all parties' consent, subject to §158 review. The record establishes neither consent nor an affirmative refusal; neither is presumed. Section 157(b)(5) requires the district court to order personal-injury tort and wrongful-death claims tried in the district where the bankruptcy is pending or where the claim arose, as the district court where the bankruptcy is pending determines. Section 157(b)(2)(B) includes allowance or disallowance of claims or estate exemptions and estimation for plan confirmation in its core category, but excludes liquidation or estimation of contingent or unliquidated personal-injury tort or wrongful-death claims for distribution. These distinct limits remain intact. No new tort trial or liquidation is authorized here.
+
+##### This still-operative restraint must be challenged through orderly relief and review
+
+**Holding:** The actual §1334(b) relation, sufficient interim §157 authority, substantial support for this applicable restraint, and concrete relief/review mechanism require a challenge through the issuing proceeding and authorized review rather than contrary execution elsewhere while the restraint remains effective. The holding preserves the prior authorities' jurisdictional and frustrated-review reservations and does not validate the injunction's ultimate merits or any contempt sanction.
+
+**Proposition-level authority:** Thomas's qualified collateral-review portion, joined by O'Connor, Scalia, Kennedy, Souter and Breyer: six Justices; Stone-Zsela does not join.
+
+**Treatment of earlier authority:**
+
+- United States v. United Mine Workers, 330 U.S. 258: applies orderly relief and review with substantial-jurisdiction and duration limits; preserves the different consequences for criminal punishment and civil remedies after invalidation.
+- Walker v. City of Birmingham, 388 U.S. 307: applies orderly-challenge reasoning while preserving its transparent-invalidity, frivolous-pretense, and frustrated-timely-review reservations; no announcement of knowing defiance, notice finding, or sanction is imported.
+- Swint v. Chambers County Commission, March 1, 1995: preserves the requirement of an actual authorized review route; ordinary power over one proceeding does not confer appellate power over another court's order.
+
+**Limits and questions not reached:** United Mine Workers permits temporary preservation of a substantial jurisdictional question and expressly excludes a frivolous and insubstantial jurisdictional claim. Its distinct unreversed-order formulation concerns a court with jurisdiction over subject matter and person. Its orders remain operative until expiration or appropriate relief. After invalidation, remedial civil relief falls with an erroneously issued injunction, and still more clearly with an order beyond jurisdiction; criminal punishment may have a different survival rule, subject to independent procedural and remedial objections. Compensation, coercion, and punishment are not interchangeable. This case imposes none of them and finds neither contempt nor knowing personal violation.
+
+Walker preserves its reservation for transparent invalidity or only a frivolous pretense to validity and its different constitutional posture for timely challenge met by delay or frustration. It does not define a universal exception or hold that any objection automatically licenses disregard. No such frustrated timely challenge is established here. Its treatment of Green does not create a general ban on jurisdictional objections. Its clear-notice, announced-defiance, two-day timing, and Alabama expedited-review facts are not imported. The present explicit motion, debtor-burden, and statutory review mechanisms supply the concrete basis for orderly challenge; no unconditional immediate appellate remedy is presumed.
+
+##### The execution authorization must yield while the creditors retain qualified relief and review routes
+
+**Holding:** The contrary execution authorization must be set aside while the §105 restraint remains effective; the creditors may seek relief in the issuing bankruptcy proceeding, where Celotex bears the burden to justify continuation, and use an authorized review route. Section 158 preserves its finality and leave requirements, Germain preserves a separately qualifying §1292 route, and the decision neither dissolves the injunction nor orders permanent restraint or payment of the bond.
+
+**Proposition-level authority:** Thomas's execution-and-review-remedy portion, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter and Breyer: seven Justices.
+
+**Treatment of earlier authority:**
+
+- Connecticut National Bank v. Germain, 503 U.S. 249: applies coexistence of §158(d) and an independently qualifying §1292 route, preserving each route's conditions.
+- United States v. United Mine Workers, 330 U.S. 258: preserves the order's force only while operative and the availability of appropriate appellate or other relief.
+- Walker v. City of Birmingham, 388 U.S. 307: retains the significance of meaningful access to orderly relief; no unconditional immediate-appeal right is inferred.
+
+**Limits and questions not reached:** The issuing bankruptcy court may entertain a request to vacate or modify the restraint; its June order places the burden on Celotex to establish that continuation is warranted. The Court has settled the supplied §1334(b) relation and sufficient interim authority for this collateral posture. Its reservation of direct challenge does not reopen those conclusions as wholly undecided. Remaining lawful coverage questions, final §157 allocation and procedure, ultimate statutory injunction power, particular evidence, and duration remain available through proper proceedings. The lower court's possible avoidance, collateral-contract, and reorganization inquiries are not completed adjudications of avoidance recovery or exact estate loss on this bond.
+
+Under the applicable §158(a), final bankruptcy orders go to the district court for the district where the bankruptcy judge serves, and interlocutory review requires leave: here the Middle District of Florida. Section 158(d) permits Eleventh Circuit review of qualifying final appellate decisions, not immediate circuit review of every interlocutory action. No bankruptcy appellate panel with the necessary institutional and consent predicates is established. Germain preserves a separately qualifying §1292 route from a district court's bankruptcy appellate order. Section 1292(b), when invoked, requires written district-court findings that a controlling question of law presents substantial ground for difference of opinion and that immediate appeal may materially advance termination, application within ten days, and circuit permission; the application itself does not stay proceedings. No finding that these predicates have already been met is made.
+
+Section 157(d) withdrawal of reference is separate. The district court may withdraw for cause on its own motion or timely party motion; withdrawal on timely motion is required when resolution requires the specified consideration of both title 11 and other federal laws regulating organizations or activities affecting interstate commerce. No withdrawal motion or qualifying finding is invented. Ordinary review and withdrawal are not interchangeable.
+
+**Operative remedy or transition:** The bond-execution authorization is reversed and remanded for its removal while the §105 restraint remains effective. The creditors may seek relief in the issuing proceeding, where Celotex must justify continuation, and use qualified review routes. No permanent injunction, dissolution, bond payment, automatic §362 stay for all sureties, estate ownership, contempt or alteration of the tort judgment is ordered.

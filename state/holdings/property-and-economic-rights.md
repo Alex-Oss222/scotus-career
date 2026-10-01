@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1993
-**Processed through:** June 30, 1994, after all eleven chunk-8 matters and all 95 OT1993 inventory Court events.
-**Edition:** September 28, 2026
+**Last completed October Term:** 1994
+**Processed through:** June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.
+**Edition:** October 1, 2026
 
 ## Property and Economic Rights
 
@@ -227,8 +227,8 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Treatment of earlier authority:**
 
-- Russello v. United States, 464 U.S.16 (1983): applied to respect Congress’s different property-forfeiture language; it does not itself decide the claimant’s knowledge or establish an innocent-owner finding.
-- Caplin & Drysdale, Chartered v. United States, 491 U.S.617 (1989): distinguished because its criminal-forfeiture and third-party-transfer provisions differ; its attorney-fee and criminal-forfeiture holdings remain intact.
+- Russello v. United States, 464 U.S. 16 (1983): applied to respect Congress’s different property-forfeiture language; it does not itself decide the claimant’s knowledge or establish an innocent-owner finding.
+- Caplin & Drysdale, Chartered v. United States, 491 U.S. 617 (1989): distinguished because its criminal-forfeiture and third-party-transfer provisions differ; its attorney-fee and criminal-forfeiture holdings remain intact.
 
 ##### Relation back operates after the court determines that forfeiture is authorized
 
@@ -238,8 +238,8 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 **Treatment of earlier authority:**
 
-- United States v. Stowell, 133 U.S.1 (1890): applied for the requirement of condemnation to perfect forfeiture title and its retrospective effect; relation back survives but does not bypass the statutory defense.
-- Caplin & Drysdale, Chartered v. United States, 491 U.S.617 (1989): distinguished as a different statutory scheme; no weakening of valid relation back after authorized forfeiture follows.
+- United States v. Stowell, 133 U.S. 1 (1890): applied for the requirement of condemnation to perfect forfeiture title and its retrospective effect; relation back survives but does not bypass the statutory defense.
+- Caplin & Drysdale, Chartered v. United States, 491 U.S. 617 (1989): distinguished as a different statutory scheme; no weakening of valid relation back after authorized forfeiture follows.
 
 **Limits and questions not reached:** The precise knowledge date, general knowledge-versus-consent construction, tracing, actual innocence, unpresented estoppel and a constitutional guarantee remain undecided. Section 881(a)(7)’s separate defense is not construed. Traditional relation back independently preserves the defense opportunity, so no retroactivity holding for §881(h)’s 1984 enactment is necessary.
 
@@ -360,6 +360,29 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 
 For Nebraska v. Wyoming, April 20, 1993, No. 108, Original, concerning enforcement, modification and summary judgment in original actions, see **Federal Courts — Enforcement, modification and summary judgment in original actions**.
 
+#### [Nebraska v. Wyoming](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Nebraska_v_Wyoming_original_exceptions_1995-05-30.md)
+
+**Docket or dockets:** No. 108, Original.
+**Decided:** May 30, 1995.
+
+For the other questions in Nebraska v. Wyoming, decided May 30, 1995, No. 108, Original. see Federal Courts — Enforcement, modification and summary judgment in original actions (Groundwater and equitable connection; Downstream and habitat evidence; Horse Creek and supporting conditions; Federal administration as decree predicate; Exact leave and next stage).
+
+##### Settled allocation and discrete defenses
+
+**Holding:** The decree's 75/25 natural-flow allocation cannot be replaced through these amendments by a mass beneficial-use ceiling. Reject the First Counterclaim and First Cross-Claim insofar as they seek that ceiling, while preserving discrete geographic, priority, unlawful-call and relevant waste defenses not dependent on it.
+
+**Proposition-level authority:** Souter's Opinion of the Court; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer directly join this proposition.
+
+**Limits and questions not reached:** The decree's geography and priorities remain operative. Its settled allocation cannot be reopened merely to obtain quantified certainty.
+
+**Treatment of earlier authority:**
+
+- Nebraska v. Wyoming, 325 U.S. 589: preserves allocation, geography and priority terms.
+- Nebraska v. Wyoming, 345 U.S. 981: preserves the decree as modified in 1953.
+- Nebraska v. Wyoming, April 20, 1993: applies distinct enforcement and modification burdens; modification requires clear and convincing real and substantial injury. Its Inland Lakes acquiescence alternative is not generalized here.
+
+**Operative remedy or transition:** Overrule Wyoming's four exceptions unanimously and the United States' and Nebraska's exceptions to the Fourth Cross-Claim 8–1 (Thomas would sustain those two). Allow Nebraska Counts I–III and Wyoming Second–Fourth Counterclaims and Second–Fifth Cross-Claims only within the admitted scope; deny Nebraska Count IV without prejudice. Reject the First Counterclaim and First Cross-Claim only insofar as they seek the mass ceiling, preserving discrete below-Tri-State calls, priority bypasses and relevant waste defenses. Return the Glendo enforcement/modification, Laramie changed-condition and carriage-loss theories for proof before the Master. No injury, breach, new allocation, release quantity, revised formula, seasonal award, damages, priority or operating injunction is adjudicated.
+
 ### Military-service redemption tolling
 
 #### Conroy v. Aniskoff, 507 U.S. 511 (1993)
@@ -394,16 +417,16 @@ For Nebraska v. Wyoming, April 20, 1993, No. 108, Original, concerning enforceme
 
 ##### Fixed Alabama baseline under the supplemental decree
 
-**Holding:** For determining Alabama's Submerged Lands Act grant, the complete paragraph3 baseline incorporated from the United States–Alabama joint submission is fixed on February22,1993 and thereafter does not move with the coast. The whole Mississippi Sound remains state inland waters under the antecedent decrees; each party bears its own costs, and the Court retains authority to implement and supplement the decree and the parties' rights.
+**Holding:** For determining Alabama's Submerged Lands Act grant, the complete paragraph 3 baseline incorporated from the United States–Alabama joint submission is fixed on February 22, 1993 and thereafter does not move with the coast. The whole Mississippi Sound remains state inland waters under the antecedent decrees; each party bears its own costs, and the Court retains authority to implement and supplement the decree and the parties' rights.
 
-**Proposition-level authority:** The Court's unsigned supplemental decree, paragraphs1–6, entered in its continuing original action. This is binding decretal relief for the parties; it announces no new general coastal-ownership test or opinion rationale.
+**Proposition-level authority:** The Court's unsigned supplemental decree, paragraphs 1–6, entered in its continuing original action. This is binding decretal relief for the parties; it announces no new general coastal-ownership test or opinion rationale.
 
 **Treatment of earlier authority:**
 
-- United States v. Louisiana, 363 U.S.1 (1960), and decree, 364 U.S.502 (1960): implemented through the coastline description used to delimit the Submerged Lands Act grant.
-- United States v. Louisiana (Alabama and Mississippi Boundary Case), 470 U.S.93 (1985): preserved; the whole Sound's historic inland-water status is not reopened.
-- United States v. Louisiana, 485 U.S.88 (1988): preserved; the Mississippi coastline determination is not relitigated.
-- United States v. Louisiana, 498 U.S.9 (1990): supplemented under retained jurisdiction; previously fixed baseline portions retain their force, and the remaining specified Alabama baseline becomes fixed.
+- United States v. Louisiana, 363 U.S. 1 (1960), and decree, 364 U.S. 502 (1960): implemented through the coastline description used to delimit the Submerged Lands Act grant.
+- United States v. Louisiana (Alabama and Mississippi Boundary Case), 470 U.S. 93 (1985): preserved; the whole Sound's historic inland-water status is not reopened.
+- United States v. Louisiana, 485 U.S. 88 (1988): preserved; the Mississippi coastline determination is not relitigated.
+- United States v. Louisiana, 498 U.S. 9 (1990): supplemented under retained jurisdiction; previously fixed baseline portions retain their force, and the remaining specified Alabama baseline becomes fixed.
 
 **Limits and questions not reached:** The decree implements antecedent inland-water and coastal determinations. It redraws no interstate boundary and creates no general coastal-ownership test or consent-based jurisdiction. The public unsigned instrument discloses no individual vote tally.
 
@@ -428,8 +451,8 @@ For Nebraska v. Wyoming, April 20, 1993, No. 108, Original, concerning enforceme
 
 **Treatment of earlier authority:**
 
-- Shomberg v. United States, 348 U.S.540: applies the overriding effect of notwithstanding language.
-- Rainier View Associates v. United States, 848 F.2d988: rejects the lower-court exclusive-factor construction; no Supreme Court precedent overruled.
+- Shomberg v. United States, 348 U.S. 540: applies the overriding effect of notwithstanding language.
+- Rainier View Associates v. United States, 848 F.2d 988: rejects the lower-court exclusive-factor construction; no Supreme Court precedent overruled.
 
 ### Pension withdrawal liability and takings
 
@@ -452,9 +475,9 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 
 **Treatment of earlier authority:**
 
-- Connolly, 475 U.S.211 — as-applied pension takings analysis followed.
-- Penn Central, 438 U.S.104 — economic impact, reasonable expectations and governmental character considered together.
-- Village of Euclid, 272 U.S.365 — diminution alone insufficient; no numerical safe harbor derived.
+- Connolly, 475 U.S. 211 — as-applied pension takings analysis followed.
+- Penn Central, 438 U.S. 104 — economic impact, reasonable expectations and governmental character considered together.
+- Village of Euclid, 272 U.S. 365 — diminution alone insufficient; no numerical safe harbor derived.
 
 ### Civil real-property forfeiture
 
@@ -540,3 +563,90 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 **Limits and questions not reached:** No conveyance occurred and no completed taking or compensation amount is determined. The separate 15-percent open-space rule and the constitutionality and unadjudicated consequences of the variance procedure remain outside decision; failure to propose an alternative is not made a forfeiture rule. Ordinary zoning, monetary exactions and generally applicable legislative conditions remain reserved.
 
 **Operative remedy or transition:** The Oregon Supreme Court's judgment sustaining both challenged dedications is reversed and the case remanded. If the City retains a dedication demand, it must supply the required constitutional relationship. Lawful regulation, alternatives, a justified dedication and compensated acquisition remain available. No unconditional permit, completed-taking finding or compensation is ordered; the separate open-space rule and variance-procedure constitutionality are not adjudicated.
+
+### Existing businesses and prospective land-use regulation
+
+#### [Ambassador Books & Video, Inc. v. City of Little Rock](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Ambassador_Books_Video_Inc_v_City_of_Little_Rock_merits_1995-03-20.md)
+
+**Docket or dockets:** No. 93-1886.
+**Decided:** March 20, 1995.
+
+For the other questions in this decision, see First Amendment — Adult-business zoning and alternative locations (The enacted zoning measure satisfies the secondary-effects inquiry on this record; The established relocation opportunities defeat the cost-only alternatives objection); Constitutional Structure — Legislative punishment and land-use regulation (The ordinance is not established as legislative punishment).
+
+##### Existing-business status does not create an absolute due-process exemption
+
+**Holding:** Substantive due process does not categorically prevent a reasonably related land-use rule from applying to an established business after a reasonable transition. On this record, the three-year period and authority to grant a reasonable extension when necessary to prevent undue financial hardship defeat the claimed absolute right to remain, without creating a universal three-year constitutional safe harbor.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), Part III, unanimous.
+
+**Treatment of earlier authority:**
+
+- Village of Euclid v. Ambler Realty Co., 272 U.S. 365 — ordinary land-use rules remain subject to the prohibition on arbitrary and unreasonable regulation unrelated to legitimate land-use concerns.
+- Renton — First Amendment requirements are additional, not replaced by ordinary land-use rationality.
+
+**Limits and questions not reached:** Section 17-215(a) permits an existing business to continue for three years and permits a reasonable extension when necessary to prevent undue financial hardship. Extension is neither automatic nor forbidden; no application or denial is found. The trial’s assessment concerns a reasonable period in which the businesses could be expected to recoup investment, not a finding of actual full recovery, absence of loss, or payment of compensation. The present takings judgment rejects only the categorical existing-business/relocation contention. It decides no independent developed parcel-specific compensation theory, waiver, state-procedure compliance, preclusion, or guaranteed availability of a later action.
+
+##### Relocation alone does not establish the presented categorical taking
+
+**Holding:** Established-business status and the requirement to relocate a particular use do not, by themselves, establish a compensable taking. The Court rejects that categorical contention only: Lucas’s established complete-deprivation rule and Penn Central’s contextual inquiry for partial deprivation remain the substantive rules for a properly presented, factually developed claim, without any ruling on later procedure or preclusion.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), Part IV, unanimous.
+
+**Treatment of earlier authority:**
+
+- Lucas v. South Carolina Coastal Council (June 29, 1992) — complete deprivation must be established; the State must substantiate any background title or nuisance limitation, and a new harm declaration alone is insufficient.
+- Penn Central Transportation Co. v. New York City, 438 U.S. 104 — partial-deprivation claims retain contextual analysis.
+- Concrete Pipe & Products of California, Inc. v. Construction Laborers Pension Trust (June 14, 1993) — economic impact, reasonable expectations, and governmental character remain interrelated; no numerical-loss safe harbor is created.
+- Dolan v. City of Tigard (June 24, 1994) — an individualized dedication condition is not presented by this locational rule.
+
+**Operative remedy or transition:** Dismissal and denial of preliminary relief are affirmed: 7–2 on speech and unanimously on the bounded due-process, categorical-taking and attainder claims. The ordinance remains effective. No parcel-specific compensation, transition extension or valuation is adjudicated; no later action is guaranteed, reopened or exempted from ordinary procedural defenses.
+
+### Plant-variety protection and saved seed
+
+#### [Asgrow Seed Co. v. Winterboer](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Asgrow_Seed_Co_v_Winterboer_merits_1995-01-18.md)
+
+**Docket or dockets:** No. 92-2038.
+**Decided:** January 18, 1995.
+
+##### Saved seed means seed retained for the farmer's own planting
+
+**Holding:** Under former 7 U.S.C. §2543, a farmer satisfying the statutory conditions may sell for reproductive purposes only seed genuinely saved for replanting the farmer's own acreage; intentional multiplication for reproductive marketing does not become exempt merely because the seller primarily grows food or feed crops. Qualifying later disposition of genuinely retained seed remains possible when planting plans change, without a fixed percentage or mechanical ceiling based on the previous year's acreage.
+
+**Proposition-level authority:** Opinion of the Court (Scalia), joined by O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer: seven Justices, including the application that these sales fail the own-planting condition.
+
+**Treatment of earlier authority:**
+
+- Brown v. Gardner, decided December 12, 1994: follows its respect for the enacted condition in statutory context, without importing the veterans statute's protective construction or inventing a numerical PVPA condition.
+
+**Limits and questions not reached:** Saved seed must be produced by the person from seed obtained, or descended from seed obtained, with the owner's authority for seeding purposes. Seller and purchaser must each have as their primary farming occupation growing crops for sale for nonreproductive purposes; the sale must comply with applicable state seed-sale laws. The retained §2541(4) restriction on using the variety to produce, rather than develop, a hybrid or different variety remains separate. Bona fide nonreproductive sales in customary nonreproductive channels retain their independent statutory protection; a purchaser who diverts that seed to planting is deemed to have notice under §2567 that the diversion infringes. That diversion provision is distinct from §2541(6)'s notice claim. No general ruling on a buyer's later authorized-source lineage is adopted.
+
+**Current-force modification:** Pub. L. 103-349 §10 deletes the former farmer-to-farmer sales proviso for the amended regime from April 4, 1995. Under §14(a), varieties with certificates issued before that date and applications pending then retain former law except as §14 provides. Section 14(b) permits refiling a pending application under amended eligibility and protection terms while retaining its original date for §42; §14(c) requires notice identifying amended protection and retains §128 sanctions for false or misleading claims or labels. Asgrow's former-law holding and adjudicated transactions remain undisturbed. No refiling or transition exception is found, and no judicial construction of the amended saved-seed text is supplied.
+
+**Later-authority backlinks:** [Plant Variety Protection Act Amendments, Pub. L. 103-349, 108 Stat. 3136, effective April 4, 1995](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Plant_Variety_Protection_Act_Amendments_statutory_effectiveness_1995-04-04.md): §§10, 14–15, amended farmer-sales provision and former-law preservation. Section 9's separate contract-producer clause covers listed lawn, turf, forage-grass, alfalfa and clover crops, not these soybeans; this source creates no judicial holding.
+
+##### Marketing does not require an advertising or distribution apparatus
+
+**Holding:** Former §2541(3)'s multiplication as a step in marketing for growing purposes includes multiplication directed toward holding protected seed forth for sale and the preparatory activities of selling; extensive advertising, intermediaries, or coordinated merchandising are not required. The proviso's primary-farming-occupation condition concerns the farmer's business as a whole, not a judicial rule allowing reproductive sale of less than half of each protected variety's crop, and that occupation condition does not dispense with the distinct saved-seed limitation.
+
+**Proposition-level authority:** Opinion of the Court (Scalia), joined by O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer: seven Justices, including the application that these sales fail the own-planting condition.
+
+**Treatment of earlier authority:**
+
+- Brown v. Gardner, decided December 12, 1994: applies contextual attention to the enacted terms rather than an additional condition; its separate VA-benefits rule remains unchanged.
+
+##### The former Act governs these transactions
+
+**Holding:** The 1994 Plant Variety Protection Act amendments do not govern these transactions or supply the meaning of the former saved-seed provision: Pub. L. 103-349 §15 makes the amendments effective April 4, 1995, after this decision, and §14 preserves former-law treatment for specified older certificates and pending applications subject to its express exceptions. The later deletion of the farmer-sales proviso therefore creates no retrospective liability here and does not establish that every later sale involving an older protected variety loses former-law treatment.
+
+**Proposition-level authority:** Opinion of the Court (Scalia), joined by O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer: seven Justices, including the application that these sales fail the own-planting condition.
+
+**Treatment of earlier authority:**
+
+- Landgraf v. USI Film Products, 511 U.S. 244 (1994): applies Congress's express temporal direction as the starting point; does not convert Scalia, Kennedy, or Thomas into joiners of its broader general framework.
+- Rivers v. Roadway Express, Inc., 511 U.S. 298 (1994): preserves the separation of later legislative change from the law governing completed conduct; the new amendment is not a conclusive interpretation of old text.
+
+**Limits and questions not reached:** Section 14(a), except as otherwise provided in §14, preserves prior law for varieties with certificates issued before April 4, 1995 and applications pending then. Section 14(b) permits refiling a pending application on or after that date under amended eligibility and protection terms, while §42 uses the original filing date. Section 14(c) requires a notice claiming amended protection to identify that protection and applies §128 sanctions to false or misleading claims or labels. No relevant refiling or transition exception is found.
+
+The seven-Justice Court opinion does not decide whether a sale actually authorized by §2543 must nevertheless satisfy §2541(6), because these sales fail the saved-seed condition. It makes no separate notice-infringement finding or damages award. Section 2541 concerns unauthorized acts in the United States or regulated or affected commerce, before protection expires but after certificate issuance or distribution with §2567 notice, subject to the subchapter's exceptions. Section 2541(6) concerns dispensing propagable protected material without the protected-variety notice under which it was received; failure of the saved-seed defense alone does not establish those elements. Former §2567 permits owners to give public notice by associating a label with seed or affixing it to its container or the variety, stating that unauthorized propagation or seed multiplication is prohibited and, after the certificate issues, adding a protected-variety designation. When an owner-authorized distribution reaches the infringer without that marking, the owner cannot recover damages unless the infringer has actual awareness that propagation is prohibited or the variety is protected; damages then extend only to infringement after such notice. For both damages and an injunction, a court may be lenient concerning disposal of material acquired in good faith through acts before such notice. These are reserved remedial conditions, not findings of marking, actual awareness, good faith, or entitlement to leniency in this case. Actual relief and precise lawful injunction implementation remain for the receiving courts. The adjudicated own-planting failure is not reopened by that limited return.
+
+**Operative remedy or transition:** The Federal Circuit is reversed, 8–1. The seven-Justice conclusion that these sales fail the saved-seed condition is not reopened on return; unresolved notice elements, damages and lawful injunction implementation remain. No separate notice-liability finding or monetary award is made.

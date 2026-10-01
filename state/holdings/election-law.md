@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1993
-**Processed through:** June 30, 1994, after all eleven chunk-8 matters and all 95 OT1993 inventory Court events.
-**Edition:** September 28, 2026
+**Last completed October Term:** 1994
+**Processed through:** June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.
+**Edition:** October 1, 2026
 
 ## Election Law
 
@@ -193,8 +193,8 @@ For standing and APA review in Franklin v. Massachusetts, June 26, 1992, No. 91-
 
 **Treatment of earlier authority:**
 
-- Scott v. Germano, 381 U.S.407 (1965): applied to both legislative and congressional redistricting through state courts; its timely-action condition and reserve federal jurisdiction remain.
-- Reynolds v. Sims, 377 U.S.533 (1964): applied for primary state responsibility and the obligation to remedy unconstitutional apportionment; population-equality requirements are unchanged.
+- Scott v. Germano, 381 U.S. 407 (1965): applied to both legislative and congressional redistricting through state courts; its timely-action condition and reserve federal jurisdiction remain.
+- Reynolds v. Sims, 377 U.S. 533 (1964): applied for primary state responsibility and the obligation to remedy unconstitutional apportionment; population-equality requirements are unchanged.
 
 ##### A superseding state judgment must receive legal effect
 
@@ -204,8 +204,8 @@ For standing and APA review in Franklin v. Massachusetts, June 26, 1992, No. 91-
 
 **Treatment of earlier authority:**
 
-- Atlantic Coast Line Railroad Co. v. Brotherhood of Locomotive Engineers, 398 U.S.281 (1970): applied for respect for state judgments and the federal-state judicial relationship; no enlarged preclusion rule adopted.
-- Wise v. Lipscomb, 437 U.S.535 (1978): applied for the need to evaluate the legally operative replacement before federal remedial displacement.
+- Atlantic Coast Line Railroad Co. v. Brotherhood of Locomotive Engineers, 398 U.S. 281 (1970): applied for respect for state judgments and the federal-state judicial relationship; no enlarged preclusion rule adopted.
+- Wise v. Lipscomb, 437 U.S. 535 (1978): applied for the need to evaluate the legally operative replacement before federal remedial displacement.
 
 ##### Fragmentation claims require proof of the causal voting conditions
 
@@ -215,7 +215,7 @@ For standing and APA review in Franklin v. Massachusetts, June 26, 1992, No. 91-
 
 **Treatment of earlier authority:**
 
-- Thornburg v. Gingles, 478 U.S.30 (1986): extended from multimember dilution to the single-member fragmentation claim at issue; its causal prerequisites and totality inquiry remain distinct, and its influence-only reservation remains open.
+- Thornburg v. Gingles, 478 U.S. 30 (1986): extended from multimember dilution to the single-member fragmentation claim at issue; its causal prerequisites and totality inquiry remain distinct, and its influence-only reservation remains open.
 
 **Limits and questions not reached:** Gingles prerequisites are necessary, not sufficient; the totality inquiry remains. No proportional representation, mandatory statistical method, filing-date priority or enlarged party-preclusion rule is adopted. Coalition permissibility is assumed; influence claims and population denominator remain open.
 
@@ -242,14 +242,95 @@ For the other question-level holdings in Shaw v. Reno, June 28, 1993, No. 92-357
 
 **Treatment of earlier authority:**
 
-- United Jewish Organizations v. Carey, 430 U.S.144: its fractured reasoning supports a limited distinction, not a comprehensive controlling test or a statewide-white-representation defense.
-- Wright v. Rockefeller, 376 U.S.52: distinguished; racial purpose was not established there, so it did not decide the present assumed-purpose question.
-- City of Richmond v. Croson, 488 U.S.469, and Shelley v. Kraemer, 334 U.S.1: personal equality retained; the Court declines to equate territorial design alone with Croson’s racial allocation of opportunities.
-- Anderson v. Martin, 375 U.S.399: official racial ballot labeling remains prohibited without proof that an election winner changed.
-- Gomillion v. Lightfoot, 364 U.S.339: racial municipal disenfranchisement remains prohibited; Whittaker’s broader concurrence is not adopted as a rule covering every racial district adjustment.
-- White v. Regester, 412 U.S.755, and McLaurin v. Oklahoma State Regents, 339 U.S.637: impaired participation may be unconstitutional despite formal access; no universal downstream-loss requirement.
-- Conley v. Gibson, 355 U.S.41; Leatherman, March 3, 1993: ordinary notice pleading retained, no demand for expert proof or a replacement map.
+- United Jewish Organizations v. Carey, 430 U.S. 144: its fractured reasoning supports a limited distinction, not a comprehensive controlling test or a statewide-white-representation defense.
+- Wright v. Rockefeller, 376 U.S. 52: distinguished; racial purpose was not established there, so it did not decide the present assumed-purpose question.
+- City of Richmond v. Croson, 488 U.S. 469, and Shelley v. Kraemer, 334 U.S. 1: personal equality retained; the Court declines to equate territorial design alone with Croson’s racial allocation of opportunities.
+- Anderson v. Martin, 375 U.S. 399: official racial ballot labeling remains prohibited without proof that an election winner changed.
+- Gomillion v. Lightfoot, 364 U.S. 339: racial municipal disenfranchisement remains prohibited; Whittaker’s broader concurrence is not adopted as a rule covering every racial district adjustment.
+- White v. Regester, 412 U.S. 755, and McLaurin v. Oklahoma State Regents, 339 U.S. 637: impaired participation may be unconstitutional despite formal access; no universal downstream-loss requirement.
+- Conley v. Gibson, 355 U.S. 41; Leatherman, March 3, 1993: ordinary notice pleading retained, no demand for expert proof or a replacement map.
 - Growe and Voinovich: statutory prerequisites, state primacy and unresolved coalition/influence questions remain distinct; no additional constitutional-injury gate imposed on § 2.
+
+#### [Johnson v. Miller (Miller v. Johnson / Abrams v. Johnson / United States v. Johnson)](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Miller_and_consolidated_merits_1995-06-29.md)
+
+**Docket or dockets:** Nos. 94-631; 94-797; 94-929.
+**Decided:** June 29, 1995.
+
+**Companion or consolidated matters:** The appellate alignment is Johnson v. Miller; the three docket aliases identify one constitutional challenge and one reviewed judgment for Georgia.
+
+For the other questions in Johnson v. Miller (Miller v. Johnson / Abrams v. Johnson / United States v. Johnson), decided June 29, 1995, Nos. 94-631; 94-797; 94-929. see Federal Courts — Standing and representation injury (Personal exposure and standing are distinct from success on the merits); Federal Courts — Direct review of three-judge merits judgments (The merits denial of an injunction is directly reviewable).
+
+##### Racial predominance alone does not establish the asserted constitutional violation
+
+**Holding:** Predominant racial consideration in drawing a common territorial constituency, even when ordinary districting criteria are subordinated, does not by itself establish the asserted equal-protection deprivation or trigger strict scrutiny. An independently cognizable deprivation remains governed by its own elements, burdens, justification requirements and remedy; it need not arise from a second governmental act or produce a later loss.
+
+**Proposition-level authority:** Stone, Part II, joined by Stevens, Souter, Ginsburg and Breyer: five votes, applying Shaw.
+
+**Limits and questions not reached:** Actual exclusion, intentional dilution, unequal participation, inferior civic status and other recognized wrongs retain their own elements. The Court neither applies rational-basis review to a conceded racial burden nor immunizes policies labeled inclusive.
+
+**Treatment of earlier authority:**
+
+- Shaw v. Reno: applies its territorial-design rule and independent-injury qualification; the rule is retained despite the dissent’s express proposal to replace it.
+- Gomillion v. Lightfoot: preserves review of boundaries that themselves accomplish racial exclusion.
+- Richmond v. J.A. Croson Co. and Adarand Constructors v. Peña: distinguished by the operative allocation of opportunities; their own governing standards remain intact.
+
+##### The asserted sorting, status and representation inferences do not establish a distinct deprivation here
+
+**Holding:** A status or participation injury can be complete when government itself imposes unequal racial treatment; no additional monetary loss, electoral defeat or later denial of service is necessary. But predominant composition of this shared electorate does not alone establish imposed political beliefs, racial ineligibility, inferior civic status or a representative legally responsible only to one race, and these asserted inferences therefore do not establish a distinct violation on this record.
+
+**Proposition-level authority:** Stone, Part III, joined by Stevens, Souter, Ginsburg and Breyer: five votes.
+
+**Limits and questions not reached:** A discriminatory participation or constituent-service practice requires its own examination; no such practice is established and no general entitlement to favorable political attention is created. Gingles's statutory proof is not subject to a new constitutional-injury gate.
+
+**Treatment of earlier authority:**
+
+- Anderson v. Martin: preserves protection against official racial electoral treatment without requiring a changed winner.
+- McLaurin v. Oklahoma State Regents and White v. Regester: preserve meaningful equality and participation beyond formal eligibility; no comparable operative restriction is established here.
+- Thornburg v. Gingles: preserves claim-specific use of voting evidence, not racial stereotyping or an added constitutional-injury gate for statutory claims.
+
+##### Absence of federal compulsion does not itself prohibit voluntary inclusion
+
+**Holding:** A State’s otherwise lawful consideration of racial conditions to improve electoral opportunity is not unconstitutional merely because no prior adjudication or federal statute requires the precise district chosen. This negative proposition leaves every independent constitutional and statutory restriction intact and creates neither a duty to maximize majority-minority districts nor a right to proportional officeholding.
+
+**Proposition-level authority:** Stone, Part IV, joined by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: nine votes for the limited permission-versus-compulsion proposition. Only Stone, Stevens, Souter, Ginsburg and Breyer conclude that this plan survives the asserted constitutional challenge.
+
+**Limits and questions not reached:** All nine adopt only the absence-of-compulsion negative proposition; the plan's survival has five votes. No finding that this plan achieved inclusion or a newly proved remedial purpose follows. Sections 2 and 5 keep their distinct elements and channels, and no federal administrative action is set aside.
+
+**Treatment of earlier authority:**
+
+- Voinovich v. Quilter: applies the distinction between lawful state choice and federal obligation.
+- Johnson v. De Grandy: retains the no-maximization rule and claim-specific totality inquiry, without proportionality as a safe harbor.
+- Beer v. United States and City of Pleasant Grove v. United States: preserve distinct nonretrogression and discriminatory-purpose requirements.
+- Morris v. Gressette: preserves restrictions on reviewing federal preclearance determinations, distinct from section 14(b)’s designated channel; this judgment sets aside no federal administrative action.
+
+##### District shape is evidence, not a threshold requirement
+
+**Holding:** Bizarre shape is not a necessary gateway to an otherwise cognizable constitutional districting claim, and unusual shape does not itself prove the violation. Direct and circumstantial evidence may establish the facts material to the particular claim, subject to its own elements and proof requirements.
+
+**Proposition-level authority:** Stone, Part V-A, joined by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: nine votes at this evidentiary level; they disagree about the substantive effect of proved predominance.
+
+**Limits and questions not reached:** Purpose evidence can include shape, demographics, statements, instructions, departures from ordinary criteria and actual operation, with supported alternatives considered. No universal compactness cutoff, expert report, commissioned study or replacement map is required; any comparator or proof required by the actual claim remains necessary.
+
+**Treatment of earlier authority:**
+
+- Gomillion v. Lightfoot: treats geography as evidence of an operative constitutional wrong, not a universal shape test.
+- Wright v. Rockefeller: distinguished because this case accepts predominant racial purpose rather than finding it unproved.
+- Shaw v. Reno: preserves ordinary pleading and claim-specific proof without an aesthetic threshold.
+
+##### The supported predominance finding is accepted without dictating its legal consequence
+
+**Holding:** Trial findings concerning districting purpose receive ordinary clear-error review, while the legal consequence of those findings is decided separately. The supported finding that race predominated and traditional criteria were subordinated is accepted here; no supported basis for setting it aside is supplied.
+
+**Proposition-level authority:** Stone, Part V-B, joined by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: nine votes on acceptance and review of the finding; the constitutional consequence divides 5–4 as stated above.
+
+**Limits and questions not reached:** Acceptance of racial predominance does not establish every constitutional element. The conditional statutory-compliance defense discussion, although joined on its hypothesis by all nine, is nonessential to the judgment and supplies no independent alternative holding, scrutiny trigger or invalidation of DOJ action.
+
+**Treatment of earlier authority:**
+
+- Anderson v. Bessemer City: applies ordinary clear-error review to the supported factual finding.
+- Shaw v. Reno: controls the distinct legal consequence; changing an assumed predicate into an accepted finding does not itself displace the rule.
+
+**Operative remedy or transition:** Affirm the three-judge district court's judgment for Georgia and denial of injunctive relief in Nos. 94-631, 94-797 and 94-929, without remand. No injunction or redrawing order is unwound and no new injury inquiry, map order, election cancellation or retained supervision is imposed. The judgment does not certify the entire plan or adjudicate separate claims against federal officials.
 
 ### Voting Rights Act comparisons and unequal opportunity
 

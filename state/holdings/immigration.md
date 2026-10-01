@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1993
-**Processed through:** June 30, 1994, after all eleven chunk-8 matters and all 95 OT1993 inventory Court events.
-**Edition:** September 28, 2026
+**Last completed October Term:** 1994
+**Processed through:** June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.
+**Edition:** October 1, 2026
 
 ## Immigration
 
@@ -97,9 +97,9 @@
 
 **Treatment of earlier authority:**
 
-- Carlson v. Landon, 342 U.S.524 (1952): applies discretion bounded by the immigration statute; it does not authorize indefinite custody.
+- Carlson v. Landon, 342 U.S. 524 (1952): applies discretion bounded by the immigration statute; it does not authorize indefinite custody.
 - National Center for Immigrants' Rights, December 16, 1991, decision: applies general immigration-release authority with preserved individual safeguards; does not enlarge that decision into universal detention authority.
-- United States v. Salerno, 481 U.S.739 (1987): applies facial-review limits to the whole-regulation remedy.
+- United States v. Salerno, 481 U.S. 739 (1987): applies facial-review limits to the whole-regulation remedy.
 
 ##### The facial substantive-due-process challenge fails
 
@@ -109,9 +109,9 @@
 
 **Treatment of earlier authority:**
 
-- Schall v. Martin, 467 U.S.253 (1984): applies the distinction between protective juvenile custody and punishment.
-- Parham v. J. R., 442 U.S.584 (1979): applies the special circumstances of juvenile care; does not extinguish a child's liberty interest.
-- Youngberg v. Romeo, 457 U.S.307 (1982): preserves constitutional limits on institutional care.
+- Schall v. Martin, 467 U.S. 253 (1984): applies the distinction between protective juvenile custody and punishment.
+- Parham v. J. R., 442 U.S. 584 (1979): applies the special circumstances of juvenile care; does not extinguish a child's liberty interest.
+- Youngberg v. Romeo, 457 U.S. 307 (1982): preserves constitutional limits on institutional care.
 - Foucha v. Louisiana, May 18, 1992, decision: distinguishes psychiatric confinement after its predicate ends; no universal custody test is inferred.
 
 ##### Request-based review is not facially inadequate
@@ -122,8 +122,8 @@
 
 **Treatment of earlier authority:**
 
-- Fare v. Michael C., 442 U.S.707 (1979): applies the recognition that juveniles can make a knowing waiver; no universal finding of comprehension follows.
-- The Japanese Immigrant Case, 189 U.S.86 (1903): applies aliens' entitlement to due process in deportation proceedings.
+- Fare v. Michael C., 442 U.S. 707 (1979): applies the recognition that juveniles can make a knowing waiver; no universal finding of comprehension follows.
+- The Japanese Immigrant Case, 189 U.S. 86 (1903): applies aliens' entitlement to due process in deportation proceedings.
 
 ##### The challenged classifications do not establish facial unequal treatment
 
@@ -133,7 +133,7 @@
 
 **Treatment of earlier authority:**
 
-- Schall v. Martin, 467 U.S.253 (1984): applies the legitimate relevance of protective care in juvenile custody; no general exemption from equal protection follows.
+- Schall v. Martin, 467 U.S. 253 (1984): applies the legitimate relevance of protective care in juvenile custody; no general exemption from equal protection follows.
 
 **Limits and questions not reached:** Subsection (b)(1) requires release in order of preference to a nondetained parent, legal guardian, or adult brother, sister, aunt, uncle or grandparent unless detention is required to secure timely appearance before the Service or immigration court, or ensure the juvenile's safety or that of others. If the only listed custodian is detained, (b)(2) provides discretionary case-by-case consideration of simultaneous release. Under (b)(3), a parent or guardian detained or outside the United States may designate another capable and willing person by sworn affidavit before an immigration or consular officer; that person must agree to care for the child and ensure presence at all future proceedings. Subsection (b)(4) permits other agreeing adult custodians only in unusual and compelling circumstances, at the district director's or chief patrol agent's discretion. These are distinct release avenues, not one undifferentiated exception.
 
@@ -150,28 +150,51 @@
 
 ##### Section 243(h) does not govern this offshore return operation
 
-**Holding:** Section243(h)’s restriction on deporting or returning an alien to threatened persecution does not govern the challenged interdiction and repatriation beyond the territorial sea. The 1980 removal of the words within the United States does not extend this domestic immigration provision to the coordinated offshore operation.
+**Holding:** Section 243(h)’s restriction on deporting or returning an alien to threatened persecution does not govern the challenged interdiction and repatriation beyond the territorial sea. The 1980 removal of the words within the United States does not extend this domestic immigration provision to the coordinated offshore operation.
 
 **Proposition-level authority:** Stevens’s Opinion of the Court, Section 243(h) does not govern this offshore return operation portion; White, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct proposition-level majority; no Marks aggregation.
 
 **Treatment of earlier authority:**
 
-- EEOC v. Arabian American Oil Co., 499 U.S.244 — geographic presumption applied.
-- INS v. Stevic, 467 U.S.407 — withholding standard distinguished from territorial reach.
-- INS v. Cardoza-Fonseca, 480 U.S.421 — asylum/withholding distinction preserved.
-- Youngstown, 343 U.S.579 — no power to disregard an applicable statute inferred; coverage is the issue decided.
+- EEOC v. Arabian American Oil Co., 499 U.S. 244 — geographic presumption applied.
+- INS v. Stevic, 467 U.S. 407 — withholding standard distinguished from territorial reach.
+- INS v. Cardoza-Fonseca, 480 U.S. 421 — asylum/withholding distinction preserved.
+- Youngstown, 343 U.S. 579 — no power to disregard an applicable statute inferred; coverage is the issue decided.
 
 ##### Article 33 does not independently limit the high-seas operation
 
-**Holding:** Article33 of the Refugee Convention, as undertaken through the 1967 Protocol, does not extend its return prohibition to this high-seas repatriation operation. That territorial construction resolves the asserted treaty restraint without deciding whether the Convention otherwise supplies an independently enforceable cause of action. Article33(2) withholds its benefit where reasonable grounds identify a danger to the security of the country of presence, or a refugee convicted by final judgment of a particularly serious crime constitutes a danger to that country’s community.
+**Holding:** Article 33 of the Refugee Convention, as undertaken through the 1967 Protocol, does not extend its return prohibition to this high-seas repatriation operation. That territorial construction resolves the asserted treaty restraint without deciding whether the Convention otherwise supplies an independently enforceable cause of action. Article 33(2) withholds its benefit where reasonable grounds identify a danger to the security of the country of presence, or a refugee convicted by final judgment of a particularly serious crime constitutes a danger to that country’s community.
 
 **Proposition-level authority:** Stevens’s Opinion of the Court, Article 33 does not independently limit the high-seas operation portion; White, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct proposition-level majority; no Marks aggregation.
 
 **Limits and questions not reached:** Statutory and treaty coverage are separately resolved. No refugee-status determination, general executive exemption from law or independent treaty cause-of-action ruling is made; domestic custody and other sources constraining different operations remain distinct.
 
-**Operative remedy or transition:** Reverse the appellate coverage ruling under §243(h) and Article33; no admission order, individual screening determination or personal injunction against the President.
+**Operative remedy or transition:** Reverse the appellate coverage ruling under §243(h) and Article 33; no admission order, individual screening determination or personal injunction against the President.
 
 **Treatment of earlier authority:**
 
-- 1951 Refugee Convention Article33 and 1967 Protocol — construed geographically for this operation, without a self-execution holding.
-- Stevic, 467 U.S.407 — treaty/statutory relationship considered without importing a general offshore duty.
+- 1951 Refugee Convention Article 33 and 1967 Protocol — construed geographically for this operation, without a self-execution holding.
+- Stevic, 467 U.S. 407 — treaty/statutory relationship considered without importing a general offshore duty.
+
+### Original-order and reconsideration review periods
+
+#### [Stone v. Immigration and Naturalization Service](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Stone_v_Immigration_and_Naturalization_Service_merits_1995-04-19.md)
+
+**Docket or dockets:** No. 93-1199.
+**Decided:** April 19, 1995.
+
+##### Reconsideration does not postpone the original-order filing period under this INA scheme
+
+**Holding:** Under former 8 U.S.C. §1105a, a motion to reopen or reconsider does not postpone the finality or filing period of the original deportation order for judicial review; a petition directed to that order must satisfy its own statutory period. Separately reviewable reconsideration dispositions have their own review period, and subsection (a)(6) requires consolidation when both reviews are properly pending; this rule does not make every reconsideration refusal reviewable.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), joined by Stevens, Scalia, Thomas and Ginsburg: five Justices.
+
+**Treatment of earlier authority:**
+
+- ICC v. Brotherhood of Locomotive Engineers, 482 U.S. 270: distinguishes its ordinary administrative finality rule because the amended INA supplies a specific review modification; its separate treatment of original orders and reopening refusals remains intact.
+- United States v. Ibarra, October 15, 1991: preserves its timely criminal-reconsideration rule and distinguishes this particular statutory review arrangement.
+- Darby v. Cisneros, June 21, 1993: preserves its limits on extra APA exhaustion requirements; it does not decide the filing finality of an INA order.
+
+**Limits and questions not reached:** The original deportation order and a separately reviewable reconsideration disposition carry independent filing periods under former §1105a. Optional reconsideration is not a prerequisite to judicial review. Finality for filing, agency enforceability, exhaustion, and a judicial or administrative stay remain distinct. No general equitable-tolling rule, blanket bar to reconsideration review, or immigration merits rule is decided.
+
+**Operative remedy or transition:** Dismissal of the original deportation-order challenge as untimely is affirmed. The separate denial of review of reconsideration remains undisturbed and outside the question decided. No merits remand, suspension of deportation, deportability ruling or new stay is ordered.
