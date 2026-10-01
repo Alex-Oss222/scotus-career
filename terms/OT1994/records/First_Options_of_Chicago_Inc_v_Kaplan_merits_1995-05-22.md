@@ -127,7 +127,7 @@ Historical reconciliation: All eight match historical delegation and ordinary-re
 
 AT&T Technologies and Volt supply consent authorities; effective Allied-Bruce and Mastrobuono apply at stated scope. The [Archive item](https://archive.org/details/micro_IA40385013_0560) identifies petition, briefs and appendix. No absent broad-clause application or independent nonsignatory theory is established.
 
-Cutoff predecision 1995-05-22; modern retrieval is provenance only. Wilson/FirstOptions Archive availability verified, not complete independentPDFreading; no transcript facts inferred. Nebraska source supports leave, not hydrologic merits. Assembly checks cover votes, scope and identical kernel/publicholdings; operator term checks and Git commitment remain. This natural-key file becomes authoritative once validated and committed. No render or workspace was written here.
+Cutoff predecision 1995-05-22; modern retrieval is provenance only. Wilson/First Options Archive availability verified, not complete independent PDF reading; no transcript facts inferred. Nebraska source supports leave, not hydrologic merits. Assembly checks cover votes, scope and identical kernel/public holdings; operator term checks and Git commitment remain. This natural-key file becomes authoritative once validated and committed. No render or workspace was written here.
 
 ## Coordinated chunk validation
 
