@@ -1,7 +1,7 @@
 **Case and dockets:** Gutierrez de Martinez v. Lamagno; No. 94-167
 **Event and date:** Merits decision, 1995-06-14; October Term 1994, chunk 8.
 **Result:** Fourth Circuit reversed and remanded, 6–3, for judicial review of employment-scope certification.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. Close-audit correction 2026-09-30 (F12): empty-heading cleanup; replaces the prior wording in place without a new adjudication. Ninth-audit F03 clerical correction: completed-validation wording. Adjudication unchanged; operator verification and commitment remain deferred.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. Close-audit correction 2026-09-30 (F12): empty-heading cleanup; replaces the prior wording in place without a new adjudication. Ninth-audit F03 clerical correction: completed-validation wording. Adjudication unchanged; operator verification and commitment remain deferred. October 1, 2026 audit correction (F02): existing Historical departure label moved to its own line without changing departure text; prior text replaced in place. Judgment, votes, coalitions, holdings and remedy unchanged; operator verification and commitment remain pending.
 
 ## Event, participation, and entering-law validation
 
@@ -116,7 +116,9 @@ The reversal ground is judicial review of certification for substitution: §2679
 
 
 
-Final audit: six reverse/three affirm. O’Connor and Souter corrections occurred in reconciliation before Stone entered. No non-Stone commitment changes in assembly. **Historical departure:** The Court reserves removed-case Article III jurisdiction rather than publishing a proposition on that issue. O’Connor’s recorded barrier is preserved, and Stone’s approved position supplies no such extension; the six-Justice statutory coalition controls only review and remand.
+Final audit: six reverse/three affirm. O’Connor and Souter corrections occurred in reconciliation before Stone entered. No non-Stone commitment changes in assembly.
+
+**Historical departure:** The Court reserves removed-case Article III jurisdiction rather than publishing a proposition on that issue. O’Connor’s recorded barrier is preserved, and Stone’s approved position supplies no such extension; the six-Justice statutory coalition controls only review and remand.
 
 ## Operative Standards and Tests validated at assembly
 

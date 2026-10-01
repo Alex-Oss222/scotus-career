@@ -1,7 +1,7 @@
 **Case and dockets:** Kelley v. Board of Trustees of the University of Illinois; No. 94-783 (simulation-assigned).
 **Event and date:** Merits decision; 1995-05-22; OT1994, chunk 6.
 **Result:** AFFIRMED, 9-0 on each distinct statutory and constitutional claim.
-**Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction. Ninth-audit F01 clerical correction: spacing/citation typography. Adjudication unchanged; operator verification and commitment remain deferred. Tenth-audit F01 clerical correction (2026-09-30): residual spacing/citation typography only; prior text replaced in place. Adjudication unchanged; operator verification and commitment remain deferred.
+**Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction. Ninth-audit F01 clerical correction: spacing/citation typography. Adjudication unchanged; operator verification and commitment remain deferred. Tenth-audit F01 clerical correction (2026-09-30): residual spacing/citation typography only; prior text replaced in place. Adjudication unchanged; operator verification and commitment remain deferred. October 1, 2026 audit correction (F03): audited citation symbols and missing spaces corrected; prior text replaced in place. Judgment, votes, coalitions, holdings and remedy unchanged; operator verification and commitment remain pending.
 
 ## Event, participation and entering law
 
@@ -109,7 +109,7 @@ Stone is in every majority and assigns. Fit: O'Connor fits Hogan scrutiny and in
 
 ## Adaptive audit annex
 
-Frozen[B commitments](../freeze/OT_1994CHUNK6_B_COMMITMENTS.md) remain immutable; [B reconciliation](../freeze/OT_1994CHUNK6_B_RECONCILED.md) controls. Relevant individual grounds, components, alternatives and join barriers:
+Frozen [B commitments](../freeze/OT_1994CHUNK6_B_COMMITMENTS.md) remain immutable; [B reconciliation](../freeze/OT_1994CHUNK6_B_RECONCILED.md) controls. Relevant individual grounds, components, alternatives and join barriers:
 
 ## 67. Kelley v. Illinois — 1995-05-22
 
@@ -136,7 +136,7 @@ Two-path test: sport-for-sport symmetry or personal continuation would turn lawf
 
 
 
-Historical reconciliation: There is no historical Supreme Court judgment or lineup. Lower result matches, but independent Hogan scrutiny rejects federal-compliance immunity; no fictional Justice departure is recorded. No material non-Stone departure survives. [Clean source validation](../freeze/OT_1994CHUNK6_B_NEUTRAL_SOURCE_VALIDATION.md) admits Kelley facts with bothOCRconclusions and bowl-income qualification, corrects Nebraska provenance, and finds no material new neutral fact requiring remodeling. Nine on each judgment component.  No Marks or judgment-only aggregation; no historical action is imported.
+Historical reconciliation: There is no historical Supreme Court judgment or lineup. Lower result matches, but independent Hogan scrutiny rejects federal-compliance immunity; no fictional Justice departure is recorded. No material non-Stone departure survives. [Clean source validation](../freeze/OT_1994CHUNK6_B_NEUTRAL_SOURCE_VALIDATION.md) admits Kelley facts with both OCR conclusions and bowl-income qualification, corrects Nebraska provenance, and finds no material new neutral fact requiring remodeling. Nine on each judgment component.  No Marks or judgment-only aggregation; no historical action is imported.
 
 ## Sources and validation
 

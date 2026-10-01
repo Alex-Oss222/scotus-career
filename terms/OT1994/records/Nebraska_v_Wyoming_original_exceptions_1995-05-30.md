@@ -1,7 +1,7 @@
 **Case and dockets:** Nebraska v. Wyoming; No. 108, Original.
 **Event and date:** Original exceptions; 1995-05-30; OT1994, chunk 6.
 **Result:** All six exceptions OVERRULED; 9-0 on Wyoming's four exceptions; 8-1 on both federal-claim exceptions. Bounded leave granted and withheld; further proceedings before the Master.
-**Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction. Close-audit correction 2026-09-30 (F03): Fourth Cross-Claim attribution made consistent with the existing eight-Justice admission; replaces the prior wording in place without a new adjudication. Ninth-audit F01/F04 clerical correction: spacing/citation typography; public-source wording. Adjudication unchanged; operator verification and commitment remain deferred. Tenth-audit F01 clerical correction (2026-09-30): residual spacing/citation typography only; prior text replaced in place. Adjudication unchanged; operator verification and commitment remain deferred.
+**Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction. Close-audit correction 2026-09-30 (F03): Fourth Cross-Claim attribution made consistent with the existing eight-Justice admission; replaces the prior wording in place without a new adjudication. Ninth-audit F01/F04 clerical correction: spacing/citation typography; public-source wording. Adjudication unchanged; operator verification and commitment remain deferred. Tenth-audit F01 clerical correction (2026-09-30): residual spacing/citation typography only; prior text replaced in place. Adjudication unchanged; operator verification and commitment remain deferred. October 1, 2026 audit correction (F03): audited citation symbols and missing spaces corrected; prior text replaced in place. Judgment, votes, coalitions, holdings and remedy unchanged; operator verification and commitment remain pending.
 
 ## Event, participation and entering law
 
@@ -257,7 +257,7 @@ Stone is in every majority and assigns. Fit: Souter fits structured original-act
 
 ## Adaptive audit annex
 
-Frozen[B commitments](../freeze/OT_1994CHUNK6_B_COMMITMENTS.md) remain immutable; [B reconciliation](../freeze/OT_1994CHUNK6_B_RECONCILED.md) controls. Relevant individual grounds, components, alternatives and join barriers:
+Frozen [B commitments](../freeze/OT_1994CHUNK6_B_COMMITMENTS.md) remain immutable; [B reconciliation](../freeze/OT_1994CHUNK6_B_RECONCILED.md) controls. Relevant individual grounds, components, alternatives and join barriers:
 
 ## 68. Nebraska v. Wyoming — 1995-05-30
 
@@ -304,7 +304,7 @@ No automatic acquiescence, automatic unclean-hands bar, final groundwater/habita
 
 
 
-Historical reconciliation: All eight match other components. Scalia's provisional exclusion lacked a concrete changed premise:Kansas term-restraint displaces neither the reopener nor his historical decree-effects/independent-contract distinction. Further comparison supports bounded admission. Thomas retains his historical alternative-forum objection. No material non-Stone departure survives. [Clean source validation](../freeze/OT_1994CHUNK6_B_NEUTRAL_SOURCE_VALIDATION.md) admits Kelley facts with bothOCRconclusions and bowl-income qualification, corrects Nebraska provenance, and finds no material new neutral fact requiring remodeling. Eight includingStone on federal portion versusThomas; allnine elsewhere.  No Marks or judgment-only aggregation; no historical action is imported.
+Historical reconciliation: All eight match other components. Scalia's provisional exclusion lacked a concrete changed premise: Kansas term-restraint displaces neither the reopener nor his historical decree-effects/independent-contract distinction. Further comparison supports bounded admission. Thomas retains his historical alternative-forum objection. No material non-Stone departure survives. [Clean source validation](../freeze/OT_1994CHUNK6_B_NEUTRAL_SOURCE_VALIDATION.md) admits Kelley facts with both OCR conclusions and bowl-income qualification, corrects Nebraska provenance, and finds no material new neutral fact requiring remodeling. Eight including Stone on federal portion versus Thomas; all nine elsewhere.  No Marks or judgment-only aggregation; no historical action is imported.
 
 ## Sources and validation
 

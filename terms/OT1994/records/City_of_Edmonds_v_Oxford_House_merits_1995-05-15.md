@@ -1,7 +1,7 @@
 **Case and dockets:** City of Edmonds v. Oxford House, Inc.; No. 94-23
 **Event and date:** Merits decision, 1995-05-15; October Term 1994, chunk 6.
 **Result:** The Ninth Circuit is affirmed, 6-3.
-**Version / lineage:** Initial adjudication; no predecessor is superseded.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. October 1, 2026 audit correction (F01): Public Projection event wording removes internal law-loading language; prior text replaced in place. Judgment, votes, coalitions, holdings and remedy unchanged; operator verification and commitment remain pending.
 
 ## Decision kernel
 
@@ -68,7 +68,7 @@ Parent arithmetic, chronology, public interface, holding-depth, manifest/ledger 
 
 City of Edmonds v. Oxford House, Inc.; No. 94-23. October Term 1994. Merits decision, 1995-05-15.
 
-Argued March 1, 1995; decided May 15, 1995. Oxford House operates a home for 10 to 12 adults recovering from alcoholism and drug addiction in a single-family zone. The District Court held the family definition exempt; the Ninth Circuit reversed. Review asks only whether ECDC section 21.30.010 is an absolutely exempt maximum-occupancy restriction under 42 U.S.C. section 3607(b)(1). The City seeks reversal. The FHA text and surviving pre-divergence statutory law enter; no later direct exemption rule controls.
+Argued March 1, 1995; decided May 15, 1995. Oxford House operates a home for 10 to 12 adults recovering from alcoholism and drug addiction in a single-family zone. The District Court held the family definition exempt; the Ninth Circuit reversed. Review asks only whether ECDC section 21.30.010 is an absolutely exempt maximum-occupancy restriction under 42 U.S.C. section 3607(b)(1). The City seeks reversal. The FHA text and surviving statutory law govern; no later direct-exemption rule controls.
 
 Render form: compact; six-three judgment and routine bounded statutory application with unchanged exemption rule and remand.
 

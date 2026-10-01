@@ -1,7 +1,7 @@
 **Case and dockets:** Vimar Seguros y Reaseguros, S.A. v. M/V Sky Reefer; No. 94-623
 **Event and date:** Merits decision, 1995-06-19; October Term 1994, chunk 8.
 **Result:** First Circuit arbitration stay affirmed and case remanded, 7–1; district court must retain the underlying action.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. Ninth-audit F03/F04 clerical correction: completed-validation wording; public-source wording. Adjudication unchanged; operator verification and commitment remain deferred.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. Ninth-audit F03/F04 clerical correction: completed-validation wording; public-source wording. Adjudication unchanged; operator verification and commitment remain deferred. October 1, 2026 audit correction (F02): existing Historical departure label moved to its own line without changing departure text; prior text replaced in place. Judgment, votes, coalitions, holdings and remedy unchanged; operator verification and commitment remain pending.
 
 ## Event, participation, and entering-law validation
 
@@ -114,7 +114,9 @@ Kennedy/Scalia/Souter/Thomas/Ginsburg support both components and rejection of I
 
 
 
-Final audit: Breyer excluded; seven affirm/one reverse. Both holdings have seven named joins. O’Connor’s precise reservation is incorporated rather than attributing broad precedent displacement to her. **Historical departure:** The Court confines Indussa treatment to arbitration and reserves true foreign-court clauses; the same judgment is reached under the complete bounded coexistence rule, with no non-Stone judgment departure.
+Final audit: Breyer excluded; seven affirm/one reverse. Both holdings have seven named joins. O’Connor’s precise reservation is incorporated rather than attributing broad precedent displacement to her.
+
+**Historical departure:** The Court confines Indussa treatment to arbitration and reserves true foreign-court clauses; the same judgment is reached under the complete bounded coexistence rule, with no non-Stone judgment departure.
 
 ## Public Projection
 

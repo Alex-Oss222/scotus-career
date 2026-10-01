@@ -1,7 +1,7 @@
 **Case and dockets:** Wilson v. Arkansas; No. 94-5707.
 **Event and date:** Merits decision; 1995-05-22; OT1994, chunk 6.
 **Result:** REVERSED AND REMANDED, 9-0.
-**Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction. Ninth-audit F01 clerical correction: spacing/citation typography. Adjudication unchanged; operator verification and commitment remain deferred. Tenth-audit F01 clerical correction (2026-09-30): residual spacing/citation typography only; prior text replaced in place. Adjudication unchanged; operator verification and commitment remain deferred.
+**Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction. Ninth-audit F01 clerical correction: spacing/citation typography. Adjudication unchanged; operator verification and commitment remain deferred. Tenth-audit F01 clerical correction (2026-09-30): residual spacing/citation typography only; prior text replaced in place. Adjudication unchanged; operator verification and commitment remain deferred. October 1, 2026 audit correction (F03): audited citation symbols and missing spaces corrected; prior text replaced in place. Judgment, votes, coalitions, holdings and remedy unchanged; operator verification and commitment remain pending.
 
 ## Event, participation and entering law
 
@@ -80,7 +80,7 @@ Stone is in every majority and assigns. Fit: Thomas fits common-law constitution
 
 ## Adaptive audit annex
 
-Frozen[B commitments](../freeze/OT_1994CHUNK6_B_COMMITMENTS.md) remain immutable; [B reconciliation](../freeze/OT_1994CHUNK6_B_RECONCILED.md) controls. Relevant individual grounds, components, alternatives and join barriers:
+Frozen [B commitments](../freeze/OT_1994CHUNK6_B_COMMITMENTS.md) remain immutable; [B reconciliation](../freeze/OT_1994CHUNK6_B_RECONCILED.md) controls. Relevant individual grounds, components, alternatives and join barriers:
 
 ## 65. Wilson v. Arkansas — 1995-05-22
 
@@ -103,7 +103,7 @@ Adversarial test: Arkansas's no-constitutional-relevance rule avoids rigidity bu
 
 
 
-Historical reconciliation: All eight match historical unanimity and bounded exceptions; premises remain intact. No material non-Stone departure survives. [Clean source validation](../freeze/OT_1994CHUNK6_B_NEUTRAL_SOURCE_VALIDATION.md) admits Kelley facts with bothOCRconclusions and bowl-income qualification, corrects Nebraska provenance, and finds no material new neutral fact requiring remodeling. Nine on each judgment component.  No Marks or judgment-only aggregation; no historical action is imported.
+Historical reconciliation: All eight match historical unanimity and bounded exceptions; premises remain intact. No material non-Stone departure survives. [Clean source validation](../freeze/OT_1994CHUNK6_B_NEUTRAL_SOURCE_VALIDATION.md) admits Kelley facts with both OCR conclusions and bowl-income qualification, corrects Nebraska provenance, and finds no material new neutral fact requiring remodeling. Nine on each judgment component.  No Marks or judgment-only aggregation; no historical action is imported.
 
 ## Sources and validation
 

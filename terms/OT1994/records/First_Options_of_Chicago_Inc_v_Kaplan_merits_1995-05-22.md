@@ -1,7 +1,7 @@
 **Case and dockets:** First Options of Chicago, Inc. v. Kaplan; No. 94-560.
 **Event and date:** Merits decision; 1995-05-22; OT1994, chunk 6.
 **Result:** AFFIRMED, 9-0 on both arbitrability and appellate-review components.
-**Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction. Close-audit correction 2026-09-30 (F08): historical-departure label for Stone’s reserved rationale join; replaces the prior wording in place without a new adjudication. Ninth-audit F01 clerical correction: spacing/citation typography. Adjudication unchanged; operator verification and commitment remain deferred. Tenth-audit F01 clerical correction (2026-09-30): residual spacing/citation typography only; prior text replaced in place. Adjudication unchanged; operator verification and commitment remain deferred.
+**Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction. Close-audit correction 2026-09-30 (F08): historical-departure label for Stone’s reserved rationale join; replaces the prior wording in place without a new adjudication. Ninth-audit F01 clerical correction: spacing/citation typography. Adjudication unchanged; operator verification and commitment remain deferred. Tenth-audit F01 clerical correction (2026-09-30): residual spacing/citation typography only; prior text replaced in place. Adjudication unchanged; operator verification and commitment remain deferred. October 1, 2026 audit correction (F03): audited citation symbols and missing spaces corrected; prior text replaced in place. Judgment, votes, coalitions, holdings and remedy unchanged; operator verification and commitment remain pending.
 
 ## Event, participation and entering law
 
@@ -96,7 +96,7 @@ Stone is in every majority and assigns. Fit: Breyer fits contractual decisionmak
 
 ## Adaptive audit annex
 
-Frozen[B commitments](../freeze/OT_1994CHUNK6_B_COMMITMENTS.md) remain immutable; [B reconciliation](../freeze/OT_1994CHUNK6_B_RECONCILED.md) controls. Relevant individual grounds, components, alternatives and join barriers:
+Frozen [B commitments](../freeze/OT_1994CHUNK6_B_COMMITMENTS.md) remain immutable; [B reconciliation](../freeze/OT_1994CHUNK6_B_RECONCILED.md) controls. Relevant individual grounds, components, alternatives and join barriers:
 
 ## 66. First Options v. Kaplan — 1995-05-22
 
@@ -119,7 +119,7 @@ Two-path test: deference correctly applies after actual delegation; its stronges
 
 
 
-Historical reconciliation: All eight match historical delegation and ordinary-review affirmance. Stone's reserved join is approved core, not non-Stone departure. No material non-Stone departure survives. [Clean source validation](../freeze/OT_1994CHUNK6_B_NEUTRAL_SOURCE_VALIDATION.md) admits Kelley facts with bothOCRconclusions and bowl-income qualification, corrects Nebraska provenance, and finds no material new neutral fact requiring remodeling. Nine on each judgment component. Conditional review rule has eight associate joins only. No Marks or judgment-only aggregation; no historical action is imported.
+Historical reconciliation: All eight match historical delegation and ordinary-review affirmance. Stone's reserved join is approved core, not non-Stone departure. No material non-Stone departure survives. [Clean source validation](../freeze/OT_1994CHUNK6_B_NEUTRAL_SOURCE_VALIDATION.md) admits Kelley facts with both OCR conclusions and bowl-income qualification, corrects Nebraska provenance, and finds no material new neutral fact requiring remodeling. Nine on each judgment component. Conditional review rule has eight associate joins only. No Marks or judgment-only aggregation; no historical action is imported.
 
 **Historical departure:** Stone-Zsela’s approved reserved join does not adopt the conditional limited-review proposition after a valid delegation of arbitrability. The eight associates adopt that proposition, rather than the historical unanimous rationale that included the Chief; the unanimous judgment and Stone’s joins in antecedent assent and ordinary appellate review remain unchanged.
 
