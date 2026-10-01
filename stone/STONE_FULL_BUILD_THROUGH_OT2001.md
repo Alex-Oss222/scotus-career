@@ -1,5 +1,15 @@
 # Justice Stone: full doctrinal build through OT2001
 
+This document is a working doctrinal map, not a set of predetermined holdings. The positions, through-lines, and later-case directions below identify where Stone is presently inclined to go and the problems he is trying to solve, but they do not control the outcome of any future simulated case.
+
+For each case, begin with the law, record, procedural posture, available evidence, and actual coalition that exist at that point in the simulation. Treat the material below as relevant context and a source of proposed reasoning, not as an instruction to force the case into the projected doctrinal path. A later case may strengthen, narrow, qualify, redirect, or defeat an earlier proposal if its facts, legal source, precedent, administrability, institutional consequences, or available votes point elsewhere.
+
+When evaluating a proposed rule or disposition, consider not only whether it fits the existing through-line, but also whether a simpler rule would do the same work, whether the proposal creates unnecessary doctrinal machinery, whether evidentiary considerations are being converted into mandatory legal elements, whether a formal rule would be more administrable, and whether the case can be resolved by applying existing law without adding a new test, factor, presumption, or category.
+
+Identify tensions rather than smoothing them over. If a proposed position conflicts with an existing holding, depends on a factual proposition the record does not establish, requires a coalition that may not exist, or creates a downstream problem elsewhere in the build, flag that problem explicitly. Consider competing approaches and narrower or differently structured alternatives when they materially improve coherence, administrability, or fidelity to the case.
+
+The purpose of this document is to preserve continuity without predetermining development. The simulation should be allowed to produce failed coalitions, incomplete doctrines, unexpected distinctions, and results Stone would not have preferred. Once the Court actually decides a case, that decision replaces the corresponding proposal as the governing starting point for later cases.
+
 **Working preparation for the continued simulation. Earlier simulated decisions are fixed when they have already been reached; later entries are proposed Stone positions, not predetermined Court holdings.**
 
 ## Scope and how to use this build
