@@ -1,13 +1,13 @@
 **Case and dockets:** Nebraska v. Wyoming; No. 108, Original.
 **Event and date:** Original exceptions; 1995-05-30; OT1994, chunk 6.
-**Result:** All six exceptions OVERRULED;9-0 on Wyoming's four exceptions;8-1 on both federal-claim exceptions. Bounded leave granted and withheld; further proceedings before the Master.
-**Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction. Close-audit correction 2026-09-30 (F03): Fourth Cross-Claim attribution made consistent with the existing eight-Justice admission; replaces the prior wording in place without a new adjudication. Ninth-audit F01/F04 clerical correction: spacing/citation typography; public-source wording. Adjudication unchanged; operator verification and commitment remain deferred.
+**Result:** All six exceptions OVERRULED; 9-0 on Wyoming's four exceptions; 8-1 on both federal-claim exceptions. Bounded leave granted and withheld; further proceedings before the Master.
+**Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction. Close-audit correction 2026-09-30 (F03): Fourth Cross-Claim attribution made consistent with the existing eight-Justice admission; replaces the prior wording in place without a new adjudication. Ninth-audit F01/F04 clerical correction: spacing/citation typography; public-source wording. Adjudication unchanged; operator verification and commitment remain deferred. Tenth-audit F01 clerical correction (2026-09-30): residual spacing/citation typography only; prior text replaced in place. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Event, participation and entering law
 
 Original-action exceptions to Master Olpin's Third Interim Report, filed October 11, 1994; exceptions filed November 25, 1994. Questions: ceiling, groundwater, equitable defenses, downstream/habitat, HorseCreek, federal administration and exact leave. Argued March 21, 1995, using the argument chronology supplied in the neutral packet.
 
-Lawful channel: Article III, 28 U.S.C. 1251(a) original jurisdiction and decree reopener under admitted inventory. No new grant vote or fabricated grant date. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate; quorum satisfied, five votes control. Reached issues are within supplied scope; no established threshold, vehicle or preservation bar. Coordinated OT1993 trackers, chunk6 entering-law slice and effective current neutral projection control. May22 decisions share entering baseline. Nebraska April 20, 1993 is simulated postdivergence law; its enforcement/modification distinction governs. Effective current Kansas enters only at adopted scope. No later historical Supreme Court result becomes authority. Research cutoff immediately before 1995-05-30.
+Lawful channel: Article III, 28 U.S.C. 1251(a) original jurisdiction and decree reopener under admitted inventory. No new grant vote or fabricated grant date. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate; quorum satisfied, five votes control. Reached issues are within supplied scope; no established threshold, vehicle or preservation bar. Coordinated OT1993 trackers, chunk 6 entering-law slice and effective current neutral projection control. May 22 decisions share entering baseline. Nebraska April 20, 1993 is simulated postdivergence law; its enforcement/modification distinction governs. Effective current Kansas enters only at adopted scope. No later historical Supreme Court result becomes authority. Research cutoff immediately before 1995-05-30.
 
 ## Stone fixed core and final compatibility
 
@@ -240,7 +240,7 @@ All controlling joins are direct; no Marks inference or judgment-only aggregatio
 
 **Precedent treatment:**
 
-- Nebraska v. Wyoming, April 20, 1993: applies distinct enforcement and modification burdens; modification requires clear and convincing real and substantial injury. Rule56 remains a limited guide; leave is not proof.
+- Nebraska v. Wyoming, April 20, 1993: applies distinct enforcement and modification burdens; modification requires clear and convincing real and substantial injury. Rule 56 remains a limited guide; leave is not proof.
 
 
 ## Continuity
@@ -433,7 +433,7 @@ All controlling joins are direct; no Marks inference or judgment-only aggregatio
 
 **Precedent treatment:**
 
-- Nebraska v. Wyoming, April 20, 1993: applies distinct enforcement and modification burdens; modification requires clear and convincing real and substantial injury. Rule56 remains a limited guide; leave is not proof.
+- Nebraska v. Wyoming, April 20, 1993: applies distinct enforcement and modification burdens; modification requires clear and convincing real and substantial injury. Rule 56 remains a limited guide; leave is not proof.
 
 
 ## Precedent Treatment
@@ -447,7 +447,7 @@ All controlling joins are direct; no Marks inference or judgment-only aggregatio
 - Nebraska v. Wyoming, 325 U.S. 589: applies the allocation setting and preserves geographic limits.
 - Nebraska v. Wyoming, 325 U.S. 589, and 345 U.S. 981: preserve allocation and retained jurisdiction without allocating storage water.
 - Texas v. New Mexico, 462 U.S. 554: applies interstate enforcement within operative scope, not general contract jurisdiction.
-- Nebraska v. Wyoming, April 20, 1993: applies distinct enforcement and modification burdens; modification requires clear and convincing real and substantial injury. Rule56 remains a limited guide; leave is not proof.
+- Nebraska v. Wyoming, April 20, 1993: applies distinct enforcement and modification burdens; modification requires clear and convincing real and substantial injury. Rule 56 remains a limited guide; leave is not proof.
 
 ## Law After Decision
 

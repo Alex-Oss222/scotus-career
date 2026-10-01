@@ -1509,7 +1509,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Authority by component:**
 
-- Concrete prejudice and effective relief under Rule14: [Zafiro v. United States — Concrete prejudice and effective relief under Rule14](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1992/records/Zafiro_v_United_States_merits_1993-01-25.md), 1993-01-25. O’Connor’s opinion for Stone-Zsela, White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas; eight Justices adopt the rule and its application. Stevens’s narrower concurrence supplies no join in this general formulation.
+- Concrete prejudice and effective relief under Rule 14: [Zafiro v. United States — Concrete prejudice and effective relief under Rule 14](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1992/records/Zafiro_v_United_States_merits_1993-01-25.md), 1993-01-25. O’Connor’s opinion for Stone-Zsela, White, Blackmun, O'Connor, Scalia, Kennedy, Souter, Thomas; eight Justices adopt the rule and its application. Stevens’s narrower concurrence supplies no join in this general formulation.
 
 **Present operation effective:** 1993-01-25; Zafiro v. United States, for the components identified above.
 

@@ -1,7 +1,7 @@
 **Case and dockets:** Johnson v. Jones, No. 94-455.
 **Event and date:** Merits decision, 1995-06-12.
 **Result:** The Seventh Circuit judgment dismissing the reviewed immediate excessive-force appeal is affirmed, 9–0.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Operator Git preservation remains pending; no commit hash is claimed. Ninth-audit F04 clerical correction: public-source wording. Adjudication unchanged; operator verification and commitment remain deferred.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Operator Git preservation remains pending; no commit hash is claimed. Ninth-audit F04 clerical correction: public-source wording. Adjudication unchanged; operator verification and commitment remain deferred. Tenth-audit F01 clerical correction (2026-09-30): residual spacing/citation typography only; prior text replaced in place. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Decision kernel
 
@@ -79,7 +79,7 @@ The affirmed dismissal affects the reviewed excessive-force evidentiary contenti
 
 ## Sources, cutoff and validation status
 
-Research cutoff: immediately before June 12, 1995 for governing law and admitted external facts. Historical June 12 opinions are comparison evidence only. Neutral-stage source corrections override stale runtime shorthand. Sources and bounded review: 28 U.S.C. §1291; Cohen and Mitchell; Seventh Circuit ruling and petition appendices A1–A3/B4a–B10a, read in full at neutral validation, establish the distinct excessive-force dismissal and false-arrest reversal. Counsel's recorded appellate characterization supports the nature of the issue, not the truth of disputed conduct. Official 515 U.S.304–320 supplies historical comparison only. No verified decisional quotation is projected.
+Research cutoff: immediately before June 12, 1995 for governing law and admitted external facts. Historical June 12 opinions are comparison evidence only. Neutral-stage source corrections override stale runtime shorthand. Sources and bounded review: 28 U.S.C. §1291; Cohen and Mitchell; Seventh Circuit ruling and petition appendices A1–A3/B4a–B10a, read in full at neutral validation, establish the distinct excessive-force dismissal and false-arrest reversal. Counsel's recorded appellate characterization supports the nature of the issue, not the truth of disputed conduct. Official 515 U.S. 304–320 supplies historical comparison only. No verified decisional quotation is projected.
 
 Read the final B reconciliation and source-validation corrections before Stone. The assembly source record is inherited, not a certification of independent full-corpus retrieval. Neutral review read the specified lower-court appendices and joint appendix; Adarand merits-brief review was bounded, not full. No Git-hash existence, full-term checks, ledger/manifest rebuilding or render-generation checks are claimed here. The record is initial assembly output pending parent chronology revalidation and coordinated checks. Named votes and joins are manually reconciled here; the public Holdings text is copied byte-identically from the decision kernel by this writer. No remaining substantive Stone choice or legal disposition blocker is identified.
 

@@ -1,7 +1,7 @@
 **Case and dockets:** Oklahoma Tax Commission v. Chickasaw Nation; No. 94-771
 **Event and date:** Merits decision, 1995-06-14; October Term 1994, chunk 8.
 **Result:** Tenth Circuit affirmed on motor-fuels tax, 9–0; reversed on off-country-resident tribal-wage exemption, 5–4; remanded.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. Close-audit correction 2026-09-30 (F12): empty-heading cleanup; replaces the prior wording in place without a new adjudication. Ninth-audit F03 clerical correction: completed-validation wording. Adjudication unchanged; operator verification and commitment remain deferred.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. Close-audit correction 2026-09-30 (F12): empty-heading cleanup; replaces the prior wording in place without a new adjudication. Ninth-audit F03 clerical correction: completed-validation wording. Adjudication unchanged; operator verification and commitment remain deferred. Tenth-audit F01 clerical correction (2026-09-30): residual spacing/citation typography only; prior text replaced in place. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Event, participation, and entering-law validation
 
@@ -137,7 +137,7 @@ Reconciled conclusions:
 
 
 
-Vote audit: fuel nine affirm; income five reverse/four affirm. Four income commitments were corrected during pre-Stone reconciliation, not assembly. No non-Stone departure survives. H.B.1522 failed Senate passage; no asserted universal unchanged June14 code or replacement-statute decree is made.
+Vote audit: fuel nine affirm; income five reverse/four affirm. Four income commitments were corrected during pre-Stone reconciliation, not assembly. No non-Stone departure survives. H.B.1522 failed Senate passage; no asserted universal unchanged June 14 code or replacement-statute decree is made.
 
 ## Operative Standards and Tests validated at assembly
 

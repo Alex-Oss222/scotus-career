@@ -3618,7 +3618,7 @@ Authority: [Record](../records/Nebraska_v_Wyoming_original_exceptions_1995-05-30
 
 **Precedent treatment:**
 
-- Nebraska v. Wyoming, April 20, 1993: applies distinct enforcement and modification burdens; modification requires clear and convincing real and substantial injury. Rule56 remains a limited guide; leave is not proof.
+- Nebraska v. Wyoming, April 20, 1993: applies distinct enforcement and modification burdens; modification requires clear and convincing real and substantial injury. Rule 56 remains a limited guide; leave is not proof.
 
 #### Precedent Treatment
 
@@ -3631,7 +3631,7 @@ Authority: [Record](../records/Nebraska_v_Wyoming_original_exceptions_1995-05-30
 - Nebraska v. Wyoming, 325 U.S. 589: applies the allocation setting and preserves geographic limits.
 - Nebraska v. Wyoming, 325 U.S. 589, and 345 U.S. 981: preserve allocation and retained jurisdiction without allocating storage water.
 - Texas v. New Mexico, 462 U.S. 554: applies interstate enforcement within operative scope, not general contract jurisdiction.
-- Nebraska v. Wyoming, April 20, 1993: applies distinct enforcement and modification burdens; modification requires clear and convincing real and substantial injury. Rule56 remains a limited guide; leave is not proof.
+- Nebraska v. Wyoming, April 20, 1993: applies distinct enforcement and modification burdens; modification requires clear and convincing real and substantial injury. Rule 56 remains a limited guide; leave is not proof.
 
 #### Law After Decision
 

@@ -3253,7 +3253,7 @@ For the other questions in Nebraska v. Wyoming, decided May 30, 1995, No. 108, O
 
 **Treatment of earlier authority:**
 
-- Nebraska v. Wyoming, April 20, 1993: applies distinct enforcement and modification burdens; modification requires clear and convincing real and substantial injury. Rule56 remains a limited guide; leave is not proof.
+- Nebraska v. Wyoming, April 20, 1993: applies distinct enforcement and modification burdens; modification requires clear and convincing real and substantial injury. Rule 56 remains a limited guide; leave is not proof.
 
 **Operative remedy or transition:** Overrule Wyoming's four exceptions unanimously and the United States' and Nebraska's exceptions to the Fourth Cross-Claim 8–1 (Thomas would sustain those two). Allow Nebraska Counts I–III and Wyoming Second–Fourth Counterclaims and Second–Fifth Cross-Claims only within the admitted scope; deny Nebraska Count IV without prejudice. Reject the First Counterclaim and First Cross-Claim only insofar as they seek the mass ceiling, preserving discrete below-Tri-State calls, priority bypasses and relevant waste defenses. Return the Glendo enforcement/modification, Laramie changed-condition and carriage-loss theories for proof before the Master. No injury, breach, new allocation, release quantity, revised formula, seasonal award, damages, priority or operating injunction is adjudicated.
 
@@ -4292,7 +4292,7 @@ For the other question-level holdings in Shaw v. Reno, June 28, 1993, No. 92-357
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court, this proposition; Stone-Zsela, White, Blackmun, O’Connor, Scalia, Kennedy, Souter, Thomas (8 Justices). Direct majority support at the stated level of generality; no Marks aggregation.
 
-**Limits and questions not reached:** The original Rules govern. No later Rule702 text, universal technical-specialty rule, appellate-review standard or substantive causation finding is adopted. Cross-examination supplements screening for admissible evidence; Rules403, 703, 706 and ordinary sufficiency rules remain available.
+**Limits and questions not reached:** The original Rules govern. No later Rule 702 text, universal technical-specialty rule, appellate-review standard or substantive causation finding is adopted. Cross-examination supplements screening for admissible evidence; Rules 403, 703, 706 and ordinary sufficiency rules remain available.
 
 **Operative remedy or transition:** Vacate the Frye-based summary judgment and remand for evaluation of material proffers and reconsideration of summary judgment. Further fair foundation submissions may be received; no direction to admit every expert.
 
@@ -6878,7 +6878,7 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 **Decided:** January 25, 1993.
 
-##### Concrete prejudice and effective relief under Rule14
+##### Concrete prejudice and effective relief under Rule 14
 
 **Holding:** For properly joined defendants, mutually antagonistic defenses alone do not require severance; the district court evaluates whether a joint trial presents a serious risk of compromising a specific trial right or preventing a reliable individualized verdict, and chooses effective relief in its sound discretion. Severance is not required for every showing of prejudice if instructions or other safeguards adequately cure the risk, but instructions are not presumed to cure every risk; Garcia, Soto and Martinez have shown no uncured risk requiring separate trials here.
 
@@ -17515,7 +17515,7 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 **Proposition-level authority:** Blackmun’s Opinion of the Court; the four dissenters agree in this disposition on their broader ground; Stone-Zsela, White, Blackmun, Stevens, O'Connor (5 Justices). Direct majority support at this level of generality; no Marks synthesis.
 
-**Limits and questions not reached:** Protection is functional, not for every claim grouped with policyholders or labeled administrative. The antitrust clause and separate boycott exception are not altered. The federal priority operates on the established insolvency/act-of-bankruptcy predicate; §3713(a)(2) excludes cases under Title11, distinct from this state insurer liquidation.
+**Limits and questions not reached:** Protection is functional, not for every claim grouped with policyholders or labeled administrative. The antitrust clause and separate boycott exception are not altered. The federal priority operates on the established insolvency/act-of-bankruptcy predicate; §3713(a)(2) excludes cases under Title 11, distinct from this state insurer liquidation.
 
 **Operative remedy or transition:** Affirm policyholder and necessary-administration protection; reverse protection of ordinary wage and general-creditor priorities. Remand for proper expense classification, remaining state-law effects and severability; no equitable reordering or amount is fixed.
 

@@ -1,7 +1,7 @@
 **Case and dockets:** Metropolitan Stevedore Co. v. Rambo, No. 94-820.
 **Event and date:** Merits decision, 1995-06-12.
 **Result:** The Ninth Circuit judgment is reversed and the case remanded, 8–1.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Operator Git preservation remains pending; no commit hash is claimed. Ninth-audit F01/F04 clerical correction: spacing/citation typography; public-source wording. Adjudication unchanged; operator verification and commitment remain deferred.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Operator Git preservation remains pending; no commit hash is claimed. Ninth-audit F01/F04 clerical correction: spacing/citation typography; public-source wording. Adjudication unchanged; operator verification and commitment remain deferred. Tenth-audit F01 clerical correction (2026-09-30): residual spacing/citation typography only; prior text replaced in place. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Decision kernel
 
@@ -98,7 +98,7 @@ O'Keeffe/Banks construe mistake-of-fact breadth and supply analogous resistance 
 
 ## Sources, cutoff and validation status
 
-Research cutoff: immediately before June 12, 1995 for governing law and admitted external facts. Historical June 12 opinions are comparison evidence only. Neutral-stage source corrections override stale runtime shorthand. Sources and bounded review: 33 U.S.C. §§902(10), 908(c)(21), 908(h), 922 and 908(i); Ninth Circuit 28 F.3d 86; petition appendix pp.2a–17a, read in full at neutral validation, including ALJ, Board and circuit rulings. Official 515 U.S.291–303 supplies historical comparison only. The original order was not a true §8(i) settlement. No future nominal-award doctrine or unsupported payment amount is supplied.
+Research cutoff: immediately before June 12, 1995 for governing law and admitted external facts. Historical June 12 opinions are comparison evidence only. Neutral-stage source corrections override stale runtime shorthand. Sources and bounded review: 33 U.S.C. §§902(10), 908(c)(21), 908(h), 922 and 908(i); Ninth Circuit 28 F.3d 86; petition appendix pp.2a–17a, read in full at neutral validation, including ALJ, Board and circuit rulings. Official 515 U.S. 291–303 supplies historical comparison only. The original order was not a true §8(i) settlement. No future nominal-award doctrine or unsupported payment amount is supplied.
 
 Read the final B reconciliation and source-validation corrections before Stone. The assembly source record is inherited, not a certification of independent full-corpus retrieval. Neutral review read the specified lower-court appendices and joint appendix; Adarand merits-brief review was bounded, not full. No Git-hash existence, full-term checks, ledger/manifest rebuilding or render-generation checks are claimed here. The record is initial assembly output pending parent chronology revalidation and coordinated checks. Named votes and joins are manually reconciled here; the public Holdings text is copied byte-identically from the decision kernel by this writer. No remaining substantive Stone choice or legal disposition blocker is identified.
 
