@@ -1,7 +1,7 @@
 **Case and dockets:** Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston; No. 94-749
 **Event and date:** Merits decision, 1995-06-19; October Term 1994, chunk 8.
 **Result:** Massachusetts Supreme Judicial Court reversed and case remanded, 9–0; compelled-inclusion injunction shall be dissolved.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. User-authorized nonadjudicative correction, 2026-09-30 (F04, current 17-finding audit): replaces only the identified annex, chronology, status or wording defects in place. All adjudicated judgments, votes, coalitions and remedies are preserved.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. User-authorized nonadjudicative correction, 2026-09-30 (F04, current 17-finding audit): replaces only the identified annex, chronology, status or wording defects in place. All adjudicated judgments, votes, coalitions and remedies are preserved. Ninth-audit F03 clerical correction: completed-validation wording. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Event, participation, and entering-law validation
 
@@ -57,7 +57,7 @@ Private parade composition receives protection against compelled insertion of an
 
 Research cutoff: immediately before 1995-06-19, with historical Court opinion used only at reconciliation for the dated comparator. Source-to-fact support and precise actual full/targeted-reading limits are in the incorporated immutable handoffs; retrieval alone is not certified reading. No later external event is admitted. Public support: Massachusetts Supreme Judicial Court, 418 Mass.238, 636 N.E.2d1293; predecision respondent mootness suggestion and petitioner response, docket 94-749, Records and Briefs collection. Both mootness filings were fully inspected; the continuing order is preserved without inventing a later Court action or fee amount. No quotation is supplied.
 
-Record and bounded projection are durably written; coordinated arithmetic, identity, link and term checks remain pending the chunk validation receipt. Operator Git-object verification and repository commitment remain pending and are not represented as completed.
+Record and bounded projection are durably written; coordinated arithmetic, identity, link and term checks are complete, as documented in the [chunk validation receipt](../freeze/OT_1994CHUNK8_VALIDATION.md). Operator Git-object verification and repository commitment remain pending and are not represented as completed.
 
 ## Adaptive audit annex
 

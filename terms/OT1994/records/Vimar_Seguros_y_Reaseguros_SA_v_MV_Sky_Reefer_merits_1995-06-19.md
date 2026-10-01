@@ -1,7 +1,7 @@
 **Case and dockets:** Vimar Seguros y Reaseguros, S.A. v. M/V Sky Reefer; No. 94-623
 **Event and date:** Merits decision, 1995-06-19; October Term 1994, chunk 8.
 **Result:** First Circuit arbitration stay affirmed and case remanded, 7–1; district court must retain the underlying action.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. Ninth-audit F03/F04 clerical correction: completed-validation wording; public-source wording. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Event, participation, and entering-law validation
 
@@ -69,7 +69,7 @@ The statutes coexist on this present record. The district court retains the acti
 
 Research cutoff: immediately before 1995-06-19, with historical Court opinion used only at reconciliation for the dated comparator. Source-to-fact support and precise actual full/targeted-reading limits are in the incorporated immutable handoffs; retrieval alone is not certified reading. No later external event is admitted. Public support: First Circuit, 29 F.3d 727; COGSA §3(8), maritime FAA provisions; bill-of-lading arbitration clause and predecision filings, docket 94-623, Records and Briefs collection. No malformed cargo amount is inferred and no quotation is supplied.
 
-Record and bounded projection are durably written; coordinated arithmetic, identity, link and term checks remain pending the chunk validation receipt. Operator Git-object verification and repository commitment remain pending and are not represented as completed.
+Record and bounded projection are durably written; coordinated arithmetic, identity, link and term checks are complete, as documented in the [chunk validation receipt](../freeze/OT_1994CHUNK8_VALIDATION.md). Operator Git-object verification and repository commitment remain pending and are not represented as completed.
 
 ## Adaptive audit annex
 
@@ -192,4 +192,4 @@ The First Circuit’s stay is affirmed and the case remanded. The district court
 
 ## Source Notes
 
-Public support: First Circuit, 29 F.3d 727; COGSA §3(8), maritime FAA provisions; bill-of-lading arbitration clause and predecision filings, docket 94-623, Records and Briefs collection. No malformed cargo amount is inferred and no quotation is supplied.
+Public support: First Circuit, 29 F.3d 727; COGSA §3(8), maritime FAA provisions; bill-of-lading arbitration clause and predecision filings, docket 94-623, Records and Briefs collection. No specific cargo dollar amount is adopted by the decision. No quotation is supplied.

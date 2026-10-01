@@ -1,13 +1,13 @@
 **Case and dockets:** Wilson v. Arkansas; No. 94-5707.
 **Event and date:** Merits decision; 1995-05-22; OT1994, chunk 6.
-**Result:** REVERSED AND REMANDED,9-0.
-**Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction.
+**Result:** REVERSED AND REMANDED, 9-0.
+**Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction. Ninth-audit F01 clerical correction: spacing/citation typography. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Event, participation and entering law
 
 Review of Arkansas Supreme Court drug convictions and denial of suppression; argued March 28, 1995. Question: whether common-law announcement forms part of Fourth Amendment reasonableness.
 
-Lawful channel: established merits channel under admitted inventory. No new grant vote or fabricated grant date. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate; quorum satisfied, five votes control. Reached issues are within supplied scope; no established threshold, vehicle or preservation bar. Coordinated OT1993 trackers, chunk6 entering-law slice and effective current neutral projection control. May22 decisions share entering baseline. Nebraska April20, 1993 is simulated postdivergence law; its enforcement/modification distinction governs. Effective current Kansas enters only at adopted scope. No later historical Supreme Court result becomes authority. Research cutoff immediately before 1995-05-22.
+Lawful channel: established merits channel under admitted inventory. No new grant vote or fabricated grant date. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate; quorum satisfied, five votes control. Reached issues are within supplied scope; no established threshold, vehicle or preservation bar. Coordinated OT1993 trackers, chunk6 entering-law slice and effective current neutral projection control. May22 decisions share entering baseline. Nebraska April 20, 1993 is simulated postdivergence law; its enforcement/modification distinction governs. Effective current Kansas enters only at adopted scope. No later historical Supreme Court result becomes authority. Research cutoff immediately before 1995-05-22.
 
 ## Stone fixed core and final compatibility
 

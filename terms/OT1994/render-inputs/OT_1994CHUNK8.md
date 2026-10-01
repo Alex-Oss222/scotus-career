@@ -525,7 +525,7 @@ The First Circuit’s stay is affirmed and the case remanded. The district court
 
 ## Source Notes
 
-Public support: First Circuit, 29 F.3d 727; COGSA §3(8), maritime FAA provisions; bill-of-lading arbitration clause and predecision filings, docket 94-623, Records and Briefs collection. No malformed cargo amount is inferred and no quotation is supplied.
+Public support: First Circuit, 29 F.3d 727; COGSA §3(8), maritime FAA provisions; bill-of-lading arbitration clause and predecision filings, docket 94-623, Records and Briefs collection. No specific cargo dollar amount is adopted by the decision. No quotation is supplied.
 
 ---
 
@@ -811,7 +811,7 @@ The Supreme Court merits event is complete. The case returns to the Ninth Circui
 
 ## Source Notes
 
-Public primary support: petition and lower-opinion appendices, merits factual/policy passages, and joint-appendix complaint, policy and authorization material, No.94-590, Internet Archive docket item; New Jersey v. T.L.O., 469 U.S.325; Skinner v. Railway Labor Executives' Association, 489 U.S.602; National Treasury Employees Union v. Von Raab, 489 U.S.656. The challenged specimen form's complete terms were not independently inspected, so no blanket disclosure holding is supplied. Confidential laboratory delivery is a permissible policy reading, not a finding of actual practice. Written retest permission and testified confirmation practice remain distinct. No decisional quotation is published from unverified text.
+Public primary support: petition and lower-opinion appendices, merits factual/policy passages, and joint-appendix complaint, policy and authorization material, No.94-590, Internet Archive docket item; New Jersey v. T.L.O., 469 U.S. 325; Skinner v. Railway Labor Executives' Association, 489 U.S. 602; National Treasury Employees Union v. Von Raab, 489 U.S. 656. The challenged specimen form's complete terms were not independently inspected, so no blanket disclosure holding is supplied. Confidential laboratory delivery is a permissible policy reading, not a finding of actual practice. Written retest permission and testified confirmation practice remain distinct. No decisional quotation is published from unverified text.
 
 ---
 
@@ -934,7 +934,7 @@ The D.C. Circuit judgment invalidating the clause is reversed; the case returns 
 
 ## Source Notes
 
-Public support: Endangered Species Act §§3(19), 4(d), 7, 9, 10, 11; 50 C.F.R. §§17.3, 17.31; the filed materials in No.94-859 ([Records and Briefs](https://archive.org/details/micro_IA40386012_0804)); 17 F.3d1463. The statutory exception in §6(g)(2) is not construed or applied. No particular permit, cooperative agreement, experimental population, or enforcement facts are decided. Source support does not establish every potential application of the regulation.
+Public support: Endangered Species Act §§3(19), 4(d), 7, 9, 10, 11; 50 C.F.R. §§17.3, 17.31; the filed materials in No.94-859 ([Records and Briefs](https://archive.org/details/micro_IA40386012_0804)); 17 F.3d 1463. The statutory exception in §6(g)(2) is not construed or applied. No particular permit, cooperative agreement, experimental population, or enforcement facts are decided. Source support does not establish every potential application of the regulation.
 
 ---
 

@@ -163,7 +163,7 @@ The Tenth Circuit judgment remains effective. No remand is ordered by this decis
 
 ## Source Notes
 
-Predecision support: Tenth Circuit opinion, 16 F.3d 1537, petition appendix pp.1–24 and actual appellate reply at p.43; joint appendix pp.1–36, including SCC pp.24–26 and prime declaration pp.30–31; petitioner merits brief pp.16–24; respondent merits brief pp.12–19 and 29–35. The lower court recorded concessions, but the actual limited statement and merits disputes are preserved. Constitutional and statutory sources include the Fifth Amendment, Small Business Act and operative certification regulations. Fullilove, Metro, Croson and Wygant supply precedent within the limits stated above. The §8(d) regulatory conflict and actual certification route are unresolved. No verbatim decisional quotation is projected.
+Predecision support: Tenth Circuit opinion, 16 F.3d 1537, petition appendix pp. 1–24 and actual appellate reply at p. 43; joint appendix pp. 1–36, including SCC pp. 24–26 and prime declaration pp. 30–31; petitioner merits brief pp. 16–24; respondent merits brief pp. 12–19 and 29–35. The lower court recorded concessions, but the actual limited statement and merits disputes are preserved. Constitutional and statutory sources include the Fifth Amendment, Small Business Act and operative certification regulations. Fullilove, Metro, Croson and Wygant supply precedent within the limits stated above. The §8(d) regulatory conflict and actual certification route are unresolved. No verbatim decisional quotation is projected.
 
 ---
 
@@ -218,7 +218,7 @@ The Seventh Circuit’s calculation remand remains operative. The district court
 
 ## Source Notes
 
-[31 F.3d 581](https://openjurist.org/31/f3d/581) and the [94-788 petition](https://archive.org/details/micro_IA40386012_0738) supply the reserved interest controversy and settled principal; the validated source receipt resolves the malformed principal figure. The official report records Breyer’s nonparticipation and the municipal-status ground’s exclusion. No reason for nonparticipation, general absence of delay evidence or prescribed rate is inferred.
+[31 F.3d 581](https://openjurist.org/31/f3d/581) and the [94-788 petition](https://archive.org/details/micro_IA40386012_0738) supply the reserved interest controversy and settled principal of $1,677,541.86. The official report records Breyer’s nonparticipation and the municipal-status ground’s exclusion. No reason for nonparticipation, general absence of delay evidence or prescribed rate is inferred.
 
 ---
 
@@ -281,7 +281,7 @@ The reviewed immediate appeal remains dismissed. District proceedings may contin
 
 ## Source Notes
 
-28 U.S.C. §1291; Cohen and Mitchell; Seventh Circuit ruling and petition appendices A1–A3/B4a–B10a, read in full at neutral validation, establish the distinct excessive-force dismissal and false-arrest reversal. Counsel's recorded appellate characterization supports the nature of the issue, not the truth of disputed conduct. No verified decisional quotation is projected.
+28 U.S.C. §1291; Cohen and Mitchell; Seventh Circuit ruling and petition appendices A1–A3/B4a–B10a establish the distinct excessive-force dismissal and false-arrest reversal. Counsel's recorded appellate characterization supports the nature of the issue, not the truth of disputed conduct. No verified decisional quotation is projected.
 
 ---
 
@@ -438,7 +438,7 @@ The case returns to the Ninth Circuit to address arguments not reached and dispo
 
 ## Source Notes
 
-33 U.S.C. §§902(10), 908(c)(21), 908(h), 922 and 908(i); Ninth Circuit 28 F.3d 86; petition appendix pp.2a–17a, read in full at neutral validation, including ALJ, Board and circuit rulings. The original order was not a true §8(i) settlement. No future nominal-award doctrine or unsupported payment amount is supplied.
+33 U.S.C. §§902(10), 908(c)(21), 908(h), 922 and 908(i); Ninth Circuit 28 F.3d 86; petition appendix pp. 2a–17a, including ALJ, Board and circuit rulings. The original order was not a true §8(i) settlement. No future nominal-award doctrine or unsupported payment amount is supplied.
 
 ---
 
@@ -660,7 +660,7 @@ The federal case remains stayed while the adequate Travis County coverage procee
 
 ## Source Notes
 
-28 U.S.C. §2201; Brillhart, Colorado River and Moses H. Cone; petition appendices A1–A4 and B1–B4, read in full at neutral validation, establish lower rulings, June 30, 1993 stay and state adequacy findings. The filing sequence and notice agreement do not establish breach or automatic priority. The litigation record is not certified as reviewed in full. No verified decisional quotation is used.
+28 U.S.C. §2201; Brillhart, Colorado River and Moses H. Cone; petition appendices A1–A4 and B1–B4 establish lower rulings, June 30, 1993 stay and state adequacy findings. The filing sequence and notice agreement do not establish breach or automatic priority. The litigation record is not certified as reviewed in full. No verified decisional quotation is used.
 
 ---
 
@@ -901,4 +901,4 @@ Proceed on the cocaine-importation conspiracy and aiding-and-abetting attempted-
 
 ## Source Notes
 
-Public factual support: substantive joint-appendix pp. 9–166 and full Fifth Circuit opinion at JA137–166 in the [Archive docket collection](https://archive.org/details/micro_IA40386012_2001). JA9–15, 38–39, 74–81 establish the amended Count Two marijuana-attempt plea, July 10, 1992 sentence, statutory range and departure. JA82–83 identify the distinct 1989–1990 cocaine counts. The lower appellate opinion independently rejected the plea claim and offered alternative successive-sentencing reasoning, which the Court need not adopt. The coordination arithmetic there is illustrative. Clean preflight checked operative passages and the complete lower opinion, not every line of the original corpus. No unverified drug quantity, future sentencing outcome, grant quotation or Supreme Court procedural action is supplied.
+Public factual support: substantive joint-appendix pp. 9–166 and full Fifth Circuit opinion at JA137–166 in the [Archive docket collection](https://archive.org/details/micro_IA40386012_2001). JA9–15, 38–39, 74–81 establish the amended Count Two marijuana-attempt plea, July 10, 1992 sentence, statutory range and departure. JA82–83 identify the distinct 1989–1990 cocaine counts. The lower appellate opinion independently rejected the plea claim and offered alternative successive-sentencing reasoning, which the Court need not adopt. The coordination arithmetic there is illustrative. No unverified drug quantity, future sentencing outcome, grant quotation or Supreme Court procedural action is supplied.

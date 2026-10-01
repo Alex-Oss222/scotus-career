@@ -1,7 +1,7 @@
 **Case and dockets:** Johnson v. Jones, No. 94-455.
 **Event and date:** Merits decision, 1995-06-12.
 **Result:** The Seventh Circuit judgment dismissing the reviewed immediate excessive-force appeal is affirmed, 9–0.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Operator Git preservation remains pending; no commit hash is claimed.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Operator Git preservation remains pending; no commit hash is claimed. Ninth-audit F04 clerical correction: public-source wording. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Decision kernel
 
@@ -147,4 +147,4 @@ The reviewed immediate appeal remains dismissed. District proceedings may contin
 
 ## Source Notes
 
-28 U.S.C. §1291; Cohen and Mitchell; Seventh Circuit ruling and petition appendices A1–A3/B4a–B10a, read in full at neutral validation, establish the distinct excessive-force dismissal and false-arrest reversal. Counsel's recorded appellate characterization supports the nature of the issue, not the truth of disputed conduct. No verified decisional quotation is projected.
+28 U.S.C. §1291; Cohen and Mitchell; Seventh Circuit ruling and petition appendices A1–A3/B4a–B10a establish the distinct excessive-force dismissal and false-arrest reversal. Counsel's recorded appellate characterization supports the nature of the issue, not the truth of disputed conduct. No verified decisional quotation is projected.

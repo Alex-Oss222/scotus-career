@@ -1,7 +1,7 @@
 **Case and dockets:** Adarand Constructors, Inc. v. Peña, No. 93-1841.
 **Event and date:** Merits decision, 1995-06-12.
 **Result:** The Tenth Circuit judgment is affirmed, 5–4.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Operator Git preservation remains pending; no commit hash is claimed.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Operator Git preservation remains pending; no commit hash is claimed. Ninth-audit F01 clerical correction: spacing/citation typography. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Decision kernel
 
@@ -219,4 +219,4 @@ The Tenth Circuit judgment remains effective. No remand is ordered by this decis
 
 ## Source Notes
 
-Predecision support: Tenth Circuit opinion, 16 F.3d 1537, petition appendix pp.1–24 and actual appellate reply at p.43; joint appendix pp.1–36, including SCC pp.24–26 and prime declaration pp.30–31; petitioner merits brief pp.16–24; respondent merits brief pp.12–19 and 29–35. The lower court recorded concessions, but the actual limited statement and merits disputes are preserved. Constitutional and statutory sources include the Fifth Amendment, Small Business Act and operative certification regulations. Fullilove, Metro, Croson and Wygant supply precedent within the limits stated above. The §8(d) regulatory conflict and actual certification route are unresolved. No verbatim decisional quotation is projected.
+Predecision support: Tenth Circuit opinion, 16 F.3d 1537, petition appendix pp. 1–24 and actual appellate reply at p. 43; joint appendix pp. 1–36, including SCC pp. 24–26 and prime declaration pp. 30–31; petitioner merits brief pp. 16–24; respondent merits brief pp. 12–19 and 29–35. The lower court recorded concessions, but the actual limited statement and merits disputes are preserved. Constitutional and statutory sources include the Fifth Amendment, Small Business Act and operative certification regulations. Fullilove, Metro, Croson and Wygant supply precedent within the limits stated above. The §8(d) regulatory conflict and actual certification route are unresolved. No verbatim decisional quotation is projected.

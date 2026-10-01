@@ -1,7 +1,7 @@
 **Case and dockets:** Swint v. Chambers County Commission; No. 93-1636; 514 U.S. 35
 **Event and date:** Decision, 1995-03-01; October Term 1994, chunk 3.
 **Result:** County appellate merits disposition vacated, 9–0; remand to dismiss the Commission's interlocutory appeal.
-**Version / lineage:** Initial durable event handoff; no earlier adjudication superseded. Operator repository verification and commitment remain pending; no Git operation is claimed. User-authorized nonadjudicative correction, 2026-09-30 (F07, F10, current 17-finding audit): replaces only the identified annex, chronology, status or wording defects in place. All adjudicated judgments, votes, coalitions and remedies are preserved.
+**Version / lineage:** Initial durable event handoff; no earlier adjudication superseded. Operator repository verification and commitment remain pending; no Git operation is claimed. User-authorized nonadjudicative correction, 2026-09-30 (F07, F10, current 17-finding audit): replaces only the identified annex, chronology, status or wording defects in place. All adjudicated judgments, votes, coalitions and remedies are preserved. Ninth-audit F03 clerical correction: completed-validation wording. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Event, posture and chronology
 
@@ -9,7 +9,7 @@ Swint v. Chambers County Commission, No. 93-1636; 514 U.S. 35. Argued January 10
 
 The underlying two raids occurred in December 1990 and March 1991. Owners, an employee and a patron asserted federal civil-rights claims against distinct municipal, county and individual defendants. The Eleventh Circuit rejected the county's own collateral-order route but reviewed its liability defense for convenience while hearing the individual officials' immunity appeals. It treated the sheriff as not a final county policymaker and rejected an independent basis for the county conspiracy claim. This Record reviews appellate power only. Neither the summary-judgment allegations nor the county's liability position becomes a final finding.
 
-The historical schedule supplies the argument and event dates. The admitted certiorari channel reviews the appellate judgment; no new grant date or certiorari poll is created. Evans shares the same pre-March-1 law; processing order creates no sequence. Earlier actual chunk-3 public law must be checked before this draft's promotion, using the sanitized dated entering-law refresh.
+The historical schedule supplies the argument and event dates. The admitted certiorari channel reviews the appellate judgment; no new grant date or certiorari poll is created. Evans shares the same pre-March-1 law; processing order creates no sequence. Earlier actual chunk-3 public law was checked after preservation, using the sanitized dated entering-law refresh, as recorded below.
 
 ## Participation and law-entering snapshot
 
@@ -105,7 +105,7 @@ The strongest contrary routes are that definitive denial of motions supplies con
 
 **Historical departure:** The Chief’s approved distinction affirmatively recognizes genuinely inseparable or necessary connected review, while the eight associates preserve the historical reservation. His narrower express grounds also leave the additional conclusiveness rationale with eight joins rather than adding an unexpressed Chief join. The changed judicial premise is Stone’s explicit permission and limited grounds; no associate abandons the historical judgment or rationale, and the necessary-review proposition does not become Court law.
 
-## Actual chronology refresh before preservation
+## Actual chronology review after preservation
 
 At original preparation, the [public-law reading slice effective before March 1](../entering-law/OT_1994CHUNK3_EFFECTIVE_BEFORE_1995-03-01.md) contained 29 then-completed earlier Records; that preparation total predates the O’Neal completion now included in the effective baseline. The four February 22 decisions and February 28 Gustafson were checked after preservation. NTEU separates beneficiary relief from statutory rewriting in an employee-speech setting; it does not supply an interlocutory jurisdictional route or alter the county/officer distinction. Harris addresses capital selection and judicial advice, not immunity from suit. Grubart concerns subject-matter admiralty jurisdiction and preserves independent jurisdiction for other claims; it neither authorizes an interlocutory county appeal nor displaces the express appellate statutes. Anderson applies present ripeness and equitable vacatur under §2106, not an expansion of §1291 review. Gustafson's confined acquisition-contract construction and its statutory-method disagreements leave the express finality and interlocutory requirements intact. Their published separate positions provide no new contrary commitment at the exact level needed here.
 
@@ -117,7 +117,7 @@ Research cutoff: March 1, 1995. The county appeal, separate officer dispositions
 
 The complete bounded primary orders are retained in [text](../sources/chunk3-b-swint-supplement/Swint_lower_orders_App_44_73.txt); the validator and reconciling context read them in full. The [validated B packet](../freeze/OT_1994CHUNK3_NEUTRAL_B_VALIDATED.md#32-swint-v-chambers-county-commission) and source index distinguish the original lower appellate facts from the later checkpoint. The full official historical report was used in reconciliation, not as entering law. No missing source remains for the bounded disposition; future policymaker facts are left for ordinary proceedings.
 
-Mode limitation: disclosed Engine §3 fallback with separate saved stages, not a claim of fresh-context blindness. The final non-Stone reconciliation was frozen before assembly received and applied Stone. Original handoffs remain preserved. Parent checks headings, vote partitions, holding depth, links, chronology and Public Projection identity before promotion; repository checks and commitment remain for the operator.
+Mode limitation: disclosed Engine §3 fallback with separate saved stages, not a claim of fresh-context blindness. The final non-Stone reconciliation was frozen before assembly received and applied Stone. Original handoffs remain preserved. Parent review checked headings, vote partitions, holding depth, links and Public Projection identity; the completed after-preservation chronology review is recorded above. Repository checks and commitment remain for the operator.
 
 ## Public Projection
 

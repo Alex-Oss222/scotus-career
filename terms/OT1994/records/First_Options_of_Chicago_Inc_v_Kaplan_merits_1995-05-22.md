@@ -1,13 +1,13 @@
 **Case and dockets:** First Options of Chicago, Inc. v. Kaplan; No. 94-560.
 **Event and date:** Merits decision; 1995-05-22; OT1994, chunk 6.
-**Result:** AFFIRMED,9-0 on both arbitrability and appellate-review components.
-**Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction. Close-audit correction 2026-09-30 (F08): historical-departure label for Stone’s reserved rationale join; replaces the prior wording in place without a new adjudication.
+**Result:** AFFIRMED, 9-0 on both arbitrability and appellate-review components.
+**Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction. Close-audit correction 2026-09-30 (F08): historical-departure label for Stone’s reserved rationale join; replaces the prior wording in place without a new adjudication. Ninth-audit F01 clerical correction: spacing/citation typography. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Event, participation and entering law
 
-Review of the Third Circuit,19 F.3d1503, reversing confirmation of the award against the Kaplans; argued March 22, 1995. Questions: delegation of arbitrability and ordinary appellate review. MKI signed the arbitration document and submitted; the Kaplans did not sign it and objected to panel jurisdiction.
+Review of the Third Circuit, 19 F.3d 1503, reversing confirmation of the award against the Kaplans; argued March 22, 1995. Questions: delegation of arbitrability and ordinary appellate review. MKI signed the arbitration document and submitted; the Kaplans did not sign it and objected to panel jurisdiction.
 
-Lawful channel: established merits channel under admitted inventory. No new grant vote or fabricated grant date. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate; quorum satisfied, five votes control. Reached issues are within supplied scope; no established threshold, vehicle or preservation bar. Coordinated OT1993 trackers, chunk6 entering-law slice and effective current neutral projection control. May22 decisions share entering baseline. Nebraska April20, 1993 is simulated postdivergence law; its enforcement/modification distinction governs. Effective current Kansas enters only at adopted scope. No later historical Supreme Court result becomes authority. Research cutoff immediately before 1995-05-22.
+Lawful channel: established merits channel under admitted inventory. No new grant vote or fabricated grant date. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate; quorum satisfied, five votes control. Reached issues are within supplied scope; no established threshold, vehicle or preservation bar. Coordinated OT1993 trackers, chunk6 entering-law slice and effective current neutral projection control. May22 decisions share entering baseline. Nebraska April 20, 1993 is simulated postdivergence law; its enforcement/modification distinction governs. Effective current Kansas enters only at adopted scope. No later historical Supreme Court result becomes authority. Research cutoff immediately before 1995-05-22.
 
 ## Stone fixed core and final compatibility
 
@@ -47,7 +47,7 @@ Stone final disposition and joins match the topology below. Every addressed qual
 
 ## Judgment and topology
 
-Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer affirm both components,9-0. The Third Circuit judgment vacating the award against the Kaplans personally remains in force. MKI's separate corporate submission is unaffected except as provided below. No new FAA merits-vacatur ground is adopted.
+Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer affirm both components, 9-0. The Third Circuit judgment vacating the award against the Kaplans personally remains in force. MKI's separate corporate submission is unaffected except as provided below. No new FAA merits-vacatur ground is adopted.
 
 Breyer delivers the Opinion of the Court. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join PartI antecedent assent and application and PartII ordinary appellate review. Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer alone join the additional conditional limited-review proposition for actual delegation. Stone-Zsela reserves that proposition and merits-award deference; no separate writing or fractured-decision inference.
 

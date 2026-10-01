@@ -153,7 +153,7 @@ Stevens, joined by Souter, Ginsburg and Breyer, dissents from financing and deri
 
 #### Source Notes
 
-[Day v. Holahan, full lower opinion](https://openjurist.org/34/f3d/1356/day-impace-mea-v-l-holahan-minnesota-citizens-concerned-for-life-inc-a), paragraphs 1-51 and footnotes 1-8, corroborated by the Public.Resource.Org reporter reproduction. Official [Minnesota Statutes 1994, chapter 10A](https://www.revisor.mn.gov/statutes/1994/cite/10A/pdf), printed pp.251-252, 257, 259; [chapter 211B](https://www.revisor.mn.gov/statutes/1994/cite/211B/pdf), pp.1123-1124; [section 645.20](https://www.revisor.mn.gov/statutes/1994/cite/645/pdf), p.502.
+[Day v. Holahan, full lower opinion](https://openjurist.org/34/f3d/1356/day-impace-mea-v-l-holahan-minnesota-citizens-concerned-for-life-inc-a), paragraphs 1-51 and footnotes 1-8, corroborated by the Public.Resource.Org reporter reproduction. Official [Minnesota Statutes 1994, chapter 10A](https://www.revisor.mn.gov/statutes/1994/cite/10A/pdf), printed pp. 251-252, 257, 259; [chapter 211B](https://www.revisor.mn.gov/statutes/1994/cite/211B/pdf), pp. 1123-1124; [section 645.20](https://www.revisor.mn.gov/statutes/1994/cite/645/pdf), p. 502.
 
 Section 10A.25(13) increases limits by independent expenditures in opposition to the candidate plus expenditures for the candidate's major-political-party opponents; it excludes an association's communications solely to its own dues-paying members. The provision itself contains no $100 threshold: over $100 is the lower opinion's operational reporting scenario. Within 48 hours after receipt of the report/notice under 10A.20(3), (6) or (6b), the Board notifies every candidate in the race of the affected increase. Within three days after that notice it pays half the expenditure only to a candidate eligible for subsidy who has raised twice the minimum match; the sum is appropriated from the general fund. The lower opinion's footnote 2 questions compatibility with electoral-result eligibility; that is an observation about implementation, not a statutory exception excusing payment or a Supreme Court finding that every subsidy is immediately payable.
 
@@ -689,7 +689,7 @@ Thomas concurs in all other components and dissents on the Fourth Cross-Claim. H
 
 #### Source Notes
 
-The [Third Interim Report](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180149/1000180149_017.pdf), pp.33-71, Apps.C-E, supplies decree and pleadings. [United States exception](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_001.pdf) and [Wyoming exceptions](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_002.pdf), November 25, 1994, supply objections; Government opposition is no jurisdictional concession. Nebraska 1945, 1953, April 20, 1993 and Kansas v. Colorado apply at exact scope. No new hydrologic finding, Glendo quantity or carriage-loss formula is reconstructed.
+The [Third Interim Report](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180149/1000180149_017.pdf), pp. 33-71, Apps. C-E, supplies decree and pleadings. [United States exception](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_001.pdf) and [Wyoming exceptions](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_002.pdf), November 25, 1994, supply objections; Government opposition is no jurisdictional concession. Nebraska 1945, 1953, April 20, 1993 and Kansas v. Colorado apply at exact scope. No new hydrologic finding, Glendo quantity or carriage-loss formula is reconstructed.
 
 #### Mandate, Remedy, and Stage
 
@@ -911,7 +911,7 @@ Stone-Zsela dissents without joins. He would hold that compulsory confinement in
 
 #### Source Notes
 
-Koray v. Sizer, 21 F.3d 558, 559–564 and n.1 supplies the order, exhaustion, allegations and abandoned equality claim. 18 U.S.C. §§ 3585(b),3142(c),3142(e),3621 supply statutory context; Wilson, March 24, 1992 supplies computation and review allocation. Detailed conditions are not adjudicated facts and no exact credit award is made.
+Koray v. Sizer, 21 F.3d 558, 559–564 and n.1 supplies the order, exhaustion, allegations and abandoned equality claim. 18 U.S.C. §§ 3585(b), 3142(c), 3142(e), 3621 supply statutory context; Wilson, March 24, 1992 supplies computation and review allocation. Detailed conditions are not adjudicated facts and no exact credit award is made.
 
 #### Mandate, Remedy, and Stage
 

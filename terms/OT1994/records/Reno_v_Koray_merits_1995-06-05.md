@@ -1,7 +1,7 @@
 **Case and dockets:** Reno v. Koray, No. 94-790. October Term 1994; inventory matter 72.
 **Event and date:** Merits decision, 1995-06-05.
 **Result:** Third Circuit reversed and remanded, 7–2.
-**Version / lineage:** Original completed-event assembly; supersedes no adjudication. Frozen neutral and reconciliation handoffs precede Stone assembly; operator validation and commitment follow. User-authorized nonadjudicative correction, 2026-09-30 (F03, current 17-finding audit): replaces only the identified annex, chronology, status or wording defects in place. All adjudicated judgments, votes, coalitions and remedies are preserved.
+**Version / lineage:** Original completed-event assembly; supersedes no adjudication. Frozen neutral and reconciliation handoffs precede Stone assembly; operator validation and commitment follow. User-authorized nonadjudicative correction, 2026-09-30 (F03, current 17-finding audit): replaces only the identified annex, chronology, status or wording defects in place. All adjudicated judgments, votes, coalitions and remedies are preserved. Ninth-audit F01 clerical correction: spacing/citation typography. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Event, review and participation
 
@@ -271,4 +271,4 @@ The Third Circuit’s conditions-inquiry judgment is reversed and the matter rem
 
 ## Source Notes
 
-Koray v. Sizer, 21 F.3d 558, 559–564 and n.1 supplies the order, exhaustion, allegations and abandoned equality claim. 18 U.S.C. §§ 3585(b),3142(c),3142(e),3621 supply statutory context; Wilson, March 24, 1992 supplies computation and review allocation. Detailed conditions are not adjudicated facts and no exact credit award is made. No quotation is used.
+Koray v. Sizer, 21 F.3d 558, 559–564 and n.1 supplies the order, exhaustion, allegations and abandoned equality claim. 18 U.S.C. §§ 3585(b), 3142(c), 3142(e), 3621 supply statutory context; Wilson, March 24, 1992 supplies computation and review allocation. Detailed conditions are not adjudicated facts and no exact credit award is made. No quotation is used.

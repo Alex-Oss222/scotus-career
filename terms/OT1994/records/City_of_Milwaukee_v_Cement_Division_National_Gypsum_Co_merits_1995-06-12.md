@@ -1,7 +1,7 @@
 **Case and dockets:** City of Milwaukee v. Cement Division, National Gypsum Co., No. 94-788
 **Event and date:** Merits decision, 1995-06-12; October Term 1994, chunk 7.
 **Result:** Affirmed, 8–0; Breyer takes no part.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Operator Git preservation remains pending; no commit hash is claimed.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Operator Git preservation remains pending; no commit hash is claimed. Ninth-audit F04 clerical correction: public-source wording. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Event, participation and decision kernel
 
@@ -115,4 +115,4 @@ The Seventh Circuit’s calculation remand remains operative. The district court
 
 ## Source Notes
 
-[31 F.3d 581](https://openjurist.org/31/f3d/581) and the [94-788 petition](https://archive.org/details/micro_IA40386012_0738) supply the reserved interest controversy and settled principal; the validated source receipt resolves the malformed principal figure. The official report records Breyer’s nonparticipation and the municipal-status ground’s exclusion. No reason for nonparticipation, general absence of delay evidence or prescribed rate is inferred.
+[31 F.3d 581](https://openjurist.org/31/f3d/581) and the [94-788 petition](https://archive.org/details/micro_IA40386012_0738) supply the reserved interest controversy and settled principal of $1,677,541.86. The official report records Breyer’s nonparticipation and the municipal-status ground’s exclusion. No reason for nonparticipation, general absence of delay evidence or prescribed rate is inferred.

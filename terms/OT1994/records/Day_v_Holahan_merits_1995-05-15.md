@@ -1,7 +1,7 @@
 **Case and dockets:** Day v. Holahan; No. 94-672
 **Event and date:** Merits decision, 1995-05-15; October Term 1994, chunk 6.
 **Result:** The Eighth Circuit judgment is affirmed: financing and special notice 5-4; contribution ceiling and MCCL relief 9-0.
-**Version / lineage:** Initial adjudication; no predecessor is superseded.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Ninth-audit F01 clerical correction: spacing/citation typography. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Decision kernel
 
@@ -102,7 +102,7 @@ The Eighth Circuit judgment stands. The lower courts implement the separate perm
 
 ## Sources, cutoff and validation
 
-[Day v. Holahan, full lower opinion](https://openjurist.org/34/f3d/1356/day-impace-mea-v-l-holahan-minnesota-citizens-concerned-for-life-inc-a), paragraphs 1-51 and footnotes 1-8, corroborated by the Public.Resource.Org reporter reproduction. Official [Minnesota Statutes 1994, chapter 10A](https://www.revisor.mn.gov/statutes/1994/cite/10A/pdf), printed pp.251-252, 257, 259; [chapter 211B](https://www.revisor.mn.gov/statutes/1994/cite/211B/pdf), pp.1123-1124; [section 645.20](https://www.revisor.mn.gov/statutes/1994/cite/645/pdf), p.502.
+[Day v. Holahan, full lower opinion](https://openjurist.org/34/f3d/1356/day-impace-mea-v-l-holahan-minnesota-citizens-concerned-for-life-inc-a), paragraphs 1-51 and footnotes 1-8, corroborated by the Public.Resource.Org reporter reproduction. Official [Minnesota Statutes 1994, chapter 10A](https://www.revisor.mn.gov/statutes/1994/cite/10A/pdf), printed pp. 251-252, 257, 259; [chapter 211B](https://www.revisor.mn.gov/statutes/1994/cite/211B/pdf), pp. 1123-1124; [section 645.20](https://www.revisor.mn.gov/statutes/1994/cite/645/pdf), p. 502.
 
 Section 10A.25(13) increases limits by independent expenditures in opposition to the candidate plus expenditures for the candidate's major-political-party opponents; it excludes an association's communications solely to its own dues-paying members. The provision itself contains no $100 threshold: over $100 is the lower opinion's operational reporting scenario. Within 48 hours after receipt of the report/notice under 10A.20(3), (6) or (6b), the Board notifies every candidate in the race of the affected increase. Within three days after that notice it pays half the expenditure only to a candidate eligible for subsidy who has raised twice the minimum match; the sum is appropriated from the general fund. The lower opinion's footnote 2 questions compatibility with electoral-result eligibility; that is an observation about implementation, not a statutory exception excusing payment or a Supreme Court finding that every subsidy is immediately payable.
 
@@ -239,7 +239,7 @@ The Eighth Circuit judgment stands. The lower courts implement the separate perm
 
 ## Source Notes
 
-[Day v. Holahan, full lower opinion](https://openjurist.org/34/f3d/1356/day-impace-mea-v-l-holahan-minnesota-citizens-concerned-for-life-inc-a), paragraphs 1-51 and footnotes 1-8, corroborated by the Public.Resource.Org reporter reproduction. Official [Minnesota Statutes 1994, chapter 10A](https://www.revisor.mn.gov/statutes/1994/cite/10A/pdf), printed pp.251-252, 257, 259; [chapter 211B](https://www.revisor.mn.gov/statutes/1994/cite/211B/pdf), pp.1123-1124; [section 645.20](https://www.revisor.mn.gov/statutes/1994/cite/645/pdf), p.502.
+[Day v. Holahan, full lower opinion](https://openjurist.org/34/f3d/1356/day-impace-mea-v-l-holahan-minnesota-citizens-concerned-for-life-inc-a), paragraphs 1-51 and footnotes 1-8, corroborated by the Public.Resource.Org reporter reproduction. Official [Minnesota Statutes 1994, chapter 10A](https://www.revisor.mn.gov/statutes/1994/cite/10A/pdf), printed pp. 251-252, 257, 259; [chapter 211B](https://www.revisor.mn.gov/statutes/1994/cite/211B/pdf), pp. 1123-1124; [section 645.20](https://www.revisor.mn.gov/statutes/1994/cite/645/pdf), p. 502.
 
 Section 10A.25(13) increases limits by independent expenditures in opposition to the candidate plus expenditures for the candidate's major-political-party opponents; it excludes an association's communications solely to its own dues-paying members. The provision itself contains no $100 threshold: over $100 is the lower opinion's operational reporting scenario. Within 48 hours after receipt of the report/notice under 10A.20(3), (6) or (6b), the Board notifies every candidate in the race of the affected increase. Within three days after that notice it pays half the expenditure only to a candidate eligible for subsidy who has raised twice the minimum match; the sum is appropriated from the general fund. The lower opinion's footnote 2 questions compatibility with electoral-result eligibility; that is an observation about implementation, not a statutory exception excusing payment or a Supreme Court finding that every subsidy is immediately payable.
 

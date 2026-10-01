@@ -572,7 +572,7 @@ The existing writ is dismissed for want of jurisdiction. The lower judgment endi
 
 Reich v. Collins, No. 93-908.
 
-On writ of certiorari to the Supreme Court of Georgia, reviewing 263 Ga.602, 437 S.E.2d320 (December 2, 1993). Argued October 11, 1994; decided December 6, 1994. The question is whether Georgia may withdraw an apparently available refund remedy after payment of taxes already accepted as unconstitutional. Reich, a retired Army colonel, paid tax on federal military retirement while state retirement was exempt; his eligible-year claim concerns 1985–1988. The trial court accepted the substantive federal defect, which the State did not appeal, but denied retroactive relief. The state court's later formal disposition was affirmed in part and reversed in part; the operative ruling reviewed here is denial of backward-looking relief, not every trial component.
+On writ of certiorari to the Supreme Court of Georgia, reviewing 263 Ga. 602, 437 S.E.2d 320 (December 2, 1993). Argued October 11, 1994; decided December 6, 1994. The question is whether Georgia may withdraw an apparently available refund remedy after payment of taxes already accepted as unconstitutional. Reich, a retired Army colonel, paid tax on federal military retirement while state retirement was exempt; his eligible-year claim concerns 1985–1988. The trial court accepted the substantive federal defect, which the State did not appeal, but denied retroactive relief. The state court's later formal disposition was affirmed in part and reversed in part; the operative ruling reviewed here is denial of backward-looking relief, not every trial component.
 
 Render form: compact — unanimous decision on a single bounded remedial question.
 

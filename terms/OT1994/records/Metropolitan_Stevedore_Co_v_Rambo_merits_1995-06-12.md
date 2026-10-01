@@ -1,7 +1,7 @@
 **Case and dockets:** Metropolitan Stevedore Co. v. Rambo, No. 94-820.
 **Event and date:** Merits decision, 1995-06-12.
 **Result:** The Ninth Circuit judgment is reversed and the case remanded, 8–1.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Operator Git preservation remains pending; no commit hash is claimed.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Operator Git preservation remains pending; no commit hash is claimed. Ninth-audit F01/F04 clerical correction: spacing/citation typography; public-source wording. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Decision kernel
 
@@ -179,4 +179,4 @@ The case returns to the Ninth Circuit to address arguments not reached and dispo
 
 ## Source Notes
 
-33 U.S.C. §§902(10), 908(c)(21), 908(h), 922 and 908(i); Ninth Circuit 28 F.3d 86; petition appendix pp.2a–17a, read in full at neutral validation, including ALJ, Board and circuit rulings. The original order was not a true §8(i) settlement. No future nominal-award doctrine or unsupported payment amount is supplied.
+33 U.S.C. §§902(10), 908(c)(21), 908(h), 922 and 908(i); Ninth Circuit 28 F.3d 86; petition appendix pp. 2a–17a, including ALJ, Board and circuit rulings. The original order was not a true §8(i) settlement. No future nominal-award doctrine or unsupported payment amount is supplied.

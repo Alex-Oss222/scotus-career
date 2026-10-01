@@ -1,13 +1,13 @@
 **Case and dockets:** Nebraska v. Wyoming; No. 108, Original.
 **Event and date:** Original exceptions; 1995-05-30; OT1994, chunk 6.
 **Result:** All six exceptions OVERRULED;9-0 on Wyoming's four exceptions;8-1 on both federal-claim exceptions. Bounded leave granted and withheld; further proceedings before the Master.
-**Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction. Close-audit correction 2026-09-30 (F03): Fourth Cross-Claim attribution made consistent with the existing eight-Justice admission; replaces the prior wording in place without a new adjudication.
+**Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction. Close-audit correction 2026-09-30 (F03): Fourth Cross-Claim attribution made consistent with the existing eight-Justice admission; replaces the prior wording in place without a new adjudication. Ninth-audit F01/F04 clerical correction: spacing/citation typography; public-source wording. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Event, participation and entering law
 
-Original-action exceptions to Master Olpin's Third Interim Report, filed October11, 1994; exceptions filed November25, 1994. Questions: ceiling, groundwater, equitable defenses, downstream/habitat, HorseCreek, federal administration and exact leave. Argued March 21, 1995, using the argument chronology supplied in the neutral packet.
+Original-action exceptions to Master Olpin's Third Interim Report, filed October 11, 1994; exceptions filed November 25, 1994. Questions: ceiling, groundwater, equitable defenses, downstream/habitat, HorseCreek, federal administration and exact leave. Argued March 21, 1995, using the argument chronology supplied in the neutral packet.
 
-Lawful channel: ArticleIII, 28U.S.C.1251(a) original jurisdiction and decree reopener under admitted inventory. No new grant vote or fabricated grant date. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate; quorum satisfied, five votes control. Reached issues are within supplied scope; no established threshold, vehicle or preservation bar. Coordinated OT1993 trackers, chunk6 entering-law slice and effective current neutral projection control. May22 decisions share entering baseline. Nebraska April20, 1993 is simulated postdivergence law; its enforcement/modification distinction governs. Effective current Kansas enters only at adopted scope. No later historical Supreme Court result becomes authority. Research cutoff immediately before 1995-05-30.
+Lawful channel: Article III, 28 U.S.C. 1251(a) original jurisdiction and decree reopener under admitted inventory. No new grant vote or fabricated grant date. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate; quorum satisfied, five votes control. Reached issues are within supplied scope; no established threshold, vehicle or preservation bar. Coordinated OT1993 trackers, chunk6 entering-law slice and effective current neutral projection control. May22 decisions share entering baseline. Nebraska April 20, 1993 is simulated postdivergence law; its enforcement/modification distinction governs. Effective current Kansas enters only at adopted scope. No later historical Supreme Court result becomes authority. Research cutoff immediately before 1995-05-30.
 
 ## Stone fixed core and final compatibility
 
@@ -308,7 +308,7 @@ Historical reconciliation: All eight match other components. Scalia's provisiona
 
 ## Sources and validation
 
-The [Third Interim Report](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180149/1000180149_017.pdf),pp.33-71,Apps. C-E, supplies decree and pleadings. [United States exception](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_001.pdf) and [Wyoming exceptions](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_002.pdf),November 25, 1994, supply objections; Government opposition is no jurisdictional concession. Nebraska 1945, 1953, April 20, 1993 and current Kansas apply at exact scope. No new hydrologic finding, Glendo quantity or carriage-loss formula is reconstructed.
+The [Third Interim Report](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180149/1000180149_017.pdf), pp. 33-71, Apps. C-E, supplies decree and pleadings. [United States exception](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_001.pdf) and [Wyoming exceptions](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_002.pdf), November 25, 1994, supply objections; Government opposition is no jurisdictional concession. Nebraska 1945, 1953, April 20, 1993 and current Kansas apply at exact scope. No new hydrologic finding, Glendo quantity or carriage-loss formula is reconstructed.
 
 Cutoff predecision 1995-05-30; modern retrieval is provenance only. Wilson/FirstOptions Archive availability verified, not complete independentPDFreading; no transcript facts inferred. Nebraska source supports leave, not hydrologic merits. Assembly checks cover votes, scope and identical kernel/publicholdings; operator term checks and Git commitment remain. This natural-key file becomes authoritative once validated and committed. No render or workspace was written here.
 
@@ -320,7 +320,7 @@ Parent arithmetic, chronology, public interface, holding-depth, manifest/ledger 
 
 ## Event
 
-Nebraska v. Wyoming, No. 108, Original; Original exceptions, 1995-05-30. Original-action exceptions to Master Olpin's Third Interim Report, filed October 11, 1994; exceptions filed November 25, 1994. Questions: ceiling, groundwater, equitable defenses, downstream/habitat, Horse Creek, federal administration and exact leave. Argued March 21, 1995, using the argument chronology supplied in the neutral packet. Render form: full; basis: complex six-exception and amended-pleading disposition.
+Nebraska v. Wyoming, No. 108, Original; Original exceptions, 1995-05-30. Original-action exceptions to Master Olpin's Third Interim Report, filed October 11, 1994; exceptions filed November 25, 1994. Questions: ceiling, groundwater, equitable defenses, downstream/habitat, Horse Creek, federal administration and exact leave. Argued March 21, 1995. Render form: full; basis: complex six-exception and amended-pleading disposition.
 
 ## Participation
 
@@ -463,4 +463,4 @@ Original action remains open before Master Olpin for evidence and recommendation
 
 ## Source Notes
 
-The [Third Interim Report](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180149/1000180149_017.pdf), pp.33-71, Apps.C-E, supplies decree and pleadings. [United States exception](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_001.pdf) and [Wyoming exceptions](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_002.pdf), November 25, 1994, supply objections; Government opposition is no jurisdictional concession. Nebraska 1945, 1953, April 20, 1993 and current Kansas apply at exact scope. No new hydrologic finding, Glendo quantity or carriage-loss formula is reconstructed.
+The [Third Interim Report](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180149/1000180149_017.pdf), pp. 33-71, Apps. C-E, supplies decree and pleadings. [United States exception](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_001.pdf) and [Wyoming exceptions](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_002.pdf), November 25, 1994, supply objections; Government opposition is no jurisdictional concession. Nebraska 1945, 1953, April 20, 1993 and current Kansas apply at exact scope. No new hydrologic finding, Glendo quantity or carriage-loss formula is reconstructed.

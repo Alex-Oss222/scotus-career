@@ -1,7 +1,7 @@
 **Case and dockets:** Tome v. United States, No. 93-6892
 **Event and date:** Merits decision; 1995-01-10; October Term 1994, chunk 2.
 **Result:** The Tenth Circuit judgment is reversed and the case remanded, 6–3.
-**Version / lineage:** Original adjudication; supersedes nothing. Durable file preservation; operator Git commit pending under the user's prohibition on Git commands.
+**Version / lineage:** Original adjudication; supersedes nothing. Durable file preservation; operator Git commit pending under the user's prohibition on Git commands. Ninth-audit F04 clerical correction: public-source wording. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Event and law-entering kernel
 
@@ -249,4 +249,4 @@ The mandate reverses the Tenth Circuit judgment and returns the case to that cou
 
 ## Source Notes
 
-The validated neutral packet's complete predecision petition appendix supplies the trial chronology, Tenth Circuit reasoning, and reserved alternative grounds: [petition and Appendix A](https://archive.org/download/micro_IA40385013_0531/micro_IA40385013_0531%2002.%20Petition%20for%20Writ%20of%20Certiorari.pdf), United States v. Tome, 3 F.3d 342 (10th Cir. 1993). The Rules and earlier Court decisions support the identified doctrinal requirements. [United States v. Moore, 923 F.2d 910](https://static.case.law/f2d/923/cases/0910-01.json) supports the dissent's interpretive comparison. No new finding of coaching, fabrication, statement-specific preservation, alternative-exception satisfaction, or harmlessness is made from an incomplete trial record.
+The predecision petition appendix supplies the trial chronology, Tenth Circuit reasoning, and reserved alternative grounds: [petition and Appendix A](https://archive.org/download/micro_IA40385013_0531/micro_IA40385013_0531%2002.%20Petition%20for%20Writ%20of%20Certiorari.pdf), United States v. Tome, 3 F.3d 342 (10th Cir. 1993). The Rules and earlier Court decisions support the identified doctrinal requirements. [United States v. Moore, 923 F.2d 910](https://static.case.law/f2d/923/cases/0910-01.json) supports the dissent's interpretive comparison. No new finding of coaching, fabrication, statement-specific preservation, alternative-exception satisfaction, or harmlessness is made from an incomplete trial record.

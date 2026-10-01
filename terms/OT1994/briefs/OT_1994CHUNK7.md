@@ -412,8 +412,7 @@ Review is limited to the issues stated above, necessary antecedents, and the rem
 |---|---|---|
 | The S/S EM FORD broke from its berth, struck the wall, and sank in Milwaukee Harbor. | Established accident background | 31 F.3d at 582; 915 F.2d 1154 (7th Cir. 1990). |
 | The prior appellate disposition allocated two-thirds fault to National Gypsum and one-third to the City. | Prior judgment, not a new finding sought here | 31 F.3d at 582. |
-| The parties settled principal damages at <!-- BEGIN_CASE OT1994-076 -->
-,677,541.86 and left the interest question open; the City paid the principal. | Undisputed partial settlement and judgment | 31 F.3d at 582. |
+| The parties settled principal damages at $1,677,541.86 and left the interest question open; the City paid the principal. | Undisputed partial settlement and judgment | 31 F.3d at 582. |
 | The district court denied interest on mutual-fault and municipal financing grounds. | Ruling under review | 31 F.3d at 582–583. |
 
 ### 3. Threshold and vehicle matters

@@ -1,7 +1,7 @@
 **Case and dockets:** United States v. Aguilar; No. 94-270
 **Event and date:** Merits decision, 1995-06-21; October Term 1994, chunk 8.
 **Result:** Ninth Circuit affirmed on §1503 reversal, 6–3; reversed on §2232(c) expiration bar, 8–1; remanded for preserved claims.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. Close-audit correction 2026-09-30 (F08, F12): fallback-based historical-departure label and empty-heading cleanup; replaces the prior wording in place without a new adjudication.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. Close-audit correction 2026-09-30 (F08, F12): fallback-based historical-departure label and empty-heading cleanup; replaces the prior wording in place without a new adjudication. Ninth-audit F03 clerical correction: completed-validation wording. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Event, participation, and entering-law validation
 
@@ -84,7 +84,7 @@ The pending-judicial nexus limits §1503; §2232(c) retains actual application k
 
 Research cutoff: immediately before 1995-06-21, with historical Court opinion used only at reconciliation for the dated comparator. Source-to-fact support and precise actual full/targeted-reading limits are in the incorporated immutable handoffs; retrieval alone is not certified reading. No later external event is admitted. Both merits substantive bodies and positively identified indictment, interview and instruction passages were read; the full long appendix/petition were not certified complete. Actual surviving counts are 6 and 8, not §1001. The automatic-reinstatement comparator shorthand is corrected to the official retained-issues remand. Actual Gaudin public refresh and final reconciliation refresh receipt govern later-law validation.
 
-Record and bounded projection are durably written; coordinated arithmetic, identity, link and term checks remain pending the chunk validation receipt. Operator Git-object verification and repository commitment remain pending and are not represented as completed.
+Record and bounded projection are durably written; coordinated arithmetic, identity, link and term checks are complete, as documented in the [chunk validation receipt](../freeze/OT_1994CHUNK8_VALIDATION.md). Operator Git-object verification and repository commitment remain pending and are not represented as completed.
 
 ## Adaptive audit annex
 

@@ -1,7 +1,7 @@
 **Case and dockets:** Anderson v. Green; No. 94-197; 513 U.S. 557
 **Event and date:** Decision, 1995-02-22; October Term 1994, chunk 3.
 **Result:** Ninth Circuit judgment vacated, 9–0; remand for vacatur of District Court preliminary judgment and dismissal without prejudice as unripe.
-**Version / lineage:** Initial durable event handoff; no earlier adjudication superseded. Operator repository verification and commitment remain pending; no Git operation is claimed. User-authorized nonadjudicative correction, 2026-09-30 (F07, current 17-finding audit): replaces only the identified annex, chronology, status or wording defects in place. All adjudicated judgments, votes, coalitions and remedies are preserved.
+**Version / lineage:** Initial durable event handoff; no earlier adjudication superseded. Operator repository verification and commitment remain pending; no Git operation is claimed. User-authorized nonadjudicative correction, 2026-09-30 (F07, current 17-finding audit): replaces only the identified annex, chronology, status or wording defects in place. All adjudicated judgments, votes, coalitions and remedies are preserved. Ninth-audit F03 clerical correction: completed-validation wording. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Event and chronology
 
@@ -86,7 +86,7 @@ Research cutoff: February 22, 1995. Source verification and relevant party submi
 
 Mode limitation: tooling did not supply additional fresh contexts; the disclosed Engine §3 fallback used separate saved modeling and reconciliation phases and withheld this Stone supplement until assembly. The control/assembly context already knew Stone. No claim of achieved full blindness is made. The eight reconciled positions were frozen before this assembly. Public material excludes that workflow.
 
-Arithmetic: nine participants, nine votes and nine joins on each controlling ground and the complete mandate; no competing disposition. Holdings are copied unchanged into the bounded Public Projection. Parent validation checks opening labels, component partitions, word depth, source links, chronology and projection identity before preservation in current workspace. This is a durable file handoff pending the operator's repository verification and commit, not a claim that Git verification occurred.
+Arithmetic: nine participants, nine votes and nine joins on each controlling ground and the complete mandate; no competing disposition. Holdings are copied unchanged into the bounded Public Projection. Parent validation checked opening labels, component partitions, word depth, source links, chronology and projection identity; the completed Record is preserved in the current workspace. This is a durable file handoff pending the operator's repository verification and commit, not a claim that Git verification occurred.
 
 ## Public Projection
 

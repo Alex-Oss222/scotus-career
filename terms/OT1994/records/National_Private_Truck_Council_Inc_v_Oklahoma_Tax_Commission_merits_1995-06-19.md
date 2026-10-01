@@ -1,7 +1,7 @@
 **Case and dockets:** National Private Truck Council, Inc. v. Oklahoma Tax Commission; No. 94-688
 **Event and date:** Merits decision, 1995-06-19; October Term 1994, chunk 8.
 **Result:** Oklahoma Supreme Court affirmed on federal equitable relief and §1988 fees, 9–0; tax invalidity and state-law refunds remain undisturbed.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. Close-audit correction 2026-09-30 (F12): empty-heading cleanup; replaces the prior wording in place without a new adjudication.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. Close-audit correction 2026-09-30 (F12): empty-heading cleanup; replaces the prior wording in place without a new adjudication. Ninth-audit F03 clerical correction: completed-validation wording. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Event, participation, and entering-law validation
 
@@ -71,7 +71,7 @@ Federal tax equity under §1983 and derivative fees are unavailable on this actu
 
 Research cutoff: immediately before 1995-06-19, with historical Court opinion used only at reconciliation for the dated comparator. Source-to-fact support and precise actual full/targeted-reading limits are in the incorporated immutable handoffs; retrieval alone is not certified reading. No later external event is admitted. The lower judgment is 879 P.2d 137 (1994 OK 96), reinstated July 19, 1994. Predecision party files were retrieved but not all read; the positively supplied successful refunds and limited federal claims support the bounded decision. The full official comparator was read only in reconciliation.
 
-Record and bounded projection are durably written; coordinated arithmetic, identity, link and term checks remain pending the chunk validation receipt. Operator Git-object verification and repository commitment remain pending and are not represented as completed.
+Record and bounded projection are durably written; coordinated arithmetic, identity, link and term checks are complete, as documented in the [chunk validation receipt](../freeze/OT_1994CHUNK8_VALIDATION.md). Operator Git-object verification and repository commitment remain pending and are not represented as completed.
 
 ## Adaptive audit annex
 

@@ -1,7 +1,7 @@
 **Case and dockets:** Wilton v. Seven Falls Co., No. 94-562.
 **Event and date:** Merits decision, 1995-06-12.
 **Result:** The Fifth Circuit judgment affirming the stay is affirmed, 8–0.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Operator Git preservation remains pending; no commit hash is claimed.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Operator Git preservation remains pending; no commit hash is claimed. Ninth-audit F04 clerical correction: public-source wording. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Decision kernel
 
@@ -168,4 +168,4 @@ The federal case remains stayed while the adequate Travis County coverage procee
 
 ## Source Notes
 
-28 U.S.C. §2201; Brillhart, Colorado River and Moses H. Cone; petition appendices A1–A4 and B1–B4, read in full at neutral validation, establish lower rulings, June 30, 1993 stay and state adequacy findings. The filing sequence and notice agreement do not establish breach or automatic priority. The litigation record is not certified as reviewed in full. No verified decisional quotation is used.
+28 U.S.C. §2201; Brillhart, Colorado River and Moses H. Cone; petition appendices A1–A4 and B1–B4 establish lower rulings, June 30, 1993 stay and state adequacy findings. The filing sequence and notice agreement do not establish breach or automatic priority. The litigation record is not certified as reviewed in full. No verified decisional quotation is used.

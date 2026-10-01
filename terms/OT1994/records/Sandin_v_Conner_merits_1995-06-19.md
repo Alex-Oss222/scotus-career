@@ -1,7 +1,7 @@
 **Case and dockets:** Sandin v. Conner; No. 93-1911
 **Event and date:** Merits decision, 1995-06-19; October Term 1994, chunk 8.
 **Result:** Ninth Circuit affirmed in the reviewed respect and case remanded, 5–4; genuine constraint, meaningful deprivation and process must be determined; no liability finding.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. Close-audit correction 2026-09-30 (F12): damaged punctuation and section-symbol cleanup; replaces the prior wording in place without a new adjudication.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. Close-audit correction 2026-09-30 (F12): damaged punctuation and section-symbol cleanup; replaces the prior wording in place without a new adjudication. Ninth-audit F03 clerical correction: completed-validation wording. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Event, participation, and entering-law validation
 
@@ -73,7 +73,7 @@ The five-Justice sufficient state-entitlement rule and bounded remand govern. Th
 
 Research cutoff: immediately before 1995-06-19, with historical Court opinion used only at reconciliation for the dated comparator. Source-to-fact support and precise actual full/targeted-reading limits are in the incorporated immutable handoffs; retrieval alone is not certified reading. No later external event is admitted. Public support: Ninth Circuit, 15 F.3d 1463; Hawaii disciplinary rules §§17-201-7,12,13,16–20; docket 93-1911 merits and record passages, including segregation comparison. The full long appendix/petition is not certified read. The actual defined-offense, impartial-decision and evidence scheme is distinguished from one-way guilt wording; no quotation or automatic acquittal command is supplied.
 
-Record and bounded projection are durably written; coordinated arithmetic, identity, link and term checks remain pending the chunk validation receipt. Operator Git-object verification and repository commitment remain pending and are not represented as completed.
+Record and bounded projection are durably written; coordinated arithmetic, identity, link and term checks are complete, as documented in the [chunk validation receipt](../freeze/OT_1994CHUNK8_VALIDATION.md). Operator Git-object verification and repository commitment remain pending and are not represented as completed.
 
 ## Adaptive audit annex
 

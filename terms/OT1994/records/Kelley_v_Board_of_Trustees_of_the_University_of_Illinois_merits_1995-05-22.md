@@ -1,13 +1,13 @@
 **Case and dockets:** Kelley v. Board of Trustees of the University of Illinois; No. 94-783 (simulation-assigned).
 **Event and date:** Merits decision; 1995-05-22; OT1994, chunk 6.
-**Result:** AFFIRMED,9-0 on each distinct statutory and constitutional claim.
-**Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction.
+**Result:** AFFIRMED, 9-0 on each distinct statutory and constitutional claim.
+**Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction. Ninth-audit F01 clerical correction: spacing/citation typography. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Event, participation and entering law
 
-Review of Seventh Circuit summary judgment for the University,35 F.3d265, panel September1,1994 and rehearing denied October5,1994; argued March28,1995. Questions: TitleIX participation and equal protection after elimination of men's swimming while women's swimming remained.
+Review of Seventh Circuit summary judgment for the University, 35 F.3d 265, panel September 1, 1994 and rehearing denied October 5, 1994; argued March 28, 1995. Questions: Title IX participation and equal protection after elimination of men's swimming while women's swimming remained.
 
-Lawful channel: established merits channel under admitted inventory. No new grant vote or fabricated grant date. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate; quorum satisfied, five votes control. Reached issues are within supplied scope; no established threshold, vehicle or preservation bar. Coordinated OT1993 trackers, chunk6 entering-law slice and effective current neutral projection control. May22 decisions share entering baseline. Nebraska April20, 1993 is simulated postdivergence law; its enforcement/modification distinction governs. Effective current Kansas enters only at adopted scope. No later historical Supreme Court result becomes authority. Research cutoff immediately before 1995-05-22.
+Lawful channel: established merits channel under admitted inventory. No new grant vote or fabricated grant date. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate; quorum satisfied, five votes control. Reached issues are within supplied scope; no established threshold, vehicle or preservation bar. Coordinated OT1993 trackers, chunk6 entering-law slice and effective current neutral projection control. May22 decisions share entering baseline. Nebraska April 20, 1993 is simulated postdivergence law; its enforcement/modification distinction governs. Effective current Kansas enters only at adopted scope. No later historical Supreme Court result becomes authority. Research cutoff immediately before 1995-05-22.
 
 ## Stone fixed core and final compatibility
 
@@ -61,7 +61,7 @@ Stone final disposition and joins match the topology below. Every addressed qual
 
 ## Judgment and topology
 
-Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer affirm each claim, 9-0. Judgment for the University remains; no reinstatement, damages or remand follows. No broad Section1983 preclusion rule is adopted.
+Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer affirm each claim, 9-0. Judgment for the University remains; no reinstatement, damages or remand follows. No broad Section 1983 preclusion rule is adopted.
 
 O'Connor delivers the Opinion of the Court; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join PartsI andII, including both independent grounds.
 
@@ -140,7 +140,7 @@ Historical reconciliation: There is no historical Supreme Court judgment or line
 
 ## Sources and validation
 
-The [Seventh Circuit judicial opinion](https://openjurist.org/35/f3d/265/kelley-v-board-of-trustees-w-e), also in [full judicial transcription](https://app.midpage.ai/document/william-m-kelley-joseph-s-677868), and832F.Supp.237 supply posture. Paragraph10 supports BOTH OCR's prior denied-opportunity determination and no-violation conclusion on promised correction. Paragraphs11-14 and footnote4 support program review, postcut male participation and bounded sex consideration. The $600000 deficit preceded unexpected bowl income; no final income calculation is reconstructed. Women were44percent of students and23.4percent of athletes. Law:20U.S.C.1681(a)-(b), 34C.F.R.106.41 and1979 interpretation, 44Fed.Reg.71413,71418. Other benefit compliance remains unadjudicated.
+The [Seventh Circuit judicial opinion](https://openjurist.org/35/f3d/265/kelley-v-board-of-trustees-w-e), also in [full judicial transcription](https://app.midpage.ai/document/william-m-kelley-joseph-s-677868), and 832 F. Supp. 237 supply posture. Paragraph 10 supports BOTH OCR's prior denied-opportunity determination and no-violation conclusion on promised correction. Paragraphs 11-14 and footnote 4 support program review, postcut male participation and bounded sex consideration. The $600000 deficit preceded unexpected bowl income; no final income calculation is reconstructed. Women were 44 percent of students and 23.4 percent of athletes. Law: 20 U.S.C. 1681(a)-(b), 34 C.F.R. 106.41 and 1979 interpretation, 44 Fed. Reg. 71413, 71418. Other benefit compliance remains unadjudicated.
 
 Cutoff predecision 1995-05-22; modern retrieval is provenance only. Wilson/FirstOptions Archive availability verified, not complete independentPDFreading; no transcript facts inferred. Nebraska source supports leave, not hydrologic merits. Assembly checks cover votes, scope and identical kernel/publicholdings; operator term checks and Git commitment remain. This natural-key file becomes authoritative once validated and committed. No render or workspace was written here.
 
@@ -222,4 +222,4 @@ Judgment for the University remains; Supreme Court merits event is complete. No 
 
 ## Source Notes
 
-The [Seventh Circuit judicial opinion](https://openjurist.org/35/f3d/265/kelley-v-board-of-trustees-w-e), also in [full judicial transcription](https://app.midpage.ai/document/william-m-kelley-joseph-s-677868), and832 F. Supp. 237 supply posture. Paragraph10 supports BOTH OCR's prior denied-opportunity determination and no-violation conclusion on promised correction. Paragraphs11-14 and footnote4 support program review, postcut male participation and bounded sex consideration. The $600,000 deficit preceded unexpected bowl income; no final income calculation is reconstructed. Women were44 percent of students and23.4 percent of athletes. Law:20 U.S.C. 1681(a)-(b), 34 C.F.R. 106.41 and1979 interpretation, 44Fed.Reg.71413, 71418. Other benefit compliance remains unadjudicated.
+The [Seventh Circuit judicial opinion](https://openjurist.org/35/f3d/265/kelley-v-board-of-trustees-w-e), also in [full judicial transcription](https://app.midpage.ai/document/william-m-kelley-joseph-s-677868), and 832 F. Supp. 237 supply posture. Paragraph 10 supports BOTH OCR's prior denied-opportunity determination and no-violation conclusion on promised correction. Paragraphs 11-14 and footnote 4 support program review, postcut male participation and bounded sex consideration. The $600,000 deficit preceded unexpected bowl income; no final income calculation is reconstructed. Women were 44 percent of students and 23.4 percent of athletes. Law: 20 U.S.C. 1681(a)-(b), 34 C.F.R. 106.41 and 1979 interpretation, 44 Fed. Reg. 71413, 71418. Other benefit compliance remains unadjudicated.

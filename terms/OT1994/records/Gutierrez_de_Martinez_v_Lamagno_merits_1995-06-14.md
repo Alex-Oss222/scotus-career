@@ -1,7 +1,7 @@
 **Case and dockets:** Gutierrez de Martinez v. Lamagno; No. 94-167
 **Event and date:** Merits decision, 1995-06-14; October Term 1994, chunk 8.
 **Result:** Fourth Circuit reversed and remanded, 6–3, for judicial review of employment-scope certification.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. Close-audit correction 2026-09-30 (F12): empty-heading cleanup; replaces the prior wording in place without a new adjudication.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. Close-audit correction 2026-09-30 (F12): empty-heading cleanup; replaces the prior wording in place without a new adjudication. Ninth-audit F03 clerical correction: completed-validation wording. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Event, participation, and entering-law validation
 
@@ -56,7 +56,7 @@ Courts review the certification’s employment predicate before substitution bec
 
 Research cutoff: immediately before 1995-06-14, with historical Court opinion used only at reconciliation for the dated comparator. Source-to-fact support and precise actual full/targeted-reading limits are in the incorporated immutable handoffs; retrieval alone is not certified reading. No later external event is admitted. Public support: 28 U.S.C. §2679(d); Fourth Circuit, 23 F.3d 402; docket 94-167 petition, merits filings and joint appendix in the Records and Briefs collection. The original appendix and both private merits briefs were fully inspected; no disputed accident allegation is adopted as a finding. No quotation is supplied.
 
-Record and bounded projection are durably written; coordinated arithmetic, identity, link and term checks remain pending the chunk validation receipt. Operator Git-object verification and repository commitment remain pending and are not represented as completed.
+Record and bounded projection are durably written; coordinated arithmetic, identity, link and term checks are complete, as documented in the [chunk validation receipt](../freeze/OT_1994CHUNK8_VALIDATION.md). Operator Git-object verification and repository commitment remain pending and are not represented as completed.
 
 ## Adaptive audit annex
 

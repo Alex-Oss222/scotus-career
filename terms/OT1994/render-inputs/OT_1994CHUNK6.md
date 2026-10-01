@@ -170,7 +170,7 @@ The Eighth Circuit judgment stands. The lower courts implement the separate perm
 
 ## Source Notes
 
-[Day v. Holahan, full lower opinion](https://openjurist.org/34/f3d/1356/day-impace-mea-v-l-holahan-minnesota-citizens-concerned-for-life-inc-a), paragraphs 1-51 and footnotes 1-8, corroborated by the Public.Resource.Org reporter reproduction. Official [Minnesota Statutes 1994, chapter 10A](https://www.revisor.mn.gov/statutes/1994/cite/10A/pdf), printed pp.251-252, 257, 259; [chapter 211B](https://www.revisor.mn.gov/statutes/1994/cite/211B/pdf), pp.1123-1124; [section 645.20](https://www.revisor.mn.gov/statutes/1994/cite/645/pdf), p.502.
+[Day v. Holahan, full lower opinion](https://openjurist.org/34/f3d/1356/day-impace-mea-v-l-holahan-minnesota-citizens-concerned-for-life-inc-a), paragraphs 1-51 and footnotes 1-8, corroborated by the Public.Resource.Org reporter reproduction. Official [Minnesota Statutes 1994, chapter 10A](https://www.revisor.mn.gov/statutes/1994/cite/10A/pdf), printed pp. 251-252, 257, 259; [chapter 211B](https://www.revisor.mn.gov/statutes/1994/cite/211B/pdf), pp. 1123-1124; [section 645.20](https://www.revisor.mn.gov/statutes/1994/cite/645/pdf), p. 502.
 
 Section 10A.25(13) increases limits by independent expenditures in opposition to the candidate plus expenditures for the candidate's major-political-party opponents; it excludes an association's communications solely to its own dues-paying members. The provision itself contains no $100 threshold: over $100 is the lower opinion's operational reporting scenario. Within 48 hours after receipt of the report/notice under 10A.20(3), (6) or (6b), the Board notifies every candidate in the race of the affected increase. Within three days after that notice it pays half the expenditure only to a candidate eligible for subsidy who has raised twice the minimum match; the sum is appropriated from the general fund. The lower opinion's footnote 2 questions compatibility with electoral-result eligibility; that is an observation about implementation, not a statutory exception excusing payment or a Supreme Court finding that every subsidy is immediately payable.
 
@@ -396,7 +396,7 @@ Judgment for the University remains; Supreme Court merits event is complete. No 
 
 ## Source Notes
 
-The [Seventh Circuit judicial opinion](https://openjurist.org/35/f3d/265/kelley-v-board-of-trustees-w-e), also in [full judicial transcription](https://app.midpage.ai/document/william-m-kelley-joseph-s-677868), and832 F. Supp. 237 supply posture. Paragraph10 supports BOTH OCR's prior denied-opportunity determination and no-violation conclusion on promised correction. Paragraphs11-14 and footnote4 support program review, postcut male participation and bounded sex consideration. The $600,000 deficit preceded unexpected bowl income; no final income calculation is reconstructed. Women were44 percent of students and23.4 percent of athletes. Law:20 U.S.C. 1681(a)-(b), 34 C.F.R. 106.41 and1979 interpretation, 44Fed.Reg.71413, 71418. Other benefit compliance remains unadjudicated.
+The [Seventh Circuit judicial opinion](https://openjurist.org/35/f3d/265/kelley-v-board-of-trustees-w-e), also in [full judicial transcription](https://app.midpage.ai/document/william-m-kelley-joseph-s-677868), and 832 F. Supp. 237 supply posture. Paragraph 10 supports BOTH OCR's prior denied-opportunity determination and no-violation conclusion on promised correction. Paragraphs 11-14 and footnote 4 support program review, postcut male participation and bounded sex consideration. The $600,000 deficit preceded unexpected bowl income; no final income calculation is reconstructed. Women were 44 percent of students and 23.4 percent of athletes. Law: 20 U.S.C. 1681(a)-(b), 34 C.F.R. 106.41 and 1979 interpretation, 44 Fed. Reg. 71413, 71418. Other benefit compliance remains unadjudicated.
 
 ---
 
@@ -597,7 +597,7 @@ The Fifth Circuit’s jurisdictional dismissal is reversed. On remand the remain
 <!-- source-record: Nebraska_v_Wyoming_original_exceptions_1995-05-30.md -->
 ## Event
 
-Nebraska v. Wyoming, No. 108, Original; Original exceptions, 1995-05-30. Original-action exceptions to Master Olpin's Third Interim Report, filed October 11, 1994; exceptions filed November 25, 1994. Questions: ceiling, groundwater, equitable defenses, downstream/habitat, Horse Creek, federal administration and exact leave. Argued March 21, 1995, using the argument chronology supplied in the neutral packet. Render form: full; basis: complex six-exception and amended-pleading disposition.
+Nebraska v. Wyoming, No. 108, Original; Original exceptions, 1995-05-30. Original-action exceptions to Master Olpin's Third Interim Report, filed October 11, 1994; exceptions filed November 25, 1994. Questions: ceiling, groundwater, equitable defenses, downstream/habitat, Horse Creek, federal administration and exact leave. Argued March 21, 1995. Render form: full; basis: complex six-exception and amended-pleading disposition.
 
 ## Participation
 
@@ -740,7 +740,7 @@ Original action remains open before Master Olpin for evidence and recommendation
 
 ## Source Notes
 
-The [Third Interim Report](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180149/1000180149_017.pdf), pp.33-71, Apps.C-E, supplies decree and pleadings. [United States exception](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_001.pdf) and [Wyoming exceptions](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_002.pdf), November 25, 1994, supply objections; Government opposition is no jurisdictional concession. Nebraska 1945, 1953, April 20, 1993 and current Kansas apply at exact scope. No new hydrologic finding, Glendo quantity or carriage-loss formula is reconstructed.
+The [Third Interim Report](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180149/1000180149_017.pdf), pp. 33-71, Apps. C-E, supplies decree and pleadings. [United States exception](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_001.pdf) and [Wyoming exceptions](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_002.pdf), November 25, 1994, supply objections; Government opposition is no jurisdictional concession. Nebraska 1945, 1953, April 20, 1993 and current Kansas apply at exact scope. No new hydrologic finding, Glendo quantity or carriage-loss formula is reconstructed.
 
 ---
 
@@ -1004,4 +1004,4 @@ The Third Circuit’s conditions-inquiry judgment is reversed and the matter rem
 
 ## Source Notes
 
-Koray v. Sizer, 21 F.3d 558, 559–564 and n.1 supplies the order, exhaustion, allegations and abandoned equality claim. 18 U.S.C. §§ 3585(b),3142(c),3142(e),3621 supply statutory context; Wilson, March 24, 1992 supplies computation and review allocation. Detailed conditions are not adjudicated facts and no exact credit award is made. No quotation is used.
+Koray v. Sizer, 21 F.3d 558, 559–564 and n.1 supplies the order, exhaustion, allegations and abandoned equality claim. 18 U.S.C. §§ 3585(b), 3142(c), 3142(e), 3621 supply statutory context; Wilson, March 24, 1992 supplies computation and review allocation. Detailed conditions are not adjudicated facts and no exact credit award is made. No quotation is used.

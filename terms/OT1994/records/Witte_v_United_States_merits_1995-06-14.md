@@ -1,7 +1,7 @@
 **Case and dockets:** Witte v. United States; No. 94-6187.
 **Event and date:** Merits decision, 1995-06-14.
 **Result:** The Fifth Circuit judgment permitting the cocaine prosecution is affirmed, 8–1.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Operator Git preservation remains pending; no commit hash is claimed. Close-audit correction 2026-09-30 (F04): complete Guidelines priority and conditions; no disposition or join changes; replaces the prior wording in place without a new adjudication.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Operator Git preservation remains pending; no commit hash is claimed. Close-audit correction 2026-09-30 (F04): complete Guidelines priority and conditions; no disposition or join changes; replaces the prior wording in place without a new adjudication. Ninth-audit F04 clerical correction: public-source wording. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Decision kernel
 
@@ -181,4 +181,4 @@ Proceed on the cocaine-importation conspiracy and aiding-and-abetting attempted-
 
 ## Source Notes
 
-Public factual support: substantive joint-appendix pp. 9–166 and full Fifth Circuit opinion at JA137–166 in the [Archive docket collection](https://archive.org/details/micro_IA40386012_2001). JA9–15, 38–39, 74–81 establish the amended Count Two marijuana-attempt plea, July 10, 1992 sentence, statutory range and departure. JA82–83 identify the distinct 1989–1990 cocaine counts. The lower appellate opinion independently rejected the plea claim and offered alternative successive-sentencing reasoning, which the Court need not adopt. The coordination arithmetic there is illustrative. Clean preflight checked operative passages and the complete lower opinion, not every line of the original corpus. No unverified drug quantity, future sentencing outcome, grant quotation or Supreme Court procedural action is supplied.
+Public factual support: substantive joint-appendix pp. 9–166 and full Fifth Circuit opinion at JA137–166 in the [Archive docket collection](https://archive.org/details/micro_IA40386012_2001). JA9–15, 38–39, 74–81 establish the amended Count Two marijuana-attempt plea, July 10, 1992 sentence, statutory range and departure. JA82–83 identify the distinct 1989–1990 cocaine counts. The lower appellate opinion independently rejected the plea claim and offered alternative successive-sentencing reasoning, which the Court need not adopt. The coordination arithmetic there is illustrative. No unverified drug quantity, future sentencing outcome, grant quotation or Supreme Court procedural action is supplied.

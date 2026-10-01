@@ -1,7 +1,7 @@
 **Case and dockets:** U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership; No. 93-714; 513 U.S. 18
 **Event and date:** Decision, 1994-11-08; October Term 1994, chunk 1.
 **Result:** Vacatur denied and proceeding dismissed as moot, unanimously.
-**Version / lineage:** First event record; no earlier Canonical Decision Record superseded. Validated event preserved in its own file. Repository verification and Git commitment are reserved to the operator; no Git operation is claimed.
+**Version / lineage:** First event record; no earlier Canonical Decision Record superseded. Validated event preserved in its own file. Repository verification and Git commitment are reserved to the operator; no Git operation is claimed. Ninth-audit F03 clerical correction: completed-validation wording. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Event, posture and chronology
 
@@ -15,7 +15,7 @@ The lawful review channel is the admitted certiorari proceeding under §1254(1),
 
 Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer were seated and participated at argument and decision; no exclusion is established. Nine participants satisfy quorum; five are required for a judgment or controlling proposition. No institutional change occurs.
 
-This draft uses the synchronized opening trackers through June 30, 1994, frozen opening projection/continuity and entering-law A. Shabani’s earlier prepared rule concerns §846’s overt-act element and has no material bearing on mootness or vacatur. The root validator has preserved Shabani at terms/OT1994/records/United_States_v_Shabani_merits_1994-11-01.md, effective November 1, 1994. Assembly revalidates Bancorp against that actual earlier rule: it changes no material authority, posture, equity or Stone premise here.
+This Record uses the synchronized opening trackers through June 30, 1994, frozen opening projection/continuity and entering-law A. Shabani’s earlier prepared rule concerns §846’s overt-act element and has no material bearing on mootness or vacatur. The root validator has preserved Shabani at terms/OT1994/records/United_States_v_Shabani_merits_1994-11-01.md, effective November 1, 1994. Assembly revalidates Bancorp against that actual earlier rule: it changes no material authority, posture, equity or Stone premise here.
 
 Section 2106 authorizes, but does not compel, relief concerning a judgment lawfully brought before the reviewing court, and further proceedings as may be just under the circumstances. Article III bars bankruptcy merits adjudication after admitted mootness. Walling, Munsingwear and Karcher supply the surviving pre-divergence distinction between dispositional power and merits power and between involuntary and chosen loss of review. Current Izumi’s party-status and presented-question holdings did not decide settlement vacatur. “Jurisdiction to enforce a settlement after dismissal,” present operation effective Kokkonen, May 16, 1994, requires an independent basis or a lawful incorporating/retaining order for a separate enforcement action; none is sought here. “Private settlement rights and collateral-order appeals,” effective Digital Equipment, June 6, 1994, supplies distinct public-importance and adequate-final-review holdings, not a vacatur entitlement. “Presented questions, subsidiary arguments and exceptional Supreme Court review,” effective Madsen, June 30, 1994, preserves Izumi’s prudential scope rule; it supplies no reason to reach the moot merits.
 

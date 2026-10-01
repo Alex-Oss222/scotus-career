@@ -1,7 +1,7 @@
 **Case and dockets:** Oklahoma Tax Commission v. Chickasaw Nation; No. 94-771
 **Event and date:** Merits decision, 1995-06-14; October Term 1994, chunk 8.
 **Result:** Tenth Circuit affirmed on motor-fuels tax, 9–0; reversed on off-country-resident tribal-wage exemption, 5–4; remanded.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. Close-audit correction 2026-09-30 (F12): empty-heading cleanup; replaces the prior wording in place without a new adjudication.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. Close-audit correction 2026-09-30 (F12): empty-heading cleanup; replaces the prior wording in place without a new adjudication. Ninth-audit F03 clerical correction: completed-validation wording. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Event, participation, and entering-law validation
 
@@ -71,7 +71,7 @@ The reviewed retailer-incidence fuel tax is barred. The treaty does not bar the 
 
 Research cutoff: immediately before 1995-06-14, with historical Court opinion used only at reconciliation for the dated comparator. Source-to-fact support and precise actual full/targeted-reading limits are in the incorporated immutable handoffs; retrieval alone is not certified reading. No later external event is admitted. Public support: Tenth Circuit, 31 F.3d 964; the reviewed Oklahoma motor-fuels provisions; Treaty of Dancing Rabbit Creek, Article IV; Records and Briefs collection, docket 94-771. Relevant respondent merits and the April 18 supplement were inspected; proposed legislation is not assumed enacted. No quotation is supplied.
 
-Record and bounded projection are durably written; coordinated arithmetic, identity, link and term checks remain pending the chunk validation receipt. Operator Git-object verification and repository commitment remain pending and are not represented as completed.
+Record and bounded projection are durably written; coordinated arithmetic, identity, link and term checks are complete, as documented in the [chunk validation receipt](../freeze/OT_1994CHUNK8_VALIDATION.md). Operator Git-object verification and repository commitment remain pending and are not represented as completed.
 
 ## Adaptive audit annex
 

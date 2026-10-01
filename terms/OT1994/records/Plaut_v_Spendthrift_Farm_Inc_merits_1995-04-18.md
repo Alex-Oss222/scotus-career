@@ -1,7 +1,7 @@
 **Case and dockets:** Plaut v. Spendthrift Farm, Inc., No. 93-1121.
 **Event and date:** Merits decision, 1995-04-18; October Term 1994, chunk 4.
 **Result:** Affirm denial of §27A(b) reinstatement, 7–2; completed dismissal remains binding.
-**Version / lineage:** Initial canonical adjudication; supersedes nothing. Preserved for operator verification and commitment; no Git command was run.
+**Version / lineage:** Initial canonical adjudication; supersedes nothing. Preserved for operator verification and commitment; no Git command was run. Ninth-audit F03 clerical correction: completed-validation wording. Adjudication unchanged; operator verification and commitment remain deferred.
 
 ## Event, posture, and chronology
 
@@ -134,7 +134,7 @@ Source-to-fact support: `../sources/chunk4/Plaut_1_F3d_1487.txt` supplies all lo
 
 Research cutoff: immediately before the decision on 1995-04-18. No later legal development or follow-on event is admitted. The [independent validated neutral packet](../runtime/OT_1994CHUNK4_VALIDATED_NEUTRAL.md), section 42, supplies admitted chronology and procedural facts; its source limits remain. The [source preflight](../runtime/OT_1994CHUNK4_PREFLIGHT.md) supplies the complete-reading attestations and preserved source locations. Full merits briefs and joint appendices are not available in this packet; no concession, argument exchange, additional finding, or additional relief is inferred from that absence.
 
-Validation actually performed in assembly: approved Stone fixed core compared with every proposed Stone vote and join; frozen and reconciled associate commitments mapped to final components; named judgment and rationale coalitions counted; holdings compared with remedies and reservations; public selection checked for operative qualifications. A local draft check verifies the four opening labels, exact eleven-block projection order, identical internal/projected holdings, 120–200-word controlling explanations, and links relative to the intended records directory. Its results are in `../tmp/chunk4-record-drafts/ASSEMBLY_42_45_CHECKS.txt`. The operator context reviewed the complete draft and preserved this canonical Record. Workspace application, generated Render Input identity and whole-term checks are documented in the chunk validation summary when complete. Git verification and commitment remain with the user.
+Validation actually performed in assembly: approved Stone fixed core compared with every proposed Stone vote and join; frozen and reconciled associate commitments mapped to final components; named judgment and rationale coalitions counted; holdings compared with remedies and reservations; public selection checked for operative qualifications. A local draft check verifies the four opening labels, exact eleven-block projection order, identical internal/projected holdings, 120–200-word controlling explanations, and links relative to the intended records directory. Its results are in `../tmp/chunk4-record-drafts/ASSEMBLY_42_45_CHECKS.txt`. The operator context reviewed the complete draft and preserved this canonical Record. Workspace application, generated Render Input identity and whole-term checks are documented in the completed [chunk validation summary](../freeze/OT_1994CHUNK4_VALIDATION.md). Git verification and commitment remain with the user.
 
 
 
