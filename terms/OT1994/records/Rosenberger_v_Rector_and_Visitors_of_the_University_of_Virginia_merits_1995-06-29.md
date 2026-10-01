@@ -123,7 +123,7 @@ No authorship/assignment. Five associates freeze antecedentremand with federal a
 
 ## Historical reconciliation — READY durable freeze
 
-This is a separate reconciliation artifact; original neutral commitments remain immutable. No Stone or combined brief read. Because fresh spawning failed with agent-thread-limit, the parent expressly reused the preflight context, which generated no operative neutral commitments. This is disclosed context reuse, not a claim of fresh-stage blindness. No Git used under the user's instruction; this file is the durable freeze. Historical94 details previously sent to modelB after its94 freeze are separately disclosed; no95 historical results were sent before95 froze.
+This is a separate reconciliation artifact; original neutral commitments remain immutable. No Stone or combined brief read. Because fresh spawning failed with agent-thread-limit, the parent expressly reused the preflight context, which generated no operative neutral commitments. This is disclosed context reuse, not a claim of fresh-stage blindness. No Git used under the user's instruction; this file is the durable freeze. Historical94 details previously sent to modelB after its94 freeze are separately disclosed; no 95 historical results were sent before 95 froze.
 
 ### Corrected commitments
 
