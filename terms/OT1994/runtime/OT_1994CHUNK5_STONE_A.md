@@ -107,6 +107,8 @@ These are approved Stone character inputs. They do not state or predetermine the
 
 ## 52. California Department of Corrections v. Morales
 
+> **Superseded historical assembly draft.** The California Department of Corrections v. Morales block below is superseded by the [current approved Stone position](OT_1994CHUNK5_STONE.md). Retained only as historical drafting material; its superseded content is not a current approved position or current law.
+
 <!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT

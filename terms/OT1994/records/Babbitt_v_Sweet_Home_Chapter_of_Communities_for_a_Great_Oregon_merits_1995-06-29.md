@@ -248,4 +248,4 @@ The D.C. Circuit judgment invalidating the clause is reversed; the case returns 
 
 ## Source Notes
 
-Public support: Endangered Species Act §§3(19), 4(d), 7, 9, 10, 11; 50 C.F.R. §§17.3, 17.31; the filed materials in No.94-859 ([Records and Briefs](https://archive.org/details/micro_IA40386012_0804)); 17 F.3d 1463. The statutory exception in §6(g)(2) is not construed or applied. No particular permit, cooperative agreement, experimental population, or enforcement facts are decided. Source support does not establish every potential application of the regulation.
+Public support: Endangered Species Act §§3(19), 4(d), 7, 9, 10, 11; 50 C.F.R. §§17.3, 17.31; the filed materials in No. 94-859 ([Records and Briefs](https://archive.org/details/micro_IA40386012_0804)); 17 F.3d 1463. The statutory exception in §6(g)(2) is not construed or applied. No particular permit, cooperative agreement, experimental population, or enforcement facts are decided. Source support does not establish every potential application of the regulation.

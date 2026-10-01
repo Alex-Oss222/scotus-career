@@ -468,7 +468,7 @@ The Eleventh Circuit judgment is vacated only as to its rejection of prospective
 
 ## Source Notes
 
-[Eleventh Circuit, 2 F.3d 1514](https://static.case.law/f3d/2/html/1514-01.html) and [district court, 756 F.Supp.1498](https://static.case.law/f-supp/756/html/1498-01.html) support the lower judgment, record and reproduced ordinance. [RFRA, 107 Stat.1488–1490](https://www.govinfo.gov/content/pkg/STATUTE-107/pdf/STATUTE-107-Pg1488.pdf) supplies the original enacted provisions. The precise surviving subsection labels follow the lower holding. Conflicting criminal-history subsection references and unverified exemption/severability language are not resolved because the bounded remand does not depend on them. The argument and decision dates are the established calendar for this merits proceeding. No decisional quotation is supplied.
+[Eleventh Circuit, 2 F.3d 1514](https://static.case.law/f3d/2/html/1514-01.html) and [district court, 756 F. Supp. 1498](https://static.case.law/f-supp/756/html/1498-01.html) support the lower judgment, record and reproduced ordinance. [RFRA, 107 Stat. 1488–1490](https://www.govinfo.gov/content/pkg/STATUTE-107/pdf/STATUTE-107-Pg1488.pdf) supplies the original enacted provisions. The precise surviving subsection labels follow the lower holding. Conflicting criminal-history subsection references and unverified exemption/severability language are not resolved because the bounded remand does not depend on them. The argument and decision dates are the established calendar for this merits proceeding. No decisional quotation is supplied.
 
 ---
 

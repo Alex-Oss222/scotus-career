@@ -2,6 +2,8 @@
 
 ## 25. O'Neal v. McAninch
 
+> **Superseded historical assembly draft.** The O'Neal v. McAninch block below is superseded by the [current approved Stone position](OT_1994CHUNK3_STONE.md). Retained only as historical drafting material; its superseded content is not a current approved position or current law.
+
 <!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT

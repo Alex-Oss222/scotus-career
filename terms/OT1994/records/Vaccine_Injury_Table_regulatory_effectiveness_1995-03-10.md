@@ -5,7 +5,7 @@
 
 ## Authority and source identity
 
-The Department of Health and Human Services issued this final rule under the National Childhood Vaccine Injury Act's Table-modification authority, section 2114(c), 42 U.S.C. §300aa-14(c). The complete official instrument is [60 Fed. Reg. 7678–7696, February 8, 1995](https://www.govinfo.gov/content/pkg/FR-1995-02-08/pdf/95-2945.pdf), also available as [official HTML](https://www.govinfo.gov/content/pkg/FR-1995-02-08/html/95-2945.htm). Local preservation includes the [plain-text extraction](../sources/chunk4/Vaccine_Table_60_FR_7678.txt), [complete PDF extraction](../sources/chunk4/Vaccine_Table_60_FR_7678_pdf_text.txt), and [HTML text extraction](../sources/chunk4/Vaccine_Table_60_FR_7678.txt). The entire adopted Table and all qualifications are incorporated by these complete source copies, not by a selective medical paraphrase.
+The Department of Health and Human Services issued this final rule under the National Childhood Vaccine Injury Act's Table-modification authority, section 2114(c), 42 U.S.C. §300aa-14(c). The complete official instrument is [60 Fed. Reg. 7678–7696, February 8, 1995](https://www.govinfo.gov/content/pkg/FR-1995-02-08/pdf/95-2945.pdf), also available as [official HTML](https://www.govinfo.gov/content/pkg/FR-1995-02-08/html/95-2945.htm). Local preservation includes the [plain-text extraction](../sources/chunk4/Vaccine_Table_60_FR_7678.txt) and [complete PDF extraction](../sources/chunk4/Vaccine_Table_60_FR_7678_pdf_text.txt). The entire adopted Table and all qualifications are incorporated by these complete source copies, not by a selective medical paraphrase.
 
 ## Operative transition
 

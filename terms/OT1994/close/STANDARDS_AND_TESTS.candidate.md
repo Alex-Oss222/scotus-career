@@ -4353,7 +4353,7 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Authority by component:**
 
-- Contribution is available among persons jointly liable under the received Rule10b-5 action: [Musick, Peeler & Garrett v. Employers Insurance of Wausau — Contribution is available among persons jointly liable under the received Rule10b-5 action](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1992/records/musick_merits_1993-06-01.md), 1993-06-01. Kennedy’s Opinion of the Court; Stone-Zsela, White, Stevens, Scalia, Kennedy, Souter (6 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+- Contribution is available among persons jointly liable under the received Rule 10b-5 action: [Musick, Peeler & Garrett v. Employers Insurance of Wausau — Contribution is available among persons jointly liable under the received Rule 10b-5 action](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1992/records/musick_merits_1993-06-01.md), 1993-06-01. Kennedy’s Opinion of the Court; Stone-Zsela, White, Stevens, Scalia, Kennedy, Souter (6 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
 **Present operation effective:** 1993-06-01; Musick, Peeler & Garrett v. Employers Insurance of Wausau, for the components identified above.
 

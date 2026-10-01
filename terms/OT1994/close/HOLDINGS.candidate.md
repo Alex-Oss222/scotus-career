@@ -14564,17 +14564,17 @@ The Manual lacks regulatory force. APA §553(b)(A)’s interpretive-rule exempti
 
 ##### Article 33 does not independently limit the high-seas operation
 
-**Holding:** Article33 of the Refugee Convention, as undertaken through the 1967 Protocol, does not extend its return prohibition to this high-seas repatriation operation. That territorial construction resolves the asserted treaty restraint without deciding whether the Convention otherwise supplies an independently enforceable cause of action. Article33(2) withholds its benefit where reasonable grounds identify a danger to the security of the country of presence, or a refugee convicted by final judgment of a particularly serious crime constitutes a danger to that country’s community.
+**Holding:** Article 33 of the Refugee Convention, as undertaken through the 1967 Protocol, does not extend its return prohibition to this high-seas repatriation operation. That territorial construction resolves the asserted treaty restraint without deciding whether the Convention otherwise supplies an independently enforceable cause of action. Article 33(2) withholds its benefit where reasonable grounds identify a danger to the security of the country of presence, or a refugee convicted by final judgment of a particularly serious crime constitutes a danger to that country’s community.
 
 **Proposition-level authority:** Stevens’s Opinion of the Court, Article 33 does not independently limit the high-seas operation portion; White, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas (7 Justices). Direct proposition-level majority; no Marks aggregation.
 
 **Limits and questions not reached:** Statutory and treaty coverage are separately resolved. No refugee-status determination, general executive exemption from law or independent treaty cause-of-action ruling is made; domestic custody and other sources constraining different operations remain distinct.
 
-**Operative remedy or transition:** Reverse the appellate coverage ruling under §243(h) and Article33; no admission order, individual screening determination or personal injunction against the President.
+**Operative remedy or transition:** Reverse the appellate coverage ruling under §243(h) and Article 33; no admission order, individual screening determination or personal injunction against the President.
 
 **Treatment of earlier authority:**
 
-- 1951 Refugee Convention Article33 and 1967 Protocol — construed geographically for this operation, without a self-execution holding.
+- 1951 Refugee Convention Article 33 and 1967 Protocol — construed geographically for this operation, without a self-execution holding.
 - Stevic, 467 U.S. 407 — treaty/statutory relationship considered without importing a general offshore duty.
 
 ### Original-order and reconsideration review periods
@@ -17431,9 +17431,9 @@ No earlier decision is independently construed, extended or overruled by this pr
 **Docket or dockets:** No. 92-34.
 **Decided:** June 1, 1993.
 
-##### Contribution is available among persons jointly liable under the received Rule10b-5 action
+##### Contribution is available among persons jointly liable under the received Rule 10b-5 action
 
-**Holding:** Persons jointly liable for the same violation under the established implied Rule10b-5 action may seek contribution, subject to proof of their shared underlying liability and the applicable allocation requirements. The rule is a bounded incident of that received action and does not create general professional liability, an automatic aiding-and-abetting rule, indemnity, or contribution under unrelated statutes.
+**Holding:** Persons jointly liable for the same violation under the established implied Rule 10b-5 action may seek contribution, subject to proof of their shared underlying liability and the applicable allocation requirements. The rule is a bounded incident of that received action and does not create general professional liability, an automatic aiding-and-abetting rule, indemnity, or contribution under unrelated statutes.
 
 **Proposition-level authority:** Kennedy’s Opinion of the Court; Stone-Zsela, White, Stevens, Scalia, Kennedy, Souter (6 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
@@ -18851,7 +18851,7 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Treatment of earlier authority:**
 
-- St. Paul Fire&Marine v. Barry, 438 U.S. 531: collateral-pressure application retained; not limited to boycotts of competitors.
+- St. Paul Fire & Marine v. Barry, 438 U.S. 531: collateral-pressure application retained; not limited to boycotts of competitors.
 - Eastern States Retail Lumber v. United States, 234 U.S. 600: unrelated trade used as leverage illustrates the boundary.
 - United States v. South-Eastern Underwriters, 322 U.S. 533: coercive exclusion distinguished from mere agreement on terms; not abrogated.
 - McLain v. Real Estate Board, 444 U.S. 232, and Conley v. Gibson, 355 U.S. 41: then-operative pleading standard applied; no actual liability finding.
@@ -18864,12 +18864,12 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Limits and questions not reached:** Qualifying activity and actual state regulation remain required. Section 6a’s precise applicability is reserved; where applicable its direct, substantial and reasonably foreseeable domestic effect and claim-connection requirements remain, and the pleaded effect here gives rise to these claims. No universal comity-impossibility rule, general independent coercion definition, proven cartel or actual liability is adopted.
 
-**Operative remedy or transition:** No.91-1111: reject association-based loss of exemption; affirm reinstatement of California I–IV/Connecticut I–II; reverse reinstatement of California VII/Connecticut VI against domestic defendants for lack of an alleged refusal mechanism, preserving unresolved state-regulation questions. No.91-1128: affirm continued adjudication of California V, VI, VIII/Connecticut III–V against London defendants and remand for proof and other defenses. California IX–XI and Connecticut VII remain untouched; no damages or injunction.
+**Operative remedy or transition:** No. 91-1111: reject association-based loss of exemption; affirm reinstatement of California I–IV/Connecticut I–II; reverse reinstatement of California VII/Connecticut VI against domestic defendants for lack of an alleged refusal mechanism, preserving unresolved state-regulation questions. No. 91-1128: affirm continued adjudication of California V, VI, VIII/Connecticut III–V against London defendants and remand for proof and other defenses. California IX–XI and Connecticut VII remain untouched; no damages or injunction.
 
 **Treatment of earlier authority:**
 
-- United States v. Aluminum Co.of America, 148 F.2d 416, and Matsushita, 475 U.S. 574: intended substantial domestic effects standard applied.
+- United States v. Aluminum Co. of America, 148 F.2d 416, and Matsushita, 475 U.S. 574: intended substantial domestic effects standard applied.
 - Continental Ore v. Union Carbide, 370 U.S. 690: foreign permission does not itself immunize conduct.
-- SociétéNationale Industrielle Aérospatiale, 482 U.S. 522: actual foreign/domestic conflict considered; Blackmun’s separate analysis identified as not the whole Court’s holding.
+- Société Nationale Industrielle Aérospatiale, 482 U.S. 522: actual foreign/domestic conflict considered; Blackmun’s separate analysis identified as not the whole Court’s holding.
 - Charming Betsy, 2 Cranch 64: interpretive canon retained; does not require the asserted dismissal here.
 - Aramco, 499 U.S. 244, and Sale, June 21, 1993: source-specific geographic scope preserved; different statutes do not erase established Sherman Act reach.
