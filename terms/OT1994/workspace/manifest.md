@@ -60,7 +60,7 @@ Generated from case-list.md and canonical Records. Standing State carryovers or 
 | 1995-04-26 | OT_1994CHUNK5 | United States v. Lopez | 93-1260 | MERITS | Merits decision | Completed: United_States_v_Lopez_merits_1995-04-26.md |
 | 1995-04-26 | OT_1994CHUNK5 | New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co. / Pataki v. Travelers Insurance Co. / Hospital Association of New York State v. Travelers Insurance Co. | 93-1408; 93-1414; 93-1415 | MERITS | Merits decision | Completed: New_York_State_Conference_of_Blue_Cross_Blue_Shield_Plans_v_Travelers_Insurance_Co_merits_1995-04-26.md |
 | 1995-04-27 | OT_1994CHUNK5 | United States v. Harris + | 94-297 | MERITS | Merits decision | Completed: United_States_v_Harris_merits_1995-04-27.md |
-| 1995-05-01 | OT_1994CHUNK5 | United States v. Robertson | 94-251 | MERITS | Per curiam decision after merits submission | Completed: United_States_v_Robertson_merits_1995-05-01.md |
+| 1995-05-01 | OT_1994CHUNK5 | United States v. Robertson | 94-251 | MERITS | Opinion of the Court by Breyer after merits submission | Completed: United_States_v_Robertson_merits_1995-05-01.md |
 | 1995-05-08 | OT_1994CHUNK5 | United States v. Pinson + | 94-164 | MERITS | Merits decision | Completed: United_States_v_Pinson_merits_1995-05-08.md |
 | 1995-05-15 | OT_1994CHUNK5 | Kansas v. Colorado | 105, Original | ORIGINAL | Original proceeding: exceptions to Special Master report | Completed: Kansas_v_Colorado_original_exceptions_1995-05-15.md |
 | 1995-05-15 | OT_1994CHUNK5 | Hubbard v. United States | 94-172 | MERITS | Merits decision | Completed: Hubbard_v_United_States_merits_1995-05-15.md |

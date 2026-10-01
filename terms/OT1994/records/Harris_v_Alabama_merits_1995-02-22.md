@@ -1,13 +1,13 @@
 **Case and dockets:** Harris v. Alabama, No. 93-7659
 **Event and date:** Merits decision — 1995-02-22.
 **Result:** Alabama Supreme Court judgment affirmed, 7–2; no penalty rehearing ordered. Stone-Zsela and Stevens seek sentence relief on distinct grounds. Guilt remains undisturbed.
-**Version / lineage:** Initial durable file handoff; no superseded adjudication. Operator repository verification and commit pending.
+**Version / lineage:** Initial durable file handoff; no superseded adjudication. Operator repository verification and commit pending. User-authorized nonadjudicative correction, 2026-09-30 (F07, current 17-finding audit): replaces only the identified annex, chronology, status or wording defects in place. All adjudicated judgments, votes, coalitions and remedies are preserved.
 
 ## Event, chronology, route and questions
 
 Harris v. Alabama, No. 93-7659. Argued December 5, 1994; decided February 22, 1995. On writ of certiorari to the Supreme Court of Alabama, Ex parte Harris, 632 So. 2d 543, affirming Harris v. State, 632 So. 2d 503. The admitted question is whether Alabama's judicial imposition of death after an advisory life recommendation satisfies constitutional capital-sentencing requirements when the statute commands consideration but prescribes no particular weight. The record's constitutional adequacy is contested; the existence of sentencing findings is not.
 
-The argument and decision dates use the admitted historical schedule, not a new order inferred from a filing wrapper. This event shares the February 22 date group. Its law is the common pre-February-22 baseline, including effective February 21 Lebron and Milwaukee Brewery. O'Neal remains unresolved and supplies no law. Anderson and the other February 22 matters do not enter through processing order.
+The argument and decision dates use the admitted historical schedule, not a new order inferred from a filing wrapper. This event shares the February 22 date group. Its law is the common pre-February-22 baseline, including effective February 21 Lebron and Milwaukee Brewery. The current effective baseline also includes [O'Neal's completed February 21, 1995 decision](ONeal_v_McAninch_merits_1995-02-21.md); the [completion chronology review](../freeze/OT_1994CHUNK3_ONEAL_CHRONOLOGY.md) establishes no changed premise for this decision. Anderson and the other February 22 matters do not enter through processing order.
 
 ## Participation and threshold
 

@@ -1,7 +1,7 @@
 **Case and dockets:** Shalala v. Whitecotton, No. 94-372.
 **Event and date:** Merits decision, 1995-04-18; October Term 1994, chunk 4.
 **Result:** Reverse the Federal Circuit’s compensation direction and remand, 9–0; preserve alternative claims, factual review, and new-evidence component.
-**Version / lineage:** Initial canonical adjudication; supersedes nothing. Preserved for operator verification and commitment; no Git command was run.
+**Version / lineage:** Initial canonical adjudication; supersedes nothing. Preserved for operator verification and commitment; no Git command was run. User-authorized nonadjudicative correction, 2026-09-30 (F08, current 17-finding audit): replaces only the identified annex, chronology, status or wording defects in place. All adjudicated judgments, votes, coalitions and remedies are preserved.
 
 ## Event, posture, and chronology
 
@@ -166,7 +166,7 @@ The strongest affirmance path relies on the residual-seizure provision's explici
 
 Assignment: Stone is in the unanimous judgment coalition and assigns O'Connor. Fit is separating statutory predicates, presumptions and rebuttal while preserving meaningful factual review, a task supported by her Greenwich Collieries writing. The common frozen reservations already establish the coalition, so no expansion bargain or new join is needed. All eight associate joins and Stone's full join fit their recorded conditions. The separate-writing function discussed at reconciliation is satisfied in the common Court opinion; historical authorship or concurrence topology is not copied.
 
-No changed historical judgment or necessary operative rule is established. Returning the new-evidence component is not an independent denial or mootness decision. Nine judgment and nine rationale votes agree; no Marks issue arises. The verified regulatory transition is applied by its text, subject to root's pending complete chronology refresh.
+No changed historical judgment or necessary operative rule is established. Returning the new-evidence component is not an independent denial or mootness decision. Nine judgment and nine rationale votes agree; no Marks issue arises. The verified regulatory transition is applied by its text; the complete chronology refresh is finished, as documented in Final chronology and preservation below.
 
 ## Sources, research cutoff, and validation status
 

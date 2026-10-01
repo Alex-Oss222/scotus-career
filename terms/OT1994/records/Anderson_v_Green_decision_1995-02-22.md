@@ -1,7 +1,7 @@
 **Case and dockets:** Anderson v. Green; No. 94-197; 513 U.S. 557
 **Event and date:** Decision, 1995-02-22; October Term 1994, chunk 3.
 **Result:** Ninth Circuit judgment vacated, 9–0; remand for vacatur of District Court preliminary judgment and dismissal without prejudice as unripe.
-**Version / lineage:** Initial durable event handoff; no earlier adjudication superseded. Operator repository verification and commitment remain pending; no Git operation is claimed.
+**Version / lineage:** Initial durable event handoff; no earlier adjudication superseded. Operator repository verification and commitment remain pending; no Git operation is claimed. User-authorized nonadjudicative correction, 2026-09-30 (F07, current 17-finding audit): replaces only the identified annex, chronology, status or wording defects in place. All adjudicated judgments, votes, coalitions and remedies are preserved.
 
 ## Event and chronology
 
@@ -9,7 +9,7 @@ Anderson v. Green, No. 94-197; 513 U.S. 557. Argued January 17, 1995. Decided Fe
 
 The preliminary injunction concerned California Welfare and Institutions Code §11450.03's first-year limit to the former State's maximum benefit. The state-law federal-approval condition, not the recipients' residence anniversaries alone, controls present justiciability. The lower record includes a class described to include present and future recipients; no complete certification history is inferred. The injunction is a preliminary judgment, not a final determination of all claims. California sought merits reversal and argued possible renewed approval; no concession of mootness or request by California for this threshold result is invented.
 
-Beno removed the maintenance-of-effort waiver on July 13, 1994, before the reported July 28 petition. Other unchallenged waivers remained effective. The separate event and California's acknowledged dependency establish the missing prerequisite without inventing a later grant date or invoking the merits of Beno as this Court's law. The February 22 matters share common law effective before that group; O'Neal remains undecided and supplies none. This Record claims no intra-day release sequence.
+Beno removed the maintenance-of-effort waiver on July 13, 1994, before the reported July 28 petition. Other unchallenged waivers remained effective. The separate event and California's acknowledged dependency establish the missing prerequisite without inventing a later grant date or invoking the merits of Beno as this Court's law. The February 22 matters share common law effective before that group; that baseline now includes [O'Neal's completed February 21, 1995 decision](ONeal_v_McAninch_merits_1995-02-21.md), whose [completion chronology review](../freeze/OT_1994CHUNK3_ONEAL_CHRONOLOGY.md) establishes no changed premise for this ripeness disposition. This Record claims no intra-day release sequence.
 
 ## Participation and entering law
 

@@ -1,7 +1,7 @@
 **Case and dockets:** Interstate Commerce Commission v. Transcon Lines; No. 93-1318; 513 U.S. 138.
 **Event and date:** Merits decision; 1995-01-10; October Term 1994, chunk 1.
 **Result:** The Ninth Circuit is reversed and the case remanded, 9-0, for implementation of an injunction confined to the admitted-unlawful loss-of-discount liquidated-damages class, with genuine scope, inclusion and amount questions beyond the concessions preserved. Ordinary unpaid freight principal and other estate receivables are excluded from the restraint.
-**Version / lineage:** First Canonical Decision Record; no completed adjudication superseded. Completes the preassembly revalidation identified in OT_1994CHUNK1_TRANSCON_REVALIDATION.md under the user's express September 28, 2026 remedy approval. Repository verification and commitment remain with the operator; no Git operation or commit hash is claimed.
+**Version / lineage:** First Canonical Decision Record; no completed adjudication superseded. Completes the preassembly revalidation identified in OT_1994CHUNK1_TRANSCON_REVALIDATION.md under the user's express September 28, 2026 remedy approval. Repository verification and commitment remain with the operator; no Git operation or commit hash is claimed. User-authorized nonadjudicative correction, 2026-09-30 (F06, current 17-finding audit): replaces only the identified annex, chronology, status or wording defects in place. All adjudicated judgments, votes, coalitions and remedies are preserved.
 
 ## Event, chronology and review channel
 
@@ -50,7 +50,7 @@ The Ninth Circuit's judgment denying this credit-rule collection injunction is r
 
 There are no partial joins, judgment-only votes or separate writings. All nine join each controlling proposition.
 
-Stone joins the judgment majority and therefore assigns the opinion under Engine §8. He assigns Kennedy, whose compatible Reiter, Kmart and ABF positions fit the statutory-source and confined-remedy analysis and who has not authored another chunk-1 Court opinion. Assignment is an assembly determination, not adoption of historical authorship. Each non-Stone Justice joins the same frozen statutory, violation, fit and implementation propositions with the existing reservations. No circulation change, invented draft history or renewed non-Stone modeling is needed.
+Stone joins the judgment majority and therefore assigns the opinion under Engine §8. He assigns Kennedy, whose compatible Reiter, Kmart and ABF positions fit the statutory-source and confined-remedy analysis and who already authored the January 9 Plakas Court opinion. That existing assignment is acknowledged; workload remains secondary to the recorded statutory-source and confined-remedy fit. Assignment is an assembly determination, not adoption of historical authorship. Each non-Stone Justice joins the same frozen statutory, violation, fit and implementation propositions with the existing reservations. No circulation change, invented draft history or renewed non-Stone modeling is needed.
 
 ## Controlling holdings
 

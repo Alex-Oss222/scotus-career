@@ -2216,7 +2216,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Governing question:** The showing needed to overcome successive or abusive habeas barriers through innocence of the offense.
 
-**Current rule:** The prisoner must present reliable new evidence and show, considering the whole probative record, that it is more likely than not that no reasonable, properly instructed juror would find guilt beyond a reasonable doubt. The inquiry includes the new evidence together with the existing record rather than deferring conclusively to the original jury’s credibility choices. Passing this demanding procedural gateway establishes neither innocence as a freestanding claim nor the underlying constitutional violation and shifts no ultimate merits burden.
+**Current rule:** The prisoner must present reliable new evidence and show, considering the whole probative record, that it is more likely than not that no reasonable, properly instructed juror would find guilt beyond a reasonable doubt. The inquiry includes the new evidence together with the existing record rather than deferring conclusively to the original jury’s credibility choices. Passing this demanding procedural gateway establishes neither innocence as a freestanding claim nor the underlying constitutional violation and shifts no ultimate merits burden. The court considers all relevant probative evidence, including evidence excluded at trial or becoming available afterward; trial-admissibility rules do not categorically delimit the gateway record, and even improperly admitted trial evidence may have probative force subject to reliability. The court must assess reliability and likely credibility, not accept every submitted statement as true. Timing, delay and inconsistency may matter; no categorical rule excludes impeachment evidence or discredits a witness solely because the witness is a prisoner.
 
 **Authority by component:**
 
@@ -2225,7 +2225,9 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Present operation effective:** 1995-01-23; the component authorities identified above.
 
-**Exceptions and limits:** Sawyer’s clear-and-convincing death-eligibility gateway is distinct. Section 2244(b)’s qualified permission to refuse a subsequent petition does not itself sustain refusal based on the rejected clear-and-convincing crime standard. Other lawful independent barriers and necessary factual-development rules remain.
+**Exceptions and limits:** Sawyer’s clear-and-convincing death-eligibility gateway is distinct. Section 2244(b) permits refusal of a subsequent habeas application by a person held under a state-court judgment after a federal court, justice or judge denied release or another habeas remedy on an earlier habeas application following either an evidentiary hearing on the merits of a material factual issue or a hearing on the merits of an issue of law, unless the later application alleges and rests on a factual or other ground not adjudicated in the earlier hearing and the court is satisfied that the applicant did not deliberately withhold the newly asserted ground on the earlier application or otherwise abuse the writ. Both exception conditions are required. New evidence is not automatically a new ground, and absence of deliberate withholding does not eliminate every other kind of abuse. When both conditions are met and other barriers, including nonexhaustion and procedural default, are absent, McCleskey requires consideration. The qualified refusal permission does not itself sustain refusal based on the rejected clear-and-convincing crime standard. Other lawful independent barriers and necessary factual-development rules remain.
+
+**Burdens and proof:** The State must plead abuse with clarity and particularity by identifying prior writ history and newly raised claims and alleging abuse before the prisoner’s burden arises. Cause and prejudice and the exceptional innocence route remain separate.
 
 **Open question:** Schlup does not decide whether every successful innocence showing compels review, a general appellate standard for refusal, or an automatic hearing, writ, retrial, release or stay.
 
@@ -2440,12 +2442,13 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 - A known nexus to pending judicial work: [A known nexus to pending judicial work](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Aguilar_merits_1995-06-21.md#public-projection), 1995-06-21. Ginsburg’s §1503 portion, joined by Stone-Zsela, Stevens, O’Connor, Souter and Breyer; six Justices adopt this statutory nexus and application.
 - Disclosure of a known application and obstructive purpose: [Disclosure of a known application and obstructive purpose](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Aguilar_merits_1995-06-21.md#public-projection), 1995-06-21. Ginsburg’s §2232(c) portion, joined by Stone-Zsela, O’Connor, Scalia, Kennedy, Souter, Thomas and Breyer; eight Justices support this construction.
+- The as-applied speech objection: [The as-applied speech objection](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Aguilar_merits_1995-06-21.md#public-projection), 1995-06-21. Ginsburg’s constitutional portion, joined by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas and Breyer; eight Justices support the as-applied speech rationale. Stone-Zsela agrees only with rejection of the objection under his standing fallback and does not join this rationale.
 
 **Present operation effective:** 1995-06-21; the component authorities identified above.
 
 **Exceptions and limits:** The as-applied First Amendment rejection for purposefully obstructive notice by an officer receiving sensitive information through judicial office creates no separate confidentiality offense or source-of-knowledge element. Gaudin’s jury allocation remains intact; knowledge-instruction validity, harmlessness and ordinary sentencing issues remain separate.
 
-**Holdings navigation:** [A known nexus to pending judicial work](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#a-known-nexus-to-pending-judicial-work); [Disclosure of a known application and obstructive purpose](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#disclosure-of-a-known-application-and-obstructive-purpose).
+**Holdings navigation:** [A known nexus to pending judicial work](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#a-known-nexus-to-pending-judicial-work); [Disclosure of a known application and obstructive purpose](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#disclosure-of-a-known-application-and-obstructive-purpose); [The as-applied speech objection](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-as-applied-speech-objection).
 
 ### Limited drug testing of interscholastic athletes
 
@@ -3120,12 +3123,13 @@ Parental informed consent may use the accurate medical content and qualified mat
 **Authority by component:**
 
 - Violation-linked salary support is permissible on the preserved findings: [Violation-linked salary support is permissible on the preserved findings](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Missouri_v_Jenkins_merits_1995-06-12.md#public-projection), 1995-06-12. Souter's opinion of the Court, joined by Stone-Zsela, Stevens, Ginsburg and Breyer; five Justices adopt this holding and affirm both reviewed salary judgments.
+- Partial release requires the complete Freeman showing: [Partial release requires the complete Freeman showing](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Missouri_v_Jenkins_merits_1995-06-12.md#public-projection), 1995-06-12. Souter's opinion of the Court, joined by Stone-Zsela, Stevens, Ginsburg and Breyer; five Justices adopt the complete Freeman release showing, the limits on low-score evidence and the clarification that national parity is not indispensable.
 
 **Present operation effective:** 1995-06-12; the component authorities identified above.
 
 **Exceptions and limits:** The rule supplies no right to general improvement, perpetual funding or reopening of a broader magnet foundation outside review. Partial withdrawal still requires the complete Freeman showing; low scores alone prove neither continuing injury nor completed compliance, and national-score parity is not indispensable.
 
-**Holdings navigation:** [Violation-linked salary support is permissible on the preserved findings](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#violation-linked-salary-support-is-permissible-on-the-preserved-findings).
+**Holdings navigation:** [Violation-linked salary support is permissible on the preserved findings](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#violation-linked-salary-support-is-permissible-on-the-preserved-findings); [Partial release requires the complete Freeman showing](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#partial-release-requires-the-complete-freeman-showing).
 
 ### Program-wide athletic opportunity and independent sex-classification review
 
@@ -5641,11 +5645,9 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Present operation effective:** 1995-03-06; the component authorities identified above.
 
-**Exceptions and limits:** Actual incurred cost excludes unnecessary costs in efficient delivery of needed services; allocation must prevent cross-subsidy in either direction between Medicare and non-Medicare patients. Necessary-and-proper-interest and reasonable patient-care-cost limits remain. No universal amortization period, immediate-recognition right or general deference rule follows.
+**Exceptions and limits:** Actual incurred cost excludes unnecessary costs in efficient delivery of needed services; allocation must prevent cross-subsidy in either direction between Medicare and non-Medicare patients. Necessary-and-proper-interest and reasonable patient-care-cost limits remain. No universal amortization period, immediate-recognition right or general deference rule follows. Recall without new debt is outside §233’s advance-refunding rule. Necessary borrowing accounts for available sinking funds, and excess borrowing to buy depreciable assets accounts for existing funded depreciation. Ordinary net allowable refinancing costs cannot exceed costs without refinancing; compelling factors such as necessary cash flow or removal of a restrictive covenant may justify more upon a showing satisfactory to the intermediary. Without that showing the annual ceiling remains. No equity-capital award or later §1395hh rulemaking disposition is supplied.
 
 **Controlling construction:** For advance refunding through new debt initiated on or after July 1, 1983, PRM §233 treats expense elements separately. New issue costs amortize from incurrence to new scheduled maturity; old unamortized discount, premium and issue costs run from new issuance until old holders receive principal, proportionately for serial bonds. Call premiums or penalties become allowable when old holders receive principal, prorated for serial payments. Interest on both debts is allowed annually as paid or accrued, with new discount/premium amortization adjusting interest and income from new proceeds offsetting it, including trust earnings. Redemption, miscellaneous expenses and annual authority/trustee fees retain their independent §2305 qualification; its exact allowance conditions are not established by this decision and no dependent entitlement is decided.
-
-**Effective transition:** Recall without new debt is outside §233’s advance-refunding rule. Necessary borrowing accounts for available sinking funds, and excess borrowing to buy depreciable assets accounts for existing funded depreciation. Ordinary net allowable refinancing costs cannot exceed costs without refinancing; compelling factors such as necessary cash flow or removal of a restrictive covenant may justify more upon a showing satisfactory to the intermediary. Without that showing the annual ceiling remains. No equity-capital award or later §1395hh rulemaking disposition is supplied.
 
 **Holdings navigation:** [The accounting regulations do not compel immediate recognition of this loss](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-accounting-regulations-do-not-compel-immediate-recognition-of-this-loss); [The manual explains a lawful allocation rather than changing binding law](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-manual-explains-a-lawful-allocation-rather-than-changing-binding-law).
 
@@ -5803,12 +5805,13 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 **Authority by component:**
 
 - Congressional agents may not control the legal effectiveness of airport decisions: [Congressional agents may not control the legal effectiveness of airport decisions](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Metropolitan_Washington_Airports_Authority_v_Hechinger_merits_1995-06-05.md#public-projection), 1995-06-05. Stevens's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; nine Justices adopt the congressional-agency-plus-operative-control ground. Stone's independent Article I ground is not an additional Court holding.
+- The enacted contingency limits the remedy: [The enacted contingency limits the remedy](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/Metropolitan_Washington_Airports_Authority_v_Hechinger_merits_1995-06-05.md#public-projection), 1995-06-05. Stevens's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; all nine adopt the §2456(h) covered-action disability and the statutory remedial and survival qualifications.
 
 **Present operation effective:** 1995-06-05; the component authorities identified above.
 
 **Exceptions and limits:** The airport statute’s §2456(h) contingency separately withdraws the Authority’s power to perform covered submitted actions when a judicial order prevents the Board from performing its statutory functions. Severance cannot restore actions that contingency prohibits. Unaffected authorized functions, the lease and compact survive; past transactions are not automatically invalidated.
 
-**Holdings navigation:** [Congressional agents may not control the legal effectiveness of airport decisions](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#congressional-agents-may-not-control-the-legal-effectiveness-of-airport-decisions).
+**Holdings navigation:** [Congressional agents may not control the legal effectiveness of airport decisions](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#congressional-agents-may-not-control-the-legal-effectiveness-of-airport-decisions); [The enacted contingency limits the remedy](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#the-enacted-contingency-limits-the-remedy).
 
 ### Timely direct challenges to adjudicators’ appointments
 

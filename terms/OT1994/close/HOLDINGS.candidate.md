@@ -1338,7 +1338,7 @@ For the other questions in this decision, see Federal Taxation — Federal oblig
 - Goldberg v. Sweet, 488 U.S. 252: applies the fair-relation inquiry to general protections supporting the taxable activity.
 - Complete Auto Transit, Inc. v. Brady, 430 U.S. 274: keeps fair relation independent of nexus, apportionment, and nondiscrimination.
 
-**Operative remedy or transition:** The Commerce-ground disallowance is reversed and remanded, 7–2. The claims may be allowed to the extent otherwise valid and administered under ordinary tax and bankruptcy law and the operative plan. No immediate $46,659.15 payment, priority, withdrawn amount, credit or mileage formula is ordered.
+**Operative remedy or transition:** The Commerce-ground disallowance is reversed and remanded, 7–2. The bankruptcy court shall allow the tax claims to the extent otherwise valid; allowance, priority, and payment remain subject to ordinary tax and bankruptcy law and the operative plan. No immediate $46,659.15 payment, priority, withdrawn amount, credit or mileage formula is ordered.
 
 ### Interstate water compacts and usable-water depletion
 
@@ -5074,7 +5074,7 @@ For the other questions in Johnson v. De Grandy, 1994-06-30, Nos. 92-519, 92-593
 
 **Treatment of earlier authority:** Abney v. United States and United States v. Stanley are applied to limits on adding otherwise unauthorized issues to a proper immediate appeal. Cohen and Digital Equipment remain the source of the separate collateral-order inquiry. Earlier examples of connected review are not overruled or converted into a general pendent-party jurisdiction doctrine.
 
-**Limits and questions not reached:** Section 1292(b) requires the District Judge's written statement that an order involves a controlling question of law, substantial ground for difference of opinion, and that an immediate appeal may materially advance the litigation's ultimate termination. Application must be made within ten days; the court of appeals may then permit the appeal in its discretion. Application alone does not stay District Court proceedings unless the District Judge, the court of appeals, or a judge thereof orders a stay. No qualifying certification or permission is established here. Section 1292(e) permits additional interlocutory-appeal rules prescribed under §2072; §2072(c) permits rules defining finality under §1291. Those are rulemaking authorizations, subject to §2072's prohibition on abridging, enlarging, or modifying substantive rights, and are not an operative rule allowing this appeal. No mandamus relief is sought or granted here; that distinct route retains its own requirements.
+**Limits and questions not reached:** Part IV of Ginsburg’s opinion, joined by all eight Associate Justices, expressly leaves undecided whether genuinely inextricable or necessary connected review is available at all and what its scope would be. Stone-Zsela’s affirmative view is separate and noncontrolling. Section 1292(b) requires the District Judge's written statement that an order involves a controlling question of law, substantial ground for difference of opinion, and that an immediate appeal may materially advance the litigation's ultimate termination. Application must be made within ten days; the court of appeals may then permit the appeal in its discretion. Application alone does not stay District Court proceedings unless the District Judge, the court of appeals, or a judge thereof orders a stay. No qualifying certification or permission is established here. Section 1292(e) permits additional interlocutory-appeal rules prescribed under §2072; §2072(c) permits rules defining finality under §1291. Those are rulemaking authorizations, subject to §2072's prohibition on abridging, enlarging, or modifying substantive rights, and are not an operative rule allowing this appeal. No mandamus relief is sought or granted here; that distinct route retains its own requirements.
 
 **Operative remedy or transition:** The Commission's appellate disposition under §§1983 and 1985(3) is vacated and remanded with instructions to dismiss its interlocutory appeal. Its surviving federal claims return to their preappeal District Court posture without a liability or summary-judgment ruling. Officers' immunity dispositions and separately declined City and individual state-law appeals are undisturbed; no county state-law count remained.
 
@@ -12677,7 +12677,7 @@ For the other questions in United States v. Aguilar, decided June 21, 1995, No. 
 
 - West Virginia State Board of Education v. Barnette: applies protection against compelled expression.
 - Miami Herald Publishing Co. v. Tornillo: applies editorial selection protection.
-- Turner Broadcasting System, Inc. v. FCC: applies existing medium-specific editorial protection, without importing unrelated broadcast results.
+- Turner Broadcasting System, Inc. v. FCC: applies existing medium-specific editorial protection, without importing unrelated cable results.
 - Roberts v. United States Jaycees; PruneYard Shopping Center v. Robins: distinguish access not materially altering the private expressive composition.
 - Bose Corp. v. Consumers Union; Fiske v. Kansas: apply independent review of intertwined First Amendment characterizations while retaining credibility deference.
 

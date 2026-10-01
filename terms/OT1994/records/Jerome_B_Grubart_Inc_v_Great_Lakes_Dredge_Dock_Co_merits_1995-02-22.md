@@ -1,13 +1,13 @@
 **Case and dockets:** Jerome B. Grubart, Inc. v. Great Lakes Dredge & Dock Co., No. 93-762; City of Chicago v. Great Lakes Dredge & Dock Co., No. 93-1094
 **Event and date:** Merits decision — 1995-02-22.
 **Result:** Affirmed in both dockets, 7–0. Five join the complete Sisson/Extension Act framework; Thomas and Scalia concur in the judgment on their vessel/locality route. Liability and limitation remain open.
-**Version / lineage:** Initial durable file handoff; no superseded adjudication. Operator repository verification and commit pending.
+**Version / lineage:** Initial durable file handoff; no superseded adjudication. Operator repository verification and commit pending. User-authorized nonadjudicative correction, 2026-09-30 (F07, current 17-finding audit): replaces only the identified annex, chronology, status or wording defects in place. All adjudicated judgments, votes, coalitions and remedies are preserved.
 
 ## Event, chronology, route and questions
 
 Jerome B. Grubart, Inc. v. Great Lakes Dredge & Dock Co., No. 93-762, and City of Chicago v. Great Lakes Dredge & Dock Co., No. 93-1094. Argued October 12, 1994; decided February 22, 1995. On writs of certiorari to the Seventh Circuit, In re Complaint of Great Lakes Dredge & Dock Co., 3 F.3d 225, which reversed dismissal of the consolidated limitation proceeding. The question is whether alleged vessel-based piling damage to an underwater tunnel and consequent land flooding fall within admiralty jurisdiction under the Admiralty Extension Act and Sisson's connection requirements, including the effect of an additional alleged nonmaritime tortfeasor.
 
-The argument and decision dates use the admitted historical schedule, not a new order inferred from a filing wrapper. This event shares the February 22 date group. Its law is the common pre-February-22 baseline, including effective February 21 Lebron and Milwaukee Brewery. O'Neal remains unresolved and supplies no law. Anderson and the other February 22 matters do not enter through processing order.
+The argument and decision dates use the admitted historical schedule, not a new order inferred from a filing wrapper. This event shares the February 22 date group. Its law is the common pre-February-22 baseline, including effective February 21 Lebron and Milwaukee Brewery. The current effective baseline also includes [O'Neal's completed February 21, 1995 decision](ONeal_v_McAninch_merits_1995-02-21.md); the [completion chronology review](../freeze/OT_1994CHUNK3_ONEAL_CHRONOLOGY.md) establishes no changed premise for this decision. Anderson and the other February 22 matters do not enter through processing order.
 
 ## Participation and threshold
 

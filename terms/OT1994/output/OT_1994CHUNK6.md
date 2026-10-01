@@ -379,7 +379,7 @@ The [Seventh Circuit judicial opinion](https://openjurist.org/35/f3d/265/kelley-
 
 #### Mandate, Remedy, and Stage
 
-Judgment for the University remains;  No reinstatement, damages or further remedy proceedings are ordered on rejected claims.
+Judgment for the University remains; No reinstatement, damages or further remedy proceedings are ordered on rejected claims.
 
 **End of entry: Kelley v. Board of Trustees of the University of Illinois, Merits decision, 1995-05-22.**
 
@@ -485,7 +485,7 @@ Ker v. California, 374 U.S. 23: applies state-entry reasonableness with circumst
 
 **Source Notes:** Miller, Ker and Sabbath supply entry authorities. Arkansas judgment supplies posture. The [Archive item](https://archive.org/details/micro_IA40385013_0613) identifies petition, briefs and appendix; no unrecovered transcript fact is used.
 
-State-court proceedings resume on remand for actual reasonableness, excuses and remedy. the ultimate conviction consequence remains for adjudication.
+State-court proceedings resume on remand for actual reasonableness, excuses and remedy. The ultimate conviction consequence remains for adjudication.
 
 **End of entry: Wilson v. Arkansas, Merits decision, 1995-05-22.**
 
@@ -558,8 +558,6 @@ Original exceptions, 1995-05-30
 #### Chronology and Posture
 
 Original-action exceptions to Master Olpin's Third Interim Report, filed October 11, 1994; exceptions filed November 25, 1994. Questions: ceiling, groundwater, equitable defenses, downstream/habitat, Horse Creek, federal administration and exact leave. Argued March 21, 1995.
-
-Nebraska v. Wyoming, No. 108, Original; Original exceptions, 1995-05-30. Original-action exceptions to Master Olpin's Third Interim Report, filed October 11, 1994; exceptions filed November 25, 1994. Questions: ceiling, groundwater, equitable defenses, downstream/habitat, Horse Creek, federal administration and exact leave. Argued March 21, 1995.
 
 Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument or submission and decision; no nonparticipation is established.
 
@@ -713,13 +711,13 @@ Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Sou
 
 Both Third Circuit judgments affirmed, 9–0.
 
-North Star, No. 94-834; Affirm, 9–0; Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; No opposing vote; Affirm reversal of limitations dismissal; further WARN proceedings.
-Crown Cork, No. 94-835; Affirm, 9–0; Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; No opposing vote; Affirm rejection of six-month defense; ordinary proceedings.
+In North Star, No. 94-834, the Court affirms, 9–0, the reversal of the limitations dismissal, leaving further WARN proceedings. Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer support that judgment; no Justice opposes it.
+In Crown Cork, No. 94-835, the same nine Justices affirm, 9–0, the rejection of the six-month limitations defense, leaving ordinary proceedings. No Justice opposes that judgment.
 
 The North Star employees’ separate action and Crown Cork action continue. The rejection of the six-month defense does not establish WARN liability, resolve statutory merits exceptions, award damages, or make the earlier union action dispositive of the individual claims. An exact state period may be selected if later necessary; no accrual or tolling question is independently decided.
 
-Opinion of the Court; Souter; Stone-Zsela, Stevens, O’Connor, Kennedy, Thomas, Ginsburg, Breyer; Affirm both; Entire state-borrowing rule, application and limits.
-Concurrence in the judgment; Scalia; No other Justice; Affirm both; State borrowing under existing precedent; does not join renewed approval of federal-borrowing discretion.
+Justice Souter delivers the Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Kennedy, Thomas, Ginsburg and Breyer. They support affirmance in both cases and join the entire state-borrowing rule, application and limits.
+Justice Scalia concurs in the judgment in both cases; no other Justice joins his opinion. He supports state borrowing under existing precedent but does not join renewed approval of federal-borrowing discretion.
 
 For these WARN claims, courts must borrow an appropriate analogous state limitations period because NLRA § 10(b) is neither a clearly closer analogy nor shown significantly more suitable through federal policy and litigation practicalities. Both claims are timely under the state candidates presented; the Court need not select an exact statute or decide the WARN merits.
 

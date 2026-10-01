@@ -1,7 +1,7 @@
 **Case and dockets:** Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston; No. 94-749
 **Event and date:** Merits decision, 1995-06-19; October Term 1994, chunk 8.
 **Result:** Massachusetts Supreme Judicial Court reversed and case remanded, 9–0; compelled-inclusion injunction shall be dissolved.
-**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed.
+**Version / lineage:** Initial adjudication; no predecessor is superseded. Durable file preservation pending operator Git verification and commitment; no Git command run or commit claimed. User-authorized nonadjudicative correction, 2026-09-30 (F04, current 17-finding audit): replaces only the identified annex, chronology, status or wording defects in place. All adjudicated judgments, votes, coalitions and remedies are preserved.
 
 ## Event, participation, and entering-law validation
 
@@ -31,13 +31,13 @@ Stone assigns Souter. Fit: the structural distinction between a broadly composed
 
 **Authority:** Souter’s Opinion of the Court, joined by all eight other Justices; nine Justices adopt the as-applied private-expression holding.
 
-**Controlling explanation:** The Court holds that the right to speak includes control over the composition of a private expressive presentation. Barnette prohibits compulsory affirmation, and Tornillo protects editorial choice against compelled inclusion. Turner preserves the importance of a speaker’s selection within a particular medium; its separate broadcast context is not mechanically imported here. A parade presents expression through the groups and messages its organizers choose, even if those selections are permissive or varied. GLIB’s bannered unit has its own protected message, but that protection creates no entitlement to insert it into another private speaker’s presentation. Use of public streets under a neutral permit does not convert this parade into a governmental forum. Roberts and PruneYard concern access without the same compelled alteration of expression. Independent review of intertwined expression characterizations, with credibility deference, rejects the conclusion that absence of a single theme eliminates protection. The Court invalidates only this compelled expressive inclusion, without finding every customer identity a message or requiring proof that spectators endorse each contingent.
+**Controlling explanation:** The Court holds that the right to speak includes control over the composition of a private expressive presentation. Barnette prohibits compulsory affirmation, and Tornillo protects editorial choice against compelled inclusion. Turner preserves the importance of a speaker’s selection within a particular medium; its separate cable context is not mechanically imported here. A parade presents expression through the groups and messages its organizers choose, even if those selections are permissive or varied. GLIB’s bannered unit has its own protected message, but that protection creates no entitlement to insert it into another private speaker’s presentation. Use of public streets under a neutral permit does not convert this parade into a governmental forum. Roberts and PruneYard concern access without the same compelled alteration of expression. Independent review of intertwined expression characterizations, with credibility deference, rejects the conclusion that absence of a single theme eliminates protection. The Court invalidates only this compelled expressive inclusion, without finding every customer identity a message or requiring proof that spectators endorse each contingent.
 
 **Precedent treatment:**
 
 - West Virginia State Board of Education v. Barnette: applies protection against compelled expression.
 - Miami Herald Publishing Co. v. Tornillo: applies editorial selection protection.
-- Turner Broadcasting System, Inc. v. FCC: applies existing medium-specific editorial protection, without importing unrelated broadcast results.
+- Turner Broadcasting System, Inc. v. FCC: applies existing medium-specific editorial protection, without importing unrelated cable results.
 - Roberts v. United States Jaycees; PruneYard Shopping Center v. Robins: distinguish access not materially altering the private expressive composition.
 - Bose Corp. v. Consumers Union; Fiske v. Kansas: apply independent review of intertwined First Amendment characterizations while retaining credibility deference.
 
@@ -154,13 +154,13 @@ Massachusetts Supreme Judicial Court reversed and case remanded, 9–0; compelle
 
 **Authority:** Souter’s Opinion of the Court, joined by all eight other Justices; nine Justices adopt the as-applied private-expression holding.
 
-**Controlling explanation:** The Court holds that the right to speak includes control over the composition of a private expressive presentation. Barnette prohibits compulsory affirmation, and Tornillo protects editorial choice against compelled inclusion. Turner preserves the importance of a speaker’s selection within a particular medium; its separate broadcast context is not mechanically imported here. A parade presents expression through the groups and messages its organizers choose, even if those selections are permissive or varied. GLIB’s bannered unit has its own protected message, but that protection creates no entitlement to insert it into another private speaker’s presentation. Use of public streets under a neutral permit does not convert this parade into a governmental forum. Roberts and PruneYard concern access without the same compelled alteration of expression. Independent review of intertwined expression characterizations, with credibility deference, rejects the conclusion that absence of a single theme eliminates protection. The Court invalidates only this compelled expressive inclusion, without finding every customer identity a message or requiring proof that spectators endorse each contingent.
+**Controlling explanation:** The Court holds that the right to speak includes control over the composition of a private expressive presentation. Barnette prohibits compulsory affirmation, and Tornillo protects editorial choice against compelled inclusion. Turner preserves the importance of a speaker’s selection within a particular medium; its separate cable context is not mechanically imported here. A parade presents expression through the groups and messages its organizers choose, even if those selections are permissive or varied. GLIB’s bannered unit has its own protected message, but that protection creates no entitlement to insert it into another private speaker’s presentation. Use of public streets under a neutral permit does not convert this parade into a governmental forum. Roberts and PruneYard concern access without the same compelled alteration of expression. Independent review of intertwined expression characterizations, with credibility deference, rejects the conclusion that absence of a single theme eliminates protection. The Court invalidates only this compelled expressive inclusion, without finding every customer identity a message or requiring proof that spectators endorse each contingent.
 
 **Precedent treatment:**
 
 - West Virginia State Board of Education v. Barnette: applies protection against compelled expression.
 - Miami Herald Publishing Co. v. Tornillo: applies editorial selection protection.
-- Turner Broadcasting System, Inc. v. FCC: applies existing medium-specific editorial protection, without importing unrelated broadcast results.
+- Turner Broadcasting System, Inc. v. FCC: applies existing medium-specific editorial protection, without importing unrelated cable results.
 - Roberts v. United States Jaycees; PruneYard Shopping Center v. Robins: distinguish access not materially altering the private expressive composition.
 - Bose Corp. v. Consumers Union; Fiske v. Kansas: apply independent review of intertwined First Amendment characterizations while retaining credibility deference.
 
