@@ -63,7 +63,7 @@ Stone final disposition and joins match the topology below. Every addressed qual
 
 Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer affirm each claim, 9-0. Judgment for the University remains; no reinstatement, damages or remand follows. No broad Section 1983 preclusion rule is adopted.
 
-O'Connor delivers the Opinion of the Court; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join PartsI andII, including both independent grounds.
+O'Connor delivers the Opinion of the Court; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join Parts I and II, including both independent grounds.
 
 ## Controlling holdings
 

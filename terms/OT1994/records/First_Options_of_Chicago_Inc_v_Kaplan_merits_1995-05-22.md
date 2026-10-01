@@ -49,7 +49,7 @@ Stone final disposition and joins match the topology below. Every addressed qual
 
 Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer affirm both components, 9-0. The Third Circuit judgment vacating the award against the Kaplans personally remains in force. MKI's separate corporate submission is unaffected except as provided below. No new FAA merits-vacatur ground is adopted.
 
-Breyer delivers the Opinion of the Court. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join PartI antecedent assent and application and PartII ordinary appellate review. Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer alone join the additional conditional limited-review proposition for actual delegation. Stone-Zsela reserves that proposition and merits-award deference; no separate writing or fractured-decision inference.
+Breyer delivers the Opinion of the Court. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join Part I antecedent assent and application and Part II ordinary appellate review. Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer alone join the additional conditional limited-review proposition for actual delegation. Stone-Zsela reserves that proposition and merits-award deference; no separate writing or fractured-decision inference.
 
 ## Controlling holdings
 

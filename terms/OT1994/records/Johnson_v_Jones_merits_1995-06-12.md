@@ -57,7 +57,7 @@ The following frozen reconciliation supplies each non-Stone Justice's commitment
 
 ### Historical verification and final commitments
 
-Official 515 U.S.304–320 verifies a unanimous affirmance and Breyer's Court opinion. Every non-Stone Justice — Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer — retains affirmance of dismissal of the immediate factual-sufficiency appeal. Eight non-Stone affirmance votes; zero opposition. No separate writing or historical authorship is preassigned by this handoff.
+Official 515 U.S. 304–320 verifies a unanimous affirmance and Breyer's Court opinion. Every non-Stone Justice — Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer — retains affirmance of dismissal of the immediate factual-sufficiency appeal. Eight non-Stone affirmance votes; zero opposition. No separate writing or historical authorship is preassigned by this handoff.
 
 Under §1291 and Cohen, a summary-judgment denial insofar as it determines whether the evidence presents a genuine factual dispute for trial is not immediately appealable merely because qualified immunity is invoked. Mitchell's distinct legal immunity appeal remains: take the relevant assumed facts and ask whether conduct violates clearly established law. The present appeal disputes whether petitioners participated or were present, not the legal consequences if they did. Counsel's concession that defendants could not lose that factual dispute yet prevail supports characterization of the actual appeal; it does not prove participation.
 

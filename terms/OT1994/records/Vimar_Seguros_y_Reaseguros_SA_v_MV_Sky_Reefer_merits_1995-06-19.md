@@ -104,7 +104,7 @@ The six Path A associates agree on both stated components and the bounded stay r
 
 Reconciled conclusions:
 
-## 89. Vimar Seguros y Reaseguros v. M/V Sky Reefer — No.94-623; June19
+## 89. Vimar Seguros y Reaseguros v. M/V Sky Reefer — No.94-623; June 19
 
 Breyer does not participate; no reason supplied. O'Connor/Scalia/Kennedy/Souter/Thomas/Ginsburg affirm and remand; Stevens reverses stay. No judgment change. Original coexistence grounds survive: foreign-forum costs alone do not lessen enumerated COGSA duties; unestablished substantive reduction is premature because the District Court retains the action and lawful enforcement authority. No FAA-overrides-COGSA doctrine or unlimited merits-review guarantee.
 

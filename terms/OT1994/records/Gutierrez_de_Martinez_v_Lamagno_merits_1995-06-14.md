@@ -93,18 +93,18 @@ Smith establishes immunity for employment-related torts notwithstanding an FTCA 
 
 Reconciled conclusions:
 
-## 85. Gutierrez de Martinez v. Lamagno — No.94-167; June14
+## 85. Gutierrez de Martinez v. Lamagno — No.94-167; June 14
 
 **Reconciled associates:** Stevens, O'Connor, Kennedy, Ginsburg and Breyer reverse the certification-conclusive ruling and remand; Scalia, Souter and Thomas affirm. Eight associates only; Stone enters assembly independently.
 
-Official515U.S.419,437–449 expands the incomplete comparator: O'Connor supported the statutory review rule while refusing the removed-case ArticleIII discussion; Souter supported finality with Scalia/Thomas. Documentary historical authorship never directs assignment.
+Official 515 U.S. 419,437–449 expands the incomplete comparator: O'Connor supported the statutory review rule while refusing the removed-case Article III discussion; Souter supported finality with Scalia/Thomas. Documentary historical authorship never directs assignment.
 
 The reversal ground is judicial review of certification for substitution: §2679(d)(2) expressly makes certification conclusive for removal, not substitution; ambiguity is resolved by the review presumption, predecessor practice and the anomaly of conclusively terminating a tort action on an interested executive official's untested predicate. Smith retains employee exclusivity once employment scope is established, notwithstanding an FTCA exception; it does not conclusively assign that predicate to the executive. Review neither waives the foreign-country exception nor establishes actual scope, liability, damages, universal discovery or a trial mode.
 
 | Justice | Original → reconciled | Justice-specific comparison and sufficient ground |
 |---|---|---|
 | Stevens | Reverse → reverse | Smith dissent explains careful scrutiny of remedy-ending extensions without becoming controlling law; review presumption and limited finality suffice. No scope finding. |
-| O'Connor | Affirm → reverse | Her own concurrence pp.437–438 specifically finds the unusual combination of review presumption, impartial adjudication, meaningful judicial work and anti-redundancy outweighs avoidance. Smith/Meyer change none of those premises. Her actual barrier is deciding removed-case ArticleIII jurisdiction unnecessarily; reserving it answers the objection without an affirmance vote. |
+| O'Connor | Affirm → reverse | Her own concurrence pp.437–438 specifically finds the unusual combination of review presumption, impartial adjudication, meaningful judicial work and anti-redundancy outweighs avoidance. Smith/Meyer change none of those premises. Her actual barrier is deciding removed-case Article III jurisdiction unnecessarily; reserving it answers the objection without an affirmance vote. |
 | Scalia | Affirm → affirm | Mandatory substitution, predecessor plaintiff-review deletion, express employee petition and avoidance outweigh implied review. Neither foreign injury nor the FTCA exception proves actual scope. |
 | Kennedy | Reverse → reverse | Smith's consequence after scope determination is distinct from its final decisionmaker. Statutory review suffices, without a constitutional rule against all executive immunity factfinding. |
 | Souter | Reverse → affirm | His actual dissent pp.438–449 answers the provisional negative inference: deletion of predecessor review plus express employee review implies asymmetry; removal finality can clarify termination of old remand practice despite redundancy. He rejects the self-interest analogy as attenuated and invokes the jurisdictional anomaly. Original federal diversity existed historically and is no changed premise; Meyer supplies no contrary rule. |
@@ -112,7 +112,7 @@ The reversal ground is judicial review of certification for substitution: §2679
 | Ginsburg | Reverse → reverse | Ambiguous finality plus traditional review supports judicial examination without creating a damages cause or deciding scope. |
 | Breyer | Reverse → reverse | Actual allocation and initial substitution versus final predicate support review. First Options is merely an institutional analogy. |
 
-**Reach:** Diversity supplies jurisdiction here independent of certification. The five reversal associates can join reservation of removed-case jurisdiction because it is unnecessary to this judgment; O'Connor expressly refuses its resolution. No frozen proposition authorizes post-rejection retention in a nondiverse removed action. A proposal affirmatively deciding it requires a separate assembly formulation/join test; no historical PartIV join automatically enters final topology. Remand restores scope review, not success. §904/headquarters questions remain outside the grant. Officialpp.420–434,437–449 and original JA receipt support this bounded result; no blocker.
+**Reach:** Diversity supplies jurisdiction here independent of certification. The five reversal associates can join reservation of removed-case jurisdiction because it is unnecessary to this judgment; O'Connor expressly refuses its resolution. No frozen proposition authorizes post-rejection retention in a nondiverse removed action. A proposal affirmatively deciding it requires a separate assembly formulation/join test; no historical Part IV join automatically enters final topology. Remand restores scope review, not success. §904/headquarters questions remain outside the grant. Official pp. 420–434,437–449 and original JA receipt support this bounded result; no blocker.
 
 
 

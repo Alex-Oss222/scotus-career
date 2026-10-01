@@ -72,7 +72,7 @@ Record and bounded projection are durably written; coordinated arithmetic, ident
 
 # OT1994 chunk8 neutral freeze B ? case93
 
-**READY for fresh historical reconciliation.** Immutable neutral handoff; no Git per user. Eight associates only, no Stone, comparator, historical outcome, authorship or joins imported. Event cutoff June21,1995; contemporaneous peer law excluded. Source basis: sanitized packet93; entering-law/current-neutral projection; IA94-226 petitioner merits component04 and respondent merits05 fully read, including complete rules appendix. Petition retrieved, not fully read. Both merits expressly state parties agreed petition appendix suffices, so no separate JA was prepared. No inference that unexamined sources omit a fact. No outcome exposure.
+**READY for fresh historical reconciliation.** Immutable neutral handoff; no Git per user. Eight associates only, no Stone, comparator, historical outcome, authorship or joins imported. Event cutoff June 21,1995; contemporaneous peer law excluded. Source basis: sanitized packet93; entering-law/current-neutral projection; IA94-226 petitioner merits component04 and respondent merits05 fully read, including complete rules appendix. Petition retrieved, not fully read. Both merits expressly state parties agreed petition appendix suffices, so no separate JA was prepared. No inference that unexamined sources omit a fact. No outcome exposure.
 
 ## Threshold and component precision
 

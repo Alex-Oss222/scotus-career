@@ -93,7 +93,7 @@ The effective simulated Sullivan rule forbids a judicial substitute for the jury
 
 Reconciled conclusions:
 
-## 88. United States v. Gaudin — No.94-514; June19
+## 88. United States v. Gaudin — No.94-514; June 19
 
 All eight affirm the reviewed Ninth Circuit judgment; original grounds survive. Each supports jury application of instructed law to facts for every criminal element beyond reasonable doubt. A mixed label does not assign an element to the judge; pure instructions and threshold sufficiency remain judicial. Sinclair's incompatible criminal pertinency allocation is displaced, not unrelated propositions; Kungys's civil denaturalization appellate allocation remains distinct. Stevens/Scalia/Kennedy/Souter/Thomas/Ginsburg support this rule on original grounds. O'Connor/Breyer additionally preserve actual error-classification/statutory-clause reservations, without importing historical authorship. Thomas's clause-specific reservation is compatible. Sullivan stays at actual simulated scope; Hubbard agency coverage cannot transfer HUD offense elements to a judge.
 

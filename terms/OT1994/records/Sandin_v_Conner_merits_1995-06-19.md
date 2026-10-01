@@ -110,7 +110,7 @@ A separate nature-and-severity path is legally available for considering whether
 
 Reconciled conclusions:
 
-## 87. Sandin v. Conner — No.93-1911; June19
+## 87. Sandin v. Conner — No.93-1911; June 19
 
 **Associates:** O'Connor, Scalia, Kennedy and Thomas reverse on the reviewed thirty-day segregation liberty/Wolff predicate. Stevens, Ginsburg, Souter and Breyer affirm recognition of protected liberty with a process remand. Judgment directions remain; exclusive narrow-rule grounds are corrected. No Court majority or assignment is presumed.
 
