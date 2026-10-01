@@ -27,7 +27,7 @@ Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, K
 
 Stone affirms on the shared negative Commerce Clause proposition, joins Kennedy’s Court opinion at the precise two holdings stated below, and concurs separately to publish his complete six-route account. The Court’s negative ground entails no categorical economic/noneconomic exclusion and preserves the economic-class scope of Wickard and Perez. Stone’s full routes are not attributed to the four other affirming Justices; his shared join neither abandons any route nor treats the bounded Court explanation as an exhaustive enumeration. His no-insertion remedy is preserved. No amended statute, Second Amendment question, different enumerated authority or later jurisdictional formulation is decided. The conditional indictment defense and sentencing objections become unnecessary once dismissal is affirmed on the express ground; no fallback is used to replace or narrow his ground, judgment or remedy. There is no change to the approved supplement.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -57,7 +57,7 @@ The defect is not merely the label “noneconomic.” Stone does not adopt a cat
 This reasoning and disposition belong to the Commerce Clause and Federalism build. They establish no Second Amendment rule and classify no firearm as protected or unprotected. Enumerated federal authority and an individual-rights restriction are distinct inquiries; ordinary state police authority likewise does not decide compliance with an independently applicable right. The Elections Clause and Reconstruction Amendments retain their own texts and standards. No future case, amended statute or later jurisdictional formulation is decided here.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## Public action, judgment, and opinions
 

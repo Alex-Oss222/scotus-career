@@ -2,7 +2,7 @@
 
 ## 5. Church of Scientology Flag Service Organization, Inc. v. City of Clearwater +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -46,11 +46,11 @@
 - **Boundary or Reserved Question:** Stone does not constitutionalize a general law of charitable refunds, prevent enforcement of ordinary fraud, contract, restitution, tax, or reporting law, or create a governmental financing entitlement for religion.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 6. Federal Election Commission v. NRA Political Victory Fund
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -78,11 +78,11 @@
 - **Boundary or Reserved Question:** Congress may not use an advisory label to conceal operative control. A materially different arrangement involving approval, disapproval, delay, compulsory direction, decisive participation, or another legal consequence would require separate analysis.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 7. Reich v. Collins
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -102,11 +102,11 @@
 - **Boundary or Reserved Question:** The holding does not dictate the form of Georgia’s tax system or prevent prospective procedural rules that provide an adequate prepayment remedy with fair notice.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 8. Brown v. Gardner
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -126,4 +126,4 @@
 - **Boundary or Reserved Question:** The holding does not make VA an insurer for the underlying disease or for consequences not caused by treatment.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+

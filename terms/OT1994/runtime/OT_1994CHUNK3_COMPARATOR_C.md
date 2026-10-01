@@ -2,7 +2,7 @@
 
 ## 33. Mastrobuono v. Shearson Lehman Hutton, Inc.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -20,7 +20,7 @@
 
 ## 34. Curtiss-Wright Corp. v. Schoonejongen
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -72,7 +72,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 35. Shalala v. Guernsey Memorial Hospital
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -90,7 +90,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 36. Ambassador Books & Video, Inc. v. City of Little Rock +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 

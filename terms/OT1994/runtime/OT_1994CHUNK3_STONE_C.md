@@ -2,7 +2,7 @@
 
 ## 33. Mastrobuono v. Shearson Lehman Hutton, Inc.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -24,12 +24,12 @@
 - **Boundary or Reserved Question:** The holding does not authorize punitive damages where the agreement expressly excludes them or where governing substantive law forbids the remedy altogether.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 
 ## 34. Curtiss-Wright Corp. v. Schoonejongen
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -94,12 +94,12 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 
 ## 35. Shalala v. Guernsey Memorial Hospital
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -119,12 +119,12 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** The Court does not authorize agencies to use manuals to impose duties outside enacted statutes or regulations, or to evade notice and comment when an instrument changes binding substantive law.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 
 ## 36. Ambassador Books & Video, Inc. v. City of Little Rock +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -160,4 +160,4 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** Stone does not approve a law using a land-use label to impose punishment for protected expression or past conduct.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+

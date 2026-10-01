@@ -199,7 +199,7 @@ The original-order timeliness issue can be decided. Remaining immigration merits
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 50. Kyles v. Whitley
 
@@ -254,7 +254,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Bagley supplies the reasonable-probability standard; Giglio confirms that impeachment evidence is favorable evidence.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 51. Rubin v. Coors Brewing Co.
 
@@ -309,7 +309,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Central Hudson supplies the governing test; Posadas does not permit internal statutory contradictions to substitute for fit.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 52. California Department of Corrections v. Morales
 
@@ -362,7 +362,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Weaver and Collins focus on increased punishment rather than formal procedural labels.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 53. United States v. Williams
 
@@ -416,7 +416,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Flora addresses full payment and does not limit the identity of a person from whom a tax was collected under the waiver’s text.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 54. United States v. Lopez
 
@@ -470,7 +470,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Wickard preserves aggregation for genuinely economic classes; Perez concerns an economic class; neither supplies a general police power.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 55. New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co. / Pataki v. Travelers Insurance Co. / Hospital Association of New York State v. Travelers Insurance Co.
 
@@ -524,7 +524,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Shaw supplies text and purpose; Greater Washington is distinguished because the law there expressly keyed obligations to plan coverage.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 56. United States v. Harris +
 
@@ -592,7 +592,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 **Lower-court docket identifiers:** 93-7554 (court below only).
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 57. United States v. Robertson
 
@@ -647,7 +647,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** American Building Maintenance identifies enterprises engaged in interstate commerce. Wickard aggregation and any attenuated substantial-effects theory need not be reached because the mine itself conducted interstate transactions.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 58. United States v. Pinson +
 
@@ -706,7 +706,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 **Neutral source:** United States v. Pinson, 24 F.3d 1056, 1058 n.2 (8th Cir. 1994), the predecision appellate opinion. The later Kyllo opinion supplies no entering law.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 59. Kansas v. Colorado
 
@@ -1121,7 +1121,7 @@ The identified liability and exception paths may be modeled. A new quantitative 
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 60. Hubbard v. United States
 
@@ -1174,4 +1174,4 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** The statutory definition and ordinary branch structure control; Bramblett is overruled because its construction cannot be reconciled with them and has generated an unadministerable exception.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+

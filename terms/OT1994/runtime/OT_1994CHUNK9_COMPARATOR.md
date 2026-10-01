@@ -6,7 +6,7 @@
 
 ## 97. Miller v. Johnson / Abrams v. Johnson / United States v. Johnson
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -54,7 +54,7 @@ For comparative theory, Stevens's [historical Adarand dissent](https://www.law.c
 
 ## 98. Capitol Square Review and Advisory Board v. Pinette
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -71,7 +71,7 @@ For comparative theory, Stevens's [historical Adarand dissent](https://www.law.c
 
 ## 99. Chabad-Lubavitch of Georgia v. Miller +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 

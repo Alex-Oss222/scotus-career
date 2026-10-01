@@ -6,7 +6,7 @@
 
 ## 13. Tome v. United States
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -23,7 +23,7 @@
 
 ## 14. Young v. Northern Illinois Conference of United Methodist Church +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -40,7 +40,7 @@
 
 ## 15. Asgrow Seed Co. v. Winterboer
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -95,7 +95,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 16. United States v. Mezzanatto
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -112,7 +112,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 17. American Airlines, Inc. v. Wolens
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -129,7 +129,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 18. NationsBank of North Carolina, N.A. v. Variable Annuity Life Insurance Co. / Ludwig v. Variable Annuity Life Insurance Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -146,7 +146,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 19. Allied-Bruce Terminix Cos. v. Dobson
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -163,7 +163,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 20. Schlup v. Delo
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -180,7 +180,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 21. McKennon v. Nashville Banner Publishing Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -197,7 +197,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 22. Fargo Women’s Health Organization v. Schafer +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -214,7 +214,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 23. Lebron v. National Railroad Passenger Corp.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -231,7 +231,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 24. Milwaukee Brewery Workers' Pension Plan v. Jos. Schlitz Brewing Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 

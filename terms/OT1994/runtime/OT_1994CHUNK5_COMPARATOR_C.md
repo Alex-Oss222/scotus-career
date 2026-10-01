@@ -2,7 +2,7 @@
 
 ## 57. United States v. Robertson
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -19,7 +19,7 @@
 
 ## 58. United States v. Pinson +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -36,7 +36,7 @@
 
 ## 59. Kansas v. Colorado
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -91,7 +91,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 60. Hubbard v. United States
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 

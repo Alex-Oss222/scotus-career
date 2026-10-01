@@ -1,5 +1,5 @@
 **Case and dockets:** Wilson v. Arkansas; No. 94-5707.
-**Event and date:** Merits decision; 1995-05-22; OT1994,chunk6.
+**Event and date:** Merits decision; 1995-05-22; OT1994, chunk 6.
 **Result:** REVERSED AND REMANDED,9-0.
 **Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction.
 
@@ -17,7 +17,7 @@ Verbatim scoped approved supplement follows; preparation-era claim no OT1994 Rec
 
 ## 65. Wilson v. Arkansas
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -37,7 +37,7 @@ Verbatim scoped approved supplement follows; preparation-era claim no OT1994 Rec
 - **Boundary or Reserved Question:** Stone reserves the exact quantum of suspicion for exceptions, rejects no offense-wide exception on this record, and does not decide whether suppression is required for every violation.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 
 

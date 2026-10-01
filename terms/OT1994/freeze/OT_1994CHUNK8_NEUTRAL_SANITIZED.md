@@ -60,7 +60,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Governing Law:** Federal Employees Liability Reform and Tort Compensation Act, 28 U.S.C. § 2679(d); Administrative Procedure review presumption; United States v. Smith.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 86. Oklahoma Tax Commission v. Chickasaw Nation
 
@@ -118,7 +118,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Governing Law:** McClanahan v. Arizona State Tax Commission; Mescalero Apache Tribe v. Jones; federal Indian-country statutes.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 87. Sandin v. Conner
 
@@ -171,7 +171,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Governing Law:** U.S. Const. amend. XIV; Wolff v. McDonnell; Meachum v. Fano; Hewitt v. Helms.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 88. United States v. Gaudin
 
@@ -225,7 +225,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Governing Law:** U.S. Const. amends. V and VI; 18 U.S.C. § 1001; United States v. Johnson; Sullivan v. Louisiana.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 89. Vimar Seguros y Reaseguros, S.A. v. M/V Sky Reefer
 
@@ -465,7 +465,7 @@ The certified statutory issue and present effect of the clause may be decided; n
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 90. Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston
 
@@ -517,7 +517,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Governing Law:** U.S. Const. amend. I; West Virginia Board of Education v. Barnette; Miami Herald Publishing Co. v. Tornillo; Roberts v. United States Jaycees.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 91. National Private Truck Council, Inc. v. Oklahoma Tax Commission
 
@@ -758,7 +758,7 @@ The federal equitable and fee questions can be resolved on the established adequ
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 92. United States v. Aguilar
 
@@ -815,7 +815,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Governing Law:** 18 U.S.C. § 2232(c); First Amendment principles governing official confidentiality.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 93. Florida Bar v. Went For It, Inc.
 
@@ -869,7 +869,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Governing Law:** U.S. Const. amend. I; Central Hudson Gas & Electric Corp. v. Public Service Commission; Shapero v. Kentucky Bar Association; Ohralik v. Ohio State Bar Association.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 94. Vernonia School District 47J v. Acton
 
@@ -923,7 +923,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Governing Law:** U.S. Const. amend. IV; Skinner v. Railway Labor Executives’ Association; National Treasury Employees Union v. Von Raab; New Jersey v. T.L.O.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 95. Rosenberger v. Rector and Visitors of the University of Virginia
 
@@ -985,7 +985,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Governing Law:** Establishment Clause; Free Speech Clause; Everson v. Board of Education; Committee for Public Education & Religious Liberty v. Nyquist; Lemon v. Kurtzman; Regan v. Taxation With Representation of Washington.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 96. Babbitt v. Sweet Home Chapter of Communities for a Great Oregon
 
@@ -1040,4 +1040,4 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Governing Law:** Endangered Species Act, 16 U.S.C. §§ 1532(19), 1538(a)(1)(B), 1539; Chevron U.S.A. Inc. v. NRDC.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+

@@ -6,7 +6,7 @@
 
 ## 85. Gutierrez de Martinez v. Lamagno
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -23,7 +23,7 @@
 
 ## 86. Oklahoma Tax Commission v. Chickasaw Nation
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -40,7 +40,7 @@
 
 ## 87. Sandin v. Conner
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -57,7 +57,7 @@
 
 ## 88. United States v. Gaudin
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -74,7 +74,7 @@
 
 ## 89. Vimar Seguros y Reaseguros, S.A. v. M/V Sky Reefer
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -130,7 +130,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 90. Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -147,7 +147,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 91. National Private Truck Council, Inc. v. Oklahoma Tax Commission
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -202,7 +202,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 92. United States v. Aguilar
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -219,7 +219,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 93. Florida Bar v. Went For It, Inc.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -236,7 +236,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 94. Vernonia School District 47J v. Acton
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -253,7 +253,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 95. Rosenberger v. Rector and Visitors of the University of Virginia
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -270,7 +270,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 96. Babbitt v. Sweet Home Chapter of Communities for a Great Oregon
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 

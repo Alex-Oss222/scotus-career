@@ -2,7 +2,7 @@
 
 ## 9. Nebraska Department of Revenue v. Loewenstein
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -19,7 +19,7 @@
 
 ## 10. In re Baby K +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -36,7 +36,7 @@
 
 ## 11. Plakas v. Drinski +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -53,7 +53,7 @@
 
 ## 12. Interstate Commerce Commission v. Transcon Lines
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 

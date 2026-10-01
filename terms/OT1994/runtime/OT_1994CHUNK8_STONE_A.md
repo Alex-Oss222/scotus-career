@@ -6,7 +6,7 @@
 
 ## 85. Gutierrez de Martinez v. Lamagno
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -26,11 +26,11 @@
 - **Boundary or Reserved Question:** The holding does not decide the correct scope determination, waive federal immunity, or create a cause of action against the United States.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 86. Oklahoma Tax Commission v. Chickasaw Nation
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -58,11 +58,11 @@
 - **Boundary or Reserved Question:** The holding does not decide nonmember employees, income from nontribal sources, or a federal statute expressly altering state authority.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 87. Sandin v. Conner
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -82,11 +82,11 @@
 - **Boundary or Reserved Question:** The holding does not constitutionalize every prison regulation, routine transfer, brief inconvenience, or discretionary management choice. Security and institutional judgment remain entitled to the weight the native due-process analysis permits.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 88. United States v. Gaudin
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -108,11 +108,11 @@
 - **Boundary or Reserved Question:** The holding does not require juries to decide abstract statutory meaning or other pure questions of law; it concerns the application of the legal materiality standard to the charged facts.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 89. Vimar Seguros y Reaseguros, S.A. v. M/V Sky Reefer
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -180,11 +180,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 90. Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -212,5 +212,5 @@ A parade is expression even without a single narrow message or rigorous editoria
 - **Boundary or Reserved Question:** The holding does not invalidate public-accommodations laws generally, authorize exclusion from ordinary nonexpressive goods and services, or make customer identity itself a message.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 

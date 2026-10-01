@@ -2,7 +2,7 @@
 
 ## 1. United States v. Shabani
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -22,11 +22,11 @@
 - **Boundary or Reserved Question:** The holding does not reduce the Government’s burden to prove the unlawful agreement and the defendant’s knowing participation beyond a reasonable doubt.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 2. U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -79,11 +79,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 3. Hess v. Port Authority Trans-Hudson Corp.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -113,11 +113,11 @@ Do not ask merely whether the entity was created by States or performs a public 
 - **Boundary or Reserved Question:** Treasury liability is highly probative, not categorically dispositive; a materially different compact that makes an entity a direct alter ego of the States remains open.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 4. United States v. X-Citement Video, Inc.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -137,4 +137,4 @@ Do not ask merely whether the entity was created by States or performs a public 
 - **Boundary or Reserved Question:** The Government need not prove that the defendant knew the legal classification or the exact age threshold; unmistakable child pornography and other distinct offenses remain governed by their own text.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+

@@ -57,7 +57,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Abbott Laboratories and related cases supply the presumption of review; Smith addresses substitution consequences, not conclusiveness.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 86. Oklahoma Tax Commission v. Chickasaw Nation
 
@@ -117,7 +117,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** McClanahan governs reservation residence and tribal income; Mescalero confirms broader state authority over off-reservation activity.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 87. Sandin v. Conner
 
@@ -171,7 +171,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Wolff recognizes state-created prison liberty; Hewitt is narrowed so drafting language neither automatically creates nor automatically defeats an interest.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 88. United States v. Gaudin
 
@@ -226,7 +226,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Sullivan and the jury-trial cases require jury findings on every element beyond a reasonable doubt.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 89. Vimar Seguros y Reaseguros, S.A. v. M/V Sky Reefer
 
@@ -466,7 +466,7 @@ The certified statutory issue and present effect of the clause may be decided; n
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 90. Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston
 
@@ -519,5 +519,5 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Tornillo protects editorial choice; Roberts permits neutral access regulation when inclusion does not materially alter expression.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 

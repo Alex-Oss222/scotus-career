@@ -1,5 +1,5 @@
 **Case and dockets:** Nebraska v. Wyoming; No. 108, Original.
-**Event and date:** Original exceptions; 1995-05-30; OT1994,chunk6.
+**Event and date:** Original exceptions; 1995-05-30; OT1994, chunk 6.
 **Result:** All six exceptions OVERRULED;9-0 on Wyoming's four exceptions;8-1 on both federal-claim exceptions. Bounded leave granted and withheld; further proceedings before the Master.
 **Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction. Close-audit correction 2026-09-30 (F03): Fourth Cross-Claim attribution made consistent with the existing eight-Justice admission; replaces the prior wording in place without a new adjudication.
 
@@ -17,7 +17,7 @@ Verbatim scoped approved supplement follows; preparation-era claim no OT1994 Rec
 
 ## 68. Nebraska v. Wyoming
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -133,7 +133,7 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 
 
@@ -308,7 +308,7 @@ Historical reconciliation: All eight match other components. Scalia's provisiona
 
 ## Sources and validation
 
-The [Third Interim Report](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180149/1000180149_017.pdf),pp.33-71,Apps.C-E,supplies decree and pleadings. [United States exception](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_001.pdf) and [Wyoming exceptions](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_002.pdf),November25,1994,supply objections;Government opposition is no jurisdictional concession. Nebraska1945,1953,April20,1993 and current Kansas apply at exact scope. No new hydrologic finding,Glendo quantity or carriage-loss formula is reconstructed.
+The [Third Interim Report](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180149/1000180149_017.pdf),pp.33-71,Apps. C-E, supplies decree and pleadings. [United States exception](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_001.pdf) and [Wyoming exceptions](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_002.pdf),November 25, 1994, supply objections; Government opposition is no jurisdictional concession. Nebraska 1945, 1953, April 20, 1993 and current Kansas apply at exact scope. No new hydrologic finding, Glendo quantity or carriage-loss formula is reconstructed.
 
 Cutoff predecision 1995-05-30; modern retrieval is provenance only. Wilson/FirstOptions Archive availability verified, not complete independentPDFreading; no transcript facts inferred. Nebraska source supports leave, not hydrologic merits. Assembly checks cover votes, scope and identical kernel/publicholdings; operator term checks and Git commitment remain. This natural-key file becomes authoritative once validated and committed. No render or workspace was written here.
 

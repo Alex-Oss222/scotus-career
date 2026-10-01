@@ -6,7 +6,7 @@
 
 ## 61. City of Edmonds v. Oxford House, Inc.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -23,7 +23,7 @@
 
 ## 62. Reynoldsville Casket Co. v. Hyde
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -40,7 +40,7 @@
 
 ## 63. Day v. Holahan +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -58,7 +58,7 @@
 
 ## 64. U.S. Term Limits, Inc. v. Thornton / Bryant v. Hill
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -75,7 +75,7 @@
 
 ## 65. Wilson v. Arkansas
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -92,7 +92,7 @@
 
 ## 66. First Options of Chicago, Inc. v. Kaplan
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -109,7 +109,7 @@
 
 ## 67. Kelley v. Board of Trustees of the University of Illinois +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -126,7 +126,7 @@
 
 ## 68. Nebraska v. Wyoming
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -181,7 +181,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 69. North Star Steel Co. v. Thomas / Crown Cork & Seal Co., Inc. v. United Steelworkers of America, AFL-CIO-CLC
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -233,7 +233,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 70. Garlotte v. Fordice
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -250,7 +250,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 71. United States v. Wellons +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -267,7 +267,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 72. Reno v. Koray
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 

@@ -6,7 +6,7 @@
 
 ## 91. National Private Truck Council, Inc. v. Oklahoma Tax Commission
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -61,7 +61,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 92. United States v. Aguilar
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -78,7 +78,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 93. Florida Bar v. Went For It, Inc.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -95,7 +95,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 94. Vernonia School District 47J v. Acton
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -112,7 +112,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 95. Rosenberger v. Rector and Visitors of the University of Virginia
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -129,7 +129,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 96. Babbitt v. Sweet Home Chapter of Communities for a Great Oregon
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 

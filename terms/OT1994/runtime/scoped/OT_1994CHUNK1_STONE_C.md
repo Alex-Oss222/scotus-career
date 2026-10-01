@@ -2,7 +2,7 @@
 
 ## 9. Nebraska Department of Revenue v. Loewenstein
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -22,11 +22,11 @@
 - **Boundary or Reserved Question:** A transaction transferring genuine beneficial ownership and federal coupon income may present a different question.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 10. In re Baby K +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -54,11 +54,11 @@
 - **Boundary or Reserved Question:** Stone does not recognize a general federal right to every medically requested treatment.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 11. Plakas v. Drinski +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -86,11 +86,11 @@
 - **Boundary or Reserved Question:** Stone reserves a case in which municipal training or policy itself causes a distinct constitutional violation.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 12. Interstate Commerce Commission v. Transcon Lines
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -143,4 +143,4 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+

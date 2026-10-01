@@ -27,7 +27,7 @@ On fault he joins the knowing-participation and fair-notice propositions and the
 
 His cumulative-text and Double Jeopardy grounds fit the bounded statutory authorization and Hunter application. This adds date-eligible support to the same approved ground, not another remedy or independent theory. No standing fallback is used: all three components are expressly addressed, and no missing trial-error component is invented.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -73,7 +73,7 @@ This is the first major test of whether Lopez means federal criminal statutes no
 - **Boundary or Reserved Question:** Stone does not decide whether a different charging pair lacking clear cumulative authorization would survive.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## Public action, judgment, and opinions
 

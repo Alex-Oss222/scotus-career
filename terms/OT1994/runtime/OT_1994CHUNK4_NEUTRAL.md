@@ -198,7 +198,7 @@ Determine only the Director’s review entitlement on the identified component. 
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 38. Anderson v. Edwards
 
@@ -432,7 +432,7 @@ The Court can decide whether the rule is forbidden as a matter of federal law. I
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 39. Swanner v. Anchorage Equal Rights Commission +
 
@@ -490,7 +490,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Smith governs neutral, generally applicable regulation of conduct. Lukumi bars religious targeting and schemes that tolerate comparable secular refusals while burdening religious conduct.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 40. Qualitex Co. v. Jacobson Products Co.
 
@@ -543,7 +543,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Inwood supplies the source-identification and functionality principles; Two Pesos confirms that nontraditional symbols can operate as marks.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 41. Oklahoma Tax Commission v. Jefferson Lines, Inc.
 
@@ -598,7 +598,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Complete Auto supplies the four-part inquiry; Goldberg explains internal consistency and multiple-taxation analysis.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 42. Plaut v. Spendthrift Farm, Inc.
 
@@ -653,7 +653,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Klein and the early separation-of-powers cases preserve the judiciary’s conclusive role. Wheeling Bridge permits new law to alter the future operation of continuing equitable relief and does not authorize legislative revision of a completed private judgment.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 43. Shalala v. Whitecotton
 
@@ -885,7 +885,7 @@ Correct the legal sequence and direct review on the existing statutory standards
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 44. Freightliner Corp. v. Myrick
 
@@ -940,7 +940,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Cipollone requires attention to express text and saving clauses; English confines obstacle preemption to an actual federal conflict.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 45. Heintz v. Jenkins
 
@@ -993,7 +993,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** The enacted definition and express litigation-related exceptions control; no judicial exemption is added.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 46. Lanphere & Urbaniak v. Colorado +
 
@@ -1056,7 +1056,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 **Lower-court docket identifiers:** 92-1363 (court below only).
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 47. Celotex Corp. v. Edwards
 
@@ -1109,7 +1109,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Walker and United Mine Workers require compliance with reviewable orders; bankruptcy jurisdiction must still be established through the proper appeal.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 48. McIntyre v. Ohio Elections Commission
 
@@ -1167,4 +1167,4 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Talley protects anonymous handbills; Buckley distinguishes financial disclosure serving electoral accountability.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+

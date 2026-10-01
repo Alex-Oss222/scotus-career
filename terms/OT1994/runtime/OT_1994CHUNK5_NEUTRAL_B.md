@@ -52,7 +52,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Flora addresses full payment and does not limit the identity of a person from whom a tax was collected under the waiver’s text.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 54. United States v. Lopez
 
@@ -106,7 +106,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Wickard preserves aggregation for genuinely economic classes; Perez concerns an economic class; neither supplies a general police power.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 55. New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co. / Pataki v. Travelers Insurance Co. / Hospital Association of New York State v. Travelers Insurance Co.
 
@@ -160,7 +160,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Shaw supplies text and purpose; Greater Washington is distinguished because the law there expressly keyed obligations to plan coverage.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 56. United States v. Harris +
 
@@ -228,5 +228,5 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 **Lower-court docket identifiers:** 93-7554 (court below only).
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 

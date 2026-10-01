@@ -2,7 +2,7 @@
 
 ## 38. Anderson v. Edwards
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -67,11 +67,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 47. Celotex Corp. v. Edwards
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -91,4 +91,4 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** The holding does not validate an injunction entered without even an arguable jurisdictional basis and does not decide the ultimate statutory power to enjoin every action against a nondebtor surety.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+

@@ -1,5 +1,5 @@
 **Case and dockets:** Kelley v. Board of Trustees of the University of Illinois; No. 94-783 (simulation-assigned).
-**Event and date:** Merits decision; 1995-05-22; OT1994,chunk6.
+**Event and date:** Merits decision; 1995-05-22; OT1994, chunk 6.
 **Result:** AFFIRMED,9-0 on each distinct statutory and constitutional claim.
 **Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction.
 
@@ -17,7 +17,7 @@ Verbatim scoped approved supplement follows; preparation-era claim no OT1994 Rec
 
 ## 67. Kelley v. Board of Trustees of the University of Illinois +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -53,7 +53,7 @@ Title IX permits institutions to address unequal athletic opportunity in an over
 - **Boundary or Reserved Question:** The principle is symmetrical and applies to whichever sex is demonstrably underrepresented. This case does not decide classifications based on sexual orientation, gender identity, transgender status, or an individual’s eligibility for a sex-designated team.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 
 

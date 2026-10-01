@@ -198,7 +198,7 @@ The threshold disposition may be prepared on the described absence of authorizat
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 
 ## 30. Gustafson v. Alloyd Co.
@@ -253,7 +253,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Naftalin demonstrates that Congress used broader language when it intended a provision to reach beyond public offerings.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 
 ## 31. Arizona v. Evans
@@ -314,7 +314,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Leon supplies the good-faith exception and its deterrence rationale; Stone declines to extend it beyond the record that justified it.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 
 ## 32. Swint v. Chambers County Commission
@@ -368,5 +368,5 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Mitchell authorizes qualified-immunity appeals; Cohen and § 1291 do not create pendent review of separable nonfinal orders.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 

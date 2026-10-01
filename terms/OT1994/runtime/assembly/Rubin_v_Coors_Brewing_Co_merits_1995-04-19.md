@@ -25,7 +25,7 @@ Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, K
 
 Stone affirms and joins Kennedy’s Court opinion throughout. It accepts the health interest in preventing strength competition, finds the scheme’s inconsistencies fatal to demonstrated advancement, and independently finds deficient proportional fit given workable direct and promotional alternatives. That preserves his full approved framework rather than reducing it to advancement alone. His references to taxation, direct strength regulation and deceptive claims are permissible illustrations of lawful regulatory subjects, not orders adopting a replacement program. Truthful, nonmisleading lawful-product information is the holding’s scope. No fallback or change to his approved ground or remedy is used.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -45,7 +45,7 @@ Stone affirms and joins Kennedy’s Court opinion throughout. It accepts the hea
 - **Boundary or Reserved Question:** The holding protects truthful, nonmisleading information about lawful products; false or deceptive strength claims and direct regulation of alcohol content remain available.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## Public action, judgment, and opinions
 

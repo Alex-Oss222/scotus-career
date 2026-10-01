@@ -2,7 +2,7 @@
 
 ## 5. Church of Scientology Flag Service Organization, Inc. v. City of Clearwater +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -19,7 +19,7 @@
 
 ## 6. Federal Election Commission v. NRA Political Victory Fund
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -36,7 +36,7 @@
 
 ## 7. Reich v. Collins
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -53,7 +53,7 @@
 
 ## 8. Brown v. Gardner
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 

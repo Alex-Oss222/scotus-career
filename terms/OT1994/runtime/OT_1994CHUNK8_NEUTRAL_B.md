@@ -243,7 +243,7 @@ The federal equitable and fee questions can be resolved on the established adequ
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 92. United States v. Aguilar
 
@@ -302,7 +302,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** The enacted elements and the Government’s legitimate protection of confidential interceptions control without an artificial saving construction.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 93. Florida Bar v. Went For It, Inc.
 
@@ -357,7 +357,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Shapero protects truthful direct mail but permits regulation of demonstrated abuse; Ohralik recognizes stronger interests in coercive in-person solicitation.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 94. Vernonia School District 47J v. Acton
 
@@ -412,7 +412,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Skinner and Von Raab recognize special-needs testing; T.L.O. supplies the school context while preserving reasonableness review.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 95. Rosenberger v. Rector and Visitors of the University of Virginia
 
@@ -476,7 +476,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** The religion-funding precedents distinguish neutral civic services from public support directed to religious instruction and propagation. Regan confirms that refusal to subsidize an activity does not automatically prohibit the activity.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 96. Babbitt v. Sweet Home Chapter of Communities for a Great Oregon
 
@@ -532,4 +532,4 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** The statutory text, scheme, and ordinary causation principles support the rule; agency expertise bears on ecological operation, not the existence of power.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+

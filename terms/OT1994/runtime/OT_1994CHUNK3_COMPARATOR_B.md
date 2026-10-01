@@ -2,7 +2,7 @@
 
 ## 29. Anderson v. Green
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -55,7 +55,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 30. Gustafson v. Alloyd Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -73,7 +73,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 31. Arizona v. Evans
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -91,7 +91,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 32. Swint v. Chambers County Commission
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 

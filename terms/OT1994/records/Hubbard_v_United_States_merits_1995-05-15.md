@@ -27,7 +27,7 @@ The approved application to these filings is read with the validated §151 insti
 
 Stone's threshold no-bar/reach conclusion is express, but he does not supply the associates' complete subsidiary/antecedent analysis. His full special-justification reasoning remains in concurrence: unusually strong statutory stare decisis; Patterson, Square D and Illinois Brick; the original legislative facts; conflict with express statutory usage; the demonstrated need for atextual exceptions; slight concrete reliance; and continuing independent offenses. He does not adopt either associates' full extended framework. No current source requires a change to his fixed scope, and no standing fallback is used: the supplied components are addressed, while the other seven counts are outside review. Exact Section II follows unchanged.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -47,7 +47,7 @@ Stone's threshold no-bar/reach conclusion is express, but he does not supply the
 - **Boundary or Reserved Question:** The holding does not immunize falsehoods made to executive agencies merely because litigation is pending and does not affect statutes expressly covering court filings, sworn statements, bankruptcy fraud, obstruction, contempt, or perjury. Congress may expressly extend a false-statement offense to all three branches and define the procedural safeguards and exceptions appropriate to adversarial litigation.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## Public action, judgment, and opinions
 

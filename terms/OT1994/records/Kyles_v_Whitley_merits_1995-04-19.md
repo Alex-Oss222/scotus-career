@@ -23,7 +23,7 @@ Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, K
 
 Stone votes to reverse and joins Souter’s opinion throughout. It adopts collective Brady assessment, prosecution-team knowledge, a probability sufficient to undermine confidence rather than a more-likely-than-not acquittal requirement, and the conditional new-trial remedy he approved. It preserves his exclusions of open-file discovery, structural error for every nondisclosure, and excusing lack of diligence concerning known evidence. No fallback, new innocence finding, or alteration of his approved position is used. His required new-trial opportunity takes the form of a conditional writ, with a reasonable period fixed below.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -43,7 +43,7 @@ Stone votes to reverse and joins Souter’s opinion throughout. It adopts collec
 - **Boundary or Reserved Question:** The holding does not require open-file discovery, excuse defense lack of diligence concerning known evidence, or treat every nondisclosure as structural error.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## Public action, judgment, and opinions
 

@@ -6,7 +6,7 @@
 
 ## 73. Metropolitan Washington Airports Authority v. Hechinger +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -66,11 +66,11 @@
 - **Boundary or Reserved Question:** Stone does not validate a particular past action whose only legal authorization depended on the unconstitutional Board, and he does not decide transaction-specific reliance, finality, or retrospective-remedy questions unnecessary to the facial judgment.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 74. Missouri v. Jenkins
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -129,11 +129,11 @@ Stone's judgment is that this arrangement is administrable because it assigns re
 Susan Sturm's A Normative Theory of Public Law Remedies (1991) provides a relevant account of participation and reasoned dialogue in public-law remedies. It informs the choice of remedial process as scholarship, not as legal authority or an additional condition for release. It supports the legitimacy of the approach without establishing that collaboration will succeed in every institution.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 75. Ryder v. United States
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -153,11 +153,11 @@ Susan Sturm's A Normative Theory of Public Law Remedies (1991) provides a releva
 - **Boundary or Reserved Question:** The holding does not reopen final judgments lacking a timely challenge, invalidate routine ministerial acts, or decide the treatment of officers whose authority was not contested through an available channel.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 76. City of Milwaukee v. Cement Division, National Gypsum Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -210,11 +210,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 77. Adarand Constructors, Inc. v. Peña
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -299,11 +299,11 @@ The Tenth Circuit opinion, 16 F.3d 1537, supplies the judgment below, statutory 
 Contemporary theoretical context includes Michel Rosenfeld's Affirmative Action and Justice (1991) and Cass Sunstein's “The Anticaste Principle” (1994). The 1994 GAO highway DBE review supplies related administrative context about developing firms capable of independent competition, not findings about the precise challenged arrangement. Scholarship is not controlling authority, and later studies or later updates on source pages do not enter the 1995 evidentiary record.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 78. Wilton v. Seven Falls Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -356,11 +356,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 79. Metropolitan Stevedore Co. v. Rambo
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -415,11 +415,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 80. Johnson v. Jones
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -441,11 +441,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** The holding leaves immediate review available for the purely legal question whether the assumed conduct violated clearly established law.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 81. Kimberlin v. Quinlan
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -512,11 +512,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 82. Commissioner v. Schleier
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -538,11 +538,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** The holding does not decide damages expressly compensating physical injury, medical harm, or emotional injury under a statute and record satisfying the enacted exclusion.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 83. Chandris, Inc. v. Latsis
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -607,11 +607,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 84. Witte v. United States
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -678,4 +678,4 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+

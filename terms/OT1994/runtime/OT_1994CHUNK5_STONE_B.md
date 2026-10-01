@@ -2,7 +2,7 @@
 
 ## 53. United States v. Williams
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -22,11 +22,11 @@
 - **Boundary or Reserved Question:** The holding is limited to a compelled payment tied to the claimant’s property and does not authorize refund suits by volunteers or strangers lacking a concrete collection injury.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 54. United States v. Lopez
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -56,11 +56,11 @@ The defect is not merely the label “noneconomic.” Stone does not adopt a cat
 This reasoning and disposition belong to the Commerce Clause and Federalism build. They establish no Second Amendment rule and classify no firearm as protected or unprotected. Enumerated federal authority and an individual-rights restriction are distinct inquiries; ordinary state police authority likewise does not decide compliance with an independently applicable right. The Elections Clause and Reconstruction Amendments retain their own texts and standards. No future case, amended statute or later jurisdictional formulation is decided here.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 55. New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co. / Pataki v. Travelers Insurance Co. / Hospital Association of New York State v. Travelers Insurance Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -80,11 +80,11 @@ This reasoning and disposition belong to the Commerce Clause and Federalism buil
 - **Boundary or Reserved Question:** The holding does not protect state laws that mandate plan benefits, refer specifically to ERISA plans, interfere with uniform administration, or create alternative enforcement remedies.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 56. United States v. Harris +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -130,5 +130,5 @@ This is the first major test of whether Lopez means federal criminal statutes no
 - **Boundary or Reserved Question:** Stone does not decide whether a different charging pair lacking clear cumulative authorization would survive.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 

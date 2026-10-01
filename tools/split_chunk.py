@@ -12,6 +12,7 @@ from pathlib import Path
 
 CASE_RE = re.compile(r"^##\s+(.+?)\s*$", re.M)
 SECTION_RE = re.compile(r"^###\s+SECTION\s+(I|II|III)\b.*$", re.M)
+SECTION_COMMENT_RE = re.compile(r"<!--\s*(BEGIN|END)_SECTION\s+(I|II|III)\s*-->")
 
 def parse_cases(text: str):
     matches = list(CASE_RE.finditer(text))
@@ -29,9 +30,24 @@ def split_case(name: str, block: str):
     if not (by["I"].start() < by["II"].start() < by["III"].start()):
         raise ValueError(f"{name}: sections are not ordered I, II, III")
     header = block[:by["I"].start()].rstrip() + "\n\n"
-    neutral = header + block[by["I"].start():by["II"].start()].rstrip() + "\n"
-    stone = header + block[by["II"].start():by["III"].start()].rstrip() + "\n"
-    comparator = header + block[by["III"].start():].rstrip() + "\n"
+
+    def project(label: str, start: int, end: int):
+        # The shared header may contain Section I's opening comment. Relabel
+        # that marker for this output; retain only this section's body markers.
+        # Strip comment tokens only, preserving all visible text and whitespace.
+        section_header = SECTION_COMMENT_RE.sub(
+            lambda m: f"<!-- BEGIN_SECTION {label} -->" if m.group(1) == "BEGIN" else "",
+            header,
+        )
+        body = block[start:end].rstrip() + "\n"
+        body = SECTION_COMMENT_RE.sub(
+            lambda m: m.group(0) if m.group(2) == label else "", body
+        )
+        return section_header + body
+
+    neutral = project("I", by["I"].start(), by["II"].start())
+    stone = project("II", by["II"].start(), by["III"].start())
+    comparator = project("III", by["III"].start(), len(block))
     return neutral, stone, comparator
 
 def main():

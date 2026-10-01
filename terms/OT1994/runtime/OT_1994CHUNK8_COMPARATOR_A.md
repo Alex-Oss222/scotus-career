@@ -6,7 +6,7 @@
 
 ## 85. Gutierrez de Martinez v. Lamagno
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -23,7 +23,7 @@
 
 ## 86. Oklahoma Tax Commission v. Chickasaw Nation
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -40,7 +40,7 @@
 
 ## 87. Sandin v. Conner
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -57,7 +57,7 @@
 
 ## 88. United States v. Gaudin
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -74,7 +74,7 @@
 
 ## 89. Vimar Seguros y Reaseguros, S.A. v. M/V Sky Reefer
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -130,7 +130,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 90. Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 

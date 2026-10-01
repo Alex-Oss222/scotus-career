@@ -2,7 +2,7 @@
 
 ## 38. Anderson v. Edwards
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -54,7 +54,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 42. Plaut v. Spendthrift Farm, Inc.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -72,7 +72,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 43. Shalala v. Whitecotton
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -125,7 +125,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 44. Freightliner Corp. v. Myrick
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -143,7 +143,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 45. Heintz v. Jenkins
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 

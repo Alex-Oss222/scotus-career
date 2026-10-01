@@ -51,7 +51,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Volt requires enforcement according to contract; Mitsubishi recognizes arbitral authority to resolve statutory and remedial issues within consent.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 
 ## 34. Curtiss-Wright Corp. v. Schoonejongen
@@ -285,7 +285,7 @@ The statutory question is decidable. Actual adoption and ratification belong on 
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 
 ## 35. Shalala v. Guernsey Memorial Hospital
@@ -342,7 +342,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Chenery requires the agency’s own lawful rationale; ordinary interpretive-rule doctrine distinguishes explanation from legislative amendment.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 
 ## 36. Ambassador Books & Video, Inc. v. City of Little Rock +
@@ -414,4 +414,4 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 **Neutral source:** [20 F.3d 858, 861–864 (8th Cir. 1994)](https://law.resource.org/pub/us/case/reporter/F3/020/20.F3d.858.93-1509.html), describing the bench trial and clear-error review.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+

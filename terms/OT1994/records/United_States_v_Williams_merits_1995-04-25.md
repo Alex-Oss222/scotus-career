@@ -21,7 +21,7 @@ Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, K
 
 The exact approved Section II is copied below without alteration. Stone reaches and affirms the jurisdictional judgment, permitting further proceedings under ordinary administrative-exhaustion, merits, and proof requirements. He joins the primary statutory ground only at the approved compelled-payment/claimant-property scope and its rejection of an exclusion based solely on another person's assessment. His remedial-context rationale is preserved in a concurrence: these distinct routes did not provide an adequate avenue here, but their limits do not themselves create the waiver. The record does not turn this into a universal duress requirement contrary to §7422(b), a finding about unproved advice or Government willingness, or a present refund award. His Section II does not authorize the independent construction declaring him to have joined a taxpayer-definition alternative under §§6511 and 7701; no such join is assigned. He neither rejects that five-associate holding nor supplies its vote. No standing fallback is used; the only admitted claim is expressly addressed, and the alternative is another ground for that same component rather than a silent additional claim.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -41,7 +41,7 @@ The exact approved Section II is copied below without alteration. Stone reaches 
 - **Boundary or Reserved Question:** The holding is limited to a compelled payment tied to the claimant’s property and does not authorize refund suits by volunteers or strangers lacking a concrete collection injury.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## Public action, judgment, and opinions
 

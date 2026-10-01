@@ -55,7 +55,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** The statutory text and distinction between crowding limits and family definitions decide the exemption.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 62. Reynoldsville Casket Co. v. Hyde
 
@@ -110,7 +110,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Harper rejects selective prospectivity for federal rules applied to the parties before the Court.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 63. Day v. Holahan +
 
@@ -186,7 +186,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 **Predecision sources:** [Eighth Circuit opinion, 34 F.3d 1356](https://law.justia.com/cases/federal/appellate-courts/F3/34/1356/552077/); [California Medical, 453 U.S. 182](https://www.law.cornell.edu/supremecourt/text/453/182). Historical Supreme Court reasoning in this same simulated matter does not exist; no new outcome enters the neutral packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 64. U.S. Term Limits, Inc. v. Thornton / Bryant v. Hill
 
@@ -242,7 +242,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Powell establishes exclusivity of congressional qualifications; Storer distinguishes substantive qualifications from neutral election administration.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 65. Wilson v. Arkansas
 
@@ -295,7 +295,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Miller and the common-law history establish announcement as part of lawful entry; Ker recognizes circumstances that may excuse it.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 66. First Options of Chicago, Inc. v. Kaplan
 
@@ -348,7 +348,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** AT&T Technologies supplies the clear-and-unmistakable delegation rule; Volt preserves consent as the basis of arbitration.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 67. Kelley v. Board of Trustees of the University of Illinois +
 
@@ -406,7 +406,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Intermediate scrutiny requires an actual important objective and a substantial relationship between the sex-conscious measure and that objective. Correcting a demonstrated inequality in athletic opportunity may qualify, but numerical imbalance or asserted federal compliance does not itself answer the constitutional question.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 68. Nebraska v. Wyoming
 
@@ -781,7 +781,7 @@ The Court may define the permissible litigation and refer factual questions. It 
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 69. North Star Steel Co. v. Thomas / Crown Cork & Seal Co., Inc. v. United Steelworkers of America, AFL-CIO-CLC
 
@@ -977,7 +977,7 @@ The consolidated limitations issue may be resolved. No additional Crown Cork bri
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 70. Garlotte v. Fordice
 
@@ -1031,7 +1031,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Peyton treats consecutive sentences in the aggregate; Maleng’s completed-sentence limit does not apply where the aggregate custody continues and release date changes.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 71. United States v. Wellons +
 
@@ -1096,7 +1096,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** A lawful vehicle search may extend to containers within its probable-cause scope, while an inventory search must rest on lawful custody and standardized noninvestigatory procedures.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 72. Reno v. Koray
 
@@ -1294,4 +1294,4 @@ Statutory interpretation and the scope of necessary findings may be resolved; th
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+

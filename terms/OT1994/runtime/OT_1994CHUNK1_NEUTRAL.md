@@ -55,7 +55,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Nash supplies the common-law conspiracy baseline; Felix is distinguished because it did not add an overt-act element to § 846.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 2. U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership
 
@@ -264,7 +264,7 @@ The packet supports deciding residual authority, voluntary-mootness vacatur, and
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 3. Hess v. Port Authority Trans-Hudson Corp.
 
@@ -318,7 +318,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Lake Country supplies the presumption and compact-structure inquiry; Mt. Healthy distinguishes a political subdivision from the State itself.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 4. United States v. X-Citement Video, Inc.
 
@@ -372,7 +372,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Morissette supplies the traditional mens rea presumption; Ferber and Smith identify the constitutional importance of scienter in this field.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 5. Church of Scientology Flag Service Organization, Inc. v. City of Clearwater +
 
@@ -449,7 +449,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Thomas v. Collins and Schaumburg v. Citizens for a Better Environment distinguish neutral identification and anti-fraud rules from burdens that materially suppress protected solicitation. Ballard prevents government from adjudicating religious truth while leaving ordinary fraud law available.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 6. Federal Election Commission v. NRA Political Victory Fund
 
@@ -509,7 +509,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Open Point:** Whether the ex officio officers possessed any legally operative authority beyond attendance and advice.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 7. Reich v. Collins
 
@@ -563,7 +563,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** McKesson requires a clear and certain remedy; Harper makes the governing federal rule applicable to cases still open on direct review.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 8. Brown v. Gardner
 
@@ -618,7 +618,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** King supports resolving interpretive doubt in favor of veterans; the text itself supplies the causal rule.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 9. Nebraska Department of Revenue v. Loewenstein
 
@@ -671,7 +671,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Rockford Life distinguishes taxation of federal obligations from taxation of separate private rights secured by them.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 10. In re Baby K +
 
@@ -732,7 +732,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 **Lower-court docket identifiers:** 93-1899, 93-1923, 93-1924 (court below only).
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 11. Plakas v. Drinski +
 
@@ -791,7 +791,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Without an underlying unconstitutional use of force, the asserted training or policy claim cannot support this judgment.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 12. Interstate Commerce Commission v. Transcon Lines
 
@@ -992,4 +992,4 @@ The legal bar to the Commission’s injunction can be decided. Particular debts 
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+

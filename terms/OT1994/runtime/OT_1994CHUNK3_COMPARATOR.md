@@ -6,7 +6,7 @@
 
 ## 25. O'Neal v. McAninch
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -23,7 +23,7 @@
 
 ## 26. United States v. National Treasury Employees Union
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -40,7 +40,7 @@
 
 ## 27. Harris v. Alabama
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -57,7 +57,7 @@
 
 ## 28. Jerome B. Grubart, Inc. v. Great Lakes Dredge & Dock Co. / City of Chicago v. Great Lakes Dredge & Dock Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -111,7 +111,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 29. Anderson v. Green
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -163,7 +163,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 30. Gustafson v. Alloyd Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -180,7 +180,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 31. Arizona v. Evans
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -197,7 +197,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 32. Swint v. Chambers County Commission
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -214,7 +214,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 33. Mastrobuono v. Shearson Lehman Hutton, Inc.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -231,7 +231,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 34. Curtiss-Wright Corp. v. Schoonejongen
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -282,7 +282,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 35. Shalala v. Guernsey Memorial Hospital
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -299,7 +299,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 36. Ambassador Books & Video, Inc. v. City of Little Rock +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 

@@ -1,6 +1,6 @@
 ## 22. Fargo Women’s Health Organization v. Schafer +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -30,4 +30,4 @@
 - **Boundary or Reserved Question:** Stone does not create immunity for negligent practice or permit invocation of an emergency unsupported by good-faith medical judgment.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+

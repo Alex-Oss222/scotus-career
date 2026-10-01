@@ -6,7 +6,7 @@
 
 ## 73. Metropolitan Washington Airports Authority v. Hechinger +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -23,7 +23,7 @@
 
 ## 74. Missouri v. Jenkins
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -40,7 +40,7 @@
 
 ## 75. Ryder v. United States
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -57,7 +57,7 @@
 
 ## 76. City of Milwaukee v. Cement Division, National Gypsum Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -109,7 +109,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 77. Adarand Constructors, Inc. v. Peña
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -126,7 +126,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 78. Wilton v. Seven Falls Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -178,7 +178,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 79. Metropolitan Stevedore Co. v. Rambo
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -230,7 +230,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 80. Johnson v. Jones
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -247,7 +247,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 81. Kimberlin v. Quinlan
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -299,7 +299,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 82. Commissioner v. Schleier
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -316,7 +316,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 83. Chandris, Inc. v. Latsis
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -371,7 +371,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 84. Witte v. United States
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 

@@ -57,7 +57,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Brecht supplies the substantial-and-injurious-effect standard; Kotteakos explains that grave doubt cannot support a finding of harmlessness.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 26. United States v. National Treasury Employees Union
 
@@ -110,7 +110,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Pickering supplies the balance; United States v. Treasury Employees is not used as entering law.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 27. Harris v. Alabama
 
@@ -167,7 +167,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Spaziano permits judicial sentencing; Furman and its progeny forbid arbitrary selection and supply the as-applied limit.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 28. Jerome B. Grubart, Inc. v. Great Lakes Dredge & Dock Co. / City of Chicago v. Great Lakes Dredge & Dock Co.
 
@@ -364,7 +364,7 @@ The Court may resolve the jurisdictional framework and its application at this s
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 29. Anderson v. Green
 
@@ -564,7 +564,7 @@ The threshold disposition may be prepared on the described absence of authorizat
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 30. Gustafson v. Alloyd Co.
 
@@ -618,7 +618,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Naftalin demonstrates that Congress used broader language when it intended a provision to reach beyond public offerings.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 31. Arizona v. Evans
 
@@ -678,7 +678,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Leon supplies the good-faith exception and its deterrence rationale; Stone declines to extend it beyond the record that justified it.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 32. Swint v. Chambers County Commission
 
@@ -731,7 +731,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Mitchell authorizes qualified-immunity appeals; Cohen and § 1291 do not create pendent review of separable nonfinal orders.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 33. Mastrobuono v. Shearson Lehman Hutton, Inc.
 
@@ -784,7 +784,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Volt requires enforcement according to contract; Mitsubishi recognizes arbitral authority to resolve statutory and remedial issues within consent.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 34. Curtiss-Wright Corp. v. Schoonejongen
 
@@ -1017,7 +1017,7 @@ The statutory question is decidable. Actual adoption and ratification belong on 
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 35. Shalala v. Guernsey Memorial Hospital
 
@@ -1073,7 +1073,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Chenery requires the agency’s own lawful rationale; ordinary interpretive-rule doctrine distinguishes explanation from legislative amendment.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 36. Ambassador Books & Video, Inc. v. City of Little Rock +
 
@@ -1144,4 +1144,4 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 **Neutral source:** [20 F.3d 858, 861–864 (8th Cir. 1994)](https://law.resource.org/pub/us/case/reporter/F3/020/20.F3d.858.93-1509.html), describing the bench trial and clear-error review.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+

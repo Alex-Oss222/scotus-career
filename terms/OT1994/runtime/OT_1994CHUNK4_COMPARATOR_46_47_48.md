@@ -2,7 +2,7 @@
 
 ## 46. Lanphere & Urbaniak v. Colorado +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -20,7 +20,7 @@
 
 ## 47. Celotex Corp. v. Edwards
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -38,7 +38,7 @@
 
 ## 48. McIntyre v. Ohio Elections Commission
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 

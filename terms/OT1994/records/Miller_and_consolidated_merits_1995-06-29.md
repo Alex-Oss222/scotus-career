@@ -27,7 +27,7 @@ The approved source position is preserved here for exact control (its preparatio
 
  Miller v. Johnson / Abrams v. Johnson / United States v. Johnson
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II: STONE POSITION SUPPLEMENT
 
@@ -170,7 +170,7 @@ An adjudicated school-segregation violation supplies a remedial predicate that v
 
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 
 

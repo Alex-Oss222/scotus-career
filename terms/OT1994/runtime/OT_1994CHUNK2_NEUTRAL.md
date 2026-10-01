@@ -55,7 +55,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** The Advisory Committee’s formulation and the prevailing common-law rule supply the temporal requirement.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 14. Young v. Northern Illinois Conference of United Methodist Church +
 
@@ -118,7 +118,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 **Lower-court docket identifiers:** 93-2157 (court below only).
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 15. Asgrow Seed Co. v. Winterboer
 
@@ -353,7 +353,7 @@ The statutory exemption may be construed. A judgment on an unresolved fact or da
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 16. United States v. Mezzanatto
 
@@ -406,7 +406,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Ricketts and Brady recognize enforceable criminal-procedure waivers when the choice is knowing and voluntary.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 17. American Airlines, Inc. v. Wolens
 
@@ -468,7 +468,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Morales is distinguished because voluntary contractual obligations are not state-imposed prescriptions.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 18. NationsBank of North Carolina, N.A. v. Variable Annuity Life Insurance Co. / Ludwig v. Variable Annuity Life Insurance Co.
 
@@ -525,7 +525,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Camp identifies the banking-risk concerns; Chevron is not used to surrender the judicial duty to fix the statutory boundary.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 19. Allied-Bruce Terminix Cos. v. Dobson
 
@@ -578,7 +578,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Southland confirms federal substantive enforceability; the phrase “involving commerce” and actual transaction facts determine coverage.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 20. Schlup v. Delo
 
@@ -636,7 +636,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Carrier supplies the miscarriage-of-justice gateway; Sawyer is limited to innocence of capital eligibility.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 21. McKennon v. Nashville Banner Publishing Co.
 
@@ -691,7 +691,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Mt. Healthy and Price Waterhouse inform causation and remedy without converting later-acquired facts into the actual motive.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 22. Fargo Women’s Health Organization v. Schafer +
 
@@ -748,7 +748,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 The enacted provisions and remaining pre-divergence authorities identified above apply only consistently with the operative simulated Casey or Shaw rule in the linked reading.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 23. Lebron v. National Railroad Passenger Corp.
 
@@ -803,7 +803,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Burton and Jackson supply attribution principles; neither makes funding or regulation alone sufficient.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 24. Milwaukee Brewery Workers' Pension Plan v. Jos. Schlitz Brewing Co.
 
@@ -857,4 +857,4 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** The statutory formula and ordinary amortization principles supply the rule; no broader ERISA presumption is needed.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+

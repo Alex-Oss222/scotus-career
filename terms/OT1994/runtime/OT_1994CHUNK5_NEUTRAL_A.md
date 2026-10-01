@@ -195,7 +195,7 @@ The original-order timeliness issue can be decided. Remaining immigration merits
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 50. Kyles v. Whitley
 
@@ -250,7 +250,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Bagley supplies the reasonable-probability standard; Giglio confirms that impeachment evidence is favorable evidence.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 51. Rubin v. Coors Brewing Co.
 
@@ -305,7 +305,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Central Hudson supplies the governing test; Posadas does not permit internal statutory contradictions to substitute for fit.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 52. California Department of Corrections v. Morales
 
@@ -358,5 +358,5 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Weaver and Collins focus on increased punishment rather than formal procedural labels.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 

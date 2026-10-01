@@ -23,7 +23,7 @@ Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, K
 
 The exact approved Section II is copied below without alteration. Stone reaches the admitted merits, reverses, and requires vacatur of the habeas relief while preserving the amended schedule and ordinary state review. His sufficient-risk rule, speculative-and-attenuated application, narrow-class and reasoned-finding constraints, retained power to advance hearings, and express reserved cases all remain in his public concurrence. He does not join a rationale omitting those essential grounds or become a fifth vote for the associates' distinct individualized-postponement test. He joins the judgment only; he neither adds an actual-release proof requirement nor overrules Cavanaugh. His legal construction of retained scheduling power is not an assertion of binding ordinary interim review. No standing fallback is used: the admitted component is expressly addressed, and the rejected collateral claims are outside present review.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -43,7 +43,7 @@ The exact approved Section II is copied below without alteration. Stone reaches 
 - **Boundary or Reserved Question:** A law that materially reduces parole eligibility, removes meaningful review, or predictably lengthens confinement on a demonstrated record may present a different case.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## Public action, judgment, and opinions
 

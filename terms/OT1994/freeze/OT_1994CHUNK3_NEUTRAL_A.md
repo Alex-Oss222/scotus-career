@@ -53,7 +53,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Brecht supplies the substantial-and-injurious-effect standard; Kotteakos explains that grave doubt cannot support a finding of harmlessness.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 
 ## 26. United States v. National Treasury Employees Union
@@ -107,7 +107,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Pickering supplies the balance; United States v. Treasury Employees is not used as entering law.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 
 ## 27. Harris v. Alabama
@@ -165,7 +165,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Spaziano permits judicial sentencing; Furman and its progeny forbid arbitrary selection and supply the as-applied limit.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 
 ## 28. Jerome B. Grubart, Inc. v. Great Lakes Dredge & Dock Co. / City of Chicago v. Great Lakes Dredge & Dock Co.
@@ -363,5 +363,5 @@ The Court may resolve the jurisdictional framework and its application at this s
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 

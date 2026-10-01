@@ -2,7 +2,7 @@
 
 ## 37. Director, Office of Workers’ Compensation Programs v. Newport News Shipbuilding & Dry Dock Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -55,7 +55,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 39. Swanner v. Anchorage Equal Rights Commission +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -73,7 +73,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 40. Qualitex Co. v. Jacobson Products Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -91,7 +91,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 41. Oklahoma Tax Commission v. Jefferson Lines, Inc.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 

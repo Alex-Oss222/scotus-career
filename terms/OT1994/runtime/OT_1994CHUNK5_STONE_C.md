@@ -2,7 +2,7 @@
 
 ## 57. United States v. Robertson
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -32,11 +32,11 @@ Where an enterprise itself is conducting interstate commercial operations, there
 - **Boundary or Reserved Question:** The Court does not decide whether a purely intrastate enterprise with only remote economic consequences would satisfy § 1962(a), and it does not permit a nominal jurisdictional phrase to replace proof of the enacted connection.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 58. United States v. Pinson +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -64,11 +64,11 @@ Where an enterprise itself is conducting interstate commercial operations, there
 - **Boundary or Reserved Question:** Stone does not hold that ordinary visual observation from a lawful vantage, smoke or other conditions perceptible to unaided members of the public, utility records obtained through lawful process, or every technological measurement made near private property constitutes a search. The holding concerns deliberate technological acquisition of otherwise unavailable information about activity inside a home. Stone also expresses no view on whether the warrant affidavit would establish probable cause without the thermal-scan information, whether any such question remains procedurally available after remand, whether suppression ultimately follows, or whether *United States v. Leon* applies. Those matters are not decided because the warrant-sufficiency issue was not preserved on appeal and was not determined by the Eighth Circuit.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 59. Kansas v. Colorado
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -196,11 +196,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 60. Hubbard v. United States
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -220,4 +220,4 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** The holding does not immunize falsehoods made to executive agencies merely because litigation is pending and does not affect statutes expressly covering court filings, sworn statements, bankruptcy fraud, obstruction, contempt, or perjury. Congress may expressly extend a false-statement offense to all three branches and define the procedural safeguards and exceptions appropriate to adversarial litigation.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+

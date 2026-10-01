@@ -2,7 +2,7 @@
 
 ## 37. Director, Office of Workers’ Compensation Programs v. Newport News Shipbuilding & Dry Dock Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -60,12 +60,12 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 
 ## 39. Swanner v. Anchorage Equal Rights Commission +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -95,12 +95,12 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** Nothing here decides regulation of religious teaching or advocacy, housing operated as part of a religious institution’s religious mission, owner-occupied arrangements implicating intimate association or privacy, or a statutory scheme that grants comparable secular exemptions while withholding a religious one.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 
 ## 40. Qualitex Co. v. Jacobson Products Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -120,5 +120,5 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** The holding does not protect color in the abstract, functional colors, or colors lacking secondary meaning, and it leaves ordinary likelihood-of-confusion proof intact.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 

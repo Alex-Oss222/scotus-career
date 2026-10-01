@@ -3680,8 +3680,8 @@ For Bray v. Alexandria Women’s Health Clinic, January 13, 1993, No. 90-985, co
 **Treatment of earlier authority:**
 
 - Youakim v. Miller,425 U.S.231 — applied: nonreview is ordinary practice, not an inflexible jurisdictional rule.
-- United States v. Williams,May 4,1992 — distinguished at its stated scope: a passed-upon question may be reviewed; Gloria’s personal claim was not passed upon.
-- Yee v. City of Escondido,April 1,1992 — applied: an unrelated sufficiency question does not enter the granted severance review.
+- United States v. Williams, May 4,1992 — distinguished at its stated scope: a passed-upon question may be reviewed; Gloria’s personal claim was not passed upon.
+- Yee v. City of Escondido, April 1,1992 — applied: an unrelated sufficiency question does not enter the granted severance review.
 
 **Limits and questions not reached:** Serious risk may arise from another defendant’s evidence, markedly different culpability in complex proof or unavailable exculpatory evidence; the examples are not exhaustive. A better chance of acquittal alone is insufficient. Rule 8 joinder and independent confrontation rights remain distinct; review of effective Rule 14 relief is for abuse of discretion. Gloria’s sufficiency and collateral questions are not reached.
 
@@ -6724,7 +6724,7 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 **Treatment of earlier authority:**
 
 - Lockett v. Ohio, 438 U.S. 586; Eddings v. Oklahoma, 455 U.S. 104; Penry v. Lynaugh, 492 U.S. 302: applied to preserve meaningful consideration of supported mitigation; they do not require this unsupported instruction.
-- Graham v. Collins,January 25, 1993: preserved in its actual controlling scope; supported youth/background culpability evidence must receive effect, without presuming a distinct mitigating fact.
+- Graham v. Collins, January 25, 1993: preserved in its actual controlling scope; supported youth/background culpability evidence must receive effect, without presuming a distinct mitigating fact.
 - Hopper v. Evans, 456 U.S. 605: applied by analogy for an evidentiary predicate, not for an obligation to submit unsupported alternatives.
 - Walton v. Arizona, 497 U.S. 639: applied to the permitted allocation of mitigation proof, subject to the State's undiminished aggravation burden; Missouri's lesser some-evidence requirement is all that is adjudicated here.
 
@@ -6738,7 +6738,7 @@ For the conditional-plea holding in *Doggett v. United States*, June 24, 1992, N
 
 - Taylor v. Kentucky, 436 U.S. 478: applied for the danger of a verdict based on extraneous considerations, while preserving its context-sensitive instruction rule.
 - Kentucky v. Whorton, 441 U.S. 786: applied for the totality-of-circumstances inquiry and rejection of an automatic instruction requirement.
-- Herrera v. Collins,January 25, 1993: not extended; its actual record-specific rejection of federal relief supplies no categorical rule extinguishing innocence protections for other purposes.
+- Herrera v. Collins, January 25, 1993: not extended; its actual record-specific rejection of federal relief supplies no categorical rule extinguishing innocence protections for other purposes.
 
 **Limits and questions not reached:** Silence does not prove a no-significant-history mitigating fact. No actual history is found from material the jury did not hear; youth is a different mitigating circumstance. The alternative innocence-instruction holding assumes the protection without deciding its existence or full scope. Strickland merits and the independently rejected defaulted counsel claim are not reopened.
 
@@ -13653,7 +13653,7 @@ For this case’s other questions, see *National Railroad Passenger Corp. v. Bos
 - Sears, Roebuck & Co. v. Mackey, 351 U.S. 427, and Cold Metal Process Co. v. United Engineering & Foundry Co., 351 U.S. 445: applied for Rule 54(b)'s separate-judgment authority and safeguards.
 - Curtiss-Wright Corp. v. General Electric Co., 446 U.S. 1: applied; actual or threatened insolvency is relevant, not an absolute bar, and protective conditions may address competing risks.
 - Crancer v. Lowden, 315 U.S. 631: distinguished; it sustained discretionary collection without an available judicial reparations counterclaim after the shippers chose the separate rail-agency route, rather than requiring collection in every case.
-- Keogh v. Chicago & Northwestern Railway, 260 U.S. 156; Arizona Grocery Co. v. Atchison,Topeka & Santa Fe Railway, 284 U.S. 370; Lowden v. Simonds-Shields-Lonsdale Grain Co., 306 U.S. 516: applied for the continuing force of filed rates not disapproved by the ICC.
+- Keogh v. Chicago & Northwestern Railway, 260 U.S. 156; Arizona Grocery Co. v. Atchison, Topeka & Santa Fe Railway, 284 U.S. 370; Lowden v. Simonds-Shields-Lonsdale Grain Co., 306 U.S. 516: applied for the continuing force of filed rates not disapproved by the ICC.
 
 **Limits and questions not reached:** Referral means allowing a party time to seek an ICC determination, not commanding the agency to answer. Negotiated rates do not supplant filed tariffs. Same-transaction recoupment fixes the estate’s proper claim rather than paying an unrelated preference. No rate, affirmative excess damages or separate-judgment outcome is decided.
 
@@ -18742,7 +18742,7 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 - Swift & Co. v. United States,196 U.S.375 — applied: dangerous probability requires proximity and degree beyond intent alone.
 - Copperweld Corp. v. Independence Tube Corp.,467 U.S.752 — applied: unilateral conduct must actually monopolize or dangerously threaten monopolization for these §2 offenses.
-- Eastman Kodak Co. v. Image Technical Services,June 8,1992 — preserved at its stated scope: evidence may establish a single-brand market and power; no presumption replaces separate attempt elements.
+- Eastman Kodak Co. v. Image Technical Services, June 8,1992 — preserved at its stated scope: evidence may establish a single-brand market and power; no presumption replaces separate attempt elements.
 - Lessig v. Tidewater Oil Co.,327 F.2d459 — rejected insofar as its conduct-based inference dispenses with market and dangerous-probability proof.
 
 ##### The undifferentiated verdict requires further proceedings
@@ -18754,7 +18754,7 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 **Treatment of earlier authority:**
 
 - Sunkist Growers, Inc. v. Winckler & Smith Citrus Products Co.,370 U.S.19 — applied: the possibility of reliance on a legally erroneous submitted ground requires reversal here.
-- Griffin v. United States,December 3,1991 — distinguished at its stated scope: its factual-insufficiency rule does not validate an element-removing instruction or decide the unreviewed civil claims.
+- Griffin v. United States, December 3,1991 — distinguished at its stated scope: its factual-insufficiency rule does not validate an element-removing instruction or decide the unreviewed civil claims.
 
 **Limits and questions not reached:** No market-share floor, small-firm immunity, general supply duty or automatic inference of market power from a proprietary product is adopted. Antitrust injury and other recovery elements remain necessary but are not separately decided. RICO, state claims and other parties’ judgments are not resolved.
 

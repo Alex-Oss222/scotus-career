@@ -2,7 +2,7 @@
 
 ## 25. O'Neal v. McAninch
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -22,12 +22,12 @@
 - **Boundary or Reserved Question:** The holding does not shift the burden on every habeas issue, alter Brecht’s substantive standard, or decide structural error.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 
 ## 26. United States v. National Treasury Employees Union
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -47,12 +47,12 @@
 - **Boundary or Reserved Question:** The Court does not invalidate restrictions on senior policymakers, compensation tied to official duties, misuse of nonpublic information, or genuine conflicts of interest.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 
 ## 27. Harris v. Alabama
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -72,12 +72,12 @@
 - **Boundary or Reserved Question:** Stone does not require every State to adopt the Florida Tedder rule, a fixed weight, or a universal written-reasons checklist. Judicial capital sentencing remains permissible when lawfully channeled and reviewable.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 
 ## 28. Jerome B. Grubart, Inc. v. Great Lakes Dredge & Dock Co. / City of Chicago v. Great Lakes Dredge & Dock Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -130,5 +130,5 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 

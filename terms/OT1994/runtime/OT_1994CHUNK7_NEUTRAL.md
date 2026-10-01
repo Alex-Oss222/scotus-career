@@ -67,7 +67,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** The unconstitutional control mechanism should be removed without invalidating otherwise lawful airport administration when the remaining Authority can continue operating consistently with the enacted transfer and compact structure.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 74. Missouri v. Jenkins
 
@@ -122,7 +122,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Milliken ties relief to the violation; simulated Freeman permits partial withdrawal only on its complete release showing; Dowell supplies the dissolution framework. The availability and limits of judicial assistance require separate procedural authority, including Ex parte Peterson and La Buy within their actual scope.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 75. Ryder v. United States
 
@@ -175,7 +175,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Buckley identifies the constitutional appointment routes. Glidden recognizes the entitlement of a timely challenger to adjudication by a tribunal possessing lawful authority.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 76. City of Milwaukee v. Cement Division, National Gypsum Co.
 
@@ -372,7 +372,7 @@ The legality of the asserted exceptions can be decided without independently cal
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 77. Adarand Constructors, Inc. v. Peña
 
@@ -432,7 +432,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 **Predecision record source:** [Adarand Constructors, Inc. v. Peña, 16 F.3d 1537, 1544 (10th Cir. 1994)](https://law.justia.com/cases/federal/appellate-courts/F3/16/1537/492197/), including the statutory and evidentiary concessions.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 78. Wilton v. Seven Falls Co.
 
@@ -627,7 +627,7 @@ The declaration-only stay may be evaluated. Any claimed additional coercive caus
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 79. Metropolitan Stevedore Co. v. Rambo
 
@@ -827,7 +827,7 @@ The legal modification question can be decided; all actual compensation conseque
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 80. Johnson v. Jones
 
@@ -881,7 +881,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Mitchell authorizes only the separable legal immunity question; Cohen requires effective unreviewability and separability.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 81. Kimberlin v. Quinlan
 
@@ -1130,7 +1130,7 @@ Complete proposed legal positions are supplied for the admitted pure-law controv
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 82. Commissioner v. Schleier
 
@@ -1184,7 +1184,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Burke addresses tort-type rights; the statutory causal requirement independently determines whether the particular damages are excluded.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 83. Chandris, Inc. v. Latsis
 
@@ -1418,7 +1418,7 @@ The lawful instruction and new-trial consequence may be decided; ultimate statut
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 84. Witte v. United States
 
@@ -1655,4 +1655,4 @@ The prosecution bar may be decided; a future sentencing dispute requires its own
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+

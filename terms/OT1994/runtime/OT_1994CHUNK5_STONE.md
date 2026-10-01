@@ -6,7 +6,7 @@
 
 ## 49. Stone v. Immigration and Naturalization Service
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -59,11 +59,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 50. Kyles v. Whitley
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -83,11 +83,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** The holding does not require open-file discovery, excuse defense lack of diligence concerning known evidence, or treat every nondisclosure as structural error.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 51. Rubin v. Coors Brewing Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -107,11 +107,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** The holding protects truthful, nonmisleading information about lawful products; false or deceptive strength claims and direct regulation of alcohol content remain available.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 52. California Department of Corrections v. Morales
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -165,11 +165,11 @@ On the supplied record, California has not established an adequate substitute. T
 - **The evidentiary allocation is a proposed clarification:** Pre-1995 precedent did not establish a general presumption shifting the ultimate burden of an ex post facto claim to the State. This formulation instead requires substantiation of the State’s asserted safeguard after the prisoner demonstrates the withdrawal of a meaningful release opportunity. The historical *Morales* majority’s contrary discussion in footnote 6 identifies the objection this distinction addresses; that same-day historical opinion supplies comparison material, not entering simulated law. [Historical discussion](https://www.law.cornell.edu/supct/html/93-1462.ZO.html)
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 53. United States v. Williams
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -189,11 +189,11 @@ On the supplied record, California has not established an adequate substitute. T
 - **Boundary or Reserved Question:** The holding is limited to a compelled payment tied to the claimant’s property and does not authorize refund suits by volunteers or strangers lacking a concrete collection injury.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 54. United States v. Lopez
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -223,11 +223,11 @@ The defect is not merely the label “noneconomic.” Stone does not adopt a cat
 This reasoning and disposition belong to the Commerce Clause and Federalism build. They establish no Second Amendment rule and classify no firearm as protected or unprotected. Enumerated federal authority and an individual-rights restriction are distinct inquiries; ordinary state police authority likewise does not decide compliance with an independently applicable right. The Elections Clause and Reconstruction Amendments retain their own texts and standards. No future case, amended statute or later jurisdictional formulation is decided here.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 55. New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co. / Pataki v. Travelers Insurance Co. / Hospital Association of New York State v. Travelers Insurance Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -247,11 +247,11 @@ This reasoning and disposition belong to the Commerce Clause and Federalism buil
 - **Boundary or Reserved Question:** The holding does not protect state laws that mandate plan benefits, refer specifically to ERISA plans, interfere with uniform administration, or create alternative enforcement remedies.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 56. United States v. Harris +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -297,11 +297,11 @@ This is the first major test of whether Lopez means federal criminal statutes no
 - **Boundary or Reserved Question:** Stone does not decide whether a different charging pair lacking clear cumulative authorization would survive.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 57. United States v. Robertson
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -331,11 +331,11 @@ Where an enterprise itself is conducting interstate commercial operations, there
 - **Boundary or Reserved Question:** The Court does not decide whether a purely intrastate enterprise with only remote economic consequences would satisfy § 1962(a), and it does not permit a nominal jurisdictional phrase to replace proof of the enacted connection.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 58. United States v. Pinson +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -363,11 +363,11 @@ Where an enterprise itself is conducting interstate commercial operations, there
 - **Boundary or Reserved Question:** Stone does not hold that ordinary visual observation from a lawful vantage, smoke or other conditions perceptible to unaided members of the public, utility records obtained through lawful process, or every technological measurement made near private property constitutes a search. The holding concerns deliberate technological acquisition of otherwise unavailable information about activity inside a home. Stone also expresses no view on whether the warrant affidavit would establish probable cause without the thermal-scan information, whether any such question remains procedurally available after remand, whether suppression ultimately follows, or whether *United States v. Leon* applies. Those matters are not decided because the warrant-sufficiency issue was not preserved on appeal and was not determined by the Eighth Circuit.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 59. Kansas v. Colorado
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -495,11 +495,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 60. Hubbard v. United States
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -519,4 +519,4 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** The holding does not immunize falsehoods made to executive agencies merely because litigation is pending and does not affect statutes expressly covering court filings, sworn statements, bankruptcy fraud, obstruction, contempt, or perjury. Congress may expressly extend a false-statement offense to all three branches and define the procedural safeguards and exceptions appropriate to adversarial litigation.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+

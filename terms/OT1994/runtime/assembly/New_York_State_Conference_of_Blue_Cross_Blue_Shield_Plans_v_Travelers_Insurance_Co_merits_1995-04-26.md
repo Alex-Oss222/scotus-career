@@ -49,7 +49,7 @@ The prior uncommitted Travelers assembly is discarded. Final compatibility is re
 
 His express remedy dissolves the surcharge injunction to the extent based on ERISA, and permits remaining state and federal claims to proceed. The new associate handoff supplies that same operative result: reversal removes the decided insurer/HMO ERISA basis; express vacatur removes any reviewed direct-self-funded adjudication and its associated ERISA surcharge protection, while leaving the independently presented direct-plan claim open on remand. The distinction between reversing decided components and vacating an unresolved component implements, rather than narrows, his dissolution/remand instruction. It supplies no surviving final ERISA injunction on the reserved application and does not decide the remaining claim against him. His express remaining-claims language supports that nonreach; no standing fallback is used. Independent FEHBA and stop-loss grounds are preserved because his instruction reaches only the surcharge injunction to the extent based on ERISA, not every distinct order arising in the litigation. No new interim protection, payment, escrow, reimbursement or timing command is attributed to him. No substantive Stone choice is changed or supplied; he joins Souter’s complete opinion and all judgment components.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -69,7 +69,7 @@ His express remedy dissolves the surcharge injunction to the extent based on ERI
 - **Boundary or Reserved Question:** The holding does not protect state laws that mandate plan benefits, refer specifically to ERISA plans, interfere with uniform administration, or create alternative enforcement remedies.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## Public action, judgment, and opinions
 

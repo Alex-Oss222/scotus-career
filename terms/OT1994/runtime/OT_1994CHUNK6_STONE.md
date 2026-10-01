@@ -6,7 +6,7 @@
 
 ## 61. City of Edmonds v. Oxford House, Inc.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -34,11 +34,11 @@ Apply the statutory distinction between crowding limits and rules governing who 
 - **Boundary or Reserved Question:** The holding does not invalidate single-family zoning, decide liability, or prevent genuine health-and-safety occupancy limits applied evenhandedly.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 62. Reynoldsville Casket Co. v. Hyde
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -60,11 +60,11 @@ Apply the statutory distinction between crowding limits and rules governing who 
 - **Boundary or Reserved Question:** The holding leaves ordinary res judicata, statutes of repose, waiver, harmless error, and other independently valid remedial rules intact.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 63. Day v. Holahan +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -159,11 +159,11 @@ Government may regulate the pathways by which money becomes candidate dependence
 **Judgment:** The judgment of the Court of Appeals is affirmed. The responsive-financing provision and its specially linked reporting requirement remain unenforceable; the $100 political-committee contribution ceiling remains invalid; and MCCL is entitled to as-applied protection from the challenged nonprofit restriction. The Court does not disturb ordinary disclosure requirements, reasonable political-committee contribution limits addressing corruption or circumvention, voluntary public financing, or the continued application of *Austin* outside the *MCFL*-type nonprofit context.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 64. U.S. Term Limits, Inc. v. Thornton / Bryant v. Hill
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -191,11 +191,11 @@ States cannot add qualifications for federal legislative office indirectly throu
 - **Boundary or Reserved Question:** The holding leaves intact genuine time, place, and manner rules, petition requirements, filing deadlines, and neutral ballot-administration measures that do not add substantive qualifications.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 65. Wilson v. Arkansas
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -215,11 +215,11 @@ States cannot add qualifications for federal legislative office indirectly throu
 - **Boundary or Reserved Question:** Stone reserves the exact quantum of suspicion for exceptions, rejects no offense-wide exception on this record, and does not decide whether suppression is required for every violation.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 66. First Options of Chicago, Inc. v. Kaplan
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -241,11 +241,11 @@ States cannot add qualifications for federal legislative office indirectly throu
 - **Boundary or Reserved Question:** The holding leaves broad delegation clauses, incorporated rules that clearly assign arbitrability, and deference to merits awards within an established arbitration agreement for future cases.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 67. Kelley v. Board of Trustees of the University of Illinois +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -281,11 +281,11 @@ Title IX permits institutions to address unequal athletic opportunity in an over
 - **Boundary or Reserved Question:** The principle is symmetrical and applies to whichever sex is demonstrably underrepresented. This case does not decide classifications based on sexual orientation, gender identity, transgender status, or an individual’s eligibility for a sex-designated team.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 68. Nebraska v. Wyoming
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -401,11 +401,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 69. North Star Steel Co. v. Thomas / Crown Cork & Seal Co., Inc. v. United Steelworkers of America, AFL-CIO-CLC
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -463,11 +463,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 70. Garlotte v. Fordice
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -487,11 +487,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** The holding does not revive challenges after the petitioner has fully completed all custody and suffers only collateral consequences not otherwise sufficient under governing law.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 71. United States v. Wellons +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -527,11 +527,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** Stone reserves every warrant-exception and good-faith question not necessarily decided by the rejection of the Fourth Circuit’s categorical privacy rule.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 72. Reno v. Koray
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -584,4 +584,4 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+

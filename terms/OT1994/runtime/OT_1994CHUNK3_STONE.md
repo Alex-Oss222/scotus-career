@@ -6,7 +6,7 @@
 
 ## 25. O'Neal v. McAninch
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -31,11 +31,11 @@
 - **Fallback:** No use of the standing component-silence fallback is required for the admitted harmlessness and remand issue.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 26. United States v. National Treasury Employees Union
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -55,11 +55,11 @@
 - **Boundary or Reserved Question:** The Court does not invalidate restrictions on senior policymakers, compensation tied to official duties, misuse of nonpublic information, or genuine conflicts of interest.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 27. Harris v. Alabama
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -79,11 +79,11 @@
 - **Boundary or Reserved Question:** Stone does not require every State to adopt the Florida Tedder rule, a fixed weight, or a universal written-reasons checklist. Judicial capital sentencing remains permissible when lawfully channeled and reviewable.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 28. Jerome B. Grubart, Inc. v. Great Lakes Dredge & Dock Co. / City of Chicago v. Great Lakes Dredge & Dock Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -136,11 +136,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 29. Anderson v. Green
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -195,11 +195,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 30. Gustafson v. Alloyd Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -219,11 +219,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** The holding does not restrict § 17(a), § 10(b), common-law fraud, contract remedies, or another statutory provision whose text reaches private transactions. It does not decide whether a standardized offering to multiple institutional investors qualifies.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 31. Arizona v. Evans
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -251,11 +251,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** Stone reserves a case involving a proven isolated clerical mistake in a demonstrably reliable system and does not create a multi-part database-safeguards test.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 32. Swint v. Chambers County Commission
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -275,11 +275,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** The Court leaves mandamus, § 1292(b), and truly inextricable issues available under their own requirements.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 33. Mastrobuono v. Shearson Lehman Hutton, Inc.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -301,11 +301,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** The holding does not authorize punitive damages where the agreement expressly excludes them or where governing substantive law forbids the remedy altogether.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 34. Curtiss-Wright Corp. v. Schoonejongen
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -370,11 +370,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 35. Shalala v. Guernsey Memorial Hospital
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -394,11 +394,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** The Court does not authorize agencies to use manuals to impose duties outside enacted statutes or regulations, or to evade notice and comment when an instrument changes binding substantive law.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 36. Ambassador Books & Video, Inc. v. City of Little Rock +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -434,4 +434,4 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** Stone does not approve a law using a land-use label to impose punishment for protected expression or past conduct.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+

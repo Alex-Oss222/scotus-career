@@ -2,7 +2,7 @@
 
 ## 29. Anderson v. Green
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -57,12 +57,12 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 
 ## 30. Gustafson v. Alloyd Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -82,12 +82,12 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** The holding does not restrict § 17(a), § 10(b), common-law fraud, contract remedies, or another statutory provision whose text reaches private transactions. It does not decide whether a standardized offering to multiple institutional investors qualifies.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 
 ## 31. Arizona v. Evans
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -115,12 +115,12 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** Stone reserves a case involving a proven isolated clerical mistake in a demonstrably reliable system and does not create a multi-part database-safeguards test.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 
 ## 32. Swint v. Chambers County Commission
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -140,5 +140,5 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** The Court leaves mandamus, § 1292(b), and truly inextricable issues available under their own requirements.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 

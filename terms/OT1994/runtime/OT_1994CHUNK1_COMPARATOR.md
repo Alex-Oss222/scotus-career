@@ -6,7 +6,7 @@
 
 ## 1. United States v. Shabani
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -23,7 +23,7 @@
 
 ## 2. U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -75,7 +75,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 3. Hess v. Port Authority Trans-Hudson Corp.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -92,7 +92,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 4. United States v. X-Citement Video, Inc.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -109,7 +109,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 5. Church of Scientology Flag Service Organization, Inc. v. City of Clearwater +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -126,7 +126,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 6. Federal Election Commission v. NRA Political Victory Fund
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -143,7 +143,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 7. Reich v. Collins
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -160,7 +160,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 8. Brown v. Gardner
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -177,7 +177,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 9. Nebraska Department of Revenue v. Loewenstein
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -194,7 +194,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 10. In re Baby K +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -211,7 +211,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 11. Plakas v. Drinski +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -228,7 +228,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 12. Interstate Commerce Commission v. Transcon Lines
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 

@@ -53,5 +53,5 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Weaver and Collins focus on increased punishment rather than formal procedural labels.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 

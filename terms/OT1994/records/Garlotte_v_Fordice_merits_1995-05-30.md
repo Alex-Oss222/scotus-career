@@ -27,7 +27,7 @@ The authoritative approved supplement is reproduced without alteration below for
 
 ## 70. Garlotte v. Fordice
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -47,7 +47,7 @@ The authoritative approved supplement is reproduced without alteration below for
 - **Boundary or Reserved Question:** The holding does not revive challenges after the petitioner has fully completed all custody and suffers only collateral consequences not otherwise sufficient under governing law.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## Assignment, final joins and judgment
 

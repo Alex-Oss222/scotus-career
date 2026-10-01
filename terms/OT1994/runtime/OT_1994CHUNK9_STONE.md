@@ -6,7 +6,7 @@
 
 ## 97. Miller v. Johnson / Abrams v. Johnson / United States v. Johnson
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II: STONE POSITION SUPPLEMENT
 
@@ -149,11 +149,11 @@ An adjudicated school-segregation violation supplies a remedial predicate that v
 
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 98. Capitol Square Review and Advisory Board v. Pinette
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -175,11 +175,11 @@ An adjudicated school-segregation violation supplies a remedial predicate that v
 - **Boundary or Reserved Question:** The holding does not approve government-sponsored religious displays, selective religious favoritism, captive-audience worship, or a forum whose context genuinely attributes the message to the State.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 99. Chabad-Lubavitch of Georgia v. Miller +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -209,4 +209,4 @@ An adjudicated school-segregation violation supplies a remedial predicate that v
 - **Boundary or Reserved Question:** Stone reserves a display selected, designed, financed, controlled, or presented by the State as its own, a forum whose asserted openness is pretextual, or circumstances in which government obscures private sponsorship and affirmatively adopts the religious message.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+

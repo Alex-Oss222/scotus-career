@@ -2,7 +2,7 @@
 
 ## 1. United States v. Shabani
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -19,7 +19,7 @@
 
 ## 2. U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -71,7 +71,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 3. Hess v. Port Authority Trans-Hudson Corp.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -88,7 +88,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 4. United States v. X-Citement Video, Inc.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 

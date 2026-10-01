@@ -6,7 +6,7 @@
 
 ## 13. Tome v. United States
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -26,11 +26,11 @@
 - **Boundary or Reserved Question:** The Court does not decide admissibility under Rule 803(24), another hearsay exception, or a nonhearsay use accompanied by a proper limiting instruction.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 14. Young v. Northern Illinois Conference of United Methodist Church +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -60,11 +60,11 @@
 - **Boundary or Reserved Question:** Stone does not decide the treatment of a claim that is wholly insubstantial or pleaded solely to manufacture federal jurisdiction.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 15. Asgrow Seed Co. v. Winterboer
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -129,11 +129,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 16. United States v. Mezzanatto
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -153,11 +153,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** Stone does not approve case-in-chief use, sentencing use, or a waiver that effectively eliminates the right to trial. Defense counsel’s cross-examination, introduction of independent evidence, or argument of an alternative theory does not ordinarily trigger this personal-testimony waiver. A broader trigger would require a separate, explicit agreement and a distinct validity analysis not presented here. Existing rule-based exceptions for perjury, false statements, and comparable abuse remain intact.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 17. American Airlines, Inc. v. Wolens
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -193,11 +193,11 @@ Illinois cannot use general consumer law to impose its own substantive regulatio
 - **Boundary or Reserved Question:** Good-faith or implied-term doctrines may operate only as ordinary tools for identifying the agreement, not as vehicles for reintroducing state rate regulation.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 18. NationsBank of North Carolina, N.A. v. Variable Annuity Life Insurance Co. / Ludwig v. Variable Annuity Life Insurance Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -217,11 +217,11 @@ Illinois cannot use general consumer law to impose its own substantive regulatio
 - **Boundary or Reserved Question:** The holding does not authorize national banks to underwrite insurance generally or displace state regulation preserved by federal law.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 19. Allied-Bruce Terminix Cos. v. Dobson
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -241,11 +241,11 @@ Illinois cannot use general consumer law to impose its own substantive regulatio
 - **Boundary or Reserved Question:** Congress’s choice to reach its full commerce authority answers statutory breadth, not the outer constitutional boundary. Stone does not hold that remote interstate history alone federalizes an otherwise local transaction. United States v. Lopez remains to define the constitutional ceiling.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 20. Schlup v. Delo
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -265,11 +265,11 @@ Illinois cannot use general consumer law to impose its own substantive regulatio
 - **Boundary or Reserved Question:** The holding creates no freestanding constitutional innocence claim, shifts the ultimate burden on the underlying constitutional claims, or decides Schlup’s guilt. It also leaves Sawyer’s clear-and-convincing threshold in its distinct death-eligibility setting.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 21. McKennon v. Nashville Banner Publishing Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -297,11 +297,11 @@ Separate the original discrimination from the counterfactual remedial loss. Back
 - **Boundary or Reserved Question:** The employer bears the burden to prove that the misconduct was serious and that it would in fact have terminated the employee; minor or pretextual grounds do not shorten relief.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 22. Fargo Women’s Health Organization v. Schafer +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -331,11 +331,11 @@ Separate the original discrimination from the counterfactual remedial loss. Back
 - **Boundary or Reserved Question:** Stone does not create immunity for negligent practice or permit invocation of an emergency unsupported by good-faith medical judgment.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 23. Lebron v. National Railroad Passenger Corp.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -363,11 +363,11 @@ Government cannot escape constitutional obligations merely by choosing a corpora
 - **Boundary or Reserved Question:** The holding does not convert federally chartered, subsidized, or heavily regulated private corporations into state actors without comparable governmental creation and control.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 24. Milwaukee Brewery Workers' Pension Plan v. Jos. Schlitz Brewing Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -387,4 +387,4 @@ Government cannot escape constitutional obligations merely by choosing a corpora
 - **Boundary or Reserved Question:** The holding concerns the statutory calculation method and does not alter separate rules governing delinquency, assessment, or actual payment dates.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+

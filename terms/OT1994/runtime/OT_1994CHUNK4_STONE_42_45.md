@@ -6,7 +6,7 @@
 
 ## 42. Plaut v. Spendthrift Farm, Inc.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -34,11 +34,11 @@ Congress can change prospective law and sometimes govern pending cases. Simulate
 - **Boundary or Reserved Question:** The holding does not bar prospective legislation, new law governing nonfinal cases, lawful alteration of continuing equitable relief, waiver of a federal claim or defense, or generally applicable judicial reopening rules administered by courts consistently with Article III.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 43. Shalala v. Whitecotton
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -103,11 +103,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 44. Freightliner Corp. v. Myrick
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -135,11 +135,11 @@ Federal silence is not automatically a federal policy against regulation. To pre
 - **Boundary or Reserved Question:** A valid federal standard or an affirmative federal policy requiring a uniform no-regulation result could present a different conflict.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 45. Heintz v. Jenkins
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -159,5 +159,5 @@ Federal silence is not automatically a federal policy against regulation. To pre
 - **Boundary or Reserved Question:** The holding does not apply the Act to lawyers who do not regularly collect debts and does not decide whether the particular settlement letter violated the statute.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 

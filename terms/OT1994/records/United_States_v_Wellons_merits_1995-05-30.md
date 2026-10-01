@@ -27,7 +27,7 @@ The authoritative approved supplement is reproduced without alteration below for
 
 ## 71. United States v. Wellons +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -63,7 +63,7 @@ The authoritative approved supplement is reproduced without alteration below for
 - **Boundary or Reserved Question:** Stone reserves every warrant-exception and good-faith question not necessarily decided by the rejection of the Fourth Circuit’s categorical privacy rule.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## Assignment, final joins and judgment
 

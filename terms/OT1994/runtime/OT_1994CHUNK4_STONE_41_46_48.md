@@ -6,7 +6,7 @@
 
 ## 41. Oklahoma Tax Commission v. Jefferson Lines, Inc.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -34,11 +34,11 @@ The taxable event is the local sale of the ticket, not every mile of the interst
 - **Boundary or Reserved Question:** The holding does not authorize multiple taxation of interstate receipts, origin-based discrimination, or taxes failing external or internal consistency.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 46. Lanphere & Urbaniak v. Colorado +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -66,11 +66,11 @@ The taxable event is the local sale of the ticket, not every mile of the interst
 - **Boundary or Reserved Question:** The holding does not require disclosure of confidential records, prevent neutral limits on access, or protect false, deceptive, coercive, or harassing solicitation.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 48. McIntyre v. Ohio Elections Commission
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -98,4 +98,4 @@ Broad identification mandates require a justification fitted to the regulated sp
 - **Boundary or Reserved Question:** The holding does not invalidate source disclosure for candidates, committees, coordinated spending, large financial contributions, or fraudulent impersonation under appropriately tailored rules.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+

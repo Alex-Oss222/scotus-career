@@ -2,7 +2,7 @@
 
 ## 49. Stone v. Immigration and Naturalization Service
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -54,7 +54,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 50. Kyles v. Whitley
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -71,7 +71,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 51. Rubin v. Coors Brewing Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -88,7 +88,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 52. California Department of Corrections v. Morales
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 

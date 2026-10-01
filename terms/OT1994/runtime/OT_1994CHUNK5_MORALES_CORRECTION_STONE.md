@@ -1,6 +1,6 @@
 ## 52. California Department of Corrections v. Morales
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -54,5 +54,5 @@ On the supplied record, California has not established an adequate substitute. T
 - **The evidentiary allocation is a proposed clarification:** Pre-1995 precedent did not establish a general presumption shifting the ultimate burden of an ex post facto claim to the State. This formulation instead requires substantiation of the State’s asserted safeguard after the prisoner demonstrates the withdrawal of a meaningful release opportunity. The historical *Morales* majority’s contrary discussion in footnote 6 identifies the objection this distinction addresses; that same-day historical opinion supplies comparison material, not entering simulated law. [Historical discussion](https://www.law.cornell.edu/supct/html/93-1462.ZO.html)
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 

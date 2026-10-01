@@ -25,7 +25,7 @@ Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, K
 
 Stone votes to reverse the original-order dismissal and remand, joining Breyer’s dissent in full. Its incorporated finality rule, Ibarra and Darby explanation, post-petition function for mandatory consolidation, timely-review remedy, and exclusions match every approved proposition. The contrary five-Justice judgment does not alter his position. He grants no stay, immigration relief, equitable extension, or late-motion revival. The separate denial of reconsideration lies outside the admitted question and is expressly not reached by his approved core; leaving it undisturbed is no new merits disposition and uses no fallback. No clerical or substantive change to Section II is made.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -78,7 +78,7 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## Public action, judgment, and opinions
 

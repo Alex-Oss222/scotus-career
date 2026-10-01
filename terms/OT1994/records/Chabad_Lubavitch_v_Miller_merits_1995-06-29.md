@@ -29,7 +29,7 @@ The approved text below remains unchanged. Its reference to private financing is
 
  Chabad-Lubavitch of Georgia v. Miller +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -59,7 +59,7 @@ The approved text below remains unchanged. Its reference to private financing is
 - **Boundary or Reserved Question:** Stone reserves a display selected, designed, financed, controlled, or presented by the State as its own, a forum whose asserted openness is pretextual, or circumstances in which government obscures private sponsorship and affirmatively adopts the religious message.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 
 ## Judgment and remedy

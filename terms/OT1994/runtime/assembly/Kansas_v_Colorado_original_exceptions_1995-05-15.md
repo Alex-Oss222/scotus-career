@@ -41,7 +41,7 @@ Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, K
 
 The approved Section II is copied exactly below. Its judgment, all seven issue positions, three unexcepted recommendations, proof reservation and remedy fit the final reconciled commitments without substantive change. Stone joins the Court’s complete opinion and remedy; none of his express exclusions is replaced by fallback. The required Trinidad material-depletion comparison, WWSP failure under preponderance, record-fitted accounting, diligence-only laches ground, actual-use baseline, separate-bargain credit rejection and pumping sufficiency under clear and convincing proof all remain. Exact factual detail describes the already approved grounds, rather than introducing new doctrine. The current-law refresh through Pinson changes no operative premise. Stone’s original-action remedy is recommittal, not final relief or closure. No unaddressed claim, count or docket component requires the standing fallback.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -169,7 +169,7 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## Public action, judgment, and opinions
 

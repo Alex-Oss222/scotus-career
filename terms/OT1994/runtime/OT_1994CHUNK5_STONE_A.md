@@ -2,7 +2,7 @@
 
 ## 49. Stone v. Immigration and Naturalization Service
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -55,11 +55,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 50. Kyles v. Whitley
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -79,11 +79,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** The holding does not require open-file discovery, excuse defense lack of diligence concerning known evidence, or treat every nondisclosure as structural error.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 51. Rubin v. Coors Brewing Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -103,11 +103,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** The holding protects truthful, nonmisleading information about lawful products; false or deceptive strength claims and direct regulation of alcohol content remain available.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 52. California Department of Corrections v. Morales
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -127,5 +127,5 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** A law that materially reduces parole eligibility, removes meaningful review, or predictably lengthens confinement on a demonstrated record may present a different case.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 

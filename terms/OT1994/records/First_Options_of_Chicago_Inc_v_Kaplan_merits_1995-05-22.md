@@ -1,5 +1,5 @@
 **Case and dockets:** First Options of Chicago, Inc. v. Kaplan; No. 94-560.
-**Event and date:** Merits decision; 1995-05-22; OT1994,chunk6.
+**Event and date:** Merits decision; 1995-05-22; OT1994, chunk 6.
 **Result:** AFFIRMED,9-0 on both arbitrability and appellate-review components.
 **Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction. Close-audit correction 2026-09-30 (F08): historical-departure label for Stone’s reserved rationale join; replaces the prior wording in place without a new adjudication.
 
@@ -17,7 +17,7 @@ Verbatim scoped approved supplement follows; preparation-era claim no OT1994 Rec
 
 ## 66. First Options of Chicago, Inc. v. Kaplan
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -39,7 +39,7 @@ Verbatim scoped approved supplement follows; preparation-era claim no OT1994 Rec
 - **Boundary or Reserved Question:** The holding leaves broad delegation clauses, incorporated rules that clearly assign arbitrability, and deference to merits awards within an established arbitration agreement for future cases.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 
 

@@ -6,7 +6,7 @@
 
 ## 85. Gutierrez de Martinez v. Lamagno
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -26,11 +26,11 @@
 - **Boundary or Reserved Question:** The holding does not decide the correct scope determination, waive federal immunity, or create a cause of action against the United States.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 86. Oklahoma Tax Commission v. Chickasaw Nation
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -58,11 +58,11 @@
 - **Boundary or Reserved Question:** The holding does not decide nonmember employees, income from nontribal sources, or a federal statute expressly altering state authority.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 87. Sandin v. Conner
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -82,11 +82,11 @@
 - **Boundary or Reserved Question:** The holding does not constitutionalize every prison regulation, routine transfer, brief inconvenience, or discretionary management choice. Security and institutional judgment remain entitled to the weight the native due-process analysis permits.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 88. United States v. Gaudin
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -108,11 +108,11 @@
 - **Boundary or Reserved Question:** The holding does not require juries to decide abstract statutory meaning or other pure questions of law; it concerns the application of the legal materiality standard to the charged facts.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 89. Vimar Seguros y Reaseguros, S.A. v. M/V Sky Reefer
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -179,11 +179,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 90. Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -211,11 +211,11 @@ A parade is expression even without a single narrow message or rigorous editoria
 - **Boundary or Reserved Question:** The holding does not invalidate public-accommodations laws generally, authorize exclusion from ordinary nonexpressive goods and services, or make customer identity itself a message.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 91. National Private Truck Council, Inc. v. Oklahoma Tax Commission
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -282,11 +282,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 **No drafting discretion beyond ordinary non-substantive formulation.** The judgment, threshold route, operative holding, burden allocation, reservations, and remedial limits may not be changed during assembly. No conditional fallback or certiorari vote has been approved.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 92. United States v. Aguilar
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -316,11 +316,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** The Government must still prove the defendant’s knowledge and specific obstructive purpose; ordinary disclosure unrelated to an interception is not covered.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 93. Florida Bar v. Went For It, Inc.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -342,11 +342,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** Stone does not invalidate supported restrictions on in-person solicitation, deception, coercion, repeated unwanted contact, confidential-record misuse, or narrowly tailored disclosure requirements. A materially different record showing concrete harm and fit remains open.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 94. Vernonia School District 47J v. Acton
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -366,11 +366,11 @@ These are approved Stone character inputs. They do not state or predetermine the
 - **Boundary or Reserved Question:** Stone does not bar testing based on individualized reasonable suspicion, testing after a specific safety incident, ordinary physical examinations directed to athletic fitness, or a materially narrower safety-sensitive program supported by evidence that individualized methods cannot address the risk. He does not authorize law-enforcement use or testing for unrelated medical information.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 95. Rosenberger v. Rector and Visitors of the University of Virginia
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -396,11 +396,11 @@ The independent character of the publication and the limits on the printing bene
 Stone reaches the Free Speech and Establishment Clause questions concerning this printing program. Recognition, meeting space, distribution and funding remain distinct benefits requiring analysis of their own operation; the older categorical conclusion that this particular payment may be denied as financing religious exercise is not the selected position. Other eligibility disputes and any relief beyond removing the viewpoint exclusion retain their ordinary procedural predicates. Earlier simulated religion holdings control within their actual scope; no other Justice's vote is supplied.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## 96. Babbitt v. Sweet Home Chapter of Communities for a Great Oregon
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -420,4 +420,4 @@ Stone reaches the Free Speech and Establishment Clause questions concerning this
 - **Boundary or Reserved Question:** The holding does not reach habitat modification causing no actual injury, eliminate ordinary causation, or authorize regulation outside the ESA’s statutory species and permit structure.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+

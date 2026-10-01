@@ -84,7 +84,7 @@ A merits conclusion that the challenged theories fail would affirm the judgment 
 - **Preparation status:** Approved substantive position for all six questions on the reconstructed judgment and findings. Before adjudication, validate the review channel and Article III predicates just identified and refresh actual earlier effective OT1994 law. The underlying exhibits and reconstructed jurisdictional papers have not been independently supplied. No Court vote, coalition, opinion assignment, or controlling decision is created here.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 98. Capitol Square Review and Advisory Board v. Pinette
 
@@ -142,7 +142,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Lamb’s Chapel and Widmar protect religious viewpoints in neutral forums; Allegheny supplies contextual attribution for government-linked displays.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 99. Chabad-Lubavitch of Georgia v. Miller +
 
@@ -205,4 +205,4 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** Attribution turns on the forum’s character, neutral access rules, ownership and sponsorship of the display, government control, and contextual measures that make private authorship clear.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+

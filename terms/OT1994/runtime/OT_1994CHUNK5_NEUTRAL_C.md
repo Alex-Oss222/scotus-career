@@ -53,7 +53,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** American Building Maintenance identifies enterprises engaged in interstate commerce. Wickard aggregation and any attenuated substantial-effects theory need not be reached because the mine itself conducted interstate transactions.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 58. United States v. Pinson +
 
@@ -112,7 +112,7 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 **Neutral source:** United States v. Pinson, 24 F.3d 1056, 1058 n.2 (8th Cir. 1994), the predecision appellate opinion. The later Kyllo opinion supplies no entering law.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 59. Kansas v. Colorado
 
@@ -527,7 +527,7 @@ The identified liability and exception paths may be modeled. A new quantitative 
 - **Simulation source boundary:** The current [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), [Standing State](../../../state/STANDING_STATE.md), and [Court Composition](../../../foundation/COURT_COMPOSITION.md) govern within their actual scope. Source chronology and remaining limits are specified in this packet.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+
 
 ## 60. Hubbard v. United States
 
@@ -580,4 +580,4 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 - **Other Authority Used:** The statutory definition and ordinary branch structure control; Bramblett is overruled because its construction cannot be reconciled with them and has generated an unadministerable exception.
 <!-- END_SECTION I -->
 
-<!-- BEGIN_SECTION II -->
+

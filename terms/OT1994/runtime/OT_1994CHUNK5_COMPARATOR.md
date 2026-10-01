@@ -6,7 +6,7 @@
 
 ## 49. Stone v. Immigration and Naturalization Service
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -58,7 +58,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 50. Kyles v. Whitley
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -75,7 +75,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 51. Rubin v. Coors Brewing Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -92,7 +92,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 52. California Department of Corrections v. Morales
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -109,7 +109,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 53. United States v. Williams
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -126,7 +126,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 54. United States v. Lopez
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -143,7 +143,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 55. New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co. / Pataki v. Travelers Insurance Co. / Hospital Association of New York State v. Travelers Insurance Co.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -160,7 +160,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 56. United States v. Harris +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -177,7 +177,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 57. United States v. Robertson
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -194,7 +194,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 58. United States v. Pinson +
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -211,7 +211,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 59. Kansas v. Colorado
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -266,7 +266,7 @@ Historical authorship and alignment are documentary comparison evidence, not ins
 
 ## 60. Hubbard v. United States
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION III -->
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 

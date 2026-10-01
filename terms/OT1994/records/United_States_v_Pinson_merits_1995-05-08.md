@@ -23,7 +23,7 @@ Exact case 58 Section II was read only after the complete final reconciled hando
 
 The six associates' additional conclusion that no warrant exception is established is beyond Stone's express stated ground. The record assigns him neither agreement nor opposition on that proposition. His partial join is not a dissent from it, and the standing fallback is not used to add a new reasoning ground. No component requires fallback: the supplied search question and requested remedy are expressly addressed; the unrelated sentence is outside review. The breadth difference in the search formulations requires neither a changed associate commitment nor an invented Marks synthesis. The exact source follows unchanged.
 
-<!-- BEGIN_SECTION I -->
+<!-- BEGIN_SECTION II -->
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
@@ -51,7 +51,7 @@ The six associates' additional conclusion that no warrant exception is establish
 - **Boundary or Reserved Question:** Stone does not hold that ordinary visual observation from a lawful vantage, smoke or other conditions perceptible to unaided members of the public, utility records obtained through lawful process, or every technological measurement made near private property constitutes a search. The holding concerns deliberate technological acquisition of otherwise unavailable information about activity inside a home. Stone also expresses no view on whether the warrant affidavit would establish probable cause without the thermal-scan information, whether any such question remains procedurally available after remand, whether suppression ultimately follows, or whether *United States v. Leon* applies. Those matters are not decided because the warrant-sufficiency issue was not preserved on appeal and was not determined by the Eighth Circuit.
 <!-- END_SECTION II -->
 
-<!-- BEGIN_SECTION III -->
+
 
 ## Public action, judgment, and opinions
 
