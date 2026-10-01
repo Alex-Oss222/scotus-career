@@ -1,19 +1,19 @@
 **Case and dockets:** Nebraska v. Wyoming; No. 108, Original.
 **Event and date:** Original exceptions; 1995-05-30; OT1994,chunk6.
 **Result:** All six exceptions OVERRULED;9-0 on Wyoming's four exceptions;8-1 on both federal-claim exceptions. Bounded leave granted and withheld; further proceedings before the Master.
-**Version / lineage:** Initial adjudication;supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation,not by adjudication correction. Close-audit correction 2026-09-30 (F03): Fourth Cross-Claim attribution made consistent with the existing eight-Justice admission; replaces the prior wording in place without a new adjudication.
+**Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction. Close-audit correction 2026-09-30 (F03): Fourth Cross-Claim attribution made consistent with the existing eight-Justice admission; replaces the prior wording in place without a new adjudication.
 
 ## Event, participation and entering law
 
-Original-action exceptions to Master Olpin's Third Interim Report, filed October11,1994; exceptions filed November25,1994. Questions: ceiling,groundwater,equitable defenses,downstream/habitat,HorseCreek,federal administration and exact leave. Argued March 21, 1995, using the argument chronology supplied in the neutral packet.
+Original-action exceptions to Master Olpin's Third Interim Report, filed October11, 1994; exceptions filed November25, 1994. Questions: ceiling, groundwater, equitable defenses, downstream/habitat, HorseCreek, federal administration and exact leave. Argued March 21, 1995, using the argument chronology supplied in the neutral packet.
 
-Lawful channel: ArticleIII,28U.S.C.1251(a) original jurisdiction and decree reopener under admitted inventory. No new grant vote or fabricated grant date. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate;quorum satisfied,five votes control. Reached issues are within supplied scope;no established threshold,vehicle or preservation bar. Coordinated OT1993 trackers,chunk6 entering-law slice and effective current neutral projection control. May22 decisions share entering baseline. Nebraska April20,1993 is simulated postdivergence law;its enforcement/modification distinction governs. Effective current Kansas enters only at adopted scope. No later historical Supreme Court result becomes authority. Research cutoff immediately before 1995-05-30.
+Lawful channel: ArticleIII, 28U.S.C.1251(a) original jurisdiction and decree reopener under admitted inventory. No new grant vote or fabricated grant date. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate; quorum satisfied, five votes control. Reached issues are within supplied scope; no established threshold, vehicle or preservation bar. Coordinated OT1993 trackers, chunk6 entering-law slice and effective current neutral projection control. May22 decisions share entering baseline. Nebraska April20, 1993 is simulated postdivergence law; its enforcement/modification distinction governs. Effective current Kansas enters only at adopted scope. No later historical Supreme Court result becomes authority. Research cutoff immediately before 1995-05-30.
 
 ## Stone fixed core and final compatibility
 
-B_RECONCILED was durably frozen before Stone65-68 first opened. Fresh assembly spawn failed with agent thread limit;reconciliation-to-assembly uses disclosed single-conversation fallback. No assembly blindness claim. Independent model B was separately frozen;clean validation preceded comparator exposure.
+B_RECONCILED was durably frozen before Stone65-68 first opened. Fresh assembly spawn failed with agent thread limit; reconciliation-to-assembly uses disclosed single-conversation fallback. No assembly blindness claim. Independent model B was separately frozen; clean validation preceded comparator exposure.
 
-Verbatim scoped approved supplement follows;preparation-era claim no OT1994 Records were effective is superseded by actual entering chronology,without changing Stone core:
+Verbatim scoped approved supplement follows; preparation-era claim no OT1994 Records were effective is superseded by actual entering chronology, without changing Stone core:
 
 ## 68. Nebraska v. Wyoming
 
@@ -137,7 +137,7 @@ These are approved Stone character inputs. They do not state or predetermine the
 
 
 
-Stone final disposition and joins match the topology below. Every addressed qualification,reservation and remedy remains;no component requires standing fallback. No new certiorari vote or unapproved choice is supplied.
+Stone final disposition and joins match the topology below. Every addressed qualification, reservation and remedy remains; no component requires standing fallback. No new certiorari vote or unapproved choice is supplied.
 
 ## Judgment and topology
 
@@ -151,15 +151,15 @@ Stone final disposition and joins match the topology below. Every addressed qual
 | Nebraska Fourth Cross-Claim exception | Overruled8-1; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer; Thomas sustains | Same bounded scope |
 | Remaining leave other than Fourth Cross-Claim | 9-0; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Nebraska I-III allowed, IV denied without prejudice; Wyoming Second-Fourth Counterclaims and Second, Third and Fifth Cross-Claims allowed within all limits. Fourth Cross-Claim admission remains 8-1 under the two exception rows above; Thomas opposes it. |
 
-Reject First Counterclaim and First Cross-Claim insofar as they seek the mass ceiling. Preserve discrete below-Tri-State calls,priority bypasses and relevant waste defenses not dependent on that formula. Glendo enforcement/modification,Laramie changed conditions and carriage-loss administration return to the Master. No new water allocation,release quantity,revised formula,seasonal award,damages,priority or operating injunction issues;no injury or breach is found.
+Reject First Counterclaim and First Cross-Claim insofar as they seek the mass ceiling. Preserve discrete below-Tri-State calls, priority bypasses and relevant waste defenses not dependent on that formula. Glendo enforcement/modification, Laramie changed conditions and carriage-loss administration return to the Master. No new water allocation, release quantity, revised formula, seasonal award, damages, priority or operating injunction issues; no injury or breach is found.
 
 | Writing | Author and joins | Scope |
 |---|---|---|
-| Opinion of the Court | Souter; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Allocation,groundwater,downstream/habitat,HorseCreek,remaining leave |
+| Opinion of the Court | Souter; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Allocation, groundwater, downstream/habitat, HorseCreek, remaining leave |
 | Federal-administration portion | Souter; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer | Fourth Cross-Claim and both opposing exceptions |
 | Concurrence in part and dissent in part | Thomas alone | All other joins retained; would exclude Fourth Cross-Claim and sustain both exceptions |
 
-All controlling joins are direct;no Marks inference or judgment-only aggregation.
+All controlling joins are direct; no Marks inference or judgment-only aggregation.
 
 ## Controlling holdings
 
@@ -247,17 +247,17 @@ All controlling joins are direct;no Marks inference or judgment-only aggregation
 
 The decree's 75/25 natural-flow allocation cannot be replaced through these amendments by a mass beneficial-use ceiling. Reject the First Counterclaim and First Cross-Claim insofar as they seek that ceiling, while preserving discrete geographic, priority, unlawful-call and relevant waste defenses not dependent on it. Specific upstream groundwater development and alleged depletion threatening the decree allocation may be pleaded. Nebraska's own pumping creates no categorical unclean-hands bar without relevant conduct and connection to the asserted harm; supported defenses and applicable eventual proof requirements remain. Downstream nonirrigation and habitat effects may be considered insofar as relevant to injury and lawful modification in admitted decree claims. Relevance creates no independent instream entitlement, habitat-flow quantity, free-standing environmental right or automatic priority; Count IV remains denied without prejudice. Horse Creek's location below Tri-State Dam does not alone bar a specific changed-condition allegation threatening the decree's balance. A material decree connection and eventual modification proof remain required; no tributary-wide apportionment or finding of depletion follows. The Fourth Cross-Claim may proceed only for alleged changed federal storage administration materially affecting the interstate decree's operation or supporting conditions. Both United States and Nebraska exceptions are overruled within that scope; independent contractual compliance remains outside the original proceeding and in its lawful separate channel. Permit Nebraska Counts I-III and Wyoming Second-Fourth Counterclaims and Second-Fifth Cross-Claims within the preceding limits; deny Nebraska Count IV without prejudice and reject only impermissible ceiling portions of First Counterclaim and First Cross-Claim. Return Glendo, Laramie and carriage-loss theories to the Master for applicable proof; leave establishes no injury, breach, water award, priority, damages or injunction.
 
-Original action remains open before Master Olpin for evidence and recommendations within admitted scope. Enforcement of an established right needs no fresh injury showing;modification requires clear and convincing real and substantial injury. CountIV remains denied without prejudice;all supported defenses remain and no water remedy arises from leave.
+Original action remains open before Master Olpin for evidence and recommendations within admitted scope. Enforcement of an established right needs no fresh injury showing; modification requires clear and convincing real and substantial injury. CountIV remains denied without prejudice; all supported defenses remain and no water remedy arises from leave.
 
-Published noncontrolling positions: Thomas concurs in all other components and dissents on the Fourth Cross-Claim. His objection concerns forum and scope,not an injury finding. Storage water was not apportioned,and he regards federal storage-contract administration as belonging to separate litigation. He would sustain both United States and Nebraska exceptions and exclude this pleading,preserving a later adequately distinct interstate modification claim. The majority's decree-effects limitation does not answer his alternative-forum objection. Federal party status and practical effects do not make independent administration appropriate for original adjudication. He finds no breach,immunity waiver or established contract relief and does not certify the separate forum's jurisdiction or complete remedy. His position is noncontrolling;the eight-Justice limited admission governs. No unpublished commitment changes current law.
+Published noncontrolling positions: Thomas concurs in all other components and dissents on the Fourth Cross-Claim. His objection concerns forum and scope, not an injury finding. Storage water was not apportioned, and he regards federal storage-contract administration as belonging to separate litigation. He would sustain both United States and Nebraska exceptions and exclude this pleading, preserving a later adequately distinct interstate modification claim. The majority's decree-effects limitation does not answer his alternative-forum objection. Federal party status and practical effects do not make independent administration appropriate for original adjudication. He finds no breach, immunity waiver or established contract relief and does not certify the separate forum's jurisdiction or complete remedy. His position is noncontrolling; the eight-Justice limited admission governs. No unpublished commitment changes current law.
 
 ## Assignment and join audit
 
-Stone is in every majority and assigns. Fit: Souter fits structured original-action gatekeeping and federal decree-predicate boundaries. Shared majority exists independently of authorship;no indispensable-vote bargain or expansion assignment is needed. Historical author is not assignment authority. Majority joins are direct only at stated scopes. No draft history is invented. Thomas refuses the federal portion on alternative-forum grounds;minimum resolving revision would exclude the present Fourth Cross-Claim,which majority rejects. 
+Stone is in every majority and assigns. Fit: Souter fits structured original-action gatekeeping and federal decree-predicate boundaries. Shared majority exists independently of authorship; no indispensable-vote bargain or expansion assignment is needed. Historical author is not assignment authority. Majority joins are direct only at stated scopes. No draft history is invented. Thomas refuses the federal portion on alternative-forum grounds; minimum resolving revision would exclude the present Fourth Cross-Claim, which majority rejects. 
 
 ## Adaptive audit annex
 
-Frozen[B commitments](../freeze/OT_1994CHUNK6_B_COMMITMENTS.md) remain immutable;[B reconciliation](../freeze/OT_1994CHUNK6_B_RECONCILED.md) controls. Relevant individual grounds,components,alternatives and join barriers:
+Frozen[B commitments](../freeze/OT_1994CHUNK6_B_COMMITMENTS.md) remain immutable; [B reconciliation](../freeze/OT_1994CHUNK6_B_RECONCILED.md) controls. Relevant individual grounds, components, alternatives and join barriers:
 
 ## 68. Nebraska v. Wyoming — 1995-05-30
 
@@ -304,13 +304,13 @@ No automatic acquiescence, automatic unclean-hands bar, final groundwater/habita
 
 
 
-Historical reconciliation: All eight match other components. Scalia's provisional exclusion lacked a concrete changed premise:Kansas term-restraint displaces neither the reopener nor his historical decree-effects/independent-contract distinction. Further comparison supports bounded admission. Thomas retains his historical alternative-forum objection. No material non-Stone departure survives. [Clean source validation](../freeze/OT_1994CHUNK6_B_NEUTRAL_SOURCE_VALIDATION.md) admits Kelley facts with bothOCRconclusions and bowl-income qualification,corrects Nebraska provenance,and finds no material new neutral fact requiring remodeling. Eight includingStone on federal portion versusThomas;allnine elsewhere.  No Marks or judgment-only aggregation;no historical action is imported.
+Historical reconciliation: All eight match other components. Scalia's provisional exclusion lacked a concrete changed premise:Kansas term-restraint displaces neither the reopener nor his historical decree-effects/independent-contract distinction. Further comparison supports bounded admission. Thomas retains his historical alternative-forum objection. No material non-Stone departure survives. [Clean source validation](../freeze/OT_1994CHUNK6_B_NEUTRAL_SOURCE_VALIDATION.md) admits Kelley facts with bothOCRconclusions and bowl-income qualification, corrects Nebraska provenance, and finds no material new neutral fact requiring remodeling. Eight includingStone on federal portion versusThomas; allnine elsewhere.  No Marks or judgment-only aggregation; no historical action is imported.
 
 ## Sources and validation
 
 The [Third Interim Report](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180149/1000180149_017.pdf),pp.33-71,Apps.C-E,supplies decree and pleadings. [United States exception](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_001.pdf) and [Wyoming exceptions](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000180155/1000180155_002.pdf),November25,1994,supply objections;Government opposition is no jurisdictional concession. Nebraska1945,1953,April20,1993 and current Kansas apply at exact scope. No new hydrologic finding,Glendo quantity or carriage-loss formula is reconstructed.
 
-Cutoff predecision 1995-05-30;modern retrieval is provenance only. Wilson/FirstOptions Archive availability verified,not complete independentPDFreading;no transcript facts inferred. Nebraska source supports leave,not hydrologic merits. Assembly checks cover votes,scope and identical kernel/publicholdings;operator term checks and Git commitment remain. This natural-key file becomes authoritative once validated and committed. No render or workspace was written here.
+Cutoff predecision 1995-05-30; modern retrieval is provenance only. Wilson/FirstOptions Archive availability verified, not complete independentPDFreading; no transcript facts inferred. Nebraska source supports leave, not hydrologic merits. Assembly checks cover votes, scope and identical kernel/publicholdings; operator term checks and Git commitment remain. This natural-key file becomes authoritative once validated and committed. No render or workspace was written here.
 
 ## Coordinated chunk validation
 

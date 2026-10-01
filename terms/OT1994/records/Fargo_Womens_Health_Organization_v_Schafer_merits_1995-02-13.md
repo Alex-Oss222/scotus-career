@@ -1,7 +1,7 @@
 **Case and dockets:** Fargo Women’s Health Organization v. Schafer, No. 93-1712.
 **Event and date:** Merits decision; 1995-02-13; October Term 1994, chunk 2, inventory matter 22.
 **Result:** Affirmed in part, vacated in part, and remanded: access vacatur/remand 6–3; each definition-vagueness rejection and the associated limited penalty rejection affirmed 8–1. Stone-Zsela votes to vacate and remand throughout.
-**Version / lineage:** First Canonical Decision Record; supersedes no completed adjudication. Completes the previously unadjudicated Fargo matter under the September 28, 2026 instruction. Earlier incomplete freezes remain stage history. File preservation only; no Git command, verified commit hash or repository commitment is claimed.
+**Version / lineage:** First Canonical Decision Record; supersedes no completed adjudication. Completes the previously unadjudicated Fargo matter under the September 28, 2026 instruction. Earlier incomplete freezes remain stage history. File preservation only; no Git command, verified commit hash or repository commitment is claimed. Close-audit correction 2026-09-30 (seventh audit, F09): apostrophe in the source-limit description only; replaces the prior typography in place without a new adjudication.
 
 ## Event, chronology, participation and reach
 
@@ -370,4 +370,4 @@ The culpability source is [1973 chapter 116, section 2, pages 220–221](https:/
 
 The principal earlier vagueness authorities are available in the official reports: [Vuitch](https://tile.loc.gov/storage-services/service/ll/usrep/usrep402/usrep402062/usrep402062.pdf), [Doe](https://tile.loc.gov/storage-services/service/ll/usrep/usrep410/usrep410179/usrep410179.pdf), [Colautti](https://tile.loc.gov/storage-services/service/ll/usrep/usrep439/usrep439379/usrep439379.pdf), [Hoffman Estates](https://tile.loc.gov/storage-services/service/ll/usrep/usrep455/usrep455489/usrep455489.pdf), and [Kolender](https://tile.loc.gov/storage-services/service/ll/usrep/usrep461/usrep461352/usrep461352.pdf). These citations support the paraphrased holdings.
 
-The reported summary-judgment submissions support the described posture, not new factual findings. The reported sources do not reproduce the full clinical record or the prior injunction?s exact terms and do not establish a definitive Title 14 element-specific construction. The remand and reserved questions preserve those limits. The argument and decision dates are the established docket schedule; no separate grant date is stated.
+The reported summary-judgment submissions support the described posture, not new factual findings. The reported sources do not reproduce the full clinical record or the prior injunction's exact terms and do not establish a definitive Title 14 element-specific construction. The remand and reserved questions preserve those limits. The argument and decision dates are the established docket schedule; no separate grant date is stated.

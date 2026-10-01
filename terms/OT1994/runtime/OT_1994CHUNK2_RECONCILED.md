@@ -1,6 +1,6 @@
 # OT1994 chunk 2 — final reconciliation handoff
 
-This generated handoff preserves the original scoped freezes and the later, explicitly scoped refreshes. The final Lebron and Schlup supplements control their refreshed components; earlier pending or superseded component descriptions remain only as truthful stage history. Fargo?s earlier incomplete preparation is superseded by the Fargo completion package appended below; its completed Court action is in the Canonical Decision Record. The preserved earlier descriptions are stage history only. Each case retains its event-specific entering-law cutoff. No Git commitment is claimed.
+This generated handoff preserves the original scoped freezes and the later, explicitly scoped refreshes. The final Lebron and Schlup supplements control their refreshed components; earlier pending or superseded component descriptions remain only as truthful stage history. Fargo's earlier incomplete preparation is superseded by the Fargo completion package appended below; its completed Court action is in the Canonical Decision Record. The preserved earlier descriptions are stage history only. Each case retains its event-specific entering-law cutoff. No Git commitment is claimed.
 
 ## Preserved handoff: OT_1994CHUNK2_RECONCILED_A.md
 

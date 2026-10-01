@@ -1,5 +1,7 @@
 # OT1994 chunk 5 — final commitments aggregate
 
+**Current status (seventh-audit correction):** Robertson is completed in the [Canonical Decision Record](../records/United_States_v_Robertson_merits_1995-05-01.md). Morales is affirmed 5–4 under the revised position in the [replacement Record](../records/California_Department_of_Corrections_v_Morales_merits_1995-04-25.md), replacement commit d086219b424d812aaa837fda9533629c69e33833. The original aggregate description and phase commitments below are preserved stage history only; their Robertson nonadjudication status and original Morales positions are superseded by those Records.
+
 Mechanically collected final scoped handoffs. Original files remain preserved. Each matter retains its own effective-date baseline; sequence here creates no same-date priority. The operator performs repository verification and commitment; no Git command was run. Robertson remains unadjudicated; its provisional source-refresh artifacts are not final commitments or an adjudication and are omitted here.
 
 <!-- preserved-scoped-handoff: OT_1994CHUNK5_COMMITMENTS_A.md -->

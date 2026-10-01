@@ -1,19 +1,19 @@
 **Case and dockets:** Wilson v. Arkansas; No. 94-5707.
 **Event and date:** Merits decision; 1995-05-22; OT1994,chunk6.
 **Result:** REVERSED AND REMANDED,9-0.
-**Version / lineage:** Initial adjudication;supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation,not by adjudication correction.
+**Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction.
 
 ## Event, participation and entering law
 
 Review of Arkansas Supreme Court drug convictions and denial of suppression; argued March 28, 1995. Question: whether common-law announcement forms part of Fourth Amendment reasonableness.
 
-Lawful channel: established merits channel under admitted inventory. No new grant vote or fabricated grant date. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate;quorum satisfied,five votes control. Reached issues are within supplied scope;no established threshold,vehicle or preservation bar. Coordinated OT1993 trackers,chunk6 entering-law slice and effective current neutral projection control. May22 decisions share entering baseline. Nebraska April20,1993 is simulated postdivergence law;its enforcement/modification distinction governs. Effective current Kansas enters only at adopted scope. No later historical Supreme Court result becomes authority. Research cutoff immediately before 1995-05-22.
+Lawful channel: established merits channel under admitted inventory. No new grant vote or fabricated grant date. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate; quorum satisfied, five votes control. Reached issues are within supplied scope; no established threshold, vehicle or preservation bar. Coordinated OT1993 trackers, chunk6 entering-law slice and effective current neutral projection control. May22 decisions share entering baseline. Nebraska April20, 1993 is simulated postdivergence law; its enforcement/modification distinction governs. Effective current Kansas enters only at adopted scope. No later historical Supreme Court result becomes authority. Research cutoff immediately before 1995-05-22.
 
 ## Stone fixed core and final compatibility
 
-B_RECONCILED was durably frozen before Stone65-68 first opened. Fresh assembly spawn failed with agent thread limit;reconciliation-to-assembly uses disclosed single-conversation fallback. No assembly blindness claim. Independent model B was separately frozen;clean validation preceded comparator exposure.
+B_RECONCILED was durably frozen before Stone65-68 first opened. Fresh assembly spawn failed with agent thread limit; reconciliation-to-assembly uses disclosed single-conversation fallback. No assembly blindness claim. Independent model B was separately frozen; clean validation preceded comparator exposure.
 
-Verbatim scoped approved supplement follows;preparation-era claim no OT1994 Records were effective is superseded by actual entering chronology,without changing Stone core:
+Verbatim scoped approved supplement follows; preparation-era claim no OT1994 Records were effective is superseded by actual entering chronology, without changing Stone core:
 
 ## 65. Wilson v. Arkansas
 
@@ -41,11 +41,11 @@ Verbatim scoped approved supplement follows;preparation-era claim no OT1994 Reco
 
 
 
-Stone final disposition and joins match the topology below. Every addressed qualification,reservation and remedy remains;no component requires standing fallback. No new certiorari vote or unapproved choice is supplied.
+Stone final disposition and joins match the topology below. Every addressed qualification, reservation and remedy remains; no component requires standing fallback. No new certiorari vote or unapproved choice is supplied.
 
 ## Judgment and topology
 
-Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer reverse/remand,9-0. The state court must evaluate actual entry,record-supported excuses and remedy. No established violation,automatic suppression or final vacation of the conviction follows.
+Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer reverse/remand, 9-0. The state court must evaluate actual entry, record-supported excuses and remedy. No established violation, automatic suppression or final vacation of the conviction follows.
 
 Thomas delivers the Opinion of the Court; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join all of it.
 
@@ -70,17 +70,17 @@ Thomas delivers the Opinion of the Court; Stone-Zsela, Stevens, O'Connor, Scalia
 
 Common-law announcement of identity and authority forms part of Fourth Amendment reasonableness when officers enter a dwelling. Supported countervailing circumstances, including danger, futility, escape or threatened destruction of evidence, may justify unannounced entry; actual justification and remedy remain for the state court.
 
-State-court proceedings resume on remand for actual reasonableness,excuses and remedy. Supreme Court merits event is complete;the ultimate conviction consequence remains for adjudication.
+State-court proceedings resume on remand for actual reasonableness, excuses and remedy. Supreme Court merits event is complete; the ultimate conviction consequence remains for adjudication.
 
 Published noncontrolling positions: No separate writing is filed. No unpublished commitment changes current law.
 
 ## Assignment and join audit
 
-Stone is in every majority and assigns. Fit: Thomas fits common-law constitutional history and its flexible exceptions. Shared majority exists independently of authorship;no indispensable-vote bargain or expansion assignment is needed. Historical author is not assignment authority. Majority joins are direct only at stated scopes. No draft history is invented. All associates accept bounded grounds;no remaining associate barrier. 
+Stone is in every majority and assigns. Fit: Thomas fits common-law constitutional history and its flexible exceptions. Shared majority exists independently of authorship; no indispensable-vote bargain or expansion assignment is needed. Historical author is not assignment authority. Majority joins are direct only at stated scopes. No draft history is invented. All associates accept bounded grounds; no remaining associate barrier. 
 
 ## Adaptive audit annex
 
-Frozen[B commitments](../freeze/OT_1994CHUNK6_B_COMMITMENTS.md) remain immutable;[B reconciliation](../freeze/OT_1994CHUNK6_B_RECONCILED.md) controls. Relevant individual grounds,components,alternatives and join barriers:
+Frozen[B commitments](../freeze/OT_1994CHUNK6_B_COMMITMENTS.md) remain immutable; [B reconciliation](../freeze/OT_1994CHUNK6_B_RECONCILED.md) controls. Relevant individual grounds, components, alternatives and join barriers:
 
 ## 65. Wilson v. Arkansas — 1995-05-22
 
@@ -103,13 +103,13 @@ Adversarial test: Arkansas's no-constitutional-relevance rule avoids rigidity bu
 
 
 
-Historical reconciliation: All eight match historical unanimity and bounded exceptions;premises remain intact. No material non-Stone departure survives. [Clean source validation](../freeze/OT_1994CHUNK6_B_NEUTRAL_SOURCE_VALIDATION.md) admits Kelley facts with bothOCRconclusions and bowl-income qualification,corrects Nebraska provenance,and finds no material new neutral fact requiring remodeling. Nine on each judgment component.  No Marks or judgment-only aggregation;no historical action is imported.
+Historical reconciliation: All eight match historical unanimity and bounded exceptions; premises remain intact. No material non-Stone departure survives. [Clean source validation](../freeze/OT_1994CHUNK6_B_NEUTRAL_SOURCE_VALIDATION.md) admits Kelley facts with bothOCRconclusions and bowl-income qualification, corrects Nebraska provenance, and finds no material new neutral fact requiring remodeling. Nine on each judgment component.  No Marks or judgment-only aggregation; no historical action is imported.
 
 ## Sources and validation
 
-Miller,Ker and Sabbath supply date-eligible entry authorities. Arkansas judgment supplies posture. The [Archive item](https://archive.org/details/micro_IA40385013_0613) identifies petition,briefs and appendix;no unrecovered transcript fact is used.
+Miller, Ker and Sabbath supply date-eligible entry authorities. Arkansas judgment supplies posture. The [Archive item](https://archive.org/details/micro_IA40385013_0613) identifies petition, briefs and appendix; no unrecovered transcript fact is used.
 
-Cutoff predecision 1995-05-22;modern retrieval is provenance only. Wilson/FirstOptions Archive availability verified,not complete independentPDFreading;no transcript facts inferred. Nebraska source supports leave,not hydrologic merits. Assembly checks cover votes,scope and identical kernel/publicholdings;operator term checks and Git commitment remain. This natural-key file becomes authoritative once validated and committed. No render or workspace was written here.
+Cutoff predecision 1995-05-22; modern retrieval is provenance only. Wilson/FirstOptions Archive availability verified, not complete independentPDFreading; no transcript facts inferred. Nebraska source supports leave, not hydrologic merits. Assembly checks cover votes, scope and identical kernel/publicholdings; operator term checks and Git commitment remain. This natural-key file becomes authoritative once validated and committed. No render or workspace was written here.
 
 ## Coordinated chunk validation
 

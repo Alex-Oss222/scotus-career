@@ -1,19 +1,19 @@
 **Case and dockets:** First Options of Chicago, Inc. v. Kaplan; No. 94-560.
 **Event and date:** Merits decision; 1995-05-22; OT1994,chunk6.
 **Result:** AFFIRMED,9-0 on both arbitrability and appellate-review components.
-**Version / lineage:** Initial adjudication;supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation,not by adjudication correction. Close-audit correction 2026-09-30 (F08): historical-departure label for Stone’s reserved rationale join; replaces the prior wording in place without a new adjudication.
+**Version / lineage:** Initial adjudication; supersedes no completed Record. Scalia Nebraska provisional exclusion was repaired in reconciliation, not by adjudication correction. Close-audit correction 2026-09-30 (F08): historical-departure label for Stone’s reserved rationale join; replaces the prior wording in place without a new adjudication.
 
 ## Event, participation and entering law
 
 Review of the Third Circuit,19 F.3d1503, reversing confirmation of the award against the Kaplans; argued March 22, 1995. Questions: delegation of arbitrability and ordinary appellate review. MKI signed the arbitration document and submitted; the Kaplans did not sign it and objected to panel jurisdiction.
 
-Lawful channel: established merits channel under admitted inventory. No new grant vote or fabricated grant date. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate;quorum satisfied,five votes control. Reached issues are within supplied scope;no established threshold,vehicle or preservation bar. Coordinated OT1993 trackers,chunk6 entering-law slice and effective current neutral projection control. May22 decisions share entering baseline. Nebraska April20,1993 is simulated postdivergence law;its enforcement/modification distinction governs. Effective current Kansas enters only at adopted scope. No later historical Supreme Court result becomes authority. Research cutoff immediately before 1995-05-22.
+Lawful channel: established merits channel under admitted inventory. No new grant vote or fabricated grant date. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate; quorum satisfied, five votes control. Reached issues are within supplied scope; no established threshold, vehicle or preservation bar. Coordinated OT1993 trackers, chunk6 entering-law slice and effective current neutral projection control. May22 decisions share entering baseline. Nebraska April20, 1993 is simulated postdivergence law; its enforcement/modification distinction governs. Effective current Kansas enters only at adopted scope. No later historical Supreme Court result becomes authority. Research cutoff immediately before 1995-05-22.
 
 ## Stone fixed core and final compatibility
 
-B_RECONCILED was durably frozen before Stone65-68 first opened. Fresh assembly spawn failed with agent thread limit;reconciliation-to-assembly uses disclosed single-conversation fallback. No assembly blindness claim. Independent model B was separately frozen;clean validation preceded comparator exposure.
+B_RECONCILED was durably frozen before Stone65-68 first opened. Fresh assembly spawn failed with agent thread limit; reconciliation-to-assembly uses disclosed single-conversation fallback. No assembly blindness claim. Independent model B was separately frozen; clean validation preceded comparator exposure.
 
-Verbatim scoped approved supplement follows;preparation-era claim no OT1994 Records were effective is superseded by actual entering chronology,without changing Stone core:
+Verbatim scoped approved supplement follows; preparation-era claim no OT1994 Records were effective is superseded by actual entering chronology, without changing Stone core:
 
 ## 66. First Options of Chicago, Inc. v. Kaplan
 
@@ -43,13 +43,13 @@ Verbatim scoped approved supplement follows;preparation-era claim no OT1994 Reco
 
 
 
-Stone final disposition and joins match the topology below. Every addressed qualification,reservation and remedy remains;no component requires standing fallback. No new certiorari vote or unapproved choice is supplied.
+Stone final disposition and joins match the topology below. Every addressed qualification, reservation and remedy remains; no component requires standing fallback. No new certiorari vote or unapproved choice is supplied.
 
 ## Judgment and topology
 
 Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer affirm both components,9-0. The Third Circuit judgment vacating the award against the Kaplans personally remains in force. MKI's separate corporate submission is unaffected except as provided below. No new FAA merits-vacatur ground is adopted.
 
-Breyer delivers the Opinion of the Court. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join PartI antecedent assent and application and PartII ordinary appellate review. Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer alone join the additional conditional limited-review proposition for actual delegation. Stone-Zsela reserves that proposition and merits-award deference;no separate writing or fractured-decision inference.
+Breyer delivers the Opinion of the Court. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join PartI antecedent assent and application and PartII ordinary appellate review. Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer alone join the additional conditional limited-review proposition for actual delegation. Stone-Zsela reserves that proposition and merits-award deference; no separate writing or fractured-decision inference.
 
 ## Controlling holdings
 
@@ -86,17 +86,17 @@ Breyer delivers the Opinion of the Court. Stone-Zsela, Stevens, O'Connor, Scalia
 
 Courts independently determine agreement to arbitrate arbitrability unless ordinary applicable contract law establishes clear and unmistakable delegation. Presenting an objection while denying panel jurisdiction does not itself establish delegation; company submission does not itself establish an owner's personal assent. Where parties actually delegate arbitrability, limited award review governs that decision. Appellate courts independently review district-court legal conclusions and review factual findings for clear error. Arbitration supplies no additional appellate deference to the district judge's independent arbitrability determination.
 
-Third Circuit personal-award judgment remains in force;corporate submission remains distinct. Supreme Court merits event is complete;no new Supreme Court step is created.
+Third Circuit personal-award judgment remains in force; corporate submission remains distinct. Supreme Court merits event is complete; no new Supreme Court step is created.
 
-Published noncontrolling positions: No separate writing is filed. Stone-Zsela's partial join reserves merits-award deference,broad delegation clauses and incorporated rules without adopting an affirmative alternative or changing the judgment. No unpublished commitment changes current law.
+Published noncontrolling positions: No separate writing is filed. Stone-Zsela's partial join reserves merits-award deference, broad delegation clauses and incorporated rules without adopting an affirmative alternative or changing the judgment. No unpublished commitment changes current law.
 
 ## Assignment and join audit
 
-Stone is in every majority and assigns. Fit: Breyer fits contractual decisionmaker distinctions and ordinary review. Shared majority exists independently of authorship;no indispensable-vote bargain or expansion assignment is needed. Historical author is not assignment authority. Majority joins are direct only at stated scopes. No draft history is invented. All associates accept bounded grounds;no remaining associate barrier. Stone refuses conditional review proposition under his express reservation;no affirmative alternative is invented.
+Stone is in every majority and assigns. Fit: Breyer fits contractual decisionmaker distinctions and ordinary review. Shared majority exists independently of authorship; no indispensable-vote bargain or expansion assignment is needed. Historical author is not assignment authority. Majority joins are direct only at stated scopes. No draft history is invented. All associates accept bounded grounds; no remaining associate barrier. Stone refuses conditional review proposition under his express reservation; no affirmative alternative is invented.
 
 ## Adaptive audit annex
 
-Frozen[B commitments](../freeze/OT_1994CHUNK6_B_COMMITMENTS.md) remain immutable;[B reconciliation](../freeze/OT_1994CHUNK6_B_RECONCILED.md) controls. Relevant individual grounds,components,alternatives and join barriers:
+Frozen[B commitments](../freeze/OT_1994CHUNK6_B_COMMITMENTS.md) remain immutable; [B reconciliation](../freeze/OT_1994CHUNK6_B_RECONCILED.md) controls. Relevant individual grounds, components, alternatives and join barriers:
 
 ## 66. First Options v. Kaplan — 1995-05-22
 
@@ -119,15 +119,15 @@ Two-path test: deference correctly applies after actual delegation; its stronges
 
 
 
-Historical reconciliation: All eight match historical delegation and ordinary-review affirmance. Stone's reserved join is approved core,not non-Stone departure. No material non-Stone departure survives. [Clean source validation](../freeze/OT_1994CHUNK6_B_NEUTRAL_SOURCE_VALIDATION.md) admits Kelley facts with bothOCRconclusions and bowl-income qualification,corrects Nebraska provenance,and finds no material new neutral fact requiring remodeling. Nine on each judgment component. Conditional review rule has eight associate joins only. No Marks or judgment-only aggregation;no historical action is imported.
+Historical reconciliation: All eight match historical delegation and ordinary-review affirmance. Stone's reserved join is approved core, not non-Stone departure. No material non-Stone departure survives. [Clean source validation](../freeze/OT_1994CHUNK6_B_NEUTRAL_SOURCE_VALIDATION.md) admits Kelley facts with bothOCRconclusions and bowl-income qualification, corrects Nebraska provenance, and finds no material new neutral fact requiring remodeling. Nine on each judgment component. Conditional review rule has eight associate joins only. No Marks or judgment-only aggregation; no historical action is imported.
 
 **Historical departure:** Stone-Zsela’s approved reserved join does not adopt the conditional limited-review proposition after a valid delegation of arbitrability. The eight associates adopt that proposition, rather than the historical unanimous rationale that included the Chief; the unanimous judgment and Stone’s joins in antecedent assent and ordinary appellate review remain unchanged.
 
 ## Sources and validation
 
-AT&T Technologies and Volt supply consent authorities;effective Allied-Bruce and Mastrobuono apply at stated scope. The [Archive item](https://archive.org/details/micro_IA40385013_0560) identifies petition,briefs and appendix. No absent broad-clause application or independent nonsignatory theory is established.
+AT&T Technologies and Volt supply consent authorities; effective Allied-Bruce and Mastrobuono apply at stated scope. The [Archive item](https://archive.org/details/micro_IA40385013_0560) identifies petition, briefs and appendix. No absent broad-clause application or independent nonsignatory theory is established.
 
-Cutoff predecision 1995-05-22;modern retrieval is provenance only. Wilson/FirstOptions Archive availability verified,not complete independentPDFreading;no transcript facts inferred. Nebraska source supports leave,not hydrologic merits. Assembly checks cover votes,scope and identical kernel/publicholdings;operator term checks and Git commitment remain. This natural-key file becomes authoritative once validated and committed. No render or workspace was written here.
+Cutoff predecision 1995-05-22; modern retrieval is provenance only. Wilson/FirstOptions Archive availability verified, not complete independentPDFreading; no transcript facts inferred. Nebraska source supports leave, not hydrologic merits. Assembly checks cover votes, scope and identical kernel/publicholdings; operator term checks and Git commitment remain. This natural-key file becomes authoritative once validated and committed. No render or workspace was written here.
 
 ## Coordinated chunk validation
 

@@ -1,7 +1,7 @@
 **Case and dockets:** Brown v. Gardner, No. 93-1128.
 **Event and date:** Merits decision, 1994-12-12; October Term 1994, chunk 1.
 **Result:** Federal Circuit affirmed, 9–0; administrative eligibility redetermination continues without the invalid fault-or-accident requirement.
-**Version / lineage:** First event record; no earlier Canonical Decision Record superseded. Validated event preserved in its own file. Repository verification and Git commitment are reserved to the operator; no Git operation is claimed.
+**Version / lineage:** First event record; no earlier Canonical Decision Record superseded. Validated event preserved in its own file. Repository verification and Git commitment are reserved to the operator; no Git operation is claimed. Close-audit correction 2026-09-30 (seventh audit, F09): lower-court citation spacing only; replaces the prior typography in place without a new adjudication.
 
 ## Event and chronology
 
@@ -86,7 +86,7 @@ Stone is in the unanimous affirmance coalition and assigns the Court opinion to 
 
 ## Sources, status, and validation
 
-[Federal Circuit, 5 F.3d1456](https://static.case.law/f3d/5/html/1456-01.html) supports the posture, allegations, regulatory text and lower remand. [Historical §1151](https://www.govinfo.gov/content/pkg/USCODE-1994-title38/pdf/USCODE-1994-title38-partII-chap11-subchapVI-sec1151.pdf) supplies the full causal and coordination provisions, with relevant wording last amended in 1991. No broader consent or necessary-consequences ruling depends on unreproduced regulatory text or unestablished medical facts. No decisional quotation is supplied.
+[Federal Circuit, 5 F.3d 1456](https://static.case.law/f3d/5/html/1456-01.html) supports the posture, allegations, regulatory text and lower remand. [Historical §1151](https://www.govinfo.gov/content/pkg/USCODE-1994-title38/pdf/USCODE-1994-title38-partII-chap11-subchapVI-sec1151.pdf) supplies the full causal and coordination provisions, with relevant wording last amended in 1991. No broader consent or necessary-consequences ruling depends on unreproduced regulatory text or unestablished medical facts. No decisional quotation is supplied.
 
 Manual assembly review performed: approved-core revalidation against frozen neutral scope; each non-Stone row checked against reconciled commitments; final grounds, joins, exceptions and remedies compared; participation and assignment reviewed; public/private boundary and controlling-versus-separate distinctions reviewed. Deterministic arithmetic and eleven-block/holding-identity checks are run by this draft builder and reported in assembly_b_summary.md. These are the assembly-stage checks; the additional root event review and aggregate checks are separately identified below. No Git provenance check is claimed. Exact event research cutoff: 1994-12-12. Date-eligible public facts come from the frozen neutral source map; same-case official Reports are comparator evidence only. No later substantive authority is used. No matter-level blocker prevents this bounded decision.
 
@@ -166,4 +166,4 @@ The Federal Circuit judgment is affirmed. The existing remand for administrative
 
 ## Source Notes
 
-[Federal Circuit, 5 F.3d1456](https://static.case.law/f3d/5/html/1456-01.html) supports the posture, allegations, regulatory text and lower remand. [Historical §1151](https://www.govinfo.gov/content/pkg/USCODE-1994-title38/pdf/USCODE-1994-title38-partII-chap11-subchapVI-sec1151.pdf) supplies the full causal and coordination provisions, with relevant wording last amended in 1991. No broader consent or necessary-consequences ruling depends on unreproduced regulatory text or unestablished medical facts. No decisional quotation is supplied.
+[Federal Circuit, 5 F.3d 1456](https://static.case.law/f3d/5/html/1456-01.html) supports the posture, allegations, regulatory text and lower remand. [Historical §1151](https://www.govinfo.gov/content/pkg/USCODE-1994-title38/pdf/USCODE-1994-title38-partII-chap11-subchapVI-sec1151.pdf) supplies the full causal and coordination provisions, with relevant wording last amended in 1991. No broader consent or necessary-consequences ruling depends on unreproduced regulatory text or unestablished medical facts. No decisional quotation is supplied.
