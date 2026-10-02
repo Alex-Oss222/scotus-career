@@ -1,0 +1,3597 @@
+1 Supreme Court, 
+FILE 
+
+
+7 E 
+No. 94-6615 | OFFICE OF THE 
+
+
+us. | 
+1 
+
+
+CLERK 
+
+
+( 
+In THE 
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1994 
+
+
+CaRL THOMPSON, 
+Petitioner, 
+v. 
+
+
+PATRICK KEOHANE, Warden 
+Bruce M. BoTELHO, Attorney General, 
+State of Alaska, 
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Ninth Circuit 
+
+
+JOINT APPENDIX 
+
+
+CYNTHIA M. HORA JULIE R. O’SULLIVAN * 
+Assistant Attorney General (Appointed by this Court) 
+Office of Special Prosecutions Associate Professor of Law 
+
+
+and Appeals GEORGETOWN UNIVERSITY LAW 
+Alaska Department of Law CENTER 
+310 K Street, Suite 308 600 New Jersey Avenue, N.W. 
+Anchorage, Alaska 99501 Washington, D.C. 20009 
+(907) 269-6250 (202) 662-9394 
+Counsel for Respondent * Counsel of Record for 
+Petitioner 
+
+
+PETITION FOR CERTIORARI FILED OCTOBER 31, 1994 
+CERTIORARI GRANTED JANUARY 23, 1995 
+
+
+W 
+
+
+TABLE OF CONTENTS 
+
+
+Docket Sheet 
+
+
+Memorandum Decision of the Superior Court of the 
+State of Alaska (March 17, 1987) 
+
+
+Opinion of the Court of Appeals of the State of Alaska 
+(January 20, 1989) 
+
+
+Order of the Supreme Court of the State of Alaska 
+(May 4, 1989) 
+
+
+Initial Report and Recommendation of U.S. Magis- 
+trate Judge, United States District Court for the 
+District of Alaska (December 29, 1992) 
+
+
+Minute Order from Chambers of U.S. Magistrate Judge, 
+United States District Court for the District of 
+Alaska (September 28, 1993) 
+
+
+Order of the United States District Court for the Dis- 
+trict of Alaska (February 18, 1993) 
+
+
+Order from Chambers of the United States District 
+Court for the District of Alaska (December 7, 1993) 
+
+
+Judgment of the United States District Court for the 
+District of Alaska (December 8, 1993) 
+
+
+Minutes of the United States District Court for the 
+District of Alaska (January 11, 1994) 
+
+
+Memorandum Decision of the United States Court of 
+Appeals for the Ninth Circuit (August 11, 1994) 
+
+Excerpts from Transcript of September 15, 1986 State- 
+ment of Carl Thompson 
+
+Order of Supreme Court of the United States granting 
+certiorari and leave to proceed in forma pauperis, 
+January 23, 1995 
+
+
+RELEVANT DOCKET ENTRIES 
+
+
+Date Proceedings 
+1991 
+Apr 23 pet for writ of habeas corpus. 
+26 Motion referring case to Mag Judge Branson per 
+rule 4/5/11. 
+May 24 ORDER directing deft to show cause why writ 
+shidnt be grnted. 
+June 13 ORDER that deft have til 3/1/91 to file rspnse to 
+petition for writ of 
+Aug 1 defts response to pet for writ of hab corp. 
+Sept 03 reply brief. 
+1992 
+Feb 08 Fid MAG B MO dtd 2/3 that pitf ensl have 15 
+days to file information required by L.R.3 or show 
+cause why they shid be exerupt. 
+1993 
+Feb 18 petition DISMISSED. 
+June 17 notice of appeal. 
+23 certificate of prob. 
+23 PFld Deft’s Opp. to late filed not. of appeal and mot. 
+for prob. cause. 
+25 pltf aff of D. Dyer. 
+25 pltt aff of M. Friedman. 
+28 # Fid pitf motion to vacate judg for reconsideration 
+& time to file objs to initial R&R petition for habeas 
+corpus w/att aff. 
+30 ~=6 Fld defs opp to pitf mtn to vacate jmt, mtn for 
+
+
+recnsdratn & mtn for addit time to file objs to 
+initial R&R. 
+
+
+2 
+
+
+Date Proceedings 
+1998 
+
+
+July 19 Fid ORDER re pitf mtn to vacate jmt & allow new 
+10 day period to file objs to MJ R&R GRANTED; 
+mtn for cert of probable cause DENIED as not 
+ripe. ce cnsl, MJ Branson. 
+
+
+29 PFid pitf obj to initial R&R re dsms! of petition. 
+
+
+Sept 28 Fid MO re petitioners object to initial R/R re- 
+ferred to MJ B for a final R/R. Cy ensl. 
+
+
+Fid MJ MO that MJ declines to modify int R&R & 
+that this matter is now forwarded to trial judge. 
+ce ensl Judge Sedwick 
+
+
+Dec 8 Fid ORDER DENYING piltf’s petition at #1. cc 
+cnsl, MJ Branson. 
+
+
+09 FLD JMT dismissing petition. cy cnsl. 
+
+27 PFid Plitt's notice of appear to dkt #28. cc: cnsl, 
+27 
+
+27 
+
+
+Judge Sedwick, 9CCA. 
+Fld Pitf’s request for certificate of probable cause. 
+
+
+Fld Pitf’s request to proceed in forma pauperis. 
+
+
+1994 
+Jan 11 Fid MO petitioner request for certificate of proba- 
+ble cause is GRANTED. 
+11 FId order GRANTING pittf's motion to proceed 
+in F/P. 
+
+
+27 Fd ey 9CCA time schedule order. 94-35052. 
+
+
+3 
+
+
+IN THE SUPERIOR COURT 
+FOR THE STATE OF ALASKA 
+FOURTH JUDICIAL DISTRICT 
+
+
+No. 4FA-S86-02644 Cr. 
+
+
+STATE OF ALASKA, 
+Plaintiff, 
+V. 
+
+
+CARL K. THOMPSON, 
+Defendant. 
+
+
+MEMORANDUM DECISION 
+Defendant, Carl K. Thompson, has filed three motions. 
+
+
+1. Motion to Dismiss Count II, tampering with physi- 
+cal evidence (AS 11.56.610) 
+
+
+2. Motion to Suppress Evidence seized from residence 
+3. Motion to Suppress Statement taken Sept. 15, 1986 
+
+
+4 
+
+
+To assist in identifying the body, a press release was 
+issued describing the body and requesting assistance in 
+identifying it. 
+
+On the day of the press release, Thompson contacted 
+the Alaska State Troopers and reported that his ex-wife 
+Dixie had been missing since August 11, 1986, and she 
+fit the description of the body that had been found. 
+
+
+The defendant gave a tape-recorded statement on Sep- 
+tember 11, 1986, at which time he appeared cooperative 
+and expressed concern for the victim’s well-being. On 
+September 12, 1986, the defendant Thompson gave an- 
+other statement expressing his desire to cooperate with 
+the police in solving the murder. 
+
+Investigator Stockard of the Alaska State Troopers con 
+tacted Thompson on September 15, 1986, by telephone 
+requesting that he come to trooper headquarters to iden- 
+tify property that the police believed belonged to Dixie. 
+Thompson came to Alaska State Trooper headquarters 
+and was interviewed by Investigator Stockard and Investi- 
+gator Hard. Thompson identified the property that had 
+been recovered as belonging to Dixie and continued to 
+talk to the troopers concerning the deceased. 
+
+
+During the course of the interview, Thompson con- 
+fessed to killing Dixie. 
+
+
+Motion to Dismiss Count I Tampering with 
+Physical Evidence 
+
+
+Defendant claims that since, at the time the body was 
+thrown in the gravel pit and the knife in the dumpster 
+there was no investigation pending, he can not be con- 
+victed of tampering with physical evidence. 
+
+
+AS 11.56.610 provides in pertinent part: 
+A person commits the crime of tampering with physi- 
+cal evidence if the person (1) destroys, mutilates, 
+
+
+5 
+alters, suppresses, conceals, or removes physical evi- 
+dence with intent to impair its verity or availability 
+in an official proceeding or a criminal investigation: 
+
+
+. . « » (4) does any act described by (1), (2), or 
+(3) of this subsection with intent to prevent the in- 
+stitution of an official proceeding. 
+
+
+There is no requirement under subparagraph (4) that an 
+official proceeding be in progress. The intent required 
+is to prevent the institution of an official proceeding. 
+Williamson v. State, 692 P.2d 965, 974 (Alaska App. 
+1984). 
+
+
+Therefore, defendant's Motion to Dismiss Count II, 
+Tampering with Physical Evidence is DENIED. 
+
+
+Motion to Suppress Evidence Seized from Residence 
+
+
+Defendant has filed a motion to suppress evidence 
+seized from his residence at 15.1 Mile Chena Hot Springs 
+Road pursuant to search warrant numbered SW-237. 
+
+
+According to court documents, search warrant num- 
+bered SW-237 was never executed. Instead, a new search 
+warrant numbered SW-239 was issued. SW-239 was is- 
+sued based on the affidavit for SW-237 as well as addi- 
+tional testimony of Investigator Christopher Stockard. 
+That search warrant was served on September 15, 1986. 
+
+Since SW-237 was never executed, defendant’s Motion 
+to Suppress Evidence Seized from Residence pursuant to 
+SW-237 is DENIED. 
+
+
+Motion to Suppress Statement 
+
+
+Defendant has moved to suppress the statement which 
+was taken on September 15, 1986. In the statement he 
+admits to stabbing Dixie and disposing of her body. 
+Thompson claims that the statement should be suppressed 
+because he was not given a Miranda warning prior to the 
+interrogation. He further claims that the interrogation 
+was overbearing and the statement was a product of 
+psychological coercion, and therefore not voluntary. 
+
+
+6 
+
+
+At the time of the interrogation by Investigator Stock- 
+ard and Investigator Hard on September 15, 1986, 
+Thompson had become the focus of the investigation and 
+in fact Investigators Stockard and Hard believed he had 
+killed Dixie and disposed of her body. A search warrant 
+had been issued for Thompson's residence and truck prior 
+to his interview on the 15th. In fact, the search of 
+Thompson’s residence pursuant to the search warrant had 
+commenced prior to Investigator Stockard requesting him 
+to come to police headquarters and was still in progres® 
+during the course of the interview. 
+
+
+After the body was identified, the police briefly ques- 
+tioned Thompson on two occasions prior to September 
+15. On the 15th he was asked to come to the Alaska 
+State Troopers’ headquarters on Peger Road to identify 
+certain items believed to belong to the deceased. The 
+telephone call requesting him to come to the policy sta- 
+tion was recorded. Thompson went to the police station 
+in his own vehicle. On arrival, he was told he was free 
+to leave at any time. 
+
+
+The entire interrogation, which lasted approximately 
+two (2) hours was tape-recorded and was conducted by 
+Investigators Stockard and Hard who were dressed in 
+plain clothes with no weapons visible. On several occa- 
+sions throughout the interrogation, Thompson was as- 
+sured that he was not in custody, not under arrest and 
+could leave at any time. During the interview Thompson 
+asked questions to reassure himself that this was in fact 
+the case and in fact at the conclusion of the interroga- 
+tion, even after admitting to stabbing Dixie, he was per- 
+mitted to leave. His truck was seized at the conclusion 
+of the interview in order to be searched for evidence. 
+After the interview was over, a trooper drove him to his 
+residence. He was arrested approximately two hours later 
+pursuant to an arrest warrant which was requested by 
+Investigator Stockard based on the affidavits for the 
+search warrant for his residence and vehicle and the 
+statement made on the 1 Sth. 
+
+
+7 
+
+
+At the time of the interrogation on September 15, 
+1986, Investigator Stockard knew Thompson was await- 
+ing sentencing on a felony theft case. In the theft case 
+he was represented by retained counsel and had entered 
+a plea of no contest to the charge. Investigator Stockard 
+assumed Thompson knew he had a right to remain silent 
+and not talk to the officers. 
+
+
+During the interview, Thompson was advised that any- 
+thing Thompson told them favorable to his case would be 
+brought to the attention of the District Attorney as well 
+as the grand jury and they would investigate any leads 
+favorable to Thompson. 
+
+
+The information supplied by Thompson, namely, that 
+it was self-defense or heat of passion was furnished to 
+the District Attorney as well as the grand jury. 
+
+
+Alaska has adopted an objective, reasonable person 
+perspective as a standard for determining whether an in- 
+terviewed person is in custody. Hunter v. State, 590 
+F.2d 388, 395 (Alaska 1970). The test must be applied 
+on a case-by-case basis. Short of an actual arrest, a 
+person will be deemed “in custody” when “a reas able 
+person would feel he was not free to leave and break off 
+police questioning.” (/bid. at 895) There are a number 
+of factors to be considered in making this “in custody” 
+determination. When and where it occurred, how long 
+it lasted, how many police officers conducted the inter- 
+rogation, what was said and done, whether or not there 
+were actual physical restraints or indicia of physical re- 
+straints, and whether the defendant was being questioned 
+as a suspect or witness. The court must also consider 
+how the defendant got to the police station, whether it 
+was on his own, in response to a police request or 
+escorted by the police and whether or not he was per- 
+mitted to leave after the statement. 
+
+
+In this case, the defendant appeared in response to a 
+request by the troopers to identify certain personal items 
+
+
+of his ex-wife. The interrogation was conducted by two 
+plain-clothed police officers without any signs of weapons. 
+Thompson was assured that he was free to go at any 
+time and in fact at the conclusion of the interrogation 
+was not arrested and was driven home by Investigator 
+Hard. 
+
+
+During the course of the interview, the defendant by 
+his questioning, reaffirmed the fact that the police would 
+permit him to leave. 
+
+
+In applying the Hunter test to the facts of this case, 
+the court concludes that the defendant was not in cus- 
+tody and Miranda warnings were not required. 
+
+
+This does not end the inquiry since the defendant has 
+also asserted that his statement was not voluntary based 
+on the type of questioning and the mental coercion in- 
+volved. The court must apply a totality of circumstances 
+test in making a decision on the voluntary nature of the 
+statement. The state must show by a preponderance of 
+the evidence that confession was voluntary. Sprague v. 
+State, 590 P.2d 410, 413 (Alaska 1979). 
+
+
+From an examination of the overall circumstances of 
+the interrogation in this case, the state has met its burden 
+and the statement was in fact voluntary. Therefore, de- 
+fendant’s Motion to Suppress the statement taken on Sep- 
+tember 15, 1986, is DENIED. 
+
+
+The court has examined the statement of September 
+15, 1986, made by Thompson as viewed by an objective 
+reasonable person at the time the statement was made 
+that is, whether or not he as a reasonable person would 
+believe he was free to leave. The court has concluded 
+that Thompson as a reasonable person would feel he 
+could leave. However, in viewing the conduct of the 
+police after the statement, that is, arresting the defendant 
+by means of a warrant within two hours of the statement, 
+appears to be a devious police tactic. It would appear 
+that the police felt they could obtain a statement implicat- 
+
+
+9 
+
+
+ing the defendant by doing so, letting him return home 
+and arrest him immediately. 
+
+Under the total circumstances of this case, that fact 
+2 does not made the confession inadmissible, although 
+makes the question very close. 
+
+DATED at Fairbanks, Alaska this 17 day of March, 
+
+
+1987. 
+/s/ Jay Hodges 
+Jay HODGES 
+Superior Court Judge 
+
+
+10 
+COURT OF APPEALS OF ALASKA 
+
+
+No. A-2183 
+CaRL THOMPSON, 
+Appellant, 
+v. 
+STATE OF ALASKA, 
+Appellee. 
+
+
+Jan. 20, 1989 
+
+
+Before BRYNER, C.J., and COATS and SINGLETON, 
+JJ. 
+
+
+OPINION 
+COATS, Judge. 
+
+
+Carl Thompson was convicted, following a jury trial, 
+of one count of first-degree murder, AS 11.41.100, an 
+unclassified felony, and of one count of tampering with 
+physical evidence, AS 11.56.610, a class C felony. Judge 
+Jay Hodges sentenced Thompson to ninety-nine years on 
+the first-degree murder conviction and to a consecutive 
+five years on the tampering with physical evidence con- 
+viction. Thompson appeals his conviction and sentence. 
+
+
+We affirm Thompson’s conviction, but reverse his sen- 
+tence. 
+
+
+On September 10, 1986, two moose hunters found the 
+body of a dead woman floating in a gravel pit lake off 
+the Elliott Highway. The hunters notified the Alaska 
+State Troopers. The troopers discovered that the woman 
+
+
+11 
+
+
+been stabbed twenty-nine times. The body had been 
+2 
+in chains, a bedspread, and a tent fly. The troopers 
+advertised for information concerning the identity of the 
+body, and directed the public’s attention to a unique 
+tattoo on the body. At the urging of his girlfriend, Carl 
+called the troopers and reported that his 
+former wife fit the description of the body which they 
+had found and told the troopers that she had been miss- 
+ing since mid-August. Thompson told the troopers that 
+he had taken his former wife to the airport in mid-August 
+and that he had not seen her again. Through a dental 
+examination, the body was conclusively identified as 
+Thompson’s former wife, Dixie Thompson. 
+
+
+On September 15, 1986, the trooper investigation had 
+focused upon Carl Thompson as the person who had 
+killed Dixie Thompson. Trooper Cris Stockard contacted 
+Thompson and asked him to come to the trooper office 
+to identify some property belonging to Dixie Thompson. 
+However, Trooper Stockard’s primary reason for contact- 
+ing Thompson was to question him. Thompson went to 
+the police station and was questioned extensively by 
+Trooper Stockard. During the questioning, Trooper 
+Stockard consistently assured Thompson that he was not 
+under arrest and that he was free to go at any time. 
+Thompson ultimately confessed to killing his former wife. 
+Following his statement to the troopers, Thompson was 
+allowed to leave the trooper headquarters. However, he 
+was arrested approximately two hours later and was 
+charged with murder in the first degree. 
+
+
+While Trooper Stockard was interviewing —.— 
+at the trooper headquarters, other troopers were 
+ing a search warrant at Thompson's residence on Chena 
+Hot Springs Road. The troopers seized a handgun during 
+the search. Additionally, Luminol testing was done to 
+check for the presence of blood in the residence. The test 
+revealed a large concentration of blood in the kitchen 
+
+
+12 
+
+
+area of the residence. The troopers also seized Thomp- 
+son’s truck. The tires of Thompson’s truck were of sim- 
+ilar size and tread design to the tire impressions that the 
+
+
+troopers had found near where Dixie Thompson’s body 
+had been discovered. 
+
+
+At trial, Thompson defended on the ground that he 
+initially stabbed Dixie Thompson in self-defense. Thomp- 
+son claims that he then lost control and killed Dixie in 
+the heat of passion. Thompson asked the jury to convict 
+him of the lesser-included offense of manslaughter. The 
+jury ultimatey convicted Thompson of murder in the first 
+degree. 
+
+
+During deliberations, the jury sent a note to Judge 
+
+
+Hodges asking for clarification of Jury Instruction No. 
+14.“ The note stated: 
+
+
+Jury Instruction No. 14 stated: 
+
+
+It is a defense to Murder in the First Degree, and Murder 
+in the Second Degree involving intent to cause serious physical 
+injury OR knowing conduct, if the defendant acted in a heat 
+of passion at the time he killed Dixie Gutman Thompson 
+before there had been a reasonable opportunity for the passion 
+to cool, when the heat of passion resulted from a serious 
+provocation by the intended victim. 
+
+
+“Heat of passion” as the term is used in our law means 
+such passion as naturally would be aroused in the mind of an 
+ordinarily reasonable person in the same or similar circum- 
+stances as those in question, and such as would cause him to 
+act rashly, without reflection and deliberation, and from 
+passion rather than judgment. “Passion” or “heat of passion” 
+is a term which encompasses a broad range of intense emo- 
+tions including, but not limited to, fear, fright, terror, anger, 
+rage or wild desperation. 
+
+
+“Serious provocation” as used in these instructions means 
+conduct which is sufficient to excite an intense passion in a 
+reasonable person in the defendant’s situation, other than a 
+person who is intoxicated, under the circumstances as he rea- 
+sonably believed them to be. Insulting words, or hearsay 
+reports of conduct engaged in by the intended victim, do not 
+alone or in combination with each other, constitute serious 
+provocation. 
+
+
+13 
+
+
+We need a legal interpretation of Page 14 refer- 
+ring to “serious provocation” [sic] Can an introxi- 
+cated [sic] person use serious provocation and/or 
+Heat of Passion as a means of Defense.” 
+
+
+The judge instructed the jury as follows: 
+
+
+An intoxicated defendant can avail himself of the 
+heat of passion and serious provocation defense but 
+his conduct must be judged by how a reasonable 
+sober person in the defendant's situation would 
+react. 
+
+
+Defense counsel stipulated to that answer being given in 
+response to the jury’s question. Defense counsel, how- 
+ever, went on to argue that an additional instruction 
+should be given on diminished capacity based on intoxi- 
+cation. After hearing argument from the defense and the 
+prosecution, Judge Hodges declined giving any further 
+instruction on intoxication. 
+
+Thompson argues that it was reversible error for the 
+trial court ds refuse to instruct the jury on a defense of 
+diminished capacity based on intoxication. He suggests 
+that the instruction was mandatory and requires reversal 
+if it is “possible that [this] omission contributed to the 
+jury’s verdict[.J” Stork v. State, 559 P.2d 99, 101 
+(Alaska 1977). 
+
+
+At trial, Thompson’s defense was that he was guilty 
+only of the lesser-included offense of manslaughter be- 
+cause he acted in the heat of passion. Thompson also 
+defended on the ground that he had diminished capacity 
+to form an intent to kill based upon a mental disease or 
+defect. However, it is clear that Thompson did not as- 
+sert, prior to jury deliberation, the defense of diminished 
+capacity based upon intoxication. He argues, however, 
+that because the state contended that he was intoxicated 
+when he committed the offenses and suggested that he 
+was a mean angry drunk, such an instruction should 
+
+
+have been given. 
+
+
+14 
+
+
+Both Thompson and the state cite Des Jardins v. State, 
+551 P.2d 181 (Alaska 1976). In Des Jardins, the su- 
+preme court stated: 
+
+
+When a jury asks a judge about a matter on which 
+it has received adequate instruction, the judge may 
+in his or her discretion refuse to answer, or may 
+refer the jury to the earlier instruction. When, how- 
+ever, the jury appears to be confused about a legal 
+issue, and the resolution of the question is not ap- 
+parent from an earlier instuction, the trial judge has 
+a “responsibility to give the jury the required guid- 
+ance by a lucid statement of the relevant legal cri- 
+teria. When a jury makes explicit its difficulties, a 
+trial judge should clear them away with concrete 
+accuracy.” 
+
+
+Id. at 190 (footnote omitted). 
+
+
+In addition, Thompson cites to III Standards for Crim- 
+inal Justice § 154.3 (2d ed. 1986). However, the Com- 
+mentary to Standard 15-4.3(b) provides in part: “It is 
+generally agreed that, when giving instructions in re- 
+sponse to a jury request, the judge may confine himself 
+or herself to the particular questions asked by the jury 
+and need not give additional instructions, even though 
+
+
+requested to do so by the defendant.” Jd. (footnote 
+omitted ). 
+
+
+We conclude that Judge Hodges did not abuse his 
+discretion in refusing to instruct the jury on the defense 
+of diminished capacity due to intoxication. Thompson's 
+main defense was that he acted in the heat of passion 
+and was therefore guilty of manslaughter, rather than 
+first-degree murder. The jury question focused on this 
+defense and asked the judge whether a person who was 
+intoxicated could avail himself of heat of passion as a 
+defense. Judge Hodges’ instruction directly answered the 
+jury’s question. Thompson never argued that he was in- 
+capable of forming an intent to kill based on diminished 
+
+
+15 
+
+
+i ication. Although there was evi- 
+ae: 4. —— — had been intoxicated 
+during the events which ultimately led to Dixie Thomp- 
+son's death, neither the state nor Thompson had sug- 
+gested that Thompson was incapable of forming a spe- 
+cific intent to kill. There is no reason to believe that the 
+jury independently was focusing on this issue. Rather, 
+the jury seems to have focused on the major defense 
+which Thompson raised. We find no abuse of discretion. 
+
+
+ior to trial, Thom argued that the statement 
+which he made to — Stockard on September 15, 
+1985, should be suppressed. Thompson argued in the 
+trial court that the troopers were required to give him 
+Miranda warnings before he talked to them and con- 
+tended that his statement was not voluntary. Judge 
+found that the troopers were not required to give 
+Thompson Miranda warnings because Thompson was not 
+in custody at the time that he made the statement. He 
+also found that Thompson's statements to the troopers 
+were voluntary. 
+
+
+In Hunter v. State, 590 P.2d 888 ge a tg the 
+supreme court held that the police were required to give 
+a person Miranda warnings where he was subject to cus- 
+todial interrogation. The court adopted an objective rea- 
+sonable person test for determining whether a suspect 
+was in custody. /d. at 895. The court asked: 
+
+
+At least three groups of facts would be relevant 
+to this determination. The first are those facts in- 
+trinsic to the interrogation: when and —— it oc- 
+
+how it lasted, how many police were 
+—— 2 officers and defendants said and 
+did, the presence of actual physical restraint on the 
+defendant or things equivalent to actual restraint 
+such as drawn weapons or a guard stationed at the 
+door, and whether che defendant was being ques- 
+tioned as a suspect or as a witness. Facts pertain- 
+ing to events before the interrogation are also rele- 
+
+
+16 
+
+
+vant, especially how the defendant got to the place 
+of questioning—whether he came completely on his 
+own, in response to a police request, or escorted by 
+police officers. Finally, what happened after the in- 
+terrogation—wheth:r the defendant left freely, was 
+detained or arrested—may assist the court in de- 
+termining whether the defendant, as a reasonable 
+person, would have felt free to break off the ques- 
+tioning. 
+
+Id. at 895 (footnotes omitted). See also Quick v. State, 
+
+
+599 P.2d 712 (Alaska 1979); Lowry v. State, 707 P 
+280 (Alaska App. 1985). * 
+
+
+In arguing that Judge Hodges erred in finding that the 
+
+e were not required to give Thompson Miranda 
+warnings, Thompson does not really argue that he was in 
+custody when the interview occurred. He concedes that 
+Ihe] may or may not have been in a custodial setting 
+at the time he was interrogated.” Instead, Thompson 
+argues that the police intentionally interrogated him in 
+
+
+such a way as to circumvent the requirements of 
+
+
+that Judge Hodges applied the correct test under Hunter. 
+As we have pointed out earlier, Thompson does not really 
+
+
+7 
+i 
+. 
+e 
+: 
+. 
+f. 
+
+
+ard warned Thompson that if he did not say anything. 
+the district attorney might conclude that Thompson had 
+committed murder in the first degree. Trooper Stockard 
+
+
+lesser charge, such as negligent homicide, and would be 
+facing a minimal sentence such as two to five years. 
+
+
+In his brief, Thompson sets out the correct legal stand- 
+ard for reviewing the voluntariness of confessions: The 
+Supreme Court has consistently made clear that the test 
+of voluntariness is whether an examination of all the 
+circumstances discloses that the conduct of law enforce- 
+ment was such as to overbear [the defendant's] will to 
+resist and bring about confessions not freely self deter- 
+
+
+18 
+
+
+mined.” Stobaugh v. State, 614, P.2d 767, 772 (Alaska 
+1980) (quoting United States v. Ferrara, 377 F.2d 16, 
+17 (2nd Cir.1967) ). 
+
+
+In Sprague v. State, 590 P.2d 410 (Alaska 1979), 
+the Alaska Supreme Court articulated a test for deter- 
+mining whether a confession was voluntary or involun- 
+tary. The court held that “[{iJn determining whether a 
+confession is voluntary or is the ‘product of a mind over- 
+borne by coercion,’ this court has previously stated that it 
+will consider the ‘totality of circumstances surrounding 
+the confession’ and conduct an independent review of the 
+record.” Jd. at 413 (footnote omitted). In considering 
+the totality of the circumstances, the following are rele- 
+vant criteria: (1) age, mentality, and prior criminal ex- 
+perience; (2) length, intensity, and frequency of interro- 
+gation; (3) the existence of physical deprivation or mis- 
+r (4) the existence of threat or inducement. 
+
+At . 
+
+
+In Harris v. State, 678 P.2d 397 (Alaska App.1984), 
+rev'd on other grounds, Stephen v. State, 711 P.2d 1156 
+„ court dealt with the issue of induce- 
+ment. police told Harris that if he cooperated with 
+them by telling the truth, his cooperation would be 
+brought to the attention of the prosecutor. This court 
+concluded that such “inducement is not improper as long 
+as, under the totality of the circumstances, the defend- 
+ant's confession is voluntary.” Id. at 405-06. See also 
+Plant v. State, 724 P.2d 536, 541 (Alaska App. 1986) 
+(defendant’s confession voluntary and will not over- 
+borne even though defendant was told by police that he 
+was in a lot of trouble and that he might benefit from 
+cooperation) 
+
+Thompson was twenty-nine years old at the time he 
+made the confession. Thompson argues that he dropped 
+out of high school and that he was “borderline retarded.” 
+However, Dr. Feldman, the psychologist and defense 
+witness who testified about Thompson’s retardation, 
+actually testified that he believed that Thompson was of 
+
+
+19 
+
+
+low average intelligence. Dr. Feldman testified that 
+
+s scores on the intelligence tests were inac- 
+curate on the low side because of the circumstances under 
+which the tests were given. 
+
+Thompson has had “prior criminal experience.” He 
+was convicted of minor in possession in 1975; receiving 
+or concealing stolen property in 1976; disorderly conduct 
+in May 1986; and second-degree theft in October 1986. 
+Thompson was dealing with the police on the theft of- 
+fense prior to his interrogation. 
+
+went voluntarily to the police station at the 
+request of the troopers. He was not advised of his 
+Miranda rights. He was, however, advised several times 
+that he was free to leave during the interview, prior to 
+his confessing. The interview lasted about two hours. 
+He was interviewed by two troopers in a small interview 
+room. Neither trooper was in uniform, nor were guns 
+displayed. 
+
+The statements which the police made to Thompson 
+to encourage him to talk to them appear to be similar 
+to the inducements which we concluded were not im- 
+proper in Harris and in Plant. We conclude that the 
+inducements which the police made to Thompson were 
+not “such as to overbear [the defendant's] will to resist 
+and bring about confessions not freely self-determined.” 
+We conclude that Thompson’s confession was voluntary. 
+
+
+During the trial, the state played the portion of 
+Thompson’s statement where he admitted killing his 
+former wife. Thompson asked to have the entire state- 
+ment played to the jury. Judge Hodges concluded that 
+the portion of the statement that was played was a fair 
+assessment of what occurred and ruled against playing 
+the first portion of the tape. Thompson points to Alaska 
+Evidence Rule 106, which states: 
+
+
+20 
+
+
+Remainder of, or Related Writings or Recorded 
+Statements. 
+
+
+When a writing or recorded statement or part 
+thereof is introduced by a party, an adverse party 
+may require him at that time to introduce any other 
+part or any other writing or recorded statement 
+which ought in fairness to be considered contem- 
+poraneously with it. 
+
+The decision whether to admit or to exclude evidence 
+under A.R.E. 106 is reviewed under an abuse of discre- 
+tion standard. Stumpf v. State, 749 P.2d 880, 899 
+(Alaska App.1988). In Stumpf, we held that: 
+
+
+[W]hen the state . . presents one part of a conver- 
+sation or statement . . . , the defendant may be en- 
+titled to offer or require the state to offer, the rest 
+of the statement or conversation in order to set the 
+context for statements already in evidence. None- 
+theless, the admitted portions of the statements need 
+not be admitted if they are not relevant to explain 
+or clarify the previously admitted statement. 
+
+
+Id. (citation omitted ). 
+
+
+The statement which Thompson wished to admit in its 
+entirety was an approximate two-hour interview. Much 
+of that interview consisted of Trooper Stockard talking 
+to Thompson. Under these circumstances, we conclude 
+that Judge Hodges did not abuse his discretion in deter- 
+mining that, on direct examination, the state could intro- 
+duce only the part of the statement where Thompson 
+admitted killing his former wife. Judge Hodges indicated 
+that he might or might not permit certain portions of the 
+statement to be played to the jury during cross- 
+examination. Thompson has not pointed out to us spe- 
+cific portions of the tape which he was not permitted to 
+play to the jury either for purposes of cross-examination 
+or as evidence during his case-in-chief. We conclude that 
+Judge Hodges did not err in limiting the portion of the 
+
+
+21 
+
+
+tape which was played to the jury during the state’s case- 
+
+
+next contends that his sentence was exces- 
+* was convicted of murder in the first 
+degree, which is an unclassified felony with a — ＋ 
+penalty of ninety-nine years and a minimum penalty — 
+twenty years. He was also convicted of tampering wit! 
+physical evidence, which is a class C felony with a maxi. 
+mum penalty of five years. Judge Hodges sentenced 
+to the maximum sentence on both convictions, 
+and imposed those sentences consecutive to each other. 
+Thus, Thompson has a composite sentence of one hun- 
+dred and four years. 
+
+
+At the time of sentencing, Thompson was thirty years 
+old. Thompson had previously been convicted of four 
+minor misdemeanor offenses. Thompson was not sen- 
+tenced to imprisonment on any of the misdemeanor of- 
+fenses. At the time that he committed the present of- 
+fense, Thompson was charged with theft in the second 
+degree, a class C felony, AS 11.46.130(a) (1). Thomp- 
+son was ultimately sentenced to three years with two and 
+one-half years suspended on the theft offense. In sen- 
+tencing Thompson, Judge Hodges concluded that Thomp- 
+son might not be a worst offender because he did not 
+have a long history of criminal involvement. However, 
+he classified the murder itself as a worst offense. He 
+emphasized the explosive relationship that existed be- 
+tween Carl and Dixie Thompson throughout the course 
+of their relationship. 
+
+Hodges indicated that there was evidence that 
+4 a at least involved with the use of drugs 
+for his personal use and that a possible motive for the 
+killing may have been that Thompson was concerned 
+that Dixie Thompson might inform on him. Judge 
+Hodges indicated that he had difficulty Lelieving Thomp- 
+son’s version that he acted either in self-defense or in 
+the heat of passion because Thompson’s version of the 
+
+
+22 
+
+
+offense did not match the physical evidence. In con- 
+cluding that this was a particularly aggravated murder 
+offense, Judge Hodges pointed out that Thompson had 
+Stabbed his former wife twenty-nine times. Thompson 
+then disposed of the body by taking it to a gravel pit 
+
+
+in an isolated area and wrapping the body with canvas 
+and chains. 
+
+
+We conclude that Judge Hodges was not Clearly mis- 
+taken in imposing the maximum sentence of ninety-nine 
+years for murder in the first degree. In Riley v. State, 
+720 P.2d 951, 952 (Alaska App.1986), we pointed out 
+that we were not aware of any decision of this court or 
+the Alaska Supreme Court which held that a maximum 
+sentence for murder in the first degree was excessive. In 
+Riley, we pointed out that under the present first-degree 
+murder statute, many cases which would have been 
+second-degree murder under the former statutes were now 
+included as murder in the first degree. We stated that 
+lim such cases, sentence appeals dealing with second- 
+degree murder convictions under prior law may well pro- 
+vide an appropriate point of reference.” Id. at 952 n. 1. 
+In the instant case, however, we believe that the reasons 
+which Judge Hodges gave were sufficient to justify im- 
+position of the maximum sentence. 
+
+
+We do not believe, however, that the record supports 
+imposing the sentence for tampering with evidence con- 
+secutively to the ninety-nine-year murder sentence. In 
+order to justify imposing a sentence consecutive to the 
+ninety-nine-year murder sentence, the trial court would 
+have to find that confinement of the defendant for the 
+aggregate period of the consecutive sentence was neces- 
+sary to protect the public. Mutschler v. State, 560 P.2d 
+377 (Alaska 1977).? We do not believe that a sentence 
+
+
+In State v. Andrews, 707 P.2d 900, 908, 910 (Alaska App.1985), 
+aff'd per curiam, 728 P.2d 85 (Alaska 1986), we concluded that AS 
+12.55.025(e) established a legislative preference for consecutive 
+sentences. In Jones v. State, 744 P.2d 410, 411 (Alaska App.1987), 
+
+
+23 
+
+
+of ninety-nine years can be justified except 
+ee Os trial — finds that in order to protect the 
+public the defendant must — - — 3 4 
+
+without an ity . 0. 
+Nukapigak v. 2 663 P. 2d 943 (Alasaka 1983); 
+Hasting v. State, 736 P. 2d 1157 (Alaska App. 1987). 
+Where the record did not support this finding, we have 
+previously not approved sentences in excess of the ninety- 
+nine-year maximum term for murder. Ridgley v. State, 
+739 P.2d 1299 (Alaska App.1987); Page v. State, 657 
+P.2d 850 (Alaska App.1983). 
+
+
+es did not find that it was necessary to 
+aa — to spend the rest of his life in prison 
+without any possibility of parole to adequately protect 
+the public. We do not believe that the record in this 
+case would support such à finding. We do not believe 
+that the record supports the conclusion that Thompson 
+must be incarcerated for the remainder of his life with- 
+out any possibility of parole. We accordingly conclude 
+that the trial court should not have imposed the sentence 
+for tampering with physical evidence consecutively to the 
+ninety-nine-year sentence for murder. We therefore find 
+Thompson’s sentence to be clearly mistaken. We order 
+the trial court to impose Thompson’s sentence for tam- 
+pering with evidence concurrent to his sentence for 
+murder. 
+
+
+The conviction is AFFIRMED. The sentence is VA- 
+CATED and the case is REMANDED for resentencing 
+consistent with this opinion. 
+
+
+we indicated that the legislative preference for consecutive sen- 
+tences must be interpreted to expand the situations where the 
+court may impose consecutive sentences. In Jones, we upheld * 
+trial judge’s conclusion that Jones’ offenses were so serious * 
+consecutive sentence was necessary to reflect the seriousness of the 
+crime. Jones, 744 P. 2d at 412. However, we do not believe that 
+the record in this case establishes any substantial reason for 
+imposing a sentence greater than the ninety-nine year maximum 
+sentence for first-degree murder. 
+
+
+Supreme Court No. $-3200 
+
+
+CaRL THOMPSON, 
+Petitioner, 
+
+
+V. 
+
+
+STATE OF ALASKA, 
+Respondent. 
+
+
+Court of Appeals No. A-2183 
+Trial Court No. 4FA 86-2644 Cr. 
+
+
+Before: Matthews, Chief Justice, Rabinowitz, Burke 
+and Compton, Justices. [Moore, Justice, not 
+
+
+participating. | 
+ORDER 
+On consideration of the petition for hearing, filed on 
+March 6, 1989, and the response to the petition, lodged 
+
+
+on March 28, 1989 and filed pursuant to the order of 
+March 31, 1989, 
+
+
+IT IS ORDERED: 
+The petition for hearing is denied. 
+Entered by direction of the court at Anchorage, Alaska 
+on May 4, 1989. 
+/s/ David A. Lampen 
+
+
+Davip A. LAMPEN 
+Clerk of the Supreme Court 
+
+
+25 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF ALASKA 
+
+
+Case No. A91-171 Civil 
+
+
+CARL THOMPSON, 
+
+
+0 Petitioner, 
+
+
+JOSEPH CLASS, et al., 
+Defendants. 
+
+
+INITIAL REPORT AND RECOMMENDATION 
+RE: PETITION FOR HABEAS CORPUS 
+
+
+Carl Thompson, presently serving a life sentence for 
+first degree murder following a conviction in an Alaska 
+state court, has filed a habeas corpus petition under 28 
+U.S.C. § 2254 in which he claims his Constitutional rights 
+to due process and against self-incrimination were violated 
+when his involuntary confession was admitted at trial 
+during the prosecution’s case-in-chief. This Court, having 
+reviewed the petition, the memorandum in support thereof, 
+and exhibits attached thereto, including a transcript of 
+petitioner’s statements to the police, the state’s response 
+thereto and petitioner’s reply, and having heard argument 
+thereon, now makes its Report and Recommendation. 
+
+
+FINDINGS OF FACT 
+
+
+1. In 1987, in the Alaska Superior Court in Fair- 
+banks, Alaska, petitioner was convicted by a jury on one 
+count of first-degree murder and one count of tampering 
+with physical evidence. He was subsequently sentenced 
+to ninety-nine years on the first-degree murder conviction 
+and an additional five years on the tampering charge to 
+be served consecutively. The Alaska Court of Appeals 
+affirmed the convictions, found the consecutive five year 
+
+
+26 
+
+
+sentence for tampering to be excessive and remanded for 
+resentencing. On remand, the trial court resentenced peti- 
+tioner to a term of 99 years. 
+
+
+2. Petitioner moved to suppress the tape recorded con- 
+fession he made to two Alaska State Troopers before trial 
+on the grounds that the interrogation violated his fifth 
+amendment Miranda rights; and that his resulting confes- 
+sion was involuntary. The motion was denied. At trial, 
+during the prosecution’s case-in-chief, a portion of the 
+tape recorded confession in which he admitted stabbing 
+his ex-wife was played to the jury. 
+
+3. Petitioner has exhausted his available state court 
+remedies. 
+
+
+4. On September 10, 1986, the body of a woman was 
+found floating in a lake off the Elliott Highway by two 
+moose hunters. The woman had been severely beaten and 
+stabbed a total of twenty-nine times. She was clad only 
+in a T shirt and wrapped in chains, a bedspread and tent 
+fly. There was a heart-shaped tatoo with the name Carl“ 
+over her left chest. After the Alaska State Troopers 
+advertised for information concerning the identity of the 
+body, Carl Thompson telephoned the troopers and re- 
+ported that the description fit his former wife who had 
+been missing since that August. A subsequent dental 
+examination conclusively identified the body as Thomp- 
+
+
+son’s former wife, Dixie 
+
+
+5. On September 15, 1986, after questioning Thomp- 
+son’s brother-in-law and another witness, the Alaska State 
+Troopers’ investigation focused on Thompson as the most 
+likely person to have killed Dixie Thompson. 
+
+
+6. Intending to question Thompson about the murder, 
+Trooper Stockard contacted him and asked him to come 
+in to the trooper headquarters on the pretext of identify- 
+ing a coat, some jewelry boxes and jewelry that might 
+have belonged to his former wife. Once Thompson ar- 
+rived at the office, Stockard and another trooper interro- 
+gated Thompson for approximately one hour and 16 min- 
+
+
+27 
+
+
+utes. During the questioning, Stockard repeatedly in- 
+formed Thompson that he was not under arrest, that he 
+was free to leave at any time, and that he would he would 
+be able to leave when the questioning ended. 
+
+
+7. During the interrogation, the troopers told Thomp- 
+son that they believed he had killed his former wife and 
+urged him to help them get at the truth. Stockard told 
+Thompson to tell his side of the story so that they could 
+present that version to the District Attorney. Otherwise, 
+he warned Thompson that the prosecutor might conclude 
+that killing of Dixie Thompson was first-degree murder. 
+Stockard suggested that if Thompson explained his part 
+in the slaying, it was possible that he might only be guilty 
+of a lesser charge such as manslaughter or negligent 
+homicide; and would be facing a minimal sentence such 
+as two to five years, as opposed to a ninety-nine year sen- 
+tence for first-degree murder. 
+
+
+8. After several lengthy statements by the troopers in 
+which they informed Thompson that they didn’t think the 
+killing was first-degree murder, and guaranteed him that 
+they weren’t going to arrest him in the office and that he 
+would be permitted to leave, Thompson abandoned his 
+original story and admitted killing his ex-wife. In so 
+doing, he asserted that he initially stabbed her in self 
+defense and then lost control and continued to stab her 
+in the heat of passion. 
+
+
+9. Once the interrogation was concluded, Thompson 
+was permitted to leave the trooper headquarters, as prom- 
+ised. He was arrested approximately two hours later and 
+charged with first degree murder. 
+
+
+10. At no time during the interrogation did the troop- 
+ers advise Johnson of his Miranda rights. 
+
+
+DISCUSSION 
+
+
+This petition raises two questions. First, was Thomp- 
+son’s confession obtained in violation of his 5th Amend- 
+ment right against self-incrimination? Second, were his 
+
+
+28 
+
+
+statements involuntary? For the reasons given herein, the 
+answer to both questions should be in the negative. 
+
+
+Thompson was neither in custody nor deprived of his 
+rights in any significant way during the interrogation. He 
+was repeatedly told that he was not under arrest and that 
+he could leave anytime. Trooper Stockard even guaran- 
+teed that he would be free to leave at the end of the 
+questioning. In fact, when the questioning was finished 
+and he had admitted killing his wife, he was allowed 
+to go. 
+
+
+The trial judge found that Thompson was not in cus- 
+tody for Miranda purposes. The Alaska Court of Appeals 
+affirmed his decision. (Thompson v. State, 768 P.2d at 
+130-31). This finding is presumptively correct. See 28 
+U.S.C. § 2254(d). 
+
+
+The United States Supreme Court has held that a per- 
+son who is a suspect is not in custody for Miranda pur- 
+poses unless there has been some actual indication of 
+custody that would make a reasonable, innocent person 
+feel that he was not free to break off the questioning and 
+leave. See Minnesota v. Murphy, 465 U.S. 420, 431, 104 
+S.C. 1136, 1144, 79 L.Ed.2d 409 (1984); California v. 
+Beheler, 463 U.1S. 1121, 1124, 103 S.Ct. 3517, 3519-20, 
+77 L.1Ed.2d 1275 (1983). The Supreme Court has 
+adopted an objective, “reasonable man” test for deciding 
+whether a person is in custody or otherwise subject to 
+restraints comparable to those associated with formal 
+arrest. See Berkemer v. McCarty, 468 U.S. 420, 441, 
+442, 104 S.Ct. 3138, 3150, 3151, 82 L.Ed.2d 317 
+(1984). 
+
+
+In determining whether someone is in custody, the trial 
+court must consider the totality of the circumstances and 
+then decide whether a reasonable person would have 
+believed that he or she was not free to leave. United 
+States v. Pinion, 800 F.2d 976, 978-79 (9th Cir. 1986), 
+cert. denied, 480 U.S. 936, 107 S.t. 1580, 94 L.Ed.2d 
+770 (1987). Relevant factors to be considered are: (1) 
+
+
+with evidence of his guilt; (3) the physical surroundings 
+of the interview; (4) its duration; and, (5) the degree of 
+pressure applied to detain the individual. United States 
+v. Wauneka, 770 F.2d 1434, 1438 (9th Cir. 1985). 
+
+
+Here, there is no indication language was used by 
+trooper Stockard that would imply to Thompson that he 
+should expect to be arrested when he came into the office. 
+During the interrogation, he was confronted with some 
+evidence implying his involvement in his ex-wife's killing 
+(e.g. tire tracks at the scene where the body was found 
+similar if not identical to the tire patterns on his vehicle). 
+although this information did not appear to be sufficient 
+by itself to encourage him to change his story. 
+
+
+The interview took place On September 15, 1986 in 
+the troopers’ offices. It began at 10:58 a.m. and ended at 
+12:14 p.m. Thompson was not physically restrained in 
+
+
+leave. He was per- 
+lowing the interrogation. The location, 
+
+
+them a scenario in which he appeared to be innocent 
+
+his ex-wife’s death. Tis Gennes Bnd — 
+the Principal suspect in her killing, although this, by itself, 
+is insufficient to require Miranda warnings. Minnesota v. 
+Murphy, 465 U.S. 420, 431, 104 S.Ct. 1136, 1144, 79 
+
+
+30 
+
+
+L.Ed.2d 409 . They obviously wanted him to 
+implicate himself; and, employed — interrogation 
+
+
+that he was free to leave at any time he wanted. 
+
+
+Both the trial judge and the state appellate court care- 
+fully considered the totality of circumstances surrounding 
+this issue. They applied an objective, reasonable person 
+test, finding that Thompson was not in custody at the 
+time of his interrogation and, therefore, the troopers were 
+not required to give him his Miranda warnings. The rec- 
+ord amply supports this finding. 
+
+Thompson alleges that his confession was coerced by 
+
+
+the troopers’ promise to bring his version of the facts to 
+the attention of the district attorney, and their statements 
+
+
+implying to him that they believed he might be charged 
+
+
+will and bring about a confession that was not voluntary. 
+Thompson v. State, 768 P.2d at 131-32. The record sup- 
+ports this finding. 
+
+
+31 
+
+
+RECOMMENDATION 
+
+
+Based upon the foregoing, it is hereby recommended 
+that this petition be DENIED. 
+
+
+DATED this 29th of December, 1992. 
+
+
+/s/ Harry Branson 
+HARRY BRANSON 
+
+
+U.S. Magistrate Judge 
+
+
+32 
+
+
+MINUTES OF THE 
+UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF ALASKA 
+
+
+Case No. A91-171 CIV. 
+CARL THOMPSON 
+V. 
+
+
+JosePH CLASS, et al. 
+
+
+THE HONORABLE Harry Branson, U.S. Magistrate 
+Deputy Clerk/Recorder: Ellaine Wheeler 
+
+
+MINUTE ORDER FROM CHAMBERS 
+
+
+33 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF ALASKA 
+
+
+Case No. A91-171-CIVIL 
+
+
+CARL THOMPSON, 
+Petitioner, 
+V. 
+
+
+Jos pH CLASS, et al., 
+Defendants. 
+
+
+ORDER 
+
+
+Petitioner, who was convicted of first degree murder 
+and tampering with physical evidence, seeks a writ of 
+habeas corpus challenging his conviction. Petitioner raises 
+two issues: that certain incriminating statements were 
+obtained in violation of his Miranda rights; and that the 
+statements were involuntary. Parties dispute whether the 
+petitioner was actually in custody when he made the 
+statements. Petitioner has exhausted his state remedies as 
+to these issues. Petitioner is represented by counsel, who 
+has briefed and argued the matter before Magistrate 
+Judge Branson. Magistrate Judge Branson has made 
+findings of facts, conclusions of law, and recommends 
+that the petition be denied. Neither party objected to 
+Magistrate Judge Branson’s recommendations. After a 
+thorough and independent review of the record, I agree 
+with Magistrate Judge Branson’s finding of facts, con- 
+clusions of law, and recommendation. See United States 
+v. Remsing, 874 F.2d 614 (9th Cir. 1989). 
+
+
+IT IS THEREFORE ORDERED THAT: 
+
+
+For the reasons stated in the report and recommenda- 
+tion, this petition is DISMISSED. 
+
+
+DATED the 18th day of February, 1992, at Anchor- 
+
+
+age, Alaska. 
+
+
+34 
+
+
+/s/ John W. Sedwick 
+JohN W. SEDWICK 
+United States District Judge 
+
+
+35 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF ALASKA 
+
+
+Case No. A91-171-CIV (JWS) 
+
+
+CARL THOMPSON, 
+Petitioner, 
+V. 
+
+
+JosEPH CLASS, et al., 
+Defendants. 
+
+
+ORDER FROM CHAMBERS 
+
+
+BACKGROUND 
+
+
+On December 29, 1992, Magistrate Judge Branson 
+recommended that Carl Thompson’s petition for a writ 
+of habeas corpus be denied. Thereafter, following an 
+independent review, this court concluded that the recom- 
+mendation was correct and denied the petition on Febru- 
+ary 18, 1993. Petitioner then filed a motion to vacate 
+judgment and to allow a new ten-day period in order to 
+file objections to Magistrate Judge Branson’s report and 
+recommendation. This court granted the motion on July 
+19, 1993. Petitioner then filed timely objections. Follow- 
+ing a review of the those objections, Magistrate Judge 
+Branson certified his initial report and recommendation 
+as final." The matter is now referred back to this court 
+for consideration. 
+
+
+Magistrate Judge Branson’s only revision involved a typing 
+error. In the initial report and recommendation, petitioner Thomp- 
+son was referred to in one instance as “Johnson.” 
+
+
+36 
+
+
+Petitioner Carl Thompson was convicted of first degree 
+murder and tampering with physical evidence. He raises 
+two issues in his petition: that certain incriminating 
+Statements were obtained in violation of his Miranda 
+rights; and that the statements were involuntary. Peti- 
+tioner argues that he was actually in custody when he 
+made the statements. Petitioner has exhausted his state 
+remedies as to these issues. 
+
+
+In his initial and final report and recommendation, 
+Magistrate Judge Branson has made findings of facts, 
+conclusions of law, and recommends that the petition be 
+denied. After a thorough and independent review of the 
+record, with two exceptions to the findings of fact, the 
+court agrees with the Magistrate Judge’s recommendation. 
+See United States v. Remsing, 874 F.2d 614, 618 (9th 
+Cir. 1989). 
+
+DISCUSSION 
+
+
+I. Was Mr. Thompson In Custody For Miranda Pur- 
+poses? 
+
+
+Petitioner objects to the Magistrate Judge’s finding of 
+fact thet Mr. Thompson’s questioning lasted approxi- 
+mately one hour and sixteen minutes. The transcript of 
+Mr. Thompson’s questioning reveals that it lasted from 
+10:58 a.m. until 12:54 p.m. See Docket no. 1, Exhibit 
+F. Therefore, as petitioner contends, the questioning 
+lasted for at least one hour and fifty-six minutes. 
+
+
+Petiitoner also objects to the Magistrate Judge’s im- 
+plicit finding of fact that Mr. Thompson’s keys were only 
+taken from him after he made his confession. In the 
+evidence before the court, it cannot be conclusively deter- 
+mined when, precisely, Mr. Thompson’s keys were taken 
+from him. Nevertheless, the evidence shows that Mr. 
+Thompson was repeatedly informed that he was free to 
+leave at any time. See Docket no. 1, Exhibit F, at 27, 
+49-50, 81, 84-86. Moreover, the Alaska Court of Appeals 
+also found that, at numerous times, Mr. Thompson told 
+he was free to leave. See Docket no. 1, Exhibit A, at 8. 
+
+
+37 
+
+
+The fact that the questioning lasted almost two hours, 
+rather than one and one-quarter hour, however, is insuffi- 
+cient, on its own, to reverse the state courts’ determina- 
+tion that Mr. Thompson was not in custody for Miranda 
+purposes. Federal courts considering habeas corpus peti- 
+tions give deference to the state court;s factual findings. 
+28 U.S.C. § 2254(d). The state court’s factual determi- 
+nation that Thompson was not in custody is, thus, pre- 
+sumptively correct. See Marshall v. Lonberger, 459 U.S. 
+422, 431-32 (1983); see also Dres. v. Campoy, 784 F.2d 
+996, 998 (9th cir. 1986) (state court findings of fact 
+are presumed correct in habeas corpus proceedings). Ac- 
+cordingly, this court agrees with the Magistrate Judge’s 
+recommendation that Mr. Thompson’s petition should be 
+denied. 
+
+
+IT IS THEREFORE ORDERED THAT: 
+
+
+For the reasons stated above, this petition (Docket no. 
+1) is DENIED. 
+
+
+DATED the 7th day of December, 1993, at Anchor- 
+age, Alaska. 
+
+
+/s/ John W. Sedwick 
+JohN W. SEDWICK 
+United States District Judge 
+
+
+38 
+
+
+UNITED STATES DISTRICT COURT 
+DISTRICT OF ALASKA 
+
+
+Case Number: A91-171CIV (JWS) 
+
+
+CARL THOMPSON 
+v. 
+JOSEPH CLASS, et al. 
+
+
+JUDGMENT IN A CIVIL CASE 
+
+
+Jury Verdict. This action came before the Court for 
+a trial by jury. The issues have been tried and the 
+jury has rendered its verdict. 
+
+
+D Decision by Court. This action came to trial or hear- 
+ing before the Court. The issues have been tried or 
+heard and a decision has been rendered. 
+
+
+IT IS ORDERED AND ADJUDGED 
+
+
+THAT the petitioner’s, Carl Thompson, petition for 
+Writ of Habeas Corpus is DENIED. 
+
+
+APPROVED: 
+/s/ John W. Sedwick 
+
+US. District Court Judge 
+Date 8 December 93 
+
+
+/s/ [Ilegible] 
+Clerk 
+12/9/93 
+
+
+/s/ [Illegible] 
+(By) Deputy Clerk 
+
+
+39 
+
+
+MINUTES OF THE 
+UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF ALASKA 
+
+
+Case No. A91-171 CV (JWS) 
+CARL THOMPSON 
+V. 
+
+
+JOSEPH CLASS, et al. 
+
+
+THE HONORABLE JOHN W. SEDWICK 
+Deputy Clerk Pam Richter 
+
+
+ORDER FROM CHAMBERS 
+
+
+Petitioner’s motion for a certificate of probable cause 
+is hereby GRANTED. 
+
+
+[Filed Jan. 11, 1994] 
+
+
+DATE: January 11, 1994 INITIALS: prr 
+Deputy Clerk 
+
+
+40 
+
+
+IN THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+C.A. No. 94-35052 
+D.C. No. CV-91-00171-JWS 
+
+
+CARL THOMPSON, 
+Petitioner-A ppellant, 
+
+
+V. 
+
+
+PATRICK KEOHANE, Warden; CHARLES E. CoLR, 
+Attorney General, State of Alaska, 
+Respondent-A ppellee. 
+
+
+Appeal from the United States District Court 
+for the District of Alaska 
+
+
+John W. Sedwick, District Judge, Presiding 
+
+
+Argued and Submitted August 5, 1994 
+Anchorage, Alaska 
+
+
+BEFORE: PREGERSON, CANBY and BOOCH- 
+EVER, Circuit Judges 
+
+
+MEMORANDUM * 
+
+
+Carl Thompson appeals the district court's denial of 
+his petition for writ of habeas corpus. Thompson alleges 
+
+
+* This disposition is not appropriate for publication and may 
+
+
+not be cited to or by the courts of this circuit except as provided 
+by Ninth Cir. R. 36-3. 5 
+
+
+41 
+
+
+that his incarceration violates the Constitution because 
+the state trial court admitted statements that Thompson 
+argues were obtained in violation of his Miranda rights 
+and a confession that he argues was involuntary. We 
+affirm. 
+
+I. 
+
+
+We recently have held that a state court's determina- 
+tion that a defendant was not in custody for purposes of 
+Miranda is a question of fact entitled to the presumption 
+of correctness under 28 U.S.C. § 2254 (d). Krantz v. 
+Briggs, 983 F.2d 961, 961-64 (9th Cir. 1993). Thomp- 
+son has not shown, and it does not otherwise appear, 
+that any of the exceptions to the presumption, see 28 
+U.S.C. § 2254(d)(1)-(8) (1988), apply in this case. 
+Accordingly, we may only disturb the state court’s factual 
+determination if it lacks even fair support in the record. 
+Krantz at 964. 
+
+
+We have reviewed the entire transcript of Thompson’s 
+interrogation. Thompson voluntarily appeared at the 
+trooper headquarters. During the interrogation, the 
+troopers assured him several times that he was free to 
+terminate the interview and leave. Indeed, even after he 
+confessed, Thompson was permitted to leave when the 
+interview was complete. “Fair support” exists for the 
+state court’s determination that Thompson was not in 
+custody for Miranda purposes. See id. at 963 (test for 
+determining custody is whether, based upon a review of 
+all the pertinent facts, a reasonable innocent person in 
+such circumstances would conclude that they were not 
+free to leave). 
+
+
+1 This standard requires that we “more than simply disagree 
+with the state court.” Krantz, 983 F.2d at 964. Accordingly, 
+Thompson's attempts to analogize the circumstances of his inter- 
+rogation to the circumstances of cases in which this court has held 
+that a federal defendant was in custody for purposes of Miranda 
+are unavailing. 
+
+
+42 
+
+
+II. 
+
+
+We review de novo the question whether, considering 
+the totality of the circumstances, Thompson’s will was 
+overborne through psychological pressure rendering his 
+confession involuntary. See Miller v. Fenton, 474 U.S. 
+104, 110 (1985). We have independently evaluated the 
+transcript of Thompson’s interrogation and concluded 
+that, the cumulative effect of those tactics did not over- 
+bear Thompson’s will. 
+
+
+AFFIRMED. 
+
+
+43 
+
+
+EXCERPTS OF TRANSCRIPT OF 
+SEPTEMBER 15, 1986— 
+
+
+STATEMENT OF CARL THOMPSON 
+
+
+PROCEEDINGS 
+
+
+I SGT. STOCKTON: The time is time 10:58 a.m. 
+and the date is September 15, 1985 (sic). This is Ser- 
+geant Stockard. Carl Thompson has just arrived at AST 
+headquarters and Trooper Hard has gone to the front 
+counter to bring him back to the investigations area. 
+Trooper Hard and Sgt. Stockard will be conducting this 
+interview. 
+
+(Long pause—awaiting witness ) 
+
+(Indiscernible voices off in a distance) 
+
+SGT. STOCKARD. (Indiscernible—ongoing conver- 
+sion as they enter the room). I just don’t know what to— 
+what to think here. Let's see this. 
+
+MR. HARD: Why don’t you sit over here for a min- 
+ute. Got—got two (indiscernible) here. These, kind of 
+gone over some of this stuff of her. Here, you take a look 
+at that. 
+
+MR. THOMPSON: Yeah, the three jewelry boxes all 
+right. 
+
+MR. STOCKARD: Is that your—how about this 
+stuff now this stuff now, this is interesting. Okay. How 
+about this, this stuff? (From this point on, A will be 
+Mr. Thompson, Q will be Sgt. Stockton and Q2 Hard 
+
+
+A (indiscernible—interrupted). 
+O These I thought they were kind of unusual rings. 
+A Ub-huh. 
+
+
+44 
+
+
+[4] O Okay. Okay. Because I don't see anything, real 
+—but it’s about the same (indiscernible) as hers? 
+
+A Yeah, exactly. It looks like it. 
+
+Q When—when would she have gotten that, if you 
+remember? 
+
+A I think her mom use to loan it to her, if I remem- 
+ber about a year, oh back last winter sometime. 
+
+Q Oh okay. So (indiscernible) her mom (indiscerni- 
+ble—opening packages). 
+
+A Yeah. 
+
+
+Q Okay. And how about the jewelry box, when did 
+she get that? You say her mom gave that. 
+
+A My mom gave that to her about. 
+
+Q Oh your mom. 
+
+AI think last Christmas or the Christmas before. I 
+can’t remember. 
+
+* — * * 
+
+[27] Q Uh-huh. 
+
+A But I can’t remember what kind of shirt she had 
+on. 
+
+
+Q 
+
+* 
+
+Q Okay. 
+
+A But she always wore jeans, about all, you know, 
+the only thing. She never wore no slacks or anything 
+like that. 
+
+Q Nothing real fancy? 
+
+A No. 
+
+Q Well, they (indiscernible) you don’t have to be 
+fancy to be a good woman, huh? 
+
+A No. 
+
+O That beauty is only —only skin deep, it's what's 
+under that counts. 
+
+A Right. 
+
+O Do you know—of course, I don’t mean to take up 
+a lot of your time, you—you can leave any time that you 
+want to, if you’ve got something else going on. 
+
+A Oh no (indiscernible) around here, no. 
+
+
+45 
+
+
+Q I know we called you and probably woke you up 
+A No, I was just laying there. 
+281 Q Okay. But you know, you can go any time you 
+want to. We got a—you know. we're trying to—trying to 
+
+
+starting to say stuff that I never even said. First off he’s 
+got. 
+
+Q What kind—what kind of stuff is he saying? 
+
+A Oh that I told him that I just came home and she 
+was gone. 
+
+Q Uh-huh. 
+
+A That was the time before, you know. I mean it's 
+obvious I didn't. 
+
+Q Okay. 
+
+A come home and she was gone. I mean every- 
+
+
+like that, and he swears up and down I said that. 
+said, hey you’re crazy, Man. I never said that: 
+Q Yeah. 
+A Don't have any reason to say that, for Cripes’ sake. 
+
+
+and it—it’s real obvious exactly 
+somebody backed up with tire tracks (indiscernible) 
+stuff like that. And the real good 
+tire cast. I mean there’s a couple you kind of figure 
+(indiscernible ~~ i And I’ve 
+
+
+1 
+
+
+46 
+
+
+Q And that—that gives me a real problem here. 
+
+A Uh-huh. 
+
+O lt gives us a lot of problem. Because I—I've got 
+to tell you I haven’t been entirely honest with you. I 
+mean I’ve been pretty—pretty up front here. If I—I’ve 
+held some things back from you. 
+
+A Uh-huh. 
+
+Q And I'm real concerned about this tire track out 
+there. Now how we're gonna explain that? Was it just 
+coincidence that somebody else has the identical tire, 
+
+
+which of course the lab will be able to tell if they look 
+
+
+at all the little cuts and scrapes and differential wear, all 
+that kind of stuff. 
+
+
+A Uh-huh. 
+
+
+[39] O They'll be able to do that for us. 
+
+A Uh-huh. 
+
+Q But I have—I have—I have some problems with 
+this. And I think that maybe (indiscernible) have to be 
+honest, is where at the point where we're not really 
+dealing with the—the how of the thing, we're not really 
+dealing with the who, probably not really with the when 
+or the where; what we're really dealing with is the why. 
+And I think that what we're going to find here is that 
+the big question of why is that it’s not—it's to determine 
+whether or not we're dealing with a cold calculating 
+murderer who sat back, planned this thing for days or 
+weeks and finally, let’s do it or—or somebody that hap- 
+pened—got out of hand, you know, that—that this fool- 
+ish bitch brought on herself really. I mean that—you 
+know that she just—just picking and poking and if it's 
+one of the things that just happened (snapping fingers) 
+like that instantly and it’s over before it starts and—and 
+here’s—she’s got you into real trouble this time. I mean 
+not just the usual bullshit trouble she’s getting it. 
+
+A Uh-huh. 
+
+
+47 
+Q . . then that’s a whole different complexion on 
+—on the other things. 
+A All right. I know 
+And you know. 
+
+
+t there’s no way. 
+Q .... frankly I think that there's still some ques- 
+tion and I—I think that you did do this thing. 
+You really do, huh? 
+I think that right now it’s still looking that way. 
+
+
+4 
+
+
+I wish I could find a way to prove that that wasn’t so. 
+But I—I'm sure in my own heart right here. I'll tell you 
+why. It's because it's like I—like I told you told. I 
+haven't told you everything. It's like we're playing poker. 
+Are you a good poker player? 
+
+A I play yeah. 
+
+Q Playa little? Do you win a lot of money? 
+
+A Not usually, no. 
+
+Q No, huh. Well I'll tell you it’s like we're playing 
+poker, you know, and I'm holding a hand here and 
+
+
+Q And—and right now what you're betting on is 
+you're betting that whatever you're holding there is more 
+than what I’m holding. Now I can assure you that. 
+
+A Well I don’t look at it like that. 
+
+Q Yeah. Between Sam and—and myself and Jim 
+
+and the first sergeant and all of us here, we've probably 
+D 
+sort of thing. And [41] we'll get to all the facts and 
+we've already got a tremendous number of them right 
+now. 
+
+A Uh-huh. 
+
+And you know what I'm really—waht I’m getting 
+at here is 'm—lI'm giving you now the opportunity to 
+make the best of a bad situation. And I think that she 
+—she brought the situation on, that she got you into 
+what got to be the biggest trouble she’s ever gotten you 
+
+
+8 
+: 
++ 
+i 
+2 
+i 
+5 
+Hi 
+
+
+i 
+
+g 
+
+5 
+
+f 
+
+5 
+
+a 
+111 
+5 
+
+
+good reason for it. I mean 
+
+
+at guy out hot springs is an 
+ve been out there myself. 
+
+
+a» 
+
+
+Q He probably just told youto piss off—piss (in- 
+discernible) up the road, or something, didn’t he? 
+
+A (Indiscernible) to clean up. 
+142] Ql Yeah and he deserved what he got. Well I 
+
+
+get—doesn’t get really upset at things until somebody 
+does something and they deserve it. And then—then you 
+do it. And that’s what you said. You said that guy at 
+Chena Hot Springs, if Carl punched him, he'd have had 
+to deserve it. He’s have had to—had to do it. 
+
+Q2 Well. 
+
+A YeahI mean 
+
+Q And I think that's true. I mean you were talking 
+about what happened to Dixie that time before. I mean 
+she stole $7,000. If that isn't a reason. Somebody de- 
+serves to get at least the message brought home I don’t 
+know what is. 
+
+A Yeah. 
+
+OI mean I'm not gonna leave anybody steal $7,000 
+from me and get away with it. 
+
+A Yeah. 
+
+
+* * * * 
+
+
+49 
+
+
+[45] Q .... who are going to say and think that. 
+Well they're gonna continue to say and think that unless 
+that we can show that that’s not what—what really hap- 
+pened. And I’m willing to work with you on this thing 
+to make the best of a bad situation. I can’t tell you that 
+this isn’t a bad situation. I mean you're free to get up 
+and walk out of here now and—and never talk to me 
+again. But what I'm telling you now is this is probably 
+the last chance we'll have to—for you to say something 
+that other people are gonna believe because let’s just— 
+let's just say that there's enough (indiscernible) here al- 
+ready that we can we can prove conclusively beyond a 
+reasonable doubt that that you were responsible for 
+this thing this thing. Well really there's a lot that she's 
+responsible for, but you're the guy that's stuck with the 
+problem. And you get stuck with the mess to clean up, 
+you know. You know, say we can prove that, if we 
+come down you know, six—a month, two months, [46] 
+six months later and now you've come forward and 
+you're trying to tell a sotry, people are gonna say, ah this 
+guy has had time to think of something. This guy is 
+putting this story together. He's making it up now be- 
+cause he knows what the police. 
+
+A Ive already told you the story. 
+
+Q And—and he’s making it up. Well you haven't 
+told me the critical part and you haven't told me the part 
+about where Dixie gets killed. 
+
+A And I don’t know about that. That's your guys’ 
+job. You're supposed to know that. 
+
+Q Well like I told you, we know the who, the where, 
+the when, the how. The thing we don’t know is the 
+why. And that’s—that’s the thing we've got to kind of 
+get straight here today between you and I. See I know 
+that you did this thing. There’s—there’s no question in 
+my mind about that. I can see it. I can see it when I’m 
+looking at you. And I know that you care about Dixie. 
+I mean this isn’t something that you wanted to happen. 
+You never would have—I mean if you’d wanted for this 
+
+
+50 
+
+
+to happen to Dixie, would you have let her come back 
+into your life? Would you have gone to Anchorage and 
+got her? Would you—you gone on—you wouldn't. That 
+would have been nonsense. But I know that. 
+
+A You're (indiscernible). 
+
+[47] O .. that sometimes things happen. 
+
+A Well. 
+
+Q Sometimes, you know, people get pushed and 
+and things happen. I don’t know—you know, I can’t— 
+I can only speculate, you know. I can see the results of 
+what happened. I can see the physical things, right? I 
+can see the physical evidence, I can see what led up to 
+it. Like I say, I got those—the who, the when, the why 
+—or the who, the where, the how, the what, those things. 
+Those are just physical. But they don’t get to the heart 
+of the matter, and that’s the why. I mean there are times 
+when things get. 
+
+A (Indiscernible) don't even know why that — well 
+why don’t you arrest me if I did it? 
+
+Q_ I don’t want to arrest you. I'm not gonna arrest 
+you today. I think—I told you a dozen times. You're 
+free to walk out cf here any time, and you can. But 
+what I’m telling you is that—that I think that now it’s 
+the time for you to come honest about this thing, because 
+if you turn around later and try to. 
+
+A Iam being honest about it. 
+
+Q No, you haven’t. You told part of the truth and 
+you told a lot of it, but you haven’t told all of it. And 
+—and that’s the problem. I mean your—you're not 
+probably lying directly to me, but you're lying by omis- 
+sion (indiscernible) [48] on those things. Now like I 
+told you we don’t—I haven't told you everything and 
+and I’m not going to. And even—no matter what you 
+think it’s not everything. I can tell you that right now 
+there’s a search warrant being served out at the place, 
+15.1 mile and a search warrant for your truck is gonna 
+be served and we've got a forensic expert up from from 
+Anchorage and they'll have techniques which you prob- 
+
+
+51 
+
+
+ably aren't familiar with, and I’m not an expert that's 
+why we got them here called —a thing called luminal 
+(ph) and it's a way that you can pick up microscopic 
+traces of blood ever after it's been washed and cleaned- 
+away. I mean it's an amazing thing, you know, they 
+spray the stuff around, they turn on the black lights and 
+all—all the little droplets of blood and everything light 
+up. 
+A Huh. 
+
+Q And they're doing that stuff right now. And I— 
+and I have no doubt in my—in my heart that’s what 
+they’re gonna find out there, because I’ve looked through 
+other things, and—and I’ve looked at you. And I don't 
+believe that you're a bad person. I really don’t. I don’t 
+believe that you're - you've got an evil cold-hearted (in- 
+discernible) criminal who decided to do these things. I 
+believe genuinely (ph) I mean right here, that wlat— 
+that what happened here was never planned, what hap- 
+pened here was one of these things that just happen. I 
+mean things happened bad, things happen to [49] even 
+good people. And when it happened you're stuck with 
+this—I mean you're stuck with a hell of a mess now. 
+She’s got—she’s finally got you into more trouble than 
+she can possibly imagine. I mean she’s brought this 
+thing on you. She causes that. She’s the one—I mean 
+you're happy. You're out drinking, having a good time. 
+You come back and she’s pissed and moaning and saying 
+well I’m gonna pack my shit out andon and on. I don’t 
+know what exactly what happened out there. I mean I 
+don’t know whether she started the thing by grabbing 
+the knife and saying she was gonna (indiscernible) at 
+you and it got turned around or just what happened. I 
+mean I don’t know those things. All—there’s only two 
+people who know these things. That’s her and that’s you. 
+And of course she can’t tell us. She can tell us a lot of 
+things, from what's left. I mean she tells us things. She 
+can’t—can’t tell us the why, but she can tell us all those 
+how and the whens and all those things. And—and that’s 
+
+
+52 
+
+
+what's critical, because we've got those things. And we're 
+getting more of them every moment. And I have no 
+doubt and I know that you know in your heart that all 
+those things are gonna come out because the truth does 
+come out in the end 
+
+A Uh-huh. 
+
+QO almost all of it. 
+
+Q2 Uh-huh. 
+
+Q Now we're at the point right now where two things 
+can [50] happen. Obviously you can just walk right out 
+of here, like you're gonna do. I mean you're gonna walk 
+right out of here today no matter what. No matter what 
+you tell me you'll walk out of here. Okay? I mean 
+there’s no question in my mind on that. And I hope 
+there’s no question in yours. Is there? 
+
+A No. 
+
+Q Okay. But the question here is are you gonna end 
+up labelled and stuck with that label that people are 
+gonna want to put on you, that hard-core, that bad 
+image, or—or are you gonna take the time and the 
+courage—because that’s what it takes, to come forward 
+and explain why this thing really happened, because I 
+suspect that this thing is not the way some people are 
+gonna say. I mean some people are—Dave is gonna 
+say, yeah, he went out there and he just said he’d had 
+enough and stab her. Period. I mean he probably stuck 
+it in her back. I mean who knows what he’s gonna say. 
+He’s gonna say—you know he’s gonna say that. I mean 
+people are going to say that. No way that people are 
+gonna believe that. Maybe so, but you know, there are 
+people who are gonna believe that stuff. Well you have 
+a—a unique opportunity here and that opportunity is to 
+help us to get at the real truth, not the speculative well 
+maybe this is what happened. We know the physical: 
+this is where it happened and who— [51] who it hap- 
+pend with and that sort of thing, but the why it hap- 
+pened. The exact—I mean because that’s what makes a 
+big difference. I mean obviously you know that you're 
+
+
+53 
+
+
+in trouble right now. There’s no question about that, 
+rignt? 
+
+A I'm not in any trouble. I didn’t do anything. 
+
+Q Well but you did—you killed Dixie. I mean that’s 
+—that’s what you're in trouble over and you know that. 
+There's no question about that. Now I—I.... 
+
+A If I killed her how come you never arrested me? 
+
+Because we dont. 
+
+Q2 We don't think you're a cold-blooded killer. 
+
+Al want to know why. 
+
+Q We don't think—if you were a cold-blooded killer, 
+a contract killer and somebody who plots these things 
+out, well then we’d have to move fast, wouldn’t we, be- 
+cause you might do it again. I mean you could do it any 
+time, right? I mean that makes sense, right? If you 
+were a you were a professional killer, somebody who 
+went totally “AWOL,” who didn’t care about anything. 
+Well we don’t think that’s the case. I certainly don’t. I 
+think what you are is just somebody—an ordinary guy 
+who made a simple mistake, not because you wanted to, 
+but because you were forced in it, you were backed in 
+that corner and the thing just happened and you're stuck 
+with the results. Like somebody who runs through a red 
+light, runs [52] into your car; you're stuck with the re- 
+sult of what’s somebody else does. Well I think that’s 
+what happened. And because of that yeah, I mean if 
+that’s true, you’re not gonna go out and kill somebody 
+else. I mean there’s no danger to anybody else, so why 
+should I arrest you? I mean I should give you—it’s 
+what we’re here for right now—the opportunity to explain 
+—to put your best face forward, put your best foot 
+forward, to explain exactly what happened, rather than 
+later on having to get back there and trying to you know, 
+shuffle and try to make things make sense and saying no, 
+no, no. Wait you misunderstood that. That’s not ex- 
+actly the way it happened; this is what happened. I mean 
+I don’t want you to get in a point of trying to explain 
+things when other people have already made up their 
+
+
+54 
+
+
+mind. I’m giving you the opportunity to help us to come 
+to the real truth of this thing. Because I—I know that 
+you did this thing. You know, there’s—there’s other 
+evidence which like I say I haven't told you about. You 
+know, we've got things, we've got—got the knife that 
+came from the same place as the rest of the stuff. And 
+it’s been sent off to Anchorage to the forensic people and 
+they're gonna do blood analysis, finger printing, laser 
+(ph), the latest stuff, all the stuff that they do. And I 
+don’t know if your—if your fingerprints are gonna be on 
+that knife. I don’t know that. Is—is traces of your blood 
+gonna be on [53] there mixed with hers? I don’t know 
+those things. But I do know is that all these things, all 
+these (indiscernible) all these little teeny bit pieces of the 
+puzzle are come—you know, are coming together. And 
+all those out, they’re all pointing at you. And all the 
+bits of the puzzle are fitting in the grand picture here. 
+Now there’s only one part of that picture which only you 
+can supply is the part that says why, intentions. What 
+was in that (indiscernible)? I mean if you set out, in- 
+tended to kill and you aren’t sorry about it and you don’t 
+give a damn, then fine. I mean I wash my hands of you. 
+I don’t care what they do to you, because I mean that’s 
+probably what you deserve, right. I don’t think that 
+you’re that kind of person. I think that there’s—there’s 
+good in you, that there’s—that there’s something bad 
+that happened to you. But that—that you didn’t set out 
+and intend for this to happen. You didn’t intend for 
+Dixie to die. You didn’t even intend to hurt her. It's 
+just like the other times she did things that were so out- 
+rageous—and I don’t know what that outrageous thing 
+was, but it was worse than stealing $7,000. It was 
+worse than all the other things she’d ever done together 
+and it was so bad and for all that you just did—in a 
+blink of an eye something happened. And I don’t think 
+whether she started it and it just happened to get finished 
+the way it did, that you finished what she started or what 
+happened. I mean I— [54] I don’t know those things. 
+A Uh-huh. 
+
+
+55 
+
+
+Q Because those are the why. That’s—that’s what's 
+here. 
+
+A Does that make any difference? 
+
+O That's the human element. Sure as hell does. 
+
+O2 Sure. 
+
+O Think — think of the difference here, what we 
+have a just system which has a problem. We've got little 
+cubbyholes where people when people who are human 
+and who are different and unique, and have to fit in. 
+And what they do when somebody does something we 
+have to take their act, what they were thinking and 
+what they did and fit it into one of these cubbyholes. 
+Now one of those cubbyholes, of course, is first degree 
+murder, right? That’s—that’s an unclassified felony, de- 
+serve a 99 years, presumptive sentence of 20 years, all 
+that kind of stuff. Well then there’s another cubbyhole 
+that’s called second degree murder, And that’s—I don’t 
+remember. It’s like an A felony and it’s 20 years or— 
+or—maybe that’s nin—up to 99 but presumptive is 5, 
+I think that’s what it is. Then there's there's negligent 
+homicide, there’s manslaughter. There’s all these little 
+cubbyholes, right? Well I'd be the first to admit that 
+trying to fit human actions and human things that hap- 
+pen into cubbyholes isn’t always easy. You know, be- 
+cause there’s—there’s an infinite range [55] of what peo- 
+ple do and what happens, but there’s only a finite range 
+of cubbyholes to fit people in. But that’s what—that’s 
+where we are and that’s where the DA and the grand 
+jury is going to be on this thing to try and pick the 
+right cubbyhole. And I’ll—I—TI’ll—I have to feel that 
+whatever happened to Dixie, if she’s partially responsible 
+for it, you shouldn’t take all of the blame for it. Right? 
+I mean that makes sense, right? I have to believe that 
+if you’re partially responsible for it, you should take 
+some. You know, we all have responsibilities as adult 
+human beings. We have a responsibility to take our licks 
+when they’re coming to us, right, even if they’re aren’t 
+fun. Would you agree with that? I mean when you 
+
+
+56 
+
+
+do something wrong, to everything we do there’s a cost 
+associated with it. 
+
+A Yeah, if I did something wrong, sure. 
+
+Q That's right. And that’s—that’s what we're look- 
+ing at here. We're looking at making sure that you don't 
+get more than you deserve here. I mean I—if you didn’t 
+commit a first-degree murder, if you didn’t set up and 
+preplan this thing, why should you be charged with that, 
+why should you go to jail for that? If you didn’t commit 
+a second-degree murder, I don’t want you to be charged 
+for that. If all that happened here is a manslaughter or 
+a negligent ham—homicide, something which which 
+where [56] she starts it an she’s coming at you and you 
+defend yourself or whatever it is, I don’t know. I—I 
+don’t know that. That’s the thing I don’t know. Then 
+I want to see that justice is done here, that—that are you 
+subject to an injustice. Now there are going to be those 
+people—there are going to be the DAs and all those 
+people who are going to look at—they’re going to look 
+at the old—the other case, the allegations she’s made, 
+and they'll look at the man at Chena Hot Springs— 
+they’re gonna look at, you know, other times when 
+you had fights or been (indiscernible) This guy is a bad 
+guy, God. I mean that’s gonna be their—their first idea, 
+gosh, think gosh, what a terrible guy. Right? Well I— 
+I’ve looked at those and I’ve looked at it carefully you 
+know I have because—because I—I can tell you things 
+about it. 
+
+A Uh-huh. 
+
+Q . each one of those times there was a rea- 
+son that you did what you did. You didn’t do these 
+things just out of space. I mean you didn’t just sud- 
+denly decide something for no reason or you're not crazy. 
+You’re not a psychopath or something like that. You're 
+just an ordinary guy who when he gets pushed, when he 
+gets backed into a corner, when he’s subject to an in- 
+justice, when somebody does something to you which they 
+shouldn’t have done, that you react. I mean it just hap— 
+
+
+85 
+5 
+8 8 
+— 
+
+
+3 
+11 
+LE 
+hk 
+7. 
+
+
+Those things aren't important, use right now 
+what we've done is she's got you in a hell of a bind. 
+I mean she brought this thing on, she left you there, 
+stuck with this body and the problem of how—how—how 
+the hell do I—how to explain this. I mean what do you 
+do? You've got to sit there and say well gosh, you know, 
+I got this body here. If I just—if I just call the cops 
+and say—and try to explain this nobody is going to be- 
+lieve me. They're gonna say, ah bullshit. You know, 
+we've got your past record. We've got the complaints 
+you made in the past, you must've just decided that you 
+had enough oi this and killed her. I mean you got to be 
+thinking tht when you're sitting there with her lying there 
+So you did the thing which you felt you had to do. And 
+that was just to get rid of it and just wash your hands, 
+just forget. She brought this thing on. It’s her fault 
+Why should you be forced to live with that. I mean 
+
+
+27 
+if 
+2% 
+
+23 
+bd 
+: 
+3 
+
+
+to—{58] to show that you're sorry. 
+that you're sorry that Dixie’s dead. 
+
+
+papers and all that stuff and gone all 
+with it, she—you were still letting her come back with 
+
+
+h 
+she’s the one—she’s the one who's flying off 
+not 
+
+
+—that’s where we're at. You know, we're at that place 
+where it’s time to be really honest about this thing, be- 
+cause I think, I believe here that just in this case, just 
+
+
+! 
+a 
+it 
+if 
+E 
+
+
+gS 
+akk: 
+0 
+121715 
+1111 i 
+5 GL 
+117151 
+H 
+
+
+7 
+a5 
+
+21 
+
+73 
+
+
+now he 
+about it for a few weeks and then 
+he’s got a story. Right? It’s kind of a like if it's called 
+reasoned evidence, it’s the best evidence. 
+
+A I don’t know how you guys work or—you know 
+what your angles are and anything, but it’s not what 
+happened. 
+
+Q Well only you and Dixie Can—can tell exactly 
+what happened. 
+
+A You guys (indiscernible). 
+
+Q Dixie is not (ph) telling us. No you can. Because 
+2 the guy who killed her. There's no question about 
+that. 
+
+O2 Carl, we dont. 
+
+Q But you 
+
+Q2 We don’t—we don’t—we do’n—we don't bluff 
+and we don’t play little games. You've seen the stuff we 
+
+
+A You don't think somebody could have set 
+me up for this? 
+
+Q No. There’s no way, Carl. That’s just not the 
+way it happened. We know our job and we do it well. 
+
+
+O I know you're not. 
+
+O2 You loved her. You spent five years of her life 
+with her. But you were drinking that night, things weren't 
+going well, she was mad at you, you got mad, maybe. 
+I don’t know. We're asking you to tell us because we 
+don’t have that answer. 
+
+And we don’t have—I can’t tell you we have every 
+answer, because only you have that—really the human 
+
+
+because I have—you know, I’ve looked at these—all the 
+other things that you've been involved in to 
+your friends. If they said, Yeah Carl is j 
+goes in bars and punches people out for no reason. 
+They didn’t say that. Everybody said and all the stuff 
+we have, says that every time that he [60] ever got into 
+a problem that Dixie got you into a problem and really, 
+she’s the one who's causing most of these problems. She's 
+there. You had a reason. And you had a reason which 
+is understandable, which is explainable, which makes 
+
+
+61 
+
+
+by LAE eee ¢ e 
+THU Atte ape 
+2 Soe tS BEE Ey y go 5 332 i 
+nt nadine 111361 
+2337125 1188 3388 111 ae E 392 
+11 (taut 
+1125111111111 i 1 221 
+tag] 11 112 111111 i 
+214 Hae 11 11111418 
+7 = 12378878181 f 
+ae 7135 et 232 1111485 115 
+11777720 2117215 IH „i112 
+
+
+ttt! ores ee rt 
+
+
+1271271141111 11 
+
+1115 aus rite 117 1 5 111114 £ 
+
+. E 74 17710 Hh 
+5 ili Wi 
+
+
+: 322215 . 22225 F 
+e of aH il 
+15812212115 lianas 117112717 
+
+
+you about three of them. I've still got more in here. 
+I'm not gonna show them to you and you know, you can 
+bet against them if you want but you know how it is. 
+The odds are always with the house and right now I’m 
+dealing. The situation is we can—people can assume 
+as the DA will want to—I mean I know Harry. I mean 
+(indiscernible) Harry Davis in the paper. He's been 
+our DA for years. Harry is gonna assume the worst. 
+He's gonna assume hey, let’s—let’s get this guy. This guy 
+is bad. Let’s get him. Right? Well if he wants to do 
+that, that’s fine. I can’t stop him unless I have other 
+information to show him that that’s not the way it hap- 
+pened. That yeah, you were there, you did do that but 
+there was a reason for it, and a good reason, one that 
+other people could understand, one that’s explanable. 
+And I’m sure there is. I mean I don’t—like I told you 
+I don’t know why exactly is—I don’t know what the 
+words were. I don’t know what the thing that she said 
+was that was so bad that this thing went to—went to 
+pieces. I don’t know what that is. Only you know that. 
+Now only you can—can help yourself at this point by 
+coming forward with those things and explaining ex- 
+actly what did happen. You know and I know that this 
+is a—the hardest thng you'll ever do. 
+
+tion about it. [64] I mean if you think it was hard getting 
+rid of her and doing all that stuff and getting rid of her 
+clothes and taking them out and throwing them away 
+and stuff, that’s nothing compared to the courage it takes 
+to confront me and to talk to me. I mean there’s no 
+question about that. You know, I—I can’t blame you 
+for being slow (ph) about the thing and for wanting 
+to think about it. But unfortunately we've got like a 
+limited reasonable opportunity here, The things—the 
+thing is going down now. This—this is it. I mean this 
+re 
+to deal with this thing. And I I know you're going to do 
+the right thing. —_ I know that when the thing hap- 
+pened originally when Dixie got killed, it wasn’t because 
+
+
+63 
+
+
+you planned it, it wasn't because you wanted it to hap- 
+pen, you loved her. That—that—that’s the central issue. 
+You loved her. Because of that whatever happened out 
+there happened not because you wanted it to, not because 
+you set out to have it happen, but because she brought 
+it on. She had to do something so outrageous, I mean 
+she stole $7,000 before and you didn’t kill her then. I 
+mean you slapped her around a little bit, right? So it 
+had to be something worse than that. Now I don’t know 
+whether she said yeah, I’ve been sleeping around town 
+on you this whole time or yeah I don’t—I don’t know 
+what that us. Only you can tell us that [65] right now. 
+And if you tell us those things I can promise you, I can 
+give you my solemn word that I’m going to do every- 
+thing I can to prove that the way you told it to me was 
+the way it really happened. And I’m asking for a chance 
+to do that because I don’t want to see an injustice be 
+brought down on you. You know, you may think that 
+sounds a little foolish and a little altruistic. But that's 
+the way I am. I’m in this job because I—I believe in it. 
+I believe that—that if I'm doing this job, then I know 
+it’s gonna be done right. It’s not going to be some t.v. 
+cop on there that’s out for glory and just out to get 
+people. I am not in it for that. I’m in this job because 
+I want to see—(indiscernible) I want to see you—that 
+—that my place in this world is a safe place to live. 
+And that when bad things happen like happened in this 
+case, when bad things happen that we can maybe pre- 
+vent them from happening in the future to somebody 
+else by knowing why they happened this time. Maybe 
+there's something that somebody could have done to stop 
+this thing from happening. And I don't know. I—I hope 
+there was. And I—you’ll never—you know, you'll never 
+get over that. I know that. It's a thing you've got to 
+carry for ever and ever. But I want to prevent this from 
+happening to anybody else. And that’s one of the rea- 
+sons that it’s so important to me right here today to find 
+out the truth about what really happened. I mean I— 
+
+
+you wouldn't believe it. I'm constantly amazed by what 
+
+
+right on the floor. Tm m j m 
+genius. I’m—I’m—but these guys are And 
+I'll tell you, the wizards are working now. They're doing 
+their magic. And—and I know from past experience 
+Oe whet „ ae 
+There’s just no question about that. What there i 
+
+ready that’s been found, it’s just—I mean (indiscernible) 
+these things are just—they just—they just point to you. 
+Im- [67] don’t want to tell you I'm begging with you, 
+but I guess I'm imploring you, Im encouraging. I'm saying 
+
+
+real nut (ph) cut. This is where it take the real card, 
+to step forward and saying yeah you're right. I was there. 
+I did this thing and yeah, I got rid of her body and 
+this is why it happened. It didn’t happen because I 
+wanted to kill her, it didn't happen because I planned 
+to kill her, 7 
+out of hand. Only you can fill in that gap though, be- 
+cause only two people who knew those things there's 
+
+
+65 
+
+
+Dixie and she can’t tell us. And if you're not—lI’ll bet 
+that if there was something you could do and that you 
+could have done that night to bring her back from the 
+dead and to cause her to rise up again and live, you 
+would have done it, no matter what, because you loved 
+that woman. You loved Dixie. You didn’t want to see 
+her die. But it happened and you've been stuck with it. 
+That’s her final revenge, that’s the final time that she 
+screws you. She left you stuck with this fallacious mess 
+that she brought on. And I’m asking you to do that hard 
+thing. I think you've got the courage to step forward 
+and explain what really happened. I really do, otherwise 
+I wouldn’t waste my time on you. You know, I—I could 
+be out there with these forensic guys doing their thing. 
+But frankly, you know, the thing that I worry more about 
+[68] in these cases is (indiscernible). That’s my spe- 
+cialty. You know, I could do the forensic stuff but I—I 
+don’t want to. What I want to do, I want to find out 
+why this thing happened. I want to make sure it doesn’t 
+happen again. I want to—I want to know the truth 
+about it. And only you can do that. Now I think that 
+whatever happened out there, that I can be sure that you 
+loved Dixie and that you didn’t want this thing to hap- 
+
+Al didn’t want whatever happened to happen. 
+
+Q Well you did it. There’s no question that you 
+killed Dixie. Let's get passed that. I mean that's 
+we've got to get past this hurdle here. You know, I’m 
+sure that you’re sorry for what you did out there. I’m 
+sure of that. Are you sorry that you killed Dixie? 
+
+A I didn’t kill her. 
+
+
+Q But you did. That's the problem here, Carl. Now 
+I-II thought that you—you were courageous enough and 
+had enough courage to deal with this thing. But I’m 
+beginning to—to reconsider that. From what everybody 
+told me I thought you were the kind of person that was 
+going to do the right thing, who was going to be honest 
+
+
+66 
+
+
+about this thing and to do the thing that’s for your best 
+interest. 
+
+Q2 We all make mistakes. 
+
+Q Right now. But ain’t that the truth. If I could 
+go back and take back some of the things I’ve done. 
+I'd do it in [69] a flash. But unfortunately life isn’t like 
+that. But if we make that—you know, if we do some- 
+thing and it’s done, we say a word and we can’t pull 
+it back. I don’t know what it was that you did that 
+night that was so bad that this thing happened. And I 
+don’t think that—that she’s—you know, I—you could 
+imagine it in a couple of different ways this thing. You 
+could have said, okay the two of you are standing there 
+and she said something and you grabbed a knife and 
+kill her. I don’t believe that, because that—that just 
+doesn’t make sense. What makes sense to me is that 
+something happened, she said something, she does some- 
+thing and it starts out like it has in the past, starts out 
+with a little slapping around or something, because you 
+just something to her already, I mean you hit (indis- 
+cernible), “Don’t say that to me.” I mean I don’t know, 
+something like that and then she fights back and then 
+she grabs the knife and—and it’s—the donnybrook is on. 
+At that point you’re not thinking as a human being, 
+you're not thinking, gees, I'm gonna do X, I’m gonna 
+do V. You're reacting. You’re—it’s happening so fast 
+that your animal instincts or the parts of you that be- 
+lieve in survival, believe in life that when you're threat- 
+ened you respond, take it. And if that’s what happened, 
+if that’s the way it went down, then we need to know 
+that, because that’s not that first degree murder. That's 
+not premeditated. [70] I mean that’s not gees, I’m plan- 
+ning to do this for months or days, I’m getting paid to 
+do this, I expect to get something. You didn’t expect to 
+get anything out of this. Jesus, I mean you stood to 
+lose everything. Right? You're not—you're not doing 
+this for gain, you’re not doing this for hate, whatever 
+happened because you love her. Because love and hate 
+
+
+67 
+
+
+are so close together, anger and love is so close it can 
+flip from one to another. You can be so much in love 
+with somebody that when they say something that hurts 
+her, and they may not even know how bad it hurts you, 
+but it’s like a knife in you and it causes an anger, I mean 
+it causes that love just to flip (indiscernible) on anger. 
+And it goes back and forth. And it can. And I know 
+that. I mean I recognize that. And I can put that into 
+words and explain it to other people so that they under- 
+stand it, so that the DA understands it, so the court 
+understands it, everybody who’s going to deal with this 
+thing, can understand what really happened. But before 
+I can do that I can’t do it on speculation, I can’t specu- 
+late to those people that this is what I think might have 
+happened, because there’s three or four mights have 
+happened. What I need is, is I need your help on this 
+thing to make sure that the truth is—comes out. That 
+you only get blamed for what you do. That she takes 
+whatever portion of the responsibility she deserves. If 
+she brought this thing on, [71] if it was self-defense on 
+your part, then I need to know that, because quite— 
+quite frankly, if that’s the way it went down, that's 
+something like what happened, then that’s a whole lot 
+different from if she’s got her back turned and you just 
+say well the hell with her, I’'m—I’m tired of this bitch, 
+I'm gonna kill her. Well that didn’t happen. I mean 
+that’s—that’s just something that’s just not true. That's 
+not—I mean that’s just—that’s not you, you know. Be- 
+cause there are people like you, lots of them, hundreds 
+of them—myself included—that have a temper. I mean 
+their own—there’s people in this office who'll tell you 
+that—that they—they get to me and the only people 
+who get to me—the public doesn’t get to me, somebody 
+can come off the street and call me anything they want, 
+that’s not gonna bother me. But if somebody close to 
+me, like if Joel here, if Joel came to me and said some- 
+thing really hurtful to me, that would hurt me. I—I 
+might lose my temper on that and I might shout at him 
+
+
+68 
+
+
+or I might slam (indiscernible) or I might throw the 
+telephone off on the floor, because I have that kind of 
+a temper. But only people who are really close to us 
+have that kind of power over us. And that’s what hap- 
+pened here. I mean Dixie is the woman you love, she’s 
+the woman you gave five years of your life to. And even 
+though—even though she’s wronged you before, she’s 
+taken off, she’s stolen [72] from you. it'll never come 
+back. I mean you loved her, you know, more than any 
+of us can ever understand really I think. Because you let 
+her come back if she did all these things. No matter 
+what she did to you you were willing to give her another 
+chance, just to—just to have the lady back. And you 
+didn’t—you didn’t set out to do this thing, it just hap- 
+pened. But whatever she said, whatever she did was that 
+—was that thing that was so personal that hurt you so 
+bad that you just—it just happened fast. I mean it (snaps 
+fingers) like that. And I—I gotta believe that because 
+I think that there's worth in every person and there's 
+worth in you. Because this bad thing happened to you 
+doesn’t mean that you should just be thrown away, doesn’t 
+mean that you shouldn’t have any self-respect, doesn’t 
+mean that I shouldn't (indiscernible) up to you. You're 
+still a human being. You're still a person. You've got 
+warmth, you’ve got desire, you’ve got the rest of your 
+life which you deserve to be able to lead. Now I’m not 
+saying that—that you'll never pay any penalty for what 
+happened. I can’t tell you that. I'd be a fool to. You 
+wouldn't believe it if I did tell you. But what we're 
+talking about here is we're talking about the difference 
+between throwing the rest of your life because you don’t 
+have the courage to step forward or being honest about it. 
+
+A It wouldn't make any difference if I did. 
+[73] Q And stand—yeah it would; it'd make a hell 
+of a difference. It'd make a hell of a difference. 
+
+A Well you just—just told me, you're not the DA. 
+
+Q Because we would. 
+
+A Lou can’t be the one who decides what. 
+
+
+69 
+
+
+Q Yeah, but what we're doing here is I’m the guy 
+who has to go to the DA and tell him, hey this is what 
+he said and we've gone on, we've proven this by the 
+forensic evidence, we’ve proven that he said that it hap- 
+pened X, Y and Z and that’s what happened. The differ- 
+ence is—is everything. The difference is between throw- 
+ing away the rest of your life. I mean if the DA just 
+decides in his own mind because we don’t have anything, 
+that if Carl won’t talk, that must mean he was that 
+cold-blooded murderer. He’s hiding something. He’s hid- 
+ing it because it was worst than what I think it was. 
+Then he (indiscernible) puts you away and you could 
+be—I mean it could be everything, it could be life. 
+
+A Really. 
+
+Q_ Ninety-nine years, that’s all—that’s life. 
+
+O2 Right. 
+
+O If it's not that. I mean it could be—I mean we’re 
+looking at negligent homicide and manslaughter I mean 
+we're talking two years, three years, five years, a fair 
+amount. You know, you get out on—free on parole. 
+[74] We're not talking about the rest of your life. We're 
+talking about just a little period of—and then you go on. 
+But the trouble is, right now is the time when we've got 
+to m 2 the decision of which way we're heading on this 
+thing. I mean if that’s what happened, if you deserve 
+only a little bit, I mean if you deserve to go to jail for 
+your entire life because you planned this thing, then I 
+guess my sense of honor would say that that’s what you 
+ought to do. Right? But if you didn’t, if that’s not what 
+happened, then it is important, because right now it 
+makes all the difference in the world. It makes a differ- 
+ence between are we talking that first degree, cold, cal- 
+culating, actually ammoral psychopathic person, or are 
+
+A You guys already know it wasn’t that kind of 
+murder anyway. 
+
+Q But I can’t prove it. I—I suspect it’s not. I don’t 
+think it was, but only can tell us exactly what happened. 
+
+
+70 
+
+
+Only you can make it apparent. I mean we—lI can 
+speculate that there must have been something that hap- 
+pened that she said or did that—that started this thing 
+off. I mean I can speculate on that. But I don’t know 
+you well enough, I don’t know her well enough; I can’t 
+ask her the question to know what the bad thing was. 
+But if you can share that with us, if you can make us 
+understand, if you can make me understand why what- 
+ever it was is so bad, because I can explain that, I can 
+make other people explain [75] it. I mean I—you’re 
+not the kind of guy who writes long books and—and 
+who’s real wordy, says a lot of things, and puts things 
+into fancy words so that guys like that DA and judges 
+and people can understand. You're just an ordinary 
+guy like most of us, right? Well one of the things I’m 
+trained to do, the thing that I do is I write and I’m able 
+to put into words so that they'll understand, to convince 
+them if you can convince me that it didn’t happen, a 
+cold, calculating killing, you know, I will go to the 
+max for you to prove that the way you say it happened 
+is what happened. But I have to have your trust. And 
+I—I know that’s—that’s a hell of a thing to ask of a 
+guy, because you’ve watched t.v. and seen all this stuff. 
+Remember, t.v. is not real. It’s—you know, we've got 
+to flush all that stuff out of our mind and try to re- 
+member that right now we're talking really about your 
+whole life. Now there’s nothing we can do to bring 
+Dixie back—that anybody can. You feel the loss, you— 
+you’ve lost a woman who you love, her family is feeling 
+the loss of course, but all those things we can get over. 
+I mean eventually you'll get over it. Dixie is not suffer- 
+ing any more. And whatever happened to her, she’s not 
+in pain; that’s over. All right. So what we're dealing 
+with now is we're dealing with what's left over. And 
+that’s you. And you're the lose end, you're the person 
+who has to live with [76] this thing for your entire life. 
+You're the person who has to make the decision now 
+whether or not to just take your chances and hope— 
+
+
+71 
+
+
+hope like hell that the conclusion that the DA and people 
+come up with was that this wasn't first—you know, first 
+degree murder, a cold, calculated thing. Or the alterna- 
+tive, if you can be honest about this ting, and finally 
+explain that’s what happened, to make us understand the 
+why, in what way Dixie was responsible, in what way she 
+caused this thing to happen, because I—everything you've 
+done in the past. 
+
+A Well you can’t punish Dixie. I mean you know. 
+
+
+Q No, but there’s no reason why you should be 
+punished for what she did, right? I mean she can’t be 
+punished. You're right, but is there any reason why if 
+she did something wrong, if she’s responsible for this 
+thing, that Carl should pay a terrible penalty for what 
+she did? I don't think so. I mean I—I don’t know the 
+circumstances. I think—I think that there are—there are 
+things going on and there are explanations which you 
+can make which are going to make a tremendous differ- 
+ence. They make the difference between being that cold, 
+calculating killer who—who people just won't have any 
+feelings for, you know, they say we ought to have a death 
+penalty for, to the—to the other situation, the situation 
+where it’s just a fight that gets terribly out of hand. 
+177] The things that go bad and that things that—things 
+vou know, A led to B. and B led to C and and before 
+anybody knew it, before anybody had time to think 
+about it, it was over. And if that’s the way it happened 
+I suspect it is because I’ve looked at your past. And 
+I suspect that’s what happened. I don’t know that. I 
+don’t know that until you're honest with me and you 
+come forward and tell me exactly how it happened, so 
+that you can explain it, so we can understand it, so we 
+can make the best deal for you. I mean that’s really 
+why we're giving you the opportunity to do that. You 
+can look at it—you can look at it that way. It’s just like 
+we're playing Let's Make a Deal.” We're here right 
+now, we're willing to listen to you right now. We will 
+
+
+1123 8 3 
+
+
+73 
+d 
+( 
+drinking 
+me 
+you 
+g wi 
+going 
+k up 
+I don 
+do 
+t 
+this 
+and 
+you 
+to 
+to 
+lieve 
+you don't 
+true 
+
+
+1211 
+
+
+eli 
+
+
+11172115 1110 
+92882115 
+
+
+#333 
+: 24845115 514116 Wh 3 
+
+
+THE 111115411111 
+11111171 114145171 HE 4 
+Minburn a) nas 
+111 e lant 
+437777714 41135 1511 11 
+ie 
+171751151172 4 fo gpa ti 
+: J E 27 7711111 if 
+92772 I 1771 11218 121175 
+4281111411477! ill 
+1410 a Me ea 
+£3235 1117121457252 lis 1281221211115 
+
+
+74 
+
+
+gonna kill Dixie. You didn’t do that, I don’t believe. 
+Maybe you did. If you did do that I think you'd better 
+not tell me. Okay? If that’s what ha , I think 
+you're doing the right thing, you'd better not talk about 
+it. But I don’t think the chances are that that’s the way 
+it went down is right, because that’s not the way you've 
+been in the past. Okay. 
+
+Q2 You've got to believe we're here to help you. 
+You've got to believe that. It may not look like it. 
+
+Q_It’s—it’s hard. 
+
+Q2 But you've got to believe that. 
+
+O That’s a hard jump to make, isn’t it, because you've 
+got to [81] to trust us and that’s—that’s a hard thing, 
+saying, gees here I am with a cop and I’ve got to trust 
+him, I've got to tell him about this terrible thing. But 
+I can promise you as I've promised you before, no matter 
+what we talk about today you'll walk out of here. You'll 
+walk out of here just the same way you came in. (In- 
+discernible). No matter what. I guarantee you that. Ab- 
+solute. positively. 
+
+A No matter what you aint gonna arrest me? 
+
+O No matter what. 
+
+A What I tell you, you aint gonna arrest me. 
+
+O That's right, absolutely. Because we don't believe 
+you're a cold-blooded killer. If you—if I thought you 
+were that cold-blooded killer, well maybe I would feel 
+differently about that, but I’m not gonna arrest you no 
+matter what, I pormise you that. And that’s an absolute 
+
+A Why wouldn't you? 
+
+O Why should I? You’re—Yecu're not Dixie is dead. 
+
+Q2 You're not gonna do it again. 
+
+Q You're the per—Dixie was the person that you 
+loved enough that she could hurt you enough to bring 
+this thing on. And she’s probably the only person that 
+you a 
+
+
+a 
+
+
+75 
+
+
+about are never gonna happen again I hope. I mean 
+you certainly aren't [82] gonna to let yourself get into 
+a position like that again. And I told you and I’m ask— 
+Im. 
+
+A lt was a real big (ph) mistake, that's all. 
+
+O There's no question—well that’s—that’s the way 
+to look at it, then actually you might say it’s an acci- 
+t, in a way, an accident because it’s not what any- 
+intended. You didn’t get into this row intending 
+her, you didn’t do whatever happened intending 
+
+If you 
+
+
+2 
+
+
+1 
+885 
+
+
+inlitteft 
+14175 ir 
+Fyre gece 
+4 | 8 F 
+TS fe 
+Fe : 51 
+2 88 5 
+g a 
+d 
+3 7 
+i f 
+
+
+i 
+rE 
+| 
+
+
+out. 
+
+Q2 lt aint gonna be easy, Buddy but it's the right 
+thing to do. 
+
+Q And t it’s the thing you can do to help 
+
+
+a—I think I have a real (indiscernible) in this business. 
+And it’s founded on two things, one, on the “kiss” princi- 
+ple, “Keep it simple, Stupid.” When things happen, 
+
+
+P. 
+son. We were just —we' ve been talking here for, oh I 
+guess about an hour or so, an hour and 15 minutes. Carl 
+has asked me to turn on this little tape recorder and I 
+think in particular he wanted me to—to make sure that 
+re- 
+
+
+77 
+
+
+MR. HARD: And I’m repeating. 
+
+SGT. STOCKARD: That's Joel Hard too. Ilm 
+
+MR. HARD: Any other trooper (indiscernible—in- 
+terrupted ) 
+
+Q Nobody is going to arrest you here today. You're 
+gonna walk out of this building the same way that you 
+walked in. I think you’re going to walk out of here with 
+a sense of relief be- [85] cause the—the terrible thing 
+you've been carrying with you all this time is—is going 
+to be lifted from you. You're going to finally have shared 
+it and finally have tried to make people understand. 
+
+O2 It aint gonna be easy but you can do it. 
+
+Q I'm going to let you hold this. The red light, of 
+course means it’s—it’s recording. I’m not here to play 
+tricks with you. 
+
+Q2 We're not liars and we're not (indiscernible). 
+We're up front and we're honest. 
+
+Q Im not here to— to tell lies to you or to do... . 
+
+Q2 And that’s what we're asking you to be is up 
+front and honest. Tell us the why, Buddy. 
+
+A Well—well.... 
+
+OI know it’s hard. Okay, what can I tell you, you 
+know? 
+
+Q2 She meant the most of anybody in your life. Hlep 
+her and help you by telling us what happened. 
+
+A Because I—I don't think you guys are going to 
+believe me to tell you the truth. 
+
+Q2 We'll believe you. 
+
+Q Well the assure - you've got our guarantees, you're 
+going to leave anyways no matter what, right? And 
+that’s absolutely the truth. There’s no question about 
+that and I Will. 
+
+A As long as you let me go take care of my stuff is 
+all I'm asking. 
+
+. * * * * 
+
+[101] Q You know, we'll have to- they'll have to 
+
+work that out through the through the system. And what 
+
+
+78 79 
+
+
+Yeah. Okay. Let’s—let’s go on out here and. 
+
+
+they NI probably do is come up with a summons for you 
+I got your keys so I'll just walk you out through 
+
+
+and—and at that point you'll have to come in and answer 
+it. But you’re not gonna do this to anybody else. This 
+isn’t—this isn’t a cold-blooded killing. You're not a 
+danger to anybody, are you? 
+
+A No 
+
+
+Q No. And you'd never let yourself get into that 
+position again either, I know that. 
+
+A No, it’s an expensive lesson to learn, a hard one, 
+I mean. * 
+
+Q Oh God, I guess. 
+
+A Plus the nightmares and everything. 
+
+QI know. I know. 
+
+
+A .... you know, you can't even imagine. 
+* * * * 
+
+
+[106] (Witness apparently reading waiver - pause) 
+
+
+Q Is that okay then? 
+
+A Yeah. 
+
+Q All right. Okay. Let’s—why don’t you sign as 
+0 
+
+
+Okay. 
+We can go this way, Carl. 
+
+
+* * * 7 
+
+
+Q 
+Q2 
+this. 
+Q 
+Q2 
+
+
+a witness, Joel and then I'll sign too. (ph) I guess the 
+best thing—the best thing to do would be just ask you t 
+drive it around and put it in our garage where it'll be 
+safe and then, as I say, Joel can give you a ride ride 
+home or we can call a cab or call a friend. Whatever— 
+whatever you want. 
+
+O2 Call a friend for you? 
+
+A All my friends over there, my girlfriend, she don’t 
+have a vehicle. 
+
+Q Well, do you want us to just run you over there? 
+
+A Sure. 
+
+Q2 How about if I just give you a ride home. 
+
+A Have my dog with me. 
+
+Q Oh yeah, we'll take the dog home. That’s—there’s 
+no problem. 
+
+Q2 You bet. I’ve had dogs in my car before. 
+
+Q Yeah I saw him a little bit ago. 
+
+O2 He's almost human. 
+
+
+80 
+SUPREME COURT OF THE UNITED STATES 
+
+
+No. 94-6615 
+CARL THOMPSON, 
+Petitioner 
+V. 
+
+
+PATRICK KEOHANE, Warden, et al. 
+
+
+ON PETITION FOR WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+ON CONSIDERATION of the motion for leave to 
+proceed herein in forma pauperis and of the petition for 
+writ of certiorari, it is ordered by this Court that the 
+motion to proceed in forma pauperis be, and the same is 
+hereby, granted; and that the petition for writ of cer- 
+tiorari be, and the same is hereby, granted. 
+
+
+January 23, 1995 
+
+

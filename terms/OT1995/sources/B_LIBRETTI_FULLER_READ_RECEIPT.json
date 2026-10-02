@@ -1,0 +1,34 @@
+{
+  "cutoff": "1995-11-07",
+  "kind": "source-only completion",
+  "read_extent_authority": "B_LIBRETTI_FULLER_RECORD_ADDENDUM.md, Sources and read extent",
+  "current_sc_merits_read": false,
+  "excluded": "JA330 Supreme Court certiorari order; grant metadata encountered in contents/docket only",
+  "sources": [
+    {
+      "file": "terms\\OT1995\\sources\\preflight_b\\B_libretti_05._Joint_Appendix.pdf",
+      "sha256": "1baf69f38aa2e79c6a88bd150c9e364a768fde75087963b4db71857694e0af9e",
+      "bytes": 46943559
+    },
+    {
+      "file": "terms\\OT1995\\sources\\preflight_b\\B_libretti_06._Petitioners_Brief.pdf",
+      "sha256": "c038d3e3b646e21daf5e730b96bddc2f588109ec212a70b5c6f53b70e1bfa000",
+      "bytes": 12204158
+    },
+    {
+      "file": "terms\\OT1995\\sources\\preflight_b\\B_libretti_07._Respondents_Brief.pdf",
+      "sha256": "577d49446aec1391b694145e6ae35186aeae1dfe43b2abe91eea0b689095d092",
+      "bytes": 11883370
+    },
+    {
+      "file": "terms\\OT1995\\sources\\preflight_b\\B_libretti_08._Reply_Brief.pdf",
+      "sha256": "df383a9846cb7bbee6047e00936edec81c5c8b8abf44aebec10c5f87441912cb",
+      "bytes": 5006156
+    },
+    {
+      "file": "terms\\OT1995\\sources\\preflight_b\\B_libretti_02._Petition_for_Writ_of_Certiorari_djvu.txt",
+      "sha256": "4b41f62d52d60995aaefc733e185734e61bc0203b0ac9ea7c1764d01e619f49f",
+      "bytes": 63849
+    }
+  ]
+}

@@ -1,0 +1,729 @@
+§ 523  TITLE 11--BANKRUPTCY                                         Page 100
+
+   Subsection (n) provides the rule for a joint case: each          they shall be deemed to elect paragraph (1), where such
+debtor is entitled to the Federal exemptions provided               election is permitted under the law of the jurisdiction
+under this section or to the State exemptions, which-               where the case is filed.
+ever the debtor chooses.
+                                                                       Subsec. (c). Pub. L. 98-353, § 453(b), amended subsec.
+                           REFERENCES IN TEXT                       (c) generally. Prior to amendment, subsec. (c) read as
+                                                                    follows: ``Unless the case is dismissed, property ex-
+   The Federal Rules of Bankruptcy Procedure, referred              empted under this section is not liable during or after
+to in subsec. (b), are set out in the Appendix to this              the case for any debt of the debtor that arose, or that
+title.                                                              is determined under section 502 of this title as if such
+                                                                    claim had arisen before the commencement of the case,
+   The Internal Revenue Code of 1986, referred to in sub-           except--
+sec. (d)(10)(E)(iii), is classified to Title 26, Internal Rev-
+enue Code.                                                                ``(1) a debt of a kind specified in section 523(a)(1) or
+                                                                       section 523(a)(5) of this title; or
+                                  AMENDMENTS
+                                                                          ``(2) a lien that is--
+   1994--Subsec. (b). Pub. L. 103-394, § 501(d)(12)(A), sub-                 ``(A) not avoided under section 544, 545, 547, 548,
+stituted ``Federal Rules of Bankruptcy Procedure'' for
+``Bankruptcy Rules''.                                                     549, or 724(a) of this title;
+                                                                             ``(B) not voided under section 506(d) of this title;
+   Subsec. (d)(1) to (6). Pub. L. 103-394, § 108(d)(1)-(6), sub-
+stituted ``$15,000'' for ``$7,500'' in par. (1), ``$2,400'' for           or
+``$1,200'' in par. (2), ``$400'' and ``$8,000'' for ``$200'' and             ``(C)(i) a tax lien, notice of which is properly filed;
+``$4,000'', respectively, in par. (3), ``$1,000'' for ``$500'' in
+par. (4), ``$800'' and ``$7,500'' for ``$400'' and ``$3,750'', re-        and
+spectively, in par. (5), and ``$1,500'' for ``$750'' in par. (6).            ``(ii) avoided under section 545(2) of this title.''
+
+   Subsec. (d)(8). Pub. L. 103-394, § 108(d)(7), substituted           Subsec. (d)(3). Pub. L. 98-353, § 306(b), inserted ``or
+``$8,000'' for ``$4,000''.                                          $4,000 in aggregate value''.
+
+   Subsec. (d)(10)(E)(iii). Pub. L. 103-394, § 501(d)(12)(B),          Subsec. (d)(5). Pub. L. 98-353, § 306(c), amended par. (5)
+substituted ``or 408'' for ``408, or 409'' and ``Internal Rev-      generally. Prior to amendment, par. (5) read as follows:
+enue Code of 1986'' for ``Internal Revenue Code of 1954             ``The debtor's aggregate interest, not to exceed in value
+(26 U.S.C. 401(a), 403(a), 403(b), 408, or 409)''.                  $400 plus any unused amount of the exemption provided
+                                                                    under paragraph (1) of this subsection, in any prop-
+   Subsec. (d)(11)(D). Pub. L. 103-394, § 108(d)(8), sub-           erty.''
+stituted ``$15,000'' for ``$7,500''.
+                                                                       Subsec. (e). Pub. L. 98-353, § 453(c), substituted ``an ex-
+   Subsec. (f)(1). Pub. L. 103-394, §§ 303(3), 310(1), des-         emption'' for ``exemptions''.
+ignated existing provisions as par. (1) and inserted ``but
+subject to paragraph (3)'' after ``waiver of exemptions''              Subsec. (m). Pub. L. 98-353, § 306(d), substituted ``Sub-
+in introductory provisions. Former par. (1) redesig-                ject to the limitation in subsection (b), this section
+nated subpar. (A) of par. (1).                                      shall apply separately with respect to each debtor in a
+                                                                    joint case'' for ``This section shall apply separately
+   Subsec. (f)(1)(A). Pub. L. 103-394, §§ 303(2), 304(d), re-       with respect to each debtor in a joint case''.
+designated par. (1) as subpar. (A) of par. (1) and inserted
+``, other than a judicial lien that secures a debt--                              EFFECTIVE DATE OF 1994 AMENDMENT
+
+      ``(i) to a spouse, former spouse, or child of the debt-          Amendment by Pub. L. 103-394 effective Oct. 22, 1994,
+   or, for alimony to, maintenance for, or support of               and not applicable with respect to cases commenced
+   such spouse or child, in connection with a separation            under this title before Oct. 22, 1994, see section 702 of
+   agreement, divorce decree or other order of a court of           Pub. L. 103-394, set out as a note under section 101 of
+   record, determination made in accordance with State              this title.
+   or territorial law by a governmental unit, or property
+   settlement agreement; and                                                      EFFECTIVE DATE OF 1986 AMENDMENT
+
+      ``(ii) to the extent that such debt--                            Amendment by Pub. L. 99-554 effective 30 days after
+         ``(I) is not assigned to another entity, volun-            Oct. 27, 1986, see section 302(a) of Pub. L. 99-554, set out
+                                                                    as a note under section 581 of Title 28, Judiciary and
+      tarily, by operation of law, or otherwise; and                Judicial Procedure.
+         ``(II) includes a liability designated as alimony,
+                                                                                  EFFECTIVE DATE OF 1984 AMENDMENT
+      maintenance, or support, unless such liability is ac-
+      tually in the nature of alimony, maintenance or                  Amendment by Pub. L. 98-353 effective with respect
+      support.''                                                    to cases filed 90 days after July 10, 1984, see section
+   Subsec. (f)(1)(B). Pub. L. 103-394, § 303(1), redesignated       552(a) of Pub. L. 98-353, set out as a note under section
+par. (2) as subpar. (B) of par. (1) and subpars. (A) to (C)         101 of this title.
+of par. (2) as cls. (i) to (iii), respectively, of subpar. (B)
+of par. (1).                                                                    SECTION REFERRED TO IN OTHER SECTIONS
+   Subsec. (f)(2). Pub. L. 103-394, § 303(4), added par. (2).
+Former par. (2) redesignated subpar. (B) of par. (1).                  This section is referred to in sections 101, 104, 106, 110,
+   Subsec. (f)(3). Pub. L. 103-394, § 310(2), added par. (3).       349, 502, 542, 551, 552, 722, 1123 of this title; title 26 sec-
+   1990--Subsec. (c)(3). Pub. L. 101-647 added par. (3).            tions 1017, 1398; title 28 section 3014; title 29 section
+   1986--Subsec. (h)(1). Pub. L. 99-554, § 283(i)(1), sub-          1405.
+stituted ``553 of this title'' for ``553 of this tittle''.
+   Subsec. (i)(2). Pub. L. 99-554, § 283(i)(2), substituted         § 523. Exceptions to discharge
+``this'' for ``his'' after ``subsection (g) of''.
+   1984--Subsec. (a)(2). Pub. L. 98-353, § 453(a), inserted            (a) A discharge under section 727, 1141, 1228(a),
+``or, with respect to property that becomes property of             1228(b), or 1328(b) of this title does not discharge
+an estate after such date, as of the date such property             an individual debtor from any debt--
+becomes property of the estate''.
+   Subsec. (b). Pub. L. 98-353, § 306(a), inserted provision              (1) for a tax or a customs duty--
+that in joint cases filed under section 302 of this title                    (A) of the kind and for the periods speci-
+and individual cases filed under section 301 or 303 of
+this title by or against debtors who are husband and                      fied in section 507(a)(2) or 507(a)(8) of this
+wife, and whose estates are ordered to be jointly admin-                  title, whether or not a claim for such tax
+istered under Rule 1015(b) of the Bankruptcy Rules, one                   was filed or allowed;
+debtor may not elect to exempt property listed in para-
+graph (1) and the other debtor elect to exempt property                      (B) with respect to which a return, if re-
+listed in paragraph (2) of this subsection, but that if the               quired--
+parties cannot agree on the alternative to be elected,
+                                                                                (i) was not filed; or
+                                                                                (ii) was filed after the date on which
+                                                                             such return was last due, under applicable
+                                                                             law or under any extension, and after two
+Page 101  TITLE 11--BANKRUPTCY                        § 523
+
+      years before the date of the filing of the            (A) such debt is assigned to another entity,
+      petition; or                                       voluntarily, by operation of law, or other-
+                                                         wise (other than debts assigned pursuant to
+      (C) with respect to which the debtor made          section 402(a)(26) of the Social Security Act,
+   a fraudulent return or willfully attempted in         or any such debt which has been assigned to
+   any manner to evade or defeat such tax;               the Federal Government or to a State or any
+                                                         political subdivision of such State); or
+   (2) for money, property, services, or an ex-
+tension, renewal, or refinancing of credit, to              (B) such debt includes a liability des-
+the extent obtained by--                                 ignated as alimony, maintenance, or sup-
+                                                         port, unless such liability is actually in the
+      (A) false pretenses, a false representation,       nature of alimony, maintenance, or support;
+   or actual fraud, other than a statement re-
+   specting the debtor's or an insider's finan-          (6) for willful and malicious injury by the
+   cial condition;                                    debtor to another entity or to the property of
+                                                      another entity;
+      (B) use of a statement in writing--
+         (i) that is materially false;                   (7) to the extent such debt is for a fine, pen-
+         (ii) respecting the debtor's or an insid-    alty, or forfeiture payable to and for the bene-
+                                                      fit of a governmental unit, and is not com-
+      er's financial condition;                       pensation for actual pecuniary loss, other than
+         (iii) on which the creditor to whom the      a tax penalty--
+
+      debtor is liable for such money, property,            (A) relating to a tax of a kind not specified
+      services, or credit reasonably relied; and         in paragraph (1) of this subsection; or
+
+         (iv) that the debtor caused to be made or          (B) imposed with respect to a transaction
+      published with intent to deceive; or               or event that occurred before three years be-
+                                                         fore the date of the filing of the petition;
+      (C) for purposes of subparagraph (A) of this
+   paragraph, consumer debts owed to a single            (8) for an educational benefit overpayment
+   creditor and aggregating more than $1,000          or loan made, insured or guaranteed by a gov-
+   for ``luxury goods or services'' incurred by       ernmental unit, or made under any program
+   an individual debtor on or within 60 days be-      funded in whole or in part by a governmental
+   fore the order for relief under this title, or     unit or nonprofit institution, or for an obliga-
+   cash advances aggregating more than $1,000         tion to repay funds received as an educational
+   that are extensions of consumer credit under       benefit, scholarship or stipend, unless--
+   an open end credit plan obtained by an indi-
+   vidual debtor on or within 60 days before the            (A) such loan, benefit, scholarship, or sti-
+   order for relief under this title, are pre-           pend overpayment first became due more
+   sumed to be nondischargeable; ``luxury                than 7 years (exclusive of any applicable sus-
+   goods or services'' do not include goods or           pension of the repayment period) before the
+   services reasonably acquired for the support          date of the filing of the petition; or
+   or maintenance of the debtor or a dependent
+   of the debtor; an extension of consumer                  (B) excepting such debt from discharge
+   credit under an open end credit plan is to be         under this paragraph will impose an undue
+   defined for purposes of this subparagraph as          hardship on the debtor and the debtor's de-
+   it is defined in the Consumer Credit Protec-          pendents;
+   tion Act;
+                                                         (9) for death or personal injury caused by the
+   (3) neither listed nor scheduled under section     debtor's operation of a motor vehicle if such
+521(1) of this title, with the name, if known to      operation was unlawful because the debtor was
+the debtor, of the creditor to whom such debt         intoxicated from using alcohol, a drug, or an-
+is owed, in time to permit--                          other substance;
+
+      (A) if such debt is not of a kind specified in     (10) that was or could have been listed or
+   paragraph (2), (4), or (6) of this subsection,     scheduled by the debtor in a prior case con-
+   timely filing of a proof of claim, unless such     cerning the debtor under this title or under
+   creditor had notice or actual knowledge of         the Bankruptcy Act in which the debtor
+   the case in time for such timely filing; or        waived discharge, or was denied a discharge
+                                                      under section 727(a)(2), (3), (4), (5), (6), or (7) of
+      (B) if such debt is of a kind specified in      this title, or under section 14c(1), (2), (3), (4),
+   paragraph (2), (4), or (6) of this subsection,     (6), or (7) of such Act;
+   timely filing of a proof of claim and timely
+   request for a determination of dis-                   (11) provided in any final judgment, un-
+   chargeability of such debt under one of such       reviewable order, or consent order or decree
+   paragraphs, unless such creditor had notice        entered in any court of the United States or of
+   or actual knowledge of the case in time for        any State, issued by a Federal depository in-
+   such timely filing and request;                    stitutions regulatory agency, or contained in
+                                                      any settlement agreement entered into by the
+   (4) for fraud or defalcation while acting in a     debtor, arising from any act of fraud or defal-
+fiduciary capacity, embezzlement, or larceny;         cation while acting in a fiduciary capacity
+                                                      committed with respect to any depository in-
+   (5) to a spouse, former spouse, or child of the    stitution or insured credit union;
+debtor, for alimony to, maintenance for, or
+support of such spouse or child, in connection           (12) for malicious or reckless failure to ful-
+with a separation agreement, divorce decree or        fill any commitment by the debtor to a Fed-
+other order of a court of record, determination       eral depository institutions regulatory agency
+made in accordance with State or territorial          to maintain the capital of an insured deposi-
+law by a governmental unit, or property set-          tory institution, except that this paragraph
+tlement agreement, but not to the extent              shall not extend any such commitment which
+that--                                                would otherwise be terminated due to any act
+                                                      of such agency;
+§ 523  TITLE 11--BANKRUPTCY                                  Page 102
+
+      (13) for any payment of an order of restitu-           agency seeking, in its capacity as conservator,
+   tion issued under title 18, United States Code;           receiver, or liquidating agent for an insured de-
+                                                             pository institution, to recover a debt described
+      (14) incurred to pay a tax to the United               in subsection (a)(2), (a)(4), (a)(6), or (a)(11) owed
+   States that would be nondischargeable pursu-              to such institution by an institution-affiliated
+   ant to paragraph (1);                                     party unless the receiver, conservator, or liq-
+                                                             uidating agent was appointed in time to reason-
+      (15) not of the kind described in paragraph            ably comply, or for a Federal depository institu-
+   (5) that is incurred by the debtor in the course          tions regulatory agency acting in its corporate
+   of a divorce or separation or in connection               capacity as a successor to such receiver, con-
+   with a separation agreement, divorce decree or            servator, or liquidating agent to reasonably
+   other order of a court of record, a determina-            comply, with subsection (a)(3)(B) as a creditor of
+   tion made in accordance with State or terri-              such institution-affiliated party with respect to
+   torial law by a governmental unit unless--                such debt.
+
+         (A) the debtor does not have the ability to            (d) If a creditor requests a determination of
+      pay such debt from income or property of               dischargeability of a consumer debt under sub-
+      the debtor not reasonably necessary to be              section (a)(2) of this section, and such debt is
+      expended for the maintenance or support of             discharged, the court shall grant judgment in
+      the debtor or a dependent of the debtor and,           favor of the debtor for the costs of, and a reason-
+      if the debtor is engaged in a business, for the        able attorney's fee for, the proceeding if the
+      payment of expenditures necessary for the              court finds that the position of the creditor was
+      continuation, preservation, and operation of           not substantially justified, except that the court
+      such business; or                                      shall not award such costs and fees if special cir-
+                                                             cumstances would make the award unjust.
+         (B) discharging such debt would result in a
+      benefit to the debtor that outweighs the det-             (e) Any institution-affiliated party of a 3 in-
+      rimental consequences to a spouse, former              sured depository institution shall be considered
+      spouse, or child of the debtor; 1                      to be acting in a fiduciary capacity with respect
+                                                             to the purposes of subsection (a)(4) or (11).
+      (16) for a fee or assessment that becomes due
+   and payable after the order for relief to a               (Pub. L. 95-598, Nov. 6, 1978, 92 Stat. 2590; Pub. L.
+   membership association with respect to the                96-56, § 3, Aug. 14, 1979, 93 Stat. 387; Pub. L. 97-35,
+   debtor's interest in a dwelling unit that has             title XXIII, § 2334(b), Aug. 13, 1981, 95 Stat. 863;
+   condominium ownership or in a share of a co-              Pub. L. 98-353, title III, §§ 307, 371, 454, July 10,
+   operative housing corporation, but only if                1984, 98 Stat. 353, 364, 375; Pub. L. 99-554, title II,
+   such fee or assessment is payable for a period            §§ 257(n), 281, 283(j), Oct. 27, 1986, 100 Stat.
+   during which--                                            3115-3117; Pub. L. 101-581, § 2(a), Nov. 15, 1990, 104
+                                                             Stat. 2865; Pub. L. 101-647, title XXV, § 2522(a),
+         (A) the debtor physically occupied a dwell-         title XXXI, § 3102(a), title XXXVI, § 3621, Nov. 29,
+      ing unit in the condominium or cooperative             1990, 104 Stat. 4865, 4916, 4964; Pub. L. 103-322,
+      project; or                                            title XXXII, § 320934, Sept. 13, 1994, 108 Stat. 2135;
+                                                             Pub. L. 103-394, title II, § 221, title III, §§ 304(e),
+         (B) the debtor rented the dwelling unit to          (h)(3), 306, 309, title V, § 501(d)(13), Oct. 22, 1994,
+      a tenant and received payments from the                108 Stat. 4129, 4133-4135, 4137, 4145.)
+      tenant for such period,
+                                                                               HISTORICAL AND REVISION NOTES
+   but nothing in this paragraph shall except
+   from discharge the debt of a debtor for a mem-                                         LEGISLATIVE STATEMENTS
+   bership association fee or assessment for a pe-
+   riod arising before entry of the order for relief            Section 523(a)(1) represents a compromise between
+   in a pending or subsequent bankruptcy case.               the position taken in the House bill and the Senate
+                                                             amendment. Section 523(a)(2) likewise represents a
+   (b) Notwithstanding subsection (a) of this sec-           compromise between the position taken in the House
+tion, a debt that was excepted from discharge                bill and the Senate amendment with respect to the
+under subsection (a)(1), (a)(3), or (a)(8) of this           false financial statement exception to discharge. In
+section, under section 17a(1), 17a(3), or 17a(5) of          order to clarify that a ``renewal of credit'' includes a
+the Bankruptcy Act, under section 439A 2 of the              ``refinancing of credit'', explicit reference to a refinanc-
+Higher Education Act of 1965, or under section               ing of credit is made in the preamble to section
+733(g) 2 of the Public Health Service Act in a               523(a)(2). A renewal of credit or refinancing of credit
+prior case concerning the debtor under this                  that was obtained by a false financial statement within
+title, or under the Bankruptcy Act, is discharge-            the terms of section 523(a)(2) is nondischargeable. How-
+able in a case under this title unless, by the               ever, each of the provisions of section 523(a)(2) must be
+terms of subsection (a) of this section, such debt           proved. Thus, under section 523(a)(2)(A) a creditor must
+is not dischargeable in the case under this title.           prove that the debt was obtained by false pretenses, a
+                                                             false representation, or actual fraud, other than a
+   (c)(1) Except as provided in subsection (a)(3)(B)         statement respecting the debtor's or an insider's finan-
+of this section, the debtor shall be discharged              cial condition. Subparagraph (A) is intended to codify
+from a debt of a kind specified in paragraph (2),            current case law e.g., Neal v. Clark, 95 U.S. 704 (1887) [24
+(4), (6), or (15) of subsection (a) of this section,         L. Ed. 586], which interprets ``fraud'' to mean actual or
+unless, on request of the creditor to whom such              positive fraud rather than fraud implied in law. Sub-
+debt is owed, and after notice and a hearing, the            paragraph (A) is mutually exclusive from subparagraph
+court determines such debt to be excepted from               (B). Subparagraph (B) pertains to the so-called false fi-
+discharge under paragraph (2), (4), (6), or (15), as         nancial statement. In order for the debt to be non-
+the case may be, of subsection (a) of this sec-              dischargeable, the creditor must prove that the debt
+tion.                                                        was obtained by the use of a statement in writing (i)
+
+   (2) Paragraph (1) shall not apply in the case of             3 So in original. Probably should be ``an''.
+a Federal depository institutions regulatory
+
+   1 So in original. Probably should be followed by ``or''.
+
+   2 See References in Text note below.
+Page 103  TITLE 11--BANKRUPTCY                              § 523
+
+that is materially false; (ii) respecting the debtor's or      Nondischargeable debts: The House amendment re-
+an insider's financial condition; (iii) on which the cred-  tains the basic categories of nondischargeable tax li-
+itor to whom the debtor is liable for obtaining money,      abilities contained in both bills, but restricts the time
+property, services, or credit reasonably relied; (iv) that  limits on certain nondischargeable taxes. Under the
+the debtor caused to be made or published with intent       amendment, nondischargeable taxes cover taxes enti-
+to deceive. Section 523(a)(2)(B)(iv) is not intended to     tled to priority under section 507(a)(6) of title 11 and, in
+change from present law since the statement that the        the case of individual debtors under chapters 7, 11, or
+debtor causes to be made or published with the intent       13, tax liabilities with respect to which no required re-
+to deceive automatically includes a statement that the      turn had been filed or as to which a late return had
+debtor actually makes or publishes with an intent to        been filed if the return became last due, including ex-
+deceive. Section 523(a)(2)(B) is explained in the House     tensions, within 2 years before the date of the petition
+report. Under section 523(a)(2)(B)(i) a discharge is        or became due after the petition or as to which the
+barred only as to that portion of a loan with respect to    debtor made a fraudulent return, entry or invoice or
+which a false financial statement is materially false.      fraudulently attempted to evade or defeat the tax.
+
+   In many cases, a creditor is required by state law to       In the case of individuals in liquidation under chapter
+refinance existing credit on which there has been no de-    7 or in reorganization under chapter 11 of title 11, sec-
+fault. If the creditor does not forfeit remedies or other-  tion 1141(d)(2) incorporates by reference the exceptions
+wise rely to his detriment on a false financial state-      to discharge continued in section 523. Different rules
+ment with respect to existing credit, then an extension,    concerning the discharge of taxes where a partnership
+renewal, or refinancing of such credit is nondischarge-     or corporation reorganizes under chapter 11, apply
+able only to the extent of the new money advanced; on       under section 1141.
+the other hand, if an existing loan is in default or the
+creditor otherwise reasonably relies to his detriment          The House amendment also deletes the reduction rule
+on a false financial statement with regard to an exist-     contained in section 523(e) of the Senate amendment.
+ing loan, then the entire debt is nondischargeable          Under that rule, the amount of an otherwise non-
+under section 523(a)(2)(B). This codifies the reasoning     dischargeable tax liability would be reduced by the
+expressed by the second circuit in In re Danns, 558 F.2d    amount which a governmental tax authority could
+114 (2d Cir. 1977).                                         have collected from the debtor's estate if it had filed a
+                                                            timely claim against the estate but which it did not
+   Section 523(a)(3) of the House amendment is derived      collect because no such claim was filed. This provision
+from the Senate amendment. The provision is intended        is deleted in order not to effectively compel a tax au-
+to overrule Birkett v. Columbia Bank, 195 U.S. 345 (1904)   thority to file claim against the estate in ``no asset''
+[25 S.Ct. 38, 49 L.Ed. 231, 12 Am.Bankr.Rep. 691].          cases, along with a dischargeability petition. In no-
+                                                            asset cases, therefore, if the tax authority is not poten-
+   Section 523(a)(4) of the House amendment represents      tially penalized by failing to file a claim, the debtor in
+a compromise between the House bill and the Senate          such cases will have a better opportunity to choose the
+amendment.                                                  prepayment forum, bankruptcy court or the Tax Court,
+                                                            in which to litigate his personal liability for a non-
+   Section 523(a)(5) is a compromise between the House      dischargeable tax.
+bill and the Senate amendment. The provision excepts
+from discharge a debt owed to a spouse, former spouse          The House amendment also adopts the Senate amend-
+or child of the debtor, in connection with a separation     ment provision limiting the nondischargeability of
+agreement, divorce decree, or property settlement           punitive tax penalties, that is, penalties other than
+agreement, for alimony to, maintenance for, or support      those which represent collection of a principal amount
+of such spouse or child but not to the extent that the      of tax liability through the form of a ``penalty.'' Under
+debt is assigned to another entity. If the debtor has as-   the House amendment, tax penalties which are basi-
+sumed an obligation of the debtor's spouse to a third       cally punitive in nature are to be nondischargeable
+party in connection with a separation agreement, prop-      only if the penalty is computed by reference to a relat-
+erty settlement agreement, or divorce proceeding, such      ed tax liability which is nondischargeable or, if the
+debt is dischargeable to the extent that payment of the     amount of the penalty is not computed by reference to
+debt by the debtor is not actually in the nature of ali-    a tax liability, the transaction or event giving rise to
+mony, maintenance, or support of debtor's spouse,           the penalty occurred during the 3-year period ending on
+former spouse, or child.                                    the date of the petition.
+
+   Section 523(a)(6) adopts the position taken in the                               SENATE REPORT NO. 95-989
+House bill and rejects the alternative suggested in the
+Senate amendment. The phrase ``willful and malicious           This section specifies which of the debtor's debts are
+injury'' covers a willful and malicious conversion.         not discharged in a bankruptcy case, and certain proce-
+                                                            dures for effectuating the section. The provision in
+   Section 523(a)(7) of the House amendment adopts the      Bankruptcy Act § 17c [section 35(c) of former title 11]
+position taken in the Senate amendment and rejects          granting the bankruptcy courts jurisdiction to deter-
+the position taken in the House bill. A penalty relating    mine dischargeability is deleted as unnecessary, in
+to a tax cannot be nondischargeable unless the tax it-      view of the comprehensive grant of jurisdiction pre-
+self is nondischargeable.                                   scribed in proposed 28 U.S.C. 1334(b), which is adequate
+                                                            to cover the full jurisdiction that the bankruptcy
+   Section 523(a)(8) represents a compromise between        courts have today over dischargeability and related is-
+the House bill and the Senate amendment regarding           sues under Bankruptcy Act § 17c. The Rules of Bank-
+educational loans. This provision is broader than cur-      ruptcy Procedure will specify, as they do today, who
+rent law which is limited to federally insured loans.       may request determinations of dischargeability, sub-
+Only educational loans owing to a governmental unit         ject, of course, to proposed 11 U.S.C. 523(c), and when
+or a nonprofit institution of higher education are made     such a request may be made. Proposed 11 U.S.C. 350,
+nondischargeable under this paragraph.                      providing for reopening of cases, provides one possible
+                                                            procedure for a determination of dischargeability and
+   Section 523(b) is new. The section represents a modi-    related issues after a case is closed.
+fication of similar provisions contained in the House
+bill and the Senate amendment.                                 Subsection (a) lists nine kinds of debts excepted from
+                                                            discharge. Taxes that are excepted from discharge are
+   Section 523(c) of the House amendment adopts the po-     set forth in paragraph (1). These include claims against
+sition taken in the Senate amendment.                       the debtor which receive priority in the second, third
+                                                            and sixth categories (§ 507(a)(3)(B) and (c) and (6)).
+   Section 523(d) represents a compromise between the       These categories include taxes for which the tax au-
+position taken in the House bill and the Senate amend-      thority failed to file a claim against the estate or filed
+ment on the issue of attorneys' fees in false financial     its claim late. Whether or not the taxing authority's
+statement complaints to determine dischargeability.         claim is secured will also not affect the claim's nondis-
+The provision contained in the House bill permitting
+the court to award damages is eliminated. The court
+must grant the debtor judgment or a reasonable attor-
+neys' fee unless the granting of judgment would be
+clearly inequitable.
+§ 523  TITLE 11--BANKRUPTCY                                     Page 104
+
+chargeability if the tax liability in question is other-        child. This language, in combination with the repeal of
+wise entitled to priority.                                      section 456(b) of the Social Security Act (42 U.S.C.
+                                                                656(b)) by section 326 of the bill, will apply to make
+   Also included in the nondischargeable debts are taxes        nondischargeable only alimony, maintenance, or sup-
+for which the debtor had not filed a required return as         port owed directly to a spouse or dependent. What con-
+of the petition date, or for which a return had been            stitutes alimony, maintenance, or support, will be de-
+filed beyond its last permitted due date (§ 523(a)(1)(B)).      termined under the bankruptcy law, not State law.
+For this purpose, the date of the tax year to which the         Thus, cases such as In re Waller, 494 F.2d 447 (6th Cir.
+return relates is immaterial. The late return rule ap-          1974), are overruled, and the result in cases such as Fife
+plies, however, only to the late returns filed within           v. Fife, 1 Utah 2d 281, 265 P.2d 642 (1952) is followed. The
+three years before the petition was filed, and to late re-      proviso, however, makes nondischargeable any debts
+turns filed after the petition in title 11 was filed. For       resulting from an agreement by the debtor to hold the
+this purpose, the taxable year in question need not be          debtor's spouse harmless on joint debts, to the extent
+one or more of the three years immediately preceding            that the agreement is in payment of alimony, mainte-
+the filing of the petition.                                     nance, or support of the spouse, as determined under
+                                                                bankruptcy law considerations as to whether a particu-
+   Tax claims with respect to which the debtor filed a          lar agreement to pay money to a spouse is actually ali-
+fraudulent return, entry or invoice, or fraudulently at-        mony or a property settlement.
+tempted to evade or defeat any tax (§ 523(a)(1)(C)) are
+included. The date of the taxable year with regard to              Paragraph (7) makes nondischargeable certain liabil-
+which the fraud occurred is immaterial.                         ities for penalties including tax penalties if the under-
+                                                                lying tax with respect to which the penalty was im-
+   Also included are tax payments due under an agree-           posed is also nondischargeable (sec. 523(a)(7)). These
+ment for deferred payment of taxes, which a debtor had          latter liabilities cover those which, but are penal in na-
+entered into with the Internal Revenue Service (or              ture, as distinct from so-called ``pecuniary loss'' pen-
+State or local tax authority) before the filing of the pe-      alties which, in the case of taxes, involve basically the
+tition and which relate to a prepetition tax liability          collection of a tax under the label of a ``penalty.'' This
+(§ 523(a)(1)(D)) are also nondischargeable. This classi-        provision differs from the bill as introduced, which did
+fication applies only to tax claims which would have            not link the nondischarge of a tax penalty with the
+received priority under section 507(a) if the taxpayer          treatment of the underlying tax. The amended provi-
+had filed a title 11 petition on the date on which the de-      sion reflects the existing position of the Internal Reve-
+ferred payment agreement was entered into. This rule            nue Service as to tax penalties imposed by the Internal
+also applies only to installment payments which be-             Revenue Code (Rev.Rul. 68-574, 1968-2 C.B. 595).
+come due during and after the commencement of the
+title 11 case. Payments which had become due within                Paragraph (8) follows generally current law and ex-
+one year before the filing of the petition receive sixth        cerpts from discharge student loans until such loans
+priority, and will be nondischargeable under the gen-           have been due and owing for five years. Such loans in-
+eral rule of section 523(a)(1)(A).                              clude direct student loans as well as insured and guar-
+                                                                anteed loans. This provision is intended to be self-exe-
+   The above categories of nondischargeability apply to         cuting and the lender or institution is not required to
+customs duties as well as to taxes.                             file a complaint to determine the nondischargeability
+                                                                of any student loan.
+   Paragraph (2) provides that as under Bankruptcy Act
+§ 17a(2) [section 35(a)(2) of former title 11], a debt for ob-     Paragraph (9) excepts from discharge debts that the
+taining money, property, services, or a refinancing ex-         debtor owed before a previous bankruptcy case con-
+tension or renewal of credit by false pretenses, a false        cerning the debtor in which the debtor was denied a
+representation, or actual fraud, or by use of a state-          discharge other than on the basis of the six-year bar.
+ment in writing respecting the debtor's financial condi-
+tion that is materially false, on which the creditor rea-          Subsection (b) of this section permits discharge in a
+sonably relied, and which the debtor made or published          bankruptcy case of an unscheduled debt from a prior
+with intent to deceive, is excepted from discharge. This        case. This provision is carried over from Bankruptcy
+provision is modified only slightly from current section        Act § 17b [section 35(b) of former title 11]. The result
+17a(2). First, ``actual fraud'' is added as a ground for ex-    dictated by the subsection would probably not be dif-
+ception from discharge. Second, the creditor must not           ferent if the subsection were not included. It is in-
+only have relied on a false statement in writing, but           cluded nevertheless for clarity.
+the reliance must have been reasonable. This codifies
+case law construing present section 17a(2). Third, the             Subsection (c) requires a creditor who is owed a debt
+phrase ``in any manner whatsoever'' that appears in             that may be excepted from discharge under paragraph
+current law after ``made or published'' is deleted as un-       (2), (4), or (5), (false statements, defalcation or larceny
+necessary, the word ``published'' is used in the same           misappropriation, or willful and malicious injury) to
+sense that it is used in defamation cases.                      initiate proceedings in the bankruptcy court for an ex-
+                                                                ception to discharge. If the creditor does not act, the
+   Unscheduled debts are excepted from discharge under          debt is discharged. This provision does not change cur-
+paragraph (3). The provision, derived from section              rent law.
+17a(3) [section 35(a)(3) of former title 11], follows cur-
+rent law, but clarifies some uncertainties generated by            Subsection (d) is new. It provides protection to a con-
+the case law construing 17a(3). The debt is excepted            sumer debtor that dealt honestly with a creditor who
+from discharge if it was not scheduled in time to per-          sought to have a debt excepted from discharge on the
+mit timely action by the creditor to protect his rights,        ground of falsity in the incurring of the debt. The debt-
+unless the creditor had notice or actual knowledge of           or may be awarded costs and a reasonable attorney's
+the case.                                                       fee for the proceeding to determine the dis-
+                                                                chargeability of a debt under subsection (a)(2), if the
+   Paragraph (4) excepts debts for fraud incurred by the        court finds that the proceeding was frivolous or not
+debtor while acting in a fiduciary capacity or for defal-       brought by its creditor in good faith.
+cation, embezzlement, or misappropriation.
+                                                                   The purpose of the provision is to discourage credi-
+   Paragraph (5) provides that debts for willful and ma-        tors from initiating proceedings to obtaining a false fi-
+licious conversion or injury by the debtor to another           nancial statement exception to discharge in the hope of
+entity or the property of another entity are non-               obtaining a settlement from an honest debtor anxious
+dischargeable. Under this paragraph ``willful'' means           to save attorney's fees. Such practices impair the debt-
+deliberate or intentional. To the extent that Tinker v.         or's fresh start and are contrary to the spirit of the
+Colwell, 139 U.S. 473 (1902), held that a less strict stand-    bankruptcy laws.
+ard is intended, and to the extent that other cases have
+relied on Tinker to apply a ``reckless disregard'' stand-                                HOUSE REPORT NO. 95-595
+ard, they are overruled.
+                                                                   Subsection (a) lists eight kinds of debts excepted
+   Paragraph (6) excepts from discharge debts to a              from discharge. Taxes that are entitled to priority are
+spouse, former spouse, or child of the debtor for ali-          excepted from discharge under paragraph (1). In addi-
+mony to, maintenance for, or support of the spouse or
+Page 105  TITLE 11--BANKRUPTCY                                  § 523
+
+tion, taxes with respect to which the debtor made a                Paragraph (7) excepts from discharge a debt for a
+fraudulent return or willfully attempted to evade or de-        fine, penalty, or forfeiture payable to and for the bene-
+feat, or with respect to which a return (if required) was       fit of a governmental unit, that is not compensation for
+not filed or was not filed after the due date and after         actual pecuniary loss.
+one year before the bankruptcy case are excepted from
+discharge. If the taxing authority's claim has been dis-           Paragraph (8) [enacted as (9)] excepts from discharge
+allowed, then it would be barred by the more modern             debts that the debtor owed before a previous bank-
+rules of collateral estoppel from reasserting that claim        ruptcy case concerning the debtor in which the debtor
+against the debtor after the case was closed. See               was denied a discharge other than on the basis of the
+Plumb, The Tax Recommendations of the Commission                six-year bar.
+on the Bankruptcy Laws: Tax Procedures, 88
+Harv.L.Rev. 1360, 1388 (1975).                                     Subsection (d) is new. It provides protection to a con-
+                                                                sumer debtor that dealt honestly with a creditor who
+   As under Bankruptcy Act § 17a(2) [section 35(a)(2) of        sought to have a debt excepted from discharge on
+former title 11], debt for obtaining money, property,           grounds of falsity in the incurring of the debt. The
+services, or an extension or renewal of credit by false         debtor is entitled to costs of and a reasonable attor-
+pretenses, a false representation, or actual fraud, or by       ney's fee for the proceeding to determine the discharge-
+use of a statement in writing respecting the debtor's fi-       ability of a debt under subsection (a)(2), if the creditor
+nancial condition that is materially false, on which the        initiated the proceeding and the debt was determined
+creditor reasonably relied, and that the debtor made or         to be dischargeable. The court is permitted to award
+published with intent to deceive, is excepted from dis-         any actual pecuniary loss that the debtor may have
+charge. This provision is modified only slightly from           suffered as a result of the proceeding (such as loss of a
+current section 17a(2). First, ``actual fraud'' is added as     day's pay). The purpose of the provision is to discour-
+a grounds for exception from discharge. Second, the             age creditors from initiating false financial statement
+creditor must not only have relied on a false statement         exception to discharge actions in the hopes of obtaining
+in writing, the reliance must have been reasonable.             a settlement from an honest debtor anxious to save at-
+This codifies case law construing this provision. Third,        torney's fees. Such practices impair the debtor's fresh
+the phrase ``in any manner whatsoever'' that appears in         start.
+current law after ``made or published'' is deleted as un-
+necessary. The word ``published'' is used in the same                                      REFERENCES IN TEXT
+sense that it is used in slander actions.
+                                                                   The Consumer Credit Protection Act, referred to in
+   Unscheduled debts are excepted from discharge under          subsec. (a)(2)(C), is Pub. L. 90-321, May 29, 1968, 82 Stat.
+paragraph (3). The provision, derived from section              146, as amended, which is classified principally to chap-
+17a(3) [section 35(a)(3) of former title 11], follows cur-      ter 41 (§ 1601 et seq.) of Title 15, Commerce and Trade.
+rent law, but clarifies some uncertainties generated by         For complete classification of this Act to the Code, see
+the case law construing 17a(3). The debt is excepted            Short Title note set out under section 1601 of Title 15
+from discharge if it was not scheduled in time to per-          and Tables.
+mit timely action by the creditor to protect his rights,
+unless the creditor had notice or actual knowledge of              Section 402(a)(26) of the Social Security Act, referred
+the case.                                                       to in subsec. (a)(5)(A), is classified to section 602(a)(26)
+                                                                of Title 42, The Public Health and Welfare.
+   Paragraph (4) excepts debts for embezzlement or lar-
+ceny. The deletion of willful and malicious conversion             The Bankruptcy Act, referred to in subsecs. (a)(10)
+from § 17a(2) of the Bankruptcy Act [section 35(a)(2) of        and (b), is act July 1, 1898, ch. 541, 30 Stat. 544, as
+former title 11] is not intended to effect a substantive        amended, which was classified generally to former
+change. The intent is to include in the category of non-        Title 11. Sections 14c and 17a of the Bankruptcy Act
+dischargeable debts a conversion under which the debt-          were classified to sections 32(c) and 35(a) of former
+or willfully and maliciously intends to borrow property         Title 11.
+for a short period of time with no intent to inflict in-
+jury but on which injury is in fact inflicted.                     Section 439A of the Higher Education Act of 1965, re-
+                                                                ferred to in subsec. (b), was classified to section 1087-3
+   Paragraph (5) excepts from discharge debts to a              of Title 20, Education, and was repealed by Pub. L.
+spouse, former spouse, or child of the debtor for ali-          95-598, title III, § 317, Nov. 6, 1978, 92 Stat. 2678.
+mony to, maintenance for, or support of, the spouse or
+child. This language, in combination with the repeal of            Section 733(g) of the Public Health Service Act, re-
+section 456(b) of the Social Security Act (42 U.S.C.            ferred to in subsec. (b), was repealed by Pub. L. 95-598,
+656(b)) by section 327 of the bill, will apply to make          title III, § 327, Nov. 6, 1978, 92 Stat. 2679. A subsec. (g),
+nondischargeable only alimony, maintenance, or sup-             containing similar provisions, was added to section 733
+port owed directly to a spouse or dependent. See Hear-          by Pub. L. 97-35, title XXVII, § 2730, Aug. 13, 1981, 95
+ings, pt. 2, at 942. What constitutes alimony, mainte-          Stat. 919. Section 733 was subsequently omitted in the
+nance, or support, will be determined under the bank-           general revision of subchapter V of chapter 6A of Title
+ruptcy laws, not State law. Thus, cases such as In re           42, The Public Health and Welfare, by Pub. L. 102-408,
+Waller, 494 F.2d 447 (6th Cir. 1974); Hearings, pt. 3, at       title I, § 102, Oct. 13, 1992, 106 Stat. 1994. See section
+1308-10, are overruled, and the result in cases such as         292f(g) of Title 42.
+Fife v. Fife, 1 Utah 2d 281, 265 P.2d 642 (1952) is followed.
+This provision will, however, make nondischargeable                                               AMENDMENTS
+any debts resulting from an agreement by the debtor to
+hold the debtor's spouse harmless on joint debts, to the           1994--Subsec. (a). Pub. L. 103-394, § 501(d)(13)(A)(i),
+extent that the agreement is in payment of alimony,             substituted ``1141,'' for ``1141,,'' in introductory provi-
+maintenance, or support of the spouse, as determined            sions.
+under bankruptcy law considerations that are similar
+to considerations of whether a particular agreement to             Subsec. (a)(1)(A). Pub. L. 103-394, § 304(h)(3), sub-
+pay money to a spouse is actually alimony or a prop-            stituted ``507(a)(8)'' for ``507(a)(7)''.
+erty settlement. See Hearings, pt. 3, at 1287-1290.
+                                                                   Subsec. (a)(2)(C). Pub. L. 103-394, §§ 306,
+   Paragraph (6) excepts debts for willful and malicious        501(d)(13)(A)(ii), substituted ``$1,000 for'' for ``$500 for'',
+injury by the debtor to another person or to the prop-          ``60'' for ``forty'' after ``incurred by an individual debtor
+erty of another person. Under this paragraph, ``willful''       on or within'', and ``60'' for ``twenty'' after ``obtained
+means deliberate or intentional. To the extent that             by an individual debtor on or within'', and struck out
+Tinker v. Colwell, 193 U.S. 473 (1902) [24 S.Ct. 505, 48 L.Ed.  ``(15 U.S.C. 1601 et seq.)'' after ``Protection Act''.
+754, 11 Am.Bankr.Rep. 568], held that a looser standard
+is intended, and to the extent that other cases have re-           Subsec. (a)(11). Pub. L. 103-322, § 320934(1), struck out
+lied on Tinker to apply a ``reckless disregard'' standard,      ``or'' after semicolon at end.
+they are overruled.
+                                                                   Subsec. (a)(12). Pub. L. 103-322, § 320934(2), which di-
+                                                                rected the substitution of ``; or'' for a period at end of
+                                                                par. (12), could not be executed because a period did not
+                                                                appear at end.
+
+                                                                   Subsec. (a)(13). Pub. L. 103-394, § 221(1), substituted
+                                                                semicolon for period at end.
+§ 523  TITLE 11--BANKRUPTCY                                      Page 106
+
+   Pub. L. 103-322, § 320934(3), added par. (13).                eral Government or to a State or any political subdivi-
+   Subsec. (a)(14). Pub. L. 103-394, § 221(2), added par. (14).  sion of such State''.
+   Subsec. (a)(15). Pub. L. 103-394, § 304(e)[(1)], which di-
+rected the amendment of this section by adding par.                 Subsec. (a)(8). Pub. L. 98-353, §§ 371(1), 454(a)(2), struck
+(15) ``at the end'' was executed by adding par. (15) at the      out ``of higher education'' after ``a nonprofit institu-
+end of subsec. (a) to reflect the probable intent of Con-        tion of'' and struck out ``or'' at end.
+gress.
+   Subsec. (a)(16). Pub. L. 103-394, § 309, added par. (16).        Subsec. (a)(9). Pub. L. 98-353, § 371(2), added the par.
+   Subsec. (b). Pub. L. 103-394, § 501(d)(13)(B), struck out     (9) relating to debts incurred by persons driving while
+``(20 U.S.C. 1087-3)'' after ``Act of 1965'' and ``(42 U.S.C.    intoxicated.
+294f)'' after ``Service Act''.
+   Subsec. (c)(1). Pub. L. 103-394, § 304(e)(2), substituted        Subsec. (c). Pub. L. 98-353, § 454(c), inserted ``of a
+``(6), or (15)'' for ``or (6)'' in two places.                   kind'' after ``debt''.
+   Subsec. (e). Pub. L. 103-394, § 501(d)(13)(C), substituted
+``insured depository institution'' for ``depository insti-          Subsec. (d). Pub. L. 98-353, § 307(b), substituted ``the
+tution or insured credit union''.                                court shall grant judgment in favor of the debtor for
+   1990--Subsec. (a)(8). Pub. L. 101-647, § 3621, substituted    the costs of, and a reasonable attorney's fee for, the
+``for an educational benefit overpayment or loan made,           proceeding if the court finds that the position of the
+insured or guaranteed by a governmental unit, or made            creditor was not substantially justified, except that the
+under any program funded in whole or in part by a gov-           court shall not award such costs and fees if special cir-
+ernmental unit or nonprofit institution, or for an obli-         cumstances would make the award unjust'' for ``the
+gation to repay funds received as an educational bene-           court shall grant judgment against such creditor and in
+fit, scholarship or stipend, unless'' for ``for an edu-          favor of the debtor for the costs of, and a reasonable at-
+cational loan made, insured, or guaranteed by a govern-          torney's fee for, the proceeding to determine dis-
+mental unit, or made under any program funded in                 chargeability, unless such granting of judgment would
+whole or in part by a governmental unit or a nonprofit           be clearly inequitable''.
+institution, unless'' in introductory provisions and
+amended subpar. (A) generally. Prior to amendment,                  1981--Subsec. (a)(5)(A). Pub. L. 97-35 substituted ``law,
+subpar. (A) read as follows: ``such loan first became due        or otherwise (other than debts assigned pursuant to
+before five years (exclusive of any applicable suspen-           section 402(a)(26) of the Social Security Act);'' for ``law,
+sion of the repayment period) before the date of the fil-        or otherwise;''.
+ing of the petition; or''.
+   Subsec. (a)(9). Pub. L. 101-581 and Pub. L. 101-647,             1979--Subsec. (a)(8). Pub. L. 96-56 substituted ``for an
+§ 3102(a), identically amended par. (9) generally. Prior         educational loan made, insured, or guaranteed by a
+to amendment, par. (9) read as follows: ``to any entity,         governmental unit, or made under any program funded
+to the extent that such debt arises from a judgment or           in whole or in part by a governmental unit or a non-
+consent decree entered in a court of record against the          profit institution of higher education'' for ``to a gov-
+debtor wherein liability was incurred by such debtor as          ernmental unit, or a nonprofit institution of higher
+a result of the debtor's operation of a motor vehicle            education, for an educational loan'' in the provisions
+while legally intoxicated under the laws or regulations          preceding subpar. (A) and inserted ``(exclusive of any
+of any jurisdiction within the United States or its ter-         applicable suspension of the repayment period)'' after
+ritories wherein such motor vehicle was operated and             ``before five years'' in subpar. (A).
+within which such liability was incurred; or''.
+   Subsec. (a)(11), (12). Pub. L. 101-647, § 2522(a)(1), added                 EFFECTIVE DATE OF 1994 AMENDMENT
+pars. (11) and (12).
+   Subsec. (c). Pub. L. 101-647, § 2522(a)(3), designated ex-       Amendment by Pub. L. 103-394 effective Oct. 22, 1994,
+isting provisions as par. (1) and added par. (2).                and not applicable with respect to cases commenced
+   Subsec. (e). Pub. L. 101-647, § 2522(a)(2), added subsec.     under this title before Oct. 22, 1994, see section 702 of
+(e).                                                             Pub. L. 103-394, set out as a note under section 101 of
+   1986--Subsec. (a). Pub. L. 99-554, § 257(n), inserted ref-    this title.
+erence to sections 1228(a) and 1228(b) of this title.
+   Subsec. (a)(1)(A). Pub. L. 99-554, § 283(j)(1)(A), sub-                    EFFECTIVE DATE OF 1990 AMENDMENTS
+stituted ``507(a)(7)'' for ``507(a)(6)''.
+   Subsec. (a)(5). Pub. L. 99-554, § 281, struck out the            Section 3104 of title XXXI of Pub. L. 101-647 provided
+comma after ``decree'' and inserted ``, determination            that:
+made in accordance with State or territorial law by a
+governmental unit,'' after ``record''.                              ``(a) EFFECTIVE DATE.--This title and the amend-
+   Subsec. (a)(9), (10). Pub. L. 99-554, § 283(j)(1)(B), redes-  ments made by this title [amending this section and
+ignated par. (9) relating to debts incurred by persons           section 1328 of this title and enacting provisions set out
+driving while intoxicated, added by Pub. L. 98-353, as           as a note under section 101 of this title] shall take ef-
+(10).                                                            fect on the date of the enactment of this Act [Nov. 29,
+   Subsec. (b). Pub. L. 99-554, § 283(j)(2), substituted         1990].
+``Service'' for ``Services''.
+   1984--Subsec. (a)(2). Pub. L. 98-353, § 454(a)(1), in provi-     ``(b) APPLICATION OF AMENDMENTS.--The amendments
+sions preceding subpar. (A), struck out ``obtaining''            made by this title [amending this section and section
+after ``for'', and substituted ``refinancing of credit, to       1328 of this title] shall not apply with respect to cases
+the extent obtained'' for ``refinance of credit,''.              commenced under title 11 of the United States Code be-
+   Subsec. (a)(2)(A). Pub. L. 98-353, § 307(a)(1), struck out    fore the date of the enactment of this Act.''
+``or'' at end.
+   Subsec. (a)(2)(B). Pub. L. 98-353, § 307(a)(2), inserted         Amendment by section 3621 of Pub. L. 101-647 effec-
+``or'' at end.                                                   tive 180 days after Nov. 29, 1990, see section 3631 of Pub.
+   Subsec. (a)(2)(B)(iii). Pub. L. 98-353, § 454(a)(1)(A),       L. 101-647, set out as an Effective Date note under sec-
+struck out ``obtaining'' before ``such''.                        tion 3001 of Title 28, Judiciary and Judicial Procedure.
+   Subsec. (a)(2)(C). Pub. L. 98-353, § 307(a)(3), added sub-
+par. (C).                                                           Section 4 of Pub. L. 101-581 provided that:
+   Subsec. (a)(5). Pub. L. 98-353, § 454(b)(1), inserted ``or       ``(a) EFFECTIVE DATE.--This Act and the amendments
+other order of a court of record'' after ``divorce decree,''     made by this Act [amending this section and section
+in provisions preceding subpar. (A).                             1328 of this title and enacting provisions set out as a
+   Subsec. (a)(5)(A). Pub. L. 98-353, § 454(b)(2), inserted      note under section 101 of this title] shall take effect on
+``, or any such debt which has been assigned to the Fed-         the date of the enactment of this Act [Nov. 15, 1990].
+                                                                    ``(b) APPLICATION OF AMENDMENTS.--The amendments
+                                                                 made by this Act [amending this section and section
+                                                                 1328 of this title] shall not apply with respect to cases
+                                                                 commenced under title 11 of the United States Code be-
+                                                                 fore the date of the enactment of this Act.''
+
+                                                                               EFFECTIVE DATE OF 1986 AMENDMENT
+
+                                                                    Amendment by section 257 of Pub. L. 99-554 effective
+                                                                 30 days after Oct. 27, 1986, but not applicable to cases
+                                                                 commenced under this title before that date, see sec-
+                                                                 tion 302(a), (c)(1) of Pub. L. 99-554, set out as a note
+Page 107  TITLE 11--BANKRUPTCY                                     § 524
+
+under section 581 of Title 28, Judiciary and Judicial                 on the date of the filing of the petition in the
+Procedure.                                                            case concerning the debtor; and
+
+   Amendment by sections 281 and 283 of Pub. L. 99-554                   (B) a determination that the court would not
+effective 30 days after Oct. 27, 1986, see section 302(a) of          so grant such discharge is made by the bank-
+Pub. L. 99-554.                                                       ruptcy court within the time and in the man-
+                                                                      ner provided for a determination under section
+              EFFECTIVE DATE OF 1984 AMENDMENT                        727 of this title of whether a debtor is granted
+                                                                      a discharge.
+   Amendment by Pub. L. 98-353 effective with respect
+to cases filed 90 days after July 10, 1984, see section               (c) An agreement between a holder of a claim
+552(a) of Pub. L. 98-353, set out as a note under section          and the debtor, the consideration for which, in
+101 of this title.                                                 whole or in part, is based on a debt that is dis-
+                                                                   chargeable in a case under this title is enforce-
+              EFFECTIVE DATE OF 1981 AMENDMENT                     able only to any extent enforceable under appli-
+                                                                   cable nonbankruptcy law, whether or not dis-
+   Amendment by Pub. L. 97-35 effective Aug. 13, 1981,             charge of such debt is waived, only if--
+see section 2334(c) of Pub. L. 97-35, set out as a note
+under section 656 of Title 42, The Public Health and                     (1) such agreement was made before the
+Welfare.                                                              granting of the discharge under section 727,
+                                                                      1141, 1228, or 1328 of this title;
+            SECTION REFERRED TO IN OTHER SECTIONS
+                                                                         (2)(A) such agreement contains a clear and
+   This section is referred to in sections 101, 104, 106, 502,        conspicuous statement which advises the debt-
+507, 522, 524, 727, 1141, 1228, 1328 of this title; title 20 sec-     or that the agreement may be rescinded at any
+tion 1087; title 26 sections 6327, 7434.                              time prior to discharge or within sixty days
+                                                                      after such agreement is filed with the court,
+§ 524. Effect of discharge                                            whichever occurs later, by giving notice of re-
+                                                                      scission to the holder of such claim; and
+   (a) A discharge in a case under this title--
+      (1) voids any judgment at any time obtained,                       (B) such agreement contains a clear and con-
+                                                                      spicuous statement which advises the debtor
+   to the extent that such judgment is a deter-                       that such agreement is not required under this
+   mination of the personal liability of the debt-                    title, under nonbankruptcy law, or under any
+   or with respect to any debt discharged under                       agreement not in accordance with the provi-
+   section 727, 944, 1141, 1228, or 1328 of this title,               sions of this subsection;
+   whether or not discharge of such debt is
+   waived;                                                               (3) such agreement has been filed with the
+                                                                      court and, if applicable, accompanied by a dec-
+      (2) operates as an injunction against the                       laration or an affidavit of the attorney that
+   commencement or continuation of an action,                         represented the debtor during the course of ne-
+   the employment of process, or an act, to col-                      gotiating an agreement under this subsection,
+   lect, recover or offset any such debt as a per-                    which states that--
+   sonal liability of the debtor, whether or not
+   discharge of such debt is waived; and                                    (A) such agreement represents a fully in-
+                                                                         formed and voluntary agreement by the
+      (3) operates as an injunction against the                          debtor;
+   commencement or continuation of an action,
+   the employment of process, or an act, to col-                            (B) such agreement does not impose an
+   lect or recover from, or offset against, prop-                        undue hardship on the debtor or a dependent
+   erty of the debtor of the kind specified in sec-                      of the debtor; and
+   tion 541(a)(2) of this title that is acquired after
+   the commencement of the case, on account of                              (C) the attorney fully advised the debtor of
+   any allowable community claim, except a                               the legal effect and consequences of--
+   community claim that is excepted from dis-
+   charge under section 523, 1228(a)(1), or                                    (i) an agreement of the kind specified in
+   1328(a)(1) 1 of this title, or that would be so ex-                      this subsection; and
+   cepted, determined in accordance with the
+   provisions of sections 523(c) and 523(d) of this                            (ii) any default under such an agreement;
+   title, in a case concerning the debtor's spouse
+   commenced on the date of the filing of the pe-                        (4) the debtor has not rescinded such agree-
+   tition in the case concerning the debtor,                          ment at any time prior to discharge or within
+   whether or not discharge of the debt based on                      sixty days after such agreement is filed with
+   such community claim is waived.                                    the court, whichever occurs later, by giving
+                                                                      notice of rescission to the holder of such
+   (b) Subsection (a)(3) of this section does not                     claim;
+apply if--
+                                                                         (5) the provisions of subsection (d) of this
+      (1)(A) the debtor's spouse is a debtor in a                     section have been complied with; and
+   case under this title, or a bankrupt or a debtor
+   in a case under the Bankruptcy Act, com-                              (6)(A) in a case concerning an individual who
+   menced within six years of the date of the fil-                    was not represented by an attorney during the
+   ing of the petition in the case concerning the                     course of negotiating an agreement under this
+   debtor; and                                                        subsection, the court approves such agreement
+                                                                      as--
+      (B) the court does not grant the debtor's
+   spouse a discharge in such case concerning the                           (i) not imposing an undue hardship on the
+   debtor's spouse; or                                                   debtor or a dependent of the debtor; and
+
+      (2)(A) the court would not grant the debtor's                         (ii) in the best interest of the debtor.
+   spouse a discharge in a case under chapter 7 of
+   this title concerning such spouse commenced                           (B) Subparagraph (A) shall not apply to the
+                                                                      extent that such debt is a consumer debt se-
+   1 See 1986 and 1994 Amendment notes below.                         cured by real property.
+
+                                                                      (d) In a case concerning an individual, when
+                                                                   the court has determined whether to grant or
+

@@ -1,0 +1,50 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 55,
+    "params": {
+      "query": "collection:us-supreme-court AND (text:Doe OR text:Doe OR text__reviews:Doe) AND (text:Taylor OR text:Taylor OR text__reviews:Taylor)",
+      "qin": "collection:us-supreme-court AND &quot;Doe&quot; AND &quot;Taylor&quot;",
+      "fields": "identifier,title,date",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 6,
+    "start": 0,
+    "docs": [
+      {
+        "date": "2005-01-01T00:00:00Z",
+        "identifier": "micro_IA40386007_0999",
+        "title": "Doe v. Leavitt, 546 U.S. 822 (2005) (No. 04-1642)"
+      },
+      {
+        "date": "2007-08-01T00:00:00Z",
+        "identifier": "micro_IA40386010_0496",
+        "title": "Kidd v. Doe (No. 07-913)"
+      },
+      {
+        "date": "1850-01-01T00:00:00Z",
+        "identifier": "per_scotus_1850_119",
+        "title": "John Doe Ex Dem. Austin Miller, Plaintiff in Error, vs. Washington and Sanders Taylor. 1850: Vol 119"
+      },
+      {
+        "date": "2001-01-01T00:00:00Z",
+        "identifier": "micro_IA40386014_2159",
+        "title": "Doe v. America Online, Inc., 534 U.S. 891 (2001) (No. 01-125)"
+      },
+      {
+        "date": "2007-08-01T00:00:00Z",
+        "identifier": "micro_IA40386010_0429",
+        "title": "Arpaio v. Doe (No. 07-839)"
+      },
+      {
+        "date": "2001-01-01T00:00:00Z",
+        "identifier": "micro_IA40386014_2563",
+        "title": "Doe v. Eagle-Union Community School Corp., 534 U.S. 1042 (2001) (No. 01-555)"
+      }
+    ]
+  }
+}

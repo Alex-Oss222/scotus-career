@@ -1,0 +1,30 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 26,
+    "params": {
+      "query": "collection:us-supreme-court AND (text:Tuggle OR text:Tuggle OR text__reviews:Tuggle)",
+      "qin": "collection:us-supreme-court AND Tuggle",
+      "fields": "identifier,title,date",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 2,
+    "start": 0,
+    "docs": [
+      {
+        "date": "2001-01-01T00:00:00Z",
+        "identifier": "micro_IA40386019_1461",
+        "title": "Emerson v. Tuggle, 531 U.S. 1073 (2001) (No. 00-627)"
+      },
+      {
+        "date": "1995-01-01T00:00:00Z",
+        "identifier": "micro_IA40385013_0784",
+        "title": "Tuggle v. Netherland, 516 U.S. 10 (1995) (No. 95-6016)"
+      }
+    ]
+  }
+}

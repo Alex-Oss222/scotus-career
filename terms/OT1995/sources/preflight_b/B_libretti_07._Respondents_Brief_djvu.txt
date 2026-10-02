@@ -1,0 +1,2583 @@
+No. 94-7427 \ 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+JOSEPH V. LIBRETTI, JR., PETITIONER 
+Vv. 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE TENTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+DReEw S. Days, III 
+Solicitor General 
+
+
+JO ANN HARRIS 
+Assistant Attorney General 
+
+
+MICHAEL R. DREEBEN 
+
+Deputy Solicitor General 
+MALCOLM L. STEWART 
+
+Assistant to the Solicitor General 
+
+
+DAVID S. KRIS 
+Attorney 
+
+
+Department of Justice 
+Washington, D.C. 20530 
+(202) 514-2217 
+
+
+LL A ea SA 
+
+
+QUESTIONS PRESENTED 
+
+
+1, Whether Federal Rule of Criminal Procedure 11(f) 
+requires a district court to determine whether there is 
+a “factual basis” for a stipulation, contained in a plea 
+agreement, regarding the scope of property subject to 
+criminal forfeiture. 
+
+2. Whether the order of forfeiture entered in this case 
+was invalid because petitioner had not been specifically 
+informed of his right to have a jury determine the scope 
+of forfeitable assets. 
+
+
+(I) 
+
+
+PITT Te. en 
+
+
+Pr ee 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+SIIITIIITIIT st idaaithadisabsndectebendnineseresescousetescccescesocoussessse’s 1 
+EE EEE A TOT TEED 1 
+Statutes and rules involved .............ccccccccsccccceeeeseeeeeeeneneeeeees 2 
+EEE ETE Se a 2 
+IIIT HET PIII: <cxtcsccentenmetectunenconestesenessccessccosersocooess 13 
+
+
+I. Rule 11(f) does not apply to a stipulation, contained 
+in a plea agreement, that particular assets are sub- 
+ject to criminal forfeiture ...........::::ccccccsceceeeeeeereeeees 15 
+A. A guilty plea admits the commission of an 
+offense rather than the appropriateness of 
+
+
+& Particular SENTENCE .........cccccccceeeeeeeneeereneeeeenees 15 
+B. Criminal forfeiture is an element of the sen- 
+tence, rather than of a substantive offense ........ 19 
+
+
+C. Rules 7(eX2), 31, and 32 do not establish that 
+the district court must find a factual basis 
+under Rule 11(f) for a forfeiture agreement .... 24 
+
+
+D. Imposition of a “factual basis” requirement is 
+
+
+abuses of forfeiture agreements ......... 29 
+E. A “factual basis” determination for forfeiture 
+stipulations is not related to protecting the 
+knowing and voluntary nature of a guilty plea . 35 
+II. _Petitioner’s forfeiture stipulation waived the right 
+to a jury determination on forfeiture issues ............ 37 
+A. The Sixth Amendment does not protect the 
+right to a jury trial on forfeiture ....................... 39 
+
+
+forfeiture issues was waived by petitioner's 
+
+
+agreement to forfeit his assets ..............-.cccc00+ 41 
+iced ah cpertnniinchdtithiahiesnibnndnadcsecsececesebetbeseccssccssers 50 
+GTS cidettinsersinctctntittincecstensssnctinrniiiprsscccsescscececensentcoocoees la 
+TABLE OF AUTHORITIES 
+Cases: 
+Acevedo-Ramos vy. United States, 961 F.2d 305 (ist 
+Cir.), cert. denied, 113 S. Ct. 299 (1992) .............ccccceeee 47 
+
+
+(IID) 
+
+
+ET aa reeds. il oo te dk ee Se, Cems“ _ r- ope Ft 
+
+
+IV 
+Cases—Continued: Page 
+Adams v. Peterson, 968 F.2d 835 (9th Cir. 1992), 
+cert. denied, 113 S. Ct. 1818 (1998) ..........cccccccccereneeeeees 31 
+Alexander v. United States, 113 S. Ct. 2766 (1993) ....... 22 
+
+
+American Hospital Ass'n v. NLRB, 499 U.S. 606 
+
+
+(1GB1) ...00cr-.crrereocorescesssossoscsoonscsoonsssosooessosoooooososooooooosoees 26 
+Baxter v. United States, 966 F.2d 387 (8th Cir. 1992) ... 47 
+18 
+
+45 
+
+
+Blackledge v. Allison, 431 U.S. 68 (1977) .........--ccsseeees 
+
+Boykin v. Alabama, 395 U.S. 238 (1969) ..........0--seseves 42, 
+Brady v. United States, 397 U.S. 742 (1970) .........--000+« 16, 44 
+Cabana v. Bullock, 474 U.S. 376 (1986) ..........cc0-eeeeeees 39 
+Calero-Toledo v. Pearson Yacht Leasing Co., 416 U.S. 
+
+OBB (IDFA) ..ccccccscoccrccecevecccoserescesososecssosososescssoosocessssooosess 40 
+Capli. & Drysdale, Chartered v. United States, 
+
+GBB UB; CUCAIIIID seecictiibsnincsestisitisamadienbiesen 22, 23, 29, 35 
+Clemons v. Mississippi, 494 U.S. 738 (1990) ........000-00+» 41 
+Duncan v. Louisiana, 391 U.S. 145 (1968) ............c00000 39 
+FDIC v. St. Paul Fire & Marine Ins. Co., 942 F.2d 
+
+10BZ (Cth Cir. 1991) ........ccccccccccccesscrerscccvessesesesesssooessores 32 
+Faretta v. California, 422 U.S. 806 (1975) ..........00000 48 
+Henderson v. Morgan, 426 U.S. 637 (1976) ...........-.0000+- 16 
+Henry v. Mississippi, 379 U.S. 443 (1965) ..........-00--0+-0 48 
+Hildwin v. Florida, 490 U.S. 688 (1989) .............c00eeees 41 
+Hill v. Lockhart, 474 U.S. 52 (1985) .........0ceeeeeerenesennes 48 
+Johnson v. Zerbst, 304 U.S. 458 (1988) .........0c0--00 14, 38, 45 
+
+
+Lebowitz v. United States, 877 F.2d 207 (2d Cir. 1989) . 47 
+McCarthy v. United States, 394 U.S. 459 (1969).. 15, 16, 42, 45 
+McMillan v. Pennsylvania, 477 U.S. 79 (19886) ............. 20, 39 
+Murray v. Carrier, 477 U.S. 478 (1986) ........0ceesereeeees 
+NLRB v. Health Care & Retirement Corp. of America, 
+
+134 B. Cd. STUB CODD ccececancsasenctsesctinsetisnsseccnsvensscecsassesss 
+North Carolina v. Alford, 400 U.S. 25 (1970) ...........-.+. 
+Parke v. Raley, 113 S. Ct. 517 (1992) .........cccececceereeeeeees 
+Patterson v. New York, 432 U.S. 197 (1977) .........:0000+ 
+People v. Barrows, 99 N.W.2d 347 (Mich. 1959) .......... 
+Peretz v. United States, 501 U.S. 923 (1991) ............++. 
+
+
+S3s8ea8 & 
+
+
+Cases—Continued: 
+
+Pierce v. Underwood, 487 U.S. 552 (1988) .........cccccccceee. 
+
+Santobello v. New York, 404 U.S. 257 (1971) .......... 
+
+Shannon v. United States, 114 S. Ct. 2419 (1994) ......... 
+
+Singer v. United States, 380 U.S. 24 (1965) .................. 
+
+Sinicropi v. Milone, 915 F.2d 66 (2d Cir. 1990) ............. 
+
+Smith v. United States, 876 F.2d 655 (8th Cir.), cert. 
+denied, 493 U.S. 869 (1989) ..........ccccccccccsseceeeeseeeeceececeeee 
+
+
+Taylor v. Illinois, 484 U.S. 400 (1988) .........cccccccccceeee. 
+The Palmyra, 25 U.S. (12 Wheat.) 1 (1827) ............0....... 
+Tiemens v. United States, 724 F.2d 928 (11th Cir.), 
+cert. denied, 469 U.S. 837 (1984) .........cccccccccccseceeeeeeeeeee 
+Tollett v. Henderson, 411 U.S. 258 (1978) .........cc0cc0c000- 
+Tome v. United States, 115 S. Ct. 696 (1995) ................ 
+Town of Newton v. Rumery, 480 U.S. 386 (1987) .......... 
+United States v. Adams, 961 F.2d 505 (5th Cir. 1992) . 
+United States v. Allen, 804 F.2d 244 (3d Cir. 1986), 
+cert. denied, 480 U.S. 922 (1987) .........ccccccceccesecervenereees 
+
+
+ES ESE Rae a oN ea 
+United States v. Ben-Hur, 20 F.3d 318 (7th Cir. 1994) . 
+United States v. Benchimol, 471 U.S. 453 (1986) .......... 
+Oued Sates v. Bernaugh, 969 F.2d 858 (10th Cir. 
+ERAS OS LT REE GT 
+United States v. Bieri, 21 F.3d 819 (8th Cir.), cert. 
+denied, 115 S.Ct. 208 (1994) ....ccccsssssssssussssseeseeeeeee 
+
+
+Se ee oe ea Se 
+United States v. Broce, 488 U.S. 563 (1989) ........... 
+United States v. DeFusco, 949 F.2d 114 (4th Cir. 1991), 
+
+cert. denied, 503 U.S. 997 (1992) .......cccccccccecececeeeeoecenes 
+United States v. $8,850, 461 U.S. 555 (19838) ................. 
+— States v. Elgersma, 971 F.2d 690 (1ith Cir. 
+
+SR ee nas ee Eo ee a 
+ye > Sg v. Fernandez, 960 F.2d 771 (9th Cir. 
+
+
+3 
+
+
+ee 
+= 
+8 
+
+
+SERER SELES KEN 
+
+
+_ 
+=) 
+
+
+BRS 
+© 
+
+
+Fe VF eee 
+
+
+Cases—Continued: 
+United States v. Gagnon, 470 U.S. 522 (1985) ............... 
+United States v. Gaudin, No. 94-514 (June 19, 19965) .... 
+United States v. Goldberg, 862 F.2d 101 (6th Cir. 
+SOBED. ccocecrsccocntsnctschistedndecietatictsedinancctaiiidiiadbuindiiltesdntens 
+
+
+BBBID nccacescoccssccesascessennsisitédeabnennsbetanetiivmnabbisechanestastscceoese 
+United States v. Grande, 620 F.2d 1026 (4th Cir.), 
+cert. denied, 449 U.S. 830, 919 (1980) ...........cccceceeeeenees 
+United States v. Hernandez-Escarsega, 886 F.2d 1560 
+(9th Cir. 1989), cert. denied, 497 U.S. 1003 (1990) ........ 
+United States v. Investment Enterprises, Inc., 10 F.3d 
+Fe ae ee 
+United States v. Ivory, 11 F.3d 1411 (7th Cir. 1993) .... 
+United States v. Lavin, 27 F.3d 40 (2d Cir.), cert. 
+denied, 115 S. Ct. 453 (1994) .......ccccccecceceeeceeeeeeeeeeeeeeeeens 
+United States v. Lyons, 898 F.2d 210 (ist Cir.), 
+cert. denied, 498 U.S. 920 (1990) ..........ccccccseceeeeeeeeeees 
+United States v. Mezzanatto, 115 S. Ct. 797 
+CRBBED ccrccecsescasnssescctccctnsiscesesatnniphinntnndababebianastsas 
+United States v. Morrow, 914 F.2d 608 (4th Cir. 1990) . 
+United States v. Olano, 113 S. Ct. 1770 (1998) ............... 
+United States v. Pelullo, 14 F.3d 881 (3d Cir. 1994) ...... 
+United States v. Piper, 35 F.3d 611 (ist Cir. 1994), 
+cert. denied, 115 S. Ct. 1118 (1995) ..........ccccceeeeeeeeeees 
+United States v. Price, 361 U.S. 304 (1960) .................. 
+United States v. Ray, 828 F.2d 399 (7th Cir. 1987), 
+cert. denied, 484 U.S. 964, 1045 (1988) .............cccceeeeeees 
+United States v. Reyes, 13 F.3d 688 (2d Cir. 1994) ....... 
+United States v. Robinson, 8 F.3d 418 (7th Cir. 1993) ... 
+
+
+United States v. Saccoccia, Nos. 93-1618, et al. (1st Cir. 
+
+
+Fem GB, BOBDD cccecocccecvenseccsisitntetainmelitdiditniciatinaavaleniecsen 
+
+
+| TE ee a en 
+United States v. Shapiro, 879 F.2d 468 (9th Cir. 1989) . 
+
+
+United States v. Smith, 966 F.2d 1045 (6th Cir. 1992) .. 
+
+
+United States v. Washington, 969 F.2d 1073 (D.C. Cir. 
+
+
+1992), cert. denied, 113 S. Ct. 1287 (1998) ...............eee00 
+
+
+30, 31, 33, 38 
+
+
+19 
+
+
+rr est ~ 
+vil 
+Cases—Continued: 
+° Page 
+United States v. Wenger, No. 93-4043 (7th Cir. June 15, 
+SIT Sikdiilictiistniciedtindnbdarengseuitiemimnéesieciancthtkibdidecrebes 49 
+United States v. X-Citement Video, Inc., 115 S. Ct. 464 
+GEUUIITEE lnraisieatontecctacssccstnaptlleitidecdisnibipbdleseisentesddstesecevsses 25 
+United States v. Zang, 703 F.2d 1186 (10th Cir. 1982), 
+cert. denied, 464 U.S. 828 (1988) .0.........ccccccccceeeeeeeeeeeees 47-48 
+United States v. Zweber, 913 F.2d 705 (9th Cir. 1990) . 
+Walton v. Arizona, 497 U.S. 689 (1990) .........cccccccccceeeeee 41 
+Yakus v. United States, 321 U.S. 414 (1944) ............... 45 
+Constitution, statutes and rules: 
+U.S. Const.: 
+EEE 47 
+EELS LS ee a 46 
+EE a ee ee 21 
+Double Jeopardy Clause ............cccccccceeseeeseeeesereneeenees 46 
+Be IN IID ciniiicinstecccenscrserenincniipsctttecttccieesercass 46 
+DA 12, 21, 22, 23, 39, 44, 46 
+Amend. VIII (Excessive Fines Clause) ................c00000+- 13 
+Comprehensive Crime Control Act of 1984, Pub. L. No. 
+96-478, Tit. II, 98 Stat. 1976 ............cccccccsecssscseecsesssesseees 13, 20 
+Comprehensive Drug Abuse Prevention and Control Act 
+of 1970, Pub. L. No. 91-513, § 408(a)(2), 84 Stat. 1265- 
+Eivinccasaigantetadiasheisnnabibaianitinesaadibiannnsecseemecmerestetinninte 24 
+Federal Rules of Criminal Procedure Amendments Act 
+of 1975, Pub. L. No. 94-64, § 3(5), 89 Stat. 371 .............. 42 
+Jomcks Act, 18 U.S.C. 8500 .....00...ccccsescscccccsscoscseceseeseseeres 47 
+
+
+Organized Crime Control Act of 1970, Pub. L. No. 91-452, 
+Oe i I TD aacintstaiecinticnnncetecnsiseccsocsvepeessccctanbes 
+
+
+Rules Enabling Act, 28 U.S.C. 2071 et seq.: 
+28 U.S.C. 2072 (1988 & Supp. V 1998) .....cccccccccceecove. 
+tS e ak ae aa 
+
+
+SY ee EE 
+Bee eA SIP Sirnastheesecscnceneanennninainaneuttatentnedinesceitientiitis 
+
+
+renew Sk & 
+
+
+Statutes and rules—Continued Page 
+BB TBR. BB ccncdcciccececeivcticcctccccvccccssenrcsscsnocesiccssevebtbises 2 
+1B U.S.C. 19GBLEMD) .ncccecccccccccccccccccccccccecccccnsccssccececccsesees 2 
+18 U.S.C. 1966(a)(U (BY) .......ccccccceseceeeseeeeneeeeeeeeeenentenens 2 
+18 U.S.C. 3663(aX(3) (Supp. V 1998) ...........ccceeeeeeeeeeeeees 31 
+BE UB... BEREME) <ccecccdrcrcecccccrcsoscscccccescvscccvccsccscssiosseeee 2 
+BE UDG. BOD ccidiccecccrciccsccsercntabtidesvtentqeocecccecsesanncsessositeis 2,19 
+21 U.S.C. 848 (1988 & Supp. V 1998) .............ccccceeeeeees 2, 19, 23 
+BE UB.C BEB) .ncccccvecessccqoorscscsccssccreccccecvesssescconsonscnes 3, 9, 20 
+BE UB... GIB cnccecesetrcrecreecsessorvscevsesovenssictcstoonse 2, 11, 19, 31, 41 
+OR WARE, GERD casts chitcchacicsnesphctipsiientospetegtnton 8, 9, 21, 28 
+BA UBS. GERIRED .nnccrccccccccccccccscccscvesscccvcccccenenesscosesdeese 3 
+eS) | eee 4 
+BE WB. GEG cccceeccccccscccesicsiccctsoserccscocccssnesesossesobonsives 34 
+21 U.S.C. 858(n)(6)(A)-(B) .......cccccesceecenereceenseeeeeeeeeeeeeenes 10 
+BL U.B.C. BEBED) «...cccrsccrssorcesrcrsscorscccesscnsscccsccosoossees 3, 8, 33 
+BE UR. GE csi cecedecsccccccscnsosscscsscnntosessernsccevistoscosensoceneete 2 
+21 U.S.C. 960(b) (1988 & Supp. V 1998) .........ccccccereeeeeees 18 
+GR TTB) GOB icecetecesccncisctbicssccsinisecintetnessocicinisnersetadsinecttis 18 
+Fed. R. Crim. P: 
+
+Tintin Tid... csasdinbedacteccdenentbovdasaseebecibenapedioaeiieelios 2, 24, 25, 27 
+Rule TeNB) ..........cccrscccccccesscscsveseocesovesceeroosesessnese 8, 18, 24, 26 
+Beas BS cccocccccnccccesdcdsveocecsecebsccesastetsbbiabicociscusenvnenveiens passim 
+advisory committee’s NOte .............:ceeeeeee 16, 17, 18, 26, 34 
+Bathe RIGID cccscisccssccnccsditigedickccccenttinsesiveintsinseredatscees 42, 48, 49 
+06 B, Cd. BRVD CROVD)...ccccccercssccccvccesscovccsocccccescoccosensnees 42 
+Beate BREAIEE). cccccesscgrecccccccocossoovesotonsocnsoneocevebchntosenebeneees 43 
+Rate 2I(EN]) ....ccccccvccosserccccessescstioccossevcescossccconesossesoocoes 42, 43 
+Rate BOGOTA NO) cccccecescccceccccsccnsosectstetscsnrsstecnecsttbabtnnotess 34 
+RetdO EBEOME) .nccocececcccecesccscosscnscscsnsessetousstoccnenevosouesessctes 34 
+Reade LEONG) .....cecccccrcrcccercroccesccssccecccsecssonsosonscsessesooosses 31 
+BaS TGR» cvccccoccncveccccescvcesicssstticsinintuscctecbeyivonicesteneibtes passim 
+BB BD sccescoccsvecinccecescevivecsetcocestnisntessseshinvevesascbincsivbinans 47 
+Bathe BD vccncocccvssocccoccvecoccccosesecesesconsosccsoonessostoonescseesusnestes 2, 44 
+advisory committee’s NOLE ............c.cceseseeeeeeeneeeeeenenees 44 
+Retbe BIKE) .nccoccccccccccccsccccoceccsccsscosscoscocssosnccnesesseatetoncsoses 44 
+
+
+Bae GID vccicenccccuseistecdtcumiandinenintndiitnntimaalinaas 44 
+
+
+Sere ere. ene 
+
+
+IX 
+Rules—Continued Page 
+EOTIII TIT undies siceeustncukesendecstnepaptisetasedeenescssessoseere 2, 24, 25, 27, 29 
+advisory committee’s note ..............cccescceeceseeeeeeeereees 25 
+ETS a passim 
+_ a 2, 24, 25, 27, 29, 44 
+a nTIIIIDY "Goch insseseshsitbcbeudiiseasbubiesedsentocdateseensensesode 18, 25, 26 
+EEE SEATS Sa Cake ee eee 47 
+4 ES a ee 31 
+Sentencing Guidelines (Nov. 1, 1994): 
+5 EES Ae ee a) 
+IIT Siti lien hdeids oasaisachiteliaiaehihdectinnetehpennshabhenneten 80 
+i HEE iaieaslethdhaeentrinetiectanbteswinnisptasiinhocemeboassededneecabecsasics 32 
+SF ENED iatalieiathinasbnddesbbatendeesalendbeiyerdesseneaintdesossovsevescece 34 
+§ 6B1.4 (Commentary) ..............:.scccsecsesereeseseeesereeeesees 82 
+DSTI ‘siieiiesitidhthsindntncebintibliaeesedtntuntendenanvertnsnctvineecens 31 
+Si EE aeahiraliheditelentinisiehineibintninthenstbtseeenntatcazedeynensecnéons 32 
+Miscellaneous: 
+H.R. Rep. No. 247, 94th Cong., Ist Sess. (1973)................ 42 
+Note, A Proposal To Reform Criminal Forfeiture 
+Under RICO and CCE, 97 Harv. L. Rev. 1929 (1984) ... 40 
+S. Rep. No. 617, 91st Cong., Ist Sess. (1969) .............00000. 28 
+S. Rep. No. 225, 98th Cong., Ist Sess. (1988) ..............00... 21, 28 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+No. 94-7427 
+JOSEPH V. LIBRETTI, JR., PETITIONER 
+Vv. 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE TENTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+OPINION BELOW 
+
+The opinion of the court of appeals (J.A. 313-329) is 
+
+reported at 38 F.3d 523. 
+JURISDICTION 
+
+The judgment of the court of appeals was entered on 
+October 19, 1994. J.A. 313. The petition for a writ of cer- 
+tiorari was filed on December 27, 1994, and was granted on 
+March 27, 1995 (J.A. 330). The jurisdiction of this Court 
+rests on 28 U.S.C. 1254(1). 
+
+
+(1) 
+
+
+2 
+
+
+STATUTES AND RULES INVOLVED 
+
+
+Federal Rules of Criminal Procedure 7, 11, 23, 31, and 
+32, and 21 U.S.C. 848 and 853, are reprinted in pertinent 
+
+
+part at App., infra, la-5a. 
+STATEMENT 
+
+
+After entering a guilty plea in the United States 
+District Court for the District of Wyoming, petitioner 
+was convicted of engaging in a continuing criminal 
+enterprise (CCE), in violation of 21 U.S.C. 848 (1988 & 
+Supp. V 1993). He was sentenced to 20 years’ imprison- 
+ment, to be followed by five years of supervised release. 
+He was also fined $5,000 and ordered to forfeit certain 
+property. The court of appeals affirmed. J.A. 313-329. 
+
+1. On May 22, 1992, a federal grand jury returned 
+an 1l-count superseding indictment, charging petitioner 
+with violations of the federal drug, firearms, and money 
+laundering laws. J.A. 38-71.’ Conviction on Counts 2 and 
+6 alone would have carried a minimum total sentence of 
+50 years’ imprisonment. See 18 U.S.C. 924(c)(1) (manda- 
+tory minimum sentence of 30 years’ imprisonment for 
+use of firearm equipped with silencer, to be imposed 
+
+
+1 Petitioner was charged with conspiring to distribute cocaine and 
+marijuana, and to possess cocaine and marijuana with intent to 
+distribute them, in violation of 21 U.S.C. 846 (Count 1); using or 
+carrying firearms and silencers during and in relation to the drug 
+conspiracy, in violation of 18 U.S.C. 924(c) (Count 2); traveling in 
+interstate commerce to facilitate drug trafficking, in violation of 18 
+U.S.C. 1952(aX(3) (Count 3); possession of a machine gun, in violation of 
+18 U.S.C. 922(0)(1) (Count 4); investment of illegal drug proceeds, in 
+violation of 21 U.S.C. 854 (Count 5); operating a CCE, in violation of 21 
+U.S.C. 848 (Count 6); money laundering, in violation of 18 U.S.C. 
+1956(a(1)(B)(i), 18 U.S.C. 2(b) (Counts 7-8); obstruction of justice, in 
+violation of 18 U.S.C. 1508 (Counts 9-10); and possession of cocaine with 
+intent to distribute it, in violation of 21 U.S.C. 841(a)(1) (Count 11). 
+
+
+3 
+
+
+consecutive to any other term of imprisonment); 21 
+U.S.C. 848(a) (mandatory minimum sentence of 20 years’ 
+imprisonment for CCE offense); see J.A. 325. The drug 
+c Yenses also carried potential fines of up to $2 million, 
+21 U.S.C. 848(a), or twice the gross profits or proceeds, 
+21 U.S.C. 853(a). 
+
+The charged drug offenses further provided for an 
+order of forfeiture to be imposed at sentencing. Section 
+853(a) of Title 21 provides that a person convicted of a 
+felony drug offense “shall forfeit * * * any property 
+constituting, or derived from, any proceeds the person 
+obtained, directly or indirectly, as the result of” his 
+offense, as well as “any of the person’s property used, or 
+intended to be used, in any manner or part, to commit, or 
+to facilitate the commission of,” his offense. For persons 
+convicted of engaging in a CCE, the statute provides for 
+additional forfeiture of the person’s “interest in, claims 
+against, and property or contractual rights affording a 
+source of control over” the CCE. 21 U.S.C. 853(a)(3). 
+Section 853(p) further provides that where property 
+subject to forfeiture under Section 853(a) cannot be 
+recovered by the government, “the court shall order the 
+forfeiture of any other property of the defendant up to 
+the value of” the forfeitable but unrecoverable assets. 
+
+Pursuant to those provisions and Rule 7(c)(2) of the 
+Federal Rules of Criminal Procedure, the indictment 
+alleged that, “[uJpon the conviction of [petitioner] for en- 
+gaging in a [CCE] as charged in * * * Count [6),” the 
+government was entitled to forfeiture of the property 
+that was obtained from or used to facilitate petitioner’s 
+drug offenses, “including but not limited to” various 
+specified assets. J.A. 64; see J.A. 64-67 (listing assets). 
+Additional assets alleged to be subject to forfeiture were 
+subsequently identified in a restraining order issued and 
+
+
+4 
+
+
+later amended by the district court under 21 U.S.C. 
+853(e). See J.A. 72-78." 
+
+On September 28, 1992, petitioner’s jury trial began. 
+During the first week of trial, the government called 18 
+witnesses, nine of whom had purchased cocaine from 
+petitioner, and five of whom were themselves drug 
+dealers whom petitioner supplied and supervised while 
+he was living in Colorado and Wyoming. Those witnesses 
+testified that they had bought multi-ounce quantities of 
+cocaine from petitioner, at prices ranging from $1,600 to 
+$1,800 per ounce, on a weekly or monthly basis over 
+periods of several months or years. See, e.g., 9/29/92 
+Trial Tr. 124-126; 10/1/92 Trial Tr. 495-501; 10/2/92 Trial 
+Tr. 946-949. Petitioner advised and assisted the drug 
+dealers operating under him, counseling them to store 
+cocaine and cash in bank safety deposit boxes, 10/1/92 
+Trial Tr. 503-505; helping them steal from customers who 
+owed money, id. at 713-716; and generally “impos{ing] his 
+ideology upon [them] * * * to provide a quality 
+product,” 10/2/92 Trial Tr. 949. Indeed, petitioner’s at- 
+torney acknowledged in his opening statement that the 
+government’s evidence would show that petitioner “got 
+involved in the use of drugs” and “with a little bit of 
+sales,” and that he ultimately “advanced to [be] a pretty 
+big salesman” in cocaine and marijuana. 9/29/92 Def.’s 
+Op. Stmt. Tr. 5. 
+
+Petitioner’s drug profits enabled him to acquire expen- 
+sive assets at a time when he had only modest sources of 
+legitimate income. In the fall of 1985, just after gradu- 
+ating from college and while earning an annual salary 
+
+
+2 Section 853(e) provides, in relevant part, that, “[uJpon application 
+of the United States, the court may enter a restraining order * * * to 
+preserve the availability of property described in subsection (a) of this 
+section for forfeiture under this section.” 
+
+
+5 
+
+
+of approximately $20,000, petitioner bought a $200,000 
+home with a down payment of $100,000. See 9/29/92 Trial 
+Tr. 121-122, 179-180, 207-222; 10/2/92 Trial Tr. 922; 
+Presentence Report (PSR) 4 37. He installed two large 
+safes in the basement of the house, and he kept cocaine, 
+weapons, and as much as $20,000 in cash in the safes or in 
+other parts of the home. 9/29/92 Trial Tr. 57, 137-142; 
+10/1/92 Trial Tr. 735-744. Petitioner also became a fed- 
+eral firearms dealer and bought dozens of automatic and 
+semi-automatic weapons, later determined to be worth at 
+least $243,000. See, e.g., 9/29/92 Trial Tr. 140-141, 156-162; 
+10/1/92 Trial Tr. 542-545; 10/2/92 Trial Tr. 844-853, 903- 
+906; J.A. 123. In 1990, petitioner bought a Toyota Celica 
+with a check for $19,114. 10/2/92 Trial Tr. 912-913. 
+
+Petitioner saved much of his profits, however, storing 
+cash, cashier’s checks, and drugs in safety deposit boxes 
+and storage facilities away from his home. See 9/29/92 
+Trial Tr. 155-156; 10/1/92 Trial Tr. 503-505, 718-720. In 
+1987, one of petitioner’s drug customers broke into one 
+of petitioner’s rooms at a storage facility: he found a 
+briefcase containing approximately $150,000 in hundred 
+dollar bills; a large block of cocaine; and five 30-gallon 
+trash bags, at least one of which was filled with mari- 
+juana. 10/1/92 Trial Tr. 559-566, 588-589. In an interview 
+with the Lakewood, Colorado, Police Department, peti- 
+tioner admitted that he owned the cocaine, cash, and 
+marijuana in the storage locker. 9/29/92 Trial Tr. 18-19, 
+34-35. In 1988, petitioner boasted to his ex-girlfriend that 
+he had $250,000 in cash stored in safety deposit boxes, and 
+that some of the safety deposit boxes were in his brothers’ 
+names. 10/2/92 Trial Tr. 831, 883-835. 
+
+2. At the end of the first week of trial, petitioner 
+entered into a plea agreement with the government. 
+The agreement provided that petitioner would plead 
+guilty to engaging in a CCE, as charged in Count 6 of the 
+
+
+indictment. In return, the government agreed not to file 
+additional charges against him, and to recommend the 
+mandatory minimum prison term of 20 years. J.A. 79-80, 
+85. Petitioner further agreed 
+
+
+to transfer his right, title, and interest in all of his 
+assets to the Division of Criminal Investigation of the 
+Wyoming Attorney General including, but not limit- 
+ed to: all real estate; all personal property, including 
+guns, the computer, and every other item now in the 
+possession of the United States; all bank accounts, 
+investments, retirement accounts, cash, cashier's 
+checks, traveler’s checks and funds of any kind. 
+
+
+J.A. 81. Petitioner also “acknowledge[d] that by pleading 
+guilty to Count Six of the Indictment, he waives various 
+constitutional rights, including the right to a jury trial.” 
+J.A. 80. 
+
+At the change of plea hearing, the district court 
+advised petitioner of his rights, including his “right to a 
+speedy and public jury trial, which we’re in the middle 
+of.” J.A. 86. The court explained to petitioner that if he 
+pleaded guilty, “it’s going to be the end of this trial,” and 
+“the jury is not going to decide whether you’re guilty or 
+not. I'll dismiss them after this, and that will be that.” 
+J.A. 87. The court also explained “the consequences of 
+[petitioner’s] plea,” including the fact that he “could be 
+fined $2 million” and that “all the property that’s de- 
+scribed in this Count 6 could be forfeited to the United 
+States.” J.A. 88. 
+
+The court asked petitioner whether he understood the 
+consequences of his plea, and petitioner stated: “There 
+is only one part I didn’t understand. They said that they 
+can take up to one and a half million dollars from me 
+at any time. Let’s say 20 years from now I get a job, I get 
+a paycheck. They can come and take that?” J.A. 88. 
+
+
+7 
+
+
+After consulting with petitioner's attorney, the court 
+explained that the forfeiture was limited to tainted 
+
+
+assets, and that petitioner's future legitimate income 
+would not be forfeited. J.A. 88-89. 
+
+The court then explained to petitioner that “I will 
+have to question you as to whether or not your guilty 
+plea is a voluntary plea and whether or not there’s a 
+factual basis for the plea.” J.A. 89. The court read aloud 
+the 26 paragraphs of Count 6 of the indictment. J.A. 90- 
+97. The court also read aloud the provisions of Count 6 
+describing the property alleged to be forfeitable. J.A. 97- 
+98. Petitioner confirmed under oath that he understood 
+the indictment and the plea agreement, and specifically 
+that he understood “that all of [his] property could be 
+forfeited, the property that is owned by [him] by reason 
+of any drug transaction.” J.A. 100. Petitioner pleaded 
+guilty to Count 6. J.A. 99. The district court found 
+“that the plea of guilty is * * * voluntary,” and that 
+“there is a factual basis for the guilty plea.” J.A. 121. 
+
+
+8 
+had used $72,000 in drug proceeds to pay for his house in Lakewood, 
+Colorado; used $20,000 in drug proceeds to buy a GNMA mortgage 
+certificate as an investment; used $243,000 in drug proceeds to buy 
+automatic and semi-automatic firearms and silencers; maintained 
+hundreds of thousands of dollars in cash in storage lockers and bank 
+safety deposit boxes, and in bank accounts in the names of his rela- 
+tives; and laundered drug proceeds through his firearms business and 
+by purchasing cashier's checks, automobiles, real property, and other 
+investments. Finally, the Stateinent outlined other sums of money 
+petitioner had earned from his drug dealing, including $68,000 in cash 
+found in safety deposit boxes and other locations, and more than 
+
+
+a“ 
+
+
+The Presentence Report (PSR) detailed petitioner’s legi- 
+
+
+z 
+f 
+. 
+s 
+i 
+
+
+of (his] background, education, [and] financial circum- 
+stances are [sic] accurate.” J.A. 138. 
+
+At the sentencing hearing held on December 23, 1992, 
+the government filed a motion for forfeiture of all of 
+petitioner’s known assets. J.A. 136-154. Defense counsel 
+offered no objection to that motion, asserting that the 
+forfeiture statute was “a harsh law” and “a bitter pill 
+dealt by Congress,” but conceding that it was “a pill we 
+must swallow.” J.A. 149. Counsel acknowledged that, 
+“as a result of [petitioner’s crime], the forfeiture is going 
+to take regular money and illegal money under the 
+substitute assets” provision of the forfeiture statute, 2 
+U.S.C. 853(p). J.A. 149. The court granted the motion, 
+issuing an order of forfeiture that day. J.A. 150, 155-164. 
+
+The forfeiture order stated that it was based on 
+petitioner’s “agree{ment] to the forfeiture of any right, 
+
+
+$100,000 in additional cash that the authorities never recovered. J.A. 
+122-135. Petitioner's drug dealing profits were estimated to be in 
+excess of $1 million. J.A. 237-238 (government witness's testimony 
+in post-judgment proceedings). 
+
+* During 1985 and 1986, petitioner earned approximately $20,000 
+per year managing a restaurant and a grocery store. In 1987, peti- 
+tioner worked as a temporary stockbroker, being paid on commission 
+only, and then managed a thrift store for the remainder of the year. In 
+1988, petitioner was involved in a real estate transaction that resulted 
+in a loss. In 1989, petitioner claimed that he earned $50,000 per year 
+operating his firearms business. From June 1, 1989, until his arrest on 
+December 4, 1991, the PSR stated, petitioner earned approximately 
+$40,000 per year in legitimate activities. PSR 44 35-87. 
+
+
+restraining order and its two amendments, the last of 
+which was issued by the district court three weeks before 
+the plea agreement was signed. See, ¢.g., J.A. 25-87, 74- 
+78 (restraining order and amendment).’ The total value 
+
+
+of the forfeited property was a ximately $410,000. 
+See J.A. 329. . mee ym 
+
+
+tory maximum and recommended range under the Sen- 
+tencing Guidelines. See 21 U.S.C. 848(a), 853(a) (estab- 
+lishing maximum fine of the greater of $2 million or 
+“twice the gross profits or other proceeds” that peti- 
+tioner derived from his CCE); Guidelines § 5E1.2(c) (fine 
+
+
+® Two bank accounts in the forfeiture order, Items (U) and (V), 
+had not been previously identified in the restraining order or its 
+The court later determined that those accounts were 
+owned by petitioner's parents, and the court ordered them returned. 
+J.A. 310. The court also ordered Item (G), a diamend ring, returned to 
+petitioner's girlfriend, Claudia Porter. [bid. 
+
+
+necessary,” in light of the “large quantities of 
+
+
+5 
+: 
+i 
+i 
+i 
+
+
+asked, “Are we over?” The court answered, “I think 
+so,” and petitioner stated: “Well, then, with that in 
+mind, I would just like to object to what I see as a failure 
+to find any factual basis for the whole forfeiture, just for 
+the record.” J.A. 154. The court noted the objection, 
+but explained that “the evidence that I heard before me 
+in the two days of trial I think is sufficient to warrant the 
+granting of forfeiture. I think I have no alternative.” 
+Ibid. On December 29, 1992, petitioner filed a notice of 
+appeal from the forfeiture order. J.A. 3. 
+
+
+trict court then entertained third party claims to some 
+of the forfeited property, resolved disputes about owner- 
+ship, and ordered certain property returned. J.A. 299- 
+308, 310, 316; see 21 U.S.C. 853(n)(6)(A)-(B). On April 2, 
+1993, the court also modified its forfeiture order with 
+respect to petitioner, determining “that it may be unjust 
+to enforce the specific forfeiture provisions in the plea 
+agreement.” J.A. 309. The court stated that “a defen- 
+dant’s concession in a plea agreement to the forfeiture of 
+his property does not make it so,” and ordered “the 
+Magistrate [to] conduct a fact finding hearing in which 
+[petitioner] is given an opportunity to show by a pre- 
+ponderance of the evidence that his property is not 
+subject to forfeiture.” J.A. 309-310 (citation and internal 
+quotation marks omitted). On June 7, 1993, the district 
+court granted the government’s motion to stay proceed- 
+
+
+11 
+
+
+before the magistrate judge pending the disposi- 
+of petitioner’s appeal. Gov't C.A. Br. 12. 
+court of appeals affirmed. J.A. 313-829. The 
+
+
+3g 
+
+
+Ty 
+iF 
+ifs 
+it 
+\ 
+H 
+
+
+to property,” but that 
+jurisdiction to consider [petitioner’s] 
+ted property. J.A. 318-319. 
+court then rejected petitioner’s contention that 
+violated Federal Rule of Criminal 
+11(f) by failing to satisfy itself that there 
+was a factual basis for the forfeiture. Noting that “(tJhe 
+parties both acknowledge that criminal forfeiture under 
+§ 853 is a part of the sentence, not a part of the sub- 
+stantive offense,” J.A. 322; see also J.A. 318, the court 
+held that “a sentencing judge is not required under Rule 
+11 to determine whether there is a factual basis for a 
+defendant’s concession to a criminal forfeiture pursuant 
+to his plea bargain with the government,” because “Rule 
+11(f) only applies to the guilty plea,” not to the sentence 
+imposed pursuant to that plea. J.A. 321-822 (quoting 
+nto States v. Boatner, 966 F.2d 1575, 1581 (11th Cir. 
+The court also rejected petitioner’s argument that the 
+plea agreement was “ambiguous and vague,” J.A. 323, 
+with respect to the scope of the property stipulated to 
+be forfeitable. The court explained that petitioner had 
+“unambiguously forfeited all of his property,” J.A. 325, 
+and that he “intended to forfeit all of his property 
+without requiring the government to prove the assets 
+were forfeitable,” J.A. 324. The court acknowledged 
+that some of petitioner’s assets “on their face had no con- 
+nection with his drug dealings,” J.A. 325, but observed 
+that property subject to forfeiture under 21 U.S.C. 853 
+
+
+S&S 
++ 
+cf 
+
+
+i 
+: 
+
+
+12 
+
+
+“includes forfeitable assets under § 853(a) and substitute 
+assets under § 853(p),” J.A. 324-325. 
+
+The court noted that petitioner had “received a 
+favorable plea agreement.” J.A. 325. Petitioner had en- 
+tered into the agreement only “after the government 
+presented overwhelming evidence of his guilt” during 
+the first week of trial, and he thereby avoided conviction 
+on firearms charges that would have carried a man- 
+datory minimum “thirty-year sentence consecutive to the 
+sentence on the underlying [CCE] offense.” Jbid. Thus, 
+the court explained, petitioner was “seek[ing] the benefit 
+of [his] bargain, but only to the extent it favors him.” 
+Ibid. The court held that it would “not require the gov- 
+ernment to undergo a fact-finding hearing and forego 
+[sic] a substantial benefit of its bargain” with petitioner. 
+Ibid. 
+Finally, the court rejected petitioner’s claim that “he 
+was not advised of and did not waive his right to a 
+jury trial on forfeiture issues.” J.A. $26. The court of 
+appeals noted that the absence of a Sixth Amendment 
+right to have punishment determined by a jury “suggests 
+that [petitioner] does not have a constitutional right to a 
+jury trial at the forfeiture stage of these proceedings.” 
+J.A. 826. The court concluded, however, that it “need 
+not decide” whether petitioner had a constitutional right 
+to a jury trial on forfeiture “because constitutional rights 
+can be waived, and because a defendant does have a 
+statutory right, pursuant to Fed.R.Crim.P. 3l{e), to 
+have a jury determine which of his assets may be 
+forfeited. Thus, we must determine whether [petitioner] 
+waived his right to a jury trial.” J.A. 827 (citation 
+omitted). Based on its examination of the record, the 
+court held that petitioner had waived his right to a jury 
+trial on the issue of forfeiture. See J.A. 327-828. In 
+particular, the court noted that “there is no evidence at 
+
+
+13 
+
+
+[the change of plea] hearing that (petition 
+jury trial on the er} wanted a 
+iy ad cis issue, or thought he was going 
+
+
+There is also no basis in logic for regardi 
+ng forfeiture as 
+pe Ray pc ae CCE offense, since an order of for- 
+eiture is not a prerequisite to conviction of that crime. 
+Pe sia av principal contention is that criminal for- 
+€ ure should be treated as an element of the offense 
+a applying Rule 11(f) because the Federal Rules of 
+a a te gg were amended in 1972 to provide 
+avn ss must be alleged in the indictment, 
+per in the jury, and separately identified in the 
+pr me ce Fed. R. Crim. P. 7(c)(2), 31(e), and 
+aa woh argument is without merit. The premises 
+gon y the 1972 amendments are of no relevance 
+truing the “factual basis” requirement, which was 
+
+
+Eighth Amendment, see J.A. 328-829 
+press in this Court. +} claim that petitioner does not 
+
+
+14 
+
+
+added to Rule 11 in 1966. Nor can the Advisory Com- 
+mittee’s Notes on one Rule alter the textual require- 
+ments of another. In any event, there is no evidence 
+that, in the promulgation of the amendments, this Court 
+or Congress shared the Advisory Committee’s stated 
+view about the nature of forfeiture. And Congress 
+clearly regarded forfeiture as an aspect of punishment, 
+both before and after the 1972 amendments. 
+
+The possibility that forfeiture stipulations may some- 
+times be misused provides no basis for treating such stip- 
+ulations as part of a defendant’s “plea.” The standards 
+generally applicable to sentencing stipulations provide 
+ample protection against overreaching. Although the 
+court is not obligated to accept the facts as stipulated, the 
+premise of an adversary system is that the court resolves 
+disputes between the parties and accords presumptive 
+validity to statements upon which the parties agree. 
+
+II. Petitioner’s agreement to forfeit all of his assets at 
+sentencing was valid even though he was not specifically 
+informed by the court that Rule 3l(e) of the Federal 
+Rules of Criminal Procedure affords a right to a jury 
+verdict “as to the extent of the interest or property 
+subject to forfeiture.” The district court determined 
+that petitioner knowingly and voluntarily waived his 
+right to a jury determination on the issue of guilt and 
+that he was aware that the jury would be dismissed; the 
+court had no further obligation to inform petitioner that 
+he had a right to a jury trial on the issue of forfeiture. 
+The Constitution does not provide a right to jury sen- 
+tencing. And the right to a jury finding on forfeiture 
+under Rule 3l(e) is not one of the small category 
+of fundamental rights that requires compliance with 
+the waiver standard of Johnson v. Zerbst, 304 U.S. 458, 
+464 (1938). Although petitioner was not specifically in- 
+structed that he had a right to a jury determination of 
+
+
+15 
+
+
+forfeiture, his knowing and voluntary agreement about 
+the scope of forfeitable assets was intended to remove any 
+right to dispute that issue—Before a jury or otherwise. 
+That waiver of rights was fully valid. 
+
+
+ARGUMENT 
+
+
+I. RULE 11(f) DOES NOT APPLY TO A 
+STIPULATION, CONTAINED IN A _ PLEA 
+AGREEMENT, THAT PARTICULAR ASSETS 
+ARE SUBJECT TO CRIMINAL FORFEITURE 
+
+
+Rule 11(f) of the Federal Rules of Criminal Procedure 
+states that, “[nlotwithstanding the acceptance of a plea of 
+guilty, the court should not enter judgment upon such 
+plea without making such inquiry as shall satisfy it that 
+there is a factual basis for the plea.” A “plea of guilty” 
+constitutes a defendant’s admission of guilt of a sub 
+stantive offense and his waiver of the right to trial on 
+that charge. By contrast, admissions or stipulations that 
+are relevant to sentencing, but not to the defendant’s 
+guilt of the substantive offense, are extrinsic to the plea. 
+Because criminal forfeiture is a punishment, not an 
+element of a substantive crime, petitioner’s stipulation 
+regarding forfeiture was not subject to the requirements 
+of Rule 11(f). 
+
+A. A Guilty Plea Admits The Commission Of An 
+
+
+Offense Rather Than The Appropriateness Of A 
+Particular Sentence 
+
+
+1. A guilty plea constitutes “the defendant’s admission 
+that he committed the crime charged against him and his 
+consent that judgment be entered without a trial of any 
+kind.” North Carolina v. Alford, 400 U.S. 25, 32 (1970). 
+In McCarthy v. United States, 394 U.S. 459 (1969), the 
+Court explained that “a guilty plea is an admission of all 
+the elements of a formal criminal charge.” Jd. at 466. 
+Applying that definition to Federal Rule of Crimina! 
+
+
+admits constitutes the offense charged in 
+or information or an offense included therein to which 
+the defendant has pleaded guilty.’” 
+(quoting Fed. R. Crim. P. 11 advisory commi 
+18 U.S.C. App. at 739). The Court suggested that the 
+trial judge should “personally address[] the defendant a 
+to his understanding of the essential elements of the 
+charge to which he pleads guilty,” at least “where the 
+charge encompasses lesser included offenses.” 394 U.S. 
+at 467 n.20; see id. at 471. See also United States v. 
+Broce, 488 U.S. 563, 570 (1989) (a guilty plea is an 
+“admission that [the defendant] committed the crime 
+charged against him,” so that a defendant who pleads 
+guilty “is admitting guilt of a substantive crime”) 
+(internal quotation marks omitted); Santobelio v. New 
+York, 404 U.S. 257, 261 (1971) (trial judge may satisfy 
+rule “by having the accused describe the conduct that 
+gave rise to the charge”); Brady v. United States, 397 
+U.S. 742, 748 (1970); Henderson v. Morgan, 426 U.S. 687, 
+648 (1976) (White, J., concurring). 
+
+The Advisory Committee’s Note to Rule 11(f) con- 
+firms that the “factual basis” test applies only to the 
+elements of the offense. The 1966 amendment to Rule 11, 
+which created the “factual basis” requirement, was de- 
+signed to ensure “that the conduct which the defendant 
+admits constitutes the offense charged.” 18 U.S.C. App. 
+at 739. The Advisory Committee explained that the 
+factual basis test would thereby “protect a defendant who 
+is in the position of pleading voluntarily with an under- 
+standing of the nature of the charge but without real- 
+izing that his conduct does not actually fall within the 
+charge.” Ibid. Indicating that the rule was modeled on 
+
+
+that made 
+determine the factual basis for the 
+crime charged. I[bid., citing, e.g., People v. Barrows, 99 
+N.W.2d 347, 349 n.1, 350 (Mich. 1959) (quoting Michigan 
+statute that required the judge, “whenever [he] shall 
+have reason to doubt the truth of such plea of guilty, 
+* * * to vacate the same, direct a plea of not guilty to be 
+pire Bey eu a trial of the issues thus formed”; the 
+
+rrows court noted that the questioning uired 
+the sade fed fap the purpose of dumbibnede dik coin ce 
+the participation therein of the person pleading guilty”). 
+
+An amendment to Rule 11 that took effect in 1975 
+“retain{ed] the [factual basis] requirement of old rule 11,” 
+and codified it as new subsection (f) of the rule. See 
+18 U.S.C. App. at 148. The Advisory Committee’s Note 
+indicated that the requirement may be satisfied “by 
+having the accused describe the conduct that gave rise to 
+the charge,” and observed that the Rule “does not speak 
+directly to the issue of whether a judge may accept a 
+plea of guilty where there is a factual basis for the 
+plea but the defendant asserts his innocence.” Ibid. 
+(emphasis added). That discussion indicates that Rule 
+11(f)’s “factual basis” inquiry was intended to apply only 
+to charges as to which the defendant could either admit 
+guilt or maintain innocence, i.e., substantive criminal 
+offenses. | 
+
+2. Although a variety of terms may be included in 
+a single document containing the defendant’s agreement 
+to plead guilty, the term “plea of guilty” in Rule 11(f) 
+is not synonymous or coextensive with the concept of 
+a “plea agreement.” A “plea agreement” may contain 
+terms separate and distinct from the defendant’s admis- 
+sion that he is zuilty of the charged offense, including 
+terms relating to the dismissal of related charges, to the 
+
+
+18 
+
+
+defendant’s cooperation, or to sentencing. The factual 
+basis requirement of Rule 11(f) was not intended to 
+apply to such provisions. Indeed, the 1966 version of 
+Rule 11 contained no reference at all to plea agreements, 
+the legitimacy of which was at that time substantially un- 
+certain. See Blackledge v. Allison, 431 U.S. 68, 76 (1977) 
+(“{I}t was not until our decision in Santobello v. New 
+York, 404 U.S. 257 [1971], that lingering doubts about the 
+legitimacy of the practice were finally dispelled”); Fed. 
+R. Crim. P. 11 advisory committee’s note, 18 U.S.C. App. 
+at 741-742 (1974 Amendment). 
+
+The courts of appeals have uniformly held that the 
+requirements of Rule 11(f) apply only to the elements of 
+the offense, and not to other factual issues that may 
+determine a defendant’s sentence. In United States v. 
+Reyes, 13 F.3d 688 (2d Cir. 1994), for example, the 
+defendant pleaded guilty to conspiring to import cocaine, 
+in violation of 21 U.S.C. 963. He later claimed that he 
+should have been allowed to withdraw his plea because 
+“there was an insufficient factual basis,” under Rule 
+11(f), “to establish the nature and quantity of narcot- 
+ics that (he) was charged with conspiring to import.” 13 
+F.3d at 640. Although the defendant’s sentence turned 
+on the quantity of cocaine involved in his offense, see 21 
+U.S.C. 960(b) (1988 & Supp. V 1993), the Court rejected 
+his reliance on Rule 11(f) because “the quantity of co- 
+caine is not an element of this offense.” 13 F.3d at 640. 
+
+As the First Circuit recently explained, “[tJhough a 
+district court has an unflagging obligation to assure it- 
+self that a guilty plea is grounded on an adequate fac- 
+tual foundation, it need not gratuitously explore points 
+removed from the elements of the offense.” United 
+States v. Piper, 35 F.3d 611, 615-616 (1st Cir. 1994) (cita- 
+tions omitted), cert. denied, 115 S. Ct. 1118 (1995). Thus, 
+for example, a trial court may not “reject a knowing 
+
+
+19 
+
+
+and voluntary guilty plea [merely] because a defendant 
+refuses to admit to facts external to the essential ele- 
+ments of the offense charged,” even if those facts are 
+alleged in the indictment. United States v. Washington, 
+969 F.2d 1078, 1077 (D.C. Cir. 1992), cert. denied, 113 S. 
+Ct. 1287 (1998). Correspondingly, a defendant may not 
+overturn a guilty plea merely because there is no factual 
+basis for such “external” allegations.’ 
+B. Criminal Forfeiture Is An Element Of The 
+Sentence, Rather Than Of A Substantive Offense 
+
+
+Criminal forfeiture pursuant to 21 U.S.C. 848 and 853 
+is properly regarded as a punishment for conducting a 
+continuing criminal enterprise, rather than as an element 
+of that crime or as a free-standing offense. Thus, the 
+“factual basis” requirement in Rule 11(f) is inapplicable 
+
+
+to stipulations regarding forfeiture. 
+
+
+7 See United States v. Ivory, 11 F.3d 1411, 1415-1416 (7th Cir. 
+1998) (per curiam) (because 21 U.S.C. 846 “does not require the 
+prosecutor to prove an overt act,” “Rule 11 is satisfied if the record 
+provides a factual basis for concluding that [the defendant) agreed to 
+distribute drugs” without showing that he actually did so); United 
+States v. Adams, 961 F.2d 505, 508 (5th Cir. 1992) (per curiam) (“The 
+record must reveal specific factual allegations supporting each element 
+of the offense.”); United States v. Allen, 804 F.2d 244, 245 (8d Cir. 1986) 
+(“The district court must also find a factual basis for each element of 
+the crime.”), cert. denied, 480 U.S. 922 (1987); United States v. 
+Bernaugh, 969 F.2d 858, 866 (10th Cir. 1992) (discussing Rule 11(f) in 
+terms of the elements of the offense); United States v. Morrow, 914 
+F.2d 608, 611-613 (4th Cir. 1990) (same); United States v. Goldberg, 862 
+F.2d 101, 104 (6th Cir. 1988) (same); United States v. Ray, F.2d 
+399, 406-407 (7th Cir. 1987) (same), cert. denied, 484 U.S. 964, 1045 
+(1988); ef. United States v. Armstrong, 951 F.2d 626, 629 (5th Cir. 1992) 
+(factual basis must show that “the defendant’s conduct was within the 
+ambit of that defined as criminal”); United States v. DeFusco, 949 F.2d 
+114, 120 (4th Cir. 1991) (court must find factual basis “sufficient to 
+constitute the alleged crime”), cert. denied, 508 U.S. 997 (1992). 
+
+
+E 
+
+
+1. As this Court has recognized, the legislature 
+substantial discretion to define the elements of 
+offenses. While “(tJhe prosecution bears the burden 
+proving all elements of the offense charged, and 
+persuade the factfinder ‘beyond a reasonable doubt’ of 
+the facts necessary to establish each of those elements,” 
+Sullivan v. Louisiana, 118 S. Ct. 2078, 2080 (1998) (cita- 
+tions omitted), “{tJhe applicability of the reasonable-doubt 
+standard * * * has always been dependent on how a 
+State defines the offense that is charged in any given 
+case,” Patterson v. New York, 482 U.S. 197, 211 n.12 
+(1977). In McMillan v. Pennsylvania, 477 U.S. 79 (1986), 
+the Court applied that principle in the context of sen- 
+tencing, upholding a Pennsylvania statute that made the 
+visible possession of a firearm during the commission of a 
+crime a sentencing factor to be determined by the trial 
+judge by a preponderance of the evidence. See id. at 85 
+(“Patterson stressed that in determining what facts must 
+be proved beyond a reasonable doubt the state legisla- 
+ture’s definition of the elements of the offense is usually 
+dispositive.”). 
+
+2. The text and history of the relevant statutory pro- 
+visions make clear that Congress conceived of forfeit- 
+ure under the CCE statute as a punishment, not # 
+an element of the crime. The Comprehensive Crime 
+Control Act of 1984, Pub. L. No. 98-478, Tit. II, 98 Stat. 
+1976, directs that “[aJny person who engages in a 
+continuing criminal enterprise shall be sentenced to a 
+term of imprisonment * * *, toafine * * *, and to 
+the forfeiture prescribed in section 853 of this title.” 21 
+U.S.C. 848(a). The statute further provides that “[tJhe 
+court, in imposing sentence on [a person convicted under 
+the CCE statute], shall order, in addition to any other 
+sentence imposed pursuant to this subchapter or sub- 
+chapter II of this chapter, that the person forfeit to the 
+
+
+Hl 
+
+
+21 
+
+
+United States all property described in this subsection.” 
+21 U.S.C. 868(a), The Act’s legislative history likewise 
+characterizes criminal forfeiture as punishment. See S. 
+Rep. No. 225, 98th Cong., Ist Sess. 193 (1983) (criminal 
+forfeiture “is imposed as a sanction against the defendant 
+upon his conviction”); id. at 198 (same). Indeed, peti- 
+tioner conceded the point in the court of appeals, 
+“acknowledg{ing] that criminal forfeiture under § 853 is 
+a part of the sentence, not a part of the substantive 
+offense.” J.A. 322. 
+
+3. The courts of appeals have uniformly recognized 
+that “[t}he language of section 853(a) indicates that Con- 
+gress intended criminal forfeiture of property to be a 
+punishment.” United States v. Bieri, 21 F.3d 819, 821 
+(8th Cir.), cert. denied, 115 S. Ct. 208 (1994). Thus, all of 
+the courts of appeals that have considered the question 
+have determined that, because forfeiture is a punish- 
+ment, the forfeitability of particular assets under Section 
+853(a) must be proved by a preponderance of the 
+evidence rather than by the “reasonable doubt” standard 
+applicable to elements of the offense.’ See Bieri, 21 F.3d 
+
+
+constitutionally entitled to a jury determination of forfeitability, it is 
+difficult to see how a lower standard of proof could suffice. See 
+Sullivan, 113 S. Ct. at 2081 (“It is self-evident, we think, that the Fifth 
+
+
+at 821-822; United States v. Ben-Hur, 20 F.3d 313, 317 
+(7th Cir. 1994); United States v. Elgersma, 971 F.2d 690 
+(11th Cir. 1992) (en penny edly wart . _Hernandez- 
+Escarsega, 886 F.2d 1560, 1576-1577 (9th Cir. 1989), cert. 
+denied, 497 U.S. 1008 (1990); United States v. Smith, 966 
+F.2d 1045, 1050-1062 (6th Cir. 1992); United States v. 
+Sandini, 816 F.2d 869, 874-876 (8d Cir. 1987). See also 
+United States v. Saccoccia, Nos. 98-1618, et al. (ist Cir. 
+June 28, 19965), slip op. 59 (for purposes of the extradition 
+
+
+F.2d 1013, 1025 (2d Cir. 1980) (“{TJhe forfeiture provi- 
+sion of 21 U.S.C. § 848 is not an essential element of 
+the offense, but merely an additional penalty for its 
+violation.”). Cf. United States v. Pelullo, 14 F.3d 881, 
+901-906 (3d Cir. 1994) (concluding that Congress intended 
+
+
+RICO forfeiture). 
+
+In related contexts, this Court has likewise character- 
+ized criminal forfeiture as part of the sentence for the 
+offense. See Alexander v. United States, 113 S. Ct. 2766, 
+2775-2776 (1998) (“The im personam criminal forfeit- 
+ure [authorized by RICO] is clearly a form of mone- 
+tary punishment no different, for Eighth Amendment 
+purposes, from a traditional ‘fine.’”); United States v. 
+$8,850, 461 U.S. 555, 567 (1983) (noting that a “criminal 
+proceeding * * * may often include forfeiture as part 
+of the sentence”). The Court’s statement in Caplin & 
+Drysdale, Chartered v. United States, 491 U.S. 617, 628 
+n.5 (1989), that “forfeiture is a substantive charge in the 
+indictment against a defendant” is not to the contrary. 
+See Pet. Br. 19-20. The Court made that observation in 
+rejecting a Sixth Amendment objection to the forfeiture 
+of attorney’s fees, noting that the defendant’s right to 
+
+
+4. To treat the forfeitability of assets as an element of 
+a substantive crime would be anomalous. There is no 
+statutory offense for which an order of forfeiture (or a 
+determination that certain assets are forfeitable) is a 
+prerequisite to conviction. Petitioner, for example, could 
+have been convicted of conducting a continuing crim- 
+inal enterprise in violation of 21 U.S.C. 848 even if 
+no allegation of forfeiture had been included in the 
+
+
+[his] assets were tainted” (id. at 49), he does 
+could not claim to have pleaded “not guilty” 
+
+
+~*~ 
+
+
+to a defendant who pleads guilty but contests the 
+government’s evidence or recommendation regarding 
+the appropriate term of imprisonment. 
+C. Rules 7(c)(2), 31, and 32 Do Not Establish That 
+The District Court Must Find A Factual Basis 
+Under Rule 11(f) For A Forfeiture Agreement 
+
+
+Petitioner recognizes (Pet. Br. 20 n.12) that forfeiture 
+cannot “be treated for all purposes as if it were an 
+element” of an offense. Nevertheless, petitioner con- 
+tends (id. at 15-21) that it is “like an element” (id. at 17 
+n.8) for purposes of Rule 11(f) because it must be alleged 
+in the indictment and submitted to the jury under Rule 7 
+and Rule 31 of the Federal Rules of Criminal Procedure, 
+and because it is distinguished from the judgment re- 
+flecting the “sentence” in Rule 32. Those provisions, 
+however, do not bear on the proper construction of Rule 
+11(f). Rule 11(f) requires a factual basis for the ele- 
+ments of the crime of which the defendant will be con- 
+
+
+Although petitioner refers to 
+Federal Rules of Criminal Procedure that were 
+ically amended to deal with forfeiture issues, no su 
+amendment was made to Rule 11. 
+
+1. After Congress enacted criminal forfeiture provi- 
+sions in the Organized Crime Control Act of 1970, Pub. 
+L. No. 91-452, § 901(a), 84 Stat. 943, for RICO violations, 
+and in the Comprehensive Drug Abuse Prevention and 
+Control Act of 1970, Pub. L. No. 91-513, § 408(a)(2), 84 
+Stat. 1265-1266, for CCE violations, the Federal Rules of 
+Criminal Procedure were amended in three respects to 
+take account of that development. A new Rule 7(c)(2) 
+was added, which as presently worded states: “No 
+
+
+: 
+Z 
+Bir 
+
+
+judgment of forfeiture may be entered in a criminal 
+
+
+i — 
+
+
+proceeding unless the indictment or the information shall 
+allege the extent of the interest or property subject to 
+forfeiture.” Rule 31(e) was amended to provide for a 
+jury determination of the scope of forfeited property: 
+“If the indictment or the information alleges that an 
+interest or property is subject to criminal forfeiture, a 
+special verdict shall be returned as to the extent of 
+the interest or property subject to forfeiture, if any.” 
+Finally, Rule 32(d)(2) (in the present Rules) was amend- 
+ed to authorize, on a verdict of forfeiture, “the Attorney 
+General to seize the interest or property subject to 
+forfeiture on terms the court considers proper.” Peti- 
+tioner relies on that package of amendments to argue 
+(Pet. Br. 19) that the “overall structure” of the Rules 
+treats forfeiture as a part of the substantive offense. He 
+places particular reliance (id. at 18) on the Advisory 
+Committee’s Note accompanying the 1972 amendment to 
+Rule 31, which states: “The assumption of the draft is 
+that the amount of the interest or property subject to 
+criminal forfeiture is an element of the offense to be 
+alleged and proved.” 18 U.S.C. App. at 793. 
+
+The premises that underlay the 1972 amendments to 
+Rules 7, 31, and 32 are of no relevance in construing 
+the “factual basis” requirement. That requirement was 
+placed in Rule 11 in 1966—well before the 1972 amend- 
+ments. The 1972 amendments did nothing to alter 
+the factual basis requirement, and that requirement, of 
+course, does not expressly cover forfeiture. Just as “the 
+views of one Congress as to the meaning of an act passed 
+by an earlier Congress are not ordinarily of great 
+weight,” United States v. X-Citement Video, Inc., 115 S. 
+Ct. 464, 471 n.6 (1994); United States v. Price, 361 U.S. 
+304, 313 (1960), the 1972 Advisory Committee’s Notes, 
+even if they were deemed authoritative with respect to 
+the 1972 amendments to Rules 7, 31, and 32, cast no light 
+
+
+on the proper construction of language added to Rule 11 
+in 1966. 
+
+Nor could it plausibly be argued that Rule 11 was 
+implicitly changed to cover criminal forfeiture in 1972. 
+The Federal Rules of Criminal Procedure may be 
+changed only by Act of Congress or by this Court in 
+accordance with the Rules Enabling Act, see 28 U.S.C. 
+2072, 2074 (1988 & Supp. V 1993). No amendment to 
+Rule 11 could have been effected by the issuance of the 
+1972 Advisory Committee’s Notes accompanying pro- 
+posed Rules 7(c)(2), 31(e), and 32(d)(2). Cf. NLRB v. 
+Health Care & Retirement Corp. of America, 114 8. Ct. 
+1778, 1784-1785 (1994); American Hospital Ass'n v. 
+NLRB, 499 U.S. 606, 616 (1991). Moreover, the Advisory 
+Committee’s Notes to the amendments to Rule 11 that 
+took effect in 1975 reaffirmed that the “factual basis” 
+requirement is concerned with “the issue of guilt or 
+innocence”; the Notes gave no suggestion that Rule 11(f) 
+should be interpreted in light of the Committee’s earlier 
+assumption that forfeiture was to be regarded as an 
+element of the criminal offense. See 18 U.S.C. App. at 
+743. 
+
+
+® The question of what weight may be attached to the Advisory 
+
+
+Notes as substantial evidence of the drafters’ intent, see id. at 702- 
+708; Justice Scalia, while acknowledging the value of the Notes 
+as “scholarly commentaries,” concluded that “they bear no 
+
+
+however, does not seek to use the Notes (as in Tome) to elucidate the 
+
+
+es Se ate seid ie 
+
+
+27 
+
+
+Even if the 1972 Advisory Committee’s Notes on other 
+reflect also an implicit comment 
+Notes would not 
+Rule 11(f) does not 
+
+
+Rule. 
+by its terms require judicial inquiry into admissions or 
+
+
+ff 
+s 
+! 
+: 
+
+
+we have shown, criminal forfeiture is not an element of a 
+crime (or an independent substantive offense), the Advi- 
+sory Committee’s mistaken belief to the contrary would 
+not change the meaning of the word “plea.” Cf. Pierce v. 
+Underwood, 487 U.S. 552, 567 (1988) (committee report 
+that reflects misunderstanding of existing law provides 
+no basis for construing statutory language in other than 
+the normal manner); Shannon v. United States, 114 S. 
+Ct. 2419, 2426 (1994) (Court has not “given authoritative 
+weight to a single passage of legislative history that 
+in no way anchored in the text of the statute” being 
+interpreted). 
+
+In addition, petitioner’s argument depends on the pre- 
+mise that this Court (in promulgating the 1972 amend- 
+ments to Rules 7, 31, and 32 in the form proposed by the 
+Advisory Committee) and Congress (in allowing those 
+amendments to take effect without change) shared the 
+Advisory Committee’s “assumption” that the forfeitabil- 
+ity of particular assets is an element of the substantive 
+offense. Yet the Court and Congress may well have de- 
+cided to require notice in the indictment of the extent of 
+the interest alleged to be subject to forfeiture, to provide 
+
+
+on one set of rules do not have special weight as to the meaning of 
+another, previously promulgated rule. 
+
+
+for the jury rather than the judge to determine the 
+extent of forfeitable property, and to provide for a 
+separate forfeiture term in the judgment, even while 
+recognizing that criminal forfeiture is a punishment 
+rather than an element of the crime. 
+
+There can be no doubt, for example, that Congress 
+regarded the new criminal forfeiture provisions it had 
+enacted as criminal punishments. The Senate Report on 
+the bill that resulted in the RICO forfeiture provisions 
+stated: “Fine and imprisonment as criminal sanctions are 
+not new. The use of criminal forfeiture, however, rep- 
+resents an innovative attempt to call on our common 
+law heritage to meet an essentially modern problem.” S. 
+Rep. No. 617, 91st Cong., Ist Sess. 79 (1969). The Report 
+also quoted extensively from the Department of Justice’s 
+comments on the bill, which made clear that the new 
+criminal forfeiture provisions operated “in personam 
+against the defendant who is the party to be punished 
+upon conviction of violation of any provision of the 
+section, not only by fine and/or imprisonment, but also by 
+forfeiture of all interest in the enterprise.” Jd. at 80. 
+Congress continued to treat criminal forfeiture as a 
+punishment even after the amendments to the Federal 
+Rules of Criminal Procedure on which petitioner relies. 
+When Congress amended the CCE and RICO forfeiture 
+provisions and created new forfeiture penalties for all 
+felony drug cases in 1984, the Senate Report reiterated 
+the view that federal criminal forfeiture “is an in perso- 
+nam proceeding against a defendant in a criminal case 
+and is imposed as a sanction against the defendant upon 
+his conviction.” S. Rep. No. 225, 98th Cong., Ist Sess. 198 
+(1983). Congress regarded criminal forfeiture as such a 
+punishment even though noting the forfeiture-related 
+amendments in the-Federal Rules of Criminal Procedure. 
+See id. at 194 & n.15 (describing procedures and citing 
+
+
+Rules 31 and 32). The Advisory Committee’s theory 
+about the nature of criminal forfeiture therefore - cannot 
+be imputed to Congress. 
+
+D. Imposition Of A “Factual Basis” Requirement Is 
+
+
+Neither Necessary Nor Appropriate To Prevent 
+Potential Abuses Of Forfeiture Agreements 
+
+
+Petitioner offers a variety of policy arguments for 
+applying Rule 11(f) to forfeiture stipulations. Such pol- 
+icy cons‘ lerations provide no warrant for overriding the 
+text of the Rule. In any event, petitioner’s concerns are 
+significantly overstated. A sentencing court may gen- 
+erally rely on sentencing stipulations by the parties, and 
+may test their reliability in appropriate cases. Those pro- 
+cedures are applicable to forfeiture stipulations as well. 
+
+1. Petitioner contends (Pet. Br. 26-34) that Rule 11(f) 
+should be read to apply to forfeiture stipulations because 
+“the government may abuse forfeiture authority.” In 
+the same vein, petitioner’s amicus suggests (NACDL Br. 
+7) that defendants “who are faced with draconian prison 
+sentences under the federal sentencing guidelines * * * 
+have no choice but to take whatever ‘deal’ is offered 
+them by the government.” This Court has previously 
+recognized, however, that “any potential for abuse of 
+forfeiture authority should be addressed through case-by- 
+case inquiry into actual overreaching, not through the 
+formulation of broad prophylactic rules. See Caplin & 
+Drysdale, 491 U.S. at 634-635. 
+
+There is no basis for a claim of overreaching in this 
+case. The court and the parties had a solid basis for 
+believing that petitioner’s illicit profits substantially 
+exceeded his known assets as of sentencing, making all of 
+his property forfeitable under the statute. Even if non- 
+forfeitable property had been identified, moreover, the 
+court would have been required to impose a more sub- 
+
+
+stantial fine, including a costs-of-incarceration fine that is 
+mandatory for defendants with the ability to pay. See 
+Guidelines § 5E1.2(i). Presumably, petitioner entered 
+into the forfeiture stipulation because the agreement as a 
+whole gave him substantial benefits, and proceeding with 
+the trial seemed likely to result in more unpleasant 
+consequences. That petitioner’s alternatives were unat- 
+tractive did not make his situation coercive. See, ¢.g., 
+United States v. Mezzanatto, 115 S. Ct. 797, 806-806 
+
+
+(internal quotation marks omitted). 
+
+
+to have been tainted by criminal conduct.” He asserts 
+
+
+a. Determination of an appropriate criminal sentence 
+
+
+31 
+
+
+example, petitioner “agree(d) to transfer his right, title, 
+and interest in all of his assets to the Division of Criminal 
+Investigation of the Wyoming Attorney General.” J.A. 
+81. That agreement is best understood as petitioner’s 
+
+
+806 (enforcing waiver of rights conferred by Rule 
+1l(eX6) and Fed. R. Evid. 410 without Rule 11 
+procedures); Adams v. Peterson, 968 F.2d 835, 839-841 
+(9th Cir. 1992) (en banc) (same for defendant’s stipulation 
+to individual elements of a criminal offense; collecting 
+cases), cert. denied, 113 S. Ct. 1818 (1993); Lyons, 898 
+F.2d at 214-215 (same; collecting cases). See also Town of 
+Newton v. Rumery, 480 U.S. 386, 394 (1987). 
+
+The Sentencing Guidelines expressly provide that 
+“{a] plea agreement may be accompanied by a written 
+stipulation of facts relevant to sentencing.” Guidelines 
+§ 6B1.4(a).” The Guidelines also treat forfeiture as an 
+
+
+© Cf. 18 U.S.C. 3668(aX3) (Supp. V 1993) (sentencing court “may also 
+order restitution in any criminal case to the extent agreed to by the 
+
+
+aspect of sentencing. See Guidelines § 5E1.4 (“Forfeit- 
+ure is to be imposed upon a convicted defendant = 
+provided by statute.”); see United States v. Investment 
+Enterprises, Inc., 10 F.3d 263, 271 (6th Cir. 1998). The 
+
+
+existence of such ‘facts’ for purposes of the litigation.” 
+is en 
+
+
+i 
+
+
+priate, however, for government counsel to stipulate 
+
+
+| 
+ti 
+a 
+it 
+
+
+a stipulation is to obviate the need for evidentiary proof. 
+Cf., e.g., Sinicropi v. Milone, 915 F.2d 66, 68 (2d Cir. 
+1990) (“Courts generally enforce stipulations that narrow 
+the issues in a case.”); FDIC v. St. Paul Fire & Marine 
+Ins. Co., 942 F.2d 1032, 1038 (6th Cir. 1991) (“Stipulations 
+
+
+the facts relevant to sentencing.” Sentencing Guidelines 
+
+
+parties in a plea agreement”); United States v. Lavin, 27 F.3d 40, 42 
+(2d Cir.) (district court properly ordered restitution of $126,320 although 
+indictment alleged loes of “approximately $119,000”; “[defense} counsel 
+unequivocally stated at sentencing that (defendant) did not contest the 
+$126,320 figure,” and “(the parties therefore agreed to a different 
+smount than was specified in count two of the indictment”), cert. 
+denied, 115 S. Ct. 458 (1994). 
+
+
+criminal defendant may seek to invalidate a stipulation 
+on the ground that it was procured through fraud or 
+coercion, see Mezzanatto, 115 S. Ct. at 806, he should not 
+be permitted to urge the district court to go behind (and 
+reject) the statement of facts that he has admitted to be 
+true. 
+
+In this case, the district court reasonably accepted the 
+
+
+was not called into question by the PSR or by evidence 
+presented at trial before petitioner's change of plea. As 
+the court noted in rejecting petitioner's post-sentencing 
+objection to the lack of a factual basis for the forfeiture, 
+“the evidence that I heard before me in the * * * trial I 
+think is sufficient to warrant the granting of forfeiture.” 
+J.A. 154. Indeed, at a post-sentencing hearing on third- 
+party claims, one government witness testified that “our 
+best estimate of [petitioner's] drug trafficking is that he 
+had profited in excess of a million dollars, and that was a 
+conservative estimate.” J.A. 237. The total value of the 
+forfeited property, however, was only $410,000. J.A. 329. 
+Under the statute’s substitute assets provision, 21 U.S.C. 
+
+
+853(p), all of petitioner’s property would therefore have 
+been forfeitable even if none of petitioner’s assets at the 
+
+
+" The stipulation in this case might be roughly analogized to the 
+portion of the agreement (see J.A. 80) by which the government 
+promised to recommend the minimum 20-year sentence. Petitioner 
+assumed the risk that the court would decide on its own to impose a 
+longer term, see United States v. Benchimol, 471 U.S. 458 (1985), but he 
+did not assume the risk that the government would urge the court to do 
+so, see Santobello, 404 U.S. at 262. By the same token, the government 
+took the chance that the court would decide on its own to impose a 
+lower forfeiture, but petitioner had no legal right to urge that result 
+and no cause to complain that it was not done. 
+
+
+34 
+
+
+time of sentencing had facilitated criminal activity or 
+been acquired with illicit proceeds. 
+
+b Even if it were appropriate to subject stipulations 
+regarding forfeiture to more searching judicial scrutiny 
+
+
+than is given to sentencing stipulations generally, that 
+scrutiny should not be conducted under the rubric of 
+
+
+Rule 11(f). “The normal consequence of a determination 
+that there is not a factual basis for [a] plea fof guilty) 
+would be for the court to set aside the plea and enter a 
+plea of not guilty.” Fed. R. Crim. P. 11 advisory com- 
+mittee’s note, 18 U.S.C. App. at 739 (1966 Amendment). 
+Because the court’s rejection of a forfeiture stipulation 
+would not call into question the defendant’s acknowl- 
+edgement of guilt of the substantive offense, it could 
+provide no basis for setting aside the plea. Rather, the 
+appropriate course would be to accept the plea of guilty, 
+and then to sentence the defendant based on a deter- 
+mination of what assets are forfeitable.” 
+
+8. Petitioner and his amici contend (Pet. Br. 34-39; 
+NACDL Br. 9-13; FEAR Br. 26-27) that a factual basis 
+inquiry into forfeiture stipulations is necessary to ensure 
+that third parties are not unfairly deprived of prop- 
+erty transferred to them by the defendant. Third-party 
+interests, however, are adequately protected through 
+the procedures established by 21 U.S.C. 853(n). Indeed, 
+
+
+2 Under Federal Rule of Criminal Procedure 11(eX1XC), a guilty 
+plea may be made contingent on the court’s acceptance of a particular 
+sentencing recommendation; if the court rejects the parties’ agreement 
+as to the appropriate sentence, the defendant must be allowed to 
+withdraw the plea. See United States v. Fernandez, 960 F.2d 771, 771- 
+773 (9th Cir. 1992) (per curiam); Fed. R. Crim. P. 11(e)(4); Guidelines 
+§ 6B1.3. Ifa sentencing stipulation or recommendation contained in a 
+plea agreement were part of the defendant's “plea of guilty” within the 
+meaning of Rule 11(f), all plea agreements containing such terms 
+would effectively become Rule 11(e1)(C) agreements. 
+
+
+acknowledged 
+jurisdiction. J.A. 318-319. Accordingly, third- 
+
+
+of such 
+party claims may be protected through the procedures 
+directly provided for that purpose, rather than through 
+the indirect means of requiring Rule 11(f) inquiries 
+of the defendant before acceptance of a forfeiture 
+agreement. ~ 
+
+E. A “Factual Basis” Determination For Forfeiture 
+
+
+all of his property was forfeitable. He also claims (Pet. 
+Br. 25) that he would not have pleaded guilty if he had 
+construed the agreement to include an admission that all 
+of his assets were subject to forfeiture. In the district 
+
+
+were tainted.” Jd. at 49. To the contrary, petitioner's 
+counsel characterized the forfeiture sought by the 
+government as “a bitter pill dealt by Congress, but * * * 
+a pill we must swallow.” J.A. 149. Although petitioner 
+objected in the district court to the purported lack of a 
+factual basis for the forfeiture (J.A. 154), he did not 
+contend that he had not agreed to the forfeiture. 
+
+
+Petitioner argues (Pet. Br. 25) that 
+
+
+Federal Rule of Criminal Procedure 31(e) provides 
+that, “[i}f the indictment or information alleges that an 
+interest or property is subject to criminal forfeiture, a 
+special verdict shall be returned as to the extent of the 
+interest or property subject to forfeiture, if any.” As 
+construed by the courts below, the plea agreement in 
+this case reflected the agreement of the parties that the 
+court (rather than a jury) would make the determi- 
+
+
+Petitioner acknowledges, as he must, that the provisions 
+of Rule 31(e) are subject to waiver—i.c., a defendant may 
+agree that the scope of criminal forfeiture will be deter- 
+mined by the court. See United States v. Mezzanatto, 
+supra. He contends, however, that such an agreement 
+may be enforced only if the defendant himself is shown to 
+have been cognizant of his right to a jury finding on the 
+scope of forfeiture. That argument is without merit. 
+This Court’s decisions establish a narrow category of 
+particularly fundamental constitutional rights that may 
+not be waived without meeting the stringent standards of 
+“an intentional relinquishment or abandonment of a 
+known right or privilege.” Johnson v. Zerbst, 304 U.S. 
+458, 464 (1938). There is, however, no constitutional 
+right to a jury determination of forfeiture. While there 
+isa right under Rule 3l(e) to such a jury determination, 
+neither the Federal Rules of Criminal Procedure nor this 
+Court’s decisions require that a defendant be specifically 
+apprised of that right before it may be waived. In this 
+case, petitioner voluntarily and intentionally agreed to 
+remove any dispute about the scope of his forfeitable 
+assets by entering into a stipulation that all of his assets 
+were forfeitable. The effect of that stipulation was to 
+waive any right to litigate those issues further, before a 
+jury or otherwise. Under applicable waiver principles, 
+his surrender of his rights under Rule 31(e) was entirely 
+valid. 
+
+
+determine which of petitioner's assets were tainted, though there was 
+no indication of the mechanism for that determination.” Pet. Br. 49. 
+
+
+his 
+rather, whether he accepts his guilty plea and challenges 
+validity of his waiver of a jury trial on forfeiture issues. Neither 
+approach, however, would have merit. 
+
+
+(citing Duncan v. Louisiana, 391 U.S. 145 (1968)), “{tJhe 
+decision whether a particular punishment * * * is 
+appropriate in any given case is not one that {the Court] 
+ha[s} ever required to be made by a jury,” Cabana, 
+
+
+That 
+does not suggest that the Framers would have perceived 
+the jury in a forfeiture case as a central right of 
+defendant in a criminal trial. See Note, A Proposal To 
+Reform Criminal Forfeiture Under RICO and CCE, 97 
+Harv. L. Rev. 1929, 1987-1988 (1984) (“Although it is true 
+that at common law the jury customarily reported the 
+
+
+collection of the forfeiture penalty. Under the common 
+law rule, all the offender’s property was forfeited; the 
+jury had no legal power to protect the defendant against 
+an excessive forfeiture.”). 
+
+
+© In Calero-Toledo v. Pearson Yacht Leasing Co., 416 U.S. 668, 682 
+(1974), the Court explained that “[f] orfeitures also resulted at common 
+law from conviction for felonies and treason. The convicted felon 
+forfeited his chattels to the Crown and his lands escheated to his lord; 
+the convicted traitor forfeited all of his property, real and personal, to 
+the Crown. See 3 W. Holdsworth, History of English Law 68-71 (8d ed. 
+1927), 1 F. Pollock & F. Maitland, History of English Law 351 (2d ed. 
+1909). The basis for these forfeitures was that a breach of the criminal 
+law was an offense to the King’s peace, which was felt to justify denial 
+of the right to own property. See 1 W. Blackstone, Commentaries 
+*299.” See also The Palmyra, 25 U.S. (12 Wheat.) 1, 14 (1827) (“It is 
+well known, that at the common law, in many cases of felonies, the 
+party forfeited his goods and chattels to the crown.”); United States v. 
+Sandini, 816 F.2d at 878 (referring to “the traditional forfeiture of all of 
+a felon’s property even if it had no connection with the crime”), United 
+States v. Grande, 620 F.2d 1026, 1088 (4th Cir.) (“Under early English 
+law, the complete forfeiture of al] real and personal property followed 
+as a consequence of conviction of a felony or treason.”), cert. denied, 449 
+U.S. 830, 919 (1980). 
+
+
+41 
+
+
+There is consequently no basis for the assertion that 
+determinations of the sort required by Section 853 were 
+
+
+| 
+
+
+i 
+[F 
+§ 
+; 
+i 
+
+
+among all sentencing issues, must be decided 
+as a matter 
+
+
+ij 
+; 
+
+
+gers 
+i 
+i 
+: 
+: 
+r 
+
+
+ef 
+{! 
+i 
+7 
+
+
+ci 
+it 
+if 
+| 
+i 
+
+
+U.S. 639, 647-648 (1990) (sustaining capital sentencing 
+scheme that did not require jury involvement in 
+sen ). 
+
+B. The Right Under Rule 31(e) To A Jury Trial On 
+
+
+42 
+
+
+1. The Federal Rules of Criminal Procedure contain 
+detailed provisions governing the waiver of rights in 
+conjunction with a plea of guilty. Rule 11(c) identifies 
+the information that the court must communicate to a 
+criminal defendant in order to ensure the validity of 
+a guilty plea. Rule 11(c)(3) does not require that a 
+criminal defendant be advised of his right, pursuant to 
+Rule 3l(e), to a special jury verdict regarding “the 
+extent of the interest or property subject to forfeiture.” 
+The district court is required to inform the defendant of 
+a small set of fundamental rights of procedure in a 
+criminal trial that Congress specified in 1975, see Federal 
+Rules of Criminal Procedure Amendments Act of 1975, 
+Pub. L. No. 94-64, § 3(5), 89 Stat. 371, on the theory that 
+“the warnings given to the defendant ought to include 
+those that Boykin v. Alabama, 395 U.S. 238 (1969), said 
+were constitutionally required.” H.R. Rep. No. 247, 94th 
+Cong., 1st Sess. 7 (1973) (1975 House Report). Because 
+the right to a jury determination of forfeiture provided 
+
+
+16 The proposed Rule 11(c) transmitted by this Court to Congress in 
+1974 would have required a substantially less extensive colloquy than 
+the Rule as enacted. See 94 S. Ct. 3275, 3279 (1974). Although the 1975 
+House Report describes the additional warnings mandated by current 
+Rule 11(c)3) as “constitutionally required” under Boykin, see 1975 
+House Report 7, Boykin does not actually so hold. Rather, Boykin 
+states that the rights subsequently enumerated in liule 11(c)(8) can be 
+validly waived only by a defendant with actual knowledge of their 
+existence, and that a reviewing court “cannut presume a waiver of 
+these three important federal rights from a silent record.” 395 U.S. at 
+243. The Boykin Court did not require, as a matter of constitutional 
+law, that a defendant receive the pertinent information from the trial 
+court itself. See also McCarthy v. United States, 394 U.S. 459, 465 
+(1969) (procedures required by Rule 11 “ha[ve] not been held to be 
+constitutionally mandated”). 
+
+
+43 
+
+
+by Rule 31(e) stands on a nonconstitutional footing, it is 
+not covered in the required colloquy.” 
+
+That understanding of Rule 11(c)(3) is buttressed by 
+Rule 11(c)(1), which describes the sentencing information 
+that must be communicated by the court to the defendant 
+before a guilty plea can be accepted. The court is re- 
+quired to inform the defendant of “the nature of the 
+charge to which the plea is offered, the mandatory mini- 
+mum penalty provided by law, if any, and the maximum 
+possible penaity provided by law, including the effect of 
+any special parole or supervised release term, the fact 
+that the court is required to consider any applicable sen- 
+tencing guidelines but may depart from those guidelines 
+under some circumstances, and when applicable, that the 
+court may also order the defendant to make restitution to 
+any victim of the offense.” Fed. R. Crim. P. 11(c)(1). 
+The Rule thus requires that the defendant be made 
+aware of a variety of factors bearing upon the sentence 
+he is likely to receive upon pleading guilty. The Rule 
+does not, however, require the provision of complete and 
+detailed information concerning the sentence to which 
+
+
+'T Even if petitioner were correct in arguing that the determination 
+of what property is forfeitable is “a part of the criminal prosecution for 
+purposes of the Sixth Amendment” (Pet. Br. 45), the district court's 
+failure to inform him specifically of that aspect of his jury trial right 
+would not render his plea invalid or undermine the validity of his 
+forfeiture stipulation. At the change of plea hearing, the court advised 
+petitioner that “you have a right to a speedy and public jury trial, 
+which we're in the middle of.” J.A. 86; see also J.A. 80 (plea agree- 
+ment acknowledged waiver of “the right to a jury trial”). The colloquy 
+was sufficient to satisfy Rule 11(c)(3), which simply requires the court 
+to inform the defendant that he has “the right to be tried by a jury.” 
+Similarly, the Johnson v. Zerbst standard for waiver of the right to 
+jury trial requires that the defendant be generally cognizant of the 
+existence of that right, but it does not require him to understand the 
+precise scope of the issues within the jury’s authority. 
+
+
+44 
+
+
+the defendant would be subject if he proceeded to trial 
+and were ultimately convicted. Cf. Brady v. United 
+States, 397 U.S. 742, 756-757 (1970) (defendant’s guilty 
+plea was intelligently made despite his reasonable but 
+mistaken belief, at the time the plea was entered, that 
+if tried and convicted he would be subject to a possible 
+sentence of death). It would therefore be anomalous to 
+require the district court to advise the defendant re- 
+garding the procedural mechanism by which sentence 
+would be imposed if the defendant declined to plead 
+guilty but was convicted at trial.” 
+
+2. Petitioner argues (Pet. Br. 47-48) that only a 
+“knowing and intelligent waiver” under the standard 
+
+
+18 Petitioner’s suggestion (Pet. Br. 47-48) that Rule 23(a) indicates 
+that the Rules contemplate a specific waiver of the right to a jury trial 
+on forfeiture is misplaced. Rule 23(a) provides that “[cJases required to 
+be tried by a jury shall be so tried unless the defendant waives a jury 
+trial in writing with the approval of the court and the consent of the 
+government.” As the Advisory Committee’s Notes make clear, “(tJh{e] 
+rule is a formulation of the constitutional guaranty of trial by jury,” 
+and the written waiver requirement was designed to conform to the 
+existing practice at the time of adoption of the rule in 1944. 18 U.S.C. 
+App. at 788. Nothing in the text or Advisory Committee’s comments 
+suggests that this provision (or any similar requirement) applies to the 
+waiver of the right under Rule 31(e) to a jury verdict on forfeiture 
+issues. Moreover, Rule 23 applies to “Trial by Jury or by the Court” 
+(emphasis added), see also Rule 23(c) (outlining procedures applicable 
+to “Trial Without a Jury”), and applies only when the defendant de- 
+sires a trial before the court without a jury. See Singer v. United 
+States, 380 U.S. 24 (1965). Its procedures are distinct from the Rules 
+governing “Pleas” (Rule 11) and “Sentence and Judgment” (Rule 32). 
+Finally, petitioner in his written plea agreement expressly waived 
+“the right to a jury trial” and consented to the forfeiture of all his 
+assets. J.A. 80, 81. Even if the right to a jury determination of 
+forfeiture were part of the right to trial by jury protected by the Sixth 
+Amendment, petitioner’s written waiver was sufficient to comply with 
+both the Constitution and Rule 23. See note 17, supra. 
+
+
+45 
+
+
+of Johnson v. Zerbst, 304 U.S. 458, 464 (1938), can 
+extinguish a criminal detendant’s right under Rule 31(e) 
+toa jury determination on forfeiture issues. There is no 
+basis for applying that stringent standard in this context. 
+A defendant who voluntarily and intentionally enters 
+into an agreement to specify the scope of his forfeitable 
+assets is bound by his agreement, even though the court 
+may not have personally informed him about a variety of 
+legal rights that may bear on the wisdom or desirability 
+of his chosen course of action. The defendant may not 
+later invalidate his agreement on the theory that he was 
+unaware of procedural rights, such as Rule 31(e), that 
+would have been available if he had contested the 
+government’s allegations. 
+
+The principle that a defendant may waive rights of 
+which he has not been specifically advised by the court is 
+consistent with the law of waiver generally. “‘No pro- 
+cedural principle is more familiar to this Court than that 
+a constitutional right,’ or a right of any other sort, ‘may 
+be forfeited in criminal as well as civil cases by the failure 
+to make timely assertion of the right before a tribunal 
+having jurisdiction to determine it.’” United States v. 
+Olano, 113 S. Ct. 1770, 1776 (1998) (quoting Yakus v. 
+United States, 321 U.S. 414, 444 (1944)). A requirement 
+that the defendant must have specific knowledge of a 
+right to waive it is a rare exception. A plea of guilty, for 
+example, constitutes a waiver of the constitutional rights 
+to a jury trial, the right to confront and cross-examine 
+witnesses, and the privilege against self-incrimination. 
+See Parke v. Raley, 113 S. Ct. 517, 523 (1992); Boykin 
+v. Alabama, 395 U.S. 238, 243 (1969). For the plea to 
+be valid, the defendant must be aware of those rights 
+and intentionally relinquish them. McCarthy v. United 
+States, 394 U.S. 459, 466 (1969). But a valid guilty plea 
+also relinquishes a variety of other constitutional and 
+
+
+46 
+
+
+statutory rights. Neither this Court’s cases nor Rule 11 
+requires the defendant to be aware of all of those rights 
+before his plea of guilty may extinguish them. 
+
+For example, a guilty plea extinguishes constitutional 
+defenses of which the defendant may have no knowledge. 
+In United States v. Broce, 488 U.S. 563, 573 (1989), this 
+Court noted that “[oJur decisions have not suggested that 
+conscious waiver is necessary with respect to each poten- 
+tial defense relinquished by a plea of guilty.” The Court 
+then held that the plea in that case had relinquished a 
+potential defense under the Double Jeopardy Clause of 
+which the defendant had no knowledge. Jd. at 572-574. 
+See also Tollett v. Henderson, 411 U.S. 258, 267 (1973) 
+(“A guilty plea, voluntarily and intelligently entered, 
+may not be vacated because the defendant was not 
+advised of every conceivable constitutional plea in 
+abatement he might have to the charge.”). Similarly, a 
+defendant has the right to challenge preindictment delay 
+under the Due Process Clause, to insist on a speedy trial 
+under the Sixth Amendment, to invoke the exclusionary 
+rule under the Fourth Amendment, and to require the 
+production of exculpatory evidence under the Due 
+Process Clause. A guilty plea waives all of those rights. 
+See Smith v. United States, 876 F.2d 655, 657 (8th Cir.) 
+(per curiam) (defendant’s guilty plea “waived his claims 
+on search and seizure * * * and failure to disclose 
+favorable evidence”), cert. denied, 493 U.S. 869 (1989); 
+Tiemens v. United States, 724 F.2d 928, 929 (11th Cir.) 
+(per curiam) (guilty plea waived right to speedy trial 
+and claim of preindictment delay), cert. denied, 469 U.S. 
+837 (1984). Yet this Court has never suggested that 
+waivers of those rights are invalid if the defendant was 
+not told that he possessed them at the time of his plea. 
+
+The same is true with respect to statutory rights. The 
+acceptance of the plea of guilty waives the right to 
+
+
+47 
+
+
+enforce the discovery provisions of Federal Rule of 
+Criminal Procedure 16, the right to the production of 
+statements under the Jencks Act (18 U.S.C. 3500), and 
+the right to have guilt or innocence determined at a trial 
+governed by the Federal Rules of Evidence. None of 
+those waivers is vulnerable on the basis that the 
+defendant may not have known about the existence of the 
+underlying right. See also Peretz v. United States, 501 
+U.S. 923 (1991) (defendant may validly consent to 
+selection of a jury by a magistrate, thus waiving 
+statutory and possible Art. III rights; no suggestion 
+that defendant must be aware of those rights); United 
+States v. Gagnon, 470 U.S. 522, 528 (1985) (per curiam) 
+(defendant’s voluntary absence waived the right to be 
+present under the Constitution and Fed. R. Crim. P. 43, 
+even though there was no express waiver); Acevedo- 
+Ramos v. United States, 961 F.2d 305, 308-309 (ist 
+Cir.) (“{Llike other affirmative defenses, the statute of 
+limitations is deemed waived when a defendant pleads 
+guilty even if the defendant did not make a knowing and 
+express waiver of the defense.”), cert. denied, 113 S. Ct. 
+299 (1992); Lebowitz v. United States, 877 F.2d 207, 209- 
+210 (2d Cir. 1989) (guilty plea waived right to assert an 
+alleged Speedy Trial Act violation); Baxter v. United 
+States, 966 F.2d 387, 389 (8th Cir. 1992) (per curiam) 
+(guilty plea waived right to assert an alleged violation of 
+the Interstate Agreement on Detainers). A defendant’s 
+voluntary conduct can thus waive a variety of rights of 
+which he may be unaware. There is no principled basis 
+on which Rule 3l(e) rights can be deemed more 
+“fundamental” or more difficult to waive than those 
+rights. See United States v. Zang, 703 F.2d 1186, 1194- 
+1195 (10th Cir. 1982) (“The parties can waive their right 
+
+
+48 
+
+
+to a special verdict [under Rule 31(e)] by not making a 
+timely request.”), cert. denied, 464 U.S. 828 (1983).” 
+
+Beyond the very small set of rights that this Court has 
+identified as requiring a personal waiver, the explanation 
+of a defendant’s rights is generally the province of 
+counsel for the defendant. In an adversary system, 
+defense counsel bears primary responsibility for advising 
+his client concerning the advantages and disadvantages 
+of a guilty plea and associated concessions. So long as the 
+district court conducts the colloquy mandated by Rule 
+11(c), “{a) failure by counsel to provide [additional] advice 
+may form the basis of a claim of ineffective assistance of 
+counsel, but absent such a claim it cannot serve as the 
+predicate for setting aside a valid plea.” Broce, 488 U.S. 
+at 574; Hill v. Lockhart, 474 U.S. 52 (1985).” 
+
+
+19 In United States v. Robinson, 8 F.3d 418 (7th Cir. 1998), the court 
+of appeals concluded that the Rule 3l(e) right to a jury trial on 
+forfeiture was “important” enough to require a knowing and volun- 
+tary waiver. Jd. at 421 (relying on authority requiring a defendant’s 
+knowing and voluntary waiver of the right to appeal). Robinson, 
+however, did not explain its conclusion on the “importance” of the right, 
+or why other statutory rights could be waived without meeting the 
+“standard for evaluating waivers of constitutional rights.” Jd. at 421- 
+422. 
+
+*® Indeed, many rights can be waived by the act or omission of trial 
+counsel alone, without the participation of the defendant in the decision. 
+See Henry v. Mississippi, 379 U.S. 448, 451 (1965) (counsel’s failure to 
+object contemporaneously to the admission of evidence as a part of trial 
+strategy binds the defendant); Faretta v. California, 422 U.S. 806, 820- 
+821 (1975) (“law and tradition may allocate to the counsel the power to 
+make binding decisions of trial strategy in many areas”); Taylor v. 
+Illinois, 484 U.S. 400, 418 (1988) (“[Tyhe lawyer has—and must have— 
+full authority to manage the conduct of the trial. The adversary pro- 
+cess could not function effectively if every tactical decision required 
+client approval.”); Murray v. Carrier, 477 U.S. 478, 488 (1986) (“So long 
+as a defendant is represented by counsel whose performance is 
+
+
+principle is fully applicable here. Petitioner 
+agreement with the government re- 
+
+
+That 
+elected reach 
+garding a disposition of this case, and to remove from 
+the realm of dispute whether his assets were subject to 
+He did so in the context of a plea agreement 
+entered into with the advice of counsel, which was 
+designed to end litigation before the jury on the question 
+of his guilt and to proceed to sentencing in accordance 
+with the agreed-upon terms. The necessary effect of 
+that agreement was to forgo his Rule 31(e) right to jury 
+trial on the issue of forfeiture. It was not the court’s 
+responsibility to apprise petitioner of Rule 31(e) before 
+accepting his stipulation regarding forfeiture. Rather, 
+
+
+proceed with trial, that issue, like many other issues that 
+may have affected petitioner’s decision, fell to counsel to 
+explore with petitioner. 
+
+Petitioner’s contrary approach would subvert the 
+ability of plea agreements to secure “prompt and largely 
+final disposition of most criminal cases.” Santobello v. 
+New York, 404 U.S. 257, 261 (1971). In most settings, 
+courts can currently protect. the defendant’s rights by 
+engaging in the colloquy required by Rule 11(c). 
+Petitioner’s expansive application of the Johnson v. 
+Zerbst standard, however, would replace the relative 
+certainty of Rule 11(c) with a free-form inquiry into 
+whether any of the myriad statutory (or constitutional) 
+rights surrendered in the course of a guilty plea or 
+
+
+subsequent sentencing were comparably “fundamental.” 
+
+
+not constitutionally ineffective under the standard established in 
+Strickland v. Washington, (466 U.S. 668 (1984)}, we discern no inequity 
+in requiring him to bear the risk of attorney error that results in a 
+procedural default.”). 
+
+
+As one court has noted, “Rule 11’s value is as a 
+formulary.” United States v. Wenger, No. 98-4043 (7th 
+Cir. June 15, 1995), slip op. 3. Ad hoc additions to the 
+colloquy that a court must conduct with a defendant 
+
+
+before accepting 
+
+
+plea of guilty would inject 
+
+
+considerable uncertainty into the disposition of plea 
+
+
+agreements. 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be 
+
+
+affirmed. 
+
+
+Respectfully submitted. 
+
+
+AUGUST 1995 
+
+
+Drew S. Days, III 
+
+Solicitor General 
+JO ANN HARRIS 
+
+Assistant Attorney General 
+MICHAEL R. DREEBEN 
+
+Deputy Solicitor General 
+MALCOLM L. STEWART 
+
+Assistant to the Solicitor General 
+
+
+DAVID S. KRIS 
+Attorney 
+
+
+" 
+
+
+APPENDIX 
+
+
+Federal Rule of Criminal Procedure 7(c)(2) provides: 
+
+
+Criminal Forfeiture. No judgment of forfeiture may 
+be entered in a criminal 
+ment or the information shall 
+
+
+interest or property subject to ; 
+Federal Rule of Criminal Procedure 11(c) provides: 
+
+
+unless the indict- 
+the extent of the 
+
+
+Advice to Defendant. Before a plea of 
+guilty or nolo contendere, the court must address 
+the defendant in court and inform 
+the defendant of, and that the defendant 
+understands, the following: 
+
+ae ree ae to which the 
+
+offered, um t 
+vided by law, if yn Doyen Sagem Al oe 
+provided by low, inclading the efflece of any 
+
+
+(2) if the defendant is not represented by an 
+attorney, that the defendant has the right to be 
+represented by an attorney at every stage of the 
+
+and, if necessary, one be appointed 
+to represent the defendant; and 
+
+(3) that the defendant has the t to plead 
+not guilty or to persist in that if it has 
+
+by a jury 
+
+
+os 
+
+
+2a 
+
+
+adverse witnesses, and the right against com- 
+pelled self-incrimination; and 
+
+
+answers may later be used against the defendant 
+in a prosecution for perjury or false statement. 
+
+
+Federal Rule of Criminal Procedure 11(f) provides: 
+
+
+Determining Accuracy of Plea. Notwithstandin 
+the acceptance of a plea of guilty, the court shoul 
+not enter a judgment upon such plea without making 
+such inquiry as shall satisfy it that there is a factual 
+
+
+basis for the plea. 
+
+
+Federal Rule of Criminal Procedure 23 provides: 
+
+
+Trial by Jury or by the Court 
+(a) Trial by Jury. Cases required to be tried 
+
+
+3a 
+
+
+to excuse a juror for just cause after 
+the bao guttend to senaider tis verdict, in the 
+
+of the court a valid verdict may be 
+returned by the remaining 11 jurors. 
+
+
+(c) Trial Without a Jury. In a case tried 
+without a the court shall make a general 
+er ge in addition, on request made 
+
+
+opinion or memorandum of decision is filed, it will 
+be sufficient if the findings of fact appear therein. 
+
+
+Federal Rule of Criminal Procedure 31(e) provides: 
+
+
+Criminal Forfeiture. If the indictment or the 
+
+
+information that an interest or property 
+is sub to forfeiture, a s verdict 
+shall returned as to the extent the interest 
+or property subject to forfeiture, if any. 
+
+
+Federal Rule of Criminal Procedure 32(d)(2) provides: 
+
+
+Criminal Forfeiture. When a verdict contains a 
+
+
+finding of criminal forfeiture, the judgment must 
+authorize the Attorney General to seize the interest 
+or property subject to forfeiture on terms that the 
+court considers proper. 
+
+
+21 U.S.C. 848(a) provides: 
+Penalties; forfeitures 
+
+
+Any person who in a continuing crim- 
+inal enterprise shall be sentenced to a term of 
+
+
+shall arte to the United States, irrespective of 
+any provision of State law— 
+
+
+(1) any property constituting, or derived 
+from, any proceeds the person obtained, 
+directly or indirectly, as the result of 
+such violation; 
+
+
+(2) any of the person’s property used, or 
+intended to be used, in any manner or part, 
+to commit, or to facilitate the commission 
+of, such violation; and 
+
+
+(3) in the case of a person convicted of 
+engaging in a continuing criniinal enter- 
+prise in violation of section 848 of this title, 
+the shall forfeit, in addition to any 
+
+described in paragraph (1) or (2), 
+any of interest in, claims against, and 
+property or contractual rights affording 
+
+
+Sa 
+
+
+a source of control over, the continuing 
+criminal enterprise. 
+
+
+The court, in im sentence on such person, 
+il oak bo ee en ee im- 
+
+
+t to this subchapter or subchapter 
+
+of this chapter, that the forfeit to the 
+
+United States all in this sub- 
+
+section. In lieu of a otherwise authorized by 
+
+this part, a defendant who derives profits or other 
+
+proceeds from an offense may be fined not more 
+than twice the gross profits or other proceeds. 
+
+
+21 U.S.C. 853(p) provides: 
+Forfeiture of substitute property 
+
+
+If any of the property described in subsection 
+(a) of this section, as a result of any act or 
+omission of the defendant— 
+
+
+(1) cannot be located upon tie exercise 
+of due diligence; 
+
+(2) has been transferred or sold to, or 
+deposited with, a third party; 
+
+
+(3) has been placed beyond the jurisdic- 
+tion of the court; 
+
+
+(4) has been substantially diminished in 
+value; or 
+
+
+(6) has been commingled with other 
+pperty which cannot be divided without 
+difficulty; 
+
+
+the court shall order the forfeiture of any other 
+property of the defendant up to the value of any 
+
+
+property described in paragraphs (1) through (5). 
+
+

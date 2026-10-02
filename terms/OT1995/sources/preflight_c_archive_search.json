@@ -1,0 +1,117 @@
+[
+  {
+    "query": "collection:us-supreme-court AND (\"94-7810\" OR \"A. St. P. C.\" OR \"643 So. 2d 743\")",
+    "url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+%28%2294-7810%22+OR+%22A.+St.+P.+C.%22+OR+%22643+So.+2d+743%22%29&output=json&rows=100&fl%5B%5D=identifier&fl%5B%5D=title",
+    "result": {
+      "responseHeader": {
+        "status": 0,
+        "QTime": 127,
+        "params": {
+          "query": "collection:us-supreme-court AND ((text:&quot;94-7810&quot; OR text:&quot;94-7810&quot; OR text__reviews:&quot;94-7810&quot;) OR (text:&quot;A. St. P. C.&quot; OR text:&quot;A. St. P. C.&quot; OR text__reviews:&quot;A. St. P. C.&quot;) OR (text:&quot;643 So. 2d 743&quot; OR text:&quot;643 So. 2d 743&quot; OR text__reviews:&quot;643 So. 2d 743&quot;))",
+          "qin": "collection:us-supreme-court AND (&quot;94-7810&quot; OR &quot;A. St. P. C.&quot; OR &quot;643 So. 2d 743&quot;)",
+          "fields": "identifier,title",
+          "wt": "json",
+          "rows": 100,
+          "start": 0
+        }
+      },
+      "response": {
+        "numFound": 0,
+        "start": 0,
+        "docs": []
+      }
+    }
+  },
+  {
+    "query": "collection:us-supreme-court AND (\"94-967\" OR (\"Field\" AND \"Mans\"))",
+    "url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+%28%2294-967%22+OR+%28%22Field%22+AND+%22Mans%22%29%29&output=json&rows=100&fl%5B%5D=identifier&fl%5B%5D=title",
+    "result": {
+      "responseHeader": {
+        "status": 0,
+        "QTime": 64,
+        "params": {
+          "query": "collection:us-supreme-court AND ((text:&quot;94-967&quot; OR text:&quot;94-967&quot; OR text__reviews:&quot;94-967&quot;) OR ((text:Field OR text:Field OR text__reviews:Field) AND (text:Mans OR text:Mans OR text__reviews:Mans)))",
+          "qin": "collection:us-supreme-court AND (&quot;94-967&quot; OR (&quot;Field&quot; AND &quot;Mans&quot;))",
+          "fields": "identifier,title",
+          "wt": "json",
+          "rows": 100,
+          "start": 0
+        }
+      },
+      "response": {
+        "numFound": 2,
+        "start": 0,
+        "docs": [
+          {
+            "identifier": "micro_IA40385014_0555",
+            "title": "Archer v. Warner, 538 U.S. 314 (2003) (No. 01-1418)"
+          },
+          {
+            "identifier": "micro_IA40385013_0573",
+            "title": "Field v. Mans, 516 U.S. 59 (1995) (No. 94-967)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "query": "collection:us-supreme-court AND (\"94-947\" OR \"Town & Country\" OR \"Town and Country\")",
+    "url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+%28%2294-947%22+OR+%22Town+%26+Country%22+OR+%22Town+and+Country%22%29&output=json&rows=100&fl%5B%5D=identifier&fl%5B%5D=title",
+    "result": {
+      "responseHeader": {
+        "status": 0,
+        "QTime": 56,
+        "params": {
+          "query": "collection:us-supreme-court AND ((text:&quot;94-947&quot; OR text:&quot;94-947&quot; OR text__reviews:&quot;94-947&quot;) OR (text:&quot;Town &amp; Country&quot; OR text:&quot;Town &amp; Country&quot; OR text__reviews:&quot;Town &amp; Country&quot;) OR (text:&quot;Town and Country&quot; OR text:&quot;Town and Country&quot; OR text__reviews:&quot;Town and Country&quot;))",
+          "qin": "collection:us-supreme-court AND (&quot;94-947&quot; OR &quot;Town &amp; Country&quot; OR &quot;Town and Country&quot;)",
+          "fields": "identifier,title",
+          "wt": "json",
+          "rows": 100,
+          "start": 0
+        }
+      },
+      "response": {
+        "numFound": 2,
+        "start": 0,
+        "docs": [
+          {
+            "identifier": "micro_IA40385006_1041",
+            "title": "Town & Country Estates, Inc. v. Fong, 444 U.S. 942 (1979) (No. 79-557)"
+          },
+          {
+            "identifier": "micro_IA40385013_0572",
+            "title": "NLRB v. Town & Country Elec., Inc., 516 U.S. 85 (1995) (No. 94-947)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "query": "collection:us-supreme-court AND (\"94-6615\" OR (\"Thompson\" AND \"Keohane\"))",
+    "url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+%28%2294-6615%22+OR+%28%22Thompson%22+AND+%22Keohane%22%29%29&output=json&rows=100&fl%5B%5D=identifier&fl%5B%5D=title",
+    "result": {
+      "responseHeader": {
+        "status": 0,
+        "QTime": 63,
+        "params": {
+          "query": "collection:us-supreme-court AND ((text:&quot;94-6615&quot; OR text:&quot;94-6615&quot; OR text__reviews:&quot;94-6615&quot;) OR ((text:Thompson OR text:Thompson OR text__reviews:Thompson) AND (text:Keohane OR text:Keohane OR text__reviews:Keohane)))",
+          "qin": "collection:us-supreme-court AND (&quot;94-6615&quot; OR (&quot;Thompson&quot; AND &quot;Keohane&quot;))",
+          "fields": "identifier,title",
+          "wt": "json",
+          "rows": 100,
+          "start": 0
+        }
+      },
+      "response": {
+        "numFound": 1,
+        "start": 0,
+        "docs": [
+          {
+            "identifier": "micro_IA40385013_0614",
+            "title": "Thompson v. Keohane, 516 U.S. 99 (1995) (No. 94-6615)"
+          }
+        ]
+      }
+    }
+  }
+]

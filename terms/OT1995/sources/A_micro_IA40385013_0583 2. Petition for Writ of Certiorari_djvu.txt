@@ -1,0 +1,2013 @@
+94141 9 FEB 1 4 1995 
+NO. 
+
+
+DEFICE OF THE CLERK 
+
+
+IN THE 
+SUPREME COURT 
+OF THE 
+UNITED STATES 
+
+
+OCTOBER TERM, 1994 
+
+
+TANA WOOD, Superintendent, a 
+Petitioner, 
+
+
+Vv. 
+
+
+DWAYNE EARL BARTHOLOMEW, 
+Respondent. 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+TO THE UNITED STATES 
+COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+
+
+CHRISTINE O. GREGOIRE 
+General 
+
+
+Attorney 
+State of Washington 
+
+
+THORNTON WILSON 
+Assistant Attorney General 
+Counsel of Record 
+
+
+Attorney General's Office 
+
+C cons Divisi 
+
+P. O. Box 40116 
+
+Olympia, Washington 98504-01 16 
+(360) 586-1445 
+
+
+a) 
+
+
+i 
+QUESTION PRESENTED 
+Does the Due Process Clause, as applied in Brady v. 
+Maryland, 373 U.S. 83 (1963), require prosecutors to disclose 
+information that neither is admissible in evidence nor will lead 
+to admissible evidence, if the information may affect the 
+preparation or presentation of the defense? se 
+
+
+PROVISIONS sf » | eS | F =e Fe mee ff FF se Fs OF Oe Om Om 
+; 
+
+
+A. The Ninth Circuit's Decision Conflicts with Brady, 
+which Holds that Suppression of Information Does 
+Not Violate Due Process Unless the Information Is 
+Admissible in Evidence. ............... 
+
+
+Regarding 
+Information that Is Not Admissible in Evidence. 
+C. This Court Should Grant Certiorari Because the 
+Ninth Circuit’s Decision Reduces the Defendant's 
+Burden of Proof to Mere Speculation. ....... 
+
+
+D. The Ninth Circuit’s Decision Effectively Imposes 
+a Constitutional Discovery Rule on Prosecutors. . 
+
+
+11 
+
+
+14 
+
+
+22 
+
+
+TABLE OF AUTHORITIES 
+Cases Page 
+Alexander v. McCotter, 
+Vee Ca Gs GE oc cco vt dea eiwidise o 21 
+Arizona v. Youngblood, 
+Se Us ccsece enc ea €6kuune 12, 22 
+
+
+Bartholomew v. Wood, 
+34 F.3d 870 (9th Cir. 1994) 1, 8, 9, 12, 15, 16, 18, 21, 23 
+
+
+Blackmon v. Scott, 
+
+ee ee ee 15 
+Brady v. Maryland, 
+
+Se ee 6 6 x 0 Swe hae ed cee 7-18, 20-23 
+
+
+Brecht v. Abrahamson, 
+U.S. 113 S. Ct. 1710, 
+
+
+123 L. Ed. 2d 353 SS ne ee 19 
+California v. Trombetta, 
+es viceticu Sa viccéaee 12, 14 
+
+
+Cuevas v. Henderson, 
+801 F.2d 586 (2nd Cir. 1986), cert. denied, 
+
+
+ae ee ee 21 
+Cuyler v. Sullivan, 
+
+ist accke chap wad cnwens 21 
+Giglio v. United States, 
+
+EE 6. 6c ch bccedoboetweunuss 12 
+Kyles v. Whitley, 
+
+No. 93-7927 (argued 11/7/94) ............ 11, 12, 18 
+Mooney v. Holohan, 
+
+I so wc ce be ean ewobeakbacds 12 
+Moore v. Illinois, 
+
+ee Es 0 6s b'e no's 6 SERA wees 12 
+
+
+v 
+
+Napue v. Illinois, 
+
+360 U. Ss. 1, Pre evivrrrerin ok 12 
+Nelson v. Nagle, 
+
+995 F.2d 1549 (lith Cir. 1993) .........2 50s 15 
+O'Neal v. McAninch, 
+
+No. 93-7407 (argued 10/31/94) .........55 eee 19 
+
+v. Ritchie, 
+
+) ) © a reeeee ie 12, 18, 19, 23 
+Pyle v. Kansas, 
+
+PPPOE occ ce Pescccceccdecdecnn 12 
+Scarpa v. Dubois, 
+
+pk by | PPT ES TEETER 21 
+
+
+State v. Bartholomew, 
+98 Wash. 2d 173 P.2d 1170 (1982), vacated and 
+
+
+remanded on other grounds sub nom. 
+
+Washington v. Bartholomew, 463 U.S. 862 (1983) ..... 6 
+Strickland v. Washington, 
+
+SE Cc cectcecicceeesevuseee’ 21 
+Teague v. Lane, 
+
+SP EES Gn cc ceceesdsCeccusdwons 16 
+United States v. Agurs, 
+
+KR Ee 11, 12, 14, 17, 19, 22 
+United States v. Arias Villanueva, 
+
+je 4 eee ae 16 
+United States v. Asubonteng, 
+
+895 F.2d 424 (7th Cir. 1990), cert. denied, 
+
+— Gree rer ere rere eTe 21 
+United States v. Bagley, | 
+
+Ge ee ew cc cccccces 9, 12-14, 18, 22, 23 
+
+
+United States v. Bencs, 
+
+
+vi 
+
+
+United States v. DeLuna, 
+
+
+ee ee, gn 5 o he Saws O06 ah 15 
+United States v. Derr, 
+
+990 F.2d 1330 (D.C. = ee 16 
+United States v. Driscoll, 
+
+970 F.2d 1472 (6th Cir. 1992) ..............2.4.. 21 
+United States v. Hartmann, 
+
+tg FS ea ee 15 
+United States v. Jackson, 
+
+Pe ae PE BOE cc cc cedcvewecsceed 21 
+United States v. Kennedy, 
+
+890 F.2d 1056 (9th Cir. 1989), cert. denied, 
+
+Se EE cc ec tccéesecceevioess 15, 16 
+United States v. Oliver, 
+
+I, i wg ow elm ee 16 
+United States v. Oxman, 
+
+740 F.2d 1298 (ist Cir. 1984), vacated 
+
+on other grounds, 473 U.S. 922 (1985) ........... 14 
+United States v. Pedraza, 
+
+pe 5 15, 21 
+United States v. Phillip, 
+
+ee eer 16 
+United States v. Ramos, 
+
+Be Pe GED bce cc cecsecevces 15, 21 
+United States v. Ranney, 
+
+Va ae GEE Ce HN bcc ccc cccceccvege 15 
+United States v. Valenzuela-Bernal., 
+
+EE oc, bo no 6 6 6b 6 Swe 12, 18, 20 
+United States v. Zillges, 
+
+See eee ee ee Ge ME co ccc ccedceccebces 21 
+
+
+vii 
+Weatherford v. Bursey, 
+
+I 23 
+Statutes & Regulations 
+RE Oi e svi ci ben stecceecvs 2 
+ee was ile chl 2 
+Wash. Rev. Code § 9A.32.030(1)(a) ...........005- 3 
+Wash. Rev. Code § 9A.32.030(1)(c) ....... see eens 3 
+Wash. Rev. Code § 9A.32.040.............00 000) 3 
+Wash. Rev. Code § 10.95.020 .............00 000 3 
+Wash. Rev. Code § 10.95.0830 .............000055 3 
+
+
+OCTOBER TERM, 1994 
+
+
+TANA WOOD, Superintendent, 
+
+
+Petitioner, 
+Ve 
+DWAYNE EARL BARTHOLOMEW, 
+Respondent. 
+PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES 
+COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+Petitioner respectfully prays that a writ of certiorari issue 
+to review the judgment of the United States Court of Appeals for 
+the Ninth Circuit in this case. 
+
+I, OPINIONS BELOW 
+
+The opinion of the Court of Appeals is reported at 34 
+F.3d 870 (9th Cir. 1994) and appears at Appendix A. The 
+opinion of the Dicuict Court for the Western District of 
+Washington, which was not published, is at Appendix B. 
+
+
+2 
+Il. JURISDICTION 
+The judgmem of the Court of Appeals was entered on 
+September 6, 1994. Petitioner’s timely petition for rehearing 
+with suggestion for rehearing en banc was denied in an order 
+entered November 16, 1994. The jurisdiction of this Court is 
+invoked under 28 U.S.C. § 1254(1). 
+
+
+Ill. CONSTITUTIONAL AND STATUTORY 
+PROVISIONS 
+
+
+The Fourteenth Amendment to the United States 
+Constitution provides, in pertinent part: “. . . nor shall any 
+State deprive any person of life, liberty, or property, without due 
+process of law... .” 
+
+Title 28, Section 2254(a) of the United States Code 
+provides: 
+
+The Supreme Court, a Justice thereof, a circuit 
+
+judge, or a district court shall entertain an 
+
+application for a writ of habeas corpus on behalf 
+
+of a person in custody pursuant to the judgment 
+
+of a State court only on the ground that he is in 
+
+custody in violation of the Constitution or laws 
+
+or treaties of the United States. 
+
+IV. STATEMENT OF THE CASE 
+
+Dwayne Bartholomew was convicted by jury verdict in 
+Washington state court of aggravated first degree murder and 
+sentenced to life without parole. On August 1, 1981, 
+Bartholomew shot and killed a Tacoma laundromat attendant, 
+
+
+Paul Turner, in the course of a robbery. On August 5, 1981, 
+
+
+3 
+Rodney Bartholomew told the police that his brother, Dwayne 
+Bartholomew, had committed the crime. Following his arrest, 
+Dwayne Bartholomew admitted that he had robbed the 
+laundromat and that he had shot Turner. Although he had fired 
+two shots, he claimed the shooting was accidental. 
+
+Bartholomew was charged with aggravated first degree 
+murder. The sentence for this crime is either death or life 
+without the possibility of parole. Wash. Rev. Code § 10.95.030. 
+To prove aggravated murder, the prosecution had to show 
+(among other elements) that the murder was premeditated. 
+Wash. Rev. Code §§ 9A.32.030(1)(a), 10.95.020. If the 
+prosecution failed to show that the killing was premeditated, 
+Bartholomew could have been convicted only of felony murder. 
+Wash. Rev. Code § 9A.32.030(1)(c). The sentence for this 
+crime is life with the possibility of parole. Wash. Rev. Code § 
+9A.32.040. The proof at trial thus focused on whether the 
+killing was premeditated or accidental. 
+
+Before trial, the prosecution conducted polygraph 
+examinations of Rodney Bartholomew and his girlfriend, Tracy 
+Dormady, who had been with Rodney when Dwayne committed 
+the murder. Rodney was asked two relevant questions: (1) "Did 
+you in any way help Dwayne to rob the laundromat on August 
+1, 19817", and (2) "On August 1, 1981, at any time were you 
+and Dwayne inside the laundromat at the same time?" Rodney 
+
+
+4 
+
+
+answered in the negative to both questions. His answers were 
+consistent with his earlier statements to the police. The 
+polygrapher, however, concluded that Rodney’s reactions to the 
+questions indicated deception. 
+
+Ms. Dormady was also asked two relevant questions: (1) 
+"Did you in any way help Dwayne rob the laundromat on August 
+1, 19817", and (2) "Did you at any time on August 1, 1981, 
+hold Dwayne’s gun?" Ms. Dormady answered in the negative 
+to both questions, again consistently with her statements to the 
+police. The polygrapher concluded that her answers were 
+truthful. 
+
+The prosecution did not inform the defense of the 
+polygraphs before trial because the Washington Supreme Court 
+had held that polygraphs are inadmissible as evidence, and 
+because the prosecutor did not believe that polygraphs could 
+accurately determine whether a witness was lying. 
+
+At trial, Rodney Bartholomew testified that he and Tracy 
+Dormady went to the laundromat on the evening of August 1, 
+1981, to do their laundry. Dwayne Bartholomew was sitting in 
+his car in the parking lot when they arrived. While waiting for 
+the laundry, Rodney sat with Dwayne in his car. Dwayne told 
+Rodney that he intended to rob the laundromat and “leave no 
+witnesses." Rodney and Tracy left the laundromat shortly 
+thereafter. Soon after they arrived at Ms. Dormady’s house, 
+
+
+5 
+
+Dwayne Bartholomew arrived. Tracy asked him if he had killed 
+the attendant and Dwayne said “he had put two bullets in the 
+kid’s head." Tracy also testified that she had heard Dwayne say 
+he intended to leave no witnesses. Rodney and Tracy both 
+testified consistently with their statements to the police and their 
+answers to the polygraph questions. 
+
+Bartholomew’s counsel cross-examined both Rodney and 
+Tracy vigorously. In particular, counsel challenged their 
+
+The prosecution also put on evidence that the gun 
+Dwayne used could not be discharged accidentally. 
+Bartholomew’s pistol was a single-action revolver. To fire such 
+a gun, Bartholomew had to do two things: he needed to cock the 
+hammer, which required him to pull the hammer a full one and 
+7/16 inch from its stop back to the firing position; and he had to 
+pull the trigger. Bartholomew testified that, as to the first shot, 
+he had pulled the hammer back, but did not intend to pull the 
+trigger. However, Bartholomew fired two shots. This means 
+that, after shooting once, Bartholomew must have intentionally 
+pulled the hammer back, and again pulled the trigger. 
+Bartholomew thus took at least one purposeful shot at the victim. 
+
+Dwayne Bartholomew was the only defense witness. He 
+testified that he went to the laundromat intending to rob it. He 
+admitted he had threatened the victim with his gun and forced 
+
+
+6 
+him to lie on the floor. He testified that while he was removing 
+the money from the till, his gun accidentally fired, discharging 
+a bullet into the victim’s head. He claimed that as he fled with 
+$237 from the robbery, the gun accidentally fired a second time. 
+
+Dwayne denied telling Rodney and Tracy that he 
+intended to leave no witnesses. He also testified that Rodney 
+had assisted in the robbery. According to Dwayne, Rodney 
+waited outside the laundromat until it closed. He then persuaded 
+the attendant to unlock the doors on the pretense of having to use 
+the bathroom. This allowed Dwayne to follow Rodney into the 
+laundromat. After Rodney had left, Dwayne proceeded with the 
+robbery. 
+
+The jury found Bartholomew guilty of aggravated first 
+degree murder. After the guilt phase of the trial, the defense 
+discovered that the polygraphs existed, and moved for a new 
+trial. The trial court denied the motion because polygraphs were 
+inadmissible under Washington law. The Washington Supreme 
+Court affirmed the trial court’s decision regarding the 
+polygraphs. State v. Bartholomew, 98 Wash. 2d 173, 654 P.2d 
+1170 (1982), vacated and remanded on other grounds sub nom. 
+Washington v. Bartholomew, 463 U.S. 862 (1983). Dwayne 
+Bartholomew ultimately was sentenced to life without the 
+possibility of parole. 
+
+
+7 
+
+
+In habeas corpus proceedings in the District Court, 
+Bartholomew claimed, among other things, that the failure of the 
+prosecution to divulge the polygraph results before trial violated 
+Brady v. Maryland, 373 U.S. 83 (1963). In an evidentiary 
+hearing, Bartholomew’s trial attorney and Rodney Bartholomew 
+both testified. The trial attorney said that he was well aware that 
+Rodney may have been lying, and that disclosure of the 
+polygraph would not have changed his pretrial investigation, his 
+trial strategy, or his cross-examination of Rodney Bartholomew. 
+Upon examination by Bartholomew’s habeas counsel, Rodney 
+again affirmed that he had not helped Dwayne with the crime, 
+and that he had testified truthfully at trial. The entire transcript 
+of Rodney’s examination — totalling five pages — is attached as 
+Appendix C. Bartholomew’s habeas attorney did not develop 
+any evidence from his examination of Rodney, or from any other 
+source, that would support a conclusion that disclosure of the 
+polygraph would have led to new evidence or a better cross- 
+
+The District Court held that Bartholomew had not proved 
+either that disclosure of the polygraphs would have led to 
+evidence admissible at trial, or that he had been prejudiced by 
+
+The Court of Appeals reversed. It recognized that the 
+polygraphs were inadmissible as evidence under Washington law, 
+
+
+8 
+and that the polygraphs themselves were thus not Brady 
+evidence. The Court held, however, that nondisclosed 
+information could violate Brady, even if it were inadmissible, if 
+the information could have improved the “preparation or 
+presentation” of the defendant’s case: 
+
+
+Bartholomew's ability to prepare and present his 
+
+
+34 F.3d at 875. 
+Although Bartholomew had presented no evidence 
+whatever that the polygraph would have led to adiaissible 
+evidence, or that his defense would have been improved in any 
+way, the Court speculated that the polygraph result "would 
+likely” have strengthened the cross-examination of Rodney and 
+
+
+9 
+
+Tracy. 34 F.3d at 874. The Court said that trial counsel 
+“likely” would have taken Rodney's deposition. Had there been 
+a deposition, the Court said that trial counsel “might” have 
+succeeded in obtaining an admission from Rodney that he was 
+lying, or “likely” would have obtained information useful to a 
+cross-examination. 34 F.3d at 875-76. The Court did not, 
+however, identify one piece of admissible evidence that the 
+defense could have used in cross examination, because 
+Bartholomew did not prove such evidence existed. 
+
+V. REASONS FOR GRANTING THE WRIT 
+
+This Court should grant the writ to clarify whether the 
+due process clause, as applied in Brady v. Maryland, 373 U.S. 
+83 (1963), requires prosecutors to disclose information that 
+neither is admissible in evidence nor leads to admissible 
+evidence. Brady and its progeny discuss whether evidence is 
+“materia! either to guilt or punishment," and indicate that the 
+obligation to disclose is limited to admissible evidence. Brady, 
+373 U.S. at 87. However, this Court later suggested in United 
+States v. Bagley, 473 U.S. 667, 683 (1985), that evidence is 
+“material” if the “preparation or presentation” of the defense 
+would have been different had the evidence been disclosed. In 
+reliance on this language in Bagley, the Ninth Circuit expanded 
+Brady to require disclosure of all information — whether 
+
+
+10 
+admissible or not — that may affect the “preparation or 
+presentation” of the defense. 
+
+Because this Court has never conclusively established 
+whether Brady's obligation to disclose is limited to admissible 
+evidence, the Courts of Appeals are uncertain about the 
+application of Brady. Some Circuits hold that the suppressed 
+information itself must be admissible evidence. Other Circuits 
+hold that the suppressed information, if not itself admissible, 
+must lead to admissible evidence. And in this case, the Ninth 
+Circuit found a Brady violation even though no admissible 
+evidence was identified. 
+
+Review is also appropriate because the Ninth Circuit 
+speculated on whether the polygraph information could have 
+changed the course of trial. Speculation regarding prejudice is 
+contrary to the burden of proof for both Brady claims and habeas 
+relief. Finally, the Ninth Circuit's decision effectively imposes 
+a constitutional discovery rule on prosecutors who, to avoid 
+reversal on appeal, will need to disclose all information they 
+receive regarding a criminal case. This Court has expressly held 
+that Brady does not create a constitutional discovery rule. This 
+Court should grant review to clarify its previous decisions 
+regarding Brady, to reaffirm the defendant's burden of proof, 
+
+
+11 
+and to provide a single, comprehensive standard for the courts 
+to apply. The decision of the Ninth Circuit should be reversed’. 
+
+
+The Ninth Cireuit’s Decision Conficts with 
+Brady, which Holds 
+Seerinadion Dees Net Vielate Due Process 
+Unless 
+
+
+> 
+
+
+373 U.S. at 87 (emphases added). In Brady's state court appeal, 
+the Maryland court ruled that the suppressed evidence was 
+admissible only for purposes of Brady's sentence, not his guilt. 
+As this Court explained in United States v. Agurs, 427 U.S. 97, 
+105-106 (1976), Brady held that the evidence was not material 
+
+
+precisely because it was inadmissible with regard to guilt: 
+
+
+' ‘This Court is also considering the application of Brady in Kyles v. 
+Whitley, No. 93-7927. Alhough both Kyles and this case involve the 
+“materiality” standard of Brady, this case addresses a separate ambiguity in 
+Brady. Kyles addresses how severe an effect on the defense must be to be 
+*material;” this case addresses what information must be disclosed. 
+
+
+12 
+
+
+the outcome on the issue of guilt but could have 
+affected Brady’s punishment. It was material on 
+the latter issue but not the former. 
+
+
+(Emphases added; footnote omitted.) 
+
+This Court’s other decisions regarding Brady claims all 
+involve evidence that is admissible either on direct examination 
+or on cross-examination. Mooney v. Holohan, 294 U.S. 103, 
+112 (1935), Pyle v. Kansas, 317 U.S. 213, 216 (1942), and 
+Napue v. Illinois, 360 U.S. 264, 269 (1959), which preceded 
+Brady, each involved the prosecution’s knowing use of perjured 
+testimony. The cases following Brady similarly discuss the due 
+process implications of the suppression of evidence. See Giglio 
+v. United States, 405 U.S. 150 (1972); Moore v. Illinois, 408 
+U.S. 786 (1972); United States v. Agurs, 427 U.S. 97, 105-106 
+(1976); United States v. Valenzuela-Bernal, 458 U.S. 858 
+(1982); California v. Trombetta, 467 U.S. 479 (1984); United 
+States v. Bagley, 473 U.S. 667, 674 (1985); Pennsylvania v. 
+Ritchie, 480 U.S. 39 (1987); Arizona v. Youngblood, 488 U.S. 
+51 (1988); and Kyles v. Whitley, No. 93-7927. 
+
+Although Brady and its progeny refer solely to 
+admissible evidence, the Ninth Circuit held that withholding the 
+inadmissible polygraph violated Brady because it may have had 
+an effect on the "preparation or presentation” of Bartholomew’s 
+defense. 34 F.3d at 875. The Court of Appeals cited United 
+States v. Bagley, supra, as its authority. In discussing whether 
+
+
+13 
+suppressed evidence is “material,” the plurality opinion in Bagley 
+stated that a reviewing court may consider “any adverse effect 
+that the prosecutor's failure to respond might have had on the 
+preparation or presentation of the defendant’s case." 473 U.S. 
+at 683. 
+
+The Ninth Circuit took this language out of context. 
+Bagley does not hold that suppression of inadmissible 
+information can violate due process. To the contrary, Bagley 
+emphasized that its holding involved suppression of evidence, an 
+element entirely missing from Bartholomew's case: 
+
+
+473 U.S. at 675 emphasis added; footnote deleted). Further, in 
+its sole statement on the issue here presented, this Court said that 
+Brady is pot violated merely because information may have an 
+effect on the preparation or presentation of the defense: 
+
+
+United States v. Agurs, 427 U.S. at 112 n. 20. The Ninth 
+Circuit’s decision thus takes Bagley out of context, and conflicts 
+both with Agurs and the holding of Brady itself that suppressed 
+information is not material unless it is admissible evidence’. 
+This Court should grant certiorari to clarify that the duty to 
+disclose under Brady is limited to admissible evidence. 
+
+
+B. Certiorari Is Necessary to Guide the Courts of 
+to Information tat Ie Rot Admissible i 
+Evidence. 
+
+The Courts of Appeals apply Brady in widely different 
+ways. The First, Third, Fifth, Seventh, Tenth, and Eleventh 
+Circuits follow the express language of Brady, and require 
+disclosure only of information that itself is admissible in 
+
+
+evidence. United States v. Oxman, 740 F.2d 1298, 1311 (ist 
+
+
+? ‘This Court has also held that duc process is not necessarily violated 
+
+
+even when evidence is withheld. In California v. Trombetta, 467 U.S. 479, 
+488-89 (1984), the prosecution destroyed arguably exculpatory evidence. 
+Citing Agurs, the Court held that due process does not require the State to 
+preserve all evidence. The state must preserve evidence only when it possesses 
+an exculpatory value that is apparent before # was destroyed, and is of such a 
+nature thet the defendant would be unable to obtain comparable evidence by 
+other reasonably available means. 467 U.S. at 488-489. If the prosecutor in 
+Bartholomew had destroyed rather than suppressed the poly graph, Bartholomew 
+would not be entitled to relief under this test. 
+
+
+15 
+
+
+Cir. 1984) (“In order to be material, evidence suppressed must 
+have been admissible at trial"), vacated on other grounds, 473 
+U.S. 922 (1985); United States v. Ranney, 719 F.2d 1183, 1190 
+(ist Cir. 1983) (“Inadmissible evidence is by definition not 
+material, because it never would have reached the jury and 
+therefore could not have affected the trial outcome"). Other 
+cases that reach the same result are United States v. Ramos, 27 
+F.3d 65, 71 (3rd Cir. 1994); Blackmon v. Scott, 22 F.3d 560, 
+564 (Sth Cir. 1994); United States v. Hartmann, 958 F.2d 774, 
+790 (7th Cir. 1992); United States v. Pedraza, 27 F.3d 1515, 
+1527 (10th Cir. 1994); Nelson v. Nagle, 995 F.2d 1549, 1555 
+(11th Cir. 1993); and United States v. DeLuna, 10 F.3d 1529, 
+1534 (11th Cir. 1994). 
+
+Other Circuits hold that Brady is violated when the 
+suppressed information is not admissible but would lead to 
+admissible evidence. Before its decision in Bartholomew v. 
+Wood, the Ninth Circuit consistently had held that “To be 
+material under Brady, undisclosed information or evidence 
+acquired through that information must be admissible.” United 
+States v. Kennedy, 890 F.2d 1056, 1059 (9th Cir. 1989), cert. 
+
+
+16 
+
+denied, 494 U.S. 1008 (1990). See also United States v. Arias 
+Villanueva, 998 F.2d 1491, 1506 (9th Cir. 1993) (no Brady 
+violation where the undisclosed information is "blatant hearsay 
+that would have been inadmissible at trial"); United States v. 
+Phillip, 948 F.2d 241, 250 (6th Cir. 1991) (videotape was not 
+Brady material because it was inadmissible hearsay and would 
+not lead to admissible evidence); United States v. Oliver, 908 
+F.2d 260, 262 (8th Cir. 1990) (information requested must lead 
+to the admission of “otherwise undiscoverable” evidence); United 
+States v. Derr, 990 F.2d 1330, 1335 (D.C. Cir. 1993) (no Brady 
+claim because the “evidence” was inadmissible hearsay and 
+would not have led to admissible evidence). 
+
+None but the Ninth Circuit, however, have held that 
+information violates Brady when it neither is admissible nor will 
+lead to admissible evidence. Besides Brady itself, one Circuit's 
+decision directly conflicts with the Ninth Circuit’s he’ding. In 
+United States v. Bencs, 28 F.3d 555 (6th Cir. 1994), Bencs 
+
+
+3 In Bartholomew, the Ninth Circuit cites Kennedy but ignores its 
+limitation to admissible evidence. 34 F.3d at 875. Thus, until the Ninth 
+Circuit's decision in Bartholomew, state and federal prosecutors were under no 
+constitutional obligation to disclose clearly inadmissible information, such as 
+polygraph results. Under Teague v. Lane, 489 U.S. 288, 301 (1989), a habeas 
+corpus case cannot announce a “new rule” of criminal procedure unless the 
+new rule falls within one of two narrow exceptions. Id. at 310-313. The new 
+rule announced in Bartholomew is particularly egregious, because the 
+prosecutor testified that he did not disclose the polygraph because it was not 
+admissible in evidence, and the Washington Supreme Court affirmed the 
+conviction for the same reason. This is exactly the detriment that Teague 
+prohibits. 
+
+
+17 
+claimed that his trial preparation was hindered because Brady 
+evidence had been disclosed during trial. Relying on United 
+States v. Agurs, supra, which held that suppression of 
+information does not violate Brady if its only effect is on trial 
+preparation, the court held that Bencs had not stated a valid 
+claim. 28 F.3d at 561. 
+
+
+Brady is effective precisely because it is limited to 
+admissible “evidence” that is “favorable” to the defense. 
+Because its criteria are objective, Brady provides a reliable, 
+predictable standard for prosecutors and the courts to determine 
+whether certain information must be disclosed to the defense. 
+The Ninth Circuit has abandoned Brady’s objective standard and, 
+as the next sections will show, its decision both encourages 
+speculation on harm to the defense, and imposes a constitutional 
+discovery rule on prosecutors. This Court should grant 
+certiorari to resolve the confusion among the Circuit Courts, and 
+
+
+reaffirm Brady as a workable, objective standard. 
+
+
+18 
+
+
+¢. This Court Should Grant Certiorari Because 
+the Ninth Circuit’s Decision Reduces the 
+Defendant’s Burden of Proof to Mere 
+
+
+Speculation. 
+
+The Ninth Circuit’s extension of Brady to information 
+that may affect the preparation or presentation of the defense 
+reduces the defendant’s burden of proving harm to a mere 
+speculation. This result is shown in the Bartholomew decision 
+itself, where the Court patently speculated as to the possibility 
+that Bartholomew could have improved the preparation or 
+presentation of his defense. 
+
+On review of Brady claims, the defendant bears the 
+burden of establishing that the withheld information contains 
+"material evidence.” Pennsylvania v. Ritchie, 480 U.S. 39, 58 
+n. 15; United States v. Valenzuela-Bernal, 458 U.S. 858, 867 
+(1982). Evidence is "material" only if a reasonable probability 
+exists that, had it been disclosed, the result of the trial would 
+have been different. United States v. Bagley, supra*. A 
+
+“possibility” of a different result is insufficient: “The mere 
+possibility that an item of undisclosed information might have 
+helped the defense . . . does not establish "materiality" in the 
+
+
+* Again, this Court's pending decision in Kyles v. Whitley, No. 93-7927, 
+will address the petitioner's burden of proving the materiality of suppressed 
+evidence. 
+
+
+19 
+
+constitutional sense." United States v. Agurs, 427 U.S. at 109- 
+110; quoted by Pennsylvania v. Ritchie, 480 U.S. at 58 n. 15°. 
+Bartholomew claimed that his counsel, armed with the 
+polygraph result, could have taken Rodney’s deposition and that 
+the deposition may have uncovered evidence that could have led 
+to a better cross-examination. At the evidentiary hearing, 
+however, Bartholomew’s counsel was armed with the polygraph 
+result, and questioned Rodney about it. Despite his knowledge 
+of the polygraph, the entire transcript of Rodney Bartholomew’s 
+testimony spans only five pages. Appendix C. Bartholomew’s 
+counsel failed to develop one additional piece of evidence 
+favorable to the defense. He failed even to identify one 
+additional question that could have been helpful on cross- 
+examination. To the contrary, Rodney testified, once again, that 
+
+his trial testimony had been truthful®. 
+Despite the lack of any evidence of prejudice, the Court 
+of Appeals nonetheless concluded that Bartholomew had shown 
+that the suppressed polygraph had an adverse effect on the 
+
+
+. Similarly, habeas relief may not be granted if there is merely a 
+“reasonable possibility” that trial error contributed to the verdict. Brecht v. 
+Abrahamson, U.S. __, __, 113 S. Ct. 1710, 1721, 123 L. Ed. 2d 353 
+(1993). In O'Neal v. McAninch, No. 93-7407, this Court will decide whether 
+& habeas petitioner bears the burden of proving that a trial error prejudiced the 
+
+
+. Again, Bartholomew's trial attorney testified that he was aware that 
+Rodney may have been lying, and that the polygraph would not have changed 
+his cross-examination of Rodney Bartholomew. 
+
+
+20 
+“preparation or presentation” of the defense. The Court then 
+concluded that this possibility created a "reasonable probability" 
+that the result of the trial would have been different. The Ninth 
+Circuit’s decision was entirely speculative and must be 
+reversed’. 
+
+In United States v. Valenzuela-Bernal, 458 U.S. 858 
+(1982), the Court expressly rejected a similar attempt by the 
+Ninth Circuit to speculate as to the effect a prosecutor’s decision 
+had on the defense. 458 U.S. at 862-863, and n. 4. The 
+prosecutor had deported a witness to a crime. The defense 
+claimed that the witness might have provided exculpatory 
+testimony, but did not prove what the witness would have said 
+if he had been called. Despite this lack of proof, the Ninth 
+Circuit held that deporting the witness violated due process 
+because the witness had a "conceivable benefit" to the defense. 
+This Court held that the Ninth Circuit’s test was far too 
+speculative, because it eliminated the defendant’s burden of 
+
+
+7 When Brady is limited to evidence that is admissible at trial, the courts 
+need not speculate about the harm to the defense. If the petitioner identifies 
+withheld evidence, the reviewing court may gauge whether the new evidence 
+creates a “reasonable probability” that the jury would have reached a different 
+verdict, by weighing the new evidence against the evidence at trial. By 
+comparison, when withheld information — such as the polygraph in this case - 
+- is not admissible, the court cannot directly gauge the effect the information 
+may have had on the trial. Although the suppression may have affected the 
+preparation and presentation of the defense, the defendant cannot show an 
+effect on the result of trial unless he or she also proves that some new evidence 
+could have been presented to the jury. Thus, the Ninth Circuit's decision 
+
+
+inevitably encourages speculation. 
+
+
+21 
+proving harm. The Ninth Circuit’s decision in Bartholomew 
+commits the same error, using different language. 
+
+The other Circuit Courts of Appeals, unlike the Ninth 
+Circuit, refuse to grant relief on speculation. United States v. 
+Ramos, 27 F.3d 65, 71 (3rd Cir. 1994), thought it “unwise to 
+infer the existence of Brady material on speculation alone." The 
+Sixth and Seventh Circuits also hold that "A due process 
+standard which is satisfied by mere speculation would convert 
+Brady into a discovery device and impose an undue burden on 
+the district court." United States v. Driscoll, 970 F.2d 1472, 
+1482 (6th Cir. 1992); United States v. Jackson, 780 F.2d 1305, 
+1313 (7th Cir. 1986). In United States v. Pedraza, 27 F.3d 
+1515, 1527 (10th Cir. 1994), the Court rejected the defendants’ 
+Brady claims because they provided no evidence to support their 
+assertion that withheld tapes would have furthered their 
+defense’. 
+
+
+. A petitioner that claims ineffective assistance of counsel also must prove 
+that there was a “reasonable probability” that the deficient performance 
+prejudiced the defense. Strickland v. Washington, 466 U.S. 668, 687 (1984); 
+Cuyler v. Sullivan, 466 U.S. 335, 350 (1980). To show prejudice, speculation 
+is not enough. A petitioner must prove specific instances in which counsel's 
+failures affected his trial. Scarpa v. Dubois, 38 F.3d 1, 11-16 (ist Cir. 1994); 
+United States v. Zillges, 978 F.2d 369, 373 (7th Cir. 1992); Alexander v. 
+McCotter, T75 F.2d 595, 602 (Sth Cir. 1985); Cuevas v. Henderson, 801 F.2d 
+586 (2nd Cir. 1986), cert. denied, 480 U.S. 908 (1987); United States v. 
+Asubonteng , 895 F.2d 424, 429 (7th Cir. 1990), cert. denied, sub nom. Rivers 
+v. United States, 494 U.S. 1089 (1990). 
+
+
+22 
+
+
+Bartholomew introduced no proof whatever that the 
+failure to disclose the polygraph affected his trial. The Ninth 
+Circuit’s ruling effectively eliminates the burden of proving 
+prejudice from the defendant, contrary to the decisions of this 
+Court and all other Circuits. The Court should grant the petition 
+for certiorari to establish the proper standard for review of Brady 
+claims. 
+
+
+D. The Ninth Circuit’s Decision Effectively 
+Imposes a Constitutional Discovery Rule on 
+Prosecutors. 
+
+
+United States v. Bagley, supra, emphasized that not 
+every suppression of information causes such a miscarriage of 
+justice: "a rule that the prosecutor commits error by any failure 
+to disclose evidence favorable to the accused, no matter how 
+insignificant, would impose an impossible burden on the 
+prosecutor and would undermine the finality of judgments.” 473 
+U.S. at 675 n. 7. Similarly, Arizona v. Youngblood, 488 U.S. 
+51 (1988) reviewed “what might loosely be called the area of 
+constitutionally guaranteed access to evidence” and emphasized 
+that the Court had consistently "rejected the notion that a 
+‘prosecutor has a constitutional duty routinely to deliver his 
+entire file to defense counsel.’"” Jd. at 55. See also United 
+States v. Agurs, 427 U.S. at 106, 111. As these cases show, 
+Brady did not create a constitutional discovery rule. 
+
+
+Leticaiien ee oo ey 
+
+
+23 
+
+The Ninth Circuit’s decision in Bartholomew, however, 
+effectively requires the prosecution to disclose all information in 
+its possession to the defense. If the test is whether the withheld 
+information had an effect on the preparation or presentation of 
+the defense, the prosecution can gauge its obligation to disclose 
+only if it fully understands the defense case. Under the 
+adversary system of justice, however, the prosecution’s ability 
+to discover the defense case is limited — and an overly intrusive 
+attempt to do so can itself violate due process. Weatherford v. 
+Bursey, 429 U.S. 545, 559 (1977). Even if the prosecutor 
+investigates the possible defense strategies, Bartholomew invites 
+reviewing courts to second-guess the prosecutors, and speculate 
+whether the nondisclosed information would have affected the 
+defense in some fashion. To avoid reversal, therefore, the 
+prosecution will effectively be required to release all information 
+to the defense. This is directly contrary to the command of this 
+Court in United States v. Bagley, supra, and Pennsylvania v. 
+Ritchie, 480 U.S. at 59. This Court should grant certiorari to 
+reaffirm that Brady does not impose a constitutional discovery 
+rule. 
+
+VI. CONCLUSION 
+
+The Ninth Circuit’s decision in Bartholomew conflicts 
+with Brady, and carries Brady’s obligation to disclose farther 
+than all other circuits. Its decision will lead directly to 
+
+
+24 
+speculation regarding harm to the defense, and will create a 
+constitutional discovery rule. Both results are directly contrary 
+to commands from this Court. The Court should grant certiorari 
+to review, and reverse, the decision of the Ninth Circuit. 
+RESPECTFULLY SUBMITTED 
+
+
+CHRISTINE O. GREGOIRE 
+Attorney General 
+
+
+THORNTON WILSON 
+Assistant Attorney General 
+Counsel of Record 
+
+
+A-l 
+APPENDIX A 
+
+
+FOR PUBLICATION 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+No. 93-35549 
+D.C. No. CV 91-5102-RJB 
+
+
+OPINION 
+DWAYNE EARL BARTHOLOMEW, 
+
+
+Petitioner-Appellant, 
+
+
+Vv. 
+
+
+TANA WOOD, Superintendent of the 
+Washington State Penitentiary, 
+
+
+Respondent-Appellee. 
+Appeal from the United States District Court 
+for the Western District of Washington 
+Robert J. Bryan, District Judge, Presiding 
+
+
+Argued and Submitted 
+April 8, 1994—Seattle, Washington 
+
+
+Filed September 6, 1994 
+
+
+Before: Eugene A. Wright, Thomas Tang, and 
+Stephen Reinhardt, Circuit Judges. 
+
+
+Opinion by Judge Reinhardt 
+
+
+A-2 
+
+
+SUMMARY 
+
+
+Criminal Law and Procedure/Due Process 
+
+The court of appeals reversed a district court order 
+denying a petition for writ of habeas corpus, remanding with 
+instructions. The court held that prosecutors violated due 
+process by failing to disclose in advance of trial that a witness 
+who gave crucial testimony on a key issue had previously taken, 
+and failed, a polygraph test. 
+
+Appellant Dwayne Bartholomew robbed a laundromat. 
+During the course of the robbery, he shot and killed the 
+attendant. A critical issue at trial in state (Washington) court 
+was whether the killing was premeditated. The crucial witnesses 
+against Bartholomew were his brother, Rodney Bartholomew, 
+and Rodney’s girlfriend, Tracy Dormady. Rodney and Tracy 
+testified that Dwayne had told them he intended to rob the 
+laundromat and leave no witnesses. Dwayne’s defense was that 
+Rodney had been involved in the robbery and that Rodney and 
+Tracy were lying to protect themselves. 
+
+Dwayne was convicted and sentenced to death. Later, 
+he discovered that Rodney had taken a polygraph test and had 
+given what appeared to be untruthful answers to questions 
+regarding whether he had helped Dwayne rob the laundromat 
+
+
+So Re a a ee lh ee hee OE Le Oe 
+
+
+A-3 
+and whether he and Dwayne had been together inside the 
+laundromat on the night of the robbery. During trial the 
+prosecution had failed to disclose the testing; the prosecution 
+later conceded that tests had been administered and that the state 
+had suppressed the results. 
+
+Following U.S. Supreme Court review, The Washington 
+Supreme Court remanded for retrial of the penalty phase under 
+a narrowed construction of the death penalty statute. The 
+defense offered the results of Rodney’s polygraph test and also 
+challenged other items of evidence. This time, the jury returned 
+a verdict of life imprisonment without parole, the more lenient 
+of the two sentences it could impose. 
+
+Dwayne Bartholomew petitioned to the district court for 
+habeas relief, contending that the state violated due process by 
+failing to disclose the test results prior to trial of the guilt phase 
+and that he received ineffective representation of counsel. The 
+district court denied his petition, holding that he failed to show 
+prejudicial errors by his attorney and failed to show that 
+disclosure of the test results to his attorney would have had a 
+reasonable likelihood of affecting the verdict. 
+
+[1] In a case such as this, a defendant need show only 
+that there is a reasonable likelihood that the degree of conviction 
+would have been lower, not necessarily that he would have been 
+exonerated, if the material had been disclosed. 
+
+
+A4 
+
+[2] The results of the test were favorable to 
+Bartholomew’s defense; they bore directly on the credibility of 
+the most significant witnesses, and [3] they supported his theory 
+of the case. 
+
+[4] The state argued that the test results would not have 
+been material if they had been admissible, since there was other 
+evidence tending to show premeditation. This contention is not 
+persuasive, since the results might have served to impeach Tracy 
+Dormady’s testimony. [5] Further, Rodney and Tracy’s 
+testimony was the only direct evidence of premeditation 
+presented by the prosecution at the guilt phase. Failure to 
+disclose material which could impeach, or lead to the 
+impeaching, of that testimony necessarily undermines confidence 
+in the outcome of the trial. 
+
+[6] Even if the polygraph results were not admissible, 
+they were material. Failure to disclose the results clearly 
+impaired Bartholomew’s ability to prepare and present his case. 
+[7] Had his attorney known of the test results, he would have 
+had a stronger reason to pursue investigation of Rodney’s story. 
+[8] A vigorous examination of Rodney in a pretrial deposition 
+would likely have uncovered a variety of conflicting statements 
+which could have been used quite effectively in cross- 
+
+
+examination at trial. 
+
+
+A-5 
+[9] Because the prosecution’s disclosure failure 
+undermines confidence in the verdict, due process was denied, 
+and reversal is warranted. 
+
+
+COUNSEL 
+Timothy K. Ford, MacDonald, Hoague & Bayless, Seattle, 
+Washington, for the petitioner-appellant. 
+
+
+Thornton Wilson, Assistant Attorney General, Olympia, 
+Washington, for the respondent-appellee. 
+
+
+OPINION 
+REINHARDT, Circuit Judge: 
+
+Dwayne Bartholomew, a Washington State prisoner, was 
+convicted of aggravated first degree murder. Although he was 
+originally sentenced to death, the Washington Supreme Court 
+reversed his sentence, and after a sentencing retrial he received 
+a sentence of life without possibility of parole. Upon exhausting 
+his remedies in the state courts, he brought this habeas corpus 
+petition, which the district court denied. On appeal, 
+Bartholomew claims that the state violated due process by failing 
+to disclose that its crucial witness on the issue of premeditation 
+had failed a polygraph test. He contends that, if the prosecution 
+had disclosed the information, he would likely have been 
+
+
+A-6 
+convicted of simple rather than aggravated first-degree murder. 
+Had Bartholomew been convicted of the lesser murder charge, 
+he would, at an elderly age, become eligible for parole. Instead, 
+because of the degree of his conviction, he is ineligible for 
+release from prison at any time during his lifetime. 
+
+Because the state has admitted that it did not disclose the 
+adverse results of the polygraph test administered to its key 
+witness, and because that failure undermines confidence in 
+Bartholomew’s conviction of the aggravated offense, we reverse 
+and order the district court to issue a writ directing the state 
+either to grant Bartholomew a new trial on the question of 
+premeditation or to reduce the degree of the conviction to simple 
+first degree murder. 
+
+I, 
+
+On August 1, 1981, Dwayne Bartholomew robbed a 
+Tacoma laundromat. During the course of the robbery, he fired 
+two shots with a .22 caliber pistol. One bullet struck and killed 
+the attendant, while the other was found lodged in a counter near 
+the body. Bartholomew confessed to committing the robbery and 
+to firing the fatal shot. He has never challenged the 
+voluntariness or validity of this confession. At trial and on this 
+appeal of the denial of his habeas petition, Bartholomew's claims 
+have revolved around a single, narrow issue: whether he had the 
+requisite mens rea to be convicted of aggravated first degree 
+
+
+A-7 
+murder under Washington law (which requires premeditation), 
+or whether he could only have been convicted of simple first 
+degree murder (for which a felony-murder theory is sufficient).' 
+Bartholomew asserts that he did not have the premeditated intent 
+to kill the laundromat attendant. 
+
+The crucial witnesses against Dwayne Bartholomew were 
+Dwayne’s brother Rodney and Rodney’s girlfriend, Tracy 
+Dormady (who was pregnant with Rodney’s child at the time 
+Dwayne committed the crime). Rodney and Tracy’s testimony 
+provided the only direct evidence that Dwayne had the 
+premeditated intent to kill: they testified that he had told them he 
+intended to rob the laundromat and leave no witnesses. Dwayne 
+Bartholomew’s defense centered on the assertion that Rodney had 
+been involved in the robbery and that Rodney and Tracy were 
+lying, out of self-interest, about the part of their testimony upon 
+which the state relied to establish Dwayne’s premeditation. 
+
+After the trial at which he was convicted and sentenced 
+to death, Dwayne discovered that, at the request of the 
+prosecution, Rodney and Tracy had submitted to polygraph 
+examinations. The results of Tracy’s test were inconclusive, but 
+Rodney’s suggested that he was untruthful when he gave negative 
+
+
+‘Under Washington law, aggravated first degree murder is punished by 
+death or by life imprisonment without possibility of parole. First degree 
+murder is punished by life imprisonment with the possibility of parole. 
+
+
+A-8 
+
+answers to the two relevant questions: whether he in any way 
+helped Dwayne to rob the laundromat, and whether he and 
+Dwayne had at any point been inside the establishment at the 
+same time on the night of the robbery. Although the state’s 
+attorney has asserted throughout the entire course of these 
+proceedings that the prosecution maintained an open-file 
+discovery policy, the existence of these examinations, and their 
+results, had not been disclosed to the defense. Indeed, the 
+prosecution initially denied that any tests took place.’ However, 
+it eventually conceded that the tests had indeed been administered 
+and that the state had suppressed the results. 
+
+Dwayne Bartholomew moved for a new trial, in part on 
+the basis of the newly-discovered polygraph results, but the trial 
+court denied the motion. On appeal, the Washington Supreme 
+Court affirmed Bartholomew’s conviction. See State v. 
+Bartholomew (Bartholomew I), 654 P.2d 1170 (Wash. 1982). It 
+rejected his claim that the state violated due process by failing to 
+disclose Rodney’s polygraph results. Although the court 
+affirmed Bartholomew’s conviction of aggravated first-degree 
+
+
+2When Dwayne Bartholomew's new counsel first moved for a new trial, 
+the prosecutor stated: 
+
+
+I can give an answer right now. There weren't any 
+polygraphs and there wasn't any deal; so, so much for that. 
+
+
+(Trail Tr. 620). 
+
+
+A-9 
+
+murder, it reversed his death sentence because it held that the 
+Washington death penalty statute was unconstitutional as applied. 
+It adopted a narrowing construction of the statute and remanded 
+for a retrial of the penalty phase under the narrowed 
+construction. The state sought review of this decision in the 
+U.S. Supreme Court, which vacated the Washington Supreme 
+Court’s decision and remanded for reconsideration in light of 
+Zant v. Stephens, 462 U.S. 862 (1983). See Washington v. 
+Bartholomew, 463 U.S. 1203 (1983). On remand, the 
+Washington Supreme Court adhered to its earlier decision and 
+remanded for a penalty retrial. See State v. Bartholomew 
+(Bartholomew II), 683 P.2d 1079 (Wash. 1984). The 
+Washington Supreme Court held that the polygraph results would 
+be admissible on remand. See id. at 1088-89. 
+
+After the decision in Bartholomew II, the county 
+prosecutor determined that the evidence did not support a 
+sentence of death under the narrowing construction adopted by 
+the state Supreme Court. The prosecution and defense filed a 
+joint motion for a sentence of life imprisonment without parole. 
+Because the trail judge doubted that the prosecutor could decline 
+to seek the death penalty at so late a stage of the proceedings, he 
+appointed special counsel to argue that the state lacked discretion 
+to do so. After hearing argument from both parties and the 
+special counsel, the trail court denied the joint motion and 
+
+
+A-10 
+
+ordered that a new sentencing hearing take place. The 
+prosecution and defense appealed. In a six-to-three decision, the 
+Washington Supreme Court held that "(t]he prosecution has no 
+right, statutory or constitutional, to usurp the jury’s functions to 
+determine mitigation in this case, and make the decision whether 
+the defendant should live or die." State v. Bartholomew 
+(Bartholomew III), 710 P.2d 196, 200 (Wash. 1985) (emphasis 
+in original). Thus, the court remanded “with instructions that 
+the prosecutor present this case to a sentencing jury for trial of 
+the penalty phase of this case." Id. 
+| The penalty retrial occurred in the fall of 1986. The 
+
+defense offered the results of Rodney Bartholomew’s polygraph 
+test. It also challenged several other items of evidence that had 
+been introduced at the original penalty trial. The jury returned 
+a verdict of life imprisonment without parole, the more lenient 
+of the two sentences it was free to impose. 
+
+After exhausting his state remedies, Bartholomew filed 
+this federal habeas petition in the District Court for the Western 
+District of Washington in 1991. Among other claims, the 
+petitioner alleged that the state had violated due process by 
+failing to disclose the polygraph results to the defense prior to 
+trial of the guilt phase and that Bartholomew’s trail counsel had 
+been ineffective because he failed to discover that the polygraph 
+tests had been conducted and he failed to undertake a sufficient 
+
+
+A-11 
+investigation of the operation of the gun used in the robbery. 
+After an evidentiary hearing, the district court denied the 
+petition. It held that Bartholomew had failed to show that any 
+errors on the part of his attorney prejudiced his defense. It also 
+held that he had failed "to show that disclosure of the results of 
+the polygraph to defense counsel would have had a reasonable 
+likelihood of affecting the verdict.” The district court granted a 
+certificate of probable cause, and Bartholomew filed this appeal. 
+
+I. 
+
+Bartholomew contends that the state violated the Due 
+Process Clause when it failed to disclose that Rodney 
+Bartholomew had failed the lie detector test. See Brady v. 
+Maryland, 373 U.S. 83 (1963). The state concedes that it failed 
+to disclose the test or its results, and there is little doubt that the 
+results of the test were favorable to Dwayne Bartholomew. 
+However, the state argues that the polygraph results were not 
+material to the question of the degree of Bartholomew’s guilt 
+because polygraph results are generally inadmissible under 
+Washington law, and because Rodney and Tracy’s testimony was 
+not the only evidence tending to show premeditation. We reject 
+these arguments. Having reviewed the state court record, we 
+conclude that there was a reasonable probability that 
+Bartholomew would have been convicted of simple instead of 
+
+
+A-12 
+aggravated first degree murder if the polygraph results had been 
+disclosed.’ 
+
+[1] In Brady, the Supreme Court held that "the 
+suppression by the prosecution of evidence favorable to an 
+accused upon request violates due process where the evidence is 
+material either to guilt or to punishment, irrespective of the good 
+faith or bad faith of the prosecution." Jd. at 87. By its terms, 
+Brady’s holding was limited to cases in which the defendant 
+made a request for the suppressed evidence. However, the 
+Supreme Court made clear in United States v. Agurs, 427 U.S. 
+97 (1976), that the failure to disclose material and favorable 
+evidence will violate due process even when the defendant makes 
+no request for the material. Subsequently, in United States v. 
+Bagley, 473 U.S. 667 (1985), the Court explained the meaning 
+of the term "material." “[E]vidence is material,” the Court said, 
+“only if there is a reasonable probability that, had the evidence 
+been disclosed to the defense, the result of the proceeding would 
+have been different. A ’reasonable probability’ is a probability 
+sufficient to undermine confidence in the outcome." Jd. at 682 
+(plurality opinion); accord id. at 685 (White, J., concurring). 
+As Bagley makes clear, a defendant need only demonstrate a 
+reasonable probability that "the result of the proceeding would 
+
+
+*Because we conclude that the writ must issue on the basis of the Brady 
+violation, we need not reach Bartholomew's other claims. 
+
+
+A-13 
+
+have been different." To satisfy this standard, a defendant will 
+not always have to show a reasonable probability that he would 
+have been exonerated if the material had been disclosed. In a 
+case such as the present one, it is sufficient to establish a 
+reasonable likelihood that the degree of conviction would have 
+been lower. Cf Hill v. Lockhart, 474 U.S. 52, 59 
+(1985)(holding, in context of ineffective assistance challenge to 
+a guilty plea, that a defendant need only show “a reasonable 
+probability that, but for counsel’s errors, he would not have 
+pleaded guilty and would have insisted on going to trial"). 
+
+[2] There is little doubt that the results of Rodney 
+Bartholomew’s polygraph test were favorable to the defense of 
+Dwayne Bartholomew. If they were admissible, the information 
+would clearly have been of substantial import. In United States 
+v. Brumel-Alvarez, 991 F.2d 1452 (9th Cir. 1993), we explained 
+that "Brady information includes ’material . . . that bears on the 
+credibility of a significant witness in the case.’ Jd. at 1461 
+(quoting United States v. Strifler, 851 F.2d 1197, 1201 (9th Cir. 
+1988), cert. denied, 489 U.S. 1032 (1989))(ellipsis in Brumel- 
+Alvarez). The polygraph results bore directly on the credibility 
+of the most significant witnesses in the case, Rodney 
+Bartholomew and Tracy Dormady. Rodney and Tracy provided 
+the only direct evidence of premeditation — they stated that 
+Dwayne announced that he intended to leave no witnesses to the 
+
+
+A-14 
+robbery. Any facts that would provide a basis to impeach this 
+statement were clearly favorable to Dwayne’s defense. 
+
+[3] Moreover, the polygraph results directly supported 
+Dwayne’s theory of the case: he claimed that Rodney had 
+participated in the crime and was lying to protect himself, and 
+that Tracy was lying to protect Rodney, the father of her child. 
+Dwayne’s attorney vigorously argued this theory to the jury, but 
+he had no support for it other than Dwayne’s obviously self- 
+serving statement. Had Dwayne been able to introduce evidence 
+of the polygraph tests, or even to use the results as a basis for 
+further investigation, his attack on Rodney and Tracy’s 
+credibility would likely have been demonstrably stronger. 
+
+[4] The state argues, however, that the polygraph results 
+would not have been material even if they had been admissible, 
+because Rodney’s testimony was not the only evidence tending 
+to show premeditation. We find this contention unpersuasive. 
+The state first notes that at trial it offered the testimony of Tracy 
+Dormady and of Stanley Bell, both of whom related statements 
+of Dwayne’s that indicated that he had intentionally shot the 
+attendant. However, as explained above, the polygraph results 
+would have served to impeach Tracy’s testimony just as they 
+would have Rodney’s — if he had a motive to lie to protect 
+himself, she had a motive to lie to protect him as well. As to 
+Bell, he testified only at the penalty phase; his testimony could 
+
+
+A-15 
+not have influenced the finding regarding premeditation made by 
+the jury at the guilt phase, and that is the only finding regarding 
+premeditation that occurred in this case. 
+
+[5] The state also notes that it introduced evidence 
+regarding the single-action design of the gun. At trial, the state 
+argued that two volitional acts were necessary to cock and fire 
+the gun. However, Dwayne’s attorney presented a plausible 
+theory that the gun went off accidentally. As a result, the 
+significance of the gun design evidence was disputed. In any 
+event, that evidence was not so persuasive that we can say that 
+Rodney and Tracy’s testimony was unimportant to the jury’s 
+decision. Their testimony constituted the only direct evidence of 
+premeditation presented by the state at the guilt phase of the 
+trial. The failure to disclose material which would have 
+impeached Rodney and Tracy’s credibility (or which would 
+likely have led to evidence impeaching their credibility) 
+necessarily undermines confidence in the outcome of the trial, 
+even if circumstantial inferences from the design of the murder 
+weapon would have been sufficient to support the verdict. The 
+test is not whether there is sufficient other evidence to support 
+a verdict, but whether we can be confident that the jury would 
+have returned the same verdict had the Brady violation not 
+occurred. See Lindsey v. King, 769 F.2d 1034, 1042-43 (Sth 
+Cir. 1985)(holding that the failure to disclose evidence 
+
+
+A-16 
+
+impeaching one of the two eyewitnesses caused sufficient 
+prejudice to undermine confidence in the outcome, even though 
+the other witness’s testimony supported the verdict by itself). 
+
+[6] The district court appears to have assumed that the 
+polygraph results would have been material if they had been 
+admissible.‘ The judge appears to have rested his denial of 
+Bartholomew’s petition on the state’s argument that the 
+polygraph results were not admissible under Washington law, 
+and thus that they did not satisfy Brady’s materiality 
+requirement.’ As the district court noted, the Washington state 
+courts have held that polygraph results are generally inadmissible 
+
+
+even for impeachment purposes absent a stipulation of the 
+parties. See, e.g., State v. Ellison, 676 P.2d 531, 535 (Wash. 
+
+
+“In a very similar case, the Third Circuit held that the failure to disclose 
+the oral reports of a polygraph examiner created a reasonable likelihood that 
+the outcome of the proceeding would have been different, where these reports 
+cast doubt on the credibility of a key prosecution witness. See Carter v. 
+Rafferty, 826 F.2d 1299, 1309 (3d Cir. 1987), cert. denied, 484 U.S. 1011 
+(1988). 
+
+
+“The district court stated: 
+
+
+The petitioner also presents persuasive argument and 
+evidence that the prosecutor should have advised defense 
+counsel of the results of the witnesses’ polygraph tests. 
+Petitioner fails, however, to show that evidence was 
+withheld. The information withheld only possibly could 
+have led to some admissible evidence. He fails to show 
+that disclosure of the results of the polygraph to defense 
+counsel would have had a reasonable likelihood of affecting 
+the verdict. 
+
+
+(emphasis in original). 
+
+
+A-17 
+
+Ct. App.), review denied, 101 Wash.2d 1010 (1984). We need 
+not, however, determine whether Dwayne Bartholomew could 
+have introduced the polygraph results, for we conclude that the 
+non-disclosed polygraph test satisfied Brady’s materiality 
+requirement whether or not it was admissible. In United States 
+v. Kennedy, 890 F.2d 1056 (9th Cir. 1989), cert. denied, 494 
+U.S. 1008 (1990), we stated that "[t]o be material under Brady, 
+undisclosed information or evidence acquired through that 
+information must be admissible." Id. at 1059 (emphasis added). 
+The Kennedy court noted that "in determining the materiality of 
+undisclosed information, a reviewing court may consider ‘any 
+adverse effect that the prosecutor’s failure to respond might have 
+had on the preparation or presentation of the defendant’s case.’" 
+Id. (quoting Bagley, 473 U.S. at 683)(emphasis added). The 
+failure to disclose the polygraph results clearly impaired Dwayne 
+Bartholomew’s ability to prepare and present his case. Under all 
+of the circumstances, that impairment was sufficient to 
+undermine confidence in the outcome. 
+
+[7] Dwayne Bartholomew’s trial attorney conducted a 
+minimal investigation of Rodney’s credibility, doubtless because 
+there appeared to be no evidence to corroborate Dwayne’s 
+account of Rodney’s participation in the crime. Had counsel 
+known of the polygraph results, he would have had a stronger 
+reason to pursue an investigation of Rodney’s story. He likely 
+
+
+A-18 
+would have attempted to interview Rodney and Tracy before 
+trial. He likely would have taken Rodney’s deposition and 
+probably Tracy’s, as he was entitled to do under the state 
+criminal rules. See Wash. Super. Ct. Crim. R. 4.6(a); Habeas 
+Tr. 67. 
+
+[8] At a deposition, Dwayne’s counsel could have asked 
+Rodney about the polygraph results and might well have 
+succeeded in obtaining an admission that he was lying about his 
+participation in the crime and about his brother’s actions on the 
+night in question. Such an acknowledgment would have been 
+admissible to impeach Rodney if Rodney gave inconsistent 
+testimony at trial. Even if counsel did not succeed in provoking 
+so damaging a response, any thorough questioning at the time of 
+deposition would likely have elicited a variety of less crucial 
+statements inconsistent with Rodney’s trial testimony. Indeed, 
+after the trial was over and Dwayne discovered the polygraph 
+test, Rodney related at least two contradictory accounts regarding 
+the number of times he sat for the polygraph examination. 
+Immediately after the first trial, Rodney told one of Dwayne’s 
+attorneys that "[hje was told there was a problem with the results 
+on two questions and asked to come back for additional 
+examination. Rodney indicated that he did not return for any 
+additional examination." Tufts Affidavit at 1. In the district 
+court, however, Rodney stated that he did come back for a 
+
+
+A-19 
+second test, and that he was under the influence of drugs at the 
+time of the first test. See Habeas Tr. 86. These inconsistencies 
+demonstrat* ‘hat a vigorous examination of Rodney Bartholomew 
+in a pretrial deposition would likely have uncovered a variety of 
+conflicting statements which could have been used quite 
+effectively in cross-examination at trial. In a close case such as 
+this, the Brady violation could well have made the difference. 
+| ml. 
+
+[9] Given the closeness of the issue of premeditation, the 
+likelihood that disclosure of the polygraph results would have led 
+to other admissible evidence undermining Rodney Bartholomew's 
+and Tracy Dormady’s credibility creates a reasonable probability 
+that the jury would have convicted Dwayne Bartholomew of 
+simple rather than aggravated first degree murder had the state 
+disclosed those results. Because the prosecution’s failure to 
+disclose that information undermines confidence in the verdict, 
+we conclude that the state violated the Due Process Clause. 
+Accordingly, we reverse. The district court is instructed to 
+issue an alternative writ ordering the state to afford Bartholomew 
+a new trial on the issue of premeditation within a reasonable 
+
+
+“Because we have concluded that the polygraph results were “material” — 
+that is, that their suppression caused prejudice to the defense — it necessarily 
+follows that the prosecution's failure to disclose this information *"had 
+substantial and injurious effect or influence in determining the jury's verdict.’” 
+Brecht v. Abrahamson, 113 S. Ct. 1710, 1722 (1993)(quoting Kotteakos v. 
+United States, 328 U.S. 750, 776 (1946)). 
+
+
+A-20 
+period of time or to reduce his degree of conviction to simple 
+first degree murder. 
+REVERSED. 
+
+
+B-1 
+[FILED] 
+[April 12, 1993] 
+APPENDIX B 
+
+
+UNITED STATES DISTRICT COURT 
+WESTERN DISTRICT OF WASHINGTON 
+AT TACOMA 
+
+
+CASE NO. C91-5102B 
+
+
+FINDINGS OF FACT AND ORDER DENYING 
+PETITION FOR WRIT OF HABEAS CORPUS 
+
+
+DWAYNE EARL BARTHOLOMEW, 
+Petitioner, 
+v. 
+
+
+JAMES BLODGETT, 
+Respondent. 
+
+
+Petitioner Dwayne Earl Bartholomew was convicted of 
+aggravated first degree murder and sentenced to death. On 
+Appeal, Mr. Bartholomew’s sentence was reduced to life without 
+parole. State v. Bartholomew, 98 Wash. 2d 173 (1982). He 
+now petitions this court for a writ of habeas corpus alleging that 
+his constitutional rights were violated in the state courts. 
+
+The court has considered the records and files herein and 
+has read the transcript of Mr. Bartholomew’s trial and 
+sentencing. The court conducted an evidentiary hearing and 
+
+
+B-2 
+heard the argument of counsel, and has considered post-hearing 
+memoranda. The court is fully advised. 
+PROCEDURAL BACKGROUND 
+
+In his original petition, Mr. Bartholomew presented 17 
+issues. Thirteen of those issues claim, in different ways, that 
+Mr. Bartholomew did not receive the reasonably effective 
+assistance of counsel. Therefore, Petitioner claims a violation of 
+the Sixth Amendment to the United States Constitution. Two of 
+Mr. Bartholomew’s claims allege that he was denied due process 
+of law under the Fifth Amendment, because (1) the prosecutor 
+failed to inform the defense of results of polygraphs taken by 
+prosecution witnesses, and (2) the prosecutor should not have 
+used the testimony of those witnesses without disclosure of the 
+results of the polygraphs. The polygraph tests indicated some 
+deception on the part of a key prosecution witness. 
+
+Other issues raised by Mr. Bartholomew in his Petition 
+for Writ of Habeas Corpus were abandoned before hearing. 
+
+BASIC LAW 
+
+In a habeas corpus proceedings, the federal courts can 
+intervene in the state judicial process only to correct errors of 
+constitutional magnitude. See generally, Engle v. Isaac, 457 
+U.S. 1141 (1983). The petitioner has the following burden of 
+
+
+proof: 
+
+
+B-3 
+
+
+To be cognizable under section 2254, an error 
+must be "a fundamental defect which inherentiy 
+
+
+results in a complete miscarriage of justice,’ and 
+it must present "exceptional circumstances where 
+
+
+the need for the remedy afforded by the writ of 
+habeas corpus is apparent. 
+
+
+Carlson v. Hong, 707 F.2d 367, 368 (9th Cir. 1983)(citations 
+omitted). 
+
+INEFFECTIVE ASSISTANCE OF COUNSEL 
+
+The Sixth Amendment standard for effective assistance 
+of counsel at trial has been established on numerous occasions by 
+the U.S. Supreme Court. Generally, a defendant’s right has 
+been violated when "counsel’s unprofessional errors so upset the 
+adversarial balance between defense and prosecution that the trial 
+was rendered unfair and the verdict rendered suspect." 
+Kimmelman v. Morrison, 477 U.S. 365, 374 (1986). A two 
+prong test tests a claim of ineffective assistance of counsel: 
+
+
+First, the defendant must show that 
+counsel’s performance- was deficient. This 
+requires showing that counsel made errors so 
+serious that counsel was not functioning as 
+“counsel” as guaranteed the defendant by the 
+Sixth Amendment. Second, the defendant must 
+show that the deficient performance prejudiced 
+the defense. This requires showing that 
+counsel’s errors were so serious as to deprive 
+the defendant of a fair trial, whose result is 
+unreliable. 
+
+
+Strickland v. Washington, 466 U.S. 668, 687 (1984). Counsel’s 
+performance must be evaluated on the record as it existed at the 
+
+
+B-4 
+time of the performance, so that judicial scrutiny is not distorted 
+by effects of hindsight. Id, at 689. 
+
+Petitioner presents convincing evidence and arguments 
+that his attorney fell below the standards of criminal defense 
+attorneys in like situations, particularly in the preparation for 
+trial and sentencing. Petitioner fails, however, in his attempt to 
+show that this attorney’s performance prejudiced him, denied 
+him a fair trial, or upset the adversarial balance. The result of 
+the trial is reliab'e. 
+
+FAILURE TO INFORM DEFENSE; USE OF WITNESSES 
+
+“The proper role of the criminal prosecutor is not simply 
+to obtain a conviction, but to obtain a fair conviction." Brady v. 
+Maryland, 373 U.S. 83, 87 (1963)(emphasis in original). 
+Generally, a failure to disclose exculpatory material “requires 
+three findings: (1) that evidence was suppressed; (2) that this 
+evidence was favorable to the accused; and (3) that the evidence 
+was material either to guilt or punishment." Smith v. Black, 904 
+F.2d 950 (Sth Cir. 1990)(citations omitted). 
+
+
+The prejudice to a defendant’s right to a fair 
+trial is even more palpable when the prosecutor 
+has not only withheld exculpatory evidence, but 
+has knowingly introduced and argued false 
+evidence. ... [A] prosecutor’s presentation of 
+tainted evidence is viewed seriously and its 
+effects are exceedingly carefully scrutinized. A 
+new trial is required ’if there is any reasonable 
+likelihood that the false [evidence] could have 
+affected the judgment of the jury.’ 
+
+
+B-5 
+Brown v. Borg, 951 F.2d 1011, 1015 (9th Cir. 1991)(citations 
+evidence that the prosecutor should have advised defense counsel 
+of the results of the witnesses’ polygraph tests. Petitioner fails, 
+however, to show that evidence was withheld. The information 
+
+
+evidence. He fails to show that disclosure of the results of the 
+polygraph to defense counsel would have had a reasonable 
+likelihood of affecting the verdict. 
+CONCLUSION 
+
+Petitioner fails to show that the results of his proceedings 
+were effected by these lapses. The most that is shown is that it 
+is possible that the results would have been different, had 
+defense counsel done more, or had the prosecutor timely advised 
+defense counsel of the polygraph results. Such speculation 
+cannot be the basis of a finding of "a fundamental defect which 
+inherently results in a complete miscarriage of justice." The 
+petition must be denied. 
+
+Now, therefore, it is hereby 
+
+ORDERED that Dwayne Earl Bartholomew’s Petition 
+for Writ of Habeas Corpus is DENIED. 
+
+
+B+ 
+The Clerk of the Court is instructed to send uncertified 
+copies of this Order to all counsel of record and to any party 
+appearing pro se at said party’s last known address 
+DATED this 12th day of April, 1993. 
+
+
+ls/ 
+Robert J. Bryan 
+United States District Judge 
+
+
+[Filed] 
+(January 13, 1993] 
+
+
+APPENDIX C 
+From Transcript of Trial (on Evidentiary Hearing) before the 
+Honorable Robert J. Bryan, United States District Judge, Docket 
+
+
+No. C91-5102B, December 22, 1992, 1:51 p.m., beginning on 
+page 84, reported by Julaine V. Ryen. 
+
+
+RODNEY BARTHOLOMEW, PLAINTIFF’S WITNESS, 
+SWORN OR AFFIRMED. 
+
+
+DIRECT EXAMINATION 
+
+
+BY MR. FORD: 
+Q. Would you state your name and spell it for the court 
+
+
+reporter, please. 
+
+A. Rodney Leroy Bartholomew. 
+
+Q. And are you related to Dwayne Bartholomew? 
+
+A. Yes. Brother. 
+
+Q. You were present on the night in July 1981 — I think it 
+
+
+was August Ist, 1981 — when Paul Edward Turner was killed, 
+isn’t that right? 
+
+A. I was at the laundromat, yes. 
+
+Q. And you saw Dwayne that night, is that right? 
+
+A. Yes. In a parking lot. 
+
+Q. And you and Dwayne had committed robberies together 
+prior to that occasion, had you not? 
+
+A. When I was living at my dad’s and I was about 15. 
+
+
+C-2 
+Q. And Dwayne talked to you about the robbery prior to the 
+commission of it, isn’t that right? 
+A. Yes. 
+Q. And you testified at trial about his discussions with you 
+in the car prior to the robbery, isn’t that right? 
+A. Yes. 
+Q. Prior to testifying in the trial, you were given a 
+
+
+polygraph examination? 
+
+A. Several. 
+
+Q. And were you told what the results of those polygraph 
+examinations were? 
+
+A. No, sir. 
+
+Q. Do you remember who it was that gave you the 
+polygraph examination? 
+
+A. No, sir. 
+
+
+Q. Did he tell you that when you answered that you had not 
+assisted Dwayne with the robbery that the polygraph indicated 
+that you were not telling the truth? 
+A. No, sir; not to my knowledge. 
+
+THE COURT: Pull that mike down a little bit, 
+would you, Mr. Bartholomew. 
+
+Thank you. 
+
+Q. (By Mr. Ford) Do you remember him asking you 
+whether you had helped Dwayne in the robbery? 
+
+
+C-3 
+A. I don’t remember the questioning, sir. 
+Q. Did you know that when he asked you whether or not 
+you and Dwayne had been in the laundromat together and you 
+said you had not been in the laundromat with Dwayne that the 
+polygraph indicated you were not telling the truth? 
+A. No, sir. This is twelve years ago. I tried to put a lot of 
+this stuff behind me. It was pretty tenseful back then. 
+Q. Do you remember being asked by the polygraph 
+examiner to return and have another test done after the one that 
+you were first given? 
+Yes, Ido. There is a reason for it, sir. 
+And did you go back? 
+Yes, sir. 
+You went back for a second polygraph examination? 
+Yes, sir. 
+And when was that, do you recall? 
+No, I don’t, sir. I was under the influence of drugs, is 
+
+
+> O>O > O > 
+
+
+why he wanted to recast me again. 
+
+Q. And you told him that at the time? 
+
+A. Yes, I did. He asked me if I had taken any drugs or 
+drank the last 24 hours. I said, yes, I have. 
+
+Q. And did he administer the test to you that day? 
+
+A. Yes, he did it anyway. Then he rescheduled another 
+one, to my knowledge. 
+
+
+C4 
+Q. And then you came back a second time, is your 
+recollection? 
+A. Yes, sir. 
+Q. And it was the same tester? 
+A. I believe so. To my knowledge. 
+Q. And then at the end of that test, did he tell you what the 
+results were? 
+A. No, sir. I don’t recall anybody telling me what the 
+results were. 
+Q. And did he ask you at the end of that second test to 
+come back another time? 
+A. Sir, I don’t remember exactly. 
+Q. Did you ever consult a lawyer with regard to the 
+possibility that you could be charged in this homicide? 
+A. No reason to, sir. 
+Q. So when the police officers were questioning you, they 
+did not tell you that you had failed a polygraph examination? 
+A. Nobody ever told me I failed a polygraph. 
+
+
+Q. To this day? 
+
+A. To this day. 
+
+Q Did you ever speak with Dwayne’s lawyer prior to the 
+trial? 
+
+A. Never. 
+
+Q. Did you ever see him prior to the trial? 
+
+
+C-5 
+
+
+A. No, not that I can remember. It’s twelve years ago. 
+Q. But you know you never talk to him before the trial? 
+
+
+A. As far as I know, I did not, sir. 
+
+
+MR. FORD: That’s all the questions I have. 
+
+
+Thank you. 
+CROSS-EXAMINATION 
+BY MR. WEISSER: 
+Q. Mr. Bartholomew, do you remember testifying at your 
+brother’s trial in 1981? 
+A. Yes, I do. 
+Q. And at that time, do you recall being sworn to tell the 
+truth, the whole truth, and nothing but the truth, or words to that 
+
+
+effect? 
+
+A. Yes, sir. 
+
+Q. Did you lie under oath on that day? 
+
+A. No, I did not, sir. 
+
+Q. Did you tell the truth at your brother’s trial? 
+A. Yes, sir. 
+
+
+MR. WEISSER: Thank you. 
+
+THE COURT: Anything further? 
+
+MR. FORD: Nothing further, Your Honor. 
+THE COURT: Thank you, Mr. Bartholomew. 
+
+
+You may be excused. 
+THE WITNESS: Thank you, sir. 
+
+

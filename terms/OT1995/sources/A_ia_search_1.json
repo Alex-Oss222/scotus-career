@@ -1,0 +1,25 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 61,
+    "params": {
+      "query": "collection:us-supreme-court AND (text:&quot;95-6016&quot; OR text:&quot;95-6016&quot; OR text__reviews:&quot;95-6016&quot;)",
+      "qin": "collection:us-supreme-court AND &quot;95-6016&quot;",
+      "fields": "identifier,title,date",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 1,
+    "start": 0,
+    "docs": [
+      {
+        "date": "1995-01-01T00:00:00Z",
+        "identifier": "micro_IA40385013_0784",
+        "title": "Tuggle v. Netherland, 516 U.S. 10 (1995) (No. 95-6016)"
+      }
+    ]
+  }
+}

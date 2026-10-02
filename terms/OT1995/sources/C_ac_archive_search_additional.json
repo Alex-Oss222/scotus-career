@@ -1,0 +1,241 @@
+[
+  {
+    "query": "collection:us-supreme-court AND \"7810\"",
+    "url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+%227810%22&output=json&rows=100&fl%5B%5D=identifier&fl%5B%5D=title",
+    "result": {
+      "responseHeader": {
+        "status": 0,
+        "QTime": 121,
+        "params": {
+          "query": "collection:us-supreme-court AND (text:7810 OR text:7810 OR text__reviews:7810)",
+          "qin": "collection:us-supreme-court AND &quot;7810&quot;",
+          "fields": "identifier,title",
+          "wt": "json",
+          "rows": 100,
+          "start": 0
+        }
+      },
+      "response": {
+        "numFound": 2,
+        "start": 0,
+        "docs": [
+          {
+            "identifier": "micro_IA40386004_0255",
+            "title": "Cole v. Ralph, 252 U.S. 286 (1920) (Nos. 172, 173)"
+          },
+          {
+            "identifier": "micro_IA40386011_2241",
+            "title": "In re McDonald, 508 U.S. 905 (1993) (No. 92-1551)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "query": "collection:us-supreme-court AND \"St. P.\"",
+    "url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+%22St.+P.%22&output=json&rows=100&fl%5B%5D=identifier&fl%5B%5D=title",
+    "result": {
+      "responseHeader": {
+        "status": 0,
+        "QTime": 46,
+        "params": {
+          "query": "collection:us-supreme-court AND (text:&quot;St. P.&quot; OR text:&quot;St. P.&quot; OR text__reviews:&quot;St. P.&quot;)",
+          "qin": "collection:us-supreme-court AND &quot;St. P.&quot;",
+          "fields": "identifier,title",
+          "wt": "json",
+          "rows": 100,
+          "start": 0
+        }
+      },
+      "response": {
+        "numFound": 22,
+        "start": 0,
+        "docs": [
+          {
+            "identifier": "micro_IA40386007_0432",
+            "title": "Chicago, St. P., M. & OR Co. v. Holmberg, 282 U.S. 162 (1930) (No. 1)"
+          },
+          {
+            "identifier": "micro_IA40386008_0209",
+            "title": "Minneapolis, St. P. & S. Ste. MR Co. v. Borum, 286 U.S. 447 (1932) (No. 585)"
+          },
+          {
+            "identifier": "micro_IA40386002_0534",
+            "title": "Minneapolis, St. P. & S. Ste. MR Co. v. Popplar, 237 U.S. 369 (1915) (No. 223)"
+          },
+          {
+            "identifier": "micro_IA40386001_0592",
+            "title": "Chicago, St. P., M. & OR Co. v. Latta, 226 U.S. 519 (1913) (No. 231)"
+          },
+          {
+            "identifier": "micro_IA40386006_0441",
+            "title": "Turner Lumber Co. v. C., M. & ST. P. RY., 271 U.S. 259 (1926) (No. 271)"
+          },
+          {
+            "identifier": "micro_IA40386009_0184",
+            "title": "United States v. Chicago, M., St. P. & PR Co., 294 U.S. 499 (1935) (No. 379)"
+          },
+          {
+            "identifier": "micro_IA40386409_0001",
+            "title": "CHICAGO, M., ST. P. & PR CO. v. Illinois, 355 U.S. 300 (1958) (No. 12)"
+          },
+          {
+            "identifier": "micro_IA40386004_0383",
+            "title": "Minneapolis, St. P. & S. Ste. MR Co. v. Washburn Lignite Coal Co., 254 U.S. 370 (1920) (No. 55)"
+          },
+          {
+            "identifier": "micro_IA40386001_0091",
+            "title": "Chicago, St. P., M. & OR Co. v. United States, 217 U.S. 180 (1910) (No. 133)"
+          },
+          {
+            "identifier": "micro_IA40386004_0384",
+            "title": "Minneapolis, St. P. & S. Ste. MR Co. v. CL Merrick Co., 254 U.S. 376 (1920) (No. 15)"
+          },
+          {
+            "identifier": "micro_IA40386006_0481",
+            "title": "Turner Lumber Co. v. C., M. & ST. P. RY., 271 U.S. 259 (1926) (No. 271)"
+          },
+          {
+            "identifier": "micro_IA40386403_0140",
+            "title": "Group of Institutional Investors v. Chicago, M., St. P. & P.R. Co., and 9 Other Cases, 318 U.S. 523 (1943) (No. 11-19,32)"
+          },
+          {
+            "identifier": "micro_IA40386020_0340",
+            "title": "Minneapolis, St. P. & S. Ste. MR Co. v. Doughty, 208 U.S. 251 (1908) (No. 81)"
+          },
+          {
+            "identifier": "micro_IA40386008_0043",
+            "title": "Minneapolis, St. P. & S. Ste. MR Co. v. Moquin, 283 U.S. 520 (1931) (No. 543)"
+          },
+          {
+            "identifier": "micro_IA40386007_0248",
+            "title": "Minneapolis, St. P. & S. Ste. MR Co. v. Rock, 279 U.S. 410 (1929) (No. 454)"
+          },
+          {
+            "identifier": "micro_IA40386004_0298",
+            "title": "Chicago, M. & St. P. Ry. Co. v. McCaull Co, 253 U.S. 97 (1920) (No. 628)"
+          },
+          {
+            "identifier": "micro_IA40386008_0113",
+            "title": "Henkel v. Chicago, St. P., M. & OR Co., 284 U.S. 444 (1932) (No. 387)"
+          },
+          {
+            "identifier": "micro_IA40386009_0186",
+            "title": "Swinson v. Chicago, St. P., M. & OR Co., 294 U.S. 529 (1935) (No. 383)"
+          },
+          {
+            "identifier": "micro_IA40386007_0473",
+            "title": "Fullerton Lumber Co. v. Chicago, M., St. P. & PR Co., 282 U.S. 520 (1931) (No. 47)"
+          },
+          {
+            "identifier": "micro_IA40386019_0398",
+            "title": "Bankers Casualty Co. v. MINN. ST. P. & C. RY., 192 U.S. 371 (1904) (No. 141)"
+          },
+          {
+            "identifier": "micro_IA40386006_0362",
+            "title": "Minneapolis, St. P. & S. Ste. MR Co. v. Goneau, 269 U.S. 406 (1926) (No. 76)"
+          },
+          {
+            "identifier": "micro_IA40386006_0070",
+            "title": "Michaelson v. United States Ex Rel. Chicago, St. P., M. & OR Co., 266 U.S. 42 (1924) (Nos. 246, 232)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "query": "collection:us-supreme-court AND \"A.C.\"",
+    "url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+%22A.C.%22&output=json&rows=100&fl%5B%5D=identifier&fl%5B%5D=title",
+    "result": {
+      "responseHeader": {
+        "status": 0,
+        "QTime": 32,
+        "params": {
+          "query": "collection:us-supreme-court AND (text:A.C. OR text:A.C. OR text__reviews:A.C.)",
+          "qin": "collection:us-supreme-court AND &quot;A.C.&quot;",
+          "fields": "identifier,title",
+          "wt": "json",
+          "rows": 100,
+          "start": 0
+        }
+      },
+      "response": {
+        "numFound": 0,
+        "start": 0,
+        "docs": []
+      }
+    }
+  },
+  {
+    "query": "collection:us-supreme-court AND \"B. C.\"",
+    "url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+%22B.+C.%22&output=json&rows=100&fl%5B%5D=identifier&fl%5B%5D=title",
+    "result": {
+      "responseHeader": {
+        "status": 0,
+        "QTime": 48,
+        "params": {
+          "query": "collection:us-supreme-court AND (text:&quot;B. C.&quot; OR text:&quot;B. C.&quot; OR text__reviews:&quot;B. C.&quot;)",
+          "qin": "collection:us-supreme-court AND &quot;B. C.&quot;",
+          "fields": "identifier,title",
+          "wt": "json",
+          "rows": 100,
+          "start": 0
+        }
+      },
+      "response": {
+        "numFound": 12,
+        "start": 0,
+        "docs": [
+          {
+            "identifier": "micro_IA40385018_1341",
+            "title": "P. B. C. v. D. H., 475 U.S. 1058 (1986) (No. 85-1183)"
+          },
+          {
+            "identifier": "micro_IA40385603_0092",
+            "title": "Local Union No. 542-A, -B, -C, International Union of Operating Engineers v. National Labor Relations Board, 385 U.S. 1004 (1967) (No. 731)"
+          },
+          {
+            "identifier": "per_scotus_1869_269",
+            "title": "The Steamboat Belfast, B. C. Nelson And A. F. Hartel, Claimants, Plaintiffs in Error, vs. Boon & Company, J. H. & S. B. Steers, and John Watson & Co. 1869: Vol 269"
+          },
+          {
+            "identifier": "micro_IA40386410_0225",
+            "title": "Corey v. United States, 375 U.S. 169 (1963) (No. 31)"
+          },
+          {
+            "identifier": "micro_IA40386014_1641",
+            "title": "B. C. Rogers Processors, Inc. v. BOC Group, Inc., 532 U.S. 920 (2001) (No. 00-1122)"
+          },
+          {
+            "identifier": "micro_IA40386019_0503",
+            "title": "Matter of Christensen Engineering Co., 194 U.S. 458 (1904) (No. 15)"
+          },
+          {
+            "identifier": "per_scotus_1831_43",
+            "title": "Daniel F. Strother, Plaintiff in Error, versus John B. C. Lucas. 1831: Vol 43"
+          },
+          {
+            "identifier": "per_scotus_1859_173",
+            "title": "Emma B. C. Thompson and William G. W. White, Plaintiffs in Error, vs. Richard Roe, ex dem. Jane Carroll and al. 1859: Vol 173"
+          },
+          {
+            "identifier": "micro_IA40385017_1394",
+            "title": "B. C. Rogers Processors, Inc. v. BOC Group, Inc., 524 U.S. 947 (1998) (No. 97-1777)"
+          },
+          {
+            "identifier": "micro_IA40386015_1312",
+            "title": "Olson v. Hillside Community Church, S. B. C., 538 U.S. 1034 (2003) (No. 02-1373)"
+          },
+          {
+            "identifier": "micro_IA40386005_1064",
+            "title": "Webb v. B. C. Rogers Poultry, Inc., 528 U.S. 964 (1999) (No. 99-309)"
+          },
+          {
+            "identifier": "micro_IA40386019_0893",
+            "title": "B. C. v. Louisiana, 510 U.S. 963 (1993) (No. 92-1862)"
+          }
+        ]
+      }
+    }
+  }
+]

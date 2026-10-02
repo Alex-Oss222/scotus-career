@@ -1,0 +1,780 @@
+Lem Davis TUGGLE, Petitioner-Appellee, v. C.E. THOMPSON, Warden, Respondent-Appellant.
+No. 94-4005.
+United States Court of Appeals, Fourth Circuit.
+Argued Feb. 2, 1995.
+Decided June 29, 1995.
+*1358
+ARGUED: Donald Richard Curry, Sr. Asst. Atty. Gen., Office of Atty. Gen., Richmond, VA, for appellant. Timothy Michael Kaine, Mezzullo & McCandlish, Richmond, VA, for appellee. ON BRIEF: James S. Gilmore, III, Atty. Gen. of Virginia, Richard B. Smith, Asst. Atty. Gen., Office of Atty. Gen., Richmond, VA, for appellant. Helen L. Konrad, Mezzullo
+&
+McCandlish, Richmond, VA; Barry A. Weinstein, Donald R. Lee, Jr., Virginia Capital Representation Resource Center, Richmond, VA, for appellee.
+Before WIDENER and HAMILTON, Circuit Judges, and CHAPMAN, Senior Circuit Judge.
+Reversed and remanded with instructions by published opinion. Senior Judge CHAPMAN wrote the opinion, in which Judge WIDENER and Judge HAMILTON joined.
+OPINION
+CHAPMAN, Senior Circuit Judge:
+This is an appeal by the warden of the Mecklenburg Correctional Center from a judgment of the United States District Court for the Western District of Virginia which granted a writ of habeas corpus to Lem Davis Tuggle (Tuggle), who was convicted of capital murder committed during or subsequent to the rape of Mrs. Jessie Geneva Havens and was given a death sentence. The murder and rape occurred on or about May 28, 1983.
+The verdict and sentence resulted from a jury trial which concluded on March 21,1984. Tuggle’s conviction and sentence were affirmed by the Supreme Court of Virginia on November 30, 1984.
+Tuggle v. Virginia,
+228 Va. 493
+,
+323 S.E.2d 539
+(1984)
+(Tuggle I).
+A writ of certiorari was filed with the Supreme
+*1359
+Court of the United States. On May 13, 1985, the court, in a summary disposition, held “[M]otion of petitioner for leave to proceed
+informa pauperis
+and certiorari granted. Judgment vacated and case remanded for further consideration in light of
+Ake v. Oklahoma,
+470 U.S. 68
+[
+105 S.Ct. 1087
+,
+84 L.Ed.2d 53
+] (1985).”
+Tuggle v. Virginia,
+471 U.S. 1096
+,
+105 S.Ct. 2315
+,
+85 L.Ed.2d 835
+(1985).
+Upon remand, the parties briefed and argued to the Supreme Court of Virginia the issue of Ake’s impact on Tuggle’s conviction and sentence. In
+Tuggle v. Virginia,
+230 Va. 99
+,
+334 S.E.2d 838
+(1985)
+(Tuggle II),
+the court held that the trial court had erred under
+Ake
+in failing to provide Tuggle with an independent psychiatrist to assist him at the penalty-stage of the trial, and as a result, the jury’s finding of “future dangerousness” could not stand; however, the court concluded that the jury’s separate finding of “vileness” was sufficient and independently supported Tuggle’s death sentence under Virginia law and under
+Zant v. Stephens,
+462 U.S. 862
+,
+103 S.Ct. 2733
+,
+77 L.Ed.2d 235
+(1983).
+Tuggle II,
+334 S.E.2d at 844-46
+.
+Tuggle again petitioned for a writ of cer-tiorari in the Supreme Court of the United States and raised most of the issues upon which the United States District Court ultimately granted the Great Writ; however, this petition was denied on June 30, 1986.
+Tuggle v. Virginia,
+478 U.S. 1010
+,
+106 S.Ct. 3309
+,
+92 L.Ed.2d 722
+(1986).
+Tuggle then filed for habeas corpus in the criminal court of Smyth County, and after briefing and oral argument, the court denied and dismissed his petition. The Supreme Court of Virginia refused his petition to appeal on November 14, 1991, and his third petition for certiorari was denied by the Supreme Court of the United States on April 20, 1992.
+Tuggle v. Bair,
+503 U.S. 989
+,
+112 S.Ct. 1681
+,
+118 L.Ed.2d 397
+(1992).
+On September 25, 1992, claiming constitutional errors in his trial, Tuggle filed his habeas corpus petition in the United States District Court for the Western District of Virginia.
+On June 8, 1994, the district court granted Tuggle’s petition, vacated his conviction and sentence, and ordered the Commonwealth to retry him within six months. Shortly thereafter, the district court granted the Commonwealth’s motion to stay the retrial and release pending appeal to this court.
+We have had the benefit of excellent briefs and oral arguments of counsel, and we find that the district court made numerous errors of law in granting Tuggle habeas corpus relief. Therefore, we reverse and remand this action to the district court with instructions to dismiss the petition.
+I.
+The facts relating to Tuggle’s guilt were uncontroverted as he presented no evidence at that stage of the trial. The Virginia Supreme Court summarized the facts as follows:
+On Saturday night, May 28, 1983, Tuggle attended a dance at the American Legion Lodge in Marion, and upon his arrival, he asked if he could “check” a gun. He was advised that he could not. Tuggle was told that he should lock the gun in the trunk of his car. He left the building briefly, and when he returned, said, “That’s taken care of.”
+The victim, Jessie Geneva Havens, and two friends also were at the dance. The defendant introduced himself to them as David Tuggle. He sat at a table with the three women and danced with them throughout the evening.
+When the dance ended at 1:00 a.m. Sunday, Havens’ two friends left together and she left with Tuggle. The defendant had agreed to drive Havens to her home; she advised him that she had to go directly home because her granddaughters were staying with her. As her two friends were leaving the parking lot, they observed that Havens was standing next to the passenger side of the defendant’s automobile, and Tuggle was opening the trunk. Havens was wearing blue jeans, a blue and white striped blouse, and moccasin-type shoes. Shortly thereafter, State Trooper G.N. Smith stopped the defendant’s automobile
+*1360
+because it was weaving on the highway near Seven Mile Ford in Smyth County. Tuggle was driving, and the trooper observed a large, middle-aged, white female sitting in the front seat of the automobile “right next to the driver.” The woman was wearing jeans and a blue, green, or aqua blouse. After the trooper determined that the defendant was not intoxicated, Tuggle drove away in the direction of Hubble Hill Road. Havens never returned home, and at six o’clock that evening, the police were notified that she was missing.
+In the early morning of June 2,1983, State Trooper R.M. Freeman was dispatched to an area on Interstate Highway 81 in Pulaski County to look for a black pickup truck equipped with a camper. Shortly after his arrival, Freeman stopped a truck meeting that description and recognized Tuggle as the driver. When the trooper asked the defendant if he had been near the Riverside Exxon Station, Tuggle responded: “Yes, I robbed it, the money’s in my pocket, the gun’s in the truck.”
+Thereupon Freeman took possession of a .25 caliber automatic weapon. (Ballistics tests established that this gun fired the bullet which killed Havens). While Freeman was taking Tuggle to the Pulaski County Sheriff’s Office, Tuggle volunteered that he was connected with a missing person’s report relating to Jessie Havens and said that he would have a “long talk” with Smyth County authorities later. Later that morning, a Smyth County Sheriff’s Office investigator interviewed Tuggle concerning Havens’ disappearance. The officer advised Tuggle of his
+Miranda
+rights. Tuggle waived these rights and told the officer that he could find Jessie Havens over a bank at a certain spot on Hubble Hill Road near Seven Mile Ford. When the officer asked the defendant what had happened to Havens, Tuggle responded: “I don’t know but she’s there.” The defendant then told the officer that he did not want to discuss the matter further until he had spoken to an attorney. He specifically stated: “From past experience, I would like to talk to an attorney. I’ll probably tell you the full story later.”
+Approximately 9:30 a.m. on June 2, the investigator went to the place where Tug-gle said Havens would be found. He found Havens’ body at the site. Havens was clad in jeans “down around her knees,” a blue and white striped blouse “pulled up to about the armpits,” and “black silk panties ... rolled down somewhat.” A portion of the victim’s pantyhose was “sticking out of the top” of her jeans, and one of her legs was out of the pantyhose.
+An autopsy revealed that the victim’s body had an abrasion and a bruise on the left frontal area of the forehead, a small abrasion on the right frontal area of the forehead, an abrasion on the neck, a bite mark on the lower, inner quadrant of the right breast, a number of small bruises on the upper, inner aspect of the right arm, and a bruise on the right thumb and right wrist. Havens also had sustained a large bruise on the upper, inner thigh, bruises on the vaginal vault at the posterior aspect and near the bottom, and a gunshot wound in the chest.
+According to the medical examiner, “the bruises of the vagina indicate penetration of the vaginal vault by something, a penis, a finger, an object, something.” The medical examiner testified that both the bite mark on the breast and the bruising around the vagina occurred while Havens was alive. He also testified that no semen or spermatozoa was found in Havens’ vagina, but that semen was found in the rectum, indicating “penetration and ejaculation into the rectum.”
+A forensic odontologist testified that he examined the bite mark on the victim’s right breast. He compared the mark with models of Tuggle’s teeth and concluded “with all medical certainty these marks on the body of Ms. Havens were made by the teeth of Mr. Tuggle.” He further opined that Havens was alive and moving when she was bitten.
+Tuggle I,
+323 S.E.2d at 543-44
+.
+The trial was conducted from January 17-19, 1984, and in the penalty phase, the jury found both “future dangerousness” and “vileness” which are statutory predicates to a
+*1361
+death sentence in Virginia.
+See
+Va.Code Ann. § 19.2-264.2 (1990). The trial court confirmed the jury’s verdict and sentenced Tuggle to death on March 21, 1984. He appealed his conviction and sentence to the Virginia Supreme Court which affirmed both on November 80, 1984 in
+Tuggle I.
+The appellate history of this ease has been recited above.
+Tuggle’s petition for writ of habeas corpus in the United States District Court for the Western District of Virginia raised the following allegations.
+(1) The trial court failed to appoint an independent psychiatrist and pathologist to assist in his defense;
+(2) The conduct of the trial judge and the prosecution denied him his right to an impartial jury;
+(3) There was insufficient evidence to prove “penetration” to support a finding of rape under Virginia law;
+(4) The trial court erred in allowing Dr. Centor to testify that Tuggle would be “future dangerous” because he interviewed Tuggle outside the presence of counsel and without a waiver of his Fifth and Sixth Amendment rights;
+(5) The prosecutor argued that Tuggle should be put to death because he would otherwise be released on parole;
+(6) The “vileness” instruction was unconstitutionally vague;
+(7) Various rulings by the trial judge prevented Tuggle’s appointed trial counsel from rendering effective assistance;
+(8) Tuggle’s conviction and sentence were so infected with error as to violate the Eighth Amendment;
+(9) The Virginia Supreme Court improperly upheld Tuggle’s death sentence after striking the “future dangerousness” aggravating circumstance; and
+(10) Virginia’s “vileness” aggravating circumstance is vague.
+On June 8, 1994, the district court granted Tuggle relief and held:
+(1)Tuggle had been deprived of the needed assistance of expert psychiatric testimony which thwarted “his very ability to make a record on a critical point or even to rebut the evidence marshaled against him.”
+(2) Tuggle’s right to a trial by an impartial jury was violated by the conduct of the trial judge and the prosecution in: (a) failing to grant a change of venue because of pre-trial publicity; (b) contact with jurors before trial by the media and law enforcement officials; (c) the refusal of defendant’s request for additional voir dire concerning jurors’ exposure to publicity and other contacts; and (d) the trial judge’s refusal to allow challenges to jurors for cause.
+(3) The evidence was insufficient to convict Tuggle of murder during the commission of a rape.
+(4) The trial court erred in allowing Dr. Arthur Centor to testify that Tuggle posed a “future danger” to society because such testimony was based on discussions with Tuggle outside the presence of counsel without a waiver of his Fifth and Sixth Amendment rights.
+(5) The “vileness” instruction given to the jury was unconstitutionally vague.
+(6) The Virginia Supreme Court erred in upholding his death sentence after it had struck the “future dangerousness” aggravating circumstance and in finding the “vileness” predicate was sufficient to uphold the death sentence.
+II.
+The district court’s opinion causes us considerable concern because it appears that the court has overlooked the real posture of the case presented. Here we are dealing with a collateral attack upon a state criminal conviction resulting from a trial by jury that has been twice heard by and written opinions filed by the highest court of the Commonwealth, and that has been three times presented to the United States Supreme Court by way of petition for certiorari. However, the district court opinion appears to have considered the case, including the facts and the law, as if it were the original trial or appellate court without regard to prior findings of fact and numerous decisions of this court. The district court gave little or no
+*1362
+deference to any findings of fact by the courts of the Commonwealth of Virginia as directed by
+Sumner v. Mata,
+449 U.S. 539
+,
+101 S.Ct. 764
+,
+66 L.Ed.2d 722
+(1981) or the presumption of correctness established by
+28 U.S.C. § 2254
+(d).
+A.
+The district court found that Tuggle’s ability to defend himself was thwarted by the trial judge’s refusal to appoint a psychiatrist to rebut the testimony of Dr. Arthur Centor as to Tuggle’s future dangerousness, and that the Virginia Supreme Court erred in
+Tuggle II
+when it allowed the “vileness” aggravating circumstance to stand as support for the death sentence after it had set aside the “future dangerousness” circumstance under
+Ake.
+The district court also found that there was constitutional prejudice to Tuggle by the spill-over effect of the future dangerousness evidence heard by the jury at the sentencing phase, because this evidence was inadmissible on the issue of vileness. The court also found that the Virginia Supreme Court had misinterpreted
+Zant v. Stephens,
+462 U.S. 862
+,
+103 S.Ct. 2733
+,
+77 L.Ed.2d 235
+(1983) when it held that the jury finding on vileness could stand. The district court relied upon
+Johnson v. Mississippi,
+486 U.S. 578
+,
+108 S.Ct. 1981
+,
+100 L.Ed.2d 575
+(1988) as to the adverse effect of the inadmissible evidence.
+Tuggle sought certiorari to the Supreme Court after the Virginia Supreme Court decided in
+Tuggle II
+that the
+Ake
+error did not impair or invalidate the jury’s finding of vileness and again affirmed the death sentence. The Supreme Court denied cert although Tuggle’s second petition clearly presented the issue of whether
+Zant v. Stephens
+was “meant to serve as a wholesale invitation to appellate courts to ignore constitutional infirmities in the sentencing phase of a capital trial, so long as more than one aggravating circumstance is found. [Because] that it is how the decision is being applied in Virginia.” Denial of a petition for certiorari is not binding precedent, but the court has clearly indicated that it would grant certiorari after a remand for reconsideration in light of a new case, when it finds the lower court has misinterpreted the remand or if it disagrees with the action taken on remand.
+See Ford v. Georgia,
+498 U.S. 411
+,
+111 S.Ct. 850
+,
+112 L.Ed.2d 935
+(1991);
+Burden v. Zant,
+— U.S. -,
+114 S.Ct. 654
+,
+126 L.Ed.2d 611
+(1994).
+In deciding whether the Virginia Supreme Court in
+Tuggle II
+misapplied
+Zant v. Stephens,
+it is vital to remember that Virginia is a “non-weighing” state.
+Swann v. Virginia,
+247 Va. 222
+,
+441 S.E.2d 195
+, 205 (1994),
+cert. denied,
+— U.S. -,
+115 S.Ct. 234
+,
+130 L.Ed.2d 158
+(1994). In “weighing” states, the jury is specifically instructed to weigh statutory aggravating and mitigating circumstances in exercising its discretion as to whether to impose the death penalty. In “non-weighing” states, such as Virginia, the statutory scheme helps perform the function of narrowing the category of persons convicted of murder who are eligible for the death penalty by a narrow definition of capital murder, Va.Code Ann. § 18.2-32 (1988) and the requirement for aggravating circumstances, Va.Code Ann. § 19.2-264.2 (1990).
+If the statutory sentencing procedures sufficiently guide and channel the jury’s discretion so as to minimize the risk of wholly arbitrary and capricious jury action in imposing the death sentence, a weighing instruction is not required by the federal Constitution.
+Zant,
+462 U.S. at 874-75
+,
+103 S.Ct. at 2741-2
+.
+In granting Tuggle a writ of habeas corpus, the district court neither discussed the difference between weighing and non-weighing states nor mentioned the effect of
+Stringer v. Black,
+503 U.S. 222
+,
+112 S.Ct. 1130
+,
+117 L.Ed.2d 367
+(1992), which discusses the import and effect of invalid aggravating factors in weighing states and the appellate scrutiny required in such states.
+Stringer
+clearly points out the difference between capital punishment procedures that require weighing and those that do not:
+With respect to the function of a state reviewing court in determining whether the sentence can be upheld despite the use of an improper aggravating factor, the difference between a weighing State and a nonweighing State is not one of “seman
+*1363
+ties,” as the Court of Appeals thought, but of critical importance. In a nonweighing State, so long as the sentencing body finds at least one valid aggravating factor, the fact that it also finds an invalid aggravating factor does not infect the formal process of deciding whether death is an appropriate penalty. Assuming a determination by the state appellate court that the invalid factor would not have made a difference to the jury’s determination, there is no constitutional violation resulting from the introduction of the invalid factor in the earlier stage of the proceedings. But when the sentencing body is told to weigh an invalid factor in its decision, a reviewing court may not assume that it would have made no difference if the thumb had been removed from death’s side of the scale. When the weighing process itself has been skewed, only constitutional harmless-error analysis or reweighing at the trial or appellate level suffices to guarantee that the defendant receive an individualized sentence. This clear principle emerges not from any single case, as the dissent would require, but from our long line of authority setting forth the dual constitutional criteria of precise and individualized sentencing. Thus, the principal difference between the sentencing systems of Mississippi and Georgia, the different role played by aggravating factors in the two States, underscores the applicability of
+Godfrey [v. Georgia,
+446 U.S. 420
+,
+100 S.Ct. 1759
+,
+64 L.Ed.2d 398
+(1980)] and
+Maynard [v. Cartwright,
+486 U.S. 356
+,
+108 S.Ct. 1853
+,
+100 L.Ed.2d 372
+(1988)] to the Mississippi system.
+Id.
+503 U.S. at 231-32, 112 S.Ct. at 1137 (citations omitted).
+In
+Tuggle II,
+the Virginia Supreme Court concluded that in light of
+Ake,
+the trial court had erred in denying Tuggle’s motion for an independent psychiatrist to rebut the Commonwealth’s psychiatric evidence of future dangerousness even though Tuggle had never requested the psychiatrist to rebut future dangerousness but only requested the psychiatrist to reevaluate him as to sanity and competency to stand trial.
+Id,
+at 844. The Virginia court also concluded:
+When a jury makes separate findings of specific statutory aggravating circumstances, any of which could support a sentence of death, and one of the circumstances subsequently is invalidated, the remaining valid circumstance, or circumstances, will support the sentence.
+Id.
+at 845 (citing
+Zant v. Stephens,
+462 U.S. 862
+,
+103 S.Ct. 2733
+,
+77 L.Ed.2d 235
+(1983)).
+In
+Tuggle II,
+the court reviewed the evidence as to vileness and stated:
+In
+Tuggle,
+the jury made a separate, specific finding that the “vileness” predicate had been proved beyond a reasonable doubt. Although
+Ake
+requires the conclusion that the trial court erred in denying Tuggle an independent psychiatrist once the Commonwealth had submitted psychiatric evidence on the issue of future dangerousness, we hold, nonetheless, that the error neither impairs nor invalidates the jury’s finding of vileness.
+Id.
+at 846.
+The district court’s reliance upon
+Johnson v. Mississippi,
+486 U.S. 578
+,
+108 S.Ct. 1981
+,
+100 L.Ed.2d 575
+(1988), is misplaced because Mississippi uses the “weighing system,” and Virginia does not.
+As to the spill-over effect of the psychiatric evidence relating to future dangerousness, we have decided this issue in
+Smith v. Procunier,
+769 F.2d 170
+(4th Cir.1985),
+cert. granted in part Smith v. Sielaff,
+474 U.S. 918
+,
+106 S.Ct. 245
+,
+88 L.Ed.2d 254
+(1985),
+aff'd Smith v. Murray,
+477 U.S. 527
+,
+106 S.Ct. 2661
+,
+91 L.Ed.2d 434
+(1986):
+On the merits, we immediately come up against the consideration of the jury’s verdict recommending a death sentence was supported by two separate and distinct grounds of aggravation: (a) dangerousness (i.e., violence) and (b) vileness. The asserted errors of constitutional dimension relating to the admission of psychiatric testimony were in testimony directed to the question of “dangerousness.” The evidence presented to the jury supporting a showing of “vileness” was unchallenged. The testimony in the guilt phase of the case amply provided a basis for a decision that the crime was vile. Having met the
+*1364
+victim on a beach, Smith paused to help remove briars from her feet. The appearance of kindness immediately dissipated when Smith grasped the victim’s arm, took her to a wooded area, produced a knife, and told her to undress. He then forced her to have intercourse and, following that, choked her, dragged her into the water, submerged her head, stabbed her, and left the dead victim lying where she fell. The immediate cause of death was drowning, although the testimony indicated the stab wounds and strangulation also could have been responsible.
+This court recently decided in
+Briley v. Bass,
+742 F.2d 155
+, 165 (4th Cir.1984), that any one aggravating circumstance deemed sufficient by the jury suffices:
+[Sjince the jury returned a verdict finding the death sentence warranted under both “vileness” and the “dangerousness” standard, it is of no importance whether the instruction on “vileness” was correct so long as the instruction on “dangerousness” was correct, provided, of course, the verdict of the jury was unanimous on the “dangerousness” ground.
+Similarly, the Supreme Court in
+Zant v. Stephens
+stated that
+[A] death penalty supported by at least one valid aggravating circumstance need not be set aside ... simply because another aggravating circumstance is “invalid” in the sense that it is insufficient itself to support the death penalty.
+Procunier,
+769 F.2d at 173
+(footnotes omitted) (citation omitted) (alterations in original).
+The district court erred in finding that the Virginia Supreme Court erred in allowing the death sentence to stand on the “vileness” aggravating circumstance after setting aside the “future dangerousness” finding under
+Ake,
+and we reverse the granting of the writ on this ground.
+B.
+The district court ruled that Tuggle was denied his constitutional right to a trial by an impartial jury by the conduct of the trial judge and the prosecution in: (a) failing to grant a change of venue because of pretrial publicity; (b) the contact of jurors prior to trial by the media and law enforcement officials; (c) the trial court’s failure to allow adequate voir dire concerning the jurors’ exposure to publicity and other contacts; and (d) the trial court’s refusal to allow challenges for cause.
+i.
+The record does not support the district court’s finding that pretrial publicity was sufficient to deny Tuggle an impartial jury or to require the trial judge to change the venue. The district court’s holding on this point is clearly erroneous. Matters of change of venue are committed to the sound discretion of the trial court, and we find no abuse of this discretion on the present facts.
+The newspaper articles of which Tuggle complains are a part of the record and have been carefully reviewed by us. The first news article appeared in the June 2, 1983 edition of the Smyth County News and reported only that the victim, Jessie Geneva Havens, was missing and had failed to return from a dance on Saturday night. It gave a physical description of Mrs. Havens and stated: “Police will not say at this time if they suspect foul play.” On June 7, 1983, the same publication contained a report that Tuggle was in custody and had not confessed to killing the victim, but he had told police where her body could be found. The body was found at this location and an autopsy revealed that the victim died from a .25 caliber pistol wound to the heart. The story stated that a .25 caliber pistol was found on Tuggle when he was
+arrested. The same
+issue of the paper reported that Tuggle had been convicted of second degree murder in 1972 for killing a 17 year old female in the Marion, Virginia area.
+The June 14, 1983 issue of the paper reported that Tuggle was confined in a secure cell with little chance of escape. This article was in response to an article that had appeared in a Bristol, Virginia paper which questioned the security of Tuggle’s confinement, and stated he had escaped from prison on two previous occasions.
+*1365
+The June 23, 1983 issue of the Smyth County News contained a letter from “The Family of Jessie G. Havens” commending the Sheriffs Department of Smyth County for its help and understanding in “the recent loss of our mother.” There was no mention of Tug-gle in this letter.
+The August 4, 1983 edition of the Smyth County News contained a very short story reporting that the preliminary hearing had been delayed until August 15, 1983. The August 16, 1983 edition of the same paper reported a further delay in the preliminary hearing.
+On October 18, 1983, both the Smyth County News and the Bristol Herald Courier reported that following the preliminary hearing, probable cause had been found, and Tug-gle had been bound over to the grand jury on charges of capital murder, rape, use of a firearm in commission of the murder, armed robbery, use of a firearm in the armed robbery, and possession of a firearm by a convicted felon. The Smyth County News reported on November 3, 1983 that Tuggle had been indicted by the grand jury on the five original charges plus an additional charge of forcible sodomy. There were ten weeks between this last newspaper article and the beginning of the trial on January 17, 1984.
+All of the newspaper articles were factual in nature and sevferal were very short — stating only that the hearing had been continued. None of the news stories would be considered inflammatory. There is no record of radio or TV coverage of the crime, and no claim that radio or television created any prejudice toward Tuggle or would necessitate a change of venue.
+Tuggle argues that the fact that eight members of the venire were excused by the court during voir dire because they reported they had formed an opinion as to Tuggle’s guilt, proved the effect of the excess of pretrial publicity. We do not follow this reasoning. Such fact only demonstrates the necessity of asking appropriate questions to prospective jurors, and the Supreme Court of Virginia in
+Tuggle I
+viewed the fact that “[i]t took only 28 prospective jurors to secure a panel of 20” as evidence that there had not been widespread local prejudice against Tug-gle because of media reports.
+323 S.E.2d at 545
+.
+Tuggle also argues that five of the petit jurors had read newspaper articles concerning the case. However, each of the jurors advised the court under oath that they could decide the case impartially and consider only the evidence presented in the courtroom. In this day of instant communication, it is not unusual for jurors to have heard or read about a case, and such prior knowledge does not disqualify a person from becoming a juror, and this circumstance does not require a trial judge to change venue.
+Tuggle further asserts that one or more of the newspaper articles falsely reported that he had been previously convicted of rape and was a suspect in another rape, and that one paper falsely stated that the death penalty was mandatory in Virginia for murder committed during the rape. These articles appeared several months prior to trial, and there is no evidence to suggest that the jurors were influenced in any way by these articles. The article concerning the death penalty stated: “Capital murder includes murder during the commission of rape” and “In Virginia, capital murder can be punished only by death in the electric chair.” Whether this article contains a correct statement of the law of Virginia is of no moment, because these articles appeared months before the trial, and the jury was correctly instructed on the law of capital murder by the trial judge during Tuggle’s trial.
+The district court’s finding that pretrial influences of the jury resulting from media publicity, media contact with members of the jury, the reading by some members of the jury of articles concerning the case and a false story stating that Tuggle had committed another rape deprived Tuggle of his constitutional right to an impartial jury overlooks the well established law on this issue of what must be shown by a defendant who challenges his conviction because of alleged pretrial publicity or local bias. Tuggle did not show as required under the test established in
+Murphy v. Florida,
+421 U.S. 794
+,
+95 S.Ct. 2031
+,
+44 L.Ed.2d 589
+(1975), that “the setting of the trial was inherently prejudicial
+*1366
+or that the jury-selection process of which he complains permits an inference of actual prejudice.”
+Id.
+at 803
+,
+95 S.Ct. at 2038
+.
+Prior knowledge of facts reported in the media is not sufficient. In
+Murphy,
+many jurors had heard of the defendant through extensive news coverage and there was extensive knowledge in the community of either the crimes or the putative criminal, and the court found this was not sufficient to render a trial constitutionally unfair in the absence of “a trial atmosphere that had been utterly corrupted by press coverage.”
+Id.
+at 798
+,
+95 S.Ct. at 2035
+.
+“Qualified jurors need not, however, be totally ignorant of the facts and issues involved.”
+Id.
+at 799-80
+,
+95 S.Ct. at 2036
+. In
+Irvin v. Dowd,
+366 U.S. 717
+,
+81 S.Ct. 1639
+,
+6 L.Ed.2d 751
+(1961), the Court stated:
+To hold that the mere existence of any preconceived notion as to the guilt or innocence of an accused, without more, is sufficient to rebut the presumption of a prospective juror’s impartiality would be to establish an impossible standard. It is sufficient if the juror can lay aside his impression or opinion and render a verdict based on the evidence presented in court.
+Id.
+at 723
+,
+81 S.Ct. at 1642-43
+(citations omitted).
+In
+Nebraska Press Ass’n v. Stuart,
+427 U.S. 539
+,
+96 S.Ct. 2791
+,
+49 L.Ed.2d 683
+(1976), the Court observed: “[i]n the overwhelming majority of criminal cases, pretrial publicity presents few unmanageable threats to this important right [of a fair trial before an impartial jury].”
+In
+Stroble v. California,
+343 U.S. 181
+,
+72 S.Ct. 599
+,
+96 L.Ed. 872
+(1952), the claim was a denial of due process because of pretrial publicity including the prosecutor’s release of the defendant’s recorded confession. The court denied relief and noted that the publicity “had receded” some six weeks before trial.
+ii.
+Change of venue is addressed to the sound discretion of the trial court, and
+[t]here is a presumption that a defendant can receive a fair trial from the citizens of the county or city in which the offense occurred. To overcome this presumption, the accused has the burden of clearly showing “that there is such a widespread feeling of prejudice on the part of the citizenry as will be reasonably certain to prevent a fair and impartial trial.”
+Stockton v. Virginia,
+227 Va. 124
+,
+314 S.E.2d 371
+, 379-80 (1984),
+cert. denied,
+469 U.S. 873
+,
+105 S.Ct. 229
+,
+83 L.Ed.2d 158
+(1984) (citation omitted).
+In the appeal in
+Tuggle I,
+the defendant claimed error because of the refusal to change the venue out of Smyth County. The Supreme Court of Virginia found that there was no abuse of discretion by the trial judge and found as a fact “nothing in the record suggests that there was widespread prejudice against Tuggle in Smyth County.”
+Tuggle I,
+323 S.E.2d at 545
+. This case is a collateral attack upon a state conviction and is governed by
+28 U.S.C. § 2254
+(d), which provides:
+(d) In any proceeding instituted in a Federal court by an application for a writ of habeas corpus by a person in custody pursuant to the judgment of a State court, a determination after a hearing on the merits of a factual issue, made by a State court of competent jurisdiction in a proceeding to which the applicant for the writ and the State or an officer or agent thereof were parties, evidenced by a written finding, written opinion, or other reliable and adequate written indicia,
+shall be presumed to be correct,
+unless the applicant shall establish or it shall otherwise appear, or the respondent shall admit—
+(1) that the merits of the factual dispute were not resolved in the State court hearing;
+(2) that the factfinding procedure employed by the State court was not adequate to afford a full and fair hearing;
+(3) that the material facts were not adequately developed at the State court hearing;
+(4) that the State court lacked jurisdiction of the subject matter or over the person of the applicant in the State court proceeding;
+*1367
+(5) that the applicant was an indigent and the State court, in deprivation of his constitutional right, failed to appoint counsel to represent him in the State court proceeding;
+(6) that the applicant did not receive a full, fair, and adequate hearing in the State court proceeding; or
+(7) that the applicant was otherwise denied due process of law in the State court proceeding;
+(8) or unless that part of the record of the State court proceeding in which the determination of such factual issue was made, pertinent to a determination of the sufficiency of the evidence to support such factual determination, is produced as provided for hereinafter, and the Federal court on a consideration of such part of the record as a whole concludes that such factual determination is not fairly supported by the record:
+And in an evidentiary hearing in the proceeding in the Federal court, when due proof of such factual determination has been made, unless the existence of one or more of the circumstances respectively set forth in paragraphs numbered (1) to (7), inclusive, is shown by the applicant, otherwise appears, or is admitted by the respondent, or unless the court concludes pursuant to the provisions of paragraph numbered (8) that the record in the State court proceeding, considered as a whole, does not fairly support such factual determination,
+the burden shall rest upon the applicant to establish by convincing evidence that the factual determination by the State court was erroneous.
+(Emphasis added).
+The district court has failed to follow the clear language and the procedures set forth in this federal statute. The Supreme Court of Virginia has found as a fact that there was not a widespread prejudice against Tuggle in Smyth County so as to require a change of venue. This finding is presumed to be correct and is binding on the federal district court unless the court finds one of the circumstances set forth in § 2254(d)(1)-(7).
+The district court did not acknowledge the existence of § 2254(d) or the presumption of correctness of the state court finding, and the district court made no effort to face up to or explain away these facts under one of the eight circumstances outlined in the statute. In
+Sumner v. Mata,
+455 U.S. 591
+,
+102 S.Ct. 1303
+,
+71 L.Ed.2d 480
+(1982), the Court stated:
+Of course, the federal courts are not necessarily bound by the state court’s findings. Section 2254(d) permits a federal court to conclude, for example, that a state finding was “not fairly supported by the record.” But the statute does require the federal courts to face up to any disagreement as to the facts and to defer to the state court unless one of the factors listed in § 2254(d) is found. Although the distinction between law and fact is not always easily drawn, we deal here with a statute that requires the federal courts to show a high measure of deference to the factfindings made by the state courts. To adopt the Court of Appeals’ view would be to deprive this statutory command of its important significance.
+Id.
+at 597-98
+,
+102 S.Ct. at 1307
+.
+On the record, Tuggle has presented no convincing evidence that the state court findings are erroneous, and the district court clearly erred in finding that the trial jury was prejudiced or biased against Tuggle because of pretrial publicity or that the trial judge abused his discretion in not changing the venue.
+iii.
+The district court found that three members of the jury had been contacted, prior to trial and prior to being drawn as jurors on Tuggle’s ease, by members of the media concerning their decision as jurors in a ease tried earlier at the same term of court. The district court concluded that these contacts together with the trial judge’s refusal to allow Tuggle’s counsel adequate individualized and sequestered voir dire, and the failure of the trial judge to allow challenges for cause outside the presence of the panel deprived Tuggle of his constitutional right to an impartial jury.
+*1368
+As to individual and sequestered voir dire, the trial judge advised, “We will examine the jurors in the normal way ... on voir dire. You may ask the panel as a whole questions and then if you desire to question any one individually, you may proceed in that fashion.”
+During the selection of the jury, the judge asked the venire whether any had formed an opinion about the ease because of pretrial publicity. Eight persons answered in the affirmative and were immediately excused by the court. Replacement jurors were summonsed, and after questioning, all 20 stated they had formed no opinion about the case and would impartially decide the case based solely on the evidence presented in court. Tuggle’s counsel then asked the panel, “How many of you have been contacted by a representative of a newspaper either in person or by telephone as a result of your service in [the unrelated] case.” Four persons raised their hand and counsel inquired what the reporter had asked them. The court ruled, “That’s another matter. You may quiz them on this particular ease.” Tuggle did not proffer what questions he wished to ask or what information he anticipated he would receive from these prospective jurors about media contacts in another case and how this would influence his selection of jurors in the Tuggle case. Counsel then asked content questions of each juror who had read something about the case, but this produced no disqualifying information. Some jurors were skeptical of what they had read, others could not recall what they had read and none had formed an opinion about Tuggle’s case. All jurors indicated that they had not heard any comments about Tuggle’s case by the Commonwealth’s attorney or any law enforcement agent.
+Tuggle’s attorney then asked to make his challenges for cause outside the presence of the panel, but the judge stated the panel was qualified on the basis of the voir dire examination and advised counsel that he could question the panel further if he desired. Counsel never proffered the names of the jurors he wished to challenge for cause or the specific grounds therefore, had he been allowed to do so out of the presence of the entire panel. Counsel then advised that he had no further questions, and the attorneys proceeded with peremptory strikes.
+In
+Tuggle I,
+the Supreme Court of Virginia found that, “each member of the panel was disinterested, had not expressed or formed any opinion regarding Tuggle’s guilt or innocence, was not sensible of any bias or prejudice, and stood indifferent in the cause.”
+323 S.E.2d at 546
+. In
+Tuggle I,
+the court also found that counsel did not have the right to examine each venireman out of the presence of the others, but such procedure was committed to the discretion of the trial judge, and the Supreme Court of Virginia found no abuse of discretion in denying this motion.
+Tuggle’s counsel was not prevented from proceeding with voir dire of the venire, but he has not proffered to us nor did he proffer to the Supreme Court of Virginia what questions he would have asked the veniremen if he could have examined them individually and out of the presence of the remainder of the panel.
+The Virginia Supreme Court held that counsel should have been afforded the opportunity to challenge the jurors for cause out of the presence of the panel, but again he did not proffer to that court or to the federal court which prospective jurors would have been challenged or the basis for such challenge. This failure by the trial judge was not reversible error. If there was a violation of Virginia state law on this point, it does not support federal habeas relief.
+Estelle v. McGuire,
+502 U.S. 62
+, 67,
+112 S.Ct. 475
+, 479-80,
+116 L.Ed.2d 385
+(1991). There is no constitutional right to be allowed to challenge for cause outside the presence of the panel.
+As to the contacts of media representatives with four jurors concerning a prior case not involving Tuggle, the record shows that only one of these actually sat on Tuggle’s jury. In view of our opinion in
+Wells v. Murray,
+831 F.2d 468
+(4th Cir.1987), we do not find that a news reporter’s contact of a juror about his decision in a prior case had any adverse effect upon Tuggle. It is the defendant’s duty to show a strong possibility of jury bias as a result of this contact, and this has not been done. In
+Wells,
+the venire
+*1369
+included several jurors who had been criticized by a trial judge for returning an acquittal in a prior, unrelated ease. We held that this did not represent constitutional error or prevent the jury from being impartial because the judge’s comments did not relate to the defendant, but to a defendant in a prior case. The same is true here. The inquiry concerned not Tuggle but a defendant in a prior unrelated ease. There has been no showing that this one juror was biased against the defendant or in any way affected by the media contact.
+The district court’s reliance on
+Stockton v. Virginia,
+852 F.2d 740
+(4th Cir.1988), is misplaced. The jurors in
+Stockton
+were contacted during their deliberations and the contact was about the case they were deliberating. The contact in the present case was prior to trial and did not involve Tuggle’s case.
+It is not sufficient to allege that voir dire was inadequate and as a result Tuggle was denied an impartial jury. The burden is upon Tuggle to demonstrate a strong possibility of jury bias.
+Wells,
+831 F.2d at 473
+. On appeal, a court cannot determine that voir dire was inadequate unless the complaining party has proffered to the trial court, and preserved for appeal, those questions he would have asked to the venire.
+The district court erred in granting the writ on the ground that the trial jury was not impartial because of the conduct of the trial judge and the prosecution. This is true whether the claims are considered individually or collectively.
+C.
+The district court found the evidence that was produced cannot show guilt beyond a reasonable doubt under the elements of the crime of rape as defined and applied by the Virginia courts. In this case, there was no semen in the vagina. There were small bruises found
+outside
+the vagina, but there were no injuries found in the vagina and there was no testimony concerning when the bruises occurred. The state pathologist testified that the bruises could have been caused by penetration of “something, a penis, a finger, an object, something.” With such evidence, no rational fact-finder could have found proof beyond a reasonable doubt. That the jury found rape in this case is most likely explained by the inaccurate pre-trial information concerning other rapes supposedly committed by Tuggle, as well as the public pressure surrounding this notorious ease, which was heightened by press contacts with jurors, prior to trial. The court grants the petitioner’s petition for habeas relief on this ground.
+The district court mentioned
+Jackson v. Virginia,
+443 U.S. 307
+,
+99 S.Ct. 2781
+,
+61 L.Ed.2d 560
+(1979), but seems to have paid little heed to this holding. In
+Jackson,
+the court stated:
+We hold that in a challenge to a state criminal conviction brought under
+28 U.S.C. § 2254
+— if the settled procedural prerequisites for such a claim have otherwise been satisfied — the applicant is entitled to habeas corpus relief if it is found that upon the record evidence adduced at trial no rational trier of fact could have found proof beyond a reasonable doubt.
+... Under the standard established in this opinion as necessary to preserve the due process protection recognized in
+Win-ship,
+a federal habeas corpus court faced with a record of historical facts that supports conflicting inferences must presume — even if it does not affirmatively appear in the record — that the trier of fact resolved any such conflicts in favor of the prosecution, and must defer to that resolution.
+Id.
+at 324, 326
+,
+99 S.Ct. at 2791-92, 2793
+.
+It is obvious that the district judge substituted his view of the facts for that of the twelve person jury which heard the testimony and observed the witnesses and was in a much better position to decide this issue under the correct instruction of the state trial judge on the issue of rape under Virginia law. Also, the Supreme Court of Virginia found the evidence of penetration sufficient to satisfy Virginia law on the question of penetration.
+Tuggle I,
+323 S.E.2d at 550
+.
+Virginia law is well established that to prove rape, the evidence must establish
+*1370
+beyond a reasonable doubt that an accused has had sexual intercourse with a female by force and against her will and that there was an actual penetration to some extent of the male sexual organ into the female sexual organ.
+McCall v. Virginia,
+192 Va. 422
+,
+65 S.E.2d 540
+, 542 (1951). Penetration need only be slight.
+Rowland v. Virginia,
+147 Va. 636
+,
+136 S.E. 564
+, 565 (1927).
+When the sufficiency of evidence is challenged on appeal, the evidence and all reasonable inferences fairly drawn therefrom must be viewed in the light most favorable to the prosecution. This is the teaching of
+Jackson,
+which case does not allow a federal judge to substitute his own subjective determination of guilt or innocence for that of the factfinder.
+The question whether the evidence is constitutionally sufficient is of course wholly unrelated to the question of how rationally the verdict was actually reached. Just as the standard announced today does not permit a court to make its own subjective determination of guilt or innocence, it does not require scrutiny of the reasoning process actually used by the factfinder — if known.
+Jackson,
+443 U.S. at
+319-20 n. 13,
+99 S.Ct. at
+2789 n. 13.
+In
+Elam v. Virginia,
+229 Va. 113
+,
+326 S.E.2d 685
+(1985), the Virginia Supreme Court held:
+Penetration by a penis of a vagina is an essential element of the crime of rape; proof of penetration, however slight the entry may be, is sufficient; evidence of ejaculation is not required; and no hypothesis that penetration was accomplished by some other object other than a penis is sufficient to reverse a conviction unless it reasonably flows from the evidence itself rather than the imagination of counsel.
+Id.
+at 686-87
+.
+The evidence of rape presented against Tuggle established that when the body of the victim was discovered, her blouse was pulled up to her armpits, her pants were down around her knees, her panties were rolled down somewhat with part of her pantyhose protruding from the top of her pants and one of her legs out of the pantyhose. There was a bite mark present on the lower inner quadrant of the right breast and a large bruise measuring three and one-half by two inches on the upper inner thigh. Examination of the vagina and the perineal areas showed some contusions of the vaginal vault at the posterior aspect and near the bottom. There were “contusions to the posterior fornix of the vagina which is inside the labia majora_ There were reddish bruises at the posterior aspects of the vagina.... The bruises of the vagina indicate penetration of the vaginal vault by something, a penis, a finger, an object or something.” Swabs from the vagina were negative for semen and spermatozoa, but semen was present in the rectum.
+With this evidence, it was for the jury to say whether Tuggle’s penis, his finger, or some other object penetrated the victim’s vagina. Tuggle’s penis was obviously in the area, as evidenced by the semen in the rectum, and considering the evidence as a whole, it was sufficient to prove penetration and rape under Virginia law. The district court was clearly erroneous in finding that “[t]here were no injuries found in the vagina.” The doctor testified, “[t]here were reddish bruises at the posterior aspects of the vagina_ The bruises of the vagina indicate penetration of the vaginal vault.”
+The district court was clearly erroneous in finding that no rational factfinder could find proof beyond a reasonable doubt of rape on the evidence. The court explained this by saying that the jury most likely was influenced by inaccurate pretrial information concerning other rapes committed by Tuggle as well as public pressure “heightened by press contact with jurors.” This is pure speculation and is not supported by the record. As we have explained above, only one of the jurors sitting on the case had been contacted by the press, and this related not to Tuggle but to another case. The information concerning other rapes had occurred months before in newspapers which some of the jurors had read; however, most had forgotten and all had agreed that they could judge the case fairly and impartially based only upon the evidence presented in court.
+*1371
+On this issue, the district court again failed to give any deference to the findings of fact by the state trial and appellate courts or give such findings the presumption of correctness to which they are entitled under
+Cabana v. Bullock,
+474 U.S. 376
+,
+106 S.Ct. 689
+,
+88 L.Ed.2d 704
+(1986). When a federal habeas court reviews a state conviction:
+[t]he court must examine the entire course of the state-court proceedings against the defendant in order to determine whether, at some point in the process, the requisite factual finding as to the defendant’s culpability has been made. If it has, the finding must be presumed correct by virtue of
+28 U.S.C. § 2264
+(d),
+see Sumner v. Mata,
+449 U.S. 539
+[
+101 S.Ct. 764
+,
+66 L.Ed.2d 722
+] (1981), and unless the habeas petitioner can bear the heavy burden of overcoming the presumption, the court is obliged to hold that the Eighth Amendment as interpreted in
+Enmund,
+is not offended by the death sentence.
+Id.
+at 387-88, 106 S.Ct. at 697-98 (footnotes omitted). The presumption of correctness applies to facts by appellate courts as well as trial courts.
+Sumner,
+449 U.S. at 545-47
+,
+101 S.Ct. at 768-69
+.
+The district court’s granting of the writ on the ground that evidence was insufficient to prove rape was clearly erroneous and is reversed.
+D.
+The district court found that the vileness instruction given to the jury was unconstitutionally vague. This instruction was as follows:
+You have convicted the defendant of an offense which may be punished by death. You must decide whether the defendant shall be sentenced to death or to life imprisonment. Before the penalty can be fixed at death, the Commonwealth must prove beyond a reasonable doubt at least one of the following two alternatives:
+(1) That, after consideration of his past criminal record, there is a probability that he would commit criminal acts of violence that would constitute a continuing serious threat to society; or
+(2) That his conduct in committing the offense was outrageously or wantonly vile, horrible or inhuman, in that it involved torture, depravity of mind or aggravated battery to the victim beyond the minimum necessary to accomplish the act of murder.
+If you find from the evidence that the Commonwealth has proven beyond a reasonable doubt either of the two alternatives, then you may fix the punishment of the defendant at death or if you believe from all of the evidence that the death penalty is not justified, then you shall fix the punishment of the defendant at life imprisonment.
+If the Commonwealth has failed to prove either alternative beyond a reasonable doubt, then you shall fix the punishment of the defendant at life imprisonment.
+The court instructs the jury that even if you find, beyond a reasonable doubt, after considering the prior history of the defendant, that there is a probability that he would commit criminal acts of violence that would constitute a continuing serious threat to society, or find beyond a reasonable doubt that his conduct in committing the offense was outrageously and wantonly vile, horrible or inhuman in that it involved depravity of mind or aggravated battery to the deceased, then you still are not required to recommend the death sentence, but you are permitted, even under those circumstances to recommend life imprisonment.
+The trial judge refused Tuggle’s requested jury instruction that read as follows:
+The court instructs the jury that the words depravity of mind mean a degree of moral turpitude and physical debasement surpassing that inherent in the definition of ordinary legal malice and premeditation.
+The words aggravated battery mean a battery which, qualitatively and quantitatively, is more culpable than the minimum necessary to accomplish the act of murder.
+The district court refused to find Virginia’s vileness aggravating circumstance, Va.Code Ann. § 19.2-264.2, so vague and standardless as to be unconstitutional, but it found that strong arguments as to its invalidity had
+*1372
+been made and “the court declines to hold the statute unconstitutional, especially since so many other constitutional violations are present in this case which mandate that the petition for writ of habeas corpus be granted.”
+In
+Tuggle I,
+the Virginia Supreme Court held that there was no error in the trial judge’s refusal to give the requested instruction that defined “depravity of mind” and “aggravated battery.” As to vileness, the court stated:
+We need not review again the evidence surrounding this heinous crime. Manifestly, it was outrageously vile and involved depravity of mind. Further, the battery to the victim was aggravated and “more culpable than the minimum necessary to accomplish an act of murder.”
+Smith,
+219 Va. at 478, 248 S.E.2d at 149.
+Id.
+at 554.
+The district court' held that:
+Respondents argue that the vagueness of Virginia’s “vileness” aggravator was rejected by the Virginia Supréme Court in this case,
+see
+228 Va. at 515-16
+, 323 S.E.2d at [5]52 — 53, and has also been repeatedly rejected by the Fourth Circuit Court of Appeals in earlier cases. The cases respondents rely upon for this proposition are inapposite. In those cases, the judge gave a limiting instruction to the Virginia statutory definition of “vileness.”
+See, e.g., Turner v. Bass,
+753 F.2d 342
+, 352 (1985),
+rev.d on other grounds,
+476 U.S. 28
+,
+106 S.Ct. 1683
+,
+90 L.Ed.2d 27
+(1986). In this ease, no limiting instruction was given. Instead, despite petitioner’s requests, only the “vileness” definition which.the United States Supreme Court had already found to be unconstitutional was provided to the jury.
+See Godfrey v. Georgia,
+446 U.S. 420
+, 427,
+100 S.Ct. 1759
+, 1764,
+64 L.Ed.2d 398
+(1980). Because there is a greater need for reliability in the determination that death is the appropriate punishment in a specific case,
+Woodson v. North Carolina,
+428 U.S. 280
+, 305,
+96 S.Ct. 2978
+, 2991-92,
+49 L.Ed.2d 944
+(1976), it was error for the trial court to refuse to provide limiting instructions.
+The district court obviously misread
+Godfrey v. Georgia,
+446 U.S. 420
+,
+100 S.Ct. 1759
+,
+64 L.Ed.2d 398
+(1980), the prior decisions of our court, and the instruction given to Tug-gle’s jury on the issue of vileness. The district court found that the instruction contained no limitation on the statutory definition of vileness, but the statutory definition was limited in the charge by the additional words “beyond the minimum necessary to accomplish the act of murder.” We found in
+Boggs v. Bair,
+892 F.2d 1193
+(4th Cir.1989),
+cert. denied,
+495 U.S. 940
+,
+110 S.Ct. 2193
+,
+109 L.Ed.2d 521
+(1990), that this charge was constitutionally acceptable.
+In
+Godfrey,
+the Supreme Court was dealing with the Georgia aggravating factor of vileness which required that the offense “was outrageously and wantonly vile, horrible or inhuman in that it involved torture, depravity of mind, or an aggravating battery to the victim.” The court found that Godfrey’s crimes were no more depraved than that of any murder, there was no evidence of torture, the victims were killed instantly and Godfrey was acting under “extreme emotional trauma.” The court held that the vague language of the vileness factor had not been given a constitutional construction by the Georgia Supreme Court.
+446 U.S. at 432-33
+,
+100 S.Ct. at 1767
+.
+Tuggle’s jury instruction included the additional limitation that the “aggravated battery to the victim was beyond the minimum necessary to accomplish the act of murder,” which is a paraphrase of the language limiting vileness in
+Smith v. Virginia,
+219 Va. 455
+,
+248 S.E.2d 135
+, 149 (1978),
+cert. denied,
+441 U.S. 967
+,
+99 S.Ct. 2419
+,
+60 L.Ed.2d 1074
+(1979) (“Battery which, qualitatively and quantitatively, is more culpable than the minimum necessary to accomplish the act of murder.”). We find the instruction given to Tuggle’s jury was not unconstitutionally vague as to vileness, and the limiting language approved by the Virginia Supreme Court and paraphrased in the present charge was sufficient to clarify the meaning of vileness and avoid the
+Godfrey
+problem. Unlike
+Godfrey,
+the present facts also demonstrate aggravated battery more than necessary to accomplish the act of murder in the biting of
+*1373
+the victim’s breast, the numerous bruises and contusions and the sodomy inflicted upon her.
+Although the charge given to Tuggle’s jury did not contain the “qualitatively and quantitatively more culpable” language, this omission did not create unconstitutional vagueness, because the vital part of the limitation is “beyond the minimum necessary to accomplish the act of murder.” Qualitative and quantitative relate to the extent of the battery being more than necessary to accomplish the murder.
+Godfrey
+held that the jury must be adequately guided so as to distinguish between “ ‘the few cases in which [the penalty] is imposed from the many cases in which it is not.’ ”
+446 U.S. at 427
+,
+100 S.Ct. at 1764
+(citation omitted) (alteration in original). The charge given to Tuggle’s jury made this distinction.
+The purpose of having aggravating circumstances in a capital ease is to narrow the class of persons who may receive the ultimate penalty. This is explained by the court in
+Lowenfield v. Phelps,
+484 U.S. 231
+,
+108 S.Ct. 546
+,
+98 L.Ed.2d 568
+(1988):
+To pass constitutional muster, a capital sentencing scheme must “genuinely narrow the class of persons eligible for the death penalty and must reasonably justify the imposition of a more severe sentence on the defendant compared to others found guilty of murder.”
+Zant v. Stephens,
+462 U.S. 862
+, 877 [
+103 S.Ct. 2733
+, 2742,
+77 L.Ed.2d 235
+] (1983); c.f.
+Gregg v. Georgia,
+428 U.S. 153
+[
+96 S.Ct. 2909
+,
+49 L.Ed.2d 859
+] (1976). Under the capital sentencing laws of most States, the jury is required during the sentencing phase to find at least one aggravating circumstance before it may impose death.
+Id.
+at 162-164
+[96 S.Ct. at 2920-21] (reviewing Georgia sentencing scheme);
+Proffitt v. Florida,
+428 U.S. 242
+, 247-250 [
+96 S.Ct. 2960
+, 2964-65,
+49 L.Ed.2d 913
+] (1976) (reviewing Florida sentencing scheme). By doing so, the jury narrows a class of persons eligible for the death penalty according to an objective legislative definition.
+Zant, supra,
+[462 U.S.] at 878 [
+103 S.Ct. at 2743
+] (“[Statutory aggravating circumstances play a constitutionally necessary function at the stage of legislative definition: they circumscribe the class of persons eligible for the death penalty”).
+In
+Zant v. Stephens,
+supra,
+we upheld a sentence of death imposed pursuant to the Georgia capital sentencing statute, under which “the finding of an aggravating circumstance does not play any role in guiding the sentencing body into exercise of its discretion, apart from its function of narrowing the class of persons convicted of murder who are eligible for the death penalty.”
+Id.,
+at 874
+[
+103 S.Ct. at 2741
+], We found no constitutional deficiency in that scheme because the aggravating circumstances did all that the Constitution requires.
+The use of “aggravating circumstances” is not an end in itself, but a means of genuinely narrowing the class of death-eligible persons and thereby channelling the jury’s discretion. We see no reason why this narrowing function may not be performed by jury findings at either the sentencing phase of the trial or the guilt phase. Our opinion in
+Jurek v. Texas,
+428 U.S. 262
+[
+96 S.Ct. 2950
+,
+49 L.Ed.2d 929
+] (1976), establishes this point.
+Id.
+484 U.S. at 244
+, 108 S.Ct. at 554.
+In Virginia, the narrowing is accomplished at the guilt stage under the limited definitions of capital murder in Va.Code Ann. § 18-2-31 and at the sentencing stage under Va.Code Ann. § 19.2-264.2. Since there is narrowing in both phases of the trial, the Constitution does not require an exhaustive definition of an aggravating circumstance.
+Lowenfield
+explains this:
+Here, the “narrowing function” was performed by the jury at the guilt phase when it found the defendant guilty of three counts of murder under the provision that “the offender has a specific intent to kill or to inflict great bodily harm upon more than one person.” The fact that the sentencing jury is also required to find the existence of an aggravating circumstance in addition is no part of the constitutionally required narrowing process, and so the fact that the aggravating circumstance du
+*1374
+plicated one of the elements of the crime does not make this sentence constitutionally infirm.
+484 U.S. at 246
+, 108 S.Ct. at 555.
+Since under Virginia law the “narrowing” is accomplished at both the guilt and sentencing stage, a defendant is given double protection and more than the Constitution requires.
+Our court has found essentially the same charge on vileness not to be unconstitutionally vague.
+See Bunch v. Thompson,
+949 F.2d 1354
+(4th Cir.1991),
+cert. denied,
+— U.S. -,
+112 S.Ct. 3056
+,
+120 L.Ed.2d 922
+(1992), and
+Briley v. Bass,
+750 F.2d 1238
+(4th Cir.1984), ce
+rt. denied,
+470 U.S. 1088
+,
+105 S.Ct. 1855
+,
+85 L.Ed.2d 152
+(1985). We reverse the district court’s holding the jury instruction on vileness to be unconstitutionally vague.
+E.
+We have ruled in Section A hereof that the Virginia Supreme Court did not err in upholding Tuggle’s sentence on the aggravating circumstance of vileness, after it set aside the finding on the aggravating circumstance of future dangerousness. This effectively disposes of the other grounds upon which the district court granted relief: failure of the district court to appoint an independent psychiatrist to assist the defense and in allowing Dr. Arthur Centor to testify about Tuggle’s future dangerousness.
+See Fisher v. Virginia,
+236 Va. 403
+,
+374 S.E.2d 46
+(1988),
+cert. denied,
+490 U.S. 1028
+,
+109 S.Ct. 1766
+,
+104 L.Ed.2d 201
+(1989) and
+Payne v. Virginia,
+233 Va. 460
+,
+357 S.E.2d 500
+(1987),
+cert. denied,
+484 U.S. 933
+,
+108 S.Ct. 308
+,
+98 L.Ed.2d 267
+(1987).
+Future dangerousness is no longer a part of the case and Tuggle’s penalty is now based solely upon his conviction of capital murder with the aggravating circumstance of vileness.
+Having found that the district court was in error in granting the petitioner a writ of habeas corpus, we reverse and remand this case to the district court with instructions to dismiss the petition.
+REVERSED AND REMANDED WITH INSTRUCTIONS.

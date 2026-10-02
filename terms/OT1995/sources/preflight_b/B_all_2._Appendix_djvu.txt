@@ -1,0 +1,1700 @@
+la 
+
+
+PUBLISHED 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+sete, 
+
+
+AMERICAN Lire LeacuE, 
+INCORPORATED; Davin G. P. 
+ENGLEFTELD; Patricia LOHMAN: 
+Geratp Weynes, Reverend: 
+AnToineTTE C, Cleary; PATRICIA 
+Savino, 
+
+Plaintiffs-Appellants, 
+
+
+Vv. 
+
+
+JANET RENO; NATIONAL ABORTION 
+FEDERATION; COMMONWEALTH ; No. 94-1869 
+Women’s Cunic; Caprro. Women’s 
+Center, INcorPorATED; GEORGE 
+Trier, Doctor; Susan WICKLUND, 
+Doctor; NATIONAL ORGANIZATION FOR 
+Women, 
+
+Defendants-Appellees. 
+
+
+AMERICAN Civic Liperties UNton: 
+ACLU FounpaTion oF Vinci, 
+Amici Curiae. 
+
+
+Appeal from the United States District Court 
+for the Eastern District of Virginia, at Alexandria. 
+Leonie M. Brinkema, District Judge. 
+(CA-94-700-A) 
+
+
+Argued: November 3, 1994 
+Decided: February 13, 1995 
+
+
+Before HALL and MICHAEL, Circuit Judges, 
+and CHAPMAN, Senior Circuit Judge. 
+
+
+2a 
+
+
+Affirmed by published opinion. Judge Michael wrote the opinion, in 
+which Judge Hall and Senior Judge Chapman joined. 
+
+
+COUNSEL 
+
+
+ARGUED: Marion Edwyn Harrison, LAW OFFICES OF MARION 
+EDWYN HARRISON, Falls Church, Virginia, for Appellants. Mark 
+L Levy, Civil Division, UNITED STATES DEPARTMENT OF JUS- 
+TICE, Washington, D.C.; Deborah A. Ellis, NOW LEGAL 
+DEFENSE AND EDUCATION FUND, New York, New York, for 
+Appellees. ON BRIEF: Frank W. Hunger, Assistant Attorney Gen- 
+eral, Helen F. Fahey, United States Attomey, Mark B. Stern, Jonathan 
+R. Siegel, Civil Division, Deval L. Patrick, Assistant Atorney Gen- 
+eral, William R. Yeomans, Counsel to the Assistant Attomey General. 
+Civil Rights Division, UNITED STATES DEPARTMENT OF JUS- 
+TICE, Washington, D.C.; Martha F. Davis, NOW LEGAL DEFENSE 
+AND EDUCATION FUND, New York, New York; Catherine Albisa, 
+CENTER FOR REPRODUCTIVE LAW & POLICY, New York, 
+New York, for Appellees. Catherine Weiss, Louise Melling, Karen 
+Leiter, Reproductive Freedom Project, Steven R. Shapiro, AMERI- 
+CAN CIVIL LIBERTIES UNION FOUNDATION, New York, New 
+York; Stephen B. Pershing, AMERICAN CIVIL LIBERTIES 
+UNION FOUNDATION OF VIRGINIA, Richmond, Virginia, for 
+Amici Curiae. 
+
+
+OPINION 
+MICHAEL, Circuit Judge: 
+
+
+Plaintiffs, the American Life League, Inc. and five individuals, all 
+actively opposed to abortion, appeal from a judgment upholding the 
+validity of the Freedom of Access to Clinic Entrances Act of 1994 
+(the Access Act or Act), Pub. L. No. 103-259, 108 Stat. 694 (1994) 
+(to be codified at 18 U.S.C. § 248). We affirm. 
+
+
+In affirming we first conclude that the Access Act is within the 
+commerce power of Congress and that congressional action here was 
+
+
+t 
+¢ 
+P 
+
+
+3a 
+
+
+picketing), we examine it under the First Amendment. Because we 
+find that the Act is content and viewpoint neutral, we subject it to 
+
+
+expression, and that it is narrowly tailored. We also conclude that the 
+Act is neither overbroad nor vague. The Act's liquidated damages 
+Provision also withstands the First Amendment challenge. Third, we 
+conclude that the Act does not violate the First Amendment’s Free 
+
+
+42 U.S.C. §§ 2000bb to 2000bb-4. 
+
+
+States District Court for the Eastern District of Virginia. 
+
+
+Plaintiffs allege the following in their second amended complaint. 
+Plaintiff American Life League, Inc. (ALL) conducts educational and 
+legislative activities "relating to the human rights of persons born and 
+unborn." The five individual plaintiffs, Antoinette C. Cleary, David 
+G. P. Englefield, Patricia Lohman, Patricia Savino and the Reverend 
+
+
+some ALL members have "demonstrated, prayed and sidewalk- 
+counseled within the vicinity of abortion clinics." Plaintiffs’ activities 
+
+
+Plaintiffs also allege that their continuing anti-abortion activities 
+put them in jeopardy of violating the Access Act. They claim that the 
+Act, by outlawing their activities, violates the Constitution and 
+RFRA. 
+
+
+—_—_—__ooo ee 
+
+
+4a 
+
+
+Plaintiffs brought this action against Janet Reno, Attomey General 
+of the United States. The district court allowed five additional defen- 
+dants to intervene: the National Abortion Federation; the National 
+Organization for Women; Commonwealth Women’s Clinic and Capi- 
+tol Women’s Center, two reproductive health clinics that provide 
+counseling, birth control advice, contraceptives, medicine, pre-natal 
+care and abortions; and Dr. George Tiller and Dr. Susan Wickland, 
+two physicians who perform abortions. The district court accepted (as 
+did we) an amicus brief from the American Civil Liberties Union and 
+the ACLU Foundation of Virginia. 
+
+
+On June 1, 1994, five days after the complaint was filed, the Attor- 
+ney General filed a motion to dismiss under Federal Rule of Civil 
+Procedure 12(b)(6). The district court acted with dispatch, holding a 
+hearing on June 10, 1994, and issuing an opinion and order dismiss- 
+ing the second amended complaint with prejudice on June 16, 1994. 
+See American Life League, Inc. v. Reno, 855 F. Supp. 137 (E.D. Va. 
+1994). Plaintiffs now appeal that order. 
+
+
+I. 
+
+
+Congress passed the Access Act in response to protracted and 
+nationwide violence and access obstruction at facilities providing 
+abortions. Between 1977 and early 1993, more than 1,000 acts of vio- : 
+lence against abortion providers and more than 6,000 clinic blockades i 
+were reported in the United States. S. Rep. 117, 103d Cong. Ist Sess. 
+31 (1993); H. R. Rep. No. 306, 103d Cong. 2d Sess. 6-7 (1993) 5 
+reprinted in 1994 U.S.C.C.A.N. 699, 703. These acts included at 
+least 36 bombings, 81 arsons, 131 death threats, 84 assaults, two kid- E 
+nappings, 327 clinic invasions, and one murder." /d. Congress con- 
+cluded that state and local law enforcement agencies were often : 
+unable and sometimes unwilling to protect the patients and staffs of : 
+these clinics from violence and severe disruption. S. Rep. No. 117 at 5 
+5, 18-21; H. R. Rep. No. 306 at 10. 
+
+
+The Access Act aims to protect and promote public safety and 
+health "by establishing Federal criminal penalties and civil remedies i 
+for certain violent, threatening, obstructive and destructive conduct : 
+
+
+that is intended to injure, intimidate or interfere with persons seeking 
+
+
+Se 
+
+
+da 
+
+
+to obtain or provide reproductive health services." Act, § 2. To that 
+end the Act provides criminal and civil penalties against anyone who: 
+
+
+(1) by force or threat of force or by physical obstruc- 
+
+
+(3) intentionally damages or destroys the Property of a 
+facility, or attempts to do SO, because such facility provides 
+reproductive health services . ees 
+
+
+Act, § 3(a).' 
+
+
+The Access Act defines its key terms. Act, § 3(e). The term "inte;- 
+fere with" means "to restrict a person’s freedom of movement." "Tn- 
+timidate" means "to place a person in reasonable apprehension of 
+bodily harm to him- or herself or to another." "Physical obstruction" 
+means "rendering impassable ingress to or egress from a facility that 
+Provides reproductive health Services ..., or rendering passage to or 
+from such a facility . . . unreasonably difficult or hazardous." "Repro- 
+ductive health services" means "reproductive health services provided 
+in a hospital, clinic, Physician’s office, or other facility, and includes 
+medical, surgical, counselling or referral services relating to the 
+human reproductive System, including services relating to pregnancy 
+or the termination of a pregnancy." 
+
+
+The Act also provides a tule of construction: "[nJothing in this sec- 
+tion shall be construed — (1) to prohibit any expressive conduct 
+(including peaceful picketing or other peaceful demonstration) pro- 
+
+
+"The Act also Prohibits the same activities if directed at (i) any person 
+lawfully exercising or seeking to exercise the right of religious freedom 
+at a place of religious worship or (ii) the Property of a place of religious 
+worship. Act, § 3(a). Those portions of the Act are not at issue ir this 
+
+ase. 
+
+
+6a 
+
+
+tected from legal prohibition by the First Amendment to the Constitu- 
+tion." Act, § 3(d). 
+
+
+The criminal penalties prescribed by the Act vary with the nature 
+of the violation. For example, a first offense involving only a nonvio- 
+lent physical obstruction carries a penalty of imprisonment for not 
+more than six months or a fine of not more than $10,000. An offense 
+resulting in death carries a penalty of imprisonment for any term of 
+years or for life. Act, § 3(b). 
+
+
+The civil remedies prescribed by the Act include injunctive relief, 
+compensatory or statutory damages ($5,000 per violation), punitive 
+damages, and costs and fees. Act, § 3(c). These civil remedies are 
+available to any person injured in providing or obtaining services at 
+a reproductive health facility. Finally, the Act also authorizes civil 
+actions by the Attorney General of the United States or any State 
+Attomey General. /d. 
+
+
+We tum now wo plaintiffs’ several challenges to the Act. 
+Il. 
+A. 
+
+
+As a threshold matter plaintiffs argue that Congress lacks the 
+power to pass the Access Act. The Act identifies the Commerce 
+Clause and section 5 of the Fourteenth Amendment as the sources of 
+congressional power in this instance. Act, § 2. We conclude that the 
+commerce power permits Congress to regulate activities affecting 
+reproductive health services. As a result, we need not reach plaintiffs’ 
+argument that section 5 of the Fourteenth Amendment does not pro- 
+vide Congress with authority. 
+
+
+A federal statute is valid under the Commerce Clause if Congress 
+(1) rationally concluded that the regulated activity affects interstate 
+commerce and (2) chose a regulatory means reasonably adapted to a 
+permissible end. Hodel v. Virginia Surface Mining & Recl. Ass'n, 452 
+U.S. 264, 276 (1981). 
+
+
+7a 
+
+
+health facilities engage doctors and other staff in an interstne market. 
+For example, Dr. David Gunn, who was murdered in Florida in 1993, 
+
+
+that interstate commerce was threatened. S. Rep. No. 117 at 31; H.R. 
+Rep. No. 306 at 8-9. 
+
+
+tional right to choose an abortion, (4) Protecting the safety of repro- 
+ductive health care Providers, and (5) protecting reproductive health 
+care facilities from physical destruction and damage. 
+
+
+Together, these findings, these means and these objectives are 
+more than ample to justify Congress's invocation of the commerce 
+power. See Heart of Atlanta Motel, Inc. v. United States, 379 U.S. 241 
+(1964); Katzenbach y. McClung, 379 U.S. 294 (1964), 
+
+
+In a final, brief subpoint under their argument that "there is no con- 
+Stitutional authority for [the Access Act]," plaintiffs urge us to reject 
+
+
+8a 
+
+
+the Act as an unwarranted "incursion upon federalism and the federal 
+judiciary." Brief for Appellants at 39, 44. First, plaintiffs suggest that 
+any public safety problems at reproductive health facilities should be 
+handled under existing state laws. Second, they express concem that 
+the Access Act gives federal courts "undue jurisdiction" and will add 
+a flood of new cases tw already crowded federal dockets. We must 
+reject these arguments. Congress, not the courts, determines the need 
+for new federal laws. And Congress, subject only to Article III of the 
+Constitution, establishes the jurisdiction of the inferior federal courts. 
+See, e.g., Kline v. Burke Constr. Co., 260 U.S. 226, 233-34 (1922); 
+Sheldon v. Sill, 49 U.S. (8 How.) 441, 448 (1850). 
+
+
+IV. 
+A. 
+
+
+The Constitution ordains that "Congress shall make no law... 
+abridging the freedom of speech." U.S. Const. amend L. Plaintiffs 
+claim that the Access Act abridges this freedom. 
+
+
+We begin our consideration of plaintiffs’ freedom of speech claims 
+by repeating the elements of a basic offense under the Act. A violator 
+must (1) "by force or threat of force or by physical obstruction,” (2) 
+“intentionally injure[ }, intimidate[ }, or interfere[ ] . . . with any per- 
+son," (3) "because that person [the victim] is . . . obtaining or provid- 
+ing reproductive health services." Act, § 3a). 
+
+
+The government's first defense is that the Act does not implicate 
+the First Amendment at all; rather, it regulates conduct that is outside 
+the First Amendment. According to the government, the Act leaves 
+plaintiffs free to engage in any form of protected speech they choose. 
+
+
+In many respects the government is correct. The Access Act does 
+not prohibit protestors from praying, chanting, counseling, carrying 
+signs, distributing handbills or otherwise expressing opposition to 
+abortion, so long as these activities are carried out in a non-violent, 
+non-obstructive manner. What the Act does prohibit is force, the 
+threat of force and physical obstruction intended to deprive someone 
+of the lawful right to use or provide reproductive health services. 
+
+
+EE a 
+
+
+9a 
+
+
+The use of force or violence is outside the scope of First Amend- 
+ment protection. Wisconsin v. Mitchell, 113 S$. Ct. 2194, 2199 (1993) 
+("a physical assault is not by any stretch of the imagination expressive 
+conduct protected by the First Amendment"). True threats of force 
+also lie outside the First Amendment. Watts v. United States, 394 U.S. 
+705, 707 (1969) (holding that "[wJhat is a threat must be distin- 
+guished from what is constitutionally protected speech"); see R.A.V. 
+v. City of St. Paul, 112 S. Ct. 2538, 2546-47 (1992). Finally, certain 
+physical obstructions, such as a blockade of pedestrian traffic, are not 
+protected by the First Amendment. See Cameron y. Johnson, 390 U.S. 
+611, 617 (1968) (holding that a statute which prohibited unreasonable 
+interference with access to a courthouse was a "valid law... and the 
+fact that free speech is intermingled with such conduct does not bring 
+with it constitutional protection"). 
+
+
+Thus, the Act does target unprotected activities. But the Act cannot 
+escape First Amendment scrutiny entirely. The Act might incidentally 
+affect some conduct with protected expressive elements, such as 
+peaceful but obstructive picketing. The right to peaceful protest lies 
+near the heart of the freedom of speech. Accordingly, we examine the 
+Act under the First Amendment. 
+
+
+The first step in our First Amendment inquiry is to determine 
+whether the Act is content and viewpoint neutral. Plaintiffs argue that 
+the Act is a content- or viewpoint-based restriction because it outlaws 
+conduct for its anti-abortion message. If plaintiffs are correct, then we 
+Subject the Act to strict scrutiny. To pass this test a law must be nec- 
+essary to serve compelling governmental interests by the least restric- 
+tive means available. See, ¢.g., RA.V.,.112 S. Ct. at 2549-50 (1992); 
+Burson v. Freeman, 112 S. Ct. 1846, 1851 (1992) (plurality). If plain- 
+tiffs are incorrect, if the Act is content and viewpoint neutral, then we 
+subject it to intermediate scrutiny. To pass this test a law must be nar- 
+rowly tailored to serve substantial governmental interests. See, e.g., 
+Ward v. Rock Against Racism, 491 U.S. 781, 791 (1989); Clark v. 
+Cammunity for Creative Non-Violence, 468 U.S. 288, 293 (1984). 
+
+
+The neutrality inquiry does not focus on the motive of the violator. 
+Rather, a statute regulating expressive conduct is neutral if it is justi- 
+
+
+10a 
+
+
+fied without reference to the content of the violator’s message or 
+point of view. Madsen v. Women's Health Center, Inc., 114 S. Ct 
+2516, 2523-24 (1994); Ward, 491 U.S. at 791. Congress’s purpose is 
+the main consideration. /d. 
+
+
+The Access Act identifies its purpose in plain language: 
+
+
+the purpose of this Act [is] to protect and promote public 
+safety and health and activities affecting interstate com- 
+merce by establishing Federal criminal penalties and civil 
+remedies for certain violent, threatening, obstructive and 
+destructive conduct that is intended to injure, intimidate, or 
+interfere with persons seeking to obtain or provide reproduc- 
+tive health services. 
+
+
+Act, § 2. The Act also includes rules of construction: 
+Nothing in this section shall be constued— 
+
+
+(1) to prohibit any expressive conduct (including peaceful 
+picketing or other peaceful demonstration) protected from 
+legal prohibition by the First Amendment to the Constitu- 
+uon; 
+
+
+(2) to create any new remedies for interference with activi- 
+ties protected by the free speech or free exercise clauses of 
+the First Amendment to the Constitution, occurring outside 
+a facility, regardless of the point of view expressed... . 
+
+
+Act, § 3(d). Together, the Act’s statement of purpose and rules of 
+construction indicate that the Act was not passed to outlaw conduct 
+because it expresses an idea. Instead, Congress passed the Act to pro- 
+mote public safety and health and to protect interstate commerce from 
+disruption. 
+
+
+Plaintiffs insist that these lofty statements of purpose and construc- 
+tion are subterfuge. They say Congress really intended to "suppress 
+only the anti-abortion side of a fierce national debate." Brief for 
+Appellants at 8. This argument ignores the Act’s substantive provi- 
+
+
+lla 
+
+
+sions. These unambiguous provisions do not target any message based 
+on content or viewpoint. 
+
+
+The Act protects reproductive health services and those who use 
+and provide them. Reproductive health services embrace "medical, 
+surgical, counseling, or referral services relating to the human 
+ductive system." Act, § 3(e). The Act thus protects access to all repro- 
+ductive health services, including both abortion and services 
+connected with carrying a fetus to term. It applies, for example, to 
+facilities opposing abortion and to facilities offering pregnant women 
+counseling about alternatives to abortion. For example, AAA Women 
+for Choice, Inc., a facility run by plaintiff Patricia Lohman, would be 
+protected. AAA Women for Choice offers "counsel, comfort and 
+alternatives other than abortion to pregnant women." Second 
+Amended Complaint at 4 6. 
+
+
+Moreover, the Act punishes anyone who engages in the prohibited 
+conduct. For example, anyone who, with the requisite intent, blocks 
+a person from entering a facility to obtain or provide reproductive 
+health services violates the Act. The viewpoint of the obstructer is 
+irrelevant. The Act forbids the obstructive conduct not because of the 
+content of any message that conduct might convey, but because of its 
+harmful effects. 
+
+
+Plaintiffs press on and say that the Act’s apparent neutrality is not 
+enough. They charge that the inclusion of protection for anti-abortion 
+Services is a ruse to make the Act look neutral. In reality, they argue, 
+the Act aims to suppress the anti-abortion movement. They note that 
+one is a wrongdoer under the Act only when he commits the pro- 
+scribed conduct because the victim is obtaining or providing repro- 
+ductive health services. The "because" element is the Act’s Achilles’s 
+heel, according to plaintiffs. They Say only people who oppose abor- 
+tion will be punished under the Act: those who protest at reproductive 
+health facilities for reasons unrelated to the abortion issue will never 
+violate the law. As examples, plaintiffs Say those protesting at clinics 
+on labor and environmental issues would not violate the Act. On this 
+basis plaintiffs conclude that the Act is aimed at their motives for pro- 
+testing and thus at their message and its viewpoint. 
+
+
+This lack-of-neutrality argument overlooks the distinction between 
+what the Act does and does not regulate. Again, the Act does not pro- 
+
+
+12a 
+
+
+hibit peaceful protestors from praying, chanting, counseling, carrying 
+signs, distributing handbills, or otherwise expressing their opposition 
+to abortion. What the Act does prohibit is force, the threat of force, 
+and physical obstruction, when carried out because a person is using 
+or providing reproductive health services. The "because" or motive 
+element does not render the Act content or viewpoint based. As we 
+explain below, the Act’s motive requirement simply narrows its 
+reach, and this narrowing is within congressional prerogative. 
+
+
+In Wisconsin v. Mitchell, 113 S. Ct. 2194 (1993), the Supreme 
+Court upheld a Wisconsin law that enhanced the sentence for the 
+crime of aggravated battery when the defendant intentionally selected 
+his victim because of the victim's race. Just like plaintiffs here, the 
+defendant argued that he was being punished for his motive for act- 
+ing. The unanimous Supreme Court rejected that argument, saying 
+{motive plays the same role under the Wisconsin statute as it does 
+under the federal and state anti-discrimination laws, which we have 
+previously upheld against constitutional challenge." Jd. at 2200. The 
+Court reasoned that "the penalty-enhancement statute [was] aimed at 
+conduct unprotected by the First Amendment." Jd at 2201. Thus, 
+Wisconsin’s statute did not target conduct on the basis of its expres- 
+sive elements. Mitchell’s conclusion was consistent with the Supreme 
+Court’s prior recognition that "where government does not target con- 
+duct on the basis of its expressive content, acts are not shielded from 
+regulation merely because they express a discriminatory idea or phi- 
+losophy." R.A.V. v. City of St. Paul, 112 S. Ct. 2538, 2546-47 (1992). 
+
+
+As the Supreme Court observed in both Mitchell and R.A.V., the 
+distinction between targeting the expressive elements of conduct and 
+targeting the proscribable elements of conduct undergirds many fed- 
+eral laws. For example, Title VII includes a motive requirement. Title 
+VO makes it unlawful for an employer to discriminate against an 
+employee "because of such individual’s race, color, religion, sex, or 
+national origin." 42 U.S.C. § 2000e-2(a)(1) (emphasis added). The 
+Supreme Court has held that Title VII does not infringe an employer’s 
+First Amendment rights. Hishon v. King & Spalding, 467 U.S. 69, 78 
+(1984). Another example is a provision in the Fair Housing Act that 
+prohibits using force or the threat of force to injure, intimidate, or 
+interfere with a person "because" he is participating in certain housing 
+programs. 42 U.S.C. § 3631 (emphasis added). That provision, 
+
+
+13a 
+
+
+despite its motive requirement, has been upheld as a content- and 
+viewpoint-neutral regulation. United States v. Hayward, 6 F.3d 1241, 
+1249-51 (7th Cir. 1993), cert. denied, 114 S. Ct. 1369 (1994); United 
+States v. Gilbert, 813 F.2d 1523, 1529-31 (9th Cir.), cert. denied, 484 
+U.S. 860 (1987).? 
+
+
+Thus, Congress may enact laws to Punish proscribable conduct 
+even though the conduct is motivated by certain biases or beliefs. 
+More important for this case, Congress can exercise its prerogative to 
+Single out and address "conduct thought to inflict greater individual 
+and societal harm" by using a motive requirement to narrow the reach 
+of a law. Mitchell, 113 S. Ct. at 2201; see FCC v. Beach Communica- 
+tions, Inc., 113 S. Ct. 2096, 2102-03 (1993). Indeed, in passing the 
+Access Act Congress determined that intentional interference with 
+access tO reproductive health services is more damaging to federal 
+interests than activity that affects such access only incidentally, e.g., 
+labor or environmental protesting. We repeat, Congress may choose 
+to legislate only against actions it considers to be more serious. More- 
+Over, a Statute is not rendered non-neutral simply because one 
+ideologically defined group is more likely to engage in the proscribed 
+conduct. See United States y. O’Brien, 391 U.S. 367 (1968) (uphold- 
+ing a statutory prohibition on burning draft cards despite the fact that 
+most violators would likely oppose the Viemam War). 
+
+
+For these reasons, we find that the Access Act is content and view- 
+point neutral. The Act is justified without reference to the violator’s 
+viewpoint or the content of his message. Therefore, we subject the 
+Act to intermediate scrutiny. 
+
+
+threat of force [to] willfully injure }, intimidate{ }, or interfere{ ] with 
+
+
+. - for the purpose of interfering with" a person's right to vote) (empha- 
+Sis added). 
+
+
+l4a 
+S. 
+
+
+Intermediate scrutiny is required when a statute potentially regu- 
+lates conduct that has protected expressive elements. The intermediate 
+scrutiny test was first enunciated by the Supreme Court in O’Brien. 
+
+
+O’Brien was convicted under a federal statute which made it a 
+crime to destroy a draft card knowingly. In the Supreme Court 
+O’Brien argued that his "act of burning his (draft card] was protected 
+‘symbolic speech’ within the First Amendment." O’Brien, 391 U.S. 
+at 376. The Supreme Court upheld the conviction, noting that Con- 
+gress could regulate conduct that has an expressive element, given 
+sufficient justification: 
+
+
+even on the assumption that the alleged communicative ele- 
+ment in O’Brien’s conduct is sufficient to bring into play the 
+First Amendment, it does not necessarily follow that the 
+destruction of a [draft card] is constitutionally protected 
+activity. This Court has held that when "speech" and "non- 
+speech" elements are combined in the same course of con- 
+duct, a sufficiently important governmental interest in 
+regulating the nonspeech element can justify incidental limi- 
+tations on First Amendment freedoms. 
+
+
+Id. The Court then laid down a test for reviewing a statute, such as 
+the Access Act, that may incidentally affect speech as it regulates 
+conduct. Under O’Brien’s test such a statute passes constitutional 
+muster “if it [1] furthers an important or substantial governmental 
+interest; if [2] the governmental interest is unrelated to the suppres- 
+sion of free expression; and if [3] the incidental restriction on alleged 
+First Amendment freedoms is no greater than is essential to the fur- 
+therance of that interest." /d. at 377. 
+
+
+1. 
+O’Brien’s first prong asks whether the Act furthers important or 
+
+
+substantial government interests. For easier discussion we group the 
+several interests suggested by the government. 
+
+
+15a 
+
+
+One group relates to protecting public health, safety and com- 
+merce. This interest includes Protecting patients and staff from vio- 
+lence and harm and protecting reproductive health facilities from 
+physical destruction or damage. It also includes protecting interstate 
+patient traffic and the interstate market for the services of doctors, 
+nurses, Counselors, and other staff. 
+
+
+A second group of interests relates to protecting women and men 
+from violence and threats in the exercise of their rights. The Supreme 
+Court has recognized that goverment "has a Strong interest in pro- 
+tecting a woman's freedom to seek lawful medical or counseling ser- 
+vices in connection with her pregnancy." Madsen v. Women’s Health 
+Center, Inc., 114 S. Ct. 2516, 2526 ( 1994). This freedom includes the 
+constitutional right to terminate a pregnancy. See Roe v. Wade, 410 
+U.S. 113 (1973); Planned Parenthood v. Casey, 112 S. Ct. 2791 
+(1992). Also, both women and men have the constitutional right to 
+obtain and use contraceptives. See Eisenstadt v. Baird, 405 U.S. 438, 
+440, 446 (1972); Casey, 112 S. Ct. at 2807. They should be able to 
+use reproductive health facilities to exercise this right. 
+
+
+Together, or separately, these interests are significant. The govern- 
+ment has a substantial interest in acting tO protect them, as Congress 
+did by passing the Access Act. 
+
+
+p 
+
+
+O’Brien next asks whether the government's interests relate to sup- 
+pressing free expression. This analysis is essentially the same as the 
+content- and viewpoint-neutrality test we applied earlier. See IV.B., 
+supra. We concluded that the Act was justified without reference to 
+the message or viewpoint of anyone who might violate it. Relying on 
+the Act’s plain language, we also noted that its purpose was not 
+related to suppressing expression. Instead, we found that the Act out- 
+lawed certain actions because of their harmful effects. We next 
+‘Tejected plaintiffs’ contention that the Act’s avowed purpose shrouded 
+an illicit purpose. We believe this analysis is sufficient for the Act to 
+pass the second prong of the O’Brien test? 
+
+
+*We add a comment here about the-government’s acknowledgment 
+that "the national campaign of violent and obstructive pro-life protests 
+
+
+16a 
+3. 
+
+
+Under O'Brien's third prong we consider whether the incidental 
+restriction on alleged First Amendment freedoms is no greater than 
+required to meet the government’s interests. This has been interpreted 
+as a requirement for "narrow tailoring." Ward v. Rock Against 
+Racism, 491 U.S. 781, 799 (1989). The statute must not "burden sub- 
+stantially more speech than is necessary to further the government's 
+legitimate interests." /d. 
+
+
+The Act meets this standard. Much of the conduct (force and vio- 
+lence) outlawed under the Act lacks any protected expressive element 
+at all. Of course, peaceful but obstructive protesting, which plaintiffs 
+argue has expressive elements, could run afoul of the Act. For ex- 
+ample, protesters blocking a clinic door as they pray might violate the 
+Act's prohibition on physical obstruction. However, such a violation 
+would be simply a consequence of the government's lawful aim to 
+protect access to reproductive health services. And the Act proscribes 
+no more expressive conduct than necessary to protect safe and reliable 
+access to reproductive health services. After all, the Act leaves open 
+ample alternative means for communication. In a non-violent, non- 
+obstructive manner, protestors may still stand outside reproductive 
+health facilities and express their anti-abortion message. They may 
+still proclaim their views and make their pleas by voice, signs, hand- 
+bills. symbolic gestures and other expressive means.‘ 
+
+
+2 
+
+
+In sum, the Access Act serves substantial government interests 
+such as preventing violence, preserving public access to reproductive 
+health services, and protecting citizens in their exercise of constitu- 
+
+
+was the catalyst that led to passage of the Act." Brief for Appellee United 
+States at 22 n.7. This acknowledgment does not mean that Congress 
+acted to curb protected expression. Protecting reproductive health facili- 
+ties, patients, and providers is a legal purpose, unrelated to suppressing 
+free expression. 
+
+‘Our conclusion that the Act is narrowly tailored is also supported by 
+the reasoning that compels us not to apply the overbreadth doctrine. See 
+1V.D., infra. 
+
+
+17a 
+
+
+tional rights. It is not aimed at expression, and it is narrowly tailored. 
+It passes O’ Brien’s test. 
+
+
+D. 
+
+
+Plaintiffs next assert that the Act is unconstitutionally overbroad 
+and vague. They claim that "[{t}housands of persons who daily engage 
+in peaceful activities around abortion clinics now risk arrest [and] 
+prosecution" for exercising their First Amendment rights. Brief for 
+Appellants at 29. They specifically point to "sign-carrying . . . and 
+rosary-Carrying processions outside clinics." /d. at 28. Plaintiffs’ argu- 
+ment is this: the Act’s alleged overbreadth and vagueness will have 
+a "chilling effect" on such activities. 
+
+
+As for overbreadth, "{ojnly a statute that is substantially overbroad 
+may be invalidated on its face." Houston y. Hill, 482 U.S. 451, 458 
+(1987) (citations omitted). Such an invalid Statute proscribes so much 
+protected speech that it must be struck down entirely. Accordingly, 
+the overbreadth doctrine is "strong medicine" to be applied "sparingly 
+and only as a last resort." Broadrick v, Oklahoma, 413 U.S. 601, 613 
+
+
+expression, such as peaceful picketing, that picketing would be pro- 
+hibited only in the most narrow and justifiable circumstances. Under 
+the Act. "physical obstruction" involves intentionally "Tendering 
+impassable ingress or egress from a facility . . . or rendering passage 
+to or from such a facility . . . unreasonably difficult or hazardous." 
+Act, § 3(e)(4). Thus, it is difficult to see how the Act is substantially 
+overbroad in relation to its legitimate scope of Outlawing violence and 
+barriers to access. 
+
+
+The vagueness doctrine is concemed with clarity. A statute is 
+unconstitutionally vague if it does not give a "person of ordinary 
+intelligence a reasonable Opportunity to know what is prohibited 
+- . « «" Grayned v. City of Rockford, 408 U.S. 104, 108 (1972). The 
+vagueness doctrine protects both free speech and due process values. 
+
+
+The Access Act’s anti-obstruction Provisions closely resemble a 
+Statute the Supreme Court upheld against a vagueness challenge in 
+Cameron v. Johnson, 390 U.S. 611 (1968). In Cameron arrested civil 
+
+
+18a 
+
+
+rights protestors challenged Mississippi's Anti-Picketing Law, which 
+provided: 
+
+
+1. It shall be unlawful for any person, singly or in con- 
+cert with others, to engage in picketing or mass demonstra- 
+tions in such a manner as to obstruct or unreasonably 
+interfere with free ingress or egress to and from any public 
+premises .... 
+
+
+Id. at 613. The Supreme Court rejected the vagueness challenge on 
+the grounds that the terms "obstruct," "unreasonably" and "interfere 
+with" were perfectly clear, widely used, and well understood. Accord- 
+ing to the Court, the statute "precisely delineates its reach in words 
+of common understanding." /d. at 616. 
+
+
+Like the Anti-Picketing Law upheld in Cameron, the Act here 
+speaks in clear, common words. Moreover, the Act goes beyond the 
+statute in Cameron by defining many of its terms. The Act defines 
+"interfere with" to mean "restrict a person’s freedom of movement." 
+Act, § 3(e)(2). It defines "intimidate" to mean "place a person in rea- 
+sonable apprehension of bodily harm... ." Act, § 3(¢)(3). These and 
+other narrowing definitions in the Act should inform those opposed 
+to abortion that they will not offend this law by peaceful, non- 
+obstructive picketing. 
+
+
+We conclude that the Access Act is neither overbroad nor vague. 
+E. 
+
+
+Plaintiffs’ final freedom of expression challenge to the Access Act 
+concerns a civil damage provision. The Act authorizes injured persons 
+to file private actions, and it permits them to elect to recover $5,000 
+per violation in lieu of actual damages. Act, § 3(c). Plaintiffs claim 
+that this damage provision is unconstitutional under NAACP v. Clai- 
+borne Hardware Co., 458 U.S. 886 (1982). 
+
+
+Specifically, plaintiffs say that under Claiborne Hardware only 
+actual damages caused by unprotected conduct may be recovered. But 
+that is not what Claiborne Hardware says. Claiborne Hardware 
+
+
+19a 
+
+
+involved a money judgment imposing joint and several liability 
+against ninety-two participants in a mass boycott of white-owned 
+businesses. The Supreme Court addressed whether all members of the 
+group could be held liable for the violent acts of a few. "Civil liability 
+may not be imposed merely because an individual belonged to a 
+group,” the Court said. /d. at 920. The Court did not consider what 
+the constitutional measure of damages might be after a defendant was 
+found liable for an unprotected act. 
+
+
+The Act here does not subject anyone to damages caused by pro- 
+tected expression. It does subject violators to limited liquidated dam- 
+ages for unprotected conduct. We know of no tule prohibiting a 
+_ liquidated damages provision that may in a particular case impose 
+more than actual damages for unprotected activity.® 
+
+
+V. 
+
+
+Plainuffs’ last claims concem protections afforded religion. Specif- 
+ically, they argue that the Access Act offends the First Amendment’s 
+Free Exercise Clause and the Religious Freedom Restoration Act of 
+1993 (RFRA), 42 U.S.C. §§ 2000bb to 2000bb-4. 
+
+
+A. 
+
+
+The Free Exercise Clause provides that "Congress shall make no 
+law . . . prohibiting the free exercise" of religion. U.S. Const. amend. 
+I. The clause forbids government from adopting laws designed to sup- 
+press religious belief or practice. Church of Lukumi Babalu Aye, Inc. 
+v. Hialeah, 113 S. Ct. 2217, 2222 (1993). However, a neutral, gener- 
+ally applicable law does not offend the Free Exercise Clause, even if 
+the law has an incidental effect on religious practice. Employment 
+Div., Dept. of Human Resources v. Smith, 494 U.S. 872, 878-79 
+(1990). 
+
+
+Relying on Church of Lukumi Babalu Aye, plaintiffs claim that the 
+Access Act violates the Free Exercise Clause. They say it aims to 
+
+
+‘The reasonableness of the amount ($5,000) of the liquidated damages 
+per violation is not at issue here. 
+
+
+20a 
+
+
+restrict nonviolent protest because of the protestors’ religious motiva- 
+_ tion. In Church of Lukumi Babalu Aye the Supreme Court examined 
+city ordinances aimed at suppressing the Santeria religion. The ordi- 
+nances prohibited ritual animal slaughter, a Santeria religious prac- 
+tice. The ordinances carefully outlawed only animal sacrifice and the 
+possession of animals for sacrificial purposes. They did not outlaw 
+hunting, fishing, or the killing of animals for food. In short, the ordi- 
+nances accomplished a religious gerrymander. They singled out reli- 
+gious practices for discriminatory treatment. The Supreme Court 
+subjected the ordinances to the same level of exacting (strict) scrutiny 
+it applies to content-based restrictions on speech. Church of Lukumi 
+Babalu Aye, 113 S. Ct. at 2233-34. The ordinances were held uncon- 
+stitutional. : 
+
+
+By contrast, the Access Act punishes conduct for the harm it 
+causes, not because the conduct is religiously motivated. See [V.B., 
+supra. By necessity, then, the Act does not punish religious belief. It 
+proscribes violent, forceful or threatening conduct without regard to 
+expressive content or viewpoint. See [V.B., supra. Under the Act it 
+makes no difference whether a violator acts on the basis of religious 
+conviction or temporal views. The same conduct is outlawed for all. 
+Therefore, the Act is a generally applicable law, neutral toward reli- 
+gion. It does not offend the First Amendment’s Free Exercise Clause. 
+
+
+The Religious Freedom Restoration Act (RFRA) mandates that 
+government shall not "substantially burden a person’s exercise of reli- 
+gion" unless the government demonstrates that the burden furthers a 
+"compelling governmental interest" by the "least restrictive means." 
+42 U.S.C. § 2000bb-1. 
+
+
+The Access Act and RFRA were passed by the same Congress, but 
+RFRA was passed first. RFRA’s rule of construction says that federal 
+statutes enacted after RFRA are subject to its provisions unless the 
+later statute "explicitly excludes [RFRA’s] application by reference to 
+{the RFRA statute]." /d. at § 2000bb-3(b). The Access Act does not 
+exclude RFRA’s application, so we examine plaintiffs’ claim that the 
+Access Act violates RFRA. 
+
+
+ee 
+
+
+2la 
+
+
+The threshold inquiry under RFRA concems burden. If a statute 
+does not substantially burden a religious practice, then the statute 
+does not implicate RFRA. 
+
+
+Plaintiffs’ complaint alleges that they do not "condone . . . non- 
+peaceable or violent conduct." Accordingly, a proscription on vio- 
+lence and force cannot substantially burden their religious exercise. 
+However, plaintiffs’ complaint also alleges that their opposition to 
+abortion (on religious grounds) requires them to obstruct physically, 
+through peaceful picketing, access to clinics Offering abortion ser- 
+vices. We will assume that this allegation, coupled with plaintiffs’ 
+assertion that the Access Act violates their RFRA rights, satisfies 
+their obligation to plead a substantial burden on their religious exer- 
+cise. See Fed. R. Civ. P. 8. This requires us to move to RFRA’s next 
+level: an examination of whether the alleged substantial burden 
+imposed by the Access Act furthers a "compelling governmental 
+interest" by the "least restrictive means" available. 
+
+
+We begin with some background. Congress passed RFRA as a 
+response to Employment Div., Dep't of Human Resources v. Smith, 
+494 U.S. 872 (1989). The "findings" section of RFRA states that 
+Smith "virtually eliminated the requirement that government justify 
+burdens on religious exercise imposed by laws neutral toward reli- 
+gion." 42 U.S.C. § 2000bb(a). The "purpose" section adds that RFRA 
+aims "to restore the compelling interest test a set forth in Sherbert 
+v. Verner, 374 U.S. 398 (1963), and Wisconsin y. Yoder, 406 U.S. 205 
+(1972)." Id. at § 2000bb(b).* 
+
+
+*RFRA contemplates that courts will rely on cases decided prior to 
+Smith when applying the statute's compelling interest standard. See 42 
+U.S.C. § 2000bb(a)(5) (finding that the “compelling interest test as set 
+forth in prior Federal court rulings [prior to Smith] is a workable test'' ; 
+S. Rep. 111, 103d Cong. ist. Sess. 8 reprinted in 1993 U.S.C.C.A.N. 
+1892, 1898 (noting that the "committee expects that courts will look to 
+free exercise cases decided prior to Smith for guidance"); id. at 9 (stating 
+that "the compelling interest generally should not be construed more 
+stringently or more leniently than it was Prior to Smith") (foomote omit- 
+ted). 
+
+
+22a 
+
+
+In Sherbert South Carolina denied unemployment benefits to a 
+Seventh-day Adventist fired for refusing to work on her Sabbath. The 
+Supreme Court reversed. It found uncompelling South Carolina's 
+asserted interest in deterring “unscrupulous claimants feigning reli- 
+gious objections to Saturday work." Sherbert, 374 U.S. at 407. In 
+Yoder Wisconsin convicted three Amish parents for refusing to send 
+their children to school beyond the eighth grade. Wisconsin's highest 
+court reversed the convictions, and that result stood in the United 
+States Supreme Court. Wisconsin's asserted interest of preparing self- 
+reliant citizens for participation in society was rejected as uncompel- 
+ling by the Supreme Court. The Amish had introduced convincing 
+evidence that accommodating their religious objections by excusing 
+a year or two of compulsory schooling would not impair the physical 
+or mental health of the children or undermine their ability to be self- 
+supporting and good citizens. Yoder, 406 U.S. at 221-29. In both 
+Sherbert and Yoder the Supreme Court carefully distinguished cases 
+involving the government’s paramount interest in protecting physical 
+or mental health, public safety, or public welfare. Sherbert, 374 U.S. 
+at 403; Yoder, 406 U.S. at 230. In addition, Sherbert noted that reli- 
+gious accommodation could be denied when the accommodation, by 
+allowing non-uniform treatment, presented a problem of sufficient 
+magnitude to render a statutory scheme unworkable. Sherbert; 374 
+U.S. at 408-09. 
+
+
+In Free Exercise Clause decisions cited by or following Sherbert, 
+the Supreme Court has recognized these compelling governmental 
+interests in a variety of situations. For instance, the Court found the 
+need for uniformity paramount in a case requiring an Amish employer 
+to pay Social Security taxes for Amish employees, United States v. 
+Lee, 455 U.S. 252, 258-59 (1982), and in a case denying Jewish ser- 
+vicemen the right to wear a yarmulke, Goldman v. Weinberger, 475 
+U.S. 503, 508-510 (1986). It found public welfare paramount in a 
+case enforcing the draft against persons who considered a particular 
+war "unjust," Gillette v. United States, 401 U.S. 437, 462 (1971), and 
+in a case denying tax exemptions to educational institutions with 
+racially discriminatory policies, Bob Jones University v. United 
+States, 461 U.S. 574, 604 (1983). The Court found the public health 
+and safety interest decisive in upholding mandatory vaccination, 
+Jacobson v. Massachusetts, 197 U.S. 11 (1905),’ and in enforcing 
+
+
+"Jacobson did not explicitly address the Free Exercise Clause. It did, 
+however, discuss fundamental "liberty" interests. 197 U.S. at 26-27 and 
+
+
+23a 
+
+
+child labor laws, Prince y. Massachusetts, 321 U.S. 158, 168-70 
+(1944) (finding that a state’s interest in Protecting health justified pro- 
+hibiting a nine-year-old Jehovah’s Witness from distributing religious 
+literature). 
+
+
+Finally, we do not think the Free Exercise Clause shields conduct 
+violating a criminal law that protects people and property from physi- 
+cal harm. Cf Reynolds v. United States, 98 U.S. (8 Otto) 145, 166 
+(1878) (posing the following rhetorical question: "[S]uppose one 
+believed that human sacrifices were a necessary part of religious wor- 
+ship, would it be seriously contended that the civil government under 
+which he lived could not interfere to prevent a sacrifice?"). 
+
+
+Second, we believe the Access Act is sufficiently narrow. The 
+Act's prohibitions are directed Only to those actions Congress found 
+to be a national problem, specifically force, threat of force and physi- 
+cal obstruction. The Act does not sweep within its prohibitions activ- 
+ity unrelated to the serious trouble Congress sought to address. 
+
+
+We conclude that the Access Act serves sufficiently compelling 
+government interests by the least restrictive means available. It there- 
+fore does not violate RFRA. 
+
+
+VI. 
+"There are manifold restraints to which every person is necessarily 
+
+
+subject for the common good. On any other basis organized society 
+could not exist with Safety to its members." Jacobson y. 
+
+
+38-39. Sherbert, 374 U.S. at 403, and Yoder, 406 U.S. at 230, construe 
+Jacobson as a health and Safety case. 
+
+
+24a 
+
+
+Massachusetts, 197 U.S. 11, 26 (1905) (Harlan, J.). In passing the 
+Access Act, Congress acted to ensure that violence and aggressive 
+obstruction are not used as means of settling what has become a loud 
+and vexing public dispute. 
+
+
+The Access Act strikes a balance among competing rights holders. 
+It protects those who seek or provide reproductive health services 
+without suppressing robust debate about abortion. Those opposed to 
+abortion or to any other reproductive health service retain the freedom 
+to express their deeply-held moral or religious views in a peaceful, 
+non-obstructive way. 
+
+
+The district court’s order dismissing the complaint is affirmed. 
+
+
+AFFIRMED 
+
+
+25a 
+
+
+IN THE UNITED STATES DISTRICT COURT FOR THE 
+EASTERN DISTRICT OF VIRGINIA 
+Alexandria Division 
+
+
+CIVIL ACTION NO. 94-700-A 
+
+
+AMERICAN LIFE LEAGUE, et al., 
+
+
+Plaintiffs, 
+v. 
+THE UNITED STATES OF AMERICA 
+and JANET RENO, 
+Defendants. 
+
+
+OPINION AND ORDER 
+I. The Parties Involved in this Lawsuit. 
+
+
+[Filed Jun 16, 1994, U.S. District Court, Alexandria, Virginia] 
+
+
+* On June 3, 1994, the Court previously granted a Motion to Inter- 
+vene, pursuant to Fed. R. Civ. Pro. 24(aX2), filed by the National 
+Abortion Federation, Commonwealth Women’s Clinic, Capitol 
+Women’s Clinic, Dr. George Tiller, Dr. Susan Wicklund and the Na- 
+tional Organization for Women. On June 10, 1994, the Court denied, 
+from the bench, plaintiffs’ Motion for Class Certification, which had 
+been filed with their Complaint. 
+
+
+26a 
+
+
+motions that the plaintiffs’ Second Amended Complaint 
+creates a ripe controversy for this Court to consider and 
+decide.? 
+
+
+Plaintiff American Life League, Inc. (ALL) is an 
+organization located in Stafford, Virginia, which con- 
+ducts various educational and legislative activities “relat- 
+ing to the human rights of persons born or unborn.” ALL 
+alleges that it does not advocate or condone violent 
+conduct in pursuit of its goals. However, ALL also 
+alleges that it and its members intend to interfere with 
+abortion providers and to injure them financially, by 
+persuading their customers—pregnant women—not to 
+undergo abortion procedures. Similarly, ALL alleges that 
+
+
+2 Federal courts are courts of limited jurisdiction. See, e.g. Marbury 
+v. Madison, 1 Cranch (5 U.S. 137, 173-80 (1803). It is the 
+responsibility of the complainants to allege facts demonstrating that 
+they are the proper parties to invoke judicial resolution of this 
+dispute and that an actual or threatened application of FACE exists. 
+See, Bender v. Williamsport Area School District, 475 U.S. 534, 549, 
+106 S. Ct. 1326, 1335, 89 L.Ed. 2d 501 (1986); Renne v. Greary, 111 S. 
+Ct. 2331, 2338 (1991). Plaintiffs’ original Complaint did not allege that 
+they intended any actions which would arguably invoke the statute in 
+question. Plaintiffs’ First Amended Complaint alleged that they have 
+obstructed in the past and ‘may obstruct” entrances to abortion 
+facilities. At oral argument, after dismissing the Amended Complaint 
+as not ripe, the Court permitted plaintiffs to amend again. Plaintiffs’ 
+Second Amended Complaint alleges that while individual plaintiffs are 
+peaceable and nonviolent, “‘in the aggregate, their action at times has 
+constituted, and in the future will constitute, in the words of FACE, 
+a ‘physical obstruction’ (that is, temporarily rendering impassable 
+ingress to an abortion facility)’ and that by so doing, they interfere 
+with, and/or intimidate and/or injure abortion seekers and providers. 
+As 13 U.S.C. § 248 applies to whoever, by physical obstruction, inter- 
+feres with a person because that person is obtaining or providing 
+reproductive health services, the plaintiffs’ allegations that they plan 
+to do so, combined with their allegations that they have regularly 
+done so in the past, create a sufficient showing that FACE will be 
+applied to them. 
+
+
+27a 
+
+
+its members’ activities at various abortion facilities 
+necessarily injure or intimidate pregnant women in that 
+ALL seeks to evoke feelings of religious or moral guilt or 
+general emotional distress, for the purpose of dissuading 
+women from aborting their pregnancies. 
+
+
+Plaintiff Patricia Lohman runs a pregnancy counseling 
+service, located approximately 250 feet from an abortion 
+clinic, which counsels pregnant women about alterna- 
+tives to abortion. She also shares ALL’s intent to obstruct 
+clinic entrances. The other named plaintiffs are 
+individuals who have engaged, and would like to 
+continue to engage, in demonstrating, praying and 
+sidewalk-counseling in the vicinity of facilities which 
+
+
+nonviolent, but, like ALL’s numerous members, they 
+frequently pursue their activities in concert with other 
+like-minded individuals. They allege that their combined 
+physical presence has caused and will cause physical 
+obstruction of the entrance to facilities providing 
+reproductive health care,. and that they intend to inter- 
+fere, nonviolently, with abortion patients and providers. 
+
+
+Defendant Janet Reno, in her capacity as Attorney 
+General of the United States, is charged with the en- 
+forcement of the laws of the United States, including 
+FACE.® Intervenor National Abortion Federation (NAF) is 
+a professional organization of physicians, nurses and 
+clinics providing reproductive care, including abortions, 
+for women. Intervenors Commonwealth Women’s Clinic, 
+
+
+28a 
+
+
+Capitol Women’s Clinic, Dr. George Tiller and Dr. Susan 
+Wicklund are clinics and physicians that perform abor- 
+tions and have been threatened and stalked and whose 
+facilities have been damaged by violent anti-abortion 
+protestors. Intervenor National Organization for Women 
+has among its members thousands of women who may 
+seek abortions or other reproductive health services. 
+
+
+Il. The Statute at Issue. 
+
+
+On May 26, 1994, President Clinton signed the 
+Freedom of Access to Clinic Entrances Act into law, 
+stating that he intended it to be vigorously enforced. 
+FACE is a criminal statute which provides for both 
+criminal penalties and civil remedies against: 
+
+
+‘‘whoever— (1) by force or threat of force or by 
+physical obstruction, intentionally injures, intimi- 
+dates or interferes with or attempts to injure, intim- 
+idate or interfere with any person because that 
+person is or has been, or in order to intimidate such 
+person or any other person or any class of persons 
+from, obtaining or providing reproductive heaith 
+services.”’ 
+
+
+18 U.S.C. § 248 (a) (1).* The essential elements of a viola- 
+tion of 18 U.S.C. § 248 (a) (1) are conduct and specific 
+intent. The Act prohibits three kinds of conduct: (1) the 
+use of force; (2) the threat of force; and (3) physical 
+obstruction. The specific intent necessary to run afoul of 
+
+
+*The statute provides for the following criminal penalties: for a 
+first offense, a fine or imprisonment for up to one year. Anyone 
+committing a second or subsequent offense shall 
+
+
+be fined in accordance with this title, or imprisoned not more 
+than 3 years, or both; except that for an offense involving exclu- 
+sively a nonviolent physical obstruction, the fine shall be not 
+more than $10,000 and the length of imprisonment shall be not 
+more than six months, or both, for the first offense; and the fine 
+
+
+29a 
+
+
+FACE is intent to injure, intimidate or interfere with a 
+person who is obtaining or has obtained or is providing or 
+has provided, reproductive health services. Plaintiffs’ 
+nonviolent activities, as described in their second 
+Amended Complaint, fall within the statute’s ambit 
+because they allege that they will cause a physical 
+obstruction of clinics that provide abortion services, with 
+the requisite intent to financially injure the abortion 
+providers and to “interfere with” the women who may 
+be entering a facility to procure an abortion. 
+
+
+Ill. Congress’s Authority to Enact FACE. 
+
+
+At the outset, the Court rejects the plaintiffs’ 
+argument that Congress lacked authority to enact FACE. 
+Congress has the power, under the Commerce Clause, 
+U.S. Const. art. I § 8, cl. 3, and the Necessary and Proper 
+Clause, U.S. Const. art. I, § 8, cl. 18, to regulate in- 
+terstate commerce and intrastate activity that affects 
+interstate commerce. United States v. Wrightwood Dairy 
+Co., 315 U.S. 110, 120 (1942); Katzenbach v. McClung, 
+379 U.S. 294, 301-302 (1964); Heart of Atlanta Motel, Inc. 
+v. United States, 379 U.S. 241 (1964). This authority 
+extends to enacting criminal penalties for individual 
+acts, even if not all of the potential defendants had 
+
+
+shall be not more than $25,000 and the length of imprisonment 
+shall be not more than 18 months, or both, for a subsequent 
+offense; and except that if bodily injury results, the length of 
+imprisonment shall be not more than 10 years, and if death re- 
+Sults, it shall be for any term of years or for life. 
+
+
+Civil remedies include injunctive relief, compensatory and punitive 
+damages, along with costs and reasonable attorney and expert witness 
+fees. In lieu of actual damages, statutory damages of $5,000 per viola- 
+tion are available. 18 U.S.C. § 248(cX 1A) and (B). FACE also empow- 
+ers the Attorney General, of the United States, as well as the State 
+attorneys general to bring civil actions for injunctive relief and civil 
+penalties against individual or group violators. 18 U.S.C. § 248(cX2) 
+and (3). 
+
+
+30a 
+
+
+actual connections to interstate commerce. Perez v. 
+United States, 402 U.S. 146, 154-156 (1971); Russell v. 
+United States, 471 U.S. 858 (1985). The legislative history 
+of FACE shows that Congress had evidence both of 
+numerous women crossing state lines to obtain reproduc- 
+tive services no longer available in their home states and 
+of anti-abortion organizations crossing state lines in order 
+to orchestrate violence against abortion providers and 
+patients. S. Rep. No. 117, 103d Cong., Ist Sess. The 
+Senate hearings also include extensive testimony con- 
+cerning the inability and, in some cases, unwillingness of 
+local law enforcement authorities to provide adequate 
+protection for reproductive health service clinics, their 
+staffs, and patients. Jd. We find that Congress had 
+ample evidence of the impact upon interstate commerce 
+of myriad threats, bombings, stalkings, blockades and 
+assaults inflicted on reproductive health services provid- 
+ers and patients, and that the prohibitions in FACE are a 
+reasonable and appropriate means to address the prob- 
+lem. See Hodel v. Virginia Surface Mining & Reclama- 
+tion Ass’n., 452 U.S. 264, 276 (1981). 
+
+
+IV. Freedom of Expression Issues. 
+
+
+At the heart of plaintiffs’ constitutional challenge are 
+their arguments that FACE prohibits and penalizes, or 
+
+
+5 For example, the Senate Report notes in its discussion of the need 
+for such legislation that: 
+
+
+From 1977 to April 1993, more than 1,000 acts of violence 
+against abortion providers were reported in the United States. 
+These acts inchuded at least 36 bombings, 81 arsons, 131 death 
+threats, 84 assaults, two kidnappings, 327 clinic invasions, and 
+one murder. In addition, over 6,000 clinic blockades and other 
+disruptions have been reported since 1977. The record before the 
+Committee establishes that state and local law enforcement is 
+inadequate to handle this situation, and that Federal legislation is 
+urgently needed. 
+
+
+Id.at 3. 
+
+
+3la 
+
+
+chills, free expression of religious, moral and philosophi- 
+cal beliefs; that it impermissibly focuses criminal and 
+civil sanctions on particular viewpoints; and that it is 
+unconstitutionally vague, giving law-abiding citizens 
+inadequate guidance as to exactly what it prohibits. 
+
+
+Plaintiffs first argue that FACE is overbroad because 
+they believe it imposes criminal and civil penalties for 
+forms of expression, such as praying and sidewalk 
+counseling, which are covered by the First Amendment. 
+Overbreadth refers to a statute’s being written so as to 
+include protected First Amendment activity along with 
+unprotected conduct. Broadrick v. Oklahoma, 413 U.S. 
+601, 612 (1973). Their argument is largely based on their 
+expressed concern that the term “‘injure,’’ which is not 
+defined in the Act, might include psychological or 
+emotional injury, which could result from plaintiffs’ pure 
+speech. Plaintiffs make the point that pure speech, 
+which is at the core of First Amendment protection, 
+may, and is, in the context of abortion protest, intended 
+to, “‘injure’’ by causing emotional pain and to “‘intimi- 
+date”’ or, if persuasive and articulate, even ‘‘interfere.”’ 
+They argue that persons who desire to express their 
+views, pray and sidewalk-counsel at the entrance of 
+reproductive health services facilities are now afraid to 
+do so for fear that these peaceful, nonviolent, expressive 
+activities are prohibited by FACE. In other words, 
+plaintiffs argue that their First Amendment expression 
+will be ‘‘chilled.”’ 
+
+
+Contrary to plaintiffs’ assertions, the Court finds that 
+this statute avoids infringing on legitimate First Amend- 
+ment rights. Nothing in the language of FACE prohibits 
+pure speech; rather the Act criminalizes the use of force, 
+threat of force, and physical obstruction. 18 U.S.C. 
+§ 248(a) (1). These acts have long been outside the scope 
+of the First Amendment’s protection. See Wisconsin v. 
+Mitchell, 113 S.Ct. 2194, 2199 (1993). In Mitchell, a 
+unanimous Court held that a penalty enhancement for 
+
+
+32a 
+
+
+criminal conduct motivated by racial bias did not violate 
+the First Amendment. The Court explained that conduct 
+does not become ‘‘speech”’ entitled to the protection of 
+the First Amendment whenever the actor intends to 
+express an idea through his conduct. Id., quoting Roberts 
+v. United States Jaycees, 468 U.S. 609, 628 (1984) 
+(‘‘[VJiolence or other types of potentially expressive 
+activities that produce special harms distinct from their 
+communicative impact . .. are entitled to no constitu- 
+tional protection’’). FACE is crafted to prohibit and 
+penalize only those ‘‘potentially expressive’’ acts that 
+Congress found were producing and would continue to 
+produce ‘‘special harms distinct from their communica- 
+tive impact.’’ See Roberts, supra. Even the non-violent 
+blocking which plaintiffs contemplate constitutes the 
+torts of trespass, battery and false imprisonment under 
+state laws. More importantly, in the scenario which 
+plaintiffs have chosen to present for the Court’s review, 
+non-violent obstruction of clinic entrances prevents 
+women from exercising their constitutuional right to an 
+abortion. See Roe v. Wade, 410 U.S. 113 (1973); Planned 
+Parenthood v. Casey, 112 S.Ct. 2791 (1992). The First 
+Amendment protects the plaintiffs’ right to hold and 
+express beliefs opposing abortion; it does not give them 
+unfettered license to express those beliefs in conduct. 
+Similarly, threats to use force are not protected by the 
+First Amendment, and Congress may criminalize threats 
+to a particular victim if doing so furthers an important 
+interest. See R.A.V. v. City of St. Paul, 112 S. Ct. 2538, 
+2546 (1992). 
+
+
+Plaintiffs’ argument that their rights to pray and 
+counsel will be chilied is but a restatement of the 
+previous argument. As discussed above, FACE does not 
+apply, on its face, to purely verbal activity. Plaintiffs 
+rely upon R.A.V. v. City of St. Paul, supra, in which the 
+Supreme Court found a ‘“‘hate crime’”’ o prohibit- 
+ing the display of certain symbols, objects, appellations 
+and graffiti facially invalid. This reliance is misplaced. 
+
+
+i 
+
+
+33a 
+
+
+The St. Paul ordinance focussed on particular viewpoints 
+and directly prohibited verbal expression; as discussed 
+infra, FACE does neither. 
+
+
+Because FACE’s language refers to action, not words, 
+plaintiffs have exercised their creativity to find interpre- 
+tations of the Act’s terms that encompass pure speech. 
+However, their arguments ignore the definitions of the 
+relevant terms included in the Act itself, which each 
+describe tortious conduct rather than viewpoint expres- 
+sion. The Act, for example, defines the term ‘‘interfere 
+with” to mean ‘“‘to restrict a person’s freedom of move- 
+ment.’’ 18 U.S.C. § 248(e) (2). Words or prayers alone 
+will not restrict a person’s freedom of movement. Speak- 
+ing or praying accompanied by shoving or positioning 
+oneself to block a walkway, as plaintiffs intend, will 
+restrict a person’s freedom of movement. The for- 
+mer—pure speech—does not violate the Act; the lat- 
+ter—speech plus conduct—will create a prohibited inter- 
+ference. 
+
+
+In addition to drafting FACE narrowly so as to prohibit 
+certain conduct, rather than speech, Congress included 
+‘‘Rules of Construction”’ the first of which is: ‘‘“—Nothing 
+in this section shall be construed— (1) to prohibit any 
+expressive conduct (including peaceful picketing or other 
+peaceful demonstration) protected by the First Amend- 
+ment to the Constitution.’’ 18 U.S.C. § 248(d) (1). While 
+the Court agrees with plaintiffs that Congress could not 
+make a fatally flawed law constitutional merely by 
+including a saving clause, in this context the rule of 
+construction removes any ambiguity which plaintiffs can 
+inject into the otherwise plain meaning of the Act’s 
+words. Without ambiguity, there is no chill. Protestors 
+who are not chilled by the existing laws against trespass 
+and assault could not reasonably be chilled by this Act: 
+
+
+The plaintiffs also argue that FACE is unconstitutional- 
+ly vague on its face. Their argument is essentially the 
+same one addressed above in the overbreadth discussion. 
+
+
+34a 
+
+
+A statute is unconstitutionally vague if people ‘‘of com- 
+mon intelligence must guess at its meaning.’’ Hynes v. 
+Mayor of Oradell, 425 U.S. 610, 620 (1976). The Court 
+does not agree that the Act is vague. The language of 
+FACE is neither technical nor arcane. Moreover, most of 
+the operative words come from other statutes which the 
+Supreme Court has construed and found not unconstitu- 
+tionally vague. Of particular relevance is the Supreme 
+Court’s decision that a statute which prohibited ‘‘picket- 
+ing or mass demonstrations in such a manner as to ob- 
+struct or unreasonably interfere with free ingress or 
+egress’’ was not unconstitutionally vague. Cameron v. 
+Johnson, 390 U.S. 611, 612 (1968). This is the same defi- 
+nition for ‘‘physical obstruction’’ that appears in FACE. 
+This Court cannot hold that this definition is unconstitu- 
+tionally vague. 
+
+
+The remaining terms, ‘‘use of force’’ and ‘‘threat of 
+force’’ are, without doubt, clear to anyone making an 
+honest effort to understand rather than ignore the plain 
+meaning of this Act. FACE plainly prohibits only physi- 
+cal obstruction, the use of force, and threats. Congress 
+need not append a laundry list of violent acts, threats 
+and manners of obstructing in order to express its clear 
+intent. 
+
+
+The plaintiffs further argue that FACE is not view- 
+point neutral because, they assert, it applies only to anti- 
+abortion protestors, ‘‘and not to persons who use similar 
+tactics or worse to persuade women to have abortions 
+they do not want.’’ Upon a reading of the unambiguous 
+language of FACE, the Court disagrees with this charac- 
+terization of the statute. Plaintiffs cannot point to any 
+language in FACE which supports their interpretation. 
+Instead, they rely on a sentence uttered by Senator 
+Kennedy during floor debate of a proposed amendment 
+which was subsequently defeated. The proposed 
+amendment, according to plaintiffs, would have provid- 
+ed a cause of action for would-be protestors who allege 
+
+
+35a 
+
+
+violations of their First Amendment rights throught the 
+suppression of anti-abortion demonstrations. Senator 
+Kennedy spoke against the proposed amendment, stating 
+“‘a cause of action for prolife demonstrator[s] will trans- 
+form the bill from a clinic access bill to a clinic harass- 
+ment bill.” 139 Cong. Rec. S15706 (daily ed, November 
+16, 1993) (statement of Senator Kennedy). Plaintiffs 
+argue that despite Senator Kennedy’s characterizing 
+FACE as “‘a clinic access bill’’, his statement supports 
+their position that FACE applies only to anti-abortion 
+protestors. This needle from a veritable haystack of legis- 
+lative history is not relevant to our interpretation. 
+Where the plain language of a statute is clear and 
+unambiguous, courts do not look to the legislative history 
+to find some different meaning. Griffin v. Oceanic 
+Contractors, Inc., 458 U.S. 564, 570 (1982); Consumer 
+Product Safety Comm’n. v. GTE Sylvania, Inc., 447 U.S. 
+102, 108 (1980). While it is clear from the Senate hear- 
+ings that Congress was concerned about protecting clin- 
+ics from violent anti-abortion protestors, FACE applies to 
+‘““‘whoever’’ engages in the prohibited conduct, with the 
+requisite intent to injure, intimidate or interfere with 
+“any person’’ who is entering a facility to obtain repro- 
+ductive health services. 18 U.S.C. § 248. Both the terms 
+‘“‘whoever”’ and “‘person’”’ are gender-neutral. The Act 
+defines ‘‘reproductive health services’’ as ‘reproductive 
+health services provided in a hospital, clinic, physician’s 
+office, or other facility, and includes medical, surgical, 
+counseling or referral services relating to pregnancy or 
+the termination of a pregnancy.’”’ 18 U.S.C. § 248(d). This 
+broad definition of reproductive health services encom- 
+passes a wide variety of services and procedures, includ- 
+ing diagnosis and treatment of sexually transmitted 
+diseases, infertility testing and treatments, pre-natal 
+care, obstetrics, and, presumably, controversial concep- 
+tion treatments, such as in vitro fertilization of surro- 
+gate mothers and thawing of frozen embryos. Anyone, 
+male or female, entering a facility seeking any of these 
+
+
+36a 
+
+
+medical services is protected under FACE. As such, 
+although the statute is subject-specific in that it protects 
+access to reproductive health services facilities, it is 
+nevertheless viewpoint-neutral. 
+
+
+V. Free Exercise Clause 
+
+
+Finally, plaintiffs assert that FACE violates the Free 
+Exercise Clause of the First Amendment to the Constitu- 
+tion, as well as the Restoration of Religious Freedom Act, 
+42 U.S.C. §§ 2000bb(b) (2), which provides that the gov- 
+ernment cannot ‘‘substantially burden a person’s right to 
+exercise of religion’’ unless it can show that such burden 
+is the least restrictive means of furthering a compelling 
+governmental interest. Plaintiffs’ argument is that 
+Congress’s passage of FACE was motivated by ‘‘animosi- 
+ty to religion.’’ They rely on Church of Lukumi Babalu 
+Aya v. Hialeah, 113 S.Ct. 2217, 2234 (1993) which struck 
+down a law contrived to prohibit ritual animal sacrifices 
+performed by a particular sect as violating the Estab- 
+lishment Clause. That case is distinguishable from the 
+case at bar in several ways, not the least of which is that 
+animal welfare is not constitutionally protected, whereas 
+a woman's right to an abortion is constitutionally pro- 
+tected. See Roe and Casey, supra. Moreover, from its 
+legislative history, we know that it was the history of 
+violent attacks against abortion clinics, providers and 
+their patients, and other religion-neutral reasons which 
+motivated Congress to enact FACE. 
+
+
+It suffices here to note that the plaintiffs have not 
+alleged in any of their three complaints and do not 
+contend in their memoranda that physical obstruction of 
+abortion clinics is a sacrament or important ritual 
+necessary to their observance of their faith. They have 
+alleged that they oppose abortion on religious and moral 
+grounds, and that they desire to pray for the souls of 
+women who are obtaining abortions and for the souls of 
+their unborn children. Their goal is to prevent abortions. 
+
+
+37a 
+
+
+Nothing in the Act impinges upon plaintiffs’ ability to 
+pray for these results. What is limited by the Act is what 
+else they may do while praying and counseling. They 
+may not pray and counsel so as to physically obstruct 
+access to reproductive health service facilities. As de- 
+fined in the Act, “‘physical obstruction’’ means ‘‘render- 
+ing impassable ingress to or egress from a clinic.’’ This 
+language provides adequate guidance for anyone who 
+truly wants to understand the scope of the Act, rather 
+than look for tortured interpretations of its words. The 
+Statute, on its face, neither prohibits nor inhibits such 
+prayers, counseling or self-expression. 
+
+
+VI Conclusion 
+
+
+For the above reasons, the Court holds that FACE is 
+constitutional. The United States’ Motion to Dismiss is 
+therefore GRANTED, and plaintiffs’ Second Amended 
+Complaint is hereby DISMISSED WITH PREJUDICE. This 
+decision renders moot the plaintiffs’ Motion for a Prelim- 
+
+
+inary Injunction. 
+
+
+The Clerk is directed to forward copies of this Opinion 
+and Order to counsel of record. 
+
+
+Entered this 16th day of June, 1994. 
+/s/ Leonie M. Brinkema 
+Leonie M. Brinkema 
+United States District Judge 
+
+
+Alexandria, Virginia 
+
+

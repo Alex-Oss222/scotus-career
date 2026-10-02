@@ -1,0 +1,1259 @@
+i uU 
+No. 94-967 
+
+
+I ee PRN © eee ae et: Aememememamallt 
+
+
+Supreme Court of the United States 
+October Term, 1994 
+
+
+S 
+
+
+WILLIAM FIELD AND NORINNE FIELD, 
+
+
+Petitioners, 
+Vs. 
+
+
+PHILIP W. MANS, 
+Respondent. 
+
+
+¢ 
+
+
+On Writ Of Certiorari To The 
+United States Court Of Appeals 
+For The First Circuit 
+
+
+> 
+
+
+PETITIONERS’ BRIEF 
+
+
+S| 
+
+
+CHRISTOPHER J. SEUFERT 
+(Counsel of Record) 
+
+: WriutaM J. Scuuttz 
+
+SEUFERT PROFESSIONAL ASSOCIATION 
+59 Central Street 
+Franklin, New Hampshire 03235 
+(603) 934-9837 
+
+Counsel for Petitioners 
+
+
+‘BEST AVAILABLE COPY Jee 
+
+
+i 
+QUESTION PRESENTED FOR REVIEW 
+
+
+Given that 11 U.S.C. § 523(a)(2)(A) requires proof 
+that creditors rely on a debtor’s fraudulent actions in 
+order that a debt be excepted from discharge in Bank- 
+ruptcy under 11 U.S.C. § 523(a)(2)(A), and given that the 
+Bankruptcy Court has found fraud, and reliance by the 
+creditor upon the debtor’s misrepresentation, is it also 
+necessary that the creditor prove that its reliance upon 
+the fraudulent misrepresentation was reasonable? 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+Qusstion Pewee oo ovcckiccckssaccoies dcadedaeee i 
+Babee Of Amtagiee i 6. i i Ha OR iii 
+Citations to opinions and judgments below ........ 1 
+Grounds on which jurisdiction of the United States 
+Supreme Court is invoked....................055 1 
+Constitutional and Statutory Provisions ............ 2 
+URIS GE ND GO ia wr Li i's oo kbc kines cdvccn was 5 
+Summary of the Argument ........................ 8 
+TOI 6 i555 eet wes cds ot Agedhe check letnec mee 9 
+RE oa cians sanvin cvden des bscbasdewnconeets 23 
+
+
+iii 
+TABLE OF AUTHORITIES 
+
+
+CASEs: 
+American Tobacco Co. v. Patterson, 456 U.S. 63 (1982) ..... 4 
+
+
+Bonosky v. Allen, 25 B.R. 566 (B.C. S.D. Ohio 1982) .... 14 
+Consumer Product Safety Commission v. GTE Syl- 
+
+
+vania, Inc., 447 U.S. 102 (1980)................0005- 9 
+First Bank Sys., N.A. v. Foley, 156 B.R. 645 (B.C. 
+
+Sota POY BOOED Ch vewcccce need eeecsinecteccccevecs 15 
+Grogan et al. v. Garner, 498 U.S. 279 (1991) .......... 18 
+
+
+IN RE: Anzman, 73 B.R. 156 (B.C. D.C. Colo. 1986) .... 14 
+IN RE: Ashley, 5 B.R. 262 (B.C. E.D. Tenn. 1980)..... 14 
+IN RE: Beleau, 35 B.R. 259 (B.C. D. R.I. 1983)........ 15 
+
+
+IN RE: Brewood, 15 B.R. 211 (B.C. D.C. Kan. 1981) 
+(disapproved on other grounds by Birmingham 
+Trust Nat. Bank v. Case, 755 F.2d 1474 (11th Cir. 
+
+
+Ral Sr ta BRT Sy pera eg aa 14 
+IN RE: Burgess, 955 F.2d 134 (ist Cir. 1992) ......... 15 
+IN RE> Cheh, 96 B.R. 781 (B.C. N.D. Ohio 1988) ..... 14 
+IN RE: Cicero, 28 B.R. 480 (B.C. E.D. Wis. 1983) ..... 14 
+IN RE: Constantino, 72 B.R. 231 (B.C. N.D. Ohio 
+1987) later proceeding 80 B.R. 865................ 14 
+IN RE: Fosco, 14 B.R. 918 (B.C. D.C. Conn. 1981) 
+Sedu diuniibinh: abt Meee ite be ge 13, 15, 19, 22 
+
+
+IN RE: Gering, 69 B.R. 686 (B.C. D.C. Kan. 1987) .... 14 
+IN RE: Gonzalez Seijo, 76 B.R. 11 (B.C. D. P.R. 1987) .... 15 
+IN RE: Guy, 101 B.R. 961 (B.C. N.D. Ind. 1988)...... 14 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+IN RE: Hamm, 92 B.R. 386 (B.C. W.D. Mo. 1989)..... 15 
+IN RE: Houtman, 568 F.2d 651 (9th Cir. 1978)........ 11 
+IN RE: Howarter, 95 B.R. 180 (B.C. S.D. Cal. 1989) .... 14 
+IN RE: Hunt, 30 B.R. 425 (M.D. Tenn. 1983)......... 14 
+IN RE: Kroh, 88 B.R. 972 (B.C. W.D. Mo. 1988) ...... 15 
+IN RE: Kursh, 973 F.2d 1454 (9th Cir. 1992).......... 14 
+IN RE: Maranzino, 67 B.R. 394 (B.C. D.C. Kan. 
+
+SRN e 20 de cenaqncnenesan ies ckseshsetaebck sees 14 
+IN RE: Martin, 761 F.2d 1163 (6th Cir. 1985)......... 16 
+IN RE: McDermott, 139 B.R. 50 (B.C. D. R.I. 1992) .... 15 
+IN RE: McIntyre, 64 B.R. 27 (D.N.H. 1986)........... 14 
+IN RE: Michel, 74 B.R. 88 (N.D. Ohio 1985).......... 14 
+
+
+IN RE: Monahan, 125 B.R. 697 (B.C. D. R.I. 1991) .... 15 
+IN RE: Mullet, 817 F.2d 677 (10th Cir. Colo. 1987) .... 14 
+IN RE: Ophaug, 827 F.2d 340 (8th Cir. 1987)..... passim 
+IN RE: Paolino, 89 B.R. 453 (B.C. E.D. Pa. 1988) ..... 14 
+IN RE: Philips, 804 F.2d 930 (6th Cir. 1986).......... 16 
+IN RE: Salvatore, 46 B.R. 247 (B.C. D. R.I. 1984) ..... 15 
+
+
+IN RE: Schwartz & Meyers, 130 B.R. 416 (B.C. S.D. 
+OS. BBE io ..00ccness skvscsndng pcmeemibabodessocnss 15 
+
+
+IN RE: Sestito, 136 B.R. 602 (B.C. D. Mass. 1992).... 15 
+IN RE: Showalter, 86 B.R. 877 (B.C. W.D. Va. 1988) .... 15 
+IN RE: Sobel, 37 B.R. 780 (B.C. E.D. N.Y. 1984)...... 15 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES - Continued 
+Page 
+
+
+IN RE: Stewart, 41 B.R. 489 (B.C. S.D. Iowa 1988) .... 15 
+IN RE: Waning, 120 B.R. 607 (B.C. D. Me. 1990)..... 15 
+IN RE: Wise, 6 B.R. 867 (B.C. E.D. M.D. Fla. 1980) .... 14 
+IN RE: Younesi, 34 B.R. 828 (B.C. C.D. Cal. 1983) .... 14 
+In the Matter of Mayer, 1995 WL 139188 (7th Cir. 
+
+
+Bg PE Dia MOUs AG db.oh Sa Sadadabceebocdes. passim 
+ITT Fin. Servs. v. Schoenlein, (In re Schoenlein) 
+
+(B.C. N.D. Ohio) 157 B.R. 824 (1993).............. 15 
+Local Loan Company v. Hunt, 292 U.S. 234 (1944)..... 18 
+Matter of Allison, 960 F.2d 481 (5th Cir. 1992)........ 15 
+
+
+Matter of Eaton, 41 B.R. 800 (B.C. E.D. Wis. 1984) .... 15 
+Matter of Haining, 119 B.R. 460 (B.C. D.C. Del. 
+
+
+Peet eoke lb scecteyecduptencnaghiseceaccodes 15 
+Matter of Weinstein, 31 B.R. 804 (B.C. E.D. N.Y. 
+
+PO PON eh 5 eet icieh bebe tiuheubide cc ccvevest¥wecee 15 
+Neal v. Clark, 95 U.S. 704 (1887)..............000005. 10 
+Philips v. Coman, 804 F.2d 930 (6th Cir. 1986)........ 17 
+Title Insurance Corp. v. Piit., 157 B.R. 585 (E.D. Va. 
+
+Seta ohtbins tds « dedsekndeabeks tneboraaevece cs 14 
+U.S. v. Spicer, 155 B.R. 795 (B.C. D.C. Dist. Col. 
+
+PN ERas CUNl bean behdedasWbndnds Vusiesicebccces 15 
+
+
+CONSTITUTIONAL PROVISIONS: 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+STATUTORY PROVISIONS: 
+11 U.S.C.A. § 523(a)(2)(A) (West 1994) .......... passim 
+11 U.S.C.A. § 523(a)(2)(B) (West 1994)........... passim 
+28 U.S.C.A. § 1254 (West 1994). ................000 1, 3 
+Court Rutes: 
+United States Supreme Court Rules Rule 10.1(a), 
+PR icin 2090.69. 04d nde te wmiadaw sss daieshedeatea 2, 4 
+MISCELLANEOUS: 
+97 American Law Reports, Federal 402, and 1994 
+DOP. ‘sds o's go 50 bbe > dupe ddn- th sth abewakPe tha teviedd 14 
+Congressional Record - House, Daily Edition Sep- 
+ee ee Py eee 10 
+Congressional Record - Senate, Daily Edition 
+CERNE G, BOP © SIGE hei ccc iks cece vensascseres 10 
+House Report, 595, 95th Congress Ist. Session 
+CIBGED x wink vt vvcee oe jas te¥sWekaeb cee tesesbint t3% 12, 13 
+
+
+Restatement (2d) of Torts § 537-540 (1965) ...19, 20, 21 
+William L. Prosser Law of Torts 4th Ed. 1971..... 18, 25 
+
+
+CITATIONS TO OPINIONS AND 
+JUDGMENTS BELOW 
+
+
+United States Bankruptcy Court for the District of 
+New Hampshire BK #90-12385 Chapter 7 Adv. #91-1194 
+Judgment #46 Book 4 unpublished opinion, final judg- 
+ment dated May 11, 1993. 
+
+
+United States District Court for the District of New 
+Hampshire C-93-41-L, unpublished order dated Decem- 
+ber 7, 1993. 
+
+
+Civil Action #1:93-CV-0041-L, United States District 
+Court for the District of New Hampshire judgment dated 
+January 27, 1993, on order of December 7, 1993. 
+
+
+United States District Court for the District of New 
+Hampshire, C-93-401-L, order dated March 22, 1994. 
+
+
+United States Court of Appeals for the First Circuit 
+94-1391 unpublished opinion dated August 29, 1994. 
+
+
+e 
+
+
+GROUNDS ON WHICH JURISDICTION OF THE 
+UNITED STATES SUPREME COURT IS INVOKED 
+
+
+This is an appeal of the judgment entered August 29, 
+1994 by the United States Court of Appeals for the First 
+Circuit, affirming the judgment of the United States Dis- 
+trict Court for the District of New Hampshire dated 
+December 7, 1993, affirming the decision of the United 
+States Bankruptcy Court dated May 11, 1993, finding the 
+debt of the defendant to the plaintiffs to be dischargeable 
+in Bankruptcy. 
+
+
+Certiorari was sought in accordance with 28 U.S.C. 
+§ 1254(1) and United States Supreme Court Rules Rule 
+
+
+1 
+
+
+10.1(a) and 10.1(c), by petition filed November 22, 1994. 
+The deadline set by the Court for filing the Petition for 
+Writ of Certiorari, in accordance with United States 
+Supreme Court Rule 13.1 was November 26, 1994. 
+
+
+Certiorari was granted May 1, 1995. The deadline set 
+by this Court for filing of the Appellants’ Brief in accor- 
+dance with United States Supreme Court Rule 25 is June 
+15, 1995. 
+
+
+¢ 
+
+
+CONSTITUTIONAL AND 
+STATUTORY PROVISIONS 
+
+
+UNITED STATES CONSTITUTION ARTICLE I, SEC- 
+TION 8: 
+
+
+The Congress shall have Power To lay and collect 
+Taxes, Duties, Imposts and Excises, to pay the Debts and 
+provide for the common Defence and general Welfare of 
+the United States; but all Duties, Imposts and Excises 
+shall be uniform throughout the United States; 
+
+
+To borrow Money on the credit of the United States; 
+
+
+To regulate Commerce with Foreign Nations, and 
+among the several States, and with the Indian Tribes; 
+
+
+To establish an uniform Rule of Naturalization, and 
+uniform Laws on the subject to BankruptcieS throughout 
+the United States; .. . 
+
+
+28 U.S.C. § 1254 
+
+
+Cases in the courts of appeals may be reviewed by 
+the Supreme Court by the following methods: 
+
+
+(1) By writ of certiorari granted upon the petition of 
+any party to any civil or criminal case, before or after 
+rendition of judgment or decree; 
+
+
+(2) By certification at any time by a court of appeals 
+of any question of law in any civil or criminal case as to 
+which instructions are desired, and upon such certifica- 
+tion the Supreme Court may give binding instructions or 
+require the entire record to be sent up for deci«ion of the 
+entire matter in controversy. 
+
+
+11 U.S.C.A. § 523(a)(2)(A) (West 1994) 
+
+
+(a) A discharge under section 727, 1141, 1228(a), 
+1228(b), or 1328(b) of this title does not discharge an 
+individual from any debt - 
+
+
+(2) for money, property, or services, or an 
+extension, renewal, or refinancing or credit, 
+to the extent obtained, by - 
+
+
+(A) false pretenses, a false representation, 
+or actual fraud, other than a statement 
+respecting the debtor’s or an insider’s 
+financial condition; . . . 
+
+
+11 U.S.C.A. § 523(a)(2)(B) (West 1994) 
+
+
+(a) A discharge under section 727, 1141, 1228(a), 
+1228(b), or 1328(b) or this title does not discharge an 
+individual from any debt - 
+
+
+(2) for money, property, or services, or an 
+extension, renewal, or refinancing of credit, 
+to the extent obtained, by - 
+
+
+(B) use of a statement in writing - 
+(i) that is materially false; 
+
+
+(ii) respecting the debtor’s or an insider’s 
+financial condition; 
+
+
+(iii) on which the creditor to whom the 
+debtor is liable for such money, prop- 
+erty, services, or credit reasonably 
+relied; 
+
+
+(iv) that the debtor caused to be made or 
+published with intent to deceive; . . . 
+
+
+UNITED STATES SUPREME COURT RULES: 
+
+
+RULE 10 Considerations Governing Review on Writ of 
+Certiorari 
+
+
+.1 A review on writ of certiorari is not a matter of 
+right, but of judicial discretion. A petition for a writ of 
+certiorari will be granted only when there are special and 
+important reasons therefor. The following, while neither 
+controlling nor fully measuring the Court’s discretion, 
+indicate the character of reasons that will be considered: 
+
+
+‘ 
+
+
+(a) When a United States court of appeals has 
+rendered a decision in conflict with the decision 
+of another United States court of appeals on the 
+same matter; or has decided a federal question 
+in a way in conflict with a state court of last 
+resort; or has so far departed from the accepted 
+and usual course of judicial proceedings, or 
+
+
+sanctioned such a departure by a lower court, as 
+to call for an exercise of this Court’s power of 
+supervision. 
+
+
+(c) When a state court or a United States court 
+of appeals has decided an important question of 
+federal law which has not been, but should be, 
+settled by this court, or has decided a federal 
+question in a way that conflicts with applicable 
+decisions of this Court. 
+
+
+STATEMENT OF THE CASE 
+
+
+In June, 1987 the plaintiffs, William and Norinne 
+Field (Fields) sold real estate to an entity wholly owned 
+by the defendant, Philip Mans (Mans), were paid approx- 
+imately $275,000.00 cash and were given a promissory 
+note in the amount of $187,500.00. The note was guaran- 
+teed by Mans, and was secured by a second mortgage on 
+the property which was duly recorded at the Registry of 
+Deeds. (The mortgage was junior to a mortgage to Mas- 
+coma Savings Bank.) (CP. 24).1 The mortgage prohibited 
+the defendant from conveying the property without the 
+prior written consent of the plaintiffs, and further stated 
+
+
+1 Throughout this document, citation format will be as fol- 
+lows: (CP __) refers to petitioners’ petition for Writ of Cer- 
+tiorari, and appendix thereto. (A __) refers to the joint 
+appendix to this brief. (R __) refers to the transcript of the trial, 
+May 11, 1993, 9:57 a.m. before Judge James E. Yacos, United 
+States Bankruptcy Court for the District of New Hampshire. 
+
+
+that, on such a sale, the whole of the remaining indebted- 
+ness secured by the mortgage would, at the option of the 
+holder of the mortgage, be immediately due and payable. 
+(R.76). On or about October 8, 1987, in direct violation of 
+these terms of the mortgage, Mans caused a transfer of 
+title of the mortgaged property to a partnership known as 
+Crescent Beach Development (“Crescent Beach”). (R.76). 
+
+
+The transfer, pursuant to the terms of the mortgage, 
+triggered the due-on-sale clause, but the plaintiffs were 
+unaware that the transfer had taken place. In fact, Mans 
+had intentionally concealed the transfer in such a way as 
+to defraud the plaintiffs, by sending a letter purportedly 
+seeking permission for the transfer, AFTER the transfer 
+was nearly complete. (R.77). Specifically, the letter, dated 
+October 8, 1987, advised the Fields that Mans had taken 
+on a partner in the development of the property. The 
+letter further went on to say: 
+
+
+Obviously we do not want to trigger the “due- 
+on-sale” clause by reason of the transfer of the 
+property into the development partnership. We 
+ask that Mr. and Mrs. Field, as the holders of the 
+second mortgage, consent in writing to the 
+transfer of the property. (R.77). 
+
+
+The Fields responded by letter dated October 19, 
+1987. Among other conditions, they stated that they 
+would approve the transfer if they received a payment of 
+$10,000.00. (R.78). Mans, through counsel, responded on 
+October 27, 1987 that “the fee of $10,000.00 is out of the 
+question.” However, Mans in this October 27, 1987 corre- 
+spondence did not disclose to the Fields that the transfer 
+had actually already taken place despite the lack of con- 
+sent. (R.79). 
+
+
+The Fields, subsequent to the undisclosed transfer, 
+continued to receive payments on the note through 
+November, 1990. No further payments were forthcoming, 
+and the Fields received notice of Mans’ voluntary bank- 
+ruptcy petition in December of 1990. The Mascoma Bank 
+foreclosed on the property on or about June 7, 1991, 
+recovering its first mortgage. No funds were available to 
+satisfy the Fields’ second mortgage. (R.81). 
+
+
+The Fields filed a non-dischargeability complaint 
+against Mans in the Bankruptcy Court under the provi- 
+sions of § 523(a)(2)(A) arguing that they were “duped” 
+into extending credit (the promissory note) beyond its 
+time period (option to call upon subsequent transfer) by 
+Mans’ fraud in obscuring the fact that he had transferred 
+the property. Federal Court jurisdiction over this matter 
+was grounded on Article I of the United States Constitu- 
+tion, and Title 11 of the United States Code. After trial, 
+the Bankruptcy Court found that in fact an extension of 
+credit was proven, that misrepresentations had taken 
+place and that reliance was proven, but that the plaintiffs 
+failed to prove that their reliance on the fraud was rea- 
+sonable. 
+
+
+Since the Bankruptcy Court explicitly found that the 
+debtor committed fraud, and that the creditor relied upon 
+that fraud, and since those findings have been upheld by 
+the United States District Court for the District of New 
+Hampshire and the First Circuit Court of Appeals, the 
+only issue on appeal to this Court is whether or not the 
+creditors were required to prove, under § 523(a)(2)(A) 
+
+
+that their reliance upon the debtor’s misrepresentations 
+was reasonable. 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+The plain language of 11 U.S.C. § 523(a)(2)(A) does 
+not require that a creditor’s reliance on a debtor’s fraud 
+be reasonable. By contrast 11 U.S.C § 523(a)(2)(B) has 
+such a requirement. The Congressional history explains 
+why “reasonable reliance” is in the latter section but not 
+the former; Congress was seeking to prevent creditors 
+who might induce fraud from benefiting from their collu- 
+sion in creating the fraud. 
+
+
+Nonetheless, a split has developed amongst the cir- 
+cuit courts of appeals on whether to include a require- 
+ment of reasonableness of reliance in § 523(a)(2)(A) cases. 
+The more compelling argument is found in those deci- 
+sions not requiring reasonableness of reliance. These 
+decisions fairly balance an honest debtor’s right to a fresh 
+start, a core purpose of the Bankruptcy Code, with pro- 
+tecting creditors from the fraud of dishonest debtors. 
+
+
+The elements of common law fraud or misrepresenta- 
+tion contain sufficient safeguards to prevent creditors 
+from relying on obviously false or absurd representa- 
+tions. 
+
+
+In the instant case while all the elements of non- 
+dischargeability were found in the lower courts, those 
+courts erroneously found the disputed debts discharge- 
+able because they required proof of reasonable reliance. 
+
+
+. 
+
+
+ARGUMENT 
+
+
+I. THE PLAIN LANGUAGE OF 11 U.S.C. § 523(a)(2)(A) 
+DOES NOT REQUIRE THAT A CREDITOR’S 
+RELIANCE ON THE FRAUD OF A DEBTOR BE 
+REASONABLE. 
+
+
+“When interpreting a statute, the starting point is, of 
+course, the language of the statute itself. If the language 
+is clear and unambiguous, and there is no clearly 
+expressed legislative intent to the contrary, that language 
+must ordinarily be regarded as conclusive.” American 
+Tobacco Co. v. Patterson, 456 U.S. 63, 68 (1982) and Con- 
+sumer Product Safety Commission v. GTE Sylvania, Inc., 447 
+U.S. 102, 108 (1980). 
+
+
+11 U.S.C. § 523(a)(2)(A) governs the dischargeability 
+of the debt in the instant case. § 523(a)(2)(A) sets out the 
+
+
+following elements of a non-dischargeability claim for 
+fraud: 
+
+
+1. The debt must be for money, property, ser- 
+vices, or an extension, renewal or refinancing of 
+credit. 
+
+
+2. Obtained by false pretenses, a false repre- 
+sentation, or actual fraud, other than a state- 
+ment respecting the debtor’s or an insider’s 
+financial condition. (emphasis added). (The full 
+text of § 523(a)(2)(A) and § 523(a)(2)(B) is set out 
+at petitioners’ Petition for Writ of Certiorari, 
+pages xi and xii.) 
+
+
+The language of § 523(a)(2)(A) is clear and unambiguous. 
+There is no additional requirement that the creditor’s 
+reliance on the fraud be “reasonable”. By contrast 11 
+
+
+U.S.C. § 523(a)(2)(B) specifically requires that creditors 
+seeking non-dischargeability of debts under that section 
+
+
+10 
+
+
+prove their reliance was reasonable. Since the plain lan- 
+guage of the statute excludes § 523(a)(2)(A) debts from 
+§ 523(a)(2)(B), by removing the class of debts created by a 
+statement respecting a debtor’s or insider’s financial con- 
+dition and creating § 523(a)(2)(B) to only include such 
+debts, the element of reasonable reliance contained in 
+§ 523(a)(2)(B) applies only to non-dischargeability claims 
+brought under that section. 
+
+
+Not only does the plain language of this statute 
+exclude § 523(a)(2)(A) debts from § 523(a)(2)(B), but 
+review of the Congressional history of these sections 
+indicates that the sections were meant to be mutually 
+exclusive. Where the clear language of the statute and 
+the Congressional intent are completely in harmony, the 
+conclusion is that the reasonable reliance element applies 
+only to claims of non-dischargeability brought under 
+§ 523(a)(2)(B). Because the debt in the instant case does 
+not fall under § 523(a)(2)(B) but falls under § 523(a)(2)(A), 
+the creditors’ reliance on the fraud of the debtor need not 
+be proven reasonable for the debt to be found non- 
+dischargeable. “Finding the statute clear on its face and 
+having no reason to think that Congress meant anything 
+other than what it said, we can only conclude that 
+§ 523(a)(2)(A) does not require a creditor to prove that his 
+
+
+‘ 
+
+
+2 124 Cong. Rec. H 11,095-6 (Daily Ed. Sept. 28, 1978); S 17, 
+412-13 (Daily Ed. Oct. 6, 1978). “Subparagraph A is intended to 
+codify current case law e.g. Neal v. Clark, 95 U.S. 704 (24 L.Ed. 
+586) (1887), which interprets ‘fraud’ to mean actual or positive 
+fraud rather than fraud implied in law. Subparagraph A is 
+mutually exclusive from subparagraph B. Subparagraph B per- 
+tains to the so-called false financial statement”. 124 Cong. Rec. S 
+17412 (Daily Ed. Oct. 6, 1978) (remarks of Senator DeConcini). 
+
+
+11 
+
+
+reliance on the debtor’s fraudulent misrepresentations 
+was reasonable”. IN RE: Ophaug, 827 F.2d 340 (8th Cir. 
+1987) at 343. 
+
+
+Il. THE LEGISLATIVE HISTORY OF § 523(a)(2)(A) 
+AND § 523(a)(2)(B) AND THEIR PREDECESSOR 
+STATUTE SHOW NOT ONLY AN INTENT THAT 
+THESE SECTIONS BE MUTUALLY EXCLUSIVE, 
+BUT SHOW A SUBSTANTIVE REASON BEHIND 
+APPLYING A HIGHER STANDARD OF 
+RELIANCE IN § 523(a)(2)(B) CASES. 
+
+
+The predecesso: statute to § 523(a)(2) is former 11 
+U.S.C. § 35(a)2. The language of the former statute did 
+not contain a requirement that reliance upon the debtor’s 
+fraud be reasonable. IN RE: Ophaug, 827 F.2d 340 (8th Cir. 
+1987) at 542.3 
+
+
+The term reasonable reliance as applied to non- 
+dischargeability first appears in ‘he modification of the 
+predecessor act in the Bankruptcy Reform Act of 1978, 95 
+Stat. 2549 (1978). 
+
+
+The legislative history of the modifications reflects 
+not only an intent to make separate provision for written 
+financial statements under § 523(a)(2)(B), but also makes 
+clear the reasoning behind applying a separate standard 
+of reliance from the types of debts whose dischargeability 
+were governed by § 523(a)(2)(A). Ophaug, at 342, 343, In 
+
+
+3 The case law under the former section likewise did not 
+require reasonable reliance. Id., citing IN RE: Houtman, 568 F.2d 
+651, 655 (9th Cir. 1978). However, the predecessor statute did 
+not make separate provision for false or fraudulent written 
+financial statements, as does the present version. 
+
+
+12 
+
+
+the Matter of Mayer, 1995 WL 193188 (7th Cir. Ill.). The 
+concern was that creditors might induce debtors to falsify 
+financial statements in order to make a debt non- 
+dischargeable. Congress therefore explicitly required that 
+non-dischargeability claims brought under § 523(a)(2)(B) 
+be premised upon a showing of reasonable reliance by the 
+creditor. Ophaug, at 342, 343, citing HR. Rep. No. 595, 95th 
+Cong., Ist Sess. 130-31 (1977) U.S. Code Cong. and 
+Administrative News 1978, P. 5787.4 The amended section 
+
+
+* “Current law provides a nearly identical exception 
+to discharge. The differences are that current law does 
+not cover a debt for services, and requires only 
+reliance, not reasonable reliance, by the creditor on 
+the statement. . . . The premise of the exception to 
+discharge is that a creditor that extended credit based 
+on misinformation or fraudulent information trans- 
+mitted by the debtor should be protected. The provi- 
+sion, however, has led to abuse in consumer cases, 
+and has frustrated the fresh start goal of the bank- 
+ruptcy discharge. 
+
+It is a frequent practice for consumer finance com- 
+panies to take a list from each loan applicant of other 
+loans or debts that the applicant has outstanding. 
+
+While the consumer finance companies use these 
+statements in evaluating the credit risk, very often the 
+statements are used as a basis for a false financial 
+statement exception to discharge. The forms that the 
+applicant fills out often have too little space,for a 
+complete list of debts. Frequently, a loan applicant is 
+instructed by a loan officer to list only a few or only 
+the most important of his debts. Then, at the bottom 
+of the form, the phrase “I have no other debts” is 
+either printed on the form, or the applicant is 
+instructed to write the phrase in his own handwrit- 
+ing. In addition, the form states that the creditor has 
+relied on the statement in granting the loan. 
+
+
+— 
+
+
+13 
+
+
+thus prevented creditors from essentially participating in 
+the fraudulent act of the debtor (by closing their eyes to 
+fraud at the time the debt is created) by discharging those 
+debts upon which the creditor’s reliance was not reason- 
+able, while allowing those honest creditors who make 
+sufficient inquiry (whose reliance is reasonable) to pre- 
+vent discharge of the debts owed them. Id. See also IN 
+RE: Fosco, 14 B.R. 918 (1981) at 918. “The requirement of 
+reasonable reliance under § 523(a)(2)(B) makes abusive 
+practices of this type less likely to succeed.” Id. 
+
+
+However, the creditor often has other sources of 
+information, such as credit bureau reports, to verify 
+the accuracy of the list of debts. Nevertheless, if the 
+debtor files bankruptcy, creditors with these financial 
+statements are in a position to threaten the debtor 
+with litigation to determine the dischargeability of 
+the debt, based on the false financial statement excep- 
+tion to discharge. Most often, there has been no intent 
+to deceive on the part of the debtor, and, as in so 
+many aspects of the creditor-debtor relationship, the 
+debtor has simply followed the creditor’s instructions 
+with little understanding of the consequences of his 
+action. 
+
+Creditor practices in this area have been so strong 
+that the Bankruptcy Commission recommended that 
+the false financial statement exception to discharge be 
+eliminated for consumer debts. This bill recognizes, 
+however, that there are actual instances of consumer 
+fraud, and that creditors should be protected from 
+fraudulent debtors. It retains the exception, with 
+small modifications. But it also recognizes that the 
+leverage creditors have over their debts comes not so 
+much at the stage when the loan application is made, 
+but rather when bankruptcy ensues.” HOUSE 
+REPORT 595, 95TH CONGRESS, 1ST SESSION, PGS. 
+130-131. 
+
+
+14 
+
+
+Subsequent to the changes contained in the 1978 Act, 
+some courts began to require reliance to be “reasonable” in 
+non-dischargeability claims brought under § 523(a)(2)(A) 
+as well as those brought under § 523(a)(2)(B), despite the 
+clear language of the statute.5 
+
+
+5 
+
+
+See 97 ALR Fed. 402 for analysis. 
+Circuit Courts of Appeals: 
+IN RE: Burgess, 955 F.2d 134 (1st Cir. .992) 
+Philips v. Coman, 804 F.2d 930 (6th Cir., 1986) 
+IN RE: Mullet, 817 F.2d 677 (10th Cir. Colo. 1987) 
+“Justifiable” rather than “reasonable” reliance required: 
+IN RE: Kursh, 973 F.2d 1454 (9th Cir. 1992) 
+District Courts: 
+IN RE: Hunt, 30 B.R. 425 (M.D. Tenn. 1983) 
+IN RE: McIntyre, 64 B.R. 27 (D.N.H. 1986) 
+IN RE: Michel, 74 B.R. 88 (N.D.Ohio 1985) 
+Title Ins. Corp. v. Pitt., 157 B.R. 585 (E.D. Va. 1991) 
+Bankruptcy Courts: 
+IN RE: Paolino, 89 B.R. 453 (B.C. E.D. Pa. 1988) 
+IN RE: Wise, 6 B.R. 867 (B.C. M.D. Fla. 1980) (discussing 
+§ 523(a)(2) in general) 
+IN RE: Ashley, 5 B.R. 262 (B.C. E.D. Tenn. 1980) 
+Bonosky v. Allen, 25 B.R. 566 (B.C. S.D. Ohio 1982) 
+IN RE: Constantino, 72 B.R. 231 (B.C. N.D. Ohio 1987) later 
+proceeding 80 B.R. 865 
+IN RE: Cheh, 96 B.R. 781 (B.C. N.D. Ohio 1988) 
+IN RE: Cicero, 28 B.R. 480 (B.C. E.D. Wis. 1983) 
+IN RE: Guy, 101 B.R. 961 (B.C. N.D. Ind. 1988) 
+IN RE: Younesi, 34 B.R. 828 (B.C. C.D. Cal. 1988) 
+IN RE: Howarter, 95 B.R. 180 (B.C. S.D. Cal. 1989) 
+IN RE: Brewood, 15 B.R. 211 (B.C. D.C. Kan. 1981) (disap- 
+proved on other grounds by Birmingham Trust Nat. Bank v. 
+Case, 755 F.2d 1474 (11th Cir. Ala. 1985)) 
+IN RE: Maranzino, 67 B.R. 394 (B.C. D.C. Kan. 1986) 
+IN RE: Anzman, 73 B.R. 156 (B.C. D.C. Colo. 1986) 
+IN RE: Gering, 69 B.R. 686 (B.C. D.C. Kan. 1987) 
+
+
+15 
+
+
+Other courts, specifically the Eighth Circuit, Seventh 
+Circuit and the Fifth Circuit, as well as other lower 
+courts, do not require reasonable reliance.® 
+
+
+The analysis used by those courts requiring proof of 
+reasonable reliance as an element in § 523(a)(2)(A) cases 
+
+
+IN RE: Beleau, 35 B.R. 259 (B.C. D. R.I. 1983) 
+
+IN RE: Salvatore, 46 B.R. 247 (B.C. D. R.I. 1984) 
+
+Matter of Eaton, 41 B.R. 800 (B.C. E.D. Wis. 1984) 
+
+Matter of Weinstein, 31 B.R. 804 (B.C. E.D. N.Y. 1983) 
+
+IN RE: Gonzalez Seijo, 76 B.R. 11 (B.C. D. P.R. 1987) 
+
+IN RE: Waning, 120 B.R. 607 (B.C. D. Me. 1990) 
+
+IN RE: Sestito, 136 B.R. 602 (B.C. D. Mass. 1992) 
+
+Matter of Haining, 119 B.R. 460 (B.C. D. Del. 1990) 
+
+U.S. v. Spicer, 155 B.R. 795 (B.C. D.C. Dist. Col. 1993) 
+
+ITT Fin. Servs. v. Schoenlein, 157 B.R. 824 (B.C. N.D. Ohio 
+1993) 
+
+First Bank Sys., N.A. v. Foley, 156 B.R. 645 (B.C. D.C. N.D. 
+1993) 
+
+6 
+
+
+Circuit Courts of Appeals: 
+
+IN RE: Ophaug, 827 F.2d 340 (8th Cir. 1987) 97 ALR Fed. 395 
+
+Matter of Allison, 960 F.2d 481 (5th Cir. 1992) 
+
+In the Matter of Mayer, 1995 WL 139188 (7th Cir. Ill.) 
+Bankruptcy Courts: 
+
+IN RE: Showalter, 86 B.R. 877 (B.C. W.D. Va. 1988) 
+
+IN RE: Hamm, 92 B.R. 386 (B.C. W.D. Mo. 1989) 
+
+IN RE: Kroh, 88 B.R. 972 (B.C. W.D. Mo. 1988) 
+
+IN RE: Stewart, 91 B.R. 489 (B.C. S.D. Iowa 1988) 
+
+IN RE: Fosco, 14 B.R. 918 (B.C. D.C. Conn. 1981) 
+
+IN RE: Sobel, 37 B.R. 780 (B.C. E.D. N.Y. 1984) 
+
+IN RE: Monahan, 125 B.R. 697 (B.C. D. R.I. 1991) 
+
+IN RE: Schwartz and Meyers, 130 B.R. 416 (B.C. S.D. N.Y. 
+
+1991) 
+
+IN RE: McDermott, 139 B.R. 50 (B.C. D. R.1. 1992) 
+
+
+16 
+
+
+is not persuasive. In IN RE: Burgess, the First Circuit, 
+without any detailed analysis of § 523(a)(2)(A) merely 
+states that the creditor was required to prove “ . . . (3) the 
+creditor actually relied on the misrepresentation, and (4) 
+the creditor’s reliance was reasonable under the circum- 
+stances.” IN RE: Burgess, 955 F.2d 134, 140 (1st Cir. 1992). 
+The Sixth Circuit in IN RE: Philips, 804 F.2d 930 (6th Cir. 
+1986) relied on IN RE: Martin, 761 F.2d 1163 (6th Cir. 1985) 
+to conclude that § 523(a)(2)(A) cases require reasonable 
+reliance, but the Philips court admitted that Martin dealt 
+with a § 523(a)(2)(B) discharge. “Although Martin deals 
+with § 523(a)(2)(B), we believe these principles apply 
+with equal force to § 523(a)(2)(A).” Philips, at 933. 
+
+
+The more persuasive view is that reasonable reliance 
+is not required in non-dischargeability actions under 
+§ 523(a)(2)(A). A compelling argument for this position is 
+the reasoning contained in IN RE: Ophaug, 827 F.2d 340 
+(8th Cir. 1987) and In the Matter of Mayer, 1995 WL 139188 
+(7th Cir. Ill.). In Ophaug the debtors had fraudulently 
+obtained a loan from creditors, purportedly to purchase 
+farm land. After securing a state court judgment, the 
+creditors’ judgment was discharged when the Bankruptcy 
+Court concluded that the creditors’ reliance on the mis- 
+representations of the debtor was unreasonable. Id. at 
+398. 
+
+
+‘ 
+
+
+In reversing the District Court’s affirmance of the 
+Bankruptcy Court, the Eighth Circuit Court of Appeals 
+embarked on a thorough review of the statutory language 
+of § 523(a)(2)(A) and § 523(a)(2)(B), as well as a review of 
+the clearly established Congressional intent behind these 
+sections. Id. at 342, 343. The Eighth Circuit concluded that 
+
+
+17 
+
+
+§ 523(a)(2)(A) contained no requirement of reasonable- 
+ness of a creditor's reliance. Id. 343. “Finding the statute 
+clear on its face and having no reason to think that 
+Congress meant anything other than what it said, we can 
+only conclude that § 523(a)(2)(A) does not require a credi- 
+tor to prove that his reliance on the debtor’s fraud was 
+reasonable.” Id. 
+
+
+In this case, as in Ophaug, the creditors’ action was 
+brought under § 523(a)(2)(A) which does not require that 
+the creditors’ reliance be reasonable. 
+
+
+In Mayer, the Seventh Circuit addressed the question 
+of “whether a liar may obtain a discharge in bankruptcy 
+by showing that the victim did not do enough to nose out 
+the truth.” Mayer at 1. The short answer the court sup- 
+plied was: “Debts attributable to fraud may not be dis- 
+charged, 11 U.S.C. § 523(a)(2)(A) and intentional deceit 
+concerning a material proposition is fraud whether or not 
+a more alert target would have smelled a rat.” Id. 
+
+
+Mayer involved two transactions. the first where the 
+debtors acted as “fronts” to secure loans for less credit- 
+worthy friends, and the second where the debtor fabri- 
+cated a purchase order as proof of income to induce a 
+lender to lend him funds. In neither instance was the 
+creditor paid. 
+
+
+The Seventh Circuit Court of Appeals found the 
+debtor in both instances had made material misrepresen- 
+tations, on which the creditors had relied. Id. at 6, 7. In 
+excepting the debts from discharge the court stated 
+“fraud is an intentional tort, and victims need not take 
+precautions against such torts in order to preserve their 
+rights.” Id. at 5. 
+
+
+18 
+
+
+The Court, as in Ophaug, looked to the intent of 
+Congress in enacting § 523(a)(2)(A), to determine whether 
+or not Congress had intended that a “reasonableness” 
+element be included. It was noted that Congress had 
+specifically provided for a “reasonable” element in 
+§ 523(a)(2)(B), but had not in § 523(a)(2)(A). Id., at 4. 
+“Congress deliberately distinguished the criteria for dis- 
+charge according to the kind of document in which the 
+falsehood appears” Id. The court also cited Prosser and 
+Keeton on Torts, as well as the Restatement (2d) of Torts, 
+as authority that “contributory negligence is not a 
+defense to an intentional tort,” Id. at 5. The plaintiff 
+simply had no duty to investigate the truth of the defen- 
+dant’s statements. Id. 
+
+
+The holdings in Ophaug and Mayer are consistent 
+with the purpose of the Bankruptcy Code. This Court has 
+held that the central purpose of the Bankruptcy Code is 
+to provide a procedure by which certain insolvent 
+debtors can reorder their affairs, make peace with their 
+creditors, and enjoy “a new opportunity in life and a clear 
+field for further effort, unhampered by the pressure and 
+discouragement of pre-existing debt.” Grogan et al. v. 
+Garner, 498 U.S. 279 (1991) quoting Local Loan Co. v. Hunt, 
+292 U.S. 234, 244 (1934). However, this opportunity for a 
+completely unencumbered new beginning is limited to 
+the “honest but unfortunate debtor”. Grogan, at 287. This 
+requires a balance between the conflicting interests of the 
+debtor’s “fresh start” and the creditor’s right to recover 
+debts which Congress excepted from discharge. In deter- 
+mining the standard of proof required in determining 
+dischargeability of debts in § 523(a)(2)(A) cases, this 
+Court found that “we think it unlikely that Congress, in 
+
+
+19 
+
+
+fashioning the standard of proof that governs the appli- 
+cability of these provisions, would have favored the inter- 
+est in giving perpetrators of fraud a fresh start over the 
+interest in protecting victims of fraud”. Id. It is respect- 
+fully submitted that this Court should be equally reluc- 
+tant to rule that Congress would favor the interests of the 
+perpetrator of fraud over the victim of fraud by requiring 
+reasonable reliance in § 523(a)(2)(A) cases absent express 
+Congressional intent that such standard be applied. 
+
+
+Ill. THE ELEMENTS OF COMMON LAW FRAUD OR 
+MISREPRESENTATION CONTAIN SUFFICIENT 
+SAFEGUARDS TO PREVENT CREDITORS FROM 
+RELYING ON OBVIOUSLY FALSE OR ABSURD 
+REPRESENTATIONS. 
+
+
+Holding that reasonable reliance is not a required 
+element of a non-dischargeability claim under 
+§ 523(a)(2)(A) will not open the door to patently unsup- 
+portable complaints of creditors. This concern has been 
+addressed in the case of IN RE: Fosco, 14 B.R. 918 (B.C. 
+D.C. Conn. 1981). The Fosco court reasoned that “When 
+misrepresentation is so apparent that the plaintiff’s con- 
+duct cannot be said to have been motivated by any 
+reliance the recovery is barred where reliance is an ingre- 
+dient of proof in the plaintiff's case.” Any action based on 
+fraud requires proof of the element of reliance to show a 
+material nexus between the fraudulent act of the per- 
+petrator and the harm to the victim, however, the com- 
+mon law of fraud does not have any reasonable 
+investigation requirement. In the Matter of Mayer, 1995 
+WL 139188 at 5 (7th Cir. Ill., March 31, 1995). The Restate- 
+ment of Torts, 2d, § 540 also states that reliance on a 
+
+
+20 
+
+
+misrepresentation must only be justifiable. Justifiable 
+reliance does not require that the recipient of misrepre- 
+sentation investigate the underlying assertion. Id. The 
+recipient is justified in relying on its truth. Id. Only if the 
+representation is known by the recipient to be false, or if 
+its falsity is obvious, is reliance upon the assertion not 
+justified. Id., at § 5417 
+
+“The plaintiff's conduct must not be so utterly 
+
+unreasonable in the light of the information 
+
+open to him, that the law may properly say that 
+
+his loss is his own responsibility.” William L. 
+
+Prosser, Law of Torts, § 108 p. 715, (4th Edition 
+
+1971). 
+
+
+The findings of the Bankruptcy Court in the instant 
+case criticized the creditor for failing to investigate. 
+
+
+“A party is not entitled to, you, know, be in good 
+faith and just not objectively (sic) reasonable. . . . 
+case law establishes an objective test, and that is 
+what would be reasonable for a prudent man to do 
+under the circumstances.” (R.84). 
+
+
+The Bankruptcy Court went on to add that the creditor 
+should have undertaken certain investigations, including 
+researching the Registry of Deeds. Id. 
+
+
+7 § 540 provides the following illustration of the lack of any 
+duty of investigation by one who relies on misrépresentation: 
+1. A, seeking to sell land to B, tells B that the land is 
+free from all encumbrances. By walking across the 
+street to the office of the Registry of Deeds in the 
+Courthouse, B could easily learn that there is on 
+record an unsatisfied mortgage on the land. B does 
+not do so and buys the land in reliance upon A’s 
+misrepresentation. His reliance is justifiable. Restate- 
+
+ment (2d) of Torts, § 540 at 88. 
+
+
+21 
+
+
+As the above authorities demonstrate, application of 
+this standard of “the reasonably prudent man” and the 
+duty to investigate is contrary to the elements of common 
+law misrepresentation. Therefore, the Bankruptcy Court 
+held the creditor in this case to an incorrect standard. It is 
+noteworthy that the Bankruptcy Court in ruling that the 
+creditor should have researched the Registry of Deeds, 
+runs directly contrary to the illustration of justifiable 
+reliance contained in Section 540 of the Restatement of 
+Torts (2d). Such investigation is not required. See footnote 
+7. 
+
+
+IV. IN THE INSTANT CASE, THE FIRST CIRCUIT’S 
+RULING THAT REASONABLE RELIANCE IS 
+REQUIRED FOR NON-DISCHARGEABILITY OF 
+DEBTS IN § 523(a)(2)(A) CASES WAS ERRO- 
+NEOUS. SINCE THE PETITIONERS PROVED ALL 
+OTHER ELEMENTS, AND ALL NECESSARY ELE- 
+MENTS FOR NON-DISCHARGEABILITY UNDER 
+§ 523(a)(2)(A), THE CIRCUIT COURT’S DECISION 
+MUST BE REVERSED. 
+
+
+The Bankruptcy Court in the instant case found that 
+the debtor in this matter had made implicit misrepresen- 
+tations to the creditors. 
+
+
+“All right. I’m going to find that there was a 
+misrepresentation by you and your attorney in 
+sending letters to Mr. Field that clearly implied 
+that it (the property) had not yet been trans- 
+ferred.” (R.68). 
+
+
+Additionally, the Bankruptcy Court found that the peti- 
+tioner did rely upon the fraudulent representation of the 
+
+
+22 
+
+
+debtor, and that this reliance resulted in harm to the 
+petitioner. 
+
+
+“The evidence clearly establishes that the Fields 
+relied on the implicit misrepresentations in 
+these letters that the property had not yet been 
+transferred. It’s also established that they relied 
+on this . . . to their detriment, in that at the time 
+of October, 1987 the real estate market was still 
+booming in this State.” (R.80, 81). 
+
+
+The debt was ultimately deemed dischargeable, however, 
+because the petitioners’ reliance was found not to be 
+reasonable. Id. at 81. Since all of the necessary elements 
+for non-dischargeability were found by the Bankruptcy 
+Court, and only the unnecessary element of the rea- 
+sonableness of the petitioners’ reliance was decided 
+against the petitioners, the Court of Appeals’ decision 
+affirming the District Court’s and thus the Bankruptcy 
+Court’s decision should be reversed. “ . . . The debtor 
+whose conduct is fraudulent under § 523(a)(2)(A) should 
+not be discharged from his fraudulent debt when his 
+victim’s conduct was merely less than prudent.” IN RE: 
+Fosco, 14 B.R. 921, 923 (B.C. D.C. Conn. 1981). 
+
+
+* 
+
+
+23 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the petitioners request that 
+the judgment of the Court of Appeals be reversed, and 
+the case remanded for entry of judgment in the peti- 
+tioners’ favor on the claims under § 523(a)(2)(A) of the 
+Bankruptcy Code. 
+
+
+Respectfully submitted, 
+
+
+CHRISTOPHER J. SEUFERT 
+(Counsel of Record) 
+
+WituuaM J. ScHuLtz 
+
+SEUFERT PROFESSIONAL ASSOCIATION 
+59 Central Street 
+Franklin, New Hampshire 03235 
+(603) 934-9837 
+Counsel for Petitioners 
+William and Norinne Field 
+
+

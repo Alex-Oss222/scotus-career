@@ -1,0 +1,1467 @@
+Shae 
+
+
+EDITOR'S NOTE 
+
+
+THE FOLLOWING PAGES WERE POOR HARD COPY 
+AT THE TIME OF FILMING, IF AND WHEN A 
+BETTER COPY CAN BE OBTAINED, A NEW FICHE 
+WILL BE ISSUED. 
+
+
+fot 
+ag 
+No. 
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+
+#4 -66 Is 
+
+
+OCTOBER TERM 1994 
+
+
+CARL THOMPSON, 
+‘Petitioner, 
+Vs. 
+PATRICK KEOHANE, Warden, 
+BRUCE M. BOTELHO, Attorney General, 
+
+
+State of Alaska, 
+
+
+Respondent. 
+
+
+PETITION FOR WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS POR TUE 
+
+
+NINTH CIRCUIT 
+
+
+CARL THOMPSON 
+
+Petitioner 
+
+In Pro Per 
+
+Rey. No. 90712-011 (C-Unit) 
+3901 Klein Blvd. 
+
+Lompoc, Ca. 93436 
+
+
+QUESTION PRESENTED 
+
+
+What standard of review shall an appellant court employ when 
+there's conflicting case law on the standard of review of when 
+a suspect has been taken “into custody", triggering the 
+requirement that Miranda warnings be administered? 
+
+The Second, Third, Sixth, and Eleventh Circuits consider the 
+question to be essentially legal, or a mixed determination of 
+law and fact, meritiny, de novo review. The Seventh, Eighth, and 
+Ninth Circuits favor treatment as a factual matter, to be left 
+
+
+undisturbed on appeal unless clearly erroneous. 
+
+
+TABLE OF CONTENTS 
+
+
+PAGE No, 
+QUESTION PRESENTED ..........cceeevvcvcvccees eoccces i 
+TABLE OF CONTENTS .......cccccccsccvccccevesvess ooe Af 
+TABLE OF AUTHORITIES 2... cece recevccvees -+» iii-iv 
+DECISION BELOW .... ccc cccnncccvccccvcces corccccces oe l 
+JURISDICTION IN THE SUPREME COURT .....eeeeeeeeceees 1 
+STATEMENT OF THE CASE .....-.-2-eeeeeeeees eocccccces 2-5 
+REASONS FOR GRANTING THE WRIT .... cece cece eeeecevees 5 
+ARGUMENT . ccc ccc ccccnccccercccceeeseeseseesesess 5-10 
+CONCLUSION ...ccccccccvcvccccccccscevecesesseseses - il 
+
+
+wee 
+
+
+TABLE OF AUTHORITIES 
+
+
+PAGE No. 
+
+
+Cobb v. Perini, 832 F. 2d 342, 346 (6th Cir. 1987 .. 9 
+
+
+Davis v. North Carolina, 384 U.S. 737, 741-42, 
+86 S. Ct. 1761, 1764, 16 L. Ed. 2d 895 (1966). ..... 6 
+
+
+Florida v. Royer, 460 U.S. 491, 103 S. Ct. 1319, 
+75 L. Ed. 2d 229 (1983) ....cee- ccbeceesdecnedvesenceoes © 
+
+
+Jackson v. United States, 353 F. 2d 862 (D.C. Cir. 
+1965) eS 2 ee we Se... 2 Oe ee eC ey ee ee eae es ee? Se ; nin atiaws es beens hee 
+
+
+Jacobs v. Singletary, 952 F. 2d 1282, 1291 (11th 
+Cir. 1992) BeaSBeReRAR EE RRR Ree FE FA pevcvodc cd viedeetsaaene eo 
+
+
+Kranz v. Brigys, 983 F. 2d 963-64 (9th Cir. 1993)... 4 
+
+
+Miller v. Fenton, 474 U.S. 104, 88 L. Ed. 2d 405, 
+106 BS. Ct. 445 CAMB) cc cccvcvvvevseceseseses secede oe 
+
+
+Oreyon v. Mathiason, 429 U.S.492, 97 S. Ct. 711, 
+50 L. Ed. 2d 714 (1977)...... pebenees éceucseeedéees cu. 
+
+
+Orozco v. Texas, 394 U.S. 324, 89 S. Ct. 1095, 22 
+ee Ed. 2d 311 (1969) ey xR et oe mf a in ow at alae ah & ee eile eee te 
+
+
+Rhode Island v. Innis, 446 U.S. 291, 100 S. Ct. 
+1682, 64 L. Ed. 2d 297 (1980) ...ccccvecveevevsevseee 9 
+
+
+Thompson v. State, 768 P. 2d 127 (Alaska 
+App. 1989) + adh oe edie 6 and Gna wees Chee eth bea 
+
+
+Unite ta v. Boden, 854 F. 2d 983, 990 (7th 
+Cir. 1988) “eee eee eee ree 6 0 be ce bdhr bee aaeenhs ctbbebdasee er 
+
+
+United States v. Calisto, 838 F. 2d 711, 717 (3rd 
+Cir. 1988) ETS! POS Oe, Pye ee Oe er ey (ae Te 
+
+
+United States v. Ceballos, 812 F. 2d 42, 47, & 
+n. 1 (2nd Cir. 1987) “ener enoneneneeeneeneneeneeeneeeeneeeeeeee 7,9 
+
+
+United States v. Griffin, 922 F, 2d 1343, 1347 
+(StH. Cif. BBO) sioccove Py OE PERS éwads 04d 0000 64 
+
+
+United States v. Hocking, 860 F. 2d 769, 772 
+(7th Cir. 1988) “eer evreneneneneneewneanenenenenewnewn ene eneneaneneereenenenee 7,8 
+
+
+-iii- 
+
+
+PAGE No. 
+
+
+United States v. Linnick, 917 F. 2d 974, 
+976-77 (7th Cir. TT. TL TTP TUPTT TPCT TTTTTe 8 
+
+
+United States v. Levy, 955 F. 2d 1098, 
+en i i. . ene ee kescoeseehetst 8 
+
+
+United States v. Malin, 908 F. 2d 163, 
+i i. in enns s Seek es peeeseebrcecececiae 7 
+
+
+United States v. Mendenhall, 446 U.S. 544, 
+100 S. Ct. 1870, 64 L. Ed. 2nd 497 (1980) .......... 6 
+
+
+puted States v. Masa, 638 F. 2d 582, 591 
+
+Eee Ws BUD £6 cedececodoccvecsccecceeoeecese 9, 10 
+united States v. Sutera, 933 F. 2d 641, 646 
+
+SU WEG GUUED CS Fodccocscoacecodeceseecesccooeeces 8 
+vulted States 7. Teslim, 869 F. 2d 316, 321 
+
+Soe Ee EE OW OSOCec pcecens Sbceeeeeceneecsooeesée 7 
+
+
+United States v. Torkington, 874 F. 2d 1441, 
+BUGw COON GEO. BOD cocaceccccccceseccccccescsocns 9 
+
+
+Withrow, 944 F. 2d 284, 288 
+
+
+CONSTITUTIONAL PROVISIONS 
+
+
+Amendment V to the United States Constitution ...... 2 
+
+
+Amendment XIV to the United States Constitution .... 2 
+
+
+STATUTES CITED 
+
+
+28 U.S.C. $2254 ee ee ee | 1 
+a Weues EE ED Soocecicectevedocce ee eeecesseseses 2 
+
+
+28 U.S.C. $2254 (d) ...... Ceeecescesesesecseseces O 1O 
+
+
+-iv- 
+
+
+DECISI BELOW 
+
+
+Mr. Thompson brings this Petition from a final decision 
+
+
+from the Ninth Circuit Court of Appeals, filed on August 11, 
+
+
+1994. 
+
+
+JURISDICTION IN THE SUPREME COURT 
+
+
+Carl Thompson was convicted by a jury verdict of the 
+oftenses of murder in the first-degree and tampering with 
+physical evidence in the Superior Court for the State of Alaska 
+at Pairbanks. dsudgement was entered on July 22, 1987. 
+Petitioner appealed the ruling on a suppression motion to the 
+Alaska Court of Appeals; his conviction was affirmed. He then 
+sought discretionary review in the Alaska Supreme Court; this 
+petition was denied without opinion. 
+
+Petitioner then brought a petition under 28 U.S.C. $2254 
+in the United States District for the District of Alaska, in 
+which he sought federal relief for a violation of his rights 
+under the Fifth and Fourteenth Amendments to the United States 
+Constitution. The petition was denied December 9, 1993, and a 
+Certificate of Probable Cause was executed by the clerk, at the 
+court's direction, on December 27, 1993. 
+
+The Court of Appeals for the Ninth Circuit issued it's 
+Opinion August 11, 1994. This Petition follows. The 
+jurisdiction of the Supreme Court is invoked pursuant to 
+
+
+28 U.S.C. $1254 (1). 
+
+
+CONSTITUTIONAL PROVISIONS 
+
+
+Amendment V_ to the United States Constitution: No person 
+
+
+shall be... compelled in a criminal case to be a witness against 
+himself... 
+
+
+Amendment XIV to the United States Constitution: No State 
+
+
+shall... deprive any person of life, liberty, or property, 
+
+
+without due process of law... 
+
+
+STATEMENT OF THE CASE 
+
+
+On September 10, 1986, two moose hunters found the body of a 
+dead woman floating in a yravel-pit off Elliott Highway, twenty 
+miles north of Fairbanks, Alaska. 
+
+On September 11, 1986, the Alaska State Troopers issued a 
+press-release asking for the public's help in identifying the 
+woman's body. 
+
+On September 12, 1986, the woman's body was identified 
+through dental records as that of Dixie Gutman. 
+
+On September 13, 1986, David Huffaker and Mike Stanton 
+made a joint tape-recorded statement at Trooper Headquarters 
+implicating Mr. Thompson in the death of his ex-wife, Ms. 
+Gutman. 
+
+Also on September 13, 1986, a woman named Valerie Key, 
+notified troopers that she found some of the victim's personal 
+belongings in a dumpster. 
+
+At this point, the Troopers had zeroed in on Mr. Thompson 
+as their prime suspect in the murder of Ms. Gutman. 
+
+
+On September 15, 1986, Sergeant Stockard of the Alaska State 
+Troopers telephoned Mr. Thompson and asked him to come down to 
+the station and identify some personal effects of his ex-wife 
+that had been found. 
+
+When Mr. Thompson arrived at trooper headquarters, he was 
+taken to the interrogation room where Troopers’ Hard and Stockard 
+were waiting to interrogate him. 
+
+Early in the interrogation on 9/15/86, the troopers made it 
+clear to Mr. Thompson that he was their prime suspect in the 
+murder of his ex-wife. 
+
+The troopers next informed Mr. Thompson that other troopers 
+were at his residence with a search warrant at that very moment, 
+and they also had a search warrant for Mr. Thompson's truck, 
+which he had driven to the station-house. 
+
+The troopers next confronted Mr. Thompson with the know 
+facts and presented him with some of the evidence they had to 
+prove he had not been truthful with them. 
+
+The troopers compared Thompson's situation to that of a 
+poker player facing unbeatable odds. To further induce Mr. 
+Thompson into incriminating himself; the troopers made promises 
+of leniency if he cooperated and made a statement confessing to 
+the murder of his ex-wife. 
+
+This interrogation lasted from 10:58 a.m. until 12:45 p.m., 
+where for the first hour and a half, Mr. Thompson steadfastly 
+denied any involvement in the death of his ex-wife, but in the 
+end, under unrelenting pressure by the troopers, Mr. Thompson 
+made a confession, without waiving or receiving a Miranda 
+
+
+warning. 
+
+After Mr. Thompson gave the troopers his statement, his 
+truck was impounded and he was driven to a friends home by 
+Trooper Hard, where he was arrested two hours later by the same 
+troopers who just a short time earlier had told Thompson that he 
+would not be arrested. 
+
+The trial court judge in his memorandum opinion character- 
+ized the troopers actions as a “devious tactic” and found that 
+the troopers had intentionally circumvented the Miranda require- 
+ment to increase their chances of obtaining a confession from Mr. 
+Thompsoa. The Alaska Court of Appeals characterized the decision 
+of the trial court as "“correct" and affirmed Mr. Thompson's 
+conviction. (Published opinion at 768 P. 2d 127, Alaska App. 
+1989). 
+
+The Alaska Supreme Court denied review without opinion. 
+
+In the United States District Court, Judge Sedwick found 
+that "State court findings of fact are presumed correct in Ilabeas 
+Corpus proceedings" and denied the petition. 
+
+The Ninth Circuit Court of Appeals declined Mr. Thompson's 
+invitation to find that the analysis of custody, for Miranda 
+purposes, is a mixed question of law and fact. Relying upon 
+Kranz v. Briggs, 983 F. 2d 961, 963-64 (9th Cir. 1993), as well 
+as U.S.C. §2254 (d). Although, it should be noted that Mr. 
+Thompson proceeded pro se in the Ninth Circuit Court of Appeals 
+and in his opening brief he listed the standard of review as that 
+prescribed by 28 U.S.C. $2254 (d), however Mr. Thompson's counsel 
+
+
+at oral argument made it clear to the three judge panel that the 
+
+
+wile 
+
+
+proper standard was de novo review in regards to a Miranda issue. 
+The Court concluded that whether a Defendant is in custody for 
+purposes of Miranda is a factual determination entitled to the 
+
+
+presumption of correctness under 28 U.S.C. $2254 (d). 
+
+
+REASONS FOR GRANTING THE WRIT 
+
+
+This Court has not ruled upon the question presented. The 
+decision of the Ninth Circuit, on the standard of review, 
+conforms to the approaches of the Seventh and Eighth Circuits, 
+but conflicts with the treatment accorded the question by the 
+Second, Third, Sixth, and Eleventh Circuits. The Second and 
+Seventh Circuits have particularly commented upon the "split" in 
+
+
+the Circuits and the lack of yuidance form this Court. 
+ARGUMENT 
+
+
+In 1987, the Second Circuit expressed doubt about the stand- 
+ard of review to be employed in considering a trial court's 
+decision that an individual was not, in custody when he was 
+questioned by the police. It capsulized the Supreme Court's 
+treatment of “custody” for the Fourth Amendment purposes, 
+without identifying a rule of law applicable in the Fifth 
+Amendment area. 
+
+The Supreme Court has not been precise in stating whether a 
+
+
+trial court's conclusion as to the Fourth Amendment custody is a 
+
+
+question of tact or a conclusion of law. In Florida v. Royer, 
+4 a 
+
+
+460 U.S. 491, 103 S. Ct. 1319, 75 L. Ed. 2nd 229 (1983), a case 
+involving a search and arrest of a person fitting the "drug 
+courier profile", see Id., at 493 n. 2, 103 S. Ct. at 1322 n. 2, 
+a plurality of the Court appears to reach an independent 
+conclusion that the defendant was seized within the meaning of 
+the Fourth Amendment: 
+
+Asking for and examining Royer's ticket and 
+
+his drivers's license were no doubt permiss- 
+
+able in themselves, but when officers 
+
+identitied themselves as narcotics agents, 
+
+told Royer he was suspected of transporting 
+
+narcotics, and asked him to accompany them to 
+
+the police room, while retaining his ticket 
+
+and driver's license and without indicating 
+
+in any way that he was free to depart, Royer 
+
+was effectively seized for purposes of the 
+
+Fourth Amendment. Id., at 501, 103 S. Ct. at 
+
+1326 (plurality opinion of White, J.). 
+
+Earlier in his opinion however, Justice White states that 
+the issue is whether the record supports the conclusion reached 
+by the state intermediate appellate court whose judgement was 
+being reviewed. ld. The state appellate court had disagreed 
+with the trial court. A plurality of the Supreme Court was more 
+explicit in United States v. Mendenhall, 446 U.S. 544, 100 S. Ct. 
+1870, G4 LL. Fd. 2d 497 (1980), the first major drug courier 
+protile case, rebuking the Court of Appeals for substituting it's 
+view of the evidence for that of the District Court. Id., at 557, 
+100 S. Ct. at 1878 (plurality opinion of Stewart, J.) (citing 
+Jackson v. United States, 353 F. 2d 862 (D.C. Cir. 1965), 
+
+
+(applying a “clearly erroneous" test). But cf. Davis v. North 
+
+
+Carolina, 384 16 L. Ed 2d 895 (1966), (stating that appellate 
+
+
+courts are to make an “independent determination of the ultimate 
+
+
+issue of voluntariness" of a confession). 
+
+
+United States v. Ceballos, 812 F. 2d 42, 47 n. 1 (2d Cir., 
+
+
+1OR7). 
+The Seventh Circuit was no beiter positioned three years 
+
+
+latter to ascertain the Supreme Court's direction on the question 
+
+
+of custody: 
+
+
+As an initial matter, there is a question as 
+to the proper standard of appellate review of 
+whether a person was “in custody" for 
+purposes of Miranda. Linnick, claims that the 
+proper standard is de novo review of the 
+district court's holding. For support, he 
+points to United States v. Hocking, 860 F. 
+
+2d 769, 772 (7th Cir. 1988), where the court 
+held that the “ultimate issue of whether 
+there was a custodial interrogation is a 
+mixed question of law and fact". As such, 
+llocking held that the district court's 
+“determination is independently reviewable 
+
+by an appellate court". Id. There was no 
+direct authority for this holding, however, 
+and the court in Hocking noted conflicting 
+authority supporting the more deferential 
+“clearly erroneous" standard. See Id. 
+
+
+Due to lack of definitive Supreme Court preeedent on the 
+
+
+issue, sce Unitec States v. Boden, 854 F. 2d 983, 990 (7th Cir., 
+
+
+1988), the announced standards range from Hocking's de novo 
+review, 860 F. 2d at 772, to an intermediate standard of 
+granting the district court's determination “some difference", 
+
+
+United States v. Ceballos, 812 F. 2d 42, 47 & n.1l (2d Cir. 
+
+
+1987), to the clearly erroneous standard that grants district 
+
+
+court determinations the yreatest deference. United States v. 
+Teslim, 869 F. 2d 316, 321 (7th Cir. 1989); cf. Un v. 
+Malin, 980 PF. 2d 163, 169-70 (7th Cir. 1990) (noting a split in 
+authority on the question whether probable cause determinations 
+
+
+“= 
+
+
+are entitled to de novo or clearly erroneous review). The 
+wovernment does not address the question and fails to suggest an 
+appropriate appellate standard in this case. 
+
+
+United States v. Lennick, 917 F. 2d 974, 976-77 (7th Cir. 
+
+
+1990). The Seventh Circuit did not resolve the question in 
+Lennick. Tt's 1988 decision in flocking, citing in Lennick, 
+
+
+includes an express election of the view that “custody” is a 
+mixed question of law and fact, requiring “independent review" in 
+
+
+the appellate court. United States v Hocking, 860 F. 2d 772. In 
+
+
+a recent turnabout, the “precedential value” of Hocking was 
+"“vitiated" in favor of deference to the findings of the District 
+Court, because, a 1992 panel found, Hocking had been decided in a 
+manner out of line with the thinking of the other circuits. 
+
+
+United States v. Levy, 955 F. 2d 1098, 1103 & n. 5 (7th Cir. 
+
+
+1992). Levy, however, may not represent a final solution even in 
+the Seventh Circuit; the court expressly endorsed deference only 
+to the “underlying factual findings and ... resolution of 
+credibility disputes" of the district court. It did not decide 
+whether the conclusion of legal significance, whether those facts 
+supported a finding of custody, was one to be decided under the 
+"clearly erroneous" standard as well. 
+
+The Eighth Circuit has made a more clearly identifiable 
+choice: the finding that an individual questioned by the police 
+is in “custody” is reviewed under a “clearly erroneous standard". 
+United States v. Sutera, 933 F. 2d 641, 646 (8th Cir. 1991); 
+United States v. Griffin, 922 F. 2d 1343, 1347 (8th Cir. 1990). 
+
+
+In contrast, the Second Circuit accords “some deference" to 
+
+
+the conclusions of the trial court because the findings in a 
+particular case may be intertwined with creditahbility 
+determinations, but the resolution of whether a reasonable person 
+would have believed himself to have been in custody is regarded 
+as a legal question independently evaluated on the appeal. 
+
+
+United States v. Ceballos, 812 F. 2d at 46-47. 
+
+
+The Third, Sixth, and Eleventh Circuits fall in line with 
+the Second. Without qualification, these three courts consider 
+the question of law and fact warranting de novo review. See for 
+
+
+example, Jacobs v. Singletray, 952 F. 2d 1282, 1291 (1ith Cir. 
+
+
+1992); Williams v. Withrow, 944 F. 2d 284, 288 (6th Cir. 1991); 
+
+
+United States _v. Torkington, 874 F. 2d 1441, 1445 (llth Cir. 
+
+
+1989); United States v. Calisto, 838 F. 2d 711, 717 (3rd Cir. 
+
+
+1988); Cobb v. Perini, 832 F. 2d 342, 346 (6th Cir. 1987); United 
+
+
+States v. Mesa, 638 F. 2d 582, 591 (3rd Cir. 1980). 
+
+
+The argument favoring an independent review is expressed in 
+
+
+the concurrence in United States v. Mesa: 
+
+
+"Custodial interrogation" is a legal term of 
+art central to Miranda jurisprudence, and a 
+decision whether or not “custodial interrogation” 
+occurred is a matter of law to be determined in 
+accordance with the policies underlying the 
+Miranda rule. The legal nature of the 
+determination is evidenced by the numcrous 
+Supreme Court decisions deciding whether 
+certain facts constitute “custody” or 
+“interrogation”. See, e.g. Rhode Island v. 
+Innis, 146 U.S. 291, 100 S. Ct. 1682, 64 L. 
+
+Rd. 2d 297 (1980); Oregon v. Mathiason, 42! 
+U.S. 492, 97 S. Ct. 711, 50 L. Ed. 2d 714 
+(1977); Orozco v. Texas, 394 U.S. 324, 89 
+
+S. Ct. 1095, 22 L. Ed. 2d 311 (1969). 
+
+
+Accordingly, an appellate court is free to 
+re-examine the trial court's legal conclusion 
+as to the applicability of the Miranda rule. 
+
+
+The standard of appellate review does not 
+change simply because the legal determination 
+in a Miranda situation depends on the 
+particular facts of each case. United States 
+v. Mesa, 638 F. 2d at 591 n. 3. 
+
+
+Perhaps this courts holding in Miller v. Fenton, 474 U.S. 
+
+
+104, 88 L. Ed. 2d 405, 106 S. Ct. 445, will assist the Court, as 
+it resolved the issue of whether voluntariness of a confession 
+was a issue of fact or a legal question meriting de novo review 
+in the appellate court's. 
+
+State court judge's are not in an appreciably better 
+position than the federal habeas corpus court to make deter- 
+minations in confession cases because "the taking of a confession 
+almost invariably occur, not in open court, but in a secret and 
+more coercive environment". "The practical considerations that 
+have led this Court to find other issues within the scope of the 
+§2254 (d) presumption are absent in the confession text". 
+Id., at 407. 
+
+Unlike such issues as the impartiality of a juror or 
+competency to stand trial, assessments of creditability and 
+demeanor are not crucial to the proper resolution of the ultimate 
+issue of facts in a confession secured in violation of Miranda; 
+the trial court in Mr. Thompson's case relied on the two hour 
+confession transcript to reach it's determination, so why would a 
+federal habeas court be in a subordinate position to assess the 
+same record? This issue is no different than a voluntariness 
+issue where this Court found was beyond the reach of §2254 (d); 
+
+
+Miller v. Fenton, Id. at 414, (1985). 
+
+
+-10- 
+
+
+CONCLUSION 
+
+
+The circuits are irretrievably split on a question of grave 
+coneern to those charged with criminal offenses in the state and 
+federal courts: Shall federal courts independently review, based 
+upon uniform federal standards, the occasions which require the 
+administration of Miranda warnings? The Circuit Courts are now 
+moved to acknowledge the divergence in the decisions of the 
+courts on this question and to bemoan a lack of direction from 
+
+
+this Court. The issue invites the intervention of the Supreme 
+
+
+Court on certiorari. 
+
+
+Respectfully Submitted, 
+
+
+“7 
+Ante wae 7 = 
+
+
+Dated: October 6, 1994 
+
+
+ati. 
+
+
+AO 
+
+
+(Rev. 
+
+
+in) 
+yrs 
+" J] 
+
+
+FILED 
+
+
+DEC 2 9 1999" 
+
+
+UNTIp VAUS piinney COURT 
+
+
+PIP: t Po 
+by Yor 
+
+
+Dest 
+
+
+IN THE UNITED STATES DISTRICT CourRT 
+
+
+FOR THE DISTRICT OF ALASKA 
+
+
+CARL THOMPSON, ) 
+) CASE NO. A91-171 CIVIL 
+Petitioner, ) 
+) INITIAL REPORT AND RECOMMENDATION 
+Vv. . ) RE: PETITION FOR HABEAS CORPUS 
+) 
+JOSEPH CLASS, et al., ) 
+) 
+Defendants. ) 
+
+
+Carl Thompson, presently serving a life sentence for 
+first degree murder following a conviction in an Alaska 
+state court, has filed a habeas corpus petition under 28 
+U.S.C. §2254 in which he claims his Constitutional rights to 
+due process and against self-incrimination were violated 
+when his involuntary confession was admitted at trial during 
+the prosecution’s case-in-chief. This Court, having 
+reviewed the petition, the memorandum in support thereof, 
+and exhibits attached thereto, including a transcript of 
+petitioner’s statements to the police, the state’s response 
+
+
+a H 
+
+
+thereto and petitioner’s reply, and having heard argument 
+
+
+thereon, now makes its Report and Recommendation. 
+FINDINGS __OF_ FACT 
+
+
+1. In 1987, in the Alaska Superior Court in Fairbanks, 
+Alaska, petitioner was convicted by a jury on one count of 
+first-degree murder and one count of tampering with physical 
+evidence. He was subsequently sentenced to ninety-nine 
+years on the first-degree murder conviction and an 
+additional five years on the tampering charge to be served 
+consecutively. The Alaska Court of Appeals affirmed the 
+convictions, found the consecutive five year sentence for 
+tampering to be excessive and remanded for resentencing. On 
+remand, the trial court resentenced petitioner to a term of 
+99 years. 
+
+2. Petitioner moved to suppress the tape recorded 
+confession he made to two Alaska State Troopers before trial 
+on the grounds that the interrogation violated his fifth 
+amendment Miranda rights; and that his resulting confession 
+was involuntary. The motion was denied. At trial, during 
+
+
+the prosecution’s case-in-chief, a portion of the tape 
+
+
+recorded confession in which he admitted stabbing his ex- 
+wife was played to the jury. 
+
+3. Petitioner has exhausted his available state court 
+remedies. 
+
+4. On September 10, 1986, the body of a woman was 
+found floating in a lake off the Elliott Highway by two 
+moose hunters. The woman had been severely beaten and 
+stabbed a total of twenty-nine times. She was clad only in 
+a T shirt and wrapped in chains, a bedspread and a tent fly. 
+There was a heart-shaped tatoo with the name "Carl" over her 
+left chest. After the Alaska State Troopers advertised for 
+information concerning the identity of the body, Carl 
+Thompson telephoned the troopers and reported that the 
+description fit his former wife who had been missing since 
+that August. A subsequent dental examination conclusively 
+identified thm body as Thompson’s former wife, Dixie. 
+
+5. On September 15, 1986, after questioning Thompson’‘s 
+brother-in-law and another witness, the Alaska State 
+Troopers’ investigation focused on Thompson as the most 
+likely person to have killed Dixie Thompson. 
+
+
+6. Intending to question Thompson about the murder, 
+Trooper Stockard contacted him and asked him to come in to 
+
+
+a ae 5 ail i 
+Hy ny o 
+
+
+the trooper headquarters on the pretext of identifying a 
+coat, some jewelry boxes and jewelry that might hare 
+belonged to his former wife. Once Thompson arrived at the 
+office, Stockard and another trooper interrogated Thompson 
+for approximately one hour and 16 minutes. During the 
+questioning, Stockard repeatedly informed Thompson that he 
+was not under arrest, that he was free to leave at any time, 
+and that he would he would be able to leave when the 
+questioning ended, 
+
+7. During the interrogation, the troopers told 
+Thompson that they believed he had killed his former wife 
+and urged him to help them get at the truth. Stockard told 
+Thompson to tell his side of the story so that they could 
+present that version to the District Attorney. Otherwise, 
+he warned Thompson that the prosecutor might conclude that 
+killing of Dixie Thompson was first-degree nurder. Stockard 
+eugpentes that if Thompson explained his part in the 
+Slaying, it was possible that he might only be guilty of a 
+lesser charge such as manslaughter or negligent homicide; 
+and would be facing a minimal sentence such as two to [five 
+years, as opposed to a ninety-nine year sentence for first- 
+degree murder. 
+
+
+8. After several lengthy statements by the troopers in 
+which they informed Thompson that they didn’t think the 
+killing was first-degree murder, and guaranteed him that 
+they weren’t going to arrest him in the office and that he 
+would be permitted to leave, Thompson abandoned his original 
+story and admitted killing his ex-wife. In so doing, he 
+asserted that he initially stabbed her in self defense and 
+then lost control and continued to stab her in the heat of 
+
+
+passion. 
+
+
+9. Once the interrogation was concluded, Thompson was 
+permitted to leave the trooper headquarters, as promised. 
+He was arrested approximately two hours later and charged 
+with first degree murder. 
+
+10. At no time during the interrogation did the 
+troopers advise Johnson of his Miranda rights. 
+
+
+This petition raises two questions. First, was 
+Thompson’s confession obtained in violation of his 5th 
+Amendment right against self-incrimination? Second, were 
+his stateménts involuntary? For the reasons given herein, 
+
+
+. ei! t . : - a" atts tl 
+dal te bane), ate * -_— —_— _ 
+
+
+Ve 
+
+
+the answer to both questions should be in the negative. 
+
+Thompson was neither in custody nor deprived of his 
+rights in any significant way during the interrogation. Ile 
+was repeatedly told that he was not under arrest and that he 
+could leave anytime. Trooper Stockard even guaranteed that 
+he would be free to leave at the end of the questioning. In 
+fact, when the questioning was finished and he had admitted 
+killing his wife, he was allowed to go. 
+
+The trial judge found that Thompson was not in custody 
+for Miranda purposes. The Alaska Court of Appeals affirmed 
+his decision. (Thompson vy. State, 768 P.2d at 130-31). 
+
+This finding is presumptively correct. See 28 U.S.C. § 
+2254 (d) 
+
+The United States Supreme Court has held that a person 
+who is a suspect is not in custody for Miranda purposes 
+unless there has been some actual indication of custody that 
+would make a reasonable, innocent person feel that he was 
+not free to break off the questioning and leave. See 
+Minnesota v. Murphy, 465 U.S. 420, 431, 104 S.C. 1136, 1144, 
+
+
+79 L.Ed.2d 409 (1984); California v. Beheler, 463 U.1S. 
+1121, 1124, 103 S.Ct. 3517, 3519-20, 77 L.1Ed.2d 1275 
+
+
+(1983). The Supreme Court has adopted an objective, 
+
+
+“reasonable man" test for deciding whether a person is in 
+custody or otherwise subject to restraints comparable to 
+those associated with formal arrest. See Berkemer v. 
+McCarty, 468 U.S. 420, 441, 442, 104 S.Ct. 3138, 3150, 3151, 
+82 L.Ed.2d 317 (1984). 
+
+In determining whether someone is in custody, the trial 
+court must consider the totality of the circumstances and 
+then decide whether a reasonable person would have believed 
+that he or she was not free to leave. United States v. 
+
+
+Pinion, 800 F.2d 976, 978-79 (9th Cir. 1986), cert. denied, 
+480 U.S. 936, 107 S.t. 1580, 94 L.Ed.2d 770 (1987). 
+
+
+Relevant factors to be considered are: (1) the language 
+used by the officer to summon the individual; (2) the extent 
+to which the individual is confronted with evidence of his 
+guilt; (3) the physical surroundings of the interview; (4) 
+its duration; and, (5) the degree of pressure applied to 
+detain the individual. United States v. Wauneka, 770 F.2d 
+1434, 1438 (9th Cir. 1985). 
+
+Here, there is no indication language was used by 
+trooper Stockird that would imply to Thompson that he should 
+expect to be arrested when he came into the office. During 
+
+
+eel 
+
+
+the interrogation, he was confronted with some evidence 
+
+
+‘end 
+
+
+implying his involvement in his ex-wife’s killing (e.g. tire 
+tracks at the scene where the body was found similar if not 
+identical to the tire patterns on his vehicie), although 
+this information did not appear to be sufficient by itself 
+to encourage him to change his story. 
+
+The interview took place On September 15, 1986 in the 
+troopers’ offices. It began at 10:58 a.m. and ended at 
+12:14 p.m.. Thompson was not physically restrained in any 
+way. Both troopers were dressed in plain clothes. ‘There is 
+no indication that he would have been prevented from leaving 
+if he chose to do so. His vehicle keys were not taken from 
+him until after he confessed, and he was told that his truck 
+was going to be impounded. lie was repeatedly told that he 
+was free to leave. He was permitted to leave following the 
+interrogation. The location, by itself, does not indicate 
+Thompson was in custody and required Miranda warnings. 
+Oregon v. Mathiason, 429 U.S. 492, 495, 97 S.Ct. 711, 714, 
+50 L.Ed.2d 714 (1977). Neither does the hour and sixtcen 
+minutes involved in the questioning. 
+
+Thompson spoke freely with the troopers concerning his 
+relationship with his former wife. He initially offered 
+them a scenario in which he appeared to be innocent of his 
+
+
+ex-wife’s death. The troopers had focused on him as the 
+principal suspect in her killing, although this, by itself, 
+is insufficient to require Miranda warnings. Minnesota v. 
+Murphy, 465 U.S. 420, 431, 104 S.Ct. 1136, 1144, 79 L.Ed.2d 
+409 (1984). They obviously wanted him to implicate himself; 
+and, employed classic interrogation techniques in their 
+successful attempt to secure a confession. Nevertheless, 
+they consistently reminded Thompson that he was free to 
+leave at any time he wanted. 
+
+Both the trial judge and the state appellate court 
+carefully considered the totality of circumstances 
+surrounding this issue. They applied an objective, 
+reasonable person test, finding that Thompson was not in 
+custody at the time of his interrogation and, therefore, the 
+troopers were not required to give him his Miranda warnings. 
+The record amply supports this finding. 
+
+Thompson alleges that his confession was coerced by the 
+troopers’ promise to bring his version of the facts to the 
+attention of the district attorney, and their statements 
+implying to him that they believed he might be charged with 
+negligent homicide or manslaughter, rather than first degree 
+murder, if they did. This argument fails because the 
+troopers never directly or indirectly promised that they 
+
+
+would do more than bring his story to the prosecutor and 
+
+
+search for any facts that would corroborate it. They did 
+not have the charging authority, and they never implied 
+otherwise. Their statements, by themselves, are not 
+sufficient to render Thompson’s statements involuntary: 
+
+"The promise must be sufficiently compelling to overbear the 
+suspect’s will in light of all attendant circumstances." 
+
+
+United States v. Leon Guerrero, 847 F.2d 1363 at 1366 (9th 
+Cir. 1988). 
+
+
+The Alaska Court of Appeals, after a careful 
+review of all of the circumstances surrounding the 
+confession, found that the troopers’ statements were not the 
+kind of inducements that were likely to overcome his will 
+and bring about a confession that was not voluntary. 
+Thompson v. State, 768 P.2d at 131-32. 
+this finding. 
+
+
+The record supports 
+
+
+RECOMMENDATION 
+
+
+Based upon the foregoing, it is hereby recommended that 
+this petition be DENIED. 
+
+
+DATED this 29th of December, 
+
+
+cc: 
+
+
+JUDGE SEDWLCK 
+J. A. Scukanec (AAG-318) U.S. 
+
+
+tors | Branson 
+_-M.-Fricdmaa—— — 
+_ 
+
+
+Magistrate Judge 
+
+
+10 
+
+
+bir LA 3s 
+
+
+S 
+
+
+Fade. 
+MeGll v. oth 
+
+
+_ Pursuant to Local Magistrate Rule 12(C), a party 
+seeking to object to this proposed finding or recommendation 
+shall file written objections with the Clerk of U.S. District 
+
+
+Court no later than THURSDAY, JANUARY 21, 1993. 
+object to a magistrate judge’s findings of fact may be treated as 
+
+
+The failure to 
+
+
+a procedural default and waive the right to contest those 
+
+
+findings on appeal. McCall v. a . iol F.2d 1195, 1187-89 
+(9th Cir.) cert denied 450 U.S. 996 (1981). 
+objections shall ree filed on or before WEDNESDAY, FEBRUARY 3, . 
+1993. 
+shall otherwise comply with provisions of Local Magistrate Rule. 
+
+
+Response(s) to the 
+
+
+No reply to a response will be received. The partics 
+
+
+12(C). 
+Reports and recommendations are not appealable orders. 
+Any notice of appeal pursuant to Fed.R.App.P. 4(a)(1) should not 
+
+
+be filed until entry of the district court’s judgment. Sec 
+Hilliard v. Kencheloe, 796 F.2d 308 (9th Cir. 1986). 
+
+
+11 
+
+
+on 
+
+
+do tue beP> Lethe FROM LEC COomSsT. Inc, To P.O! 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+
+
+FOR THE DISTRICT OF ALASKA 
+
+
+) 
+CARL THOMPSON, ) 
+Petitioner, . 
+v. . Case No. A91-171-CIV (JWS) 
+JOSEPH CLASS, et al., ; ORDER FROM CHAMBERS 
+Defendants. 
+) 
+= BACKGROUND 
+
+
+On December 29, 1992, Magistrate Judge Branson recommended that Carl 
+Thompson's petition for a writ of habeas corpus be denied. Thereafter, following an 
+independent review, this court concluded that the recommendation was correct and denied 
+the petition on February 18, 1993. Petitioner then filed a motion to vacate judgment and 
+to allow a new ten-day period in order to file objections to Magistrate Judge Branson's 
+report and recommendation. This court granted the motion on July 19, 1993. Petitioner 
+then filed timely objections. Following a review of the those objections, Magistrate 
+
+
+is tw tees tetris FROM FEC CONST. Tuc, To P.02 
+
+
+Judge Branson certified his initial report and recommendation as final.' The matter is 
+now referred back to this court for consideration. 
+Petitioner Carl Thompson was convicted of first degree murder and tampering 
+
+
+with physical evidence. He raises two issucs in his petition: that certain incriminating 
+
+
+statements were obtained in violation of his Miranda rights; and that the statements were 
+involuntary. Petitioner argues that he was actually in custody when he made the 
+statements. Petitioner has exhausted his state remedies as to these issues. 
+
+In his initial and final report and recommendation, Magistrate Judge Branson has 
+made findings of facts, conclusions of law, and recommends that the petition be denied. 
+After a thorough and independent review of the record, with two exceptions to the 
+
+
+findings of fact, the court agrees with the Magistrate Judge's recommendation. See 
+
+
+United States v. Remsing, 874 F.2d 614, 618 (9th Cir. 1989). 
+
+
+DISCUSSION 
+I. Was Mr. Thompson In Custody For Miranda Purposes? 
+Petitioner objects to the Magistrate Judge’s finding of fact that Mr. Thompson's 
+questioning lasted approximately one hour and sixtccn minutes. The transcript of 
+Mr. Thompson's questioning reveals that it lasted from 10:58 a.m. until 12:54 p.m. See 
+Docket no. 1, Exhibit F. Therefore, as petitioner contends, the questioning lasted for at 
+least one hour and fifty-six minutes. 
+
+
+'Magistrate Judge Branson's only revision involved a typing error. In the initial 
+report and recommendation, petitioner Thompson was referred to in one instance as 
+"Johnson." ; 
+
+
+A9I-171 Gly, 
+~ pet. fox weit of habeas corpus 2 
+
+
+ba turdess tetas FROM b€C CONST. Inc. To 
+
+
+Petitioner also objects to the Magistrate Judge’s implicit finding of fact that 
+Mr. ‘Thompson's keys were only taken from him after he made his confession. In the 
+evidence before the court, it cannot be conclusively determined when, precisely, 
+
+Mr. Thompson's kcys were taken from him. Nevertheless, the evidence shows that Mr. 
+Thompson was repeatedly informed that he was free to leave at any time. See Docket 
+no. 1, Exhibit F, at 27, 49-50, 81, 84-86. Morcover, the Alaska Court of Appeals also 
+found that, at numerous times, Mr. Thompson told he was free to leave. See Docket no. 
+1, Exhibit A, at 8. 
+
+The fact that the questioning lasted almost two hours, rather than one and one- 
+quarter hour, however, is insufficient, on its own, to reverse the state courts’ 
+determination that Mr. Thompson was not in custody for Miranda purposes. Federal 
+courts considering habeas corpus petitions give deference to the state court;s factual 
+
+
+findings. 28 U.S.C. § 2254(d). The state court's factual determination that Thompson 
+
+
+was not in custody is, thus, presumptively correct. See Marshall v. Lonberger, 459 U.S. 
+
+
+422, 431-32 (1983); see also Dres v. Campoy, 784 F.2d 996, 998 (9th cir. 1986) (state 
+court findings of fact are presumed correct in habeas corpus proceedings). Accordingly, 
+this court agrees with the Magistrate Judge’s recommendation that Mr. Thompson's 
+
+
+petition should be denied. 
+
+
+AM-171 Civ. 
+ORDER - per. fen weit of hebees corp 3 
+
+
+le. tu tees 1otie FROM bic COMET. Tne. 
+
+
+IT IS THEREFORE ORDERED THAT: 
+
+
+For the reasons stated above, this petition - 
+
+
+nib 
+DATED the 2° day of December, 1993. a’ 
+
+
+cc: M. Friedman 
+J. Scukanec (AAG 31% 
+Magistrate Judge Br. 
+
+
+Therneson v, Clasp. 491-171 Civ, 
+ORDER - pet. for wen of habcas cormus 4 
+
+
+ta tV Ute Pett. brunm hae Culot. Tie. ly 
+
+
+——=- = rer 
+
+
+12710-1993 1O803 FROM KOC CONST. INC. To P.02 
+
+
+Fy Le D 
+United States District Court of, 
+9 1993 
+DISTRICT OF ALASKA UNITED a 
+
+
+CARL THOMPSON *y 
+JUDGMENT IN A CIVIL 
+
+
+JOSEPH CLASS, et al CASE NUMBER: A91-171CIV (gws) 
+
+
+0) Jury Verdict. This ection came before the Court for a trial by jury. The issues have been tried and the jury has rendered 
+hs verdict. 
+
+
+&} Decision by Court. This action came to trial or hearing before the Court. The issues have been tried or heard 
+decision has been rendered. ‘: ~ 
+
+
+IT IS ORDERED AND ADJUDGED 
+
+
+THAT the petitioner's, Carl Thompson, petition for Writ of 
+
+
+Habeas Corpus is DENIED. 
+
+
+-. 
+
+
+APPROVED: 
+
+
+mere m ot 
+
+
+FILED 
+United States District Court oe 94», 
+pisTRICT of ALASKA UTE 3, 
+By 
+JUDGMENT IN A CIVIL 
+
+
+CARL THOMPSON 
+
+
+JOSEPHi CLASS, et al CASE NUMBER: A91-1L7ICIV (IWS) 
+
+
+(C) Jury Verdict. This action came before the Court for a vial by jury, The issues have been tried and the jury has rendered 
+its verdict. 
+
+
+f Decision by Court. This action came to trial or hearing before the Court The issues have been tried or heard and a 
+decision has been rendered. : 
+
+
+IT IS ORDERED AND ADJUODGED 
+
+
+TUAT the petitioner's, Carl Thompson, petition for Writ of 
+
+
+Habeas Corpus is DENIED. 
+
+
+APPROVED: 
+
+
+FILED 
+
+
+AUG 11 1994 
+
+
+CATHY A CATTERSON, CLERK 
+U.S. COURT OF APPEALS 
+
+
+NOT FOR PUBLICATION 
+
+
+IN THE UNITED STATES COURT OF APPEALS 
+
+
+FOR THE NINTH CIRCUIT 
+
+
+CARL THOMPSON, 
+
+
+Petitioner-Appellant, 
+CA. No. 94-35052 
+Vv. DC. No. CV-91-00171-JWS 
+PATRICK KEOHANE, Warden; CHARLES 
+E. COLE, Attorney General, State 
+of Alaska, 
+
+
+MEMORAWNOD U M* 
+
+
+Respondent -Appellee. 
+
+
+Appeal from the United States District Court 
+for the District of Alaska 
+John W. Sedwick, District Judge, Presiding 
+
+
+Argued and Submitted August 5, 1994 
+Anchorage, Alaska 
+
+
+BEFORE : PREGERSON, CANBY and BOOCHEVER, Circuit Judges 
+
+
+Carl Thompson appeals the district court’s denial of his 
+petition for writ of habeas corpus. Thompson alleges that his 
+incarceration violates the Constitution because the state trial 
+court admicted statements that Thompson argues were obtained in 
+violation of his Miranda rights and a confession that he argues 
+was involuntary. We affirm. 
+
+I. 
+We recently have held that a state court’s determination that 
+
+
+a defendant was not in custody for purposes of Miranda is a 
+
+
+* This disposition is not appropriate for publication and may 
+not be cited to or by the courts of this circuit except as 
+provided by Ninth Cir. R. 36-3. 
+
+
+, APPENDIX C 
+
+
+question of fact entitled to the presumption of correctness under 
+28 U.S.C. § 2254(d). Krantz v. Briggs, 983 F.2d 961, 963-64 (9th 
+Cir. 1993). Thompson has not shown, and it does not otherwise 
+appear, that any of the exceptions to the presumption, see 28 
+U.S.C. § 2254(d)(1)-(8) (1988), apply in this case. Accordingly, 
+we may only disturb the state court’s factual determination if it 
+lacks even fair support in the record. Krantz at 964. 
+
+We have reviewed the entire transcript of Thompson’s 
+interrogation. Thompson voluntarily appeared at the trooper 
+headquarters. During the interrogation, the troopers assured him 
+several times that he was free to terminate the interview and 
+leave. Indeed, even after he confessed, Thompson was permitted to 
+leave when the interview was complete. "Fair support" exists for 
+the state court’s determination that Thompson was not in custody 
+for Miranda purposes. See id. at 963 (test for determining 
+custody is whether, based upon a review of all the pertinent 
+facts, a reasonable innocent person in such circumstances would 
+conclude that they were not free to leave). 
+
+II. 
+We review de novo the question whether, considering the 
+totality of the circumstances, Thompson’s will was overborne 
+
+
+through psychological pressure rendering his confession 
+involuntary. See Miller v. Fenton, 474 U.S. 104, 110 (1985). We 
+
+
+2 This standard requires that we "more than simply disagree 
+with the state court." Krantz, 983 F.2d at 964. Accordingly, 
+Thompson’s attempts to analogize the circumstances of his 
+interrogation to the circumstances of cases in which this court 
+has held that a federal defendant was in custody for purposes of 
+
+
+Miranda are unavailing. 
+
+
+ee yr aS oer -— . ae; — — =) —.) Se | ts ‘..' -. =. eS ES ler — —————— 
+3 
+
+
+ji have independently evaluated the transcript of Thompson’s 
+interrogation and conclude that, the cumulative effect of those 
+2 tactics did not overbear Thompson’s will. 
+AFFIRMED. 
+
+
+ra 
+
+

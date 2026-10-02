@@ -1,0 +1,9 @@
+# Pre-divergence boundary authority files
+
+Objective source handoff only; no current-matter result, comparison, or commitment. All three authorities predate October7,1991.
+
+- **Arkansas v. Tennessee,397 U.S.88 (1970)**. Official United States Reports PDF: https://tile.loc.gov/storage-services/service/ll/usrep/usrep397/usrep397088/usrep397088.pdf . Local `B_MODEL_ArkansasTennessee1970.pdf/.txt`. Full opinion and decree text read; appended map images have not been visually interpreted. Court opinion explains gradual erosion/accretion, avulsion, the continued operation of erosion/accretion while the old channel remains a running stream, and fixation when its water becomes stagnant. Exact printed pages88?90 opinion,91?92 decree. Text extraction retains appended map OCR noise; consult PDF for graphics.
+- **Arkansas v. Tennessee,246 U.S.158 (1918)**. Official PDF: https://tile.loc.gov/storage-services/service/ll/usrep/usrep246/usrep246158/usrep246158.pdf . Local `B_MODEL_ArkansasTennessee1918.pdf/.txt`. Downloaded complete. Reader inspected syllabus, facts and much party argument only; the first22000-character display lost21tokens. Court opinion has not been read by this source handoff author. The1970 Court quotes246U.S.173,175 directly; independently read full1918 opinion before claiming full verification of it.
+- **Indiana v. Kentucky,136 U.S.479 (1890)**. Official PDF: https://tile.loc.gov/storage-services/service/ll/usrep/usrep136/usrep136479/usrep136479.pdf . Local `B_MODEL_IndianaKentucky.pdf/.txt`. Downloaded complete. Only opening5500textcharacters, syllabus and opening facts, inspected; no full-opinion verification claim.
+
+The texts are UTF-8 `pdftotext -layout` extractions of the identified official PDFs. No absence claim is made about unread text or images. This handoff selects no contemporary result or fact and offers no current-matter application.

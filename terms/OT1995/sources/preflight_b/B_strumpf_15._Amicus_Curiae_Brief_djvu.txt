@@ -1,0 +1,1294 @@
+gg. 
+
+
+No. 94-1340 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1994 
+
+
+CITIZENS BANK OF MARYLAND, 
+Petitioner, 
+VS. 
+DAVID STRUMPF, 
+Respondent. 
+
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+APPEALS FOR THE FOURTH CIRCUIT 
+
+
+BRIEF OF THE NEW YORK CLEARING HOUSE ASSOCIATION, AMERICAN 
+BANKERS ASSOCIATION, INDEPENDENT BANKERS ASSOCIATION OF 
+AMERICA, NATIONSBANK, N.A., NATIONSBANK, N.A. (CAROLINAS), THE 
+FIRST NATIONAL BANK OF MARYLAND, FIRST FIDELITY BANK, N.A. AND 
+CREDIT UNION NATIONAL ASSOCIATION, INC., AMICI CURIAE, 
+SUPPORTING REVERSAL 
+
+
+BRUCE E. CLARK 
+
+125 Broad Street, 
+New York, New York 10004. 
+(212) 558-4000 
+
+Counsel of Record for The New York 
+Clearing House Association, 
+American Bankers Association, 
+Independent Bankers Association of 
+America, NationsBank, N.A., 
+NationsBank, N.A. (Carolinas), The 
+
+
+H. RODGIN COHEN First National Bank of Maryland, 
+
+WILLIAM L. FARRIS First Fidelity Bank, N.A. and Credit 
+
+SULLIVAN & CROMWELL Union National Association, Inc., 
+Of Counsel Amici Curiae 
+
+May 11, 1995 
+
+
+(Counsel for Amici Continued Inside Front Cover) 
+
+
+-_ 
+
+
+NORMAN R. NELSON 
+100 Broad Street, 
+New York, New York 10004. 
+(212) 612-9200 
+Attorney for The New York 
+Clearing House Association 
+
+
+JOHN J. GILL III 
+MICHAEL F. CROTTY 
+1120 Connecticut Avenue, N.W., 
+Washington, D.C. 20036. 
+(202) 663-5028 
+Attorneys for American Bankers 
+Association 
+
+
+LEONARD J. RUBIN 
+BRACEWELL & PATTERSON 
+2000 K Street, N.W.., 
+Washington, D.C. 20006. 
+(202) 828-5800 
+Attorneys for Independent Bankers 
+Association of America 
+
+
+JOHN H. CULVER III 
+
+KENNEDY COVINGTON LOBDELL & 
+HICKMAN L.L.P. 
+100 North Tryon Street, 
+
+Charlotte, N. C. 28202. 
+(704) 331-7453 
+
+Attorneys for NationsBank, N.A. 
+and NationsBank, N.A. 
+(Carolinas) 
+
+
+KENNETH F. KRACH 
+25 South Charles Street, 
+Baltimore, Maryland 21201. 
+(410) 244-3816 
+Attorney for The First National Bank 
+of Maryland 
+
+
+DANIEL P. MAZO 
+123 South Broad Street, 
+Philadelphia, Pennsylvania 19109. 
+(215) 985-8355 
+Attorney for First Fidelity Bank, N.A. 
+
+
+CHARLES P. SEIBOLD 
+CHARLES F. BILS 
+P.O. Box 431, 
+Madison, Wisconsin 53701. 
+(608) 231-4020 
+Attorneys for Credit Union National 
+Association, Inc. 
+
+
+Question Presented 
+
+
+Does a depository institution violate the Bankruptcy 
+Code’s automatic stay under 11 U.S.C. § 362(a) when it 
+imposes an administrative freeze to maintain its right of setoff 
+preserved and recognized under 11 U.S.C. §§ 542(b), 553(a), 
+506(a), 362(d) and 363(e)? 
+
+
+TABLE OF CONTENTS 
+
+
+Il. A Freeze Is Not a Setoff and Thus 
+Does Not Violate Section 362(a) ......... 
+
+
+III. Construing the Automatic Stay to 
+Prohibit an Administrative Freeze 
+Results in a Deprivation of Property 
+Without Due Process of Law ........... 
+
+
+IV. The Rule Applied by the Court of Appeals 
+Will Have Adverse Consequences for 
+
+
+PAGE 
+
+
+ii 
+
+
+Table of Authorities 
+
+
+Cases 
+
+
+Air Atlanta, Inc. v. National Bank of Georgia, 
+
+
+81 Bankr. 724 (N.D. Ga. 1987) ........ 
+
+
+B.F. Goodrich Employees Fed. Credit Union 
+v. Patterson (In re Patterson), 
+
+
+967 F.2d S505 (llth Cir. 1992)......... 
+
+
+Bank of America v. Edgins (In re Edgins), 
+
+
+36 B.R. 480 (Bankr. 9th Cir. 1984) ..... 
+
+
+Barnhill v. Johnson, 
+
+
+SEED bo ase eceeeseces 
+
+
+Crispell v. Landmark Bank (In re Crispell), 
+
+
+73 B.R. 375 (Bankr. E.D. Mo. 1987) .... 
+
+
+Edward J. DeBartolo Corp. v. Florida Gulf 
+Coast Bldg. & Constr. Trades Council, 
+
+
+Cp Ge EE BSc ce cece sce 
+
+
+Horton Dairy, Inc. v. United States, 
+
+
+986 F.2d 286 (8th Cir. 1993) ......... 
+
+
+In re Lough, 
+
+
+163 B.R. 586 (Bankr. D. Idaho 1994) .... 
+
+
+In re Tillery, 1995 WL 139231 
+
+
+(Bankr. W.D. Ark. 1995)............ 
+
+
+PAGE 
+
+
+10 
+
+
+18 
+
+
+iii 
+PAGE 
+
+In re Lawndale Steel Co., 
+
+155 B.R. 990 (Bankr. N.D. Ill. 1993) ..... 15 
+Moreira v. Digital Employees Fed. Credit 
+
+Union (In re Moreira), 
+
+173 B.R. 965 (Bankr. D. Mass. 1994) ..... 6, 12 
+National Bank of Georgia v. Air Atlanta 
+
+(In re Air Atlanta, Inc.), 
+
+74 B.R. 426 (Bankr. N.D. Ga.), aff'd, 
+
+81 B.R. 724 (N.D. Ga. 1987) .......... 14 
+Norwest Bank Worthington v. Ahlers, 
+
+G5 GB. TG GRD 2 cc ccc ew ccessess 10 
+Pittsburgh National Bank v. United States, 
+
+657 F.2d 36 (3d Cir. 1981) .........-.-. 13 
+Small Business Admin. v. Rinehart, 
+
+887 F.2d 165 (8th Cir. 1989) .......... 12, 13, 14 
+Stephenson v. Salisbury (In re Corland Corp.), 
+
+967 F.2d 1069 (Sth Cir. 1992).......... 6, 14 
+United States v. Norton, 
+
+ip > © ff. (+ % Fae 10, 12, 
+
+13, 14 
+
+United States v. Reynolds, 
+
+764 F.2d 1004 (4th Cir. 1985) .......... 12, 13 
+
+
+United States v. Security Industrial Bank, 
+GP Gas PEED ob 6 ees ce ewessens 15 
+
+
+iv 
+
+
+Williams v. American Bank of the Mid-Cities, 
+N.A. (In re Williams), 
+61 B.R. 567 (Bankr. N.D. Tex. 1986) ..... 
+
+
+Constitution and Statutes 
+
+
+CR eS eee er 
+PPD «cecsavcteseacdees 
+Se + 6» 06 ne 6 okies .d's.é.6% 
+eT sc) + ceenadeeesiete 
+
+
+oe WEED 5660066 0b + 04060008 
+fo as bos ot 6460 6.0 0e 
+
+
+fo ee eee 
+a ee 
+
+
+PRUE onscecctcsscess iss 
+OR cb cbccacesecieneces 
+PCP Cs dcocetvsccecssensa 
+eT (66's. 5 6 a4 ase 4 ob ee 6s 
+
+
+PAGE 
+
+
+14 
+
+
+ee eee 
+
+
+TR PTA es eee 
+Miscellaneous 
+
+
+H.R. Rep. No. 95-595, 95th Cong., 
+ON iss pew e ee 6 eae eee 4s 
+
+
+S. Rep. No. 95-989, 95th Cong. 2d Sess. 
+Ties eben kd 6 tense ees ae he ee es a 
+
+
+PAGE 
+
+
+IN THE 
+
+
+Supreme Court of the Gnited States 
+
+
+October Term, 1994 
+
+
+No. 94-1340 
+
+
+CITIZENS BANK OF MARYLAND, 
+
+
+Petitioner, 
+Vv. 
+
+
+DAVID STRUMPF, 
+Respondent. 
+
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES 
+COURT OF APPEALS FOR THE FOURTH CIRCUIT 
+
+
+BRIEF OF THE NEW YORK CLEARING HOUSE 
+ASSOCIATION, AMERICAN BANKERS 
+ASSOCIATION, INDEPENDENT BANKERS 
+ASSOCIATION OF AMERICA, NATIONSBANK, 
+N.A., NATIONSBANK, N.A. (CAROLINAS), 
+THE FIRST NATIONAL BANK OF MARYLAND, 
+FIRST FIDELITY BANK, N.A. AND CREDIT UNION 
+NATIONAL ASSOCIATION, INC., 
+
+AMICI CURIAE, SUPPORTING REVERSAL 
+
+
+This brief is in support of reversal and is filed pursuant 
+to Rule 37.3 with the consent of all parties. 
+
+
+Interest of Amici Curiae 
+
+
+The New York Clearing House Association is an 
+association of 11 leading commercial banks in the City of 
+New York; with more than $352 billion in domestic loans 
+outstanding, its member banks are among the nation’s largest 
+
+
+2 
+
+
+consumer and commercial lenders. The American Bankers 
+Association is a trade association for the banking industry, 
+representing banks located in each of the 50 states and the 
+District of Columbia, including national and state-chartered 
+banks of all sizes; the combined assets of its member banks 
+total some 90 percent of all banking assets in the United 
+States. The Independent Bankers Association of America is 
+a nonprofit national trade association that represents the 
+interests of the nation’s community banks; its nearly 6,000 
+national and state-chartered member banks are located in all 
+50 states and the District of Columbia. Credit Union National 
+Association, Inc. is the national trade association for credit 
+unions, representing the interests of approximately 90 percent 
+of the more than 12,500 federal and state-chartered credit 
+unions operating in the United States with approximately 
+67,000,000 consumer members. NationsBank, N.A., 
+NationsBank, N.A. (Carolinas), The First National Bank of 
+Maryland and First Fidelity Bank, N.A. also join in this 
+brief. 
+
+
+The issue presented by this case is of the utmost com- 
+mercial significance to banks and other depository institu- 
+tions. The Bankruptcy Code’ makes explicit and detailed 
+provision for preservation of setoff rights, which are 
+fundamental to lending practices and procedures. The rule 
+adopted by the court below, by contrast, would require 
+depository institutions to relinquish their long-established 
+right of setoff in the event of a borrower's bankruptcy, and 
+thus sharply increase the losses that depository institutions 
+suffer as a result of borrower defaults. Depository institutions 
+will be forced to respond by charging higher interest rates, 
+requiring additional collateral or guaranties or, in some cases, 
+refusing to extend credit. Moreover, the rule adopted by the 
+court below injures depository institutions that forbear from 
+
+
+' 11 U.S.C. §§ 101 et seq. References to “Section” or “§” are to the 
+Bankruptcy Code (the “Code”). 
+
+
+- ww. 9 
+—~/¥ 
+
+
+3 
+
+
+exercising setoff rights prepetition, and will precipitate 
+bankruptcy filings by forcing depository institutions to 
+exercise setoffs at an earlier time. These adverse 
+consequences are unnecessary and will be avoided if courts 
+enforce the Bankruptcy Code as Congress enacted it. 
+
+
+Summary of Argument 
+
+
+In holding that an administrative freeze violates the 
+automatic stay, the Fourth Circuit misconstrued the 
+Bankruptcy Code. 
+
+First, the holding below nullifies the protection that the 
+Bankruptcy Code explicitly and comprehensively accords a 
+creditor with a right of setoff. (Point I) Although the exercise 
+of the right of setoff is automatically stayed by a bankruptcy 
+filing (11 U.S.C. § 362(a)(7)), the Code authorizes such a 
+creditor to withhold payment of a debt owed the estate to the 
+extent the debt is subject to setoff (11 U.S.C. § 542(b)), 
+preserves the creditor’s right of setoff under nonbankruptcy 
+law (11 U.S.C. § 553(a)), provides such a creditor with a 
+secured claim (11 U.S.C. §506(a)), authorizes the creditor to 
+seek relief from the automatic stay (11 U.S.C. § 362(d)), and 
+stipulates that estate property subject to a right of setoff may 
+not be used unless the creditor’s right of setoff is adequately 
+protected (11 U.S.C. § 363(e)). The decision below sweeps 
+away these interlocking statutory provisions that carefully 
+accommodate the competing interests of the estate and of a 
+creditor having a right of setoff, by interpreting the automatic 
+stay as prohibiting a depository institution from even placing 
+a hold on a debtor’s account to the extent necessary to 
+maintain the status quo with respect to the institution’s right 
+of setoff. If a debtor can require a depository institution that 
+is also a creditor to pay an account balance that would 
+otherwise be subject to the institution’s right of setoff, the 
+debtor can unilaterally abrogate and nullify the rights afforded 
+by the Code to such a creditor. 
+
+
+4 
+
+
+Second, the court of appeals erroneously held that an 
+administrative freeze “is tantamount to the exercise of a right 
+of setoff and thus violates the automatic stay of § 362(a)(7).” 
+JA 43a; 37 F.3d at 158. (Point IT) In so holding, the court of 
+appeals disregarded widely-accepted prerequisites of a setoff, 
+which a freeze does not satisfy. The court of appeals also 
+failed to reconcile its view concerning § 362(a)(7) with the 
+Code provisions that preserve a creditor’s right of setoff, as 
+discussed above. Instead of construing the stay to preserve 
+the status quo, the court of appeals interpreted the stay to 
+enable a debtor to alter the status quo by defeating the setoff 
+rights of a creditor. 
+
+
+Construing the automatic stay as preventing a creditor 
+from maintaining an existing setoff right results in a 
+deprivation of property without due process of law, in viola- 
+tion of the Fifth Amendment to the Constitution of the United 
+States. (Point III) Finally, the result below contradicts the 
+policy objectives as well as the express provisions of the 
+Code. It penalizes a creditor for prepetition forbearance; 
+forces increased bankruptcy filings by encouraging depository 
+institutions to act quickly to exercise setoff rights when 
+borrowers default outside of bankruptcy; and necessitates 
+expensive and unnecessary emergency litigation at the 
+beginning of a bankruptcy case. It will cause increased bank 
+losses and more stringent credit terms. (Point IV) 
+
+
+ARGUMENT 
+I, 
+
+
+The Bankruptcy Code Authorizes 
+an Administrative Freeze. 
+
+
+The commencement of a bankruptcy case creates an 
+estate. 11 U.S.C. § 541(a). The estate consists of “all legal 
+or equitable interests of the debtor in property as of the 
+
+
+—— wo — 
+
+
+5 
+
+
+commencement of the case.” Jd. Pursuant to this provision, 
+a debtor’s claim against a depository institution for payment 
+of the balance of a deposit account becomes property of the 
+estate. A deposit account represents a debt owed by the 
+depository institution to its depositor, not an interest in cash 
+or a specific fund or other identifiable property of the 
+institution. Barnhill v. Johnson, 503 U.S. 393, 398 (1992). 
+Through a carefully constructed statutory arrangement, in 
+Section 553 and in several additional sections, the Bankruptcy 
+Code recognizes and preserves the institution’s right of setoff 
+against such a debt. 
+
+
+The turnover obligation of an entity (such as a 
+depository institution) that owes a debt that is property of a 
+bankruptcy estate (such as a prepetition deposit account) is 
+governed by Section 542 of the Code (“Turnover of property 
+to the estate”), subsection (b) of which reads: 
+
+
+“(b) Except as provided in subsection (c) or (d) 
+of this section, an entity that owes a debt that is 
+property of the estate and that is matured, payable 
+on demand, or payable on order, shall pay such 
+debt to, or on the order of, the trustee, except to 
+the extent that such debt may be offset under 
+Section 553 of this title against a claim against the 
+debtor.” 
+
+
+11 U.S.C. § 542(b) (emphasis added). It is thus beyond 
+question that there is no turnover obligation in respect of a 
+debt that can be offset.’ 
+
+
+2 In this case turnover was demanded, not by a trustee, but by a debtor. 
+Section 542(b) authorizes payment of a debt that is property of the 
+bankruptcy estate only to the “trustee,” not the debtor. Moreover, 
+pursuant to Section 542(c), if a depository institution, with knowledge 
+of the bankruptcy case, pays an account balance that is property of the 
+estate to a debtor rather than a trustee, the institution is deemed not to 
+have discharged its debt. If we assume, as did the court below, that a 
+
+(continued...) 
+
+
+ee ) Oe Us 
+
+
+6 
+
+
+The last clause of Section 542(b) authorizes a depository 
+institution to impose an administrative freeze on a debtor’s 
+account by creating an exception to the obligation to pay a 
+debt owed the estate (such as an account balance) to the 
+extent the debt is subject to setoff pursuant to Section 553. 
+Stephenson v. Salisbury (In re Corland Corp.), 967 F.2d 
+1069, 1077 (Sth Cir. 1992) (allowing assertion of a right of 
+setoff as a defense to a turnover action); In re Tillery, 1995 
+WL 139231 (Bankr. W.D. Ark. 1995); Moreira v. Digital 
+Employees Fed. Credit Union (In re Moreira), 173 B.R. 965, 
+966-67 (Bankr. D. Mass. 1994); Crispell v. Landmark Bank 
+(in re Crispell), 73 B.R. 375, 379 (Bankr. E.D. Mo. 1987). 
+An administrative freeze simply prevents inadvertent payment 
+of an account balance to the extent necessary to maintain the 
+depository institution’s right of setoff. 
+
+
+The right to withhold payment of a debt under 
+Section 542(b) is defined with reference to Section 553° 
+Section 553 is directly applicable to a depository institution 
+that owes to a bankruptcy debtor a debt that arose before the 
+bankruptcy case was filed (represented by the debtor’s 
+Prepetition account balance) and that has a claim (based on a 
+
+
+*(...continued) 
+
+
+chapter 13 debtor may exercise a trustee's power under Section 542(b) 
+to demand payment of an account balance that is property of the 
+bankruptcy estate, the limitation that Section 542(b) imposes on the 
+trustee must also apply to the debtor. 
+
+
+* Section 553 (“Setoff”) provides in pertinent part: 
+
+
+“(a) Except as otherwise provided ... in 
+Sections 362 and 363 of this title, this title does not 
+affect any right of a creditor to offset a mutual debt 
+owing by such creditor to the debtor that arose before 
+the commencement of the case under this title against a . 
+claim of such creditor against the debtor that arose 
+before the commencement of the case... .” 
+
+
+11 U.S.C. § 553(a). 
+
+
+7 
+
+
+loan) against the debtor that arose before commencement of 
+the case. To the extent the depository institution has a right 
+(by contract, statute or common law) to offset these obliga- 
+tions, that right is preserved explicitly by Section 553. 
+
+
+Although a creditor’s exercise of its setoff right under 
+Section 553 is subject to the provisions of Sections 362 (the 
+automatic stay) and 363 (use, sale or lease of property of the 
+estate), neither of those sections supports the result below. 
+
+
+Section 362(a) provides that the filing of a bankruptcy 
+petition “operates as a stay” of “the setoff of any debt owing 
+to the debtor that arose before the commencement of the case 
+under this title against any claim against the debtor.” 
+11 U.S.C. § 362(a)(7). The purpose of this provision is to 
+maintain — not to alter — the status quo.‘ As discussed in 
+Point II, infra, Section 362(a)(7) prohibits only execution of 
+a setoff, not a freeze that prevents nullification of a right of 
+setoff. Section 362 also provides that the court shall grant 
+relief from the stay under specified circumstances on request 
+of a party in interest, 11 U.S.C. § 362(d), and as necessary 
+to prevent irreparable damage to an interest of an entity in 
+property, if such damage will be suffered before the request 
+for relief from the automatic stay can be heard, 11 U.S.C. 
+§ 362(f). 
+
+
+Section 363 authorizes a trustee to use property of the 
+estate, including property subject to setoff, in certain circum- 
+stances. A trustee may not, however, use property of the 
+estate that is cash collateral (including a deposit account in 
+which an entity other than the estate has an interest, 
+
+
+‘ “Paragraph (7) stays setoffs of mutual debts and credits between the 
+debtor and creditors. As with all other paragraphs of subsection (a), 
+this paragraph does not affect the right of creditors. It simply stays its 
+enforcement pending an orderly examination of the debtor's and 
+creditors’ rights.” H.R. Rep. No. 95-595, 95th Cong., Ist Sess. 342 
+(1977); S. Rep. No. 95-989, 95th Cong. 2d Sess. 51 (1978). 
+
+
+8 
+
+
+11 U.S.C. § 363(a)) unless the entity having an interest in the 
+cash collateral consents or the court, after notice and a 
+hearing, authorizes such use in accordance with the provi- 
+sions of Section 363. 11 U.S.C. § 363(c); In re Lough, 
+163 B.R. 586, 588 (Bankr. D. Idaho 1994). Any entity 
+having an interest in cash collateral or other property of the 
+estate, moreover, is entitled on request to an order 
+prohibiting or conditioning use of the cash collateral or other 
+property to the extent necessary to provide adequate protec- 
+tion of the entity’s interest. 11 U.S.C. § 363(e). 
+
+
+The foregoing provisions contemplate that a depository 
+institution is entitled in the first instance to withhold payment 
+of a debt represented by a debtor’s account balance to the 
+extent the balance is subject to a right of setoff. An 
+administrative freeze simply implements the creditor’s right 
+under Section 542(b) to withhold payment. It is a procedural 
+action which does not change the substantive rights of the 
+parties. It prevents nullification of the creditor's setoff right 
+preserved under Section 553 and maintains the status quo 
+until the parties agree or a court orders otherwise. The 
+creditor may move for relief from the automatic stay, and if 
+such relief is granted execute the setoff. Assuming a setoff 
+has not been authorized, the trustee (or, in this case, the 
+Chapter 13 debtor) may apply for authorization to use cash 
+collateral (i.e., the account balance subject to the creditor’s 
+right of setoff), subject to the creditor’s right to adequate 
+protection. See Bank of America v. Edgins (In re Edgins), 
+36 B.R. 480, 483 (Bankr. 9th Cir. 1984). 
+
+
+Until the court either grants relief from the automatic 
+stay or authorizes the debtor to use cash collateral, the 
+creditor may continue to withhold payment of the amount 
+subject to a right of setoff. Indeed, the Code specifically 
+provides a creditor that has a right of setoff with a secured 
+claim to the extent of such right. 11 U.S.C. § 506(a). In 
+
+
+either Chapter 11 or Chapter 13, a plan may not be 
+
+
+9 
+
+
+confirmed unless the holder of a secured claim retains its lien 
+or its equivalent. 11 U.S.C. §§ 1129(b), 1325(a)(5). 
+
+
+An administrative hold is thus authorized by 
+Section 542(b) and simply maintains the status quo. While it 
+is true that a hold prevents a debtor from obtaining payment 
+of an account balance, a debtor is not entitled under 
+Section 363 to use such balance without obtaining court 
+approval, which at the creditor’s request must be conditioned 
+on providing adequate protection. 
+
+The court of appeals gave short shrift to the Code provi- 
+sions that protect a creditor’s right of setoff. Section 542(b) 
+is mentioned in a footnote (JA 41a; 37 F.3d at 157 n.*) but 
+is otherwise ignored, even though it should have been dis- 
+positive of the issue before the court of appeals. The court of 
+appeals devoted more attention to Section 553(a), but 
+construed Section 362(a)(7) in a way that nullifies the setoff 
+rights that Section 553 explicitly preserves. Similarly, the 
+court of appeals acknowledged that a creditor is entitled to 
+request relief from the automatic stay under Section 362, but 
+nonetheless deemed a refusal to pay an account balance while 
+the request is pending as a violation of the stay. As a result, 
+the creditor would be powerless to prevent a debtor from 
+rendering moot the request for relief from the automatic stay. 
+The court of appeals made no reference to Section 363 or any 
+of its limitations on a trustee’s powers or its protection of 
+rights of creditors. 
+
+
+The justification offered by the court of appeals for an 
+interpretation of Section 362(a)(7) that effectively repeals 
+numerous creditor protections explicitly set forth elsewhere 
+in the Code was not based on the words of the statute. Rather 
+it was based on a policy argument, contained in the 
+conclusory assertion that “If a bank could freeze the debtor’s 
+accounts upon the filing of a petition in bankruptcy, the 
+debtor’s chances for successful rehabilitation would be 
+substantially diminished.” JA 45a; 37 F.3d at 159 (quoting 
+
+
+10 
+
+
+United States v. Norton, 717 F.2d 767, 773 (3d Cir. 1983)). 
+Even assuming this to be so, the Code does not provide for 
+rehabilitation of a debtor at all costs; rather that goal must be 
+pursued in comity with the rights of creditors. Rights 
+accorded creditors by the Code may not be written out of the 
+Code by a court, even though such rights may hinder or 
+defeat a particular debtor's rehabilitation. Norwest Bank 
+Worthington v. Ahlers, 485 U.S. 197, 206-07 (1988); Air 
+Atlanta, Inc. v. National Bank of Georgia, 81 Bankr. 724 
+(N.D. Ga. 1987). 
+
+
+Moreover, it is not at all clear why a freeze that protects 
+a right of setoff should prevent successful implementation of 
+a chapter 13 plan, the objective of which is to enable a debtor 
+to pay creditor claims from disposable income during the 
+term of the plan. Such a plan must in any event provide that 
+a secured creditor retains its lien (i.e., in this co itext, its 
+right of setoff). 11 U.S.C. § 1325(a)(5). The debtor in the 
+meantime can seek relief from the court to obtain access to its 
+deposit account, provided that the depository institution is 
+afforded adequate protection. 
+
+
+In sum, the court of appeals erred by failing to give 
+effect to the limitations on a depository institution’s turnover 
+obligation under Section 542(b), the preservation of the 
+institution’s right of setoff under Section 553, the institution’s 
+right to seek relief from the automatic stay under 
+Section 362(d) (which would be nullified should the 
+institution be required to pay the account balance subject to 
+setoff without being provided with adequate protection), and 
+limitations upon the power of a debtor to use cash collateral 
+under Section 363 (c) and (e) (which require court approval 
+and adequate protection). The Fourth Circuit swept away all 
+the foregoing rights of the institution, and limitations on the 
+powers of the debtor, based on the mistaken conclusion that 
+a freeze in these circumstances is “tantamount to setoff” and 
+is thus stayed by Section 362. 
+
+
+11 
+
+
+Il. 
+
+
+A Freeze Is Not a Setoff and Thus 
+Does Not Violate Section 362(a). 
+
+
+The filing of a bankruptcy petition “operates as a stay, 
+applicable to all entities, of . . . the setoff of any debt owing 
+to the debtor that arose before the commencement of the case 
+under this title against any claim against the debtor.” 
+11 U.S.C. § 362(a)(7). 
+
+By its terms, Section 362 (a) provides for a “stay.” That 
+is, it operates to maintain the status quo, protecting the estate 
+from dismemberment while the case is being administered. 
+The fundamental error of the court of appeals was to treat the 
+automatic stay as a substantive rather than a procedural 
+provision, to abrogate and defeat a creditor’s substantive right 
+of setoff. The court of appeals’ decision alters the status quo 
+which Section 362 is designed to preserve by prohibiting the 
+creditor from maintaining it. 
+
+
+A freeze is not a setoff because a freeze does not change 
+the debtor’s account balance or loan balance or the parties’ 
+obligations. A  setoff, by contrast, changes all three. 
+Moreover, a setoff has not occurred unless there has been 
+(1) a decision to effectuate a setoff, (2) an overt act accom- 
+plishing the setoff, and (3) a record of the setoff. See, e.g., 
+Horton Dairy, Inc. v. United States, 986 F.2d 286, 291 
+(8th Cir. 1993). The status quo is altered when a setoff is 
+effected (because the loan and account balance are reduced to 
+the extent they are offsetting) or when the account balance 
+subject to a right of setoff is withdrawn by a debtor; a freeze 
+maintains the status quo (i.e., the existing account balance 
+
+
+* The legislative history confirms that the automatic stay does not affect 
+the rights of creditors but simply stays enforcement of such nghts. See 
+note 4 supra. 
+
+
+12 
+
+
+and loan balance). Therefore an administrative freeze does 
+not satisfy the prerequisites for a setoff. In re Tillery, 1995 
+WL 139231 (Bankr. W.D. Ark. 1995); Moreira v. Digital 
+Employees Fed. Credit Union (In re Moreira), 173 B.R. 965, 
+967 (Bankr. D. Mass. 1994); Crispell v. Landmark Bank (in 
+
+
+re Crispell), 73 B.R. 375, 379 (Bankr. E.D. Mo. 1987). 
+
+
+The court of appeals sought to justify its equation of a 
+freeze with a setoff by observing that “both effectively 
+deprive the debtor of use of the funds.” JA 43a; 37 F.3d at 
+158. In fact, Section 363(c) prohibits the use of cash 
+collateral (such as a deposit account subject to a mght of 
+setoff) without court approval or consent of the creditor. An 
+administrative freeze may prevent a debtor from ignoring the 
+requirements of Section 363(c), but a creditor does not violate 
+the automatic stay merely by requiring the debtor to follow 
+procedures that the Code independently requires. Moreover, 
+as set forth above, the creditor’s withholding of payment is 
+expressly authorized by Section 542(b). In expanding the 
+meaning of “setoff” to include the mere withholding of 
+payment, the court of appeals erroneously disregarded the 
+established elements of a completed setoff (which the mere 
+withholding of payment does not satisfy), and thereby brought 
+Section 362(a)(7) into conflict with the Code provisions that 
+preserve setoff rights. 
+
+
+The court of appeals did not analyze the relationship 
+between Section 362(a) and the other Code provisions that are 
+relevant to the issue presented, nor did the court of appeals 
+attempt to reconcile its position that a freeze is “tantamount 
+to a setoff” with the material substantive differences between 
+the two. Instead, the court of appeals relied upon three other 
+appellate decisions, Small Business Admin. v. Rinehart, 887 
+F.2d 165 (8th Cir. 1989) and United States v. Reynolds, 764 
+F.2d 1004 (4th Cir. 1985), both of which in turn rely upon 
+United States v. Norton, 717 F.2d 767 (3d Cir. 1983). None 
+of those earlier court of appeals decisions reconciles its 
+holding with the Code provisions protecting rights of setoff 
+
+
+13 
+
+
+or the generally-recognized prerequisites of setoff, and 
+bankruptcy courts in other judicial circuits, recognizing these 
+defects, have refused to follow Norton and its progeny. See, 
+e.g., In re Tillery, 1995 WL 139231 (Bankr. W.D. Ark. 
+1995). 
+
+
+In fact, Norton, the foundation of these court of appeals 
+decisions, itself rests upon a peculiarity of the law of 
+Pennsylvania and is therefore irrelevant to this and most other 
+cases. See United States v. Norton, supra, 717 F.2d at 772.° 
+Even when that peculiar rule is applicable, Section 362(a)(7) 
+prevents occurrence of a setoff by operation of law, so that 
+the creditor may maintain the status quo by withholding 
+payment of an account balance to the extent the creditor has 
+a right of setoff, as provided in Section 542(b). None of the 
+courts of appeals that has addressed this issue has given 
+proper consideration to Section 542(b) or to the peculiarity of 
+Pennsylvania law upon which Norton was based. 
+
+
+* Norton looked to Pennsylvania law to determine whether a setoff had 
+occurred and concluded that under Pennsylvania law a setoff is 
+accomplished when a creditor gives sufficient evidence of intent to 
+make a setoff, and that the retention of a debtor's funds by a creditor 
+is sufficient evidence of that intent. United States v. Norton, 717 F.2d 
+at 772. This statement of Pennsylvania law in Norton was at variance 
+with the Third Circuit's earlier decision in Pittsburgh National Bank 
+v. United States, 657 F.2d 36 (3d Cir. 1981), which found that under 
+Pennsylvania law a setoff occurs by operation of law the moment a 
+creditor’s claim matures. Had the Third Circuit in Norton adhered to 
+Pittsburgh National Bank's reading of Pennsylvania law, it would have 
+concluded that either a setoff occurred by operation of law prior to the 
+bankruptcy filing (in which case the creditor would no longer owe the 
+debt that had been offset) or that the automatic stay prevented a setoff 
+by operation of law post-petition. In neither case was Norton justified 
+in equating a withholding of funds with a setoff. Reinhart, Reynolds 
+
+
+14 
+
+
+The only additional statutory authority cited by any of 
+these decisions is Section 362(a)(3), which provides for a stay 
+of any act “to exercise control over property of the estate.” 
+See Small Business Admin. v. Rinehart, supra, 887 F.2d at 
+168. Clearly, however, this language cannot be read so 
+broadly as to cover a refusal to pay a debt where such refusal 
+is authorized by the Code, and an administrative freeze is 
+nothing more than that. The language of Section 362(a)(3) 
+must be interpreted in harmony with other provisions of the 
+Code, and in particular should not be read to stay conduct 
+that is otherwise authorized by the Code.’ Jn re Lough, 163 
+
+
+B.R. 586, 588 (Bankr. D. Idaho 1994); National Bank of 
+
+
+Georgia v. Air Atlanta (In re Air Atlanta, Inc.), 74 B.R. 426, 
+427 (Bankr. N.D. Ga.), aff'd, 81 B.R. 724 (N.D. Ga. 1987); 
+Williams v. American Bank of the Mid-Cities, N.A. (in re 
+Williams), 61 B.R. 567, 586 (Bankr. N.D. Tex. 1986).- ~ 
+
+
+In the case of a deposit account, the estate’s property 
+right is a claim against the depository: institution; the estate 
+has no property interest in the institution’s cash, which is the 
+institution’s property. The institution has no control over 
+the estate’s claim against the institution, and the refusal to 
+pay the balance (unlike a setoff) does not extinguish or 
+otherwise alter the claim. Nonpayment of a debt that is 
+property of the estate should not be deemed a violation of the 
+automatic stay when nonpayment simply preserves a right of 
+setoff and is thus authorized explicitly by Section 542(b). 
+Indeed, under Section 542(b), a right of setoff is a defense to 
+a demand for turnover. Stephenson v. Salisbury, supra, 
+967 F.2d at 1077. The assertion of the defense provided by 
+the Code cannot be a violation of the automatic stay. 
+
+
+” Reading Section 362(a)(3) in isolation from other Code provisions 
+leads to results that plainly were not intended. For example, because 
+Section 362(a)(3) applies to all entities, if read in isolation it would 
+prohibit a debtor or trustee, as well as a creditor or other entity, from 
+exercising any control over property of the estate. 
+
+
+15 
+
+
+The court of appeals erred by applying Section 362(a) 
+not as a stay, but to defeat substantive rights, including rights 
+specifically provided in Sections 553(a) and 542(b). The 
+automatic stay, like the exception under Section 542(b) to the 
+obligation to make payment of a debt owing to the estate, is 
+intended to preserve the status quo. A depository institution’s 
+nonpayment of an account balance subject to a right of setoff 
+preserves the status quo until the court authorizes the creditor 
+to effect a setoff, or the debtor to use the account balance 
+after providing adequate protection, or the matter is resolved 
+through a plan or liquidation, in which case the creditor’s 
+rights as the holder of a secured claim would be recognized. 
+The result below, by contrast, defeats the status quo and the 
+creditor’s right of setoff by permitting a debtor to obtain 
+payment in full of the debtor’s account balance. 
+
+
+Il. 
+
+
+Construing the Automatic Stay to 
+Prohibit an Administrative Freeze 
+
+
+Results in a Deprivation of Property 
+Without Due Process of Law. 
+
+
+A depository institution’s right of setoff is not only a 
+contractual right, but also a property interest in the debtor’s 
+account balance. The property interest arises from setoff 
+rights that are widely recognized by statute and by common 
+law, and from Section 506(a) of the Bankruptcy Code, 
+providing that a creditor with a right of setoff holds a secured 
+claim to the extent of the setoff right. See In re Lawndale 
+Steel Co., 155 B.R. 990, 992 (Bankr. N.D. Ill. 1993). A 
+secured creditor’s interest in a debtor’s property is a property 
+interest of which a creditor may not be deprived without due 
+process of law. United States v. Security Industrial Bank, 459 
+U.S. 70 (1982). See U.S. CONST., amend. V. 
+
+
+16 
+
+
+The Bankruptcy Code, as any other statute, should be 
+construed so as not to conflict with the Constitution. Edward 
+J. DeBartolo Corp. v. Florida Gulf Coast Bldg. & Constr. 
+Trades Council, 485 U.S. 568 (1988). Interpretation of the 
+Bankruptcy Code in a manner that nullifies a creditor’s right 
+of setoff creates a wholly unnecessary conflict with the 
+Constitution. The constitutional conflict is avoided by giving 
+effect to the explicit protection of creditor interests set forth 
+in Section 542(b) and in the other Code provisions discussed 
+above. 
+
+
+IV. 
+
+
+The Rule Applied by the Court of Appeals 
+Will Have Adverse Consequences for 
+Debtor-Creditor Relations and for the 
+Administration of Bankruptcy Cases. 
+
+
+The rule applied by the court of appeals encourages 
+prepetition setoffs and emergency litigation at the commence- 
+ment of a bankruptcy case, neither of which is desirable. 
+
+A financial institution that has an opportunity to exercise 
+a right of setoff (typically, because a borrower has defaulted 
+under a loan agreement) faces a prepetition choice between 
+action (implementing the setoff) and forbearance. Forbearance 
+provides the best opportunity for rehabilitation. Prepetition 
+setoff encourages bankruptcy. The Code recognizes the 
+desirability of forbearance by preserving the creditor’s right 
+of setoff as described above and thereby protecting the 
+creditor after the petition is filed. 
+
+
+The Fourth Circuit’s policy choice, that a freeze would 
+diminish a debtor’s chances for rehabilitation, 37 F.3d at 
+159, is at odds with the policy of Section 553 and the other 
+provisions described above and penalizes the creditor for for- 
+bearing. Instead of encouraging financial institutions to give 
+
+
+17 
+
+
+borrowers leeway to straighten out their affairs without 
+having to file under the Code, the decision below discourages 
+forbearance and will result in more bankruptcy filings. As 
+such, the decision is utterly at odds with established 
+bankruptcy policy. 
+
+
+Section 542(b) clearly contemplates that a depository 
+institution with a right of setoff may withhold payment of an 
+account balance to the extent it is subject to setoff. The 
+creditor may then move for relief from the automatic stay if 
+it chooses to do so. The debtor may apply for permission to 
+use cash collateral if it chooses to do so. Or the parties may 
+negotiate a compromise, thus minimizing the need for judicial 
+involvement. 
+
+
+The decision of the court of appeals, by contrast, makes 
+it virtually impossible for a depository institution to preserve 
+a right of setoff. A depository institution could conceivably 
+obtain ex parte an order authorizing a freeze pending a 
+hearing on a request for relief from the automatic stay, as 
+suggested by the Fourth Circuit, see JA 41a-42a; 37 F.3d at 
+157-58, but the timing and result are uncertain, and there is 
+nothing in the Code that mandates or encourages ex parte 
+litigation to preserve rights the Code already affords. If the 
+debtor demands the account balance before a court order 
+authorizes a freeze, in the court of appeals’ view the 
+institution is powerless to preserve its right of setoff. By 
+writing the Section 542(b) exception out of the Code, this 
+result also makes it incumbent upon the depository institution 
+to commence emergency litigation, with attendant expense to 
+the creditor and the debtor and burden upon the bankruptcy 
+court, if the creditor is to have any hope of preserving its 
+setoff right. Such litigation is obviated, without compromising 
+the substantive rights of the debtor or the creditor, if 
+
+
+18 
+
+
+Section 542(b) and Section 363, along with Section 362, are 
+recognized as controlling." 
+
+In sum, the Bankruptcy Code already provides the rules 
+and procedures applicable in these circumstances, and there 
+are good reasons not to substitute the court of appeals’ 
+suggested policies and procedures for what the Code requires. 
+
+
+* One court of appeals has held that a depository institution may protect 
+its setoff right when a check is presented for payment of an account 
+balance subject to setoff by filing an ex parte motion under 
+Sections 362(f) or 363(e), accompanied by payment of the account 
+balance into the registry of the bankruptcy court, provided it does so 
+by midnight on the next banking day after it receives the check. 
+B.F. Goodrich Employees Fed. Credit Union v. Patterson (In re 
+Patterson), 967 F.2d SOS, 511 (llth Cir. 1992). Nothing in the 
+Bankruptcy Code mandates such a cumbersome and expensive 
+procedure — or indeed any procedure — as a prerequisite to the 
+depository institution's exercise of its right to withhold payment of an 
+account balance to the extent of the institution's nght of setoff. 
+
+
+19 
+
+
+Conclusion 
+
+
+For the reasons stated, the decision below should be 
+
+
+reversed. 
+
+
+H. Rodgin Cohen 
+
+William L. Farris 
+
+SULLIVAN & CROMWELL 
+Of Counsel 
+
+
+May 11, 1995 
+
+
+Respectfully submitted, 
+
+
+BRUCE E. CLARK 
+
+
+125 Broad Street, 
+
+
+NOI York New York 10004. 
+(212) 558-4000 
+
+
+Counsel of Record for The New 
+
+
+York Clearing House 
+Association, American Bankers 
+Association, Independent 
+Bankers Association of 
+America, NationsBank, N.A., 
+NationsBank, N.A. 
+(Carolinas), The First National 
+Bank Maryland, First 
+Fidelity , N.A. and Credit 
+Union’ National Association, 
+Inc., Amici Curiae 
+
+
+NORMAN R. NELSON 
+100 Broad Street, 
+New York, N.Y. 10004. 
+(212) 612-9200 
+Attorney for The New York 
+Clearing House 
+Association 
+
+
+JOHN J. GILL Ill 
+MICHAEL F. CROTTY 
+1120 Connecticut Ave., N.W., 
+
+
+Washington, D.C. "20036. 
+
+
+(202) 663-5028 
+Attorneys for American 
+Bankers Association 
+LEONARD J. RUBIN 
+
+
+BRACEWELL & PATTERSON 
+= K Street, hy W. 
+
+
+D.C. 20006. 
+%002) 8-5800 
+Attorneys for Independent 
+
+
+Bankers Association of 
+America 
+
+
+JOHN H. CULVER III 
+
+
+KENNEDY COVINGTON LOBDELL 
+
+
+& HICKMAN L.LP. 
+
+100 North Tryon Street, 
+
+Charlotte, N.C. 28202. 
+(704) shi 9453 
+
+
+Attorneys for NationsBank, 
+N.A. pe NationsBank, 
+N.A. (Carolinas) 
+
+
+20 
+
+
+KENNETH F. KRACH 
+25 S. Charles Street 
+Baltimore, Md. 21201. 
+(410) 244-3816 
+
+
+Atto The First 
+rey for 
+
+
+Bank 
+Maryland a 
+
+
+DANIEL P. MAZO 
+123 South Broad Street 
+Philadel Pa. 19109. 
+(215) ry 
+
+
+Alto r First Fideli 
+tat NA 
+
+
+CHARLES P. SEIBOLD 
+CHARLES F. BILS 
+P.O. Box 431, 
+Madison, Wis. 53701. 
+(608) 231-4020 
+—, for Credit Union 
+onal Association, Inc. 
+
+

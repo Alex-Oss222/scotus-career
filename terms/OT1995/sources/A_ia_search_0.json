@@ -1,0 +1,30 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 80,
+    "params": {
+      "query": "collection:us-supreme-court AND (text:&quot;94-1419&quot; OR text:&quot;94-1419&quot; OR text__reviews:&quot;94-1419&quot;)",
+      "qin": "collection:us-supreme-court AND &quot;94-1419&quot;",
+      "fields": "identifier,title,date",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 2,
+    "start": 0,
+    "docs": [
+      {
+        "date": "1995-01-01T00:00:00Z",
+        "identifier": "micro_IA40386013_0381",
+        "title": "Wood v. Bartholomew, 516 U.S. 1 (1995) (No. 94-1419)"
+      },
+      {
+        "date": "1995-01-01T00:00:00Z",
+        "identifier": "micro_IA40385013_0583",
+        "title": "Wood v. Bartholomew, 516 U.S. 1 (1995) (No. 94-1419)"
+      }
+    ]
+  }
+}

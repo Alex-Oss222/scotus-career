@@ -1,0 +1,1411 @@
+
+[PDF PAGE 1]
+mars, 
+ge eee 
+wg TY 
+FILED 
+JUN 12 1995 | 
+OFFICE 
+OF THE CLEKK | 
+SUPREME COURT OF THE UNITED STATES 
+OCTOBER TERM, 1994 
+CITIZENS BANK OF MARYLAND, 
+Petitioner, 
+DAVID STRUMPF, 
+Respondent. 
+ON WRIT OF CERTIORARI 
+TO 
+THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+BRIEF FOR THE RESPONDENT 
+JOuN R. Owen, je. 
+(Counsel of Record) 
+Hyattsville, 
+(301) 445-2100 
+ROGER SCHLOSSBERG 
+SCHLOSSBERG & ASSOCIATES, P.A. 
+Hagerstown, Maryland 21740 
+(301) 739-8610 
+~= 
+— 
+1 
+S>> 
+— 
+"BEST AVAILABLE COPY 
+
+
+[PDF PAGE 2]
+(t) 
+QUESTION PRESENTED 
+Whether a bank creditor may refuse a Chapter 13 
+debtor depositor’s request to withdraw funds pending 
+determination by the bankruptcy court of the bank’s 
+setoff right, without violating the automatic stay under 
+11 U.S.C. §362(a), especially when the Debtor’s Chap- 
+ter 13 Plan, which treated the bank creditor as an unse- 
+cured creditor, has been confirmed after notice without 
+objection by the bank creditor. 
+
+
+[PDF PAGE 3]
+(1) 
+Page 
+TABLE OF CONTENTS 
+QUESTION PRESENTED. ........--.ee05% WYTTTTT 
+TT i 
+TABLE 
+OF AUTTHIDREEEES oc ccccccccccccceseceoses iii 
+CONSTITUTIONAL, STATUTORY AND 
+RULE PROVISIONS INVOLVED .. cw ccccccccccccecs 1 
+STATHOGENT GP THE GAGS 0. co ccccccccescccscesesess 2 
+SUMMARY OF THE ARGUMENT. .........-2.-eeeee08% 5 
+ARGUMENT ........... TWriTrrrreffTfT 
+st 
+7 
+I. The Confirmation of the Debtor’s Plan Fixed 
+The Rights of Citizens and the Treatment to 
+Which Its Claim Was Entitled... .........20000000: 7 
+A. Citizens’ Failure to Object to the Confirmation 
+of Debtor’s Chapter 13 Plan Was a Waiver of 
+Citizens’ Right to Object to Its Treatment 
+Therein and Bound It to the Provisions 
+Thereof. .... TYrTTriTTTT Tt 7 
+B. Citizens Was Not a Secured Creditor.............- 8 
+Il. Citizens’ Action in Unilaterally Freezing the Debt- 
+or’s Bank Account Was Unlawful and Violated 11 
+U.S.C, §862(a)....... 000006866600 6060880606 10 
+A. Citizens Failed to Participate in the Chapter 13 
+Proceeding; Became Bound by the Provisions 
+of the Confirmed Plan; and Then Ignored the 
+Confirmation Order and the Bankruptcy Code ...... 10 
+B. Citizens Violated Three Section of 11 U.S.C. 
+BOGE, .<ccceeseeses 9000é60606beee0un 12 
+1. The Violation of §362(a)(7)............+.- .12 
+2. The Violation of §362(a)($).............+-- 12 
+8. The Violation of §362(a)(6).............45- 14 
+C. The Violation 
+of the Stay By Citizens 
+Was Com- 
+pounded 
+by the Freezing 
+by Citizens of More of 
+the Debtor’s Funds Than Required to Protect Its 
+- PPPrrrrrritr 9000000600eeeeeees 16 
+(iit) 
+Ill, Section 542(b) of the Bankruptcy Code Provides 
+No Support For The Assertion by Citizens of Its 
+Purported Right of Setoff nate the Debtor’s 
+Bank Account........... 
+Clie 
+a eee e666 
+6 6 
+IV. The Unique Interests of the United States As Well 
+As Those of State Taxing Authorities Do Not Sup- 
+port Reversal of the Decision of the Fourth Cir- 
+cuit Court of Appeals............ ecesececces 
+V. The Decision of the Fourth Circuit Court of 
+Appeals Below Threatens No Constitutionally 
+Protected Due Process Rights Of the Peti- 
+tioner or Similarly Situated Creditors ........... 
+CONCLUSION ..... POEM EMROEEES OC bee Coceee 
+ce 
+APPENDIX: 
+— United States Constitution, Amendment V 
+— 11 U.S.C, §362 (1988)... 
+— 11 U.S.C, §506 (1988) 
+— 11 U.S.C. §542 (1988)... 
+— 11 U.S.C, §1327 (1988). 
+— Rule 25, Local Rules of the United States 
+Bankruptcy Court for the District of 
+TABLE OF AUTHORITIES 
+Cases: 
+Barnhill v. Johnson, 503 U.S. 393 (1992)............. 
+In re Blanton, 105 B.R. 321, 336-38 (Bkrtcy.E.D. 
+| er 
+Cee ecceccccsccccee 
+TL «ccccccccccccccccece 
+ee 
+es 
+cc 
+cc ccc ccccces 
+oe 
+eeneeeneee 
+# 
+# 
+#£# *# © 
+© 
+© 
+© 
+© 
+Se 
+EE 
+ee@eseeseecoeeeeseoaeeenseens 
+
+
+[PDF PAGE 4]
+(iv) 
+Cases, continued: 
+Page 
+Citizens Bank of Maryland v. Strumpf, 138 B.R. 792, 
+794 (D. Md. 1992), rev’d., 37 F.3d 155 (4th Cir. 
+BOOED cc cccosseccnccecscocees 
+e*# se oee*eee#Heentee#*###s## y 
+Citizens Bank of Maryland v. Strumpf, 37 F.3d 155, 
+159 (4th Cir. 1994)....... 
+Sen ovcesoesescoveseoed 4 
+Cumberland Glass Mfg. Co. v. DeWitt, 237 U.S, 447, 
+OBB (IDES). 
+wc ccccccccccccccceccescccecccceces 9 
+Cusanno v. Fidelity Bank, 29 B.R. at 813....... iii 
+ee edn 18 
+In re Figgers, 121 B.R. 722, 778 spans S.D. Ohio 
+BOGEE wc cccccesees eeceeresececesseseccecese 14 
+In re Patterson, 967 F.2d 505 (11th Cir. 1992) obenenes passim 
+In re Rio, 55 B.R. 814 (Bkrtcy. M.D.Ala. 1985) ........... 19 
+United States v. Norton, 717 F.2d 767, 773 (3rd Cir. 
+BRUNE sé ceceesecs TeTTrT reTvrerrrerer 12, 14, 21 
+United States v. eden 764 F.2d 1004, 1007 (4th 
+Cir. 1985) 
+. 
+WTTTTUTTTT 
+YT EL 12, 21 
+United States v. Whiting Pools, Inc., 462 U.S. 198 
+CRBEU 
+cccceccescecccséocs sebecceovcceves 15, 21 
+In re Wicks, 176 B.R. 695 (Bkrtcy. E.D.N.Y. 1995)......... 19 
+In re Wildcat Constr. Co., Inc., 57 B.R. 981 (Bankr.D. 
+Vt. 
+SUED cocecceccessececosape 
+eee mewesoeces 13,18 
+Constitutional Provisions: 
+Se 
+ES Wb 
+6 6.06506 ob be eb bbe Cow eeneees 22 
+Statutes: 
+B23 ULGG, BOGE CRGGE. oc cece cc cccccccccccccces passim 
+11 U.S.C. $362(a)(S) (1988)... weer 
+cece enne 5, 12,13 
+11 U.S.C. §862(a)(6) (1988). 2... 
+cee eee eee 
+e eee 
+5, 14, 16 
+11 U.S.C. §362(a)(7) (1988). . 
+(v) 
+Statutes, continued: 
+Page 
+ee 
+Ss 
+oN ec cocseeteonetesesowens 23 
+ER 
+19 
+83 US.C, GOEREMR) (1908S)... 
+cc ccc ccc cccccs 18, 19 
+Se 
+IE, 
+oo vc cn tcccescbecdececse 8,9, 10 
+So 
+dunes ceob code benbedececene 13 
+11 U.S.C, §541(a)(1) (1988)....... aedeeneceesesades 138 
+RE 
+ne 5,17,18 
+ee 
+eine 
+6 0600 65ss0uesesbeaen 9,17 
+i 
+i 
+ga 
+a 
+18 
+i 
+i ee 
+19 
+ee I, 
+oc cco sckdsbenesce 
+sees 15 
+OS es 
+ES cc 
+cénnccscckvecicitere 8,10 
+Miscellaneous: 
+Bankruptcy Amendments and Federal Judgeship Act 
+oS E006, Pub, L. Me. GO-BSS 2 cc ccccccccccccccccces 13 
+H.R. Rep. No. 95-595, 95th Cong., Ist Sess. 340 
+(1977), reprinted in, 1978 U.S.C.C.A.N. 5787 ....... 11,15 
+Local Rules of the U.S. Bankruptcy Court for the 
+District of Maryland,........... Sebebesecceces 21, 22 
+Randy J. Shaw, Finally, An Answer to the Banker’s 
+Dilemma!, 68 Fla. B,J. 79 (1994)..... cieenweeeeenec 11 
+
+
+[PDF PAGE 5]
+No. 94-1340 
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+OCTOBER TERM, 1994 
+CITIZENS BANK OF MARYLAND, 
+Petitioner, 
+DAVID STRUMPF, 
+Respondent. 
+ON WRIT OF CERTIORARI TO 
+THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+BRIEF FOR THE RESPONDENT 
+CONSTITUTIONAL, STATUTORY AND RULE 
+PROVISIONS INVOLVED 
+The relevant provisions of the United States Constitu- 
+tion, the United States Bankruptcy Code and the Local 
+Rules of the United States Bankruptcy Court for the 
+District of Maryland are reprinted in the appendix to this 
+brief. 
+
+
+[PDF PAGE 6]
+2 
+STATEMENT OF THE CASE 
+On January 25, 1991, the Respondent David Strumpf 
+(the “Debtor”) filed in the United States Bankruptcy 
+Court for the District of Maryland his voluntary petition 
+for relief under Chapter 13 of the United States Bank- 
+ruptcy Code.! Filed together with his voluntary petition 
+was the Debtor’s Chapter 13 Statement and Statement of 
+Affairs (R. 1) (Chapter 13 Statement, Statement of 
+Affairs)? as well as the Debtor’s proposed Chapter 13 
+Plan. (J.A. 3a); (R. 1). In the Chapter 13 Statement in 
+response to Question 12(c), the Debtor included among 
+his unsecured debts an indebtedness owed to the Peti- 
+tioner Citizens Bank of Maryland (hereinafter the ‘‘Peti- 
+tioner” or “‘Citizens”) in the amount of $2,500.00. (R. 1) 
+(Chapter 13 Statement). 
+On or about February 26, 1991, the bankruptcy court 
+issued its Order for Meeting of Creditors, Combined With 
+Notice Thereof and of Automatic Stays (the “First Meet- 
+ing Notice”) and forwarded the same to all parties-in- 
+interest, including Citizens, (J.A. 7a) together with a 
+copy of the Debtor’s proposed Chapter 13 Plan which 
+provided for the treatment of claims of unsecured credi- 
+tors in Class III thereof. (J.A. 3a). Included among the 
+111 U.S.C §§101 et seg. (1988) (hereinafter sometimes 
+referred to as the “Bankruptcy Code”’ or the “‘Code”), 
+2 Consistent with the treatment of the certified record in the 
+Petitioner’s Brief, Respondent notes that the pages of the certified 
+record are not consecutively paginated, and citations to the Record 
+herein are to the Docket Entry in the Record, followed by a 
+parenthetical description of the specific document within the 
+Docket Entry to which citation is made. For example, in this cita- 
+tion, the Chapter 13 Statement and Statement of Affairs may be 
+found at Docket Entry No. 1 of the certified Record; which 
+Docket Entry is the entire Bankruptcy Court record as submitted 
+to the District Court. 
+3 
+important information set forth in the First Meeting 
+Notice was the date and time of the hearing on confirma- 
+tion of the Debtor’s Chapter 13 Plan, which was set for 
+March 20, 1991, at 2:00 p.m. Also included in the First 
+Meeting Notice was a cautionary note that any objections 
+to confirmation of the Plan would be heard at the confir- 
+mation hearing. (J.A. 7a). 
+On March 20, 1991, following due notice thereof, the 
+hearing on confirmation of the Debtor’s Chapter 13 Plan 
+was held and the Debtor’s Chapter 13 Plan was confirmed; 
+the Order Confirming Plan was thereafter entered on the 
+docket on April 8, 1991. (J.A. 10a-1 1a). 
+On June 13, 1991, Citizens filed its Proof of Claim 
+asserting an indebtedness owed to it in the amount of 
+$2,555.50. Other than the filing of its Proof of Claim as 
+aforesaid, Citizens did not avail itself of its right to par- 
+ticipate in any way in the Chapter 13 bankruptcy pro- 
+ceeding until October 7, 1991. 
+On October 
+2, 1991, Citizens “froze” $3,500.00 
+maintained by the Debtor in a checking account at Citi- 
+zens. (J.A. 26a). Five days later, on October 7, 1991, 
+Citizens filed in the bankruptcy court its Motion for 
+Relief from Automatic Stay and for Setoff reciting the 
+existence of a debt owed to it by the Debtor in the 
+aggregate amount of $3,259.68, inclusive of attorney’s 
+fees and interest accrued through October 15, 1991— 
+eight days after the date of filing of the Motion. (J.A. 
+15a-16a). 
+On October 9, 1991, the Debtor filed his Motion to 
+Hold 
+Citizens 
+in Contempt. 
+(J.A. 23a-25a). 
+In due 
+course, Citizens’ Motion for Relief from Stay was heard 
+by the bankruptcy court on November 4, 1991, and 
+ruling was reserved pending the filing of memoranda by 
+
+
+[PDF PAGE 7]
+4 
+counsel. 
+(R. 1) (Transcript, Nov. 4, 1991 hearing). 
+Shortly thereafter, on November 13, 1991, the bank- 
+ruptcy court considered the Debtor’s Motion to Hold 
+Citizens 
+in Contempt. 
+The bankruptcy 
+court (Paul 
+Mannes, Chief Judge) granted 
+the Debtor’s Motion 
+holding Citizens in contempt for violation of the auto- 
+matic stay and awarded nominal damages of $25.00 to 
+the Debtor together with punitive damages of $375.00 
+and attorney’s fees to Debtor’s counsel in the amount of 
+$500.00. (J.A. 27a-28a). Shortly thereafter, following 
+release of the freeze on the Debtor’s bank account by 
+Citizens, 
+the bankruptcy court (Paul Mannes, Chief 
+Judge) granted the Motion of Citizens for relief from the 
+stay. (J.A. 29a). 
+Citizens subsequently appealed the decision of the 
+bankruptcy court granting the Debtor’s Motion for Con- 
+tempt to the United States District Court for the District 
+of Maryland. (R. 1) (Notice of Appeal). On March 30, 
+1992, the district court (Hargrove, District Judge) reversed 
+the decision of the bankruptcy court by its Memorandum 
+Opinion and Order. (J.A. 3la-38a); Citizens Bank of 
+Maryland v. Strumpf, 138 B.R. 792 (D. Md. 1992), rev’d., 
+37 F.3d 155 (4th Cir. 1994). 
+The Debtor thereafter appealed the decision of the 
+District Court to the United States Court of Appeals for 
+the Fourth Circuit. On October 13, 1994, the court 
+of 
+appeals reversed the ruling of the district court and 
+remanded the case with instructions to reinstate the 
+decision of the bankruptcy court. (J.A. 39a-46a); Citizens 
+Bank of Maryland v. Strumpf, 37 F.3d 155 (4th Cir. 
+1994). On October 27, 1994, Citizens filed a Petition for 
+Rehearing or, in the Alternative, Suggestion for Rehear- 
+ing 
+En Banc with the Fourth Circuit. On November 
+8, 
+1994, that Petition was denied. 
+5 
+On February 6, 1995, Citizens filed herein its Petition 
+for Writ of Certiorari, which Petition was granted by this 
+Court on March 27, 1995. 
+SUMMARY OF THE ARGUMENT 
+Debtor filed a Chapter 13 Petition and Chapter 13 
+Statement listing the unsecured claim of Petitioner Citi- 
+zens. 
+A Chapter 13 Plan was filed providing for distribu- 
+tions to all unsecured creditors including Petitioner. All 
+creditors were notified of the hearing on confirmation of 
+that Plan and of their opportunity to object. When Citi- 
+zens failed to object to confirmation and the Chapter 13 
+Plan was confirmed, Citizens became bound thereby. 
+Following that confirmation hearing, Citizens took no 
+action to seek a modification of the confirmed Chapter 
+13 Plan. Some eight (8) months following the filing of 
+the Debtor’s voluntary petition under Chapter 13 of the 
+Bankruptcy Code, and some six (6) months following 
+confirmation of the Debtor’s Chapter 13 Plan, Citizens 
+unilaterally and without prior notice froze the bank 
+account of the Debtor maintained with Citizens without 
+benefit of any application to or order of the bankruptcy 
+court. Further, Citizens froze funds in the Debtor’s bank 
+account in an amount some several hundred dollars in 
+excess of that which Citizens claimed to be owed by the 
+Debtor. By virtue of Citizens’ action in freezing the 
+Debtor’s bank account, Citizens violated the provisions of 
+11 U.S.C. § §362(a)(7), (a)(3) and (a)(6). 
+Notwithstanding Citizens’ assertion that its actions in 
+freezing the Debtor’s bank account are expressly counte- 
+nanced by §542(b) of the Bankruptcy Code, careful 
+analysis of that section reveals that the same is simply 
+inapplicable without a prior request to and order from 
+
+
+[PDF PAGE 8]
+6 
+the bankruptcy court modifying the automatic stays 
+imposed by 11 U.S.C. §362 to permit such a freezing 
+and setoff of the Debtor’s bank account. 
+Further, the assertion by the Petitioner that the impo- 
+sition of prior relief limitations on its setoff rights is an 
+unconstitutional 
+taking of its property without due 
+process of law in violation of the Fifth Amendment to 
+the United 
+States Constitution 
+is similarly without 
+merit. Throughout the Bankruptcy Code, a careful bal- 
+ance is maintained between the rights of debtors and 
+creditors which sometimes results in the conditioning 
+and/or delay of enforcement of creditors’ rights in favor 
+of the Bankruptcy Code’s goal of an orderly restructur- 
+ing of debtor/creditor relationships. 
+As that goal is 
+advanced by the limited restrictions placed upon credi- 
+tors with rights of setoff without a deprivation of those 
+creditors’ rights, there can be no serious argument that 
+those restrictions are an unconstitutional taking of prop- 
+erty without due process of law. 
+Finally, the Respondent states that the amicus cunae 
+brief of the United States advances a strained interpreta- 
+tion of the Bankruptcy Code which would eviscerate the 
+debtor protection provisions manifest in 11 U.S.C. § 362. 
+Rather than adopt that view, Respondent urges that the 
+statutory scheme can best be preserved and respected 
+through the careful implementation of general or local 
+rules of bankruptcy procedure similar to that adopted by 
+the United States Bankruptcy Court for the District of 
+Maryland and providing an orderly mechanism within the 
+Bankruptcy Code for the processing and setoff of debtors’ 
+tax refunds and overpayments. 
+7 
+ARGUMENT 
+THE CONFIRMATION OF THE DEBTOR’S PLAN FIXED 
+THE RIGHTS OF CITIZENS AND THE TREATMENT TO 
+WHICH ITS CLAIM WAS ENTITLED. 
+A. Citizens’ Failure to Object to the Confirmation 
+of Debtor’s Chapter 13 Plan Was a Waiver of 
+Citizens’ 
+Right to Object to Its Treatment 
+Therein and Bound It to the Provisions Thereof. 
+As noted in the Statement of the Case, supra, the 
+Debtor’s Chapter 13 Plan was filed herein on January 25, 
+1991, together with the Debtor’s Voluntary Petition 
+under Chapter 13 of the Bankruptcy Code. The Debtor 
+filed his Chapter 13 Statement on that date, which 
+included the claim of Citizens in the amount of $2,500.00 
+as an unsecured claim. On February 26, 1991, the bank- 
+ruptcy court issued the First Meeting Notice and for- 
+warded the same to all parties in interest, including Citi- 
+zens, together with a copy of the Debtor’s Chapter i3 
+Plan. Contrary to the assertion of the Petitioner 
+in its 
+brief, the Plan made full provision for the treatment of 
+Citizens’ claim together with the claims of all other 
+unsecured creditors in Class 3 thereof (J.A. 3a). The First 
+Meeting Notice further noted that a hearing on confirma- 
+tion of the Plan would be held on March 20, 1991, at 
+2:00 p.m., and cautioned as follows: 
+IF WRITTEN OBJECTIONS TO CONFIRMATION 
+ARE FILED, A HEARING ON SUCH OBJECTIONS 
+WILL BE HELD AT THE TIME OF THE CONFIR- 
+MATION HEARING. 
+(emphasis in original) (J.A. 7a). 
+Notwithstanding the treatment of Citizens’ claim in 
+the Chapter 13 Plan as unsecured and the bold warning 
+
+
+[PDF PAGE 9]
+to all creditors contained in the First Meeting Notice that 
+objections to the Chapter 13 Plan would be considered 
+at the confirmation hearing on March 20, 1991, Citizens 
+took no action and interposed no objection to the treat- 
+ment provided for it under the Chapter 13 Plan. Accord- 
+ingly, the Chapter 13 Plan came on for confirmation at 
+the scheduled hearing and was confirmed by order of the 
+bankruptcy court entered on April 8, 1991 (J.A. 10a- 
+lla). 
+With the entry of the Order Confirming Plan, Citizens 
+was bound to the treatment of its claim contained in the 
+Chapter 13 Plan, pursuant to the provisions of 11 U.S.C. 
+§ 1327(a). Even following the entry of that Order, Citi- 
+zens took no action in the Chapter 13 case to assert any 
+claim for different treatment than that proposed for it by 
+the Debtor in his Chapter 13 Plan. While Citizens filed 
+its Proof of Claim in the Chapter 13 proceeding on 
+June 13, 1991, asserting a secured claim in the amount 
+of $2,555.50, it took no action in the bankruptcy court 
+to seek a revision of the Chapter 13 Plan to provide 
+treatment thereunder as a secured creditor. Indeed, other 
+than the filing of its Proof of Claim as aforesaid, 
+Citizens 
+took no action for the first eight (8) months of the 
+Chapter 13 proceedings to assert its right to treatment 
+under the Chapter 13 Plan other than as proposed 
+by the 
+Debtor. 
+B. Citizens Was Not a Secured Creditor. 
+Although Citizens asserts that it was a secured creditor 
+in the Chapter 13 proceedings 
+by virtue of its alleged set- 
+off rights and the provisions of 11 U.S.C. §506(a) of the 
+Bankruptcy Code, careful reading of that section makes 
+clear that such secured status does not automatically arise 
+upon the assertion of a right of setoff, but only upon a 
+9 
+determination by the bankruptcy court that a setoff will 
+be permitted in a given case. 
+An allowed claim of a creditor secured by a lien on 
+property in which the estate has an interest, or that 
+is subject to setoff under section 553 of this title, is 
+a secured claim to the extent of the value of such 
+creditor’s interest in the estate’s interest in such 
+property, or to the extent of the amount subject to 
+setoff, as the case may be, and is an unsecured claim 
+to the extent that the value of such creditor’s inter- 
+est or the amount so subject to setoff is less than the 
+amount of such allowed claim. Such value shall be 
+determined in light of the purpose of the valuation 
+and of the proposed disposition or use of such 
+property, and in conjunction with any hearing on 
+such disposition or use or on a plan affecting such 
+creditor’s interest. 
+11 U.S.C. $506(a) (1988). 
+Indeed, the above-quoted language makes clear the 
+intention of the drafters of the Bankruptcy Code that 
+any party desiring treatment as a secured creditor by 
+virtue of an asserted (but disputed) right of setoff must 
+participate in the hearing on confirmation of the Debtor’s 
+Chapter 13 Plan or in some other hearing regarding set- 
+off, or use of funds subject to setoff. The participation of 
+such creditor is required, inter alia, because a creditor’s 
+right of setoff is permissive in nature, rather than manda- 
+tory, and the exercise of setoff is within the discretion of 
+the bankruptcy court under general principles of equity. 
+Cumberland Glass Mfg. Co. v. DeWitt, 237 U.S. 447, 
+455 (1915); See also In re Blanton, 105 B.R. 321, 336-38 
+(Bkrtcy.E.D.Va. 1989) (collecting cases reviewing allow- 
+ance and disallowance of 
+setoff). Only through 
+a full air- 
+ing of the creditor’s claimed right of setoff at the confir- 
+mation hearing, or at some other hearing prior thereto, 
+
+
+[PDF PAGE 10]
+10 
+can the bankruptcy court consider the equities of the 
+asserted right of setoff, for the purpose of allowing or 
+disallowing a requested setoff, and to determine any 
+secured status pursuant to §506(a). As Citizens did not 
+seck a determination of its alleged secured status at or 
+prior to the confirmation hearing on the Debtor's Chap- 
+ter 13 Plan, the confirmed Plan represents a judicial 
+determination of Citizens’ mghts on proper notice to 
+Citizens and to every other creditor. Citizens was bound 
+to the treatment provided in the confirmed Plan, which 
+treatment is as an unsecured creditor. 11 U.S.C. §1327 
+(a) (1988). 
+Il. 
+CITIZENS’ ACTION IN UNILATERALLY FREEZING THE 
+DEBTOR’S BANK ACCOUNT WAS UNLAWFUL AND 
+VIOLATED 11 U.S.C. §362(a). 
+A. Citizens Failed to Participate 
+in the Chapter 13 
+Proceeding; Became Bound by the Provisions of 
+the Confirmed Chapter 13 Plan; and Then Ignored 
+the Confirmation Order and the Bankruptcy 
+Code. 
+After Citizens’ inaction at and prior to confirmation of 
+the Chapter 13 Plan resulted in a determination of its 
+treatment under the Plan, Citizens took no appropriate 
+action to cure what it came to believe was inadequate 
+treatment. While Citizens could have filed an appropriate 
+pleading seeking modification of the Debtor's Chapter 13 
+Plan to provide treatment for Citizens as a creditor 
+allegedly secured by setoff rights in the Debtor's bank 
+account, or could have filed a Motion seeking relief from 
+the various stays imposed by §362 to permit it to assert 
+and exercise its rights of setoff against the Debtor’s bank 
+account, Citizens elected neither of said options. Further, 
+no other judicial remedy was pursued. Instead, Citizens 
+1] 
+chose to ignore both the court order confirming the Plan 
+as well as the carefully orchestrated scheme of debt 
+restructuring contemplated throughout the Bankruptcy 
+Code, Citizens unilaterally, and without any recourse to 
+the statutory scheme of the Bankruptcy Code or to judi- 
+cial determination, setoff the Debtor’s bank account in 
+the amount of $3,500.00 as a result of a pre-petition 
+unsecured debt which was no more than $3,259.68. 
+Indeed, the actions of Citizens to protect its narrow 
+interests some eight (8) months into the subject bank- 
+ruptcy case in absolute disregard of the rights of all other 
+creditors illumines the wisdom of Congress in its inclu- 
+sion in the Bankruptcy Code of the automatic stay pro- 
+visions of 11 U.S.C. §362.> Commenting on the purpose 
+of that bedrock provision, the House Committee on the 
+Judiciary noted as follows: 
+The automatic stay also provides creditor protec- 
+tion. Without it, certain creditors would be able to 
+pursue 
+their own remedies against the debtor’s 
+property. Those who acted first would obtain pay- 
+ment of the[ir] claims in preference to and to the 
+de ‘riment of other creditors. Bankruptcy is designed 
+to provide an orderly liquidation procedure under 
+which all creditors are treated equally. A race of 
+diligence by creditors for the debtor’s assets pre- 
+vents that. 
+H.R. Rep. No. 95-595, 95th Cong., Ist Sess. 340 (1977), 
+reprinted in, 1978 U.S.C.C.A.N. 5787. 
+The purpose of the automatic stay, in essence, is to prevent 
+the further desiccation of the debtor’s cash flow through the loss 
+of bank accounts and accounts receivable thereby expediting the 
+financial recovery of the debtor. Randy J. Shaw, Finally, An 
+Answer to the Banker's Dilemma!, 68 Fla, B,J. 79 (1994). 
+
+
+[PDF PAGE 11]
+12 
+All creditors, including Citizens, were bound by law to 
+the treatment provided in the confirmed Plan. Citizens 
+acted in derogation of that legal duty, in its own paro- 
+chial interest, and to the complete disregard of all other 
+parties in interest. 
+B. Citizens Violated Three Sections of 11 U.S.C. 
+§ 362(a). 
+1. The Violation of §362(a)(7). 
+The Fourth Circuit relied on opinions of numerous 
+other courts of appeals written since the adoption of the 
+Bankruptcy Reform Act of 1979 to support the conclu- 
+sion that the imposition of an administrative freeze on 
+a debtor’s bank accounts is tantamount to a setoff under 
+11 U.S.C. §362(a)(7). Those opinions firmly establish 
+the principle in those several circuits that the denial to 
+debtors of meaningful and timely access to deposit 
+accounts maintained in the name of those debtors is an 
+exercise of control over property of the debtor’s estate 
+in violation of 11 U.S.C. §362(a)(3) as well as a pre- 
+mature attempted setoff of property of the debtor’s 
+estate in violation of 11 U.S.C. §362(a)(7). See In re 
+Patterson, 967 F.2d 505, 513 (11 Cir. 1992); United 
+States v. Reynolds, 764 F.2d 1004, 1007 (4th Cir. 1985); 
+United States v. Norton, 717 F.2d 767, 773 (3rd Cir. 
+1983). 
+2. The Violation of §362(a)(3). 
+Although not embraced by the court of appeals, the 
+bankruptcy court below found that Citizens’ action in 
+freezing the Debtor’s bank account violated the auto- 
+matic stay’s prohibition contained in 11 U.S.C. § 362(a) 
+(3). (R. 1) (Transcript, Nov. 4, 1991 hearing). In opinions 
+13 
+of other courts echoing that determination by the bank- 
+ruptcy court below, those courts have noted the expres- 
+sion of Congressional intent in expanding the ambit of 
+§362(a)(3) by the amendment of that section included 
+in the Bankruptcy Amendments and Federal Judgeship 
+Act of 1984, Pub. L. No. 98-353. While § 362(a)(3) pre- 
+viously proscribed “. . 
+. any act to obtain possession of 
+property of the estate or of property from the estate... ,” 
+the 1984 amendments substantially strengthened that 
+section by including therein a prohibition against acts 
+. 
+. » to exercise control over property of the estate. . . .” 
+11 U.S.C. §362(a)(3) (1988); See In re Wildcat Constr. 
+Co., Inc., 57 B.R. 9&1 (Bankr.D.Vt. 1986). 
+Although Citizens properly observes in its brief that 
+the funds in the Debtor’s bank acount were not, in and 
+of themselves, property of the estate, Barnhill v. Johnson, 
+503 U.S. 393 (1992), the right to withdraw those funds 
+is property properly included within the pervasive defini- 
+tion of “property of the estate.” 11 U.S.C. §541 (1988). 
+That section includes in the definition of “property of 
+the estate” “all legal or equitable interests of the debtor 
+in property as of the commencement of the case.”’ 1] 
+U.S.C. §541(a)(1) (1988). The Debtor’s right to with- 
+draw funds is at least an equitable right, and as such is 
+included within the property of the Debtor’s estate. As 
+such, the unilateral imposition by Citizens of an adminis- 
+trative freeze on the Debtor’s bank account was an act 
+which impeded the Debtor’s access to his funds and 
+— represented the exercise by Citizens of “. . . con- 
+trol over property 
+of the estate... .” 
+S.C, 
+peng 
+y 
+11 U.S.C. §362(a) 
+
+
+[PDF PAGE 12]
+14 
+3. The Violation of § 362(a)(6). 
+The provisions of 11 U.S.C. §362(a)(6) prohibit “any 
+act to collect, assess, or recover a claim against the 
+debtor that arose before the commencement of the case 
+under this title. . 
+. .” That section is succinct and not 
+difficult to understand, notwithstanding the obfuscatory 
+efforts of the Petitioner to the contrary. There is no 
+doubt that Citizens’ action was in respect of “‘a claim 
+against the debtor that arose before the commencement 
+of the case. ...” 11 U.S.C. §362(a)(6) (1988). Similarly, 
+there can be no serious dispute that the act of freezing 
+the Debtor’s bank account was designed to collect or 
+recover that claim. Jn re Patterson, 967 F.2d 505, 512 
+(1ith Cir. 1992); In re Figgers, 121 B.R. 772, 778 
+(Bkrtcy. S.D. Ohio 1990). Thus, the violation of §362- 
+(a)(6) is clear and compelling. 
+While Citizens may ultimately have been entitled to 
+relief from stay had it requested such relief prior to the 
+confirmation 
+of the Debtor’s Chapter 
+13 Plan, the 
+simple fact remains that no relief from the stay was 
+requested or granted, and the act of freezing the Debtor’s 
+bank account falls squarely within the proscription of 
+§ 362(a)(6). 
+In United States v. Norton, 717 F.2d 767 (3rd Cir. 
+1983), the court elucidated many of the relevant points 
+in this analysis. The Third Circuit cited the legislative 
+history to remind creditors, and the courts which review 
+their actions, as follows: 
+The purpose of chapter 13 is to enable an individual, 
+under court supervision and protection, to develop 
+and perform under a plan for the repayment of his 
+debts over an extended period. In some cases, the 
+plan will call for full repayment. In others, it may 
+offer creditors a percentage of their claims in full 
+| a 
+15 
+settlement. During the repayment period, creditors 
+may not harass the debtor or seek to collect their 
+debts. They must receive payments only under the 
+plan. This protection 
+relieves the debtor from 
+indirect and direct pressures from creditors, and 
+enables him to support himself and his dependents 
+while repaying his creditors at the same time. 
+United States v. Norton, 717 F.2d 767, 773 (3rd Cir. 
+1983) (quoting H.Rep. 595, supra at 118). 
+The Court then observed that ‘“‘even creditors whose 
+claims are secured under the Code must submit to the 
+risk inherent in judicial supervision of the rights they 
+normally would have to enforce their claims against prop- 
+erty of the debtor.” United States v. Norton, 717 F.2d 
+767, 773-74 (3rd Cir. 1983) (citing U.S. v. Whiting Pools, 
+Inc., 462 U.S. 198 (1983)). The Third Circuit further 
+notes 
+that “[s]ection 1322 of the Code specifically 
+authorizes a modification of the rights of most holders 
+of secured claims and all holders of unsecured claims. 
+11 U.S.C. §1322(b)(2).” 717 F.2d pp. 773-74 at n. 10. 
+Thus, the complaint made by Citizens in its brief that 
+affirmance by this Court of the decision of the Fourth 
+Circuit will deprive Citizens of its setoff rights existing 
+under state law ignores a central tenet of bankruptcy 
+law—bankrupcy courts 
+are empowered by the Bank- 
+ruptcy Code to modify the rights of secured and unse- 
+cured creditors through the confirmation of a Plan. Such 
+a modification of the rights of Citizens occurred when 
+the Chapter 13 Plan was confirmed by the bankruptcy 
+court below following Citizens’ voluntary decision not to 
+participate in the confirmation process. Unfortunately, 
+Citizens’ response to that modification of its rights by 
+unilaterally and without prior notice freezing the Deb- 
+tor’s bank account some eight months after filing the 
+
+
+[PDF PAGE 13]
+16 
+Chapter 13 Petition, and six (6) months after confirma- 
+tion of the Chapter 13 Plan, violated the automatic stay 
+imposed by § 362(a)(6). 
+C. The Violation of the Stay By Citizens Was Com- 
+pounded by the Freezing by Citizens of More of 
+the Debtor’s Funds Than Required to Protect Its 
+Claim. 
+Adding insult to the injury inflicted by Citizens upon 
+the Debtor is the fact, glossed over by both the bank- 
+ruptcy court and the court of appeals below, that Citi- 
+zens imposed a freeze on the Debtor’s bank accounts well 
+in excess of any amount which was then allegedly owed 
+to it by the Debtor. As noted in the Statement of the 
+Case, supra, the Debtor acknowledged in his Chapter 13 
+Statement a debt owed to Citizens in the amount of 
+$2500.00. (R. 1) (Chapter 13 Statement). Indeed, in its 
+Proof of Claim filed on June 13, 1991, Citizens itself 
+asserted a claim of only $2,555.50. (R. 1) (Proof of 
+Claim). Further, in its Motion for Relief from Stay filed 
+five (5) days after 
+its freeze of the Debtor s bank 
+account, Citizens recited a debt owed to it in the total 
+amount of only $3,259.68, inclusive of accrued interest 
+and attorney’s fees. (J.A. 15a-16a). Notwithstanding the 
+express acknowledgement by Citizens that it was there- 
+fore owed not more than the $3,259.68 set forth in its 
+Motion for Relief from Stay, Citizens had already frozen 
+the sum of $3,500.00 five (5) days before the filing of 
+that Motion—some several hundred dollars in excess e 
+even its own most optimistic accounting of its claim. 
+. 
+that sum of $3,259.68 recited 
+Respondent notes that even 
+in Citizens” Motion for Relief from Stay included interest not “9 
+accrued; the same having been accounted through October 15, 
+1991—eight (8) days after the filing of that Motion and thirteen 
+(13) days after the freeze of the Debtor's bank account, 
+cell 
+see 
+17 
+Surely such an action, when combined with the extraord- 
+inarily dilatory handling of Citizens’ claim throughout 
+the Debtor’s then eight-month 
+old bankruptcy case, 
+belies any suggestion that Citizens acted in good faith 
+and should be extended the benefits of an equitable 
+view of its claim and alleged setoff rights in respect 
+thereof. 
+SECTION 542(b) OF THE BANKRUPTCY CODE PRO. 
+VIDES NO SUPPORT FOR THE ASSERTION BY CITI- 
+ZENS 
+OF 
+ITS 
+PURPORTED 
+RIGHT 
+OF SETOFF 
+AGAINST THE DEBTOR’S BANK ACCOUNT. 
+In its brief, the Petitioner asserts that it was expressly 
+authorized by §542(d) to freeze administratively the 
+Debtor’s bank account pending prospective determina- 
+tion by the bankruptcy court of Citizens’ motion seeking 
+relief from §362(a)(7) to permit setoff of that bank 
+account. It is true that under the plain language of §542 
+(b), Citizens may decline to turnover debts due by it to 
+the Debtor to the extent Citizens has debts due it from 
+the Debtor, but only to the extent permitted by 11 U.S.C. 
+§553 of the Bankruptcy Code. 
+By its terms, §553 permits setoff only after compli- 
+ance by an offsetting creditor with the provisions of 
+§ 362 of the Bankruptcy Code. 
+(a) Except as otherwise provided in this section and 
+in sections 362 and 363 of this title, this title does 
+not affect any right of a creditor to offset a mutual 
+debt owing by such creditor to the debtor that arose 
+before the commencement of the case under this 
+title against a claim of such creditor against the 
+
+
+[PDF PAGE 14]
+18 
+debtor that arose before the commencement of the 
+case... 
+11 U.S.C. §553(a) (1988). 
+In a cogent analysis of the assertion that §542(b) 
+authorizes a freeze of debtors’ bank accounts in situa- 
+tions such as are presented in the instant case, the court 
+in In re Wildcat Constr. Co., Inc., 57 B.R. 981 (Bankr. 
+D.Vt. 1986) observed: 
+Indeed, perhaps the most fundamental problem 
+with countenancing the freezing of the debtor’s 
+bank accounts before any judicial determination of 
+the rights of the parties has been made is that it 
+begs the critical question, assuming in advance the 
+precondition for its validity. This position converts 
+a bank’s potential right to setoff into an allowed 
+claim at the outset. These Courts “seem to assume 
+that the bank has the right to make the initial deter- 
+mination of which bank accounts are cash collateral 
+which the debtor may not use... .”” Cusanno v. 
+Fidelity Bank, 29 B.R. ai 813. The freeze is essenti- 
+ally an extra-judicial temporary restraining order. 
+We must not delegate to one of the parties the 
+judicial responsibility of deciding whether the funds 
+in the accounts are cash collateral and of enforcing 
+the statutory prohibition against using such cash 
+collateral. 
+In re Wildcat Constr. Co., Inc., 57 B.R. at 986.° 
+5 while the Petitioner spills copious appellate ink in its Brief 
+espousing its assertion that the Respondent was somehow in viola- 
+tion throughout the Chapter 13 case of the proscriptive cash col- 
+lateral provisions of 11 U.S.C. §363(c)(2), Respondent observes 
+that the instant case is presented to this Court not upon any com- 
+plaint regarding such alleged unauthorized use of cash collateral, 
+but rather upon the finding by the bankruptcy court and the court 
+[footnote continued] 
+a 
+a 
+19 
+Nothing in the instant case prohibited Citizens at any 
+time during the entire eight-month history of the subject 
+Chapter 13 proceedings from seeking authority from the 
+bankruptcy court to setoff the Debtor’s bank account. 
+Although Citizens asserts that any filing of a request for 
+relief from the §362 stay would necessarily have alerted 
+the Debtor to Citizens’ intentions (and presumably would 
+have triggered a withdrawal of funds from the account by 
+the Debtor), Congress contemplated such a “banker’s 
+dilemma” when it enacted 11 U.S.C. §362(f) of the 
+Bankruptcy Code permitting the granting of ex parte 
+relief from the stay as required to prevent irreparable 
+damage to creditors such as Citizens. As observed by the 
+Court of Appeals for the Eleventh Circuit in Jn re Patter- 
+son, 967 F.2d 505 (11th Cir. 1992): 
+Creditors in this position have an alternative remedy 
+and need not freeze debtors’ accounts. The creditor 
+may file an ex parte motion pursuant to Sections 
+362(f) or 363(e) and accompany this motion with 
+the funds from the debtor’s account to be paid 
+into 
+the registry of the bankruptcy court. This 
+ps 
+strikes = proper balance between the 
+parties interests. 
+The creditor is protected fro 
+risk that funds will be insufficient or sag 
+satisfy a later-determined valid right of setoff. The 
+debtor is protected from the risk that a creditor will 
+unilaterally deny the debtor access 
+to funds in 
+of appeals that Citizens acted in violation of the fundamental 
+debtor protections afforded by 11 U.S.C. §362. In any event, 
+Respondent notes that the provisions of 11 U.S.C. §368(c)(2) are 
+manifestly inapplicable to a retired individual, such as the Respon- 
+dent, who is not “engaged in business.”” See 11 U.S.C. § 363(c)(1); 
+be Page lan. “fiery In re Rio, 55 B.R. 814, 817 (Bk. Ct. 
+-D. 
+Ala. 
+and 
+In re Wicks, 176 
+B.R. 
+DY seer 
+6 B.R. 695, 698-99 (Bk. Ct. 
+
+
+[PDF PAGE 15]
+20 
+which the creditor does not have a valid right of 
+setoff. 
+In re Patterson, 967 F.2d at 511. 
+Unfortunately, the only “‘banker’s dilemma” apparently 
+considered by Citizens herein was whether to expend 
+that effort necessary to avail itself of the very protection 
+inserted by Congress in the Bankruptcy Code to protect 
+creditors in the position in which Citizens found itself. 
+In the instant case, approval by this Court of the dilatory 
+handling by Citizens of its claim and setoff rights against 
+the Debtor would provide to all creditors with similar 
+claims and purported setoff rights a road map for the 
+disingenuous. If Citizens is to be permitted the right to 
+allow the Debtor to propose and obtain confirmation, 
+without objection from Citizens, of his Chapter 13 Plan 
+providing treatment for Citizens as an unsecured creditor, 
+and then blithely to ignore the confirmed Plan in favor of 
+its own draconian implementation of its long-waived 
+setoff rights, great violence will thereby be visited on the 
+careful framework of the adjustment of debtor-creditor 
+relationships 
+contemplated by Congress 
+in enacting 
+Chapter 13 of the Bankruptcy Code. 
+IV. 
+THE UNIQUE INTERESTS OF THE UNITED STATES AS 
+WELL AS THOSE OF STATE TAXING AUTHORITIES 
+DO NOT SUPPORT REVERSAL OF THE DECISION OF 
+THE FOURTH CIRCUIT COURT OF APPEALS. 
+In its amicus curiae brief supporting the Petitioner 
+herein, the United States notes its special interest in the 
+issue at bar by virtue of the frequent position of the Gov- 
+ernment as a creditor seeking to setoff tax refunds and 
+overpayments 
+due to debtors from the Government 
+ee 
+ee — 
+es 
+ee 
+ee 
+eee 
+ae 
+21 
+against other tax indebtedness owed by those debtors to 
+the Government. (Brief of United States, pp. 1-2). 
+Implicit in the Government’s expressed interest in 
+these proceedings is its legitimate concem that a ruling 
+favorable to the Debtor herein will necessarily thereafter 
+require the Government to engage in widespread litiga- 
+tion in an overwhelming number of bankruptcy proceed- 
+ings in order to secure for the Government the relief 
+from the automatic stay imposed by 11 U.S.C. §362 
+necessary to permit it routinely to setoff debtors’ tax 
+refunds and overpayments against their pre-existing tax 
+liabilities. 
+The short answer to the Government’ dilemma is that 
+it would be bound to seek prior relief from the automatic 
+stay just as are bank and other non-government creditors, 
+and courts have so held. United States v. Reynolds, 764 
+F.2d 1004, 1006-07 (4th Cir. 1985); United States v. 
+Norton, 717 F.2d 767, 773-74 (3rd Cir. 1983) (citing 
+United States 
+v. 
+Whiting Pools, 
+Inc., 462 U.S. 198 
+(1983)). Such an abbreviated response need not be the 
+final word with 
+regard to the Government’s unique 
+position. 
+In the District of Maryland, from which this case 
+originates, the bankruptcy court has taken express note 
+of the unique situation of the United States and the State 
+of Maryland by adoption of Local Rule 25 (“Internal 
+Revenue Service and Maryland Income Tax Refunds— 
+Automatic Stay”), That Rule, as set forth in its entirety 
+in the Appendix to this brief, establishes a thoughtful 
+mechanism 
+addressing the legitimate concerns of the 
+Government while not overburdening the bankruptcy 
+court with motions for relief from stay in a large number 
+of those cases filed in that court. The local rule makes 
+
+
+[PDF PAGE 16]
+22 
+special provision regarding tax refunds to permit the Gov- 
+ernment and the State of Maryland 
+ainst any refund or overpayment due 
+BP Pitesti 
+ies to the United States or the 
+State of Maryland, provided that a claim for such 
+taxes has been filed and neither disputed nor dis- 
+allowed in a federal or state court. 
+Rule 25(b)(1), Local Rules of the U.S. Bankruptcy Court 
+for the District of Maryland. 
+In this fashion, the bankruptcy court pays heed to the 
+proscriptive provisions of 11 U.S.C. § 362 while providing 
+a practical framework within which necessary setoffs can 
+be made without a plethora of unnecessary litigation. It 
+is respectfully submitted that any impact on the Govern- 
+ment or other state taxing authorities as may result from 
+an affirmance herein of the opinion of the Fourth Circuit 
+below can best be addressed through the adoption of a 
+local or general rule by the several bankruptcy courts or 
+this Court similar to that now effective in Maryland. 
+V. 
+THE DECISION OF THE FOURTH CIRCUIT COURT OF 
+APPEALS 
+BELOW THREATENS NO CONSTITUTION- 
+ALLY PROTECTED DUE PROCESS RIGHTS OF THE 
+PETITIONER OR SIMILARLY SITUATED CREDITORS. 
+In its brief, Citizens asserts that the ruling of the 
+Fourth Circuit below constitutes a complete usurpation 
+of secured creditors’ rights of setoff and, as such, is an 
+ituti 
+i 
+due process 
+unconstitutional taking of property without 
+of law in violation of the Fifth Amendment to the United 
+States Constitution. In fact, such a reading of the Fourth 
+Circuit’s opinion below is disingenuous, hyperbolic, and 
+incendiary. 
+23 
+Nothing in the Fourth Circuit’s opinion below suggests 
+that secured creditors’ rights of setoff are vitiated by 
+operation of 11 U.S.C, §362(a)(7); rather, the decision 
+of the Fourth Circuit properly notes that the right of 
+setoff is not without limits and conditions when exer- 
+cised in the context of a pending bankruptcy proceed- 
+ing. Specifically, the Fourth Circuit notes that by utiliz- 
+ing the simple expedient of 11 U.S.C. §362(f), Citizens 
+could have achieved complete protection of its right of 
+setoff, while ensuring that no violence was done to the 
+carefully constructed scheme of bankruptcy administra- 
+tion envisioned by the Bankruptcy Code. 
+In requiring that Citizens seek relief from the bank- 
+ruptcy court pursuant to the provisions of 11 U.S.C. 
+§362, the Fourth Circuit recognized that the exercise 
+of the right of setoff by Citizens was not at all unlike the 
+exercise by secured creditors of their rights to enforce 
+mortages and deeds of trusts and other security interests 
+in realty and personalty. In such circumstances, while 
+the Bankruptcy Code conditions the rights of those credi- 
+tors to enforce their security interests by first requiring 
+application to and order from the bankruptcy court per- 
+mitting the enforcement of their security interests, no 
+security interest itself is lost nor is any right to the 
+enforcement of that security interest. To the contrary, 
+the only limiting factor placed upon those secured credi- 
+tors 
+is the necessary intervention of the bankruptcy 
+court and the delay incident thereto. This is not an 
+impermissible or unwarranted burden on creditors. 
+In imposing special conditions and limitations on the 
+exercise of the rights of secured creditors as well as those 
+seeking to exercise rights of setoff, the drafters of the 
+Bankruptcy Code carefully balanced the competing inter- 
+ests of the vested property rights of those creditors 
+
+
+[PDF PAGE 17]
+relationships manifest throughout the Bankruptcy Code. 
+Courts across the country have acknowledged Congress’ 
+express purpose in adopting the statutory scheme in this 
+regard, as did the Fourth Circuit below. 
+CONCLUSION 
+The decision of the court of appeals should be 
+affirmed. 
+Respectfully submitted, 
+JouN R. Owen, JR. 
+(Counsel 
+of Record) 
+ROGER SCHLOSSBERG 
+BRIAN 
+R. SEEBER 
+GREGORY P. JOHNSON 
+MARK 
+E, WOLFE 
+Attorneys 
+for Respondent. 
+June 
+12, 1995 
+
+
+[PDF PAGE 18]
+la 
+APPENDIX 
+RELEVANT CONSTITUTIONAL AND 
+STATUTORY RULES AND PROVISIONS 
+UNITED STATES CONSTITUTION 
+AMENDMENT V 
+No person shall be held to answer for a capital, or 
+otherwise infamous crime, unless on a presentment or 
+indictment of a Grand Jury, except in cases arising in the 
+land or naval forces, or in the Militia, when in actual ser- 
+vice in time of War or public danger; nor shall any person 
+be subject for the same offense to be twice put in jeop- 
+ardy of life or limb; nor shall be compelled in any crim- 
+inal case to be a witness against himself, nor be deprived 
+of life, liberty, or property, without due process of law; 
+nor shall private property be taken for public use, with- 
+out just compensation. 
+11 U.S.C. §362 (1988) 
+§ 362. Automatic stay 
+(a) Except as provided in subsection (b) of this section, 
+a petition filed under section 301, 302, or 303 of this 
+title, or an application filed under section 5(a)(3) of the 
+Securities Investor Protection Act of 1970 (15 U.S.C. 
+78eee(a)(3)), operates as a stay, applicable to all entities, 
+of — 
+(1) the commencement or continuation, including 
+the issuance or employment of process, of a judicial, 
+administrative, or other action or proceeding against 
+the debtor that was or could have been commenced 
+before the commencement of the case under this title, 
+
+
+[PDF PAGE 19]
+2a 
+or to recover a claim against the debtor that arose 
+before the commencement of the case under this title; 
+(2) the enforcement, against the debtor or against 
+property of the estate, of a judgment obtained before 
+the commencement of the case under this title; 
+(3) any act to obtain possession of property of the 
+estate or of property from the estate or to exercise 
+control over property of the estate; 
+(4) any act to create, perfect, or enforce any lien 
+against property of the estate; 
+(5) any act to create, perfect, or enforce against 
+property of the debtor any lien to the extent that such 
+lien secures a claim that arose before the commence- 
+ment of the case under this title; 
+(6) any act to collect, assess, or recover a claim 
+against the debtor that arose before the commence- 
+ment of the case under this title; 
+(7) the setoff of any debt owing to the debtor that 
+arose before the commencement of the case under this 
+title against any claim against the debtor; and 
+(8) the commencement or continuation of a pro- 
+ceeding before the United States Tax Court concerning 
+the debtor. 
+** * 
+(f) Upon request of a party in interest, the court, with 
+or without a hearing, shall grant such relief from the stay 
+provided under subsection (a) of this section as is neces- 
+sary to prevent irreparable damage to Une interest of an 
+entity in property, if such interest will suffer such dam- 
+age before there is an opportunity for notice and a hear- 
+ing under subsection (d) or (e) of this section. 
+eee 
+ORS 
+a ee 
+3a 
+11 U.S.C. §363 (1988) 
+§363. Use, sale, or lease of property 
+(a) In this section, “‘cash collateral” means cash, nego- 
+tiable instruments, documents of title, securities, deposit 
+accounts, or other cash equivalents whenever acquired in 
+which the estate and an entity other than the estate have 
+an interest and includes the proceeds, products, offspring, 
+rents, or profits of property subject to a security interest 
+as provided in section 552(b) of this title, whether exist- 
+ing before or after the commencement of a case under 
+this title. 
+(b)(1) The trustee, after notice and a hearing, may 
+use, sell, or lease, other than in the ordinary course of 
+business, property of the estate. 
+(2) If notification is required under subsection (a) of 
+section 7A of the Clayton Act (15 U.S.C. 18a) in the case 
+of a transaction under this subsection, then — 
+(A) notwithstanding subsection (a) of such section, 
+such notification shall be given by the trustee; and 
+(B) notwithstanding subsection (b) of such section, 
+the required waiting period shall end on the tenth day 
+after the date of the receipt of such notification, unless 
+the court, after notice and hearing, orders otherwise. 
+(c)(1) If the business of the debtor is authorized to be 
+operated under section 721, 1108, 1304, 1203 or 1204 
+of this title and unless the court orders otherwise, the 
+trustee may enter into transactions, including the sale or 
+lease of property of the estate, in the ordinary course of 
+business, without notice or a hearing, and may use prop- 
+erty of the estate in the ordinary course of business 
+without notice or a hearing. 
+
+
+[PDF PAGE 20]
+4a 
+(2) The trustee may not use, sell, or lease cash collat- 
+eral under paragraph (1) of this subsection unless — 
+(A) each entity that has an interest in such cash col- 
+lateral consents; or 
+(B) the court, after notice and a hearing, authorizes 
+such use, sale, or lease in accordance with the provi- 
+sions of this section. 
+(3) Any hearing under paragraph (2)(B) of this subsec- 
+tion may be a preliminary hearing or may be consolidated 
+with a hearing under subsection (e) of this section, but 
+shall be scheduled in accordance with the needs of the 
+debtor. If the hearing under paragraph (2)(B) of this sub- 
+section is a preliminary hearing, the court may authorize 
+such use, sale, or lease only if there is a reasonable likeli- 
+hood that the trustee will prevail at the final hearing 
+under subsection (e) of this section. The court shall act 
+promptly on any request for authorization under para- 
+graph (2)(B) of this subsection. 
+(4) Except as provided in paragraph (2) of this subsec- 
+tion, the trustee 
+shall segregate and account for any 
+cash collateral in the trustee’s possession, custody, or 
+control. 
+11 U.S.C. §506 (1988) 
+§ 506. Determination of secured status. 
+(a) An allowed claim of a creditor secured by a lien 
+on property in which the estate has an interest, or that 
+is subject to setoff under section 553 of this title, is a 
+secured claim to the extent of the value of such credi- 
+tor’s interest in the estate’s interest in such property, or 
+to the extent of the amount subject to setoff, as the 
+5a 
+case may be, and is an unsecured claim to the extent that 
+the value of such creditor’s interest or the amount so sub- 
+ject to setoff is less than the amount of such allowed 
+claim. 
+Such value shall be determined in light of the 
+purpose of the valuation and of the proposed disposition 
+or use of such property, and in conjunction with any 
+hearing on such disposition or use or on a plan affecting 
+such creditor’s interest. 
+11 U.S.C. §541 (1988) 
+§541. Property of the estate 
+(a) The commencement of a case under section 301, 
+302, or 303 of this title creates an estate. Such estate is 
+comprised of all the following property, wherever located 
+and by whomever held: 
+( 1) Except as provided in subsections (b) and (c)(2) 
+of this section, all legal or equitable interests of the 
+debtor in property as of the commencement of the 
+case. 
+11 U.S.C. §542 (1988) 
+§542. Turnover of property to the estate 
+(b) Exc’ >t as provided in subsection (c) or (d) of this 
+section, an entity that owes a debt that is property of the 
+estate and that is matured, payable on demand, or pay- 
+able on order, shall pay such debt to, or on the order of, 
+the trustee, except to the extent that such debt may be 
+offset under section 553 of this title against a claim 
+against the debtor. 
+
+
+[PDF PAGE 21]
+6a 
+11 U.S.C. §1304 (1988) 
+§ 1304. Debtor engaged in business 
+(a) A debtor that is self-employed and incurs trade 
+credit in the production of income from such employ- 
+ment is engaged in business. 
+(b) Unless the court orders otherwise, a debtor engaged 
+in business may operate the business of the debtor and, 
+subject to any limitations on a trustee under sections 
+363(c) and 364 of this title and to such limitations or 
+conditions as the court prescribes, shall have, exclusive of 
+the trustee, the rights and powers of the trustee under 
+such sections. 
+(c) A debtor engaged in business shall perform the dut- 
+ies of the trustee specified in section 704(8) of this title. 
+11 U.S.C. §1322 (1988) 
+§ 1322. Contents of plan 
+(b) Subject to subsections (a) and (c) of this section, 
+the plan may — 
+(2) modify the rights of holders of secured claims, 
+other than a claim secured only by a security interest in 
+real property that is the debtor’s principal residence, or 
+of holders of unsecured claims, or leave unaffected the 
+rights of holders of any class of claims; 
+11 U.S.C. §1327 (1988) 
+§ 1327. Effect of confirmation 
+(a) The provisions of a confirmed plan bind the debtor 
+and each creditor, whether or not the claim of such credi- 
+7a 
+tor is provided for by the plan, and whether or not such 
+creditor has objected to, has accepted, or has rejected the 
+plan. 
+(b) Except as otherwise provided in the plan or the 
+order confirming the plan, the confirmation of a plan 
+vests all of the property of the estate in the debtor. 
+(c) Except as otherwise provided in the plan or in the 
+order confirming the plan, the property vesting in the 
+debtor under subsection (b) of this section is free and 
+clear of any claim or interest of any creditor provided for 
+by the plan. 
+LOCAL RULES OF THE 
+UNITED STATES BANKRUPTCY COURT 
+FOR THE DISTRICT OF MARYLAND 
+Rule 25. Internal Revenue Service And Maryland 
+Income Tax Refunds — Automatic Stay 
+(a) Refunds. The Internal Revenue Service and the 
+Maryland Comptroller of the Treasury, Income Tax 
+Division, are authorized to make income tax refunds, 
+in the ordinary course of business, directly to debtors 
+in Chapter 7, 12, and 13 cases; provided, however, that 
+in Chapter 7 cases no refund will be made to debtors 
+within sixty (60) days after a petition is filed. 
+There- 
+after, unless otherwise directed by the trustee or the 
+Court, a refund may be made directly to the debtor. 
+(b) Offset; Assessment; Automatic Stay. 
+(1) The Internal Revenue Service and the Maryland 
+Comptroller of the Treasury, Income Tax Division, are 
+authorized to offset against any refund or overpayment 
+due a debtor any taxes due the United States or the 
+State of Maryland, provided that a claim for such taxes 
+
+
+[PDF PAGE 22]
+8a 
+has been filed and neither disputed nor disallowed in a 
+federal or state court. 
+(2) The Internal Revenue Service and the Maryland 
+Comptroller of the Treasury, Income Tax Division, are 
+authorized to assess any tax liability that may be satis- 
+fied by offsetting an overpayment when such liability 
+has not previously been assessed. Notice of such assess- 
+ment and offset shall be given to the debtor prior to or 
+substantially 
+concurrently 
+with such assessment 
+and 
+offset. 
+(3) The Internal Revenue Service and the Maryland 
+Comptroller of the Treasury, Income Tax Division, are 
+authorized to assess, but take no other steps toward 
+collection. of, tax liabilities shown on voluntarily filed 
+returns and other agreed-to tax liabilities unless other- 
+wise authorized by this Rule, or by order of court. The 
+exception to automatic stay in 11 U.S.C. §362(b)(9) 
+shall be deemed automatically modified in accordance 
+with the provision of this Rule. 
+(c) Notice to Trustee and Court. 
+The debtor shall, 
+within five (5) days of receipt of a tax refund or notice 
+of tax assessment or deficiency, file with the Court and 
+send to the trustee a copy of the refund check (in Chap- 
+ter 7 cases) and transmittal letter, the tax assessment or 
+deficiency notice, and other documents evidencing same. 

@@ -1,0 +1,2659 @@
+
+[PDF PAGE 1]
+— 
+IDF ETT 
+be 
+J 
+Es 
+* Supreme Court, US 
+9 
+hh. 
+RFILED 
+|
+N 
+An 
+I. 
+may 11 1995 
+Free 
+ik 
+| 
+No. 94-1340 
+* Ro CLERK 
+t 
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+OCTOBER TERM, 1994 
+CITIZENS BANK OF MARYLAND, 
+Petitioner, 
+*. 
+DAVID STRUMPF, 
+Respondent. 
+ON WRIT OF CERTIORARI TO 
+THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+BRIEF FOR THE PETITIONER 
+JAMES R. EYLER 
+(Counsel of Record) 
+Of Counsel: 
+JEFFERSON V. WRIGHT 
+DANIEL L. RHOADS 
+IRVING E. WALKER 
+CITIZENS BANK OF 
+E. HUTCHINSON ROBBINS, JR. 
+MARYLAND 
+14401 Sweitzer Lane 
+Laurel, Maryland 20707 
+(301) 206-6023 
+MILES & STOCKBRIDGE, P. C. 
+10 Light Street 
+Baltimore, Maryland 21202 
+(410) 727-6464 
+Counsel for Petitioner. 
+Washington,D.C. 
+«© THIEL PRESS 
+«© (202) 328-3286 
+
+
+[PDF PAGE 2]
+li 
+QUESTION PRESENTED 
+Whether a bank creditor may refuse a bankrupt depos- 
+itor’s request to withdraw funds pending determination 
+by the bankruptcy court of the bank’s setoff right, 
+without violating the bankruptcy stay under 11 U.S. 
+C. 
+§ 362(a). 
+
+
+[PDF PAGE 3]
+(ii 
+TABLE OF CONTENTS 
+Page 
+QUESTION PRESENTED. ... i 
+.ꝑ 
+i 
+TABLE OF AUE. 
+v 
+OPINIONS BELOW... 
+wc ccc ccccctenecces 
+ses eeeees 1 
+Jun nern.... 2 
+STATUTORY PROVISIONS IN VOL 
+PHH b 2 
+STATEMENT OF THE C8888 3 
+SUMMARY OF THE ARGUME Nr. 8 
+A 
+ör᷑r᷑rrr . 11 
+I. The Bankruptcy Code Expressly Recognizes And 
+Preserves A Creditor’s Setoff Right Against A 
+Dr 
+„„ „%% 
+seep nese eeeaee ee 11 
+A. Citizens Had a Contractual and Common Law 
+Right to Set Off the Debtor’s Bank Deposit 
+Against His Obligation to the Bank Prior to 
+the Commencement of the Bankruptcy Case........ 11 
+B. Citizens Setoff Right is Recognized and Pre- 
+served by the Bankruptcy CodſglGde. 15 
+1. Section 553(a) Expressly Provides that a 
+Creditor’s Right to Offset a Mutual Debt 
+is Not Affected by the Bankruptcy Code, 
+Except as Otherwise Provided in Sections 
+LL 15 
+2. The Only Bankruptcy Code Provisions Qual- 
+ifying a Creditor’s Exercise of Its Setoff 
+Right — § §362 and 363 — Do Not Elim- 
+inate the Right of Setoff.............55+45- 18 
+3. A Bank’s Right to Refuse to Turn Over to 
+a Debtor Funds on Deposit and Subject to 
+Setoff is Expressly Recognized by Section 
+5G 
+„„ „%% rr 
+22 
+III. 
+IV. 
+(ttt) 
+C. The Interplay of the Five Relevant Bankruptcy 
+Page 
+Code Sections — § § 362, 363, 506, 542 and 
+553 — Gives Rise to a Purposeful Statutory 
+Equilibrium Between the Competing Rights 
+of the Debtor and the Bank Creditor to Funds 
+r ̃
+ũ 55 
+eee 
+The Imposition Of An Administrative Hold Does 
+Not Violate The Automatic Stag 
+A. An Administrative Hold is Not a Setoff and 
+Does Not Violate Section $62(a)(7) ............. 
+B. An Administrative Hold is Not an Act to Exer- 
+cise Control Over Property of the Estate 
+The Fourth Circuit's Analysis In Strumpf Is Incom- 
+r 
+ũ inn 
+A. Failure to Address All the Relevant Code 
+tec 
+eee 
+B. Failure to Recognize the Debtor-Creditor 
+Nature of Citizens’ Account Relationship 
+, 
+G06 c0ccecceccccccecce 
+C. Erroneous Conclusion that Section 362(a) 
+Was Intended by Congress to Defeat the 
+, 
+5555 
+D. Incorrectly Equates an Administrative Hold 
+r ̃
+ ˙ vi 
+E. Misplaced Reliance Upon Reynolds, Norton, 
+, ͤ
+ ES Ä 
+F. The Fourth Circuit's Interpretation of the 
+Bankruptcy Code Raises a Serious Consti- 
+tutional Issue Which Should Be Avoided .......... 
+Allowing A Bank Creditor To Impose An Admin- 
+istrative Hold Pending Determination By The 
+Bankruptcy Court Of The Bank's Setoff Right 
+Is Consistent With The Policy Goals Of The 
+jj 
+Eee eRe Pere / 
+A. Under Strumpf, the Extraordinary Measure 
+of Ex Parte Relief Will Become Routine 
+
+
+[PDF PAGE 4]
+(iv) 
+B. Strumpf May be Read as Requiring All Cred- 
+Page 
+itors to Turn Over Property Subject to a 
+Setoff Right Upon Demand. .......-- 
+sees ee ees 44 
+CONCLUSION .. 0... cee cece ee ee ee 
+„ 48 
+APPENDIX: 
+— 
+11 U.S.C. 8362 (1988). 2... 
+ee ee eee eee A-l 
+— 
+11 U.S.C. 5363 (1988)... 
+6. ee 
+ee eee eee A4 
+— 
+11 U.S.C, §506 (19866 
+))))))j)) 
+. A-6 
+— 
+11 U.S.C. §542 (19866)) eee 
+eee A-7 
+A-8 
+11 U.S.C. §553 (1988) 
+(v) 
+TABLE OF AUTHORITIES 
+— 
+Cases: 
+Armstrong v. United States, 364 U.S. 40 (1960) 40 
+Baker v. Nat'l City Bank of Cleveland, 511 F.2d 
+,, 
+0 cc coceecees 27 
+Baltimore Ins. Co. v. M’Fadon, 4 H. & J. 31 (Md. 
+rene 
+ORC eee eee eee eee 12 
+Bank of Marin v. England, 385 U.S. 99 (1966) 14. 30 
+Barnhill v. Johnson, 503 U.S. 393 (1992)))) : 
+14, 30 
+Barrier v. Marine Midland Trust Co., 263 Md. 596, 
+Z 
+TES 
+Cobb eed eWesobecccceccccecs 40 
+Butner v. United States, 440 U.S. 48 (1979). ............. 11 
+Caminetti v. United States, 242 U.S. 470 (1917) 15 
+Citizens Bank of Maryland v. Strumpf, 138 B. 
+R. 792 
+(D. Md. 1992), rev'd, 37 F.3d 155 (4th Cir. 1994)......... 6 
+Citizens Bank of Maryland v. Strumpf, 37 F.3d 155 
+PEs 
+Cons dboveoeedescedebedeveees passim 
+Clark v. Uebersee Finanz Korporation, A. G., 332 US. 
+i 
+, 15, 35 
+Connecticut Vat / Bank v. Germain, 503 U.S. 249 
+Fee enn 15 
+Consumer Product Safety Commission v. 
+GTE Sylvania, 
+e 
+4 
+6 bocce. 15 
+Cumberland Glass Mfg. Co. v. DeWitt, 237 U.S. 447 
+/ ͤ
+T— ͤ
+ ÄÄ 
+eer en be eececececces 18 
+District Agency Co. v. Suburban Delivery Serv., Inc., 
+224 Md. 364, 167 A.2d 874 (19617 12 
+Edward J. DeBartolo Corp. v. Florida Gulf Coast Bldg. 
+& Constr. Trades Council, 485 U.S. 568 (1988).......... 39 
+Ghingher v. Fanseen, 166 Md. 519, 172 A. 75 (19344). 12 
+Gordon, Feinblatt, Rothman, Hoffberger & Hollander 
+v. Gerhold, 90 Md. App. 360, 608 A.2d 1194 
+DP Midchh ehh C6064 ComeSeewoorseroceescceces 13 
+Hayden v. Citizens Nat I Bank of Baltimore, 120 Md. 
+„ is 
+socacedseceeté beseececescess 12 
+
+
+[PDF PAGE 5]
+(vt) 
+Cases, continued: 
+Page 
+orton Dairy, Inc. v. United States, 986 F.2d 286 
+(sch Cir. 1998)... 
+2... cee cece ee rere eee nee enees 28 
+In re Air Atlanta, Inc., 74 B.R. 426 (Bankr. N.D. Ga.), 
+aff'd, 81 B.R. 724 (N. 
+D. Ga. 1987)! ũ77jö);ʒ)ʒ 
+eee eee $1 
+In re Applied Logic Corp., 576 F.2d 952 (2d Cir. 1978) 41 
+In re Archer, 34 B. 
+R. 28 (Bankr. N.D. Tex. 1983) . 46 
+In re Bass Mechanical Contractors, Inc., 84 B.R. 1009 
+(Bankr. W. 
+D. Ark. 1988)... 
+2. ) 36 
+In re Carpenter, 14 B. 
+R. 405 (Bankr. M. 
+D. Tenn. 
+1 %//ꝰqõ ni 
+„6 23, 28 
+In re Cascade Roads, Inc., 34 F.3d 756 (9th Cir. 
+BODE) r—iinuuinuuuM 
+46 38 
+In re Cummins Constr. Corp., 72 F. Supp. 409 (D. Md.), 
+aff'd, 164 F.2d 983 (4th Cir. 1947), cert. denied, 
+r 
+Gk vo is ... 12 
+In re Davis, 889 F.2d 658 (5th Cir. 1989), cert. denied, 
+> 
+D 
+ol ccdececestadstieadsse. 
+In re De Laurentiis Entertainment Group, Inc., 963 F.2d 
+1269 (9th Cir.), cert. denied. 
+U.S. ——, 113 
+8. Ct. 330 (199227 ·ů·· „ 17 
+In re Edgins, 36 B. R. 480 (Bankr. 9th Cir. 1984))) passim 
+In re Gazelle, Inc., 17 B.R. 617 (Bankr. W.D. Wisc. 
+* 
+ien) 
+In re Homan, 116 B. 
+R. 595 (Bankr. S. 
+D. Ohio 19900) 42 
+In re Hooper, 152 B. R. 309 (Bankr. D. Colo. 199 )))) 21 
+In re Johnson, 136 B. 
+R. 306 (Bankr. M.D. Ga. e 21 
+In re Learn, 95 B. 
+R. 495 (Bankr. N. 
+D. Ohio 1989 )))Pk3i;. 36 
+In re Lough, 163 B. 
+R. 586 (Bankr. D. Idaho 1994) 31 
+In re Mealey, 16 B. 
+R. 800 (Bankr. E. 
+D. Pa. 1982) 38 
+In re Moreira, 173 B. 
+R. 965 (Bankr. D. Mass. 1994) 28, 43 
+In re Owens Peterson, 39 B. 
+R. 186 (Bankr. N. 
+D. Ga. 
+i) 
+) „„ 20 
+(vit) 
+Cases, continued: 
+Page 
+In re Patterson, 967 F.2d 505 (11th Cir. 1992))) 43 
+In re Penn Central Transportation, 453 F.2d 520 (3rd 
+Cir. 1971), cert. denied, 408 U.S. 923 (197) 36 
+In re Powers, 28 B. 
+R. 86 (Bankr. E. D. Pa. 1983) 38 
+In re Santoro Excavating, Inc., 32 B. 
+R. 947 (Bankr. 
+/ 
+bbb 
+„„ 19 
+In re Saugus Gen. Hosp., Inc., 698 F. 2d 42 (1st Cir. 
+f 
+dele oe 
+ee 
+³ꝛ1ͤ ¹G. 
+³¹ 1. 
+2 28 
+In re Whitman, 38 B. 
+R. 395 (Bankr. D. N. D. 1984) 22 
+In re Wicks, 176 B. 
+R. 695 (Bankr. E. D. N. V. 1993) 30 
+In re Wildcat Constr. Co., Inc., 57 B. 
+R. 981 (Bankr. D. 
+WP DU 
+bs UE oui 
+dudes Cubes W- 
+45 
+In re Williams, 61 B. 
+R. 567 (Bankr. N. 
+D. Tex. 1986) 20, 46 
+Keller v. Fredericktown Sav. Inst., 193 Md. 292, 66 
+, ̃
+ ÜÄrL . 13, 30 
+Kelly v. Robinson, 479 U.S. 36 (19860 )) 15 
+Kenney's Franchise Corp. v. Central Fidelity Bank, 
+N.A., 22 B. 
+R. 747 (W. 
+D. Va. 1982ꝶ·r 
+20 
+Louisville Joint Stock Land Bank v. Radford, 295 
+ESE 
+eS 
+ee 40 
+McKenzie v. Irving Trust Co., 323 U.S. 365 (1945) ......... 12 
+Mercantile — Safe Deposit and Trust Co. v. Delp and 
+Chapel Concrete Constr. Co., 44 Md. App. 34, 
+e q . 12. 14 
+New York County Nat'l Bank v. Massey, 192 U.S. 
+ES Ee 
+a 
+13 
+Pennsylvania Public Welfare Dept. v. Davenport, 495 
+r 
+¢ekdce eee ͤ
+ ͤ 
+63 64 15 
+Pittsburgh Nat'l Bank v. United States, 657 F.2d 36 
+EE 
+38 
+Prudential Ins. Co. of America v. Nelson, 101 F.2d 
+441 (6th Cir.), cert. denied, 308 U.S. 583 
+e 16 
+
+
+[PDF PAGE 6]
+(viii) 
+Cases, continued: 
+_Page 
+Records v. McKim, 115 Md. 299, 80 A. 968 (1911)......... 12 
+Small Business Admin. v. Rinehart, 887 F.2d 165 (8th 
+Cir. 1980cùhꝓ̊
+õͥ
+· 
+qꝛ2n:ũ k 
+„„6„ 36, 37 
+Stann v. Mid American Credit Union, 39 B. 
+R. 246 
+(D. Kan. 198.4): 36 
+Studley v. Boylston Nat'l Bank, 229 U.S. 523 (1918)...... 8,11 
+Taylor v. Equitable Trust Co., 269 Md. 149, 304 A.2d 
+|), | h 
+„6 13 
+Tyrrell v. Tyrrell, 54 Md. 167 (1880))))0))P: 
+ee eee ee 12 
+United States v. Central Bank of Denver, 843 F. 2d 
+1300 (10th Cir. 198 28 
+United States v. Nordic Village, Inc., 503 U.S. 30 
+GZ 
+„ „ ce cect esecevesceseceess 34 
+United States v. Norton, 717 F.2d 767 (3rd Cir. 
+DUE oc ec ce esse knc et beceenecerecsevons 36, 37, 38 
+United States v. Reynolds, 764 F. 2d 1004 (4th Cir. 
+...e 
+ee eee eee eee 
+e 
+e 
+e eee 
+e eee eee passim 
+United States v. Ron Pair Enterprises, Inc., 489 U.S. 
+..... ccccsesecsecccccccccccoss 15 
+United States v. Security Indus. Bank, 459 U.S. 70 
+„„ 
+e 
+e 
+e 
+e 
+e e 
+„ „„ „„ „„ 40, 41 
+Weinberger v. Hynson, Westcott and Dunning, Inc., 
+412 U.S. 609 (197ʒ 
+weer ec ccc rrr recs eereees 34 
+Wright v. Union Central Life Ins. Co., 311 U.S. 273 
+GGG 
+„„ „4 
+„ „ 
+„4 
+4 
+„ „„ „„ 
+„„ „„ „„ 
+„ „„ „„ „66 40 
+Constitutional Provisions: 
+U.S. Comet. mend. 
+ꝶ 
+H ü 
+. .Q 2,39 
+Statutes: 
+11 U.S.C. §101 (1986ÿũ·.]U 
+nr. n 2 
+11 U.S.C. §362 (1988ù) ·7. „6 passim 
+11 U.S.C.A. 8362 (1993 & Supp. 199); 
+„:! 35 
+(ix) 
+Statutes, continued: 
+Page 
+Sr 
+IIE, owe co niecécccccoccccccoeces passim 
+IJ passim 
+Es 
+Bins bon awk wee 
+e bee od bob eces 30 
+r 
+¶ 
+ee passim 
+ZZ passim 
+ne 18 
+J 
+ncn cc occcdcccecccccccccece 20 
+e 
+os ve wecceocccdcdcceccetiocer 18 
+e 
+2 
+Uniform Commercial Code 89.306 (2) (1976)) 46 
+Miscellaneous: 
+Paul G. Groschadl, Freezing the Debtor Bank 
+Account: A Violation of the Automatic Stay?, 
+57 Am. Bankr. LJ. 75 (1968s 0):)P DĩU cee 
+wc nee 45 
+Carmelita J. Hammon, Setoff in Bankruptcy: Is the 
+Creditor Preferred or Secured?, 50 U. Colo. L. 
+ee 
+ee coco ccceccee 16 
+William H. Loyd, The Development of Setoff, 64 
+e 
+12 
+James W. Moore & Lawrence P. King, Collier on 
+Bankruptcy (15th ed. 1994) passim 
+National Bankruptcy Conference’s Code Review 
+Project, Reforming the Bankruptcy Code 
+%% 
+⁵ ¼ 
+² 
+————ͤ 
+A969 ꝙ Tb 
+28, 29 
+Russell J. Passamano, Setoff in Bankruptcy: An 
+Overview of the Mechanics, 105 Banking L. . 
+Chee 
+ees te cee . 
+23 
+Benjamin Weintraub & Alan N. Resnick, Freezing 
+the Debtor's Account: A Banker's Dilemma 
+Under the Bankruptcy Code, 100 Banking 
+e ͤ
+é 
+2 
+5 
+23, 25, 32, 46 
+
+
+[PDF PAGE 7]
+(x) 
+Miscellaneous, continued: 
+Page 
+H.R. Rep. No. 95-595, 95th Cong., Ist Sess. (1977), 
+reprinted in, 1978 U.S.C.C.A.N.5787........ 16, 17, 18, 34 
+S. Rep. No. 95-989, 95th Cong., 2nd Sess. (1978), 
+reprinted in, 1978 U.S. 
+C. C. A N. 5787... ZZ. 
+No. 94-1340 
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+OCTOBER TERM, 1994 
+CITIZENS BANK OF MARYLAND, 
+Petitioner, 
+DAVID STRUMPF, 
+Respondent. 
+ON WRIT OF CERTIORARI TO 
+THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+BRIEF FOR THE PETITIONER 
+OPINIONS BELOW 
+The opinion of the United States Court of Appeals for 
+the Fourth Circuit is reported at 37 F.3d 155 (4th Cir. 
+1994). (J.A. 39a). The opinion of the United States 
+District Court for the District of Maryland is reported at 
+138 B.R. 792 (D. Md. 1992). (J A. 3 1a). The ruling of 
+the United States Bankruptcy Court for the District of 
+Maryland is not reported. (J.A. 27a, 29a). 
+1 
+
+
+[PDF PAGE 8]
+2 
+JURISDICTION 
+The United States Court of Appeals for the Fourth 
+Circuit entered its judgment on October 13, 1994. The 
+court of appeals entered an order denying Citizens Bank 
+of Maryland’s motion for rehearing, or in the alternative, 
+suggestion of rehearing in banc on November 8, 1994. 
+Citizens Bank of Maryland’s petition for a writ of cer- 
+tiorari was filed in this Court on February 6, 1995, and 
+was granted on March 27, 1995. This Court has jurisdic- 
+tion under 28 U.S.C. §1254(1). 
+STATUTORY PROVISIONS INVOLVED 
+This case involves consideration of five sections of the 
+United States Bankruptcy Code, 11 U.S.C. §§101, et 
+seq. (1988).! 
+They are 11 U.S.C. § § 362, 363, 506(a), 
+542(b) and 553. The pertinent text of each of these 
+sections is set forth in the Appendix found at the end of 
+this Brief. Because this case was commenced prior to the 
+Bankruptcy Reform Act of 1994, enacted on October 
+22, 1994, the provisions of the Code referred to in this 
+Brief are those in effect prior to the 1994 amendments. 
+None of these provisions, however, has been amended 
+by the Bankruptcy Reform Act of 1994 in a manner 
+material to the outcome of this case. 
+This case also raises a question under the Fifth Amend- 
+ment to the United States Constitution, which provides: 
+“No person shall be held to answer for a capital, or 
+otherwise infamous crime, unless on a presentment or 
+indictment of a Grand Jury, except in cases arising in 
+the land or naval forces, or in the Militia, when in actual 
+service in time of War or public danger; nor shall any 
+Ine United States Bankruptcy Code is hereinafter some- 
+times referred to as the “Bankruptcy Code” or the “Code.” 
+3 
+person be subject for the same offence to be twice put 
+in jeopardy of life or limb; nor shall be compelled in any 
+criminal case to be a witness against himself, nor be 
+deprived of life, liberty, or property, without due process 
+of law; nor shall private property be taken for public 
+use, without just compensation.“ U.S. Const. amend. V. 
+STATEMENT OF THE CASE 
+On November 28, 1989, the Petitioner, Citizens Bank 
+of Maryland (“Citizens”),” loaned the Respondent, David 
+Strumpf (“Strumpf” or the Debtor“), $5,068.75. The 
+loan was evidenced by an unsecured consumer loan note 
+(“the Note”), (R. 1) (the Note), in which Strumpf 
+agreed to repay the loan (including interest) in twenty- 
+four monthly installments. The Note provided for the 
+immediate 
+acceleration 
+of the 
+amount 
+due 
+upon 
+default, the payment of attorney’s fees, and expressly 
+granted Citizens the right of setoff upon default. Id. 
+On January 25, 1991, Strumpf filed a petition for 
+relief under Chapter 13 of the Bankruptcy Code in the 
+United States Bankruptcy Court 
+for the District of 
+Maryland. (J.A. 3a); (R. 1) (Chapter 13 plan, statement, 
+2 Pursuant to Supreme Court Rule 29.1, Citizens discloses 
+that Citizens Bank of Maryland is a wholly owned subsidiary of 
+Citizens Bancorp, a bank holding company chartered under the 
+laws of the state of Maryland, the stock of which is publicly 
+traded. 
+Citizens Bank of Maryland has no subsidiaries, other than 
+wholly owned subsidiaries. 
+3 As the pages of the certified record are not consecutively 
+paginated, citations to the record are to the docket entry in the 
+record, followed by a parenthetical describing the specific docu- 
+ment within the docket entry to which citation is made. 
+For 
+example, in this citation, the Note may be found at docket entry 
+number 1 (which is the entire bankruptcy court record as submit- 
+ted to the district court) of the certified record. 
+
+
+[PDF PAGE 9]
+4 
+and statement of affairs with voluntary petition). At the 
+time of the filing of his bankruptcy petition, Strumpf 
+had a checking account with Citizens containing a balance 
+of $11,279.86, and the Note was in default. (J.A. 18a- 
+19a). 
+On or about February 26, 1991, the bankruptcy court 
+issued to Strumpf’s creditors a copy of an Order for 
+Meeting of Creditors, Combined with Notice Thereof 
+and of Automatic Stays, informing them of Strumpf's 
+bankruptcy filing and other important dates for the case. 
+Included among these dates was June 13, 1991, the date 
+by which creditors had to file a proof of claim in order 
+to have a claim allowed and to share in distributions from 
+the estate. (J.A. 5a). In accordance with that order, 
+Citizens timely filed its proof of claim on June 13, 1991, 
+asserting a secured claim in the amount of $2,555.50. On 
+April 8, 1991, the bankruptcy court entered an order 
+confirming Strumpf’s Chapter 13 plan. (J.A. 10a). The 
+plan made no mention of Citizens or its particular claim. 
+On October 7, 1991, Citizens filed in the bankruptcy 
+court a Motion for Relief from Automatic Stay and for 
+Setoff, asking the bankruptcy court for permission to 
+exercise its right to set off Strumpf’s debt to Citizens 
+under the Note against funds held on deposit in Strumpf’s 
+checking account at Citizens. (J.A. 15a). As stated in 
+Citizens’ motion, the amount then due on the Note, 
+including attorney’s fees, was $3,259.68. Contemporane- 
+ously with the filing of the motion, Citizens placed an 
+administrative “hold’’ on $3,500.00 in Strumpf's check- 
+ing account, the balance of which was then $7,206.59. 
+(J.A. 26a). The administrative hold allowed Strumpf to 
+withdraw from his account all but $3,500.00, thus pre- 
+venting Strumpf from withdrawing funds to which Citi- 
+zens claimed a setoff right. 
+5 
+On October 9, 1991, Strumpf filed a motion to hold 
+Citizens in contempt, claiming that the administrative 
+hold on his bank account violated the automatic stay of 
+11 U.S.C. §362(a). J. A. 23a). The Debtor also filed on 
+October 31, 1991, a second motion against Citizens, 
+requesting that Citizens be ordered to release the adminis- 
+trative hold and turn over all funds in the account to 
+Strumpf. (R. 1) (Strumpf's motion seeking release of 
+administrative hold and turnover of funds). On November 
+4, 1991, the bankruptcy court 
+(the Honorable 
+Paul 
+Mannes, Chief Judge, presiding), held a hearing on Citi- 
+zens’ motion 
+for relief from automatic stay and for 
+setoff, at the conclusion of which the court requested 
+Strumpf's counsel to submit a legal memorandum and 
+reserved ruling on the merits. (R. 1) (transcript of Nov. 4, 
+1991 hearing). On November 13, 1991, Judge Mannes 
+held a hearing on Strumpf’s motion to hold Citizens in 
+contempt, and granted the motion, holding Citizens in 
+contempt for violating the automatic stay and awarding 
+Strumpf attorney’s fees of $500.00, punitive damages of 
+$375.00, and nominal damages of $25.00. (J.A. 27a). 
+In reaching this result, the court clearly felt bound by 
+the decision of the Fourth Circuit in United States v. 
+Reynolds,* stating that under Reynolds, I have to find 
+that Citizens Bank violated the stay of 11 U.S.C. §362(a) 
+(7) through the administrative freeze process used here.“ 
+(R. 1) (transcript of Nov. 13, 1991 hearing). Judge 
+Mannes indicated that his own view of the correct result 
+may have been different: Were the decision on my part 
+one written on a clean slate, I might look at the case 
+somewhat differently.“ Id. 
+1764 F.2d 1001 (4th Cir. 1985). See infra at 36-38 for a dis- 
+cussion of the Reynolds case. 
+
+
+[PDF PAGE 10]
+6 
+On December 2, 1991, the bankruptcy court granted 
+Citizens’ motion for relief from the automatic stay, auth- 
+orizing Citizens to exercise its right of setoff against the 
+funds in Strumpf’s account. (J. 
+A. 29a). By that time, 
+however, 
+Citizens 
+was 
+unable 
+to effectuate 
+a setoff 
+because Strumpf had withdrawn all of the funds from 
+his account after Citizens lifted the administrative hold 
+as required by the bankruptcy court’s earlier contempt 
+order. 
+Citizens appealed the bankruptcy court’s decision on 
+Strumpf’s contempt motion to the United States District 
+Court for the District of Maryland (the Honorable John 
+R. Hargrove, presiding). (R. 1) (notice of appeal). Strumpf 
+did not appeal from the bankruptcy court’s order grant- 
+ing Citizens relief from the automatic stay. The district 
+court reversed the decision of the bankruptcy court, 
+summing up the proceedings below: 
+The ironic result for Citizens Bank was that it was 
+held in contempt, was later granted its Motion for 
+Relief From Automatic Stay and for Setoff, but 
+could not exercise its right to setoff because (as 
+predicted by Citizens Bank) Strumpf had removed 
+the money from the checking account. This series 
+of events rendered the Bankruptcy Court’s ultimate 
+granting of Citizens Bank’s Motion meaningless. 
+(J. 
+A. 3la, 37a); Citizens Bank of Maryland v. Strumpf, 
+138 B. 
+R. 792, 794 (D. Md. 1992), rev’d, 37 F.3d 155 
+(4th Cir. 1994). The district court held that the place- 
+ment of an administrative hold on funds in an account 
+pending the bankruptcy court’s ruling on a motion for 
+relief from stay did not equate to a setoff and did not 
+violate the automatic stay. Jd. As stated by the district 
+court, “permitting the bank to freeze the funds until 
+such time as the Court rules on the Bank’s Motion for 
+7 
+Relief from Automatic Stay and for Setoff is the only 
+sensible procedural approach under these circumstances.“ 
+Id. 
+Strumpf appealed the district court’s judgment to the 
+United States Court of Appeals for the Fourth Circuit, 
+which reversed the district court’s ruling and remanded 
+the case for reinstatement of the bankruptcy court’s 
+order. (J.A. 39a); Citizens Bank of Maryland v. Strumpf, 
+37 F.3d 155, 159 (4th Cir. 1994). The opinion of the 
+Fourth Circuit followed the earlier decision of a panel 
+of the same court in United States v. Reynolds, 764 F.2d 
+1004 (4th Cir. 1985), a case involving a “freeze” of a 
+tax refund by the Internal Revenue Service, and con- 
+cluded that the administrative hold was “tantamount” 
+to a setoff and violated 11 U.S.C. §362(a)(7). Strumpf, 
+37 F.3d at 158. The court further reasoned that while 
+the “banker’s dilemma” created by mutual obligations 
+between a bank and its depositor may allow a debtor to 
+defeat a creditor’s right of setoff, the language of § 362(a) 
+produces this result. 
+Id. at 149. On October 27, 1994, 
+Citizens filed a petition for rehearing or, in the alterna- 
+tive, suggestion of rehearing in banc with the Fourth 
+Circuit. On November 8, 1994, this petition was denied. 
+On February 6, 1995, Citizens filed a petition for a 
+writ of certiorari with this Court, seeking reversal of the 
+Fourth Circuit’s decision, and citing to conflict among 
+the lower courts regarding the propriety of the use of an 
+administrative hold in bankruptcy as a substantive basis 
+for this Court’s review of the case. On March 27, 1995, 
+this Court granted Citizens’ petition for a writ of cer- 
+tiorari. 
+
+
+[PDF PAGE 11]
+8 
+SUMMARY OF THE ARGUMENT 
+The right to setoff mutual debts has long been recog- 
+nized in American common law, and in bankruptcy law. 
+The doctrine of setoff is premised upon the “absurdity 
+of making A pay B when B owes A,” Studley v. Boylston 
+Nat Bank, 229 U.S. 523, 528 (1913), and recognizes 
+the inherent fairness and efficiency in canceling mutual 
+obligations to arrive at one true debt. 
+The application of this setoff doctrine in cases under 
+the Bankruptcy Code involving a nonbank creditor is 
+straightforward and has generated little controversy, with 
+the exception of cases involving the Internal Revenue 
+Service (“IRS”). The Bankruptcy Code, in §553, expressly 
+recognizes and preserves a creditor’s right of setoff. The 
+automatic stay under §362(a)(7) prevents the creditor 
+from exercising its setoff right without first obtaining 
+the bankruptcy 
+court’s 
+permission. 
+However, 
+under 
+§542(b) of the Bankruptcy Code, the creditor is not 
+required to pay its debt to the debtor, to the extent of 
+the creditor’s claim against the debtor. The mere refusal 
+by the creditor to pay its debt to the debtor is not con- 
+sidered to constitute a setoff and, therefore, is not con- 
+sidered to be a violation of the automatic stay. 
+The confusion surrounding setoffs under the Bank- 
+ruptcy Code primarily has arisen if the creditor is a bank 
+where the debtor maintains a bank account and the bank 
+takes some action after the commencement of the deposi- 
+tor’s bankruptcy case to restrict the debtor’s ability to 
+use the funds on deposit. A bank creditor generally has a 
+right under nonbankruptcy law to offset a depositor’s 
+bank account, 
+that is, deduct from the account and 
+apply the amount of deduction to reduce the balance due 
+on the depositor’s defaulted debt to the bank. Upon 
+commencement 
+of a bankruptcy case, 
+the bank will 
+9 
+want to preserve its ability to exercise its setoff right 
+against the debtor’s bank account, after being authorized 
+to do so by the bankruptcy court, by ensuring that the 
+account funds are not dissipated. The confusion in these 
+cases arises in part from the lower courts’ misapprehen- 
+sion of the nature of the relationship between a bank 
+and its depositor. 
+This Court has long recognized that a bank account 
+creates the relation of debtor and creditor between the 
+bank and its depositor. The money deposited in legal 
+contemplation is a loan to the bank and becomes part 
+of the general funds of the bank, and the depositor has 
+the right to draw on the account to the extent of the 
+deposit. When the depositor files a bankruptcy petition, 
+§542(b) entitles the bank to refuse to pay its obligation 
+to the debtor from the bank’s assets to the extent the 
+bank has a right of setoff. The method used by a bank 
+to refuse to pay its obligation to a debtor with respect 
+to the debtor’s bank account is referred to as an adminis 
+trative “‘hold” or “‘freeze.” 
+The issue presented in this case is whether the bank 
+can place an administrative hold on the debtor’s bank 
+account to preserve the bank’s right of setoff against the 
+account prior to obtaining relief from the automatic stay 
+to exercise its setoff right. During the course of Strumpf's 
+bankruptcy case below, Citizens placed an administrative 
+hold on a portion of Strumpf’s account at Citizens and 
+contemporaneously filed a motion requesting the bank- 
+ruptcy court to modify the automatic stay to permit 
+Citizens to accomplish a setoff. 
+Consistent with §542(b), the imposition of an admin- 
+istrative hold on Strumpf’s bank account was not itself 
+a setoff. To the contrary, by filing a motion requesting 
+the bankruptcy court’s authority to exercise its setoff 
+
+
+[PDF PAGE 12]
+10 
+right contemporaneously 
+with 
+its imposition of the 
+administrative hold, Citizens made clear its intention to 
+delay the actual exercise of its setoff right pending bank- 
+ruptcy court approval. This limited hold on the account 
+did not accomplish the setoff; the balance of the account 
+was not reduced by the amount of the setoff and Citizens 
+in all respects acted in a manner evidencing that the 
+setoff had not been accomplished. 
+The Fourth Circuit panel below focused only on 
+§ §362(a)(7) and 553 of the Bankruptcy Code, and 
+ignored the impact of § §363, 506(a) and 542(b). That 
+error, coupled with the Fourth Circuit’s apparent failure 
+to recognize the nature of a bank account as the bank’s 
+debt to the debtor rather than funds owned by the 
+debtor, predictably led the Fourth Circuit to the wrong 
+conclusion. 
+If a financial institution, or for that matter nonbank 
+creditors, were to be denied the ability to use a tempor- 
+ary hold to preserve the status quo pending determina- 
+tion of the parties’ respective rights, the creditor’s valid 
+setoff right would be nullified by the debtor’s ability to 
+withdraw or collect the funds faster than the bankruptcy 
+court could rule on the matter. A ruling by the bank- 
+ruptcy court recognizing the bank’s setoff right after all 
+funds are withdrawn is the proverbial attempt to lock the 
+barn door after the horse has been stolen. That is pre- 
+cisely what happened in this case. By the time the bank- 
+ruptcy court granted Citizens relief from the automatic 
+stay to exercise its right of setoff, Strumpf had with- 
+drawn all of the funds on deposit at Citizens, leaving 
+Citizens with a hollow right and no remedy. 
+Consequently, the absurdity long eschewed by the 
+doctrine of setoff became a reality in this case. The 
+Bankruptcy Code neither requires nor supports a nullifi- 
+11 
+cation of a creditor's right of setoff. Accordingly, Citi- 
+zens respectfully asks this Court to reverse the decision 
+below and to reinstate the decision of the district court. 
+ARGUMENT 
+I. 
+THE BANKRUPTCY CODE EXPRESSLY RECOGNIZES 
+AND 
+PRESERVES 
+A CREDITOR’S 
+SETOFF 
+RIGHT 
+AGAINST A DEBTOR. 
+A. Citizens Had a Contractual and Common Law 
+Right to Set Off the Debtor’s Bank Deposit 
+Against His Obligation to the Bank Prior to the 
+Commencement of the Bankruptcy Case. 
+The right to set off mutual debts has long been recog- 
+nized as a venerable right in American common law. 
+Premised upon the “absurdity of making A pay B when 
+B owes A,” Studley v. Boylston Nat'l Bank, 229 U.S. 
+523, 528 (1913), the doctrine of setoff recognizes the 
+inherent fairness and efficiency in canceling mutual obli- 
+gations to arrive at one true debt. The Fourth Circuit’s 
+ruling below effectively eviscerates the ability of financial 
+institutions to exercise this important right within the 
+context of a bankruptcy case. 
+In Maryland,” the right of setoff has been defined as, 
+the right which exists between two parties, each of 
+whom, under an independent contract, owes 
+an 
+> Because both the Debtor and Citizens, as well as the bank 
+account at issue, are in Maryland, Maryland law determines the 
+state law rights and obligations of the parties. 
+In the absence of 
+controlling 
+federal 
+law, Citizens’ interest in Strumpf’s bank 
+account by virtue of its setoff right is a creature of state law. See 
+Butner v. United States, 440 U.S. 48, 54 (1979) (“Congress has 
+[footnote continued] 
+
+
+[PDF PAGE 13]
+12 
+ascertained amount to the other, to set off their 
+respective debts by way of mutual deduction, so 
+that in any action brought for the larger debt, the 
+residue only after such deduction, shall be recovered. 
+Ghingher v. Fanseen, 166 Md. 519, 526, 172 A. 75, 78 
+(1934) (quoting 24 R.C.L. 792). The right of setoff has 
+been recognized in Maryland continuously since 1785. 
+See generally William H. Loyd, The Development of 
+Setoff, 64 U. Pa. L. Rev. 541 (1916) (exhaustive analysis 
+of the ancient roots of the doctrine of setoff). See, e. g., 
+Baltimore Ins. Co. v. M’Fadon, 4 H. & J. 31,4145 (Md. 
+1815) (interpreting right of setoff established in Mary- 
+land by Act of 1785, ch. 45, s. 7); Tyrrell v. Tyrrell, 54 
+Md. 167, 169 (1880); District Agency Co. v. Suburban 
+Delivery Serv., Inc., 224 Md. 364, 370, 167 A.2d 874, 
+877 (1961) (holding Maryland rules of civil procedure 
+regarding counterclaims encompass right of setoff). 
+Under Maryland law, a bank creditor may offset 
+money in its customer’s bank account against a mature 
+obligation of the customer owed to the bank. See Hayden 
+v. Citizens Nat’l Bank of Baltimore, 120 Md. 163, 167, 
+87 A. 672 (1913); Records v. McKim, 115 Md. 299, 305, 
+80 A. 968 (1911); Mercantile-Safe Deposit and Trust Co. 
+v. Delp and Chapel Concrete Constr. Co., 44 Md. App. 
+34, 44, 408 A.2d 1043, 1049 (1979); In re Cummins 
+Constr. Corp., 72 F. Supp. 409, 413-14 (D. Md.), aff'd, 
+164 F.2d 983 (4th Cir. 1947), cert. dented, 333 U.S. 881 
+(1948). The foundation for a bank’s right of setoff is the 
+creditor-debtor relationship between a depositor and his 
+bank that is created when the depositor opens a bank 
+account. 
+generally left the determination of property rights in the assets of 
+a bankrupt’s estate to state law.); McKenzie v. Irving Trust Co., 
+323 U.S. 365, 370 (1945). 
+13 
+The money an account holder deposits into his bank 
+account is, in legal contemplation, a loan to the bank, 
+payable upon demand: 
+It may be said generally that the relation of a 
+bank and a depositor is that of debtor and creditor; 
+the money deposited is regarded as a loan to the 
+bank by the depositor, with the right of the deposi- 
+tor to draw on it to the extent of the deposit. 
+Keller v. Fredericktoun Sav. Inst., 193 Md. 292, 296, 66 
+A. 2d 924, 925 (1949). See also Taylor v. Equitable Trust 
+Co., 269 Md. 149, 155, 304 A. 2d 838, 842 (1973); Gor- 
+don, Feinblatt, Rothman, Hoffberger & Hollander v. 
+Gerhold, 90 Md. App. 360, 376, 608 A.2d 1194, 1201 
+(1992). 
+From a nonlegal perspective, it is common, but incor- 
+rect, for a depositor to think that the funds in his bank 
+account remain the depositor’s funds, just as if they were 
+placed in a safe deposit box and held by the bank for 
+safekeeping. The law is to the contrary. Upon deposit of 
+monies into an account, the bank becomes the owner of 
+the funds. The depositor loses the right of immediate 
+possession of the funds but gains a claim against the bank 
+for an amount equal to the balance in the account. As 
+this Court stated in New York County Nat'l Bank v. 
+Massey, 192 U.S. 138, 145 (1904), 
+[i]t cannot be doubted that, except under special 
+circumstances, or where there is a statute to the con- 
+trary, a deposit of money upon general account with 
+a bank creates the relation of debtor and creditor. 
+The money deposited becomes a part of the general 
+fund ot the bank, to be dealt with by it as other 
+moneys, to be lent to customers, and parted with at 
+the will of the bank, and the right of the depositor 
+is to have this debt repaid in whole or in part by 
+
+
+[PDF PAGE 14]
+14 
+honoring checks drawn 
+against the deposits. 
+It 
+creates an ordinary debt, not a privilege or right of 
+a fiduciary character. 
+Accord Bank of Marin v. England, 385 U.S. 99, 101 
+(1966); Barnhill v. Johnson, 503 U.S. 393, 112 S. Ct. 
+1386, 1389 (1992). Where the depositor is also obligated 
+to the bank for a loan or other similar debt, the depositor 
+and the bank have mutual obligations. The bank owes 
+the depositor an amount equal to the balance of the 
+account, and the depositor owes the bank the amount.of 
+his separate obligation. 
+It is undisputed in the present case that Citizens had a 
+right to set off the amount due under the Note against a 
+portion of the funds in Strumpf’s account. See Mercan- 
+tile, 44 Md. App. at 44, 408 A.2d at 1049. Additionally, 
+Citizens possessed the right of setoff against Strumpf’s 
+account by contract, pursuant to the express terms of 
+the Note. (R. 1) (the Note). 
+SBy granting Citizens’ motion for relief from the automatic 
+stay, thereby expressly authorizing Citizens to exercise its right of 
+setoff, the bankruptcy court concluded that Citizens had a valid 
+right of setoff. (J. 
+A. 29a). 
+This ruling was not appealed by 
+Strumpf and any issue relating to whether a valid right of setoff 
+existed was not raised below. 
+15 
+B. Citizens’ Setoff Right is Recognized and Pre- 
+served by the Bankruptcy Code. 
+1. Section 
+553(a) Expressly Provides 
+that a 
+Creditor’s Right to Offset a Mutual Debt is 
+Not 
+Affected 
+by the Bankruptcy Code, 
+Except as Otherwise Provided in Sections 
+362 and 363. 
+A resolution of the question presented by this case 
+requires the interpretation of several sections of the 
+Bankruptcy Code. The starting point in construing any 
+statute is the plain language of the statute. Pennsylvania 
+Public Welfare Dept. 
+v. Davenport, 495 U.S. 552, 557 
+(1990); Kelly v. Robinson, 479 U.S. 36, 43 (1986); Con- 
+sumer Product Safety Commission v. GTE Sylvania, Inc., 
+447 U.S. 102, 108 (1980). Where the statute’s language 
+is unambiguous, “the sole function of the court is to 
+enforce it according to its terms.” Caminetti v. United 
+States, 242 U.S. 470, 485 (1917). Accord Connecticut 
+Nat ] Bank v. Germain, 503 U.S. 249, 112 S. Ct. 1146, 
+1149 (1992). Separate provisions of the same act are to 
+be given a harmonious and comprehensive meaning. Clark 
+v. 
+Uebersee Finanz-Korporation, A.G., 332 U.S. 480, 
+488 (1947). Where the statutory scheme is coherent and 
+consistent, there is no need to inquire beyond the plain 
+language. United States v. Ron Pair Enterprises, Inc. , 489 
+U.S. 235, 240-41 (1989). 
+Adherence to these maxims 
+leads to a result contrary to the one reached by the 
+Fourth Circuit below. 
+Section 553 of the Bankruptcy Code expressly pre- 
+serves the common law right of setoff in bankruptcy 
+cases. It provides, in pertinent part: 
+(a) Except as otherwise provided in this section and 
+in sections 362 and 363 of this title, this title does 
+
+
+[PDF PAGE 15]
+16 
+not affect any right of a creditor to offset a mutual 
+debt owing by such creditor to the debtor that arose 
+before the commencement of the case under this 
+title against a claim of such creditor against the 
+debtor that arose before the commencement of the 
+case... 
+11 U.S.C. §553(a) (1988). 
+The preservation of the common law setoff right in 
+bankruptcy proceedings has a long history in American 
+bankruptcy law. See 4 James W. Moore & Lawrence P. 
+King, Collier on Bankrupcy, 4553.01, at 553-1 to 553-9 
+(15th ed. 1994) (tracing the history of the preservation 
+of the setoff right in bankruptcy); Carmelita J. Hammon, 
+Setoff in Bankruptcy: 
+Is the Creditor Preferred or 
+Secured?, 50 U. Colo. L. Rev. 511 (1979). The Sixth 
+Circuit 
+Court 
+of Appeals succinctly articulated 
+the 
+rationale for the stringent preservation of this favored 
+right: “The principle upon which the rule [of setoff] 
+proceeds is that in case of mutual debts, it is only the 
+balance which is the real and just sum owing by or to the 
+bankrupt.” Prudential Ins. Co. of America v. Nelson, 101 
+F.2d 441, 443 (6th Cir.), cert. denied, 308 U.S. 583 
+(1939). 
+Section 553 continues this tradition under the Bank- 
+ruptcy Code. 
+It was 
+intended to carry forward the 
+principles governing setoff that had been found in section 
+68 of the Bankruptcy Act of 1898, as later amended by 
+the Bankruptcy Act of 1938. See H.R. Rep. No. 95-595, 
+95th Cong., Ist Sess. at 183-86, 377 (1977), reprinted in, 
+1978 U.S.C.C.A.N. 5787, 6143-47, 6333. By maintaining 
+a creditor’s common law right to set off the obligations 
+of its debtor against its own debt to the debtor, §553 
+recognizes the injustice in permitting a creditor to obtain 
+repayment of only a portion of the debt owed by the 
+17 
+debtor, while at the same time compelling the creditor to 
+pay its full indebtedness to the debtor. 
+Absent a setoff, a creditor 
+. .. is in the worst of 
+both worlds: it must pay its debt to the debtor in 
+full, but is only entitled to receive a tiny fraction 
+of the money the debtor owes it. It was to avoid this 
+unfairness to creditors that setoffs were allowed in 
+bankruptcy in the first place. 
+In re De Laurentiis Entertainment Group, Inc., 963 F.2d 
+1269, 1277 (9th Cir.), cert. denied, — U.S. 
+113 
+S. Ct. 330 (1992). 
+See also 4 Collier on Bankruptcy, 
+supra, J 553.01, at 553.11. 
+The only significant changes made in the Bankruptcy 
+Code relating to the right to set off mutual prebank- 
+ruptcy obligations are procedural; they do not alter the 
+long-standing 
+goal of preserving the right of setoff 
+throughout the bankruptcy case. These changes are (i) to 
+limit the exercise of the right of setoff by subjecting the 
+right to the broad scope of the automatic stay of §362; 
+and (ii) to permit the trustee or debtor in possession 
+to use property subject to the right of setoff, under 
+the circumstances described in §363. See H.R. Rep. No. 
+95-595, 95th Cong., Ist Sess. at 183-86, 377 (1977), 
+reprinted in, 1978 U.S.C.C.A.N. 5787, 6143-47, 6333. 
+See also 4 Collier on Bankruptcy, supra, 9553.01, at 
+553-6 to 553-9 (discussing changes made by the Code).’ 
+Section 553 also alters the treatment of claims against the 
+debtor acquired from a third party, a situation not presented by 
+the facts here. 
+
+
+[PDF PAGE 16]
+18 
+2. The Only Bankruptcy Code Provisions Qualify- 
+ing a Creditor’s Exercise of Its Setoff Right— 
+§ §362 and 363—Do Not Eliminate the Right 
+of Setoff. 
+The automatic stay of §362 is one of the fundamental 
+protections afforded debtors by the Bankruptcy Code. It 
+operates to provide the debtor temporary relief from the 
+actions of creditors enumerated in §362(a). Conversely, 
+§362 is also designed to protect creditors by ensuring 
+that creditors with equal rights are treated equally in 
+the repayment of debts. 
+See H.R. Rep. No. 95-595, 
+95th Cong., Ist Sess., at 340-2 (1977), reprinted in, 1978 
+U.S.C.C.A.N. 5787, 6296-97. 
+Section 362(a)(7) expressly provides that a creditor 
+may not exercise his right of setoff during the pendency 
+of the bankruptcy case without obtaining relief from the 
+automatic stay. It states, in pertinent part: 
+(a) Except as provided in subsection (b) of this 
+section, a petition filed under section 301, 302, or 
+303 of this title . 
+. 
+. operates as a stay, applicable to 
+all entities, of— 
+R 
+* 
+* 
+* 
+(7) the setoff of any debt owing to the debtor that 
+arose before the commencement of the case under 
+this title against any claim of the debtor. ... 
+11 U.S.C. §362(a)(7) (1988). 
+8 creditors with different rights and priorities receive differ- 
+ent treatment under the Bankruptcy Code, just as they do outside 
+bankruptcy. For example, a secured creditor is treated quite differ- 
+ently from an unsecured creditor, particularly with respect to the 
+secured creditor’s collateral. See, e. g., 11 U.S.C. § §1129(b)(2)(A), 
+1325(a)(5) (1988). While preserving a creditor’s right of setoff has 
+the effect of paying one creditor more than the other, bankruptcy 
+laws have provided for just this result. See Cumberland Glass Mfg. 
+Co. v. DeWitt, 237 U.S. 447, 455 (1915). 
+19 
+Although a creditor with a common law right of setoff 
+preserved by 8553 is stayed from the exercise of that 
+right during the bankruptcy case absent relief from the 
+stay, §506(a) of the Code makes the creditor a secured 
+creditor to the extent of his right: 
+(a) An allowed claim of a creditor . . . that is subject 
+to setoff under section 553 of this title, is a secured 
+claim. 
+. 
+to the extent of the amount subject to 
+setoff . 
+. 
+. and is an unsecured claim to the extent 
+that . 
+. 
+. the amount so subject to setoff is less than 
+the amount of such allowed claim. 
+11 U.S.C. §506(a) (1988). See In re Santoro Excavating, 
+Inc., 32 B.R. 947, 950 (Bankr. S.D.N.Y. 
+1983). By 
+equating setoff with a secured claim, the Bankruptcy 
+Code recognizes that a creditor with a right of setoff is 
+entitled to a preference over other creditors to the extent 
+of the amount of the setoff right. See id. 
+Where the subject of the right of setoff is a bank 
+account, the creditor’s rights as a secured creditor are 
+amplified by the special provisions of the Bankruptcy 
+Code 
+concerning 
+cash 
+collateral.” 
+Section 
+363(a) 
+defines “‘cash collateral” as cash, negotiable instruments, 
+documents of title, securities, deposit accounts, or other 
+cash equivalents whenever acquired in which the estate 
+and an entity other than the estate have an interest. 
+11 U.S.C. §363(a) (1988). 
+A bank account subject to a bank’s setoff right is 
+clearly cash collateral.” As one noted authority stated, 
+[t]he language of section 363(a) is intentionally 
+broad to deal with situations where the property 
+concerned is not strictly collateral. To illustrate, a 
+bank stayed from setting off under section 362(a)(7) 
+would be treated as the holder of a secured claim 
+under section 506(a) to the extent of the deposit 
+
+
+[PDF PAGE 17]
+20 
+account 
+and the deposit account 
+is considered 
+as cash collateral” under section 363(a). 
+2 Collier on Bankruptcy, supra, 4363.02, at 363-16. 
+Numerous courts are in accord. See, e.g., Kenney’s Fran- 
+chise Corp. v. Central Fidelity Bank, N.A., 22 B.R. 747, 
+750 (W.D. Va. 1982); In re Williams, 61 B.R. 567, 571 
+(Bankr. N. D. Tex. 1986) (a Chapter 11 case); 
+In re Owens. 
+Peterson, 39 B.R. 186, 189 (Bankr. N.D. Ga. 1984) (a 
+Chapter 13 case); In re Gazelle, Inc., 17 B.R. 617, 620 
+(Bankr. W.D. Wisc. 1982). 
+Section 363 imposes limits on what a debtor in posses- 
+sion or trustee in bankruptcy may do with cash collateral. 
+Section 363(c)(2) provides: 
+(2) The trustee may not use, sell, or lease cash col- 
+lateral 
+under 
+paragraph 
+(1) of this subsection 
+unless — 
+(A) each entity that has an interest in such cash 
+collateral consents; or 
+(B) the court, after notice and a hearing, author- 
+izes such use, sale, or lease in accordance with 
+the provisions of this section. 
+11 U.S.C. §363(c)(2) (1988).? Thus, the use of cash 
+collateral by the debtor or trustee is restricted by the 
+terms of §363 unless the creditor consents to use of the 
+cash collateral or the court authorizes such use. See In re 
+Williams, 61 B.R. 567, 572 (Bankr. N.D. Tex. 1986). 
+This provision exists for the protection of the secured 
+creditor: “The protection is offered not by reason of any 
+non-bankruptcy 
+law limitations inherent to cash col- 
+lateral but rather in recognition of the unique nature of 
+cash collateral and the risk to the entity with an interest 
+Section 363 (c) (2) applies to debtors in possession by virtue 
+of 11 U.S.C. §1304(b). 
+21 
+therein arising from consumption of the collateral in a 
+rehabilitative effort in bankruptcy.“ 2 Collier on Bank- 
+ruptcy, supra, J 363.02, at 363-16. 
+The protections afforded a creditor for its cash col- 
+lateral extend further. Section 363(c)(4) provides that a 
+trustee must segregate and account for any cash col- 
+lateral in the trustee’s possession, custody and control. 
+11 U.S.C, §$363(c)(4) (1988). Section 363(e) further 
+provides in relevant part: 
+Notwithstanding any other provision of this section, 
+at any time, on request of an entity that has an 
+interest in property used, sold, or leased, or pro- 
+posed to be used, sold, or leased, by the trustee, the 
+court, with or without a hearing, shall prohibit or 
+condition such use, sale, or lease as is necessary to 
+provide adequate protection of such interest. 
+11 U.S.C. §363(e) (1988). Consistent with this restric- 
+tion, a debtor proposing to use cash or cash equivalents 
+held by a creditor with a right of setoff may be denied 
+use of the cash without first providing adequate protec- 
+tion for the creditor’s interest. See, e.g., In re Hooper, 
+152 B. 
+R. 309, 310 (Bankr. D. Colo. 1993); In re John- 
+son, 136 B.R. 306, 311 (Bankr. M.D. Ga. 1991) (both 
+holding that a debtor must demonstrate that the IRS was 
+adequately protected before the IRS would be required 
+to issue a tax refund check subject to IRS setoff). See 
+also 2 Collier on Bankruptcy, supra, 4363.06, at 363-30 
+to 363-35 (where cash subject to setoff is proposed to be 
+used, adequate protection must be furnished before 
+action is taken to use cash collateral), 
+Sections 362 and 363 thus provide protections, rights 
+and limits for the debtor and the creditor with respect to 
+the creditor’s exercise of its right to set off prepetition 
+obligations against each other. Section 362 operates to 
+
+
+[PDF PAGE 18]
+22 
+stay the exercise of the right of setoff until the creditor 
+has obtained the court’s permission, and §363 serves to 
+protect the creditor from losing the right as a result of 
+the debtor’s dissipation of the property securing the 
+right. Applied to the facts of this case, §362 operated to 
+delay the ultimate exercise of Citizens’ right to set off 
+the amount due under the Note against money in the 
+Debtor’s account. The automatic stay did not, however, 
+eliminate Citizens’ setoff right. 
+3. A Bank’s Right to Refuse to Turn Over to a 
+Debtor Funds on Deposit and Subject to Set- 
+off is Expressly Recognized by Section 542(b). 
+A creditor’s setoff right against a debtor and his bank- 
+ruptcy estate is further protected by §542(b) of the 
+Bankruptcy Code. Section 542(b) generally covers the 
+subject of “turnover” of property of the estate; that is, 
+when third parties holding possession of property of a 
+bankruptcy estate must 
+deliver the property to the 
+trustee or debtor in possession. Section 542(b) plainly 
+authorizes a creditor not to pay a debt to the debtor to 
+the extent that such debt is subject to setoff: 
+(b) Except as provided in subsection (c) or (d) of 
+this section, an entity that owes a debt that is prop- 
+erty of the estate and that is matured, payable on 
+demand, or payable on order, shall pay such debt to, 
+or on the order of, the trustee, except to the extent 
+that such debt may be offset under section 553 of 
+this title against a claim against the debtor. 
+11 U.S.C. §542(b) (1988) (emphasis added). 
+The operation of §542(b) is best illustrated outside 
+the bank-depositor context. In the case of Jn re Whitman, 
+38 B.R. 395 (Bankr. D.N.D. 1984), a commissioned 
+salesman was both a customer and employee of a corpo- 
+23 
+ration. As an employment benefit, the salesman obtained 
+a discount on products he purchased from the corpora- 
+tion for personal use. Over time, the salesman purchased 
+$4,215.01 worth of product, and in that same period 
+earned $2,265.92 in unpaid sales commissions. After the 
+salesman filed for bankruptcy relief, he instituted a turn- 
+over action under §542 of the Bankruptcy Code demand- 
+ing that the corporation pay him his commissions. The 
+court correctly held that, by operation of §542(b), the 
+corporation was entitled to refuse to pay the commis- 
+sions because of its right of setoff against those funds, 
+and the debtor’s turnover request was denied. 
+Application of §542(b) in a bank-depositor context 
+is no different. Because the funds in a deposit account 
+constitute a debt owed by the bank to its customer, the 
+bank may refuse to pay that debt, i. e., release the funds 
+in the account, to the extent that it has a right of offset 
+against the funds. 
+The leading bankruptcy 
+treatise 
+agrees 
+with this 
+view: “If the deposit account may be set off against a 
+debt owed by the debtor to the bank, then turnover of 
+the deposit account must be made except to the extent 
+the account may be set off against the debt under section 
+333.“ 4 Collier on Bankruptcy, supra, 9542.03, at 
+542-15 (emphasis added), Accord In re Edgins, 36 B.R. 
+480, 483 (Bankr. 9th Cir. 1984); In re Carpenter, 14 B. R. 
+405, 407-08 (Bankr. M.D. Tenn. 1981). The commenta- 
+tors who have analyzed this issue also generally agree 
+with this conclusion. 
+See Russell J. Passamano, Setoff in 
+Bankruptcy: An Overview of the Mechanics, 105 Banking 
+L. J. 349, 358 (1988). See also Benjamin Weintraub & 
+Alan N. Resnick, Freezing the Debtor’s Account: A 
+Banker’s Dilemma 
+Under the Bankruptcy Code, 100 
+Banking L. J. 316 (1983). Applied to the facts of the 
+
+
+[PDF PAGE 19]
+24 
+instant case, §542(b) expressly permitted Citizens to 
+refuse to turn over funds from the Debtor’s account to 
+the extent Citizens claimed a right of setoff in those 
+funds. 
+C. The Interplay of the Five Relevant Bankruptcy 
+Code 
+Sections—§ §362, 363, 506, 542 and 
+553—Gives 
+Rise 
+to 
+a Purposeful 
+Statutory 
+Equilibrium Between the Competing Rights of 
+the Debtor and the Bank Creditor to Funds in 
+a Bank Account. 
+The restrictions on the exercise of the right of setoff 
+by a creditor on the one hand, amd on a debtor’s ability 
+to use and obtain a turnover of funds on the other, give 
+rise to a purposeful statutory equilibrium appropriately 
+described by one court as a “stalemate.’’ Edgins, 36 B. R. 
+at 483. By virtue of §362(a)(7), a creditor may not exer- 
+cise its right of setoff absent relief from the automatic 
+stay. From the debtor’s perspective, §363(c)(2) restricts 
+the debtor’s use of funds that are subject to setoff and 
+deemed cash collateral. The debtor also lacks free access 
+to the funds because §542(b) expressly allows a creditor 
+to refuse to pay a debt that is subject to setoff. 
+The Bankruptcy Appellate Panel of the Ninth Circuit 
+in Edgins described 
+the possible resolutions 
+to this 
+statutory equilibrium in the bank-depositor context as 
+follows: 
+This stalemate may be alleviated by either party 
+initiating a number of alternative proceedings in the 
+bankruptcy court. Either party might make applica 
+tion for a declaratory determination of whether the 
+frozen account 
+is security by virtue of Section 
+506(a) and thus subject to a right of setoff under 
+Section 553. The creditor might bring an action for 
+25 
+relief from the automatic stay for the purpose of 
+asserting and exercising its security interest and 
+right to setoff. The debtor might bring a motion for 
+use of the security as cash collateral under 11 U.S.C. 
+Section 363. Any of these methods could be pur- 
+sued by motion and in a shortened time frame, 
+given an emergency. The bankruptcy code does not 
+specify which should be used nor whether the 
+creditor or the debtor should initiate action to break 
+what appears to be a statutory logjam. 
+Edgins, 36 B. 
+R. at 483. See also Weintraub & Resnick, 
+supra, at 3-4. 
+In the present case, the statutory stalemate took effect 
+upon the Debtor’s bankruptcy filing. The parties’ respec- 
+tive obligations relating to the Debtor’s bank account and 
+the Note were created prebankruptcy and were unques- 
+tionably mutual. See supra at 3-4. Citizens’ preexisting 
+common law and contractual right to set off against the 
+Debtor’s bank account an amount equivalent to what the 
+Debtor owed Citizens under the Note was preserved 
+under §553. While Citizens was stayed from exercising 
+its right of setoff without bankruptcy court approval, 
+Citizens was entitled under §542(b) to decline to pay the 
+Debtor from his account an amount equal to the sum 
+outstanding on the Note, absent a court order to the 
+contrary. 
+
+
+[PDF PAGE 20]
+26 
+II. 
+THE IMPOSITION 
+OF AN ADMINISTRATIVE HOLD 
+DOES NOT VIOLATE THE AUTOMATIC STAY. 
+A. An Administrative Hold is Not a Setoff and 
+Does Not Violate Section 362(a)(7). 
+The Fourth Circuit’s analysis below focused on the 
+propriety and effect of the administrative hold placed on 
+the account by Citizens. As explained below, the mere 
+imposition of an administrative hold or freeze“ such as 
+the one employed by Citizens is not an act of setoff as 
+contemplated by §362(a)(7), because it is not the result 
+of an intent to set off money in a debtor’s account and 
+does not represent affirmative action to effectuate that 
+intent. 
+While many creditors with a right of setoff may exer- 
+cise their rights under §542(b) by simply informing a 
+debtor that they choose not to pay their debt subject 
+to a setoff, a financial institution does not have the 
+luxury of simplicity. Financial institutions face signifi- 
+cant 
+communicative, 
+technological 
+and geographical 
+difficulties in manifesting an intent and implementing a 
+decision not to pay. Funds in a demand deposit or check- 
+ing account 
+in most 
+financial 
+institutions are easily 
+accessible in various ways. The account holder may write 
+a check, which comes to the bank through collection 
+channels from another institution or is personally pre- 
+sented by the individual or entity to whom the check is 
+drawn, The account holder may appear in person and 
+make a withdrawal over the counter at any number of 
+bank branches. The depositor may also access funds from 
+automated teller machines all over the country, if not the 
+world. The funds in a bank account can be disbursed to a 
+third party pursuant to an agreement with the bank, for 
+example, in a monthly bill pay” arrangement. Bank 
+27 
+funds may also be transmitted by electronic transfer in 
+response to a request from the depositor or a third party. 
+A financial institution must have a mechanism 
+to 
+communicate 
+its decision to exercise its right under 
+§542(b) not to permit withdrawal of funds subject to 
+setoff to multiple branches, automated teller machines, 
+and others with responsibility for administering bank 
+accounts, The solution is the administrative hold or 
+“freeze.” The hold is accomplished by electronically 
+coding a financial 
+institution’s computers to restrict 
+access to specific funds, and is the most efficient proce- 
+dure—indeed, the only procedure—by which a bank may 
+ensure 
+institution-wide 
+compliance 
+with 
+its internal 
+account-related directives. Ultimately, it is nothing more 
+than a bank’s means of communicating to various bank 
+personnel and computers its intent not to pay its debt to 
+its depositor. 
+Because the timing of a setoff may affect priorities 
+among competing creditors, some states have developed 
+precise tests to determine just when a setoff has occurred. 
+No reported Maryland case has directly addressed this 
+question, However, the predominant and better view 
+among jurisdictions 
+that have formulated such 
+tests 
+requires evidence of an intent to set off coupled with 
+action effectuating that intent. In the leading case of 
+per v. Nat ! City Bank of Cleveland, the Sixth Circuit 
+stated: 
+[T]he act of setoff is not complete until three steps 
+have been taken: (1) the decision to exercise the 
+right, (2) some action which accomplishes the set- 
+off and (3) some record which evidences that the 
+right of setoff has been exercised. 
+511 F.2d 1016, 1018 (6th Cir, 1975). The test for setoff 
+articulated 
+in Baker has been cited repeatedly with 
+
+
+[PDF PAGE 21]
+28 
+approval. See, e. g., Horton Dairy, Inc. v. United States, 
+986 F.2d 286, 291 (8th Cir. 1993); United States v. 
+Central Bank of Denver, 843 F.2d 1300, 1310 (10th 
+Cir. 1988); In re Saugus Gen. Hosp., Inc., 698 F.2d 42, 
+47-48 (Ist Cir. 1983). See also 4 Collier on Bankruptcy, 
+supra, 4553.02, at 553-12.!° 
+The language of §542(b) supports the distinction 
+between declining to pay a debt that is subject to setoff 
+and the actual exercise of the setoff right. Section 542(b) 
+states that an entity that owes a debt to the debtor must 
+pay that debt except to the extent that such debt “may 
+be offset.“ 11 U.S.C. §542(b) (1988) (emphasis added). 
+The quoted language contemplates that the right of set- 
+off need not yet have been exercised. The Bankruptcy 
+Code thus implicitly recognizes a distinction between 
+declining to pay a debt that is subject to setoff, and the 
+actual exercise of the setoff right. In re Moreira, 173 
+B. 
+R. 965, 966-67 (Bankr. D. Mass. 1994); In re Carpenter, 
+14 B.R. 405, 407 (Bankr. M.D. Tenn, 1981). 
+Presumably because some courts have failed to make 
+the critical distinction between preserving and exercising 
+the right of setoff, the most recent report of the National 
+Bankruptcy Conference’s Code Review Project!! 
+sug- 
+104 setoff occurs only when the creditor has sufficiently 
+demonstrated an intent to set off. The setoff does not arise auto- 
+matically merely because the creditor and the debtor have mutual 
+debts, but only occurs where there has been a deliberate, overt 
+action showing that the creditor has exercised its right of setoff.” 
+Ine National Bankruptcy Conference is a voluntary, non- 
+profit organization of about sixty lawyers, law Professors, and 
+bankruptcy judges who have achieved scholarly distinction in the 
+field of bankruptcy law. Its purpose is to study in a continuing 
+program the operation of bankruptcy and related laws and to 
+consult with Congress from time to time on needed revisions, The 
+National Bankruptcy Conference’s Code Review Project, Foreword 
+to Reforming the Bankruptcy Code at i (1994). 
+29 
+gested that §542(b) be clarified to ensure that it is inter- 
+preted and followed in the bank-depositor context con- 
+sistent with its operation in the usual nonbank context. 
+The report stated: 
+Language should be added emphasizing that the 
+right not to pay over a debt to the extent it is sub- 
+ject to a setoff right (a provision already in section 
+542(b)) means that a party may refuse to pay over 
+such debt (or “freeze” an account that represents a 
+debt owing to the debtor) without violating the 
+automatic stay. 
+The National Bankruptcy Conference’s Code Review 
+Project, Reforming the Bankruptcy Code 256 (1994) 
+(emphasis added). The Conference recognized that courts 
+which have determined that the imposition of an adminis- 
+trative hold violates the automatic stay have either failed 
+to appreciate that deposit accounts represent debts owed 
+by the bank or have failed “to recognize the existence of 
+section 5420b).“ 
+Id. at 257. 
+In the instant case, Citizens’ actions clearly stopped 
+short of accomplishing a setoff. Citizens filed its motion 
+seeking relief from the stay under 8 362d), seeking per- 
+mission to exercise its setoff right, contemporaneously 
+with its imposition of the administrative hold on a por- 
+tion of Strumpf’s account. 
+In doing so, Citizens evi- 
+denced its intent to delay the exercise of its right of set- 
+off pending bankruptcy court approval. The balance of 
+the account was not reduced by the amount of setoff, 
+and Citizens in all respects acted in a manner evidencing 
+that a setoff had not been taken. 
+
+
+[PDF PAGE 22]
+30 
+B. An Administrative Hold is Not an Act to Exer- 
+cise Control Over Property of the Estate. 
+In addition to staying a creditor’s exercise of the 
+right of setoff, the automatic stay prohibits creditors 
+from taking acts to exercise control over property of the 
+bankrupt’s estate. Section 362(a)(3) states in pertinent 
+part: 
+si 
+t as 
+provided in subsection (b) of 
+thi 
+a 
+4 filed under section 301, 302, or 
+303 of this title... operates as a stay, applicable to 
+all entities, of— 
+R 
+* 
+* 
+* 
+(3) any act to obtain possession of property of 
+the estate or of property from the estate or to 
+exercise control over property of the estate. 
+11 U.S.C. §362(a)(3) (1988). The imposition of an 
+administrative hold on a bankrupt depositor’s account 
+does not violate §362(a)(3) because the funds in the 
+account are property of the bank, not the estate. 
+When a bank depositor files for bankruptcy relief, 
+his claim against the bank, not the money in his account, 
+becomes the property of the estate under 11 U.S.C. 
+§541(a)(1). See Bank of Marin v. England, 385 U.S. 99, 
+101 (1966); Barnhill v. Johnson, 503 U.S. 393, 112 8. 
+Ct. 1386, 1389 (1992) (a] person with an account 
+at a bank enjoys a claim against the bank for funds in an 
+amount equal to the account balance.“ ). This is because 
+the deposits in the account are property of the bank, not 
+the depositor. See supra at 13-14; Keller v. Fredericktown 
+12 
+Circuit in Strumpf did not consider 
+Although 
+the Fourth 
+other Bene rang ef §362(a), some other courts have found the 
+imposition of an administrative hold to be a violation of §362(a)- 
+(3). See, e.g., In re Wicks, 176 B. R. 695 (Bankr. E.D.N.Y. 1995). 
+31 
+Sav. Inst., 193 Md. 292, 296, 66 A.2d 924, 926 (1949) 
+(“the bank owns the money deposited, subject to the 
+right of the depositor to draw on it.”). Where a bank 
+asserts a right of setoff and freezes the debtor’s account, 
+the debtor’s claim to the bank account (i e., the estate’s 
+property) is not affected in any way by the imposition of 
+the hold, except to the extent permitted by §542(b). 
+Accordingly, an administrative hold, by which a bank 
+ensures that it does not pay its debt to the debtor pend- 
+ing determination of the bank’s setoff right, is not an 
+exercise of control over property of the estate in viola- 
+tion of §362(a)(3). In re Lough, 163 B.R. 586, 588 
+(Bankr. D. Idaho 1994); In re Air Atlanta, Inc., 74 B. R. 
+426, 427 (Bankr. N.D. Ga.), aff'd, 81 B. R 724 (N. 
+D. 
+Ga. 1987). 
+III. 
+THE FOURTH CIRCUIT’S ANALYSIS IN STRUMPF IS 
+INCOMPLETE AND FLAWED. 
+The Fourth Circuit made five fundamental mistakes in 
+concluding that an administrative hold on bank deposit 
+funds subject to setoff was a violation of the automatic 
+stay. The lower court (1) ignored the effect of § §363, 
+506(a), and 542(b) of the Bankruptcy Code; (2) failed to 
+recognize that the bank deposit funds belonged to Citi- 
+zens, not the Debtor; (3) in effect erroneously concluded 
+that the automatic stay was intended to defeat a creditor’s 
+right of setoff, despite other provisions of the Bank- 
+ruptcy Code and legislative history expressly to the 
+contrary; (4) incorrectly equated an administrative hold 
+to a setoff; and (5) relied on precedent from other juris- 
+dictions having little, if any, relevance to the present 
+case and which is otherwise unpersuasive. 
+
+
+[PDF PAGE 23]
+32 
+A. Failure to Address All the Relevant Code Sec- 
+tions 
+The Fourth Circuit panel did not consider the inter- 
+play between the five different sections of the Bank- 
+ruptcy Code which bear directly on the issue presented 
+here. Instead, the lower court’s opinion focused only on 
+§ §362(a)(7) and 553. In doing so, the Boer — 
+ignored the impact of § 8363, 506(a) and 542(b). 
+In a remarkably prescient article, two of the foremost 
+bankruptcy commentators 
+predicted that the precise 
+outcome reached by the Fourth Circuit would result 
+from its flawed analysis: 
+The seemingly uncomplicated question of whether 
+a bank owed money by its customer may tempor- 
+arily freeze the customer’s account upon learning of 
+its bankruptcy 
+cannot 
+be answered adequately 
+without considering the interplay of several Code 
+provisions, When only Sections 553(a), recognizing 
+the right of setoff, and 362(a)(7), applying the 
+automatic stay to setoffs are considered 
+. 
+. an 
+erroneous 
+conclusion 
+is reached which prohibits 
+the freezing of funds without court approval. 
+Weintraub & Resnick, supra, at 324. The Fourth Circuit 
+did not appreciate that under §542(b) Citizens had a 
+right to refuse to pay its debt to the Debtor, and that 
+Citizens’ declination to pay its debt to Strumpf did not 
+equate to a setoff or an act to exercise control over 
+property of the estate. 
+18. The Fourth Circuit did mention § §506(a) and 542(b) in 
+passing in a footnote, but did not analyze the relevance of these 
+sections to this case. Strumpf, 37 F.3d at 157 n.“. 
+33 
+B. Failure to Recognize the Debtor-Creditor Nature 
+of Citizens’ Account Relationship 
+With 
+the 
+Debtor 
+Nowhere in the Strumpf opinion did the Fourth Cir- 
+cuit discuss the debtor-creditor relationship between 
+Citizens and the Debtor that was created upon Strumpf’s 
+first deposit into his account. Rather, the Strumpf court 
+seemingly held the common lay perspective that the 
+money in the Debtor’s account was the property of the 
+Debtor, merely held by Citizens for his use. Premised 
+on this misconception, the Fourth Circuit concluded that 
+the Debtor had a right to withdraw all funds in his 
+account while his bankruptcy case was pending: “Whether 
+the creditor actually offsets the debtor’s account or 
+places a hold on the debtor’s account, both effectively 
+deprive the debtor of the use of the funds pending the 
+outcome of the motion for relief from the stay.” Strumpf, 
+37 F.3d at 158 (citation omitted), 
+C. Erroneous Conclusion that Section 362(a) Was 
+Intended by Congress to Defeat the Right of 
+Setoff 
+The Fourth Circuit’s decision wrongly suggests that 
+Congress intended a debtor to have the ability to defeat 
+a creditor’s right of setoff by moving quickly to with- 
+draw funds before the creditor can obtain relief from the 
+automatic stay. In the words of the Fourth Circuit, 
+„ hile the banker’s dilemma may allow a debtor to 
+defeat a creditor’s right of setoff, the clear and unambigu- 
+ous language of 362(a) produces this result.“ Strump/, 37 
+F. 3d at 159. 
+
+
+[PDF PAGE 24]
+34 
+The automatic stay was designed to be just that—a 
+stay. While the Code itself is clear enough on this point, 
+the legislative history answers any doubt on the point: 
+Paragraph (7) stays setoffs of mutual debts and 
+credits between the debtor and creditors. As with all 
+other paragraphs of subsection (a), this paragraph 
+does not affect the rights of creditors. It simply 
+stays its enforcement pending an orderly examina- 
+tion of the debtor’s and creditor’s rights. 
+H.R. Rep. No. 95-595, 95th Cong., Ist Sess. at 342 
+(1977), reprinted in, 1978 U.S. 
+C. C. A. N. 5787, 6298; 
+S. Rep. No. 95-989, 95th Cong., 2nd Sess. at 51 (1978), 
+reprinted in, 1978 U.S. 
+C. C. A. N. 5787, 5837. The auto- 
+matic stay thus was intended to serve as a shield, not a 
+sword capable of severing interested parties from their 
+vested rights: 
+The shield of 11 U.S.C. Section 362, which is proce- 
+dural and vests no intrinsic interest in property to 
+the estate, should not be used as a sword to divest 
+other parties of legitimate interests in property 
+particularly where the debtor has the knowledge and 
+means to bring whatever claim he may have for use 
+of the funds on for prompt hearing. 
+Edgins, 36 B. R. at 484. 
+The Fourth Circuit’s interpretation of 8362 (a) renders 
+88 363000 
+(2) and 542 (b) nullities, and 8553 meaning- 
+less, as applied to depository institutions. Such an inter- 
+pretation violates the fundamental maxim that a statute 
+must, if possible, be construed so that every word has 
+some 
+operative 
+effect. See United States 
+v. Nordic 
+Village, Inc., 503 U.S. 30, 36 (1992). See also Wein- 
+berger v. Hynson, Westcott and Dunning, Inc., 412 U.S. 
+609, 631-32 (1973) (separate provisions of the same act 
+are to be given a harmonious and comprehensive mean- 
+35 
+ing, citing Clark v. Uebersee Finanz-Korporatio 
+A. G 
+332 U.S. 480, 488 (1947). 
+1 
+D. Incorrectly Equates an Administrative Hold With 
+a Setoff 
+The Fourth Circuit incorrectly held that an adminis- 
+trative hold is tantamount to the exercise of a right of 
+setoff and, thus, is violative of §362(a)(7). Strumpf, 37 
+F 3d at 158. As demonstrated above, see supra at 26-29, 
+the imposition of an administrative hold is not a setoff 
+nor should it be considered tantamount to a setoff. It 
+is the only effective means by which a financial institu- 
+tion may decline to pay its debt to the depositor pur- 
+suant to §542(b). 
+N By placing an administrative hold, a financial institu- 
+tion does not change the positions of the parties with 
+respect to their interests in the frozen account. A legal 
+stalemate already exists upon the debtor’s bankruptcy 
+filing quite apart from any freeze. The hold does not 
+improve or worsen the bank’s position: the bank may not 
+set off the funds in the account, yet it retains the right 
+to use the funds since they remain property of the bank. 
+The hold does not improve or worsen the debtor's posi- 
+tion: the debtor may not use the funds, but maintains 
+a claim to the funds. 
+The hold merely preserves the 
+status quo until such time as the bankruptcy court can 
+determine the respective rights of the parties. Il See Edgins, 
+'41¢ the imposition of an administrative hold is accompanied 
+by a motion for relief from the automatic stay, the bankruptcy 
+court will determine the respective rights of the parties in relatively 
+short order. See 11 U.S.C. §362(e) (1988); 11 U.S. 
+C. A. §362(e) 
+(1993 & 1995 Supp.). 
+The administrative hold ensures that the 
+status quo is preserved during this relatively brief period. 
+
+
+[PDF PAGE 25]
+36 
+36 B. 
+R. at 484 (“The bank in the case at bar has main- 
+tained the status quo without taking action to collect or 
+recover a claim against the debtor. It has simply deferred 
+payment of the funds pending the outcome of any pro- 
+ceedings brought by it or the debtor to determine their 
+use and ownership.”); Stann 
+v. Mid Amencan Credit 
+Union, 39 B. 
+R. 246, 248 (D. Kan. 1984); 
+In re Learn, 95 
+B. 
+R. 495, 496 (Bankr. N. D. Ohio 1989); In re Bass 
+Mechanical Contractors, Inc., 84 B. 
+R. 1009, 1022-23 
+(Bankr, W. 
+D. Ark. 1988). 
+E. Misplaced Reliance Upon Reynolds, Norton, and 
+Rinehart 
+In equating an administrative hold to a setoff, the 
+Fourth Circuit placed significant reliance upon United 
+States v. Reynolds, 764 F.2d 1004 (4th Cir. 1985), 
+United States v. Norton, 717 F.2d 767 (3rd Cir. 1983), 
+and Small Business Admin. v. Rinehart, 887 F.2d 165 
+(8th Cir. 1989). 
+See Strumpf. 37 F.3d at 158.1“ That 
+reliance was misplaced. 
+The 
+Fourth 
+Circuit’s 
+adherence 
+to the reasoning 
+employed in these three cases is partially attributable to 
+the court’s apparent misunderstanding of the nature of 
+a deposit account and the effect of the relevant Bank- 
+ruptcy Code 
+provisions, especially 
+§542(b). This is 
+15 he Fourth Circuit also relied upon In re Penn Central 
+Transportation, 453 F.2d 520 (Ird Cir. 1971), cert. denied, 408 
+U.S. 923 (1972). Strumpf, 37 F.3d at 158. Penn Central involved 
+an entirely different, although facially similar, set of concerns 
+from the present case. There, the defendant banks actually set off 
+debts owed them by a railroad undergoing reorganization, 
+in viola- 
+tion of a court order expressly prohibiting them from taking such 
+action. 
+The banks’ appeal focused on the jurisdictional authority 
+of the reorganization court to enter the order prohibiting set off. 
+Id. at 521-23. Penn Central thus has no relevance here. 
+37 
+hardly surprising, given that all three of the earlier cases 
+suffered 
+from 
+similar 
+shortcomings. 
+The courts 
+in 
+Norton, Reynolds, and Rinehart focused their attentions 
+on the effect of withholding payment of money to the 
+debtor and the similarity of that effect to the conse- 
+quences of a setoff.!© None of these cases considered the 
+effect of §542(b) and the rights of the creditor agencies 
+to decline to pay debts subject to setoff. Without under- 
+standing that the debtors did not have a unilateral right 
+to access the funds held by the creditor agencies to begin 
+with, it is perhaps understandable that these courts incor- 
+rectly perceived the freezes imposed as violations of the 
+automatic stay. 
+The outcome in Rinehart also may have been influ- 
+enced by the fact that the creditor in the case, the Small 
+Business Administration (“SBA’’), attempted to retain 
+possession of a check, which it erroneously received post- 
+petition, that was made payable to the debtors by the 
+Department of Agriculture. The SBA gave the debtors 
+no notice that it had come into possession of the check. 
+Rinehart, 889 F.2d at 168. Norton also is distinguishable 
+because the creditor there, the IRS, had withheld the 
+debtor’s tax refund without contemporaneously request- 
+ing relief from the stay, apparently intending to with- 
+hold the refund until the case was closed.!“ In both of 
+1611 iis noteworthy that Norton relied upon Penn Central, 
+a pre-Code case which did not involve §§363 or 542. 
+Norton, 
+717 F. ad at 773. Reynolds liberally adopted the logic of Norton, 
+Reynolds, 764 F.2d at 1006-07, and Rinehart liberally adopted the 
+logic of both Norton and Reynolds. Rinehart, 887 F.2d at 168-69. 
+The Strumpf opinion appears to be a continuation of this pattern 
+of reliance on precedent rather than independent analysis of the 
+relevant Bankruptcy Code sections. 
+'71t is not clear why the IRS has had difficulty, along with 
+financial institutions, in exercising its setoff rights in bankruptcy. 
+[footnote continued] 
+
+
+[PDF PAGE 26]
+38 
+these cases, the government’s conduct was susceptible 
+to being viewed by the bankruptcy court as closely 
+equivalent to a setoff. 
+Furthermore, the relevance of Norton as precedent in 
+any jurisdiction but Pennsylvania must be questioned. 
+Norton applied Pennsylvania law to determine when a 
+setoff of federal tax liabilities occurs. Norton, 717 F.2d 
+at 772. Pennsylvania employs an unusual rule of “‘auto- 
+matic setoff,” under which a setoff is said to occur as a 
+matter of law at the moment that the creditor’s claim 
+matures. See Pittsburgh Nat Bank v. United States, 
+657 F.2d 36, 38 (3rd Cir. 1981). Under the automatic 
+setoff”’ doctrine of Pennsylvania, the maturation of a 
+debt is deemed to automatically“ cause the setoff by 
+operation of law. Id. Since Maryland law, which has no 
+such setoff doctrine, is controlling here, Norton is not 
+persuasive authority in this case. 
+One explanation may be that IRS cases sometimes involved con- 
+duct — to be inequitable by the bankruptcy court, and the 
+court exercised its equity powers to restrain the IRS from exercis- 
+ing its setoff rights. See, e. g., In re Cascade Roads, Inc., 34 F.3d 
+756, 763-64 (9th Cir. 1994) (the bankruptcy court found the case 
+“replete with inequitable conduct on the part of the Govern- 
+ment”). 
+This explanation, however, only goes so far. 
+For exam- 
+ple, in the Eastern District of Pennsylvania, the same bankruptcy 
+judge acknowledged the IRS’s right to retain funds to the extent 
+of its setoff right in one case, citing 11 U.S.C. §542(b), see In re 
+Powers, 28 B.R. 86 (Bankr, E.D. Pa. 1983) (IRS motion to lift stay 
+granted), while in another case the IRS was held in contempt for 
+withholding payment of an income tax refund to the debtor, see 
+In re Mealey, 16 B.R. 800 (Bankr. E.D. Pa. 1982). 
+39 
+F. The Fourth Circuit’s Interpretation of the Bank- 
+ruptcy Code Raises a Serious Constitutional Issue 
+Which Should Be Avoided. 
+It is a cardinal principle of statutory interpretation 
+that Where an otherwise acceptable construction of a 
+statute would raise serious constitutional problems, the 
+Court will construe the statute to avoid such problems 
+unless such construction is plainly contrary to the inten- 
+tion of Congress.” Edward J. DeBartolo Corp. v. Florida 
+Gulf Coast Bld. & Constr. Trades Council, 485 U.S. 568, 
+575 (1988). This approach reflects the concern that 
+courts 
+should not needlessly confront constitutional 
+issues and recognizes that a court will assume that Con- 
+gress did not intend to infringe upon constitutionally 
+protected liberties. Id. 
+The Fifth Amendment to the United States Constitu- 
+tion provides, in part: “No person shall be . . 
+. deprived 
+of life, liberty, or property, without due process of law; 
+nor shall private property be taken for public use, with- 
+out just compensation.“ U.S. Const. amend. V. As dis- 
+cussed below, the Fourth 
+Circuit’s 
+interpretation of 
+§362(a)(7) may be read to effect an unconstitutional 
+taking of a bank’s property—the right of setoff—without 
+adequate compensation. However, this Court need not 
+wrestle with the constitutionality of the Bankruptcy 
+Code as interpreted by the Strumpf decision, because the 
+correct and harmonious construction of all the relevant 
+Code sections raises no such constitutional issue. 
+The right of setoff is similar to a secured creditor’s 
+interest in its collateral. Like a mortgage or other security 
+interest, the right of setoff enables a creditor to secure 
+the payment of a debt and to satisfy the debtor’s obliga- 
+tion by permitting the creditor to retain funds that he 
+otherwise would be obligated to pay to the debtor. See 
+
+
+[PDF PAGE 27]
+40 
+Barrier v. Marine Midland Trust Co., 263 Md. 596, 607, 
+284 A.2d 418, 424 (1971) (the right of setoff is an 
+exercisable right that is an incident to the remedy to 
+secure payment of a debt). This similarity between the 
+right of setoff and other types of security interests has 
+been recognized by §506(a) of the Bankruptcy Code, 
+which treats a claim of a creditor that is subject to set- 
+off as a secured claim“ to the extent of the amount 
+subject to setoff. See supra at 19. 
+This Court has recognized the rights of secured credi- 
+tors to be property interests entitled to Fifth Amend- 
+ment protection. See United States v. Security Indus. 
+Bank, 459 U.S. 70, 74-76 (1982); Armstrong v. United 
+States, 364 U.S. 40, 44 (1960) (recognizing protected 
+property interest in materialman’s lien under state law); 
+Wright v. Union Central Life Ins. Co., 311 U.S. 273, 
+279-81 
+(1940); Louisville Joint Stock Land Bank v. 
+Radford, 295 U.S. 555, 594 (1935) (mortgagee’s rights 
+were property interests protected by the Fifth Amend- 
+ment). The right of setoff likewise should be recognized 
+as a protected property right. 
+Congress’ bankruptcy power under Art. I, §8, clause 
+4 of the Constitution is subject to the Fifth Amend- 
+ment’s prohibition against the taking of private property 
+without compensation, As stated in by this Court in 
+Security Industrial: 
+[H]owever “rational” the exercise of the bank- 
+ruptcy power may be, that inquiry is quite separate 
+from the question whether the enactment takes 
+property within the prohibition of the Fifth Amend- 
+ment. 
+459 U.S. at 75. See also Radford, 295 U.S. at 589 (The 
+bankruptcy 
+power, 
+like 
+the other great substantive 
+powers of Congress, is subject to the Fifth Amend- 
+41 
+ment.“). 
+Under the Fourth Circuit’s interpretation in 
+Strumpf, §362(a)(7) may be read to deprive banks of 
+their constitutionally protected property interest in the 
+right of setoff without adequate compensation. 
+The governmental action in this case, the enactment of 
+§362(a)(7), as interpreted by the Fourth Circuit, would 
+result in the virtual elimination of banks’ reasonable 
+expectations relating to the right of setoff.'® Without 
+the ability to place an administrative freeze on the 
+debtor’s account, banks essentially would be compelled 
+to permit the debtor to withdraw funds on deposit (i.e., 
+pay over the debt subject to the bank’s right of setoff to 
+the estate), even though those funds secure the debtor’s 
+obligations to the bank and represent a debt that the 
+bank may expressly decline to pay under §542(b). Such 
+an interpretation of §362(a)(7) would raise a serious 
+question as to whether the Code operates as an uncon- 
+stitutional taking without adequate compensation or pro- 
+tection. 
+See generally Security Industrial, 459 U.S. at 
+75-78 (finding governmental action of bankruptcy code 
+destroying property rights of secured party to be an 
+unconstitutional taking). This constitutional issue can 
+and should be avoided by this Court’s adherence to the 
+plain language of the Code and the harmonious interpre- 
+tation of §362(a)(7) with § §553 and 542(b). 
+18 me right of setoff has been embodied in every bankruptcy 
+statute this nation has had, and creditors—particularly banks—have 
+long acted in reliance on it. In re Applied Logic Corp., 576 F.2d 
+952, 958 (2d Cir. 1978). 
+
+
+[PDF PAGE 28]
+42 
+IV. 
+ALLOWING A BANK CREDITOR TO IMPOSE AN ADMIN. 
+ISTRATIVE HOLD PENDING DETERMINATION BY THE 
+BANKRUPTCY COURT OF THE BANK’S SETOFF RIGHT 
+IS CONSISTENT WITH THE POLICY GOALS OF THE 
+BANKRUPTCY CODE, 
+A. Under Strumpf. the Extraordinary Measure of 
+Ex Parte Relief Will Become Routine. 
+The Strumpf decision leaves banks with only one 
+method of attempting to prevent the dissipation of the 
+funds to which they claim a right of setoff: initiating 
+immediate ex parte litigation in the bankruptcy court 
+upon the first notice that a customer has filed for bank- 
+ruptcy relief. If banks are required to go immediately 
+into court upon the suspicion that the debtor might 
+attempt to defeat the bank’s setoff right, the bankruptcy 
+court system will suffer from a significant increase in 
+frantic litigation and financial institutions and debtors 
+alike will be forced to incur greater expense in legal repre- 
+sentation. Even courts that advocate this approach recog- 
+nize its inherent drawbacks. See Jn re Homan, 116 B.R. 
+595, 605 (Bankr. S.D. Ohio 1990) (“This court has no 
+desire 
+to add additional proceedings 
+to its existing 
+docket, nor to increase the litigation expenses of parties 
+in Chapter 13 cases”). Under the Fourth Circuit’s hold- 
+ing in Strumpf, requests for emergency relief will become 
+routine in federal bankruptcy courts. 
+Ex parte litigation, however, will not provide financial 
+institutions with complete protection and is not a mean- 
+ingful substitute for an administrative hold. If banks are 
+denied the ability to freeze funds in which they claim a 
+right of setoff, they must move for ex parte protection 
+immediately upon becoming aware of the commence- 
+ment of the bankruptcy case. Where a depositor sends 
+43 
+notice of his bankruptcy filing, or the bank learns of the 
+filing through a notice to creditors, prior to the deposi- 
+tor’s withdrawal of his funds, ex parte relief may be 
+effective. 
+However, if the bank learns of the filing con- 
+temporaneously with a request for turnover of the funds, 
+ex parte action would not be effective. See In re Moreira, 
+173 B.R. 965, 968 (Bankr. D. Mass. 1994). If the request 
+for turnover is in the form of an over-the-counter with- 
+drawal, the bank cannot 
+stall its depositor while its 
+attorneys 
+run into court.“ The same is true for auto- 
+mated teller withdrawals, electronic transfer requests, 
+automatic bill pay arrangements, and other instantaneous 
+means by which funds 
+are withdrawn from a bank 
+account. If the request for turnover comes in the form of 
+a check, the bank must have its attorneys and the judicial 
+system act within the statutory midnight payment dead- 
+line for such instruments, See Jn re Patterson, 967 F.2d 
+505, 511 (11th Cir. 1992) (discussing the speed with 
+which a bank must act to obtain ex parte relief under the 
+midnight payment deadline), If ex parte relief is the only 
+means available to a bank to protect its rights, the bank 
+thus faces a substantial possibility of having no protec- 
+tion whatsoever. 
+Furthermore, banks deprived of the ability to protect 
+their security in the event of a customer’s bankruptcy (or 
+faced with the prospect of expensive ex parte litigation) 
+19 
+ding on the account type, for example, a certificate 
+of deposit, a bank may have a contractual or other right to delay 
+payment to its depositor. 
+However, if the account is a standard 
+checking account, like Strumpf's, or a demand deposit account, in 
+the usual course of business a bank must pay its depositor immedi- 
+ately, 
+
+
+[PDF PAGE 29]
+44 
+will have a strong incentive to accomplish setoff before 
+the prospective debtor files a bankruptcy petition. The 
+adoption of an interpretation of the Bankruptcy Code 
+which encourages banks to set off debts prior to bank- 
+ruptcy filings can only lead to a worsening of the finan- 
+cial positions of their customers, thereby possibly necessi- 
+tating, or at least hastening, a bankruptcy filing. 
+B. Strumpf May be Read as Requiring All Creditors 
+to Turn Over Property Subject to a Setoff Right 
+Upon Demand. 
+By denying a bank the right to impose an administra- 
+tive hold, the Fourth Circuit in Strumpf effectively held 
+that a bank cannot independently exercise its choice 
+under §542(b) not to turn over property in which it 
+claims a right of setoff. 
+A bank must immediately turn 
+over the subject funds (by, for example, permitting a 
+withdrawal or honoring a check) or violate §362(a). The 
+logic of Strumpf, if adopted by this Court, necessarily 
+would apply outside of the bank-depositor context. 
+Under the intepretation adopted by the Fourth Cir- 
+cuit, any debtor could demand immediate payment of 
+a debt owed to him by a creditor, despite the creditor’s 
+assertion of a right of setoff. For example, an impecuni- 
+ous debtor, “B”, has an outstanding, mature and unse- 
+cured debt of $10,000.00 owing to a creditor, “A”, and 
+A owes B $7,500.00. Both obligations arose prior to B’s 
+bankruptcy filing and are unquestionably mutual. Under 
+Strumpf, B may approach A and demand immediate 
+payment of the $7,500.00 debt (the equivalent of a 
+withdrawal demand). A would not be able to decline to 
+pay and seek relief from the automatic stay from the 
+bankruptcy court to set off the $7,500.00 against B’s 
+$10,000.00 debt. Instead, A would be required to turn 
+45 
+over the $7,500.00 to B, and be relegated to receive from 
+B’s bankruptcy estate a prorated distribution of funds 
+available for general creditors, which often is little or 
+nothing. The injustice is obvious: A has been forced to 
+pay B, but B, who is bankrupt, may end up paying little 
+or nothing of his $10,000.00 debt to A. Thus, B, under 
+the decision below, would be able to use the Bankruptcy 
+Code to divest the creditor, A, of A’s setoff right for 
+B’s own enrichment. 
+In a perfect world, the statutory stalemate between a 
+bank creditor and a debtor which is created upon the 
+debtor’s bankruptcy filing, see supra at 24-25, should 
+ensure that cash collateral is not dissipated. 
+See in re 
+Wildcat Constr. Co., Inc., 57 B.R. 981, 985-86 (Bankr. D. 
+Vt. 1986) (Since, if the bank is right about the status of 
+the funds it is holding in the debtor’s accounts, the debtor 
+may not use this cash collateral in any event, freezing the 
+accounts hardly seems necessary.. 
+. 
+. We refuse to pre- 
+sume either that most debtors are profligate or that most 
+banks are avaricious.“). 
+However, this is not a perfect 
+world and harsh reality requires, and the Code permits, 
+a bank to be allowed to impose an administrative hold on 
+a debtor’s account. As one commentator noted: 
+If this were Camelot, these provisions of the Bank- 
+ruptcy Code [§§ 362(a), 363, 506(a), 542(b), and 
+553] would, by themselves, impose the freeze. 
+Bankers would not put administrative holds on 
+debtors’ bank accounts 
+and debtors would not 
+attempt to withdraw funds from the account with- 
+out the bank’s permission or a court order obtained 
+upon a showing of adequate protection. 
+Paul 
+S. Groschadl, 
+“Freezing” 
+ihe 
+Debtor’s 
+Bank 
+Account: A Violation of the Automatic Stay?, 57 Am. 
+Bankr. L. J. 75, 77 (1983). 
+
+
+[PDF PAGE 30]
+46 
+If denied the ability to use a temporary hold, a finan- 
+cial institution would have no means of preventing its 
+depositor from drawing on his account. 
+As noted in the 
+Edgins case: 
+Creditors with a valid right of setoff under 11 U.S.C. 
+Section 553 would be required to turnover to the 
+debtor funds subject to setoff and thereafter attempt 
+to obtain an order from the court to preclude the 
+debtor from improvidently dissipating the funds. 
+This will, all too often, be an attempt to lock the 
+barn door after the horse has been stolen. 
+Edgins, 36 B.R. at 484 (emphasis added). A setoff 
+against an account with no funds is a meaningless act, and 
+no effective remedy exists by which a creditor can 
+retrieve the improperly removed funds. 
+See Williams, 
+61 B. 
+R. at 575.” 
+In view of the extreme liquidity of 
+funds on deposit, “permitting the temporary freeze serves 
+to give banks needed protection against the immediate 
+dissipation of its cash collateral and resulting destruction 
+of its right of setoff before it has an opportunity to be 
+heard in a bankruptcy court.” 
+Weintraub & Resnick, 
+supra, at 324. 
+20. Once cash collateral has been dissipated and spent, 
+court-fashioned sanctions such as retroactive adequate protec- 
+tion, appointment of a Chapter 11 trustee or prohibitions against 
+the further use of cash collateral can be hollow victories 
+for a 
+secured creditor and do not rise to the level of a ‘remedy.’ This 
+is especially true where all remaining property of the estate 
+is 
+encumbered and the cash which has been spent without permis- 
+sion cannot be replaced.” Jd. As a legal matter, a bank’s release 
+of funds may be viewed as a waiver and extinguish the bank’s 
+right of setoff. See Uniform Commercial Code §9-306(2) (1978). 
+See also, In re Archer, 34 B.R. 28, 30 (Bankr. N.D. Tex. 1983) 
+(release of funds could extinguish setoff rights although monies 
+constitute cash collateral, but holding that no waiver occurred). 
+47 
+The facts of this case vividly demonstrate the conse- 
+quences of depriving a financial institution of its right to 
+freeze a bank account pursuant to §542(b). 
+Citizens 
+initiated the process of determining the parties’ compet- 
+ing rights in the funds in the Debtor’s account by moving 
+for relief from the automatic stay. (J.A. 15a). The Bank 
+imposed an administrative hold due to its concern that if 
+the account was not frozen Citizens later would have 
+nothing to set off. Only after Citizens had requested the 
+bankruptcy court to grant relief did Strumpf move to 
+force Citizens to turn over the funds in which Citizens 
+claimed a setoff right.! 
+(J. A. 23a); (R.-t) (Strumpf’s 
+motion seeking release of administrative hold and turn- 
+over of funds). 
+Ironically, althought the bankruptcy 
+court heard Citizens’ motion for relief first, and later 
+heard Strumpf’s motion for contempt, the court ruled on 
+the contempt motion and found Citizens in contempt 
+before allowing it to exercise its valid right of setoff. 
+JA. 27a, 29a). 
+As Citizens predicted, by the time the 
+bankruptcy court subsequently ruled on Citizens’ motion, 
+Citizens’ cash colateral was gone. 
+The relief from the 
+automatic stay granted by the bankruptcy court to Citi- 
+zens was a meaningless and Pyrrhic victory. A right of 
+setoff without anything to set off against is worth little 
+more than the book in which it is found.” Jn re Davis, 
+889 F.2d 658, 662 (5th Cir. 1989), cert. denied, 495 U.S. 
+933 (1990). 
+21 Of course, a motion for turnover under § 542 is one of the 
+proper methods by which a debtor can obtain authorization to use 
+funds claimed by a creditor under a setoff right. See Edgins, 36 
+B.R. at 483 (discussing the various methods parties can use to 
+break the “statutory logjam”). 
+A debtor who genuinely needs 
+the funds for his own use may well be the party who first petitions 
+the bankruptcy court to determine the respective rights involved. 
+
+
+[PDF PAGE 31]
+48 
+CONCLUSION 
+The decision of the Fourth Circuit should be reversed 
+and the case remanded for entry of the original Order 
+issued by the district court. 
+Respectfully submitted, 
+JAMES R. EYLER 
+(Counsel of Record) 
+Of Counsel: 
+JEFFERSON V. WRIGHT 
+DANIEL L. RHOADS 
+IRVING E. WALKER 
+CITIZENS BANK OF 
+E. HUTCHINSON ROBBINS, JR. 
+MARYLAND 
+MILES & STOCKBRIDGE, P.C. 
+14401 Sweitzer Lane 
+10 Light Street 
+Laurel, Maryland 20707 
+Baltimore, Maryland 21202 
+(301) 206-6023 
+(410) 727-6464 
+Counsel for Petitioner. 
+
+
+[PDF PAGE 32]
+A-1 
+APPENDIX 
+11 U.S.C. §362 (1988) 
+(a) Except as provided in subsection (b) of this section, 
+a petition filed under section 301, 302, or 303 of this 
+title, or an application filed under section 5(a)(3) of the 
+Securities Investor Protection Act of 1970 (15 U.S.C. 
+78eee(a)(3)), operates as a stay, applicable to all entities, 
+of — 
+(1) the commencement or continuation, including 
+the issuance or employment of process, of a judicial, 
+administrative, or other action or proceeding against 
+the debtor that was or could have been commenced 
+before the commencement of the case under this title, 
+or to recover a claim against the debtor that arose 
+before the commencement of the case under this title; 
+(2) the enforcement, against the debtor or against 
+property of the estate, of a judgment obtained before 
+the commencement of the case under this title; 
+(3) any act to obtain possession of property of the 
+estate or of property from the estate or to exercise 
+control over property of the estate; 
+(4) any act to create, perfect, or enforce any lien 
+against property of the estate; 
+(5) amy act to create, perfect, or enforce against 
+property of the debtor any lien to the extent that such 
+lien secures a claim that arose before the commence- 
+ment of the case under this title; 
+(6) any act to collect, assess, or recover a claim 
+against the debtor that arose before the commence- 
+ment of the case under this title; 
+
+
+[PDF PAGE 33]
+A-2 
+(7) the setoff of any debt owing to the debtor that 
+arose before the commencement of the case under this 
+title against any claim against the debtor; and 
+(8) the commencement or continuation of a pro- 
+ceeding before the United States Tax Court concem- 
+ing the debtor. 
+R 
+* * 
+d) On request of a party in interest and after notice 
+and a hearing, the court shall grant relief from the stay 
+provided under subsection (a) of this section, such as by 
+terminating, annulling, modifying, or continuing such 
+stay — 
+(1) for cause, including the lack of adequate pro- 
+tection of an interest in property of such party in 
+interest; or 
+(2) with respect to a stay of an act against prop- 
+erty under subsection (a) of this section, if — 
+(A) the debtor does not have an equity in such 
+property; 
+and 
+(B) such property is not necessary to an effective 
+reorganization. 
+(e) Thirty days after a request under subsection (d) of 
+this section for relief from the stay of any act against 
+property of the estate under subsection (a) of this sec- 
+tion, such stay is terminated with respect to the party in 
+interest making such request, unless the court, after 
+notice and a hearing, orders such stay continued in effect 
+pending the conclusion of, or as a result of, a final 
+hearing and determination under subsection (d) of this 
+section. 
+A hearing under this subsection may be a pre- 
+liminary hearing, or may be consolidated with the final 
+hearing under subsection (d) of this section. The court 
+A-3 
+shall order such stay continued in effect pending the 
+conclusion of the final hearing under subsection (d) of 
+this section if there is a reasonable likelihood that the 
+party opposing relief from such stay will prevail at the 
+conclusion of such final hearing. 
+If the hearing under 
+this subsection is a preliminary hearing, then such final 
+hearing shall be commenced not later than thirty days 
+after the conclusion of such preliminary hearing. 
+R 
+* 
+* 
+
+
+[PDF PAGE 34]
+A-4 
+11 U.S.C. 8363 (1988) 
+(a) In this section, “cash collateral” means cash, nego- 
+tiable instruments, documents of title, securities, deposit 
+accounts, or other cash equivalents whenever acquired 
+in which the estate and an entity other than the estate 
+have an interest and includes the proceeds, products, 
+offspring, rents, or profits of property subject to a secur- 
+ity interest as provided in section 552(b) of this title, 
+whether existing before or aficr the commencement of 
+a case under this title. 
+R 
+K 
+* 
+(c) 
+(1) If the business of the debtor is authorized to be 
+operated under section 721, 1108, 1304, 1203, or 1204 
+of this title and unless the court orders otherwise, the 
+trustee may enter into transactions, including the sale or 
+lease of property of the estate, in the ordinary course of 
+business, without notice or a hearing, and may use prop- 
+erty of the estate in the ordinary course of business with- 
+out notice or a hearing. 
+(2) The trustee may not use, sell, or lease cash col- 
+lateral under paragraph (1) of this subsection unless — 
+(A) each entity that has an interest in such cash 
+collateral consents; or 
+(B) the court, after notice and a hearing, author- 
+izes such use, sale, or lease in accordance with the 
+provisions of this section. 
+(3) Any hearing under paragraph (2)(B) of this sub- 
+section may be a preliminary hearing or may be con- 
+solidated with a hearing under subsection (c) of this 
+section, but shall be scheduled in accordance with the 
+needs of the debtor. 
+If the hearing under paragraph 
+(2)(B) of this subsection is a preliminary hearing, the 
+A-5 
+court may authorize such use, sale, or lease only if 
+there is a reasonable likelihood that the trustee will 
+prevail at the final hearing under subsection (e) of this 
+section. 
+The court shall act promptly on any request 
+for authorization under paragraph (2)(B) of this sub- 
+section. 
+(4) Except as provided in paragraph (2) of this 
+subsection, the trustee shall segregate and account 
+for any cash collateral in the trustee’s possession, 
+custody, or control. 
+(d) The trustee may use, sell, or lease property under 
+subsection (b) or (c) of this section only to the extent 
+not inconsistent with any relief granted under section 
+362(c), 362(d), 362(e), or 362(f) of this title. 
+(e) Notwithstanding any other provision of this se 
+tion, at any time, on request of an entity that has an 
+interest in property used, sold, or leased, or proposed 
+to be used, sold, or leased, by the trustee, the court, with 
+or without a hearing, shall prohibit or condition such use, 
+sale, or lease as is necessary to provide adequate protec- 
+tion of such interest. 
+E 
+* 
+* 
+
+
+[PDF PAGE 35]
+A-6 
+11 U.S.C. §506 (1988) 
+(a) An allowed claim of a creditor secured by a lien on 
+property in which the estate has an interest, or that is 
+subject to setoff under section 553 of this title, is a 
+secured claim to the extent of the value of such creditor’s 
+interest in the estate’s interest in such property, or to the 
+extent of the amount subject to setoff, as the case may 
+be, and is an unsecured claim to the extent that the value 
+of such creditor’s interest or the amount so subject to 
+setoff is less than the amount of such allowed claim. 
+Such value shall be determined in light of the purpose of 
+the valuation and of the proposed disposition or use of 
+such property, and in conjunction with any hearing 
+on such disposition or use or on a plan affecting such 
+creditor’s interest. 
+R 
+* 
+A-7 
+11 U.S.C, §542 (1988) 
+(a) Except as provided in subsection (c) or (d) of this 
+section, an entity, other than a custodian, in possession, 
+custody, or control, during the case, of property that the 
+trustee may use, sell, or lease under section 363 of this 
+title, or that the debtor may exempt under section 522 
+of this title, shall deliver to the trustee, and account for, 
+such property or the value of such property, unless such 
+property is of inconsequential value or benefit to the 
+estate. 
+(b) Except as provided in subsection (c) or (d) of this 
+section, an entity that owes a debt that is property of the 
+estate and that is matured, payable on demand, or pay- 
+able on order, shall pay such debt to, or on the order of, 
+the trustee, except to the extent that such debt may be 
+offset under section 553 of this title against a claim 
+against the debtor. 
+(c) Except as provided in section 362(a)(7) of this 
+title, an entity that has neither actual notice nor actual 
+knowledge of the commencement of the case concerning 
+the debtor may transfer property of the estate, or pay a 
+debt owing to the debtor, in good faith and other than in 
+the manner specified in subsection (d) of this section, to 
+an entity other than the trustee, with the same effect as 
+to the entity making such transfer or payment as if the 
+case under this title concerning the debtor had not been 
+commenced. 
+R 
+* 
+* 
+
+
+[PDF PAGE 36]
+A-8 
+11 U.S.C. §553 (1988) 
+(a) Except as otherwise provided in this section and 
+in sections 362 and 363 of this title, this title does not 
+affect any right of a creditor to offset a mutual debt 
+owing by such creditor to the debtor that arose before 
+the commencement of the case under this title against a 
+claim of such creditor against the debtor that arose 
+before the commencement of the case, except to the 
+extent that— 
+(1) the claim of such creditor against the debtor is 
+disallowed other than under section 502(b)(3) of this 
+title; 
+(2) such claim was transferred, by an entity other 
+than the debtor, to such creditor— 
+(A) after the commencement of the case; or 
+(B) (i) after 90 days before the date of the filing 
+of the petition; and 
+(ii) while the debtor was insolvent; or 
+(3) the debt owed to the debtor by such creditor 
+was incurred by such creditor— 
+(A) after 90 days before the date of the filing 
+of the petition; 
+(B) while the debtor was insolvent; and 
+(C) for the purpose of obtaining a right of setoff 
+against the debtor. 
+(b)(1) Except with respect 
+to a setoff of a kind 
+described in sections 362(b)(6), 362(b)(7), 362(b)(14), 
+364(h)(2) or 365(i)(2), of this title, if a creditor offsets 
+a mutual debt owing to the debtor against a claim against 
+the debtor on or within 90 days before the date of the 
+filing of the petition, then the trustee may recover from 
+such creditor the amount so offset to the extent that any 
+A-9 
+insufficiency on the date of such setoff is less than the 
+insufficiency on the later of— 
+(A) 90 days before the date of the filing of the 
+petition; and 
+(B) the first date during the 90 days immediately 
+preceding the date of the filing of the petition on 
+which there is an insufficiency. 
+(2) In 
+this 
+subsection, 
+“insufficiency” 
+means 
+amount, if any, by which a claim against the debtor 
+exceeds a mutual debt owing to the debtor by the 
+holder of such claim. 
+(c) For the purposes of this section, the debtor is 
+presumed to have been insolvent on and during the 90 
+days immediately preceding the date of the filing of the 
+petition. 
+R 
+* 
+* 

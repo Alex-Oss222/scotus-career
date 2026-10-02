@@ -1,0 +1,1774 @@
+No. q 3-G0'G 
+
+
+IN THE 
+
+
+SUPREME COURT OF THE UNITED STATES 
+
+
+October Term, 1994 
+
+
+Surreme Court, U.S. | 
+FILE ) 
+
+
+n 45 
+>= 19 829 LEM DAVIS TUGGLE, JR., 
+
+
+OFFICE OF THE CLERA 
+
+
+aa, 
+
+
+Petitioner, 
+
+
+vs. 
+
+
+J. D. NETHERLAND, WARDEN 
+
+
+Respondent. 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+
+
+Mark E. Olive Alexander H. Slaughter Timothy M. Kaine 
+Donald R. Lee, Jr. Dorothy C. Young Helen L. Konrad 
+(Counsel of Record) Shannon E. Sinclair Mezzullo & McCandlish 
+Virginia Capital Repre- McGuire, Woods, Battle 1111 E. Main Street 
+sentation Resource Center & Boothe, L.L.P. Richmond, VA 23219 
+1001 East Main Street 901 E. Cary Street (804) 775-3100 
+Richmond, VA 23219 Richmond, VA 23219 
+
+
+(804) 643-6845 (804) 775-1000 
+
+
+CAPITAL CASE: Execution Date Scheduled September 21, 1995 
+
+
+QUESTIONS PRESENTED 
+
+A state psychologist interviewed Petitioner, a capital 
+defendant, as the basis for an opinion that Petitioner posed a 
+danger in the future. The interview was in violation of a trial 
+court order and defense counsel were not notified. Once counsel 
+became aware of the interview and prospective prosecution 
+testimony, they sought to retain a defense expert to rebut the 
+state’s psychological testimony and assist in the sentencing 
+defense. The trial court forbade Petitioner to engage an expert 
+and allowed the state psychologist to testify in his capital 
+sentencing that he posed a future danger. The jury found the 
+"future dangerousness" aggravating circumstance and exercised its 
+discretion, based on all evidence before it, to sentence the 
+Petitioner to death. 
+
+The District Court concluded, inter alia, that (a) the state’s 
+use against Petitioner of psychological testimony based on an 
+uncounseled interview violated Estelle _v. Smith, 451 U.S. 454 
+(1981), and (b) the trial court’s refusal to allow the defendant to 
+retain his own defense expert violated Ake v. Oklahoma, 470 U.S. 68 
+(1985). The Court of Appeals accepted that the sentencing was 
+unconstitutional, but affirmed the death sentence by invalidating 
+the jury’s "future dangerousness" aggravating circumstance and 
+ruling that the sentencing jury’s additional finding of the 
+
+
+"“vileness" aggravating circumstance sufficiently supported the 
+
+
+death sentence. 
+
+
+questions: 
+
+
+When the state introduces expert testimony on 
+psychiatric issues at a capital sentencing 
+proceeding in violation of Estelle v. Smith, 
+451 U.S. 454 (1981), and when the indigent 
+defendant has no opportunity to prepare a 
+defense to such testimony because he was 
+denied the assistance of an independent expert 
+
+
+in violation of Ake v. Oklahoma, 470 U.S. 68 
+
+
+(1985), does Zant v. Stephens, 462 U.S. 862 
+(1983) allow the resulting unconstitutional 
+
+
+death sentence to stand because there remains, 
+ostensibly, one valid aggravating 
+circumstance? 
+
+
+Was the "“vileness" aggravating circumstance valid, 
+notwithstanding that the jury and appellate court 
+acted without any sufficient limiting construction 
+of the same circumstance that this Court found 
+
+
+facially unconstitutional in Godfrey v. Georgia, 
+446 U.S. 420 (1980)? 
+
+
+Under the rule of Turner v. Murray, 476 U.S. 28 
+(1986) and Mu'Min v. Virginia, 500 U.S. 415 (1991), 
+may a trial court constitutionally refuse to 
+conduct individualized voir dire of jurors or 
+allow defense challenges for cause in a capital 
+case when (a) members of the jury, including the 
+foreman, had been publicly criticized by the 
+prosecutor for rendering a lenient verdict ina 
+murder trial that ended a few days before 
+Petitioner’s trial began; (b) jurors had been 
+contacted by the press before trial and asked to 
+justify their lenient verdict in the previous case; 
+and (c) four jurors were exposed before trial to 
+critically inaccurate and prejudicial press 
+accounts of Petitioner’s prior record? 
+
+
+When the prosecution’s expert could not conclude 
+whether penetration had occurred, could any 
+“rational trier of fact" conclude that’ the 
+Petitioner was guilty of rape, beyond a reasonable 
+doubt? 
+
+
+This case accordingly presents the following 
+
+
+TABLE OF CONTENTS 
+
+
+QUESTIONS PRESENTED . i-ii 
+TABLE OF CONTENTS iii 
+TABLE OF AUTHORITIES iv-vii 
+OPINIONS BELOW 2 
+JURISDICTION 2 
+CONSTITUTIONAL PROVISIONS INVOLVED 2 
+STATEMENT OF THE CASE . 2 
+A) Tuggle’s Trial .. 3 
+B) Tuggle’s Direct Appeal > * ; 9 
+C) Tuggle’s Habeas Corpus Proceeding 11 
+REASONS FOR GRANTING THE WRIT . 13 
+1. The Fourth Circuit’s Holding that this Court’s 
+Opinion in Zant v. Stephens Cured Admitted 
+Constitutional Error in Tuggle’s Capital Sentencing 
+Conflicts with Zant, Other Controlling Decisions 
+of this Court and Decisions of the Eleventh Circuit 
+and the Virginia Supreme Court . 13 
+2. The Fourth Circuit’s Holding that Virginia Courts 
+Properly Affirmed the Petitioner's Death Sentence 
+Under The Sentencing Jury’s "Vileness" Sats Sia is 
+in Conflict with Decisions of this Court. 21 
+3. The Fourth Circuit’s Holding that Individualized 
+Voir Dire was Not Required to Explore the Impact of 
+Prosecutorial Criticism of Jurors, Press Contact of 
+Jurors and Prejudicial Pre-Trial Publicity is 
+Contrary to this Court’s Rulings in Capital Cases. 
+tit. 2 eo sn Rie Mee eb a 6 ee eee oe 27 
+4. The Inability of the State’s Pathologist to 
+Determine Whether there was Penetration Compels the 
+Conclusion that no "Rational Trier of Fact" Could 
+have found Tuggle Guilty of Murder ante > the 
+Commission of Rape. ; ; , » 30 
+CONCLUSION 33 
+CERTIFICATE OF SERVICE 35 
+
+
+iii 
+
+
+(19922) 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases 
+
+
+47@ U.S. GB (2908) «©. «© «© se we we ws « Be Be 
+
+
+113 S.Ct. 1534, (1993) 
+
+
+655 F.2d 692 (Sth Cir. 1981) 
+
+
+229 Va. 501, 331 8S. E. 2d 407 aptupeds cert. 
+
+
+denied, 
+475 U.S. 1031 (1986) ae 
+
+
+722 F. Supp. 1268, 1308-14 (N.D.Ga. 1989) 
+
+
+90@ F.2d 695 (llth Cir. 1990) 
+
+
+472 U.S. 320 (1985) 
+
+
+463 U.S. 992, 1983) 
+
+
+494 U.S. 738 (1990) . 
+244 Va. 129, 419 S.E.2d 656, cert. denied, 
+
+
+S65B Gels Gee CO9GR) « 2 wc ew wee eee eo B BD 2 
+
+
+10-13, 
+
+
+19 F.3d 899 (4th Cir.) (1994), cert denied 115 S.Ct. 
+
+
+446 U.S. 420, (1980) 
+
+
+23'7 Va. 303, 377 s. E.2d 595, ‘Saxk. ‘aanied. 
+(1:989) . ; 
+
+
+7510 F.2d 1238 (4th Cir. 
+
+
+iv 
+
+
+. 3, 
+
+
+1964), cert denied 470 U.S. 
+
+
+113 S.Ct. 
+
+
+298 . 
+
+
+21, 
+
+
+491 U.S. 910 
+
+
+1088 
+
+
+17- 
+
+
+18- 
+
+
+423 
+
+
+22, 
+
+
+20 
+
+
+21 
+
+
+13 
+
+
+25 
+
+
+19 
+
+
+19 
+
+
+29 
+
+
+30 
+
+
+18 
+
+
+25 
+
+
+36 
+
+
+24 
+
+
+25 
+
+
+16 
+
+
+Jackson v. Virginia, 443 U.S. 307 (1979) ...... 31, 33, 36 
+ctrawderman_y. Commonwealth. — 200 Va. 855, 108 S.E.2d 376 
+
+
+; (1959) ... eS eres ee 
+he ne 
+ge Eh ee es 
+228 Va. 427, 323 S. E.2d 554 (3808). cart - denied. 472 U.S. 1012 
+ss eae ve © i a ae ' 
+244 Va. 1, 419 S.E.2d 606, cert. denied, 113 S.Ct. 421 (1992)25 
+ag EE, ee re Se : 
+ee cS kee & ean tee ee 
+i Se 
+oe vue apes eeen Gis. 2908) . « « « « « Be 88e 800 Me BD 
+pg kg EE re, er ; 
+San Ga. 658, BaD ©.8.238 688 (29006) . . . « ce ce 6 0 0 Be Be 88 
+es Ge ee A ee ee Tuggle v. Commonwealth, 230 Va. 99, 334 S.E.2d 838 (1985) 
+cert. denied, Tuggle v. Virginia, 478 U.S. 1010 (1986) .. 10 
+Mu‘Min v. Virginia, 500 U.S. 415 (1991) ........ 3, 27, 29 
+Tuggle v. Thompson, 854 F. Supp. 1229 
+roe . oe. eo 8! ee, i Se Oe. eee. 6S 
+244 Va. 386, 422 S.E. 2d 380 (1993), cext. denied. 
+113 S.Ct. 1880 (1993) ... ys Sa oo! Tuggle v. Virginia, 471 U.S. 1096 (1985) ......+54+5+ ++ 10 
+~ Tuilaepa v. California 
+229 Va. 401, 329 S. E.2d 815, sext. ahaa Ts a ee ee Oe ee ee 
+474 U.S. 865 (1985) .. OR eS) 
+, 234 Va. 543, 364 
+. S.E.2d 483, cert. denied, 486 U.S. 1017 (1988) ...... 2 
+Re A 
+Turner v. Murray, 476 U.S. 28 (1986) ...... +. +. + 3, 27, 28 
+4 og 6 gS ee a ae Walton v. Arizona, 497 U.S. 639 (1990) . . . «©» «» «© «© «© «© «© 22 
+Simmons v. South Carolina Zant v. Stephens, 462 U.S. 862 (1983) ...... . 3, 10, 12-20 
+ee 
+Virginia Code 
+219 Va. 455, 478, 248 S.E.2d 135 (1978) (cexk denied, 
+441 U.S. 967 (1979) ... : — 2 « 20°86, 26-86 . Se 8 @® FF *§ BR ee a es eae ee Gee i a ee ae 
+' or ee Sen ie 4 a, es ot 6 eee Soe 6 i es a @ 
+ees Se Ss od ae Gs 0) 6 0 & Crete we. & eee Se 
+i, eee ee oe 8 Ue Bidte es 6 ered se « «0 
+245 Va. 222, 427 S.E.2d 394, cert. denied, 114 S.Ct. 143 Va. Code § 19.2-264.2 ee J mabe 8 6.88 0 e+ eb 6 ete ae 
+| ae —_ ' ' io ee 
+v vi 
+
+
+Qther Authorities 
+Amendment IV to the United States Constitution 
+
+
+Amendment V to the United States Constitution 
+Amendment VI to the United States Constitution 
+Amendment VII to the United States Constitution 
+Amendment XIV to the United States Constitution 
+Supreme Court Rule 10(a) (c) 
+
+Supreme Court Rule 10(c) 
+
+Supreme Court Rule 14.1/(g) (i) 
+
+28 U.S.C. Sec. 1254(1) 
+
+
+vii 
+
+
+NO. 
+
+
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+
+
+October Term 1994 
+
+
+LEM DAVIS TUGGLE, JR., 
+Petitioner, 
+VS. 
+
+
+J. D. NETHERLAND, WARDEN, 
+
+
+Petitioner Lem Davis Tuggle, Jr. (Tuggle), a Virginia inmate 
+under sentence of death, respectfully prays that a writ of 
+certiorari issue to review the judgment of the United States Court 
+of Appeals for the Fourth Circuit reversing a writ of habeas corpus 
+granted him by the United States District Court for the Western 
+District of Virginia. 
+
+
+OPINIONS BELOW 
+The opinion of the Court of Appeals is reported in Tuggle v. 
+Thompson, 57 F.3d 1356 (4th Cir. 1995) and appears in Appendix A to 
+this Petition. The opinion of the District Court for the Western 
+District of Virginia is reported as Tuggle v. Thompson, 854 F. 
+Supp. 1229 (W.D. Va. 1994) and appears in Appendix B to this 
+
+
+Petition. 
+
+
+JURISDICTION 
+The Court of Appeals Opinion in this matter was filed on June 
+29, 1995. A timely Petition for Rehearing wes filed on July 13, 
+1995. The Court of Appeals’ denial of the Petition for Rehearing 
+was issued on July 25, 1995 and is set forth in Appendix C. The 
+Court’s jurisdiction is invoked under Title 28 U.S.C. § 1254(1). 
+
+
+CONSTITUTIONAL PROVISIONS INVOLVED 
+Amendments V, VI, VIII and XIV to the United States 
+
+
+Constitution are set forth in Appendix D. 
+
+
+STATEMENT OF THE CASE 
+Lem Davis Tuggle, Jr. was convicted of the capital offense of 
+murder during the commission of rape and sentenced to die by the 
+Circuit Court of Smyth County, Virginia in 1984. His case wrs so 
+controversial that, even today, a framed copy of his death warrant 
+adorns the wall of the Smyth County Circuit Court Record Room, the 
+
+
+only document from any case in the county’s history that is 
+
+
+displayed in that fashion. All courts that have considered this 
+case have concluded that Tuggle was sentenced in violation of the 
+United States Constitution. Indeed, the Virginia Attorney General 
+conceded in 1985 that Tuggle was entitled to be re-sentenced. But, 
+no re-sentencing has occurred and the Virginia Attorney General now 
+presses for Petitioner’s execution. 
+
+A) Tuggle’s Trial 
+
+The offense for which Tuggle was convicted occurred on May 29, 
+1983. The victim died of a single gunshot wound to the chest. 
+App. 123.* Semen was found in the victim’s rectum, but there was 
+no evidence of any injury there. App. 133, 143. No semen was 
+found in the victim’s vagina, but the examiner performing the 
+autopsy testified at the preliminary hearing that the condition of 
+the body suggested “either manipulation or penetration" of the 
+vagina. App. 20. When pressed whether the condition was just as 
+likely caused by manipulation as by penetration, the examiner 
+testified “without the finding of seminal fluid, spermatozoa in the 
+vaginal vault, I would say it would be just as likely. There is no 
+way to determine." Id. 
+
+Upon motion of Tuggle’s counsel, the trial court ordered state 
+mental health professionals to examine Tuggle, explicitly confining 
+
+
+the order to an examination of (1) Tuggle’s sanity at the time of 
+
+
+* Record citations refer to the Joint Appendix that the 
+parties filed in the United States Court of Appeals for the Fourth 
+Circuit. These references demonstrate that the federal issues 
+pursued in this Petition were properly raised in the state trial 
+court. Pursuant to Supreme Court Rule 14.1(g) (i), the specified 
+record references are included as Appendix E to this Petition. 
+
+
+3 
+
+
+the offense and (2) his competence to stand trial. App. 30. The 
+Virginia statute governing such examinations estahlished that 
+nothing said during the course of such an evaluation could be used 
+against Tuggle at trial “as evidence or as a basis for such 
+evidence" unless he elected to assert a defense based on diminished 
+mental status. Va. Code § 19.2-169. 
+
+Tuggle was transferred to a state hospital where Doctor Arthur 
+Centor interviewed him pursuant to the trial court’s order and 
+informed the court that, in his opinion, Tuggle was sane and could 
+assist in his defense. App. 39-40. Centor also informed the court 
+that he, of his own accord, had examined Tuggle to develop an 
+opinion of the defendant’s "future dangerousness." Centor did so 
+even though the court order referring Tuggle for examination had 
+not requested any such opinion, and defense counsel was not 
+informed that such an evaluation would be made. App. 39-40, 191. 
+
+Upon learning about Dr. Centor’s expanded examination of their 
+client, Tuggle’s counsel moved for evaluation by an independent 
+psychiatrist to help them prepare a defense for Tuggle. App. 4I- 
+42. Trial counsel offered to pay for such an investigation from 
+their own funds because the court had denied a previous request for 
+such expert assistance. App. 28-29, 38. The trial court denied 
+the motion. App. 57-62. 
+
+Several weeks before trial, Tuggle’s counsel moved for a 
+change of venue due to inaccurate and prejudicial publicity that 
+the case had received in the months leading up to trial. App. 43. 
+
+
+Some of the publicity wrongly stated that Tuggle had previously 
+
+
+been convicted of rape. App. 45-48. Another article reported that 
+Tuggle was suspected of the rape of a young girl in a nearby county 
+for which he was never charged. App. 46. These inaccuracies 
+were critical because, without the rape charge, Tuggle would not 
+have been charged with capital murder.’ Three articles reported 
+that capital murder in Virginia carried a mandatory death sentence. 
+App. 46, 52, 116. The trial court denied the motion to change 
+venue, conditioned on the ability to select an unbiased jury 
+following voir dire. App. 74-76. 
+
+On the night before trial, Tuggle’s counsel learned that some 
+members of the venire from which the Tuggle jury was to be selected 
+had been contacted by a member of the Sheriff's Department and by 
+Terry Hawthorne, a reporter for the Smyth County News, apparently 
+concerning their performance as jurors in a murder trial that had 
+occurred a few days earlier. App. 78-79. In that trial, the 
+jurors convicted the defendant of a crime less than the charged 
+offense of first degree murder and the local prosecutor publicly 
+criticized the jurors, calling their verdict a "travesty of 
+justice." App. 79, 117-18. 
+
+On the morning of trial, Tuggle’s counsel informed the trial 
+court that the Sheriff and press had contacted members of the jury 
+venire about the sufficiency of their verdict in the prior case. 
+Id. Given the nature of the prosecutor’s comments about the 
+
+
+jurors, and the possibility of embarrassment and intimidation, 
+
+
+* The capital charge in Tuggle’s case was murder during the 
+commission of rape. At the time, murder during \the commission of 
+sodomy was not a capital crime in Virginia. 
+
+
+5 
+
+
+defense counsel asked for the opportunity to voir dire the jury 
+about such contacts or to summon those who had contacted members of 
+the venire for questioning. App. 78-79. The trial court denied 
+both requests. App. 79. 
+
+When the first twenty members of Tuggle’s venire were called 
+for voir dire, eight panel members immediately indicated in the 
+presence of the other venire members that they had formed an 
+opinion as to Tuggle’s guilt. App. 82-84.’ Once these jurors were 
+excused, the venire still contained five members who had been 
+contacted before trial either by a member of the Sheriff’s 
+Department or by a representative of the local media. App. 90-91. 
+Ten members of the venire indicated that they had read articles 
+about the Tuggle case, including the article that referred to a 
+prior homicide and that contained the false reports that Tuggle had 
+a previous rape conviction and was suspected in another rape case. 
+App. 94-107. Despite counsel’ s request, the trial court refused to 
+allow any individualized voir dire of these jurors and would not 
+allow any questions about the content of what they had read. App. 
+80, 95. 
+
+After general questioning of the jury panel was complete, the 
+trial court declared the panel qualified and told Tuggle’s counsel 
+to commence their peremptory strikes. App. 113-14. Tuggle’s 
+
+
+counsel asked for the opportunity to challenge jurors for cause 
+
+
+outside their hearing, but the trial court refused to hear any 
+
+
+> After excusing the eight jurors from the panel, the trial 
+
+
+court once again refused to change the venue of the trial. App. 
+113. 
+
+
+challenges for cause. Id. The jury ultimately seated in Tuggle’s 
+
+
+case included at least five individuals who had read articles 
+concerning the case (four read the article that contained the false 
+rape information) and three individuals who were subject to pre- 
+trial contacts. App. 89-114, 119.‘ 
+
+On the afternoon of the first day of trial, Tuggle’s counsel 
+received a copy of the Smyth County News of that day, confirming 
+that some of the jurors who were sitting on Tuggle’s jury had been 
+contacted by the paper and asked to explain why they arrived at the 
+assertedly lenient verdict in the murder case tried a few days 
+before. App. 146. One of the jurors sitting on the Tuggle case, 
+Robert Brown, was quoted as saying that the defendant should have 
+received a maximum sentence rather than that actually imposed. 
+App. 118. Mr. Brown was later selected foreman of the Tuggle jury. 
+App. 245. Tuggle’s counsel moved for a mistrial because of the 
+article. The trial judge refused even to read the article and 
+summarily denied the motion. App. 146, 149-50. 
+
+During the trial, the Commonwealth introduced expert testimony 
+from its pathologist on the rape evidence. App. 120-44. # The 
+
+
+pathologist explained that there was no internal vaginal injury. 
+
+
+* This is one of the few areas of factual dispute in the 
+case. The Commonwealth contends that only one of the jurors, the 
+foreman Robert Brown, had previously been contacted by the media. 
+The trial transcript is admittedly murky on this point, but it 
+appears that five members of the Tuggle venire (Catron, Anderson, 
+Dunford, Eastridge and Brown) sat on the previous jury and all five 
+had been contacted either by law enforcement or media 
+representatives. App. 90. Catron and Anderson were struck, 
+leaving the remaining three jurors to sit in Tuggle’s trial. App. 
+119. 
+
+
+App. 139, 143. The prosecution elicited testimony that the 
+condition of the body suggested penetration by “something, a penis, 
+a finger, an object, something." App. 124. But, on cross- 
+examination, the medical examiner admitted that the body’s 
+condition was consistent with either "manipulation or penetration" 
+of the vagina. App. 143. Because the court had denied Tuggle’s 
+motion for an expert pathologist, the defense could put on no 
+affirmative evidence challenging the rape charge. The jury 
+convicted Tuggle of murder during the commission of rape. App. 
+245. 
+
+During the sentencing phase of Tuggle’s trial, the prosecution 
+called Dr. Arthur Centor to testify about Tuggle’s future 
+dangerousness. App. 185-87, 192-93, 199-205. Tuggle objected to 
+the testimony on the ground that the trial court’s commitment 
+order had not authorized Centor to examine the defendant’s future 
+dangerousness, and defense counsel were given no notice that such 
+an examination would take place. App. 188-191. The trial court 
+overruled the objection and Centor testified that Tuggle showed "a 
+high probability of future dangerousness." App. 202. Because 
+defense counsel’s repeated requests to retain an independent 
+psychiatric expert, either at the state’s or their own expense, had 
+been denied, they could not offer evidence to counter the 
+professional testimony of Dr. Centor. 
+
+In instructing the jury on the "vileness" aggravating 
+circumstance, the trial court told the jury it could impose the 
+
+
+death penalty if it found that Tuggle’s conduct in committing the 
+
+
+crime “was outrageously or wantonly vile, horrible or inhuman, in 
+that it involved torture, depravity of mind, or aggravated battery 
+to the victim beyond the minimum necessary to accomplish the act of 
+murder." App. 242. Tuggle’s counsel sought specific instructions 
+defining the terms “aggravated battery" and "depravity of mind" but 
+the trial court refused to allow any definition. App. 244. 
+
+In closing argument at the sentencing phase of the trial, the 
+Smyth County prosecutor relied heavily on Dr. Centor’s testimony 
+that Tuggle would endanger others inthe future. App. 229, 233-34. 
+The jury recommended a sentence of death, finding both the 
+"vileness" and "future dangerousness" aggravating circumstances 
+provided by Virginia law. App. 245; Va. Code 19.2-264.4(C). 
+
+B) Tuggle’s Direct Appeal 
+
+The Virginia Supreme Court affirmed Tuggle’s conviction and 
+sentence on appeal, relying on Dr. Centor’s testimony as one of the 
+grounds for the affirmance. Tuggle v. Commonwealth, 228 Va. 493, 
+517, 323 S.E.2d 539, 554 (1984) (Tuggle J). The court rejected 
+Tuggle’s claim that he was entitled to psychiatric assistance in 
+his capital sentencing and found that he had waived his Sixth 
+Amendment rights when he spoke with Dr. Centor at Central State 
+Hospital. The Court also found that there was sufficient evidence 
+to convict Tuggle of rape and that the "vileness" instruction 
+delivered to his jury was not unconstitutionally vague. With 
+respect to his numerous claims that his right to impartial jury was 
+violated, the court upheld the trial court’s refusal to allow 
+
+
+individualized voir dire on the effect of the jurors’ exposure to 
+
+
+inaccurate press and also affirmed the trial court’s refusal to 
+allow any voir dire concerning pre-trial contact of jurors by the 
+Sheriff and local media. The court did note that the trial court’s 
+refusal to allow challenges for cause was contrary to law, but 
+found that Tuggle’s counsel had not adequately preserved the issue 
+because they did not separately proffer which jurors they would 
+have challenged. 
+
+This Court granted Tuggle’s certiorari petition, vacated the 
+judgment in his case and remanded the case to the Virginia Supreme 
+Court in light of the decision in Ake v. Oklahoma, 470 U.S. 68 
+(1985). Tuggle v. Virginia, 471 U.S. 1096 (1985). On remand, the 
+Virginia Attorney General conceded that Tuggle must be re-sentenced 
+because of the Ake error. The Virginia Supreme Court refused to 
+accept the concession. Although it acknowledged the Ake error and 
+struck down the "future danger" aggravating circumstance, it held 
+that the jury’s finding of "vileness" was sufficient by itself to 
+affirm the death sentence under Virginia’s "non-weighing" capital 
+sentencing structure, citing Zant v. Stephens, 462 U.S. 862 (1983). 
+Without evaluating the effect that the psychiatric testimony and 
+argument might have had on the sentencing jury in its analysis of 
+the "vileness" circumstance and in its discretionary decision to 
+
+
+impose the death penalty, the Virginia Supreme Court re-affirmed 
+
+
+the sentence. Tuggle v. Commonwealth, 230 Va. 99, 110-11, 334 
+
+
+S.E.2d 838, 845-46 (1985) (Tuggle II), cert denied, Tuggle v. 
+Virginia, 478 U.S. 1010 (1986). In affirming the death sentence, 
+
+
+the court did not perform the proportionality and arbitrariness 
+
+
+10 
+
+
+review required by Virginia statute. Va. Code § 17.2-110.1(C). 
+
+C) Tuggle’s Habeas Corpus Proceeding 
+
+Tuggle filed his petition for state habeas corpus relief in 
+October 1986. The petition was denied in March 1991 and his appeal 
+to the Virginia Supreme Court was unsuccessful.* In September 
+1992, Tuggle filed a federal habeas corpus petition in the United 
+Sttates District Court for the Western District of Virginia. On 
+June 8, 1994, the district court granted his habeas petition on 
+seven independent grounds, finding that the circumstances of 
+Tuwggle’s trial demonstrated an “extreme willingness to sidestep 
+petitioner’s constitutional rights to ensure a conviction." Juggle 
+vy. Thompson, 854 F. Supp. 1229, 1239 (W.D. Va. 1994). The court 
+found that Tuggle’s trial was constitutionally improper for the 
+following reasons: 1) the failure of the trial court to appoint 
+Tiuggle an independent psychiatric expert to assist in his 
+sentencing defense violated Ake v. Oklahoma; 2) the combination of 
+imaccurate publicity, prosecutorial criticism of jurors, pre-trial 
+contact of jurors by the media and Sheriff's Department, inadequate 
+voir dire and refusal to allow Tuggle to challenge jurors for cause 
+violated his right to trial by an impartial jury; 3) there was 
+imsufficient evidence to coryict Tuggle of the rape element of his 
+capital charge; 4) the testimony of Dr. Centor at Tuggle’s 
+sientencing was improper because it was based on discussion with 
+
+
+T’uggle outside the presence of counsel without an effective waiver 
+
+
+* Tuggle filed a petition for writ of certiorari in this Court 
+aifter the completion of his state habeas proceedings, but the 
+petition was denied. Tuggle v. Bair, 503 U.S. 989 (1992). 
+
+
+11 
+
+
+of his Fifth and Sixth Amendment rights; 5) the “"vileness” 
+instruction given to Tuggle’s sentencing jury was 
+unconstitutionally vague; 6) the trial court’s restrictions on the 
+efforts of Tuggle’s counsel rendered them unable to provide 
+effective representation of their client; 7) the Virginia Supreme 
+Court denied Tuggle "meaningful appellate review" when it 
+considered his case on remand from the United States Supreme Court 
+without following its own statutory procedures governing the review 
+of death sentences. 
+
+On appeal, the United States Court of Appeals for the Fourth 
+Circuit reversed the district court on all seven grounds and 
+ordered that Tuggle’s habeas petition be dismissed. Juggle vy. 
+Thompson, 57 F. 3d. 1356 (4th Cir. 1995).* The appellate court did 
+not dispute that Tuggle’s sentencing was infected with 
+constitutional error. It excused the Ake v. Oklahoma and Estelle 
+vy. Smith violations, however, by invalidating the “future 
+dangerousness" aggravating circumstance and holding that the jury’s 
+"vileness" finding was sufficient, in and of itself, to support the 
+
+
+death sentence. 
+
+
+* The Fourth Circuit Opinion failed to even discuss two of the 
+grounds for relief found by the district court--that Tuggle’s trial 
+counsel were rendered ineffective by the restrictions placed on 
+their defense and that the Virginia reme Court deprived Tuggle 
+of “meaningful appellate review" in its decision affirming his 
+death sentence in Juggle I]. Given that the Court of Appeals 
+ordered that the petition be dismissed, Tuggle assumes that the 
+District Court’s rulings on these grounds were reversed. 
+
+
+12 
+
+
+REASONS FOR GRANTING THE WRIT 
+
+
+1. The Fourth Circuit’s Holding that this Court’s 
+Opinion in Zant vy. Stepheng Cured Admitted 
+Constitutional Error in Tuggle’s Capital Sentencing 
+Conflicts with, Other Controlling Decisions 
+
+of this Court, and Decisions of the Eleventh 
+
+
+Circuit and the Virginia Supreme Court. 
+
+
+Certiorari on this question should be granted because the 
+Opinion below conflicts with previous opinions of this Court, a 
+decision of the United States Court of Appeals for the Eleventh 
+Circuit and a recent decision of the Virginia Supreme Court. Sup. 
+Ct. Rule 10(a) and (c). 
+
+All courts that have considered this case have now 
+acknowledged that Tuggle’s capital sentencing was unconstitutional. 
+The proceeding violated Ake v. Oklahoma, 470 U.S. 68 (1985) because 
+the trial court allowed the state to introduce psychological 
+evidence in support of the “future dangerousness" aggravating 
+circumstance while forbidding Tuggle to retain an expert witness to 
+counter that testimony and support his own defense in mitigation. 
+The district court also found that the proceeding violated Estelle 
+vy. Smith, 451 U.S. 454 (1981) because the doctor who provided the 
+state’s “future dangerousness" testimony examined Tuggle on the 
+subject without notice to counsel, in violation of a court order 
+limiting his examination to Tuggle’s sanity at the time of the 
+offense and his competence to stand trial.’ 
+
+
+7 
+
+
+The District Court rejected the Virginia Supreme Court’s 
+ruling that Tuggle had waived his constitutional rights in 
+submitting to the interview on "future dangerousness." 854 F.Supp. 
+
+
+at 1243. This ruling of the District Court was not challenged by 
+the Court of Appeals. 
+
+
+13 
+
+
+The Court of Appeals did not contest that these constitutional 
+violations occurred. Instead, it held that the jury’s finding that 
+Tuggle’s crime was “vile” was sufficient, in itself, to validate 
+his death sentence. The Opinion based this ruling purely on Zant 
+v. Stephens, 462 U.S. 862 (1983). 
+
+In Zant, a capital sentencing jury received instructions on 
+three aggravating circumstances, including that the defendant had 
+been previously convicted of a “substantial number of serious 
+assaultive offenses." The state presented no evidence on the 
+controverted circumstance that was not otherwise properly before 
+the jury. Pursuant to Georgia law, which, like Virginia law, makes 
+the finding of one or more aggravating circumstances the sole 
+prerequisite to an entirely discretionary jury sentencing decision, 
+the jury opted for death based on the evidence before it. 
+
+On appeal, the Georgia Supreme Court struck down the noted 
+aggravating circumstance as unconstitutionally vague, but upheld 
+the death sentence on the ground that the other two aggravating 
+circumstances allowed the jury to invoke its full sentencing 
+discretion. The Georgia court emphasized that the aggravating 
+circumstance finding affected only the threshold determination of 
+whether the defendant was eligible for the death penalty and that 
+once that threshold was crossed by a single valid aggravator, it 
+was the evidence, and not the number or weighing of aggravating 
+circumstances, that informed the jury’s sentencing discretion. 
+
+In reviewing the death sentence in Zant, this Court noted that 
+
+
+the ability of an appellate court to uphold a death sentence after 
+
+
+14 
+
+
+eliminating an aggravating circumstance in a "non-weighing” state 
+depends “on the reasons that the aggravating circumstance... was 
+found to be invalid." Zant, 462 U.S. at 8664. Critical to such an 
+analysis is a determination as to whether the invalid aggravating 
+circumstance affected the overall pool of evidence considered by 
+the jury in making its discretionary sentencing decision. Under 
+the facts present in Zant, the evidence supporting the stricken 
+aggravating factor was "fully admissible at the sentencing phase" 
+for purposes other than establishing that circumstance. Zant, 462 
+U.S. at 886. The Court accordingly upheld the death sentence 
+because: 
+. » amy evidence on which the jury might have relied in 
+this case to find that respondent had previously been 
+
+
+convicted of a substantial number of serious assaultive 
+offenses, as he concedes he had been, was properly 
+
+
+to explanation by the defendant . This case eotese 
+
+
+a statutory aggravating circumstance, invalidated by the 
+state Supreme Court on grounds of vagueness, whore terms 
+plausibly described aspects of the defendant’s background 
+
+
+that were properly before the jury and whose accuracy was 
+unchallenged. 
+Id. at 887 (emphasis added; citations and footnotes omitted). The 
+Court clearly stated, however, as the State of Georgia conceded, 
+that “if an invalid statutory aggravating circumstance were 
+
+
+supported by material evidence not properly before the jury, a 
+different case would be presented." Jd. at 887 n.24.° 
+
+
+* This language from Zant, which is at the heart of that case, 
+was repeatedly pressed on the Court of Appeals in Tuggle’s case. 
+The Fourth Circuit’s Opinion fails to distinguish or even mention 
+it, even though earlier decisions of that court had recognized the 
+principle. See e.g., J. Briley v. Bags, 750 F.2d 1238, 1245 n. 12 
+(4th Cir. 1984) (rejecting challenge to Virginia “vileness" 
+aggravating circumstance because of separate "future dangerousness" 
+
+
+15 | 
+
+
+The instant petition presents exactly the "different case" 
+that the Zant Court contemplated, namely, a death sentence issued 
+following jury consideration of an evidentiary pool poisoned by 
+"material evidence not properly before the jury," j.e., the 
+psychiatric testimony obtained following Dr. Centor’s secret, 
+uncounseled interview with Tuggle. Indeed, this case presents a 
+more serious challenge to the death sentence than that contemplated 
+in Zant because the admitted constitutional errors not only allowed 
+introduction of improper evidence at sentencing, but also prevented 
+Tuggle from rebutting the improper evidence and putting on his own 
+sentencing defense. Thus, the decision below derives no support 
+from Zant, but is instead directly in conflict with that decision. 
+In fact, Zant compels relief here, as the District Court concluded: 
+
+
+In this case, it cannot be said that the 
+evidence presented to the jury was unaffected 
+by the “future dangerousness" aggravating 
+circumstance stricken by the Virginia Supreme 
+Court. Because the state tried Tuggle on the 
+“future dangerousness" aggravator, the jury 
+did hear psychological testimony that Tuggle 
+posed a serious threat to society. And, 
+because the state committed the const itutional 
+error of not granting Tuggle’s request for 
+psychiatric assistance, the jury 
+
+testimony from Tuggle to rebut the future 
+dangerousness claim. Thus, unlike Zant, the 
+material presented to the Tuggle sentencing 
+jury was seriously skewed because of the 
+constitutional error. 
+
+
+finding; court applies Zant only after concluding that "no evidence 
+was introduced on "vileness" separately at the penalty stage of the 
+bifurcated trial; rather, the jury’s verdicts on that circumstance 
+were necessarily based upon the evidence of the murders admissible 
+at the guilt stage"). 
+
+
+16 
+
+
+In Tuggle’s case, the Ake violation put 
+improper and highly prejudicial material 
+before his sentencing jury. The Commonwealth 
+cites no case in which a court has found that 
+an Ake violation was cured because there were 
+other statutory aggravating circumstances. 
+This fact is explained because an Ake 
+violation cannot be cured by a mere review of 
+the record. The violation, by depriving a 
+defendant of needed assistance, thwarts his 
+very ability to make a record on a critical 
+point or even to rebut the evidence marshalled 
+against him. 
+854 F. Supp. at 1237-38 (emphasis in original). 
+
+This Court reiterated the Zant principle in Johnson v. 
+Mississippi, 486 U.S. 578 (1988). App. 347. In Johngon, a jury 
+sentenced the defendant to death after finding three statutory 
+aggravating circumstances, including that the petitioner previously 
+had been convicted of another felony involving violence. The 
+Supreme Court vacated the death sentence because the previous 
+felony relied upon in establishing the "prior violent felony" 
+aggravating circumstance was an uncounseled conviction, obtained in 
+violation of the constitution. The state attempted to justify 
+affirmation of the death sentence using the same Zant v. Stephens 
+argument made by the Commonwealth here, j.,e, that there were other 
+valid aggravating circumstances that would independently support 
+the sentence. The Court unanimously rejected the argument, 
+however, relying directly on Zant and noting that the error 
+“extended beyond the mere invalidation of an aggravating 
+circumstance supported by evidence that was otherwise admissible. 
+Here the jury was allowed to consider evidence that has been 
+
+
+revealed to be materially inaccurate." Johnson, 486 U.S. at 590. 
+
+
+17 
+
+
+Simply put, if aggravating evidence before the sentencing jury was 
+unconstitutionally admitted and/or inaccurate, the presence of 
+valid aggravating circumstances serves as no cure. 
+
+The Court of Appeals distinguished Johnson v. Mississippi 
+simply by noting that "Mississippi uses the weighing system and 
+Virginia does not." 57 F.3d at 1363. This perfunctory reference 
+ignored the fact that the Johnson Court relied heavily on Zant in 
+striking the death sentence, even though Zant was a decision from 
+a non-weighing state like Virginia. This Court’s jurisprudence 
+establishes that, whether in a weighing state or non-weighing 
+state, the evidence to be evaluated by a jury in reaching its 
+sentencing decision cannot be tainted by constitutional error. See 
+e.g., Richmond v. Lewis, 113 S.Ct. 528 (1992); Sochor v. Florida, 
+504 U.S. 577 (1992); Stringer v. Black, 593 U.S. 222 (1992); 
+Clemons v. Mississippi, 494 U.S. 738 (1990). While the difference 
+between weighing and non-weighing sentencing schemes is significant 
+in some instances, neither system allows the casual admission of 
+unconstitutional, admissible and inflammatory sentenciny evidence, 
+nor excuses a trial court that deprives a capital defendant of the 
+"basic tools of an adequate defense." Ake v. Oklahoma, 470 U.S. 68, 
+77 (1985) (citations omitted). 
+
+The United States Court of Appeals for the Eleventh Circuit 
+reversed a death sentence — a non-weighing state under 
+strikingly similar conditions in Buttrum v. Black, 908 F.2d 695 
+(llth Cir. 1990). The state had introduced psychological testimony 
+
+
+on "future dangerousness" against the capital defendant and then 
+
+
+18 
+
+
+deprived the defendant of a meaningful opportunity to present 
+expert assistance to counter the testimony and support her defense. 
+As in this case, the state’s "future dangerousness" testimony was 
+developed surreptitiously by a psychologist ordered to investigate 
+only the defendant’s competence and sanity. The appellate court 
+adopted a district court opinion which granted habeas relief on the 
+grounds that (1) the state testimony violated Estelle v. Smith, and 
+(2) the failure to allow the defendant the full assistance of an 
+expert to counter that testimony violated Ake v. Oklahoma. Buttrum 
+v. Black, 721 F. Supp. 1268, 1308-14 (N.D. Ga. 1989). Because of 
+these errors, a re-sentencing was ordered even though the 
+sentencing jury found two aggravating circumstances in the case 
+that were not impaired by constitutional errors. 
+
+Even the Virginia Supreme Court now recognizes that death 
+sentences cannot stand under these circumstances. In Mickens v. 
+Commonwealth, 249 Va. 423, 457 S.E.2d 9 (April 21, 1995) (Attached 
+as Appendix F), the defendant was charged with capital murder. In 
+a pretrial motion, Mickens contended that he was entitled to inform 
+the jury of his parole ineligibility, but the trial court denied 
+the motion. The jury later convicted Mickens of capital murder 
+based both on the "vileness" and "future dangerousness" aggravating 
+circumstances. The Virginia Supreme Court affirmed his death 
+sentence and Mickens petitioned this Court for a writ of 
+certiorari. The writ was granted and this Court vacated the 
+judgment, remanding it for further consideration in light of 
+Simmons vy. South Carolina, 114 S.Ct. 2187 (1994). 
+
+
+19 
+
+
+Simmons had held that, when future dangerousness is at issue 
+in the sentencing phase of a capital trial, the jury is entitled to 
+be informed of the defendant’s parole ineligibility. On remand, 
+the Virginia Supreme Court recognized that the Simmons error 
+affected the "future dangerousness" aggravator in that Mickens 
+should have been allowed to inform the jury of his parole 
+eligibility. Despite the existence of a separate "vileness" 
+finding, and despite the Commonwealth’s argument that the 
+"vileness" finding rendered the constitutional error superfluous, 
+the Virginia Supreme Court found that the constitutional error 
+altering the sentencing evidentiary record entitled the petitioner 
+to be re-sentenced. 
+
+The decision below is thus in square conflict with the 
+decisions of this Court, the Eleventh Circuit, and the Virginia 
+Supreme Court. No other court has ever held that the Zant 
+rationale can excuse Ake or Estelle error committed during the 
+sentencing phase of a capital trial. Lest Zant be interpreted as 
+a blanket excuse for all manner of constitutional violations in 
+capital sentencing proceedings, the Court should grant certiorari. 
+
+2. The Fourth Circuit’s Holding that Virginia Courts 
+Properly Affirmed the Petitioner’s Death Sentence 
+
+
+Under the Sentencing Jury’s "Vileness" Finding is 
+in Conflict with Decisions of this Court. 
+
+
+Certiorari should be granted on this question because the 
+Court of Appeals’ affirmance of Virginia’s "vileness" aggravating 
+circumstance is contrary to this Court’s decision in Godfrey v. 
+
+
+Georgia, 446 U.S. 420 (1980) and subsequent cases. Sup. Ct. Rule 
+
+
+20 
+
+
+10(c). The Virginia statutory circumstance is indistinguishable 
+from others that this Court has struck down and the Virginia 
+Supreme Court has done nothing to sufficiently narrow its 
+application. This claim is particularly important because lower 
+courts have acknowledged that the "future dangerousness" 
+aggravating circumstance in Tuggle’s sentencing was invalid and his 
+death sentence now rests solely on the "vileness" circumstance. 
+The Eighth and Fourteenth Amendments require statutory 
+
+
+aggravating factors to meet two standards to justify a death 
+
+
+sentence. First, "the aggravating circumstance may not be 
+unconstitutionally vague" -- that is, it must have a "‘common-sense 
+core of meaning .. . that criminal juries should be capable of 
+
+
+understanding.’" Tuilaepa v. California, 114 S.Ct. 2630, 2635-36 
+(1994) (citing Godfrey v. Georgia, 446 U.S. 420, 428, (1980), and 
+Arave v. Creech, 113 S.Ct. 1534, 1541 (1993), and quoting Jurek v. 
+Texas, 428 U.S. 262, 279 (1976) (White, J., concurring)). Second, 
+"the circumstance may not apply to every defendant convicted of 
+murder; it must apply only to a subclass of defendants convicted of 
+murder." TJujlaepea v. California, 114 S.Ct. at 2635 (citing Arave, 
+113 S.Ct. at 1542). The Virginia statute fails to meet either 
+prong of this test. 
+
+The Virginia statute provides that a person convicted of 
+capital meander may be sentenced to death if his or her conduct is 
+found to be -“outrageously or wantonly vile, horrible or inhuman in 
+that it involved torture, depravity of mind or an aggravated 
+
+
+battery to the victim." Va. Code § 19.2-264.2 (Repl. Vol. 1995). 
+
+
+21 
+
+
+In Godfrey v. Georgia, 446 U.S. 420, 428-29 (1980), this Court held 
+that a vileness aggravating factor identical to Virginia’s was 
+unconstitutionally vague and overbroad on its face.® Even the 
+Virginia Supreme Court has conceded that Virginia's "vileness" 
+provision is identical to the Georgia provision at issue in 
+Godfrey. Smith v. Commonwealth, 219 Va. 455, 478, 248 S.E.2d 135, 
+149 (1978). 
+
+A statutory aggravating circumstance that is too vague as 
+stated can nevertheless be used if the jury is given a tightly 
+drawn definition instruction, or if the state appellate court 
+
+
+reviews the particular finding with a consistent and narrow 
+appellate construction. See e.g., Walton v Arizona, 497 U.S. 639, 
+653 ("when a jury is the final sentencer, it is essential that the 
+jurors be properly instructed regarding all facets of the 
+sentencing process. It is not enough to instruct the jury in the 
+bare terms of an aggravating circumstance that is unconstitutional 
+on its face."); Maynard v. Cartwright, 486 U.S. 356 (1988). 
+Neither occurred here. 
+
+The Virginia Supreme Court, recognizing that “any act of 
+murder arguably involves a ‘depravity of the mind’ and ‘an 
+aggravated battery to the victim," developed a limiting 
+
+
+construction of its "“vileness" aggravating circumstance that is 
+
+
+*In other cases, this Court has held that vague, pejorative 
+adjectives are not constitutionally sufficient absent well-drawn 
+limiting instructions. Sochor v. Florida, 504 U.S. 527 
+(1992) ("heinousness" or “coldness"); Shel] v. Mississippi, 498 U.S. 
+1 (1990) ("especially heinous, atrocious, or cruel"); Maynard v. 
+Cartwright, 486 U.S. 356 (1988) (same). 
+
+
+22 
+
+
+often given to juries in capital cases. Smith v. Commonwealth, 219 
+
+
+Va. at 478. The construction provides the following definitions 
+for the statutory terms “aggravated battery" and "depravity of 
+mind" : 
+
+
+'. % we construe the words "depravity of 
+mind" as used here to mean a degree of moral 
+turpitude and psychical debasement surpassing 
+that inherent in the definition of ordinary 
+legal malice and premeditation. Contextually, 
+we construe the words “aggravated battery" to 
+mean a battery which, qualitatively and 
+quantitatively, is more culpable than the 
+minimum necessary to accomplish an act of 
+murder. 
+
+
+Id.*° Here, Tuggle’s counsel requested that the terms “aggravated 
+battery" and "depravity of mind" be defined as set forth in Smith, 
+but the trial court refused to give even that minimal instruction. 
+Instead, it simply read the jury the vague statutory language, 
+adding an additional clause as shown: 
+That his conduct in committing the offense was 
+outrageously or wantonly vile, horrible or 
+
+
+inhuman, in that it involved torture, 
+depravity of mind or aggravated battery to the 
+
+
+victim beyond the minimum =necessary to 
+accomplish the act of murder. 
+
+
+Tuggle v. Thompson, 57 F.3d at 1371. Neither the terms “aggravated 
+
+
+*° This limiting construction was not given as an instruction 
+to Tuggle’s sentencing jury or utilized by the Virginia Supreme 
+Court during appellate review. Even if it had been used, the 
+construction would not solve the invalidity of the Virginia 
+"vileness" aggravating circumstance. Rather than creating a 
+specific and well-defined class of murders for which the death 
+penalty is appropriate, these minimal definitions create a single 
+hypothetical murder for which the death penalty may not be imposed 
+and allow the death penalty in all other cases where the 
+theoretical minimum is exceeded. See Shel] _ v. Mississippi, 498 
+U.S. 1 (1990) (appellate limiting construction still too vague to 
+cure vague aggravating circumstance). 
+
+
+23 
+
+
+battery" nor "depravity of mind" were defined. 
+
+The trial court’s reading of the statutory language, with the 
+brief addition, did not cure the unconstitutionality of the 
+"vileness" aggravating circumstance. In Godfrey, this Court 
+recognized that instructing the jury with the essentially identical 
+statutory language was insufficient because "a person of ordinary 
+sensibility could fairly characterize almost every murder as 
+‘outrageously or wantonly vile, horrible and inhuman.’‘" Id. at 
+429. Similarly, in Maynard v. Cartwright, 486 U.S. 356 (1988), the 
+Court held that a jury instruction repeating Oklahoma’s "especially 
+heinous, atrocious, or cruel" statutory language violated the 
+Eighth and Fourteenth Amendments because the term "especially 
+heinous" provided no guidance to the jury and that "an ordinary 
+person could honestly believe that every unjustified, intentional 
+taking of human life is ‘especially heinous. '* Id. at 364. 
+
+In Shell _v. Mississippi, 498 U.S. 1 (1990), the Supreme Court 
+found unconstitutional a limiting instruction that was far more 
+specific and detailed than that given in Tuggle’s case to qualify 
+the phrase "aggravated battery." In Shell, the trial court gave a 
+limiting instruction defining Mississippi’s "especially heinous, 
+atrocious, or cruel" aggravating factor which stated that the "the 
+word heinous means extremely wicked or shockingly evil; atrocious 
+means outrageously wicked and vile; and cruel means designed to 
+inflict high degree of pain with indifference to, or even enjoyment 
+of the suffering of others." Id. at 2. (Marshall, J., 
+
+
+concurring). The Supreme Court held that this instruction was "not 
+
+
+24 
+
+
+constitutionally sufficient." Jd, at 1. If the Shel] limiting 
+instruction was constitutionally infirm, then the Tuggle court’s 
+cryptic “beyond the minimum necessary to accomplish the act of 
+murder" cannot be found to meet the standards of specificity 
+imposed by the Eighth and Fourteen Amendments. 
+
+Just as the trial court failed to limit the vague Virginia 
+aggravating circumstance through a jury instruction, the Virginia 
+Supreme Court failed to channel the "vileness" factor in its review 
+on direct appeal.*’ In reviewing Tuggle’s death sentence under the 
+vileness predicate, the Virginia Supreme Court failed to even apply 
+the minimal Smith definitions of the term’s "depravity of mind" and 
+“aggravated battery", noting that the Smith definitions "are not 
+necessarily the best or the only definitions for these terms." 
+Tuggle, 228 Va. at 516. Instead, the court merely stated that the 
+crime for which Tuggle was convicted was "outrageously vile and 
+involved depravity of the mind." Id. at 517. Without any 
+
+
+explanation or detailed analysis, the court also summarily 
+
+
+“The Virginia Supreme Court has never reversed a case in which 
+the imposition of the death penalty relied upon the "vileness" 
+aggravator. See, e.g., Mueller v. Commonwealth, 244 Va. 386, 422 
+S.E.2d 380 (1992), cext, denied, 113 S.Ct. 1880 (1993); 
+Commonwealth, 245 Va. 222, 427 S.E.2d 394, cert. denied, 114 S.Ct. 
+143 (1993); Davidson v. Commonwealth, 244 Va. 129, 419 S.E.2d 656, 
+cert. denied, 113 S.Ct. 423 (1992); Thomas v. Commonwealth, 244 Va. 
+1, 419 S.E.2d 606, cert, denied, 113 S.Ct. 421 (1992); Hoke v. 
+
+, 237 Va. 303, 377 S.E.2d 595, cert, denied, 491 U.S. 
+910 (1989); Turner v. Commonwealth, 234 Va. 543, 552 & n.2, 364 
+S.E.2d 483 (1988), cert. denied, 486 U.S. 1017 (1988); Boggs v. 
+
+, 229 Va. 501, 331 S.E.2d 407 (1985), cert. denied, 475 
+U.S. 1031 (1986); and Jones v. Commonwealth, 228 Va. 427, 323 
+S.E.2d 554 (1984), cert, denied, 472 U.S. 1012 (1985); 
+
+, 229 Va. 401, 329 S.E.2d 815, cert. denied, 474 U.S. 
+
+
+865 (1985). 
+
+
+25 
+
+
+concluded that "the battery to the victim was aggravated and “more 
+culpable than the minimum necessary to accomplish an act of 
+murder." Jd. If the statutory language is itself 
+unconstitutional, the appellate court can hardly create an 
+appropriate narrowing construction merely by repeating that 
+language. 
+
+The Court of Appeals upheld the validity of the "vileness” 
+finding on the grounds that the trial court instruction 
+"paraphrased" the definition of “aggravated battery” set forth in 
+Smith v. Commonwealth and that the Smith limitation was in accord 
+with Godfrey. 57 F.3d at 1372. The Opinion failed to mention the 
+Virginia Supreme Court’s refusal to fully apply the Smith v. 
+Commonwealth standard and omitted the fact that no definition of 
+"depravity of mind" was given to the jury. 
+
+This Court has plainly declared that aggravating circumstances 
+with language identical to Virginia’s “vileness" circumstance are 
+too vague to provide appropriate constitutional guidance in capital 
+sentencing decisions. The failure of Virginia courts to provide a 
+sufficiently narrow definition of the “vileness" factor in this 
+
+
+case warrants a grant of certiorari. 
+
+
+3. The Fourth Circuit’s Holding that Individualized 
+Voir Dire was Not Required to Explore the Impact of 
+Prosecucorial Criticism of Jurors, Press Contact of 
+Jurors and Prejudicial Pre-Trial Publicity is Con- 
+trary to this Court’s Rulings in Virginia Capital Cases. 
+
+
+Certiorari should be granted on this question because the 
+
+
+26 
+
+
+Opinion below is contrary to two cases from this Court, both of 
+which dealt with the scope of voir dire required in Virginia 
+capital cases to protect a defendant’s right to trial by an 
+impartial jury. Mu’Min v. Virginia, 500 U.S. 415 (1991); Turner 
+v. Murray, 476 U.S. 28, 106 S.Ct. 1683, 90 L.Ed.2d 27 (1986). Sup. 
+Ct. R. 10(c). 
+
+Tuggle’s case was the most notorious case in the history of 
+Smyth County, Virginia. There was substantial press in the rural 
+area prior to trial and some press accounts contained critically 
+inaccurate reports that Tuggle had previously been convicted of 
+rape and was a suspect in the rape of a young girl from the area. 
+Ten members of his jury venire had been exposed to this press and 
+four of the sitting trial jurors had read the articles with the 
+false rape information. Given that Tuggle’s offense was only 
+charged as capital murder because of the rape allegation, this 
+inaccuracy was very prejudicial. When coupled with the weakness of 
+the state’s rape evidence, and the trial court’s refusal to allow 
+Tuggle expert assistance to counter the state’s pathologist, this 
+inaccurate rape publicity assumed a serious dimension in this case. 
+
+In addition, members of the Tuggle jury panel were contacted 
+by the press less than three days before the trial after the county 
+prosecutor ridiculed them publicly for committing a "travesty of 
+justice” by handing out a reduced verdict in another murder case. 
+These bizarre contacts suggested that a "lenient" ruling in 
+Tuggle’s case would expose the jurors to public criticism in their 
+
+
+small community. Five members of Tuggle’s jury venire had served 
+
+
+27 
+
+
+in that previous case and one of those people, Robert Brown, 
+publicly criticized the leniency of the previous verdict. Brown 
+eventually was made foreman of the Tuggle jury. 
+
+The trial court refused to allow any voir dire questions 
+concerning the prosecutorial comment and pre-trial media contacts 
+even though Tuggle’s counsel argued that these events were 
+intimidating. The trial court also refused to allow individualized 
+voir dire concerning pre-trial press exposure and failed to allow 
+any questions about the contents of articles read by the jury. 
+Without such questions, Tuggle’s counsel could not explore the 
+extent to which jurors were affected by the inaccurate rape 
+information. Despite the serious nature of the capital case, the 
+trial court even refused to allow Tuggle to challenge any jurors 
+for cause, a clear violation of state law. 
+
+In Turner v. Murray, 476 U.S. 28 (1986), this Court recognized 
+the critical role that voir dire plays in ensuring the impartiality 
+of a capital sentencing jury. Even though the Court has recognized 
+that the constitution does not require voir dire concerning racial 
+prejudice in criminal cases generally, Turner held that the nature 
+of racial prejudice, the broad discretion accorded to a Virginia 
+capital sentencing jury and the heightened reliability required in 
+capital cases all compelled that such voir dire was 
+constitutionally required in capital cases involving interracial 
+
+
+crime. 
+
+
+In Mu'Min v. Virginia, 500 U.S. 415 (1991), the Court narrowly 
+
+
+declared that the Sixth and Fourteenth Amendments did not always 
+
+
+28 
+
+
+require individualized voir dire concerning pre-trial publicity in 
+a capital case, although it recognized that certain circumstances, 
+such as the rural nature of the area where the crime occurred, 
+might command the need for individualized voir dire in some cases. 
+Mu‘Min v. Virginia, 500 U.S. at 29. 
+
+The combined teachings of Mu‘Min and Turner establish a few 
+important principles. First, while voir dire is always a critical 
+feature in protecting the Sixth Amendment guarantee to an impartial 
+jury, it has heightened importance in a capital sentencing where 
+the jury has broad discretion, such as that allowed by the Virginia 
+death penalty statute. Turner vy. Murray, 476 U.S. at 33-36. 
+Second, to the extent that a capital case presents a special 
+feature that may threaten the reliability of the jury’s 
+deliberation (e.g., racial animus), the constitution requires that 
+voir dire be allowed on that particular feature in order to protect 
+the integrity of the proceeding. Jd. iciting Caldwel] y. 
+Mississippi, 472 U.S. 320 (1985)). Finally, while individualized, 
+content-specific voir dire is not required in all, or even most, 
+capital cases, the absence of such inquiry cannot be tolerated 
+constitutionally if the facts of the case demonstrate that such 
+questioning is the only way to protect the impartiality of the 
+jury. The Court of Appeals rejected Tuggle’s impartial jury claim 
+without citing either Turner or Mu’min, both of which had been 
+relied on by the District Court. 
+
+In Tuggle’s case, the trial court ignored protections that are 
+
+
+accorded to litigants in most minor civil trials in Virginia. 
+
+
+29 
+
+
+Allowing voir dire on prosecutorial criticism, pre-trial media 
+contacts or on the jurors’ recollection of inaccurate press 
+reports, and letting the defense challenge jurors for cause, would 
+
+
+have imposed no burden in Tuggle’s trial. The trial court's 
+
+
+refusal to accord these minimal protections demonstrated that, 
+
+
+contrary to Turner, the capital proceeding did not receive the 
+heightened protection that is constitutionally required. If 
+anything, the unpopularity of the defendant led the trial court to 
+provide fewer protections than in normal cases. 
+
+Certiorari is appropriate here to vindicate this Court’s 
+principle that "the qualitative difference of death from all other 
+punishments requires a correspondingly greater degree of scrutiny 
+
+
+of the capital sentencing determination." California v. Ramos, 463 
+U.S. 992, 998-9) (1983). : 
+
+
+4. The Inability of the State’s Pathologist to Determine 
+Whether there was Penetration Compels the Conclusion that 
+no “Rational Trier of Fact" Could have found Tuggle 
+
+
+Guilty of Murder during the Commission of Rape. 
+
+
+Certiorari should be granted on this question because the 
+Opinion below directly conflicts with the essential holding of 
+Jackson v. Virginia, 443 U.S. 307 (1979). Sup. Ct. Rule 10(c). 
+That case holds that the sufficiency of evidence supporting a 
+conviction can only be challenged in a federal habeas corpus 
+petition "if it is found upon the record evidence adduced at trial 
+no rational trier of fact could have found proof beyond a 
+
+
+reasonable doubt." 443 U.S. at 324. This case poses the 
+
+
+30 
+
+
+fundamental question of whether a "rational trier of fact," hearing 
+medical testimony months after the crime, can find proof of rape 
+beyond a reasonable doubt when the state’s medical witness 
+delivering the testimony explicitly testifies that he cannot find 
+such proof. 
+
+Tuggle was charged with murder during the commission of rape. 
+Had the murder charge been unaccompanied by the alleged rape, it 
+would not have been capital murder in Virginia. Thus, the element 
+of rape was critical to this case. Testimony established that the 
+victim left a club voluntarily with Tuggle and the two were later 
+stopped, without incident, by a state trooper. Tuggle v. 
+Commonwealth, 228 Va. 493, 500-501, 323 S.E.2d 539, 543 (1984). 
+When the victim's body was found four days later, her jeans were 
+pulled down to mid-thigh. App. 122. Semen was found in the 
+victim's rectum, although there was no bruising or injury there. 
+Id. No semen was found in or around the victim’s vagina. App. 
+133. There were small bruises found outside the vagina, but there 
+were no injuries found in the vagina and there was no testimony 
+concerning when the bruises had occurred. App. 139, 143. 
+
+Dr. Oxley, the state pathologist, was the sole witness at 
+trial concerning the rape charge. He first testified in the 
+preliminary hearing that the condition of the vagina suggested 
+either “manipulation or penetration of some type" and he stated 
+that the cause was "just as likely" manipulation as penetration. 
+App. 13-20. At trial, Oxley volunteered on direct examination that 
+
+
+the bruises indicated penetration of the vagina by "something, a 
+
+
+31 
+
+
+penis, a finger, an object, something." App. 124. But, on cross 
+examination, he readily admitted that the bruises could have been 
+caused by “manipulation or penetration". App. 143. 
+
+In Virginia, forcible penetration of the vagina by the 
+defendant’s penis is a necessary element of rape and the absence of 
+semen in the vagina is a “strong circumstance" demonstrating a lack 
+of penetration. McCall] _v. Commonwealth, 192 Va. 422, 65 S.E.2d 540 
+(1951). Here, the lack of semen or spermatozoa in or around the 
+vagina is a strong circumstance that penetration of the vagina by 
+the defendant’s penis did not take place. The sole evidence of 
+rape was introduced by the state through the testimony of Dr. 
+Oxley, who, unlike the jury, was a trained pathologist and had 
+examined the victim’s body shortly after the crime. Because he 
+could not decide whether there had even been penetration of any 
+kind, much less penetration by the defendant's penis, no "rational 
+trier of fact" could have found such proof beyond a reasonable 
+doubt. 
+
+The District Court granted habeas relief on this ground, 
+finding that the evidence was clearly insufficient tc establish 
+rape. It noted that the jury’s finding of rape was "most likely 
+explained by the inaccurate pre-trial information concerning other 
+rapes supposedly committed by Tuggle, as well as the public 
+pressure surrounding this notorious case, which was heightened by 
+press contacts with jurors prior to trial." 854 F. Supp. at 1241. 
+The Court of Appeals reversed, citing the state’s testimony 
+
+
+concerning penetration and concluding that it was "for the jury to 
+
+
+32 
+
+
+say" whether rape had occurred. 57 F.3d at 1370. The Court of 
+Appeals ignored, however, the state expert's clear equivocation as 
+to whether penetration had even occurred. 
+
+While this issue is factual, it poses a fundamental question 
+concerning the meaning of Jackson v. Virginia. Can a "rational 
+trier of fact" find proof beyond a reasonable doubt when the 
+
+
+state’s own evidence admittedly fails to reach that standard? 
+
+
+CONCLUSION 
+
+Because the Petitioner was charged with capital murder, this 
+Court’s teachings compelled special attention by the trial court to 
+the integrity of his trial. Instead of heightened protection, 
+Tuggle’s trial was notable for its startling departures from 
+elemental principles of fairness. Jurors were exposed to 
+critically inaccurate publicity, criticized by the prosecution for 
+their leniency and contacted by the media, but Tuggle’s requests 
+for the standard protections of adequate voir dire and challenges 
+for cause were refused. Unconstitutional evidence was obtained and 
+introduced against Tuggle in that most sensitive of proceedings, 
+his capital sentencing, but his own motion to obtain 
+constitutionally required assistance at his own cost was denied. 
+Standard jury instructions needed to inform the jury of its role in 
+sentencing were refused. These instances were not random events; 
+as the District Court found, they were part of a consistent pattern 
+of misconduct designed to "ensure a conviction" of an unpopular 
+
+
+defendant. 
+
+
+33 
+
+
+The check against such excess is appellate review and habeas 
+corpus. That check has been oddly ineffective in this case. All 
+courts have acknowledged that, at the very least, Tuggle’s 
+sentencing was unconstitutional. But, despite that recognition, 
+and despite the unique concession by the Virginia Attorney General 
+that Tuggle should be re-sentenced, he now stands three days from 
+execution. 
+
+The pattern of misconduct is clear in the record--there is 
+little dispute on factual questions. The judicial recognition of 
+constitutional error is also clear, beginning with this Court’s 
+grant of certiorari ten years ago. All that remains is a decision 
+about whether that misconduct, that acknowledged error, can be 
+excused. Petitioner respectfully requests that this Court grant 
+
+
+him certiorari for the reasons stated here. 
+
+
+r 
+
+
+Respectfully Submitted, 
+
+
+Timothy M. Kaine 
+Helen L. Konrad 
+Mezzullo & McCandlish 
+1111 E. Main Street 
+Suite 1500 
+
+Richmond, VA 23219 
+(804) 775-3100 
+
+
+Donald R. Lee, Jr. 
+
+Mark E. Olive 
+
+Virginia Capital Representation 
+Resource Center 
+
+1001 East Main Street 
+
+Richmond, VA 23219 
+
+(804) 643-6845 
+
+
+34 
+
+
+Alexander H. Slaughter 
+
+Dorothy C. Young 
+
+Shannon E. Sinclair 
+
+McGuire, Woods, Battle & Boothe 
+901 E. Cary Street 
+
+Richmond, Virginia 23219 
+
+(804) 775-1000 
+
+
+Counsel for Lem Davis Tuggle, Jr. 
+
+
+Certificate of Service 
+I, Donald R. Lee, Jr., a member of the Bar of this Court, 
+
+
+hereby certify that, pursuant to Supreme Court Rule 29, I 
+
+had a copy of the foregoing Petition for Writ of Certiorari, with 
+Appendix, hand-delivered to Donald R. Curry, Senior Assistant 
+Attorney General, Office of the Attorney General, 900 East Main 
+Street, Richmond, Virginia 23219 on this 18th day of September, 
+
+
+M74 hae fh. 
+
+
+1995. 
+
+
+35 
+
+

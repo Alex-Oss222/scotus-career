@@ -1,0 +1,25 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 50,
+    "params": {
+      "query": "collection:us-supreme-court AND (text:Hodge OR text:Hodge OR text__reviews:Hodge) AND (text:Jones OR text:Jones OR text__reviews:Jones)",
+      "qin": "collection:us-supreme-court AND &quot;Hodge&quot; AND &quot;Jones&quot;",
+      "fields": "identifier,title,date",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 1,
+    "start": 0,
+    "docs": [
+      {
+        "date": "1994-01-01T00:00:00Z",
+        "identifier": "micro_IA40386012_0613",
+        "title": "Hodge v. Jones, 513 U.S. 1018 (1994) (No. 94-658)"
+      }
+    ]
+  }
+}

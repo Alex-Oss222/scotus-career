@@ -1,0 +1,2412 @@
+Supreme Court, US. 1 
+6 FILED 
+
+
+No. 94-6615 APR 12 1995 
+
+
+| OFFICE OF THE CLtKK 
+
+
+In THE 
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1994 
+
+
+CARL THOMPSON, 
+Petitioner, 
+v. 
+
+
+PATRICK KEOHANE, Warden, 
+Bruce M. BoTeLHo, Attorney General, 
+
+
+State of Alaska, 
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Ninth Circuit 
+
+
+BRIEF FOR PETITIONER 
+
+
+JULIE R. O’SULLIVAN 
+(Appointed by This Court) 
+Associate Professor of Law 
+GEORGETOWN UNIVERs?Ty Law 
+CENTER 
+600 New Jersey Avenue, N.W. 
+Washington, D.C. 20009 
+(202) 662-9894 
+Counsel of Record 
+for Petitioner 
+
+
+(9 
+
+
+QUESTION PRESENTED 
+
+
+Whether the Ninth Circuit erred in treating as a find- 
+ing of fact, presumed correct under 28 U.S.C. § 2254 
+(d), the State court's application of the legal standard for 
+
+“custody” under Miranda v. Arizona, 384 
+U.S. 436 (1966), to the circumstances of the case. 
+
+
+(i) 
+
+
+JURISDICTION iiiatidinsimemsecasees 
+
+
+EES ES Rl a heh 
+STATEMENT OF THE CASE 20. 20...0.0.-0c-ccccccococeseeeoeeees 
+SUMMARY OF ARGUMENT 202000000. ccccccccccoeeeoeeesnnees 
+
+
+I. THIS COURT’S TRADITIONAL TOWNSEND 
+v. SAIN ANALYSIS AND THE FUNCTIONAL 
+CONSIDERATIONS ARTICULATED IN MIL- 
+LER v. FENTON DICTATE THAT THE 
+QUESTION WHETHER A SUSPECT IS IN 
+“CUSTODY” FOR PURPOSES OF MIRANDA 
+IS A MIXED QUESTION OF LAW AND FACT 
+NOT SUBJECT TO SECTION 2254 (d)’s PRE- 
+SUMPTION OF CORRECTNESS ....................... 
+
+
+A. The Miranda “Custody” Determination Re- 
+quires A Court To Apply An Objective Legal 
+Standard To The Undisputed Facts, Assess- 
+ing Not What Happened But The Legal Sig- 
+nificance Of What Happened, And Is There- 
+fore A Mixed Question Of Law And Fact Un- 
+der The Court’s Traditional Townsend v. 
+
+
+peratives Of Sound Judicial Administration 
+Require That, Consistent With The Func- 
+tional Principles Articulated By The Court 
+In Miller v. Fenton, Such “Custody” Deter- 
+minations Be Reviewed De Novo .................... 
+
+
+(iii) 
+
+
+cna Ww Ww 
+
+
+iv 
+TABLE OF CONTENTS—Continued 
+
+
+1. The Miranda “Custody” Question, Like 
+The Due Process Voluntariness Inquiry, 
+
+
+Requires Courts To Exercise Judgment 
+About The Values That Animate The Le- 
+gal Principle And Thus Is A Primarily 
+Legal Question Best Reviewed De Novo.... 
+2. The Need For Consistency And Uniform- 
+ity In The Application Of The “Custodial 
+Interrogation” Threshold Test, And The 
+
+
+3. The Objective “Custody” Test Does Not 
+Rely For Its Effective Application On 
+Credibility Determinations Or Determina- 
+tions Of Subjective Intent And Thus Its 
+Resolution Does Not Require The Par- 
+
+
+C. Considerations Of Federalism And Finality 
+Do Not Require That The Application Of The 
+Miranda “Custody” Standard To The Cir- 
+
+
+II. SHOULD THE COURT DECIDE TO ADDRESS 
+THE ISSUE, RATHER THAN REMANDING 
+FOR PLENARY CONSIDERATION IN THE 
+FIRST INSTANCE BY THE NINTH CIRCUIT, 
+PETITIONER WAS IN “CUSTODY” FOR 
+MIRANDA PURPOSES ON THE OBJECTIVE 
+FACTS OF THIS CASE .................-0-0--csecssesserense0s 
+
+
+COTTE cestcagncpenegnegmagnenpengernmngenmaperssmgunstemanenes 
+pT. | Te 
+
+
+v 
+
+
+TABLE OF AUTHORITIES 
+
+
+CASES Page 
+
+
+Alston v. Redman, 34 F.3d 1237 (3d Cir. 1994), 
+
+cert. denied, 115 S.Ct. 1122 (1995) " 31 
+Antilles Steamship Co., Ltd. v. Members of the 
+
+Am. Hull Ins. Syndicate, 783 F.2d 195 (1984)... 16,17 
+
+
+Arave v. Creech, 118 S.Ct. 1534 (1998) 0... 16 
+Arizona v. Mauro, 481 U.S. 520 (1987) —.............. 22 
+
+BFP v. Resolution Trust Corp., 114 8.Ct. 1757 
+0 Se ae 14 
+
+Baumgartner v. United States, 822 U.S. 665 
+EE A eS es ee 12 
+Beckwith v. United States, 425 U.S. 341 (1976)... _—15, 
+passim 
+
+
+Berkemer v. McCarty, 468 U.S. 420 (1984) _...... 7, passim 
+Bose Corp. v. Consumers Union of US., Inc., 466 
+
+
+EE ee 30 
+Bradley v. Ohio, 497 U.S. 1011 (1990) nS ae 32 
+Brecht v. Abrahamson, 118 S.Ct. 1710 (1993) ....... 10 
+Brewer v. Williams, 430 U.S. 887 (1977) .......... 9, 10, 13, 
+
+14, 16 
+Brown v. Allen, 344 U.S. 448 (1953) —......... 11, 12, 13, 16 
+California v. Beheler, 463 U.S. 1121 (1983) _..15, passim 
+California v. Prysock, 453 U.S. 355 (1981) —.......... 22 
+Cheek v. United States, 498 U.S. 192 (1991) _....... 17 
+Cobb v. Perini, 882 F.2d 342 (6th Cir. 1987), cert. 
+
+denied, 486 U.S. 1024 (1988) —.......................... 18 
+Connecticut v. Barrett, 479 U.S. 523 (1987) —....... 23 
+Cooter & Gell v. Hartmarz, 496 U.S. 384 (1990) .... 33 
+Cordoba v. Hanrahan, 910 F.2d 691 (10th Cir.), 
+
+cert. denied, 498 U.S. 1014 (1990) 19 
+
+
+Cuyler v. Sullivan, 446 U.S. 3835 (1980) ...... 9, 10, 13, 14 
+Davis v. Allsbrooks, 778 F.2d 168 (4th Cir. 1985) .. 20 
+
+
+Davis v. Heyd, 479 F.2d 446 (5th Cir. 1978) 14 
+Davis v. Michigan Dep't of Treasury, 489 U.S. 803 
+0 Re sr 14 
+Demosthenes v. Baal, 495 U.S. 731 (1990) —........... 34 
+Donnelly v. DeChristoforo, 416 U.S. 637 (1974)... 10 
+Drope v. Missouri, 420 U.S, 162 (1975) ................. 34 
+Duckworth v. Eagan, 492 U.S. 195 (1989) —.......... 22 
+Estelle v. McGuire, 502 U.S. 62 (1991) —...... anil 10 
+
+
+Estelle v. Smith, 451 U.S. 454 (1981)... 20, 28 
+
+
+vi 
+TABLE OF AUTHORITIES—Continued 
+
+Page 
+Fare v. Michael C., 489 U.S. 1810 (1978)... 82 
+Fare v. Michael C., 442 U.S. 707 (1979) ................ 23, 31 
+Fiske v. Kansas, 274 U.S. 380 (1927) -.................. 12 
+Feltrop v. Delo, 46 F.3d 766 (8th Cir. 1995) _....... 19 
+Hancock v. Estelle, 558 F.2d 786 (5th Cir. 1977).. 18 
+
+Harte-Hanks Communications, Inc. v. Connaugh- 
+ton, 401 U.S. GET (1GBD) .............20....ccccceeeeeseeeeeess 30 
+Helvering v. Rankin, 295 U.S. 128 (1935) —.......... 12 
+
+Helvering v. Tez-Penn Oil Co., 300 U.S. 481 
+0, Se TES. Re a 12 
+Hernandez v. New York, 500 U.S. 352 (1991) ........ 34 
+Illinois v. Perkins, 496 U.S. 292 (1990) ...... 20, 26, 28, 29 
+
+Imbler v. California, 424 F.2d 631 (9th Cir.), cert. 
+denied, 100 U.S. 865 (1970) -.....----..---necceneccnnneeee 14 
+Irwin v. Dowd, 366 U.S. 717 (1961) -....................... 12 
+Jackson v. Virginia, 448 U.S. 307 (1979) .............. 10, 13 
+
+Jacobs v. Singletary, 952 F.2d 1282 (11th Cir. 
+| EE a Ce ee 2 19 
+Kelly v. Robinson, 479 U.S. 36 (1986) —.................. 14 
+Ker v. California, 374 U.S. 28 (1968) ................ 12, 30, 36 
+Kimmelman v. Morrizon, 477 U.S. 365 (1986) ........ 10 
+Krantz v. Briggs, 983 F.2d 961 (9th Cir. 1993)... 6, 1% 
+Maggio v. Fulford, 462 U.S. 111 (1988) —.............. 34, 35 
+Maine v. Thibodeau, 475 U.S. 1144 (1986) —.......... $2 
+Manson v. Brathwaite, 482 U.S. 98 (1977) ......... 10 
+Marshall v. Lonberger, 459 U.S. 422 (19838) ....9, 10, 12, 35 
+Mathis v. United States, 391 U.S. 1 (1968) _...... 20, 26, 28 
+McNeil v. Wisconsin, 501 U.S. 171 (1991) —........... 22 
+
+Midlantic Nat'l Bank v. New Jersey Dep’t of En- 
+vironmental Protection, 474 U.S. 494 (1986) ... 14 
+Miller v. Fenton, 474 U.S. 104 (1985) 2... 7, passim 
+Minnesota v. Murphy, 465 U.S. 420 (1984) ....... 15, passim 
+Miranda v. Arizona, 384 U.S. 436 (1966) _.......... 4, passim 
+Mu’min v. Virginia, 500 U.S. 415 (1991) _.......... 34 
+Neil v. Biggers, 409 U.S. 188 (1972) ..................... 10, 18 
+New York v. Quarles, 467 U.S. 649 (1984) —.......... 15, 23 
+Norris v. Alabama, 294 U.S. 587 (1985) —............... 12 
+
+
+O’Neal v. McAninch, 115 S.Ct. 992 (1995) ............ 36 
+
+
+vii 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+Oregon v. Bradshaw, 462 U.S. 1089 (1988) ........... 23 
+Oregon v. Elstad, 470 U.S. 298 (1985) —................ 8, 15, 29 
+Oregon v. Hass, 420 U.S. 714 (1975) ~..................... 82 
+Oregon v. Kennedy, 456 U.S. 667 (1982) 34 
+Oregon v. Mathiason, 429 U.S. 492 (1977) ....... 15, passim 
+Orozco v. Texas, 894 U.S. 324 (1969) —............. 20, 26, 28 
+Parke v. Raley, 118 S.Ct. 517 (1992) .................... 10 
+Patton v. Yount, 467 U.S. 1025 (1984) ............. 12, 16, 34 
+Pennsylvania v. Bruder, 488 U.S. 9 (1988) _.....20, passim 
+Pennsylvania v. Muniz, 496 U.S. 582 (1990) .. 22 
+
+
+Pierce v. Underwood, 487 U.S. 552 (1988) ....22, 24, 82, 33 
+Podlaski v. Butterworth, 677 F.2d 8 (ist Cir. 
+
+
+EE a ee ee wee 19 
+Pullman-Standard v. Swint, 456 U.S. 273 (1982) .. 16, 22, 
+33, 34 
+
+Purvis v. Dugger, 932 F.2d 1418 (11th Cir. 1991), 
+cert. denied, 508 U.S. 940 (1992) ........................ 19 
+Rhode Island v. Innis, 446 U.S. 291 (1980) ........... 22 
+Rogers v. Richmond, 365 U.S. 534 (1961) ............ 36 
+Rushen v. Spain, 464 U.S. 114 (1988) .............. 12, passim 
+Schiro v. Farley, 114 S.Ct. 783 (1994) —................ 9,10 
+Stansbury v. California, 114 S.Ct. 1526 (1994) ..6, passim 
+State v. Cassell, 602 P.2d 410 (Alaska 1979) ....... 43 
+
+
+Strickland v. Washington, 466 U.S. 668 (1984)....9, 10, 12 
+Sullivan v. Alabama, 666 F.2d 478 (llth Cir. 
+
+
+REG AEC Pa SA Re ee a en 19 
+Sumner v. Mata, 455 U.S. 591 (1982) —........ 9, 10, 12, 42 
+Thompson v. State, 768 P.2d 127 (Alaska Ct. App. 
+
+EE a a i 
+Townsend v. Sain, 372 U.S. 293 (1963) ............... 7, passim 
+United States Postal Service Bd. of Govs. v. Aikens, 
+
+A 34 
+United States v. Adams, 1 F.8d 1566 (11th Cir. 
+
+1998), cert. denied, 114 S.Ct. 1810 (1994) _....... 19 
+United States v. Baird, 851 F.2d 376 (D.C. Cir. 
+
+Rall NES PRE LE SETI 18 
+United States v. Calisto, 888 F.2d 711 (8d Cir. 
+
+EE ee a A. AEE Cae 18, 21 
+
+
+viii 
+
+
+TABLE OF AUTHORITIES—Continued 
+Page 
+United States v. Collins, 972 F.2d 1885 (5th Cir. 
+1992), cert. denied, 118 S.Ct. 1812 (1998) ......... 18 
+United States v. Cooper, 800 F.2d 412 (4th Cir. 
+
+
+RR ST es Fl Nall 20 
+United States v. Cruz, 910 F.2d 1072 (3d Cir. 
+
+1990), cert. denied, 498 U.S. 10389 (1991) .......... 22 
+United States v. Griffin, 7 F.8d 1512 (10th Cir. 
+
+RE Sa RRR TE Oe TR A 19, 41 
+United States v. Griffin, 922 F.2d 1848 (8th Cir 
+
+kl I Oh Nd all 79 
+United States v. Harreil, 894 F.2d 120 (5th Cir.), 
+
+cert. denied, 498 U.S. 884 (1990) 0.000. 18 
+United States v. Hocking, 860 F.2d 769 (7th Cir. 
+
+I EA 6 SI SE i ns ml ct ne 19 
+United States v. Humphrey. 34 F.3d 551 (7th Cir. 
+
+RESALE ES 8 8 A 18 
+United States v. Kireteins, 906 F.2d 919 (2d Cir. 
+
+RAL eT dh lt Pl 19 
+United States v. Lanni, 951 F.2d 440 (ist Cir. 
+
+PRR ES ET ae cc 19 
+United States v. Lee, 699 F.2d 466 (9th Cir. 
+
+RE AT a, Po oo 42 
+United States v. Levy, 955 F.2d 1098 (7th Cir.), 
+
+cert. denied, 118 S.Ct. 102 (1992) 2.000000. 18 
+United States v. Mahar, 801 F.2d 1477 (6th Cir. 
+
+I cite tele a a re meena CL 18 
+United States v. Masse, 816 F.2d 805 (ist Cir. 
+
+FR Oe Es AO ome 19 
+
+
+United States v. McConney, 728 F.2d 1195 (9th 
+Cir.), cert. denied, 469 U.S. 824 (1984) ....17, 24, 25, 33 
+United States v. Menzer, 29 F.3d 1228 (7th Cir.), 
+
+
+cert. denied, 115 S.Ct. 515 (1994) 000000 26 
+United States v. Mesa, 688 F.2d 582 (3d Cir. 
+
+Re EIN CE AR A TRB hints OE A Elle 18, 21, 31 
+United States v. Mitchell, 966 F.2d 92 (2d Cir. 
+
+SS a ba 19 
+United States v. Mottl, 946 F.2d 1366 (8th Cir. 
+
+ee ee ee gee re. em bc 19 
+
+
+United States v. Rioseco, 845 F.2d 299 (11th Cir. 
+ee pemneseeesssguassoasenen 19 
+
+
+ix 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+United States v. Taylor, 985 F.2d 3 (ist Cir.), 
+
+cert, denied, 118 S.Ct. 2426 (1998) ................... 22 
+United States v. Torkington, 874 F.2d 1441 (11th 
+
+SS 18, 19 
+United States v. Wolak, 928 F.2d 1198 (6th Cir.), 
+
+cert. denied, 501 U.S. 1217 (1991) ...................... 18 
+United States v. Wynne, 993 F.2d 760 (10th Cir. 
+
+SCR AE RET SS SO ES os SS A 19 
+Wainwright v. Witt, 469 U.S. 412 (1985)........ 9, 16, 38, 34 
+Watts v. Indiana, 338 U.S. 49 (1949) ...................... 12 
+Withrow v. Williams, 118 S.Ct. 1745 (1998) ......... 10, 15, 
+
+36, 37 
+Wright v. West, 112 S.Ct. 2482 (1992) .......... 9, 10, 14, 25 
+STATUTES 
+Act of Nov. 2, 1966, Pub. L. 89-711, 80 Stat. 1105.. 13 
+EEE ELE 2 
+NO 5, passim 
+Alaska Statute 11.56.610 & 11.41.100 (1994) ...... 3 
+EE ET EE 37 
+MISCELLANEOUS 
+
+
+H.R. Rep. No. 1384, 88th Cong., 2d Sess. (1964) .... 13 
+Liebman & Hertz, Federal Habeas Corpus Practice 
+
+
+& Procedure (2d ed. 1994) ............ccccccoeecoeevenenes 10, 13 
+Monaghan, Constitutional Fact Review, 85 Colum. 
+
+Ss 2 A. a 23-24, 25, 30 
+Prosser, Law of Torts (4th ed. 1971) .................... 17 
+
+
+IN THE 
+Supreme Court of the Untied States 
+
+
+OCTOBER TERM, 1994 
+
+
+No. 94-6615 
+
+
+CARL THOMPSON, 
+
+
+. Petitioner, 
+
+
+PATRICK KEOHANE, Warden, 
+Bruce M. BoTELHo, Attorney General, 
+State of Alaska, 
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Ninth Circuit 
+
+
+BRIEF FOR PETITIONER 
+
+
+OPINIONS BELOW 
+
+
+The opinion ot the United States Court of Appeals for 
+the Ninth Circuit (JA 40-42) is unreported. The orders 
+of the United States District Court for the District of 
+Alaska (JA 33-38) are unreported. The opinion of 
+United States Magistrate Judge Harry Branson (JA 
+25-31), as amended (JA 32), is unreported. The 
+Alaska Supreme Court’s denial of discretionary review 
+(JA 24) is unreported. The opinion of the Alaska 
+Court of Appeals (JA 10-23) is reported at Thompson 
+v. State, 768 P.2d 127 (Alaska Ct. App. 1989). The 
+opinion of the Alaska Superior Court for the Fourth Judi- 
+cial District (JA 3-9) is unreported. 
+
+
+JURISDICTION 
+
+
+The United States Court of Appeals for the Ninth 
+Circuit rendered its opinion on August 11, 1994. A 
+petition for certiorari was timely filed on October 31, 
+
+
+2 
+
+
+1994 and was granted on January 23, 1995. This Court's 
+jurisdiction is invoked pursuant to 28 U.S.C. § 1254(1). 
+
+
+CONSTITUTIONAL AND STATUTORY PROVISIONS 
+United States Constitution, Amend. V: 
+
+
+No person . . . shall be compelled in any criminal 
+case to be a witness against himself. . . . 
+
+
+The text of 28 U.S.C. § 2254(d) is reprinted in the 
+Appendix to this brief beginning at page A-1. 
+
+
+STATEMENT OF THE CASE 
+
+
+On September 10, 1986, the body of Dixie Thompson, 
+petitioner Carl Thompson’s ex-wife, was recovered from 
+2 lake in Alaska. (JA 3). In the course of his investi- 
+gation into Ms. Thompson’s murder, Trooper Stockard 
+of the Alaska State Troopers contacted petitioner on 
+September 15, 1986, and requested that he come to 
+trooper headquarters.’ (JA 4) Although Trooper Stock- 
+ard told petitioner that the troopers needed his help 
+in identifying property that they believed belonged to 
+Ms. Thompson (JA 4), the request was a “pretext.” 
+(JA 26) At this time, the troopers had concluded that 
+petitioner had killed Ms. Thompson (JA 6), and 
+Trooper Stockard’s primary reason for contacting peti- 
+tioner was to question him about the murder. (JA 11) 
+
+
+Petitioner arrived at Alaska State Trooper head- 
+quarters in his own truck. (JA 6) He immediately iden- 
+tified the recovered property as Ms. Thompson’s (Tr. 
+1-4), but was then interrogated for two hours by two 
+plainclothes officers, Troopers Stockard and Hard, in a 
+small interview room at trooper headquarters. (JA 6, 
+19) Although the troopers knew that petitioner was rep- 
+resented by retained counsel in connection with another 
+
+
+' Petitioner had previously spoken to investigators on Septem- 
+ber 11 and 12, 1986. (JA 4) These statements were not included 
+in petitioner’s suppression motion, see, ¢.g. (JA 5), and are not at 
+issue in this case. 
+
+
+3 
+
+
+pending case (JA 7), petitioner's counsel was not pres- 
+ent and the troopers at no time advised petitioner of his 
+Miranda rights, including his right to have counsel pres- 
+ent during the interrogation. (JA 19) 
+
+
+On several occasions during the tape-recorded inter- 
+rogation, petitioner was told that he was not under arrest 
+and that he could leave at any time. (JA 6, 19) How- 
+ever, the troopers also repeatedly informed petitioner that 
+they knew he had killed his ex-wife and reviewed some of 
+the evidence that they said would prove his guilt; told pe- 
+titioner that they were executing a search warrant at his 
+house and would be serving a search warrant for his 
+truck; advised petitioner that this was his last oppor- 
+tunity credibly to tell them his side of the story; posited 
+excuses for the crime, inviting claims of self-defense and 
+heat of passion which they said would mean that peti- 
+tioner would face significantly less jail time; and re- 
+peatedly suggested that the victim, not petitioner, was to 
+blame. See infra, at pages 38-43. 
+
+
+Finally, petitioner admitted killing his wife in self- 
+defense. (JA 27) His truck was seized at the conclusion 
+of the interrogation. (JA 6) A trooper drove petitioner 
+to a friend’s residence (JA 6, 78), where the trooper 
+evidently waited outside in his official vehicle. (St. 
+2478)’ Petitioner was arrested approximately two hours 
+later pursuant to a warrant based on the affidavits for the 
+search warrants, as well as his statement. (JA 6). He 
+was charged with first-degree murder. (JA 11) 
+
+
+Petitioner was subsequently indicted by a grand jury 
+in the Alaska Superior Court for the Fourth Judicial 
+District for first-degree murder, under Alaska Statute 
+11.41.100 (1994), and for tampering with physical evi- 
+dence in connection with the murder, under Alaska 
+Statute 11.56.610 (1994). (JA 10) Before trial, peti- 
+tioner moved to suppress the statement he had given to 
+
+
+2 Citations to “St.” refer to the state court trial and appellate rec- 
+ords which were lodged with the Supreme Court on microfiche. 
+
+
+4 
+
+
+the troopers on September 15 on the ground that he had 
+not been advised of his rights prior to this custodial inter- 
+rogation and thus that the statement was obtained in 
+violation of the requirements of Miranda v. Arizona, 384 
+U.S. 436, 467-468 (1966). He also argued that the 
+statement was involuntary and its admission violated his 
+right to due process of law under the Fourteenth Amend- 
+ment. See, e.g., (JA 5, 17) 
+
+
+The trial court decided the motion on the papers 
+submitted, without holding an evidentiary hearing. (St. 
+2503, 2530) It opined that the question of whether 
+petitioner was in “custody” for Miranda purposes was a 
+“very close” one, noting that “in viewing the conduct of 
+the police after the statement, that is, arresting the de- 
+fendant by means of a warrant within two hours of the 
+statement, [sic] appears to be a devious police tactic. It 
+would appear that the police felt they could obtain a 
+statement implicating the defendant by doing so, letting 
+him return home and arrest{ing] him immediately” (JA 
+8-9) (Emphasis added) After applying this Court’s ob- 
+jective legal standard for determining “custody,” the trial 
+court “conclude[d]” that petitioner was not in custody 
+for Miranda purposes. (JA 7-9). It also ruled petition- 
+er’s statement voluntary, and thus admissible. (JA 8) 
+
+
+At trial, petitioner defended on the ground that he 
+initially stabbed Dixie Thompson in self-defense and that 
+he had then lost control and killed her in the heat of 
+passion. (JA 12) The prosecution played for the jury 
+portions of the tape recording of the interrogation. (JA 
+19) The jury convicted petitioner of murder in the first 
+degree and of tampering with physical evidence. (JA 
+10) 
+
+On appeal, the Alaska Court of Appeals affirmed peti- 
+tioner’s conviction. (JA 23) The Court recognized that 
+“Judge Hodges appears to have found that the police 
+intentionally arranged to interrogate Thompson in a non- 
+
+
+5 
+
+
+custodial manner to increase the likelihood that they 
+would get a statement from him. Judge Hodges described 
+this as a ‘devious police tactic.’” (JA 16) The court, 
+evidently applying de novo the legal standard for “cus- 
+tody” to the facts, nevertheless agreed with the lower 
+court’s conclusion that the police were not required to 
+give petitioner Miranda warnings because he was not in 
+“custody.” (JA 15-17) It further held that petitioner's 
+statement was voluntarily made. (JA 19)’ 
+
+
+The Alaska Supreme Court refused discretionary re- 
+view of petitioner’s conviction. (JA 24) Petitioner filed 
+a petition for a writ of habeas corpus in the United States 
+District Court for the District of Alaska, claiming that his 
+September 15 statement was involuntary and unwarned 
+and that it therefore was admitted in evidence in viola- 
+tion of due process and Miranda. (JA 27-28) On De- 
+cember 29, 1992, United States Magistrate Judge Harry 
+Branson issued an initial report and recommendation. 
+(JA 25-31)* On December 8, 1993, the United States 
+District Court for the District of Alaska filed an order 
+denying the writ, ruling that the state court’s conclusion 
+that petitioner was not in “custody” for Miranda pur- 
+
+was entitled to a presumption of correctness under 
+28 U.S.C. § 2254(d). (JA 37) 
+
+
+* The trial court sentenced petitioner to a ninety-nine year term 
+of imprisonment on the murder conviction and to a consecutive 
+five year term on the tampering with evidence conviction. (JA 21) 
+The Alaska Court of Appeals vacated the sentences and directed that 
+the trial court impose concurrent sentences (JA 23); on remand, 
+
+
+District Court initially approved the Magistrate Judge's 
+report and denied the petition on February 18, 1998. (JA 33-34) 
+to 
+
+
+! 
+
+
+a te judgment and allow a new ten- 
+file objections to the Magistrate Judge's report. 
+(JA 86) The District Court granted the motion on July 19, 
+1998, and petitioner filed timely objections. (JA 35) The Magis- 
+typographical error, certified his 
+recommended it as final. (JA 82, 35) 
+
+
+6 
+
+
+The District Court granted petitioner’s motion for a 
+certificate of probable cause (JA 39), and he 
+the denial of the writ to the United States Court of Ap- 
+peals for the Ninth Circuit. In an unpublished opinion 
+relying upon its decision in Krantz v. Briggs, 983 F.2d 
+961 (9th Cir. 1993), the Ninth Circuit affirmed, holding 
+that “a state court’s determination that a defendant was 
+not in custody for purposes of Miranda is a question of 
+fact entitled to a presumption of correctness under 28 
+U.S.C. § 2254(d).” (JA 41) The Ninth Circuit con- 
+cluded that the state court’s “custody” determination had 
+“fair support” in the record (JA 41), and further held 
+that petitioner’s confession was voluntary. (JA 42) 
+
+
+SUMMARY OF ARGUMENT 
+
+
+1. The historical facts surrounding petitioner’s un- 
+warned statement—the content, location and duration of 
+the questioning and the circumstances of the interroga- 
+gor: “factual issue[s]” whose state-court resolution 
+
+presumed correct on federal habeas review under 28 
+USC. § 2254(d). By contrast, the question whether, 
+given the totality of these undisputed circumstances, pe- 
+titioner was in “custody or otherwise deprived of his 
+freedom of action in any significant way” such that the 
+admission of his unwarned statement violated his rights 
+under Miranda, 384 U.S. at 444, is a mixed question of 
+law and fact that is not subject to section 2254(d)’s pre- 
+sumption of correctness. 
+
+
+2. In examining whether a suspect is in “custody” for 
+Miranda purposes, the applicable standard is whether, 
+given the totality of the relevant circumstances, a reason- 
+able person would have understood that he or she was 
+under arrest or that his or her freedom of movement 
+was restrained to a degrec associated with an arrest. 
+Stansbury v. California, ——- U.S. ——, 114 S.Ct. 1526, 
+1529 (1994) (per curiam). What a reasonable person 
+would have believed given the totality of the uncontested 
+circumstances is incapable of being found as an histori- 
+
+
+implicitly recognized the essentially legal nature of the 
+inquiry by conducting independent review of “custody” 
+determinations. 
+
+
+3. The considerations of sound judicial administration 
+et ak on ponte Be Fenton, 474 U.S. 
+104 (1985), req ne the Court continue to treat the 
+
+
+law enforcement’s investigatory efforts. The 
+Court has largely declined to forge rigid, fact-determina- 
+tive rules as to when Miranda “custody” does or does 
+not exist, because such rules would result in the under- 
+protection, and overprotection, of Fifth Amendment 
+rights in discrete cases. See, ¢.g., Berkemer v. McCarty, 
+468 U.S. 420, 441 (1984). Rather, the Court has ap- 
+plied its objective standard to the circumstances in light 
+of the policies and Fifth Amendment values underlying 
+the Miranda decision. The plenary review traditionally 
+accorded such an inherently legal inquiry ensures in this 
+context that neither a suspect's Fifth Amendment rights 
+nor law enforcement’s legitimate investigatory interests 
+are unduly compromised. 
+
+
+I. THIS COURTS TRADITIONAL TOWNSEND ov. 
+SAIN ANALYSIS AND THE FUNCTIONAL CON- 
+SIDERATIONS ARTICULATED IN MILLER ov. 
+FENTON DICTATE THAT THE QUESTION 
+
+
+PURPOSES OF MIRANDA IS A MIXED QUES- 
+TION OF LAW AND FACT NOT SUBJECT TO 
+SECTION 2254(d)’s PRESUMPTION OF CORRECT- 
+NESS 
+
+
+Section 2254(d), of Title 28, United States Code, 
+
+
+provides that in any federal proceeding in which a pris- 
+oner in custody pursuant to the judgment of a state court 
+seeks a writ of habeas corpus, the state courts’ “determi- 
+nation after a hearing on the merits of a factual issue” 
+
+
+procedure[ 
+were inadequate. 28 U.S.C. § 2254(d) (emphasis added).° 
+
+
+* One of the eight exceptions provides that the presumption is 
+inapplicable where the federal habeas court, reviewing the state- 
+
+
+to 
+determinations factual issues, and not to 
+commonly denominated as questions of law or 
+
+
+Farley, —— U.S. ——, 114 S.Ct. 783, 790-791 (1994): 
+Miller, 474 U.S. at 112, 115; Wainwright v. Witt, 469 
+U.S. 412, 428 n.8 (1985); Strickland v. Washington, 
+466 U.S. 668, 698 (1984); Marshal! v. Lonberger, 459 
+U.S. 422, 421 (1983); Sumner v. Mata, 455 U.S. 591, 
+597 & nn.9, 10 (1982) (per curiam) (“Sumner II”); 
+Cuyler v. Sullivan, 446 U.S. 335, 341-342 (1980); 
+Brewer v. Williams, 430 U.S. 387, 397 & n.4, 403-404 
+(1977); see also Wright v. West, ———- U.S. ——, 112 
+S.Ct. 2482, 2493-2498 (1992) (O’Connor, J., concurring 
+in the judgment); id. at 2498-2500 (Kennedy, J., concur- 
+ring in the judgment); cf. id. at 2489, 2491 (1992) 
+(plurality opinion) (implicit recognition, in discussion of 
+standard of review applied to mixed questions, that sec- 
+tion 2254(d)’s presumption not applicable). 
+
+Instead, the Court has long held that legal questions 
+and mixed quvstions of law and fact are subject to 
+plenary federal habeas review. See, e.g., Miller, 474 
+U.S. at 112; see also West, 112 S.Ct. at 2498, 2500 
+(Kennedy, J., concurring in the judgment) (discussing 
+“settled principle” of de novo habeas review of mixed 
+questions); id. at 2495-2496 (O’Connor, J., concurring 
+
+
+court record offered to = a peg “on a considera- 
+tion of such part of 
+
+
+factual rod ht not feisty, cman by the record.” 28 
+U.S.C. § 2254(d) (8). 
+
+
+e.g., Schiro, 114 §.Ct. at 790-791; Brecht v. Abrahamson, 
+— US. —, 113 S.Ct. 1710, 1722-1723 (1993); id. at 
+1724 (Stevens, J., concurring); cf. Withrow v. Williams, 
+— US. —, 113 S.Ct. 1745, 1754 (1993) (due process 
+involuntariness claims “present a legal question requiring 
+an ‘independent federal determination’ on habeas”) (quot- 
+ing Miller, 474 U.S. at 112). 
+
+
+To distinguish between factual issues subject to section 
+2254(d)’s presumption of correctness and mixed issues 
+a a ieee ae ee 
+strained by section 2254(d), the Court Lyre Bh 
+applied the traditional definitions of factual and mixed 
+issues articulated in Townsend v. Sain, 372 U.S. 293. 
+See infra, pages 11-13. Its analysis has also been in- 
+formed by the Court’s longstanding treatment of a par- 
+ticular issue as a question of fact, counselling for deferen- 
+tial review, or of law, requiring plenary consideration. 
+
+
+* Other cases include: Parke v. Raley, ———- U.S. ——, 118 S.Ct. 
+517, 526-527 (1992) ; Estelle v. McGuire, 502 U.S. 62, 67-75 (1991) ; 
+Kimmelman v. Morrison, 477 U.S. 365, 385-390 & n.10 (1986); 
+Strickland v. Washington, 466 U.S. 668, 698-701 (1984) ; Marshall 
+v. Lonberger, 459 U.S. 422, 431-482, 436-487 (1983); Sumner v. 
+Mata, 455 U.S. 591, 597 & nn.9, 10 (1982) (per curiam) (“Sumner 
+IT”); Cuyler v. Sullivan, 446 U.S. 385, 841-842 (1980) ; Jackson v. 
+Virginia, 443 U.S. 307, 318, 323-326 (1979); Manson v. Brath- 
+waite, 482 U.S. 98, 114-117 (1977); Brewer v. Williams, 430 U.S. 
+387, 397 & n.4, 403-404 (1977) ; Donnelly v. DeChristoforo, 416 U.S. 
+637, 642-643 (1974); Neil v. Biggers, 409 U.S. 188, 198 n.8, 199- 
+200 (1972). See also Liebman and Hertz, Federal Habeas Corpus 
+Practice and Procedure §§ 2.4d, 20.3d, 30.2 (2d ed. 1994). 
+
+
+11 
+
+
+See infra, pages 21-22. Where classification according 
+to the traditional definitions proves difficult, as in Miller 
+v. Fenton, 474 U.S. 104, the Court has further supple- 
+mented its analysis by inquiring whether practical con- 
+siderations underlying the sound administration of justice 
+militate toward treating the question as one of fact or 
+law. See infra, pages 23-24. The Court’s traditional 
+Townsend analysis, its longstanding de novo treatment of 
+the “custody” issue, and the policy considerations 
+weighed in Miller, all dictate that the question whether a 
+suspect is in “custody” and thus is entitled to the pro- 
+tections of Miranda is a mixed question of law and fact 
+that is not subject to section 2254(d)’s presumption of 
+correctness. 
+
+
+A. The Miranda “Custody” Determination Requires A 
+Court To Apply An Objective Legal Standard To 
+Oe eee ae ee ee 
+
+
+pened But The 
+
+pened, And Is Therefore A Mixed Question Of Law 
+And Fact Under The Court’s Traditional Townsend 
+vo. Sain Analysis 
+
+
+In Townsend v. Sain, 372 U.S. 293, the Court, draw- 
+ing upon Justice Frankfurter’s separate opinion endorsed 
+by a majority of the Court in Brown v. Allen, 344 U.S. 
+443 (1953), articulated the distinction between questions 
+of fact and mixed questions of law and fact that serves 
+as the basis for the Court’s traditional analysis. The 
+Townsend Court premised its extended discussion of the 
+duties of federal habeas courts to hold hearings on fac- 
+tual issues that had not been fully, reliably or fairly 
+found by the state courts on the following distinction: 
+
+
+By “issues of fact” we mean to refer to what are 
+termed basic, primary, or historical facts: facts “in 
+the sense of a recital of external events and the credi- 
+bility of their narrators... .” Brown v. Allen, 344 
+U.S. 443, 506 (opinion of Mr. Justice Frankfurter). 
+So-called mixed questions of fact and law, which re- 
+quire the application of a legal standard to the 
+
+
+12 
+
+
+historical-fact determinations, are not facts in this 
+sense. 
+
+
+372 U.S. at 309 n.6 (emphasis added).” 
+
+
+The Court has relied upon these definitions to distin- 
+guish between findings of basic, primary, or “historical” 
+facts, which are accorded the section 2254(d) presump- 
+tion of correctness, and conclusions flowing from the 
+application of federal law to the historical facts, which 
+are not presumed correct. See Patton v. Yount, 467 
+U.S. 1025, 1036 (1984) (juror bias is a question of 
+“historical fact,” not a mixed question); Strickland, 466 
+U.S. at 698 (performance and prejudice components of 
+the ineffectiveness of counsel inquiry are not questions of 
+“basic, primary, or historical fac[t],’” subject to section 
+2254(d)’s presumption but rather are mixed questions of 
+law and fact) (quoting Townsend, 372 U.S. at 309 
+n.6); Rushen v. Spain, 464 U.S. 114, 120 (1983) (per 
+curiam) (application of harmless error standard is a 
+question of federal law but issue of juror impartiality is 
+
+
+, one of “historical fact” entitled to presumption of correct- 
+
+
+ness); Marshall, 459 U.S. at 431-432, 436-437 (applica- 
+tion of voluntariness standard for guilty pleas is a ques- 
+tion of federal law subject to de novo review although 
+underlying “historical facts” are entitled to presumption 
+of correctness); Sumner I], 455 U.S. at 597 & nn.9, 10 
+(state determinations of “historical fact” are presumed 
+correct but the constitutionality of pretrial identification 
+
+
+™ The distinction drawn between factual issues and mixed ques- 
+tions of law and fact in Justice Frankfurter’s opinion in Brown 
+v. Allen, 344 U.S. 448, 506-507 (1953) and in the Court’s opinion 
+in Townsend v. Sain, 372 U.S. 298, 309 n.6 (1963) was consistent 
+with a long line of Supreme Court precedent. See, ¢.g., Ker v. 
+California, 374 U.S. 23, 22-84 (1968); Irwin v. Dowd, 366 U.S. 
+717, 728 (1961); Watts v. Indiana, 388 U.S. 49, 50-51 (1949) ; 
+Baumgartner v. United States, 822 U.S. 665, 670-671 (1944); 
+Helvering v. Tex-Penn Oil Co., 300 U.S. 481, 490-491 (1987); 
+Helvering v. Rankin, 296 U.S. 123, 181 (1985); Norris v. Alabama, 
+294 U.S. 587, 589-590 (1985); Fiske v. Kansas, 274 U.S. 380, 385- 
+387 (1927). 
+
+
+13 
+
+
+procedures is a mixed question of law and fact not gov- 
+erned by section 2254(d)); Cuyler, 446 U.S. at 341- 
+342 (section 2254(d)’s presumption ruled inapplicable 
+because whether counsel engaged in multiple representa- 
+tion is not a question of “ ‘basic, primary or historical’ ” 
+fact “ ‘in the sense of a recital of external events and the 
+credibility of their narrators’” but rather is “a mixed 
+determination of law and fact that requires the applica- 
+tion of legal principles to the historical facts of this 
+case”) (quoting Townsend, 372 U.S. at 309 n.6 and 
+Brown, 344 U.S. at 506 (opinion of Frankfurter, J.) ); 
+Brewer, 430 U.S. at 397 & n.4, 403-404 (“the question 
+of waiver [of respondent’s Sixth Amendment right to the 
+assistance of counsel] [is] not a question of historical 
+fact, but one which, in the words of Mr. Justice Frank- 
+furter, requires ‘application of constitutional principles to 
+the facts as found’”) (quoting Brown, 344 U.S. at 507 
+(opinion of Frankfurter, J.)) (citing Townsend, 372 
+U.S. at 309 n.6); see also Jackson v. Virginia, 443 U.S. 
+307, 318 (1979) (whether on direct or habeas review, 
+“[{a] federal court has a duty to assess the historic facts 
+when it is called upon to apply a constitutional standard 
+to a conviction obtained in a state court”) (citing Town- 
+send, 372 U.S. at 318 and Brown, 344 U.S. at 506-507 
+(opinion of Frankfurter, J.)).* 
+
+
+*In Townsend, 872 U.S. at 318, the Court stated that when an 
+evidentiary hearing was not required, the federal habeas court “may, 
+and ordinarily should, accept the facts”—which the Court had de- 
+fined as basic, primary, or historical facts—as found in the state 
+proceeding. In the 1966 amendment to the habeas corpus statute 
+which added section 2254(d), Act of Nov. 2, 1966, Pub. L. 89-711, 
+80 Stat. 1105, “Congress elevated that exhortation into a manda- 
+tory presumption of correctness.” Miller v. Fenton, 474 U.S. 104, 
+111-112 (1985). Before doing so, Congress considered Brown, Town- 
+send and other cases in which the Court had drawn a distinction 
+between factual] issues and mixed questions. See, ¢.g., H.R. Rep. 
+No. 1384, 88th Cong., 2d Sess. 23-26 (1964); Liebman and Hertz, 
+Federal Habeas Corpus Practice and Procedure § 2.4d, at p. 65 
+n.270. “When Congress codifies a judicially defined concept, it is 
+presumed, absent an express statement to the contrary, that Con- 
+
+
+14 
+
+
+Employing the Court’s traditional analysis, the applica- 
+tion of the objective standard for determining whether a 
+suspect is in “custody” for Miranda purposes to the total- 
+ity of the circumstances of the case must be denominated 
+a mixed question of law and fact. In Miranda, this 
+Court concluded “that without proper safeguards the 
+process of in-custody interrogation of persons suspected 
+or accused of crime contains inherently compelling pres- 
+sures which work to undermine the individual’s will to 
+resist and to compel him to speak where he would not 
+
+
+gress intended to adopt the interpretation placed on that concept 
+by the courts.” Davis v. Michigan Dep't of Treasury, 489 U.S. 
+808, 813 (1989); see also BFP v. Resolution Trust Corp., —— 
+U.S. ——, 114 S.Ct. 1757, 1764 (1994) ; Kelly v. Robinson, 479 U.S. 
+86, 47 (1986); Midlantic Nat'l Bank v. New Jersey Dep't of En- 
+vironmental Protection, 474 U.S. 494, 501 (1986). In crafting 
+section 2254(d)’s presumption of correctness for state-court de- 
+terminations of “factual issues,” then, Congress presumptively 
+adopted the Townsend definitions of questions of fact, ‘‘in the 
+sense of a recital of external events and the credibility of their 
+narrators,” (372 U.S. at 309 n.6), and mixed questions of law 
+and fact, involving the application of legal standards to the facts 
+found (id.). See Miller, 474 U.S. at 112 (“there is absolutely no 
+indication that [Congress] intended to alter Townsend’s under- 
+standing that the ‘ultimate constitutional question’ of the ad- 
+missibility of a confession was a ‘mixed questio[n] of fact and 
+law’ subject to plenary federal review”) (quoting Townsend, 372 
+U.S. at 309 & n.6); see also Wright v. West, 112 S.Ct. 2482, 2498 
+(1992) (O’Connor, J., concurring in the judgment); Cuyler, 446 
+U.S. at 341-342 (stating that the Townsend opinion, “the pre- 
+cursor of § 2254(d),” “examined the distinction between law and 
+fact as it applies on collateral review of a state conviction,” and 
+quoting and applying Townsend's definitions); Brewer, 430 U.S. 
+at 395 (stating that section 2254(d) “codifies most of the cri- 
+teria set out in Townsend v. Sain” and applying Townsend defi- 
+nitions); Davis v. Heyd, 479 F.2d 446, 450 n.6 (5th Cir. 1973) 
+(“the draftsmen of the 1966 amendments to 28 U.S.C. § 2254 
+used the term ‘factual issue’ in the same sense it was used in 
+Townsend v. Sain”); Jmbler v. California, 424 F.2d 681, 682 (9th 
+Cir.) (per curiam) (“Section 2254(d) was drafted by a com- 
+mittee of the Judicial Conference of the United States composed 
+of judges fully cognizant” of the Court’s then-recent definition of 
+mixed questions in Townsend), cert. denied, 400 U.S. 865 (1970). 
+
+
+15 
+
+
+otherwise do so freely.” 384 U.S. at 467; see also With- 
+row, 113 S.Ct. at 1752. Accordingly, the Miranda 
+Court “presumed that interrogation in certain custodial 
+circumstances is inherently coercive and held that state- 
+ments made under those circumstances are inadmissible 
+unless the suspect is specifically informed of his Miranda 
+rights and freely decides to forgo those rights.” New 
+York v. Quarles, 467 U.S. 649, 654 (1984) (footnote 
+omitted); see also Oregon v. Elstad, 470 U.S. 298, 307 
+(1985). The obligation to administer Miranda warnings 
+prior to any interrogation attaches where the coercive 
+dangers sought to be remedied in Miranda are present, 
+that is, “after a person has been taken into custody or 
+otherwise deprived of his freedom of action in any sig- 
+nificant way.” Miranda, 384 U.S. at 444 (footnote 
+omitted) (emphasis added); see id. at 445, 477; Cali- 
+fornia v. Beheler, 463 U.S. 1121, 1123 (1983) (per 
+curiam); Beckwith v. United States, 425 U.S. 341, 345- 
+346 n.6 (1976); see also Stansbury, 114 S.Ct. at 1528- 
+1529; Oregon v. Mathiason, 429 U.S. 492, 494-495 
+(1977) (per curiam). 
+
+
+In determining whether a person is in custody or other- 
+wise deprived of his freedom of action in any significant 
+way for purposes of Miranda, the Court has asked 
+“whether there is a ‘formal arrest or restraint on freedom 
+of movement’ of the degree associated with a formal 
+arrest.” Beheler, 463 U.S. at 1125 (quoting Mathiason, 
+429 U.S. at 495); see also Berkemer, 468 U.S. at 440; 
+Minnesota v. Murphy, 465 U.S. 420, 430 (1984). 
+“(T]he initial determination of custody depends on the 
+objective circumstances of the interrogation, not on the 
+subjective views harbored by either the interrogating of- 
+ficers or the person being questioned.” Stansbury, 114 
+S.Ct. at 1529. “‘The only relevant inquiry is how a 
+reasonable man in the suspect’s shoes would have under- 
+stood his situation.’” Jd. (quoting Berkemer, 468 U.S. 
+at 442). 
+
+
+The determination of Miranda “custody” proceeds in 
+two steps. First, courts must identify the totality of the 
+
+
+16 
+
+
+relevant circumstances surrounding the interrogation. See 
+Stansbury, 114 §.Ct. at 1529; see also Beheler, 463 U.S. 
+at 1125. Then, the general “reasonable person” stand- 
+ard is applied to the facts as found. Clearly, the trial 
+court’s first-step findings constitute the determination of 
+“factual issues” subject to section 2254(d)’s presumption 
+of correctness if the exceptions enumerated in section 
+2254(d)(1)-(8) are inapplicable. Equally clearly, the 
+second step in the process—application of the reasonable 
+person test to the undisputed facts—fits squarely within 
+the Court’s definition of a mixed question of law and 
+fact: “the historical facts are admitted or established, 
+the rule of law is undisputed, and the issue is whether 
+the facts satisfy the . . . standard, or to put it another 
+way, whether the rule of law as applied to the established 
+facts is or is not violated.” Pullman-Standard v. Swint, 
+456 U.S. 273, 289 n.19 (1982); see also Brewer, 430 
+U.S. at 403-404; Townsend, 372 U.S. at 309 n.6; Brown, 
+344 U.S. at 507 (opinion of Frankfurter, J.). 
+
+This is not a situation in which the application of a 
+legal standard essentially constitutes nothing more than 
+the finding of a single determinative fact relating to state 
+of mind, as may be true in cases concerning, for example, 
+intent or juror bias. See, e.g., Witt, 469 U.S. at 429; 
+Patton, 467 U.S. at 1036-1037 & n.12; cf. also Arave 
+v. Creech, —— U.S. ——, 113 S.Ct. 1534, 1541-1542 
+(1993). The “custody” inquiry requires review of all 
+the relevant attendant circumstances and, as this Court 
+has repeatedly emphasized, does not turn on any actor’s 
+subjective state of mind. See, e.g., Stansbury, 114 S.Ct. 
+at 1526, 1529. Indeed, no amount of factfinding can re- 
+solve the central question—how, given the objective cir- 
+cumstances found by the trier of fact, a reasonable person 
+would have undertsood the situation—because the beliefs 
+of a fictional reasonable person are incapable of histori- 
+cal analysis. Cf. Antilles Steamship Co., Ltd. v. Members 
+of the Am. Hull Ins. Syndicate, 733 F.2d 195, 204 
+(1984) (Newman, J., concurring) (“if the law’s hypo- 
+
+
+17 
+
+
+thetical reasonable person were to appear in the court- 
+room as a deus ex machina and respond to the inquiry 
+as to what he or she thought the terms [of the contract] 
+meant, the answer would be a matter of fact in the tradi- 
+tional sense—an observable, recordable historical event. 
+But the law’s reasonable person has not yet appeared on 
+the witness stand of any courtroom. That person remains 
+a legal construct”) (footnote omitted); cf. also Cheek 
+v. United States, 498 U.S. 192, 203 (1991) (to char- 
+acterize knowledge and belief, which are normally ques- 
+tions for the factfinder, “as not objectively reasonable 
+transforms the inquiry into a legal one and would prevent 
+the jury from considering it”).° The application of this 
+legal construct to the facts to determine not what hap- 
+pened but “the legal significance” of what happened is 
+a classic mixed question of law and fact. Brown, 344 
+
+
+® The standard of conduct applied in civil negligence cases also 
+turns upon an assessment of the actions of a hypothetical reason- 
+able person. Although “(tlhe existence of negligence in a par- 
+ticular case often is said to be a mixed question of law and fact,” 
+Prosser, Law of Torts 205 (4th ed. 1971), “[i)n tort we prefer, 
+as a matter of both policy and practicality, to let the jury select 
+the particular standard of care; since it would be unsettling to say 
+that the jury is deciding an issue of law, we prefer to say that the 
+issue is one of fact... .” Antilles Steamship Co., Ltd. v. Members 
+of the Am. Hull Ins. Syndicaté, 733 F.2d 195, 206 (1984) (New- 
+man, J., concurring); see also id. at Zoo nn.4, 5. The practical 
+“exception[]” crafted to permit a jury to apply community stand- 
+ards in negligence cases, United States v. McConney, 728 F.2d 
+1195, 1203-1204 (9th Cir.), cert. denied, 469 U.S. 824 (1984), finds 
+no purchase here where a judge, not a jury, is called upon to make 
+this determination by reference to the policy concerns and funda- 
+mental constitutional values underlying Miranda, not by application 
+of community mores. See infra, at pages 24-29. The custody 
+question arises in a fairly discrete universe of situations, not, as 
+in negligence cases, in an infinite variety of circumstances; the 
+determination of the custody issue in these recurring or analogous 
+factual situations is necessary to provide uniform nationwide, 
+not community-specific, guidance for the primary conduct of law 
+enforcement. As discussed infra, at pages 29-33, as a matter 
+of policy and practicality, this mixed question should be accorded 
+the plenary review usually reserved for such issues. 
+
+
+18 
+
+
+U.S. at 507 (opinion of Frankfurter, J.); see also Neil 
+v. Biggers, 409 U.S. 188, 193 n.3 (1972). 
+
+
+As the overwhelming majority of the circuit courts to 
+address the question have therefore recognized, the ap- 
+plication of the objective “custody” standard to the facts 
+of each case is an inherently legal exercise. Seven of the 
+nine circuits that have discussed the issue of how to cate- 
+gorize the Miranda “custody” question have concluded 
+that it is either a mixed question or a question of law.” 
+
+
+1% The District of Columbia, Third, Fifth, Sixth, Seventh, Tenth 
+and Eleventh Circuits have concluded that the Miranda custody 
+determination is either a question of law or a mixed question of 
+law and fact, although there is some confusion within and among 
+circuits on the applicable standard of review. D.C. Circuit: see 
+United States v. Baird, 851 F.2d 376, 379 (D.C. Cir. 1988) (legal 
+question reviewed de novo); Third Circuit: see United States v. 
+Calisto, 888 F.2d 711, 716-718 & n.8 (3d Cir. 1988) (mixed ques- 
+tion reviewed de novo) ; United States v. Mesa, 6388 F.2d 582, 584- 
+589 (3d Cir. 1980) (implicit de novo review) ; id. at 591 n.8 (Adams, 
+J., concurring) (legal question reviewed de novo); Fifth Circuit: 
+see United States ». Harrel!, 894 F.2d 120, 122-125 (5th Cir.) (in 
+reviewing custody question, court stated that “[t]he question of 
+whether Miranda’s guarantees have been impermissibly denied to a 
+criminal defendant, assuming the facts as established by the trial 
+court are not clearly erroneous, is a matter of constitutional law, 
+meriting de novo review,” citing United States v. Torkington, 874 
+F.2d 1441, 1445 (llth Cir. 1989)), cert. denied, 498 U.S. 834 
+(1990) ; see also United States v. Collins, 972 F.2d 1885, 1404-1406 
+(5th Cir. 1992) (implicit de novo review), cert. denied, ——— U.S. 
+——, 118 S.Ct. 1812 (1993: ; Hancock v. Estelle, 558 F.2d 786, 787- 
+788 (5th Cir. 1977) (on habeas, implicitly reviewed de novo with no 
+mention of section 2254(d)); Sixth Circuit: see, e.g., Cobb v. 
+Perini, 832 F.2d 342, 346 (6th Cir. 1987) (on habeas, noting that 
+“(w)hether a person is in custody is a question of law,” and im- 
+plicitly conducting de novo review), cert. denied, 486 U.S. 1024 
+(1988); United States v. Wolak, 923 F.2d 1198, 1196 (6th Cir.) 
+(implicit de novo review), cert. denied, 501 U.S. 1217 (1991); but 
+see United States v. Mahar, 801 F.2d 1477, 1500 & n.838 (6th Cir. 
+1986) (reviewed for clear error); Seventh Circuit: see, e.g., 
+United States v. Humphrey, 34 F.3d 551, 554 n.1 (7th Cir. 1994) 
+(mixed question reviewed de novo); United States v. Levy, 955 
+F.2d 1098, 1103-1104 & n.5 (7th Cir.) (mixed question but ques- 
+
+
+l 
+
+
+19 
+
+
+Another circuit, the Eighth, has acknowledged that the 
+“custody” determination is a mixed question of law and 
+fact, see United States v. Mottl, 946 F.2d 1366, 1368 
+(8th Cir. 1991); United States v. Griffin, 922 F.2d 1343, 
+1347-1348 (8th Cir. 1990), although it has applied sec- 
+tion 2254(d)’s presumption of correctness to a “custody” 
+determination. Feltrop v. Delo, 46 F.3d 766, 773 (8th 
+Cir. 1995). Only the Ninth Circuit has concluded that 
+the “custody” question is one of fact. See, e.g., Thomp- 
+son v. Keohane (JA 40-42); Krantz v. Briggs, 983 F.2d 
+961, 963-964 (9th Cir. 1993).™ 
+
+
+tioning de novo review standard), cert. denied, ——- US. ——, 
+118 S.Ct. 102 (1992); United States v. Hocking, 860 F.2d 769, 
+772-773 (7th Cir. 1988) (mixed question reviewed de novo) ; Tenth 
+Circuit: see United States v. Griffin, 7 F.3d 1512, 1516-1519 (10th 
+Cir. 1998) (legal question reviewed de novo); United States v. 
+Wynne, 998 F.2d 760, 764-765 (10th Cir. 1993) (same); but see, 
+e.9., Cordoba v. Hanrahan, 910 F.2d 691, 698 (10th Cir.) (on 
+habeas, reviewed for clear error trial court’s custody determina- 
+tion), cert. denied, 498 U.S. 1014 (1990); Eleventh Circuit: see 
+United States v. Adams, 1 F.8d 1566, 1574-1576 (11th Cir. 1993) 
+(application of custody standard to facts reviewed de novo), cert. 
+denied, _—— U.S. ——, 114 S.Ct. 1810 (1994); Jacobs v. Single- 
+tary, 952 F.2d 1282, 1291 (11th Cir. 1992) (on habeas, state court’s 
+custody finding is mixed question; application of law to facts re- 
+viewed de novo); Torkington, 874 F.2d at 1445 (mixed question; 
+application of law te facts reviewed de novo); United States v. 
+Rioseco, 845 F.2d 299, 302 (11th Cir. 1988) (same); Sullivan v. 
+Alabama, 666 F.2d 478, 482 (11th Cir. 1982) (on habeas, im- 
+plicitly reviewed de novo without mention of Section 2254(d)); 
+but see Purvis v. Dugger, 982 F.2d 1418, 1418-1419 (11th Cir. 
+1991) (Section 2254(d) presumption applied to state court’s cus- 
+tody determination), cert. denied, 508 U.S. 940 (1992). 
+
+
+The First, Second and Fourth Circuits have not expressly 
+addressed the question and have applied varied standards of review. 
+First Circuit: see, e.g., United States v. Lanni, 951 F.2d 440, 441, 
+443 (ist Cir. 1991) (reviewed for clear error); United States v. 
+Masse, 816 F.2d 805, 808-810 & n.4 (1st Cir. 1987) (same); Pod- 
+laski v. Butterworth, 677 F.2d 8 (1st Cir. 1982) (per Breyer, J.) 
+(on habeas, implicitly reviewed de novo) ; Second Circuit: see, e.g., 
+United States v. Mitchell, 966 F.2d 92, 98 (2d Cir. 1992) (reviewed 
+for clear error); United States v. Kirsteins, 906 F.2d 919, 924 
+
+
+20 
+
+
+No less compelling is this Court’s apparent assump- 
+tion, albeit without formal consideration, that Miranda 
+“custody” is a question requiring plenary review. The 
+Miranda Court made clear that it contemplated some 
+flexibility in the administration of its new procedural re- 
+quirements, but firmly took responsibility for enforcing 
+Miranda’s basic standards. See Miranda, 384 U.S. at 
+490-491. Since that time, the Court has fulfilled this re- 
+sponsibility by implicitly exercising independent review of 
+the threshold question whether a suspect is entitled to 
+Miranda’s protections because he or she is in “custody,” 
+without according any stated deference to lower court de- 
+terminations of the issue and regardless of whether the 
+case involved a federal or state prosecution or arose on 
+direct or habeas review. See, e.g., Illinois v. Perkins, 496 
+U.S. 292, 296-300 (1990) (plenary review, without stated 
+deference to lower courts, of custodial interrogation is- 
+sue); Pennsylvania v. Bruder, 488 U.S. 9, 10-11 (1988) 
+(per curiam) (independent determination of “custody” 
+issue without deference to state-court determination) ; 
+Berkemer, 468 U.S. at 435-442; Murphy, 465 U.S. at 
+430-431 (de novo examination without stated deference 
+to state-court determination of “custody”); Beheler, 463 
+U.S. at 1123-1126 (independent examination of “cus- 
+tody” determination without stated deference to lower 
+court determinations); Estelle v. Smith, 451 U.S. 454, 
+466-469 (1981) (plenary habeas review of applicability 
+of Miranda without stated deference to lower state and 
+federal court determinations); Mathiason, 429 U.S. at 
+494-496 (independent examination of “custody” issue 
+without according deference to lower court conclusions) ; 
+Beckwith, 425 U.S. at 344-348 (same); Orozco v. Texas, 
+394 U.S. 324, 325-327 (1969) (same); Mathis v. United 
+States, 391 U.S. 1, 3-5 (1968) (same); cf. Stansbury, 
+
+
+(2d Cir. 1990) (accepting facts found by District Court but ap- 
+parently conducting de novo review of application of standard to 
+those facts) ; Fourth Circuit: see, e.g., United States v. Cooper, 800 
+F.2d 412, 414-415 (4th Cir. 1986) (implicitly reviewed de novo) ; 
+Davis v. Allbrooks, 778 F.2d 168, 179-172 (4th Cir. 1985) (same). 
+
+
+21 
+
+
+114 S.Ct. at 1530-1531; United States v. Calisto, 838 
+F.2d 711, 718 n.3 (3d Cir. 1988); United States v. 
+Mesa, 638 F.2d 582, 591 n.3 (3d Cir. 1980) (Adams, 
+
+
+J., concurring). 
+
+
+statements in response to roadside questioning 
+
+
+22 
+
+
+in determining the appropriate characterization of the 
+question in future. Cf. Miller, 474 U.S. at 109-112, 115 
+(emphasizing importance of Court’s traditional treatment 
+of the voluntariness issue); cf. also Pierce v. Underwood, 
+487 U.S. 552, 558 (1988); Pullman-Standard, 456 U.S. 
+
+
+at 287-288." 
+
+
+18 The Court’s treatment of the “custody” question is consistent 
+with its treatment of other, similar issues concerning the scope 
+and content of Miranda’s requirements, particularly its plenary 
+review of the question whether a suspect has been subjected to 
+custodial “interrogation” within the meaning of Miranda. 
+example, in Arizona v. Mauro, 481 U.S. 520, 527-529 n.6 (1987), 
+the Court independently applied the “legal standard” for Miranda 
+“interrogation,” explicitly stating that it was not overturning any 
+“factual findings” in rejecting the Arizona Supreme Court's de- 
+termination that the defendant was subjected to custodial “inter- 
+rogation.” See also Rhode Island v. Innis, 446 U.S. 291, 302-304 
+(1980) (vacating and remanding Rhode Island Supreme Court's 
+ruling that defendant was “interrogated” within the meaning of 
+Miranda) : cf. Pennsylvania v. Muniz, 496 U.S. 582 (1990) (plur- 
+ality opinion) (vacating Pennsylvania Superior Court’s ruling that 
+certain questions constituted “interrogation,” holding, inter alia, 
+that the questions fell withir the routine booking question excep- 
+tion to Miranda); United States v. Taylor, 985 F.2d 3, 7 n.5 
+(ist Cir.) (need for plenary review of Miranda “interrogation” 
+is implicit in the Supreme Court’s cases), cert. denied, ——— U.S. 
+——, 118 S.Ct. 2426 (1998). Similarly, the Court has exercised 
+apparent plenary review, without suggesting that any deference 
+is due lower court determinations, largely to ensure that Miranda's 
+requirements are not read too broadly in: (1) assessing the ade- 
+quacy of any warnings given, see, ¢.g., Duckworth v. Eagan, 492 
+U.S. 195, 200-205 (1989) (on habeas review, reversing Seventh 
+Cireuit’s holding that warnings were inadequate under Miranda) ; 
+California v. Prysock, 453 U.S. 355, 361 (1981) (per curiam) 
+(reversing California Court of Appeals’ holding that Miranda 
+warnings were inadequate); see also United States v. Cruz, 910 
+F.2d 1072, 1078 & mn.2, 3 (3d Cir. 1990) (adequacy of Miranda 
+warnings treated by the Supreme Court as a legal issue), cert. 
+denied, 498 U.S. 1089 (1991): (2) determining what circumstances 
+censtitute an invocation of the right to counsel and the right to 
+remain silent, see, ¢.9., McNeil v. Wisconsin, 501 U.S. 171, 175-180 
+(1991) (affirming Wisconsin Supreme Court's ruling that accused's 
+request for counsel! at initia! appearance on charged offense does 
+
+
+, 
+
+
+mely  S Although thin ia not vech & caan, in that 
+
+
+to label an issue a ‘question of law,’ a ‘question of fact,’ 
+on ; 
+
+
+5 
+é. 
+
+
+matter of allocation as it is of analysis.” Id. a 
+
+
+charges); Connecticut v. Barrett, 479 U.S. 5283, 526-530 & n.1 
+(1987) (reversing Connecticut Supreme Court’s ruling that a 
+request for counsel prior to making a written statement constitutes 
+an invocation of reepondent’s right to counsel for all purposes) ; 
+
+v. Bradshaw, 462 U.S. 1089, 1045-1046 (1983) (reversing 
+
+
+24 
+
+
+Id. at 114 (emphasis added); see also Pierce, 487 U.S. 
+at 559-560; Rushen, 464 U.S. at 120; United States v. 
+
+
+of the ing S. 
+at 115, requires courts to consider “legal concepts in the 
+mix of fact and law and to exercise judgment about the 
+values that animate legal principles,” functional considera- 
+tions dictate that the inquiry be subject to plenary re- 
+view. McConney, 728 F.2d at 1202. Thus, the Miller 
+Court examined the nature of the due process voluntari- 
+ness inquiry and determined that because of its “hybrid 
+quality,” “subsuming, as it does, a ‘complex of values,’ ” 
+
+
+25 
+
+
+the inquiry has “a uniquely legal dimension” and cannot 
+
+i be treated as a question of fact. Miller, 
+474 US. at 116 (citation omitted). In such circum- 
+stances, the trier of fact is not in an “appreciably better 
+position” to determine the predominantly legal issue, id. 
+at 117; rather, reviewing courts must exercise their tra- 
+ditional “obligation to say what the law is.” West, 112 
+S.Ct. at 2497 (O'Connor, J., concurring in the judg- 
+ment); see also Monaghan, Constitutional Fact Review, 
+85 Colum. L. Rev. at 275; McConney, 728 F.2d at 1201 
+
+
+nelle thx MGs datas tn tee Gandini 
+It is the traditional function of reviewing courts, and 
+particularly this Court, to exercise the control that ple- 
+nary review of this essentially legal inquiry permits, so 
+that suspects’ free exercise of their Fifth Amendment 
+rights, as well as law enforcement’s legitimate investiga- 
+tory interests, are neither underprotected nor over- 
+protected. 
+
+
+In its “custody” precedents over the years, the Court 
+has chosen to address certain recurring factual situations 
+as to which the lower courts required guidance or cor- 
+rection, see, e.g., Berkemer, 468 U.S. at 435-436 n.23; 
+Beckwith, 425 U.S. at 342, and has separated on a case- 
+by-case basis those factors deemed probative from those 
+deemed irrelevant. See, e.g., Stansbury, 114 S.Ct. at 
+1529-1530; Beheler, 463 U.S. at 1125. In so doing, the 
+Court has rejected arguments that one circumstance— 
+apart from actual arrest—should be conclusive for pur- 
+poses of determining that a defendant is or is not in 
+custody. See, e.g., Stansbury, 114 S.Ct. at 1530 (officer’s 
+articulated belief that defendant is the prime suspect, 
+while relevant, is not dispositive); Berkemer, 468 U.S. 
+at 436-437, 440-441 (fact that traffic stop is a Fourth 
+
+
+26 
+
+Amendment “seizure” does not mean that the motorist 
+is therefore in Miranda a Bh tg 
+traffic may rise to level of “custody”); Orozco, 
+US. at 426-327 (Miranda not inapplicable simply be- 
+cause defendant was interrogated at home as opposed to 
+at stationhouse). Thus, the Court has not limited 
+Miranda's applicability to formal felony arrests, see 
+Berkemer, 468 U.S. at 434-435, 440, but has also re- 
+fused to extend Miranda's requirements to all “ ‘coercive 
+environment{s].’” Mathiason, 429 U.S. at 495; see also 
+Beheler, 463 U.S. at 1124. Even the fact that a defend- 
+ant is actually in custody, in the sense of being physi- 
+cally incarcerated, may not automatically translate into 
+“custody” for Miranda purposes. Perkins, 496 U.S. at 
+299 (“[t}he bare fact of custody may not in every in- 
+Stance require a warning even when the suspect is aware 
+that he is speaking to an official”); see also United 
+States v. Menzer, 29 F.3d 1223, 1230-1233 (7th Cir.) 
+(applying de novo review and holding that incarceration 
+does not, per se, render an interrogation custodial), cert. 
+denied, U.S. ——, 115 S.Ct. 515 (1994). 
+
+
+Forsaking the application of fact-bound formulas, the 
+Court has instead assessed the significance of the restraint 
+a reasonable person would have perceived in the circum- 
+stances in light of the values underlying the Miranda 
+decision. The analytical focus is whether the interroga- 
+tion situation is sufficiently coercive that Miranda's pro- 
+tections are necessary to shield the accused’s free exer- 
+cise of his or her constitutional right to be free from 
+compelled self-incrimination. See, e.g., Perkins, 496 U.S. 
+at 296 (circumstances did not constitute “custodial inter- 
+rogation” because “conversations between suspects and 
+undercover agents do not implicate the concerns under- 
+lying Miranda”); Berkemer, 468 U.S. at 437; Murphy, 
+465 U.S. 430-433 (probation interview not an inherently 
+coercive setting so as to require Miranda warnings); see 
+also Bruder, 488 U.S. at 10-11; Beckwith, 425 U.S. at 
+345, 347; Mathis, 391 US. at 4. 
+
+
+27 
+
+
+For example, in Berkemer, the Court declined to 
+“accord talismanic power” to the Miranda definition of 
+“custodial interrogation,” explaining that: 
+
+Fidelity to the doctrine announced in Miranda re- 
+quires that it be enforced strictly, but only in those 
+types of situations in which the concerns that pow- 
+
+
+ered the decision are implicated. Thus, we must de- 
+cide whether a traffic exerts upon a detained 
+
+
+paratively nonthreatening” environment not necessitating 
+the provision of Miranda warnings. Id. at 440; see also 
+id. at 435-439; Bruder, 488 U.S. at 10-11. While the 
+Court stated that the “noncoercive aspects of ordinary 
+traffic stops” generally mean that persons temporarily de- 
+tained pursuant to such stops are not in “custody” for 
+Miranda purposes, the Court made clear that if a motor- 
+ist, during a traffic stop, “is subjected to treatment that 
+renders him ‘in custody’ for practical purposes, he will 
+be entitled to the full panoply of protections prescribed 
+by Miranda.” Berkemer, 468 U.S. at 440; see also 
+Bruder, 488 U.S. at 10-11, nn.1, 2. 
+
+
+The Berkemer Court recognized that its refusal to 
+adopt a rule providing simply that Miranda does not 
+apply to traffic stops meant that “police and lower courts 
+will continue occasionally to have difficulty deciding ex- 
+
+
+this flexible approach necessary to ensure that the proper 
+balance is achieved in each case between society’s funda- 
+mental interest in protecting citizens’ Fifth Amendment 
+rights and its interest in promoting the enforcement of 
+the Nation’s traffic laws. Id. at 441 & n.33. 
+
+
+28 
+
+
+As Berkemer illustrates, the Court has used the cus- 
+todial interrogation requirement to distinguish between 
+those situations in which the coercive aspects of an in- 
+terrogation threaten the free exercise of Fifth Amendment 
+rights and those situations in which the threat is suffi- 
+ciently attenuated that it cannot overcome the public’s 
+legitimate interest in the questioning of crime suspects. 
+See also Perkins, 496 U.S. at 296-297, 300. This 
+quintessentially legal analysis enables the Court to con- 
+trol the balance struck between fundamental Fifth 
+Amendment values and legitimate law enforcement inter- 
+ests in recurring factual situations. 
+
+
+Consistent with this underlying purpose of the thresh- 
+old “custody” requirement, the Court has exercised its 
+plenary authority to ensure that Miranda’s protection of 
+Fifth Amendment values is not inappropriately diluted. 
+See Berkemer, 468 U.S. at 429-442; Estelle, 451 U.S. 
+at 466-469 (affirming Fifth Circuit’s ruling, on habeas 
+review, that admission in capital sentencing proceeding 
+of respondent’s unwarned statements made during a court- 
+ordered psychiatric examination violated his Fifth Amend- 
+ment privilege against self-incrimination); Orozco, 394 
+U.S. at 324-327 (reversing Texas Court of Criminal Ap- 
+peals’ ruling that Miranda warnings were not required 
+because petitioner was interrogated in his own bed, in 
+familiar surroundings); Mathis, 391 U.S. at 4-5 (re- 
+versing federal courts’ determination that Miranda pro- 
+tections are only applicable to questioning of a suspect 
+in custody in connection with the very case under in- 
+vestigation ). 
+
+
+The Court, however, has also declined to apply Mi- 
+randa’s requirements in situations that do “not present 
+the elements which the Miranda Court found so inherently 
+coercive as to require its holding.” Beckwith, 425 U.S. 
+at 347. Indeed, in most of the cases in which the Court 
+has addressed the threshold custodial interrogation issue, 
+it has exercised its de novo review to ensure that the 
+interests of law enforcement are not unduly impaired 
+
+
+to be free from compelled self-incrimination. See, e.z., 
+Perkins, 496 U.S. at 294-300 (reversing Appellate Court 
+of Illinois’ determination that the incarcerated defendant 
+was subjected to custodial interrogation by undercover 
+agent within the meaning of Miranda); Bruder, 488 U.S. 
+at 10-11 (per curiam) (reversing Pennsylvania Superior 
+Court’s ruling that defendant was subjected to custodial 
+interrogation during traffic stop); Murphy, 465 U.S. at 
+426-434 (reversing Minnesota Supreme Court’s holding 
+that statements made by a probationer to his probation 
+officer were obtained in violation of his Fifth Amend- 
+ment rights, and ruling that probationer was not sub- 
+jected to custodial interrogation); Beheler, 463 U.S. at 
+1121-1125 (per curiam) (reversing California Court of 
+Appeal’s holding that respondent was in “custody”); 
+Mathiason, 429 U.S. at 494-496 (per curiam) (reversing 
+Oregon Supreme Court’s holding that respondent was in 
+“custody”); Beckwith, 425 U.S. at 344-348 (affirming 
+lower federal courts’ holdings that the fact that defendant 
+was the focus of the investigation did not render Miranda 
+applicable) ; see also Stansbury, 114 S.Ct. at 1530 (per 
+curiam) (reversing California Supreme Court’s applica- 
+tion of “custody” standard to facts, ruling that the state 
+court improperly considered officer’s subjective and un- 
+articulated beliefs and erroneously concluded that peti- 
+tioner’s Miranda rights were triggered because petitioner 
+was the focus of the officers’ suspicions); cf. also supra, 
+footnote 13. 
+
+
+2. The Need For Consistency And Uniformity In 
+The Application Of The “Custodial Interroga- 
+tion” Threshold Test, And The Precedential Im- 
+portance Of Such Determinations In Guiding 
+Official Conduct, Require That The “Custody” 
+Issue Be Subject To Independent Review. 
+Precisely because the “task of defining ‘custody’ is a 
+slippery one,” Elstad, 470 U.S. at 309, in that the “cus- 
+tody” inquiry is a predominantly legal exercise requir- 
+
+
+30 
+
+
+ing application of the objective standard in light of the 
+a underlying the Miranda decision, de novo review 
+of “custody” determinations is mandated by imperatives 
+of sound judicial administration. Plenary review permits 
+reviewing courts not only to police the application of the 
+Miranda “custody” requirement in light of Fifth Amend- 
+ment concerns present in specific contexts, see supra, 
+pages 24-29, it also promotes some measure of consist- 
+ency in the case-by-case development of the “custody” 
+standard, and thus provides specific guidance to all ac- 
+tors in the criminal justice system who must rely upon 
+judicial precedents to guide their conduct. 
+
+The Court has recognized that where “the content of 
+the rule is not revealed simply by its literal text, but 
+rather is given meaning through the evolutionary process 
+of common-law adjudication,” the standard should be 
+treated as one of law, subject to plenary review. Bose 
+Corp. v. Consumers Union of U.S., Inc., 466 U.S. 485, 
+502 (1984) (de novo standard, not Fed. R. Civ. P. 
+52(a) clearly erroneous standard, applicable to review of 
+determination of actual malice in cases governed by New 
+York Times v. Sullivan, 376 U.S. 254 (1964)); see also 
+Harte-Hanks Communications, Inc. v. Connaughton, 491 
+U.S. 657, 686 (1989) (same); Miller, 474 U.S. at 114; 
+Monaghan, Constitutional Fact Review, 85 Colum. L. 
+Rev. at 229, 273-276. In such circumstances, the purely 
+“legal” function of saying “what the law is” can only be 
+accomplished by applying the relevant standard to a series 
+of closely related situations that require the elaboration 
+of the basic legal norm. See id. at 273-276; Miller, 474 
+U.S. at 114. The exercise of this plenary review power 
+“is the process through which the rule itself evolves and 
+its integrity is maintained.” Bose Corp., 466 U.S. at 503 
+(footnote omitted). 
+
+
+As explained supra, pages 24-29, the Miranda “cus- 
+tody” standard, like the Fourth Amendment reasonable- 
+ness standard, is not “susceptible of Procrustean applica- 
+tion.” Ker v. California, 374 U.S. 23, 33 (1963). The 
+
+
+cases, in which plenary review is appropriately applied: 
+by adopting a standard to be applied to the “totality of 
+the circumstances,” the Court invites the case-by-case de- 
+velopment of a body of precedents that, when considered 
+together, provide guidance as to future applications of the 
+legal standard. See, e.g., Miller, 474 U.S. at 114; cf. 
+Alston v. Redman, 34 F.3d 1237, 1245 (3d Cir. 1994), 
+cert. denied, —— U.S. ——, 115 S.Ct. 1122 (1995); 
+Mesa, 638 F.2d at 584. To provide guidance as to the 
+developing “custody” standard, this Court has applied 
+it in recurring factual situations, culling the relevant fac- 
+tors from the irrelevant, and deciding whether the result- 
+ing mix of circumstances, as weighted and approved by 
+the Court in light of the Fifth Amendment values under- 
+lying Miranda, yields a result contrary to that determined 
+below. See, e.g., Stansbury, 114 S.Ct. at 1529-1530 
+(discussing relevancy and weight of certain factors in re- 
+solving “custody” question in the context of stationhouse 
+questioning); Beheler, 463 U.S. at 1125 (certain factors 
+irrelevant to determination of “custody” in stationhouse 
+questioning context); Mathiason, 429 U.S. at 495-496 
+(same). Where, as here, the “relevant legal principle can 
+be given meaning only through its application to the par- 
+ticular circumstances of a case, the Court has been re- 
+luctant to give the trier of fact’s conclusions presumptive 
+force and, in so doing, strip a federal appellate court of 
+its primary function as an expositor of law.” Miller, 474 
+US. at 114. 
+
+This principle is particularly important in the Miranda 
+context. Miranda “has the virtue of informing police and 
+prosecutors with specificity as to what they may do in 
+conducting custodial interrogation,” and “[t}his gain in 
+specificity . . . benefits the accused and the State alike.” 
+Fare v. Michael C., 442 U.S. 707, 718 (1979). Inco- 
+herence in the “custody” precedents upon which law en- 
+forcement must rely would ultimately endanger the core 
+
+
+32 
+
+
+value of Miranda—the clear rules it provides police and 
+courts on the conduct of a custodial interrogation—be- 
+cause police officers and courts would no longer be cer- 
+tain as to when those rules are applicable. Cf. Fare v. 
+Michael C., 439 U.S. 1310, 1314 (1978) (Rehnquist, 
+Circuit Justice, granting application for stay) (noting 
+that the precision of Miranda “would be eviscerated if 
+the prophylactic rules were freely augmented by other 
+courts”); cf. also Oregon v. Hass, 420 U.S. 714, 719 
+(1975). Miranda “custody” determinations therefore 
+have a unique claim on the “normal law-clarifying bene- 
+fits that come from an appellate decision on a question 
+of law.” Pierce, 487 U.S. at 561. 
+
+
+Given the frequency with which this Court has found 
+it necessary to correct state and federal courts’ applica- 
+tion of the “custody” standard, the potential for dis- 
+uniformity in the application of this threshold inquiry is 
+demonstrably great. See supra, cases cited at pages 
+28-29, Berkemer, 468 U.S. at 435-436 n.23."* Were the 
+“custody” determination to be treated as a question of 
+fact, subject to correction only if not fairly supported 
+in the record or clearly erroneous, state and federal 
+reviewing courts would be required to affirm irreconcil- 
+able “custody” decisions made on analogous facts. As 
+long as the trial judge’s opinion rests on some defensible 
+application of the standard, reviewing courts and this 
+Court would have to defer, even though the trial judge’s 
+application of the legal standard were deemed wrong, or 
+perhaps worse, inconsistent with other trial judges’ rul- 
+
+
+14 See also Bradley v. Ohio, 497 U.S. 1011, 1012 (1990) (Mar- 
+shall, J., dissenting from denial of a writ of certiorari); Maine v. 
+Thibodeau, 475 U.S. 1144, 1145 (1986) (Burger, C.J., dissenting 
+from denial of a writ of certiorari) (objecting to Maine Supreme 
+Court’s reliance, in resolving the custody question, on factors that 
+had been rejected by either the Court or other state and federal 
+courts, and concluding that the Maine Supreme Court’s decision 
+“illustrates an acute need for clarification of the proper factors to 
+be considered in making the ‘in custody’ determination”) (em- 
+phasis added). 
+
+
+33 
+
+
+ings. The outcome of Miranda claims would not only be 
+difficult to predict, but would vary from State to State, 
+Circuit to Circuit, and within jurisdictions. The result 
+would be jurisdictional disparities not only in the degree 
+of Fifth Amendment protection accorded suspects in a 
+given situation, but also in the standards of conduct the 
+law enforcement community must follow. “Neither the 
+police nor criminal defendants would benefit from such 
+a development.” Berkemer, 468 U.S. at 432. 
+
+
+3. The Objective “Custody” Test Does Not Rely 
+For Its Effective Application On Credibility De- 
+terminations Or Determinations Of Subjective 
+Intent And Thus Its Resolution Does Not Re- 
+quire The Particular Expertise Of Trial Courts. 
+
+
+The Court has found that there are certain mixed ques- 
+tions of law and fact which, being “rooted in factual 
+determinations,” Cooter & Gell v. Hartmax, 496 U.S. 
+384, 401 (1990), are “essentially factual,” Pullman- 
+Standard, 456 U.S. at 288, and should be reviewed 
+deferentially. See Witt, 469 U.S. at 429; McConney, 728 
+F.2d at 1203 (discussing “exception” made for certain 
+essentially factual questions). Under the Court’s func- 
+tional analysis, the determinative test of whether a ques- 
+tion should be deemed essentially factual is whether the 
+trier of fact, by virtue of its superior ability to judge 
+witnesses’ demeanor and credibility, is in an “appreciably 
+better position” to resolve the issue in question than the 
+reviewing court. Miller, 474 U.S. at 117; see also id. 
+at 114, 116-117; Cooter & Gell, 496 U.S. at 401-403; 
+Rushen, 464 U.S. at 120-122 & n.6." — 
+
+
+15 An additional consideration is the extent to which the deter- 
+mination involves “ ‘multifarious, fleeting, special, narrow facts 
+that utterly resist generalization,” Cooter & Gell v. Hartmarz, 
+496 U.S. 384, 404 (1990) (quoting Pierce v. Underwood, 487 U.S. 
+552, 5661-562 (1988)), such that the precedential value of the 
+decision is limited. As discussed supra, pages 29-88, this con- 
+sideration does not apply in the “custody” context: courts can, 
+and must, provide guidance as to the relevance and weight of 
+
+
+34 
+
+
+Where the issue turns on the determination of subjec- 
+tive state of mind, and thus largely on witness credibility, 
+the Court has generally treated it as one of historical 
+fact because the trial judge is deemed best situated to 
+resolve credibility issues. For example, when considering 
+the question of juror bias, the “fundamental role” that 
+the juror’s demeanor plays in the determination of the 
+juror credibility issue requires that deference be paid to 
+the trier of fact. Patton, 467 U.S. at 1038 & n.14; see 
+also Mu’min v. Virginia, 500 U.S. 415, 424 (1991); 
+id. at 433 (O’Connor, J., concurring); Witt, 469 U.S. 
+at 429; Rushen, 464 U.S. at 120-122 & n.6. Because the 
+question of a defendant’s competency turns largely on a 
+first-hand assessment of the quality of the defendant's 
+mental functioning and the credibility of expert testimony, 
+the competency issue also has been deemed a question of 
+fact for purposes of section 2254(d). See, e.g., Maggio 
+v. Fulford, 462 U.S. 111, 113, 117-118 (1983); Demos- 
+thenes v. Baal, 495 U.S. 731, 735 (1990) (per curiam); 
+but see Drope v. Missouri, 420 U.S. 162, 174-175 & n.10 
+(1975). Similarly, “[t]reating issues of intent as factual 
+matters for the trier of fact is commonplace.” Pullman- 
+Standard, 456 U.S. at 288; see also United States Postal 
+Service Bd. of Govs. v. Aikens, 460 U.S. 711, 716-717 
+(1983); Oregon v. Kennedy, 456 U.S. 667, 675, 679 
+(1982). This is so because the finding of intent “ ‘largely 
+will turn on evaluation of credibility..” Hernandez v. 
+New York, 500 U.S. 352, 365 (1991) (plurality opin- 
+ion) (quoting Batson v. Kentucky, 476 U.S. 79, 98 n.21 
+(1986); see also Hernandez, 500 U.S. at 364-365; 
+Pullman-Standard, 456 U.S. at 284-289. 
+
+
+These principles have no applicability in this context 
+because this Court has expressly declined to found “cus- 
+
+
+tody” determinations on any actor’s state of mind. See 
+supra, pages 15-17. In resolving Miranda “custody” 
+
+
+particular circumstances in recurring interrogation situations so 
+that the law enforcement community has some rules upon which it 
+can safely rely. 
+
+
+meanor are not crucial to the proper resolution of the 
+ultimate issue.” Miller, 474 U.S. at 116-117. To the 
+extent that credibility issues arise regarding the circum- 
+stances of the interrogation, the state courts’ resolution of 
+those issues, like its determination of the other historical 
+facts, will be presumed correct, if fairly supported, under 
+section 2254(d). Cf. Rushen, 464 U.S. at 120-122 & 
+
+
+meanor or veracity. Accordingly, the trial court is not in 
+an appreciably better position than the federal habeas 
+rr A make that determination.” Miller, 474 U.S. at 
+
+
+C. Considerations Of Federalism And Finality Do Not 
+Require That The Application Of The Miranda 
+“Custody” Standard To The Circumstances Be 
+Treated As A Question Of Fact 
+
+
+hibits, federal-state relations. A State has “a weighty 
+interest in having valid federal constitutional criteria 
+
+
+** Other considerations relevant to the sound administration of 
+justice which counsel deference to the factual determinations of 
+trial courts are equally irrelevant here. There is no threat posed 
+sertand aant'& Sacthadiog bessase beleted resenstrection of hio- 
+
+
+greater expenditure of time than is necessarily involved in evalu- 
+— whether a state-court determination finds “fair support” in 
+
+
+36 
+
+
+applied in the administration of its criminal law by its 
+own courts.” Rogers v. Richmond, 365 U.S. 534, 548 
+(1961). To the extent that “‘{a] healthy federalism 
+depends upon the avoidance of needless conflict between 
+state and federal courts,” Ker, 374 U.S. at 31 (quoting 
+Elkins v. United States, 364 U.S. 206, 221 (1960)), 
+“‘flederal-state cooperation in the solution of crime 
+under constitutional standards will be promoted . . . by 
+recognition of their . . . mutual obligation to respect the 
+same fundamental criteria in their approaches.” Ker, 
+374 U.S. at 31 (emphasis in original) (quoting Mapp. v. 
+Ohio, 367 U.S. 643, 658 (1961)). Only plenary review 
+will ensure that there is some consistency and uniformity 
+in the identification and application of the criteria to be 
+considered in determinations of “custody.” See supra, 
+
+
+pages 29-33. 
+
+
+Any possible tension created by plenary federal review 
+must be regarded as negligible in light of this Court’s de- 
+cision in Withrow v. Williams, 113 S.Ct. 1745. In With- 
+row, the Court concluded: 
+
+
+One might argue that tension results between the 
+two judicial systems whenever a federal habeas court 
+qvesearns 6 Gate cabelas Un Gala Gak the ciate 
+court let in a voluntary confession obtained by the 
+police without the Miranda safeguards... . It is 
+not reasonable, however, to expect such occurrences 
+to be frequent enough to amount to a substantial cost 
+of reviewing Miranda claims on habeas or to raise 
+federal-state tensions to an appreciable degree. 
+
+
+Id. at 1754-1755. Because “eliminating review of Miranda 
+claims would not . . . advance the cause of federalism 
+in any substantial way,” (id. at 1754), eliminating de 
+novo review of a small subset of that universe of claims— 
+those challenging Miranda “custody” determinations— 
+would have even less consequence for federal-state rela- 
+tions. See also O’Neal v. McAninch, —— US. ——, 
+115 S.Ct. 992, 998 (1995) (state’s interest diminished 
+
+
+tody” issue be treated as one of fact. Id. at 1754. 
+
+
+II. SHOULD THE COURT DECIDE TO ADDRESS THE 
+ISSUE, RATHER THAN REMANDING FOR PLE- 
+NARY CONSIDERATION IN THE FIRST IN- 
+STANCE BY THE NINTH CIRCUIT, PETITIONER 
+WAS IN “CUSTODY” FOR MIRANDA PURPOSES 
+ON THE OBJECTIVE FACTS OF THIS CASE 
+
+
+The Ninth Circuit, relying on the presumption of cor- 
+
+
+under Miranda. (JA 40-42) The issue whether peti- 
+tioner was actually in “custody” for Miranda purposes on 
+the undisputed facts of the case was not raised in the 
+petition for certiorari or in the State of Alaska’s opposi- 
+tion to the petition. Accordingly, the appropriate dis- 
+position would be to reverse and remand the issue for 
+consideration in the first instance by the Ninth Circuit. 
+See Sup. Ct. R. 24(a); see also Stansbury, 114 S.Ct. 
+
+
+at 1531 (remanding for further proceedings); Miller, 474 
+U.S. at 118 (same). 
+
+
+_ Should the Court determine ine that it wishes to reach this 
+issue to provide additional guidance to the lower courts 
+in the application of the “custody” standard, see, ¢.g., 
+
+
+38 
+
+
+Berkemer, 468 U.S. at 435-436 n.23, petitioner sub- 
+mits that, given the coercive custodial environment dem- 
+onstrated on this record, a reasonable person would have 
+concluded that his freedom was significantly restrained. 
+
+
+Petitioner was asked to come down to the police sta- 
+tion. Although expecting merely to identify his ex-wife’s 
+effects, a procedure which was complete within minutes 
+(Tr. 1-4), he was instead taken to a small interrogation 
+room where two state troopers brought to bear on peti- 
+tioner all of the “psychologically . . . oriented” police 
+practices that were relied upon by the Miranda Court in 
+substantiating the “inherently coercive” nature of the sta- 
+tionhouse interrogations at issue in that case. Miranda, 
+384 U.S. at 448, 467; see also Beckwith, 425 U.S. at 
+346 n. 7. 
+
+
+cases. See, e.g., Murphy, 465 U.S. at 433; Berkemer, 
+460 U.S. at 438; Beckwith, 425 U.S. at 346 n.7; Mi- 
+randa, 384 U.S. at 448-450, 457. Then, “[t]o highlight 
+the isolation and unfamiliar surroundings,” the troopers 
+“display[ed] an air of confidence in the suspect's guilt 
+
+
+Tau bes Geek Gor Getanaied er ee ae 
+truck 
+
+
+39 
+
+
+be served.” (JA 50). They repeatedly assured petitioner 
+pm Ale 2 ioe grat Rnd ga Seaton (JA 
+53) (“you killed Dixie . . There’s no question about 
+
+
+a reasonable doubt” (JA 49) that petitioner had com- 
+mitted the crime.“ The troopers’ articulated views re- 
+garding petitioner’s culpability, although not dispositive, 
+
+are obviously material to the “custody” determination. 
+Sie Shaiediaoy, 114 S.Ct. at 1530. 
+
+
+“{T]o put the subject in a psychological state where 
+wage. By dir Na Sar poy aphids St pad gms car 
+
+
+59), or that he had planned to kill his ex-wife (JA 51, 
+53-54, 59-60, 73). They suggested instead, time and 
+time again, that “what happened was entirely her fault” 
+(JA 72) and that the crime was one that “this foolish 
+bitch brought on herself really.” {JA 46)” 
+
+
+8 See also (JA 47) (“I think you did do this thing”); (JA 
+49) (“See I know that you did this thing. There’s—there’s no 
+question in my mind about that.”) ; (JA 52-53) (“I mean obviously 
+you know that you're in trouble right now. There’s no question 
+about that, right? . . . . you did—you killed Dixie. I mean that’s— 
+that’s what you're in trouble over and you know that. There's no 
+question about that.”); (JA 54) (“I know that you did this 
+thing”); (JA 58) (“[Y)ou’re the guy who killed her. There's 
+no question about that.”); (JA 65) (“Well you did it. There's 
+no question that you killed Dixie. Let’s get passed [sic] that.’’). 
+
+
+1% See also (JA 46) (“she’s got you in real trouble this time) ; 
+(JA 47-48) (“I think that she . . . brought the situation on, that she 
+got you into what got to be the biggest trouble she’s ever gotten 
+you in before”); (JA 51) (“she’s finally got you inte more 
+trouble than she can possibly imagine”); (JA 55) (“I have to 
+feel that whatever happened to Dixie, if she’s partially responsible 
+for it, you shouldn't take all of the blame for it”); (JA 57) 
+(“she’s got you in a hell of a bind. I mean she brought this thing 
+
+
+40 
+_ Petitioner was then “offered legal excuses for his ac- 
+tions in order to obtain an initial admission of guilt.” 
+Miranda, 384 U.S. at 451. The troopers made excuses 
+for petitioner's conduct, suggested that petitioner acted in 
+self-defense, and posited that the crime was one of pas- 
+sion.” They also emphasized that this was petitioner's 
+last chance to avoid a life sentence in favor of a much 
+lighter sentence for negligent homicide or manslaughter. 
+See, e.g. (JA 54-56, 68-69).” 
+
+
+thing on. It’s her fault. Why should you be forced to live with 
+that”); (JA 68) (“Because of that whatever happened out there 
+happened not because you wanted it to, not because you set out 
+to have it happen, but because she brought it on”); (JA 65) 
+(“That's her final revenge, that’s the final time that she screws 
+you. She left you stuck with this fallacious mess that she brought 
+on.”); (JA 71) (“if you can be honest about this thing, and 
+finally explain that’s what happened, to make us understand the 
+why, in what way Dixie was responsible, in what way she caused 
+this thing to happen”); (JA 72) (“it’s her fault. When you 
+get right down to it,l—I think that probably you'll be able to 
+convince me that what happened was entirely her fault’) ; (JA 
+78) (“she brought this thing on. And its her fault”). 
+
+
+* See, eg., (JA 51) (“I mean I don’t know whether she 
+started the thing by grabbing the knife”); (JA 56) (man- 
+slaughter would be available if what happened was that “she starts 
+it and she’s coming at you and you defend yourself”); (JA 
+58) (if “it happened so fast that you weren’t able to think 
+through the whole result .. . . if that’s what happened, then .. . 
+that’s not first degree murder .. . . I mean are we talking about 
+
+
+opportunity here, the things—the thing is going down now. This 
+—this is it”); (JA 69) (“[R)ight now is the time when we've 
+got to make the decision of which way we're heading on 
+thing”); (JA 75) (“I’m giving you an opportunity which I 
+
+see how it'll ever come again”); see also (JA 652, 58, 60, 64, 71). 
+
+
+41 
+
+
+Finally, Trooper Stockard “ ‘rel{ied] on an oppressive 
+atmosphere of dogged persistence,” “ ‘dominat[ing] his 
+subject and overwhelm{ing) him with his inexorable will 
+to obtain the truth.’” Miranda, 384 U.S. at 451 (citation 
+omitted). Indeed, at one point, the troopers engaged in a 
+prolonged and psychologically devastating harangue that 
+consumed more than twenty pages of the transcript, dur- 
+ing which petitioner uttered no more than ten sentences. 
+(Tr. 60-80) Such “prolonged accusatory questioning is 
+likely to create a coercive environment from which an 
+individual would not feel free to leave.” United States 
+v. Griffin, 7 F.3d 1512, 1518 (10th Cir. 1993). “An 
+individual swept from familiar surroundings into police 
+custody, surrounded by antagonistic forces, and subjected 
+to the techniques of persuasion described above cannot 
+be otherwise than under compulsion to speak.” Miranda, 
+484 U.S. at 461. 
+
+
+The “concerns that powered the [Miranda] decision” 
+are clearly implicated here: petitioner was subjected to a 
+textbook example of the very pressures that the Miranda 
+Court feared would “sufficiently impair his free exercise 
+of his privilege against self-incrimination to require that 
+he be warned of his constitutional rights.” Berkemer, 
+468 U.S. at 437. The police attempted to manipulate the 
+circumstances to make the interrogation appear noncus- 
+todial (JA 8-9; see also JA 16), by telling petitioner that 
+he was not under arrest and would be free to leave no 
+matter what he said (JA 74, 76), while apparently in- 
+tending to arrest petitioner shortly after the conclusion of 
+the interview. See (JA 8-9). The trial court, in weighing 
+the circumstances of this “close” case (JA 9), appeared 
+to conclude that the troopers’ statements that petitioner 
+was free to go, although a “devious police tactic” (JA 8), 
+tipped the scales toward a finding that a reasonable per- 
+son would not have believed himself in “custody” for 
+Miranda purposes. (JA 8). What the trial court failed 
+adequately to consider, however, is the fact that, like the 
+court itself, a reasonable person under the circumstances 
+
+
+™ See also (JA 44-45, 49, 50, 52-53, 61, 76-77, 78-79). 
+
+
+42 
+
+
+would not have found these statements credible. See 
+Sumner Il, 455 U.S. at 597 (on habeas review of a 
+mixed question, “the federal court may give different 
+weight to the facts as found by the state court and may 
+reach a different conclusion in light of the legal 
+standard” ). 
+
+
+A reasonable person would have recognized, when the 
+interview commenced, that he had been summoned to the 
+Station on a “pretext.” (JA 26) The troopers then 
+began what appeared to be a strictly informational inter- 
+view in which they asked petitioner about his last en- 
+counters with the victim. (Tr. 4-37) While drawing him 
+out in this initial questioning, they gave no evidence that 
+they suspected him of the crime. Jd. After he spoke 
+freely with them, they then completely changed the na- 
+ture of the interview, suddenly confronting him with their 
+certainty of his guilt and the strength of their evidence. 
+(Tr. 38-87) Given the troopers’ patent dissembling, a 
+reasonable person at this point would have been ex- 
+tremely wary of their assurances, as petitioner evidently 
+was.” In short, a reasonable person in petitioner’s posi- 
+tion would not, despite the troopers’ protestations to the 
+contrary, have believed that he was free to leave. See, 
+e.g., United States v. Lee, 699 F.2d 466, 467-468 (9th 
+Cir. 1982) (despite police assurances that suspect was 
+free to go, a “reasonable person” would not have felt 
+he was at liberty to leave).™ 
+
+
+23 See, e.g., (JA 74) (“No matter what you ain’t gonna arrest 
+me? .... What I tell you, you ain’t gonna arrest me... . Why 
+wouldn’t you?”); (JA 76) (“So then you’re gonna let me walk 
+out of here?”); (JA 77) (“As long as you let me go take care 
+of my stuff is all I’m asking”); see also (JA 50, 58). 
+
+
+*4 As the interrogation wore on, the officer’s assurances became 
+less absolute; it became clear that if the officers let petitioner go, 
+it would be only temporary. See (JA 61) (troopers told petitioner 
+that he would walk out of the interview but “I can’t tell you that this 
+thing is all over when you walk out, you know it’s not”) ; (JA 52-53, 
+77-78) ; (Tr. 101). At the conclusion of the interview, the troopers 
+cautioned “don’t leave town. You know, don’t run.” (Tr. 101). 
+They then drove petitioner to a friend’s home. (JA 78) The fact 
+
+
+43 
+CONCLUSION 
+
+
+For the foregoing reasons, the judgment of the Ninth 
+Circuit Court of Appeals should be reversed, and the 
+case should be remanded to that court with instructions 
+to conduct an independent review of the question whether 
+petitioner was in “custody” for Miranda purposes or, 
+should the Court resolve that issue, to conduct the appro- 
+priate harmless error analysis. 
+
+
+Respectfully submitted, 
+
+
+JULIE R. O’SULLIVAN 
+(Appointed by This Court) 
+Associate Professor of Law 
+GEORGETOWN UNIVERSITY LAW 
+CENTER 
+600 New Jersey Avenue, N.W. 
+Washington, D.C. 20009 
+(202) 662-9894 
+Counsel of Record 
+for Petitioner 
+
+
+that petitioner was eventually allowed to leave the station is cer- 
+tainly not dispositive of what a reasonable person would have be- 
+lieved his situation to be during the course of the interview it- 
+self. See, e.g., State v. Cassell, 602 P.2d 410, 414-415 & n.11 (Alaska 
+1979). Moreover, although petitioner was driven to his friend’s 
+house, a reasonable person would have been aware that he never 
+truly regained his “freedom of movement.” Oregon v. Mathiason, 
+429 U.S. 492, 495 (1977). Petitioner’s truck—his sole form of 
+transportation—had been seized (JA 78), and the record indi- 
+cates that the trooper remained in his car outside petitioner’s 
+friend’s residence while the troopers secured a warrant for peti- 
+tioner’s arrest. See (St. 2478). The dictates of Miranda cannot 
+be circumvented simply by, as here, allowing a suspect to leave, 
+under police escort and with continuing surveillance, and post- 
+poning a formal arrest for a few hours. Cf. Bruder, 488 U.S. at 
+10 n.1 (“We did not announce an absolute rule for all motorist 
+detentions, observing that lower courts must be vigilant that police 
+do not ‘delay formally arresting detained motorists’”) (quoting 
+Berkemer, 468 U.S. at 440); Berkemer, 468 U.S. at 441 (declining 
+to adopt a bright-line rule which “would enable the police to cir- 
+cumvent the constraints on custodial interrogations established 
+by Miranda”). 
+
+
+—-, -" — — oe wih geet Mgt A Besigae Ls warden ~ on * 
+
+
+A-1 
+APPENDIX A 
+28 U.S.C. § 2254 
+§ 2254. State custedy; remedies in State courts 
+
+
+* * * * 
+
+
+(d) In any proceeding instituted in a Federal court by 
+an application for a writ of habeas corpus by a person 
+in custody pursuant to the judgment of a State court, a 
+determination after a hearing on the merits of a factual 
+issue, made by a State court of competent jurisdiction in 
+a proceeding to which the applicant for the writ and the 
+State or an officer or agent thereof were parties, evi- 
+denced by a written finding, written opinion, or other 
+reliable and adequate written indicia, shall be presumed 
+to be correct, unless the applicant shall establish or it 
+Shall otherwise appear, or the respondent shall admit— 
+
+
+(1) that the merits of the factual dispute were not 
+resolved in the State court hearing; 
+
+
+(2) that the factfinding procedure employed by the 
+State court was not adequate to afford a full and fair 
+hearing; 
+
+
+(3) that the material facts were not adequately de- 
+veloped at the State court hearing; 
+
+
+(4) that the State court lacked jurisdiction of the 
+subject matter or over the person of the applicant in the 
+State court proceeding; 
+
+
+(5) that the applicant was an indigent and the State 
+court, in deprivation of his constitutional right, failed to 
+appoint counsel to represent him in the State court pro- 
+ceeding; 
+
+
+(6) that the applicant did not receive a full, fair, and 
+adequate hearing in the State court proceeding; or 
+
+
+(7) that the applicant was otherwise denied due 
+process of law in the State court proceeding; 
+
+
+A-2 
+
+
+(8) or unless that part of the record of the State 
+
+court proceeding in which the determination of such 
+factual issue was made, pertinent to a determination of 
+the sufficiency of the evidence to support such factual 
+determination, is produced as provided for hereinafter, 
+and the Federal court on a consideration of such part 
+of the record as a whole concludes that such factual 
+determination is not fairly supported by the record: 
+And in an evidentiary hearing in the proceeding in the 
+Federal court, when due proof of such factual deter- 
+mination has béen made, unless the existence of one or 
+more of the circumstances respectively set f in para- 
+graphs numbered (1) to (7), inclusive, is shown by the 
+applicant, otherwise appears, or is admitted by the re- 
+spondent, or unless the court concludes pursuant to the 
+provisions of paragraph numbered (8) that the record 
+in the State court proceeding, considered as a whole, does 
+not fairly support such factual determination, the burden 
+shall rest upon the applicant to establish by convincing 
+evidence that the factual determination by the State court 
+was erroneous. 
+
+

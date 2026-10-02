@@ -1,0 +1,95 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 29,
+    "params": {
+      "query": "collection:us-supreme-court AND (text:Bartholomew OR text:Bartholomew OR text__reviews:Bartholomew)",
+      "qin": "collection:us-supreme-court AND Bartholomew",
+      "fields": "identifier,title,date",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 15,
+    "start": 0,
+    "docs": [
+      {
+        "date": "1995-01-01T00:00:00Z",
+        "identifier": "micro_IA40386013_0381",
+        "title": "Wood v. Bartholomew, 516 U.S. 1 (1995) (No. 94-1419)"
+      },
+      {
+        "date": "1959-01-01T00:00:00Z",
+        "identifier": "micro_IA04386419_0835",
+        "title": "Universe Tankships, Inc. v. Bartholomew, 359 U.S. 1000 (1959) (No. 823)"
+      },
+      {
+        "date": "1874-01-01T00:00:00Z",
+        "identifier": "per_scotus_1874_32",
+        "title": "George W. Long and John C. Watson, Plaintiffs in Error, vs. James W. Converse, George M. Bartholomew, and J. Graham Gardiner, Receivers of the Boston, Hartford and Erie Railroad Company. 1874: Vol 32"
+      },
+      {
+        "date": "1980-01-01T00:00:00Z",
+        "identifier": "micro_IA40385007_0024",
+        "title": "Green v. Bartholomew, 449 U.S. 868 (1980) (No. 80-1)"
+      },
+      {
+        "date": "1884-01-01T00:00:00Z",
+        "identifier": "per_scotus_1884_196",
+        "title": "The McNab and Harlan Manufacturing Company and John Harlan, Appellants, vs. Edward G. Thompson, Trustee for Clara E. Carr, Executrix, and George D. Scott, Executor of William S. Carr, deceased, and Sarah Bartholomew. 1884: Vol 196"
+      },
+      {
+        "date": "1995-01-01T00:00:00Z",
+        "identifier": "micro_IA40385013_0583",
+        "title": "Wood v. Bartholomew, 516 U.S. 1 (1995) (No. 94-1419)"
+      },
+      {
+        "date": "1884-01-01T00:00:00Z",
+        "identifier": "per_scotus_1884_197",
+        "title": "John Eaton, Edward H. Cole, William H. Cole, and Edward G. Burnham, Appellants, vs. Edward G. Thompson, Trustee for Clara E. Carr, Executrix, and George D. Scott, Executor of William S. Carr, deceased, and Sarah Bartholomew. 1884: Vol 197"
+      },
+      {
+        "date": "1884-01-01T00:00:00Z",
+        "identifier": "per_scotus_1884_189",
+        "title": "Edward G. Thompson, Trustee for Clara E. Carr, Executrix, and George D. Scott, Executor of William S. Carr, deceased, and Sarah Bartholomew, Appellants, vs. Elizabeth E. Boisselier and John C. Kupferle. 1884: Vol 189"
+      },
+      {
+        "date": "1983-01-01T00:00:00Z",
+        "identifier": "micro_IA40385010_0956",
+        "title": "Washington v. Bartholomew, 463 U.S. 1203 (1983) (No. 82-1857)"
+      },
+      {
+        "date": "1980-01-01T00:00:00Z",
+        "identifier": "micro_IA40385006_1833",
+        "title": "Bartholomew v. Virginia Chiropractors Ass'n, 446 U.S. 938 (1980) (No. 79-1417)"
+      },
+      {
+        "date": "1875-01-01T00:00:00Z",
+        "identifier": "per_scotus_1875_31",
+        "title": "Henry N. Farwell, Plaintiff in Error, vs. James W. Converse, George M. Bartholomew, J. Graham Gardiner, Receivers of the Boston, Hartford and Erie Railroad Company. 1875: Vol 31"
+      },
+      {
+        "date": "1881-01-01T00:00:00Z",
+        "identifier": "per_scotus_1881_212",
+        "title": "The Knickerbocker Life Insurance Company, of the City of New York, Plaintiff in Error, vs. Bartholomew Foley. 1881: Vol 212"
+      },
+      {
+        "date": "1985-01-01T00:00:00Z",
+        "identifier": "micro_IA40385017_2552",
+        "title": "Bartholomew v. United States, 471 U.S. 1018 (1985) (No. 84-1474)"
+      },
+      {
+        "date": "1875-01-01T00:00:00Z",
+        "identifier": "per_scotus_1875_86",
+        "title": "Robert Dow, Plaintiff in Error, vs. David Humbert, Bartholomew Spellman, and James Heath. 1875: Vol 86"
+      },
+      {
+        "date": "1884-01-01T00:00:00Z",
+        "identifier": "per_scotus_1884_190",
+        "title": "Edward G. Thompson, Trustee for Clara E. Carr, Executrix, and George D. Scott, Executor of William S. Carr, deceased, and Sarah Bartholomew, Appellants, vs. Elizabeth E. Boisselier and John C. Kupferle. 1884: Vol 190"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2271 @@
+Supreme Court of the United States 
+
+
+October Term, 1994 
+. 
+
+
+CARL THOMPSON, 
+
+
+Petitioner, 
+vs. 
+
+
+- PATRICK KEOHANE, Warden, BRUCE M. 
+| BOTELHO, Attorney General, State of Alaska, 
+
+
+Respondents. 
+> 
+
+
+On Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Ninth Circuit 
+
+
+¢ 
+
+
+BRIEF FOR RESPONDENTS 
++ 
+
+
+Bruce M. BoretHo 
+Attorney General 
+
+
+CyntHia M. Hora 
+
+Assistant Attorney General 
+
+Counsel of Record 
+
+Office of Special Prosecutions 
+and Appeals 
+
+310 K Street, Suite 308 
+
+Anchorage, Alaska 99501 
+
+Telephone: (907) 269-5250 
+
+
+Counsel for Respondents 
+
+
+—s. 
+
+
+7 
+
+
+TS) BEST AVAILABLE COPY) 
+
+
+QUESTIONS PRESENTED 
+
+
+1. In a habeas proceeding brought by a state pris- 
+oner, is a state court’s determination that a person is not 
+in custody under Miranda v. Arizona, 384 U.S. 436 (1966), 
+an issue of fact subject to the presumption of correctness 
+mandated in 28 U.S.C. § 2254(d)? 
+
+
+2. Assuming the presumption of correctness does 
+not apply, does de novo review lead to the conclusion that 
+Thompson was not in custody during the interview at the 
+trooper office? 
+
+
+ii iti 
+
+
+TABLE OF CONTENTS TABLE OF CONTENTS - Continued 
+
+
+Page 
+Page 
+F. Considerations Of Stare Decisis, Congressional 
+QUESTIONS PRESENTED .............0000000000e: i Intent, And The Nature Of The Inquiry Do 
+TABLE OF AUTHORITIES ...........0.scsceceees- iv Not Warrant Plenary Review............... . 
+f lity, F lism A 
+STATUTORY AND RULE PROVISIONS ............ x met wy A “Application Of a oon 
+sumption Of Correctness To Miranda Cus- 
+STATEMENT OF THE CASE............--++2+0000: 1 ——-— - 
+SUMMARY OF ARGUMENT.............000000000: 7 Il. Application Of The De Novo Standard Of Revi 
+ARGUMENT «0. sicccdipasdwsdiercsiyn seen 9 Leads To The Conclusion That Thompson Was 
+Not In Custody For Miranda Purposes When He 
+I. A State Court’s Determination That A Person Is Was Interviewed At The Trooper Office........ 38 
+Not in Custody for SGngnas ESpaee os eee ESE ee 44 
+
+
+Of Fact Subject To The Presumption Of Correct- 
+ness Mandated By 28 U.S.C. § 2254(d)......... 9 
+
+
+A. The Trial Court Is In A Better Position Than 
+An Appellate Court To Make The Custody 
+Determination Because Resolution Of The 
+Issue Involves The Credibility Of Witnesses 
+And The Fact-Specific Application Of The 
+Legal Definition Of Custody .............. 13 
+
+
+B. The Presumption Of Correctness Applies 
+On Habeas Review To Similar State Court 
+Determinations Involving Fact-Specific 
+Applications Of Legal Priniciples......... 17 
+
+
+C. Fact-Bound Determinations Similar To The 
+Custody Determination Are Accorded Def- 
+erence By Reviewing Courts On Direct 
+APPR)... .-ccncsvecsvesesesessensvagesas 20 
+
+
+D. The Court Has Not Already Implicitly 
+Decided The Question On Direct Review .. 24 
+
+
+E. Labeling An Issue A “Mixed Question Of 
+Fact And Law” Does Not Necessarily Lead 
+To De Novo Review ...........ccceeceeees 26 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Amadeo v. Zant, 486 U.S. 214 (1988) ..........-.0005- 22 
+Anderson v. City of Bessemer City, 470 U.S. 564 : 
+(IDEED . 0. cccvccccccccecavecencsesotoes 20, 21, 23, 24 
+Barefoot v. Estelle, 463 U.S. 880 (1983) .........-++++- 35 
+Bazemore v. Friday, 478 U.S. 385 (1986) ..........---. 23 
+
+
+Beckwith v. United States, 425 U.S. 341 (1976) ..... 15, 26 
+Berkemer v. McCarty, 468 U.S. 420 (1984)... 7, 13, 15, 26 
+
+
+Bobo v. Kolb, 969 F.2d 391 (7th Cir. 1992)............ 17 
+Bose Corp. v. Consumers Union of U.S., Inc., 466 U.S. 
+
+GBB CIBOD 6 oon de co cvvccsccccveevsssossesenscise 21,34 
+Brecht v. Abrahamson, __ U.S. ___, 113 S.Ct. 1710 
+
+CIGTED «. dcneccneccvess cocacé cngivduetdse dakeenenass 32 
+
+
+Bryan v. Warden, Indiana State Reformatory, 820 F.2d 
+217 (7th Cir.), cert. denied, 484 U.S. 867 (1987)..... 19 
+
+
+California v. Beheler, 463 U.S. 1121 (1983) ........ passim 
+California v. Prysock, 453 U.S. 355 (1981)............. 17 
+Commissioner of Internal Revenue v. Duberstein, 363 
+
+UG. FIG CITGO «co cccccccesccccccecccesvcecescecoss 16 
+Connecticut v. Barrett, 479 U.S. 523 (1987)............ 30 
+
+
+Cooter & Gell v. Hartmarx Corp., 496 U.S. 384 (1990) .... 33 
+
+
+Cordoba v. Hanrahan, 910 F.2d 691 (10th Cir.), cert. 
+denied, 498 U.S. 1014 (1990)............-.66055. 12, 29 
+
+
+Demosthenes v. Baal, 495 U.S. 731 (1990) ............. 18 
+
+
+v 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+
+Derrick v. Peterson, 924 F.2d 813 (9th Cir. 1990), 
+cert. denied, 502 U.S. 853 (1991)...............445. 19 
+Duckworth v. Eagan, 492 U.S. 195 (1989)............. 36 
+Edelman v. Jordan, 415 U.S. 651 (1974)............... 32 
+Engle v. Isaac, 456 U.S. 107 (1982)................4.. 35 
+Fare v. Michael C., 439 U.S. 1310 (1978).............. 25 
+Fare v. Michael C., 442 U.S. 707 (1979)....... séuéebex 35 
+Feltrop v. Delo, 46 F.3d 766 (8th Cir. 1995)........ 12, 29 
+Fike v. James, 833 F.2d 1503 (11th Cir. 1987) ......... 19 
+
+Harte-Hanks Communications, Inc. v. Connaughton, 
+in on cure ategubedacesttosoccée 34 
+Hernandez v. New York, 500 U.S. 352 (1991).......... 22 
+Higgins v. State, 887 P.2d 966 (Alaska App. 1994)..... 5 
+Hunter v. State, 590 P.2d 888 (Alaska 1979)....... 13, 14 
+
+Icicle Seafoods, Inc. v. Worthington, 475 U.S. 709 
+intt.s doukedboddaed 666 bbedseleoesoces cgceas 23 
+Illinois v. Perkins, 496 U.S. 292 (1990)......... 25, 36, 42 
+Jackson v. Virginia, 443 U.S. 307 (1979)............... 36 
+Jacobs v. Singletary, 952 F.2d 1282 (11th Cir. 1992).... 12 
+Krantz v. Briggs, 983 F.2d 961 (9th Cir. 1993) ...... 6, 12 
+Kuhlmann v. Wilson, 477 U.S. 436 (1986)............. 29 
+Long v. State, 837 P.2d 737 (Alaska App. 1992)....... 14 
+Maggio v. Fulford, 462 U.S. 111 (1983) ............ 18, 28 
+
+
+Marshall v. Lonberger, 459 U.S. 422 (1983). ....... 18, 32 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+McAllister v. United States, 348 U.S. 19 (1954)........ 33 
+McKillop v. State, 857 P.2d 358 (Alaska App. 1993) ..... 5 
+Michigan v. Tucker, 417 U.S. 433 (1974) .............. 34 
+Miller v. Fenton, 474 U.S. 104 (1985)............. passim 
+Minnesota v. Murphy, 465 U.S. 420 (1984)........ passim 
+Miranda v. Arizona, 384 U.S. 436 (1966).... 7, 13, 35, 41 
+Mu'min v. Virginia, 500 U.S. 415 (1991).............. 22 
+Mucha v. King, 792 F.2d 602 (7th Cir. 1986)....... 12, 23 
+New York v. Quarles, 467 U.S. 649 (1984)............. 35 
+Oregon v. Elstad, 470 U.S. 298 (1985) ............. 35, 38 
+Oregon v. Mathiason, 429 U.S. 492 (1977)......... passim 
+Patton v. Yount, 467 U.S. 1025 (1984)......... 18, 27, 28 
+Pennsylvania v. Bruder, 488 U.S. 9 (1988).......... 26, 36 
+People v. Dracon, 884 P.2d 712 (Colo. 1994) .......... 14 
+People v. Foster, 552 N.E.2d 1112 (Ill. App.), appeal 
+denied 555 N.E.2d 380 (Ill. 1990) .................. 14 
+Perri v. Director, Dept. of Corrections, State of Illinois, 
+a> FF £. ge S| See orrrr 19 
+
+
+Pullman-Standard v. Swint, 456 U.S. 273 (1982)....10, 23 
+Purvis v. Dugger, 932 F.2d 1413 (11th Cir. 1991), 
+
+
+cert. denied, 503 U.S. 940 (1992)............ 12, 16, 43 
+Roberts v. United States, 445 U.S. 552 (1980).......... 34 
+Rogers v. Lodge, 458 U.S. 613 (1982) .........-----5.. 23 
+
+
+Rushen v. Spain, 464 U.S. 114 (1983)............----. 18 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Schneckloth v. Bustamonte, 412 U.S. 218 (1973)........ 22 
+Smith v. Phillips, 455 U.S. 209 (1982) ............. 18, 36 
+Stansbury v. California, __ U.S. ___ 114 S.Ct. 1526 
+GROUEE Abe hehe rin ePeVe cet cesbsccdeowevececoes . passim 
+Sterling v. Velsicol Chemical Corp., 855 F.2d 1188 
+DT Me seen heseshies adhbaddnesesvenesbece 23 
+Strickland v. Washington, 466 U.S. 668 (1984)......... 32 
+Sumner v. Mata, 455 U.S. 591 (1982)................. 32 
+Thompson v. State, 768 P.2d 127 (Alaska App. 1989) ...4, 5 
+Thornburg v. Gingles, 478 U.S. 30 (1986) ............. 23 
+Townsend v. Sain, 372 U.S. 293 (1963)............. 26, 37 
+
+
+United States v. Baird, 851 F.2d 376 (D.C. Cir. 1988) .... 30 
+United States v. Booth, 669 F.2d 1231 (9th Cir. 1981) .... 14 
+United States v. Calisto, 838 F.2d 711 (3rd Cir. 1988) .... 30 
+
+
+United States v. Collins, 972 F.2d 1385 (5th Cir. 
+1992), cert. denied, 113 S.Ct. 1812 (1993)........... 42 
+
+
+United States v. Fazio, 914 F.2d 950 (7th Cir. 1990) .... 43 
+United States v. Griffin, 922 F.2d 1343 (8th Cir. 
+
+
+GEN Ss oc cepsecessergsiebecevnedetctseccccccccces 29 
+United States v. Harrell, 894 F.2d 120 (5th Cir.), cert. 
+
+Gomted, GE US. GB6 (199G) .. oo. ccccccccccccsccess 30 
+United States v. Humphrey, 34 F.3d 551 (7th Cir. 
+
+Pb H66dbe pdearshbbhesdncecscdsobsbeddeenceccese 16 
+
+
+United States v. Lanni, 951 F.2d 440 (1st Cir. 1991) .... 29 
+
+
+viii 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+United States v. Levy, 955 F.2d 1098 (7th Cir.), cert. 
+Gentes, _., UB cine. ee, Te Cee neki Pic cns 29 
+
+
+United States v. Mahar, 801 F.2d 1477 (6th Cir. 1986) .... 29 
+United States v. Mitchell, 966 F.2d 92 (2nd Cir. 1992) .... 29 
+United States v. Poole, 806 F.2d 853 (9th Cir. 1986) .... 29 
+
+
+United States v. Rioseco, 845 F.2d 299 (11th Cir. 
+BOs cccdciccde Beunbdatocta ever a aeiitesesniiet 30 
+
+
+United States v. Robertson, 19 F.3d 1318 (10th Cir. 
+1994), cert. denied, __ U.S. __, 115 S.Ct. 271 
+
+
+GRO ED e000 509 nus ocnhsvnes ents Cetabantest ress 4tec 30 
+United States v. United States Gypsum Co., 333 US. 
+
+BOO CRDGRD. 2 00 ov bbnhes ph echt athbs dbcbres thpecns 21 
+Wainwright v. Goode, 464 U.S. 78 (1983).............. 21 
+Wainwright v. Witt, 469 U.S. 412 (1985)........... 18, 28 
+
+
+Washington v. Murray, 952 F.2d 1472 (4th Cir. 1991) .... 18 
+Withrow v. Williams, __. U.S. __, 113 S.Ct. 1745 
+
+
+CORED obec 0 bab dade Ghee < kc) ie cet ode c bee 37 
+STATUTES 
+BP. Celie 1 ANE 0:9:0-400 0 4689 06085 odes di eebaees passim 
+Rey SE BO ion btn é ide ninits camiemennd 4 
+Fe We BED a cdandwabcakcedetecobasuseeeee 4 
+RuLe 
+
+
+Federal Rule of Civil Procedure 52(a)............ 21, 23 
+
+
+ix 
+
+
+TABLE OF AUTHORITIES - Continued 
+Page 
+
+
+OTHER 
+
+
+9A Wright and Miller, Federal Practice and Pro- 
+GOES TD Ge POE o's ce ccc deccdtedciccsceccs ae 
+
+
+W. LaFave and A. Scott, Substantive Criminal Law 
+tet ic ith Tit Til ta ate ash winks ad burnteh 9. ¢ 33 
+
+
+W. LaFave and J. Israel, Criminal Procedure (1984) .... 14 
+
+
+» 
+
+
+STATUTORY AND RULE PROVISIONS 
+
+
+28 U.S.C. § 2254(d): 
+
+
+In any proceeding instituted in a Federal 
+court by an application for a writ of habeas 
+corpus by a person in custody pursuant to the 
+judgmen’ of a State court, a determination after 
+a hearing on the merits of a factual issue, made 
+by a State court of competent jurisdiction in a 
+proceeding to which the applicant for the writ 
+and the State or an officer or agent thereof were 
+parties, evidenced by a written finding, written 
+opinion, or other reliable and adequate indicia, 
+shall be presumed correct{.] 
+
+
+Federal Rule of Civil Procedure 52(a) provides: 
+
+
+FINDINGS BY THE COURT; JUDGMENT 
+ON PARTIAL FINDINGS (a) Effect. In all 
+actions tried upon the facts without a jury or 
+with an advisory jury, the court shall find the 
+facts specially and state separately its conclu- 
+sions of law thereon, and judgment shall be 
+entered pursuant to Rule 58; and in granting or 
+refusing interlocutory injunctions the court shall 
+similarly set forth the findings of fact and con- 
+clusions of law which constitute the grounds of 
+its action. Requests for findings are not neces- 
+sary for purposes of review. Findings of fact, 
+whether based on oral or documentary evi- 
+dence, shall not be set aside unless clearly erro- 
+neous, and due regard shall be given to the 
+opportunity of the trial court to judge of the 
+credibility of the witness. The findings of a mas- 
+ter, to the extent that the court adopts them, 
+shall be considered as the findings of the court. 
+It will be sufficient if the findings of fact and 
+
+
+xi 
+
+
+STATUTORY AND RULE PROVISIONS - Continued 
+
+
+conclusions of law are stated orally and 
+recorded in open court following the close of the 
+evidence or appear in an opinion or memoran- 
+dum of decision filed by the court. Findings of 
+fact and conclusions of law are unnecessary on 
+decisions of motions under Rule 12 or 56 or any 
+other motion except as provided in subdivision 
+(c) of this rule. 
+
+
+STATEMENT OF THE CASE 
+
+
+On August 11, 1986, Carl K. Thompson stabbed his 
+former wife Dixie Thompson twenty-nine times, killing 
+her. [JA 3, 26] The murder took place at Thompson’s 
+home on the outskirts of Fairbanks, Alaska. [JA 3] That 
+same day, Thompson wrapped Dixie’s body in a bed- 
+spread and tent fly, weighted it down with chains, and 
+dumped it in a gravei pit lake off the Elliott Highway. [JA 
+3] He threw the murder weapon and Dixie’s personal 
+belongings into a public dumpster. [JA 3] 
+
+
+The Alaska State Troopers learned of the murder a 
+month later, on September 10, 1986, when two moose 
+hunters found Dixie’s body floating in the gravel pit lake. 
+(JA 3, 10, 26] Because Thompson had disposed of Dixie's 
+personal effects, the troopers did not know the dead 
+woman's identity. [JA 3, 11, 26] The troopers issued a 
+press release describing a unique tattoo on the body - a 
+heart with the name “Carl” on the left chest - and asking 
+the public for assistance in identifying the woman. [JA 4, 
+11, 26] Thompson’s girlfriend urged Thompson to call the 
+troopers, and he did so. [JA 4, 11] Thompson told the 
+troopers that his former wife fit the description of the 
+dead woman, and that he had not seen her since the 
+middle of August when he had taken her to the airport. 
+JA 4, 11; Transcript of telephone conversation between 
+Thompson and Trooper Barnard on 9/11/86 at 5:11 p.m.] 
+Thompson expressed concern for his former wife’s well- 
+being and asked the troopers to call him back as soon as 
+any information became available. [JA 4; Transcript of 
+telephone conversation between Thompson and Trooper 
+Barnard on 9/11/86 at 5:11 p.m.] 
+
+
+1 
+
+
+Thompson called the troopers again the next day, 
+September 12, inquiring whether there were any develop- 
+ments in the investigation. He talked freely about his 
+relationship with his former wife and expressed his 
+desire to cooperate in the investigation. [JA 4; Transcript 
+of telephone conversation between Thompson and 
+Trooper Barnard on 9/12/86 at 3:15 p.m.] 
+
+
+A dental examination established that the dead 
+woman was in fact Dixie Thompson. [JA 11, 26] By Sep- 
+tember 15, 1986, the troopers had recovered some of 
+Dixie’s belongings. They had also received information 
+which led them to suspect Thompson had killed Dixie. 
+[JA 26] Trooper Chris Stockard telephoned Thompson 
+and asked him to come to the trooper office to identify 
+some jewelry and other items they believed belonged to 
+Dixie. [JA 11, 26] It was undisputed that Trooper Stock- 
+ard’s primary reason for contacting Thompson was to 
+question him about the murder, but Stockard did not 
+relate this to Thompson. [JA 26] Thompson agreed to go 
+to the office, but said he wanted to shower first. ,.ran- 
+
+
+script of telephone conversation between Thompson and__ 
+
+
+Trooper Stockard on 9/15/86 at 10:16 a.m.]} 
+
+
+Thompson voluntarily drove to the trooper office in 
+his own vehicle. No trooper accompanied him, even in a 
+separate car. He arrived at approximately 11 a.m. and left 
+his dog in the truck when he went inside. [JA 6, 26, 76] 
+Trooper Stockard and another trooper interviewed 
+Thompson for approximately two hours. [JA 6] The inter- 
+view was tape recorded. [JA 6] The troopers were dressed 
+in plain clothes, and there were no visible weapons. [JA 
+6] Trooper Stockard did not advise Thompson of his 
+Miranda rights because he did not intend to arrest 
+
+
+Thompson at that time and did not consider Thompson to 
+be in custody. During the questioning, Trooper Stockard 
+repeatedly assured Thompson he was not under arrest, 
+that he was free to leave at any time, and that he would 
+be able to leave at the end of the interview. [JA 6, 27, 
+44-45, 49-52, 61, 74, 76-77] On several occasions, 
+Thompson asked questions to confirm that he was in fact 
+free to leave. [JA 6, 74, 76] 
+
+
+Thompson initially told the troopers that he knew 
+nothing about Dixie’s death. [See JA 49-71] Later in the 
+interview Trooper Stockard confronted him with evidence 
+linking him to the murder. [JA 45, 50-51] Thompson ulti- 
+mately admitted stabbing Dixie, but he claimed he had 
+acted in self-defense and in the heat of passion. [JA 6-7, 
+27] At the conclusion of the interview, Thompson was 
+told he was free to go, but that his truck would be 
+impounded and searched. [JA 6] Thompson was given the 
+options of calling a cab, having a friend pick him up, or 
+getting a ride from a trooper; Thompson accepted the 
+offer of a ride and a trooper drove him and his dog home. 
+[JA 6, 78-79] Thompson was arrested two hours later and 
+charged with first-degree murder. [JA 6, 27] 
+
+
+While Trooper Stockard was interviewing Thompson 
+at the trooper office, other troopers were executing a 
+search warrant at Thompson’s residence. [JA 11] Scien- 
+tific testing revealed a large concentration of blood in the 
+kitchen. [JA 11-12] The tread design on the tires of 
+Thompson’s truck were similar to tire impressions found 
+at the gravel pit where Thompson had disposed of Dixie's 
+body. [JA 12] 
+
+
+~ - _—— 
+
+
+A grand jury in Fairbanks returned a two-count 
+indictment charging Thompson with murder in the first 
+degree in violation of Alaska Statute 11.41.100 and tam- 
+pering with physical evidence in violation of Alaska Stat- 
+ute 11.56.610. [JA 10] Thompson filed a pretrial motion to 
+suppress his confession on two grounds. First, he 
+asserted that he should have been advised of his Miranda 
+rights prior to the interview. Second, he alleged that his 
+statement was not voluntary because the troopers played 
+on his sympathies, minimized his guilt, and placed much 
+of the blame for the homicide on the victim. [JA 5, 17] 
+
+
+The Alaska superior court judge denied the motion to 
+suppress. Applying a reasonable person test to the facts, 
+the trial court found that a reasonable person in 
+Thompson's position would have felt free to leave the 
+trooper office. Accordingly, the court concluded that 
+Thompson was not entitled to Miranda warnings because 
+he was not in custody. The court also concluded that the 
+confession was voluntary. [JA 7-8] 
+
+
+Thompson was tried by a jury. The portion of his 
+September 15, 1986, statement in which he admitted stab- 
+bing Dixie was played for the jury. [JA 19, 26] The jury 
+found Thompson guilty of first-degree murder and tam- 
+pering with evidence. [JA 12, 25] 
+
+
+The Alaska Court of Appeals affirmed Thompson's 
+convictions on direct appeal. Thompson v. State, 768 P.2d 
+127 (Alaska App. 1989). [JA 10-23] The appellate court 
+initially noted that Thompson's Miranda claim was not 
+
+
+really based on an assertion that he was in custody dur- 
+ing the interview, but rather that Trooper Stockard had 
+orchestrated a non-custodial situation in order to avoid 
+having to advise Thompson of his Miranda rights. Id. at 
+130-31. [JA 16] In spite of the fact Thompson did not 
+appear to be arguing he was actually in custody for 
+Miranda purposes, the court of appeals addressed the 
+issue and found, as did the trial court, that Miranda 
+warnings were not required because a reasonable person 
+in Thompson's position would have felt free to leave the 
+trooper office and break off questioning. Id. at 131. [JA 
+16-17}' The Alaska appellate court also rejected 
+Thompson's claim that his confession was involuntary. Id. 
+at 131-32. [JA 19}? 
+
+
+Thompson sought discretionary review of the sup- 
+pression issues. The Alaska Supreme Court denied his 
+
+
+request. [JA 24] 
+
+
+* It is not clear whether the Alaska appellate court accorded 
+any deference to the trial court's finding that Thompson was not 
+in custody. In later decisions, the Alaska Court of Appeals 
+applied the clearly erroneous standard of review to trial court 
+findings regarding Miranda custody. See Higgins v. State, 887 
+P.2d 966, 970 (Alaska App. 1994); McKillop v. State, 857 P.2d 358, 
+361 (Alaska App. 1993). 
+
+? The trial court imposed a ninety-nine year sentence for 
+the murder and a consecutive five-year sentence for i 
+with evidence. [JA 21, 25] On direct appeal, the Alaska Court of 
+Appeals ruled that the five-year sentence for tampering with 
+physical evidence should run concurrently with, not consecu- 
+tive to, the murder sentence. Thompson, 768 P.2d at 133-34. [JA 
+23] On remand, the trial court imposed a composite sentence of 
+ninety-nine years. [JA 26] 
+
+
+6 
+
+
+Thompson next filed a petition for writ of habeas 
+corpus in the United States District Court for the District 
+of Alaska, alleging that his confession was not voluntary 
+and had been obtained in violation of Miranda. [JA 25] 
+The magistrate judge applied the presumption of correct- 
+ness contained in 28 U.S.C. § 2254(d) to the Alaska court's 
+finding that Thompson was not in custody during the 
+interview and rejected Thompson's Miranda claim. [JA 
+28-30] The magistrate judge also concluded that the 
+record supported the state court’s conclusion that 
+Thompson's confession was voluntary. [JA 30] Based on 
+these findings and conclusions, he recommended that the 
+habeas petition be denied. [JA 31] 
+
+
+Thompson did not timely file objections to the magis- 
+trate judge’s report and recommendation. On February 
+18, 1992, the district court judge accepted the magistrate 
+judge’s recommendation and dismissed Thompson's 
+habeas petition. [JA 33-34] Thompson then sought leave 
+to file objections. The district court judge vacated the 
+dismissal order and considered Thompson's objections. 
+[JA 35] The judge concluded that the Alaska court's find- 
+
+
+ing that Thompson was not in custody was presump- - 
+
+
+tively correct. After conducting a thorough and 
+independent review of the record, he concluded that the 
+confession was voluntary. The judge denied the habeas 
+petition and, on December 8, 1993, entered judgment 
+against Thompson. [JA 36-38] 
+
+Thompson appealed to the Ninth Circuit Court of 
+Appeals. Relying on Krantz v. Briggs, 983 F.2d 961, 961-64 
+(9th Cir. 1993), the court ruled that the state court's 
+determination that Thompson was not in custody was 
+entitled to the presumption of correctness under 28 
+
+
+U.S.C. § 2254(d). [JA 41] Applying the presumption, the 
+court concluded that there was fair support in the record 
+for the Alaska court's finding. [JA 41] After conducting de 
+novo review of the record, the court concluded that 
+Thompson's will was not overborne and that his confes- 
+sion was voluntary. [JA 42] Accordingly, the Ninth Circuit 
+affirmed the denial of Thompson's habeas petition. [JA 
+42] 
+
+
+Thompson filed a petition for certiorari, seeking 
+review of the Ninth Circuit's ruling that the presumption 
+of correctness applies to the state court's determi:..cion 
+that he was not in custody for Miranda purposes. He did 
+not seek review of the circuit court’s ruling that his 
+confession was voluntary. The Court granted the petition 
+and ordered briefing. 
+
+
+° 
+
+
+SUMMARY OF ARGUMENT 
+
+
+1. In Miranda v. Arizona, 384 U.S. 436 (1966), the 
+Court held that the prosecution may not use statements 
+made during the course of a custodial interrogation 
+unless the prosecution demonstrates that the detained 
+person was advised of and voluntarily waived the right 
+to counsel and to remain silent. A person is in custody for 
+Miranda purposes when a reasonable person in the defen- 
+dant’s position would have believed he was under arrest. 
+Stansbury v. California, _. U.S. __ 114 S.Ct. 1526, 1529 
+(1994); Berkemer v. McCarty, 468 U.S. 420, 442 (1984). In 
+order to apply this objective standard to the totality of 
+
+
+circumstances in a given case, the trial judge must deter- 
+mine what happened during the interrogation. The cir- 
+cumstances surrounding a police interview are generally 
+disputed, so the trial judge must consider evidence and 
+decide what in fact occurred. The trial court, not an 
+appellate court, is in the best position to resolve these 
+factual disputes because the trial judge has the oppor- 
+tunity to view the witnesses’ demeanor. 
+
+
+Although the trial court applies a legal test to a set of 
+facts, the issue of Miranda custody is not a mixed ques- 
+tion of fact and law. Most determinations in a lawsuit 
+involve the application of a legal concept or standard to 
+facts. When the determination of a given issue depends 
+largely on the facts, a reviewing court defers to the trial 
+court’s assessment of the facts and limits its review to 
+whether the trial court applied the correct legal standard. 
+Because the issue of Miranda custody is intricately inter- 
+woven with the facts of a specific case, the trial court's 
+determination that a person is not in custody for Miranda 
+purposes is an “issue of fact.” As such, the state court's 
+finding is presumed correct under 28 U.S.C. § 2254(d), 
+and a federal court should not overturn that finding 
+unless the state court has applied an erroneous legal 
+standard or the finding is not fairly supported by the 
+record. 
+
+
+2. State court determinations on Miranda issues 
+should be accorded deference on collateral review. Mir- 
+anda is a prophylactic rule that results in the suppression 
+of voluntary confessions. A person who voluntarily con- 
+fesses to the police is not denied a fair trial when the jury 
+
+
+hears his confession. Nor does the admission of the vol- 
+untary statement violate the Fifth Amendment's prohibi- 
+tion against compelled statements. Because the state 
+prisoner has not been grievously wronged, the principles 
+of finality, federalism and fairness dictate a deferential 
+standard of review of Miranda issues. 
+
+
+3. The choice of the standard of review makes no 
+difference in the result in this case because application of 
+the presumption of correctness and the de novo standard 
+lead to the same conclusion - Thompson was not in 
+Miranda custody when he was interviewed by the 
+troopers. He agreed to go to the trooper office to discuss 
+the death of his former wife. He drove there in his own 
+vehicle. He was not restrained in any way, he was repeat- 
+edly told he was not under arrest and was free to leave, 
+and he went home at the completion of the interview. 
+
+
+° 
+
+
+ARGUMENT 
+
+
+I. A State Court’s Determination That A Person Is Not 
+In Custody For Miranda Purposes Is An Issue Of 
+Fact Subject To The Presumption Of Correctness 
+Mandated By 28 U.S.C. § 2254(d) 
+
+
+In 1966, Congress enacted legislation limiting the 
+federal courts’ authority to conduct evidentiary hearings 
+and overturn state convictions in habeas corpus proceed- 
+ings. Congress adopted a “presumption of correctness” 
+which federal courts must apply to state court determina- 
+tions made after an evidentiary hearing. This presump- 
+tion of correctness is embodied in 28 U.S.C. § 2254(d), 
+which provides in pertinent part: 
+
+
+10 
+
+
+In any proceeding instituted in a Federal court 
+by an application for a writ of habeas corpus by 
+a person in custody pursuant to the judgment of 
+
+
+11 
+
+
+other rule or principle that will unerringly distinguish a 
+factual finding from a legal conclusion.”). However, Mil- 
+ler v. Fenton provides some guidance: 
+
+
+a State court, a determination after a hearing on 
+the merits of a factual issue, made by a State 
+
+
+court of competent jurisdiction in a proceeding 
+to which the applicant for the writ and the State 
+or an officer or agent thereof were parties, evi- 
+denced by a written finding, written opinion, or 
+other reliable and adequate indicia, shall be pre- 
+sumed correct, unless [one or more of eight 
+enumerated circumstances apply].? 
+
+
+Congress did not specify which state court deter- 
+minations are entitled to the presumption of correctness. 
+The Court has held that the presumption of correctness 
+applies to “issues of fact,” but not to “issues of law,” or to 
+“mixed issues of fact and law.” See Miller v. Fenton, 474 
+U.S. 104, 110 (1985). Unfortunately, as the Court has 
+recognized in the habeas context as well as in the direct 
+appeal context, the methodology for distinguishing 
+between fact and law has been “elusive.” Id. at 113. There 
+is no test to accurately draw the line between questions of 
+fact and conclusions of law. Pullman-Standard v. Swint, 
+456 U.S. 273, 288 (1982) (“Nor do we yet know of any 
+
+
+2 The eight circumstances listed in § 2254(d) are: the merits 
+of the factual dispute were not resolved at the state court hear- 
+ing; the factfinding procedure was inadequate to afford a full 
+and fair hearing; the material facts were not adequately devel- 
+oped; the state court lacked jurisdiction over the subject matter 
+or over the applicant; the applicant was indigent and was 
+deprived of his constitutional right to counsel; the applicant did 
+not receive a full and fair hearing; the applicant was denied due 
+process of law; or the state court factual determination is not 
+fairly supported by the record. 
+
+
+Perhaps much of the difficulty in this area stems 
+from the practical truth that the decision to label 
+an issue a “question of law,” a “question of 
+fact,” or a “mixed question of law and fact” is 
+sometimes as much a matter of allocation as it is 
+
+
+of analysis. See , Constitutional Fact 
+Review, 85 Columb.L.Rev. .229, 237 (1985). At 
+least in those instances in which C has 
+
+
+not spoken and in which the issue falls some- 
+where between a pristine legal standard and a 
+simple historical fact, the fact/law distinction at 
+times has turned on a determination that, as a 
+matter of the sound administration of justice, 
+one judicial actor is better positioned than 
+another to decide the issue in question. Where, 
+for example, as with of actual malice in 
+First Sry oagery: libel cases, got y> 
+principle can be given meaning only through its 
+application to the particular circumstances of a 
+case, the Court had been reluctant to give the 
+trier of fact’s conclusions presumptive force 
+aoe > SO Sent, Ceep ORES Aaeee oot 
+of its primary as an expositor of law. 
+Similarly, on rare occasions im years t the 
+Court has justified eee al - 
+appellate review as a means of compensating for 
+“perceived shortcomings of the trier of fact by 
+way of bias or other factor... . ” 
+
+
+a pees eo wept nm 
+teness c ques- 
+med the status of an issue as one of 
+“law” or “fact” in favor of extending deference 
+to the trial court. When, for example, the issue 
+involves the credibility of witnesses and there- 
+fore turns largely on an evaluation of demeanor, 
+
+
+12 
+
+
+there are compelling and familiar justifications 
+for leaving the process of applying law to fact to 
+the trial court and according its determinations 
+presumptive weight. 
+
+
+474 U.S. at 113-14 (citations omitted). 
+
+
+The Court has not yet decided whether the deter- 
+mination that a person is not in custody for Miranda 
+purposes falls within the ambit of § 2254(d). Of the four 
+circuits that have addressed the issue, the Eighth and 
+Ninth Circuits have held that a state court’s custody 
+determir.ation is an “issue of fact” which must be 
+accorded the statutory presumption of correctness: Feltrop 
+v. Delo, 46 F.3d 766, 773 (8th Cir. 1995), and Krantz v. 
+Briggs, 983 F.2d at 961-64. The Tenth Circuit reviews the 
+custody finding for “clear error,” which is the same as 
+presuming the finding to be correct: Cordoba v. Hanrahan, 
+910 F.2d 691, 693 (10th Cir.), cert. denied, 498 U.S. 1014 
+(1990). The Eleventh Circuit has conflicting decisions: 
+Purvis v. Dugger, 932 F.2d 1413, 1419 (11th Cir. 1991), cert. 
+denied, 503 U.S. 940 (1992), applied the presumption of 
+correctness, while Jacobs v. Singletary, 952 F.2d 1282, 1291 
+(11th Cir. 1992), reviewed the facts de novo. 
+
+
+* The Seventh Circuit examines the different functions of 
+trial and appellate judges in determining whether a question is 
+one of law or fact. Mucha v. King, 792 F.2d 602, 604 (7th Cir. 1986) 
+(“But one cannot answer the question what is a ‘fact’ without 
+first considering the purpose of the question. The purpose here 
+is to draw the line between the trial judge’s responsibility and 
+our responsibility.”). 
+
+
+— — 
+
+
+13 
+
+
+Application of the principles set forth in Miller v. 
+Fenton confirm the Eighth, Ninth and Tenth Circuit's deci- 
+sions to accord deference to the state court’s determina- 
+tion that a person is not in custody under Miranda. 
+
+
+A. The Trial Court Is In A Better Position Than An 
+Appellate Court To Make The Custody Deter- 
+mination Because Resolution Of The Issue 
+Involves The Credibility Of Witnesses And The 
+Fact-Specific Application Of The Legal Defini- 
+tion Of Custody 
+
+
+In Miranda, the Court held that “[b]y custodial inter- 
+rogation, we mean questioning initiated by law enforce- 
+ment officers after a person had been taken into custody 
+or otherwise deprived of his freedom of action in any 
+significant way.” 384 U.S. at 444. Subsequently, the Court 
+clarified that “the ultimate inquiry is simply whether 
+there is a ‘formal arrest or restraint on freedom of move- 
+ment’ of the degree associated with a formal arrest.” 
+California v. Beheler, 463 U.S. 1121, 1125 (1983) (per curiam) 
+(quoting Oregon v. Mathiason, 429 U.S. 492, 495 (1977)). See 
+also Stansbury, 114 S.Ct. at 1528-29; Berkemer, 468 U.S. at 
+440; Minnesota v Murphy, 465 U.S. 420, 430-31 (1984). 
+When no formal arrest has occurred, the court applies an 
+objective test: would a reasonable person in the suspect's 
+position have believed that he was under arrest. Stans- 
+bury, 114 S.Ct. at 1529; Berkemer, 468 U.S. at 442 (1984).4 
+
+
+4 The Alaska trial and appellate courts applied the test for 
+custody adopted by the Alaska Supreme Court in Hunter v. 
+State, 590 P.2d 888 (Alaska 1979). Hunter adopted an objective 
+test: whether a reasonable person in the suspect’s shoes would 
+
+
+14 
+
+
+Judges in the federal and state courts examine the 
+totality of the circumstances in determining whether a 
+particular suspect is in custody for Miranda purposes. 
+Stansbury, 114 S.Ct. at 1529. Relevant factors include: the 
+location and physical surroundings of the interview; the 
+language used by the officer to request the interview; 
+whether the person came on his own or was escorted by 
+police officers; the number of officers conducting the 
+interview; the existence of any physical restraint, such as 
+the drawing of weapons or the stationing of a guard at 
+the door of the interview room; whether the person was 
+told he was free to go; the demeanor of the officers; the 
+extent to which the individual is confronted with evi- 
+dence of guilt; the duration of the interview; the degree 
+of pressure applied to the suspect; and whether the sus- 
+pect left at the end of the interview. See United States v. 
+Booth, 669 F.2d 1231, 1235 (9th Cir. 1981); People v. Dracon, 
+884 P.2d 712, 717 (Colo. 1994); People v. Foster, 552 N.E.2d 
+1112 (Ill. App.), appeal denied 555 N.E.2d 380 (Ill. 1990); 
+Hunter v. State, 590 P.2d 888, 895 (Alaska 1979); W. LaFave 
+and J. Israel, Criminal Procedure, § 6.6, pp. 493, 498-99 
+(1984). 
+
+
+While these factors and others are relevant, no single 
+factor is determinative. For example, Miranda warnings 
+
+
+feel free to leave or break off questioning and, depending on the 
+location, either leave or ask the police to leave. /d. at 895. See also 
+Long v. State, 837 P.2d 737, 740 (Alaska App. 1992). Although 
+phrased somewhat differently, the Alaska test is essentially 
+identical to the test articulated by the Court. If anything, the 
+Alaska test is more favorable to defendants. Thompson does not 
+claim that the Alaska courts applied an erroneous standard to 
+the facts. 
+
+
+15 
+
+
+are not required “simply because the questioning takes 
+place in the station house, or because the questioned 
+person is one whom the police suspect.” Mathiason, 429 
+U.S. at 495. See also Stansbury, 114 S.Ct. at 1530 (fact that 
+the person is a suspect does not trigger Miranda); Murphy, 
+465 U.S. at 431 (same); Beheler, 463 U.S. at 1124-25 
+(Beheler not in custody for Miranda purposes when he 
+accompanied police to station for 30-minute interview); 
+Beckwith v. United States, 425 U.S. 341, 347-48 (1976) (Mir- 
+anda warnings not required for interview in private home 
+even though individual was suspected of wrongdoing). 
+Moreover, some facts are irrelevant. For example, the 
+subjective beliefs of the police officers about whether the 
+individual is in custody are not relevant if they are not 
+communicated to the person being questioned. Stansbury, 
+114 S.Ct. at 1529-30; Berkemer, 468 U.S. at 442. 
+
+
+The issue of custody is fact-bound. To evaluate the 
+totality of the circumstances, a trial judge must determine 
+when and where the interview occurred, how the defen- 
+dant got to the place of questioning, how long the inter- 
+view lasted, who was present during the interview, what 
+the officers and defendant said and did, how the words 
+were spoken, what the officers were wearing, the pres- 
+ence of any physical restraint, such as handcuffs or 
+drawn weapons, whether the officers had any physical 
+contact with the suspect, such as holding him by the arm, 
+whether a guard was posted near the defendant or the 
+interview room, and whether booking procedures were 
+employed. In order to make these findings, the judge 
+must consider actual evidence, either live testimony of 
+the participants, or documents (as in Thompson’s case, 
+where the entire encounter was tape recorded), or both. 
+
+
+16 
+
+
+The judge must evaluate the demeanor of witnesses and 
+their tone of voice to assess their credibility and decide 
+what in fact happened. 
+
+
+After finding the historical facts, the trial court deter- 
+mines whether the individual was in custody for Miranda 
+purposes. Because resolution of the custody issue in any 
+given case involves a fact-specific application of the defi- 
+nition of “custody,” the issue “falls somewhere between a 
+pristine legal standard and a simple historical fact.” See 
+Miller v. Fenton, 474 U.S. at 114. Deference to the trial 
+court’s ultimate conclusion regarding the totality of the 
+circumstances is warranted because the conclusion is 
+“based ultimately on the application of the fact-finding 
+tribunal’s experience with the mainsprings of human con- 
+duct to the totality of the facts of each case.” See Commis- 
+sioner of Internal Revenue v. Duberstein, 363 U.S. 278, 289 
+(1960). The “close relationship of the [standard for cus- 
+tody] to the data of practical human experience, and the 
+multiplicity of relevant factual elements, creating the 
+necessity of ascribing the proper force to each” lead to the 
+conclusion that the trial court’s determination is entitled 
+to the presumption of correctness. Id. at 289. See also 
+Purvis, 932 F.2d at 1419 (presumption of correctness 
+applied to state court’s custody finding; “The state trial 
+court was in the unique position, after observing [the 
+defendant] and listening to the evidence presented at 
+trial, to determine whether a reasonable person in [the 
+defendant’s] position would have felt free to leave the 
+police station.”); United States v. Humphrey, 34 F.3d 551, 
+558-61 (7th Cir. 1994) (Posner, C.J., concurring) (custody 
+determination should be reviewed for clear error). 
+
+
+“= .- 
+
+
+17 
+
+
+Treating Miranda custody as an issue of fact subject to 
+the presumption of correctness is in accord with the 
+Court’s treatment of another Miranda issue. In Murphy, 
+the Court referred to a trial court's finding that the defen- 
+dant did not invoke his privilege against self-incrimina- 
+tion as a “factual finding.” 465 U.S. at 424 n.3. See also 
+Bobo v. Kolb, 969 F.2d 391, 397 (7th Cir. 1992) (determina- 
+tion whether suspect invoked his Miranda rights is factual 
+finding subject to presumption of correctness). 
+
+
+California v. Prysock, 453 U.S. 355 (1981) (per curiam), 
+further supports respondent’s position that deference 
+should be accorded to state court findings on the issue of 
+Miranda custody. Prysock involved the adequacy of the 
+warnings given. The Court reversed because the Califor- 
+nia appellate court had applied an erroneous standard. In 
+granting review, the Court stated that “ordinarily this 
+Court would not be inclined to review a case involving 
+application of [Miranda] to a particular set of facts.” Id. at 
+355. This statement strongly suggests that the Court 
+accords deference to state court rulings on Miranda claims 
+when the state court has applied the correct legal test to 
+the facts. 
+
+
+B. The Presumption Of Correctness Applies On 
+Habeas Review To Similar State Court Deter- 
+minations Involving Fact-Specific Applications 
+Of Legal Principles 
+
+
+Section 2254(d) is designed to serve the interests of 
+federalism and finality by making state court determina- 
+tions on issues of fact binding on federal courts on habeas 
+review. In accordance with this purpose, the Court has 
+broadly construed the term “issue of fact” to apply to 
+
+
+18 
+
+
+state court determinations that are based on witness cred- 
+ibility: Demosthenes v. Baal, 495 U.S. 731, 735 (1990) (per 
+curiam) (state court’s determination that inmate on death 
+row was competent to waive his right to seek post-con- 
+viction relief entitled to presumption of correctness); 
+Wainwright v. Witt, 469 U.S. 412, 429 (1985) (statutory 
+presumption of correctness applies to trial court’s deter- 
+mination that prospective juror should be excused for 
+cause); Patton v. Yount, 467 U.S. 1025, 1036-37 (1984) 
+(impartiality of individual juror subject to presumption); 
+Rushen v. Spain, 464 U.S. 114, 120 (1983) (per curiam) (state 
+court findings regarding substance of ex parte communi- 
+cations and their effect on juror impartiality, and whether 
+jury’s deliberations as a whole were biased entitled to 
+deference); Maggio v. Fulford, 462 U.S. 111 (1983) (per 
+curiam) (determination of defendant’s competency to 
+stand trial reviewed under § 2254(d)); Marshall v. Lonb- 
+erger, 459 U.S. 422, 431-37 (1983) (statutory presumption 
+applies to findings that defendant received notice of and 
+understood charges to which he entered guilty pleas); 
+Smith v. Phillips, 455 U.S. 209, 218 (1982) (a state trial 
+judge’s finding that a juror’s conduct did not impair his 
+ability to render a fair and impartial verdict is subject to 
+the presumption of correctness). 
+
+
+In Miller v. Fenton, the Court left open the question 
+whether the presumption of correctness applies to state 
+court findings regarding the waiver of Miranda rights. 474 
+U.S. at 106. Since then, three circuits have held that a 
+state court’s determination that a defendant knowingly 
+and intelligently waived his Miranda rights is a question 
+of fact that falls within the ambit of the statutory pre- 
+sumption. See Washington v. Murray, 952 F.2d 1472, 1482 
+
+
+19 
+
+
+(4th Cir. 1991); Derrick v. Peterson, 924 F.2d 813, 823 (9th 
+Cir. 1990), cert. denied, 502 U.S. 853 (1991); Perri v. Director, 
+Dept. of Corrections, State of Illinois, 817 F.2d 448, 451 (7th 
+Cir. 1987). The Seventh Circuit reasoned that the deter- 
+mination involves basic or primary facts which turn on 
+the credibility of witnesses who relate external events: 
+
+
+Once a state court finds that a defendant under- 
+stood each Miranda right, then the court has 
+made the necessary subsidiary factual deter- 
+minations to the conclusion that the defendant 
+has made a knowing and inielligent waiver. 
+Therefore, because the final conclusion of 
+whether a waiver was intelligent is disposed of 
+by a state court’s ascertainment of subsidiary 
+factual determinations, we conclude that it 
+would be incongruous not to give this deter- 
+mination deference under 28 U.S.C. § 2254(d). 
+
+
+Perri, 817 F.2d at 451. See also Bryan v. Warden, Indiana 
+State Reformatory, 820 F.2d 217, 220 (7th Cir.) (voluntari- 
+ness issue requires determination whether the process 
+was fundamentally fair, but waiver of rights inquiry more 
+discrete and entitled to deference), cert. denied, 484 U.S. 
+867 (1987); Fike v. James, 833 F.2d 1503, 1506-07 (11th Cir. 
+1987) (per curiam) (§ 2254(d) applies to determination that 
+the suspect initiated a conversation after an invocation of 
+the right to counsel). 
+
+
+Juror impartiality, the competency of a defendant to 
+stand trial and to waive his right to seek post-conviction 
+relief, the defendant's understanding of the charges 
+against him, and the defendant's understanding of his 
+Miranda rights all involve fact-bound disputes. Because 
+the trial judge is in the best position to evaluate the 
+credibility of the witnesses who testify about the factual 
+
+
+20 
+
+
+disputes, the state court’s ultimate determinations on 
+these issues are subject to the requirements of § 2254(d). 
+In the Miranda context, the demeanor of the officer and 
+the defendant play an important role in determining what 
+happened before, during and after the interview. The 
+judge’s credibility assessments and findings of historical 
+fact go to the heart of the custody determination. The 
+ultimate custody determination in any given case is 
+peculiarly dependent on the facts and is unlikely to estab- 
+lish rules of future conduct. Accordingly, the sound 
+administration of justice favors deference to the trial 
+court’s custody determination.® 
+
+That the custody finding ultimately is determinative 
+of the Miranda issue in a given case does not warrant 
+plenary review. As the Court noted in Miller v. Fenton: 
+
+Equally clearly, an issue does not lose its factual 
+
+
+character merely because its resolution is dis- 
+positive of the ultimate constitutional question. 
+
+
+474 U.S. at 113 (citation omitted). 
+
+
+C. Fact-Bound Determinations Similar To The 
+Custody Determination Are Accorded Defer- 
+ence By Reviewing Courts On Direct Appeal 
+
+
+A number of matters that involve the application of a 
+legal rule to facts are given only limited review on direct 
+
+
+5 That the Alaska trial judge in Thompson's case did not 
+hear live testimony because the interview was recorded does 
+not lead to application of a different standard. In Anderson v. 
+Bessemer City, 470 U.S. 564, 574 (1985), the Court held that the 
+clearly erroneous standard applied “even when the district 
+court’s findings do not rest on credibility determinations, but 
+are based instead on physical or documentary evidence or infer- 
+ences from other facts.” 
+
+
+21 
+
+
+appeal. Rule 52(a) of the Federal Rules of Civil Procedure 
+provides that these fact-bound determinations in a judge- 
+tried case “shall not be set aside unless clearly erro- 
+neous.” This standard of review is essentially the same as 
+the presumption of correctness contained in § 2254(d).° 
+Under these equivalent standards of review, an appellate 
+court accords great deference to the district court or the 
+state court findings and affirms unless there is no fair 
+support in the record for the findings or the findings are 
+
+
+* In his brief, Thompson mistakenly equates the clearly 
+erroneous standard of review with de novo review. [Br. of Pet. at 
+18-19 & n.10] “A finding is ‘clearly erroneous’ when although 
+there is evidence to support it, the reviewing court on the entire 
+evidence is left with the definite and firm conviction that a 
+mistake has been committed.” United States v. United States Gyp- 
+sum Co., 333 U.S. 364, 395 (1948). The Court’s description of the 
+clearly erroneous standard on direct appeal is similar to the 
+presumption of correctness in habeas cases: 
+
+If the district court's account of the evidence is plaus- 
+ible in light of the record reviewed in its entirety, the 
+court of appeals may not reverse it even though con- 
+vinced that had it been sitting as the trier of fact, it 
+would have weighed the evidence differently. Where 
+there are two permissible views of the evidence, the 
+fact-finder’s choice between them cannot be clearly 
+erroneous. 
+Anderson v. Bessemer City, 470 U.S. at 573. 
+
+Similarly, in habeas cases, the presumption of correctness 
+prohibits a federal court from simply disagreeing with a state 
+court’s view of the facts and substituting its own view. Thus, 
+when two conclusions find fair support in the record, the fed- 
+eral court must defer to the state court finding. Wainwright v. 
+Goode, 464 U.S. 78, 85 (1983) (per curiam). In Bose Corp. v. Con- 
+sumers Union of U.S., Inc., 466 U.S. 485, 500 (1984), the Court 
+even used the term “presumption of correctness” when refer- 
+ring to the clearly erroneous standard of Rule 52(a). 
+
+
+22 
+
+
+predicated on a misunderstanding of the governing rule 
+of law. 
+
+
+In the Fourth Amendment context, the determination 
+whether a person voluntarily consented to a search is 
+based on the totality of the circumstances and is consid- 
+ered a question of fact. Schneckloth v. Bustamonte, 412 U.S. 
+218, 227 (1973). In the Fourteenth Amendment equal pro- 
+tection context, the trial court’s determination whether 
+the prosecutor, in exercising a peremptory challenge, 
+intended to discriminate against a juror because of his 
+race is a question of fact entitled to great deference on 
+appeal. Hernandez v. New York, 500 U.S. 352, 365 (1991). As 
+in the habeas context, the district court’s conclusions 
+concerning juror impartiality are reviewed for clear error. 
+Mu’'min v. Virginia, 500 U.S. 415, 428 (1991). See also 
+Amadeo v. Zant, 486 U.S. 214, 225 (1988) (in habeas pro- 
+ceeding involving federal prisoner, the district court's 
+conclusion that the prisoner’s lawyer did not deliberately 
+bypass an issue at trial is reviewed under the clearly 
+erroneous standard). Appellate courts defer to the trial 
+court’s findings on these issues because they are based on 
+the credibility of witnesses. 
+
+
+In voting rights cases, the trial court must determine 
+whether there has been impermissible vote dilution in 
+violation of the Voting Rights Act of 1965, 42 U.S.C. 
+§ 1973. Vote dilution, like Miranda custody, requires con- 
+sideration of the totality of the circumstances. Because 
+the circumstances vary depending on the facts of the case, 
+the trial court is in a better position than an appellate 
+court to make the determination. For this reason, the 
+Court held that the clearly erroneous standard required 
+reviewing courts to accord deference to the trial court's 
+
+
+23 
+
+
+determination. Thornburg v. Gingles, 478 U.S. 30, 79 
+(1986).” 
+
+
+In Anderson v. Bessemer City, 470 U.S. 564 (1985), the 
+Court explained why a trial court’s determination regard- 
+ing discriminatory intent is presumed correct on direct 
+appeal: 
+
+The rationale for deference to the original finder 
+
+
+of fact is not limited to the superiority of the 
+trial judge’s position to make determinations of 
+
+
+7 In civil cases, a number of trial court determinations 
+which involve the application of a legal standard to factual 
+findings are subject to Rule 52(a)’s clearly erroneous standard of 
+review: whether a plaintiff has demonstrated a pattern or prac- 
+tice of racial discrimination by a preponderance of the evidence, 
+whether the defendants acted with discriminatory intent, 
+whether an exemption to the Fair Labor Standards Act applies 
+to a particular case, and whether an at-large voting system was 
+being maintained for discriminatory purpose. Bazemore v. Fri- 
+day, 478 U.S. 385, 398 (1986) (per curiam); Pullman-Standard v. 
+Swint, 456 U.S. 273, 287-88 (1982); Icicle Seafoods, Inc. v. 
+Worthington, 475 U.S. 709, 712-13 (1986); Rogers v. Lodge, 458 U.S. 
+613, 623 (1982). See also Sterling v. Velsicol Chemical Corp., 855 
+F.2d 1188, 1198 (6th Cir. 1988) (“A district court’s ultimate and 
+subsidiary findings concerning causation, negligence, nuisance, 
+trespass, actual damages, and punitive damages, are all factual 
+determinations included within the scope of Rule 52(a).” (foot- 
+notes citing cases omitted)); Mucha v. King, 792 F.2d 602, 605 (7th 
+Cir. 1986) (“Although possession is a legal concept, whether 
+particular ‘facts’ show possession is itself a ‘fact’ for purposes of 
+separating the trial judge’s function from our own. Negligence 
+is another such fact. Facts of this sort, which are found by 
+applying a legal standard to a descriptive or historical narrative, 
+are governed by the clearly-efroneous rule.”); 9A Wright and 
+Miller § 2589, p. 612-20 (discussing and citing cases that apply 
+the clearly erroneous standard to a number of issues involving 
+fact-specific applications of legal principles). 
+
+
+24 
+
+
+credibility. The trial judge’s major role is the deter- 
+mination of fact, and with experience in fulfilling 
+that role comes expertise. Duplication of the trial 
+
+
+judge’s efforts in the court of appeals would very 
+likely contribute only negligibly to the accuracy of 
+fact determination at a huge cost in diversion of 
+judicial resources. In addition, the parties to a case 
+on appeal have already been forced to concentrate 
+their energies and resources on persuading the trial 
+judge that their account of the facts is the correct 
+one; requiring them to persuade three more judges 
+at the appellate level is requiring too much. As has 
+been stated in a different context [the habeas con- 
+text], the trial on the merits should be “the ‘main 
+event’ .. . rather than a ‘tryout on the road.’ ” 
+Wainwright v. Sykes, 433 U.S. 72, 90 (1977). 
+
+
+Id. at 574-75. 
+
+
+The same rationale applies to the Miranda custody issue 
+in the habeas context. Duplication of the state trial judge's 
+efforts in federal courts will contribute only negligibly to the 
+accuracy of the determination, at a significant cost in judicial 
+resources. Moreover, it would be too much to require state 
+prosecutors, having persuaded a state trial judge and a 
+number of state appellate judges that a defendant was not in 
+custody for Miranda purposes, to persuade anew four federal 
+judges (one district court and three circuit court) that the 
+defendant was not in Miranda custody. 
+
+
+D. The Court Has Not Already Implicitly Decided 
+The Question On Direct Review 
+
+
+Thompson argues that the Court has implicitly con- 
+cluded that Miranda custody is subject to de novo review. 
+[Br. of Pet. at 20-22] Thompson reaches this conclusion by 
+
+
+25 
+
+
+construing several decisions by the Court as having con- 
+ducted independent review of the custody determination. 
+However, an equally valid interpretation of those cases is 
+that the Court determined that the lower courts had 
+applied an erroneous legal standard to the facts. For 
+example, the Court in Stansbury concluded that the Cali- 
+fornia Supreme Court had violated the rules for deter- 
+mining whether a person is in Miranda custody by 
+considering the officer's subjective belief regarding the 
+person's status as a suspect. The Court did not indepen- 
+dently review all of the facts and decide whether the 
+defendant was in custody; it remanded to the California 
+Supreme Court for a proper application of the rules. 114 
+S.Ct. at 1527-31. In Illinois v. Perkins, 496 U.S. 292 (1990), 
+the Court rejected the argument that Miranda applies 
+whenever a suspect is incarcerated on another offense 
+and speaks with a person who, unbeknownst to the sus- 
+pect, is a government agent. The Court did not indepen- 
+dently review the totality of the circumstances 
+surrounding the discussion between the suspect and the 
+undercover government agent; rather, the Cou * deter- 
+mined that the lower court had read Miranda too broadly 
+in relying solely on the fact of the suspect’s incarceration. 
+496 U.S. at 297. 
+
+
+Similarly, the Mathiason Court held that the Oregon 
+Supreme Court applied the wrong legal standard - 
+whether the interview took place in a “coercive environ- 
+ment” instead of whether the defendant's freedom of 
+movement was restricted to the degree associated with a 
+formal arrest. 429 U.S. at 493. This reading is consistent 
+with Justice Rehnquist's observation regarding Mathiason 
+when he granted a stay of the state court judgment in Fare 
+
+
+26 
+
+
+v. Michael C., 439 U.S. 1310 (1978) (Rehnquist, J.): “In our 
+most recent pronouncement [in Mathiason] on the scope 
+of Miranda, we found the Oregon Supreme Court's expan- 
+sive definition of ‘custodial interrogation’ read Miranda 
+too broadly”). Id. at 1315. See also Pennsylvania v. Bruder, 
+488 U.S. 9, 10 (1988) (per curiam) (lower court did not 
+apply legal test set out in Berkemer); Berkemer, 468 U.S. at 
+435-36 (deciding whether Miranda applies to the brief 
+detention associated with a traffic stop); Murphy, 465 U.S. 
+at 431-33 (state court expanded Miranda in concluding 
+that Miranda warnings were required, not because proba- 
+tioner in custody, but because probation officer could 
+compel probationer to answer questions); Beckwith, 425 
+U.S. at 343-44 (district court applied correct legal stan- 
+dard); Behvler, 463 U.S. at 1123-25 (state appellate court 
+applied wrong legal standard). 
+
+
+E. Labeling An Issue A “Mixed Question Of Fact 
+And Law” Does Not Necessarily Lead To De 
+Novo Review 
+
+
+Thompson relies on language from Townsend v. Sain, 
+372 U.S. 293, 309 n.6 (1963), for the proposition that the 
+application of a legal standard to historical facts involves 
+a mixed question of fact and law. He reasons that since 
+the determination whether a person is in custody for 
+Miranda purposes involves the application of a legal prin- 
+ciple - “custody” - to a set of facts, it must be a mixed 
+question of fact and law. Thompson reads the language in 
+Townsend v. Sain too broadly. Application of such a broad 
+reading would render virtually all issues subject to plen- 
+ary review because resolution of nearly every issue that 
+arises in a criminal or civil action involves the application 
+
+
+27 
+
+
+of some legal principle or some degree of legal reasoning. 
+More importantly, Thompson’s construction is in conflict 
+with decisions the Court rendered after Congress 
+responded to Townsend v. Sain and enacted the presump- 
+tion of correctness. 
+
+
+For example, under Thompson’s analysis, the issue of 
+whether an individual juror can be impartial would be 
+characterized as a mixed question of fact and law because 
+it involves the application of a constitutional principle - 
+impartiality —- to the facts concerning a particular juror. 
+But in Patton v. Yount, the Court held that the issue “is 
+plainly one of historical fact.” 467 U.S. at 1036-37. In a 
+footnote, the Court observed: 
+
+
+There are, of course, factual and legal questions 
+to be considered in deciding whether a juror is 
+qualified. The constitutional standard that a 
+juror is impartial only if he can lay aside his 
+opinion and render a verdict based on the evi- 
+dence presented in court is a question of federal 
+law, ... ; whether a juror can in fact do that is a 
+cetermination to which habeas courts owe spe- 
+cial deference. . . 
+
+
+The dissent misreads the Court’s opinion in 
+Reynolds v. United States[, 98 U.S. 145, 156 
+(1879)]. Reynolds was decided some 87 years 
+before the presumption of correctness for factual 
+findings was added to 28 U.S.C. § 2254. The 
+Court clearly did not attach the same signifi- 
+cance to the phrase “a question of mixed law 
+and fact” that we do today under modern 
+habeas law. It recognized that juror-disqualifica- 
+tion questions may raise both a question of law 
+- whether the correct standard was applied - 
+
+
+28 
+
+
+and a question of fact. Whether an opinion 
+expressed by a juror was such as to meet the 
+legal standard for disqualification was viewed 
+as a question of fact as to which deference was 
+due to the trial court’s determination. 
+
+
+Id. at 1037 n.12. 
+
+
+The Court made a similar observation in Wainwright 
+v. Witt, in applying the presumption of correctness to a 
+trial court’s decision to excuse a juror for cause because 
+the juror’s view on capital punishment would have pre- 
+vented or substantially impaired the performance of his 
+duty. “The trial judge is of course applying some kind of 
+legal standard to what he sees and hears, but his predom- 
+inant function in determining juror bias involves cred- 
+ibility findings whose basis cannot be easily discerned 
+from an appellate record. These are the ‘factual issues’ 
+that are subject to § 2254(d).” 469 ULS. at 429. 
+
+
+Similarly, the state judge’s application of a constitu- 
+tional standard of competency to stand trial to a particu- 
+lar defendant is subject to the presumption of correctness. 
+So long as the state trial judge applies the correct legal 
+standard to the subsidiary factual findings, the federal 
+court must defer to the state trial judge’s competency 
+determination. Maggio v. Fulford, 462 U.S. at 113-117. 
+
+
+Section 2254(d)’s presumption also applies in the 
+Sixth Amendment context. A state court judge deciding 
+whether a defendant's right to counsel is violated when 
+the defendant’s statements to a jailhouse informant are 
+admitted at trial must make a number of factual findings 
+concerning what instructions the police gave to the 
+
+
+29 
+
+
+informant, whether the informant followed those instruc- 
+tions, what the informant said to the defendant, and what 
+the defendant said to the informant. Based on these find- 
+ings, the judge must then determine whether the defen- 
+dant’s statements were deliberately elicited. 
+Notwithstanding the constitutional right involved, the 
+Court held that the presumption of correctness applies to 
+a state court’s finding that police and their jailhouse 
+informant did not deliberately elicit the defendant's 
+incriminating responses. Kuhlmann v. Wilson, 477 U.S. 436, 
+460-61 (1986). 
+
+
+Thompson asserts that seven of the nine circuits that 
+have considered the issue have characterized Miranda 
+custody as a mixed question of fact and law, which the 
+circuits review independently. He is mistaken. 
+
+
+The Ninth Circuit is not the only circuit which 
+accords deference to the trial court’s custody determina- 
+tion. As noted earlier, the Eighth Circuit and the Tenth 
+Circuit also apply deferential standards of review in the 
+habeas context: Feltrop, 46 F.3d at 773 (presumption of 
+correctness); Cordoba, 910 F.2d at 693 (clear error). 
+
+
+On direct appeal, the circuits are split. The First, 
+Second, Sixth, Seventh, Eighth, Ninth and Tenth Circuits 
+have applied the deferential clearly erroneous standard 
+of review to the district court’s custody determination: 
+United States v. Lanni, 951 F.2d 440, 441 (1st Cir. 1991); 
+United States v. Mitchell, 966 F.2d 92, 98 (2nd Cir. 1992); 
+United States v. Mahar, 801 F.2d 1477, 1500 & n.38 (6th Cir. 
+1986); United States v. Levy, 955 F.2d 1098, 1103 (7th Cir.), 
+cert. denied, ___ U.S. __, 113 S.Ct. 102 (1992); United States 
+v. Griffin, 922 F.2d 1343, 1347-48 (8th Cir. 1990); United 
+
+
+30 
+
+
+States v. Poole, 806 F.2d 853 (9th Cir. 1986); United States v. 
+Robertson, 19 F.3d 1318 (10th Cir. 1994), cert. denied, __ 
+U.S. __, 115 S.Ct. 271 (1994). The D.C. Circuit and the 
+Third, Fifth and Eleventh Circuits have, without analysis, 
+conducted plenary review: United States v. Baird, 851 F.2d 
+376, 379 (D.C. Cir. 1988); United States v. Calisto, 838 F.2d 
+711, 718 (3rd Cir. 1988); United States v. Harrell, 894 F.2d 
+120, 122-25 (5th Cir.), cert. denied, 498 U.S. 834 (1990); 
+United States v. Rioseco, 845 F.2d 299, 302 (11th Cir. 1988). 
+
+
+Even if Miranda claims in general can properly be 
+labeled mixed questions of fact and law, this does not 
+mean that every subsidiary issue is reviewed indepen- 
+dently on direct appeal or in the habeas context. The case 
+of Connecticut v. Barrett, 479 U.S. 523 (1987), is illustrative. 
+When the defendant was advised of his Miranda rights, he 
+indicated that he understood his rights and that he had 
+“no problem” giving an oral statement without an attor- 
+ney, but he would not give a written one unless an 
+attorney was present. The defendant proceeded to make 
+oral incriminating statements. The Connecticut trial court 
+found that the defendant understood his rights and that 
+he had engaged in a limited invocation of his right to 
+counsel. Based on these findings, the trial court admitted 
+the statements at trial. The Connecticut Supreme Court 
+reversed, ruling as a matter of law that the defendant's 
+limited invocation of his right to counsel prohibited any 
+interrogation. 
+
+
+In reversing Connecticut’s highest court, the Court 
+noted that the state court had decided an issue of law, the 
+effect of the limited invocation on the police’s ability to 
+continue questioning. The Court did not independently 
+
+
+31 
+
+
+review the state trial court’s subsidiary findings, based 
+on credibility determinations, that the defendant under- 
+stood his rights and that his invocation of his right to 
+counsel was limited to written statements. 479 U.S. at 
+527-28 & n.1. 
+
+
+Applying Barrett to a claim that a person’s rights 
+under Miranda were violated when he was interviewed 
+without warnings, leads to the conclusion that a trial 
+court’s ruling that the person was not entitled to warn- 
+ings is a legal issue subject to independent review, while 
+the trial court’s subsidiary ruling that the person was not 
+in custody is entitled to deference. 
+
+
+F. Considerations Of Stare Decisis, Congressional 
+Intent, And The Nature Of The Inquiry Do Not 
+Warrant Plenary Review 
+
+
+The reasons for holding that the voluntariness of a 
+confession or a plea, the admissibility of a pretrial identi- 
+fication, and whether a defendant received effective assis- 
+tance of counsel are subject to plenary review - stare 
+decisis, congressional intent, and the nature of the inquiry 
+~ are not present in the Miranda context. The Court’s most 
+detailed discussion of the presumption of correctness and 
+de novo review in the habeas context appears in Miller v. 
+Fenton, which involved the voluntariness of a confession. 
+The Court held that a state court's findings on subsidiary 
+facts, such as the length of the interrogation, the defen- 
+dant’s prior experience with the legal system, and his 
+familiarity with Miranda warnings, are entitled to the 
+presumption of correctness. 474 U.S. at 117. The ultimate 
+
+
+32 
+
+
+voluntariness determination, however, is subject to plen- 
+ary review. The Court reasoned that considerations of 
+stare decisis, congressional intent, and the “uniquely legal 
+dimension” of voluntariness warranted de novo review. 
+More specifically, the Court noted that it had treated 
+voluntariness as a legal conclusion for almost fifty years 
+when Congress enacted § 2254(d) in 1966, and that Con- 
+gress had modeled the habeas statute after Townsend v. 
+Sain, which had assumed that the issue of voluntariness 
+was subject to plenary review. Miller v. Fenton, 474 U.S. at 
+116-18. See also Marshall v. Lonberger, 459 U.S. at 431-35 
+(voluntariness of guilty plea reviewed de novo, but sub- 
+sidiary questions of fact, such as whether defendant 
+aware he was pleading to charge of attempted murder, 
+subject to presumption of correctness); Sumner v. Mata, 
+455 U.S. 591, 597 (1982) (per curiam) (constitutionality of 
+pretrial identification procedures independently 
+reviewed, but findings of fact including whether the wit- 
+nesses had an opportunity to observe the crime or were 
+too distracted, whether the witnesses gave an accurate 
+and detailed description, and whether the witnesses were 
+under pressure from others, entitled to presumption); 
+Strickland v. Washington, 466 U.S. 668, 697-98 (1984) (inef- 
+fective assistance of counsel claim involves mixed ques- 
+tion of law and fact because claim “is an attack on the 
+fundamental fairness of the proceedings whose result is 
+being challenged”). 
+
+
+The Court has never squarely addressed whether a 
+trial court’s determination of Miranda custody is entitled 
+to deference on direct appeal or on habeas review; there- 
+fore, stare decisis has no application. See Brecht v. Abraham- 
+son, ___ U.S. __, 113 S.Ct. 1710, 1718 (1993) (stare decisis 
+
+
+33 
+
+
+does not preclude the Court from adopting less stringent 
+harmless error test on habeas review because Court had 
+never squarely addressed the issue). See also Edelman v. 
+Jordan, 415 U.S. 651, 670-671 (1974). Townsend v. Sain did 
+not involve a Miranda issue, nor did it allude to how 
+Miranda issues would be treated. Since the Court decided 
+Miranda in 1966, the same year Congress enacted 
+§ 2254(d), it can hardly be argued that Congress tacitly 
+approved of plenary review of Miranda issues, let alone 
+the custody determination. 
+
+
+The issue of Miranda custody does not involve a 
+“uniquely legal dimension.” The application of an objec- 
+tive reasonable person test does not transform the essen- 
+tially factual determination into a legal one. For instance, 
+the issue of negligence involves the application of a rea- 
+sonable person standard to a particular set of facts and is 
+treated as a question of fact. Cooter & Gell v. Hartmarx 
+Corp., 496 U.S. 384, 402 (1990); McAllister v. United States, 
+348 U.S. 19, 20-22 (1954); 9A Wright and Miller, Federal 
+Practice and Procedure, § 2590 (2nd ed. 1994). 
+
+
+The legal construct of the reasonable person is no 
+stranger to criminal law. A jury evaluating a defendant's 
+claim he acted in self-defense must decide whether a 
+reasonable person in the defendant's position would have 
+believed deadly force was necessary to avoid death or 
+serious bodily harm. See W. LaFave and A. Scott, Substan- 
+tive Criminal Law, § 5.7 (1986). Similarly, a defendant 
+claiming he acted in the heat of passion must demon- 
+strate that a reasonable person in his position would have 
+acted as he did. Id. at § 7.10. Two of the common culpable 
+mental states — reckiessness and criminal negligence - 
+
+
+34 
+
+
+measure the accused’s conduct against a reasonable per- 
+son standard. Id. at § 3.7. Resolution of all of these issues 
+involve the application a legal principle to the facts, and 
+all are factual issues decided by the jury. 
+
+
+The concept of Miranda custody is not integral to due 
+process. Voluntariness, pretrial identifications, and effec- 
+tive representation involve a “complex of values” which 
+are not present in the Miranda context. Miranda is not 
+rooted in fundamental fairness or due process. Nor did 
+Miranda create rights in addition to those afforded by the 
+Fifth Amendment. As the Court stated in Michigan v. 
+Tucker, 417 U.S. 433 (1974): 
+
+
+The Court recognized that these procedural 
+safeguards [Miranda warnings] were not them- 
+selves rights protected by the Constitution, but 
+were instead measures to insure that the right 
+against compulsory incrimination was pro- 
+
+
+Id. at 444. See also Roberts v. United States, 445 U.S. 552, 560 
+(1980). 
+
+
+Since Miranda custody is not a standard expressly 
+mandated by the Constitution, there are no compelling 
+reasons to review the custody determination de novo. Cf. 
+Harte-Hanks Communications, Inc. v. Connaughton, 491 U.S. 
+657 (1989) (whether evidence is sufficient to support a 
+finding of actual malice in a defamation case is a question 
+of law because of the unique character of the First 
+Amendment interest protected by the standard); Bose 
+Corp., 466 U.S. at 508 n.27 (“The simple fact is that First 
+Amendment questions of ‘constitutional fact’ compel the 
+Court's de novo review.” (citations omitted)). 
+
+
+35 
+
+
+G. Principles Of Finality, Federalism And Fairness 
+Dictate Application Of The Presumption Of 
+Correctness To Miranda Custody Determina- 
+tions 
+
+
+It must be remembered that the issue presented 
+arises in the habeas context, not on direct appeal. States’ 
+interests in finality take on more significance in a collat- 
+eral attack. 
+
+
+When the process of direct review - which, if a 
+federal question is involved, includes the right 
+to petition for a writ of certiorari - comes to an 
+end, a presumption of finality and legality 
+attaches to the conviction and sentence. The role 
+of the federal habeas proceedings, while impor- 
+tant in assuring that constitutional rights are 
+observed, is secondary and limited. Federal 
+courts are not forums to relitigate state trials. 
+
+
+Barefoot v. Estelle, 463 U.S. 880, 887 (1983). See also Engle v. 
+Isaac, 456 U.S. 107, 128 (1982) (“Federal intrusions into 
+state criminal trials frustrate both the States’ sovereign 
+power to punish offenders and their good-faith attempts 
+to honor constitutional rights.”). 
+
+
+Miranda is a prophy’ ctic rule that requires suppres- 
+sion of voluntary confessions in the government's case- 
+in-chief. Miranda, 384 U.S. at 467; Fare v. Michael C., 442 
+U.S. 707, 718 (1979); Tucker, 417 U.S. at 444; New York v. 
+Quarles, 467 U.S. 649, 654 (1984). “The Miranda exclusion- 
+ary rule, however, serves the Fifth Amendment and 
+sweeps more broadly than the Fifth Amendment itself. It 
+may be triggered even in the absence of a Fifth Amend- 
+ment violation.” Oregon v. Elstad, 470 U.S. 298, 306-07 
+(1985). 
+
+
+36 
+
+
+There are valid policy considerations for treating pro- 
+phylactic rules like Miranda differently on collateral 
+review than on direct appeal. Duckworth v. Eagan, 492 U.S. 
+195, 212 (1989) (O’Connor, J., concurring). Habeas corpus 
+should be used to correct wrongs of constitutional dimen- 
+sion, not wrongs of lesser magnitude or violations of 
+prophylactic rules. Phillips, 455 U.S. at 221; Jackson v. 
+Virginia, 443 U.S. 307, 332 n.5 (1979) (purpose of habeas 
+corpus is “to guard against extreme malfunctions in the 
+state criminal justice systems”) (Stevens, J., concurring in 
+judgment). 
+
+
+State courts are fully qualified to apply the legal 
+definition of custody. In fact, they have the superior 
+vantage point because the trial judge can listen to the 
+testimony regarding the various factual disputes and 
+decide which witnesses to credit. Thompson has put forth 
+no affirmative evidence that state-court judges are ignor- 
+ing their oaths to uphold the Constitution and are misap- 
+plying Miranda. If anything, the Miranda cases the Court 
+has decided in the last two decades indicate that state 
+appellate judges are more likely to err on the side of 
+requiring Miranda warnings where none are needed. 
+Since 1969, the Court has overturned a number of state 
+court decisions which erroneously required Miranda 
+warnings, but has not reversed a state court which held 
+that warnings were not required: Stansbury, 114 S.Ct. at 
+1531; Perkins, 496 U.S. at 297-98; Bruder, 488 U.S. at 10-12; 
+Mathiason, 429 U.S. at 493; Murphy, 465 U.S. at 440; 
+Beheler, 463 U.S. at 1126. 
+
+
+Treating Miranda custody as an issue of fact does not 
+completely insulate the state court’s determination. A 
+reviewing court can overturn the custody finding when 
+
+
+37 
+
+
+the trial court has applied an erroneous legal standard. 
+Townsend v. Sain, 372 U.S. at 315 n.10 (new trial may be 
+ordered when trial judge applies erroneous standard of 
+law in arriving at factual findings). So too, a reviewing 
+court can overturn a custody finding when the trial court 
+has applied the correct legal standard, but there are no 
+facts in the record to support the trial court’s conclusion. 
+In habeas proceedings brought by state prisoners, a fed- 
+eral court can overturn a state court finding when it finds 
+any one of the eight exemptions to the presumption of 
+correctness listed in § 2254(d). See note 2, supra, p. 10. 
+
+
+The likelihood that an erroneous application of the 
+custody standard to a particular set of circumstances will 
+result in the admission of an involuntary and unreliable 
+confession is virtually non-existent. A state prisoner can 
+allege not only a violation of Miranda, but a due process 
+claim that his confession was involuntary. Withrow v. 
+Williams, __ U.S. ___, 113 S.Ct. 1745, 1753 (1993). If the 
+prisoner prevails on the due process claim, he will be 
+entitled to relief. And, as noted earlier, the question 
+whether the confession was voluntary will be reviewed de 
+novo. Miller v. Fenton, 474 U.S. at 116-17. If, after indepen- 
+dent review, the statement is found to be voluntary, no 
+greater degree of reliability will be accomplished by sub- 
+jecting the Miranda custody issue to de novo review as 
+well. 
+
+
+Five courts — the Alaska Superior Court, the Alaska 
+Court of Appeals, the Alaska Supreme Court, the United 
+States District Court for the District of Alaska, and the 
+Ninth Circuit Court of Appeals - have conducted an 
+independent review of the record and have determined 
+that Thompson's confession was voluntary. Thompson 
+
+
+38 
+
+
+has now abandoned the claim. The Alaska jury which 
+found Thompson guilty did so on the basis of reliable 
+evidence. Deference to the state court’s finding that 
+Thompson was not in Miranda custody could not have 
+conceivably resulted in a grievous wrong. Because “Mir- 
+anda’s preventive medicine provides a remedy even to the 
+defendant who has suffered no identifiable constitutional 
+harm,” ordering a new trial in Thompson’s case would 
+vindicate no constitutional right. Elstad, 470 U.S. at 
+306-07. It would simply be an unjustified windfall. 
+
+
+II. Application Of The De Novo Standard Of Review 
+Leads To The Conclusion That Thompson Was Not 
+In Custody For Miranda Purposes When He Was 
+Interviewed At The Trooper Office 
+
+
+Should the Court conclude that the Ninth Circuit 
+erred in applying the presumption of correctness to the 
+state court's finding that Thompson was not in custody 
+for Miranda purposes, the case should be remanded to the 
+Ninth Circuit for application of the de novo standard of 
+review. However, the Court may wish to review the cus- 
+tody issue de novo and avoid deciding what standard of 
+review applies because, even under the plenary standard 
+of review, there is no doubt that Thompson was not in 
+custody for Miranda purposes when he went to the 
+trooper office. 
+
+
+The scenario in this case is virtually identical to those 
+in Beheler, 463 U.S. 1121, and Mathiason, 429 U.S. 492. 
+Beheler summoned the police to the scene of a shooting 
+and told them his companion had killed the victim. 
+Beheler agreed to accompany the police to the station to 
+
+
+39 
+
+
+discuss the murder, and he was specifically told he was 
+not under arrest. The police did not administer the Mir- 
+anda warnings. Beheler spoke with the police for approx- 
+imately 30 minutes, during which time he was told that 
+the prosecutor would be informed of his statement. 
+Beheler then went home; he was arrested five days later. 
+The California appellate court concluded that Beheler had 
+been in Miranda custody because the interview occurred 
+in the police station, the police had identified Beheler as a 
+suspect, and the interview was designed to produce 
+incriminating responses. However, the Court framed the 
+question in Beheler as follows: 
+
+
+The question presented in this petition for cer- 
+tiorari is whether Miranda warnings are required 
+if the suspect is not placed under arrest, volun- 
+tarily comes to the police station, and is allowed 
+to leave unhindered after a brief police inter- 
+view. 
+
+
+463 U.S. at 1121. The Court went on to answer the ques- 
+tion in the negative. Id. at 1124. 
+
+
+Mathiason, like Beheler, went to the police station in 
+response to an officer's request. The police told 
+Mathiason they believed he had burglarized a home, and 
+they falsely told him his fingerprints were found at the 
+scene. Mathiason then confessed to the burglary. The 
+Oregon Supreme Court concluded Mathiason was in cus- 
+tody because the interrogation took place in a “coercive 
+environment” and because the police lied about finding 
+Mathiason’s fingerprints. In reversing the state court, the 
+Court focused not on the environment, but on the fact 
+that Mathiason was not deprived of his freedom of action 
+in any significant way. Mathiason, 429 U.S. at 493. 
+
+
+40 
+
+
+Thompson, like Beheler and Mathiason, was not 
+placed under arrest prior to or during the interview. 
+Thompson voluntarily appeared at the police station in 
+response to a trooper’s request. [JA 17] This was consis- 
+tent with the prior two contacts he initiated with the 
+troopers in which he expressed a desire to cooperate in 
+the murder investigation. [JA 4, 11; Transcripts of tele- 
+phone conversations between Thompson and Trooper 
+Barnard on 9/11/86 at 5:11 p.m. and on 9/12/86 at 3:15 
+p.m.] Thompson did not feel compelled to immediately 
+appear at the trooper office; he told the trooper that he 
+was going to shower first. [Transcript of telephone con- 
+versation between Thompson and Trooper Stockard on 
+9/15/86 at 10:16 a.m.] Thompson drove his own vehicle, 
+and he brought his dog with him. [JA 6, 26, 43, 78] At the 
+end of the interview, he was given the option of calling a 
+friend, calling a cab, or getting a ride from a trooper. 
+Thompson accepted the trooper’s offer and left the office 
+unhindered. [JA 6, 78-79] 
+
+
+Thompson contends that there was a “coercive custo- 
+dial environment” because the interview took place at the 
+trooper office and the troopers used techniques designed 
+to elicit incriminating responses. But these are the same 
+factors the California and Oregon courts relied on in 
+Beheler and Mathiason, which the Court found did not 
+render Beheler in custody. As the Court recognized in 
+Mathiason, “[a}ny interview of one suspected of a crime 
+by a police officer will have coercive aspects to it, simply 
+by virtue of the fact that a police officer is part of a law 
+enforcement system which may ultimately cause the sus- 
+pect to be charged with a crime.” 429 U.S. at 495. See also 
+Murphy, 465 U.S. at 430-31 (probationer who reported to 
+
+
+41 
+
+
+probation officer at officer’s direction was not in Miranda 
+custody). 
+
+
+Miranda was concerned about custodial situations 
+which convey the message that the person has no choice 
+but to confess. 384 U.S. at 456-57. “[T]he coercion inher- 
+ent in custodial interrogation derives in large measure 
+from an interrogator’s insinuations that the interrogation 
+will continue until a confession is obtained.” Murphy, 465 
+U.S. at 433. Thompson was interviewed by two troopers 
+dressed in plain clothes with no visible weapons. [JA 6] 
+Thompson was repeatedly told he could leave at any 
+time. [JA 6, 27, 44-45, 49-52, 61, 74, 76-77] 
+
+
+That Trooper Stockard related to Thompson his belief 
+that Thompson had murdered Dixie does not transform a 
+non-custodial interview into a custodial one. “Even a 
+clear statement from an officer that the person is a prime 
+suspect is not, in itself, dispositive of the custody issue, 
+for some suspects are free to come and go until the police 
+decide to make an arrest.” Stansbury, 114 S.Ct. at 1530. 
+Because Trooper Stockard repeatedly told Thompson he 
+was free to leave, a reasonable person in Thompson’s 
+shoes would have felt free to leave the trooper office 
+despite Trooper Stockard’s speculation about how he 
+thought the murder had been committed. [JA 49-52, 61, 
+74, 76-77] Indeed, Thompson left the trooper office even 
+after confessing to brutally stabbing Dixie. [JA 6, 78-79] 
+
+
+The fact that the trooper did most of the talking for a 
+segment of the interview does not indicate custody. 
+Thompson called the troopers on September 12, 1986, to 
+find out how the investigation was coming along. [JA 4; 
+Transcript of telephone conversation between Thompson 
+
+
+42 
+
+
+and Trooper Barnard on 9/12/86 at 3:15 p.m.}. His mini- 
+mal responses during a portion of the interview are indic- 
+ative of a desire to listen to find out how much the 
+troopers knew about the murder and whether they were 
+accepting his story about taking his former wife to the 
+airport. 
+
+
+Trooper Stockard used techniques designed to elicit 
+incriminating responses. But these do not give rise to 
+custody, for “ploys to mislead a suspect or lull him into a 
+false sense of security that do not rise to the level of 
+compulsion or coercion to speak are not within Miranda’s 
+concerns.” Perkins, 496 U.S. at 297. See United States v. 
+Collins, 972 F.2d 1385, 1405-06 (5th Cir. 1992), cert. denied, 
+113 S.Ct. 1812 (1993) (rejecting claim that statements of 
+FBI agents that the defendants were not under arrest and 
+free to leave were “meaningless” in light of the fact the 
+agents confronted the defendants with incriminating evi- 
+dence; “Thus, while it may be true, as [one of the defen- 
+dants] argues, that being confronted with adverse 
+evidence or being told that one could be charged with a 
+crime is ‘designed to p[sy]c[hJologically overcome [the 
+interviewee’s] ability to gather his thoughts and intel- 
+ligently determine the circumstances,’ does not transform 
+the interview into a custodial situation.”). 
+
+
+The fact that the troopers impounded Thompson's 
+truck at the end of the interview and the fact that a 
+trooper kept Thompson under surveillance during the 
+two hours between the time he left the trooper office and 
+his arrest do not warrant a conclusion that he was in 
+custody for Miranda purposes during the interview. The 
+troopers gave Thompson several options for transporta- 
+tion from the office, and he chose to have a trooper drive 
+
+
+43 
+
+
+him home. Accepting a ride from a police officer instead 
+of calling a friend or cab was Thompson’s choice. That 
+choice did not render him in custody. 
+
+
+Thompson appears to be confusing the question of 
+whether a reasonable person in Thompson’s shoes would 
+have believed he would be arrested at some point in the 
+future with whether a reasonable person would have 
+believed he was free to terminate the interview with 
+Trooper Stockard. That a reasonable person, confronted 
+by Trooper Stockard’s recitation of the evidence against 
+Thompson, would believe that some day he would be 
+arrested and charged does not mean Thompson was enti- 
+tled to Miranda warnings prior to the recitation. 
+
+
+Circuit courts of appeal have concluded that defen- 
+dants in similar situations are not in custody for Miranda 
+purposes. See United States v. Fazio, 914 F.2d 950, 955-56 
+(7th Cir. 1990) (applying de novo standard: defendant who 
+voluntarily agreed to speak with police at the municipal 
+building, who drove his own vehicle iv the interview, 
+who was never handcuffed and who never had a gun 
+drawn on him, and who was told he was not under arrest 
+and was free to leave at any time was not in custody); 
+Purvis, 932 F.2d at 1419 (applying presumption of correct- 
+ness to state court findings; defendant not in custody 
+where he voluntarily went to police station and there 
+were no physical restraints). 
+
+
+The Alaska court’s determination that Thompson was 
+not in Miranda custody was correct under both deferential 
+and plenary review. 
+
+
+44 
+
+
+CONCLUSION 
+
+
+The Ninth Circuit Court of Appeals correctly applied 
+the presumption of correctness to the Alaska court's 
+determination that Thompson was not in custody for 
+Miranda purposes. Therefore, the judgment of the Ninth 
+Circuit should be affirmed. Alternatively, the petition for 
+certiorari should be dismissed because Thompson was 
+not in custody under any standard of review. 
+
+
+Bruce M. BoreLHo 
+Attorney General 
+
+
+CynTHIA M. Hora 
+
+Assistant Attorney General 
+
+Office of Special Prosecutions 
+and Appeals 
+
+310 K Street, Suite 308 
+
+Anchorage, Alaska 99501 
+
+Telephone: (907) 269-6250 
+
+
+Counsel for Respondents 
+
+

@@ -1,0 +1,177 @@
+Source: https://static.case.law/f3d/57/html/1356-01.html ; 57 F.3d 1356, 1361?64. Lower-court reasoning only, not controlling Supreme Court law.
+
+II.
+The district court’s opinion causes us considerable concern because it appears that the court has overlooked the real posture of the case presented. Here we are dealing with a collateral attack upon a state criminal conviction resulting from a trial by jury that has been twice heard by and written opinions filed by the highest court of the Commonwealth [Cumulative Supreme Court petition-history clause omitted]. However, the district court opinion appears to have considered the case, including the facts and the law, as if it were the original trial or appellate court without regard to prior findings of fact and numerous decisions of this court. The district court gave little or no
+*1362
+deference to any findings of fact by the courts of the Commonwealth of Virginia as directed by
+Sumner v. Mata,
+449 U.S. 539
+,
+101 S.Ct. 764
+,
+66 L.Ed.2d 722
+(1981) or the presumption of correctness established by
+28 U.S.C. § 2254
+(d).
+A.
+The district court found that Tuggle’s ability to defend himself was thwarted by the trial judge’s refusal to appoint a psychiatrist to rebut the testimony of Dr. Arthur Centor as to Tuggle’s future dangerousness, and that the Virginia Supreme Court erred in
+Tuggle II
+when it allowed the “vileness” aggravating circumstance to stand as support for the death sentence after it had set aside the “future dangerousness” circumstance under
+Ake.
+The district court also found that there was constitutional prejudice to Tuggle by the spill-over effect of the future dangerousness evidence heard by the jury at the sentencing phase, because this evidence was inadmissible on the issue of vileness. The court also found that the Virginia Supreme Court had misinterpreted
+Zant v. Stephens,
+462 U.S. 862
+,
+103 S.Ct. 2733
+,
+77 L.Ed.2d 235
+(1983) when it held that the jury finding on vileness could stand. The district court relied upon
+Johnson v. Mississippi,
+486 U.S. 578
+,
+108 S.Ct. 1981
+,
+100 L.Ed.2d 575
+(1988) as to the adverse effect of the inadmissible evidence.
+Tuggle sought certiorari to the Supreme Court after the Virginia Supreme Court decided in
+Tuggle II
+that the
+Ake
+error did not impair or invalidate the jury’s finding of vileness and again affirmed the death sentence. The Supreme Court denied cert although Tuggle’s second petition clearly presented the issue of whether
+Zant v. Stephens
+was “meant to serve as a wholesale invitation to appellate courts to ignore constitutional infirmities in the sentencing phase of a capital trial, so long as more than one aggravating circumstance is found. [Because] that it is how the decision is being applied in Virginia.” Denial of a petition for certiorari is not binding precedent, but the court has clearly indicated that it would grant certiorari after a remand for reconsideration in light of a new case, when it finds the lower court has misinterpreted the remand or if it disagrees with the action taken on remand.
+See Ford v. Georgia,
+498 U.S. 411
+,
+111 S.Ct. 850
+,
+112 L.Ed.2d 935
+(1991);
+Burden v. Zant,
+— U.S. -,
+114 S.Ct. 654
+,
+126 L.Ed.2d 611
+(1994).
+In deciding whether the Virginia Supreme Court in
+Tuggle II
+misapplied
+Zant v. Stephens,
+it is vital to remember that Virginia is a “non-weighing” state.
+Swann v. Virginia,
+247 Va. 222
+,
+441 S.E.2d 195
+, 205 (1994),
+cert. denied,
+— U.S. -,
+115 S.Ct. 234
+,
+130 L.Ed.2d 158
+(1994). In “weighing” states, the jury is specifically instructed to weigh statutory aggravating and mitigating circumstances in exercising its discretion as to whether to impose the death penalty. In “non-weighing” states, such as Virginia, the statutory scheme helps perform the function of narrowing the category of persons convicted of murder who are eligible for the death penalty by a narrow definition of capital murder, Va.Code Ann. § 18.2-32 (1988) and the requirement for aggravating circumstances, Va.Code Ann. § 19.2-264.2 (1990).
+If the statutory sentencing procedures sufficiently guide and channel the jury’s discretion so as to minimize the risk of wholly arbitrary and capricious jury action in imposing the death sentence, a weighing instruction is not required by the federal Constitution.
+Zant,
+462 U.S. at 874-75
+,
+103 S.Ct. at 2741-2
+.
+In granting Tuggle a writ of habeas corpus, the district court neither discussed the difference between weighing and non-weighing states nor mentioned the effect of
+Stringer v. Black,
+503 U.S. 222
+,
+112 S.Ct. 1130
+,
+117 L.Ed.2d 367
+(1992), which discusses the import and effect of invalid aggravating factors in weighing states and the appellate scrutiny required in such states.
+Stringer
+clearly points out the difference between capital punishment procedures that require weighing and those that do not:
+With respect to the function of a state reviewing court in determining whether the sentence can be upheld despite the use of an improper aggravating factor, the difference between a weighing State and a nonweighing State is not one of “seman
+*1363
+ties,” as the Court of Appeals thought, but of critical importance. In a nonweighing State, so long as the sentencing body finds at least one valid aggravating factor, the fact that it also finds an invalid aggravating factor does not infect the formal process of deciding whether death is an appropriate penalty. Assuming a determination by the state appellate court that the invalid factor would not have made a difference to the jury’s determination, there is no constitutional violation resulting from the introduction of the invalid factor in the earlier stage of the proceedings. But when the sentencing body is told to weigh an invalid factor in its decision, a reviewing court may not assume that it would have made no difference if the thumb had been removed from death’s side of the scale. When the weighing process itself has been skewed, only constitutional harmless-error analysis or reweighing at the trial or appellate level suffices to guarantee that the defendant receive an individualized sentence. This clear principle emerges not from any single case, as the dissent would require, but from our long line of authority setting forth the dual constitutional criteria of precise and individualized sentencing. Thus, the principal difference between the sentencing systems of Mississippi and Georgia, the different role played by aggravating factors in the two States, underscores the applicability of
+Godfrey [v. Georgia,
+446 U.S. 420
+,
+100 S.Ct. 1759
+,
+64 L.Ed.2d 398
+(1980)] and
+Maynard [v. Cartwright,
+486 U.S. 356
+,
+108 S.Ct. 1853
+,
+100 L.Ed.2d 372
+(1988)] to the Mississippi system.
+Id.
+503 U.S. at 231-32, 112 S.Ct. at 1137 (citations omitted).
+In
+Tuggle II,
+the Virginia Supreme Court concluded that in light of
+Ake,
+the trial court had erred in denying Tuggle’s motion for an independent psychiatrist to rebut the Commonwealth’s psychiatric evidence of future dangerousness even though Tuggle had never requested the psychiatrist to rebut future dangerousness but only requested the psychiatrist to reevaluate him as to sanity and competency to stand trial.
+Id,
+at 844. The Virginia court also concluded:
+When a jury makes separate findings of specific statutory aggravating circumstances, any of which could support a sentence of death, and one of the circumstances subsequently is invalidated, the remaining valid circumstance, or circumstances, will support the sentence.
+Id.
+at 845 (citing
+Zant v. Stephens,
+462 U.S. 862
+,
+103 S.Ct. 2733
+,
+77 L.Ed.2d 235
+(1983)).
+In
+Tuggle II,
+the court reviewed the evidence as to vileness and stated:
+In
+Tuggle,
+the jury made a separate, specific finding that the “vileness” predicate had been proved beyond a reasonable doubt. Although
+Ake
+requires the conclusion that the trial court erred in denying Tuggle an independent psychiatrist once the Commonwealth had submitted psychiatric evidence on the issue of future dangerousness, we hold, nonetheless, that the error neither impairs nor invalidates the jury’s finding of vileness.
+Id.
+at 846.
+The district court’s reliance upon
+Johnson v. Mississippi,
+486 U.S. 578
+,
+108 S.Ct. 1981
+,
+100 L.Ed.2d 575
+(1988), is misplaced because Mississippi uses the “weighing system,” and Virginia does not.
+As to the spill-over effect of the psychiatric evidence relating to future dangerousness, we have decided this issue in
+Smith v. Procunier,
+769 F.2d 170
+(4th Cir.1985),
+cert. granted in part Smith v. Sielaff,
+474 U.S. 918
+,
+106 S.Ct. 245
+,
+88 L.Ed.2d 254
+(1985),
+aff'd Smith v. Murray,
+477 U.S. 527
+,
+106 S.Ct. 2661
+,
+91 L.Ed.2d 434
+(1986):
+On the merits, we immediately come up against the consideration of the jury’s verdict recommending a death sentence was supported by two separate and distinct grounds of aggravation: (a) dangerousness (i.e., violence) and (b) vileness. The asserted errors of constitutional dimension relating to the admission of psychiatric testimony were in testimony directed to the question of “dangerousness.” The evidence presented to the jury supporting a showing of “vileness” was unchallenged. The testimony in the guilt phase of the case amply provided a basis for a decision that the crime was vile. Having met the
+*1364
+victim on a beach, Smith paused to help remove briars from her feet. The appearance of kindness immediately dissipated when Smith grasped the victim’s arm, took her to a wooded area, produced a knife, and told her to undress. He then forced her to have intercourse and, following that, choked her, dragged her into the water, submerged her head, stabbed her, and left the dead victim lying where she fell. The immediate cause of death was drowning, although the testimony indicated the stab wounds and strangulation also could have been responsible.
+This court recently decided in
+Briley v. Bass,
+742 F.2d 155
+, 165 (4th Cir.1984), that any one aggravating circumstance deemed sufficient by the jury suffices:
+[Sjince the jury returned a verdict finding the death sentence warranted under both “vileness” and the “dangerousness” standard, it is of no importance whether the instruction on “vileness” was correct so long as the instruction on “dangerousness” was correct, provided, of course, the verdict of the jury was unanimous on the “dangerousness” ground.
+Similarly, the Supreme Court in
+Zant v. Stephens
+stated that
+[A] death penalty supported by at least one valid aggravating circumstance need not be set aside ... simply because another aggravating circumstance is “invalid” in the sense that it is insufficient itself to support the death penalty.
+Procunier,
+769 F.2d at 173
+(footnotes omitted) (citation omitted) (alterations in original).
+The district court erred in finding that the Virginia Supreme Court erred in allowing the death sentence to stand on the “vileness” aggravating circumstance after setting aside the “future dangerousness” finding under
+Ake,
+and we reverse the granting of the writ on this ground.

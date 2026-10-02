@@ -1,0 +1,897 @@
+Supreme Court, v,s. 
+») FILED 
+
+
+No. 94-1340 MAR = 9 1995 
+
+
+. ‘ ae ‘47 
+et 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+October Term, 1994 
+
+
+CITIZENS BANK OF MARYLAND, 
+Petitioner, 
+
+
+V. 
+
+
+DAVID STRUMPF, 
+Respondent. 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+Respondent's Brief in Opposition 
+
+
+John R. Owen, Jr 
+(counsel of Record) 
+
+
+John R. Owen Jr. and Associates 
+
+
+1835 University Blud 
+Suite 232 
+
+Hyattsville, Md. 20783 
+(301) 445-2100 
+
+
+Counsel for Respondent 
+
+
+Wass Press ing 4 
+
+
+“BEST AVAILABLE COPY 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Does a Bank violate the 
+bankruptcy automatic stay provisions of 
+11 USC §362(a) by seizing and denying 
+Debtor access to his checking account 
+funds while the Bank seeks relief from 
+
+
+the stay? 
+
+
+2. After a finding that the Bank 
+had knowledge of the bankruptcy and 
+willfully violated the automatic stay, is 
+the awarding of nominal damages, punitive 
+
+
+damages and attorney’s fees appropriate? 
+
+
+TABLE OF CONTENTS 
+
+
+QUESTION PRESENTED FOR REVIEW ...... i 
+TABLE OF CONTENTS......-.eeeeeeeeeee ii 
+TABLE OF AUTHORITIES.......-++e00> .. iv 
+JURISDICTION... .cccccccccrcvsseseess 1 
+STATUTORY PROVISIONS INVOLVED....... 1 
+STATEMENT OF THE CASE.......++++. . 2 
+REASONS FOR DENYING PETITION 
+
+FOR WRIT OF CERTIORARI.......... o- § 
+I. THERE IS NO DIVISION AMONG 
+
+
+THE CIRCUIT COURT OF APPEALS 
+THAT HAVE CONSIDERED THE 
+TESGUB.. ccc ccvcccescscesess coe G 
+
+
+Il. THE COURTS OF APPEALS THAT 
+HAVE CONSIDERED WHETHER AN 
+"ADMINISTRATIVE" HOLD 
+VIOLATES THE BANKRUPTCY STAY 
+PROVISION OF 11 USC 362 (a) 
+HAVE RULES SIMILAR TO THE 
+INSTANT CASE..... cee eeeeveves 11 
+
+
+III. THE APPARENT SPLIT OF 
+AUTHORITY IN UNITED 
+STATES DISTRICTS AND THE 
+BANKRUPTCY COURT.......-++e06% 12 
+
+
+IV. THE AUTOMATIC STAY IS THE 
+
+
+CORNERSTONE OF THE 
+BANKRUPTCY CODE.......-eeee6+ . 14 
+
+
+o fhe 
+
+
+vi. 
+
+
+THE CLEAR LANGUAGE OF THE 
+BANKRUPTCY CODE DOES NOT 
+SUPPORT CITIZENS BANK’S 
+
+
+ARGUMENT. .......-5-2 202 e ee eeees 16 
+CONCLUSIONS. ........200eeeeeee 18 
+APPENDIX A 
+
+iii 
+
+
+TABLE OF AUTHORITIES 
+CASES 
+
+
+, 138 BR 792 
+
+
+CD. He SOUR cc teuc ssh odueei leo cease 7 
+
+
+Strumpf, 37 F3d 155 
+
+
+(Cue GaN, BOWS lace set eden eet ckbecwess 7 
+
+
+In re Davis, 889 F2d 658 (5th Cir. 
+1989), cert. denied sub nom., 
+Campbell v. United States, 
+
+
+GGG Wee We RMI a a cotta cccciccecicn 10 
+, 36 BR 480 
+CE. ee  ewees 12 
+, 125 BR 40 
+(N.D. Ala. 1990) affirmed 
+OGF WU Bika oh ee nck ok ous 6 9, 12 
+967 F2d 505 
+CS see as ee re 8 
+in_ re Penn Central 
+Transportation Co., 453 F2d 520 
+ee ee a 11 
+717 F2d 767 (3rd Cir. 1983).......... 11 
+764 F2d 1004 (4th Cir. 1985)......... 12 
+- iv - 
+
+
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+
+
+28 
+
+
+USC 
+usc 
+usc 
+USC 
+USC 
+USC 
+usc 
+USC 
+USC 
+usc 
+use 
+usc 
+USC 
+USC 
+usc 
+use 
+usec 
+USC 
+
+
+usc 
+
+
+STATUTES 
+$101 @t BOG. .--- wc cccccccccccces 2 
+BIGR Foe sae FOP e Cet wrewecccccces 17 
+rs aw. passim 
+BEGG COP oe COR. CFORS Se weaeces 13 
+ee ee ee ee eben sos 16 
+ES Perr eee eee er 16 
+EMD ETD gp vecaerbvecenececs ne SP 
+GED wccccevevesrecssaceescoecs 2 
+PCED  paccccnetstsecocecsses 16 
+0 Ee ren ee ae | 
+De Ketcb tse Cea cd ebeabrbesevvverves 15 
+OEGR GED 666 Vb ee CVs oS eceees 2. 29 
+| Se oe ey eee ee eee me 37 
+SSP Pee ee ea eee ea 4 
+oan waldo 64} there-o0se0ees ¢ 6s eee 4 
+DE ceebacdpeteetmeesee Ke gasces 4 
+DD wa cee 6endedoevebseveserecess “4 
+DEPEND Kin aweceevecanenesecvece 4 
+BRSWEERP cc ccasccbevevveecsecocece 1 
+
+
+v 
+
+
+No. 94-1340 
+
+
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+
+
+October Term, 1994 
+
+
+CITIZENS BANK OF MARYLAND, 
+
+
+Petitioner, 
+Vv. 
+
+
+DAVID STRUMPF, 
+
+
+Respondent. 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+RESPONDENT’S BRIEF IN OPPOSITION 
+
+
+Jurisdiction of this Court is 
+
+
+based on 28 USC §1254(1). 
+
+
+STATUTORY PROVISIONS INVOLVED 
+In addition to the five sections 
+
+
+of the United States Bankruptcy Code 
+(hereinafter "Bankruptcy Code"), 11 USC 
+§101 et geg., stated by Citizens to be 
+principally involved in this case; 11 USC 
+§362(a) (3) (the text of which is set 
+forth in Appendix E to the Petition for 
+Writ of Certiorari) and 11 USC §362(f) 
+(the text of which is set forth as 
+Appendix A to this Opposition) are also 
+significant to this case. 
+
+The five sections cited by 
+Citizens Bank are: §362(a) (7), 
+§363(a), §506(a), §542(b) and §553. 
+
+STATEMENT OF THE CASE 
+
+On January 25, 1991, David Strumpf 
+(hereinafter "Debtor") filed a voluntary 
+bankruptcy petition seeking relief under 
+Chapter 13 of the Bankruptcy Code. At 
+the time the petition was filed, Debtor 
+
+
+had an unsecured personal loan with 
+
+
+2 
+
+
+Citizens Bank and also maintained a 
+checking account with the same bank. 
+Prior to Debtor’s petition, Citizens had 
+not accelerated the note nor setoff any 
+amounts owed against Debtor’s checking 
+account. 
+
+On February 25, 1991, Citizens 
+Bank and Debtor’s other creditors were 
+notified of the bankruptcy filing by the 
+United States Bankruptcy Court for the 
+District of Maryland. The notice further 
+advised Citizens Bank and Debtor’s other 
+creditors of the bankruptcy automatic 
+stay and that certain actions were stayed 
+by the bankruptcy filing including "(3) 
+any act to obtain possession of 
+property... (7) the setoff of any debt 
+owing to the Debtor that arose before 
+the commencement of the case..." 11 USC 
+
+
+§362(a). 
+
+
+Debtor’s Chapter 13 Repayment 
+Plan, 11 USC §1322, was confirmed, 11 USC 
+§1325 by the United States Bankruptcy 
+Court on March 20, 1991, without 
+objection from Citizens Bank, 11 USC 
+§1324, and on the recommendation of the 
+U.S. Trustee, 11 USC §1302. The effect 
+of confirmation is to: "bind the debtor 
+and each creditor, whether or not the 
+claim of such creditor is provided for by 
+the plan, and whether or not such 
+creditor has objected to, has accepted or 
+has rejected the plan." 11 USC §1327(a). 
+
+On October 2, 1991, more than six 
+months after confirmation of Debtor’s 
+Repayment Plan, and eight months after 
+the bankruptcy petition was filed, 
+counsel for Debtor received a letter from 
+counsel for Citizens Bank acknowledging 
+the bankruptcy, but stating that a hold 
+
+
+was being placed on Debtor’s checking 
+
+
+account while Citizens Bank sought relief 
+from the bankruptcy stay. Citizens Bank 
+
+in the Motion for Relief from Stay argued 
+that they had a right to setoff based on 
+
+Maryland common law. 
+
+The "administrative" hold put on 
+Debtor’s checking account denied Debtor 
+access to his funds. Made it extremely 
+difficult for Debtor to make his payments 
+under his Chapter 13 Repayment Plan and 
+had the effect of denying payment to all 
+Debtor’s other creditors. 
+
+Although Citizens Bank denied 
+Debtor access to $3,500.00 of the funds 
+in his checking account, Citizens Bank’s 
+claim was for only $3,250.48 of which 
+$317.40 was accumulated interest from the 
+time Debtor filed his bankruptcy petition 
+and $382.58 was for counsel fees for 
+filing the Motion for Relief from 
+
+
+Automatic Stay. 
+
+
+- 
+i * 
+
+
+The United States Bankruptcy Court 
+granted Citizens Bank’s Motion for Relief 
+from Automatic Stay and for Setoff on 
+December 2, 1991. However, before that 
+ruling, on November 13, 1991, the United 
+States Bankruptcy Court, on Debtor’s 
+motion, held Citizens Bank in contempt 
+for violations of the automatic stay, 11 
+USC §362(a) when it placed a hold on 
+Debtor’s checking account. The United 
+States Bankruptcy Judge ordered Citizens 
+Bank to pay nominal damages of $25.00, 
+punitive damages of $375.00 and counsel 
+fees of $500.00. The amount of Debtor's 
+counsel fees were stipulated to by 
+Citizens Bank. Testimony was presented 
+by the Debtor that Citizens Bank in 
+denying him his funds was a great 
+hardship and made it difficult for him to 
+
+
+meet his ongoing expenses. 
+
+
+After the Court’s ruling holding 
+Citizens Bank in contempt, Citizens Bank 
+released their hold on Debtor’s funds and 
+although Debtor was very pleased with the 
+service he received from Citizens Bank, 
+Debtor switched his funds to another 
+bank. This made the granting of relief 
+from the automatic stay meaningless to 
+Citizens Bank. 
+
+Citizens Bank appealed the 
+Bankruptcy Court’s finding of contempt 
+and assessment of nominal damages, 
+punitive damages and attorney’s fees. 
+
+The U.S. District Court reversed stating: 
+"permitting the Bank to freeze the funds 
+until such time as the Court rules on the 
+Bank’s Motion for Relief from Automatic 
+Stay and for Setoff is the only sensible 
+procedural approach under these 
+
+
+circumstances." In re Strumpf, 138 BR 
+792 (D. Md. 1992) 
+
+
+Debtor then appealed to the United 
+States Court of Appeals for the Fourth 
+Circuit, In re: Strumpf£, 37 F3d 155 (Ath 
+Cir. 1994), which reversed the decision 
+of the District Court and remanded with 
+instructions to reinstate the Bankruptcy 
+Court decision finding Citizens Bank 
+violated the automatic stay (the finding 
+of contempt was surplusage) and the 
+awarding of nominal damages, punitive 
+damages and attorney’s fees, 37 F3d at 
+159. 
+
+The Court of Appeals based its 
+ruling on the clear, unambiguous language 
+
+
+of the Bankruptcy Code. 37 F3d at 159. 
+
+
+REASONS FOR DENYING 
+PETITION FOR WRIT OF CERTIORARI 
+
+
+I. There is no division among the 
+“Circuit Court of Appeals that 
+
+
+have considered the issue.  _ 
+Citizens Bank cites In re 
+
+
+Patterson, 967 F2d 505 (lith Cir., 1992) 
+
+
+as supporting the position that an 
+"administrative" hold on debtor’s funds 
+does not violate the bankruptcy stay 
+provision of 11 USC §362(a) and is, 
+therefore, contrary to the Court of 
+Appeals ruling in the instant case. This 
+
+
+is not a proper interpretation. 
+
+
+The Patterson court stated: 
+
+
+"The Credit Union violated general 
+provisions of the automatic stay 
+when in froze the Patterson's 
+accounts and reduced the amount of 
+an outstanding loan by the amount 
+in the account. Such conduct 
+represents a unilateral 
+determination by the Credit Union 
+of its right to setoff, a 
+determination more appropriately 
+within the province of the 
+bankruptcy court." Id at page 
+514. 
+
+
+Citizens Bank quotes at length 
+(pages 14 and 15 of Petition) from 
+Patterson, but excludes from the quote 
+
+
+the Court’s statement "We disagree" In 
+
+
+re Patterson 967 F2d at 511 (11th Cir. 
+
+
+1992), thus changing the meaning of the 
+quote. 
+
+What the Patterson court suggested 
+was an alternative to denying a debtor 
+access to his funds is that the funds be 
+placed into the registry of the 
+bankruptcy court. However, in the 
+instant case and the Patterson case it 
+was not the fact situation before the 
+Court that funds had been placed into the 
+court registry. The ruling on the facts 
+in Patterson are the same as the ruling 
+below on this case. 
+
+The other Court of Appeals case 
+cited by Citizens Bank as contrary to the 
+instant case is: In re Davis, 889 F2d 
+658 (Sth Cir. 1989), cert. denied sub 
+nom. Campbell _v. United States, 495 US 
+933 (1990). 
+
+The facts in Davis case involved 
+
+
+the Internal Revenue Service having its 
+
+
+10 
+
+
+bankruptcy claim reduced for not turning 
+over a tax refund as so ordered by the 
+Bankruptcy Court. The tax refund was not 
+paid pending an appeal by the IRS that 
+was later withdrawn. The facts of the 
+Davis case are, therefore, significantly 
+different than the one in the instant 
+
+
+case. 
+
+
+II. The Courts of Appeals that 
+have considered whether an 
+"administrative" hold 
+violates the Bankruptcy stay 
+provision of 11 USC §362(a) 
+have ruled similar to the 
+
+
+4nstant case 
+
+
+The Third Circuit Court of Appeals 
+has held that banks cannot setoff debts 
+against a corporate account as a matter 
+of law during a bankruptcy reorganization 
+
+
+without first obtaining relief from the 
+
+
+automatic stay. In re Penn Central 
+
+
+Transportation Co. 453 F2d 520 (3rd Circ. 
+1972). 
+
+
+11 
+
+
+The Court of Appeals for the Third 
+Circuit stated in United States v. 
+
+
+Norton, 717 F2d 767 (3rd Cir. 1983): 
+
+
+"If a bank could freeze the 
+Debtor’s accounts upon the 
+
+filing of a petition in 
+Bankruptcy, the Debtor’s chances 
+for successful rehabilitation 
+would be substantially diminished. 
+(at 773) 
+
+
+The Fourth Circuit Court of 
+Appeals quoted favorably from Norton 
+in United States v. Reynolds, 764 F2d 
+1004 (4th Cir. 1985). The Fourth Circuit 
+again repeated this quote in the instant 
+case in supporting its finding. 37 F3rd 
+at 159 
+
+III. The Apparent Split of 
+
+
+Authority in United 
+States Districts and the 
+
+
+Bankruptcy Court. 
+Several District Courts and 
+
+
+Bankruptcy Courts that have ruled on this 
+
+
+12 
+
+
+issue have reached differing 
+conclusions.' 
+
+It is significant that many 
+decisions that held it did not violate 
+the bankruptcy automatic stay for banks 
+to deny debtors their funds, including In 
+re Edgins, 36 BR 480 (Bankr. 9th Cir. 
+1984) were decided prior to the 1984 
+Amendments to the Bankruptcy Code 
+effective on July 10, 1984, in which 
+Congress significantly strengthened 11 
+USC §362(a) by adding to the acts that 
+were stayed by the filing of a bankruptcy 
+petition "... to exercise control over 
+the property of the estate." 11 USC 
+
+
+§362 (a) (3). 
+
+
+‘An opinion which finds freezing a debtor's 
+bank account is a violation of the bankruptcy 
+automatic stay and gives a very good analysis of 
+the Bankruptcy Code in In Re Patterson, 125 BR 40 
+(N.D. Ala. 1990) affirmed 967 F2d 1992. A 
+contrary view is In re Edgins, 36 BR 480 (Bankr. 
+9th Cir. 1984) a 2 to 1 bankruptcy panel 
+decision. 
+
+
+Also as previously discussed, this 
+issue has been settled in the Third, 
+Fourth, Eighth and Eleventh Circuit 
+Courts of Appeal and, therefore, contrary 
+decisions in these Circuits would be 
+without validity. 
+
+
+IV. The Automatic Stay is the 
+Cornerstone of the Bankruptcy 
+
+
+Code . 
+Upon the filing of a bankruptcy 
+
+
+petition, one of the fundamental 
+satustahes of the Bankruptcy Code goes 
+into effect. That is the automatic stay 
+provisions of 11 USC §362(a). The 
+automatic stay gives order to the 
+proceedings by preserving Debtors assets 
+and assuring that all creditors are 
+treated alike. 
+
+Citizens Bank is arguing that they 
+should be allowed to deny a debtor access 
+to his checking account funds and put 
+
+
+themselves ahead of all other of Debtor’s 
+
+
+14 
+
+
+creditors, including debts classified sas 
+priority, secured and unsecured non- 
+priority, 11 USC §507. Citizens Bank was 
+only in a position to do this because 
+Debtor was very pleased with the service 
+he received at Citizens Bank and, 
+therefore, chose to continue banking at 
+Citizens Bank after his petition was 
+filed. Debtor could have avoided 
+Citizens Bank seizing his funds by merely 
+withdrawing his money before his petition 
+was filed. 
+
+Citizens Bank had several 
+alternatives to violating the bankruptcy 
+automatic stay. Among these would have 
+been for Citizens Bank to object to 
+Debtor’s Repayment Plan and their 
+treatment therein. Citizens Bank could 
+also have waited until debtor was 
+discharged and Debtor’s bankruptcy case 
+
+
+was closed, the bankruptcy stay 
+
+
+15 
+
+
+terminated, and then taken steps at that 
+time to enforce any lien they may have 
+had. Liens are not discharged in 
+bankruptcy, 11 USC §362(c). 
+
+Citizens Bank could also have 
+requested an ex parte motion. This is 
+provided for in 11 USC §362(f) and was 
+suggested as an alternative by the Fourth 
+Circuit in the instant case, 37 F3d at 
+156. 
+
+V. The Clear Language of the 
+
+
+Bankruptcy Code Does Not 
+Support Citizens Bank’s 
+
+
+Argument . 
+Citizens Bank argues that Debtor 
+
+
+violated 11 USC §363(c) (2) by using 
+Citizen’s "cash collateral" (Petition 
+page 28). This section of the code 
+clearly applies to debtors engaged in 
+business. In the instant case, Debtor 
+
+
+wad retired and his whole source of 
+
+
+16 
+
+
+income was retirement benefits and social 
+security. 
+
+Citizens next argues that 11 USC 
+§542(b) sanctions their actions, but 
+again a reading of the code shows that 
+this section is not an exception to the 
+bankruptcy automatic stay provisions of 
+11 USC §362. To quote §542(b) "Except as 
+provided in subsection (c)..." and 
+subsection (c) states "Except as provided 
+in section §362(a)(7)." §542(b) goes on 
+to state "that such debt may offset under 
+§553 of this title." The language of 
+§553 (another section relied on by 
+Citizens Bank) states, "Except as 
+otherwise provided in this section and in 
+sections 362..." 
+
+11 USC §506(a) also relied on by 
+Citizens Bank also incorporate 11 USC 
+
+
+§553. 
+
+
+17 
+
+
+Therefore, Citizens Bank’s 
+argument that "This case presents the 
+Court with an opportunity to return the 
+law governing setoffs in bankruptcy cases 
+to the carefully balanced statutory 
+framework established by Congress in the 
+Bankruptcy Code," is not supported by the 
+clear language of the Bankruptcy Code. 
+
+VI. Conclusions. 
+
+Debtor prays that the Court deny 
+the Petition for Writ of Certiorari 
+because: 
+
+1. There is no split of authority 
+among the United States Courts of Appeals 
+that have considered this issue, and 
+
+2. There is not the apparent 
+split of decisions in the United States 
+District Courts and Bankruptcy Courts in 
+light of the 1984 Amendments that 
+strengthen the Bankruptcy Automatic Stay, 
+
+
+11 USC §362(a). Also, this issue has 
+
+
+18 
+
+
+been settled in the Third, Fourth, Eighth 
+and Eleventh Circuit Courts of Appeal, 
+making opinions to the contrary invalid, 
+and 
+
+3. The literal language of the 
+Statute does not support Citizens Bank’s 
+argument that it does not violate the 
+bankruptcy automatic stay provision of 
+the Bankruptcy Code to seize and deny a 
+debtor access to his checking account 
+funds. 
+
+
+Respectfully submitted, 
+
+
+John R. Owen, Jr. 
+
+(Counsel of Record) 
+
+1835 University Blvd. 
+
+Suite 232 
+
+Hyattsville, Maryland 20783 
+(301) 445-2100 
+
+
+19 
+
+
+(a i. 4 oe. | EE ee) ee ee re Se ee 5 
+. 
+
+
+APPENDIX A 
+11 USC 362(f) 
+
+
+(£) Upon request of a party in 
+interest, the court, with or without a 
+hearing, shall grant such relief from the 
+Stay provided under subsection (a) of 
+this section as is necessary to prevent 
+irreparable damage to the interest of an 
+entity in property, if such interest will 
+suffer such damage before there is an 
+opportunity for notice and a hearing 
+under subsection (d) or (e) of this 
+
+
+section. 
+
+
+. 
+
+

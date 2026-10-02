@@ -1,0 +1,1771 @@
+
+[PDF PAGE 1]
+5 
+PILED 
+No. 941340 FEB 
+6 1995 
+OFFIGE 
+OF THE CLERK 
+IN THE 
+Supreme Court of the United States 
+October Term, 1994 
+CITIZENS BANK OF MARYLAND, 
+Petitioner, 
+V. 
+DAVID STRUMPF, 
+Respondent. 
+APPENDIX TO 
+PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+James R. Eyler 
+(Counsel of record) 
+Jefferson V. Wright 
+Irving E. Walker 
+Thomas D. Renda 
+Miles & Stockbridge, P.C. 
+10 Light Street 
+Baltimore, MD 21202 
+(410) 727-6464 
+C. Edward Hartman III 
+Matthew A. Egeli 
+Hartman & Parrott 
+116 Defense Highway 
+Suite 300 
+Annapolis, MD 21401 
+(410) 266-3232 
+Attorneys 
+for Petitioner 
+CASILLAS PRESS, INC., 1717 K STREET, N.W., WASHINGTON, D.C. 20036 
+
+
+[PDF PAGE 2]
+APPENDIX A 
+In Re: DAVID STRUMPF, 
+Debtor. 
+CITIZENS BANK OF MARYLAND, 
+Plaintiff-Appellee, 
+Vv. 
+DAVID STRUMPF, Defendant-Appellant. 
+— 
+No. 92-1519 
+UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+37 F.3d 155 
+February 2, 1993, Argued 
+October 13, 1994, Decided 
+COUNSEL: 
+Argued: John Randall Owen, Jr., 
+JOHN R. OWEN, 
+JR. 
+& ASSOCIATES, 
+P.C., 
+Hyattsville, Maryland, 
+for Appellant. 
+Argued: Matthew A. Egeli, 
+HARTMAN & CRAIN, Annapolis, Maryland, 
+for 
+Appellee. 
+On Brief: 
+C. Edward Hartman, 
+III, HARTMAN & CRAIN, Annapolis, 
+Maryland, 
+for Appellee. 
+JUDGES: 
+Before RUSSELL and WIDENER, 
+Circuit Judges, and CHAPMAN, Senior 
+Circuit Judge. Judge Widener wrote the 
+opinion, 
+in which Judge Russell and 
+Senior Judge Chapman concur. 
+
+
+[PDF PAGE 3]
+WIDENER, Circuit Judge: 
+This case presents an issue of first 
+impression on the same facts in the 
+courts of appeal, although the Third and 
+Eighth Circuits have considered similar 
+fact situations, 
+as have we. 
+It is 
+whether a bank violates the automatic 
+Stay of 11 U.S.C. 
+§ 362(a) by placing an 
+administrative hold on a debtor’s account 
+while seeking relief from the stay to 
+exercise its right of setoff. 
+The United 
+States Bankruptcy Court for the District 
+of Maryland held Citizens Bank of 
+Maryland 
+(Citizens) 
+in contempt for 
+violating the automatic stay and awarded 
+damages to Strumpf under 11 U.S.C. 
+§ 
+362(h). 
+See Citizens of Md. v. Strumpf, 
+138 B.R. 
+792 
+(D. Md. 
+1992). On appeal, 
+the United States District Court for the 
+District of Maryland reversed. 
+See 138 
+aie 
+B.R. 
+at 795. Strumpf now appeals and we 
+reverse. 
+I. 
+On November 28, 1989, Citizens 
+loaned Strumpf $5,068.75 on a note as an 
+unsecured consumer loan to be repaid in 
+24 monthly installments. 
+See 138 B.R. 
+at 
+792. Upon default, 
+the note provided 
+Citizens with the right to immediately 
+accelerate the amount due, the right to 
+recover attorney’s fees incurred in 
+collection, 
+and the right of setoff. 
+See 
+138 B.R. 
+at 792. On January 25, 1991, 
+Strumpf filed a Chapter 13 bankruptcy 
+petition. 
+See 138 B.R. 
+at 792. At the 
+time of filing, Strumpf had $11,279.86 in 
+a checking account with Citizens, and the 
+note was in default because Strumpf had 
+failed to make scheduled payments. 
+See 
+138 B.R. at 792. On March 20, 1991, the 
+ale 
+
+
+[PDF PAGE 4]
+bankruptcy court confirmed Strumpf’s 
+and authorized 
+it to exercise its right 
+repayment plan. 
+of setoff. 
+See 138 B.R. 
+at 793. Citizens, 
+On October 
+7, 1991, Citizens 
+filed 
+however, 
+was unable to set off its loan 
+a motion for relief from the automatic 
+because Strumpf had withdrawn all funds 
+stay and for setoff and placed an 
+from his checking account after Citizens 
+administrative hold on $3,500 in 
+removed the administrative hold. 
+See 138 
+Strumpf’s checking account, $3,250.48 
+B.R. at 793. 
+being due on the note at the time. 
+See 
+Il. 
+138 B.R. at 792-93. On October 9, 1991, 
+The right of setoff may arise 
+Strumpf filed a motion to hold Citizens 
+contractually or under state law, see 4 
+in contempt for violating the automatic 
+Collier on Bankruptcy @ 553.06 (15th ed. 
+stay of § 362(a). See 138 B.R. at 793. 
+1992), and it allows a creditor to apply 
+The bankruptcy court reserved ruling on 
+one mutual debt against another to avoid 
+Citizens’ motion on November 4, 1991, and 
+“the absurdity of making A pay B when B 
+then granted Strumpf’s motion on November 
+owes A." Studley v. Boylston 
+Nat’l Bank, 
+13, awarding him attorney’s fees of $500, 
+229 U.S. 523, 528, 33 S. Ct. 806, 808, 57 
+punitive damages of $375, and nominal 
+L. Ed. 1313 (1913). While the Bankruptcy 
+damages of $25. See 138 B.R. at 793. On 
+Code preserves a creditor’s right of 
+December 2, the bankruptcy court granted 
+setoff that arose before the filing of a 
+Citizens’ motion for relief from the stay 
+petition in bankruptcy, see 11 U.S.C. 
+§ 
+aie: 
+elie 
+
+
+[PDF PAGE 5]
+553(a), 
+the Code stays the exercise of 
+the right of setoff by making it subject 
+to the automatic stay of § 362(a).* 
+See 
+11 U.S.C. 
+§ 362(a)(7). 
+To exercise its 
+right of setoff, 
+a creditor must obtain 
+relief from the automatic stay by filing 
+a motion with the bankruptcy court. 
+See 
+11 U.S.C. 
+§ 362(d). 
+If the creditor fears 
+that the property subject to the motion 
+will suffer irrepaxeile damage before 
+notice and hearing may be had, the 
+creditor may even file an ex parte motion 
+under § 362(f). See 11 U.S.C. 
+§ 362(f). 
+Any relief from the automatic stay rests 
+within the sound discretion of the 
+* The Code also grants creditors with a 
+valid right of setoff two other rights. Section 
+506(a) gives a creditor a secured claim to the 
+extent of the amount subject to setoff. 
+See 11 
+U.S.C. 
+§ 506(a). Section 542(b) excepts a 
+creditor from turning over property to the 
+debtor’s estate to the extent of the setoff. 
+See 
+11 U.S.C. 
+§ 542(b). 
+sie 
+bankruptcy court. 
+See Small Business 
+Admin. 
+v. Rinehart, 
+887 F.2d 165, 
+169 
+(8th Cir. 
+1989). 
+If the debtor learns of the motion 
+for relief 
+from the stay, however, 
+the 
+debtor may defeat the creditor’s right of 
+setoff by removing all funds in the 
+creditor’s possession before the creditor 
+can obtain relief from the stay. 
+Therefore, 
+even if the creditor is 
+granted relief from the automatic stay, 
+the creditor will have nothing with which 
+to set off the debt owing it. As the 
+district court recognized, 
+this scenario 
+is known as the "banker’s dilemma": 
+"{W)jhen a bankruptcy is filed, 
+a bank 
+claiming a right of set-off 
+in a debtor’s 
+account may be faced with a dilemma 
+- 
+whether it should turn over proceeds of 
+[the] debtor’s account. 
+or whether it 
+aDe 
+
+
+[PDF PAGE 6]
+should exercise its set-off rights in 
+violation of the automatic stay." 
+Citizens 
+Bank, 
+138 B.R. 
+at 702, quoting 
+from 
+In Re Bass Mechanical Contre~tors, 
+Inc., 
+84 B.R. 
+1009, 
+1022 
+(Bankr. 
+W.D. 
+Ark. 
+1988). Recognizing this dilemma, 
+some bankruptcy and district courts have 
+held that pending a motion for relief 
+from the stay, 
+a creditor asserting a 
+right of setoff may place an 
+administrative hold on a debtor’s account 
+without violating the automatic stay of § 
+362(a). 
+See Citizens Bank, 
+138 B.R. 
+at 
+793 (holding same and collecting cases). 
+Relying on this body of case law, 
+Citizens placed an administrative hold on 
+Strumpf’s account and filed a motion for 
+relief from the stay. See 138 B.R. 
+at 
+794. 
+While we understand the dilemma 
+that Citizens and other similarly 
+situated creditors face, we cannot 
+overlook the fact that the Code does not 
+authorize such action, and is quite to 
+the contrary. 
+Setoff is explicitly within 
+the terms of section 362(a)(7) which 
+stays a creditor from exercising its 
+right of setoff unless and until the 
+creditor obtains relief from the stay. 
+In 
+United States v. Reynolds, 764 F.2d 1004 
+(4th Cir. 
+1985), we held that a freeze by 
+the Internal Revenue Service 
+(IRS) on a 
+debtor’s tax refund 
+“was a setoff subject 
+to the automatic stay and that the IRS 
+violated the stay in retaining the 
+funds." 
+764 F.2d at 1006-07. 
+Based on 
+this holding, we are of opinion that an 
+administrative hold is tantamount to the 
+exercise of a right of. setoff and thus 
+-9- 
+
+
+[PDF PAGE 7]
+violates 
+the automatic stay of § 
+362(a)(7). 
+See 764 F.2d at 1006-07. 
+As 
+well 
+as Rinehart, 
+supra, 
+United States 
+v. 
+Norton, 
+717 F.2d 767, 
+773 
+(3d. Cir. 
+1983). — 
+and 
+In Re Penn Central Transportation 
+Company, 
+453 F.2d 520 
+(3d. Cir. 
+1972) 
+(a 
+railway reorganization under the 
+Bankruptcy Act) are on slightly different 
+facts but are fully in accord with our 
+decision. 
+Whether the creditor actually 
+offsets the debtor’s account or pleces a 
+hold on the debtor’s account, 
+both 
+effectively deprive the debtor of the use 
+of the funds pending the outcome of the 
+motion for relief 
+from the stay. 
+See 
+Rinehart, 
+887 F.2d at 168. 
+Citizens attacks this holding, 
+the 
+same one reached by the bankruptcy court, 
+claiming that Reynolds is distinguishable 
+and that equating an administrative hold 
+-10- 
+with the exercise of the right of setoff 
+renders the right of setoff unenforceable 
+and effectively repeals § 553(a). 
+Citizens states that, unlike the IRS in 
+Reynolds, 
+Strumpf’s plan made no 
+provision to pay Citizens as a secured 
+creditor despite its status as a secured 
+creditor under § 506(a). Furthermore, 
+Citizens claims that, unlike the IRS, 
+it 
+did not intend to keep the hold on 
+Strumpf’s account until the end of his 
+Chapter 13 plan. 
+We are not persuaded by Citizens’ 
+efforts to distinguish Reynolds. Whiie 
+the fact that Citizens was not provided 
+for as a secured creditor in Strumpf’s 
+plan might be taken into account 
+in 
+deciding whether the bankruptcy court 
+should grant Citizens relief 
+from the 
+automatic stay under § 362(d)(1), 
+it has 
+atin 
+
+
+[PDF PAGE 8]
+no bearing on whether Citizens acted 
+properly in placing an administrative 
+hold on Strumpf’s account. 
+We are further 
+of opinion that the length of time a 
+creditor intends 
+to maintain 
+a hold is 
+not relevant 
+to whether a hold is 
+tantamount 
+to a setoff. 
+In Reynolds 
+the 
+IRS intended to hold the funds until the 
+Chapter 
+13 plan was closed because the 
+bankruptcy court had denied 
+it relief 
+from stay due to its status 
+as a secured 
+creditor with adequate protection. 
+See 
+764 F.2d at 1007. 
+In this case, 
+Citizens 
+intended to hold Strumpf’s account only 
+until 
+it could get relief 
+from stay. 
+These cases indicate to us that the 
+length of time a creditor intends to 
+maintain the hold is determined by that 
+same creditor’s ability to get relief 
+from the automatic stay and exercise its 
+ot Ba. 
+right of setoff, 
+so the length of time is 
+not relevant 
+to whether a hold is 
+tantamount 
+to a setoff. 
+We likewise are not persuaded by 
+Citizens’ 
+claims that our holding renders 
+the right of setoff unenforceable and 
+effectively repeals § 553(a). Statutory 
+construction begins with the literal 
+language of a statute, 
+see United States 
+v. Turkette, 
+452 U.S. 
+576, 
+580, 
+101 S. 
+Ct. 
+2524, 
+2527, 
+69 L. Ed. 
+2d 246 (1981), 
+and if the language is clear and 
+unambiguous our task is at an end unless 
+a literal reading of the statute 
+contravenes the clearly expressed 
+legislative intent of Congress. 
+See 
+Russello v. United States, 
+464 U.S. 
+16, 
+20, 104 S. Ct. 
+296, 
+299, 
+78 L. Ed. 
+2d 17 
+(1983). While the banker’s dilemma may 
+allow a debtor to defeat a creditor’s 
+atte 
+
+
+[PDF PAGE 9]
+right of setoff, 
+the clear and 
+unambiguous language of § 362(a) produces 
+this result. 
+Furthermore, 
+our holding 
+does not contravene any clearly expressed 
+legislative intent of Congress: 
+The automatic stay is one of 
+the fundamental debtor 
+protections provided by the 
+bankruptcy laws. 
+It gives the 
+debtor a breathing spell from 
+his creditors. 
+It stops all 
+collection efforts, 
+all 
+harassment, 
+and all foreclosure 
+actions. 
+It permits the debtor 
+to attempt 
+a repayment or 
+reorganization plan, 
+or simply 
+to be relieved of the financial] 
+pressures that drove him into 
+bankruptcy. 
+House Report No. 
+95-585, 
+95th Cong., 
+lst 
+Sess. 
+340-2 
+(1977); Senate Report No. 
+95-989, 
+95th Cong., 
+2d Sess. 
+54-55 
+(1978); reprinted in 1978 U.S.C.C.A.N. 
+5787 at 5840 and 6296-7. 
+"If a bank could 
+freeze the debtor’s accounts upon the 
+filing of a petition in bankruptcy, 
+the 
+debt »r’s chances 
+for successful 
+atte 
+rehabilitation would be substantially 
+diminished." 
+See Reynolds, 
+764 F.2d at 
+1007 
+(quoting Norton, 
+717 F.2d at 773). 
+Iil. 
+As for the bankruptcy court’s award 
+of attorney’s fees, punitive damages, 
+and 
+nominal damages, 
+we are of opinion that 
+such an award was appropriate and not an 
+abuse of discretion. 
+See Budget Service 
+Co. v. Better Homes of Va., 
+804 F.2d 289, 
+292-93 
+(4th Cir. 
+1986). 
+To award damages 
+under § 362(h) the bankruptcy court need 
+only find a willful violation of the 
+automatic stay of § 362(a). 
+To constitute 
+a willful act, 
+the creditor need not act 
+with specific intent but must only commit 
+an intentional act with knowledge of the 
+automatic stay. 
+See Budget Service, 
+804 
+F.2d at 292-293; 
+In Re Atl. Business 
+& 
+Comm inity Corp., 
+901 F.2d 325, 
+329 
+(3d 
+wit 
+
+
+[PDF PAGE 10]
+Cir. 
+1990). 
+In this case there is no 
+doubt that Citizens had knowledge of the 
+stay when it placed the hold on Strumpf’s 
+account because the placing of the hold 
+was 
+an attempt to buy time while seeking 
+relief 
+from the automatic stay. 
+IV. 
+We are thus of opinion that 
+Citizens’ 
+administrative hold on 
+Strumpf’s account violated the automatic 
+stay provisions of § 362(a)(7) and that 
+the bankruptcy court did not abuse its 
+discretion by finding Citizens had 
+violated the automatic stay and awarding 
+damages. 
+Accordingly, 
+we reverse the decision 
+of the district court and remand with 
+instructions 
+to reinstate all of the 
+decision of the bankruptcy court except 
+that part which may have held Citizens 
+in 
+whiten 
+contempt of court. 
+That part of the 
+decision of the district court with 
+reference to holding Citizens 
+in contempt 
+of court is not appealed by Strumpf 
+(Brief, p.7-8), although that part 
+finding Citizens had not violated § 
+362(a)(7) 
+and sot awarding damages under 
+§ 362(h) was appealed. 
+In all events, 
+the 
+finding of contempt was surplusage. 
+See 
+Budget Service Company, 
+80% F.2d 289, 
+293, and n.4. 
+REVERSED AND REMANDED WITH 
+INSTRUCTIONS 
+atte 
+
+
+[PDF PAGE 11]
+APPENDIX B 
+CITIZENS BANK OF MARYLAND, Appellant 
+Vv. 
+DAVID STRUMPF, Appellee 
+Civil No. HAR-91-3692 
+UNITED STATES DISTRICT COURT FOR THE 
+DISTRICT OF MARYLAND 
+138 B.R. 
+792 
+March 
+27, 
+1992, 
+Decided 
+March 
+30, 
+1992, 
+Filed 
+COUNSEL: 
+Attorney for Appellant, 
+C. 
+Edward Hartman, 
+III, Annapolis, 
+MD 21401. 
+Attorney for Appellee, 
+John R. 
+Owen, 
+Jr., Hyattsville, 
+MD 20782. 
+JUDGES: 
+Hargrove 
+MEMORANDUM OPINION 
+Currently before this Court 
+is 
+Citizens Bank of Maryland’s 
+("Citizen's 
+Bank") appeal from the United States 
+Bankruptcy Court for the District of 
+Maryland. 
+The issues have been fully 
+oi@n 
+briefed, 
+and no hearing is deemed 
+necessary. 
+The first issue presented to this 
+Court is whether the Bankruptcy Court 
+erred as a matter of law in holding that 
+the Appellant violated the automatic stay 
+of 11 U.S.C. 
+§ 362(a) when it placed an 
+administrative hold on the Appellee’s 
+checking account pending the Bankruptcy 
+Court’s disposition of the Appellant’s 
+Motion for Relief 
+from Automatic Stay and 
+for Setoff. 
+The second issue before this 
+Court 
+is whether the Bankruptcy Court 
+erred in finding the Appellant in 
+contempt and assessing attorney’s fees, 
+punitive damages, 
+and nominal damages 
+under 
+11 U.S.C. 
+§ 362(h). 
+FACTS 
+Citizens Bank loaned Strumpf 
+$5,068.75 pursuant to an unsecured 
+éhBe 
+
+
+[PDF PAGE 12]
+consumer 
+loan note 
+("Note") 
+on November 
+28, 
+1989. 
+Strumpf agreed to pay off the 
+loan 
+(including interest) 
+in twenty-four 
+monthly installments. 
+The Note provided 
+for the immediate acceleration 
+of the 
+amount due upon default, 
+and for the 
+payment of attorney’s 
+fees upon referral 
+of the matter to an attorney for 
+collection. 
+The note further provided for 
+the right of setoff. 
+On January 25, 
+1991, Strumpf filed 
+a 
+Petition 
+for Relief under Chapter 
+13 of 
+Title 
+11, U.S.C., 
+in the Bankruptcy 
+Court. 
+(Case No. 
+91-40389PM). 
+At the time 
+of the filing of the Petition, 
+Strumpf 
+had a checking account with Citizens 
+Bank, containing $11,279.86. 
+Because 
+Strumpf had failed to make scheduled 
+payments, Citizens Bank declared the Note 
+in default. 
+~20- 
+On October 
+7, 1991, Citizens Bank 
+filed a Motion for Relief from Automatic 
+Stay and for Setoff against Strumpf. 
+In 
+the Motion, Citizens Bank sought 
+permission to setoff the amounts owed on 
+the Note against the amounts then in 
+Strumpf’s checking account. 
+Simultaneous 
+with filing the Motion for Relief from 
+Automatic Stay and for Setoff, Citizens 
+Bank placed an administrative hold on 
+$3,500 in Strumpf’s checking account,’ 
+pending a ruling by the Bankruptcy Court 
+on the Motion. Citizens Bank took this 
+action to prevent Strumpf from removing 
+funds to which Citizens Bank claimed a 
+setoff right. 
+On October 9, 1991, Strumpf filed a 
+Motion to hold Citizens Bank in contempt 
+| The amount due on the Note as of that 
+date, including attorney’s fees, was $3,250.48. 
+re 
+
+
+[PDF PAGE 13]
+for violation of the automatic stay of 11 
+U.S.C. 
+§ 362(a), when it placed the 
+administrative hold on the checking 
+account. 
+On November 
+4, 1991, 
+the 
+Bankruptcy Court, Judge Paul Mannes 
+presiding, 
+held a hearing on Citizens 
+Bank’s Motion for Relief 
+from Automatic 
+Stay and for Setoff, 
+and reserved ruling 
+on the Motion. 
+On November 
+13, 1991, 
+Judge Mannes held a hearing on Strumpf’s 
+Contempt Motion, granted the Motion, 
+and 
+ordered Citizens Bank to pay counsel 
+fees 
+of $500.00, 
+punitive damages of $375.00, 
+and nominal damages of $25.00. 
+This 
+ruling was set forth in a written Order 
+on November 21, 1991. 
+Later, 
+in a written Order entered 
+December 
+2, 1991, Judge Mannes granted 
+Citizens Bank’s Motion for Relief from 
+Automatic Stay and Setoff. Citizens Bank, 
+o32%~ 
+in compliance with Judge Mannes cor cempt 
+ruling, 
+had lifted the administrative 
+hold on the checking account. 
+Before the 
+granting of Citizens Bank’s Motion for 
+Relief 
+from Automatic Stay and Setoff, 
+Strumpf had removed all funds from the 
+checking account. 
+I. 
+Citizens Bank cites 
+a substantial 
+body of persuasive caselaw for the 
+proposition that a bank’s placing of an 
+administrative hold on a debtor’s account 
+pending the disposition of a motion 
+asserting the bank’s right of setoff 
+is 
+not a violation of the automatic stay. 
+See e.g., 
+Bank of America Nat’l Trust & 
+Sav. Ass’n v. Edgins, 
+36 B.R. 
+480 (9th 
+Cir. 
+Bankr. 
+App. 
+1984); Rio v. Army 
+Aviation Center Fed. Credit Union, 
+82 
+B.R. 
+138 (M.D. Ala. 
+1986); Stann v. Mid. 
+=~23< 
+
+
+[PDF PAGE 14]
+Am. Credit Union, 
+39 B.R. 
+246 
+(D. Kan. 
+1984); 
+In re Archer, 
+34 B.R. 
+28 (B.C. 
+N.D. 
+Tex. 
+1983); 
+In re Bass Mechanical 
+Contractors, 
+Inc., 
+84 B.R. 
+1009 
+(Bankr. 
+W.D. 
+Ark. 
+1988); Kenney’s Franchise Corp. 
+v. 
+Cent. 
+Fidelity Bank, 
+NA, 
+22 B.R. 
+747 
+(W.D. 
+Va. 
+1982); 
+In re Williams, 
+61 B.R. 
+567 
+(Bankr. 
+N.D. 
+Tex. 
+1986); 
+In re 
+Hoffman, 
+51 B.R. 
+42 (Bankr. W.D. 
+Ark. 
+1985); 
+In re Gazelle, Inc., 
+17 B.R. 
+617 
+(Bankr. 
+W.D. Wis. 
+1982); and In re 
+Carpenter, 
+14 B.R. 
+405 (Bankr. M.D. 
+Tenn. 
+1981). 
+The notion of the "banker’s dilemma" 
+Supports the argument that banks have a 
+right to place an administrative hold on 
+a debtor’s account pending further 
+disposition of the funds: 
+[Wjhen a bankruptcy is filed, 
+a 
+bank claiming a right of 
+set-off 
+in a debtor’s account 
+may be faced with a 
+~24- 
+dilemma--whether 
+it should tura 
+over proceeds of [the] debtor’s 
+account or whether it should 
+exercise its set-off rights in 
+violation of the automatic 
+stay. 
+To avoid this dilemma, 
+many courts have allowed banks 
+to place an "administrative 
+freeze" 
+on a debtor’s account 
+pending further disposition of 
+the funds without violating the 
+automatic stay. The placing of 
+an administrative freeze on a 
+debtor’s account offers 
+a way 
+to preserve the debtor’s 
+account and is not a direct or 
+indirect attempt to improve the 
+bank’s right to a distribution 
+of assets. 
+Citizens Bank found itself 
+in 
+precisely this banker’s dilemma until 
+it 
+placed an administrative hold on the 
+debtor’s account. 
+Citizens Bank was not 
+exercising its right of setoff without 
+obtaining prior relief from the automatic 
+stay--rather, 
+it was acting to preserve 
+the debtor’s account until the Bankruptcy 
+Court ruled on the Motion for Relief from 
+Automatic Stay. 
+= 
+
+
+[PDF PAGE 15]
+The Bankruptcy Court relied on the 
+cases 
+of United States 
+v. Reynolds, 
+764 
+F.2d 1004 (4th Cir. 
+1985), and United 
+i 
+States v. Norton, 
+717 F.2d 767 (3rd Cir. 
+1983), 
+in holding that Citizens 
+Bank’’s 
+placing of an administrative hold on 
+Strumpf’s checking account was a 
+violation of the automatic stay. Citizens 
+Bank argues, 
+however, 
+that both Reynolds 
+and Norton, 
+are distinguishable from the 
+case at bar. 
+First, 
+in those cases the 
+Courts held that the United States, 
+as a 
+creditor, 
+was not entitled to setoff 
+income tax deficiencies which were 
+scheduled to be paid in the debtors’ 
+confirmed Chapter 13 reorganization 
+f 
+plans. 
+In the case at bar, no provision 
+was made in Strumpf’s Chapter 13 plan to 
+pay Citizens Bank’s claim as a secured 
+creditor. 
+As such, the reorganization 
+=96- 
+plan did not provide “adequate 
+protection" 
+for the Bank’s security 
+interest. 
+More importantly, 
+in both Reynolds 
+and Norton, 
+the United States intended 
+to 
+hold the frozen funds until the Chapter 
+13 cases were closed. 
+As such, 
+the Courts 
+viewed the retention of funds by the IRS 
+as the equivalent of a setoff. 
+In the 
+case at bar, by contrast, 
+the 
+administrative hold was merely designed 
+to hold the funds until the Bankruptcy 
+Court ruled on the disposition of the 
+funds. 
+Had Citizens Bank sought to retain 
+the funds without court approval until 
+the entire Bankruptcy proceeding was 
+closed, 
+it would appear that the Bank was 
+using the funds as a setoff, 
+in violation 
+of the automatic stay. However, Citizens 
+Bank, upon finding itself in the banker’s 
+=29 = 
+
+
+[PDF PAGE 16]
+dilemma, 
+acted reasonably by simply 
+freezing the checking account funds only 
+until the Bankruptcy Court ruled on its 
+Motion 
+for Relief from Automatic Stay and 
+for Setoff.? 
+Further, 
+it is noteworthy that in 
+the case of Craddock-Terry Shoe Corp. 
+v. 
+Crestar Bank, 
+91 B.R. 
+392 (Bankr. W.D. 
+Va. 
+1988), 
+a case from the same district 
+as Reynolds, 
+the Court held, relying on 
+* The Court in Reynolds addresses the 
+concern that by unilaterally freezing funds, 
+"the 
+funds would become unavailable for distribution 
+to other creditors 
+or for use by the debtor in a 
+Chapter 13 plan, thus making it much less likely 
+that the debtor could be rehabilitated." Id. at 
+1007. 
+The Court notes that this problem would 
+occur if the bank were using the money in the 
+account for setoff without the authority of the 
+Bankruptcy Court. 
+In the case at bar, however, 
+the Bank was merely awaiting instructions from 
+the Bankrutpcy Court, and obviously needed to 
+freeze the funds such that the ultimate ruling of 
+the Bankruptcy Court on the Bank’s Motion could 
+be carried out. As soon as the Bankruptcy Court 
+ruled on the Bank’s Motion, 
+the Bank could have 
+either lifted the freeze or exercised its setoff 
+rights, 
+as directed by the Bankruptcy Court. 
+-28- 
+Kenney’s Franchise Corp. 
+v. Cent. 
+Fidelity Bank, 
+22 B.R. 
+747 
+(W.D. Va. 
+1982), 
+that a bank’s action 
+in placing an 
+administrative freeze on a debtor’s 
+account pending the resolution of its 
+right of setoff was not a violation of 
+the automatic stay. 
+Citizens Bank argues that it was 
+relying on the substantial body of 
+caselaw supporting its right to place an 
+administrative hold on Strumpf’s checking 
+account pending the Bankruptcy Court’s 
+resolution of the Motion for Relief from 
+Automatic Stay and for Setoff. 
+In ruling 
+that the administrative hold violated the 
+automatic stay, 
+the Bankruptcy Court 
+effectively extinguished the Bank’s right 
+to setoff because, 
+by the time the Motion 
+for Relief from Automatic Stay-and for 
+Setoff was ruled upon, 
+the Bank ro longer 
+~29. 
+
+
+[PDF PAGE 17]
+possessed any of Strumpf’s money. 
+Citizens Bank asserts that the Bankruptcy 
+Court’s ruling effectively rendered the 
+common 
+law right of setoff unenforceable. 
+The Bankruptcy Court ruled on the 
+Contempt Motion prior to ruling on the 
+Motion 
+for Relief 
+from Automatic Stay and 
+for Setoff. 
+The ironic result for 
+Citizens Bank was that it was held in 
+Contempt, 
+was later granted its Motion 
+for Relief 
+from Automatic Stay and for 
+Setoff, 
+but could not exercise its right 
+to setoff because 
+(as predicted by 
+Citizens Bank) Strumpf had removed the 
+money from the checking account. 
+This 
+series of events rendered the Bankruptcy 
+Court’s ultimate granting of Citizens 
+Bank’s Motion meaningless. 
+The Court finds that the placing of 
+an administrative hold on an account 
+ss 
+pending the Bankruptcy Court’s ruling on 
+the Bank’s Motion for Relief from 
+Automatic Stay and for Setoff does not 
+equate to a setoff 
+as a matter of law. 
+In 
+fact, permitting the Bank to freeze the 
+funds until such time as the Court rules 
+on the Bank’s Motion for Relief 
+from 
+Automatic Stay and for Setoff 
+is the only 
+sensible procedural approach under these 
+circumstances. 
+Il. 
+\ 
+Given the existing law supporting 
+the Bank’s right to freeze the account, 
+and given the "catch-22" nature of the 
+circumstances 
+for the Bank in this case, 
+it would be patently unfair to uphold the 
+Bankruptcy Court’s finding of contempt. 
+Citizens Bank has noted that the issue of 
+whether a bank may impose an 
+administrative hold on a debtor’s 
+~~ 
+
+
+[PDF PAGE 18]
+checking account has not been addressed 
+by this Court 
+in a published decision, 
+and that any ambiguity in the law should 
+be resolved 
+in favor of the party charged 
+with contempt. 
+Int’l Brotherhood of 
+Teamsters, 
+etc. 
+v. 
+W. 
+Pa. Motor Carriers 
+Ass'n, 
+660 F.2d 76, 82 (3rd Cir. 
+1981). 
+In any event, 
+the Court agrees with 
+Citizens Bank’s interpretation of the 
+applicable law, and as such, 
+the 
+Bankruptcy Court’s finding of contempt 
+cannot be upheld. Accordingly, 
+the 
+Bankruptcy Court’s finding of contempt 
+and assessment of attorney’s fees, 
+punitive damages, 
+and nominal damages 
+against Citizens Bank under 
+11 U.S.C. 
+§ 
+362(h) must be reversed. 
+It will be so 
+ordered. 
+3/27/92 Date 
+John R. Hargrove 
+United States District Judge 
+o32< 
+ORDER 
+In accordance with the foregoing 
+Memorandum Opinion, 
+IT IS, this 27th day 
+of March, 
+1992, by the United States 
+District Court for the District of 
+Maryland, hereby ORDERED: 
+1. That the November 20, 1991 Order 
+of the Bankruptcy Court for the District 
+of Maryland, 
+finding Appellant in 
+Contempt for a violation of the automatic 
+stay of 11 U.S.C. 
+§ 362(a), 
+and awarding 
+sanctions under 
+11 U.S.C. 
+§ 362(h), 
+BE 
+and the same hereby IS REVERSED. 
+2. That the Clerk of the Court CLOSE 
+this case; 
+3. That the Clerk of the Court mail 
+copies of this Order and the accompanying 
+Memorandum Opinion to the Honorable Paul 
+Mannes and all parties of record. 
+John R. Hargrove 
+United States District Judge 
+-33- 
+
+
+[PDF PAGE 19]
+APPENDIX C 
+having considered the memoranda of the 
+UNITED STATES BANKRUPTCY COURT 
+parties and the arguments in open court, 
+r 
+. 
+. 
+* 
+. 
+ee i Rockola 
+asus 
+and the court having stated its findings 
+IN RE: 
+of facts and conclusions 
+of law on the 
+DAVID STRUMPF 
+record at the conclusion of the hearing, 
+Debtor 
+and the court finding that the action of 
+DAVID STRUMPF BE 
+ee eine 
+the said respondent in placing an 
+Movant 
+administrative hold on the checking 
+vs 
+account of the debtor was 
+a violation of 
+CITIZENS BANK OF MARYLAND 
+the automatic stay of 11 U.S.C. 
+§ 362(a), 
+Respondent 
+thereby entitling debtor to damages under 
+11 U.S.C. 
+§ 362(h), 
+it is, this 
+20 day of 
+Case No. 
+91-4-0389-PM 
+Chapter 13 
+November, 
+1991, by the United States 
+: 
+: 
+f 
+ORDER FINDING RESPONDENT IN CONTEMPT 
+Bankruptcy Court for the District o 
+AND _AWARDI 
+TION 
+Maryland, 
+This matter is before the court upon 
+ORDERED That the debtor is allowed 
+the motion of the debtor to hold Citizens 
+counsel 
+fees for the prosecution of the 
+aS Of TERPIE: 
+£8: Cee, See 
+contempt action in the sum of $500.00; 
+response 
+o 
+iti 
+e 
+p 
+f Citizens Bank, respondent, 
+and it is further 
+and after a hearing thereon and the court 
+-34- 
+= 
+
+
+[PDF PAGE 20]
+ORDERED That the debtor is allowed 
+punitive damages in the sum of $375.00 
+against the respondent; 
+and it is further 
+ORDERED That debtor is allowed 
+nominal damages in the sum of $25.00; and 
+it is further 
+ORDERED That payment of all the 
+foregoing is to be made by respondent to 
+the debtor, 
+in care of his counsel cf 
+record, 
+on or before the llth day of 
+December, 
+1991. 
+/s/ Paul Mannes 
+Chief Judge, United Siates 
+Bankruptcy Court for the 
+District of Maryland 
+ENTERED: 
+November 21, 1991 
+cc: 
+John R. Owen, 
+Jr. 
+C. Edward Hartman 
+III 
+David Strumpf 
+Thomas Lackey 
+a. 
+APPENDIX D 
+UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+FILED 
+November 8, 1994 
+No. 
+92-1519 
+BK-91-4038 
+CA-91-3692-HAR 
+In Re: 
+DAVID STRUMPF 
+Debtor 
+CITIZENS BANK OF MARYLAND 
+Plaintiff 
+- Appellee 
+Vv. 
+DAVID STRUMPF 
+Defendant 
+- Appellant 
+FIRST NATIONAL BANK OF MARYLAND; 
+NATIONSBANK OF NORTH CAROLINA, 
+N.A.; 
+NAT IONSBANK 
+Amici Curiae 
+On Petition for Rehearing With Suggesticn 
+for Rehearing 
+In Banc 
+The appellee’s petition for 
+rehearing and suggestion for rehearing in 
+alte 
+
+
+[PDF PAGE 21]
+banc were submitted 
+to this Court. 
+As no 
+member of this Court or the panel 
+requested 
+a poll on the suggestion 
+for 
+rehearing 
+in banc, and 
+As the panel considered the petition 
+for rehearing and is of the opinion that 
+it should be denied, 
+IT IS ORDERED that the petition for 
+rehearing and suggestion for rehearing in 
+banc are denied. 
+For 
+-:e Court, 
+/s/ Bert M. Montague 
+CLERK 
+-38- 
+APPENDIX E 
+11 U.S.C. 
+§ 362 
+§ 362. 
+Automatic stay 
+(a) 
+Except as provided in subsection 
+(b) of this section, 
+a petition filed 
+under section 301, 
+302, or 303 of this 
+title, 
+or an application filed under 
+section 5(a)(3) 
+of the Securities 
+Investor Protection Act of 1970 
+(15 
+U.S.C. 
+78eee(a)(3)), 
+Operates as a stay, 
+applicable to all entities, 
+of -- 
+(1) 
+the commencement or 
+continuation, 
+including the issuance or 
+employment of process, 
+of a judicial, 
+administrative, 
+or other action or 
+proceeding against the debtor that was or 
+could have been commenced before the 
+commencement of the case under this 
+title, 
+or to recover a claim against the 
+-39- 
+
+
+[PDF PAGE 22]
+debtor that arose before the commencement 
+of the case under this title; 
+(2) 
+the enforcement, 
+against the 
+debtor or against property of the estate, 
+of a judgment obtained before the 
+commencement of the case under this 
+title; 
+(3) 
+any act to obtain possession of 
+property of the estate or of property 
+from the estate or to exercise control 
+over property of the estate; 
+(4) 
+any act to create, 
+perfect, 
+or 
+enforce any lien against property of the 
+estate; 
+(5) 
+any act to create, 
+perfect, 
+or 
+enforce against property of the debtor 
+any lien to the extent that such lien 
+secures 
+a claim that arose before the 
+commencement of the case under this 
+title; 
+-40- 
+(6) 
+any act to collect, assess, 
+or 
+recover 
+a claim against the debtor that 
+arose before the commencement cf the cese 
+under this title; 
+(7) 
+the setoff of any debt owing to 
+the debtor that arose before the 
+commencement of the case under this titie 
+against any claim against the debtor; 
+éend 
+(8) 
+the commencement or 
+continuation of a proceeding Lefore 
+the 
+United States Tax Court concerning the 
+debtor. 
++ 
+SoS 
+2 
+ee 
+(e) 
+Thirty days after a request under 
+subsection 
+(d) of this section for relief 
+from the stay of any act against property 
+of the estate under subsection 
+(a) of 
+this section, 
+such stay is terminated 
+with respect to the party in interest 
+making such request, 
+unless the court, 
+itn 
+
+
+[PDF PAGE 23]
+after notice and a hearing, orders such 
+stay continued in effect pending the 
+conclusion of, or as a result of, a final 
+hearing and determination under 
+subsection 
+(d) of this section. 
+A 
+hearing under this subsection may be a 
+preliminary hearing, 
+or may be 
+consolidated with the final hearing under 
+subsection 
+(d) of this section. 
+The 
+court shall order such stay continued 
+in 
+effect pending the conclusion of the 
+final hearing under subsection 
+(d) of 
+this section 
+if there is a reasonable 
+likelihood that the party opposing relief 
+from such stay will prevail at the 
+conclusion of such final hearing. 
+If the 
+hearing under this subsection 
+is a 
+preliminary hearing, 
+then such final 
+hearing shall be commenced not later than 
+=42e 
+thirty days after the conclusion of such 
+preliminary hearing. 
+ote 
+
+
+[PDF PAGE 24]
+11 U.S.C. 
+§ 363 
+§ 363. 
+Use, sale, or lease of property 
+(a) 
+In this section, 
+"cash collateral" 
+means 
+cash, negotiable instruments, 
+documents 
+of title, 
+securities, deposit 
+accounts, 
+or other cash equivalents 
+whenever acquired in which the estate and 
+an entity other than the estate have an 
+interest and includes 
+the proceeds, 
+products, 
+offspring, 
+rents, 
+or profits of 
+property subject to a security interest 
+as provided 
+in section 552(b) of this 
+title, whether existing before or after 
+the commencement 
+of a case under this 
+title. 
+-44- 
+11 U.S.C. 
+§ 506 
+§ 506. 
+Determination of secured status 
+(a) 
+An allowed claim of a creditor 
+secured by a lien on property in which 
+the estate has an interest, 
+or that 
+is 
+subject to setoff under section 553 of 
+this title, 
+is a secured claim to the 
+extent of the value of such creditor’s 
+interest in the estate’s interest 
+in such 
+property, 
+or to the extent of the amount 
+subject to setoff, 
+as the case may be, 
+and is an unsecured claim to the extent 
+that the value of such creditor’s 
+interest or the amount 
+so subject to 
+setoff 
+is less than the amount of such 
+allowed claim. 
+Such value shall be 
+determined in light of the purpose of the 
+valuation and of the proposed disposition 
+or use of such property, and in 
+conjunction with any hearing on such 
+-45- 
+
+
+[PDF PAGE 25]
+disposition or use or on a plan affecting 
+11 U.S.C. 
+§ 542 
+such creditor’s interest. 
+§ 542. Turnover of property to the estate 
+sek kee 
+OR 
+OR 
+(b) 
+Except as provided in subsection 
+(c) or 
+(d) of this section, 
+an entity 
+that owes a debt that is pxoperty of the 
+estate and that is matured, payable on 
+demand, 
+or payable on order, 
+shall pay 
+such debt to, or on the order of, the 
+trustee, except to the extent that such 
+debt may be offset under section 553 of 
+this title against a claim against the 
+debtor. 
+-46- 
+alfDin 
+
+
+[PDF PAGE 26]
+11 U.S.C. 
+§ 553 
+§ 553. 
+Setoff 
+(a) 
+Except as otherwise provided in 
+this section and in sections 
+362 and 363 
+of this title, 
+this title does not affect 
+any right of a creditor to offset 
+a 
+mutual debt owing by such creditor to the 
+debtor that arose before the commencement 
+of the case under this title against a 
+claim of such creditor against the debtor 
+that arose before the commencement of the 
+case, except to the extent that 
+-- 
+(1) 
+the claim of such creditor 
+against the debtor is disallowed other 
+than under section 502(b)(3) 
+of this 
+title; 
+(2) 
+such claim was transferred, 
+by 
+an entity other than the debtor, 
+to such 
+creditor-- 
+-48- 
+(A) 
+after the commencement of 
+the case; 
+or 
+(B)(i) after 90 days before the 
+date of the filing of the petition; and 
+(ii) 
+while the debtor was 
+insolvent; 
+or 
+(3) 
+the debt owed to the debtor by 
+such creditor was incurred by such 
+creditor-- 
+(A) 
+after 90 days before the 
+date of the filing of the petition; 
+| 
+(B) 
+while the debtor was 
+insolvent; and 
+(C) 
+for the purpose of 
+obtaining a right of setoff against the 
+debtor. 
+(b)(1) 
+Except with respect to a setoff 
+of a kind described in section 362(b)(6), 
+362(b)(7), 362(b)(14),,° 365(h) (2), or 
+‘So in original. 
+-49- 
+
+
+[PDF PAGE 27]
+365(i)(2) 
+of this title, 
+if a creditor 
+offsets 
+a mutual debt owing to the debtor 
+against a claim against the debtor on or 
+within 
+90 days before the date of the 
+filing of the petition, 
+then the trustee 
+may recover from such creditor the amount 
+so offset to the extent that any 
+insufficiency on the date of such setoff 
+is less than the insufficiency on the 
+later of-- 
+(A) 
+90 days before the date of 
+the filing of the petition; 
+and 
+(B) 
+the first date during the 
+90 days immediately preceding the date of 
+the filing of the petition on which there 
+is an insufficiency. 
+(2) 
+In this subsection, 
+"insufficiency" means amount, 
+if any, by 
+which a claim against the debtor exceeds 
+-50- 
+a mutual debt owing to the debtor by the 
+holder of such claim. 
+(c) 
+For the purposes of this section, 
+the debtor is presumed to have been 
+insolvent on and during the 90 days 
+immediately preceding the date of the 
+filing of the petition. 
+-5l- 
+
+
+[PDF PAGE 28]
+Respectfully submitted, 
+James 
+R. Eyler 
+(Counsel of Record) 
+Jefferson V. Wright 
+Irving E. Walker 
+Thomas D. Renda 
+Miles & Stockbridge, 
+P.C. 
+10 Light Street 
+Baltimore, 
+MD 21202 
+(410) 727-6464 
+C. Edward Hartman 
+Matthew A. Egeli 
+Hartman & Parrott 
+116 Defense Highway 
+Suite 300 
+Annapolis, MD 21401 
+(410) 266- 3232 
+Attorneys 
+for Petitioner 
+aiife 
