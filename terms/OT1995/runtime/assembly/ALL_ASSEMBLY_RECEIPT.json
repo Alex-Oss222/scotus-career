@@ -1,0 +1,38 @@
+{
+  "record": "American_Life_League_v_Reno_merits_1995-11-13.md",
+  "record_sha256": "75530534033b5650da9f9bee09a13f555d720ee740a774f9981490c1d48b4cf3",
+  "record_bytes": 99297,
+  "input_sha256": {
+    "freeze/OT_1995CHUNK1_ALL_TEXT_NEUTRAL_SUPPLEMENT.md": "adab7fb54ef8b459020c55a4910b7ebcc94f3e46d4ab304b4a64e64b38d9cfd3",
+    "freeze/OT_1995CHUNK1_ALL_TEXT_REFRESH_COMMITMENTS.md": "5ee5b09e4956b686b49b25d4229944e453dab639658bc1a5aa9c21cb1f48e3d6",
+    "freeze/OT_1995CHUNK1_ALL_TEXT_RECONCILED.md": "648a1c4e8cfbe1add1db2f6dd750676431d951f7771738783e40f760ac7371eb",
+    "freeze/ALL_TEXT_RECONCILIATION_RECEIPT.json": "c02e29eeec03922961b2887f6edb39382a2f4321bc54ca95b5c3867553838f1f",
+    "freeze/ALL_TEXT_REFRESH_CONTEXT_CLARIFICATION.md": "7100835654c125d93f8efefb01d85b3b84f59ce5496356e7b3ef90d7d6429df7",
+    "freeze/OT_1995CHUNK1_B_RECONCILED.md": "24bd1b1a734fa45fae83940d8bb236cf70fdae631e7f3973d27c4e4ae704e751",
+    "freeze/OT_1995CHUNK1_B_NEUTRAL_VALIDATED.md": "2f173678051eb2a660898dddef02c1867d7322694d049ae48f76a3b2d65507a3",
+    "freeze/OT_1995CHUNK1_B_STONE_INPUT.md": "01f94be7befadc3baff4b8fa1cada55f4f03c7bcf5d37282d46f0d91f936adfa",
+    "freeze/OT1994_ASSIGNMENT_REVIEW.md": "60a8d398e217de31334b2e3d6052347df3b580ea3a64d1f114eaff8e8d928063",
+    "entering-law/OT_1995CHUNK1_B.md": "ed138b412bdd91af45417c8c7f886ad00f3f3a8dd73cb9017cba551e581cb9ee",
+    "entering-law/OT_1995CHUNK1_B_SUPPLEMENT.md": "bc073bfd6bb7f10a28848f2e778e28b870fafbe3d293841a0f76f5561a96f1aa",
+    "sources/B_AMERICAN_LIFE_LEAGUE_OBJECTIVE_SOURCE_ADDENDUM.md": "ce25079f979c1b50370f2f8ee3decf44892ab25f3a2b9be1debd484bb9f79da3",
+    "sources/preflight_b/B_FACE_1994.txt": "b235e3651e7c4252deac0f2ac6a6c643bb50ef88588c22f2ca7054377e4fffa7",
+    "entering-law/PUBLIC_Wood_v_Bartholomew_summary_merits_1995-10-10.md": "dcc2c0168c64036cef4c6f74c06b1007d654466253f36b1007db2ad7e923e159",
+    "entering-law/PUBLIC_Doe_v_Taylor_ISD_merits_1995-10-16.md": "da8e3c206a77b55bc0185d2d3aa2b3a8e6e861f425e2ed35fce17e4f7283283b",
+    "entering-law/PUBLIC_Hodge_v_Jones_merits_1995-10-23.md": "f5b1d031c53721626eff9324b1ea8fa800d7a93345097bd781b09e2116b382c9"
+  },
+  "explanation_word_counts": {
+    "Congress may protect this medical-services market": 160,
+    "The defined access restrictions survive the facial speech challenge": 201,
+    "The presented substantial-overbreadth challenge fails": 114,
+    "The defined conduct is not facially vague": 98,
+    "Elected statutory damages are not categorically barred by the First Amendment": 134,
+    "A damages defendant must be responsible for the violation": 71,
+    "The presented facial religious-targeting claim fails": 133,
+    "The broader constitutional exemption is rejected on the pleaded frame": 95,
+    "RFRA requires further adjudication of the prospective-enforcement claim": 243
+  },
+  "checks": "Eleven blocks, exact Holdings identity, component arithmetic, controlling joins, eight Associate rows, explanation ceilings, input preservation, public workflow exclusion passed.",
+  "public_draft_sha256": "3f0f73ea158e6a7fb03e70728706a3ac8fa0474a04d04efcf388680b6253419c",
+  "restarted_from": "Corrected neutral, independent refresh and ALL-only reconciliation frozen before this authorized restart; original freezes unchanged.",
+  "pending": "Root actual B effective-law/assignment refresh and final preservation review; no output render created."
+}

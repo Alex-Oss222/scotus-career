@@ -1,0 +1,110 @@
+{
+  "record": "Field_v_Mans_merits_1995-11-28.md",
+  "record_filename": "Field_v_Mans_merits_1995-11-28.md",
+  "case": "Field v. Mans",
+  "date": "1995-11-28",
+  "disposition": "Vacate the First Circuit judgment and remand, 7–2; actual and justifiable reliance required, with debt nexus and application reserved.",
+  "disposition_summary": "Vacate the First Circuit judgment and remand, 7–2; actual and justifiable reliance required, with debt nexus and application reserved.",
+  "participants": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "judgments": [
+    {
+      "component": "Submitted merits judgment",
+      "disposition": "Vacate the First Circuit judgment and remand, 7–2; actual and justifiable reliance required, with debt nexus and application reserved.",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "oppose": [
+        "Scalia",
+        "Breyer"
+      ],
+      "other": [],
+      "other_positions": [
+        {
+          "justices": [
+            "Scalia",
+            "Breyer"
+          ],
+          "position": "Accept Part I reliance rule but affirm on record-specific application"
+        }
+      ],
+      "printed_tally": "7–2"
+    }
+  ],
+  "writings": [
+    {
+      "author": "Souter",
+      "joiners": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "scope": "Part I, actual and justifiable reliance",
+      "controlling": true
+    },
+    {
+      "author": "Souter",
+      "joiners": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "scope": "Part II, application and vacatur/remand",
+      "controlling": true
+    },
+    {
+      "author": "Breyer",
+      "joiners": [
+        "Scalia"
+      ],
+      "scope": "Dissent from Part II and judgment; joins Part I",
+      "controlling": false
+    }
+  ],
+  "blockers": [],
+  "law_summary": "For the actual-fraud claim presented under §523(a)(2)(A), creditors must prove actual and justifiable reliance under the recipient-specific standard, not universal objective prudence. The ordinary proof burden and obtained-by limitation remain. Subsection(A) excludes statements respecting the debtor's or an insider's financial condition; subsection(B) separately requires a materially false written statement of that kind, reasonable creditor reliance, and the debtor's causing it to be made or published with intent to deceive. Existing findings must be assessed under the correct rule; the Court does not declare the entire debt nondischargeable.",
+  "published_positions": [
+    "Breyer, joined by Scalia, accepts actual and justifiable reliance but would affirm because the lower judge's recipient-specific consideration of discovered warnings adequately applies that standard despite broader labels. They make no contrary actual-reliance finding, universal investigation duty or debt-nexus ruling."
+  ],
+  "next_stage": "Remand through the First Circuit to the bankruptcy court for correct-standard application and any needed findings, preserving independent statutory and ordinary procedural requirements; no further Supreme Court event is set.",
+  "assignment": {
+    "assigner": "Stone-Zsela",
+    "author": "Souter",
+    "basis": "Chief participates in judgment majority; case-specific fit",
+    "count_pending_root": false,
+    "chief_assignment": true,
+    "current_prior_chief_counts": {
+      "O'Connor": 3,
+      "Ginsburg": 1,
+      "Scalia": 1,
+      "Souter": 1,
+      "Kennedy": 1,
+      "Stone-Zsela": 1
+    }
+  },
+  "status": "durably preserved; operator Git commitment pending",
+  "final_root_refresh_reference": "freeze/C_FINAL_B_ACTUAL_LAW_REFRESH.md, freeze/C_NOV20_ACTUAL_LAW_REFRESH.md"
+}

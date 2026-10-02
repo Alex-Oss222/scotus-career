@@ -1,0 +1,29 @@
+{
+  "status": "PASS; no changed Field, Town or Thompson Associate grounds, joins or remedies",
+  "copies": [
+    {
+      "path": "terms/OT1995/entering-law/PUBLIC_A_St_P_C_v_B_C_merits_1995-11-20.md",
+      "bytes": 9230,
+      "sha256": "de9ec4158d58fe51bb2d796d2944cce7d5e4ccf12d9025dead30b8a6510ce68a",
+      "public_body_bytes": 8968,
+      "public_body_sha256": "8e109e0356e307b63b9b9cadd636f8b1f2e2a99a745bd771d0d07c5aae154184",
+      "normalized_public_body_sha256": "716af316dbc6e9b169f3c9dd0a7976e7544700a4a0a375d38ec227e471ecfada",
+      "matches_audited_bytes_after_exterior_blank_line_removal": true
+    }
+  ],
+  "audited_draft": {
+    "path": "terms/OT1995/runtime/assembly/PUBLIC_DRAFT_A_St_P_C_v_B_C_merits_1995-11-20.md",
+    "bytes": 8972,
+    "sha256": "d6b0f53bdd509210344fc9c862b7052bc538f61706ac37d8ecaabb5f9ab560b7"
+  },
+  "comparison": "Remove bounded-copy header before first ## Event; trim only exterior CR/LF bytes from actual body and draft. Internal bytes unchanged.",
+  "reading": "Full actual November20 public copy read. No raw Record, private Stone input or assembly script. Public-position exposure is disclosed; total Stone blindness is not claimed.",
+  "cumulative_receipts": [
+    "A_ACTUAL_ENTERING_LAW_REFRESH_RECEIPT.md",
+    "OCT31_ACTUAL_ENTERING_LAW_REFRESH_RECEIPT.md",
+    "NOV07_ACTUAL_ENTERING_LAW_REFRESH_RECEIPT.md",
+    "C_FINAL_B_ACTUAL_LAW_REFRESH.md"
+  ],
+  "chronology": "Actual November20 law assessed for Field and Town on their common November28 baseline and Thompson on November29; subsequent actual November28 refresh remains separate.",
+  "open_blockers": []
+}

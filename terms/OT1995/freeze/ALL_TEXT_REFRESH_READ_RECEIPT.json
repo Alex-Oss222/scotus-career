@@ -1,0 +1,28 @@
+{
+  "cutoff": "1995-11-13",
+  "source": "Public Law 103-259, 108 Stat.694-697, official govinfo four-page PDF",
+  "official_url": "https://www.govinfo.gov/content/pkg/STATUTE-108/pdf/STATUTE-108-Pg694.pdf",
+  "official_pdf_sha256": "e502ccb4fb76eb4f1918d2e42fefc2d3d3ede1df6620085fee2fca210912f4c5",
+  "fresh_download_identical_to_supplied_pdf": true,
+  "reading_extent": "Complete four-page local extracted text and complete 175-line official PDF text; no complete visual screenshot certification. Original ALL commitments and prior public Clearwater, Swanner and Lukumi entries read in full. Engine section7 reread.",
+  "context": "Disclosed same-context neutral validation and independent refresh fallback; no current ALL historical reconciliation/comparator, current Stone material, or ALL public draft read.",
+  "original_B3_sha256_unchanged": "dfb39f9c640e99ea0c234fab2e0720801794899a433de3b21679b0f0a3ae6859",
+  "artifacts": [
+    {
+      "path": "terms/OT1995/freeze/OT_1995CHUNK1_ALL_TEXT_NEUTRAL_SUPPLEMENT.md",
+      "runtime": "terms/OT1995/runtime/OT_1995CHUNK1_ALL_TEXT_NEUTRAL_SUPPLEMENT.md",
+      "bytes": 7385,
+      "sha256": "adab7fb54ef8b459020c55a4910b7ebcc94f3e46d4ab304b4a64e64b38d9cfd3",
+      "runtime_identical": true
+    },
+    {
+      "path": "terms/OT1995/freeze/OT_1995CHUNK1_ALL_TEXT_REFRESH_COMMITMENTS.md",
+      "runtime": "terms/OT1995/runtime/OT_1995CHUNK1_ALL_TEXT_REFRESH_COMMITMENTS.md",
+      "bytes": 23001,
+      "sha256": "5ee5b09e4956b686b49b25d4229944e453dab639658bc1a5aa9c21cb1f48e3d6",
+      "runtime_identical": true
+    }
+  ],
+  "independent_result": "All original eight-Associate A1-A6 dispositions and sufficient grounds retained after explicit complete civil-remedy-exception and facility-definition reconsideration; no assembly or historical reconciliation certified.",
+  "next_gate": "ALL-only authorized historical reconciliation required before assembly restart"
+}

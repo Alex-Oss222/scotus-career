@@ -1,0 +1,96 @@
+{
+  "status": "PASS",
+  "scope": "ALL bounded public Associate compatibility/completeness; no private Stone fidelity or assignment audit",
+  "drafts": [
+    {
+      "path": "terms/OT1995/runtime/assembly/PUBLIC_DRAFT_American_Life_League_v_Reno_merits_1995-11-13.md",
+      "bytes": 37078,
+      "sha256": "e16aefd87fe8c438d0f45a4f3bb4ea621de87540446b685c9bd0eb6b7af872e2",
+      "eleven_blocks_exact": true,
+      "controlling_explanations": [
+        {
+          "heading": "Congress may protect this medical-services market",
+          "whitespace_words": 160,
+          "lexical_words": 169,
+          "under_350_both_methods": true
+        },
+        {
+          "heading": "The defined access restrictions survive the facial speech challenge",
+          "whitespace_words": 201,
+          "lexical_words": 204,
+          "under_350_both_methods": true
+        },
+        {
+          "heading": "The presented substantial-overbreadth challenge fails",
+          "whitespace_words": 114,
+          "lexical_words": 120,
+          "under_350_both_methods": true
+        },
+        {
+          "heading": "The defined conduct is not facially vague",
+          "whitespace_words": 98,
+          "lexical_words": 102,
+          "under_350_both_methods": true
+        },
+        {
+          "heading": "Elected statutory damages are not categorically barred by the First Amendment",
+          "whitespace_words": 134,
+          "lexical_words": 134,
+          "under_350_both_methods": true
+        },
+        {
+          "heading": "A damages defendant must be responsible for the violation",
+          "whitespace_words": 71,
+          "lexical_words": 74,
+          "under_350_both_methods": true
+        },
+        {
+          "heading": "The presented facial religious-targeting claim fails",
+          "whitespace_words": 133,
+          "lexical_words": 137,
+          "under_350_both_methods": true
+        },
+        {
+          "heading": "The broader constitutional exemption is rejected on the pleaded frame",
+          "whitespace_words": 95,
+          "lexical_words": 98,
+          "under_350_both_methods": true
+        },
+        {
+          "heading": "RFRA requires further adjudication of the prospective-enforcement claim",
+          "whitespace_words": 243,
+          "lexical_words": 252,
+          "under_350_both_methods": true
+        }
+      ],
+      "separate_writings": [
+        {
+          "writing": "O'Connor, joined by Souter, concurring in part.",
+          "whitespace_words": 89,
+          "lexical_words": 93,
+          "under_350_both_methods": true
+        },
+        {
+          "writing": "Stone-Zsela, joined by Stevens, Ginsburg and Breyer, dissenting in part.",
+          "whitespace_words": 312,
+          "lexical_words": 319,
+          "under_350_both_methods": true
+        }
+      ]
+    }
+  ],
+  "frozen_inputs_unchanged": {
+    "OT_1995CHUNK1_ALL_TEXT_NEUTRAL_SUPPLEMENT.md": "adab7fb54ef8b459020c55a4910b7ebcc94f3e46d4ab304b4a64e64b38d9cfd3",
+    "OT_1995CHUNK1_ALL_TEXT_REFRESH_COMMITMENTS.md": "5ee5b09e4956b686b49b25d4229944e453dab639658bc1a5aa9c21cb1f48e3d6",
+    "OT_1995CHUNK1_ALL_TEXT_RECONCILED.md": "648a1c4e8cfbe1add1db2f6dd750676431d951f7771738783e40f760ac7371eb",
+    "OT_1995CHUNK1_B3_COMMITMENTS.md": "dfb39f9c640e99ea0c234fab2e0720801794899a433de3b21679b0f0a3ae6859"
+  },
+  "effective_law_refreshes": [
+    "OCT31_ACTUAL_ENTERING_LAW_REFRESH_RECEIPT.md",
+    "NOV07_ACTUAL_ENTERING_LAW_REFRESH_RECEIPT.md"
+  ],
+  "edits_closed": [
+    "Section248(c)(1)(A) eligibility: involved in restored"
+  ],
+  "source_reading": "See ALL_PUBLIC_DRAFT_AUDIT.md"
+}

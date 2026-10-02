@@ -1,0 +1,26 @@
+{
+  "status": "independent C model frozen; historical reconciliation not performed",
+  "mode": "disclosed cross-context fallback",
+  "runtime": "terms\\OT1995\\runtime\\OT_1995CHUNK1_C_COMMITMENTS.md",
+  "freeze": "terms\\OT1995\\freeze\\OT_1995CHUNK1_C_COMMITMENTS.md",
+  "bytes": 41306,
+  "sha256": "78e3e0cc2ab6d43ab1feb19802416013036589177e64bcdeabd48882999eeb4b",
+  "justice_rows": {
+    "Stevens": 4,
+    "O'Connor": 4,
+    "Scalia": 4,
+    "Kennedy": 4,
+    "Souter": 4,
+    "Thomas": 4,
+    "Ginsburg": 4,
+    "Breyer": 4
+  },
+  "missing_local_links": [],
+  "inputs": {
+    "freeze/OT_1995CHUNK1_C_NEUTRAL_VALIDATED.md": "41aaff0a1ed3d92a053d29ff80e06f77a1c4fde362af0ef687b58db06b315063",
+    "sources/C_FACTUAL_ADDENDUM.md": "b79f9ac52612312caa40987ae821d91d1127c23549da7285773febdd42b0b6a3",
+    "sources/C_VALIDATOR_OBJECTIVE_SUPPLEMENT.md": "4522e5591a3190179fd1570349dd6d953620d07a766c28e04f848810945596e8",
+    "entering-law/OT_1995CHUNK1_C.md": "c2125776267f965ff541645db6748fa536a91a1cccb6eb233ebe3caf6d5b6f8a",
+    "workspace/neutral-projection.md": "6c44f41f944e4560d5ac903c24bac1e9d68db36710c80807f7cee6ea8eaf009d"
+  }
+}

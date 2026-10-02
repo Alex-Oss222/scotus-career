@@ -1,0 +1,86 @@
+{
+  "record": "Thompson_v_Keohane_merits_1995-11-29.md",
+  "record_filename": "Thompson_v_Keohane_merits_1995-11-29.md",
+  "case": "Thompson v. Keohane",
+  "date": "1995-11-29",
+  "disposition": "Vacate and remand for independent review of ultimate Miranda custody, 8–1, preserving statutory treatment of historical facts.",
+  "disposition_summary": "Vacate and remand for independent review of ultimate Miranda custody, 8–1, preserving statutory treatment of historical facts.",
+  "participants": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "judgments": [
+    {
+      "component": "Submitted merits judgment",
+      "disposition": "Vacate and remand for independent review of ultimate Miranda custody, 8–1, preserving statutory treatment of historical facts.",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [
+        "Thomas"
+      ],
+      "other": [],
+      "other_positions": [],
+      "printed_tally": "8–1"
+    }
+  ],
+  "writings": [
+    {
+      "author": "O'Connor",
+      "joiners": [
+        "Stone-Zsela",
+        "Stevens",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "scope": "Entire Opinion of the Court",
+      "controlling": true
+    },
+    {
+      "author": "Thomas",
+      "joiners": [],
+      "scope": "Dissent on statutory classification and judgment",
+      "controlling": false
+    }
+  ],
+  "blockers": [],
+  "law_summary": "Federal habeas courts independently decide whether the established interrogation circumstances amount to Miranda custody. Section 2254(d)'s factual presumption, all eight exceptions and its conditional convincing-evidence burden remain applicable to historical findings. Neither review classification nor remand establishes custody, a constitutional violation, harmlessness or a right to the writ.",
+  "published_positions": [
+    "Thomas would treat the concrete reasonable-person custody inference as presumptively factual under §2254(d) while reviewing the legal definition independently. He would affirm on classification, without a new no-custody, retroactivity or harmlessness determination."
+  ],
+  "next_stage": "Remand to the Ninth Circuit for independent ultimate custody review and such further proper habeas proceedings as are necessary; no immediate release or further Supreme Court event is set.",
+  "assignment": {
+    "assigner": "Stone-Zsela",
+    "author": "O'Connor",
+    "basis": "Chief participates in judgment majority; case-specific fit",
+    "count_pending_root": false,
+    "chief_assignment": true,
+    "current_prior_chief_counts": {
+      "O'Connor": 3,
+      "Ginsburg": 2,
+      "Scalia": 1,
+      "Souter": 2,
+      "Kennedy": 1,
+      "Stone-Zsela": 1
+    }
+  },
+  "status": "durably preserved; operator Git commitment pending",
+  "final_root_refresh_reference": "freeze/C_FINAL_B_ACTUAL_LAW_REFRESH.md, freeze/C_NOV20_ACTUAL_LAW_REFRESH.md, freeze/C_NOV28_ACTUAL_LAW_REFRESH.md"
+}

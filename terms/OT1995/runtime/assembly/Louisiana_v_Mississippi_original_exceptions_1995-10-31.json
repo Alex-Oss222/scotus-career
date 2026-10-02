@@ -1,0 +1,139 @@
+{
+  "judgments": [
+    {
+      "component": "exceptions A-E",
+      "disposition": "overrule",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [],
+      "printed_tally": "9–0",
+      "other": []
+    },
+    {
+      "component": "new supplemental hearing",
+      "disposition": "deny",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [],
+      "printed_tally": "9–0",
+      "other": []
+    },
+    {
+      "component": "unexcepted private-title rejection",
+      "disposition": "leave undisturbed",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [],
+      "printed_tally": "9–0",
+      "other": []
+    },
+    {
+      "component": "later decree",
+      "disposition": "direct verified preparation; retain jurisdiction",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [],
+      "printed_tally": "9–0",
+      "other": []
+    }
+  ],
+  "writings": [
+    {
+      "author": "Souter",
+      "joiners": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "scope": "Part I",
+      "controlling": true
+    },
+    {
+      "author": "Souter",
+      "joiners": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "scope": "Part II; Stone-Zsela judgment only",
+      "controlling": true
+    }
+  ],
+  "law_summary": "The island exception preserves the established side of a continuing island despite a navigation-channel shift, while permitting ordinary movement of the active boundary channel until cessation fixes it. The report's continuity and former-channel determinations control this sovereign dispute. No universal island definition, prescription holding, private-title judgment against absent owners or numerical boundary decree is added. The precise implementing decree remains to be entered from a consistent description.",
+  "published_positions": [],
+  "next_stage": "Original jurisdiction is retained. A proposed decree must embody the report's verified former-channel boundary and resolve the inconsistent Point 3 latitude before entry. The Court issues no new supplemental-hearing order, private-title cancellation or cost allocation at this stage.",
+  "assignment": {
+    "assigner": "Stone-Zsela",
+    "author": "Souter",
+    "chief_assignment": true,
+    "current_prior_chief_counts": {
+      "O'Connor": 2,
+      "Ginsburg": 1
+    }
+  },
+  "later_event_blocker": "Authenticate Point3 latitude from cited survey or correction before precise implementing decree.",
+  "record_filename": "Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+  "case": "Louisiana v. Mississippi et al., No.121, Original",
+  "date": "1995-10-31",
+  "disposition_summary": "Exceptions overruled; report adopted at the stated scope; new hearing denied; verified decree directed; original jurisdiction retained, all 9–0 in judgment.",
+  "participants": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "blockers": [],
+  "record": "Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+  "disposition": "Exceptions overruled; report adopted at the stated scope; new hearing denied; verified decree directed; original jurisdiction retained, all 9–0 in judgment.",
+  "status": "durably preserved; operator Git commitment pending"
+}

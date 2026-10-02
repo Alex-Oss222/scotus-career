@@ -1,0 +1,9 @@
+# Town & Country — mandate-form clarification
+
+**Scope:** Stone-unexposed final compatibility clarification requested by the operator after the C reconciliation freeze. No new source, changed vote, new ground or opinion assignment. Original independent and reconciled bytes remain unchanged.
+
+All eight Associates — Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer — commit to setting aside the appellate categorical exclusion of paid union organizers from employee coverage and remanding the unresolved questions within the bounds stated in C_RECONCILED. No row requires the formal word **vacated** as a condition distinct from **reversed** where the latter reverses that threshold ruling and remands exactly the same unresolved matters. The record supplies no material legal or remedial difference, or Justice-specific objection, between those two forms in that bounded application.
+
+The historical reporter formally says **vacated and remanded**. Correcting the comparator's contrary historical label preserves source accuracy; it does not import that mandate label as a mandatory simulated vote condition. The independent rows' “reverse the categorical exclusion and remand” and the reconciliation's “vacate and remand” have the same supported operative commitment: reject the legal exclusion; leave other unfair-labor-practice defenses, actual conduct/individual coverage questions and remedial or compliance determinations open as stated. Neither form may be used to grant automatic backpay, decide misconduct, or resolve issues that were expressly reserved.
+
+Assembly may use either formal form if the Record specifies that same action and the preserved questions. It must not manufacture a judgment disagreement from the historical label alone. A materially different remedial consequence would require a new scoped compatibility check.

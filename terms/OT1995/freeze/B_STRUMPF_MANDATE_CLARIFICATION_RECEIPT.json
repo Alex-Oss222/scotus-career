@@ -1,0 +1,14 @@
+{
+  "clarification": {
+    "freeze": "terms/OT1995/freeze/OT_1995CHUNK1_B_STRUMPF_MANDATE_CLARIFICATION.md",
+    "runtime": "terms/OT1995/runtime/OT_1995CHUNK1_B_STRUMPF_MANDATE_CLARIFICATION.md",
+    "bytes": 5298,
+    "sha256": "6d0a74e4c836fa50392ad75f3b2a71d75776c2676e003d02829b202081f95a8b",
+    "identical": true
+  },
+  "source_read_scope": "Strumpf sections displayed in full only; other B reconciliation sections not displayed",
+  "source_hashes": {
+    "OT_1995CHUNK1_B_RECONCILED.md": "24bd1b1a734fa45fae83940d8bb236cf70fdae631e7f3973d27c4e4ae704e751",
+    "OT_1995CHUNK1_B3_COMMITMENTS.md": "dfb39f9c640e99ea0c234fab2e0720801794899a433de3b21679b0f0a3ae6859"
+  }
+}

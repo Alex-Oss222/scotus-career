@@ -1,0 +1,13 @@
+# November 20 actual-law refresh
+
+PASS. Read the complete preserved public copy of A. St. P. C. v. B. C. Actual-copy SHA-256: `de9ec4158d58fe51bb2d796d2944cce7d5e4ccf12d9025dead30b8a6510ce68a`. The audited draft retains SHA-256 `d6b0f53bdd509210344fc9c862b7052bc538f61706ac37d8ecaabb5f9ab560b7`. Removing the reading-copy wrapper and only exterior CR/LF blank lines produces identical public bytes; no internal text normalization or substantive edit is involved. Exact lengths and body hashes are in C_NOV20_ACTUAL_LAW_CHECKS.json.
+
+The effective rule requires clear and convincing proof of parental sexual abuse before section 9:364(D)'s complete-contact cutoff. Its specific deprivation, contradictory hearing, sexual-abuser treatment and supervised-contact conditions remain essential. The decision does not impose a universal civil proof burden, require heightened proof for every protective act, decide abuse, order contact, or disturb the independent state separation-of-powers ruling concerning therapist testimony.
+
+- **Field:** No change. The new parental-contact rule does not displace Grogan's preponderance standard, section 523(a)(2)'s separate fraud and financial-condition branches, individualized justifiable reliance, or the six/two Associate division over application and remedy. The actual-reliance/extension findings and unresolved obtained-by/extent questions retain their frozen scope.
+- **Town & Country:** No change. The decision supplies no new employee-status exclusion, agency deference rule or evidentiary burden under the NLRA. All eight Associates retain the permissible-inclusion ruling and bounded remand, with actual conduct and discrimination questions reserved.
+- **Thompson:** No change. A deprivation-specific proof requirement does not classify ultimate Miranda custody as historical fact or legal judgment, enlarge the pre-AEDPA section 2254(d) exceptions, or decide actual custody. The seven/one Associate division and bounded remedy remain unchanged.
+
+The earlier A, October 31, November 7 and final B actual-law receipts remain cumulative. Field and Town retain the same November 28 entering-law baseline; neither proposed same-day disposition supplies the other's premise. No frozen commitment, reconciliation or public draft is changed. No additional source or blocker remains for this refresh.
+
+Scope: public copy and authorized prior frozen materials only. Prior bounded public-draft reviews disclosed public Stone positions; this is not a claim of total blindness or a fresh isolated modeling context. No private Stone input, raw Record or assembly script was read.

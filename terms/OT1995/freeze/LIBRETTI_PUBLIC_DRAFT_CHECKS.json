@@ -1,0 +1,78 @@
+{
+  "status": "PASS",
+  "scope": "Libretti bounded public-draft Associate compatibility and completeness; no private Stone fidelity or assignment audit",
+  "drafts": [
+    {
+      "path": "terms/OT1995/runtime/assembly/PUBLIC_DRAFT_Libretti_v_United_States_merits_1995-11-07.md",
+      "bytes": 25129,
+      "sha256": "9f62e49523752e458e4d0fbeec63faafbf468ba644fc576bbc2496696531a439",
+      "eleven_blocks_exact": true,
+      "controlling_explanations": [
+        {
+          "heading": "Agreement permits waiver but cannot enlarge the forfeiture statute",
+          "whitespace_words": 265,
+          "lexical_words": 273,
+          "under_350_both_methods": true
+        },
+        {
+          "heading": "Former Rule 11(f) does not require a separate forfeiture factual-basis inquiry",
+          "whitespace_words": 152,
+          "lexical_words": 163,
+          "under_350_both_methods": true
+        },
+        {
+          "heading": "The particular forfeiture determination is not an offense-element jury question",
+          "whitespace_words": 145,
+          "lexical_words": 146,
+          "under_350_both_methods": true
+        },
+        {
+          "heading": "The affirmative agreement and courtroom assent waive the statutory special verdict",
+          "whitespace_words": 170,
+          "lexical_words": 171,
+          "under_350_both_methods": true
+        },
+        {
+          "heading": "This record does not require the demanded wholesale new factual-basis proceeding",
+          "whitespace_words": 291,
+          "lexical_words": 307,
+          "under_350_both_methods": true
+        }
+      ],
+      "separate_writings": [
+        {
+          "writing": "Stone-Zsela, concurring in the judgment and joining Part I-B.",
+          "whitespace_words": 223,
+          "lexical_words": 227,
+          "under_350_both_methods": true
+        },
+        {
+          "writing": "Souter, concurring in part and in the judgment.",
+          "whitespace_words": 127,
+          "lexical_words": 132,
+          "under_350_both_methods": true
+        },
+        {
+          "writing": "Ginsburg, concurring in part and in the judgment.",
+          "whitespace_words": 121,
+          "lexical_words": 125,
+          "under_350_both_methods": true
+        },
+        {
+          "writing": "Stevens, dissenting, while joining Parts I-A and I-B.",
+          "whitespace_words": 251,
+          "lexical_words": 262,
+          "under_350_both_methods": true
+        }
+      ]
+    }
+  ],
+  "source_reading": "See LIBRETTI_PUBLIC_DRAFT_AUDIT.md",
+  "frozen_inputs": {
+    "OT_1995CHUNK1_B_RECONCILED.md": "24bd1b1a734fa45fae83940d8bb236cf70fdae631e7f3973d27c4e4ae704e751",
+    "OT_1995CHUNK1_B3_COMMITMENTS.md": "dfb39f9c640e99ea0c234fab2e0720801794899a433de3b21679b0f0a3ae6859",
+    "OT_1995CHUNK1_LIBRETTI_NEUTRAL_SUPPLEMENT.md": "a9a22a6d141e75e488bbb89bb3b465f311f5ed8386b695130a3c50fe99db1c60",
+    "OT_1995CHUNK1_LIBRETTI_NOTICE_NEUTRAL_SUPPLEMENT.md": "5fed56e6d84e80c55fecb43e6fe765edf61b127af7040600e2f6563979357a53",
+    "OT_1995CHUNK1_LIBRETTI_NOTICE_REFRESH_COMMITMENTS.md": "b56d58f130a7450c2fc23a7999fa659945bb96c1c397830ac835214821b55cce"
+  }
+}

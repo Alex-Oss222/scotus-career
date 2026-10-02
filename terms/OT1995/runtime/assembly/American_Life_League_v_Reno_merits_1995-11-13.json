@@ -1,0 +1,180 @@
+{
+  "record": "American_Life_League_v_Reno_merits_1995-11-13.md",
+  "record_filename": "American_Life_League_v_Reno_merits_1995-11-13.md",
+  "case": "American Life League v. Reno",
+  "date": "1995-11-13",
+  "disposition": "Affirm constitutional and categorical damages dismissals, 9–0; vacate RFRA prospective-enforcement dismissal and remand, 5–4.",
+  "disposition_summary": "Affirm constitutional and categorical damages dismissals, 9–0; vacate RFRA prospective-enforcement dismissal and remand, 5–4.",
+  "participants": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "judgments": [
+    {
+      "component": "Facial constitutional challenges",
+      "disposition": "Affirm dismissal",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [],
+      "other": [],
+      "printed_tally": "9–0"
+    },
+    {
+      "component": "Categorical elected-damages speech challenge",
+      "disposition": "Affirm dismissal with attribution limits",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [],
+      "other": [],
+      "printed_tally": "9–0"
+    },
+    {
+      "component": "RFRA prospective-enforcement claim",
+      "disposition": "Vacate dismissal and remand",
+      "support": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "oppose": [
+        "Stone-Zsela",
+        "Stevens",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "other": [],
+      "printed_tally": "5–4"
+    }
+  ],
+  "writings": [
+    {
+      "author": "Kennedy",
+      "joiners": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "scope": "Parts I, II, III-A, IV-B: commerce/federalism, speech, overbreadth, attribution",
+      "controlling": true
+    },
+    {
+      "author": "Kennedy",
+      "joiners": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "scope": "Parts III-B, IV-A, V-A: vagueness, elected-damages rationale, facial religious targeting",
+      "controlling": true
+    },
+    {
+      "author": "Kennedy",
+      "joiners": [
+        "Stevens",
+        "Scalia",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "scope": "Part V-B: constitutional exemption under Smith/Lukumi",
+      "controlling": true
+    },
+    {
+      "author": "O'Connor",
+      "joiners": [
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "scope": "RFRA rule, application and remand",
+      "controlling": true
+    },
+    {
+      "author": "O'Connor",
+      "joiners": [
+        "Souter"
+      ],
+      "scope": "Concurrence in part reserving broader constitutional exemption",
+      "controlling": false
+    },
+    {
+      "author": "Stone-Zsela",
+      "joiners": [
+        "Stevens",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "scope": "Dissent from RFRA remand on the common assumed-obstruction application",
+      "controlling": false
+    }
+  ],
+  "blockers": [],
+  "law_summary": "The challenged reproductive-service provisions survive the presented facial constitutional and categorical damages objections within their enacted definitions, motives, own-minor exception and protected-expression limits. Their commercial connection rests on direct interference with an actual medical-services market, not generalized social costs. Elected statutory damages remain possible for legally attributable, nonexcepted violations; the parent/guardian exception bars all FACE civil remedies, including injunctions, for qualifying exclusively own-minor conduct. No amount-specific award is adjudicated. The inclusive facility definition and separate ingress/egress/passage rules establish no geographic buffer or categorical outdoor immunity. Six Justices reject the broader constitutional exemption under Smith/Lukumi, while RFRA independently requires the five-Justice remand. The government must satisfy that statute for the identified person and application after a substantial burden is established; the Act's continued force does not establish every future enforcement as lawful. No new true-threat rule, worship holding, Fourteenth Amendment §5 power, automatic religious exemption or general damages-attribution theory is created.",
+  "published_positions": [
+    "O'Connor, joined by Souter, reserves the broader constitutional substantial-burden exemption under Smith while joining rejection of facial targeting and the statutory remand; no exemption or new constitutional rule follows.",
+    "Stone-Zsela, joined by Stevens, Ginsburg and Breyer, accepts RFRA and would affirm on the assumed access-denying obstruction: immunity defeats the affected person's access, while nonobstructive advocacy remains available. The own-minor exception does not cover outsider blockade; materially different applications remain open."
+  ],
+  "next_stage": "District-court RFRA person-and-application inquiry through the Fourth Circuit; no exemption or injunction follows, and other dismissals remain. No further Supreme Court event set.",
+  "assignment": [
+    {
+      "assigner": "Stone-Zsela",
+      "author": "Kennedy",
+      "scope": "Constitutional and categorical damages opinion",
+      "basis": "Chief in judgment majority; Lopez/Turner/Lukumi fit",
+      "count_pending_root": false,
+      "chief_assignment": true,
+      "current_prior_chief_counts": {
+        "O'Connor": 3,
+        "Ginsburg": 1,
+        "Scalia": 1,
+        "Souter": 1
+      }
+    },
+    {
+      "assigner": "O'Connor",
+      "author": "O'Connor",
+      "scope": "RFRA remand opinion",
+      "basis": "Most senior Associate in remand majority; Clearwater/Swanner fit",
+      "chief_assignment": false
+    }
+  ],
+  "status": "durably preserved; operator Git commitment pending",
+  "final_root_refresh_reference": "freeze/OCT31_ACTUAL_ENTERING_LAW_REFRESH_RECEIPT.md; freeze/NOV07_ACTUAL_ENTERING_LAW_REFRESH_RECEIPT.md; actual six earlier Chief assignments reviewed; seventh to Kennedy, separate OConnor RFRA assignment excluded."
+}

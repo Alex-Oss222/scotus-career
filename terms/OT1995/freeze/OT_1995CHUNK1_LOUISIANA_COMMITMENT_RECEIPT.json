@@ -1,0 +1,30 @@
+{
+  "status": "independent Louisiana model frozen; historical reconciliation not performed",
+  "mode": "disclosed same-context validation/model fallback",
+  "runtime": "terms\\OT1995\\runtime\\OT_1995CHUNK1_LOUISIANA_COMMITMENTS.md",
+  "freeze": "terms\\OT1995\\freeze\\OT_1995CHUNK1_LOUISIANA_COMMITMENTS.md",
+  "bytes": 24088,
+  "sha256": "f2dfd01ea320dbca4f536883b25f692b9bbe5bdbd198f531091875cf5b0b44d6",
+  "justice_rows": {
+    "Stevens": 1,
+    "O'Connor": 1,
+    "Scalia": 1,
+    "Kennedy": 1,
+    "Souter": 1,
+    "Thomas": 1,
+    "Ginsburg": 1,
+    "Breyer": 1
+  },
+  "missing_local_links": [],
+  "inputs": {
+    "freeze/OT_1995CHUNK1_B_NEUTRAL_VALIDATED.md": "2f173678051eb2a660898dddef02c1867d7322694d049ae48f76a3b2d65507a3",
+    "sources/B_LOUISIANA_OBJECTIVE_SOURCE_ADDENDUM.md": "f735f21f6922d804b877ab43bdae4fe9488543828b8e60a52abb2c0cdd0512e7",
+    "entering-law/OT_1995CHUNK1_B.md": "ed138b412bdd91af45417c8c7f886ad00f3f3a8dd73cb9017cba551e581cb9ee",
+    "workspace/neutral-projection.md": "6c44f41f944e4560d5ac903c24bac1e9d68db36710c80807f7cee6ea8eaf009d",
+    "sources/preflight_b/B_louisiana_008_master_report.txt": "9a8dfe58b92a2cf3176378b4022197207f81b4e5348f690075caec2dcd5d3973",
+    "sources/C_MODEL_MissouriKentucky1870.txt": "de29fda805c37621bf5cd75d66c3b85d65aa594b9f4f48e4d4688c518ebfa83e",
+    "sources/B_MODEL_IndianaKentucky.txt": "29fee6272535b8f1cc3a2f17f9f9c50b0a337bbc5ecbce587e35fb3631a22bfc",
+    "sources/B_MODEL_ArkansasTennessee1918.txt": "97da7d864d8ddba71c40a4b38bc4c7ecbfd8ad83f40d7b6c63906248563b0f15",
+    "sources/B_MODEL_ArkansasTennessee1970.txt": "13fdfc22b3a1e8df2a4ec32dbc57758219f91a3398ace744f90767157efa23e5"
+  }
+}

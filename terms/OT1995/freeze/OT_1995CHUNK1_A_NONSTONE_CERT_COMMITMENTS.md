@@ -1,0 +1,33 @@
+# A — eight-Associate petition commitments only
+
+Mechanical projection of the frozen petition handoff. Stone row, private introductory material and combined totals are excluded. Grant questions and all eight Associate rows are unchanged.
+
+## Wood v. Bartholomew, No.94-1419 — October10,1995
+
+**Question for the grant:** Whether the established nondisclosure of the witnesses' polygraph information supports the Ninth Circuit's conviction-level Brady relief under Bagley and the intervening simulated Kyles rule, considering lawful preparation and investigative uses and the evidentiary support for those uses. The grant does not assume that inadmissibility categorically defeats disclosure or that a particular favorable investigation would have occurred. No grant of independent ineffective-assistance or false-testimony questions is supplied.
+
+| Justice | Final petition position | Case-specific institutional ground and management limit |
+|---|---|---|
+| Stevens | Grant. | The importance of witness impeachment to the degree of conviction and the distinction between excluded test results and lawful fruits warrant review. Prefer adequate adversarial consideration over a summary declaration of no possible use; would accept a bounded reconsideration remand without plenary resolution of disputed facts. |
+| O'Connor | Grant. | Kyles requires confidence-based collective review but also a supported application. The conditional writ and an uncertain admissibility/investigation rationale make clarification timely. Summary treatment is acceptable only at the legal-rule level on the supplied facts. |
+| Scalia | Grant. | The petition squarely challenges whether an asserted chain of hypothetical investigation meets the governing materiality burden. That recurring legal boundary and an outstanding habeas command warrant correction; this is not an assertion that every disputed Brady application deserves certiorari. |
+| Kennedy | Grant. | The relation between an actual conviction-level disclosure injury and conjectural evidence is cleanly raised, with a concrete lower remedy. Review can preserve the independent habeas defenses and unreviewed claims. |
+| Souter | Grant. | His intervening Kyles opinion addresses lawful preparation uses and whole-record materiality. A limited grant allows those principles to govern this different admissibility setting without assuming that Kyles settles the application. |
+| Thomas | Grant. | The petition presents the legal minimum supporting a federal conditional writ, with no need to adjudicate the polygraph's scientific truth. Limit review to that question and preserve separate claims. |
+| Ginsburg | Grant. | Kyles postdates the judgment, and the record concerns the degree of guilt rather than only punishment. A bounded grant permits correction of the legal premises while avoiding unsupported new findings. |
+| Breyer | Grant. | A recurring preparation-use question, intervening controlling authority and an outstanding conditional remedy justify review. Prefer focused remand if the incomplete factual counterfactual prevents reliable final application. |
+
+## Tuggle v. Netherland, No.95-6016 — October30,1995
+
+**Question for the limited grant:** Whether, on an express assumption that an Ake psychiatric-assistance violation is established and otherwise available on habeas, a surviving valid vileness aggravator in Virginia's nonweighing system is by itself sufficient to reject sentence relief. This isolates the lower appellate rationale; it does not accept the withdrawn concession, find an Ake violation, select an error-effect standard, or grant review of the independent Estelle predicates, vileness instruction, voir dire, or rape-sufficiency questions.
+
+| Justice | Final petition position | Case-specific institutional ground and management limit |
+|---|---|---|
+| Stevens | Grant the limited question; deny remainder. | As Zant's author and an Ake joiner, he has a direct basis to consider whether the lower court used Zant beyond its evidentiary premises. The limited question is important despite disputes that make a final sentencing entitlement unsuitable for summary review. |
+| O'Connor | Grant the limited question; deny remainder. | Her Ake and Zant joins and actual-correction holding in Richmond support resolving the distinct legal rationale. The request and assistance disputes favor a bounded question rather than a final ruling that a constitutional violation occurred. |
+| Scalia | Deny the petition. | The withdrawn concession, request dispute, default assertions and undeveloped error-effect record make this a poor vehicle for a broad Ake or collateral-remedy decision; no demonstrated split compels review. If four grant the bounded question, his conditional merits position is separately recorded and is not a grant vote. |
+| Kennedy | Grant the limited question; deny remainder. | Stringer's distinction between eligibility and constitutional correction and the actual-rebuttal issue justify a focused examination of the lower rationale. The nonweighing feature calls for legal distinction, not an assumed weighing-state result. |
+| Souter | Grant the limited question; deny remainder. | The issue concerns a jury's actual sentence selection and defense response, matters his Simmons and Romano writings treat distinctly from eligibility. A confined question avoids deciding the disputed Ake and Estelle predicates prematurely. |
+| Thomas | Deny the petition. | Incomplete antecedent and preservation issues make plenary merits development a substantial vehicle problem; a capital sentence alone does not warrant certiorari. If the Court grants the bounded question, his merits position is conditional on that grant. |
+| Ginsburg | Grant the limited question; deny remainder. | The lower factor-counting rationale can be assessed without inventing lost testimony or a waiver ruling. Her prior capital-remedy joins make that discrete issue important, while the record limits counsel against enlarging review. |
+| Breyer | Grant the limited question; deny remainder. | The categorical rationale permits a focused legal correction even though the incomplete trial record makes the full Ake and harmlessness controversy unsuitable for present final adjudication. O'Neal's remand distinction supports keeping those steps separate. |

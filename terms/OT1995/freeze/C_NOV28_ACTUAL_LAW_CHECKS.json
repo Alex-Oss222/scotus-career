@@ -1,0 +1,41 @@
+{
+  "status": "PASS; no changed Thompson Associate grounds, joins or remedy",
+  "copies": [
+    {
+      "path": "terms/OT1995/entering-law/PUBLIC_Field_v_Mans_merits_1995-11-28.md",
+      "bytes": 10982,
+      "sha256": "34c2071b993925829152ae524825910f06163a495aee377dcdb54d56e1b48ced",
+      "public_body_bytes": 10730,
+      "public_body_sha256": "95e790ca424b557970c400fae71d5092160e60a2edd52009e46cdc27ad239031",
+      "normalized_public_body_sha256": "a9741a5f28ccd669a4a9af3003d9f4cb70b89435adbeccb32c10c706f77ef6a0",
+      "audited_draft_path": "terms/OT1995/runtime/assembly/PUBLIC_DRAFT_Field_v_Mans_merits_1995-11-28.md",
+      "audited_draft_bytes": 10734,
+      "audited_draft_sha256": "d51d692a8e1ca76c890cfb2722ee30341858d9229b67236818b275a255764e46",
+      "matches_audited_bytes_after_exterior_blank_line_removal": true
+    },
+    {
+      "path": "terms/OT1995/entering-law/PUBLIC_NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md",
+      "bytes": 9471,
+      "sha256": "c9cf7636cc6eeeb248fff096413dbcccd282c76aadeea6fce717f4f6e47f544c",
+      "public_body_bytes": 9171,
+      "public_body_sha256": "242fc6f5ddee2e1502c2cc7d57fb78c4970b8c8df54f0b1d9bdb76f1697c4c5a",
+      "normalized_public_body_sha256": "44348a0efe567698f37efeacfc61a0cf89e71ffa55ef083d0b70f76f8abfc157",
+      "audited_draft_path": "terms/OT1995/runtime/assembly/PUBLIC_DRAFT_NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md",
+      "audited_draft_bytes": 9175,
+      "audited_draft_sha256": "d48f67b4301518b031fd89ce3d5da293b9f668e09cc8569ab6df4e0ac8d703b4",
+      "matches_audited_bytes_after_exterior_blank_line_removal": true
+    }
+  ],
+  "comparison": "Remove each bounded-copy header before first ## Event; trim only exterior CR/LF bytes from actual body and draft. Internal bytes unchanged.",
+  "reading": "Both actual November28 public copies read in full; no raw Record, private Stone input or assembly script. Prior exposure to bounded public Stone positions is disclosed.",
+  "chronology": "Field and Town were preserved as a common November28 cohort. Both are effective entering law for Thompson on November29; neither was used as the other's entering authority.",
+  "cumulative_receipts": [
+    "A_ACTUAL_ENTERING_LAW_REFRESH_RECEIPT.md",
+    "OCT31_ACTUAL_ENTERING_LAW_REFRESH_RECEIPT.md",
+    "NOV07_ACTUAL_ENTERING_LAW_REFRESH_RECEIPT.md",
+    "C_FINAL_B_ACTUAL_LAW_REFRESH.md",
+    "C_NOV20_ACTUAL_LAW_REFRESH.md"
+  ],
+  "thompson_associate_positions": "Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer retain independent review of ultimate custody and bounded vacatur/remand; Thomas retains factual classification and affirmance. No actual custody determination or new ground.",
+  "open_blockers": []
+}

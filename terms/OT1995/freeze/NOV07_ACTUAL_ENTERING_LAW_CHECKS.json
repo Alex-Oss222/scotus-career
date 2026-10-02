@@ -1,0 +1,16 @@
+{
+  "status": "PASS: preserved public body byte-identical to audited draft",
+  "copies": [
+    {
+      "path": "terms/OT1995/entering-law/PUBLIC_Libretti_v_United_States_merits_1995-11-07.md",
+      "bytes": 25418,
+      "sha256": "77f672feee90ff054050cde7a55db229b0781b517f1288c4a7f54c75782635c0",
+      "public_body_bytes": 25129,
+      "public_body_sha256": "9f62e49523752e458e4d0fbeec63faafbf468ba644fc576bbc2496696531a439",
+      "matches_audited_bytes": true
+    }
+  ],
+  "comparison": "Remove only bounded-copy header before ## Event; no normalization",
+  "reading": "Actual public copy read in full; no raw Record read",
+  "substantive_effect": "No change to ALL or C Associate commitments within the scopes stated in NOV07_ACTUAL_ENTERING_LAW_REFRESH_RECEIPT.md"
+}

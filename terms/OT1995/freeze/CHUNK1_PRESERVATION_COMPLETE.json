@@ -1,0 +1,30 @@
+{
+  "records": [
+    "Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+    "Doe_v_Taylor_ISD_merits_1995-10-16.md",
+    "Hodge_v_Jones_merits_1995-10-23.md",
+    "Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md",
+    "Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+    "Libretti_v_United_States_merits_1995-11-07.md",
+    "American_Life_League_v_Reno_merits_1995-11-13.md",
+    "A_St_P_C_v_B_C_merits_1995-11-20.md",
+    "Field_v_Mans_merits_1995-11-28.md",
+    "NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md",
+    "Thompson_v_Keohane_merits_1995-11-29.md"
+  ],
+  "sha256": {
+    "Wood_v_Bartholomew_summary_merits_1995-10-10.md": "caa39d674212057ff83850019fdcf69a2617e48c963a5f4665926d0ea3961b98",
+    "Doe_v_Taylor_ISD_merits_1995-10-16.md": "efab2ad8f1bc5fcd2ff7828e35d60e2e917163328873873fb43af60cbc29b0e5",
+    "Hodge_v_Jones_merits_1995-10-23.md": "3e7f4e2d2859bb6c0a4aa21c1e7b689dccb7a94d36e6b8f5ef495d1d86c3b34b",
+    "Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md": "d31a90a33c2b133efd0bcec5cdee900b02183f2fbb25e75e09d5e80d8d371746",
+    "Louisiana_v_Mississippi_original_exceptions_1995-10-31.md": "f62f724e96c6aa7710cda169d1dc91f511cfe1b21ac694551080c3fea892cd27",
+    "Libretti_v_United_States_merits_1995-11-07.md": "207af1b25e54ce78d12851b640721e2d4fe2bec5e1079a0894cb4051470e7842",
+    "American_Life_League_v_Reno_merits_1995-11-13.md": "7dbb1ceb386db85e22deee0b941d6e2346a93e7614653268178faf49fd09e419",
+    "A_St_P_C_v_B_C_merits_1995-11-20.md": "8635715fbe0b5bdfdb28124657394044ee2015010dff6e124d163e374eee900f",
+    "Field_v_Mans_merits_1995-11-28.md": "8f69bd4dd79f546f3bdb28f49aa511d547201eb4a7b4a21a11aaecac18f59c75",
+    "NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md": "730734150ba387d87b2bb9750177a0aa655c7b18ccb5873b6f9b12f000223ea3",
+    "Thompson_v_Keohane_merits_1995-11-29.md": "3851b72ffb31d9c273499749ec7765476a9c6d495ac50f685e331352bdf6e2f6"
+  },
+  "status": "Eleven manually reviewed initial Records preserved; Tuggle stopped; operator Git verification/commitment pending",
+  "public_hash_note": "Preservation-log public_sha256 values use LF-normalized, exterior-trimmed projection text; scoped audit receipts also preserve raw public-copy hashes."
+}

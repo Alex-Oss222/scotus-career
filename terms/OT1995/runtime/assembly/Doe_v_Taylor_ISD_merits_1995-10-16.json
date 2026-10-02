@@ -1,0 +1,146 @@
+{
+  "record": "Doe_v_Taylor_ISD_merits_1995-10-16.md",
+  "case": "Doe v. Taylor Independent School District",
+  "date": "1995-10-16",
+  "judgments": [
+    {
+      "component": "Lankford immunity",
+      "disposition": "Affirm denial and remand",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "other": [],
+      "printed_tally": "5-4"
+    },
+    {
+      "component": "Caplinger immunity",
+      "disposition": "Affirm immunity",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [],
+      "other": [],
+      "printed_tally": "9-0"
+    },
+    {
+      "component": "Factual-sufficiency appellate boundary",
+      "disposition": "Dismiss any purely factual portion",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [],
+      "other": [],
+      "printed_tally": "9-0"
+    }
+  ],
+  "writings": [
+    {
+      "author": "Ginsburg",
+      "joiners": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Breyer"
+      ],
+      "scope": "Part I",
+      "controlling": true
+    },
+    {
+      "author": "Ginsburg",
+      "joiners": [
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Breyer"
+      ],
+      "scope": "Part II",
+      "controlling": true
+    },
+    {
+      "author": "Ginsburg",
+      "joiners": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Breyer"
+      ],
+      "scope": "Part III",
+      "controlling": true
+    },
+    {
+      "author": "Stone-Zsela",
+      "joiners": [],
+      "scope": "Caplinger judgment concurrence",
+      "controlling": false
+    },
+    {
+      "author": "O'Connor",
+      "joiners": [
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "scope": "Lankford dissent; joins Parts I/III",
+      "controlling": false
+    }
+  ],
+  "law_summary": "On properly assumed facts, actual knowing, deliberately unreasonable and causally effective supervisory acquiescence in sexual abuse through school authority defeats Lankford immunity; negligence or status alone does not. Caplinger receives immunity on the particular conduct-date notice ground, with constitutional merits reserved. Johnson excludes purely factual-sufficiency appeals.",
+  "published_positions": [
+    "Stone-Zsela would grant Caplinger judgment because his own limited knowledge and responses do not establish knowing disregard, rather than for lack of clear law.",
+    "O’Connor, Scalia, Kennedy, and Thomas would grant Lankford immunity because the particular contemporaneous supervisory duty was insufficiently clear; they join Caplinger immunity and the appellate boundary."
+  ],
+  "next_stage": "Lankford claim returns for proof of actual knowledge, culpability and causation; Caplinger immunity remains; no liability or damages adjudicated.",
+  "disposition": "Affirmed and remanded: denial of Lankford’s immunity, 5–4; Caplinger’s immunity, 9–0 in judgment, on an eight-Justice notice rationale; pure factual-sufficiency review excluded unanimously.",
+  "participants": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "blockers": [],
+  "assignment": {
+    "assigner": "Stone-Zsela",
+    "author": "Ginsburg",
+    "chief_assignment": true,
+    "source": "Actual assignment statement in canonical Record; manually reviewed."
+  },
+  "status": "durably preserved; operator Git commitment pending"
+}

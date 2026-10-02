@@ -1,0 +1,24 @@
+# October 31 preserved public law — later-case refresh
+
+**Status:** Both authorized entering-law copies were read in full after the operator reported canonical preservation. Their bounded public bodies match the audited final drafts byte for byte. `OCT31_ACTUAL_ENTERING_LAW_CHECKS.json` records the full-copy and public-body hashes; the comparison removes only the copy header before `## Event`, with no normalization. No raw Canonical Record, private audit or assembly script was opened.
+
+These are now the actual October 31 public holdings. The two cases share a date and neither is used as earlier law for the other. This receipt carries them prospectively into Libretti (November 7), ALL (November 13) and C's later events. It does not make a later unpublished draft effective. Prior preserved Wood, Doe and Hodge were already assessed in the separate A actual-law receipt and remain part of the dated baseline.
+
+## Libretti
+
+Strumpf's enacted debt-payment exception and limits on statutory power do not alter the subjects of Rule 11(f), Rule 31(e), §853's predicates or an actual knowing waiver. Its refusal to turn a label into statutory entitlement is consistent with the frozen rule that a forfeiture bargain cannot create authority. It establishes no universal requirement or prohibition of additional factual inquiries in a different statutory scheme. Its conditional remand supplies no authority to reopen Libretti's defendant-specific postappeal order or disturb valid third-party proceedings. The eight Associate Rule 11(f) and waivability commitments, the five-Associate constitutional/affirmative-waiver grounds, the two distinct notice/understanding grounds, the five's bounded record appraisal and Stevens's statutory-assurance remand remain available at their exact scope.
+
+Louisiana's independent original-action review and resolution of merits while withholding an inconsistent coordinate do not prescribe appellate review of a criminal forfeiture or eliminate §853 predicates. Its separation of sovereign boundary from absent owners' title fits, but does not replace, Libretti's independently required §853(n) limits. It creates no generic permission to affirm an unlawful identified asset forfeiture because other issues are decidable, and no automatic hearing whenever an implementation detail is unresolved. No Libretti ground, join or remedy changes because of this new public law.
+
+## American Life League
+
+Neither decision supplies a new commerce, speech, constitutional religion or RFRA rule. Strumpf's statute-specific construction does not make FACE's full parent/guardian remedy exclusion immaterial or substitute neutral-law analysis for RFRA. Louisiana's original-jurisdiction and private-title rules neither authorize Congress under §5 nor create constitutional duties for private clinic protesters. The corrected FACE statute, separate constitutional scopes, and the five/three RFRA grounds in the independent and reconciled text refresh remain intact. No previously reserved claimant-specific matter becomes established by analogy.
+
+## Later C matters
+
+- **A. St. P. C.:** The temporary bank-debt rule and island-boundary process decide no Mathews/Santosky proof allocation. They neither erase severe parental-contact loss nor make retained property/status dispositive. Both opposing proof paths and their protective/notice limits remain.
+- **Field:** Strumpf concerns payment/setoff under §§362, 542 and 553, not actual-fraud reliance under §523. Its coherent-Code method does not equate justifiability with objective prudence or decide whether this record already applied the proper test. Louisiana's proof and implementation treatment supplies no automatic remand rule for Field. The common reliance holding and six/two Associate application split remain.
+- **Town & Country:** Neither October 31 decision changes §152's employee definition, common-law compatible service, the actual MCI/Health Care premises or reserved individual/remedial questions. Ordinary implementation language remains consistent with the separately clarified Town mandate.
+- **Thompson:** Louisiana's independent original-action review is not a rule for federal habeas classification or an exception to pre-AEDPA §2254(d). Strumpf's preservation limits supply no new habeas default or retroactivity bar. The seven/one Associate custody-classification split, historical-fact treatment and reserved remedy remain.
+
+**Conclusion:** Actual October 31 law requires no alteration of a frozen later-case Associate position. The comparisons above do not import the public Chief Justice's separate stance into any Associate model. This reviewer has public-position exposure and remains private-Stone-clean under the disclosed fallback; it makes no pristine-isolation claim. Actual Libretti law must be checked after its preservation before ALL becomes effective, and the other later public-law refreshes remain separate.

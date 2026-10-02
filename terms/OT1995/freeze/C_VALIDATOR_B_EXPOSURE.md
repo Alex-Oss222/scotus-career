@@ -1,0 +1,5 @@
+# Limited C validator exposure — internal only
+
+On reading the parent-authorized `sources/C_SOURCE_LOG.md`, validator context B encountered the source author's historical writing-verification metadata: Cornell suffixes ZC/ZD for Field, 'no separate writing listed' for Town & Country, and ZD for Thompson. No historical disposition, opinion author, named join, merits reasoning, or same-case Supreme Court opinion was opened by this validator. This is a limited topology exposure, not a claim of pristine blindness. The parent was notified immediately.
+
+The validator will perform objective source-sufficiency and boundary checks only for these matters, with no modeling, vote inference or result-based framing. This log and the source log's historical verification paragraph must not be passed to the C modeler. A.St.P.C.'s historical Supreme Court treatment has not been exposed to this context. This context previously researched B matters, with Louisiana exposure logged separately; B source work provides no authority for C's adjudication.

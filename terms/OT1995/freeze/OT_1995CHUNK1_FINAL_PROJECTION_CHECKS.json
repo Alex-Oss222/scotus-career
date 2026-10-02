@@ -1,0 +1,10 @@
+{
+  "inventory_rows": 115,
+  "chunk1_rows": 12,
+  "completed": 11,
+  "stopped": 1,
+  "canonical_hashes_unchanged": true,
+  "neutral_has_no_raw_record_links_or_private_blocker": true,
+  "future_coordinate_condition_preserved": true,
+  "public_output_render_written": false
+}

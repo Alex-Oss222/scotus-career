@@ -1,0 +1,70 @@
+{
+  "judgments": [
+    {
+      "component": "automatic-stay and sanctions judgment",
+      "disposition": "reverse and remand for proceedings consistent with the opinion",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [],
+      "printed_tally": "9–0",
+      "other": []
+    }
+  ],
+  "writings": [
+    {
+      "author": "Scalia",
+      "joiners": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "scope": "Parts I–III",
+      "controlling": true
+    }
+  ],
+  "law_summary": "A genuinely temporary payment refusal preserving a claimed offset for prompt judicial consideration is distinct from a completed setoff and, in this deposit-debt setting, does not violate the presented control or collection provisions. Section 553 creates no offset right, actual offset remains stayed without relief, and no general immunity for bank holds results. The sanctions judgment loses its stated foundation; separate statutory elements and unpresented claims remain unchanged. Section 363 cash-collateral and adequate-protection requirements remain separate.",
+  "published_positions": [],
+  "next_stage": "The case returns to the Fourth Circuit for proceedings consistent with reversal. No new damages trial, turnover award, constitutional remedy or reconsideration of a final or unappealed order is directed. Any otherwise properly remaining question is governed by ordinary preservation, jurisdiction and procedural requirements.",
+  "assignment": {
+    "assigner": "Stone-Zsela",
+    "author": "Scalia",
+    "chief_assignment": true,
+    "current_prior_chief_counts": {
+      "O'Connor": 2,
+      "Ginsburg": 1
+    }
+  },
+  "record_filename": "Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md",
+  "case": "Citizens Bank of Maryland v. Strumpf, No.94-1340",
+  "date": "1995-10-31",
+  "disposition_summary": "Reverse and remand for proceedings consistent with the opinion, 9–0.",
+  "participants": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "blockers": [],
+  "record": "Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md",
+  "disposition": "Reverse and remand for proceedings consistent with the opinion, 9–0.",
+  "status": "durably preserved; operator Git commitment pending"
+}

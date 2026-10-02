@@ -1,0 +1,22 @@
+{
+  "artifact": "OT_1995CHUNK1_LIBRETTI_NOTICE_REFRESH_COMMITMENTS.md",
+  "sha256": "b56d58f130a7450c2fc23a7999fa659945bb96c1c397830ac835214821b55cce",
+  "bytes": 13521,
+  "runtime_identical": true,
+  "original_B3_sha256": "dfb39f9c640e99ea0c234fab2e0720801794899a433de3b21679b0f0a3ae6859",
+  "rows": {
+    "Stevens": 1,
+    "O'Connor": 1,
+    "Scalia": 1,
+    "Kennedy": 1,
+    "Souter": 1,
+    "Thomas": 1,
+    "Ginsburg": 1,
+    "Breyer": 1
+  },
+  "missing_links": [],
+  "current_Libretti_historical_merits_or_comparator_read": false,
+  "current_Stone_read": false,
+  "direct_Tr8_Tr188_read": false,
+  "reported_primary_notice_facts_accepted": true
+}

@@ -1,0 +1,17 @@
+{
+  "status": "Reported primary judicial facts validated at disclosed indirect level; direct underlying transcript not obtained",
+  "sha256": "5fed56e6d84e80c55fecb43e6fe765edf61b127af7040600e2f6563979357a53",
+  "bytes": 4658,
+  "inputs": {
+    "sources/B_LIBRETTI_PRETRIAL_NOTICE_OBJECTIVE_EXTRACT.md": "8df2a6ae85dae9ffaad579ecf636a9a82db649ada21a5205bb16ded1b75d9e0a",
+    "sources/preflight_b/A_LIBRETTI_NOTICE_03.txt": "5c0773a3605762ff99e87aaca35c61935c9e5287ede8b595a83919621e773e42",
+    "sources/preflight_b/A_LIBRETTI_NOTICE_04.txt": "3e7d258ccc2d5523730f477dd56f0e6024d2ffa4a4ee9a1964e98a64d755b033",
+    "sources/preflight_b/A_LIBRETTI_NOTICE_03.pdf": "30405f93098022c785db41af74025ca32515ecff8ee7aee19615e712397bb079",
+    "sources/preflight_b/A_LIBRETTI_NOTICE_04.pdf": "df87f8dc04ad5494946c37d176b00560f67a1c3556da2e792dcbded445eb00a9"
+  },
+  "independent_extent": "Complete extracted cert opposition and reply; actual IA docket inventory; targeted searches of previously read primary JA and merits briefs. No raw historical Supreme opinion read.",
+  "Stone_C_opened_before_this_check": true,
+  "Libretti_Stone_comparator_or_commitments_read": false,
+  "modeled_votes": false,
+  "original_files_changed": false
+}

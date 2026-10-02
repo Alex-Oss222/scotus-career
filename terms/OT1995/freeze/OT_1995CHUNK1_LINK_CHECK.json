@@ -1,0 +1,2211 @@
+{
+  "scope": "Canonical OT1995 Records, four named workspace projections, and current chunk1 Render Input if present; no recursive enumeration",
+  "generated_utc": "2026-10-02T21:03:57.392908+00:00",
+  "network_used": false,
+  "git_used": false,
+  "source_edits": false,
+  "locked_targets_inspected": false,
+  "inputs": [
+    {
+      "path": "terms/OT1995/records/A_St_P_C_v_B_C_merits_1995-11-20.md",
+      "sha256": "8635715fbe0b5bdfdb28124657394044ee2015010dff6e124d163e374eee900f"
+    },
+    {
+      "path": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "sha256": "7dbb1ceb386db85e22deee0b941d6e2346a93e7614653268178faf49fd09e419"
+    },
+    {
+      "path": "terms/OT1995/records/Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md",
+      "sha256": "d31a90a33c2b133efd0bcec5cdee900b02183f2fbb25e75e09d5e80d8d371746"
+    },
+    {
+      "path": "terms/OT1995/records/Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "sha256": "efab2ad8f1bc5fcd2ff7828e35d60e2e917163328873873fb43af60cbc29b0e5"
+    },
+    {
+      "path": "terms/OT1995/records/Field_v_Mans_merits_1995-11-28.md",
+      "sha256": "8f69bd4dd79f546f3bdb28f49aa511d547201eb4a7b4a21a11aaecac18f59c75"
+    },
+    {
+      "path": "terms/OT1995/records/Hodge_v_Jones_merits_1995-10-23.md",
+      "sha256": "3e7f4e2d2859bb6c0a4aa21c1e7b689dccb7a94d36e6b8f5ef495d1d86c3b34b"
+    },
+    {
+      "path": "terms/OT1995/records/Libretti_v_United_States_merits_1995-11-07.md",
+      "sha256": "207af1b25e54ce78d12851b640721e2d4fe2bec5e1079a0894cb4051470e7842"
+    },
+    {
+      "path": "terms/OT1995/records/Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+      "sha256": "f62f724e96c6aa7710cda169d1dc91f511cfe1b21ac694551080c3fea892cd27"
+    },
+    {
+      "path": "terms/OT1995/records/NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md",
+      "sha256": "730734150ba387d87b2bb9750177a0aa655c7b18ccb5873b6f9b12f000223ea3"
+    },
+    {
+      "path": "terms/OT1995/records/Thompson_v_Keohane_merits_1995-11-29.md",
+      "sha256": "3851b72ffb31d9c273499749ec7765476a9c6d495ac50f685e331352bdf6e2f6"
+    },
+    {
+      "path": "terms/OT1995/records/Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "sha256": "caa39d674212057ff83850019fdcf69a2617e48c963a5f4665926d0ea3961b98"
+    },
+    {
+      "path": "terms/OT1995/workspace/manifest.md",
+      "sha256": "1e403db565ffc56887125344f5db1a181cdfa19a4d26761bab39e722d0670cce"
+    },
+    {
+      "path": "terms/OT1995/workspace/ledger.md",
+      "sha256": "82a9ae8373f6f3f4807f4fe7d22cf7ef93adb35557b7edc742f6333b2a118fa3"
+    },
+    {
+      "path": "terms/OT1995/workspace/continuity.md",
+      "sha256": "ef1927bb88b6b28060b784f90900707d63f72df9e2f564bf342aa7fadcb8adde"
+    },
+    {
+      "path": "terms/OT1995/workspace/neutral-projection.md",
+      "sha256": "ff28f77e89ef7f7ca3f4f69ee990efc83b5941fe138da207f46516d5bf114438"
+    },
+    {
+      "path": "terms/OT1995/render-inputs/OT_1995CHUNK1.md",
+      "sha256": "601011451f76d739254ea640387273445fec32887143a8fd59b611caf60e3abe"
+    }
+  ],
+  "missing_required_inputs": [],
+  "optional_render_input": {
+    "path": "terms/OT1995/render-inputs/OT_1995CHUNK1.md",
+    "present": true
+  },
+  "links": [
+    {
+      "source": "terms/OT1995/records/A_St_P_C_v_B_C_merits_1995-11-20.md",
+      "target": "https://law.justia.com/cases/louisiana/supreme-court/1994/93-ca-1125-6.html",
+      "line": 187,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/records/A_St_P_C_v_B_C_merits_1995-11-20.md",
+      "target": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep455/usrep455745/usrep455745.pdf",
+      "line": 187,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "target": "../entering-law/OT_1995CHUNK1_B.md",
+      "line": 20,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/OT_1995CHUNK1_B.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "target": "../entering-law/OT_1995CHUNK1_B_SUPPLEMENT.md",
+      "line": 20,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/OT_1995CHUNK1_B_SUPPLEMENT.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "target": "../entering-law/PUBLIC_Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "line": 24,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "target": "../entering-law/PUBLIC_Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "line": 24,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "target": "../entering-law/PUBLIC_Hodge_v_Jones_merits_1995-10-23.md",
+      "line": 24,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Hodge_v_Jones_merits_1995-10-23.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "target": "../freeze/OT_1995CHUNK1_ALL_TEXT_NEUTRAL_SUPPLEMENT.md",
+      "line": 42,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/freeze/OT_1995CHUNK1_ALL_TEXT_NEUTRAL_SUPPLEMENT.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "target": "../freeze/OT_1995CHUNK1_ALL_TEXT_REFRESH_COMMITMENTS.md",
+      "line": 42,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/freeze/OT_1995CHUNK1_ALL_TEXT_REFRESH_COMMITMENTS.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "target": "../freeze/OT_1995CHUNK1_ALL_TEXT_RECONCILED.md",
+      "line": 42,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/freeze/OT_1995CHUNK1_ALL_TEXT_RECONCILED.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "target": "../freeze/ALL_TEXT_RECONCILIATION_RECEIPT.json",
+      "line": 42,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/freeze/ALL_TEXT_RECONCILIATION_RECEIPT.json",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "target": "../freeze/ALL_TEXT_REFRESH_CONTEXT_CLARIFICATION.md",
+      "line": 42,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/freeze/ALL_TEXT_REFRESH_CONTEXT_CLARIFICATION.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "target": "../freeze/OT_1995CHUNK1_B_STONE_INPUT.md",
+      "line": 46,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/freeze/OT_1995CHUNK1_B_STONE_INPUT.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "target": "../freeze/OT1994_ASSIGNMENT_REVIEW.md",
+      "line": 70,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/freeze/OT1994_ASSIGNMENT_REVIEW.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "target": "../freeze/OT_1995CHUNK1_B_NEUTRAL_VALIDATED.md",
+      "line": 209,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/freeze/OT_1995CHUNK1_B_NEUTRAL_VALIDATED.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "target": "../freeze/OT_1995CHUNK1_B_RECONCILED.md",
+      "line": 209,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/freeze/OT_1995CHUNK1_B_RECONCILED.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "target": "../sources/B_AMERICAN_LIFE_LEAGUE_OBJECTIVE_SOURCE_ADDENDUM.md",
+      "line": 241,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/sources/B_AMERICAN_LIFE_LEAGUE_OBJECTIVE_SOURCE_ADDENDUM.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "target": "https://archive.org/details/micro_IA40386012_1752",
+      "line": 431,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "target": "https://www.govinfo.gov/content/pkg/STATUTE-108/pdf/STATUTE-108-Pg694.pdf",
+      "line": 431,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "target": "https://www.govinfo.gov/content/pkg/STATUTE-107/pdf/STATUTE-107-Pg1488.pdf",
+      "line": 431,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/records/Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md",
+      "target": "https://archive.org/details/micro_IA40385013_0580",
+      "line": 179,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/records/Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "target": "../freeze/OT_1995CHUNK1_A_NEUTRAL_VALIDATED.md",
+      "line": 117,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/freeze/OT_1995CHUNK1_A_NEUTRAL_VALIDATED.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "target": "../freeze/OT_1995CHUNK1_A_COMMITMENTS.md",
+      "line": 117,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/freeze/OT_1995CHUNK1_A_COMMITMENTS.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "target": "../freeze/OT_1995CHUNK1_A_RECONCILED.md",
+      "line": 117,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/freeze/OT_1995CHUNK1_A_RECONCILED.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "target": "../freeze/OT_1995CHUNK1_CONTROL.md",
+      "line": 117,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/freeze/OT_1995CHUNK1_CONTROL.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "target": "../sources/PREFLIGHT_A_FACTS.md",
+      "line": 123,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/sources/PREFLIGHT_A_FACTS.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "target": "../sources/PREFLIGHT_A_SOURCE_LOG.md",
+      "line": 123,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/sources/PREFLIGHT_A_SOURCE_LOG.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "target": "../entering-law/OT_1995CHUNK1_A.md",
+      "line": 123,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/OT_1995CHUNK1_A.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "target": "../entering-law/OT_1995CHUNK1_A_SUPPLEMENT.md",
+      "line": 123,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/OT_1995CHUNK1_A_SUPPLEMENT.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "target": "https://static.case.law/f3d/15/html/0443-01.html",
+      "line": 125,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/records/Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "target": "https://static.case.law/f3d/15/html/0443-01.html",
+      "line": 231,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/records/Field_v_Mans_merits_1995-11-28.md",
+      "target": "https://archive.org/details/micro_IA40385013_0573",
+      "line": 213,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/records/Field_v_Mans_merits_1995-11-28.md",
+      "target": "https://www.govinfo.gov/content/pkg/USCODE-1994-title11/pdf/USCODE-1994-title11-chap5-subchapII-sec523.pdf",
+      "line": 213,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/records/Hodge_v_Jones_merits_1995-10-23.md",
+      "target": "../freeze/OT_1995CHUNK1_A_NEUTRAL_VALIDATED.md",
+      "line": 91,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/freeze/OT_1995CHUNK1_A_NEUTRAL_VALIDATED.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Hodge_v_Jones_merits_1995-10-23.md",
+      "target": "../freeze/OT_1995CHUNK1_A_COMMITMENTS.md",
+      "line": 91,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/freeze/OT_1995CHUNK1_A_COMMITMENTS.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Hodge_v_Jones_merits_1995-10-23.md",
+      "target": "../freeze/OT_1995CHUNK1_A_RECONCILED.md",
+      "line": 91,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/freeze/OT_1995CHUNK1_A_RECONCILED.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Hodge_v_Jones_merits_1995-10-23.md",
+      "target": "../freeze/OT_1995CHUNK1_CONTROL.md",
+      "line": 91,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/freeze/OT_1995CHUNK1_CONTROL.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Hodge_v_Jones_merits_1995-10-23.md",
+      "target": "../sources/PREFLIGHT_A_FACTS.md",
+      "line": 97,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/sources/PREFLIGHT_A_FACTS.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Hodge_v_Jones_merits_1995-10-23.md",
+      "target": "../sources/PREFLIGHT_A_SOURCE_LOG.md",
+      "line": 97,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/sources/PREFLIGHT_A_SOURCE_LOG.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Hodge_v_Jones_merits_1995-10-23.md",
+      "target": "../entering-law/OT_1995CHUNK1_A.md",
+      "line": 97,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/OT_1995CHUNK1_A.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Hodge_v_Jones_merits_1995-10-23.md",
+      "target": "../entering-law/OT_1995CHUNK1_A_SUPPLEMENT.md",
+      "line": 97,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/OT_1995CHUNK1_A_SUPPLEMENT.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Hodge_v_Jones_merits_1995-10-23.md",
+      "target": "https://static.case.law/f3d/31/html/0157-01.html",
+      "line": 99,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/records/Hodge_v_Jones_merits_1995-10-23.md",
+      "target": "https://static.case.law/f3d/31/html/0157-01.html",
+      "line": 179,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/records/Libretti_v_United_States_merits_1995-11-07.md",
+      "target": "https://archive.org/details/micro_IA40385013_0616",
+      "line": 303,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/records/Libretti_v_United_States_merits_1995-11-07.md",
+      "target": "https://www.govinfo.gov/content/pkg/USREPORTS-516/pdf/USREPORTS-516-29.pdf",
+      "line": 303,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/records/Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+      "target": "https://www.supremecourt.gov/pdfs/recordsandbriefs/1000370934/1000370934_008.pdf",
+      "line": 233,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/records/Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+      "target": "https://www.supremecourt.gov/pdfs/recordsandbriefs/1000370934/1000370934_009.pdf",
+      "line": 233,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/records/NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md",
+      "target": "https://www.govinfo.gov/content/pkg/USCODE-1994-title29/pdf/USCODE-1994-title29-chap7-subchapII-sec152.pdf",
+      "line": 201,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/records/NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md",
+      "target": "https://archive.org/details/micro_IA40385013_0572",
+      "line": 201,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/records/NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md",
+      "target": "https://openjurist.org/34/f3d/625",
+      "line": 201,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/records/Thompson_v_Keohane_merits_1995-11-29.md",
+      "target": "https://archive.org/details/micro_IA40385013_0614",
+      "line": 213,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/records/Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "target": "../freeze/OT_1995CHUNK1_A_NEUTRAL_VALIDATED.md",
+      "line": 73,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/freeze/OT_1995CHUNK1_A_NEUTRAL_VALIDATED.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "target": "../freeze/OT_1995CHUNK1_A_COMMITMENTS.md",
+      "line": 73,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/freeze/OT_1995CHUNK1_A_COMMITMENTS.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "target": "../freeze/OT_1995CHUNK1_A_RECONCILED.md",
+      "line": 73,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/freeze/OT_1995CHUNK1_A_RECONCILED.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "target": "../freeze/OT_1995CHUNK1_CONTROL.md",
+      "line": 73,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/freeze/OT_1995CHUNK1_CONTROL.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "target": "../freeze/OT_1995CHUNK1_A_CERT_COMMITMENTS.md",
+      "line": 75,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/freeze/OT_1995CHUNK1_A_CERT_COMMITMENTS.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "target": "../sources/PREFLIGHT_A_FACTS.md",
+      "line": 79,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/sources/PREFLIGHT_A_FACTS.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "target": "../sources/PREFLIGHT_A_SOURCE_LOG.md",
+      "line": 79,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/sources/PREFLIGHT_A_SOURCE_LOG.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "target": "../entering-law/OT_1995CHUNK1_A.md",
+      "line": 79,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/OT_1995CHUNK1_A.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "target": "../entering-law/OT_1995CHUNK1_A_SUPPLEMENT.md",
+      "line": 79,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/OT_1995CHUNK1_A_SUPPLEMENT.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/records/Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "target": "https://static.case.law/f3d/34/html/0870-01.html",
+      "line": 81,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/records/Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "target": "https://archive.org/details/micro_IA40385013_0583",
+      "line": 81,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/records/Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "target": "https://static.case.law/f3d/34/html/0870-01.html",
+      "line": 143,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/records/Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "target": "https://archive.org/details/micro_IA40385013_0583",
+      "line": 143,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/workspace/manifest.md",
+      "target": "../case-list.md",
+      "line": 5,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/case-list.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/manifest.md",
+      "target": "../../../state/STANDING_STATE.md#4-docket-of-cases-brought-up",
+      "line": 152,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "4-docket-of-cases-brought-up",
+      "resolved_target": "state/STANDING_STATE.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/manifest.md",
+      "target": "../../../state/STANDING_STATE.md#4-docket-of-cases-brought-up",
+      "line": 153,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "4-docket-of-cases-brought-up",
+      "resolved_target": "state/STANDING_STATE.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/manifest.md",
+      "target": "../../../state/STANDING_STATE.md#4-docket-of-cases-brought-up",
+      "line": 154,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "4-docket-of-cases-brought-up",
+      "resolved_target": "state/STANDING_STATE.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/manifest.md",
+      "target": "../../../state/STANDING_STATE.md#4-docket-of-cases-brought-up",
+      "line": 155,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "4-docket-of-cases-brought-up",
+      "resolved_target": "state/STANDING_STATE.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/manifest.md",
+      "target": "../../../state/STANDING_STATE.md#4-docket-of-cases-brought-up",
+      "line": 156,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "4-docket-of-cases-brought-up",
+      "resolved_target": "state/STANDING_STATE.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/manifest.md",
+      "target": "../records/Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+      "line": 166,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/manifest.md",
+      "target": "continuity.md#5-current-procedure-and-institution",
+      "line": 190,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "5-current-procedure-and-institution",
+      "resolved_target": "terms/OT1995/workspace/continuity.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/manifest.md",
+      "target": "neutral-projection.md#court-and-public-procedure",
+      "line": 190,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "court-and-public-procedure",
+      "resolved_target": "terms/OT1995/workspace/neutral-projection.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/manifest.md",
+      "target": "../audit/OPENING_VALIDATION.md",
+      "line": 213,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/audit/OPENING_VALIDATION.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/ledger.md",
+      "target": "../records/Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "line": 7,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/ledger.md",
+      "target": "../records/Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "line": 8,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/ledger.md",
+      "target": "../records/Hodge_v_Jones_merits_1995-10-23.md",
+      "line": 9,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Hodge_v_Jones_merits_1995-10-23.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/ledger.md",
+      "target": "../records/Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md",
+      "line": 10,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/ledger.md",
+      "target": "../records/Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+      "line": 11,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/ledger.md",
+      "target": "../records/Libretti_v_United_States_merits_1995-11-07.md",
+      "line": 12,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Libretti_v_United_States_merits_1995-11-07.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/ledger.md",
+      "target": "../records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "line": 13,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/ledger.md",
+      "target": "../records/A_St_P_C_v_B_C_merits_1995-11-20.md",
+      "line": 14,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/A_St_P_C_v_B_C_merits_1995-11-20.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/ledger.md",
+      "target": "../records/Field_v_Mans_merits_1995-11-28.md",
+      "line": 15,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Field_v_Mans_merits_1995-11-28.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/ledger.md",
+      "target": "../records/NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md",
+      "line": 16,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/ledger.md",
+      "target": "../records/Thompson_v_Keohane_merits_1995-11-29.md",
+      "line": 17,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Thompson_v_Keohane_merits_1995-11-29.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../../../state/holdings/INDEX.md",
+      "line": 9,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "",
+      "resolved_target": "state/holdings/INDEX.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../../../state/HOLDINGS.md",
+      "line": 9,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "",
+      "resolved_target": "state/HOLDINGS.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../../../state/STANDARDS_AND_TESTS.md",
+      "line": 9,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "",
+      "resolved_target": "state/STANDARDS_AND_TESTS.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../../../state/STANDING_STATE.md",
+      "line": 9,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "",
+      "resolved_target": "state/STANDING_STATE.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../../../foundation/COURT_COMPOSITION.md",
+      "line": 9,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "",
+      "resolved_target": "foundation/COURT_COMPOSITION.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "manifest.md",
+      "line": 13,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/workspace/manifest.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../../OT1991/records/Benten_v_Kessler_A-40_application_to_vacate_stay_1992-07-17.md",
+      "line": 25,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1991/records/Benten_v_Kessler_A-40_application_to_vacate_stay_1992-07-17.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../../OT1992/records/DeBoer_v_DeBoer_A-64_application_1993-07-26.md",
+      "line": 26,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1992/records/DeBoer_v_DeBoer_A-64_application_1993-07-26.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../../OT1993/close/TERM_CLOSE_DOSSIER.md#effective-order-record-inventory",
+      "line": 27,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "effective-order-record-inventory",
+      "resolved_target": "terms/OT1993/close/TERM_CLOSE_DOSSIER.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../../OT1994/close/TERM_CLOSE_DOSSIER.md#effective-order-record-inventory",
+      "line": 28,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "effective-order-record-inventory",
+      "resolved_target": "terms/OT1994/close/TERM_CLOSE_DOSSIER.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../../OT1994/close/TERM_CLOSE_DOSSIER.md",
+      "line": 30,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1994/close/TERM_CLOSE_DOSSIER.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "line": 36,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "line": 37,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Hodge_v_Jones_merits_1995-10-23.md",
+      "line": 38,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Hodge_v_Jones_merits_1995-10-23.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md",
+      "line": 39,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+      "line": 40,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Libretti_v_United_States_merits_1995-11-07.md",
+      "line": 41,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Libretti_v_United_States_merits_1995-11-07.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "line": 42,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/A_St_P_C_v_B_C_merits_1995-11-20.md",
+      "line": 43,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/A_St_P_C_v_B_C_merits_1995-11-20.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Field_v_Mans_merits_1995-11-28.md",
+      "line": 44,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Field_v_Mans_merits_1995-11-28.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md",
+      "line": 45,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Thompson_v_Keohane_merits_1995-11-29.md",
+      "line": 46,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Thompson_v_Keohane_merits_1995-11-29.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "line": 56,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "line": 57,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Hodge_v_Jones_merits_1995-10-23.md",
+      "line": 58,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Hodge_v_Jones_merits_1995-10-23.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md",
+      "line": 59,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+      "line": 60,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Libretti_v_United_States_merits_1995-11-07.md",
+      "line": 61,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Libretti_v_United_States_merits_1995-11-07.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "line": 62,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/A_St_P_C_v_B_C_merits_1995-11-20.md",
+      "line": 63,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/A_St_P_C_v_B_C_merits_1995-11-20.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Field_v_Mans_merits_1995-11-28.md",
+      "line": 64,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Field_v_Mans_merits_1995-11-28.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md",
+      "line": 65,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Thompson_v_Keohane_merits_1995-11-29.md",
+      "line": 66,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Thompson_v_Keohane_merits_1995-11-29.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Wood_v_Bartholomew_summary_merits_1995-10-10.md#separate-writings",
+      "line": 70,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/records/Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Doe_v_Taylor_ISD_merits_1995-10-16.md#separate-writings",
+      "line": 71,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/records/Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Doe_v_Taylor_ISD_merits_1995-10-16.md#separate-writings",
+      "line": 72,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/records/Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Hodge_v_Jones_merits_1995-10-23.md#separate-writings",
+      "line": 73,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/records/Hodge_v_Jones_merits_1995-10-23.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Libretti_v_United_States_merits_1995-11-07.md#separate-writings",
+      "line": 74,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/records/Libretti_v_United_States_merits_1995-11-07.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Libretti_v_United_States_merits_1995-11-07.md#separate-writings",
+      "line": 75,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/records/Libretti_v_United_States_merits_1995-11-07.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Libretti_v_United_States_merits_1995-11-07.md#separate-writings",
+      "line": 76,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/records/Libretti_v_United_States_merits_1995-11-07.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Libretti_v_United_States_merits_1995-11-07.md#separate-writings",
+      "line": 77,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/records/Libretti_v_United_States_merits_1995-11-07.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/American_Life_League_v_Reno_merits_1995-11-13.md#separate-writings",
+      "line": 78,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/American_Life_League_v_Reno_merits_1995-11-13.md#separate-writings",
+      "line": 79,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/A_St_P_C_v_B_C_merits_1995-11-20.md#separate-writings",
+      "line": 80,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/records/A_St_P_C_v_B_C_merits_1995-11-20.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Field_v_Mans_merits_1995-11-28.md#separate-writings",
+      "line": 81,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/records/Field_v_Mans_merits_1995-11-28.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Thompson_v_Keohane_merits_1995-11-29.md#separate-writings",
+      "line": 82,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/records/Thompson_v_Keohane_merits_1995-11-29.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../../../foundation/COURT_COMPOSITION.md#roster-by-october-term",
+      "line": 90,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "roster-by-october-term",
+      "resolved_target": "foundation/COURT_COMPOSITION.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../../../foundation/COURT_COMPOSITION.md#order-effective-august-3-1994",
+      "line": 108,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "order-effective-august-3-1994",
+      "resolved_target": "foundation/COURT_COMPOSITION.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../../../state/STANDING_STATE.md#4-docket-of-cases-brought-up",
+      "line": 156,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "4-docket-of-cases-brought-up",
+      "resolved_target": "state/STANDING_STATE.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../../../state/STANDING_STATE.md#4-docket-of-cases-brought-up",
+      "line": 157,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "4-docket-of-cases-brought-up",
+      "resolved_target": "state/STANDING_STATE.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../../../state/STANDING_STATE.md#4-docket-of-cases-brought-up",
+      "line": 158,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "4-docket-of-cases-brought-up",
+      "resolved_target": "state/STANDING_STATE.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../../../state/STANDING_STATE.md#4-docket-of-cases-brought-up",
+      "line": 159,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "4-docket-of-cases-brought-up",
+      "resolved_target": "state/STANDING_STATE.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../../../state/STANDING_STATE.md#4-docket-of-cases-brought-up",
+      "line": 160,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "4-docket-of-cases-brought-up",
+      "resolved_target": "state/STANDING_STATE.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../records/Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+      "line": 170,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/records/Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../audit/OPENING_VALIDATION.md",
+      "line": 209,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/audit/OPENING_VALIDATION.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/continuity.md",
+      "target": "../audit/OPENING_VALIDATION.md",
+      "line": 217,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/audit/OPENING_VALIDATION.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../../../state/holdings/INDEX.md",
+      "line": 9,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "",
+      "resolved_target": "state/holdings/INDEX.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../../../state/HOLDINGS.md",
+      "line": 9,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "",
+      "resolved_target": "state/HOLDINGS.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../../../state/STANDARDS_AND_TESTS.md",
+      "line": 9,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "",
+      "resolved_target": "state/STANDARDS_AND_TESTS.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../../../state/STANDING_STATE.md",
+      "line": 9,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "",
+      "resolved_target": "state/STANDING_STATE.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../../../foundation/COURT_COMPOSITION.md",
+      "line": 9,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "",
+      "resolved_target": "foundation/COURT_COMPOSITION.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "line": 23,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "line": 24,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Hodge_v_Jones_merits_1995-10-23.md",
+      "line": 25,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Hodge_v_Jones_merits_1995-10-23.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md",
+      "line": 26,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+      "line": 27,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Libretti_v_United_States_merits_1995-11-07.md",
+      "line": 28,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Libretti_v_United_States_merits_1995-11-07.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_American_Life_League_v_Reno_merits_1995-11-13.md",
+      "line": 29,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_American_Life_League_v_Reno_merits_1995-11-13.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_A_St_P_C_v_B_C_merits_1995-11-20.md",
+      "line": 30,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_A_St_P_C_v_B_C_merits_1995-11-20.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Field_v_Mans_merits_1995-11-28.md",
+      "line": 31,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Field_v_Mans_merits_1995-11-28.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md",
+      "line": 32,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Thompson_v_Keohane_merits_1995-11-29.md",
+      "line": 33,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Thompson_v_Keohane_merits_1995-11-29.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "line": 37,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "line": 38,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Hodge_v_Jones_merits_1995-10-23.md",
+      "line": 39,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Hodge_v_Jones_merits_1995-10-23.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md",
+      "line": 40,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+      "line": 41,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Libretti_v_United_States_merits_1995-11-07.md",
+      "line": 42,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Libretti_v_United_States_merits_1995-11-07.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_American_Life_League_v_Reno_merits_1995-11-13.md",
+      "line": 43,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_American_Life_League_v_Reno_merits_1995-11-13.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_A_St_P_C_v_B_C_merits_1995-11-20.md",
+      "line": 44,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_A_St_P_C_v_B_C_merits_1995-11-20.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Field_v_Mans_merits_1995-11-28.md",
+      "line": 45,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Field_v_Mans_merits_1995-11-28.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md",
+      "line": 46,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Thompson_v_Keohane_merits_1995-11-29.md",
+      "line": 47,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Thompson_v_Keohane_merits_1995-11-29.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../../../foundation/COURT_COMPOSITION.md#roster-by-october-term",
+      "line": 53,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "roster-by-october-term",
+      "resolved_target": "foundation/COURT_COMPOSITION.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../../../foundation/COURT_COMPOSITION.md#order-effective-august-3-1994",
+      "line": 71,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "order-effective-august-3-1994",
+      "resolved_target": "foundation/COURT_COMPOSITION.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../../../state/STANDING_STATE.md#4-docket-of-cases-brought-up",
+      "line": 119,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "4-docket-of-cases-brought-up",
+      "resolved_target": "state/STANDING_STATE.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../../../state/STANDING_STATE.md#4-docket-of-cases-brought-up",
+      "line": 120,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "4-docket-of-cases-brought-up",
+      "resolved_target": "state/STANDING_STATE.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../../../state/STANDING_STATE.md#4-docket-of-cases-brought-up",
+      "line": 121,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "4-docket-of-cases-brought-up",
+      "resolved_target": "state/STANDING_STATE.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../../../state/STANDING_STATE.md#4-docket-of-cases-brought-up",
+      "line": 122,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "4-docket-of-cases-brought-up",
+      "resolved_target": "state/STANDING_STATE.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../../../state/STANDING_STATE.md#4-docket-of-cases-brought-up",
+      "line": 123,
+      "kind": "inline",
+      "category": "legacy-baseline-local",
+      "fragment": "4-docket-of-cases-brought-up",
+      "resolved_target": "state/STANDING_STATE.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+      "line": 156,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+      "status": "target-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Wood_v_Bartholomew_summary_merits_1995-10-10.md#separate-writings",
+      "line": 180,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Doe_v_Taylor_ISD_merits_1995-10-16.md#separate-writings",
+      "line": 181,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Doe_v_Taylor_ISD_merits_1995-10-16.md#separate-writings",
+      "line": 182,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Doe_v_Taylor_ISD_merits_1995-10-16.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Hodge_v_Jones_merits_1995-10-23.md#separate-writings",
+      "line": 183,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Hodge_v_Jones_merits_1995-10-23.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Libretti_v_United_States_merits_1995-11-07.md#separate-writings",
+      "line": 184,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Libretti_v_United_States_merits_1995-11-07.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Libretti_v_United_States_merits_1995-11-07.md#separate-writings",
+      "line": 185,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Libretti_v_United_States_merits_1995-11-07.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Libretti_v_United_States_merits_1995-11-07.md#separate-writings",
+      "line": 186,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Libretti_v_United_States_merits_1995-11-07.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Libretti_v_United_States_merits_1995-11-07.md#separate-writings",
+      "line": 187,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Libretti_v_United_States_merits_1995-11-07.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_American_Life_League_v_Reno_merits_1995-11-13.md#separate-writings",
+      "line": 188,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_American_Life_League_v_Reno_merits_1995-11-13.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_American_Life_League_v_Reno_merits_1995-11-13.md#separate-writings",
+      "line": 189,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_American_Life_League_v_Reno_merits_1995-11-13.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_A_St_P_C_v_B_C_merits_1995-11-20.md#separate-writings",
+      "line": 190,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_A_St_P_C_v_B_C_merits_1995-11-20.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Field_v_Mans_merits_1995-11-28.md#separate-writings",
+      "line": 191,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Field_v_Mans_merits_1995-11-28.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/workspace/neutral-projection.md",
+      "target": "../entering-law/PUBLIC_Thompson_v_Keohane_merits_1995-11-29.md#separate-writings",
+      "line": 192,
+      "kind": "inline",
+      "category": "current-term-local",
+      "fragment": "separate-writings",
+      "resolved_target": "terms/OT1995/entering-law/PUBLIC_Thompson_v_Keohane_merits_1995-11-29.md",
+      "status": "anchor-exists"
+    },
+    {
+      "source": "terms/OT1995/render-inputs/OT_1995CHUNK1.md",
+      "target": "https://static.case.law/f3d/34/html/0870-01.html",
+      "line": 65,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/render-inputs/OT_1995CHUNK1.md",
+      "target": "https://archive.org/details/micro_IA40385013_0583",
+      "line": 65,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/render-inputs/OT_1995CHUNK1.md",
+      "target": "https://static.case.law/f3d/15/html/0443-01.html",
+      "line": 170,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/render-inputs/OT_1995CHUNK1.md",
+      "target": "https://static.case.law/f3d/31/html/0157-01.html",
+      "line": 249,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/render-inputs/OT_1995CHUNK1.md",
+      "target": "https://archive.org/details/micro_IA40385013_0580",
+      "line": 334,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/render-inputs/OT_1995CHUNK1.md",
+      "target": "https://www.supremecourt.gov/pdfs/recordsandbriefs/1000370934/1000370934_008.pdf",
+      "line": 450,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/render-inputs/OT_1995CHUNK1.md",
+      "target": "https://www.supremecourt.gov/pdfs/recordsandbriefs/1000370934/1000370934_009.pdf",
+      "line": 450,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/render-inputs/OT_1995CHUNK1.md",
+      "target": "https://archive.org/details/micro_IA40385013_0616",
+      "line": 588,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/render-inputs/OT_1995CHUNK1.md",
+      "target": "https://www.govinfo.gov/content/pkg/USREPORTS-516/pdf/USREPORTS-516-29.pdf",
+      "line": 588,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/render-inputs/OT_1995CHUNK1.md",
+      "target": "https://archive.org/details/micro_IA40386012_1752",
+      "line": 775,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/render-inputs/OT_1995CHUNK1.md",
+      "target": "https://www.govinfo.gov/content/pkg/STATUTE-108/pdf/STATUTE-108-Pg694.pdf",
+      "line": 775,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/render-inputs/OT_1995CHUNK1.md",
+      "target": "https://www.govinfo.gov/content/pkg/STATUTE-107/pdf/STATUTE-107-Pg1488.pdf",
+      "line": 775,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/render-inputs/OT_1995CHUNK1.md",
+      "target": "https://law.justia.com/cases/louisiana/supreme-court/1994/93-ca-1125-6.html",
+      "line": 846,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/render-inputs/OT_1995CHUNK1.md",
+      "target": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep455/usrep455745/usrep455745.pdf",
+      "line": 846,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/render-inputs/OT_1995CHUNK1.md",
+      "target": "https://archive.org/details/micro_IA40385013_0573",
+      "line": 929,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/render-inputs/OT_1995CHUNK1.md",
+      "target": "https://www.govinfo.gov/content/pkg/USCODE-1994-title11/pdf/USCODE-1994-title11-chap5-subchapII-sec523.pdf",
+      "line": 929,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/render-inputs/OT_1995CHUNK1.md",
+      "target": "https://www.govinfo.gov/content/pkg/USCODE-1994-title29/pdf/USCODE-1994-title29-chap7-subchapII-sec152.pdf",
+      "line": 1005,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/render-inputs/OT_1995CHUNK1.md",
+      "target": "https://archive.org/details/micro_IA40385013_0572",
+      "line": 1005,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/render-inputs/OT_1995CHUNK1.md",
+      "target": "https://openjurist.org/34/f3d/625",
+      "line": 1005,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    },
+    {
+      "source": "terms/OT1995/render-inputs/OT_1995CHUNK1.md",
+      "target": "https://archive.org/details/micro_IA40385013_0614",
+      "line": 1087,
+      "kind": "inline",
+      "category": "external-url-not-fetched",
+      "fragment": "",
+      "status": "not-fetched",
+      "legacy_baseline_url": false
+    }
+  ],
+  "parse_warnings": [],
+  "anchor_method": "GitHub-style rendered heading slugs with duplicate suffixes plus explicit HTML id/name; Markdown heading extraction only",
+  "limitations": [
+    "External URLs and network paths are catalogued without fetching.",
+    "Fragments of non-Markdown targets are reported as not checked, not missing headings.",
+    "Outside-workspace targets are not inspected.",
+    "Generated-heading slugs are a local consistency approximation; unusual inline HTML or Markdown extensions may require manual anchor review."
+  ],
+  "counts": [
+    {
+      "category": "current-term-local",
+      "status": "anchor-exists",
+      "count": 28
+    },
+    {
+      "category": "current-term-local",
+      "status": "target-exists",
+      "count": 103
+    },
+    {
+      "category": "external-url-not-fetched",
+      "status": "not-fetched",
+      "count": 44
+    },
+    {
+      "category": "legacy-baseline-local",
+      "status": "anchor-exists",
+      "count": 21
+    },
+    {
+      "category": "legacy-baseline-local",
+      "status": "target-exists",
+      "count": 13
+    }
+  ],
+  "issues": [],
+  "current_term_issues": [],
+  "legacy_baseline_issues": [],
+  "external_urls_not_fetched": 44,
+  "passed": true
+}

@@ -1,0 +1,7 @@
+# Preflight B exposure log (internal; excluded from clean validation/modeling)
+
+On October 2, 2026, an external web search for `Louisiana v. Mississippi` `McKusick` `report` `1995` and docket 121 Special Master report returned snippets reproducing the historical Supreme Court October 31, 1995 result, rationale, and authorship/lineup from the official United States Reports syllabus, and the later December 4 decree and fees/order entries. This exposure occurred after the neutral gaps were fixed in sources/PREFLIGHT_B_GAPS_BEFORE_EXTERNAL.md and before any modeling. No provisional commitment exists.
+
+The excluded substance included overruling Louisiana's exceptions, adoption of the report/proposed decree, the island-exception rationale and Kennedy/unanimous attribution. The later decree excerpt included boundary coordinates and private-title relief. These snippets do not establish simulated Court acts and will not enter the neutral source addendum. This researcher will gather objective source documents/extracts only for Louisiana and will not substantively repair its framing or independently model it. A fresh neutral validator and separate fresh model must receive only the sanitized source evidence, never this exposure log or the excluded source text.
+
+No Strumpf, Libretti or American Life League historical Supreme Court outcome/lineup has been opened or modeled as of this entry. Archive titles include reporter/docket identifiers only. If additional excluded material is exposed, append the affected matter and circumstances here.

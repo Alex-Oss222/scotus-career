@@ -1,0 +1,140 @@
+{
+  "judgments": [
+    {
+      "component": "reviewed forfeiture judgment",
+      "disposition": "affirm",
+      "support": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [
+        "Stevens"
+      ],
+      "printed_tally": "8–1",
+      "other_positions": [],
+      "other": []
+    }
+  ],
+  "writings": [
+    {
+      "author": "O'Connor",
+      "joiners": [
+        "Stevens",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "scope": "Part I-A",
+      "controlling": true
+    },
+    {
+      "author": "O'Connor",
+      "joiners": [
+        "Stone-Zsela",
+        "Stevens",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "scope": "Part I-B",
+      "controlling": true
+    },
+    {
+      "author": "O'Connor",
+      "joiners": [
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Breyer"
+      ],
+      "scope": "Parts II-A and II-B",
+      "controlling": true
+    },
+    {
+      "author": "O'Connor",
+      "joiners": [
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "scope": "Part III",
+      "controlling": true
+    },
+    {
+      "author": "Stone-Zsela",
+      "joiners": [],
+      "scope": "concurrence in judgment; joins I-B",
+      "controlling": false
+    },
+    {
+      "author": "Souter",
+      "joiners": [],
+      "scope": "concurrence in part and judgment; joins I-A, I-B, III",
+      "controlling": false
+    },
+    {
+      "author": "Ginsburg",
+      "joiners": [],
+      "scope": "concurrence in part and judgment; joins I-A, I-B, III",
+      "controlling": false
+    },
+    {
+      "author": "Stevens",
+      "joiners": [],
+      "scope": "dissent; joins I-A and I-B",
+      "controlling": false
+    }
+  ],
+  "law_summary": "Former Rule 11(f) imposes no independent factual-basis inquiry into this criminal forfeiture sentence. Five Justices classify the particular property-extent determination as sentencing rather than a Sixth Amendment offense-element question and uphold the statutory special-verdict waiver on the affirmative agreement and courtroom assent. The constitutional reservation of four Justices does not displace that majority holding. A separate five-Justice ground rejects a wholesale new proceeding on the existing record while reserving the precise independent-duty question. Knowing waiver remains distinct from competence or silence, and consent cannot enlarge § 853. No general asset eligibility, pension-plan status or displacement of third-party relief is established.",
+  "published_positions": [
+    "Stone-Zsela joins Part I-B and affirms on informed waiver without resolving its constitutional source. Consent cannot enlarge Section 853; a demonstrated defect in an identified remaining defendant-owned portion would require lawful separation or vacatur, without a prior invalidity judgment. These reviewed claims establish no such portion and require no wholesale new proceeding. The positive April findings, valid third-party relief, separate check/IRA/Porter interests and conditional pension limitation retain their scope; no universal asset eligibility is found.",
+    "Souter joins I-A, I-B and III and affirms on actual understanding: ordinary jury advice with the forfeiture allegation and the two earlier jury references supports represented relinquishment here. Affirmatively misleading advice would differ. He reserves the constitutional source, withholds Part II's broader formulation and infers no private advice or automatic new hearing.",
+    "Ginsburg joins I-A, I-B and III and requires awareness of the unusual forfeiture special-verdict right. Prior notices plus represented agreement and express assent suffice here; a bare signature or indictment reading need not. An additional express warning is useful but not indispensable on this record. She reserves the constitutional source and withholds Part II.",
+    "Stevens joins I-A and I-B but would vacate the defendant's forfeiture disposition for independent assurance of statutory authority. The preserved objection and positive April findings reinforce limits that an all-assets bargain cannot supply; he identifies no particular asset as unlawful and erases no third-party return. He does not order a separate waiver inquiry or automatic plea rescission. If an agreement governed by former Rule 11(e)(1)(C) were rejected, Rule 11(e)(4)'s withdrawal opportunity would apply; the existence of this forfeiture agreement alone does not establish that condition."
+  ],
+  "next_stage": "The affirmed judgment returns through the ordinary appellate process. This mandate orders no new hearing or property return. Section 853(n) remains the separate avenue for a person other than the defendant asserting a legal interest in forfeited property. A petition must be filed within thirty days of final publication or receipt of notice, whichever is earlier; the hearing is before the court without a jury. The petitioner must establish by a preponderance of the evidence either a legal right, title or interest rendering forfeiture invalid in whole or part because it was vested in the petitioner rather than the defendant or was superior to the defendant's interest at the time of the acts giving rise to forfeiture, or status as a good-faith purchaser for value who at purchase reasonably lacked cause to believe the property was subject to forfeiture. Upon that determination after the hearing, the court must amend the forfeiture order accordingly. It is not a postjudgment reconsideration route for the defendant. The existing April third-party dispositions and their lawful further proceedings are not vacated by this decision.",
+  "assignment": {
+    "assigner": "Stone-Zsela",
+    "author": "O'Connor",
+    "chief_assignment": true,
+    "current_prior_chief_counts": {
+      "O'Connor": 2,
+      "Ginsburg": 1,
+      "Scalia": 1,
+      "Souter": 1
+    }
+  },
+  "record_filename": "Libretti_v_United_States_merits_1995-11-07.md",
+  "record": "Libretti_v_United_States_merits_1995-11-07.md",
+  "case": "Libretti v. United States, No. 94-7427",
+  "date": "1995-11-07",
+  "disposition_summary": "Affirm the Tenth Circuit on the questions reviewed, 8–1; no new forfeiture proceeding ordered.",
+  "disposition": "Affirm the Tenth Circuit on the questions reviewed, 8–1; no new forfeiture proceeding ordered.",
+  "participants": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "blockers": [],
+  "status": "durably preserved; operator Git commitment pending",
+  "final_root_refresh_reference": "freeze/OCT31_ACTUAL_ENTERING_LAW_REFRESH_RECEIPT.md; actual preceding Chief assignments: OConnor2/Ginsburg1/Scalia1/Souter1; current OConnor assignment adds one."
+}

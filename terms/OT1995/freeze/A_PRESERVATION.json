@@ -1,0 +1,20 @@
+[
+  {
+    "record": "Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+    "sha256": "caa39d674212057ff83850019fdcf69a2617e48c963a5f4665926d0ea3961b98",
+    "public_sha256": "4e4e425cc49e8bc73aec0a647ec45da34075c9e8e3ff9ad44ca0fd7db820b9de",
+    "status": "durably preserved; operator Git commitment pending"
+  },
+  {
+    "record": "Doe_v_Taylor_ISD_merits_1995-10-16.md",
+    "sha256": "efab2ad8f1bc5fcd2ff7828e35d60e2e917163328873873fb43af60cbc29b0e5",
+    "public_sha256": "92bc77e7e66c2fc4d82fa5caa5123b201988602ad2f96c548d4903d4fc180af1",
+    "status": "durably preserved; operator Git commitment pending"
+  },
+  {
+    "record": "Hodge_v_Jones_merits_1995-10-23.md",
+    "sha256": "3e7f4e2d2859bb6c0a4aa21c1e7b689dccb7a94d36e6b8f5ef495d1d86c3b34b",
+    "public_sha256": "c66e6a63265f8e35f2a91c6bc1a59a62c31ec8ef02dd9953c3ee8e036e925d65",
+    "status": "durably preserved; operator Git commitment pending"
+  }
+]

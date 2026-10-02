@@ -1,0 +1,74 @@
+{
+  "scope": "Only bounded public Strumpf/Louisiana drafts; Associate compatibility, not private Stone fidelity or assignment audit",
+  "status": "PASS after explicit Strumpf section363 limitation verified",
+  "drafts": [
+    {
+      "path": "terms/OT1995/runtime/assembly/PUBLIC_DRAFT_Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md",
+      "bytes": 8990,
+      "sha256": "6875412763d6942b7199a19629b025c43c8e9a39dc1ead8e6d2629636921e3bd",
+      "eleven_blocks_exact": true,
+      "controlling_explanations": [
+        {
+          "heading": "Temporary preservation of a claimed setoff",
+          "whitespace_words": 191,
+          "lexical_words": 192,
+          "under_350_both_methods": true
+        },
+        {
+          "heading": "The temporary refusal also does not violate the presented control and collection provisions",
+          "whitespace_words": 170,
+          "lexical_words": 181,
+          "under_350_both_methods": true
+        },
+        {
+          "heading": "The rejected theory cannot sustain the sanctions judgment",
+          "whitespace_words": 97,
+          "lexical_words": 99,
+          "under_350_both_methods": true
+        }
+      ]
+    },
+    {
+      "path": "terms/OT1995/runtime/assembly/PUBLIC_DRAFT_Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+      "bytes": 13451,
+      "sha256": "c180476cedf2732a7cdd618c7513c09d51e59dea97f7785dd073dcbfa43cb117",
+      "eleven_blocks_exact": true,
+      "controlling_explanations": [
+        {
+          "heading": "A navigation-channel shift does not transfer a continuing island between States",
+          "whitespace_words": 177,
+          "lexical_words": 178,
+          "under_350_both_methods": true
+        },
+        {
+          "heading": "The record supports continuity without a new definition of an island",
+          "whitespace_words": 177,
+          "lexical_words": 179,
+          "under_350_both_methods": true
+        },
+        {
+          "heading": "The former-channel line is accepted at the merits stage; a consistent decree must follow",
+          "whitespace_words": 157,
+          "lexical_words": 168,
+          "under_350_both_methods": true
+        },
+        {
+          "heading": "The sovereign boundary does not decide every private title",
+          "whitespace_words": 77,
+          "lexical_words": 82,
+          "under_350_both_methods": true
+        },
+        {
+          "heading": "Disagreement with the resolved evidence does not require a new supplemental hearing",
+          "whitespace_words": 65,
+          "lexical_words": 65,
+          "under_350_both_methods": true
+        }
+      ]
+    }
+  ],
+  "frozen_inputs": {
+    "OT_1995CHUNK1_B_RECONCILED.md": "24bd1b1a734fa45fae83940d8bb236cf70fdae631e7f3973d27c4e4ae704e751",
+    "OT_1995CHUNK1_B_STRUMPF_MANDATE_CLARIFICATION.md": "6d0a74e4c836fa50392ad75f3b2a71d75776c2676e003d02829b202081f95a8b"
+  }
+}

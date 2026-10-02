@@ -1,0 +1,105 @@
+{
+  "record": "Hodge_v_Jones_merits_1995-10-23.md",
+  "case": "Hodge v. Jones",
+  "date": "1995-10-23",
+  "judgments": [
+    {
+      "component": "Individual damages judgment",
+      "disposition": "Affirm",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [],
+      "other": [],
+      "printed_tally": "9-0"
+    },
+    {
+      "component": "Prospective expunction and related declaration",
+      "disposition": "Moot",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [],
+      "other": [],
+      "printed_tally": "9-0"
+    }
+  ],
+  "writings": [
+    {
+      "author": "O'Connor",
+      "joiners": [
+        "Stevens",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "scope": "Part I immunity",
+      "controlling": true
+    },
+    {
+      "author": "O'Connor",
+      "joiners": [
+        "Stone-Zsela",
+        "Stevens",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "scope": "Part II mootness",
+      "controlling": true
+    },
+    {
+      "author": "Stone-Zsela",
+      "joiners": [],
+      "scope": "Damages merits concurrence; joins Part II",
+      "controlling": false
+    }
+  ],
+  "law_summary": "Officials have conduct-date qualified immunity for the preserved 1989–1990 confidential cleared-report retention claim; constitutional and disputed statutory merits remain reserved. Prospective expunction/declaration is moot after the applicable conditional five-year period expired with no contention expunction failed; no destruction finding or retroactive 120-day rule.",
+  "published_positions": [
+    "Stone-Zsela rejects the damages claim on the merits for lack of the claimed deprivation on the accurate confidential-report record, reserving false records, enforceable substantive rights, broad disclosure and actual family restrictions; he joins mootness."
+  ],
+  "next_stage": "Individual damages judgment stands; presented prospective claims moot; no new retention rule, fee ruling, or inaccurate-code adjudication.",
+  "disposition": "Judgment for individual defendants affirmed, 9–0; eight Justices rest damages on qualified immunity, while Stone-Zsela concurs on the merits. Prospective expunction/declaratory relief is moot, unanimously.",
+  "participants": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "blockers": [],
+  "assignment": {
+    "assigner": "Stone-Zsela",
+    "author": "O'Connor",
+    "chief_assignment": true,
+    "source": "Actual assignment statement in canonical Record; manually reviewed."
+  },
+  "status": "durably preserved; operator Git commitment pending"
+}

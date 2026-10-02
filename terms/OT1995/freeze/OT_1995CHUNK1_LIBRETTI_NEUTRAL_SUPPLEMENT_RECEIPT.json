@@ -1,0 +1,25 @@
+{
+  "status": "neutral factual validation complete; independent modeler effect review pending",
+  "artifact": "OT_1995CHUNK1_LIBRETTI_NEUTRAL_SUPPLEMENT.md",
+  "bytes": 12247,
+  "sha256": "a9a22a6d141e75e488bbb89bb3b465f311f5ed8386b695130a3c50fe99db1c60",
+  "original_neutral_sha256": "2f173678051eb2a660898dddef02c1867d7322694d049ae48f76a3b2d65507a3",
+  "source_addendum_sha256": "19fa27fd7e278d1c2d16e29a3740f00bccac14345a07c2b0db5f2f122a6cfbac",
+  "primary_JA_sha256": "1baf69f38aa2e79c6a88bd150c9e364a768fde75087963b4db71857694e0af9e",
+  "independent_reads": [
+    "JA154\u2013164 personal objection and complete December order",
+    "JA288\u2013297 complete closing oral ruling",
+    "JA298\u2013312 complete April order",
+    "JA313\u2013329 complete lower appellate opinion",
+    "Visual complete spreads JA302\u2013303 and318\u2013319",
+    "Complete new source addendum and frozen neutral Libretti section"
+  ],
+  "incidental_reads": "Adjacent JA165\u2013167 sentence pages appeared in page-separated extraction; no unrelated identifiers used or reproduced. No claim of reading the complete adjacent judgment.",
+  "current_Libretti_Supreme_merits_or_comparator_read": false,
+  "Libretti_Stone_position_read": false,
+  "independent_merits_commitments_read": false,
+  "new_Justice_votes": false,
+  "original_files_modified": false,
+  "missing_local_links": [],
+  "correction": "Columbia IRA is JA158 paragraph Q, not JA159."
+}

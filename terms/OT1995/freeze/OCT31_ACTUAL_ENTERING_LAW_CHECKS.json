@@ -1,0 +1,22 @@
+{
+  "status": "Both preserved public bodies match audited drafts exactly",
+  "copies": [
+    {
+      "path": "terms/OT1995/entering-law/PUBLIC_Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md",
+      "bytes": 9300,
+      "sha256": "d45bd2b5247fa31e6f991653540d78dab9ccf743b9d568ccd61dd96fedaf8f4d",
+      "public_body_bytes": 8990,
+      "public_body_sha256": "6875412763d6942b7199a19629b025c43c8e9a39dc1ead8e6d2629636921e3bd",
+      "matches_audited_bytes": true
+    },
+    {
+      "path": "terms/OT1995/entering-law/PUBLIC_Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+      "bytes": 13763,
+      "sha256": "0ee19fb2d7369c0b1337b53173b7731234ed436af1de25a3abae4c141630d3b2",
+      "public_body_bytes": 13451,
+      "public_body_sha256": "c180476cedf2732a7cdd618c7513c09d51e59dea97f7785dd073dcbfa43cb117",
+      "matches_audited_bytes": true
+    }
+  ],
+  "comparison": "Remove only bounded-copy header before first ## Event; no content or whitespace normalization"
+}

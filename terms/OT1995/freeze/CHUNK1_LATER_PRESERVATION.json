@@ -1,0 +1,58 @@
+[
+  {
+    "record": "Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md",
+    "sha256": "d31a90a33c2b133efd0bcec5cdee900b02183f2fbb25e75e09d5e80d8d371746",
+    "public_sha256": "0504642b5ecc933220f8472f88d9bb7090e3e904139261c4b8edfbe56a92a31f",
+    "audit_receipt": "B_TWO_PUBLIC_DRAFT_CHECKS.json",
+    "status": "durably preserved; operator Git commitment pending"
+  },
+  {
+    "record": "Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+    "sha256": "f62f724e96c6aa7710cda169d1dc91f511cfe1b21ac694551080c3fea892cd27",
+    "public_sha256": "05ceb58fc5f17e409ba6b21df7e3968467f74b7098444f5b76c4bc690c06b6e8",
+    "audit_receipt": "B_TWO_PUBLIC_DRAFT_CHECKS.json",
+    "status": "durably preserved; operator Git commitment pending"
+  },
+  {
+    "record": "Libretti_v_United_States_merits_1995-11-07.md",
+    "sha256": "207af1b25e54ce78d12851b640721e2d4fe2bec5e1079a0894cb4051470e7842",
+    "public_sha256": "716c7744c06552e7e02f5f509e389b76d95bc2fefc3d0382e501e74225fc4ddc",
+    "audit_receipt": "LIBRETTI_PUBLIC_DRAFT_CHECKS.json",
+    "status": "durably preserved; operator Git commitment pending"
+  },
+  {
+    "record": "American_Life_League_v_Reno_merits_1995-11-13.md",
+    "sha256": "7dbb1ceb386db85e22deee0b941d6e2346a93e7614653268178faf49fd09e419",
+    "public_sha256": "fae3d4f953926dbef55caa64e22e5839ac4f7d3b8f6b8cfe02b6539314245026",
+    "audit_receipt": "ALL_PUBLIC_DRAFT_CHECKS.json",
+    "status": "durably preserved; operator Git commitment pending"
+  },
+  {
+    "record": "A_St_P_C_v_B_C_merits_1995-11-20.md",
+    "sha256": "8635715fbe0b5bdfdb28124657394044ee2015010dff6e124d163e374eee900f",
+    "public_sha256": "e3f136caa5fda2d5bef1044caa870e26df52e0e277bdaeac7dffd019df2b6a1d",
+    "audit_receipt": "C_PUBLIC_DRAFT_COMPATIBILITY_CHECKS.json",
+    "status": "durably preserved; operator Git commitment pending"
+  },
+  {
+    "record": "Field_v_Mans_merits_1995-11-28.md",
+    "sha256": "8f69bd4dd79f546f3bdb28f49aa511d547201eb4a7b4a21a11aaecac18f59c75",
+    "public_sha256": "ef111b068225e7dca0d55a0e699db4a5120cfed9ea7f2ff1308c3ec5e2072c6f",
+    "audit_receipt": "C_PUBLIC_DRAFT_COMPATIBILITY_CHECKS.json",
+    "status": "durably preserved; operator Git commitment pending"
+  },
+  {
+    "record": "NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md",
+    "sha256": "730734150ba387d87b2bb9750177a0aa655c7b18ccb5873b6f9b12f000223ea3",
+    "public_sha256": "58b90e3f387013cc674bf6b49aa90e813a9ae6de6afe60d18db04b0f369e04ce",
+    "audit_receipt": "C_PUBLIC_DRAFT_COMPATIBILITY_CHECKS.json",
+    "status": "durably preserved; operator Git commitment pending"
+  },
+  {
+    "record": "Thompson_v_Keohane_merits_1995-11-29.md",
+    "sha256": "3851b72ffb31d9c273499749ec7765476a9c6d495ac50f685e331352bdf6e2f6",
+    "public_sha256": "ddd634ff2ccd7f136e9503812b0c717bbabea3bd862a2577aca585725e3b26d3",
+    "audit_receipt": "C_PUBLIC_DRAFT_COMPATIBILITY_CHECKS.json",
+    "status": "durably preserved; operator Git commitment pending"
+  }
+]

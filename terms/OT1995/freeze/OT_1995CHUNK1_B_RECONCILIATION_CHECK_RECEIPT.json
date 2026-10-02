@@ -1,0 +1,242 @@
+{
+  "status": "passed scoped deterministic consistency checks; legal conclusions authored independently of scripts",
+  "context": "Disclosed cross-context fallback; no current Stone input",
+  "eight_justice_rows": {
+    "Strumpf": {
+      "Stevens": 1,
+      "O'Connor": 1,
+      "Scalia": 1,
+      "Kennedy": 1,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 1,
+      "Breyer": 1
+    },
+    "Louisiana": {
+      "Stevens": 1,
+      "O'Connor": 1,
+      "Scalia": 1,
+      "Kennedy": 1,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 1,
+      "Breyer": 1
+    },
+    "Libretti": {
+      "Stevens": 1,
+      "O'Connor": 1,
+      "Scalia": 1,
+      "Kennedy": 1,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 1,
+      "Breyer": 1
+    },
+    "American Life League": {
+      "Stevens": 1,
+      "O'Connor": 1,
+      "Scalia": 1,
+      "Kennedy": 1,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 1,
+      "Breyer": 1
+    }
+  },
+  "coalitions": {
+    "Strumpf S1-S5 reversal": {
+      "support": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "other": [],
+      "counts": [
+        8,
+        0
+      ]
+    },
+    "Louisiana A-E overrule, N deny, T limited deny, P nonreach, I later authentication": {
+      "support": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "other": [],
+      "counts": [
+        8,
+        0
+      ]
+    },
+    "Libretti L1 Rule11f rejection, L3 waivability": {
+      "support": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "other": [],
+      "counts": [
+        8,
+        0
+      ]
+    },
+    "Libretti L2 constitutional exclusion": {
+      "support": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Breyer"
+      ],
+      "other": [
+        "Stevens",
+        "Souter",
+        "Ginsburg"
+      ],
+      "counts": [
+        5,
+        3
+      ]
+    },
+    "Libretti L3 waiver application": {
+      "support": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "other": [
+        "Stevens"
+      ],
+      "counts": [
+        7,
+        1
+      ]
+    },
+    "Libretti L4 additional policy/aggregate appraisal": {
+      "support": [
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "other": [
+        "Stevens",
+        "Scalia",
+        "Thomas"
+      ],
+      "counts": [
+        5,
+        3
+      ]
+    },
+    "Libretti L5 affirmance": {
+      "support": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "other": [
+        "Stevens"
+      ],
+      "counts": [
+        7,
+        1
+      ]
+    },
+    "ALL A1-A4 and A5 facial targeting rejection": {
+      "support": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "other": [],
+      "counts": [
+        8,
+        0
+      ]
+    },
+    "ALL A5 constitutional exemption rejection": {
+      "support": [
+        "Stevens",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "other": [
+        "O'Connor",
+        "Souter"
+      ],
+      "counts": [
+        6,
+        2
+      ]
+    },
+    "ALL A6 RFRA vacatur/remand": {
+      "support": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "other": [
+        "Stevens",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "counts": [
+        5,
+        3
+      ]
+    }
+  },
+  "ALL_substantive_section_unchanged": true,
+  "original_B_commitments_unchanged": true,
+  "runtime_freeze_identical": true,
+  "reconciled_sha256": "24bd1b1a734fa45fae83940d8bb236cf70fdae631e7f3973d27c4e4ae704e751",
+  "inputs_sha256": {
+    "terms/OT1995/freeze/OT_1995CHUNK1_B_NEUTRAL_VALIDATED.md": "2f173678051eb2a660898dddef02c1867d7322694d049ae48f76a3b2d65507a3",
+    "terms/OT1995/freeze/OT_1995CHUNK1_B_COMMITMENTS.md": "cbf0e2f73baaae6cdd6ce88ddd7e6bfc6031ac31f189462e7ac6b925eb870022",
+    "terms/OT1995/freeze/OT_1995CHUNK1_B_COMPARATOR_INPUT.md": "97af993052614521b186832f5b58c34d60aa9c0f878442b7cd8a155664b8024a",
+    "terms/OT1995/freeze/OT_1995CHUNK1_LIBRETTI_NEUTRAL_SUPPLEMENT.md": "a9a22a6d141e75e488bbb89bb3b465f311f5ed8386b695130a3c50fe99db1c60",
+    "terms/OT1995/freeze/OT_1995CHUNK1_LIBRETTI_INDEPENDENT_SUPPLEMENT_EFFECT.md": "fec27a3bab828943ce3be4349bc6546419adcb2a703cbdfbbc3caeb73330498a",
+    "terms/OT1995/freeze/OT_1995CHUNK1_LIBRETTI_NOTICE_NEUTRAL_SUPPLEMENT.md": "5fed56e6d84e80c55fecb43e6fe765edf61b127af7040600e2f6563979357a53",
+    "terms/OT1995/freeze/OT_1995CHUNK1_LIBRETTI_NOTICE_REFRESH_COMMITMENTS.md": "b56d58f130a7450c2fc23a7999fa659945bb96c1c397830ac835214821b55cce"
+  },
+  "open_scope_limits": [
+    "Louisiana later Point3 coordinate authentication",
+    "Libretti broader asset-specific/trial-context findings need specified evidence",
+    "Effective-law refresh before November7/13 events"
+  ]
+}

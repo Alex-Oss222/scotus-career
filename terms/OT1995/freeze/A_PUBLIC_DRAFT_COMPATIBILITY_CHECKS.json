@@ -1,0 +1,31 @@
+{
+  "stage": "bounded public-draft compatibility only; not effective law",
+  "current_private_Stone_read": false,
+  "raw_assembly_records_or_script_read": false,
+  "drafts": {
+    "PUBLIC_DRAFT_Wood_v_Bartholomew_summary_merits_1995-10-10.md": {
+      "bytes": 6547,
+      "sha256": "5b5b5c85ad4769d53a7d80dacc3e3606d0122d68b1f986ae3d14a02d69c5b3d7",
+      "eleven_blocks_exact": true,
+      "stray_question_marks": 0
+    },
+    "PUBLIC_DRAFT_Doe_v_Taylor_ISD_merits_1995-10-16.md": {
+      "bytes": 14377,
+      "sha256": "7484f2c37f33df98867bc8a2795b17b879cb23736bcb1c57c15a3120619c40ee",
+      "eleven_blocks_exact": true,
+      "stray_question_marks": 0
+    },
+    "PUBLIC_DRAFT_Hodge_v_Jones_merits_1995-10-23.md": {
+      "bytes": 9490,
+      "sha256": "2cb44d6e26eaaa4112d8b83a69675789a76737fc41db8e70179d368b31508d36",
+      "eleven_blocks_exact": true,
+      "stray_question_marks": 0
+    }
+  },
+  "audit": {
+    "bytes": 13499,
+    "sha256": "4c64c9255995990d5e4e2dbe6f69def37ca3a67f8f3ed7f18a33cbd12f420934"
+  },
+  "legal_vote_checks": "Manually checked against frozen Associate rows; tools did not determine legality or votes.",
+  "header_check_note": "Line endings normalized; an initial raw-byte regex included CR characters and was corrected before final receipt."
+}

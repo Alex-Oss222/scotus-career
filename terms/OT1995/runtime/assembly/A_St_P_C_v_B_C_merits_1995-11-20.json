@@ -1,0 +1,86 @@
+{
+  "record": "A_St_P_C_v_B_C_merits_1995-11-20.md",
+  "record_filename": "A_St_P_C_v_B_C_merits_1995-11-20.md",
+  "case": "A. St. P. C. v. B. C.",
+  "date": "1995-11-20",
+  "disposition": "Affirm the Louisiana judgment on the federal proof-burden ground, 5–4; return for consistent state implementation.",
+  "disposition_summary": "Affirm the Louisiana judgment on the federal proof-burden ground, 5–4; return for consistent state implementation.",
+  "participants": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "judgments": [
+    {
+      "component": "Submitted merits judgment",
+      "disposition": "Affirm the Louisiana judgment on the federal proof-burden ground, 5–4; return for consistent state implementation.",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "other": [],
+      "other_positions": [],
+      "printed_tally": "5–4"
+    }
+  ],
+  "writings": [
+    {
+      "author": "Stone-Zsela",
+      "joiners": [
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "scope": "Entire Opinion of the Court",
+      "controlling": true
+    },
+    {
+      "author": "O'Connor",
+      "joiners": [
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "scope": "Dissent from heightened-proof rule and affirmance",
+      "controlling": false
+    }
+  ],
+  "blockers": [],
+  "law_summary": "Due process requires clear and convincing proof that a parent sexually abused that parent's child before Section 9:364(D)'s complete ban on visitation and contact is triggered. The statute permits restoration only of supervised visitation after a contradictory (adversarial) hearing establishes both successful completion of a program designed for sexual abusers and the children's best interests. The separate state invalidation of mandatory extra weight for the qualified child's therapist remains undisturbed. Ordinary investigations, emergency protection and lesser custody or supervised-visitation measures retain their existing legal requirements; no abuse finding, unsafe-contact entitlement or new visitation schedule follows.",
+  "published_positions": [
+    "O'Connor, joined by Scalia, Kennedy and Thomas, would reject a categorical clear-and-convincing requirement for §9:364(D): retained parental status, treatment and judicial restoration distinguish termination, and both error risks matter. They preserve scrutiny of duration and procedure and reject enforcement on the old unnoticed finding."
+  ],
+  "next_stage": "Return to the Louisiana courts for lawful implementation consistent with the federal proof requirement and available child protection; no further Supreme Court event is set.",
+  "assignment": {
+    "assigner": "Stone-Zsela",
+    "author": "Stone-Zsela",
+    "basis": "Chief participates in judgment majority; case-specific fit",
+    "count_pending_root": false,
+    "chief_assignment": true,
+    "current_prior_chief_counts": {
+      "O'Connor": 3,
+      "Ginsburg": 1,
+      "Scalia": 1,
+      "Souter": 1,
+      "Kennedy": 1
+    }
+  },
+  "status": "durably preserved; operator Git commitment pending",
+  "final_root_refresh_reference": "freeze/C_FINAL_B_ACTUAL_LAW_REFRESH.md"
+}

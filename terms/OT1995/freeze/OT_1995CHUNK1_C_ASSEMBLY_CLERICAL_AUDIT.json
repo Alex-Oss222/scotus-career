@@ -1,0 +1,323 @@
+{
+  "status": "passed",
+  "scope": "Read-only C candidate Holdings/word ceilings/public topology versus companion JSON and clean-audit public bytes; no legal remodeling or draft edits.",
+  "records": [
+    {
+      "record": "A_St_P_C_v_B_C_merits_1995-11-20.md",
+      "record_sha256": "1aae1735440e69a379237244d8b73f9dc138a3af86b11a90b6d45d5ef78137c9",
+      "json_sha256": "14b84a87f1745578decad3449d9054d9a1ef21cd144a0208d818963884a5f3f6",
+      "raw_holdings_identity": true,
+      "holdings_sha256": "d575b4aac12d7a93186c5cd1e2814431c7f1ac97e39fa7e38c0ee44a2c9a4a42",
+      "explanations": [
+        {
+          "holding": "Clear and convincing proof must precede this statutory all-contact restriction",
+          "words": 277,
+          "ceiling": 350,
+          "passed": true
+        }
+      ],
+      "judgment_public_support": [
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "judgment_public_oppose": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "writings": [
+        {
+          "scope": "Entire Opinion of the Court",
+          "author": "Stone-Zsela",
+          "coalition": [
+            "Stone-Zsela",
+            "Stevens",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "count": 5,
+          "controlling": true,
+          "public_matches_json": true,
+          "majority_requirement_met": true
+        },
+        {
+          "scope": "Dissent from heightened-proof rule and affirmance",
+          "author": "O'Connor",
+          "coalition": [
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Thomas"
+          ],
+          "count": 4,
+          "controlling": false,
+          "public_matches_json": true,
+          "majority_requirement_met": true
+        }
+      ],
+      "clean_public_sha256": "d6b0f53bdd509210344fc9c862b7052bc538f61706ac37d8ecaabb5f9ab560b7",
+      "clean_public_hash_matches": true,
+      "current_projection_matches_clean_public": true,
+      "initial_assembly_receipt_matches": false,
+      "errors": [],
+      "notes": [
+        "Root workspace law_summary must retain parent abuse of own child/children, contradictory hearing, successful sexual-abuser treatment, and best-interests finding for supervised-visitation restoration. Current compact JSON omits those complete qualifiers; canonical/public Holdings contain them.",
+        "Original C_ASSEMBLY_RECEIPT Record hash predates subsequent root edits; final receipt must use current Record bytes. The clean-audit public-copy hash is separately verified here."
+      ]
+    },
+    {
+      "record": "Field_v_Mans_merits_1995-11-28.md",
+      "record_sha256": "40c7bd9fe2712b7ecdb232bddf7d181c20666fffe35b802ad3a411a2c724350d",
+      "json_sha256": "a53e9324bbb881e4b49b684de396c0e568347fab07ce6ffdc72676e4453a9b54",
+      "raw_holdings_identity": true,
+      "holdings_sha256": "32b4ab58370ce1be9cc9ecf43ce420b437247095cc794c619f62a97d23c69948",
+      "explanations": [
+        {
+          "holding": "Part I — Actual fraud requires actual and justifiable reliance",
+          "words": 227,
+          "ceiling": 350,
+          "passed": true
+        },
+        {
+          "holding": "Part II — The lower courts must apply that standard before a final debt determination",
+          "words": 183,
+          "ceiling": 350,
+          "passed": true
+        }
+      ],
+      "judgment_public_support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "judgment_public_oppose": [
+        "Scalia",
+        "Breyer"
+      ],
+      "writings": [
+        {
+          "scope": "Part I, actual and justifiable reliance",
+          "author": "Souter",
+          "coalition": [
+            "Souter",
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "count": 9,
+          "controlling": true,
+          "public_matches_json": true,
+          "majority_requirement_met": true
+        },
+        {
+          "scope": "Part II, application and vacatur/remand",
+          "author": "Souter",
+          "coalition": [
+            "Souter",
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Thomas",
+            "Ginsburg"
+          ],
+          "count": 7,
+          "controlling": true,
+          "public_matches_json": true,
+          "majority_requirement_met": true
+        },
+        {
+          "scope": "Dissent from Part II and judgment; joins Part I",
+          "author": "Breyer",
+          "coalition": [
+            "Breyer",
+            "Scalia"
+          ],
+          "count": 2,
+          "controlling": false,
+          "public_matches_json": true,
+          "majority_requirement_met": true
+        }
+      ],
+      "clean_public_sha256": "d51d692a8e1ca76c890cfb2722ee30341858d9229b67236818b275a255764e46",
+      "clean_public_hash_matches": true,
+      "current_projection_matches_clean_public": true,
+      "initial_assembly_receipt_matches": false,
+      "errors": [],
+      "notes": [
+        "Original C_ASSEMBLY_RECEIPT Record hash predates subsequent root edits; final receipt must use current Record bytes. The clean-audit public-copy hash is separately verified here."
+      ]
+    },
+    {
+      "record": "NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md",
+      "record_sha256": "ece9ebfe61950d3a9d79ffaf1156144b145119922c73fbcc65d801d6b3a7caab",
+      "json_sha256": "5d5d905a0e1e52ba1fbd5212e0c2ab77c8e0b0bce9c21a2ce48b305bcf6cdabc",
+      "raw_holdings_identity": true,
+      "holdings_sha256": "97459b9fdef715faec1a7e6246ad3bbd4c4bd36054945c08de34acbf6398d8e5",
+      "explanations": [
+        {
+          "holding": "Paid union organizing does not categorically defeat employee status",
+          "words": 261,
+          "ceiling": 350,
+          "passed": true
+        },
+        {
+          "holding": "Existing statutory exclusions and individual-remedy requirements remain intact",
+          "words": 105,
+          "ceiling": 350,
+          "passed": true
+        }
+      ],
+      "judgment_public_support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "judgment_public_oppose": [],
+      "writings": [
+        {
+          "scope": "Entire Opinion of the Court",
+          "author": "Ginsburg",
+          "coalition": [
+            "Ginsburg",
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Breyer"
+          ],
+          "count": 9,
+          "controlling": true,
+          "public_matches_json": true,
+          "majority_requirement_met": true
+        }
+      ],
+      "clean_public_sha256": "d48f67b4301518b031fd89ce3d5da293b9f668e09cc8569ab6df4e0ac8d703b4",
+      "clean_public_hash_matches": true,
+      "current_projection_matches_clean_public": true,
+      "initial_assembly_receipt_matches": false,
+      "errors": [],
+      "notes": [
+        "Original C_ASSEMBLY_RECEIPT Record hash predates subsequent root edits; final receipt must use current Record bytes. The clean-audit public-copy hash is separately verified here."
+      ]
+    },
+    {
+      "record": "Thompson_v_Keohane_merits_1995-11-29.md",
+      "record_sha256": "0f37720b48907b80a6eb9e16193846744c3d2d3e2d8e03921de73a084acdbbed",
+      "json_sha256": "80d601cae776e6af1030f0734727cd9d5754717da455afb76fe5dbc6a323e1fa",
+      "raw_holdings_identity": true,
+      "holdings_sha256": "ef5bbe66f81a41e6bc9830a4a16b0e97fcb6ceaade1388bcb80959e13880ca7b",
+      "explanations": [
+        {
+          "holding": "Ultimate Miranda custody requires independent federal review",
+          "words": 226,
+          "ceiling": 350,
+          "passed": true
+        },
+        {
+          "holding": "The statutory protection of historical factfinding remains unchanged",
+          "words": 207,
+          "ceiling": 350,
+          "passed": true
+        }
+      ],
+      "judgment_public_support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "judgment_public_oppose": [
+        "Thomas"
+      ],
+      "writings": [
+        {
+          "scope": "Entire Opinion of the Court",
+          "author": "O'Connor",
+          "coalition": [
+            "O'Connor",
+            "Stone-Zsela",
+            "Stevens",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "count": 8,
+          "controlling": true,
+          "public_matches_json": true,
+          "majority_requirement_met": true
+        },
+        {
+          "scope": "Dissent on statutory classification and judgment",
+          "author": "Thomas",
+          "coalition": [
+            "Thomas"
+          ],
+          "count": 1,
+          "controlling": false,
+          "public_matches_json": true,
+          "majority_requirement_met": true
+        }
+      ],
+      "clean_public_sha256": "5da77879d73e0d8a6f21e655886ea07793fd177989d3aea80fd332b005231981",
+      "clean_public_hash_matches": true,
+      "current_projection_matches_clean_public": true,
+      "initial_assembly_receipt_matches": true,
+      "errors": [],
+      "notes": []
+    }
+  ],
+  "clean_audit_sha256": "cbafc33b3bbf8a23550258b421fc3fe90c99b7eda1d9c678363d45cf3a2cb157",
+  "immutable_inputs": [
+    {
+      "path": "terms/OT1995/freeze/OT_1995CHUNK1_C_COMMITMENTS.md",
+      "sha256": "78e3e0cc2ab6d43ab1feb19802416013036589177e64bcdeabd48882999eeb4b",
+      "matches_clean_audit": true
+    },
+    {
+      "path": "terms/OT1995/freeze/OT_1995CHUNK1_C_NEUTRAL_VALIDATED.md",
+      "sha256": "41aaff0a1ed3d92a053d29ff80e06f77a1c4fde362af0ef687b58db06b315063",
+      "matches_clean_audit": true
+    },
+    {
+      "path": "terms/OT1995/freeze/OT_1995CHUNK1_C_RECONCILED.md",
+      "sha256": "212f3e95d40256afa10e8989ef33470d15bffabfb0123de8e464c9be2117d691",
+      "matches_clean_audit": true
+    },
+    {
+      "path": "terms/OT1995/freeze/OT_1995CHUNK1_C_TOWN_MANDATE_CLARIFICATION.md",
+      "sha256": "4c8b3e5e644606a0c579d1245471f7a618c59a2f2a32714128013b0008773831",
+      "matches_clean_audit": true
+    }
+  ],
+  "pending": "Root actual intervening B-law and assignment/status refresh; AStPC workspace-summary qualifier completion; final candidate receipt regeneration."
+}

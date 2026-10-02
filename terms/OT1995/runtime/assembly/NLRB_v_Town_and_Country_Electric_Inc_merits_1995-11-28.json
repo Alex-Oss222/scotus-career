@@ -1,0 +1,78 @@
+{
+  "record": "NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md",
+  "record_filename": "NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md",
+  "case": "NLRB v. Town & Country Electric, Inc.",
+  "date": "1995-11-28",
+  "disposition": "Reverse the Eighth Circuit categorical employee-exclusion ruling and remand, 9–0, reserving other liability, individual coverage and remedy questions.",
+  "disposition_summary": "Reverse the Eighth Circuit categorical employee-exclusion ruling and remand, 9–0, reserving other liability, individual coverage and remedy questions.",
+  "participants": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "judgments": [
+    {
+      "component": "Submitted merits judgment",
+      "disposition": "Reverse the Eighth Circuit categorical employee-exclusion ruling and remand, 9–0, reserving other liability, individual coverage and remedy questions.",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [],
+      "other": [],
+      "other_positions": [],
+      "printed_tally": "9–0"
+    }
+  ],
+  "writings": [
+    {
+      "author": "Ginsburg",
+      "joiners": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Breyer"
+      ],
+      "scope": "Entire Opinion of the Court",
+      "controlling": true
+    }
+  ],
+  "blockers": [],
+  "law_summary": "Union compensation and compatible organizing obligations do not categorically exclude a worker or applicant from NLRA employee status. The Board's actual inclusion is permissible within the statute and common-law service principles; neither mandatory coverage of every organizer nor misconduct immunity is established. Existing exclusions, actual control, qualifications, liability and individual remedy requirements continue to govern.",
+  "published_positions": [],
+  "next_stage": "Remand to the Eighth Circuit for proper consideration of remaining grounds, with any appropriate Board or compliance proceedings; no automatic award or further Supreme Court event is set.",
+  "assignment": {
+    "assigner": "Stone-Zsela",
+    "author": "Ginsburg",
+    "basis": "Chief participates in judgment majority; case-specific fit",
+    "count_pending_root": false,
+    "chief_assignment": true,
+    "current_prior_chief_counts": {
+      "O'Connor": 3,
+      "Ginsburg": 1,
+      "Scalia": 1,
+      "Souter": 1,
+      "Kennedy": 1,
+      "Stone-Zsela": 1
+    }
+  },
+  "status": "durably preserved; operator Git commitment pending",
+  "final_root_refresh_reference": "freeze/C_FINAL_B_ACTUAL_LAW_REFRESH.md, freeze/C_NOV20_ACTUAL_LAW_REFRESH.md"
+}

@@ -1,0 +1,26 @@
+{
+  "status": "PASS; no changed C Associate grounds, joins or remedies",
+  "copies": [
+    {
+      "path": "terms/OT1995/entering-law/PUBLIC_American_Life_League_v_Reno_merits_1995-11-13.md",
+      "bytes": 37360,
+      "sha256": "6c7047b692c03a2a3b5efb808b3d55404cc7858ffb8f49a070695dd6bc858a76",
+      "public_body_bytes": 37078,
+      "public_body_sha256": "e16aefd87fe8c438d0f45a4f3bb4ea621de87540446b685c9bd0eb6b7af872e2",
+      "matches_audited_bytes": true
+    }
+  ],
+  "comparison": "Remove only bounded-copy header before first ## Event; no normalization",
+  "reading": "Full actual preserved ALL public copy read; no raw Record, private Stone input or assembly script",
+  "cumulative_receipts": [
+    "A_ACTUAL_ENTERING_LAW_REFRESH_RECEIPT.md",
+    "OCT31_ACTUAL_ENTERING_LAW_REFRESH_RECEIPT.md",
+    "NOV07_ACTUAL_ENTERING_LAW_REFRESH_RECEIPT.md"
+  ],
+  "frozen_C_inputs_unchanged": {
+    "OT_1995CHUNK1_C_COMMITMENTS.md": "78e3e0cc2ab6d43ab1feb19802416013036589177e64bcdeabd48882999eeb4b",
+    "OT_1995CHUNK1_C_RECONCILED.md": "212f3e95d40256afa10e8989ef33470d15bffabfb0123de8e464c9be2117d691",
+    "OT_1995CHUNK1_C_TOWN_MANDATE_CLARIFICATION.md": "4c8b3e5e644606a0c579d1245471f7a618c59a2f2a32714128013b0008773831"
+  },
+  "chronology": "Actual law through November13 considered for all four C matters; later C actual-law refreshes remain separate; November28 same-date matters retain common baseline"
+}

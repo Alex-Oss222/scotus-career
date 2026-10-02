@@ -1,0 +1,27 @@
+# Final chunk 1 tooling review
+
+Read-only review of `runtime/no_git_tools.py`, `finalize_chunk1.py`, `refresh_chunk1_workspace.py`, `preserve_chunk1_group.py` and `check_chunk1.py`, plus their complete called repository sources: `tools/rebuild_ledger.py`, `rebuild_manifest.py`, `build_render_input.py`, `check_term.py`, `holdings_volumes.py` and `split_chunk.py`. No finalization or preservation helper was executed, no helper was modified by this reviewer, and no merits issue was reopened. An in-memory call to the manifest parser/refresh functions performed no file writes. This report is the review's only persistent artifact.
+
+## Concrete defects
+
+### Resolved: review receipt mistaken for companion metadata
+
+`runtime/assembly/ALL_ASSEMBLY_RECEIPT.json` contains `record: American_Life_League_v_Reno_merits_1995-11-13.md` but is not that Record's companion. The original broad enumerators in both workspace refresh and chunk checking would select it once the canonical ALL Record existed. Refresh would fail on the missing `law_summary`; checking would fail on the missing `date`.
+
+Root added the exact companion-name discriminator in both helpers: the JSON stem plus `.md` must equal its `record` field. Direct rereading confirms the fix. Read-only enumeration now accepts exactly eleven real companions, all with the required projection and arithmetic fields, and ignores `ALL_ASSEMBLY_RECEIPT.json`. The real ALL companion remains included. The checker's canonical-record completeness comparison remains present. No unresolved metadata-discovery defect remains.
+
+### Resolved: stale December 4 stage description after October 31 preservation
+
+`workspace/manifest.md`'s December 4 Louisiana decree row says the decree follows the “still-unprocessed October 31 exceptions event.” The October 31 exceptions Record is now preserved. The refresh helper's stage-update loop only processes `OT_1995CHUNK1`, so it leaves that chunk 2 phrase unchanged. The rebuild tool correctly preserves nonstatus cells and therefore does not cure it either.
+
+Root amended the common workspace transformation to update this future event's current-stage description, the dependency table and the shared Louisiana/Maine source-limit paragraph. A read-only extraction and invocation of that pure transformation confirmed removal of the obsolete phrase while retaining the December 4 identity, date and open status. Both Point 3 latitudes (32°48′47″N and 32°49′47″N), the common longitude (91°09′37″W), and the required P-32D, LA-1A, P-32E, counterclaim paragraph 5 or authenticated-correction sources are retained. The existing final neutral-link substitution converts the new October 31 Record reference to its bounded public copy. This is a procedural projection correction, not a new decree or merits disposition. No unresolved defect remains in this finding.
+
+## Verified boundaries and retained data
+
+- The inspected finalizer calls Python scripts with `-B` and an inherited `PYTHONDONTWRITEBYTECODE=1`. Its ledger adapter replaces `git_added` before `main`; its check adapter replaces `git_object_exists` before `main`. Those are the only Git subprocess sites in the inspected repository call graph. The downstream Holdings `check` and runtime split `--check` branches return without writing. No reachable Git invocation remains in this finalization route; Git verification is expressly deferred, not represented as passed.
+- Every write in this configured route targets `terms/OT1995/`: ledger, manifest, continuity, neutral projection, bounded entering-law public copies, Record preservation and companion metadata, review/tool receipts, and the chunk Render Input. The current companion filenames are single safe basenames. No public `output/` writer is called. The current output directory has no Markdown render.
+- The in-memory manifest refresh retained all 115 scheduled inventory rows and all first six identity/date/type cells unchanged from the opening manifest. Its separate carryover section remained byte-identical: Wyoming v. Oklahoma; United States v. Louisiana (Alabama and Mississippi Boundary Case); Delaware v. New York; Nebraska v. Wyoming; Kansas v. Colorado. The workspace refresh retains their snapshot sections outside the replaced current-law and position sections.
+- The in-memory Tuggle status is exactly `Stopped: ` plus the full `BLOCKERS.json` blocker. There is no Tuggle Record. Finalization also requires exactly eleven canonical Records, excludes a Tuggle filename, and passes the same full blocker to both manifest and Render Input generation. The neutral projection uses the separate sanitized `neutral_blocker` and supplies no Tuggle law or completed event.
+- `build_render_input.record_data` copies only the suffix following the exact `## Public Projection` marker; case/date metadata comes from the four-label opening interface. It adds only chunk metadata, exact stopped-matter text and source-record comments. The term check compares every resulting body against its Record projection and verifies manifest coverage. No audit annex, private Stone material or independent holding text is added by the builder.
+
+No unresolved concrete tooling defect remains in the reviewed route. The preservation-complete gate was not yet present when first reviewed; that is expected staging, not a defect or a claim that finalization has run. Final execution results and post-generation identity checks remain the root operator's work.

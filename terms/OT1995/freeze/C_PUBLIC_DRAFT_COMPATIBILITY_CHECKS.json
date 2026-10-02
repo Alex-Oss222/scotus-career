@@ -1,0 +1,57 @@
+{
+  "scope": "Bounded public C drafts; no raw assembly/private Stone",
+  "status": "All four final drafts pass scoped substantive compatibility audit; pending actual later B entering-law refresh before C preservation",
+  "public_drafts": [
+    {
+      "path": "terms/OT1995/runtime/assembly/PUBLIC_DRAFT_A_St_P_C_v_B_C_merits_1995-11-20.md",
+      "bytes": 8972,
+      "sha256": "d6b0f53bdd509210344fc9c862b7052bc538f61706ac37d8ecaabb5f9ab560b7",
+      "eleven_blocks_exact": true
+    },
+    {
+      "path": "terms/OT1995/runtime/assembly/PUBLIC_DRAFT_Field_v_Mans_merits_1995-11-28.md",
+      "bytes": 10734,
+      "sha256": "d51d692a8e1ca76c890cfb2722ee30341858d9229b67236818b275a255764e46",
+      "eleven_blocks_exact": true
+    },
+    {
+      "path": "terms/OT1995/runtime/assembly/PUBLIC_DRAFT_NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md",
+      "bytes": 9175,
+      "sha256": "d48f67b4301518b031fd89ce3d5da293b9f668e09cc8569ab6df4e0ac8d703b4",
+      "eleven_blocks_exact": true
+    },
+    {
+      "path": "terms/OT1995/runtime/assembly/PUBLIC_DRAFT_Thompson_v_Keohane_merits_1995-11-29.md",
+      "bytes": 10379,
+      "sha256": "5da77879d73e0d8a6f21e655886ea07793fd177989d3aea80fd332b005231981",
+      "eleven_blocks_exact": true
+    }
+  ],
+  "immutable_inputs": [
+    {
+      "path": "terms/OT1995/freeze/OT_1995CHUNK1_C_COMMITMENTS.md",
+      "bytes": 41306,
+      "sha256": "78e3e0cc2ab6d43ab1feb19802416013036589177e64bcdeabd48882999eeb4b",
+      "unchanged": true
+    },
+    {
+      "path": "terms/OT1995/freeze/OT_1995CHUNK1_C_NEUTRAL_VALIDATED.md",
+      "bytes": 51020,
+      "sha256": "41aaff0a1ed3d92a053d29ff80e06f77a1c4fde362af0ef687b58db06b315063",
+      "unchanged": true
+    },
+    {
+      "path": "terms/OT1995/freeze/OT_1995CHUNK1_C_RECONCILED.md",
+      "bytes": 42109,
+      "sha256": "212f3e95d40256afa10e8989ef33470d15bffabfb0123de8e464c9be2117d691",
+      "unchanged": true
+    },
+    {
+      "path": "terms/OT1995/freeze/OT_1995CHUNK1_C_TOWN_MANDATE_CLARIFICATION.md",
+      "bytes": 1882,
+      "sha256": "4c8b3e5e644606a0c579d1245471f7a618c59a2f2a32714128013b0008773831",
+      "unchanged": true
+    }
+  ],
+  "legal_judgment": "Manual scoped audit in C_PUBLIC_DRAFT_COMPATIBILITY_AUDIT.md; tools verify identities and structure, not legal meaning"
+}

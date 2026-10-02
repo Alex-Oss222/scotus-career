@@ -1,0 +1,48 @@
+{
+  "scope": "Draft structural checks only. Root owns the first two files after handoff; later root edits require refreshed checks. No legal meaning determined by script.",
+  "records": [
+    {
+      "file": "Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md",
+      "sha256": "d31a90a33c2b133efd0bcec5cdee900b02183f2fbb25e75e09d5e80d8d371746",
+      "errors": [],
+      "explanation_word_counts": [
+        191,
+        170,
+        97
+      ],
+      "headings": 11,
+      "holding_identity": true,
+      "json_type_and_arithmetic": true
+    },
+    {
+      "file": "Louisiana_v_Mississippi_original_exceptions_1995-10-31.md",
+      "sha256": "f62f724e96c6aa7710cda169d1dc91f511cfe1b21ac694551080c3fea892cd27",
+      "errors": [],
+      "explanation_word_counts": [
+        177,
+        177,
+        157,
+        77,
+        65
+      ],
+      "headings": 11,
+      "holding_identity": true,
+      "json_type_and_arithmetic": true
+    },
+    {
+      "file": "Libretti_v_United_States_merits_1995-11-07.md",
+      "sha256": "39230d9832b187d79691d7983bb1312b696a8ad38b9fda211db12e4d2cb40a21",
+      "errors": [],
+      "explanation_word_counts": [
+        250,
+        152,
+        147,
+        170,
+        247
+      ],
+      "headings": 11,
+      "holding_identity": true,
+      "json_type_and_arithmetic": true
+    }
+  ]
+}

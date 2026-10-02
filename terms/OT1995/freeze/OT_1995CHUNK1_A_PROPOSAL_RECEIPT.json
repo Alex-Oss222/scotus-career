@@ -1,0 +1,44 @@
+{
+  "artifact": "freeze\\OT_1995CHUNK1_A_RECONCILIATION_PROPOSAL_CERT_EXPOSED.md",
+  "status": "proposal only; authoritative audit pending",
+  "sha256": "6af0c5d56c0bac5a321462aab7d1aba9b891641b6b15c03bbe442b1700ceb529",
+  "bytes": 36837,
+  "runtime_freeze_identical": true,
+  "missing_local_links": [],
+  "justice_rows": {
+    "Stevens": 4,
+    "O'Connor": 4,
+    "Scalia": 4,
+    "Kennedy": 4,
+    "Souter": 4,
+    "Thomas": 4,
+    "Ginsburg": 4,
+    "Breyer": 4
+  },
+  "initial_frozen_inputs_preserved": {
+    "OT_1995CHUNK1_A_NEUTRAL_VALIDATED.md": "01fdb030ec167fb378b193f332226d9f2ff449c4e4ad2adf9b3d0f262a53ffd5",
+    "OT_1995CHUNK1_A_COMMITMENTS.md": "49e4eb7f51daea8b6fbfb26272b602bd6c389f8d934cb7fb350e6e10f659bd93",
+    "OT_1995CHUNK1_A_COMPARATOR_INPUT.md": "b42a29d48eb1685bfbc3735b27db4b39d286ce816da6020cb308abc023203b55"
+  },
+  "read_extent": {
+    "A_neutral_A_commitments_A_comparator": "Complete substantive documents read in bounded passages; no initial bytes changed.",
+    "Wood_516_US_1_9": "Full official bounded report: syllabus, per curiam, sole final dissent-from-summary-disposition notation.",
+    "Tuggle_516_US_10_15": "Full official bounded report: syllabus, per curiam including both footnotes, entire Scalia concurrence.",
+    "Doe_Hodge": "Complete relevant official order pages at 513 U.S.815 and 1018; no merits writing or disclosed individual cert poll exists in those entries.",
+    "failed_sources": "Cornell docket-syllabus attempts unavailable. Individual GovInfo 513-815/1018 requests returned Page Not Found and are not evidence.",
+    "incidental_bound_volume_hits": "Mechanical name search returned irrelevant table-of-cases pages and incidental Schlup/Harris passages; none used as authority.",
+    "cert_exposure": "Excluded Stone cert material read under subsequently corrected handoff. Exact content isolated in A_RECON_CERT_EXPOSURE.md. Proposal omits content and aggregate totals; clean final audit required."
+  },
+  "primary_local_sources": {
+    "A_RECON_Wood.pdf": "d71108e8d2e0decd6e874dfff38516c61609338f98374a7bce72e5b98f23de93",
+    "A_RECON_Wood.txt": "c56d4ff379bc1f1289e621b1506a0de59d773c236392700cfe891de442d8e3d4",
+    "A_RECON_Tuggle.pdf": "b17cc4abf8460cedb84710b52591e2ed2b25eee07cf8da145078abc2f74f8a01",
+    "A_RECON_Tuggle.txt": "a69578f840d8c650f04bbe4911bb05a2c7e1d625d463cdcb2fbdb6813abdf296",
+    "A_RECON_Doe_Hodge_cert_orders.txt": "9f25e1c24b116bf9ffa89e676d6400457f52afbd8b50ded5ab2ba0441452bd9b"
+  },
+  "merits_Stone_read": false,
+  "private_core_read": false,
+  "B_C_comparator_read": false,
+  "new_neutral_factual_findings": false,
+  "authorship_assignment": false
+}

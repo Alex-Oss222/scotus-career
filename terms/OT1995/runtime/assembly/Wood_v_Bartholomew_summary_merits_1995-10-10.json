@@ -1,0 +1,64 @@
+{
+  "record": "Wood_v_Bartholomew_summary_merits_1995-10-10.md",
+  "case": "Wood v. Bartholomew",
+  "date": "1995-10-10",
+  "judgments": [
+    {
+      "component": "Summary reversal and remand",
+      "disposition": "Reverse and remand",
+      "support": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "oppose": [
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "other": [],
+      "printed_tally": "5-4"
+    }
+  ],
+  "writings": [
+    {
+      "author": "O'Connor",
+      "joiners": [
+        "Stone-Zsela",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "scope": "All controlling holdings",
+      "controlling": true
+    }
+  ],
+  "law_summary": "Brady reaches supported lawful investigative/preparation uses of excluded information; collective confidence-based materiality still requires a supported evidentiary consequence. The speculative polygraph investigation theory does not sustain the conditional writ; independent claims and defenses remain open.",
+  "published_positions": [
+    "Stevens, Souter, Ginsburg, and Breyer oppose summary disposition and favor plenary consideration; ultimate merits remain open, and no substantive separate opinion is filed."
+  ],
+  "next_stage": "Remand to conform the lower implementing order and address only independently remaining, procedurally available claims.",
+  "disposition": "Certiorari granted; Ninth Circuit reversed and remanded, 5–4 on summary disposition. The four opposing Justices leave the ultimate merits open.",
+  "participants": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "blockers": [],
+  "assignment": {
+    "assigner": "Stone-Zsela",
+    "author": "O'Connor",
+    "chief_assignment": true,
+    "source": "Actual assignment statement in canonical Record; manually reviewed."
+  },
+  "status": "durably preserved; operator Git commitment pending"
+}

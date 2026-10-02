@@ -1,0 +1,152 @@
+{
+  "status": "Complete historical reading and four-matter reconciliation frozen after both Libretti supplemental validation/model cycles.",
+  "scope": "B historical sources only. No present Stone supplement or opinion assignment. Same-matter Supreme text first used only after independent freeze, except earlier logged Louisiana source exposure.",
+  "cutoffs": {
+    "Strumpf": "1995-10-31",
+    "Louisiana": "1995-10-31",
+    "Libretti": "1995-11-07",
+    "American Life League": "1995-11-13"
+  },
+  "full_reading": [
+    {
+      "case": "Citizens Bank of Maryland v. Strumpf",
+      "docket": "94-1340",
+      "date": "1995-10-31",
+      "sources": [
+        "https://www.law.cornell.edu/supct/html/94-1340.ZS.html",
+        "https://www.law.cornell.edu/supct/html/94-1340.ZO.html",
+        "https://www.govinfo.gov/content/pkg/USREPORTS-516/pdf/USREPORTS-516-16.pdf"
+      ],
+      "extent": "Entire Cornell syllabus and sole opinion, including final merits footnote. Entire official report 516 U.S.16-21, all six PDF pages, including counsel/amicus note. No separate writing.",
+      "historical_metadata": "Scalia opinion; unanimous Court; reversed. Historical author is not an assignment."
+    },
+    {
+      "case": "Louisiana v. Mississippi",
+      "docket": "121 Original",
+      "date": "1995-10-31",
+      "sources": [
+        "https://www.law.cornell.edu/supct/html/121ORIG.ZS.html",
+        "https://www.law.cornell.edu/supct/html/121ORIG.ZO.html",
+        "https://www.govinfo.gov/content/pkg/USREPORTS-516/pdf/USREPORTS-516-22.pdf"
+      ],
+      "extent": "Entire Cornell syllabus and sole opinion; entire official report 516 U.S.22-28, all seven PDF pages. No opinion footnote or separate writing.",
+      "historical_metadata": "Kennedy opinion; unanimous Court; exceptions overruled; report/proposed decree adopted. Historical author is not an assignment."
+    },
+    {
+      "case": "Libretti v. United States",
+      "docket": "94-7427",
+      "date": "1995-11-07",
+      "sources": [
+        "https://www.law.cornell.edu/supct/html/94-7427.ZS.html",
+        "https://www.law.cornell.edu/supct/html/94-7427.ZO.html",
+        "https://www.law.cornell.edu/supct/html/94-7427.ZC.html",
+        "https://www.law.cornell.edu/supct/html/94-7427.ZC1.html",
+        "https://www.law.cornell.edu/supct/html/94-7427.ZD.html",
+        "https://www.govinfo.gov/content/pkg/USREPORTS-516/pdf/USREPORTS-516-29.pdf"
+      ],
+      "extent": "Entire available Cornell syllabus, Court opinion, Souter concurrence, Ginsburg concurrence and Stevens dissent, including all supplied footnotes; then entire official report 516 U.S.29-58, all thirty PDF pages, in bounded sequential reads. Official pp52-55 also visually inspected. Official text supplies opening paragraphs missing from Cornell separate-writing HTML; full-writing verification relies on official report.",
+      "historical_metadata": "OConnor Court opinion. I/II-A joined Rehnquist, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. II-B/II-C joined Rehnquist, Kennedy, Souter, Ginsburg, Breyer. III/IV joined Rehnquist, Scalia, Kennedy, Thomas, Breyer. Souter and Ginsburg each concur in part and judgment. Stevens dissents but expressly agrees Rule11f creates no forfeiture factual-basis duty. Affirmed. No historical author/joinder imported as current assignment."
+    }
+  ],
+  "Cornell_completeness_correction": "The fetched ZC HTML lacks the opening paragraph explaining Souter constitutional avoidance and general-jury-advice view; ZC1 lacks the opening paragraph announcing Ginsburg knowledge qualification and exact join; ZD lacks Stevens opening agreement with Rule11f and Count6 conclusions. These are source omissions, not inferred changes between slip and bound law. Official report fully read and controlling for complete historical text.",
+  "new_record_fact_gate": "Notice neutral supplement and independent notice refresh complete, originals unchanged. Final reconciliation expressly considers both reported notices; no direct underlying trial-transcript claim.",
+  "ALL_limit": "Supplied simulated merits review has no historical Supreme Court merits comparator. The historical Fourth Circuit opinion and statute/brief record were read in source phase as logged in B_AMERICAN_LIFE_LEAGUE_OBJECTIVE_SOURCE_ADDENDUM.md; no cert denial is treated as merits vote or rationale.",
+  "files": [
+    {
+      "path": "terms/OT1995/sources/B_RECON_PRIMARY/B_libretti_official.pdf",
+      "bytes": 257373,
+      "sha256": "28954d8c642404189e6ee44a360f856d38e25af5dcd89d5e966bc56479aed6c8"
+    },
+    {
+      "path": "terms/OT1995/sources/B_RECON_PRIMARY/B_libretti_official.txt",
+      "bytes": 65814,
+      "sha256": "a418bd6a0120c8ad05636815d3b93654ee04a0286218acf2e2d425b691f548eb"
+    },
+    {
+      "path": "terms/OT1995/sources/B_RECON_PRIMARY/B_libretti_US52.png",
+      "bytes": 170726,
+      "sha256": "8504206e7bf8b521a90ef7966109e28d541b3992e2f65fdc88c0a29398e31bf9"
+    },
+    {
+      "path": "terms/OT1995/sources/B_RECON_PRIMARY/B_libretti_US53.png",
+      "bytes": 161646,
+      "sha256": "0a3ee2f03a26a9e3d4155055ac4736ed41af60de6964fbd776e794ce4836ed8c"
+    },
+    {
+      "path": "terms/OT1995/sources/B_RECON_PRIMARY/B_libretti_US54.png",
+      "bytes": 159373,
+      "sha256": "9386ace2f9d8dcd6dffe54a1c507a14deacf572e1a04922fa3d368d652d23a16"
+    },
+    {
+      "path": "terms/OT1995/sources/B_RECON_PRIMARY/B_libretti_US55.png",
+      "bytes": 179163,
+      "sha256": "4a41d0190fe6d468b65127ab25007b617ef9cdda9c7bf81b4fcdcac62839b81d"
+    },
+    {
+      "path": "terms/OT1995/sources/B_RECON_PRIMARY/B_libretti_ZC.html",
+      "bytes": 4578,
+      "sha256": "9c9b6d2c061e7e346c5aff4debb947bbc296130641d0f6b0f4cfc7ac81134210"
+    },
+    {
+      "path": "terms/OT1995/sources/B_RECON_PRIMARY/B_libretti_ZC1.html",
+      "bytes": 6996,
+      "sha256": "822fecc06e54276c6347790d2fad3b07b891111fa84c4b91d5aacfb1066ed8a3"
+    },
+    {
+      "path": "terms/OT1995/sources/B_RECON_PRIMARY/B_libretti_ZD.html",
+      "bytes": 11232,
+      "sha256": "3112bac4e665f2996870e92d5e4e4268990568673b933a3448d5e4c60256ef28"
+    },
+    {
+      "path": "terms/OT1995/sources/B_RECON_PRIMARY/B_libretti_ZO.html",
+      "bytes": 53892,
+      "sha256": "eaa604d79d53b22dddf3cabb151cb8a4b4b02e025ca9cdd7f43c4f3a536c2e3a"
+    },
+    {
+      "path": "terms/OT1995/sources/B_RECON_PRIMARY/B_libretti_ZS.html",
+      "bytes": 11179,
+      "sha256": "3454f7641152170a8de40354ab74955a8b644e444fafc1b4966cb8a2df9e8225"
+    },
+    {
+      "path": "terms/OT1995/sources/B_RECON_PRIMARY/B_louisiana_official.pdf",
+      "bytes": 203861,
+      "sha256": "1e4f2506c87c800f5adc8c6c246070c699e7da7e4660ca694ac859e719c6567d"
+    },
+    {
+      "path": "terms/OT1995/sources/B_RECON_PRIMARY/B_louisiana_official.txt",
+      "bytes": 13521,
+      "sha256": "3c050c915e93781205402b2d5f0aaad12ee6689e3ecdfeb83c5cc07e1700c450"
+    },
+    {
+      "path": "terms/OT1995/sources/B_RECON_PRIMARY/B_louisiana_ZO.html",
+      "bytes": 15209,
+      "sha256": "ae12a12be527959e050b6000ff369989f5c02620f617318d270e1c0165f7b597"
+    },
+    {
+      "path": "terms/OT1995/sources/B_RECON_PRIMARY/B_louisiana_ZS.html",
+      "bytes": 5928,
+      "sha256": "bdc6ae6e9531b4e98c0e9070cd56a86735d1bcc71dab4673c6ebfdcd38c38f5f"
+    },
+    {
+      "path": "terms/OT1995/sources/B_RECON_PRIMARY/B_strumpf_official.pdf",
+      "bytes": 201869,
+      "sha256": "4b8b3ec0f51b5353a4dc16414f4028e9794b6d91495f6fbd5a5be19f234b978d"
+    },
+    {
+      "path": "terms/OT1995/sources/B_RECON_PRIMARY/B_strumpf_official.txt",
+      "bytes": 13054,
+      "sha256": "720268af0fe5de21b0742389adc7e3cf4e172b9031e54462a8ce12488aa0746c"
+    },
+    {
+      "path": "terms/OT1995/sources/B_RECON_PRIMARY/B_strumpf_ZO.html",
+      "bytes": 14279,
+      "sha256": "cabd0c584d46b5bd2bddb2fe229b7ad96eed5c05d246c4d609cdbe58edf06dc6"
+    },
+    {
+      "path": "terms/OT1995/sources/B_RECON_PRIMARY/B_strumpf_ZS.html",
+      "bytes": 6609,
+      "sha256": "e219c3ee705376b671d54715797a138f7c3004836771d3d41796461caaec4dd7"
+    }
+  ],
+  "reconciled_sha256": "24bd1b1a734fa45fae83940d8bb236cf70fdae631e7f3973d27c4e4ae704e751"
+}
