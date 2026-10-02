@@ -115,7 +115,7 @@ Write the render the way the Court writes for the public, not the way a treatise
 
 ## Stone's standing fallback (approved)
 
-Approved by the user on September 14, 2026, for October Term 1991 and until revoked: "For any claim, count, or docket component the record presents that Section II does not expressly address, Stone joins the disposition the Court's majority reaches on that component and adds no ground." Apply it only to a component on which Section II is silent — never to narrow, extend, or replace a position Section II states. Record each use in the Decision Record's Stone section and in the Render Input, naming the component. A matter is not stopped for that reason alone.
+Approved by the user on September 14, 2026, for October Term 1991 and until revoked: "For any claim, count, or docket component the record presents that Section II does not expressly address, Stone joins the disposition the Court's majority reaches on that component and adds no ground." Apply it only to a component on which Section II is silent — never to narrow, extend, or replace a position Section II states. Record each use in the Decision Record's Stone section and in the Render Input, naming the component. A matter is not stopped for that reason alone, but on a covered application (Engine §10) the fallback supplies only Stone's vote, not the reasons his required signed statement must give; if Section II supplies none, that gap stops the matter under rule 1 below.
 
 ## Special consideration matters
 

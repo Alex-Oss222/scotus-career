@@ -22,7 +22,7 @@ The renderer receives these eleven blocks, in this order:
 |---|---|
 | Event | Identity, event type, chronology, posture, questions, dockets, dates, and supplied companion or consolidation facts |
 | Participation | Participants, nonparticipants, and public bases or disclosure limits |
-| Public Action | Exact announced action and publicly disclosed vote or basis |
+| Public Action | Exact announced action, publicly disclosed vote or basis, and any certification of issuance |
 | Judgment & Remedy | Judgment, components, coalitions, votes by component, mandate, remedy, transition, and remand |
 | Opinion Topology | Writings, authors, joins, partial joins, and relationships to judgment components |
 | Holdings | Controlling propositions, authority, application, controlling explanation, limits, reservations, and nonreach |
@@ -303,12 +303,16 @@ other supplied posture.]
 [Consequence below, relief, expiration or return condition, stage, and next
 controlling condition.]
 
+[Certification of issuance, when supplied in Public Action.]
+
 **End of entry: [Case or matter], [action], [effective date].**
 
 ---
 ```
 
 Include controlling propositions only when **Holdings** supplies them. Never infer Court law from an unexplained order, disclosed vote, single-Justice action, or separate writing.
+
+When the supplied blocks present an application under the Court's standing application practice, they state each participating Justice's position on the relief and the reasons adopted; present them as a concise digest within Section 2's ceilings. Give the disposition with its vote and the supporting and opposing Justices, by component where supplied; the Circuit Justice's or acting substitute's signed explanation with its supplied classification as the Court's opinion, a concurrence, or a dissent, in whole or in part; each express adoption with the writing and scope adopted, naming together the Justices who adopt the same writing to the same extent; and a short summary of each other statement that gives reasons of its own. Present a temporary action as the action of the Justice or the Court that took it, with its supplied explanation, and identify a later explanation, statement, or certification by its actual date. Where the application was resolved within a reasoned merits or threshold decision, use the supplied cross-reference rather than repeating the opinions. The certification is part of the published action, not an operator certification, and adds no vote or reason. Never infer a reason from a vote or join, and never describe an individual Justice's order as the Court's.
 
 ## 7. Optional Simulation Audit Appendix
 
