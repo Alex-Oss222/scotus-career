@@ -123,12 +123,12 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 #### A. STATUS
 
-* **Approval Status:** Proposed and unapproved; no prior approval is claimed.
-* **Conditions:** Proposed and unapproved. Revalidate the entering law and any material record or participation change at the event date; do not treat this draft as a rendered decision.
+* **Approval Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
+* **Conditions:** Revalidate the entering law and any material record or participation change at the event date; do not treat this position as a rendered decision.
 
 #### B. JUDGMENT AND REMEDY
 
-* **Stone’s Controlled Judgment or Disposition:** Reverse the Ninth Circuit’s judgment and remand for dismissal of the RCRA claim as pleaded. This is the proposed vote awaiting approval.
+* **Stone’s Controlled Judgment or Disposition:** Reverse the Ninth Circuit’s judgment and remand for dismissal of the RCRA claim as pleaded. This is Stone's approved vote.
 * **Stone’s Remedy and Remand Position:** No reimbursement is available through this citizen-suit claim. Preserve only independently pleaded or otherwise lawfully available alternative claims; do not imply that another statute necessarily authorizes recovery.
 
 #### C. ISSUE POSITIONS
@@ -266,7 +266,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Affirm the Eighth Circuit.
 - **Stone’s Remedy / Remand Position:** Preserve the source-bound equitable relief awarded to restore the affected beneficiaries to the position they would have occupied absent the fiduciary breach, while excluding legal damages or duplicative relief available through another adequate ERISA channel.
@@ -622,12 +622,12 @@ When §92 applies, it requires the national bank to be located and doing busines
 
 #### A. STATUS
 
-* **Approval Status:** Proposed and unapproved; no prior approval is claimed.
-* **Conditions:** Proposed and unapproved. Revalidate the entering law and any material record or participation change at the event date; do not treat this draft as a rendered decision.
+* **Approval Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
+* **Conditions:** Revalidate the entering law and any material record or participation change at the event date; do not treat this position as a rendered decision.
 
 #### B. JUDGMENT AND REMEDY
 
-* **Stone’s Controlled Judgment or Disposition:** Reverse the Eleventh Circuit’s judgment and remand. This is the proposed vote awaiting approval.
+* **Stone’s Controlled Judgment or Disposition:** Reverse the Eleventh Circuit’s judgment and remand. This is Stone's approved vote.
 * **Stone’s Remedy and Remand Position:** The lower court shall provide relief preventing application of the conflicting prohibition to the bank’s qualifying §92 activity. Compatible state insurance rules remain available and are not adjudicated in the abstract.
 
 #### C. ISSUE POSITIONS
@@ -1030,7 +1030,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Reverse in part and remand with instructions to vacate the §846 conspiracy conviction and its special assessment.
 - **Stone’s Remedy / Remand Position:** Leave the CCE conviction and sentence undisturbed; vacate the included conspiracy judgment and its separate assessment.
@@ -1122,7 +1122,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Reverse and remand.
 - **Stone’s Remedy / Remand Position:** Permit the claim to proceed under the ordinary ADEA burden framework without deciding pretext or ultimate liability.
@@ -1235,7 +1235,7 @@ The videotape was trial evidence. Green's asserted prompt call, Faherty's moveme
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Reverse and remand.
 - **Stone’s Remedy / Remand Position:** Require adjudication under the habeas statutes and Rules Governing §2254 Cases. Permit source-authorized scheduling control and any Rule 9 disposition supported by Rule 9’s own predicates, but do not extinguish the first petition through free-floating equity.

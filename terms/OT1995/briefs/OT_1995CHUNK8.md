@@ -58,7 +58,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Affirm the Federal Circuit.
 - **Stone’s Remedy / Remand Position:** Preserve the judgment requiring refund of the unconstitutional tax to the extent the claim and amount were properly preserved.
@@ -174,7 +174,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Reverse and remand.
 - **Stone’s Remedy / Remand Position:** Direct dismissal of the fiduciary theory tied solely to plan amendment and remand any independently preserved administration, disclosure, coercion, or statutory claim for adjudication under its own elements.
@@ -546,7 +546,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Affirm.
 - **Stone’s Remedy / Remand Position:** Affirm the Seventh Circuit’s judgment. In further proceedings below, exclude privileged treatment communications and do not impose an adverse inference from a valid assertion of the privilege.
@@ -837,7 +837,7 @@ Record and review posture: [59 F.3d 1556 (9th Cir. 1995)](https://openjurist.org
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Status:** Proposed individual position developed under the user’s express authorization to finish these additions, apply simulated precedent and supply Stone’s reasoning. This is authorized preparation, not an adjudicated Court outcome or an assertion that the user separately selected this exact wording.
+**Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 **Stone's disposition.** Reverse the Fourth Amendment ruling and remand for relief confined to the challenged suspicionless collection program. Preserve the rejection of a universal precollection-hearing requirement and the ex post facto claim. Affirm judgment for Knox and Pearce on Milligan's separately reviewed claim for want of proved personal causation.
 
@@ -940,12 +940,12 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 #### A. STATUS
 
-* **Approval Status:** Proposed and unapproved; no prior approval is claimed.
-* **Conditions:** Proposed and unapproved. Revalidate the entering law and any material record or participation change at the event date; do not treat this draft as a rendered decision.
+* **Approval Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
+* **Conditions:** Revalidate the entering law and any material record or participation change at the event date; do not treat this position as a rendered decision.
 
 #### B. JUDGMENT AND REMEDY
 
-* **Stone’s Controlled Judgment or Disposition:** Affirm the Third Circuit’s judgment. This is the proposed vote awaiting approval.
+* **Stone’s Controlled Judgment or Disposition:** Affirm the Third Circuit’s judgment. This is Stone's approved vote.
 * **Stone’s Remedy and Remand Position:** No resentencing below the statutory minimum is authorized by the motion actually made. Independently preserved statutory or constitutional claims remain subject to their own lawful procedures; none is adjudicated by implication.
 
 #### C. ISSUE POSITIONS
@@ -1217,12 +1217,12 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 #### A. STATUS
 
-* **Approval Status:** Proposed and unapproved; no prior approval is claimed.
-* **Conditions:** Proposed and unapproved. Revalidate the entering law and any material record or participation change at the event date; do not treat this draft as a rendered decision.
+* **Approval Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
+* **Conditions:** Revalidate the entering law and any material record or participation change at the event date; do not treat this position as a rendered decision.
 
 #### B. JUDGMENT AND REMEDY
 
-* **Stone’s Controlled Judgment or Disposition:** Grant the petition for certiorari, reverse the Ninth Circuit’s mootness dismissal, and remand. Grant Moore’s pending motion to proceed in forma pauperis. This is the proposed vote awaiting approval.
+* **Stone’s Controlled Judgment or Disposition:** Grant the petition for certiorari, reverse the Ninth Circuit’s mootness dismissal, and remand. Grant Moore’s pending motion to proceed in forma pauperis. This is Stone's approved vote.
 * **Stone’s Remedy and Remand Position:** The Ninth Circuit shall restore the appeal and determine the issues properly before it under the law applicable to the habeas proceeding. This judgment does not itself reinstate the original conviction, vacate the conditional writ on its merits, direct execution, or bar otherwise lawful interim relief.
 
 #### C. ISSUE POSITIONS

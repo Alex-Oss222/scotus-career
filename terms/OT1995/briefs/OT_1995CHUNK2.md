@@ -98,12 +98,12 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 #### A. STATUS
 
-* **Approval Status:** Proposed and unapproved; no prior approval is claimed.
+* **Approval Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 * **Conditions:** The formal disposition is expressly conditional on the earlier simulated adoption of the report. No other prior outcome is assumed.
 
 #### B. JUDGMENT AND REMEDY
 
-* **Stone’s Controlled Judgment or Disposition:** On the condition that the preceding simulated judgment adopted the Master’s report, enter the implementing decree; deny Louisiana’s private-title cancellation request for lack of standing and retain original jurisdiction. This is the proposed vote awaiting approval.
+* **Stone’s Controlled Judgment or Disposition:** On the condition that the preceding simulated judgment adopted the Master’s report, enter the implementing decree; deny Louisiana’s private-title cancellation request for lack of standing and retain original jurisdiction. This is Stone's approved vote.
 * **Stone’s Remedy and Remand Position:** Use the authenticated boundary schedule attached to the Master’s adopted report, cross-checked against the official decree’s coordinate schedule. Do not substitute a newly generated coordinate list. If the actual prior simulated decision differs, return this implementation event for revalidation rather than entering an inconsistent decree.
 
 #### C. ISSUE POSITIONS
@@ -416,12 +416,12 @@ Section 157(d) withdrawal of reference is separate. The district court may withd
 
 #### A. STATUS
 
-* **Approval Status:** Proposed and unapproved; no prior approval is claimed.
-* **Conditions:** Proposed and unapproved. Revalidate the entering law and any material record or participation change at the event date; do not treat this draft as a rendered decision.
+* **Approval Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
+* **Conditions:** Revalidate the entering law and any material record or participation change at the event date; do not treat this position as a rendered decision.
 
 #### B. JUDGMENT AND REMEDY
 
-* **Stone’s Controlled Judgment or Disposition:** Affirm the Sixth Circuit’s dismissal of the appeal. This is the proposed vote awaiting approval.
+* **Stone’s Controlled Judgment or Disposition:** Affirm the Sixth Circuit’s dismissal of the appeal. This is Stone's approved vote.
 * **Stone’s Remedy and Remand Position:** The remand remains undisturbed and the action proceeds in state court. No separate Supreme Court ruling on the underlying liability or removal merits is entered.
 
 #### C. ISSUE POSITIONS
@@ -549,7 +549,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Reverse both §924(c) judgments.
 - **Stone’s Remedy / Remand Position:** Vacate the firearm convictions and remand for ordinary proceedings, including any legally available charge based on carriage or possession that was properly preserved.
@@ -617,7 +617,7 @@ Record and review posture: [28 F.3d 1501 (8th Cir. 1994)](https://law.justia.com
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Status:** Proposed individual position developed under the user’s express authorization to finish these additions, apply simulated precedent and supply Stone’s reasoning. This is authorized preparation, not an adjudicated Court outcome or an assertion that the user separately selected this exact wording.
+**Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 **Stone's disposition.** Affirm the requirement of equal access on the established forum terms.
 
@@ -1038,12 +1038,12 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 #### A. STATUS
 
-* **Approval Status:** Proposed and unapproved; no prior approval is claimed.
-* **Conditions:** Proposed and unapproved. Revalidate the entering law and any material record or participation change at the event date; do not treat this draft as a rendered decision.
+* **Approval Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
+* **Conditions:** Revalidate the entering law and any material record or participation change at the event date; do not treat this position as a rendered decision.
 
 #### B. JUDGMENT AND REMEDY
 
-* **Stone’s Controlled Judgment or Disposition:** Affirm the Seventh Circuit’s judgment. This is the proposed vote awaiting approval.
+* **Stone’s Controlled Judgment or Disposition:** Affirm the Seventh Circuit’s judgment. This is Stone's approved vote.
 * **Stone’s Remedy and Remand Position:** No separate remedial instruction is required. The disputed waiting is classified as the non-duty, non-rest return-transportation interval, subject to actual work being counted under the Act.
 
 #### C. ISSUE POSITIONS
@@ -1182,7 +1182,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Grant, vacate, and remand.
 - **Stone’s Remedy / Remand Position:** Return the case for reconsideration without directing an award or adopting the agency’s new interpretation as controlling.
@@ -1287,12 +1287,12 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 #### A. STATUS
 
-* **Approval Status:** Proposed and unapproved; no prior approval is claimed.
-* **Conditions:** Proposed and unapproved. Revalidate the entering law and any material record or participation change at the event date; do not treat this draft as a rendered decision.
+* **Approval Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
+* **Conditions:** Revalidate the entering law and any material record or participation change at the event date; do not treat this position as a rendered decision.
 
 #### B. JUDGMENT AND REMEDY
 
-* **Stone’s Controlled Judgment or Disposition:** Grant leave to proceed in forma pauperis, grant certiorari, vacate the Eleventh Circuit’s judgment, and remand for reconsideration in light of Pioneer. This is the proposed vote awaiting approval.
+* **Stone’s Controlled Judgment or Disposition:** Grant leave to proceed in forma pauperis, grant certiorari, vacate the Eleventh Circuit’s judgment, and remand for reconsideration in light of Pioneer. This is Stone's approved vote.
 * **Stone’s Remedy and Remand Position:** The Eleventh Circuit shall determine the proper effect of Pioneer under Rule 4(b) and arrange any necessary district-court findings. Do not direct acceptance of the late appeal or reach its merits.
 
 #### C. ISSUE POSITIONS
@@ -1460,7 +1460,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Affirm the Third Circuit.
 - **Stone’s Remedy / Remand Position:** Remand for adjudication of the parents’ maritime claims with state wrongful-death and survival remedies available to the extent they do not conflict with an applicable federal statute or a controlling uniform maritime rule.
@@ -1534,7 +1534,7 @@ Record and review posture: [41 F.3d 213 (5th Cir. 1994)](https://openjurist.org/
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Status:** Proposed individual position developed under the user’s express authorization to finish these additions, apply simulated precedent and supply Stone’s reasoning. This is authorized preparation, not an adjudicated Court outcome or an assertion that the user separately selected this exact wording.
+**Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 **Stone's disposition.** Reject the asserted entitlement to a favorable prediction about parole. Vacate the denial of the preserved, actually presented mitigation-instruction claim and remand for application of Graham and Johnson to the sentencing record. Leave guilt and matters outside the grant undisturbed.
 

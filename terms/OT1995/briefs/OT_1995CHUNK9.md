@@ -216,12 +216,12 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 #### A. STATUS
 
-* **Approval Status:** Proposed and unapproved; no prior approval is claimed.
-* **Conditions:** Proposed and unapproved. Revalidate the entering law and any material record or participation change at the event date; do not treat this draft as a rendered decision.
+* **Approval Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
+* **Conditions:** Revalidate the entering law and any material record or participation change at the event date; do not treat this position as a rendered decision.
 
 #### B. JUDGMENT AND REMEDY
 
-* **Stone’s Controlled Judgment or Disposition:** Vacate the Tenth Circuit’s judgment and remand. Preserve the legal conclusion denying excise-tax priority; set aside the categorical equitable subordination. This is the proposed vote awaiting approval.
+* **Stone’s Controlled Judgment or Disposition:** Vacate the Tenth Circuit’s judgment and remand. Preserve the legal conclusion denying excise-tax priority; set aside the categorical equitable subordination. This is Stone's approved vote.
 * **Stone’s Remedy and Remand Position:** The Tenth Circuit shall return the matter for proceedings consistent with denial of excise-tax priority and rejection of categorical equitable subordination. The plan’s general-unsecured alternative is available if no independently lawful basis supports different treatment. The lower courts may address properly preserved Chapter 11 classification arguments, the claimed relevance of Chapter 7 provisions, or a legally sufficient case-specific equitable ground without treating any of them as established by this judgment. Do not reinstate other disallowed claims or direct an unsupported dollar distribution.
 
 #### C. ISSUE POSITIONS
@@ -344,7 +344,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Affirm.
 - **Stone’s Remedy / Remand Position:** Affirm the judgment without extending the exemption beyond the bargaining conduct presented.
@@ -412,7 +412,7 @@ Record and review posture: [164 Ill. 2d 468, 649 N.E.2d 324 (1995)](https://law.
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Status:** Proposed individual position developed under the user’s express authorization to finish these additions, apply simulated precedent and supply Stone’s reasoning. This is authorized preparation, not an adjudicated Court outcome or an assertion that the user separately selected this exact wording.
+**Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 **Stone's disposition.** Preserve Kirchner's custody entitlement and the adoption's invalidation. Vacate only the rejection of the child's independent implementation claim and remand for prompt consideration of any supported serious transition risk and a lawful means of avoiding it.
 
@@ -481,7 +481,7 @@ Record and review posture: [159 Ill. 2d 347, 638 N.E.2d 181 (1994)](https://law.
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Status:** Proposed individual position developed under the user’s express authorization to finish these additions, apply simulated precedent and supply Stone’s reasoning. This is authorized preparation, not an adjudicated Court outcome or an assertion that the user separately selected this exact wording.
+**Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 **Stone's disposition.** Affirm the rejection of the Does' asserted federal right to retain the invalid adoption or obtain permanent custody on that basis. Preserve the child's distinct challenge to the manner of transition.
 
@@ -977,7 +977,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Vacate and remand.
 - **Stone’s Remedy / Remand Position:** Direct the district court to apply New York’s damages-excessiveness standard and limit appellate review of that application to abuse of discretion.
@@ -1047,7 +1047,7 @@ Record and review posture: [53 F.3d 152 (6th Cir. 1995)](https://law.justia.com/
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Status:** Proposed individual position developed under the user’s express authorization to finish these additions, apply simulated precedent and supply Stone’s reasoning. This is authorized preparation, not an adjudicated Court outcome or an assertion that the user separately selected this exact wording.
+**Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 **Stone's disposition.** Vacate summary judgment and remand for the free-speech claim to be assessed under Hazelwood's genuine pedagogical limitation, with ordinary summary-judgment and causation rules.
 

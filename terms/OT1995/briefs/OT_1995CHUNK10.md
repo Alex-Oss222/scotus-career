@@ -220,7 +220,7 @@ The videotape was trial evidence. Green's asserted prompt call, Faherty's moveme
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Dismiss the petition for certiorari for want of jurisdiction and deny Felker’s separate original habeas petition.
 - **Stone’s Remedy / Remand Position:** Enter no affirmance of the Eleventh Circuit’s authorization ruling. Dismiss the certiorari proceeding because AEDPA withdraws ordinary certiorari review of that gatekeeping determination, and separately deny original habeas relief while recognizing that this Court retains original habeas authority subject to lawful statutory and traditional limitations.
@@ -331,7 +331,7 @@ Section 501(c) treats a payment on the individual's behalf to a §170(c) charita
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Affirm the recognition of Umbehr’s First Amendment claim and remand for application of the governing balance and causation rules.
 - **Stone’s Remedy / Remand Position:** Permit factfinding on protected speech, operational disruption, motivating cause, same-decision proof, immunity, and lawful damages or prospective relief.
@@ -420,7 +420,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 **Inherited-law qualification:** The supplied patronage-extension position does not require an assumed prior same-day Umbehr outcome. The two matters share their baseline absent a separately established effective sequence.
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Reverse the Seventh Circuit and remand.
 - **Stone’s Remedy / Remand Position:** Permit the claim to proceed under political-association, retaliatory-motive, same-decision, immunity, and damages principles.
@@ -592,7 +592,7 @@ The denial concerned religious activity, defined by the Guidelines as primarily 
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Issue 1 — affirm as to §10(a). Issue 2 — reverse as to §10(b). Issue 3 — reverse as to §10(c).
 - **Stone’s Remedy / Remand Position:** Permit cable operators to exercise the limited leased-access editorial choice in §10(a); enjoin enforcement of the segregation-and-written-request mechanism and the public-access censorship authorization.
@@ -676,7 +676,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Affirm the Federal Circuit’s liability judgment.
 - **Stone’s Remedy / Remand Position:** Remand for contract-specific causation and damages without restraining Congress or invalidating the later statute.
@@ -787,7 +787,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Reverse both Pennsylvania judgments and remand.
 - **Stone’s Remedy / Remand Position:** Apply the automobile exception if probable cause and ready mobility are established; address search scope and any adequate independent state-law ground on remand.

@@ -56,7 +56,7 @@ Record and review posture: [63 F.3d 1452 (8th Cir. 1995)](https://law.justia.com
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Status:** Proposed individual position developed under the user’s express authorization to finish these additions, apply simulated precedent and supply Stone’s reasoning. This is authorized preparation, not an adjudicated Court outcome or an assertion that the user separately selected this exact wording.
+**Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 **Stone's disposition.** Affirm the injunction against the challenged parental-notice requirement under simulated Casey, within the reviewed scope and the lower decree's separable provisions.
 
@@ -151,7 +151,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 **Inherited-law qualification:** The supplied rejection of a clear-and-convincing competence burden remains an individual position. Medina cannot be cited for categorical exclusion of Mathews or for an already settled higher-burden rule.
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Reverse and remand.
 - **Stone’s Remedy / Remand Position:** Require application of a constitutionally permissible burden in a reliable competency proceeding. A retrospective determination may be used only if the passage of time and available record permit a meaningful inquiry; otherwise provide the ordinary relief competency law requires before any retrial.
@@ -228,7 +228,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Affirm.
 - **Stone’s Remedy / Remand Position:** Affirm the allocation of patent-claim construction to the court, leaving infringement and genuine historical-fact disputes to the jury.
@@ -321,7 +321,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Affirm the Fourth Circuit’s enforcement of the Board’s coverage determination.
 - **Stone’s Remedy / Remand Position:** Enforce the Board’s coverage determination and remand any remaining unfair-labor-practice or remedial issues to their ordinary channels.
@@ -432,12 +432,12 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 #### A. STATUS
 
-* **Approval Status:** Proposed and unapproved; no prior approval is claimed.
-* **Conditions:** Proposed and unapproved. Revalidate the entering law and any material record or participation change at the event date; do not treat this draft as a rendered decision.
+* **Approval Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
+* **Conditions:** Revalidate the entering law and any material record or participation change at the event date; do not treat this position as a rendered decision.
 
 #### B. JUDGMENT AND REMEDY
 
-* **Stone’s Controlled Judgment or Disposition:** Affirm the Sixth Circuit’s judgment. This is the proposed vote awaiting approval.
+* **Stone’s Controlled Judgment or Disposition:** Affirm the Sixth Circuit’s judgment. This is Stone's approved vote.
 * **Stone’s Remedy and Remand Position:** The district court shall reinstate the jury verdict and proceed to sentencing, subject to any independently authorized and properly presented review. Do not restore the untimely acquittal or order a new trial merely to repeat the existing verdict.
 
 #### C. ISSUE POSITIONS
@@ -536,7 +536,7 @@ Record and review posture: [45 F.3d 1383 (10th Cir. 1995)](https://law.resource.
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Status:** Proposed individual position developed under the user’s express authorization to finish these additions, apply simulated precedent and supply Stone’s reasoning. This is authorized preparation, not an adjudicated Court outcome or an assertion that the user separately selected this exact wording.
+**Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 **Stone's disposition.** Affirm the constitutional confidentiality determination on the reviewed issue, preserving the judgment insofar as supported by the trial record and leaving unpresented issues undisturbed.
 
@@ -755,7 +755,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Reverse.
 - **Stone’s Remedy / Remand Position:** Enjoin enforcement of the challenged ban against truthful, nonmisleading retail-price advertising while preserving direct regulation of alcohol sales, prices, taxes, hours, and unlawful promotions.
@@ -840,7 +840,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Reverse.
 - **Stone’s Remedy / Remand Position:** Remand for treatment of the Government’s claim under the Bankruptcy Code, leaving case-specific equitable subordination available when its lawful predicates are proved.
@@ -971,7 +971,7 @@ Distinct section 11 civil and criminal channels retain their own conditions, inc
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Reverse and remand.
 - **Stone’s Remedy / Remand Position:** Permit the union’s representative action to proceed, subject to proof of injured members, statutory coverage, individual defenses, and procedures adequate to determine member-specific relief.
@@ -1068,7 +1068,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Reverse and remand.
 - **Stone’s Remedy / Remand Position:** Require Alabama’s courts to conduct constitutionally adequate review and enter a lawful punitive award, if any, under state procedure; do not select the replacement amount in the first instance.

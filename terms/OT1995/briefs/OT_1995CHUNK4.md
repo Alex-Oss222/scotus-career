@@ -78,7 +78,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Reverse and direct dismissal of the independent-liability action for lack of subject-matter jurisdiction.
 - **Stone’s Remedy / Remand Position:** Preserve ordinary execution proceedings directed to the judgment debtor’s assets and any separate action against Peacock supported by an independent jurisdictional grant.
@@ -398,12 +398,12 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 #### A. STATUS
 
-* **Approval Status:** Proposed and unapproved; no prior approval is claimed.
-* **Conditions:** Proposed and unapproved. Revalidate the entering law and any material record or participation change at the event date; do not treat this draft as a rendered decision.
+* **Approval Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
+* **Conditions:** Revalidate the entering law and any material record or participation change at the event date; do not treat this position as a rendered decision.
 
 #### B. JUDGMENT AND REMEDY
 
-* **Stone’s Controlled Judgment or Disposition:** Grant the joint motion and enter the conforming supplemental decree; retain original jurisdiction. This is the proposed vote awaiting approval.
+* **Stone’s Controlled Judgment or Disposition:** Grant the joint motion and enter the conforming supplemental decree; retain original jurisdiction. This is Stone's approved vote.
 * **Stone’s Remedy and Remand Position:** Incorporate the authenticated joint geographic schedule, including its five closing lines, into the existing decree. Do not substitute generated coordinates for the filed schedule. Preserve jurisdiction to effectuate and supplement the parties’ adjudicated rights.
 
 #### C. ISSUE POSITIONS
@@ -650,7 +650,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Reverse and remand.
 - **Stone’s Remedy / Remand Position:** Direct the lower court to give the Delaware judgment the preclusive effect required by §1738 unless respondents establish a fundamental defect in jurisdiction, notice, representation, or the settlement’s binding operation.
@@ -845,12 +845,12 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 #### A. STATUS
 
-* **Approval Status:** Proposed and unapproved; no prior approval is claimed.
-* **Conditions:** Proposed and unapproved. Revalidate the entering law and any material record or participation change at the event date; do not treat this draft as a rendered decision.
+* **Approval Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
+* **Conditions:** Revalidate the entering law and any material record or participation change at the event date; do not treat this position as a rendered decision.
 
 #### B. JUDGMENT AND REMEDY
 
-* **Stone’s Controlled Judgment or Disposition:** Vacate the Fourth Circuit’s judgment and remand both Nos. 94-1893 and 94-1900 for consideration of mootness. This is the proposed vote awaiting approval.
+* **Stone’s Controlled Judgment or Disposition:** Vacate the Fourth Circuit’s judgment and remand both Nos. 94-1893 and 94-1900 for consideration of mootness. This is Stone's approved vote.
 * **Stone’s Remedy and Remand Position:** The Fourth Circuit shall determine whether any live controversy survives the repeal. If none does, it shall direct the appropriate dismissal and address the remaining orders under applicable vacatur doctrine; if a controversy survives, proceedings must be limited to it.
 
 #### C. ISSUE POSITIONS
@@ -999,12 +999,12 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 #### A. STATUS
 
-* **Approval Status:** Proposed and unapproved; no prior approval is claimed.
-* **Conditions:** Proposed and unapproved. Revalidate the entering law and any material record or participation change at the event date; do not treat this draft as a rendered decision.
+* **Approval Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
+* **Conditions:** Revalidate the entering law and any material record or participation change at the event date; do not treat this position as a rendered decision.
 
 #### B. JUDGMENT AND REMEDY
 
-* **Stone’s Controlled Judgment or Disposition:** Affirm the Federal Circuit’s judgment. This is the proposed vote awaiting approval.
+* **Stone’s Controlled Judgment or Disposition:** Affirm the Federal Circuit’s judgment. This is Stone's approved vote.
 * **Stone’s Remedy and Remand Position:** No separate remedial instruction is required. The warranty and implied-indemnity claims remain dismissed without creating an alternative equitable reimbursement action.
 
 #### C. ISSUE POSITIONS
@@ -1250,7 +1250,7 @@ Record and review posture: [58 F.3d 654 (D.C. Cir. 1995) (en banc)](https://law.
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Status:** Proposed individual position developed under the user’s express authorization to finish these additions, apply simulated precedent and supply Stone’s reasoning. This is authorized preparation, not an adjudicated Court outcome or an assertion that the user separately selected this exact wording.
+**Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 **Stone's disposition.** Preserve the rejection of the unjustified broadcaster distinction, but vacate approval of the substituted 6 a.m.–10 p.m. restriction. Remand with directions to set aside the challenged broad rule rather than select a new constitutional bedtime for the country.
 
@@ -1532,7 +1532,7 @@ Section 14-02.1-03(1)'s emergency exception excuses that subsection's ordinary r
 
 **Inherited-law qualification:** References to an undue-burden rule mean the actual complete Casey standard reproduced in Section I. The supplied statutory and severability position does not decide the reserved constitutional merits.
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Vacate and remand.
 - **Stone’s Remedy / Remand Position:** Enjoin only applications in which controlling federal Medicaid law requires funding, preserve every severable nonconflicting application, and direct the lower court to conform relief to the exact statutory conflict.

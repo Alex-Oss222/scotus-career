@@ -85,12 +85,12 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 #### A. STATUS
 
-* **Approval Status:** Proposed and unapproved; no prior approval is claimed.
-* **Conditions:** Proposed and unapproved. Revalidate the entering law and any material record or participation change at the event date; do not treat this draft as a rendered decision.
+* **Approval Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
+* **Conditions:** Revalidate the entering law and any material record or participation change at the event date; do not treat this position as a rendered decision.
 
 #### B. JUDGMENT AND REMEDY
 
-* **Stone’s Controlled Judgment or Disposition:** Affirm in part and reverse in part: affirm rejection of the mother’s loss-of-society claim; reverse the ruling permitting the sister’s society claim to depend on further dependency findings; remand for a conforming damages judgment. This is the proposed vote awaiting approval.
+* **Stone’s Controlled Judgment or Disposition:** Affirm in part and reverse in part: affirm rejection of the mother’s loss-of-society claim; reverse the ruling permitting the sister’s society claim to depend on further dependency findings; remand for a conforming damages judgment. This is Stone's approved vote.
 * **Stone’s Remedy and Remand Position:** Eliminate loss-of-society recovery for both claimants. Preserve other components not disturbed by the questions presented. Do not vacate liability or order a new trial of unrelated damages.
 
 #### C. ISSUE POSITIONS
@@ -329,12 +329,12 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 #### A. STATUS
 
-* **Approval Status:** Proposed and unapproved; no prior approval is claimed.
-* **Conditions:** Proposed and unapproved. Revalidate the entering law and any material record or participation change at the event date; do not treat this draft as a rendered decision.
+* **Approval Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
+* **Conditions:** Revalidate the entering law and any material record or participation change at the event date; do not treat this position as a rendered decision.
 
 #### B. JUDGMENT AND REMEDY
 
-* **Stone’s Controlled Judgment or Disposition:** Reverse the Fourth Circuit’s judgment and remand. This is the proposed vote awaiting approval.
+* **Stone’s Controlled Judgment or Disposition:** Reverse the Fourth Circuit’s judgment and remand. This is Stone's approved vote.
 * **Stone’s Remedy and Remand Position:** Restore the determination that §6512(b)(3)(B) does not authorize refund of these payments. Dispose of any remaining tax computations consistently with that limit without inventing a separate refund route.
 
 #### C. ISSUE POSITIONS
@@ -434,7 +434,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Reverse the Seventh Circuit and remand.
 - **Stone’s Remedy / Remand Position:** Permit Bank One to pursue the Act’s express civil-liability remedy, subject to the statute’s elements, defenses, causation requirements, and measure of recovery.
@@ -529,7 +529,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Affirm.
 - **Stone’s Remedy / Remand Position:** Leave the statutory sentence in force while permitting the amended Guidelines calculation to operate within the Commission’s delegated domain.
@@ -932,7 +932,7 @@ Record and review posture: [42 F.3d 633 (11th Cir. 1995)](https://openjurist.org
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Status:** Proposed individual position developed under the user’s express authorization to finish these additions, apply simulated precedent and supply Stone’s reasoning. This is authorized preparation, not an adjudicated Court outcome or an assertion that the user separately selected this exact wording.
+**Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 **Stone's disposition.** Affirm the accommodation judgment on the established training and assignment burdens, without reviving the invalid release.
 
@@ -1177,7 +1177,7 @@ Record and review posture: [980 F.2d 437 (7th Cir. 1992)](https://openjurist.org
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Status:** Proposed individual position developed under the user’s express authorization to finish these additions, apply simulated precedent and supply Stone’s reasoning. This is authorized preparation, not an adjudicated Court outcome or an assertion that the user separately selected this exact wording.
+**Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 **Stone's disposition.** Reverse the rejection of the establishment challenge and remand for prospective relief against the school-directed religious affirmation. Preserve the school's authority to teach civic responsibility and to conduct a lawful patriotic exercise.
 
@@ -1290,7 +1290,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Reverse and remand.
 - **Stone’s Remedy / Remand Position:** Permit the second interlocutory appeal only to decide the legal immunity question on the facts the district court treated as sufficiently supported; dismiss any attempt to contest evidentiary sufficiency.
@@ -1438,12 +1438,12 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 #### A. STATUS
 
-* **Approval Status:** Proposed and unapproved; no prior approval is claimed.
-* **Conditions:** Proposed and unapproved. Revalidate the entering law and any material record or participation change at the event date; do not treat this draft as a rendered decision.
+* **Approval Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
+* **Conditions:** Revalidate the entering law and any material record or participation change at the event date; do not treat this position as a rendered decision.
 
 #### B. JUDGMENT AND REMEDY
 
-* **Stone’s Controlled Judgment or Disposition:** Reverse the North Carolina Supreme Court’s judgment and remand. This is the proposed vote awaiting approval.
+* **Stone’s Controlled Judgment or Disposition:** Reverse the North Carolina Supreme Court’s judgment and remand. This is Stone's approved vote.
 * **Stone’s Remedy and Remand Position:** The state courts shall resolve severability and tax relief under state law subject to the federal nondiscrimination and due-process requirements. Do not prescribe an unsupported refund amount or exempt all stock from otherwise valid taxation.
 
 #### C. ISSUE POSITIONS
