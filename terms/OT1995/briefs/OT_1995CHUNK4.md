@@ -30,7 +30,6 @@ Preparation only. 12 matters in chronological order. The index supplies the open
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 516 U.S. 349](https://supreme.justia.com/cases/federal/us/516/349/)
 
 #### Enacted and supporting authorities
 
@@ -121,9 +120,9 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 * **Question Presented:** Whether the Court should deny financial leave and impose a prospective noncriminal filing restriction based on the identified history of repetitive filings. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Court and Judgment Under Review:** No lower-court merits judgment is under review in this fee event. The Court is acting on its own docket and financial-leave rules.
 * **Relief Requested:** The applicant seeks leave to file without prepayment. The competing administrative measure would require fees and compliant paid-petition form for the current and future covered filings.
-* **Material Record:** The historical report describes repeated filings and earlier fee denials; those post-divergence historical dispositions are not automatically completed simulated orders. The present petition(s), financial eligibility, and any validated earlier restrictions must be checked. Filing counts alone do not establish present frivolousness or justify a prospective condition. [P1]
-* **Threshold, Preservation, and Vehicle Matters:** Financial eligibility, whether the particular filing is frivolous or malicious, prospective docket restrictions, and the petition’s substantive disposition are separate questions. The supplied report does not reproduce the underlying petition sufficiently to make a fresh merits finding. A fee order cannot silently become denial of certiorari.
-* **Relevant Dates:** Event: February 26, 1996, historical fee-order date. Attwood is earlier in this supplement but supplies law only if an actual simulated order was released.
+* **Material Record:** The available record describes repeated filings and earlier fee denials; those post-divergence historical dispositions are not automatically completed simulated orders. The present petition(s), financial eligibility, and any validated earlier restrictions must be checked. Filing counts alone do not establish present frivolousness or justify a prospective condition.
+* **Threshold, Preservation, and Vehicle Matters:** Financial eligibility, whether the particular filing is frivolous or malicious, prospective docket restrictions, and the petition’s substantive disposition are separate questions. The supplied record does not reproduce the underlying petition sufficiently to make a fresh merits finding. A fee order cannot silently become denial of certiorari.
+* **Relevant Dates:** Event: February 26, 1996, historical date. Attwood is earlier in this supplement but supplies law only if an actual simulated order was released.
 * **Companion or Related Matters:** No additional consolidated or companion matter material to this brief is identified in the cited sources.
 * **Participation Matter:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster. Breyer does not participate; eight participating Justices.
 
@@ -139,7 +138,7 @@ Supreme Court Rules 39, 38, and 33 in their event-date versions; 28 U.S.C. §191
 * **Petitioner or Applicant’s Position:** Indigence should not exclude a potentially legitimate filing merely because earlier filings failed; ordinary screening can dispose of the present petition on its own grounds.
 * **Respondent or Competing Position:** Repeated frivolous submissions consume finite judicial resources; the inherited decisions permit requiring payment for a defined class of future filings while leaving criminal matters and paid filings open.
 
-* **Alternative or Unreached Grounds and Limits:** Financial eligibility, whether the particular filing is frivolous or malicious, prospective docket restrictions, and the petition’s substantive disposition are separate questions. The supplied report does not reproduce the underlying petition sufficiently to make a fresh merits finding. A fee order cannot silently become denial of certiorari.
+* **Alternative or Unreached Grounds and Limits:** Financial eligibility, whether the particular filing is frivolous or malicious, prospective docket restrictions, and the petition’s substantive disposition are separate questions. The supplied record does not reproduce the underlying petition sufficiently to make a fresh merits finding. A fee order cannot silently become denial of certiorari.
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
@@ -150,16 +149,14 @@ Supreme Court Rules 39, 38, and 33 in their event-date versions; 28 U.S.C. §191
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
 
-* **P1:** [Published Supreme Court fee order, used for filing history and the separate historical comparator](https://www.law.cornell.edu/supct/html/95-7186.ZPC.html).
-
 #### Application-specific presentation and consequences
 
 - **Exact relief requested:** Leave to file the current certiorari petition(s) in forma pauperis. A proposed prospective fee-and-form condition for future noncriminal certiorari filings is a separate docket-control question, not the applicant’s requested relief and not a merits disposition.
-- **Underlying order and circuit:** This is a Court-directed fee motion on the Supreme Court docket. The report does not establish a Circuit Justice presentation route; no circuit is inferred from the caption, residence, or the lower merits litigation.
+- **Underlying order and circuit:** This is a Court-directed fee motion on the Supreme Court docket. The record does not establish a Circuit Justice presentation route; no circuit is inferred from the caption, residence, or the lower merits litigation.
 - **Authority:** Event-date Supreme Court Rules 39 and 39.8, Rule 38’s fee, and the applicable Rule 33/33.1 form requirements; 28 U.S.C. §1915 where applicable. Do not apply a generic stay or injunction test.
 - **Specific standard:** Determine financial eligibility and the current filing’s frivolousness or malice under Rule 39.8. Any prospective restriction separately needs the applicant-specific, filing-category-specific record and justification required by the actual simulated filing-control cases below, including why ordinary treatment of particular filings is inadequate. Volume and prior losses do not alone establish either question.
 - **Preservation and vehicle:** The current petition’s contents and financial record must support the actual fee ruling. No merits grant, review of an underlying judgment, or finding about unidentified future claims follows from this motion. Distinguish historical docket allegations from validated simulated orders; no unsupplied prior denial or warning is treated as completed here.
-- **Timing and harm:** Access to filing and compliance with any actual fee deadline matter. The report’s later payment deadline is an historical consequence in Section III, not a deadline already imposed in this simulation. No execution, mandate, or injunction-related irreparable-harm requirement is invented.
+- **Timing and harm:** Access to filing and compliance with any actual fee deadline matter. No execution, mandate, or injunction-related irreparable-harm requirement is invented.
 - **Presenter and route:** Court-directed motion; no assigned Circuit Justice presenter is established. The full Court decides in its own name. The standing referral rule does not justify manufacturing a presentation that the record does not contain.
 - **Participation:** Breyer does not participate; eight Justices participate, and five votes are required for relief.
 - **If granted:** The current petition may proceed without prepayment subject to ordinary screening; certiorari is not granted and no underlying claim is decided.
@@ -176,9 +173,9 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
-**Application of the entering law:** Apply both branches of simulated Martin: an arguable current filing received financial leave, while identified defects in the companion supported denial with a payment/form opportunity. Past losses cannot substitute for the present-paper finding. Martin, Day and Sassower reject unsupported prospective controls but do not categorically prohibit every future restriction. The existing Jones record supplies no identified present defect; if financial eligibility is established and current frivolousness or malice is not demonstrated, financial leave remains available with certiorari decided separately. A proposed broader civil-certiorari rule belongs in Section II and is not already an inherited holding.
+**Application of the entering law:** Apply both branches of simulated Martin: an arguable current filing received financial leave, while identified defects in the companion supported denial with a payment/form opportunity. Past losses cannot substitute for the present-paper finding. Martin, Day and Sassower reject unsupported prospective controls but do not categorically prohibit every future restriction. Whether the existing Jones record identifies a present defect must be determined; if financial eligibility is established and current frivolousness or malice is not demonstrated, financial leave remains available with certiorari decided separately.
 
-**Matter-specific uncertainty:** Financial eligibility must be established. The available record does not demonstrate a specific current-paper defect; the absence of a demonstrated defect does not itself prove indigence. The petition remains necessary for its separate certiorari consideration. Breyer does not participate.
+**Matter-specific uncertainty:** Financial eligibility must be established. Whether the available record demonstrates a specific current-paper defect must be determined; the absence of such a defect would not itself prove indigence. The petition remains necessary for its separate certiorari consideration. Breyer does not participate.
 
 **Zatko**
 
@@ -314,7 +311,7 @@ This future-filing rule is a proposed development beyond Martin, Day and Sassowe
 * **Question Presented:** Whether to enter the parties’ supplemental decree implementing the existing determination of Vineyard Sound and Nantucket Sound under the prior seabed boundary judgment. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Court and Judgment Under Review:** No lower-court judgment. The joint motion implements the Court’s pre-divergence 1975 decree and 1986 Massachusetts boundary decision.
 * **Relief Requested:** The United States and Massachusetts jointly request a conforming supplemental decree establishing the specified coastal closing lines and retaining enforcement jurisdiction.
-* **Material Record:** The 1986 decision treated Vineyard Sound as historic inland waters but did not treat the whole of Nantucket Sound that way. The submitted implementation uses five described closing lines and specified interior indentations to give effect to that distinction. It does not reopen the historic-waters evidence or assert that all Nantucket Sound is inland. [P1, preamble and proposed geographic schedule; P2]
+* **Material Record:** The 1986 decision treated Vineyard Sound as historic inland waters but did not treat the whole of Nantucket Sound that way. The submitted implementation uses five described closing lines and specified interior indentations to give effect to that distinction. It does not reopen the historic-waters evidence or assert that all Nantucket Sound is inland. [P2]
 * **Threshold, Preservation, and Vehicle Matters:** The Court acts within retained original jurisdiction. A joint motion does not authorize an alteration of a controlling prior boundary decision. Justice Souter did not participate in this motion and supplemental decree.
 * **Relevant Dates:** Prior decree: October 6, 1975, 423 U.S. 1. Merits decision: February 25, 1986, 475 U.S. 89. Event: February 26, 1996, historical supplemental-decree date.
 * **Companion or Related Matters:** No additional consolidated or companion matter material to this brief is identified in the cited sources.
@@ -338,13 +335,12 @@ Article III, §2; 28 U.S.C. §1251; Submerged Lands Act, 43 U.S.C. §§1301–13
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
 * **Lawful Paths and Consequences:** A schedule conforming to the earlier judgment permits entry. An actual discrepancy would require correction or further proceedings, not an advisory reconsideration of historic waters.
-* **Material Uncertainty:** The packet does not independently certify geographic coordinates. The operative proposal incorporates the authenticated joint schedule rather than reconstructing measurements from a webpage.
+* **Material Uncertainty:** The packet does not independently certify geographic coordinates. This packet refers to the authenticated joint schedule rather than reconstructing measurements from a webpage.
 
 #### E. SOURCES
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
 
-* **P1:** [Published supplemental decree and joint-motion posture, 516 U.S. 365](https://openjurist.org/516/us/365/united-states-v-maine).
 * **P2:** [Pre-divergence Massachusetts boundary decision, 475 U.S. 89](https://supreme.justia.com/cases/federal/us/475/89/).
 
 #### Law entering this event
@@ -469,7 +465,7 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 * **Citation or Docket:** 60 F.3d 1411; Supreme Court docket not supplied; Ninth Circuit No. 95-15449
 * **October Term:** 1995
 * **Legal Field:** Elections Clause; federal registration legislation; federalism
-* **Entry Stage and Event:** User-supplied simulated grant; review of a permanent injunction requiring compliance with the NVRA.
+* **Entry Stage and Event:** Sim-granted matter; review of a permanent injunction requiring compliance with the NVRA.
 * **Simulated Event Date:** 1996-02-26; Supplied simulated.
 * **Question Presented:** Whether Congress may require California to implement the National Voter Registration Act for federal elections despite the State’s Tenth Amendment and voter-qualification objections. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Question Granted:** The supplied simulation calendar designates merits review of the identified controversy. The exact text of a separate grant order is not supplied; the question above is the reconstructed scope, subject to any actual controlling limitation.
@@ -505,7 +501,7 @@ Article II and Necessary and Proper authority protecting federal presidential el
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-* **Lawful Paths and Consequences:** A valid federal-election allocation supports prospective compliance; an administrative duty outside the statute would require narrowing that duty, not categorical noncompliance. A damages or separate private-enforcement claim would require its own channel.
+* **Lawful Paths and Consequences:** A valid federal-election allocation supports prospective compliance; if the Act's requirements exceed congressional authority as applied to the State, the compliance injunction cannot stand. Whether an administrative duty outside the statute calls for narrowing that duty or broader relief is a separate remedial question. A damages or separate private-enforcement claim would require its own channel.
 * **Material Uncertainty:** No separate simulated grant order or later implementation record is supplied. The module uses the reported facial dispute and does not predict later voting-rights doctrine.
 
 #### E. SOURCES
@@ -528,7 +524,7 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 **Application of the entering law:** This is review of permanent NVRA relief. Elections Clause authority, presidential-election authority, voter qualifications, private enforcement and United States enforcement must retain their distinct scopes.
 
-**Matter-specific uncertainty:** Historical petition 95-673 is now supplied. The reviewed Ninth Circuit appeal concerns a permanent injunction. Preserve the NVRA federal-election scope and the United States' enforcement role; no provisional-likelihood standard substitutes for final review.
+**Matter-specific uncertainty:** Historical petition 95-673 is now supplied. The reviewed Ninth Circuit appeal concerns a permanent injunction. Keep the NVRA federal-election scope and the United States' enforcement role distinct; no provisional-likelihood standard substitutes for final review.
 
 **New York v. United States**
 
@@ -608,7 +604,7 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 - **Court and Judgment Under Review:** The Ninth Circuit refused to give preclusive effect to the Delaware settlement’s release of federal securities claims.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
 - **Material Facts and Record:** Delaware shareholders settled state-law claims arising from a corporate acquisition. The state judgment approved a broad release including federal Exchange Act claims that could be litigated only in federal court. Other shareholders later pursued those federal claims in California.
-- **Preservation / Threshold / Vehicle Issues:** The Court should distinguish state adjudication of an exclusively federal claim from state approval of a release. Adequacy of representation, notice, jurisdiction, fraud, and due process remain available attacks on the judgment.
+- **Preservation / Threshold / Vehicle Issues:** Whether state adjudication of an exclusively federal claim should be distinguished from state approval of a release is contested. Adequacy of representation, notice, jurisdiction, fraud, and due process remain available attacks on the judgment.
 - **Relevant Dates:** Argument November 27, 1995; decision February 27, 1996.
 - **Companion or Consolidated Matters:** None.
 - **Known Participation Issue:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
@@ -616,7 +612,6 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 516 U.S. 367](https://supreme.justia.com/cases/federal/us/516/367/)
 
 #### Enacted and supporting authorities
 
@@ -760,10 +755,10 @@ An established failure to perform remains actionable without proof of negligence
 * **Simulated Event Date:** 1996-02-27; Historical Supreme Court event.
 * **Question Presented:** Whether repeal of the challenged telephone–cable ownership restriction makes these appeals moot, and what disposition should precede any constitutional ruling. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Question Granted / Submitted Scope:** The issue or issues stated above are reconstructed from the published case record. No additional question is assumed granted. A summary-review event does not imply a prior plenary grant.
-* **Court and Judgment Under Review:** Fourth Circuit, 42 F.3d 181, sustained the First Amendment challenge to the former 47 U.S.C. §533(b) restriction. That judgment is under review following repeal of the provision. [P1; P2]
+* **Court and Judgment Under Review:** Fourth Circuit, 42 F.3d 181, sustained the First Amendment challenge to the former 47 U.S.C. §533(b) restriction. That judgment is under review following repeal of the provision. [P2]
 * **Relief Requested:** The United States and cable-industry petitioner originally sought reversal of the constitutional judgment; the telephone companies sought affirmance. The intervening repeal requires consideration of whether any effective relief remains available.
 * **Material Record:** The controversy concerns the federal bar on specified telephone-company provision of cable programming in their service areas. The Telecommunications Act of 1996 repealed §533(b) after argument. The supplied record does not establish whether surviving claims, collateral consequences, or a transition issue keep either case live. [P2; P3, §302(b)(1)]
-* **Threshold, Preservation, and Vehicle Matters:** Article III mootness is antecedent to the First Amendment merits. Statutory repeal and voluntary cessation are not interchangeable without examining whether a live controversy remains. The Court may remand for that determination rather than manufacture a finding.
+* **Threshold, Preservation, and Vehicle Matters:** Article III mootness is antecedent to the First Amendment merits. Statutory repeal and voluntary cessation are not interchangeable without examining whether a live controversy remains. The Court may determine mootness itself on an adequate record or remand for that determination.
 * **Relevant Dates:** Argument: December 6, 1995. Repeal: February 8, 1996. Event: February 27, 1996, as printed in the reported disposition. A website’s March 27 metadata conflicts with its reproduced February 27 caption; the printed caption controls this calendar.
 * **Companion or Related Matters:** No. 94-1900, National Cable Television Association v. Bell Atlantic, is formally treated with No. 94-1893 in the reported disposition, not separately added to the case list.
 * **Participation Matter:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
@@ -776,23 +771,22 @@ Article III; 28 U.S.C. §2106; Telecommunications Act of 1996, Pub. L. 104-104, 
 
 ##### Issue 1: Intervening repeal and continued controversy
 
-* **Controlling Reasoning Below / Institutional Posture:** The Fourth Circuit resolved the former restriction’s constitutionality before Congress repealed it; it has not supplied the necessary post-repeal determination for this review.
+* **Controlling Reasoning Below / Institutional Posture:** The Fourth Circuit resolved the former restriction’s constitutionality before Congress repealed it; it has not supplied a post-repeal determination.
 * **Petitioner or Applicant’s Position:** The original government and industry position defended the restriction, but the repeal can remove the practical dispute. No unverified post-repeal concession is attributed to them.
 * **Respondent or Competing Position:** The telephone companies originally defended their constitutional judgment; any claim that a live interest survives repeal must identify effective relief or a concrete continuing consequence.
 
-* **Alternative or Unreached Grounds and Limits:** Article III mootness is antecedent to the First Amendment merits. Statutory repeal and voluntary cessation are not interchangeable without examining whether a live controversy remains. The Court may remand for that determination rather than manufacture a finding.
+* **Alternative or Unreached Grounds and Limits:** Article III mootness is antecedent to the First Amendment merits. Statutory repeal and voluntary cessation are not interchangeable without examining whether a live controversy remains. The Court may determine mootness itself on an adequate record or remand for that determination.
 * **Federal Participation:** The federal party’s position is identified above where applicable. No separate Solicitor General or amicus contention is invented beyond the cited record.
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-* **Lawful Paths and Consequences:** No effective relief requires a mootness disposition; surviving relief permits a narrower live case. An incomplete post-repeal record supports remand for that choice, not an advisory merits ruling.
-* **Material Uncertainty:** The exact surviving relief and parties’ post-repeal positions are not established by the short Supreme Court report. The draft preserves that factual inquiry and resolves no new-law challenge.
+* **Lawful Paths and Consequences:** No effective relief requires a mootness disposition; surviving relief permits a narrower live case. An incomplete post-repeal record may be addressed by this Court's own threshold determination or by remand for that choice, not by an advisory merits ruling.
+* **Material Uncertainty:** The exact surviving relief and parties’ post-repeal positions are not established by the supplied sources.
 
 #### E. SOURCES
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
 
-* **P1:** [Published Supreme Court record, identifying the two dockets, argument, and printed event date; comparator in Section III only](https://supreme.justia.com/cases/federal/us/516/415/).
 * **P2:** [Fourth Circuit judicial judgment, 42 F.3d 181, identifying the challenged restriction and merits controversy](https://openjurist.org/42/f3d/181/chesapeake-and-potomac-telephone-company-of-virginia-v-united-states).
 * **P3:** [Telecommunications Act of 1996, enrolled text, §302(b)(1), repealing the telephone-company cable restriction](https://www.congress.gov/bill/104th-congress/senate-bill/652/text/enr).
 
@@ -924,9 +918,9 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 * **Simulated Event Date:** 1996-03-04; Historical Supreme Court event.
 * **Question Presented:** Whether government specifications, procurement circumstances, and Defense Production Act compulsion establish a contractual obligation to reimburse the manufacturers’ third-party tort defense and settlement costs. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Question Granted / Submitted Scope:** The issue or issues stated above are reconstructed from the published case record. No additional question is assumed granted. A summary-review event does not imply a prior plenary grant.
-* **Court and Judgment Under Review:** Federal Circuit, 24 F.3d 188, affirmed summary judgment and dismissal of the manufacturers’ claims in the Claims Court. [P1, 419–422]
+* **Court and Judgment Under Review:** Federal Circuit, 24 F.3d 188, affirmed summary judgment and dismissal of the manufacturers’ claims in the Claims Court.
 * **Relief Requested:** The manufacturers seek recovery from the United States under implied warranty and indemnity theories; the United States seeks affirmance.
-* **Material Record:** The manufacturers supplied Agent Orange under detailed federal specifications and later incurred costs defending and settling veterans’ tort claims. The contracts contain no express promise to indemnify those third-party liabilities. One manufacturer relies additionally on compulsory production, superior government knowledge, and control over facilities. The asserted agreement must be inferred from actual contracting circumstances, not from fairness alone. [P1, 419–427]
+* **Material Record:** The manufacturers supplied Agent Orange under detailed federal specifications and later incurred costs defending and settling veterans’ tort claims. The contracts contain no express promise to indemnify those third-party liabilities. One manufacturer relies additionally on compulsory production, superior government knowledge, and control over facilities. The asserted agreement must be inferred from actual contracting circumstances, not from fairness alone.
 * **Threshold, Preservation, and Vehicle Matters:** The Tucker Act reaches express and implied-in-fact contracts, not obligations implied solely in law. Actual authority to make a government contract, contractual obligation, breach, and damages are separate. Justice Stevens did not participate.
 * **Relevant Dates:** Argument: October 30, 1995. Event: March 4, 1996, historical date. The later Winstar calendar item supplies no entering holding.
 * **Companion or Related Matters:** No additional consolidated or companion matter material to this brief is identified in the cited sources.
@@ -936,7 +930,7 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 28 U.S.C. §1491(a)(1); United States v. Spearin, 248 U.S. 132 (1918); Sutton v. United States, 256 U.S. 575 (1921). A specifications warranty ordinarily addresses the contractor’s ability to perform as directed; claimants must establish an authorized express or implied-in-fact undertaking encompassing the costs sought.
 
-Tucker Act; Defense Production Act provision then at 50 U.S.C. App. §2157; Anti-Deficiency Act, 31 U.S.C. §1341; Ryan Stevedoring v. Pan-Atlantic, 350 U.S. 124 (1956), distinguished as to its contractual direction. Compulsion to perform, immunity from specified liability, and a governmental promise to reimburse are different legal propositions.
+Tucker Act; Defense Production Act provision then at 50 U.S.C. App. §2157; Anti-Deficiency Act, 31 U.S.C. §1341; Ryan Stevedoring v. Pan-Atlantic, 350 U.S. 124 (1956). Compulsion to perform, immunity from specified liability, and a governmental promise to reimburse are different legal propositions.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 
@@ -963,8 +957,6 @@ Tucker Act; Defense Production Act provision then at 50 U.S.C. App. §2157; Anti
 #### E. SOURCES
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
-
-* **P1:** [Published Supreme Court opinion, 516 U.S. 417; contracts, statutory provisions, and separate claim theories](https://supreme.justia.com/cases/federal/us/516/417/).
 
 #### Law entering this event
 
@@ -1084,9 +1076,9 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 * **Simulated Event Date:** 1996-03-04; Historical Supreme Court event.
 * **Question Presented:** Whether due process permits forfeiture of the interest of an uninvolved co-owner, and whether the Takings Clause independently requires compensation for that forfeiture. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Question Granted / Submitted Scope:** The issue or issues stated above are reconstructed from the published case record. No additional question is assumed granted. A summary-review event does not imply a prior plenary grant.
-* **Court and Judgment Under Review:** Michigan Supreme Court reinstated the nuisance forfeiture, reversing the intermediate court. The trial court declined an offset for Tina Bennis’s interest. [P1, 444–446]
+* **Court and Judgment Under Review:** Michigan Supreme Court reinstated the nuisance forfeiture, reversing the intermediate court. The trial court declined an offset for Tina Bennis’s interest.
 * **Relief Requested:** Bennis seeks protection of her ownership interest or constitutionally required relief; Michigan seeks affirmance of the nuisance abatement.
-* **Material Record:** Bennis jointly owned the car with her husband, who used it for prohibited sexual activity without her knowledge. Michigan forfeited the vehicle as a public nuisance. The trial judge recognized equitable authority to return an innocent co-owner’s share, but declined because costs would consume much of the value and the family had another automobile. The record does not separately establish what preventive measures reasonably could have been expected of Tina Bennis. [P1, 444–446]
+* **Material Record:** Bennis jointly owned the car with her husband, who used it for prohibited sexual activity without her knowledge. Michigan forfeited the vehicle as a public nuisance. The trial judge recognized equitable authority to return an innocent co-owner’s share, but declined because costs would consume much of the value and the family had another automobile. The record does not separately establish what preventive measures reasonably could have been expected of Tina Bennis.
 * **Threshold, Preservation, and Vehicle Matters:** The challenge follows a forfeiture hearing; it is not a claim that no hearing occurred. Innocence alone, all reasonable preventive action, property abatement, and compensation are distinct. The questions presented are due process and takings; do not substitute an unpresented Excessive Fines claim.
 * **Relevant Dates:** Argument: November 29, 1995. Event: March 4, 1996, historical date.
 * **Companion or Related Matters:** No additional consolidated or companion matter material to this brief is identified in the cited sources.
@@ -1096,7 +1088,7 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 Fourteenth Amendment; Van Oster v. Kansas, 272 U.S. 465 (1926); J.W. Goldsmith, Jr.-Grant Co. v. United States, 254 U.S. 505 (1921); Calero-Toledo v. Pearson Yacht Leasing, 416 U.S. 663 (1974). Those holdings reject innocence alone as a universal defense. Calero-Toledo expressly reserved the owner who is unaware and uninvolved and has done all reasonably expected to prevent the misuse; that reservation is not an existing holding.
 
-Fifth Amendment Takings Clause as applied to States; United States v. Fuller, 409 U.S. 488 (1973), and the distinction between eminent domain and a valid forfeiture. A legally valid forfeiture is not automatically a compensable taking; whether the State lawfully acquired this interest depends on the due-process issue being remanded.
+Fifth Amendment Takings Clause as applied to States; United States v. Fuller, 409 U.S. 488 (1973), and the distinction between eminent domain and a valid forfeiture. A legally valid forfeiture is not automatically a compensable taking; whether the State lawfully acquired this interest depends on the due-process issue.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 
@@ -1116,14 +1108,13 @@ Fifth Amendment Takings Clause as applied to States; United States v. Fuller, 40
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-* **Lawful Paths and Consequences:** Applying the inherited rejection of innocence alone supports affirmance. Adopting the reserved reasonable-prevention exception requires remand because its full factual premise was not found. A takings award cannot be inferred simply from co-ownership or the amount forfeited.
-* **Material Uncertainty:** The record supports lack of knowledge but not a complete finding on all reasonably available preventive measures. The proposed holding therefore does not declare Bennis finally entitled to prevail.
+* **Lawful Paths and Consequences:** Applying the inherited rejection of innocence alone supports affirmance. Adopting the reserved reasonable-prevention exception, or another innocent-owner protection, would raise whether the existing findings suffice or further proceedings are needed. A takings award cannot be inferred simply from co-ownership or the amount forfeited.
+* **Material Uncertainty:** The record supports lack of knowledge but not a complete finding on all reasonably available preventive measures.
 
 #### E. SOURCES
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
 
-* **P1:** [Published Supreme Court opinion and separate writings, 516 U.S. 442; trial findings, inherited cases, and questions presented](https://supreme.justia.com/cases/federal/us/516/442/).
 * **P2:** [Calero-Toledo, especially the expressly reserved owner-protection question at 416 U.S. 689–690](https://supreme.justia.com/cases/federal/us/416/663/).
 
 #### Law entering this event
@@ -1233,9 +1224,9 @@ This adopts the protection suggested but left unresolved in Calero-Toledo. It is
 
 #### Record and posture
 
-Section 16(a) of the Public Telecommunications Act of 1992 directed a restriction on indecent, nonobscene broadcasting from 6 a.m. to midnight for most stations. Certain public stations signing off by midnight could begin such programming at 10 p.m. FCC audience information documented significant numbers of minors at different hours, with a decline late at night. The record did not connect the favored station classification to a difference in the stated risk. The challenged rule is content based and affects lawful speech to adults, rather than only obscenity or transmissions to children.
+Section 16(a) of the Public Telecommunications Act of 1992 directed a restriction on indecent, nonobscene broadcasting from 6 a.m. to midnight for most stations. Certain public stations signing off by midnight could begin such programming at 10 p.m. FCC audience information documented significant numbers of minors at different hours, with a decline late at night. Whether the record connects the favored station classification to a difference in the stated risk is contested. The challenged rule is content based and affects lawful speech to adults, rather than only obscenity or transmissions to children.
 
-The two consolidated petitions challenged the FCC's final enforcement rule. The simulated §1254(1) review concerns the permissible scope of time channeling and the classification, not adjudication of every future broadcast or rewriting the indecency definition. The existing lower decree requires a uniform 10 p.m.–6 a.m. safe harbor; the parties dispute whether that sufficiently remedies the defect. The rule and statutory text, severability and the actual administrative record bound relief.
+The two consolidated petitions challenged the FCC's final enforcement rule. The simulated §1254(1) review concerns the permissible scope of time channeling and the classification, not adjudication of every future broadcast or rewriting the indecency definition. The existing lower decree requires a uniform 10 p.m.–6 a.m. safe harbor; the parties dispute whether that sufficiently answers the challenges. The rule and statutory text, severability and the actual administrative record bound relief.
 
 #### Entering simulated law and application boundaries
 
@@ -1249,7 +1240,7 @@ The [matter-specific public-law extracts](inherited/readings/OT1995-107.md) pres
 
 #### Effective-date and record checks
 
-Denver Area is scheduled later. Its prepared analysis is not entering law. No merits outcome may be inferred from a historical certiorari denial.
+Denver Area is scheduled later. Its prepared analysis is not entering law.
 
 The assigned question and existing record support merits preparation. Ordinary preservation, jurisdiction, record and remedy limitations described above remain operative; no additional fact or grant is assumed.
 
@@ -1295,7 +1286,7 @@ The en banc D.C. Circuit sustained time channeling in principle, rejected the un
 * **Citation or Docket:** 66 F.3d 502 (2d Cir. 1995); historical petition 95-782 and Town cross-petition 95-1015, identified in the coordinated Standing State. No separate simulated Supreme Court docket is assigned.
 * **October Term / Event:** OT1995; March 11, 1996; simulation-assigned merits review.
 * **Legal Field:** Dormant Commerce Clause; municipal purchasing; waste flow control
-* **Scope:** The user includes SSC's contract challenge and the Town's ordinance cross-petition within this inventory entry. Their inclusion is resolved by that express selection, not inferred from the historical petition dispositions. This packet issues no grant or decision.
+* **Scope:** The simulation grant includes SSC's contract challenge and the Town's ordinance cross-petition within this inventory entry. Their inclusion is resolved by that express selection. This packet issues no grant or decision.
 * **Questions Presented:** May Smithtown specify disposal at its chosen facility as part of the collection-and-disposal service it purchases? May it also compel independent private waste transactions to use that privately owned facility? These are reconstructed questions, not a verbatim grant order.
 * **Judgment Under Review:** On September 19, 1995, the Second Circuit upheld invalidation of the ordinance, sustained the contract requirement and remanded the remaining contract dispute.
 * **Participation:** Stone, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. No case-specific nonparticipation is established.
@@ -1314,9 +1305,9 @@ SSC seeks relief from the contractual destination requirement. The Town defends 
 
 #### Disposition boundaries
 
-The contract and ordinance require separate judgments. Upholding the paid disposal term does not validate compulsory routing of unrelated private business. Invalidating the ordinance does not itself invalidate lawful service purchasing. An impermissible condition reaching a genuinely separate market would require its own analysis; the supplied agreements identify disposal as part of the purchased service here. Any constitutional disposition leaves the unresolved contract-liability and payment issues for ordinary proceedings and awards no damages by itself.
+The contract and ordinance require separate judgments. Upholding the paid disposal term does not validate compulsory routing of unrelated private business. Invalidating the ordinance does not itself invalidate lawful service purchasing. An impermissible condition reaching a genuinely separate market would require its own analysis. Any constitutional disposition leaves the unresolved contract-liability and payment issues for ordinary proceedings and awards no damages by itself.
 
-Both review questions and Stone's selected legal direction are resolved. The remaining contract record concerns application and relief, not another choice about the cross-petition. The retained extracts below state the coordinated opening law and its limits; an earlier prepared OT1995 position supplies no additional precedent without an actual effective decision.
+The remaining contract record concerns application and relief. The retained extracts below state the coordinated opening law and its limits; an earlier prepared OT1995 position supplies no additional precedent without an actual effective decision.
 
 #### Law entering this event
 
@@ -1328,7 +1319,7 @@ Both review questions and Stone's selected legal direction are resolved. The rem
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
-**Application of the entering law:** Carbone governs sovereign discriminatory routing; actual purchased disposal is a distinct market-participant question. The user's selected review includes the contract and the Town's ordinance cross-petition; each receives its own application of the governing law.
+**Application of the entering law:** Carbone governs sovereign discriminatory routing; actual purchased disposal is a distinct market-participant question. The sim-granted review includes the contract and the Town's ordinance cross-petition; each receives its own application of the governing law.
 
 
 **Carbone**
@@ -1428,8 +1419,8 @@ Simulated *Boston Harbor* reinforces the legitimacy of genuine government purcha
 - **Legal Area:** Personal liberty and remedies — abortion funding and severable relief
 - **Court and Judgment Under Review:** The Eighth Circuit left in place broad relief against Arkansas’s funding restriction.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
-- **Material Facts and Record:** Arkansas restricted public funding of abortions more narrowly than the federal Medicaid conditions then in effect. The litigation produced an injunction whose breadth extended beyond the precise conflict. An intervening Supreme Court decision clarified the federal funding requirements.
-- **Preservation / Threshold / Vehicle Issues:** The case is about the scope of relief after intervening law, not a general constitutional entitlement to public funding. State severability and any remaining claims require lower-court treatment.
+- **Material Facts and Record:** Arkansas restricted public funding of abortions more narrowly than the federal Medicaid conditions then in effect. The litigation produced a statewide injunction; whether its breadth extends beyond the precise federal conflict is contested. An intervening Supreme Court decision clarified the federal funding requirements.
+- **Preservation / Threshold / Vehicle Issues:** The case is about the scope of relief after intervening law, not a general constitutional entitlement to public funding. State severability and any remaining claims remain unresolved.
 - **Relevant Dates:** Decision March 18, 1996.
 - **Companion or Consolidated Matters:** None.
 - **Known Participation Issue:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
@@ -1437,7 +1428,6 @@ Simulated *Boston Harbor* reinforces the legitimacy of genuine government purcha
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 516 U.S. 474](https://supreme.justia.com/cases/federal/us/516/474/)
 
 #### Enacted and supporting authorities
 

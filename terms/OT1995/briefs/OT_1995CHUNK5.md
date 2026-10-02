@@ -22,9 +22,9 @@ Preparation only. 12 matters in chronological order. The index supplies the open
 * **Simulated Event Date:** 1996-03-19; Historical Supreme Court event.
 * **Question Presented:** Whether RCRA authorizes reimbursement of completed cleanup costs when the waste no longer presents an imminent and substantial endangerment at the time of suit. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Question Granted / Submitted Scope:** The issue or issues stated above are reconstructed from the published case record. No additional question is assumed granted. A summary-review event does not imply a prior plenary grant.
-* **Court and Judgment Under Review:** Ninth Circuit reversed dismissal of KFC’s claim against former owners and permitted recovery of cleanup costs under the citizen-suit provision. [P1, 481–483]
+* **Court and Judgment Under Review:** Ninth Circuit reversed dismissal of KFC’s claim against former owners and permitted recovery of cleanup costs under the citizen-suit provision.
 * **Relief Requested:** The former owners seek reversal and dismissal of the RCRA claim; KFC seeks reimbursement for its completed cleanup.
-* **Material Record:** KFC acquired property previously used for petroleum operations. After contamination was discovered, local authorities required cleanup, which KFC completed before bringing this suit. The complaint seeks past costs and does not allege a qualifying current endangerment when filed. [P1, 481–483]
+* **Material Record:** KFC acquired property previously used for petroleum operations. After contamination was discovered, local authorities required cleanup, which KFC completed before bringing this suit. The complaint seeks past costs and does not allege a qualifying current endangerment when filed.
 * **Threshold, Preservation, and Vehicle Matters:** Citizen-suit coverage, present endangerment, permissible relief, notice, and governmental-prosecution limits are distinct. This case does not concern costs incurred after a properly instituted ongoing-endangerment action.
 * **Relevant Dates:** Argument: January 10, 1996. Event: March 19, 1996, historical date.
 * **Companion or Related Matters:** No additional consolidated or companion matter material to this brief is identified in the cited sources.
@@ -32,9 +32,9 @@ Preparation only. 12 matters in chronological order. The index supplies the open
 
 #### Enacted and surviving authorities
 
-RCRA §7002(a)(1)(B), 42 U.S.C. §6972(a)(1)(B); the statutory phrase may present an imminent and substantial endangerment; citizen-suit notice and enforcement restrictions in §6972(b). An imminent threat can exist before physical injury occurs, but historical contamination alone is not a present endangerment.
+RCRA §7002(a)(1)(B), 42 U.S.C. §6972(a)(1)(B); the statutory phrase may present an imminent and substantial endangerment; citizen-suit notice and enforcement restrictions in §6972(b). An imminent threat can exist before physical injury occurs.
 
-42 U.S.C. §6972(a); CERCLA’s distinct express cost-recovery provisions; RCRA saving provisions. The power to restrain a contributor and order necessary action is not an unrestricted damages or restitution remedy. General equitable practice cannot erase the remedy Congress specified.
+42 U.S.C. §6972(a); CERCLA’s distinct express cost-recovery provisions; RCRA saving provisions. Whether the power to restrain a contributor and order necessary action includes a restitution remedy is contested.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 
@@ -54,14 +54,12 @@ RCRA §7002(a)(1)(B), 42 U.S.C. §6972(a)(1)(B); the statutory phrase may presen
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-* **Lawful Paths and Consequences:** A current endangerment could support prospective relief against a qualifying contributor. Its absence and the retrospective remedy requested defeat this RCRA claim, without resolving alternative sources of liability.
+* **Lawful Paths and Consequences:** A current endangerment could support prospective relief against a qualifying contributor. If the former owners prevail on either issue, this RCRA claim fails; if KFC prevails on both, reimbursement may proceed under it. Neither path resolves alternative sources of liability.
 * **Material Uncertainty:** Questions are source-grounded paraphrases rather than represented as verbatim petition text. Facts not established by the cited record remain unproved. No completed earlier OT1995 Court decision beyond the uploaded baseline has been supplied for incorporation; revalidation is required before adjudication.
 
 #### E. SOURCES
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
-
-* **P1:** [Published Supreme Court opinion, 516 U.S. 479; cleanup chronology, RCRA language, and remedy scope](https://supreme.justia.com/cases/federal/us/516/479/).
 
 #### Law entering this event
 
@@ -201,8 +199,8 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 - **Legal Area:** Employee benefits — fiduciary misrepresentation and equitable relief
 - **Court and Judgment Under Review:** The Eighth Circuit held Varity liable and granted equitable relief to employees who lost benefits after transferring to an insolvent affiliate.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
-- **Material Facts and Record:** Varity convened a meeting and communicated with employees about transferring employment and benefits to a financially troubled subsidiary. Acting through plan administration and benefit explanations, it portrayed the transfer as secure despite contrary knowledge. The employees lost their benefits when the subsidiary failed.
-- **Preservation / Threshold / Vehicle Issues:** The Court should identify the capacity in which Varity spoke and keep §502(a)(3) relief equitable and unavailable where another ERISA remedy is adequate.
+- **Material Facts and Record:** Varity convened a meeting and communicated with employees about transferring employment and benefits to a financially troubled subsidiary. In communications that included benefit explanations, it portrayed the transfer as secure despite contrary knowledge. The employees lost their benefits when the subsidiary failed.
+- **Preservation / Threshold / Vehicle Issues:** The Court should identify the capacity in which Varity spoke and keep §502(a)(3) relief equitable.
 - **Relevant Dates:** Argument November 1, 1995; decision March 19, 1996.
 - **Companion or Consolidated Matters:** None.
 - **Known Participation Issue:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
@@ -210,7 +208,6 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 516 U.S. 489](https://supreme.justia.com/cases/federal/us/516/489/)
 
 #### Enacted and supporting authorities
 
@@ -318,7 +315,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 1](https://supreme.justia.com/cases/federal/us/517/1/)
 
 #### Enacted and supporting authorities
 
@@ -406,7 +402,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ## OT1995-045 — Ayers v. Fordice +
 
-**Event:** 1996-03-25 | **Category:** MERITS | **Action:** User-selected reconstructed merits review before appellate judgment
+**Event:** 1996-03-25 | **Category:** MERITS | **Action:** Sim-granted reconstructed merits review before appellate judgment
 
 **Citation:** 879 F. Supp. 1419
 
@@ -423,7 +419,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 - **Decree provisions:** Paragraph 2 concerns admissions. Paragraphs 3–10 contain Jackson State and Alcorn institutional measures; support for institutional repair does not automatically decide every race-specific eligibility condition. Paragraph 12 calls for study and substantiation of a conditional Delta State/Mississippi Valley consolidation proposal, not immediate merger. Paragraphs 11 and 16 concern reporting and retained supervision. The opinion separately addresses scholarship and equipment findings.
 - **Pre-event amendments:** The district docket’s entry 557, dated February 16, 1996, records an additional admissions alternative. Entry 562, March 1, records relief from reporting until a Monitoring Committee exists, with later deadlines contemplated. The docket establishes these actions’ existence, not the full terms of every underlying order. Account for the operative orders where material to relief; do not decide against an assumed unchanged March 1995 admissions text or impose a historical deadline displaced before this event.
 - **Questions for review:** Whether challenged aspects of the operative decree discharge the State’s actual simulated Fordice duty, and whether necessary repair of established educational injury may be refused solely because additional white enrollment is not predicted. The allegations, preserved objections and record must identify any ruling resting on that limitation. Current unequal budgets or racial identifiability alone establish neither violation nor remedy.
-- **Available consequences:** Preserve supported relief and unaffected findings; correct an identified legal error or material unresolved remedial determination within review. A partial vacatur must identify its affected ruling and leave other portions intact. No unsupported statewide funding formula, identical-program requirement, forced merger, fresh-intent requirement for a traceable remnant, or new universal evidentiary process follows.
+- **Available consequences:** Affirm the reviewed provisions, or correct an identified legal error or material unresolved remedial determination within review; any vacatur must identify its affected ruling and leave unaffected portions intact. No unsupported statewide funding formula, identical-program requirement, forced merger, fresh-intent requirement for a traceable remnant, or new universal evidentiary process follows.
 - **Participation:** All nine rostered Justices; no established case-specific nonparticipation. This is merits preparation, not an application with an invented Circuit Justice route.
 - **Sources:** [1995 district opinion](https://law.justia.com/cases/federal/district-courts/FSupp/879/1419/2264344/); [historical district docket, entries 557 and 562](https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/45301.pdf); [§1254](https://www.law.cornell.edu/uscode/text/28/1254); [1995 Court rules](https://www.supremecourt.gov/ctrules/rules/Rules_1995.pdf). The 1997 appellate opinion is a procedural locator, not a judgment or authority effective in March 1996. Later submissions cannot be imported backward.
 
@@ -437,9 +433,9 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
-**Application of the entering law:** Simulated Fordice places the dismantlement burden on the State and requires assessment of interacting admissions, missions, duplication, organization and properly challenged funding policies. No new discriminatory intent is required for traceable remnants; racial imbalance alone is insufficient. Apply Freeman to any request for release within its remedial scope. Simulated Jenkins sustains necessary, violation-linked educational repair and rejects program installation alone as proof of completed compliance; the contrary historical Jenkins disposition does not govern. Preserve supported findings and remedies, correct a wrong legal allocation of burden, and assess any factual challenge under the proper review standard. Do not require plaintiffs to prove new intent or automatically reverse scholarship findings using the 1997 appellate record. The effective March 1996 record and established review scope control each decree provision.
+**Application of the entering law:** Simulated Fordice places the dismantlement burden on the State and requires assessment of interacting admissions, missions, duplication, organization and properly challenged funding policies. No new discriminatory intent is required for traceable remnants; racial imbalance alone is insufficient. Apply Freeman to any request for release within its remedial scope. Simulated Jenkins sustains necessary, violation-linked educational repair and rejects program installation alone as proof of completed compliance; the contrary historical Jenkins disposition does not govern. Preserve supported findings and remedies, correct any wrong legal allocation of burden, and assess any factual challenge under the proper review standard. Do not require plaintiffs to prove new intent or rely on the 1997 appellate record. The effective March 1996 record and established review scope control each decree provision.
 
-**Matter-specific uncertainty:** The selected AY-2 route defines simulated review before appellate judgment of the identified remedial disputes; no replacement Supreme Court docket is assigned. The operative pre-event orders, preserved challenges and particular adverse rulings resting on an enrollment-only limitation must be identified before the exact partial-vacatur decree is entered. The docket descriptions of the February 16 and March 1 amendments do not supply their complete texts. No actual grant order or outcome is created by preparation.
+**Matter-specific uncertainty:** The selected AY-2 route defines simulated review before appellate judgment of the identified remedial disputes; no replacement Supreme Court docket is assigned. The operative pre-event orders, preserved challenges and any adverse rulings resting on an enrollment-only limitation must be identified before any decree is entered. The docket descriptions of the February 16 and March 1 amendments do not supply their complete texts. No actual grant order or outcome is created by preparation.
 
 **United States v. Fordice**
 
@@ -528,9 +524,9 @@ The State and district’s respective responsibilities must be assessed separate
 * **Simulated Event Date:** 1996-03-26; Historical Supreme Court event.
 * **Question Presented:** Whether the federal permission for qualifying national banks to sell insurance preempts Florida’s prohibition, and whether McCarran-Ferguson preserves the prohibition. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Question Granted / Submitted Scope:** The issue or issues stated above are reconstructed from the published case record. No additional question is assumed granted. A summary-review event does not imply a prior plenary grant.
-* **Court and Judgment Under Review:** Eleventh Circuit, 43 F.3d 631, sustained application of the Florida restriction notwithstanding the federal banking provision. [P1, 28–30]
+* **Court and Judgment Under Review:** Eleventh Circuit, 43 F.3d 631, sustained application of the Florida restriction notwithstanding the federal banking provision.
 * **Relief Requested:** Barnett Bank seeks reversal and protection of its federally authorized insurance agency activity; the state insurance official seeks affirmance.
-* **Material Record:** The bank operates through a qualifying small-town location and acquired an insurance agency. Federal law authorizes qualifying national banks to act as insurance agents, while Florida’s law bars the relevant bank-affiliated insurance sale outside specified exceptions. The contested state action blocks the authorized activity rather than merely requiring compliance with a neutral sales practice. [P1, 28–31]
+* **Material Record:** The bank operates through a qualifying small-town location and acquired an insurance agency. Federal law authorizes qualifying national banks to act as insurance agents, while Florida’s law bars the relevant bank-affiliated insurance sale outside specified exceptions.
 * **Threshold, Preservation, and Vehicle Matters:** Identify the actual federal authorization and conflict before invoking general banking policy. Ordinary state insurance regulation is not categorically at issue. The separate McCarran-Ferguson rule requires attention to whether the federal enactment specifically relates to insurance.
 * **Relevant Dates:** Argument: January 16, 1996. Event: March 26, 1996, historical date.
 * **Companion or Related Matters:** No additional consolidated or companion matter material to this brief is identified in the cited sources.
@@ -540,7 +536,7 @@ The State and district’s respective responsibilities must be assessed separate
 
 12 U.S.C. §92; Supremacy Clause; Franklin National Bank v. New York, 347 U.S. 373 (1954). Determine whether the state law prevents or materially interferes with the particular authority Congress conferred; state laws compatible with that authority remain operative.
 
-15 U.S.C. §1012(b). The insurance-preservation rule distinguishes federal enactments that specifically relate to the business of insurance from those that do not. It does not require an express preemption clause whenever the federal statute specifically addresses insurance.
+15 U.S.C. §1012(b). The insurance-preservation rule distinguishes federal enactments that specifically relate to the business of insurance from those that do not.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 
@@ -560,14 +556,12 @@ The State and district’s respective responsibilities must be assessed separate
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-* **Lawful Paths and Consequences:** Absence of conflict would permit concurrent regulation; a conflicting state ban is displaced unless McCarran-Ferguson preserves it. Both statutory questions are necessary to the proposed reversal.
+* **Lawful Paths and Consequences:** Absence of conflict would permit concurrent regulation; a conflicting state ban is displaced unless McCarran-Ferguson preserves it.
 * **Material Uncertainty:** Questions are source-grounded paraphrases rather than represented as verbatim petition text. Facts not established by the cited record remain unproved. No completed earlier OT1995 Court decision beyond the uploaded baseline has been supplied for incorporation; revalidation is required before adjudication.
 
 #### E. SOURCES
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
-
-* **P1:** [Published Supreme Court opinion, 517 U.S. 25; Florida restriction, §92, and McCarran-Ferguson](https://supreme.justia.com/cases/federal/us/517/25/).
 
 #### Law entering this event
 
@@ -711,7 +705,6 @@ When §92 applies, it requires the national bank to be located and doing busines
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 44](https://supreme.justia.com/cases/federal/us/517/44/)
 
 #### Enacted and supporting authorities
 
@@ -813,13 +806,13 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 - **Citation / Docket:** 517 U.S. 186; No. 94-203
 - **October Term:** 1995
 - **Entry Stage / Event Type:** Granted merits review; decision pending in this simulation.
-- **Question Presented:** Whether Virginia’s imposition of a registration fee at a political party convention selecting a nominee for United States Senator was subject to §5 preclearance and enforceable through a private action.
+- **Question Presented:** Whether the Republican Party of Virginia’s imposition of a registration fee at a political party convention selecting a nominee for United States Senator was subject to §5 preclearance and enforceable through a private action.
 - **Question Granted:** The stated question describes the submitted review scope; no additional question or plenary grant is inferred beyond the identified procedural stage.
 - **Legal Area:** Voting rights — preclearance, party nomination, and private enforcement
 - **Court and Judgment Under Review:** A three-judge district court rejected the §5 challenge to the convention fee.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
-- **Material Facts and Record:** Virginia law used the Republican Party’s convention nominee as the party’s candidate on the general-election ballot. Convention participants had to pay a fee. The fee had not been submitted for §5 review even though it changed access to a state-recognized stage of the electoral process.
-- **Preservation / Threshold / Vehicle Issues:** The party’s state-action status is tied to the delegated nomination function. Internal party activity outside the official process remains distinct.
+- **Material Facts and Record:** Virginia law used the Republican Party’s convention nominee as the party’s candidate on the general-election ballot. Convention participants had to pay a fee. The fee had not been submitted for §5 review.
+- **Preservation / Threshold / Vehicle Issues:** The party’s state-action status, if any, is tied to the delegated nomination function. Internal party activity outside the official process remains distinct.
 - **Relevant Dates:** Argument October 2, 1995; decision March 27, 1996.
 - **Companion or Consolidated Matters:** None.
 - **Known Participation Issue:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
@@ -827,7 +820,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 186](https://supreme.justia.com/cases/federal/us/517/186/)
 
 #### Enacted and supporting authorities
 
@@ -845,7 +837,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
-**Application of the entering law:** The actual convention's state-integrated nomination function, the fee change, preclearance, retrogression baseline and any private §10 route are separate statutory questions. Miller supplies no universal voting-rights cause of action; Hurley protects actual private expression.
+**Application of the entering law:** The actual convention's nomination function, the fee change, preclearance, retrogression baseline and any private §10 route are separate statutory questions. Miller supplies no universal voting-rights cause of action; Hurley protects actual private expression.
 
 **Presley**
 
@@ -976,7 +968,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 292](https://supreme.justia.com/cases/federal/us/517/292/)
 
 #### Enacted and supporting authorities
 
@@ -1086,7 +1077,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 308](https://supreme.justia.com/cases/federal/us/517/308/)
 
 #### Enacted and supporting authorities
 
@@ -1179,7 +1169,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 314](https://supreme.justia.com/cases/federal/us/517/314/)
 
 #### Enacted and supporting authorities
 
@@ -1286,8 +1275,8 @@ The videotape was trial evidence. Green's asserted prompt call, Faherty's moveme
 * **Question Presented:** Whether the Court should deny financial leave and impose a prospective noncriminal filing restriction based on the identified history of repetitive filings. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Court and Judgment Under Review:** No lower-court merits judgment is under review in this fee event. The Court is acting on its own docket and financial-leave rules.
 * **Relief Requested:** The applicant seeks leave to file without prepayment. The competing administrative measure would require fees and compliant paid-petition form for the current and future covered filings.
-* **Material Record:** The historical report describes repeated filings and earlier fee denials; those post-divergence historical dispositions are not automatically completed simulated orders. The present petition(s), financial eligibility, and any validated earlier restrictions must be checked. Filing counts alone do not establish present frivolousness or justify a prospective condition. [P1]
-* **Threshold, Preservation, and Vehicle Matters:** Financial eligibility, whether the particular filing is frivolous or malicious, prospective docket restrictions, and the petition’s substantive disposition are separate questions. The supplied report does not reproduce the underlying petition sufficiently to make a fresh merits finding. A fee order cannot silently become denial of certiorari.
+* **Material Record:** The available record describes repeated filings and earlier fee denials; those post-divergence historical dispositions are not automatically completed simulated orders. The present petition(s), financial eligibility, and any validated earlier restrictions must be checked. Filing counts alone do not establish present frivolousness or justify a prospective condition.
+* **Threshold, Preservation, and Vehicle Matters:** Financial eligibility, whether the particular filing is frivolous or malicious, prospective docket restrictions, and the petition’s substantive disposition are separate questions. The supplied record does not reproduce the underlying petition sufficiently to make a fresh merits finding. A fee order cannot silently become denial of certiorari.
 * **Relevant Dates:** Event: April 1, 1996, historical fee-order date. The March warning is a prior procedural event, not a merits holding. The later-enacted Prison Litigation Reform Act supplies no present three-strikes ground.
 * **Companion or Related Matters:** No additional consolidated or companion matter material to this brief is identified in the cited sources.
 * **Participation Matter:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
@@ -1304,27 +1293,25 @@ Supreme Court Rules 39, 38, and 33 in their event-date versions; 28 U.S.C. §191
 * **Petitioner or Applicant’s Position:** Indigence should not exclude a potentially legitimate filing merely because earlier filings failed; ordinary screening can dispose of the present petition on its own grounds.
 * **Respondent or Competing Position:** Repeated frivolous submissions consume finite judicial resources; the inherited decisions permit requiring payment for a defined class of future filings while leaving criminal matters and paid filings open.
 
-* **Alternative or Unreached Grounds and Limits:** Financial eligibility, whether the particular filing is frivolous or malicious, prospective docket restrictions, and the petition’s substantive disposition are separate questions. The supplied report does not reproduce the underlying petition sufficiently to make a fresh merits finding. A fee order cannot silently become denial of certiorari.
+* **Alternative or Unreached Grounds and Limits:** Financial eligibility, whether the particular filing is frivolous or malicious, prospective docket restrictions, and the petition’s substantive disposition are separate questions. The supplied record does not reproduce the underlying petition sufficiently to make a fresh merits finding. A fee order cannot silently become denial of certiorari.
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
 * **Lawful Paths and Consequences:** Denying financial leave can require payment and compliant paid-petition form without deciding the petition. A separately justified prospective restriction would need precise scope and exceptions. Granting leave permits filing and ordinary merits screening; it is not a grant of certiorari.
-* **Material Uncertainty:** The underlying petition and financial affidavit are not fully reproduced in the source. This brief therefore does not claim to have independently found either the petition meritorious or the applicant’s financial statement proven.
+* **Material Uncertainty:** The underlying petition and financial affidavit are not fully reproduced in the available record. This brief therefore does not claim to have independently found either the petition meritorious or the applicant’s financial statement proven.
 
 #### E. SOURCES
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
 
-* **P1:** [Published Supreme Court fee order, used for filing history and the separate historical comparator](https://www.law.cornell.edu/supct/html/95-7587.ZPC.html).
-
 #### Application-specific presentation and consequences
 
 - **Exact relief requested:** Leave to file the current certiorari petition(s) in forma pauperis. A proposed prospective fee-and-form condition for future noncriminal certiorari filings is a separate docket-control question, not the applicant’s requested relief and not a merits disposition.
-- **Underlying order and circuit:** This is a Court-directed fee motion on the Supreme Court docket. The report does not establish a Circuit Justice presentation route; no circuit is inferred from the caption, residence, or the lower merits litigation.
+- **Underlying order and circuit:** This is a Court-directed fee motion on the Supreme Court docket. The record does not establish a Circuit Justice presentation route; no circuit is inferred from the caption, residence, or the lower merits litigation.
 - **Authority:** Event-date Supreme Court Rules 39 and 39.8, Rule 38’s fee, and the applicable Rule 33/33.1 form requirements; 28 U.S.C. §1915 where applicable. Do not apply a generic stay or injunction test.
 - **Specific standard:** Determine financial eligibility and the current filing’s frivolousness or malice under Rule 39.8. Any prospective restriction separately needs the applicant-specific, filing-category-specific record and justification required by the actual simulated filing-control cases below, including why ordinary treatment of particular filings is inadequate. Volume and prior losses do not alone establish either question.
 - **Preservation and vehicle:** The current petition’s contents and financial record must support the actual fee ruling. No merits grant, review of an underlying judgment, or finding about unidentified future claims follows from this motion. Distinguish historical docket allegations from validated simulated orders; no unsupplied prior denial or warning is treated as completed here.
-- **Timing and harm:** Access to filing and compliance with any actual fee deadline matter. The report’s later payment deadline is an historical consequence in Section III, not a deadline already imposed in this simulation. No execution, mandate, or injunction-related irreparable-harm requirement is invented.
+- **Timing and harm:** Access to filing and compliance with any actual fee deadline matter. No execution, mandate, or injunction-related irreparable-harm requirement is invented.
 - **Presenter and route:** Court-directed motion; no assigned Circuit Justice presenter is established. The full Court decides in its own name. The standing referral rule does not justify manufacturing a presentation that the record does not contain.
 - **Participation:** All nine rostered Justices participate absent a later established case-specific restriction; five votes are required for relief.
 - **If granted:** The current petition may proceed without prepayment subject to ordinary screening; certiorari is not granted and no underlying claim is decided.
@@ -1473,9 +1460,9 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 * **Entry Stage and Event:** Application to vacate a court-of-appeals stay of execution in a successive federal habeas proceeding.
 * **Simulated Event Date:** 1996-04-09; Historical Supreme Court event.
 * **Question Presented:** Whether the unexplained stay and certificate of probable cause in Williams’s third federal habeas proceeding establish a sufficient basis to postpone execution or require immediate dissolution. Source-grounded formulation, not a claim to reproduce a petition verbatim.
-* **Court and Judgment Under Review:** Eighth Circuit granted a certificate of probable cause and a stay after the district court rejected the third petition as successive, abusive, or procedurally defaulted. The appellate order did not explain the substantial grounds supporting continued review. [P1, 345–347]
+* **Court and Judgment Under Review:** Eighth Circuit granted a certificate of probable cause and a stay after the district court rejected the third petition as successive, abusive, or procedurally defaulted. The appellate order did not explain any substantial grounds supporting continued review.
 * **Relief Requested:** The warden seeks vacatur of the stay; Williams seeks continued protection while his appeal is considered.
-* **Material Record:** The district court rejected the third habeas petition and denied a proposed amendment. The Eighth Circuit issued an unexplained stay and certificate, with argument scheduled later; the execution was scheduled for the next day. The present application does not supply a reasoned appellate resolution of the default, abuse, or merits questions. [P1]
+* **Material Record:** The district court rejected the third habeas petition and denied a proposed amendment. The Eighth Circuit issued an unexplained stay and certificate, with argument scheduled later; the execution was scheduled for the next day. The present application does not supply a reasoned appellate resolution of the default, abuse, or merits questions.
 * **Threshold, Preservation, and Vehicle Matters:** A successive petition does not receive an automatic stay, and a certificate is not a merits holding. The Court must assess the stay through the pre-AEDPA regime because April 24 enactment lies after this event. An application to vacate a stay is not plenary adjudication of the habeas claims.
 * **Relevant Dates:** District-court ruling: January 11, 1996. Appellate stay: March 8, 1996. Application event: April 9, 1996. Scheduled execution: April 10; scheduled argument: May 13. These dates are historical record facts, not newly assigned deadlines.
 * **Companion or Related Matters:** No additional consolidated or companion matter material to this brief is identified in the cited sources.
@@ -1497,14 +1484,12 @@ Pre-AEDPA 28 U.S.C. §§2251, 2253, 2254 and then-applicable Habeas Rule 9; Bare
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-* **Lawful Paths and Consequences:** A demonstrated absence of substantial grounds supports vacatur. A supported substantial appellate issue can support a bounded stay. Where the appellate basis is missing, prompt clarification permits review without declaring either the habeas merits or procedural gateway satisfied.
-* **Material Uncertainty:** The official report is short and the full third-petition record is not supplied. The PDF text was retrieved, but image rendering failed; no visual or tabular finding is drawn from it. The proposed disposition is expressly limited to obtaining the missing appellate explanation.
+* **Lawful Paths and Consequences:** A demonstrated absence of substantial grounds supports vacatur. A supported substantial appellate issue can support a bounded stay. Where the appellate basis is missing, the Court may assess substantial grounds on the available record or seek prompt clarification; neither course declares the habeas merits or procedural gateway satisfied.
+* **Material Uncertainty:** The full third-petition record is not supplied.
 
 #### E. SOURCES
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
-
-* **P1:** [Official published application disposition, 517 U.S. 345–347; procedural history and separate writing](https://tile.loc.gov/storage-services/service/ll/usrep/usrep517/usrep517345/usrep517345.pdf).
 
 #### Application-specific presentation and consequences
 
@@ -1512,7 +1497,7 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 - **Underlying order and circuit:** Eighth Circuit; third federal habeas petition denied January 11, 1996; certificate of probable cause and appellate stay followed; appellate argument set for May 13. Execution is scheduled for April 10, one day after this April 9 event.
 - **Authority:** The Court’s supervisory and all-writs authority, 28 U.S.C. §1651(a), in aid of its appellate jurisdiction; the underlying habeas/stay and certificate channels in pre-AEDPA §§2251, 2253, 2254 and then-applicable Habeas Rule 9. This is vacatur of an existing lower-court stay, not a new plenary habeas or certiorari merits grant.
 - **Specific standard:** Examine whether the successive-petition stay rests on substantial grounds on which relief might be granted, including the actual procedural bars and recognized exceptions, under Barefoot and Delo v. Stokes. Vacatur requires applying that limited standard to the actual stay record and the claimed abuse of discretion. A certificate or unexplained order neither automatically justifies nor automatically defeats the stay. Simulated Delo v. Blair supplies no majority rationale.
-- **Preservation and vehicle:** Obtain the petition, district-court grounds, magistrate’s report, requested amendment, certificate and stay order necessary to test substantial grounds; do not resolve absent evidence or infer that every procedural bar is overcome. The limited supplied account supports identifying this gap, not adjudicating it.
+- **Preservation and vehicle:** The petition, district-court grounds, magistrate’s report, requested amendment, certificate and stay order bear on substantial grounds; do not resolve absent evidence or infer that every procedural bar is overcome.
 - **Timing and irreparable harm:** Execution would irreversibly eliminate the applicant for habeas relief’s life before the scheduled appeal. The State asserts finality and timely enforcement after repeated review. Assess those interests on the current substantial-grounds record; urgency is not a substitute for that standard.
 - **Presenter and route:** Justice O’Connor, Eighth Circuit, under the August 3, 1994 allotment effective on April 9, 1996, presents and refers the application to the full Court. Stone occupies the Chief Justice seat but the Chief’s circuit substitution does not alter the Eighth Circuit assignment.
 - **Participation:** All nine rostered Justices, absent a separately established restriction; five votes are required. The presenter’s vote is not determined by the referral.
@@ -1530,7 +1515,7 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
-**Application of the entering law:** O’Connor presents and refers this Eighth Circuit application. Administrative protection preserves review without deciding whether substantial grounds justify the underlying successive-petition stay. AEDPA is not yet enacted.
+**Application of the entering law:** O’Connor presents and refers this Eighth Circuit application. AEDPA is not yet enacted.
 
 **Delo v. Blair**
 

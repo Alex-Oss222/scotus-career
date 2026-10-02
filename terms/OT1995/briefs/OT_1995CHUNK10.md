@@ -22,7 +22,7 @@ Preparation only. 7 matters in chronological order. The index supplies the openi
 - **Court and Judgment Under Review:** The Tenth Circuit treated the Colorado Republican Party’s pre-nomination advertisement as subject to the statutory coordinated-party expenditure limit.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
 - **Material Facts and Record:** Before the Republican Senate nominee was selected, the state party paid for a radio advertisement criticizing the likely Democratic candidate. The record did not establish consultation, request, suggestion, or coordinated control by a Republican candidate, yet the FEC treated party expenditures as coordinated by their nature.
-- **Preservation / Threshold / Vehicle Issues:** The Court should decide only the independent expenditure shown by this record. The validity and amount of limits on coordinated party expenditures remain outside the necessary judgment.
+- **Preservation / Threshold / Vehicle Issues:** Whether the Court should decide only the independent expenditure shown by this record, or also the validity and amount of limits on coordinated party expenditures, is an open scope question.
 - **Relevant Dates:** Argument April 15, 1996; decision June 26, 1996.
 - **Companion or Consolidated Matters:** None.
 - **Known Participation Issue:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
@@ -30,7 +30,6 @@ Preparation only. 7 matters in chronological order. The index supplies the openi
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 518 U.S. 604](https://supreme.justia.com/cases/federal/us/518/604/)
 
 #### Enacted and supporting authorities
 
@@ -140,7 +139,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 - **Court and Judgment Under Review:** The Eleventh Circuit denied authorization to file a successive habeas petition under the newly enacted gatekeeping provisions.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
 - **Material Facts and Record:** Felker, a state prisoner under a death sentence, sought to present another federal habeas application after prior proceedings. AEDPA required court-of-appeals authorization under specified substantive conditions and restricted ordinary certiorari review of the gatekeeping determination. Felker also invoked this Court’s original habeas jurisdiction.
-- **Preservation / Threshold / Vehicle Issues:** The case concerns successive-petition regulation and this Court’s jurisdiction. The Court should not decide hypothetical applications that would eliminate every meaningful habeas channel or foreclose a claim satisfying the statute.
+- **Preservation / Threshold / Vehicle Issues:** The case concerns successive-petition restrictions and this Court’s jurisdiction.
 - **Relevant Dates:** Argument June 3, 1996; decision June 28, 1996.
 - **Companion or Consolidated Matters:** None.
 - **Known Participation Issue:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
@@ -148,7 +147,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 518 U.S. 651](https://supreme.justia.com/cases/federal/us/518/651/)
 
 #### Enacted and supporting authorities
 
@@ -271,7 +269,6 @@ The videotape was trial evidence. Green's asserted prompt call, Faherty's moveme
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 518 U.S. 668](https://supreme.justia.com/cases/federal/us/518/668/)
 
 #### Enacted and supporting authorities
 
@@ -375,7 +372,7 @@ Section 501(c) treats a payment on the individual's behalf to a §170(c) charita
 - **Court and Judgment Under Review:** The Seventh Circuit rejected the contractor’s First Amendment claim because O’Hare was not a government employee.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
 - **Material Facts and Record:** O’Hare regularly received municipal towing referrals through a rotation list. After its owner declined to contribute to or support the incumbent mayor and supported an opponent, the company was removed from the list. The City denied unconstitutional motive and asserted ordinary control over its contracting arrangements.
-- **Preservation / Threshold / Vehicle Issues:** The case concerns an existing, recurring government-contractor relationship and political coercion. The Court need not decide neutral qualifications, performance-based removal, competitive procurement, immunity, or damages in the first instance.
+- **Preservation / Threshold / Vehicle Issues:** The case concerns an existing, recurring government-contractor relationship and alleged political coercion. The Court need not decide neutral qualifications, performance-based removal, competitive procurement, immunity, or damages.
 - **Relevant Dates:** Argument March 20, 1996; decision June 28, 1996.
 - **Companion or Consolidated Matters:** None.
 - **Known Participation Issue:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
@@ -383,7 +380,6 @@ Section 501(c) treats a payment on the individual's behalf to a §170(c) charita
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 518 U.S. 712](https://supreme.justia.com/cases/federal/us/518/712/)
 
 #### Enacted and supporting authorities
 
@@ -465,7 +461,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 - **Court and Judgment Under Review:** The D.C. Circuit sustained the challenged provisions governing operator bans, segregation and blocking, and public-access programming.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
 - **Material Facts and Record:** Section 10(a) permitted cable operators to prohibit patently offensive sexual programming on leased-access channels. Section 10(b) required operators that carried such programming to place it on a segregated channel and block it until a subscriber requested access in writing. Section 10(c) permitted operators to prohibit comparable programming on public, educational, and governmental channels whose speakers and purposes were selected through local access arrangements.
-- **Preservation / Threshold / Vehicle Issues:** Issue 1 — §10(a) operator discretion on leased access. Issue 2 — §10(b) segregation and advance blocking. Issue 3 — §10(c) operator control of public-access channels. Each provision requires a separate judgment and rationale.
+- **Preservation / Threshold / Vehicle Issues:** Issue 1 — §10(a) operator discretion on leased access. Issue 2 — §10(b) segregation and advance blocking. Issue 3 — §10(c) operator control of public-access channels. Each provision requires a separate judgment.
 - **Relevant Dates:** Argument February 21, 1996; decision June 28, 1996.
 - **Companion or Consolidated Matters:** Denver Area Educational Telecommunications Consortium, Inc. v. FCC; Alliance for Community Media v. FCC
 - **Known Participation Issue:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
@@ -473,7 +469,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 518 U.S. 727](https://supreme.justia.com/cases/federal/us/518/727/)
 
 #### Enacted and supporting authorities
 
@@ -638,7 +633,7 @@ The denial concerned religious activity, defined by the Guidelines as primarily 
 - **Court and Judgment Under Review:** The Federal Circuit held the Government liable for breach of contracts permitting favorable supervisory-goodwill accounting after FIRREA withdrew that treatment.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
 - **Material Facts and Record:** Federal regulators encouraged private parties to acquire failing savings institutions and expressly approved accounting treatment that counted supervisory goodwill toward regulatory capital over specified periods. FIRREA later eliminated that treatment, making continued compliance substantially more difficult or impossible. The Government invoked sovereign authority and argued that it had not unmistakably surrendered future regulatory power.
-- **Preservation / Threshold / Vehicle Issues:** The case concerns contractual allocation of financial consequences, not an injunction against Congress, invalidation of FIRREA, or a general promise that regulation will never change.
+- **Preservation / Threshold / Vehicle Issues:** The case concerns liability for financial consequences, not an injunction against Congress or invalidation of FIRREA.
 - **Relevant Dates:** Argument April 24, 1996; decision July 1, 1996.
 - **Companion or Consolidated Matters:** None.
 - **Known Participation Issue:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
@@ -646,7 +641,6 @@ The denial concerned religious activity, defined by the Guidelines as primarily 
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 518 U.S. 839](https://supreme.justia.com/cases/federal/us/518/839/)
 
 #### Enacted and supporting authorities
 
@@ -723,7 +717,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 - **Court and Judgment Under Review:** The Supreme Court of Pennsylvania suppressed evidence after requiring police to prove exigency in addition to probable cause before searching the vehicles without warrants.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
 - **Material Facts and Record:** Police had probable cause to believe the vehicles contained contraband connected to drug offenses, and the vehicles were operational or readily mobile. The state court nevertheless treated the lack of a separately demonstrated emergency as fatal to the warrantless searches.
-- **Preservation / Threshold / Vehicle Issues:** The existence of probable cause and ready mobility must be confirmed on each record. The Court need not decide an immobile vehicle, a home-curtilage intrusion, or a search exceeding the places where the suspected evidence could be found.
+- **Preservation / Threshold / Vehicle Issues:** Whether probable cause and ready mobility are established on each record is a vehicle question. The Court need not decide an immobile vehicle, a home-curtilage intrusion, or a search exceeding the places where the suspected evidence could be found.
 - **Relevant Dates:** Decision July 1, 1996.
 - **Companion or Consolidated Matters:** Pennsylvania v. Labron; Pennsylvania v. Kilgore
 - **Known Participation Issue:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
@@ -731,7 +725,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 518 U.S. 938](https://supreme.justia.com/cases/federal/us/518/938/)
 
 #### Enacted and supporting authorities
 

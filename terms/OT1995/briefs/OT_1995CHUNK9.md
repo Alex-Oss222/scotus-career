@@ -30,7 +30,6 @@ Preparation only. 12 matters in chronological order. The index supplies the open
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 518 U.S. 187](https://supreme.justia.com/cases/federal/us/518/187/)
 
 #### Enacted and supporting authorities
 
@@ -137,19 +136,19 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 * **Simulated Event Date:** 1996-06-20; Historical Supreme Court event.
 * **Question Presented:** Whether the §4971(a) pension-funding assessment receives excise-tax priority under the applicable §507(a)(7)(E), and whether §510(c) permits its categorical subordination to ordinary unsecured claims. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Question Granted / Submitted Scope:** The issue or issues stated above are reconstructed from the published case record. No additional question is assumed granted. A summary-review event does not imply a prior plenary grant.
-* **Court and Judgment Under Review:** Tenth Circuit, 53 F.3d 1155, affirmed denial of excise-tax priority and categorical subordination after the district court affirmed the bankruptcy court. [P1, 216–218]
+* **Court and Judgment Under Review:** Tenth Circuit, 53 F.3d 1155, affirmed denial of excise-tax priority and categorical subordination after the district court affirmed the bankruptcy court.
 * **Relief Requested:** The United States seeks tax priority or, alternatively, treatment alongside general unsecured creditors rather than categorical subordination. The reorganized debtors defend the lower priority.
-* **Material Record:** CF&I failed to make approximately $12.4 million in required pension contributions for the 1989 plan year and filed Chapter 11 on November 7, 1990. The IRS asserted a ten-percent §4971(a) assessment of approximately $1.24 million. The bankruptcy court allowed that claim but denied tax priority and subordinated it with noncompensatory penalties; the plan provided an alternative general-unsecured classification if subordination failed. Other disallowed §4971 claims are not under review. [P1, 216–218 and n.2]
-* **Threshold, Preservation, and Vehicle Matters:** The two issues are separable. Classification as a penalty for bankruptcy priority does not itself establish a Double Jeopardy punishment or justify equitable subordination. The Government did not pursue review of the other disallowed assessments. The parties agree that the pre-1994 version governs; the relevant provision is §507(a)(7)(E), not its later renumbering as subsection (a)(8)(E). [P1, n.1, n.2] The debtors’ alternative arguments concerning classification of dissimilar claims and possible Chapter 7 guidance were not resolved through an independent lower-court ground; their legal availability must remain distinct from §510(c). [P1, 227–229]
+* **Material Record:** CF&I failed to make approximately $12.4 million in required pension contributions for the 1989 plan year and filed Chapter 11 on November 7, 1990. The IRS asserted a ten-percent §4971(a) assessment of approximately $1.24 million. The bankruptcy court allowed that claim but denied tax priority and subordinated it with noncompensatory penalties; the plan provided an alternative general-unsecured classification if subordination failed. Other disallowed §4971 claims are not under review.
+* **Threshold, Preservation, and Vehicle Matters:** The two issues are separable. Classification as a penalty for bankruptcy priority does not itself establish a Double Jeopardy punishment. The Government did not pursue review of the other disallowed assessments. The parties agree that the pre-1994 version governs; the relevant provision is §507(a)(7)(E), not its later renumbering as subsection (a)(8)(E). The debtors’ alternative arguments concerning classification of dissimilar claims and possible Chapter 7 guidance were not resolved through an independent lower-court ground; their legal availability must remain distinct from §510(c).
 * **Relevant Dates:** Funding deadline: September 15, 1990. Bankruptcy petition: November 7, 1990. Argument: March 25, 1996. Event: June 20, 1996, historical date. The 1994 renumbering does not alter this proceeding’s applicable priority provision.
 * **Companion or Related Matters:** No additional consolidated or companion matter material to this brief is identified in the cited sources.
 * **Participation Matter:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
 
 #### Enacted and surviving authorities
 
-11 U.S.C. §507(a)(7)(E), in the governing pre-1994 version; 26 U.S.C. §§412 and 4971(a); City of New York v. Feiring, 313 U.S. 283 (1941); United States v. New York, 315 U.S. 510 (1942); United States v. Sotelo, 436 U.S. 268 (1978). The bankruptcy characterization depends on the exaction’s legal operation unless Congress expressly incorporates another statute’s characterization.
+11 U.S.C. §507(a)(7)(E), in the governing pre-1994 version; 26 U.S.C. §§412 and 4971(a); City of New York v. Feiring, 313 U.S. 283 (1941); United States v. New York, 315 U.S. 510 (1942); United States v. Sotelo, 436 U.S. 268 (1978). The bankruptcy characterization depends on the exaction’s legal operation unless Congress incorporates another statute’s characterization.
 
-11 U.S.C. §§510(c) and 507; Pepper v. Litton, 308 U.S. 295 (1939), and the source-bound principles of bankruptcy equity. Section 510(c) authorizes equitable subordination, not judicial enactment of an across-the-board priority scheme contrary to Congress’s classification. The party seeking subordination must establish a legally sufficient basis for that relief.
+11 U.S.C. §§510(c) and 507; Pepper v. Litton, 308 U.S. 295 (1939), and the source-bound principles of bankruptcy equity. Section 510(c) authorizes equitable subordination; whether it permits categorical subordination of a class of claims is the second issue. The party seeking subordination must establish a legally sufficient basis for that relief.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 
@@ -165,19 +164,16 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 * **Petitioner or Applicant’s Position:** A blanket penalty rule is legislative reprioritization rather than equitable subordination; at minimum the Government should remain an ordinary unsecured creditor.
 * **Respondent or Competing Position:** Paying a noncompensatory penalty diminishes innocent creditors’ recoveries without compensating loss, so the nature of the claim itself supplies an equitable basis.
 
-* **Alternative or Unreached Grounds and Limits:** The two issues are separable. Classification as a penalty for bankruptcy priority does not itself establish a Double Jeopardy punishment or justify equitable subordination. The Government did not pursue review of the other disallowed assessments. The parties agree that the pre-1994 version governs; the relevant provision is §507(a)(7)(E), not its later renumbering as subsection (a)(8)(E). [P1, n.1, n.2] The debtors’ alternative arguments concerning classification of dissimilar claims and possible Chapter 7 guidance were not resolved through an independent lower-court ground; their legal availability must remain distinct from §510(c). [P1, 227–229]
+* **Alternative or Unreached Grounds and Limits:** The two issues are separable. Classification as a penalty for bankruptcy priority does not itself establish a Double Jeopardy punishment. The Government did not pursue review of the other disallowed assessments. The parties agree that the pre-1994 version governs; the relevant provision is §507(a)(7)(E), not its later renumbering as subsection (a)(8)(E). The debtors’ alternative arguments concerning classification of dissimilar claims and possible Chapter 7 guidance were not resolved through an independent lower-court ground; their legal availability must remain distinct from §510(c).
 * **Federal Participation:** The federal party’s position is identified above where applicable. No separate Solicitor General or amicus contention is invented beyond the cited record.
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-* **Lawful Paths and Consequences:** Tax-priority status and equitable subordination require separate answers. Rejecting priority can leave a general unsecured claim; it does not automatically place the claim last. A genuinely supported case-specific subordination ground would require its own adjudication.
-* **Material Uncertainty:** The finalized United States Reports text states vacated and remanded; an online preliminary syllabus uses reversed and remanded. The formal comparator follows the finalized report. No substantive distinction is inferred from that preliminary-print discrepancy.
+* **Lawful Paths and Consequences:** Tax-priority status and equitable subordination require separate answers. Accepting priority would give the claim excise-tax rank; rejecting priority can leave a general unsecured claim, and whether the claim may instead be placed last turns on the §510(c) question. A genuinely supported case-specific subordination ground would require its own adjudication.
 
 #### E. SOURCES
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
-
-* **P1:** [Published Supreme Court opinion, 518 U.S. 213; governing statutory version, claim scope, plan alternative, and lower-court grounds](https://supreme.justia.com/cases/federal/us/518/213/).
 
 #### Law entering this event
 
@@ -305,7 +301,6 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 518 U.S. 231](https://supreme.justia.com/cases/federal/us/518/231/)
 
 #### Enacted and supporting authorities
 
@@ -391,9 +386,9 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 #### Record and posture
 
-Richard entered the Does' home four days after birth and had lived there for years by the challenged turnover order. Kirchner had been deceived into believing the infant died, discovered the truth after fifty-seven days and promptly asserted his parental claim. The adoption was invalidated without a finding that he was unfit. Illinois issued habeas turnover relief on January 25, 1995, and explained it on February 28. The child's claim concerns the effect of abrupt implementation on him, distinct from the Does' claimed permanent entitlement. The historical account does not supply an updated 1996 child assessment or establish that a historical transfer occurred unchanged in this simulation.
+Richard entered the Does' home four days after birth and had lived there for years by the challenged turnover order. Kirchner had been deceived into believing the infant died, discovered the truth after fifty-seven days and promptly asserted his parental claim. The adoption was invalidated without a finding that he was unfit. Illinois issued habeas turnover relief on January 25, 1995, and explained it on February 28. The child's claim concerns the effect of abrupt implementation on him, distinct from the Does' claimed permanent entitlement. The historical account does not supply an updated 1996 child assessment.
 
-Expressly assigned child-focused merits review under §1257, not an original Supreme Court habeas action or an application to a Circuit Justice. The user has accepted a pending-transfer reconstruction for June 21, 1996: Richard remains with the Does, and transfer to Kirchner has not yet occurred. Kirchner's custody entitlement and the invalidation of the adoption remain the premises of the implementation question. The pending transfer establishes a live implementation dispute without deciding the asserted risk or inventing a Court stay. The federal question challenges the implementation of the State's order; Illinois law governs the underlying adoption and nonparent-custody entitlement. The state opinion's “Due Process Rights of Richard” discussion expressly addresses the liberty-interest argument advanced by the child's guardian and the Does. The existence of that child-specific federal argument is established. Its presentation must fairly encompass the narrower challenge to harmful implementation. A prior historical stay disposition is comparator context only and creates no new listed application.
+Expressly assigned child-focused merits review under §1257, not an original Supreme Court habeas action or an application to a Circuit Justice. The user has accepted a pending-transfer reconstruction for June 21, 1996: Richard remains with the Does, and transfer to Kirchner has not yet occurred. Kirchner's custody entitlement and the invalidation of the adoption remain the premises of the implementation question. The pending transfer establishes a live implementation dispute without deciding the asserted risk or inventing a Court stay. The federal question challenges the implementation of the State's order; Illinois law governs the underlying adoption and nonparent-custody entitlement. The state opinion's “Due Process Rights of Richard” discussion expressly addresses the liberty-interest argument advanced by the child's guardian and the Does. The existence of that child-specific federal argument is established. Its presentation must fairly encompass the narrower challenge to harmful implementation.
 
 #### Entering simulated law and application boundaries
 
@@ -409,7 +404,7 @@ The [matter-specific public-law extracts](inherited/readings/OT1995-113.md) pres
 
 Coordinate with the separate Doe v. Kirchner entry on the same date. Both share the opening baseline; neither proposed disposition is precedent for the other. Any genuinely earlier completed family-integrity ruling, including A. St. P. C., applies only within its own statutory/procedural scope.
 
-The user-accepted pending-transfer premise resolves assigned-date custody: Richard remains with the Does on June 21, 1996, and the implementation dispute is live. The existing federal claim must fairly encompass the narrower transition theory; the asserted serious harm and necessary measures remain matters for the supported record. Those application limits do not reopen the selected premise, the father’s custody entitlement or Stone’s prepared protection against harmful implementation.
+The user-accepted pending-transfer premise resolves assigned-date custody: Richard remains with the Does on June 21, 1996, and the implementation dispute is live. The existing federal claim must fairly encompass the narrower transition theory; the asserted serious harm and necessary measures remain matters for the supported record. Those application limits do not reopen the selected premise or the father’s custody entitlement.
 
 #### Sources
 
@@ -468,7 +463,7 @@ Assigned §1257 review of the federal challenge to the Illinois adoption judgmen
 
 The coordinated Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, at commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward completed OT1991–OT1993 law. No completed OT1995 decision is supplied at this opening. Only an actual validated decision effective before this event may supplement that baseline. Preparation, historical outcomes and file order create no law.
 
-Santosky, Stanley, Caban and Lehr protect the natural parent's legally significant opportunity and responsibility rather than biological connection alone. Smith v. OFFER recognizes the legal setting of foster ties but does not establish that a disputed prospective adoption automatically displaces a fit parent's rights. The government's own delay cannot become proof of the father's abandonment. The simulated Foucha/Heller commitment cases do not alter adoption consent or decide nonparent custody. No later Troxel holding is inherited.
+Santosky, Stanley, Caban and Lehr protect the natural parent's legally significant opportunity and responsibility rather than biological connection alone. Smith v. OFFER recognizes the legal setting of foster ties but does not establish that a disputed prospective adoption automatically displaces a fit parent's rights. The simulated Foucha/Heller commitment cases do not alter adoption consent or decide nonparent custody. No later Troxel holding is inherited.
 
 **Equal protection of commitment proof and family participation.** Kentucky's clear-and-convincing burden for adult intellectual-disability commitment, compared with reasonable-doubt proof for mental illness, fails rational-basis review because the offered diagnostic, prediction and treatment differences do not justify the greater risk of mistaken confinement. Lawful equalization and severability must be addressed; Addington's federal minimum is unchanged and no national reasonable-doubt requirement or automatic release follows. Separately, continuing family knowledge rationally supports guardians' and immediate relatives' party participation for lifelong developmental disability. Such participation is not categorically unfair where the adult has counsel and effective opportunity to contest evidence before an independent decisionmaker. Relatives cannot replace statutory grounds, control decision or suppress the adult's position. Heightened scrutiny remains undecided.
 
@@ -523,9 +518,9 @@ The Illinois Supreme Court reversed the adoption judgment because the statutory 
 - **Question Presented:** Whether federal civil in rem forfeitures following or accompanying criminal prosecutions constitute punishment for the same offense under the Double Jeopardy Clause.
 - **Question Granted:** The stated question describes the submitted review scope; no additional question or plenary grant is inferred beyond the identified procedural stage.
 - **Legal Area:** Criminal procedure and forfeiture — civil sanctions and successive punishment
-- **Court and Judgment Under Review:** The Sixth Circuit reversed Ursery’s criminal conviction after treating his completed forfeiture settlement as prior punishment. The Ninth Circuit barred the companion forfeiture following the criminal judgments. Their distinct judgments require separate remedies.
+- **Court and Judgment Under Review:** The Sixth Circuit reversed Ursery’s criminal conviction after treating his completed forfeiture settlement as prior punishment. The Ninth Circuit barred the companion forfeiture following the criminal judgments. Each judgment requires its own disposition.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
-- **Material Facts and Record:** The Government sought forfeiture of Ursery’s home under §881(a)(7). He paid $13,250 to settle that claim. The indictment for manufacturing marijuana preceded completion of the settlement; the criminal trial and conviction followed it. The companion complaint sought various assets under drug-proceeds and money-laundering provisions, including §§881(a)(6) and 981(a)(1)(A); the caption does not establish that each disputed asset is proceeds. Punishment classification, attachment of jeopardy, offense identity and separate proceedings remain distinct questions.
+- **Material Facts and Record:** The Government sought forfeiture of Ursery’s home under §881(a)(7). He paid $13,250 to settle that claim. The indictment for manufacturing marijuana preceded completion of the settlement; the criminal trial and conviction followed it. The companion complaint sought various assets under drug-proceeds and money-laundering provisions, including §§881(a)(6) and 981(a)(1)(A). Punishment classification, attachment of jeopardy, offense identity and separate proceedings remain distinct questions.
 - **Preservation / Threshold / Vehicle Issues:** None identified beyond ordinary preservation, finality, and remedy questions.
 - **Relevant Dates:** Argument April 17, 1996; decision June 24, 1996.
 - **Companion or Consolidated Matters:** United States v. Ursery; United States v. $405,089.23 in United States Currency
@@ -534,7 +529,6 @@ The Illinois Supreme Court reversed the adoption judgment because the statutory 
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 518 U.S. 267](https://supreme.justia.com/cases/federal/us/518/267/)
 
 #### Enacted and supporting authorities
 
@@ -665,9 +659,9 @@ The forfeiture under §881(a)(7), as applied here, incorporated the marijuana of
 * **Question Granted / Submitted Scope:** The issue or issues stated above are reconstructed from the published case record. No additional question is assumed granted. A summary-review event does not imply a prior plenary grant.
 * **Court and Judgment Under Review:** Second Circuit affirmed the Eastern District of New York’s affirmance of the magistrate judge’s convictions and denial of a jury. It rejected aggregation and discussed a sentencing cap as unnecessary to its judgment. [P2, 253–256]
 * **Relief Requested:** Lewis seeks reversal and a jury trial; the United States seeks affirmance because each offense is petty or because the judge capped imprisonment.
-* **Material Record:** Lewis was tried on two counts of obstructing the mail under 18 U.S.C. §1701, each authorizing at most six months of imprisonment. He requested a jury, but the magistrate judge granted a bench-trial motion after promising not to impose more than six months in total. The bench convictions were entered February 25, 1994; the actual sentence was three years’ probation on each count, concurrent. This is not an untried interlocutory jury request. [P1, 324–325; P2, 253]
+* **Material Record:** Lewis was tried on two counts of obstructing the mail under 18 U.S.C. §1701, each authorizing at most six months of imprisonment. He requested a jury, but the magistrate judge granted a bench-trial motion after promising not to impose more than six months in total. The bench convictions were entered February 25, 1994; the actual sentence was three years’ probation on each count, concurrent. This is not an untried interlocutory jury request. [P2, 253]
 * **Threshold, Preservation, and Vehicle Matters:** The jury request was preserved. The formal convictions remain under review despite the absence of an actual custodial sentence. Aggregation and the effect of the judge’s cap are separately presented questions; an answer rejecting aggregation could leave the cap question unnecessary. No knowing jury waiver is established by proceeding to trial after the request was denied.
-* **Relevant Dates:** Bench convictions: February 25, 1994. District-court affirmance: December 7, 1994. Second Circuit: September 5, 1995. Supreme Court argument: April 23, 1996. Event: June 24, 1996, historical date. [P1–P2]
+* **Relevant Dates:** Bench convictions: February 25, 1994. District-court affirmance: December 7, 1994. Second Circuit: September 5, 1995. Supreme Court argument: April 23, 1996. Event: June 24, 1996, historical date. [P2]
 * **Companion or Related Matters:** No additional consolidated or companion matter material to this brief is identified in the cited sources.
 * **Participation Matter:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
 
@@ -697,13 +691,12 @@ Sixth Amendment jury entitlement must be determined in time to govern trial; the
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
 * **Lawful Paths and Consequences:** Rejecting aggregation permits affirmance without the cap issue. Recognizing aggregate jury entitlement requires deciding whether this cap legally removed the exposure; if not, the convictions require a jury-trial remedy. These are alternative legal routes, not factual findings about guilt.
-* **Material Uncertainty:** The Supreme Court’s condensed procedural narrative should not be read as establishing an interlocutory appeal. The cited Second Circuit opinion identifies the completed convictions and concurrent probationary sentences.
+* **Material Uncertainty:** The case should not be read as an interlocutory appeal. The cited Second Circuit opinion identifies the completed convictions and concurrent probationary sentences.
 
 #### E. SOURCES
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
 
-* **P1:** [Published Supreme Court opinion, 518 U.S. 322; the two granted jury questions, charge maxima, and inherited authorities](https://supreme.justia.com/cases/federal/us/518/322/).
 * **P2:** [Second Circuit opinion, 65 F.3d 252; completed bench trial, concurrent probation, dates, and grounds below](https://law.justia.com/cases/federal/appellate-courts/F3/65/252/529239/).
 
 #### Law entering this event
@@ -716,7 +709,7 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
-**Application of the entering law:** Neither Gaudin nor Bagwell automatically decides aggregate petty-offense exposure or the legal effect of a binding cap. The particular cap and authorized punishment remain the presented questions.
+**Application of the entering law:** Neither Gaudin nor Bagwell automatically decides aggregate petty-offense exposure or the legal effect of a judicial sentencing cap. The particular cap and authorized punishment remain the presented questions.
 
 **Bagwell**
 
@@ -797,7 +790,7 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 - **Legal Area:** Federal courts and prison law — access to courts and structural relief
 - **Court and Judgment Under Review:** The Ninth Circuit sustained a broad statewide injunction governing Arizona prison libraries, staffing, training, and assistance.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
-- **Material Facts and Record:** A class challenged Arizona’s prison law libraries and legal-assistance programs. The record identified some prisoners who had difficulty pursuing nonfrivolous claims, but the district court imposed comprehensive statewide operational requirements not tied to every institution, disability, language group, or type of legal action covered.
+- **Material Facts and Record:** A class challenged Arizona’s prison law libraries and legal-assistance programs. The record identified some prisoners who had difficulty pursuing nonfrivolous claims, and the district court imposed comprehensive statewide operational requirements. Whether the record supports those requirements across every institution, disability, language group, and type of legal action they cover is part of the remedial-breadth question.
 - **Preservation / Threshold / Vehicle Issues:** Issue 1 — constitutional injury and scope of the right. Issue 2 — classwide proof. Issue 3 — remedial breadth.
 - **Relevant Dates:** Argument November 29, 1995; decision June 24, 1996.
 - **Companion or Consolidated Matters:** None.
@@ -806,7 +799,6 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 518 U.S. 343](https://supreme.justia.com/cases/federal/us/518/343/)
 
 #### Enacted and supporting authorities
 
@@ -924,7 +916,7 @@ The State and district’s respective responsibilities must be assessed separate
 - **Citation / Docket:** 518 U.S. 415; No. 95-719
 - **October Term:** 1995
 - **Entry Stage / Event Type:** Granted merits review; decision pending in this simulation.
-- **Question Presented:** How a federal diversity court should apply New York’s statutory standard for reviewing excessive jury awards without violating the Seventh Amendment’s Reexamination Clause.
+- **Question Presented:** Whether and how a federal diversity court should apply New York’s statutory standard for reviewing excessive jury awards without violating the Seventh Amendment’s Reexamination Clause.
 - **Question Granted:** The stated question describes the submitted review scope; no additional question or plenary grant is inferred beyond the identified procedural stage.
 - **Legal Area:** Federal courts — Erie, damages review, and the Seventh Amendment
 - **Court and Judgment Under Review:** The Second Circuit applied New York’s ‘deviates materially’ standard itself and reduced the jury award.
@@ -938,7 +930,6 @@ The State and district’s respective responsibilities must be assessed separate
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 518 U.S. 415](https://supreme.justia.com/cases/federal/us/518/415/)
 
 #### Enacted and supporting authorities
 
@@ -1030,13 +1021,13 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 Brittney Settle initially selected drama and changed to the life of Jesus without prior approval. The assignment called for research on an appropriate topic using multiple sources. Teacher Dana Ramsey rejected that proposal and a later historical/scientific formulation. Her explanations included advance approval, research method, the student's familiarity with the topic and concern about religious subject matter; she offered to accept a religion topic not confined to Christianity or Jesus. Settle declined an alternative and received zero. Assertions about other approved topics do not themselves establish equal treatment was denied without the relevant assignment context.
 
-Assigned §1254(1) review of summary judgment. The pleaded theory is freedom of speech, not a newly supplied Free Exercise or Establishment claim. The question includes whether the expressed reasons support a genuine issue and whether the legal deference afforded the teacher was excessive. Courts may assess constitutional legality without grading the paper. No completed paper's scholarly inadequacy is presumed from a topic proposal.
+Assigned §1254(1) review of summary judgment. The pleaded theory is freedom of speech, not a newly supplied Free Exercise or Establishment claim. The question includes whether the expressed reasons support a genuine issue and whether the legal deference afforded the teacher was excessive. Courts may assess constitutional legality without grading the paper.
 
 #### Entering simulated law and application boundaries
 
 The coordinated Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, at commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward completed OT1991–OT1993 law. No completed OT1995 decision is supplied at this opening. Only an actual validated decision effective before this event may supplement that baseline. Preparation, historical outcomes and file order create no law.
 
-Hazelwood permits school-sponsored curricular control reasonably related to legitimate pedagogical concerns; Tinker does not convert an assigned research paper into an unrestricted forum. Simulated Lamb's Chapel, Chabad and Rosenberger protect private religious viewpoints in their actual forums and benefits. They do not directly decide classroom-topic control, but also do not permit religious disfavor merely by relabeling it academic judgment. Simulated Lee's restriction on official worship is distinct from academic study of religion. A new classroom application must be explained, without attributing to the prior cases a universal right to select any topic.
+Hazelwood permits school-sponsored curricular control reasonably related to legitimate pedagogical concerns; Tinker does not convert an assigned research paper into an unrestricted forum. Simulated Lamb's Chapel, Chabad and Rosenberger protect private religious viewpoints in their actual forums and benefits. They do not directly decide classroom-topic control or whether an objection to religious content may be treated as academic judgment. Simulated Lee's restriction on official worship is distinct from academic study of religion. A new classroom application must be explained, without attributing to the prior cases a universal right to select any topic.
 
 **Private religious viewpoints in public forums and printing benefits.** When a public school admits private family-life and child-rearing discussion to an after-hours forum, it cannot exclude an otherwise eligible presentation solely for its religious viewpoint, even assuming a nonpublic forum. Neutral restrictions outside the forum's actual subjects remain possible. Equal access to voluntary, publicly accessible after-hours films without school sponsorship has a secular forum purpose, does not primarily advance religion as governmental activity and causes no excessive entanglement. That establishment holding concerns private speech, not an official devotional program; it supplies no replacement for the inherited establishment framework or universal ruling on worship restrictions. A State may not categorically exclude an otherwise eligible private unattended religious display from a forum actually opened to comparable expression merely because its message is religious or its location adjoins or lies within a capitol. Pinette’s access holding includes the proposal’s offered private-attribution safeguard; it establishes neither adequacy of a later sign nor a comprehensive establishment test. Chabad separately holds that an interior capitol location does not establish religion when actual context makes the expression clearly private. Actual selection, financing, control, adoption, preference or obscured private sponsorship can alter that conclusion; no forum label or unspecified sign decides attribution. In a generally available, privately edited student-publication program, a religious editorial viewpoint cannot exclude an otherwise eligible publication from printing support. Its secular expression purpose, broad neutral availability, independent attribution and controlled vendor payments together permit that benefit; neutrality alone does not authorize devotional financing or governmental worship.
 
@@ -1046,7 +1037,7 @@ The [matter-specific public-law extracts](inherited/readings/OT1995-115.md) pres
 
 #### Effective-date and record checks
 
-Read any actually effective Good News or Sherman decision within its private-access or official-speech scope. Their prepared outcomes do not eliminate curricular discretion or determine this record.
+Read any actually effective Good News or Sherman decision within its private-access or official-speech scope.
 
 The assigned question and existing record support merits preparation. Ordinary preservation, jurisdiction, record and remedy limitations described above remain operative; no additional fact or grant is assumed.
 
@@ -1095,7 +1086,7 @@ The Sixth Circuit affirmed summary judgment. Its majority granted broad curricul
 - **Legal Area:** Federal preemption — medical devices and state tort law
 - **Court and Judgment Under Review:** The Eleventh Circuit held some design, manufacturing, and warning claims preempted and others not preempted.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
-- **Material Facts and Record:** Lohr alleged that a pacemaker lead failed because of defective design, manufacture, and warnings. The device entered the market through §510(k), which generally determines substantial equivalence rather than imposing device-specific safety requirements comparable to premarket approval.
+- **Material Facts and Record:** Lohr alleged that a pacemaker lead failed because of defective design, manufacture, and warnings. The device entered the market through §510(k) substantial-equivalence clearance rather than premarket approval.
 - **Preservation / Threshold / Vehicle Issues:** Issue 1 — whether common-law duties are state requirements. Issue 2 — whether a specific federal requirement applies. Issue 3 — whether the state duty is different from or additional to that requirement.
 - **Relevant Dates:** Argument April 23, 1996; decision June 26, 1996.
 - **Companion or Consolidated Matters:** Medtronic, Inc. v. Lohr; Lohr v. Medtronic, Inc.
@@ -1104,7 +1095,6 @@ The Sixth Circuit affirmed summary judgment. Its majority granted broad curricul
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 518 U.S. 470](https://supreme.justia.com/cases/federal/us/518/470/)
 
 #### Enacted and supporting authorities
 
@@ -1122,7 +1112,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
-**Application of the entering law:** Compare actual federal and state requirements under §360k(a). Section 510(k) equivalence review is not a substantive safety approval. Sweet Home's actual deference holding has not been displaced by a personal anti-deference methodology.
+**Application of the entering law:** Compare actual federal and state requirements under §360k(a). Sweet Home's actual deference holding has not been displaced.
 
 **Cipollone**
 
@@ -1299,8 +1289,8 @@ Distinct section 11 civil and criminal channels retain their own conditions, inc
 - **Legal Area:** Equal protection and education — sex classification and remedial equality
 - **Court and Judgment Under Review:** The Fourth Circuit sustained the finding that VMI’s exclusion of women violated equal protection but accepted the separate VWIL program as a constitutionally sufficient remedy.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
-- **Material Facts and Record:** VMI was a unique state military college using an adversative educational method, extensive alumni network, and distinctive institutional resources. Virginia excluded women categorically and, after liability was found, created VWIL at another institution with materially different admissions, curriculum, facilities, prestige, method, and alumni opportunities.
-- **Preservation / Threshold / Vehicle Issues:** Issue 1 — liability for categorical exclusion. Issue 2 — adequacy of the separate remedial program. The Court need not require every public institution to use identical pedagogy or admit every applicant.
+- **Material Facts and Record:** VMI was a unique state military college using an adversative educational method, extensive alumni network, and distinctive institutional resources. Virginia excluded women categorically and, after liability was found, created VWIL at another institution with different admissions, curriculum, facilities, prestige, method, and alumni opportunities.
+- **Preservation / Threshold / Vehicle Issues:** Issue 1 — liability for categorical exclusion. Issue 2 — adequacy of the separate remedial program.
 - **Relevant Dates:** Argument January 17, 1996; decision June 26, 1996.
 - **Companion or Consolidated Matters:** United States v. Virginia; Virginia v. United States
 - **Known Participation Issue:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster. Thomas does not participate; eight participating Justices.
@@ -1308,7 +1298,6 @@ Distinct section 11 civil and criminal channels retain their own conditions, inc
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 518 U.S. 515](https://supreme.justia.com/cases/federal/us/518/515/)
 
 #### Enacted and supporting authorities
 

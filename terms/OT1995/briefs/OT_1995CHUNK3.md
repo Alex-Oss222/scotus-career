@@ -22,17 +22,17 @@ Preparation only. 12 matters in chronological order. The index supplies the open
 * **Simulated Event Date:** 1996-01-16; Historical Supreme Court event.
 * **Question Presented:** Whether the Warsaw Convention authorizes loss-of-society recovery beyond the domestic law applicable to a death on the high seas, and whether dependency changes that answer. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Question Granted / Submitted Scope:** The issue or issues stated above are reconstructed from the published case record. No additional question is assumed granted. A summary-review event does not imply a prior plenary grant.
-* **Court and Judgment Under Review:** Second Circuit, 43 F.3d 18, rejected the mother’s loss-of-society recovery but remanded the sister’s claim for a dependency determination. [P1, 220–222]
+* **Court and Judgment Under Review:** Second Circuit, 43 F.3d 18, rejected the mother’s loss-of-society recovery but remanded the sister’s claim for a dependency determination.
 * **Relief Requested:** The family seeks broader nonpecuniary recovery; KAL seeks rejection of loss-of-society damages under the applicable high-seas statute.
-* **Material Record:** Muriel Kole died when KAL Flight 007 was destroyed over the Sea of Japan. Her mother and sister obtained damage awards. The parties agree that United States law supplies the relevant domestic law; the challenged category is loss of society, not every component of the award. [P1, 219–222]
-* **Threshold, Preservation, and Vehicle Matters:** Treaty liability and the domestic measure of compensable loss are separate. The supplied choice-of-law premise permits decision without selecting a new international conflicts rule. Dependency cannot authorize a category Congress excludes.
-* **Relevant Dates:** Argument: November 7, 1995. Event: January 16, 1996. The then-operative Death on the High Seas Act controls; no later aviation amendment is used.
+* **Material Record:** Muriel Kole died when KAL Flight 007 was destroyed over the Sea of Japan. Her mother and sister obtained damage awards. The parties agree that United States law supplies the relevant domestic law; the challenged category is loss of society, not every component of the award.
+* **Threshold, Preservation, and Vehicle Matters:** Whether treaty liability and the domestic measure of compensable loss are separate is contested. The supplied choice-of-law premise permits decision without selecting a new international conflicts rule.
+* **Relevant Dates:** Argument: November 7, 1995. Event: January 16, 1996. Any application of the Death on the High Seas Act uses its then-operative version; no later aviation amendment is used.
 * **Companion or Related Matters:** The carrier’s petition and the family’s cross-petition are treated as one listed matter; both judgment components are stated.
 * **Participation Matter:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
 
 #### Enacted and surviving authorities
 
-Warsaw Convention Articles 17 and 24(2); Death on the High Seas Act, then 46 U.S.C. App. §§761–762; Mobil Oil v. Higginbotham, 436 U.S. 618 (1978); Offshore Logistics v. Tallentire, 477 U.S. 207 (1986); Miles v. Apex Marine, 498 U.S. 19 (1990). The treaty leaves the identity of compensable losses to the law otherwise applicable; an express statutory pecuniary-loss restriction cannot be supplemented by contrary general maritime recovery.
+Warsaw Convention Articles 17 and 24(2); Death on the High Seas Act, then 46 U.S.C. App. §§761–762; Mobil Oil v. Higginbotham, 436 U.S. 618 (1978); Offshore Logistics v. Tallentire, 477 U.S. 207 (1986); Miles v. Apex Marine, 498 U.S. 19 (1990). Whether the treaty leaves the identity of compensable losses to the law otherwise applicable is contested; an express statutory pecuniary-loss restriction cannot be supplemented by contrary general maritime recovery.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 
@@ -42,18 +42,16 @@ Warsaw Convention Articles 17 and 24(2); Death on the High Seas Act, then 46 U.S
 * **Petitioner or Applicant’s Position:** The Convention’s reference to damage should permit full compensation; dependency and general maritime law support the family’s relationship-based loss.
 * **Respondent or Competing Position:** The Convention creates no independent loss-of-society category, and DOHSA expressly confines the applicable recovery to pecuniary loss.
 
-* **Alternative or Unreached Grounds and Limits:** Treaty liability and the domestic measure of compensable loss are separate. The supplied choice-of-law premise permits decision without selecting a new international conflicts rule. Dependency cannot authorize a category Congress excludes.
+* **Alternative or Unreached Grounds and Limits:** Whether treaty liability and the domestic measure of compensable loss are separate is contested. The supplied choice-of-law premise permits decision without selecting a new international conflicts rule.
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-* **Lawful Paths and Consequences:** An independent treaty damages rule could require a different judgment. Applying DOHSA rejects society damages for both relatives and makes dependency immaterial to that category, without resolving all damages.
+* **Lawful Paths and Consequences:** An independent treaty damages rule, or dependency-based maritime recovery, could sustain society damages for one or both relatives. Applying DOHSA rejects society damages for both relatives and makes dependency immaterial to that category, without resolving all damages.
 * **Material Uncertainty:** Questions are source-grounded paraphrases rather than represented as verbatim petition text. Facts not established by the cited record remain unproved. No completed earlier OT1995 Court decision beyond the uploaded baseline has been supplied for incorporation; revalidation is required before adjudication.
 
 #### E. SOURCES
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
-
-* **P1:** [Published Supreme Court opinion, 516 U.S. 217; both petitions, damages components, treaty, and DOHSA](https://supreme.justia.com/cases/federal/us/516/217/).
 
 #### Law entering this event
 
@@ -138,7 +136,7 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 ## OT1995-022 — Lotus Development Corp. v. Borland International, Inc.
 
-**Event:** 1996-01-16 | **Category:** MERITS | **Action:** Merits submission (historical equal-division comparator)
+**Event:** 1996-01-16 | **Category:** MERITS | **Action:** Merits submission
 
 **Citation:** 516 U.S. 233
 
@@ -188,7 +186,6 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
 
 * **P1:** [First Circuit judicial opinion, 49 F.3d 807; program operation, scope of copying, and competing statutory analyses](https://openjurist.org/49/f3d/807/lotus-development-corporation-v-borland-international-inc).
-* **P2:** [Published Supreme Court order; participation and comparator only](https://www.law.cornell.edu/supct/html/94-2003.ZPC.html).
 
 #### Law entering this event
 
@@ -272,9 +269,9 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 * **Simulated Event Date:** 1996-01-17; Historical Supreme Court event.
 * **Question Presented:** Which refund lookback period §6512(b)(3)(B) incorporates when the taxpayer filed no return before the deficiency notice but filed one afterward. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Question Granted / Submitted Scope:** The issue or issues stated above are reconstructed from the published case record. No additional question is assumed granted. A summary-review event does not imply a prior plenary grant.
-* **Court and Judgment Under Review:** Fourth Circuit reversed the Tax Court’s denial of a refund, treating the later return as supporting a three-year lookback. [P1, 239–242]
+* **Court and Judgment Under Review:** Fourth Circuit reversed the Tax Court’s denial of a refund, treating the later return as supporting a three-year lookback.
 * **Relief Requested:** The Commissioner seeks reversal and restoration of the statutory limit on refund relief; Lundy seeks the overpayment refund.
-* **Material Record:** Withholding for Lundy’s 1987 tax was deemed paid April 15, 1988. No return had been filed when the Commissioner mailed a deficiency notice on September 26, 1990. Lundy then filed a return and sought Tax Court relief. The payments fall outside a two-year window preceding the notice but within three years. [P1, 239–242]
+* **Material Record:** Withholding for Lundy’s 1987 tax was deemed paid April 15, 1988. No return had been filed when the Commissioner mailed a deficiency notice on September 26, 1990. Lundy then filed a return and sought Tax Court relief. The payments fall outside a two-year window preceding the notice but within three years.
 * **Threshold, Preservation, and Vehicle Matters:** The Tax Court’s power to decide a deficiency is distinct from its authority to refund a payment. The question is the statutory lookback, not an equitable power to excuse a late claim. The taxpayer’s subsequent return is an established event, not a return deemed filed before the notice.
 * **Relevant Dates:** Argument: November 6, 1995. Event: January 17, 1996, historical date. Apply the statutory version governing this notice and payment, not a later amendment.
 * **Companion or Related Matters:** No additional consolidated or companion matter material to this brief is identified in the cited sources.
@@ -282,7 +279,7 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 #### Enacted and surviving authorities
 
-26 U.S.C. §§6511(a), 6511(b)(2), 6512(b)(3)(B), and 6513(b). The Tax Court applies the limitations that would govern a refund claim filed on the deficiency-notice date. A three-year payment lookback is linked to the return-based period; without a return at the relevant hypothetical claim date, the two-year period governs. The statutory construction is independently reviewed.
+26 U.S.C. §§6511(a), 6511(b)(2), 6512(b)(3)(B), and 6513(b). The Tax Court applies the limitations that would govern a refund claim filed on the deficiency-notice date. A three-year payment lookback is linked to the return-based period; otherwise, the two-year period governs. The statutory construction is independently reviewed.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 
@@ -302,8 +299,6 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 #### E. SOURCES
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
-
-* **P1:** [Published Supreme Court opinion, 516 U.S. 235; dates, statutory version, and hypothetical-claim mechanism](https://supreme.justia.com/cases/federal/us/516/235/).
 
 #### Law entering this event
 
@@ -411,7 +406,6 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 516 U.S. 264](https://supreme.justia.com/cases/federal/us/516/264/)
 
 #### Enacted and supporting authorities
 
@@ -489,7 +483,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 516 U.S. 284](https://supreme.justia.com/cases/federal/us/516/284/)
 
 #### Enacted and supporting authorities
 
@@ -578,9 +571,9 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 * **Question Presented:** Whether the Court should deny financial leave and impose a prospective noncriminal filing restriction based on the identified history of repetitive filings. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Court and Judgment Under Review:** No lower-court merits judgment is under review in this fee event. The Court is acting on its own docket and financial-leave rules.
 * **Relief Requested:** The applicant seeks leave to file without prepayment. The competing administrative measure would require fees and compliant paid-petition form for the current and future covered filings.
-* **Material Record:** The historical report describes repeated filings and earlier fee denials; those post-divergence historical dispositions are not automatically completed simulated orders. The present petition(s), financial eligibility, and any validated earlier restrictions must be checked. Filing counts alone do not establish present frivolousness or justify a prospective condition. [P1]
-* **Threshold, Preservation, and Vehicle Matters:** Financial eligibility, whether the particular filing is frivolous or malicious, prospective docket restrictions, and the petition’s substantive disposition are separate questions. The supplied report does not reproduce the underlying petition sufficiently to make a fresh merits finding. A fee order cannot silently become denial of certiorari.
-* **Relevant Dates:** Event: January 22, 1996, historical fee-order date. No AEDPA or Prison Litigation Reform Act provision enacted later in April 1996 is available at this event.
+* **Material Record:** The available record describes repeated filings and earlier fee denials; those post-divergence historical dispositions are not automatically completed simulated orders. The present petition(s), financial eligibility, and any validated earlier restrictions must be checked. Filing counts alone do not establish present frivolousness or justify a prospective condition.
+* **Threshold, Preservation, and Vehicle Matters:** Financial eligibility, whether the particular filing is frivolous or malicious, prospective docket restrictions, and the petition’s substantive disposition are separate questions. The supplied record does not reproduce the underlying petition sufficiently to make a fresh merits finding. A fee order cannot silently become denial of certiorari.
+* **Relevant Dates:** Event: January 22, 1996, historical date. No AEDPA or Prison Litigation Reform Act provision enacted later in April 1996 is available at this event.
 * **Companion or Related Matters:** No additional consolidated or companion matter material to this brief is identified in the cited sources.
 * **Participation Matter:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
 
@@ -596,7 +589,7 @@ Supreme Court Rules 39, 38, and 33 in their event-date versions; 28 U.S.C. §191
 * **Petitioner or Applicant’s Position:** Indigence should not exclude a potentially legitimate filing merely because earlier filings failed; ordinary screening can dispose of the present petition on its own grounds.
 * **Respondent or Competing Position:** Repeated frivolous submissions consume finite judicial resources; the inherited decisions permit requiring payment for a defined class of future filings while leaving criminal matters and paid filings open.
 
-* **Alternative or Unreached Grounds and Limits:** Financial eligibility, whether the particular filing is frivolous or malicious, prospective docket restrictions, and the petition’s substantive disposition are separate questions. The supplied report does not reproduce the underlying petition sufficiently to make a fresh merits finding. A fee order cannot silently become denial of certiorari.
+* **Alternative or Unreached Grounds and Limits:** Financial eligibility, whether the particular filing is frivolous or malicious, prospective docket restrictions, and the petition’s substantive disposition are separate questions. The supplied record does not reproduce the underlying petition sufficiently to make a fresh merits finding. A fee order cannot silently become denial of certiorari.
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
@@ -607,16 +600,14 @@ Supreme Court Rules 39, 38, and 33 in their event-date versions; 28 U.S.C. §191
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
 
-* **P1:** [Published Supreme Court fee order, used for filing history and the separate historical comparator](https://www.law.cornell.edu/supct/html/95-6710.ZPC.html).
-
 #### Application-specific presentation and consequences
 
 - **Exact relief requested:** Leave to file the current certiorari petition(s) in forma pauperis. A proposed prospective fee-and-form condition for future noncriminal certiorari filings is a separate docket-control question, not the applicant’s requested relief and not a merits disposition.
-- **Underlying order and circuit:** This is a Court-directed fee motion on the Supreme Court docket. The report does not establish a Circuit Justice presentation route; no circuit is inferred from the caption, residence, or the lower merits litigation.
+- **Underlying order and circuit:** This is a Court-directed fee motion on the Supreme Court docket. The record does not establish a Circuit Justice presentation route; no circuit is inferred from the caption, residence, or the lower merits litigation.
 - **Authority:** Event-date Supreme Court Rules 39 and 39.8, Rule 38’s fee, and the applicable Rule 33/33.1 form requirements; 28 U.S.C. §1915 where applicable. Do not apply a generic stay or injunction test.
 - **Specific standard:** Determine financial eligibility and the current filing’s frivolousness or malice under Rule 39.8. Any prospective restriction separately needs the applicant-specific, filing-category-specific record and justification required by the actual simulated filing-control cases below, including why ordinary treatment of particular filings is inadequate. Volume and prior losses do not alone establish either question.
 - **Preservation and vehicle:** The current petition’s contents and financial record must support the actual fee ruling. No merits grant, review of an underlying judgment, or finding about unidentified future claims follows from this motion. Distinguish historical docket allegations from validated simulated orders; no unsupplied prior denial or warning is treated as completed here.
-- **Timing and harm:** Access to filing and compliance with any actual fee deadline matter. The report’s later payment deadline is an historical consequence in Section III, not a deadline already imposed in this simulation. No execution, mandate, or injunction-related irreparable-harm requirement is invented.
+- **Timing and harm:** Access to filing and compliance with any actual fee deadline matter. No fee deadline is already imposed in this simulation. No execution, mandate, or injunction-related irreparable-harm requirement is invented.
 - **Presenter and route:** Court-directed motion; no assigned Circuit Justice presenter is established. The full Court decides in its own name. The standing referral rule does not justify manufacturing a presentation that the record does not contain.
 - **Participation:** All nine rostered Justices participate absent a later established case-specific restriction; five votes are required for relief.
 - **If granted:** The current petition may proceed without prepayment subject to ordinary screening; certiorari is not granted and no underlying claim is decided.
@@ -779,15 +770,15 @@ Bishop did **not** expressly reserve the constitutional issue under Rule 11(a)(2
 
 **Cumulative punishment.** Stokes objects to overlapping carjacking and firearm punishments. Simulated *Harris* expressly permits the offense-date §§2119/924(c) pairing under *Missouri v. Hunter*, even assuming *Blockburger* overlap, in one prosecution. Its separate use-or-carrying and relation requirements remain. Carjacking's firearm-possession element does not automatically establish them. The knowing-participation and intentional-assistance limits in *Harris* also remain within their actual scopes. Its clear cumulative authorization leaves no residual ambiguity for lenity on that precise question. Simulated *Dixon* preserves *Grady* for successive prosecution; it does not convert this single trial into successive jeopardy. These rules come from the completed [Holdings](assessment/sources/HOLDINGS.md) and [Standards and Tests](assessment/sources/STANDARDS_AND_TESTS.md), not the historical reasoning in this appeal.
 
-**Identification.** Received *Manson v. Brathwaite* and *Neil v. Biggers* require reliability in the circumstances, weighed against the corrupting effect of suggestive identification procedures. Opportunity to observe, attention, earlier description, certainty and elapsed time matter within that existing inquiry; confidence influenced by police suggestion cannot simply answer the objection to that suggestion. The defense challenges the station procedure and police comments. The government relies on the witnesses' observations during the offense and the findings of independent recollection. Unnecessary suggestion does not by itself compel exclusion under *Manson*. The actual findings and their support must be examined under the applicable standards of review. Neither a categorical replacement rule nor new mandatory expert evidence is entering law. See [Manson](https://supreme.justia.com/cases/federal/us/432/98/).
+**Identification.** Received *Manson v. Brathwaite* and *Neil v. Biggers* require reliability in the circumstances, weighed against the corrupting effect of suggestive identification procedures. Opportunity to observe, attention, earlier description, certainty and elapsed time matter within that existing inquiry. The defense challenges the station procedure and police comments. The government relies on the witnesses' observations during the offense and the findings of independent recollection. Unnecessary suggestion does not by itself compel exclusion under *Manson*. The actual findings and their support must be examined under the applicable standards of review. Neither a categorical replacement rule nor new mandatory expert evidence is entering law. See [Manson](https://supreme.justia.com/cases/federal/us/432/98/).
 
-**Booking statement and video.** Under received *Innis*, interrogation includes words or actions police should know are reasonably likely to elicit an incriminating response. A claimed medical purpose does not alone settle that objective question. The routine-booking discussion in *Muniz* is a plurality rationale; it supplies no blanket medical exception. Genuine intake questions remain distinguishable from requests for an incriminating account. The record credits a medical purpose here; the short appellate discussion is not itself proof that the wrong standard was applied. The video requires attention to physical observations, testimonial answers, relevance and unfair prejudice. An objection to an answer does not automatically exclude every recorded physical observation. See [Innis](https://supreme.justia.com/cases/federal/us/446/291/) and [Muniz](https://supreme.justia.com/cases/federal/us/496/582/).
+**Booking statement and video.** Under received *Innis*, interrogation includes words or actions police should know are reasonably likely to elicit an incriminating response. A claimed medical purpose does not alone settle that objective question. The routine-booking discussion in *Muniz* is a plurality rationale; it supplies no blanket medical exception. Genuine intake questions remain distinguishable from requests for an incriminating account. The record credits a medical purpose here; whether the short appellate discussion applied the correct standard is open. The video requires attention to physical observations, testimonial answers, relevance and unfair prejudice. An objection to an answer does not automatically exclude every recorded physical observation. See [Innis](https://supreme.justia.com/cases/federal/us/446/291/) and [Muniz](https://supreme.justia.com/cases/federal/us/496/582/).
 
 #### Disposition boundaries and record limits
 
 Applying *Harris* supports rejecting the Commerce and cumulative-punishment objections. The trial questions remain separate. Affirmance of a supported evidence ruling, correction of an identified erroneous ruling, and appropriate relief for prejudicial error are distinct lawful possibilities. A preserved constitutional trial error on direct review is subject to *Chapman*: the government must establish harmlessness beyond a reasonable doubt. Ordinary nonconstitutional evidentiary error instead follows its governing harmless-error rule. A limited remand must address an identified defect in adjudication; the absence of a transcript from this preparation packet alone does not establish a judicial error or justify a new trial.
 
-Stokes's suppression findings, questioning context, recording and the evidence's trial use are needed to settle any specific suppression or new-trial disposition. The selected review scope and Stone's legal approach are resolved. Do not invent pretext, unreliable memory, prejudicial use, preservation or an evidentiary finding. Any remedy reaches the affected Stokes judgment; it does not reopen Bishop's plea automatically.
+Stokes's suppression findings, questioning context, recording and the evidence's trial use are needed to settle any specific suppression or new-trial disposition. The selected review scope is resolved. Do not invent pretext, unreliable memory, prejudicial use, preservation or an evidentiary finding. Any remedy reaches the affected Stokes judgment; it does not reopen Bishop's plea automatically.
 
 Only an actually completed, relevant earlier OT1995 decision can supplement the opening law. In particular, a prepared *Bailey* position is not an effective construction of §924(c). The retained source extracts below state the governing opening law and its limits.
 
@@ -984,7 +975,7 @@ The Eleventh Circuit affirmed the City's merits judgment after a bench trial and
 * **Court and Judgment Under Review:** Eighth Circuit affirmed convictions under 18 U.S.C. §922(o) and 26 U.S.C. §5861(d). [P1, 1017–1020]
 * **Relief Requested:** Hale seeks reversal of his convictions; the United States seeks affirmance.
 * **Material Record:** The search produced machineguns and other regulated firearms; Hale received convictions for prohibited machinegun possession and unregistered firearms. The Government introduced certifications concerning the absence of registration records. Hale challenged the registry proof and sought judicial notice or admission of older material criticizing registry reliability. His counsel conceded the identified hearsay exception and authentication predicates in the reported appeal. [P1]
-* **Threshold, Preservation, and Vehicle Matters:** The separate statutory, Second Amendment, and evidentiary questions must not be merged. A prior petition disposition, without a merits holding, supplies no substantive law; the user’s reconstructed review stage is the procedural basis used here. The brief does not add a new instructional or suppression claim absent preservation.
+* **Threshold, Preservation, and Vehicle Matters:** The separate statutory, Second Amendment, and evidentiary questions must not be merged. The user’s reconstructed review stage is the procedural basis used here. The brief does not add a new instructional or suppression claim absent preservation.
 * **Relevant Dates:** Eighth Circuit merits opinion: October 20, 1992; rehearing November 20, 1992. February 12, 1996 is organizationally assigned for the reconstructed review. Controlled Staples is now available law, but no missing knowledge-instruction finding is inferred.
 * **Companion or Related Matters:** No additional consolidated or companion matter material to this brief is identified in the cited sources.
 * **Participation Matter:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
@@ -993,9 +984,9 @@ The Eleventh Circuit affirmed the City's merits judgment after a bench trial and
 
 Article I commerce, taxing, and Necessary and Proper powers; 18 U.S.C. §922(o); 26 U.S.C. §§5811, 5821, 5841, 5861(d); Sonzinsky v. United States, 300 U.S. 506 (1937); United States v. Freed, 401 U.S. 601 (1971). The market prohibition and tax-registration duties require their own authority.
 
-Second Amendment; United States v. Miller, 307 U.S. 174 (1939). Miller’s discussion of militia-related arms does not establish that military utility creates immunity from every federal restriction. The statutory category and claimed protection must be identified without importing later Supreme Court formulations.
+Second Amendment; United States v. Miller, 307 U.S. 174 (1939). Whether Miller’s discussion of militia-related arms makes military utility a basis for immunity from federal restriction is disputed. The statutory category and claimed protection must be identified without importing later Supreme Court formulations.
 
-Federal Rules of Evidence 803(10), 902(1), 201, and the ordinary relevance and hearsay rules; Ohio v. Roberts, 448 U.S. 56 (1980), with Dutton v. Evans, 400 U.S. 74 (1970), and United States v. Inadi, 475 U.S. 387 (1986), in their inherited settings. The trial judge decides admissibility; disputed registry accuracy is not an indisputable adjudicative fact.
+Federal Rules of Evidence 803(10), 902(1), 201, and the ordinary relevance and hearsay rules; Ohio v. Roberts, 448 U.S. 56 (1980), with Dutton v. Evans, 400 U.S. 74 (1970), and United States v. Inadi, 475 U.S. 387 (1986), in their inherited settings. The trial judge decides admissibility; judicial notice reaches only adjudicative facts not subject to reasonable dispute.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 
@@ -1017,12 +1008,12 @@ Federal Rules of Evidence 803(10), 902(1), 201, and the ordinary relevance and h
 * **Petitioner or Applicant’s Position:** The absence-of-record certifications are unreliable, and the older governmental discussion undermines the registry’s accuracy and the opportunity to test the proof.
 * **Respondent or Competing Position:** The certifications satisfy the conceded rule predicates, and disputed or stale criticism is neither automatically admissible nor properly judicially noticed as conclusive fact.
 
-* **Alternative or Unreached Grounds and Limits:** The separate statutory, Second Amendment, and evidentiary questions must not be merged. A prior petition disposition, without a merits holding, supplies no substantive law; the user’s reconstructed review stage is the procedural basis used here. The brief does not add a new instructional or suppression claim absent preservation.
+* **Alternative or Unreached Grounds and Limits:** The separate statutory, Second Amendment, and evidentiary questions must not be merged. The user’s reconstructed review stage is the procedural basis used here. The brief does not add a new instructional or suppression claim absent preservation.
 * **Federal Participation:** The federal party’s position is identified above where applicable. No separate Solicitor General or amicus contention is invented beyond the cited record.
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-* **Lawful Paths and Consequences:** An authority defect could invalidate affected counts but cannot be repaired by adding an extra-statutory nexus. A separate evidentiary defect calls for its own preservation and harmlessness analysis. Affirming Hale’s rejected military-utility argument need not resolve every individual-right question.
+* **Lawful Paths and Consequences:** An authority defect could invalidate affected counts but cannot be repaired by adding an extra-statutory nexus. A separate evidentiary defect calls for its own preservation and harmlessness analysis. Deciding Hale’s military-utility argument need not resolve every individual-right question.
 * **Material Uncertainty:** The full reconstructed grant and trial instructions are not supplied. The draft follows the claims and concessions recorded in the selected opinion, and does not infer a preserved Staples claim solely from its later availability.
 
 #### E. SOURCES
@@ -1160,9 +1151,9 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 #### Record and posture
 
-Illinois directed public elementary schools to conduct the daily Pledge. Richard Sherman and his father challenged the religious phrase in the school-led exercise. The operative construction allowed a pupil to decline recitation without punishment. The record does not establish forced words, compelled exit from the classroom or an imposed penalty. The issue is therefore the school's own recurring religious affirmation within an official civic exercise, not an invented coercive sanction.
+Illinois directed public elementary schools to conduct the daily Pledge. Richard Sherman and his father challenged the religious phrase in the school-led exercise. The operative construction allowed a pupil to decline recitation without punishment. The record does not establish forced words, compelled exit from the classroom or an imposed penalty. The issue is therefore the school's own recurring recitation of the phrase within an official civic exercise, not an invented coercive sanction.
 
-Assigned §1254(1) review of the Seventh Circuit judgment. The prospective challenge concerns official school conduct. Barnette's prohibition on compelled affirmation is distinct from whether the State itself may organize this religious declaration. The suit supplies no occasion for a ruling about every public motto, legislative prayer or historical text read as an object of academic study.
+Assigned §1254(1) review of the Seventh Circuit judgment. The prospective challenge concerns official school conduct. Barnette's prohibition on compelled affirmation is distinct from whether the State itself may organize this recitation. The suit supplies no occasion for a ruling about every public motto, legislative prayer or historical text read as an object of academic study.
 
 #### Entering simulated law and application boundaries
 
@@ -1225,8 +1216,8 @@ The Seventh Circuit upheld the daily Pledge as construed to permit nonparticipat
 - **Legal Area:** Federal courts — qualified immunity and collateral-order appeals
 - **Court and Judgment Under Review:** The Ninth Circuit dismissed the second appeal, treating the earlier appeal as the official’s single opportunity for interlocutory review.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
-- **Material Facts and Record:** Pelletier sued Behrens for damages. Behrens appealed denial of immunity at the pleading stage and later appealed again after discovery and denial of summary judgment. The second order rested partly on the sufficiency of evidence and partly on the legal consequences of the assumed facts.
-- **Preservation / Threshold / Vehicle Issues:** *Johnson v. Jones* bars interlocutory review of genuine evidence-sufficiency disputes. The Court must preserve that boundary while rejecting a one-appeal rule.
+- **Material Facts and Record:** Pelletier sued Behrens for damages. Behrens appealed denial of immunity at the pleading stage and later appealed again after discovery and denial of summary judgment. Whether the second order rested on the sufficiency of evidence, on the legal consequences of the assumed facts, or partly on each is disputed.
+- **Preservation / Threshold / Vehicle Issues:** *Johnson v. Jones* bars interlocutory review of genuine evidence-sufficiency disputes. The Court must preserve that boundary whether or not it adopts a one-appeal rule.
 - **Relevant Dates:** Argument November 7, 1995; decision February 21, 1996.
 - **Companion or Consolidated Matters:** None.
 - **Known Participation Issue:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
@@ -1234,7 +1225,6 @@ The Seventh Circuit upheld the daily Pledge as construed to permit nonparticipat
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 516 U.S. 299](https://supreme.justia.com/cases/federal/us/516/299/)
 
 #### Enacted and supporting authorities
 
@@ -1341,9 +1331,9 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 * **Simulated Event Date:** 1996-02-21; Historical Supreme Court event.
 * **Question Presented:** Whether North Carolina may tax residents’ corporate shares more heavily as the issuing corporation’s exposure to North Carolina income tax decreases, and whether a compensatory-tax defense sustains the distinction. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Question Granted / Submitted Scope:** The issue or issues stated above are reconstructed from the published case record. No additional question is assumed granted. A summary-review event does not imply a prior plenary grant.
-* **Court and Judgment Under Review:** North Carolina Supreme Court sustained the tax, reversing the contrary intermediate appellate ruling. [P1, 329–332]
+* **Court and Judgment Under Review:** North Carolina Supreme Court sustained the tax, reversing the contrary intermediate appellate ruling.
 * **Relief Requested:** Fulton seeks reversal and appropriate tax relief; the State defends the differential as compensation for corporate income taxes paid to North Carolina.
-* **Material Record:** The intangibles tax reduced a resident shareholder’s taxable stock value according to the issuing corporation’s North Carolina income-tax exposure. Thus otherwise comparable investment bore different tax burdens depending on the corporation’s local activity. The State linked the reduction to its corporate income tax but did not establish equivalent incidence between that tax and the shareholder levy. [P1, 327–332]
+* **Material Record:** The intangibles tax reduced a resident shareholder’s taxable stock value according to the issuing corporation’s North Carolina income-tax exposure. Thus otherwise comparable investment bore different tax burdens depending on the corporation’s local activity. The State linked the reduction to its corporate income tax; whether that tax and the shareholder levy have equivalent incidence is disputed.
 * **Threshold, Preservation, and Vehicle Matters:** The constitutional validity of the discriminatory charge precedes severability and refunds. Earlier Darnell authority cannot be silently ignored if its approval of a comparable tax is inconsistent with the rule applied.
 * **Relevant Dates:** Argument: October 31, 1995. Event: February 21, 1996, historical date.
 * **Companion or Related Matters:** No additional consolidated or companion matter material to this brief is identified in the cited sources.
@@ -1371,8 +1361,6 @@ Dormant Commerce Clause; Maryland v. Louisiana, 451 U.S. 725 (1981); Darnell v. 
 #### E. SOURCES
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
-
-* **P1:** [Published Supreme Court opinion, 516 U.S. 325; tax mechanism, compensatory defense, Darnell, and remedy reservation](https://supreme.justia.com/cases/federal/us/516/325/).
 
 #### Law entering this event
 

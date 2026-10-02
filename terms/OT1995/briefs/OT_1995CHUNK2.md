@@ -23,7 +23,7 @@ Preparation only. 12 matters in chronological order. The index supplies the open
 * **Question Presented:** What decree implements the Court’s earlier resolution of the Stack Island boundary and preserves the unadjudicated private ownership questions. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Court and Judgment Under Review:** No lower-court judgment. The Court is asked to enter the boundary schedule implementing the Special Master’s report and the preceding original-action decision.
 * **Relief Requested:** Entry of a definitive interstate boundary decree, disposition of Louisiana’s private-title cancellation request, and retention of jurisdiction for implementation.
-* **Material Record:** The proposed implementing schedule describes the boundary adjudicated through the Special Master’s report. Louisiana’s separate private-title cancellation prayer and retained original jurisdiction require treatment distinct from the geographic schedule. The actual simulated October 31 judgment and authenticated survey must be checked before implementation; this packet assumes neither that the report was adopted nor that a different boundary was ordered. [P1, identifying the schedule and scope of the original action; prior-event dependency below]
+* **Material Record:** The proposed implementing schedule describes the boundary recommended in the Special Master’s report. Louisiana’s separate private-title cancellation prayer and retained original jurisdiction require treatment distinct from the geographic schedule. The actual simulated October 31 judgment and authenticated survey must be checked before implementation; this packet assumes neither that the report was adopted nor that a different boundary was ordered.
 * **Threshold, Preservation, and Vehicle Matters:** Original jurisdiction continues. The Court cannot turn a decree into a new trial of private title or silently implement a historical judgment different from its simulated judgment. Louisiana’s lack of standing to cancel private title is distinct from Mississippi’s sovereign boundary.
 * **Relevant Dates:** December 4, 1995 is the historical decree date. The October 31, 1995 event must be processed first. Neither event is treated as an appellate judgment.
 * **Companion or Related Matters:** Same original docket as the October 31, 1995 matter. This is a distinct, expressly listed decree event, not an additional case invented for the supplement.
@@ -46,13 +46,11 @@ Article III, §2; 28 U.S.C. §1251(a); the Court’s original-action authority t
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
 * **Lawful Paths and Consequences:** Enter a conforming decree if the merits judgment and authenticated survey agree. A survey discrepancy calls for verification or referral to the Master; a different simulated merits judgment requires a revised decree. Private-title adjudication is unavailable on Louisiana’s unexcepted standing posture.
-* **Material Uncertainty:** The official PDF’s text was retrieved, but the web image-rendering request failed. No coordinates have been transcribed from unverified extraction. The decree adopts the authenticated schedule by reference rather than risking an erroneous geographic command.
+* **Material Uncertainty:** No coordinates have been transcribed from unverified extraction. This packet refers to the authenticated schedule rather than risking an erroneous geographic command.
 
 #### E. SOURCES
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
-
-* **P1:** [Official United States Reports decree, paragraphs 1–3, at 516 U.S. 122–123](https://tile.loc.gov/storage-services/service/ll/usrep/usrep516/usrep516122/usrep516122.pdf).
 
 #### Law entering this event
 
@@ -165,7 +163,7 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 * **Citation or Docket:** 31 F.3d 727; Supreme Court docket not supplied; Eighth Circuit No. 93-2928
 * **October Term:** 1995
 * **Legal Field:** Equal protection; prison programs
-* **Entry Stage and Event:** User-supplied simulated grant; review of an interlocutory equal-protection liability ruling.
+* **Entry Stage and Event:** Sim-granted matter; review of an interlocutory equal-protection liability ruling.
 * **Simulated Event Date:** 1995-12-04; Supplied simulated.
 * **Question Presented:** Whether differences between the women’s and men’s prisons categorically defeat comparison for the challenged programs, and what classification and intent findings are required before imposing equal-protection liability. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Question Granted:** The supplied simulation calendar designates merits review of the identified controversy. The exact text of a separate grant order is not supplied; the question above is the reconstructed scope, subject to any actual controlling limitation.
@@ -179,7 +177,7 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 #### Enacted and surviving authorities
 
-Equal Protection Clause; Reed v. Reed, 404 U.S. 71 (1971); Craig v. Boren, 429 U.S. 190 (1976); Mississippi University for Women v. Hogan, 458 U.S. 718 (1982). Similarity must concern the challenged treatment; prison security and program needs can be material without being conclusive for every service.
+Equal Protection Clause; Reed v. Reed, 404 U.S. 71 (1971); Craig v. Boren, 429 U.S. 190 (1976); Mississippi University for Women v. Hogan, 458 U.S. 718 (1982). Similarity must concern the challenged treatment; prison security and program needs can be material, and whether they are conclusive for every service is contested.
 
 Washington v. Davis, 426 U.S. 229 (1976); Arlington Heights v. Metropolitan Housing Development Corp., 429 U.S. 252 (1977); Personnel Administrator v. Feeney, 442 U.S. 256 (1979); Craig and Hogan. A facially neutral program difference requires the ordinary discriminatory-purpose showing. For an established sex classification, government carries important objective and substantial relationship. Turner v. Safley, 482 U.S. 78 (1987), does not itself decide whether a particular distinction is a sex classification.
 
@@ -191,7 +189,7 @@ Washington v. Davis, 426 U.S. 229 (1976); Arlington Heights v. Metropolitan Hous
 * **Petitioner or Applicant’s Position:** Treating the only women’s prison as incomparable insulates sex-linked denials from review; differences irrelevant to a particular program cannot answer that claim.
 * **Respondent or Competing Position:** Security, sentence duration, population size, and economy of scale materially affect the available programs and prevent a simple demand for identical offerings.
 
-##### Issue 2: Classification, purpose, and liability on remand
+##### Issue 2: Classification, purpose, and liability
 
 * **Controlling Reasoning Below / Institutional Posture:** The lower courts disagreed over the legal consequence of sex-segregated institutions and program disparities; the appellate opinion identified the absence of adequate program-specific discriminatory-treatment findings.
 * **Petitioner or Applicant’s Position:** The State allocates services to prisons divided by sex, and the record can demonstrate purposeful unequal treatment without a written admission.
@@ -222,7 +220,7 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
-**Application of the entering law:** J.E.B./Hogan support ordinary intermediate scrutiny of actual sex classifications, while purposeful discrimination remains necessary for facially neutral choices. Relevant prison differences do not decide every program comparison categorically.
+**Application of the entering law:** J.E.B./Hogan support ordinary intermediate scrutiny of actual sex classifications, while purposeful discrimination remains necessary for facially neutral choices. Whether relevant prison differences decide every program comparison categorically is the contested question.
 
 **Matter-specific uncertainty:** Historical petition 94-7589 is now supplied. Preserve the simulated merits assignment and the interlocutory/program-claim limits; no separate reconstructed grant text is invented.
 
@@ -310,9 +308,9 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 * **Simulated Event Date:** 1995-12-05; Historical Supreme Court event.
 * **Question Presented:** Whether §1447(d) bars appeal of a remand based on a timely removal defect or lack of subject-matter jurisdiction when removal also invoked the bankruptcy-removal statute. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Question Granted / Submitted Scope:** The issue or issues stated above are reconstructed from the published case record. No additional question is assumed granted. A summary-review event does not imply a prior plenary grant.
-* **Court and Judgment Under Review:** Sixth Circuit dismissed the appeal from the district court’s remand to state court. Removal invoked both ordinary and bankruptcy authority; the remand rested on untimeliness and jurisdictional grounds. [P1, 126–128]
+* **Court and Judgment Under Review:** Sixth Circuit dismissed the appeal from the district court’s remand to state court. Removal invoked both ordinary and bankruptcy authority; the remand rested on untimeliness and jurisdictional grounds.
 * **Relief Requested:** The removing party seeks appellate review of the remand; Petrarca seeks affirmance of the dismissal.
-* **Material Record:** A state action concerning a lease guaranty became connected to a bankruptcy proceeding. The bankruptcy court accepted removal, but the district court directed remand on grounds encompassed by §1447(c). The question is reviewability, not whether the guarantor ultimately owes rent. [P1, 126–128]
+* **Material Record:** A state action concerning a lease guaranty became connected to a bankruptcy proceeding. The bankruptcy court accepted removal, but the district court directed remand on grounds encompassed by §1447(c). The question is reviewability, not whether the guarantor ultimately owes rent.
 * **Threshold, Preservation, and Vehicle Matters:** 28 U.S.C. §1447(d) limits review of the remand order, but the Supreme Court can decide whether the Sixth Circuit properly dismissed the attempted appeal. Do not confuse that question with direct review of the remand’s correctness.
 * **Relevant Dates:** Argument: October 2, 1995. Event: December 5, 1995, historical date.
 * **Companion or Related Matters:** No additional consolidated or companion matter material to this brief is identified in the cited sources.
@@ -320,7 +318,7 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 #### Enacted and surviving authorities
 
-28 U.S.C. §§1447(c)–(d), 1452(a)–(b); Thermtron Products v. Hermansdorfer, 423 U.S. 336 (1976). Section 1447(d), read with subsection (c), bars review of remands for covered jurisdictional or timely raised procedural defects. Section 1452(b) independently addresses equitable bankruptcy remands. Each statute must be applied to its actual ground.
+28 U.S.C. §§1447(c)–(d), 1452(a)–(b); Thermtron Products v. Hermansdorfer, 423 U.S. 336 (1976). Section 1447(d), read with subsection (c), bars review of remands for covered jurisdictional or timely raised procedural defects. Section 1452(b) addresses equitable bankruptcy remands. How the two provisions interact is the question presented.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 
@@ -334,14 +332,12 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-* **Lawful Paths and Consequences:** If the actual remand ground falls within §1447(c), affirm the jurisdictional dismissal without examining its correctness. A materially different remand ground would require its own analysis under §§1447(d) and 1452(b).
+* **Lawful Paths and Consequences:** If the actual remand ground falls within §1447(c) and §1447(d) applies despite the bankruptcy removal, affirm the jurisdictional dismissal without examining its correctness; if the bankruptcy-removal provision instead supplies the exclusive remand regime, the dismissal cannot rest on §1447(d). A materially different remand ground would require its own analysis under §§1447(d) and 1452(b).
 * **Material Uncertainty:** Questions are source-grounded paraphrases rather than represented as verbatim petition text. Facts not established by the cited record remain unproved. No completed earlier OT1995 Court decision beyond the uploaded baseline has been supplied for incorporation; revalidation is required before adjudication.
 
 #### E. SOURCES
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
-
-* **P1:** [Published Supreme Court opinion, 516 U.S. 124, statutory provisions and lower-court posture](https://supreme.justia.com/cases/federal/us/516/124/).
 
 #### Law entering this event
 
@@ -488,7 +484,7 @@ Section 157(d) withdrawal of reference is separate. The district court may withd
 - **Legal Area:** Criminal law — statutory meaning and firearm use
 - **Court and Judgment Under Review:** The D.C. Circuit affirmed convictions based on firearms found near drugs or proceeds without proof of active employment.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
-- **Material Facts and Record:** Police found a loaded pistol in Bailey’s locked trunk and a firearm in Robinson’s bedroom near drug proceeds. The Government relied on accessibility and emboldening rather than brandishing, displaying, firing, referring to, or otherwise actively employing the weapons.
+- **Material Facts and Record:** Police found a loaded pistol in Bailey’s locked trunk and a firearm in Robinson’s bedroom near drug proceeds. The Government relied on accessibility and emboldening rather than brandishing, displaying, or firing the weapons.
 - **Preservation / Threshold / Vehicle Issues:** None identified beyond ordinary preservation, finality, and remedy questions.
 - **Relevant Dates:** Argument October 30, 1995; decision December 6, 1995.
 - **Companion or Consolidated Matters:** Bailey v. United States; Robinson v. United States
@@ -497,11 +493,10 @@ Section 157(d) withdrawal of reference is separate. The district court may withd
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 516 U.S. 137](https://supreme.justia.com/cases/federal/us/516/137/)
 
 #### Enacted and supporting authorities
 
-18 U.S.C. §924(c)(1); *Smith v. United States*, 508 U.S. 223 (the ordinary active meaning of “use,” including barter of a firearm for drugs); simulated *Staples v. United States*, 511 U.S. 600, and *Ratzlaf v. United States*, 510 U.S. 135, for source-bound criminal construction.
+18 U.S.C. §924(c)(1); *Smith v. United States*, 508 U.S. 223 (the ordinary meaning of “use,” including barter of a firearm for drugs); simulated *Staples v. United States*, 511 U.S. 600, and *Ratzlaf v. United States*, 510 U.S. 135, for source-bound criminal construction.
 
 Post-divergence Supreme Court citations in this list refer only to actual simulated rules identified below, not to the historical result. Proposed applications in Section II remain separate.
 
@@ -598,13 +593,13 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 The parent-led club sought voluntary after-school access for religious instruction and associated activities, with parental permission and notice of private sponsorship. The district made the relevant 3–6 p.m. period available to certain youth activities, including Scouts and athletics, while excluding the club's religious activity. The dispute concerns the actual subjects and users admitted during that period, not an unlimited right to use a classroom during instruction. No official direction of club worship is established.
 
-Assigned merits review under §1254(1) of the Eighth Circuit's access ruling. The club seeks equal use of the existing forum; the district invokes its forum rules and establishment concerns. Identify the activity actually admitted and the comparable excluded religious perspective. This is an access case, not a demand for a new devotional subsidy or an order requiring the school to sponsor worship.
+Assigned merits review under §1254(1) of the Eighth Circuit's access ruling. The club seeks equal use of the existing forum; the district invokes its forum rules and establishment concerns. Identify the activity actually admitted and whether the excluded religious activity is comparable. This is an access case, not a demand for a new devotional subsidy or an order requiring the school to sponsor worship.
 
 #### Entering simulated law and application boundaries
 
 The coordinated Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, at commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward completed OT1991–OT1993 law. No completed OT1995 decision is supplied at this opening. Only an actual validated decision effective before this event may supplement that baseline. Preparation, historical outcomes and file order create no law.
 
-Simulated Lamb's Chapel directly prohibits religious-viewpoint exclusion from an otherwise eligible after-hours school presentation. Pinette and Chabad distinguish clearly private expression from governmental adoption; their bounded holdings do not impose a universal disclaimer formula. Rosenberger permits the actual neutral printing-benefit program it considered; Stone's separate funding preferences cannot replace that Court holding. Lemon remains governing simulated establishment law. The club's younger audience and the timing/location of meetings require attention to attribution, but age does not itself make parent-led voluntary speech official worship.
+Simulated Lamb's Chapel directly prohibits religious-viewpoint exclusion from an otherwise eligible after-hours school presentation. Pinette and Chabad distinguish clearly private expression from governmental adoption; their bounded holdings do not impose a universal disclaimer formula. Rosenberger permits the actual neutral printing-benefit program it considered; Stone's separate funding preferences cannot replace that Court holding. Lemon remains governing simulated establishment law. The club's younger audience and the timing/location of meetings require attention to attribution; whether age alone makes parent-led voluntary speech official worship is open.
 
 **Private religious viewpoints in public forums and printing benefits.** When a public school admits private family-life and child-rearing discussion to an after-hours forum, it cannot exclude an otherwise eligible presentation solely for its religious viewpoint, even assuming a nonpublic forum. Neutral restrictions outside the forum's actual subjects remain possible. Equal access to voluntary, publicly accessible after-hours films without school sponsorship has a secular forum purpose, does not primarily advance religion as governmental activity and causes no excessive entanglement. That establishment holding concerns private speech, not an official devotional program; it supplies no replacement for the inherited establishment framework or universal ruling on worship restrictions. A State may not categorically exclude an otherwise eligible private unattended religious display from a forum actually opened to comparable expression merely because its message is religious or its location adjoins or lies within a capitol. Pinette’s access holding includes the proposal’s offered private-attribution safeguard; it establishes neither adequacy of a later sign nor a comprehensive establishment test. Chabad separately holds that an interior capitol location does not establish religion when actual context makes the expression clearly private. Actual selection, financing, control, adoption, preference or obscured private sponsorship can alter that conclusion; no forum label or unspecified sign decides attribution. In a generally available, privately edited student-publication program, a religious editorial viewpoint cannot exclude an otherwise eligible publication from printing support. Its secular expression purpose, broad neutral availability, independent attribution and controlled vendor payments together permit that benefit; neutrality alone does not authorize devotional financing or governmental worship.
 
@@ -658,7 +653,7 @@ The Eighth Circuit ruled for the club's access claim; the decision was filed Jul
 * **Citation or Docket:** 47 F.3d 120; Supreme Court docket not supplied; Fourth Circuit No. 94-1582
 * **October Term:** 1995
 * **Legal Field:** Civil rights; licensing; due process; Second Amendment
-* **Entry Stage and Event:** User-supplied simulated grant; merits review of dismissal of a §1983 damages action.
+* **Entry Stage and Event:** Sim-granted matter; merits review of dismissal of a §1983 damages action.
 * **Simulated Event Date:** 1995-12-11; Organizationally assigned.
 * **Question Presented:** Whether the pleaded unlawful denial of a Maryland handgun purchase application establishes the substantive-due-process, contract-liberty, or Second Amendment claims actually asserted. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Question Granted:** The supplied simulation calendar designates merits review of the identified controversy. The exact text of a separate grant order is not supplied; the question above is the reconstructed scope, subject to any actual controlling limitation.
@@ -695,7 +690,7 @@ Second and Fourteenth Amendments; United States v. Cruikshank, 92 U.S. 542 (1876
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
 * **Lawful Paths and Consequences:** An independently established federal violation could support further officer proceedings subject to the actual defenses and remedy. A mere state-law error does not. A new incorporation holding would require express treatment of inherited contrary authority; an unpleaded procedural claim cannot substitute for that work.
-* **Preparation status:** Stone’s selected or delegated position is supplied in Section II. The express simulated merits assignment remains established; a separate simulated grant order is not supplied. Later firearms decisions are not imported.
+* **Preparation status:** The express simulated merits assignment remains established; a separate simulated grant order is not supplied. Later firearms decisions are not imported.
 
 #### E. SOURCES
 
@@ -715,7 +710,7 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
-**Application of the entering law:** Existing nonincorporation authorities, the pleaded substantive theories and 1990 immunity law remain distinct. No future arms-roadmap outcome is current law.
+**Application of the entering law:** Existing nonincorporation authorities, the pleaded substantive theories and 1990 immunity law remain distinct.
 
 **Matter-specific uncertainty:** Historical petition 94-1947 is now supplied. Preserve the identified damages controversy and express simulated merits assignment; the old absence-of-source statement does not negate this new identifier.
 
@@ -807,7 +802,7 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 - **Court and Judgment Under Review:** The en banc Eleventh Circuit rejected the plaintiffs’ statewide challenge to Alabama’s at-large judicial-election systems.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
 - **Material Facts and Record:** Black voters challenged at-large elections for Alabama circuit and district judges. The record addressed racially polarized voting, the minority voting-age population, candidate success, jurisdiction-wide election, judicial territorial responsibility, and proposed subdistrict or altered-election alternatives. The State emphasized the linkage between each judge and the whole jurisdiction served.
-- **Preservation / Threshold / Vehicle Issues:** Section 2 applies to judicial elections, but remedy and benchmark must be office specific. The Court should not require proportional representation, create judgeships, or decide every Alabama circuit on an undifferentiated statewide record.
+- **Preservation / Threshold / Vehicle Issues:** Section 2 applies to judicial elections, but remedy and benchmark must be office specific. The Court should not require proportional representation or create judgeships; whether the statewide record permits decision of every Alabama circuit together is contested.
 - **Relevant Dates:** Express simulated merits assignment; December 18, 1995 is the assigned merits processing date. A separately authenticated simulated grant date is not supplied.
 - **Companion or Consolidated Matters:** None.
 - **Known Participation Issue:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
@@ -815,7 +810,7 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 #### Additional public case information
 
 - **Conflict / Percolation:** Lower courts agreed that §2 reaches judicial elections but differed over appropriate benchmarks, linkage, subdistrict remedies, and the proof needed for effective minority opportunity.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Eleventh Circuit, 56 F.3d 1281](https://law.justia.com/cases/federal/appellate-courts/F3/56/1281/624025/)
+- **Public Sources:** Case facts, posture, and dates → [Eleventh Circuit, 56 F.3d 1281](https://law.justia.com/cases/federal/appellate-courts/F3/56/1281/624025/)
 
 #### Enacted and supporting authorities
 
@@ -823,7 +818,7 @@ Simulated *Johnson v. De Grandy*, 512 U.S. 997; simulated *Holder v. Hall*, 512 
 
 Post-divergence Supreme Court citations in this list refer only to actual simulated rules identified below, not to the historical result. Proposed applications in Section II remain separate.
 
-**Source identity:** The coordinated Standing State and official Court journal identify historical petition 95-647. The older 94-7830 belongs to an unrelated case and is retained only in the audit history. The same SCLC controversy and its assigned simulated merits review remain; no new simulated docket or grant date is invented. The [official OT1995 journal, page 397](https://www.supremecourt.gov/orders/journal/jnl95.pdf) confirms the historical petition identifier; its historical disposition does not control the authorized simulated merits proceeding.
+**Source identity:** The coordinated Standing State identifies historical petition 95-647. The older 94-7830 belongs to an unrelated case and is retained only in the audit history. The same SCLC controversy and its assigned simulated merits review remain; no new simulated docket or grant date is invented.
 
 #### Law entering this event
 
@@ -835,7 +830,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
-**Application of the entering law:** Section 2 remains a results inquiry into minority-preferred candidates and actual electoral opportunity, not a required showing of discriminatory enactment or individual vote motivation. Holder and De Grandy require contextual, jurisdiction-matched analysis. The lower court's historical Shaw rationale must be assessed against actual simulated Shaw/Miller.
+**Application of the entering law:** Section 2 remains a results inquiry into minority-preferred candidates and actual electoral opportunity, not a required showing of discriminatory enactment. Holder and De Grandy require contextual, jurisdiction-matched analysis. The lower court's historical Shaw rationale must be assessed against actual simulated Shaw/Miller.
 
 **Record scope:** Preserve the identified Alabama judicial-election §2 controversy and the source-grounded questions in this packet. The historical petition identifier is authenticated; no separate simulated docket is needed to preserve the express merits assignment.
 
@@ -959,6 +954,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 - **Historical Opinion Topology:** En banc lower-court opinions supply the historical comparison; no Supreme Court vote exists.
 - **Historical Holding / Rule:** The court of appeals rejected the plaintiffs’ proposed dilution theory and gave substantial weight to linkage and the structure of judicial office.
 - **Historical Marks Status:** Not applicable.
+- **Public source:** [official OT1995 journal, page 397](https://www.supremecourt.gov/orders/journal/jnl95.pdf)
 
 ## OT1995-017 — Locomotive Engineers v. Atchison, T. & S. F. R. Co.
 
@@ -980,9 +976,9 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 * **Simulated Event Date:** 1996-01-08; Historical Supreme Court event.
 * **Question Presented:** Whether time spent waiting for transportation after completion of an assignment is on-duty time or the non-duty, non-rest transportation interval under the Hours of Service Act. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Question Granted / Submitted Scope:** The issue or issues stated above are reconstructed from the published case record. No additional question is assumed granted. A summary-review event does not imply a prior plenary grant.
-* **Court and Judgment Under Review:** Seventh Circuit, en banc, rejected the claim that the waiting interval must count as on duty and set aside the contrary treatment. [P1, 155–157]
+* **Court and Judgment Under Review:** Seventh Circuit, en banc, rejected the claim that the waiting interval must count as on duty and set aside the contrary treatment.
 * **Relief Requested:** The unions seek on-duty treatment of the waiting period; the railroad seeks preservation of the statutory transportation classification.
-* **Material Record:** After crews complete their assignments, they may wait before transportation takes them to final release. The Act distinguishes work, transportation to duty, and transportation from duty to final release. The dispute concerns the last category, not waiting while still responsible for train movement. [P1, 154–158]
+* **Material Record:** After crews complete their assignments, they may wait before transportation takes them to final release. The Act distinguishes work, transportation to duty, and transportation from duty to final release. The dispute concerns the last category, not waiting while still responsible for train movement.
 * **Threshold, Preservation, and Vehicle Matters:** The statutory category must be fixed before considering administrative weight or policy consequences. The period at issue is not automatically statutory rest simply because it is excluded from on-duty computation.
 * **Relevant Dates:** Argument: October 30, 1995. Event: January 8, 1996, historical date.
 * **Companion or Related Matters:** No additional consolidated or companion matter material to this brief is identified in the cited sources.
@@ -990,7 +986,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 #### Enacted and surviving authorities
 
-49 U.S.C. §21103(b), carrying the Hours of Service Act categories; the pre-recodification provision and the 1969 amendment described in P1. Interpret the specific return-transportation provision with the general on-duty clauses. Courts decide the statutory category independently before any deference question.
+49 U.S.C. §21103(b), carrying the Hours of Service Act categories; the pre-recodification provision and the 1969 amendment. Interpret the specific return-transportation provision with the general on-duty clauses. Courts decide the statutory category independently before any deference question.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 
@@ -1010,8 +1006,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### E. SOURCES
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
-
-* **P1:** [Published Supreme Court opinion, 516 U.S. 152; statutory text, administration, and precise waiting interval](https://supreme.justia.com/cases/federal/us/516/152/).
 
 #### Law entering this event
 
@@ -1121,11 +1115,10 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 516 U.S. 163](https://supreme.justia.com/cases/federal/us/516/163/)
 
 #### Enacted and supporting authorities
 
-28 U.S.C. §2106; *Henry v. City of Rock Hill*, 376 U.S. 776; simulated *Thomas Jefferson University v. Shalala*, 512 U.S. 504, and *MCI Telecommunications Corp. v. American Telephone & Telegraph Co.*, 512 U.S. 218, solely as remand-side cautions.
+28 U.S.C. §2106; *Henry v. City of Rock Hill*, 376 U.S. 776; simulated *Thomas Jefferson University v. Shalala*, 512 U.S. 504, and *MCI Telecommunications Corp. v. American Telephone & Telegraph Co.*, 512 U.S. 218.
 
 Post-divergence Supreme Court citations in this list refer only to actual simulated rules identified below, not to the historical result. Proposed applications in Section II remain separate.
 
@@ -1230,9 +1223,9 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 * **Simulated Event Date:** 1996-01-08; Historical Supreme Court event.
 * **Question Presented:** Whether the court of appeals should reconsider excusable neglect in light of Pioneer and the Government’s changed position on its application to criminal appeal deadlines. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Question Granted / Submitted Scope:** The issue or issues stated above are reconstructed from the published case record. No additional question is assumed granted. A summary-review event does not imply a prior plenary grant.
-* **Court and Judgment Under Review:** Eleventh Circuit summarily affirmed rejection of a late criminal notice of appeal without an explanatory opinion. The district court had declined to excuse a one-working-day delay. [P1, 194–197]
+* **Court and Judgment Under Review:** Eleventh Circuit summarily affirmed rejection of a late criminal notice of appeal without an explanatory opinion. The district court had declined to excuse a one-working-day delay.
 * **Relief Requested:** Stutson seeks an opportunity for appellate consideration under the proper neglect standard, not immediate reversal of his conviction.
-* **Material Record:** Counsel’s filing was misdirected and arrived one working day late. Pioneer had recently interpreted excusable neglect in a bankruptcy rule, but the Government initially argued against using that construction for criminal appeals. It now accepts the relevance of Pioneer. The absence of an explanatory appellate opinion leaves uncertain whether that framework was considered. [P1, 194–197]
+* **Material Record:** Counsel’s filing was misdirected and arrived one working day late. Pioneer had recently interpreted excusable neglect in a bankruptcy rule, but the Government initially argued against using that construction for criminal appeals. It now accepts the relevance of Pioneer. The absence of an explanatory appellate opinion leaves uncertain whether that framework was considered.
 * **Threshold, Preservation, and Vehicle Matters:** The Court may order reconsideration under §2106 without deciding the criminal merits or finding excusable neglect. A change in the Government’s position is relevant but does not by itself require vacatur.
 * **Relevant Dates:** Pioneer was decided March 24, 1993 and is date-eligible inherited authority. January 8, 1996 is the assigned historical summary-disposition date. Lawrence is listed earlier on the same date but controls only if actually released first in the simulation.
 * **Companion or Related Matters:** No additional consolidated or companion matter material to this brief is identified in the cited sources.
@@ -1262,7 +1255,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
 
-* **P1:** [Published summary opinion, 516 U.S. 193; procedural record and changed government position](https://supreme.justia.com/cases/federal/us/516/193/).
 * **P2:** [Pioneer, 507 U.S. 380, the inherited excusable-neglect formulation](https://supreme.justia.com/cases/federal/us/507/380/).
 
 #### Law entering this event
@@ -1374,7 +1366,6 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 516 U.S. 199](https://supreme.justia.com/cases/federal/us/516/199/)
 
 #### Enacted and supporting authorities
 
@@ -1513,7 +1504,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 Allridge's Texas capital sentencing jury answered deliberateness and future-danger questions. The life alternative permitted ordinary parole; a prediction that release would be unlikely is different from legal ineligibility. His father testified about prior prison abuse and alleged mental illness, and Allridge requested a supplemental mitigation instruction. The father was not a diagnostic expert. Medical evidence not presented at sentencing cannot be treated as an established trial fact. The separate contention that the special issues deterred its presentation must be assessed as such.
 
-Pre-AEDPA federal habeas review under the assigned §1254(1) merits route. The user has accepted the reconstruction that Ronald Keith Allridge remains alive in custody pending review on January 15, 1996. His historical execution has not occurred in this simulation before the listed event. This establishes the live-case premise without inventing a stay order or adding an application. The controlled review includes the parole-information and special-issues claims, not every Brady, lesser-offense or other claim discussed below. Identify finality, exhaustion and preservation for each claim. The requested mitigation instruction is documented; the federal court must assess the actual testimony and charge rather than manufacture medical findings. No new ineffective-assistance claim is supplied.
+Pre-AEDPA federal habeas review under the assigned §1254(1) merits route. The user has accepted the reconstruction that Ronald Keith Allridge remains alive in custody pending review on January 15, 1996. This establishes the live-case premise without inventing a stay order or adding an application. The controlled review includes the parole-information and special-issues claims, not every Brady, lesser-offense or other claim discussed below. Identify finality, exhaustion and preservation for each claim. The requested mitigation instruction is documented; review must assess the actual testimony and charge rather than manufacture medical findings. No new ineffective-assistance claim is supplied.
 
 #### Entering simulated law and application boundaries
 
@@ -1535,7 +1526,7 @@ The [matter-specific public-law extracts](inherited/readings/OT1995-104.md) pres
 
 Use an earlier effective Tuggle decision only if actually adjudicated, and only within its error-category and remedial scope.
 
-The user-accepted live-case premise resolves the timing issue: Allridge remains alive in custody at the assigned review. The packet supports the prepared remand under simulated Graham and Johnson. An immediate sentencing writ would additionally require the full charge, relevant testimony and claim-specific habeas predicates; those application limits do not reopen the accepted premise or require another choice for the narrower legal-standard remand.
+The user-accepted live-case premise resolves the timing issue: Allridge remains alive in custody at the assigned review. An immediate sentencing writ would require the full charge, relevant testimony and claim-specific habeas predicates; those application limits do not reopen the accepted premise.
 
 #### Sources
 

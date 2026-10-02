@@ -95,7 +95,7 @@ The Eighth Circuit affirmed the district court, treating historical Casey rather
 - **Legal Area:** Criminal procedure — competency and burden of proof
 - **Court and Judgment Under Review:** The Oklahoma Court of Criminal Appeals upheld Cooper’s conviction and the State’s clear-and-convincing burden.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
-- **Material Facts and Record:** Evidence raised substantial doubts about Cooper’s ability to understand proceedings and assist counsel. Oklahoma placed the burden on him to prove incompetence by clear and convincing evidence, allowing trial despite serious uncertainty.
+- **Material Facts and Record:** Evidence raised substantial doubts about Cooper’s ability to understand proceedings and assist counsel. Oklahoma placed the burden on him to prove incompetence by clear and convincing evidence.
 - **Preservation / Threshold / Vehicle Issues:** None identified beyond ordinary preservation, finality, and remedy questions.
 - **Relevant Dates:** Argument January 17, 1996; decision April 16, 1996.
 - **Companion or Consolidated Matters:** None.
@@ -104,7 +104,6 @@ The Eighth Circuit affirmed the district court, treating historical Casey rather
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 348](https://supreme.justia.com/cases/federal/us/517/348/)
 
 #### Enacted and supporting authorities
 
@@ -201,7 +200,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 370](https://supreme.justia.com/cases/federal/us/517/370/)
 
 #### Enacted and supporting authorities
 
@@ -279,7 +277,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 392](https://supreme.justia.com/cases/federal/us/517/392/)
 
 #### Enacted and supporting authorities
 
@@ -365,19 +362,19 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 * **Simulated Event Date:** 1996-04-29; Historical Supreme Court event.
 * **Question Presented:** Whether the district court could grant the Rule 29(c) motion filed one day late through the Rules, inherent power, coram nobis, or due process. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Question Granted / Submitted Scope:** The issue or issues stated above are reconstructed from the published case record. No additional question is assumed granted. A summary-review event does not imply a prior plenary grant.
-* **Court and Judgment Under Review:** Sixth Circuit, 48 F.3d 190, reversed the district court’s acquittal order and remanded for reinstatement of the guilty verdict and sentencing. [P1, 418–419]
+* **Court and Judgment Under Review:** Sixth Circuit, 48 F.3d 190, reversed the district court’s acquittal order and remanded for reinstatement of the guilty verdict and sentencing.
 * **Relief Requested:** Carlisle seeks restoration of the acquittal; the United States seeks affirmance of the Sixth Circuit.
-* **Material Record:** Carlisle made no trial-stage Rule 29 motion. After a guilty verdict and jury discharge, counsel filed the postverdict motion one day beyond the seven-day period calculated under Rule 45. The Government objected to timeliness. The district court initially denied the motion, then changed its mind at sentencing and granted it on sufficiency grounds without a timely extension or reserved decision. [P1, 418–419]
-* **Threshold, Preservation, and Vehicle Matters:** The Government’s appeal seeks reinstatement of an existing guilty verdict, not a second trial, so the ordinary Double Jeopardy prohibition does not bar that review. Rules 29 and 45 delimit the district court’s authority on the disputed motion; this need not be described as absence of all Article III criminal jurisdiction.
+* **Material Record:** Carlisle made no trial-stage Rule 29 motion. After a guilty verdict and jury discharge, counsel filed the postverdict motion one day beyond the seven-day period calculated under Rule 45. The Government objected to timeliness. The district court initially denied the motion, then changed its mind at sentencing and granted it on sufficiency grounds without a timely extension or reserved decision.
+* **Threshold, Preservation, and Vehicle Matters:** The Government’s appeal seeks reinstatement of an existing guilty verdict, not a second trial, so the ordinary Double Jeopardy prohibition does not bar that review. Rules 29 and 45 delimit the district court’s Rule-based authority on the disputed motion; this need not be described as absence of all Article III criminal jurisdiction.
 * **Relevant Dates:** Verdict and discharge: July 13, 1993. Motion deadline: July 22; filing: July 23. Argument: January 16, 1996. Event: April 29, 1996. Apply the then-operative seven-day Rule, not a later amended deadline.
 * **Companion or Related Matters:** No additional consolidated or companion matter material to this brief is identified in the cited sources.
 * **Participation Matter:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
 
 #### Enacted and surviving authorities
 
-Federal Rules of Criminal Procedure 29(a)–(c), 45(b), 2, and 57 in the applicable versions; United States v. Smith, 331 U.S. 469 (1947); Bank of Nova Scotia v. United States, 487 U.S. 250 (1988). A timely reserved motion differs from an untimely new motion. Rule 45’s express restriction controls extension; general interpretive and gap-filling rules do not displace an express deadline.
+Federal Rules of Criminal Procedure 29(a)–(c), 45(b), 2, and 57 in the applicable versions; United States v. Smith, 331 U.S. 469 (1947); Bank of Nova Scotia v. United States, 487 U.S. 250 (1988). A timely reserved motion differs from an untimely new motion. Rule 45’s express restriction controls extension; whether general interpretive and gap-filling rules can supply authority after an express deadline is disputed.
 
-28 U.S.C. §§1651 and 2255; United States v. Morgan, 346 U.S. 502 (1954), on coram nobis; Jackson v. Virginia, 443 U.S. 307 (1979); United States v. Wilson, 420 U.S. 332 (1975). An extraordinary writ is not a substitute for ordinary available remedies or a means to nullify governing procedural rules. A postverdict government appeal requiring no retrial is not barred by Double Jeopardy.
+28 U.S.C. §§1651 and 2255; United States v. Morgan, 346 U.S. 502 (1954), on coram nobis; Jackson v. Virginia, 443 U.S. 307 (1979); United States v. Wilson, 420 U.S. 332 (1975). An extraordinary writ is not a substitute for ordinary available remedies. A postverdict government appeal requiring no retrial is not barred by Double Jeopardy.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 
@@ -393,19 +390,17 @@ Federal Rules of Criminal Procedure 29(a)–(c), 45(b), 2, and 57 in the applica
 * **Petitioner or Applicant’s Position:** Without power to grant acquittal, a court may knowingly sentence an innocent person and force unnecessary collateral proceedings.
 * **Respondent or Competing Position:** Appellate and otherwise authorized collateral channels remain; due process does not make this particular late motion available without limit.
 
-* **Alternative or Unreached Grounds and Limits:** The Government’s appeal seeks reinstatement of an existing guilty verdict, not a second trial, so the ordinary Double Jeopardy prohibition does not bar that review. Rules 29 and 45 delimit the district court’s authority on the disputed motion; this need not be described as absence of all Article III criminal jurisdiction.
+* **Alternative or Unreached Grounds and Limits:** The Government’s appeal seeks reinstatement of an existing guilty verdict, not a second trial, so the ordinary Double Jeopardy prohibition does not bar that review. Rules 29 and 45 delimit the district court’s Rule-based authority on the disputed motion; this need not be described as absence of all Article III criminal jurisdiction.
 * **Federal Participation:** The federal party’s position is identified above where applicable. No separate Solicitor General or amicus contention is invented beyond the cited record.
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-* **Lawful Paths and Consequences:** A timely motion or authorized reservation could support acquittal. The absence of both and the preserved timeliness objection require reinstatement under the proposed rule; alternative channels retain their own prerequisites.
+* **Lawful Paths and Consequences:** A timely motion or authorized reservation could support acquittal. Absent both, and over the preserved timeliness objection, the Court must decide whether another Rule-based route, inherent power, coram nobis or due process nonetheless supports the acquittal or the verdict is reinstated; alternative channels retain their own prerequisites.
 * **Material Uncertainty:** Questions are source-grounded paraphrases rather than represented as verbatim petition text. Facts not established by the cited record remain unproved. No completed earlier OT1995 Court decision beyond the uploaded baseline has been supplied for incorporation; revalidation is required before adjudication.
 
 #### E. SOURCES
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
-
-* **P1:** [Published Supreme Court opinion, 517 U.S. 416; actual filing dates, objection, Rules, and alternative authority](https://supreme.justia.com/cases/federal/us/517/416/).
 
 #### Law entering this event
 
@@ -517,7 +512,7 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 Gary Sheets gave investigators his murdered wife's diary after assurances of confidentiality. The diary described intimate matters concerning Gary himself, including the marriage and personal finances. After investigative use, investigator Michael George made information available to a private author, producing public disclosure in a book. The county's described access practice and the official's participation formed the record. A jury awarded compensatory damages. Sheets asserts his own privacy injury, not a freestanding right to litigate his wife's posthumous privacy.
 
-Assigned §1254(1) review in a §1983 damages action after trial. The controlled issue concerns the confidentiality right and its application to the entrusted information. Do not reopen every municipal-policy, fee or damages issue or infer that the constitutional question alone resolves personal immunity. Any preserved immunity defense uses law existing at disclosure. The historical Supreme Court petition is distinct from the newly authorized simulated merits event.
+Assigned §1254(1) review in a §1983 damages action after trial. The controlled issue concerns the confidentiality right and its application to the entrusted information. Do not reopen every municipal-policy, fee or damages issue or infer that the constitutional question alone resolves personal immunity. Any preserved immunity defense uses law existing at disclosure.
 
 #### Entering simulated law and application boundaries
 
@@ -531,7 +526,7 @@ The [matter-specific public-law extracts](inherited/readings/OT1995-109.md) pres
 
 #### Effective-date and record checks
 
-An actually completed Hodge decision may distinguish accurate confidential retention from public dissemination. Do not treat the prepared Hodge position as binding.
+Recheck any actually completed Hodge decision for its exact scope. Do not treat the prepared Hodge position as binding.
 
 The assigned question and existing record support merits preparation. Ordinary preservation, jurisdiction, record and remedy limitations described above remain operative; no additional fact or grant is assumed.
 
@@ -589,7 +584,6 @@ The Tenth Circuit sustained the privacy determination and the compensatory judgm
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 456](https://supreme.justia.com/cases/federal/us/517/456/)
 
 #### Enacted and supporting authorities
 
@@ -607,7 +601,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
-**Application of the entering law:** Kimberlin rejects a categorical direct-evidence demand but preserves underlying elements and lawful discovery limits. A prosecuted-only sample does not by itself identify the similarly situated comparison population.
+**Application of the entering law:** Kimberlin rejects a categorical direct-evidence demand but preserves underlying elements and lawful discovery limits. Whether the defendants' showing identifies a similarly situated comparison population is contested.
 
 **United States v. Williams**
 
@@ -681,10 +675,10 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 - **Entry Stage / Event Type:** Granted merits review; decision pending in this simulation.
 - **Question Presented:** Whether Rhode Island may prohibit truthful advertising of retail liquor prices in order to promote temperance.
 - **Question Granted:** The stated question describes the submitted review scope; no additional question or plenary grant is inferred beyond the identified procedural stage.
-- **Legal Area:** Speech — commercial advertising and paternalistic suppression
+- **Legal Area:** Speech — commercial advertising and price-advertising restrictions
 - **Court and Judgment Under Review:** The First Circuit upheld Rhode Island’s price-advertising ban.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
-- **Material Facts and Record:** Rhode Island prohibited retailers and media from publishing truthful liquor prices, with narrow exceptions. The State claimed that suppressing price competition would increase prices and reduce consumption but produced weak evidence connecting the advertising ban to temperance.
+- **Material Facts and Record:** Rhode Island prohibited retailers and media from publishing truthful liquor prices, with narrow exceptions. The State claimed that suppressing price competition would increase prices and reduce consumption; the strength of its evidence connecting the advertising ban to temperance is disputed.
 - **Preservation / Threshold / Vehicle Issues:** None identified beyond ordinary preservation, finality, and remedy questions.
 - **Relevant Dates:** Argument November 1, 1995; decision May 13, 1996.
 - **Companion or Consolidated Matters:** None.
@@ -693,7 +687,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 484](https://supreme.justia.com/cases/federal/us/517/484/)
 
 #### Enacted and supporting authorities
 
@@ -797,7 +790,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 - **Citation / Docket:** 517 U.S. 535; No. 95-323
 - **October Term:** 1995
 - **Entry Stage / Event Type:** Granted merits review; decision pending in this simulation.
-- **Question Presented:** Whether a bankruptcy court may categorically subordinate all tax-penalty claims solely because they are penalties, despite Congress’s statutory priority scheme.
+- **Question Presented:** Whether a bankruptcy court may categorically subordinate all tax-penalty claims solely because they are penalties, given Congress’s statutory priority scheme.
 - **Question Granted:** The stated question describes the submitted review scope; no additional question or plenary grant is inferred beyond the identified procedural stage.
 - **Legal Area:** Bankruptcy — equitable subordination and tax penalties
 - **Court and Judgment Under Review:** The Sixth Circuit approved categorical subordination of the Government’s tax-penalty claim.
@@ -811,7 +804,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 535](https://supreme.justia.com/cases/federal/us/517/535/)
 
 #### Enacted and supporting authorities
 
@@ -883,7 +875,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 - **Citation / Docket:** 517 U.S. 544; No. 95-340
 - **October Term:** 1995
 - **Entry Stage / Event Type:** Granted merits review; decision pending in this simulation.
-- **Question Presented:** Whether Congress may authorize an association to seek damages on behalf of members despite the prudential third prong of the Hunt representational-standing test.
+- **Question Presented:** Whether Congress may authorize an association to seek damages on behalf of members despite the third prong of the Hunt representational-standing test, and whether that prong is constitutional or prudential.
 - **Question Granted:** The stated question describes the submitted review scope; no additional question or plenary grant is inferred beyond the identified procedural stage.
 - **Legal Area:** Federal courts — associational standing and statutory authorization
 - **Court and Judgment Under Review:** The Eighth Circuit barred the union’s WARN Act damages claim because individual participation would be required.
@@ -897,7 +889,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 544](https://supreme.justia.com/cases/federal/us/517/544/)
 
 #### Enacted and supporting authorities
 
@@ -1020,8 +1011,8 @@ Distinct section 11 civil and criminal channels retain their own conditions, inc
 - **Legal Area:** Procedural due process — punitive-damages excessiveness
 - **Court and Judgment Under Review:** The Supreme Court of Alabama reduced a $4 million punitive award to $2 million but otherwise sustained it.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
-- **Material Facts and Record:** BMW sold Gore a new car that had been repainted after minor damage and did not disclose repairs costing less than its nationwide disclosure threshold. Compensatory damages were $4,000. The punitive award was calculated in part from out-of-state sales lawful where made.
-- **Preservation / Threshold / Vehicle Issues:** The Court should review the constitutional outer boundary, not set the proper award or impose a universal ratio. State-law remittitur remains for remand.
+- **Material Facts and Record:** BMW sold Gore a new car that had been repainted after minor damage and did not disclose repairs costing less than its nationwide disclosure threshold. Compensatory damages were $4,000. The punitive award was calculated in part from out-of-state sales; whether those sales were lawful where made is disputed.
+- **Preservation / Threshold / Vehicle Issues:** Review concerns the constitutional outer boundary of this award.
 - **Relevant Dates:** Argument October 11, 1995; decision May 20, 1996.
 - **Companion or Consolidated Matters:** None.
 - **Known Participation Issue:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
@@ -1029,7 +1020,6 @@ Distinct section 11 civil and criminal channels retain their own conditions, inc
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 559](https://supreme.justia.com/cases/federal/us/517/559/)
 
 #### Enacted and supporting authorities
 
@@ -1113,9 +1103,9 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 - **Citation / Docket:** 517 U.S. 620; No. 94-1039
 - **October Term:** 1995
 - **Entry Stage / Event Type:** Granted merits review; decision pending in this simulation.
-- **Question Presented:** Whether Colorado Amendment 2 violates Equal Protection by broadly disabling gay, lesbian, and bisexual persons from obtaining ordinary antidiscrimination protection through state or local law.
+- **Question Presented:** Whether Colorado Amendment 2 violates Equal Protection by disabling gay, lesbian, and bisexual persons from obtaining antidiscrimination protection through state or local law.
 - **Question Granted:** The stated question describes the submitted review scope; no additional question or plenary grant is inferred beyond the identified procedural stage.
-- **Legal Area:** Equal protection — status-based political disability and animus
+- **Legal Area:** Equal protection — state constitutional restriction of antidiscrimination protection
 - **Court and Judgment Under Review:** The Supreme Court of Colorado invalidated Amendment 2.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
 - **Material Facts and Record:** Amendment 2 prohibited every state and local governmental unit from treating homosexual, lesbian, or bisexual orientation, conduct, practices, or relationships as a basis for protected status or discrimination claims. It withdrew existing protections and foreclosed ordinary future political efforts across housing, employment, education, and public accommodations.
@@ -1127,7 +1117,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 620](https://supreme.justia.com/cases/federal/us/517/620/)
 
 #### Enacted and supporting authorities
 
@@ -1145,7 +1134,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
-**Application of the entering law:** Hurley does not make ordinary-service discrimination or a sweeping withdrawal of legal protection a private-expression right. Apply the existing equal-protection source to the actual amendment.
+**Application of the entering law:** Hurley does not make ordinary-service discrimination or a withdrawal of legal protection a private-expression right. Apply the existing equal-protection source to the actual amendment.
 
 **FCC v. Beach**
 

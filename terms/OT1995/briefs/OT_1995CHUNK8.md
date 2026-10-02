@@ -30,7 +30,6 @@ Preparation only. 12 matters in chronological order. The index supplies the open
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 843](https://supreme.justia.com/cases/federal/us/517/843/)
 
 #### Enacted and supporting authorities
 
@@ -108,7 +107,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 882](https://supreme.justia.com/cases/federal/us/517/882/)
 
 #### Enacted and supporting authorities
 
@@ -279,12 +277,11 @@ The Seventh Circuit treated the thermal examination as outside the Fourth Amendm
 - **Case Name:** Bush v. Vera; Lawson v. Vera; United States v. Vera.
 - **Dockets:** Nos. 94-805, 94-806, 94-988, preserved together as the established inventory entry.
 - **Event:** June 13, 1996; expressly reconstructed standing-focused merits review under the controlling calendar.
-- **Question scope:** The user-supplied reconstructed question asks whether voters alleging no dilution, exclusion, discriminatory electoral treatment or other concrete personal inequality have Article III standing solely because the legislature consciously used race in constructing their districts. This is the proposed simulation premise, not an authenticated description of every historical plaintiff. The precise claimant allegations and operative reconstructed judgment still determine the decree. The historical racial-predominance merits question is not included by default.
-- **Historical record available for limited factual reference:** The six historical plaintiffs were Chen (District 25), Blum and Powers (18), Thomas and Vera (29), and Orcutt (30). The report describes no specific personal-classification allegations for Chen and personal-assignment challenges by the other five. Those facts identify the litigants; the historical Supreme Court’s standing rule and disposition are not entering simulated law. The three appeals concern the lower court’s treatment of Districts 18, 29 and 30. The operative allegations and judgment in the standing-focused reconstruction must still correspond to the supplied question. Do not narrow the parties to Chen or change the questions to avoid the existing-law issue. [Factual source, 517 U.S. 952, 957–958](https://supreme.justia.com/cases/federal/us/517/952/).
+- **Question scope:** The sim-granted reconstructed question asks whether voters alleging no dilution, exclusion, discriminatory electoral treatment or other concrete personal inequality have Article III standing solely because the legislature consciously used race in constructing their districts. This is the simulation premise, not an authenticated description of every historical plaintiff. The precise claimant allegations and operative reconstructed judgment still determine the decree. The historical racial-predominance merits question is not included by default.
+- **Historical record available for limited factual reference:** The six historical plaintiffs were Chen (District 25), Blum and Powers (18), Thomas and Vera (29), and Orcutt (30). The record describes no specific personal-classification allegations for Chen and personal-assignment challenges by the other five. Those facts identify the litigants; the historical Supreme Court’s standing rule and disposition are not entering simulated law. The three appeals concern the lower court’s treatment of Districts 18, 29 and 30. The operative allegations and judgment in the standing-focused reconstruction must still correspond to the supplied question. Do not narrow the parties to Chen or change the questions to avoid the existing-law issue.
 - **Threshold and preservation:** Identify each claimant’s own concrete injury, causation, redressability, standing for the relief sought, preserved claim, and direct-appeal or other review authority established by the reconstruction. Keep Article III standing separate from whether the asserted claim states a substantive equal-protection deprivation under simulated Shaw.
-- **Lawful paths and consequences:** A standing disposition cannot adjudicate unpresented racial-predominance merits. Jurisdictional dismissal, limited remand for a necessary record, or further review must rest on the actual reconstructed posture; none is selected here.
-- **Participation:** The OT1995 roster applies; no case-specific nonparticipation is identified in the historical report. No new recusal or vote is inferred.
-- **Record source:** The historical report at 517 U.S. 952 supplies factual provenance only in this section; its outcome and same-matter reasoning appear in Section III.
+- **Lawful paths and consequences:** A standing disposition cannot adjudicate unpresented racial-predominance merits. Jurisdictional dismissal, recognition of standing, limited remand for a necessary record, or further review must rest on the actual reconstructed posture; none is selected here.
+- **Participation:** The OT1995 roster applies; no case-specific nonparticipation is established. No new recusal or vote is inferred.
 
 #### Law entering this event
 
@@ -298,7 +295,7 @@ The Seventh Circuit treated the thermal examination as outside the Fourth Amendm
 
 **Application of the entering law:** Actual Miller unanimously recognizes standing on the personal unequal-assignment allegations presented there; its five-Justice rejection of a design-only merits theory is separate. A failed merits claim does not automatically eliminate standing.
 
-**Matter-specific uncertainty:** The user supplies a standing-focused question framed by the absence of dilution, exclusion, discriminatory electoral treatment or other concrete personal inequality. Historical claimant names and districts are now identified, but their operative allegations and the reconstructed lower judgment remain to be reconciled for the decree. Actual Miller governs unless changed by a new validated decision. Preserve all six historical plaintiffs for record comparison and all three companions; do not substitute a Chen-only case or automatically adopt the historical merits judgment.
+**Matter-specific uncertainty:** The sim-granted question is standing-focused and framed by the absence of dilution, exclusion, discriminatory electoral treatment or other concrete personal inequality. Historical claimant names and districts are now identified, but their operative allegations and the reconstructed lower judgment remain to be reconciled for the decree. Actual Miller governs unless changed by a new validated decision. Preserve all six historical plaintiffs for record comparison and all three companions; do not substitute a Chen-only case or automatically adopt the historical merits judgment.
 
 **Shaw v. Reno**
 
@@ -501,11 +498,10 @@ The prior access to a judicial forum carries weight under Stone’s precedent pr
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 518 U.S. 1](https://supreme.justia.com/cases/federal/us/518/1/)
 
 #### Enacted and supporting authorities
 
-Fed. R. Evid. 501; *Trammel v. United States*, 445 U.S. 40; the widespread state privilege consensus and the treatment function of licensed psychotherapy.
+Fed. R. Evid. 501; *Trammel v. United States*, 445 U.S. 40; state psychotherapist-privilege law.
 
 Post-divergence Supreme Court citations in this list refer only to actual simulated rules identified below, not to the historical result. Proposed applications in Section II remain separate.
 
@@ -589,8 +585,8 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 - **Legal Area:** Criminal procedure — offense definition, mens rea, and defense evidence
 - **Court and Judgment Under Review:** The Supreme Court of Montana reversed Egelhoff’s homicide convictions, holding that the statutory exclusion violated due process by preventing consideration of relevant mens rea evidence.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
-- **Material Facts and Record:** Egelhoff was heavily intoxicated when two people were killed in a vehicle. Montana law directed the factfinder not to consider voluntary intoxication in deciding the existence of a mental state that is an element. The dispute is whether that rule defines substantive culpability or leaves the element unchanged while barring the defendant’s only meaningful rebuttal.
-- **Preservation / Threshold / Vehicle Issues:** The Court must distinguish a State’s authority to define crimes from an evidentiary rule that relieves the prosecution of proving a retained element.
+- **Material Facts and Record:** Egelhoff was heavily intoxicated when two people were killed in a vehicle. Montana law directed the factfinder not to consider voluntary intoxication in deciding the existence of a mental state that is an element. The dispute is whether that rule defines substantive culpability or leaves the element unchanged while barring evidence offered to rebut it.
+- **Preservation / Threshold / Vehicle Issues:** Whether the exclusion reflects a State’s authority to define crimes or is an evidentiary rule excluding proof bearing on a retained element is contested.
 - **Relevant Dates:** Argument March 20, 1996; decision June 13, 1996.
 - **Companion or Consolidated Matters:** None.
 - **Known Participation Issue:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
@@ -598,7 +594,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 518 U.S. 37](https://supreme.justia.com/cases/federal/us/518/37/)
 
 #### Enacted and supporting authorities
 
@@ -616,7 +611,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
-**Application of the entering law:** Gaudin governs jury decision of enacted elements, not a universal legislative duty to retain subjective mens rea. Distinguish an actual substantive offense definition from exclusion of proof of a retained element.
+**Application of the entering law:** Gaudin governs jury decision of enacted elements, not a universal legislative duty to retain subjective mens rea. Whether the rule is an actual substantive offense definition or an exclusion of proof of a retained element is contested.
 
 **Victor v. Nebraska**
 
@@ -725,7 +720,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 518 U.S. 81](https://supreme.justia.com/cases/federal/us/518/81/)
 
 #### Enacted and supporting authorities
 
@@ -743,7 +737,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
-**Application of the entering law:** Williams requires the sentence defender's showing that the same sentence and independently reasonable extent survive removal of invalid factors. Deferential review does not cure legal error.
+**Application of the entering law:** Williams requires the sentence defender's showing that the same sentence and independently reasonable extent survive removal of invalid factors.
 
 **Williams v. United States**
 
@@ -816,7 +810,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 #### Record and posture
 
-Chapter 669 required blood from specified convicted murderers and sexual offenders, including persons convicted before enactment, to create a DNA identification databank. The law included health and adequate-existing-sample protections and restricted uses, including analysis for genetic predispositions. The bodily draw, identification profile and retention of biological material must be distinguished. Milligan's attempted-murder and weapons convictions were not listed predicates. He refused the erroneous collection orders and received discipline, but did not raise noncoverage at the disciplinary hearings. The surviving appeal against Knox and Pearce lacked evidence that either personally caused the mistaken demand; other dismissals were not appealed.
+Chapter 669 required blood from specified convicted murderers and sexual offenders, including persons convicted before enactment, to create a DNA identification databank. The law included health and adequate-existing-sample protections and restricted uses, including analysis for genetic predispositions. The bodily draw, identification profile and retention of biological material must be distinguished. Milligan's attempted-murder and weapons convictions were not listed predicates. He refused the erroneous collection orders and received discipline, but did not raise noncoverage at the disciplinary hearings. The surviving appeal against Knox and Pearce turns on whether the record shows that either personally caused the mistaken demand; other dismissals were not appealed.
 
 Assigned §1254(1) review of summary judgment in the §1983 action. The general search and retroactivity questions differ from each plaintiff's procedural claim and individual-defendant causation. A compelled blood draw is a search. Do not assume that all genetic analysis is authorized, that the record proves secondary misuse, or that supervisory titles establish §1983 responsibility. The primary opinion authenticates No. 93-35521 and July 18, 1995, correcting the archived docket/date.
 
@@ -882,17 +876,17 @@ The Ninth Circuit affirmed the program and the individual judgments; Judge D. W.
 * **Simulated Event Date:** 1996-06-17; Historical Supreme Court event.
 * **Question Presented:** Whether a Government motion for departure below the Guidelines range under §5K1.1 also authorizes a sentence below a statutory minimum under §3553(e). Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Question Granted / Submitted Scope:** The issue or issues stated above are reconstructed from the published case record. No additional question is assumed granted. A summary-review event does not imply a prior plenary grant.
-* **Court and Judgment Under Review:** Third Circuit affirmed the sentence at the statutory minimum because the Government requested a Guidelines departure but did not request or authorize departure below the statutory floor. [P1, 123–125]
+* **Court and Judgment Under Review:** Third Circuit affirmed the sentence at the statutory minimum because the Government requested a Guidelines departure but did not request or authorize departure below the statutory floor.
 * **Relief Requested:** Melendez seeks resentencing with authority to impose less than the statutory minimum; the United States defends the distinct statutory-motion requirement.
-* **Material Record:** Melendez’s cocaine conspiracy carried a ten-year statutory minimum; the calculated Guidelines range began above that floor. The Government moved under §5K1.1 based on assistance but did not request a sentence below the statute. The district court imposed the statutory minimum. A plea-agreement ambiguity theory first presented in reply is outside the granted question. [P1, 123–126 and note concerning the agreement]
-* **Threshold, Preservation, and Vehicle Matters:** An authorized Guidelines departure does not necessarily remove a statutory floor. The Government’s request is assessed in substance, not by requiring two documents or a magic citation. Review of an unconstitutional refusal to move under Wade is distinct and is not established merely by the value of assistance.
+* **Material Record:** Melendez’s cocaine conspiracy carried a ten-year statutory minimum; the calculated Guidelines range began above that floor. The Government moved under §5K1.1 based on assistance but did not request a sentence below the statute. The district court imposed the statutory minimum. A plea-agreement ambiguity theory first presented in reply is outside the granted question.
+* **Threshold, Preservation, and Vehicle Matters:** Whether an authorized Guidelines departure removes a statutory floor, and whether the Government’s request must take any particular form, remain for the Court. Review of an unconstitutional refusal to move under Wade is distinct and is not established merely by the value of assistance.
 * **Relevant Dates:** Argument: February 27, 1996. Event: June 17, 1996, historical date. The Guidelines are applied as they operated at this event, not under a later advisory system.
 * **Companion or Related Matters:** No additional consolidated or companion matter material to this brief is identified in the cited sources.
 * **Participation Matter:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
 
 #### Enacted and surviving authorities
 
-18 U.S.C. §3553(e); 28 U.S.C. §994(n); U.S.S.G. §5K1.1; Wade v. United States, 504 U.S. 181 (1992). Section 3553(e) conditions authority below a statutory minimum on a Government motion for that authority. A challenge to refusal requires Wade’s own constitutional showing, not simply evidence of substantial assistance.
+18 U.S.C. §3553(e); 28 U.S.C. §994(n); U.S.S.G. §5K1.1; Wade v. United States, 504 U.S. 181 (1992). Section 3553(e) conditions authority below a statutory minimum on a Government motion. A challenge to refusal requires Wade’s own constitutional showing, not simply evidence of substantial assistance.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 
@@ -902,19 +896,17 @@ The Ninth Circuit affirmed the program and the individual judgments; Judge D. W.
 * **Petitioner or Applicant’s Position:** The assistance motion should activate a unified departure authority, leaving the judge to choose the appropriate sentence.
 * **Respondent or Competing Position:** Congress conditioned statutory-minimum relief on a particular governmental request; the Commission could not erase that condition by authorizing a Guidelines departure.
 
-* **Alternative or Unreached Grounds and Limits:** An authorized Guidelines departure does not necessarily remove a statutory floor. The Government’s request is assessed in substance, not by requiring two documents or a magic citation. Review of an unconstitutional refusal to move under Wade is distinct and is not established merely by the value of assistance.
+* **Alternative or Unreached Grounds and Limits:** Whether an authorized Guidelines departure removes a statutory floor, and whether the Government’s request must take any particular form, remain for the Court. Review of an unconstitutional refusal to move under Wade is distinct and is not established merely by the value of assistance.
 * **Federal Participation:** The federal party’s position is identified above where applicable. No separate Solicitor General or amicus contention is invented beyond the cited record.
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-* **Lawful Paths and Consequences:** A substantive Government request for statutory relief permits the judge to consider it. A Guidelines-only request leaves the statutory floor in place. A properly presented unconstitutional-refusal claim would require a separate Wade analysis.
+* **Lawful Paths and Consequences:** A Government request for statutory relief permits the judge to consider it. If a Guidelines-only request also suffices, resentencing with authority below the floor follows; if not, the statutory floor remains in place. A properly presented unconstitutional-refusal claim would require a separate Wade analysis.
 * **Material Uncertainty:** Questions are source-grounded paraphrases rather than represented as verbatim petition text. Facts not established by the cited record remain unproved. No completed earlier OT1995 Court decision beyond the uploaded baseline has been supplied for incorporation; revalidation is required before adjudication.
 
 #### E. SOURCES
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
-
-* **P1:** [Published Supreme Court opinion, 518 U.S. 120; motion wording, statutory floor, and question scope](https://supreme.justia.com/cases/federal/us/518/120/).
 
 #### Law entering this event
 
@@ -1010,13 +1002,13 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 - **Citation / Docket:** 518 U.S. 137; No. 95-1242
 - **October Term:** 1995
 - **Entry Stage / Event Type:** Certiorari petition before the Court with possible summary merits disposition; no prior plenary grant inferred.
-- **Question Presented:** Whether a judgment broadly invalidating Utah abortion provisions should be vacated and remanded for provision-specific review and severability after intervening controlling law.
+- **Question Presented:** Whether a judgment broadly invalidating Utah abortion provisions should stand, in whole or in part, under provision-specific review and severability after intervening controlling law.
 - **Question Granted:** The stated question describes the submitted review scope; no additional question or plenary grant is inferred beyond the identified procedural stage.
 - **Legal Area:** Personal liberty and remedies — abortion regulation and severability
 - **Court and Judgment Under Review:** The Tenth Circuit invalidated multiple Utah abortion provisions and addressed severability in a broad disposition.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
-- **Material Facts and Record:** Utah enacted a multi-provision abortion statute addressing definitions, prohibitions, penalties, medical emergencies, and related procedures. The litigation and intervening precedents left uncertainty about which provisions remained contested, which applications were valid, and what state law required if particular provisions failed.
-- **Preservation / Threshold / Vehicle Issues:** The Court should not decide moot, unchallenged, or severable provisions and should not assume that one defect invalidates the whole statute.
+- **Material Facts and Record:** Utah enacted a multi-provision abortion statute addressing definitions, prohibitions, penalties, medical emergencies, and related procedures. The litigation and intervening precedents raise questions about which provisions remained contested, which applications were valid, and what state law required if particular provisions failed.
+- **Preservation / Threshold / Vehicle Issues:** Which provisions are moot, unchallenged, or severable, and whether one defect invalidates the whole statute, must be determined rather than assumed.
 - **Relevant Dates:** Decision June 17, 1996.
 - **Companion or Consolidated Matters:** None.
 - **Known Participation Issue:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
@@ -1024,7 +1016,6 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 518 U.S. 137](https://supreme.justia.com/cases/federal/us/518/137/)
 
 #### Enacted and supporting authorities
 
@@ -1157,11 +1148,11 @@ Section 14-02.1-03(1)'s emergency exception excuses that subsection's ordinary r
 * **Simulated Event Date:** 1996-06-17; Historical Supreme Court event.
 * **Question Presented:** Whether the State’s compliance with an unstayed conditional habeas order by setting a new trial moots its pending appeal when reversal could still relieve it of the obligation to retry. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Question Granted / Submitted Scope:** The issue or issues stated above are reconstructed from the published case record. No additional question is assumed granted. A summary-review event does not imply a prior plenary grant.
-* **Court and Judgment Under Review:** Ninth Circuit dismissed the warden’s appeal as moot after California granted Moore a new trial. The district court had granted conditional habeas relief on a Faretta self-representation claim. [P1, 149–150]
+* **Court and Judgment Under Review:** Ninth Circuit dismissed the warden’s appeal as moot after California granted Moore a new trial. The district court had granted conditional habeas relief on a Faretta self-representation claim.
 * **Relief Requested:** The warden seeks reversal of the mootness dismissal and appellate consideration of the habeas judgment; Moore defends dismissal.
-* **Material Record:** The district court ordered release after sixty days unless the State granted a new trial. The State appealed and unsuccessfully sought stays from the district court, Ninth Circuit, and the historical Circuit Justice. It then set Moore for retrial while continuing its appeal. The new trial had not begun when the mootness question reached this Court. [P1, 149–151]
-* **Threshold, Preservation, and Vehicle Matters:** The Court reviews a final appellate mootness dismissal, not the underlying self-representation merits. Compliance with an unstayed order is not necessarily abandonment of an appeal. The still-unbegun retrial makes meaningful relief possible; no judicial finding that the original conviction was constitutionally valid follows.
-* **Relevant Dates:** Event: June 17, 1996, historical summary-decision date. The reported prior appellate stay ruling is 56 F.3d 39 (1995). No separate plenary argument date is stated. AEDPA was enacted April 24, 1996; any applicability question concerning later merits proceedings is distinct from this mootness issue.
+* **Material Record:** The district court ordered release after sixty days unless the State granted a new trial. The State appealed and unsuccessfully sought stays from the district court, Ninth Circuit, and the historical Circuit Justice. It then set Moore for retrial while continuing its appeal. The new trial had not begun when the mootness question reached this Court.
+* **Threshold, Preservation, and Vehicle Matters:** The Court reviews a final appellate mootness dismissal, not the underlying self-representation merits. Compliance with an unstayed order is not necessarily abandonment of an appeal. Whether the still-unbegun retrial makes meaningful relief possible is contested; a mootness ruling makes no judicial finding that the original conviction was constitutionally valid.
+* **Relevant Dates:** Event: June 17, 1996, historical date. The reported prior appellate stay ruling is 56 F.3d 39 (1995). No separate plenary argument date is stated. AEDPA was enacted April 24, 1996; any applicability question concerning later merits proceedings is distinct from this mootness issue.
 * **Companion or Related Matters:** No additional consolidated or companion matter material to this brief is identified in the cited sources.
 * **Participation Matter:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
 
@@ -1177,18 +1168,16 @@ Article III, §2; 28 U.S.C. §1254(1); Mills v. Green, 159 U.S. 651 (1895); Chur
 * **Petitioner or Applicant’s Position:** Reversal of the habeas order could still prevent an otherwise required retrial; compliance after stays were denied should not extinguish appellate review.
 * **Respondent or Competing Position:** The State has already granted the new trial required by the conditional judgment, so the condition has been satisfied and the appealed obligation is spent.
 
-* **Alternative or Unreached Grounds and Limits:** The Court reviews a final appellate mootness dismissal, not the underlying self-representation merits. Compliance with an unstayed order is not necessarily abandonment of an appeal. The still-unbegun retrial makes meaningful relief possible; no judicial finding that the original conviction was constitutionally valid follows.
+* **Alternative or Unreached Grounds and Limits:** The Court reviews a final appellate mootness dismissal, not the underlying self-representation merits. Compliance with an unstayed order is not necessarily abandonment of an appeal. Whether the still-unbegun retrial makes meaningful relief possible is contested; a mootness ruling makes no judicial finding that the original conviction was constitutionally valid.
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-* **Lawful Paths and Consequences:** If an appellate judgment can eliminate the unperformed retrial obligation, the appeal remains live. If later events eliminate every effective remedy, mootness must be reassessed on those events. A live appeal still requires separate adjudication of its habeas grounds.
+* **Lawful Paths and Consequences:** If an appellate judgment can eliminate the unperformed retrial obligation, the appeal remains live. If the grant of a new trial has already spent the appealed obligation, no effective relief remains and the dismissal stands. If later events eliminate every effective remedy, mootness must be reassessed on those events. A live appeal still requires separate adjudication of its habeas grounds.
 * **Material Uncertainty:** Questions are source-grounded paraphrases rather than represented as verbatim petition text. Facts not established by the cited record remain unproved. No completed earlier OT1995 Court decision beyond the uploaded baseline has been supplied for incorporation; revalidation is required before adjudication.
 
 #### E. SOURCES
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
-
-* **P1:** [Published Supreme Court record, 518 U.S. 149–151; conditional writ, failed stays, unbegun retrial, and mootness posture](https://supreme.justia.com/cases/federal/us/518/149/).
 
 #### Law entering this event
 
@@ -1304,7 +1293,6 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 518 U.S. 152](https://supreme.justia.com/cases/federal/us/518/152/)
 
 #### Enacted and supporting authorities
 
@@ -1322,7 +1310,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
-**Application of the entering law:** 1987 finality and claim-specific default remain independent of current Kyles materiality. Distinguish suppression, misleading assurances and an established meaningful opportunity to answer.
+**Application of the entering law:** 1987 finality and claim-specific default remain independent of current Kyles materiality. Distinguish suppression, misleading assurances and a claimed meaningful opportunity to answer.
 
 **Kyles**
 

@@ -21,7 +21,7 @@ Preparation only. 12 matters in chronological order. The index supplies the open
 - **Legal Area:** Criminal procedure — Brady materiality and federal habeas review
 - **Court and Judgment Under Review:** The Ninth Circuit affirmed habeas relief, reasoning that undisclosed polygraph results could have led defense counsel to discover admissible impeachment or other favorable evidence.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
-- **Material Facts and Record:** Bartholomew was convicted of aggravated murder. The prosecution did not disclose polygraph results concerning witnesses; Washington law made the results inadmissible, and the record did not identify admissible evidence that disclosure would probably have produced. The court of appeals nevertheless treated possible investigative leads as materially favorable.
+- **Material Facts and Record:** Bartholomew was convicted of aggravated murder. The prosecution did not disclose polygraph results concerning witnesses; Washington law made the results inadmissible; the record did not identify particular admissible evidence that disclosure would have produced, and whether disclosure would have led to such evidence is disputed. The court of appeals treated possible investigative leads as materially favorable.
 - **Preservation / Threshold / Vehicle Issues:** The question is limited to constitutional materiality. Deliberate suppression, professional responsibility, and any independently admissible impeachment evidence remain distinct.
 - **Relevant Dates:** Decision October 10, 1995.
 - **Companion or Consolidated Matters:** None.
@@ -30,7 +30,6 @@ Preparation only. 12 matters in chronological order. The index supplies the open
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 516 U.S. 1](https://supreme.justia.com/cases/federal/us/516/1/)
 
 #### Enacted and supporting authorities
 
@@ -48,7 +47,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
-**Application of the entering law:** Current Kyles requires cumulative assessment of concrete lawful investigative and preparation uses; inadmissibility alone is not dispositive.
+**Application of the entering law:** Current Kyles requires cumulative assessment of lawful uses in the defense’s preparation and presentation; whether inadmissibility is dispositive is open.
 
 **Kyles**
 
@@ -119,7 +118,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 A public-school teacher used his school relationship with a minor student to cultivate and sexually abuse her. Evidence against principal Eddy Lankford included repeated, specific warnings about the teacher's conduct and relationships with students, followed by allegedly inadequate responses. Superintendent Mike Caplinger's knowledge arose later and the described responses differed. These are individual claims: the principal's notice cannot simply be attributed to the superintendent. The teacher's direct conduct, school-district responsibility and the supervisors' personal liability are distinct. The appellate record supplies assumed facts, not final credibility findings.
 
-The assigned review concerns the legal sufficiency of the two supervisory immunity rulings. Section 1983 supplies the action; §1254(1) supplies the simulated Supreme Court review route. On interlocutory review the Court may decide immunity on properly assumed facts, but may not retry disputed evidence. No Title IX claim or later statutory supervisory rule is added. The requested relief preserves proceedings against one supervisor while allowing judgment for the other; denial of immunity does not establish ultimate damages liability.
+The assigned review concerns the legal sufficiency of the two supervisory immunity rulings. Section 1983 supplies the action; §1254(1) supplies the simulated Supreme Court review route. On interlocutory review the Court may decide immunity on properly assumed facts, but may not retry disputed evidence. No Title IX claim or later statutory supervisory rule is added. Denial of immunity does not establish ultimate damages liability.
 
 #### Entering simulated law and application boundaries
 
@@ -188,13 +187,13 @@ The Fifth Circuit en banc denied Lankford immunity and allowed Caplinger's immun
 
 An infant's injury prompted investigation before an infection explained it. The report was classified as ruled out/unsubstantiated under the relevant classification transition, rather than as an adjudication of abuse. The challenged information remained confidential. The supplied record establishes no removal of the child, public disclosure, denial of a benefit or comparable legal disability. The applicable retention period expired in January 1994; the plaintiffs did not contend that required expunction then failed. Damages and associated fees remained contested.
 
-This §1983 case reaches the Court through assigned §1254(1) review of individual immunity rulings. Prospective expunction/declaratory relief is moot on the supplied facts; that does not moot the damages dispute. The asserted Maryland procedural protections require separate examination for a substantive entitlement, and violations of state procedure alone are not necessarily federal deprivations. No unproved public blacklist, later dissemination or removal is substituted for the retained confidential record.
+This §1983 case reaches the Court through assigned §1254(1) review of individual immunity rulings. Whether prospective expunction/declaratory relief is moot on the supplied facts is a threshold question; mootness of that relief would not moot the damages dispute. The asserted Maryland procedural protections require separate examination for a substantive entitlement, and violations of state procedure alone are not necessarily federal deprivations. No unproved public blacklist, later dissemination or removal is substituted for the retained confidential record.
 
 #### Entering simulated law and application boundaries
 
 The coordinated Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, at commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward completed OT1991–OT1993 law. No completed OT1995 decision is supplied at this opening. Only an actual validated decision effective before this event may supplement that baseline. Preparation, historical outcomes and file order create no law.
 
-Elder governs the independent, conduct-date-specific immunity inquiry. Johnson v. Jones preserves the legal/factual interlocutory distinction. Whalen, Paul v. Davis, Roth and Olim remain relevant to confidentiality, a cognizable deprivation and state-created entitlements. Albright's fractured simulated judgment supplies no general rule requiring incarceration or a financial loss before every substantive-due-process claim. Family integrity does not itself prohibit a genuine child-protection investigation or require immediate destruction of every cleared report.
+Elder governs the independent, conduct-date-specific immunity inquiry. Johnson v. Jones preserves the legal/factual interlocutory distinction. Whalen, Paul v. Davis, Roth and Olim remain relevant to confidentiality, a cognizable deprivation and state-created entitlements. Albright's fractured simulated judgment supplies no general rule requiring incarceration or a financial loss before every substantive-due-process claim.
 
 **Relevant precedent in appellate qualified-immunity review.** Whether a federal right was clearly established when officials acted is reviewed independently using all relevant precedent, including cases neither cited to nor discovered by the district court. This does not admit a new claim or factual record, make each considered precedent controlling or permit later decisions to supply notice retrospectively. The notice inquiry stays fixed to the conduct date. Ordinary claim and evidence preservation, particularized objective immunity and proper summary-judgment treatment remain distinct; no mandatory merits-first sequence follows.
 
@@ -202,7 +201,7 @@ The [matter-specific public-law extracts](inherited/readings/OT1995-102.md) pres
 
 #### Effective-date and record checks
 
-If Doe v. Taylor has actually become effective, assess its individual supervisory-responsibility holding. Its prepared position alone has no effect; a school-abuse claim does not resolve confidential retention.
+If Doe v. Taylor has actually become effective, assess any relevant holding within its scope. Its prepared position alone has no effect; a school-abuse claim does not resolve confidential retention.
 
 The assigned question and existing record support merits preparation. Ordinary preservation, jurisdiction, record and remedy limitations described above remain operative; no additional fact or grant is assumed.
 
@@ -251,8 +250,8 @@ The Fourth Circuit rejected the asserted federal family/privacy injury, granted 
 - **Legal Area:** Capital sentencing — expert assistance, future dangerousness, and harmless error
 - **Court and Judgment Under Review:** The Fourth Circuit denied habeas relief after treating the Ake violation as harmless.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
-- **Material Facts and Record:** Virginia used expert psychiatric testimony to portray Tuggle as a future danger, an aggravating consideration supporting death. The State later conceded that denying defense psychiatric assistance violated *Ake v. Oklahoma*. The remaining issue was whether that error could be dismissed without considering how expert assistance would have affected rebuttal, mitigation, and the prosecution’s aggravating evidence.
-- **Preservation / Threshold / Vehicle Issues:** The underlying Ake violation was conceded. The remand must address prejudice on the complete capital record and need not decide a categorical structural-error rule.
+- **Material Facts and Record:** Virginia used expert psychiatric testimony to portray Tuggle as a future danger, an aggravating consideration supporting death. The State later conceded that denying defense psychiatric assistance violated *Ake v. Oklahoma*. The remaining issue was whether that error was harmless, and whether that inquiry must consider how expert assistance would have affected rebuttal, mitigation, and the prosecution’s aggravating evidence.
+- **Preservation / Threshold / Vehicle Issues:** The underlying Ake violation was conceded. Prejudice on the complete capital record remains disputed.
 - **Relevant Dates:** Decision October 30, 1995.
 - **Companion or Consolidated Matters:** None.
 - **Known Participation Issue:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
@@ -260,7 +259,6 @@ The Fourth Circuit rejected the asserted federal family/privacy injury, granted 
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 516 U.S. 10](https://supreme.justia.com/cases/federal/us/516/10/)
 
 #### Enacted and supporting authorities
 
@@ -278,7 +276,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
-**Application of the entering law:** O’Neal's preserved-error Chapman rule is bounded; a general extension to Ake errors is not already a holding. Assess the lost expert functions, not merely a surviving aggravator.
+**Application of the entering law:** O’Neal's preserved-error Chapman rule is bounded; a general extension to Ake errors is not already a holding. Whether a surviving aggravator suffices, or the lost expert functions must also be assessed, is open.
 
 **Brecht**
 
@@ -365,7 +363,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 - **Legal Area:** Bankruptcy — automatic stay and setoff
 - **Court and Judgment Under Review:** The Fourth Circuit held that the temporary hold was an impermissible exercise of setoff and awarded relief to the debtor.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
-- **Material Facts and Record:** Strumpf owed the bank on a defaulted loan and also maintained a deposit account. After bankruptcy, the bank temporarily refused withdrawal of an amount corresponding to the debt and promptly sought stay relief. It did not permanently debit the account or finally settle the mutual obligations before judicial authorization.
+- **Material Facts and Record:** Strumpf owed the bank on a defaulted loan and also maintained a deposit account. After bankruptcy, the bank temporarily refused withdrawal of an amount corresponding to the debt and promptly sought stay relief. It did not permanently debit the account before judicial authorization.
 - **Preservation / Threshold / Vehicle Issues:** None identified beyond ordinary preservation, finality, and remedy questions.
 - **Relevant Dates:** Argument October 3, 1995; decision October 31, 1995.
 - **Companion or Consolidated Matters:** None.
@@ -374,7 +372,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 516 U.S. 16](https://supreme.justia.com/cases/federal/us/516/16/)
 
 #### Enacted and supporting authorities
 
@@ -500,17 +497,17 @@ Section 157(d) withdrawal of reference is separate. The district court may withd
 * **Entry Stage and Event:** Original action; exceptions to the Special Master’s report submitted for decision.
 * **Simulated Event Date:** 1995-10-31; Historical Supreme Court event.
 * **Question Presented:** Whether Stack Island remained an identifiable Mississippi island through the river’s changes, so that the island exception preserves Mississippi jurisdiction over the disputed land, rather than treating it as a new accretion to Louisiana. Source-grounded formulation, not a claim to reproduce a petition verbatim.
-* **Court and Judgment Under Review:** No appellate judgment. Special Master Vincent L. McKusick recommends a boundary preserving Mississippi jurisdiction over Stack Island and its accretions; Louisiana excepts to the island-continuity finding. [P1, 24–29]
+* **Court and Judgment Under Review:** No appellate judgment. Special Master Vincent L. McKusick recommends a boundary preserving Mississippi jurisdiction over Stack Island and its accretions; Louisiana excepts to the island-continuity finding.
 * **Relief Requested:** Louisiana seeks rejection of the recommended boundary and recognition of its sovereignty over the disputed tract; Mississippi seeks adoption of the report.
-* **Material Record:** The controversy concerns approximately 2,000 acres near Stack Island. Louisiana contends the original island disappeared in the nineteenth century and the present land accumulated against its bank. The Master instead found continuous island identity, supported by maps, river reports, and affidavits describing residence and cultivation. Louisiana’s map evidence and its proposed definition of an island do not represent agreed findings. [P1, 24–29]
-* **Threshold, Preservation, and Vehicle Matters:** Article III original jurisdiction and 28 U.S.C. §1251(a) supply the interstate boundary channel. Louisiana did not except to the Master’s rejection, for lack of standing, of its separate request to cancel the Houston Group’s private title. That unexcepted component does not authorize a fresh adjudication of private ownership. [P1, 24, 29–30]
-* **Relevant Dates:** Argument: October 3, 1995. Event: October 31, 1995, historical opinion date. The separately listed December 4 decree is a later implementation event, not an earlier authority.
-* **Companion or Related Matters:** The December 4, 1995 decree at 516 U.S. 122 implements this same original action. It is separately listed by the user and receives its own event brief.
+* **Material Record:** The controversy concerns approximately 2,000 acres near Stack Island. Louisiana contends the original island disappeared in the nineteenth century and the present land accumulated against its bank. The Master instead found continuous island identity, relying on maps, river reports, and affidavits describing residence and cultivation. Louisiana’s map evidence and its proposed definition of an island do not represent agreed findings.
+* **Threshold, Preservation, and Vehicle Matters:** Article III original jurisdiction and 28 U.S.C. §1251(a) supply the interstate boundary channel. Louisiana did not except to the Master’s rejection, for lack of standing, of its separate request to cancel the Houston Group’s private title. That unexcepted component does not authorize a fresh adjudication of private ownership.
+* **Relevant Dates:** Argument: October 3, 1995. Event: October 31, 1995, historical opinion date.
+* **Companion or Related Matters:** A later event in this same original action is separately listed by the user and receives its own event brief.
 * **Participation Matter:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
 
 #### Enacted and surviving authorities
 
-Article III, §2; 28 U.S.C. §1251(a); Missouri v. Kentucky, 11 Wall. 395 (1871), and Indiana v. Kentucky, 136 U.S. 479 (1890), concerning island identity and river boundaries; Arkansas v. Tennessee, 397 U.S. 88 (1970), concerning river changes. The Court independently resolves exceptions to its Master’s report, giving the supported historical findings their appropriate weight. Gradual accretion and erosion differ from an avulsive change; the island exception prevents a channel shift around a continuously identifiable island from transferring sovereignty.
+Article III, §2; 28 U.S.C. §1251(a); Missouri v. Kentucky, 11 Wall. 395 (1871), and Indiana v. Kentucky, 136 U.S. 479 (1890), concerning island identity and river boundaries; Arkansas v. Tennessee, 397 U.S. 88 (1970), concerning river changes. The Court independently resolves exceptions to its Master’s report, giving the Master’s historical findings their appropriate weight. Gradual accretion and erosion differ from an avulsive change; the island exception prevents a channel shift around a continuously identifiable island from transferring sovereignty.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 
@@ -520,18 +517,16 @@ Article III, §2; 28 U.S.C. §1251(a); Missouri v. Kentucky, 11 Wall. 395 (1871)
 * **Petitioner or Applicant’s Position:** The 1883 mapping and subsequent channel configuration show disappearance or loss of the original island; sovereignty should follow the Louisiana bank’s new accretions.
 * **Respondent or Competing Position:** Contemporaneous cultivation, residence, river records, and maps establish continuity despite erosion and growth. A later change in the main channel does not transfer the island.
 
-* **Alternative or Unreached Grounds and Limits:** Article III original jurisdiction and 28 U.S.C. §1251(a) supply the interstate boundary channel. Louisiana did not except to the Master’s rejection, for lack of standing, of its separate request to cancel the Houston Group’s private title. That unexcepted component does not authorize a fresh adjudication of private ownership. [P1, 24, 29–30]
+* **Alternative or Unreached Grounds and Limits:** Article III original jurisdiction and 28 U.S.C. §1251(a) supply the interstate boundary channel. Louisiana did not except to the Master’s rejection, for lack of standing, of its separate request to cancel the Houston Group’s private title. That unexcepted component does not authorize a fresh adjudication of private ownership.
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
 * **Lawful Paths and Consequences:** Sustaining island continuity permits adoption of the report. A material unsupported finding would require further proceedings before the Master, not judicial invention of a replacement survey. Acceptance of Louisiana’s disappearance theory would require a different boundary analysis. The private-title claim remains outside the exceptions.
-* **Material Uncertainty:** The public opinion supports the continuity dispute and resolution path. This packet does not reproduce the Master’s full survey; the decree must use an authenticated boundary schedule.
+* **Material Uncertainty:** This packet does not reproduce the Master’s full survey; any decree must use an authenticated boundary schedule.
 
 #### E. SOURCES
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
-
-* **P1:** [Published Supreme Court opinion, 516 U.S. 22, record, exceptions, and inherited boundary authorities](https://supreme.justia.com/cases/federal/us/516/22/).
 
 #### Law entering this event
 
@@ -648,7 +643,7 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 - **Court and Judgment Under Review:** The Tenth Circuit affirmed the conviction and broad forfeiture order entered after Libretti’s guilty plea.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
 - **Material Facts and Record:** Libretti pleaded guilty to a continuing criminal enterprise and agreed to forfeit extensive assets. The court accepted the plea and determined forfeiture without a jury. Libretti later argued that forfeiture was an element and that the plea colloquy did not establish a sufficient factual basis for every item.
-- **Preservation / Threshold / Vehicle Issues:** The case concerns the then-governing forfeiture statute and Rule 31(e). It does not decide later constitutional jury rules or authorize forfeiture beyond statutory nexus and valid waiver.
+- **Preservation / Threshold / Vehicle Issues:** The case concerns the then-governing forfeiture statute and Rule 31(e). It does not decide later constitutional jury rules.
 - **Relevant Dates:** Argument October 3, 1995; decision November 7, 1995.
 - **Companion or Consolidated Matters:** None.
 - **Known Participation Issue:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
@@ -656,7 +651,6 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 516 U.S. 29](https://supreme.justia.com/cases/federal/us/516/29/)
 
 #### Enacted and supporting authorities
 
@@ -749,7 +743,7 @@ Consent does not enlarge the court’s statutory power to punish. Section 853 co
 * **Citation or Docket:** 47 F.3d 642; Supreme Court docket not supplied; Fourth Circuit appeal identified by 47 F.3d 642
 * **October Term:** 1995
 * **Legal Field:** Federal power; clinic access; speech and religious exercise
-* **Entry Stage and Event:** User-supplied simulated grant; reconstructed merits review of the facial challenge, not a new certiorari proceeding.
+* **Entry Stage and Event:** Sim-granted matter; reconstructed merits review of the facial challenge, not a new certiorari proceeding.
 * **Simulated Event Date:** 1995-11-13; Organizationally assigned.
 * **Question Presented:** Whether the Freedom of Access to Clinic Entrances Act exceeds Congress’s authority or violates freedom of expression, religious exercise, or RFRA in the applications challenged by these plaintiffs. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Question Granted:** The supplied simulation calendar designates merits review of the identified controversy. The exact text of a separate grant order is not supplied; the question above is the reconstructed scope, subject to any actual controlling limitation.
@@ -815,7 +809,7 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
-**Application of the entering law:** Apply Lopez/Harris to the actual interference with a services market and Swanner to the actual religious claim. Neither a complete six-route Commerce framework nor a categorical third-party-harm exception is Court law.
+**Application of the entering law:** Apply Lopez/Harris to the statute's regulated class and Swanner to the actual religious claim.
 
 **Matter-specific uncertainty:** Express simulated merits review remains established. Historical petition 94-1867 is now supplied by the current Standing State; no separate reconstructed grant text or simulated docket is invented.
 
@@ -977,7 +971,7 @@ Section 100.05(1)(g) requires written refund terms and conditions when a refund 
 
 **Event:** 1995-11-20 | **Category:** MERITS | **Action:** Expressly assigned simulated merits review
 
-**Citation:** 515 U.S. 1128 (1995) (historical certiorari order); 643 So. 2d 743 (La. 1994) (judgment under simulated review)
+**Citation:** 643 So. 2d 743 (La. 1994) (judgment under simulated review)
 
 **Docket(s):** No. 94-7810
 
@@ -986,8 +980,8 @@ Section 100.05(1)(g) requires written refund terms and conditions when a refund 
 #### Case, record, and posture
 
 - **Case and docket:** A. St. P. C. v. B. C., No. 94-7810. This is the existing inventory matter, now authenticated; no replacement case or docket is selected.
-- **Assigned event:** November 20, 1995, under the user-added simulated merits grant confirmed in the governing Standing State. Historical petition treatment remains solely in Section III and does not undo the express simulation assignment.
-- **Judgment under review:** State in the Interest of A.C., 643 So. 2d 743 (La. 1994), No. 93-CA-1125, on rehearing October 17, 1994. The Supreme Court's bound report at 515 U.S. 1128 expressly links that judgment to this caption and docket.
+- **Assigned event:** November 20, 1995, under the sim-granted merits review confirmed in the governing Standing State. Historical petition treatment remains solely in Section III.
+- **Judgment under review:** State in the Interest of A.C., 643 So. 2d 743 (La. 1994), No. 93-CA-1125, on rehearing October 17, 1994.
 - **Federal question:** Whether procedural due process permits the ordinary preponderance burden for the abuse finding triggering the contact restriction in La. Rev. Stat. 9:364(D), or requires clear and convincing proof. The rehearing ruling concerns the factfinding burden; no general review of every visitation safeguard is inferred.
 - **Material record:** The juvenile court found sexual abuse by a bare preponderance and allowed supervised visitation. The mother sought the statutory prohibition of contact until successful treatment and a best-interests determination, after which only supervised visitation would be available. The juvenile court refused that request on constitutional grounds. The Louisiana Supreme Court's rehearing ruling applied Mathews and Santosky to require clear and convincing proof for the statutory restriction. Review concerns that federal proof ruling, not a fresh determination that abuse occurred or a general review of all visitation safeguards.
 - **Relief and limits:** Review that federal proof-burden ruling. Do not decide whether abuse actually occurred, invent later custody orders, or require unrestricted contact. Additional remedies need an issue properly presented and an operative order supporting them.
@@ -1004,7 +998,7 @@ Section 100.05(1)(g) requires written refund terms and conditions when a refund 
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
-**Application of the entering law:** Surviving Mathews and Santosky supply the direct procedural-due-process framework. Simulated Foucha requires valid current grounds for psychiatric custody and preserves clear-and-convincing proof for ordinary civil commitment; simulated Heller invalidates the particular differential commitment burdens for lack of a sufficient justification. Neither already fixes the proof burden for parental contact restrictions. Extending Santosky to this statutory cutoff requires its own explanation of the interests and risk of error. Existing legal requirements continue to govern investigations, temporary orders, emergency action and necessary separation; no heightened proof prerequisite for every protective action, universal periodic-review schedule or unsafe-contact remedy follows.
+**Application of the entering law:** Surviving Mathews and Santosky supply the direct procedural-due-process framework. Simulated Foucha requires valid current grounds for psychiatric custody and preserves clear-and-convincing proof for ordinary civil commitment; simulated Heller invalidates the particular differential commitment burdens for lack of a sufficient justification. Neither already fixes the proof burden for parental contact restrictions. Extending Santosky to this statutory cutoff requires its own explanation of the interests and risk of error.
 
 **Foucha**
 
@@ -1056,7 +1050,7 @@ The juvenile court’s bare-preponderance abuse finding and supervised-visitatio
 
 **Historical lower judgment:** State in the Interest of A.C., No. 93-CA-1125, Louisiana Supreme Court, October 17, 1994, on rehearing, required clear and convincing proof for the statutory abuse finding. Its reasoning is lower-court material, not a simulated Supreme Court holding.
 
-**Simulation distinction:** The independently established user-added merits grant uses November 20, 1995. Do not replace that assigned event with the historical denial date.
+**Simulation distinction:** The independently established sim-granted merits grant uses November 20, 1995. Do not replace that assigned event with the historical denial date.
 
 **Sources:** [U.S. Reports, volume 515, page 1128](https://www.supremecourt.gov/opinions/boundvolumes/515bv.pdf); [Court journal, June 5, 1995, page 905](https://www.supremecourt.gov/orders/journal/jnl94.pdf); [Louisiana rehearing opinion](https://law.justia.com/cases/louisiana/supreme-court/1994/93-ca-1125-6.html).
 
@@ -1080,10 +1074,10 @@ The juvenile court’s bare-preponderance abuse finding and supervised-visitatio
 * **Simulated Event Date:** 1995-11-28; Historical Supreme Court event.
 * **Question Presented:** Whether 11 U.S.C. §523(a)(2)(A) requires reasonable reliance, justifiable reliance, or no reliance beyond actual reliance when a creditor seeks to except a fraud debt from discharge. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Question Granted / Submitted Scope:** The issue or issues stated above are reconstructed from the published case record. No additional question is assumed granted. A summary-review event does not imply a prior plenary grant.
-* **Court and Judgment Under Review:** First Circuit, 36 F.3d 1089, affirmed rejection of the creditors’ nondischargeability claim because their reliance was not objectively reasonable. [P1, 62–65]
+* **Court and Judgment Under Review:** First Circuit, 36 F.3d 1089, affirmed rejection of the creditors’ nondischargeability claim because their reliance was not objectively reasonable.
 * **Relief Requested:** The Fields seek vacatur of the adverse discharge determination and application of the proper reliance requirement; Mans seeks affirmance.
-* **Material Record:** The Fields financed a property sale to Mans’s corporation; Mans personally guaranteed the obligation. A transfer occurred contrary to the agreement, followed by communications concealing its occurrence. The bankruptcy court found actual reliance but faulted the Fields for failing to investigate warning information. Whether that reliance was justifiable under the creditors’ actual knowledge and the circumstances was not resolved under the correct proposed legal standard. [P1, 62–65]
-* **Threshold, Preservation, and Vehicle Matters:** Bankruptcy appellate review is properly presented. The separate question whether the fraud obtained the relevant extension of credit or caused the asserted debt is not eliminated by a ruling on reliance. No fresh finding that the entire obligation was obtained by fraud may be supplied. [P1, 75–76, Ginsburg concurrence]
+* **Material Record:** The Fields financed a property sale to Mans’s corporation; Mans personally guaranteed the obligation. A transfer occurred contrary to the agreement, followed by communications concealing its occurrence. The bankruptcy court found actual reliance but faulted the Fields for failing to investigate warning information. Whether that reliance was justifiable under the creditors’ actual knowledge and the circumstances was not separately resolved.
+* **Threshold, Preservation, and Vehicle Matters:** Bankruptcy appellate review is properly presented. The separate question whether the fraud obtained the relevant extension of credit or caused the asserted debt is not eliminated by a ruling on reliance. No fresh finding that the entire obligation was obtained by fraud may be supplied.
 * **Relevant Dates:** Argument: October 2, 1995. Event: November 28, 1995, historical date.
 * **Companion or Related Matters:** No additional consolidated or companion matter material to this brief is identified in the cited sources.
 * **Participation Matter:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
@@ -1100,18 +1094,16 @@ The juvenile court’s bare-preponderance abuse finding and supervised-visitatio
 * **Petitioner or Applicant’s Position:** The common-law meaning of actual fraud carries justifiable reliance, sensitive to the recipient’s knowledge and circumstances, not an ordinary-prudence investigation duty.
 * **Respondent or Competing Position:** The Code’s express reference to reasonable reliance in subsection (B) either supports comparable protection of debtors or shows that a creditor cannot ignore apparent warning signs under subsection (A).
 
-* **Alternative or Unreached Grounds and Limits:** Bankruptcy appellate review is properly presented. The separate question whether the fraud obtained the relevant extension of credit or caused the asserted debt is not eliminated by a ruling on reliance. No fresh finding that the entire obligation was obtained by fraud may be supplied. [P1, 75–76, Ginsburg concurrence]
+* **Alternative or Unreached Grounds and Limits:** Bankruptcy appellate review is properly presented. The separate question whether the fraud obtained the relevant extension of credit or caused the asserted debt is not eliminated by a ruling on reliance. No fresh finding that the entire obligation was obtained by fraud may be supplied.
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-* **Lawful Paths and Consequences:** Reasonable reliance would sustain the rule below; justifiable reliance requires reconsideration rather than entry of liability. A creditor who cannot establish the independent statutory fraud and debt nexus still loses even after prevailing on this interpretive question.
+* **Lawful Paths and Consequences:** Reasonable reliance would sustain the rule below; justifiable reliance or actual reliance alone requires reconsideration rather than entry of liability. A creditor who cannot establish the independent statutory fraud and debt nexus still loses even after prevailing on this interpretive question.
 * **Material Uncertainty:** Questions are source-grounded paraphrases rather than represented as verbatim petition text. Facts not established by the cited record remain unproved. No completed earlier OT1995 Court decision beyond the uploaded baseline has been supplied for incorporation; revalidation is required before adjudication.
 
 #### E. SOURCES
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
-
-* **P1:** [Published Supreme Court opinion, 516 U.S. 59; facts, statute, common-law sources, and reserved debt-nexus question](https://supreme.justia.com/cases/federal/us/516/59/).
 
 #### Law entering this event
 
@@ -1213,7 +1205,6 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 516 U.S. 85](https://supreme.justia.com/cases/federal/us/516/85/)
 
 #### Enacted and supporting authorities
 
@@ -1298,7 +1289,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 - **Legal Area:** Criminal procedure and habeas — Miranda custody review
 - **Court and Judgment Under Review:** The Ninth Circuit treated the state court’s noncustody determination as a factual finding presumptively correct under the habeas statute.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
-- **Material Facts and Record:** Police questioned Thompson at a station during a homicide investigation. The historical circumstances—including what officers said, the setting, duration, and freedom to leave—were largely identifiable, but the legal conclusion whether those facts amounted to custody remained disputed.
+- **Material Facts and Record:** Police questioned Thompson at a station during a homicide investigation. The historical circumstances—including what officers said, the setting, duration, and freedom to leave—were largely identifiable, but the ultimate determination whether those facts amounted to custody remained disputed.
 - **Preservation / Threshold / Vehicle Issues:** None identified beyond ordinary preservation, finality, and remedy questions.
 - **Relevant Dates:** Argument October 11, 1995; decision November 29, 1995.
 - **Companion or Consolidated Matters:** None.
@@ -1307,7 +1298,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 516 U.S. 99](https://supreme.justia.com/cases/federal/us/516/99/)
 
 #### Enacted and supporting authorities
 

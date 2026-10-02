@@ -16,7 +16,7 @@ Preparation only. 12 matters in chronological order. The index supplies the open
 - **Citation / Docket:** 517 U.S. 654; No. 95-232
 - **October Term:** 1995
 - **Entry Stage / Event Type:** Granted merits review; decision pending in this simulation.
-- **Question Presented:** Whether Federal Rule of Civil Procedure 4’s service period applies to service on the United States in a Suits in Admiralty Act action and displaces a judge-made requirement of service within the statute’s limitations period.
+- **Question Presented:** Whether Federal Rule of Civil Procedure 4’s service period applies to service on the United States in a Suits in Admiralty Act action and displaces a requirement of service within the statute’s limitations period.
 - **Question Granted:** The stated question describes the submitted review scope; no additional question or plenary grant is inferred beyond the identified procedural stage.
 - **Legal Area:** Federal procedure — service of process and suits against the United States
 - **Court and Judgment Under Review:** The D.C. Circuit dismissed Henderson’s action because service was not completed within the statutory limitations period.
@@ -30,7 +30,6 @@ Preparation only. 12 matters in chronological order. The index supplies the open
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 654](https://supreme.justia.com/cases/federal/us/517/654/)
 
 #### Enacted and supporting authorities
 
@@ -140,7 +139,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 681](https://supreme.justia.com/cases/federal/us/517/681/)
 
 #### Enacted and supporting authorities
 
@@ -237,7 +235,7 @@ Assigned §1254(1) review of an interlocutory qualified-immunity judgment. Secti
 
 The coordinated Holdings, Standards and Tests, and Standing State close OT1994 through June 29, 1995, at commit 87e62b7612c15409039d524fd66f743d0ad75e2a. They carry forward completed OT1991–OT1993 law. No completed OT1995 decision is supplied at this opening. Only an actual validated decision effective before this event may supplement that baseline. Preparation, historical outcomes and file order create no law.
 
-DeShaney rejects a general affirmative due-process duty to protect persons outside governmental custody against private violence. Its discussion of the State's lack of contribution to the danger must be distinguished from a claim of affirmative state-caused exposure. Simulated Elder requires all relevant contemporaneous authority, not a demand for an identical prior fact pattern and not retrospective use of later cases. Albright's simulated judgment supplies no controlling general bar to a bodily-security claim. No mandatory merits-first immunity sequence or later County of Sacramento v. Lewis rule is inherited.
+DeShaney rejects a general affirmative due-process duty to protect persons outside governmental custody against private violence. Whether its discussion of the State's lack of contribution to the danger must be distinguished from a claim of affirmative state-caused exposure remains open in this review. Simulated Elder requires all relevant contemporaneous authority, not a demand for an identical prior fact pattern and not retrospective use of later cases. Albright's simulated judgment supplies no controlling general bar to a bodily-security claim. No mandatory merits-first immunity sequence or later County of Sacramento v. Lewis rule is inherited.
 
 **Relevant precedent in appellate qualified-immunity review.** Whether a federal right was clearly established when officials acted is reviewed independently using all relevant precedent, including cases neither cited to nor discovered by the district court. This does not admit a new claim or factual record, make each considered precedent controlling or permit later decisions to supply notice retrospectively. The notice inquiry stays fixed to the conduct date. Ordinary claim and evidence preservation, particularized objective immunity and proper summary-judgment treatment remain distinct; no mandatory merits-first sequence follows.
 
@@ -296,7 +294,7 @@ The Fourth Circuit en banc granted Johnson immunity and rejected the proposed pr
 - **Legal Area:** Search and seizure — appellate standard of review
 - **Court and Judgment Under Review:** The Seventh Circuit reviewed the probable-cause and reasonable-suspicion determinations deferentially and affirmed denial of suppression.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
-- **Material Facts and Record:** Officers stopped and searched a vehicle based on travel patterns, vehicle features, and observations associated with drug trafficking. The historical facts were largely found by the trial court; the dispute concerned the legal significance of those facts.
+- **Material Facts and Record:** Officers stopped and searched a vehicle based on travel patterns, vehicle features, and observations associated with drug trafficking. The historical facts were largely found by the trial court; the dispute concerned whether those facts amounted to reasonable suspicion and probable cause.
 - **Preservation / Threshold / Vehicle Issues:** None identified beyond ordinary preservation, finality, and remedy questions.
 - **Relevant Dates:** Argument March 26, 1996; decision May 28, 1996.
 - **Companion or Consolidated Matters:** None.
@@ -305,7 +303,6 @@ The Fourth Circuit en banc granted Johnson immunity and rejected the proposed pr
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 690](https://supreme.justia.com/cases/federal/us/517/690/)
 
 #### Enacted and supporting authorities
 
@@ -389,7 +386,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 706](https://supreme.justia.com/cases/federal/us/517/706/)
 
 #### Enacted and supporting authorities
 
@@ -510,7 +506,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 735](https://supreme.justia.com/cases/federal/us/517/735/)
 
 #### Enacted and supporting authorities
 
@@ -613,8 +608,8 @@ When §92 applies, it requires the national bank to be located and doing busines
 - **Legal Area:** Separation of powers and military justice — capital sentencing delegation
 - **Court and Judgment Under Review:** The Court of Appeals for the Armed Forces affirmed Loving’s death sentence under presidentially prescribed aggravating factors.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
-- **Material Facts and Record:** A court-martial convicted Loving of premeditated murder and imposed death after finding aggravating factors stated in the Manual for Courts-Martial. Congress had authorized capital punishment under the Uniform Code of Military Justice and assigned the President implementation authority over military procedure and sentencing factors.
-- **Preservation / Threshold / Vehicle Issues:** The Court should decide the delegation and Article II questions without approving every factor or resolving collateral claims beyond the grant.
+- **Material Facts and Record:** A court-martial convicted Loving of premeditated murder and imposed death after finding aggravating factors stated in the Manual for Courts-Martial. Congress had authorized capital punishment under the Uniform Code of Military Justice and delegated to the President authority over military procedure and sentencing factors.
+- **Preservation / Threshold / Vehicle Issues:** The Court should decide the delegation and Article II questions without ruling on every individual factor or resolving collateral claims beyond the grant.
 - **Relevant Dates:** Argument January 9, 1996; decision June 3, 1996.
 - **Companion or Consolidated Matters:** None.
 - **Known Participation Issue:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
@@ -622,7 +617,6 @@ When §92 applies, it requires the national bank to be located and doing busines
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 748](https://supreme.justia.com/cases/federal/us/517/748/)
 
 #### Enacted and supporting authorities
 
@@ -723,7 +717,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 781](https://supreme.justia.com/cases/federal/us/517/781/)
 
 #### Enacted and supporting authorities
 
@@ -806,12 +799,12 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 - **Citation / Docket:** 517 U.S. 793; No. 95-386
 - **October Term:** 1995
 - **Entry Stage / Event Type:** Granted merits review; decision pending in this simulation.
-- **Question Presented:** Whether due process permits a state court to bind taxpayers to an earlier judgment in litigation to which they were not parties and in which they were not adequately represented.
+- **Question Presented:** Whether due process permits a state court to bind taxpayers to an earlier judgment in litigation to which they were not parties and in which, they contend, they were not adequately represented.
 - **Question Granted:** The stated question describes the submitted review scope; no additional question or plenary grant is inferred beyond the identified procedural stage.
 - **Legal Area:** Procedural due process — nonparty preclusion
 - **Court and Judgment Under Review:** The Supreme Court of Alabama held the taxpayers’ challenge barred by an earlier action brought by different taxpayers.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
-- **Material Facts and Record:** A small group of taxpayers earlier challenged Jefferson County’s occupational tax. The later plaintiffs had no notice, did not control the earlier case, and were not represented through a certified class or another formal representative relationship. Alabama nevertheless treated the first judgment as binding on all taxpayers.
+- **Material Facts and Record:** A small group of taxpayers earlier challenged Jefferson County’s occupational tax. The later plaintiffs had no notice, did not control the earlier case, and were not represented through a certified class or another formal representative relationship. Alabama treated the first judgment as binding on all taxpayers.
 - **Preservation / Threshold / Vehicle Issues:** None identified beyond ordinary preservation, finality, and remedy questions.
 - **Relevant Dates:** Argument March 26, 1996; decision June 10, 1996.
 - **Companion or Consolidated Matters:** None.
@@ -820,7 +813,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 793](https://supreme.justia.com/cases/federal/us/517/793/)
 
 #### Enacted and supporting authorities
 
@@ -914,7 +906,7 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 - **Court and Judgment Under Review:** The D.C. Circuit affirmed the convictions, holding the stop objectively reasonable.
 - **Requested Supreme Court Disposition / Relief:** The party seeking review asks for relief from the adverse judgment identified below; the opposing party seeks its preservation. Any decision must stay within the presented issues and source-authorized remedy.
 - **Material Facts and Record:** Plainclothes officers observed a vehicle waiting unusually long at a stop sign, turning without signaling, and speeding away. They stopped it and saw drugs. The defendants argued that ordinary traffic officers would not have made the stop and that the true purpose was narcotics investigation.
-- **Preservation / Threshold / Vehicle Issues:** The record presents an objectively supported stop. Purposeful racial selection is a separate Equal Protection issue requiring its own proof and remedy.
+- **Preservation / Threshold / Vehicle Issues:** The record presents a stop supported by probable cause for the observed traffic infractions.
 - **Relevant Dates:** Argument April 17, 1996; decision June 10, 1996.
 - **Companion or Consolidated Matters:** None.
 - **Known Participation Issue:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
@@ -922,7 +914,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 806](https://supreme.justia.com/cases/federal/us/517/806/)
 
 #### Enacted and supporting authorities
 
@@ -1006,7 +997,6 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 #### Additional public case information
 
 - **Conflict / Percolation:** No material conflict requiring separate treatment identified.
-- **Public Sources:** Case facts, posture, dates, and historical comparator → [Justia, 517 U.S. 820](https://supreme.justia.com/cases/federal/us/517/820/)
 
 #### Enacted and supporting authorities
 
@@ -1102,17 +1092,17 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 * **Simulated Event Date:** 1996-06-10; Historical Supreme Court event.
 * **Question Presented:** Whether comparative fault eliminated superseding cause in admiralty, and whether the controlling findings permit recovery from the mooring defendants for the grounding. Source-grounded formulation, not a claim to reproduce a petition verbatim.
 * **Question Granted / Submitted Scope:** The issue or issues stated above are reconstructed from the published case record. No additional question is assumed granted. A summary-review event does not imply a prior plenary grant.
-* **Court and Judgment Under Review:** Ninth Circuit, 54 F.3d 570, affirmed judgment against Exxon following a bifurcated bench trial on causation. [P1, 832–835]
+* **Court and Judgment Under Review:** Ninth Circuit, 54 F.3d 570, affirmed judgment against Exxon following a bifurcated bench trial on causation.
 * **Relief Requested:** Exxon seeks apportionment of the loss to the defendants; the defendants seek affirmance based on the finding that the captain’s later navigation was the sole proximate cause.
-* **Material Record:** The tanker broke from its mooring, but later regained a safe position before grounding following subsequent navigation failures. The district court found the captain’s later extraordinary negligence a superseding and sole proximate cause. Exxon disputes the legal consequence and aspects of causation, but this Court does not sit to retry the navigation record. [P1, 832–835]
-* **Threshold, Preservation, and Vehicle Matters:** The particular propriety of the bifurcation order is outside the questions granted. Legal causation, historical findings, allocation among legal causes, and contract warranty scope remain distinct. The parallel contract theories do not dispense with the necessary causal connection.
+* **Material Record:** The tanker broke from its mooring, but later regained a safe position before grounding following subsequent navigation failures. The district court found the captain’s later extraordinary negligence a superseding and sole proximate cause. Exxon disputes the legal consequence and aspects of causation.
+* **Threshold, Preservation, and Vehicle Matters:** The particular propriety of the bifurcation order is outside the questions granted. Whether legal causation, historical findings, allocation among legal causes, and contract warranty scope remain distinct, and whether the parallel contract theories require the same causal connection, remain for decision.
 * **Relevant Dates:** Argument: March 19, 1996. Event: June 10, 1996, historical date.
 * **Companion or Related Matters:** No additional consolidated or companion matter material to this brief is identified in the cited sources.
 * **Participation Matter:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer form the event-date roster; no case-specific nonparticipation is established.
 
 #### Enacted and surviving authorities
 
-General maritime law; United States v. Reliable Transfer, 421 U.S. 397 (1975); inherited proximate and superseding-cause principles. Comparative fault allocates damages among legally contributing causes; it does not make every antecedent condition a legally responsible cause. Supported bench findings receive clear-error review; the reviewing Court does not routinely disturb factual findings sustained by both lower courts.
+General maritime law; United States v. Reliable Transfer, 421 U.S. 397 (1975); inherited proximate-cause principles; superseding-cause principles, whose survival under comparative fault is the first question presented. Supported bench findings receive clear-error review; the reviewing Court does not routinely disturb factual findings sustained by both lower courts.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 
@@ -1122,18 +1112,16 @@ General maritime law; United States v. Reliable Transfer, 421 U.S. 397 (1975); i
 * **Petitioner or Applicant’s Position:** Comparative fault should apportion responsibility to all negligent actors whose conduct contributed to the sequence; superseding cause improperly restores an all-or-nothing bar.
 * **Respondent or Competing Position:** Fault allocation begins only after legal causation is established. The accepted findings make the captain’s later conduct an independent superseding cause.
 
-* **Alternative or Unreached Grounds and Limits:** The particular propriety of the bifurcation order is outside the questions granted. Legal causation, historical findings, allocation among legal causes, and contract warranty scope remain distinct. The parallel contract theories do not dispense with the necessary causal connection.
+* **Alternative or Unreached Grounds and Limits:** The particular propriety of the bifurcation order is outside the questions granted. Whether legal causation, historical findings, allocation among legal causes, and contract warranty scope remain distinct, and whether the parallel contract theories require the same causal connection, remain for decision.
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-* **Lawful Paths and Consequences:** If multiple acts remain legal causes, comparative fault allocates responsibility. A supported finding of a genuinely superseding sole cause defeats recovery from the earlier actors. Disagreement with facts alone does not justify a new Supreme Court trial.
+* **Lawful Paths and Consequences:** If comparative fault displaces superseding cause, or if multiple acts remain legal causes, comparative fault allocates responsibility. If superseding cause survives, a supported finding of a genuinely superseding sole cause defeats recovery from the earlier actors.
 * **Material Uncertainty:** Questions are source-grounded paraphrases rather than represented as verbatim petition text. Facts not established by the cited record remain unproved. No completed earlier OT1995 Court decision beyond the uploaded baseline has been supplied for incorporation; revalidation is required before adjudication.
 
 #### E. SOURCES
 
 Public judicial texts are used in Sections I and II only for verifiable record, posture, arguments, quoted enacted law, and separately identified earlier authorities. The same case’s Supreme Court result and rationale appear only in Section III as a noncontrolling comparator. Source keys are local to this matter.
-
-* **P1:** [Published Supreme Court opinion, 517 U.S. 830; bifurcation scope, navigation findings, and causation questions](https://supreme.justia.com/cases/federal/us/517/830/).
 
 #### Law entering this event
 
