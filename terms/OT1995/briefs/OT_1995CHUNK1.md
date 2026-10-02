@@ -144,13 +144,13 @@ Record and review posture: [15 F.3d 443 (5th Cir. 1994) (en banc)](https://openj
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Status:** Proposed individual position developed under the user’s express authorization to finish these additions, apply simulated precedent and supply Stone’s reasoning. This is authorized preparation, not an adjudicated Court outcome or an assertion that the user separately selected this exact wording.
+**Status:** Approved by the user as revised on October 2, 2026; no Court vote or outcome entered.
 
 **Stone's disposition.** Affirm the different immunity outcomes on the properly assumed facts: Lankford must face the supervisory claim; Caplinger receives qualified immunity on this record. Dismiss any attempted factual-sufficiency appeal outside Johnson's jurisdictional boundary rather than resolving credibility.
 
-**Reasoning.** Sexual abuse by a teacher acting through school authority invades the student's bodily integrity. The principal is not responsible merely because he employed or supervised the wrongdoer. The accepted evidence instead supports knowing disregard of repeated warnings plainly pointing toward abuse, failure to take available protective action, and a causal connection to the continued injury. The established constitutional protection cannot become empty merely because the official who knowingly permits the abuse does not personally inflict it. Ingraham's recognition of bodily security and contemporaneous supervisory-liability authority provide the notice analysis; Farmer's later formulation is unnecessary to establish what officials should have understood then.
+**Reasoning.** Sexual abuse by a teacher acting through school authority invades the student's bodily integrity. The principal is not responsible merely because he employed or supervised the wrongdoer. The accepted evidence instead would permit a finding of knowing disregard of repeated warnings plainly pointing toward abuse, of failure to take available protective action, and of a causal connection to the continued injury; it does not establish liability. The established constitutional protection cannot become empty merely because the official who knowingly permits the abuse does not personally inflict it. Ingraham's recognition of bodily security and contemporaneous supervisory-liability authority provide the notice analysis; Farmer's later formulation is unnecessary to establish what officials should have understood then.
 
-The superintendent must be judged on his own knowledge and response. The record described does not justify treating his later, more limited notice and responsive actions as the principal's alleged sustained indifference. A broad statement that all school officials must protect children would erase the individual culpability inquiry and would not adequately explain the immunity result. Stone would rely on the already recognized bodily-integrity protection and knowing personal supervisory responsibility, distinguishing cases involving mere employment or an unproved supervisory breach. He would acknowledge the dispute over the specificity of that earlier law and would not use May 1987 decisions to supply notice for the February failure to respond.
+Responsibility follows each official's own conduct. The superintendent must be judged on his own knowledge and his own response, including the investigative steps he took, not on his rank or on the principal's conduct. Taking the assumed facts as given, his later, more limited information and those responses do not amount, as a matter of law, to the knowing disregard that the evidence against the principal would permit a factfinder to find. Receiving information later is relevant, but it cannot alone excuse a failure to act once the information becomes sufficient. A broad statement that all school officials must protect children would erase the individual culpability inquiry and would not adequately explain the immunity result. Stone would rely on the already recognized bodily-integrity protection and knowing personal supervisory responsibility, distinguishing cases involving mere employment or an unproved supervisory breach. He would acknowledge the dispute over the specificity of that earlier law and would not use May 1987 decisions to supply notice for the February failure to respond.
 
 **Relief and limits.** Return the surviving claim for ordinary proceedings on actual notice, culpable inaction and causation. Doe still must prove her case. This resolution creates neither respondeat-superior liability nor a constitutional cause of action for every negligent school response.
 
@@ -211,13 +211,13 @@ Record and review posture: [31 F.3d 157 (4th Cir. 1994)](https://openjurist.org/
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Status:** Proposed individual position developed under the user’s express authorization to finish these additions, apply simulated precedent and supply Stone’s reasoning. This is authorized preparation, not an adjudicated Court outcome or an assertion that the user separately selected this exact wording.
+**Status:** Approved by the user as revised on October 2, 2026; no Court vote or outcome entered.
 
-**Stone's disposition.** Affirm judgment for the individual defendants on the damages claims and recognize mootness of the expired expunction request.
+**Stone's disposition.** Affirm judgment for the individual defendants on the damages claims because, on this record, retaining the confidential investigation record did not establish the claimed constitutional deprivation. The expunction request and related declaratory relief are moot: the applicable retention period expired in January 1994, and the plaintiffs do not contend that the required expunction failed.
 
 **Reasoning.** The State may investigate an apparently serious injury to a child and keep an accurate, confidential account for legitimate investigative and accountability purposes. A record that shows the allegation was not substantiated is not itself a finding that the parents are dangerous. On this record, limited retention did not separate the family, disclose intimate facts to the public or impose a legal disability. The constitutional claim therefore cannot be established by treating mere possession of the file as all of those injuries at once.
 
-Maryland's procedures must be honored as state law. A prescribed procedure, however, is not automatically a substantive federal entitlement to a particular result. The damages claim also fails to identify sufficiently particularized contemporaneous law making this confidential retention unconstitutional. Elder calls for all relevant authority, not for retrospectively imposing the rule Stone would prefer for a materially different registry.
+Maryland's procedures must be honored as state law. A prescribed procedure, however, is not automatically a substantive federal entitlement to a particular result. Because no constitutional deprivation is established, the officials prevail on the merits; Stone does not rest the result on the absence of closely matching precedent. Confidentiality alone does not make every government record harmless, and this conclusion is confined to this record.
 
 **Limits.** The judgment does not authorize knowingly false reports, continued retention contrary to an enforceable substantive right, broad disclosure of unproved accusations, or automatic family restrictions based on a database entry. Nor does it establish that intimate information has no constitutional protection. Those injuries are absent here; they should not be decided through invented facts. No universal expunction hearing or new retention timetable is necessary to resolve this case.
 
@@ -457,14 +457,14 @@ Section 157(d) withdrawal of reference is separate. The district court may withd
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as revised on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Reverse the Fourth Circuit.
 - **Stone’s Remedy / Remand Position:** Remand for proceedings on the validity of the asserted setoff and any remaining Code requirements.
 - **Stone’s Threshold Position:** Reach the preserved merits question and leave unpresented claims and remedies to their ordinary channels.
 - **Supporting Authorities:** 11 U.S.C. §§ 362(a), 542(b), and 553; ordinary setoff law; *United States v. Whiting Pools, Inc.*, 462 U.S. 198.
-- **Stone’s Proposed Holding for This Case:** A creditor does not complete a setoff merely by imposing a short, good-faith administrative hold that preserves the status quo while it promptly asks the bankruptcy court for stay relief.
-- **Stone’s Reasoning:** Setoff requires a decision to apply mutual debts against one another, not every temporary refusal to pay. Reading the stay to require immediate payment would destroy the preservation function Congress retained in §553 before the court could decide entitlement. The hold must remain temporary and tied to prompt judicial process.
+- **Stone’s Proposed Holding for This Case:** A creditor's temporary refusal to pay, imposed while it promptly asks the bankruptcy court for stay relief, is not a setoff, because it does not permanently settle the mutual debts.
+- **Stone’s Reasoning:** Setoff requires a decision to apply mutual debts against one another, not every temporary refusal to pay. Reading the stay to require immediate payment would destroy the preservation function Congress retained in §553 before the court could decide entitlement. The hold must remain temporary and tied to prompt judicial process. Good faith is not a general exception to the automatic stay; what matters is that the hold did not permanently settle the accounts. Whether the hold was otherwise wrongful, including whether it covered more than the claimed setoff, remains a separate question that this holding does not decide.
 - **Stone’s Operative Limit:** An indefinite freeze, a secret debit, or a hold untethered to a colorable setoff and prompt stay motion may constitute prohibited control or setoff.
 
 **Current-law and approval boundary:** Section I and its source reading govern statements of existing law. The legal answers and remedies stated here remain individual positions at their recorded approval status. The documented standing fallback addresses only a genuinely unaddressed component within its authorized scope; it neither approves an unapproved proposal nor overrides an expressed position or cures an unresolved review channel.
@@ -574,12 +574,12 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 #### A. STATUS
 
-* **Approval Status:** Proposed and unapproved; no prior approval is claimed.
-* **Conditions:** Proposed and unapproved. Revalidate the entering law and any material record or participation change at the event date; do not treat this draft as a rendered decision.
+* **Approval Status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
+* **Conditions:** Revalidate the entering law and any material record or participation change at the event date; do not treat this position as a rendered decision.
 
 #### B. JUDGMENT AND REMEDY
 
-* **Stone’s Controlled Judgment or Disposition:** Overrule Louisiana’s exceptions and adopt the Special Master’s report; leave the unexcepted rejection of Louisiana’s private-title cancellation request undisturbed. This is the proposed vote awaiting approval.
+* **Stone’s Controlled Judgment or Disposition:** Overrule Louisiana’s exceptions and adopt the Special Master’s report; leave the unexcepted rejection of Louisiana’s private-title cancellation request undisturbed. This is Stone's approved vote.
 * **Stone’s Remedy and Remand Position:** Direct preparation of a decree embodying the report’s verified boundary description. Retain original jurisdiction for implementation. Do not invent coordinates or cancel private titles.
 
 #### C. ISSUE POSITIONS
@@ -1128,12 +1128,12 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 #### A. STATUS
 
-* **Approval Status:** Proposed and unapproved; no prior approval is claimed.
-* **Conditions:** Proposed and unapproved. Revalidate the entering law and any material record or participation change at the event date; do not treat this draft as a rendered decision.
+* **Approval Status:** Approved by the user as revised on October 2, 2026; no Court vote or outcome entered.
+* **Conditions:** Revalidate the entering law and any material record or participation change at the event date; do not treat this position as a rendered decision.
 
 #### B. JUDGMENT AND REMEDY
 
-* **Stone’s Controlled Judgment or Disposition:** Vacate the First Circuit’s judgment and remand. This is the proposed vote awaiting approval.
+* **Stone’s Controlled Judgment or Disposition:** Vacate the First Circuit’s judgment and remand. This is Stone's approved vote.
 * **Stone’s Remedy and Remand Position:** Return through the First Circuit to the bankruptcy court for application of justifiable reliance, with further findings as needed and independent resolution of the obtained-by and other remaining statutory elements. Do not direct an immediate nondischargeability judgment.
 
 #### C. ISSUE POSITIONS
@@ -1142,7 +1142,7 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 * **Threshold and Merits Reach:** Reach the statutory reliance question; leave fact application and any unresolved obtained-by issue to the bankruptcy court.
 * **Stone’s Legal Position:** Construe the common-law fraud language to require justifiable, actual reliance. This supplies the specific statutory rule without changing the ordinary proof burden.
-* **Stone’s Proposed Holding:** Section 523(a)(2)(A) requires justifiable reliance, not objectively reasonable reliance. A creditor ordinarily need not investigate a representation, but cannot rely on a falsity the creditor knows or that is obvious in the circumstances. Because the lower courts used a broader investigation requirement, the judgment must be vacated.
+* **Stone’s Proposed Holding:** Section 523(a)(2)(A) requires justifiable reliance, not objectively reasonable reliance. Justifiability depends on this creditor's own knowledge, capacities, and circumstances. There is no general duty to investigate, but a creditor cannot rely on a falsity it knows or that is obvious, and warning signs it actually discovers can require inquiry. Because the lower courts used a broader investigation requirement, the judgment must be vacated.
 * **Essential Reasoning and Record Application:** Congress used common-law fraud terms in subsection (A) and separately specified reasonable reliance for written financial statements in subsection (B). The distinction does not erase reliance from deceit; it preserves the common-law version. A demand for ordinary prudence would improperly discharge an intentional fraud solely because its victim was careless. Conversely, actual reliance alone does not protect reliance on known or obvious falsity. Remand is required because the prior finding of unreasonableness does not decide justifiability or the separate debt nexus. [P1, 68–76; common-law authorities reproduced there]
 * **Boundary or Reserved Question:** No automatic nondischargeability, altered creditor burden, or determination that every dollar owed was obtained by the concealment follows.
 
@@ -1249,15 +1249,15 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as revised on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Reverse the Eighth Circuit.
-- **Stone’s Remedy / Remand Position:** Remand for application of the Act, including legitimate misconduct, loyalty, qualification, and remedy questions.
+- **Stone’s Remedy / Remand Position:** Remand for application of the Act, including any otherwise unprotected misconduct, qualification, and remedy questions.
 - **Stone’s Threshold Position:** At Chevron step one, independently fix the statutory boundary; only if the term remains eligible for agency resolution should the Board’s interpretation be tested for permissibility at step two.
 - **Supporting Authorities:** 29 U.S.C. §§152(3), 157, and 158; *Chevron U.S.A. Inc. v. NRDC*, 467 U.S. 837; *Phelps Dodge Corp. v. NLRB*, 313 U.S. 177; simulated *MCI Telecommunications Corp. v. American Telephone & Telegraph Co.*, 512 U.S. 218.
 - **Stone’s Proposed Holding for This Case:** A worker who performs or seeks ordinary compensated service for an employer is not excluded from the NLRA’s definition of employee merely because a union also pays the worker to organize.
-- **Stone’s Reasoning:** At step one, the Act’s broad definition and express exclusions do not unambiguously exclude paid organizers, and ordinary employment principles permit a person to serve more than one principal. At step two, the Board reasonably treats union compensation and organizing purpose as compatible with employee status while leaving dishonesty, disloyal performance, and misconduct to fact-specific rules. The interpretation therefore operates within the statutory range rather than enlarging the Board’s jurisdiction.
-- **Stone’s Operative Limit:** The holding does not immunize dishonesty, sabotage, refusal to perform work, or other legitimate grounds for adverse action.
+- **Stone’s Reasoning:** At step one, the Act’s broad definition and express exclusions do not unambiguously exclude paid organizers, and ordinary employment principles permit a person to serve more than one principal. At step two, the Board reasonably treats union compensation and organizing purpose as compatible with employee status while leaving otherwise unprotected misconduct to fact-specific rules. Organizing, union allegiance, and protected concerted activity cannot themselves be treated as disqualifying misconduct. The interpretation therefore operates within the statutory range rather than enlarging the Board’s jurisdiction.
+- **Stone’s Operative Limit:** Otherwise unprotected misconduct, such as dishonesty, sabotage, or refusal to perform the work, may still support lawful discipline or other lawful adverse action; no such misconduct is established here.
 
 **Current-law and approval boundary:** Section I and its source reading govern statements of existing law. The legal answers and remedies stated here remain individual positions at their recorded approval status. The documented standing fallback addresses only a genuinely unaddressed component within its authorized scope; it neither approves an unapproved proposal nor overrides an expressed position or cures an unresolved review channel.
 
@@ -1341,15 +1341,15 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** Supplied individual pre-vote position retained. The packet’s label does not independently document approval; no new approval, choice, or Court outcome is created by this reorganization. Apply any actual approval only to its documented scope.
+**Position status:** Approved by the user as revised on October 2, 2026; no Court vote or outcome entered.
 
 - **Stone’s Controlled Judgment:** Vacate and remand.
 - **Stone’s Remedy / Remand Position:** Require de novo review of the ultimate custody question while respecting supported findings of historical fact.
 - **Stone’s Threshold Position:** Reach the preserved merits question and leave unpresented claims and remedies to their ordinary channels.
 - **Supporting Authorities:** Simulated *Stansbury v. California*, 511 U.S. 318; *Berkemer v. McCarty*, 468 U.S. 420; 28 U.S.C. § 2254 as then in force.
-- **Stone’s Proposed Holding for This Case:** The circumstances of interrogation are historical facts, but whether a reasonable person would have understood the restraint to approximate formal arrest is a mixed constitutional question reviewed independently.
+- **Stone’s Proposed Holding for This Case:** The circumstances of interrogation are historical facts that receive the deference prescribed by 28 U.S.C. § 2254 as then in force, but whether a reasonable person would have understood the restraint to approximate formal arrest is a mixed constitutional question reviewed independently.
 - **Stone’s Reasoning:** Custody supplies a national constitutional boundary. Trial courts are better placed to resolve what occurred, while appellate and habeas courts must independently ensure that the objective legal standard remains uniform. Treating the whole conclusion as fact would allow local labels to control Miranda’s reach.
-- **Stone’s Operative Limit:** Independent review does not permit relitigation of supported credibility findings or disregard of the state record.
+- **Stone’s Operative Limit:** Independent review does not permit relitigation of supported credibility findings or disregard of the state record. The remand does not itself establish that Thompson was in custody or entitled to release.
 
 **Current-law and approval boundary:** Section I and its source reading govern statements of existing law. The legal answers and remedies stated here remain individual positions at their recorded approval status. The documented standing fallback addresses only a genuinely unaddressed component within its authorized scope; it neither approves an unapproved proposal nor overrides an expressed position or cures an unresolved review channel.
 
