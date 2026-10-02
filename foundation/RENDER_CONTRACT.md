@@ -2,7 +2,7 @@
 
 ## 1. Function and input
 
-This Contract converts the Supreme Court Term Simulator Engine's validated generated event Render Inputs and chunk metadata into a public-facing account of the Court's actions and law. The renderer receives the generated handoff only; it never opens the Canonical Decision Record, freeze artifacts, briefs, or source files. Center what the Court decided, its controlling rule and rationale, the rule's authority and limits, treatment of prior law, and the remedy or procedural effect. Keep each case entry unmistakably bounded while allowing its interior form to follow the decision's complexity. The renderer presents; it does not adjudicate, research, reconcile, classify, count votes, form coalitions, apply *Marks*, select relief, resolve chronology, repair a Canonical Decision Record, or update a tracker.
+This Contract converts the Supreme Court Term Simulator Engine's validated generated event Render Inputs and chunk metadata into a concise, substantive public account of what the Court decided, why, who joined which propositions, the selected separate positions, and the resulting law. It does not commission full-length opinions or imitation of individual Justices' styles. The renderer receives the generated handoff only; it never opens the Canonical Decision Record, freeze artifacts, briefs, or source files. Center what the Court decided, its controlling rule and rationale, the rule's authority and limits, treatment of prior law, and the remedy or procedural effect. Keep each case entry unmistakably bounded while allowing its interior form to follow the decision's complexity. The renderer presents; it does not adjudicate, research, reconcile, classify, count votes, form coalitions, apply *Marks*, select relief, resolve chronology, repair a Canonical Decision Record, or update a tracker.
 
 The renderer receives these eleven blocks, in this order:
 
@@ -41,7 +41,7 @@ Bracketed text below is instruction and does not print.
 ## 2. Projection rules
 
 1. Preserve every supplied name, date, docket, citation, question, vote, join, disposition, proposition, limit, transition, and procedural condition in the selected public projection exactly in substance. State overlapping information once when that preserves every material distinction. Choose headings, paragraphs, lists, or tables for clarity and use connective phrasing strictly entailed by the supplied fields, but add no legal or factual premise.
-2. Keep the main render public. Never expose a commitment matrix, confidence assessment, source audit, comparator, provisional vote, reconciliation, counterfactual branch, conference material, private Stone instruction, or Engine reasoning.
+2. Keep the main render public. Never expose a commitment matrix, confidence assessment, source audit, comparator, provisional vote, reconciliation, counterfactual branch, conference material, private Stone instruction, or Engine reasoning. Fidelity to the handoff does not require reproducing forbidden workflow material embedded in a legacy input. Omit claims about whether an operator inspected, extracted, verified, or certified sources and statements that no verified quotation was used. Preserve any underlying legally material uncertainty as a limitation of the evidence or record in ordinary legal prose; do not turn a source gap into an established fact or omit it merely to remove workflow wording.
 3. Project judgment votes, opinion joins, and proposition coalitions from their own fields. None may be inferred from another.
 4. State a proposition as controlling only when **Holdings** supplies both the proposition and its authority. Do not independently perform *Marks*, aggregate noncontrolling writings, or infer authority from citation or outcome.
 5. Preserve authorship, partial joins, judgment-only agreement, and each writing's relationship to each judgment component. Never convert a plurality into an Opinion of the Court or a concurrence in the judgment into a join.
@@ -49,7 +49,11 @@ Bracketed text below is instruction and does not print.
 7. Use quotation marks for decisional language only when **Source Notes** verifies the quotation. Never invent a quotation, pin cite, parallel citation, reason for nonparticipation, or undisclosed vote.
 8. Do not invent area-of-law tags, proposition codes, database keys, ideology labels, or doctrinal classifications. Include human-readable doctrinal context only when **Law After Decision** supplies it.
 9. Omit an unpopulated optional section. Do not print empty headings, “None,” “N/A,” or stock sentinels for missing material. The entry boundaries required by Section 3 always print.
-10. Depth and interior form are adaptive within the fixed entry boundaries in Section 3. A routine event may use a compact conventional narrative; a standard event may use the suggested section form; a fractured, multi-question, transition-sensitive, or procedurally complex event may use the full structured form and tables. Preserve all material distinctions, but use no word, sentence, paragraph, or internal-section-count quota.
+10. Depth and interior form are adaptive within the fixed entry boundaries in Section 3 and these upper limits: each ordinary controlling explanation is at most **350 words**; each user-designated extended controlling explanation is at most **1,000 words**; and each published separate-writing summary in a user-designated special-consideration matter is at most **600 words**. An express case-specific user instruction may set a different limit. These are ceilings for the explanation or summary body, whether labeled or integrated into prose, not minimums, targets, or a cap on the whole case entry. Use fewer words when the supplied reasoning can be stated completely in less space. Preserve the holding, authority, material reasoning and application, qualifications, and remedy; shorten repetition before substance. Do not divide one explanation or relocate its reasoning merely to evade a ceiling. If faithful condensation within the applicable limit is impossible, name the exact conflicting requirements as an operator-facing render blocker for upstream repair; do not silently exceed the limit, omit a material distinction, or invent a replacement rationale.
+
+When a matter is designated or the user has set a case-specific ceiling, the **Event** block of its Render Input carries a nonprinting `Length designation:` line naming its extended holdings, its designated separate-writing summaries, and any case-specific ceiling. Read it for length only; it supplies no substance and never prints. Do not infer a designation from importance, complexity, vote margin, or a legacy "full" form. Without that line, use the ordinary ceiling.
+
+This Contract governs presentation. Vote margin alone does not require a longer form or a table. Historical differences do not determine public form and must not be supplied to or reconstructed by the renderer. A legacy "Render form" note is nonprinting editorial metadata; it does not override this Contract or authorize historical comparison. Use the existing entry structure, with compact treatment where sufficient and additional structure where the actual judgment, joins, law, or remedy requires it.
 
 If the input lacks or contradicts a fact needed to state the public action, judgment, authority, remedy, or next stage, identify the exact render blocker. Render an unaffected event or portion only when doing so cannot imply a resolution.
 
@@ -101,15 +105,15 @@ This section is operator-only workflow output, not part of the Court's public ac
 
 ## 4. Merits and other precedential decisions
 
-Every merits or other precedential decision must clearly cover chronology and posture, judgment, opinion topology, controlling propositions and authority, and mandate, remedy, and next stage. Individual positions appear through the ordinary judgment, authorship, join, and selected separate-position accounts. These are semantic duties, not a mandatory number of internal headings.
+Every merits or other precedential decision must clearly cover chronology and posture, judgment, opinion topology, controlling propositions and authority, and mandate, remedy, and next stage. Individual positions appear through the ordinary judgment, authorship, join, and selected separate-position accounts. Apart from the visible Judgment heading required below, these are semantic duties, not a mandatory number of internal headings.
 
 Choose the least elaborate form that preserves the decision accurately:
 
-- **Routine form:** a conventional narrative within the entry boundaries, stating the Court's disposition, controlling proposition, authority, and material procedural effect without repetitive personal accounts.
+- **Routine form:** a visible Judgment block followed by a conventional narrative within the entry boundaries, stating the controlling proposition, authority, and material procedural effect without repetitive personal accounts.
 - **Standard form:** the suggested core below, combining adjacent sections when no distinction is lost.
 - **Complex form:** the full core, component tables, question-level proposition blocks, and conditional sections needed for mixed judgments, partial joins, fractures, multiple remedies, or transitions.
 
-The standard form is a suggested interior arrangement. Combine or reorder its sections when clarity improves and no material distinction is lost; retain the entry boundaries in every form:
+Keep a visible **Judgment** heading after the brief chronology and posture and before the opinion and reasoning account in every merits form. The remaining standard sections are a suggested interior arrangement. Combine or reorder them when clarity improves and no material distinction is lost; retain the entry boundaries in every form:
 
 ```text
 ### [Case or matter], [docket or dockets when supplied]
@@ -121,11 +125,11 @@ The standard form is a suggested interior arrangement. Combine or reorder its se
 participation, and consolidation or companion facts.]
 
 #### Judgment
-[Exact disposition, vote, coalitions, nonparticipants, remedy, and any
-effective transition.]
+[Single-disposition block or component table from Section 4.2; preserve
+the exact remedy and any effective transition.]
 
 #### Opinion Topology
-[Writing table.]
+[Precise authorship-and-joins account or writing table from Section 4.3.]
 
 #### Controlling Propositions and Authority
 [Separate question, threshold, component, and alternative-holding blocks.]
@@ -149,23 +153,39 @@ For consolidated matters, identify every docket and docket-specific question or 
 
 ### 4.2 Judgment
 
-Do not simplify a mixed disposition. Name every supporting and opposing Justice and any supplied nonparticipant. When dockets, claims, components, or remedies have different coalitions, use:
+For one disposition with one coalition, use this compact block. Supply only the disposition, tally, names, and disclosure limits established by the public handoff:
+
+```text
+#### Judgment
+
+**[Disposition], [supplied vote].**
+
+**Supporting:** [Supplied supporting Justices].
+**Opposing:** [Supplied opposing Justices].
+[**Not participating:** [Supplied nonparticipants].]
+```
+
+Name each supporting and opposing Justice once in this account. Omit the Opposing line for a supplied unanimous judgment and omit Not participating when inapplicable; do not print empty lines or "None." Preserve any supplied distinction between supporting the disposition and supporting its reasoning. Follow the block with any necessary qualification, remedy, or transition that is not already stated accurately elsewhere in the entry. Do not repeat the same judgment lineup in an additional table and paragraph.
+
+Do not simplify a mixed disposition, including one whose several components share a coalition. When dockets, claims, components, or remedies differ, use the component table below, naming the supporting and opposing Justices for each component and any supplied nonparticipant. Keep exact component outcomes and relief even when the vote is identical:
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
 | [supplied value] | [supplied value] | [supplied value] | [supplied value] | [supplied value] |
 
-Do not reconstruct this table from opinion joins.
+Do not reconstruct either form from opinion joins or a vote count. If individual votes or a tally are not publicly disclosed, preserve the supplied disclosure limit and omit unsupported lines; never complete a lineup by inference. A missing or contradictory input needed to state the judgment remains a render blocker under Section 2. These forms do not authorize publication of modeled certiorari polls or undisclosed application votes.
 
 ### 4.3 Opinion Topology
 
-Use the table when there are multiple writings, partial joins, fractures, judgment-only relationships, or other topology that prose could blur. For a single uncomplicated opinion and any straightforward dissent or concurrence, a precise narrative statement is sufficient. The table form is:
+Use the table whenever any Justice joins only part of an opinion or concurs only in the judgment, when no opinion commands a majority, and whenever overlapping writings would be unclear in a concise narrative. Preserve every distinct join and relationship in either form. For one uncomplicated Court opinion and any straightforward dissent or concurrence, a precise authorship-and-joins statement is sufficient. The table form is:
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
 | [supplied value] | [supplied value] | [supplied value] | [supplied value] | [supplied value] |
 
 Identify partial joins by supplied sections or issue propositions; invent no section number. The table describes structure, not authority. If **Opinion Topology** says no opinion commands a majority, state that. Project a controlling *Marks* rationale, *Marks* indeterminacy, or no controlling rationale only from **Holdings**.
+
+State a common whole-opinion coalition once. Where the same coalition supplies authority for several propositions, refer to that unambiguous common account rather than repeat every name. Identify each different proposition-level coalition and partial join precisely. Judgment supporters are never a substitute for this authorship-and-joins account.
 
 ### 4.4 Individual positions and attribution
 
@@ -203,6 +223,8 @@ conclusion.]
 
 For a controlling fractured-decision rationale, project the supplied governing rule, sources, coalition, authority basis, and limit without new synthesis. Preserve a logical-subset basis or *Marks* designation only when **Holdings** supplies it. Never present a plurality rationale as law merely because it explains the judgment.
 
+This section explains the operative rule and why the Court adopts and applies it, within Section 2's explanation ceilings. Give each material qualification beside the proposition it limits. Retain the supplied answer to a material contrary argument; do not substitute a bare conclusion for the reasoning. The precedent and resulting-law account in Section 4.6 performs a different job and need not repeat the complete holding or explanation.
+
 ### 4.6 Conditional public sections
 
 Include only populated material. Use these headings and order when the distinctions require separate treatment; in a routine form, integrate the same supplied material into the surrounding narrative without changing its source or force.
@@ -213,7 +235,7 @@ State supplied reservations, exclusions, unanswered questions, and grounds not r
 
 #### Precedent Treatment and Current-Law Effect
 
-Combine **Precedent Treatment** and **Law After Decision** in ordinary legal prose. Identify the affected prior proposition, its resulting present force, and any effective transition. No closed treatment vocabulary applies. Omit this section for an ordinary application with no supplied material change; silence or citation alone is not reaffirmance.
+Present **Precedent Treatment** and **Law After Decision** in ordinary legal prose, using this combined heading or separate Precedent Treatment and Current Law headings when their distinct work is clearer. Precedent treatment explains how earlier authority is applied, distinguished, limited, extended, or displaced. The resulting-law account states the operative consequence, surviving boundaries, and any effective transition supplied by **Law After Decision**. Do not copy the full holding and explanation into both accounts; integrate overlap while preserving each source's legal work. No closed treatment vocabulary applies. Omit a separate section for an ordinary application with no supplied material change, retaining any material treatment in the explanation; silence or citation alone is not reaffirmance.
 
 #### Doctrinal Context
 
@@ -221,7 +243,7 @@ Include only public explanatory context supplied by **Law After Decision**. It c
 
 #### Separate Positions Relevant to the Decision
 
-State the selected position summaries supplied in **Separate Writings**, preserving author, joiners, relationship to judgment, and the supplied proposition, limit, or remedial position. Integrate them into the authority, judgment, or remedy discussion when a separate section would repeat the same information. The existence of a writing in **Opinion Topology** does not require a separate discussion of its theory. Do not expand a supplied summary into a survey of the Justice's views or call a proposition controlling unless **Holdings** independently establishes that force for the exact proposition.
+State the selected position summaries supplied in **Separate Writings**, preserving author, joiners, relationship to judgment, and the supplied proposition, limit, or remedial position. Explain the competing legal ground, the material objection to the Court's reasoning, the points of agreement, and any different disposition or remedy to the extent supplied; a bare statement that a Justice dissents is not a substitute for a supplied substantive summary. Preserve material differences between separate writings even when they support the same result. Integrate a summary into the authority, judgment, or remedy discussion when a separate section would repeat it. The existence of a writing in **Opinion Topology** does not require a separate discussion of its theory. Do not invent a separate opinion from a vote or partial join, expand a supplied summary into a survey of the Justice's views, or call a proposition controlling unless **Holdings** independently establishes that force for the exact proposition.
 
 ### 4.7 Mandate, Remedy, and Stage
 
@@ -304,7 +326,8 @@ Before return, verify that:
 4. limits, nonreach, precedent treatment, current-law effect, separate positions, mandate, remedy, transition, and next stage use only their designated blocks;
 5. no public/private boundary, quotation rule, no-invented-tag rule, or optional-section rule was violated;
 6. every stopped matter and blocker in chunk metadata appears once without an implied adjudication;
-7. the account centers the Court's action and law, treats all Justices by the same standard, and contains no dedicated Stone section or repetitive personal account; and
-8. compression lost no material distinction in the selected public projection and elaboration added no fact or conclusion.
+7. the account centers the Court's action and law, treats all Justices by the same standard, and contains no dedicated Stone section or repetitive personal account;
+8. compression lost no material distinction in the selected public projection and elaboration added no fact or conclusion; and
+9. each merits entry has the visible Judgment block or necessary component table, judgment votes remain distinct from opinion joins, and each explanation and designated summary respects Section 2's applicable ceiling without padding or relocation to evade it.
 
 Return no certification on success. From OT1993 forward, when no blocker remains, omit the Workflow Blockers section entirely. If the Render Input fails a projection check, state the exact blocker in operator-facing text and do not adjudicate it. Public entries must never mention that a holding, vote, or Court action is "simulated," "user-directed," "approved," corrected by version, or generated by a model; they speak in the Court's ordinary institutional voice.
