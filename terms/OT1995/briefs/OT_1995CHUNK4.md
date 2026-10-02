@@ -455,14 +455,14 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 **Citation:** 60 F.3d 1411
 
-**Docket(s):** Supreme Court docket not supplied; Ninth Circuit No. 95-15449
+**Docket(s):** Historical petition No. 95-673; no separate simulated Supreme Court docket assigned; Ninth Circuit No. 95-15449
 
 ### SECTION I — NEUTRAL MODELING PACKET
 
 #### A. CASE, RECORD, AND POSTURE
 
 * **Case Name:** Voting Rights Coalition v. Wilson
-* **Citation or Docket:** 60 F.3d 1411; Supreme Court docket not supplied; Ninth Circuit No. 95-15449
+* **Citation or Docket:** 60 F.3d 1411; historical petition No. 95-673; no separate simulated Supreme Court docket assigned; Ninth Circuit No. 95-15449
 * **October Term:** 1995
 * **Legal Field:** Elections Clause; federal registration legislation; federalism
 * **Entry Stage and Event:** Sim-granted matter; review of a permanent injunction requiring compliance with the NVRA.
@@ -510,7 +510,7 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 * **P1:** [Ninth Circuit judicial opinion, including the permanent-injunction posture, United States participation, and reserved implementation questions](https://openjurist.org/60/f3d/1411/voting-rights-coalition-v-wilson).
 
-**Matter-specific uncertainty:** No separate Supreme Court docket or grant order is supplied. Retain the identified preliminary-injunction appeal in the expressly assigned merits review, without converting its provisional record into final liability findings.
+**Matter-specific uncertainty:** No separate simulated Supreme Court docket is assigned, and no separate grant order is supplied. Retain the identified permanent-injunction appeal in the expressly assigned merits review.
 
 #### Law entering this event
 

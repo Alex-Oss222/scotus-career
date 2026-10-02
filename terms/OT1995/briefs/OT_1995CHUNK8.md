@@ -201,13 +201,13 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 **Citation:** 46 F.3d 668 (7th Cir. 1995)
 
-**Docket(s):** Seventh Circuit No. 94-2222
+**Docket(s):** Seventh Circuit No. 94-1912
 
 ### SECTION I — NEUTRAL MODELING PACKET
 
 - **Caption:** United States v. Myers
 - **Citation:** [46 F.3d 668 (7th Cir. 1995)](https://law.justia.com/cases/federal/appellate-courts/F3/46/668/591863/). This identifies the authentic lower-court opinion, not a Supreme Court reporter assignment.
-- **Docket(s):** Seventh Circuit No. 94-2222. No separate simulated Supreme Court docket number is supplied.
+- **Docket(s):** Seventh Circuit No. 94-1912. No separate simulated Supreme Court docket number is supplied.
 - **Term / event:** OT1995; 1996-06-11; simulation-assigned merits opinion event.
 - **Lower opinion date:** 1995-02-01, distinct from the assigned Court event.
 - **Entry stage:** Expressly authorized simulated merits review of this identified lower/state-court matter. This preparation does not issue an Engine grant or decide the case.
@@ -242,7 +242,7 @@ Record and review posture: [46 F.3d 668 (7th Cir. 1995)](https://law.justia.com/
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Status:** Proposed individual position developed under the user’s express authorization to finish these additions, apply simulated precedent and supply Stone’s reasoning. This is authorized preparation, not an adjudicated Court outcome or an assertion that the user separately selected this exact wording.
+**Status:** Approved by the user on October 2, 2026; no Court vote or outcome entered.
 
 **Stone's disposition.** Vacate the judgment insofar as it rejects the preserved suppression claim and sustains the conviction on the no-search premise. Remand for lawful disposition under Pinson, preserving ordinary issue and remedy limits.
 
@@ -256,7 +256,7 @@ The later warrant cannot legalize the earlier acquisition retrospectively. At th
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
-**Historical source:** [46 F.3d 668 (7th Cir. 1995)](https://law.justia.com/cases/federal/appellate-courts/F3/46/668/591863/); Seventh Circuit No. 94-2222; opinion 1995-02-01.
+**Historical source:** [46 F.3d 668 (7th Cir. 1995)](https://law.justia.com/cases/federal/appellate-courts/F3/46/668/591863/); Seventh Circuit No. 94-1912; opinion 1995-02-01.
 
 The Seventh Circuit treated the thermal examination as outside the Fourth Amendment search category and sustained the judgment. That reasoning conflicts with the subsequently completed simulated Pinson rule. The historical lower opinion remains the source of the record; later historical Kyllo is neither required nor available as simulated entering law.
 
