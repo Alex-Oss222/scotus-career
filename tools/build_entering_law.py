@@ -6,21 +6,26 @@ import re
 from pathlib import Path
 
 def take_heading(text: str, query: str):
+    """Return the one section whose heading matches; an exact title wins over a substring."""
     lines = text.splitlines()
     starts = [i for i, line in enumerate(lines) if re.match(r"^#{2,5}\s+", line)]
-    q = query.casefold()
-    for pos, start in enumerate(starts):
-        title = re.sub(r"^#{2,5}\s+", "", lines[start]).strip()
-        if q in title.casefold():
-            level = len(lines[start]) - len(lines[start].lstrip("#"))
-            end = len(lines)
-            for nxt in starts[pos + 1:]:
-                lvl = len(lines[nxt]) - len(lines[nxt].lstrip("#"))
-                if lvl <= level:
-                    end = nxt
-                    break
-            return "\n".join(lines[start:end]).strip()
-    raise ValueError(f"heading not found: {query}")
+    q = query.casefold().strip()
+    titles = [(pos, start, re.sub(r"^#{2,5}\s+", "", lines[start]).strip()) for pos, start in enumerate(starts)]
+    found = [t for t in titles if t[2].casefold() == q] or [t for t in titles if q in t[2].casefold()]
+    if not found:
+        raise ValueError(f"heading not found: {query}")
+    if len(found) > 1:
+        raise ValueError(f"heading {query!r} matches {len(found)} sections; pass one exact heading: "
+                         + "; ".join(t[2] for t in found[:8]))
+    pos, start, _title = found[0]
+    level = len(lines[start]) - len(lines[start].lstrip("#"))
+    end = len(lines)
+    for nxt in starts[pos + 1:]:
+        lvl = len(lines[nxt]) - len(lines[nxt].lstrip("#"))
+        if lvl <= level:
+            end = nxt
+            break
+    return "\n".join(lines[start:end]).strip()
 
 def main():
     ap = argparse.ArgumentParser()

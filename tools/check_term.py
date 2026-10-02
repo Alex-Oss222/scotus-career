@@ -69,6 +69,40 @@ def check_render_input(root: Path, term: Path, path: Path, errors: list[str]):
         elif body != expected:
             errors.append(f"{path.relative_to(root)}: projection drift from {name}")
 
+def completed_by_chunk(manifest_text: str):
+    """Map each chunk label to the Records its manifest rows mark Completed."""
+    lines = manifest_text.splitlines()
+    h = next((i for i, line in enumerate(lines) if line.startswith("| Event date | Chunk | Case or matter |")), None)
+    out: dict[str, set[str]] = {}
+    if h is None:
+        return out
+    cols = [c.strip() for c in lines[h].strip().strip("|").split("|")]
+    ci, si = cols.index("Chunk"), cols.index("Status")
+    for line in lines[h + 2:]:
+        if not line.startswith("|"):
+            break
+        cells = [c.strip() for c in line.strip().strip("|").split("|")]
+        if len(cells) == len(cols) and cells[si].startswith("Completed:"):
+            out.setdefault(cells[ci], set()).update(x.strip() for x in cells[si][len("Completed:"):].split(","))
+    return out
+
+def render_input_coverage(rel: str, text: str, expected: set[str]):
+    """Errors when a Render Input drops, duplicates or adds events relative to the manifest."""
+    errors = []
+    names = [x.strip() for x in re.findall(r"<!-- source-record: ([^>]+) -->", text)]
+    dupes = sorted({x for x in names if names.count(x) > 1})
+    if dupes:
+        errors.append(f"{rel}: duplicate source-record blocks: {dupes}")
+    m = re.search(r"\*\*Completed events:\*\*\s*(\d+)", text)
+    if m and int(m.group(1)) != len(names):
+        errors.append(f"{rel}: header says {m.group(1)} completed events but carries {len(names)} blocks")
+    missing, extra = sorted(expected - set(names)), sorted(set(names) - expected)
+    if missing:
+        errors.append(f"{rel}: omits Records the manifest marks Completed for this chunk: {missing[:5]}")
+    if extra:
+        errors.append(f"{rel}: carries Records the manifest does not mark Completed for this chunk: {extra[:5]}")
+    return errors
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("term", help="e.g. OT1993")
@@ -126,6 +160,11 @@ def main():
         missing = sorted(case for case in listed if case not in mtext)
         if missing:
             errors.append(f"manifest omits {len(missing)} case-list matters; first: {missing[:5]}")
+        # Each chunk's Render Input carries exactly the events its manifest rows mark Completed.
+        done = completed_by_chunk(mtext)
+        for n in sorted(rin):
+            errors += render_input_coverage(str(rin[n].relative_to(root)), rin[n].read_text(encoding="utf-8"),
+                                            done.get(f"OT_{args.term.removeprefix('OT')}CHUNK{n}", set()))
 
     # Record naming and fixed interface.
     for p in sorted((term / "records").glob("*.md")) if (term / "records").exists() else []:
