@@ -16,7 +16,7 @@
 
 | Sequence | Stable ID | Chunk | Caption / established companions | Citation | Docket(s) | Event date | Category | Event type | Area of law |
 |---:|---|---|---|---|---|---|---|---|---|
-| 1 | OT1995-001 | [Chunk 1](briefs/OT_1995CHUNK1.md) | Wood v. Bartholomew | 516 U.S. 1 | No. 94-1419 | 1995-10-10 | MERITS | Summary review on certiorari petition | Criminal procedure — Brady materiality and federal habeas review |
+| 1 | OT1995-001 | [Chunk 1](briefs/OT_1995CHUNK1.md) | Wood v. Bartholomew | 516 U.S. 1 | No. 94-1419 | 1995-10-10 | CERTIORARI | Certiorari granted for plenary consideration | Criminal procedure — Brady materiality and federal habeas review |
 | 2 | OT1995-101 | [Chunk 1](briefs/OT_1995CHUNK1.md) | + Doe v. Taylor Independent School District | 15 F.3d 443 (5th Cir. 1994) (en banc) | Fifth Circuit No. 90-8431 | 1995-10-16 | MERITS | Simulation-assigned merits opinion | Civil rights; school sexual abuse; supervisory liability and qualified immunity |
 | 3 | OT1995-102 | [Chunk 1](briefs/OT_1995CHUNK1.md) | + Hodge v. Jones | 31 F.3d 157 (4th Cir. 1994) | Fourth Circuit No. 93-1182 | 1995-10-23 | MERITS | Simulation-assigned merits opinion | Family privacy; child-abuse records; qualified immunity |
 | 4 | OT1995-002 | [Chunk 1](briefs/OT_1995CHUNK1.md) | Tuggle v. Netherland | 516 U.S. 10 | No. 95-6016 | 1995-10-30 | MERITS | Summary review on certiorari petition | Capital sentencing — expert assistance, future dangerousness, and harmless error |

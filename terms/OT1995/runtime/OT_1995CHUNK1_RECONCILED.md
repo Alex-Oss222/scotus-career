@@ -1,5 +1,9 @@
 # OT1995 chunk 1 — RECONCILED
 
+**Current correction precedence (October 2, 2026):** For Wood, use [the fresh reuse handoff](../freeze/OT_1995CHUNK1_WOOD_REUSE_RECONCILED.md); for Tuggle, use [the fresh full-stage handoff](../freeze/OT_1995CHUNK1_TUGGLE_RECONCILED.md). These frozen files supersede the corresponding prior-stage working sections below. The other ten matters retain their original frozen commitments. The [current correction stage index](../freeze/OT_1995CHUNK1_CORRECTION_STAGE_INDEX.md) states the boundaries and operative files.
+
+The following original aggregate is retained as a prior-stage working view; it is not authority against the current correction freezes.
+
 Durably preserved stage handoffs; operator Git commitment pending. The group source/read receipts and control record disclose the context limitation and exact reading scopes. No Git operation has been performed.
 
 # OT1995 chunk 1 — A reconciled Associate commitments

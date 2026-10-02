@@ -1,0 +1,17 @@
+# OT1995 chunk 1 correction and completion — control scope
+
+The user authorized correction of Wood's October 10, 1995 event and completion of Tuggle's October 30, 1995 event on October 2, 2026. Each occupies its existing chronological slot. No event date changes and no event is added. The revised approved brief is the sole Stone-position input; references in that brief to private upstream materials do not authorize reading them.
+
+The user identifies the prior Run as `331aade`. That identifier is recorded as supplied, not independently verified. No Git command is authorized or performed. Filesystem preservation is the durable handoff used here; Git verification and commitment remain the operator's work. The existing no-Git adapter runs the repository ledger and term checks while deferring their Git-only helpers. A successful check through that adapter does not certify Git objects or commitment order.
+
+All writes are confined to `terms/OT1995/` and ignored scratch space. The top-level private-material directory is excluded from all reads, listing, search, and modification. Briefs and governing infrastructure are unchanged. The runtime neutral, Stone, and comparator splits were regenerated mechanically with `tools/split_chunk.py`. The correction entering-law slice was built by `tools/build_entering_law.py` from the synchronized opening trackers. Current-term reading copies are bounded Public Projections, never raw Record audit sections.
+
+Wood's neutral review and independent commitment reuse take place in separate scoped contexts before historical reconciliation. The valid original frozen commitments and reconciliation are retained; present reuse reviews do not retroactively erase their originally disclosed context limitations. Only the neutral question-attribution clarification is refreshed. Stone enters final assembly through the separately exported approved supplement after the reconciled handoff is preserved.
+
+Tuggle receives fresh neutral validation, independent modeling, historical reconciliation, and assembly. The initial correction preflight stopped after encountering an excluded same-matter historical procedural action in an authorized source. Its exposure is preserved separately; its unfinished Tuggle framing is not used. A fresh scoped preflight receives only clean bounded materials and the validated neutral packet. The exposed action supplies no Court event or procedural premise here. The clean model receives the actual earlier public law, including Wood's corrected procedural action, before forming commitments. No source-based concession is substituted for an adjudicated violation.
+
+Other chunk 1 Records are inspected for substantive reliance. Their adjudications and Public Projections are protected against change. Only truthful entering-law references, obsolete no-event statements, assignment bookkeeping, and concise internal lineage may be refreshed. Any material dependency requires a stop rather than an unapproved new result.
+
+The existing public render requires correction under AGENTS.md's in-place correction rule. A separate renderer receives only the generated current Render Input and presentation instructions. Unaffected entries must remain byte-identical. No private poll or workflow information enters the public render.
+
+This control note records authorization and boundaries, not completion of checks. Final results and deferred checks are recorded in the correction validation summary after the Records and projections are complete.

@@ -1,0 +1,5 @@
+{
+  "record": "terms\\OT1995\\records\\Tuggle_v_Netherland_summary_merits_1995-10-30.md",
+  "checks": "PASS: four labels; exact eleven blocks; kernel/projection holding identity; nine named supporters; no opponents; participation/joins; 319-word ordinary explanation; runtime copy identity",
+  "pending": "root downstream/term checks and operator Git verification/commitment"
+}

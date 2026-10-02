@@ -1,68 +1,51 @@
 # OT_1995CHUNK1 Render Input
 
-**October Term:** 1995. **Completed events:** 11. **Chronological range:** 1995-10-10 through 1995-11-29.
+**October Term:** 1995. **Completed events:** 12. **Chronological range:** 1995-10-10 through 1995-11-29.
 
-**Stopped matters:**
-- Tuggle v. Netherland: Stone’s approved disposition treats the Ake violation as conceded, but the Commonwealth expressly withdrew that concession in its 1995 opposition. Renewed approval is required to proceed on an express assumption of an available Ake violation while remanding contested predicates and preserving Stone’s Chapman position; no such approval has arrived. A final violation determination would instead require the complete requests, assistance, preservation and prior-state-ruling record.
-
-<!-- source-record: Wood_v_Bartholomew_summary_merits_1995-10-10.md -->
+<!-- source-record: Wood_v_Bartholomew_certiorari_1995-10-10.md -->
 ## Event
 
-**Wood v. Bartholomew, No. 94-1419 — October 10, 1995.** Summary review of the Ninth Circuit’s reversal of the District Court’s habeas denial. The appellate mandate required a conditional retrial on premeditation within a reasonable time or reduction to simple first-degree murder. No oral argument. The question is whether the withheld polygraph information supports that relief under collective materiality principles.
+Wood v. Bartholomew, No. 94-1419. Certiorari action, October 10, 1995. On petition for certiorari to the Ninth Circuit, which reversed the District Court's denial of habeas relief on September 6, 1994, 34 F.3d 870. The lower mandate allowed retrial on premeditation within a reasonable time or reduction to simple first-degree murder; the District Court entered an implementing order on January 13, 1995. The question granted is whether a federal habeas court may treat inadmissible polygraph results as material exculpatory evidence under Brady v. Maryland and overturn a state murder conviction on that basis, including the asserted lawful investigative and preparation uses within that materiality question. Independent ineffective-assistance and false-testimony theories not reached below are outside the grant. No oral argument preceded this action.
 
 ## Participation
 
-Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer. All nine participate.
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate. No petition tally or individual petition vote is publicly disclosed.
 
 ## Public Action
 
-Certiorari granted on the presented Brady question; a reasoned summary opinion reverses the judgment below.
+Certiorari granted for plenary consideration. No merits judgment entered. The case is set for full briefing and oral argument on the stated question.
 
 ## Judgment & Remedy
 
-**Judgment:** Reversed and remanded, **5–4 on summary disposition**. **Supporting:** Stone-Zsela, O’Connor, Scalia, Kennedy, Thomas. **Opposing summary disposition:** Stevens, Souter, Ginsburg, Breyer; they favor plenary consideration and express no final merits vote. The Ninth Circuit’s present Brady basis for conditional relief cannot stand. The lower courts must conform the implementing order to this judgment and address only independently remaining, procedurally available matters. No new trial, reduction of conviction, release, or dismissal of all habeas claims is ordered.
+No merits judgment. The Ninth Circuit's judgment is neither affirmed, reversed nor vacated. The Court orders no new trial, conviction reduction, release, remand to the lower courts or stay. The validity of the conditional writ remains for plenary review.
 
 ## Opinion Topology
 
-Justice O’Connor delivers the Court’s opinion, joined by Chief Justice Stone-Zsela and Justices Scalia, Kennedy, and Thomas. Justices Stevens, Souter, Ginsburg, and Breyer note their dissent from summary disposition; they do not join the merits opinion and file no substantive separate opinion.
+No opinion or substantive separate writing accompanies the grant.
 
 ## Holdings
 
-### Unsupported investigative possibilities do not establish material suppression
-
-The Court holds that inadmissibility of undisclosed information does not, by itself, foreclose a Brady claim based on a lawful investigative or preparation use. But the defendant must identify a supported way in which disclosure, considered collectively with the other suppressed material and against the whole trial record, creates a reasonable probability of a different result; the assertion that counsel might have investigated differently does not establish that consequence.
-
-**Authority:** O’Connor’s opinion, joined by Stone-Zsela, Scalia, Kennedy, and Thomas, supplies five votes for this rule and its application.
-
-**Controlling explanation:** Brady makes material favorable suppression a constitutional injury, and Bagley asks whether it undermines confidence in the result. Kyles requires collective assessment and protects supported uses in preparing and presenting the defense; it does not require each item independently to establish materiality. Those principles extend beyond placing the withheld document itself in evidence. They also require more than a chain of hoped-for discoveries.
-
-The undisclosed information concerns Rodney’s deceptive polygraph responses and Tracy’s technically inconclusive result, together with the examiner’s favorable impression. None establishes perjury, a confession, or a new admissible account. The asserted interviews, inconsistencies and other investigative fruits remain conjectural on the presented claim. Considering both witnesses together does not supply the missing supported evidentiary consequence. Their importance to premeditation warrants attention, but cannot itself prove that disclosure would have produced useful evidence. Bartholomew admitted the robbery and shootings but contested premeditation; the existing attack on Rodney and the gun’s single-action operation remained part of the trial evidence. No new finding about the disputed assembly or testing of the gun is made. The Court does not decide the scientific truth of the examinations or rely on counsel having conceded away every conceivable use. Nor does it add Bell’s penalty-stage testimony to the guilt record. The lower court’s speculative theory therefore does not establish entitlement to its conditional writ.
-
-No second harmless-error test is imposed after a completed material Brady violation. Independent habeas claims and any properly available antecedent defenses remain outside this holding.
-
-**Precedent treatment:** Brady and Bagley are applied; Kyles’s collective lawful-use and confidence-based requirements are applied without an admissibility exception or an additional prejudice burden.
+The Court decides no merits question and issues no Brady holding. The materiality of the undisclosed information, its lawful preparation and investigative uses, the competing record accounts and any ultimate remedy remain open.
 
 ## Precedent Treatment
 
-- **Brady v. Maryland:** Applied to favorable suppressed information; nondisclosure alone does not establish materiality.
-- **United States v. Bagley:** Applied through the reasonable-probability, confidence-in-the-result standard; probable acquittal is not required.
-- **Kyles v. Whitley:** Applied to the combined lawful preparation and evidentiary uses; no per-item threshold, categorical inadmissibility bar, or second duplicative harmlessness inquiry is created.
+No precedent is applied to resolve the merits, limited or overruled by this grant.
 
 ## Law After Decision
 
-Excluded information may support a Brady claim through sufficiently supported lawful uses. This claim fails because the asserted evidentiary change remains speculative. The existing collective materiality rule and prosecution-team responsibility remain intact; independent habeas claims acquire no new disposition.
+Existing Brady and Kyles law remains unchanged. The grant supplies no substantive precedent or view of the Ninth Circuit's ultimate correctness.
 
 ## Separate Writings
 
-Stevens, Souter, Ginsburg, and Breyer dissent from deciding the case summarily. Their notation leaves the ultimate Brady application and final remedy for plenary consideration; it is neither a vote to affirm the conditional writ nor an opinion adopting a competing materiality rule. No substantive separate writing is filed.
+No separate writing is issued.
 
 ## Procedure After Action
 
-The case returns to the Ninth Circuit for proceedings consistent with reversal of the presented Brady ground. Any remaining claim must independently satisfy its procedural and substantive requirements. The Court does not direct state retrial, sentence reduction, or unconditional release.
+Open granted matter awaiting full briefing and oral argument. No argument date or merits event is scheduled by this action.
 
 ## Source Notes
 
-[Ninth Circuit judgment, 34 F.3d 870](https://static.case.law/f3d/34/html/0870-01.html), and the [petition-stage record](https://archive.org/details/micro_IA40385013_0583) support the lower posture and the parties’ investigative-use dispute. The complete counsel testimony is not established by the bounded materials; no dispositive concession is found. The State’s description of Tracy’s test differs from the lower court’s technically inconclusive characterization. The rule is applied without resolving that source conflict or any new gun-testing fact.
+Lower-court posture and the competing record accounts appear in [34 F.3d 870](https://static.case.law/f3d/34/html/0870-01.html) and the [petition-stage filings](https://archive.org/details/micro_IA40385013_0583). The parties describe trial counsel's habeas testimony differently; no complete-testimony concession or disputed gun-testing fact is resolved by the grant.
 
 ---
 
@@ -247,6 +230,82 @@ Judgment for the individual defendants stands within the presented damages claim
 ## Source Notes
 
 [Fourth Circuit judgment and separate concurrence, 31 F.3d 157](https://static.case.law/f3d/31/html/0157-01.html) supply the record, the separate unpleaded coding episode, and the prospective posture. The five-year condition and separate later 120-day rule remain distinct. The full historical Maryland provisions are not conclusively reconstructed here; the Court resolves immunity without deciding a new statutory entitlement. Expunction is not independently certified: plaintiffs’ lack of a contrary contention supplies the stated mootness premise.
+
+---
+
+<!-- source-record: Tuggle_v_Netherland_summary_merits_1995-10-30.md -->
+## Event
+
+Tuggle v. Netherland, No. 95-6016. Limited certiorari grant and summary merits disposition, October 30, 1995. On petition for certiorari to the Fourth Circuit's June 29, 1995 judgment, 57 F.3d 1356, reversing the District Court's June 8, 1994 habeas grant and directing dismissal. No oral argument preceded this action. The question taken up is whether surviving vileness alone sustains the challenged sentence-review judgment against the presented Ake assistance claim, assuming a properly available violation solely to examine that rationale. Independent examination-use theories and the petition's other questions concerning vileness instructions, voir dire, and rape sufficiency are outside the grant and receive no merits adjudication.
+
+## Participation
+
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participate. The petition poll is not disclosed.
+
+## Public Action
+
+The Court grants certiorari limited to the stated Ake and surviving-aggravator question and summarily vacates and remands the challenged sentence-review component.
+
+## Judgment & Remedy
+
+**Judgment:** The challenged Ake and sentence-review component of the Fourth Circuit's judgment is vacated and remanded, **9–0**. **Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer.
+
+The case returns through the Fourth Circuit for proceedings consistent with the Court's limited rule. The Court neither reinstates every District Court ground nor presently orders a writ, new penalty hearing, guilt retrial, life sentence, or release. It issues no execution authorization or stay and fixes no deadline. The conviction and unreviewed grounds retain their lawful force; this action does not automatically reopen them.
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship and scope |
+|---|---|---|---|
+| Opinion of the Court | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | All join the narrow rule, assumed-violation premise, bounded remand, and express reservations |
+| Concurrence | Stone-Zsela | O'Connor and Souter only as to the proposed Chapman rule for the preserved, properly available capital psychiatric-assistance category described below | All three join the Court; the proposed extension has three votes and is noncontrolling; the Chief Justice's further remedial directions have no additional join |
+
+## Holdings
+
+### A surviving aggravator does not dispose of the independent assistance claim
+
+The Court holds that, in a nonweighing capital-sentencing system, a valid aggravator may preserve eligibility for death, but its survival alone neither defeats a properly available claim that the defendant was denied psychiatric assistance required by Ake nor establishes that the assumed denial did not affect selection of death. The challenged Ake and sentence-review component must be vacated for further consideration; removing future dangerousness as an aggravator does not itself correct lost assistance in answering evidence the jury heard.
+
+**Authority:** Stevens's opinion of the Court, joined in full by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer. All nine directly adopt this rule and bounded remand; no combination of separate rationales is necessary.
+
+**Controlling explanation:** Zant v. Stephens sustained a nonweighing sentence after an aggravator failed its narrowing function, where the underlying evidence was properly admitted, accurate, and open to defense explanation. That holding does not turn every remaining eligibility finding into an answer to an independent constitutional injury. Ake v. Oklahoma protects relevant examination and assistance in evaluation, preparation, presentation, cross-examination, rebuttal, and supported mitigation; it does not guarantee a preferred psychiatrist or another examination merely on request.
+
+The Commonwealth presented psychiatric future-danger testimony. Although the jury found future dangerousness and vileness, it still had to decide from all the evidence whether death rather than life was justified. The Fourth Circuit treated surviving vileness as sufficient without examining the assumed loss of assistance. Lawful eligibility does not establish absence of an effect on that choice. Relevant prosecution evidence must be considered, and no favorable missing expert testimony or actual influence may be invented. Virginia's nonweighing character preserves the distinct eligibility finding; it does not dispose of this independent claim.
+
+The Court assumes the disputed violation only to test that rationale. The 1985 state court affirmatively found penalty-stage Ake error; withdrawal of the Commonwealth's concession does not erase the ruling. A renewed request, adequacy, threshold, preservation, or other defense must be legally available under the existing rulings and procedural history. Neither complete preclusion nor unrestricted reopening is declared.
+
+If an available violation stands, further consideration must address the relevant penalty record and any actual loss of the identified defense functions. Counting existing examiners does not settle adequacy. The Court reserves whether harmless-error review applies, the governing collateral standard, actual effect, and ultimate relief. Brecht covers preserved Doyle error and O'Neal preserved personal-intent error; neither already decides this Ake category. Eventual relief requires a properly available violation warranting relief under the applicable rule and may allow a reasonable opportunity for a lawful penalty disposition. Correcting the appellate rationale alone supplies no immediate writ or hearing.
+
+**Precedent treatment:** Zant is distinguished on its admissible-and-explainable-evidence premise and retains its nonweighing eligibility holding. Ake's assistance protection and no-preferred-examiner limit are applied without deciding the disputed violation. Stringer and Richmond retain their weighing-system rules; their appellate correction routes are not transferred here. Brecht and O'Neal retain their category-specific Chapman rules and the distinction between correcting review and granting a writ; neither is extended to Ake.
+
+## Precedent Treatment
+
+- **Ake v. Oklahoma, 470 U.S. 68:** Its meaningful psychiatric-assistance requirement and no-preferred-examiner limit govern the assumed claim; no final violation is found.
+- **Zant v. Stephens, 462 U.S. 862:** Distinguished on its properly admitted, accurate, explainable-evidence premise. It retains its nonweighing narrowing-factor holding but supplies no automatic cure for an independent assistance violation.
+- **Stringer v. Black, March 9, 1992:** Its correction rule for constitutional weighing error remains intact; its remedial routes do not automatically govern this nonweighing assistance claim.
+- **Richmond v. Lewis, December 1, 1992:** Its weighing-system cure requirement remains intact; no authority for state appellate correction of this particular assistance violation is established here.
+- **Brecht v. Abrahamson, April 21, 1993:** Preserved Doyle error retains the State's whole-record Chapman burden; no universal collateral standard is drawn from that holding.
+- **O'Neal v. McAninch, February 21, 1995:** Its preserved personal-intent rule and conditional-relief distinction remain effective. Its broader proposed extension does not control this category.
+- **Chapman v. California, 386 U.S. 18; Kotteakos v. United States, 328 U.S. 750:** Their distinct existing tests remain intact; neither is selected for this collateral assistance claim.
+
+## Law After Decision
+
+Surviving nonweighing eligibility alone cannot dispose of an independent, properly available psychiatric-assistance claim or establish absence of an effect on sentence selection. Zant's narrower eligibility rule survives. The Court selects no collateral error-effect standard for this Ake category and finds neither a violation nor entitlement to relief. The category-specific Brecht and O'Neal holdings remain unchanged. The concurrence's proposed Chapman extension has no controlling force.
+
+## Separate Writings
+
+**Stone-Zsela, concurring; O'Connor and Souter join only the proposed Chapman rule for a preserved, properly available capital-sentencing denial of required psychiatric assistance when the State presents psychiatric future-danger evidence.** The Chief Justice joins the Court because its surviving-aggravator ground independently requires vacatur whatever error-effect standard ultimately governs. He would also extend O'Neal to an available Ake denial of this kind: the State must establish beyond a reasonable doubt on the whole penalty record that the denial did not contribute to the death sentence. O'Connor and Souter support that proposal within the preserved and properly available category just described; their joins do not extend to the Chief Justice's further remedial directions.
+
+A psychiatric defense serves investigation, cross-examination, rebuttal, and mitigation. An unrebutted future-danger case can influence the whole sentencing choice after its aggravator is removed. The State's asserted evidentiary advantage arises from the very denial that makes the missing defense difficult to reconstruct; the defendant should not bear that uncertainty. This is a proposed extension, not a claim that O'Neal already governs all Ake errors. A surviving eligibility finding cannot replace examination of whether the decision to impose death was constitutionally reliable.
+
+The Chief Justice assumes the 1985 penalty-stage violation for this review without relying on the withdrawn concession. Any renewed request or threshold challenge must be available under the existing rulings and preservation rules. If the violation stands, he would require review of the whole penalty record, including what competent assistance could have supplied for rebuttal and mitigation, without inventing testimony. If harmless under the governing standard, relief on this error should be denied; otherwise he would require a conditional writ allowing a constitutionally adequate new penalty proceeding within a reasonable District Court deadline or replacement of the death sentence by lawful relief. No deadline is fixed now. If the present submissions have not addressed the governing standard, he would permit briefing, including on his proposed Chapman extension. He would not order a new hearing now, declare harmlessness, classify the error as structural, order a guilt retrial, or decide an independent state-aggravator issue. These further directions are his own; the Court reserves the applicable standard and ultimate relief.
+
+## Procedure After Action
+
+The challenged sentence-review component returns through the Fourth Circuit. Any antecedent defense must be legally available in light of the 1985 state ruling and preservation history; closed issues are not reopened and forfeited defenses are not revived. If an available violation stands, its consequences require consideration on the relevant record under the applicable law. The Court leaves applicability of harmless-error review, the governing standard, actual effect, and ultimate relief unresolved. No writ or new penalty proceeding is ordered now. Independent Estelle theories and other petition questions are outside this limited grant; the Court neither denies those questions nor decides their merits. Unreviewed grounds retain their lawful force.
+
+## Source Notes
+
+The [reported judicial background, 516 U.S. 10](https://www.govinfo.gov/content/pkg/USREPORTS-516/pdf/USREPORTS-516-10.pdf), the Fourth Circuit's judgment at 57 F.3d 1356, and Tuggle v. Commonwealth, 228 Va. 493 and 230 Va. 99, supply the procedural history and challenged rationale. The [petition-stage filings in No. 95-6016](https://archive.org/details/micro_IA40385013_0784)—petition pages 4, 10 and 34; opposition page 3 note 1 and pages 6–11; respondent appendix pages 13–34—distinguish the requests, existing evaluations, affirmative state ruling, withdrawn concession, and disputed defenses. The bounded appendix does not establish completeness of every trial request or service available to counsel. No present concession, favorable hypothetical expert opinion, warning or waiver determination, actual sentencing influence, or final harmlessness finding supplies this decision.
 
 ---
 

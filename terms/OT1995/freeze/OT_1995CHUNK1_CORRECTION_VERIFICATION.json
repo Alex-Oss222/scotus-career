@@ -1,0 +1,54 @@
+{
+  "status": "PASS; Git-only verification deferred",
+  "record_count": 12,
+  "unchanged_other_results": 10,
+  "unchanged_other_public_projections": 10,
+  "unchanged_other_render_entries": 10,
+  "wood_summary_opposition": [
+    "Stone-Zsela",
+    "Stevens",
+    "Souter",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "wood_summary_reversal_support": [
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Thomas"
+  ],
+  "wood_internal_petition_grants": 9,
+  "tuggle_judgment": "9-0 vacatur/remand",
+  "chunk1_stopped": 0,
+  "open_granted_matter": "Wood v. Bartholomew",
+  "record_sha256": {
+    "A_St_P_C_v_B_C_merits_1995-11-20.md": "54ddd6eb7a1fbe4cd4b4b63f9bc0b2283c7ec95da2081858eef2d0188712e97d",
+    "American_Life_League_v_Reno_merits_1995-11-13.md": "ce723c29e6de39554842c6f771c73b3143324ce581074607188726ceb18502a5",
+    "Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md": "cee1568f8f0b8c768ecf555b8045a014238318dbd6d1abb00b873f775c8bf72f",
+    "Doe_v_Taylor_ISD_merits_1995-10-16.md": "90210cc7f4513de559c988104bd092621e0b5a047b01ba9ca8472bc5934d3b3d",
+    "Field_v_Mans_merits_1995-11-28.md": "4986c7148ace4d7c8539ed48082ce63fa9984b8cafb9e975f2366a126d4e7cf7",
+    "Hodge_v_Jones_merits_1995-10-23.md": "a84b759b21aa2895bea5b488fcfc0a427f043eeb98801591d71d36accc655030",
+    "Libretti_v_United_States_merits_1995-11-07.md": "d562bcd391c5a1c57ad8186f25662baa0c45e0a47f60a9b3ebf7eb5ad54c32a8",
+    "Louisiana_v_Mississippi_original_exceptions_1995-10-31.md": "4ec8cc96df3b8319aaa554b243ca3c2c46a2b094ffa50f6102b77716c868a45a",
+    "NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md": "814172ef89a8462c9c1cafacdba967e6aff3fd995e65b7fb9fd79c8fb96a0ef2",
+    "Thompson_v_Keohane_merits_1995-11-29.md": "fee0a9f4ce354aaca6cf0887eb808c31d27e94ed3db565001dabb6de74b5bea4",
+    "Tuggle_v_Netherland_summary_merits_1995-10-30.md": "346d775994d49f4cf44649695789236d67b28e4072281739f5443d747fe4863c",
+    "Wood_v_Bartholomew_certiorari_1995-10-10.md": "2d23e3c1cb95c90b909882dc29a1abb52e19111ff9c211016c5d1067c59461f6"
+  },
+  "render_input_sha256": "ebe2561367781efb9509df891983194bb7392677fa4b643a394904397b9615f2",
+  "render_sha256": "72882f434e245791bb9c8dc0d02378b6113a7a344627c42ca61d624ee9a31e70",
+  "unaffected_render_entry_sha256": {
+    "Doe v. Taylor Independent School District": "b41a9da18cb54078e055185133abd39b06a788fdb05777ebdb173cd619d052ab",
+    "Hodge v. Jones": "f48ea8b4b831ec0eeb1b1e3702b49f6b2ebf41f6acc989fa3c8e0987d2c047b7",
+    "Citizens Bank of Maryland v. Strumpf, No. 94-1340": "a45e6083972ea44e3069182042182fa36e05723dc86dd8a44b6bb16cc1c7eee1",
+    "Louisiana v. Mississippi et al., No. 121, Original": "6650d231e594ba3028938f5529d849fa4ff920c37e4b3ab685b6f0ea85835510",
+    "Libretti v. United States, No. 94-7427": "cc747699706dd7e166abb05fd47975f3e8560723f1250a340805aae0edfeb4bf",
+    "American Life League v. Reno": "3271bec2a425580bb925600ab4c565b97be4ced304d6ea69e8068810dc200771",
+    "A. St. P. C. v. B. C., No. 94-7810": "6d5d56e0f15aa3f1e65816de623a04dc678a1783228ba1b6b64670077ee0871e",
+    "Field v. Mans, No. 94-967": "032c9fc9a65086725329cd8ca2f16ec35e66ef4a9a4a99b2fd5d877577f3e92f",
+    "NLRB v. Town & Country Electric, Inc., No. 94-947": "64522447102343019171c1205791379577b93ca8c606bdfe41b266b736eeead4",
+    "Thompson v. Keohane, No. 94-6615": "9860abe19011d40d45ac88f579a02f81b1b50f47f7b4028f2960e280fdaae648"
+  },
+  "git_commands_run": false,
+  "git_hashes_verified": false
+}

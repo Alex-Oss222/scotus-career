@@ -1,0 +1,78 @@
+{
+  "record": "Tuggle_v_Netherland_summary_merits_1995-10-30.md",
+  "case": "Tuggle v. Netherland",
+  "date": "1995-10-30",
+  "judgments": [
+    {
+      "component": "Ake and sentence-review component",
+      "disposition": "Vacated and remanded",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [],
+      "other": [],
+      "printed_tally": "9–0"
+    }
+  ],
+  "writings": [
+    {
+      "author": "Stevens",
+      "joiners": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "scope": "Entire narrow opinion: assumed-violation surviving-aggravator rule and bounded remand, collateral standard reserved",
+      "controlling": true
+    },
+    {
+      "author": "Stone-Zsela",
+      "joiners": [
+        "O'Connor",
+        "Souter"
+      ],
+      "scope": "Concurrence; joins limited to proposed Chapman rule for a preserved, properly available capital denial of required psychiatric assistance when the State presents psychiatric future-danger evidence. Further remedial directions are Stone alone.",
+      "controlling": false
+    }
+  ],
+  "law_summary": "Surviving nonweighing eligibility alone cannot dispose of an independent, properly available psychiatric-assistance claim or establish absence of an effect on sentence selection. Zant's narrower eligibility rule survives. The Court selects no collateral error-effect standard for this Ake category and finds neither a violation nor entitlement to relief. The category-specific Brecht and O'Neal holdings remain unchanged. The concurrence's proposed Chapman extension has no controlling force.",
+  "published_positions": [
+    "Stone-Zsela (Concurrence): Would extend Chapman to an available Ake denial of this kind, with whole-record State-borne proof beyond a reasonable doubt. Independent narrow ground requires vacatur whatever standard governs. If violation stands, deny relief if harmless; otherwise conditional writ for adequate penalty proceeding within reasonable District Court deadline or lawful replacement of death. No present hearing or deadline; permit standard briefing if not addressed. No invented expert testimony, structural classification, guilt retrial or independent state-aggravator ruling.",
+    "O'Connor (Partial join in Stone concurrence): Supports the proposed Chapman rule only for a preserved, properly available capital denial of required psychiatric assistance when the State presents psychiatric future-danger evidence; no join in further remedial directions.",
+    "Souter (Partial join in Stone concurrence): Supports the same defined Chapman proposal; no join in further remedial directions."
+  ],
+  "next_stage": "The challenged sentence-review component returns through the Fourth Circuit. Any antecedent defense must be legally available in light of the 1985 state ruling and preservation history; closed issues are not reopened and forfeited defenses are not revived. If an available violation stands, its consequences require consideration on the relevant record under the applicable law. The Court leaves applicability of harmless-error review, the governing standard, actual effect, and ultimate relief unresolved. No writ or new penalty proceeding is ordered now. Independent Estelle theories and other petition questions are outside this limited grant; the Court neither denies those questions nor decides their merits. Unreviewed grounds retain their lawful force.",
+  "disposition": "Limited certiorari grant; challenged Ake and sentence-review component vacated and remanded, 9–0",
+  "participants": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "blockers": [],
+  "assignment": {
+    "assigner": "Stone-Zsela",
+    "author": "Stevens",
+    "chief_assignment": true,
+    "source": "terms/OT1995/records/Tuggle_v_Netherland_summary_merits_1995-10-30.md#judgment-opinions-and-assignment"
+  },
+  "status": "Durably completed and root-validated; operator Git verification and commitment pending"
+}
