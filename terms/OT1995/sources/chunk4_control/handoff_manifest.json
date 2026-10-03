@@ -1,0 +1,23 @@
+[
+  {
+    "source": "terms/OT1995/runtime/OT_1995CHUNK4_A_COMPARATOR.md",
+    "sha256": "a5268134cf895b87cd4a884ec4e949ab9190048a88073e273e718bf34b0be4a6",
+    "handoff": "terms/OT1995/freeze/OT_1995CHUNK4_A_COMPARATOR_SAFE.md",
+    "cases": 4,
+    "official_addendum": true
+  },
+  {
+    "source": "terms/OT1995/runtime/OT_1995CHUNK4_B_COMPARATOR.md",
+    "sha256": "98b3ae823da768d681ee7d358465689f077040b3ee0b38753b12c82689a76f1b",
+    "handoff": "terms/OT1995/freeze/OT_1995CHUNK4_B_COMPARATOR_SAFE.md",
+    "cases": 4,
+    "official_addendum": true
+  },
+  {
+    "source": "terms/OT1995/runtime/OT_1995CHUNK4_C_COMPARATOR.md",
+    "sha256": "615acf11e97bc8f8c1e411c4116117797c558d9e3dd4ec08540b37ca67f44417",
+    "handoff": "terms/OT1995/freeze/OT_1995CHUNK4_C_COMPARATOR_SAFE.md",
+    "cases": 4,
+    "official_addendum": true
+  }
+]

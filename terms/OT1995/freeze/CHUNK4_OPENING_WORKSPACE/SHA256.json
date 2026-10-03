@@ -1,0 +1,42 @@
+{
+  "terms/OT1995/workspace/continuity.md": {
+    "snapshot": "terms/OT1995/freeze/CHUNK4_OPENING_WORKSPACE/continuity.md",
+    "sha256": "b93eb9e1babb7e3d4216f197eb4e066c1e45c32f6ab0431a2981ade6e06b8013",
+    "bytes": 141965
+  },
+  "terms/OT1995/workspace/ledger.md": {
+    "snapshot": "terms/OT1995/freeze/CHUNK4_OPENING_WORKSPACE/ledger.md",
+    "sha256": "4ede3a28a3478fa3299154ecf08072bb2296197831b8157a64138fc41aebf714",
+    "bytes": 30593
+  },
+  "terms/OT1995/workspace/manifest.md": {
+    "snapshot": "terms/OT1995/freeze/CHUNK4_OPENING_WORKSPACE/manifest.md",
+    "sha256": "388f44faca25887163cfbfecbc8e92019d638511f352e2dc3d9e2a11f2c679ef",
+    "bytes": 81818
+  },
+  "terms/OT1995/workspace/neutral-projection.md": {
+    "snapshot": "terms/OT1995/freeze/CHUNK4_OPENING_WORKSPACE/neutral-projection.md",
+    "sha256": "d89bf88bb8e812d11bbea9ca17d66bbdf275a1aa5cf58e65c644c648b0b2e075",
+    "bytes": 140297
+  },
+  "state/HOLDINGS.md": {
+    "sha256": "517d631f302e89647e69e7c31d25b9ca525cc16f9f9829583214d8b0ce0e7364",
+    "bytes": 2155544
+  },
+  "state/STANDARDS_AND_TESTS.md": {
+    "sha256": "63ac91ba699d81363221fc054f0b68e53be2689da214de4856f26e4820929034",
+    "bytes": 980737
+  },
+  "state/STANDING_STATE.md": {
+    "sha256": "48f40fea2569b425fabdf0cc1c06d1e344f61059f3a71f8c041f0a2f5d6bdadc",
+    "bytes": 33432
+  },
+  "foundation/ENGINE.md": {
+    "sha256": "a73489eb585c9024547e71860ee178694c84839ca10bc89eb0d7163603fb795a",
+    "bytes": 80251
+  },
+  "AGENTS.md": {
+    "sha256": "23a6af4aa0a2a9f78629485ae3a4e60c745fa278714947d8703658f1046d1fa7",
+    "bytes": 32401
+  }
+}
