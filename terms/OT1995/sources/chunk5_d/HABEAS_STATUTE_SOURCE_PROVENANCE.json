@@ -1,0 +1,37 @@
+{
+  "scope": "Bounded retained statutory source recovery only; no case-history sources.",
+  "sources": [
+    {
+      "section": "28 U.S.C. § 2243",
+      "edition": "1994 main edition",
+      "laws_in_effect_date": "1995-01-04",
+      "retained_text_path": "terms/OT1994/sources/oneal/1994-28usc2243.txt",
+      "retained_text_sha256": "f9bf28d3906d1aa349dc34c0c16b1817cd4b072474d85a902ad7551cfbe9e8d9",
+      "retained_html_path": "terms/OT1994/sources/oneal/1994-28usc2243.html",
+      "retained_html_sha256": "035d1bc16d536e3216b182d0b95976a5d728651fb7b57fb180ad41c48aee7720",
+      "official_source_identity": "Office of the Law Revision Counsel, U.S. House of Representatives",
+      "html_document_identifier": "28_2243",
+      "bounded_copy_path": "terms/OT1995/sources/chunk5_d/28usc2243_1994_official.txt",
+      "bounded_copy_sha256": "c0c679b78f01dc0264b91677bb64337aeee316130705416d4ec2bffb96f93442",
+      "extraction": "Exact retained edition-date sentence, blank line, then continuous text from section heading through final Historical and Revision Notes sentence inclusive; newlines normalized by text decoding; navigation and scripts outside these bounds omitted. No substantive text changes.",
+      "coverage": "Complete operative section, source credit, and Historical and Revision Notes present in retained 1994 source.",
+      "network_retrieval": "No new network retrieval performed for this recovery."
+    },
+    {
+      "section": "28 U.S.C. § 2251",
+      "edition": "1994 main edition",
+      "laws_in_effect_date": "1995-01-04",
+      "retained_text_path": "terms/OT1993/freeze/chunk8-sources/A/USC-28-2251-1994.txt",
+      "retained_text_sha256": "2eb4793de4608a294c1926cab5f6a5292094eba6f72d5344a3e1a9ae7c504868",
+      "retained_html_path": "terms/OT1993/freeze/chunk8-sources/A/USC-28-2251-1994.html",
+      "retained_html_sha256": "264d3cd9828fc76c4ff6d9a6c477e39baffabedfd8904d2ddc2c92dea562b13c",
+      "official_source_identity": "Office of the Law Revision Counsel, U.S. House of Representatives",
+      "html_document_identifier": "28_2251",
+      "bounded_copy_path": "terms/OT1995/sources/chunk5_d/28usc2251_1994_official.txt",
+      "bounded_copy_sha256": "040f08fd90153488bb2802abe3918dc75bbe946a9cabd5befbdd5eba5a4fda37",
+      "extraction": "Exact retained edition-date sentence, blank line, then continuous text from section heading through final Historical and Revision Notes sentence inclusive; newlines normalized by text decoding; navigation and scripts outside these bounds omitted. No substantive text changes.",
+      "coverage": "Complete operative section, source credit, and Historical and Revision Notes present in retained 1994 source.",
+      "network_retrieval": "No new network retrieval performed for this recovery."
+    }
+  ]
+}
