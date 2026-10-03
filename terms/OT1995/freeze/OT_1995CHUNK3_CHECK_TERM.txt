@@ -1,0 +1,30 @@
+Running reviewed check_term.py non-Git logic; commit-existence checks are explicitly deferred.
+WARNINGS
+ - terms\OT1995\records\American_Life_League_v_Reno_merits_1995-11-13.md: DEFERRED Git commit-existence check (user prohibition): A40386012
+ - terms\OT1995\records\American_Life_League_v_Reno_merits_1995-11-13.md: DEFERRED Git commit-existence check (user prohibition): 331aade
+ - terms\OT1995\records\Attwood_v_Singletary_filing_and_certiorari_1996-01-22.md: DEFERRED Git commit-existence check (user prohibition): A40385013
+ - terms\OT1995\records\A_St_P_C_v_B_C_merits_1995-11-20.md: DEFERRED Git commit-existence check (user prohibition): 331aade
+ - terms\OT1995\records\Bailey_and_Robinson_v_United_States_merits_1995-12-06.md: DEFERRED Git commit-existence check (user prohibition): A40385013
+ - terms\OT1995\records\Beadle_v_City_of_Tampa_merits_1996-02-05.md: DEFERRED Git commit-existence check (user prohibition): A40386012
+ - terms\OT1995\records\Behrens_v_Pelletier_merits_1996-02-21.md: DEFERRED Git commit-existence check (user prohibition): A40385013
+ - terms\OT1995\records\Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md: DEFERRED Git commit-existence check (user prohibition): 331aade
+ - terms\OT1995\records\Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md: DEFERRED Git commit-existence check (user prohibition): A40385013
+ - terms\OT1995\records\Doe_v_Taylor_ISD_merits_1995-10-16.md: DEFERRED Git commit-existence check (user prohibition): 331aade
+ - terms\OT1995\records\Field_v_Mans_merits_1995-11-28.md: DEFERRED Git commit-existence check (user prohibition): 331aade
+ - terms\OT1995\records\Field_v_Mans_merits_1995-11-28.md: DEFERRED Git commit-existence check (user prohibition): A40385013
+ - terms\OT1995\records\Hodge_v_Jones_merits_1995-10-23.md: DEFERRED Git commit-existence check (user prohibition): 331aade
+ - terms\OT1995\records\Libretti_v_United_States_merits_1995-11-07.md: DEFERRED Git commit-existence check (user prohibition): 331aade
+ - terms\OT1995\records\Libretti_v_United_States_merits_1995-11-07.md: DEFERRED Git commit-existence check (user prohibition): A40385013
+ - terms\OT1995\records\Locomotive_Engineers_v_Atchison_Topeka_and_Santa_Fe_Railroad_Co_merits_1996-01-08.md: DEFERRED Git commit-existence check (user prohibition): ec21103
+ - terms\OT1995\records\Louisiana_v_Mississippi_original_decree_1995-12-04.md: DEFERRED Git commit-existence check (user prohibition): 1000370934
+ - terms\OT1995\records\Louisiana_v_Mississippi_original_exceptions_1995-10-31.md: DEFERRED Git commit-existence check (user prohibition): 1000370934
+ - terms\OT1995\records\Louisiana_v_Mississippi_original_exceptions_1995-10-31.md: DEFERRED Git commit-existence check (user prohibition): 331aade
+ - terms\OT1995\records\NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md: DEFERRED Git commit-existence check (user prohibition): 331aade
+ - terms\OT1995\records\NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md: DEFERRED Git commit-existence check (user prohibition): A40385013
+ - terms\OT1995\records\Thompson_v_Keohane_merits_1995-11-29.md: DEFERRED Git commit-existence check (user prohibition): 331aade
+ - terms\OT1995\records\Thompson_v_Keohane_merits_1995-11-29.md: DEFERRED Git commit-existence check (user prohibition): A40385013
+ - terms\OT1995\records\Tuggle_v_Netherland_summary_merits_1995-10-30.md: DEFERRED Git commit-existence check (user prohibition): 331aade
+ - terms\OT1995\records\Tuggle_v_Netherland_summary_merits_1995-10-30.md: DEFERRED Git commit-existence check (user prohibition): A40385013
+ - terms\OT1995\records\Wood_v_Bartholomew_certiorari_1995-10-10.md: DEFERRED Git commit-existence check (user prohibition): 331aade
+ - terms\OT1995\records\Wood_v_Bartholomew_certiorari_1995-10-10.md: DEFERRED Git commit-existence check (user prohibition): A40385013
+PASS: OT1995 non-Git checks; Git commit-existence checks DEFERRED (27 reference(s)). Full repository validation is not certified.

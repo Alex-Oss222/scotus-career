@@ -1,0 +1,9 @@
+# Assignment baseline entering OT1995 chunk 3
+
+This assembly-only reading receipt applies Engine section 8. The preceding term's assignment statements were read through the bounded source-statement handoff, with the corrected prior-term accounting and the current term's actual assignment paragraphs. `OT_1995CHUNK3_ASSIGNMENT_HISTORY.md` retains those excerpts; Records control.
+
+OT1994 has 93 named Chief-assigned opinions, plus the unnamed Anderson v. Green per curiam. The named counts are Stone-Zsela 4, Stevens 11, O'Connor 14, Scalia 5, Kennedy 14, Souter 18, Thomas 6, Ginsburg 13 and Breyer 8. Stone v. INS was assigned by Stevens and is excluded from Chief assignments. No Justice exceeded half, so the consecutive-term concentration condition does not bar any author in OT1995. Fit and actual coalition compatibility still govern each assignment; workload is only a tie-breaker.
+
+The current Records through January 15 establish 19 named Chief assignments: Stone-Zsela 1; Stevens 1; O'Connor 6; Scalia 1; Kennedy 2; Souter 5; Thomas 1; Ginsburg 2; Breyer 0. Chunk 1 contributes eleven after the Wood correction and Tuggle completion. Chunk 2 adds Klinger (O'Connor), Things Remembered (Thomas), Bailey/Robinson (O'Connor), Good News (Souter), SCLC (Souter), Locomotive Engineers (Kennedy), Yamaha (O'Connor) and Allridge (Souter). Each multipart opinion counts once when the Chief assigned any part. American Life League's distinct RFRA writing is an Associate assignment. Lawrence and Stutson are unnamed per curiam dispositions; Louisiana's December decree adds no named opinion assignment. Wood is a grant, not a merits assignment.
+
+The earlier uncorrected `CHUNK1_ASSIGNMENT_REVIEW.md` includes superseded Wood authorship and is not the operative baseline. No historical authorship determines a new assignment. No Git provenance or commit-object check was performed; this receipt concerns the assignment statements in the available Records only.

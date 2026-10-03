@@ -1,0 +1,28 @@
+
+  
+    FIRST ILLINOIS BANK & TRUST, an Illinois Banking Corporation, Plaintiff-Appellee, v. MIDWEST BANK & TRUST COMPANY, an Illinois Banking Corporation, Defendant-Appellant.
+    No. 93-3251.
+    United States Court of Appeals, Seventh Circuit.
+    Argued April 13, 1994.
+    Decided July 11, 1994.
+    As Amended on Denial of Rehearing Sept. 20, 1994.
+    Jeffrey S. Blumenthal (argued), Jerold Jay Shapiro, Susan H. Mendelsohn, Kamm & Shapiro, Chicago, IL, for plaintiff-appellee.
+    Abraham J. Zenoff, Alan H. Zenoff, Zenoff & Zenoff, Robert G. Epsteen (argued), Bowles, Keating, Epstein, Hering & Lowe, Chicago, IL, for defendant-appellant.
+    Before CUMMINGS, EASTERBROOK and MANION, Circuit Judges.
+  
+  
+    CUMMINGS, Circuit Judge.
+    In April 1992 plaintiff First Illinois Bank & Trust (“First Illinois”) filed an amended complaint against Midwest Bank & Trust Company (“Midwest”) complaining that Midwest returned a $64,294.27 check unpaid and negligently failed to advise First Illinois that the check was NSF (Not Sufficient Funds). First Illinois claimed Midwest violated its duty under Regulation CC (12 CFR part 229) to give a reason for returning a check unpaid. 12 CFR §§ 229.30(d), 229.33(b)(8). Pursuant to 12 CFR § 229.38(a), First Illinois sought to recover damages resulting from Midwest’s alleged negligence. Subsequently Judge Kocoras granted First Illinois’ motion for summary judgment, simultaneously denied summary judgment to Midwest, and entered judgment for First Illinois for *65$43,912.06, the claimed amount of its loss. The district court found that Midwest had breached the standard of care imposed by Regulation CC by returning the check without advising First Illinois that the cheek was NSF. Midwest thereafter appealed from the judgment below.
+    At the April 13,1994, oral argument in this Court, we questioned whether the district court had jurisdiction over this controversy and ordered both parties to file memoranda concerning that question. We now hold that the district court had no such jurisdiction.
+    Jurisdiction is supposedly granted under the Expedited Funds Availability Act (12 U.S.C. §§ 4001-4010), in particular by 12 U.S.C. § 4010, titled “Civil liability.” Subsection (d) (“Jurisdiction”) provides that “any action under this section may be brought in any United States district court....” 12 U.S.C. § 4010(d). But subsection (a) (“Civil liability”) limits the application of the section to certain disputes between “any depository institution” and “any person other than another depository institution.” 12 U.S.C. § 4010(a). Because the parties concede that both First Illinois and Midwest Bank are “depository institutions” within the meaning of the Expedited Funds Availability Act, 12 U.S.C. § 4001(12), we have no jurisdiction over this dispute.
+    Disputes such as this, between members of the Federal Reserve System, are to be handled administratively before the Board of Governors of the Federal Reserve System pursuant to 12 U.S.C. § 4009(c)(1) (or perhaps in state court). This conclusion is bolstered by the provisions of 12 U.S.C. § 4010(f), which authorize the Federal Reserve Board to establish liability among “depository institutions” such as these parties. Although the Board of Governors has informed us that no mechanism is currently available for administrative resolution of such disputes, the Board’s differing interpretation of this statute cannot confer jurisdiction upon the Court.
+    The purpose of the Expedited Funds Availability Act is to require banks to make funds available to depositors quickly. Thus the depositors have rights, enforceable in court, while the banks have obligations, which the Federal Reserve Board may establish by regulation and enforce in administrative proceedings.
+    The judgment below is vacated and the action is remanded to the district court with instructions to dismiss it for want of jurisdiction.
+    ORDER
+    Sept. 20, 1994
+    The opinion dated July 11, 1994, is hereby amended by substituting the following paragraph for the last paragraph on page 65:
+    [Editor’s Note: Amendment incorporated for purpose of publication.]
+    On August 25, 1994, plaintiff-appellee filed a petition for rehearing with suggestion for rehearing en banc. On August 29, 1994, by leave of Court, the Board of Governors of the Federal Reserve System, the New York Clearing House Association and the Standard Bank and Trust Company filed briefs amici curiae in support of the petition for rehearing.
+    No judge in active service has requested a vote on the suggestion for rehearing en banc and all of the judges on the original panel have voted to deny a rehearing. Accordingly,
+    IT IS ORDERED that the petition for rehearing be, and the same is hereby, DENIED.
+  

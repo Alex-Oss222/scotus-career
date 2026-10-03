@@ -1,0 +1,74 @@
+{
+  "completed": [
+    {
+      "record": "Lotus_v_Borland_merits_1996-01-16.md",
+      "case": "Lotus Development Corp. v. Borland International, Inc., No. 94-2003; 516 U.S. 233.",
+      "date": "1996-01-16",
+      "result": "Vacated and remanded, 5–3; no majority substantive copyright rationale; Stevens does not participate."
+    },
+    {
+      "record": "Zicherman_v_Korean_Air_Lines_merits_1996-01-16.md",
+      "case": "Zicherman v. Korean Air Lines Co., Ltd.; Korean Air Lines Co., Ltd. v. Zicherman; Nos. 94-1361 and 94-1477; 516 U.S. 217.",
+      "date": "1996-01-16",
+      "result": "Affirmed in part, reversed in part, and remanded, 9–0: neither relative may recover loss-of-society damages."
+    },
+    {
+      "record": "Commissioner_v_Lundy_merits_1996-01-17.md",
+      "case": "Commissioner v. Lundy, No. 94-1785; 516 U.S. 235.",
+      "date": "1996-01-17",
+      "result": "Reversed and remanded, 7–2; Stevens and Thomas dissent."
+    },
+    {
+      "record": "Attwood_v_Singletary_filing_and_certiorari_1996-01-22.md",
+      "case": "Attwood v. Singletary, No. 95-6710; 516 U.S. 297.",
+      "date": "1996-01-22",
+      "result": "Financial leave granted; no new prospective filing condition; certiorari denied. No public poll is announced."
+    },
+    {
+      "record": "Neal_v_United_States_merits_1996-01-22.md",
+      "case": "Neal v. United States, No. 94-9088; 516 U.S. 284.",
+      "date": "1996-01-22",
+      "result": "Affirmed, 9–0."
+    },
+    {
+      "record": "Beadle_v_City_of_Tampa_merits_1996-02-05.md",
+      "case": "Beadle v. City of Tampa; Eleventh Circuit No. 93-3271; 42 F.3d 633; no separate Supreme Court docket assigned.",
+      "date": "1996-02-05",
+      "result": "Title VII accommodation judgment vacated and remanded, 8–1; Stone-Zsela dissents."
+    },
+    {
+      "record": "Sherman_v_Community_Consolidated_School_District_21_merits_1996-02-12.md",
+      "case": "Sherman v. Community Consolidated School District 21 of Wheeling Township; Seventh Circuit No. 91-1684; 980 F.2d 437. No Supreme Court docket supplied.",
+      "date": "1996-02-12",
+      "result": "School-program judgment affirmed, 8–1; separate Attorney General dismissal undisturbed, unanimously. Five join the contextual establishment framework; three join the concrete civic-acknowledgment ground without that framework."
+    },
+    {
+      "record": "United_States_v_Hale_merits_1996-02-12.md",
+      "case": "United States v. Hale; Eighth Circuit No. 91-3830; judgment below reported at 978 F.2d 1016; no Supreme Court docket supplied.",
+      "date": "1996-02-12",
+      "result": "Affirmed, 9–0, on each presented constitutional and evidentiary component. O'Connor writes the Court opinion; Stone-Zsela joins the commerce and limited Second Amendment portions and otherwise concurs in the judgment. Stone-Zsela files a separate concurrence."
+    },
+    {
+      "record": "Behrens_v_Pelletier_merits_1996-02-21.md",
+      "case": "Behrens v. Pelletier; No. 94-1244.",
+      "date": "1996-02-21",
+      "result": "Ninth Circuit categorical one-appeal jurisdictional dismissal reversed and remanded, 7–2; actual legal/factual jurisdictional sorting remains for that court. No immunity awarded."
+    },
+    {
+      "record": "Fulton_Corp_v_Faulkner_merits_1996-02-21.md",
+      "case": "Fulton Corp. v. Faulkner, No. 94-1239; 516 U.S. 325.",
+      "date": "1996-02-21",
+      "result": "Reversed and remanded, 9–0. Thomas writes the unanimous Opinion of the Court. The discriminatory intangibles tax fails the compensatory-tax defense; Darnell is overruled within the stated Commerce Clause scope. Severability and lawful tax relief remain for state proceedings."
+    }
+  ],
+  "source_records": [
+    "Telecommunications_Act_section_302_statutory_effectiveness_1996-02-08.md"
+  ],
+  "stopped": {
+    "Bank One Chicago, N.A. v. Midwest Bank & Trust Co.": "Renewed approval of Stone's express-remedy ground and disposition on the corrected statute and record: 12 U.S.C. §4010(a) expressly excludes another depository institution, while the supported interbank route is §4010(d) together with §4010(f); Stone's approved essential reasoning treats the claimant bank as a protected statutory person under the excluded customer-liability language. The return omitted the insufficient-funds reason; no late notice is established.",
+    "+ United States v. Bishop; United States v. Stokes": "A sufficient account of the suppression findings and objective booking context, together with the relevant recording or transcript, preserved video objections and rulings, and pertinent trial use, is needed to decide Stokes's booking statement and video claims and their effect on his judgment. The reported medical purpose alone does not settle Innis's objective interrogation inquiry; the statement that the video served good reasons does not identify the actual relevance/prejudice dispute. An adequate lower-court or party account may cure the gap; an original full transcript is not categorically required."
+  },
+  "prior_files_unchanged": 38,
+  "git": "not run; operator verification and commit deferred",
+  "render": "Render Input generated; public Render not requested"
+}

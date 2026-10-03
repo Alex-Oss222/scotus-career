@@ -1,0 +1,72 @@
+{
+  "scope": [
+    "Lundy",
+    "Hale",
+    "Fulton"
+  ],
+  "excluded": [
+    "Sherman",
+    "Behrens"
+  ],
+  "mode": "isolated-context historical reconciliation with disclosed Sherman comparator exposure; Sherman excluded",
+  "freeze": "filesystem only; no Git commands or subprocesses",
+  "reconciled_sha256": "d3417d85d02133e2beb8364838332ad50b755245c51988f95f4b9474cc063c09",
+  "runtime_identical": true,
+  "input_sha256": {
+    "freeze/OT_1995CHUNK3_C_COMMITMENTS.md": "a47bbb4d372f794b23c4e0bbeeab68fba19a6a07cee149186a1409d4e13202a7",
+    "freeze/OT_1995CHUNK3_LUNDY_COMMITMENTS.md": "b91249eb3c55cd54fec4c73dd8bc62d9153b31c6a88614d0bac57125c422e20a",
+    "freeze/OT_1995CHUNK3_C_NEUTRAL_ADDENDUM.md": "dd095c6c93bedefb0142477fdb4fb53fbb9a172f0b14ba8c94d3a069b9ad52aa",
+    "freeze/OT_1995CHUNK3_LUNDY_NEUTRAL_FACT_PATCH.md": "e94a14b8afdf18d9e16735d0ab4f4c279cb574d76348d890cc27f0923dee4d29",
+    "freeze/OT_1995CHUNK3_C_COMPARATOR_INPUT.md": "b6f1104a9a23a07d267902dba3f5d6e7c3caf868e0125e582212d24885226a15",
+    "freeze/OT_1995CHUNK3_A_NEUTRAL.md": "4ae3e26a0d54d6ca4e8d9bee6059400cb3ae8f4bfcfa389e883b539a142e0c9a",
+    "freeze/OT_1995CHUNK3_C_NEUTRAL.md": "f101138a6c4e33fd3d2fe18d9e0550cfd7255654eaa96a881229845c55fd0dce"
+  },
+  "coalitions": {
+    "Lundy": {
+      "reverse": [
+        "OConnor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "affirm": [
+        "Stevens",
+        "Thomas"
+      ]
+    },
+    "Hale": {
+      "affirm": [
+        "Stevens",
+        "OConnor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    "Fulton": {
+      "reverse_remand": [
+        "Stevens",
+        "OConnor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ]
+    }
+  },
+  "all_associate_counts": 8,
+  "retained_historical_departures": [],
+  "source_checks": {
+    "Lundy": "official PDF all 29 pages/all three writings/footnotes plus Cornell",
+    "Fulton": "official PDF all 24 pages/both writings/footnotes plus Cornell",
+    "Hale": "complete archived lower opinion including concurrence/footnotes, cross-checked OpenJurist"
+  },
+  "boundaries": "No current Stone supplement or combined brief opened. Forbidden cue in Sherman comparator caused immediate exclusion; no Sherman determination."
+}

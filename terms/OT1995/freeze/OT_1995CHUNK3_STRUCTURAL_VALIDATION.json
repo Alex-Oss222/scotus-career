@@ -1,0 +1,57 @@
+{
+  "protected_unchanged": 38,
+  "new_court_records": 10,
+  "new_source_records": 1,
+  "matching_freeze_runtime_pairs": 23,
+  "controlling_explanation_word_counts": {
+    "Lotus_v_Borland_merits_1996-01-16.md": [],
+    "Zicherman_v_Korean_Air_Lines_merits_1996-01-16.md": [
+      161,
+      182
+    ],
+    "Commissioner_v_Lundy_merits_1996-01-17.md": [
+      275
+    ],
+    "Attwood_v_Singletary_filing_and_certiorari_1996-01-22.md": [
+      126,
+      105
+    ],
+    "Neal_v_United_States_merits_1996-01-22.md": [
+      236
+    ],
+    "Beadle_v_City_of_Tampa_merits_1996-02-05.md": [
+      167,
+      226
+    ],
+    "Sherman_v_Community_Consolidated_School_District_21_merits_1996-02-12.md": [
+      222,
+      196,
+      73
+    ],
+    "United_States_v_Hale_merits_1996-02-12.md": [
+      135,
+      117,
+      108,
+      108,
+      117
+    ],
+    "Behrens_v_Pelletier_merits_1996-02-21.md": [
+      213,
+      168,
+      133
+    ],
+    "Fulton_Corp_v_Faulkner_merits_1996-02-21.md": [
+      122,
+      125,
+      124,
+      113,
+      131
+    ],
+    "Telecommunications_Act_section_302_statutory_effectiveness_1996-02-08.md": []
+  },
+  "public_contextual_words_reviewed": [
+    "Behrens disputed factual version",
+    "Fulton precedent cannot be reconciled with later doctrine"
+  ],
+  "errors": []
+}
