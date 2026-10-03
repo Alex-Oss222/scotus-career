@@ -1,7 +1,7 @@
 **Case and dockets:** Telecommunications Act of 1996, Public Law 104-104, section 302(b); no Court docket.
 **Event and date:** Admitted statutory source; enactment and effectiveness 1996-02-08.
 **Result:** Section 613(b) of the Communications Act, 47 U.S.C. §533(b), is repealed. The specified video-dialtone regulations cease to be effective, with an express protection against construing that termination to require closing previously approved systems. No Court action occurs.
-**Version / lineage:** Initial Admitted Source Record during chunk 3, preserved before assembly of the first supplied Court event after February 8. No earlier adjudication is changed. Git verification and commitment are deferred to the operator under the express no-Git instruction.
+**Version / lineage:** October 2, 2026 authorized entering-law note update after Love completion; operative substance and Public Projection unchanged. Prior lineage: Initial Admitted Source Record during chunk 3, preserved before assembly of the first supplied Court event after February 8. No earlier adjudication is changed. Git verification and commitment are deferred to the operator under the express no-Git instruction.
 
 ## Authority and exact operative provisions
 
@@ -30,6 +30,14 @@ The February 27 Chesapeake & Potomac/Bell Atlantic matter must receive this enac
 ## Research cutoff and validation
 
 The legal cutoff is February 8, 1996. The full official sections 302 and 601 were read, including each subsection, exception and transition provision, together with the enactment identification. A text reading copy is preserved at `tmp/ot1995-chunk3/PLAW-104publ104.txt`; the official durable source is linked above. Only the specified enacted change is applied here. Git object verification and commitment were not performed. The source is available to fresh continuation contexts before dependent assembly; no Court holding is created.
+
+## Entering-law reconciliation after Love completion
+
+Love v. Pepersack was completed in this later authorized pass in its existing December 11, 1995 event slot. The original modeling and frozen handoffs for this event did not include that completed Record. Love is now part of the law effective before this event; the original exposure descriptions and frozen handoffs remain historical snapshots and are not rewritten as contemporaneous consideration of Love.
+
+**Case-specific comparison:** Objective enactment, repeal and savings terms do not depend on the disposition of Love. Love neither prevents admission of the legislative event nor decides a pending telephone-cable case's mootness or remedy. The later Chesapeake/Bell Atlantic source dependency survives unchanged.
+
+The subsequent [later-event dependence review](../freeze/OT_1995CHUNK2_LOVE_LATER_DEPENDENCE.md) found no material effect on this event's result, adopted reasoning, precedent treatment, remedy, participation or material published-position continuity. This note changes no operative substance, authorship, vote, date, source text or Public Projection. Hale's separately identified reasoning dependency is not cleared by this note.
 
 ## Public Projection
 

@@ -1,7 +1,7 @@
 **Case and dockets:** Commissioner v. Lundy, No. 94-1785; 516 U.S. 235.
 **Event and date:** Argued merits decision; 1996-01-17; October Term 1995.
 **Result:** Reversed and remanded, 7–2; Stevens and Thomas dissent.
-**Version / lineage:** Initial Canonical Decision Record; supersedes no adjudication. Filesystem preservation only; no Git verification or repository commit is claimed.
+**Version / lineage:** October 2, 2026 authorized entering-law note update after Love completion; operative substance and Public Projection unchanged. Prior lineage: Initial Canonical Decision Record; supersedes no adjudication. Filesystem preservation only; no Git verification or repository commit is claimed.
 
 ## Decision kernel and source boundary
 
@@ -35,6 +35,16 @@ No historical departure remains. Thomas and Breyer's original frozen rows remain
 ## Continuity and validation
 
 The Holdings block below is the controlling-holding section. The dissent's construction remains noncontrolling and is preserved in Separate Writings. Vote arithmetic is seven reverse and two affirm, with matching joins. The mandate leaves ordinary remaining computations subject to the refund limit; it grants no fixed amount and imposes no new hearing. The file is durable and ready for coordinated projection and validation, with Git verification and commitment deferred.
+
+## Entering-law reconciliation after Love completion
+
+Love v. Pepersack was completed in this later authorized pass in its existing December 11, 1995 event slot. The original modeling and frozen handoffs for this event did not include that completed Record. Love is now part of the law effective before this event; the original exposure descriptions and frozen handoffs remain historical snapshots and are not rewritten as contemporaneous consideration of Love.
+
+**Case-specific comparison:** Love's distinction between state-law entitlement and substantive federal wrong does not alter the federal Tax Court statute. Its fractured executive-action analysis neither changes §6512's notice-date hypothetical nor supplies a new refund due-process rule. Dalm, Williams and Reich retain their different functions; Thomas/Stevens's statutory dissent is unaffected.
+
+The subsequent [later-event dependence review](../freeze/OT_1995CHUNK2_LOVE_LATER_DEPENDENCE.md) found no material effect on this event's result, adopted reasoning, precedent treatment, remedy, participation or material published-position continuity. This note changes no operative substance, authorship, vote, date, source text or Public Projection. Hale's separately identified reasoning dependency is not cleared by this note.
+
+**Assignment accounting:** Love adds one named Chief assignment to O'Connor. The original assignment baseline describes the exposure then available; the added assignment does not alter the preceding-term absence of a majority concentration, create a current recipient above half, or change this event's stated case-specific assignment grounds. No later author or join is changed.
 
 ## Public Projection
 

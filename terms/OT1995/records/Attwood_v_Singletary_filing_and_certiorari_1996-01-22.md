@@ -1,7 +1,7 @@
 **Case and dockets:** Attwood v. Singletary, No. 95-6710; 516 U.S. 297.
 **Event and date:** Financial-leave and filing-control order, with disposition of the present petition; 1996-01-22; October Term 1995.
 **Result:** Financial leave granted; no new prospective filing condition; certiorari denied. No public poll is announced.
-**Version / lineage:** Initial Canonical Decision Record; supersedes no adjudication. Filesystem preservation only; no Git verification or repository commit is claimed.
+**Version / lineage:** October 2, 2026 authorized entering-law note update after Love completion; operative substance and Public Projection unchanged. Prior lineage: Initial Canonical Decision Record; supersedes no adjudication. Filesystem preservation only; no Git verification or repository commit is claimed.
 
 ## Decision kernel and verified record
 
@@ -62,6 +62,16 @@ Stevens's historical opposition to the restriction aligns directionally with the
 ## Continuity and validation
 
 The Holdings block is the controlling-holding section for filing administration only. It has eight direct opinion joins; Stone's broader proposed constitutional rule remains noncontrolling. Certiorari denial creates no merits precedent. No new prospective condition, deadline, warning, counsel appointment, Florida-order invalidation, custody relief, or mistreatment finding issues. The present petition is terminally disposed of, with ordinary rules governing any different later filing. Filesystem preservation is complete; repository verification and commit are deferred.
+
+## Entering-law reconciliation after Love completion
+
+Love v. Pepersack was completed in this later authorized pass in its existing December 11, 1995 event slot. The original modeling and frozen handoffs for this event did not include that completed Record. Love is now part of the law effective before this event; the original exposure descriptions and frozen handoffs remain historical snapshots and are not rewritten as contemporaneous consideration of Love.
+
+**Case-specific comparison:** Love's alleged permit wrongdoing establishes no general access-to-courts holding; its personal arms incorporation supplies no new right to fee-free filings or certiorari. Martin/Day/Sassower/Anderson still require their current-submission and prospective-control predicates. The certiorari denial decides no underlying access claim, so Love's fractured due-process positions resolve none.
+
+The subsequent [later-event dependence review](../freeze/OT_1995CHUNK2_LOVE_LATER_DEPENDENCE.md) found no material effect on this event's result, adopted reasoning, precedent treatment, remedy, participation or material published-position continuity. This note changes no operative substance, authorship, vote, date, source text or Public Projection. Hale's separately identified reasoning dependency is not cleared by this note.
+
+**Assignment accounting:** Love adds one named Chief assignment to O'Connor. The original assignment baseline describes the exposure then available; the added assignment does not alter the preceding-term absence of a majority concentration, create a current recipient above half, or change this event's stated case-specific assignment grounds. No later author or join is changed.
 
 ## Public Projection
 

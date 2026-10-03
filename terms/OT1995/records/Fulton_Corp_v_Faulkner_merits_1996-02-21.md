@@ -1,7 +1,7 @@
 **Case and dockets:** Fulton Corp. v. Faulkner, No. 94-1239; 516 U.S. 325.
 **Event and date:** Merits decision, 1996-02-21; argued October 31, 1995; October Term 1995, chunk 3.
 **Result:** Reversed and remanded, 9–0. Thomas writes the unanimous Opinion of the Court. The discriminatory intangibles tax fails the compensatory-tax defense; Darnell is overruled within the stated Commerce Clause scope. Severability and lawful tax relief remain for state proceedings.
-**Version / lineage:** Initial Canonical Decision Record, assembled from filesystem-frozen neutral, commitment, reconciliation and approved-position handoffs on October 2, 2026; supersedes no completed adjudication. No Git operation or repository commit is claimed.
+**Version / lineage:** October 2, 2026 authorized entering-law note update after Love completion; operative substance and Public Projection unchanged. Prior lineage: Initial Canonical Decision Record, assembled from filesystem-frozen neutral, commitment, reconciliation and approved-position handoffs on October 2, 2026; supersedes no completed adjudication. No Git operation or repository commit is claimed.
 
 ## Decision kernel and source boundary
 
@@ -69,6 +69,16 @@ Every judgment and holding has the same nine-person coalition: Stone-Zsela, Stev
 The state courts must decide severability and proper tax relief; no refund amount, deduction extension, new retroactive assessment, fee award or tax on a nonparty is ordered. McKesson's backward-looking correction applies when payment preceded a meaningful opportunity to contest the levy; Reich separately bars withdrawal of a clearly held-out postpayment route after collection. Reasonable previously announced requirements and lawful prospective changes remain possible. These conditions do not decide their own factual satisfaction for every claimant.
 
 The full state opinion supplies facts and posture; the primary Darnell text supplies its actual scope and date; the complete comparator verification is retained internally in reconciliation. Assembly checked counts, final joins, the rate correction, limited overruling and complete remedy qualifications against the frozen inputs. Chunk-wide deterministic tooling and Current Term State projection remain for the operator. The durable location is this Record; filesystem creation is not represented as a repository commit. No unresolved substantive blocker remains.
+
+## Entering-law reconciliation after Love completion
+
+Love v. Pepersack was completed in this later authorized pass in its existing December 11, 1995 event slot. The original modeling and frozen handoffs for this event did not include that completed Record. Love is now part of the law effective before this event; the original exposure descriptions and frozen handoffs remain historical snapshots and are not rewritten as contemporaneous consideration of Love.
+
+**Case-specific comparison:** Love's personal arms incorporation and fractured substantive-due-process application do not change Oregon Waste/Associated Industries, equivalent-tax-event analysis or the independent inadequate-burden proof. Love's narrow constitutional overruling does not undo Fulton's explicit reason for displacing Darnell. McKesson/Reich's tax-specific backward-looking and held-out-remedy requirements do not rest on a supposed general state-correction cure rejected in Love.
+
+The subsequent [later-event dependence review](../freeze/OT_1995CHUNK2_LOVE_LATER_DEPENDENCE.md) found no material effect on this event's result, adopted reasoning, precedent treatment, remedy, participation or material published-position continuity. This note changes no operative substance, authorship, vote, date, source text or Public Projection. Hale's separately identified reasoning dependency is not cleared by this note.
+
+**Assignment accounting:** Love adds one named Chief assignment to O'Connor. The original assignment baseline describes the exposure then available; the added assignment does not alter the preceding-term absence of a majority concentration, create a current recipient above half, or change this event's stated case-specific assignment grounds. No later author or join is changed.
 
 ## Public Projection
 

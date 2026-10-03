@@ -1,7 +1,7 @@
 **Case and dockets:** Behrens v. Pelletier; No. 94-1244.
 **Event and date:** Merits decision, 1996-02-21; argued 1995-11-07; October Term 1995, chunk 3.
 **Result:** Ninth Circuit categorical one-appeal jurisdictional dismissal reversed and remanded, 7–2; actual legal/factual jurisdictional sorting remains for that court. No immunity awarded.
-**Version / lineage:** Initial Canonical Decision Record; supersedes no completed adjudication. The frozen §8 circulation audit changes six provisional remedy formulations to bounded reversal, as stated below. Filesystem preservation under the user's no-Git instruction; no Git commit or hash is claimed.
+**Version / lineage:** October 2, 2026 authorized entering-law note update after Love completion; operative substance and Public Projection unchanged. Prior lineage: Initial Canonical Decision Record; supersedes no completed adjudication. The frozen §8 circulation audit changes six provisional remedy formulations to bounded reversal, as stated below. Filesystem preservation under the user's no-Git instruction; no Git commit or hash is claimed.
 
 ## Decision kernel and entering law
 
@@ -65,6 +65,16 @@ Breyer's published concurrence in part and dissent in part, joined by Stevens, i
 The historical official report at 516 U.S. 299, pp. 299–324, and the Cornell syllabus, majority and dissent were read in the separate reconciliation context solely as comparator evidence. Post-divergence historical decisions are not entering law. Source-to-fact mapping is retained in BEHRENS_NEUTRAL_ADDENDUM: petition Appendix 1a supplies the appellate dismissal; 2a–7a the reinstatement and summary-judgment denial; 8a–9a the District Court's one-appeal certification; and 10a–33a the first appellate disposition. The petitioner's, respondent's and Government's characterizations remain arguments where disputed. The formal-remedy audit introduced no new fact or authority.
 
 Assembly checked judgment arithmetic, proposition joins, exact Stone disposition, the eleven public blocks and the separation of legal jurisdiction from factual truth and immunity. Whole-term validation and generated Render Input identity remain the operator's coordinated task. The Record is preserved in the current-term filesystem; no state tracker or public output is changed by this assembly. No substantive blocker remains for this bounded decision. Git commits and provenance verification are unperformed under the user's express prohibition.
+
+## Entering-law reconciliation after Love completion
+
+Love v. Pepersack was completed in this later authorized pass in its existing December 11, 1995 event slot. The original modeling and frozen handoffs for this event did not include that completed Record. Love is now part of the law effective before this event; the original exposure descriptions and frozen handoffs remain historical snapshots and are not rewritten as contemporaneous consideration of Love.
+
+**Case-specific comparison:** Love leaves the immunity framework, conduct-date notice and proper presentation intact. It does not decide successive appeals, cumulative collateral-order conditions, assumed facts or the surviving-claim rule. No substantive entitlement or immunity is decided in Behrens. The detailed comparison above clears its opinion and dissent, not only its decree.
+
+The subsequent [later-event dependence review](../freeze/OT_1995CHUNK2_LOVE_LATER_DEPENDENCE.md) found no material effect on this event's result, adopted reasoning, precedent treatment, remedy, participation or material published-position continuity. This note changes no operative substance, authorship, vote, date, source text or Public Projection. Hale's separately identified reasoning dependency is not cleared by this note.
+
+**Assignment accounting:** Love adds one named Chief assignment to O'Connor. The original assignment baseline describes the exposure then available; the added assignment does not alter the preceding-term absence of a majority concentration, create a current recipient above half, or change this event's stated case-specific assignment grounds. No later author or join is changed.
 
 ## Public Projection
 

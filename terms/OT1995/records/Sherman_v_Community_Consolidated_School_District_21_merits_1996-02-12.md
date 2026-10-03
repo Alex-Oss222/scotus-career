@@ -1,7 +1,7 @@
 **Case and dockets:** Sherman v. Community Consolidated School District 21 of Wheeling Township; Seventh Circuit No. 91-1684; 980 F.2d 437. No Supreme Court docket supplied.
 **Event and date:** Merits decision, 1996-02-12; October Term 1995, chunk 3.
 **Result:** School-program judgment affirmed, 8–1; separate Attorney General dismissal undisturbed, unanimously. Five join the contextual establishment framework; three join the concrete civic-acknowledgment ground without that framework.
-**Version / lineage:** Initial Canonical Decision Record; supersedes no completed adjudication. Filesystem preservation under the user's no-Git instruction; no Git commit or hash is claimed.
+**Version / lineage:** October 2, 2026 authorized entering-law note update after Love completion; operative substance and Public Projection unchanged. Prior lineage: Initial Canonical Decision Record; supersedes no completed adjudication. Filesystem preservation under the user's no-Git instruction; no Git commit or hash is claimed.
 
 ## Decision kernel and entering law
 
@@ -57,6 +57,16 @@ The material noncontrolling positions retained for future modeling are Kennedy's
 **Research cutoff:** February 12, 1996. The authentic lower opinion, including concurrence and footnotes, was read in reconciliation at the Caselaw Access Project and cross-checked at OpenJurist. These primary texts supply record facts and lower posture; the frozen source audit records the full reading. The source quotations concerning “under God” identify the words actually challenged. The legal content of post-divergence decisions comes only from the supplied actual public-law extracts, not historical text discussed below. The assigned date is a bounded scheduling premise. Assembly adds no new fact or research conclusion.
 
 Sources: [Seventh Circuit complete opinion](https://static.case.law/f2d/980/html/0437-01.html); [OpenJurist primary-text cross-check](https://openjurist.org/980/f2d/437); the frozen neutral, reconciliation and Stone handoffs identified above; and the applicable entering-law selections and actual Good News public projection. Exact public block order, coalition arithmetic and distinct framework joins were checked in assembly. Whole-term consistency and generated Render Input checks remain the operator's coordinated step. This Record is written to the current-term filesystem; no state tracker or output file is changed by this assembly. No substantive blocker remains. Git provenance verification and commits are deliberately unperformed under the user's express prohibition.
+
+## Entering-law reconciliation after Love completion
+
+Love v. Pepersack was completed in this later authorized pass in its existing December 11, 1995 event slot. The original modeling and frozen handoffs for this event did not include that completed Record. Love is now part of the law effective before this event; the original exposure descriptions and frozen handoffs remain historical snapshots and are not rewritten as contemporaneous consideration of Love.
+
+**Case-specific comparison:** Love incorporates the arms guarantee only; it does not overrule Lemon, Lee, Barnette, Engel or Schempp or announce incorporation of every provision. Its liberty analysis does not classify the Pledge as worship. The five-vote contextual and eight-vote civic rules, methodological concurrence, Stone dissent and undisturbed Attorney General dismissal therefore remain.
+
+The subsequent [later-event dependence review](../freeze/OT_1995CHUNK2_LOVE_LATER_DEPENDENCE.md) found no material effect on this event's result, adopted reasoning, precedent treatment, remedy, participation or material published-position continuity. This note changes no operative substance, authorship, vote, date, source text or Public Projection. Hale's separately identified reasoning dependency is not cleared by this note.
+
+**Assignment accounting:** Love adds one named Chief assignment to O'Connor. The original assignment baseline describes the exposure then available; the added assignment does not alter the preceding-term absence of a majority concentration, create a current recipient above half, or change this event's stated case-specific assignment grounds. No later author or join is changed.
 
 ## Public Projection
 

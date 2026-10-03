@@ -1,7 +1,7 @@
 **Case and dockets:** Lotus Development Corp. v. Borland International, Inc., No. 94-2003; 516 U.S. 233.
 **Event and date:** Argued merits decision; 1996-01-16; October Term 1995.
 **Result:** Vacated and remanded, 5–3; no majority substantive copyright rationale; Stevens does not participate.
-**Version / lineage:** Initial Canonical Decision Record; supersedes no adjudication. Filesystem preservation only; no Git verification or repository commit is claimed.
+**Version / lineage:** October 2, 2026 authorized entering-law note update after Love completion; operative substance and Public Projection unchanged. Prior lineage: Initial Canonical Decision Record; supersedes no adjudication. Filesystem preservation only; no Git verification or repository commit is claimed.
 
 ## Decision kernel and source boundary
 
@@ -46,6 +46,16 @@ The formal remedy change for the four X Justices is material and was sent to a s
 For each implementation: vacatur five, affirmance three, Stevens nonparticipating. X has four votes, E three, and Stone's distinct defense-focused rationale one. No Marks rule is available: the X rationale requires rejection of categorical exclusion, while Stone leaves that statutory issue open and proceeds through unresolved defenses. Neither is a logical subset of the other that five actually adopt. The common decree binds the parties but creates no general substantive rule of copyrightability or fair use.
 
 The bounded Holdings block below states the judgment's operative effect; the substantive plurality, concurrence, and dissent are separately attributed and remain noncontrolling. No liability or infringement finding is added. The return to the First Circuit is the next stage; no further Supreme Court event is scheduled. Repository verification and commitment are deferred.
+
+## Entering-law reconciliation after Love completion
+
+Love v. Pepersack was completed in this later authorized pass in its existing December 11, 1995 event slot. The original modeling and frozen handoffs for this event did not include that completed Record. Love is now part of the law effective before this event; the original exposure descriptions and frozen handoffs remain historical snapshots and are not rewritten as contemporaneous consideration of Love.
+
+**Case-specific comparison:** Love's no-common-due-process-rationale analysis applies Marks without changing its logic. It cannot make the four-vote copyrightability rationale and Stone's different fair-use rationale logical subsets. Baker, Feist, Campbell and the common bounded decree remain unchanged; the nonparticipation and all three separate statutory positions retain their scope.
+
+The subsequent [later-event dependence review](../freeze/OT_1995CHUNK2_LOVE_LATER_DEPENDENCE.md) found no material effect on this event's result, adopted reasoning, precedent treatment, remedy, participation or material published-position continuity. This note changes no operative substance, authorship, vote, date, source text or Public Projection. Hale's separately identified reasoning dependency is not cleared by this note.
+
+**Assignment accounting:** Love adds one named Chief assignment to O'Connor. The original assignment baseline describes the exposure then available; the added assignment does not alter the preceding-term absence of a majority concentration, create a current recipient above half, or change this event's stated case-specific assignment grounds. No later author or join is changed.
 
 ## Public Projection
 

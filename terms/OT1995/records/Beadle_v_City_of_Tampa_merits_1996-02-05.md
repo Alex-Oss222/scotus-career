@@ -1,7 +1,7 @@
 **Case and dockets:** Beadle v. City of Tampa; Eleventh Circuit No. 93-3271; 42 F.3d 633; no separate Supreme Court docket assigned.
 **Event and date:** Expressly assigned merits decision; 1996-02-05; October Term 1995.
 **Result:** Title VII accommodation judgment vacated and remanded, 8–1; Stone-Zsela dissents.
-**Version / lineage:** Initial Canonical Decision Record; supersedes no adjudication. Filesystem preservation only; no Git verification or repository commit is claimed.
+**Version / lineage:** October 2, 2026 authorized entering-law note update after Love completion; operative substance and Public Projection unchanged. Prior lineage: Initial Canonical Decision Record; supersedes no adjudication. Filesystem preservation only; no Git verification or repository commit is claimed.
 
 ## Decision kernel and source boundary
 
@@ -37,6 +37,16 @@ There is no historical Supreme Court merits lineup for this assigned review. The
 ## Continuity and validation
 
 The Holdings block below is the controlling-holding section. Eight direct joins support both holdings and the bounded remedy; Stone's contrary application remains noncontrolling. No accommodation entitlement, factual feasibility finding, damages award, new trial, or invalidation of the release determination is entered. The case returns through the Eleventh Circuit for ordinary necessary proceedings. No further Supreme Court event is scheduled. Repository verification and commit remain deferred to the operator.
+
+## Entering-law reconciliation after Love completion
+
+Love v. Pepersack was completed in this later authorized pass in its existing December 11, 1995 event slot. The original modeling and frozen handoffs for this event did not include that completed Record. Love is now part of the law effective before this event; the original exposure descriptions and frozen handoffs remain historical snapshots and are not rewritten as contemporaneous consideration of Love.
+
+**Case-specific comparison:** The Title VII accommodation obligation is an enacted federal duty independent of Love's state-law/federal-wrong distinction. Love does not alter Hardison's then-operative threshold, Ansonia's sufficient-accommodation rule or the one-trainer/multiple-trainer evidentiary mismatch. Its personal-arms decision creates no new religious test. The majority's remand and Stone's actual-burden dissent remain supportable as written.
+
+The subsequent [later-event dependence review](../freeze/OT_1995CHUNK2_LOVE_LATER_DEPENDENCE.md) found no material effect on this event's result, adopted reasoning, precedent treatment, remedy, participation or material published-position continuity. This note changes no operative substance, authorship, vote, date, source text or Public Projection. Hale's separately identified reasoning dependency is not cleared by this note.
+
+**Assignment accounting:** Love adds one named Chief assignment to O'Connor. The original assignment baseline describes the exposure then available; the added assignment does not alter the preceding-term absence of a majority concentration, create a current recipient above half, or change this event's stated case-specific assignment grounds. No later author or join is changed.
 
 ## Public Projection
 

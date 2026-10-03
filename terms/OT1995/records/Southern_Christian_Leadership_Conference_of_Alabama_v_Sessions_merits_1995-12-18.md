@@ -1,7 +1,7 @@
 **Case and dockets:** Southern Christian Leadership Conference of Alabama v. Sessions; 56 F.3d 1281; source petition identifier No. 95-647; no separate Supreme Court docket assigned.
 **Event and date:** Merits decision, OT1995, 1995-12-18.
 **Result:** Eleventh Circuit judgment vacated and remanded, 5–4; no present finding of Section 2 liability or electoral restructuring.
-**Version / lineage:** Initial decision in this matter; supersedes no completed adjudication. Prepared October 2, 2026 from the approved Stone supplement and preserved neutral and reconciled handoffs. Operator validation and repository commitment remain pending; no Git verification is claimed.
+**Version / lineage:** October 2, 2026 authorized entering-law note update after Love completion; operative substance and Public Projection unchanged. Prior lineage: Initial decision in this matter; supersedes no completed adjudication. Prepared October 2, 2026 from the approved Stone supplement and preserved neutral and reconciled handoffs. Operator validation and repository commitment remain pending; no Git verification is claimed.
 
 ## Event, authority and entering law
 
@@ -141,6 +141,16 @@ Fit favors Souter: his own De Grandy opinion supplies the closest demonstrated w
 The bounded source assignment statements and corrected prior-term baseline show that no Justice exceeded half of the Chief's OT1994 assignments (93 named assignments, largest share Souter 18, plus one unnamed per curiam). The two-term concentration restriction is therefore inapplicable. This adds one Chief assignment to Souter after Good News; the operator coordinates intervening and same-day current-term assignments separately. Assignment counting creates no substantive dependency.
 
 Final compatibility: Stevens, Souter, Ginsburg and Breyer join the complete Court opinion within their unchanged reconciled remand commitments, including the need to correct the independent opportunity ground before reaching remedy. Stone's approved core supports the same complete opinion. O'Connor and Kennedy preserve their competing reading of the tried record and join only their own failure-of-proof dissent. Thomas and Scalia preserve noncoverage and join only that dissent. No new factual conclusion or cure of a recorded objection is invented. The original non-Stone commitments remain unchanged; a renewed reconciliation audit is unnecessary. There is no historical Supreme Court merits lineup for this assigned review, and no historical merits departure or fictional authorship is imported.
+
+## Entering-law reconciliation after Love completion
+
+Love v. Pepersack was completed in this later authorized pass in its existing December 11, 1995 event slot. The original modeling and frozen handoffs for this event did not include that completed Record. Love is now part of the law effective before this event; the original exposure descriptions and frozen handoffs remain historical snapshots and are not rewritten as contemporaneous consideration of Love.
+
+**Case-specific comparison:** Its §2 judicial-election coverage, Gingles causation, Holder comparison/remedy, De Grandy opportunity inquiry and actual Shaw/Miller territorial-design rules are unchanged. Love's arms incorporation is not a new §2 injury requirement; its due-process application is fractured and supplies no substitute voting test. The correction of both independent lower grounds, preserved facts, separate noncoverage dissent and failure-of-proof dissent remain coherent.
+
+The subsequent [later-event dependence review](../freeze/OT_1995CHUNK2_LOVE_LATER_DEPENDENCE.md) found no material effect on this event's result, adopted reasoning, precedent treatment, remedy, participation or material published-position continuity. This note changes no operative substance, authorship, vote, date, source text or Public Projection. Hale's separately identified reasoning dependency is not cleared by this note.
+
+**Assignment accounting:** Love adds one named Chief assignment to O'Connor. The original assignment baseline describes the exposure then available; the added assignment does not alter the preceding-term absence of a majority concentration, create a current recipient above half, or change this event's stated case-specific assignment grounds. No later author or join is changed.
 
 ## Public Projection
 

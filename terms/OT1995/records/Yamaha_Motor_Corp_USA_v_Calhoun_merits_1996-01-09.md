@@ -1,7 +1,7 @@
 **Case and dockets:** Yamaha Motor Corp., U.S.A. v. Calhoun, No. 94-1387; 516 U.S. 199
 **Event and date:** Argued merits decision; 1996-01-09; October Term 1995.
 **Result:** Affirmed, 9–0; §1292(b) rationale eight Justices, maritime-remedy rationale nine.
-**Version / lineage:** Initial Canonical Decision Record; supersedes no adjudication. Durable file preservation only; no Git verification or repository commit is claimed.
+**Version / lineage:** October 2, 2026 authorized entering-law note update after Love completion; operative substance and Public Projection unchanged. Prior lineage: Initial Canonical Decision Record; supersedes no adjudication. Durable file preservation only; no Git verification or repository commit is claimed.
 
 ## Decision kernel and source boundary
 
@@ -47,6 +47,16 @@ Each Associate joins both holdings; Stone joins only the remedy holding and judg
 This event changes law and procedure only at its stated effective date. The Public Projection's Law After Decision, Separate Writings, and Procedure After Action supply the exact controlling, published noncontrolling, and procedural continuity respectively. It makes no roster, allotment, or standing-practice change. No later historical predicate is expressly displaced.
 
 All nine judgment positions and each opinion join have been checked against the frozen commitments and Stone's approved supplement. Component totals and direct majority authority are recorded above and below; relief does not exceed the reviewed judgment. Unresolved factual matters are preserved as remand limits, not invented findings. This file is the durable event record available to continuation contexts; incorporation in the ledger, manifest, continuity, neutral projection, generated Render Input, and term check belongs to the coordinating operator. No Git operation has been run and no repository commitment is claimed. No existing adjudication, brief, foundation file, or state tracker was edited.
+
+## Entering-law reconciliation after Love completion
+
+Love v. Pepersack was completed in this later authorized pass in its existing December 11, 1995 event slot. The original modeling and frozen handoffs for this event did not include that completed Record. Love is now part of the law effective before this event; the original exposure descriptions and frozen handoffs remain historical snapshots and are not rewritten as contemporaneous consideration of Love.
+
+**Case-specific comparison:** The §1292(b) route was actually certified and permitted, and displacement was within that order and briefed. Love's discretionary refusal to take a distinct unpleaded defense does not narrow that statutory route. Love supplies no maritime exclusivity or damages rule affecting Moragne, Miles or Offshore Logistics.
+
+The subsequent [later-event dependence review](../freeze/OT_1995CHUNK2_LOVE_LATER_DEPENDENCE.md) found no material effect on this event's result, adopted reasoning, precedent treatment, remedy, participation or material published-position continuity. This note changes no operative substance, authorship, vote, date, source text or Public Projection. Hale's separately identified reasoning dependency is not cleared by this note.
+
+**Assignment accounting:** Love adds one named Chief assignment to O'Connor. The original assignment baseline describes the exposure then available; the added assignment does not alter the preceding-term absence of a majority concentration, create a current recipient above half, or change this event's stated case-specific assignment grounds. No later author or join is changed.
 
 ## Public Projection
 

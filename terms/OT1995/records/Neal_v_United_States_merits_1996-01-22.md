@@ -1,7 +1,7 @@
 **Case and dockets:** Neal v. United States, No. 94-9088; 516 U.S. 284.
 **Event and date:** Argued merits decision; 1996-01-22; October Term 1995.
 **Result:** Affirmed, 9–0.
-**Version / lineage:** Initial Canonical Decision Record; supersedes no adjudication. Filesystem preservation only; no Git verification or repository commit is claimed.
+**Version / lineage:** October 2, 2026 authorized entering-law note update after Love completion; operative substance and Public Projection unchanged. Prior lineage: Initial Canonical Decision Record; supersedes no adjudication. Filesystem preservation only; no Git verification or repository commit is claimed.
 
 ## Decision kernel and sources
 
@@ -33,6 +33,16 @@ The strongest alternatives are treating Amendment 488 as expert statutory clarif
 ## Continuity and validation
 
 The following Holdings block is the controlling-holding section. All nine support its rule, explanation, limits, and affirmance. No replacement sentence, constitutional ruling on an unusually heavy carrier, or unpresented exception is invented. No institutional practice changes or future Supreme Court event follows. The ledger and all coordinated projections must record this January 22 authority. File preservation is complete; repository verification and commit are deferred to the operator.
+
+## Entering-law reconciliation after Love completion
+
+Love v. Pepersack was completed in this later authorized pass in its existing December 11, 1995 event slot. The original modeling and frozen handoffs for this event did not include that completed Record. Love is now part of the law effective before this event; the original exposure descriptions and frozen handoffs remain historical snapshots and are not rewritten as contemporaneous consideration of Love.
+
+**Case-specific comparison:** Love's reasoned limited overruling of constitutional nonincorporation precedent does not eliminate Patterson's distinct statutory-stare-decisis rationale. No new arms doctrine amends §841, displaces Chapman or expands the Commission's Stinson authority. Neal already allows justified reconsideration without treating statutory precedent as immutable.
+
+The subsequent [later-event dependence review](../freeze/OT_1995CHUNK2_LOVE_LATER_DEPENDENCE.md) found no material effect on this event's result, adopted reasoning, precedent treatment, remedy, participation or material published-position continuity. This note changes no operative substance, authorship, vote, date, source text or Public Projection. Hale's separately identified reasoning dependency is not cleared by this note.
+
+**Assignment accounting:** Love adds one named Chief assignment to O'Connor. The original assignment baseline describes the exposure then available; the added assignment does not alter the preceding-term absence of a majority concentration, create a current recipient above half, or change this event's stated case-specific assignment grounds. No later author or join is changed.
 
 ## Public Projection
 
