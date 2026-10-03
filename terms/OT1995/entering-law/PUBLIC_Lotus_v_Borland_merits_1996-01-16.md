@@ -1,3 +1,7 @@
+# Public law reading copy
+
+Authority: [Record](../records/Lotus_v_Borland_merits_1996-01-16.md)
+
 ## Event
 
 Lotus Development Corp. v. Borland International, Inc., 516 U.S. 233, No. 94-2003. Argued January 8, 1996; decided January 16, 1996. On certiorari to the First Circuit, 49 F.3d 807. Borland's Emulation Interface reproduced Lotus's command hierarchy; its Key Reader used that hierarchy and initial command letters to execute existing user macros. The questions concern the operating-method exclusion in 17 U.S.C. §102(b) and the properly preserved statutory defenses. Source and object code were independently written; screen displays and long prompts are outside this appeal.

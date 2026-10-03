@@ -1,6 +1,6 @@
-# Bounded current-term public reading copy
+# Public law reading copy
 
-Authority: canonical event Libretti v. United States, No. 94-7427, 1995-11-07; natural-key Record Libretti_v_United_States_merits_1995-11-07.md. The following Public Projection is copied unchanged; no audit or private material is included.
+Authority: [Record](../records/Libretti_v_United_States_merits_1995-11-07.md)
 
 ## Event
 

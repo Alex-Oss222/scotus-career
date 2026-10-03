@@ -1,6 +1,6 @@
-# Bounded current-term public reading copy
+# Public law reading copy
 
-Authority: canonical event Hodge v. Jones, 1995-10-23; natural-key Record Hodge_v_Jones_merits_1995-10-23.md. The following Public Projection is copied unchanged; no audit or private material is included.
+Authority: [Record](../records/Hodge_v_Jones_merits_1995-10-23.md)
 
 ## Event
 

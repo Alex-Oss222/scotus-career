@@ -1,3 +1,7 @@
+# Public law reading copy
+
+Authority: [Record](../records/Klinger_v_Department_of_Corrections_merits_1995-12-04.md)
+
 ## Event
 
 **Klinger v. Department of Corrections, Eighth Circuit No. 93-2928 — merits decision, December 4, 1995.** The Court reviews the Eighth Circuit's interlocutory judgment, 31 F.3d 727, reversing the district court's equal-protection liability determination and directing dismissal of the reviewed claims. The appeal below arose under 28 U.S.C. §1292(b); the appellate decision issued August 10, 1994, and rehearing was denied October 7, 1994. The questions concern whether institution-wide differences categorically prevent comparison of prison programs and what classification or discriminatory-purpose findings are necessary for liability. The review is confined to that interlocutory program controversy.

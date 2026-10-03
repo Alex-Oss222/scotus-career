@@ -1,3 +1,7 @@
+# Public law reading copy
+
+Authority: [Record](../records/Sherman_v_Community_Consolidated_School_District_21_merits_1996-02-12.md)
+
 ## Event
 
 Sherman v. Community Consolidated School District 21 of Wheeling Township. Merits decision, February 12, 1996. On review of the Seventh Circuit's November 20, 1992 judgment, 980 F.2d 437, Seventh Circuit No. 91-1684. The question is whether a public elementary school may organize daily recitation of the Pledge containing “under God” when pupils may remain silent and decline participation. The ongoing school-program claim presents a live prospective controversy. No separate Supreme Court docket or argument date is established.

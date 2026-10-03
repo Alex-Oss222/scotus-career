@@ -1,3 +1,7 @@
+# Public law reading copy
+
+Authority: [Record](../records/Southern_Christian_Leadership_Conference_of_Alabama_v_Sessions_merits_1995-12-18.md)
+
 ## Event
 
 Southern Christian Leadership Conference of Alabama v. Sessions. Merits decision, December 18, 1995. On review of the en banc Eleventh Circuit judgment of June 14, 1995, 56 F.3d 1281, affirming the rejection of the Section 2 claim after a bench trial. The questions concern the application of Section 2 to the challenged at-large trial-judge elections, including a proper comparison, actual minority electoral opportunity, and the linkage between judges' electoral and territorial jurisdictions. The challenge covers ten identified judicial circuits and district-judge elections in four counties, not all Alabama judicial elections. No argument date or separate Supreme Court docket designation is established here.

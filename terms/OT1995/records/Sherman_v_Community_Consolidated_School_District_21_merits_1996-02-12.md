@@ -68,6 +68,18 @@ The subsequent [later-event dependence review](../freeze/OT_1995CHUNK2_LOVE_LATE
 
 **Assignment accounting:** Love adds one named Chief assignment to O'Connor. The original assignment baseline describes the exposure then available; the added assignment does not alter the preceding-term absence of a majority concentration, create a current recipient above half, or change this event's stated case-specific assignment grounds. No later author or join is changed.
 
+## Resumed chunk 3 entering-law review
+
+**Internal review date:** October 3, 2026.
+
+The resumed Run completed Bank One Chicago v. Midwest Bank & Trust Co. on January 17 and United States v. Bishop and Stokes on February 5, 1996. The original preparation and frozen handoffs for this February 12 event did not include those completed Records. They now enter at their earlier effective dates. Hale is an uncoordinated same-day peer and supplies no entering law here, including through its later-authorized replacement.
+
+**Case-specific comparison:** Bank One's EFAA action and bounded appellate remand establish no school-program or establishment rule. Bishop/Stokes applies criminal Commerce and punishment law and adopts a bounded medical-booking exception; its physical/testimonial distinction establishes no civic-acknowledgment, worship, religious-pressure, or compelled-affirmation rule. Its case-specific treatment of reported findings does not compel remand of this established school-program record. Stone's noncontrolling booking-remand proposal creates no universal findings requirement. Sherman's five-Justice contextual and eight-Justice civic holdings, Kennedy's methodological concurrence, Stone's sponsorship dissent, protected abstention, and separate Attorney General disposition retain their stated grounds and limits.
+
+The completed [resumed later-event dependence review](../freeze/OT_1995CHUNK3_RESUMED_LATER_DEPENDENCE.md) found no material change to this event's result, adopted reasoning, precedent treatment, remedy, participation, or material published-position continuity. Original exposure descriptions and frozen handoffs remain historical snapshots and are not relabeled as contemporaneous consideration of the new decisions. The prior Love review's reservation concerning Hale is preserved as its historical scope; no same-day Hale proposition is used here.
+
+**Assignment accounting:** Bank One adds Thomas and Bishop/Stokes adds O'Connor once each to the earlier Chief-assignment census. Sherman remains an Associate assignment by Stevens; those increments do not change its assignment ground, authorship, or joins. This retrospective internal note changes no operative substance, event date, source text, or Public Projection.
+
 ## Public Projection
 
 ## Event

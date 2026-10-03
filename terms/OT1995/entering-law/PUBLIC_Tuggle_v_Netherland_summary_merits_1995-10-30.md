@@ -1,6 +1,6 @@
-# Bounded current-term public reading copy
+# Public law reading copy
 
-Authority: canonical event Tuggle v. Netherland, 1995-10-30; natural-key Record Tuggle_v_Netherland_summary_merits_1995-10-30.md. The following Public Projection is copied unchanged; no audit or private material is included.
+Authority: [Record](../records/Tuggle_v_Netherland_summary_merits_1995-10-30.md)
 
 ## Event
 

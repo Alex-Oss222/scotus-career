@@ -1,3 +1,7 @@
+# Public law reading copy
+
+Authority: [Record](../records/Yamaha_Motor_Corp_USA_v_Calhoun_merits_1996-01-09.md)
+
 ## Event
 
 Yamaha Motor Corp., U.S.A. v. Calhoun, 516 U.S. 199, No. 94-1387. Argued October 31, 1995; decided January 9, 1996. On certiorari to the Third Circuit, 40 F.3d 622. A child died in a jet-ski accident in Puerto Rico's territorial waters. The parents invoked admiralty and diversity and alleged negligence, strict liability, and implied warranties. The District Court's certified partial-summary-judgment order treated federal maritime law as displacing state death remedies; both sides obtained permitted interlocutory appeals. The questions are the scope of review of that order and whether state wrongful-death and survival remedies remain available to this nonseafarer.

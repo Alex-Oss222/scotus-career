@@ -1,6 +1,6 @@
-# Bounded current-term public reading copy
+# Public law reading copy
 
-Authority: canonical event A. St. P. C. v. B. C., 1995-11-20; natural-key Record A_St_P_C_v_B_C_merits_1995-11-20.md. The following Public Projection is copied unchanged; no audit or private material is included.
+Authority: [Record](../records/A_St_P_C_v_B_C_merits_1995-11-20.md)
 
 ## Event
 

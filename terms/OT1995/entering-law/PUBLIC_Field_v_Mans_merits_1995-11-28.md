@@ -1,6 +1,6 @@
-# Bounded current-term public reading copy
+# Public law reading copy
 
-Authority: canonical event Field v. Mans, 1995-11-28; natural-key Record Field_v_Mans_merits_1995-11-28.md. The following Public Projection is copied unchanged; no audit or private material is included.
+Authority: [Record](../records/Field_v_Mans_merits_1995-11-28.md)
 
 ## Event
 

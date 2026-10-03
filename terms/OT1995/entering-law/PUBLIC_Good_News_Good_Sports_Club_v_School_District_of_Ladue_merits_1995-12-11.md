@@ -1,3 +1,7 @@
+# Public law reading copy
+
+Authority: [Record](../records/Good_News_Good_Sports_Club_v_School_District_of_Ladue_merits_1995-12-11.md)
+
 ## Event
 
 Good News/Good Sports Club v. School District of Ladue. Merits decision, December 11, 1995. On review of the Eighth Circuit's July 12, 1994 judgment, 28 F.3d 1501, Eighth Circuit No. 93-2148. The district court entered judgment for the school district after a bench trial; the Court of Appeals reversed and remanded for determination of appropriate relief. The questions are whether the district may exclude this otherwise eligible private religious Club from the 3–6 p.m. period available to comparable youth activities and whether equal access would establish religion. The viewpoint claim was presented after trial and decided by the district court; the Court of Appeals rejected waiver. No separate Supreme Court docket or argument date is established in the record.

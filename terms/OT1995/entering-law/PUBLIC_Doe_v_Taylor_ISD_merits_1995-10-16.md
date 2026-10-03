@@ -1,6 +1,6 @@
-# Bounded current-term public reading copy
+# Public law reading copy
 
-Authority: canonical event Doe v. Taylor Independent School District, 1995-10-16; natural-key Record Doe_v_Taylor_ISD_merits_1995-10-16.md. The following Public Projection is copied unchanged; no audit or private material is included.
+Authority: [Record](../records/Doe_v_Taylor_ISD_merits_1995-10-16.md)
 
 ## Event
 

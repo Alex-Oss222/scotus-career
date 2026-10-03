@@ -1,3 +1,7 @@
+# Public law reading copy
+
+Authority: [Record](../records/Stutson_v_United_States_GVR_1996-01-08.md)
+
 ## Event
 
 Stutson v. United States, 516 U.S. 193, No. 94-8988. Petition-stage grant, vacatur, and remand, January 8, 1996. On petition for certiorari to the Eleventh Circuit's unexplained affirmance of the refusal to excuse a late criminal notice of appeal. Counsel misdirected the filing, which arrived one working day late. The question is whether Pioneer and the Government's changed position warrant reconsideration of excusable neglect under Rule 4(b). The criminal merits are not before the Court.

@@ -48,6 +48,18 @@ The subsequent [later-event dependence review](../freeze/OT_1995CHUNK2_LOVE_LATE
 
 **Assignment accounting:** Love adds one named Chief assignment to O'Connor. The original assignment baseline describes the exposure then available; the added assignment does not alter the preceding-term absence of a majority concentration, create a current recipient above half, or change this event's stated case-specific assignment grounds. No later author or join is changed.
 
+## Resumed chunk 3 entering-law review
+
+**Internal review date:** October 3, 2026.
+
+The resumed Run completed Bank One Chicago v. Midwest Bank & Trust Co. in its January 17, 1996 event slot. The original preparation and frozen handoffs for this February 5 event did not include that completed Record. Bank One is now part of the earlier effective law. Bishop/Stokes is an uncoordinated same-day event and supplies no entering law here; Hale is later.
+
+**Case-specific comparison:** Bank One's distinct statutory action, forum, and unresolved recovery questions do not alter Title VII's enacted accommodation duty, Hardison's then-governing threshold, Ansonia's resolved-conflict rule, or the one-trainer/multiple-trainer mismatch. It creates no accommodation entitlement, independent negotiation duty, new evidentiary finding, or automatic remand rule. The eight-Justice accommodation remand and Stone's contrary assessment of the actual operational burdens remain supported on their existing grounds and remedy limits.
+
+The completed [resumed later-event dependence review](../freeze/OT_1995CHUNK3_RESUMED_LATER_DEPENDENCE.md) found no material change to this event's result, adopted reasoning, precedent treatment, remedy, participation, or material published-position continuity. Original exposure descriptions and frozen handoffs remain historical snapshots; they are not relabeled as contemporaneous consideration of Bank One. Neither Bishop/Stokes nor corrected Hale is applied backward through this note.
+
+**Assignment accounting:** Bank One adds an earlier Chief assignment to Thomas, but Beadle remains Stevens's Associate assignment and adds no Chief-assignment count. No assignment ground, authorship, or join changes. This retrospective internal note changes no operative substance, event date, source text, or Public Projection.
+
 ## Public Projection
 
 ## Event

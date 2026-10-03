@@ -1,3 +1,7 @@
+# Public law reading copy
+
+Authority: [Record](../records/North_Carolina_paternity_amendment_statutory_effectiveness_1995-10-01.md)
+
 ## Event
 
 North Carolina Session Law 1995-424, amendments to G.S. 49-14(c) and (d), effective October 1, 1995.

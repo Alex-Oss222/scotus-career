@@ -1,3 +1,7 @@
+# Public law reading copy
+
+Authority: [Record](../records/Bailey_and_Robinson_v_United_States_merits_1995-12-06.md)
+
 ## Event
 
 **Bailey v. United States; Robinson v. United States, Nos. 94-7448 and 94-7492 — merits decision, December 6, 1995.** Argued October 30, 1995, on writs of certiorari to the District of Columbia Circuit. The consolidated question is whether firearm use under the applicable 18 U.S.C. §924(c)(1) includes possession or storage without active employment. The court of appeals sustained the firearm convictions on accessibility and protective-availability grounds. Both submitted counts included use or carrying; Robinson's instructions also submitted aiding and abetting. The distinct drug and felon-possession judgments are outside the disposition.

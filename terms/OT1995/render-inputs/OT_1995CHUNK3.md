@@ -1,10 +1,6 @@
 # OT_1995CHUNK3 Render Input
 
-**October Term:** 1995. **Completed events:** 10. **Chronological range:** 1996-01-16 through 1996-02-21.
-
-**Stopped matters:**
-- Bank One Chicago, N.A. v. Midwest Bank & Trust Co.: Renewed approval of Stone's express-remedy ground and disposition on the corrected statute and record: 12 U.S.C. §4010(a) expressly excludes another depository institution, while the supported interbank route is §4010(d) together with §4010(f); Stone's approved essential reasoning treats the claimant bank as a protected statutory person under the excluded customer-liability language. The return omitted the insufficient-funds reason; no late notice is established.
-- United States v. Bishop; United States v. Stokes: A sufficient account of the suppression findings and objective booking context, together with the relevant recording or transcript, preserved video objections and rulings, and pertinent trial use, is needed to decide Stokes's booking statement and video claims and their effect on his judgment. The reported medical purpose alone does not settle Innis's objective interrogation inquiry; the statement that the video served good reasons does not identify the actual relevance/prejudice dispute. An adequate lower-court or party account may cure the gap; an original full transcript is not categorically required.
+**October Term:** 1995. **Completed events:** 12. **Chronological range:** 1996-01-16 through 1996-02-21.
 
 <!-- source-record: Lotus_v_Borland_merits_1996-01-16.md -->
 ## Event
@@ -157,6 +153,93 @@ The case returns for a damages judgment excluding both society claims and for pr
 ## Source Notes
 
 The [Second Circuit opinion, 43 F.3d 18](https://openjurist.org/43/f3d/18/zicherman-v-korean-air-lines-co-ltd), cross-checked in the [official reported case](https://www.govinfo.gov/content/pkg/USREPORTS-516/pdf/USREPORTS-516-217.pdf), supplies the accident, award components, accepted domestic-law premise, and judgment under review. The [reported chronology](https://www.law.cornell.edu/supct/html/94-1361.ZS.html) supplies the argument and decision dates. Dependency and unreviewed damage questions are not newly found or adjudicated.
+
+---
+
+<!-- source-record: Bank_One_Chicago_v_Midwest_Bank_and_Trust_Co_merits_1996-01-17.md -->
+## Event
+
+Bank One Chicago, N.A. v. Midwest Bank & Trust Co., No. 94-1175, 516 U.S. 264. Argued November 28, 1995; decided January 17, 1996. On writ of certiorari to the Seventh Circuit, 30 F.3d 64 (1994), whose judgment vacated the district court's judgment and directed dismissal for lack of jurisdiction. The question is whether the Expedited Funds Availability Act permits a bank's federal-court action enforcing interbank liability established under §4010(f), given subsection (a)'s exclusion of another depository institution and subsection (d)'s forum provision.
+
+The action below, captioned First Illinois Bank & Trust v. Midwest Bank & Trust Co., alleged that Midwest returned a $64,294.27 check unpaid without telling the receiving bank that the reason was insufficient funds. The district court found a breach of Regulation CC's standard of care and awarded $43,912.06. The Seventh Circuit did not decide the regulatory-liability merits. The question before this Court is the statutory right to pursue that interbank action, not whether the district court's liability determination was correct.
+
+## Participation
+
+All nine Justices participate: Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+## Public Action
+
+The Court reverses the Seventh Circuit's jurisdictional judgment and remands for further proceedings.
+
+## Judgment & Remedy
+
+**Reversed and remanded, 9–0.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The court of appeals must consider properly remaining challenges to the district court's judgment under the governing Federal Reserve rules. The Court does not decide underlying liability or damages and does not unconditionally reinstate the district court's award. No injunction or administrative damages proceeding is ordered.
+
+## Opinion Topology
+
+Justice Thomas delivers the Opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer.
+
+## Holdings
+
+### Judicial enforcement of the distinct interbank liability regime
+
+**Operative rule:** A depository institution may bring an action in federal district court or another court of competent jurisdiction to enforce interbank liability established by the Federal Reserve Board within 12 U.S.C. §4010(f)'s delegation; §4010(d) supplies the judicial forum for that action. Section 4010(a)'s exclusion of another depository institution continues to withhold that subsection's separate customer remedy, but does not exclude the subsection (f) action from subsection (d).
+
+**Authority:** Justice Thomas's Opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer. All nine directly adopt this holding and the following remand holding, including their stated limits; no combination of separate rationales is necessary.
+
+**Controlling explanation:** Congress provided distinct arrangements for customer claims and interbank liability. Subsection (a) directly gives the customer remedy and excludes another depository institution. Subsection (f) separately authorizes the Board to impose or allocate loss and liability among banks in the check-payment system. Subsection (d) provides courts for actions under the entire section. Restricting it to subsection (a) would add a limitation Congress did not write and deny the forum provision its application to the separate liability Congress authorized in subsection (f).
+
+Touche Ross & Co. v. Redington requires congressional authorization for a private remedy and prevents a jurisdiction clause or regulation alone from supplying missing substantive liability. Here the affirmative interbank liability delegation and the section-wide forum provision work together. Transamerica Mortgage Advisors, Inc. v. Lewis recognizes that statutory language and structure can supply limited judicial relief without a separate sentence expressly creating the action; relief remains confined to that statutory support. Things Remembered, Inc. v. Petrarca likewise requires giving compatible statutory provisions their respective effect. Applying that approach preserves, rather than erases, subsection (a)'s exclusion.
+
+The lower court's administrative alternative does not change the text. Section 4009(c)(1)'s residual enforcement command does not establish exclusive Board adjudication of one bank's damages claim against another. The Board reported that it had no such mechanism. That absence does not create jurisdiction; subsections (d) and (f) supply the authority. Section 4008(c)'s payment-system responsibility is regulatory context, not an independent judicial remedy. The Court's construction requires no general ruling on deference to an agency's view of federal jurisdiction.
+
+**Precedent treatment:** Touche Ross's authorization requirement is applied and its missing-liability setting distinguished; Transamerica's recognition of textually supported, limited relief is applied; Things Remembered's coexistence principle is applied by analogy without importing its removal-review rules.
+
+### Removing the jurisdictional bar leaves regulatory liability for the remaining appeal
+
+**Operative rule:** Because the Act permits this interbank action, the Seventh Circuit's judgment requiring dismissal for want of jurisdiction is reversed, and the case is remanded for consideration of properly remaining challenges to the district court's judgment under the governing Federal Reserve rules. The recognition of that action does not establish Bank One's entitlement to prevail on liability or damages and does not unconditionally restore the district court's award.
+
+**Controlling explanation:** The district court found that Midwest breached Regulation CC's standard of care by returning the check without advising the receiving bank that the reason was insufficient funds, and awarded $43,912.06. The Seventh Circuit vacated that judgment solely because it regarded interbank claims as outside the statutory forum provision. It did not resolve the underlying regulatory-liability appeal. Correcting its categorical jurisdictional premise therefore requires further appellate adjudication, not this Court's adoption of the district court's findings or a new damages award.
+
+NLRB v. Town & Country Electric distinguishes statutory eligibility from proof of individual liability and relief; the same distinction explains this remand. Zicherman v. Korean Air Lines requires respect for the remedy supplied by the governing statutory regime rather than supplementation from a general compensatory purpose. Recognizing the subsection (f) action thus carries neither subsection (a)'s customer additions nor a decision that any condition of recovery is satisfied. The existing summary judgment cannot itself answer challenges the court of appeals has not decided. The Court resolves no negligence, causation, recoverable loss, bad faith, timeliness or defense issue and establishes no particular remaining assignment of error. No injunction or administrative damages proceeding is ordered.
+
+**Precedent treatment:** Town & Country's distinction between legal coverage and individual relief is applied by analogy; Zicherman's respect for a governing remedial scheme is applied without importing its maritime damages rule.
+
+**Statutory limits preserved, without deciding their application:** Subsection (f) authorizes the Board to impose or allocate risks of loss and liability for any aspect of the payment system, including receipt, payment, collection or clearing of checks and related payment-system functions concerning checks. Its ordinary liability ceiling is the amount of the check giving rise to the loss or liability; other damages require bad faith and must be suffered as a proximate consequence of the relevant act or omission. Subsection (d) permits an action within one year after the occurrence of the violation. No timely-filing controversy is decided.
+
+Subsection (a)'s individual and class additional damages, and its costs and reasonable attorney fees for successfully enforcing the liability it provides, do not follow merely from access to court under subsections (d) and (f). Subsection (c) separately protects an institution that proves by a preponderance of the evidence that a violation was unintentional and resulted from a bona fide error despite procedures reasonably adapted to avoid that error; an error of legal judgment about the institution's obligations is excluded. Subsection (e) separately protects an act or omission done in good faith in conformity with a Board rule, regulation or interpretation despite its later amendment, rescission or invalidation. The Court decides neither defense's application, any bad-faith allegation, any damages amount nor any fee entitlement.
+
+**Questions not reached:** The Court does not decide an independent basis under 28 U.S.C. §1331, a general rule approving or forbidding deference on jurisdictional questions, a state cause of action, or the underlying regulatory merits. The statutory basis for this action does not establish that every Board regulation independently creates a private action.
+
+## Precedent Treatment
+
+- **Touche Ross & Co. v. Redington, 442 U.S. 560:** Its requirement of congressional authorization remains. A regulation or general forum clause alone does not supply substantive liability; §4010(f)'s express interbank liability delegation joined with subsection (d) distinguishes this statute from the reporting provision there.
+- **Transamerica Mortgage Advisors, Inc. v. Lewis, 444 U.S. 11:** Its recognition of limited relief supported by statutory language and structure is applied. Its restriction against adding unsupported damages and its distinction between claim sufficiency and subject-matter jurisdiction remain; no contract-rescission rule is transferred to banking.
+- **Things Remembered, Inc. v. Petrarca, 516 U.S. 124:** Its instruction to give compatible provisions their respective effect is applied by analogy. Its removal-review bars and reservations retain their own statutory limits.
+- **NLRB v. Town & Country Electric, Inc., 516 U.S. 85:** Its separation of statutory coverage from individual liability and relief is applied by analogy. Its requirement of independent statutory-boundary review is consistent with the direct statutory construction here; no labor-law classification rule or new jurisdictional deference rule follows.
+- **Zicherman v. Korean Air Lines Co., Ltd., 516 U.S. 217:** Its respect for the governing remedial scheme supports preserving the interbank regime's limits. Its treaty and maritime damages holdings remain confined to their fields.
+- **NationsBank of North Carolina, N.A. v. Variable Annuity Life Insurance Co. / Ludwig v. Variable Annuity Life Insurance Co., decided January 18, 1995:** Its rule respecting reasoned banking-agency construction within independently determined statutory bounds is neither enlarged nor displaced. It supplies no independent interbank action, and the Court need not extend it to an agency view of federal jurisdiction.
+- **Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A., decided April 19, 1994:** Its confined affirmative-assistance action within the received §10(b) investor remedy remains intact. That securities remedy neither supplies this banking action nor defeats the affirmative authorization in §4010(d) and (f).
+
+## Law After Decision
+
+Effective January 17, 1996, the Act's separate interbank liability regime is judicially enforceable through §4010(d). The customer exclusion remains operative within subsection (a), and the Board's delegated standards and subsection (f)'s liability limits govern the interbank route. The Court adds this construction of the Act without changing the existing principles governing statutory remedies or lawful agency construction. Forum recognition leaves the underlying regulatory appeal and any properly presented defense or damages question for adjudication; it supplies no liability award or general agency-deference holding.
+
+## Separate Writings
+
+No separate writing.
+
+## Procedure After Action
+
+The case returns to the Seventh Circuit for consideration of properly remaining appellate challenges. Its instruction to dismiss for want of jurisdiction cannot govern further proceedings. Whether Bank One establishes liability and any recoverable loss remains for adjudication under the governing rules; no further Supreme Court event is set.
+
+## Source Notes
+
+The [Seventh Circuit's amended opinion, 30 F.3d 64](https://static.case.law/f3d/30/html/0064-01.html), supplies the omitted-reason allegation, cited provisions of Regulation CC, lower findings and award, and jurisdictional disposition. The official 1994 Code [§4010](https://www.govinfo.gov/content/pkg/USCODE-1994-title12/html/USCODE-1994-title12-chap41-sec4010.htm), [§4008](https://www.govinfo.gov/content/pkg/USCODE-1994-title12/html/USCODE-1994-title12-chap41-sec4008.htm) and [§4009](https://www.govinfo.gov/content/pkg/USCODE-1994-title12/html/USCODE-1994-title12-chap41-sec4009.htm) supply the separate liability, forum, defense, regulatory and administrative-enforcement provisions. [Touche Ross, 442 U.S. 560](https://static.case.law/us/442/html/0560-01.html), and [Transamerica, 444 U.S. 11](https://static.case.law/us/444/html/0011-01.html), supply the earlier statutory-remedy principles. The Court makes no finding that notice was late and does not decide the underlying regulatory-liability appeal.
 
 ---
 
@@ -435,6 +518,231 @@ The [Eleventh Circuit judicial opinion](https://static.case.law/f3d/42/html/0633
 
 ---
 
+<!-- source-record: United_States_v_Bishop_and_Stokes_merits_1996-02-05.md -->
+## Event
+
+United States v. Bishop; United States v. Stokes, 66 F.3d 569; Third Circuit Nos. 94-5321 (Bishop) and 94-5387 (Stokes). Merits decision, February 5, 1996. On review of the Third Circuit's consolidated affirmance, issued September 7, 1995, and amended September 29, 1995.
+
+The questions concern Congress's authority to apply original 18 U.S.C. §2119 to both defendants for this armed vehicle taking; statutory authorization and the Double Jeopardy Clause's separate limits on consecutive §2119 and §924(c) punishment in one prosecution; and admission of Stokes's station and in-court identifications, unwarned booking answer, and booking videotape. Bishop pleaded guilty without expressly reserving his constitutional claim under Rule 11(a)(2); Stokes was tried. Both seek relief from their criminal judgments, and the United States seeks affirmance.
+
+The taking involved a Dodge Shadow that had traveled in interstate commerce. A gunman placed a pistol against Bradley's head and demanded the keys while another man restrained Rollins. Both witnesses observed the gunman. After pursuit and a crash, an officer caught Stokes as he fled. Within ninety minutes of the taking, Bradley and Rollins separately identified him at the station after overhearing police say that the thief had been caught. The district court found that their identifications rested on their own recollections and were reliable despite the suggestion. Both also identified him in court.
+
+During videotaped booking, an officer asked what was the matter with Stokes's visibly limping leg. He said that he had hurt it in an accident. The district court found that the question served booking's medical-attention function. The answer and the videotape were admitted over objection. The tape's full content and the particular evidentiary arguments are not reproduced in the reported opinion; the Court makes no finding that the jury heard the accident answer through the recording as well as through separate evidence.
+
+## Participation
+
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate. All nine are seated and participate in this review and decision; no case-specific nonparticipation is established.
+
+## Public Action
+
+The Court affirms both judgments. Its reasons and the limited disagreements concerning Stokes's booking evidence are stated below.
+
+## Judgment & Remedy
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+|---|---|---|---|---|
+| Bishop: existing-record power-to-prosecute challenge and Commerce Clause claim | Reach the claim; affirm, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | His judgment remains in force; his plea is not reopened. |
+| Stokes: Commerce Clause claim | Affirm, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | No relief on this claim. |
+| Stokes: statutory objection to cumulative punishment | Affirm, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | The additional consecutive punishment stands. |
+| Stokes: same-prosecution double-jeopardy objection | Affirm, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | The cumulative convictions and punishment stand. |
+| Stokes: station identifications | Affirm admission, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | No exclusion or new trial. |
+| Stokes: in-court identifications | Affirm admission, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | No exclusion or new trial. |
+| Stokes: unwarned booking answer | Affirm admission, 7–2 | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela, Stevens | No remand. Stone-Zsela would vacate this part of the appellate disposition for findings and a proper admissibility determination, with error-effect review only if error is found. Stevens would find admission error and remand for Chapman review and consequential relief. |
+| Stokes: independent physical-recording and evidentiary objections to the booking videotape | Affirm rejection of these objections, 8–1 | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela | No further proceedings. Stone-Zsela would vacate this part of the appellate disposition for findings and evaluation of relevance and unfair prejudice, followed by the appropriate effect inquiry if admission was erroneous. |
+
+The ruling on the answer also governs that answer if the recording conveyed it: the same seven Justices sustain its admission; Stevens's objection to its criminal use and Stone-Zsela's request for further findings remain. This is a qualification of the statement and video rulings, not a finding that such playback occurred or a separate adjudicated trial occurrence. Stevens's agreement on the independent physical and evidentiary objections supplies no join in the testimonial-answer ruling.
+
+Both criminal judgments remain in force, including Bishop's 210-month term, three years of supervised release and $2,000 fine, and Stokes's 248-month term, three years of supervised release and $5,000 fine. No suppression, redaction, new trial, acquittal, resentencing or further merits proceedings are ordered. No harmless-error determination supports the Court's affirmance.
+
+## Opinion Topology
+
+Justice O'Connor delivers one opinion, divided as follows. Each identified portion has a direct majority; no combination of different rationales supplies a holding.
+
+| Writing or portion | Author | Joined by | Relationship to judgment and scope |
+|---|---|---|---|
+| Opinion of the Court, Part I | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight join the existing-record plea-reach ground. Stone-Zsela agrees with reaching Bishop's challenge without joining this ground. |
+| Opinion of the Court, Parts II, III-A, III-B, IV-A and IV-B | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous application of Harris to commerce; separate statutory and constitutional punishment grounds; separate station and in-court identification applications. Stevens retains his objection to Hunter's foundation while joining its governing application. |
+| Opinion of the Court, Part V | O'Connor | Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Seven join the bounded medical-intake rule and admission of the accident answer. Stone-Zsela and Stevens dissent on different grounds. |
+| Opinion of the Court, Parts VI-A and VI-B | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight join the distinction between physical observation and testimonial disclosure and rejection of the separately reported evidentiary objection. Stone-Zsela dissents from affirmance and does not join these portions. |
+| Opinion of the Court, Part VI-C | O'Connor | Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | The same seven apply Part V to the accident answer if conveyed through the recording, without finding that it was played. |
+| Opinion concurring in part and dissenting in part | Stevens | No other Justice | Joins Parts I–IV and VI-A–B; would find the unwarned answer inadmissible and remand its admission for Chapman review, including any actual recorded use. |
+| Opinion concurring in part and dissenting in part | Stone-Zsela | No other Justice | Joins Parts II–IV; agrees only in reaching Bishop's plea-surviving challenge; would vacate the statement and video portions of Stokes's appellate disposition and remand for findings and proper legal review before any necessary error-effect determination. |
+
+The two separate opinions do not join one another. Stone-Zsela's remand position does not adopt Stevens's finding of admission error; Stevens's physical-video and evidentiary agreement does not support Stone-Zsela's independent video remand.
+
+## Holdings
+
+### Bishop may present this legal challenge without contradicting his plea
+
+**Holding and operative rule:** A guilty plea does not foreclose an existing-record claim that the Government lacks constitutional power to prosecute the conduct the defendant admits. Bishop may therefore present this Commerce Clause claim without a Rule 11(a)(2) reservation; the plea does not permit new factual litigation contradicting its admissions or preserve every constitutional objection.
+
+**Authority:** O'Connor's Part I, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: eight direct votes. Stone-Zsela agrees with reaching the claim and supplies no ground on this distinct threshold component.
+
+**Controlling explanation:** Menna v. New York permits a claim that the State cannot constitutionally prosecute the admitted conduct; Blackledge v. Perry likewise distinguishes a bar to prosecution from a defect surrendered by pleading guilty. United States v. Broce preserves the limit: a defendant cannot undo the plea's admissions through new contradictory evidence. Bishop's objection concerns Congress's power to prohibit the vehicle taking described by the existing record. Resolving it requires no repudiation of what he admitted. The absence of an express conditional-plea reservation therefore does not end this legal challenge. The Court neither recharacterizes the plea as conditional nor treats every constitutional claim as jurisdictional. It reaches the claim and rejects it under Harris.
+
+**Precedent treatment:** Menna and Blackledge are applied to the existing-record power objection; Broce retains its bar on contradictory factual reopening after a guilty plea.
+
+### Harris sustains application of original §2119 to both defendants
+
+**Holding and operative rule:** Congress may apply original §2119 to the armed vehicle taking at issue as regulation of the economic vehicle-taking class within the interstate motor-vehicle theft-prevention scheme. The separately enacted requirement that the particular vehicle have been transported, shipped or received in interstate or foreign commerce remains necessary; remote vehicle history alone and generalized crime, insurance or productivity costs do not supply this holding's constitutional ground.
+
+**Authority:** O'Connor's Part II, joined by every other Justice named in Opinion Topology: nine direct votes for this application of Harris, without enlarging its rule.
+
+**Controlling explanation:** United States v. Harris resolves the same objection to the original carjacking statute. The taking transfers control of a valuable vehicle by force within the class Congress regulated; its local occurrence does not sever that class from the interstate theft-prevention regime. Harris applies the economic-class principles of Wickard v. Filburn and Perez v. United States, which do not require a substantial interstate effect from each individual instance. The contrary view that only voluntary exchange counts, or that each taker must intend interstate resale, would contradict Harris's rule.
+
+United States v. Lopez rejects a remote chain from school-zone firearm possession through crime costs, education and productivity. It does not displace the distinct class-based ground governing this taking. American Life League v. Reno confirms that distinction without dispensing with any commerce element Congress enacted in another statute. The reported prior interstate travel of this Dodge satisfies the factual premise of the legal challenge; no new shipment route or present interstate journey is found. The Court decides no unpresented sufficiency objection. It approves neither remote movement alone nor an automatic vehicle-instrumentality rationale and creates no new general Commerce Clause test.
+
+**Precedent treatment:** Harris is applied within its economic-class and enacted-element limits; Lopez retains its rejection of the remote downstream-effects theory; Wickard and Perez retain their economic-class scope; American Life League confirms the distinct commercial-class ground without changing §2119's text.
+
+### Section 924(c) separately authorizes the consecutive punishment
+
+**Holding and operative rule:** The offense-date §924(c) authorizes additional consecutive punishment for the original §2119 carjacking predicate even though that predicate includes firearm possession. Use or carrying during and in relation to the qualifying predicate must still be established independently; the cumulative-authorization rule does not equate mere possession with all §924(c) conditions.
+
+**Authority:** O'Connor's Part III-A, joined by every other Justice: nine direct votes on statutory authorization.
+
+**Controlling explanation:** Harris gives effect to §924(c)'s inclusive, additional and consecutive directions for this precise statutory pairing. The occasion for the 1984 amendment does not confine those directions to offenses with discretionary firearm enhancements. Nor does Congress have to reenact the direction each time it later creates a qualifying predicate. Those arguments cannot overcome the text already applied in Harris, and no residual ambiguity remains for lenity on this question.
+
+Bailey v. United States and Robinson v. United States require active employment under the use prong, independently of carrying and the offense relationship. Placing a pistol against a victim's head is active employment, rather than the storage theory rejected there. That distinction explains why the predicate's possession element is not doing the separate firearm provision's work; it does not adjudicate an unpresented instruction, sufficiency or carrying claim. Smith v. United States likewise preserves the independent conduct and relation requirements. The Court sustains the challenged consecutive punishment without deciding universal element overlap, a different statutory pairing or a later firearm amendment.
+
+**Precedent treatment:** Harris controls the original-§2119/offense-date-§924(c) pairing; Bailey retains active employment as the use requirement; Smith retains its distinct conduct and relation requirements; Ratzlaf's residual-lenity principle does not defeat the clear cumulative direction.
+
+### The authorized punishment in this single prosecution satisfies double jeopardy
+
+**Holding and operative rule:** The clearly authorized §2119 and §924(c) convictions and consecutive punishments in this single prosecution do not violate the Double Jeopardy Clause, even assuming overlap under Blockburger. This holding does not decide universal element overlap or alter the rules governing successive prosecutions.
+
+**Authority:** O'Connor's Part III-B, joined by every other Justice: nine direct votes for the bounded application of Missouri v. Hunter. Stevens's reservation about Hunter's constitutional foundation does not withhold his join in its application.
+
+**Controlling explanation:** Missouri v. Hunter makes clear legislative authorization decisive for the cumulative punishment imposed in one prosecution. Harris applies that rule to these same statutes. Blockburger v. United States helps determine statutory intent; its possible overlap does not defeat an express direction to impose both punishments. Whalen v. United States preserves the presumption against cumulative punishment where contrary legislative intent is absent, a condition not present here. Stokes's objection thus fails independently as a constitutional claim once the clear statutory direction is established. United States v. Dixon and Grady v. Corbin govern distinct successive-prosecution questions; a single trial and its cumulative sentences do not invoke their essential-conduct protection. The Court neither reconsiders Hunter nor converts this judgment into a rule about a later prosecution.
+
+**Precedent treatment:** Hunter and Harris are applied to clear authorization in one prosecution; Blockburger retains its construction role; Whalen retains its presumption absent contrary intent; Dixon and Grady remain governing in their successive-prosecution settings.
+
+### The station identifications satisfy the reliability inquiry
+
+**Holding and operative rule:** An unnecessarily suggestive identification procedure does not require exclusion when the identification remains reliable under the totality of the circumstances, weighing opportunity to observe, attention, prior-description accuracy, certainty and elapsed time against the procedure's corrupting effect. The station identifications here satisfy that inquiry on the accepted findings of independent recollection and the supported circumstances of perception and prompt separate viewings.
+
+**Authority:** O'Connor's Part IV-A, joined by every other Justice: nine direct votes for this application of Manson v. Brathwaite and Neil v. Biggers.
+
+**Controlling explanation:** Manson makes reliability the governing inquiry and rejects automatic exclusion based solely on unnecessary suggestion. Biggers identifies the circumstances bearing on that reliability. The single-suspect station view and the overheard claim that police had caught the thief create a real risk of suggestion. They are weighed, not disregarded. Both witnesses had encountered the gunman closely and obtained a good look; a description was given promptly; their viewings were separate and occurred within ninety minutes. The district court found that each identification came from the witness's own memory and concluded that it was reliable. The appellate court upheld both the historical findings and the legal conclusion.
+
+The Court finds no ground in the reported challenge to overturn that application. Promptness alone would not suffice, and honest recollection alone is not the entire test. Conversely, the absence of five separately labeled findings in a short appellate discussion does not establish that the inquiry was omitted. No exact illumination, observation duration, detailed description or certainty statement is supplied as a new fact. The pursuit, arrest and recovered firearms do not substitute for assessing the reliability of the identification itself.
+
+**Precedent treatment:** Manson and Biggers are applied without changing their reliability inquiry or adopting automatic exclusion for suggestiveness; Manson's distinction between identification reliability and independent evidence of guilt is preserved.
+
+### The in-court identifications are not excluded by the station procedure
+
+**Holding and operative rule:** The same challenged station procedure does not require exclusion of these in-court identifications where the accepted findings establish that the witnesses identified Stokes from their own recollections and the identifications satisfy Manson's totality-of-the-circumstances reliability inquiry. The holding resolves the claimed suggestive-procedure taint, not an unpresented right-to-counsel claim or every possible identification procedure.
+
+**Authority:** O'Connor's Part IV-B, joined by every other Justice: nine direct votes on the separate in-court component.
+
+**Controlling explanation:** The suppression motion and appellate ruling covered both the station and in-court identifications. Manson and Biggers require assessment of the actual risk of mistaken identification rather than automatic exclusion of every later identification following a suggestive encounter. Here the district court's independent-recollection findings, supported by the witnesses' opportunity to see the gunman and the prompt separate viewings, sustain both forms. The Court's rejection of the station objection does not dispense with the in-court issue; the same accepted memory foundation answers the asserted taint on this record. No new certainty declaration or independent corroboration is substituted for that foundation. The Court orders no exclusion or new trial on this component.
+
+**Precedent treatment:** Manson and Biggers supply the same reliability boundary for the asserted taint of the in-court identifications; no separate counsel-attachment rule is altered.
+
+### A bounded medical-intake question permits admission of this answer
+
+**Holding and operative rule:** An unwarned question at booking may receive the limited administrative-booking exception when it is reasonably related to assessing necessary medical attention for an observed condition and its content and setting support that administrative function. The exception does not cover an investigative demand or questioning objectively reasonably likely to extract incriminating offense information; a medical label or benign intent alone is insufficient, but later evidentiary usefulness of a responsive answer does not itself defeat the exception.
+
+**Authority:** O'Connor's Part V, joined by Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: seven direct votes for this bounded rule and admission of Stokes's accident answer. Stone-Zsela and Stevens do not join.
+
+**Controlling explanation:** Rhode Island v. Innis covers express questions and their functional equivalent; the Court does not declare every direct medical question outside interrogation. Pennsylvania v. Muniz distinguishes testimonial assertions from physical evidence. Its four-Justice administrative-booking rationale also recognizes limited questions reasonably related to administration while retaining a prohibition on extracting incriminating admissions. The Court adopts that rationale for the bounded medical-intake setting here; it does not treat the plurality's discussion as an already controlling blanket medical exception.
+
+Stokes was visibly limping. The officer asked what was the matter with his leg, and the district court found a booking purpose of determining whether medical attention was needed. The question's condition-focused content and established setting support the limited administrative classification. The Court does not find that the officer asked how the injury happened, knew or did not know of the pursuit, conducted investigative follow-up, or faced an emergency.
+
+The strongest objection is that the accident account is testimonial and could connect Stokes with the crash. The Court accepts its testimonial character. Its admissibility rests instead on the limited administrative ground, not on reclassifying words as bodily performance or finding a waiver. The usefulness of an answer does not alone transform this condition inquiry into offense investigation. The accepted findings and actual question permit the bounded decision; brevity of the appellate discussion does not establish that the lower courts failed to review the matter. No harmless-error ground is reached.
+
+**Precedent treatment:** Innis retains express questioning and objective interrogation limits; Muniz's physical/testimonial distinction remains intact, and its administrative-booking rationale is adopted and extended only to the stated medical-intake conditions. Stansbury's custody rule remains unchanged; Davis's separate counsel-invocation rule is not displaced.
+
+### Recording physical observations does not itself compel testimonial disclosure
+
+**Holding and operative rule:** Recording a suspect's appearance or movements during booking does not, merely by preserving physical observations, compel testimonial disclosure. A factual answer remains testimonial when recorded, and the physical portions remain subject to ordinary evidentiary rules; exclusion of an unlawful answer would not automatically exclude separable physical observations.
+
+**Authority:** O'Connor's Part VI-A, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: eight direct votes. Stone-Zsela does not join this portion.
+
+**Controlling explanation:** Muniz distinguishes physical evidence from communication of factual knowledge. A camera does not erase that distinction in either direction. Stokes cannot obtain categorical exclusion of physical observations solely because they were recorded during unwarned booking. But the visual character of evidence does not establish its relevance, resolve unfair prejudice, or excuse prohibited testimonial questioning. The Court does not find the tape silent, define its full contents, or approve every unreported segment. Those limits preserve the distinction between the constitutional character of evidence and the independent rules governing its use at trial.
+
+**Precedent treatment:** Muniz's controlling physical/testimonial distinction is applied to the recording medium without creating categorical admissibility or a waiver.
+
+### The separately reported video objection supplies no established ground for reversal
+
+**Holding and operative rule:** Admission of the booking videotape is sustained against the separately reported evidentiary challenge because the adjudicated objection establishes no identified abuse of discretion or legal defect warranting reversal. This bounded disposition neither reconstructs an unreported relevance or unfair-prejudice balance nor holds that nontestimonial physical evidence is admissible regardless of the evidentiary rules.
+
+**Authority:** O'Connor's Part VI-B, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: eight direct votes. Stone-Zsela would remand this component and does not join.
+
+**Controlling explanation:** The court of appeals considered reasons offered against and in favor of the tape and rejected the objection for lack of abuse of discretion. Its short account does not reproduce those reasons, the trial presentation, editing or instructions. That omission is not an affirmative finding that no relevance or prejudice review occurred. Physical character alone would not answer the evidentiary objection, but the possibility of prejudicial content likewise does not identify a particular error in the adjudicated ruling. The Court therefore sustains rejection of this reported challenge without inventing additional grounds for admission or foreclosing a distinct properly presented objection in another case. It makes no fresh finding that the tape was harmless and orders no inquiry to discover whether an unspecified error might exist.
+
+**Precedent treatment:** Muniz supplies only the constitutional classification of physical and testimonial evidence, not a substitute for ordinary relevance and unfair-prejudice rules. No evidentiary precedent is enlarged into a categorical video rule.
+
+### The answer's legal treatment does not change with the recording medium
+
+**Holding and operative rule:** If the booking videotape conveyed the same accident answer, that answer is governed by the bounded medical-intake ruling in Part V rather than by the physical-observation rule. This scope qualification establishes neither that the answer was played nor the legality of any additional unreported testimonial content.
+
+**Authority:** O'Connor's Part VI-C, joined by Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: the same seven direct joins as Part V. Stevens does not join this qualification's admission result, and Stone-Zsela maintains his findings-first remand position.
+
+**Controlling explanation:** Muniz makes the communicated content, rather than the recording medium, relevant to testimonial classification. The answer remains a factual assertion, and the Court's limited medical-intake ground supplies its admissibility whether proved separately or conveyed through the recording. The Court does not use the eight-Justice agreement on physical observations to enlarge this seven-Justice rule. Nor does this qualification supply a new factual occurrence requiring an additional harmlessness determination.
+
+**Precedent treatment:** Muniz's physical/testimonial distinction is preserved; the medical-intake rule adopted here has the same limits for a recorded answer as for the separately admitted statement.
+
+## Precedent Treatment
+
+- Menna v. New York, 423 U.S. 61, and Blackledge v. Perry, 417 U.S. 21: applied to Bishop's existing-record objection to the power to prosecute; neither becomes a rule preserving all objections after a plea.
+- United States v. Broce, 488 U.S. 563: preserved as the bar against reopening plea admissions through contradictory new facts.
+- United States v. Harris, April 27, 1995: applied to original §2119's economic class, its enacted vehicle-history requirement, the express §924(c) cumulative direction and Hunter's same-prosecution rule. Its independent conduct and fault limits remain intact.
+- United States v. Lopez, April 26, 1995: distinguished at the remote crime-cost, education and productivity chain; no automatic instrumentality or exhaustive commerce test is adopted.
+- Wickard v. Filburn, 317 U.S. 111, and Perez v. United States, 402 U.S. 146: retain their economic-class scope as applied through Harris, without a substantial-effect showing for each individual taking.
+- American Life League v. Reno, November 13, 1995: confirms the concrete commercial-class distinction without deleting §2119's separately enacted nexus.
+- Bailey v. United States; Robinson v. United States, December 6, 1995: active employment, carrying and offense relationship remain distinct; no unpresented firearm instruction or sufficiency question is resolved here.
+- Smith v. United States, June 1, 1993: retains its independent firearm-conduct and offense-relation requirements.
+- Ratzlaf v. United States, January 11, 1994: residual lenity remains available for genuine ambiguity, which the clear cumulative direction does not present.
+- Missouri v. Hunter, 459 U.S. 359: applied to expressly authorized cumulative punishment in a single prosecution without reconsidering its constitutional basis.
+- Blockburger v. United States, 284 U.S. 299: possible overlap is not an absolute bar to the clearly authorized same-trial punishment; its construction function remains.
+- Whalen v. United States, 445 U.S. 684: preserves the presumption against cumulative punishment absent contrary legislative intent, distinguished by the express direction here.
+- United States v. Dixon, June 28, 1993, and Grady v. Corbin, 495 U.S. 508: remain governing in their successive-prosecution settings; this single prosecution does not alter their rules.
+- Manson v. Brathwaite, 432 U.S. 98, and Neil v. Biggers, 409 U.S. 188: applied to both identification forms; reliability is assessed against suggestion, without using independent guilt evidence as its substitute.
+- Rhode Island v. Innis, 446 U.S. 291: express questioning and its functional equivalent remain protected; intent alone does not settle interrogation.
+- Pennsylvania v. Muniz, 496 U.S. 582: its physical/testimonial distinction is applied; its four-Justice administrative rationale is adopted for the bounded medical-intake conditions stated here, without a blanket medical or booking immunity.
+- Stansbury v. California, April 26, 1994: its objective custody rule remains intact; formal arrest and booking establish custody here.
+- Davis v. United States, June 24, 1994: its rules for counsel requests remain distinct and unchanged; no request or waiver is found here.
+
+No precedent is overruled. The separate opinions' proposed remands do not change Chapman or the ordinary evidentiary harmless-error rules, which the Court does not reach.
+
+## Law After Decision
+
+Effective February 5, 1996, the Court applies Harris to reject these commerce and cumulative-punishment challenges and applies the existing reliability inquiry to both forms of identification. The Court does not change those rules or the enacted elements of either criminal provision.
+
+The new majority-supported clarification adopts a limited administrative-booking ground for a condition-focused medical-intake question meeting the content-and-setting limits stated in Part V. Medical purpose alone does not suffice; an investigative demand or an objectively reasonably likely method of extracting incriminating offense information remains outside that ground. The factual answer retains its testimonial character. The Court distinguishes recording physical observations from testimonial assertions and sustains the independent video ruling only within the reported adjudication.
+
+Bishop's additional equal-protection argument below is outside the questions decided. The Court resolves no independent §922(g) issue, sentence calculation, firearm instruction or sufficiency claim, later carjacking intent amendment, later firearm tier, waiver, medical emergency, additional recording content or fresh harmlessness question. It supplies no new general Commerce Clause formula, mandatory identification checklist, categorical recording rule or automatic remedial entitlement. Both judgments stand without further proceedings.
+
+## Separate Writings
+
+**Stevens, concurring in part and dissenting in part, joined by no other Justice.** He joins the plea-reach, commerce, statutory-punishment, same-prosecution and both identification portions, as well as the independent physical-recording and evidentiary portions. His continuing objection to Hunter's foundation does not prevent application of that controlling decision to the expressly authorized punishment.
+
+For the booking answer, Stevens distinguishes the officers' ability to ask about health from the prosecution's entitlement to use an unwarned substantive response. Innis's protection of express custodial questioning and the Quarles dissent's distinction between protective questioning and evidentiary use support excluding the accident assertion. His Muniz agreement concerning bodily performance and limited procedural communications does not make this factual account nontestimonial or require extension of its four-Justice administrative rationale. Davis's protection of meaningful custodial choice is consistent with that limit, although no counsel request is presented here. He accepts the genuine medical-purpose finding; his disagreement is with applying the booking exception to admit this answer, not with a supposed finding of pretext or a claim that the lower court used medical intent as its only test.
+
+Stevens would vacate the appellate affirmance insofar as it sustains the answer and remand for the actual trial record's Chapman inquiry. The Government would have to establish beyond a reasonable doubt that the error did not contribute to each affected conviction. A count could stand if that burden is met; otherwise the lawful new-trial consequence would follow for the affected conviction. His position covers any recorded use only if the actual record shows it. It does not exclude separable physical observations, find an independent video defect, order an immediate new trial or acquittal, or reopen Bishop's plea.
+
+**Stone-Zsela, concurring in part and dissenting in part, joined by no other Justice.** He joins application of Harris to both commerce claims and to Stokes's separate statutory and constitutional cumulative-punishment objections. He also joins admission of both eyewitness identification forms on the actual findings of independent recollection and reliability. He agrees with reaching Bishop's power-to-prosecute challenge without adding a threshold ground.
+
+He would vacate the appellate disposition only as to Stokes's booking statement and booking videotape and remand those issues for proper findings. For the statement, the accepted medical purpose does not by itself answer Innis's objective inquiry into whether police should have known that questioning in the actual circumstances was reasonably likely to elicit an incriminating answer. For the video, the appellate account of reasons on both sides does not disclose enough of the relevance and unfair-prejudice analysis for him to reconstruct that assessment. He would require the lower court to complete those component-specific determinations, without treating an unreported transcript or absence of lengthy appellate discussion as a new finding about what the officers or trial court actually did.
+
+Stone-Zsela does not now hold either item inadmissible. If the lower court finds improper admission, it must apply the appropriate constitutional or nonconstitutional prejudice inquiry and order the relief that inquiry requires. His remand preserves the distinction between an admissibility error and its effect; it supplies no finding of prejudice and no automatic new trial or acquittal. His proposed relief leaves the affirmed commerce, punishment and identification components, and Bishop's judgment, intact. He does not join Stevens's determination that admission of the answer was already erroneous.
+
+## Procedure After Action
+
+The Supreme Court merits review of this consolidated event is complete. The Third Circuit's affirmance of both criminal judgments stands. The Court directs no lower-court merits remand, suppression, new trial, acquittal, resentencing or further hearing. No specific mandate-issuance date or further Supreme Court event is set.
+
+## Source Notes
+
+The [amended Third Circuit opinion, 66 F.3d 569](https://static.case.law/f3d/66/html/0569-01.html), especially 571–75 and footnotes 1–2, supplies the plea, charges, sentences, reported trial objections, identification findings and booking rulings; 593 acknowledges this Dodge's prior interstate movement. [OpenJurist's opinion text](https://openjurist.org/66/f3d/569) provides a second reading of the same public opinion.
+
+The opinion's reported offense year conflicts with its plea date. The decision uses the original §2119 version expressly identified as governing, without selecting a corrected offense year or applying a later amendment. The judgment does not depend on resolving that calendar discrepancy. No separate Supreme Court docket or argument date is supplied.
+
+[Innis](https://www.law.cornell.edu/supremecourt/text/446/291), [Muniz](https://www.law.cornell.edu/supremecourt/text/496/582), [Manson](https://www.law.cornell.edu/supremecourt/text/432/98), and [Biggers](https://www.law.cornell.edu/supremecourt/text/409/188) supply the received interrogation, physical-evidence and identification distinctions. The [official Innis report](https://tile.loc.gov/storage-services/service/ll/usrep/usrep446/usrep446291/usrep446291.pdf), [official Muniz report](https://tile.loc.gov/storage-services/service/ll/usrep/usrep496/usrep496582/usrep496582.pdf), and [official Manson report](https://tile.loc.gov/storage-services/service/ll/usrep/usrep432/usrep432098/usrep432098.pdf) contain those opinions and their separate writings.
+
+The reported opinion does not reproduce the entire suppression testimony, recording, evidentiary arguments or trial presentation. It establishes findings and adjudicated objections, but supplies no basis to invent the questioner's knowledge, additional statements, the tape's playback content, a specific unreported video defect or a fresh prejudice determination. Those limits constrain the decision's scope; they are not findings that the lower courts lacked a record or failed to review the questions.
+
+---
+
 <!-- source-record: Sherman_v_Community_Consolidated_School_District_21_merits_1996-02-12.md -->
 ## Event
 
@@ -528,105 +836,221 @@ The [Seventh Circuit opinion, 980 F.2d 437](https://static.case.law/f2d/980/html
 <!-- source-record: United_States_v_Hale_merits_1996-02-12.md -->
 ## Event
 
-United States v. Hale; Eighth Circuit No. 91-3830; judgment below reported at 978 F.2d 1016. Merits decision, February 12, 1996; October Term 1995.
+United States v. Hale; Eighth Circuit No. 91-3830, judgment below reported at 978 F.2d 1016. Merits decision, February 12, 1996, reviewing the Eighth Circuit's affirmance of thirteen machinegun-possession convictions under 18 U.S.C. §922(o) and three unregistered-firearm convictions under 26 U.S.C. §5861(d). The questions concern Congress's authority under the two distinct statutory schemes, the Second Amendment objections to possession and registration, admission of negative-record certificates, and the separate exclusion and judicial-notice rulings on Senate hearing excerpts. No separate Supreme Court docket, grant wording or argument date is established. The lower appeal was submitted June 10, 1992, decided October 20, 1992, and followed by denial of rehearing November 20, 1992.
 
-On review of the Eighth Circuit's judgment affirming thirteen machinegun-possession convictions under 18 U.S.C. §922(o) and three unregistered-firearm convictions under 26 U.S.C. §5861(d). The appellate decision issued October 20, 1992; rehearing was denied November 20, 1992. The questions concern congressional power, the asserted Second Amendment protection based on military usefulness, and the preserved registry-proof objections. Hale seeks reversal; the United States seeks affirmance. No Supreme Court argument date is supplied. No companion case is consolidated with this matter.
+The March 8, 1991 search produced the following described inventory:
+
+| Object | Description and number |
+|---|---|
+| MAC-10 | One .45 caliber submachine gun. |
+| Sten-type guns | Three 9 millimeter fully automatic submachine guns. |
+| M-1 carbines | Two with kits enabling fully automatic fire; no separate kit-to-count assignment is established. |
+| Pistol and silencer | One .22 caliber pistol with a silencer; the pistol itself is not established to be automatic. |
+| Modified rifles | Five .223 caliber rifles modified into M-16-type fully automatic machineguns. |
+| Receivers | One MAC-10, one Sten and one M-16-type receiver. |
+
+The published account does not map the sixteen counts to particular objects or determine overlap among counts. The court below acknowledged the weapons' military character and the capacity of most to injure groups, but relied materially on Hale's failure to show a personal relationship to organized military activity. Its description does not establish every object's constitutional status.
+
+Section 922(o) provides:
+
+> (1) Except as provided in paragraph (2), it shall be unlawful for any person to transfer or possess a machinegun.
+>
+> (2) This subsection does not apply with respect to—
+>
+> (A) a transfer to or by, or possession by or under the authority of, the United States or any department or agency thereof or a State, or a department, agency, or political subdivision thereof; or
+>
+> (B) any lawful transfer or lawful possession of a machinegun that was lawfully possessed before the date this subsection takes effect.
+
+The effective date is May 19, 1986. Manufacture before that date alone does not satisfy the prior-lawful-possession exception. No particular count is newly found within or outside either exception.
+
+Through §921(a)(23), the provision uses §5845(b)'s definition:
+
+> The term “machinegun” means any weapon which shoots, is designed to shoot, or can be readily restored to shoot, automatically more than one shot, without manual reloading, by a single function of the trigger. The term shall also include the frame or receiver of any such weapon, any part designed and intended solely and exclusively, or combination of parts designed and intended, for use in converting a weapon into a machinegun, and any combination of parts from which a machinegun can be assembled if such parts are in the possession or under the control of a person.
+
+The whole-weapon, frame-or-receiver, single-conversion-part, conversion-combination and one-person-controlled assembly-combination branches retain these distinct conditions. Section 5861(d), separately, prohibits receipt or possession of a firearm “which is not registered to him in the National Firearms Registration and Transfer Record.”
 
 ## Participation
 
-Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate. No Justice is recused or otherwise absent.
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate.
 
 ## Public Action
 
-The Court affirms the judgment of the Eighth Circuit on every presented constitutional and evidentiary component.
+The Court affirms in part, vacates in part, and remands. The three §5861(d) convictions remain affirmed. The appellate judgment concerning the thirteen §922(o) convictions is vacated for reconsideration of the preserved Second Amendment application. The distinct power and evidentiary challenges are rejected on the grounds stated below.
 
 ## Judgment & Remedy
 
-**Affirmed, 9–0.** **Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justice | Remedy or remand |
+|---|---|---|---|---|
+| Section 922(o), Commerce Clause challenge | Rejected, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | The power objection supplies no relief; the distinct arms component is remanded. |
+| Section 5861(d), constitutional-power challenge | Rejected, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Three registration convictions remain affirmed on the independent tax-administration ground. |
+| Section 922(o), Second Amendment application | Appellate affirmance vacated; remanded, 8–1 | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela would affirm | Return the thirteen-count arms application under Love and Miller, without deciding ultimate invalidity. |
+| Section 5861(d), asserted military-utility exemption | Rejected, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Three registration convictions remain affirmed against this separate arms objection. |
+| Negative-record certificates | Admission sustained, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | No evidentiary reversal or harmless-error determination. |
+| Senate excerpts, ordinary admission | Exclusion sustained, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | No reversal on the reported hearsay and relevance presentation. |
+| Senate excerpts, judicial notice | Refusal sustained, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | No judicial notice of the disputed assertions' truth. |
 
-The thirteen §922(o) convictions survive the commerce and Second Amendment challenges; the three §5861(d) convictions survive the presented constitutional-source challenge. Admission of the two ATF certifications, exclusion of the 1979 Senate material and refusal to take judicial notice of disputed registry unreliability are affirmed. Stone-Zsela agrees with the disposition only on the registration-authority and two evidentiary components. No conviction is vacated, and no new trial, resentencing or evidentiary hearing is ordered.
+The three registration convictions are affirmed, 9–0; the thirteen-count appellate affirmance is vacated, 8–1, solely for the preserved arms application. No acquittal, release, return of all seized items, immediate new trial, new indictment, new instruction or sentence change is ordered. Any consequential sentencing treatment must follow the lawful disposition of the returned counts. The Court makes no new assignment of objects to counts.
 
 ## Opinion Topology
 
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
-|---|---|---|---|---|
-| Opinion of the Court | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer throughout; Stone-Zsela as specified | Supports the complete affirmance | All five holdings have eight Associate joins; Stone-Zsela additionally joins holdings 1 and 3 |
-| Concurrence | Stone-Zsela | No other Justice | Concurs in the judgment; also joins holdings 1 and 3 of the Court opinion | States a distinct individual-arms premise and functional automatic-fire distinction; adds no ground on the registration-authority, certification, or excluded-material components |
+O'Connor delivers the coordinated opinion of the Court. Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join the opinion throughout, with the bounded certificate join and reservation stated below.
+
+| Writing or portion | Author | Joins | Relationship to judgment and exact scope |
+|---|---|---|---|
+| Part I | O'Connor | All eight other Justices | Nine-Justice bounded machinegun-market ground rejecting the §922(o) commerce challenge. |
+| Part II | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight-Justice independent tax-administration ground for §5861(d). Stone-Zsela agrees in the judgment only. |
+| Part III-A | O'Connor | All eight other Justices | Nine-Justice personal-holder rule and rejection of automatic military-utility immunity; does not settle the ultimate prohibition or remedy. |
+| Part III-B | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight-Justice vacatur and remand of the thirteen-count appellate affirmance. Stone-Zsela dissents. |
+| Part IV | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight-Justice separate registration ground rejecting the arms exemption. Stone-Zsela agrees in the judgment only. |
+| Part V | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight-Justice bounded certificate admission. Scalia and Thomas retain their White reservation about possible reconsideration of formalized testimonial materials; no new categorical test is adopted. Stone-Zsela agrees in the judgment only. |
+| Parts VI-A and VI-B | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight-Justice grounds separately sustaining ordinary exclusion and refusal of judicial notice. Stone-Zsela agrees in each judgment only. |
+| Opinion concurring in part and dissenting in part | Stone-Zsela | No other Justice | Joins Parts I and III-A; agrees only with the five judgments identified above; would affirm the §922(o) arms disposition on the functional distinction explained below. |
 
 ## Holdings
 
-### 1. Possession controls enforce the actual machinegun-market restriction
+### Congress may include possession in this regulation of the machinegun market
 
-**Holding and operative rule:** Congress may prohibit possession as an integral enforcement component of §922(o)'s restriction on the machinegun transfer and supply market. This authority rests on the actual commercial scheme, including its exceptions for a transfer to or by, or possession by or under the authority of, the United States or its departments or agencies, or a State or its departments, agencies, or political subdivisions, and for lawful transfer or possession of a machinegun lawfully possessed before May 19, 1986; it does not depend on adding an individual commerce element or on generalized crime costs.
+**Operative rule:** Congress may prohibit machinegun possession as an integral part of §922(o)'s direct control of transfers and the available private machinegun stock, subject to the subsection's government-related and prior-lawful-possession exceptions. This enacted relationship to the regulated market defeats the presented commerce challenge without a transaction-specific interstate element; an object's marketability, remote interstate history, or general contribution to crime costs would not alone suffice.
 
-**Authority:** O'Connor's Opinion of the Court, joined on this holding by all eight other Justices; nine direct joins.
+**Authority:** Part I of O'Connor's opinion, joined by Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, supplies nine direct votes for this bounded commerce ground.
 
-**Controlling explanation:** The Court holds that local possession cannot be detached from the commercial prohibition it enforces. Restricting the machinegun supply and transfers would be undermined if newly made or unlawfully transferred weapons could be retained through possession outside that restriction. The grandfather exception helps define the lawful existing supply; the governmental-authority exception remains intact. Harris permits regulation of an economic class within its actual interstate scheme. Lopez rejects a different theory: remote consequences of stand-alone school-zone possession through crime, education and productivity. Hale's reliance on the local character of his possession therefore does not defeat this prohibition, and the absence of a separately enacted nexus element does not require the Court to insert one. The holding approves this integrated restriction, not every firearm prohibition or every regulation of an object that once crossed a state line.
+**Controlling explanation:** The Court holds that the possession restriction operates within the same subsection's control of machinegun transfer and supply. Permitting uncontrolled additions to private stock while prohibiting its ordinary transfer would leave the regulated supply outside that control. The exceptions preserve specified government channels and a stock already lawfully possessed when the prohibition took effect. They help define the scheme; they do not establish an exception for any particular count here.
 
-### 2. The registration requirement retains its independent tax foundation
+Lopez rejects a chain from local possession through crime, education and productivity to national prosperity. Its stand-alone school-location offense differs from this direct transfer-and-possession scheme. Harris permits regulation of an economic vehicle-taking class while requiring proof of the vehicle-history element Congress enacted there. American Life League confirms that direct protection of an interstate market need not require each actor to cross a state line. Bishop and Stokes preserve those distinctions. Wickard and Perez permit regulation of an economic class despite the local character of an individual instance.
 
-**Holding and operative rule:** Section 5861(d)'s registration requirement remains constitutionally supported insofar as it serves the National Firearms Act's genuine making-and-transfer tax system. The separate prohibition on new machinegun transfers does not, by itself, establish that the entire tax-registration system has lost its constitutional foundation.
+Hale's local possession therefore does not defeat this market ground. But describing every object as marketable would erase the required connection and is insufficient. The Court finds no particular interstate trip by Hale or his weapons and adds no missing nexus element to §922(o). Constitutional power to enact this provision leaves the separate Second Amendment question to its own analysis.
 
-**Authority:** O'Connor's Opinion of the Court, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct joins. Stone-Zsela agrees with the affirmance of these counts without joining this rationale.
+### The registration prohibition has an independent tax-administration basis
 
-**Controlling explanation:** Sonzinsky supplies the taxing foundation for a genuine firearms tax despite its regulatory effects; Freed recognizes the accompanying registration system. Those authorities require examination of that system's actual tax function rather than reliance on a federal police power. Hale's contention that prohibited weapons cannot be newly registered does not establish that the making-and-transfer tax system ceased to exist. The three registration counts therefore survive the constitutional-source objection presented here. The Court does not find that every prohibited transaction is registrable or taxable. An independently preserved claim that compliance was impossible for a particular weapon would require its own record and analysis; no rejected application, count-specific impossibility finding or separate due-process claim of that kind is established here.
+**Operative rule:** Congress may require registration within a genuine firearm making-and-transfer tax system and prohibit receipt or possession of a covered firearm not registered to its possessor when that prohibition supports assessment, collection and tracing of taxable transactions. This independent taxing and necessary-administration ground defeats the presented power objection to the three §5861(d) convictions, without deciding prosecution for nonregistration of a firearm that could not lawfully be approved or taxed.
 
-### 3. Military usefulness does not establish the asserted immunity
+**Authority:** Part II of O'Connor's opinion is joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: eight direct votes. Stone-Zsela agrees only with the judgment on this component and adds no ground. This same eight-Justice coalition supplies the controlling authority identified below for Parts III-B, IV, V and VI-A–B.
 
-**Holding and operative rule:** A weapon's military utility alone does not establish the claimed Second Amendment immunity from these federal restrictions. Miller does not make that characteristic sufficient to invalidate Hale's convictions.
+**Controlling explanation:** Registration allows the making-and-transfer tax system to identify covered firearms, lawful possessors and taxable transactions. The possession prohibition prevents those records from being bypassed after making or transfer. Sonzinsky sustains genuine taxation and registration supporting revenue despite their regulatory effect; its holding does not validate every NFA provision in every application. Miller rejects the general police-power objection to the NFA provisions before it. Freed explains the revised lawful-transfer registration structure, without deciding the later §922(o) prohibition.
 
-**Authority:** O'Connor's Opinion of the Court, joined on this holding by all eight other Justices; nine direct joins.
+The statutory roles matter. Section 5811 taxes a transfer at $200, with a $5 rate for an “any other weapon” under §5845(e), payable by the transferor; §5821 taxes making at $200, payable by the maker. Both taxes remain subject to applicable exemptions; none is established here. Section 5841 registers a transferred firearm to the transferee through the transferor, rather than requiring the transferee to perform that function. Section 5812 requires approval before transfer and denial if transfer, receipt or possession would put the transferee in violation of law. Section 5822 requires approval before making and denial if making or possession would put the maker in violation of law. Section 5861(d) concerns registration to the possessor, not a universal duty to file a late application.
 
-**Controlling explanation:** Miller examined the relationship between the weapon and preservation or efficiency of a well-regulated militia; it reversed a dismissal and remanded rather than affirming a conviction. Its inquiry does not yield the converse proposition that every weapon useful in war is immune from regulation. Hale supplies no evidence connecting this possession with preservation or efficiency of such a militia, and military usefulness alone does not make the necessary case. The Court rejects that asserted exemption without adopting the lower court's broad exclusively collective-right characterization. It does not settle the full scope of an individual right or the treatment of every rifle, semiautomatic firearm, suppressor or other regulated item.
+The strongest contrary claim concerns a weapon for which lawful approval and tax collection are unavailable. No such predicate, refused application or exemption is established for these three counts. The Court neither validates nor invalidates that different application and orders no remand to construct it. A separate commerce ground is unnecessary. Staples's factual-knowledge requirement remains distinct from Congress's authority to maintain the registration system.
 
-### 4. The certifications satisfy the governing confrontation inquiry on this record
+### The right is personally held, and military usefulness supplies no automatic immunity
 
-**Holding and operative rule:** The two authenticated ATF certifications reporting that a diligent search disclosed no application by Hale to register the weapons are admissible on the conceded firmly rooted negative-record exception and this administrative-record setting. The governing Confrontation Clause framework requires no additional showing of the certifying witnesses' unavailability on this record.
+**Operative rule:** A person may invoke the Second Amendment without proving membership in, current service to, or preparation for an organized militia; constitutional protection still depends on the actual weapon, conduct and restriction. Military usefulness alone neither excludes an arm from the guarantee nor creates an unrestricted exemption from manufacture, transfer, possession, taxation or registration controls.
 
-**Authority:** O'Connor's Opinion of the Court, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct joins. Stone-Zsela agrees only with the disposition of this objection.
+**Authority:** Part III-A of O'Connor's opinion, joined by Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, supplies nine direct votes. This common rule does not establish agreement on the ultimate §922(o) application or its remedy.
 
-**Controlling explanation:** Roberts supplies the reliability inquiry; a genuinely firmly rooted exception can establish the required reliability. Wright preserves a constitutional inquiry distinct from a rule's label, so counsel's concessions concerning Rule 803(10) and authentication under Rule 902(1) do not waive every confrontation objection. Here those conceded predicates concern administrative negative-record proof, not the unsupported residual-exception reasoning rejected in Wright. Dutton and Inadi also prevent treating Roberts's former-testimony discussion as an unavailability requirement for every hearsay category. The certificates satisfy the applicable inquiry on this record. The Court does not approve every affidavit prepared for a prosecution or hold that all evidence admissible under a hearsay rule necessarily satisfies confrontation.
+**Controlling explanation:** Love establishes the individual as a holder of the right and rejects formal enrollment or current service as a prerequisite. That is governing law in this federal prosecution. Its separate incorporation holding is unnecessary here, and its protection of acquisition necessary to protected keeping does not itself invalidate every transfer restriction.
 
-### 5. Disputed registry criticism is not a judicially noticeable fact
+Miller preserves inquiry into the actual weapon on the actual record. It reversed a judgment sustaining a demurrer and quashing an indictment, then remanded; it did not affirm a conviction or establish that all military-capable weapons are immune from regulation. Its account of citizens supplying suitable arms also does not support exclusion merely because a weapon has military uses.
 
-**Holding and operative rule:** The trial court did not abuse its discretion by excluding the offered 1979 Senate material as stale hearsay or by refusing to notice its disputed assertions of registry unreliability. Rule 201 does not make contested factual conclusions indisputable merely because they appeared in a governmental hearing.
+The court below acknowledged the military character of Hale's weapons and the capacity of most to injure groups. It nevertheless relied on Hale's failure to show a personal relationship to organized military activity. Love removes that prerequisite. The absence of membership cannot regain dispositive force by being described as a failure to prepare for a military career. Conversely, rejection of that barrier does not resolve the constitutional coverage of every object or the validity of each restriction. The Court rejects Hale's asserted automatic military-utility exemption while preserving the distinct application question.
 
-**Authority:** O'Connor's Opinion of the Court, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct joins. Stone-Zsela agrees only with the disposition of these objections.
+### The thirteen-count appellate affirmance returns for the preserved arms inquiry
 
-**Controlling explanation:** Hale offered the earlier material for the truth of contested claims about the registry's reliability. The occurrence of the hearing does not establish the truth of every assertion made there. Ordinary hearsay and relevance requirements therefore remain applicable, and the age and character of this submission support its exclusion. The Court does not make registry accuracy conclusive or forbid competent, relevant proof of error. It holds only that this submission required neither admission nor judicial notice and thus establishes no ground to disturb these convictions.
+**Operative rule:** Because the court below materially relied on a personal-affiliation prerequisite that Love rejects and supplied no adequate independent application of the surviving weapon-and-regulation inquiry, its judgment is vacated insofar as it affirms the thirteen §922(o) convictions. On remand, the lower courts must decide the preserved arms challenge under Love and Miller using the actual objects, statutory bases and record, with constitutional coverage and permissible regulation kept distinct.
 
-**Questions not reached:** No preserved Staples instructional error, suppression claim, count-specific registration-impossibility claim or additional unspecified pro se claim is decided. The absence of a proved error makes a harmless-error determination unnecessary.
+**Authority:** Part III-B of O'Connor's opinion controls by the eight-Justice coalition identified for Part II. Stone-Zsela dissents from this remedy and would affirm the §922(o) disposition on his separate functional ground.
+
+**Controlling explanation:** The legal premise supporting the lower court's application has changed. Love's personal guarantee requires consideration of the claim without the removed affiliation barrier. The military character acknowledged below remains relevant; it is not an adjudication that every weapon is protected against every restriction. Miller supplies the surviving weapon-and-record inquiry, not an automatic acquittal rule.
+
+The serious capacity of automatic weapons to harm groups and §922(o)'s exceptions can support a regulation argument. Neither observation, by itself, supplies the complete constitutional rule and application needed to sustain this prohibition. The statutory machinegun label likewise does not settle constitutional coverage. The Court adopts no exhaustive weapons classification, scrutiny tier or categorical public-safety test.
+
+The lower courts must identify and use the actual object and §5845(b) basis for each affected count as necessary to resolve the preserved claim. They may use count-specific determinations already established in the trial record. The remand does not presume that those determinations were omitted, reopen every unchallenged statutory finding, create a new offense element or impose a universal hearing requirement. Lawful decision on the existing record or ordinary further proceedings remains available as the actual record and governing inquiry require.
+
+This identified legal error, rather than the absence of trial materials from the published account, supplies the remand. The Court decides no ultimate invalidity and orders no acquittal, release or immediate new trial. The distinct registration and evidentiary rulings receive no further remand on this ground.
+
+### Military usefulness supplies no exemption from the separate registration duty
+
+**Operative rule:** The personal character of protected keeping and a weapon's military usefulness do not themselves exempt a possessor from the NFA's identification and registration requirements administering lawful making and transfer. The three §5861(d) convictions are affirmed against the presented arms objection; the Court does not decide a materially different claim that a particular firearm could not lawfully be registered.
+
+**Authority:** Part IV of O'Connor's opinion controls by the eight-Justice coalition identified for Part II. Stone-Zsela agrees with this judgment only and adds no ground.
+
+**Controlling explanation:** Hale claims an exemption because the weapons have military utility. That premise does not establish a constitutional entitlement to bypass the separate recordkeeping duties of the tax system. Miller's NFA setting preserves the distinction between a weapon's constitutional relationship to the guarantee and compliance with registration and stamped-transfer requirements. Sonzinsky recognizes registration's revenue-administration role. Freed explains the lawful making-and-transfer structure. Love preserves real regulatory limits while distinguishing them from constitutional coverage.
+
+The registration convictions therefore have an answer independent of whether §922(o)'s possession prohibition ultimately infringes protected keeping. The Court does not relabel a possession ban as harmless recordkeeping. Nor does it hold that prosecution is valid when legally unavailable approval makes registration impossible. No count-specific premise establishes that different burden here, and the fact that some seized objects were machineguns does not assign those objects or a post-1986 prohibition to any particular registration count. The presented military-utility exemption fails without deciding that hypothetical or every object's constitutional coverage.
+
+### The accepted negative-record certifications require no separate unavailability showing
+
+**Operative rule:** On the accepted Rule 803(10) foundation and Rule 902(1) authentication, the described certificates reporting a diligent search and the absence of a regularly maintained public record may be admitted without first producing the custodian or proving unavailability. This application of the received confrontation framework rests on the rooted exception and the certificates' limited search-and-nonentry function; it does not validate every formal affidavit or resolve a disputed search, wording or sufficiency question.
+
+**Authority:** Part V of O'Connor's opinion controls by the eight-Justice coalition identified for Part II, with Scalia and Thomas retaining the reservation stated below. Stone-Zsela agrees with the admission judgment only and adds no ground.
+
+**Controlling explanation:** Counsel conceded the exception's firmly rooted character and authentication, but not the constitutional claim, registry infallibility or proof of every element. Roberts gives rooted exceptions their reliability significance. Inadi rejects a universal production or unavailability gate. White requires attention to the particular exception and evidentiary function; its spontaneous-declaration and medical-treatment settings do not themselves decide this certificate question. Wright preserves the difference between a rooted exception and an ad hoc residual exception. Coy and Craig retain safeguards concerning trial-witness presentation.
+
+The certificates describe a diligent search for records that would exist independently of this prosecution if the legally recorded event occurred. They report search and nonentry, rather than reconstructing possession, classifying weapons or deciding an offense element for the jury. Even assuming preparation for this prosecution, that limited function and the accepted longstanding exception support admission. A live witness could be questioned about the search; the Court does not deny that value. But no particular faulty search, altered record or pertinent contemporary omission is established by the reported challenge. Availability's immateriality under the evidence rule alone would not answer the Constitution.
+
+The reported phrase “application by Hale” is not a finding that every legally relevant registration route was searched. Sections 5812 and 5841 distinguish registration to a transferee from an application by him. The account also does not establish a search confined to personally submitted applications, so it supplies no new certificate defect. The Government retains its burden to prove every element; authentication is not itself constitutional reliability, and competent rebuttal remains available. The Court makes no sufficiency or harmless-error finding.
+
+Scalia and Thomas join this bounded application without abandoning their White reservation concerning possible reconsideration of formalized testimonial materials. Their join adopts neither a new categorical test nor a rule excluding formal prosecutorial affidavits from confrontation.
+
+### The reported Senate offer does not establish ordinary admission error
+
+**Operative rule:** The exclusion of the reported 1979 Senate excerpts is sustained because the presented challenge identifies no passage, relevant nonhearsay purpose, applicable exception, foundation or demonstrated bearing on the searched registry that establishes an abuse of discretion. The ruling creates no categorical age bar and does not foreclose a properly founded challenge to registry reliability.
+
+**Authority:** Part VI-A of O'Connor's opinion controls by the eight-Justice coalition identified for Part II. Stone-Zsela agrees with this judgment only and adds no ground.
+
+**Controlling explanation:** Hale offered the excerpts to contest the registry's reliability. That purpose can matter, but it does not itself satisfy hearsay and relevance requirements. The district court excluded the older out-of-court material as hearsay and too old to be reliable; the appellate presentation supplies no particular passage or foundation demonstrating error in that ruling. The Court does not find that all older criticism is irrelevant, that the registry is beyond challenge, or that effective rebuttal may be prohibited.
+
+Bishop and Stokes distinguish missing detail in an appellate account from an affirmative showing that the trial court omitted necessary evidentiary review. Their different medical and physical-evidence rules supply no ground here. A possibility that criticism could reveal an error cannot replace the actual offer and its admissibility basis. No new defense-presentation violation or harmless-error conclusion follows. This ordinary-admission ground is independent of Rule 201's separate restriction on judicial notice.
+
+### Official publication does not make disputed assertions judicially noticeable
+
+**Operative rule:** Rule 201 does not permit judicial notice of the truth of reasonably disputed assertions merely because they appear in a congressional hearing transcript. Refusal to notice the Senate excerpts' disputed claims about registry reliability is therefore sustained; notice that the hearing occurred remains distinct from accepting its assertions as true or as establishing the registry's condition in 1991.
+
+**Authority:** Part VI-B of O'Connor's opinion controls by the eight-Justice coalition identified for Part II. Stone-Zsela agrees with this judgment only and adds no ground.
+
+**Controlling explanation:** Official publication establishes neither the indisputability of a witness's criticism nor its continued accuracy at a later date. Hale sought to use the 1979 statements to establish unreliability of the registry searched in this case. Their governmental setting does not remove reasonable dispute about their truth or application. The refusal to take notice accordingly supplies no abuse of discretion. This conclusion does not determine the admissibility of a properly founded evidentiary offer and cannot substitute for the separate hearsay and relevance analysis sustaining ordinary exclusion.
 
 ## Precedent Treatment
 
-- United States v. Lopez, April 26, 1995: its bar on the stand-alone school-possession/downstream-effects theory and on inserting an absent commerce element remains intact; this actual market restriction is distinguished.
-- United States v. Harris, April 27, 1995: its economic-class approach is applied to the machinegun supply and transfer scheme; its vehicle-specific statutory nexus is not added to §922(o).
-- Sonzinsky v. United States, 300 U.S. 506: its genuine-tax foundation is applied; regulatory effects alone do not eliminate the tax power.
-- United States v. Freed, 401 U.S. 601: its tax-registration framework is applied without deciding an unpresented impossible-compliance claim.
-- United States v. Miller, 307 U.S. 174: its limited militia-related inquiry is applied; it does not establish automatic immunity for weapons with military utility or require the lower court's exclusively collective-right formulation.
-- Ohio v. Roberts, 448 U.S. 56: its firmly rooted-exception reliability approach is applied to the conceded administrative negative-record proof.
-- Dutton v. Evans, 400 U.S. 74: its rejection of an indiscriminate unavailability requirement is applied within the inherited confrontation framework.
-- United States v. Inadi, 475 U.S. 387: its distinction between former testimony and other hearsay categories prevents a universal unavailability prerequisite here.
-- Idaho v. Wright, 497 U.S. 805: its independent constitutional reliability requirement remains; the conceded firmly rooted category distinguishes this proof from its residual-exception setting.
-- Staples v. United States, May 23, 1994: its knowledge-of-weapon-characteristics rule remains unchanged; its availability does not establish an instructional defect absent from the presented record.
+- **United States v. Lopez, April 26, 1995:** Its rejection of generalized crime-and-productivity reasoning and insertion of a missing commerce element remains binding; §922(o)'s direct transfer-and-possession market scheme is distinguished.
+- **United States v. Harris, April 27, 1995:** Its economic-class ground is applied; its separately enacted vehicle-history requirement does not become an unwritten machinegun element.
+- **American Life League v. Reno, November 13, 1995:** Its direct protection of an interstate market supports the conclusion that each actor need not cross a state line.
+- **United States v. Bishop and United States v. Stokes, February 5, 1996:** Their commerce application preserves Harris and Lopez; their separate evidentiary ground distinguishes missing appellate detail from demonstrated error, without extending their medical or physical-evidence rules here.
+- **Wickard v. Filburn, 317 U.S. 111:** Economic-class regulation retains its force; the local character of an individual instance does not alone defeat the valid scheme.
+- **Perez v. United States, 402 U.S. 146:** Congress's authority over an economic class is applied without turning general public safety into an enumerated power.
+- **Love v. Pepersack, December 11, 1995:** Its personal-holder rule displaces the affiliation prerequisite used below; its distinct weapon, regulation and reserved-application limits remain, and its incorporation holding requires no new decision in this federal case.
+- **United States v. Miller, 307 U.S. 174:** Its actual reversal of an indictment dismissal and remand preserves the weapon-and-record inquiry; it establishes neither exclusion because of military utility nor automatic military-weapon immunity from registration or possession regulation.
+- **Sonzinsky v. United States, 300 U.S. 506:** Genuine taxation and revenue-supporting registration remain valid despite regulatory effects; its limited dealer-tax holding is not treated as approval of every NFA application.
+- **United States v. Freed, 401 U.S. 601:** Its lawful-transfer registration structure and distinct transferor and transferee roles remain operative; it did not decide the later §922(o) prohibition.
+- **Staples v. United States, May 23, 1994:** Its knowledge requirement for a rifle prosecuted as a whole-weapon machinegun remains intact; no new instruction, sufficiency or separate-parts ruling is made.
+- **Ohio v. Roberts, 448 U.S. 56:** Its received reliability framework remains controlling; its former-testimony unavailability analysis is not universalized.
+- **United States v. Inadi, 475 U.S. 387:** Its rejection of an invariable production or unavailability gate informs the exception-specific inquiry; the certificate's function is not equated with contemporaneous coconspirator statements.
+- **White v. Illinois, January 15, 1992:** Its accepted-exception analysis is applied without treating its spontaneous-declaration and medical-treatment holdings as automatic approval of public-record affidavits; the received framework and Scalia and Thomas's separate reservation remain.
+- **Idaho v. Wright, 497 U.S. 805:** Its rooted-versus-residual-exception distinction and constitutional reliability limits remain; an exception label or authentication alone supplies no answer to disputed foundations.
+- **Coy v. Iowa, 487 U.S. 1012:** Its trial-witness presentation protection remains distinct from the accepted hearsay exception applied here.
+- **Maryland v. Craig, 497 U.S. 836:** Its safeguards for altered trial-witness presentation remain intact and do not decide the certificate question.
 
 ## Law After Decision
 
-Section 922(o)'s possession control is sustained as part of its actual machinegun-market restriction, while the NFA's tax-registration ground remains independent. The arms holding rejects military usefulness as automatic immunity without resolving the complete individual-right question. The evidence holdings apply the existing confrontation and evidence rules to this conceded category and submission; they establish neither universal affidavit admissibility nor conclusive registry accuracy. The Court changes no mens rea rule and adopts no new harmless-error test.
+Section 922(o)'s direct transfer-and-possession scheme survives the presented commerce challenge on a bounded market ground. No general federal power over every marketable object, new interstate element or commerce-based resolution of the personal arms guarantee follows. Section 5861(d)'s distinct tax-administration and registration grounds remain sufficient for these three convictions.
+
+Love's personal guarantee governs the federal arms claim. Formal militia affiliation is unnecessary, and military utility supplies neither automatic exclusion nor immunity. The thirteen-count appellate disposition returns for the actual weapon-and-regulation application; the Court establishes no universal automatic-weapon classification, scrutiny tier or ultimate invalidity. An as-applied claim involving legally unavailable registration remains undecided.
+
+The received confrontation framework permits these certificates on the accepted exception, authentication and search-function premises. It creates no categorical rule for all formal accusations, irrebuttable registry presumption or release from the Government's proof burden. Ordinary admission and judicial notice of registry criticism remain separate questions; neither all older criticism nor properly founded rebuttal is barred.
+
+Staples continues to require proof beyond a reasonable doubt that the defendant knew the characteristics making a rifle a whole-weapon machinegun, without requiring knowledge of nonregistration or illegality. Its separate parts questions remain open. No preserved instruction defect or new sufficiency ruling is established here. Unrelated, undescribed claims receive no new adjudication.
 
 ## Separate Writings
 
-Chief Justice Stone-Zsela concurs. He joins the market holding and the conclusion that Miller does not give military usefulness automatic immunity. He also would recognize a personal right to ordinary lawful arms while distinguishing these weapons' sustained automatic fire by function and relation to ordinary lawful civilian defense. Appearance or military ancestry alone would not draw his line. An ordinary handgun and these automatic weapons need not receive identical constitutional treatment. His explanation does not declare every rifle, semiautomatic firearm, suppressor or specially regulated item unprotected, and this federal prosecution presents no incorporation question. No other Justice joins that additional ground; it does not enlarge the Court's holding.
+**Stone-Zsela, concurring in part and dissenting in part.** The Chief Justice joins the Court's bounded commerce analysis. Possession controls may prevent the defined restriction on new private machinegun stock and transfers from being defeated by an untraceable supply of newly made or unlawfully transferred weapons. The lawful-stock distinction helps identify that scheme. Lopez's commerce boundary remains; general crime costs and remote movement of an object would not supply this ground.
+
+He also joins the governing personal-holder rule and the rejection of automatic military-utility immunity, but would affirm the §922(o) arms disposition. Love establishes a personal right; he does not treat that premise as an assumption. In his view, sustained automatic fire can be distinguished by its function and relationship to ordinary lawful civilian defense from an ordinary handgun. Military ancestry or appearance alone does not draw the line. Miller's discussion of military usefulness does not establish the claimed exemption. He would reject the claimed protection for the actual automatic weapons on that functional ground without deciding that every rifle, semiautomatic firearm, suppressor or specially regulated item is unprotected. This federal prosecution requires no incorporation decision.
+
+He agrees with the judgments on the §5861(d) power challenge, the separate registration arms challenge, certificate admission, ordinary exclusion of the Senate excerpts, and refusal of judicial notice, adding no ground on those five components. His functional arms distinction receives no other Justice's join and does not become the Court's governing weapons rule.
 
 ## Procedure After Action
 
-The Eighth Circuit's affirmance stands. All thirteen machinegun-possession counts and all three registration counts remain undisturbed. The mandate returns through the ordinary appellate process and orders no new trial, resentencing, registration proceeding or evidentiary hearing. No further Supreme Court event is set.
+The Eighth Circuit's judgment remains affirmed as to the three §5861(d) convictions. Its affirmance of the thirteen §922(o) convictions is vacated, and that component returns for the preserved Second Amendment application under Love and Miller. The lower courts must apply the personal guarantee to the actual weapons, statutory branches and restriction, using established count-specific premises and such ordinary further proceedings as the actual record and inquiry require. They may not make formal militia affiliation dispositive.
+
+The remand does not extend to an unestablished registration-impossibility, instruction, sufficiency, certificate-wording, search-foundation or Senate-passage claim. It orders no automatic reopening of trial findings, new hearing, retrial, release, acquittal or resentencing. Any consequential sentencing treatment follows only from lawful disposition of the returned counts. The power and evidentiary questions resolved here do not themselves require further proceedings.
 
 ## Source Notes
 
-The [Eighth Circuit opinion, 978 F.2d 1016](https://static.case.law/f2d/978/html/1016-01.html), including its concurrence and footnotes, supplies the counts, posture, arguments, certifications, concessions and challenged evidentiary rulings; the [same judicial text at OpenJurist](https://openjurist.org/978/f2d/1016) provides an additional public source. [Miller, 307 U.S. 174](https://www.law.cornell.edu/supremecourt/text/307/174), supplies its actual disposition and limited arms inquiry. The record supplies no separate Supreme Court docket, grant text or argument date. Those omissions do not supply a new claim or an additional historical event.
+[The complete Eighth Circuit opinion, 978 F.2d 1016](https://static.case.law/f2d/978/html/1016-01.html), supplies the sixteen convictions, described inventory, lower-court chronology, affiliation reasoning, certificate description, reported concessions and Senate rulings. It does not map each count to an object. The full indictment, verdict, instructions, actual certificates, trial proof and passage-specific Senate offer are not established by that account. Their absence supports no affirmative finding of deficient proof, instruction error, defective search or harmlessness. No additional Supreme Court docket, grant text or argument date is established.
 
-The [1994 Code, 18 U.S.C. ?922(o)(2) and effective-date note](https://www.govinfo.gov/content/pkg/USCODE-1994-title18/html/USCODE-1994-title18-partI-chap44-sec922.htm), supplies the complete governmental and pre-May 19, 1986 exceptions preserved in the market-scheme holding.
+The quoted §922(o) and incorporated machinegun definition are reproduced in the official [Title 18 provisions](https://www.govinfo.gov/content/pkg/USCODE-1994-title18/html/USCODE-1994-title18-partI-chap44-sec922.htm), [§921](https://www.govinfo.gov/content/pkg/USCODE-1994-title18/html/USCODE-1994-title18-partI-chap44-sec921.htm), and [Title 26 provisions](https://www.govinfo.gov/content/pkg/USCODE-1994-title26/html/USCODE-1994-title26.htm). [Public Law 99-308, §§109–110](https://www.govinfo.gov/content/pkg/STATUTE-100/pdf/STATUTE-100-Pg449.pdf), supplies the pertinent definition amendment and effective-date provisions. These texts preserve the government and prior-lawful-possession exceptions and the distinct parts branches; the later compilation supplies no additional offense in this prosecution.
+
+[Miller](https://www.law.cornell.edu/supremecourt/text/307/174), [Sonzinsky](https://www.law.cornell.edu/supremecourt/text/300/506), and [Freed](https://www.law.cornell.edu/supremecourt/text/401/601) supply their respective weapon-and-record, genuine-tax and registration-role principles. [Roberts](https://www.law.cornell.edu/supremecourt/text/448/56), [Inadi](https://www.law.cornell.edu/supremecourt/text/475/387), [Wright](https://www.law.cornell.edu/supremecourt/text/497/805), and [Coy](https://www.law.cornell.edu/supremecourt/text/487/1012) support the distinct confrontation propositions stated above. The reported phrase “application by Hale” does not determine whether every route to registration was searched, and it does not establish that the search was confined to Hale's own applications.
 
 ---
 

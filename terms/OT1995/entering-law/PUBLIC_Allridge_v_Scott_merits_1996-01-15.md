@@ -1,3 +1,7 @@
+# Public law reading copy
+
+Authority: [Record](../records/Allridge_v_Scott_merits_1996-01-15.md)
+
 ## Event
 
 Allridge v. Scott; Fifth Circuit No. 93-9137, judgment below at 41 F.3d 213 (1994). Merits decision, January 15, 1996. On review under 28 U.S.C. §1254(1) of the Fifth Circuit's December 15, 1994 judgment affirming denial of federal habeas relief. Allridge remains alive in custody. The submitted questions concern parole information and effective use of mitigation under Texas's capital special issues. His father offered lay testimony about prior prison abuse and alleged mental illness; the defense requested a supplemental mitigation instruction. Unintroduced medical evidence and a separate asserted deterrent effect of the special issues are distinct from that admitted proof.

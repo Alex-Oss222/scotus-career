@@ -1,3 +1,7 @@
+# Public law reading copy
+
+Authority: [Record](../records/Commissioner_v_Lundy_merits_1996-01-17.md)
+
 ## Event
 
 Commissioner v. Lundy, 516 U.S. 235, No. 94-1785. Argued October 31, 1995; decided January 17, 1996. On certiorari to the Fourth Circuit, 45 F.3d 856. Lundy had filed no return when the Commissioner mailed a deficiency notice on September 26, 1990. His withholding was deemed paid April 15, 1988; he filed his return later that December. The question is whether the Tax Court may refund that withholding under the hypothetical-claim provision of 26 U.S.C. §6512(b)(3)(B).

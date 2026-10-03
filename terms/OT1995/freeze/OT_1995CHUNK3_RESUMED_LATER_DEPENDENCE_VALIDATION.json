@@ -1,0 +1,128 @@
+{
+  "status": "passed",
+  "review_date": "2026-10-03",
+  "later_record_count": 9,
+  "inventory": [
+    {
+      "date": "1996-01-22",
+      "record": "Attwood_v_Singletary_filing_and_certiorari_1996-01-22.md"
+    },
+    {
+      "date": "1996-01-22",
+      "record": "Neal_v_United_States_merits_1996-01-22.md"
+    },
+    {
+      "date": "1996-02-05",
+      "record": "Beadle_v_City_of_Tampa_merits_1996-02-05.md"
+    },
+    {
+      "date": "1996-02-05",
+      "record": "United_States_v_Bishop_and_Stokes_merits_1996-02-05.md"
+    },
+    {
+      "date": "1996-02-08",
+      "record": "Telecommunications_Act_section_302_statutory_effectiveness_1996-02-08.md"
+    },
+    {
+      "date": "1996-02-12",
+      "record": "Sherman_v_Community_Consolidated_School_District_21_merits_1996-02-12.md"
+    },
+    {
+      "date": "1996-02-12",
+      "record": "United_States_v_Hale_merits_1996-02-12.md"
+    },
+    {
+      "date": "1996-02-21",
+      "record": "Behrens_v_Pelletier_merits_1996-02-21.md"
+    },
+    {
+      "date": "1996-02-21",
+      "record": "Fulton_Corp_v_Faulkner_merits_1996-02-21.md"
+    }
+  ],
+  "notes": {
+    "Attwood_v_Singletary_filing_and_certiorari_1996-01-22.md": {
+      "before_sha256": "f998d9576a5a4c74be15affd22f4c6d7b1968d776a2ae66f4a9ae5d8a6d72c46",
+      "after_sha256": "79bf168df8a41c3471ea9528843497562ec14cd1422fad8e1007b6b8315742c5",
+      "restored_sha256": "f998d9576a5a4c74be15affd22f4c6d7b1968d776a2ae66f4a9ae5d8a6d72c46",
+      "public_tail_sha256": "f92ec5f640d5bf676a230f63aa475670d804379cd6e005a398c90938e5a2f56e",
+      "inserted_payload_sha256": "47f52dba61da64cdcad45a8bf83c27f4e58e98d5f2c241afb9881ee576fb4be2",
+      "inserted_bytes": 2016,
+      "original_bytes_restored": true,
+      "public_projection_identical": true,
+      "CRLF_preserved": true
+    },
+    "Neal_v_United_States_merits_1996-01-22.md": {
+      "before_sha256": "f456f52b680c281c69c1e168ebc3b19e16a081e8ba1a08d12442dc929e5888d4",
+      "after_sha256": "4d146391a95e765ead53fade41aca41e33b031856eae46ca257edc436b0f033d",
+      "restored_sha256": "f456f52b680c281c69c1e168ebc3b19e16a081e8ba1a08d12442dc929e5888d4",
+      "public_tail_sha256": "d0aa6c2a936f425d6f123981265cc22fa2660edc8a5a2462a2fdc9a475288445",
+      "inserted_payload_sha256": "88f8646dbce32be83a7f9762f44b2dd2e46b628c9651c7f9d521fe92b359b893",
+      "inserted_bytes": 1977,
+      "original_bytes_restored": true,
+      "public_projection_identical": true,
+      "CRLF_preserved": true
+    },
+    "Beadle_v_City_of_Tampa_merits_1996-02-05.md": {
+      "before_sha256": "6c364debf193fa0d01b418be70320464d047001012cb63b6effafca4857fbadc",
+      "after_sha256": "48ad0d8cb307ce905f13e63500a0afa4e3ad0415abf033792cef5b2b9b24b55a",
+      "restored_sha256": "6c364debf193fa0d01b418be70320464d047001012cb63b6effafca4857fbadc",
+      "public_tail_sha256": "ffeda98e0498385d9f857f07a4460d0f4f567ce20c7a9cb5bd8cf78c6526ed69",
+      "inserted_payload_sha256": "376fc260fb043291e68eb635b654be8cd991c0906ba21ab693e56bfdd8d0e710",
+      "inserted_bytes": 1855,
+      "original_bytes_restored": true,
+      "public_projection_identical": true,
+      "CRLF_preserved": true
+    },
+    "Telecommunications_Act_section_302_statutory_effectiveness_1996-02-08.md": {
+      "before_sha256": "cdd605c715eb9304425648e20997f6e2b621448de107f6bca88c3d42af67f024",
+      "after_sha256": "6d0740efbf4efec54a45cc17216855c481b71eb53ea853a6281f5d671a8f9500",
+      "restored_sha256": "cdd605c715eb9304425648e20997f6e2b621448de107f6bca88c3d42af67f024",
+      "public_tail_sha256": "17d997ba0613c06a79b24478c1b7d00da813d045152675f9fae5711f849efb65",
+      "inserted_payload_sha256": "30e563126c643177fd215d6325260c607f6ea3e0c5e1ad6a20a0b1923e53e5ed",
+      "inserted_bytes": 1531,
+      "original_bytes_restored": true,
+      "public_projection_identical": true,
+      "CRLF_preserved": true
+    },
+    "Sherman_v_Community_Consolidated_School_District_21_merits_1996-02-12.md": {
+      "before_sha256": "bc7606b5d8ffccc1c42a5f792e542281374a4a2eaaefae0ac44a95f85d702930",
+      "after_sha256": "31bc996f41acca772429705a557f6cfd5d168edd11c92dc056d3f66c85d0a8fc",
+      "restored_sha256": "bc7606b5d8ffccc1c42a5f792e542281374a4a2eaaefae0ac44a95f85d702930",
+      "public_tail_sha256": "d45587b46d0001eb4363ebf678d784897b2a5edb092a8ff33815bab99bbe15ef",
+      "inserted_payload_sha256": "bce41ff5ed164c1bbeeae4b82cf8b0ed04f942d82a438ae936eb5cb8601a57d9",
+      "inserted_bytes": 2272,
+      "original_bytes_restored": true,
+      "public_projection_identical": true,
+      "CRLF_preserved": true
+    },
+    "Behrens_v_Pelletier_merits_1996-02-21.md": {
+      "before_sha256": "110e9900d7ba8b5da5a53dbec0e5bfacabbde32cd998b22a6a17ea0ed07e8441",
+      "after_sha256": "e255f0e6ee64148441dde452bcdee81efa67b4e06bfe8267ad87b08dd533cf29",
+      "restored_sha256": "110e9900d7ba8b5da5a53dbec0e5bfacabbde32cd998b22a6a17ea0ed07e8441",
+      "public_tail_sha256": "c94fd16450e1bda7c4500d4eb4808d65791ba97be4b74631b3d0a185856b789a",
+      "inserted_payload_sha256": "8e66bf03fea0b9e3c7580da7f611d86f6cf7aca12c0a6d83b986d49b9a05a5f4",
+      "inserted_bytes": 3596,
+      "original_bytes_restored": true,
+      "public_projection_identical": true,
+      "CRLF_preserved": true
+    },
+    "Fulton_Corp_v_Faulkner_merits_1996-02-21.md": {
+      "before_sha256": "a43037ef7c3991c97956abcaec9eb8195ac0d1f950bd5fbcec742bed57ef7e27",
+      "after_sha256": "f51eb8af3d9c74846a07549410968f7b41294d9f664cd372a48ddcbb85f23de0",
+      "restored_sha256": "a43037ef7c3991c97956abcaec9eb8195ac0d1f950bd5fbcec742bed57ef7e27",
+      "public_tail_sha256": "dc921e9212c84eed8bc7a10937b517b8eb1c2a74061cfd2b367be7006981cb1d",
+      "inserted_payload_sha256": "5c8219913fa97066a5334f7069e94ed05f779a3923e702de1aaf64a8db99b603",
+      "inserted_bytes": 3392,
+      "original_bytes_restored": true,
+      "public_projection_identical": true,
+      "CRLF_preserved": true
+    }
+  },
+  "target_sha256": {
+    "Bank_One_Chicago_v_Midwest_Bank_and_Trust_Co_merits_1996-01-17.md": "533023f277fb08c25f70c759ed6b122234f86f1a86fcd4e24fc428b91631be9a",
+    "United_States_v_Bishop_and_Stokes_merits_1996-02-05.md": "a24db1c223ecf30749240d205442ed2f11b83a39922a2c83e869f8c804c71d49",
+    "United_States_v_Hale_merits_1996-02-12.md": "4080603b7a41038ab28d26bef3831df3f6bdef4d11c511c08a1fb2005018a0c4"
+  },
+  "other_original_records_unchanged": 28
+}

@@ -1,3 +1,7 @@
+# Public law reading copy
+
+Authority: [Record](../records/Things_Remembered_Inc_v_Petrarca_merits_1995-12-05.md)
+
 ## Event
 
 **Things Remembered, Inc. v. Petrarca, No. 94-1530 — merits decision, December 5, 1995.** Argued October 2, 1995, on writ of certiorari to the Sixth Circuit, whose dismissal is reported at 65 F.3d 169. A state lease-guaranty action was removed under ordinary and bankruptcy removal provisions. The district court's order required the bankruptcy court to return the case to state court on untimeliness and jurisdictional grounds; the Sixth Circuit dismissed the attempted appeal. The question is whether §1447(d) applies despite the claimed bankruptcy removal route under §1452, not whether the remand was correct or rent is owed.

@@ -1,3 +1,7 @@
+# Public law reading copy
+
+Authority: [Record](../records/Louisiana_v_Mississippi_original_decree_1995-12-04.md)
+
 ## Event
 
 **Louisiana v. Mississippi et al., No. 121, Original — decree, December 4, 1995.** This original-action decree implements the October 31, 1995 resolution of exceptions to the Special Master's report concerning the boundary near Stack Island. The exceptions were argued October 3, 1995. No lower-court judgment is under review at this stage. The question is the precise implementation of the adjudicated boundary, the disposition of Louisiana's private-title cancellation prayer, and retention of jurisdiction.

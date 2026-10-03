@@ -1,6 +1,6 @@
-# Bounded current-term public reading copy
+# Public law reading copy
 
-Authority: canonical event Wood v. Bartholomew, 1995-10-10; natural-key Record Wood_v_Bartholomew_certiorari_1995-10-10.md. The following Public Projection is copied unchanged; no audit or private material is included.
+Authority: [Record](../records/Wood_v_Bartholomew_certiorari_1995-10-10.md)
 
 ## Event
 

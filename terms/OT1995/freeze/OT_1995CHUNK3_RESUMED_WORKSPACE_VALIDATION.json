@@ -1,0 +1,40 @@
+{
+  "status": "PASS",
+  "scope": "Coordinated update of manifest, continuity and neutral-projection only; no adjudication or future legal result added.",
+  "checks": [
+    "All 38 Record files and ledger unchanged from coordinated prewrite snapshot.",
+    "UTF-8, CRLF-only newlines, repaired legal symbols and vote dashes; stale target counts and blockers absent.",
+    "All 115 scheduled inventory identities retained; exactly 12 completed events in each of chunks 1-3; all unrelated inventory rows byte-identical.",
+    "All carryover/open-matter blocks, unrelated table rows, and unrelated case-specific published-writing sections preserved.",
+    "Target Record and Public Projection hashes verified; current law, complete published separate writings, remand consequences, and public-source links transferred consistently.",
+    "Bishop recorded-answer condition remains distinct from independent video; Stevens and Stone grounds remain distinct. Hale Love rule, 8-1 remand, 9-0 registration judgments, five judgment-only components and published reservation retained.",
+    "Neutral projection contains public-source links only for the new target material and no Record/freeze links; internal assignment accounting remains in continuity."
+  ],
+  "completed_court_events_by_chunk": {
+    "1": 12,
+    "2": 12,
+    "3": 12
+  },
+  "completed_court_event_count": 36,
+  "admitted_source_records": 2,
+  "preserved_records": 38,
+  "inventory_rows": 115,
+  "workspace_sha256": {
+    "manifest.md": "388f44faca25887163cfbfecbc8e92019d638511f352e2dc3d9e2a11f2c679ef",
+    "continuity.md": "b93eb9e1babb7e3d4216f197eb4e066c1e45c32f6ab0431a2981ade6e06b8013",
+    "neutral-projection.md": "d89bf88bb8e812d11bbea9ca17d66bbdf275a1aa5cf58e65c644c648b0b2e075"
+  },
+  "workspace_before_sha256": {
+    "manifest.md": "bed50368e1e5601c03f430d68a7b12e24a09b5ea135edef26724abe901be1e56",
+    "continuity.md": "5eed7da976f253f7e9c0a256f339fd76f3f871d265263b1afb2724c757c55635",
+    "neutral-projection.md": "10b3a06c085cfbba25c79b5f1c28489ced190ec7c5a5b81fc7ce3d0cea176bcf"
+  },
+  "target_record_sha256": {
+    "Bank_One_Chicago_v_Midwest_Bank_and_Trust_Co_merits_1996-01-17.md": "533023f277fb08c25f70c759ed6b122234f86f1a86fcd4e24fc428b91631be9a",
+    "United_States_v_Bishop_and_Stokes_merits_1996-02-05.md": "a24db1c223ecf30749240d205442ed2f11b83a39922a2c83e869f8c804c71d49",
+    "United_States_v_Hale_merits_1996-02-12.md": "4080603b7a41038ab28d26bef3831df3f6bdef4d11c511c08a1fb2005018a0c4"
+  },
+  "later_dependence_review": "OT_1995CHUNK3_RESUMED_LATER_DEPENDENCE.md",
+  "git_used": false,
+  "term_checker": "Separate root task; not claimed by this receipt."
+}

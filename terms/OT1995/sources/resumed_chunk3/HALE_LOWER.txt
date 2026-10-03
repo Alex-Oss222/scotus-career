@@ -1,0 +1,351 @@
+Source: https://static.case.law/f2d/978/html/1016-01.html
+
+UNITED STATES of America, Plaintiff-Appellee, v. Wilbur HALE, Defendant-Appellant.
+No. 91-3830.
+United States Court of Appeals, Eighth Circuit.
+Submitted June 10, 1992.
+Decided Oct. 20, 1992.
+Rehearing Denied Nov. 20, 1992.
+*1017
+Michael A. Skipper, Little Rock, Ark., argued, for defendant-appellant.
+Clarence Dan Stripling, Little Rock, Ark., argued (Charles A. Banks and Robert L. Roddey, on the brief), for plaintiff-appellee.
+Before JOHN R. GIBSON, Circuit Judge, FLOYD R. GIBSON, Senior Circuit Judge, and BEAM, Circuit Judge.
+JOHN R. GIBSON, Circuit Judge.
+Wilbur Hale appeals his conviction of thirteen counts of possession of a machine gun pursuant to
+18 U.S.C.A. § 922
+(o) (West Supp.1992) and three counts of possession of unregistered firearms pursuant to
+26 U.S.C. § 5861
+(d) (1988). He argues that the statutes under which he was prosecuted have no nexus with interstate commerce, and are therefore beyond the constitutional power of Congress; that the indictment violates his Second Amendment right to bear arms; and that the trial court erred both in admitting affidavits as to the non-registration of his weapons and in refusing to take judicial notice of material concerning the reliability of firearm registration records. We affirm the judgment of the district court.
+1
+On March 8, 1991, agents- of the Bureau of Alcohol, Tobacco and Firearms executed a search warrant on Hale’s residence and seized numerous weapons and gun parts. These included one MAC-10 .45 caliber sub-machine gun, three “Sten-type” 9 millimeter fully automatic submachine guns, two M-l carbines with kits for enabling fully automatic fire, one .22 caliber pistol with a silencer, and five .223 caliber assault rifles modified into “M-16 type” fully automatic machine guns. The agents also seized the principal components or “receivers” of one MAC-10, one Sten, and one “M-16 type” machine gun. Hale was charged in a sixteen-count indictment and a jury convicted him of all counts.
+Hale asserts pro se that there is no federal jurisdiction because the statutes under which Hale was prosecuted,
+18 U.S.C. § 922
+(o) and
+26 U.S.C. § 5861
+(d), assert no nexus with interstate commerce, and thus
+*1018
+are beyond the power granted to Congress under the Constitution.
+2
+The Supreme Court recognized the breadth of the commerce power in
+Perez v. United States,
+402 U.S. 146
+,
+91 S.Ct. 1357
+,
+28 L.Ed.2d 686
+(1971), explaining that Congress could properly regulate a class of activities that affected interstate commerce without proof that any particular intrastate activity within that class had an effect on interstate commerce.
+Id.
+at 152 to 153,
+91 S.Ct. at
+1360 to 1361. “Where the
+class of activities
+is regulated, and that
+class
+is within the reach of federal power, the courts have no power to 'excise, as trivial, individual instances’ of the class.”
+Id.
+at 154
+,
+91 S.Ct. at 1361
+(emphasis in original) (citation omitted).
+18 U.S.C. § 922
+(o) regulates the possession of machine guns. The legislative history of section 922(o) indicates that Congress considered the relationship between the availability of machine guns, violent crime, and narcotics trafficking.
+See
+H.R.Rep. No. 495, 99th Cong., 2d Sess., at 1-5,
+reprinted in
+1986 U.S.C.C.A.N. 1327, 1327-31. When it first enacted section 922, Congress found facts indicating a nexus between the regulation of firearms and the commerce power.
+See
+Omnibus Crime Control and Safe Streets Act of 1968, Pub.L. No. 90-351,
+82 Stat. 197
+, 225 (1968). The 1986 amendments to section 922 added sub-section (o) without substantially altering the findings of fact on this point.
+See
+Firearm Owner’s Protection Act, Pub.L. No. 99-308,
+100 Stat. 449
+(1986). We conclude, as did the Ninth Circuit on similar grounds, that
+18 U.S.C. § 922
+(o) is within the authority granted to Congress by the Commerce Clause.
+See United States v. Evans,
+928 F.2d 858
+, 862 (9th Cir.1991).
+The same general argument is applicable to
+26 U.S.C. § 5861
+(d). Furthermore, the Ninth Circuit has upheld § 5861(d) as a valid exercise of the taxing power of Congress.
+United States v. Tons,
+461 F.2d 656
+, 657 (9th Cir.1972) citing
+United States v. Giannini,
+455 F.2d 147
+(9th Cir.1972). The Sixth Circuit has upheld section 5861 as a “reasonable regulation for the maintenance of public order.”
+United States v. Warin,
+530 F.2d 103
+(6th Cir.),
+cert. denied,
+426 U.S. 948
+,
+96 S.Ct. 3168
+,
+49 L.Ed.2d 1185
+(1976).
+Therefore, we reject Hale’s arguments and conclude that both
+18 U.S.C. § 922
+(o) and
+26 U.S.C. § 5861
+(d) are within the authority granted to Congress under the Constitution.
+Hale next argues that the indictment violates his Second Amendment rights: “A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.” U.S. Const. amend. II. Relying on
+United States v. Miller,
+307 U.S. 174
+,
+59 S.Ct. 816
+,
+83 L.Ed. 1206
+(1939), Hale argues that the Second Amendment bars the federal government from regulating the particular weapons seized because the weapons are susceptible to military use and are therefore, by definition, related to the existence of “a well regulated militia”.
+In
+Miller,
+the Supreme Court upheld a conviction under the National Firearms Act for transporting a sawed-off shotgun in interstate commerce. In so doing, the Court rejected the argument that the Second Amendment protected the possession of that weapon:
+In the absence of any evidence tending to show that the possession or use of a “shotgun having a barrel of less than eighteen inches in length” at this time has some reasonable relationship to the preservation or efficiency of a well regulated militia, we cannot say that the Second Amendment guarantees the right to keep and bear such an instrument. Certainly it is not within judicial notice that this weapon is any part of the ordinary military equipment or that its use could contribute to the common defense.
+Miller,
+307 U.S. at 178
+,
+59 S.Ct. at 818
+(citation omitted).
+*1019
+Hale wants to find in
+Miller
+the rule that individual possession of true military weapons is protected under the Second Amendment. When the Second Amendment was ratified in 1791, the state militias functioned as both the principal units of military organization and as an implicit check on federal power.
+See generally
+Keith A. Ehrman
+&
+Dennis A. Henigan,
+The Second Amendment in the Twentieth Century: Have You Seen Your Militia Lately?,
+15 U.Dayton L.Rev. 5
+(1989). These militias were comprised of ordinary citizens who typically were required to provide their own equipment and arms. The Second Amendment prevented federal laws that would infringe upon the possession of arms by individuals and thus render the state militias impotent. Over the next 200 years, state militias first faded out of existence and then later reemerged as more organized, semi-professional military units. The state provided the arms and the equipment of the militia members, and these were stored centrally in armories. With the passage of the Dick Act in 1903, the state militias were organized into the national guard structure, which remains in place today.
+Id.
+More recently, the Supreme Court in
+Per-pich v. U.S. Department of Defense,
+496 U.S. 334
+,
+110 S.Ct. 2418
+,
+110 L.Ed.2d 312
+(1990), has analyzed the early history of the militia, including the Act of 1792 which required militia members to provide themselves “with a good musket or firelock,” as well as cartridges and other equipment. The Court observed that these requirements were virtually ignored for more than a century.
+Id.
+at 341
+,
+110 S.Ct. at 2423
+.
+Perpich
+discusses in detail the relationship between the militia and the National Guard and recognizes that the “Federal Government provides virtually all of the funding, the materiel, and the leadership for the State Guard units.”
+Id.
+at 351
+,
+110 S.Ct. at 2428
+. While
+Perpich
+does not deal with the Second Amendment issue present here, its discussion of the militia gives further dimension to our analysis.
+Considering this history, we cannot conclude that the Second Amendment protects the individual possession of military weapons. In
+Miller,
+the Court simply recognized this historical residue. The rule emerging from
+Miller
+is that, absent a showing that the possession of a certain weapon has “some reasonable relationship to the preservation or efficiency of a well-regulated militia,” the Second Amendment does not guarantee the right to possess the weapon.
+Miller,
+307 U.S. at 178
+,
+59 S.Ct. at 818
+.
+Miller
+simply “did not hold ... that the Second Amendment is an absolute prohibition against all regulation of the manufacture, transfer and possession of any instrument capable of being used in military action.”
+Warin,
+530 F.2d at 106
+.
+This court has on at least three occasions, citing and relying on
+Miller,
+denied challenges to the constitutionality of arms control legislation, because there was no evidence of a reasonable relationship to the maintenance of a militia.
+See United States v. Nelsen,
+859 F.2d 1318
+(8th Cir. 1988);
+Cody v. United States,
+460 F.2d 34
+(8th Cir.),
+cert. denied,
+409 U.S. 1010
+,
+93 S.Ct. 454
+,
+34 L.Ed.2d 303
+(1972);
+United States v. Decker,
+446 F.2d 164
+(8th Cir. 1971). In
+Nelsen
+and
+Cody
+we also cited and relied on the decisions of other circuits discussed in this opinion.
+3
+The Supreme Court has not addressed a Second Amendment issue since the
+Miller
+decision.
+Cases v. United States,
+131 F.2d 916
+(1st Cir.1942),
+cert. denied,
+319 U.S. 770
+,
+63 S.Ct. 1431
+,
+87 L.Ed. 1718
+(1943) remains one of the most illuminating circuit opinions on the subject of “military” weapons and the Second Amendment.
+Cases
+states that “under the Second Amendment, the federal government can limit the keeping and bearing of arms by a single individual, as well as by a group of individuals, but it cannot prohibit the possession or use of any weapon which
+*1020
+has any reasonable relationship to the preservation or efficiency of a well-regulated militia.”
+Id.
+at 922. After carefully examining the principles and implications of the then recent
+Miller
+decision, the First Circuit concluded that the existence of any “reasonable relationship to the preservation of a well regulated militia” was best determined from the facts of each individual case.
+Id.
+Thus, it is not sufficient to prove that the
+weapon
+in question was susceptible to military use. Indeed, as recognized in
+Cases,
+most any lethal weapon has a potential military use.
+4
+Id.
+Rather, the claimant of Second Amendment protection must prove that his or her
+possession
+of the weapon was reasonably related to a well regulated militia.
+See id.
+at 923. Where such a claimant presented no evidence either that he was a member of a military organization or that his use of the weapon was “in preparation for a military career”, the Second Amendment did not protect the possession of the weapon.
+Id.
+Since the
+Miller
+decision, no federal court has found any individual’s possession of a military weapon to be “reasonably related to a well regulated militia.” “Technical” membership in a state militia (e.g., membership in an “unorganized” state militia) or membership in a non-governmental military organization is not sufficient to satisfy the “reasonable relationship” test.
+Oakes,
+564 F.2d at 387. Membership in a hypothetical or “sedentary” militia is likewise insufficient.
+See Warin,
+530 F.2d 103
+.
+Applying these principles to the present case, we conclude that Hale’s possession of the weapons in question was not reasonably related to the preservation of a well regulated militia. The allegation by Hale that these weapons are susceptible to military use is insufficient to establish such a relationship. Hale introduced no evidence and made no claim of even the most tenuous relationship between his possession of the weapons and the preservation of a well regulated militia.
+Citing dicta from
+United States v. Verdugo-Urquidez,
+494 U.S. 259
+, 265,
+110 S.Ct. 1056
+, 1060,
+108 L.Ed.2d 222
+(1990), Hale argues that the Second Amendment protections apply to individuals and not to states or collective entities like militias. This argument is inapplicable to this case. The purpose of the Second Amendment is to restrain the federal government from regulating the possession of arms where such regulation would interfere with the preservation or efficiency of the militia.
+See Miller,
+307 U.S. at 178
+,
+59 S.Ct. at 818
+;
+United States v. Oakes,
+564 F.2d 384
+(10th Cir.1977),
+cert. denied,
+435 U.S. 926
+,
+98 S.Ct. 1493
+,
+55 L.Ed.2d 521
+(1978);
+Cody,
+460 F.2d 34
+. Whether the “right to bear arms” for militia purposes is “individual” or “collective” in nature is irrelevant where, as here, the individual’s possession of arms is not related to the preservation or efficiency of a militia.
+Hale next argues that the trial court’s acceptance of affidavits as to the non-registration of his weapons violated his rights as guaranteed by the confrontation clause of the Sixth Amendment. The government introduced two affidavits signed by a Bureau of Alcohol, Tobacco and Firearms specialist stating that, after a diligent search of the its National Firearms Registration Branch records from 1934 to the present, the Bureau had located no record of any application by Hale to register his weapons. The court admitted the affidavits over hearsay objections by Hale’s trial counsel.
+The Federal Rules of Evidence provide for an exclusion from the hearsay rule:
+To prove the absence of a record, report, statement, or data compilation, in any form, or the nonoccurrence or nonexistence of a matter of which a record, report, statement, or data compilation, in any form, was regularly made and preserved by a public office or agency, evidence in the form of a certification in accordance with rule 902, or testimony, that diligent search failed to disclose the
+*1021
+record, report, statement, or data compilation, or entry.
+Fed.R.Evid. 803(10).
+The trial judge correctly admitted the affidavits under this rule. Numerous cases have held that the admission of “negative records” under Rule 803(10) does not violate the constitutional right of confrontation.
+United States v. Metzger,
+778 F.2d 1195
+(6th Cir.1985),
+cert. denied,
+477 U.S. 906
+,
+106 S.Ct. 3279
+,
+91 L.Ed.2d 568
+(1986);
+United States v. Neff,
+615 F.2d 1235
+(9th Cir.1980),
+cert. denied,
+447 U.S. 925
+,
+100 S.Ct. 3018
+,
+65 L.Ed.2d 1117
+(1980);
+United States v. Harris,
+551 F.2d 621
+(5th Cir.),
+cert. denied,
+434 U.S. 836
+,
+98 S.Ct. 125
+,
+54 L.Ed.2d 98
+(1977). At oral argument, Hale’s counsel admitted that Rule 803(10) is “firmly rooted” in the common law as an exception to the hearsay rule and that the affidavits complied with the self-authentication standard of Federal Rule of Evidence 902(1).
+Hale’s reliance on
+Ohio v. Roberts,
+448 U.S. 56
+,
+100 S.Ct. 2531
+,
+65 L.Ed.2d 597
+(1980) is misplaced. The trial court’s ruling discussed records regularly made and preserved by a public agency;
+Brown
+addressed the admissibility at trial of testimony given in a preliminary hearing by a declarant unavailable to give live testimony at trial.
+Id.
+at 58-62
+, 100 S.Ct. at 2535-2537. The availability of the declarant is immaterial under Fed.R.Evid. 803.
+Hale further argues that the trial court erred in failing to admit or take judicial notice of material regarding the reliability of Bureau firearm registration records. Hale attempted to introduce portions of a transcript of hearings held before a Senate subcommittee in 1979. These excerpts included material which Hale alleged would show that the recordkeeping system used by the Bureau for firearm registration records was unreliable. The trial court denied admission because the transcripts were hearsay and were too old to be deemed reliable. The trial court also declined to take judicial notice of the transcript’s contents. Hale has failed to demonstrate that the district judge abused her discretion in making either of these determinations.
+Hale raises numerous other arguments, particularly in his pro se brief, but these do not merit discussion. The judgment of the district court is affirmed.
+1
+. The Honorable Susan Webber Wright, United States District Judge for the Eastern District of Arkansas.
+2
+. Where a party is represented by counsel, our court policy is to refuse to consider pro se briefs. However, as the issue raised here questions our jurisdiction, which we must independently ascertain, we consider Hale’s argument.
+3
+. The concurrence flies in the face of stare deci-sis in arguing that this court did not properly interpret the Second Amendment or
+Miller
+in
+Nelsen,
+which is consistent with our earlier decisions in
+Cody
+and
+Decker.
+The concurrence would also flout uniform precedent from other circuits, particularly since
+Nelsen
+cites and relies on
+Oakes
+and
+Warin,
+and
+Cody
+on
+Cases.
+4
+. It is evident that Hale’s weapons were of a military nature and most undoubtedly of them possessed the capability of killing or maiming groups of persons.
+BEAM, Circuit Judge,
+concurring specially.
+I concur in the result reached in Judge John R. Gibson’s opinion in this matter. I agree completely with the portions dealing with Hale’s hearsay and confrontation contentions. I also agree that Hale’s possession of the particular weapons at issue in this case is not protected by the Second Amendment. I disagree, however, that
+Cases v. United States,
+131 F.2d 916
+(1st Cir.1942);
+United States v. Warin,
+530 F.2d 103
+(6th Cir.1976);
+United States v. Oakes,
+564 F.2d 384
+(10th Cir.1977) and
+United States v. Nelson,
+859 F.2d 1318
+(8th Cir.1988) properly interpret the Constitution or the Supreme Court’s holding in
+United States v. Miller,
+307 U.S. 174
+,
+59 S.Ct. 816
+,
+83 L.Ed. 1206
+(1939) insofar as they say that Congress has the power to prohibit an individual from possessing any type of firearm, even when kept for lawful purposes. Judge Gibson’s opinion seems to adopt that premise and with that holding, I disagree.

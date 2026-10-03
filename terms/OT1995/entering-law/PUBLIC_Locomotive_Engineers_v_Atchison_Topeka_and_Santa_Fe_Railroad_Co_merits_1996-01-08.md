@@ -1,3 +1,7 @@
+# Public law reading copy
+
+Authority: [Record](../records/Locomotive_Engineers_v_Atchison_Topeka_and_Santa_Fe_Railroad_Co_merits_1996-01-08.md)
+
 ## Event
 
 Brotherhood of Locomotive Engineers v. Atchison, Topeka & Santa Fe Railroad Co., 516 U.S. 152, No. 94-1592. Argued October 30, 1995; decided January 8, 1996. On certiorari to the Seventh Circuit, sitting en banc. The question is whether waiting for return transportation after a duty assignment has ended is on-duty time or the statutory transportation interval that counts as neither duty nor rest. The judgment below treated the waiting as part of that interval.

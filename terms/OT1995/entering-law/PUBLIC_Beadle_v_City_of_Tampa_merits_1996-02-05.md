@@ -1,3 +1,7 @@
+# Public law reading copy
+
+Authority: [Record](../records/Beadle_v_City_of_Tampa_merits_1996-02-05.md)
+
 ## Event
 
 Beadle v. City of Tampa, 42 F.3d 633, Eleventh Circuit No. 93-3271. Decided February 5, 1996, on the assigned merits review of that court's judgment. No separate Supreme Court docket or argument date is supplied. Beadle's Sabbath observance conflicted with the police field-training schedule. The question is whether the City's neutral rotation and asserted training burdens satisfied Title VII's distinct religious-accommodation duty.

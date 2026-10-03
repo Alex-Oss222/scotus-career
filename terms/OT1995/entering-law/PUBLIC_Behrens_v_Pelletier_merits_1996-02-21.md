@@ -1,3 +1,7 @@
+# Public law reading copy
+
+Authority: [Record](../records/Behrens_v_Pelletier_merits_1996-02-21.md)
+
 ## Event
 
 Behrens v. Pelletier, No. 94-1244. Argued November 7, 1995; decided February 21, 1996. On writ of certiorari to the Ninth Circuit's November 17, 1994 dismissal in No. 94-56507. The questions are whether an earlier pleading-stage qualified-immunity appeal bars a later appeal following denial of summary judgment, and which issues may receive immediate review. The first appeal did not adjudicate the job-termination claim because that claim then stood dismissed as time-barred. The District Court later reinstated it and denied summary judgment, stating that material factual issues remained. The Court of Appeals dismissed the second appeal under its categorical one-appeal rule.

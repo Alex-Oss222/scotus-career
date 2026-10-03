@@ -1,6 +1,6 @@
-# Bounded current-term public reading copy
+# Public law reading copy
 
-Authority: canonical event American Life League v. Reno, 1995-11-13; natural-key Record American_Life_League_v_Reno_merits_1995-11-13.md. The following Public Projection is copied unchanged; no audit or private material is included.
+Authority: [Record](../records/American_Life_League_v_Reno_merits_1995-11-13.md)
 
 ## Event
 

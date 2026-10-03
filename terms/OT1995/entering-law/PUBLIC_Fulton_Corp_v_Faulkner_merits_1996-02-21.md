@@ -1,3 +1,7 @@
+# Public law reading copy
+
+Authority: [Record](../records/Fulton_Corp_v_Faulkner_merits_1996-02-21.md)
+
 ## Event
 
 Fulton Corp. v. Faulkner, No. 94-1239; 516 U.S. 325. Argued October 31, 1995. Decided February 21, 1996; October Term 1995.

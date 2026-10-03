@@ -76,6 +76,20 @@ The subsequent [later-event dependence review](../freeze/OT_1995CHUNK2_LOVE_LATE
 
 **Assignment accounting:** Love adds one named Chief assignment to O'Connor. The original assignment baseline describes the exposure then available; the added assignment does not alter the preceding-term absence of a majority concentration, create a current recipient above half, or change this event's stated case-specific assignment grounds. No later author or join is changed.
 
+## Resumed chunk 3 entering-law review
+
+**Internal review date:** October 3, 2026.
+
+The resumed Run completed Bank One Chicago v. Midwest Bank & Trust Co. on January 17 and United States v. Bishop and Stokes on February 5, 1996, and replaced the Hale Record in its February 12 slot. The original preparation and frozen handoffs for this February 21 event did not include those newly completed or corrected Records. Each now enters at its earlier effective date. Uncoordinated February 21 peers supply no entering law by processing order.
+
+**Case-specific comparison:** Bank One's statute-specific civil action creates no successive qualified-immunity appeal, changes none of the cumulative collateral-order conditions, and decides no underlying immunity. Bishop/Stokes's bounded evidence holdings create no jurisdiction, factual-sufficiency review, actual property right, or conduct-date notice; its legal/factual distinction does not displace Johnson's treatment of properly assumed facts. Its case-specific refusal of an exploratory evidence remand does not bar the legally specified issue sorting ordered here.
+
+Hale's corrected arms disposition returns only the thirteen-count appellate affirmance for application of Love after removal of the lower court's personal-affiliation prerequisite. It creates no general hearing duty, factual presumption, collateral-order jurisdiction, immunity merits rule or conduct-date notice. Its count-specific application remand does not authorize factual-sufficiency review here; its refusal to invent a separate evidentiary error from unavailable trial material does not displace Johnson's permitted sorting of an actual appeal. The preserved three-count registration judgment and exception-sensitive evidence rules supply no different qualified-immunity ground. Thomas and Scalia's White reservation remains a confrontation position, not a new rule of finality. Stone's functional arms dissent supplies no contrary immunity ground. The seven-vote categorical-bar reversal, nine-vote conditional assumed-facts rule, eight-Associate conditional surviving-claim rule, and Breyer/Stevens finality dissent therefore remain at their existing scopes.
+
+The completed [resumed later-event dependence review](../freeze/OT_1995CHUNK3_RESUMED_LATER_DEPENDENCE.md) found no material change to this event's result, adopted reasoning, precedent treatment, remedy, participation, or material published-position continuity. Original exposure descriptions, frozen handoffs and the earlier Love review's reserved-Hale statement remain historical snapshots; they are not relabeled as contemporaneous consideration of the new decisions or corrected Hale. This retrospective internal note changes no operative substance, event date, source text, or Public Projection.
+
+**Assignment accounting:** Bank One adds a prior Chief assignment to Thomas and Bishop/Stokes a prior Chief assignment to O'Connor. Corrected Hale remains one coordinated O'Connor opinion, counted once as a Chief assignment because the Chief assigns portions in whose judgment coalitions he participates. Stevens assigns its distinct arms-remand portion. Hale's replaced assignment is not counted again. The strictly earlier census for this February 21 event is 28 Chief assignments, 12 to O'Connor; the preceding term has no recipient above half. This accounting leaves Behrens's actual Ginsburg assignment and its stated channel-and-scope fit unchanged. Behrens and same-day Fulton add one Chief assignment each without becoming law for one another; neither authorship nor any join changes.
+
 ## Public Projection
 
 ## Event

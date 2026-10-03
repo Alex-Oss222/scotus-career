@@ -1,6 +1,6 @@
-# Bounded current-term public reading copy
+# Public law reading copy
 
-Authority: canonical event Thompson v. Keohane, 1995-11-29; natural-key Record Thompson_v_Keohane_merits_1995-11-29.md. The following Public Projection is copied unchanged; no audit or private material is included.
+Authority: [Record](../records/Thompson_v_Keohane_merits_1995-11-29.md)
 
 ## Event
 

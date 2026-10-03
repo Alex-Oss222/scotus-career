@@ -1,3 +1,7 @@
+# Public law reading copy
+
+Authority: [Record](../records/Zicherman_v_Korean_Air_Lines_merits_1996-01-16.md)
+
 ## Event
 
 Zicherman v. Korean Air Lines Co., Ltd.; Korean Air Lines Co., Ltd. v. Zicherman, 516 U.S. 217, Nos. 94-1361 and 94-1477. Argued November 7, 1995; decided January 16, 1996. On certiorari to the Second Circuit, 43 F.3d 18. Following a passenger's death over the high seas, the court below excluded her mother's loss-of-society award but permitted her sister's claim to depend on further proof of dependency. The question is whether the Warsaw Convention permits that nonpecuniary recovery when United States law supplies the damages measure.

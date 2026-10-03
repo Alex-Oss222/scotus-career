@@ -1,3 +1,7 @@
+# Public law reading copy
+
+Authority: [Record](../records/Lawrence_v_Chater_GVR_1996-01-08.md)
+
 ## Event
 
 Lawrence v. Chater, 516 U.S. 163, No. 94-9323. Petition-stage grant, vacatur, and remand, January 8, 1996. On petition for certiorari to the Fourth Circuit's judgment affirming denial of a child's Social Security survivor benefits under state parentage and intestacy requirements. The question is whether the agency's newly stated scope for examining the constitutional validity of those requirements warrants reconsideration. The Court does not undertake plenary merits review.

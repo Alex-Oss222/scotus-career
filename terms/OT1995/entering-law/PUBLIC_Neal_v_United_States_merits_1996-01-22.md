@@ -1,3 +1,7 @@
+# Public law reading copy
+
+Authority: [Record](../records/Neal_v_United_States_merits_1996-01-22.md)
+
 ## Event
 
 Neal v. United States, 516 U.S. 284, No. 94-9088. Argued December 4, 1995; decided January 22, 1996. On certiorari to the Seventh Circuit, 46 F.3d 1405. Neal seeks use of the Sentencing Commission's amended weight per dose of LSD when calculating the statutory mandatory minimum. The question is whether that Guidelines amendment displaces Chapman's construction of 21 U.S.C. §841.

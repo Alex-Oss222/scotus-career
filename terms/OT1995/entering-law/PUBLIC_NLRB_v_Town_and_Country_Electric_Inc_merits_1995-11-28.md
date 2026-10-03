@@ -1,6 +1,6 @@
-# Bounded current-term public reading copy
+# Public law reading copy
 
-Authority: canonical event NLRB v. Town & Country Electric, Inc., 1995-11-28; natural-key Record NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md. The following Public Projection is copied unchanged; no audit or private material is included.
+Authority: [Record](../records/NLRB_v_Town_and_Country_Electric_Inc_merits_1995-11-28.md)
 
 ## Event
 

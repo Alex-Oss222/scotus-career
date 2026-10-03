@@ -1,3 +1,7 @@
+# Public law reading copy
+
+Authority: [Record](../records/Telecommunications_Act_section_302_statutory_effectiveness_1996-02-08.md)
+
 ## Event
 
 Telecommunications Act of 1996, Public Law 104-104, section 302(b), effective February 8, 1996.

@@ -1,3 +1,7 @@
+# Public law reading copy
+
+Authority: [Record](../records/Attwood_v_Singletary_filing_and_certiorari_1996-01-22.md)
+
 ## Event
 
 Attwood v. Singletary, 516 U.S. 297, No. 95-6710. Decided January 22, 1996. The Court considers financial leave for the present certiorari petition, a proposed prospective noncriminal filing condition, and disposition of the petition. Attwood challenges Florida counsel-signature restrictions while alleging inability to obtain counsel. The attached state order records extensive abusive litigation; his claims about the restrictions' effects on custody and mistreatment remedies remain allegations.

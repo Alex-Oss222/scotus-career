@@ -1,0 +1,35 @@
+{
+  "errors": [],
+  "protected_files_byte_identical": 4,
+  "unchanged_other_adjudications": true,
+  "other_records_with_internal_notes": [
+    "terms/OT1995/records/Attwood_v_Singletary_filing_and_certiorari_1996-01-22.md",
+    "terms/OT1995/records/Beadle_v_City_of_Tampa_merits_1996-02-05.md",
+    "terms/OT1995/records/Behrens_v_Pelletier_merits_1996-02-21.md",
+    "terms/OT1995/records/Fulton_Corp_v_Faulkner_merits_1996-02-21.md",
+    "terms/OT1995/records/Neal_v_United_States_merits_1996-01-22.md",
+    "terms/OT1995/records/Sherman_v_Community_Consolidated_School_District_21_merits_1996-02-12.md",
+    "terms/OT1995/records/Telecommunications_Act_section_302_statutory_effectiveness_1996-02-08.md"
+  ],
+  "chunk3_records": [
+    "Lotus_v_Borland_merits_1996-01-16.md",
+    "Zicherman_v_Korean_Air_Lines_merits_1996-01-16.md",
+    "Bank_One_Chicago_v_Midwest_Bank_and_Trust_Co_merits_1996-01-17.md",
+    "Commissioner_v_Lundy_merits_1996-01-17.md",
+    "Attwood_v_Singletary_filing_and_certiorari_1996-01-22.md",
+    "Neal_v_United_States_merits_1996-01-22.md",
+    "Beadle_v_City_of_Tampa_merits_1996-02-05.md",
+    "United_States_v_Bishop_and_Stokes_merits_1996-02-05.md",
+    "Sherman_v_Community_Consolidated_School_District_21_merits_1996-02-12.md",
+    "United_States_v_Hale_merits_1996-02-12.md",
+    "Behrens_v_Pelletier_merits_1996-02-21.md",
+    "Fulton_Corp_v_Faulkner_merits_1996-02-21.md"
+  ],
+  "entering_law_prior_record_counts": {
+    "BANK": 27,
+    "BISHOP": 31,
+    "HALE": 34
+  },
+  "git_executed": false,
+  "git_verification": "Deferred to operator; not performed"
+}

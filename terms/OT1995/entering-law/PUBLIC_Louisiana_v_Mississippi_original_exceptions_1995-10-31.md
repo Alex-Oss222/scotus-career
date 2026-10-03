@@ -1,6 +1,6 @@
-# Bounded current-term public reading copy
+# Public law reading copy
 
-Authority: canonical event Louisiana v. Mississippi et al., No.121, Original, 1995-10-31; natural-key Record Louisiana_v_Mississippi_original_exceptions_1995-10-31.md. The following Public Projection is copied unchanged; no audit or private material is included.
+Authority: [Record](../records/Louisiana_v_Mississippi_original_exceptions_1995-10-31.md)
 
 ## Event
 

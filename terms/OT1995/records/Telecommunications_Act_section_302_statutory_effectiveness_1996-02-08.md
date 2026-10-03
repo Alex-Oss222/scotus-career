@@ -39,6 +39,16 @@ Love v. Pepersack was completed in this later authorized pass in its existing De
 
 The subsequent [later-event dependence review](../freeze/OT_1995CHUNK2_LOVE_LATER_DEPENDENCE.md) found no material effect on this event's result, adopted reasoning, precedent treatment, remedy, participation or material published-position continuity. This note changes no operative substance, authorship, vote, date, source text or Public Projection. Hale's separately identified reasoning dependency is not cleared by this note.
 
+## Resumed chunk 3 entering-law review
+
+**Internal review date:** October 3, 2026.
+
+The resumed Run completed Bank One Chicago v. Midwest Bank & Trust Co. on January 17 and United States v. Bishop and Stokes on February 5, 1996. The original preparation of this February 8 admitted source did not include those completed Records. They now occupy their earlier effective dates. Hale is later and supplies no premise for this source's admission.
+
+**Case-specific comparison:** Bank One's particular interbank action and Bishop/Stokes's carjacking, punishment, identification, and booking-evidence rules do not alter the objective enacted repeal, video-dialtone termination, approved-system protection, or transition and savings terms recorded here. Neither creates a mootness or vacatur command for a pending communications case. The February 27 Chesapeake/Bell Atlantic dependency remains for its own surviving-claims and remedy inquiry; this source still creates no judicial holding or Court action.
+
+The completed [resumed later-event dependence review](../freeze/OT_1995CHUNK3_RESUMED_LATER_DEPENDENCE.md) found no material change to this source's lawful admission, text, effective date, scope, procedural effect, or later source dependency. Original preparation statements remain historical snapshots and are not relabeled as contemporaneous consideration of the completed decisions. This retrospective internal note changes no operative text, judicial result, or Public Projection and creates no opinion assignment.
+
 ## Public Projection
 
 ## Event

@@ -44,6 +44,18 @@ The subsequent [later-event dependence review](../freeze/OT_1995CHUNK2_LOVE_LATE
 
 **Assignment accounting:** Love adds one named Chief assignment to O'Connor. The original assignment baseline describes the exposure then available; the added assignment does not alter the preceding-term absence of a majority concentration, create a current recipient above half, or change this event's stated case-specific assignment grounds. No later author or join is changed.
 
+## Resumed chunk 3 entering-law review
+
+**Internal review date:** October 3, 2026.
+
+The resumed Run completed Bank One Chicago v. Midwest Bank & Trust Co. in its January 17, 1996 event slot. The original preparation and frozen handoffs for this January 22 event did not include that completed Record. Bank One is now part of the earlier effective law. Bishop/Stokes and Hale are later events and supply no entering law here.
+
+**Case-specific comparison:** Bank One independently construes the EFAA and expressly leaves generalized deference to agency views of jurisdiction unresolved. It neither empowers an agency to displace a judicially construed statute nor categorically forecloses every later agency interpretation. Neal's separate statutory and Guidelines measures, Chapman construction, Stinson delegation limit, Patterson rationale, agency-law reservation, and preserved Amendment 488 qualifications therefore remain unchanged. Bank One supplies no new sentencing exemption, revised quantity calculation, or resentencing premise.
+
+The completed [resumed later-event dependence review](../freeze/OT_1995CHUNK3_RESUMED_LATER_DEPENDENCE.md) found no material change to this event's result, adopted reasoning, precedent treatment, remedy, participation, or material published-position continuity. Original exposure descriptions and frozen handoffs remain historical snapshots; they are not relabeled as contemporaneous consideration of Bank One. The prior Love review's reservation concerning Hale remains an account of that earlier review, not reliance on a later Hale proposition in this event.
+
+**Assignment accounting:** Bank One adds one earlier Chief assignment to Thomas. The preceding term has no recipient above half, and this increment does not alter Neal's stated fit ground or its assignment to Kennedy. No authorship or join changes. This retrospective internal note changes no operative substance, event date, source text, or Public Projection.
+
 ## Public Projection
 
 ## Event

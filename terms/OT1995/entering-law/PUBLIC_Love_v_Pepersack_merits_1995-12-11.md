@@ -1,3 +1,7 @@
+# Public law reading copy
+
+Authority: [Record](../records/Love_v_Pepersack_merits_1995-12-11.md)
+
 ## Event
 
 Love v. Pepersack, Fourth Circuit No. 94-1582, 47 F.3d 120. Merits decision, December 11, 1995, reviewing the Fourth Circuit's February 3, 1995 affirmance of dismissal of the individual-capacity §1983 action. The questions concern substantive due process, contractual liberty within that claim, and the Second Amendment's personal character, militia relationship, application to States and protection of acquisition. Love seeks revival of damages claims after obtaining state judicial approval of her handgun application. No separate Supreme Court docket, grant text or argument/submission date is supplied; the December 7, 1994 argument occurred in the Fourth Circuit.
