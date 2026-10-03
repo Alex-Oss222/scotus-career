@@ -558,9 +558,11 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Position status:** User-selected or delegated position; procedural and legal implementation authorized October 1, 2026; no Court vote or outcome entered. The user's selections control; the three roadmaps provide context rather than predetermined outcomes.
+**Position status:** User-selected or delegated position; procedural and legal implementation authorized October 1, 2026; the scope-of-affirmance line below approved by the user on October 3, 2026; no Court vote or outcome entered. The user's selections control; the three roadmaps provide context rather than predetermined outcomes.
 
 **Stone’s disposition:** Affirm the permanent injunction requiring California's compliance with the NVRA within its enacted federal-election scope. Correct only an actually identified overbroad term; do not remand merely to create a new administrative process.
+
+**Scope of affirmance (approved October 3, 2026):** Stone's affirmance covers the Ninth Circuit's whole judgment, including its implementation remand and retained jurisdiction.
 
 **Stone’s reasoning and application:** Article I's Elections Clause authorizes Congress to displace state procedural choices for congressional elections. That express allocation differs from Congress commanding a State to administer a general Commerce program under New York. The Act's registration duties concern effective federal electoral participation, not a general revision of state voter qualifications. Federal presidential-election protection has its own supporting constitutional source, including Burroughs; the congressional Elections Clause should not be casually described as supplying every presidential power. The United States' enforcement role is independently material to immunity and cannot be erased by an analogy to a private damages action.
 
