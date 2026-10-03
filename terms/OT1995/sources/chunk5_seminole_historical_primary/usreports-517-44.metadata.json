@@ -1,0 +1,51 @@
+{
+  "case": "Seminole Tribe of Florida v. Florida",
+  "citation": "517 U.S. 44",
+  "docket": "94-12",
+  "purpose": "historical comparator-only archival source; not a model or reconciliation artifact",
+  "requested_url": "https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-44.pdf",
+  "effective_url": "https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-44.pdf",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "retrieval_started_utc": "2026-10-03T20:57:42.502050+00:00",
+  "retrieval_completed_utc": "2026-10-03T20:57:42.792935+00:00",
+  "curl_exit_code": 0,
+  "curl_stderr": "",
+  "response_headers_file": "usreports-517-44.headers.txt",
+  "source_kind": "pdf",
+  "full_substantive_reading_claimed": false,
+  "response_bytes": 568842,
+  "response_sha256": "85bb14bfac80d5e3b3d74f571f13822f3ddeec977c371e6df82449f26ee3e616",
+  "pdf_magic_valid": true,
+  "source_file": "usreports-517-44.pdf",
+  "source_sha256": "85bb14bfac80d5e3b3d74f571f13822f3ddeec977c371e6df82449f26ee3e616",
+  "pdfinfo_exit_code": 0,
+  "pdfinfo_file": "usreports-517-44.pdfinfo.txt",
+  "page_count": 142,
+  "extraction": {
+    "file": "usreports-517-44.layout.txt",
+    "method": "pdftotext -layout -enc UTF-8 -eol unix; no page limits or content filtering",
+    "exit_code": 0,
+    "stderr": "",
+    "bytes": 342710,
+    "sha256": "b837caae3a66ceea8e051c3c4776fa8f8072d423ae76ecb5510d8217e5cfaa33",
+    "form_feed_count": 142,
+    "text_nonempty": true,
+    "tool_version": "pdftotext version 25.03.0\nCopyright 2005-2025 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC"
+  },
+  "archival_validation": {
+    "pdf_magic_valid": true,
+    "http_200": true,
+    "pdfinfo_success": true,
+    "case_identity": "Case title and docket verified in first page; writing labels and last-page reporter header inspected.",
+    "expected_printed_reporter_pages": [
+      44,
+      185
+    ],
+    "every_printed_reporter_page_found_in_its_extracted_page_header": true,
+    "nonempty_extracted_pages": 142,
+    "all_pdf_pages_extracted": true,
+    "full_substantive_reading": false,
+    "scope": "Archival integrity, source identity, syllabus writing inventory, and writing-page header/tail checks only; no vote modeling, reconciliation, or legal conclusions."
+  }
+}

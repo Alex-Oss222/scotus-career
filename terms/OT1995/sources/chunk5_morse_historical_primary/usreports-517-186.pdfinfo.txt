@@ -1,0 +1,18 @@
+Title:           Bound Volume 517
+Producer:        Acrobat Distiller Daemon 3.0 for Solaris 2.3 and later (SPARC); modified using iText® pdfOptimizer 4.0.2 (production version) ©2000-2025 Apryse Group NV, Government Publishing Office
+CreationDate:    Mon Sep 22 13:37:03 2025 UTC
+ModDate:         Mon Feb 23 22:07:17 2026 UTC
+Custom Metadata: no
+Metadata Stream: yes
+Tagged:          no
+UserProperties:  no
+Suspects:        no
+Form:            AcroForm
+JavaScript:      no
+Pages:           106
+Encrypted:       no
+Page size:       612 x 792 pts (letter)
+Page rot:        0
+File size:       481226 bytes
+Optimized:       no
+PDF version:     1.6

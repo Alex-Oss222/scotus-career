@@ -1,0 +1,63 @@
+{
+  "case": "Seminole Tribe of Florida v. Florida",
+  "citation": "517 U.S. 44 (1996)",
+  "docket": "94-12",
+  "decision_date": "1996-03-27",
+  "access_boundary": "Historical comparator-only archive. May be supplied to a fresh reconciliation context only after independent non-Stone commitments are frozen. Not for neutral modeling.",
+  "official_pdf": {
+    "file": "usreports-517-44.pdf",
+    "layout_text": "usreports-517-44.layout.txt",
+    "metadata": "usreports-517-44.metadata.json",
+    "pages": 142,
+    "printed_reporter_range": [
+      44,
+      185
+    ]
+  },
+  "cornell_sources": [
+    {
+      "suffix": "ZS",
+      "author": null,
+      "description": "Syllabus",
+      "html": "cornell-94-12.ZS.html",
+      "text": "cornell-94-12.ZS.txt",
+      "metadata": "cornell-94-12.ZS.metadata.json",
+      "url": "https://www.law.cornell.edu/supct/html/94-12.ZS.html",
+      "effective_url": "https://www.law.cornell.edu/supct/html/94-12.ZS.html"
+    },
+    {
+      "suffix": "ZO",
+      "author": "Rehnquist",
+      "description": "Opinion of the Court",
+      "html": "cornell-94-12.ZO.html",
+      "text": "cornell-94-12.ZO.txt",
+      "metadata": "cornell-94-12.ZO.metadata.json",
+      "url": "https://www.law.cornell.edu/supct/html/94-12.ZO.html",
+      "effective_url": "https://www.law.cornell.edu/supct/html/94-12.ZO.html"
+    },
+    {
+      "suffix": "ZD",
+      "author": "Stevens",
+      "description": "Dissenting opinion",
+      "html": "cornell-94-12.ZD.html",
+      "text": "cornell-94-12.ZD.txt",
+      "metadata": "cornell-94-12.ZD.metadata.json",
+      "url": "https://www.law.cornell.edu/supct/html/94-12.ZD.html",
+      "effective_url": "https://www.law.cornell.edu/supct/html/94-12.ZD.html"
+    },
+    {
+      "suffix": "ZD1",
+      "author": "Souter",
+      "description": "Dissenting opinion",
+      "html": "cornell-94-12.ZD1.html",
+      "text": "cornell-94-12.ZD1.txt",
+      "metadata": "cornell-94-12.ZD1.metadata.json",
+      "url": "https://www.law.cornell.edu/supct/html/94-12.ZD1.html",
+      "effective_url": "https://www.law.cornell.edu/supct/html/94-12.ZD1.html"
+    }
+  ],
+  "full_substantive_reading_claimed": false,
+  "claims_limited_to": "Retrieval, source identity, file integrity, page completeness, and writing inventory.",
+  "html_extraction_note": "Raw HTML preserved byte-for-byte. Derived HTML text omits script/style and normalizes whitespace; it is not described as lossless.",
+  "pdf_extraction_note": "Complete unfiltered pdftotext -layout output preserved. PDF bytes are the lossless source artifact; PDF-to-text conversion is not guaranteed typographically lossless."
+}

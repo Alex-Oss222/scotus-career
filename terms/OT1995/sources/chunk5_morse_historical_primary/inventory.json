@@ -1,0 +1,83 @@
+{
+  "case": "Morse v. Republican Party of Virginia",
+  "citation": "517 U.S. 186 (1996)",
+  "docket": "94-203",
+  "decision_date": "1996-03-27",
+  "access_boundary": "Historical comparator-only archive. May be supplied to a fresh reconciliation context only after independent non-Stone commitments are frozen. Not for neutral modeling.",
+  "official_pdf": {
+    "file": "usreports-517-186.pdf",
+    "layout_text": "usreports-517-186.layout.txt",
+    "metadata": "usreports-517-186.metadata.json",
+    "pages": 106,
+    "printed_reporter_range": [
+      186,
+      291
+    ]
+  },
+  "cornell_sources": [
+    {
+      "suffix": "ZS",
+      "author": null,
+      "description": "Syllabus",
+      "html": "cornell-94-203.ZS.html",
+      "text": "cornell-94-203.ZS.txt",
+      "metadata": "cornell-94-203.ZS.metadata.json",
+      "url": "https://www.law.cornell.edu/supct/html/94-203.ZS.html",
+      "effective_url": "https://www.law.cornell.edu/supct/html/94-203.ZS.html"
+    },
+    {
+      "suffix": "ZO",
+      "author": "Stevens",
+      "description": "Opinion announcing the judgment",
+      "html": "cornell-94-203.ZO.html",
+      "text": "cornell-94-203.ZO.txt",
+      "metadata": "cornell-94-203.ZO.metadata.json",
+      "url": "https://www.law.cornell.edu/supct/html/94-203.ZO.html",
+      "effective_url": "https://www.law.cornell.edu/supct/html/94-203.ZO.html"
+    },
+    {
+      "suffix": "ZC",
+      "author": "Breyer",
+      "description": "Opinion concurring in the judgment",
+      "html": "cornell-94-203.ZC.html",
+      "text": "cornell-94-203.ZC.txt",
+      "metadata": "cornell-94-203.ZC.metadata.json",
+      "url": "https://www.law.cornell.edu/supct/html/94-203.ZC.html",
+      "effective_url": "https://www.law.cornell.edu/supct/html/94-203.ZC.html"
+    },
+    {
+      "suffix": "ZD",
+      "author": "Scalia",
+      "description": "Dissenting opinion",
+      "html": "cornell-94-203.ZD.html",
+      "text": "cornell-94-203.ZD.txt",
+      "metadata": "cornell-94-203.ZD.metadata.json",
+      "url": "https://www.law.cornell.edu/supct/html/94-203.ZD.html",
+      "effective_url": "https://www.law.cornell.edu/supct/html/94-203.ZD.html"
+    },
+    {
+      "suffix": "ZD1",
+      "author": "Kennedy",
+      "description": "Dissenting opinion",
+      "html": "cornell-94-203.ZD1.html",
+      "text": "cornell-94-203.ZD1.txt",
+      "metadata": "cornell-94-203.ZD1.metadata.json",
+      "url": "https://www.law.cornell.edu/supct/html/94-203.ZD1.html",
+      "effective_url": "https://www.law.cornell.edu/supct/html/94-203.ZD1.html"
+    },
+    {
+      "suffix": "ZD2",
+      "author": "Thomas",
+      "description": "Dissenting opinion",
+      "html": "cornell-94-203.ZD2.html",
+      "text": "cornell-94-203.ZD2.txt",
+      "metadata": "cornell-94-203.ZD2.metadata.json",
+      "url": "https://www.law.cornell.edu/supct/html/94-203.ZD2.html",
+      "effective_url": "https://www.law.cornell.edu/supct/html/94-203.ZD2.html"
+    }
+  ],
+  "full_substantive_reading_claimed": false,
+  "claims_limited_to": "Retrieval, source identity, file integrity, page completeness, and writing inventory.",
+  "html_extraction_note": "Raw HTML preserved byte-for-byte. Derived HTML text omits script/style and normalizes whitespace; it is not described as lossless.",
+  "pdf_extraction_note": "Complete unfiltered pdftotext -layout output preserved. PDF bytes are the lossless source artifact; PDF-to-text conversion is not guaranteed typographically lossless."
+}

@@ -1,0 +1,27 @@
+{
+  "requested_url": "https://www.law.cornell.edu/supct/html/94-8769.ZS.html",
+  "final_url": "https://www.law.cornell.edu/supct/html/94-8769.ZS.html",
+  "http_status": "200",
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-10-03T20:56:56.702167+00:00",
+  "curl_exit_code": 0,
+  "curl_stderr": "",
+  "saved_path": "cornell_94-8769_ZS.html",
+  "response_bytes": 10433,
+  "sha256": "316bbe358cf190861959122ee664c2c53f3fb49aa3595562a6fdcac4ebd54aa2",
+  "format_validation_passed": true,
+  "pdf_magic": null,
+  "title_content_verified": true,
+  "page_count": null,
+  "page_count_note": "HTML document; no fixed page count.",
+  "extraction": {
+    "path": "cornell_94-8769_ZS.txt",
+    "method": "Python standard-library HTMLParser; all text nodes in document order except script/style; entities decoded, block line breaks inserted, horizontal/repeated blank whitespace normalized. Raw HTML preserved.",
+    "encoding": "UTF-8",
+    "sha256": "9e12ddaafed616dca103af2a85e9d1e90984abe5f61e2c7469847aa7c82390b8",
+    "bytes": 6327,
+    "characters": 6314,
+    "complete_document_extracted": true,
+    "substantive_full_reading_claimed": false
+  }
+}

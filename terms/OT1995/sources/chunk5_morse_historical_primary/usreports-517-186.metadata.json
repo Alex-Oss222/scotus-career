@@ -1,0 +1,51 @@
+{
+  "case": "Morse v. Republican Party of Virginia",
+  "citation": "517 U.S. 186",
+  "docket": "94-203",
+  "purpose": "historical comparator-only archival source; not a model or reconciliation artifact",
+  "requested_url": "https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-186.pdf",
+  "effective_url": "https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-186.pdf",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "retrieval_started_utc": "2026-10-03T20:57:42.503078+00:00",
+  "retrieval_completed_utc": "2026-10-03T20:57:42.767691+00:00",
+  "curl_exit_code": 0,
+  "curl_stderr": "",
+  "response_headers_file": "usreports-517-186.headers.txt",
+  "source_kind": "pdf",
+  "full_substantive_reading_claimed": false,
+  "response_bytes": 481226,
+  "response_sha256": "61fb9fac93b6655548deba739bcad145805918339d4d24b0154070ac104c5bc4",
+  "pdf_magic_valid": true,
+  "source_file": "usreports-517-186.pdf",
+  "source_sha256": "61fb9fac93b6655548deba739bcad145805918339d4d24b0154070ac104c5bc4",
+  "pdfinfo_exit_code": 0,
+  "pdfinfo_file": "usreports-517-186.pdfinfo.txt",
+  "page_count": 106,
+  "extraction": {
+    "file": "usreports-517-186.layout.txt",
+    "method": "pdftotext -layout -enc UTF-8 -eol unix; no page limits or content filtering",
+    "exit_code": 0,
+    "stderr": "",
+    "bytes": 259450,
+    "sha256": "0778d6c615aca7f823ca0f4e7db393cf5d2388ebcc74253a802a459a53646ee1",
+    "form_feed_count": 106,
+    "text_nonempty": true,
+    "tool_version": "pdftotext version 25.03.0\nCopyright 2005-2025 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC"
+  },
+  "archival_validation": {
+    "pdf_magic_valid": true,
+    "http_200": true,
+    "pdfinfo_success": true,
+    "case_identity": "Case title and docket verified in first page; writing labels and last-page reporter header inspected.",
+    "expected_printed_reporter_pages": [
+      186,
+      291
+    ],
+    "every_printed_reporter_page_found_in_its_extracted_page_header": true,
+    "nonempty_extracted_pages": 106,
+    "all_pdf_pages_extracted": true,
+    "full_substantive_reading": false,
+    "scope": "Archival integrity, source identity, syllabus writing inventory, and writing-page header/tail checks only; no vote modeling, reconciliation, or legal conclusions."
+  }
+}

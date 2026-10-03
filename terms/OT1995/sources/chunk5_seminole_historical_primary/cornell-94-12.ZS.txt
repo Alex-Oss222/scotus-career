@@ -1,0 +1,150 @@
+Seminole Tribe of Florida v. Florida
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<& /supct/inclusions/header.htm &>
+
+
+
+Seminole Tribe of Florida v. Florida
+(No. 94-12)
+
+
+
+___
+
+
+Syllabus
+
+
+
+
+Opinion
+
+
+[ Rehnquist ]
+
+Dissent
+
+
+[ Stevens ]
+
+Dissent
+
+
+[ Souter ]
+
+
+
+
+
+
+HTML version
+
+
+PDF versionHTML version
+
+
+PDF versionHTML version
+
+
+PDF versionHTML version
+
+
+PDF version
+
+
+
+
+
+
+Syllabus
+
+
+
+
+SUPREME COURT OF THE UNITED STATES
+
+
+
+
+
+
+517 U.S. 44
+
+
+
+Seminole Tribe of Florida v. Florida
+
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE ELEVENTH CIRCUIT
+
+
+
+
+
+No. 94-12 Argued: October 11, 1995 --- Decided: March 27, 1996
+
+
+
+
+
+
+
+The Indian Gaming Regulatory Act, passed by Congress pursuant to the Indian Commerce Clause, allows an Indian tribe to conduct certain gaming activities only in conformance with a valid compact between the tribe and the State in which the gaming activities are located. 25 U.S.C. § 2710(d)(1)(C). Under the Act, States have a duty to negotiate in good faith with a tribe toward the formation of a compact, § 2710(d)(3)(A), and a tribe may sue a State in federal court in order to compel performance of that duty, § 2710(d)(7). In this § 2710(d)(7) suit, respondents, Florida and its Governor, moved to dismiss petitioner Seminole Tribe's complaint on the ground that the suit violated Florida's sovereign immunity from suit in federal court. The District Court denied the motion, but the Court of Appeals reversed, finding that the Indian Commerce Clause did not grant Congress the power to abrogate the States' Eleventh Amendment immunity, and that Ex parte Young, 209 U.S. 123, does not permit an Indian tribe to force good faith negotiations by suing a State's Governor.
+
+
+
+
+Held:
+
+
+
+
+1. The Eleventh Amendment prevents Congress from authorizing suits by Indian tribes against States to enforce legislation enacted pursuant to the Indian Commerce Clause. Pp. ___.
+
+
+
+(a) The Eleventh Amendment presupposes that each State is a sovereign entity in our federal system, and that "‘[i]t is inherent in the nature of sovereignty not to be amenable to the suit of an individual without [a State's] consent.'" Hans v. Louisiana, 134 U.S. 1"]134 U.S. 1, 13. However, Congress may abrogate the States' sovereign immunity if it has "unequivocally expresse[d] its intent to abrogate the immunity" and has acted "pursuant to a valid exercise of power." 134 U.S. 1, 13. However, Congress may abrogate the States' sovereign immunity if it has "unequivocally expresse[d] its intent to abrogate the immunity" and has acted "pursuant to a valid exercise of power." Green v. Mansour, 474 U.S. 64, 68. Here, through the numerous references to the "State" in § 2710(d)(7)(B)'s text, Congress provided an "unmistakably clear" statement of its intent to abrogate. Pp. ___.
+
+
+
+(b) The inquiry into whether Congress has the power to abrogate unilaterally the States' immunity from suit is narrowly focused on a single question: was the Act in question passed pursuant to a constitutional provision granting Congress such power? This Court has found authority to abrogate under only two constitutional provisions: the Fourteenth Amendment, see, e.g., Fitzpatrick v. Bitzer, 427 U.S. 445, and, in a plurality opinion, the Interstate Commerce Clause, Pennsylvania v. Union Gas Co., 491 U.S. 1. The Union Gas plurality found that Congress' power to abrogate came from the States' session of their sovereignty when they gave Congress plenary power to regulate commerce. Under the rationale of Union Gas, the Indian Commerce Clause is indistinguishable from the Interstate Commerce Clause. Pp. ___.
+
+
+
+(c) However, in the five years since it was decided, Union Gas has proven to be a solitary departure from established law. Reconsidering that decision, none of the policies underlying stare decisis require this Court's continuing adherence to its holding. The decision has been of questionable precedential value, largely because a majority of the Court expressly disagreed with the plurality's rationale. Moreover, the deeply fractured decision has created confusion among the lower courts that have sought to understand and apply it. The plurality's rationale also deviated sharply from this Court's established federalism jurisprudence and essentially eviscerated the Court's decision in Hans, since the plurality's conclusion -- that Congress could under Article I expand the scope of the federal courts' Article III jurisdiction -- contradicted the fundamental notion that Article III sets forth the exclusive catalog of permissible federal court jurisdiction. Thus, Union Gas was wrongly decided, and is overruled. The Eleventh Amendment restricts the judicial power under Article III, and Article I cannot be used to circumvent the constitutional limitations placed upon federal jurisdiction. Pp. ___.
+
+
+
+2. The doctrine of Ex parte Young may not be used to enforce § 2710(d)(3) against a state official. That doctrine allows a suit against a state official to go forward, notwithstanding the Eleventh Amendment's jurisdictional bar, where the suit seeks prospective injunctive relief in order to end a continuing federal law violation. However, where, as here, Congress has prescribed a detailed remedial scheme for the enforcement against a State of a statutorily created right, a court should hesitate before casting aside those limitations and permitting an Ex parte Young action. The intricate procedures set forth in § 2710(d)(7) show that Congress intended not only to define, but also significantly to limit, the duty imposed by § 2710(d)(3). The Act mandates only a modest set of sanctions against a State, culminating in the Secretary of the Interior prescribing gaming regulations where an agreement is not reached through negotiation or mediation. In contrast, an Ex parte Young action would expose a state official to a federal court's full remedial powers, including, presumably, contempt sanctions. Enforcement through an Ex parte Young suit would also make § 2710(d)(7) superfluous, for it is difficult to see why a tribe would suffer through § 2710(d)(7)'s intricate enforcement scheme if Ex parte Young's more complete and more immediate relief were available. The Court is not free to rewrite the statutory scheme in order to approximate what it thinks Congress might have wanted had it known that § 2710(d)(7) was beyond its authority. Pp. ___.
+
+
+
+11 F.3d 1016, affirmed.
+
+
+
+REHNQUIST, C.J., delivered the opinion of the Court, in which O'CONNOR, SCALIA, KENNEDY, and THOMAS, JJ., joined. STEVENS, J., filed a dissenting opinion. SOUTER, J., filed a dissenting opinion, in which GINSBURG and BREYER, JJ., joined.
+
+
+
+
+
+
+<& /supct/inclusions/footer.htm &>

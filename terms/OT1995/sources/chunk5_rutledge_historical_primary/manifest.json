@@ -1,0 +1,33 @@
+{
+  "archive_scope": "Historical primary-source comparator archive only. No legal conclusions, modeling, or reconciliation. For delivery after the independent freeze.",
+  "case": "Rutledge v. United States",
+  "docket": "94-8769",
+  "citation": "517 U.S. 292",
+  "source_inventory": [
+    {
+      "kind": "Official U.S. Reports PDF",
+      "path": "usreports_517_292.pdf",
+      "layout_text": "usreports_517_292.layout.txt",
+      "pages": 16,
+      "metadata": "usreports_517_292.metadata.json"
+    },
+    {
+      "kind": "Cornell syllabus",
+      "path": "cornell_94-8769_ZS.html",
+      "text": "cornell_94-8769_ZS.txt",
+      "metadata": "cornell_94-8769_ZS.metadata.json"
+    },
+    {
+      "kind": "Cornell opinion of the Court",
+      "author": "Justice Stevens",
+      "path": "cornell_94-8769_ZO.html",
+      "text": "cornell_94-8769_ZO.txt",
+      "metadata": "cornell_94-8769_ZO.metadata.json"
+    }
+  ],
+  "writing_inventory_basis": "Cornell syllabus fetched before the individual writing. Syllabus statement: Stevens, J., delivered the opinion for a unanimous Court.",
+  "separate_writings_identified_by_syllabus": [],
+  "writing_count_excluding_syllabus": 1,
+  "content_review_scope": "Syllabus read to identify writing inventory; title, format, extraction completeness, and page counts checked. No claim that the complete opinion or PDF was substantively read.",
+  "environment_validation": "curl, pdftotext, pdfinfo, and Python standard library available; HTTPS retrieval and complete extraction succeeded. No installations or environment/configuration changes needed."
+}
