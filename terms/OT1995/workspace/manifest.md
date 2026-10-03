@@ -14,8 +14,6 @@ Dates for completed entries are established by their Records; dates for remainin
 
 **Same-day grouping:** every equal event date is one group, including the five groups split across chunks: **1996-02-21 (3/4), 1996-05-20 (6/7), 1996-06-10 (7/8), 1996-06-20 (8/9), and 1996-06-26 (9/10)**. Inventory order is a display tie-break only. Uncoordinated same-day events use the common pre-group law even across separate Run tasks. The two Kirchner matters are expressly coordinated on June 21 but retain a common baseline and distinct questions and remedies; their file order creates no intervening holding. Stutson's reference to an earlier Lawrence release is conditional, not an established January 8 sequence.
 
-The current projection covers **40 completed Court events and four admitted sources through February 26, 1996**. The enacted sources are the October 1 paternity amendment; the January 6 Medicaid-account continuation, with its covered period deemed to begin December 16, 1995; and Telecommunications Act §§302 and 551 enacted February 8. The February 21 and February 26 groups are complete, retaining their respective common pre-group baselines. Jones’s financial motion and petition, Wood’s plenary matter, Maine No. 35 and Louisiana No. 121 implementation, and the five inherited matters remain open on their precise terms. The next cohort is February 27.
-
 | Chunk | Inventory matters | Inventory sequence | First scheduled event | Last scheduled event |
 |---|---|---|---|---|
 | 1 | 12 | 1–12 | 1995-10-10 | 1995-11-29 |
@@ -232,14 +230,14 @@ This nonadjudicative source does not add a Court event to the 115-entry inventor
 
 ## Chunk 2 completed-event projection
 
-The current projection covers **40 completed Court events and four admitted sources through February 26, 1996**. The enacted sources are the October 1 paternity amendment; the January 6 Medicaid-account continuation, with its covered period deemed to begin December 16, 1995; and Telecommunications Act §§302 and 551 enacted February 8. The February 21 and February 26 groups are complete, retaining their respective common pre-group baselines. Jones’s financial motion and petition, Wood’s plenary matter, Maine No. 35 and Louisiana No. 121 implementation, and the five inherited matters remain open on their precise terms. The next cohort is February 27.
+The twelve chunk 2 Court events run from December 4, 1995 through January 15, 1996. The North Carolina paternity amendment is a separate nonadjudicative source, with its chronology insertion preserved above.
 
 Louisiana No. 121 remains under retained original jurisdiction for implementation and enforcement; no additional dated event is supplied. This does not duplicate either inventory event or inherited Louisiana No. 9.
 
 
 ## Chunk 3 completed-event projection
 
-The current projection covers **40 completed Court events and four admitted sources through February 26, 1996**. The enacted sources are the October 1 paternity amendment; the January 6 Medicaid-account continuation, with its covered period deemed to begin December 16, 1995; and Telecommunications Act §§302 and 551 enacted February 8. The February 21 and February 26 groups are complete, retaining their respective common pre-group baselines. Jones’s financial motion and petition, Wood’s plenary matter, Maine No. 35 and Louisiana No. 121 implementation, and the five inherited matters remain open on their precise terms. The next cohort is February 27.
+The twelve chunk 3 Court events run from January 16 through February 21, 1996. The February 8 section 302 source is separate from those Court events. The table retains their completed procedure and remedy.
 
 | Effective date | Matter | Current effect | Authority |
 |---|---|---|---|
@@ -270,4 +268,4 @@ No other completed later disposition, controlling holding or published position 
 
 ## Chunk 4 supplemental source admission
 
-The [section 551 source Record](../records/Telecommunications_Act_section_551_statutory_admission_1996-02-08.md) adds the enacted television parental-choice program, with its conditional one-year rating provision and no-earlier-than-two-year manufacturing applicability. It is a documented February 8 source insertion, not a new Court event. Its retrospective dependency check found no changed premise in completed Hale, Sherman, Behrens or Fulton. The current Court cursor is February 26; 40 Court events and four admitted statutory sources are preserved. The March 4 broadcast challenge must use the actual timing and text without assuming future implementation. Earlier chunk narratives describe their historical preparation; this paragraph records the current additional admission.
+The [section 551 source Record](../records/Telecommunications_Act_section_551_statutory_admission_1996-02-08.md) adds the enacted television parental-choice program, with its conditional one-year rating provision and no-earlier-than-two-year manufacturing applicability. It is a documented February 8 source insertion, not a new Court event. Its retrospective dependency check found no changed premise in completed Hale, Sherman, Behrens or Fulton. The March 4 broadcast challenge must use the actual timing and text without assuming future implementation. Earlier chunk narratives describe their historical preparation; this paragraph records the current additional admission.
