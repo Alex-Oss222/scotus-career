@@ -1,0 +1,207 @@
+{
+  "event": "Bowersox v. Williams, application A-828, April 9, 1996",
+  "status": "Public-law freshness check complete for the supplied chronology; not a record-completeness or modeling-readiness certificate.",
+  "final_snapshot_commit_reference_as_supplied": "24a465e",
+  "final_snapshot": {
+    "path": "terms/OT1995/entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-04-01.md",
+    "sha256": "d50035bec8b7308e8ca6b32e44ba11e5e00a17147faedbc214acb0fea6e336bc"
+  },
+  "public_decisions_read_in_full": [
+    {
+      "path": "terms/OT1995/entering-law/PUBLIC_Varity_Corp_v_Howe_merits_1996-03-19.md",
+      "sha256": "aa39fe98afa630547fcf918c5113c4c089f353570d272ab16a7ca18c57bde0c1",
+      "read_in_full": true
+    },
+    {
+      "path": "terms/OT1995/entering-law/PUBLIC_Meghrig_v_KFC_Western_Inc_merits_1996-03-19.md",
+      "sha256": "d8dd49204799048234205b4c254d3783145a6f7053f43d68c287d865e317e685",
+      "read_in_full": true
+    },
+    {
+      "path": "terms/OT1995/entering-law/PUBLIC_Wisconsin_v_City_of_New_York_merits_1996-03-20.md",
+      "sha256": "57e6e873debb69c6bf5c82817fd3a50d6c04755ed40a11c0b91be2b9a8ab3109",
+      "read_in_full": true
+    },
+    {
+      "path": "terms/OT1995/entering-law/PUBLIC_Barnett_Bank_of_Marion_County_v_Nelson_merits_1996-03-26.md",
+      "sha256": "8499d463ba6a21bf3a56886650642a39caf8b075d9a1e30dbcb2b65863309de2",
+      "read_in_full": true
+    },
+    {
+      "path": "terms/OT1995/entering-law/PUBLIC_Morse_v_Republican_Party_of_Virginia_merits_1996-03-27.md",
+      "sha256": "794f9d7cb0d8d89dc9c2998d7e2930170336bb4f8c82aa0fbc34882e4e63d7fa",
+      "read_in_full": true
+    },
+    {
+      "path": "terms/OT1995/entering-law/PUBLIC_Rutledge_v_United_States_merits_1996-03-27.md",
+      "sha256": "235275dff5009e38c6a4b72ffc153e3bee167ced06d6239ef09977dd4d338a24",
+      "read_in_full": true
+    },
+    {
+      "path": "terms/OT1995/entering-law/PUBLIC_Seminole_Tribe_of_Florida_v_Florida_merits_1996-03-27.md",
+      "sha256": "142e5b0600ffce4ca1574186dc03e36b1535ac8015439bf9f1a0a6fd8cd95cb1",
+      "read_in_full": true
+    },
+    {
+      "path": "terms/OT1995/entering-law/PUBLIC_OConnor_v_Consolidated_Coin_Caterers_Corp_merits_1996-04-01.md",
+      "sha256": "b25faa16f33acf32633228661931dcf98af3a7f226f0f0dee40d468e5b0c7435",
+      "read_in_full": true
+    },
+    {
+      "path": "terms/OT1995/entering-law/PUBLIC_Lonchar_v_Thomas_merits_1996-04-01.md",
+      "sha256": "808fa01a1991fe02450ff289df775ee2b0dab8ab2daaac76ec3fe52e36a33d5a",
+      "read_in_full": true
+    },
+    {
+      "path": "terms/OT1995/entering-law/PUBLIC_Shieh_and_companions_filing_order_1996-04-01.md",
+      "sha256": "578e90db8599af1cdb1c832da7c195449413b7e07f0bca61a901b3bcd850fd7a",
+      "read_in_full": true
+    }
+  ],
+  "authorized_snapshot_chain": [
+    {
+      "path": "terms/OT1995/entering-law/OT_1995CHUNK5_NEUTRAL_CURRENT_LAW.md",
+      "sha256": "cf4ddd067dffc1745958bed4b0ccb5d7fa5ede4573c7f279b8439485911e4bca"
+    },
+    {
+      "path": "terms/OT1995/entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-25.md",
+      "sha256": "218f863dd433e68b13d03406d7efeba982d770f014a60f07653f46db44b81e55"
+    },
+    {
+      "path": "terms/OT1995/entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-26.md",
+      "sha256": "243708991f71b864854615e69e1b3c7fbc8d18b6b9269cead5c92f96e9d78f56"
+    },
+    {
+      "path": "terms/OT1995/entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-27.md",
+      "sha256": "3f3d99b6942a727dd5556cede89547d043b7770c88cb5568d1bb860a63c30ab7"
+    },
+    {
+      "path": "terms/OT1995/entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-04-01.md",
+      "sha256": "d50035bec8b7308e8ca6b32e44ba11e5e00a17147faedbc214acb0fea6e336bc"
+    }
+  ],
+  "snapshot_review": "All changes between the authorized March 18 baseline and supplied March 25, March 26, March 27 and April 1 snapshots were personally reviewed. No material public-law conflict or omitted supplied earlier event found.",
+  "april1_exact_public_block_checks": [
+    {
+      "source": "PUBLIC_Lonchar_v_Thomas_merits_1996-04-01.md",
+      "section": "Judgment & Remedy",
+      "body_exact_in_snapshot": true
+    },
+    {
+      "source": "PUBLIC_Lonchar_v_Thomas_merits_1996-04-01.md",
+      "section": "Opinion Topology",
+      "body_exact_in_snapshot": true
+    },
+    {
+      "source": "PUBLIC_Lonchar_v_Thomas_merits_1996-04-01.md",
+      "section": "Holdings",
+      "body_exact_in_snapshot": true
+    },
+    {
+      "source": "PUBLIC_Lonchar_v_Thomas_merits_1996-04-01.md",
+      "section": "Precedent Treatment",
+      "body_exact_in_snapshot": true
+    },
+    {
+      "source": "PUBLIC_Lonchar_v_Thomas_merits_1996-04-01.md",
+      "section": "Law After Decision",
+      "body_exact_in_snapshot": true
+    },
+    {
+      "source": "PUBLIC_Lonchar_v_Thomas_merits_1996-04-01.md",
+      "section": "Separate Writings",
+      "body_exact_in_snapshot": true
+    },
+    {
+      "source": "PUBLIC_Lonchar_v_Thomas_merits_1996-04-01.md",
+      "section": "Procedure After Action",
+      "body_exact_in_snapshot": true
+    },
+    {
+      "source": "PUBLIC_Shieh_and_companions_filing_order_1996-04-01.md",
+      "section": "Judgment & Remedy",
+      "body_exact_in_snapshot": true
+    },
+    {
+      "source": "PUBLIC_Shieh_and_companions_filing_order_1996-04-01.md",
+      "section": "Opinion Topology",
+      "body_exact_in_snapshot": true
+    },
+    {
+      "source": "PUBLIC_Shieh_and_companions_filing_order_1996-04-01.md",
+      "section": "Holdings",
+      "body_exact_in_snapshot": true
+    },
+    {
+      "source": "PUBLIC_Shieh_and_companions_filing_order_1996-04-01.md",
+      "section": "Precedent Treatment",
+      "body_exact_in_snapshot": true
+    },
+    {
+      "source": "PUBLIC_Shieh_and_companions_filing_order_1996-04-01.md",
+      "section": "Law After Decision",
+      "body_exact_in_snapshot": true
+    },
+    {
+      "source": "PUBLIC_Shieh_and_companions_filing_order_1996-04-01.md",
+      "section": "Separate Writings",
+      "body_exact_in_snapshot": true
+    },
+    {
+      "source": "PUBLIC_Shieh_and_companions_filing_order_1996-04-01.md",
+      "section": "Procedure After Action",
+      "body_exact_in_snapshot": true
+    },
+    {
+      "source": "PUBLIC_OConnor_v_Consolidated_Coin_Caterers_Corp_merits_1996-04-01.md",
+      "section": "Opinion Topology",
+      "body_exact_in_snapshot": true
+    },
+    {
+      "source": "PUBLIC_OConnor_v_Consolidated_Coin_Caterers_Corp_merits_1996-04-01.md",
+      "section": "Precedent Treatment",
+      "body_exact_in_snapshot": true
+    },
+    {
+      "source": "PUBLIC_OConnor_v_Consolidated_Coin_Caterers_Corp_merits_1996-04-01.md",
+      "section": "Law After Decision",
+      "body_exact_in_snapshot": true
+    },
+    {
+      "source": "PUBLIC_OConnor_v_Consolidated_Coin_Caterers_Corp_merits_1996-04-01.md",
+      "section": "Separate Writings",
+      "body_exact_in_snapshot": true
+    }
+  ],
+  "chronology": "Ten earlier supported chunk-five Court events complete. Ayers remains stopped and adds no Court law. April 1 decisions retain their common March 27 baseline and operate prospectively for April 9. Final snapshot identifies Bowersox as the next eligible inventory event.",
+  "material_delta": "Actual Lonchar April 1 law, preserving the first-personal-district-petition setting of its Barefoot analogy, the separate successive-petition substantial-grounds standard, independent stay equity and unestablished current-case predicates.",
+  "retained_limits": [
+    "Bowersox lower pleadings, orders, amendment, certificate, appellate stay, State application and response remain unrecovered in this validation.",
+    "Complete standalone official 1994 sections 2253 and 1651 remain unrecovered; failed retrievals are not authority.",
+    "No current relief, duration, service finding, individual commitment or assignment is supplied."
+  ],
+  "immutable_inputs": [
+    {
+      "path": "terms/OT1995/freeze/OT_1995CHUNK5_BOWERSOX_NEUTRAL_VALIDATED.md",
+      "sha256": "63affe25cd72fac41c5ec1c2e015fd9367fe03330e6a824f60b274b3cba09e4a",
+      "unchanged": true
+    },
+    {
+      "path": "terms/OT1995/freeze/OT_1995CHUNK5_HABEAS_STATUTE_SOURCE_ADDENDUM.md",
+      "sha256": "b320a585ed6a52a33901df71b36677930782bad55bc5520a3b323376f23f5b71",
+      "unchanged": true
+    },
+    {
+      "path": "terms/OT1995/freeze/OT_1995CHUNK5_BOWERSOX_PRIMARY_SOURCE_ADDENDUM.md",
+      "sha256": "7f362029fcb4b5ea47196cddbdebc6cc11a002b00af620c20c8400fa478e74fb",
+      "unchanged": true
+    },
+    {
+      "path": "terms/OT1995/freeze/OT_1995CHUNK5_LONCHAR_BAREFOOT_SOURCE_ADDENDUM.md",
+      "sha256": "fb699ebef8d01cc91fbd2f5b3d38dd5c91c9c16f28da004874b57966004a287a",
+      "unchanged": true
+    }
+  ],
+  "excluded_materials": "No current Bowersox Supreme Court opinion, historical comparator, private commitment, private Stone material, raw Decision Record, ledger, continuity file, combined brief or agent-status list was consulted.",
+  "git_action": "None"
+}
