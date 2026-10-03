@@ -1,0 +1,6 @@
+{
+  "official_source": "https://www.govinfo.gov/content/pkg/USCODE-1994-title29/html/USCODE-1994-title29.htm",
+  "retained_source": "terms/OT1995/sources/chunk5_a/varity_29usc1994_contents.htm",
+  "source_sha256": "040d3830273680eefbe295ccac5a1be4b75a8b5f8ea77e2b78cfe3aea4861da0",
+  "method": "h3 section heading through next h3, preserving notes; mechanical source extraction, no new legal framing"
+}
