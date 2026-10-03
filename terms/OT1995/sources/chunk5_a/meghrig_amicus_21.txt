@@ -1,0 +1,1654 @@
+| | 
+No. 95-83 +) 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+OCTOBER TERM, 1995. 
+
+
+ALAN MEGHRIG AND MARGARET MEGHRIG, 
+Petitioners, 
+Vv. 
+KFC WESTERN, INC., 
+Respondent. 
+
+
+ON WRIT OF CERIORARI TO THE UNITED STATES 
+COURT OF APPEALS FOR THE NINTH CIRCUIT 
+
+
+. 
+
+
+BRIEF OF AMICI CURIAE 
+Massachusetts, Missouri, Alaska, Florida, Guam, Kansas, 
+Kentucky, Louisiana, Nevada, New Jersey, New Mexico, 
+New York, West Virginia, and Wisconsin 
+
+
+SCOTT HARSHBARGER JEREMIAH W. NIXON 
+Attorney General Attorney General 
+of Massachusetts State of Missouri 
+
+WILLIAM L. PARDEE* JAMES LAYTON 
+
+KAREN MCGUIRE DOUGLAS E. NELSON 
+Assistant Attorneys Assistant Attorneys 
+General General 
+
+200 Portland Street 
+
+Boston, MA 02114 
+
+(617) 727-2200 
+*Counsel of Record 
+
+
+See inside front cover for additional counsel 
+
+
+BRUCE M. BOTELHO 
+Attorney General 
+State of Alaska 
+
+
+CALVIN E. HOLLOWAY 
+Attorney General 
+Territory of Guam 
+
+
+CHRIS GORMAN 
+Attorney General 
+Commonwealth of 
+
+
+Kentucky 
+
+
+FRANKIE SUE DEL PAPA 
+Attorney General 
+State of Nevada 
+
+
+TOM UDALL 
+Attorney General 
+State of New Mexico 
+
+
+DARRELL V. MCGRAW, JR. 
+
+
+Attorney General 
+State of West Virginia 
+
+
+ROBERT A. BUTTERWORTH 
+Attorney General 
+State of Florida 
+
+
+CARLA STOLLA 
+Attorney General 
+State of Kansas 
+
+
+RICHARD P. IEYOUB 
+Attorney General 
+State of Louisiana 
+
+
+DEBORAH T. PORITZ 
+Attorney General 
+State of New Jersey 
+
+
+DENNIS C. VACCO 
+Attorney General 
+State of New York 
+
+
+JAMES E. DOYLE 
+Attorney General 
+State of Wisconsin 
+
+
+Table of Contents 
+
+
+Interest of Amici Curiae 
+
+
+Summary of Argument 
+Argument 
+
+
+Section 7002 of RCRA Confers Upon the Courts 
+Full Equitable Jurisdiction, Including the Power 
+to Award Restitution. 
+
+A. Where Congress Has Conferred Equitable 
+Jurisdiction Over a Matter, It Is Presumed 
+To Have Conferred The Ability To Award 
+All Traditional Equitable Remedies. 
+
+B. Section 7002 Confers Upon the Courts Full 
+Equitable Jurisdiction, Including the Power to 
+Award Restitution. 
+
+1. The Power Granted to Courts Under 
+Section 7002 is Identical to the Power 
+Granted to Courts Under Section 7003 
+
+2. An Order Awarding Restitution is Proper 
+as an “Equitable Adjunct to An Injunction 
+Decree” 
+
+3. An Order Awarding Restitution is an 
+“Order Proper and Necessary To Enforce 
+
+Compliance” With RCRA 
+
+Section 7002 Empowers Courts To Award 
+
+Restitution To Citizens Who, Prior to Filing Suit, 
+
+Incur Expenses In Abating A Condition Which 
+
+May Present An Imminent And Substantial 
+
+Endangerment To Health Or The Environment. 
+
+A. Section 7002 Is Not Limited To Prospective 
+Relief. 
+
+
+13 
+
+
+13 
+
+
+17 
+
+
+18 
+
+
+ii 
+B. Denying Courts the Ability to Award 
+Restitution Where a Citizen Has Acted To 
+Abate the Potential Hazard Prior To Filing 
+Suit Would Frustrate Congressional Intent. 22 
+
+
+Conclusion 30 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases. 
+
+
+Brandon Township v. Jerome Builders, Inc., 
+80 Mich.App.180, 263 N.W.2d 326 (1977) 17 
+
+
+Brown v. Swann, 35 U.S. 497 (1836) 2 
+
+
+California v. American Stores Co., 
+495 U.S. 271 (1990) 8 
+
+
+Chauffeurs, Teamsters & Helpers, Local No. 391 v. 
+Terry, 494 U.S. 558 (1990) 16 
+
+
+Commonwealth of Massachusetts v. United States 
+Department of Agriculture, C.A. No. 95-11668 REK 
+
+
+(D. Mass., filed July 27, 1995) 28, 29 
+Consumer Product Safety Comm'n v. GTE 
+
+Sylvania, Inc., 447 U.S. 102 (1980) 6 
+.Cort v. Ash, 422 U.S. 66 (1975) 6 
+
+
+Craig Lyle Lid. Partnership v. Land O'Lakes, Inc., 
+877 F.Supp. 476 (D. Minn. 1995) 27 
+
+
+Dague v. City of Burlington, 
+935 F.2d 1343 (2d Cir. 1991) 24 
+
+
+Dalehite v. United States, 
+346 U.S. 15 (1953) 28 
+
+
+iV 
+
+
+Department of Energy v. Ohio, 
+503 U.S. 607 (1989) 
+
+
+Furrer v. Brown, 62 F.3d 1092 
+(8th Cir. 1995) 
+
+
+Gwaltney of Smithfield v. Chesapeake Bay 
+Foundation, 484 U.S. 49 (1987) 
+
+
+Hatco Corp. v. W.R. Grace & Co., 
+59 F.3d 400 (3d Cir. 1995) 
+
+
+Hecht Co. v. Bowles, 321 U.S. 321 (1944) 
+
+
+KFC Western, Inc. v. Meghrig, 
+49 F.3d 518 (9th Cir. 1995) 
+
+
+Laird v. Helms, 406 U.S. 797 (1972) 
+
+
+Maryland Casualty Co. v. Armco, Inc., 
+822 F.2d 1348 (4th Cir. 1987) 
+
+
+Middlesex County Bd. of Chosen Freeholders v. 
+New Jersey, 645 F.Supp. 715 (D.N.J. 1986) 
+
+
+Mitchell v. Robert De Mario Jewelry, 
+361 U.S. 288 (1960) 
+
+
+New York v. United States, 
+620 F.Supp. 374 (E.D.N.Y. 1985) 
+
+
+Oscar Mayer & Co. v. Evans, 
+441 U.S. 750 (1979) 
+
+
+6, 7, 10, 14, 
+19 
+19, 20, 24 
+
+
+16 
+
+
+2, 7, 12 
+
+
+4, 10, 14 
+
+
+28 
+
+
+16 
+
+
+12 
+
+
+12 
+
+
+Paper Recycling, Inc. v. Amoco Oil Co., 
+856 F.Supp. 671 (N.D. Ga. 1993) 27 
+
+
+Porter v. Warner Holding Co., 
+
+328 U.S. 395 (1946) 2, 4, 7, 8, 10, 12, 13, 16, 17, 20, 21, 
+23 
+
+Renegotiation Board v. Bannercraft Co., 
+
+415 U.S. 1 (1974) 8 
+
+
+State v. Schenectady Chemicals, Inc., 
+103 A.D.2d 33, 479 N.Y.S.2d 1010 (N.Y.App.1984) 16 
+
+
+Transamerica Mortgage Advisors, Inc. v. Lewis, 
+
+
+444 U.S. 11 (1979) s 
+United States v. Aceto Agric. Chemicals Corp., 
+
+872 F.2d 1373 (8th Cir. 1989) 10, 18, 19 
+United States v. Conservation Chemical Co., 
+
+619 F.Supp. 162 (D.C. Mo. 1985) 1] 
+United States v. Moore, 340 U.S. 616 (1951) 21, 22 
+
+
+United States v. Northeastern Pharmaceutical & 
+Chem. Co., 810 F.2d 726 (8th Cir. 1986), 
+cert. denied, 484 U.S. 848 (1987) 10, 14, 16 
+
+
+United States v. Price, 688 F.2d 204 
+(3d Cir. 1982) 2,10,11, 14, 15, 22 
+
+
+United States v. Reilly Tar & Chemical Corp., 
+546 F.Supp. 1100 (D.Minn. 1982) 18 
+
+
+United States v. Valentine, 
+856 F.Supp. 627 (D. Wyo. 1994) 11, 15, 26 
+
+
+vi 
+
+
+United States v. Waste Industries, 
+
+
+734 F.2d 159 (4th Cir. 1984) 18 
+Wyandotte Trans. Co. v. United States, 
+
+389 U.S. 191 (1967) 13, 16 
+Zands v. Nelson, ; 
+
+779 F.Supp. 1254 (S.D. Cal. 1991) 27 
+
+
+Statutes, Regulations & Court Rules. 
+
+
+15 U.S.C. § 2619 (Toxic Substances Control Act) 19 
+28 U.S.C. §§ 1346, 2671 ef seq. 
+
+(Federal Tort Claims Act) 29 
+42 U.S.C. § 300j-8 (Safe Drinking Water Act) 19 
+42 U.S.C. § 6972 (RCRA § 7002) : 3-29 
+
+
+42 U.S.C. § 6973 (RCRA § 7003) 4, 5, 9-12, 14, 15, 17-19, 
+22, 23, 26, 28 
+
+
+42 U.S.C. §§ 6901-6987 2-6, 10, 12-15, 17-20, 24, 25, 27 
+
+
+42 U.S.C. § 9601(14) 29 
+42 U.S.C. § 9659 (Comprehensive Environmental 
+
+Response Compensation and Liability Act) 19, 29 
+Clayton Act, § 16 8 
+
+
+Fair Labor Standards Act, § 15(a)(3) 8 
+
+
+Vii 
+
+
+Investment Advisers Act of 1940, § 215 8 
+Mass. Gen. Laws c. 21E, § 5 (1983 & 1995 Supp.) 29 
+Miscellaneous. 
+
+
+H.R. Rep. No. 198, 98th Cong., 2d Sess., pt. I, 
+53 (1983), reprinted in 1984 U.S.C.C.A.N. 
+5612 13, 22, 24, 25 
+
+
+Restatement of Restitution, § 115 (1937) 15 
+
+
+S. Rep. No. 284, 98th Cong., 
+Ist Sess. (1983) 1] 
+
+
+S. Rep. No. 96-172, 96th Cong., Ist Sess., (1979), 
+reprinted in 1980 U.S.C.C.A.N. 5019 (1980) 28 
+
+
+S. Rep. No. 96-172, 96th Cong., Ist Sess., reprinted in 
+[1980] U.S.C.C.A.N. 5019 (1980) 15 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+OCTOBER TERM, 1995. 
+
+
+No. 95-83 
+
+
+ALAN MEGHRIG AND MARGARET MEGHRIG, 
+Petitioners, 
+
+
+v. 
+
+
+KFC WESTERN, INC., 
+Respondent. 
+
+
+ON WRIT OF CERIORARI TO THE UNITED STATES 
+COURT OF APPEALS FOR THE NINTH CIRCUIT 
+
+
+BRIEF OF AMICI CURIAE 
+Massachusetts, Missouri, Florida, Guam, Kansas, 
+Kentucky, Louisiana, Nevada, New Jersey, New Mexico, 
+New York, West Virginia, and Wisconsin 
+
+
+Interest of Amici Curiae 
+
+
+The primary interest of the amici states' in this case is the 
+preservation of the ability of federal courts sitting in equity to 
+devise appropriate remedies in environmental matters. It is an 
+ancient maxim of this Court that “[t]he great principles of 
+equity, securing complete justice, should not yield to light 
+
+
+'The states participating in this brief as amici curiae are: Florida, 
+Guam, Kansas, Kentucky, Massachusetts, Missouri, Nevada, New 
+Jersey, New Mexico, New York, West Virginia and Wisconsin. 
+
+
+inferences, or doubtful construction.” Brown v. Swann, 35 U.S. 
+497, 503 (1836). 
+
+The ability of the states and their citizens to “secure 
+complete justice” in environmental matters is dependent in part 
+upon the ability of the federal judiciary to administer the 
+federal environmental laws in a flexible manner. Where the 
+environmental laws grant the courts their full equitable powers 
+in order to “protect the public health, the environment, and 
+public water supplies from the pernicious effects of toxic 
+wastes[,] . . . [cjourts should not undermine the will of 
+Congress by either withholding relief or granting it grudgingly.” 
+United States v. Price, 688 F.2d 204, 214 (3d Cir. 1982). The 
+States, as the primary governmental guardians of the public 
+health and welfare, have a great interest in preserving for 
+themselves and for their citizens the judicial tools needed to 
+perform that mission. 
+
+Accordingly, the amici urge this Court to affirm the 
+decision of the Ninth Circuit Court of Appeals and to re-affirm 
+the principle that where the federal district courts sit in equity 
+and the public interest is at stake, the courts have the power “to 
+do equity and to mould each decree to the necessities of the 
+particular case.” Hecht Co. v. Bowles, 321 U.S. 321, 329 
+(1944): see also Porter v. Warner Holding Co., 328 U.S. 395, 
+397 (1946). 
+
+This aim can be achieved by holding that the Citizens’ Suit 
+provision of the Resource Conservation and Recovery Act 
+(“RCRA”), 42 U.S.C. §§ 6901-6987, enables courts to award 
+restitution to plaintiffs in appropriate circumstances. 
+
+
+Such a decision is of particular interest to states which lack 
+a statute that enables states’ or private parties to recover the 
+costs of responding to petroleum contamination which has 
+produced a hazardous condition, since it is established that this 
+provision applies to petroleum spills which endanger the public. 
+In addition, interpreting this provision in such a fashion will in 
+most circumstances provide the only means for the states and 
+their citizens to recover from the federal government the costs 
+of cleaning up petroleum contamination, where the federal 
+government is responible for a release of petroleum that has 
+created a hazardous condition. 
+
+
+Summary of Argument 
+
+
+The issue before the Court is the power of the district courts 
+to award restitution to a party who has expended funds 
+responding to conditions which may present an “imminent and 
+substantial endangerment to health or the environment,” 
+pursuant to Section 7002’ of the Resource Conservation and 
+Recovery Act (“RCRA”), 42 U.S.C. §§ 6901-6987 (1988 & 
+Supp. 1993). In holding that restitution is available under 
+Section 7002, the Ninth Circuit relied upon decisions of federal 
+courts recognizing that restitution is available to the federal 
+government when it sues under a similar provision of RCRA, 
+as well as the strong policy reasons for permitting citizens to 
+
+
+?As this Court has recognized, a State is a “person” which may 
+maintain an action under Section 7002. See Department of Energy 
+v. Ohio, 503 U.S. 607 (1989). 
+
+
+*Section 7002 is codified at 42 U.S.C. § 6972. 
+
+
+3 
+
+
+sue for restitution under Section 7002. See KFC Western, Inc. 
+v. Meghrig, 49 F.3d 518, 521-24 (9th Cir. 1995). This Court 
+should affirm the decision for the reasons stated by the Ninth 
+Circuit. More fundamentally, the decision should be affirmed 
+under the precedents of this Court holding that where Congress 
+has invoked the courts’ equitable powers, courts may in their 
+discretion exercise the full range of those powers. The decision 
+below is a proper expression of the inherent equitable powers 
+of the federal district courts to award restitution to citizens who 
+have expended funds in response to conditions which may 
+present an imminent and substantial endangerment to health or 
+the environment. 
+
+The “imminent and substantial endangerment” provisions of 
+RCRA, Sections 7002 and 7003, empower citizens and the 
+federal government, respectively, to bring suit in federal court 
+against “any person” who “has contributed to or who is 
+contributing to” the “past or present” “handling, storage, 
+treatment, transportation or disposal of any solid or hazardous 
+waste,” which “may present an imminent and substantial 
+endangerment to health or the environment.” See 42 U.S.C. § 
+6972(a)(1)(B); 42 U.S.C. § 6973(a). 
+
+Sections 7002 and 7003, which are essentially codifications 
+of the common law of public nuisance, confer upon the courts 
+equitable jurisdiction. Once it is determined that Congress 
+intends that courts have equitable jurisdiction over a matter, the 
+“full scope of that jurisdiction is to be recognized and applied,” 
+unless a statute restricts that jurisdiction. Porter, 328 U.S. at 
+398. Neither Section 7002 nor Section 7003 restricts the ability 
+of the district courts to invoke their full equitable powers; 
+rather, the language of both Sections gives courts wide latitude 
+in fashioning appropriate remedies. Because the award of 
+
+
+4 
+
+
+restitution is a remedy that has traditionally been within the 
+equitable powers of courts to award, both Sections 7002 and 
+7003 must be construed as permitting courts to award restitution 
+to citizens or to the federal government when either has 
+expended funds in responding to conditions which may present 
+an “imminent and substantial endangerment to health or the 
+environment.” Construing the statute in such a fashion is 
+consistent with the principles of statutory construction and 
+furthers the purpose that Congress intended for the Citizens Suit 
+provision of RCRA. 
+
+In addition, a court may award restitution under either 
+Section even where the condition which may present an 
+imminent and substantial endangerment to health of the 
+environment has been successfully abated prior to the 
+commencement of the action. Under established precedent of 
+this Court, where statutes confer upon courts the authority to 
+award both prospective (i.e., injunctive) relief and other 
+appropriate equitable relief, the fact that the need for an 
+injunction has ceased prior to the filing of the lawsuit does not 
+deprive the courts of their power to award other equitable 
+relief, such as restitution. Denying the award of restitution to 
+a citizen or to-the federal government where they have taken 
+steps to prevent harm to the public health or the environment 
+in advance of litigation would frustrate the intent of Congress 
+in enacting these provisions. 
+
+
+Argument 
+
+
+I. SECTION 7002 OF RCRA CONFERS UPON THE 
+COURTS FULL EQUITABLE JURISDICTION, 
+INCLUDING THE POWER TO AWARD 
+RESTITUTION. 
+
+
+A. Where Congress Has Conferred Equitable 
+Jurisdiction Over a Matter, It Is Presumed To Have 
+Conferred The Ability To Award All Traditional 
+
+
+Equitable Remedies. 
+
+
+It is axiomatic that “the starting point for interpreting a 
+statute is the language of the statute itself.” Consumer Product 
+Safety Comm'n v. GTE Sylvania, Inc., 447 U.S. 102, 108 
+(1980). Section 7002 of RCRA empowers the district courts to 
+“restrain any person who has contributed to or is contributing 
+to” activity “which may present an imminent and substantial 
+endangerment to health or the environment,” and to order any 
+person who has contributed to or is contributing to activity 
+which may present an imminent and substantial endangerment 
+to health or the environment to “take such other action as may 
+be necessary.” 42 U.S.C. § 6972(a). This grant of authority 
+unquestionably confers upon the courts equitable jurisdiction. 
+
+
+‘The Eighth Circuit, in Furrer v. Brown, 62 F.3d 1092 (8th Cir. 
+1995), ignored this plain grant of equitable jurisdiction by proceeding 
+to analyze Section 7002 under the test set forth by this Court in Cort 
+v. Ash, 422 U.S. 66 (1975). See 62 F.3d at 1094-97. The issue 
+before this Court is not whether Section 7002 creates an implied 
+private right of action for monetary damages, as the Eighth Circuit 
+in Furrer seemed to believe, 
+
+
+See Hecht Co. v. Bowles, 321 U.S. at 329 (statute which 
+empowers court to issue injunctions confers equitable 
+jurisdiction). 
+
+Once it is established that a statute confers equitable 
+jurisdiction upon the courts, the next question to be resolved is 
+whether the statutory provision in question evinces an intent on 
+the part of Congress to limit the equitable powers of the district 
+courts in awarding relief in such matters. Porter, 328 US. at 
+397. A grant of equitable jurisdiction is presumed to provide 
+the court with full equitable jurisdiction, and “since the public 
+interest is involved in a proceeding of this nature, those 
+equitable powers assume an even broader and more flexible 
+character than when only a private controversy is at stake.” /d. 
+(citation omitted). 
+
+In Porter, the Court held that the Emergency Price Control 
+Act, in authorizing the district court to enter “a permanent or 
+temporary injunction, restraining order, or other order,” grants 
+full equitable jurisdiction, reasoning that “the term ‘other order’ 
+contemplates a remedy other than that of an injunction or 
+restraining order, a remedy entered in the exercise of the 
+District Court's equitable discretion.” /d. at 399; see also 
+Hecht. Co. v. Bowles, 321 U.S. at 328 (term “other order” 
+contemplates equitable relief other than injunction or restraining 
+order).° Subsequent decisions of this Court have remained 
+
+
+and as Petitioners argue. /d; see Pet. Br. at 18-41. Rather, since 
+Section 7002 plainly provides a means for citizens to invoke the 
+courts’ equitable jurisdiction, the issue is the scope of the district 
+courts’ equitable powers in fashioning remedies under that section. 
+
+
+“As this Court subsequently noted with regard to the Porter decision. 
+the Court in that case found broad equity powers conferred under the 
+
+
+5 
+
+
+faithful to the principles set forth in Porter, and have 
+consistently applied a broad interpretation to statutes that grant 
+to courts equitable jurisdiction “[u}nless a statute in so many 
+words, or by a necessary and inescapable inference, restricts the 
+court's jurisdiction in equity...” Porter, 325 U.S. at 398; see, 
+e.g., California v. American Stores Co., 495 U.S. 271, 295 
+(1990)(§ 16 of the Clayton Act permits courts to order 
+divestiture; applying Porter), Transamerica Mortgage Advisors, 
+Inc. v. Lewis, 444 U.S. 11, 19 (1979)(§ 215 of the Investment 
+Advisers Act of 1940 granted to courts equitable jurisdiction 
+and therefore power to award restitution), Mitchell v. Robert De 
+Mario Jewelry, 361 U.S. 288, 296 (1960)(courts have equitable 
+jurisdiction under § | 5(a)(3) of the Fair Labor Standards Act to 
+order an employer to reimburse employees for wages lost due 
+to an unlawful discharge). 
+
+
+_ Emergency Price Control Act, “not only because of the ‘other order’ 
+
+language, but because of the ‘traditional equity powers of a court.”” 
+Renegotiation Board v. Bannercraft Co. 415 US. 1, 19 
+(1974\ quoting Porter, 328 U.S. at 400). 
+
+
+B. Section 7002 Confers Upon the Courts Full 
+Equitable Jurisdiction, Including the Power to 
+Award Restitution. 
+
+
+1. The Power Granted to Courts Under Section 
+7002 is Identical to the Power Granted to Courts 
+Under Section 7003. 
+
+
+The Resource Conservation and Recovery Act, 42 U.S.C. §§ 
+6901-6992, (1988), contains two parallel provisions that address 
+the power of courts to respond to conditions which may present 
+an “imminent and substantial endangerment to health or the 
+environment.” See § 7002, 42 U.S.C. § 6972(a)(1)(B)(author- 
+izing relief when “any person” alleges conditions of threatened 
+or actual imminent and substantial endangerment); § 7003, 42 
+U.S.C. § 6973 (providing for relief where federal government 
+brings action). 
+
+These provisions contain identical language regarding the 
+type and scope of relief available to plaintiffs. In addition to 
+giving courts the power to “restrain” a defendant who has 
+allegedly created a hazardous condition, the statute confers the 
+power to the courts “ fo order such person to take such other 
+action as may be necessary. . .” See 42 U.S.C. § 6972(\(1 (B): 
+42 U.S.C. § 6973 (emphasis supplied).° 
+
+
+As is noted by the United States in its brief as amicus curiae, the 
+provisions differ in that Section 7003 also authorizes the federal 
+government to “take other action under this section.” See U.S. Br. 
+at 21, n. 23. The United States is incorrect when it suggests that 
+Section 7003's express authorization for the executive to take action 
+restricts Section 7002's broad invocation of the judiciary 's equitable 
+powers. /d. (arguing that courts have greater latitude in awarding 
+restitution to the United States). Moreover, the United States’ 
+
+
+9 
+
+
+The Ninth Circuit relied upon this phrase for its finding that 
+parties suing under the Citizens’ Suit provision in Section 
+7002(a)(1)(B) are not limited to actions seeking injunctive 
+relief. See KFC Western, 49 F.3d at 521. The Ninth Circuit 
+based its construction of that provision primarily upon other 
+courts’ interpretations of Section 7003 of RCRA, which 
+addresses the federal government's right to sue to abate 
+conditions which may present imminent and substantial 
+endangerments to health or the environment. /d. at 522.’ The 
+
+
+position that Section 7003's grant of authority to the Environmental 
+Protection Agency to take action under the section places it on 
+different footing from a private citizen who takes action is misplaced. 
+Id. As previously noted, states are “persons” under Section 7002, 
+and obviously are entitled to take appropriate action to protect their 
+citizens; indeed, individual citizens possess the right and the ability 
+to take steps to protect themselves and others from endangerment, 
+independent of any grant from Congress. The United States’ effort 
+to construe the express authorization of executive action under 
+Section 7003 as reflecting Congressional intent to limit the scope of 
+the judiciary’s equitable authority under Section 7002 is obscure, at 
+best, and is not the type of “clear and valid legislative command” 
+necessary to restrict the courts’ equitable jurisdiction. See Porter, 
+328 U.S. at 398. 
+
+
+"The Ninth Circuit relied on two Eighth Circuit decisions, United 
+States v. Aceto Agric. Chemicals Corp., 872 F.2d 1373 (8th Cir. 
+1989), and United States v. Northeastern Pharmaceutical & Chem. 
+Co., $10 F.2d 726 (8th Cir. 1986), cert. denied, 484 U.S. 848 (1987), 
+and one Third Circuit case, United States v. Price, 688 F.2d 204 (3d 
+Cir. 1982). While the Ninth Circuit's reliance on the Eighth Circuit's 
+cases has been thrown into doubt by that Court’s decision in Furrer 
+v. Brown, 62 F.3d 1092 (8th Cir. 1995)(stating that the issue of 
+availability of restitution under Section 7003 was never directly ruled 
+upon in prior cases and holding that restitution unavailable under 
+
+
+10 
+
+
+Ninth Circuit's analysis fully supports the decision. 
+
+Sections 7002 and 7003 are parallel provisions, so that the 
+availability of any remedy under one section strongly implies 
+that the remedy is also available under the other. As the Senate 
+Report on the 1984 amendments to RCRA, which added 
+Section 7002(a)(1)(B), states, "[t]hese amendments are intended 
+to allow citizens exactly the same broad substantive and 
+procedural claim which is already available to the United States 
+under Section 7003 .. ." S. Rep. No. 284, 98th Cong., Ist 
+Sess. at 56-57 (1983). That report further noted that to the 
+extent these Sections differed, these differences "are not 
+intended to reflect a difference in such claims, but merely to 
+clarify that citizens will have the same claim presently available 
+to the United States." /d. Thus, it is pertinent that the United 
+States may sue for restitution under Section 7003. See United 
+States v. Price, 688 F.2d 204, 214 (3d Cir. 1982)(authority 
+granted to the courts under section 7003 was “intended to 
+confer upon the courts the authority to grant affirmative 
+equitable relief to the extent necessary to eliminate any risks 
+posed by toxic wastes”). Other courts have recognized the 
+broad grant of equitable jurisdiction contained in Section 7003. 
+See, e.g., United States v. Valentine, 856 F Supp. 627, 633 (D. 
+Wyo. 1994)(contribution is available remedy; “like restitution, 
+contribution is an equitable remedy to prevent unjust 
+enrichment”); United States v. Conservation Chem. Co., 619 
+F.Supp. 162, 199 (D.C. Mo. 1985)(“[t}he Court has broad 
+authority under Section 7003 to grant the equitable relief 
+
+
+Section 7002), the Third Circuit's decision in Price still stands for the 
+
+
+proposition that restitution is available under Section 7003. See 
+Price, 688 F.2d at 214. 
+
+
+necessary to eliminate the endangerment’). 
+
+The provisions of Section 7002 that address the power of 
+the courts to enforce that section are basically identical to those 
+in Section 7003. Compare 42 U.S.C. § 6972 with 42 U.S.C. § 
+6973(a). Accordingly, as one court has stated, the imminent 
+and substantial endangerment provision in Section 7002 “is 
+designed to provide a private means of obtaining the same relief 
+that the EPA Administrator has previously been authorized to 
+seek under RCRA by 7003.” Middlesex County Bd. of Chosen 
+Freeholders v. New Jersey, 645 F.Supp. 715, 721 (D.N.J. 
+1986); see also Oscar Mayer & Co. v. Evans, 441 U.S. 750, 
+756 (1979)(where statutory language in one act is in haec verba 
+with the language of another act, it is appropriate to conclude 
+that Congress intended an identical construction of each 
+term). 
+
+This Court’s decision in Porter is particularly instructive 
+here, given the similarity of the language of Section 205(a) of 
+the Emergency Price Control Act, construed in Porter, and the 
+language of Sections 7002 and 7003. The critical language in 
+Porter empowers the district courts to effect the purposes of the 
+act through the issuance of “other order[s].” 328 U.S. at 400. 
+Section 7002 of RCRA contains a similarly broad provision, 
+that the court can “order such person to take such other action 
+as may be necessary.” 42 U.S.C. § 6972. This provision 
+plainly contemplates that the court can issue orders providing 
+for other than injunctive relief. Hecht Co., 321 U.S. at 328. 
+As in Porter, the award of restitution under Section 7002 of 
+RCRA can be viewed as an “equitable adjunct to an injunction 
+
+
+12 
+
+
+decree,” or as “an order appropriate and necessary to enforce 
+compliance with the Act.” Porter, 328 U.S. at 395. 
+
+
+2. An Order Awarding Restitution is Proper as an 
+“Equitable Adjunct to An Injunction Decree”. 
+
+
+The award of restitution to a RCRA citizens suit plaintiff is 
+a: appropriate “equitable adjunct to a claim for injunctive 
+relief.” /d. Im such a situation, “where . . . the equitable 
+jurisdiction of the court has properly been invoked for 
+injunctive purposes, the court has the power to .. . award 
+complete relief even though the decree includes that which 
+might be conferred by a court of law.” /d. Where the court 
+has jurisdiction to “restrain,” or enjoin, the person who caused 
+the condition which may present an endangerment to health or 
+the environment, it is fully within that court’s equitable 
+jurisdiction to order such a person to pay restitution to a party 
+who has expended funds in responding to the potential 
+endangerment. /d. To hold otherwise “would permit the result, 
+extraordinary in our jurisprudence, of a wrongdoer shifting 
+responsibility for his negligence onto his victim.” Wyandotte 
+Trans. Co. v. United States, 389 U.S. 191, 204 (1967). 
+
+
+3. An Order Awarding Restitution is an “Order 
+
+
+Proper and Necessary To Enforce Compliance” 
+With RCRA . 
+
+
+An award of restitution is also warranted under Porter 
+because the availability of such relief will foster compliance 
+with the goals of RCRA and, specifically, with Congress’ goal 
+to quickly abate conditions which produce or threaten to 
+produce imminent and substantial endangerments to health or 
+
+
+13 
+
+
+the environment. Congress has stated that “the primary goal” 
+of Section 7002(a)(1)(B) is “the prompt abatement of imminent 
+and substantial endangerments.” H.R. Rep. No. 198, 98th 
+Cong., 2d Sess., pt. 1, 53 (1983), reprinted in 1984 
+U.S.C.C.A.N. 5612. Allowing a party to be reimbursed for the 
+costs expended in abating the complained-of condition furthers 
+this purpose. This is particularly so given the fact that an 
+action brought pursuant to Section 7002(a)(1)(B) cannot be 
+commenced in certain cases until 90 days after notice has been 
+given to the defendant, the Administrator of the EPA, and the 
+State in which the alleged endangerment may occur. 42 U.S.C. 
+§ 6972(b)(2)(A). Allowing restitution for costs expended 
+before or during that 90-day notice period furthers the purpose 
+of the Citizens’ Suit Provision in securing- the prompt 
+abatement of imminent and substantial endangerments.* See 
+KFC Western, 49 F.3d at 524 (award of restitution serves 
+purpose of providing prompt response to endangerment); see 
+also Price, 688 F.2d at 214 (permitting restitution furthers 
+purpose of RCRA). 
+
+
+‘The Eighth Circuit in Furrer relied in part upon the 90 day notice 
+provisions in finding that only injunctive relief is available under 
+Section 7002. 62 F.3d at 1098. That court failed to note that the 
+notice and delay provisions of the act do not explicitly limit the right 
+of a citizen suing under the act the right to recover costs expended 
+during that period, should the reputed violator fail to take steps to 
+abate the complained of condition. /d. 
+
+
+14 
+
+
+In its report on the 1980° amendments to RCRA, the Senate 
+noted that: 
+
+
+[S]Jection 7003 is essentially a codification of 
+common law public nuisance remedies . . . [and] 
+therefore, incorporates the legal theories used for 
+centuries to assess liability for creating a public 
+nuisance . . . and to determine appropriate 
+remedies... 
+
+
+S. Rep. No. 172, 96th Cong., Ist Sess., at 5 (1979), reprinted 
+in U.S.C.C.A.N. 5019, 5023 (1980); see also United States v. 
+Price, 688 F.2d 204, 213 (3d Cir. 1982). Both Section 7002 
+and Section 7003 were intended by Congress to constitute 
+codifications of the common law of public nuisance, and to 
+enable plaintiffs to receive the same types of relief that were 
+available to plaintiffs in public nuisance suits. As shown 
+below, this relief has traditionally included restitution. 
+
+It has long been recognized that restitution is an available 
+remedy in public nuisance cases under the common law. See 
+Restatement of Restitution, § 115 (1937); U.S. Br. at 22-28. In 
+the comment to Section 115, it is noted that the “abatement of 
+a Serious public nuisance . . . is another situation calling for the 
+{award of restitution].” Comment b, Restatement of 
+
+
+*When the Resource Conservation and Recovery Act was passed into 
+law as an amendment to the Solid Waste Disposal Act in 1976, the 
+legislative history of the act contained “no specific mention of section 
+7003 and no mention of the reasons for its insertion.” United States 
+v. Northeastern Pharmaceutical & Chemical Co., 810 F.2d 726, 738 
+(8th Cir. 1986). “Consequently, courts have typically relied upon the 
+legislative history of the 1980 and 1984 amendments to RCRA... 
+in interpreting section 7003.” Valentine, 856 F Supp. at 633, n.5. 
+
+
+15 
+
+
+Restitution, § 115 (1937). Like a claim for restitution for the 
+costs of abating a public nuisance under the common law, a 
+claim for recovery of costs incurred in responding to an actual 
+or threatened endangerment is without question equitable in 
+nature. In such a case, the plaintiff does not seek compensatory 
+damages; rather the plaintiff simply seeks to restore the status 
+quo ante. See Porter, 328 U.S. at 402; see, e.g., Hatco Corp. 
+v. WR. Grace & Co., 59 F.3d 400, 411-12 (3d Cir. 1995) 
+(recovery of response costs under Comprehensive 
+Environmental Response Compensation and Liability Act 
+("CERCLA") are restitutionary); Maryland Casualty Co. v. 
+Armco, Inc., 822 F.2d 1348, 1352 (4th Cir. 1987)(same); 
+United States v. Northeastern Pharmaceutical and Chemical 
+Co., 810 F.2d 726, 749 (8th Cir. 1986), cert. denied, 484 U.S. 
+848 (1987) (same). Accordingly, recovery of cleanup costs 
+under Section 7002 is a claim in equity for restitution, and may 
+be awarded by courts in appropriate circumstances. "° 
+
+This Court has recognized the ability of courts to award 
+restitution where the plaintiff has acted to abate a dangerous 
+condition, even where the statute under which the action was 
+brought does not explicitly state that restitution is available. 
+See Wyandotte, 389 U.S. at 204 (approving restitution of 
+government’s expenses in removing a sunken vessel, even 
+
+
+"This Court has repeatedly held that the fact that an order calls for 
+monetary relief in the form of restitution does not transform the claim 
+into one for compensatory damages. See Chauffeurs, Teamsters & 
+Helpers, Local No. 391 v. Terry, 494 U.S. 558 (1990,as 
+distinguished from damages, orders awarding restitution in the form 
+of monetary payments are generally granted to prevent unjust 
+enrichment)”. 
+
+
+16 
+
+
+though statute did not explicitly provide for restitution). Other 
+courts have likewise ordered restitution of the costs of abating 
+a public nuisance. See, e.g., State v. Schenectady Chem., Inc., 
+103 A.D.2d 33, 479 N.Y.S.2d 1010 (N.Y.App. 1984) (state 
+could receive restitution of costs for abating public nuisance 
+caused by chemical wastes); Brandon Township v. Jerome 
+Builders, Inc., 80 Mich.App. 180, 263 N.W.2d 326 (1977) 
+(town could recover costs of repairing dam as restitution for 
+abating public nuisance). 
+
+Because Congress intended that Sections 7002 and 7003 
+were to constitute codifications of the common law of nuisance, 
+and because restitution is an available remedy under such a 
+cause of action, awarding restitution in appropriate 
+circumstances is “proper and necessary” to enforce compliance 
+with RCRA. Porter, 328 U.S. at 400. Furthermore, Congress 
+has expressly provided that restitution is an appropriate means 
+of making whole citizens who have voluntarily undertaken 
+cleanups in a variety of other contexts, as shown above. 
+
+
+Il. Section 7002 Empowers Courts To 
+AWARD RESTITUTION TO CITIZENS WHO, 
+PRIOR TO FILING Sutt, INCUR EXPENSES IN 
+ABATING A CONDITION WHICH MAy 
+PRESENT AN IMMINENT AND SUBSTANTIAL 
+ENDANGERMENT TO HEALTH OR THE 
+ENVIRONMENT. 
+
+
+Petitioners and the United States incorrectly assert that 
+restitution under Section 7002 is unavailable where the 
+complained-of condition no longer presents an imminent and 
+substantial endangerment to health or the environment at the 
+commencement of suit under Section 7002. See Brief of 
+
+
+17 
+
+
+Petitioners (“Pet. Br.”) at 13-18, Brief of Amicus Curiae, the 
+‘United States of America (“U.S. Br.”) at 11-21. Such a 
+limitation is inconsistent with the prior decisions of this Court 
+dealing with the award of restitution under statutes conferring 
+equitable jurisdiction, as well as with the purposes of the RCRA 
+Citizens’ Suit Provision. 
+
+
+A. Section 7002 Is Not Limited To Prospective Relief. 
+
+
+Section 7002(a)(1)(B) covers situations where past or 
+present conduct has created a condition “which may present an 
+imminent and substantial endangerment to health or the 
+environment.” 42 U.S.C. § 6972(a)(1)(B). Petitioners and 
+amicus curiae, the United States, seize upon this language as 
+evidence that the section is addressed only to prospective relief 
+where the endangerment remains imminent and substantial at 
+the moment suit is filed. Pet. Br. at 13-18; U.S. Br. at 11-21. 
+In fact, the endangerment provision is not intended to provide 
+a temporal limitation,'' but to limit the application of Sections 
+7002 and 7003 to cases where there is great potential for harm 
+if action is not taken. See United States v. Reilly Tar & 
+Chemical Corp., 546 F.Supp. 1100, 1109-10 (D.Minn. 1982); 
+
+
+'' As the Fourth Circuit has stated: 
+
+
+Such grammatical niceties as tense may be useful in 
+arriving at a narrowly sculpted meaning, but they are 
+of little help in interpreting remedial statutes in 
+which actions such as "may be necessary" are 
+contemplated in order to abate gross dangers to a 
+community. 
+
+
+United States v. Waste Industries, 734 F.2d 159 (4th Cir. 1984). 
+
+
+18 
+
+
+én 
+
+
+see also United States v. Aceto Agr. Chemicals Corp., 872 F.2d 
+1373, 1383 (8th Cir. 1989) (“RCRA’s ‘imminent and 
+substantial endangerment’ language does not require EPA to 
+file and prosecute its RCRA action while the endangerment 
+exists”) (emphasis in the original).'? 
+
+Petitioners and the United States rely principally on this 
+Court’s decision in Gwaltney of Smithfield v. Chesapeake Bay 
+Foundation, 484 U.S. 49 (1987), to support their argument that 
+the court lacks the power to award restitution under Section 
+7002 where the plaintiff has removed the potential hazard to 
+health or the environment prior to suit. See Pet. Br. at 13-22; 
+U.S. Br. at 11, 14. That argument pays insufficient regard to 
+the substantial differences between the Citizens Suit provision 
+of the Clean Water Act addressed in Gwaltney and the 
+imminent and substantial endangerment section of the RCRA 
+Citizens Suit provision. 
+
+The citizens suit provision at issue in Gwaltney is typical of 
+the citizens suit provisions in many other environmental 
+statutes. These provisions only authorize suit against a 
+defendant alleged to be “in violation” of the law. See, e.g., 
+Toxic Substances Control Act, 15 U.S.C. § 2619; Safe Drinking 
+Water Act, 42 U.S.C. § 300j-8; CERCLA, 42 U.S.C. § 9659. 
+Indeed, the citizen suit provision contained in Section 
+7002(a)(1)(A) of RCRA--not at issue in this case--is very 
+
+
+"While the Eighth Circuit stated in Furrer that the subject of the 
+availability of restitution under Section 7003 was not decided in 
+Aceto, it did not repudiate that portion of its opinion stating that the 
+abatement of the condition prior to filing did not serve to divest the 
+courts of jurisdiction over the matter. See Furrer, 62 F.3d at 1101. 
+
+
+19 
+
+
+similar to the provision construed in Gwaltney, as it addresses 
+only ongoing violations of law. See 42 USC. § 
+6972(a)(1)(A). 
+
+Moreover, typical citizens suit provisions do not contain 
+broad language explicitly authorizing the courts to issue “other 
+orders,” or to order defendants to “take such other action as 
+may be necessary” to achieve the aims of the act. See, e.g, 
+Porter, 328 U.S. at 399. Typical provisions, then, arguably 
+limit the equitable jurisdiction of the courts, and empower them 
+only to order injunctive relief or to assess penalties. 
+
+In contrast, Section 7002(a)(1)(B) of RCRA provides unique 
+authority for citizens to sue in cases of actual or threatened 
+endangerment. The section plainly addresses wholly past 
+conduct, as it permits actions against “any person” including 
+“any past” “generator,” “transporter,” or “owner or operator” of 
+a “treatment, storage or disposal facility,” who “has contributed 
+to” the past “handling, storage, treatment, transportation, or 
+disposal” of waste. 42 U.S.C. § 6972(a)(1)(B). This unique 
+citizens suit provision also broadly authorizes the court to order 
+“such other action as may be necessary” to redress the harm. 
+42 U.S.C. § 6972. The differences between Section 
+7002(a)(1)(B) and typical citizens suit provisions reflects the 
+very different purposes of that Section, as it represents the 
+codification of the common law of public nuisance, while 
+typical citizens suit provisions create a purely statutory cause of 
+action addressed only towards enforcing compliance with a 
+specific statute. See supra, p. 19. 
+
+In light of the different objectives of Section 7002(a)( 1B) 
+and typical citizens suit provisions, the analysis in Gwaltney is 
+inapplicable. The question is not whether an action properly 
+lies under Section 7002 where the conduct of the defendant is 
+
+
+20 
+
+
+wholly in the past, as it was in Gwaltney, it plainly does. 42 
+U.S.C. § 6972. Rather, the question is whether an action lies 
+under Section 7002 where the effects of that conduct have been 
+abated by the plaintiff prior to the filing of suit, reducing or 
+eliminating the need for an injunction. Such an action plainly 
+lies. See United States v. Moore, 340 U.S. 616, 620 (1951). 
+
+In Moore, this Court was once again called upon to 
+determine, as it had in Porter, the equitable jurisdiction of the 
+district courts in enforcing the provisions of the Emergency 
+Price Control Act, 50 U.S.C. App. § 925(a). The defendant 
+argued that because the rent restrictions imposed by the Act had 
+been lifted prior to the filing of suit, removing the authority 
+(and the need) of the district courts to issue injunctions 
+requiring landlords to charge the statutory rents, the courts 
+likewise lacked jurisdiction to award restitution of overcharges. 
+340 U.S. at 618. 
+
+In rejecting this argument, this Court again focused on that 
+portion of the Act which empowered the district courts to issue 
+such “other orders” as are necessary to enforce compliance with 
+the Act. /d. at 618-19. In holding that the district court 
+properly awarded restitution despite the fact that there was no 
+longer any jurisdiction to issue an injunction, the Court noted 
+that if Congress had intended to limit the Act to purely 
+prospective relief, “it would have been unnecessary to authorize 
+orders for other than injunctive relief since the latter remedy is 
+wholly adequate to secure prospective compliance.” /d. at 620. 
+
+Similarly, had Congress intended to limit the district courts 
+to purely prospective relief under Section 7002, it would not 
+have provided the courts with the authority to order defendants 
+“to take such other action as may be necessary.” 42 U.S.C. § 
+6972. As shown above, this provision plainly empowers the 
+
+
+21 
+
+
+district courts to award restitution in appropriate circumstances. 
+Supra, pp. 8-17; see also U.S. Br. at 22-29. Had Congress 
+intended only to provide relief where the nuisance existed at the 
+time of suit, it would not have provided the courts the power to 
+order “other action” under Section 7002(a)(1)(B). Moore, 340 
+U.S. at 620. 
+
+
+B. Denying Courts the Ability to Award Restitution 
+Where a Citizen Has Acted To Abate the Potential 
+Hazard Prior To Filing Suit Would Frustrate 
+Congressional Intent. 
+
+
+Further, if the argument of Petitioners and the United States 
+were accepted, the result would contravene the purposes of 
+Section 7002. Because Sections 7002 and 7003 are intended to 
+secure the prompt abatement of conditions which may pose a 
+public health or environmental hazard, and because Congress 
+intended that these sections were to serve as the codification of 
+the common law of public nuisance, denying relief to a plaintiff 
+who has responded to and abated the nuisance would frustrate 
+Congressional intent. 
+
+In 1984, Congress amended Section 7003 to clarify that the 
+section “applies to any act, whether past or present, which has 
+resulted in or may result in an imminent and substantial 
+endangerment to health or the environment.” See H.R. Rep. 
+No. 198, 98th Cong., 2d Sess., pt. I, 53 (1983) reprinted in 
+1984 U.S.C.A.A.N. 5607. In doing so, Congress also explicitly 
+approved the Third Circuit’s holding in Price, by stating that 
+“Section 7003 is ‘intended to confer upon the courts the 
+authority to grant affirmative equitable relief to the extent 
+necessary to eliminate any risks posed by toxic wastes.’” /d. 
+
+
+22 
+
+
+(quoting Price, 688 F.2d at 213-14). Among the types of 
+equitable relief recognized by the Price court was the power to 
+award restitution. 688 F.2d at 214. 
+
+When Congress amended Section 7003 to clarify that it 
+covered past conduct, it also enacted into law Section 
+7002(a1)(B). See H.R. Rep. No. 198, 98th Cong., 2d Sess., 
+pt. I, 53 (1983) reprinted in 1984 US.C.AA.N. 5612. 
+Congress stated that “this expansion of the citizens suit 
+provision will complement, rather than conflict with, the [EPA] 
+Administrator's efforts to eliminate threats as to the public 
+health and the environment, particularly where the Government 
+is unable to take action because of inadequate resources.” /d. 
+
+It is certainly true that a citizen's rights to relief under 
+Section 7002 are limited, and that those limitations evince the 
+intent of Congress to place primary responsibility for 
+supervising the response to dangerous environmental conditions 
+on state and federal government. Thus, Section 7002 requires 
+ninety days notice to EPA, the State, and the defendant before 
+suit can be filed, limits the right to bring the action where 
+government is responding to the hazard, and provides that the 
+action cannot be brought to challenge the siting of a facility. 
+See, eg, 42 USC. §§ 6972(b)(2)A); 6972(b)(2)(B); 
+6972(b)\(2)(C); 6972(b\(2)(D). However, these limitations do 
+not extend so far as to limit the power of the courts to award 
+restitution for the costs of a successful cleanup. Plainly, none 
+of these provisions constitutes the type of “clear and valid 
+legislative command” that is necessary to limit a court's 
+equitable jurisdiction. See Porter, 328 U.S. at 399. 
+
+Petitioners and the United States argue that these 
+limitations, and particularly the ninety day notice requirement, 
+reflect Congressional intent to disallow recovery where a 
+
+
+23 
+
+
+plaintiff successfully abates the threatened or actual 
+endangerment prior to filing the lawsuit. See Pet. Br. at 19-21; 
+U.S. Br. at 21 & n.22. According to this view, the notice 
+requirement serves to prohibit a prospective plaintiff from 
+recovering costs expended to eliminate the hazard until 90 days 
+have elapsed from the time notice is given and the lawsuit is 
+filed. Such a result is at odds with the obvious Congressional 
+intent of encouraging prompt abatement of imminent hazards. 
+Indeed, Section 7002 does not require notice where the 
+complaint alleges an endangerment respecting a violation of 
+Subchapter III of RCRA, which contains the statute’s hazardous 
+waste provisions. See 42 U.S.C. § 6972(b)(2)B). This 
+exception reflects Congress’ determination that in certain 
+circumstances “the dangers of delay and the potential for 
+greater damage to the public health or the environment 
+outweigh the justification for the pre-suit delay periods.” 
+Dague v. City of Burlington, 935 F.2d 1343, 1351 (2d Cir. 
+1991). 
+
+In those cases that do not fall within this exception to the 
+notice requirement, providing notice prior to filing a claim to 
+recover costs expended to eliminate the endangerment 
+nonetheless satisfies the purposes of giving notice. This Court 
+has held that one purpose for the notice requirement in the 
+typical citizens suit provision of environmental statutes is to 
+zive the prospective defendant an opportunity to take action 
+(such as ceasing illegal discharges) which obviates the need for 
+litigation. See Gwaltney, 484 U.S. at 60. However, this is not 
+the sole purpose of giving notice, nor the dominant one. Notice 
+also provides the government with the opportunity to bring an 
+action, to intervene, or simply to monitor the litigation “to 
+assure orderly and consistent development of caselaw in this 
+
+
+24 
+
+
+area.” See H.R. Rep. No. 198, 98th Cong., 2d Sess., pt. I, 53 
+(1983) reprinted in 1984 U.S.C.A.A.N. 5612. Providing notice 
+before filing suit for restitution also satisfies the policy aims of 
+encouraging nonjudicial resolution of disputes and of apprising 
+the government about the claim.” 
+
+Read as a whole, the types of limitations placed upon a 
+citizen’s right to bring an action pursuant to Section 
+7002(a){1)(B) illustrate that Congress wanted the federal 
+government or state government to have the opportunity to 
+respond to conditions which may present an imminent and 
+substantial endangerment to health or the environment. 
+However, none of the express limitations set forth in Section 
+7002 state that a citizen must sit idly by and wait for either the 
+EPA, the state, or the defendant to take action. See 42 U.S.C. 
+§§ 6972(b)(2)(A); 6972(b)(2)(B); 6972(b)(2V(C). In fact, in 
+enacting Section 7002(a)(1)(B), Congress expressly recognized 
+the very real possibility that the government may be unable to 
+take action due to “inadequate resources.” See H.R. Rep. No. 
+198, 98th Cong., Ist Sess., pt. I, 53 (1983) reprinted in 1984 
+U.S.C.C.A.N. 5612. 
+
+The Petitioners’ and the United States’ curious interpretation 
+of Section 7002(a)(1)(B) does not further the intent of Congress 
+in enacting Section 7002(a)(1)(B), and would in fact impede 
+
+
+"Indeed, in many cases the potential RCRA citizens’ suit plaintiff 
+will not know the identity of the polluter for months or even years 
+after the contamination is discovered. Under the views espoused by 
+the Petitioners and the United States, a potential plaintiff should wait 
+indefinitely to perform a cleanup or should hire detectives to fiad the 
+source of the pollution so that notice can be given to the defendant 
+before the cleanup is actually performed. See Pet. Br. at 19-21, U.S. 
+Br. at 21 & n.22. 
+
+
+25 
+
+
+that purpose. If, as the United States argues, restitution could 
+only be awarded if the condition which may present an 
+imminent and substantial endangerment still existed at the 
+moment suit was filed, it would discourage, or at least delay, 
+voluntary cleanups of such conditions. Rather than securing the 
+“prompt abatement of imminent and _ substantial 
+endangerments,” as Congress intended, citizens would be forced 
+to wait at least ninety days (and much longer where the 
+responsible party or parties are unknown) before taking action, 
+or would have to take such incomplete action that the hazardous 
+condition still existed at the time of filing. /d.'* Indeed, under 
+the view espoused by the Petitioners and the United States, a 
+plaintiff who promptly and successfully undertakes to abate an 
+imminent and substantial endangerment prior to filing suit 
+would be denied compensation, whereas a plaintiff who delays 
+responding to the hazard until after filing would be fully 
+compensated. It strains reason to argue that this was the intent 
+of Congress in passing Section 7002(a)(1)(B). 
+
+Allowing a citizen to take appropriate steps to abate the 
+imminent and substantial endangerment and to later sue for 
+restitution in no way frustrates Congressional intent, as would 
+the Petitioners and the United States’ interpretation of the 
+
+
+'*At least one court has recognized a right of contribution under 
+Section 7003, holding that permitting a right to contribution serves 
+the dual purpose of promoting the prompt cleanup of the site while 
+eliminating the inequity that would result if liable parties who did not 
+participate in the cleanup were able to avoid contributing to the costs 
+of the cleanup. See Valentine, 856 F.Supp. at 635. The same 
+purposes would be served if a citizen who abates the potentially 
+hazardous condition is awarded restitution of the costs expended in 
+doing so. 
+
+
+26 
+
+
+provision. The citizen must comply with all of the 
+jurisdictional prerequisites set forth in Section 7002 before 
+bringing an action, prerequisites that are clearly directed 
+towards encouraging government action to respond to the 
+hazardous condition. See 42 U.S.C. §§ 6972(b)(2)(A); 
+6972(b)(2)(B); 6972(b)(2)(C). | Moreover, courts would 
+obviously have wide discretion in determining whether 
+restitution should be awarded in a given circumstance, an 
+entirely different inquiry than whether the court has the power 
+to award restitution. 
+
+The United States suggests that plaintiffs who successfully 
+abate conditions that produce or threaten to produce imminent 
+and substantial endangerments to health or the environment will 
+still have available to them state law remedies. U.S. Br. at 18- 
+21. To the extent that this argument has any relevance to the 
+inquiry before this Court, its fallacy is apparent upon 
+examination. 
+
+First, several states do not possess environmental laws 
+which cover all of the types of contamination which are 
+covered under Section 7002(a)(1)(B). For example, it is 
+beyond dispute that this provision applies to spilt or leaked 
+petroleum products. See KFC Western, 49 F.3d at 523, n.6 
+(provision applies to gasoline); Craig Lyle Lid. Partnership v. 
+Land O'Lakes, Inc., 877 F.Supp. 476, 483 (D. Minn. 1995) 
+(spilt or leaked petroleum is a “solid waste” under RCRA); 
+Paper Recycling, Inc. v. Amoco Oil Co., 856 F.Supp. 671, 675 
+(N.D. Ga. 1993)(same); Zands v. Nelson, 779 F.Supp. 1254, 
+1262 (S.D. Cal. 1991)(same). As the Ninth Circuit recognized 
+in KFC Western, California’s environmental statutes do not 
+provide relief to a private party who has expended funds in 
+responding to a hazardous condition where the cause of the 
+
+
+27 
+
+
+condition is petroleum contamination. KFC Western, 49 F.3d 
+at 523, n.6. In addition, the environmental laws of the States 
+of Alabama, Louisiana, New Mexico, North Dakota, South 
+Dakota, Vermont, Virginia and Wisconsin are not broad enough 
+to provide compensation in most circumstances where a private 
+citizen has responded to a release of petroleum which has 
+created a hazardous condition. 
+
+Moreover, as the United States (one of the major polluters 
+in this country) is undoubtedly aware, state law offers no 
+recourse against the United States, and liability under the 
+Federal Tort Claims Act, 28 U.S.C. §§ 1346, 2671 ef seq., 
+depends upon proof of wrongful conduct. See Laird v. Nelms, 
+406 U.S. 797 (1972); Dalehite v. United States, 346 U.S. 15 
+(1953). It is due in part to the deficiencies of common law 
+remedies that Congress intended Sections 7002 and 7003 to be 
+“more liberal” than their “common law counterparts.” S. Rep. 
+No. 96-172, 96th Cong., Ist Sess., at 5 (1979), reprinted in 
+1980 U.S.C.C.A.N. 5019, 5023 (1980) (explaining purpose of 
+Section 7003). 
+
+The deficiencies of state law as a means of recovering the 
+costs of abating an imminent and substantial endangerment 
+where the federal government is the defendant are illustrated in 
+a case pending against the United States Department of 
+Agriculture in the United States District Court for the District 
+of Massachusetts. See Complaint, Commonwealth of 
+Massachusetts v. United States Department of Agriculture, C.A. 
+No. 95-11668 REK (D. Mass., filed July 27, 1995). 
+
+In that case, the Commonwealth responded to an emergency 
+situation in 1986 in which public drinking water supplies were 
+found to be contaminated with various carcinogenic chemicals, 
+including benzene. Jd. The Commonwealth took certain steps 
+
+
+28 
+
+
+to abate the endangerment, including providing alternate 
+drinking water supplies to its citizens and performing an 
+evaluation of the extent of the environmental harm. /d. 
+
+Some years later the Commonwealth discovered that the 
+United States Department of Agriculture (“USDA”) was a 
+probable cause of the contamination. /d. 
+
+Were a private defendant involved, Massachusetts could 
+have proceeded under its own State “Superfund” law, Mass. 
+Gen. Laws c. 21E. See Mass. Gen. Laws Ann. c. 21E, § 5 
+(1983 & 1995 Supp.)(creating liability for parties who release 
+oil into the environment). However, because the contamination 
+was caused by a release of petroleum, due to the sovereign 
+immunity of the federal government, Chapter 21E could not be 
+used to hold the USDA liable. See 42 U.S.C. § 9601(14) 
+(excluding petroleum from regulation under CERCLA); New 
+York v. United States, 620 F.Supp. 374, 386 (E.D.N.Y. 1985) 
+(no cause of action lies against federal government under 
+CERCLA where contamination is limited to uncontaminated 
+petroleum products). The availability of a tort suit under the 
+Federal Tort Claims Act, 28 U.S.C. §§ 1346, 2671 ef seq. 
+would entail the daunting task of proving a waiver of sovereign 
+immunity in the face of the discretionary function exception, 
+and would further require a showing of negligent or 
+intentionally wrongful conduct on the part of the United States. 
+See supra, p. 28. Due to the unavailability of other options, 
+Massachusetts chose to proceed under Section 7002(a)(1)(B). 
+
+Contrary to the assertions of the United States, a ruling 
+which limits the powers of the federal district courts to award 
+restitution in such actions only where the endangerment 
+continues to exist will lead to numerous situations where a 
+plaintiff, in many cases an innocent party who has undertaken 
+
+
+29 
+
+
+a cleanup of a hazardous condition, will be left without a 
+remedy. This will be particularly likely where the polluter is 
+the federal government and the contamination consists of leaked 
+or spilt petroleum. 
+
+
+Conclusion - 
+
+
+For the foregoing reasons, the amici states urge this 
+Court to affirm the decision of the Ninth Circuit Court of 
+Appeals and to rule that Section 7002 enables citizens to 
+recover the costs they have expended in responding to 
+environmental hazards. Such a ruling is consistent with the 
+established precedents of this Court and promotes the intent of 
+Congress in enacting this legislation. 
+
+
+Respectfully submitted, 
+
+ScoTT HARSHBARGER JEREMIAH W. NIXON 
+Attorney General Attorney General 
+of Massachusetts State of Missouri 
+
+WILLIAM L. PARDEE* JAMES LAYTON 
+
+JOHN BELING JOSEPH P. BINDBEUTEL 
+
+KAREN MCGUIRE DOUGLAS E. NELSON 
+Assistant Attorneys Assistant Attorneys 
+General : General 
+
+200 Portland Street 
+
+Boston, MA 02114 
+
+(617) 727-2200 
+
+
+*Counsel of Record 
+
+
+December 8, 1995 
+
+
+30 
+
+
+BRUCE M. BOTELHO 
+Attorney General 
+State of Alaska 
+
+
+CALVIN E. HOLLOWAY 
+Attorney General 
+Territory of Guam 
+
+
+CHRIS GORMAN 
+Attorney General 
+Commonwealth of 
+
+
+Kentucky 
+
+
+FRANKIE SUE DEL PAPA 
+Attorney General 
+State of Nevada 
+
+
+TOM UDALL 
+Attorney General 
+State of New Mexico 
+
+
+DARRELL V. MCGRAW, JR. 
+
+
+Attorney General 
+State of West Virginia 
+
+
+ROBERT A. BUTTERWORTH 
+Attorney General 
+State of Florida 
+
+
+CARLA STOLLA 
+Attorney General 
+State of Kansas 
+
+
+RICHARD P. IEYOUB 
+Attorney General 
+State of Louisiana 
+
+
+DEBORAH T. PORITZ 
+Attorney General 
+State of New Jersey 
+
+
+DENNIS C. VACCO 
+Attorney General 
+State of New York 
+
+
+JAMES E. DOYLE 
+Attorney General 
+State of Wisconsin 
+
+

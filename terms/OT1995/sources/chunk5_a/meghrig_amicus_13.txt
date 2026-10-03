@@ -1,0 +1,807 @@
+No. 95-83 
+
+
+> 
+i 
+Ltd | 
+ad | 
+co 
+— © 
+—s 
+<< 
+—— 
+a 
+CD | 
+wer 
+co 
+
+
+CLERK 
+
+
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+ALAN MEGHRIG and MARGARET MEGHRIG, 
+Petitioners, 
+
+
+Vv. 
+
+
+KFC WESTERN, INC., 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals for the Ninth Circuit 
+
+
+BRIEF AMICUS CURIAE OF THE 
+PETROLEUM MARKETERS ASSOCIATION OF AMERICA 
+
+
+ALPHONSE M. ALFANO 
+(Counsel of Record) 
+
+Rosert S. BASSMAN 
+
+BASSMAN, MITCHELL & 
+
+
+ALFANO, CHTD. 
+1201 New York Avenue, N.W. 
+Of Counse/ Washington, D.C. 20005 
+John J. Huber, Counsel 202-466-6502 
+Petroleum Marketers 
+Association of America Counsel for Amicus Curiae 
+
+
+NR a ee TR 
+CASILLAS PRESS, INC. WASHINGTON, D.C. 202-223-1220 
+
+
+OO Cet “ 
+« 
+
+
+nt A Sage 
+
+
+eee 7, he Rice 
+a th pa er 
+
+
+rat - "a a” 
+tetas eee a 
+
+
+“a 
+
+
+ui. 
+PP rt 7 
+“ iem. La 
+a. ee tadeed 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases: 
+
+Boris v. Hill, 375 S.E.2d 716 (Va. 1989)........ 11 
+California v. Sierra Club, 
+
+451 U.S. 287 (1981) (White J.) .............. 5 
+Cannon v. University of Chicago, 
+Re 12, 14 
+
+
+Director, UWCP v. Perini North 
+River Assoc., 459 U.S. 297°(1983) ........... 12 
+
+
+Feldman v. Rucker, 109 S.E.2d 379 (Va. 1959)... 11 
+Furrer v. Brown, 62 F.3d 1092 (8th Cir. 1995) . 6, 13 
+Hydro-Manufacturing, Inc. v. Kayser- 
+
+
+Roth Corp., 640 A.2d 950 (R.I. 1994) ....... 8,11 
+KFC v. Meghrig, 49 F.3d 518, 519 
+"Saleen aia 3, 6,9, 11, 14 
+
+
+Philadelphia Electric Co. v. Hercules, Inc., 
+
+762 F.2d 303 (3rd Cir. 1985), 
+
+cert. denied, 474 U.S. 980 (1985)............ 11 
+Porter v. Warner Holding Co., 328 U.S. 395 (1946) . 7 
+Smith Land & Improvement Corp. v. 
+
+Rapid-American Corp., 
+
+18 Envtl. L. Rep 20, 769 (M.D. Pa. 1987) ...... 11 
+
+
+Touche Ross & Co. v. Reddington, 
+ED oda bae deus te eeenes 5,14 
+
+
+TransAmerica Mortgage Advisors, Inc. v. 
+
+lewis, 444 U.S. 11 (1979)... .......2 2c eee 5 
+Westwood Pharmaceuticals, Inc. v. 
+
+37 F. Supp. 1272 (W.D.N.Y. 1990), 
+
+affd, 964 F.2d 857 (2d Cir. 1992) ........... 11 
+
+
+Wilson Auto Enterprises, Inc. v. Mobil Oil 
+Corp., 778 F. Supp. 101 (DRI. 1991) ....... 8,11 
+
+
+Comprehensive Environmental Response, 
+(CERCLA) 42 U.S.C. §§ 9601-9675 .......... 13 
+
+
+Resource Conservation and Recovery Act 
+(RCRA), 42 US.C. § 6972, et seq. ....... 4,9, 10 
+Other Authorities: 
+
+
+Friedman, Contracts and 
+of Real Property (4th ed. 1984) § 1.2(n) ....... 11 
+
+
+H.R. Rep. No. 98-198, 98th Cong., 
+2d Sess., at 48 (1984), reprinted in 
+
+
+1984 US.CCA.N. 5576 ............. 6, 10, 13 
+Little, Brown & Ca (1965)... .......00 cee eees 7 
+John F. O'Connell, Remedies, West (1985) ....... 7 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+OcToBER TERM, 1995 
+
+
+ALAN MEGHRIG and MARGARET MEGHRIG, — 
+
+
+Petitioners, 
+
+. KFC WESTERN, INC., 
+t% Respondent. 
+3 
+
+* On Writ of Certiorari to the 
+
+| United States Court of Appeals for the Ninth Circuit 
+ye 
+
+“4 
+
+” BrigF AMICUS CURIAE OF THE 
+
+ar PETROLEUM MARKETERS ASSOCIATION OF AMERICA 
+a The Petroleum Marketers Association of America 
+
+
+(PMAA) respectfully submits this brief amicus curiae in 
+
+
+<3 support of Alan and Margaret Meghrig in this case 
+| Written consent to the filing of this brief has been obtained 
+| from all parties. The original letters authorizing consent 
+By have been filed concurrently herewith. 
+
+r 
+
+
+INTEREST OF AMICUS CURIAE 
+
+
+The PMAA is a federation of 42 state and regional 
+trade associations representing more than ten thousand 
+small business petroleum marketers:’ Together, PMAA 
+members market approximately 46 percent of the gasoline 
+and 75 percent of the home heating oil sold in America. 
+In addition, they supply more than one-half of the Nation’s 
+retail motor fuel facilities?’ approximately three-quarters of 
+which are operated by independent retailers. PMAA 
+members are primarily composed of jobbers and other 
+wholesale distributors of refined petroleum products, as 
+well as chain retailers that market motor fuels through 
+service station outlets. 
+
+
+In connection with their businesses, PMAA members 
+have purchased and sold tens of thousands of parcels of 
+real property at which petroleum products were stored, 
+distributed, or sold. Because they served as both the 
+vendor and vendee of petroleum-contaminated properties, 
+petroleum marketers have a unique perspective as to the 
+balance of interests that is reflected in the parties’ 
+determinations of fair market value They also have a 
+great deal at stake At issue is a decision of the Ninth 
+
+
+A list of the constituent state and regional trade associations 
+that compose the PMAA is set forth in the Appendix hereto. 
+
+
+2\Independent marketers own or lease more than 50,000 retail 
+facilities nationwide and store fuel at more than 10,000 addi- 
+tional “bulk plants.” PMAA’s 1994 member survey discloses 
+that its members supplied 71,279 of America’s approximately 
+150,000 retail motor fuel distribution outlets (e.g., gasoline 
+stations, truck stops, convenience stores). Their 240,000 full- 
+time employees service this network with roughly 100,000 
+vehicles. 
+
+
+3 
+
+
+Circuit Court of Appeals® that exposes petroleum 
+marketers to unlimited liability for the costs of remediating 
+petroleum contamination at properties in which they had 
+an ownership interest at one time or another over a period 
+of decades. 
+
+
+Although PMAA members stand to benefit from the 
+decision below, to the extent they were vendees of 
+petroleum-contaminated property, or to be affected 
+adversely by the decision, to the extent they were vendors, 
+their collective interest is aligned with that of the Meghrigs. 
+For the reasons that follow, the Ninth Circuit's decision in 
+this case, if allowed to stand, would serve to retroactively 
+reallocate the rights and obligations of parties to settled 
+real estate transactions. It would place a cloud over the 
+transactions and jeopardize the viability of many petroleum 
+marketers who may now be called upon to suffer the costs 
+of remediating sites they parted with years ago. The 
+uncertainties created by these contingent liabilities would 
+stifle the business plans of all but the most ambitious 
+marketer; it would unsettle real estate markets for 
+petroleum-related properties, and it would lead to 
+dislocations in an industry in which market stability and 
+
+
+predictability are essential to plans for growth. 
+
+
+Over the decades, petroleum marketers purchased and 
+sold tens of thousands of properties at which petroleum 
+storage, distribution, or dispensing operations were 
+conducted. An important component in establishing the 
+fair market value of these properties was a set of common 
+
+i as to the risk of exposure of the vendor 
+and vendee to claims arising out of petroleum 
+
+
+contamination. These understandings were grounded in 
+
+
+The opinion of the Court of Appeals is reported at 49 F.3d 518 
+(9th Cir. 1995). 
+
+
+4 
+
+
+certain well-defined rules regarding the liability of property 
+owners to state regulatory agencies, to adjacent property 
+owners, and to successor land owners. The rules emanate 
+from the common law and from the various state statutes 
+that govern petroleum leaks and spills. 
+
+
+The understandings of the vendor and vendee as to the 
+risks and liabilities of property ownership were reflected in 
+the purchase price for the property. Properties sold "as is" 
+or in their “present condition" were conveyed without any 
+warranty as to condition, thus reflecting the intent of the 
+vendor and vendee to allocate the risks of property owner- 
+ship in the context of determining fair market value If a 
+vendor sold a contaminated property at an appropriately 
+discounted price, the rules governing real property trans- 
+actions, including the doctrine of caveat emptor, precluded 
+any unbargained-for liability to remote vendees. In this 
+way, the market allocated resources and risks in an orderlv 
+climate of well-defined rights and responsibilities. 
+
+
+The decision of the Ninth Circuit in this case imputes to 
+Congress an intent to retroactively reallocate the rights and 
+obligations of parties to real property transactions without 
+regard to the understandings on which the transactions 
+were based. By interpreting the citizen suit provision of 
+the Resource Conservation and Recovery Act (RCRAF’ to 
+authorize a private right of action for money damages, 
+albeit in the form of “equitable restitution,” the court 
+created a remedy so broad in scope as to effectively pre- 
+empt the more limited state remedies and defenses which 
+had heretofore governed the parties’ actions. The ultimate 
+consequence of the ruling is enormous. It calls into 
+question the understandings on which thousands of 
+bargained-for transactions were grounded and subjects 
+them to scrutiny on the basis of ruies that were never 
+imagined when the parties set out to define their respective 
+obligations. 
+
+
+#42 U.S.C. § 6972(a)(1)(B). ‘ 
+
+
+5 
+
+
+The decision of the Ninth Circuit rests on the notion 
+that Congress intended these consequences notwith- 
+standing the absence of any explicit reference in RCRA’s 
+citizen suit provision to a private right of action for money 
+damages. It construed the language “to take such other 
+action as may be necessary” to include the full range of 
+equitable remedies, including "restitution," to be targeted, 
+in the absence of a statute of limitations, to each vendor 
+in the chain of title 
+
+
+For the reasons that follow, the presumption that 
+Congress had the will to effect such enormous change 
+cannot be based on so little in the way of evidence of 
+congressional intent. Indeed, it is clear that the decision of 
+the court below rested not on evidence of congressional 
+intent, but on a conclusion that “public policy concerns" 
+favor a restitutionary remedy. It is not the role of the 
+federal courts, however, to "engraft a remedy on a statute, 
+no matter how salutary, that Congress did not provide” 
+California v. Sierra Club, 451 U.S. 287, 298 (1981) 
+(White, J.). 
+
+
+A. The Ninth Circuit Erred in Failing to Apply 
+the Precedents of this Court that Establish 
+Standards for Implied Rights of Action 
+
+
+In Cort v. Ash, 422 U.S. 66 (1975), this Court set out 
+four standards for determining whether a private right of 
+action exists in a statute. They are: (i) whether the plaintiff 
+is in the class for whose benefit the statute was enacted, 
+(ii) whether the legislative history evidences an intent to 
+create a cause of action, (iii) whether the proposed remedy 
+is consistent with the statutory scheme, and (iv) whether 
+the cause of action is one traditionally a matter of state 
+law. In later decisions, the Court restructured the inquiry, 
+stating that congressional intent is the determinative factor, 
+and that the other three are indicative of its presence or 
+absence Jouche Ross & Ca v. Reddington, 422 U.S. 
+560, 575-576 (1979); TansAmerica Mortgage Advisors, 
+
+
+Inc. v. Lewis, 444 U.S. 11, 18 (1979). The central focus 
+of the inquiry, therefore, is whether Congress intended to 
+create a remedy. 
+
+
+The focus of the decision below is not on congressional 
+intent. On the contrary, it assumes that congressional 
+intent is evident in an explicit authorization for courts “to 
+take such other action as may be necessary," which the 
+court construed as including equitable remedies such as 
+restitution. In effect, the Ninth Circuit concluded that it 
+was not recognizing an implied right of action; rather, it 
+was giving effect to an express right of action for 
+restitutionary relief2’ 
+
+
+In order to accomplish this result, the court indulged in 
+two assumptions, neither of which was subjected to even 
+a cursory analysis. First, the court agreed with KFC that 
+“its damages claim was actually a claim for ‘equitable 
+restitution.’" KFC v. Meghrig, 49 F.3d 518, 519 (9th Cir. 
+1995). Second, it concluded that an equitable remedy, 
+such as restitution, is merely an adjunct to the type of 
+injunctive relief that is indisputably authorized by the 
+statute and encompassed in the language “such other 
+action as may be necessary... ." This assumption was 
+necessary to conform the remedy to what Congress clearly 
+intended as the “equitable authority of Section 7003.” 
+H.R. Rep. No. 98-198, 98th Cong., 2d Sess., 48 (1984), 
+reprinted in 1984 U.S.C.C.A.N. 5576, 5607. As will be 
+developed more fully below, however, neither of these 
+assumptions is valid. 
+
+
+*/The approach taken by the court below stands in stark contrast 
+to the one applied by the Eighth Circuit Court of Appeals in 
+Furrer v. Brown, 62 F.3d 1092 (8th Cir. 1995), which examined 
+the identical issue. The Eighth Circuit applied the factors set 
+out in Cort v. Ash and concluded that RCRA does not authorize 
+a private right of action for monetary remedies. 
+
+
+Private Right of Action for Money Damages 
+
+
+Restitution is an equitable remedy that attempts to 
+restore a plaintiff to the position it would have been in had 
+there been no wrongful act committed by the defendant. 
+See, eg., Porter v. Warner Holding Co, 328 U.S. 395, 
+402 (1946). The remedy is restorative in nature; on the 
+basis of equitable principles, it attempts to reimburse the 
+plaintiff for what was unlawfully acquired from him. The 
+most distinctive feature of restitution is that liability is 
+based on, and recovery is usually measured by, benefit to 
+the defendant rather than harm to the plaintiff In short, 
+restitution is based upon the gains to the defendant which 
+would be unjust for him to retain2’ 
+
+
+The remedy imposed by the court below is more 
+mechanical in its approach than anything that can be 
+characterized as restitutionary. It requires any party who 
+contributed in the past to a current endangerment to 
+reimburse the plaintiff for the costs of cleaning up a site 
+Damages are measured by the amount of the plaintiff's 
+costs of remediation; there is no attempt to determine 
+whether the defendant was unjustly enriched or whether 
+a reimbursement in the amount of the remediation costs 
+would restore the status quo ante. 
+
+
+Assuming that the wrongful act of the defendant is its 
+contribution to the endangerment, the aggregate of the 
+plaintiff's clean-up costs may be greater than necessary to 
+restore the plaintiff to the position it would have been in 
+had the wrongful act not occurred. Were the property not 
+contaminated, the plaintiff may never have been in a 
+
+
+*Douglas Laycock, Modern American Remedies, 462. 
+
+
+John F. O'Connell, Remedies, 72. 
+
+
+position to purchase it. Clearly, the range of options 
+available to a vendor of clean property is significantly 
+greater than would be the case if the property were 
+polluted with petroleum hydrocarbons. More than likely, 
+the price at which the plaintiff purchased the property 
+would have been greater in the event the property were 
+clean at the time of sale. Assuming for the moment that 
+the purchase price for the property was discounted by the 
+estimated amount of clean-up costs, reimbursement in the 
+manner prescribed by the court below would unjustly 
+enrich the plaintiff, KFC. 
+
+
+Moreover, "[b]uyers of contaminated land, unlike the 
+victims of negligent acts, are in a position to protect 
+themselves through contract or by refusing to conclude a 
+transaction." Hydro-Manufacturing, Inc. v. Kayser-Roth 
+Corp., 640 A.2d 950, 956 (Rl. 1994). A prospective 
+buyer, for example, "can bargain with the seller for security 
+or indemnity against unknown defects." Wilson Auto 
+Enterprises, Inc. v. Mobil Oil Corp., 778 F. Supp. 101, 105 
+(D.R.1. 1991). Even where no security is obtained by the 
+buyer, and there is no reduction in the purchase price, the 
+property may have a value to the buyer that is far in 
+excess of its fair market value. Whether reimbursement is 
+equitable, therefore, and whether the vendor has been 
+unjustly enriched as a result of remediation by the vendee, 
+it is subject to numerous market-based and other policy 
+considerations, among which is whether a vendee who 
+purchases property after a satisfactory inspection assumes 
+all risk of liability from petroleum contamination. 
+
+
+The Ninth Circuit did not, however, appear concerned 
+with the intricacies of —— a truly restitutionary 
+remedy. its conception of the remedy envisioned by 
+Congress is one in the nature of indemnity. See KFC, 
+supra, at 524. ("[T]he innocent private party, like KFC, 
+who purchases already-contaminated property, often must 
+clean the property immediately and recover secondarily 
+from the actual polluter"). Its aim is narrow; that is, to 
+compensate the vendee for the costs of remediation on the 
+
+
+9 
+
+
+assumption that a “right to reimbursement" would 
+encourage prompt cleanups” As such, it is functionally 
+no different from compensatory damages. 
+
+
+2. The Citizen Suit Provision of RCRA 
+Was not Intended by Congress as a 
+Private Right of Action for Damages 
+
+
+The RCRA citizen suit provision provides in pertinent 
+part that: 
+
+
+The district court shall have juris- 
+diction .. . to restrain any person who 
+has contributed or who is contributing to 
+the past or present handling, storage, 
+treatment, transportation, or disposal of 
+any solid or hazardous waste referred to 
+in [8 6972(a)(1)(B) (the endangerment 
+provision)] [and] to order such person to 
+take such other action as may be 
+necessary, or both... . 
+
+
+42 U.S.C. § 6972(a). 
+
+
+In construing the “such other action as may be necessary," 
+language to include a private right of action for damages, 
+the court below crafted a broad-based remedy that 
+effectively abrogates the various defenses available to the 
+defendant under the common law. Thus, the court has 
+created a “super remedy" that supersedes and renders 
+meaningless the traditional common law remedies available 
+to a vendee against the vendor of real property. Congress 
+could not have intended to create such a remedy and, at 
+
+
+"See 49 F.3d at 524. ("The right to reimbursement becomes 
+important to the Administrator only when contamination requires 
+prompt attention, which is always the case for private citizens 
+who are ordered to remedy contamination."). 
+
+
+10 
+
+
+the same time, to preserve state law remedies as an 
+adjunct to the equitable remedies available under RCRA. 
+
+
+In RCRA, Congress inserted a savings clause which 
+preserves a person's rights “under any statute or common 
+law... to seek any other relief." 42 USC. § 6972(f). 
+The legislative history of the 1984 amendment to § 6972 
+reflects the awareness of Congress that these state law 
+claims would be instituted in conjunction with a citizen's 
+suit under RCRA to abate an imminent hazard?’ In fact, 
+the legislative history of the 1984 amendment suggests a 
+congressional awareness that the state and federal actions 
+would be instituted in tandem, the federal action for 
+injunctive relief to abate the endangerment and the state 
+causes of action to seek reimbursement for the losses 
+associated with petroleum contamination22 In any 
+event, the congressional assumptions evident in the legis- 
+lative history would make no sense if the citizen’s suit 
+provision were interpreted to include the private damage 
+remedy envisioned by the Ninth Circuit. For the reasons 
+set forth below, the state remedies would be useless sur- 
+plusage in relation to the more potent federal cause of 
+action. 
+
+
+Where, as here, a vendee sues the vendor of real 
+property, common law defenses are often available to bar 
+the claim. In jurisdictions that adhere to the doctrine of 
+caveat emptor, a seller cannot be held responsible for 
+defects, such as petroleum contamination, existing in the 
+
+
+2H.R. Rep. No. 98-198, 98th Cong., 2d Sess., 48 (1984), 
+reprinted in 1984 U.S.C.C.A.N. 5576, 5612. 
+
+
+1°/See id. ("Although the Committee has not prohibited a citizen 
+from raising claims under state law in a Section 7002 action, 
+the Committee expects courts to exercise their discretion 
+concerning pendent jurisdiction in a way that will not frustrate 
+or delay the primary goal of this provision, namely the prompt 
+abatement of imminent and substantial endangerments."). 
+
+
+11 
+
+
+property at the time of sale’ Nor would such defects 
+afford the purchaser a basis to resist an action for specific 
+performance of the sales contract, Feldman v. Rucker, 
+109 S.E.2d 379 (Va. 1959) or, absent an attempt by the 
+seller to prevent discovery of the defects, to seek recision. 
+Boris v. Hill, 375 S.E.2d 716 (Va. 1989). The same result 
+would obtain where the buyer attempts indirectly to 
+circumvent the rule, such as by claiming that the defects 
+were the result of the seller’s negligence, Hydro- 
+Manufacturing, supra; Wilson Auto Enterprises, supra, or 
+where the purchaser claims that the defects have resulted 
+in a private nuisance. Westwood Pharmaceuticals, Inc. v. 
+National Fuel Gas Distribution Corp., 737 F. Supp. 1272, 
+1282 (W.D.N.Y. 1990), affo, 964 F.2d 85 (2d Cir. 1992). 
+This is also true where the vendee of real property seeks 
+compensation for remediation expenses from the vendor on 
+a theory of common law indemnity. Philadelphia Electric 
+Ca. v. Hercules, Inc., 762 F.2d 303, 318 (3d Cir. 1985), 
+cert. denied, 474 U.S. 980 (1985) ("The same policy 
+considerations that counsel adherence to the rule of caveat 
+emptor in this situation militate against shifting the loss to 
+Hercules on an indemnity theory."). See a/so, e.g., Smith 
+Land & Improvement Corp. v. Rapid-American Corp., 
+18 Envtl. L. Rep. 20, 769 (M.D. Pa. 1987). Common law 
+remedies are also susceptible to being barred by the 
+applicable statutes of limitations and repose. 
+
+
+The remedy envisioned by the Ninth Circuit is immune 
+to these defenses. The court below authorized relief in the 
+form of money damages in a suit by a vendee against the 
+vendor of real property without regard to caveat emptor 
+and any statute of limitations” KFC, supra, at 522- 
+
+
+1/Milton Friedman, Contracts and Conveyances of Real Property 
+§ 1.2(n) (4th ed. 1984) and cases cited therein. 
+
+
+2/The Ninth Circuit does not see the lack of any limitations period 
+"as a problem.” 49 F.3d at 522-523. In addressing this issue, 
+
+
+(continued...) 
+
+
+12 
+
+
+523. In short, it imputed to Congress an intent to create 
+a super remedy that imposes strict liability on any party 
+contributing to an endangerment, irrespective of negligence 
+or other actionable conduct, and one that is not susceptible 
+to the traditional common law defenses. Moreover, by 
+characterizing the remedy as one sounding in restitution, 
+the court below did not fcreclose the possibility that 
+restitution could go beyond compensation for clean-up 
+costs and extend to other areas, such as lost profits or 
+other business-related damages. 
+
+
+Because the remedy made available to KFC is signifi- 
+cantly more potent than anything available at common law, 
+or under state statutes that are subject to a statute of 
+limitations, it is unlikely that private litigants would rely on 
+the traditional common law remedies. It is unlikely, there- 
+fore, that Congress made a point of preserving state law 
+only to create a remedy that effectively supersedes it!” 
+
+
+It is even more unlikely that Congress could have 
+intended a remedy that is such a marked departure from 
+existing law in the absence of some explicit reference in 
+the statute or in the legislative history. Indeed, the 
+legislative history indicates a contrary intention. Congress 
+could not have characterized the citizen's suit provision as 
+
+
+12, continued) 
+
+it concluded that “[bly applying equitable defenses such as 
+laches, courts can alleviate any unfairness that might be created 
+by the lack of a limitations period for RCRA citizens’ suit.” /d. 
+In substance, the court below construed congressional intent to 
+permit the courts unlimited discretion to determine the reach of 
+the remedy it created on a case-by-case basis. 
+
+
+It is assumed, of course, “that Congress is aware of existing 
+law when it passes legislation.” Director, VWCP v. Perini North 
+River Assoc., 459 U.S. 297, 319-320 (1983); Cannon v. 
+University of Chicago, 441 U.S. 677, 696-697 (1979). 
+
+
+13 
+
+
+conferring “a limited right . . ."** to sue and, at the same 
+time, to have envisioned a super remedy that broadens the 
+pihie of eedaniensina waeend endive beating ot 
+
+
+common law. 
+
+
+As the Eighth Circuit concluded in Furrer, referring to 
+the explicit provision contained in the Comprehensive 
+Environmental Response, Compensation, and Liability Act 
+(CERCLA),” Congress would have included an express 
+provision in RCRA authorizing contribution or indemnity if 
+such were its intent: 
+
+
+Congress, knowing its CERCLA citizen's 
+suit provision, did not extend the 
+available remedies to include a cause of 
+
+
+vision), and wishing to allow such a 
+remedy in certain cases, enacted 
+
+
+§ 9613/(f)(1) to provide expressly for 
+
+
+62 F.3d at 1096-97. On the basis of the foregoing, there 
+is No reason to believe that Congress would not have been 
+equally as clear had it desired to create a CERCLA-type 
+
+
+remedy in RCRA. 
+
+
+1/4.R. Rep. No. 98-198, 98th Cong., 2d Sess., 48 (1984), 
+reprinted in 1984 U.S.C.C.A.N. 5576, 5612. 
+
+
+1/42 U.S.C. §§ 9601-9675. 
+
+
+15 
+
+
+of hindsight, it attempts to inject into these transactions 
+contemporary notions of fairness without regard to the 
+market factors on which the transactions were based. It 
+exposes thousands of vendors of real property to 
+unbargained-for liability to remote vendees many years 
+after the sales of property were concluded, and seriously 
+threatens the viability of many of them. 
+
+
+The Ninth Circuit's decision was rendered in the 
+absence of any analysis of these implications and without 
+
+
+Congress has played its part in attempting such a balance 
+through the enactment of comprehensive statutory 
+schemes that explicitly define the rights and obligations of 
+
+
+ALFANO, CHTD. 
+
+1201 New York Avenue, N.W. 
+D.C. 20005 
+
+202-466-6502 
+
+
+Counsel for Amicus Curiae 
+
+
+Amicus Curiae, Petroleum Marketers Association of 
+America, is a non-profit trade association comprising the 
+following associations: 
+
+
+2a 
+
+
+Petroleum Marketers of lowa 
+
+

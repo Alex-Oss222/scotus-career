@@ -1,0 +1,199 @@
+{
+  "scope": "Control-only mechanical source filtering; no legal framing. Original newline layout and unaffected columns retained.",
+  "files": {
+    "meghrig_petition.txt": {
+      "original_sha256": "0ed72cd0f205795cb522bffc990fba558926c9898694f5b9f49c9bd4930a662d",
+      "derivative": "meghrig_petition_neutral_read.txt",
+      "derivative_sha256": "0ed72cd0f205795cb522bffc990fba558926c9898694f5b9f49c9bd4930a662d",
+      "changed_lines": []
+    },
+    "meghrig_ja.txt": {
+      "original_sha256": "21a3dc559168749686d3b6582198cddc8b3f1abd18ddc340ed39e5319a57454b",
+      "derivative": "meghrig_ja_neutral_read.txt",
+      "derivative_sha256": "628dd96aa8348a8e39f86334a02c5296c65ada89afef0289e0130860e4350347",
+      "changed_lines": [
+        {
+          "original_line": 46,
+          "before": "               Certiorari Granted September 27, 1995",
+          "after": ""
+        },
+        {
+          "original_line": 75,
+          "before": "Order of the United States Supreme Court Granting",
+          "after": ""
+        },
+        {
+          "original_line": 76,
+          "before": "  Petition for Writ of Certiorari, September 27, 1995 .... 21",
+          "after": ""
+        },
+        {
+          "original_line": 492,
+          "before": "\f                             20                                                                       21",
+          "after": "\f                             20"
+        },
+        {
+          "original_line": 494,
+          "before": "              PROOF OF SERVICE BY MAIL                                        SUPREME     COURT     OF THE UNITED        STATES",
+          "after": "              PROOF OF SERVICE BY MAIL"
+        },
+        {
+          "original_line": 495,
+          "before": "    I am employed in the County of Los Angeles, State of                                          No. 95-83",
+          "after": "    I am employed in the County of Los Angeles, State of"
+        },
+        {
+          "original_line": 496,
+          "before": "California. | am over the age of eighteen and not a party                                   Alan Meghrig, et ux.,",
+          "after": "California. | am over the age of eighteen and not a party"
+        },
+        {
+          "original_line": 497,
+          "before": "to the within action. My business address is 100 Wilshire           \u2014\u2014_",
+          "after": "to the within action. My business address is 100 Wilshire"
+        },
+        {
+          "original_line": 498,
+          "before": "                                                                                                                  Petitioners",
+          "after": ""
+        },
+        {
+          "original_line": 500,
+          "before": "                                                                                                      v.",
+          "after": ""
+        },
+        {
+          "original_line": 501,
+          "before": "    On October 1, 1992, I served the foregoing document,                                   KEC   [sic] Western, Inc.",
+          "after": "    On October 1, 1992, I served the foregoing document,"
+        },
+        {
+          "original_line": 503,
+          "before": "EQUITABLE RESTITUTION UNDER RCRA SECTION                                            ORDER ALLOWING CERTIORARI.",
+          "after": "EQUITABLE RESTITUTION UNDER RCRA SECTION"
+        },
+        {
+          "original_line": 504,
+          "before": "7002, 42 U.S.C. SECTION      6972(a)(1)(B) on the parties in                            Filed September 27, 1995.",
+          "after": "7002, 42 U.S.C. SECTION      6972(a)(1)(B) on the parties in"
+        },
+        {
+          "original_line": 505,
+          "before": "this action by placing a true copy thereof enclosed in a                      The petition herein for a writ of certiorari to the",
+          "after": "this action by placing a true copy thereof enclosed in a"
+        },
+        {
+          "original_line": 506,
+          "before": "sealed envelope with postage fully prepaid in the United                  United States Court of Appeals for the Ninth Circuit is",
+          "after": "sealed envelope with postage fully prepaid in the United"
+        },
+        {
+          "original_line": 507,
+          "before": "States Mail   at Santa   Monica,     California,   addressed   as         granted. The brief of petitioners is to be filed with the",
+          "after": "States Mail   at Santa   Monica,     California,   addressed   as"
+        },
+        {
+          "original_line": 508,
+          "before": "follows:                                                                  Clerk and served upon opposing counsel on or before 3",
+          "after": "follows:"
+        },
+        {
+          "original_line": 509,
+          "before": "John P. Zaimes, Esq.                                                      p-m., Thursday, November 9, 1995. The brief of respon-",
+          "after": "John P. Zaimes, Esq."
+        },
+        {
+          "original_line": 510,
+          "before": "McClintock, Weston, Benshoof,                                             dent is to be filed with the Clerk and served upon oppos-",
+          "after": "McClintock, Weston, Benshoof,"
+        },
+        {
+          "original_line": 511,
+          "before": "  Rochefort, Rubalcava & MacCuish                                         ing counsel on or before 3 p.m., Friday, December 8, 1995.",
+          "after": "  Rochefort, Rubalcava & MacCuish"
+        },
+        {
+          "original_line": 512,
+          "before": "444 South Flower Street, Forty Third Floor                                A reply brief, if any, is to be filed with the Clerk and",
+          "after": "444 South Flower Street, Forty Third Floor"
+        },
+        {
+          "original_line": 514,
+          "before": "                                                                          served upon opposing counsel on or before 3 p.m., Thurs-",
+          "after": ""
+        },
+        {
+          "original_line": 515,
+          "before": "Lourdes Baird                                                             day, December 28, 1995. Rule 29.2 does not apply.",
+          "after": "Lourdes Baird"
+        },
+        {
+          "original_line": 517,
+          "before": "312 North Spring Street                                                                      September 27, 1995",
+          "after": "312 North Spring Street"
+        }
+      ]
+    },
+    "meghrig_petitioners.txt": {
+      "original_sha256": "dbd0b254c797cf6437f710a8efa43cd9a60a74808d99d0a8980921a87110a5ef",
+      "derivative": "meghrig_petitioners_neutral_read.txt",
+      "derivative_sha256": "ecc6d241ee04e3ce7b7174ce98f76f962ce010167e61071865ac57ada1cbb590",
+      "changed_lines": [
+        {
+          "original_line": 288,
+          "before": "of certiorari was filed on July 13, 1995, and was granted on                   storage, treatment, transportation, or disposal of",
+          "after": "of certiorari was filed on July 13, 1995                                       storage, treatment, transportation, or disposal of"
+        },
+        {
+          "original_line": 289,
+          "before": "September 27, 1995. The jurisdiction of this court rests on 28                 any solid or hazardous waste referred to in",
+          "after": "                    The jurisdiction of this court rests on 28                 any solid or hazardous waste referred to in"
+        }
+      ]
+    },
+    "meghrig_respondent.txt": {
+      "original_sha256": "3944b0f8c2a7bfce87999b6854e9d903744e689f1ea0ce1e5d9df98db717e5c2",
+      "derivative": "meghrig_respondent_neutral_read.txt",
+      "derivative_sha256": "ae84439844fe2eb69771e468ff11a73bcd20007d69263b38ff3006bcc5e62ec8",
+      "changed_lines": [
+        {
+          "original_line": 250,
+          "before": "                                                                              filed on July 13, 1995, and was granted on September 27,",
+          "after": "                                                                              filed on July 13, 1995                                  "
+        },
+        {
+          "original_line": 251,
+          "before": "Douglas Laycock, Modern American Remedies --                                  1995. The jurisdiction of this Court is based on 28 U.S.C.",
+          "after": "Douglas Laycock, Modern American Remedies --                                        The jurisdiction of this Court is based on 28 U.S.C."
+        }
+      ]
+    },
+    "meghrig_reply.txt": {
+      "original_sha256": "34fe93209e2e622f26f518440350b0f984d4514ca8fd676784cdb6e149d404fd",
+      "derivative": "meghrig_reply_neutral_read.txt",
+      "derivative_sha256": "70e6a5ff84a9f16390b797f1644e961d621ef3f99bb9a0f83d2d6c6597d5651f",
+      "changed_lines": [
+        {
+          "original_line": 165,
+          "before": "granted by this Court) and also spend little time addressing the",
+          "after": "                     ) and also spend little time addressing the"
+        },
+        {
+          "original_line": 649,
+          "before": "years before commencement of suit.\u201d This Court granted certiorari as",
+          "after": "years before commencement of suit.\u201d                                 "
+        },
+        {
+          "original_line": 650,
+          "before": "to both issues.",
+          "after": "               "
+        },
+        {
+          "original_line": 654,
+          "before": "resolved here. Both were accepted for review by the Court, and the",
+          "after": "resolved here.                                                    "
+        }
+      ]
+    }
+  }
+}

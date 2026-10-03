@@ -1,0 +1,1392 @@
+                                      pepma Court, US.
+                                     RIUED
+                                      wov        9        1995
+             No. 95-83
+                                            co
+                                          ————       os
+
+
+
+
+    In the Supreme Court
+             of the
+         United States
+
+     OCTOBER TERM, 1995
+
+
+Alan Meghrig and Margaret Meghrig,
+           Petitioners,
+                VS.
+        KFC Western, Inc..,
+            Respondent.
+
+    On Writ of Certiorari to the
+   United States Court of Appeals
+        for the Ninth Circuit
+
+
+
+BRIEF FOR THE PETITIONERS
+
+
+          John P. Zaimes
+          Counsel of Record
+
+          Clifton J. McFarland
+          McCLINTOCK, WESTON,
+            BENSHOOF, ROCHEFORT,
+            RUBALCAVA & MacCUISH
+          444 South Flower Street, 43rd Floor
+          Los Angeles, California 90071
+          (213) 623-2322
+          Counsel for Petitioners
+
+
+
+
+                                                                 Ve
+                                i
+                 QUESTIONS PRESENTED
+
+        The citizen suit provision of the Resource Conservation
+and Recovery Act ("RCRA") gives federal district courts
+limited jurisdiction: (1) to "restrain" any pers        who
+                                                         on has
+contributed or is contributing to the handling of a solid or
+hazardous waste which endangers human health or the
+environment and (2) to “order such person to take such other
+action as may be necessary." The Ninth Circu        Court
+                                                       itof
+Appeals has held that this provision authorizes a citizen
+plaintiff to pursue a claim for reimbursement of past costs
+expended in cleaning up property contaminated with solid or
+hazardous waste.
+
+       The same RCRA citizen suit provision authorizes an
+action only where a solid or hazardous waste "may present an
+imminent and substantial endangerment to health or the
+environment." The Ninth Circuit has also held that a citizen
+suit may be commenced several years after the waste has been
+fully cleaned     up,   notwithstanding   the   "imminent    and
+substantial endangerme
+                  language of the
+                              nt" statute.
+
+       The questions presented for review are:
+
+       l.       Whether the citizen suit provision of RCRA
+                authorizes a private party to bring an action for
+                reimbursement   of past cleanup costs.
+
+                Whether the citizen suit provision of RCRA
+                permits an action to be pursued where the solid
+                or hazardous waste was fully remediated prior
+                to commencement    of he suit._
+                                                                                             ***
+
+
+
+
+                 TABLE OF CONTENTS                                     B.     The Express Terms Of The RCRA
+                                                   Page(s)                    Citizen Suit Provision Only Authorize
+                                                                              Actions     Where         Contamination
+QUESTIONS PRESENTED           ... wc ccccccccccscses         i                Currently Presents An Imminent and
+                                                                              Substantial Endangerment ..........
+OPRGONS      BELOGD .. wc cctrctvivevve      cabana      l
+                                                                       Other Sections Of The RCRA Citizen Suit
+PIRI        TOUS ccc      ecatseeeus   tubal             2             Provision Confirm That Monetary Relief For
+                                                                       Past Endangerments Was Not Intended ..... .
+STATUTORY      PROVISION INVOLVED         .........      2
+                                                                       A Comparison Of The RCRA Citizen Suit
+STATEMENT OF THE CASE ......ccccccscccs                  3             Provision With Comparable Provisions In
+                                                                       CERCLA Reaffirms The Absence Of A Cost
+       A.      Relevant    History Of The Subject                      Recovery Authorization In RCRA .........
+               s..         MORTAR  Eee ee a eee          4
+                                                                       A.     The Absence Of An Express Statute Of
+       B       Proceedings In The District    Court                           Limitations In The RCRA Citizen Suit
+               DOO oo cc évtess site          eee        5                    ee                   es
+
+
+       C       Proceedings In The Ninth Circuit Court                  B.     The Absence Of Statutory Guidance On
+               OF AGRON. . ii esses wesnnereel           7                    The Appropriateness Of Costs Sought
+                                                                              To Be Recovered Under RCRA         ......
+SUMMARY      OF ARGUMENT         .................      10
+                                                                       S      The Ninth Circuit's Interpretation
+ATESINGENE . wc ceccccivibetckt        eee              13                    Would Obviate Other Longstanding
+                                                                              Limitations On Private Party Cost
+I.     The    RCRA _ Citizen     Suit  Provision                              Cheb              ckeGcdccecs
+       Unambiguously Authorizes An Action Only
+       For Injunctive Relief And Only Where An                   IV.   The      Legislative History  Of     Federal
+       Imminent Endangerment Exists............         13             Environmental Citizen Suit Provisions, And
+                                                                       The Legislative History Of RCRA            In
+       A.      The Express Terms Of The RCRA                           Particular, Confirm That RCRA Citizen Suit
+               Citizen Suit Provision Only Authorize                   I                       PPI           Tee
+               Actions For Injunctive Relief ........   13
+                                                                       A.     The    Legislative     History     Of
+                                                                              Environmental Citizen Suit Provisions . .   27
+                               iV                                                       Vv
+
+      B     The Legislative History Of The RCRA                  B.   The Governmental      Suit Provision
+            Citizen Suit Provision .............           30         (Section 6973) is Distinct From The
+                                                                      Citizen Suit Provision (Section 6972)               ..   45
+      c.    The         islative      History   Of   The
+            a                       Amendments       To         Ss        Dd   bd ocd        ees   bab   oer   cobeeces   se   47
+            CERCLA’s Citizen Suit Provisions
+            Confirms Congress's Intent To Limit
+            RCRA’s Citizen Suit Authorization To
+            injunctive Relief Claims ...........           33
+
+V.    The Ninth Circuit Improperly Implied A
+      Private Party Right Of Action For Cost
+
+
+      A.    There Can Be No Implied Right Of
+            Action For Damages In The RCRA
+            Citizen Suit Provision Because the Cort
+            v. Ash Criteria Are Not Met .........          35
+
+      B.     This   Court’s    Decision     In The   Sea
+            Clammers          Case     Reaffirms     The
+             Unavailability Of An Implied Right Of
+             Action For Damages Under RCRA ....            39
+
+VI.   ‘The Analysis Of The Ninth Circuit, Which
+      Relies Heavily On Parallels Between Sections
+      6972 And 6973 And On Eighth Circuit
+      Precedents, Does Not Withstand Scrutiny .... . 41
+
+      A.    The Eight Circuit Did Not Reach The
+            Issue Of the Governmental Right To
+            Recover Cleanup Costs Under Section
+            GUD os 20 dee ee heehee CUMS Ese oe            43
+                             vi                                                                     Vii
+              TABLE OF AUTHORITIES                                     Key Tronic Corp. v. United States,
+                                                                              So                     ee                            22, 26
+                          CASES
+                                                                       Kaufman and Broad - South Bay v. Unisys Corp.,
+                                                                             822 F.Supp. 1468 (N.D. Cal. 1993) ........                 34
+Bayless Invest. & Trad. Co. v. Chevron U.S.A., Inc.,
+        39 Env’t. Rep. Cas 1428 (D. Ariz. 1994) ....       35          M.E.S.S. v. Weinberger,
+                                                                               707 F.Supp. 1182 (E.D. Cal. 1988) .........              35
+California v. Sierra Club, 451 U.S. 287 (1981)   .....     36
+                                                                       Middlesex   County   Sewerage      Authority   v.   National    Sea
+City of Chicago v. Environmental Defense Fund,                         Clammers Assn., 453 U.S. 1 (1981)        2.0.00...         passim
+        “US. __, 114 S.Ct. 1888 (1993) .......             36
+                                                                       Mola Dev. Corp. v. United States,
+Commerce Holding Co., Inc. v. Buckstone,                                     22 Env’t. Rep. Cas. 1443 (C.D. Cal. 1985)           ...    35
+      749 F.Supp. 441 (E.D.N.Y. 1990) ..........           35
+                                                                       Portsmouth Redev. & Housing Auth. v. BMI Apt. Assoc.,
+Cort v. Ash, 422 U.S. 66 (1975) .............         passim                  847 F.Supp. 380 (E.D. Va. 1994)          .........        34
+
+Furrer v. Brown, 62 F.3d 1092                                          Touche Ross & Co. v. Redington,
+        ey                               ee      ..   passim                  es SES GUE           ones 6% o's 0 os bb's co        36, 37
+
+Gache v. Town of Harrison,                                             Transamerica Mortgage Advisors, Inc. v. Lewis,
+      813 F.Supp. 1037 (S.D.N.Y. 1993) .........           35                 ee         EE       tN wie che éeeckeee se 36
+
+Gutierrez v. Mobil Oil Corp.,                                          United States v. Aceto Agric. Chem. Corp.,
+        798 F.Supp. 1280 (W.D. Tex. 1992) .....       44, 45                  872 F.2d 1373 (8th Cir. 1989) ......            41, 42, 43
+                                                                 eee
+                                                                 4
+
+Gwaltney of Smithfield, Lid. v. Chesapeake Bay Foundation,             United States v. Jones & Laughlin Steel Corp.,
+Inc.,                                                                         804 F.2d 348 (6th Cir. 1986)    .........           44, 45
+        Gp Ge SP                        sae
+                           Gowecdédneckos             passim
+                                                                       United States v. Northeastern Pharmaceutical & Chem. Co.,
+Hallstrom vy. Tillamook County, 493 U.S. 20 (1989)    passim                  810 F.2d 726 (8th Cir. 1986) cert. denied 484
+                                                                              8                   Pere ane 4]
+KFC Western, Inc. v. Meghrig,
+        23 Cal.App.4th 1167, 28 Cal.Rptr.2d 676                        Wilshire Westwood Assocs. v. Atlantic Richfield Corp.,
+        GD cw kevk'ecde cusocusan Austin                 5, 22                 881 F.2d 801 (9th Cir. 1989)   ...... beesce             25
+                                Vill                                                                        ix
+
+                           STATUTES                                                               MISCELLANEOUS
+
+15 U.S.C. § 2619, Foxic Substances Control Act            ....    27           4 W. Rodgers, Environmental Law § 7.6(b)
+
+16 U.S.C. § 1540(g), Endangered Species Act           ......      27           7 James W. Moore, Moore's Federal Practice, 4 65.04{1},
+                                                                               RR                     RGre                             14
+WBUBG.    OURS       sc ccdves  ece
+                             steers vevts
+                                        snes                       2
+                                                                               116 Cong.Rec. 33104 (1970)    ............         ..      28,29
+30 U.S.C. § 1270, Surface Mining Control
+       and Reclamation Act ..........5555:                  passim             ER                                ES           ree                 30
+
+33 U.S.C. § 1365, Federal Water Pollution                                      Boyer & Meidinger, Privatizing Regulatory Enforcement,
+       Comteet Amt        occ ive veins ceswoscens           passim            34 Buff. L. Rev. 833, 847-851 (1985)   ...........     27
+
+33 U.S.C. §1415(g), Marine Protection,                                         Fadil, Citizen Suits Against Polluters,
+       Research and Sanctuaries Act        .........         passim     eep-
+                                                                        <—-S
+                                                                               9 Harv. Envt’l L. Rev. 23, 26-28 (1985)    ..........              27
+
+42 U.S.C. § 300j-8 Safe Drinking Water Act           .......      27           D. Dobbs, Remedies §§ 4.2-4.3 (1973)      ...........              38
+
+42 U.S.C. § 4911, Noise Control Act        ............           27           H.R. Rep. No. 198, 98th Cong., 2d Sess. (1984),
+                                                                               reprinted in 1984 U.S.C.C.A.N. 5576, 5612 .....           passim
+BUBB.       GR.       6    cdc ee      tenes    ci   ond Cees     40
+                                                                               H.R. Rep. No. 253, pt. 3, 99th Cong., Ist Sess. (1985)             34
+GE UBER GGG          oc ncccteccdecccvevienereass                 40
+                                                                               H.R. Rep. No. 911, 92nd Cong., 2nd Sess. 133       .....           29
+UBL.      6 Gres GRR           cn tet es vetectedeas         passim
+                                                                               G. Palmer, The Law of Restitution §§ 1.1-1.8 (1978)            .   38
+UBC.      © GGGS.     cee'd C66 6es bc         wee ws cee wa      40
+                                                                               S. Cooke, The Law of Hazardous Waste § 16.03(3)(f)
+42 U.S.C. §§ 7603, 7604 Clean Air Act           .......        27, 44          URED    SR RON eee PER WS CUCU UNS Ole SOC dee           ees       35
+
+42 U.S.C. §§ 9601-96, CERCLA            ............         passim            S. Rep. No. 284, 98th Cong., Ist Sess. 57 (1983)        ....       32
+
+43 U.S.C. § 1349, Outer Continental Shelf Lands Act                27          S. Rep. No. 414, 92nd Cong., 2nd Sess. 79      .......             29
+
+40 C.F.R. §§ 300.400 - 300.440)         2...         eee           24
+                             x                                                         No. 95-83
+
+Water Pollution Control Legislation, Hearings before
+the Subcomm. on Air and Water Pollution, Senate Comm.
+                                                                             In the Supr
+                                                                                       preme Court
+on Public Works, 92d Cong., Ist Sess. pt. 1, 114 (1971) 29
+                                                                                       of the
+                                                                                   United States
+
+                                                                               OCTOBER TERM, 1995
+
+
+                                                                         Alan Meghrig and Margaret Meghrig,
+                                                                                     Petitioners,
+                                                                                          VS.
+                                                                                 KFC Western, Inc.,
+                                                                                      Respondent.
+
+                                                                             On Writ of Certiorari to the
+                                                                            United States Court of Appeals
+                                                                                 for the Ninth Circuit
+
+
+
+                                                                       BRIEF FOR THE PETITIONERS
+
+
+                                                                                 OPINIONS BELOW
+
+                                                                     The opinion of the Court of Appeals for the Ninth
+                                                             Circuit (Pet. App. Al-A20) is reported at 49 F.3d 518. The
+                                                             order of the Court of Appeals (Pet. App. A26) denying the
+                                                             Meghrigs’ petition for rehearing is unreported. The order and
+                                                             opinion of the District Court dismissing the action (Pet. App.
+                                                             A21-A23) is unreported.
+                               2                                                                              3
+
+                      JURISDICTION                                             The district court shall have jurisdiction,
+                                                                               without regard to the amount in controversy or
+        The judgment of the Ninth Circuit Court of Appeals                     the citizenship of the parties ... fo restrain any
+was entered on March 1, 1995.          A timely petition for                   person who has contributed or who is
+rehearing was denied on April 14, 1995. The petition for writ                  contributing to the past or present handling,
+of certiorari was filed on July 13, 1995                                       storage, treatment, transportation, or disposal of
+                    The jurisdiction of this court rests on 28                 any solid or hazardous waste referred to in
+U.S.C. § 1254(1).                                                              paragraph (1)(B), to order such person to take
+                                                                               such other action as mey be necessary, or
+        STATUTORY        PROVISION INVOLVED                                    both, or to order the Administrator to perform
+                                                                               the act or duty referred to in paragraph (2), as
+        Title 42, United States      Code,   § 6972(a)(1)(B),    ll
+                                                                 Ce            the case may be, and to apply any appropriate
+provides, in pertinent part, that:                                             civil penalties under section 6928(a) and (g) of
+                                                                                this title.'
+       "Except as provided in subsection (b) or (c) of
+       this section, any person may commence a civil                                     STATEMENT OF THE CASE
+       action on his own behalf--
+                                                                              This case arises out of the cleanup of gasoline-
+       (1)(A)   ***
+                                                                      contaminated soil at a commercial property located in Los
+                                                                 ee
+                                                                 —    Angeles, California upon which a gasoline service station was
+          (B) against any person, including the United                once operated. The District Court dismissed the case for lack
+       States,    and    any     other     governmental               of subject matter jurisdiction following Petitioners’ second
+       instrumentality or agency, to the extent                       motion therefor pursuant to Federal Rule of Civil Procedure
+       permitted by the eleventh amendment to the                     12(b)(6). The case is here following reversal of the District
+       Constitution, and including any past or present                Court’s decision by the Ninth Circuit Court of Appeals.
+       generator, past or present transporter, or past or
+       present owner or operator of a treatment,                               Because the issues on appeal were raised at the
+       storage, or disposal facility, who has                         pleading stage, the facts set forth below, though disputed in
+       contributed or who is contributing fo the past                 many instances by Petitioners and incomplete in other
+       or present handling,         storage, treatment,               instances, are primarily those alleged by Respondent in its
+       transportation, or disposal of any solid or                    first amended complaint. Additionally, certain findings of fact
+       hazardous waste which may present an                           made by the court in the parallel state court action when it
+       imminent and substantial endangerment to
+       health or the environment;
+
+                             ** *                                          ,     Section 6972 of Title 42, United States Code, has been reprinted in its
+                                                                      entirety at Pet. App. A27-A32.
+                                       4                                                                                 5
+
+granted summary judgment in favor of Petitioners on July 11,                              March 1989. (J.A. 6, 13, 25.) The cleanup was certified
+1995,? are added sparingly to complete the factual picture for                            complete by the appropriate governmental agency in May
+this Court.                                                                               1989. The Meghrigs were unaware of the contamination until
+                                                                                          well after the completion of remediation. (J.A. 26.)
+A.       Relevant History Of The Subject Property
+                                                                                          B.     Proceedings In The District Court Below
+        The real property which is the subject of the
+underlying action is presently owned by Respondent (plaintiff                                    KFC first brought suit in the District Court in late May
+below) KFC Western, Inc. ("KFC"), which operates a                                        1992, over three years after the completion of remediation.
+Kentucky Fried Chicken franchise on that property. (J.A. 6,                               (J.A. 5-11, 25.) KFC’s District Court complaint consisted of
+13, 24.)      KFC bought the property from Petitioners                                    a single cause of action brought under the citizen suit
+(defendants below) Alan Meghrig and Margaret Meghrig ("the                                provision of the Resource Conservation and Recovery Act
+Meghrigs") twenty years ago, in or about September 1975.                                  ("RCRA"), 42 U.S.C. § 6972(a)(1)(B).     The complaint sought
+(J.A. 6, 13, 24.)                                                                         only monetary damages for past cleanup expenses which KFC
+                                                                                          had allegedly incurred. (J.A. 11.)
+         The Meghrigs, who are brother and sister, had owned
+the property for 12 years prior to 1975. (J.A. 24.) Title had                                     KFC did not plead that any "imminent and substantial
+been put in their names by their father when he acquired the                              endangerment" existed at the time it filed suit. Rather, KFC
+property in 1963, while both Petitioners were teenagers. The                              only pled that the alleged contamination "may have presented"
+Meghrigs never operated a service station on the property.                                (in the past) an imminent and substantial endangerment.   (J.A.
+(J.A. 24.) Prior owners and/or their lessees had operated                                 10.)
+gasoline service stations on the property for 45 years (dating                      ee
+                                                                                    pe
+                                                                                    rr
+                                                                                     we
+
+
+
+
+back to 1917) before the Meghrigs bought it. (J.A. 25.)                                            [KFC had earlier sued these same two defendants in
+Plaintiff has not sued any of those prior owners or lessees.                              California state court under nine different state statutory and
+(J.A. 5-20.)                                                                              common law theories. See, KFC Western, Inc. v. Meghrig, 23
+                                                                                          Cal. App. 4th 1167, 28 Cal. Rptr. 2d 676 (1994). In that
+      KFC discovered the contamination in October 1988,                                   action, as here, KFC sought to recover damages in the form
+commenced remediation, and completed that remediation in                                  of monies it had expended several years earlier to remediate
+                                                                                          soil contamination on the property. Two demurrers to those
+                                                                                          nine causes of action were sustained, the second without leave
+                                                                                          to amend, based on statutes of limitations and failure to state
+     >   The state court's Amended Order With Findings of Fact and Conclusions
+of Law ("Findings of Fact") appears in the record as Exhibit A to the Meghrigs’
+                                                                                          a claim.    Limited portions of two causes of action were
+Memorandum      of Points and Authorities in Opposition   to Motion to Dismiss            reinstated on appeal, but defendants recently obtained
+Without Prejudice; Request for Imposition of Attomeys’ Fees as Condition of               summary judgment as to those two causes as well. (J.A. 23-
+Dismissal or, In The Alternative, Request for Stay, which was filed in the United         30.)]
+States District Court on October 5, 1995. The Findings of Pact have been
+reprinted in the Joint Appendix. (J.A. 23-30.)
+                                                                                                               7
+                                  6
+
+      In the District Court, Petitioners moved to dismiss                      an "imminent and substantial endangerment to health or the
+KFC’s original RCRA complaint on two independent grounds:                      environment,” and because the cleanup at issue here was
+(1)   because   the   complaint       admitted   that   the   alleged          completed several years before KFC commenced its suit, there
+contamination had been fully remediated more than three                        was no endangerment to be addressed.      KFC’s suit was
+years prior to the filing of KFC’s complaint, the                              therefore not authorized by RCRA.      (Pet. App. A22.)
+contamination did not present an "imminent and substantial
+endangerment," as required for RCRA citizen suits; and                                 Second, the District Court ruled that the provision of
+(2) because KFC sought only money damages, it could not                        RCRA that authorizes district courts to "restrain" and to “order
+maintain a citizen suit under RCRA, because that statute only                  such person to take such other action as may be necessary”
+authorizes injunctive relief. The District Court granted the                   entitles plaintiffs like KFC only to injunctive relief
+Meghrigs’ initial motion but allowed KFC leave to amend.                       (prohibitory or mandatory). The District Court concluded
+(Pet. App. A24.)                                                               that, because KFC was seeking damages in the form of costs
+                                                                               incurred for a completed cleanup, the relief which KFC
+        KFC’s amended complaint attempted to cure the                          sought could not be granted under section 6972(a)(1)(B).
+defects in its original complaint by alleging: (1) that the                    (Pet. App. A22-A23.)
+contamination "may have presented" (at some time in the past)
+an imminent and substantial endangerment; and (2) that its
+damages claim was really one for “equitable restitution."                      Cc.     Proceedings In The Ninth Circuit Court Of Appeals
+(J.A. 19.)   Petitioners again moved to dismiss on the grounds          li
+                                                                         ay
+                                                                         Ay
+                                                                         ee
+
+
+
+that these wording changes did not cure the defects in KFC’s                           In December 1992, KFC appealed the judgment of the
+RCRA cause of action because:           (1) the endangerment was               District Court to the Ninth Circuit Court of Appeals. On
+still not "imminent," irrespective of what it "may have been"           -foe   March |, 1995, a divided Court of Appeals, in an opinion by
+at some past time; and (2) KFC’s "equitable restitution"                       Circuit Judge Pregerson, reversed the judgment of the District
+claim, regardless of its new label, sought no more than did                    Court. (Pet. App. Al-A1l2.) Circuit Judge Brunetti issued a
+KFC’s original complaint, i.e. money damages.                                  lengthy and pointed dissenting opinion. (Pet. App. Al2-A20.)
+
+        The District Court relied on two independent grounds                           The majority opinion first addressed the issue whether
+in granting the Meghrigs’ renewed motion to dismiss, this                      the endangerment must exist at the time of filing suit in order
+time without leave to amend.         First, the District Court                 to meet the “may present an imminent and substantial
+determined that the citizen suit provision of RCRA under                       endangerment" requirement of a RCRA citizen suit. The
+which KFC had brought this action was forward-looking and                      majority acknowledged that KFC had cleaned up the gasoline
+was designed to provide a method for private citizens to                       contamination more than three years prior to filing suit and
+function as private attorneys general to bring suit to curtail                 further observed that the legislative history of RCRA disclosed
+current risks posed by contamination. (Pet. App. A22-A23.)                     that the term “imminent” in the RCRA citizen suit provisions
+The District Court then concluded that, because the RCRA                       means that a claim lies only:
+citizen suit provision authorizes such suits only where there is
+                                                                   oe
+                                                                   na
+
+
+
+
+                                                                                                       9
+
+       "for events which took place at some time in                     poor public policy to interpret the RCRA citizen suit provision
+       the past      , continue to prese
+                 but which                       nt
+                                              a threat                  to forbid the recovery of cleanup costs because the
+       to the public health or the environment."                        Comprehensive Environmental Response, Compensation and
+                                                                        Liability Act ("CERCLA"), 42 U.S.C. §§ 9601-75, and state
+       (Pet. App. A4) (emphasis in original),                           law do not provide adequate substitute sources of relief. In a
+                                                                        footnote, the Court of Appeals explained that CERCLA
+        Nevertheless, the majority opinion concluded that               specifically excludes suits based on petroleum contamination.
+RCRA authorizes citizen suits with respect to contamination             It then cryptically observed as to state law claims that:
+that only in the past posed imminent and substantial danger.
+(Pet. App. AS.) The majority relied on dicta from two Eighth                   "Even though causes of action for nuisance,
+Circuit cases brought by EPA, not a private party, under a                     trespass and potential negligence are available
+separate provision of RCRA, section 6973. United States v.                     to plaintiffs such as KFC, tort remedies are
+Aceto Agric. Chem. Corp., 872 F.2d 1373 (8th Cir. 1989);                       generally inadequate because of the difficulties
+United States v. Northeastern Pharmaceutical & Chem. Co.,                      of proof and attendant court delays.”
+810 F.2d 726 (8th Cir. 1986).
+                                                                               (Pet. App. All n.6.)
+        The majority also relied   on its own general reading of
+RCRA as having the broad purpose of providing authority to
+the courts to grant all relief necessary to ensure protection of               Judge Brunetti’s
+                                                                                         vigorous dissent urged four separate
+human health and the environment.       (Pet. App. A6.)    The          bases for affirming the District Court's opinion:
+court determined that a citizen suit for compensatory damages
+could be implied under RCRA          based on the following                     l.     Both the plain language of the phrase “order
+statutory language:                                                     such person to take such other action as may be necessary”
+                                                                        and the specific legislative history of the RCRA citizen suit
+        "{T}he district
+                   court shall have jurisdiction ...
+       to restrain any person who has contributed or                    environmental citizen suits to include actions for monetary
+        who   is contributing to [an imminent       and                 reimbursement. (Pet. App. Al3-A14.)
+       substantial endangerment and to] order such
+       person to take such other action as may be                               2.      The unambiguous     term “may present an
+        necessary...”                                                   imminent and substantial endangerment" means that the
+                                                                        endangerment must exist at the site at the time the | *ivate
+        (Pet.   App.     A6)     (quoting   42 U.S.C.                   citizen files suit. The statute would read “may or may have
+        § 6972(a\( 1)(B) (emphasis supplied by majority                 presented” if it intended to also cover past endangerments.
+        opinion.))                                                      (Pet. App. Al4.)
+
+        Finally, the majority concluded that it simply would be                3.     The notice requirements
+                                                                                                      of § 6972 of RCRA
+                                                                   em
+                               10
+
+further support the requirement that the "imminent and               requires that notice be given to: (a) the alleged contaminator,
+substantial endangerment” be present at the time of filing suit.     (b) to the EPA, and (c) to the state where the property is
+The statute requires that a private citizen give 90 days’ notice     located, and affords those persons a 90 day period within
+to the alleged violator, to the EPA Administrator and to the         which to take action. If action is undertaken by the EPA or
+appropriate state agency, and further provides that, if the EPA      the state, a citizen suit is absolutely barred by the statute.
+Administrator or the state elects to bring suit, a private citizen   Thus, the notice and bar provisions reaffirm the entitlement to
+is forecl        osed
+              from  bringing suit. The dissent urged that these      injunctive relief only. If a party could simply clean up the
+notice and bar provisions confirmed that the “imminent and           property itself and then turn around and sue an allegedly
+substantial endangerment" must exist at the time the suit is         responsible party, these provisions would have neither
+filed and that the citizen suit provisions do not permit post-       meaning nor purpose.
+cleanup reimbursement actions. (Pet. App. Al4.)
+                                                                              A comparison of the RCRA citizen suit provision with
+        4.     The absence of an express statute of limitations      provisions in other statutes which do authorize citizens to sue
+in RCRA, particularly in light of the fact that an express           for cost recovery confirms the limitation of RCRA citizen
+limitations period is provided by CERCLA, further confirms           suits to injunctive relief only. When Congress intends to
+that RCRA does not authorize citizen suits for damages. (Pet.        provide a citizen plaintiff with a right of action for damages,
+App. A15-A16.)                                                       it explicitly does so, as it did in the Surface Mining Control
+                                                                     and Reclamation Act ("SMCRA"). Moreover, when Congress
+               SUMMARY OF ARGUMENT                                   intends to authorize parties to sue for cost recovery with
+                                                                     respect to cleanup of contaminated property, it provides
+         Our discussion of the reasons   that the Ninth Circuit's    detailed cost evaluation guidelines like the National
+majority decision should be reversed begins, as it should, with      Contingency Plan in CERCLA and provides a statute of
+an analysis of the unambiguous language of the RCRA citizen          limitations, as it also did in CERCLA. Indeed, to adopt the
+suit provision.      That provision gives the district courts        Ninth Circuit's reasoning here would summarily override
+jurisdiction to either "restrain" a person who is contributing to    several important limitations in CERCLA, the primary federal
+the handling of a solid or hazardous waste which poses an            property contamination statute, including its application only
+“imminent and substantial endangerment" to human health, or          to hazardous substances, its exclusion for petroleum products,
+"to order such person to take such other action as may be            and its lack of an attorney’s fees provision.
+necessary,”   or both. In other words, it authorizesa
+prohibitory injunction, a mandatory injunction, or both, where               Petitioners’ analysis is not founded solely upon a
+an endangerment     is imminent, and nothing more. It does not       “plain meaning of the statute" argument. Their arguments are
+authorize a suit in the district courts to address past              fully buttressed by the legislative history of RCRA’s citizen
+endangerments,     nor does it authorize a suit to recover costs     suit provision, as well as the legislative history of citizen suit
+previously expended to clean up contaminated property.               provisions in environmental statutes generally. Indeed, during
+                                                                     the evolution of environmental statutes, Congress has
+        In fact, the RCRA citizen suit provision elsewhere           consistently evinced a well-documented reluctance to permit
+                                       12                                                                                  13
+
+citizens to sue for damages in environmental statutes for fear                                     For all of these reasons, we ask this Court to reverse
+of spawning a flood of new federal court litigation. And                                   the Ninth Circuit's decision in its entirety.
+finally, the limited scope of the RCRA citizen suit provision
+is absolutely confirmed by the legislative history of the 1986                                                      ARGUMENT
+CERCLA amendments, which amendments were undertaken
+after the most recent amendments to RCRA.                                                       This case presents two questions: (1) whether the
+                                                                                           RCRA citizen suit provision is limited to injunctive, rather
+         Since the RCRA citizen suit provision does not by its                             than monetary, relief, and (2) whether the RCRA citizen suit
+terms provide for a private party right of action for damages,                             provision requires that an imminent and _ substantial
+if one is to be created, it must be done by implication. But                               endangerment exist at the time of filing suit. The answer to
+this Court has clearly held in Cort v. Ash and Middlesex                                   both questions is in the affirmative, and an affirmative answer
+County Sewerage Authority v. National Sea Clammers Assn.                                   to either one requires reversal in this case. See also Pet. App.
+that creating rights of action by implication is highly                                    Al2-Al3.
+disfavored and is permissible only when certain criteria are
+met. None of those criteria are present here.                                              I.      The RCRA Citizen Suit Provision Unambiguously
+                                                                                                   Authorizes An Action Only For Injunctive Relief
+        The Ninth Circuit's opinion below implied a cause of                                       And Only Where An Imminent Endangerment
+action without addressing the factors set forth in Cort v. Ash                                    ‘Exists
+and without addressing this Court’s Sea Clammers decision.
+Rather, it based its interpretation of the "order such person to                                   As this Court has repeatedly stated, "the starting point
+take such other action as may be necessary" portion of the                                 for interpreting a statute is the language of the statute itself."
+RCRA citizen suit provision on its analysis of two Eighth                                  Hallstrom v. Tillamook County, 493 U.S. 20, 25 (1989).
+Circuit Court of Appeals precedents dealing with a separate
+provision of RCRA which authorizes suits by the government.
+The Eighth Circuit has now soundly rejected the Ninth                                              A.      The Express Terms Of The RCRA Citizen
+Circuit’s interpretation of its precedents in its recent decision                                          Suit Provision Only Authorize Actions For
+in Furrer v. Brown.            (Pet. Rep. Al7-A20.)              Moreover, a                               Injunctive Relief
+comparison of the RCRA citizen suit provision with the
+RCRA government suit provision does not, when properly                                             The RCRA citizen suit provision expressly provides
+analyzed, support the Ninth Circuit’s conclusion.                                          only the following two remedies where the handling of a
+                                                                                           hazardous or solid waste has created an imminent anc
+                                                                                           substantial endangerment:
+
+                                                                                                  "The district court shall have jurisdiction...to
+     '    On October   30, 1995, the Eighth Circuit denied plaintiff's Petition for               [1] restrain any person who has contributed or
+Rehearing and Suggestion for Rehearing En Banc in Furrerv Brown. Only two                         who is contributing to the past or present
+circuit judges indicated that they would grant the suggestion for rehearing.
+                                                                                      ~~
+                                                                                      —
+                                         14                                                                                      15
+          handling...of any solid or hazardous waste                                       provision is unambiguous in this regard, and it neither
+          [which may present an imminent and                                               expressly nor implicitly grants a district court jurisdiction to
+          substantial endangerment to human health or                                      award a plaintiff costs it has incurred where the plaintiff has
+          the environment, or] [2] fo order such person                                    chosen to itself clean up a solid waste problem.
+          to take such other action as may be necessary,
+          or both...                                                                               As noted above, this Court has repeatedly instructed
+                                                                                           the federal courts that unambiguous statutory language should
+          42 U.S.C. § 6972(a)(1)(B) (emphasis added).                                      be accorded its plain meaning. See Hallstrom v. Tillamook
+                                                                                           County, 493 U.S. 20, 28 (1989) (construing the RCRA citizen
+        The district court’s jurisdiction        “to restrain"                             suit provision and stating that plain statutory language is
+undisputedly confers the power to issue an injunction                                      conclusive absent a "clearly expressed legislative intention to
+prohibiting a person from acting in a manner which may be                                  the contrary.")    This Court has further instructed the federal
+creating an imminent and substantial endangerment. The term                            courts that "to acknowledge ambiguity is not to conclude that
+“order such person to take such other action as may be                                 all interpretations are equally plausible."     Gwaltney of
+necessary" allows courts to issue mandatory injunctions as                             Smithfield, Ltd. v. Chesapeake Bay Foundation, Inc. , 484 U.S.
+well, to order contamination cleanup, for example.          The                        49, 57 (1987). Thus, even to the extent that the language in
+reference to “such other action" in this phrase denotes                                question may be ambiguous, its "most natural reading" (id.) is
+mandatory injunctive relief different from or in addition to the                       as a grant of jurisdiction to provide mandatory injunctive
+action required of “such person" pursuant to a restraining                             relief for existing harms and not monetary relief for harms
+order.“     The “as may be necessary" language allows district                         addressed in the past.’ The Ninth Circuit erroneously relied
+courts to order measures required to stabilize and/or eliminate                        on the language allowing district courts to "order such person
+the imminent and substantial endangerment.                                             to take such other action as may be necessary" as the basis for
+                                                                                       a compensatory damages action.        The statutory language
+        Mandatory injunctive relief is important in the RCRA                           cannot be stretched this far.
+context because citizen-plaintiffs may need to make
+defendants both stop causing a solid waste problem and start                                   When Congress intends an action for monetary relief
+doing something, i.e., cleaning it up. The RCRA citizen suit                           to be available to citizen plaintiffs it expressly says so.
+                                                                                       Indeed, the only environmental statute that has a citizen suit
+                                                                                       provision authorizing an action for damages is the Surface
+     .     Congress's decision to grant district courts separate and explicit
+jurisdiction to issue both prohibitory and mandatory injunctions, rather than simply
+providing for a more general injunctive power, should be viewed under the
+presumption that Congress was aware of the traditional reluctance of federal courts    .          The Cour: of Appeals did not indicate whether it viewed the language at
+to issue preliminary mandatory injunctions. See 7 James W. Moore, Moore's              issue as ambiguous or unambiguous.         Apparently, that court concluded that
+Federal Practice, %65S.04(1}, 65-84 (2d ed. 1994). By specifically granting district   language allowing district courts to order parties to take "such other action as may
+‘ourts jurisdiction to issue mandatory injunctions, Congress may have intended to      be necessary” unambiguously »rovides for monetary relief, However, the Court
+dispel the longstanding concerns of federal courts regarding the issuance of           provided no analysis other than to state that it “agree{[d] with KFC that RCRA
+mandatory injunctions before a hearing on the merits.
+                                                                                       authorizes a restitutionary remedy..." Pet. App. at A6.
+                              oe—-                                                                 17
+
+Mining Control and Reclamation Act ("SMCRA").             Section   time in the past.
+520(f) of SMCRA, captioned "Action for damages", provides:
+                                                                            This Court addressed a closely analogous issue in
+                                                                    Gwaltney of Smithfield, Lid. v. Chesapeake Bay Foundation,
+       "Any person who is injured in his person or                  Inc., 484 U.S. 49 (1987). In Gwaltney, respondent argued
+       property through the violation by any operator               that an action should lie for wholly past violations of the
+       of any rule, regulation, order, or permit issued             Federal Water Pollution Control Act ("FWPCA") under that
+       pursuant to this chapter may bring an action                 Act’s citizen suit provision.        The FWPCA citizen suit
+       for damages."                                                provision contains language that allows suit only against
+                                                                    parties alleged "to be in violation" of the Act. This Court,
+       30 U.S.C § 1270(f) (emphasis added).                         noting the statute’s use of the present tense, concluded that the
+                                                                    FWPCA citizen suit provision does not apply to violations
+The clarity of the damages remedy provided in the SMCRA             that were wholly past. This Court stated that:
+citizen suit provision contrasts starkly with the RCRA citizen
+suit provision. Congress plainly has no difficulty in evincing              "Congress could have phrased its requirement
+its intent to provide a damages remedy.                                     in language that looked to the past (‘to have
+                                                                            violated’), but it did not choose this readily
+       B.      The Express Terms Of The RCRA Citizen                        available option."
+               Suit Provision Only Authorize Actions
+               Where Contamination Currently Presents                       Gwaltney, 484 U.S. at 57-59.
+               An    Imminent     and   Substantial
+               Endangerment                                                 Here, the same present tense language allows suit only
+                                                                    for conditions "which may present an imminent and substantial
+         The RCRA citizen suit provision only provices for          endangerment.” 42 U.S.C. § 6972(a)(1)(B) (emphasis added).
+relief as against any person:                                       Congress could have phrased the RCRA citizen suit provision
+                                                                    to reach endangerments that had once existed but which had
+       “who has contributed or who is contributing to               since been remediated ("which may have presented an
+       the past or present handling . . . of any solid or           imminent and substantial endangerment"). However, Congress
+       hazardous waste that may present an imminent                 did not choose this readily available option.
+       and substantial endangerment to human health
+       or the environment."                                                 The statutory language does indicate that Congress
+                                                                    intended the RCRA citizen suit provision to reach ongoing
+       42 U.S.C. § 6972(a)(1)(B) (emphasis added).                  conduct and past conduct that has been discontinued. The
+                                                                    statute makes liable any person "who has contributed or who
+The statute thus clearly requires that the endangerment be          is contributing to the past or present handling ... of any solid
+imminent, even if the acts which caused it occurred at some         or hazardous wasie."     42 U.S.C. §6972(a)(1)(B) (emphasis
+                                                                                                                   19
+
+added). See, Gwaltney, 484 U.S. at 58 n.2. Thus, Congress                    or the EPA commences action with respect to the site within
+clearly demonstrated in the specific context of the RCRA                     that 90 day period, a citizen suit is barred. 42 U.S.C. §
+citizen suit provision that it recognizes a distinction between              6972(b)(2)(B).
+its use of the past tense and present tense.
+                                                                                    This Court again addressed a nearly identical provision
+        In sum, it is implausible that Congress intended the                 in Gwaltney and determined that the notice requirement
+RCRA citizen suit provision to reach not only waste which                    confirmed that the citizen suit provision of the FWPCA
+may currently present an imminent endangerment but also                      reached only ongoing and not wholly past violations:
+waste already cleaned up which presented an endangerment in
+the past when it chose to phrase the operative provision in the                     "Any      other    conclusion     would     render
+present tense only.                                                                 incomprehensible [the Act’s] notice provision,
+                                                                                    which requires citizens to give 60 days’ notice
+II.    Other Sections Of The RCRA Citizen Suit                                      of their intent to sue to the alleged violators as
+       Provision Confirm That Monetary Relief For Past                              well as to the Administrator and the State. If
+       Endangerments Was Not Intended                                               the Administrator or the State commences
+                                                                                    enforcement action within that 60-day period,
+        Other sections of the RCRA citizen suit provision                           the citizen suit is barred, presumably because
+confirm that it provides a limited right of action to enjoin                        governmental      action    has_  rendered    it
+ongoing harms and not a broad damages remedy for the                                unnecessary.     It follows logically that the
+recovery of past cleanup costs.                                                     purpose of notice to the alleged violator is to
+                                                                                    give it an opportunity to bring itself into
+        The RCRA citizen suit provision also contains a notice                      complete compliance with the Act and thus
+section that requires citizens to give 90 days’ notice of an                        likewise render unnecessary a citizen suit. /f
+endangerment to the persons alleged to have contributed, or                         we assume,       as respondents urge, that citizen
+to be contributing, to the handling of the solid or hazardous                       suits may target wholly past violations, the
+waste in question, as well as to the Administrator of EPA and                       requirement of notice to the alleged violator
+the State. 42 U.S.C. § 6972(b)(2)(A).° If the Administrator                         becomes gratuitous.
+
+                                                                                    Gwaltney, 484 U.S. at 59-60 (emphasis added.)
+¥      The notice provision reads:
+       “No action may be commenced under subsection (aX 1B) of                     The same reasoning applies here. The purpose of the
+       this section priorto ninety days after the plaintiff
+                                                         has given           90 day notice requirement is to give the person alleged to
+       notice of the endangerment to --
+                  (i)     the Administrator,
+                  (ii)    the State in which the alleged endangerment may
+        occur,
+                  (iii)   any person alleged to have contributed or to be           transportation, or disposal of any solid or hazardous waste referred to in
+        contributing to the past  or present handling, storage, treatment,          subsection (aX 1\B) of this section.”
+                              20                                                                 21
+
+have contributed to, or to be contributing to, the waste           The significance of this bar has been specifically addressed by
+problem an opportunity to initiate cleanup or to give the          this _— in reviewing the nearly identical FWPCA citizen
+government an opportunity to address the problem. The EPA          sult    ;
+and state governments have a strong interest in addressing
+waste problems that present an imminent danger to human                    "The bar on citizen suits when governmental
+health or the environment. In either event, the citizen suit is           enforcement action is under way suggests that
+rendered unnecessary.                                                     the citizen suit is meant to supplement rather
+                                                                          than supplant governmental action."
+       If the RCRA citizen suit provision is read to provide
+a cost recovery mechanism for waste problems previously                   Gwaltney, 484 U.S. at 60.
+cleaned up, the notice provision truly becomes gratuitous.
+Providing notice would simply provide a potential defendant                In Gwaltney, this Court went on to express its concern
+advance warning of a lawsuit. There would be nothing that          that governmental enforcement and prosecutorial discretion
+such a party could do to address the endangerment and thus         would be undermined if citizen suits could be brought for
+forestall suit because there would be no endangerment -- the       wholly past violations where the condition causing the
+waste would already have been cleaned up. Similarly, with          violation had been corrected:
+respect to the Administrator and the State, the notice would
+simply provide information that a waste problem had been                  "[plermitting citizen suits for wholly past
+cleaned up and that a private party cost recovery lawsuit                 violations of the [FWPCA] could undermine
+would be filed.       There would be almost nothing the                   the supplementary role envisioned for the
+government could meaningfully do with this information.                   citizen suit." /d.
+Again, the notice would be gratuitous.
+                                                                           In the RCRA context, as in the FWPCA, reading a
+        That precise scenario is amply demonstrated by KFC’s       damages remedy into the citizen suit provision would
+actions with respect to the Petitioners and the EPA in this        completely supplant governmental action. Such a construction
+case. KFC discovered the contamination in October 1988. It         would allow a citizen to: (1) clean up a solid waste site, (2)
+did not give the required RCRA notice to Petitioners or to the     provide notice to the government and the allegedly responsible
+EPA or to the state at that time. When it finally did give         party after the cleanup is complete, and then (3) commence
+notice in late 1990, that act was entirely meaningless. Since      suit. It is hard to imagine a situation in which governmental
+there was no imminent and substantial endangerment to              action is more fully supplanted.
+address by that time, Petitioners and EPA were powerless to
+take any of the action contemplated by the statute.
+
+        Finally, as noted earlier, when, following notice to the
+EPA, the government begins addressing the endangerment, a
+citizen suit is completely barred. 42 U.S.C. § 6972(b)(2)(B).
+                                       22                                                                                       23
+il.      A Comp           Ofaris           onSuit
+                              The RCRA Citizen                                                A.            The Absence Of An Express Statute Of
+         Provision  With    Comparable  Provisions In                                                       Limita     In The tio
+                                                                                                                              RCRA Citizen
+                                                                                                                                       nsSuit
+         CERCLA Res‘firms The Absence Of A Cost                                                             Provision
+         Recovery Authorization In RCRA
+                                                                                                  The RCRA citizen suit provision does not include an
+        Congress has, of course, elsewhere created a                                   express statute of limitations.            On the one hand, the lack of a
+comprehensive    waste cleanup and cost recovery statute: the                          statute of limitations in the RCRA citizen suit provision is
+Comprehensive Environmental Response, (ov.vensation and                                unsurprising, since that provision only authorizes mandatory
+Liability Act, ("CERCLA"), 42 U.S.C. §% 9601-9675.’                                    or prohibitory injunctive relief where an imminent and
+CERCLA provides that any person may seek cost recovery or                              substantial endangerment exists. As long as the endangerment
+contribution from any other person who is liable or potentially                        remains imminent, the cause of action remains viable. After
+liable for response costs. 42. U.S.C. §§ 9607(a); 9613(f)(1)."                         the waste problem is cleaned up and the endangerment ceases,
+A comparison     of several aspects of the RCRA citizen suit                           the cause of action is barred. Thus, there is no need for a
+provision with those in the cost recovery provision in                                 statute of limitations in the RCRA citizen suit provision if
+CERCLA demonstrates conclusively that Congress did not                                 only injurelief  ncti  is authorized.
+                                                                                                                    ve
+intend RCRA to provide a private party cost recovery
+mechanism.                                                                                        If on the other hand, the RCRA citizen suit provision
+                                                                                       provided a damages remedy, the lack of a statute of
+                                                                                       limitations would be completely anomalous. A causeof
+                                                                                       action for damages would become viable upon creation or
+                                                                                       discovery of the imminent danger and would remain viable
+                                                                                       even after the endangerment   ended. The limitations period
+                                                                                       for such a damages cause of action would be undefined by the
+                                                                                       statute.     It is unlikely that Congress intended such a result,
+.        In Key Trome Corp v United States, Justices Stevens and Scalia debated        particularly where, when Congress did expressly provide for
+whether the CERCLA private party cost recovery action is expressorimplied.             cleanup cost recovery in CERCLA, Congress believed it
+US. _, 114 S. Ct. 1960, 1966 n.11 and 1968 n.* (1994). Petitioners note that           important that an express limitations period’ accompany such
+if the CERCLA private party cost recovery action is implied, then surely the
+“RCRA citizen suit cost recovery action” that respondents urge upon this Court is
+implied. See, Section IV of this Brief, infra, at 26.
+                                                                                       .          The CERCLA statute of limitations provides that:
+.         These causes of action are in addition to CERCLA’s citizen suit                           “An initial action for recovery of the costs referred to in
+provision, which allows suit to be brought against “any person .. who is alleged                  Section 9607 of this title must be commenced --
+to be m violation of any standard, regulation, condition, requirement, or order                   (A) for a removal action, within 3 years after completion of the removal
+which   has become effective pursuant   to [(CERCLA]” 42 US.C. § 9659%(ay1).
+The district court is provided with jurisdiction in such a case “to enforce the                   (B) for remedial action, within 6 years after mitiation of
+standard. regulation, condition, requirement, or order concerned —_, to order such                physical on-site construction of the remedial action ..” 42
+action as may be necessary to correct the violation, and to impose any civil penalty              USC. § 9613(gx2).
+provided for in the violation.” 42 U.S.C. § 965%c).                                                 "No action for contribution for any response costs or
+                                        24                                                                                   25
+
+a remedy."                                                                             The National        Contingency        Plan contains regulations on
+                                                                                       “hazardous substance response" that comprise twenty nine
+        Moreover, to simply assert, as the Ninth Circuit                               pages in the Code of Federal Regulations. 40 C.F.R. §§
+majority does (Pet. App. A9), that the indefinite doctrine of                          300.400 - 300.440.    By contrast, the RCRA citizen suit
+laches can substitute for a definite limitations period obscures                       provision provides no guidance whatsoever as to the types of
+the point. The lack of a statute of limitations accompanying                           response costs that are recoverable under its citizen suit
+the RCRA citizen suit provision is compelling evidence that                            provision.     This lack of statutory guidance is entirely logical
+Congress did not intend the RCRA citizen suit provision to                             if the RCRA citizen suit provision is limited, as it appears to
+provide a damages remedy.                                                              be, to enjoining imminent and substantial endangerments. If,
+                                                                                       however, Congress intended RCRA to authorize citizen suits
+         B.         The Absence Of Statutory Guidance On The                           for cost recovery, the lack of definition as to which costs are
+                    Appropriateness Of Costs Sought To Be                              recoverable would be a momentous omission, particularly
+                    Recovered   Under RCRA                                             given its detailed treatment in CERCLA." In point of fact,
+                                                                                       Congress did not intend the RCRA citizen suit provision to
+         CERCLA’s cost recovery provisions include a                                   function as a cost recovery mechanism, and the lack of
+mechanism for determining which costs expended by a                                    guidance on the reasonableness of cleanup expenditures is of
+plaintiff seeking reimbursement are recoverable. Only costs                            no moment.
+that are “necessary and consistent with the National
+Contingency Plan" are recoverable. 42 U.S.C. § 9607(a).                                         Cc.       The Ninth Circuit’s Interpretation Would
+                                                                                                          Obviate Other Longstanding Limitations On
+                                                                                                          Private Party Cost Recovery Actions.
+
+         damages may be commenced more than 3 years after --                                    If upheld, the Ninth Circuit’s decision would nullify
+         (A) the date of judgment in any action under this chapter for
+         recovery of such costs or damages,or                                          additional important limitations on private party cost recovery
+         (B) the date of an administrative order under section 9622(g)                 actions embodied in CERCLA.                 First, CERCLA applies only
+         .. Of 9622(h) of this title ..." 42 U.S.C. § 9613(gX3).                       to hazardous substances. A RCRA remedy would apply to
+                                                                                       any solid waste problem -- a much broader universe.
+_         If the Ninth Circuit's decision is upheld, private parties could sue years
+after contamimation had been discovered, and even years after it had been cleaned               In addition, CERCLA               excludes petroleum products
+up. One area of environmental litigation that would be overwhelmingly impacted         from its list of hazardous substances.            42 U.S.C. § 9601(14);
+is Suits seeking recovery of costs expended cleaning up gasoline leaks from            Wilshire Westwood Assocs. v. Atlantic Richfield Corp., 881
+underground storage tanks. Such suits were generally barred from the federal
+courts by the petroleum exclusion in CERCLA and are thus subject to state statutes     F.2d 801 (9th Cir. 1989).    Responsibility for petroleum
+of lumitations. If the Ninth Circuit's decision were affirmed, such suits could be
+filed in federal court under RCRA with no express statute of limitations to be
+applied. Virtually every citizen-plaintiff with a gasoline tank leak claim could       ti
+                                                                                                 Indeed, if the Ninth Circuit's decision were upheld, the lower courts
+proceed to federal court, including those who have already been barred from            would have to engage in extensive interstitial lawmaking
+                                                                                                                                              to define which costs are
+proceeding in state court by state statutes of limitations.                            recoverable im this highly technical area.
+                               26                                                                       27
+
+contaminated property has long resided with state enforcement      Middlesex      County     Sewerage        Authority    v.   National     Sea
+agencies and state courts. The Ninth Circuit's decision would      Clammers Assn, 453 U.S. 1, 15 (1981) ("Sea Clammers"). In
+nullify this important aspect of the CERCLA petroleum              this case, not only are there no indicia of such Congressional
+exclusion. It would allow petroleum cost recovery actions to       intent, but the relevant legislative history confirms that the
+be brought in federal court even though Congress expressly         citizen suit provision of RCRA is limited to injunctive relief.
+provided otherwise under CERCLA.                                   In fact, the legislative history of RCRA, particularly in light
+                                                                   of the history and purpose of citizen suit provisions in
+        Finally, the RCRA citizen suit provision authorizes an     environmental statutes, demonstrates that Congress considered
+award of attorney's fees to the prevailing party. 42 U.S.C. §      including a remedy for monetary relief in RCRA and
+6972(e). Attorney's fees are not recoverable in private party      deliberately decided not to do so.
+CERCLA cost recovery actions. Key Tronic Corp. v. United
+States, ___ ~¥US. __, 114 S. Ct. 1960 (1994).            In all             A.       The Legislative History Of Environmental
+likelihood, Congress decided to allow an attorney’s fees award                       Citizen Suit Provisions
+in the RCRA citizen suit provision due to the limited nature
+of the relief Congress was providing: prohibitory and                      Congress introduced citizen suits into environmental
+mandatory injunctive relief. If the Ninth Circuit’s ruling is      statutory law in the 1970 amendments to the Clean Air Act.
+allowed to stand, attorney's fees will be recoverable in a         Since then, with the Clean Air Act serving as a model,
+federal "cost recovery" action brought under RCRA, but not         Congress has included citizen suit provisions in virtually every
+under CERCLA.        Thus, CERCLA, the statute designed to         piece of federal environmental legislation.’ Hallstrom, 493
+address the less numerous but potentially more dangerous           U.S. at 23. Consequently, the citizen suit provisions in the
+hazardous substance sites, will provide a less comprehensive       various federal environmental statutes closely resemble one
+remedy, from a plaintiff's perspective, than the RCRA citizen      another. Fadil, Citizen Suits Against Polluters, 9 Harv. Envt’l
+suit provision.                                                    L. Rev. 23, 26-28 (1985); see also, Boyer & Meidinger,
+                                                                   Privatizing Regulatory Enforcement, 34 Buff. L. Rev. 833,
+IV.    The Legislative History Of Federal Environmental            847-851 (1985). All, for example, contain a notice provision.
+       Citizen Suit Provisions, And The Legislative                All contain a bar to suit if the government is pursuing the
+       History Of RCRA In Particular, Confirm That                 matter.     Virtually all provide for federal district court
+       RCRA Citizen Suit Remedies Are Limited                      jurisdiction regardless of the amount in controversy or the
+
+        As just reviewed, the plain language of RCRA
+conclusively establishes that its citizen suit provision only      7         See, e.g Toxic Substances Control Act, 15 U.S.C. § 2619; Endangered
+                                                                   Species Act, 16 U.S.C. § 1540(g), Surface Mining Control and Reclamation Act,
+authorizes private party claims for injunctive relief to address   30 U.S.C. § 1270, Marine Protection, Research and Sanctuaries Act, 33 U.S.C. §
+ongoing dangers and does not provide a cost recovery remedy.       1415(g), Federal Water Pollution Control Act, 33 U.S.C. § 1365, Safe Drinking
+This Court has repeatedly stated that the words of a statute are   Water Act, 42 U.S.C. § 300)-8, Noise Control Act, 42 U.S.C. § 4911; Clean Air
+controlling absent a clearly expressed legislative intention to    Act, 42 USC. § 7604; CERCLA, 42 U.S.C. § 9659; Outer Continental Shelf
+                                                                   Lands Act, 43 US.C. § 1349.
+the contrary.     E.g, Hallstrom, supra, 493 U.S. at 28;
+                                28                                                                 29
+citizenship of the parties.                                                 (emphasis added).
+
+         The general purpose of citizen suit provisions in                   During the floor debates, the citizen suit provision of
+tederai environmental statutes is to allow citizen-plaintiffs to     the Clean Air Act was contrasted with the citizen suit
+act as "private attorneys general." Sea Clammers, 453 U.S. at        provision of Senate Bill 3201, a pending, separate consumer
+14 n.23. But there was concern in Congress, even as the              protection bill that would have authorized private suits for
+initial citizen suit provisions were being enacted, that a citizen   damages:
+suit provision that provided too broad a remedy could strip the
+government of prosecutorial discretion, lead to over-                       "Senate Bill 3201 provides damages and a
+enforcement of the environmental laws and overburden the                    remedy for recovery of fines and restitution,
+court system. See, Hallstrom, 493 U.S. at 29. The balance                   and other monetary damages. The pending bill
+struck by Congress included the decision not to include a                   is limited to seek [sic] abatement of violation
+private damages remedy in citizen suit provisions.                          of standards established administratively under
+                                                                            the act, and expressly excludes damage
+       This position was articulated in the debates over the                actions."
+first citizen suit provision (in the 1970 Clean Air Act) as
+follows:                                                                    Id. at 33102 (comments of Sen. Muskie) quoted in Sea
+                                                                            Clammers, 453 U.S. at 17 n. 27 (emphasis added).
+       "It has been argued, however, that conferring
+       additional rights on the citizen may burden the               Senator Muskie then placed in the Record a staff
+       courts unduly. I would argue that the citizen                 memorandum stating that the availability of damages in the
+       suit provision of [this bill] has been carefully              Clean Air Act "would encourage frivolous or harassing suits
+       drafted to prevent this consequence from                      against industries and government agencies." /d. at 33103.
+       arising. First of all, it should be noted that the
+       bill makes no provision for damages to the                            In 1972, Congress enacted the second environmental
+       individual. It therefore provides no incentives               citizen suit provision as section 505 of the FWPCA.       The
+       to suit other than to protect the health and                  F WPCA citizen suit provision was explicitly modeled after the
+       welfare of those suing and others similarly                   Clean Air Act citizen suit provision. See S. Rep. No. 414,
+       situated. It will be the rare, rather than the                92d Cong., 2d Sess. 79 (Citizen participation under the Clean
+       ordinary, person, I suspect, who with no hope                 Water Act is "modeled on the provision enacted in the Clean
+       of financial gain and the very real prospect of               Air Act Amendments of 1970"); H.R. Rep. No. 911, 92d
+       financial loss, will initiate court action under              Cong., 2d Sess. 133 ("Section 505 closely follows the
+       this bill.”                                                   concepts utilized in section 304 of the Clean Air Act"). See
+                                                                     also, Gwaltney, 484 U.S. at 62 ("The Senate and House
+       116 Cong. Rec. 33104 (1970) (comments of Sen. Hart)           Reports explicitly connected the FWPCA citizen suit provision
+       quoted   in Sea    Clammers,    453   U.S.   at   17 n.27     to the citizen suit provision of the Clean Air Act, which is
+                                 30                                                                    31
+wholly injunctive in nature").                                          as "the prompt     abatement    of imminent       and substantial
+                                                                        endangerments."    /d. (emphasis added).
+        Members of Congress repeatedly characterized the
+FWPCA citizen suit provision as an “abatement” provision or                     Several House members feared that the amended
+as an injunctive measure. See, e.g., Water Pollution Control            RCRA citizen suit provision would cause citizens to flood the
+Legislation, Hearings before the Subcomm. on Air and Water              federal courts with supplemental state-law claims, including
+Pollution, Senate Comm. on Public Works, 92d Cong., Ist                 tort claims for damages.       The debate on this issue is
+Sess., pt. 1, 114 (1971) ("Any person may sue a polluter to             illuminating as to the limitation of the RCRA citizen suit
+abate a violation ..."). In the accompanying debates, Senator           provision to injunctive (abatement) actions. The minority
+Bayh stated that "[t]hese sorts of citizen suits -- in which a          report, for instance, objected to the citizen suit provision
+citizen can obtain a injunction but cannot obtain money                 because of the failure of the committee to adopt a clarifying
+damages for himself -- are a very useful additional tool in             amendment:
+enforcing environmental protection laws". 118 Cong. Rec.
+33717 (1972).      -                                                           "That amendment stated that no district court
+                                                                               before which an imminent and substantial
+       B.      The Legislative History Of The RCRA                             endangerment action is brought is empowered
+               Citizen Suit Provision                                          to hear related state law claims.        That
+                                                                               amendment     simply clarified      what   we   had
+         The legislative history of the 1984 amendments to                     understood to be the intention of the citizen
+RCRA reflects the same Congressional intent with respect to                    suit provision and that is to give citizens a
+citizen suit provisions as RCRA’s ancestor environmental                       federal cause of action to abate imminent and
+statutes: to authorize federal courts to issue injunctive relief               substantial endangerments created by hazardous
+to private party plaintiffs but not to award compensatory                      waste disposal facilities.
+damages. For example, the House Committee report states            ee
+
+
+that the RCRA citizen suit provision:                                          Unfortunately, we believe the citizen suit
+                                                                               provision goes much further than was intended
+       "Confers on citizens a limited right under                              because, under a legal doctrine called pendent
+       section 7002 [42 U.S.C. § 6972] to sue to                               jurisdiction, citizens will have the opportunity
+       abate    an  imminent    and _ substantial                              to try to bring all related state claims they may
+       endangerment ...."                                                      have into the federal court system when they
+                                                                               sue to abate imminent hazards .... This could
+       H.R. Rep. No. 198, 98th Cong., 2d Sess. (1984),                         slow down the proceeding which, as we
+       reprinted in 1984 U.S.C.C.A.N. 5576, 5612 (emphasis                     understand it, is intended to be an emergency
+       added).                                                                 type action to abate imminent hazards. Instead
+                                                                               of ending the imminent hazard, federal judges
+The report also explains the primary goal of § 6972(a)(1)(B)                   will be trying to decide cumbersome questions
+                                      32                                                                        33
+         of state law nuisance, trespass, and personal                            provision -- "the prompt abatement of imminent and
+         and property damage compensation.                                        substantial endangerments."       This entire debate about
+                                                                                  supplemental jurisdiction over state law damage claims would
+         Id., 1984 U.S.C.C.A.N. at 5634-35 (emphasis added).                      be nonsensical if Congress intended the RCRA citizen suit
+                                                                                  provision to provide a federal cause of action for damages.
+        While Congress decided not to prohibit supplemental
+state-law claims,'’ the committee majority cautioned that it                             C.      The Legislative History Of The Subsequent
+expected courts:                                                                                 Amendments To CERCLA’s Citizen Suit
+                                                                                                 Provisions Confirms Congress’s Intent To
+         "[tlo exercise their discretion concerning                                              Limit RCRA’s Citizen Suit Authorization
+         pendent jurisdiction in a way that will not                                             To Injunctive Relief Claims
+         frustrate or delay the primary goal of this
+         provision, namely the prompt abatement of                                         The chief difference in the language of the RCRA
+         imminent and substantial endangerments."                                 citizen suit provision from the provisions in the Clean Air Act
+                                                                                  and FWPCA is the inclusion of the authority to "order such
+                              Id. at 53.                                          person to take such other action as may be necessary," which
+                                                                                  appears in RCRA but not the earlier Acts. The only other
+        It is clear from this debate that all of the                              citizen suit provision that contains the “order such person to
+Representatives on the committee, both majority and minority                      take such other action as may be necessary" language is the
+members, understood and intended that the RCRA citizen suit                       CERCLA citizen suit provision. 42 U.S.C. § 9659. The
+provision would provide only injunctive relief. The debate                        legislative history of CERCLA with respect to this provision
+centered on whether a citizen-plaintiff should be permitted to                    makes the purpose of this language very clear.
+bring in federal court, inter alia, a supplemental state law
+cause of action for “personal and property damage                                         The CERCLA citizen suit was added to that statute by
+compensation." The minority would have amended the RCRA                           the Superfund Amendments and Reauthorization Act of 1986,
+citizen suit provision to prohibit the federal courts from                        two years after the RCRA citizen suit provision at issue here
+exercising supplemental jurisdiction over state law damage                        was amended.      In considering the CERCLA citizen suit
+claims. The majority decided that such supplemental state law                     provision, the House Judiciary Committee both referenced and
+claims should not be prohibited, but urged the federal courts                     explained RCRA’s "order such person to take such other
+to exercise discretion in exercising supplemental jurisdiction                    action" language:
+to avoid frustrating the primary goal of the RCRA citizen suit
+                                                                                         "the cause of action for abatement of an
+                                                                                         imminent and substantial endangerment, like
+=         The corresponding    Senate Committee    Report echoed    the House            the one added to [RCRA] in 1984, is designed
+Committee's comments on supplemental jurisdiction. S. Rep. No. 284, 98th Cong.,
+                                                                                         solely to aid in the clean-up of hazardous
+Ist Sess. 57 (1983).
+                                                                                         waste sites.
+                                         34                                                                                     35
+          The Committee notes that this type of relief is                                V.       The Ninth Circuit Improperly Implied A Private
+          consistent with that available for other actions                                        Party Right Of Action For Cost Recovery
+          authorized by this section. These suits may
+          also be brought for injunctive relief only, i.e.,                                     The RCRA citizen suit provision does not expressly
+          citizens may seek a restraining order against                                  provide a cost recovery remedy. What the Ninth Circuit's
+          private parties and/or a mandamus order to                                     decision has created, then, is an implied right of action for
+          require the EPA or other relevant agency to                                    damages under the RCRA citizen suit provision."                               But
+          perform a mandatory duty under CERCLA.                                         implied rights of action are permissible only when certain key
+          None of these actions are for money damages.                                   criteria are met.
+          They are actions directly related to the
+          principal purpose of the Superfund law -- i.e.,                                         A.        There Can Be No Implied Right Of Action
+          to bring about quick identification and effective                                                 For Damages In The RCRA Citizen Suit
+          clean-up of dangerous hazardous waste sites."                                                     Provision Because the Cort v. Ash Criteria
+                                                                                                            Are Not Met
+          H.R. Rep. No. 253, pt. 3, 99th Cong. Ist Sess. (1985)
+          (emphasis added)."*                                                                   In Cort v. Ash, supra, this Court listed four factors
+                                                                                         which guide the process of determining whether implying a
+         In sum, the legislative history of federal environmental
+citizen suit provisions, read together with RCRA’s express
+legislative history, compels the conclusion that only injunctive
+relief, and not monetary damages, is available under the
+RCRA citizen suit provision.'*
+                                                                                         (N.D. Cal. 1993), Gache v. Town of Harrison,      813 F Supp. 1037(S.D.N-Y. 1993).
+                                                                                         MESS wv Weinberger, 707 F Supp. 1182 (E.D. Cal. 1988), Commerce Holding
+"         The language of the CERCLA amendments bill as it left the Judiciary            Co, Inc v Buckstone, 749 F Supp. 441 (E.D.N.Y. 1990), Mola Dev. Corp v
+Committee provided the district court with jurisdiction "to immediately restrain any     United States, 22 Env't. Rep. Cas. 1443 (C_D. Cal. 1985), but see Bayless Invest
+person contributing to the endangerment ... [or] to order such person to take            & Trad Co. v. Chevron USA. Inc., ¥9 Env't Rep. Cas. 1428 (D, Ariz. 1994).
+response action as provided for in this Act." The language    in the bill as it passed   In addition, before the Ninth Circuit's ruling, the leading treatises on hazardous
+the House was identical. The Conference Committee deleted the “endangerment”             waste and environmental law had concluded that, under the RCRA citizen suit
+language in the citizen suit as redundant of RCRA and modified the statutory             provision, “it is well settled that” an award of damages is not permitted S Cooke,
+language accordingly. H.R. Rep. No. 253, pt. 3, 99th Cong., Ist Sess. (1985).            The Law of Hazardous Waste § 16.0331) (1995), see also 4 W. Rodgers,
+                                                                                         Environmental Law § 7 6(b) (1992).
+
+"          In light of the purpose of citizen suits, the overwhelming weight of case     -         The Court of Appeals did not undertake an “implied right of action”
+authority supports the proposition that monetary relief, whether labelled                analysis. The Court of Appeals instead interpreted the language of RCRA which
+“economic,” “compensatory” or “restitutionary,” is not available as part of aRCRA        provides  for mandatory injunctive relief (“to order such person to take such other
+citizen suit cause of action. Furrer v. Brown, 62 F.3d 1092 (8th Cir. 1995),             action as may be necessary”) expansively as allowing a district court to order a
+Portsmouth Redev. & Housing Auth. v. BMI Apt. Assoc., 847 F.Supp. 380 (E.D.              defendant to pay over to a plaintiff in restitution that amount of money that the
+Va. 1994), Kaufman and Broad - South Bay v. Unisys Corp, 822 F.Supp. 1468                plaintiff had expended on its cleanup.
+                                        36                                                                      37
+right of action is consistent with Congressional intent.'’ The                   claims for recovery of cleanup costs under RCRA’s citizen
+first consideration under Cort is whether the plaintiffs are                     suit provision. See supra at 30 - 32. In fact, the legislative
+members   of a class for "whose especial benefit the statute was                 history supports the contrary intent.
+enacted." California v. Sierra Club, 451 U.S. 287, 293 (1981)
+(quoting Cort, 422 U.S. at 78, 80-82).                    RCRA is a statute             The third consideration under Cort is whether implying
+designed to benefit the public at large by ensuring                              a cause of action for recovery of cleanup costs by a private
+environmental safety, rather than focusingon any particular                      plaintiff is “necessary to make effective the congressional
+class or group. City of Chicago v. Environmental Defense                         purpose" of RCRA. See Cort, 422 U.S. at 84. RCRA itself
+Fund, __ US. __, 114 S.Ct. 1588, 1590 (1993); accord                             states that the objectives of the Act “are to promote the
+California v. Sierra Club, 451 U.S. 287, 295. Respondent                         protection of health and the environment and to conserve
+KFC does not belong to a special class to which Congress                         valuable material and energy resources," and then sets forth
+intended to give special protections under RCRA, and this                        eleven routes to that goal, none of which relates directly to the
+requisite for an implied right of action is not met.                             citizen suit provision.   42 U.S.C. § 6902(a).    The “national
+                                                                                 policy" statement accompanying RCRA addresses only the
+         The second consideration under Cort is whether there                    reduction or elimination of "the generation of hazardous waste
+is any indication of legislative intent, explicit or implicit, to                ... a8 expeditiously as possible," and the appropriate treatment,
+create a federal cause of action for private party cleanup cost                  storage,  or disposal of "[wJaste that is nevertheless generated,"
+recovery. As discussed extensively above, nothing in the                         but does not speak specifically to contaminated property, to its
+RCRA legislative history in any way suggests that Congress                       remediation or to recovery of costs of remediation. /d §
+intended to grant jurisdiction to district courts to adjudicate                  6902(b).     The overriding purpose of RCRA is clear: to
+                                                                                 prevent generation of hazardous waste in the first instance,
+                                                                                 and, further, to dispose of and treat properly that which is
+                                                                                 produced. In other words, RCRA’s goal is to prevent the
+”        This Court phrased the factors as inquires.
+                                                                                 creation of hazardous waste sites, rather than to promote the
+         "First, is the plaintiff one of the class for whose especial            cleanup of existing sites.
+         benefit the statute was enacted, that is, does the statute create
+         a federal right in favor of the plaintiff? Second,   is there any
+                                                                                         As to the RCRA citizen suit provision in particular, as
+         indication of such a remedy or to deny one? Third,           is it
+         consistent with the underlying purposes       of the legislative        reviewed above, the statute has a notice provision and a
+         scheme to imply such a remedy for the plaintiff? And finally,           provision that bars suit when the government is addressing the
+         is the cause of action one traditionally relegated  to state law.       problem. The obvious goal of these provisions is to forestall
+         in an area basically the concern of the States, so that it would
+         be inappropriate to infer a cause of action based solely on
+                                                                                 citizen suits so that they become available only as a last
+         federal law?”                                                           resort. It is apparent that, while Congress intended to allow
+                    Cort, 422 U.S. at 95 (Emphasis Added).                       citizen suits in order to foster compliance with RCRA’s
+                                                                                 regulations, it wrote the RCRA citizen suit provision to
+The Cort factors are not of equal weight; the dispositive question is one of
+legislative intent. Transamerica Mortgage Advisors, Inc. v. Lewis, 444 US. 11,
+                                                                                 supplement, and not supplant, governmental enforcement
+23-24 (1979), Towche Ross & Co. v. Redington, 442 U.S. 560, 575-576 (1979).      efforts. See supraat 18 - 21; Furrer v. Brown, Pet. Rep.at
+                               38                                                                         39
+
+A-12.                                                               state court before filing this federal action.'* This task is in
+                                                                    fact uniquely suited to the state courts. Moreover, the duties
+    Indeed, as this Court has observed, the legislative             of a property owner to a successor in title are matters
+history
+     of the 1984 amendments  to the RCRA citizen suit               historically determined by state law, and it would thus be
+provision further indicates that Congress intended the section      inappropriate to imply a cause of action based solely on
+to enhance the enforcement of RCRA regulations, that is, the        federal law.
+regulation of hazardous waste, and did not intend to give
+citizens a cause of action for recovery of costs incurred for                B.       This Court’s Decision In The Sea Clammers
+the cleanup of hazardous waste sites when regulation has                              Case Reaffirms The Unavailability Of An
+failed:                                                                               Implied Right Of Action For Damages
+                                                                                      Under RCRA
+        "[T]he legislative history indicates
+                                           an intent to
+        strike a balance between encouraging    citizen                     The issue of implied rights of action in a similar
+        enforcement   of environmental regulations and              context was addressed by this Court in Middlesex County
+        avoiding burdening the federal courts with                  Sewerage Auth. v. National Sea Clammers Assn., 453 U.S. |
+        excessive numbers of citizen suits."                        (1981). In Sea Clammers, the respondent Association urged
+                                                                    this Court to imply a private cause of action for damages in
+        Halistrom, supra, 493 U.S. at 29.                           the FWPCA and the Marine Protection, Research, and
+                                                                    Sanctuaries Act of 1972 ("MPRSA").
+       The fourth consideration under Cort is whether the
+implied cause of action is one that is traditionally relegated to            This Court first noted that both the FWPCA and
+the states, such that it would be inappropriate to infer a cause    MPRSA "contain unusually elaborate enforcement provisions"
+of action based solely on federal law. Causes
+                                          of action for             providing causes of action both to the government and to
+recovery of cleanup costs or restitution have been developed        private citizens. The Court further reasoned that Congress
+by state common law courts and by courts of equity for              intended such painstakingly defined remedies to be exclusive:
+several centuries. See G. Palmer, The Law of Restitution §§
+1.1-1.8 (1978); D. Dobbs       Remedies     §§ 4.2-4.3   (1973).             "In view of these elaborate enforcement
+Common law courts of general jurisdiction, such as those of                  provisions it cannot be assumed that Congress
+the states, have developed and have power to further develop                 intended to authorize by implication additional
+causes of action for recovery of cleanup costs. The California               judicial remedies for private citizens suing
+courts to which KFC first turned for relief are an able                      under MPRSA and FWPCA.           As we [have]
+example.   KFC pled fully nine different causes of action in                 stated, ‘it is an elemental canon of statutory
+
+
+                                                                    ”        Only one cause of action was determined to have failed to state a claim
+                                                                    for relief. Six of the remaining cight may have stated a claim for relief
+                                                                                                                                          but were
+                                                                    barred by the applicable statutes  of limitations.
+                              40                                                                41
+
+       construction   that where   a statute expressly            may file suit against the EPA where there is an alleged failure
+       provides a particular remedy or remedies, a                of the EPA to perform any non-discretionary act or duty
+       court must be chary of reading others into it.’            under 42 U.S.C. § 6972(a)(2).
+       In the absence of strong indicia of a contrary
+       congressional intent, we are compelled to                          There is, then, no justification for implying a damages
+       conclude that Congress provided precisely the              right of action under RCRA when measured by the standards
+       remedies it considered appropriate."                       set forth in this Court’s decisions in Cort v. Ash and Sea
+                                                                  Clammers.
+       453 U.S. at 14-15 (citations omitted).
+                                                                  VI.     The Analysis Of The Ninth Circuit, Which Relies
+        This Court further determined that the legislative                Heavily On Parallels Between Sections 6972 And
+history of both the FWPCA and the Clean Air Act mandated                  6973 And On Eighth Circuit Precedents, Does Not
+this conclusion and concluded that:                                       Withstand Scrutiny
+
+       "Both the structure of the Acts and their                          In the case below, the Ninth Circuit noted that section
+       legislative history lead us to conclude that               6973 of RCRA is worded similarly to the RCRA citizen suit
+       Congress intended that private remedies in                 provision.    Section 6973 is the governmental imminent
+       addition to those expressly provided should not            endangerment provision of RCRA and allows EPA to bring
+       be implied.     Where, as here, Congress has               suit against any person who has caused or contributed to a
+       made clear that implied private actions are not            solid or hazardous waste problem that may present an
+       contemplated, the courts are not authorized to             imminent and substantial endangerment to health or the
+       ignore this legishative judgment."                         environment.
+
+                       453 US. at 18.                                     The Ninth Circuit interpreted two Eighth Circuit
+                                                                  precedents to stand for the proposition that EPA could recover
+        The remedies afforded by RCRA are equally as              costs expended in cleaning up a solid waste site pursuant to
+elaborate as those in the MPRSA and the FWPCA. RCRA               section 6973. United States v. Aceto Agric. Chem. Co., 872
+authorizes the EPA to respond to violations of the statute with   F.2d   1373 (8th Cir.   1989); United States v. Northeastern
+compliance orders, civil suits, and such orders as may be         Pharmaceutical & Chem. Co., ("NEPACCO") 810 F.2d 726
+necessary to protect public health and the environment. See       (8th Cir. 1986) cert. denied 484 U.S. 848 (1987).   Relying on
+42 U.S.C. § 6973; 42 U.S.C. § 6928. The EPA may assess            the similarity in language between sections 6972 and 6973 and
+penalties for violations of Subtitle C (42 U.S.C. § 6921 ef       its reading of these two Eight Circuit opinions, the Ninth
+seq.) for noncompliance, and may assess penalties for failure     Circuit concluded that the RCRA citizen suit provision should
+to comply with an EPA Order issued pursuant to 42 U.S.C. §        be read to include a cost recovery remedy.
+6973 and 42 U.S.C. § 6928(a).        Criminal penalties are
+available under 42 U.S.C. § 6928(d). In addition, any citizen             But the Ninth Circuit’s reliance on those precedents
+                                42                                                              43
+was seriously misplaced. The Eighth Circuit did not actually              The Eighth Circuit went on to explain, as we review
+decide the issue of the recoverability of governmental           next, how it never considered the issue of governmental
+response costs in Aceto and NEPACCO. The Eighth Circuit          entitlement to recovery of cleanup costs under § 6973(a) in
+itself expressly reaffirmed that fact after it read the Ninth    NEPACCO and Aceto. But in any event, as we discuss in the
+Circuit's KFC Western decision:                                  final section of this Brief, an analysis of section 6973 is not
+                                                                 directly transferable to section 6972.
+       “We think, however, that the [Ninth Circuit]
+       began with a questionable proposition and then                   A.      The Eight Circuit Did Not Reach The Issue
+       mistakenly reached its result in reliance on                             Of the Governmental        Right   To    Recover
+       cases from this Circuit that, when carefully                             Cleanup Costs Under Section 6973
+       analyzed, do not support the KFC Western
+       decision."                                                        The Eighth Circuit corrected the Ninth Circuit’s mis-
+                                                                 reading of NEPACCO and Aceto in Furrer v. Brown. Pet.
+               Furrer v. Brown, Pet. Rep. at                     Rep. at A19-A20:
+               A-17.
+                                                                        [In NEPACCO], the United States in a cross-
+         The "questionable proposition" referred to by the              appeal challenged the district court’s refusal to
+Eighth Circuit was the Ninth Circuit's misinterpretation of a           award "response costs" under § 6973(a), a
+key portion of the legislative history of RCRA in support of            decision made because the court believed the
+its contention that Congress intended to give private citizens          statute required a showing of negligence and
+the nght to recover money damages. /d. at A-18 to A-19.                 the government had made none. The Eighth
+The Eighth Circuit further opined that:                                Circuit reversed that holding on the negligence
+                                                                       issue, but never made a finding that the
+       "From an arguably faulty premise, then, the                     recovery of response costs was available to the
+       [Ninth Circuit] goes on to misconstrue two                      government under § 6973 in the first instance,
+       Eighth Circuit opinions involving governmental                  apparently because the jurisdiction of the
+       plaintiffs and to conclude that § 6972                          district court to award the recovery of such
+       authorizes the recovery of cleanup costs by                     costs under RCRA was unchallenged.          The
+       private plaintiffs.   /n the two cases from this                issue may have been overlooked because many
+       circuit upon which the KFC Western court                        of the costs sought by the government were
+       relies, the issue of whether cleanup costs may                  explicitly recoverable as response costs under
+       be recovered in a governmental action under                     CERCLA.
+       § 6973(a) was never before this Court.
+                                                                       In Aceto, the RCRA claim for "response costs"
+               Id. at A-19. (emphasis added).                          had been dismissed by the district court on the
+                                                                       basis of its conclusions concerning the
+                               44                                                                 45
+        "imminent and substantial endangerment" and                        added).
+        the “contributed to" language found in §
+        6973(a).   The Eighth Circuit reversed and                                         42 U.S.C. § 7603.
+        remanded for further proceedings, but again
+        never addressed whether the remedy sought                   This Court and others have consistently held that monetary
+        was authorized by § 6973.                                   damages are unavailable pursuant to any section of the Clean
+                                                                    Air Act. See Gwaltney, 484 U.S. at 61-62; Jones & Laughlin
+               Furrer,   Pet. Rep. at Al9 (emphasis                 Steel, 804 F.2d at 351; Gutierrez v. Mobil Oil Corp., 798
+               added).                                              F.Supp. 1280, 1285 (W.D. Tex. 1992).
+
+Thus, the very Court of Appeals that issued the opinions in                B.        The Governmental Suit Provision (Section
+Aceto and NEPACCO, has unequivocally concluded that it has                           6973) is Distinct From The Citizen Suit
+not decided the issue of the recoverability of response costs                        Provision (Section 6972)
+under section 6973.
+                                                                            The Ninth Circuit’s analysis is based on the premise
+         Indeed, it bears noting that the text of Section 6973 is   that: "[njothing indicates that Congress intended citizen suits
+identical or similar to enforcement provisions in other federal     {under section 6972] to serve a purpose different from that
+environmental statutes. The analogous provisions of the Clean       served by governmental actions [under section 6973]."_ Pet.
+Air Act, CERCLA and the Clean Water Act do not authorize            App. A7 n.3. This premise is belied by the statute itself. The
+recovery of monetary damages. Injunctive relief and civil           RCRA citizen suit provision contains a bar to action if the
+penalties are the only available remedies. See Gwaltney of          government is proceeding with enforcement activities. The
+Smithfield v. Chesapeake Bay Foundation, 484 U.S. 49, 61-2          RCRA citizen suit also contains a notice provision that allows
+(1987) (Clean Air Act and Clean         Water   Act citizen suit    the government to intervene, thus eliminating the need for a
+provisions); United States v. Jones & Laughlin Steel Corp.,         citizen suit. See, Hallstrom, 493 U.S. at 29; Gwaltney, 484
+804 F.2d 348, 351 (6th Cir. 1986) (Clean Air Act); Gutierrez        U.S. at 60.
+v. Mobil Oil Corp., 798 F.Supp.       1280, 1285 (W.D. Tex.
+1992).                                                                      The very committee report that the Ninth Circuit
+                                                                    references makes the point very clearly:
+         For example, the Clean Air Act contains language
+virtually identical to Section 6973 of RCRA:                               "The committee believes [the] expansion of the
+                                                                           citizen suit provision will complement... the
+        "to immediately restrain any person causing or                     Administrator [of EPA’s] efforts to eliminate
+        contributing to the alleged pollution to stop the                  threats as to public health and the environment,
+        emission    of air pollutants causing or                           particularly where the Government is unable to
+        contributing to such pollution or fo take such                     take action because of inadequate resources."
+    ~   other action as may be necessary.” (emphasis
+                               46                                                                47
+H.R. Rep. No. 198, 98th Cong., 2d Sess., pt. 1, 53 (1963)                                 CONCLUSION
+reprinted in 1984 U.S.C.C.A.N. 5576, 5612 quoted at Pet.
+App. A7 n.3. Moreover, as this Court has repeatedly noted,                  The judgment of the Court of Appeals for the Ninth
+citizen suits are intended to supplement and not supplant           Circuit should be reversed. The opinion of the Ninth Circuit
+governmental action. Gwaltney, 484 U.S. at 60.                      should be vacated and the case dismissed.
+
+        Thus, the Ninth Circuit’s premise is erroneous.       In    Dated: November 9, 1995.
+fact, the statutory language and legislative history                                             Respectfully submitted,
+overwhelmingly indicate that Congress intended citizen suits
+to serve a very different purpose from that served by                                            JOHN P. ZAIMES
+governmental actions. Thus, although the language of the                                         Counsel of Record
+citizen suit provision in section 6972 is virtually identical to
+the language of the imminent hazard provision in section                                         CLIFTON J. McFARLAND
+6973, it does not necessarily follow that the construction of                                    McCLINTOCK, WESTON,
+the two sections must be identical.                                                               BENSHOOF, ROCHEFORT,
+                                                                                                  RUBALCAVA & MacCUISH
+        For example, the differing purposes of the two sections                                  444 South Flower Street
+in the context and structure of RCRA could lead to different -                                   43rd Floor
+conclusions regarding the remedies provided by each section.                                     Los Angeles, California 90071
+In addition, the intent of Congress as expressed in the                                          (213) 623-2322
+legislative history could differ as to the two sections. Finally,                                Counsel for Petitioners
+the Cort analysis as applied to the two sections could lead to
+different conclusions as to the remedies provided. The Ninth
+Circuit’s apparent conclusion that, because the sections are
+worded virtually identically they must be construed identically
+glosses over several important steps in the statutory analysis.
+
+        In sum, the analysis of the Ninth Circuit, which relies
+heavily on a misreading of two Eighth Circuit precedents and
+on parallels between the RCRA citizen suit provision and
+section 6973, does not withstand scrutiny.
+                              la
+
+
+JOHN P. ZAIMES (Bar No. 091933)
+McCLINTOCK, WESTON, BENSHOOF,
+  ROCHEFORT, RUBALCAVA & MacCUISH
+444 South Flower Street, Forty-Third Floor
+Los Angeles, California 90071-2901
+Telephone: (213) 623-2322
+
+Attorneys for Defendants
+ALAN MEGHRIG and MARGARET                MEGHRIG
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+      FOR THE COUNTY OF LOS ANGELES
+
+                              ) CASE NO. BC 043874
+                 Plaintiff,        AMENDED ORDER WITH
+                                   FINDINGS OF FACT
+         -                    )    AND CONCLUSIONS OF
+ALAN MEGHRIG and                   LAW
+MARGARET MEGHRIG)
+and DOES 1-10,                )
+                              )
+              Defendants.     )
+                              )
+
+                  (Filed Aug. 21, 1995)
+    PLEASE TAKE NOTICE that the Motion for Sum-
+mary Judgment of Defendants Alan Meghrig and Marga-
+ret Meghrig   (the “Meghrigs”)       in the above-captioned
+matter came on regularly for hearing at 8:30 a.m. on July
+11, 1995 before the Honorable Stephen E. O'Neil in
+Department 46 of the above-entitled Court. John P.
+Zaimes of McClintock, Weston, Benshoof, Rochefort,
+Rubalcava & MacCuish appeared on behalf of defendants
+and moving parties, the Meghrigs; Daniel Romano
+                               2a                                                               3a
+
+appeared on behalf of plaintiff and responding party KFC            7. The Meghrigs never undertook any acts which
+Western, Inc.              -                                    caused gasoline contamination on the Subject Property.
+                                                                (Defendants’ Undisputed Fact No. 7.)
+    After considering the papers filed in support of, and
+in opposition to, the Meghrigs’ Motion for Summary                     8.    There was a gasoline service station on the Sub-
+Judgment, and the oral argument of counsel, the Court           ject Property from 1917 until 1962, prior to the property's
+makes the following findings of facts and conclusions of        ownership of the Meghrigs. (Defendants’ Undisputed
+law and grants summary judgment in favor of defen-              Fact No. 8.)
+dants.
+                                                                       9.    Underground storage tanks on the Subject Prop-
+                                                                erty were replaced in 1951. (Defendants’ Undisputed Fact
+                     FINDINGS       OF FACT
+                                                                No. 9.)
+      1.   Plaintiff is the owner of real property located at
+340 North Western Avenue in Los Angeles, California (the            10. Underground storage tanks on the Subject Prop-
+“Subject Property”). (Defendants’ Undisputed Fact No.           erty were completely removed in December 1964. No
+1.)                                                     ;       tanks were placed on the Subject Property thereafter.
+                                                                (Defendants’ Undisputed        Fact No. 12.)
+      2. The Meghrigs took title to the Subject Property in
+March      1963. (Defendants’ Undisputed Fact No. 2.)                11. A strip mall was constructed on the Subject
+                                                                Property in 1965. Plaintiff leased a portion of the strip
+     3. The Meghrigs never owned a gasoline service
+                                                                mall from the Meghrigs from May 1965 to the time the
+station business on the Subject Property. (Defendants’
+                                                                Subject Property was sold to plaintiff in 1975. (Defen-
+Undisputed Fact No. 3; Defendants’ Objections to Plain-         dants’ Undisputed Fact No. 10.)
+tiff’s Response to Fact No. 3.)
+
+      4.   The Meghrigs never operated a gasoline service            12. Plaintiff discovered the contamination on the
+station    located   on the Subject Property.   (Defendants’    Subject Property on or about October 26, 1988. (Defen-
+Undisputed      Fact No. 4.)
+                                                                dants’ Undisputed Fact No. 11.)
+
+      5.   A service station did not operate on the Subject            13.    Plaintiff completed its cleanup of the Subject
+Property during the period of the Meghrigs’ ownership.          Property on or before March           12, 1989.   (Defendants’
+(Defendants’ Undisputed Fact No. 5.)                            Undisputed Fact No. 13.)
+
+    6. The Meghrigs took no part in the management of               14. Plaintiff filed its initial complaint in this matter
+the Subject Property during the 1960s. (Defendants’             on December 9, 1991. (Defendants’ Undisputed Fact No.
+Undisputed      Fact No. 6.)                                    14.)
+                              4a                                                            5a
+
+     15. There is no evidence that plaintiff suffered any      Lussier v. San Lorenzo Valley Water District, 206 Cal.App.3d
+actual damage arising out of the contamination of              92, 100, 253 Cal.Rptr. 470 (1988).
+groundwater after December 1, 1988. In fact, plaintiffs’
+own evidence shows that the groundwater beneath the                2. Having presented no evidence that it suffered
+Subject Property contained less than action level amounts      any damage within the applicable three-year limitations
+of contaminants in 1988, and no groundwater cleanup            period, plaintiff KFC Western, Inc.’s causes of action for
+was necessary. (Defendants’ Undisputed Fact No. 15;            continuing public nuisance, private nuisance and trespass
+Defendants’ Objections to Plaintiffs’ Response to Fact No.     fail as a matter of law. Capogeannis v. Superior Court, 12
+15.)                                                           Cal.App.4th 668, 676, 15 Cal.Rptr.2d 796 (1993).
+
+     16. There is no evidence that plaintiff suffered any           3. The money expended by plaintiff to clean up the
+actual damage arising out of soil contamination after          Subject Property does not constitute damage to the prop-
+December 1, 1988. In fact, plaintiffs’ own evidence shows      erty arising out of nuisance or trespass. CAMSI        IV v.
+that the soil contamination at the Subject Property had        Hunter Technology Corporation, 230 Cal.App.3d 1525, 282
+naturally biodegraded over time and was decreasing dur-        Cal.Rptr. 80 (1991).
+ing the 1980s. (Defendants’ Undisputed Fact No. 16;
+                                                                   4.   Civil Code Section 3483 does not provide a mech-
+Defendants’ Objections to Plaintiffs’ Response to Fact No.
+                                                               anism for a current owner of property to recover costs it
+16.)
+                                                               expends in abating a nuisance on its property from the
+     17. There is no evidence that the Meghrigs had            immediately preceding owner where the immediately
+either actual or constructive knowledge of contamination       preceding owner did not engage in any acts or omissions
+on the Subject Property. (Defendants’ Objections to Plain-     which resulted in the creation of the nuisance. Leslie Salt
+tiffs’ Fact No. 17.)                                           Co. v. San Francisco Bay Cons. & Dev. Comm., 153
+                                                               Cal.App.3d 605, 200 Cal.Rptr. 575 (1989); People v. South-
+                                                               ern Pacific Co., 150 Cal.App.2d Supp. 831, 311 P.2d 200
+                  CONCLUSIONS      OF LAW
+                                                               (1957).
+       1.   Having presented no evidence that the Meghrigs
+engaged in any acts, or tortiously omitted to undertake             5. To the extent that Civil Code Section 3483 may
+any act, which resulted in contamination of the Subject        provide a mechanism for a current owner of property to
+Property, plaintiff KFC Western, Inc.’s causes of action for   recover its costs expended in abating a nuisance on its
+continuing public nuisance, private nuisance and trespass      property from a prior owner, recovery may be had only if
+fail as a matter of law. Newhall Land & Farming v. Superior    the prior owner knew of the existence of the nuisance.
+Court, 19 Cal.App.4th 334, 345, 23 Cal.Rptr. 2d 377, 383       Since KFC has presented no competent evidence that the
+(1993); RTC v. Rossmoor Corp., 34 Cal.App.4th 93 (1995);       Meghrigs knew of the existence of contamination on the
+                             6a                                                               7a
+
+
+Subject Property during their ownership, KFC’s continu-                  (PROOF OF SERVICE - 1013a, 2015.5 C.C.P.)
+ing public nuisance and private nuisance causes of action        STATE OF CALIFORNIA               ]
+fail, as a matter of law. Reinhard v. Lawrence Warehouse Co.,                                      ] ss.
+42 Cal.App.2d 741, 107 P.2d 501, (1940).                         COUNTY      OF LOS ANGELES        |]
+                                                                     I am employed in the County of Los Angeles, State of
+                           ORDER                                 California. I am over the age of 18 and not a party to the
+                                                                 within action; my busimess address is 444 South Flower
+    IT IS HEREBY          ORDERED,      ADJUDGED        AND      Street, Forty-Third Floor, Los Angeles, California 90071.
+DECREED that summary judgment is granted in favor of
+the Meghrigs and against plaintiff on the grounds that               On    August   3, 1995, I served      the foregoing docu-
+there is no triable issue of material fact with respect to the   ment(s) described as AMENDED           ORDER    WITH   FIND-
+nuisance and trespass causes of action contained in plain-       INGS OF FACT AND CONCLUSIONS OF LAW on the
+tiff’s complaint and that the Meghrigs are entitled to           interested parties in this action by placing a true copy
+judgment as a matter of law.                                     thereof enclosed in a sealed envelope addressed as fol-
+                                   STEPHEN E. O’NEIL             lows:
+DATED:    AUG   21 1995
+                                      JUDGE OF THE
+                                     SUPERIOR COURT                  Daniel Romano, Esq.
+                                                                     100 Wilshire Boulevard
+                                                                     Suite 1300
+                                                                     Santa Monica, California 90401
+
+                                                                 X I placed such envelope with postage thereon fully
+                                                                 prepaid in the United States mail at Los Angeles, Califor-
+                                                                 nia.
+
+                                                                 X I am “readily familiar” with the firm’s practice of
+                                                                 collection and processing correspondence for mailing.
+                                                                 Under that practice, it would be deposited with U.S.
+                                                                 postal service on that same day with postage thereon
+                                                                 fully prepaid at Los Angeles, California in the ordinary
+                                                                 course of business. I am aware that on motion of the
+                               8a
+
+party served, service is presumed invalid if postal can-
+cellation date or postage meter date is more than one day
+after date of deposit for mailing in affidavit.
+
+       I sent such document(s) by Federal Express/UPS Air.
+
+_      I delivered such envelope by hand to the offices of the
+addressees.
+
+X I declare under penalty of perjury under the laws of
+the State of California that the above is true and correct.
+
+_      I declare that I am employed in the office of a member
+of the bar of this court at whose direction the service was
+made.
+
+       Executed on August 3, 1995, at Los Angeles, Califor-
+nia.
+
+                           /s/ Alicia D. Araneta
+                               Alicia D. Araneta
+

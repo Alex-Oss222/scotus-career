@@ -1,0 +1,1686 @@
+ae No. 95-83 
+
+
+: Supreme Court of the United States 
+October Term, 1995 
+
+
+t ALAN MEGHRIG AND MARGARET MEGHRIG, 
+SA Petitioners, 
+
+
+Cis . vs. 
+“hae KFC WESTERN, INC.,; 
+
+
+fe “On Writ of Certiorari to the United States 
+ae | Court.of Appeals For the Ninth Circuit 
+
+
+~)*. BRIEF ROR THE STATE OF LOUISIANA 
+ok: TRANSPORTATION AND Ml 
+[= AS AMICUS CURIAB IN SUPPORT OF RESPONDENT 
+
+
+‘ Edgar D. Gankendorff 
+: Robert A. Mahsook, Jr. 
+‘ Victoria A. Guidry 
+é Lawrence E. Marino 
+% Oats & HUDSON 
+. ‘ Suite 400, Gordon Square 
+100 East Vermilion Street 
+9 . Lowisians 70501 
+4 . - (318) 233-1100 
+sae | 
+“by Counsel for Amicus Curiae 
+<p, a State of Louisians 
+eae a Through Rs Department of 
+ies ne Ps, Transportation and Development 
+
+
+: 
+rs > —_ ’ 
+phones fs 
+“ mt ‘ - e 
+a 
+ne 
+a oe - ¥ 
+al il sae : 
+~~ i 
+
+
+TABLE OF CONTENTS 
+
+
+TABLE OF AUTHORITIES ................... 
+INTEREST OF THE AMICUS CURIAE ........... 
+
+
+SUMMARY OF ARGUMENT .................. 
+
+
+I. SECTION 6972(A)(1)(B) OF RCRA PROVIDES 
+PRIVATE CITIZENS WITH THE RIGHT TO 
+RESTITUTION FROM THE RESPONSIBLE PARTIES 
+FOR THE COSTS OF REMEDIATING HAZARDOUS 
+WEE. x ecole ck oe ARR dk ok GS dk eos 
+A. Remediation Expenditures May Be 
+
+Recovered Pursuant to the RCRA 
+Citizen’s Suit Provision ............. 
+1. The Plain Language of the 
+Citizen’s Suit Provision 
+Authorizes Restitutionary Relief. . . . 
+2. The Purposes For Which RCRA 
+Was Enacted Are Advanced By An 
+Interpretation of the Citizen’s 
+Suit Provision Permitting 
+
+
+3. Plaintiffs Are the Intended 
+Beneficiaries of the Citizen’s 
+SS > re 
+
+4. The Reasonableness of Remediation 
+Expenditures Pursuant to RCRA 
+Can Be Assessed Adequately. 
+
+
+of Restitution Must Also Be 
+DT £4 Sib os poe be e-e ee 
+Il. THE "IMMINENT AND SUBSTANTIAL 
+ENDANGERMENT" Must EXist WHEN 
+REMEDIATION IS INITIATED. ............... 
+Ill. RECOVERY OF REMEDIATION EXPENDITURES IS 
+PROPER UNDER RCRA REGARDLESS OF THE 
+APPLICABILITY OF CERCLA. .............. 
+A. CERCLA Has Not Preempted the Fields of 
+Remediation or Recovery of Remediation 
+ES Se eee eee 
+B. CERCLA and RCRA Are Independent 
+Statutes Which Apply to Different 
+Classes of Hazardous Materials. ........ 
+C. RCRA Contains No Exclusion Comparable 
+in Scope or Substance to the CERCLA 
+Petroleum Exclusion. ............... 
+D. Leaking Underground Gasoline Storage 
+Tanks Are Regulated Pursuant to RCRA. . . 
+EEE OES Sta ee 
+
+
+B. Equity Permits Restitution oy Remediation 
+Expenditures in the Context of a RCRA 
+
+
+GRE AD Shh ce bem cece cccecs 
+
+
+l. The Courts Have the Inherent 
+Power to Apply the General 
+Principles of Equity and to 
+Provide Equitable Restitution. 
+
+
+2. The Language of RCRA Evidences 
+
+
+the Availability of Equitable 
+
+
+le ee 
+
+
+3. Reason Leads to the Logical 
+Conclusion That Because the 
+Equitable Defense of Laches Is 
+Available, the Equitable Remedy 
+
+
+. 
+
+
+14 
+
+
+17 
+
+
+22 
+
+
+22 
+
+
+. 26 
+
+
+TABLE OF AUTHORITIES 
+CASES 
+
+
+Agricultural Excess & Surplus Ins. Co. v. A.B.D. 
+Tank & Pump Co., 
+
+
+878 F.Supp. 1091 (E.D. Ill. 1995) ..... 
+
+
+Amoco Oil Co. v. Borden, Inc., 
+
+
+889 F.2d 664 (Sth Cir. 1989)......... 
+
+
+Bayless Investmt. & Trading Co. v. Chevron U.S.A., 
+39 E.R.C. (B.N.A.) 1428 (D. Ariz. 1994) _.. . 
+
+
+Blood v. Fleming, 
+161 F.2d 292 (10th Cir. 1947) ....... 
+
+
+Bollinger and Boyd Barge Services, Inc. v. Motor 
+Vessel, Captain Claude Bass, 
+576 F.2d 595 (Sth Cir. 1978). ........ 
+
+
+Chapman v. Houston Welfare Rights Org.., 
+441 U.S. 600, 99 S.Ct. 1905 (1979) __.. 
+
+
+Citizens and Landowners Against the Miles City/New 
+
+
+Underwood Powerline v. Secretary, United States 
+
+
+Department of Energy, 
+683 F.2d 1171 (8th Cir. 1982) ........ 
+
+
+City of Chicago v. Environmental Defense Fund, 
+
+
+__ U.S. _, 114 S.Ct. 1588 (1994) ........... 
+
+
+Costello v. United States, 
+
+
+305 U.S. 265, 81 S.Ct. 534 (1961) ........... 
+
+
+Cowart v. Wicklos Drilling Co., 
+
+
+__ US. __, 112 S.Ct. 2589(1992) .......... 
+
+
+13 
+
+
+17 
+
+
+Craig Lyle Lid. Partnership v. Land O'Lakes, Inc., 
+
+
+877 F.Supp. 476 (D. Minn. 1995).......... 22, 27 
+Hecht Co. v. Bowles, 
+
+321 U.S. 321, 64 S.Ct. 587 (1944) ....... 8, 13, 15 
+Johnson v. Kay, 
+
+860 F.2d 529 (2d Cir. 1988) .........-- ee ees 7 
+
+
+KFC Western, Inc. v. Meghrig, 
+49 F.3d 518 (9th Cir. 1995) ............ passim 
+
+
+Morrissey v. Bologna, 
+123 So.2d 537 (Miss. 1960), 
+
+
+cert. denied, 81 S.Ct. 1091 ...........25255- 13 
+Niecko v. EMRO Marketing Co., 
+
+769 F.Supp. 973 (E.D. Mich. 1991) .......... 23 
+Porter v. Warner Holding Co., 
+
+328 U.S. 395, 66 S.Ct. 1086 (1946) ........... 8 
+Gwaltney of Smithfield, Lid. v. Chesapeake Bay 
+Foundation, Inc., 
+
+484 U.S. 49, 108 S.Ct. 376 (1987) ............ 8 
+United States v. Aceto Agricultural Chemicals Corp., 
+
+872 F.2d 1373 (8th Cir. 1989) ............ 20, 21 
+United States v. Conservation Chemical Company, 
+
+619 F.Supp. 162 (W.D. Mo. 1985) ........... 18 
+United States v. Dickerson, 
+
+640 F.Supp. 448 (D. Md. 1986) .............. 18 
+United States v. Mottolo, 
+
+605 F.Supp. 898 (D.N.H. 1985)............. 18 
+
+iv 
+
+
+United States v. Reilly Tar and Chemical Co., 
+$46 F.Supp. 1100 (D. Minn. 1982)........... 17 
+
+
+Wilshire Westwood Associates v. Atlantic Richfield 
+Corp. 
+
+
+881 F.2d 801 (9th Cir. 1989)............... 23 
+Winston v. Shell Oil, 
+
+861 F.Supp. 713 (C.D.Ill. 1984) ............ 27 
+Wyandotte Transp. Co. v. United States, 
+
+389 U.S. 191, 88 S.Ct. 379 (1967) ........... 16 
+Zands v. Nelson, 
+
+779 F.Supp. 1254 (S.D. Cal. 1991) ......... 22, 27 
+
+STATUTES 
+
+Comprehensive Environmental Resource Conservation, 
+
+
+Liability and Recovery Act of 1980, 
+Pub. L. No. 96-510, codified at 42 U.S.C. § 9601, et seq. 3, 24 
+
+
+ween ee oe est eee ah 15, 22 
+a re ok PN ae 21 
+Hazardous and Solid Waste Amendments of 1984, 
+
+Pub.L. No. 98-616, 98 Stat. 3221 (1984) ........ 6, 17, 24 
+Resource Conservation and Recovery Act, 42 U.S.C. § 6901, ef 
+
+P66 Ober ee O04 06s bs Wee eedaecoeneeces 2 
+ee eee. ee wie 9 
+I a Tees TR a Hee. 3 9 
+42 U.S.C. §@O2I@NQNA) ..... «2.2 ee ee ee ee 24 
+
+
+42 U.S.C. § G921(DM 2B) .. ©. ee eee 24 
+
+
+42 U.S.C. § 6972(aM IMB) ... 2... ee eee eee ees passim 
+42 U.S.C. § GBT2(a) (1984)... ee eee 6 
+GOB. CETTE .cccccccctesccssecesecs 14, 15 
+42 U.S.C. 6 GOP1, BOR. 0 ccc cece cence 26 
+
+
+Superfund Amendment and Reauthorization Act of 1986, 
+Pub.L. No. 99-499, 100 Stat. 1613 (1986) ........... 17 
+
+
+La. R.S. 30:2271(4)(c)3, 15 
+
+
+Cal.Health & Safety Code § 25317 .... 2... ee eens 15 
+MISCELLANEOUS 
+
+Robert N. Aguilez, Refining CERCLA’s Petroleum 
+
+Exclusion, 7 TULANE ENV. L.J. 41, 64 (1993) ......... 26 
+27 Am Jur. 2d Equity § 1... 2... 66 ee eee 12 
+27 Am Jur. 2d Equity §2 ....- 66-6. eee ee eee 12 
+27 Am Jur. 2d Equity § 23... ©. 2 6 ee es 11 
+27 Am Jur. 2d Equity § 86 ©... ©. 6 ee es 12 
+27 Am Jur. 2d Equity § 87 .... 2. 2 es 12 
+27 Am Jur. 2d Equity § 104 ©... 2.1 ees 14 
+27 Am Jur. 2d Equity §119 ... 2.6.6 eee eee 18 
+27 Am Jur. 2d Equity § 120 ©... 2... eee ee 13 
+
+vi 
+
+
+fo eS se 12 
+ee) 13 
+
+
+James Baller, The Petroleum Exclusion - Stronger 
+Than Ever After Wilshire Westwood, 43 SOUTHWESTERN 
+
+
+ie DE ES BRU h eG eed et eersdetices 23 
+BLACK’S LAW DICTIONARY (6th ed. 1990) ......... 7, 12 
+GBR ie rere 13 
+Fe dah aes'e. 12 
+ES ae 13 
+GID es kc caccacenecwoes 11, 12 
+ne I 2 ar ae) a te ced d 11 
+ae al a al a ae 13 
+ee 18 
+Rn 13 
+SD on esc cca ce ccccececns 17 
+I 7 
+126 Cong. Rec. H11,976 (Dec. 3, 1980) ............ 24 
+130 Cong. Rec. $2028 (Feb. 29, 1984) ............, 27 
+S. COOKE, THE LAW OF HAZARDOUS WASTE (1995) ... . . 21 
+
+
+EPA, Clarification of the Regulatory Determination 
+for Wastes from the Exploration Development and 
+
+
+vii 
+
+
+Production of Crude Oil, Natural Gas and Geothermal 
+Energy, 58 Fed. Reg. 15,284 (March 22, 1993) ........ 26 
+
+
+EPA, EXECUTIVE SUMMARIES, REPORT TO CONGRESS: 
+MANAGEMENT OF WASTES FROM THE EXPLORATION, 
+DEVELOPMENT, AND PRODUCTION OF CRUDE OIL, 
+
+NATURAL GAS, AND GEOTHERMAL ENERGY, 
+
+PO. OPE GRP cme i se cesucsvnceevesensn 25 
+
+
+EPA General Counsel, Scope of CERCLA Petroleum 
+Exclusion Under Sections 101 (14) and 104(a)(2) 5 
+
+
+Ee CUTE chat e ad debecteesrdeevecneeve 23 
+50 Fed. Reg. 13,456 (April 4, 1985) ...........565.. 23 
+51 Fed. Reg. 8,206 (March 10, 1986) .............. 23 
+
+
+House Conf. Rep. No. 96-1444, Joint Explanatory 
+Statement of the Committee of Conference, 
+
+
+reprinted in 1980 U.S.C.C.A.N. 5019, S031... ....... 25 
+RESTATEMENT OF RESTITUTION (1937) .............. 13 
+WEBSTER’S NEW COLLEGIATE DICTIONARY (1979) ....... 7 
+
+
+Vili 
+
+
+No. 95-83 
+
+
+In The 
+
+
+Supreme Court of the United States 
+
+
+October Term, 1995 
+
+
+ALAN MEGHRIG and MARGARET MEGHRIG, 
+Petitioners, 
+vs. 
+
+
+KFC WESTERN, INC., 
+» Respondent. 
+
+
+On Writ of Certiorari to the United States 
+Court of Appeals For the Ninth Circuit 
+
+
+BRIEF FOR THE STATE OF LOUISIANA 
+THROUGH ITS DEPARTMENT OF 
+TRANSPORTATION AND DEVELOPMENT 
+AS AMICUS CURIAE IN SUPPORT OF RESPONDENT 
+
+
+INTEREST OF THE AMICUS CURIAE 
+
+
+The Louisiana Department of Transportation and 
+Development ("DOTD"), an agency of the State of Louisiana 
+charged with the construction and maintenance of highways, 
+frequently encounters hazardous waste in the rights-of-* ay that it 
+has purchased or expropriated. Typically, when such materials are 
+discovered during highway construction, compliance with 
+Louisiana and federal environmental laws necessitates immediate 
+
+
+cessation of construction, pending investigation and/or remediation 
+of the site. When construction is stopped, DOTD is usually 
+obligated under industry-standard highway construction contracts 
+to pay “delay damages” to the contractors building the highways. 
+DOTD incurs significant costs when forced to delay construction 
+to comply with environmental laws. 
+
+Once a site is determined to contain hazardous materials, 
+DOTD must decide whether to remediate immediately at its own 
+expense in order to minimize the threat to human health and the 
+environment as well as the contractual delay damages, or to permit 
+the threat to remain unabated and to incur significantly greater 
+delay damages by allowing the highway construction site to remain 
+closed until the responsible parties are identified and mandated to 
+remediate the site. 
+
+DOTD has consistently and reasonably opted in favor of 
+the former by remediating sites as quickly as possible and then 
+recommencing highway construction. To date, DOTD has 
+encountered approximately forty (40) sites at which remediation 
+costs have been incurred. DOTD estimates that it has spent tens 
+of millions of state taxpayer funds and federal matching dollars in 
+remediating these sites. This money would otherwise have been 
+used to repair Louisiana's highways, complete unfinished 
+highways, or construct new highways. DOTD cannot 
+overemphasize the fact that it is in no way responsible for the 
+presence of the hazardous materials at these sites. Moreover, it is 
+suggested that the highway departments of the other forty-nine (49) 
+States may be similarly situated with respect to environmental 
+remediation, and that the combined financial cost to the nation’s 
+taxpayers is staggering. 
+
+DOTD is aggressively pursuing responsible parties to 
+recover the funds that DOTD has spent on remediation of the 
+hazardous waste it has encountered. The holding of the United 
+States Court of Appeals for the Ninth Circuit in the present case 
+confirms that the Resource Conservation and Recovery Act 
+("RCRA"), 42 U.S.C. § 6901 ef seq., confers upon private 
+citizens, including government agencies, the valuable right to 
+recover the costs of remediation from the parties who are truly 
+
+
+responsible for the presence of the hazardous materials. KFC 
+Western, Inc. v. Meghrig, 49 F.3d 518, 521 (9th Cir. 1995). 
+
+DOTD’s ability to recover these costs will be seriously 
+jeopardized if this Honorable Court does not affirm the Ninth 
+Circuit’s holding. Louisiana is a major petroleum-producing state, 
+with large petroleum refining and petrochemical industries. 
+Therefore, the “petroleum exclusion" contained in_ the 
+Comprehensive Environmental Response, Compensation, and 
+Liability Act ("CERCLA"), 42 U.S.C. § 9601 et seq., 42 U.S.C. 
+§ 9601(14), and Louisiana’s analogous state environmental law, 
+La. R.S. 30:2271(4)(c), may render recovery of remediation 
+expenses at many sites difficult or impossible. Furthermore, as the 
+Ninth Circuit noted, state "common law” remedies (which are 
+necessarily statutory under Louisiana’s civil law system), such as 
+nuisance, trespass, negligence, and breach of warranty, are 
+severely limited as a result of the difficulties of proof, short 
+statutes of limitation, and the fact that the hazardous materials 
+present at the sites were usually placed there by or with the 
+acquiescence of the former owners of the property. 
+
+DOTD fully intends to continue to act in the best interest 
+of the public health and the environment, but its funds are not 
+unlimited, particularly in light of the current trend toward reducing 
+governmental budgets. The facts of the present case involve only 
+a party who has encountered hazardous waste in a single instance. 
+Many entities encounter hazardous waste sites repeatedly, such as 
+state highway departments, other government agencies, land 
+development companies, and gas or power companies when 
+constructing pipelines or power transmission lines. Such entities 
+cannot fund environmental remediation indefinitely, without 
+restitution of these funds. Precluding recovery of these funds by 
+DOTD (and other entities that encounter hazardous waste 
+repeatedly) will therefore ultimately thwart efforts to curtail 
+endangerment to human health and the environment, because such 
+entities will no longer be able to afford to remediate these sites. 
+
+Accordingly, DOTD respectfully represents to this 
+Honorable Court that it will suffer significant losses if the opinion 
+below is not affirmed. Specifically, DOTD will be left without an 
+adequate state, federal, or equitable remedy for recovery of the 
+
+
+3 
+
+
+state and matching federal dollars that it has expended in 
+remediating hazardous waste for which other parties should be 
+responsible under RCRA. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The plain language of RCRA'’s citizen suit provision, 
+conferring authority upon the courts to “restrain” responsible 
+parties, to order such parties to “take such other action as may be 
+necessary,” or “both,” clearly authorizes not only mandatory and 
+prohibitory injunctive relief, but also restitutionary relief. Given 
+RCRA's beneficial purpose of speedy remediation of hazardous 
+waste sites presenting a threat to the public health or the 
+environment, the “most natural” interpretation of the residual 
+power is that it authorizes the courts to require the parties 
+responsible for the improper disposal of hazardous waste to repay 
+others who have remediated the contaminated sites in question. 
+This interpretation maximizes private citizens’ incentive to 
+remediate and minimizes the delay within which remediation may 
+be performed. 
+
+Citizens’ suits under RCRA invoke the courts’ traditional 
+~ powers of eyuity, and therefore courts may order the equitable 
+remedy of restitution pursuant to RCRA. Equity may require 
+repayment by a person whose duty to the public has been 
+performed by another, because equity resolves disputes in 
+accordance with the principles of justice and fairness. Justice 
+would be frustrated if an innocent party were forced to bear the 
+ultimate responsibility for and cost of remediating hazardous waste 
+properly attributable to another party. Moreover, there is no 
+functional difference between requiring a responsible party to 
+remediate a site, which Petitioners admit is permissible, and 
+requiring such a person to repay another who has already 
+remediated the site. 
+
+RCRA expressly preserves all of the citizen's suit 
+plaintiff's rights to relief, including equitable relief. Thus, the 
+courts’ authority to order the responsible parties to take “such 
+other action as may be necessary” includes equitable relief, and the 
+
+
+remedy of restitution should be available to citizen's suit plaintiffs, 
+in the proper circumstances. 
+
+Furthermore, the "imminent and substantial endangerment” 
+necessary to give rise to liability under RCRA’s citizen's suit 
+provision need exist only at the time remediation is undertaken, 
+because any other interpretation would frustrate the purposes for 
+which the citizen's suit provision was enacted. 
+
+Finally, it is irrelevant to the propriety of claims for 
+recovery of remediation expenditures under RCRA whether 
+recovery is also permissible under CERCLA. CERCLA does not 
+preempt the field of remediation or recovery of remediation 
+expenditures. RCRA and CERCLA are entirely independent 
+statutes, and therefore, even if the leaded gasoline at issue in the 
+present case is properly exempted from CERCLA as a result of 
+CERCLA’s petroleum exclusion, recovery of KFC’s remediation 
+expenditures under RCRA is proper because RCRA contains no 
+such restriction. 
+
+
+ARGUMENT 
+
+
+I. SECTION 6972(A)(1)(B) OF RCRA PROVIDES PRIVATE 
+CITIZENS WITH THE RIGHT TO RESTITUTION FROM THE 
+RESPONSIBLE PARTIES FOR THE COSTS OF REMEDIATING 
+HAZARDOUS WASTE. 
+
+
+A. Remediation Expenditures May Be Recovered 
+Pursuant to the RCRA Citizen's Suit Provision. 
+
+
+RCRA, prior to its amendment in 1984, authorized private 
+citizens to file suit only to “enforce [a] regulation or order, or to 
+order the Administrator to perform such act or duties as the case 
+may be.” 42 U.S.C. § 6972(a) (1984). The 1984 amendments 
+substantially broadened the scope of the citizen’s suit provision by 
+adding subsection 6972(a)(1)(b), pursuant to which a citizen may 
+obtain a court order: 
+
+
+to restrain any person who has contributed or who 
+is contributing to the past or present handling, 
+storage, treatment, transportation, or disposal of 
+any solid or hazardous waste [which may present 
+an imminent and substantial endangerment to 
+health or the environment], to order such person to 
+take such other action as may be necessary, or 
+both. 
+
+
+Hazardous and Solid Waste Amendments of 1984, Pub.L. No. 98- 
+616, 98 Stat. 3221 § 402, codified at 42 U.S.C. § 6972(a)(1)(B). 
+
+The Ninth Circuit in its opinion in the present case held 
+that the relief contemplated by the phrase, "... such other action as 
+may be necessary,” includes restitutionary relief, such as 
+repayment by the responsible party of the costs of remediation 
+incurred by the citizen’s suit plaintiff. KFC, 49 F.3d at 521. 
+Petitioners, however, argue that RCRA's citizen's suit provision 
+authorizes only injunctive relief, and only with respect to an 
+"imminent endangerment" in existence at the time suit is filed. 
+Brief for the Petitioner at 13-18, Meghrig v. KFC Western, Inc., 
+
+
+6 
+
+
+__ U.S. __ (19__) (No. 95-83) ("Petitioners’ Brief"). Petitioners’ 
+interpretation of the statute is unduly narrow, and supported by 
+neither RCRA’s language nor its purpose. 
+
+
+1. The Plain Language of the Citizen’s Suit Provision 
+Authorizes Restitutionary Relief. 
+
+
+Judicial inquiry as to the proper interpretation of a statute 
+must end with its language when the meaning is clear. Cowart v. 
+Wicklos Drilling Co., _ U.S. ___, 112 S.Ct. 2589, 2594 (1992). 
+RCRA’s citizen’s suit provision authorizes courts to award 
+plaintiffs three (3) forms of relief: (1) "... to restrain any person"; 
+(2) "... to order such person to take such other action as may be 
+necessary"; or (3) "both." 42 U.S.C. § 6972(a)(1)(B). The plain 
+language of the statute, authorizing courts to order any action that 
+is "necessary", logically includes the restitutionary relief sought by 
+KFC because the definition of “necessary” is not limited by the 
+language of the provision to injunctive relief. 
+
+The relief contemplated by the authorization "... to restrain 
+any person" indisputably includes injunctive relief, as Petitioners 
+concede. Petitioners’ Brief at 14. Injunctive relief includes both 
+prohibitory injunctions, which preserve the status quo, and 
+mandatory injunctions, which disturb the status quo by ordering 
+affirmative relief. Johnson v. Kay, 860 F.2d 529, 541 (2d Cir. 
+1988); 43 C.J.S. Injunctions § 7 ("an injunction is mandatory or 
+[prohibitive] according to whether it directs a person to do a 
+particular thing or to refrain from doing an act"); BLACK’s LAW 
+DICTIONARY 784-85 (6th ed. 1990). 
+
+To "restrain" means to “prevent from doing" or to “limit, 
+restrict, or keep under control.” WEBSTER’S NEW COLLEGIATE 
+DICTIONARY 979-80 (1979). The retrospective language contained 
+in the citizen’s suit provision authorizing a court to order restraint 
+of “any person who has contributed ... to the past ... handling, 
+storage, treatment, transportation, or disposal of any solid or 
+hazardous waste" that presents an imminent and substantial 
+endangerment to health or the environment, is expressly directed 
+to past conduci. 42 U.S.C. § 6972(a)(1)(B) (emphasis added). An 
+order issued with respect to such conduct would necessarily require 
+
+
+7 
+
+
+affirmative action to abate the endangerment because the person to 
+whom such an order would be issued would no longer be doing 
+anything that could be prohibited. Consequently, the authorization 
+to "restrain" includes the power to issue a mandatory injunction 
+ordering a responsible party to remediate the endangerment. 
+
+Accordingly, both prohibitory and mandatory relief is 
+contemplated by the phrase, "... to restrain any person,” and 
+therefore the phrase, "... such other action as may be necessary,” 
+may not reasonably be interpreted, as Petitioners urge, Petitioners’ 
+Brief at 14, merely to restate the authorization of mandatory 
+injunctive relief already provided by the former phrase. See Porter 
+v. Werner Holding Co., 328 U.S. 395, 399, 66 S.Ct. 1086, 1089 
+(1946); Hecht Co. v. Bowles, 321 U.S. 321, 328, 64 S.Ct. 587, 
+591 (1944) (authority to grant injunctive relief or “other order” 
+contemplates a remedy other than an injunction, including equitable 
+relief). Such redundancy is particularly unlikely to represent 
+Congressional intent in light of the final words of the sentence, “or 
+both.” The inclusion of these words indicates unequivocally that 
+the preceding phrases represent alternative remedies, and that 
+neither constitutes a reiteration of the other. Rather, further relief 
+is clearly authorized. 
+
+Contrary to Petitioners’ arguments, Petitioners’ Brief at 35, 
+the Ninth Circuit has not created a new right of action by 
+implication with its decision in this case; it has simply recognized 
+an alternative remedy already provided by Congress. 
+
+
+2. The Purposes For Which RCRA Was Enacted Are 
+Advanced By An Interpretation of the Citizen's 
+Suit Provision Permitting Recovery of Remediation 
+Expenditures. 
+
+
+When the language of a statute is ambiguous, a court must 
+adopt the “most natural" interpretation of that provision. Gwaltney 
+of Smithfield, Ltd. v. Chesapeake Bay Foundation, Inc., 484 US. 
+49, 57, 108 S.Ct. 376, 381 (1987). As in all cases of statutory 
+construction, the words of the statute must be interpreted in light 
+
+
+of the purposes Congress sought to serve. Chapmu. v. Houston 
+Welfare Rights Org., 441 U.S. 600, 608, 99 S.Ct. 1905, 1911 
+
+
+(1979). Therefore, even if the language of RCRA’s citizen's suit 
+provision were ambiguous, its proper interpretation may be 
+ascertained only by reference to the purposes for which RCRA and 
+its citizen's suit provision were enacted. 
+
+One of RCRA'’s stated purposes is to “assurfe] that 
+hazardous waste management practices are conducted in a manner 
+which protects human health and the environment." 42 U.S.C. § 
+6902(a4). Hazardous waste disposed of in a manner that 
+endangers health or the environment violates this policy, and must 
+not be permitted to remain unabated. Further, Congress 
+established in RCRA a national goal of protecting the public from 
+the dangers associated with improper handling of hazardous wastes, 
+by stating that: 
+
+
+The Congress hereby declares it to be the national 
+policy of the United States that, wherever feasible, 
+the generation of hazardous waste is to be reduced 
+or eliminated as expeditiously as possible. Wastes 
+that are nevertheless generated should be treated, 
+stored or disposed of so as to minimize the present 
+and future threat to human health and the 
+environment. 
+
+
+42 U.S.C. § 6902(b). This Honorable Court, too, has recognized 
+that RCRA’s goals are to encourage resource recovery and protect 
+against contamination. City of Chicago v. Environmental Defense 
+Fund, _U.S. _., 114 S.Ct. 1588, 1594 (1994). Clearly, these 
+goals are best and most fully achieved when hazardous waste 
+constituting an imminent endangerment is remediated as quickly as 
+possible. 
+
+The purposes for which RCRA was enacted are also 
+furthered by an interpretation of the phrase "... such other action" 
+to include restitution of remediation costs to a citizen's suit plaintiff 
+by the parties responsible for the presence of the waste. Such an 
+interpretation encourages innocent parties to remediate 
+contaminated land voluntarily, secure in the knowledge that they 
+will be repaia by those responsible. Landowners will be more 
+willing to remediate imminent endangerments with respect to which 
+
+
+9 
+
+
+federal, state, and local environmental authorities have declined to 
+take action, whether as a result of resource constraints or for other 
+reasons, if the landowners can expect to recover their costs. Even 
+more importantly, permitting such recovery speeds the process of 
+abating the dangers presented by hazardous waste, because 
+from the responsible parties. These benefits would be lost if the 
+phrase were interpreted as sthorizing only injunctive relief. 
+Under the latter interpretation, the danger presented by the waste 
+would continue to threaten the public health and the environment 
+until responsible parties could be identified, sued, and mandated to 
+remedy the problem. 
+
+Given RCRA's purpose of ameliorating the problems posed 
+by the improper disposal of hazardous waste, and the fact that this 
+purpose is best advanced by interpreting the statutory language to 
+include the award of restitutionary relief, interpreting the citizen's 
+suit provision, "... such other action as may be necessary,” as 
+authorizing recovery of remediation expenditures is the “most 
+natural” reading of that passage. 
+
+
+3. Plaintiffs Are the Intended Beneficiaries of the 
+Citizen's Suit Provision. 
+
+
+permissible only to supplement the regulatory role of the federal 
+government as private “attorneys general” or “enforcers” of 
+RCRA. Petition for Writ of Certiorari at 28, Meghrig v. KFC 
+Western, Inc, _ US. _ (19__) (No. 95-83) ("Petition for 
+Writ"). This position is flatly contradicted by the language of 
+RCRA’s citizen's suit provision, which states that “any person may 
+commence a civil action on his own behalf..." 42 U.S.C. § 
+6972(a)1)(B). While RCRA as it existed prior to 1984 permitted 
+a private citizen to sue only to enforce an order or regulation, the 
+addition of the language of Subsection 6972(a)(1)(B) 
+unambiguously grants to private citizens a right of redress, and not 
+merely a responsibility to be exercised charitably for the good of 
+all humanity or not at all. Accordingly, private citizens may 
+
+
+10 
+
+
+| 
+
+
+benefit as a result of pursuing their claims under RCRA, to the 
+extent of recouping their remediation expenses. 
+
+Furthermore, the word “necessary” in the phrase, “... such 
+other action as may be necessary,” refers to the citizen bringing the 
+suit, as the phrase occurs in the section entitled “Citizens’ Suits.” 
+42 U.S.C. § 6972. The relief that may be awarded thereunder 
+should be that which is necessary to citizen's suit plaintiffs, i.e., 
+that which is necessary to restore them to their original positions. 
+
+
+4. The Reasonableness of Remediation Expenditures 
+Pursuant to RCRA Can Be Assessed Adequately. 
+
+
+Petitioners also argue that RCRA’s lack of a mechanism 
+for determining which of the remediation expenditures by plaintiffs 
+are recoverable indicates that RCRA was not intended to be used 
+as a cost recovery vehicle. Petitioners’ Brief at 24. This position 
+is untenable, because the determination whether expenditures are 
+recoverable under RCRA can be made in the same manner as in 
+any other area of the law, through the traditional means of 
+hearings, expert testimony, introduction of evidence as to the 
+reasonableness of the expenditures, and the application of 
+
+
+remedy, as discussed infra, and therefore only “reasonable” or 
+“fair” expenditures may be recovered thereunder. 27 AM. JUR. 2D 
+Equity §23; 30A C.J.S. Equity §§ 94-95. Significant remedial 
+activity has been undertaken throughout the United States in recent 
+years, primarily as a result of the impact of CERCLA and RCRA, 
+creating a large body of knowledge regarding the cost and 
+character of appropriate remediation expenditures. Experts in 
+remediation and remediation technology can opine on the basis of 
+knowledge and experience as to the necessity or reasonableness of 
+particular remediation procedures. Moreover, CERCLA’s National 
+Contingency Plan provides a valuable yardstick against which a 
+finder of fact can measure the reasonableness of remediation 
+undertaken pursuant to RCRA. The absence of a statutory scheme 
+
+
+within RCRA by which to determine whether remediation 
+expenditures were proper is irrelevant to the propriety of 
+permitting the recovery of such expenditures. 
+
+Finally, permitting RCRA citizen's suit claims with respect 
+to underground storage tanks ("USTs") will not, as Petitioners 
+allege, Petition for Writ at 17, remove such claims improperly and 
+en masse from state to federal court. The RCRA citizen’s suit 
+provision authorizes recovery of remediation expenditures only 
+with respect to “imminent endangerments,” 42 U.S.C. § 
+6972(a(1)(B), and therefore only suits in which there is an 
+imminent endangerment can be shifted to federal court from state 
+court. The federal courts will not be overwhelmed by remediation 
+claims because only a fraction of hazardous waste sites present an 
+imminent endangerment within the meaning of RCRA. 
+Additionally, it must be remembered that RCRA causes of action 
+may be sued upon in state court. More importantly, however, it 
+would be inappropriate to interpret a statute in a particular manner 
+purposefully to ensure that fewer citizens will be able make use of 
+it, especially when the statute has a purpose as beneficial as the 
+remediation of imminent endangerment to human health or the 
+environment. 
+
+
+B. Equity Permits Restitution of Remediation 
+ee fo ae ap? 
+t. 
+
+
+KFC may also obtain restitution of its remediation 
+expenditures pursuant to the courts’ broad, inherent authority in 
+
+
+equity. 
+
+_ Equity is a system of jurisprudence that resolves disputes 
+according to the dictates of justice, or fairness, rather than 
+according to the strictly formulated rules of the common law. 27 
+AM. JuR. 2D Equity §§ 1, 121; BLACK’s LAW DICTIONARY 540 
+(6th ed. 1990). Equity applies when the law does not provide an 
+adequate remedy, and proceeds flexibly, case-by-case and on a 
+highly fact-specific basis, as fairness necessarily depends heavily 
+upon the particular facts of a given situation. See 27 AM. JuR. 2p 
+Equity §§ 2, 86-87; 30A C.J.S. Equity §§ 20, 94. 
+
+
+12 
+
+
+Equitable relief, in the form of equitable restitution of 
+remediation expenditures, is available in the context of a RCRA 
+citizen's suit action. The award of equitable restitution is properly 
+awarded through the courts’ inherent equitable power to do justice, 
+as well as under the statutory language preserving the right to 
+equitable relief pursuant to RCRA itself. 
+
+
+1. The Courts Have the Inherent Power to Apply the 
+General Principles of Equity and to Provide 
+
+
+Where there is statutory law, equity follows the law. 27 
+AM. Jur. 2D Equity § 123; 30A C.J.S. Equity § 118. 
+Nevertheless, even when an area of substantive law is addressed by 
+statute, the courts retain their inherent jurisdiction in equity unless 
+the statute specifically restricts that jurisdiction. Porter, 328 U.S. 
+at 39°: 30A C.J.S. Equity § 6(c). Equity goes beyond the statute 
+to provide the necessary remedy when the given legal procedure is 
+inadequate, provided that it is just to do so. Bollinger and Boyd 
+Barge Services, Inc. v. Motor Vessel, Captain Claude Bass, 576 
+F.2d 595, 597-98 (Sth Cir. 1978); and Morrissey v. Bologna, 123 
+So.2d 537, 543 (Miss. 1960), cert. denied, 81 S.Ct. 1091. Equity 
+will not suffer a wrong to be without a remedy. 27 AM. JUR. 2D 
+Equity § 120; and 30A C.J.S. § 120. 
+
+The equitable remedy of restitution, or repayment for costs 
+expended, is available when a person performs another’s duty to 
+the public, even without the other’s knowledge or consent, when 
+the former intends to charge the latter for the services, and the 
+performance is necessary to the public safety. RESTATEMENT OF 
+RESTITUTION §§ 114, 115 (1937). Restitution should be granted 
+when good conscience demands it. Hecht, 321 U.S. at 326; Blood 
+v. Fleming, 161 F.2d 292, 296 (10th Cir. 1947); 30A CJS. 
+Equity § 93. Conscience demands that the party who causes harm 
+should pay to remedy the damage. Accordingly, under the proper 
+circumstances, equity will require that the party who is responsible 
+for the creation of an imminent and substantial endangerment must 
+remediate the hazardous waste causing the danger. Petitioners 
+
+
+13 
+
+
+admit that this result is proper in the context of a citizen's suit 
+under RCRA. Petition for Writ at 11. 
+
+The next logical step, however, is to require the 
+responsible party to repay the innocent citizen who actually 
+undertook the remediation. There is no logical or functional 
+difference between payment for remediation and repayment to an 
+innocent third person who has paid for the remediation; the same 
+result of requiring the person causing the harm to bear the expense 
+of remediating the damage is obtained either way. Thus, 
+restitution represents the fair and equitable resolution required by 
+good conscience, and it is an appropriate equitable remedy under 
+RCRA. 
+
+Repayment is simply shifting the burden of remediation 
+back to the party who is ultimately responsible for the presence 
+(and therefore the remediation) of the hazardous waste. Such 
+restitution is more nearly akin to repayment of a debt than to 
+payment of damages. Thus, in the present case, KFC seeks only 
+repayment of a debt due as a result of KFC having paid for 
+remediation that should have been paid by the Meghrigs (assuming 
+for purposes of this case, as we must, that the factual allegations 
+of KFC’s Complaint are true). 
+
+Furthermore, courts go much further to provide relief in 
+furtherance of the public interest than when purely private interests 
+are involved. 27 AM. JUR. 2D Equity § 104. The compelling 
+public interest in speedy remediation of hazardous waste is a 
+critical consideration supporting the award of restitutionary relief 
+in the present case. 
+
+
+2. The Language of RCRA Evidences the Availability 
+of Equitable Restitution. 
+
+
+Two separate components of RCRA’s citizen’s suit 
+provision evidence Congressional intent to allow courts to retain 
+their traditional powers of equity with respect to citizen suits, and 
+to provide the equitable relief that justice demands. 
+
+First, 42 U.S.C. § 6972(f) provides that: 
+
+
+14 
+
+
+Nothing in this section [the citizen’s suit provision] shall 
+restrict any right which any person (or class of persons) 
+may have under any statute or common law to seek 
+enforcement of any standard or requirement relating to the 
+management of so'id waste or hazardous waste, or to seek 
+any other relief (including relief against the Administrator 
+or a State agency). 
+
+
+Subsection 6972(f) clearly leaves available to the courts the ability 
+to provide “any other relief,” including equitable relief. This 
+language does not preclude the exercise of the court’s equitable 
+powers, but rather explicitly preserves such remedies. 
+
+Second, the passage describing the relief that may be 
+awarded, "... such other action as may be necessary,” 42 U.S.C. 
+§ 6972(a)(1)(B), is broad and open-ended. The citizen's suit 
+provision indisputably confers the ability to award injunctive relief, 
+an equitable remedy. See Hecht, 321 U.S. at 329. However, 
+injunctions represent only one of the permissible forms of relief 
+available in equity. Limiting the interpretation of this phrase to 
+injunctive relief would be reading into the statute restrictions that 
+do not exist. The statute does not limit the type of relief available, 
+but instead specifically provides for authority to require responsible 
+parties to take “other actions”. 
+
+The Ninth Circuit’s observation that KFC would be denied 
+all right to recover its costs of remediation if RCRA is not 
+construed to provide such relief, KFC, 49 F.3d at 524, is entitled 
+to considerable weight. Petroleum and its fractions are unregulated 
+under CERCLA and many state hazardous substance laws, 
+including those of California and Louisiana. 42 US.C. § 
+9601(14); Cal.Health & Safety Code § 25317; La. RS. 
+30:2271(4)(c). The hazardous waste in question in the present case 
+was gasoline, a petroleum product, and therefore recovery may be 
+difficult or impossible to obtain under CERCLA and analogous 
+state laws. 
+
+Further, as the Ninth Circuit properly recognized, the tort 
+remedies that are available to plaintiffs in KFC’s position are 
+largely inadequate, because of short statutes of limitation, 
+difficulties of proof, and court delays. KFC, 49 F.3d at 523. 
+
+
+15 
+
+
+Moreover, negligence is nearly impossible to prove, given the 
+historical standards for hazardous waste disposal, many-of which 
+are unsatisfactory according to modern disposal standards, and the 
+difficulty of establishing the reasonableness of waste disposal 
+methods decades in the past. Trespass and nuisance causes of 
+action are useless in many or most of these cases because the 
+hazardous waste was usually placed on the property by its owner 
+at the time or by a person otherwise privileged to do so. As 
+CERCLA does not apply to sites contaminated by hazardous waste 
+comprised of petroleum or petroleum fractions, potentially 
+including gasoline, regardless of the extent of the threat to human 
+health or the environment posed thereby, such sites may be 
+remediated only through RCRA. Thus, the need to encourage 
+remediation of petroleum-derived hazardous waste through RCRA 
+is particularly compelling. 
+
+As further noted by the Ninth Circuit, precluding recovery 
+of remediation expenses under RCRA would deprive “the very 
+citizens who most deserve the remedy, namely innocent citizens, 
+like KFC,” of the right to restitution of expenditures for 
+compliance with the environmental laws with respect to 
+environmental hazards that they did not create. KFC, 49 F.3d at 
+523. Instead, the persons who actually generated, transported, or 
+disposed of the hazardous waste would be fully insulated from 
+liability for their actions, and the entire cost of their actions would 
+fall upon innocent parties. Restitution is available to prevent 
+wrongdoers from shifting responsibility for the consequences of 
+their actions onto innocent victims. Wyandotte Transp. Co. v. 
+United States, 389 U.S. 191, 204, 88 S.Ct. 379, 387 (1967). 
+
+Equity demands fairness. Equity gives the courts the 
+power to decide each case on its individual merits, and to avoid 
+harsh results when broad and far-reaching rules of law are applied 
+to a narrow set of facts. The manifest injustice caused by allowing 
+the responsible party to escape liability while burdening the 
+innocent party with all costs of remediation can be avoided by the 
+reasonable application of the principles of equity to the specific 
+facts of each RCRA case. 
+
+
+16 
+
+
+3. Reason Leads to the Logical Conclusion That 
+Because the Equitable Defense of Laches Is 
+Available, the Equitable Remedy of Restitution 
+Must Also Be Available. 
+
+
+Petitioners argue that because RCRA contains no statute of 
+limitations, it must not provide for a restitutionary remedy. The 
+Ninth Circuit, however, recognized that laches would be available 
+to limit the time within which a citizen could bring an action under 
+RCRA. KFC, 49 F.3d at 522. Acknowledgment of the 
+availability of the equitable defense necessarily requires 
+acknowledgment of the availability of equitable remedies. 
+
+Laches is an equitable mechanism by which enforcement 
+of a right is pretermitted wh. its exercise would unjustly cause 
+injury to the defendant as a result of inexcusable delay or lack of 
+diligence on the part of the person asserting the right. Costello v. 
+United States, 305 U.S. 265, 282, 81 S.Ct. 534, 543 (1961); and 
+30A C.J.S. Equity §§ 129. Determining whether the doctrine of 
+laches should bar a claim requires consideration of all of the 
+circumstances of a particular case. See Citizens and Landowners 
+Against the Miles City/New Underwood Powerline v. Secretary, 
+United States Department of Energy, 683 F.2d 1171 (8th Cir. 
+1982); and United States v. Reilly Tar and Chemical Co., 546 
+F.Supp. 1100 (D. Minn. 1982). 
+
+Petitioners contrast RCRA with CERCLA, in order to 
+support their argument that only CERCLA provides for recovery 
+of remediation costs. Petitioners’ Brief at 23. CERCLA, unlike 
+RCRA, expressly provides a statute of limitations for citizens’ 
+suits. Petitioners ignore the fact that CERCLA, as it was enacted 
+in 1980, also lacked a specific statute of limitations with respect to 
+recovery of remediation expenditures. For six years, CERCLA 
+actions for cost reimbursement were not subject to a statute of 
+limitations. Congress did not enact a statute of limitations for 
+CERCLA until the Superfund Amendment and Reauthorization Act 
+of 1986. Pub. L. No. 99-499, 100 Stat. 1613 (1986). 
+
+Several cases interpreting CERCLA as it existed prior to 
+the 1986 amendment addressed the issue of whether a time 
+limitation existed for cost recovery under CERCLA, and each 
+
+
+17 
+
+
+determined that the exercise of these rights was limited by laches. 
+The court in United States v. Mottolo, 605 F.Supp. 898, 909 
+(D.N.H. 1985) held that, prior to its amendment, CERCLA 
+contained no statute of limitations with respect to actions for 
+recovery of remediation costs, but that the doctrine of laches 
+would be applied instead because a cost reimbursement action 
+under CERCLA is essentially equitable in nature. The court 
+further held that the doctrine of laches does not apply to suits 
+brought by a federal or state government in its sovereign capacity. 
+Id. Thus, prior to the addition of a statute of limitations on cost 
+recovery actions, there was no limit on the time within which a 
+government could pursue cost recovery under CERCLA. See also 
+United States v. Dickerson, 640 F Supp. 448, 451 (D. Md. 1986) 
+(adopting same); and United States v. Conservation Chemical 
+Company, 619 F.Supp. 162, 213 (W.D. Mo. 1985). (adopting 
+same). 
+
+Amicus respectfully asserts that the equitable defense of 
+laches must be available under RCRA, as noted by the Ninth 
+Circuit, KFC, 49 F.3d at 522. Amicus further asserts that, 
+because the equitable defense is availabie to the benefit of 
+defendants, the equitable right to restitution must be available to 
+the plaintiff. The principles of equity do not permit advantage to 
+accrue to either party to a dispute. Bollinger, 576 F.2d at 598. 
+Equity must be equally available to all parties because “equity 
+delights in doing justice completely, and not by halves." 27 AM. 
+Jur. 2D Equity § 119; 30A C.J.S. Equity § 119. It would be 
+unfair for the defendant to obtain the benefit of equitable defenses 
+such as /aches if plaintiffs are not similarly afforded the benefits 
+
+
+of equity. 
+
+
+Il. THE "IMMINENT AND SUBSTANTIAL ENDANGERMENT" 
+Must Exist WHEN REMEDIATION Is INITIATED. 
+
+
+Petitioners interpret RCRA's authorization of citizens’ suits 
+for improper disposals of hazardous waste that "... may present an 
+imminent and substantial endangerment” to require the danger to 
+be imminent when suit is filed, rather than when remediation is 
+commenced. This strained and restrictive interpretation ignores 
+RCRA's express authorization of citizens’ suits concerning past 
+conduct, as well as the compelling public policy behind RCRA, as 
+discussed supra at Section 1(A). 
+
+Petitioners’ interpretation of RCRA would require 
+abatement of an imminent endangerment to await, at a minimum, 
+identification of the responsible parties, proper notice, and filing 
+of suit. Meanwhile, the potential danger to public health and the 
+environment would continue, and the harm threatened thereby 
+might actually come to pass. As noted by the Eight Circuit in the 
+context of the nearly identically-worded provision by which EPA 
+can file suit with respect to an “imminent and substantial 
+endangerment": 
+
+
+We agree with the district court, however, that 
+RCRA's “imminent and substantial endangerment” 
+language does not require the EPA to file and 
+prosecute its RCRA action while the endangerment 
+exists. As the district court aptly noted, this 
+would be an “absurd and unnecessary” 
+requirement. The endangerment language is 
+plainly intended by Congress to limit the reach of 
+RCRA to sites where the potential for harm is 
+great.... The purpose of [RCRA] is to ‘give broad 
+authority to the courts to grant all relief necessary 
+to ensure complete protection of the public health 
+and the environment’ (citations omitted). The 
+limitation urged by defendants [that the EPA must 
+file suit under RCRA prior to undertaking 
+remed.ation] would defeat this purpose. 
+
+
+19 
+
+
+United States v. Aceto Agricultural Chemicals Corp., 872 F.2d 
+1373, 1383 (8th Cir. 1989). 
+
+The absurdity of requiring private citizens to file suit prior 
+to remediating hazardous waste sites is similarly apparent, as such 
+a requirement would similarly defeat the compelling public policy 
+behind RCRA, i.e., the immediate remediation of imminent 
+endangerment. The words “imminent endangerment” entail a real 
+threat to human health or the environment, and the neutralization 
+of such threats would be severely impeded if remediation were 
+delayed by bureaucratic hurdles that are unnecessary under a 
+reasonable reading of the statute. 
+
+Under Petitioners’ interpretation of RCRA, those parties 
+who act promptly to address dangerous contamination would be 
+deprived of their remedy under RCRA, while the remedies of those 
+who chose to do nothing, or to litigate rather than remediate, will 
+be preserved. See Bayless Investmt. & Trading Co. v. Chevron 
+U.S.A., 39 E.R.C. (B.N.A.) 1428, 1432 (D.Ariz. 1994). The 
+statute should be read to avoid such an inappropriate result. 
+Petitioners’ interpretation of the RCRA citizen's suit provision is 
+neither the most natural reading nor the reading most conducive to 
+fulfillment of RCRA's purpose, and therefore constitutes an 
+impermissible curtailment of the relief available under RCRA. 
+
+
+Ill. RECOVERY OF REMEDIATION EXPENDITURES IS PROPER 
+UNDER RCRA REGARDLESS OF THE APPLICABILITY OF 
+CERCLA. 
+
+
+The Ninth Circuit stated in its opinion below that KFC 
+“has no remedy under CERCLA because CERCLA’s petroleum 
+exclusion covers refined petroleum products such as gasoline and 
+therefore bars a lawsuit to recover response costs occasioned by its 
+release.” KFC, 49 F.3d at 523 n.6. Petitioners and the Western 
+States Petroleum Association ("WSPA") as Amicus Curiae, argue 
+that recovery of remediation expenditures under RCRA is improper 
+because permitting such relief would nullify CERCLA’s petroleum 
+exclusion. Petitioners’ Brief at 25-26; Brief for the Western States 
+Petroleum Association as Amicus Curiae in Support of Petitioners 
+
+
+20 
+
+
+at 17, Meghrig v. KFC Western, Inc., U.S. ___ (19__) (No. 95- 
+83) (“WSPA Brief"). This argument is without merit. 
+
+RCRA and CERCLA were both enacted to address the 
+problem of hazardous materials discharged into the environment, 
+but they are independent statutory schemes. CERCLA does not 
+preempt the field of remediation or recovery of remediation 
+expenditures and CERCLA's applicability vel non is irrelevant to 
+the existence of a cause of action under RCRA. 
+
+
+A. CERCLA Has Not Preempted the Fields of 
+Remediation or Recovery of Remediation 
+
+
+Expenditures. 
+
+
+This Honorable Court should not construe CERCLA’s 
+explicit provision for recovery of the costs of remediation from the 
+parties ultimately responsible to preclude such recovery under 
+RCRA. Admittedly, CERCLA is primarily a clean-up statute (it 
+has been described as “overwhelmingly remedial" in nature, U.S. 
+v. Aceto Agricultural Chemicals Corp., 872 F.2d 1373, 1380 (8th 
+Cir. 1989)), while RCRA is primarily a regulatory statute (it has 
+been described as a "prospective cradle-to-grave regulatory regime 
+governing the movement of hazardous waste in our society,” /d. at 
+1377). Nevertheless, in light of RCRA’s authorization for private 
+citizens to pursue civil actions, recovery of the costs of remediation 
+of such hazardous waste from those ultimately responsible is also 
+appropriate under RCRA. 
+
+CERCLA explicitly states that "[t}his chapter [CERCLA] 
+does not affect or otherwise impair the rights of any person under 
+Federal, State, or common law,” with certain exceptions not 
+relevant here. 42 U.S.C. § 9659(h). Thus, CERCLA does not 
+provide the sole means of redress relative to matters regulated 
+thereunder. Although CERCLA is “the centerpiece of the federal 
+hazardous substance cleanup and liability program", S. COOKE, 
+THE LAW OF HAZARDOUS WASTE § 12.01(2) (1995), it is not the 
+only piece. CERCLA'’s existence in no way alters the availability 
+of other remedies under other statutes, including RCRA, the 
+common law, or equity. 
+
+
+21 
+
+
+B. CERCLA and RCRA Are Independent Statutes 
+Which Apply to Different Classes of “lazardous 
+Materials. 
+
+
+The terms “hazardous waste" and “hazardous substance”, 
+to which RCRA and CERCLA apply respectively, are not 
+coextensive; a material can meet the definition of one without 
+satisfying the definition of the other. A “hazardous substance” is 
+defined under CERCLA to include any material defined as a 
+“hazardous waste" under RCRA, except petroleum or a fraction 
+thereof, or natural or synthetic gas. 42 U.S.C. § 9601(14). Thus, 
+only RCRA, and not CERCLA, applies to hazardous waste 
+consisting of petroleum or petroleum fractions, and the exclusion 
+of CERCLA does not bar application of RCRA. Agricultural 
+Excess & Surplus Ins. Co. v. A.B.D. Tank & Pump Co., 878 
+F.Supp. 1091, 1097 (E.D. Ill. 1995); Craig Lyle Lid. Partnership 
+v. Land O'Lakes, Inc., 877 F.Supp. 476, 480-81 (D. Minn. 1995); 
+and Zands v. Nelson, 779 F.Supp. 1254, 1263 (S.D. Cal. 1991). 
+It would be unconscionable, as well as contrary to the language of 
+RCRA, to proscribe regulation of hazardous waste on the grounds 
+that RCRA cannot apply because CERCLA's petroleum exclusion 
+precludes regulation under CERCLA. Such an interpretation 
+would free petroleum and its fractions, including benzene, toluene, 
+and xylene, from all environmental regulation, despite the threat 
+to human health and the environment that such materials may pose. 
+
+
+C. RCRA Contains No Exclusion Comparable in 
+Scope or Substance to the CERCLA Petroleum 
+Exclusion. 
+
+
+CERCLA applies exclusively to “hazardous substances", 
+which are defined to exclude “petroleum, including crude oil or 
+any fraction thereof which is not otherwise listed or designated as 
+a hazardous substance under subparagraphs (A) through (F) of this 
+paragraph.” 42 U.S.C. § 9601(14). This exclusion is commonly 
+referred to as the “petroleum exclusion". 
+
+The United States Environmental Protection Agency 
+("EPA") has interpreted the CERCLA petroleum exclusion to apply 
+
+
+22 
+
+
+to materials such as crude oil and crude oil fractions, hazardous 
+substances indigenous to petroleum, such as benzene, and 
+indigenous, refinery-added hazardous substances that are normally 
+mixed with or added to crude oil or crude oil fractions during the 
+refining process. EPA General Counsel, Scope of CERCLA 
+Petroleum Exclusion Under Sections 101 (14) and 104(a)(2) 5 (July 
+31, 1987). EPA has stated that the petroleum exclusion does not 
+apply to hazardous substances that are added to oil during use. /d. 
+at 4, citing 50 Fed. Reg. 13,456 (April 4, 1985) and 51 Fed. Reg. 
+8,206 (March 10, 1986). The courts have largely followed EPA's 
+interpretation of the petroleum exclusion. E.g., Wilshire Westwood 
+Associates v. Atlantic Richfield Corp., 881 F.2d 801, 810 (9th Cir. 
+1989); and Niecko v. EMRO Marketing Co., 769 F Supp. 973, 982 
+(E.D. Mich. 1991). 
+
+The limited legislative history regarding the petroleum 
+exclusion is comprised primarily of concerns expressed by 
+members of Congress about the lack of authority under the bill to 
+respond to releases of petroleum. James Baller, The Petroleum 
+Exclusion - Stronger Than Ever After Wilshire Westwood, 43 
+SOUTHWESTERN L.J. 915, 918 (1990). Typical of these concerns 
+are the comments of Representative Mikulski of Maryland: 
+
+
+I realize that it is disappointing to see no 
+oil-related provision in the bill, but we must also 
+realize that this is our only chance to get 
+hazardous waste dump site cleanup legislation 
+enacted. | would note that we have had assurances 
+from Members of the Senate that an oilspill 
+proposal would be considered a very high 
+legislative priority in the 97th Congress. 
+
+Moreover, there is already a mechanism in 
+place that is designed to deal with spills in 
+navigable waterways. There is not, however, any 
+provision currently in our law that addresses the 
+potentially ruinous situations of abandoned toxic 
+waste dump sites. 
+
+I, therefore, believe that it is very 
+imperative that we pass the Senate bill as a very 
+
+
+23 
+
+
+important beginning in our attempt to defuse the 
+ticking environmental time bomb of abandoned 
+toxic waste sites. 
+
+
+126 Cong. Rec. H11,976 (Dec. 3, 1980). Thus, the CERCLA 
+petroleum exclusion was enacted as a compromise measure to 
+ensure the passage of a stopgap bill to begin the process of 
+regulating hazardous substances in circumstances, such as the 
+absence of a responsible party, to which RCRA did not apply at 
+the time. RCRA'’s authorization for citizen suits with respect to 
+imminent endangerments was added in 1984, Pub.L. No. 98-616 
+(1984), four years after CERCLA was enacted, Pub.L. No. 96-510 
+(1980). 
+
+RCRA also contains a “petroleum exclusion” of sorts, but 
+it is far more limited in scope than CERCLA’s petroleum 
+exclusion. Congress temporarily exempted from regulation under 
+RCRA all “drilling fluids, produced waters, and other wastes 
+associated with the exploration, development, or production of 
+crude oil or natural gas", pending investigation by EPA as to 
+whether regulation of these materials under RCRA was warranted. 
+42 U.S.C. § 6921(b)(2)(A), (B). This exemption is commonly 
+referred to as the “Bentsen exemption.” EPA eventually 
+determined that regulation of these materials under RCRA was 
+inappropriate, and the Bentsen exemption became a permanent part 
+of RCRA. 
+
+The legislative history of the exemption indicates that it 
+excludes from regulation only those wastes intimately associated 
+with the exploration for and initial recovery of oil, and nothing 
+more’ 
+
+
+The term “other wastes associated” is specifically 
+included to designate waste materials intrinsically 
+derived from primary field operations associated 
+with the exploration, development, or production 
+of crude oil, natural gas or geothermal energy. It 
+would cover such substances as: Hydrocarbon 
+bearing soil in and around related facilities, drill 
+cuttings; and material (such as hydrocarbons, 
+
+
+24 
+
+
+water, sand, and emulsion) produced from a well 
+in conjunction with crude oil, natural gas or 
+geothermal energy; and the accumulated material 
+(such as hydrocarbons, water, sand, and emulsior ) 
+
+The phrase “intrinsically derived from the 
+primary field operations” is intended to 
+differentiate exploration, development, and 
+production operations from transportation (from 
+_ the point of custody transfer or of production 
+separation and dehydration) from manufacturing 
+operations . 
+
+
+House Conf. Rep. No. 96-1444, Joint Explanatory Statement of the 
+Committee of Conference, reprinted in 1980 U.S.C.C.A.N. 5019, 
+
+
+5031. 
+
+Subsequently, EPA expanded on the distinction between 
+waste resulting from field operations and waste produced, stating 
+that: 
+
+
+wastes associated with such processes as oil 
+refining and petrochemical-related manufacturing 
+are not exempt because those processes are not an 
+integral part of primary field operations. 
+
+
+EPA, EXECUTIVE SUMMARIES, REPORT TO CONGRESS: 
+MANAGEMENT OF WASTES FROM THE EXPLORATION, 
+DEVELOPMENT, AND PRODUCTION OF CRUDE OIL, NATURAL GAS, 
+AND GEOTHERMAL ENERGY, Pt. 1, p. 7 n.1 (1987). Accordingly, 
+the Bentsen exemption applies only to hazardous waste that is: 
+
+
+associated with operations to locate or remove oil 
+or gas from the ground or to remove impurities 
+from such substances, and it must be intrinsic to 
+and uniquely associated with oil and gas 
+exploration, development or production operations 
+(commonly referred to simply as exploration and 
+
+
+25 
+
+
+production or E&P); the waste must not be 
+generated by transportation or manufacturing 
+operations. 
+
+
+EPA, Clarification of the Regulatory Determination for Wastes 
+from the Exploration Development and Production of Crude Oil, 
+Natural Gas and Geothermal Energy, 58 Fed. Reg. 15,284 (March 
+22, 1993). 
+
+Thus, the RCRA Bentsen exemption does not create a 
+blanket exemption of all petroleum-related substances from 
+RCRA’s ambit. Rather, it is a narrow exemption, the purpose of 
+which is merely to except from RCRA hazardous waste produced 
+by oil and gas exploration and production activities. 
+
+The court of appeals below did not even discuss whether 
+the leaded gasoline discharged onto the property falls within the 
+Bentsen exemption, and the foregoing discussion of EPA's 
+interpretation of the exemption renders it apparent that the 
+exemption does not apply to leaded gasoline, a refined petroleum 
+product that is well-removed from exploration and production 
+activities. 
+
+The scope of the CERCLA petroleum exclusion is much 
+more broad than that of the RCRA Bentsen exemption, in that it 
+applies to all petroleum fractions, rather than merely to substances 
+used for oil and gas exploration and development. Moreover, 
+according to its plain meaning, as well as its interpretation by 
+Congress and EPA, the Bentsen exemption does not encompass 
+refined petroleum products, such as the leaded gasoline at issue in 
+the present case, regardless of whether such products fall within 
+the CERCLA petroleum exclusion. 
+
+
+D. Leaking Underground Gasoline Storage Tanks Are 
+Regulated Pursuant to RCRA. 
+
+
+When Congress addressed the problem of leaking 
+underground gasoline storage tanks in 1984, it did so not by 
+amending CERCLA and its petroleum exclusion, but by amending 
+RCRA explicitly to permit regulation of leaking USTs. 42 U.S.C. 
+§ 6991, et seq. ("Subtitle I"). See Robert N. Aguilez, Refining 
+
+
+26 
+
+
+CERCLA’s Petroleum Exclusion, 7 TULANE ENV. L.J. 41, 64 
+(1993), citing Amoco Oil Co. v. Borden, Inc., 889 F.2d 664, 667 
+(Sth Cir. 1989). Thus, Congress has clearly indicated its 
+willingness to regulate disposal of petroleum-derived substances 
+through RCRA, regardless of the exclusion of these substances 
+from CERCLA’s regulatory scheme. 
+
+WSPA raises two issues with respect to USTs. First, 
+WSPA implies that citizens cannot file suit under RCRA with 
+respect to leakage of gasoline from USTs because gasoline is not 
+“waste” within the meaning of RCRA. WSPA Brief at 11, citing 
+130 Cong. Rec. $2028, S2080 (daily ed., Feb. 29, 1984) 
+(comments of Sen. Durenberger). Most courts that have examined 
+the issue, however, have held that leaked gasoline is a waste 
+material. Agricultural Excess, 878 F.Supp. at 1095; Craig Lyle, 
+877 F.Supp. at 482; and Zands, 779 F.Supp. at 1262. C/,, 
+Winston v. Shell Oil, 861 ©.Supp. 713, 716 (C.D.Ill. 1984). 
+
+WSPA also notes ' at Subtitle | contains no cost recovery 
+mechanism. WSPA Brief at 11. This point is irrelevant because 
+Subtitle I is part of RCRA, and RCRA’s citizen suit provision 
+authorizes suit for any “imminent and substantial endangerment" , 
+as discussed supra at section I(A), including threats caused by 
+violation of Subtitle 1. 42 U.S.C. § 6972(a)(1)(B). 
+
+Accordingly, by providing for the regulation of USTs 
+under Subtitle I of RCRA, Congress has clearly indicated that the 
+CERCLA petroleum exclusion does not preclude regulation under 
+RCRA of gasoline that has leaked from USTs, when an imminent 
+endangerment to human health and the environment is presented 
+
+
+thereby. 
+
+
+27 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, Amicus respectfully urges this 
+Honorable Court to affirm the decision of the United States Court 
+of Appeals for the Ninth Circuit recognizing that, under proper 
+circumstances, the RCRA citizen's suit provision authorizes courts 
+to order a party responsible for the disposal of hazardous waste 
+which creates an imminent and substantial endangerment to health 
+and the environment to repay an innocent party who has 
+remediated the contamination in question. 
+
+
+Respectfully submitted: 
+
+
+Lawrence A. Durant 
+General Counsel 
+
+Counsel of Record 
+
+James M. Bookter 
+
+Senior Attorney 
+
+Office of General Counsel 
+Louisiana Department of 
+Transportation and 
+Development 
+
+P.O. Box 94245 
+
+Baton Rouge, Louisiana 70000 
+(504) 379-1207 
+
+
+Charley Hutchens 
+
+Suite 105 
+
+412 West University 
+Lafayette, Louisiana 70506 
+(318) 237-4102 
+
+Special Counsel 
+
+
+December 8, 1995 
+
+
+William M. Hudson, III 
+Edgar D. Gankendorff 
+Robert A. Mahtook, Jr. 
+Victoria A. Guidry 
+Lawrence E. Marino 
+OaTS & HUDSON 
+
+Suite 400 
+
+Gordon Square 
+
+100 East Vermilion Street 
+Lafayette, Louisiana 70501 
+(318) 233-1100 
+
+Special Counsel 
+
+
+Counsel for Amicus Curiae 
+State of Louisiana 
+
+Through Its Department of 
+Transportation and 
+Development 
+
+

@@ -1,0 +1,1043 @@
+NO. 95-83 
+
+
+SUPREME COURT OF THE UNITED STATES 
+OCTOBER TERM, 1995 
+
+
+ALAN MEGHRIG AND MARGARET MEGHRIG 
+Petitioners, 
+
+
+V. 
+
+
+KFC WESTERN, INC. 
+Respondent. 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+BRIEF OF KAUFMAN AND BROAD 
+HOME CORPORATION AND KAUFMAN AND 
+BROAD - SOUTH BAY, INC. 
+
+AS AMICI CURI/E IN OPPOSITION TO PETITION 
+FOR WRIT OF CERTIORARI 
+
+
+William N. Kammer 
+Counsel of Record 
+Gray Cary Ware & Freidenrich 
+A Professional Corporation 
+401 B Street, Suite 1700 
+San Diego, California 92101 
+619-699-2711 
+
+
+Counsel for Kaufman and Broad Home 
+Corporation and Kaufam and Broad - 
+
+
+South Bay, Inc. 
+
+
+NO. 95-83 
+
+
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+OCTOBER TERM, 1995 
+
+
+ALAN MEGHRIG AND MARGARET MEGHRIG 
+Petitioners, 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+BRIEF OF KAUFMAN AND BROAD 
+HOME CORPORATION AND KAUFMAN AND 
+BROAD - SOUTH BAY, INC. 
+
+AS AMICI CURIAE IN OPPOSITION TO PETITION 
+FOR WRIT OF CERTIORARI 
+
+
+William N. Kammer 
+Counsel of Record 
+Gray Cary Ware & Freidenrich 
+A Professional Corporation 
+401 B Street, Suite 1700 
+San Diego, California 92101 
+619-699-2711 
+
+
+Counsel for Kaufman and Broad Home 
+Corporation and Kaufam and Broad - 
+
+
+STATEMENT OF INTEREST OF AMICI CURIAE .. 3 
+
+
+SUMMARY OF ARGUMENT ............... 4 
+
+
+I THE NINTH CIRCUIT CORRECTLY 
+DETERMINED THAT THE RCRA CITIZEN SUIT 
+PROVISION AUTHORIZES PRIVATE PARTIES 
+TO SEEK EQUITABLE RESTITUTION OF THEIR 
+RESPONSE COSTS .. 0... eeeccvccees 6 
+
+
+A. The Broad Grant of Authority in RCRA Section 
+7002(a)(1)(B) Allows a Court to Order a Party to 
+Make Equitable Restitution ............. 6 
+
+
+B. Analysis of RCRA Section 7002(a) in Relation to 
+RCRA Section 7003 Confirms That Private Parties 
+Are Entitled to Restitution of Their Response 
+
+
+ll THE NINTH CIRCUIT CORRECTLY 
+DETERMINED THAT KFC SATISFIED THE 
+"IMMINENT AND SUBSTANTIAL 
+
+
+TABLE OF AUTHORITIES 
+Page 
+CASES 
+
+Bayless Investment & Trading Co. v. Chevron U.S.A. 
+
+39 Env't Rep. Cas. (BNA) 1428 
+
+RR ep er ee 14 
+C.B.S.. Inc, v, ASCAP 
+
+320 F. Supp. 389 (S.D.N.Y. 1970) ....... 9 
+Californi —y C 
+
+Ee a 7 
+Cort v. Ash 
+
+RRS Se 8 
+Gwaltney v, Chesapeake Bay Found. 
+
+484 U.S. 49 (1987) ............ 12, 13, 14 
+Hatco Corp, v. W.R. Grace & Co,--Conn, 
+
+859 F. Supp. 769 (D.N.J. 1994) ......... 9 
+Hecht Co, v, Bowles 
+
+I nd oe 7 
+KFC Western, Inc, v. Meghrig 
+
+
+49 F.3d 518, 523 
+(9th Cir. 1995) ........ 3, 4, 10, 11, 13, 14 
+
+
+Kaufman and Broad-South Bay, Inc, v. Unisys 
+Corporation et al. 
+No. C-92-20677 
+822 F. Supp. 1468 (N.D. Cal. 1993) ..... 3,4 
+
+
+Linodin Pimeiited 0h Mind 
+24 Env't.L.Rep. 10491 
+
+
+GR GE TRUE sc wee ecccccccccccsn 9 
+
+
+Middlesex County Bd, of Chosen Freeholders v. N.J. 
+645 F. Supp. 715 (D.N.J. 1986) ........ 11 
+
+
+Middl ( s Leth y Notions! 
+Sea Clammers Ass'n 
+i SG SE ee 8, 13 
+
+
+Porter v. Wamer Holding Co, 
+a 7 
+
+
+Thaler v. PRB Metal Products, Inc. 
+810 >. Supp. 49 (E.D.N.Y. 1993) ....... 9 
+
+
+United $ Agric, C) C 
+872 F.2d 1373 (8th Cir. 1989) . 5, 11, 12, 13, 14 
+
+
+Ueleed 8 ; etd 
+619 F. Supp. 162 (W.D. Mo. 1985) ..... 12 
+
+
+United States v. Long 
+537 F.2d 1151 (4th Cir. 1975), cert. denied, 
+Gey es PE CUPPED cc ccccccccceseces 10 
+
+
+iv 
+
+
+United States v, Mottolo 
+605 F. Supp. 898 (D.N.H. 1985) ........ 9 
+United States v. Northeastern 
+Pharmaceutical & Chem, Co, 
+
+
+810 F.2d 726 (8th Cir. 1986), cert. denied, 
+484 U.S. 848 (1987) .........4-. 5, 9, 12 
+
+
+United States v. Price 
+688 F.2d 204 (3d Cir. 1982) ..... 5, 9, 12, 14 
+
+
+United States v. Valentine 
+856 F. Supp. 627 (D. Wyo. 1994) ...... 10 
+
+
+United States vy. Whiting Milk Co, 
+21 F. Supp. 321 (D. Mass. 1937), 
+
+
+aff'd sub nom., H.P Hood & Sons, Inc, v. 
+United States, 97 F.2d 677 (1st 
+Cir. 1938), aff'd, 307 U.S. 588 (1939) ..... 9 
+
+
+STATUTES 
+33 U.S.C. section 1365(a) of the Federal Water 
+Pollution Control Act ..........0500065 8 
+Protection, Research and Sanctuaries Act ..... s 
+a err 10 
+
+
+42 U.S.C. section 6972(a) 2... we ee ee 5, 6 
+
+
+Vv 
+
+
+42 U.S.C. section 6972(a)(1)(B) .......... 2, 3,4 
+GUA CNG. cc ccc eteccccwons 5, 10 
+5 UA, GRIEF cc ccc tccccccecces 7 
+le ee ee 5, 10 
+Section 7002(a) of RCRA ......... 6, 7, 8, 10, 11 
+Section 7002(a)(1)(B) of RCRA .... 2,3, 4, 6, 8, 13 
+Section 7003 of RCRA ........... 5, 10, 11, 12 
+Section 1066@) CF CHROLA 2. nc cc cc ccccccces 7 
+MISCELLANEOUS 
+
+
+H.R. Rep. No. 198, 98th Cong., 2d Sess., 
+Pt I, 53 (1983) (1984 U.S.C.C.A.N. 5576) .. 11 
+
+
+S. Rep. No. 284, 98th Cong., Ist Sess., 
+56-57 (1983) (1984 U.S.C.C.A.N. 5576) ... 11 
+
+
+J. Martin Robertson, "Restitution Under RCRA 
+§ 7002(a)(1)(B): The Courts Finally Grant 
+What Congress Authorized,” 
+25 Env't.L.Rep. 10491 (September 1995) 6, 11, 12 
+
+
+NO. 95-83 
+
+
+IN THE 
+Supreme Court of the United States 
+OCTOBER TERM, 1995 
+
+
+ALAN MEGHRIG AND MARGARET MEGHRIG 
+Petitioners, 
+
+
+On Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Ninth Circuit 
+
+
+BRIEF OF KAUFMAN AND BROAD HOME 
+CORPORATION AND KAUFMAN AND BROAD - 
+SOUTH BAY, INC. AS AMICI CURIAE IN 
+OPPOSITION TO PETITION FOR WRIT OF 
+CERTIORARI 
+
+
+Kaufman and Broad Home Corporation and Kaufman and 
+Broad-South Bay, Inc. (collectively "Kaufman and Broad") 
+respectfully submit this amici curiae brief in opposition to the 
+Petition for Certiorari. Kaufman and Broad have obtained 
+the consent of the parties as provided for in Rule 37 of the 
+rules of this court. See Appendix A. 
+
+
+2 
+STATUTES INVOLVED 
+
+
+Title 42 of the United States Code, section 6972(a)(1)(B), 
+also known as section 7002(a)(1)(B) of the Resource Conservation 
+
+
+and Recovery Act (RCRA), provides in pertinent part: 
+
+
+Except as provided in subsection (6) or (c) of this 
+section, any person may commence a civil action 
+on his own behalf— 
+
+
+(1)(B) against any person, including the United 
+States, and any other governmental instrumentality 
+or agency, to the extent permitted by the eleventh 
+amendment to the Constitution, and including any - 
+past or present generator, past or present 
+transporter, or past or present Owner or operator 
+of a treatment, storage, or disposal facility, who 
+has contributed or who is contributing to the past 
+or present handling, storage, treatment, 
+transportation, or disposal of any solid or 
+hazardous waste which may present an imminent 
+and substantial endangerment to health or the 
+environment; 
+
+
+The district court shall have jurisdiction, without 
+regard to the amount in controversy or the 
+citizenship of the parties . . . to restrain any 
+person who has contributed or who is contributing 
+to the past or present handling, storage, treatment, 
+transportation, or disposal of any solid or 
+hazardous waste referred to in paragraph (1)(B), to 
+
+
+3 
+
+
+order such person to take such other action as may 
+be aecessary, or both... . 
+
+
+42 U.S.C. section 6972(a)(1)(B). 
+
+
+STATEMENT OF INTEREST OF AMICI CURIAE 
+
+
+Kaufman and Broad-South Bay, Inc. is a real estate 
+development company that developed for residential use 
+approximately one hundred acres of real property in Milpitas, 
+California. After discovering that hundreds of barrels of toxic 
+waste had been dumped and buried on the property years before by 
+others, Kaufman and Broad-South Bay spent over $26 million to 
+remedy the dangerous conditions at the site. Kaufman and Broad- 
+South Bay, Inc. is a wholly owned subsidiary of Kaufman and 
+Broad Home Corporation. Subsidiaries of Kaufman and Broad 
+Home Corporation develop homes throughout the State of 
+California. In October, 1992, Kaufman and Broad-South Bay filed 
+an action in the United States District Court for the Northern 
+District of California, captioned Kaufman and Broad-South Bay. 
+Inc. vy. Unisys Corporation, et al., No. C-92-20677 EFL, which 
+remains pending in that court. On May 7, 1993, in an order 
+published at 822 F. Supp. 1468 (N.D. Cal. 1993), the district court 
+dismissed that portion of Kaufman and Broad-South Bay, Inc.'s 
+complaint that seeks restitution of response costs under 
+section 7002(a)(1)(B) of RCRA, 42 U.S.C. section 6972(a)(1)(B). 
+
+
+Petitioners here seek review of a decision of the United 
+States Court of Appeals for the Ninth Circuit that expressly 
+“disapprove(s} of the reasoning used by district courts that have 
+dismissed complaints brought under section 6972(a)(1)(B) to the 
+extent the plaintiffs sought reimbursement of clean-up costs.” KFC 
+Western. Inc. vy. Meghrig, 49 F.3d 518, 523 (9th Cir. 1995). In 
+the ruling challenged here, the Ninth Circuit specifically identifies 
+
+
+4 
+
+
+the district court order dismissing Kaufman and Broad-South Bay's 
+claim for restitution of response costs as one of the two decisions 
+it criticized. Accordingly, the Ninth Circuit's decision, which is 
+binding on the United States District Court for the Northern 
+District of California, makes it clear that the order dismissing 
+Kaufman and Broad-South Bay, Inc.'s claim for equitable 
+restitution of its response costs cannot stand. 
+
+
+On July, 25, 1995, Kaufman and Broad-South Bay, Inc. 
+moved the district court to reinstate its claim for restitution of 
+response costs under section 7002(a)(1)(B) of RCRA in light of the 
+Ninth Circuit's decision.’ If the Ninth Circuit's decision is 
+reversed in this case, Kaufman and Broad-South Bay, Inc. will lose 
+an important means of recovering from the responsible parties the 
+millions of dollars it has spent to remedy dangerous environmental 
+contamination that it did not create. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+This case involves the construction of the citizen suit 
+provision set forth in section 7002(a)(1)(B) of RCRA, codified at 
+42 U.S.C_ section 6972(aX1B). The Ninth Circuit, in 
+determining what it described as “a question of first impression,” 
+ruled below that “the RCRA citizen suit provision authorizes a 
+private plaintiff to collect restitution of clean-up costs.” KFC 
+Western, Inc, v. Meghrig, 49 F.3d 518, 520 (9th Cir. 1995). Th. 
+
+
+' See Kaufman and Broad-South Bay. Inc, v. Unisys 
+Snapeanien,. 2... SS. C-92-20677 EFL, Plaintiff's Motion 
+Reconsideration Or, In the Alternative, A Motion 
+to Amend Its Complaint to Reinstate Claim 
+Against Unisys Corporation and In Support 
+Plaintiff's Motion to Add Claim for Restitution Against 
+Trucking Companies (N.D. Cal. July 25, 1995). 
+
+
+By Way of 
+for Leave to 
+Restitution 
+
+
+5 
+
+
+Ninth Circuit's decision is consistent with decisions of the Third 
+and Eighth Circuits interpreting identical language found in section 
+7003 of RCRA, codified at 42 U.S.C. section 6973. See United 
+States v. Aceto Agric, Chems, Corp,, 872 F.2d 1373 (8th Cir. 
+1989); United States v. Northeastern Pharmaceutical & Chem. Co., 
+810 F.2d 726 (8th Cir. 1986), cert. denied, 484 U.S. 848 (1987); 
+United States v. Price, 688 F.2d 204 (3d Cir. 1982). No United 
+States Court of Appeals has decided to the contrary.’ 
+
+
+As the consistent federal appellate authority supporting the 
+decision below attests, the Ninth Circuit's determination is clearly 
+
+
+correct. The RCRA citizen suit provision is expressly directed to 
+past conduct and expressly permits a court to order a party 
+responsible for endangering health or the environment “to take such 
+other action as may be necessary." 42 U.S.C. section 6972(a). 
+This statutory language provides clear authority for a court to order 
+a responsible party to make equitable restitution to those who have 
+addressed and alleviated the dangerous condition. Contrary to 
+Petitioners’ arguments, the Ninth Circuit has not created a new 
+right of action by implication; it has simply recognized that the 
+right of action already provided by Congress permits an order of 
+equitable restitution. Petitioners do not attempt to argue why the 
+identical language in RCRA sections 7002 and 7003 should be 
+interpreted inconsistently, nor do Petitioners distinguish or even 
+address substantively the Third and Eighth Circuit decisions cited 
+above. 
+
+
+? Petitioners attempt to create a circuit conflict by relying on the 
+self-interested assessment of an oral argument before the 
+Eighth Circuit to support the assertion that the decision below 
+"Will Likely Also Conflict With [An] Impending Eighth 
+Circuit Decision.” Petition, at 9-10, 21. Petitioners cannot 
+manufacture a conflict, however, merely by a wishful look at 
+their ouija board. 
+
+
+6 
+
+
+Accordingly, the petition for a writ of certiorari should be 
+denied. 
+
+
+THE NINTH CIRCUIT CORRECTLY DETERMINED 
+THAT THE RCRA CITIZEN SUIT PROVISION 
+AUTHORIZES PRIVATE PARTIES TO SEEK 
+EQUITABLE RESTITUTION OF THEIR RESPONSE 
+COSTS 
+
+
+A. The Broad Grant of Authority in RCRA Section 
+7002(a)(1)(B) Allows a Court to Order a Party to Make 
+
+
+Equitable Restitution. 
+
+
+Section 7002(a) of RCRA, 42 U.S.C. section 6972(a), 
+expressly confers on the district courts the power to order persons 
+who have caused or contributed to contamination “to take such 
+other action as may be necessary." This broad equitable 
+jurisdiction includes the authority to grant restitution and injunctive 
+relief to private parties faced with contamination that may present 
+an endangerment to the environment or human health.’ Unless 
+specifically limited, Congress’ grant of equitable jurisdiction to the 
+courts is not restricted but is presumed to include all of the 
+traditional equitable powers that the courts have historically 
+exercised. As this Court has stated: 
+
+
+> Congress’ broad grant of equitable jurisdiction under RCRA 
+
+Section 7002(a)(1)(B) is discussed in detail in a forthcoming 
+
+article. See J. Martin Robertson, “Restitution Under RCRA 
+
+. § 7002(a)(1)(B): The Courts Finally Grant What Congress 
+»” 25 Env't.L.Rep. 10491 (September 1995). 
+
+
+ia 
+
+
+7 
+
+
+Unless a statute in so many words, or by a 
+necessary and inescapable inference, restricts the 
+court's jurisdiction in equity, the full scope of that 
+jurisdiction is to be recognized and applied. “The 
+great principles of equity, securing complete 
+justice, should not be yielded to light inferences, 
+or doubtful construction.” 
+
+
+Porter v, Warner Holding Co,, 328 U.S. 395, 398 (1946) (quoting 
+Brown v. Swann, 35 U.S. 497 (1836)). Accord California v. 
+
+
+American Stores Co,, 495 U.S. 271, 295 (1990); Hecht Co. v, 
+Bowles, 321 U.S. 321, 329 (1944). 
+
+
+Nothing in section 7002(a)'s broad grant of jurisdiction, by 
+words or inference, limits the district courts’ jurisdiction to certain 
+kinds of equitable relief — for example, as Petitioners suggest, to 
+orders compelling “contamination cleanup” or to actions “required 
+to stabilize and/or eliminate the imminent and substantial 
+endangerment.” Petition, at 11-12. To the contrary, if Congress 
+had intended such a limitation, it would have been a simple matter 
+to draft the statute so that courts were limited to ordering only 
+“relief as may be necessary to abate such danger or threat," instead 
+of broadly providing that courts may order responsible parties to 
+take any mecessary action. (Cf. section 106(a) of the 
+Comprehensive Environmental Response, Compensation and 
+Liability Act (CERCLA), 42 U.S.C. section 9606(a) (authorizing 
+the President to require the Attorney General “to secure such relief 
+as may be necessary to abate such danger or threat"). To 
+paraphrase Petitioners, when Congress intends relief to be limited 
+to abatement, it expressly says so. Cf. Petition, at 18. In enacting 
+the RCRA citizen suit provision, Congress simply did not impose 
+the limitation that Petitioners now seek to engraft onto the statute. 
+Instead, it conferred on district courts the full power to grant any 
+appropriate equitable relief in light of the necessities of the case. 
+
+
+The Ninth Circuit's reliance on the plain language of the 
+citizen suit provision of section 7002(a)(1)(B) of RCRA also 
+destroys Petitioners’ argument that the decision below is 
+inconsistent with Middlesex County Sewerage Auth. v. National 
+Sea Clammers Ass'n, 453 U.S. 1 (1981). The questions addressed 
+‘ in Sea Clammers were “whether the FWPCA [Federal Water 
+Pollution Control Act] and MPRSA [Marine Protection, Research 
+and Sanctuaries Act] imply a private right of action independent of 
+their citizen suit provisions” and “whether all federal common-law 
+nuisance actions concerning ocean pollution now are pre-empted by 
+the legislative scheme contained in the FWPCA and MPRSA.” [d. 
+at 10-11. The Ninth Circuit, of course, neither implied a private 
+right of action independent of RCRA's citizen suit provision nor 
+relied upon federal common law. Instead, it concluded that the 
+RCRA citizen suit provision itself authorizes the award of equitable 
+restitution and did so by relying on language that Petitioners 
+concede has no counterpart in the FWPCA or MPRSA. Petition 
+at 16. See Federal Water Pollution Control Act, 33 U.S.C. 
+section 1365(a); Marine Protection, Research and Sanctuaries Act, 
+33 U.S.C. section 1415(g). Accordingly, the decision below is in 
+no way inconsistent with Sea Clammers.* 
+
+
+responsible parties is somehow the impermissible award of money 
+damages is also without merit. First, as indicated above, nothing 
+in the broad grant of authority set forth in RCRA section 7002(a) 
+Suggests that remedies are precluded if they can somehow be 
+analogized to awards of money damages. Courts have issued 
+mandatory injunctions requiring the payment of money on 
+
+
+* Because Congress expressly granted a right of action to private 
+parties through the citizen suit provision of RCRA, the 
+petitioners’ discussion of Cort v, Ash, 422 U.S. 66 (1975), is 
+also irrelevant. 
+
+
+9 
+
+
+numerous occasions. See United States v. Price, 688 F.2d 204, 
+213 (3d Cir. 1982), citing Crawford vy. University of North 
+Carolina, 440 F. Supp. 1047 (M.D.N.C. 1977); C.BS.. Inc. v. 
+ASCAP, 320 F. Supp. 389, 392 (S.D.N.Y. 1970); United States 
+vy. Whiting Milk Co,, 21 F. Supp. 321 (D. Mass. 1937), aff'd sub 
+nom., H.P Hood & Sons, Inc. v. United States, 97 F.2d 677 (ist 
+Cir. 1938), aff'd, 307 U.S. 588 (1939). See also Lincoln 
+Properties. Lid. v. Higgins, 24 Env't.L.Rep. 10491 (E.D. Cal. 
+1993). Second, the Eighth Circuit Court of Appeals and every 
+district court that has addressed the issue has held that a claim for 
+recovery of response costs under CERCLA, an environmental 
+statute like RCRA, is not an action at law for money damages but 
+is instead an equitable action. See United States v. Northeastern 
+Pharmaceutical & Chem, Co,, 810 F.2d 726, 749 (8th Cir. 1986) 
+(holding that when the government seeks response costs it is 
+"seeking equitable relief in the form of restitution or 
+reimbursement of the costs it expended in order to respond to the 
+health and environmental danger presented by hazardous 
+substances"). See also Hatco Corp, v. W.R. Grace & Co,—Conn., 
+859 F. Supp. 769, 774 (D.N.J. 1994), Thaler v. PRB Metal 
+Products, Inc,, 810 F. Supp. 49, 50 (E.D.N.Y. 1993) (both cases 
+applying the Northeastern rule to actions between private parties). 
+
+
+See also United States v. Mottolo, 605 F. Supp. 898, 912-13 
+(D.N.H. 1985) (citing seven cases that characterize recovery of 
+
+
+response costs under CERCLA as equitable relief). As stated by 
+the Fourth Circuit: 
+
+
+"[A] person obtains restitution when he is restored 
+to the position he formerly occupied either by the 
+return of something which he formerly had or by 
+the receipt of its equivalent in money.” Damages 
+on the other hand, are determined by reference to 
+the loss sustained by a victim as a result of 
+wrongful conduct on the part of another. 
+
+
+10 
+
+
+United States vy. Long, 537 F.2d 1151, 1153-54 (4th Cir. 1975), 
+cert. denied, 429 U.S. 871 (1976) (quoting Restatement of 
+Restitution section |, cmt. s, at 12 (1937)). See United States v. 
+Valentine, 856 F. Supp. 627, 636 (D. Wyo. 1994) (holding that 
+“contribution qualifies as a form of affirmative equitable relief that 
+would help eliminate the risks posed by toxic wastes"). 
+
+
+Accordingly, the Ninth Circuit's determination that 
+RCRA's citizen suit provision authorizes an award of restitution is 
+correct. 
+
+
+B. Analysis of RCRA Section 7002(a) in Relation to RCRA 
+Section 7003 Confirms That Private Parties Are Entitled to 
+Restitution of Their Response Costs. 
+
+
+In concluding that RCRA section 7002(a) authorizes 
+restitution orders in cases brought by private parties, the Ninth 
+Circuit relied on cases interpreting RCRA section 7003, codified 
+at 42 U.S.C. section 6973, which authorizes suits by the 
+Administrator of the United States Environmental Protection 
+Agency (EPA). The Ninth Circuit's analysis in this regard is so 
+compelling that Petitioners do not even attempt to rebut it. 
+
+
+As the Ninth Circuit pv .ited out, the language permitting 
+citizen suits in RCRA section 7002 is “substantially identical” or 
+“virtually identical” to the language in RCRA section 7003 
+authorizing the EPA to bring suit. KFC Western, Inc, v. Meghrig, 
+49 F.3d 518, 522-23 (9th Cir. 1995). In particular, both sections 
+expressly permit the district courts to order responsible persons “to 
+take such other action as may be necessary." 42 U.S.C. 
+sections 6972 and 6973. The congruence of statutory language is 
+no accident: in amending the citizen suit provision in 1984 to 
+authorize district courts “to take such other action as may be 
+necessary,” Congress intended that the new version of section 7002 
+
+
+confer upon private parties the right to bring actions “pursuant to 
+the standards of liability established under section 7003." H.R. 
+Rep. No. 198, 98th Cong., 2d Sess., Pt. 1, 53 (1983), reprinted in 
+1984 U.S.C.C.A.N. 5576, 5612. The Senate report contains 
+
+
+similar language: 
+
+
+These amendments are intended to allow citizens 
+exactly the same broad substantive and procedural 
+claim for relief which is already available to the 
+United State [sic] under section 7003 [citation 
+omitted]. Any differences in language between 
+these amendments and 7003 are not intended to 
+reflect a difference in the claims, but merely 
+clarify that citizens will have the same claim 
+presently available to the United States. 
+
+
+S. Rep. No. 284, 98th Cong., Ist Sess., at 56-57 (1983); cf. 1984 
+U.S.C.C.A.N. 5576, 5612.’ Accordingly, as the Ninth Circuit 
+recognized, there is “no principled reason to distinguish between 
+the relief available to the Administrator and that available to private 
+plaintiffs under the virtually identical provisions.” KFC Western, 
+Inc. v. Meghrig, 49 F.3d 518, 523 (9th Cir. 1995). See Middlesex 
+County Bd. of Chosen Freeholders v. N.J., 645 F. Supp. 715, 721 
+(D.N.J. 1986). Petitioners do not and cannot argue to the 
+contrary. Indeed, even the dissenting opinion below recognized 
+that section 7002(a) and section 7003 should be interpreted 
+consistently. Jd. at 524 n.1 (Brunetti, J., dissenting). 
+
+
+As the Ninth Circuit recognized, both the Third and Eighth 
+Circuits have held that the EPA is entitled to restitution of its 
+response costs when it brings an action under section 7003. United 
+
+
+* See also Robertson, supra, note 3, 25 Env't.L.Rep. 10491, 
+10492-93. 
+
+
+12 
+
+
+States v. Aceto Agric, Chems, Corp., 872 F.2d 1373, 1383 (8th 
+Cir. 1989); United States v. Northeastern Pharmaceutical & Chem. 
+Co,, 810 F.2d 726, 750 (8th Cir. 1986); United States v. Price, 
+688 F.2d 204, 214 (3d Cir. 1982). Accord, United States v. 
+Conservation Chem. Co,., 619 F. Supp. 162, 201 (W.D. Mo. 
+1985).° Because there can be “no principled reason” to distinguish 
+these holdings from the holding below, Petitioners would have to 
+argue that four separate decisions by three separate circuit courts 
+are wrong. Yet Petitioners do not even cite the Northeastern 
+Pharmaceutical & Chem. Co, and Price cases, and do not criticize 
+or discuss the Aceto case (except to conjecture that the Eighth 
+Circuit will ignore or distinguish it). Thus they cannot make this 
+showing. 
+
+
+Accordingly, the decisions interpreting RCRA section 7003 
+
+
+THE NINTH CIRCUIT CORRECTLY DETERMINED 
+THAT KFC SATISFIED THE “IMMINENT AND 
+SUBSTANTIAL ENDANGERMENT™” REQUIREMENT 
+
+
+Petitioners contend that RCRA's citizen suit provision may 
+never be used where the imminent and substantial endangerment 
+presented by the disposal of wastes has been remedied before suit 
+is filed. Petitioners argue that the Ninth Circuit's contrary holding 
+is barred by this Court's decision in Gwaltney v. Chesapeake Bay 
+Eound.,, 484 U.S. 49, 52, 67 (1987), which held that citizen suits 
+may not be brought for “wholly past violations” of the Clean Water 
+
+
+* See also Robertson, supra, note 3, 25 Env't.L.Rep 10491, 
+10492-93. 
+
+
+13 
+
+
+Act (CWA), formerly known as the Federal Water Pollution 
+Control Act (FWPCA). This argument is specious. 
+
+
+First, unlike the CWA/FWPCA provision, the RCRA 
+citizen suit provision expressly allows suits concerning past 
+conduct. . Indeed, Gwaltney itself specifically cited section 
+7002(a)(1)(b) of RCRA for the proposition that “Congress has 
+demonstrated in yet other statutory provisions that it knows how to 
+avoid this prospective implication by using language that explicitly 
+targets wholly past violations.” Gwaltney v. Chesapeake Bay 
+Eound., 484 U.S. 49, 52 (1987). Petitioners attempt to rely upon 
+Gwaltney for the proposition that “wholly past harms” (which, of 
+course, cannot be meaningfully distinguished from “wholly past 
+violations”) are not redressable under RCRA is little short of 
+breathtaking. 
+
+
+Second, as noted above with respect to Middlesex County 
+Sewerage Auth, v. National Sea Clammers Ass'n, 453 U.S. | 
+(1981), the citizen suit provision of the CWA/FWPCA does not 
+contain the critical language allowing a court to order “such other 
+action as may be necessary.” Accordingly, Gwaltney, like Sea 
+Clammers, cannot be relied on to dictate a limiting construction of 
+that language. Contrary to Petitioners’ assertions, the statutory 
+language actually used in RCRA does matter, and the significant 
+differences between this language and the provisions of other 
+environmental statutes precludes an attempt to fabricate an 
+overarching “history” or “purpose” of citizen suits (Petition at 13- 
+14, 28) that overrides the express statutory text. 
+
+
+Both the Eighth and the Ninth Circuits have concluded that 
+the “imminent and substantial endangerment” language limits the 
+sites as to which a RCRA action can be filed, not the time at which 
+such an action should be filed. KFC Western, Inc. v. Meghrig, 49 
+F.3d 518, 521 (9th Cir. 1995); United States v. Aceto Agric. 
+
+
+14 
+
+
+Chems. Corp,, 872 F.2d 1373, 1383 (8th Cir. 1989). Petitioners 
+do not cite a single authority to the contrary; instead, they rely 
+solely on Gwaltney for their argument that a RCRA suit is barred 
+when the imminent and substantial endangerment has been 
+addressed before suit is filed. Because there is no dispute here that 
+the site has posed an “imminent and substantial endangerment,” 
+RCRA was appropriately utilized with respect to the contamination 
+at the site. 
+
+
+As the Ninth Circuit recognized, adopting Petitioners’ 
+position in this regard would be “unfair and poor public pol. * 
+KFC Western, Inc. v. Meghrig, 49 F.3d 518, 523 (9th Cir. 1995). 
+Those parties that act promptly to address dangerous contamination 
+will be deprived of their RCRA remedy while those who choose to 
+do nothing, or to litigate rather than remediate, will have that 
+remedy preserved. See Bayless Investment & Trading Co. v. 
+Chevron U.S.A., 39 Env't Rep. Cas. (BNA) 1428, 1432 (D. Ariz. 
+1994). In short, Petitioners "would foreclose a RCRA remedy for 
+the innocent buyers who clean up contaminated property.” KFC 
+Western, Inc, v. Meghrig, 49 F.3d 518, 524 (9th Cir. 1995). 
+They would also eliminate vital incentives for parties to engage in 
+cleanup activity. Recognizing a cause of action for restitution 
+following cleanup is the only way of implementing Congress's 
+intent “to confer upon the courts the authority to grant affirmative 
+equitable relief to the extent necessary to eliminate any risks poses 
+by toxic wastes.” United States v. Price, 688 F.2d 204, 214 (3d 
+Cir. 1982). 
+
+
+15 
+CONCLUSION 
+
+
+For all these reasons, the petition for a writ of certiorari to 
+review the judgment and opinion of the United States Court of 
+Appeals for the Ninth Circuit in this case should be denied. 
+
+
+DATED: cima 1995 : 
+
+WILLIAM N. KAMMER 
+
+COUNSEL OF RECORD 
+
+GRAY CARY WARE & FREIDENRICH 
+A Professional Corporation 
+
+401 B Street, Suite 1700 
+
+San Diego, California 92101 
+619-699-2711 
+
+
+i 
+
+
+COUNSEL FOR KAUFMAN AND BROAD 
+HOME CORPORATION AND KAUFMAN 
+AND BROAD - SOUTH BAY, INC. 
+
+
+A-l 
+APPENDIX A 
+MCCLINTOCK} WESTON 
+BENSHOOF | ROCHEFORT 
+RUBALCAVA! MACCUISH 
+
+
+arroanwtrys at v.aw 
+
+
+August 11, 1995 
+
+
+Chulho Song 
+
+Gray, Cary, Ware & Freidenrich 
+‘Ol B Street, Suite 1700 
+
+San Diego, CA 92101-4297 
+
+
+Re: Alan and Margaret Meghrigs v. KFC Western, Inc. 
+Dear Mr. Song: 
+
+
+In response to your request, petitioners Alan and 
+Margaret Meghrig consent to the filing of an amicus curiae brief by 
+Kaufman & Broad Home Corporation and Kaufman & Broad South Bay, 
+Inc. in opposition to the Petition for Writ of Certiorari. 
+
+
+444 South Flower Svea: Los Angeles Teleprore Facumile 
+Forty Thera Floor Callorn-e 9007" 29362) 2322 213 623 C826 - 
+
+
+A-2 
+APPENDIX A 
+
+
+DANIEL ROMANO 
+Attorney At Law 
+100 Wilshire Boulevard, Suite 1300 
+Santa Monica, Califorma 90401 
+(310) 451-4959 - Office 
+(310) 260-5090 - Telecopy 
+
+
+August 9, 1995 
+
+
+San Diego, CA 91201-4297 
+
+
+Dear 
+
+
+curiae 
+record, in opposition to the Petition for Writ of Certioran to the United States Court of 
+Appeal for the Ninth Circuit, petitioned to the United States Supreme Court, October 
+Term, 1995, by Petitioners Alan Meghrig and Margaret Meghrig. This letter is intended 
+to satisfy the consent requirements of Rule 37 of the Supreme Court. 
+
+
+Re. 
+
+Mr. Kammer: 
+
+On behalf of KFC Western, Inc., | hereby consent to the filing of an amicus 
+brief by Kaufman and Broad Home Corporation, by and through its counse! of 
+
+
+Véry T rs, 
+
+
+Danie! Romano 
+DR:ire 
+
+
+William NW. Kammer BAR @: 53848 
+GRAY CARY WARE & FREIDENRICH 
+
+A Professional Corporation 
+
+401 B Street, Suite 1700 
+
+San Diego, CA 92101 
+
+619-699-2711 
+
+
+CASE NO. 95-83 
+
+DECLARATION OF SERVICE 
+Person served: See Below 
+Date Served: August 24, 1995 
+
+
+. 
+ee ee ee et ee ee ee et ee 
+
+
+I, the undersigned, declare under penalty of perjury 
+that I am over the age of eighteen years and not a party to this 
+action; that I served the person(s) named below the following 
+documents: BRIEF OF KAUFMAN AND BROAD HOME CORPORATION AND 
+KAUFMAN AND BROAD - SOUTH BAY, INC. AS AMICI CURIAE IW OPPOSITION 
+TO PETITION FOR WRIT OF CERTIORARI 
+
+in the following manner: (check one) 
+
+1) o By personally delivering copies to the person served. 
+
+2) a By leaving, during usual office hours, copies in the 
+office of the person served with the person who 
+yer! was in charge and thereafter mailing (by 
+first-class mail, postage prepaid) copies to the person 
+served at the place where the copies were left. 
+
+3) a By leaving copies at the dwelling house, usual place of 
+abode, or usual place of business of the person served 
+
+
+in the presence of 4 competent member of the household 
+or & person apparently in charge of his office or place 
+
+
+of business, at least 18 years of age, who was informed 
+of the general nature of the papers, and thereafter 
+mailing (by first-class mail, postage prepaid) copies 
+a See Cee OS ae ae See Se Cae eure 
+eft. 
+
+
+4) s By —. a copy in a separate envelope, with postage 
+fully prepaid, for each addressee named below and 
+pa prea each in the U.S. Mail at San Di ° 
+California, for delivery, by First Cl iss Mail, 
+CERTIFIED MAIL, on August 24, 1995. 
+
+
+Executed on August 24, 1995 at San Diego, California. 
+
+
+‘, 
+, eee Nae 
+
+
+Connie Garner 
+
+
+Daniel Romano, Esq. 
+
+100 Wilshire Boulevard, Suite 1300 
+Santa Monica, CA 90401 
+
+(310) 451-4959 
+
+
+John P. Zaimes, Esq. 
+
+Clifton J. McFarland, Esq. 
+
+McClintock, Weston, Benshoof, Rochefort, 
+Rubalcava & MacCuish 
+
+444 South Flower Street, 43rd Floor 
+
+Los Angeles, CA 90071 
+
+(213) 623-2322 
+
+
+Clerk of the United States Supreme Court 
+One First Street, N.E. 
+Washington, D.C. 20543 
+
+

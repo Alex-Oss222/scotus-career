@@ -1,0 +1,17 @@
+{
+  "source": "https://www.govinfo.gov/content/pkg/USCODE-1994-title42/html/USCODE-1994-title42.htm",
+  "whole_html_sha256": "3dc5be36c5bef7dd3c6f61ad35cc42863ace254370b39875cfe2744ac760f2a4",
+  "whole_html_bytes": 48533265,
+  "sections": {
+    "6972": {
+      "file": "meghrig_42usc6972_1994_official.txt",
+      "sha256": "541462b01a6e967692f04f3568f185b1e92b687e6222c60479a30c36752b4f72",
+      "method": "section h3 through next section h3; heading, body and all nested historical/editorial notes; HTML tags removed and entities decoded"
+    },
+    "6973": {
+      "file": "meghrig_42usc6973_1994_official.txt",
+      "sha256": "a5a25024efd4faa42c90796472d05a7b3a9ebb60270054866c1c59d3389d4bcf",
+      "method": "section h3 through next section h3; heading, body and all nested historical/editorial notes; HTML tags removed and entities decoded"
+    }
+  }
+}

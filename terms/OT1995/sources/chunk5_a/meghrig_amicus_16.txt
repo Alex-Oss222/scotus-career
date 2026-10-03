@@ -1,0 +1,949 @@
+TABLE OF CONTENTS 
+
+
+Page 
+TABLE OF AUTHORITIES. .......cccccccsccccrscssscossescessenees ii 
+INTEREST OF THE AMICUS CURIAE..................6.. l 
+SUMMARY OF ARGUMENT ..............:cccccsceseceeeeeeeees 4 
+FETE terenseniininanmnmpenninmnien 6 
+
+
+The District Courts Are Empowered To Award 
+Restitution Under RCRA’s Citizen Suit Provision 
+Because Congress Did Not Clearly And Unmistak- 
+ably Limit The Broad Equitable Jurisdiction Of The 
+District Courts And The Remedy Of Restitution 
+Promotes RCRA’s Statutory Purposes .................. 6 
+
+
+A. The District Courts Are Empowered To Grant 
+
+All Traditional Equitable Remedies, Includ- 
+
+ing Restitution, Because RCRA’ S Citizen Suit 
+
+Provision Invokes The Broad Equitable Juris- 
+
+diction Of The District Courts Without Clearly 
+
+And Unmistakably Limiting That Jurisdic- 
+GED. cccesecesincnencostesscontchetovneadeonoepseimeietinnsinates 6 
+
+
+B. The District Courts Properly May Grant Res- 
+titution Because That Remedy Furthers 
+RCRA’s Dual Statutory Purposes Of Promot- 
+ing Prompt Remediation Of Contamination 
+And Assuring The Party Responsible For The 
+Contamination Incurs The Costs Of 
+ITI, vecctncseicicssicnstsepnsnepithantsnbinbeasenses 13 
+
+
+GRP IIEIY niverenscnssnacencapepsicspesbinnaonnisanenasnesisaneensiens 18 
+
+
+TABLE OF AUTHORITIES 
+Page(s) 
+CASES: 
+Amoco Prod. Co. v. Gambell, 480 U.S. 531 (1987)...... 11 
+Atascadero State Hosp. v. Scanlon, 473 U.S. 234 
+ES EEO SA en ee ) 
+Barket, Levy & Fine v. St. Louis Thermal Energy, 948 
+F.2d 1084 (8th Cir. 1991) ..........ccccccccccccceeeeeeeeeeeeees 2 
+Califano v. Yamasaki, 442 U.S. 682 (1979) ..0......06. 1! 
+California v. American Stores Co., 495 U.S. 271 
+RENEE NERS, Se ate A A 10,11,12 
+Commodity Futures Trading Comm'n v. Schor,478 U.S. 
+IES Sp a on 6 
+Delmuth v. Muth, 491 U.S. 223 (1989) oo... 9.13 
+FTC v. Southwest Sunsites, Inc., 665 F.2d 711 (Sth Cir.), 
+ert. denied, 456 U.S. 973 (1982) .........cccccccccseeess i! 
+Glidden Co. v. Zdanok, 370 U.S. 530 (1962) 0.0.0.0... s 
+Gregory v. Ashcroft, 501 U.S. 452 (1991) ce 7) 
+Hecht Co. v. Bowles, 321 U.S. 321 (1944)... 10,11,14 
+Lauf v. E.G. Shinner & Co., 303 U.S. 323, 329 
+EON RS A Se oe s 
+Lessee of Livingston v. Moore, 32 U.S. (7 Pet.) 469 
+TENE ER RE, 2 TO LON 2 
+Mitchell v. Robert DeMario Jewelry, Inc., 361 U.S. 288 
+ES A a 11.13 
+Pierce v. Amaral, 928 F.2d 94 (8th Cir. 1991)... 11 
+
+
+— mi— 
+
+Porter v. Warner Holding Co., 328 U.S. 395 (1946) .....passim 
+Reebok Int'l, Ltd. v. Marnatech Enters, 970 F.2d 552 (9th 
+
+LESSER SOULE eee on 11 
+Renegotiation Bd. v. Bannercraft Clothing Co.,4\15 U.S. 
+
+f SREFESEE So a ee eee rere 11 
+SEC vy. First City Fin. Corp., 890 F.2d 1215 (D.C. Cir. 
+
+ES ene eer ne ae 11 
+United States v. Moore, 340 U.S. 616 (1951) ............ 11 
+United States v. Rodgers, 461 U.S. 677 (1983)............ 11 
+
+
+Weinberger v. Romero-Barcelo, 456 U.S. 305 (1982)... 11, 
+
+
+Statutes and rule. 
+
+
+Comprehensive Environmental Response Compensa- 
+tion and Liability Act (CERCLA), Pub. L. No. 96- 
+510, 94 Stat. 2767 (19BO) .........cccccccccesceeeeeeeneeeeesees 
+
+
+Emergency Price Control Act of 1942, Ch. 26, § 205(a), 
+Fe ctiietcinrettiianicincitainaphitinncvnstsacsitiimenneenine 
+
+
+Hazardous and Solid Waste Amendments of 1984, Pub. 
+L. No. 98-616, 98 Stat. 3224 (1984) (HSWA)...... 
+
+
+ETRE ERE AE 
+Mo.Rev. Stat. § 70.370 (1994) .0........cccccccccccccccccceeeeeeneees 
+I I cle 
+
+
+Pub. L. No. 98-616, Tit. I], § 206, 98 Stat. 3239 (1984) 
+(codified at 42 U.S.C. §6924(u)( 1988)) ................ 
+
+
+Pub. L. No. 98-616, Tit. II, § 233, 98 Stat. 3257-58 (1984) 
+(codified at 42 U.S.C. §6923(h)( 1988)) ............... 
+
+
+Pub. L. No. 98-616, Tit. IV, § 401, 98 Stat. 3268 
+(1984)(codified at 42 U.S.C. §6972(a)) ........0.0..... 
+
+
+12 
+
+
+15 
+
+
+15 
+
+
+= IY — 
+
+
+Pub. L. No. 98-616, Tit. VI, § 601, 98 Stat. 3277-3288 
+(1984) (codified as amended at 42 U.S.C. §§ 6991 
+
+
+ED dencccnniceetiiiendsnndnitinscadibdinecicendmatenies 15 
+Resource Conservation and Recovery Act, 42 U.S.C. 
+
+GS 60 GOD cccccantctecnesmictanianssnsertnineantinmencittetemennien passim 
+
+GB Be tcsecrepcesnesctrtennmtnteinnna 14 
+
+GB lice PGS crvcerecrertsntneeenetinattitiangeniintis 3,4,12 
+
+
+Resource Conservation and Recovery Act of 1976 
+(RCRA) Pub. L. No. 94-580, 90 Stat. 2795 
+
+
+CUTE chichicdtininnnininaminanincinnsiniiapdaiieaebdemaatadusaninties 14 
+Seapsaens Coust Rube 37:5 .........cccccscccssorsscossoosescesseesseeses 2 
+ee es GO Fe crtrenenirentenenmtienterenniesentet 6.8 
+MISCELLANEOUS: 
+
+Cass R. Sunstein, /nterpreting Statutes in the Regulatory 
+
+tate, 103 Harv. L. Rev. 405 (1989) ..0........cccccccee 8 
+The Federalist No. 80 (Alexander Hamilton) (Gary 
+
+UUETEIIEL. ITED cicecdstiniciiahinitenieteindnnsinateattiasiniiaalimeniansinies 7 
+
+
+Note, Clear Statement Rules, Federalism, and Congres- 
+sional Regulation of States, 107 Harv. L. Rev. 1959 
+ES ee ee oe Fae 8 
+
+
+S.Rep. No. 848, 96th Cong., 2d Sess.33 (1980)............ 14 
+
+
+William N. Eskridge, Jr. & Philip P. Frickey, Quasi- 
+Constitutional Law: Clear Statement Rules as 
+Constitutional Lawmaking, 45 Vand. L. Rev. 593 
+SR An Af OR a s 
+
+
+William N. Eskridge, Jr., Public Values in Statutory 
+Interpretation, 137 U. Pa. L. Rev. 1007 (1989) .... 8 
+
+
+No. 95-83 
+
+
+In THe 
+
+
+Supreme Court of the United States 
+
+
+Octoser Term, 1995 
+
+
+ALAN Mecuric and Marcaret Mecuric, 
+Petitioners, 
+
+
+vs. 
+
+
+KFC Western, Inc... 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals for the Ninth Circuit 
+
+
+BRIEF FOR THE BI-STATE DEVELOPMENT 
+AGENCY OF THE MISSOURI-ILLINOIS 
+METROPOLITAN DISTRICT AS AMICUS 
+CURIAE SUPPORTING RESPONDENT 
+
+
+INTEREST OF THE AMICUS CURIAE 
+
+
+Amicus Curiae, the Bi-State Development Agency of the 
+Missouri-[]linois Metropolitan District (“Bi-State”), is a body 
+corporate and politic organized pursuant to a compact between 
+Missouri and Illinois.’ Mo.Rev.Stat. § 70.370( 1994); [ll Rev.Stat. 
+
+
+' Although B1-State has been designated as a body politic pursuant to its 
+states’ enabling legislation, the United States Court of Appeals for the Erxghth 
+
+
+Footnote | continued on next page) 
+
+
+a 
+
+
+ch. 127, 63 r-1 (1989) (identical compact provisions). The 
+compact creates a single interstate agency to coordinate regional 
+planning and development of the Bi-State Metropolitan Devel- 
+opment District (the “district”). The district is comprised of the 
+geographical areas of the City of St. Louis, Missouri, the Mis- 
+souri counties of St. Louis, St. Charles, and Jefferson, and the 
+Illinois counties of Madison, St. Clair, and Monroe. Mo.Rev.Stat. 
+§ 70.370, art. II. 
+
+
+Bi-State has a significant measure of autonomy, including all 
+necessary and appropriate powers to develop the district, and is 
+funded by farebox receipts, sales tax revenues from its service 
+area and from federal grants. Jd. § 70.370, art. VI. Bi-State can 
+buy and sell iand, facilities, and equipment, borrow money, issue 
+bonds, condemn property, enter into contracts on its own behalf, 
+and sue and be sued on its contracts. /d. § 70.373; Ill.Rev.Stat. 
+ch. 127, ¢ 63 s-9. Bi-State coordinates the district's streets, 
+highways, parkways, parking areas, terminals, water supply and 
+sewage and disposal works, recreational and conservation facili- 
+ties and projects, and land use pattern. Mo.Rev.Stat. § 70.370 
+art. ITI (2). 
+
+
+The primary mission of Bi-State is to provide public mass 
+transportation in the St. Louis Metropolitan area. Currently, Bi- 
+State operates bus transportation and the MetroLink light rail 
+system within its district. In addition to owning facilities to 
+house mass transportation operations, Bi-State has acquired 
+significant numbers of parcels of property and rights-of-way to 
+
+
+(Footnote | continued) 
+
+
+Circuit has declared Bi-State to be more like a local government entity than 
+an arm of the compacting states. Barket, Levy & Fine v. St. Louis Thermal 
+Energy, 948 F.2d 1084, 1088 (8th Cir. 1991). In that Bi-State may not be 
+considered a political subdivision of a state under Supreme Court Rule 37 5, 
+Bi-State has obtained, and filed separately with the court, written consent 
+from both parties . 
+
+
+a 
+
+
+construct MetroLink stations and to operate the system currently 
+on line. Extensions of MetroLink have been planned and are in 
+the early stages of implementation. To implement these plans of 
+expansion and to further Bi-State’s mission to provide cost and 
+energy efficient mass transportation, it will be necessary for Bi- 
+State to acquire, own and operate significantly more property in 
+the future. 1 
+
+
+Much of the property acquired by Bi-State to date has been 
+taken by exercise of its power of eminent domain. Many parcels 
+acquired have contained environmental hazards, including un- 
+derground storage tanks, hydrocarbon contamination, asbestos, 
+and polychlorinated biphenyls (PCBs). In each instance, Bi- 
+State has in no way contributed to the contamination of the 
+parcels and is an innocent land owner. With respect to many of 
+the parcels, Bi-State had no choice in deciding whether to 
+acquire the property, as it lay along a right-of-way selected by a 
+metropolitan planning agency in accordance with federal law. 
+Bi-State has been compelled to clean up the property, after it was 
+acquired, to render it fit for its intended use as a MetroLink 
+station or rail line. Fundamental unfairness would result if Bi- 
+State and the taxpayers of its service communities were forced 
+to incur the cost of cleaning property contaminated by previous 
+owners and operators who, in many instances, benefitted from 
+the property by operating business enterprises for profit. 
+
+
+In sum, Bi-State believes that the United States Court of 
+Appeals for the Ninth Circuit properly interpreted the citizens 
+suit provision of the Resource Conservation and Recovery Act 
+(“RCRA”), 42 U.S.C. § 6972(a) in the instant case. RCRA’s 
+citizen suit provision invokes the equitable jurisdiction of the 
+district courts to grant all traditional equitable remedies, includ- 
+ing restitution. RCRA does not clearly and unmistakably limit 
+that jurisdiction. Bi-State supports the position of respondent 
+that RCRA authorizes the district courts to award private parties 
+restitution of cleanup costs and that RCRA’s limitation to sites 
+
+
+that pose “imminent and substantial endangerment” does not bar 
+restitution of costs of cleaning up contamination that posed a 
+threat in the past. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The district courts’ traditional equitable powers are indispens- 
+able to the independence of the Judiciary and to the maintenance 
+of our tripartite system of government. Although Congress may 
+limit the district courts’ equitable powers, decisions of this Court 
+make clear that once Congress invokes the district courts’ 
+equitable jurisdiction, Congress may not limit that jurisdiction 
+unless it unequivocally expresses its intent to do so. This Court 
+requires Congress to state its intent to limit the district courts’ 
+equitabie juri sdiction clearly and unmistakably to prevent the 
+aggrandizement of Congress at the expense of the courts. Garbled 
+whispers by Congress in a statute's legislative history definitely 
+should not displace rules refined over centuries by a co-equal 
+branch of government acting in its area of expertise. 
+
+
+In enacting the citizen suit provision of RCRA , 42 U.S.C. § 
+6972(a)(1)(B), Congress invoked the district courts’ equitable 
+jurisdiction without clearly and unmistakably limiting the scope 
+of that jurisdiction. As a result, RCRA’s citizen suit provision 
+empowers the district courts to exercise all their traditional 
+equitable powers. Those traditional equitable powers include 
+the power to grant restitution. Granting a landowner restitution 
+from the prior owner who caused the contamination of the 
+property furthers two of Congress’ policy goals under RCRA, 
+namely, promoting prompt remediation of contamination and 
+
+
+— 
+
+
+assuring that the party responsible for the contamination incurs 
+the costs of remediation.’ 
+
+
+> Although this amicus brief does not discuss how the “imminent and 
+substantial endangerment” clause of RCRA’s citizen suit provision should be 
+interpreted, Amicus Bi-State agrees with, and joins in, the arguments pre- 
+sented in the Brief of Amici Curiae Massachusetts, Missouri, etc., that 
+construing the “imminent and substantial endangerment” clause to preclude 
+parties who have incurred costs of remediation prior to filing a RCRA citizen 
+suit from pursuing restitution under RCRA’s citizen suit provision would be 
+inconsistent with Congress’ invocation of the district courts’ equitable 
+jurisdiction and would be inconsistent with Congress’ policy concern of 
+promoting prompt remediation. Moreover, Amicus Bi-State believes that 
+regardless of how this Court interprets the “imminent and substantial endan- 
+germent” clause, this Court should decide the extent of the district courts’ 
+equitable jurisdiction under RCRA's citizen suit provision so that parties 
+faced with decisions regarding the appropriate means of addressing contami- 
+nation that “may present an imminent and substantial endangerment” can 
+conduct their affairs with a clear understanding of their rights under RCRA’s 
+citizen suit provision. 
+
+
+—_ we 
+
+
+ARGUMENT 
+
+
+The District Courts Are Empowered To Award Restitu- 
+tion Under RCRA’s Citizen Suit Provision Because 
+Congress Did Not Clearly And Unmistakably Limit The 
+Broad Equitable Jurisdiition Of The District Courts 
+And The Remedy Of Restitution Promotes RCRA’s 
+
+
+Statutory Purposes. 
+
+
+A. The District Courts Are Empowered To Grant All 
+Traditional Equitable Remedies, Including Restitution, 
+Because RCRA’s Citizen Suit Provision Invokes The 
+Broad Equitable Jurisdiction Of The District Courts 
+
+
+Without Clearly And Unmistakably Limiting That Ju- 
+risdiction. 
+
+
+1. Our government is one of separated nowers, with an 
+independent Judiciary to check the excesses of the other branches 
+and to protect individual rights. See, e.g, Commodity Futures 
+Trading Comm'n v. Schor, 478 U.S. 833, 848 (1986). From the 
+very inception of our Republic, the drafters of the Constitution 
+viewed equitable jurisdiction as playing an indispensable role in 
+securing the independence of the Judiciary and, consequently, in 
+maintaining separation of governmental powers. Thus, our 
+Constitution extends “[t)}he judicial Power ... to all Cases, in Law 
+and Equity, arising under [the] Constitution, the Laws of the 
+United States, and Treaties made, or which shall be made, under 
+their Authority ....” U.S. Const. art. Ill, § 2, cl. 1 (emphasis 
+added). Alexander Hamilton thought equitable jurisdiction of 
+such importance to the Judiciary that he expounded on its 
+necessity: 
+
+
+It has also been asked, what need of the word “equity”? 
+What equitable causes can grow out of the constitution and 
+laws of the United States? There is hardly a subject of 
+litigation between individuals, which may not involve 
+those ingredients of fraud, accident, trust or hardship, 
+
+
+which would render the matter an object of equitable, rather 
+than of legal jurisdiction, as the distinction is known and 
+established in several of the states. 
+
+
+The Federalist No. 80 at 406-07 (Alexander Hamilton) (Gary 
+Wills ed. 1982). 
+
+
+The early decisions of this Court also recognize the role equity 
+plays in maintaining the separation of powers and in securing an 
+independent Judiciary. Acentury and a half ago, Justice Johnson 
+spoke of the indispensability of that jurisdiction to the exercise 
+of judicial power: 
+
+
+For, as an essential branch or exercise of judicial power, 
+[equitable jurisdiction] is acknowledged to exist every- 
+where; nor is it possible for any one acquainted with its 
+nature and character, and the remedies it affords for the 
+assertion of rights or the punishment of wrongs, to doubt 
+that the power to exercise it, and the means of exercising it, 
+must exist somewhere; or the administration of justice will 
+be embarrassed, if not incomplete. - 
+
+
+Lessee of Livingston v. Moore, 32 U.S. (7 Pet.) 469, 547 (1833). 
+
+
+Recognizing judicial power is incomplete without equitable 
+jurisdiction, this Court concluded that, in sovereignties in which 
+the judiciary lacks the full range of equitable jurisdiction, the 
+separation of governmental powers is less than perfect: 
+
+
+The natural distribution and the necessary distribution to 
+individual security, is into legislative, executive and judi- 
+cial; but it is obvious, that every community may make a 
+perfect or imperfect separation and distribution of these 
+powers, at its will. It has pleased Pennsylvania, in her 
+constitution, to make what most jurists would pronounce an 
+imperfect separation of those powers; she has not thought 
+it necessary to make any imperative provision for incorpo- 
+rating the equity jurisdiction, in its full latitude, into her 
+
+
+jurisprudence... . 
+
+
+Id. at 546-47. 
+
+
+2. Equity, though vital to the Judiciary and separation of 
+powers, is not unchecked. As is appropriate in a democracy, our 
+Constitution has relegated to Congress the ultimate say in what 
+remedies, including equitable ones, the lower federal courts may 
+grant. U.S. Const. art. III, § 1; Glidden Co. v. Zdanok, 370 U.S. 
+530, 557 (1962) (holding it consistent with Article III for 
+Congress to limit the remedial powers of a federal court to the 
+award of money damages); Lauf v. E.G. Shinner & Co., 303 U.S. 
+323, 329 (1938) (holding that Congress has the power to pre- 
+clude the district courts from issuing injunctions in the absence 
+of specific findings). 
+
+Congress’ ultimate control over the lower federal courts’ 
+equitable powers, of course, does not make those equitable 
+powers, or the separation-of-powers structure that they promote, 
+unworthy of protection. It just makes those powers and that 
+structure hard to protect. This Court, however, has been vigilant 
+in protecting such fundamental structures of our Constitution in 
+the face of Congress’ express constitutional authority to alter 
+them. 
+
+
+A vital weapon in this Court's arsenal for safeguarding hard- 
+to-protect constitutional structures has been the clear (or “plain’’) 
+statement rule.’ Thus, to protect “the fundamental constitutional 
+balance between the Federal Government and the States,” in the 
+face of Congress’ express constitutional power to abrogate the 
+
+
+* Asmall body of academic literature discusses clear statement rules. See 
+generally William N. Eskridge, Jr., Public Values in Statutory Interpretation, 
+137 U. Pa. L. Rev. 1007 (1989); William N. Eskridge, Jr. & Philip P. Frickey. 
+Quasi-Constitutional Law: Clear Statement Rules as Constitutional Law- 
+making, 45 Vand. L. Rev. 593 (1992); Cass R. Sunstein, /nterpreting Statutes 
+in the Regulatory State, 103 Harv. L. Rev. 405 (1989); Note, Clear Statement 
+Rules, Federalism, and Congressional Regulation of States, 107 Harv. L. 
+Rev. 1959 (1994). 
+
+
+States’ Eleventh Amendment immunity, this Court held “that 
+Congress may abrogate the States’ constitutionally secured 
+immunity from suit in federal court only by making its intention 
+unmistakably clear in the language of the statute.” Afascadero 
+State Hosp. v. Scanlon, 473 U.S. 234, 238, 242 (1985). And, 
+again, in Delmuth v. Muth, 491 U.S. 223, 227-28 (1989), this 
+Court applied that “simple but stringent” clear statement test 
+“[t]o temper congress’ acknowledged powers of abrogation with 
+due concern for the Eleventh Amendment's role as an essential 
+component of our constitutional structure.” Similarly, in Gre- 
+gory v. Ashcroft, 501 U.S. 452, 470 (1991), this Court applied a 
+clear (“plain”) statement rule to protect the internal operations of 
+a State government from Congress’ constitutional authority to 
+enact laws affecting those internal operations. Significantly, this 
+Court stated in Ashcroft that the structure of state sovereignty in 
+a federal system and separation of powers are of comparable 
+value to our Republic. /d. at 458. 
+
+
+To protect separation of powers, this Court has enunciated a 
+similar clear statement rule with respect to limitations on the 
+traditional range of the district courts’ equitable powers. In 
+Porter v. Warner Holding Co., 328 U.S. 395, 398 (1946), this 
+Court addressed the remedies available to district courts under 
+the Emergency Price Control Act of 1942, ch. 26, § 205(a), 56 
+Stat. 33 (the “Price Control Act”) and, in doing so, created aclear 
+statement rule for determining the scope of relief afforded by 
+statutes that allow resort to the district courts’ equitable jurisdic- 
+tion. 
+
+
+The Price Control Act’ s enforcement provision, Section 205(a), 
+like RCRA’s citizen suit provision, explicitly empowered the 
+district courts to enforce compliance with and to enjoin past and 
+future violations of the Act. /d. at 397. Like RCRA's citizen suit 
+provision, Section 205(a) also empowered the district courts to 
+issue “other orders” but did not specify that the term “other 
+orders” encompassed restitution. /d. Nevertheless, this Court 
+
+
+—_ we 
+
+
+held that the Price Control Act empowered the district courts to 
+grant restitution. /d. at 402. 
+
+Acknowledging the district courts’ jurisdiction under the 
+Price Control Act “to enjoin” and “to enforce” is an equitable 
+jurisdiction, this Court expounded on the usual scope of equi- 
+table jurisdiction. 
+
+Power is thereby resident in the District Court, in exercising 
+this jurisdiction, “to do equity and to mould each decree to 
+the necessities of the particular case.” Hecht Co. v. Bowles, 
+321 U.S. 321, 329. It may act so as to adjust and reconcile 
+competing claims and so as to accord full justice to all the 
+real parties in interest; if necessary, persons not originally 
+connected with the litigation may be brought before the 
+court so that their rights in the subject matter may be 
+determined and enforced. In addition, the court may go 
+beyond the matters immediately underlying its equitable 
+jurisdiction and decide whatever other issues and give 
+whatever other relief may be necessary under the circum- 
+stances. Only in that way can equity do complete rather 
+than truncated justice. 
+
+
+Porter, 328 U.S. at 398. The Court then addressed Congress’ 
+
+power to limit the scope of the district courts’ equitable jurisdic- 
+
+tion: 
+[T]he comprehensiveness of this equitable jurisdiction is 
+not to be denied or limited in the absence of a clear and valid 
+legislative command. Unless a statute in so many words, or 
+by a necessary and inescapable inference, restricts the 
+court’s jurisdiction in equity, the full scope of that jurisdic- 
+tion is to be recognized and applied. 
+
+
+Id. 
+
+
+This Court has reaffirmed this clear statement rule on eight 
+subsequent occasions. See California v. American Stores Co.., 
+
+
+495 U.S. 271,295 (1990); Amoco Prod. Co. v. Gambell, 480 U.S. 
+531, 542-46 (1987); United States v. Rodgers, 461 U.S. 677, 708 
+(1983); Weinberger v. Romero-Barcelo, 456 U.S. 305, 313 
+(1982); Califano v. Yamasaki, 442 U.S. 682, 705 (1979); Rene- 
+gotiation Bd. v. Bannercraft Clothing Co., 415 U.S. 1, 19-20 
+(1974); Mitchell v. Robert DeMario Jewelry, Inc., 361 U.S. 288, 
+290-91 (1960); United States v. Moore, 340 U.S. 616, 619 
+(1951). See also Hecht Co. v. Bowles, 321 U.S. 321, 330 (1944) 
+(holding “if Congress desired to make ... an abrupt departure 
+from traditional equity practice ... it would have made its desire 
+plain”). 
+
+
+Notably, on two of those occasions, this Court specifically 
+held that even when Congress simply granted the district courts 
+power to issue injunctions, the statute under consideration also 
+empowered the district courts to grant restitution. Moore, 340 
+U.S. at 619-20; Mitchell, 361 U.S. at 296. 
+
+
+This Court and the lower federal courts have applied the 
+Porter clear statement rule in numerous regulatory settings. See, 
+e.g., American Stores, 495 U.S. 271 (interpreting Clayton Act); 
+Amoco, 480 U.S. 531 (interpreting Alaska National Interest 
+Lands Conservation Act); Weinberger, 456 U.S. 305 (interpret- 
+ing Federal Water Pollution Control Act); Yamasaki, 442 U.S. 
+682 (interpreting Social Security Act); Bannercraft Clothing, 
+415 U.S. | (interpreting Freedom of Information Act); Mitchell, 
+361 U.S. 288 (interpreting Fair Labor Standards Act of 1938); 
+Moore, 340 U.S. 616 (interpreting Housing and Rent Act of 
+1947); Porter, 328 U.S. 395 (interpreting Emergency Price 
+Control Act of 1942); Reebok Int'l, Lid. v. Marnatech Enters, 
+970 F.2d 552, 561-62 (9th Cir. 1992) (interpreting Lanham Act); 
+Pierce v. Amaral, 928 F.2d 94, 96 (8th Cir. 1991) (interpreting 
+Interstate Land Sales Full Disclosure Act); SEC v. First City Fin. 
+Corp., 890 F.2d 1215, 1230 (D.C. Cir. 1989) (interpreting 
+Securities Exchange Act of 1934); FTC v. Southwest Sunsites, 
+Inc., 665 F.2d 711, 718-19 (Sth Cir.) (interpreting Federal Trade 
+Commission Act), cert. denied, 456 U.S. 973 (1982). 
+
+
+— 
+
+
+The Porter clear statement rule thus has become an integral! 
+fibre in the cloth of our regulatory law. 
+
+
+3. In enacting RCRA’s citizen suit provision, Congress 
+specifically invoked the district courts’ equitable jurisdiction 
+when it granted them the power to “restrain”.* Congress did not 
+stop there, however; Congress also provided that the district 
+courts may “order such person to take such other action as may 
+be necessary.” This Court twice has stated that Congress is well 
+aware of the existence of the principles encapsulated in the 
+Porter rule. American Stores, 495 U.S. at 295; Weinberger, 456 
+U.S. at 313. In RCRA’s citizen suit provision, however, Con- 
+gress did not make clear any intent it may have had to limit the 
+district courts’ equitable jurisdiction. RCRA'’s citizen suit 
+provision is devoid of preclusive language. In light of Porter, 
+
+
+* RCRA’ scitizen suit provision, 42 U.S.C. § 6972(a) provides, in pertinent 
+part, that: 
+
+
+Except as provided in subsection (b) or (c) of this section, any person 
+may commence a civil action on his own behalf— 
+
+
+(1M A). ... 
+
+
+(B) against any person, including the United States and any 
+other governmental instrumentality or agency, to the extent 
+permitted by the eleventh amendment to the Constitution, and 
+including any past or present owner or operator of a treatment. 
+storage, or disposal facility, who has contributed or who is 
+contributing to the past or present handling, storage, treatment. 
+transportation, or disposal of any solid or hazardous waste which 
+may present an imminent and substantial endangerment to health 
+or the environment, 
+
+
+... The district court shall have jurisdiction, without regard to the 
+amount in controversy or the citizenship of the parties, .. to restrain any 
+person who has contributed or who is contributing to the past or present 
+handling, storage, treatment, transportation, or disposal of any solid or 
+hazardous waste referred to in paragraph (|B), to order such person to take 
+such other action as may be necessary, or both... . 
+
+
+ai (hon 
+
+
+Congress’ inclusion in RCRA's citizen suit provision of lan- 
+guage invoking the district courts’ equitable jurisdiction without 
+expressly limiting the scope of that jurisdiction evinces an 
+unambiguous intent to make the traditional equitable remedies, 
+including restitution, available to district courts addressing RCRA 
+citizen suits. 
+
+This Court may find isolated statements in RCRA’s legisla- 
+tive history suggesting that the district courts somehow are 
+precluded from granting relief other than an injunction. Such 
+isolated statements are “beside the point.” De/muth, 491 U.S. at 
+230. As this Court held in Delmuth, to satisfy a clear statement 
+rule “evidence of congressional intent must be both unequivocal 
+and textual.” Id. (emphasis added). “If Congress’ intention is 
+‘unmistakably clear in the language of the statute,’ recourse to 
+legislative history wiil be unnecessary; if Congress’ intention is 
+not unmistakably clear, recourse to legislative history will be 
+futile, because by definition [a clear statement rule] will not be 
+met.” /d. 
+
+
+B. The District Courts Properly May Grant Restitution 
+Because That Remedy Furthers RCRA’s Dual Statu- 
+tory Purposes Of Promoting Prompt Remediation Of 
+Contamination And Assuring The Party Responsible 
+For The Contamination Incurs The Costs Of 
+Remediation. 
+
+
+1. As discussed above, by failing to state clearly and 
+unmistakably in RCRA’s citizen suit provision that the district 
+courts are precluded from granting restitution, Congress left the 
+Judiciary free to exercise its traditional equitable power to grant 
+such relief. Before the district courts can grant restitution under 
+a regulatory statute, however, this Court also requires that 
+restitution further the purposes of the statute. See Mitchell, 361 
+U.S. at 291-92 (“When Congress entrusts to an equity court the 
+enforcement of prohibitions contained in a regulatory enact- 
+
+
+— 
+
+
+ment, it must be taken to have acted cognizant of the historic 
+power of equity to provide complete relief in light of the statutory 
+purposes); Porter, 328 U.S. at 400 (holding that, in fashioning 
+equitable remedies under the Emergency Price Control Act, the 
+district courts “must act primarily to effectuate the policy of the 
+Emergency Price Control Act”); Hecht, 321 U.S. at 331 (holding 
+that the district court’s equitable discretion to withhold or grant 
+injunctive relief under a regulatory statute must be exercised in 
+light of the large objectives of that statute). 
+
+Restitution does further RCRA’s purposes. Indeed, restitu- 
+tion presents the best option of furthering RCRA’s purposes 
+when, as in this case, the government seeks to have a subsequent 
+property owner remediate the contamination caused by others. 
+
+
+2. Congress enacted the Resource Conservation and Re- 
+covery Act of 1976 (RCRA), Pub. L. No. 94-580, 90 Stat. 2795 
+(1976), as an amendment to the Solid Waste Disposal Act. 42 
+U.S.C. §§ 6901 -6992k (1988). RCRA initially had a prospective 
+focus. Congress designed RCRA to encourage parties to mini- 
+mize waste production and to require parties handling solid and 
+hazardous wastes to observe appropriate management practices 
+so that environmental contamination resulting from waste han- 
+dling and disposal would be minimized. 42 U.S.C. § 6902 
+(1988). 
+
+
+Congress first focused on the need to address retroactively the 
+problems of facilities contaminated as a result of past treatment 
+or disposal of hazardous substances in 1980, when Congress 
+enacted the Comprehensive Environmental Response Compen- 
+sation and Liability Act (CERCLA), Pub. L. No. 96-510, 94 Stat. 
+2767 (i980), creating a retroactive, strict liability regime de- 
+signed to promote prompt remediation and to assure that the 
+“polluter pays.” S.Rep. No. 848, 96th Cong., 2d Sess. 33 (1980). 
+
+
+By the time Congress enacted the Hazardous and Solid Waste 
+Amendments of 1984, Pub. L. No. 98-616, 98 Stat. 3224 (1984) 
+
+
+ny 
+
+
+(HSWA), however, Congress apparently had realized that 
+CERCLA would not succeed in promoting the prompt remediation 
+of present and historical contamination problems associated 
+with (1) all facilities engaged in the treatment, storage or disposal 
+of hazardous waste, and (2) the improper management of petro- 
+leum underground storage tanks systems, as Congress specifi- 
+cally addressed these two problems in HSWA. With respect to 
+contamination problems at treatment, storage and disposal fa- 
+cilities, Congress included in HSWA provisions authorizing the 
+EPA to require “corrective action” at such facilities. Pub. L. No. 
+98-616, Tit. II, § 206, 98 Stat. 3239 (1984) (codified at 42 U.S.C. 
+§ 6924(u)(1988)) (requiring as a permit condition “corrective 
+action for all releases of hazardous waste or constituents from 
+any solid waste management unit at a treatment, storage or 
+disposal facility”) and Pub. L. No. 98-616, Tit. II, § 233, 98 Stat. 
+257-58 (1984) (codified at 42 U.S.C. § 6923(h)( 1988)) (autho- 
+rizing issuance of corrective action orders when “there is or has 
+been a release of hazardous waste into the environment” from an 
+interim status facility). With respect to preventing and remediating 
+contamination problems associated with leaking petroleum un- 
+derground storage tank systems, Congress included in HSWA an 
+entirely new subchapter outlining management and remediation 
+procedures associated with petroleum underground storage tank 
+systems. Pub. L. No. 98-616, Tit. VI, § 601, 98 Stat. 3277-3288 
+(1984) (codified as amended at 42 U.S.C. §§ 6991-699 1(i)( 1988)). 
+
+
+At the same time that it enacted these new provisions designed 
+to assure that parties responsible for environmental contamina- 
+tion promptly clean up such contamination, Congress also 
+amended RCRA's citizen suit provision, by adding section 
+6972(a)(1)(B). Pub. L. No. 98-616, Tit. IV, § 401, 98 Stat. 3268 
+(1984)(codified at 42 U.S.C. § 6972(a) (1988)). 
+
+
+Through these provisions, Congress added to RCRA’s pro- 
+spective management focus a retroactive remedial focus that 
+encompasses CERCLA’s environmental policy goals of pro- 
+moting prompt-remediation of environmental contamination 
+
+
+and of assuring that the parties responsible for the contamination 
+incur the costs associated with remediating the contamination. 
+
+
+3. When a state seeks to compel an innocent current 
+property owner to remediate contamination resulting from the 
+activities of a former property owner, Congress can be sure that 
+both of its policy goals - the prompt cleanup of contamination 
+and the shifting of costs to the culpable party - will be advanced 
+only if district courts have the power to grant restitution to the 
+current property owner who promptly cleans up the contamina- 
+tion. To understand why the availability of restitution plays a 
+key role in facilitating Congress’ dual policy goals, one simply 
+needs to evaluate the options available to an innocent current 
+property owner faced with a state cleanup order. 
+
+
+If restitution is not available under RCRA’s citizen suit 
+provision, when a state orders an innocent current property 
+owner to remedy contamination caused by a former property 
+owner, the current property owner has almost no incentive to 
+remediate the contamination promptly because it has no guaran- 
+tee that it can recover its costs. Rather, the current property 
+owner has every incentive to contravene one of Congress’ gaals 
+- prompt remediation - to facilitate Congress’ other goal - the 
+imposition of costs on culpable parties. Instead of promptly 
+remediating the property and incurring the associated costs of 
+remediation, the current property owner has every incentive, 
+including the availability of attorneys fees, to delay remediation 
+while pursuing a citizen suit action under RCRA directed toward 
+obtaining an order that will force the former owner and/or 
+operator to remediate the contamination and thereby incur the 
+costs of remediation directly. The existence of possible indepen- 
+dent state common law claims for damages, such as misrepresen- 
+tation and breach of warranty, are unlikely to provide any 
+significant incentive for the current property owner promptly to 
+incur the costs of remediation given the uncertainty of recovery 
+under such fact-dependent causes of action, particularly given 
+
+
+~~ = 
+
+
+potential statute of limitations problems, and because the current 
+owner will have to absorb all transaction costs associated with 
+the litigation 
+
+Accordingly, if district courts do not have the authority to 
+grant restitution under RCRA’s citizen suit provision, current 
+property owners nonetheless will make use of RCRA’s citizen 
+suit provision, but will do so in a way that promotes only one of 
+Congress’ policy goals, shifting the cost of remediation to 
+culpable parties, at the expense of Congress’ other policy goal, 
+assuring prompt remediation. By contrast, if restitution is 
+available under RCRA’s citizen suit provision, when a state 
+orders an innocent current property owner to remediate the 
+property, the innocent current property owner has an incentive to 
+remediate promptly because it can be confident that it can shift 
+the costs of remediation to the culpable party and seek the 
+recovery of attorneys’ fees. Consequently, the availability of 
+restitution is essential to satisfying Congress’ policy goals of 
+prompt remediation and assuring that the parties responsible for 
+the contamination incur the costs of remediation.. 
+
+
+CONCLUSION 
+
+
+The judgment of the United States Court of Appeals for the 
+Ninth Circuit should be affirmed. 
+
+
+December 7, 1995 
+
+
+Respectfully submitted, 
+
+
+JOHN FOX ARNOLD 
+Counsel of Record 
+
+
+NELSON G. WOLFF 
+Lashly & Baer, P.C. 
+
+714 Locust Street 
+
+St. Louis, Missouri 63101 
+(314) 621-2939 
+
+
+TIMOTHY W. BURNS 
+
+901 East Broadway, Suite 100 
+Columbia, MO 65201 
+
+(314) 443-3141 
+
+
+JEROME M. ORGAN 
+
+School of Law, 
+
+University of Missouri-Columbia 
+Columbia, Missouri 65211 
+(314) 882-2825 
+
+
+Counsel for Amicus Curiae The Bi- 
+State Development Agency of The 
+Missouri-Illinois Metropolitan District 
+
+
