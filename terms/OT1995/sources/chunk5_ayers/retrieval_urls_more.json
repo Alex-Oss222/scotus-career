@@ -1,0 +1,6 @@
+{
+  "docket_s3.pdf": "https://s3.amazonaws.com/clearinghouse-umich-production/media/doc/45301.pdf",
+  "district_CAP.pdf": "https://static.case.law/f-supp/879/pdfs/1419-01.pdf",
+  "courtlistener_search.html": "https://www.courtlistener.com/?q=%22879+F.+Supp.+1419%22&type=o&order_by=dateFiled+asc",
+  "IA_docket_search.json": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+%28%224%3A75CV009%22+OR+%22Ayers+v.+Fordice%22+OR+%22NAACP+v.+Fordice%22%29&output=json&rows=50&fl%5B%5D=identifier%2Ctitle%2Cdate"
+}

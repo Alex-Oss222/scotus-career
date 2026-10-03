@@ -1,0 +1,82 @@
+{
+  "IA_docket_search.json": {
+    "bytes": 679,
+    "sha256": "8dd0056727d43cf35de657033fdddb70a188c25cf91e5bafdc1ef8c4baec9de6"
+  },
+  "IA_name_search.json": {
+    "bytes": 4995,
+    "sha256": "7e8a4ba3701c8afeaef7edbae7cddb1cf8a9501327782d6dcee1851492a75e21"
+  },
+  "MARCH_7_1995_DECREE_VERBATIM_OCR.md": {
+    "bytes": 7768,
+    "sha256": "c224257f719cba4bf169056b52b2b04d5e265388960d6e409eb2e54af325ddd2"
+  },
+  "SOURCE_MAP_AND_RETRIEVAL.md": {
+    "bytes": 9943,
+    "sha256": "3627d377f3de5aa870d28b8dcd90c47be0181452a5de21054d576bf0045a91b6"
+  },
+  "STATUTORY_AND_RULE_TEXT.md": {
+    "bytes": 4848,
+    "sha256": "cd521f229b00b71592e9983e8ffe5520ca5ee29833db5af7ca44e9c621520c1b"
+  },
+  "cornell_1254.html": {
+    "bytes": 33264,
+    "sha256": "3ca0c96fbb3e030933c720405b3f69fd73c7951092086bfb102829419ca76d51"
+  },
+  "cornell_1254_text.txt": {
+    "bytes": 4891,
+    "sha256": "223775a7140fd588fb7741072f34cc9f7ca0472d887005fa08cab91dcac8afef"
+  },
+  "cornell_2000d.html": {
+    "bytes": 63341,
+    "sha256": "bb1e6d7e9146a7081d2bfe594625c8078162512a135ce7561f255662813091c2"
+  },
+  "cornell_2000d1.html": {
+    "bytes": 56350,
+    "sha256": "97b29e6e9e0cb2ea1eae212370db635a49a485ef32158f9c5e8f26363cbc9d46"
+  },
+  "cornell_2000d1_text.txt": {
+    "bytes": 12540,
+    "sha256": "55878c7c41293c7e4fa520c693f17ab41787a7950b04a7964d1ec322f30d48f4"
+  },
+  "cornell_2000d_text.txt": {
+    "bytes": 24057,
+    "sha256": "1a2adb82d66818012a8d5858e5982cc95ba422911d081d308cf5bc39761d6c90"
+  },
+  "cornell_2101.html": {
+    "bytes": 42293,
+    "sha256": "b213a5da68ec750f267ee79f8bf0d42c5abc21f7376b2cfb2582b56cb2477655"
+  },
+  "cornell_2101_text.txt": {
+    "bytes": 10964,
+    "sha256": "eb48d6f61be9077feb010eed521530617a6501e1e0f6fb2ecae6d2707f706b1b"
+  },
+  "cornell_2106.html": {
+    "bytes": 31372,
+    "sha256": "549ad76ce595f71dbfc0e6281374c5ce79f173c6fcaffe06617164fbc4af90a9"
+  },
+  "cornell_2106_text.txt": {
+    "bytes": 4193,
+    "sha256": "3568713a09fcdfb445c78e313394b5e66d4a45a524e2e5b4161aa275d4983523"
+  },
+  "district_CAP.txt": {
+    "bytes": 322422,
+    "sha256": "600a04467b357a4b7173928aadf466530231af9fba4249c2bc7658fb193be856"
+  },
+  "district_CAP2.html": {
+    "bytes": 523794,
+    "sha256": "cf85e05f885fe8a107095070dc8196389dba853e88e7c11e4e4020f62a7554eb"
+  },
+  "district_CAP_metadata.json": {
+    "bytes": 9476,
+    "sha256": "e6c4062efb792b4893b5d03e99676bac4c7da0662bf499c23a972c3490c82b2b"
+  },
+  "retrieval_urls.json": {
+    "bytes": 456,
+    "sha256": "0b407a8892f5bd6d243a10300518b4c0ed3915e23ebc563cd694009ecc13c8db"
+  },
+  "retrieval_urls_more.json": {
+    "bytes": 534,
+    "sha256": "142524d1f3121decf28f89a28529a67879adaf161c97290993e076ac812bd46c"
+  }
+}
