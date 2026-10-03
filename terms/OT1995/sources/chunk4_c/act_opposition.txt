@@ -1,0 +1,896 @@
+~ Supreme Court, U.S. 
+9. ) FILED 
+
+
+No. 95-620 DFC 12 1995 
+In the Supreme Court of the Unitech Bees 
+
+
+OCTOBER TERM, 1995 
+
+
+ACTION FOR CHILDREN’S TELEVISION, ET AL., 
+PETITIONERS 
+
+
+v. 
+
+
+FEDERAL COMMUNICATIONS COMMISSION 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE DISTRICT OF COLUMBIA CIRCUIT 
+
+
+BRIEF FOR THE RESPONDENT IN OPPOSITION 
+
+
+WILLIAM E. KENNARD 
+General Counsel 
+CHRISTOPHER J. WRIGHT 
+Deputy General Counsel 
+DANIEL M. ARMSTRONG 
+Associate Ger eral Counsel 
+JAMES M. CARR 
+Counsel 
+Federal Communications 
+
+
+Commission 
+Washington, D.C. 20554 
+
+
+DREW S. Days, III 
+Solicitor General 
+
+FRANK W. HUNGER 
+Assistant Attorney 
+
+General 
+
+BARBARA L. HERWIG 
+
+JACOB M. LEWIS 
+Attorneys 
+Department of Justice 
+Washington, D.C. 20530 
+(202) 514-2217 
+
+
+QUESTION PRESENTED 
+
+
+Whether the statutes governing the enforcement of 
+the federal limitations on the broadcast of indecent 
+programming are unconstitutional, either on their 
+face or as generally applied by the Federal Communi- 
+
+
+cations Commission. 
+
+
+(I) 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+r 1 
+1 1 
+SS 2 
+S ee x 
+EEE Ee 17 
+TABLE OF AUTHORITIES 
+Cases: 
+Action for Children's Television v. FCC: 
+862 F.2d 1382 (D.C. Cir. 1988) . . . 2 
+932 F.2d 1504 (D.C. Cir. 1991), cert. denied, 503 
+r 2 
+58 F.3d 654 (D.C. Cir. 1995), petitions for cert., 
+Vr 2. 16 
+Alliance for Community Media, Inc. v. FCC, cert. 
+granted, No. 95-227 (Nov. 15, 19955)ꝶ 11 
+Alexander v. United States, 113 S. Ct. 2766 (1993) . 12 
+Bantam Books, Inc. v. Sullivan, 372 U.S. 58 (1963) 6, 12- 
+13, 15-16 
+Blount v. Rizzi, 400 U.S. 410 (197) 12 
+Denver Area Educational Telecommunications Con- 
+sortium v. FCC, cert. granted, No. 95-124 (Nov. 
+. 10 
+
+
+FCC v. Pacifica Found., 438 U.S. 726 (1978) 2. 16, 17 
+
+
+Fort Wayne Books, Inc. v. Indiana, 489 U.S. 46 
+EE ee 
+Freedman v. Maryland, 380 U.S. 51 (1965) ............ 
+Illinois Citizens Comm. for Broadcasting Corp. v. 
+FCC, 515 F.2d 397 (D.C. Cir. 1975) . ... 
+Liability of Sagittarius Broudcasting Corp., 
+eee 
+Lujan v. Defenders of Wildlife, 504 U.S. 555 
+
+
+(111) 
+
+
+IV 
+
+
+Cases—Continued: Page 
+
+
+Riley v. National Federation of the Blind, 487 U.S. 
+0 SS . 
+Sable Communications of Calif., Inc. v. FCC, 492 
+I. Se 17 
+Sagittarius Broadcasting Corp., 8 F.C. C. R. 3600 
+) — 15 
+Sagittarius Broadcasting Corp., FCC No. 95-386, 
+1995 WL 521389 (Sept. 1, 1995) . 9 
+Southeastern Promotions, Ltd. v. Conrad, 420 U.S. 
+
+
+Taylor v. Freeland & Kronz, 503 U.S. 638 (1992) 
+Turner Broadcasting Sys. v. FCC, 114 S. Ct. 2445 
+
+
+United States v. Evergreen Media Corp., 832 F. 
+Supp. 1179 (N. D. III. 1998) 10 
+
+
+Constitution, statutes, regulations and rule: 
+
+
+I F ccesscadtpeusivnstnarsseepessesseseesssesse 11, 14 
+Communications Act of 1934, 47 U.S.C. 501 et seq.: 
+47 U.S.C. 503(b) (1988 & Supp. V 1993).................... 2 
+47 U.S.C. 503(b)(1)(D) (Supp. V 1993) 2 
+47 U.S.C. 503(b)(2(A) (Supp. V 1993) ... . 4 
+47 U.S.C. 503(b)(2(D) (Supp. V 1993) 4 
+GD Ge, CD ¼!1— 4 
+11111 0 . —88 3 
+A T— 4, 11 
+Saga. a ae 3 
+Public Telecommunications Act of 1992, Pub. L. No. 
+102-356, § 16(a), 106 Stat. 954 (codified at 47 U.S.C. 
+ll —— ͤò— 2 
+111 rr 2. 14 
+
+
+, 4 
+
+
+In the Supreme Court of the United States 
+
+
+OcTOBER TERM, 1995 
+
+
+No. 95-620 
+
+
+ACTION Fox CHILDREN’S TELEVISION, ET AL., 
+PETITIONERS 
+
+
+v. 
+
+
+FEDERAL COMMUNICATIONS COMMISSION 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE DISTRICT OF COLUMBIA CIRCUIT 
+
+
+BRIEF FOR THE RESPONDENT IN OPPOSITION 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (Pet. App. la- 
+30a) is reported at 59 F.3d 1249. The opinion of the 
+district court (Pet. App. 3la-62a) is reported at 827 F. 
+Supp. 4. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+July 18, 1995. The petition for a writ of certiorari was 
+filed on October 16, 1995. The jurisdiction of this 
+Court is invoked under 28 U.S.C. 1254(1). 
+
+
+(1) 
+
+
+STATEMENT 
+
+
+This case involves a constitutional challenge to the 
+procedures by which the Federal Communications 
+Commission (FCC or Commission) enforces the 
+limitations governing the broadcast of indecent pro- 
+gramming. 
+
+1. Section 503(b) of the Communications Act of 
+1934, 47 U.S.C. 503(b) (1988 & Supp. V 1993), 
+authorizes the FCC to impose a monetary forfeiture 
+for violations of various statutory provisions, 
+including 18 U.S.C. 1464, which generally prohibits 
+the broadcast of “obscene, indecent, or profane 
+language.” 47 U.S.C. 503(b)(1)(D) (Supp. V 1993). See 
+generally FCC v. Pacifica Found., 438 U.S. 726 
+(1978). 
+
+
+The substantive contours of the government’s power to 
+regulate indecent broadcast programming, which are not at 
+issue in this case (Pet. App. 3a), have been the subject of a 
+lengthy separate litigation. See Action for Children's Television 
+v. FCC, 852 F.2d 1332 (D.C. Cir. 1988) (remanding FCC's 
+decision to restrict indecent programming to hours after 
+midnight); Action for Children’s Television v. FCC, 982 F.2d 
+1504 (D.C. Cir. 1991), cert. denied, 503 U.S. 913 (1992) (invali- 
+dating 24 hour-a-day ban on such programming). In Section 
+16(a) of the Public Telecommunications Act of 1992, Pub. L. 
+No. 102-356, 106 Stat. 954, codified at 47 U.S.C. 303 note (Supp. 
+V 1993), Congress instructed the FCC to promulgate 
+regulations generally prohibiting indecent broadcasting 
+between the hours of “6 a.m. and 12 midnight.“ In Action for 
+Children’s Television v. FCC, 58 F.3d 654 (D.C. Cir. 1995) (en 
+bane), petitions for cert., Nos. 95-509 (filed Sept. 26, 1995) & 95- 
+520 (filed Sept. 28, 1995), that statute and the FCC’s 
+
+were invalidated to the extent they prohibited 
+indecent broadcast programming between 10 p.m. and 
+midnight. 
+
+
+3 
+
+
+The FCC generally initiates broadcast indecency 
+forfeiture proceedings after receiving an indecency 
+complaint from a listener or viewer that is accom- 
+panied by a tape or transcript of significant excerpts 
+of the offending programming, as well as information 
+identifying the station and the date and time of the 
+broadcast. Pet. App. 4a; C. A. App. 41-42 (Stipulation of 
+Fact No. 9). If a complaint contains the required 
+information, it is examined by the Commission’s staff 
+to determine whether the matter warrants further 
+investigation. If not, the complaint is dismissed. If 
+the complaint is not dismissed, a “Letter of Inquiry” 
+(LOI) often is sent requesting further information 
+from the broadcaster named in the complaint. Pet. 
+App. 33a. 
+
+After further consideration, if the Commission’s 
+staff determines that such action is warranted, a 
+“Notice of Apparent Liability” (NAL) is issued. The 
+NAL sets forth the facts underlying the agency’s 
+claim that the relevant law or regulations were 
+violated, and gives the person an opportunity (gen- 
+erally 30 days) to submit materials in its defense. 47 
+U.S.C. 503(b)(4); 47 C.F.R. 1.80(f)3).2 The Com- 
+
+
+2 Under 47 U.S.C. 504(c), 
+
+
+lim any case where the Commission issues a [NAL] 
+looking toward the imposition of a forfeiture * * *, that 
+fact shall not be used, in any other proceeding before the 
+Commission, to the prejudice of the person to whom such 
+notice was issued, unless (i) the forfeiture has been paid, or 
+
+
+(ii) a court of competent jurisdiction has ordered payment 
+of such forfeiture, and such order has become final. 
+
+
+Petitioners originally asserted that the FCC violates that 
+provision in administering the broadcast indecency scheme. 
+The courts below refused to entertain that statutory claim on 
+the ground that it was within the FCC’s primary jurisdiction, 
+
+
+1 
+
+
+mission or its Mass Media Bureau then reviews the 
+broadcaster’s response (if any) to the NAL, and 
+determines whether a forfeiture is warranted. Pet. 
+App. 34a.“ 
+
+In determining the amount of any forfeiture, the 
+Commission is required to take into account “the 
+nature, circumstances, extent, and gravity of the 
+violation and, with respect to the violator, the degree 
+of culpability, any history of prior offenses, ability to 
+pay, and such other matters as justice may require.” 
+47 U.S.C. 503(b)(2)(D) (Supp. V 1993). In no event may 
+a forfeiture penalty exceed $25,000 for each violation, 
+or each day of a continuing violation. 47 U.S.C. 
+503(b)(2)(A) (Supp. V 1993). A forfeiture for a continu- 
+ing violation arising out of a single act or omission 
+may not exceed $250,000 in total. /bid. 
+
+A forfeiture penalty is due and payable once it has 
+been imposed by the Commission. Any person may 
+refuse to pay the penalty, however, and force the FCC 
+to refer the matter to the U.S. Attorney’s Office for 
+collection in a trial de novo in federal district court. 
+47 U.S.C. 504(a). 
+
+2. This case was commenced by various broad- 
+casters and broadcast organizations, joined by several 
+organizations representing listeners and viewers, 
+who sued in federal district court to challenge the 
+
+
+see Pet. App. 9a-12a, 48a-45a, and petitioners have abandoned it 
+in this Court. See Pet. 10 n.11. 
+
+The statute also authorizes the FCC, in its discretion, to 
+impose a forfeiture after holding a formal administrative 
+hearing, with review of the agency’s decision in the court of 
+appeals under the Administrative Procedure Act. 47 U.S.C. 
+503(b)(3). Although it reserves the right to do so, 47 C. F. R. 
+1.80(g), the FCC currently does not use that procedure to 
+impose a forfeiture for broadcast indecency. Pet. App. 3a. 
+
+
+5 
+
+
+lawfulness of the procedures by which the FCC en- 
+forces the prohibitions against broadcast indecency. 
+Petitioners contended that the regulatory scheme as 
+administered by the FCC unconstitutionally re- 
+strains their expression. The parties filed motions 
+for summary judgment on a stipulated record, and the 
+district court granted judgment for the government. 
+
+After rejecting the contention that petitioners’ 
+constitutional claims fell within the exclusive 
+jurisdiction of the court of appeals, Pet. App. 41a-43a, 
+the district court held that the claims of only 
+petitioner Infinity Broadcasting Corporation (In- 
+finity) were properly before it. Pet. App. 45a-52a. 
+Relying on controlling circuit precedent, the court 
+found that the organizations representing listeners 
+and viewers lacked standing to assert their challenge 
+to the FCC’s indecency forfeiture proceedings. Pet. 
+App. 45a-46a. The court came to the same conclusion 
+regarding the broadcast petitioners that had never 
+been involved in a forfeiture proceeding, reasoning 
+that they could not show that they had suffered any 
+injury from the challenged procedures. Pet. App. 47a- 
+48a. The court also dismissed on ripeness grounds 
+the claims of those broadcasters who had not had final 
+forfeiture orders entered against them, observing 
+that the FCC might decide not to impose a forfeiture. 
+Pet. App. 50a-5la. Finally, the court dismissed the 
+claims of petitioner Evergreen Media on grounds of 
+comity, explaining that Evergreen was challenging 
+the forfeiture order entered against it in a lawsuit 
+pending in another district. Pet. App. 52a. 
+
+On the merits, the district court upheld the consti- 
+tutionality of the broadcast indecency forfeiture 
+procedures. Distinguishing the actions of the Rhode 
+Island commission condemned by this Court in 
+
+
+6 
+
+
+Bantam Books, Inc. v. Sullivan, 372 U.S. 58 (1963), 
+the court found that the FCC is not engaged in “the 
+prior review and censorship of broadcast material,” 
+but is instead enforcing a “court-approved definition 
+of indecency through a system that provides for 
+notice and judicial review.” Pet. App. 59a. 
+
+3. The court of appeals affirmed. It agreed with 
+the district court that petitioner Infinity had 
+standing and that its claims were ripe for adjudica- 
+tion. Pet. App. 12a-l4a. The court also agreed that 
+the FCC is “not operating a scheme of informal 
+censorship like the one held unconstitutional in 
+Bantam Books.” Pet. App. 14a. 
+
+The court of appeals rejected petitioners’ facial 
+challenge to the forfeiture provisions, finding that the 
+provisions are “clearly capable of constitutional 
+application.” Pet. App. 16a. As the court explained, 
+“nothing in the statutes or regulations prevents the 
+Commission from issuing a NAL, imposing a 
+forfeiture, and if need be referring a case to the 
+Department of Justice all within a period of time 
+short enough virtually to eliminate any concern with 
+delay.” Pet. App. 15a (suggesting that “(t]he whole 
+course could probably be run in most cases within, 
+say, 90 days”). 
+
+The court also upheld the constitutionality of the 
+broadcast indecency regulation schee as generally 
+applied by the Commission. As the court observed, 
+“the Commission is not administering anything akin 
+to a literal prior restraint.” Pet. App. 18a. “Broad- 
+casters are free to air what they want; if and only if 
+what they air turns out to transgress established 
+guidelines do they face a penalty—but that is very 
+much after the fact, not prior thereto.” Ibid. 
+
+
+7 
+
+
+In addition, the court observed, the regulatory 
+scheme did not constitute a “prior restraint in 
+effect,” since it would not “cause[] a speaker of rea- 
+sonable fortitude to censor itself in order to conform 
+with an unconstitutional standard.” Pet. App. 18a. 
+Among other things, the court emphasized, it had no 
+evidence that the FCC “is * * * enforcing the statu- 
+tory ban on indecency against material that is not 
+indecent,” or that it “has done anything actively to 
+discourage judicial review of any indecency forfeiture 
+it imposed,” or that it “has failed or will fail to follow 
+judicial guidelines for determining what is indecent 
+and what is not.” Pet. App. 18a-19a. 
+
+Finally, the court pointed to “[t}wo avenues of 
+relief” open to any broadcaster concerned about 
+excessive delay in the administration of the broadcast 
+indecency scheme. Pet. App. 21a. First, the court 
+observed, a broadcaster could “stipulate [to] the facts 
+giving rise to the Notice of Apparent Liability and 
+state that it will not pay the forfeiture unless ordered 
+to do so in district court.” Ibid. That would allow the 
+FCC to refer the matter immediately to the Justice 
+Department, thereby expediting the broadcaster’s 
+opportunity for a judicial trial on the merits. Ibid. In 
+the alternative, the court suggested, a broadcaster 
+“suffering from demonstrably adverse consequences 
+from government delay in initiating the collection 
+proceeding” could file an action seeking a declaratory 
+judgment that the material in question is not inde- 
+cent, and in that manner “dispel any unwarranted 
+chilling effect.” Pet. App. 22a. 
+
+
+* Chief Judge Edwards, concurring, emphasized that 
+petitioners had “failed to show that speech that is not indecent 
+is in fact being chilled.” Pet. App. 24a. Judge Tatel dissented. 
+
+
+ARGUMENT 
+
+
+The court below held that it had jurisdiction over 
+the claims of only one petitioner—lInfinity. In 
+September of this year, however, Infinity executed a 
+settlement agreement with the government that 
+disposed of all of the pending indecency forfeiture 
+actions against it. By reason of that settlement, 
+Infinity no longer has a concrete stake in the outcome 
+of the claims it asserts in this case. Because the 
+petition for certiorari does not seek to review the 
+district court’s dismissal of the claims asserted by 
+any of the other petitioners for lack of standing or 
+ripeness, and because Infinity is no longer subject to 
+any indecency proceedings, the petition should be 
+denied. 
+
+The decision below is also the first by any court of 
+appeals to address the constitutionality of the 
+procedures by which the FCC enforces the statutory 
+limitations against the broadcast of indecent pro- 
+grammi:g. Because the decision does not conflict 
+with that of any other court and correctly disposes of 
+the issues presented by this case, further review is 
+not warranted. 
+
+1. As petitioners acknowledge (Pet. 7), on Septem- 
+ber 1, 1995, Infinity entered into a comprehensive 
+settlement agreement with the FCC and the 
+Department of Justice that disposed of all pending 
+indecency forfeiture matters against it. 
+
+Pursuant to that agreement, the FCC vacated the 
+pending forfeiture order and NALs that had been 
+issued against Infinity, and ordered its Mass Media 
+
+
+In his view, the case should have been remanded to the district 
+court “to establish procedures to facilitate prompt judicial 
+review of forfeiture determinations.” Pet. App. 30a. 
+
+
+9 
+
+
+Bureau to dismiss “as to Infinity * * * all pending 
+complaints that either involve programming aired or 
+originated by Infinity.” Sagittarius Broadcast- 
+ing Corp., FCC No. 95-386, 1995 WL 521389 (Sept. 1, 
+1995), at 2. The FCC also agreed to treat the for- 
+feiture, the NALs and the pending complaints “as 
+null, void, and expunged from Infinity’s record for all 
+purposes, including, but not limited to, any future 
+qualifications issue, future licensing proceeding or 
+future transfer of control or assignment of license or 
+permit involving Infinity.” Id. at 4. By reason of the 
+settlement and the disposition of all pending in- 
+decency enforcement actions against it, Infinity is no 
+longer suffering any concrete, imminent injury 
+resulting from the FCC’s enforcement of the 
+broadcast indecency limitations. This Court there- 
+fore lacks jurisdiction to review its claim that the 
+enforcement procedures are unconstitutional. See 
+Lujan v. Defenders of Wildlife, 504 U.S. 555, 561 
+(1992). 
+
+Petitioners briefly assert in a footnote in their 
+statement of the case that the district court’s dis- 
+missal of the constitutional claims of petitioners 
+other than Infinity was improperſ ].“ Pet. 10 n.11. 
+But nowhere in their questions presented (or else- 
+where in the petition, for that matter) do petitioners 
+raise the issues of standing, ripeness, and comity 
+relied upon by the district court to dismiss those 
+claims. See Pet. i, 12-22. Petitioners have thus failed 
+to preserve those issues for review by this Court. 
+Sup. Ct. R. 14.1(a); Taylor v. Freeland & Kronz, 503 
+U.S. 638, 645 (1992). 
+
+In sum, Infinity has comprehensively settled the 
+FCC’s case against it, thus placing its standing and 
+the ripeness of its claim in no different posture than 
+
+
+10 
+
+
+those of the other broadcast petitioners. In this 
+Court, petitioners do not challenge the district 
+court’s disposition of the other petitioners’ claims on 
+standing, ripeness, and comity grounds. Since that 
+disposition provides an independent and unchallenged 
+basis for affirmance of the judgment below, peti- 
+tioners are in no position to secure review by this 
+Court of the claims they press in their petition. 
+
+2. Moreover, petitioners do not claim that there is 
+any conflict among the circuits on the issues disposed 
+of by the decision below. On the contrary, the court of 
+appeals was the first to address the constitutionality 
+of the FCC’s broadcast indecency forfeiture scheme. 
+Other broadcasters remain free to attempt to per- 
+suade another court of appeals that, despite the 
+decision below, the Commission’s enforcement of the 
+broadcast indecency limitations is constitutionally 
+defective. In addition, an individual broadcaster can 
+also raise the same issues as part of its defense to a 
+suit to collect an indecency forfeiture. See United 
+States v. Evergreen Media Corp., 832 F. Supp. 1179, 
+1183 (N.D. III. 1993). Unless and until a circuit con- 
+flict arises on the issues presented by this case, 
+review by this Court would not be warranted even if 
+the proffered issues were properly before this Court.“ 
+
+
+5 There is no reason to hold this petition pending the 
+disposition of Pacifica Foundation v. FCC, petition for cert., 
+No. 95-509 (filed Sept. 26, 1995), and Action for Children’s 
+Television v. FCC, petition for cert., No. 95-520 (filed Sept. 28, 
+1995). Those cases involve the substance of the government’s 
+power to regulate indecent broadcast programming, not the 
+procedures by which indecency restrictions are enforced. Nor 
+should the petition in this case be held for disposition in light of 
+Denver Area Educational Telecommunications Consortium, 
+Inc. v. FCC, cert. granted, No. 95-124 (Nov. 13, 1995), and 
+
+
+11 
+
+
+3. There is no merit in any event to petitioners’ 
+claims that the broadcast indecency enforcement 
+scheme constitutes a system of “informal censorship” 
+or a prior restraint. Pet. 14. By statute, a broad- 
+caster subject to an FCC indecency enforcement 
+proceeding has the unrestricted right to a trial “de 
+novo” in federal district court before it can be 
+required to pay any forfeiture penalty. 47 U.S.C. 
+504(a). If the district court does not agree with the 
+FCC’s indecency determination, the broadcaster 
+cannot be compelled to pay the forfeiture. There is 
+thus no enforceable obligation to pay an FCC broad- 
+cast indecency forfeiture order until a district court 
+has determined, after a trial, that the Commission’s 
+indecency determination is correct. 
+
+Petitioners assert that they nonetheless “attempt 
+to conform their conduct to the indecency standards 
+articulated by the FCC and its Commissioners, 
+whether or not they believe those standards are 
+constitutional.” Pet. 12 n.15 (emphasis omitted). 
+Because it is ordinarily assumed that persons will 
+attempt to conform their conduct to federal law, as 
+announced and enforced by the appropriate 
+authorities, petitioners’ voluntary efforts to do so do 
+not convert the FCC’s actions into a censorship 
+scheme. As this Court has recognized, deterrence of 
+unlawful conduct, even in the area of the First 
+Amendment, is a “legitimate end” of government. 
+Fort Wayne Books, Inc. v. Indiana, 489 U.S. 46, 60 
+
+
+Alliance for Community Media, Inc. v. FCC, cert. granted, No. 
+95-227 (Nov. 13, 1995). Those cases involve the government’s 
+substantive power to regulate indecent programming under 
+the entirely different regulatory scheme governing cable 
+television; they too do not involve the procedures by which the 
+regulations are enforced. 
+
+
+12 
+
+
+(1989); Alexander v. United States, 113 S. Ct. 2766, 
+2774 (1993). In this case, the court of appeals found, 
+there is no basis on which to conclude that “the FCC 
+is * * enforcing the statutory ban on indecency 
+against material that is not indecent.” Pet. App. 18a. 
+If petitioners disagree, however, they have only to 
+refuse to pay any particular forfeiture and force the 
+Commission to shoulder its burden of convincing a 
+court that the material at issue is in fact indecent. 
+
+Because the FCC’s forfeiture orders are not self- 
+executing, petitioners err in asserting (Pet. 14-15) 
+that the court of appeals’ decision conflicts with a 
+number of cases in which this Court has emphasized 
+the need for prompt judicial review of prior re- 
+straints, see Southeastern Promotions, Lid. v. 
+Conrad, 420 U.S. 546, 556 (1975); Freedman v. 
+Maryland, 380 U.S. 51, 60 (1965), or similar schemes 
+under which government action to suppress speech 
+took effect before the target of the action had the 
+opportunity for judicial review, Riley v. National 
+Federation of the Blind, 487 U.S. 781, 801-802 (1988) 
+(professional fundraisers had “to await a determina- 
+tion regarding their license application before 
+engaging in solicitation”); Blount v. Rizzi, 400 U.S. 
+410, 418-419 (1971) (once administrative order is 
+entered, orders for magazines may be returned to 
+senders and money orders may not be paid to 
+publishers of magazines). Those cases provide no 
+support for petitioners’ contention that prompt 
+judicial review is similarly essential where the 
+governmental action takes effect only after judicial 
+review occurs. . 
+
+4. Petitioners err in asserting (Pet. 13-19) that 
+the decision of the court of appeals conflicts with this 
+Court’s decision in Bantam Books, Inc. v. Sullivan, 
+
+
+13 
+
+
+872 U.S. 58 (1963). In Bantam Books, the Rhode 
+Island Commission to Encourage Morality in Youth 
+notified book distributors that certain publications 
+had been found “to be objectionable for sale, 
+distribution or display to youths under 18 years of 
+age,” id. at 61, and that the Commission had a “duty to 
+recommend” criminal prosecution of purveyors of 
+obscenity, id. at 62. The Rhode Island Commission 
+also circulated copies of the list of objectionable items 
+to local police departments, and local police typically 
+visited distributors to follow up on the Commission’s 
+notice. Id. at 62-63. Those tactics had the effect of 
+causing distributors to withdraw their materials 
+from circulation while at the same time discouraging 
+them from contesting the Commission’s actions in 
+court. Id. at 63-64. As this Court found, the 
+Commission had “deliberately set about to achieve the 
+suppression of publications deemed ‘objectionable’ and 
+succeeded in its aim.” Id. at 67. 
+
+As the court of appeals explained, It he lesson of 
+Bantam Books” is thet the government “may not 
+move to suppress speech by means of a scheme that, 
+as a practical matter, forecloses the speaker from 
+obtaining a judicial determination of whether the 
+
+
+is simply “no indication” that the FCC has done 
+
+
+anything “actively to discourage judicial review of 
+any indecency forfeiture it imposed.” Pet. App. 19a.° 
+
+
+That few indecency cases have come before the district 
+courts does not suggest that review is being obstructed, since 
+the dearth of such cases may be “the effect of any of several 
+
+
+14 
+
+
+Petitioners complain (Pet. 13) that they face lelays 
+in obtaining judicial review.’ But since a broadcaster 
+is not under an enforceable obligation to pay a for- 
+feiture penalty until a district court has found in the 
+Commission’s favor, any delay in. obtaining judicial 
+review does not, by itself, unduly burden petitioners’ 
+speech. In any event, as the court of appeals noted 
+(Pet. App. 21a-22a), broadcasters have available ways 
+of expediting the enforcement process—including 
+
+
+stipulating to the facts or announcing an intention 
+not to pay—that can serve to minimize any delay.“ 
+
+
+15 
+AF 
+i 
+1 
+ö 
+ii 
+
+
+E 
+: 
+, 
+
+
+15 
+
+
+Petitioners also allude to the fact that individual 
+FCC Commissioners have on occasion made public 
+statements exhorting broadcasters to adhere to the 
+Commission’s indecency determinations. Pet. 5-6. As 
+petitioners are aware, however, statements by indi- 
+vidual Commissioners do not constitute actions by 
+the Commission itself. Jllinois Citizens Comm. for 
+Broadcasting v. FCC, 515 F.2d 397, 402 (D.C. Cir. 
+1975). Moreover, none of those statements does more 
+than emphasize that individual Commissioners take 
+seriously the Commission’s indecency enforcement 
+responsibilities. It is not improper for the Commis- 
+sioners, who are public officials, to discuss their 
+views as to Commission policies. Indeed, as this 
+Court emphasized in Bantam Books, it has never 
+suggested “that law enforcement officers must 
+renounce all informal contacts with persons 
+suspected of violating valid laws [regulating speech] 
+* * * (where such consultation is genuinely under- 
+taken with the purpose of aiding the distributor to 
+comply with such laws and avoid prosecution under 
+them.” 372 U.S. at 71-72. 
+
+There are a number of other reasons why the 
+claims of informal censorship in this case are “not 
+nearly as compelling” as those asserted in Bantam 
+Books. Pet App. 21a. For example, in Bantam Books, 
+a particular concern was that the informal and 
+unreviewable actions taken by the Rhode Island 
+Commission to Encourage Morality in Youth were 
+backed up with the threat of society’s most severe 
+punishment—a prosecution for violation of a criminal 
+statute. See 372 U.S. at 68 (“People do not lightly 
+
+
+in May 1993. See Sagittarius Broadcasting Corp., 8 F.C. C. R. 
+3600 (1993). 
+
+
+16 
+
+
+disregard public officers’ thinly veiled threats to 
+institute criminal proceedings against them if they do 
+not come around.”). In this case, the FCC’s actions 
+are reviewed de novo in a civil proceeding to collect 
+the amount of the forfeiture—a proceeding that is not 
+likely to have a similar effect on broadcasters, who 
+have generally been able in the past to represent their 
+interesis forcefully in court when they choose to do 
+so. Moreover, this case, unlike Bantam Books, in- 
+volves the regulation of broadcasting, which has 
+historically received “the most limited First 
+Amendment protection.” FCC v. Pacifica Found., 
+438 U.S. 726, 748 (1978); see Turner Broadcasting 
+Sys. v. FCC, 114 S. Ct. 2445, 2456 (1994). Broadcasters 
+also receive notice and an opportunity to be heard 
+before the FCC makes any final determination of 
+indecency. Compare 372 U.S. at 71. Lastly, while a 
+bookseller seeking to avoid a dispute with the Rhode 
+Island Commission had to cease selling the disputed 
+beoks to anyone—child or adult—a broadcaster 
+wishing to avoid a dispute with the FCC “need only 
+move its arguably indecent material to a different 
+time of day, not refrain from broadcasting it altogeth- 
+er.” Pet. App. 2la. See generally Action for 
+Children’s Television v. FCC, 58 F.3d 654 (D.C. Cir. 
+1995) (en banc), petitions for cert., Nos. 95-509 & 95- 
+520. 
+
+In the end, petitioners’ claims would eflectively 
+preclude the Commission from developing and 
+elaborating upon “Congress’s declared policy of 
+banning indecency from the air-waves during certain 
+hours of the day.” Pet. App. 19a. There is nothing in- 
+herently unconstitutional about administrative en- 
+forcement of otherwise lawful government regulation 
+of speech. In this case, moreover, the Commission’s 
+
+
+17 
+
+
+expertise and policy judgment are especially well- 
+suited to resolution of the factual and contextual 
+
+
+issues that underlie indecency determinations. FCC 
+v. Pacifica Found., 438 U.S. at 742, 750; see Sable 
+Communications of Cal., Inc. v. FCC, 492 U.S. 115, 
+130 (1989). 
+
+
+CONCLUSION 
+
+
+The petition for a writ of certiorari should be 
+denied. 
+Respectfully submitted. 
+
+
+Drew S. Days, III 
+Solicitor General 
+FRANK W. HUNGER 
+
+Assistant Attorney 
+
+
+WILLIAM E. KENNARD General 
+
+
+General BARBARA L. HERWIG 
+— — Jacos M. LEwis 
+; Attorneys 
+
+
+Deputy General Counsel 
+DANIEL M. ARMSTRONG 
+Associate General Counsel 
+JAMES M. CARR 
+Counsel 
+Federal Communications 
+Commission 
+
+
+DECEMBER 1995 
+
+

@@ -10585,15 +10585,13 @@ The [order effective August 3, 1994](https://github.com/Alex-Oss222/scotus-caree
 
 ## Current-term law: sanitized neutral projection
 
-Verbatim authorized current-term projection at preparation; event-specific refresh remains necessary.
-
 # OT1995 Current-Term Neutral Projection
 
 **Governing-law relation:** Love supplies the personal-holder rule; Hale returns the preserved §922(o) arms application under that rule and Miller.
 
 ## Scope, law and chronology
 
-**Posture:** Chunks 1–3 contain 36 completed Court events, with the latest effective date **1996-02-21**, plus two admitted statutory sources effective October 1, 1995 and February 8, 1996. Bank One and the consolidated Bishop/Stokes event are completed; Love is completed ([December 11 public disposition and remand](../entering-law/PUBLIC_Love_v_Pepersack_merits_1995-12-11.md)). Wood remains open for plenary review; Louisiana No. 121 retains implementation jurisdiction; the five inherited undated carryovers remain open. The February 21 group is not complete: chunk 4 contains additional uncoordinated same-day events, which use the common pre-group law and do not receive Behrens or Fulton as intervening authority.
+**Posture:** Chunks 1–3 contain 36 completed Court events, with the latest effective date **1996-02-21**, plus three admitted statutory sources: the October 1, 1995 paternity amendment and the February 8, 1996 Telecommunications Act sections 302 and 551. Bank One and the consolidated Bishop/Stokes event are completed; Love is completed ([December 11 public disposition and remand](../entering-law/PUBLIC_Love_v_Pepersack_merits_1995-12-11.md)). Wood remains open for plenary review; Louisiana No. 121 retains implementation jurisdiction; the five inherited undated carryovers remain open. The February 21 group is not complete: chunk 4 contains additional uncoordinated same-day events, which use the common pre-group law and do not receive Behrens or Fulton as intervening authority.
 
 The opening trackers are the synchronized **October 1, 2026 edition**: **Last completed October Term: 1994**; **Processed through: June 29, 1995, after all 99 OT1994 inventory Court events and the two admitted source events.** The divergence point is October 7, 1991.
 
@@ -10729,7 +10727,7 @@ Dates for completed entries are established by their Records; dates for remainin
 
 **Same-day grouping:** every equal event date is one group, including the five groups split across chunks: **1996-02-21 (3/4), 1996-05-20 (6/7), 1996-06-10 (7/8), 1996-06-20 (8/9), and 1996-06-26 (9/10)**. Inventory order is a display tie-break only. Uncoordinated same-day events use the common pre-group law even across separate Run tasks. The two Kirchner matters are expressly coordinated on June 21 but retain a common baseline and distinct questions and remedies; their file order creates no intervening holding. Stutson's reference to an earlier Lawrence release is conditional, not an established January 8 sequence.
 
-Chunks 1–3 contain 36 completed Court events, with the latest effective date **1996-02-21**, plus two admitted statutory sources effective October 1, 1995 and February 8, 1996. Bank One and the consolidated Bishop/Stokes event are completed; Love is completed ([December 11 public disposition and remand](../entering-law/PUBLIC_Love_v_Pepersack_merits_1995-12-11.md)). Wood remains open for plenary review; Louisiana No. 121 retains implementation jurisdiction; the five inherited undated carryovers remain open. The February 21 group is not complete: chunk 4 contains additional uncoordinated same-day events, which use the common pre-group law and do not receive Behrens or Fulton as intervening authority.
+Chunks 1–3 contain 36 completed Court events, with the latest effective date **1996-02-21**, plus three admitted statutory sources: the October 1, 1995 paternity amendment and the February 8, 1996 Telecommunications Act sections 302 and 551. Bank One and the consolidated Bishop/Stokes event are completed; Love is completed ([December 11 public disposition and remand](../entering-law/PUBLIC_Love_v_Pepersack_merits_1995-12-11.md)). Wood remains open for plenary review; Louisiana No. 121 retains implementation jurisdiction; the five inherited undated carryovers remain open. The February 21 group is not complete: chunk 4 contains additional uncoordinated same-day events, which use the common pre-group law and do not receive Behrens or Fulton as intervening authority.
 
 | Chunk | Inventory matters | Inventory sequence | First scheduled event | Last scheduled event |
 |---|---|---|---|---|
@@ -10953,7 +10951,7 @@ Love v. Pepersack is completed; further proceedings follow the [December 11 publ
 
 ## Chunk 3 completed-event projection
 
-Chunks 1–3 contain 36 completed Court events, with the latest effective date **1996-02-21**, plus two admitted statutory sources effective October 1, 1995 and February 8, 1996. Bank One and the consolidated Bishop/Stokes event are completed; Love is completed ([December 11 public disposition and remand](../entering-law/PUBLIC_Love_v_Pepersack_merits_1995-12-11.md)). Wood remains open for plenary review; Louisiana No. 121 retains implementation jurisdiction; the five inherited undated carryovers remain open. The February 21 group is not complete: chunk 4 contains additional uncoordinated same-day events, which use the common pre-group law and do not receive Behrens or Fulton as intervening authority.
+Chunks 1–3 contain 36 completed Court events, with the latest effective date **1996-02-21**, plus three admitted statutory sources: the October 1, 1995 paternity amendment and the February 8, 1996 Telecommunications Act sections 302 and 551. Bank One and the consolidated Bishop/Stokes event are completed; Love is completed ([December 11 public disposition and remand](../entering-law/PUBLIC_Love_v_Pepersack_merits_1995-12-11.md)). Wood remains open for plenary review; Louisiana No. 121 retains implementation jurisdiction; the five inherited undated carryovers remain open. The February 21 group is not complete: chunk 4 contains additional uncoordinated same-day events, which use the common pre-group law and do not receive Behrens or Fulton as intervening authority.
 
 ### Effective public law
 
@@ -11100,3 +11098,58 @@ All twelve chunk 3 Court events are completed. Bank One returns to the Seventh C
 [Love, December 11](../entering-law/PUBLIC_Love_v_Pepersack_merits_1995-12-11.md), establishes personal invocation without formal organized-militia membership, service or preparation. [Hale, February 12](../entering-law/PUBLIC_United_States_v_Hale_merits_1996-02-12.md), applies that governing premise in its unanimous Part III-A and rejects both exclusion and automatic immunity based solely on military usefulness. Its eight-Justice Part III-B vacates the thirteen-count §922(o) appellate affirmance for the preserved weapon-and-regulation inquiry. The old personal-affiliation prerequisite supplies no current holding. Stone-Zsela's functional automatic-fire distinction is his unjoined position, not the Court's weapons classification. The three registration convictions and independent power and evidence rulings retain their stated authority and limits.
 
 No other completed later disposition, controlling holding or published position is changed by these completed events. Their actual effective dates govern later entering law; uncoordinated same-day matters retain the common pre-group baseline.
+
+## Additional enacted source: television parental choice
+
+[Public source reading copy](../entering-law/PUBLIC_Telecommunications_Act_section_551_statutory_admission_1996-02-08.md) supplies section 551 of Public Law 104-104, enacted February 8, 1996. The conditional rating amendment cannot take effect before February 8, 1997, and the covered manufacturing requirement cannot become applicable before February 8, 1998. The complete terms, exceptions and conditions remain in the enacted text. No later FCC action or nationwide operational ratings/blocking system is established for March 1996. Legislative findings are not judicial findings or a holding on the pending broadcast challenge. No Court case changes stage by this source alone.
+
+
+## Additional admitted current-term public source: FY1996 Medicaid continuation
+
+# Public law reading copy
+
+Authority: [Record](../records/FY1996_Medicaid_appropriations_continuation_1996-01-06.md).
+
+## Event
+
+Public Law 104-91, title I, enacted January 6, 1996, with its covered period deemed to begin December 16, 1995.
+
+## Participation
+
+No judicial participation attaches to enactment.
+
+## Public Action
+
+The Medicaid-account continuation is enacted. The Court takes no action.
+
+## Judgment & Remedy
+
+No judicial judgment or remedy is entered.
+
+## Opinion Topology
+
+There is no judicial writing.
+
+## Holdings
+
+The source creates no judicial holding.
+
+## Precedent Treatment
+
+No Court decision treats precedent in this event.
+
+## Law After Decision
+
+The listed Medicaid activity continues under the applicable fiscal year 1995 authority and conditions, including Public Law 103-333 section 509, subject to Public Law 104-91's rate and expenditure terms. The authority ends at the earliest of the statutory replacement-enactment events or September 30, 1996, unless otherwise provided in the specified statutory sources. The source supplies no judicial determination of the pending state-funding dispute and no automatic disposition of its injunction.
+
+## Separate Writings
+
+There are no judicial separate writings.
+
+## Procedure After Action
+
+No pending Court matter changes stage solely through this enactment. The March 18 funding case must use the applicable account-specific continuation rather than assume that the prior annual title alone ended its conditions.
+
+## Source Notes
+
+[Public Law 104-91, title I, 110 Stat. 10–14](https://www.govinfo.gov/content/pkg/PLAW-104publ91/html/PLAW-104publ91.htm); Public Law 103-333 section 509, 108 Stat. 2573, and its Medicaid account at 108 Stat. 2554–2555. All statutory limitations remain in the complete enacted text.

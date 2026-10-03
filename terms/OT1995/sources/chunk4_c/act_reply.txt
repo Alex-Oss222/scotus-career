@@ -1,0 +1,745 @@
+IN THE 
+
+
+Supreme Court of the Ginited States 
+
+
+OCTOBER TERM, 1995 
+
+
+ACTION For CHILDREN’S TELEVISION, ef ai., 
+Petitioners, 
+Vv. 
+FEDERAL COMMUNICATIONS COMMISSION, 
+Respondent. 
+
+
+On Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the District of Columbia Circuit 
+
+
+REPLY FOR PETITIONERS 
+
+
+TIMOTHY B. DYK 
+(Counsel of Record) 
+
+GREGORY G. KATSAS 
+
+JONES, DAY, REAVIS 
+& POGUE 
+
+1450 G Street, N.W. 
+
+Washington, D.C. 20005 
+
+(202) 879-3939 
+
+Counsel for Petitioners 
+
+
+[Additional Counsel Listed After Conclusion] 
+
+
+d 
+’ 
+
+
+TABLE OF CONTENTS 
+Page 
+EE ii 
+IE OMB hers sn so a'n oo 4 Sb hic 0H Ss od oo l 
+
+
+CE ee en 8 
+
+
+ii 
+TABLE OF AUTHORITIES 
+Cases 
+
+
+Babbitt v. United Farm Workers Nat’l Union, 
+
+443 U.S. TD COTE 6 oc cucineupe eee 
+Bantam Books, Inc. v. Sullivan, 372 U.S. 58 (1963) ... 
+Blount v. Rizzi, 400 U.S. 410 (1971) ............. 
+Cruz v. Ferre, 755 F.2d 1415 (ilth Cir. 1985)....... 
+Denver Area Telecommun. Consortium, Inc. v. FCC, 
+
+156 DS. Ce GEG GED. 0 hb eceubeae ten beeesaeee 
+Doe v. Bolton, 410 U.S. 179 (1973) ............. 
+Epperson v. Arkansas, 393 U.S. 97 (1968) ......... 
+FCC v. Pacifica Found. , 438 U.S. 726 (1978) ....... 
+Ivan Allen Co. v. United States, 422 U.S. 617 (1975 ... 
+Lujan v. Defenders of Wildlife, 504 U.S. 555 (1992) ... 
+Planned Parenthood Federation v. Agency for Int'l 
+
+Development, 915 F.2d 59 (2d Cir. 1990), 
+
+cert. denied, 500 U.S. 952 (1991). ............. 
+Public Service Comm’n v. Brashear Freight Lines, Inc.., 
+
+SUB Us. SEO GUEGPD 3 6s cee cate taken wen 
+Southeastern Promotions, Ltd. v. Conrad, 
+
+ke ees ee ere 
+Steffel v. Thompson, 415 U.S. 452 (1974) .......... 
+Trainor v. Hernandez, 431 U.S. 434 (1977) ........ 
+United States v. Evergreen Media Corp.., 
+
+832 F. Supp. 1179 (N.D. Ill. 1993)............. 
+United States v. P.H.E., Inc., 965 F.2d 848 
+
+tle Bec ee yee er ee. 
+Village of Arlington Heights v. Metropolitan Housing Dev. 
+
+Comp... GD CB. ae ete. 4404 bred 0 6 se et 
+Washington v. Confederated Bands & Tribes of Yakima 
+
+Indian Nation, 439 U.S. 463 (1979) ............ 
+Younger v. Harris, 401 U.S. 37 (1971) ........... 
+
+
+2, 7 
+
+
+iii 
+Administrative Orders 
+In the Matter of Sagittarius Broadcasting Corp., 
+
+
+1995 FCC LEXIS 5924 (Sept. 5, 1995) ........... 
+
+
+Notice of Apparent Liability to Infinity Broadcasting Corp., 
+
+
+Dc ccs cosceseeseccccces 
+
+
+Miscellaneous Authority 
+Brief of Appellants, Action for Children’s Television v. 
+
+
+FCC, No. 93-5178 (D.C. Cir. May 18, 1994) ....... 
+
+
+Complaint, Action for Children’s Television v. FCC, 
+No. 93-0400 (D.D.C. Feb. 24, 1993) ........... 
+Petition for Certiorari, FCC v. Action for Children’s 
+
+
+Television, No. 91-952 (Dec. 16, 1991) ........... 
+Restatement (Second) of Judgments (1982) .......... 
+
+
+Stipulations of Fact, Action for Children’s Television v. 
+FCC, No. 93-0400 (D.D.C. Mar. 24, 1993) ....... 
+
+
+a 
+mes 
+
+
+by 1 Sas 
+
+
+eee 
+
+. 2 Tee iden i 
+ry Re: 7? 
+— are) ane a 
+> SE Nee? 1 | 
++ es ee oe 
+
+a ae Ve cee haz comptiantye ae b a oh 
+
+
+: - i Eee ia hes 7 ay - ¥i 
+? 
+
+
+. . + we | 
+« ‘ é Sal, ? 7 e 
+’ Co: | 7 
+< f 7 ay 
+"4 — = 7 A, t ‘ 
+* a s 
+
+¢' R en al ~ ' 
+| Z Sy 
+o] 4 re *- 
+
+
+IN THE 
+
+
+Supreme Court of the Ginited States 
+
+
+OCTOBER TERM, 1995 
+
+
+No. 95-620 
+
+
+ACTION FOR CHILDREN’S TELEVISION, et ai., 
+Petitioners, 
+v. 
+
+
+FEDERAL COMMUNICATIONS COMMISSION, 
+Respondent. 
+
+
+On Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the District of Columbia Circuit 
+
+
+REPLY FOR PETITIONERS 
+
+
+1. The FCC’s brief in opposition is most significant for what 
+it leaves undisputed. First, the FCC does not dispute the 
+exceptional importance of the question whether its scheme of 
+indecency regulation is constitutional. As the FCC itself urged 
+four years ago, the constitutionality of broadcast indecency 
+restrictions “warrants this Court’s attention” because it is “an 
+issue of concern to virtually every American household.” Petition 
+for Certiorari at 21, FCC v. Action for Children’s Television, No. 
+91-952 (Dec. 16, 1991). Since 1987, the FCC has issued at least 
+47 NALs for allegedly indecent broadcasting. Pet. 9 & n.10. 
+The FCC also has announced plans to issue over 100 more, appa- 
+
+
+rently depending on the outcome of current litigation. See /n the 
+
+
+Matter of Sagittarius Broadcasting Corp., 1995 FCC LEXIS 
+5924, at *4 (Sept. 5, 1995) (Statement of Chairman Hundt). 
+
+
+Second, the FCC does not attempt to defend the grounds of 
+decision asserted by the court of appeals: that a system of 
+
+
+2 
+
+
+“informal censorship” within the meaning of Bantam Books, Inc. 
+v. Sullivan, 372 U.S. 58 (1963), is facially constitutional as long 
+as no statute “prevents” prompt judicial review (Pet. App. 15a- 
+16a) and that plaintiffs raising procedural challenges under 
+Bantam Books must prove that the speech at issue is substantively 
+protected (Pet. App. 18a-19a). As explained in the petition for 
+certiorari (Pet. 14-17), those holdings squarely conflict with 
+numerous decisions of this Court. 
+
+
+Third, the FCC does not dispute that its enforcement scheme, 
+as a practical matter, has completely foreclosed judicial review of 
+individual indecency forfeitures. Pet. App. Sa.' The FCC 
+concedes that the process of administrative adjudication and 
+judicial review consumes between two and seven years, although 
+it could occur within less than 90 days, and that no indecency 
+forfeiture has been reviewed on the merits. Opp. 6, 14 n.7.? 
+The FCC also does not dispute that it uses indecency forfeitures 
+to instruct broadcasters how to program their stations and that it 
+comply immediately. Pet. App. 6a, 38a-39a. 
+
+
+Finally, although every judge on the panel below expressed 
+
+
+' As explained in the petition for certiorari (Pet. 8-9), the only 
+circumstances where review has been available are in cases where the 
+FCC has imposed general indecency restrictions by regulation or in 
+extremely rare cases where the FCC has rendered an adjudicatory 
+determination of indecency, but has declined to impose a forfeiture. 
+Neither context affords any opportunity to obtain review of the dozens 
+of indecency determinations rendered in the context of forfeiture 
+orders. Thus, as a practical matter, the FCC’s individual enforcement 
+
+
+decisions escape review entirely. 
+
+
+? The one case cited by the FCC, United States v. Evergreen Media 
+Corp., 832 F. Supp. 1179 (N.D. Ill. 1993), is the only collection action 
+brought by the government since 1987. That case was settled over 18 
+months after it was filed, and over 6.5 years after the allegedly 
+indecent broadcast at issue, without any judicial determination of the 
+constitutional defenses raised by the broadcaster. See Pet. 4-5. 
+
+
+3 
+
+
+doubts about whether the indecency forfeiture scheme is 
+constitutional,’ the FCC does not suggest that its current 
+enforcement policies are likely to change. On the contrary, the 
+FCC remarkably argues that its aggressive interim enforcement, 
+without judicial review, is justified because “deterrence of 
+unlawful conduct, even in the area of the First Amendment, is a 
+“legitimate end’ of government.” Opp. 11. Moreover, the FCC 
+attempts to place responsibility for the extraordinary delays in 
+judicial review on broadcasters who will not “expedit[e] the 
+enforcement process” by “stipulating to the facts” alleged by the 
+FCC. Opp. 14.‘ 
+
+2. Despite these significant concessions, the FCC nonetheless 
+opposes review in this Court. The FCC contends (Opp. 8-9) that 
+there is no case or controversy because petitioner Infinity 
+Broadcasting Corporation recently settled all of its pending cases 
+and because the district court dismissed the other petitioners from 
+the case. The FCC argues that because there are no longer 
+“pending” enforcement proceedings, Infinity “is no longer 
+suffering any concrete, imminent injury resulting from the FCC’s 
+enforcement of the broadcast indecency limitations.” Opp. 9. 
+
+
+> E.g., Pet. App. 2a, 16a (majority twice characterizing scheme as 
+ee ee 22a, 24a (concurrence “with 
+
+”" noting “serious problems with the current practice 
+Stent & Ge Paes Ba do. 29a-30a (dissent concluding that 
+FCC’s “manipulation of speech without judicial review is 
+unconstitutional”). 
+
+
+* The FCC suggests that Infinity “affirmatively took steps to delay 
+judicial review” (Opp. 14 1.8) by filing a prompt petition for 
+reconsideration one month after an adverse FCC forfeiture order. See 
+Stipulations of Fact, Ex. 3, at 1A, Action for Children’s Television v. 
+FCC, No. 93-0400 (D.D.C. Mar. 24, 1993) (hereafter “Stipulations”). 
+The FCC took six months to adjudicate the petition. See id.; Opp. 14 
+n.8. In that same case, the FCC took 22 months to issue an NAL (from 
+the date of the complaint), and an additional 23 months to issue the 
+forfeiture. See Stipulations, supra, Ex. 3, at 1 to 1A. 
+
+
+4 
+
+
+The FCC cites no case for the proposition that there cannot be 
+a case or controversy absent pending enforcement proceedings. 
+This Court routinely has upheld the standing of plaintiffs to seek 
+prospective relief against future enforcement, despite the absence 
+of pending proceedings. See, e.g., Babbitt v. United Farm 
+Workers Nat'l Union, 442 U.S. 289, 302 (1979); Steffel v. 
+Thompson, 415 U.S. 452, 458-60 (1974); Doe v. Bolton, 410 
+U.S. 179, 188 (1973); Epperson v. Arkansas, 393 U.S. 97, 101- 
+02 (1968). A requirement of pending proceedings would entail 
+the absurd consequence that federal courts could never afford 
+prospective relief against exfurcement by the states, because the 
+existence of pending state proceedings triggers a duty to abstain 
+under Younger v. Harris, 401 U.S. 37 (1971), and its progeny. 
+See, e.g., Trainor v. Hernandez, 431 U.S. 434, 441-46 (1977). 
+On that view, this Court could not have even decided Bantam 
+Books. 
+
+
+A plaintiff may seek prospective relief to prevent future 
+injuries that are neither “conjectural” nor “hypothetical.” Lujan 
+v. Defenders of Wildlife, 504 U.S. 555, 560 (1992). The FCC 
+has promised continued aggressive enforcement both in its official 
+decisions and in the stipulated record filed in this case. See, ¢.g., 
+Stipulations, supra note 4, at 17; Notice of Apparent Liability to 
+Infinity Broadcasting Corp., 8 FCC Red 6740, 6741 (1993). 
+Infinity alone has been the subject of five enforcement 
+proceedings where the forfeitures totalled over $1.7 million. Pet. 
+6-7. The FCC’s activity clearly establishes a case or controversy 
+as to future enforcement. 
+
+
+Throughout this litigation, broadcasters including Infinity have 
+claimed standing not only because of pending proceedings, but 
+
+
+° The injury must be traceable to the defendant and redressable by a 
+favorable decision on the merits. See Defenders of Wildlife, 504 U.S. 
+at 561. The FCC does not dispute that these requirements are satisfied 
+here. 
+
+
+5 
+
+
+also because of a credible threat of future enforcement.* As a 
+prevailing party with respect to standing, Infinity could not have 
+sought review to challenge the reasoning of the courts below on 
+that point. See, e.g., Public Service Comm'n v. Brashear Freight 
+Lines, Inc., 306 U.S. 204, 206 (1939). At a minimum, Infinity 
+may continue to assert the possibility of future enforcement as a 
+proper, and properly preserved, ground for standing in this Court. 
+See, e.g., Washington v. Confederated Bands & Tribes of Yakima 
+Indian Nation, 439 U.S. 463, 476 n.19 (1979).’ 
+
+
+3. The absence of a conflict among the circuits does not 
+argue against review. 
+
+
+a. As noted above, the FCC does not dispute the exceptional 
+
+
+importance of the question presented. This Court has granted 
+review in the past, despite the absence of a circuit conflict, to 
+consider important questions about the scope of the FCC’s power 
+to regulate indecent broadcasting. See FCC v. Pacifica Found.., 
+438 U.S. 726 (1978); Denver Area Telecomm. Consortium, Inc. 
+v. FCC, 116 S. Ct. 471 (1995) (granting certiorari). 
+
+
+b. This case presents an ideal vehicle for resolving the 
+question. The nineteen petitioners in this case include not only 
+
+
+* See, e.g., Complaint, Action for Children's Television v. FCC, No. 
+93-0400, at 25 (D.D.C. Feb. 24, 1993) (hereafter “Complaint”) 
+(requesting court to “order the dismissal of all indecency forfeiture 
+proceedings . . . currently pending” and to “enjoin the FCC from 
+initiating or conducting [indecency] forféiture proceedings”); Brief of 
+Appellants, Action for Children’s Television v. FCC, No. 93-5178, at 
+42-44 (D.C. Cir. May 18, a 
+Plaintiffs Have Alleged Sufficient Article III Injury”). 
+
+
+7 As long as Infinity has standing to litigate the question presented, the 
+standing of the other petitioners is immaterial. See, ¢.g., Village of 
+Arlington Heights v. Metropolitan Housing Dev. Corp., 429 U.S. 252, 
+264 n.9 (1977). The court of appeals recognized this point: after 
+concluding that Infinity has standing, it addressed petitioners’ claims on 
+the merits without determining whether the district court had properly 
+dismissed the other petitioners. Pet. App. 12a-14a. 
+
+
+6 
+
+
+individual broadcasters but also broad-based organizations, such 
+
+as the National Association of Broadcasters, that represent 
+
+virtually every interest affected by the FCC. indecency 
+enforcement scheme." The record contains a series of 
+stipulations exhaustively chronicling FCC enforcement activities 
+since 1987. Both courts below filed published opinions engaging 
+the constitutional question at some length. And, as noted above, 
+the FCC has made clear that it has no intention of tempering its 
+
+c. Deferring review would significantly harm the First 
+Amendment interests at issue. While the FCC suggests that other 
+broadcasters might “persuade another court of appeals” in the 
+future (Opp. 10), such litigation is unlikely to be commenced 
+because most of the affected parties are already represented here, 
+and new litigation, even if not barred by res judicata, would 
+consume several more years. The FCC’s alternative suggestion 
+that broadcasters raise constitutional challenges as a defense in 
+enforcement proceedings (Opp. 10) simply urges that they submit 
+to the very scheme they contend is unconstitutional. It also 
+ignores the practical impossibility of obtaining such review. 
+
+d. While the court of appeals’ specific holding might not 
+directly conflict with the holdings of other circuits, its narrow 
+reading of Bantam Books is in considerable tension with various 
+other appellate decisions. See, ¢.g., United States v. P.H.E., 
+Inc., 965 F.2d 848, 855-56 (10th Cir. 1992) (applying Bantam 
+Books to invalidate multiple prosecutions for distribution of 
+
+
+* Petitioners include six broadcasters; two program distributors; eight 
+organizations representing broadcasters, distributors and journalists; and 
+three organizations representing listeners and viewers. See Complaint, 
+supra note 6, at 3-10. While the FCC presently asserts (and we agree) 
+that broadcasters may raise Bantam Books challenges in future cases 
+(Opp. 10), the FCC might resist those challenges by seeking to invoke 
+traditional preclusion doctrines. Cf. Restatement (Second) of Judgments 
+§ 41(1) (1982) (person “represented by a party” is sometimes bound by 
+judgment). 
+
+
+7 
+
+
+allegedly obscene material); Planned Parenthood Federation v. 
+Agency for Int’l Development, 915 F.2d 59, 64 (2d Cir. 1990) 
+(Bantam Books applies to “censorship by means of intimidation”), 
+cert. denied, 500 U.S. 952 (1991); Cruz v. Ferre, 755 F.2d 1415, 
+1422 (11th Cir. 1985) (applying Bantam Books to invalidate 
+municipality’s indecency forfeiture scheme). Review is 
+appropriate to address this “conflict in principle.” Ivan Allen Co. 
+v. United States, 422 U.S. 617, 623-24 (1975). 
+
+
+4. On the merits, the FCC contends primarily that its 
+indecency forfeiture scheme does not constitute a system of 
+Rang mr acne because its orders “are not self-executing, ” 
+
+but “tak[e] effect only after judicial review occurs.” Opp. 12. 
+
+
+could 
+targeted speakers to the state attorney general for prosecution. 
+
+
+impermissible system of “informal censorship” because it had an 
+immediate effect and foreclosed judicial review “as a practical 
+matter.” Pet. App. 17a (emphasis added).’ 
+
+5. Finally, the FCC contends that petitioners’ claims, if 
+successful, “would effectively preclude the Commission” from 
+
+
+* While the FCC notes that statements by FCC Commissioners “do not 
+constitute actions by the Commission itself” (Opp. 15), it does not 
+dispute that this Court considered comparable statements in assessing the 
+practical effect of the enforcement scheme at issue in Bantam Books. 
+See, e.g., 372 U.S. at 67. Contrary to the FCC's suggestion (Opp. 15- 
+16), this Court frequently has applied the procedural principles of 
+Bantam Books in cases involving primarily civil enforcement. See, ¢.g., 
+Southeastern Promotions, Lid. v. Conrad, 420 U.S. 546, 547 (1975); 
+Blount v. Rizzi, 400 U.S. 410, 411-12 (1971). The FCC also repeats 
+the various purported distinctions of Bantam Books relied upon by the 
+district court and not addressed by the court of appeals. Opp. 16. As 
+explained in the petition for certiorari (Pet. 18-19), those distinctions are 
+
+
+enforcing indecency restrictions. Opp. 16. In fact, however, the 
+
+claims would impose no substantive restrictions on the permissible 
+
+scope of indecency regulation, but would simply require an 
+
+affirmative guarantee of prompt judicial review of FCC indecency 
+
+determinations. The First Amendment demands no less. 
+CONCLUSION 
+
+
+The petition for a writ of certiorari should be granted. 
+
+
+Of counsel: 
+
+HENRY GELLER 
+
+1750 K Street, N.W. 
+
+8th Floor 
+
+Washington, D.C. 20006 
+
+
+ANDREW JAY SCHWARTZMAN 
+2000 M Street, N.W. 
+
+Suite 400 
+
+Washington, D.C. 20036 
+
+
+Counsel for Action for 
+Children’s Television 
+
+
+Respectfully submitted, 
+
+
+TIMOTHY B. DYK 
+(Counsel of Record) 
+GREGORY G. KATSAS 
+
+JONES, DAY, REAVIS 
+& POGUE 
+
+1450 G Street, N.W. 
+
+
+Washington, D.C. 20005 
+(202) 879-3939 
+
+
+Counsel for Petitioners 
+
+
+MAJORIE HEINS 
+
+AMERICAN CIVIL LIBERTIES 
+UNION FOUNDATION 
+
+132 West 43rd Street 
+
+New York, New York 10036 
+
+
+Counsel for Americal Civil 
+Liberties Union Foundation 
+
+
+JAMES POPHAM 
+1320 19th Street, N.W. 
+Suite 300 
+
+
+Washington, D.C. 20036 
+
+
+Counsel for Association of 
+
+
+Independent Television 
+Stations, Inc. 
+
+
+MOLLY PAUKER 
+5151 Wisconsin Avenue, N.W. 
+Washington, D.C. 20016 
+
+
+Counsel for Fox Broadcasting 
+Company, Inc.: Fox Tele- 
+
+
+Century Fox Film Corporation 
+
+
+BARBARA BURNS 
+2 Kennedy Boulevard 
+East Brunswick, NJ 08816 
+
+
+Counsel for Greater Media, Inc. 
+
+
+STEVEN A. LERMAN 
+DENNIS P. CORBETT 
+LEVENTHAL, SENTER & 
+LERMAN 
+
+2000 K Street, N.W. 
+
+Suite 600 
+
+Washington, D.C. 20006 
+
+
+Counsel for Infinity 
+Broadcasting Corporation; 
+Shamrock Broadcasting, Inc.; 
+and South Fork Broadcasting 
+
+
+Corporation 
+
+
+FRITZ E. ATTAWAY 
+1600 Eye Street, N.W. 
+Washington, D.C. 20006 
+
+
+Counsel for Motion Picture 
+Association of America, Inc. 
+
+
+HENRY L. BAUMANN 
+STEVEN A. BOOKSHESTER 
+1771 N Street, N.W. 
+Washington, D.C. 20036 
+
+
+Counsel for National 
+Association of Broadcasters 
+
+
+CARY S. TEPPER 
+
+BOOTH, FRERET & IMLAY, P.C. 
+1233 20th Street, N.W. 
+
+Suite 204 
+
+Washington, D.C. 20036 
+
+
+Counsel for National 
+Association of College Broadcasters 
+
+
+STEPHEN E. NEVAS 
+DENISE LEARY 
+
+635 Massachusetts Ave., N.W. 
+Washington, D.C. 20001 
+
+
+Counsel for National Public Radio, 
+Inc. 
+
+
+ELLIOT M. MINCBERG 
+LAWRENCE S. OTTINGER 
+2000 M Street, N.W. 
+
+Suite 400 
+
+Washington, D.C. 20036 
+
+
+Counsel for People for the 
+American Way 
+
+
+ROBERT E. BRANSON 
+3 Constitution Plaza 
+Hartford, CT 06103 
+
+
+Counsel for Post-Newsweek 
+Stations, Inc. 
+
+
+10 
+
+
+PAULA A. JAMESON 
+NANCY H. HENDRY 
+
+1320 Braddock Place 
+Alexandria, Virginia 22314 
+Counsel for Public Broadcasting 
+Service 
+
+
+J. LAURENT SCHARFF 
+
+REED SMITH SHAW & McCLAY 
+1301 K Street, N.W. 
+
+Suite 1100 - East Tower 
+Washington, D.C. 20005 
+
+
+Counsel for Radio-Television 
+News Directors Association 
+
+
+BRUCE W. SANFORD 
+HENRY S. HOBERMAN 
+ROBERT D. LYSTAD 
+BAKER & HOSTETLER 
+Washington Square, Suite 1100 
+1050 Connecticut Ave., N.W. 
+Washington, D.C. 20036 
+
+
+Counsel for Society of 
+Professional Journalists 
+
+
+December 19, 1995 
+
+

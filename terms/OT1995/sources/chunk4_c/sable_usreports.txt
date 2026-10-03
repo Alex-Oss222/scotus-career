@@ -1,0 +1,849 @@
+         SABLE COMMUNICATIONS OF CAL., INC. v. FCC                     115
+
+                                 Syllabus
+
+
+SABLE COMMUNICATIONS OF CALIFORNIA, INC. v.
+ FEDERAL COMMUNICATIONS COMMISSION ET AL.
+APPEAL FROM THE UNITED ST ATES DISTRICT COURT FOR THE
+          CENTRAL DISTRICT OF CALIFORNIA
+     No. 88-515.    Argued April 19, 1989-Decided June 23, 1989*
+Section 223(b) of the Communications Act of 1934, as amended, bans inde-
+  cent as well as obscene interstate commercial telephone messages, com-
+  monly known as "dial-a-porn." Under its predecessor provision-which
+  sought to restrict minors' access to dial-a-porn-the Federal Communi-
+  cations Commission (FCC), after lengthy court proceedings, had promul-
+  gated regulations laying out means by which dial-a-porn sponsors could
+  screen out underaged callers. Sable Communications of California,
+  which offers sexually oriented prerecorded telephone messages to callers
+  both in and outside the Los Angeles metropolitan area, brought suit in
+  the District Court, claiming that § 223(b)'s obscenity and indecency pro-
+  visions were unconstitutional, chiefly under the First and Fourteenth
+  Amendments, and seeking an injunction enjoining the FCC and the J us-
+  tice Department from initiating any criminal investigation or prosecu-
+  tion, civil action, or administrative proceeding under the statute and a
+  declaratory judgment. The court denied Sable's request for a prelimi-
+  nary injunction against enforcement of the ban on obscene telephone
+  messages, rejecting the argument that the statute was unconstitutional
+  because it created a national standard of obscenity. However, it issued
+  the injunction with regard to the indecent speech provision, holding that
+  the provision was overbroad and unconstitutional because it was not nar-
+  rowly drawn to achieve the legitimate state interest of protecting chil-
+  dren from exposure to indecent dial-a-porn messages.
+Held:
+     1. Section 223(b) does not unconstitutionally prohibit the interstate
+  transmission of obscene commercial telephone messages. The protec-
+  tion of the First Amendment does not extend to obscene speech. In
+  addition, § 223(b) does not contravene the "contemporary community
+  standards" requirement of Miller v. California, 413 U. S. 15, since it no
+  more establishes a "national standard" of obscenity than do federal stat-
+  utes prohibiting the mailing of obscene materials or the broadcasting of
+
+   *Together with No. 88-525, Federal Communications Commission et
+al. v. Sable Communications of California, Inc., also on appeal from the
+same court.
+116                      OCTOBER TERM, 1988
+
+                                  Syllabus                          492 u. s.
+
+  obscene messages. There is no constitutional barrier under Miller to
+  prohibiting communications that are obscene in some communities under
+  local standards even though they are not obscene in others. Sable,
+  which has the burden of complying with the prohibition, is free to tailor
+  its messages, on a selective basis, to the communities it chooses to serve.
+  Pp. 124-126.
+     2. Section 223(b)'s ban on indecent telephone messages violates the
+  First Amendment since the statute's denial of adult access to such mes-
+  sages far exceeds that which is necessary to serve the compelling inter-
+  est of preventing minors from being exposed to the messages. FCC v.
+  Pacifica Foundation, 438 U. S. 726, an emphatically narrow ruling giv-
+  ing the FCC power to regulate an indecent radio broadcast, is readily
+  distinguishable from these cases. Pacifica, which did not involve a total
+  ban on broadcasting indecent material, relied on the "unique" attributes
+  of broadcasting, which can intrude on the privacy of the home without
+  prior warning of content and which is uniquely accessible to children.
+  In contrast, the dial-it medium requires the listener to take affirmative
+  steps to receive the communications. The Government's argument that
+  nothing less than a total ban could prevent children from gaining access
+  to the messages and that this Court should defer to Congress' conclu-
+  sions and factual findings to that effect is unpersuasive. There is no evi-
+  dence to show that children would have evaded the rules that the FCC,
+  after prolonged proceedings, had determined would keep the messages
+  out of their reach. Moreover, deference to Congress' legislative find-
+  ings cannot limit judicial inquiry where First Amendment rights are at
+  stake. Here, the congressional record contains no legislative findings
+  that would justify a conclusion that there are no constitutionally accept-
+  able less restrictive means to achieve the Government's interest in pro-
+  tecting minors. Pp. 126-131.
+692 F. Supp. 1208, affirmed.
+  WHITE, J., delivered the opinion for a unanimous Court with respect to
+Parts I, II, and IV, and the opinion of the Court with respect to Part III, in
+which REHNQUIST, C. J., and BLACKMUN, O'CONNOR, SCALIA, and KEN-
+NEDY, JJ., joined. SCALIA, J., filed a concurring opinion, post, p. 131.
+BRENNAN, J., filed an opinion concurring in part and dissenting in part, in
+which MARSHALL and STEVENS, JJ., joined, post, p. 133.
+
+  Richard G. Taranto argued the cause for appellees in
+No. 88-515 and for appellants in No. 88-525. With him on
+the briefs were Acting Solicitor General Bryson, Assistant
+Attorney General Bolton, Deputy Solicitor. General Wallace,
+Barbara L. Herwig, Jacob M. Lewis, and Diane S. Killary.
+         SABLE COMMUNICATIONS OF CAL., INC. v. FCC                     117
+
+115                        Opinion of the Court
+
+  Laurence H. Tribe argued the cause for appellant in
+No. 88-515 and for appellee in No. 88-525. With him on
+the brief were Brian Stuart Koukoutchos, Lawrence E.
+Abelman, Norman S. Beier, Richard K. Simon, and Lee L.
+Blackman.t
+
+  JUSTICE WHITE delivered the opinion of the Court.
+   The issue before us is the constitutionality of§ 223(b) of the
+Communications Act of 1934. 47 U. S. C. §223(b) (1982 ed.,
+Supp. V). The statute, as amended in 1988, imposes an out-
+right ban on indecent as well as obscene interstate commercial
+telephone messages. The District Court upheld the prohi-
+bition against obscene interstate telephone communications
+for commercial purposes, but enjoined the enforcement of the
+statute insofar as it applied to indecent messages. We affirm
+the District Court in both respects.
+
+                                     I
+   In 1983, Sable Communications, Inc., a Los Angeles-based
+affiliate of Carlin Communications, Inc., began offering sexu-
+
+   tBriefs of amici curiae were filed for Minority Members of the Com-
+mittee on Energy and Commerce of the United States House of Represent-
+atives by John J. Adams; for Action for Children's Television et al. by
+Timothy B. Dyk, Henry Geller, John A. Powell, C. Edwin Baker, Susan
+M. Liss, Jan G. Levine, Howard Monderer, Lois J. Schiffer, Karen
+Christensen, Andrew Jay Schwartzman, Paula A. Jameson, Nancy H.
+Hendry, J. Laurent Scharff, Jane E. Kirtley, Bruce W. Sanford, and Rob-
+ert A. Beizer; for the American Family Association, Inc., by Peggy M.
+Coleman; for the Association of Interactive Information Providers by Earl
+Nicholas Selby and William Bennett Turner; for Citizens for Decency
+through Law, Inc., by Benjamin W. Bull; for Home Box Office, Inc., by
+Daniel M. Waggoner, Stuart R. Dunwoody, and Harold E. Akselrad; for
+the Pacifica Foundation by William J. Byrnes; for Morality in Media, Inc.,
+by Paul J. McGeady; for the San Francisco AIDS Foundation by Leonard
+Graff; for the United States Catholic Conference by Mark E. Chapko; for
+John W. Olivo, Jr., by Robert T. Perry; and for Jane Roe et al. by Bruce J.
+Ennis.
+118                    OCTOBER TERM, 1988
+
+                         Opinion of the Court               492   u. s.
+ally oriented prerecorded telephone messages 1 (popularly
+known as "dial-a-porn") through the Pacific Bell telephone
+network. In order to provide the messages, Sable arranged
+with Pacific Bell to use special telephone lines, designed to
+handle large volumes of calls simultaneously. Those who
+called the adult message number were charged a special fee.
+The fee was collected by Pacific Bell and divided between the
+phone company and the message provider. Callers outside
+the Los Angeles metropolitan area could reach the number by
+means of a long-distance toll call to the Los Angeles area code.
+   In 1988, Sable brought suit in District Court seeking de-
+claratory and injunctive relief against enforcement of the
+recently amended § 223(b). The 1988 amendments to the
+statute imposed a blanket prohibition on indecent as well as
+obscene interstate commercial telephone messages. Sable
+brought this action to enjoin the Federal Communications
+Commission (FCC) and the Justice Department from initiat-
+ing any criminal investigation or prosecution, civil action
+or administrative proceeding under the statute. Sable also
+sought a declaratory judgment, challenging the indecency and
+the obscenity provisions of the amended § 223(b) as uncon-
+stitutional, chiefly under the First and Fourteenth Amend-
+ments to the Constitution.
+   The District Court found that a concrete controversy
+existed and that Sable met the irreparable injury require-
+ment for issuance of a preliminary injunction under Elrod v.
+Burns, 427 U. S. 347, 373 (1976). 692 F. Supp. 1208, 1209
+(CD Cal. 1988). The District Court denied Sable's request
+for a preliminary injunction against enforcement of the stat-
+ute's ban on obscene telephone messages, rejecting the argu-
+ment that the statute was unconstitutional because it created
+a national standard of obscenity. The District Court, how-
+  1
+   A typical prerecorded message lasts anywhere from 30 seconds to
+two minutes and may be called by up to 50,000 people hourly through a
+single telephone number. Comment, Telephones, Sex, and the First
+Amendment, 33 UCLA L. Rev. 1221, 1223 (1986).
+
+
+
+
+                                                                          I
+         SABLE COMMUNICATIONS OF CAL., INC. v. FCC                        119
+
+115                         Opinion of the Court
+
+ever, struck down the "indecent speech" provision of§ 223(b),
+holding that in this respect the statute was overbroad and un-
+constitutional and that this result was consistent with FCC v.
+Pacifica Foundation, 438 U. S. 726 (1978). "While the gov-
+ernment unquestionably has a legitimate interest in, e. g.,
+protecting children from exposure to indecent dial-a-porn
+messages, § 223(b) is not narrowly drawn to achieve any such
+purpose. Its flat-out ban of indecent speech is contrary to
+the First Amendment." 692 F. Supp., at 1209. Therefore,
+the court issued a preliminary injunction prohibiting enforce-
+ment of§ 223(b) with respect to any communication alleged to
+be "indecent."
+   We noted probable jurisdiction on Sable's appeal of the ob-
+scenity ruling (No. 88-515); we also noted probable juriedic-
+tion on the federal parties' cross-appeal of the preliminary
+injunction holding the statute unconstitutional with respect
+to its ban on indecent speech (No. 88-525). 488 U. S. 1003
+(1989). 2
+                                II
+   While dial-a-porn services are a creature of this decade,
+the medium, in its brief history, has been the subject of much
+litigation and the object of a series of attempts at regula-
+
+  2
+    Sable appealed the District Court ruling to the Court of Appeals for
+the Ninth Circuit, concurrently filing an emergency motion for an injunc-
+tion pending appeal. The District Court entered an order temporarily en-
+joining the FCC from enforcing the statute during the pendency of the ap-
+peal. After the federal parties filed their notice of appeal to this Court
+from the District Court's grant of the preliminary injunction as to "inde-
+cent" communication, the Court of Appeals for the Ninth Circuit entered
+an order directing Sable either to file a motion for voluntary dismissal or to
+show cause why the appeal should not be dismissed for lack of jurisdiction.
+Sable filed an ex parie application to this Court for an injunction pending
+appeal, as well as a return on the Court of Appeals' order to show cause.
+The Court of Appeals entered an order dismissing the appeal since the fil-
+ing of a direct appeal by the FCC had the effect of transferring Sable's ap-
+peal to this Court.
+120                    OCTOBER TERM, 1988
+
+                         Opinion of the Court                 492 u. s.
+
+tion. 3 The first litigation involving dial-a-porn was brought
+under 82 Stat. 112, 47 U. S. C. § 223, which proscribed know-
+ingly "permitting a telephone under [one's] control" to be
+used to make "any comment, request, suggestion or proposal
+which is obscene, lewd, lascivious, filthy, or indecent."
+However, the FCC concluded in an administrative action that
+the existing law did not cover dial-a-porn. In re Application
+for Review of Complaint Filed by Peter F. Cahalan, FCC
+File No. E-83-14 (memorandum opinions and orders adopted
+May 13, 1983).
+   In reaction to that FCC determination, Congress made its
+first effort explicitly to address "dial-a-porn" when it added a
+subsection 223(b) to the 1934 Communications Act. The pro-
+vision, which was the predecessor to the amendment at issue
+in this case, pertained directly to sexually oriented commer-
+cial telephone messages and sought to restrict the access of
+minors to dial-a-porn. The relevant provision of the Act,
+Federal Communications Commission Authorization Act of
+ 1983, Pub. L. 98-214, § 8(b), 97 Stat. 1470, made it a crime to
+use telephone facilities to make "obscene or indecent" inter-
+state telephone communications "for commercial purposes to
+any person under eighteen years of age or to any other per-
+son without that person's consent." 47 U. S. C. § 223(b)(l)
+(A) (1982 ed., Supp. V). The statute criminalized commer-
+cial transmission of sexually oriented communications to mi-
+nors and required the FCC to promulgate regulations laying
+out the means by which dial-a-porn sponsors could screen out
+underaged callers. § 223(b)(2). The enactment provided
+that it would be a defense to prosecution that the defendant
+restricted access to adults only, in accordance with proce-
+ dures established by the FCC. The statute did not criminal-
+
+  3
+   Dial-a-porn is big business. The dial-a-porn service in New York City
+alone received six to seven million calls a month for the 6-month period
+ending in April 1985. Carlin Communications, Inc. v. FCC, 787 F. 2d
+846, 848 (CA2 1986).
+       SABLE COMMUNICATIONS OF CAL., INC. v. FCC            121
+
+115                   Opinion of the Court
+
+ize sexually oriented messages to adults, whether the mes-
+sages were obscene or indecent.
+   The FCC initially promulgated regulations that would have
+established a defense to message providers operating only
+between the hours of 9 p.m. and 8 a.m. eastern time (time
+channeling) and to providers requiring payment by credit
+card (screening) before transmission of the dial-a-porn mes-
+sage. Restrictions on Obscene or Indecent Telephone Mes-
+sage Services, 47 CFR § 64.201 (1988). In Carlin Commu-
+nications, Inc. v. FCC, 749 F. 2d 113 (1984) (Carlin I),
+the Court of Appeals for the Second Circuit set aside the time
+channeling regulations and remanded to the FCC to examine
+other alternatives, concluding that the operating hours re-
+quirement was "both overinclusive and underinclusive" be-
+cause it denied "access to adults between certain hours, but
+not to youths who can easily pick up a private or public tele-
+phone and call dial-a-porn during the remaining hours." Id.,
+at 121. The Court of Appeals did not reach the constitution-
+ality of the underlying legislation.
+   In 1985, the FCC promulgated new regulations which con-
+tinued to permit credit card payment as a defense to prosecu-
+tion. Instead of time restrictions, however, the Commission
+added a defense based on use of access codes (user identifi-
+cation codes). Thus, it would be a defense to prosecution
+under § 223(b) if the defendant, before transmission of the
+message, restricted customer access by requiring either pay-
+ment by credit card or authorization by access or identi-
+fication code. 50 Fed. Reg. 42699, 42705 (1985). The regu-
+lations required each dial-a-porn vendor to develop an
+identification code data base and implementation scheme.
+Callers would be required to provide an access number for
+identification (or a credit card) before receiving the message.
+The access code would be received through the mail after the
+message provider reviewed the application and concluded
+through a written age ascertainment procedure that the ap-
+122                 OCTOBER TERM, 1988
+
+                      Opinion of the Court            492 U.S.
+
+plicant was at least 18 years of age. The FCC rejected a
+proposal for "exchange blocking" which would block or screen
+telephone numbers at the customer's premises or at the tele-
+phone company offices. In Carlin Comnnmications, Inc. v.
+FCC, 787 F. 2d 846 (CA2 1986) (Carlin II), the Court of Ap-
+peals set aside the new regulations because of the FCC's fail-
+ure adequately to consider customer premises blocking.
+Again, the constitutionality of the underlying legislation was
+not addressed.
+   The FCC then promulgated a third set of regulations,
+which again rejected customer premises blocking but added
+to the prior defenses of credit card payment and access code
+use a third defense: message scrambling. 52 Fed. Reg.
+17760 (1987). Under this system, providers would scramble
+the message, which would then be unintelligible without the
+use of a descrambler, the sale of which would be limited to
+adults. On January 15, 1988, in Carlin Cornmunications,
+Inc. v. FCC, 837 F. 2d 546 (Carlin Ill), cert. denied,
+488 U. S. 924 (1988), the Court of Appeals for the Second Cir-
+cuit held that the new regulations, which made access codes,
+along with credit card payments and scrambled messages,
+defenses to prosecution under § 223(b) for dial-a-porn provid-
+ers, were supported by the evidence, had been properly ar-
+rived at, and were a "feasible and effective way to serve" the
+"compelling state interest" in protecting minors, 837 F. 2d, at
+555; but the Court directed the FCC to reopen proceedings if
+a less restrictive technology became available. The Court of
+Appeals, however, this time reaching the constitutionality of
+the statute, invalidated § 223(b) insofar as it sought to apply
+to nonobscene speech. Id., at 560, 561.
+   Thereafter, in April 1988, Congress amended § 223(b) of
+the Communications Act to prohibit indecent as well as
+obscene interstate commercial telephone communications di-
+rected to any person regardless of age. The amended stat-
+ute, which took effect on July 1, 1988, also eliminated the
+requirement that the FCC promulgate regulations for re-
+         SABLE COMMUNICATIONS OF CAL., INC. v. FCC                         123
+
+115                         Opinion of the Court
+
+stricting access to minors since a total ban was imposed on
+dial-a-porn, making it illegal for adults, as well as children, to
+have access to the sexually explicit messages, Pub. L. 100-
+297, 102 Stat. 424. -1 It was this version of the statute that
+was in effect when Sable commenced this action. 5
+
+  -1  "(b)(l) Whoever knowingly-
+   "(A) in the District of Columbia or in interstate or foreign communica-
+tion, by means of telephone, makes (directly or by recording device) any
+obscene or indecent communication for commercial purposes to any person,
+regardless of whether the maker of such communication placed the call; or
+   "(B) permits any telephone facility under such person's control to be
+used for an activity prohibited by subparagraph (A),
+"shall be fined not more than $50,000 or imprisoned not more than six
+months, or both."
+   .; After Sable and the federal parties filed their jurisdictional statements
+with this Court, but before we noted probable jurisdiction, § 223(b) was
+again revised by Congress in § 7524 of the Child Protection and Obscenity
+Enforcement Act of 1988, § 7524, 102 Stat. 4502, which was enacted as
+Title VII, Subtitle N, of the Anti-Drug Abuse Act of 1988, Pub. L. 100-
+690 (codified at 47 U. S. C. § 223(b) (1988 ed.)). This most recent legisla-
+tion, signed into law on November 18, 1988, places the prohibition against
+obscene commercial telephone messages in a subsection separate from that
+containing the prohibition against indecent messages. In addition, under
+the new law, the prohibition against obscene or indecent telephone mes-
+sages is enforceable only through criminal penalties and no longer through
+administrative proceedings by the FCC.
+    Section 223(b) of the Communications Act of 1934, as amended by§ 7524
+of the Child Protection and Obscenity Enforcement Act of 1988, states in
+pertinent part:
+   "(b)(l) Whoever knowingly-
+   "(A) in the District of Columbia or in interstate or foreign communica-
+tion, by means of telephone, makes (directly or by recording device) any
+obscene communication for commercial purposes to any person, regardless
+of whether the maker of such communication placed the call; or
+    "(B) permits any telephone facility under such person's control to be
+used for an activity prohibited by clause (i),
+"shall be fined in accordance with title 18 of the United States Code, or
+imprisoned not more than two years, or both.
+    "(2) Whoever knowingly-
+    "(A) in the District of Columbia or in interstate or foreign communica-
+tion, by means of telephone, makes (directly or by recording device) any
+    124                      OCTOBER TERM, 1988
+
+                               Opinion of the Court                   492 U.S.
+
+                                        III
+       In the ruling at issue in No. 88-515, the District Court up-
+    held § 223(b)'s prohibition of obscene telephone messages as
+    constitutional. We agree with that judgment. In contrast
+    to the prohibition on indecent communications, there is no
+    constitutional barrier to the ban on obscene dial-a-porn re-
+    cordings. We have repeatedly held that the protection of
+    the First Amendment does not extend to obscene speech.
+    See, e. g., Paris Adult Theatre I v. Slaton, 413 U. S. 49,
+    69 (1973). The cases before us today do not require us to de-
+    cide what is obscene or what is indecent but rather to deter-
+    mine whether Congress is empowered to prohibit transmis-
+    sion of obscene telephonic communications.
+       In its facial challenge to the statute, Sable argues that the
+    legislation creates an impermissible national standard of ob-
+    scenity, and that it places message senders in a "double bind"
+    by compelling them to tailor all their messages to the least
+    tolerant community. 6
+       We do not read§ 223(b) as contravening the "contemporary
+    community standards" requirement of Miller v. California,
+    413 U. S. 15 (1973). Section 223(b) no more establishes a
+    "national standard" of obscenity than do federal statutes
+I
+l   indecent communication for commercial purposes to any person, regardless
+    of whether the maker of such communication placed the call; or
+       "(B) permits any telephone facility under such person's control to be
+    used for an activity prohibited by clause (i),
+    "shall be fined not more than $50,000 or imprisoned not more than six
+    months, or both." 102 Stat. 4502.
+       Since the substantive prohibitions under this amendment remain the
+    same, this case is not moot.
+       6
+         In its jurisdictional statement, Sable also argued that the prohibition
+    on obscene calls is not severable from the ban on indecent messages. This
+    last claim was not renewed in Sable's brief on the merits, presumably as a
+    result of the subsequent modification of the statute in which Congress spe-
+    cifically placed the ban on obscene commercial telephone messages in a sub-
+    section separate from the prohibition against indecent messages. Thus,
+    the severability question is no longer before us.
+       SABLE COMMUNICATIONS OF CAL., INC. v. FCC            125
+
+115                   Opinion of the Court
+
+prohibiting the mailing of obscene materials, 18 U. S. C.
+§ 1461, see Hamling v. United States, 418 U. S. 87 (1974), or
+the broadcasting of obscene messages, 18 U. S. C. § 1464.
+In United States v. Reidel, 402 U. S. 351 (1971), we said that
+Congress could prohibit the use of the mails for commercial
+distribution of materials properly classifiable as obscene,
+even though those materials were being distributed to willing
+adults who stated that they were adults. Similarly, we hold
+today that there is no constitutional stricture against Con-
+gress' prohibiting the interstate transmission of obscene com-
+mercial telephone recordings.
+   We stated in United States v. 12 200-ft. Reels of Film,
+413 U. S. 123 (1973), that the Miller standards, including the
+"contemporary community standards" formulation, apply to
+federal legislation. As we have said before, the fact that
+"distributors of allegedly obscene materials may be subjected
+to varying community standards in the various federal judi-
+cial districts into which they transmit the materials does not
+render a federal statute unconstitutional because of the fail-
+ure of application of uniform national standards of obscenity."
+Hamling v. United States, supra, at 106.
+   Furthermore, Sable is free to tailor its messages, on a se-
+lective basis, if it so chooses, to the communities it chooses
+to serve. While Sable may be forced to incur some costs
+in developing and implementing a system for screening the
+locale of incoming calls, there is no constitutional impedi-
+ment to enacting a law which may impose such costs on a me-
+dium electing to provide these messages. Whether Sable
+chooses to hire operators to determine the source of the calls
+or engages with the telephone company to arrange for the
+screening and blocking of out-of-area calls or finds another
+means for providing messages compatible with community
+standards is a decision for the message provider to make.
+There is no constitutional barrier under Miller to prohibit-
+ing communications that are obscene in some communities
+under local standards even though they are not obscene in
+126                  OCTOBER TERM, 1988
+
+                       Opinion of the Court            492   u. s.
+others. If Sable's audience is comprised of different com-
+munities with different local standards, Sable ultimately
+bears the burden of complying with the prohibition on ob-
+scene messages.
+                           IV
+   In No. 88-525, the District Court concluded that while the
+Government has a legitimate interest in protecting children
+from exposure to indecent dial-a-porn messages, § 223(b) was
+not sufficiently narrowly drawn to serve that purpose and
+thus violated the First Amendment. We agree.
+   Sexual expression which is indecent but not obscene is pro-
+tected by the First Amendment; and the federal parties do
+not submit that the sale of such materials to adults could be
+criminalized solely because they are indecent. The Govern-
+ment may, however, regulate the content of constitutionally
+protected speech in order to promote a compelling interest if
+it chooses the least restrictive means to further the articu-
+lated interest. We have recognized that there is a compel-
+ling interest in protecting the physical and psychological well-
+being of minors. This interest extends to shielding minors
+from the influence of literature that is not obscene by adult
+standards. Ginsberg v. New York, 390 U. S. 629, 639-640
+(1968); New York v. Ferber, 458 U. S. 747, 756-757 (1982).
+The Government may serve this legitimate interest, but to
+withstand constitutional scrutiny, "it must do so by narrowly
+drawn regulations designed to serve those interests without
+unnecessarily interfering with First Amendment freedoms.
+Hynes v. Mayor of Oradell, 425 U. S., at 620; First National
+Bank of Boston v. Bellotti, 435 U. S. 765, 786 (1978)."
+Schaumburg v. Citizens for a Better Environment, 444 U. S.
+620, 637 (1980). It is not enough to show that the Govern-
+ment's ends are compelling; the means must be carefully tai-
+lored to achieve those ends.
+   In Butler v. Michigan, 352 U. S. 380 (1957), a unanimous
+Court reversed a conviction under a statute which made it an
+offense to make available to the general public materials
+       SABLE COMMUNICATIONS OF CAL., INC. v. FCC            127
+
+115                   Opinion of the Court
+
+found to have a potentially harmful influence on minors.
+The Court found the law to be insufficiently tailored since
+it denied adults their free speech rights by allowing them
+to read only what was acceptable for children. As Justice
+Frankfurter said in that case, "[s]urely this is to burn the
+house to roast the pig." Id., at 383. In our judgment, this
+case, like Butler, presents us with "legislation not reasonably
+restricted to the evil with which it is said to deal." Ibid.
+   In attempting to justify the complete ban and criminaliza-
+tion of the indecent commercial telephone communications
+with adults as well as minors, the federal parties rely on FCC
+v. Pacifica Foundation, 438 U. S. 726 (1978), a case in which
+the Court considered whether the FCC has the power to reg-
+ulate a radio broadcast that is indecent but not obscene. In
+an emphatically narrow holding, the Pacifica Court con-
+cluded that special treatment of indecent broadcasting was
+justified. .
+   Pacifica is readily distinguishable from these cases, most
+obviously because it did not involve a total ban on broadcast-
+ing indecent material. The FCC rule was not "'intended to
+place an absolute prohibition on the broadcast of this type
+of language, but rather sought to channel it to times of
+day when children most likely would not be exposed to it.'"
+Pacifica, supra, at 733, quoting Pacifica Foundation, 59
+F. C. C. 2d 892 (1976). The issue of a total ban was not be-
+fore the Court. 438 U. S., at 750, n. 28.
+   The Pacifica opinion also relied on the "unique" attributes
+of broadcasting, noting that broadcasting is "uniquely perva-
+sive," can intrude on the privacy of the home without prior
+warning as to program content, and is "uniquely accessible
+to children, even those too young to read." Id., at 748-749.
+The private commercial telephone communications at issue
+here are substantially different from the public radio broad-
+cast at issue in Pacifica. In contrast to public displays, un-
+solicited mailings and other means of expression which the
+recipient has no meaningful opportunity to avoid, the dial-it
+128                  OCTOBER TERM, 1988
+
+                       Opinion of the Court            492 u. s.
+
+medium requires the listener to take affirmative steps to re-
+ceive the communication. There is no "captive audience"
+problem here; callers will generally not be unwilling listen-
+ers. The context of dial-in services, where a caller seeks and
+is willing to pay for the communication, is manifestly differ-
+ent from a situation in which a listener does not want the re-
+ceived message. Placing a telephone call is not the same as
+turning on a radio and being taken by surprise by an indecent
+message. Unlike an unexpected outburst on a radio broad-
+cast, the message received by one who places a call to a dial-
+a-porn service is not so invasive or surprising that it prevents
+an unwilling listener from avoiding exposure to it.
+   The Court in Pacifica was careful "to emphasize the nar-
+rowness of [its] holding." Id., at 750. As we did in Bolger
+v. Youngs Drug Products Corp., 463 U. S. 60 (1983), we dis-
+tinguish Pacifica from the cases before us and reiterate that
+"the government may not 'reduce the adult population . . . to
+... only what is fit for children.'" 463 U. S., at 73, quoting
+Butler v. Michigan, supra, at 383.
+   The federal parties nevertheless argue that the total ban
+on indecent commercial telephone communications is justified
+because nothing less could prevent children from gaining ac-
+cess to such messages. We find the argument quite unper-
+suasive. The FCC, after lengthy proceedings, determined
+that its credit card, access code, and scrambling rules were a
+satisfactory solution to the problem of keeping indecent dial-
+a-porn messages out of the reach of minors. The Court of
+Appeals, after careful consideration, agreed that these rules
+represented a "feasible and effective" way to serve the Gov-
+ernment's compelling interest in protecting children. 837 F.
+2d, at 555.
+   The federal parties now insist that the rules would not be
+effective enough-that enterprising youngsters could and
+would evade the rules and gain access to communications
+from which they should be shielded. There is no evidence in
+the record before us to that effect, nor could there be since
+         SABLE COMMUNICATIONS OF CAL., INC. v. FCC                       129
+
+115                        Opinion of the Court
+
+the FCC's implementation of§ 223(b) prior to its 1988 amend-
+ment has never been tested over time. In this respect, the
+federal parties assert that in amending § 223(b) in 1988, Con-
+gress expressed its view that there was not a sufficiently
+effective way to protect minors short of the total ban that
+it enacted. The federal parties claim that we must give def-
+erence to that judgment.
+   To the extent that the federal parties suggest that we
+should defer to Congress' conclusion about an issue of con-
+stitutional law, our answer is that while we do not ignore it,
+it is our task in the end to decide whether Congress has vio-
+lated the Constitution. This is particularly true where the
+Legislature has concluded that its product does not violate
+the First Amendment. "Deference to a legislative finding
+cannot limit judicial inquiry when First Amendment rights
+are at stake." Landmark Communications, Inc. v. Vir-
+ginia, 435 U. S. 829, 843 (1978). The federal parties, how-
+ever, also urge us to defer to the factual findings by Congress
+relevant to resolving the constitutional issue; they rely on
+Walters v. National Association of Radiation Survivors, 473
+U. S. 305, 331, n. 12 (1985), and Rostker v. Goldberg, 453
+U. S. 57, 72-73 (1981). Beyond the fact that whatever def-
+erence is due legislative findings would not foreclose our
+independent judgment of the facts bearing on an issue of
+constitutional law, our answer is that the congressional
+record contains no legislative findings that would justify us
+in concluding that there is no constitutionally acceptable less
+restrictive means, short of a total ban, to achieve the Govern-
+ment's interest in protecting minors.
+   There is no doubt Congress enacted a total ban on both
+obscene and indecent telephone communications. But aside
+from conclusory statements during the debates by propo-
+nents of the bill, 7 as well as similar assertions in hearings on
+  7
+    See e. g., 134 Cong. Rec. 7331 (1988) (statement of Rep. Bliley); id., at
+7336 (statement of Rep. Coats); id., at 7330 (statement of Rep. Hall; id., at
+7599 (statement of Sen. Hatch).
+130                      OCTOBER TERM, 1988
+
+                           Opinion of the Court                  492 u. s.
+
+a substantially identical bill the year before, H. R. 1786, 8
+that under the FCC regulations minors could still have access
+to dial-a-porn messages, the congressional record presented
+to us contains no evidence as to how effective or ineffective
+the FCC's most recent regulations were or might prove to
+be. It may well be that there is no fail-safe method of guar-
+anteeing that never will a minor be able to access the dial-a-
+porn system. The bill that was enacted, however, was intro-
+duced on the floor; nor was there a committee report on the
+bill from which the language of the enacted bill was taken.
+No Congressman or Senator purported to present a consid-
+ered judgment with respect to how often or to what extent
+minors could or would circumvent the rules and have access
+to dial-a-porn messages. On the other hand, in the hearings
+on H. R. 1786, the Committee heard testimony from the
+FCC and other witnesses that the FCC rules would be effec-
+tive and should be tried out in practice. 9 Furthermore, at
+the conclusion of the hearing, the Chairman of the Sub-
+committee suggested consultation looking toward "drafting a
+piece of legislation that will pass constitutional muster, while
+at the same time providing for the practical relief which fam-
+ilies and groups are looking for." Hearings, at 235. The bill
+never emerged from Committee.
+   For all we know from this record, the FCC's technological
+approach to restricting dial-a-porn messages to adults who
+seek them would be extremely effective, and only a few of the
+most enterprising and disobedient young people would man-
+age to secure access to such messages. 10 If this is the case,
+  8
+    Telephone Decency Act of 1987: Hearing on H. R. 1786 before the
+Subcommittee on Telecommunications and Finance of the House Commit-
+tee on Energy and Commerce, 100th Cong., 1st Sess., 2, 15 (1987) (Rep.
+Bliley) (Hearings); id., at 18 (Rep. Coats); id., at 20 (Rep. Tauke).
+  These hearings were held while Carlin III was pending before the Court
+of Appeals for the Second Circuit.
+  9
+    See, e. g., Hearings, at 129, 130, 132-133, 195-196, 198-200, 230-231.
+  10
+     In the Hearings on H. R. 1786, id., at 231-232, the following colloquy
+occurred between Congressman Nielson and Mr. Ward, a United States
+Attorney interested in § 223(b) prosecutions:
+        SABLE COMMUNICATIONS OF CAL., INC. v. FCC                    131
+
+115                     SCALIA, J., concurring
+
+it seems to us that § 223(b) is not a narrowly tailored effort
+to serve the compelling interest of preventing minors from
+being exposed to indecent telephone messages. Under our
+precedents, § 223(b), in its present form, has the invalid ef-
+fect of limiting the content of adult telephone conversations
+to that which is suitable for children to hear. It is another
+case of "burn[ing] the house to roast the pig." Butler v.
+Michigan, 352 U. S., at 383.
+   Because the statute's denial of adult access to telephone
+messages which are indecent but not obscene far exceeds
+that which is necessary to limit the access of minors to such
+messages, we hold that the ban does not survive constitu-
+tional scrutiny.
+   Accordingly, we affirm the judgment of the District Court
+in Nos. 88-515 and 88-525.
+                                              It is so ordered.
+  JUSTICE SCALIA, concurring.
+   I join the opinion of the Court, but add a few words. It
+should not be missed that we are making a value judgment
+with respect to the indecency portion of the statute. The
+conclusion of the reasoning in Part IV of our opinion is as
+follows:
+        "For all we know from this record, the FCC's techno-
+      logical approach to restricting dial-a-porn messages to
+      adults who seek them would be extremely effective, and
+      only a few of the most enterprising and disobedient
+
+  "Mr. NIELSON. Let me ask the question I asked the previous panel.
+Do any of the current alternatives by the FCC-that is the access codes,
+the credit cards, or the scrambling-do any of those provide a foolproof
+way of limiting dial-a-porn access to adults only? Either of you.
+  "Mr. WARD. I think that-it's not foolproof, but I think the access
+code requirement and the screening option, both provide the means of dra-
+matically reducing the number of calls from minors in the United States,
+almost eliminating them. So I think that it would be a very effective way
+to do it.
+  "Mr. NIELSON. But not foolproof?
+  "Mr. WARD. Not absolutely foolproof."
+132                   OCTOBER TERM, 1988
+
+                       SCALIA, J., concurring           492   u. s.
+      young people would manage to secure access to such
+      messages. If this is the case, it seems to us that § 223(b)
+      is not a narrowly tailored effort to serve the compelling
+      interest of preventing minors from being exposed to in-
+      decent telephone messages." Ante, at 130-131.
+We could as well have said:
+      "We know from this record that the FCC's technologi-
+   cal approach to restricting dial-a-porn messages to adults
+   who seek them would be inadequate, since some enter-
+   prising and disobedient young people would manage to
+   secure access to such messages. Since this is the case,
+   it seems to us that§ 223(b) is a narrowly tailored effort to
+   serve the compelling interest of preventing minors from
+   being exposed to indecent telephone messages."
+I join the Court's opinion because I think it correct that a
+wholesale prohibition upon adult access to indecent speech
+cannot be adopted merely because the FCC's alternate pro-
+posal could be circumvented by as few children as the evi-
+dence suggests. But where a reasonable person draws the
+line in this balancing process - that is, how few children ren-
+der the risk unacceptable-depends in part upon what mere
+"indecency" (as opposed to "obscenity") includes. The more
+narrow the understanding of what is "obscene," and hence
+the more pornographic what is embraced within the residual
+category of "indecency," the more reasonable it becomes to
+insist upon greater assurance of insulation from minors. So
+while the Court is unanimous on the reasoning of Part IV, I
+am not sure it is unanimous on the assumptions underlying
+that reasoning. I do not believe, for example, that any sort
+of sexual activity portrayed or enacted over the phone lines
+would fall outside of the obscenity portion of the statute that
+we uphold, and within the indecency portion that we strike
+down, so long as it appeals only to "normal, healthy sexual
+desires" as opposed to "shameful or morbid" ones. Brockett
+v. Spokane Arcades, Inc., 472 U. S. 491, 498 (1985).
+       SABLE COMMUNICATIONS OF CAL., INC. v. FCC              133
+
+115                  Opinion of BRENNAN, J.
+
+   In joining Part IV, I do so with the understanding that its
+examination of the legislative history (ante, at 129-130) is
+merely meant to establish that no more there than anywhere
+else can data be found demonstrating the infeasibility of al-
+ternative means to provide (given the nature of this material)
+adequate protection of minors. I do not understand the
+Court to suggest that such data must have been before Con-
+gress in order for the law to be valid. Even though "[n]o
+Congressman or Senator purported to present a considered
+judgment" on infeasibility, ante, at 130, the law would be
+valid if infeasibility was true. Neither due process nor the
+First Amendment requires legislation to be supported by
+committee reports, floor debates, or even consideration, but
+only by a vote.
+   Finally, I note that while we hold the Constitution pre-
+vents Congress from banning indecent speech in this fashion,
+we do not hold that the Constitution requires public utilities
+to carry it.
+  JUSTICE BRENNAN' with whom JUSTICE MARSHALL and
+JUSTICE STEVENS join, concurring in part and dissenting
+in part.
+   I agree that a statute imposing criminal penalties for mak-
+ing, or for allowing others to use a telephone under one's con-
+trol to make, any indecent telephonic communication for a
+commercial purpose is patently unconstitutional. I there-
+fore join Parts I, II, and IV of the Court's opinion.
+   In my view, however, 47 U. S. C. § 223(b)(l)(A)'s parallel
+criminal prohibition with regard to obscene commercial com-
+munications likewise violates the First Amendment. I have
+long been convinced that the exaction of criminal penalties
+for the distribution of obscene materials to consenting adults
+is constitutionally intolerable. In my judgment, "the con-
+cept of 'obscenity' cannot be defined with sufficient specificity
+and clarity to provide fair notice to persons who create and
+distribute sexually oriented materials, to prevent substantial
+erosion of protected speech as a byproduct of the attempt
+134                 OCTOBER TERM, 1988
+
+                     Opinion of BRENNAN, J.           492   u. s.
+to suppress unprotected speech, and to avoid very costly in-
+stitutional harms." Paris Adult Theatre I v. Slaton, 413
+U. S. 49, 103 (1973) (BRENNAN, J., dissenting). To be sure,
+the Government has a strong interest in protecting children
+against exposure to pornographic material that might be
+harmful to them. New York v. Ferber, 458 U. S. 747, 775-
+777 (1982) (BRENNAN, J., concurring in judgment); Ginsberg
+v. New York, 390 U. S. 629 (1968). But a complete criminal
+ban on obscene telephonic messages for profit is "unconstitu-
+tionally overbroad, and therefore invalid on its face," as
+a means for achieving this end. Miller v. California, 413
+u. s. 15, 47 (1973) (BRENNAN, J., dissenting).
+   The very evidence the Court adduces to show that denying
+adults access to all indecent commercial messages "far ex-
+ceeds that which is necessary to limit the access of minors
+to such messages," ante, at 131, also demonstrates that for-
+bidding the transmission of all obscene messages is unduly
+heavyhanded. After painstaking scrutiny, both the FCC
+and the Second Circuit found that "a scheme involving access
+codes, scrambling, and credit card payment is a feasible and
+effective way to serve this compelling state interest" in safe-
+guarding children. Carlin Communications, Inc. v. FCC,
+837 F. 2d 546, 555, cert. denied, 488 U. S. 924 (1988). And
+during the 1987 hearings on H. R. 1786, a United States
+attorney speaking on behalf of the Justice Department de-
+scribed the FCC's proposed regulations as "very effective,"
+because they would "dramatically reduc[e] the number of
+calls from minors in the United States, almost eliminating
+them." Telephone Decency Act of 1987: Hearings on H. R.
+1786 before the Subcommittee on Telecommunications and
+Finance of the House Committee on Energy and Commerce,
+100th Cong., 1st Sess., 231 (1987). In addition, as the Court
+notes, ante, at 129-130, no contrary evidence was before
+Congress when it voted to impose a total prohibition on ob-
+scene telephonic messages for profit. Hence, the federal
+parties cannot plausibly claim that their legitimate interest
+       SABLE COMMUNICATIONS OF CAL., INC. v. FCC           135
+
+115                 Opinion of BRENNAN, J.
+
+in protecting children warrants this Draconian restriction on
+the First Amendment rights of adults who seek to hear the
+messages that Sable and others provide.
+   Section 223(b)(l)(A) unambiguously proscribes all obscene
+commercial messages, and thus admits of no construction
+that would render it constitutionally permissible. Because
+this criminal statute curtails freedom of speech far more rad-
+ically than the Government's interest in preventing harm to
+minors could possibly license on the record before us, I would
+reverse the District Court's decision in No. 88-515 and strike
+down the statute on its face. Accordingly, I dissent from
+Part III of the Court's opinion.
+
