@@ -1,0 +1,9 @@
+{
+  "source": "seminole_13._Amicus_Curiae_Brief_djvu.txt",
+  "archive_item": "micro_IA40385013_0546",
+  "source_sha256": "33e7e073da98212e31557a13a09cbb338e51da9ae81b3aab54478cde151006bc",
+  "safe_copy": "seminole_us_amicus_neutral_read.txt",
+  "copy_sha256": "ad37270be900a3dc59cebabbcd0d7ed3ab614fa9276021e75db55bce98b481db",
+  "kept": "Question page and complete Statement through conclusion; all substantive argument and notes retained",
+  "omitted": "Cover and preliminary navigation/authorities/interest pages, including current Court petition-stage procedural history; no substantive inference from omission"
+}
