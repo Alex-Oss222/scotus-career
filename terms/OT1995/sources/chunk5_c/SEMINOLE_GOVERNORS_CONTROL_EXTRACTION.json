@@ -1,0 +1,8 @@
+{
+  "source": "seminole_21._Amicus_Curiae_Brief_djvu.txt",
+  "source_sha256": "889b8ebe54491b320236856fcee14bc818b792622817198bd496f9cb083ea5e3",
+  "safe_copy": "seminole_governors_amicus_neutral_read.txt",
+  "copy_sha256": "831a74fba5155818370554167651f8d58c94f3f4fc892bf78c3bf48e14e5fee6",
+  "kept": "Complete Interest/Statement/Argument/Conclusion with all notes except one marked petition-treatment clause; cover/navigation omitted",
+  "omission": "Footnote4 current Supreme Court petition-treatment clause removed; not-previously-raised and jurisdictional-presentation arguments preserved"
+}
