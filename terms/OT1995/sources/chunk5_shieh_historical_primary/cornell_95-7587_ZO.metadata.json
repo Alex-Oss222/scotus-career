@@ -1,0 +1,28 @@
+{
+  "requested_url": "https://www.law.cornell.edu/supct/html/95-7587.ZO.html",
+  "final_url": "https://www.law.cornell.edu/supct/html/95-7587.ZO.html",
+  "http_status": "404",
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-10-03T21:08:23.978945+00:00",
+  "curl_exit_code": 0,
+  "curl_stderr": "",
+  "saved_path": "cornell_95-7587_ZO.html",
+  "response_bytes": 28655,
+  "sha256": "a4d296ef26141ba8822f031ae63babc2e414ecdaf21536878dfd2c61461e33d2",
+  "expected_source_format": "html",
+  "format_and_status_validation_passed": false,
+  "pdf_magic": false,
+  "source_available": false,
+  "response_classification": "HTTP 404 Page not found; retained as failed retrieval evidence, not opinion text.",
+  "page_count": null,
+  "extraction": {
+    "path": "cornell_95-7587_ZO.txt",
+    "method": "Python standard-library HTMLParser; all text nodes in document order except script/style; entities decoded, block line breaks inserted, horizontal/repeated blank whitespace normalized. Raw error HTML preserved.",
+    "encoding": "UTF-8",
+    "sha256": "7ca1dcccf607c7da668c9810925362c8447beb1379748e1973bf90617866d77e",
+    "bytes": 1485,
+    "characters": 1484,
+    "complete_response_extracted": true
+  },
+  "reading_scope": "Error-page title and HTTP status checked; no primary case text received."
+}

@@ -1,0 +1,46 @@
+{
+  "case": "O'Connor v. Consolidated Coin Caterers Corp.",
+  "citation": "517 U.S. 308",
+  "docket": "95-354",
+  "purpose": "Historical comparator-only archive; no modeling or reconciliation",
+  "requested_url": "https://www.law.cornell.edu/supct/html/95-354.ZS.html",
+  "effective_url": "https://www.law.cornell.edu/supct/html/95-354.ZS.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieval_started_utc": "2026-10-03T21:07:38.912841+00:00",
+  "retrieval_completed_utc": "2026-10-03T21:07:39.420185+00:00",
+  "curl_exit_code": 0,
+  "curl_stderr": "",
+  "response_headers_file": "cornell-95-354.ZS.headers.txt",
+  "source_kind": "html",
+  "full_substantive_reading_claimed": false,
+  "response_bytes": 5683,
+  "response_sha256": "a164a984c034160ae21fa31dd31562717bc2f00382a529c9ef7cdb4bdb39d5aa",
+  "source_file": "cornell-95-354.ZS.html",
+  "source_sha256": "a164a984c034160ae21fa31dd31562717bc2f00382a529c9ef7cdb4bdb39d5aa",
+  "links": [
+    "https://www.law.cornell.edu",
+    "https://www.law.cornell.edu/supremecourt",
+    "/supct/html/95-354.ZO.html",
+    "/supct/word-perfect/95-354.ZO",
+    "/supct/html/95-354.ZS.html",
+    "/supct/word-perfect/95-354.ZS",
+    "/supremecourt/text/200/321",
+    "/supremecourt/text/411/792"
+  ],
+  "page_count": null,
+  "page_count_note": "Unpaginated HTML source; original reporter markers retained where supplied.",
+  "extraction": {
+    "file": "cornell-95-354.ZS.txt",
+    "method": "Python html.parser; all visible text retained, script/style omitted, whitespace normalized; raw HTML is authoritative",
+    "sha256": "0b26bfe2e8bd45d37bc5db4e4b94fdded29477f34148c33be2dc5a4157075e46",
+    "bytes": 2302
+  },
+  "writing_inventory": {
+    "suffix": "ZS",
+    "author": null,
+    "description": "Syllabus",
+    "inventory_basis": "Cornell syllabus, individual writing page header, and official Reports where Cornell header defective",
+    "full_substantive_reading": false
+  }
+}

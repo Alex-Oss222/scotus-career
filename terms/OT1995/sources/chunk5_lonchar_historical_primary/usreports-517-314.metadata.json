@@ -1,0 +1,52 @@
+{
+  "case": "Lonchar v. Thomas",
+  "citation": "517 U.S. 314",
+  "docket": "95-5015",
+  "purpose": "Historical comparator-only archive; no modeling or reconciliation",
+  "requested_url": "https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-314.pdf",
+  "effective_url": "https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-314.pdf",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "retrieval_started_utc": "2026-10-03T21:07:38.913138+00:00",
+  "retrieval_completed_utc": "2026-10-03T21:07:39.109833+00:00",
+  "curl_exit_code": 0,
+  "curl_stderr": "",
+  "response_headers_file": "usreports-517-314.headers.txt",
+  "source_kind": "pdf",
+  "full_substantive_reading_claimed": false,
+  "response_bytes": 257086,
+  "response_sha256": "6775935ac6c0436aeda2aa6b92f73335b79e69db36aeaa4c945e847adab65bd3",
+  "pdf_magic_valid": true,
+  "source_file": "usreports-517-314.pdf",
+  "source_sha256": "6775935ac6c0436aeda2aa6b92f73335b79e69db36aeaa4c945e847adab65bd3",
+  "pdfinfo_exit_code": 0,
+  "pdfinfo_file": "usreports-517-314.pdfinfo.txt",
+  "page_count": 29,
+  "extraction": {
+    "file": "usreports-517-314.layout.txt",
+    "method": "pdftotext -layout -enc UTF-8 -eol unix; all pages; no filtering",
+    "exit_code": 0,
+    "stderr": "",
+    "bytes": 64978,
+    "sha256": "898a2565958134bfdcd05f6256b1ddb863660964fcb434abdb100287c552aee1",
+    "form_feed_count": 29,
+    "nonempty_page_count": 29,
+    "tool_version": "pdftotext version 25.03.0\nCopyright 2005-2025 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC"
+  },
+  "archival_validation": {
+    "pdf_magic_valid": true,
+    "http_200": true,
+    "pdfinfo_success": true,
+    "case_and_docket_identity": "Verified against official PDF first page and Cornell syllabus",
+    "decision_date": "1996-04-01",
+    "printed_reporter_pages": [
+      314,
+      342
+    ],
+    "every_expected_reporter_page_header_verified": true,
+    "nonempty_extracted_pages": 29,
+    "complete_unfiltered_extraction_with_footnotes": true,
+    "full_substantive_reading": false,
+    "actual_reading": "Cornell syllabus read for identity/inventory; individual writing headers/tails inspected; PDF first/last pages and every page header checked. No complete substantive reading of writings."
+  }
+}

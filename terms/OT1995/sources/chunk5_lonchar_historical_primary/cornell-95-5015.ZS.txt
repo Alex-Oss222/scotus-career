@@ -1,0 +1,200 @@
+Lonchar v. Thomas, Warden, 517 U.S. 314 (1996).
+
+
+
+
+
+
+
+
+LII
+
+
+
+Supreme Court
+
+
+
+
+
+
+
+
+
+Lonchar v. Thomas, Warden (95-5015), 517 U.S. 314 (1996).
+
+
+Opinion
+[ Breyer ]Concurrence
+[ Rehnquist ]Syllabus
+
+
+HTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+as is being done in connection with this case, at the time the opinion
+is issued. The syllabus constitutes no part of the opinion of the Court
+but has been prepared by the Reporter of Decisions for the convenience
+of the reader. See United States v. Detroit Lumber Co., 200
+U.S. 321, 337.
+
+
+
+
+SUPREME COURT OF THE UNITED STATES
+
+
+
+
+Syllabus
+
+
+LONCHAR v. THOMAS,
+WARDEN
+
+
+
+
+certiorari to the united states
+court of appeals for the eleventh circuit
+
+
+
+
+No. 95-5015.
+Argued December 4, 1995 -- Decided
+April 1, 1996
+
+
+
+
+
+
+
+
+
+Petitioner Lonchar was sentenced to death for murder nine years ago.
+In the years following the affirmance of his conviction and sentence, his
+sister and brother each filed "next friend" state habeas petitions, which
+Lonchar opposed, and Lonchar filed, and then had dismissed, a state habeas
+petition. Shortly before his scheduled execution, he filed another state
+habeas petition. When it was denied, he filed this "eleventh hour" federal
+petition, his first. Reasoning that federal Habeas Corpus Rule 9, not some
+generalized equitable authority to dismiss, governed the case, the District
+Court held that Lonchar's conduct in waiting almost six years to file his
+federal petition did not constitute an independent basis for rejecting
+the petition and granted a stay to permit time for consideration of other
+grounds for dismissal raised by the State. The Court of Appeals vacated
+the stay. It held that equitable doctrines independent of Rule 9 applied,
+relying chiefly on this Court's per curiam order in Gomez
+v. United States Dist. Court for Northern Dist of Cal., 503
+U.S. 653. Setting aside the Rules and traditional habeas doctrines,
+the court concluded that Lonchar did not merit equitable relief.
+
+
+
+
+Held:
+
+
+
+
+1. The principle of Barefoot
+v. Estelle, 463
+U.S. 880, applies when a district court is faced with a request for
+a stay in a first federal habeas case: if the district court cannot dismiss
+the petition on the merits before the scheduled execution, it is obligated
+to address the merits and must issue a stay to prevent the case from becoming
+moot. If the court lacks authority to directly dispose of the petition
+on the merits, it would abuse its discretion by attempting to achieve the
+same result indirectly by denying a stay. Since Lonchar's claims certainly
+seem substantial enough to prevent dismissal under Habeas Corpus Rule 4
+and the State does not argue to the contrary, the courts below correctly
+assumed that he could not be denied a stay unless his petition was properly
+subject to dismissal. This Court's Gomez order has not displaced
+Barefoot's rationale with one permitting denial of a stay in first
+federal habeas cases, even when the district court lacks authority to dismiss
+the petition on the merits. Gomez did not involve a denial of a
+stay in a case in which the lower court had no authority to dismiss the
+petition or a first habeas petition, and it neither discussed nor
+cited Barefoot, much less repudiated its rationale. Pp. 4-7.
+
+
+
+
+2. The Court of Appeals erred in dismissing Lonchar's first federal
+petition for special ad hoc "equitable" reasons not encompassed within
+the relevant statutes, the Federal Habeas Corpus Rules, or prior precedents.
+First, the history of the Great Writ reveals, not individual judges dismissing
+writs for ad hoc reasons, but, rather, the gradual evolution of more formal
+judicial, statutory, or rules based doctrines of law that regularize and
+thereby narrow the discretion that individual judges can freely exercise.
+See, e.g., McCleskey v. Zant, 499
+U.S. 467, 479-489. Second, the fact that the writ has been called an
+"equitable" remedy, see, e.g., Gomez, supra, at 653-654, does not
+authorize a court to ignore this body of statutes, rules, and precedents.
+Rather, "courts of equity must be governed by rules and precedents no less
+than the courts of law," Missouri v. Jenkins, 515 U. S. ___,
+___ (Thomas, J., concurring). The arguments against ad hoc departure from
+settled rules seem particularly strong when dismissal of a first
+habeas petition is at issue, since such dismissal denies the petitioner
+the protections of the Great Writ entirely. See Ex parte Yerger,
+8 Wall. 85, 95. Third, Rule 9(a)--which permits courts to dismiss a habeas
+petition when "it appears that the state . . . has been prejudiced in its
+ability to respond . . . by delay in [the petition's] filing"--specifically
+and directly addresses the delay factor that led the Court of Appeals to
+dismiss Lonchar's petition. The District Court was not asked to, and did
+not, make a finding of prejudice in this case, whereas the Rule's history
+makes plain that the prejudice requirement represents a critical element
+in the balancing of interests undertaken by Congress and the Rule's framers,
+which courts may not undermine through the exercise of background equitable
+powers. See Bank of Nova Scotia v. United States, 487
+U.S. 250, 255. Fourth, contrary to the Court of Appeals' view, Gomez,
+supra, at 653-654, did not authorize ad hoc equitable departures from
+the Habeas Corpus Rules and did not purport to work a significant change
+in the law applicable to the dismissal of first habeas petitions. Fifth,
+the fact that Lonchar filed his petition at the "eleventh hour" does not
+lead to a different conclusion. Gomez, supra, at 654, and, e.g.,
+Sawyer v. Whitley, 505
+U.S. 333, 341, n. 7, distinguished. The complexity inherent in developing
+fair and effective rules to minimize the harms created by last minute petitions
+in capital cases offers a practical caution against a judicial attempt,
+outside the framework of the Habeas Rules, to fashion reforms concerning
+first federal habeas petitions. Sixth, a different result is not warranted
+by the special circumstances in this case, including the "next friend"
+petitions filed by Lonchar's siblings, his filing and later withdrawal
+of his own state habeas petition, and the fact that his motive for
+filing this federal habeas petition was in part to delay his execution.
+The Court expresses no view about the proper outcome of the Rules' application
+in this case. Pp. 7-18.
+
+
+
+
+58 F. 3d 590,
+vacated and remanded.
+
+
+
+
+Breyer, J., delivered the opinion
+of the Court, in which Stevens, O'Connor, Souter, and Ginsburg, JJ., joined.
+Rehnquist, C. J., filed an opinion concurring in the judgment, in which
+Scalia, Kennedy, and Thomas, JJ., joined.

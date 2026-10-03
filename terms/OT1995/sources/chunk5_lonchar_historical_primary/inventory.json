@@ -1,0 +1,55 @@
+{
+  "case": "Lonchar v. Thomas, Warden",
+  "citation": "517 U.S. 314 (1996)",
+  "docket": "95-5015",
+  "decision_date": "1996-04-01",
+  "access_boundary": "Historical comparator-only. Supply to a fresh reconciliation context only after independent commitment freeze; not for neutral modeling.",
+  "official_pdf": {
+    "file": "usreports-517-314.pdf",
+    "layout_text": "usreports-517-314.layout.txt",
+    "metadata": "usreports-517-314.metadata.json",
+    "pages": 29,
+    "printed_reporter_pages": [
+      314,
+      342
+    ]
+  },
+  "cornell_sources": [
+    {
+      "suffix": "ZS",
+      "author": null,
+      "description": "Syllabus",
+      "html": "cornell-95-5015.ZS.html",
+      "text": "cornell-95-5015.ZS.txt",
+      "metadata": "cornell-95-5015.ZS.metadata.json",
+      "url": "https://www.law.cornell.edu/supct/html/95-5015.ZS.html",
+      "effective_url": "https://www.law.cornell.edu/supct/html/95-5015.ZS.html"
+    },
+    {
+      "suffix": "ZO",
+      "author": "Breyer",
+      "description": "Opinion of the Court",
+      "html": "cornell-95-5015.ZO.html",
+      "text": "cornell-95-5015.ZO.txt",
+      "metadata": "cornell-95-5015.ZO.metadata.json",
+      "url": "https://www.law.cornell.edu/supct/html/95-5015.ZO.html",
+      "effective_url": "https://www.law.cornell.edu/supct/html/95-5015.ZO.html"
+    },
+    {
+      "suffix": "ZC",
+      "author": "Rehnquist",
+      "description": "Opinion concurring in the judgment",
+      "html": "cornell-95-5015.ZC.html",
+      "text": "cornell-95-5015.ZC.txt",
+      "metadata": "cornell-95-5015.ZC.metadata.json",
+      "url": "https://www.law.cornell.edu/supct/html/95-5015.ZC.html",
+      "effective_url": "https://www.law.cornell.edu/supct/html/95-5015.ZC.html"
+    }
+  ],
+  "source_limitations": [
+    "Cornell `95-5015.ZC.html` has a source-level truncated introductory author/join/concurrence line (raw HTML lines 75\u201376). The official Reports page 334 preserves the complete line. The Cornell syllabus supplies the writing inventory. Raw downloaded bytes and the derived text are retained without repair."
+  ],
+  "full_substantive_reading_claimed": false,
+  "actual_reading_limits": "Cornell syllabus read for identity/inventory; individual writing headers/tails inspected; PDF first/last pages and every page header checked. No complete substantive reading of writings.",
+  "extraction_limits": "Original PDF/HTML bytes preserved exactly. Complete unfiltered pdftotext -layout output preserved, including all pages and notes; conversion is not asserted typographically lossless. HTML text omits script/style and normalizes whitespace; raw HTML is authoritative."
+}

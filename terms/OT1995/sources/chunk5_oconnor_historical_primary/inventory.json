@@ -1,0 +1,45 @@
+{
+  "case": "O'Connor v. Consolidated Coin Caterers Corp.",
+  "citation": "517 U.S. 308 (1996)",
+  "docket": "95-354",
+  "decision_date": "1996-04-01",
+  "access_boundary": "Historical comparator-only. Supply to a fresh reconciliation context only after independent commitment freeze; not for neutral modeling.",
+  "official_pdf": {
+    "file": "usreports-517-308.pdf",
+    "layout_text": "usreports-517-308.layout.txt",
+    "metadata": "usreports-517-308.metadata.json",
+    "pages": 6,
+    "printed_reporter_pages": [
+      308,
+      313
+    ]
+  },
+  "cornell_sources": [
+    {
+      "suffix": "ZS",
+      "author": null,
+      "description": "Syllabus",
+      "html": "cornell-95-354.ZS.html",
+      "text": "cornell-95-354.ZS.txt",
+      "metadata": "cornell-95-354.ZS.metadata.json",
+      "url": "https://www.law.cornell.edu/supct/html/95-354.ZS.html",
+      "effective_url": "https://www.law.cornell.edu/supct/html/95-354.ZS.html"
+    },
+    {
+      "suffix": "ZO",
+      "author": "Scalia",
+      "description": "Opinion of the Court (unanimous, as stated in syllabus)",
+      "html": "cornell-95-354.ZO.html",
+      "text": "cornell-95-354.ZO.txt",
+      "metadata": "cornell-95-354.ZO.metadata.json",
+      "url": "https://www.law.cornell.edu/supct/html/95-354.ZO.html",
+      "effective_url": "https://www.law.cornell.edu/supct/html/95-354.ZO.html"
+    }
+  ],
+  "source_limitations": [
+    "No source defect was detected in the limited archival identity/header/tail checks; this is not a claim of substantive line-by-line verification."
+  ],
+  "full_substantive_reading_claimed": false,
+  "actual_reading_limits": "Cornell syllabus read for identity/inventory; individual writing headers/tails inspected; PDF first/last pages and every page header checked. No complete substantive reading of writings.",
+  "extraction_limits": "Original PDF/HTML bytes preserved exactly. Complete unfiltered pdftotext -layout output preserved, including all pages and notes; conversion is not asserted typographically lossless. HTML text omits script/style and normalizes whitespace; raw HTML is authoritative."
+}

@@ -1,0 +1,52 @@
+{
+  "case": "O'Connor v. Consolidated Coin Caterers Corp.",
+  "citation": "517 U.S. 308",
+  "docket": "95-354",
+  "purpose": "Historical comparator-only archive; no modeling or reconciliation",
+  "requested_url": "https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-308.pdf",
+  "effective_url": "https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-308.pdf",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "retrieval_started_utc": "2026-10-03T21:07:38.912499+00:00",
+  "retrieval_completed_utc": "2026-10-03T21:07:39.146482+00:00",
+  "curl_exit_code": 0,
+  "curl_stderr": "",
+  "response_headers_file": "usreports-517-308.headers.txt",
+  "source_kind": "pdf",
+  "full_substantive_reading_claimed": false,
+  "response_bytes": 201527,
+  "response_sha256": "54b221f44067c41194d040cc7056cd2a717be5eca791a55a962c1e0a2108eff1",
+  "pdf_magic_valid": true,
+  "source_file": "usreports-517-308.pdf",
+  "source_sha256": "54b221f44067c41194d040cc7056cd2a717be5eca791a55a962c1e0a2108eff1",
+  "pdfinfo_exit_code": 0,
+  "pdfinfo_file": "usreports-517-308.pdfinfo.txt",
+  "page_count": 6,
+  "extraction": {
+    "file": "usreports-517-308.layout.txt",
+    "method": "pdftotext -layout -enc UTF-8 -eol unix; all pages; no filtering",
+    "exit_code": 0,
+    "stderr": "",
+    "bytes": 12521,
+    "sha256": "a83389a50468f663881dee07283660d154a75d1aa72d7e3c20ff52bac83980a6",
+    "form_feed_count": 6,
+    "nonempty_page_count": 6,
+    "tool_version": "pdftotext version 25.03.0\nCopyright 2005-2025 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC"
+  },
+  "archival_validation": {
+    "pdf_magic_valid": true,
+    "http_200": true,
+    "pdfinfo_success": true,
+    "case_and_docket_identity": "Verified against official PDF first page and Cornell syllabus",
+    "decision_date": "1996-04-01",
+    "printed_reporter_pages": [
+      308,
+      313
+    ],
+    "every_expected_reporter_page_header_verified": true,
+    "nonempty_extracted_pages": 6,
+    "complete_unfiltered_extraction_with_footnotes": true,
+    "full_substantive_reading": false,
+    "actual_reading": "Cornell syllabus read for identity/inventory; individual writing headers/tails inspected; PDF first/last pages and every page header checked. No complete substantive reading of writings."
+  }
+}

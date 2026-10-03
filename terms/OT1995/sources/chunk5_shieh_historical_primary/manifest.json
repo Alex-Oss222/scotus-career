@@ -1,0 +1,78 @@
+{
+  "archive_scope": "Historical primary-source comparator archive only; supply to the reconciliation context after the independent freeze. Source-only archival inventory may be inspected before that gate.",
+  "case": "Shieh v. Kakita et al.",
+  "citation": "517 U.S. 343",
+  "decision_date_as_printed": "1996-04-01",
+  "dockets": [
+    {
+      "number": "95-7587",
+      "caption": "Shieh v. Kakita et al."
+    },
+    {
+      "number": "95-7588",
+      "caption": "Shieh v. United States Court of Appeals for the Ninth Circuit"
+    },
+    {
+      "number": "95-7589",
+      "caption": "Shieh v. Krieger et al."
+    }
+  ],
+  "docket_source": "Official report page 343, caption and asterisk note.",
+  "source_inventory": [
+    {
+      "kind": "Official U.S. Reports PDF",
+      "path": "usreports_517_343.pdf",
+      "text": "usreports_517_343.layout.txt",
+      "metadata": "usreports_517_343.metadata.json",
+      "pdf_pages": 2,
+      "reporter_pages": [
+        343,
+        344
+      ]
+    }
+  ],
+  "writing_inventory": [
+    {
+      "kind": "Reporter syllabus",
+      "reporter_pages": [
+        343
+      ]
+    },
+    {
+      "kind": "Per curiam opinion",
+      "reporter_pages": [
+        343,
+        344
+      ]
+    },
+    {
+      "kind": "Dissent",
+      "author": "Justice Stevens",
+      "reporter_pages": [
+        344
+      ]
+    }
+  ],
+  "writing_count_excluding_syllabus": 2,
+  "notes_coverage": "The page 343 asterisk note naming the companion dockets is preserved in the complete layout extraction; the page 344 dissent and its cited references are preserved.",
+  "cornell_attempts": [
+    {
+      "url": "https://www.law.cornell.edu/supct/html/95-7587.ZS.html",
+      "http_status": 404,
+      "metadata": "cornell_95-7587_ZS.metadata.json"
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/95-7587.ZO.html",
+      "http_status": 404,
+      "metadata": "cornell_95-7587_ZO.metadata.json"
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/95-7587.ZD.html",
+      "http_status": 404,
+      "metadata": "cornell_95-7587_ZD.metadata.json"
+    }
+  ],
+  "cornell_availability_limit": "The three expected primary-docket Cornell URLs returned 404. This does not establish absence from all possible Cornell URLs. Official report supplies the complete source.",
+  "reading_scope": "Complete two-page extracted text read for source identity, writing inventory, reporter coverage, and notes. No legal conclusions, vote modeling, or reconciliation. No assertion of full substantive legal analysis.",
+  "environment_validation": "Previously verified curl, pdftotext, pdfinfo, and Python standard-library tools performed this retrieval and extraction successfully. No installation or environment configuration changes needed."
+}

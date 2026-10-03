@@ -1,0 +1,47 @@
+{
+  "requested_url": "https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-343.pdf",
+  "final_url": "https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-343.pdf",
+  "http_status": "200",
+  "content_type": "application/pdf",
+  "retrieved_at_utc": "2026-10-03T21:07:33.459740+00:00",
+  "curl_exit_code": 0,
+  "curl_stderr": "",
+  "saved_path": "usreports_517_343.pdf",
+  "response_bytes": 189299,
+  "sha256": "7bff972d4bc652cd03d022539f1caf5f2b0979ddb42ccae8dabf808c7fb2097c",
+  "expected_source_format": "pdf",
+  "format_and_status_validation_passed": true,
+  "pdf_magic": true,
+  "title_content_verified": true,
+  "title_content_marker": "SHIEH v. KAKITA",
+  "docket_numbers_verified": [
+    "95-7587",
+    "95-7588",
+    "95-7589"
+  ],
+  "pdf_page_count": 2,
+  "reporter_pages": [
+    343,
+    344
+  ],
+  "extraction": {
+    "command": "pdftotext -layout usreports_517_343.pdf usreports_517_343.layout.txt",
+    "tool_version": "pdftotext version 25.03.0\nCopyright 2005-2025 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC",
+    "exit_code": 0,
+    "path": "usreports_517_343.layout.txt",
+    "encoding": "UTF-8",
+    "sha256": "3553a8d6157c55ba3fbb64569579133b6b526fa69acb126614a7e0f425ced8af",
+    "bytes": 3560,
+    "characters": 3544,
+    "form_feed_page_count": 2,
+    "page_character_counts": [
+      2220,
+      1322
+    ],
+    "page_range_selection": null,
+    "complete_document_extracted": true,
+    "unfiltered_pdftotext_output": true
+  },
+  "pdfinfo_path": "usreports_517_343.pdfinfo.txt",
+  "reading_scope": "Complete two-page extracted text read for source identity, writing inventory, reporter coverage, and notes. No legal analysis, vote modeling, or reconciliation performed."
+}
