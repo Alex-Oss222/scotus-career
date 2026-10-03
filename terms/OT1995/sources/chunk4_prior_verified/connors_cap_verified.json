@@ -1,0 +1,313 @@
+{
+  "id": 10552239,
+  "name": "Joseph P. CONNORS, Sr., et al. v. P & M COAL COMPANY, et al., Appellants",
+  "name_abbreviation": "Connors v. P & M Coal Co.",
+  "decision_date": "1986-09-12",
+  "docket_number": "No. 85-5738",
+  "first_page": "1373",
+  "last_page": "1378",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "801 F.2d 1373"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C. Cir.",
+    "id": 8770,
+    "name": "United States Court of Appeals for the District of Columbia Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "556 F.Supp. 192",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3533888
+      ],
+      "pin_cites": [
+        {
+          "page": "194"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/556/0192-01"
+      ]
+    },
+    {
+      "cite": "726 F.2d 513",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1929750
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "515"
+        },
+        {
+          "page": "515"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/726/0513-01"
+      ]
+    },
+    {
+      "cite": "29 U.S.C. \u00a7 1405",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(c)",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 U.S.C. \u00a7\u00a7 201-219",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "712 F.2d 1509",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1878191
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1514"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/712/1509-01"
+      ]
+    },
+    {
+      "cite": "446 U.S. 359",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182792
+      ],
+      "weight": 3,
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/446/0359-01"
+      ]
+    },
+    {
+      "cite": "592 F.2d 947",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        53207
+      ],
+      "pin_cites": [
+        {
+          "page": "952"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/592/0947-01"
+      ]
+    },
+    {
+      "cite": "554 F.Supp. 573",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3521124
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "575"
+        },
+        {
+          "page": "574-75"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/554/0573-01"
+      ]
+    },
+    {
+      "cite": "770 F.2d 352",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        332845
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "354"
+        },
+        {
+          "page": "353-54"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/770/0352-01"
+      ]
+    },
+    {
+      "cite": "29 U.S.C. \u00a7 1002",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(5)",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "634 F.Supp. 13",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3859339
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "18-19"
+        },
+        {
+          "page": "18-19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/634/0013-01"
+      ]
+    },
+    {
+      "cite": "634 F.Supp. 74",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3859948
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "76-77"
+        },
+        {
+          "page": "77"
+        },
+        {
+          "page": "77"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/634/0074-01"
+      ]
+    },
+    {
+      "cite": "29 U.S.C. \u00a7 1381",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "(a)",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 U.S.C. \u00a7\u00a7 1381-1461",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 U.S.C. \u00a7 1001",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 Stat. 1208",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "year": 1980,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 833,
+    "char_count": 17337,
+    "ocr_confidence": 0.764,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.23552647277891492
+    },
+    "sha256": "b6af7d0973aeac7f5ea5480ffd662952023a5358e36d6557a80e8d8531c3eb84",
+    "simhash": "1:1ddaf0723346672b",
+    "word_count": 2764
+  },
+  "last_updated": "2024-02-28T00:00:26.314864+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before GINSBURG, SCALIA and BUCKLEY, Circuit Judges."
+    ],
+    "parties": [
+      "Joseph P. CONNORS, Sr., et al. v. P & M COAL COMPANY, et al., Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion for the court filed by Circuit Judge BUCKLEY.\nBUCKLEY, Circuit Judge:\nAppellants Donald Daugherty and Forrest Hall are the sole owners and officers of P & M Coal Company (\u201cP & M\u201d). The question before us is whether Daugherty and Hall, by virtue of their status as owner-officers, are \u201cemployers\u201d within the meaning of Title IV of the Employee Retirement Income Security Act of 1974 as amended (\u201cERISA\u201d), and as such jointly responsible for the statutory liability incurred by P & M on its withdrawal from two multiemployer pension plans. Contrary to the district court, we conclude that ERISA does not impose such personal liability on owner-officers. Therefore, in the absence of any claim or showing of circumstances which, under traditional common law concepts, would justify \u201cpiercing the corporate veil,\u201d we reverse the district court\u2019s order holding Daugherty and Hall jointly liable for the amount owed by P & M to the pension plans.\nI. Background\nP & M Coal Company is a Kentucky corporation that was organized by Donald Daugherty and Forrest Hall for the purpose of mining coal from a property leased from another company. Under the terms of the lease, P & M was required to make contributions to the United Mine Workers of America Pension Plans of 1950 and 1974 (\u201cthe Plans\u201d) on behalf of its covered employees. Daugherty serves as president of P & M and Hall as its vice president and secretary. Each owns fifty percent of the company, and together they operated and managed the business.\nContributions were made to the Plans through 1981. In January 1982, the coal seam P & M was mining became depleted. As a result, P & M ceased operations, and payments to the Plans (which were made on its behalf by the lessor) were discontinued. P & M\u2019s attempts to acquire another mining property proved fruitless.\nThe following year, the Plans\u2019 Trustees determined that P & M had completely withdrawn from the Plans within the meaning of ERISA as amended by the Multi-em-ployer Pension Plan Amendments Act of 1980 (\u201cMPPAA\u201d), Pub.L. No. 96-364, 94 Stat. 1208 (1980), 29 U.S.C. \u00a7 1001, et seq. (1976 and Supp.1981), and notified P & M of its \u201cemployer withdrawal liability,\u201d namely, the amount P & M was required to pay to the Plans in order to meet its share of unfunded vested benefits as of the date of withdrawal. Id. at \u00a7\u00a7 1381-1383. After P & M had failed to respond to letters advising it of the total amount of its liability and proposing a schedule of payments, the Trustees notified P & M that its entire withdrawal liability would become due without further demand on December 5, 1983 if all past due payments plus interest were not made by that date. P & M failed to make any of these payments.\nOn February 23, 1984, the Trustees filed suit against P & M to collect the withdrawal payments, liquidated damages, interest, and attorneys\u2019 fees. Seven months later they amended the complaint to add Daugherty and Hall as individual defendants.\nOn November 6, 1984, Daugherty and Hall filed motions to dismiss the complaint against them on the ground that they were not \u201cemployers\u201d within the meaning of section 4201 of ERISA and thus could not be held liable for withdrawal liability under the Act. In an order dated February 6, 1985, the district court denied their motion, stating that the question of their personal liability as statutory \u201cemployers\u201d turned on whether it could be proven that they had \u201csignificant ownership interest and control over the operation of the corporation and ... were personally involved in matters pertaining to the Pension Plans and to the decision to withdraw.\u201d Combs v. P & M Coal Co., No. 84-0560 (D.D.C. Feb. 6,1985) (Order denying motion to dismiss).\nFollowing cross-motions for summary judgment, the district court ruled on May 31, 1985 that Daugherty and Hall met the criteria set forth in its February 6 Order and held each jointly and severally liable with the corporation for more than $300,-000. Sub nom., Connors v. P & M Coal Co., No. 84-0560, slip op. at 7 (D.D.C. May 31, 1985) (\u201cMemorandum Opinion\u201d). Daugherty and Hall appeal both decisions.\nII. Discussion\nWithdrawal liability under ERISA is governed by subtitle E of Title IV, which was added to the Act by MPPAA, 29 U.S.C. \u00a7\u00a7 1381-1461. Subtitle E imposes withdrawal liability on \u201can employer [who] withdraws from a multiemployer plan.\u201d 29 U.S.C. \u00a7 1381(a) (emphasis added). Therefore, it is of critical importance to determine the meaning of \u201cemployer\u201d within the context of Title IV.\nThis question has been considered by the United States District Court for the District of Columbia on at least three other occasions. In each case, the court has rejected the contention that owner-officers of a corporation are \u201cemployers\u201d within the meaning of Title IV. Connors v. B.M.C. Coal Co., 634 F.Supp. 74, 76-77 (D.D.C.1986); Connors v. War-Eagle Coals, Inc., No. 85-2123 (D.D.C. Oct. 17, 1985) (Order dismissing action against individual officer and shareholder) [Available on WESTLAW, DCTU database]; Combs v. Sun-Up Coal Co., 634 F.Supp. 13, 18-19 (D.D.C.1985). In the instant case, however, the district court concluded that significant ownership interest in the corporation and substantial control over corporate operations were in themselves sufficient to hold individual officers and shareholders jointly liable with the corporate employer under the withdrawal liability provisions of Title IV. February 6 Orders; see Memorandum Opinion at 7.\nWe find nothing in either the language or purpose of MPPAA to justify so significant a compromise of the corporate principle of limited liability, nothing to suggest that Congress intended to subject owner-operators of a closely held corporation to personal liability merely because they actively participated in running the business. Acceptance of the district court\u2019s \u201cinterest and control\u201d test would not only subvert the major purpose of incorporation, but would discourage future participation in multiemployer pension plans \u2014 a result that is clearly contrary to one of MPPAA\u2019s stated objectives.\nA. Meaning of \u201cEmployer\u201d Under Title IV\nTitle IV of ERISA begins with the following declaration:\nIf an employer withdraws from a mul-tiemployer plan in a complete withdrawal or a partial withdrawal, then the employer is liable to the plan in the amount determined under this part to be withdrawal liability.\n29 U.S.C. \u00a7 1381(a) (emphasis added). While the word \u201cemployer\u201d is not defined in Title IV, the district court accepted the Trustees\u2019 contention that the definition of \u201cemployer\u201d contained in Title I of ERISA should be applied to Title IV.\nTitle I defines an \u201cemployer\u201d as any person acting directly as an employer, or indirectly in the interest of an employer, in relation to an employee benefit plan; and includes a group or association of employers acting for an employer in such capacity.\n29 U.S.C. \u00a7 1002(5) (emphasis added). \u201cPerson\u201d is further defined as\nan individual, partnership, joint venture, corporation, mutual company, joint-stock company, trust, estate, unincorporated organization, association, or employee organization.\nId. at \u00a7 1002(9).\nDaugherty and Hall challenge the propriety of applying the Title I definition of employer to Title IV. As they point out, the definitions in Title I are prefaced by the phrase, \u201cFor purposes of this subchapter\u201d (emphasis added). The definitions, however, appear in subchapter I, while liability withdrawal is governed by subchapter III. They further argue that even if the Title I definitions were found to apply to Title IV, Daugherty and Hall do not fall within the definition of \u201cemployer\u201d because neither \u201ccorporate officer\u201d nor \u201cshareholder\u201d is to be found in the definition of \u201cperson.\u201d\nTheir position finds both general and specific support in judicial interpretations of ERISA and in an opinion letter by the Pension Benefit Guarantee Corporation (\u201cPBGC\u201d), the corporation created under ERISA to administer Title IV. For example, in Solomon v. Klein, 770 F.2d 352, 354 (3d Cir.1985), the court wrote:\nThere is no indication that Congress intended to expose corporate officers to liability for their employers\u2019 violations of ERISA; in fact, the exclusion of corporate officers from the extensive enumeration of persons [in Title I] points in the opposite direction.\nSee also Combs v. Indyk, 554 F.Supp. 573, 575 (W.D.Pa.1982). In its opinion letter, the PBGC addressed the specific question of whether a corporation\u2019s officers and shareholders can be held financially responsible for their company\u2019s withdrawal liability as follows:\nERISA has no special rules regarding shareholder or officer liability.... [Rather], this issue is usually determined by state law which generally provides that shareholders are not liable for the debts of a corporation. You should, however, be aware that the laws of every state contain exceptions to this general principle.\nPBGC Opinion Letters 82-038 (Dec. 14, 1982).\nThe Trustees respond by arguing that \u201cshareholder\u201d and \u201cofficer\u201d are subsumed in the word \u201cindividual\u201d in the definition of \u201cperson,\u201d and by citing other interpretations of ERISA (including another PBGC opinion) holding other Title I definitions to be applicable to Title IV. See, e.g., Nachman Corp. v. Pension Benefit Guaranty Corp., 592 F.2d 947, 952 (7th Cir.1979), aff'd, 446 U.S. 359, 100 S.Ct. 1723, 64 L.Ed.2d 354 (1980); PBGC Opinion L84-9 (Dec. 27, 1984). They also point to the interpretation, in Donovan v. Agnew, 712 F.2d 1509 (1st Cir.1983), of an identical definition of \u201cemployer\u201d in the Fair Labor Standards Act (\u201cFLSA\u201d), 29 U.S.C. \u00a7\u00a7 201-219, as embracing shareholders who have a significant ownership interest in, and operational control over, a corporation. Because the owner-officers in Donovan had \u201cpersonally made decisions to continue operations despite financial adversity,\u201d the court concluded that considerations of \u201ceconomic reality\u201d required that they be held personally liable for minimum and overtime wages owed their company\u2019s employees under FLSA. 712 F.2d at 1514.\nRelying on this interpretation, the Trustees argue that the district court was correct in holding that as Daugherty and Hall \u201chad significant ownership interests and control over the P & M operation and ... were personally involved in matters pertaining to the Plans,\u201d they were personally liable for P & M\u2019s obligations to the plans. Memorandum Opinion at 7.\nWe cannot agree that the language or purpose of MPPAA permits so broad an interpretation of the word \u201cemployer\u201d in section 1391 as to accommodate an \u201cinterest and control\u201d or \u201ceconomic reality\u201d test. Personal financial responsibility may not be imputed to owner-officers simply because of the size of their ownership or the extent of their control over their company\u2019s affairs.\nIn reaching this conclusion, we need not decide the scope to be given the word \u201cemployer\u201d in Title I of ERISA, as we are dealing with a separate subchapter of that statute. Nor need we consider the question of the general applicability of Title I definitions to Title IV. It suffices that we can find nothing within the language or structure of MPPAA that requires us to accept the Trustees\u2019 interpretation. On the other hand, we find ample reason to conclude the contrary.\nIn the first instance, the principle of limited liability is so fundamental to our corporate law that we require more than an expansive interpretation of a definition in Title I to persuade us that Congress intended the word \u201cemployer\u201d in Title IV to encompass owner-officers acting within the legitimate scope of their corporate responsibilities. As Judge Greene points out in his opinion in Combs v. Sun-Up Coal Co., even Donovan does not hold that \u201cthe mere fact that someone is a corporate officer or dominant shareholder ... [is] enough to hold that person jointly and severally liable for the corporation\u2019s failure to pay\u201d or \u201cto impute to Congress an intent to disregard the shield from personal liability which is one of the major purposes for doing business in a corporate form.\u201d 634 F.Supp. 13,\nAs Judge Greene\u2019s Sun-Up opinion also indicates, the Trustees\u2019 reading of \u201cemployer\u201d to include owner-officers produces a \u201cpuzzling\u201d result in light of the provisions of section 4225 of ERISA, 29 U.S.C. \u00a7 1405, which place limitations on withdrawal liability in the case of an employer\u2019s liquidation or dissolution. These limits are stated in terms of percentages of \u201cliquidation or dissolution value,\u201d except that\n[t]o the extent that the withdrawal liability of an employer is attributable to his obligation to contribute to or under a plan as an individual (whether as a sole proprietor or as a member of a partnership), property which may be exempt from the estate under section 522 of [the Bankruptcy Act], or under similar provisions of law, shall not be subject to enforcement of such liability.\n29 U.S.C. \u00a7 1405(c) (emphasis added). The policy behind this provision is explained as follows:\nThe Committees recognize that some employers that are obligated to contribute to multiemployer plans are individuals, i.e., sole proprietors, or partners. The Committees believe that if such an employer withdraws from a mul-tiemployer plan, some of the employer\u2019s personal assets, such as his residence, should be shielded from employer liability. A special rule provides that where the withdrawn employer is an individual, the employer\u2019s personal assets that would be exempt under bankruptcy law will be protected from employer liability.\n126 Cong.Rec. S20195 (daily ed. July 29, 1980) (Joint Submission of Senators Williams and Long entered into Record by unanimous consent) (emphasis added).\nThus, while Congress has capped the withdrawal liability of corporations and individual proprietors and partners, the Trustees would have us believe that Congress intended at the same time to impose an absolute liability on owner-officers, even to the degree of stripping them of the meager protections afforded by bankruptcy laws.\nNot only do we fail to divine such an intent, but given MPPAA\u2019s stated policy to alleviate conditions \u201cwhich tend to discourage the maintenance and growth of mul-tiemployer pension plans,\u201d MPPAA \u00a7 3, 29 U.S.C. \u00a7 1001a(c)(2), we find it doubtful that Congress would have required controlling shareholders to surrender the limited liability protection afforded by corporate law as a condition for allowing their companies to participate in such plans.\nIn view of all of the above, we conclude that it was error for the district court to hold that Daugherty and Hall are statutory employers within the meaning of Title IV and, as such, jointly liable with P & M for its withdrawal liability to the Plans.\nB. Piercing the Corporate Veil\nOur holding that the withdrawal liability provisions of Title IV may not be interpreted to extend the liability of a corporate employer to its owner-officers does not mean that individuals who abuse their positions of control or who attempt to misuse the corporate form are immune from responsibility for their acts.\nCourts that have refused to expand the meaning of \u201cemployer\u201d to include officers and shareholders, in respect to both Titles I and IV, have noted that shareholders and officers may be held personally liable for their corporations\u2019 obligations under ERISA if they have acted as the \u201calter egos\u201d of their corporations or otherwise met the requirements that justify \u201cpiercing the corporate veil\u201d under traditional common law principles. See, e.g., Sun-Up, 634 F.Supp. 13, 18-19; B.M.C. Coal, 634 F.Supp. 74, 77; Solomon, 770 F.2d at 353-54; Operating Engineers Pension Trust v. Reed, 726 F.2d 513, 515 (9th Cir.1983); Combs v. Indyk, 554 F.Supp. at 574-75.\nAt the same time, courts have noted that where plaintiffs in an ERISA action fail to allege that individual defendants should be held personally liable under such principles, or fail to introduce evidence that would support such a basis for liability, such claims must be dismissed. Operating Engineers Pension Trust, 726 F.2d at 515; Moyers v. Frank P. Bauer Marble Co., 556 F.Supp. 192, 194 (N.D.Ill.1983); Sun-Up, at 20; B.M.C. Coal, 634 F.Supp. 74, 77.\nIn the instant case, the Trustees neither alleged such a basis for liability nor introduced any evidence that would support a summary judgment holding Daugherty and Hall personally liable for corporate obligations under principles permitting a piercing of the corporate veil. Therefore, we cannot find them individually responsible for P & M\u2019s withdrawal liability on this alternative basis.\nIII. Conclusion\nFor the foregoing reasons, the order denying summary judgment to Daugherty and Hall and the order granting summary judgment to the Trustees are\nReversed.",
+        "type": "majority",
+        "author": "BUCKLEY, Circuit Judge:"
+      }
+    ],
+    "attorneys": [
+      "David O. Williamson, Roanoke, Va., for appellants.",
+      "E. Calvin Golumbic, with whom Rodney F. Page and William F. Hanrahan, Washington, D.C., were on the brief, for appel-lees. Howard B. Possick, Washington, D.C., also entered an appearance for appel-lees.",
+      "Robin S. Conrad, Washington D.C., was on the brief for amicus curiae Chamber of Commerce of the United States, urging reversal."
+    ],
+    "corrections": "",
+    "head_matter": "Joseph P. CONNORS, Sr., et al. v. P & M COAL COMPANY, et al., Appellants.\nNo. 85-5738.\nUnited States Court of Appeals, District of Columbia Circuit.\nArgued March 17, 1986.\nDecided Sept. 12, 1986.\nDavid O. Williamson, Roanoke, Va., for appellants.\nE. Calvin Golumbic, with whom Rodney F. Page and William F. Hanrahan, Washington, D.C., were on the brief, for appel-lees. Howard B. Possick, Washington, D.C., also entered an appearance for appel-lees.\nRobin S. Conrad, Washington D.C., was on the brief for amicus curiae Chamber of Commerce of the United States, urging reversal.\nBefore GINSBURG, SCALIA and BUCKLEY, Circuit Judges."
+  },
+  "file_name": "1373-01",
+  "first_page_order": 1467,
+  "last_page_order": 1472
+}

@@ -1,0 +1,573 @@
+{
+  "id": 10542415,
+  "name": "The MASSACHUSETTS LABORERS' HEALTH AND WELFARE FUND, et al., Plaintiffs, Appellees, v. STARRETT PAVING CORP., et al., Defendants, Appellees. Peter Starrett, Defendant, Appellant",
+  "name_abbreviation": "Massachusetts Laborers' Health & Welfare Fund v. Starrett Paving Corp.",
+  "decision_date": "1988-04-25",
+  "docket_number": "No. 87-1806",
+  "first_page": "23",
+  "last_page": "27",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "845 F.2d 23"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "1st Cir.",
+    "id": 8809,
+    "name": "United States Court of Appeals for the First Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "757 F.2d 184",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        317219
+      ],
+      "pin_cites": [
+        {
+          "page": "190"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/757/0184-01"
+      ]
+    },
+    {
+      "cite": "94 Stat. 1208",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "673 F.Supp. 1450",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        6817220
+      ],
+      "pin_cites": [
+        {
+          "page": "1456"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/673/1450-01"
+      ]
+    },
+    {
+      "cite": "447 U.S. 102",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6181683
+      ],
+      "weight": 5,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "108"
+        },
+        {
+          "page": "2056"
+        },
+        {
+          "page": "108"
+        },
+        {
+          "page": "2056"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/447/0102-01"
+      ]
+    },
+    {
+      "cite": "460 U.S. 300",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6193050
+      ],
+      "weight": 5,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "312",
+          "parenthetical": "quoting Consumer Product Safety Commission v. GTE Sylvania, Inc., 447 U.S. 102, 108, 100 S.Ct. 2051, 2056, 64 L.Ed.2d 766 (1980)"
+        },
+        {
+          "page": "1102",
+          "parenthetical": "quoting Consumer Product Safety Commission v. GTE Sylvania, Inc., 447 U.S. 102, 108, 100 S.Ct. 2051, 2056, 64 L.Ed.2d 766 (1980)"
+        },
+        {
+          "parenthetical": "quoting Consumer Product Safety Commission v. GTE Sylvania, Inc., 447 U.S. 102, 108, 100 S.Ct. 2051, 2056, 64 L.Ed.2d 766 (1980)"
+        },
+        {
+          "page": "312"
+        },
+        {
+          "page": "1102"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/460/0300-01"
+      ]
+    },
+    {
+      "cite": "802 F.2d 1399",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "794 F.2d 586",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1590990
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/794/0586-01"
+      ]
+    },
+    {
+      "cite": "609 F.Supp. 1221",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        117206
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/609/1221-01"
+      ]
+    },
+    {
+      "cite": "29 U.S.C. \u00a7 1103",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(c)(1)",
+          "parenthetical": "assets of ERISA pension plan \"shall never inure to the benefit of any employer\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 S.Ct. 830",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        601988
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "836, n. 16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/484/0539-01"
+      ]
+    },
+    {
+      "cite": "648 F.Supp. 407",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3923135
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/648/0407-01"
+      ]
+    },
+    {
+      "cite": "648 F.Supp. 1309",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3918797
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/648/1309-01"
+      ]
+    },
+    {
+      "cite": "680 F.Supp. 56",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3961854
+      ],
+      "pin_cites": [
+        {
+          "page": "57"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/680/0056-01"
+      ]
+    },
+    {
+      "cite": "88 Stat. 829",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "76 Stat. 35",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "year": 1962,
+      "opinion_index": 0
+    },
+    {
+      "cite": "72 Stat. 997",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 L.Ed.2d 988",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 S.Ct. 1024",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "828 F.2d 877",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1747928
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/828/0877-01"
+      ]
+    },
+    {
+      "cite": "648 F.Supp. 1142",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3919682
+      ],
+      "pin_cites": [
+        {
+          "page": "1144-46"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/648/1142-01"
+      ]
+    },
+    {
+      "cite": "233 F.2d 717",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        82511
+      ],
+      "pin_cites": [
+        {
+          "page": "724-25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/233/0717-01"
+      ]
+    },
+    {
+      "cite": "309 F.Supp. 1255",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3085557
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/309/1255-01"
+      ]
+    },
+    {
+      "cite": "465 F.2d 473",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        714659
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/465/0473-01"
+      ]
+    },
+    {
+      "cite": "324 F.Supp. 342",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3228338
+      ],
+      "pin_cites": [
+        {
+          "page": "347"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/324/0342-01"
+      ]
+    },
+    {
+      "cite": "712 F.2d 1509",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1878191
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1510-11"
+        },
+        {
+          "page": "1510-11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/712/1509-01"
+      ]
+    },
+    {
+      "cite": "366 U.S. 28",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1285927
+      ],
+      "weight": 3,
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "33",
+          "parenthetical": "knitted goods cooperative is, according to \"economic reality,\" an \"employer\" under FLSA"
+        },
+        {
+          "page": "936",
+          "parenthetical": "knitted goods cooperative is, according to \"economic reality,\" an \"employer\" under FLSA"
+        },
+        {
+          "parenthetical": "knitted goods cooperative is, according to \"economic reality,\" an \"employer\" under FLSA"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/366/0028-01"
+      ]
+    },
+    {
+      "cite": "414 U.S. 190",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11715488
+      ],
+      "weight": 3,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "195",
+          "parenthetical": "apartment managing company is \"employer\" of apartment workers under FLSA"
+        },
+        {
+          "page": "431",
+          "parenthetical": "apartment managing company is \"employer\" of apartment workers under FLSA"
+        },
+        {
+          "parenthetical": "apartment managing company is \"employer\" of apartment workers under FLSA"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/414/0190-01"
+      ]
+    },
+    {
+      "cite": "29 U.S.C. \u00a7 203",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "(d)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "641 F.2d 757",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1365965
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/641/0757-01"
+      ]
+    },
+    {
+      "cite": "770 F.2d 352",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        332845
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/770/0352-01"
+      ]
+    },
+    {
+      "cite": "29 U.S.C. \u00a7 1002",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(5)"
+        },
+        {
+          "page": "(1)"
+        },
+        {
+          "page": "(3)",
+          "parenthetical": "defining \"employee benefit plan\" as a certain type of \"employee welfare benefit plan\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "801 F.2d 1",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10543863
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "3-4"
+        },
+        {
+          "page": "4"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/801/0001-01"
+      ]
+    },
+    {
+      "cite": "29 U.S.C. \u00a7 1132",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(g)(2)"
+        },
+        {
+          "page": "(a)(3)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 U.S.C. \u00a7 1145",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 U.S.C. \u00a7\u00a7 1001-1461",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1982,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 964,
+    "char_count": 19964,
+    "ocr_confidence": 0.748,
+    "pagerank": {
+      "raw": 4.216209885126501e-07,
+      "percentile": 0.9138015382363991
+    },
+    "sha256": "2f0e26b07d933cd75ac3b3eb6bef54525fa237921be15cbc37f6319b592f4c85",
+    "simhash": "1:30c6089124ea1f09",
+    "word_count": 3202
+  },
+  "last_updated": "2024-02-28T00:00:47.266998+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before CAMPBELL, Chief Judge, BREYER and SELYA, Circuit Judges."
+    ],
+    "parties": [
+      "The MASSACHUSETTS LABORERS\u2019 HEALTH AND WELFARE FUND, et al., Plaintiffs, Appellees, v. STARRETT PAVING CORP., et al., Defendants, Appellees. Peter Starrett, Defendant, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "BREYER, Circuit Judge.\nFour multiemployer pension plans (\u201cthe Plans\u201d), invoking the legal authority of the Employee Retirement Income Security Act (\u201cERISA\u201d), 29 U.S.C. \u00a7\u00a7 1001-1461 (1982), sued the Starrett Paving Corporation and its owner, Peter Starrett, seeking contributions the corporation had promised, but failed, to make. 29 U.S.C. \u00a7 1145. The corporation went bankrupt; the district court said that Peter Starrett, the corporation\u2019s president and sole shareholder, must himself make the payments. Peter Star-rett now appeals, claiming (among other things) that, even assuming ERISA requires his company to make the pension payments, it does not require him to do so. We agree with Starrett that the relevant language of ERISA does not impose an obligation upon him to make the payments his company owed.\nI\nAmong other things, ERISA imposes upon employers who promise to contribute to an employee pension plan, a federal obligation to make those contributions. It thereby offers federal court remedies, along with court costs, attorney\u2019s fees, and liquidated damages or interest, to those who seek to collect delinquent contributions. 29 U.S.C. \u00a7 1132(g)(2). The ERISA language that creates the federal obligation reads as follows: 29 U.S.C. \u00a7 1145. For purposes of this appeal, we shall assume that the Starrett Paving Corporation owed the money (though this is in fact disputed). It is conceded, however, that Peter Starrett, the appellant, had not himself promised to make the relevant pension contributions. We also assume (and it is virtually conceded) that this is not a corporate-veil piercing case. We cannot say, under state or other relevant federal law, that Peter Star-rett simply is the corporation or is its alter ego; we therefore cannot say that the corporation\u2019s promise to pay \u201cis\u201d Starrett\u2019s promise. Cf., e.g., Alman v. Danin, 801 F.2d 1 (1st Cir.1986) (piercing corporate veil to establish ERISA liability).\nEvery employer who is obligated to make contributions to a multiemployer plan ... shall ... make such contributions in accordance with the terms and conditions of such plan or such agreement.\nThus, the issue before us is whether the statutory language quoted makes Peter Starrett personally liable for his corporation\u2019s promised contributions solely in virtue of his position as chief officer/shareholder of the corporation. To answer that question, we must decide if he is (1) an \u201cemployer,\u201d (2) \u201cwho is obligated to make contributions to a multiemployer plan.\u201d\nII\nWhen this case was initially argued, the parties and this court believed that appellant\u2019s liability turned on the meaning of ERISA\u2019s definition of the word \u201cemployer.\u201d The Act says:\nThe term \u201cemployer\u201d means any person acting directly as an employer, or indirectly in the interest of an employer, in relation to an employee benefit plan; and includes a group or association of employers acting for an employer in such capacity.\n29 U.S.C. \u00a7 1002(5). Courts have found the phrase \u201cact ... indirectly in the interest of an employer\u201d difficult to interpret. Some courts, in contexts like this one, have limited \u00a7 1002(5)\u2019s definition to corporate-veil piercing cases, perhaps due to fears that a broad interpretation of this language might too readily impose personal liability on shareholders or corporate officers or even ordinary corporate employees, for obligations of the corporation. Solomon v. Klein, 770 F.2d 352 (3d Cir.1985); Audit Services, Inc. v. Rolfson, 641 F.2d 757 (9th Cir.1981). Other courts have noted the similarity of \u00a7 1002(5)\u2019s language to that of \u00a7 3(d) of the Fair Labor Standards Act of 1938 (\u201cFLSA\u201d), 29 U.S.C. \u00a7 203(d) (1982), which this circuit (and others) have interpreted more broadly to impose personal liability for minimum wage payments upon a corporation\u2019s \u201cchief executive officer/major shareholder\u201d where the \u201ceconomic reality\u201d was that this owner/shareholder might be viewed, if not as a \u201ccorporate alter ego,\u201d at least as one personally responsible for making (or not making) the legally required wage payments. See Falk v. Brennan, 414 U.S. 190, 195, 94 S.Ct. 427, 431, 38 L.Ed.2d 406 (1973) (apartment managing company is \u201cemployer\u201d of apartment workers under FLSA); Goldberg v. Whitaker, 366 U.S. 28, 33, 81 S.Ct. 933, 936, 6 L.Ed.2d 100 (1961) (knitted goods cooperative is, according to \u201ceconomic reality,\u201d an \u201cemployer\u201d under FLSA); Donovan v. Agnew, 712 F.2d 1509, 1510-11 (1st Cir.1983) (corporate officers with significant ownership interests are personally liable for bankrupt corporation\u2019s FLSA liability) (citing Hodgson v. Royal Crown Bottling Co., 324 F.Supp. 342, 347 (D.Miss.1970) (president of corporation who owns 50 percent of its stock is proper defendant to FLSA injunction), aff'd, 465 F.2d 473 (5th Cir.1972)); Shultz v. Chalk-Fitzgerald Construction Co., 309 F.Supp. 1255 (D.Mass.1970) (president/dominant shareholder of closed corporation personally liable as FLSA \u201cemployer\u201d); Chambers Construction Co. v. Mitchell, 233 F.2d 717, 724-25 (8th Cir.1956) (president/incorporator of company is proper defendant in regard to FLSA injunction). In the view of many courts, the similarity in FLSA and ERISA\u2019s language dictates a similar result in at least some ERISA cases. See Trustees of the Amalgamated Insurance Fund v. Danin, 648 F.Supp. 1142, 1144-46 (D.Mass.1986) and cases cited therein.\nWe previously left open the question of how to interpret ERISA\u2019s definition of \u201cemployer\u201d in \u00a7 1002(5). See DeBrecini v. Graf Brothers Leasing, Inc., 828 F.2d 877, 880 n. 2 (1st Cir.1987), cert. denied, \u2014 U.S. -, 108 S.Ct. 1024, 98 L.Ed.2d 988 (Feb. 23, 1988). Were we to decide that question now, we should likely side with the Plans, accepting the interpretation of our district courts. The legislative history of ERISA shows that when Congress enacted ERISA in 1974, it copied the definition of \u201cemployer\u201d from ERISA\u2019s 1958 predecessor, the Welfare and Pension Plans Disclosure Act, Pub.L. No. 85-836, \u00a7 3(a)(4), 72 Stat. 997, 998 (1958), amended by Pub.L. No. 87-420, 76 Stat. 35 (1962), repealed by ERISA, Pub.L. No. 93-406 \u00a7 111(a)(1), 88 Stat. 829, 851 (1974); and, as far as we can tell, the drafters of the 1958 Act copied FLSA. Before Congress enacted ERISA in 1974, several courts had adopted a \u201cbroader-than-common-law\u201d interpretation of the definition, and two Supreme Court opinions used \u201ceconomic reality\u201d language. See Agnew, 712 F.2d at 1510-11, and cases cited therein. In addition, the two statutes, FLSA and ERISA, have a broadly similar objective, the one seeking to guarantee the worker a reasonable present wage payment and the other looking to a guarantee of his future economic security. These factors seem sufficient to warrant similar interpretations of the language defining \u201cemployer\u201d in the two statutes. Thus, we shall assume (but we need not definitively decide) that for purposes of \u00a7 1145, appellant Starrett is an \u201cemployer\u201d under \u00a7 1002(5).\nIll\nAfter we heard argument in this case, the Massachusetts district court decided in a very similar case that an owner/manager of a corporation, even if an \u201cemployer\u201d under ERISA\u2019s definition, was not an employer \u201cobligated, to make ... contributions to an employee welfare plan.\u201d Alman v. George Manufacturing Corporation, 680 F.Supp. 56, 57 (D.Mass.1988); see also Mason Tenders District Council Welfare Fund v. Dalton, 648 F.Supp. 1309 (S.D.N.Y.1986); Solomon v. Laranne Sportswear Corporation, 648 F.Supp. 407 (E.D.N.Y.1986). The parties at our request then presented to us their views of George, and the employer and the pension plans in the George case (\u201cthe amicus plans\u201d) filed amicus briefs in this case. Having considered their arguments, we have - concluded that the district court\u2019s view of the statute in George is correct. Starrett is not an \u201cemployer ... obligated to make contributions to an employee welfare plan.\u201d Consequently, ERISA does not impose upon him the federal duty to \u201cmake such contributions.\u201d\nFor one thing, the statute\u2019s language quite clearly states that the duty in \u00a7 1145 arises only in respect to employers \u201cobligated\u201d to make the contributions. Although Starrett\u2019s corporation may have been \u201cobligated\u201d to make the contributions, Starrett personally was not. For another thing, the legislative history of \u00a7 1145 indicates that the language means what it says. When Congress enacted the provisions in 1980, the Senate Committee on Labor described it as follows:\nThe public policy of this legislation ... mandates that provision be made to discourage delinquencies and simplify delinquency collection. The bill imposes a Federal statutory duty to contribute on employers that are already contractually obligated to make contributions to multiemployer plans.\nStaff of Senate Committee on Labor and Human Resources, 96th Cong., 2d Sess., The Multiemployer Pension Plan Amendments Act of 1980: Summary and Analysis of Consideration 44 (Comm.Print 1980) (emphasis added). Similarly, one of the provision\u2019s chief sponsors in the House of Representatives said that \u201c[t]he bill imposes a Federal statutory duty to contribute on employers that are already obligated to make contributions to multiemployer plans.\u201d Remarks of Rep. Frank Thompson, Jr., House Debate on the Multiemployer Pension Plan Amendments Act of 1980, 126 Cong.Rec. 23039 (August 25, 1980) (emphasis added), reprinted in, Bureau of National Affairs, ERISA, Selected Legislative History 125 (1986). One who would be obligated to make a payment in the absence of ERISA might be one \u201calready obligated,\u201d but one who, like Starrett, has no such prior, independent obligation is not.\nFurther, the Supreme Court, in a somewhat different context, has recently held that an employer is not contractually obligated to contribute to a plan once the relevant collective bargaining agreement has expired, and that being so, \u00a7 1145 does not permit a plan to sue for the contribution. Laborers Health and Welfare Trust Fund for Northern California v. Advanced Lightweight Concrete Co., Inc., \u2014 U.S. -, 108 S.Ct. 830, 98 L.Ed.2d 936 (1988). The court read \u00a7 1145\u2019s legislative history as showing that the statute\u2019s purpose was \u201cto give employers a strong incentive to honor their contractual obligations to contribute and to facilitate the collection of delinquent accounts.\u201d Advanced Lightweight Concrete, 108 S.Ct.at 835 (emphasis added). See also id. at 836, n. 16 (interpreting word \u201cobligated\u201d of \u00a7 1145 to exclude employer\u2019s statutory obligations).\nFinally, the various arguments that the several parties advance here fail to convince us to depart from the express words of the statute. First, they say that the literal reading would make useless, hence meaningless, the broad definition of the word \u201cemployer\u201d found in \u00a7 1002(5). In fact, however, the expanded definition could still make a difference elsewhere in the Act. See, e.g., 29 U.S.C. \u00a7 1103(c)(1) (assets of ERISA pension plan \u201cshall never inure to the benefit of any employer\u201d); \u00a7\u00a7 1106-07 (defining the terms \u201cemployer security\u201d and \u201cemployer real property\u201d and prohibiting plans from acquiring or holding either unless explicitly permitted under law); \u00a7 1108 (creating procedure under which Secretary of Labor can exempt particular plan transactions in employer assets from prohibitions of \u00a7\u00a7 1103-07); Donovan v. Walton, 609 F.Supp. 1221, 1226-27 n. 8 (S.D.Fla.1985) (observing ERISA\u2019s restrictions on whether plan fiduciaries can be related to employer), aff'd sub nom. Brock v. Walton, 794 F.2d 586 (11th Cir.), rehearing denied, 802 F.2d 1399 (11th Cir.1986).\nSecond, they say that the legislative history shows less than we suggest, for Congress did not focus on the specific issue before us now. Remarks of Rep. Frank Thompson, Jr., supra. This, of course, may well be true; but even if we do our best to read the history through the eyes of the Plans or the amicus plans, we can find nothing that suggests we should not follow the statute\u2019s plain meaning. See, e.g., North Dakota v. United States, 460 U.S. 300, 312, 103 S.Ct. 1095, 1102, 75 L.Ed.2d 77 (1983) (quoting Consumer Product Safety Commission v. GTE Sylvania, Inc., 447 U.S. 102, 108, 100 S.Ct. 2051, 2056, 64 L.Ed.2d 766 (1980)).\nThird, the Plans fear that a literal reading of \u00a7 1145 would not permit corporate-veil piercing. See Gambino v. Index Sales Corporation, 673 F.Supp. 1450, 1456 (N.D.Ill.1987). We do not think that is so. When state law pierces the corporate veil, where the owner is the corporation\u2019s alter ego, where state or other relevant federal law makes the owner liable, it is fairly easy to say that the owner is the corporation, and that the owner is therefore an \u201cemployer\u201d (under ERISA\u2019s definition) \u201cwho is obligated\u201d (under state or other relevant federal law) \u201cto make contributions to\u201d a pension plan. Indeed, in such a case he is an employer already obligated (see p. 25, supra) to make the contributions. One cannot say that here, where neither state nor other federal law obligates the owner to make the contributions. He is not a person already obligated to make the contribution. His would have to be an obligation that \u00a7 1145 of ERISA alone would have to create.\nFourth, the Plans point out that \u00a7 1145 was enacted in 1980 as part of the Multiem-ployer Pension Plan Amendments Act of 1980, Pub.L. No. 96-364, 94 Stat. 1208 (1980), six years after Congress enacted the broad ERISA definition of \u201cemployer.\u201d That fact, however, does not seem very important, in light of the further fact that before the date Congress passed \u00a7 1145, no federal court had published an opinion interpreting \u00a7 1002(5) in the broad way urged upon us by the Plans.\nFifth, the amicus plans say that the words \u201cobligated to make contributions\u201d are words of \u201cexplanation, not limitation.\u201d But even if we take these words as words of \u201cexplanation,\u201d they seem to explain whom ERISA obliges, and we can find nothing else in the statute that imposes an ERISA obligation to contribute on persons whom state law (or some other law) does not oblige. Cf. Advanced Lightweight Concrete, 108 S.Ct. at 835.\nSixth, both the Plans and the amicus plans argue generally that, like the FLSA, ERISA aims to protect workers by securing the payments due them. We agree. But, we also note that an ERISA-type fund is not necessarily as helpless when faced with a financially shaky, but closely held, corporation as is a worker seeking payment of a minimum wage. Congress may have thought that, compared to a worker who needs FLSA\u2019s minimum wage protections, a worker entitled to ERISA-protected pension fund payments may find it easier (perhaps through his union) to secure a written promise of personal liability from the owner of the shaky corporation. If so, the former may be in greater need of federal protection than the latter. Whether or not this is so, however, we do not see how general considerations of need can carry us beyond the statute Congress wrote.\nFinally, the Plans do not, and cannot, argue that a literal interpretation renders the statute meaningless, for it does not. As we have pointed out, \u00a7 1002(5)\u2019s definition still applies to other parts of ERISA. As we have also pointed out, even if the class of persons liable under \u00a7 1145 is the same as those already liable under state (or some other) law, federal liability means easier collectibility because of ERISA provisions for, e.g., attorney\u2019s fees, liquidated damages, and interest.\nFor these reasons, we must interpret the statute in accordance with its \u201cplain meaning.\u201d See North Dakota, 460 U.S. at 312, 103 S.Ct. at 1102; GTE Sylvania, 447 U.S. at 108, 100 S.Ct. at 2056.\nThe order of the district court granting summary judgment is reversed, and the case is remanded for further proceedings consistent with this opinion.\nMEMORANDUM AND ORDER\nIn a rehearing petition, the appellees raise several arguments not previously made. Because the statutory interpretation question is difficult, and because the parties previously had only a short time to file the supplementary briefs that we requested, we believe it appropriate to address those arguments.\nFirst, the appellees point out that the source of \u201ccorporate veil-piercing\u201d or \u201calter ego\u201d liability is not state law, but rather, federal law. They are technically correct. In Alman v. Danin, 801 F.2d 1, 3-4 (1st Cir.1986) (cited at page 3 of our opinion), this court looked to congressional policy, not state law, in deciding that a company\u2019s incorporators were personally liable for unpaid pension fund contributions under an \u201calter ego\u201d theory of liability, applying a three-factor test developed by other federal courts. But, though technically federal, the law takes its content in part from related state law. See Contractors, Laborers, Teamsters & Engineers Health & Welfare Plan v. Hroch, 757 F.2d 184, 190 (8th Cir.1985) (\u201cfederal substantive law applies, although the courts may look to state law for guidance\u201d) (emphasis added) (cited in Alman, 801 F.2d at 4.) Since, as we mentioned, we can find no basis here for \u201ccorporate veil-piercing,\u201d or \u201calter ego\u201d liability (the parties did not argue any such basis), this legal fact does not change the result, though we have modified the opinion to make clear that the relevant source of liability is either state law or other appropriate federal law.\nSecond, the parties argue that our interpretation of 29 U.S.C. \u00a7 1145 (1982) conflicts with the language of 29 U.S.C. \u00a7 1132(a)(3) (1982), a jurisdictional provision of ERISA. Section 1132 reads, in relevant part, as follows:\n\u00a7 1132 Civil enforcement\n(a) Persons empowered to bring a civil action\nA civil action may be brought\n(3) by a participant, beneficiary, or fiduciary (A) to enjoin any act or practice which violates any provision of this sub-chapter or the terms of the plan, or (B) to obtain other appropriate equitable relief (i) to redress such violations or (ii) to enforce any provisions of this subchapter or the terms of the plan;\nSection 1132 ultimately relies on the definition of the term \u201cemployee welfare benefit plan\u201d contained in 29 U.S.C. \u00a7 1002(1), (2)(A) (1982) which includes \u201cany plan, fund, or program which was heretofore or is hereafter established or maintained by an employer or any employee organization\u201d which meets certain criteria. See also 29 U.S.C. \u00a7 1002(3) (1982) (defining \u201cemployee benefit plan\u201d as a certain type of \u201cemployee welfare benefit plan\u201d). As we read \u00a7 1132, it simply states that a person may bring a lawsuit to enforce a plan\u2019s terms or to enforce other, substantive provisions of the Act. The section does not itself create legal obligations. If the pension plan alone, or the plan together with some other law, creates a legal obligation, \u00a7 1132 permits the federal courts to enforce that obligation; the section does not itself provide for recovery from, say, an unrelated person; and, whether a person sued is, or is not, sufficiently related to a pension plan to be liable for delinquent contributions would seem a question normally to be answered by other law beyond \u00a7 1132. Here, the parties pointed only to \u00a7 1145 as a possible source of liability.\nFinally, we note that the parties\u2019 rehearing petition does not present us with any plausible interpretation of \u00a7 1145 (an interpretation reasonably consistent with its language), other than the interpretation we have given it. That being so, we continue to believe that our previous view of the statute is correct.\nThe petition for rehearing is denied.",
+        "type": "majority",
+        "author": "BREYER, Circuit Judge."
+      }
+    ],
+    "attorneys": [
+      "Robert Weihrauch, Worcester, for defendant, appellant.",
+      "John Andrew Thompson, Randolph, for plaintiffs, appellees."
+    ],
+    "corrections": "",
+    "head_matter": "The MASSACHUSETTS LABORERS\u2019 HEALTH AND WELFARE FUND, et al., Plaintiffs, Appellees, v. STARRETT PAVING CORP., et al., Defendants, Appellees. Peter Starrett, Defendant, Appellant.\nNo. 87-1806.\nUnited States Court of Appeals, First Circuit.\nHeard Jan. 4, 1988.\nDecided April 25, 1988.\nMemorandum and Order on Denial of Rehearing May 26, 1988.\nRobert Weihrauch, Worcester, for defendant, appellant.\nJohn Andrew Thompson, Randolph, for plaintiffs, appellees.\nBefore CAMPBELL, Chief Judge, BREYER and SELYA, Circuit Judges."
+  },
+  "file_name": "0023-01",
+  "first_page_order": 119,
+  "last_page_order": 123
+}

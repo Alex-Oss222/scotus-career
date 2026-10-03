@@ -1,0 +1,279 @@
+
+
+    
+
+      
+Robert Weihrauch, Worcester, for defendant, appellant.
+
+      
+John Andrew Thompson, Randolph, for plaintiffs, appellees.
+
+      
+Before CAMPBELL, Chief Judge, BREYER and SELYA, Circuit Judges.
+
+      
+BREYER, Circuit Judge.
+
+    
+
+    
+
+      ¶1
+
+Four multiemployer pension plans ("the Plans"), invoking the legal authority of the Employee Retirement Income Security Act ("ERISA"), 29 U.S.C. Secs. 1001-1461 (1982), sued the Starrett Paving Corporation and its owner, Peter Starrett, seeking contributions the corporation had promised, but failed, to make.  29 U.S.C. Sec. 1145.  The corporation went bankrupt;  the district court said that Peter Starrett, the corporation's president and sole shareholder, must himself make the payments.  Peter Starrett now appeals, claiming (among other things) that, even assuming ERISA requires his company to make the pension payments, it does not require him to do so.  We agree with Starrett that the relevant language of ERISA does not impose an obligation upon him to make the payments his company owed.
+
+    
+
+    
+
+      ¶2
+
+* Among other things, ERISA imposes upon employers who promise to contribute to an employee pension plan, a federal obligation to make those contributions.  It thereby offers federal court remedies, along with court costs, attorney's fees, and liquidated damages or interest, to those who seek to collect delinquent contributions.  29 U.S.C. Sec. 1132(g)(2).  The ERISA language that creates the federal obligation reads as follows:
+
+    
+
+    
+
+      ¶3
+
+Every employer who is obligated to make contributions to a multiemployer plan ... shall ... make such contributions in accordance with the terms and conditions of such plan or such agreement.
+
+    
+
+    
+
+      ¶4
+
+29 U.S.C. Sec. 1145.  For purposes of this appeal, we shall assume that the Starrett Paving Corporation owed the money (though this is in fact disputed).  It is conceded, however, that Peter Starrett, the appellant, had not himself promised to make the relevant pension contributions.  We also assume (and it is virtually conceded) that this is not a corporate-veil piercing case.  We cannot say, under state or other relevant federal law, that Peter Starrett simply is the corporation or is its alter ego;  we therefore cannot say that the corporation's promise to pay "is" Starrett's promise.   Cf., e.g., Alman v. Danin, 801 F.2d 1 (1st Cir.1986) (piercing corporate veil to establish ERISA liability).
+
+    
+
+    
+
+      ¶5
+
+Thus, the issue before us is whether the statutory language quoted makes Peter Starrett personally liable for his corporation's promised contributions solely in virtue of his position as chief officer/shareholder of the corporation.  To answer that question, we must decide if he is (1) an "employer," (2) "who is obligated to make contributions to a multiemployer plan."
+
+    
+
+    
+II
+
+    
+
+      ¶6
+
+When this case was initially argued, the parties and this court believed that appellant's liability turned on the meaning of ERISA's definition of the word "employer."    The Act says:
+
+    
+
+    
+
+      ¶7
+
+The term "employer" means any person acting directly as an employer, or indirectly in the interest of an employer, in relation to an employee benefit plan;  and includes a group or association of employers acting for an employer in such capacity.
+
+    
+
+    
+
+      ¶8
+
+29 U.S.C. Sec. 1002(5).  Courts have found the phrase "act ... indirectly in the interest of an employer" difficult to interpret.  Some courts, in contexts like this one, have limited Sec. 1002(5)'s definition to corporate-veil piercing cases, perhaps due to fears that a broad interpretation of this language might too readily impose personal liability on shareholders or corporate officers or even ordinary corporate employees, for obligations of the corporation.  Solomon v. Klein, 770 F.2d 352 (3d Cir.1985);  Audit Services, Inc. v. Rolfson, 641 F.2d 757 (9th Cir.1981).  Other courts have noted the similarity of Sec. 1002(5)'s language to that of Sec. 3(d) of the Fair Labor Standards Act of 1938 ("FLSA"), 29 U.S.C. Sec. 203(d) (1982), which this circuit (and others) have interpreted more broadly to impose personal liability for minimum wage payments upon a corporation's "chief executive officer/major shareholder" where the "economic reality" was that this owner/shareholder might be viewed, if not as a "corporate alter ego," at least as one personally responsible for making (or not making) the legally required wage payments.   See Falk v. Brennan, 414 U.S. 190, 195, 94 S.Ct. 427, 431, 38 L.Ed.2d 406 (1973) (apartment managing company is "employer" of apartment workers under FLSA);  Goldberg v. Whitaker, 366 U.S. 28, 33, 81 S.Ct. 933, 936, 6 L.Ed.2d 100 (1961) (knitted goods cooperative is, according to "economic reality," an "employer" under FLSA);  Donovan v. Agnew, 712 F.2d 1509, 1510-11 (1st Cir.1983) (corporate officers with significant ownership interests are personally liable for bankrupt corporation's FLSA liability) (citing Hodgson v. Royal Crown Bottling Co., 324 F.Supp. 342, 347 (D.Miss.1970) (president of corporation who owns 50 percent of its stock is proper defendant to FLSA injunction), aff'd, 465 F.2d 473 (5th Cir.1972));  Shultz v. Chalk-Fitzgerald Construction Co., 309 F.Supp. 1255 (D.Mass.1970) (president/dominant shareholder of closed corporation personally liable as FLSA "employer");  Chambers Construction Co. v. Mitchell, 233 F.2d 717, 724-25 (8th Cir.1956) (president/incorporator of company is proper defendant in regard to FLSA injunction).  In the view of many courts, the similarity in FLSA and ERISA's language dictates a similar result in at least some ERISA cases.   See Trustees of the Amalgamated Insurance Fund v. Danin, 648 F.Supp. 1142, 1144-46 (D.Mass.1986) and cases cited therein.
+
+    
+
+    
+
+      ¶9
+
+We previously left open the question of how to interpret ERISA's definition of "employer" in Sec. 1002(5).   See DeBrecini v. Graf Brothers Leasing, Inc., 828 F.2d 877, 880 n. 2 (1st Cir.1987), cert. denied, --- U.S. ----, 108 S.Ct. 1024, 98 L.Ed.2d 988 (Feb. 23, 1988).  Were we to decide that question now, we should likely side with the Plans, accepting the interpretation of our district courts.  The legislative history of ERISA shows that when Congress enacted ERISA in 1974, it copied the definition of "employer" from ERISA's 1958 predecessor, the Welfare and Pension Plans Disclosure Act, Pub.L. No. 85-836, Sec. 3(a)(4), 72 Stat. 997, 998 (1958), amended by Pub.L. No. 87-420, 76 Stat. 35 (1962), repealed by ERISA, Pub.L. No. 93-406 Sec. 111(a)(1), 88 Stat. 829, 851 (1974);  and, as far as we can tell, the drafters of the 1958 Act copied FLSA.  Before Congress enacted ERISA in 1974, several courts had adopted a "broader-than-common-law" interpretation of the definition, and two Supreme Court opinions used "economic reality" language.   See Agnew, 712 F.2d at 1510-11, and cases cited therein.  In addition, the two statutes, FLSA and ERISA, have a broadly similar objective, the one seeking to guarantee the worker a reasonable present wage payment and the other looking to a guarantee of his future economic security.  These factors seem sufficient to warrant similar interpretations of the language defining "employer" in the two statutes.  Thus, we shall assume (but we need not definitively decide) that for purposes of Sec. 1145, appellant Starrett is an "employer" under Sec. 1002(5).
+
+    
+
+    
+III
+
+    
+
+      ¶10
+
+After we heard argument in this case, the Massachusetts district court decided in a very similar case that an owner/manager of a corporation, even if an "employer" under ERISA's definition, was not an employer "obligated to make ... contributions to an employee welfare plan."   Alman v. George Manufacturing Corporation, 680 F.Supp. 56, 57 (D.Mass.1988);  see also Mason Tenders District Council Welfare Fund v. Dalton, 648 F.Supp. 1309 (S.D.N.Y.1986);  Solomon v. Laranne Sportswear Corporation, 648 F.Supp. 407 (E.D.N.Y.1986).  The parties at our request then presented to us their views of George, and the employer and the pension plans in the George case ("the amicus plans") filed amicus briefs in this case.  Having considered their arguments, we have concluded that the district court's view of the statute in George is correct.  Starrett is not an "employer ... obligated to make contributions to an employee welfare plan."    Consequently, ERISA does not impose upon him the federal duty to "make such contributions."
+
+    
+
+    
+
+      ¶11
+
+For one thing, the statute's language quite clearly states that the duty in Sec. 1145 arises only in respect to employers "obligated " to make the contributions.  Although Starrett's corporation may have been "obligated" to make the contributions, Starrett personally was not.  For another thing, the legislative history of Sec. 1145 indicates that the language means what it says.  When Congress enacted the provisions in 1980, the Senate Committee on Labor described it as follows:
+
+    
+
+    
+
+      ¶12
+
+The public policy of this legislation ... mandates that provision be made to discourage delinquencies and simplify delinquency collection.  The bill imposes a Federal statutory duty to contribute on employers that are already contractually obligated to make contributions to multiemployer plans.
+
+    
+
+    
+
+      ¶13
+
+Staff of Senate Committee on Labor and Human Resources, 96th Cong., 2d Sess., The Multiemployer Pension Plan Amendments Act of 1980:  Summary and Analysis of Consideration 44 (Comm.Print 1980) (emphasis added).  Similarly, one of the provision's chief sponsors in the House of Representatives said that "[t]he bill imposes a Federal statutory duty to contribute on employers that are already obligated to make contributions to multiemployer plans."    Remarks of Rep. Frank Thompson, Jr., House Debate on the Multiemployer Pension Plan Amendments Act of 1980, 126 Cong.Rec. 23039 (August 25, 1980) (emphasis added), reprinted in, Bureau of National Affairs, ERISA, Selected Legislative History 125 (1986).  One who would be obligated to make a payment in the absence of ERISA might be one "already obligated," but one who, like Starrett, has no such prior, independent obligation is not.
+
+    
+
+    
+
+      ¶14
+
+Further, the Supreme Court, in a somewhat different context, has recently held that an employer is not contractually obligated to contribute to a plan once the relevant collective bargaining agreement has expired, and that being so, Sec. 1145 does not permit a plan to sue for the contribution.   Laborers Health and Welfare Trust Fund for Northern California v. Advanced Lightweight Concrete Co., Inc., --- U.S. ----, 108 S.Ct. 830, 98 L.Ed.2d 936 (1988).  The court read Sec. 1145's legislative history as showing that the statute's purpose was "to give employers a strong incentive to honor their contractual obligations to contribute and to facilitate the collection of delinquent accounts."    Advanced Lightweight Concrete, 108 S.Ct.at 835 (emphasis added).  See also id. at 836, n. 16 (interpreting word "obligated" of Sec. 1145 to exclude employer's statutory obligations).
+
+    
+
+    
+
+      ¶15
+
+Finally, the various arguments that the several parties advance here fail to convince us to depart from the express words of the statute.  First, they say that the literal reading would make useless, hence meaningless, the broad definition of the word "employer" found in Sec. 1002(5).  In fact, however, the expanded definition could still make a difference elsewhere in the Act.  See, e.g., 29 U.S.C. Sec. 1103(c)(1) (assets of ERISA pension plan "shall never inure to the benefit of any employer"); Secs. 1106-07 (defining the terms "employer security" and "employer real property" and prohibiting plans from acquiring or holding either unless explicitly permitted under law);  Sec. 1108 (creating procedure under which Secretary of Labor can exempt particular plan transactions in employer assets from prohibitions of Secs. 1103-07);  Donovan v. Walton, 609 F.Supp. 1221, 1226-27 n. 8 (S.D.Fla.1985) (observing ERISA's restrictions on whether plan fiduciaries can be related to employer ), aff'd sub nom.  Brock v. Walton, 794 F.2d 586 (11th Cir.), rehearing denied, 802 F.2d 1399 (11th Cir.1986).
+
+    
+
+    
+
+      ¶16
+
+Second, they say that the legislative history shows less than we suggest, for Congress did not focus on the specific issue before us now.  Remarks of Rep. Frank Thompson, Jr., supra.    This, of course, may well be true;  but even if we do our best to read the history through the eyes of the Plans or the amicus plans, we can find nothing that suggests we should not follow the statute's plain meaning.   See, e.g., North Dakota v. United States, 460 U.S. 300, 312, 103 S.Ct. 1095, 1102, 75 L.Ed.2d 77 (1983) (quoting Consumer Product Safety Commission v. GTE Sylvania, Inc., 447 U.S. 102, 108, 100 S.Ct. 2051, 2056, 64 L.Ed.2d 766 (1980)).
+
+    
+
+    
+
+      ¶17
+
+Third, the Plans fear that a literal reading of Sec. 1145 would not permit corporate-veil piercing.   See Gambino v. Index Sales Corporation, 673 F.Supp. 1450, 1456 (N.D.Ill.1987).  We do not think that is so.  When state law pierces the corporate veil, where the owner is the corporation's alter ego, where state or other relevant federal law makes the owner liable, it is fairly easy to say that the owner is the corporation, and that the owner is therefore an "employer" (under ERISA's definition) "who is obligated" (under state law) "to make contributions to" a pension plan.  Indeed, in such a case he is an employer already obligated (see p. 25, supra ) to make the contributions.  One cannot say that here, where neither state nor other federal law obligates the owner to make the contributions.  He is not a person already obligated to make the contribution.  His would have to be an obligation that Sec. 1145 of ERISA alone would have to create.
+
+    
+
+    
+
+      ¶18
+
+Fourth, the Plans point out that Sec. 1145 was enacted in 1980 as part of the Multiemployer Pension Plan Amendments Act of 1980, Pub.L. No. 96-364, 94 Stat. 1208 (1980), six years after Congress enacted the broad ERISA definition of "employer."    That fact, however, does not seem very important, in light of the further fact that before the date Congress passed Sec. 1145, no federal court had published an opinion interpreting Sec. 1002(5) in the broad way urged upon us by the Plans.
+
+    
+
+    
+
+      ¶19
+
+Fifth, the amicus plans say that the words "obligated to make contributions" are words of "explanation, not limitation."    But even if we take these words as words of "explanation," they seem to explain whom ERISA obliges, and we can find nothing else in the statute that imposes an ERISA obligation to contribute on persons whom state law (or some other law) does not oblige.   Cf. Advanced Lightweight Concrete, 108 S.Ct. at 835.
+
+    
+
+    
+
+      ¶20
+
+Sixth, both the Plans and the amicus plans argue generally that, like the FLSA, ERISA aims to protect workers by securing the payments due them.  We agree.  But, we also note that an ERISA-type fund is not necessarily as helpless when faced with a financially shaky, but closely held, corporation as is a worker seeking payment of a minimum wage.  Congress may have thought that, compared to a worker who needs FLSA's minimum wage protections, a worker entitled to ERISA-protected pension fund payments may find it easier (perhaps through his union) to secure a written promise of personal liability from the owner of the shaky corporation.  If so, the former may be in greater need of federal protection than the latter.  Whether or not this is so, however, we do not see how general considerations of need can carry us beyond the statute Congress wrote.
+
+    
+
+    
+
+      ¶21
+
+Finally, the Plans do not, and cannot, argue that a literal interpretation renders the statute meaningless, for it does not.  As we have pointed out, Sec. 1002(5)'s definition still applies to other parts of ERISA.  As we have also pointed out, even if the class of persons liable under Sec. 1145 is the same as those already liable under state (or some other) law, federal liability means easier collectibility because of ERISA provisions for, e.g., attorney's fees, liquidated damages, and interest.
+
+    
+
+    
+
+      ¶22
+
+For these reasons, we must interpret the statute in accordance with its "plain meaning."   See North Dakota, 460 U.S. at 312, 103 S.Ct. at 1102;  GTE Sylvania, 447 U.S. at 108, 100 S.Ct. at 2056.
+
+    
+
+    
+
+      ¶23
+
+The order of the district court granting summary judgment is reversed, and the case is remanded for further proceedings consistent with this opinion.MEMORANDUM AND ORDER
+
+    
+
+    
+
+      ¶24
+
+In a rehearing petition, the appellees raise several arguments not previously made.  Because the statutory interpretation question is difficult, and because the parties previously had only a short time to file the supplementary briefs that we requested, we believe it appropriate to address those arguments.
+
+    
+
+    
+
+      ¶25
+
+First, the appellees point out that the source of "corporate veil-piercing" or "alter ego" liability is not state law, but rather, federal law.  They are technically correct.   In Alman v. Danin, 801 F.2d 1, 3-4 (1st Cir. 1986) (cited at page 3 of our opinion), this court looked to congressional policy, not state law, in deciding that a company's incorporators were personally liable for unpaid pension fund contributions under an "alter ego" theory of liability, applying a three-factor test developed by other federal courts.  But, though technically federal, the law takes its content in part from related state law.   See Contractors, Laborers, Teamsters & Engineers Health & Welfare Plan v. Hroch, 757 F.2d 184, 190 (8th Cir. 1985) ("federal substantive law applies,  although the courts may look to state law for guidance") (emphasis added) (cited in Alman, 801 F.2d at 4.)    Since, as we mentioned, we can find no basis here for "corporate veilpiercing," or "alter ego" liagility (the parties did not argue any such basis), this legal fact does not change the result, though we have modified tha opinion to make clear that the relevant source of liability is either state law or other appropriate federal law.
+
+    
+
+    
+
+      ¶26
+
+Second, the parties argue that our interpretation of 29 U.S.C. Sec. 1145 (1982) conflicts with the language of 29 U.S.C. Sec. 1132(a)(3) (1982), a jurisdictional provision of ERISA.  Section 1132 reads, in relevant part, as follows:
+
+    
+
+    
+Sec. 1132 Civil enforcement
+
+    
+
+      ¶27
+
+(a) Persons empowered to bring a civil action
+
+    
+
+    
+A civil action may be brought
+
+    
+
+      ¶28
+
+(3) by a participant, beneficiary, or fiduciary (A) to enjoin any act or practice which violates any provision of this subchapter or the terms of the plan, or (B) to obtain other appropriate equitable relief (i) to redress such violations or (ii) to enforce any provisions of this subchapter or the terms of the plan;
+
+    
+
+    
+
+      ¶29
+
+Section 1132 ultimately relies on the definition of the term "employee welfare benefit plan" contained in 29 U.*s.c. Sec. 1002(1), (2)(A) (1982) which includes "any plan, fund, or program which was heretofore or is hereafter estableshed or maintained by an employer or any employee organization" which meets certain criteria.  See also 29 U.S.C. Sec. 1002(3) (1982) (defining "employee benefit plan" as a certain type of "employee welfare benefit plan").  As we read Sec. 1132, it simply states that a person may bring a lawsuit to enforce a plan's terms or to enforce other, substantive procisions of the Act.  The section does not itself create legal obligations.  If the pension plan alone, or the plan together with some other law, creates a lagel obilgation, Sec. 1132 permits the federal courts to enforce that obligation, the section does not itself provide for recovery from, say, an unrelated person, and, whether a person sued is, or is not, sufficiently related to a pension plan to be liable for delinquent contributions would seem a question normally to be answered by other law beyond Sec. 1132.  Here, the parties pointed only to Sec. 1145 as a possible source of liability.
+
+    
+
+    
+
+      ¶30
+
+Finally, we note that the parties' rehearing petition does not present us with any plausible interpretation of Sec. 1145 (an interpretation reasonably consistent with its language), other than the interpretation we have given it.  That being so, we continue to believe that our previous view of the statute is correct.
+
+    
+
+    
+
+      ¶31
+
+The petition for rehearing is denied.
+
+    
+
+    
