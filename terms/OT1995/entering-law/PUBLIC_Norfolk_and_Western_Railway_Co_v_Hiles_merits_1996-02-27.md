@@ -1,28 +1,28 @@
-### Event
+## Event
 
 Norfolk & Western Railway Co. v. Hiles, No. 95-6, 516 U.S. 400. Argued January 8, 1996; decided February 27, 1996. On writ of certiorari to the Illinois Appellate Court, Fifth District, 268 Ill. App. 3d 561, 644 N.E.2d 508, after the Illinois Supreme Court denied review. The question is whether the Safety Appliance Act makes the railroad liable as a matter of law for Hiles's injury while manually realigning an off-center drawbar before coupling.
 
 Hiles injured his back on July 18, 1990 while he and a coworker moved the drawbar. The other car remained four or five car lengths away; no impact had been attempted. The trial court directed statutory liability and excluded nondefect evidence as irrelevant under its rule. A jury awarded $492,500, and the appellate court affirmed. The railroad seeks reversal and remand. No independent ordinary-negligence count under FELA was pleaded.
 
-### Participation
+## Participation
 
 Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision.
 
-### Public Action
+## Public Action
 
 The Court reverses the Illinois Appellate Court's judgment and remands for proceedings consistent with the statutory preparation/performance distinction.
 
-### Judgment & Remedy
+## Judgment & Remedy
 
 **Reversed and remanded, 9–0. Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
 
 The directed statutory-liability ruling and its dependent $492,500 damages foundation cannot stand. Further proceedings must apply the correct rule to statutory-performance and causation issues that remain properly presented and procedurally available. The Court orders neither judgment for the railroad nor a guaranteed new trial or recovery; it supplies no new negligence count and revives no forfeited issue.
 
-### Opinion Topology
+## Opinion Topology
 
 Justice Thomas writes the Opinion of the Court. Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer join in full. No separate opinion is issued.
 
-### Holdings
+## Holdings
 
 **Common authority:** Thomas's opinion and all eight complete joins identified above directly support each following holding, its application and limits. No combination of separate rationales is required.
 
@@ -40,7 +40,7 @@ Hiles correctly emphasizes that the Act protects workers from manual-coupling da
 
 **Controlling explanation:** The general need for lateral movement does not prove that this particular condition was ordinary or nondefective. The inspection account and asserted AAR compliance were excluded affidavit and proffer evidence, not findings. The difficulty moving the bar, the uncoupling evidence and the disputed curve inference also cannot be resolved merely from the trial court's erroneous rule. Wagner and Parker preserve assessment of the actual displacement and performance evidence. The absence of a prior impact and the absence of an identified broken component do not justify this Court's entering final judgment for the railroad. Reversal removes the directed-liability foundation of the damages judgment while leaving only procedurally available issues for further proceedings. It neither manufactures the unpleaded negligence claim nor guarantees another trial.
 
-### Precedent Treatment
+## Precedent Treatment
 
 - Affolder v. New York, Chicago & St. Louis Railroad Co., 339 U.S. 96: applies its proper-setting qualification to ordinary nondefective drawbar alignment, retaining absolute performance once the appliance is properly set.
 - Carter v. Atlanta & St. Andrews Bay Railway Co., 338 U.S. 430: preserves performance-based proof without negligence or identification of a particular defect and the separate causal requirement; ordinary FELA comparative-negligence principles do not excuse a proven statutory violation.
@@ -48,18 +48,18 @@ Hiles correctly emphasizes that the Act protects workers from manual-coupling da
 - San Antonio & Aransas Pass Railway Co. v. Wagner, 241 U.S. 476, and Atlantic City Railroad Co. v. Parker, 242 U.S. 56: preserve consideration of the actual evidence bearing on drawbar displacement and failure, rather than making every realignment injury conclusive.
 - Consolidated Rail Corp. v. Gottshall, 512 U.S. 532: its distinct negligent-emotional-injury rule remains unchanged; its negligence and zone-of-danger requirements do not govern this statutory-performance claim.
 
-### Law After Decision
+## Law After Decision
 
 The proper-setting qualification extends to ordinary nondefective drawbar alignment. An injury during that preparation is insufficient by itself; a proven failure of required performance remains actionable without negligence or identification of a particular mechanical defect. Violation and causal contribution remain separate. The decision establishes no general exemption for misaligned drawbars, inspection safe harbor, universal impact prerequisite, new technology mandate or broader operating prohibition.
 
-### Separate Writings
+## Separate Writings
 
 No separate writing is issued.
 
-### Procedure After Action
+## Procedure After Action
 
 The case returns through the Illinois Appellate Court for proceedings under the corrected statutory rule. The directed-liability ruling and dependent damages foundation fall. Remaining evidence, statutory-performance and causal issues are preserved only insofar as properly presented and procedurally available. No particular further hearing, new trial, damages award or final railroad judgment is ordered, and no further Supreme Court date is set.
 
-### Source Notes
+## Source Notes
 
 The [Illinois appellate decision, 644 N.E.2d 508](https://cite.case.law/ne2d/644/508/), the petition, merits briefs and printed joint appendix supply the accident and directed-verdict posture. Joint Appendix 10–11 and 21 contain the excluded inspection affidavit/proffer; pages 15–16 describe movement difficulty and the other car's distance, and pages 22–25 supply the ruling and remaining proffer. Those submissions are not jury findings of compliance. Former 45 U.S.C. §2 governs the injury; the [1994 codification of §20302](https://www.govinfo.gov/content/pkg/USCODE-1994-title49/pdf/USCODE-1994-title49-subtitleV-partA-chap203-sec20302.pdf) preserves the distinct statutory formulation and exceptions without supplying a new rule for the accident.

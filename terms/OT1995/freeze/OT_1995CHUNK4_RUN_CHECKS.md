@@ -22,12 +22,15 @@ Two additional statutory sources were admitted: Telecommunications Act section 5
 | Jones, February 26 | 6a056e2 | Full Record read; eight participants and seven/eight-member proposition coalitions; separate Stone prospective rule; pending financial and certiorari stages; no invented deficiency, refiling duty, deadline or petition poll; cited local source paths resolve; exact public-copy identity and eleven blocks. |
 | Voting Rights Coalition, February 26 | 6e959e4 | Full Record read; unanimous whole-judgment affirmance; independent congressional/presidential grounds; actual NVRA qualifications; preserved implementation remand and retained appellate jurisdiction; no new deadline; exact public-copy identity and eleven blocks. |
 | Maine, February 26 | 5ce19f7 | Full Record read against reconciled five-line schedule; ten approximate endpoints and three Nantucket exceptions preserved; eight internal approvals, Souter absent, no public poll; retained original jurisdiction; exact public-copy identity and eleven blocks. |
-
 | Chesapeake/Bell Atlantic, February 27 | e338fd8 | Full Record read; nine internal component approvals and unsigned public disposition; appellate vacatur only; Fourth Circuit mootness consideration with optional further proceedings; exact section 653(a)(1) notice/ten-day decision trigger verified against enacted text before commitment; exact public copy and eleven blocks. |
 | Hiles, February 27 | 0322761 | Full Record read; unanimous judgment/holdings; ordinary preparation versus absolute performance; proffer/findings distinction; correct causal and limited remand consequences; no new negligence count or guaranteed trial; exact public copy and eleven blocks. |
 | Matsushita, February 27 | d1caab1 | Full Record read; 7–2 judgment and distinct 9/7/8/9/8 proposition support; Stevens/Ginsburg/Souter partial joins; Stone's separate structural-failure rule; state effect versus constitutional review, opt-outs and conditional dismissal; exact public copy and eleven blocks. |
 
 The February 26 matters use a common pre-group baseline. Peacock's public law was checked for relevance; no material change to those packets or commitments followed. The February 27 independent models completed freshness against all earlier public events before their 62203ea freeze.
+
+## Interface correction before chunk completion
+
+The independent audit found that the first seven new Court Records used third-level public-block headings, while the required validator recognizes second-level headings. Root corrected only the eleven heading prefixes in each Record and exact PUBLIC copy, with truthful format-only lineage. A reverse-normalization assertion verified that every public substantive byte remained unchanged. No vote, holding, remedy, source qualification or prior original Record changed. The earlier checks for eleven ordered blocks were valid, but did not establish compatibility with the exact validator syntax; that limitation is now corrected.
 
 ## Current completion boundary
 

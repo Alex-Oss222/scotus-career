@@ -1,16 +1,16 @@
-### Event
+## Event
 
 United States v. Maine et al. (Massachusetts Boundary Case), No. 35, Original, 516 U.S. 365. Supplemental decree, February 26, 1996. The United States and Massachusetts jointly seek entry of their January 1996 proposed decree implementing the October 6, 1975 decree, 423 U.S. 1, and the February 25, 1986 boundary decision, 475 U.S. 89. The question is whether the submitted classification and coastal closing lines conform to that existing determination. This is a motion within retained original jurisdiction; no lower-court judgment is under review and no new argument date is supplied.
 
-### Participation
+## Participation
 
 Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer participate. Justice Souter takes no part in consideration or decision of the motion and supplemental decree; no reason is stated.
 
-### Public Action
+## Public Action
 
 The joint motion is granted, and the supplemental decree is entered. The unsigned decree announces no numerical vote or individual action lineup.
 
-### Judgment & Remedy
+## Judgment & Remedy
 
 For purposes of the Court's decree of October 6, 1975, 423 U.S. 1, the coastline of the Commonwealth of Massachusetts is determined on the basis that the whole of Vineyard Sound constitutes state inland waters and Nantucket Sound, except the interior indentations described in paragraphs 2(c), (d) and (e), consists of territorial seas and high seas.
 
@@ -26,11 +26,11 @@ For purposes of that decree, the coastline of Massachusetts includes the followi
 
 The Court retains jurisdiction to entertain further proceedings, enter orders and issue writs as may from time to time be necessary or advisable to effectuate and supplement the decree and the rights of the respective parties.
 
-### Opinion Topology
+## Opinion Topology
 
 The Court issues an unsigned supplemental decree. No separate opinion or statement is filed.
 
-### Holdings
+## Holdings
 
 **Operative rule:** For purposes of the October 6, 1975 decree, Vineyard Sound is state inland waters; Nantucket Sound consists of territorial seas and high seas except the interior indentations described in paragraphs 2(c), (d) and (e). The five straight lines set out in Judgment & Remedy give the Massachusetts coastline operative geographic form under that decree, with each endpoint coordinate approximate, and the Court retains jurisdiction to effectuate and supplement the decree and the parties' rights.
 
@@ -40,22 +40,22 @@ The Court issues an unsigned supplemental decree. No separate opinion or stateme
 
 **Precedent treatment:** The October 6, 1975 decree is supplemented within its retained jurisdiction. The February 25, 1986 Massachusetts boundary determination is implemented without reopening its classification or deciding the validity, limits or universal burden of proving ancient title.
 
-### Precedent Treatment
+## Precedent Treatment
 
 The October 6, 1975 decree, 423 U.S. 1, is supplemented through its retained implementation authority. The Massachusetts boundary decision, 475 U.S. 89 (1986), supplies the surviving Vineyard Sound and Nantucket Sound classification and direction to submit a conforming decree; its merits determination remains intact.
 
-### Law After Decision
+## Law After Decision
 
 The submitted five-line description now governs the Massachusetts coastline for purposes of the 1975 decree, subject to the stated approximate endpoints and Nantucket Sound indentation exceptions. No new historic-waters test, general ancient-title proof rule, new title or precise-survey finding is adopted. The Court's continuing authority concerns effectuation and supplementation of the decree and the parties' rights.
 
-### Separate Writings
+## Separate Writings
 
 No separate writing is filed.
 
-### Procedure After Action
+## Procedure After Action
 
 The joint motion is resolved by entry of the supplemental decree in No. 35, Original. The Court retains jurisdiction to entertain further proceedings, enter orders and issue writs as may be necessary or advisable to effectuate and supplement the decree and the rights of the respective parties. The original action is not dismissed. No new hearing, survey or filing deadline is directed.
 
-### Source Notes
+## Source Notes
 
 The United States and Massachusetts's January 1996 [joint motion, memorandum and proposed supplemental decree](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000202729/1000202729_019.pdf), proposed-decree paragraphs 1–3, supplies the classification, five straight lines, approximate endpoints and retained-jurisdiction terms. The [1986 Massachusetts boundary opinion](https://www.govinfo.gov/content/pkg/USREPORTS-475/pdf/USREPORTS-475-89.pdf), 475 U.S. 89, 105, directed submission of a decree conforming to the Special Master's recommendations. The coordinates express the filed approximations; the decree supplies no independent geographic survey.

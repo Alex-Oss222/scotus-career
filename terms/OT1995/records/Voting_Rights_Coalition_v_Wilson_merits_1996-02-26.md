@@ -1,7 +1,7 @@
 **Case and dockets:** Voting Rights Coalition v. Wilson; petition identifier No. 95-673; Ninth Circuit No. 95-15449, 60 F.3d 1411.
 **Event and date:** Merits decision, 1996-02-26; October Term 1995.
 **Result:** Ninth Circuit judgment affirmed, 9–0, including the permanent compliance injunction, implementation remand and retained appellate jurisdiction.
-**Version / lineage:** Initial Canonical Decision Record; no earlier event Record superseded.
+**Version / lineage:** Initial Canonical Decision Record; no earlier event Record superseded. Public-block heading depth corrected during this Run to the required interface; no adjudicative or public substantive text changed.
 
 ## Decision kernel
 
@@ -62,31 +62,31 @@ Completed checks: lawful established review channel and final-injunction posture
 
 ## Public Projection
 
-### Event
+## Event
 
 Voting Rights Coalition v. Wilson, petition identifier No. 95-673; Ninth Circuit No. 95-15449, 60 F.3d 1411. Decided February 26, 1996. On review of the Ninth Circuit's July 24, 1995 judgment affirming a March 2 permanent injunction requiring California to comply with the National Voter Registration Act of 1993 and remanding for implementation. The district court consolidated the injunction hearing with trial under Rule 65(a)(2).
 
 The questions concern Congress's authority to require federal-election registration through motor-vehicle and designated public agencies despite California's Tenth Amendment and retained-qualification objections, including assignment of duties to employees previously performing other work. Presidential-election coverage requires its own constitutional ground. The Governor had directed implementation only to the extent federal funding was available; the resulting noncompliance produced this enforcement dispute. The United States asserts its own §11(a) claim for prospective relief.
 
-### Participation
+## Participation
 
 Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate.
 
-### Public Action
+## Public Action
 
 The Ninth Circuit's judgment is affirmed in full, including the permanent injunction, implementation remand and retained appellate jurisdiction.
 
-### Judgment & Remedy
+## Judgment & Remedy
 
 **Affirmed, 9–0.** Supporting: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
 
 California must comply with the Act's federal-election requirements. The existing remand for implementation and the Ninth Circuit panel's retention of jurisdiction over subsequent proceedings and appeals remain. The district court must impose no burden unauthorized by the Act that impairs California's retained conduct of state elections and must approach implementation with due sensitivity to federalism. No provision is severed, no new administrative process is required, and no new ten-day deadline is started. The lower judgment's denial of appellate costs to every party remains undisturbed.
 
-### Opinion Topology
+## Opinion Topology
 
 O'Connor writes the Opinion of the Court, joined throughout by Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. All nine adopt each controlling proposition and its limits. No separate writing issues.
 
-### Holdings
+## Holdings
 
 **Congress may require the challenged congressional-election registration duties.** The unanimous Court holds that Article I, §4 permits the NVRA's actual registration commands, including distribution, assistance, acceptance and transmittal duties assigned to motor-vehicle, public-assistance and disability-service personnel. Smiley includes registration within the manner power. Siebold permits partial federal alteration through shared state administration; a wholly federal apparatus is unnecessary. California correctly identifies real commands on employees whose prior duties differed, with consequences for resources and accountability. But Congress's express authority to make or alter registration procedures cannot depend on which office a State previously used. Receiving and transmitting applications remains electoral administration when performed at multipurpose agencies. The Act's in-home requirement likewise concerns registration services where the designated disability office already serves the person at home. These duties are not upheld on a finding that they are costless, trivial or voluntary. New York's bar against the ordinary-commerce command to regulate private waste generators or assume their obligations remains intact; this distinct constitutional allocation supplies the authority absent there. California's preference for reimbursement does not excuse compliance with these valid federal duties. No general power to direct state administration follows.
 
@@ -103,22 +103,22 @@ O'Connor writes the Opinion of the Court, joined throughout by Stone-Zsela, Stev
 - Section 7 requires designation of all public-assistance offices and offices providing state-funded programs primarily serving persons with disabilities, as well as other registration offices. Federal and nongovernmental offices may be designated with their agreement. Designated offices must distribute, assist with and accept forms for transmittal; a designated disability office providing services at home must provide those registration services there. An applicant may refuse assistance. Distribution with the public-assistance or disability-service application, recertification, renewal or address-change form may be omitted when the applicant declines registration in writing; applicants who do not decline receive the same degree of assistance as with the office's own forms unless they refuse it. Failure to mark either registration-choice box counts as declination for the assistance provision. Staff may not seek to influence or display political preference, discourage registration, or suggest that registration choice affects services or benefits; declination and source information retain their statutory confidentiality protections.
 - Sections 5(e) and 7(d) ordinarily require transmittal to the proper state election official within ten days after acceptance. When an application is accepted within five days before the last registration day for an election, transmittal is due within five days after acceptance. These are statutory duties, distinct from the district court's implementation-plan direction. State officials retain registration and roll decisions within the statute; the decision does not require identical federal and state rolls or determine a particular implementation practice.
 
-### Precedent Treatment
+## Precedent Treatment
 
 Smiley and Siebold are applied to registration and shared administration under the express congressional-election allocation. New York's ordinary-commerce structural holding remains effective and is distinguished by that allocation, without converting every federal interest into authority to command States. Burroughs's national protective principle is applied separately to the challenged presidential-registration safeguards while preserving the State's choice of appointment method. Term Limits supplies the administration/qualification distinction within its actual candidate-rule scope; it is not expanded into a comprehensive voter-qualification decision. No prior holding is overruled.
 
-### Law After Decision
+## Law After Decision
 
 The challenged NVRA agency-registration duties are valid in their federal-election scope. Their congressional and presidential coverage rests on distinct constitutional grounds. California must perform the prescribed work despite its reimbursement condition; federal-election authority creates no general power to command state government. Substantive eligibility and retained state-election administration remain distinct from federally regulated registration procedure. The facial decision preserves concrete statutory and constitutional implementation challenges and does not decide the alternative Fourteenth/Fifteenth Amendment theory.
 
-### Separate Writings
+## Separate Writings
 
 No separate writing issues.
 
-### Procedure After Action
+## Procedure After Action
 
 The permanent injunction stands and the case proceeds through the already ordered implementation remand. The Ninth Circuit panel retains jurisdiction over subsequent proceedings and appeals. The lower order's original ten-day plan requirement is not restarted, and no compliance with that requirement is presumed. Separately reserved coalition claims concerning implementation remain for their proper proceedings; dismissal without prejudice of the Federal Election Commission and its chair is not converted into a merits judgment. No new plan, costs award, state-election redesign or finding about a later administrative practice is ordered.
 
-### Source Notes
+## Source Notes
 
 The Ninth Circuit opinion, 60 F.3d 1411, and the district judgment reproduced in the petition establish the permanent-injunction posture, federal enforcement claim, implementation remand and retained appellate jurisdiction. Pub. L. 103-31, 107 Stat. 77–89, supplies the enacted duties and exceptions; California's applicable effective date was January 1, 1995. The State's estimates of $18 million and 58 additional employees were disputed and are not findings adopted by the Court. Enacted legislative findings remain distinct from findings about California. The decision resolves facial validity without adjudicating a later implementation controversy.

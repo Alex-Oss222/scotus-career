@@ -1,4 +1,4 @@
-### Event
+## Event
 
 Matsushita Electric Industrial Co. v. Epstein, No. 94-1809, 516 U.S. 367. Argued November 27, 1995; decided February 27, 1996. On writ of certiorari to the Ninth Circuit, 50 F.3d 644. The question is whether §1738 requires recognition of a Delaware class-settlement judgment releasing securities claims within exclusive federal jurisdiction under Exchange Act §27.
 
@@ -6,21 +6,21 @@ The Delaware acquisition litigation began in September 1990; the federal Epstein
 
 The Ninth Circuit refused recognition because the federal claims rested on different underlying facts and could not have been extinguished by adjudication of the state claims. It reserved releases sharing the same predicate facts and did not decide the fact-specific constitutional alternative. Petitioners request immediate dismissal of covered non-opt-out complaints; respondents defend the appellate judgment and invoke representative-authority, due-process and binding-operation objections. Valid opt-outs, including the identified opt-out litigants outside this review, remain excluded.
 
-### Participation
+## Participation
 
 Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision.
 
-### Public Action
+## Public Action
 
 The Court reverses the Ninth Circuit judgment and remands. Ordinary Delaware recognition is established, but the Court does not direct immediate dismissal of the federal complaints.
 
-### Judgment & Remedy
+## Judgment & Remedy
 
 **Reversed and remanded, 7–2. Supporting:** Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. **Opposing:** Stevens and Ginsburg, who would vacate and remand for an initial determination of Delaware preclusive effect as well as the unresolved constitutional and collateral-review questions.
 
 The lower federal court must give the judgment its ordinary Delaware effect, subject to properly presented unresolved constitutional and binding objections and the antecedent extent to which those objections remain available collaterally. The Court orders no immediate dismissal, damages, new federal class certification, revival of an unpresented securities count or wholesale invalidation of the settlement. Valid opt-outs remain protected. Dismissal of covered claims may follow only after the remaining legally available grounds are resolved.
 
-### Opinion Topology
+## Opinion Topology
 
 | Writing or portion | Author | Joined by | Scope and relationship |
 |---|---|---|---|
@@ -32,7 +32,7 @@ The lower federal court must give the judgment its ordinary Delaware effect, sub
 | Concurrence | Stone-Zsela | No additional Justice | Joins reversal and the identified Court portions; states a distinct structural-failure standard for collateral attack |
 | Opinion concurring in part and dissenting in part | Ginsburg | Stevens on first-instance Delaware inquiry and representation; Souter on representation only | Ginsburg and Stevens would vacate/remand; Souter supports reversal. Ginsburg's further §27 reservation is hers alone |
 
-### Holdings
+## Holdings
 
 **Section 1738 governs this kind of judgment.** A state judicial judgment incorporating a class settlement falls within §1738 even when it releases claims subject to exclusive federal adjudicatory jurisdiction. The federal court begins with the effect the rendering State gives that judgment; class form, consent disposition and exclusive jurisdiction alone supply no categorical exemption. All nine Justices adopt this rule in Part I.
 
@@ -56,7 +56,7 @@ Recognition is also distinct from direct coercive interference with a pending fe
 
 The Court decides no underlying tender-offer liability, private right under §§14(d)(6)–(7), new federal class, damages or unpresented securities count. Traditional contract consent as an independent dispositive theory remains unadjudicated; any legally applicable state contract approach would operate through §1738, without a federal fiction of individually negotiated assent. Valid opt-outs remain outside the judgment's release.
 
-### Precedent Treatment
+## Precedent Treatment
 
 - Marrese v. American Academy of Orthopaedic Surgeons, 470 U.S. 373: applies state law first and preserves its settlement-law reservation; the adjudicated-claim competency limit is not mechanically transferred to a release.
 - Kremer v. Chemical Construction Corp., 456 U.S. 461: applies §1738 finality subject to due process and the actual scope of matters determined; no blanket authorization to retry state-law error follows.
@@ -65,13 +65,13 @@ The Court decides no underlying tender-offer liability, private right under §§
 - Peacock v. Thomas, 516 U.S. 349: its independent-authority limit for new-debtor liability remains distinct from recognition of an existing representative judgment.
 - Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A., 511 U.S. 164: the confined affirmative-assistance action remains governing securities law. It establishes neither a tender-rule private right nor the value, liability or retrospective invalidity at issue here.
 
-### Law After Decision
+## Law After Decision
 
 The incorporated class-settlement judgment receives ordinary Delaware recognition under §1738 notwithstanding exclusive federal jurisdiction over adjudicating the released Exchange Act claims. Section 27 supplies no implied partial repeal for this judgment category. Constitutional representation and lawful binding remain necessary; the actual defects alleged and permissible scope of collateral review remain for the remand at the stated limits. No universal same-transaction release rule, automatic adequacy finding or state power to enjoin federal adjudication follows.
 
 The Chief Justice's complete structural-failure standard is separate and noncontrolling. The three-Justice fuller representation discussion below does not enlarge the Court's common constitutional minimum or resolve the reserved full-and-fair-litigation question.
 
-### Separate Writings
+## Separate Writings
 
 **Stone-Zsela, concurring.** The Chief Justice joins reversal, ordinary Delaware recognition, the §27 holding, and the constitutional minimum and unresolved case application. He would give the judgment the effect §1738 requires unless respondents establish a fundamental defect in jurisdiction, notice, representation or binding operation. Hansberry and Shutts permit collateral attack where constitutionally deficient notice, a disabling conflict, collusion, or representation tantamount to no representation deprived absent members of a genuine adversarial representative. Ordinary disagreement with strategy, valuation or settlement terms does not establish that structural failure. Exclusive federal jurisdiction bars state adjudication of the federal cause, but not its settlement through a judgment the State was competent to enter. He therefore does not join the Court's complete reservation of the collateral-attack standard. He finds neither actual adequacy nor inadequacy here and supports the remand within those limits. No other Justice joins this complete standard.
 
@@ -79,10 +79,10 @@ The Chief Justice's complete structural-failure standard is separate and noncont
 
 In the representation discussion, joined by Stevens and Souter, Ginsburg explains that constitutionally adequate representation must exist throughout the litigation and that a final class judgment remains susceptible to a legally proper collateral challenge for failure of that prerequisite. Notice and opt-outs are distinct protections. Hansberry, Shutts and Prezant support attention to actual representative authority and interests. The existing findings and hearing do not establish the absence of a possible constitutional objection; neither do the objections prove failure. Respondents' inadequacy contention and petitioners' response that the issue was fully and fairly litigated both remain open. Souter joins this explanation while supporting ordinary Delaware recognition and reversal; he does not join the first-instance state-law remand or Ginsburg's §27 reservation.
 
-### Procedure After Action
+## Procedure After Action
 
 The case returns to the Ninth Circuit for consideration of properly presented unresolved constitutional and binding objections and their permissible collateral scope, consistently with the established ordinary Delaware effect and §27 holding. No immediate dismissal or merits recovery is directed. Valid opt-outs remain excluded. Dismissal of affected claims may follow only after the remaining legally available grounds are resolved. No new federal class, independent contractual-consent judgment, injunction enforcement, damages award or further Supreme Court date is ordered.
 
-### Source Notes
+## Source Notes
 
 The Ninth Circuit's opinion, 50 F.3d 644, identifies its preclusion ground and reserved constitutional alternative. The Delaware stipulation, Joint Appendix 172–197, and final judgment, 204–206, contain the incorporated release; the printed hearing, 222–260, contains the competing process arguments. In re MCA, Inc. Shareholders Litigation, 598 A.2d 687 and 1993 WL 43024, and the Delaware Supreme Court's September 21, 1993 affirmance supply the settlement history and state disposition. Nottingham Partners v. Dana, 564 A.2d 1089, and Prezant v. De Angelis, 636 A.2d 915, supply the distinct state-law release and representation requirements. The eighteen- and nineteen-opt-out descriptions concern different stages. No present constitutional finding follows from those counts, the recovery amount or the judgment's adequacy recital alone.
