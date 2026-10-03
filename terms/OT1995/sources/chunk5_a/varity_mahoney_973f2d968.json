@@ -1,0 +1,853 @@
+{
+  "id": 10518324,
+  "name": "William MAHONEY, et al., Plaintiffs, Appellants, v. BOARD OF TRUSTEES, Boston Shipping Association-International Longshoremen's Association, AFL-CIO Pension Plan, Defendants, Appellees",
+  "name_abbreviation": "Mahoney v. Board of Trustees",
+  "decision_date": "1992-08-18",
+  "docket_number": "No. 91-2202",
+  "first_page": "968",
+  "last_page": "975",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "973 F.2d 968"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "1st Cir.",
+    "id": 8809,
+    "name": "United States Court of Appeals for the First Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "523 F.Supp. 812",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3341008
+      ],
+      "pin_cites": [
+        {
+          "page": "817"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/523/0812-01"
+      ]
+    },
+    {
+      "cite": "472 U.S. 559",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1512303
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Retirees ... clearly are within the class to whom [ERISA] trustees owe a duty.\""
+        },
+        {
+          "parenthetical": "\"Retirees ... clearly are within the class to whom [ERISA] trustees owe a duty.\""
+        },
+        {
+          "parenthetical": "\"Retirees ... clearly are within the class to whom [ERISA] trustees owe a duty.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/472/0559-01"
+      ]
+    },
+    {
+      "cite": "29 C.F.R. \u00a7 2510.3",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "732 F.2d 1139",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1947825
+      ],
+      "pin_cites": [
+        {
+          "page": "1145"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/732/1139-01"
+      ]
+    },
+    {
+      "cite": "795 F.2d 1079",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3610282,
+        1596270
+      ],
+      "pin_cites": [
+        {
+          "page": "1083"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/254/0183-01",
+        "/f2d/795/1079-01"
+      ]
+    },
+    {
+      "cite": "104 L.Ed.2d 1024",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 S.Ct. 3162",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "490 U.S. 1108",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        605536,
+        605224,
+        605515,
+        605867,
+        605804,
+        605071,
+        604944,
+        605904,
+        605491,
+        605526,
+        605148,
+        605822
+      ],
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/490/1108-09",
+        "/us/490/1108-06",
+        "/us/490/1108-01",
+        "/us/490/1108-04",
+        "/us/490/1108-12",
+        "/us/490/1108-08",
+        "/us/490/1108-02",
+        "/us/490/1108-07",
+        "/us/490/1108-05",
+        "/us/490/1108-11",
+        "/us/490/1108-10",
+        "/us/490/1108-03"
+      ]
+    },
+    {
+      "cite": "865 F.2d 364",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10526810,
+        3464690
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "374"
+        },
+        {
+          "page": "374-75"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/865/0364-01",
+        "/us-app-dc/275/0145-01"
+      ]
+    },
+    {
+      "cite": "453 U.S. 322",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11722623
+      ],
+      "weight": 3,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "331-32"
+        },
+        {
+          "page": "2795-96"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/453/0322-01"
+      ]
+    },
+    {
+      "cite": "528 F.2d 69",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1079786
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "72"
+        },
+        {
+          "page": "72"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/528/0069-01"
+      ]
+    },
+    {
+      "cite": "391 U.S. 418",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1767638
+      ],
+      "weight": 3,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "424"
+        },
+        {
+          "page": "1721-22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/391/0418-01"
+      ]
+    },
+    {
+      "cite": "78 L.Ed.2d 82",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 S.Ct. 67",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "464 U.S. 813",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6233123,
+        6233412,
+        6232548,
+        6231878,
+        6231605,
+        6231320,
+        6233755,
+        6232255
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/464/0813-06",
+        "/us/464/0813-07",
+        "/us/464/0813-05",
+        "/us/464/0813-03",
+        "/us/464/0813-02",
+        "/us/464/0813-01",
+        "/us/464/0813-08",
+        "/us/464/0813-04"
+      ]
+    },
+    {
+      "cite": "684 F.2d 648",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        529558
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "654"
+        },
+        {
+          "page": "655"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/684/0648-01"
+      ]
+    },
+    {
+      "cite": "29 U.S.C. \u00a7 186",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 R.I. 211",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3063408
+      ],
+      "weight": 3,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "456-57"
+        },
+        {
+          "page": "456"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/103/0211-01"
+      ]
+    },
+    {
+      "cite": "293 S.C. 456",
+      "category": "reporters:state",
+      "reporter": "S.C.",
+      "case_ids": [
+        2180504,
+        2180499
+      ],
+      "weight": 3,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "618"
+        },
+        {
+          "page": "619"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sc/293/0456-01",
+        "/sc/293/0456-02"
+      ]
+    },
+    {
+      "cite": "493 F.2d 995",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        198803
+      ],
+      "pin_cites": [
+        {
+          "page": "999"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/493/0995-01"
+      ]
+    },
+    {
+      "cite": "561 N.E.2d 1273",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "1274-75",
+          "parenthetical": "trustee-\"primary beneficiary,\" with \"broad powers ... to do all ... acts as she judged necessary or desirable to carry out the purposes of the trust,\" engaged in \"proper exercise of her discretion as trustee\" when she sold trust's \"only asset remaining\" to provide for her support"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Ill.Dec. 577",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "578-79"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "204 Ill.App.3d 23",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        2577779
+      ],
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/204/0023-01"
+      ]
+    },
+    {
+      "cite": "288 Ark. 96",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8717656
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "parenthetical": "where settlor \"meant to have benefit of the [two trustee-beneficiaries'] best judgment,\" court reviews distribution of assets among the four beneficiaries only to ensure distribution was not \"arbitrary\" but was \" 'appropriate, fair, just, and equitable' \""
+        },
+        {
+          "page": "405-06",
+          "parenthetical": "where settlor \"meant to have benefit of the [two trustee-beneficiaries'] best judgment,\" court reviews distribution of assets among the four beneficiaries only to ensure distribution was not \"arbitrary\" but was \" 'appropriate, fair, just, and equitable' \""
+        },
+        {
+          "page": "405",
+          "parenthetical": "similar facts, but imposing only ordinary trust law review"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/288/0096-01"
+      ]
+    },
+    {
+      "cite": "481 U.S. 41",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6208979
+      ],
+      "weight": 5,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "56",
+          "parenthetical": "Congress intended development of a \"federal common law of rights and obligations under ERISA-regulated plans\""
+        },
+        {
+          "page": "1557-58",
+          "parenthetical": "Congress intended development of a \"federal common law of rights and obligations under ERISA-regulated plans\""
+        },
+        {
+          "parenthetical": "Congress intended development of a \"federal common law of rights and obligations under ERISA-regulated plans\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/481/0041-01"
+      ]
+    },
+    {
+      "cite": "456 F.Supp. 559",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4030386
+      ],
+      "weight": 5,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "562"
+        },
+        {
+          "page": "562"
+        },
+        {
+          "page": "569"
+        },
+        {
+          "page": "566, 569"
+        },
+        {
+          "page": "567"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/456/0559-01"
+      ]
+    },
+    {
+      "cite": "538 F.Supp. 463",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        5671521
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "470"
+        },
+        {
+          "page": "467, 470-71",
+          "parenthetical": "\"dual loyalties\" problem, requiring closer scrutiny, in decision by trustees, all officers of employer or its subsidiaries, to have pension plan purchase stock in employer company in support of management's efforts to defeat takeover attempt"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/538/0463-01"
+      ]
+    },
+    {
+      "cite": "732 F.2d 325",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1947618
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "333"
+        },
+        {
+          "page": "333-34"
+        },
+        {
+          "page": "334-35"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/732/0325-01"
+      ]
+    },
+    {
+      "cite": "98 L.Ed.2d 650",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        11300045
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/347/0222-01"
+      ]
+    },
+    {
+      "cite": "108 S.Ct. 698",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "484 U.S. 1005",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        600224,
+        600547,
+        601060,
+        601642,
+        600747,
+        599886,
+        600718,
+        599217,
+        601842,
+        600087,
+        600568,
+        600279,
+        600475
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/484/1005-08",
+        "/us/484/1005-07",
+        "/us/484/1005-06",
+        "/us/484/1005-12",
+        "/us/484/1005-01",
+        "/us/484/1005-11",
+        "/us/484/1005-04",
+        "/us/484/1005-05",
+        "/us/484/1005-10",
+        "/us/484/1005-13",
+        "/us/484/1005-02",
+        "/us/484/1005-09",
+        "/us/484/1005-03"
+      ]
+    },
+    {
+      "cite": "821 F.2d 572",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1699990
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "578-80"
+        },
+        {
+          "page": "578-79"
+        },
+        {
+          "page": "580"
+        },
+        {
+          "page": "579"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/821/0572-01"
+      ]
+    },
+    {
+      "cite": "861 F.2d 217",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10526006
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "219"
+        },
+        {
+          "page": "219, 218"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/861/0217-01"
+      ]
+    },
+    {
+      "cite": "664 F.2d 854",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1166915
+      ],
+      "pin_cites": [
+        {
+          "page": "858"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/664/0854-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 101",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12031608
+      ],
+      "weight": 9,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "110",
+          "parenthetical": "standards from common law of trusts \" 'applicable to [ERISA] fiduciaries' \""
+        },
+        {
+          "page": "954",
+          "parenthetical": "standards from common law of trusts \" 'applicable to [ERISA] fiduciaries' \""
+        },
+        {
+          "parenthetical": "standards from common law of trusts \" 'applicable to [ERISA] fiduciaries' \""
+        },
+        {
+          "page": "110"
+        },
+        {
+          "page": "954",
+          "parenthetical": "\"legislative history confirms\" that \" 'certain principles developed in the evolution of the law of trusts' \" apply to ERISA fiduciaries"
+        },
+        {
+          "page": "111"
+        },
+        {
+          "page": "954"
+        },
+        {
+          "page": "109-11"
+        },
+        {
+          "page": "953-54",
+          "parenthetical": "same standard for review of trustees' discretionary actions under ERISA as for review of trustees' actions under LMRA"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0101-01"
+      ]
+    },
+    {
+      "cite": "841 F.2d 444",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11297210
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "449"
+        },
+        {
+          "page": "449-50"
+        },
+        {
+          "page": "449"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/841/0444-01"
+      ]
+    },
+    {
+      "cite": "29 U.S.C. \u00a7 1104",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)",
+          "parenthetical": "nearly identical language in ERISA provision"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 U.S.C. \u00a7\u00a7 401-417",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "950 F.2d 805",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10524107
+      ],
+      "pin_cites": [
+        {
+          "page": "809"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/950/0805-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 242",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6206897
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "248, 250-52, 255"
+        },
+        {
+          "page": "2510, 2511-12, 2513-14"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0242-01"
+      ]
+    },
+    {
+      "cite": "29 U.S.C. \u00a7\u00a7 1001-1461",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "parenthetical": "Employee Retirement Income Security Act (\"ERISA\")"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1114,
+    "char_count": 23751,
+    "ocr_confidence": 0.777,
+    "pagerank": {
+      "raw": 1.859225825107361e-07,
+      "percentile": 0.724622555214609
+    },
+    "sha256": "8c4a4f55ad588e702cea4b3d29d4feb08abb483564c63adfb005e587b4ac496a",
+    "simhash": "1:1a1c9a3066a35569",
+    "word_count": 3762
+  },
+  "last_updated": "2024-02-27T17:05:59.513684+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before BREYER, Chief Judge, CYR, Circuit Judge, and BOYLE, District Judge."
+    ],
+    "parties": [
+      "William MAHONEY, et al., Plaintiffs, Appellants, v. BOARD OF TRUSTEES, Boston Shipping Association-International Longshoremen\u2019s Association, AFL-CIO Pension Plan, Defendants, Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "BREYER, Chief Judge.\nBetween 1986 and 1990 the trustees of the Boston longshoremen\u2019s pension plan significantly increased the size of retirement pensions. In doing so, they divided the increases unevenly, treating longshoremen who had already retired less favorably than those who were still working. Members of the former group claim that the trustees thereby violated the fiduciary duty they owe to already-retired longshoremen. See 29 U.S.C. \u00a7\u00a7 1001-1461 (Employee Retirement Income Security Act (\u201cERISA\u201d)). The district court granted summary judgment for the trustees. We affirm.\nI\nFacts\nThe record, read appropriately in appellants\u2019 favor, Fed.R.Civ.P. 56; Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248, 250-52, 255, 106 S.Ct. 2505, 2510, 2511-12, 2513-14, 91 L.Ed.2d 202 (1986); Rodrigues v. Furtado, 950 F.2d 805, 809 (1st Cir.1991), indicates the following:\n1. The longshoremen\u2019s pension plan has fourteen trustees. Working members of the longshoremen\u2019s union elect seven; representatives of Port of Boston shipping companies, which employ longshoremen, select the other seven.\n2. From 1976 (when the pension plan was reorganized as an ERISA plan) through 1983, the pension plan was \u201cunderfunded.\u201d That is to say, the plan did not have sufficient assets to pay for the benefits it already owed or had promised. The shipping companies increased the level of contributions. Also, the value of the plan\u2019s investments began to rise much more rapidly than predicted.\n3. After 1983, the plan became \u201cover-funded.\u201d That is to say, the plan had significantly more assets than it needed to pay for the benefits it then owed or had promised. The plan\u2019s actuary concluded that the plan risked tax penalties applicable to pension plans with excess contributions. See 26 U.S.C. \u00a7\u00a7 401-417.\n4. The trustees then began to raise benefits. They did so in a series of changes approved in March 1987, April 1988, April 1989, and March 1990.\n5. The changes increased both (a) existing pensions paid to longshoremen already retired, and (b) future pensions promised to longshoremen still at work. The increases paid to members of the former group were much smaller than those promised to members of the latter group. Take, for example, the pension paid a longshoreman retiring after thirty years of service. The changes meant that the monthly pension of such a longshoreman who retired before 1986 went from $750 to $800, then to $825, then to $835, and then to $875. The monthly pension promised to such a longshoreman who was still at work in 1990 went from $750 to $1050, then to $1200, then to $1320, then to $1575. Moreover, the monthly pension paid to already-retired longshoremen had a \u201ccap\u201d of $875 (even for those who retired after more than thirty years of work). .But, the monthly pension promised to longshoremen still at work had a \u201ccap\u201d of $2100 (the amount paid to those retiring after forty or more years of work). (See Appendix.)\n6. The changes \u201csolved\u201d the overfund-ing problem. From 1986 to 1989, the value of the plan\u2019s assets had risen by $12 million more than the plan\u2019s actuary had originally projected. The pension changes that the trustees voted used $8 million of this $12 million to pay for increased benefits for the approximately 600 already-retired longshoremen. The remaining $4 million would help pay for the increased benefits promised to the approximately 350 to 500 longshoremen still at work.\n7. The record reveals that, when asked why the trustees gave smaller increases to longshoremen who had already retired:\n\u2014three trustees said they did not remember any discussion of the matter or know why the trustees voted as they did;\n\u2014one trustee said they had simply followed recommendations of the union and the plan\u2019s actuary;\n\u2014the plan\u2019s actuary said that trustees, in fixing pensions for working longshoremen, looked to pensions paid at other competitive ports;\n\u2014the plan\u2019s administrator (present at the trustees\u2019 meetings) said that the trustees set working longshoremen\u2019s pensions with an eye toward pensions being paid elsewhere, and that the trustees had not discussed why they voted lesser increases to already-retired longshoremen; and\n\u2014one trustee said that he believed they need give no increases to those who had already retired as they were already receiving everything they had been promised when they retired.\nAs we have said, a group of longshoremen who retired before the trustees voted the changes challenged the allocation of benefits that the trustees chose, an allocation that gave them smaller pension increases than it promised to longshoremen who were still at work. As we have also said, the district court rejected this challenge and granted summary judgment in the trustees' favor.\nII\nThe Law\nA\nThe Legal Standard\nThe appellants concede that ordinarily a court, in deciding whether trustees have violated the common law-based fiduciary obligations that ERISA imposes, 29 U.S.C. \u00a7 1104, will simply ask whether their decisions are \u201carbitrary and capricious in light of the trustees\u2019 responsibilities to all potential beneficiaries.\u201d Cleary v. Graphic Communications Int\u2019l Union Supplemental Retirement and Disability Fund, 841 F.2d 444, 449 (1st Cir.1988); Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101, 110, 109 S.Ct. 948, 954, 103 L.Ed.2d 80 (1989) (standards from common law of trusts \u201c \u2018applicable to [ERISA] fiduciaries\u2019 \u201d) (citation omitted); see also Palino v. Casey, 664 F.2d 854, 858 (1st Cir.1981). They point out that here, however, seven of the plan\u2019s trustees (those selected by the union) were themselves working longshoremen, not retired longshoremen. These seven trustees therefore benefitted personally from a decision that gave larger increases to the former group. And, for that reason, the appellants argue, we should apply an especially strict standard of review. They point to several cases which, they say, support their claim. See Pilon v. Retirement Plan for Salaried Employees of Great N. Nekoosa Corp., 861 F.2d 217, 219 (9th Cir.1988); Deak v. Masters, Mates and Pilots Pension Plan, 821 F.2d 572, 578-80 (11th Cir.1987), cert. denied, 484 U.S. 1005, 108 S.Ct. 698, 98 L.Ed.2d 650 (1988); Struble v. New Jersey Brewery Employees\u2019 Welfare Trust Fund, 732 F.2d 325, 333 (3d Cir.1984); Donovan v. Bierwirth, 538 F.Supp. 463, 470 (E.D.N.Y.1981); Winpisinger v. Aurora Corp. of Illinois, Precision Castings Div., 456 F.Supp. 559, 562 (N.D.Ohio 1978).\nWe conclude, however, that no special, strict standard of review is appropriate in this case, for several reasons. First, we have examined the ordinary law of trusts \u2014 law that guides, but does not control, our decision. See Firestone Tire & Rubber Co., 489 U.S. at 110, 109 S.Ct. at 954 (\u201clegislative history confirms\u201d that \u201c \u2018certain principles developed in the evolution of the law of trusts\u2019 \u201d apply to ERISA fiduciaries) (citation omitted); Pilot Life Ins. Co. v. Dedeaux, 481 U.S. 41, 56, 107 S.Ct. 1549, 1557-58, 95 L.Ed.2d 39 (1987) (Congress intended development of a \u201cfederal common law of rights and obligations under ERISA-regulated plans\u201d). We have found that, under the common law of trusts, trustees may be included among the beneficiaries of a trust. Restatement (Second) of Trusts \u00a7\u00a7 99, 115 (1959); see also William F. Fratcher, 2 Scott on Trusts \u00a7\u00a7 99.2, 115 (4th ed. 1988). Such trustees, like trustees generally, have the power to do acts that are \u201cnecessary or appropriate to carry out the purposes of the trust and are not forbidden by the terms of the trust.\u201d Restatement (Second) of Trusts \u00a7 186. Moreover, \u201c[w]here discretion is conferred upon the trustee with respect to the exercise of a power,\u201d including the \u201cpower[ ] to allocate the beneficial interest among various beneficiaries,\u201d ordinarily the trustee\u2019s \u201cexercise is not subject to control by the court, except to prevent an abuse by the trustee of his discretion.\u201d Id. \u00a7 187 & cmt. c; see also id. \u00a7 183 cnit. a (\u201cBy the terms of the trust the trustee may have discretion to favor one beneficiary over another.\u201d); 3A Scott on Trusts \u00a7 232 (trustee\u2019s \u201cduty of impartiality ... ordinarily\u201d gives him \u201cconsiderable discretion\u201d in deciding the \u201cbalance\u201d between successive beneficiaries).\nWe have also found four state court cases that consider specifically whether the ordinary, trust law standard of review applies where (as here) the trustee exercises his discretionary powers to favor a group of beneficiaries of which he is a member. Two of these cases say that the ordinary standard does apply. Deal v. Huddle-ston, 288 Ark. 96, 702 S.W.2d 404, 405-06 (1986) (where settlor \u201cmeant to have benefit of the [two trustee-beneficiaries\u2019] best judgment,\u201d court reviews distribution of assets among the four beneficiaries only to ensure distribution was not \u201carbitrary\u201d but was \u201c \u2018appropriate, fair, just, and equitable\u2019 \u201d); Bracken v. Block, 204 Ill.App.3d 23, 149 Ill.Dec. 577, 578-79, 561 N.E.2d 1273, 1274-75 (1990) (trustee-\u201cprimary beneficiary,\u201d with \u201cbroad powers ... to do all ... acts as she judged necessary or desirable to carry out the purposes of the trust,\u201d engaged in \u201cproper exercise of her discretion as trustee\u201d when she sold trust\u2019s \u201conly asset remaining\u201d to provide for her support); see also Maytag v. United States, 493 F.2d 995, 999 (10th Cir.1974).\nThe other two cases applied a stricter-than ordinary standard. First Union Nat\u2019l Bank of South Carolina v. Cisa, 293 S.C. 456, 361 S.E.2d 615, 618 (1987); Armington v. Meyer, 103 R.I. 211, 236 A.2d 450, 456-57 (1967). But, these cases involved situations in which the risk of bias or abuse was particularly great. In one of them, the potentially favored group of beneficiaries included only the trustees themselves. Armington, 236 A.2d at 456; but cf. Deal, 702 S.W.2d at 405 (similar facts, but imposing only ordinary trust law review). In the other case, the settlor\u2019s apparent grant of authority to the trustee-beneficiary (to participate in discretionary decisions to distribute funds to herself) was, in the court\u2019s view, ambiguous. First Union Nat\u2019l Bank, 361 S.E.2d at 619.\nWe conclude that the common law of trusts supports the application of the ordinary, \u201carbitrary and capricious\u201d standard where, as here, the trustees exercised clearly granted discretion to benefit one group of beneficiaries more than another, and the trustees benefited from that action as members of the much larger, favored group.\nSecond, this case involves a pension plan that is subject to the Labor-Management Relations Act (\u201cLMRA\u201d), 29 U.S.C. \u00a7 186, as well as to ERISA. And, that fact gives rise to special considerations that argue in favor of applying the ordinary, \u201carbitrary and capricious\u201d standard. The LMRA requires that \u201cemployees and employers are equally represented in the administration\u201d of pension plans receiving employer contributions. Id. \u00a7 186(c)(5)(B); cf. id. \u00a7 1108(c)(3) (ERISA provision permitting employee benefit plans to include union representatives as trustees). Labor representatives may themselves be active, working union members. Where they are, they often will have personal interests similar to some, but not all, of a plan\u2019s beneficiaries. To apply a special, strict standard of review in all such circumstances could tip the balance of decision-making power, on joint employer-union administered boards, in favor of the employers (whose representatives could more often propose and support pension formulas and funding levels without being subjected to close judicial scrutiny). It could discourage certain benefit plans from including union members on their boards of trustees. It would risk having courts substitute their judgments for those of the trustees on many questions best left to trustees\u2019 discretion and expertise. See Firestone Tire & Rubber Co., 489 U.S. at 111, 109 S.Ct. at 954; Elser v. I.A.M. Nat\u2019l Pension Fund, 684 F.2d 648, 654 (9th Cir.1982), cert. denied, 464 U.S. 813, 104 S.Ct. 67, 78 L.Ed.2d 82 (1983). And it could embroil courts in intra-union conflicts better left for resolution by the employees\u2019 own representatives. Cf. NLRB v. Indus. Union of Marine & Shipbuilding Workers, 391 U.S. 418, 424, 88 S.Ct. 1717, 1721-22, 20 L.Ed.2d 706 (1968).\nThird, we disagree with the appellants about the meaning of ERISA (and LMRA) case law. The Ninth Circuit, when reviewing a nearly identical claim of discrimination between present and future pension beneficiaries, applied the \u201carbitrary and capricious\u201d standard, and not a stricter standard, of review. Toensing v. Brown, 528 F.2d 69, 72 (9th Cir.1975) (applying LMRA); Firestone Tire & Rubber Co., 489 U.S. at 109-11, 109 S.Ct. at 953-54 (same standard for review of trustees\u2019 discretionary actions under ERISA as for review of trustees\u2019 actions under LMRA); cf. NLRB v. Amax Coal Co., 453 U.S. 322, 331-32, 101 S.Ct. 2789, 2795-96, 69 L.Ed.2d 672 (1981).\nThe cases that appellants cite for a \u201cstricter standard\u201d do not involve the kind of conflict at issue here. Rather, they concern conflicts not among the interests of different beneficiaries, but conflicts between (a) the interests of beneficiaries and (b) the interests of a now-beneficiary. They involve, in the language of ordinary trust law, claimed breaches of the duty of loyalty to beneficiaries, not the duty of impartiality among beneficiaries. Compare Restatement (Second) of Trusts \u00a7 170(1) (trustees must act \u201csolely in the interests of the beneficiary\u201d) and 29 U.S.C. \u00a7 1104(a) (nearly identical language in ERISA provision) with Restatement (Second) of Trusts \u00a7 183. In Struble, 732 F.2d 325, for example, the court said that an especially strict standard of review would apply where employer trustees (deadlocked with union trustees but upheld by an umpire) returned a pension fund surplus to the contributing employers. The court specified that an ordinary, \u201carbitrary and capricious\u201d standard of review would have applied if the conflict had been among beneficiaries\u2019 interests. The claim before the court, however, was\nnot that the trustees have incorrectly balanced valid interests [of \u201cpresent claimants\u201d and \u201cfuture claimants\u201d], but rather that they have sacrificed valid interests to advance the interests of non-beneficiaries [i.e., the employers].\nId. at 333-34.\nThe court in Pilon, 861 F.2d 217, ultimately seems to have applied only an \u201carbitrary and capricious\u201d standard of review to a trustee who interpreted plan language unfavorably to the company\u2019s star salesman. It also said that \u201ccloser examination\u201d was warranted where the plan\u2019s sole trustee was also the salesman\u2019s employer, but it said so because\nthe trustee of an employer-administered plan such as the one here serves two masters: as trustee, he is obliged to act in the best interests of plan beneficiaries, but as a businessperson, he must also tend to his profit margin.\nId. at 219, 218. To that extent, the Pil\u00f3n court\u2019s endorsement of closer scrutiny also seems rooted in a conflict between beneficiaries and non-beneficiaries (rather than among beneficiaries).\nThe court in Deak, 821 F.2d 572, did not apply a special, strict standard of review. To the contrary, it held that the \u201carbitrary and capricious\u201d standard applied in reviewing a plan amendment that favored (a) retired persons who went back to work for employers that contributed to the plan over (b) retired persons who went back to work for non-contributing employers. It found the amendment arbitrary because the amendment\u2019s \u201cpurpose [was one] of bolstering the Union\u2019s stronghold on the supply of masters, mates and pilots,\u201d and not one which served the interests of beneficiaries. Id. at 578-79. The court added that, \u201cuntil a situation arises which requires action in the interest of a party other than, and in conflict with the interests of, the plan beneficiaries,\u201d trustees need not act with the special \u201ccaution\u201d required \u201cin areas of [such] potential conflicts of interest.\u201d Id. at 580.\nOne of the two district court cases to which appellants refer also involves a conflict between, on the one hand, beneficiary interests and, on the other hand, the interests of non-beneficiaries (specifically, management interests) to which the trustees might have been particularly sensitive (as members of management). Bierwirth, 538 F.Supp. at 467, 470-71 (\u201cdual loyalties\u201d problem, requiring closer scrutiny, in decision by trustees, all officers of employer or its subsidiaries, to have pension plan purchase stock in employer company in support of management\u2019s efforts to defeat takeover attempt).\nThe other district court case involved a board, with equal numbers of union and employer trustees, which cancelled \u201cpast-service credits\u201d held by non-union employees whose employers joined the plan. Win-pisinger, 456 F.Supp. at 562. The district court did apply an especially strict standard of review. It is not clear, however, just why the court did so. It may have thought that the trustees\u2019 action served non-beneficiary interests (those of the union in encouraging union membership), id. at 569; or it may have thought the amendment seemed too close to a violation of ERISA\u2019s prohibition on revoking vested pension benefits, see id. at 566, 569; or it may simply have misunderstood the relevant ERISA statute, id. at 567. Regardless, Winpi-singer does not contain an analysis of these matters, and, whatever support it offers appellants, it conflicts with later, circuit court authority.\nWe conclude, for the reasons stated, that we must review the trustees\u2019 action before us under an \u201carbitrary and capricious\u201d standard. See generally Cleary, 841 F.2d at 449-50; Foltz v. U.S. News & World Report, Inc., 865 F.2d 364, 374 (D.C.Cir.), cert. denied, 490 U.S. 1108, 109 S.Ct. 3162, 104 L.Ed.2d 1024 (1989); Stewart v. National Shopmen Pension Fund, 795 F.2d 1079, 1083 (D.C.Cir.1986); Morse v. Stanley, 732 F.2d 1139, 1145 (2d Cir.1984).\nB\nThe Standard Applied\nWe agree with the district court that the trustees\u2019 decision was not arbitrary or capricious. First, in the absence of some special circumstance, it does not seem arbitrary or capricious for trustees, to whom the trust agreement gives discretionary powers in setting pension benefit levels, to promise current workers much larger pension increases than those paid to workers who have already retired. Imagine a fully-funded pension plan with assets just sufficient to provide a pension, at Level x, for all employees, both those still working and those who have already retired. A decision by the trustees to double the pension, to Level 2x, will require significantly increased contributions to pay for the increased pensions. Employees still working (or the employers who pay for the work of those employees) will make those contributions. Employees who have already retired will not make those contributions. In such circumstances, it seems fair for the trustees to decide to pay Level 2x only to those employees who are still working.\nReal-world situations may not perfectly embody this example. But, in light of the example, it is not surprising that courts, considering this kind of \u201cdiscrimination\u201d issue, have consistently held that trustees lawfully may increase benefits promised to workers not yet retired without increasing the benefits of those who have already retired. See Toensing, 528 F.2d at 72; see also Cleary, 841 F.2d at 449; cf. 29 C.F.R. \u00a7 2510.3 \u2014 3(d)(2)(ii) (employee pension plan may buy out its continuing obligations to beneficiary by making lump sum payment or purchasing annuity).\nSecond, there is a \u201cspecial circumstance\u201d present here, but it does not change the result. That circumstance consists of the fact that, after the early 1980\u2019s, the value of the pension plan\u2019s investments increased far more than' had been predicted. By 1990, the value of the plan\u2019s investments had increased by $12 million more than needed to pay the pensions owed and promised as of the mid-1980\u2019s. Past contributions by or on behalf of retired workers had made some of those fruitful investments possible. Consequently, those retired workers might seem entitled to share in the increased value of the investments, through a larger increase in the size of their pensions. The appellants argue that the comparatively small increase in the size of retired longshoremen\u2019s pensions denies them the share of the increase in investment value that is their due. Cf. Cent. States, Southeast & Southwest Areas Pension Fund v. Cent. Transp., Inc., 472 U.S. 559, 576 n. 18, 105 S.Ct. 2833, 2843 n. 18, 86 L.Ed.2d 447 (1985) (\u201cRetirees ... clearly are within the class to whom [ERISA] trustees owe a duty.\u201d).\nThe fatal flaw in this argument is that the record shows, without dispute, that the already-retired longshoremen (who accounted for fewer than two-thirds of all longshoremen) received more than two-thirds of the unexpected increase in investment value. An uncontested actuarial affidavit states that the increase amounted to $12 million above predicted levels; that $8 million was allocated to pay for the cost of increasing pensions for already-retired longshoremen; and that $4 million was allocated to help pay the cost of the pension increases promised to workers still at work (with future contributions presumably paying any remaining costs of pensions for this group). This allocation seems reasonable on its face. And, it seems obviously not arbitrary once one recalls that a perfect match between individual contribution and individual pension is neither a practical possibility in such circumstances, nor legally required for this kind of pension plan. Elser, 684 F.2d at 655 (quoting Cent. Tool Co. v. Int\u2019l Ass\u2019n of Machinists Nat\u2019l Pension Fund, 523 F.Supp. 812, 817 (D.D.C.1981)).\nWe can find no other \u201cspecial circumstance\u201d that might show the trustees\u2019 decision to have been arbitrary. The appellants point to the fact that the trustees did not provide a specific reason for their decision. Case law, however, while requiring us to evaluate trustees\u2019 actions in light of their \u201cactual intent at the time,\u201d Deak, 821 F.2d at 579; cf. Struble, 732 F.2d at 334-35, does not require trustees to articulate their reasons formally, see Foltz, 865 F.2d at 374-75. The record before us indicates that the trustees simply followed the recommendations of the actuary and the union. It indicates that, as a general practice, they set working longshoremen\u2019s pensions on the basis of comparisons with pension plans in other ports. It indicates that some of the trustees may have believed they did not have to increase the level of pensions being paid to already retired workers. It also indicates that the actuary believed the pension levels, and the division of the \u201csurplus,\u201d were actuarially reasonable. These reasons and facts are consistent with a fair, nonarbitrary decision. And the resulting decision, as we have said, is not arbitrary on its face. Under these circumstances, the law does not require the trustees to do more.\nThe judgment of the district court is\nAffirmed.\nAPPENDIX\nRetirement date:\nForty year cap\u201d on years of service counted in pension calculation did than 40 years could receive more than-$1400. not apply; those with more",
+        "type": "majority",
+        "author": "BREYER, Chief Judge."
+      }
+    ],
+    "attorneys": [
+      "Paul A. Manoff, Boston, Mass., for plaintiffs, appellants.",
+      "Henry C. Dinger with whom Daniel P. Condon, Donna Stoehr Hanlon and Goodwin, Procter & Hoar, Boston, Mass., were on brief, for defendants, appellees."
+    ],
+    "corrections": "",
+    "head_matter": "William MAHONEY, et al., Plaintiffs, Appellants, v. BOARD OF TRUSTEES, Boston Shipping Association-International Longshoremen\u2019s Association, AFL-CIO Pension Plan, Defendants, Appellees.\nNo. 91-2202.\nUnited States Court of Appeals, First Circuit.\nHeard May 5, 1992.\nDecided Aug. 18, 1992.\nPaul A. Manoff, Boston, Mass., for plaintiffs, appellants.\nHenry C. Dinger with whom Daniel P. Condon, Donna Stoehr Hanlon and Goodwin, Procter & Hoar, Boston, Mass., were on brief, for defendants, appellees.\nBefore BREYER, Chief Judge, CYR, Circuit Judge, and BOYLE, District Judge.\nOf the District of Rhode Island, sitting by designation."
+  },
+  "file_name": "0968-01",
+  "first_page_order": 1028,
+  "last_page_order": 1035
+}

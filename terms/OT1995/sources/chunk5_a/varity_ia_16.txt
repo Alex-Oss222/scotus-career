@@ -1,0 +1,886 @@
+BEST AVAILABLE COPY, 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+TABLE OF AUTHORITIES ................... ii 
+INTEREST OF AMICUS CURIAE ............... l 
+ee 3 
+SUMMARY OF ARGUMENT .................. 5 
+CE ae 6 
+I. ERISA § 502(a)(3) AUTHORIZES 
+INDIVIDUAL RELIEF FOR PARTICIPANTS 
+AND THEIR BENEFICIARIES FOR A 
+6 
+A. The Plain Language of ERISA § 502(a)(3) 
+Authorizes Equitable Relief for Individual 
+Participants and Their Beneficiaries to 
+Redress a Fiduciary Breach. ............ 7 
+
+
+B. ERISA’s Civil Enforcement Scheme Confirms 
+the Plain Meaning of ERISA § 502(a)(3) 
+Authorizing Equitable Relief to Individual 
+Participants and Beneficiaries to Redress 
+a Fiduciary Breach. ..........200.. coe we 
+
+
+C. ERISA’s Policy Corroborates the Plain 
+Meaning of ERISA § 502(a)(3) Authorizing 
+Equitable Relief to Individual Participants 
+and Beneficiaries to Redress a Fiduciary 
+DE VisGuteaka ueee eyes cceecks 14 
+
+
+TG sous dnb beh ae ba was «0 0-0 6 16 
+
+
+TABLE OF AUTHORITIES 
+CASES 
+a eae 7 
+VES Sy re 8 
+115 S. Ct. 1776 (1995)......... wil whee nee 10 
+eS eeaebaneen 10 
+Ne ee esc camel 7 
+MPT, MEU gg no vc ccvcscccoscsucues 14 
+Ww i ' 
+36 F.3d 746 (8th Cir. 1994)............0-- 4, 8, 14 
+WE US. 153 IDI) onc ccc cc ccc cece cece 6, 14 
+sens tenets Noi) — 
+Trust and Savings Bank, 
+Pies eens 10 
+S02 U.S. 215 (1991)... cece cc ccccccceccces 7 
+, | 
+473 U.S. 196 (1985) 0. ccc ccc ccc ccces 10, 11, 12 
+i ia 
+
+
+113 S. Ct. 2063 (1993)... ... ce eee eee eee passim 
+
+
+498 U.S. Tr SES GO Sn 
+New York State Conference of Blue Cross & 
+{1 2 % § — atagi ina 6,9 
+ie 2 Sener ae 
+ne cues ees 
+oe n ETE ti, cs ude cedeese 
+464 U.S. TATE Oe ie 
+
+
+oe 6, 14, 15 
+
+
+3 MB ee 
+
+
+U.S. Sup. Ct. Rules 
+
+
+eg el 
+Dt 226 eka ae a oo ed hee 6 kek oc k does 
+
+
+iv 
+STATUTES 
+Employee Retirement Income Security Act of 1974 (ERISA), 
+
+
+Sp es I bb cbc recccccceoggecees 4 
+§ 20), 29 U.S.C. § IGDID) .. cc ccccccccce 6, 14 
+© SUR), 2 U.S.C. GUISE) on ccc cccccccccces 12 
+§ 502(a)(2), 29 U.S.C. § 1132(a)(2) .......... passim 
+§ 502(a)(3), 29 U.S.C. § 1132(a)(3).........-.-. passim 
+§ 404(a)(1)(A), 29 U.S.C. 1104(a)(1)(A) .......... 5,8 
+GE, BP OU eitee © EDMPED ccc ciccccccccccees 11 
+LEGISLATIVE HISTORY 
+Statement of Sen. Williams, 120 Cong. Rec. 29,933 
+(1974), reprinted in Leg. Hist. at 4745 ............ 14 
+H.R. Conf. Rep. No. 1280, 93d Cong., 2d Sess. 
+(1974), reprinted in Leg. Hist. at 4593 ............. 13 
+MISCELLANEOUS 
+
+
+Shelia R. Zedlewski, “Retirees with Employment-Based 
+
+
+Health Insurance," Trends in Health Benefits 
+Dt sce coven ene Gaeaw ee ae 64.0 64s 2,3 
+
+
+——— aaa 
+
+
+1 
+
+
+No. 94-1471 
+
+
+IN THE 
+Supreme Court of the United States 
+OCTOBER TERM, 1994 
+VARITY CORPORATION, 
+Petitioner, 
+v. 
+
+
+CHARLES HOWE, et al., 
+Respondents. 
+
+
+ON WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS 
+FOR THE EIGHTH CIRCUIT 
+
+
+BRIEF AMICUS CURIAE OF THE 
+AMERICAN ASSOCIATION OF RETIRED PERSONS 
+IN SUPPORT OF RESPONDENTS 
+
+
+INTEREST OF AMICUS CURIAE 
+
+
+The American Association of Retired Persons 
+(AARP) is a nonprofit membership organization of 
+more than thirty-two million ms, age fifty or 
+older, dedicated to addressing the needs and interests 
+of older Americans. AARP seeks through education, 
+advocacy and service to enhance the quality of life for 
+all by promoting independence, dignity and purpose. 
+One of AARP’s primary goals is to promote the 
+economic security of individuals as they age, by 
+
+
+2 
+
+
+increasing the availability, security, equity, and 
+adequacy of health benefits. 
+
+
+Employer-funded retiree health insurance is an 
+important source of income oy for older 
+Americans.” Such coverage provides health benefits 
+for retirees who are under age 65 and ineligible for 
+Medicare benefits as well as “Medigap” coverage for 
+retirees who are over age 65.” 
+
+
+Approximately thirteen million of AARP’s members 
+are under age sixty-five. They are generally not 
+eligible for Medicare and, therefore, rely on employer- 
+funded health benefits. Since the day that AARP was 
+founded in 1958, access to health care has been a 
+major association priority. AARP’s interest in health 
+care benefits for an aging work force stems from its 
+longstanding commitment to address the health care 
+needs of older Americans. 
+
+
+Health insurance coverage is essential to adequate 
+medical care in this country. A major concern of 
+AARP members is whether they will have adequate 
+health insurance coverage, especially in the event of 
+hospitalization, long-term disability or catastrophic 
+illness. Significant barriers frequently faced by AARP 
+members in obtaining such coverage are preexisting 
+medical conditions or exorbitant costs. 
+
+
+If employers are permitted to eliminate coverage for 
+retirees under an employer health insurance plan, 
+notwithstanding corporate representations to the contrary, 
+
+
+V Shelia R. Zedlewski, “Retirees with Employment-Based Health 
+Insurance,” in Trends in Health Benefits 147, 148-49 (eds. J. Turner and 
+D. Beller, U.S. Department of Labor Pension and Welfare Benefits 
+Administration 1993). 
+
+
+uv "Medigap" coverage is insurance that pays for certain medical 
+expenses that are not covered by Medicare. Id. at 147. 
+
+
+i 
+
+
+3 
+
+
+it may be virtually impossible for the retirees to 
+obtain comparable coverage elsewhere. Since a 
+number of illnesses which require extensive treatment 
+occur more frequently in the older peencen, AARP 
+members face significant risks when their health 
+benefits coverage is terminated during retirement. The 
+outcome of this case could effect the provision of 
+health benefits coverage for a substantial number of 
+retirees. Recent les report that approximately 8 
+million retirees receive health benefits coverage under 
+an employer-sponsored plan.” In light of the 
+significance of the issues presented by this case, 
+AARP respectfully submits this brief amicus curiae.¥ 
+
+
+BACKGROUND 
+
+
+Petitioner, Varity Corporation (Varity), created an 
+elaborate business scheme, in part, to terminate health 
+benefits coverage for many of its retirees. To avoid 
+financial problems, Varity spun off a failing sales 
+division into a separate a. From its inception, 
+the spinoff company was substantially underfunded and 
+lacked the financial resources to provide health benefits 
+for its employees and retirees. 
+
+
+Varity nonetheless transferred ten of its retirees 
+from its health plan to the spinoff company’s health 
+plan. Varity never notified the retirees of the transfer 
+nor sought their consent. arity also induced several 
+
+
+¥ This figure is based upon studies for years 1987 and 1988. These 
+studies include those retirees who receive employer-provided coverage 
+until they become eligible for Medicare as well as those retirees whose 
+coverage continues throughout their retirement. Id. at 149. Employers 
+paid all or part of the cost of insurance coverage for approximately 6 
+million of the approximately 8 million retirees who are covered under 
+employer-sponsored plans. Id. at 158. 
+
+
+The written consents of the parties have been filed with the Clerk of 
+the Court pursuant to Supreme Court Rule 37.3. 
+
+
+4 
+
+
+of its employees to transfer to the spinoff company b 
+misleading statements or omissions that failed to notify 
+them that the company was financially unable to 
+continue to provide benefits coverage similar to the 
+coverage that they were receiving, and would be 
+entitled to continue to receive after retirement, under 
+Varity’s health plan. 
+
+
+Two years after it was formed, the spinoff 
+company filed for bankruptcy. The company 
+subsequently terminated its health plan resulting in the 
+complete floss of health benefits coverage for the 
+retirees and employees whom Varity had transferred to 
+the spinoff company’s plan.” But for Varity’s 
+actions, the Respondents would have been entitled to 
+receive health benefits under Varity’s plan. 
+
+
+Respondents filed suit claiming, in part, that 
+Petitioner had breached its fiduciary duty under the 
+Employee Retirement Income Security Act of 1974 
+(ERISA), 29 U.S.C. § 1001 et seq. The U.S. District 
+Court for the Southern District of Iowa entered 
+judgment in favor of Respondents. Howe _v, arity 
+Corp., 36 F.3d 746, 748 (8th Cir. 1994). On appeal, 
+the Eighth Circuit affirmed, holding that Varity had 
+breached its fiduci duty to the Respondents and 
+under ERISA § 502(a)(3), 29 U.S.C. § 1132(a)(3), 
+they were entitled to equitable relief on their own 
+
+
+behalf to redress the breach. Howe v. Varity Corp., 
+36 F.3d at 755. 
+
+
+AARP supports the Eighth Circuit’s opinion which 
+holds fiduciaries liable to individual participants and 
+their beneficiaries when they breach their fiduciary ow 
+by misrepresentations or omissions that cause suc 
+participants and beneficiaries to lose their health 
+
+
+2 Those employees who were induced to transfer to the new 
+corporation also have retired. Thus, all of the Respondents are retirees. 
+Brief of Petitioner at 3. 
+
+
+te 
+
+
+5 
+
+
+benefits coverage.“ As discussed below, the plain 
+meaning of ERISA § 502(a)(3), the structure of the 
+civil enforcement scheme under ERISA § 502(a). 
+ERISA’s legislative history, and its remedial Yn ge wr 
+support affirmance of the Eighth Circuit’s holding that 
+Respondents are entitled to individual relief from 
+Petitioner for its fiduciary breach. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The plain language of ERISA § 502(a)(3) confers 
+authority on participants and beneficiaries to enforce 
+violations for a fiduciary breach and obtain equitable 
+relief to redress such violations. Moreover, any other 
+construction of ERISA § 502(a)(3) to limit available 
+relief only to plan-based relief would render its terms 
+superfluous in remedying fiduciary violations, thereby 
+ignoring the fundamental rule of statutory construction 
+that, i “oy a provision be gay By that 
+every wo some operative effect. , 2. 
+
+a lates, 113 S. Ct. 2063, 2069 
+(1993). 
+
+
+The Eighth Circuit properly held that ERISA 
+§ 502(a)(3) authorizes participants and beneficiaries to 
+obtain individual relief for a breach of fiduciary duty 
+under ERISA § 404(a)(1)(A), 29 U.S.C. 1104(a)(1)(A). 
+Under the appeals court’s holding, the relief available 
+to participants and beneficiaries under ERISA to 
+remedy a claim for a fiduci breach is not limited 
+to a plan but also, in appropriate cases, may flow to 
+individuals. This decision protects participants and 
+
+
+© Certiorari was granted on two questions: (1) whether the relief 
+provided under ERISA § 502(a)(3) authorizes recovery on behalf of 
+individual participants and their beneficiaries for a breach of fiduciary 
+duty, and (2) whether Petitioner breached its fiduciary duty by misleading 
+Respondents, or failing to disclose to them, that their health benefits 
+coverage with the spinoff company were certain to terminate. AARP’s 
+brief addresses only the first question. 
+
+
+6 
+
+
+their beneficiaries by authorizing them to obtain relief 
+on their own behalf when a fiduciary breaches its 
+fiduciary duties under ERISA. 
+
+
+Absent individual relief for a fiduciary breach under 
+ERISA, participants and beneficiaries would be left 
+without a remedy to redress a fiduciary breach in 
+those cases where recovery cannot be made to the 
+plan or where plan-based relief is inappropriate. This 
+result is clearly contrary to ERISA’s stated policy, 
+recognized by this Court, ir_Li 
+Inc., 463 U.S. 85, 90 (1983), of protecting the 
+interests of participants and beneficiaries in employee 
+benefit plans. ERISA § 2(b), 29 U.S.C. § 1001(b). 
+
+
+ARGUMENT 
+
+
+I. ERISA § 502(a)(3) AUTHORIZES INDIVIDUAL 
+RELIEF FOR PARTICIPANTS AND THEIR 
+BENEFICIARIES FOR A FIDUCIARY BREACH. 
+
+
+One of the issues before this Court is whether 
+ERISA § 502(a)(3) authorizes gee by individual 
+participants and their beneficiaries for a fiduciary 
+breach. A first step in statutory analysis is an 
+examination of the statute’s plain language. "“[A]ny 
+exercise of statutory construction [begins] with the text 
+of the provision in question, and move[s] on, as need 
+be, to the structure and purpose of the Act in which 
+it occurs." Ww 
+Cross_& Blue Shield Plans _v. Travelers’ Insurance 
+Co,, 115 S. Ct. 1671, 1677 (1995) (citing Shaw v, 
+Delta_Air Lines, Inc,, 463 U.S. at 95); see, e.g, 
+
+- , 498 U.S. 133, 138 
+(1990) ("To discern Congress’ intent we examine the 
+explicit statutory language and the structure and 
+purpose of the statute.”) 
+
+
+To interpret a statute, one must “‘begin with the 
+language employed by Congress and the assumption 
+that the ordinary meaning of that language accurately 
+
+
+ae 
+
+
+7 
+
+
+expresses the legislative .. FMC Corp, v, 
+Holliday, 498 U.S. 52, 57 (1990) (quoting | Far ‘NN 
+189, 194 (1985)); see also Vv , 112 
+S. Ct. 2242, 2246 (1992) ("The plain language of 
+- +» + ERISA is our determinant."). Even if the 
+Statutory language is unambiguous, the context in which 
+the language is used should be scrutinized in order to 
+confirm its true meaning. i i : 
+Hospital, 502 U.S. 215, 221 (1991) ("the meaning of 
+Statutory language, plain or not, depends on context"). 
+As a last step, a review of the legislative history may 
+assist in determining, or corroborating, the meaning of 
+the statutory language. Blum vy. Stenson, 465 U.S. 
+886, 896 (1984) ("Where . . . resolution of a 
+question of federal law turns on a statute and the 
+intention of Congress, [courts] look first to the 
+Statutory language and then to the legislative history if 
+the statutory language is unclear."). 
+
+
+A. The Plain Language of ERISA § 502(a)(3) 
+Authorizes Equitable Relief for Individual 
+Participants and Their Beneficiaries to 
+Redress a Fiduciary Breach. 
+
+
+Section 502(a)(3) authorizes a civil action - 
+
+
+by a participant, beneficiary, or fiduci (A) to 
+enjoin any act or practice: which violates any 
+provision of this title or the terms of the plan, or 
+(B) to obtain other appropriate equitable relief (i) 
+to redress such violations or (ii) to enforce any 
+provisions of this title or the terms of the plan. 
+
+
+29 U.S.C § 1132(a)(3) (emphasis added). 
+
+
+By its plain terms, ERISA § 502(a)(3) confers 
+enforcement authority on participants and __ their 
+beneficiaries to obtain relief for a fiduciary breach. 
+The provision allows participants and beneficiaries to 
+bring a civil action for injunctive relief for a violation 
+
+
+of “any provision” of Title I and to _ obtain 
+“appropriate equitable relief" to redress a_ violation 
+under Title I or to enforce “any provisions” of that 
+Title. Id. Title I includes ERISA § 404(a)(1) which 
+sets out the standards that govern a fiduciary’s duties 
+with respect to a plan and its participants and 
+beneficiaries.” The only limit imposed on the relief 
+authorized by ERISA § 502(a)(3) is that it be in the 
+form of injunctive or “other appropriate equitable 
+relief." Id.* Accordingly, ERISA § 502(a)(3) by its 
+plain terms provides injunctive or equitable relief 
+running to individual participants and beneficiaries to 
+
+
+!’ ERISA § 404(a) states in relevant part - 
+
+
+[A] fiduciary shall discharge his duties with respect to 
+a plan solely in the interest of the participants and 
+beneficiaries and - 
+_{A) for the exclusive purpose of: 
+(i) providing benefits to participants and their 
+beneficiaries... . 
+
+
+29 U.S.C. § 1104(a). 
+
+
+¥ The Eighth Circuit ordered that Varity be enjoined to enroll 
+Respondents in its health plan and also ordered restitution of the health 
+benefits that Respondents would have received but for Varity’s breach. 
+Howe v. Varity Corp., 36 F.3d at 756-57. Petitioner did not request 
+review of the question of whether such relief constitutes “appropriate 
+equitable relief" under ERISA § 502 (a)(3), and the Court did not grant 
+certiorari on this issue. See n.6, supra. Hence, AARP’s brief does not 
+examine this issue because it is not before the Court. Sup. Ct. R. 
+14. 1(a);~Caspari_v. Bohlen, 114 S.Ct. 948, 952 (1994) ("We have 
+consistently declined to consider issues not raised in the petition for . . 
+. certiorari. . . . Only the questions set forth in the petition, or fairly 
+included therein, will be considered by the Court."). 
+
+
+9 
+redress a fiduciary breach.” 
+
+
+Construing ERISA § 502(a)(3) as authorizing 
+individual relief for a fiduciary breach is consistent 
+with the Court’s analysis of the term “appropriate 
+equitable relief’ under that provision in Mertens v. 
+Hewitt Associates, 113 S. Ct. 2063 (1993). The issue 
+before the Court im Mertens was whether a 
+nonfiduciary who knowingly participated in a fiduciary 
+breach was liable to the plan for losses as a result of 
+such breach. Mertens, 113 S. Ct. at 2066. The 
+Court’s analysis of that question focused on whether 
+Congress intended “appropriate equitable relief” to mean 
+compensatory damages or monetary relief. Id. at 
+2068. In construing that term, the Court applied the 
+established rule that a statute, if possible, be construed 
+in such a fashion that ev word has some operative 
+effect so that no part will be rendered superfluous. 
+Id. at 2069 ("We will not read the statute to render 
+the modifier superfluous.") (citing United States v, 
+Nordic Village, Inc,, 112 S. Ct. 1011, 1015 (1992); 
+Moskal_v, United States, 498 U.S. 103, 109-10 
+(1990)). Under that rule, the Court concluded that 
+“appropriate equitable relief’ wnder ERISA § 502(a)(3) 
+does not mean compensatory damages or monetary 
+relief because that interpretation would render the term 
+“equitable” superfluous. Id. 
+
+
+Applying this rule of statutory construction here 
+precludes reading ERISA § 502(a)(3) as authorizing 
+only plan-based relief for a fiduciary breach. Such an 
+
+
+® Petitioner has ignored this Court’s admonition to "begin as we do in 
+any exercise of statutory construction with the text of the provision in 
+question... ." New York State Conference of Blue Cross & Blue 
+Shield Plans v. Travelers’ Insurance Co., 115 S. Ct. at 1677. Petitioner 
+rejects without comment this basic rule of statutory construction and fails 
+to make any argument that the plain meaning of ERISA § 502(a)(3) 
+supports its interpretation that the provision authorizes only plan-based 
+relief. 
+
+
+10 
+
+
+interpretation would render ERISA § 502(a)(3) 
+superfluous in remedying a fiduciary breach, since 
+ERISA § 502(a)(2}% provides an equitable plan-based 
+remedy for an action enforcing ERISA’s fiduciary duty 
+provisions. i 
+
+v. Russell, 473 U.S. 134, 144 (1985). 
+
+
+Section 502(a)(3) specifically authorizes participants 
+and beneficiaries to bring a civil action to enforce 
+"any" provision under Title I. If Congress had 
+intended to limit ERISA § 502(a)(3)’s enforcement 
+authority, it would not have used the phrase “any” to 
+describe the type of Title I violations that are 
+enforceable under the provision. The use of the term 
+"any" indicates Congress’ intent to make fiduciary 
+breach claims enforceable under ERISA § 502(a)(3). 
+See City of Edmonds v, Oxford House, Inc,, 115 S. 
+Ct. 1776, 1784 n.1 (1995) ("A broad construction of 
+
+
+the ug Poy is mag novel.") (citing John Hancock 
+
+
+Bank, 114 S. Ct. 517, 524 (1993); Citizens’ Bank v. 
+Parker, 192 U.S. 73, 81 (1904) ("The word any 
+excludes selection or distinction.")). Because ERISA 
+§ 502(a)(3) provides an enforcement action for a 
+fiduciary breach - as the plain language of the 
+provision clearly states that it does - it follows that 
+the relief authorized to remedy such violation must be 
+independent from that authorized under ERISA 
+§ 502(a)(2) in order to avoid a construction of ERISA 
+§ 502(a)(3) that would render it superfluous to ERISA 
+§ 502(a)(2) in remedying a fiduciary breach. 
+
+
+10 Section 502(a)(2) states - 
+A civil action may be brought.. . 
+(2) by the Secretary, or by a participant, beneficiary or 
+fiduciary for appropriate relief under section 409. 
+
+
+29 U.S.C. § 1132(a)(2) 
+
+
+11 
+
+
+wre ges | ERISA § 502(a)(3) as authorizing 
+
+
+individual relief to redress a fiduci breach, is not 
+
+luded by the Court’s decision ‘in Russell. Russell 
+eld that a fiduciary could not be held liable under 
+ERISA § 409(a)"’ to a participant or beneficiary for 
+compensatory or punitive damages for a fiduci 
+breach. Russell, 473 U.S. at 148. 
+acknowledged that ERISA § 409 is _ specifically 
+enforceable under, as well as a incorporated by 
+reference into, ERISA § 502(a)(2). . at 140. The 
+Court reasoned that, because the language of ERISA 
+§ 409 authorizes only plan-based relief, the ~oomy | for 
+an action that is brought under ERISA § 502(a)(2) to 
+enforce a violation of § 409(a) runs only to the pian 
+and, thus, does not inure to the benefit of the 
+individual participants or beneficiaries. Id. at 140, 
+144. Because the plaintiff in Russell “relie{d] entirely 
+on § 409(a) and expressly disclaim[ed] reliance on 
+§ 502(a)(3)," the Court declined to consider whether 
+the relief sought was recoverable under ERISA 
+§ 502(a)(3). Id. at 139 n.5. Unquestionably, Russell 
+is explicitly limited to ERISA § 502(a)(2). 
+
+
+l/ _ ERISA § 409(a) states - 
+
+
+Any person who is a fiduciary with respect to a plan who 
+breaches any of the responsibilities, obligations, or duties 
+imposed upon fiduciaries by this title shall be personally 
+liable to make good to such plan any losses to the plan 
+resulting from each such breach, and to restore to such plan 
+any profits of such fiduciary which have been made through 
+use of assets of the plan by the fiduciary, and shall be subject 
+to such other equitable or remedial relief as the court may 
+deem appropriate, including removal of such fiduciary. A 
+fiduciary may also be removed for a violation of section 411 
+of this Act. 
+
+
+29 U.S.C. § 1109(a). 
+
+
+12 
+
+
+Moreover, Russell supports the plain meaning 
+construction of ERISA § 502(a)(3). The Court 
+examined the language of ERISA § 502(a)(2), and the 
+specific incorporation of ERISA § 409 into ERISA 
+§ 502(a)(2), and found that the language of ERISA 
+§ 409 must be given its plain meaning. Quite simply: 
+the Court held that the incorporation of ERISA § 
+requires that relief under ERISA § 502(a)(2) must be 
+limited to the relief provided in ERISA § 409 - plan- 
+based relief. In stark contrast, ERISA § 502(a)(3) 
+does not incorporate ERISA § 409, and therefore 
+ERISA § 409 does not limit the relief to be provided 
+
+
+by that section. Any other reading ignores “an 
+enforcement scheme crafted with . .. evident care.” 
+Id. at 147. 
+
+
+B. ERISA’s Civil Enforcement Scheme Confirms 
+the Plain Meaning of ERISA § 502(a)(3) 
+Authorizing Equitable Relief to Individual 
+Participants and Beneficiaries to Redress a 
+Fiduciary Breach. 
+
+
+The language of ERISA § 502(a)(3) authorizing 
+individual relief to participants and beneficiaries is 
+consistent with ERISA’s “carefully integrated civil 
+enforcement" scheme under ERISA § 502(a). Mertens, 
+113 S. Ct. at 2066 (citing Russell, 473 U.S. at 146). 
+Sections 502(a)(2) and 502(a)(3) provide independent 
+methods for remedying a fiduciary breach. Whereas 
+ERISA § 502(a)(2) authorizes broad recovery for a 
+plan by providing both legal and equitable relief to 
+remedy a fiduciary breach, ERISA § 502(a)(3) 
+authorizes more limited relief for individuals by 
+providing only equitable relief running to participants 
+and beneficiaries to remedy a fiduciary breach. Thus, 
+ERISA § 502(a)(3) complements ERISA’s “integrated” 
+enforcement scheme by authorizing separate relief for 
+participants and beneficiaries to redress a fiduciary 
+breach when plan-based relief is not available or 
+appropriate. 
+
+
+13 
+
+
+This construction of ERISA’s enforcement scheme 
+does not “authorize other remedies that [Congress] 
+simply forgot to incorporate directly." Mertens, 113 
+S. Ct. at 2067 (Citing Russell, 473 U.S. at 146-47). 
+The several references in ERISA § 409 that a 
+fiduciary’s liability thereunder is to the "plan" indicate 
+Congress’ intent that an action by a participant or 
+beneficiary under ERISA § 502(a){2) to enforce ERISA 
+§ 409 be undertaken in a derivative capacity or on 
+behalf of the plan. By comparison, ERISA § 502(a)(3) 
+is devoid of any similar language indicating that the 
+relief authorized thereunder should be construed as 
+being only plan-based. If Congress had wanted the 
+relief authorized under ERISA § 502(a)(3) for a 
+fiduciary breach to also be derivative, it would have 
+drafted the provision to say so. See Russello vy, 
+
+, 464 U.S. 16, 23 (1983) ("Where 
+Congress included particular language in one section of 
+a statute but omits it in another section of the same 
+act, it is generally presumed that Congress acts 
+intentionally and purposely in the disparate inclusion or 
+onctesion.% Because it did not, suggests Congress’ 
+intent to provide under ERISA § 502(a)(3) relief for 
+a fiduciary breach that is separate from the derivative 
+type of relief that is authorized for a fiduciary breach 
+under ERISA § 502(a)(2). 
+
+
+ERISA’s legislative history also indicates Congress’ 
+intent that ERISA § 502(a)(3) authorize individual relief 
+to redress a fiduciary breach. ERISA’s Conference 
+Report states that under ERISA § 502(a) a "civil 
+action may be brought by a participant or beneficiary 
+to recover benefits due under the plan . . . and for 
+relief from [a] breach of fiduciary responsibility." 
+H.R. Conf. Rep. No. 1280, 93d Cong., 2d Sess. 326- 
+37 (1974), reprinted in 3 Subcomm. on Labor of the 
+Senate Comm. of Labor and Public Welfare, 94th 
+Cong., 2d Sess., islati i 
+
+
+Legislative History of the Employee 
+Beurement Income Security Act_of 1974 (Leg. Hist.) 
+4277, 4593-94 (1976). r Williams, a principal 
+
+
+sponsor of ERISA, similarly remarked during the floor 
+
+
+14 
+
+
+debate on final passage of the Act, that under ERISA 
+§ 502(a) “individual participants and beneficiaries will 
+also be able to bring suit in Federal court... to 
+obtain redress of fiduciary violations." 120 Cong. 
+Rec. 29933 (1974), reprinted in Leg. Hist. at 4745 
+(statement of Sen. Williams). 
+
+
+C. ERISA’s Policy Corroborates the Plain 
+Meaning of ERISA § 502(a)(3) Authorizing 
+Equitable Relief to Individual Participants 
+se cae to Redress a Fiduciary 
+reach. 
+
+
+"ERISA is a comprehensive statute designed to 
+promote the interests of employees and_ their 
+beneficiaries in employee benefit plans." : 
+
+, 111 S. Ct. at 482 (citing Shaw 
+
+
+v, Delta Air Lines, Inc., 463 U.S. at 90); Firestone 
+, 489 U.S. 101, 113 
+
+
+Tire _& Rubber Co, v, Bruch 
+
+(1989). ERISA’s underlying policy is to protect the 
+interests of participants and beneficiaries in employee 
+benefit plans by “establishing standards of conduct, 
+sv monger and obligation for fiduciaries” and “by 
+providing for appropriate remedies and sanctions" for 
+violations of these fiduciary standards. ERISA § 2(d), 
+29 U.S.C. § 1001(d). 
+
+
+Construing ERISA § 502(a)(3) as authorizing relief 
+that inures to the benefit of individual participants and 
+beneficiaries is clearly within the scope of ERISA’s 
+remedial purposes of protecting the interests of 
+participants and beneficiaries in employee benefit plans. 
+Absent any private relief, participants and beneficiaries 
+would be left without a remedy to redress a fiduciary 
+breach in those cases where recovery cannot be made 
+to the plan or where plan-based relief is inappropriate. 
+
+
+Howe v, Varity Corp., 36 F.3d at 755 ("It is not 
+
+
+15 
+
+
+irrelevant that a contrary holding would leave 
+unredressed an egregious wrong.") 
+
+
+Any construction of ERISA § 502(a)(3) other than 
+its plain language would condemn retirees to the loss 
+of their th benefits coverage without any recourse 
+to redress that loss, even though it was the result of 
+a fiduciary breach. Such a result clearly is contrary 
+to ERISA’s stated policy, recognized by this Court, 
+
+Ds ir_Li : , 463 og pa of 
+rotecting the interests of participants an neficiaries 
+- employee benefit plans. 
+
+
+iy Given the “expansive sweep" of ERISA’s preemption provision, 
+a common law cause of action by Respondents based upon a claim for 
+fiduciary breach undoubtedly would be preempted under ERISA 
+
+
+§ 514(a). See, ¢.g. Pilot Life Insurance Co. v. Dedeaux, 481 U.S. 41, 
+
+
+47-48 (1987). 
+
+
+16 
+CONCLUSION 
+
+
+The relevant text of ERISA, the structure of its 
+entire enforcement scheme, ERISA’s legislative history 
+and the purposes of the Act all support the conclusion 
+that ERISA § 502(a)(3) authorizes equitable relief to 
+— and beneficiaries to remedy a fiduciary 
+reach. For the foregoing reasons, AARP urges the 
+Court to affirm the decision of the Eighth Circuit 
+Court of Appeals. 
+
+
+Respectfully submitted, 
+
+
+Steven S. Zaleznick 
+
+Mary Ellen Signorille* 
+
+Janet A. Penz 
+
+American Association of 
+Retired Persons 
+
+601 E Street, N.W. 
+
+Washington, D.C. 20049 
+
+(202) 434-2070 
+
+
+Counsel for Amicus Curiae 
+American Association of 
+Retired Persons 
+
+
+“(Counsel of Record) 
+
+
+July 26, 1995 
+
+

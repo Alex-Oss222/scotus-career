@@ -1,0 +1,4740 @@
+24a 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE SOUTHERN DISTRICT OF IOWA 
+CENTRAL DIVISION 
+
+
+Civit No. 88-1598-E 
+
+
+CHARLES HOWE, ROBERT WELLS, RALPH W. THOMPSON, 
+PATRICK MOUSEL, on behalf of themselves and as 
+representatives of a class of persons similarly situated, 
+JOHN ALTOMARE, CHARLES BARRON, ALEXANDER 
+CHARRON, CHARLOTTE CHILES, ANITA CROWE, RAY 
+DARR, DoRIS GUIDICESSI, BARNETT LUCAS, ROBERT 
+SKROMME, and the Estate of WALTER SMITH, 
+Individually, 
+
+
+Plaintiffs, 
+—VvV.— 
+VARITY CORPORATION and MASSEY-FERGUSON, INC., 
+Defendants. 
+
+
+ORDER 
+
+
+Defendants’ motion for judgment as a matter of law and, in 
+the alternative, motion for a new trial as to the verdicts the 
+Jury rendered, bring this matter before the court. This order 
+deals with legal issues raised in the attack on the jury verdicts 
+and is therefore separate from the Court’s findings on equi- 
+table issues which are set out in a separate order filed today.’ 
+After careful consideration of the written and oral arguments 
+of the parties, as well as extensive review of the transcript, 
+trial notes, and exhaustive independent research, the court 
+denies the motions in part and grants in part. 
+
+
+See the Court’s Findings of Fact and Conclusions of Law also 
+filed today [48a-115a]. The court incorporates the Findings of Fact and 
+Conclusions of Law Order herein by reference. 
+
+
+ep es Ne ee ee eee 
+
+
+In this Order on post-trial motions, the court has, in 
+summary: 
+1. Set aside the jury verdict on the breach of contract 
+claim. 
+
+
+2. Affirmed the jury verdict on the interference with pro- 
+tected rights claim as in pertains to the MCC Retired 
+Class and the individual plaintiffs, but has set aside 
+the jury verdict on this claim that was awarded to the 
+MCC Terminated Class. 
+
+
+3. Set aside the jury verdict on the fraudulent misrepre- 
+sentation claim. 
+
+
+4. Set aside the jury verdicts for the MCC Terminated 
+Class on all of its claims. 
+
+
+Set aside the jury award of punitive damages. 
+
+
+6. Given the plaintiffs a choice of what relief they prefer. 
+
+
+FACTS AND PROCEDURAL HISTORY 
+
+
+In the late 1970s, Massey-Ferguson (“M-F”) began to expe- 
+rience financial difficulties, which continued through 1986. 
+In 1986, Varity Corporation (“Varity”), the parent company 
+of M-F transferred a portion of M-F’s operation to a 
+newly created Canadian corporation, Massey Combines 
+Corporation (“MCC”). Approximately 1,500 employees were 
+“transferred” to MCC under this transaction. MCC shortly 
+thereafter failed, went into receivership, and terminated its 
+employees. The original plaintiffs in this action represented 
+retirees, disabled employees, and their survivors and eligible 
+dependents, of M-F and MCC. Plaintiffs brought this suit to 
+recover benefits under ERISA from M-F and its parent 
+corporation, Varity. 
+
+This court granted a preliminary injunction in favor of the 
+plaintiffs, conditionally recognizing the plaintiffs as a class 
+and finding that the ERISA plan documents entitled the 
+retirees to continued benefits throughout their lifetime. The 
+
+
+26a 
+
+
+defendants took the case to the Eighth Circuit on interlocutory 
+appeal and prevailed in part. The Eighth Circuit reversed this 
+court’s grant of a preliminary injunction so far as it was 
+directed toward retirees.? The Circuit Court held that section 
+7.4 of the “master plan” contains an express reservation-of- 
+rights clause which precludes a finding that retirees’ rights to 
+benefits vest on retirement. This court, following the release 
+of the circuit court’s opinion in Howe /, held a hearing on 
+defendants’ motion for summary judgment. During the con- 
+sideration of the motion it became unmistakably clear to the 
+court that the parties’ interpretations of the Circuit Court's 
+opinion were vastly different. The parties’ difference of 
+opinion concerning the meaning and application of the Eighth 
+Circuit’s order formed the basis of a continuing dispute which 
+was a constant shadow over this case. In an attempt to obtain 
+a clarification of the Circuit’s holding in Howe /, this court 
+granted a partial summary judgment on defendants’ motion 
+for summary judgment as it pertained to retirees’ claims and 
+this court entered an order allowing the parties to attempt an 
+interlocutory appeal. The Eighth Circuit Court of Appeals 
+denied the interlocutory appeal and said: “We feel that this 
+issue can be reviewed by the court at the conclusion of all 
+proceedings.” Howe v. Varity, No. 90-8125, slip op. at 2 (8th 
+Cir. November 14, 1990). 
+
+Upon the release of the opinion denying the interlocutory 
+appeal, plaintiffs filed their motion for reconsideration of 
+the grant of summary judgment. In this court’s order of June 
+4, 1991, the granting of a partial summary judgment was 
+reversed and the plaintiffs’ application for class certification 
+was granted. The court created two subclasses and allowed 
+ten individual retirees to intervene. The first subclass was 
+comprised of those persons who retired from MCC before 
+MCC entered receivership (MCC Retired). The second sub- 
+class was comprised of those persons who were working for 
+MCC and were terminated when MCC went into receivership 
+(MCC Terminated).’ 
+
+
+2“ See Howe v. Varity, 896 F.2d 1107, 1110 (8th Cir. 1990). 
+
+
+3 The parties settled the claims of all disabled plaintiffs prior to 
+
+
+trial. 
+
+
+27a 
+
+
+The court after a careful review of the emerging law in the 
+ERISA field decided to allow this matter to proceed to a jury 
+trial on such issues that were legal in nature and to view the 
+jury’s findings on the questions that were equitable in nature 
+as advisory. In addition, after considerable review of the 
+emerging case law in the ERISA, area this court allowed the 
+question of punitive damages to be submitted to the jury for 
+their consideration. 
+
+After 17 trial days, the jury returned a verdict in favor of 
+the plaintiffs on five theories of recovery‘ and awarded the 
+MCC Retired Class $7,600,000 and the MCC Terminated 
+Class $1,536,117. 
+
+The jury made the following awards to the ten individual 
+plaintiffs: 
+
+
+John Altomare $ 80,000 
+Charles Barron $ 72,000 
+Alexander Charron $ 48,554 
+Charlotte Chiles $ 45,000 
+Anita Crowe $ 49,013 
+Ray Darr $ 100,000 
+Doris Guidicessi $ 50,000 
+Barnett Lucas $ 100,810 
+Robert Skromme $ 74,955 
+Estate of Walter Smith $ 92.000 
+
+Total $ 712,332 
+
+
+The jury awarded $3,000,000 in punitive damages against 
+Massey-Ferguson, Inc. and $33,000,000 in punitive damages 
+against Varity Corporation. 
+
+
+4 The five grounds for recovery were; breach of contract, promis- 
+
+
+sory estoppel, breach of fiduciary duty, fraudulent misrepresentation, 
+interference with protected rights. 
+
+
+28a 
+
+
+DISCUSSION® 
+
+
+LAW OF THE CASE 
+
+
+This case as noted above, went up to the Eighth Circuit 
+Court of Appeals on an interlocutory appeal of this court's 
+injunction prohibiting defendants from denying welfare ben- 
+efits to the plaintiff class. This court issued its injunction 
+order following limited discovery by the parties. The order 
+granting injunctive relief was based solely on plaintiffs’ 
+breach of contract theory as it pertained to those persons in 
+the class who had retired from either M-F or MCC, and those 
+persons who were disabled. 
+
+As mentioned, following the Circuit Courts opinion in 
+Howe I, an intense debate arose between the parties as to pre- 
+cisely what the Circuit Court had said. Defendants’ position 
+was that this case was over, that the Circuit Court had decided 
+the merits and had foreclosed all possible grounds for recov- 
+ery, and that it was error for this court to ignore the “law of 
+the case.” Defendants base their argument on the premise that 
+the Circuit Court found that section 7.4 of the master plan 
+(reservation of rights to terminate and amend), together with 
+the past practice of the company clearly precludes a finding 
+that retirees’ rights to benefits vest for life on retirement and 
+that therefore there are no issues left and the case is over 
+because plaintiffs can not recover any benefits when the com- 
+pany never promised them for life. 
+
+Plaintiffs counter this argument by contending that the 
+defendants’ reading of Howe | reaches much further than the 
+Circuit Court intended. Plaintiffs argue that because of the 
+limited record before the Circuit Court on the injunction 
+appeal the Circuit Court did not have enough before it to fore- 
+
+
+5 This order as well as this court’s Findings of Fact and Conclu- 
+
+
+sions of Law order, filed in conjunction with this order of necessity have 
+some overlap. The court has made findings of fact which are directly 
+transferable to this order. The court, in these orders has responded to all 
+issues raised in the parties post-trial motions. These pleadings cover 
+some 562 pages of the court’s file. In addition the court has reviewed the 
+over 7,000 pages of trial and post-trial transcripts. 
+
+
+29a 
+
+
+close plaintiffs’ theories of estoppel and fraud. Further, plain- 
+tiffs argue that the Circuit Court could not and did not address 
+the issue of whether section 7.4 was disclosed adequately to 
+the plaintiffs. 
+
+This court, after careful review of the Circuit Court’s opin- 
+ion and the parties’ arguments, was also unable to ascertain 
+precisely what the Circuit Court’s holding in Howe J meant. 
+As mentioned, in an effort to seek clarification of that order, 
+this court granted defendants’ motion for summary judgment 
+as it pertained to retirees and certified the order allowing for 
+an interlocutory appeal. That appeal was not accepted by the 
+Circuit. Thereupon, this court rejected defendants “law of the 
+case” argument that all the issues had been decided and 
+embarked on a path which would allow both parties an oppor- 
+tunity to develop all the record they felt appropriate for appel- 
+late review. See generally Builders Steel Co. v. Commissioner 
+of Internal Rev. 179 F.2d 377 (8th Cir. 1950). 
+
+In reaching this decision the court carefully reviewed 
+Continental Bank & Trust Co. v. American Bonding, 630 F.2d 
+606, 608 (8th Cir. 1980) wherein the court stated: 
+
+
+It is beyond cavil that the decision on former appeal is 
+the “law of the case” on a question presented in that 
+former appeal, unless the evidence introduced at the sub- 
+sequent trial is substantially different from that consid- 
+ered on the first appeal, and must be followed in all 
+subsequent proceedings in such case in both district and 
+appellate courts, unless that decision is clearly erroneous 
+and works manifest injustice. * * * 
+
+
+While this rule of practice is not a limit of power, it is 
+nevertheless a salutary one, and should be departed from 
+only after careful consideration on situations arising on 
+specific cases. (citations omitted). 
+
+
+Further, this court reviewed the following passages from 
+Benson Hotel Corp. v. Woods, 168 F.2d 694, 697-98 (8th Cir. 
+1948): 
+
+
+We recognize the established rule that, under an 
+appeal from a decree for a preliminary injunction, the 
+
+
+30a 
+
+
+appellate court ought not to determine crucial questions 
+conditioning the merits of the case; (1) Because their 
+adjudication of such questions ought not to be made until 
+after the parties have had an opportunity to present their 
+evidence and their arguments upon the entire proof; (2) 
+because such an adjudication would not estop any of the 
+parties in the subsequent trial of the issues of the case or 
+otherwise; and (3) because such a decision would in 
+many cases be made on a different state of facts and 
+upon different arguments from those presented at the 
+final hearing, and we neither decide nor intimate our 
+opinion upon those questions. 
+
+
+* * * 
+
+
+The granting or refusal of a temporary injunction does 
+not constitute the law of the case or an adjudication on 
+the merits, and the issues must be tried to the same 
+extent as though no temporary injunction had been 
+applied for. 
+
+
+(citations omitted) 
+
+
+Accordingly, this court, ever mindful of Howe I, choose the 
+course of trial and resolution of this matter, a choice which 
+provided all parties their day in court. All arguments in rela- 
+tion to the law of the case are denied. 
+
+
+RIGHT TO JURY A TRIAL 
+
+
+This court, in its order of August 6, 1991, denied defen- 
+dants’ motion to strike plaintiffs’ jury demand. This court 
+proceeded to a jury trial on this matter wherein all issues were 
+presented to a jury. As in other aspects of this trial, this deci- 
+sion sparked great debate between the parties. This court 
+informed all counsel that it would submit this matter to the 
+jury and treat all claims that were legal in nature as binding 
+and those issues equitable in nature as advisory pursuant to 
+F.R.Civ.P. 39(c). In accordance with this ruling the court 
+today in a separate order also files it Findings of Fact and 
+Conclusions of Law which includes the possibility of per- 
+manent injunctive relief if that is the choice of the plaintiffs. 
+
+
+3la 
+
+
+The court has considered carefully the defendants’ argu- 
+ments opposing a jury trial and denies all motions based 
+thereon. The court, in support of this ruling incorporates its 
+previous order on this issue dated August 6, 1991.° Therefore, 
+the court denies defendants’ motion for a new trial based on 
+this matter having been presented to a jury. 
+
+
+ALTER EGO 
+
+
+The court discusses all arguments in relation to the issue of 
+alter ego in its order on Findings of Fact and Conclusions of 
+Law pages 41-50 [80a-89a]. As noted in that order, all 
+of defendants’ motions in relation to the alter ego issue are 
+denied. 
+
+
+JUDGMENT AS A MATTER OF LAW 
+
+
+Federal Rule of Civil Procedure 50 was amended on 
+December 1, 1991, to change the name of a motion which pre- 
+viously had been called in part judgment notwithstanding the 
+verdict to judgment as a matter of law. Rule 50(b) states: 
+
+
+Renewal of Motion for Judgment After Trial; Alter- 
+native for New Trial. Whenever a motion for a judg- 
+ment as a matter of law made at the close of alhevidence 
+
+
+® The court, since its order of August 6, 1991, has become aware 
+of the following cases supporting this court's position that the Seventh 
+Amendment guaranties the right to a jury trial in ERISA cases: Inter- 
+national Union v. Midland Steel Prod., 771 F.Supp 860 (N.D. Ohio 
+1991); McDonald v. Artcraft Elec. Supply Co., 774 F.Supp. 29 (D.D.C. 
+1991); Steeples v. Time Ins. Co., 139 F.R.D. 688 (N.D. OK 1991); Weber 
+v. Jacobs MFG.Co., 751 F. Supp. 21 (D. Conn. 1990); Resnick v. Resnick, 
+763 F. Supp 760 (S.D.N.Y. 1991). In addition the following article is 
+noted The Right to Jury Trial in ERISA Civil Enforcement Actions, 15 
+Am.J.Trial Advoc. 157 (1991). 
+
+The court is aware of the authority to the contrary, specifically Kirk y. 
+Provident Life & Accident Ins. Co., 942 F.2d 504, 506 (8th Cir. 1991); In 
+Re Vorpahl, 695 F.2d 318 (8th Cir. 1982); Bright v. Federated Mutual Ins. 
+Co., No. 92-10499 (Nov. 10, 1992, $.D. Iowa) (Longstaff, J., noting this 
+court’s August 6, 1991 order, but following Kirk because claim involved 
+was equitable in nature). As set out in the August 6, 1991 order, this 
+court believes that Vorpahi and Kirk are limited to cases involving solely 
+equitable or declaratory relief in light of the ruling in Firestone Tire & 
+Rubber Co. v. Bruch, 489 U.S. 101 (1989). 
+
+
+32a 
+
+
+is denied or for any reason is not granted, the court is 
+deemed to have submitted the action to the jury subject 
+to a later determination of the legal questions raised by 
+the motion. * * * A motion for a new trial under Rule 59 
+may be joined with a renewal of the motion for judgment 
+as a matter of law, or a new trial may be requested in the 
+alternative. If a verdict was returned, the court may, in 
+disposing of the renewed motion, direct the entry of 
+judgment as a matter of law or may order a new trial. 
+
+
+The court will now address those claims of the plaintiffs 
+which are not equitable in nature and which were submitted to 
+the jury for their determination. 
+
+
+BREACH OF CONTRACT—COUNT 1 
+M-F-RETIRED INDIVIDUAL PLAINTIFFS 
+MCC-RETIRED CLASS 
+
+
+The defendants argue that this count was dismissed in 
+Howe v. Varity, 896 F.2d 1107 (8th Cir. 1990) (“Howe I”), 
+which stated that “welfare benefit plans may be modified or 
+terminated absent the employer’s contractual agreement to the 
+contrary.” Howe I, 896 F.2d at 1109; see also Anderson v. 
+Alpha Portland Indus. Inc., 836 F.2d 1512, 1517 (8th Cir. 
+1988), cert. denied, 489 U.S. 1051 (1989); Anderson v. John 
+Morrell & Co., 830 F.2d 872 (8th Cir. 1987). The defendants 
+argue further that Congress has explicitly exempted welfare 
+benefits from ERISA’s vesting provisions. Massachusetts v. 
+Morash, 490 U.S. 107, 109 S.Ct. 1668, 1675 (1989). Finally, 
+they argue that the Eighth Circuit has held explicitly that ben- 
+efits under an employee welfare benefit plan, unlike pension 
+benefits, do not vest under ERISA and that “nothing in the 
+terms of ERISA prevents the employer from changing an 
+employee welfare benefit plan.” John Morrell, 830 F.2d at 
+875-876 (citing In re White Farm Equipment Co., 788 F.2d 
+1186, 1193 (6th Cir. 1986) (“we discern no basis for finding 
+mandatory vesting in ERISA of retiree welfare benefits”)). 
+
+The issue then is “simply one of contract interpretation.” 
+Howe I, 896 F.2d at 1109 (quoting Alpha Portland, 836 F.2d 
+
+
+at 1107; Alpha Portland, 836 F.2d at 1517, whereby proving 
+that the employer contractually agreed not to modify or ter- 
+minate benefits. The proof of promise cannot be inferred, 
+rather it must be an affirmative promise by the employer. 
+Alpha Portland, 836 F.2d at 1517. 
+
+The defendants contend that all the plan documents were 
+considered by the Circuit Court in Howe /, not just section 7.4 
+as argued by the plaintiffs. The defendants further argue that 
+the Circuit Court then concluded as a matter of law, plaintiffs 
+are not entitled to lifetime welfare benefits and found “[nJoth- 
+ing in the documents that establishes retirement as a vesting 
+point.” Howe I, 896 F.2d at 1110. The defendants also point 
+out that the Circuit Court states that “section 7.4 of the plan 
+does not itself pinpoint retirement as a vesting trigger.” /d. at 
+1110. 
+
+The defendants claim that since plaintiffs cannot point to 
+any language in the plan that promises benefits will “vest” at 
+retirement, or that benefits would not be modified or termi- 
+nated or that the benefits wou!d be irrevocable, or that they 
+would be “for life,” the breach of contract claim should be 
+dismissed. Defendants further argue that the MCC Retiree 
+plan documents (which is the M-F plan) explicitly, unam- 
+biguously and clearly reserve a right to amend or terminate 
+welfare benefits under section 7.4 of the Master Plan, which 
+specifically provides that: 
+
+
+The company hereby reserves the right, by action of the 
+Board, to amend or terminate the Plan or Trust at any 
+time, provided no such amendment or termination shall 
+have the effect of diverting the Trust funds to purposes 
+other than the exclusive benefit of the Employees except 
+as provided in Section 7.1. However, the right to amend 
+or terminate the Plan shall not, in any way, affect an 
+Employee’s right to claim benefits, diminish, or elimi- 
+nate any claims for benefits under the provisions of the 
+Plan to which the Employees shall have become entitled 
+prior to the exercise of the Company’s right, through its 
+Board, to terminate or amend. 
+
+
+34a 
+
+
+In addition, defendants argue that Section 8.1 of the Master 
+Plan gives the Board of Directors of the Company, or the 
+Executive Committee of the Board of Directors the power to 
+amend or terminate the plan. Further, Appendix B to the Mas- 
+ter Plan provided for medical, accident or other benefits, but 
+these benefits, according to Section 7 of the Plan may be 
+amended or terminated. Additionally, Appendix B(1) provided 
+that welfare benefits for the employees (both active employ- 
+ees and retirees would cease automatically, upon termination 
+of the Plan. 
+
+The defendants further contend that the Court of Appeals 
+has held in Howe / that provisions that appeared in M-F Inc.’s 
+benefit plan documents reserving the right to terminate or 
+amend benefits override any promises of “lifetime” benefits. 
+Defendants claim that the Circuit Court examined section 7.4 
+of the Master Plan and concluded that M-F Inc. had reserved 
+the right to terminate or amend benefits and therefore any 
+claim for breach of contract must fail. 
+
+Plaintiffs do not argue that ERISA includes a mandatory 
+vesting requirement for welfare benefits, but they claim 
+that parties may contract for vesting of welfare benefits. 
+John Morrell, 830 F.2d at 876-877; United Steelworkers of 
+America v. Connors Steel Co., 855 F.2d 1499, 1505 (11th Cir. 
+1988); In re White Farm Equipment Co., 788 F.2d 1186, 1193 
+(6th Cir. 1986); DeGeare v. Alpha Portland Industries, Inc., 
+837 F.2d 812, 815 (8th Cir. 1988); Jansen v. Greyhound 
+Corp., 692 F.Supp. 1029, 1036 (N.D. lowa 1987). Thus, when 
+an employer promises to provide health benefits to its 
+employees without advising them of grounds for termination 
+of the plans, the employer has a contractual obligation under 
+ERISA to provide the benefits. Jansen, 692 F.2d at 1037; 
+Connors Steel, 855 F.2d at 1505; White Farm, 788 F.2d at 
+1191. These decisions, plaintiffs argue, rely on the fact that 
+federal common law was created to govern obligations an 
+employer owes its employees. Franchise Tax Board v. Con- 
+struction Laborers Vaction Trust, 463 U.S. 1, 24, n.6 (1983). 
+In this case, ordinary contract principles should be used to 
+determine if benefits are vested. DeGeare, 837 F.2d at 815. 
+
+
+35a 
+
+
+Plaintiffs finally argue that the defendants are equitably 
+estopped from relying on section 7.4 to deny welfare benefits 
+because they failed to include a termination provision in the 
+summary plan description (SPD). Under ERISA, an employer 
+must provide a summary plan description to participants 
+which describes circumstances which may result in disqual- 
+ification, ineligibility, or denial or loss of benefits, written in 
+understandable form, which is sufficiently accurate and com- 
+prehensive to reasonably apprise participants and beneficiaries 
+of their rights and obligations under the plan. Arnold v. Arrow 
+Transp. Co. of Delaware, 926 F.2d 782, 785 (9th Cir. 1990). 
+Employees are entitled to rely on descriptions contained in 
+summary benefits plan descriptions required by ERISA. Poor 
+drafting of summary benefit plan descriptions may extend or 
+enlarge coverage which would otherwise be unavailable. Branch 
+v. G. Bernd Co., 764 F. Supp. 1527, 1538 (M.D. Ga. 1991). 
+
+When determining the duration of the plaintiffs’ benefits, 
+the court must begin by examining the language of the plan 
+documents. /d. at 816; Alpha Portland, 836 F.2d at 1516. 
+Each provision of the plan documents should be read con- 
+sistently with all other provisions and as part of integrated 
+whole. DeGeare, 836 F.2d at 816. If ambiguities exist, extrin- 
+sic evidence may be considered. 
+
+The court finds that defendants’ motion for judgment as a 
+matter of law on the breach of contract count should be 
+granted. For plaintiffs to recover under this count they must 
+show a contract for lifetime benefits which can not be ter- 
+minated. They cannot make such a showing in the face of sec- 
+tion 7.4. Plaintiffs’ arguments relating to estoppel and failure 
+to disclose adequately the reservation of rights provisions of 
+the plan are best directed to other counts that are discussed in 
+the court’s Findings of Fact and Conclusions of Law order.’ 
+
+
+’ The court realizes that traditionally equitable estoppel is a 
+defense, however given the emerging case law and the posture of this 
+case the court concludes that it is appropriate to recognize equitable 
+estoppel as an independent cause of action. See Fitch v. Arkansas Blue 
+Cross and Blue Shield, 795 F.Supp. 904, 906-07 (W.D. Ark. 1992); Kane 
+v. Aetna Life Insurance, 893 F.2d 1283, 1285-86 (11th Cir. 1990), cert 
+denied, U.S. __ , 111 S.Ct. 675, 112 L.Ed.2d. 668 (1991). 
+
+
+36a 
+
+
+Accordingly, defendants’ motions for judgment as a matter of 
+law on count 1 (breach of contract) is granted as it relates to 
+claims made by the MCC-Retired Class and the Individual 
+Plaintiffs. The claims of the MCC-Terminated Class will be 
+discussed below. 
+
+
+MCC-TERMINATED Class 
+
+
+Defendants argue that the claims of the MCC Terminated 
+Class must fail for the same reasons that the retirees claims 
+failed, i.e., the lack of a contract on which an action for 
+breach could be based. Defendants further argue that not only ~ 
+do plaintiffs confront a termination allowance policy which 
+does not affirmatively promise vested termination benefits, 
+but the policy expressly stated that it contained no contractual 
+promise to provide termination allowances to employees. In 
+support of their position defendants cite trial exhibit 7, which 
+is PAM 5.01.01 (III)(B)*® which states: 
+
+
+The publication of the practice outlining conditions for 
+payment and the schedule of allowances does not con- 
+stitute a contractual relationship with the employee. The 
+termination allowance procedure represents present 
+Company practice, administered at the Company's sole 
+discretion which may be amended by the Company with- 
+out prior notice. 
+
+
+Defendants further argue that this class of plaintiffs were 
+not even eligible for consideration for termination allowances. 
+Defendants state that only an employee whose separation was 
+classified as a “Termination-Release” was eligible for a ter- 
+mination allowance. PAM 5.01.01(III)(C). “Termination 
+Release” is defined as situations where: 
+
+
+1. employee is putting forth his best effort, but cannot 
+perform at an acceptable level in his present position; 
+
+
+PAM is an acronym for Personnel Administration Manual. 
+
+
+37a 
+
+
+2. employee not designated for layoff who refuses an 
+offer of work which is considered unsuitable accord- 
+ing to Section IV.A.4 of this procedure; 
+
+
+3. employee is habitually tardy or absent because of fac- 
+tors beyond his control: 
+
+
+4. employee is no longer performing at an acceptable 
+level as a result of significant change in position 
+requirements; 
+
+
+5. employee is separated as the result of the sale of a 
+company-operated retail store and not reemployed by 
+the successor store within thirty (30) days following 
+the date of its transfer to the purchaser; or 
+
+
+6. other individual reasons consistent with this P.A.M. as 
+approved by the Director of Personnel—Head Office. 
+
+
+PAM 3.05.01(V)(D), Ex. 6. 
+
+Plaintiffs, in support of their claim, argue that according to 
+past Company practice their claim would lie under item num- 
+ber 6 (above) “other individual reasons consistent with this 
+P.A.M. as approved by the Director of Personnel—Head 
+Office.” 
+
+The court finds that the defendants clearly stated in trial 
+exhibit 7, PAM 5.01.01 (III)(B), set out above on pages 14-15 
+of this order, that they are not creating a contractual rela- 
+tionship as to these benefits. Further, under the terms of the 
+P.A.M. defendants reserved the right to administer the plan in 
+their sole discretion and amend without prior notice. There- 
+fore, the refusal to pay termination benefits to this subclass 
+cannot form the grounds for a breach of contract claim. 
+Accordingly, defendants motion for judgment as a matter of 
+law as it relates to the MCC - Terminated Class is granted on 
+the breach of contract claim (count 1). 
+
+
+BREACH OF FIDUCIARY DUTY—COUNT 2 
+
+
+The court’s discussion on Count 2 can be found in the 
+Court’s order on Findings of Fact and Conclusions of law 
+pages 50-63 (89a-97a]. As noted in that order, defendants’ 
+
+
+38a 
+
+
+motions in relation to breach of fiduciary duty are granted as 
+against the MCC Terminated Class and denied as to the MCC 
+Retired Class and the individual plaintiffs. 
+
+
+INTERFERENCE WITH PROTECTED RIGHTS—COUNT 3 
+M-F-RETIRED INDIVIDUAL PLAINTIFFS 
+MCC-RETIRED CLASS 
+
+
+ERISA § 510, 29 U.S.C. § 1140, makes it unlawful “for any 
+person to discharge, fine, suspend, expel, discipline, or dis- 
+criminate against a participant or beneficiary . . . for the-pur- 
+pose of interfering with the attainment of any right to which 
+such participant may become entitled under [an employee 
+benefit plan].” Participants and beneficiaries may sue for vio- 
+lations of this statute under 29 U.S.C. § 1132(a)(3). 
+
+Plaintiffs argue in support of their claim under § 1140 that 
+the evidence supports the jury’s finding that defendants com- 
+pelling motive for creating MCC and transferring plaintiffs to 
+MCC was to rid themselves of an enormous debt, including 
+the cost of benefits plaintiffs would have received at retire- 
+ment or termination. Plaintiffs also allege that defendants 
+accomplished this task by ensuring that all the Combines and 
+Related Equipment (“CARE”) Division employees would 
+transfer to MCC by assuring them that their benefits would be 
+unchanged. As a result, plaintiffs claim that defendants inter- 
+fered with their protected rights by coercing them to transfer 
+to MCC by making statements that later proved to be false. 
+
+Defendants argue in support of their motion to defeat this 
+claim that because the Eighth Circuit ruled in Howe / that 
+plaintiffs’ right to benefits had not vested, the “protected 
+rights” could not have been “interfered” with. See Phillips v. 
+Amoco Oil Co., 614 F.Supp. 694, 723 (N.D. Ala. 1985), 
+aff'’d., 799 F.2d 1464, 1471 (11th Cir. 1986). Defendants also 
+believe that the transfer of the combines division and its 
+employees to MCC does not implicate 29 U.S.C. § 1140 
+because section 1140 was not intended to prohibit the sale of 
+businesses. Phillips, 614 F.Supp. at 721-724. 
+
+
+39a 
+
+
+In response, plaintiffs argue that the Eighth Circuit’s ruling 
+in Howe I did not determine whether defendants interfered 
+with plaintiffs’ protected rights. They claim that the statute 
+(section 1140) explicitly states that it is “unlawful” for any 
+person to interfere with “the attainment of any right” under 
+the plan. Vogel v. Independence Federal Savings Bank, 692 
+F.Supp. 587, 593 (D. Md. 1988). 
+
+To establish a claim for interference with protected rights, 
+plaintiffs must prove: 
+
+
+a. Prohibited conduct; 
+b. Taken for the purpose of interfering; 
+
+
+¢. With the attainment of any right to which the plaintiffs 
+may have become entitled under the plan. 
+
+
+See Adams v. LTV Steel Mining Co., 936 F.24 368, 370 (8th 
+Cir. 1991); Gavalik v. Continental Can Co., 812 F.2d 834, 852 
+(3rd Cir.), cert. denied, 484 U.S. 979 (1987). Conduct made 
+actionable by this statute is any adverse employment action 
+taken for the prohibited purpose, and includes any scheme to 
+prevent employees from attaining eligibility for benefits pro- 
+tected by ERISA. See Gavalik, 812 F.2d at 854-57 (“liability 
+avoidance scheme”). Plaintiffs must prove the defendant’s 
+specific intent to engage in proscribed activity, but the desire 
+to avoid ERISA obligations need not be proven to be the sole 
+motivating factor in the defendants’ conduct. /d. at 851-52. 
+
+An employer may be held liable for a violation of § 1140. 
+ERISA defines “employer” as “any person acting directly as 
+an employer, or indirectly in the interest of an employer, in 
+relation to an employee benefit plan.” 29 U.S.C. § 1002(5). 
+This court has determined that defendants were plaintiffs’ 
+employer either directly or alter egos of MCC when the 
+alleged violations of § 1140 occurred.® Implementation of 
+a scheme of employment transfers, terminations or layoffs 
+that is motivated by the desire to prevent employees from 
+attaining rights under an employee benefit plan is conduct 
+
+
+See this court's order on Findings of Fact and Conclusions of 
+Law pages 41-50 [80a-89a]. 
+
+
+40a 
+
+
+actionable under this section. See Gavalik v. Continental Can 
+Co., 812 F.2d 834 (3rd Cir.), cert. denied, 484 U.S. 979 
+(1987). Using misinformation to entice a participant or ben- 
+eficiary to take actions affecting his employment status and 
+corresponding benefit entitlements is conduct actionable 
+under this section. See Greenblatt v. Budd Co., 666 F. Supp. 
+735, 740 (E.D. Pa. 1987) (harassment intended to force 
+employee to retire is actionable under § 1140). Remedies avail- 
+able for violation of 29 U.S.C. § 1140 include payment for lost 
+benefits and any other equitable relief necessary to make the 
+plaintiff whole. See, e.g., Folz v. Marriott Corp., 594 F. Supp. 
+1007, 1015-20 (W.D. Mo. 1984); and Bittner v. Sadoff & Rudoy 
+Industries, 490 F. Supp. 534, 536 (E.D. Wis. 1980). 
+
+Applying these standards to the case at bar, the court con- 
+cludes that Project Sunshine was a scheme designed, in part, 
+to prevent employees of M-F from attaining rights to which 
+they would have become entitled if they had retired under the 
+M-F Plan.'° Defendants violated § 1140 with respect to the 
+MCC-Retired Class when, in order to persuade them to trans- 
+fer to MCC, defendants deliberately misinformed them or 
+knowingly failed to inform them about several aspects of the 
+proposed transfer, to-wit: 
+
+
+(1) MCC’s prospects of viability. 
+(2) Benefits would not change. 
+
+
+(3) Right to take early retirement from M-F before being 
+transferred to MCC. 
+
+
+(4) Right to severance pay from M-F in the event they 
+refused the transfer to MCC. 
+
+
+(5) The effect a receivership of MCC would have on their 
+benefits. 
+
+
+One of the facts motivating defendants to misinform or fail to 
+inform the members of the Retired subciass was defendants’ 
+
+
+10 ~—- This court discusses fully all aspects of M-F and Varity debt 
+
+
+reduction plan, Project Sunshine, in this court’s order on Findings of Fact 
+and Conclusions of Law at pages 7-14 [53a-58a] and pages 41-50 
+[80a-89a). 
+
+
+4la 
+i 
+
+
+desire to avoid liability for health and welfare benefits to 
+those plaintiff class members under the M-F Plan. 
+
+The court concludes that defendants’ conduct toward plain- 
+tiffs constituted discrimination prohibited by 29 U.S.C. 
+§ 1140. The MCC-Retired Class is therefore entitled to 
+recover compensatory damages for past unpaid benefits, and 
+to compensatory damages for future benefits or to injunctive 
+relief in placing them back on the M-F plan under 29 U.S.C. 
+§ 1132(a)(3), however they may so elect. Accordingly, defen- 
+dants’ motions in relation to these plaintiffs are denied. 
+
+
+MCC-TERMINATED CLASS 
+
+
+Plaintiffs’ claims for relief as to this subclass mirror those 
+of the MCC-Retired and Individual Plaintiffs’ claims listed 
+and discussed above. In turn, defendants’ motion for judg- 
+ment as a matter of law also mirrors their arguments above. 
+
+Under the mandate of Firestone Tire and Rubber Co. v. 
+Bruch, 489 U.S. 101, 113-15 (1989), this court finds that 
+because of the defendants’ reservation of the right to interpret 
+this plan, the standard of review here is not de novo but an 
+arbitrary and capricious standard. When viewed as a whole, 
+M-F’s termination—severance pay plan did not create any 
+reasonable expectations in the MCC-Terminated Class. 
+
+This finding is supported in light of sections 3.05 and 5.01 
+of the Personnel Administration Manual (“PAM”) Exs. 6, 7) 
+constitute employee welfare benefit plan documents within 
+the meaning of ERISA which governed the provision, level, 
+extent and duration of severance benefits. Section 3.05 of the 
+PAM describes six situations as set out in full on pages 16-17 
+[36a-37a] above. Persons included under the types of situa- 
+tions set out in 3.05 of the P.A.M. are eligible for termination 
+allowance. 
+
+Section 5.01 of the PAM provides: 
+
+
+III. GENERAL 
+
+
+A. It is the practice of the Company to provide a mea- 
+sure of income protection for full-time salaried employ- 
+ees in the event of their separation for reasons beyond 
+their control. 
+
+
+42a 
+
+
+1. This practice does not apply to salaried em- 
+ployees— 
+
+
+a. with less than three months’ continuous service; 
+
+
+b. hired as Limited Service Employees (casual— 
+temporary); or 
+
+
+c. hired under the Cooperative Education Student 
+Program. 
+
+
+B. The publication of the practice outlining conditions 
+for payment and the schedule of allowances does not 
+constitute a contractual relationship with the employee. 
+The termination allowance procedure represents present 
+Company practice, administered at the Company’s sole 
+discretion which may be amended by the Company with- 
+out prior notice. 
+
+
+C. Eligibility for termination allowance is based upon 
+the separation classification as outlined in P.A.M. 
+3.05.01, Separations—Salaried Employees. 
+
+
+1. An employee will not be eligible for termination 
+allowance if the separation is classified as any of the 
+following: 
+
+a. “Quit” 
+
+b. “Discharge” 
+
+c. “Layoff” 
+
+d. “Retirement, Death or Disability” 
+
+e. “Termination—Unsatisfactory” 
+
+f. “Assignment Completed” 
+
+
+2. An employee whose separation is classified as “Ter- 
+mination—Release” will be eligible for termination 
+allowance. 
+
+
+G. Approval Procedure 
+
+
+1. The manager of the terminated employee will initi- 
+ate termination action in accordance with PAM 3.05.01, 
+
+
+A3a 
+Separations—Salaried Employees. Recommendations 
+regarding termination allowance will be noted in a sep- 
+arate memo. The initiating manager will make only rec- 
+ommendations; he or she will not calculate the actual 
+amount of termination allowance. No commitment is to 
+be made to the employee until notice has been received 
+that the allowance has been authorized. 
+
+
+2. Upon receipt of the Employee Profile and accom- 
+panying memo, Personnel Administration Department 
+will review the recommendations and details regarding 
+the termination. Any termination allowance must be 
+approved by Personnel Administration Department. Rec- 
+ommendations are to be based only on the reasons out- 
+lined on the Employee Profile. Therefore, it is important 
+that concise and accurate explanations be given to the 
+employee and be provided on the Employee Profile 
+(Form MF-4197). 
+
+
+The plan language above clearly states that “an employee 
+will not be eligible for termination allowance if the separation 
+is Classified as any of the following: quit, discharge, layoff, 
+retirement, death or disability, termination - unsatisfactory, 
+assignment completed”. The evidence is clear, without the 
+transfer to MCC, employment conditions at M-F for this sub- 
+class were going to change because the entire combine indus- 
+try was in dire straits. Under the factors listed above, this 
+subclass of plaintiffs (MCC-Terminated consisting of @ 140 
+persons) are unable to state a successful claim for interference 
+with any protected right. The motions of the defendants are 
+sustained as to this subclass. 
+
+
+ESTOPPEL—COUNT 4 
+
+
+The court’s discussion on Count 4 can be found in the 
+Court’s order on Findings of Fact and Conclusions of law 
+pages 63-78 [100a-112a], wherein the court found that the M- 
+F Retired Individual Plaintiffs and MCC Retired Class were 
+entitled to relief and the MCC Terminated Class were not 
+entitled to relief on the estoppel claim. 
+
+
+44a 
+
+
+FRAUDULENT MISREPRESENTATION—COUNT 5 
+M-F-RETIRED INDIVIDUAL PLAINTIFFS 
+MCC-RETIRED CLASS 
+MCC-TERMINATED CLASS 
+
+
+Plaintiffs argue, under this claim, that the evidence shows 
+that defendants made numerous material misrepresentations 
+and omissions in inducing plaintiffs to transfer to MCC. As 
+noted previously, defendants: (a) assured plaintiffs that their 
+benefits would be unchanged if they accepted employment 
+with MCC; (b) failed to disclose MCC’s unstable financial 
+condition and poor prospects for survival; (c) failed to dis- 
+close the effects of MCC’s probable bankruptcy, insolvency 
+or receivership would have on the welfare benefits of MCC 
+employees; and (d) failed to inform employees as required by 
+ERISA in the benefits booklet given to them entitled You and 
+M.-F, that the company reserved the right to amend or termi- 
+nate the welfare benefit plan. The evidence at trial further 
+demonstrated that when defendants made the material mis- 
+representation and omissions, theis primary purpose was to 
+induce the plaintiffs into accepting the transfer to MCC. 
+
+Defendants again allege that, in Howe /, the Eighth Circuit 
+reviewed the documents and found no representation promis- 
+ing plaintiffs lifetime welfare benefits. Defendants also claim 
+that the Eighth Circuit held that defendants made no promises 
+not to amend or terminate the plan and therefore there is 
+no basis for plaintiffs’ fraudulent misrepresentation claim. 
+Defendants further argue that any claim for fraudulent mis- 
+representation is not cognizable under ERISA. After extensive 
+research the court agrees with defendants that any claim for 
+fraudulent misrepresentation is preempted by ERISA. See 
+Consolidated Beef Indus., Inc. New York Life Ins. Co., 949 
+F.2d 960,964 (8th Cir. 1991); Farlow v. Union Central Life 
+Ins. Co., 874 F.2d 791, 793-94 (11th Cir. 1989); Paul Revere 
+Life Insurance Co. v. Vandenplas, Civ. Nos. 3-91-547, 721, 
+1992 WL 320994 at p.4 (D.MN Oct. 27, 1992). 
+
+Although the cases cited above are not factually “on all 
+fours” with the situation presented here, the following case is 
+
+
+45a 
+
+
+‘ 
+
+
+fairly close. In concluding that claims based on fraud were 
+preempted, the Fifth Circuit, in Christopher v. Mobil Oil 
+Corp., 950 F.2d 1209, 1218 (Sth Cir. 1992), stated: 
+
+
+This conclusion is buttressed by decisions of this and 
+other courts addressing claims of fraudulently induced 
+retirement and wrongful termination, which are the crux 
+of appellants’ state law claims here. In the closely anal- 
+ogous case of Lee v. E.J. Du-Pont de Nemours and Co., 
+894 F.2d 755 (Sth Cir. 1990), the plaintiffs alleged that 
+they had retired in reliance on their employer’s repre- 
+sentations that the company was not preparing to adopt 
+an early retirement incentive plan, and they sued their 
+former employer for fraud and negligent misrepresen- 
+tation in that respect. We held that the claims were pre- 
+empted under section 514(a). 
+
+
+The weight of authority is against the plaintiffs. Accordingly, 
+any claim for relief under this theory must fail, and defen- 
+dants’ motion for judgment as a matter of law is granted on 
+count 5, fraudulent misrepresentation. 
+
+
+PUNITIVE DAMAGES 
+
+
+The court discusses plaintiffs’ claim for punitive damages 
+in its order on Findings of Fact and Conclusions of Law pages 
+78-79 [113a], wherein the court found punitive damages were 
+not appropriate in light of Novak v. Anderson Corp., 962 F.2d 
+757 (8th Cir. 1992). 
+
+
+MOTION FOR NEW TRIAL. 
+
+
+Federal Rule of Civil Procedure 59, in pertinent part pro- 
+vides that: 
+
+
+A new trial may be granted to all or any of the parties 
+and on all or part of the issues in an action in which 
+there has been a trial by jury, for any of the reasons for 
+which new trials have heretofore been granted in actions 
+at law in the courts of the United States. 
+
+
+46a 
+
+
+This court, in reviewing a motion for new trial, is not required 
+to view the evidence in the light most favorable to the non- 
+movant; rather, it may weigh the evidence, disbelieve wit- 
+nesses, and grant a new trial even where there is substantial 
+evidence to sustain the verdict. Quachita National Bank v. 
+Posco Corp., 686 F.2d 1291 (8th Cir. 1982). The authority to 
+grant a new trial is confided almost entirely to the exercise of 
+discretion on the part of the trial court. Allied Chemical Corp. 
+v. Daiflon, Inc., 449 U.S. 33, 36, 101 S.Ct. 188, 191, 66 
+L.Ed.2d 193 (1980). A motion for new trial should be granted 
+when the moving party has met his burden of showing either 
+that prejudicial error has been committed or substantial jus- 
+tice has not been achieved. Mid Continent Broadcasting Co. 
+v. North Central Airlines, Inc., 471 F.2d 357, 359 (8th Cir. 
+1973). 
+
+All other points and issues raised by defendants in their 
+motions and in their 171 page brief in support thereof, not 
+mentioned herein or in this court’s Findings of Fact and Con- 
+clusions of Law order, have been considered and are hereby 
+denied. Defendants’ shotgun approach to these motions does 
+not obligate this court to respond to each and every point 
+raised. The court has, however, reviewed each and every point 
+raised by defendants and finds those not discussed above or 
+in this court’s order on Findings of Fact and Conclusions of 
+Law are hereby denied. 
+
+
+THEREFORE IT Is HEREBY ORDERED that defendants’ 
+motion for judgment as a matter of law setting aside plain- 
+tiffs’ breach of contract jury verdict (count 1) is granted as 
+against all plaintiffs. 
+
+
+IT Is FURTHER ORDERED that defendants’ motion for judg- 
+ment as a matter of law on plaintiffs’ interference with pro- 
+tected rights claims (count 3) is denied as to the claims of the 
+MCC-Retired Class and the Individual Plaintiffs. Defendants’ 
+motion on said claim is granted as to the claims of the MCC- 
+Terminated Class. 
+
+
+IT Is FURTHER ORDERED that defendants’ motion for judg- 
+ment as a matter of law setting aside plaintiffs’ fraudulent 
+
+
+47a 
+
+
+misrepresentation jury verdict (count 5) claim is granted 
+against all plaintiffs. 
+
+
+IT Is FURTHER ORDERED that motion for judgment as a 
+matter of law as to punitive damages is granted and the jury’s 
+award of punitive damages is set aside. 
+
+
+IT Is FURTHER ORDERED that plaintiffs’ sall make an 
+election on damages within 20 days of the dace of this order. 
+Plaintiffs’ can either accept the relief granted in this court’s 
+Order on Findings of Fact and Conclusion of Law which 
+includes injunctive relief and actual damages or accept the 
+jury’s award on the claims listed above with the relief 
+granted, as set out below: 
+
+
+1. MCC Retired Class $7,600,000 for damayes past and 
+future. 
+
+
+2. The ten individual plaintiffs for damages past and 
+future: 
+
+
+John Altomare $ 80,000 
+Charles Barron $ 72,000 
+Alexander Charron $ 48,554 
+Charlotte Chiles $ 45,000 
+Anita Crowe $ 49,013 
+Ray Darr $ 100,000 
+Doris Guidicessi $ 50,000 
+Barnett Lucas $ 100,810 
+Robert Skromme $ 74,955 
+Estate of Walter Smith $ 92.000 
+
+Total $ 712,332 
+
+March 26, 1993 
+/s/ DONALD E. O'BRIEN 
+
+
+DONALD E. O’BRIEN, JUDGE 
+UNITED STATES DISTRICT CouRT 
+
+
+48a 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE SOUTHERN DISTRICT OF IOWA 
+CENTRAL DIVISION 
+
+
+No. 4-88-CV-1598 
+
+
+CHARLES HOWE, ROBERT WELLS, RALPH W. THOMPSON, 
+PATRICK MOUSEL, on Behalf of Themselves and as Rep- 
+resentatives of a Class of Persons Similarly Situated, JOHN 
+ALTOMARE, CHARLES BARRON, ALEXANDER CHARRON, 
+CHARLOTTE CHILES, ANITA CROWE, RAY DARR, DorRIS 
+GUIDICESSI, BARNETT LUCAS, ROBERT SKROMME, and 
+the Estate of WALTER SMITH, Individually, 
+
+Plaintiffs, 
+
+
+VARITY CORPORATION and MASSEY-FERGUSON INC., 
+
+
+Defendants. 
+
+
+FINDINGS OF FACT AND CONCLUSIONS OF LAW 
+
+
+Plaintiffs sued to recover benefits pursuant to the Employee 
+Retirement Income Security Act of 1974 (“ERISA”), 29 
+§ 1001, et seq., as well as several related federal common law 
+doctrines. Jurisdiction in this court is founded on 29 U.S.C. 
+§ 1132(e) and 28 U.S.C. § 1331. 
+
+This court has on this date entered another order in relation 
+to the post trial motions pertaining to the jury verdicts. This 
+order covers all issues, both those decided by the jury and 
+those decided by the court, to establish a better record in the 
+
+
+49a 
+
+
+event the Circuit Court finds that submission to a jury was 
+inappropriate. 
+In this Order, the court has, in summary: 
+
+1. Ruled that the MCC Retired Class and the individual 
+plaintiffs should prevail on their claims of equitable 
+estoppel and breach of fiduciary duty and that the 
+jury verdicts on these claims shall stand as relates to 
+them. 
+
+
+2. Ruled that these plaintiffs shall make an election of 
+remedies. 
+
+
+3. Set aside the jury verdicts for the MCC Terminated 
+Class on all of its claims. 
+
+
+BACKGROUND and PROCEDURAL HISTORY 
+
+
+There are ten individual plaintiffs. The court ruled on June 
+4, 1991, that these individuals could not proceed as a class 
+action. These plaintiffs will hereinafter be referre.' to as the 
+“Individual Plaintiffs.” 
+
+Also on June 4, 1991, the court ordered, pursuant to Fed. R. 
+Civ. P. 23(c)(4), that two subclasses of plaintiffs be created 
+and proceed as class actions. The first class consists of 
+eighty-three plaintiffs who worked for Massey-Ferguson, Inc. 
+(“M-F”) before May 9, 1986. These plaintiffs were thereafter 
+“transferred” to Massey Combines Corporation (“MCC”) and 
+retired before March 4, 1988, when MCC went into receiver- 
+ship (bankruptcy) in Canada. This class shall hereinafter be 
+referred to as the “MCC-Retired Class.” The second class is 
+comprised of one hundred forty plaintiffs who worked for M- 
+F before May 9, 1986. These plaintiffs were also thereafter 
+“transferred” to MCC. They were still employed on March 4, 
+1988. This class shall hereinafter be referred to as the “MCC- 
+Terminated Class.” 
+
+Defendants are M-F and Varity Corporation (“Varity”), 
+which formerly was known as Massey-Ferguson Ltd. 
+
+
+—— 7" 
+
+
+50a 
+
+
+The court entered a preliminary injunction on July 14, 
+1989. That injunction was modified by the Bighth Circuit 
+Court of Appeals in Howe v. Varity Corp., 896 F.2d 1107 (8th 
+Cir. 1990). (Howe I ) The case returned for further proceed- 
+ings, which included the addition of new parties, substantial 
+discovery, significant pleading amendments, numerous pre- 
+trial motions, and unsuccessful attempted appeals by plaintiffs 
+and defendants. 
+
+The case was tried before this court to a jury from August 
+26 until September 20, 1991. Defendants have throughout this 
+proceeding maintained plaintiffs do not have a right to a jury 
+trial. The court disagreed with defendants and on August 9, 
+1991, denied their motion to strike plaintiffs’ jury demand. 
+
+The court now enters the following findings of fact and 
+conclusions of law as would be required by Fed. R. Civ. P. 52 
+on those claims which are equitable in nature and treated as 
+advisory under Fed. R. Civ. P. 39(c). These findings and con- 
+clusions are also necessary to resolve plaintiffs’ requests for 
+injunctive relief. If the Circuit Court decides the jury trial 
+procedure was incorrect, this court anticipates the Circuit 
+Court will proceed to review these findings and conclusions 
+without the necessity of a remand. See generally Hurwitz v. 
+Hurwitz, 136 F.2d 796, 799 (D.C. Cir. 1943); Cuddy v. Car- 
+men, 694 F.2d 853, 859-60 (D.C. Cir. 1982); McKinney v. 
+Gannett Co., 660 F. Supp. 984, 991-92 (D.N. Mex. 1981); 
+Fed. R. Civ. P. 52, 39(c); 11 Wright & Miller, Federal Prac- 
+tice and Procedure § 2887, pp. 296-97 (1973). 
+
+
+FINDINGS OF FACT 
+
+
+1. M-F is a Maryland corporation, a wholly-owned sub- 
+sidiary, and it sold and distributed certain products manu- 
+factured by subsidiaries of Varity. It sells farm implements 
+and related parts. M-F’s principal place of business is in Des 
+Moines, Iowa. Varity is a publicly-owned holding company 
+and at all materials times had its worldwide headquarters in 
+Toronto, Ontario, Canada. Varity controlled the activities of 
+M-F at all relevant times. 
+
+
+sla 
+
+
+2. M-F has for many years provided its employees and 
+retirees basic health, major medical, life insurance, vision 
+care, hearing care, and dental benefits under an “employee 
+welfare benefit plan” within the meaning of 29 U.S.C. 
+§ 1002(1) and (3). These benefits are hereinafter collectively 
+called “welfare benefits.” The M-F plan was still in existence 
+at the time of trial. It has never been amended or terminated 
+by M-F or Varity in a manner eliminating welfare benefits. 
+There are no pension benefit claims in this case. 
+
+
+3. These employee welfare plans at all relevant times were 
+self-insured and administered through John Hancock. 
+
+
+4. These plaintiffs, while employed at M-F and Massey 
+Combines Corporation (“MCC”) were not a member of a 
+union and were considered management “at will” salaried 
+employees and were not covered by any collective bargaining 
+agreement or other employment contract of any kind. 
+
+
+5. M-F has for many years also paid severance pay to ter- 
+minated employees pursuant to a policy contained in its Per- 
+sonal Administration Manual (“PAM”). This policy is an 
+“employee welfare benefit plan” within the meaning of 29 
+U.S.C. § 1002(1) and (3). 
+
+
+6. The Individual Plaintiffs’ names, the number of years 
+each worked for M-F, and the month and year they retired are 
+as follows: John Altomare, twenty-one years, March 1983; 
+Charles Barron, sixteen years, January 1986; Alexander Char- 
+ron, twenty-four years, May 1983; Charlotte Chiles, ten years, 
+February 1986; Anita Crowe, thirteen years, April 1986; Ray 
+Darr, fourteen years, December 1986; Doris Guidicessi, sev- 
+enteen years, February 1986; Barnett Lucas, twenty-three 
+years, March 1985; Robert Skromme, eighteen years, Febru- 
+ary 1982; and Estate of Walter Smith, represented by his sur- 
+viving spouse Vera Smith, twenty-four years, November 1985. 
+
+
+7. The Individual Plaintiffs worked for and retired from 
+M-F, not MCC. None of the Individual Plaintiffs ever worked 
+for MCC, except Anita Crowe, who came back from her M-F 
+retirement to perform a one-time project for MCC. None of 
+the Individual Plaintiffs authorized a transfer of the obligation 
+
+
+52a 
+
+
+to pay welfare benefits from M-F to MCC. Defendants did not 
+seek permission from any of the Individual Plaintiffs before 
+attempting to transfer the obligation to pay welfare benefits 
+from M-F to MCC. Each of the Individual Plaintiffs under- 
+stood that M-F welfare benefits were to continue for life after 
+retirement. 
+
+
+8. Charles Howe and Ralph Thompson are the class rep- 
+resentatives for the MCC-Retired Class. They worked for M- 
+F for 23 and 29 years respectively. Both “transferred” to MCC 
+after May 9, 1986. They retired as salaried employees in 
+December and June 1987 respectively. Each understood that | 
+employee welfare benefits would continue throughout their 
+life or the life of their spouse, whichever was longer. 
+
+
+9. Patrick Mousel and Robert Wells are the class repre- 
+sentatives for the MCC-Terminated Class. They worked for 
+M-F for fourteen and twenty-seven years, respectively. After 
+May 9, 1986, they “transferred” to MCC and they were 
+employed as salaried employees on March 4, 1988. Both 
+understood that persons terminated from either M-F or MCC 
+for reasons beyond their control would receive a termination 
+allowance (severance pay). 
+
+
+10. On March 4, 1988, MCC went into receivership 
+(bankruptcy) in Canada. As a result, the individual Plaintiffs 
+and the members of the Retired Class stopped receiving wel- 
+fare benefits and the members of the Terminated Class lost 
+their employment without termination pay. Varity and M-F 
+maintain that only MCC was obligated to provide the welfare 
+benefits to plaintiffs. 
+
+
+11. Varity began in the early 1980s to reorganize its oper- 
+ating entities along product as opposed to geographic lines. 
+(Tr. 2254.) The Combines and Related Equipment (“CARE”) 
+Division and the Tractor Division were created in 1984 as part 
+of this “divisionalization” process. (Tr. 2254, 2255.) The 
+CARE Division manufactured and/or marketed the following 
+products: combines, four-wheel drive tractors, wide-level disc 
+harrows, balers, swathers and certain parts. (Tr. 614, 1304.) 
+After the CARE Division was created none of these products 
+
+
+p3a 
+
+
+could be sold for a profit because of the distressed market 
+conditions, except balers. A part of Project Sunshine! required 
+MCC to sell the balers exclusively to M-F who in turn sold 
+them for a profit. (Tr. 617, 741-47.) 
+
+
+12. Starting in 1982, there began an unprecedented decline 
+in the sales of combine harvesters in North America, caused 
+in significant part by an extreme depression in this country’s 
+agricultural economy. (Ex. 536(i).) 
+
+
+13. The CARE Division, which never was profitable, was 
+a Significant economic drag on Varity. (Tr. 617, 1304, 2948.) 
+During the fiscal year ending January 31, 1985, the CARE 
+Division lost $53.4 million, while other Varity divisions and 
+subsidiaries earned $55.6 million. (Ex. 265E; Tr. 2933.) Dur- 
+ing the first three quarters of 1985 the CARE Division lost 
+$35.4 million. Exs. 265E, 315; Tr. 2934-35.) 
+
+
+14. Varity’s financial position in early 1985 was very pre- 
+carious. (Tr. 3744.) The CARE Division's large losses threat- 
+ened to break Varity’s debt covenants. (Tr. 3799.) However, 
+other segments of Varity’s operations were profitable. 
+
+
+15. The losses incurred by the CARE Division led Varity in 
+1985 to consider company-wide financial restructuring, an 
+essential part of which was spinning off the CARE Division 
+into a privately-held Canadian corporation under Varity’s con- 
+trol. (Ex. 23, p. 17; Tr. 2211.) That corporation ultimately 
+became MCC. Varity named this project “Project Sunshine.” 
+(Tr. 2212.) Varity’s goals for Project Sunshine were to reduce 
+its debt burden to a manageable level (Ex. 274, p. 188), to 
+restore financial stability to Varity, and to “protect and insu- 
+late” itself from further deterioration of the combines busi- 
+ness. (Ex. 61; Tr. 736.) 
+
+
+16. The cornerstone of Project Sunshine was Varity’s 
+deconsolidation of its CARE Division to avoid showing on 
+Varity’s financial statements the large losses associated with 
+that division. (Tr. 2265.) Varity achieved this goal by spinning 
+off the CARE Division into MCC. (Ex. 316.) 
+
+
+Project Sunshine is discussed in detail in paragraphs 15-24 of 
+this order. 
+
+
+54a 
+
+
+17. In order to implement Project Sunshine, Varity could 
+not create MCC unless the new company had some employees 
+transferred to it. Furthermore, Varity wanted to rid itself of 
+substantial obligations for employee benefits due or to 
+become due both then working and retired employees. Defen- 
+dants maintain that all plaintiffs resigned or were terminated 
+from M-F and were hired by MCC as part of Project Sun- 
+shine. 
+
+
+18. Varity’s financial statements were enhanced signifi- 
+cantly by ridding itself of the CARE Division. (Tr. 809.) Mak- 
+ing November 2, 1985 the effective date of Project Sunshine, 
+even though the documents were not signed until May 9, 
+1986, enabled Varity to avoid showing approximately $54 
+million in fourth quarter losses associated with the combines 
+business. Varity wanted to avoid showing this loss because it 
+feared the reactions of creditors and investors. (Ex. 316, p. 8.) 
+
+
+19. The formation of a new company (MCC) in 1986 to 
+manufacture and sell self-propelled combines and the four- 
+wheel drive tractors was ill-conceived because of severe 
+industry problems. (Tr. 2618.) The entire industry had expe- 
+rienced severe declines in both of these product lines through- 
+out the 1980s. (Ex. 262.) The year 1986 was the all-time low 
+for the industry sales of self-propelled combines. (Exs. 262, 
+536(i); Tr. 2622.) Varity was the oniy farm machinery man- 
+ufacturer that deconsolidated its combines business during the 
+1980s. (Tr. 1264, 2651.) 
+
+
+20. Prior to May 9, 1986, Ivan Porter had worked for Var- 
+ity or one of its wholly-owned subsidiaries for many years as 
+a vice president, controller of its world-wide operations, and 
+president of its CARE Division. (Tr. 1952.) Varity, by actions 
+of its Chair and Chief Executive Officer Victor Rice, assigned 
+(“seconded”) Porter to the new MCC as its president and chief 
+executive officer with the intent that he would return to Var- 
+ity after two years. (Tr. 1957, 1961.) Porter remained an 
+employee of Varity while working with MCC. (Ex. 36; 
+Tr. 4367.) No other MCC employee and only a select few Var- 
+ity employees knew of this arrangement. Varity provided 
+
+
+55a 
+
+
+Porter a written indemnity agreement for his work with MCC. 
+(Exs. 88, 89.) Varity originally promised Porter a $150,000 
+bonus if he returned to Varity after two years. (Ex. 36; 
+Tr. 2219, 2250.) After Porter was asked to Stay with MCC 
+beyond two years, Varity increased the bonus to $250,000. 
+(Tr. 2221, 2250.) Varity paid the $250,000 bonus to Porter 
+after MCC went into receivership even though he did not 
+return to Varity. (Exs. 36, 51, 80, 104.) Rice arranged Porter’s 
+severance package from Varity, not MCC, after MCC’s 
+receivership. (Ex. 104.) 
+
+
+21. While he was president and CEO of MCC, Porter 
+retained an interest-free housing loan with Varity. (Tr. 1974.) 
+He was granted an option to purchase 200,000 shares of Var- 
+ity stock (which he exercised in 1988). (EX. 51: Tr. 1971.) He 
+also remained in Varity’s pension plan, stock option plan, and 
+benefit plan, which provided his health and medical benefits 
+and life insurance coverage. (Exs. 36, 51, 80, 104: Tr. 4151.) 
+
+
+22. Porter believed MCC had to participate in Project Sun- 
+Shine for the best interests of Varity. (Ex. 155.) Porter 
+received a $19,800 bonus from Varity after the Project Sun- 
+shine documents were signed on May 9, 1986. (Tr. 1997.) 
+
+
+23. Varity retained William Zinkewich (MCC’s chief finan- 
+cial officer) and Tony Colvin (an MCC vice president) on its 
+retirement plan for senior executives and provided life insur- 
+ance coverage at Varity’s senior executive levels. (Tr. 1979.) 
+Varity indemnified Zinkewich for his work with MCC. 
+(Tr. 1989, 4048, 4152.) Varity “rehired” Zinkewich within six 
+months of the MCC receivership. (Tr. 4761.) 
+
+
+24. Despite financial statements indicating that MCC had 
+an initial net worth of approximately $110 million, MCC was 
+essentially bankrupt from the outset. (Exs. 264B, 312; 
+Tr. 2912, 2916.) The fair market value of the MCC common 
+stock was zero or nominal. (Ex. 264B; Tr. 2903.) As of 
+May 9, 1986, MCC had incurred on its books approximately 
+$54 million in losses even though it had not been in opera- 
+tion. (Ex. 312; Tr. 2909.) Inventory, receivables, and other 
+assets that were transferred to MCC were overvalued by $46 
+
+
+a 
+
+
+56a 
+
+
+million. (Ex. 313; Tr. 2913-14.) Rationalization and restruc- 
+turing costs were underestimated. (Tr. 2913.) As a result of 
+Project Sunshine, MCC incurred one-time costs of $24.2 mil- 
+lion. Similarly, MCC’s liabilities, including unrecorded pen- 
+sion liabilities, were underestimated. In sum, MCC had a 
+negative net worth on the day it was created (May 9, 1986), 
+with liabilities exceeding assets by at least $46 million. 
+(Ex. 315; Tr. 2915-16, 2920.) MCC started on May 9, 1986, 
+with only $15,000 cash. It immediately drew on a line of 
+credit and began liquidating assets to generate cash. (Tr. 780.) 
+MCC had little or no chance of survival from its onset. 
+(Ex. 269B; Tr. 2493, 2618-19, 2925, 2952.) 
+
+
+25. As of May 9, 1986, the day of its creation, it was ques- 
+tionable whether MCC was a going concern. (Ex. 269B.) It 
+was always unlikely that MCC was going to generate suffi- 
+cient cash flow from manufacturing operations to pay off its 
+debts and obligations. Although there were plans to produce 
+combines in the future, the essence of the MCC business plan 
+was liquidation of assets. (Tr. 2923.) 
+
+
+26. In the first month of MCC’s existence, MCC execu- 
+tives, including Porter, openly discussed among themselves 
+that MCC could not survive. The expression they used was, 
+“that dog won’t hunt.” (Tr. 802-03.) All of MCC’s officers, 
+including Porter, agreed that MCC’s chances of survival were 
+not good. (Tr. 803-04.) 
+
+
+27. During its first year of existence, MCC lost approxi- 
+mately $88 million (as of January 31, 1987). During the first 
+quarter of 1987 (February 1 to April 30), MCC lost $15 
+million dollars. MCC predicted a loss of $54 million dollars 
+for the remaining three quarters of 1987 (May | through 
+January 31, 1988). (Ex. 132; Tr. 4869-74.) 
+
+
+28. L. W. Templeton gave unchallenged testimony that 
+Rice, Varity’s Chairman and Chief Executive Officer, bragged 
+to his peers that he had “unloaded his losers ail in one wagon” 
+through Project Sunshine. (Tr. 2652.) Templeton testified that 
+Rice said he was “putting his big product losers, combines 
+and four-wheel drives in [MCC]. He told us he was putting 
+
+
+57a 
+
+
+his big losers, company stores in [MCC] and told us he was 
+shifting several thousand retirees and their pension obliga- 
+tions into [MCC] and was delighted to be out from under all 
+those obligations. Oh, yeah. He also told us that he got the 
+lenders to agree to shove about $200 million worth of debt 
+over into [MCC] off of [Varity].” (Tr. 2651-52.) 
+
+
+29. MCC assumed $282.4 (Canadian) million of long-term 
+debt from Varity and M-F for inadequate consideration. 
+(Tr. 752, 2030, 4863.) 
+
+
+30. Defendants “transferred” to MCC the obligation to pro- 
+vide welfare benefits for approximately 4,000 retirees, as well 
+as the obligation to pay welfare benefits for the 1,500 CARE 
+Division active employees. (Tr. 2001, 4932.) John Ruth, for- 
+mer president of M-F, testified the transfer “was absolutely 
+cutting the throats for those 4,000 they allowed to go down 
+the drain.”? (Tr. 1512.) All of the retirees had worked for 
+M-F, not MCC. The annual savings to defendants was in the 
+millions of dollars. (Tr. 753-54.) These obligations were 
+MCC’s largest fixed costs. (Tr. 2061, 4934-35.) Defendants 
+acknowledged in internal correspondence that it was in their 
+best interest to have all the employees accept the transfer. 
+(Ex. 47.) 
+
+
+31. Historically, M-F retail stores were a part of the Trac- 
+tor Division, not the CARE Division. Nevertheless, they were 
+transferred to MCC as a part of Project Sunshine because in 
+1984 and 1985 the stores were losing approximately $6 mil- 
+lion a year. (Tr. 626-27, 647.) In order to avoid taking an 
+accounting loss themselves, defendants forced MCC to take 
+retail inventory that MCC did not want. (Ex. 155; Tr. 711-13, 
+727.) The inventory in the retail stores was transferred to 
+MCC at book value. (Tr. 715-16.) The book value of the 
+inventory was twenty to forty percent greater than the market 
+value. (Tr. 711, 729.) Porter, the CEO for MCC, stated at the 
+time of MCC’s formation that the retail stores were “encum- 
+bered with this unwanted overvalued inventory,” most of the 
+
+
+‘ Mr. Ruth is referring to retirees. 
+
+
+wre Oa Saree 
+
+
+58a 
+
+
+equipment was “junk,” and important to “nurse our way 
+through the problem in the best interest of M-F Limited [Var- 
+ity].” (Ex. 155; Tr. 1361-62.) Porter viewed the retail stores as 
+working “for nothing.” (Ex. 155.) 
+
+
+32. Defendants required MCC to secure approval of M-F 
+before MCC could sell equipment at below book value. 
+(Tr. 719-20.) Reserves established (money supposedly set 
+aside) by Varity to cover MCC’s losses on transferred inven- 
+tory sold below book value were not always paid promptly to 
+MCC, causing cash flow problems. (Tr. 733.) 
+
+
+33. Prior to Project Sunshine, the parts business was part of 
+the CARE Division. The defendants did not transfer the lucra- 
+tive parts business from the CARE Division to MCC. 
+(Tr. 734.) The parts business was very profitable, with a gross 
+margin of fifty-two to fifty-five percent. (Tr. 748.) The 
+absence of a parts business adversely affected MCC’s cash 
+flow, profit, and ability to supply MCC dealers with repair 
+parts. (Tr. 749.) 
+
+
+34. Real estate located in Toronto, Ontario, Canada (called 
+the King Street property) was valued in the millions of dollars 
+and was a part of the CARE Division. However, this property 
+was not transferred to MCC as a part of Project Sunshine. 
+(Tr. 734-35, 749-50.) 
+
+
+35. After May 9, 1986, MCC was a private Canadian stock 
+company, owned 45% by Varity, 35% by the Canadian Impe- 
+rial Bank of Commerce, and 20% by the Canadian govern- 
+ment. The Canadian Imperial Bank of Commerce and the 
+Canadian government obtained their MCC stock in consid- 
+eration of forbearance on loans to Varity as part of the debt 
+restructuring of Varity accomplished through Project Sun- 
+shine. No new money was paid or loaned as part of the stock 
+transactions. (Tr. 2020.) 
+
+
+36. MCC manufactured relatively few rotary combines dur- 
+ing its existence. (60 Model 8560 in August 1986, 110 Model 
+8590 and 71 Model 8560 in March and April of 1987) 
+(Ex. 575(k) at 3, Tr. 4214.) 
+
+
+59a 
+
+
+37. Prior to May 9, 1986, MCC was owned completely by 
+Varity and MCC’s board of directors was comprised entirely 
+of Varity employees. Varity employees created and executed 
+all relevant Project Sunshine agreements for MCC. For exam- 
+ple, Varity’s in-house legal counsel, Robert Garland, signed 
+the service agreements on behalf of both Varity and MCC and 
+no independent counsel reviewed the documents for MCC. 
+(Exs. 121, 122, 125, 140; Tr. 2379-81.) Also, M-F’s in-house 
+legal counsel, Ed Ludlow, signed the assignment and assump- 
+tion agreement on behalf of both M-F and MCC without inde- 
+pendent review for MCC. (Ex. 171.; Tr. 2382-84.) Defendants 
+admitted MCC was not independent when the Project Sun- 
+shine documents were finalized. (Tr. 2248, 2264.) 
+
+
+38. After May 9, 1986, MCC had a five-member board. 
+Varity, not MCC, indemnified the members of the MCC 
+board. (Tr. 2224.) Varity’s president, Vincent Laurenzo, was 
+the chairman of MCC’s board. Varity’s senior vice president 
+of finance and the director of Project Sunshine, Neil Arnold, 
+was a member of MCC’s board. Two seats were filled by a 
+representative from the Canadian Imperial Bank of Com- 
+merce, Varity’s largest lender, and a representative of the 
+Canadian government. The fifth seat was filled by an 
+employee of Wood Gundy, a Canadian investment bank, that 
+did work for Varity and represented Varity during Project 
+Sunshine. (Tr. 3836.) No officers of MCC were ever on its 
+board. (Tr. 643, 4017.) 
+
+
+39. The CARE Division employees were referred to as 
+MCC’s employees after May 9, 1986. However, the employ- 
+ees who were transferred retained their M-F employee num- 
+bers. (Tr. 4724.) MCC and M-F shared the same physical 
+location that had been and was at all relevant times M-F’s 
+United States headquarters. During the time MCC was shar- 
+ing facilities with M-F, only the M-F name appeared on the 
+building’s marquee. (Tr. 762.) In addition, only the Massey- 
+Ferguson name appeared on MCC’s manufacturing facility in 
+Brantford, Ontario, Canada. (Tr. 2050-51.) MCC and M-F had 
+a common receptionist and telephone number, which was 
+
+
+60a 
+
+
+answered “Massey-Ferguson.” MCC began business using M- 
+F’s stationery. (Tr. 762-63.) With a few exceptions, MCC’s 
+products were sold by M-F dealers. The dealers maintained 
+the existing “Massey-Ferguson” signs. “Massey” or “Massey- 
+Ferguson” was the name on the combines sold by MCC. 
+(Tr. 765-67.) MCC was totally dependent on the market good- 
+will of defendants. (Tr. 1496-97.) 
+
+
+40. MCC kept much of its insurance under the defendants’ 
+group policies. (Tr. 4877.) 
+
+
+41. Varity established an Operations Review Committee 
+(“ORC”) to monitor, review, and issue directives regarding 
+the budget, expenditures, plans, policy, and performance of 
+MCC. (Ex. 155; Tr. 707-08, 710, 797-98.) Rice, Varity’s 
+Chairman and Chief Executive Officer, and Laurenzo, Varity’s 
+President, both served on the ORC. (Tr. 2216.) Rice and Lau- 
+renzo hand-picked the other members of the ORC, all of 
+whom were Varity employees. (Tr. 2392.) The ORC reviewed 
+matters related to MCC’s operations before those matters 
+were presented to the MCC board. (Tr. 2264.) 
+
+
+42. Laurenzo met with Porter approximately twice a month 
+during MCC’s existence to discuss MCC operations. 
+(Tr. 2259-60.) Porter consulted with Laurenzo in setting 
+Richard Brown’s salary as Vice-President of MCC. (Tr. 755- 
+56.) Porter and Laurenzo also set criteria for paying bonuses 
+to MCC executives. (Tr. 757-58.) Laurenzo was personally 
+involved in the revision of MCC’s business action plans. 
+(Tr. 2261-62.) 
+
+
+43. MCC had a “cash management committee” comprised 
+of Porter, Zinkewich, and Gary Stewart. This committee con- 
+trolled all expenditures of cash by MCC. Stewart, who was 
+MCC’s treasurer, went to work for M-F prior to MCC’s 
+receivership. 
+
+
+44. At the insistence of Varity, MCC included in its budget 
+unrealistic sales projections to match Varity projections upon 
+which lenders relied in assessing the viability of Project Sun- 
+shine. (Exs. 67, 136; Tr. 787-89.) 
+
+
+“as, eS |? © 4, @*- ae a 
+‘ ‘ 
+
+
+Ola 
+
+
+45. Varity retained for two years the obligation to make up 
+for shortfalls, up to $25 million, in MCC Canadian pension 
+obligations. 
+
+
+46. Varity provided numerous services to MCC, including 
+parts, warehousing, computer processing, management ser- 
+vices, facilities, legal services, marketing, payroll services, 
+and employee benefits services. (Tr. 2263-64, 2320-21.) Var- 
+ity billed MCC for the services, but MCC did not always pay. 
+(Tr. 2320.) Ai the time of the receivership, MCC owed Varity 
+$6-7 million dollars in unpaid bills for services. (Tr. 4249, 
+4854.) 
+
+
+47. Ludlow (M-F) and his staff provided legal services to 
+MCC. (Tr. 2370.) Garland (Varity) also provided legal ser- 
+vices to MCC. (Tr. 2371.) MCC never had anyone on its own 
+payroll who provided legal services. (Tr. 2371.) 
+
+
+48. Varity or one of its subsidiaries paid MCC officers dur- 
+ing 1986. (Tr. 2258-59.) Varity still issued MCC—Vice Pres- 
+ident Brown’s monthly paycheck until about mid-1987. 
+(Tr. 756.) 
+
+
+49. Varity and MCC used the same benefit consultants. 
+(Tr. 4901-02.) The benefit plan used by the defendants and 
+MCC was administered by the same human resources depart- 
+ment. All employees relied upon the same summary plan 
+description and the same PAM. (Exs. 1, 114, 327.) 
+
+
+50. Even though Varity knew well before December 1987 
+that MCC was collapsing, Varity continued to extend retail 
+financing to MCC on a “business-as-usual” basis. (Tr. 2230.) 
+
+
+51. At Varity’s request, M-F paid some of MCC’s suppli- 
+ers. (Tr. 1509-11.) Varity also made advances for payroll, 
+administration and trade fees, and accounts payable distri- 
+bution. (Tr. 2943-44, 3087.) 
+
+
+52. Although M-F could put an MCC dealer on “COD”, 
+M.-F was constrained by Varity from forcing MCC stores into 
+bankruptcy because it would have brought down Varity’s 
+“house of cards.” (Tr. 1532.) 
+
+
+62a 
+
+
+53. In the fall of 1987, when Varity knew MCC was col- 
+lapsing, MCC transferred back to Varity six of its most prof- 
+itable retail stores. (Tr. 807-08.) 
+
+
+54. In October of 1987, Porter told MCC senior manage- 
+ment that MCC was about to go into receivership, and rec- 
+ommended to some that they return to Varity or look 
+elsewhere for employment. Porter did not give similar warn- 
+ing or advice to the rank and file. (Tr. 4402-04.) 
+
+
+55. In late 1987 Varity developed an “exposure mini- 
+mization plan” to minimize Varity’s exposure in the event that 
+MCC went into receivership. (Tr. 2231-32, 2266.) Porter and 
+Arnold were on the steering committee. (Tr. 2323-24.) Lud- 
+low worked on the legal aspects of the plan. (Tr. 2375-76.) 
+
+
+56. Through its participation on the MCC board of direc- 
+tors, Varity participated in the decision to put MCC into 
+receivership. (Tr. 2229.) 
+
+
+57. The court finds that MCC was never an independent 
+legal entity separate and apart from defendants. Varity and 
+M-F designed, created, and controlled every aspect of MCC 
+throughout its existence. 
+
+
+58. Exhibit A (“Porter letter”) and Exhibit B (“McAdams 
+letter”) contain the only written material explaining the for- 
+mation of MCC directly provided to the Retired Class and the 
+Terminated Class prior to their “transfers” from M-F. 
+(Tr. 4909.) 
+
+
+59. The Porter letter went to the non-retail store employ- 
+ees and the McAdams letter went to the retail store employ- 
+ees. The information in the letters is identical. 
+
+
+60. The information contained in the Porter and McAdams 
+letters included: a cover letter; an “acceptance” form; a tran- 
+script of the Porter videotape; a side-by-side comparison of 
+the benefits between M-F and MCC; and a question-and- 
+answer sheet. 
+
+
+61. In order to communicate this information to the CARE 
+employees, defendants arranged various meeting sites in 
+
+
+63a 
+
+
+North America. The only meeting site for plaintiffs was at 
+M-F’s corporate headquarters in Des Moines. All available 
+employees met in a large meeting room where a video-taped 
+message from Porter was shown. The tape lasted approxi- 
+mately ninety seconds. The Porter letter was then distributed. 
+According to defendants, the entire meeting, which included 
+viewing the Porter tape, receiving and reviewing the Porter 
+letter, and signing and returning the acceptance of the trans- 
+fers, was to last thirty minutes at the most. Defendants 
+directed that the tone of the meeting was to be “as light, 
+upbeat, and positive as possible.” Defendants wanted to 
+“encourage, all salaried employees to sign the acceptance 
+- . « and to leave [the acceptance form at the meeting].” 
+(Ex. 47; Tr. 4909.) 
+
+
+62. Defendants wanted to have all the employees sign the 
+acceptance (Ex. A page 7) (which in effect transferred M-F 
+employees to MCC) because they did not want to be respon- 
+sible for the termination costs or the costs associated with the 
+unfunded retirement benefits of employees who either were 
+eligible to retire from M-F on or before May 9, 1986, or who 
+would be retiring from MCC. (Ex. 47.) 
+
+
+63. Information given to the employees portrayed a posi- 
+tive economic outlook for MCC. For example, the Porter let- 
+ter and the Porter video tape transcript state: 
+
+
+We are all very optimistic that our new company has a 
+bright future. . . 
+
+
+* * - 
+
+
+. . . We are doing many other exciting things designed to 
+improve the profitability . . . of the business 
+
+
+* * * 
+
+
+This financial restructuring created Massey Combines 
+Corporation and will provide the funds necessary to 
+ensure its future viability. 
+
+
+* - * 
+
+
+64a 
+
+
+[Porter] Finally, despite the depression which persists in 
+the North American economy, I am excited about the 
+future of Massey Combines Corporation. Together we 
+can exploit all available opportunities in the combines 
+business. I look forward to working with you in the 
+future to ensure the success of Massey Combines Cor- 
+poration. 
+
+
+64. The question and answer sheet (“Q & A sheet”) in 
+Exhibits A and B contained eight questions and answers. 
+Defendants developed these questions and answers in antic- 
+ipation of the “many concerns” by the employees. Defendants 
+purposefully made the questions and answers incomplete, 
+confusing, evasive, and deceptive. Defendants developed 
+more forthright questions and answers, but they opted not to 
+publish them. (Exs. 42, 46, 47.) 
+
+
+65. Information in Exhibits A and B concerning benefits 
+was very limited. That information included a side-by-side 
+comparison showing that M-F’s and MCC’s benefits were 
+identical. The only question dealing with benefits was num- 
+ber three. The answer simply stated that “benefit programs 
+will remain unchanged.” Defendants considered telling the 
+employees that “initially” benefits would remain the same but 
+that MCC would be reviewing the benefits and would notify 
+the employees of any changes. Defendants rejected this dis- 
+closure because they believed it would cause the employees 
+to reject the acceptance forms. Soon after the employees 
+transferred to MCC, Varity began to develop “creative and 
+innovative ways” to reduce employee benefits. (Ex. 67.) 
+
+
+66. Defendants did not include in the Q & A sheet certain 
+questions that they knew the employees wanted answered. For 
+example, the employees wanted to know whether they were 
+eligible for termination pay from M-F. The employees also 
+wanted to know if they could take early retirement from M-F. 
+Defendants purposefully did not provide answers to these and 
+other questions because they wanted the employees to trans- 
+fer to MCC in order to avoid the liabilities associated with 
+severance pay and retirement benefits. (Ex. 47.) Defendants’ 
+
+
+65a 
+
+
+failures to make these disclosures were to the detriment of the 
+Retired and Terminated Classes. 
+
+
+67. Defendants knew they should tell the employees that 
+they claimed the right to amend or terminate benefits in 
+retirement. Zinkewich wrote to Porter on April 15, 1986, as 
+follows: 
+
+
+The following proposal results because of the govt’s and 
+lenders insisting that in communicating with employees 
+in the formation of MCC, that we are very explicit about 
+maintaining our rights to modify benefits in the future, 
+i.e., that there is no promise that the present benefits will 
+be guaranteed forever. As a result we are faced with the 
+awkward situation that the letter may not attract those 
+employees who we would like to join MCC. 
+
+
+(Ex. 42.) Defendants ultimately decided to ignore the above 
+set out proposal and not make the disclosure to the employ- 
+ees. 
+
+
+68. The representations made in the Porter and McAdams 
+letters regarding the potential financial viability of MCC, 
+MCC’s business outlook, and the employee benefits were 
+materially misleading. Defendants knew the representations 
+were materially misleading when they were made. Plaintiffs 
+relied on these representations to their detriment. 
+
+
+69. Project Sunshine was, as mentioned above, a scheme 
+designed, in part, to rid defendants of the obligations to pay 
+benefits to retirees and employees of M-F. 
+
+
+70. Defendants did not attempt to persuade the Individual 
+Plaintiffs to transfer to MCC; rather, defendants unilaterally 
+assigned the Individual Plaintiffs and the obligation to pay 
+their benefits to MCC. The Individual Plaintiffs were not 
+aware that this had occurred until the receivership of MCC. 
+Defendants did not unilaterally assign to MCC their obliga- 
+tion to provide welfare benefits to retirees from the Tractor 
+Division. Those retirees are still receiving welfare benefits 
+under the M-F Plan. 
+
+
+sol ~ 
+
+
+66a 
+
+
+71. M-F maintained an employee benefits package that was 
+intended to attract and retain employees. (Tr. 2220.) M-F 
+described the benefits package to its employees by dis- 
+tributing a three-ring booklet entitled You and Massey Fer- 
+guson (“You and M-F”), which after January 1, 1982 
+contained Section I. (Exs. 114, 327.) You and M-F was writ- 
+ten in language designed to be understood by a person with a 
+sixth-grade education. (Tr. 1692.) It contains well over two 
+hundred pages of material. 
+
+
+72. M-F intended that each employee have a copy of You 
+and M-F and rely on it for information about benefits. 
+(Ex. 114; Tr. 469.) 
+
+
+73. You and M-F was updated from 1974 through 1981 by 
+sending an announcement to the employees followed by 
+replacement pages to be inserted by the employee and instruc- 
+tions that the pages being replaced were to be removed. 
+(Tr. 1314.) John Ruth, president of M-F from 1982 to 1987, 
+never instructed anyone at M-F to end this procedure and he 
+assumed the procedure continued while he was president. 
+(Tr. 1314.) 
+
+
+74. During their employment with M-F and prior to May 9, 
+1986, plaintiffs were all given a copy of You and M-F. They 
+were told they should look to You and M-F to determine the 
+employee benefits they were entitled to, including retirement 
+benefits. Some plaintiffs had been told by defendants’ rep- 
+resentatives that You and M-F was the “Benefits Bible.” 
+
+
+75. You and M-F was first published in 1974. There was no 
+statement in the book about a claimed reserved right to amend 
+or terminate the benefits in retirement. In October of 1978 M- 
+F changed from an insured plan to a self-insured plan and as 
+a part of that transaction adopted the Massey-Ferguson, Inc. 
+Employee Benefits Plan and Trust (“M-F Employee Benefits 
+Plan” or “M-F Plan”). Section 7.4 of the M-F Plan provided 
+that M-F reserved the right to amend or terminate the bene- 
+fits. This provision was the focal point of Howe /. Because of 
+the adoption of § 7.4, M-F had the legal duty to provide each 
+employee by the end of 1978 an updated You and M-F that 
+
+
+$7a 
+
+
+contained, “in a manner calculated to be understood by the 
+average plan participant [employee],” notification of M-F’s 
+claimed right to amend or terminate the benefits. 29 U.S.C. 
+$§ 1022(b) and 1024(b)(1). Also, M-F had the legal duty to 
+provide each employee by July 31, 1979, a summary descrip- 
+tion of the change in the M-F Plan notifying the employees 
+that M-F reserved the right to amend or terminate the welfare 
+benefits. 29 U.S.C. § 1024(b)(1). In addition, M-F had a legal 
+duty to provide each employee by the end of the year in 1983 
+an updated You and M-F containing all plan amendments 
+made within the preceding five-year period, especially includ- 
+ing appropriate notification of M-F’s claimed right to amend 
+or terminate the plan. 29 U.S.C. §§ 1022(b) and 1024(b)(1). 
+Furthermore, MCC had a legal duty to provide within ninety 
+days of May 9, 1986, each of its employees with a summary 
+plan description (such as You and M-F), which again would 
+have been required to contain a provision properly notifying 
+the employees of MCC’s claimed right to amend or terminate 
+the benefits. 29 U.S.C. § 1024(b)(1). Defendants and MCC 
+failed to comply with every one of these legal notification 
+requirements. 
+
+
+76. At MCC the Retired Class continued to rely on You and 
+M-F for information about their benefits. (Tr. 479.) They were 
+never told to stop relying on You and M-F. (Tr. 479.) No sum- 
+mary plan description was published for MCC employees. (Tr. 
+4918-19.) 
+
+
+77. You and M-F contained the following statements: 
+
+
+The company has a total compensation policy which 
+keeps pace with industry and is considered to be among 
+the best. This booklet summarizes the various life, 
+health, and disability insurance policies and the retire- 
+ment income plan for salaried employees. These benefits 
+represent a significant element of compensation in addi- 
+tion to your paycheck since they relieve you of putting 
+aside a part of your cash income to take care of health 
+problems and to provide for your survivors or for your 
+Own years in retirement. 
+
+
+Section I. p. 8 
+
+
+68a 
+
+
+When you retire from the Company you take with you a 
+number of benefits from your employment— 
+
+
+* * * 
+
+
+— basic health benefits 
+— major medical benefits 
+— dental health benefits 
+— vision care benefits 
+
+— hearing aid benefits 
+
+
+— non-contributory life insurance, 150% of final annual 
+rate of earnings to age 65—-then $3000 
+
+
+— life insurance from your contributory policy, if appli- 
+cable 
+
+
+Section VIII, p. 5. 
+
+
+The basic health, major medical, dental! health, vision 
+care, and hearing aid benefits for Company employees 
+continue in retirement. About 3 months before your 65th 
+birthday, you are expected to enroll in the Part ‘B’ of the 
+social security Medicare program which provides med- 
+ical insurance in addition to the hospital insurance pro- 
+vided under Part ‘A’. At this time the Company will 
+assume you are covered by Medicare, and the Company 
+health benefits will take responsibility for only those 
+covered expenses not covered by Medicare. At the same 
+time, the Company will reimburse you, in your monthly 
+pension check, for the Medicare Part ‘B’ premium which 
+is deducted from your monthly social security check. 
+
+
+It is your responsibility to inform the Company when 
+your spouse attains age 65 and enrolls in Medicare Part 
+‘B’ in order that the Company may reimburse you for the 
+cost of your spouse’s Medicare deduction from monthly 
+social security income. It is also your responsibility to 
+advise the Company in the event of the death of your 
+
+
+69a 
+
+
+spouse, so that the Company’s reimbursement for Medi- 
+care is adjusted. 
+
+
+Section VIII, pp. 7-8. 
+
+
+Coverage under the group benefits plan—basic health 
+and major medical— 
+
+
+1. continues for employees who retire as pensioners and 
+their dependents; 
+
+
+2. continues for surviving dependents of a retiree; 
+Section IV, pp. 12-13. 
+
+
+Vision Care Insurance continues for employees who 
+retire as pensioners and for'their dependents. 
+
+
+Section IV, p. 16. 
+
+
+If you work beyond your 65th birthday, your non-con- 
+tributory life insurance continues in force until you retire 
+when, effective at midnight of the last day of the month 
+prior to the day pension begins, $3,000 remains in force 
+for the rest of your life, payable to a beneficiary or 
+estate. 
+
+
+Section II, p. 2. 
+
+
+Life insurance coverage in retirement continues to be 
+paid for by the Company. 
+
+
+If you enroll in the contributory life insurance plan when 
+you are first eligible, within 31 days of hire, OR partic- 
+ipate in it for at least 15 years before retirement, you 
+continue to be insured in retirement at no cost to you. 
+
+
+In retirement before age 66, the insurance continues in 
+force at 50% of your final annual rate of earnings and is 
+reduced by 5% per year on your 66th, 67th, 68th, 69th, 
+and 70th birthdays. The reduction is effective at mid- 
+night at the close of the birthday. If you retire at age 66 
+
+
+70a 
+
+
+or later, the insurance coverage drops to the level des- 
+ignated by your last birthday. At age 70, then, insurance 
+equal to 25% of your last annual rate of earnings is still 
+in force and remains in force for the rest of your life, 
+payable to your beneficiary or estate at time of your 
+death. 
+
+
+Section II, p. 3. 
+
+
+The dental health plan covers all full-time salaried 
+employees, retirees, and eligible dependents. 
+
+
+Section V, p. 1. 
+
+
+78. The Retired Class and the Individual Plaintiffs under- 
+stood from this language in You and M-F that if they worked 
+for defendants until retirement, they would have the stated 
+insurance coverage for the rest of their lives at the levels being 
+provided to them on the date of their retirement. (Tr. 474.) 
+Other witnesses including those not seeking insurance bene- 
+fits testified similarly. Ruth, M-F’s former president and not 
+a party here, understood M-F did not have a right to terminate 
+benefits for employees who had already retired from the com- 
+pany. (Tr. 1318.) Ruth understood that if he had retired, he 
+would have received insurance benefits for the rest of his life. 
+(Tr. 1315.) Robert Wells, who worked for a number of years in 
+the personnel department and human resources department for 
+M-F and a person who was well acquainted with such prob- 
+lems, (Tr. 3217) understood that once an employee retired, his 
+or her benefits would continue for life. Richard Brown, an 
+officer of M-F and later an officer of MCC, understood that 
+health benefits would continue for life after retirement. 
+(Tr. 818.) Plaintiffs’ expectations and understandings were 
+reasonable given the language in You and M-F. 
+
+
+79. Jenivie Jack is a person who had worked in the area of 
+benefits and was the person who had gathered the information 
+and wrote the original version of You and M-F, which was 
+reviewed by persons in M-F’s personnel and human resources 
+departments. (Tr. 1689.) She understood, based on informa- 
+tion from the benefits department and the past practices of the 
+
+
+_Tla 
+
+
+company, that retirement benefits would continue for life. 
+(Tr. 1695-96.) Jack believed that she would have her insur- 
+ance benefits for life after retirement, and she has continued 
+to receive her benefits from M-F since her retirement in 
+February in 1982. She was not transferred to MCC. 
+
+
+80. M-F’s intent to continue benefits for life after retire- 
+ment was confirmed by past company practice. Defendants 
+were reluctant to attempt to change existing retiree benefits. 
+(Tr. 4053.) From at least 1971 until 1984, benefits for United 
+States salaried retirees were never reduced or terminated. 
+(Tr. 4714.) A January 1, 1984 change in benefits was the only 
+reduction ever made applicable to benefits of existing 
+retirees, and that reduction was minimal. That change was not 
+communicated to existing employees, but only affected 
+retirees. (Tr. 4685.) As a result, the plaintiffs were never on 
+notice that the defendants had on one occasion reduced ben- 
+efits for existing retirees. Former president Ruth had partic- 
+ipated in a series of conversations over a period of several 
+years where it was expressed that M-F could not reduce ben- 
+efits for people who had already retired. (Tr. 1594-95.) 
+
+
+81. The Individual Plaintiffs and the Retired Class were 
+not informed prior to retirement that their benefits might be 
+terminated by the company. (Tr. 2739.) To the contrary, 
+employees received letters setting forth that certain benefits 
+would continue in retirement. (Ex. 184, p. 243; Tr. 489.) 
+
+
+82. After members of the Retired Class had transferred to 
+MCC and after they had communicated to MCC their decision 
+to retire, they received a post-retirement letter which con- 
+tained a statement that the welfare benefits were subject to 
+change or termination during retirement. However, these let- 
+ters were received after the employees had completed their 
+employment with defendants. 
+
+
+83. Defendants never distributed the M-F Plan to M-F 
+employees. The Retired Class and Individual Plaintiffs never 
+saw the M-F Plan or its §7.4 (reservation of rights clause) 
+(Ex. 156; Tr. 479.) The few who did see the M-F Plan were all 
+working in the benefits department. However, there were even 
+
+
+72a 
+
+
+people who were working in the benefits department who 
+never saw the M-F Plan and never knew such a plan existed. 
+Top officials including Porter (Tr. 4261.), Ruth (Tr. 1319.), 
+Brown (Tr. 823.), and Jack, author of You and M-F and 
+updates thereto, never saw the M-F Plan. (Tr. 1696-1700.) 
+Since these officials were not aware of the reservation of 
+rights clause it is appropriate to find that the rank and file 
+employees were not either. 
+
+
+84. There is nothing in You and M-F that informs employ- 
+ees that the company could terminate welfare benefits after 
+retirement. (Tr. 1695.) You and M-F does not and never did 
+contain a reservation of the right to terminate benefits. 
+(Tr. 478.) Jack was never told to revise You and M-F to 
+include a reservation of the right to terminate. (Tr. 1697- 
+1700.) 
+
+
+85. Defendants have failed to point out any language in 
+You and M-F that advises plaintiffs that the company had 
+reserved the right to terminate welfare benefits after an 
+employee retired. Rather, defendants point to language on 
+page 4 of Section IX of You and M-F (page 208 of the book- 
+let) that tells plaintiffs they have a right to examine and 
+obtain copies of (at a reasonable charge) all plan documents 
+at the plan administrator’s office. There is no description of 
+the plan documents. A reasonable person could conclude the 
+reference on page 208 of the booklet was to You and M-F as 
+they were unaware of any other plan or plan documents. Fur- 
+thermore, it would not have been sufficient or effective to 
+have given a copy of the M-F Plan to each employee because 
+as defendants’ benefits communication expert witness Louise 
+Fitzgerald testified it would have been an ERISA violation to 
+give the plaintiffs a copy of the M-F Plan in substitution for 
+the summary plan description. She also testified it would not 
+have been realistic to have expected that the employees would 
+have been able to understand the terms of the M-F Plan. 
+
+
+86. You & M-F does contain an ERISA statement of rights 
+notifying participants of the existence of a governing plan 
+document and a statement alerting participants of the com- 
+pany’s control over the plan: 
+
+
+, 73a 
+
+
+STATEMENT OF RIGHTS 
+
+
+As a participant in the Massey-Ferguson welfare, pen- 
+sion, and savings plans for salaried employees you are 
+entitled to certain rights and protections under the 
+Employee Retirement Income Security Act of 1974 
+(ERISA). ERISA provides that all plan participants shall 
+be entitled to: 
+
+
+Examine, without charge, at the plan administra- 
+tor’s office and at other specified locations all plan 
+
+documents and copies of all documents filed by the 
+plan with the U.S. Government. 
+
+
+Obtain copies of all plan documents and other plan 
+information upon written request to the plan admin- 
+istrator. The administrator may make a reasonable 
+charge for the copies. 
+
+
+Receive a summary of the annual financial report of 
+the Pension Plan and of the Savings Plan. The plan 
+administrator is required by law to furnish each par- 
+ticipant with a copy of each of these summary 
+annual reports. 
+
+
+* * * 
+
+
+Massey-Ferguson Inc. is the plan sponsor and adminis- 
+trator of the Company’s pension, savings, and welfare 
+plans. The plan sponsor has control over the plans and 
+the administrator is responsible for administering the 
+plans. (emphasis in original) 
+
+
+87. Over the years 1981 to 1986, M-F changed and/or 
+decreased the level of benefits to employees and/or retirees, 
+by decreasing the benefits or by raising the cost to the 
+employee or retiree, and informed employees and/or retirees 
+of those changes in written communications. 
+
+
+88. In December 1981, M-F amended its health benefits 
+plan to require from active employees contributions toward 
+the cost of health benefits, effective January 1, 1982. This 
+was part of a 10% decrease in fringe benefits to employees. 
+
+
+74a 
+
+
+This modification was communicated to employees through a 
+December 1981 memorandum from Victor Rice (Ex. 554), a 
+January 1982 memorandum from Byron Quandt, an M-F 
+employee specializing in benefits, (Ex. 506), and a December 
+1981 insert for You and M-F (Ex. 503). (Tr. 539, 1803-06.) 
+
+
+89. January 1983, M-F amended its health benefits plan to 
+require a deductible dollar amount to be satisfied before 
+claims would be covered. In addition, dental coverage was 
+reduced 50%. This modification was communicated to 
+employees through a January 1983 memorandum from Gary 
+Fryatt (Ex. 509). Replacement or addition pages to insert in 
+You and M-F were not prepared. (Tr. 1480-81.) 
+
+
+90. In December 1983, M-F amended its health benefits 
+plan to adopt a new Comprehensive Major Medical Plan for 
+employees and retirees. The Comprehensive Major Medical 
+Plan required no contributions but required higher deductibles 
+and introduced coinsurance. This modification was commu- 
+nicated to employees and retirees through December 1983 
+memorandum from John Ruth, a December 1983 memoran- 
+dum from Byron Quandt and a booklet entitled The Massey- 
+Ferguson Inc. Comprehensive Major Medical Plan. 
+Replacement or addition pages to insert in You and M-F were 
+not prepared. (Exs. 284, 585, 511, 512; Tr. 895-96, 1814-15, 
+3680-81, 3697-98, 5120, 5213-14.) 
+
+
+91. The Massey-Ferguson Inc. Comprehensive Major Med- 
+ical Plan booklet provides in solid capital letters at the Sched- 
+ule of Benefits Summary: 
+
+
+THE RIGHT IS RESERVED BY THE PLAN ADMIN- 
+ISTRATOR TO TERMINATE, SUSPEND, WITHDRAW, 
+AMEND OR MODIFY THE PLAN IN WHOLE OR IN 
+PART WITH RESPECT TO ANY CLASS OR CLASSES 
+OF COVERED INDIVIDUALS AT ANY TIME. 
+
+
+92. The written communications referenced above, includ- 
+ing the December 1983 memoranda and attached Massey-Fer- 
+guson Inc. Comprehensive Major Medical Plan booklet 
+describing changes in welfare benefits for employees and 
+
+
+75a 
+
+
+retirees constituted Summaries of Material Modifications 
+within the meaning of ERISA. 
+
+
+93. Defendants failed to adequately communicate in the 
+Ruth Memorandum, (Ex. 585) which was distributed to 
+employees in December of 1983 or January of 1984, that the 
+company reserved the right to terminate benefits in retire- 
+ment. The reservation of rights language on the bottom of 
+page 7 of the Ruth memo is ambiguous and was not reason- 
+ably calculated to inform the average employee of M-F’s 
+claimed reserved right to terminate benefits in retirement. 
+(Ex. 511; Tr. 1484.) Ruth testified that M-F did not intend by 
+this language to inform employees that the company had a 
+right to take benefits away after they had retired. (Ex. 511: 
+Tr. 1597.) A reservation of the right to terminate benefits 
+being provided existing retirees would have been a major 
+change in company policy, yet it was not listed as a “major 
+feature” in Ruth’s December 1, 1983 memorandum to employ- 
+ees. (Ex. 585; Tr. 1596.) The Comprehensive Major Medical 
+Plan involved only minor changes in insurance coverage. 
+(Tr. 1431.) The reservation of rights language appears only in 
+the major medical document and does not indicate it applies 
+to the other welfare benei..s. (Ex. 511: Tr. 5011 .) 
+
+
+94. Although an identical memorandum (“Quandt memo”) 
+(Ex. 512) was distributed to retirees, Jack, the compiler and 
+author of You and M-F and the Individual Plaintiffs who 
+received this memorandum did not understand it to mean that 
+benefits could be terminated. (Tr. 1837-38.) The Compre- 
+hensive Major Medical Plan involved only minor changes in 
+insurance coverage, such as the implementation of coinsur- 
+ance for major medical expenses. (Tr. 1431.) Consequently, 
+the Individual Plaintiffs who did receive this memorandum 
+still believed that their benefits in retirement would continue 
+for life. (Tr. 1837.) The Retired Class did not receive notice 
+that the change was made applicable to persons who had 
+already retired. (Tr. 4714.) 
+
+
+95. Neither the Ruth memo nor the attached Comprehen- 
+sive Major Medical Plan contain any language informing 
+
+
+76a 
+
+
+employees that they should stop relying on You and M-F. 
+(Ex. 511; Tr. 4723.) 
+
+
+96. It was the defendants’ intent to reissue the Compre- 
+hensive Major Medical Plan in the format of the You and M- 
+F so that the employees could insert the pages in You and 
+M-F. (Tr. 4724.) Jill Wellman, the general benefits adminis- 
+tration manager of MCC for salaried employees, and others 
+were working on revisions to You and M-F in 1984 after the 
+Ruth memo was distributed. (Tr. 4724.) The changes to the 
+existing medical benefits as a result of the Comprehensive 
+Major Medical Plan were never published for inclusion in You 
+and M-F. (Tr. 4724.) 
+
+
+97. A reasonable person, if he or she received and read the 
+Comprehensive Major Medical Plan, would not understand it 
+to be a notice that defendants were reserving a right to ter- 
+minate welfare benefits in retirement. 
+
+
+98. MCC did not adopt an employee benefits plan until 
+May 1, 1987, when it adopted the M-F Plan as its own. 
+(Ex. 535.) Before May 1, 1987, MCC used the M-F Plan. 
+(Tr. 4917.) The only plan produced at trial was the M-F Plan. 
+(Ex. 156.) 
+
+
+99. You and M-F does not contain language that authorized 
+defendants to transfer or assign any M-F employee or retiree 
+to another company or plan. 
+
+
+100. Defendants did not otherwise communicate to plain- 
+tiffs that defendants claimed to have reserved a right to amend 
+or terminate welfare benefits in retirement. 
+
+
+101. Retiree plaintiffs reasonably held the belief that the 
+welfare benefits described in You and M-F were to continue 
+unchanged for the lifetime of retirees. 
+
+
+102. The Termination Allowance Policy in existence at M- 
+F at all times relevant to this action is contained in the PAM. 
+(Exs. 1, 6, 7.) The purpose of the termination allowance pol- 
+icy was to allow the defendants’ employees some time to find 
+another job when the company terminated them for a reason 
+
+
+77a 
+
+
+beyond their control. (Tr. 4700) Under the policy, eligible 
+employees would receive one week's pay for each year of ser- 
+vice up to ten years and two weeks’ pay for every year of ser- 
+vice thereafter subject to a maximum of fifty-two weeks’ pay. 
+(Ex. 7; Tr. 2450, 3247.) This was the termination allowance 
+policy in effect at M-F just prior to the creation of MCC. 
+(Tr. 3241.) MCC adopted this termination allowance policy 
+and the balance of the PAM. (Tr. 3241, 4695.) There is no dis- 
+pute that a Termination Allowance Policy was in effect on 
+March 4, 1988. 
+
+
+103. The Termination Allowance Policy stated that: 
+
+
+It is the practice of the Company to provide a measure of 
+income protection for full-time salaried employees in the 
+event of their separation for reasons beyond their control. 
+
+
+(Ex. 7; Tr. 3242.) Defendants’ expert witness on termination 
+pay, Walt Winder, testified that receivership constitutes sep- 
+aration for reasons beyond an employee’s control. (Tr. 5269, 
+5293.) Members of the Terminated Class understood that 
+through this language in the PAM, defendants promised that 
+if plaintiffs were terminated for reasons beyond their control, 
+they would receive termination allowance. 
+
+
+104. At a prior time when the defendants’ Detroit manu- 
+facturing operation was closed down, M-F paid termination 
+allowance to salaried employees who lost their jobs. (Tr. 
+4730.) 
+
+
+105. Pursuant to the termination allowance policy, persons 
+who are classified as “termination-release” are entitled to 
+receive termination allowance. (Ex. 6; Tr. 3263.) Termination- 
+release is the “nondisciplinary termination by company 
+option.” (Ex. 7; Tr. 3244.) The categories listed under 
+“termination-release” are not exhaustive nor exclusive. 
+(Tr. 5269, 5291.) 
+
+
+106. Severance pay for those employees terminated at 
+MCC was to be calculated based on the employee’s total years 
+of service with all M-F companies. (Tr. 5247.) 
+
+
+78a 
+
+
+107. A memorandum from Porter dated October 21, 1987, 
+attempted to amend the Termination Allowance Policy for 
+MCC. (Ex. 86.) Porter reduced severance pay for people 
+working for MCC in the event that their employment was to 
+be terminated. (Tr. 4400.) 
+
+
+108. Porter’s memorandum states that “[w]Jith immediate 
+effect the existing Termination Allowance Policy is rescinded 
+and an amended policy is substituted in its place. The fol- 
+lowing is a summary of this amended policy.” No amended 
+policy was ever produced prior to MCC closing. There is 
+nothing in the memorandum indicating MCC reserved any 
+right to terminate the policy. (Ex. 86; Tr. 5295.) 
+
+
+109. Porter’s October 21, 1987 memorandum (Ex. 86) 
+states “[t]he decision to revise the termination policy is one 
+of several actions being undertaken to maintain the viability 
+of the company within the industry.” This statement was 
+untrue. On October 6, 1987, a couple of weeks earlier Porter 
+told Brown that MCC “wasn’t going to make it” and that 
+Brown “better start looking” [for another job]. (Tr. 804-05.) 
+Furthermore, by this time MCC had broken its borrowing base 
+covenant, which allowed creditors to put MCC into receiver- 
+ship. In August 1987, Porter wrote Rice a handwritten mem- 
+orandum in which he predicted MCC’s “final rites (i.e. 
+restructure, wind-up, sale)” would be finalized by the summer 
+of 1988. (Ex. 88.) Varity’s employees were actively plotting 
+how to conceal MCC’s inevitable demise from the Canadian 
+Government during September 1987. (Tr. 4107-08.) 
+
+
+110. Defendants’ conduct in designing and implementing 
+Project Sunshine was willful, wanton, malicious, and in bad 
+faith vis-a-vis all plaintiffs. 
+
+
+111. M-F was a fiduciary with respect to the M-F 
+Employee Benefits Plan. M-F’s board of directors was the M- 
+F Plan’s “named fiduciary” within the meaning of 29 U.S.C. 
+§ 1002(21)(A). (Ex. 156, p. 16.) Also, M-F was the “admin- 
+istrator” and “sponsor” of the Plan within the meaning of 29 
+U.S.C. § 1002(16)(A) and (B). 
+
+
+79a 
+
+
+‘ 
+
+
+112. Varity was a fiduciary with respect to the M-F Plan 
+because Varity at all times controlled M-F. 
+
+
+113. M-F was a fiduciary with respect to the MCC 
+Employee Benefits Plan, to the extent it existed apart from the 
+M-F Plan, because MCC simply adopted the M-F Plan in its 
+entirety. Including the SPD, the actual plan language itself 
+and common administrators. (Ex. 535.) M-F was a named 
+fiduciary of M-F plan, and was also a fiduciary with respect 
+to the MCC Employee Benefits Plan. (Exs. 156, 535.) 
+
+
+114. It necessarily follows then that Varity was a fiduciary 
+with respect to the MCC Employee Benefits Plan because 
+Varity was a plan fiduciary of the plan adopted by MCC. 
+
+
+115. After MCC went into receivership, defendants repur- 
+chased the conventional combine technology and the combine 
+unique parts from MCC’s receiver at bargain prices. Defen- 
+dants began selling combines manufactured by third-party 
+producers within one year of MCC’s receivership. 
+
+
+116. After Project Sunshine, Varity was profitable. Varity’s 
+net income was $81.7 million for fiscal year 1988; $92.1 mil- 
+lion for fiscal year 1989; and $101.5 million for fiscal year 
+1990. Varity’s net worth at the close of fiscal year 1990 was 
+$786.4 million. (Ex. 274A.) 
+
+
+117. The value of past benefits lost by the Retired Class is 
+$696,195. (Ex. 310.) 
+
+
+118. The value of benefits lost by the Terminated Class is 
+$1,536,117. (Ex. 269.) 
+
+
+119. The value of past benefits lost by the Individual Plain- 
+tiffs as of the time of the trial were as follows: 
+
+
+John Altomare $ 5,000 
+Charles Barron 3,160 
+Alexander Charron 7,661 
+Charlotte Chiles 13,106 
+Anita Crowe 11,877 
+Ray Darr 1,700 
+
+
+Doris Guidicessi 8,219 
+
+
+Barnett Lucas 3,150 
+
+Robert Skromme 18,284 
+
+Estate of Walter Smith 10,655 
+(Ex. 270C.) 
+
+
+Insofar as the court stated facts in the introduction to these 
+findings and conclusions or states additional facts below as 
+part of the conclusions of law, those facts are found pursuant 
+to Fed. R. Civ. P. 52(a). 
+
+
+CONCLUSIONS OF LAW 
+
+
+LAW OF THE CASE 
+
+
+For a discussion on the Law of the Case Doctrine see this 
+court’s order on motion for judgment as a matter of law and 
+motion for new trial pages 5-8 [28a-30a], where all arguments 
+in relation to Law of the Case are denied. 
+
+
+ALTER EGO 
+
+
+Throughout the course of this litigation the plaintiffs have 
+argued that MCC from its inception was designed to fail. 
+Plaintiffs maintained that MCC was a vehicle of disposal for 
+Varity in reducing its debt and heritage cost’ burdens. Plain- 
+tiffs seek a determination that defendants were at all times the 
+alter egos of MCC and therefore responsible for their obli- 
+gations. 
+
+
+In the context of ERISA, the Eighth Circuit has employed 
+a five-factor test in deciding when to disregard the corporate 
+form. Contractors, Labors, Teamsters & Engineers Health & 
+Welfare Plan v. Hroch, 757 F.2d 184, 190 (8th Cir. 1985). A 
+district court may disregard the corporate form if: (1) the cor- 
+poration is undercapitalized; (2) without separate books; (3) 
+its finances are not kept separate; (4) the corporation is used 
+to promote fraud or illegality; and (5) the corporation is 
+merely a sham. /d. The First Circuit in United Elec. Workers 
+
+
+3 
+
+
+Heritage costs are those costs associated with retiree benefit 
+obligations. 
+
+
+8la 
+
+
+v. 163 Pleasant Street Corp., 960 F.2d 1080, 1092-93 (Ist Cir. 
+1992), while citing Hroch adopted a three factor test when 
+determining when it may be appropriate to disregard corpo- 
+rate separateness in an ERISA-related dispute. Those factors 
+are: (1) whether the parent and the subsidiary ignored the 
+independence of their separate operations; (2) whether some 
+fraudulent intent existed on the principals’ part; and (3) 
+whether a substantial injustice would be visited on the pro- 
+ponents of veil piercing should the court validate the corpo- 
+rate shield. Jd. 
+
+
+The court considers whether the entities have a “substantial 
+identity in terms of corporate ownership, management, busi- 
+ness purpose, operation, equipment, customers, and super- 
+vision.” Greater Kansas City Laborers Pension Fund v. 
+Thummel, 738 F.2d 926, 929 (8th Cir. 1984). 
+
+
+Continuity of the work force is also a relevant considera- 
+tion. /d. Courts also look to additional factors to determine 
+alter ego liability when a subsidiary corporation is created, 
+they include: 
+
+
+(1) common stock ownership between the parent and the 
+subsidiary; 
+(2) common directors and officers; 
+
+
+(3) common business departments between the parent 
+and subsidiary; 
+
+
+(4) whether the parent and subsidiary file consolidated 
+financial statements and tax returns: 
+
+
+(5) has the parent financed the subsidiary; 
+
+(6) did the parent cause the incorporation of the sub- 
+Sidiary; 
+
+(7) whether the subsidiary is undercapitalized; 
+
+
+(8) has the parent paid the salaries and other expenses of 
+the subsidiary; 
+
+
+82a 
+
+
+(9) whether the subsidiary receives business other than 
+the parent’s business; 
+
+
+(10) has the parent used the subsidiary’s property as its 
+own; 
+
+
+(11) whether the daily operations of the corporations are 
+kept separate; and 
+
+
+(12) whether the subsidiary has observed the basic for- 
+malities. 
+
+
+United Steelworkers of America AFL-CIO-CLC v. Connors 
+Steel Company, 855 F.2d 1499, 1505 (11th Cir. 1988). How- 
+ever, not all mentioned factors have to be present. Id. Rather, 
+the court must look to the totality of the circumstances. Id. 
+“(T]he degree of injustice that would be visited on the liti- 
+gants by recognizing the corporate identity” must be con- 
+sidered in ERISA actions. Alman v. Danin, 801 F.2d 1, 4 (Ist 
+Cir. 1986). The Alman court stated: 
+
+
+Congress enacted ERISA in part because many employ- 
+ees were being deprived of anticipated benefits, which 
+not only reduced the financial resources of individual 
+employees and their dependents but also undermined the 
+stability of industrial relations generally . . . Allowing 
+the shareholders of a marginal corporation to invoke the 
+corporate shield in circumstances where it is inequitable 
+for them to do so and thereby avoid financial obligations 
+to employee benefit plans, would seem to be precisely 
+the type of conduct Congress wanted to prevent. 
+
+
+Id. at 3-4 (citing 29 U.S.C. section 1001). 
+
+When examining the above-listed tests and keeping in mind 
+the following facts the court concludes that defendants were 
+the alter egos of MCC: 
+
+
+1. As conceived, MCC was not a viable business entity, 
+but rather was envisioned as a means by which 
+defendants could rid themselves of corporate debt, 
+overvalued inventory, unprofitable stores, and expen- 
+sive employee benefit obligations. Profitable seg- 
+ments of what logically would have been part of 
+
+
+83a 
+
+
+MCC’s business, and desirable assets, were retained 
+by defendants. 
+
+
+The creation of MCC was overseen and undertaken 
+by employees and attorneys of Varity, ostensibly act- 
+ing for both sides of the transaction. 
+
+
+. MCC retained employees who had worked for MF by 
+
+
+persuading them to join MCC instead of taking early 
+retirement, termination, or other transfer from M-F. 
+The tools of persuasion employed included deliber- 
+ate misrepresentations, half-truths and omissions. 
+
+
+On May 4, 1986, the first day of MCC’s legal exis- 
+tence, the company was on the verge of bankruptcy. 
+It began liquidating assets immediately. 
+
+
+5. Varity controlled MCC’s board of directors. 
+
+
+MCC’s senior executive officers were controlled by 
+Varity. Ivan Porter, while president of MCC remained 
+an employee of Varity. This “secondment” was not 
+made known to any of the plaintiff class. 
+
+
+MCC and MF shared business facilities, which by all 
+outward appearances were MF facilities. 
+
+
+8. Varity controlled MCC’s business through its ORC. 
+
+
+10. 
+
+
+Although Varity and MCC billed each other for ser- 
+vices each provided to the other, the services were 
+not always paid for. Indeed, Varity and MCC shared 
+facilities and business departments including legal, 
+patent, tax, accounting, management, information 
+systems, parts supply and warehousing, parts sales 
+and marketing, treasury, internal audit, expert sales, 
+retail credit and financing. 
+
+
+Defendants and MCC did not observe basic corporate 
+formalities in several significant respects. Inter- 
+company accounts were not reconciled. Employee 
+benefits were administered by the same human 
+resources department, and all employees of both 
+
+
+84a 
+
+
+defendants and MCC relied upon the same plan doc- 
+uments. 
+
+
+11. When it appeared MCC would be going into 
+receivership, Varity exercised its control of MCC’s 
+affairs by taking back MCC’s desirable assets and 
+implementing a plan to minimize Varity’s exposure. 
+
+
+In support of its alter ego theory plaintiffs called Yale 
+Kramer as an expert witness.* The court finds Mr. Kramer’s 
+testimony credible and enlightening. A brief excerpt of his 
+trial testimony is therefore warranted here: 
+
+
+Q .. .. You have testified, Mr. Kramer, that Massey 
+Ferguson, Ltd., before the creation of Massey Com- 
+bines Corporation was facing serious financial prob- 
+lems; is that correct? 
+
+
+Yes. 
+
+
+Q What options does a company facing financial prob- 
+lems such as those being faced by Massey Ferguson, 
+Ltd., have, based on your knowledge and expertise to 
+try to remedy those problems? 
+
+
+> 
+
+
+A Well, every company in the industry was having ter- 
+rible financial problems. The industry had really 
+deteriorated and the question of whether it was going 
+to come back at any time soon was discussed in the 
+industry. Different people had different opinions. The 
+clear circumstances as evidenced by the one chart we 
+had up there, I believe the last one showed that 
+
+
+4 Mr. Kramer is the president of Reiss Corporation and also the 
+
+
+president of K. R. Business Brokers. He is a licensed attorney and a cer- 
+tified public accountant and has formerly served as an investment banker. 
+The Reiss Corporation is involved in the valuation of closely held busi- 
+nesses and business interests. Mr. Kramer was formerly vice president of 
+corporate finance for R. G. Dickinson Company, which is a regional 
+investment banking firm where he was in charge of the corporate finance 
+department. He was involved in negotiating mergers and acquisitions. 
+Prior to working for R. G. Dickinson, Mr. Kramer was with Peat Marwick 
+Mitchell, where he was a tax specialist. 
+
+
+85a 
+
+
+Massey Combines or the CARE Division which 
+became Combines was losing very substantial sums 
+of money each year. 
+
+
+Financial information in the Project Sunshine docu- 
+ments, and the proxy materials and the annual report 
+said that the management expected losses to continue 
+at approximately the same level, at least for the near 
+future. The CARE Division was in great trouble. The 
+rest of the company was having difficulty as those— 
+the charts showed they were making money here in 
+the last two years, but the CARE Division was a real 
+drag on them. 
+
+
+Given the circumstances then, again, based on prin- 
+ciples of the area of your expertise, what options 
+would they have had? 
+
+
+They could close it down, liquidate the assets. They 
+could sell off as much as they could as a business. 
+Chances of doing that were fairly slim. I mean they 
+might be able to sell off some of the assets, but they 
+couldn’t get rid of all those liabilities or they could 
+do something like they did here, a reorganization 
+where they put some assets and some liabilities into 
+an affiliated company for the purpose of hiding the 
+losses. 
+
+
+Now, the first thing you mentioned close down, is 
+that, like, discontinue the CARE Division? Is that 
+what you’re really talking about? 
+
+
+Basically, that’s what they did in a two-step process. 
+Instead of selling off the assets and paying off lia- 
+bilities in Massey-Ferguson, Ltd., what they did was 
+put it into a separate corporation, then selling off the 
+assets and start paying off some liabilities. 
+
+
+Now, if they had done it just by closing down and 
+discontinuing, what would have been different, if 
+anything, for Massey-Ferguson, Ltd./Varity than the 
+way it was creating Massey Combines? 
+
+
+86a 
+
+
+A Well, first of all, there would have been very sub- 
+stantial losses that would have appeared on the books 
+of Massey-Ferguson, Ltd., that the way it was han- 
+dled did not appear. 
+
+
+Second, there would have been substantial write- 
+downs of asset values and those write-downs wound 
+up happening to Massey Combines rather than 
+Massey-Ferguson, Ltd. The effect of some of these 
+things was just to hide from the public what was 
+really happening. 
+
+
+Q What would have been different, if any with regard 
+to obligations to employees and or retirees if they 
+had just discontinued and closed down the CARE 
+Division? 
+
+
+A Well, they would not be standing behind a corporate 
+shield. They would have had to treat those employees 
+and retirees as any other employees and retirees 
+within the company. 
+
+
+* * * 
+
+
+Q What opinion, if any, do you have based upon rec- 
+ognized methods of conducting business that you’ ve 
+learned in connection with valuing business as to this 
+selection of this option by Massey-Ferguson, Ltd.? 
+
+
+A If you put aside questions of ethics or morality and 
+look just at the financial, it was a brilliant plan. 
+Massey-Ferguson, Limited, was able to avoid show- 
+ing very substantial losses. They were able to avoid 
+paying some liabilities passed to Massey Combines. 
+They are able to avoid the negative connotations of 
+going out of business, they avoided some pension lia- 
+bilities. 
+
+They accomplished quite a few things, and finan- 
+cially speaking, it was a brilliant plan. It was devised 
+by financial people who knew how to use the rules. 
+For example, by making this affiliated company less 
+
+
+87a 
+
+
+than fifty percent owned by Massey-Ferguson, they 
+avoided showing the losses. If they owned one hun- 
+dred percent of that subsidiary, it would have had no 
+effect as far as showing the losses. 
+
+
+They used accounting rules with the reduction in lia- 
+bilities by using the Canadian accounting treatment. 
+The SEC, the U. S. Securities and Exchange Com- 
+mission, requires that retractable, redeemable pre- 
+ferred stock not be treated in the equity section so by 
+using Canadian—making a Canadian corporation fol- 
+lowing Canadian principles, using redeemable pre- 
+ferred stock, they made all of that look like equity 
+when the SEC wouldn’t allow them to do that if they 
+had been a U.S. company under the SEC rules. 
+
+
+Let me follow up with another question. What opin- 
+ion, if any, would you have had with regard to the 
+method that they used if it was to be represented as a 
+creation of an ongoing company that was going to be 
+operating company for some period of time into the 
+future if it was represented in that fashion? 
+
+
+Well, I think that’s very, very questionable. Ques- 
+tionable whether it could be ongoing, the amount of 
+debt they had. In the business lines that they were in, 
+they couldn’t service the debt, they weren’t produc- 
+ing. They had so many, many employees that they 
+were going to be retiring or discharging. They had all 
+these retirees that were transferred in there that I 
+believe there was four times as many retirees as there 
+were employees in the company, and then they were 
+going to lay off more people. 
+
+
+Chances of this company being successful were very, 
+very small, they were not independent in that they 
+had been controlled and continued at least they were 
+obligated under the restructured plan to have all this 
+debt and all this other stuff, they were not indepen- 
+dent. And as far as a stand alone, there was no way 
+
+
+88a 
+
+
+they could stand alone under the circumstances, and 
+they didn’t stand alone. 
+
+
+Q Based upon your knowledge and experience and 
+background, do you have an opinion as to whether or 
+not a reasonably prudent businessman would repre- 
+sent the creation of Massey Combines Corporation as 
+a stand alone company independent of Massey-Fer- 
+guson, Ltd. as an operating company as of May 9, 
+1986? 
+
+
+A I would disagree with that characterization. I don’t 
+believe it was independent. I don’t believe it was 
+stand alone. I don’t believe it was an operating com- 
+pany. I believe it was a division of Massey-Ferguson, 
+Ltd., that was organized for the sole purpose of liq- 
+uidating assets with a glimmer that if things—if 
+things turned around, unusual things happened in the 
+industry, that maybe it could survive, but it was a 
+substantial gamble rather than an investment. 
+
+
+(defendants objections omitted from the above text) TR. 2947, 
+line 3 - 2953, line 16. Questions by Mr. Smith, Answers by 
+Yale Kramer. 
+
+As noted above Mr. Kramer’s testimony on the corporate 
+form MCC was persuasive and damaging to defendants’ argu- 
+ments. In light of his testimony the court will further address 
+his conclusions to existing law. 
+
+As the Fifth Circuit has noted in Jon-T Chemicals. Inc., 768 
+F.2d 686, 696 (Sth Cir. 1985), cert. denied, 475 U.S. 1014 
+(1986): 
+
+
+A corporation, unlike proteus, cannot assume a new form 
+at will. While we generally recognize a corporation’s 
+attempt to assume the guise of a subsidiary, even this 
+expedition into fantasyland has its bounds. Here, the cor- 
+porate veil with which appellants would enrobe the sub- 
+sidiary to give it the semblance of being attired in 
+corporate clothing was so diaphanous that the district 
+court could well see through it. 
+
+
+The court after a review of the evidence finds that MCC 
+was not a stand alone corporation. Project Sunshine was a 
+brilliant financial restructuring move which undoubtedly 
+saved Varity millions of dollars in reducing their debt and 
+avoiding substantial heritage costs. The totality of the cir- 
+cumstances however reveals a corporation who but for its 
+lifeline to M-F and Varity would not have been afloat on day 
+one of its corporate existence. When Varity and MF cut that 
+lifeline inevitably MCC sank. The court further finds that 
+communications to employees of MF were laced with fraud- 
+ulent misrepresentations in order to get them to sign accep- 
+tances of employment. MCC was a sham from the start. 
+Accordingly, defendants are not able to hide behind this 
+bankrupt shell of a company when required to make their 
+employees whole. Defendants were the alter egos of MCC. 
+
+
+BREACH OF CONTRACT—COUNT 1 
+
+
+Discussion of plaintiffs’ breach of contract claim is dis- 
+cussed on pages 10-17 [32a-37a], in the court’s order on 
+motions for new trail and judgment as a matter law. The court 
+set aside the jury verdict on the breach of contract claim. 
+
+
+BREACH OF FIDUCIARY DUTY—COUNT 2 
+
+
+MF-RETIRED INDIVIDUAL PLAINTIFFS 
+MCC-RETIRED CLASS 
+
+
+Plaintiffs argue in support of their claim under this theory 
+that defendants are liable for breach of fiduciary duty pur- 
+suant to 29 U.S.C. §§ 1104 and 1132(a)(3). Plaintiffs in sup- 
+port of their claim argue that defendants made misleading 
+communications to plaintiffs in violation of their fiduciary 
+duties by assuring plaintiffs that their benefits would not be 
+changed when they “transferred” to MCC. Defendants failed 
+to disclose MCC’s unstable financial condition and poor 
+prospect for survival; failed to disclose the effects that MCC’s 
+probable bankruptcy, receivership or insolvency would have 
+on the welfare benefits of MCC employees. Further, plaintiffs 
+contend that defendants failed to inform them in You and 
+
+
+90a 
+
+
+M-F, as required by ERISA, of a reserved right to amend or 
+terminate the welfare benefits plan. As a result of these mis- 
+representations, plaintiffs claim that they were denied the 
+opportunity to make informed decisions about acceptance of 
+employment with MCC. 
+
+Defendants argue that the Eighth Circuit has held business 
+decisions by an ERISA employer not to be governed by the 
+fiduciary standard of 29 U.S.C. § 1104. The Court states that: 
+
+
+Under the dual capacity doctrine, the [employer] can act 
+in accordance with its interests as employer when not 
+administering the plan or investing its assets. Business 
+decisions can still be made for business reasons, notwith- 
+standing their collateral effect on prospective, contingent 
+employee benefits. 
+
+
+Adams v. LTV Steel Mining Co., 936 F.2d 368, 370, (8th Cir. 
+1991); see also Hickman v. Tosco Corp., 840 F.2d 564, 566 
+(8th Cir. 1988) (employer’s decision to terminate rather than 
+carry employees on payroll after sale of plan so they could 
+collect retirement benefits is employment decision “not sub- 
+ject to ERISA’s fiduciary standard of care”). Defendants fur- 
+ther argue that plaintiffs’ breach of fiduciary duty claims are 
+barred because they are claims for benefits, not claims 
+brought on behalf of a plan. See Simmons v. Southern Bell 
+Telephone & Telegraph Co., 940 F.2d 614, 617 (11th Cir. 
+1991). 
+
+To recover on a claim for breach of fiduciary duty arising 
+out of defendants’ conduct with respect to a plan, plaintiffs 
+are required to prove by a preponderance of the evidence: 
+
+
+(1) Defendants were fiduciaries with respect to the plan 
+of which plaintiffs were participants or beneficia- 
+ries. 
+
+
+(2) Defendants breached their fiduciary duties. 
+
+
+(3) Plaintiffs’ damages from the breach of the fiduciary 
+duties. 
+
+
+See McNeese v. Health Plan Marketing. Inc., 647 F. Supp. 
+981, 983-87 (N.D. Ala. 1986). 
+
+Every plan must have at least one named fiduciary who has 
+authority to control and manage the operation and adminis- 
+tration of the plan. 29 U.S.C. § 1102(a)(1). In addition, under 
+ERISA: 
+
+
+a person is a fiduciary with respect to a plan to the extent 
+(i) he exercises any discretionary authority or discre- 
+tionary control respecting management of such plan or 
+exercises any authority or control respecting manage- 
+ment or disposition of its assets. . . or (iii) he has any 
+discretionary authority or discretionary responsibility in 
+the administration of such plan. 
+
+
+29 U.S.C. § 1002(21)(A). The term “fiduciary” should be 
+broadly construed to effectuate the remedial purposes of 
+ERISA. See, e.g., Donovan v. Mercer, 747 F.2d 304, 308-09 
+(Sth Cir. 1984). The statutory definition “includes persons 
+who have authority and responsibility with respect to the mat- 
+ter in question, regardless of their formal title.” Jd. at 308 
+(quoting H. R. Rep. No. 1280, 93rd Cong., 2d Sess., reprinted 
+in 1974 U.S. Code Cong. & Ad. News 4639, 5038, 5103). The 
+test is a functional one. See, e.g., Blatt v. Marshall and Lass- 
+man, $12 F.2d 810, 812 (2d Cir. 1987). “[FJiduciary status 
+exists with respect to any activity enumerated in the statute 
+over which the entity exercises discretion or control.” /d. 
+Employers who sponsor the plan, the directors, officers or 
+shareholders thereof, and plan administrators are among those 
+parties who may be ERISA fiduciaries with respect to a plan, 
+where they possess sufficient authority or control over the 
+investment of plan assets or the administration of the plan. 
+See R. Cooke, ERISA Practice & Procedure § 6.02 (1989 and 
+1991 Supp.); United States Steel Corp. v. Commonwealth of 
+Pa. Human Relations Comm'n, 669 F.2d 124, 126-28 (3d Cir. 
+1982) (employer is fiduciary when it has authority to alter 
+terms of plan and authority to administer plan); McNeese v. 
+Health Plan Marketing. Inc., 647 F. Supp. 901, 983-85 (N.D. 
+Ala. 1986) (plan administrator who exercises discretionary 
+
+
+as | he’ a 
+
+
+92a 
+
+
+control over administration of plan is fiduciary as to matters 
+within its control). A person is a fiduciary, however, only to 
+the extent the person is engaged in functions which confer 
+fiduciary status, i.e., when administrating the plan or invest- 
+ing its assets. Hickman v. Tosco Corp., 840 F.2d 564, 566 (8th 
+Cir. 1988). Thus, an employer that is also an ERISA fiduciary 
+is free to make its business decisions for business reasons, 
+without regard to the collateral effect those decisions might 
+have on contingent employee benefits. /d.; Adams v. LTV 
+Steel Mining Co., 936 F.2d 368, 370 (8th Cir. 1991). 
+An ERISA fiduciary’s duties are statutorily prescribed: 
+
+
+[A] fiduciary shall discharge his duties with respect to 
+a plan solely in the interest of the participants and ben- 
+eficiaries and— 
+
+
+(A) for the exclusive purpose of: 
+
+
+(i) providing benefits to participants and their ben- 
+eficiaries; and 
+
+
+(ii) defraying reasonable expenses of administering 
+the plan; 
+
+
+(B) with the care, skill, prudence, and diligence under 
+the circumstances then prevailing that a prudent 
+man acting in a like capacity and familiar with such 
+matters would use in the conduct of an enterprise of 
+a like character and with like aims; 
+
+
+(C) by diversifying the investments of the plan so as to 
+minimize the risk of large losses, unless under the 
+circumstances it is clearly prudent and to do so; and 
+
+
+(D) in accordance with the documents and instruments 
+governing the plan insofar as such documents and 
+instruments are consistent with the provisions of 
+this title and title IV. 
+
+
+29 U.S.C. § 1104(a)(1). Misrepresentations or omissions in a 
+fiduciary’s communication with participants and beneficiaries 
+regarding plan administration are breaches of the fiduciary 
+duties recognized by ERISA. Peoria Union Stock Yards Co. 
+
+
+93a 
+
+
+Retirement Plan v. Penn Mutual Life Ins. Co., 698 F.2d 320, 
+326 (7th Cir. 1983). “Lying is inconsistent with the duty of 
+loyalty owed by all fiduciaries and codified in § 404(a)(1) of 
+ERISA, 29 U.S.C. § 1104(a)(1).” Id. 
+
+Although business decisions made by a fiduciary in a 
+capacity other than its capacity as fiduciary cannot them- 
+selves be a breach of fiduciary duty, such a fiduciary must 
+make no material misrepresentations regarding administration 
+of the plan in connection with its business decisions. Berlin 
+v. Michigan Bell Tel. Co., 858 F.2d 1154, 1162-64 (6th Cir. 
+1988); Payonk v. HMW Industries. Inc., 883 F.2d 221, 225- 
+26- (3d Cir. 1989) (Berlin prohibits affirmative misrepre- 
+sentations about rights under a plan affected by employer's 
+business decisions). A fiduciary’s failure to act or pay bene- 
+fits in accordance with plan documents is a breach of fidu- 
+ciary duty. 29 U.S.C. § 1104(a)(1)(D). A fiduciary’s failure to 
+effectuate proper disclosure of the terms of the plan in the 
+summary plan description is a breach of fiduciary duty. See 
+Genter v. Acme Scale & Supply Co., 776 F.2d 1180, 1183-86 
+(3d Cir. 1985). A fiduciary’s failure to notify participants and 
+beneficiaries of a plan's financial problems, where they are 
+apparent to the fiduciary, is a breach of fiduciary duty. See, 
+e.g., McNeese v. Health Plan Marketing. Inc., 647 F. Supp. 
+981, 985-86 (N.D. Ala. 1986) (failure to notify participants of 
+employer’s delinquent contributions to pension fund); Cham- 
+bers v. Kai sidoscope, Inc. Profit Sharing Plan and Trust, 650 
+F. Supp. 359, 377 (N.D. Ga. 1986) (same). In administering a 
+plan, a fiduciary may not favor one group of plan participants 
+over another. Winpisinger v. Aurora Corp. of Ill., Precision 
+Castings Div., 456 F. Supp. 559, 566 (N.D. Ohio 1978). 
+
+Individual participants and beneficiaries may not invoke 29 
+U.S.C. § 1109, through its civil enforcement provision, 29 
+U.S.C. § 1132(a)(2), as a basis to recover damages they suf- 
+fered as a result of a breach of fiduciary duty. Massachusetts 
+Mut. Life Ins. Co. v. Russell, 473 U.S. 134, 140, 105 S.Ct. 
+3085, 3089, 87 L.Ed.2d 96 (1985). This portion of ERISA 
+only allows participants and beneficiaries, on behalf of the 
+plan, to recover damages suffered by the plan; the recovery 
+
+
+94a 
+
+
+goes to the plan. Nevertheless, individual participants and 
+beneficiaries may sue under 29 U.S.C. § 1132(a)(3) for an 
+ERISA fiduciary’s violation of 29 U.S.C. § 1104, and recover 
+their own damages. The scope of the remedy provided by 29 
+U.S.C. § 1132(a)(3) was an issue left open by Russell, 473 
+U.S. at 148-54, 105 S.Ct. at 3094-96 (Brennan, J., concur- 
+ring); see also Hozier v. Midwest Fasteners. Inc., 908 F.2d 
+1155, 1162 n.7 (3d Cir. 1990) (recognizing open question); 
+Monson v. Century Mfg. Co., 739 F.2d 1293, 1303 (8th Cir. 
+1984) (affirming award to class of participants and benefi- 
+ciaries for fiduciaries’ breach of 29 U.S.C. § 1104 duties). 
+
+This court concludes that ERISA provides for a cause of 
+action by individual participants and beneficiaries who are 
+victims of an ERISA fiduciary’s breach of fiduciary duty, and 
+allows such plaintiffs to recover their own compensatory 
+damages. See Bartucca v. Katy Industries. Inc., 668 F. Supp. 
+111, 112-13 (D. Conn. 1987). Recognition of such a cause of 
+action is compelled by the plain language of 29 U.S.C. 
+§ 1132(a)(3), which authorizes an individual participant or 
+beneficiary to bring a civil action “to enjoin any act or prac- 
+tice which violates any provision of this title or the terms of 
+the plan, or . . . to obtain other equitable relief . . . to 
+redress such violations.” 29 U.S.C. § 1132(a)(3) (emphasis 
+added). Violation of § 1104 is an act which violates ERISA, 
+and the remedy allowed in § 1132(a)(3) is in addition to the 
+remedy allowed in § 1132(a)(2). A participant or beneficiary 
+should not be limited to proving damage to the plan in order 
+to obtain relief to redress violations of ERISA. Indeed, in this 
+case “the plan” has not been damaged—only individual par- 
+ticipants and beneficiaries who were denied promised bene- 
+fits have been damaged. 
+
+Recognition of such a cause of action is consistent with 
+“black-letter trust law,” as stated by Justice Brennan in Rus- 
+sell. Russell, 473 U.S. at 152-53, 105 S.Ct. at 3095-96 (Bren- 
+nan, J., concurring). Trust law provides that a fiduciary owes. 
+strict duties running directly to the trust beneficiaries. Id., 
+105 S.Ct. qt 3095 (citing Restatement (Second) of Trusts 
+§ 182 (1959); Bogert, Law of Trusts § 109 (1973)). 
+
+
+95a 
+
+
+The court notes that the Eighth Circuit Court of Appeals 
+approved a damage award to a class of individual 
+and beneficiaries for plan fiduciaries’ breach of duty in Mon- 
+son, 739 F.2d 1293. In addition, at least one federal district 
+court has allowed an individual participant or beneficiary to 
+sue a plan fiduciary for damages sustained by the participant 
+or beneficiary as a result of a breach of fiduciary duty under 
+29 U.S.C. § 1104. See St. Mary Medical Center v. Cristiano, 
+724 F. Supp. 732, 740 (C.D. Cal. 1989) (assignee of partici- 
+pant’s rights). 
+
+Awards of money damages for past benefits lost as a resuli 
+of the breach of a fiduciary duty is an approp"iate remedy to 
+redress such a breach as allowed by 29 U.S.C. § 1132 (a)(3) 
+where the breach only damages individual participants and 
+bene iciaries but not the plan itself. See Warren v. Society 
+Nat'l Bank, 905 F.2d 975, 981-82 (6th Cir. 1990) (money 
+damages available for violation of 29 U.S.C. § 1104), cert. 
+denied, ___U.S.___, 111 S.Ct. 2256, 114 L.Ed.2d 709 (1991); 
+Monson v. Century Mfg. Co., 739 F.2d 1293 (8th Cir. 1984) 
+(allowing money damages for violations of 29 U.S.C. § 1104); 
+McNeese v. Health Plan Marketing, Inc., 647 F. Supp. 981, 
+986-87 (N.D. Ala. 1986) (allowing this remedy). 
+
+Applying these standards to the present case, the court con- 
+cludes based on the findings of fact that M-F was a fiduciary 
+with respect to the M-F Plan. M-F was the administrator of 
+the Plan and exercised discretionary authority and control 
+with respect to every aspect of the management and admin- 
+istration of the Plan. Varity was a fiduciary with respect to the 
+M.-F Plan because Varity at all times controlled its alter ego, 
+M-F. In addition, the evidence showed that Varity, by itself 
+and through M-F, exercised discretionary authority and con- 
+trol respecting the management and administration of the 
+Plan. 
+
+M-F and Varity were also fiduciaries with respect to the 
+MCC Plan because MCC simply used the M-F Plan as its own 
+and, on May 1, 1987, formally adopted the M-F Plan in its 
+entirety. The evidence further showed that Varity and M-F 
+exercised discretionary authority and control with respect to 
+
+
+96a 
+
+
+the management and administration of the MCC Plan both 
+directly and through their alter ego MCC. 
+
+The court concludes that defendants breached their fidu- 
+ciary duties to plaintiffs in the following particulars, as fur- 
+ther detailed in the findings of fact: 
+
+
+a. By failing to properly disclose the terms of the Plan 
+in the summary plan description You and M-F, including 
+in particular the failure to disclose the claimed reserva- 
+tion of a right to amend or terminate as set forth in § 7.4 
+of the Plan. 
+
+
+b. By making material misrepresentations and omissions 
+to the Retired and Terminated Classes in connection with 
+the prospective transfer of those plaintiffs’ employment 
+and benefit rights to MCC, including the misrepresen- 
+tation of MCC’s prospects for success and the failure to 
+disclose its probable failure and the effect thereof on 
+plaintiffs’ benefits. These misrepresentations and omis- 
+sions also prevented the Retired and Terminated Classes 
+from electing early retirement or taking severance pay 
+from M-F as an alternative to accepting employment 
+with MCC. 
+
+
+c. By favoring other classes of employees and retirees 
+over those of the CARE division with respect to the con- 
+tinuation of their rights under the Plan. 
+
+
+d. By failing to pay benefits according to the ap>licable 
+terms of the Plan documents. 
+
+
+e. By attempting a facially invalid unilateral assignment 
+of the benefit rights of the Individual Plaintiffs from the 
+M-F Plan to the MCC Plan, including the failure to 
+inform the Individual Plaintiffs of the purported assign- 
+ment and the failure to inform them of the relevant facts 
+concerning MCC which would have been essential to 
+their evaluation of any such proposed assignment. 
+
+
+The MCC-Retired subclass as well as the Individual Plain- 
+tiffs are therefore entitled to recovery of compensatory dam- 
+
+
+97a 
+
+
+ages for unpaid past benefits and to injunctive relief under 29 
+U.S.C. § 1132(a)(3). 
+
+
+MCC-TERMINATED CLASS: 
+
+
+Sections 3.05 and 5.01 of the Personnel Administration 
+Manual (“PAM”) Exs. 6, 7) constitute employee welfare ben- 
+efit plan documents within the meaning of ERISA which gov- 
+erned the provision, level, extent and duration of severance 
+benefits. Section 3.05 of the PAM provides: 
+
+
+D. “Termination - Release” is the non-disciplinary ter- 
+mination by Company option or mutual agreement of an 
+employee as the result of circumstances such as the 
+following: 
+
+
+1. employee is putting forth his best effort, but cannot 
+perform at an acceptable level in his present position; 
+
+
+2. employee not designated for layoff who refuses an 
+offer of work which is considered unsuitable according 
+to Section IV.A.4. of this procedure; 
+
+
+3. employee is habitually tardy or absent because of fac- 
+tors beyond his control; 
+
+
+4. employee is no longer performing at an acceptable 
+level as a result of significant change in position require- 
+ments; 
+
+
+5. employee is separated as the result of the sale of a 
+Company-operated retail store and is not reemployed by 
+the successor store within thirty (30) days following the 
+date of its transfer to the purchaser; or 
+
+
+6. other individual reasons consistent with this P.A.M. 
+as approved by the Director Personnel - Head Office. 
+
+
+Terminations of this type are eligible for termination 
+allowance. 
+
+
+5 This subclass consists of persons who worked for M-F before 
+
+
+May 9, 1986 and were terminated when MCC went into receivership on 
+March 4, 1988. 
+
+
+98a 
+
+
+Section 5.01 of the PAM provides: 
+Ill. GENERAL 
+
+
+A. It is the practice of the Company to provide a mea- 
+sure of income protection for full-time salaried employ- 
+ees in the event of their separation for reasons beyond 
+their control. 
+
+
+1. This practice does not apply to salaried employ- 
+ees - 
+
+
+a. with less than three months’ continuous service; 
+
+
+b. hired as Limited Service Employees (casual- 
+temporary); or 
+
+
+c. hired under the Cooperative Education Student 
+Program. 
+
+
+B. The publication of the practice outlining conditions 
+for payment and the schedule of allowances does not 
+constitute a contractual relationship with the employee. 
+The termination allowance procedure represents present 
+Company practice, administered at the Company’s sole 
+discretion which may be amended by the Company with- 
+out prior notice. 
+
+
+C. Eligibility for termination allowance is based upon 
+the separation classification as outlined in P.A.M. 
+3.05.01, Separations - Salaried Employees. 
+
+
+1. An employee will not be eligible for termination 
+allowance if the separation is classified as any of the fol- 
+
+
+lowing: 
+a. “Quit” 
+b. “Discharge” 
+c. “Layoff” 
+d. “Retirement, Death or Disability” 
+e. “Termination - Unsatisfactory” 
+f. “Assignment Completed” 
+
+
+2. An employee whose separation is classified as “Ter- 
+mination - Release” will be eligible for termination 
+allowance. 
+
+
+7. * * 
+
+
+G. Approval Procedure 
+
+
+1. The manager of the terminated employee will initiate 
+termination action in accordance with PAM 3.05.01, Sep- 
+arations - Salaried Employees. Recommendations regard- 
+ing termination allowance will be noted in a separate 
+memo. The initiating manager will make only recom- 
+mendations; he or she will not calculate the actual 
+amount of termination allowance. No commitment is to 
+be made to the employee until notice has been received 
+that the allowance has been authorized. 
+
+
+2. Upon receipt of the Employee Profile and accompa- 
+nying memo, Personnel Administration Department will 
+review the recommendations and details regarding the 
+termination. Any termination allowance must be 
+approved by Personnel Administration Department. Rec- 
+ommendations are to be based only on the reasons out- 
+lined on the Employee Profile. Therefore, it is important 
+that concise and accurate explanations be given to the 
+employee and be provided on the Employee Profile 
+(Form MF-4197),. 
+
+
+The plan language above clearly states that “an employee 
+will not be eligible for termination allowance if the separation 
+is classified as any of the following: quit, discharge, layoff, 
+retirement, death or disability, termination - unsatisfactory, 
+assignment completed”. The evidence is clear, without the 
+transfer to MCC, employment conditions at M-F for this sub- 
+class were going to change because of the large losses. 
+Accordingly, this subclass would have been “out of work” 
+soon in any event. Under the factors listed above this subclass 
+of plaintiffs is unable to state a successful claim. 
+
+Based on Firestone Tire and Rubber Co. v. Bruch, 489 U.S. 
+101, 113-15 (1989), this court finds that with defendants 
+reservation of the right to interpret this plan our standard of 
+
+
+100a 
+
+
+review is not de novo but an arbitrary and capricious stan- 
+dard. When viewed as a whole, M-F’s termination - severance 
+pay plan did not create any reasonable expectations in the 
+MCC-terminated subclass. Accordingly, recovery under the 
+breach of fiduciary duty theory is denied for this subclass. 
+
+
+INTERFERENCE WITH PROTECTED RIGHTS—COUNT 5 
+
+
+The court addresses this count in the Court’s order on 
+defendants’ motions for judgment as a matter of law and for 
+new trial at pages 18-24 [38a-43a], where the court affirmed 
+the jury verdict on the interference with protected rights claim 
+as it pertains to the MCC Retired Class and the individual 
+plaintiffs, but set aside the jury verdict on this claim that was 
+awarded to the MCC Terminated Class. 
+
+
+ESTOPPEL—COUNT 4 
+MF-RETIRED INDIVIDUAL PLAINTIFFS 
+MCC-RETIRED CLASS 
+
+
+Under this claim plaintiffs assert that the representations 
+set forth in Exhibits A and B establish their right to a fixed 
+level of benefits pursuant to a theory of promissory or equi- 
+table estoppel. Plaintiffs argue that the evidence shows that 
+defendants promised plaintiffs that welfare benefits would be 
+unchanged when they transferred to MCC, and would remain 
+unchanged in retirement. The plaintiffs claim that these rep- 
+resentations were such that defendants expected or should 
+have expected that they would induce action or forbearance 
+by plaintiffs. In reliance on those promises, plaintiffs pro- 
+vided services for defendants, then retired and did not look 
+for other employment. 
+
+Defendants rely on the Eighth Circuit’s ruling in Howe / in 
+which it stated after looking at the plan documents, publica- 
+tions and the Company’s practices that no promise of lifetime 
+benefits or benefits vested upon retirement. Therefore, the 
+defendants argue that the key ingredient of promise is miss- 
+ing in the estoppel claim. Defendants further argue that 
+ERISA does not recognize a claim for estoppel. 
+
+
+ae ea ae ey ee 
+
+
+10la 
+
+
+As the law of ERISA emerges, one fact remains constant. 
+parties in ERISA suits will continue to dispute which common 
+law claims have been preempted and those which have not. 
+As Chief Judge Waters notes in Fitch v. Arkansas Blue Cross 
+and Blue Shield, 795 F.Supp. 904, 906 (W.D. Ark. 1992), “in 
+recent years the issue of whether state law principles of estop- 
+pel apply to an ERISA governed employee benefit plan has 
+been the subject of numerous reported decisions.” After a 
+careful and through review of this case law Judge Waters con- 
+cluded that an estoppel claim would be recognized by the 
+Eighth Circuit Court of Appeals in some circumstances. In 
+reaching his decision, Chief Judge Water states: 
+
+
+It has also been noted that the language contained in 
+29 U.S.C. section 1132(a)(3) allowing a participant or 
+beneficiary to bring a civil action to “obtain other appro- 
+priate equitable relief” evidences Congress’s intent that 
+federal courts fashion federal common law. Law v. Ernst 
+& Young, 956 F.2d 364, 369 (1st Cir. 1992) (citing, Mas- 
+sachusetts Mutual Life Insurance Co. v. Russell, 473 
+U.S. 134, 156, 105 S.Ct. 3085, 3097, 87 L.Ed.2d 96 
+(1985) (Brennan, J. concurring in judgment)). Addi- 
+tionally, a line of case law exists that imposes liability 
+upon reliance on misstatements or errors in the summary 
+plan description, even when the misstatements conflict 
+with the plan itself. See e.g. Edwards v. State Farm Mut. 
+Auto. Ins. Co., 851 F.2d 134 (6th Cir. 1988). 
+
+
+Fitch at 906-07. 
+
+Serious doubts have been expressed over the extension of 
+plan eligibility through estoppel and the courts have placed 
+various limitations on the use of these principals. Fitch at 
+907. One of the main reasons for this apprehension is the 
+desire to protect the actuarial soundness of benefit plans. This 
+concern is not a factor in the case at bar since the benefit 
+plans here are self insured.(Findings of Fact number 3). 
+
+The Court of Appeals for the Eleventh Circuit has held that 
+claimants cannot succeed on estoppel arguments based on oral 
+modifications of employee benefit plans. Nachwalter v. 
+Christie, 805 F.2d 956 (11 Cir. 1986). However, courts are 
+
+
+102a 
+
+
+allowed to fashion a common law equitable estoppel in cases ——< 
+involving oral interpretations of ambiguities in such plans. 
+Kane v. Aetna Life Insurance, 893 F.2d 1283, 1285-86 (11th 
+Cir. 1990), cert denied, ___ U.S. __, 111 S.Ct. 675, 112 
+L.Ed.2d. 668 (1991); See also Greany v. Western Farm 
+Bureau Life Ins. Co., 973 F.2d 812, 820-23 (10th Cir. 1992). 
+
+The elements of federal common law estoppel are:(1) the 
+party to be estopped misrepresented material facts; (2) the 
+party to be estopped was aware of the true facts; (3) the party 
+to be estopped intended that the misrepresentation be acted on 
+or had reason to believe the party asserting the estoppel 
+would rely on it; (4) the party asserting the estoppel did not 
+know, nor should it have known, the true facts; and (5) the 
+party asserting the estoppel reasonably relied on the misrep- 
+resentation. National Companies Health Benefit Plan v. St. 
+Joseph’s Hospital, 929 F.2d 1558, 1572 (11th Cir. 1991). See 
+also Heckler v. Community Health Services, 467 U.S. 51, 59, 
+104 S.Ct. 2218, 2223-24, 81 L.Ed.2d 42 (1984). 
+
+After a review of the above listed factors the court finds 
+that all factors are present. The first, defendants represented 
+that plaintiffs’ benefits would remain unchanged with MCC. 
+(See exhibits A and B) Second, defendants knew that their 
+SPD’s were faulty and could represent a false impression of 
+the benefits plan. Third, defendants wanted to paint a rosy 
+picture of the future of MCC in order to induce plaintiffs to 
+accept the transfer. Fourth, under ERISA an SPD must contain 
+any termination or modification language. You and M-F was 
+silent in this regard, therefore as a matter of law plaintiffs 
+were unaware of the right to terminate, amend or modify the 
+plan. Fifth, all plaintiffs either knowingly and willingly 
+accepted the transfer (MCC- Retired subclass) or without 
+their knowledge were assigned to MCC (Individual Plain- 
+tiffs). 
+
+You and M-F contained the following statements in which 
+a reasonable M-F and MCC retiree or employee could base 
+their understanding that their welfare benefits would continue 
+into retirement: 
+
+
+The company has a total compensation policy which 
+keeps pace with industry and is considered to be among 
+
+
+103a 
+
+
+the best. This booklet summarizes the various life, 
+health, and disability insurance policies and the retire- 
+ment income plan for salaried employees. These benefits 
+represent a significant element of compensation in addi- 
+tion to your paycheck since they relieve you of putting 
+aside a part of your cash income to take care of health 
+problems and to provide for your survivors or far your 
+own years in retirement. (emphasis added) 
+
+
+Section I, p. 8. 
+
+
+When you retire from the Company you take with you a 
+number of benefits from your employment— 
+
+
+: * * 
+— basic health benefits 
+
+
+— major medical benefits 
+— dental health benefits 
+
+
+— vision care benefits 
+— hearing aid benefits 
+
+
+— non-contributory life insurance, 150% of final annual 
+rate of earnings to age 65—then $3000 
+
+
+— life insurance from your contributory policy, if appli- 
+cable 
+
+
+Section VIII, p. 5. 
+
+
+The basic health, major medical, dental health, vision 
+care, and hearing aid benefits for Company employees 
+continue in retirement. About 3 months before your 65th 
+birthday, you are expected to enroll in the Part ‘B’ of the 
+social security Medicare program which provides med- 
+ical insurance in addition to the hospital insurance pro- 
+vided under Part ‘A’. At this time the Company will 
+assume you are covered by Medicare, and the Company 
+health benefits will take responsibility for only those 
+covered expenses not covered by Medicare. At the same 
+time, the Company will reimburse you, in your monthly 
+
+
+104a 
+
+
+pension check, for the Medicare Part ‘B’ premium which 
+is deducted from your monthly social security check. 
+
+
+It is your responsibility to inform the Company when 
+your spouse attains age 65 and enrolls in Medicare Part 
+‘B’ in order that the Company may reimburse you for the 
+cost of your spouse’s Medicare deduction from monthly 
+social security income. It is also your responsibility to 
+advise the Company in the event of the death of your 
+spouse, so that the Company’s reimbursement for Medi- 
+care is adjusted. 
+
+
+Section VIII, pp. 7-8. 
+
+
+Coverage under the group benefits plan - basic health 
+and major medical— 
+
+
+1. continues for employees who retire as pensioners and 
+their dependents; 
+
+
+2. continues for surviving dependents of a retiree; 
+Section IV, pp. 12-13. 
+
+
+Vision Care Insurance continues for employees who 
+retire as pensioners and for their dependents. 
+
+
+Section IV, p. 16. 
+
+
+If you work beyond your 65th birthday, your noncon- 
+tributory life insurance continues in force until you retire 
+when, effective at midnight of the last day of the month 
+prior to the day pension begins, $3,000 remains in force 
+for the rest of your life, payable to a beneficiary or 
+estate. 
+
+
+Section II, p. 2. 
+
+
+Life insurance coverage in retirement continues to be 
+paid for by the Company. 
+
+
+If you enroll in the contributory life insurance plan when 
+you are first eligible, within 31 days of hire, OR partic- 
+
+
+bit A Se 7 ver. a. ' § ~<s. eee, Pe Se Peet ¢ 
+; is we PMS Sr) eee Pe 
+
+
+105a 
+
+
+ipate in it for at least 15 years before retirement, you 
+continue to be insured in retirement at no cost to you. 
+
+
+In retirement before age 66, the insurance continues in 
+force at 50% of your final annual rate of earnings and is | 
+reduced by 5% per year on your 66th, 67th, 68th, 69th, 
+and 70th birthdays. The reduction is effective at mid- 
+night at the close of the birthday. If you retire at age 66 
+or later, the insurance coverage drops to the level des- 
+ignated by your last birthday. At age 70, then, insurance 
+equal to 25% of your last annual rate of earnings is still 
+in force and remains in force for the rest of your life, q 
+payable to your beneficiary or estate at time of your 
+death. 
+
+
+Section II, p. 3 
+
+
+The dental health plan covers all full-time salaried 
+employees, retirees, and eligible dependents. 
+
+
+Section V, p. 1. 
+
+
+In Maxa v. John Alden Life Ins. Co., 972 F.2d 980, 984 (8th 
+Cir. 1992) the court found that ERISA sets forth the relevant 
+requirements for a proper summary plan description in the 
+following terms: 
+
+
+Section 1022. Plan description and summary plan 
+description 
+
+
+(a)(1) A summary plan description of any employee 
+benefit plan shall be furnished to participants and ben- 
+eficiaries * * * The summary plan description shall 
+include the information described in section (b) of this 
+section, shall be written in a manner calculated to be 
+understood by the average plan participant, and shall be 
+sufficiently accurate and comprehensive to reasonably 
+apprise such participants and beneficiaries of their rights 
+and obligations under the plan * * * 
+
+
+(b) The plan description and summary plan descrip- 
+tion shall contain the following information: * * * cir- 
+
+
+106a 
+
+
+cumstances which may result in disqualification, ineli- 
+gibility, or denial or loss of benefits * * * 
+
+
+29 U.S.C. section 1022(a)(1), (b) (1975). Pursuant to 29 
+U.S.C. section 1035, the Secretary of Labor is empowered to 
+prescribe necessary regulations and forms. Pursuant to that 
+power, regulations promulgated by the Secretary state that: 
+
+
+(a) Method of presentation. The summary plan 
+description shall be written in a manner calculated to be 
+understood by the average plan participant and shall be 
+sufficiently comprehensive to apprise the plan’s partic- 
+ipants and beneficiaries of their rights and obligations 
+under the plan. In fulfilling these requirements, the plan 
+administrator shall exercise considered judgment and 
+discretion by taking into account such factors as the 
+level of comprehension and education of typical partic- 
+ipants in the plan and the complexity of the terms of the 
+plan. Consideration of these factors will usually require 
+the limitation or elimination of technical jargon and of 
+long, complex sentences, the use of clarifying examples 
+and illustrations, the use of clear cross-references and a 
+table of contents. 
+
+
+(b) General format. The format of the summary plan 
+description must not have the effect to misleading, mis- 
+informing, or failing to inform participants and benefi- 
+ciaries. Any description of exceptions, limitations, 
+reductions, and other restrictions of plan benefits shall 
+not be minimized, rendered obscure, or otherwise made 
+to appear unimportant. Such exceptions, limitations, 
+reductions, or restrictions of plan benefits shall be 
+described or summarized in a manner not less prominent 
+than the style, captions, printing type, and prominence 
+used to describe or summarize plan benefits. The advan- 
+tages and disadvantages of the plan shall be presented 
+without either exaggerating the benefits or minimizing 
+the limitations. The description or summary of restrictive 
+plan provisions need not be disclosed in the summary 
+plan description in close conjunction with the description 
+
+
+107a 
+
+
+or summary of benefits, provided that adjacent to the 
+benefit description, the page on which the restrictions 
+are described is noted. 
+
+
+29 C.F.R. section 2520.102-2(a),(b) (1988). 
+
+The law is clear; a company that has provided welfare ben- 
+efits to employees and retirees must communicate with the 
+employees in a manner and fashion which fully and fairly 
+apprises them of the extent and limitations of their benefits. 
+
+While a plan’s summary may be easily understood, it does 
+not fully comply with ERISA if it is not an accurate inter- 
+pretation of the original pension plan. McKnight v. Southern 
+Life and Health Ins. Co. 758 F.2d 1566, 1570 (11th Cir. 
+1985). It is of no effect to publish and distribute a plan sum- 
+mary booklet designed to simplify and explain a voluminous 
+and complex document and then claim that any inconsisten- 
+cies will be governed by the plan. Unfairness will flow to 
+employees for reasonably relying on the summary booklet. 
+Edwards v. State Farm Mut. Auto. Ins. Co., 851 F.2d 134, 136, 
+(6th Cir. 1988) (quoting McKnight v. Southern Life and 
+Health Ins. Co. 758 F.2d 1566, 1570 (11th Cir. 1985). See 
+also Hansen v. Continental Insurance Co., 940 F.2d 971, 982 
+(Sth Cir. 1991); Pierce v. Security Trust, 979 F.2d 23 (4th Cir. 
+1992); Govoni v. Bricklayers Masons & Plasterers, 732 F.2d 
+250, 252 (Ist Cir. 1984) (reliance or prejudice from faulty plan 
+summary is ground for relief); Bower v. Bunker Hill Co., 725 
+F.2d 1221, 1224-25 (9th Cir. 1984) (misleading summary plan 
+description, combined with misleading management repre- 
+sentations, preclude summary judgment in favor of employer); 
+Hoefel v. Atlas Tack Corp, 581 F.2d 1, 3 (1st Cir. 1978) 
+(enforcing summary of retirement plan) cert. denied, 440 U.S. 
+913, 99 S.Ct. 1227, 59 L.Ed.2d 462 (1979); Genter v. Acme 
+Scale and Supply Co., 776 F.2d 1180, 1185 (3d Cir. 1985) (the 
+summary plan description must not mislead, misinform or fail 
+to inform participant and beneficiaries of the plan); Hurd v. 
+Hutnik, 419 F.Supp 630, 656-57 (D. N.J. 1976) (despite dis- 
+claimer, summary plan statement governs). 
+
+Under ERISA, an employer must provide a summary plan 
+description to a participant that describes circumstances 
+which may result in disqualification, ineligibility, or denial or 
+
+
+108a 
+
+
+loss of benefits, written in understandable form, which is suf- 
+ficiently accurate and comprehensive to reasonably apprise 
+participants and beneficiaries of their rights and obligations 
+under the plan. Arnold v. Arrow Transp. Co. of Delaware, 926 
+F.2d 782 (9th Cir. 1990). Employees are entitled to rely on 
+descriptions contained in summary benefits plan descriptions 
+required by ERISA. Poor drafting of summary benefit plan 
+description required by ERISA may extend or enlarge cov- 
+erage which would otherwise be unavailable. Branch v. G. 
+Bernd Co., 764 F. Supp. 1527, 1538 (M.D. Ga. 1991). 
+
+There are other specific obligations placed on the employer 
+by the Act. One of these obligations relates to the notification 
+that must be afforded the plan participants of their rights 
+under the plan. Congress felt that ERISA’s predecessor leg- 
+islation had failed to provide adequate notification of rights 
+for the plan participants. The Senate report on the Act iden- 
+tified as a source of congressional concern the inadequacy of 
+effective notice of the rights of the plan participants due to 
+the technicalities and complexities of the predecessor’s Act’s 
+language—language which was all too often misleading or 
+incomprehensive. For expressions of these concerns in House 
+and Senate reports, see H.R. Rep. No. 807, 93d Cong., 2d 
+Sess. 60 (1974), reprinted in 1974 U.S.C.C.An. 4639, 4620, 
+and S. Rep. No. 383, 93d Cong., 2d Sess. 18 (1975), reprinted 
+in 1974 U.5S.C.C.An. 4639, 4890, 4935. Pierce v. Security 
+Trust, 979 F.2d 23 (4th Cir. 1992). 
+
+The law is clear, if plan administrators fail to accurately 
+represent the terms of an ERISA plan in an SPD, the undis- 
+closed provisions are ineffective. The Code of Federal Reg- 
+ulations could not make this point clearer—“Such exceptions, 
+limitations, reductions, or restrictions of plan benefits shall be 
+described or summarized in a manner not less prominent than 
+the style, captions, printing type, and prominence used to 
+describe or summarize plan benefits. The advantage and dis- 
+advantages of the plan shall be presented without either exag- 
+gerating the benefits or minimizing the limitations.” 29 C.F.R. 
+section 2520.102-2(b) (1988); McKnight, 758 F.2d at 1570, 
+Edwards, 851 F.2d at 136. 
+
+
+109a 
+
+
+As with other portions of this matter the parties disagree of 
+which document or docume® « constituted an SPD. For exam- 
+ple, the following is a portion of the trial transcript, in which 
+defendants lead counsel, Mr. Kavaler explains to the court his 
+
+
+position on SPD’s: 
+MR. KAVALER: 
+
+
+(Tr. 2433-34). 
+
+
+. . . Your Honor, as you know, under 
+the plans the company is both the 
+sponsor and the plan administrator. 
+The company characterizes docu- 
+ments, and if the company says it’s an 
+SPD as a matter of law, your Honor 
+that’s how ERISA works—the com- 
+pany is charted with the responsibility 
+of putting out an SPD. 
+
+
+The company could put out a piece of 
+yellow paper on it with a picture of 
+Mickey Mouse, and they could say, 
+“This is the SPD.” The Department of 
+Labor could come in and say, “Well, 
+it’s deficient.” That would be a dif- 
+ferent question, but if the company 
+Says it’s the SPD, it’s an SPD until 
+someone determines it’s not, and with 
+all due modesty, Your Honor, in this 
+situation I am the company. I am 
+telling you what the company called 
+this. 
+
+
+Defendants’ position is further spelled out in their trial) 
+
+
+brief at page 6: 
+
+
+. . . The provision of these welfare benefits was gov- 
+erned by the Massey-Ferguson, Inc. employee trust 
+agreement and the Massey-Ferguson, Inc. employee ben- 
+efits plan (with appendices). These two documents incor- 
+porated each other by reference, and are hereinafter 
+referred to as the Master Plan. Notwithstanding a Jot of 
+
+
+110a 
+
+
+silliness being fostered by plaintiffs’ counsel, the Mas- 
+ter Plan (and M-F Inc.’s disclosure of its salient provi- 
+sions) was in all respects legal and proper—it satisfied 
+all the requirements of federal benefits law then in 
+effect. That it is possible to craft a better regime is 
+beside the point; Congress mandated no more than M-F 
+Inc. did. 
+
+
+The bottom line question for the court is which document 
+or documents constituted the SPD in effect when plaintiffs 
+accepted the transfer to MCC. In findings of fact numbers 87- 
+97, the court found that defendants changed the terms of their 
+benefits plans many times. The first change occurred in 
+December 1981, M-F amended its health benefits plan to 
+require contributions from active employees toward the cost 
+of health benefits, effective January 1, 1982. As stated above, 
+this modification was communicated to employees through a 
+December 1981 memorandum from victor Rice, a January 
+1982 memorandum from Byron Quandt, and a December 1981 
+insert for You and M-F. In January 1983, M-F amended its 
+health benefits plan again. This modification was communi- 
+cated to employees through a January 1983 memorandum 
+from Gary Fryatt. Replacement or addition pages io insert in 
+You and M-F were not prepared. For some reason, at this 
+point, M-F abandoned the practice of producing and dis- 
+tributing replacement pages for You and M-F. In December 
+1983 M-F once again amended its health benefits plan to 
+adopt a new Comprehensive Major Medical Plan for employ- 
+ees and retirees. This modification was communicated to 
+employees and retirees through memoranda and a booklet 
+entitled the Massey-Ferguson Inc. Comprehensive Major 
+Medical Plan. Replacement or addition pages to insert in You 
+and M-F were not prepared. As found above, defendants’ 
+intended to reissue the Comprehensive Major Medical Plan in 
+the format of the You and M-F so that the employees could 
+insert the pages in You and M-F. Jill Wellman, the general 
+benefits administration manager of MCC for salaried employ- 
+ees, and others were working on revisions to You and M-F in 
+
+
+llla 
+
+
+1984 after the Ruth memo was distributed. This planned 
+action indicates to the court that defendants intended to sup- 
+plement their chosen vehicle for benefits communication, 
+namely amending You and M-F. 
+
+As found above, a reasonable person, if he or she received 
+and read the Comprehensive Major Medical Plan, would not 
+understand it to be a notice that defendants were reserving a 
+right to terminate welfare benefits in retirement. Accordingly, 
+exhibit 511, the Massey-Ferguson Inc., Comprehensive Major 
+Medical Plan, by operation of the existing law on SPD’s, fails 
+to serve as a vehicle designed to communicate benefits 
+changes “in a manner calculated to be understood by the aver- 
+age plan participant” which was “sufficiently comprehensive 
+to apprise the plan’s participants and beneficiaries of their 
+rights and obligations under the plan.” 29 C.F.R. section 
+2520.102-2(a) (1988). Therefore, defendants are equitably 
+estopped from asserting section 7.4 as a bar to plaintiffs’ 
+claims.°® 
+
+To secure relief on the basis of a faulty summary plan 
+description the claimant must show possible prejudice flow- 
+ing from the summary. Anderson v. Alpha Portland Industries 
+Inc., 836 F.2d 1512, 1520 (8th Cir. 1988) (quoting Lee v. 
+Union Electric Co., 789 F.2d 1303, 1308 (8th Cir. 1986), cert 
+denied, 479 U.S. 962, 107 S.Ct. 460, 93 L.Ed.2d 406 (1986). 
+Here the evidence is clear, plaintiffs were unaware that the 
+company reserved the right to terminate, amend or modify the 
+plan. The evidence at trial supports the finding that prior to 
+accepting the transfer to MCC plaintiffs were concerned with 
+the continuation of their benefits. With the communication of 
+the Porter letter, the side-by-side comparisons, and reference 
+to You and M-F, the reasonable plan participant relied to their 
+detriment on the reasonable belief that their benefits could not 
+be terminated after taking retirement from MCC. See gener- 
+ally Henalein v. Informal Plan for plant Shutdown Ben. For 
+
+
+: The court realizes that traditionally equitable estoppel is a 
+
+
+defense, however given the emerging case law and the posture of this 
+case the court concludes that it is appropriate to recognize equitable 
+estoppel as an independent cause of action. See Fitch, 795 F.Supp. at 
+906-07; Kane, 893 F.2d at 1285-86. 
+
+
+- 
+a 
+Py 
+3 
+4 
+3 ] 
+
+
+112a 
+
+
+Salaried Employees, 974 F.2d 393, 400-01 (3rd. Cir. 1992). 
+As mentioned in paragraphs 58-101 and exhibits A, B, and 
+114. 
+
+The question for this court then follows, were the state- 
+ments on the extent and coverage of benefits to be provided 
+at MCC, found in exhibits A and B, which were presented to 
+then MF employees to induce acceptance of their transfer to 
+MCC, sufficient to cause reliance on the language then found 
+in the SPD—You and M-F? After a careful review the court 
+concludes they were. Further, this court must answer the ques- 
+tion; did the reasonable expectations of the plaintiffs, when 
+relying on exhibits A, B and 114 create a modification of the 
+plan. After a careful review of the law on deficient SPD’s the 
+court concludes that an effectively communicated modifica- 
+tion was not created. The M-F plan is still in place and pro- 
+viding benefits to M-F retirees. Therefore, the court finds that 
+the defendants are equitably estopped from any right to 
+amend or terminate the plan. 
+
+Having found plaintiffs’ claim for recovery meritorious 
+under this theory of equitable estoppel the court does not now 
+need to address plaintiffs’ claims under promissory estoppel. 
+
+
+MCC—TERMINATED CLASS 
+
+
+The estoppel claims of this subclass of plaintiffs are denied 
+for the same reasons as set forth above in pages 60-63 
+[97a-100a], when the court is discussing the breach of fidu- 
+ciary duty made by this subclass. ( i.e. that employment con- 
+ditions at MF for this subclass were going to change because 
+large losses would have dictated that layoffs would have been 
+forthcoming in any event.) 
+
+
+FRAUDULENT MISREPRESENTATION—COUNT 5 
+
+
+Discussion of plaintiffs’ fraudulent misrepresentation claim 
+is discussed on pages 25-27 [44a-45a], in the court’s order on 
+motions for new trail and judgment as a matter law. The court 
+therein denied all claims advanced by the plaintiffs and set 
+aside the jury verdict on the fraudulent misrepresentation 
+claim. 
+
+
+Wt 
+; 
+
+
+0 eS ae” eee. oe ee ee 
+
+
+113a 
+
+
+PUNITIVE DAMAGES 
+
+
+The availability of punitive damages in ERISA cases 
+bought under ERISA section 502(a)(3), 29 U.S.C. section 
+1132 (a)(3) is a question of great importance in this case. 
+Both sides of this lawsuit have file extensive briefs on this 
+issue. Both sides raised interesting and compelling arguments 
+in support of their positions. After a review of the briefs and 
+several rounds of oral arguments this court determined that 
+this issue had newer been ruled on directly by either the United 
+States Supreme Court or the Eighth Circuit Court of Appeals. 
+Out of an abundance of caution and a desire to see that a full 
+record was developed in order to aid appellate review this 
+court submitted the question of punitive damages to the jury 
+in this matter. The jury returned a verdict awarding punitive 
+damages on the three counts submitted to them in the amounts 
+of $33,000,000 against Varity and $3,000,000 against MF. 
+
+Following the conclusion of the trial portion of this case 
+and prior to the arguing of post-trial motions the Eighth Cir- 
+cuit Court of Appeals issued its opinion in Novak v. Anderson 
+corp., 962 F.2d 757 (8th Cir.1992). In Novak the court defined 
+what the term “other appropriate equitable relief” under sec- 
+tion 1132(a)(3) entails. The Novak court, after a review of the 
+legislative history, found that “other equitable relief” was 
+defined to include only that relief which was declaratory or 
+injunctive or the imposition of a constructive trust. 
+
+In light of Novak this court must now deny plaintiffs’ 
+request for punitive damages and sustain the defendants 
+motion to strike the award of punitive damages. If the Court 
+of Appeals concludes that punitive damages are available 
+under section 1132(a)(3), this court is prepared to review the 
+advisory jury’s punitive damage award in conjunction with 
+this court’s independent factual findings. Naturally, this court 
+would revisit the parties arguments in relation to due process 
+considerations and other related constitutional issues con- 
+nected with a potential award of punitive damages. 
+
+
+1l4a 
+CONCLUSION 
+
+
+The economy in the agricultural regions of this county in 
+the 1980's was turbulent and difficult. Varity and Massey Fer- 
+guson were in no different a situation than any of the other 
+agricultural equipment manufacturers experiencing tough 
+financial constraints during this period. However, in the face 
+of difficult financial times Varity disregarded existing law and 
+devised a plan which dramatically cut its debt burden and her- 
+itage costs. Project Sunshine was nothing more than a brilliant 
+manipulative effort to sever retiree welfare obligations which 
+had become a burdensome load on a financially strapped com- 
+pany. Project Sunshine was a sucker punch on loyal employ- 
+ees who had given a lifetime of service to a company and who 
+had been induced into believing that their benefits coverage 
+could not be terminated once they retired. ERISA was enacted 
+to prevent just such a maneuver as was undertaken in Project 
+Sunshine. 
+
+
+THEREFORE IT Is HEREBY ORDERED that the court having 
+found in favor of the plaintiffs’ MCC-Retired subclass and the 
+Individual Plaintiffs on their claim of equitable estoppel and 
+breach of fiduciary duty orders that the plaintiffs shall within 
+20 days of the date of this order make an election of remedies. 
+The remaining plaintiffs may either choose to accept the 
+jury’s award as set out in this court’s order on motions for 
+judgment as a matter of law and motion for new trial, or 
+choose the relief set out below, which includes reinstatement 
+to the M-F plan. If the MCC Retired Class and/or individual 
+plaintiffs so elect, judgment will be entered as follows: 
+
+
+1. Judgment for compensatory damages is awarded and 
+judgment to be entered against the defendants in favor of 
+the MCC-Retired subclass in the amount of $696,195. 
+
+
+2. Judgment for compensatory damage (actual expenses) 
+is awarded and judgment is to be entered against the 
+defendants in favor of the Individual Plaintiffs in the fol- 
+lowing amounts: 
+
+
+* 
+ei 
++ 
+
+
+115a 
+
+
+Individual Plaintiffs Amount 
+John Altomare $ 5,000 
+Charles Barron 3,160 
+Alexander Charron 7,661 
+Charlotte Chiles 13,106 
+Anita Crowe 11,877 
+Ray Darr 1,700 
+Doris Guidicessi 8,219 
+Barnett Lucas 3,150 
+Robert Skromme 18,284 
+Estate of Walter Smith 10,655 
+
+
+3. The defendants are directed to and permanently 
+enjoined to reinstate the members of the MCC-Retired 
+subclass and the Individual Plaintiffs to the M-F Plan as 
+it existed on the dates of those plaintiffs’ retirement. The 
+court will retain jurisdiction to resolve any questions 
+concerning the terms of the plan in the context of this 
+permanent injunction. 
+
+
+4. The court retains jurisdiction to determine the amount 
+of any damages to the MCC-Retired subclass and the 
+Individual Plaintiffs for benefits accrued but not paid 
+between the time of trial and the date they are reinstated 
+to the plan. 
+
+
+IT Is FURTHER ORDERED that all claims on behalf of the 
+MCC Terminated subclass are denied. 
+
+
+MARCH 26, 1993 
+/s/ _DONALD E. O’ BRIEN 
+
+
+DONALD E. O’ BRIEN, JUDGE 
+UNITED STATES DISTRICT COURT 
+
+

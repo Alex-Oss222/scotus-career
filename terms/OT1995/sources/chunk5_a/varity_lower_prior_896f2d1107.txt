@@ -1,0 +1,452 @@
+116a 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE EIGHTH CIRCUIT 
+
+
+No. 89-2319 
+
+
+Submitted: October 11, 1989 
+Filed: February 15, 1990 
+
+
+Charles Howe; Robert Wells; Ralph W. Thompson; Charlotte 
+Chiles; Patrick Mousel, On behalf of themselves and as 
+representatives of a Class of Persons Similarly Situated, 
+
+
+Appellees, 
+
+
+—V.— 
+
+
+Varity Corporation and Massey-Ferguson, Inc., 
+Appellants. 
+
+
+Appeal from the United States District Court 
+for the Southern District of lowa 
+
+
+Before Lay, Chief Judge, HENLEY, Senior Circuit Judge, 
+and ARNOLD, Circuit Judge. 
+
+
+Lay, Chief Judge. 
+
+
+Varity Corporation (Varity) and Massey-Ferguson, Inc. 
+(M-F Inc.) appeal from a preliminary injunction issued by the 
+district court requiring them to reinstate portions of a termi- 
+nated employee welfare benefit plan. We reverse in part and 
+affirm in part. 
+
+
+ree eee, ee ee 
+
+
+117a 
+BACKGROUND 
+
+
+M-F Inc., which makes farm equipment, is wholly owned 
+by Varity. M-F Inc. maintains a comprehensive health and 
+welfare benefit plan for its employees and retirees. Section 
+7.4 of the “Master Plan” contains the following language: 
+
+
+to amend or terminate the Plan or Trust at any time, pro- 
+vided no such amendment or termination shall have the 
+effect of diverting the Trust funds to purposes other than 
+the exclusive benefit of the Employees except as pro- 
+vided in Section 7.1. However, the right to amend or ter- 
+minate the Plan shall not, in any way, affect an 
+Employee’s right to claim benefits, diminish, or elimi- 
+nate any claims for benefits under the provisions of the 
+Plan to which the Employee shall have become entitled 
+prior to the exercise of the Company’s right, through its 
+Board, to terminate or amend. 
+
+
+In the late 1970’s M-F Inc. began having financial diffi- 
+culties which continued through 1986. On May 9, 1986, 
+Varity transferred a portion of M-F Inc.'s operations to a 
+newly-created Canadian corporation, Massey Combines 
+Corporation (MCC). As part of this restructuring, known as 
+“Project Sunshine,” approximately 1500 employees of M-F 
+Inc. and other Varity subsidiaries were transferred to MCC. In 
+addition, MCC assumed the obligations of M-F Inc. and other 
+Varity subsidiaries to provide welfare benefits to 3500-4000 
+retirees. Because MCC adopted M-F Inc.’s welfare plan ver- 
+batim, however, this restructuring did not immediately affect 
+the welfare benefits of M-F Inc. employees and retirees. 
+
+MCC’s financial condition quickly slid downhill. On March 
+4, 1988, MCC went into receivership in Canada and termi- 
+nated all of its employees. MCC’s receiver sent notice to all 
+former employees, retirees, and other plan beneficiaries indi- 
+cating there were no funds available to continue welfare ben- 
+efits. All welfare benefits immediately ceased. 
+
+This suit was brought pursuant to the Employee Retirement 
+Income Security Act (ERISA), 29 U.S.C. §§ 1001-1461 
+(1982), by representatives of former salaried employees, 
+
+
+118a 
+
+
+retirees, disabled employees, and eligible dependents of 
+retirees and disabled employees of M-F Inc. who were trans- 
+ferred to MCC in 1986 through the Project Sunshine restruc- 
+turing. Plaintiffs sought an order requiring Varity and M-F 
+Inc. to restore benefits to retirees, disabled employees, and 
+their survivors and eligible dependents.' The district court 
+granted plaintiffs’ motion for a preliminary injunction, find- 
+ing that the welfare benefit plan entitled retirees to continued 
+benefits throughout their lifetimes.” This interlocutory appeal 
+followed. 
+
+
+DISCUSSION 
+
+
+A. Benefits of Retirees 
+
+
+The district court based its order of preliminary relief on 
+the ground that welfare benefits vested upon retirement and 
+could not thereafter be terminated by MCC or defendants. 
+Since we deal here only with welfare benefits (medical, den- 
+tal, disability, and life insurance), ERISA’s mandatory vest- 
+ing requirements relating to pension rights do not apply. 29 
+U.S.C. § 1051(1) (1982). The issue we confront is “simply 
+one of contract interpretation.” Anderson v. Alpha Portland 
+Indus., Inc., 836 F.2d 1512, 1516 (8th Cir. 1988) (quoting 
+Local Union No. 150-A v. Dubuque Packing Co., 756 F.2d 66, 
+70 (8th Cir. 1985)). Welfare benefit plans may be modified or 
+terminated absent the employer’s contractual agreement to the 
+contrary. Anderson, 836 F.2d at 1516-17. 
+
+
+| The court conditionally certified the class “for the narrow pur- 
+pose of effectuating the preliminary injunction.” In view of our reversal 
+on the issuance of the preliminary injunction as to the conditional class 
+as a whole, we need not pass on the propriety of the conditional certifi- 
+cation. See part B of our discussion. 
+
+
+2 The district court's analysis is contained in a 51-page Memo- 
+randum and Order adopted verbatim from a memorandum submitted by 
+plaintiffs in support of their motion. Despite our disapproval of this judi- 
+cial practice, see Jones v. International Paper Co., 720 F.2d 496, 499 (8th 
+Cir. 1983), these findings and conclusions are nevertheless formally those 
+of the district court, and we must examine the record for support of these 
+findings and conclusions. /d. 
+
+
+119a 
+
+
+Plaintiffs argue that the contractual language contained in 
+the plan documents constitutes a promise that welfare bene- 
+fits vest for life upon an employee's retirement. The district 
+court held that Section 7.4, which secures an employee’s right 
+to claim benefits to which the employee “shall have become 
+entitled” prior to termination of the plan, constitutes explicit 
+vesting language. In addition, the court found that past com- 
+pany practice and summary plan documents stating that wel- 
+fare benefits “continue in retirement” establish retirement as 
+a vesting point. 
+
+The district court’s ruling is based on an erroneous view of 
+the law.’ Plaintiffs have the burden of proving vested welfare 
+benefits. Anderson, 836 F.2d at 1517. In Anderson we held 
+that this burden was not met by the employer’s promise to 
+provide welfare benefits “until death of retiree” where the 
+employer had expressly reserved the right to terminate or 
+amend the plan. /d. at 1518. Similarly, in DeGeare v. Alpha 
+Portland Indus., Inc., 837 F.2d 812 (8th Cir. 1988), vacated 
+and remanded, 109 S. Ct. 1305 (1989) we held that an 
+employer’s promise to future retirees that benefits “will con- 
+tinue” could not be read as a promise of vested lifetime ben- 
+efits in the face of a termination clause. /d. at 814, 816-17.‘ 
+
+
+3 We recognize that a preliminary injunction is ordinarily 
+reviewed under an abuse of discretion standard. Dataphase Sys. Inc. v. 
+CL Sys. Inc., 640 F.2d 109, 114 & n.8 (8th Cir. 1981) (en banc). How- 
+ever, an appellate court reviewing the grant or denial of a preliminary 
+injunction may also determine whether the district court based its deci- 
+sion on an erroneous legal premise. Calvin Klein Cosmetics Corp. v. 
+Lenox Laboratories, Inc., 815 F.2d 500, 503 (8th Cir. 1987); O'Connor 
+v. Peru State College, 728 F.2d 1001, 1002 (8th Cir. 1984). We therefore 
+may reach the legal issues at the heart of the case. See Calvin Klein, 815 
+F.2d at 504 (appellate court may review legal conclusions where it is 
+plain that lower court's ruling is “inextricably bound up in its view of the 
+law”). 
+
+
+* — The Supreme Court's remand of DeGeare was based on its deci- 
+sion in Firestone Tire & Rubber Co. v. Bruch, 109 S. Ct. 948 (1989). In 
+DeGeare, we held as an initial matter that a plan fiduciary's interpreta- 
+tion of plan terms was entitled to deference on review. DeGeare, 837 F.2d 
+at 814-15. We went on to hold, however, that “/iJ/n any event,* * * the 
+administrator and district court correctly construed the plan documents 
+
+
+120a 
+
+
+After a careful review of the plan documents, we find noth- 
+ing that allows plaintiffs to escape these holdings. Section 7.4 
+of the plan does not itself pinpoint retirement as a vesting 
+trigger. Section 7.4 merely protects an employee's right to 
+claim benefits for an injury or disabling event that occurs 
+prior to termination of the plan.°* 
+
+As Anderson and DeGeare make clear, the mere fact that 
+employee welfare benefits continue in retirement does not 
+indicate that the benefits become vested for life at the 
+moment of retirement. No inference of an intent to vest can be 
+presumed from the fact the benefits are retirement benefits. 
+DeGeare, 837 F.2d at 815; Anderson, 836 F.2d at 1516-17. 
+Indeed, the benefits at issue here are “retirement benefits” in 
+a technical sense only. Unlike pension benefits, coverage 
+under the welfare benefit plan does not begin at an 
+employee’s retirement. Rather, as plaintiffs themselves stren- 
+uously argue, the welfare benefits simply continue when an 
+employee retires. Nothing in the documents establishes retire- 
+ment as a vesting point. 
+
+The district court’s reliance on extrinsic evidence is also 
+misplaced. The court found that in the past defendants had 
+exempted retirees from plan changes, thereby implying that 
+retirees’ benefits were “untouchable.” As a general rule, how- 
+ever, extrinsic evidence may not be relied upon where 
+the documents are unambiguous on their face. See. e.g., 
+Anderson, 836 F.2d at 1517 (“[I)f the contract is deemed 
+
+
+* * *." Id. at 815. We then applied the contract interpretation principles 
+established in our prior cases. Jd. at 815-16. 
+
+Bruch’s holding that the plan fiduciary is entitled to deference in con- 
+struing terms only when the plan expressly reserves the right to do so did 
+not affect the principles underlying the central part of our decision in 
+DeGeare. See Bruch, 109 S. Ct. at 956; see also Lakey v. Remington Arms 
+Co., 874 F.2d 541, 543-44 (8th Cir. 1989) (explaining the effect of 
+Bruch). Thus, we disagree with the district court’s conclusion that the 
+remand of DeGeare leaves this circuit's law “up in the air.” The basic 
+contract interpretation principles of DeGeare and Anderson still apply. 
+
+
+— example, if a covered employee were to break a bone one 
+day before the plan is terminated, that employee would be “entitled” to 
+medical expense reimbursement for the injury. 
+
+
+12la 
+
+
+ambiguous, then the court may weigh extrinsic evidence to 
+aid in its construction.”) (quoting Dubuque Packing, 756 F.2d 
+at 69) (emphasis added). Moreover, it is the extrinsic evidence 
+itself, in our view, that is ambiguous. Merely because defen- 
+dants chose to exempt retirees from plan changes in the past 
+does not mean that defendants considered themselves forever 
+bound to do so. Plaintiffs have not argued estoppel, nor have 
+they suggested any detrimental reliance on defendants’ prac- 
+tices. This evidence therefore does not aid plaintiffs in meet- 
+ing their burden of proof. 
+
+We hold that the district court erred in granting the pre- 
+liminary injunction on the ground that the welfare plan could 
+not be terminated as to retirees. 
+
+
+B. Propriety of Preliminary Injunction as to Subclasses 
+
+
+The district court’s injunction reinstates all retirement and 
+disability benefits as they existed immediately prior to March 
+4, 1988, the date MCC went into receivership. As our holding 
+above makes clear, retirees as a general class are no longer 
+entitled to these benefits. Varity and M-F Inc. concede, how- 
+ever, that Section 7.4 establishes an “entitlement” in favor of 
+beneficiaries who became injured or disabled prior to plan 
+termination.® Therefore, MCC was not at liberty to ter uinate 
+payments to these persons. However, MCC is presumably 
+without funds to pay these benefits and is not a party to this 
+lawsuit. Thus, beneficiaries with vested rights are left to look 
+solely to Varity and M-F Inc. for satisfaction of their claims. 
+
+This observation requires us to consider two subclasses of 
+beneficiaries. The first subclass consists of persons who 
+became injured or disabled (and thereby vested) prior to May 
+
+
+© Defendants concede Section 7.4 is a “pipeline” provision which 
+protects employees and retirees against termination of benefits once they 
+suffer an injury or illness. The plan language indicates that disabled per- 
+sons fall within this group and are thus entitled to continued disability 
+benefits if their disability occurred prior to the plan termination date. The 
+plan makes clear that these disability benefits may be terminated only 
+upon the employee's death, attainment of age 65, or end of disability, 
+whichever comes first. 
+
+
+122a 
+
+
+9, 1986, the date they were transferred to MCC. We disagree 
+with defendants’ argument that these beneficiaries must look 
+solely to MCC for recovery. M-F Inc.’s contractual obliga- 
+tions to provide health and disability benefits to this group 
+had fully ripened prior to the 1986 transfer and could not be 
+discharged by a transfer of the obligations to MCC. It is fun- 
+damental that an assignment will not discharge the assignor’s 
+debt to a third party without the third party’s consent. E.g., 4 
+A. Corbin, Corbin on Contracts § 866 (1951). The record 
+is not clear, but assuming there are members of the condi- 
+tional class who became entitled to welfare benefits by reason 
+of injury or disability before May 9, 1986, then the prelimi- 
+nary injunction shall continue as to these persons. 
+
+The second subclass consists of persons whose benefits 
+became vested by reason of an injury or disability occurring 
+after the 1986 transfer but before MCC went into receivership 
+on March 4, 1988. Defendants appear to suggest that the 
+transfer of these persons to MCC relieved both Varity and 
+M-F Inc. of all continuing benefits obligations. The district 
+court disagreed, finding defendants liable for these obliga- 
+tions under three alternative theories: (1) as “alter egos” of 
+MCC; (2) as “employers” under ERISA, see 29 U.S.C. 
+§ 1002(5) (1982), or; (3) as plan fiduciaries, see id. 
+§§ 1002(21)(A), 1109. We are convinced that resolution of 
+these issues depends on a more fully developed record and 
+more carefully-considered factual findings than those before 
+us. We do not accept the district court’s adoption of plaintiffs’ 
+proposed findings as a final determination of the factual issues 
+involved under these theories. Such “mechanically adopted” 
+findings “do not reveal the discerning line for decision” on the 
+factual issues establishing defendants’ liability. United States 
+v. El Paso Natural Gas Co., 376 U.S. 651, 657 (1964). 
+
+Nevertheless, we find reasonable probability that the mem- 
+bers of this subclass may be able to prove defendants liable 
+under one or more of these theories. At the present time, we 
+are satisfied that the district court did not abuse its equitable 
+powers in granting this aspect of the preliminary injunction 
+on the proposed findings it adopted. However, the district 
+
+
+123a 
+
+
+court must now independently determine whether the record 
+supports defendants’ liability as to those persons who became 
+entitled to benefits between May 9, 1986, and March 4, 1988. 
+
+Although the record is not completely clear on the issue, it 
+appears that the named plaintiffs in this case do not fall 
+within the two subclasses we have discussed.’ However, the 
+record does disclose the existence of some unnamed members 
+of the conditional class who may fall within these groups.* 
+Class representatives must have a persona! stake in the out- 
+come of the case at the time the district court rules on class 
+certification in order to prevent mootness of the action. E.g., 
+Inmates of Lincoln Intake & Detention Facility v. Boosalis, 
+705 F.2d 1021, 1023 (8th Cir. 1983). In addition, plaintiffs 
+purporting to represent a class must satisfy the requirements 
+of Federal Rule of Civil Procedure 23. Because the named 
+plaintiffs in this case sought relief on their claim that welfare 
+benefits were vested as to all retirees, the district court con- 
+ditionally certified a broad class for purposes of preliminary 
+relief. In light of our ruling today, the class conditionally cer- 
+tified by the district court is too broad and cannot serve as the 
+class for purposes of final judgment. The district court must 
+now reevaluate the case under Rule 23 and redefine the class 
+in accordance with this opinion. This may require substitution 
+of suitable class representatives. Cf. Kremens v. Bartley, 43) 
+U.S. 119, 134-35 (1977) (remanding for reconsideration of 
+class definition and substitution of class representatives 
+where named plaintiffs’ claims have become moot). 
+
+
+7 Affidavits in the record indicate plaintiffs Howe, Thompson, 
+
+
+Chiles, and Mousel did not suffer disability or uncompensated injury 
+prior to March 4, 1988. The record before us is devoid of information 
+concerning the remaining named plaintiff, Robert Wells. 
+
+
+° Affidavits in the record indicate that Harold Lynam suffered a 
+disabling heart attack while working for M-F Inc. in April, 1986; that 
+Roy Mahon had his leg amputated and suffered aneurysms in January, 
+1988. 
+
+
+124a 
+CONCLUSION 
+
+
+We reverse the grant of the preliminary injunction as to the 
+general class of persons conditionally certified by the district 
+court. We affirm the district court’s issuance of the prelimi- 
+nary injunction as to plan beneficiaries who are members of 
+the class conditionally certified by the district court and who 
+became disabled or otherwise entitled to benefit payments 
+prior to the March 4, 1988. 
+
+
+A true copy. 
+
+
+™ attest: 
+CLERK, U.S. COURT OF APPEALS, EIGHTH CIRCUIT. 
+
+
+125a 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE EIGHTH CIRCUIT 
+
+
+No. 93-2056/2111SIDM 
+
+
+Charles Howe, et al, 
+Appellees, 
+
+
+—_Y,— 
+
+
+Varity Corporation, et al, 
+
+
+Order Denying Petition for Rehearing and 
+Suggestion for Rehearing En Banc 
+
+
+The suggestion for rehearing en banc is denied. Judge 
+Bowman and Judge Hansen would grant the petition. The 
+petition for rehearing by the panel is also denied. 
+
+
+December 5, 1994 
+
+
+Order Entered at the Direction of the Court: 
+
+
+/s/ MICHAEL E. GANS 
+Clerk, U.S. Court of Appeals, Eighth Circuit 
+
+

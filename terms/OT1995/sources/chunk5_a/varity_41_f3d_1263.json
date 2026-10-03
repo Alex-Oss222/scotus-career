@@ -1,0 +1,81 @@
+{
+  "id": 7412615,
+  "name": "Charles HOWE; Robert Wells; Ralph W. Thompson; Patrick Mousel, on Behalf of Themselves and as Representatives of a Class of Persons Similarly Situated; John Altomare; Charles Barron; Alexander Charron; Charlotte Chiles; Anita Crowe; Ray Darr; Doris Guidicessi; Barnett Lucas; Robert Skromme; and Estate of Walter Smith, individually, Appellees/Cross-Appellants, v. VARITY CORPORATION and Massey Ferguson, Inc., Appellants/Cross-Appellees",
+  "name_abbreviation": "Howe v. Varity Corp.",
+  "decision_date": "1994-12-08",
+  "docket_number": "Nos. 93-2056, 93-2111",
+  "first_page": "1263",
+  "last_page": "1263",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "41 F.3d 1263"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "8th Cir.",
+    "id": 8821,
+    "name": "United States Court of Appeals for the Eighth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "36 F.3d 746",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10526580
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/36/0746-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 239,
+    "char_count": 2606,
+    "ocr_confidence": 0.579,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.19032325822856855
+    },
+    "sha256": "8b21c9a2a13e4539e249a6c0c912c0e6dd47dfd744d563213f5e31467838233e",
+    "simhash": "1:ae34c1061b74b984",
+    "word_count": 415
+  },
+  "last_updated": "2024-02-27T20:11:30.153734+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARD S. ARNOLD, Chief Judge, HANSEN, Circuit Judge, and STOHR, District Judge."
+    ],
+    "parties": [
+      "Charles HOWE; Robert Wells; Ralph W. Thompson; Patrick Mousel, on Behalf of Themselves and as Representatives of a Class of Persons Similarly Situated; John Altomare; Charles Barron; Alexander Charron; Charlotte Chiles; Anita Crowe; Ray Darr; Doris Guidicessi; Barnett Lucas; Robert Skromme; and Estate of Walter Smith, individually, Appellees/Cross-Appellants, v. VARITY CORPORATION and Massey Ferguson, Inc., Appellants/Cross-Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM.\nWe have before us the motion of appellants for a clarification of our opinion filed September 29, 1994, 36 F.3d 746.\nThe motion is granted, and we offer the following additional explanation and guidance for the benefit of the District Court on remand.\nIt was not our intention to give any reinstated persons rights that do not appertain generally to members of the MF plan as it now exists. Any entitlement that the reinstated persons have with respect to past benefits (and we include in this phrase benefits accrued since the trial) will be taken into account when restitution is made on remand and the District Court adjusts the amount of restitution as appropriate in light of intervening events. As for the future, the right to modify the plan exists to the full extent indicated by our opinion, subject of course to any applicable requirements of law and to any claim that any future modification is retaliatory with respect to, or discriminatory against, the plaintiffs in this case.\nOn remand, the District Court should have these remarks in mind and is free to fashion, after hearing the views of the parties and any additional evidence that it may find relevant, a more detailed decree, not inconsistent with our previously filed opinion.\nIn addition, appellees have requested by letter certain technical amendments to the caption. Appellants do not object. The request for amendments to the caption is granted, and the caption on this opinion has been amended accordingly.\nIt is so ordered.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Floyd Abrams, New York City, argued (Thomas J. Kavaler and Howard G. Sloane, New York City, William J. Koehn and Deborah M. Tharnish, Des Moines, IA, Gerald P. Greiman and H. Todd Iveson, St. Louis, MO, on the brief), for appellant.",
+      "H. Richard Smith, Des Moines, IA, argued (Robert J. Scbmit and William A. Gengler, Minneapolis, MN, on the brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Charles HOWE; Robert Wells; Ralph W. Thompson; Patrick Mousel, on Behalf of Themselves and as Representatives of a Class of Persons Similarly Situated; John Altomare; Charles Barron; Alexander Charron; Charlotte Chiles; Anita Crowe; Ray Darr; Doris Guidicessi; Barnett Lucas; Robert Skromme; and Estate of Walter Smith, individually, Appellees/Cross-Appellants, v. VARITY CORPORATION and Massey Ferguson, Inc., Appellants/Cross-Appellees.\nNos. 93-2056, 93-2111.\nUnited States Court of Appeals, Eighth Circuit.\nDec. 8, 1994.\nFloyd Abrams, New York City, argued (Thomas J. Kavaler and Howard G. Sloane, New York City, William J. Koehn and Deborah M. Tharnish, Des Moines, IA, Gerald P. Greiman and H. Todd Iveson, St. Louis, MO, on the brief), for appellant.\nH. Richard Smith, Des Moines, IA, argued (Robert J. Scbmit and William A. Gengler, Minneapolis, MN, on the brief), for appellee.\nBefore RICHARD S. ARNOLD, Chief Judge, HANSEN, Circuit Judge, and STOHR, District Judge.\nThe Hon. Donald J. Stohr, United States District Judge for the Eastern District of Missouri, sitting by designation."
+  },
+  "file_name": "1263-01",
+  "first_page_order": 1347,
+  "last_page_order": 1347
+}

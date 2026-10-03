@@ -1,0 +1,902 @@
+(,) Supreme Court, U.S. 
+No. 94-1471 \%/ FILED 
+
+
+ar ae 
+APR 4 1995 
+
+
+In The 
+Supreme Court of the United! $fttes ‘* “| 
+
+
+October Term, 1994 
++ 
+
+
+VARITY CORPORATION, 
+
+
+Petitioner, 
+Vv. 
+
+
+CHARLES HOWE, ROBERT WELLS, RALPH W. 
+THOMPSON, PATRICK MOUSEL, on Behalf of 
+Themselves and as Representatives of a 
+Class of Persons Similarly Situated, 
+
+JOHN ALTOMARE, CHARLES BARRON, 
+ALEXANDER CHARRON, CHARLOTTE CHILES, 
+ANITA CROWE, RAY DARR, DORIS GUIDICESSI, 
+BARNETT LUCAS, ROBERT SKROMME, and the 
+Estate of WALTER SMITH, individually, 
+
+
+Respondents 
++ 
+
+
+On Petition For A Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Eighth Circuit 
++ 
+
+
+BRIEF IN OPPOSITION 
++ 
+
+
+Of Counsel H. RicHARD SM!TH* 
+AHLERS, COONEY, DORWEILER, 
+Haynig, SMITH & 
+
+
+Davip SWINTON 
+
+
+MIcHAEL J. EASON Assen. PC. 
+Rosert J. SCHMIT 100 Court Avenue, 
+WituramM A. GENGLER Suite 600 
+ScHATZ PAQUIN LOCKRIDGE Des Moines, Iowa 
+GRINDAL & HOLsTEIN 50309-2231 
+
+
+2200 Washington Square (515) 243-7611 
+
+ine mington Avenue Attorneys for Respondents 
+
+Minneapolis, Minnesota * Counsel of Record 
+55401 
+
+(612) 339-6900 
+
+
+April 4, 1995 
+
+
+2 
+
+
+COCKLE LAW BRIEF PRINTING CO., 225-6964 
+OR CALL COLLECT (402) \ 
+
+
+eee 
+
+
+BEST AVAILABLE COPY™ 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Does the Employee Retirement Income Security 
+Act (“ERISA”) § 502(a)(3), 29 U.S.C. § 1132(a)(3) (1988), 
+permit individual ERISA plan participants and benefici- 
+aries to recover on their own behalf for breaches of 
+fiduciary duty under ERISA? 
+
+
+2. Does ERISA § 404(a), 29 U.S.C. § 1104(a) (1988 
+and Supp. 1993), impose a duty upon plan fiduciaries not 
+to make affirmative misrepresentations to plan partici- 
+pants and beneficiaries? 
+
+
+ii 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTIONS PRESENTED .......ccccvcecccesusveses i 
+TABLE OF ALFTRRsmnGeD cccscccctesvesdcdeuneeene iii 
+STATEMENT GR THB CAB <i ck cdseknsccaesoussen 2 
+REASONS FOR DENYING THE WRIT............. 4 
+
+
+I. THE COURT OF APPEALS’ HOLDING THAT 
+RESPONDENTS CAN OBTAIN INDIVIDUAL 
+RECOVERY FOR BREACH OF FIDUCIARY 
+DUTY DOES NOT CONFLICT WITH THE 
+DECISIONS OF THIS COURT, AND IS THE 
+PROPER RULING ON THE MERITS OF THAT 
+ISSUES 2... occ ccccccsstaenseenn enna 4 
+
+
+II. THE DECISION BELOW, IN RECOGNIZING 
+A FIDUCIARY DUTY NOT TO MAKE MATE- 
+RIAL MISREPRESENTATIONS, DOES NOT 
+CONFLICT WITH THE DECISIONS OF 
+OTHER CIRCUITS OR OF THIS COURT.... 7 
+
+
+Ill. THE JUDGMENT IS SUPPORTED ON 
+GROUNDS INDEPENDENT OF THE ISSUES 
+RAISED BY THE PETITION................ 14 
+
+
+CONCLUSION ....ccccccdenscessuae senna 14 
+
+
+— a 3 ee es J. oe lume J 
+f* 
+
+
+iii 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Anweiler v. American Electric Power Service Corp., 3 
+EEN so Roc ccccccccccccccscccce 5, 11 
+Barnes v. Lacy, 927 F.2d 539 (11th Cir.), cert. denied, 
+ee a cas cnascccescccccces 9 
+Berlin v. Michigan Bell Telephone Co., 858 F.2d 1154 
+ees ccc occanccctescccccccs 9 
+Bixler v. Central Pennsylvania Teamsters Health & 
+Welfare Fund, 12 F.3d 1292 (3d Cir. 1993)......... 5,9 
+
+
+Blaw Knox Retirement Income Plan v. White Consoli- 
+dated Industries, Inc., 998 F.2d 1185 (3d Cir. 1993) ..... u 
+
+
+Borst v. Chevron Corp., 36 F.3d 1308 (5th Cir. 1994) .... 12 
+| v. Colonial Life Insurance Co., 919 F.2d 747 
+(D. 
+
+
+nc cscasscccccces 5,9 
+Fischer v. Philadelphia Electric Co., 994 F.2d 130 (3d 
+
+Cir.), cert. denied, 114 S. Ct. 622 (1993).......... 9, 10 
+Lea v. Republic Airlines, Inc., 903 F.2d 624 (9th Cir. 
+
+AR a a 11 
+
+
+Local Union 2134, United Mine Workers of America v. 
+Powhatan Fuel, Inc., 828 F.2d 710 (11th Cir. 1987) ..... 9 
+
+
+Massachusetts Mutual Life Insurance Co. v. Russell, 
+CSS tea deccccccccesccces .& 7 3 
+
+
+Mertens v. Hewitt Associates, 113 S. Ct. 2063 (1993) 
+DUURMEMOUEEMGNG SeMeds ches ccccccdccccccccsecs 4, 5, 13 
+
+
+Mullins v. Pfizer, Inc., 23 F.3d 663 (2d Cir. 1994)...... “ 
+
+
+Peoria Union Stock Yards Co. Retirement Plan v. Penn 
+Mutual Life Insurance Co., 698 F.2d 320 (7th Cir. = 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Simmons v. Southern Bell Telephone and Telegraph 
+Co., 940 F.2d 614 (11th Cir. 1991) .............00 08, 6 
+Tassinare v. American National Insurance Co., 32 F.3d 
+22D C6thn Cle. BODE...» osc0s cansccaccnasipsesactcsnes 5 
+Tregoning v. American Community Mutual Insurance 
+0., 12 F.3d 79 (6th Cir. 1993), cert. denied, 114 S. 
+Ce. 265R (IDBE) 2... ov ccvcrescconnccsccdabbbanseteiness 5 
+Vartanian v. Monsanto Co., 14 F.3d 697 (list Cir. 
+BODE). cov cccvnccccscddcctcccscabaseseuabesseeeests 9 
+Young v. Standard Oil (Indiana), 849 F.2d 1039 (7th 
+Cir.), cert. denied, 488 U.S. 981 (1988).............. 10 
+Warren v. Society National Bank, 905 F.2d 975 (6th 
+Cir. 1990), cert. denied, 500 U.S. 952 (1991) ......... 5 
+
+
+STATUTES 
+
+
+Employee Retirement Income Security Act of 1974, 
+as amended 
+
+
+YY Se ete 5, 6 
+§ adele) 29 USL. 6 1100 i. ck RE 12 
+§ 404(a)(1) (29 U.S.C. § 1104(a)(1)) ............. 11, 13 
+§ 409 CP RBC. 6190s. cinsekdteetas dees 4,5 
+§ 502(a)(1)(b) (29 U.S.C. § 1132(a)(1)(b))..........-. * 
+§ 502(a)(2) (29 U.S.C. § 1132(a)(2)) ......-.-. 0. sees 4 
+
+
+§ 502(a)(3) (29 U.S.C. § 1132(a)(3)) ........... .4, 5, 6 
+
+
+No. 94-1471 
+. 
+
+
+In The 
+
+
+Supreme Court of the United States 
+
+
+October Term, 1994 
++ 
+
+
+VARITY CORPORATION, 
+
+
+Petitioner, 
+Vv. 
+
+
+CHARLES HOWE, ROBERT WELLS, RALPH W. 
+THOMPSON, PATRICK MOUSEL, on Behalf of 
+Themselves and as Representatives of a 
+Class of Persons Similarly Situated, 
+
+JOHN ALTOMARE, CHARLES BARRON, 
+ALEXANDER CHARRON, CHARLOTTE CHILES, 
+ANITA CROWE, RAY DARR, DORIS GUIDICESSI, 
+BARNETT LUCAS, ROBERT SKROMME, and the 
+Estate of WALTER SMITH, individually, 
+
+
+Respondents. 
++ 
+On Petition For A Writ Of Certiorari 
+
+
+To The United States Court Of Appeals 
+For The Eighth Circuit 
+
+
+. 
+
+
+BRIEF IN OPPOSITION 
+° 
+
+
+To the Honorable Supreme Court: 
+
+
+The Respondents respectfully request that this Court 
+deny the Petition for a Writ of Certiorari submitted by 
+
+
+petitioner Varity Corporation. 
+
+
+° 
+
+
+STATEMENT OF THE CASE 
+
+
+This case arises from a fraudulent scheme ironically 
+named “Project Sunshine” which was designed, in part, 
+to rid petitioner of the obligation to pay benefits to 
+retirees and employees of Massey Ferguson, Inc. (“MF”). 
+(5a) As a part of the scheme, and in order to induce 
+respondents to cooperate, petitioner’ acting in its fiduci- 
+ary capacity made various material misrepresentations to 
+respondents? relating to their employee benefits. Respon- 
+dents relied upon petitioner's material misrepresenta- 
+tions and, as a result, lost their benefits. (4a-5a) 
+
+
+The purpose of this action was to seek restoration of 
+the benefits lost through Project Sunshine. The district 
+court ultimately entered judgment for respondents direct- 
+ing that benefits be restored on three independent 
+grounds of recovery under ERISA: breach of fiduciary 
+duty, interference with protected rights and estoppel. The 
+court of appeals affirmed, with some modification of the 
+
+
+' Defendants in the proceedings below were petitioner Var- 
+ity Corporation and its subsidiary, MF. The fraudulent scheme 
+known as Project Sunshine related to the creation by Varity and 
+MF of a new entity known as Massey Combines Corporation 
+(“MCC”). The district court found that “MCC was a sham from 
+the start” and that Varity and MF were the alter egos of MCC. 
+(80a-89a) The district court found, and the court of appeals 
+affirmed, that both defendants were liable for the material mis- 
+representations made to employees and retirees of MF. (4a-5a) 
+Because MF has evidently now been merged into Varity, refer- 
+ences to “petitioner” throughout this brief are intended to refer 
+to both of the defendants in the proceedings below. 
+
+
+? The misrepresentations were made to all but ten of the 
+respondents; those ten individuals recovered on a different the- 
+ory. See note 5, infra. 
+
+
+remedy. In so doing, the court addressed only the theory 
+of breach of fiduciary duty, and found it unnecessary to 
+discuss the alternative bases of relief. (17a-18a, n. 5) 
+
+
+Although this case was originally tried to a jury, the 
+district court entered its own findings of fact and conclusions 
+of law. The court of appeals characterized the findings and 
+conclusions as “painstaking and comprehensive.” (7a) Peti- 
+tioner does not contend that any of the district court's find- 
+ings of fact are clearly erroneous. Accordingly, as the court of 
+appeals noted (2a), it is appropriate to use those findings as a 
+predicate for these proceedings. 
+
+
+The findings are set forth at pages 50a-80a of the 
+appendix and need not be repeated in detail here. Con- 
+trary to the implication of petitioner’s statement of the 
+case, however, the district court found and the court of 
+appeals affirmed that petitioner - acting in its fiduciary 
+capacity — had not only failed to disclose to respondents 
+material facts relating to their employee benefits, but had 
+made affirmative misrepresentations upon which respon- 
+dents relied to their detriment. (4a-5a; 62a-65a) 
+
+
+The district court also found, and the court of 
+appeals affirmed (16a-17a), that petitioner’s conduct in 
+designing and implementing its fraudulent scheme: 
+
+
+was willful, wanton, malicious, and in bad faith 
+vis-a-vis all plaintiffs. 
+
+
+* > * 
+
+
+Project Sunshine was nothing more than a 
+brilliant manipulative effort to sever retiree wel- 
+Pe rer nr wee Decome 0 buster 
+
+
+= , . 
+
+
+4 
+
+
+employees who had given a lifetime of service 
+to a company . . . . ERISA was enacted to pre- 
+vent just such a maneuver as was undertaken in 
+Project Sunshine. 
+
+
++ 
+
+
+REASONS FOR DENYING THE WRIT 
+
+
+I. 
+
+
+THE COURT OF APPEALS’ HOLDING THAT 
+RESPONDENTS CAN OBTAIN INDIVIDUAL RECOV- 
+ERY FOR BREACH OF FIDUCIARY DUTY DOES NOT 
+CONFLICT WITH THE DECISIONS OF THIS COURT, 
+AND IS THE PROPER RULING ON THE MERITS OF 
+THAT ISSUE. 
+
+
+Petitioner's argument that the writ should be granted 
+in this case is heavily founded on its contention that the 
+decision below, holding that respondents can obtain indi- 
+vidual recovery under ERISA § 502(a)(3) (29 U.S.C. 
+§ 1132(a)(3)) for breach of fiduciary duty, conflicts with 
+the decisions of this Court in Massachusetts Mutual Life 
+Insurance Co. v. Russell, 473 U.S. 134 (1985), and Mertens v. 
+Hewitt Associates, 113 S. Ct. 2063 (1993). However, neither 
+Russell nor Mertens addressed the issue which was before 
+the court of appeals. 
+
+
+Russell held that recovery under ERISA §§ 409 and 
+502(a)(2) (29 U.S.C. §§ 1109 and 1132(a)(2)) may inure 
+only to the benefit of the plan itself and not to the benefit 
+of individual participants or beneficiaries. The plaintiffs 
+in Russell expressly disclaimed reliance on the statute 
+respondents relied on here - ERISA § 502(a)(3) - and the 
+Russell court did not address the question presented in 
+this case. 
+
+
+Mertens addressed only the question of the form of 
+relief available under § 502(a)(3) - a question petitioner 
+does not raise in its petition here - and, like Russell, did 
+not address the issue of individual recovery for breach of 
+fiduciary duty. In short, there simply is no merit to peti- 
+tioner’s argument that the decision below conflicts with 
+the holdings of Russell, Mertens or any other decision of 
+this Court. 
+
+
+Although there may not be complete uniformity 
+among the circuits, the Eighth Circuit's decision is in 
+accord with most of the circuits which have addressed the 
+issue presented in this case. Petitioner correctly identifies 
+the Third and Seventh Circuits as also having expressly 
+held that there is an individual right of recovery for 
+breach of fiduciary duty under § 502(a)(3). See Anweiler v. 
+American Electric Power Service Corp., 3 F.3d 986, 992-93 
+(7th Cir. 1993); Bixler v. Central Pennsylvania Teamsters 
+Health & Welfare Fund, 12 F.3d 1292, 1298-99 (3d Cir. 1993). 
+In addition, decisions from both the Sixth Circuit and the 
+D.C. Circuit have implicitly recognized an individual 
+right of recovery. See Warren v. Society National Bank, 905 
+F.2d 975 (6th Cir. 1990), cert. denied, 500 U.S. 952 (1991);3 
+Eddy v. Colonial Life Insurance Co., 919 F.2d 747 (D.C. Cir. 
+1990). 
+
+
+3 In Tregoning v. American Community Mutual Insurance Co., 
+12 F.3d 79 (6th Cir. 1993), cert. denied, 114 S. Ct. 1832 (1994), and 
+Tassinare v. American National Insurance Co., 32 F.3d 220 (6th Cir. 
+1994), the Sixth Circuit indicated that no individual right of 
+recovery for breach of fiduciary duty would be recognized. In 
+both cases, however, the court (like this Court in Russell) 
+addressed only a claim under ERISA § 409 (29 U.S.C. § 1109) and 
+not a claim under § 502(a)(3) and § 404. 
+
+
+Petitioner claims support for its position in the Elev- 
+enth Circuit’s opinion in Simmons v. Southern Bell Tele- 
+phone and Telegraph Co., 940 F.2d 614 (11th Cir. 1991). That 
+case, however, held only that no individual right of 
+recovery for breach of fiduciary duty exists under ERISA 
+§ 502(a)(1)(b) (29 U.S.C. § 1132(a)(1)(b)). The Simmons 
+court did not address the question of whether an individ- 
+ual may recover under § 502(a)(3) for a violation of 
+ERISA § 404 (29 U.S.C. § 1104). 
+
+
+Among the courts of appeals which have directly 
+addressed the question, only the Ninth Circuit has held 
+that no right of individual recovery exists under 
+§ 502(a)(3). 
+
+
+Contrary to petitioner’s argument, it was not neces- 
+sary for the courts which have recognized a right of 
+individual recovery under § 502(a)(3) to infer or read into 
+the statute any remedy not expressly stated. Those courts 
+have merely engaged in a straightforward and literal 
+reading of the law. ERISA § 502(a)(3) provides, in perti- 
+nent part, that an individual beneficiary may bring an 
+action thereunder “to enjoin any act or practice which 
+violates this subchapter . . . or to obtain other appropriate 
+equitable relief to redress such violations or to enforce 
+any provisions of this subchapter.” The provision of 
+ERISA which imposes specified duties upon plan fiduci- 
+aries (ERISA § 404) is a part of subchapter I of ERISA, to 
+which § 502(a)(3) refers. Respondents here sought only to 
+obtain appropriate relief for a violation of ERISA § 404. 
+As the court of appeals noted, “the plain language of the 
+statute certainly favors” the recognition of such a cause of 
+action for individual recovery. (14a-15a) 
+
+
+This Court has repeatedly noted that ERISA incorpo- 
+rates a carefully crafted scheme of remedies. See, e.g., 
+Russell, supra, 473 U.S. at 146-47. Just as a court should be 
+chary of reading into the statutory enforcement scheme 
+remedies not expressly provided for, id., so also should it 
+take care not to read out of the enforcement scheme a 
+cause of action which is evident from the plain language 
+of the statute. 
+
+
+The decision below reflected the proper respect for 
+the carefully crafted enforcement mechanisms of ERISA, 
+and represents the proper resolution of the issue at hand. 
+The issuance Of the writ to address this issue is therefore 
+unwarranted. 
+
+
+Il. 
+
+
+THE DECISION BELOW, IN RECOGNIZING A 
+FIDUCIARY DUTY NOT TO MAKE MATERIAL MIS- 
+REPRESENTATIONS, DOES NOT CONFLICT WITH 
+THE DECISIONS OF OTHER CIRCUITS OR OF THIS 
+COURT. 
+
+
+Petitioner’s second argument in favor of the writ is 
+that the decision below imposes “new” duties upon 
+ERISA fiduciaries,4 and in so doing conflicts with the 
+decisions of other courts of appeals and of this Court. 
+This contention is wrong on all counts. 
+
+
+* Petitioner has not challenged the finding that it was a 
+fiduciary to the MF plan (78a-79a) either in the proceedings 
+below or in its petition here. Petitioner’s challenge relates 
+instead only to the finding that it was acting in its fiduciary 
+capacity when it made the misrepresentations in question. 
+
+
+It must be noted at the outset that petitioner has 
+taken great care to characterize this case as one involving 
+only the failure to disclose material facts; however, as 
+noted above, this case involves not merely a failure to 
+disclose but the making of affirmative material misrepre- 
+sentations. The decisions of the various courts of appeals 
+now appear to be uniform even as to the existence of a 
+duty to disclose, but they are even more clearly in har- 
+mony as to the existence of a duty not to make affirma- 
+tive material misrepresentations.°® 
+
+
+> Petitioner’s argument implies that all respondents relied 
+on the same misrepresentation theory as the basis of their 
+recovery for breach of fiduciary duty. In fact, there is a group of 
+ten individual respondents which relied upon a different theory. 
+These ten had retired from MF before MCC was created. While 
+petitioner made various misleading communications to the 
+other respondents in order to induce their consent to the 
+transfer of their employment and benefit rights to MCC, no such 
+representations were made to the ten individual respondents. 
+Rather, petitioner unilaterally purported to assign to MCC its 
+obligation to pay benefits to the individual respondents. The 
+individual respondents were not aware of this purported 
+assignment until MCC went into receivership and they stopped 
+receiving benefits. (17a; 65a) The court of appeals affirmed the 
+breach of fiduciary duty recovery for the individual 
+respondents on the ground that an obligor “cannot free itself of 
+contractually created duties without the consent of the persons 
+to whom it is obligated.” (17a) The court found that petitioner’s 
+failure to inform the ten individual respondents of their 
+“transfer” to MCC or to obtain their consent constituted “a 
+complete disregard of the rights and interests” of the individual 
+respondents and “a clear breach of fiduciary duty in violation of 
+section 1104(a)(1).” Id. The question presented by petitioner 
+with respect to the misrepresentation theory of breach of 
+fiduciary duty thus has no bearing on the theory of breach of 
+fiduciary duty on which the ten individual respondents 
+recovered. 
+
+
+Aa te, cat oe selene. Wink See ee 
+
+
+Bon 
+2. 
+
+
+Petitioner correctly identifies the First, Second, Sixth 
+and D.C. Circuits — in addition to the Eighth Circuit — as 
+having held that it is a breach of fiduciary duty under 
+ERISA to mislead beneficiaries about their benefits or 
+impending actions which may affect their benefits. See 
+Berlin v. Michigan Bell Telephone Co., 858 F.2d 1154 (6th Cir. 
+1988); Eddy v. Colonial Life Insurance Co., 919 F.2d 747 
+(D.C. Cir. 1990); Vartanian v. Monsanto Co., 14 F.3d 697 (1st 
+Cir. 1994); Mullins v. Pfizer, Inc., 23 F.3d 663 (2d Cir. 1994). 
+In addition, the Eleventh Circuit has so held. See Local 
+Union 2134, United Mine Workers of America v. Powhatan 
+Fuel, Inc., 828 F.2d 710, 713 (11th Cir. 1987); cf. Barnes v. 
+Lacy, 927 F.2d 539, 544 (11th Cir.), cert. denied, 502 U.S. 938 
+(1991). 
+
+
+Petitioner’s contention that a contrary rule prevails 
+in the Third, Fifth, Seventh and Ninth Circuits is in error. 
+
+
+In Blaw Knox Retirement Income Plan v. White Consoli- 
+dated Industries, Inc., 998 F.2d 1185 (3d Cir. 1993), the 
+Court of Appeals for the Third Circuit held that the 
+defendant, which acted in the dual capacity of employer 
+and plan fiduciary, did not violate its fiduciary duties in 
+connection with the decision to sell unprofitable subsid- 
+iaries. However, Blaw Knox, unlike the present case and 
+the other authorities cited above, is not a “misleading 
+communication” case at all; the plaintiffs in Blaw Knox 
+sought to predicate liability on the underlying business 
+decision itself, not on misleading fiduciary communica- 
+tions regarding its effects on employee benefits. 
+
+
+Much more on point are the Third Circuit’s decisions 
+in Fischer v. Philadelphia Electric Co., 994 F.2d 130 (3d Cir.), 
+cert. denied, 114 S. Ct. 622 (1993), and Bixler v. Central 
+
+
+10 
+
+
+Pennsylvania Teamsters Health & Welfare Fund, 12 F.3d 1292 
+(3d Cir. 1993). In Fischer, the court expressly held that a 
+fiduciary has a duty not to make affirmative misrepresen- 
+tations. 994 F.2d at 134-35 (“Put simply, when a plan 
+administrator speaks, it must speak truthfully”). In Bixler, 
+the court went further and held that a fiduciary is “under 
+a duty to communicate to the beneficiary material facts 
+affecting the interests of the beneficiary,” which entails 
+“not only a negative duty not to misinform, but also an 
+affirmative duty to inform when the trustee knows that 
+silence might be harmful.” 12 F.3d at 1300. The prevailing 
+rule in the Third Circuit is, therefore, not in conflict but in 
+accord with the holding of the decision below with 
+regard to the existence of a fiduciary duty not to mislead. 
+
+
+Petitioner also contends that Young v. Standard Oil 
+(Indiana), 849 F.2d 1039 (7th Cir.), cert. denied, 488 U.S. 981 
+(1988), reflects a rule in the Seventh Circuit in conflict 
+with the decision below. The court in Young held that the 
+employer/fiduciary did not breach a fiduciary duty by 
+failing to reveal to its employees its intention to create a 
+special severance plan. 849 F.2d at 1045. However, Young 
+appears to be an isolated aberration relative to Seventh 
+Circuit authority handed down both before and after it 
+was decided. 
+
+
+In Peoria Union Stock Yards Co. Retirement Plan v. Penn 
+Mutual Life Insurance Co., 698 F.2d 320 (7th Cir. 1983), the 
+plaintiffs sought to recover for breach of fiduciary duty 
+by an insurance company which allegedly made material 
+misrepresentations and omissions regarding annuity con- 
+tracts it sold to, and administered for, an ERISA plan. The 
+court stated that “there is little doubt that if Penn Mutual 
+
+
+* - 
+ee ee 
+
+
+11 
+
+
+was a fiduciary, the alleged misrepresentations and omis- 
+sions were breaches of its fiduciary obligations. Lying is 
+inconsistent with the duty of loyalty owed by all fiduci- 
+aries and codified in section 404(a)(1) of ERISA, 29 U.S.C. 
+§ 1104(a)(1).” 698 F.2d at 326. 
+
+
+More recently, in Anweiler v. American Electric Power 
+Service Corp., 3 F.3d 986 (7th Cir. 1993), the court 
+expressly held that “fiduciaries breach their duties of 
+loyalty and care if they mislead plan participants or mis- 
+represent the terms or administration of a plan”; that 
+“fiduciaries must also communicate material facts affect- 
+ing the interests of beneficiaries”; and that “this duty 
+exists when a beneficiary asks for information, and even 
+when he or she does not.” 3 F.3d at 991. The Young 
+decision notwithstanding, the prevailing rule in the Sev- 
+enth Circuit is also in accord with the rule applied in the 
+decision below. 
+
+
+The other decisions which petitioner cites as conflict- 
+ing authority from two other circuits are plainly distin- 
+guishable. In Lea v. Republic Airlines, Inc., 903 F.2d 624 (9th 
+Cir. 1990), the plaintiffs alleged that their former 
+employer and their union breached fiduciary duties 
+under ERISA in connection with negotiations to terminate 
+an ERISA plan. it is not clear from the opinion whether 
+the plaintiffs’ breach of fiduciary duty claim was based 
+on misleading communications, as such. In any event, the 
+district court granted summary judgment on the fiduci- 
+ary duty claim based on a finding that neither the 
+employer nor the union were acting as fiduciaries during 
+the negotiations. The Court of Appeals for the Ninth 
+Circuit affirmed the grant of summary judgment on the 
+same basis without ever reaching the question of the 
+
+
+12 
+
+
+nature and extent of the duties of an ERISA fiduciary. 
+Thus, the Ninth Circuit has simply not spoken to the 
+issue at hand. 
+
+
+In Borst v. Chevron Corp., 36 F.3d 1308 (5th Cir. 1994), 
+employees of a merged corporation alleged, inter alia, that 
+the corporation breached its duty of loyalty under ERISA 
+§ 404(a) by making misrepresentations about how assets 
+of the pension plans of the merging corporations would 
+be handled if the two plans were combined. The district 
+court rejected the breach of fiduciary duty claim, holding 
+that it “did not arise out of an ERISA plan” because the 
+representations in question did not purport to constitute 
+part of the written plan itself or a plan amendment. 36 
+F.3d at 1323. The Court of Appeals for the Fifth Circuit 
+affirmed on that basis, again without directly addressing 
+the question of the nature and extent of an ERISA fiduci- 
+ary’s duties. In addition, the court noted that the district 
+court found - and the plaintiffs did not dispute — that the 
+plaintiffs had failed to establish detrimental reliance on 
+the alleged representations in any event. Thus, the Borst 
+decision also does not constitute authority in direct con- 
+flict with the decision below. 
+
+
+The decisions reviewed above demonstrate that, in 
+point of fact, the prevailing rule in each circuit which has 
+directly addressed the question is that the fiduciary 
+duties imposed by ERISA include a duty not to provide 
+misleading information to plan participants. Under all of 
+those authorities, when a fiduciary elects to communicate 
+information to beneficiaries - whether or not it is obli- 
+gated to communicate in the first instance - it must 
+communicate complete and accurate material informa- 
+tion. 
+
+
+ee eC 
+
+
+13 
+
+
+The source of this duty within ERISA is not some 
+“vague policy concern” as petitioner contends, but rather 
+the plain language of ERISA § 404(a)(1) (29 U.S.C. 
+§ 1104(a)(1)). The statute provides, in pertinent part, that 
+“a fiduciary shall discharge his duties with respect to a 
+plan solely in the interests of the participants and bene- 
+ficiaries” and shall do so “with the care, skill, prudence 
+and diligerrce under the circumstances then prevailing 
+that a prudent man acting in a like capacity and familiar 
+with such matters would use in the conduct of an enter- 
+prise of like character and with like aims.” These duties 
+of loyalty and prudence are perhaps the most fundamen- 
+tal obligatioris a fiduciary may possess in any context. 
+
+
+Petitioner’s suggestion that the recognition of an 
+ERISA fiduciary’s duty not to lie to plan participants is 
+inconsistent with the decisions of this Court is remark- 
+able for two reasons. First, Russell and Mertens — the two 
+decisions to which petitioner refers — again simply do not 
+address the question at hand. Second, if as petitioner 
+suggests Russell and Mertens generally stand for the prop- 
+osition that in addressing issues of fiduciary duty and 
+liability under ERISA, “courts are strictly limited to 
+enforcing what the text of ERISA says” (petition at p. 19), 
+respondents cannot imagine what would represent a 
+more straightforward and strict enforcement of the provi- 
+sion imposing the duties of loyalty and prudence than 
+one which holds that a fiduciary cannot lie to plan bene- 
+ficiaries. The district court found, the court of appeals 
+affirmed, and petitioner has not disputed on appeal, that 
+this is exactly what petitioner did in the present case. 
+Accordingly, this issue in no respect warrants the grant- 
+ing of the writ. 
+
+
+14 
+
+
+THE JUDGMENT IS SUPPORTED ON GROUNDS 
+INDEPENDENT OF THE ISSUES RAISED BY THE 
+PETITION. 
+
+
+The court of appeals found it unnecessary to address 
+the theories of interference with protected rights and 
+estoppel, which were independent grounds for the judg- 
+ment. (17a-18a, n. 5) The district court’s entry of judg- 
+ment on these theories was, however, proper under the 
+facts as found by the district court (which were not 
+challenged on appeal) and the applicable law. The factual 
+and legal bases for the entry of judgment on the theories 
+of interference with protected rights and estoppel are set 
+forth at pp. 38a-4la and 100a-112a of the appendix and 
+will not be restated here. 
+
+
+The issuance of the writ is unwarranted because, 
+even if any of petitioner’s arguments with respect to the 
+breach of fiduciary duty theory had merit, the judgment 
+would nevertheless be sustainable on the independent 
+theories of interference with protected rights and estop- 
+
+
+pel. 
+
+
+CONCLUSION 
+
+
+The decision below does not conflict with any deci- 
+sion of this Court. It does not present any genuine con- 
+flict among the circuits on any issue warranting review 
+by this Court, and it represents a proper resolution of the 
+issues presented with appropriate obedience to the lan- 
+guage and purpose of ERISA. For all of the foregoing 
+
+
+15 
+
+
+reasons, respondents pray that the petition for writ of 
+
+
+certiorari be denied. 
+
+
+Of Counsel 
+
+
+Davip SWINTON 
+MicnHaet J. EASON 
+
+
+Rosert J. SCHMIT 
+WiiuiaM A. GENGLER 
+ScHaTz Paquin LOCKRIDGE 
+GrinDAL & HOLsTEIN 
+2200 Washington Square 
+100 Washington Avenue 
+South :; 
+Minneapolis, Minnesota 
+55401 
+(612) 339-6900 
+
+
+Respectfully submitted, 
+
+
+H. RicHarp SmitH* 
+AHLERS, COONEY, DORWEILER, 
+Haynie, SMITH & 
+A.tsee, P.C. 
+100 Court Avenue, 
+Suite 600 
+Des Moines, 
+Iowa 50309-2231 
+(515) 243-7611 
+
+
+Attorneys for Respondents 
+
+
+* Counsel of Record 
+
+

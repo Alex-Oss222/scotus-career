@@ -1,0 +1,2112 @@
+No. 94-1471 
+
+
+ergs In The 
+_ Supreme Court of the United States 
+October Term, 1995 
+o 
+
+
+VARITY CORPORATION, 
+
+
+CHILES R CHARRON, CHARLOTYE 
+ra: og Sow ces LUCAS, ROBERT SKROMME, 
+ALTER SMITH, individually, 
+
+
+Respondents. 
+. 
+
+
+On Writ Of Certiorari To The United States 
+Court Of Appeals For The Eighth Circuit 
+> 
+
+
+BRIEF OF RESPONDENTS 
+¢ 
+
+
+= noel H. ae SmirH® 
+Davip Swinton Aunuers, Coonsy, Dor 
+
+AEL J. EASON 100 Court Avenue, Suite 600 
+Roserr J. Scumar Des Moines, Iowa 50309-2231 
+Visage 5 See ae (515) 243-7611 
+
+
+July 26, 1995 
+
+
+: - —— 
+
+
+"BEST AVAILABLE COPY ae 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Does the Employee Retirement Income Security 
+Act (“ERISA”) § 502(a)(3), 29 U.S.C. § 1132(a)(3) (1988), 
+permit individual ERISA plan participants and benefici- 
+aries to recover on their own behalf for breaches of 
+fiduciary duty under ERISA? 
+
+
+2. Does ERISA § 404(a)(1), 29 U.S.C. § 1104(a)(1) 
+(1988 & Supp. 1993), impose a duty upon plan fiduciaries 
+not to make affirmative misrepresentations to plan partic- 
+ipants and beneficiaries? 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTIONS PRESENTED ....ccscnccvsueveucseuesen i 
+TABLE OF AULTRROUIEEED <6 0 cccincs ccdeleussnseuee iii 
+STATEMENT OF Tite CAGE. wscccccntnccsiacbaunas 1 
+SUMMARY OF ARGUMENT...................005- 15 
+ARGUMENT... 00 cccsnvceccsbhemsaneeeenanenne 18 
+
+
+I. PARTICIPANTS AND BENEFICIARIES HAVE A 
+RIGHT OF INDIVIDUAL RECOVERY FOR 
+BREACH OF FIDUCIARY DUTY UNDER THE 
+PLAIN LANGUAGE OF § 502(a)(3)..........-- 18 
+
+
+Il. PETITIONER BREACHED ITS FIDUCIARY 
+DUTY NOT TO LIE TO PARTICIPANTS ABOUT 
+DEINEP EES. ccvcccccvescsctbasednr Caneeeeee 30 
+
+
+CONCLUSION 2. wo ccvcccceccnsdauees eaneen ae 44 
+
+
+ili 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Anweiler v. American Electric Power Service Corp., 3 
+I I Is ovo occas tccncbacsccescs 19, 39 
+Berlin v. Michigan Bell Telephone Co., 858 F.2d 1154 
+rer eE eee he kee eees bab svestcccccce 31 
+Bixler v. Central Pennsylvania Teamsters Health & 
+Welfare Fund, 12 F.3d 1292 (3d Cir. 1993)....... 32, 39 
+Central States, Southeast & Southwest Areas Pension 
+Fund v. Central Transport, Inc., 472 U.S. 559 
+MSS OEE CEES abd Cu dbs dele scees e'diseescccccs 22 
+Chauffeurs, Teamsters & Helpers Local No. 391 v. 
+EE EE CUED s oon ese cancccesecvcsesess 12 
+Connecticut National Bank v. Germain, 503 U.S. 249 
+ead eUUE bas pe deccenecccsccceseces 19 
+Curcio v. John Hancock Mutual Life Insurance Co., 33 
+CE MU ccecccesecsccavecceccccsess 32 
+Curtiss-Wright Corp. v. Schoonejongen, 115 S. Ct. 
+Cee E ae Nim neGedeterccocceceecce 25, 36 
+Eddy v. Colonial Life Insurance Co., 919 F.2d 747 
+TETRA k eC ceaschedescesctscecvcacs 39 
+FMC Corp. v. Holliday, 498 U.S. 52 (1990)............ 19 
+Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101 
+RA ce GRbw eke Wdd ws eters cecvicccccces passim 
+Fischer v. Philadelphia Electric Co., 994 F.2d 130 (3d 
+Cir.), cert. denied, 114 S. Ct. 622 (1993)......... 32, 39 
+Hozier v. Midwest Fasteners, Inc., 908 F.2d 1155 (3d 
+TENE ERES Was duc ou bide ccdasdpbvewsccecces 32 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES - Continued 
+Page 
+
+
+In Re: Unisys Corp. Retiree Medical Benefit “ERISA” 
+Litigation, No. 94-1875, 1995 WL 380983 (3d Cir. 
+fame 2B, 199)... ccvcacccccccssuncccens 12, 19, 32, 35 
+
+
+Massachusetts Mutual Life Insurance Co. v. Russell, 
+473 U.S. 134 (19BS) ... 2. cccccccccccees 19, 20, 21, 22 
+
+
+Mertens v. Hewitt Associates, 113 S. Ct. 2063 (1993) 
+dmv $60 400eb ctaneholéus bunt beans naeees 12, 20, 21, 23 
+
+
+Metropolitan Stevedore Co. v. Rambo, 115 S. Ct. 2144 
+CRG ono canceceenceskeshaxnecheneebsiesearusties 25 
+
+
+Mullins v. Pfizer, Inc., 23 F.3d 663 (2nd Cir. 1994) .... 39 
+Park ‘N Fly, Inc. v. Dollar Park ‘N Fly, Inc., 469 U.S. 
+
+
+SOD CRP v0 vc chvedecccdtvavensesev ens ¥unucs sdeers 19 
+Patterson v. Shumate, 504 U.S. 753 (1992) ............ 19 
+Peoria Union Stock Yards Co. v. Penn Mutual Life 
+
+Insurance Co., 698 F.2d 320 (7th Cir. 1983)...... 13, 39 
+Pilot Life Insurance Co. v. Dedeaux, 481 U.S. 41 
+
+CODED 0 os 6c 0 cbs calves cuNGRai od cahuarodvea di abs 21 
+Rubin v. United States, 449 U.S. 424 (1981)........... 19 
+Shaw v. Delta Airlines, 463 U.S. 85 (1983)......... 16, 22 
+Tull v. United States, 481 U.S. 412 (1987)............. 12 
+United States v. Mitchell, 463 U.S. 206 (1983)......... 23 
+United States v. Ron Pair Enterprises, 489 U.S. 235 
+
+CEPUSP o ocveneccpen genes coceaebenebastsionadocnt 27 
+STATUTES 
+
+
+Employee Retirement Income Security Act of 
+1974, as amended, 29 U.S.C. § 1001, et seq. (1988 
+GB DOP. TOG soc cuscvesvivbicdsnyeseWiedtecen passim 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+
+§ 2(b), 29 U.S.C. § 1001(b) (1988) ................... 22 
+§ X(1), 29 U.S.C. § 1002(1) (1988)..................00% 2 
+§ 3(21)(A), 29 U.S.C. § 1002(21)(A) (1988) ........ 11, 33 
+§§ 101-104, 29 U.S.C. §§ 1021-1024 (1988 & Supp. 
+
+PG AG tis 666 ce bednnhs Sounds bnbe cictgeddscinecses 34 
+§ 102(b), 29 U.S.C. § 1022(b) (1988) ................. 35 
+§ 402(a)(1), 29 U.S.C. § 1102(a)(1) (1988) ............ 33 
+§ 404(a)(1), 29 U.S.C. § 1104(a)(1) (1988 & Supp. 
+
+SONG ead cbawer the bitabe ob dpe (ce tes coedene passim 
+§ 409, 29 U.S.C. § 1109 (1988)............ 16, 23, 24, 25 
+§ 502(a)(1)(B), 29 U.S.C. § 1132(a)(1)(B) (1988)... 14, 27, 41 
+§ 502(a)(2), 29 U.S.C. § 1132(a)(2) (1988) ......... 16, 24 
+§ 502(a)(3), 29 U.S.C. § 1132(a)(3) (1988) ........ passim 
+REGULATIONS 
+29 CPR. & 2509.75-6 DS (ISGB)... ccc ccccccccces 33 
+RULES 
+Supreme Court Rule 24.1(a).................0000008- 12 
+
+
+LgcIsLATIVE HIsTorRY 
+Bills: 
+
+
+H.R. 2 (as introduced), 93d Cong., 1st Sess. 
+(1973), reprinted in Subcomm. on Labor of Sen- 
+ate Comm. on Labor and Public Welfare, 94th 
+Cong., 2d Sess., Legislative History of the 
+Employee Retirement Income Security Act of 1974 
+Gt SD CIGFE) C'Lae, FER." ) 2 occ ccccccccvcccvescccees 25 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+S. 4 (as introduced), 93d Cong., 1st Sess. (1973), 
+reprinted in Leg. Hist. at 93..........00eeeeeeeeees 25 
+S. 4 (as reported), 93d Cong., 1st Sess. (1973), 
+reprinted in Leg. Hist. at 389............0-eeeeeees 25 
+S. 1557, 93d Cong., 1st Sess. (1973), reprinted in 
+Leg. Hist. at 280 .......-cccccccsccccccesccncccees 25 
+
+Reports: 
+H.R. Rep. No. 93-533 (1973), reprinted in Leg. 
+Se, GE A io 6. 6co db ch dbo cobs bn chat dees 40 vss 26, 27 
+Joint Explanatory Statement of the Committee of 
+Conference, 120 Cong. Rec. 27,934 (1974), 
+reprinted in Leg. Hist. at 4519.............-+-0005. 26 
+Debate: 
+
+Statement of Rep. Drinan, 120 Cong. Rec. 4780 
+(1974), reprinted in Leg. Hist. at 3590.............. 40 
+Statement of Sen. Williams, 120 Cong. Rec. 
+29,933 (1974), reprinted in Leg. Hist. at 4745....... 26 
+Statement of Sen. Javits, 120 Cong. Rec. 29,935 
+(1974), reprinted in Leg. Hist. at 4751.............. 40 
+Statement of Sen. Javits, 120 Cong. Rec. 29,935 
+(1974), reprinted in Leg. Hist. at 4752.............. 26 
+
+
+Statement of Sen. Bentsen, 120 Cong. Rec. 29,951 
+(1974), reprinted in Leg. Hist. at 4795.............. 40 
+
+
+Vii 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+MISCELLANEOUS 
+G. Bogert and G. Bogert, Law of Trusts § 109 (1973) .... 22 
+Restatement (Second) of Torts § 529 (1977)............ 39 
+Restatement (Second) of Torts § 551 (1977)............ 39 
+Restatement (Second) of Trusts § 170 (1959)........... 22 
+Restatement (Second) of Trusts, § 170(2) (1959)..... 37, 39 
+Restatement (Second) of Trusts, § 173 (1959)........ 22, 39 
+Restatement (Second) of Trusts, § 174 (1959)........... 22 
+Restatement (Second) of Trusts § 182 (1959)........... 22 
+
+
+Restatement (Second) of Trusts § 197, et seq. (1959) .... 23 
+
+
+No. 94-1471 
+o 
+
+
+In The 
+
+
+Supreme Court of the United States 
+
+
+October Term, 1995 
+o 
+
+
+VARITY CORPORATION, 
+Petitioner, 
+
+
+CHARLES HOWE, ROBERT WELLS, RALPH W. 
+THOMPSON, PATRICK MOUSEL, on Behalf of 
+Themselves and as Representatives of a Class of Persons 
+Similarly Situated, JOHN ALTOMARE, CHARLES 
+BARRON, ALEXANDER CHARRON, CHARLOTTE 
+CHILES, ANITA CROWE, RAY DARR, DORIS 
+GUIDICESSI, BARNETT LUCAS, ROBERT SKROMME, 
+and the Estate of WALTER SMITH, individually, 
+
+
+Respondents. 
+7 
+
+
+On Writ Of Certiorari To The United States 
+Court Of Appeals For The Eighth Circuit 
+¢ 
+
+
+BRIEF OF RESPONDENTS 
+o 
+
+
+STATEMENT OF THE CASE 
+
+
+This case is about ERISA fiduciaries who carried out 
+a fraudulent scheme to rid themselves of welfare benefit 
+obligations to employees and retirees by transferring 
+those obligations to a sham corporation which was essen- 
+tially bankrupt from the outset. (See Appendix to Petition 
+for a Writ of Certiorari, hereinafter referred to as “PA”, 
+55a { 24.) In so doing, the fiduciaries breached their most 
+
+
+fundamental duty to their plan participants — the duty of 
+honesty. This case, in short, is about whether ERISA fiduci- 
+aries can lie to plan participants and get away with it. 
+
+
+Respondents are former employees of petitioner! 
+who participated in the Massey Ferguson, Inc. employee 
+benefit plan (the “MF plan”). The MF plan is an 
+“employee welfare benefit plan” within the meaning of 
+§ 3(1) of ERISA, 29 U.S.C. § 1002(1) (1988). It includes 
+benefits for life insurance, medical, vision, hearing, and 
+dental care. (PA 51a, { 2.) Respondents include a class of 
+83 plaintiffs who were active employees of petitioner and 
+who were fraudulently induced to consent to the transfer 
+— and resulting loss - of their employment and benefit 
+rights to the sham corporation, Massey Combines Corpo- 
+ration (“MCC”). Those respondents were identified in 
+this litigation as the “Retired Class” because they retired 
+from MCC before its demise. Respondents also include 10 
+individual plaintiffs who already had retired from 
+employment with petitioner at the time of the creation of 
+MCC. Petitioner unilaterally purported to transfer to 
+MCC its obligation to pay welfare benefits to the 10 
+individual respondents.? 
+
+
+' Massey Ferguson, Inc. and its parent corporation, Varity 
+Corp., were separately named as defendants in this action. 
+Because Massey Ferguson, Inc. has subsequently merged into 
+Varity Corp., the defendants will collectively be referred to 
+herein as “petitioner,” except where necessary to provide con- 
+text to the factual findings. In such instances, Varity Corp. will 
+be referred to as “Varity” and Massey Ferguson, Inc. will be 
+referred to as “MF.” 
+
+
+? This litigation also originally included claims by another 
+class of plaintiffs identified as the “Terminated Class,” who 
+
+
+Petitioner’s statement of the case focuses largely on 
+matters other than the central issue of its fraudulent 
+conduct, and at times also implies that at this stage of the 
+proceedings there is some dispute about the finding that 
+a fraud was committed. However, in the court of appeals 
+petitioner did not challenge any of the district court’s 
+findings of fact, which the court of appeals appropriately 
+characterized as “comprehensive and painstaking.” (PA 
+7a.) The facts as found by the district court (PA 50a-80a) 
+are, therefore, not in dispute. The findings of fact power- 
+fully document petitioner’s fraudulent scheme, and need 
+only be briefly highlighted here. 
+
+
+The fraudulent scheme, cynically dubbed “Project 
+Sunshine,” was developed by petitioner in 1985. It was 
+designed to improve petitioner’s financial health by spin- 
+ning off to the newly-formed MCC most of petitioner’s 
+Combines and Related Equipment (“CARE”) division, as 
+well as other unprofitable assets which were not part of 
+the CARE division, and by transferring to MCC a huge 
+amount of corporate debt. One of the primary objectives 
+of Project Sunshine was to rid petitioner of the obligation 
+to pay benefits to employees and retirees. (PA 54a, | 17: 
+65a, J 69.) 
+
+
+transferred from petitioner to MCC and were still employed by 
+MCC at the time of its demise. The claims of the Terminated 
+Class are not at issue in this certiorari proceeding. The claims of 
+a group of disabled plaintiffs were settled before trial and also 
+are not at issue here. < 
+
+
+MCC assumed $282.4 million (Canadian) of long- 
+term debt from petitioner. It did so for inadequate consid- 
+eration. (PA 57a, { 29.) Those segments of the CARE 
+division which were not profitable were transferred to 
+MCC; the lucrative ones were not. For example, peti- 
+tioner retained the very profitable parts business. (PA 
+58a, { 33.) Similarly, petitioner retained real estate valued 
+in the millions of dollars which had been part of the 
+CARE division. (PA 58a, { 34.) The only products to be 
+manufactured by MCC which could be sold for a profit 
+were balers, but a part of Project Sunshine required MCC 
+to sell the balers exclusively to petitioner which, in turn, 
+sold them for a profit. (PA 52a-53a, { 11.) On the other 
+hand, petitioner’s retail stores, which historically had not 
+been a part of the CARE division, but which were losing 
+approximately $6 million per year, were transferred to 
+MCC. (PA 57a, { 31.) 
+
+
+When it was formed on May 9, 1986, MCC had on its 
+books $54 million in losses (although it had never been in 
+operation) and only $15,000 in cash. Inventory, receiv- 
+ables and other assets transferred to MCC were over- 
+valued while liabilities and costs were understated. The 
+company had a negative net worth on the day it was 
+formed, with liabilities exceeding assets by at least $46 
+million. (PA 55a-56a, { 24.) 
+
+
+The essence of MCC’s business plan was the liquida- 
+tion of assets. (PA 56a, { 25.) The executive designated to 
+preside over MCC’s inevitable demise was Ivan Porter, 
+who had been employed by petitioner for many years, 
+including as President of the CARE division. Porter was 
+assigned to MCC as its President and CEO with the 
+understanding that he would return to petitioner after 
+
+
+two years. Unbeknownst to any other MCC employee, 
+Porter actually remained an employee of petitioner while 
+working with MCC. (PA 54a, { 20.) During the first 
+months of MCC’s existence, Porter and other MCC execu- 
+tives openly discussed among themselves the fact that 
+MCC could not survive; the expression they used was 
+“that dog won’t hunt.” (PA 56a, | 26.) 
+
+
+It was essential to the “success” of Project Sunshine 
+that the existing employees of the CARE division and of 
+the retail stores (including the members of the Retired 
+Class) be persuaded to accept the transfer of their 
+employment and benefit rights to MCC. The transfer 
+served two purposes: first, it helped achieve petitioner’s 
+objective of divesting itself of employee benefit obliga- 
+tions; second, it was necessary for MCC to have 
+employees in order to make it appear to be a viable entity 
+into which petitioner could unload its corporate debt. 
+
+
+The existing employees’ consent to the transfer was 
+solicited through a letter from Ivan Porter (see Joint 
+Appendix, hereinafter referred to as “JA”, 81-83) which 
+was sent to non-retail store employees and through an 
+identical letter under another executive’s signature sent 
+to retail store employees. (PA 62a, {{ 58-59.) These letters 
+were accompanied by an acceptance form (JA 83), a tran- 
+script of a videotaped message from Porter (JA 78-80), a 
+side-by-side comparison of MF and MCC employee bene- 
+fit plans (JA 67-73), and a question and answer sheet (JA 
+74-77). (PA 62a, { 60.) The acceptance form encouraged 
+employees to sign and return it promptly “to ensure 
+uninterrupted continuation of your pay and benefits.” 
+(JA 83.) 
+
+
+Petitioner also arranged meetings at various sites to 
+solicit employees’ acceptance of the transfer to MCC. The 
+only meeting site for the employees who are members of 
+the Retired Class was MF’s corporate headquarters in Des 
+Moines, Iowa. All available employees met in a large 
+meeting room where the Porter videotape was shown, 
+followed by distribution of the letter soliciting the 
+employees’ consent to the transfer. Petitioner directed 
+that the tone of the meeting be “as light, upbeat and 
+positive as possible.” Petitioner wanted to “encourage, all 
+salaried employees to sign the acceptance . . . and to leave 
+[the acceptance form at the meeting].” (PA 62a-63a, { 61.) 
+
+
+The information given to the employees portrayed a 
+positive economic outlook for MCC. For example, the 
+Porter letter stated: 
+
+
+When you accept employment with Massey 
+Combines Corporation . . . benefit programs will 
+remain unchanged. 
+
+
+* * + 
+
+
+We are all very optimistic that our new company 
+has a bright future .. . 
+
+
+(JA 82.) The Porter videotape transcript stated: 
+
+
+When you transfer your employment to Massey 
+Combines Corporation, . . . benefit programs 
+will remain unchanged. 
+
+
+* * * 
+
+
+. . . we are doing many other exciting things 
+designed to improve the profitability . . . of the 
+business. 
+
+
+* * * 
+
+
+This financial restructuring created Massey 
+Combines Corporation and will provide the 
+funds necessary to ensure its future viability. 
+
+
+* * * 
+
+
+Finally, despite the depression which persists in 
+the North American economy, I am excited 
+about the future of Massey Combines Corpora- 
+tion. Together we can exploit all available 
+opportunities in the combines business. I look 
+forward to working with you in the future to 
+ensure the success of Massey Combines Corpo- 
+ration. 
+
+
+(JA 80; PA 63a-64a, { 63.) 
+
+
+The question and answer sheet distributed with the 
+Porter letter contained eight questions and answers. Peti- 
+tioner developed these questions and answers in antici- 
+pation of the “many concerns” of the employees, but 
+petitioner purposely made the questions and answers 
+incomplete, confusing, evasive and deceptive. (PA 64a, 
+1 64.) Petitioner did not include in the question and 
+answer sheets certain questions it knew the employees 
+wanted answered. For example, the employees wanted to 
+know whether they were eligible for a termination pay 
+benefit from MF. The employees also wanted to know if 
+they could take early retirement from MF rather than 
+transfer to MCC. Petitioner purposely did not provide 
+answers to these and other questions because it wanted 
+the employees to transfer to MCC in order to avoid the 
+liabilities associated with severance pay and retirement 
+benefits. The district court found that petitioner’s failure 
+to make those disclosures, in conjunction with its other 
+
+
+affirmative misrepresentations, was to the detriment of 
+the Retired Class. (PA 64a-65a, { 66.) 
+
+
+Only limited information was provided with the Por- 
+ter letter concerning employee benefits. That information 
+included a side-by-side comparison showing that MF’s 
+and MCC’s benefits were identical. The question and 
+answer sheet stated that “benefit programs will remain 
+unchanged.” (JA 75.) Petitioner considered telling the 
+employees that “initially” benefits would remain the 
+same but that MCC would be reviewing the benefits and 
+would notify the employees of any changes. Petitioner 
+rejected this disclosure because it believed it would cause 
+the employees to reject the acceptance forms. Soon after 
+the employees transferred to MCC, petitioner began to 
+develop “creative and innovative ways” to reduce 
+employee benefits. (PA 64a, { 65.) 
+
+
+The district court also found that petitioner knew 
+that it should tell the employees that it claimed the right 
+to amend or terminate benefits even after retirement. 
+Petitioner’s internal communications showed that the 
+Canadian government and petitioner’s lenders insisted 
+that “in communicating with employees in the formation 
+of MCC, that we are very explicit about maintaining our 
+rights to modify benefits in the future, i.e., that there is 
+no promise that the present benefits will be guaranteed 
+forever. As a result, we are faced with the awkward 
+situation that the letter may not attract those employees 
+who we would like to join MCC.” Petitioner ultimately 
+decided to ignore the advice of the Canadian government 
+and its lenders and did not make the suggested dis- 
+closure to its employees. (PA 65a, { 67.) 
+
+
+The district court found that “communications to 
+employees of MF were laced with fraudulent misrepre- 
+sentations in order to get them to sign acceptances of 
+employment.” (PA 89a.) The court found that petitioner’s 
+representations “regarding the potential financial via- 
+bility of MCC, MCC’s business outlook, and the 
+employee benefits were materially misleading.” It found 
+that petitioner “knew the representations were materially 
+misleading when made” and that “plaintiffs relied on 
+these representations to their detriment.” (PA 65a, { 68.) 
+
+
+The members of the Retired Class, along with other 
+CARE division and retail store employees, did sign the 
+forms accepting the transfer of their employment and 
+benefit rights to MCC. 
+
+
+In addition to the transfer of existing employees and 
+their benefit rights, another essential feature of Project 
+Sunshine was the transfer to MCC of petitioner’s obliga- 
+tion to provide welfare benefits to approximately 4,000 of 
+petitioner’s former employees who were already retired 
+at the time of MCC’s formation (PA 57a, { 30.); these 
+included the 10 individual respondents in this action.* 
+
+
+None of the individual respondents authorized the 
+transfer of the obligation to pay their welfare benefits 
+from petitioner to MCC. Petitioner did not even attempt 
+to persuade the individual respondents to consent to the 
+transfer; rather, petitioner unilaterally assigned to MCC 
+
+
+3 Almost all of the 4,000 retirees were former Canadian 
+employees whose claims against petitioner after MCC’s demise 
+were settled in a separate action under Canadian law. 
+
+
+10 
+
+
+the obligation to pay benefits to the individual respon- 
+dents (along with other MF retirees). The individual 
+respondents were not even aware that this had occurred 
+until the receivership of MCC, whereupon they learned of 
+the transfer only because they stopped receiving benefits. 
+(PA 5la-52a, { 7; PA 65a, { 70.) 
+
+
+Based on the unchallenged testimony of another 
+industry executive, the district court found that Varity’s 
+Chairman and CEO, Victor Rice, bragged to his peers that 
+he had “unloaded his losers all in one wagon” through 
+Project Sunshine. The executive testified that Rice said he 
+was “putting his big product losers, combines and four- 
+wheel drives in [MCC]. He told us he was putting his big 
+losers, company stores in [MCC] and told us he was 
+shifting several thousand retirees and their pension obli- 
+gations into [MCC] and was delighted to be out from 
+under all those obligations.” The executive also quoted 
+Rice as stating that “he got the lenders to agree to shove 
+about $200 million worth of debt over into [MCC] off of 
+[Varity].” (PA 56a-57a, { 28.) 
+
+
+As anticipated, MCC’s business failed. It lost $88 
+million in its first year, and its losses continued to mount 
+until it went into receivership (bankruptcy) in Canada on 
+March 4, 1988. Like the MF plan (which MCC had simply 
+adopted as its own), the MCC plan was self-funded (PA 
+Sla, { 3); as a result of the receivership, respondents 
+stopped receiving their welfare benefits. 
+
+
+The district court found that petitioner’s fraudulent 
+conduct in connection with the transfer of respondents’ 
+benefit rights was “willful, wanton, malicious and in bad 
+faith vis-a-vis all plaintiffs.” (PA 78a, | 110.) 
+
+
+11 
+
+
+The district court found that both MF and Varity 
+were fiduciaries to the MF plan. MF’s board of directors 
+was the “named fiduciary” of the plan within the mean- 
+ing of § 3(21)(A) of ERISA, 29 U.S.C. § 1002(21)(A) (1988), 
+and MF itself was the plan administrator. (PA 78a, { 111.) 
+The district court found that Varity was a fiduciary with 
+respect to the MF plan because Varity at all times con- 
+trolled MF. (PA 79a, | 112.) The court also found that 
+Varity and MF were both fiduciaries to the MCC plan to 
+the extent it had any existence apart from the MF plan. 
+(PA 79a, ¥ 113.) 
+
+
+Based on evidence detailed in the findings and con- 
+clusions (see PA 80a-89a), the district court also con- 
+cluded that petitioner was the alter ego of MCC - that 
+MCC was never an independent legal entity separate and 
+apart from petitioner, which designed, created and con- 
+trolled every aspect of MCC throughout its existence. (PA 
+62a, { 57.) The court found, in short, that “MCC was a 
+sham from the start.” (PA 89a.) 
+
+
+The district court found, and the court of appeals 
+affirmed, that petitioner breached its ERISA fiduciary 
+duties to the Retired Class through fraudulent misrepre- 
+sentations made to induce them to accept the transfer of 
+their benefit rights to MCC.* In addition, petitioner 
+breached its fiduciary duty to the individual respondents 
+by purporting unilaterally to transfer their benefit rights 
+
+
+* While the district court found and the court of appeals 
+affirmed that petitioner was guilty of fraudulent misrepresenta- 
+tions, both courts concluded that respondents’ separate cause of 
+action for fraud, as such, was preempted by ERISA. (PA 11a.) 
+
+
+12 
+
+
+from the MF plan to the MCC plan without their knowl- 
+edge or consent, and without any authority to do so in 
+the plan documents. The remedy for these breaches, as 
+modified by the court of appeals, was an injunction 
+requiring petitioner to reinstate respondents to the MF 
+plan, together with an award of restitution for benefits 
+which should have been paid from the time of the fraud- 
+ulent transfer through the date of reinstatement.° 
+
+
+In upholding respondents’ recovery for breach of 
+fiduciary duty, the court of appeals gave effect to the 
+plain language of § 502(a)(3) of ERISA, 29 U.S.C. 
+§ 1132(a)(3) (1988), authorizing actions by participants or 
+beneficiaries to redress violations of Subchapter I of 
+ERISA, which includes the provision defining the duties 
+
+
+5 The form of equitable relief granted for petitioner’s 
+breach of fiduciary duty is not among the questions presented in 
+this certiorari proceeding. The Chamber of Commerce as amicus 
+attempts to raise the issue of whether the award of restitution 
+for past benefits constitutes “appropriate equitable relief” 
+under § 502(a)(3) of ERISA, 29 U.S.C. § 1132(a)(3) (1988). In 
+accordance with Supreme Court Rule 24.1(a), that issue is not 
+properly before the Court and is therefore not addressed in 
+respondents’ argument. However, as the court of appeals noted, 
+this Court in Mertens v. Hewitt Associates, 113 S. Ct. 2063 (1993), 
+twice listed restitution as a type of equitable relief available 
+under § 502(a)(3). (PA 19a; see 113 S. Ct. at 2068, 2072.) The Court 
+has also stated that a monetary award can properly be charac- 
+terized as “equitable” relief when (as in this case) it is “inciden- 
+tal to or intertwined with injunctive relief.” Chauffeurs, Teamsters 
+& Helpers Local No. 391 v. Terry, 494 U.S. 558, 571 (1990) (quoting 
+Tull v. United States, 481 U.S. 412, 424 (1987)). See also, In Re: 
+Unisys Corp. Retiree Medical Benefit “ERISA” Litigation, No. 
+94-1875, 1995 WL 380983, at *9 (3d Cir. June 28, 1995) (relief 
+including “restitutionary reimbursement for back benefits” was 
+equitable in nature and therefore appropriate under § 502(a)(3)). 
+
+
+13 
+
+
+of an ERISA fiduciary. Contrary to petitioner’s assertion, 
+the court of appeals was not “silent” as to why peti- 
+tioner’s conduct in connection with Project Sunshine rep- 
+resented more than a mere business decision and was 
+actionable as a breach of fiduciary duty. The court of 
+appeals explained that, in the case of the Retired Class, 
+petitioner’s conduct was actionable because it involved 
+intentionally misleading communications to plan partici- 
+pants regarding plan administration. (PA 12a-13a.) The 
+court of appeals held that “lying is inconsistent with the 
+duty of loyalty owed by all fiduciaries and codified in 
+§ 404(a)(1) of ERISA, 29 U.S.C. § 1104(a)(1).” (PA 12a, 
+quoting Peoria Union Stock Yards Co. v. Penn Mutual Life 
+Insurance Co., 698 F.2d 320, 326 (7th Cir. 1983).) 
+
+
+With respect to the individual respondents, the court 
+of appeals explained that petitioner’s conduct in purport- 
+ing unilaterally to transfer their benefit rights to MCC 
+without their knowledge or consent represented a “com- 
+plete disregard of the rights and interests of benefici- 
+aries” and a “clear breach of fiduciary duty in violation of 
+§ [404(a)(1)].” (PA 17a.) Notably, petitioner does not 
+appear to dispute the court of appeals’ conclusion that its 
+conduct as to the individual respondents constituted a 
+breach of fiduciary duty. 
+
+
+Much of petitioner’s statement of the case is devoted 
+to a discussion of the record and procedural history relat- 
+ing to a claim which is not at issue in this certiorari 
+proceeding.® In addition to their claim for breach of 
+
+
+6 It is also noteworthy that much of petitioner’s statement 
+of the case often is supported not by references to the findings of 
+
+
+14 
+
+
+fiduciary duty under § 502(a)(3), respondents also con- 
+tended below that they were entitled to vested lifetime 
+benefits under the MF plan pursuant to § 502(a)(1)(B) of 
+ERISA, 29 U.S.C. § 1132(a)(1)(B) (1988). The claim for 
+lifetime benefits was based on the fact that the summary 
+plan description (“SPD”) entitled “You and Massey Fer- 
+guson” did not disclose that petitioner reserved the right 
+to amend or terminate the plan, while other representa- 
+tions made to respondents both in the SPD and elsewhere 
+led respondents to believe that their benefits vested upon 
+retirement and could not thereafter be reduced or termi- 
+nated. 
+
+
+The district court rejected the claim for lifetime bene- 
+fits under § 502(a)(1)(B) based on the finding that peti- 
+tioner’s reservation of the right to amend or terminate as 
+set forth in the plan was enforceable. The court of appeals - 
+affirmed, holding that the language of the reservation of 
+rights provision unambiguously conferred upon peti- 
+tioner the right to amend or terminate the plan, and 
+therefore was fatal to respondents’ claim that “once they 
+had retired from MF, their right to welfare benefits 
+became vested for life.” (PA 9a.) Thus, the only issue 
+addressed in the context of the § 502(a)(1)(B) claim was 
+
+
+fact but by citations to evidentiary material. One of the more 
+significant examples of this is petitioner’s citation to testimony 
+suggesting that the only alternative to Project Sunshine was to 
+close the CARE division and terminate plaintiffs’ employment. 
+(See petitioner’s brief at 6, n. 7.) However, the district court 
+made no finding of fact to that effect. Petitioner itself repre- 
+sented to employees only that it was “uncertain” whether MF 
+could offer employment prospects comparable to those avail- 
+able at MCC. (JA 75.) 
+
+
+15 
+
+
+whether respondents were entitled to lifetime benefits. 
+That claim was rejected, but respondents nevertheless 
+established through their claim for breach of fiduciary 
+duty their entitlement to reinstatement to the MF plan as 
+it now exists, with such rights as appertain generally to 
+members of the plan. (PA 23a.) 
+
+
+Petitioner’s focus upon the dispute over the enfor- 
+ceability of its reservation of the right to amend or termi- 
+nate the plan is thus misplaced. It is undisputed that the 
+MF plan to which respondents are to be reinstated still 
+exists and has never been terminated (PA 5la, { 2), and 
+petitioner’s right to modify the plan still exists. (PA 23a.) 
+
+
+S 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The existence of a right of individual recovery for 
+breach of fiduciary duty is apparent from the plain lan- 
+guage of § 502(a)(3), which authorizes participants or 
+beneficiaries to bring actions to “redress . . . violations” 
+or “to enforce any provisions” (emphasis added) of sub- 
+chapter I of ERISA. Subchapter I includes § 404(a)(1) of 
+ERISA, 29 U.S.C. § 1104(a)(1) (1988 & Supp. 1993), the 
+provision which sets forth the duties of an ERISA fiduci- 
+ary. If Congress had not intended § 404(a)(1) to be action- 
+able through § 502(a)(3), then in the exercise of the 
+deliberate care with which it drafted ERISA’s remedial 
+provisions, it would have excepted § 404(a)(1) from the 
+language of § 502(a)(3). 
+
+
+This construction of § 502(a)(3) in accordance with its 
+plain meaning is supported by the fundamental purpose 
+of ERISA and by the common law of trusts, to which 
+
+
+16 
+
+
+ERISA traces its roots. The purpose of ERISA is to “pro- 
+mote the interests of participants and their beneficiaries 
+in employee benefit plans.” Firestone Tire & Rubber Co. v. 
+Bruch, 489 U.S. 101, 113 (1989) (quoting Shaw v. Delta 
+Airlines, 463 U.S. 85, 90 (1983)). Under the common law of 
+trusts, the duties of a trustee run directly to trust benefici- 
+aries, and the right of individual recovery for breach of 
+trust is recognized. 
+
+
+The legislative history of ERISA does not support 
+petitioner's argument that § 409 of ERISA, 29 U.S.C. 
+§ 1109 (1988), as made actionable through § 502(a)(2) of 
+ERISA,. 29 U.S.C. § 1132(a)(2) (1988), was intended to 
+represent the exclusive source of a remedy for breach of a 
+fiduciary duty. Petitioner and its amici argue, in effect, 
+that although fiduciaries have a duty to act “solely in the 
+interest of participants and beneficiaries,” a breach of that 
+duty which injures only individual beneficiaries, as 
+opposed to the plan itself, should not be remediable. That 
+Congress did not intend such a result is evident from the 
+plain language of § 502(a)(3). 
+
+
+Petitioner breached its fiduciary duty to the Retired 
+Class by making intentional, affirmative misrepresenta- 
+tions about the status and security of their benefits in 
+connection with the solicitation of their consent to the 
+transfer to MCC. Petitioner was not merely silent, but 
+exercised its discretion to communicate with the Retired 
+Class about these matters. Accordingly, this is not a case 
+about whether there is a duty to disclose but rather about 
+whether there is a duty not to lie. There can be no 
+legitimate dispute that the duties of loyalty and prudence 
+imposed upon ERISA fiduciaries encompass a duty not to 
+lie to participants about the status of their benefits, which 
+
+
+17 
+
+
+in turn includes a duty not to make affirmative represen- 
+tations which are misleading because they are incom- 
+plete. 
+
+
+In making these misrepresentations, petitioner was 
+acting in its fiduciary capacity as plan administrator 
+because the misrepresentations related to benefits. The 
+structure of ERISA and the nature of the position of plan 
+administrator reflect that the act of communicating with 
+participants about benefits is an inherently fiduciary 
+function. The communications mandated by ERISA‘s 
+reporting and disclosure scheme are not the only fiduci- 
+ary communications contemplated by Congress. The SPD, 
+“You and Massey Ferguson,” also demonstrates that peti- 
+tioner itself contemplated and invited additional, discre- 
+tionary communications between participants and 
+petitioner in its fiduciary capacity as plan administrator. 
+
+
+Petitioner’s argument based on its disclosure of a 
+right to amend or terminate the MF plan is inapposite 
+because petitioner did not exercise any such right in 
+connection with Project Sunshine. The MF plan still exists 
+and has never been amended so as to eliminate benefits. 
+Moreover, the court of appeals’ decision does not under- 
+mine the distinction between pension plans and welfare 
+plans with regard to vesting. Respondents have not been 
+reinstated to vested benefits. 
+
+
+Finally, petitioner’s argument that its misrepresenta- 
+tions to the Retired Class did not constitute a breach of 
+fiduciary duty does not appear to challenge the court of 
+appeals’ ruling that petitioner breached its fiduciary duty 
+to the individual respondents by purporting unilaterally 
+to transfer to MCC petitioner’s obligation to pay benefits 
+
+
+.—. 
+
+
+18 
+
+
+to the individual respondents. This act represented a 
+breach of fiduciary duty because, among other reasons, 
+the terms of the plan made no provision for such a 
+transfer. Petitioner thus breached its fiduciary duty to 
+administer the plan in accordance with the governing 
+instruments. 
+
+
+ARGUMENT 
+
+
+I. PARTICIPANTS AND BENEFICIARIES HAVE A 
+RIGHT OF INDIVIDUAL RECOVERY FOR 
+BREACH OF FIDUCIARY DUTY UNDER THE 
+PLAIN LANGUAGE OF § 502(a)(3). 
+
+
+Section 502(a)(3) of ERISA provides in pertinent part 
+as follows: 
+
+
+[A] civil action may be brought . . . by a partici- 
+pant [or] beneficiary . . . to enjoin any act or 
+practice which violates any provision of this 
+subchapter ... or . . . to obtain other appropriate 
+
+
+equitable relief . . . to redress such violations 
+or... to enforce any provisions of this subchap- 
+ef. ... 
+
+
+Section 404(a)(1) of ERISA, which sets forth the duties of 
+a fiduciary, is a part of subchapter I of ERISA to which 
+§ 502(a)(3) refers. Thus, under the plain meaning of 
+§ 502(a)(3), a participant or beneficiary has a right of 
+action to redress a fiduciary’s violation of § 404(a)(1). 
+Nothing in § 502(a)(3) prohibits such a participant or 
+beneficiary from obtaining relief in his or her individual 
+capacity. 
+
+
+19 
+
+
+Neither petitioner nor its amici appear to seriously 
+dispute that the plain language of § 502(a)(3) supports 
+respondents’ right of individual recovery for breach of 
+fiduciary duty. Giving effect to the plain meaning of a 
+statute is, of course, the first principle of statutory con- 
+
+| struction. A court must “begin with the language 
+j employed by Congress and the assumption that the ordi- 
+‘mary meaning of that language accurately expresses the 
+legislative purpose.” FMC Corp. v. Holliday, 498 U.S. 52, 
+57 (1990) (quoting Park ‘N Fly, Inc. v. Dollar Park ‘N Fly, 
+Inc., 469 U.S. 189, 194 (1985)). A court should always turn 
+to this “cardinal canon” of statutory construction before 
+all others; “[w]hen the words of a statute are unam- 
+biguous, then, this first canon is also the last: ‘judicial 
+inquiry is complete.’ ” Connecticut National Bank v. Ger- 
+main, 503 U.S. 249, 253-54 (1992), (quoting Rubin v. United 
+States, 449 U.S. 424, 430 (1981)). Thus, a party seeking to 
+defeat the plain meaning of a statute bears an “excep- 
+tionally heavy burden.” Patterson v. Shumate, 504 U.S. 753, 
+760 (1992). 
+
+
+The court of appeals’ construction of § 502(a)(3) was 
+guided by this fundamental principle (“the plain lan- 
+guage of the statute certainly favors [respondents’] posi- 
+tion” — PA 14a-15a). Accord, In Re: Unisys Corp. Retiree 
+Medical Benefit “ERISA” Litigation, No. 94-1875, 1995 WL 
+380983, at *8-*9 (3d Cir. June 28, 1995); Anweiler v. Ameri- 
+l can Electric Power Service Corp., 3 F.3d 986, 992-93(7th Cir. 
+
+1993). 
+
+
+No majority of this Court has yet had occasion to 
+consider the question at hand. In Massachusetts Mutual 
+Life Insurance Co. v. Russell, 473 U.S. 134 (1985), upon 
+which many of the arguments of petitioner and its amici 
+
+
+20 
+
+
+are founded, the plaintiff expressly disclaimed reliance 
+on § 502(a)(3); accordingly, the majority had “no occasion 
+to consider” whether that section authorized individual 
+relief for breach of fiduciary duty. Russell, 473 U.S. at 139 
+n. 5. However, three justices joined with Justice Brennan 
+in a concurring opinion indicating that § 502(a)(3) should 
+be construed as authorizing actions by individual partici- 
+pants and beneficiaries for breach of fiduciary duty under 
+§ 404(a). The concurrence stated that: 
+
+
+Section 502(a)(3) authorizes the award of 
+“appropriate equitable relief” directly to a par- 
+ticipant or beneficiary to “redress” any act or 
+practice which violates any provision of this title 
+or the terms of the plan. This section and section 
+404(a)’s fiduciary-duty standard both appear in 
+Title I, which is entitled “PROTECTION OF 
+EMPLOYEE BENEFIT RIGHTS.” A beneficiary 
+therefore may obtain “appropriate equitable 
+relief’ whenever an administrator breaches the 
+fiduciary duty set forth in section 404(a). 
+
+
+473 U.S. at 153-54 (emphasis in original).’ 
+
+
+7 More recently, in Mertens v. Hewitt Associates, 113 S. Ct. 
+2063 (1993), four justices joined in a dissenting opinion which 
+also dealt with the question of whether a breach of fiduciary 
+duty would be actionable under § 502(a)(3), although it had not 
+been addressed by the parties and therefore was not the subject 
+of the majority’s holding. At footnote 1, the Mertens dissent 
+wrote in pertinent part as follows: 
+
+Section 502(a)(3) gives a cause of action to any partici- 
+pant, beneficiary or fiduciary of an ERISA-governed plan 
+“to redress . . . violations” of the statute. There can be no 
+dispute that when an ERISA fiduciary breaches his or her 
+duty of care in managing the plan, there has been a 
+violation of the statute. See 29 U.S.C. § 1104. The only 
+
+
+21 
+
+
+The fact that Congress chose to make the violation of 
+
+any provision of subchapter I (which includes § 404(a)(1)) 
+
+actionable through § 502(a)(3) strikes at the heart of one 
+
+of the principal statutory construction arguments of peti- 
+
+tioner and its amici. They note, as has the Court, that 
+
+ERISA’s remedial scheme was crafted with “deliberate 
+
+care.” See Pilot Life Insurance Co. v. Dedeaux, 481 U.S. 41, 
+
+54 (1987); Russell, supra, 473 U.S. at 174. That premise, 
+
+however, can only lead to a conclusion directly opposite 
+
+; to that for which petitioner and its amici advance it. If in 
+
+the exercise of such deliberate care Congress had 
+
+intended that § 502(a)(3) should not be accorded its plain 
+
+meaning — which would allow individual beneficiaries to 
+
+obtain redress for breach of fiduciary duty - it could 
+
+easily have excepted § 404(a)(1) from “the provisions of 
+
+this subchapter,” violations of any of which were made 
+
+actionable by the language Congress did select. The fact 
+
+that Congress exercised deliberate care in drafting the 
+
+statute, and in so doing elected not to make such an 
+
+exception, compels that it be construed in accordance 
+with its plain meaning. 
+
+
+2 et een Be ee OE te 
+
+
+This plain language interpretation of § 502(a)(3) is 
+further supported by the fundamental purpose of ERISA 
+and the common law of trusts, to which ERISA traces its 
+roots. The Court has noted that “ERISA was enacted ‘to 
+promote the interests of employees and their beneficiaries 
+in employee benefit plans.’ ” Firestone Tire & Rubber Co. v. 
+
+
+question then is whether the remedies provided by 
+§ 502(a)(3) “to redress such [a] violatio[n]” must stop 
+with the breaching fiduciary . . . 
+
+Mertens, 113 S. Ct. at 2073 n. 1 (Stevens, J., dissenting). 
+
+
+22 
+
+
+Bruch, 489 U.S. 101, 113 (1989) (quoting Shaw v. Delta 
+Airlines, 463 U.S. 85, 90 (1983)). See § 2(b) of ERISA, 29 
+U.S.C. § 1001(b) (1988) (“It is hereby declared to be the 
+policy of this chapter to protect . . . the interests of 
+participants in employee benefit plans and their bene- 
+ficiaries . . . by establishing standards of conduct, respon- 
+sibility, and obligations for fiduciaries of employee 
+benefit plans, and by providing for appropriate remedies, 
+sanctions, and ready access to the Federal courts”). 
+
+
+The Court also has repeatedly observed that ERISA - 
+and its fiduciary responsibility provisions in particular - 
+are rooted in the common law of trusts. Firestone, supra, 
+489 U.S. at 110-11; Central States, Southeast & Southwest 
+Areas Pension Fund v. Central Transport, Inc., 472 U.S. 559, 
+570-72 (1985). The Court is therefore guided by principles 
+of trust law in construing the statute. Id. As Justice Bren- 
+nan noted in his concurrence in Russell, “it is black letter 
+trust law that fiduciaries owe strict duties running 
+directly to beneficiaries” in the administration of trusts. 
+Russell, supra, 473 U.S. at 152-53 (citing Restatement (Sec- 
+ond) of Trusts § 182 (1959) and G. Bogert and G. Bogert, 
+Law of Trusts § 109 (1973)).8 See also, Restatement ( Second) 
+of Trusts §§ 170 (“duty of loyalty”), 173 (“duty to furnish 
+information”), and 174 (“duty to exercise reasonable care 
+and skill”), all defining the duties of a trustee as being 
+owed “to the beneficiary.” 
+
+
+8 The incorporation of this common law principle into 
+ERISA is reflected not only in § 502(a)(3) but also in § 404(a)(1), 
+which requires every fiduciary to discharge its duties “solely in 
+the interest of participants and beneficiaries.” See also, Central 
+States, supra, 472 U.S. at 576 (“A trustee’s duty extends to all 
+participants and beneficiaries of a. . . plan”). 
+
+
+23 
+
+
+The right of beneficiaries to obtain individual recov- 
+ery for breach of fiduciary duty under appropriate cir- 
+cumstances thus was established at common law. See 
+Restatement (Second) of Trusts § 197, et seq. (1959); see, e.g., 
+United States v. Mitchell, 463 U.S. 2%, 225-27 (1983). 
+Because ERISA traces its roots to the common law of 
+trusts, and because it is the purpose and expressly 
+declared policy of ERISA to pretect the interests of partic- 
+ipants and beneficiaries in employee benefit plans, the 
+Court has recognized that it would be anomalous to 
+construe ERISA in a way that “would afford less protec- 
+tion to employees and their beneficiaries than they 
+enjoyed before ERISA was enacted.” Firestone, supra, 489 
+U.S. at 114. See also, Mertens. supra, 113 S. Ct. at 2072 
+(Stevens, J., dissenting). 
+
+
+Petitioner does not dispute the relevance of the com- 
+mon law of trusts to the interpretation of ERISA. It argues 
+instead that neither the law of trusts nor ERISA’s funda- 
+mental purpose to protect the rights of beneficiaries can 
+be used to “modify” the relief available under the statute. 
+However, respondents do not resort to the common law 
+of trusts or to the declared purpose of ERISA to “over- 
+come the words of [ERISA’s] text” (cf. Mertens, supra, 113 
+S. Ct. at 2071) or to support the recognition of any rem- 
+edy by inference; rather, in this case, the common law of 
+trusts and the declared purpose of the statute serve only 
+to explain why Congress would have intended that 
+§ 502(a)(3) be construed exactly as it is written. 
+
+
+The statutory construction arguments of petitioner 
+and its amici focus almost exclusively on the significance 
+of § 409 of ERISA, 29 U.S.C. § 1109 (1988), and its authori- 
+zation of breach of fiduciary duty recovery “to the plan.” 
+
+
+24 
+
+
+Much emphasis is placed on the secondary principle of 
+statutory construction that a provision specifically 
+addressing an issue should be deemed to control over 
+another addressing it in more general language. This 
+argument proceeds from the erroneous premise that 
+§ 409, as made actionable through § 502(a)(2) of ERISA, 
+29 U.S.C. § 1132(a)(2) (1988), is somehow in conflict with 
+§ 502(a)(3). However, there is no inherent conflict 
+between the availability of recovery to the plan under 
+§§ 409 and 502(a)(2) and the availability of appropriate 
+equitable relief for breach of fiduciary duty to individual 
+participants and beneficiaries under § 502(a)(3). Those 
+remedies may properly be viewed as complementary, 
+particularly in light of the fundamental purpose of 
+ERISA. While giving effect to the plain language of 
+§ 502(a)(3) may result in some duplication of the remedies 
+available to the plan under § 409 and § 502(a)(2), contrary 
+to petitioner’s argument the failure to recognize a right of 
+individual recovery plainly would violate the principle 
+that a statute should be construed so as to give effect to 
+all of its provisions. Nothing in the court of appeals’ 
+construction of § 502(a)(3) would impinge upon the con- 
+tinued enforcement of § 409 for recovery to the plan 
+under § 502(a)(2), but to construe § 409 as the exclusive 
+source of a remedy for breach of fiduciary duty clearly 
+would read out of § 502(a)(3) a critical feature of its plain 
+meaning. 
+
+
+Petitioner also asserts that the legislative history of 
+ERISA “confirms that the remedies ultimately placed in 
+ERISA § 409 were intended to cover all actions for breach 
+of fiduciary duty.” (Petitioner’s brief at 26.) As a thresh- 
+old matter, where the language of a statute is clear, any 
+
+
+25 
+
+
+argument based on legislative history is of minimal, if 
+any, relevance. Metropolitan Stevedore Co. v. Rambo, 115 S. 
+Ct. 2144, 2149 (1995); Curtiss-Wright Corp. v. Schoone- 
+jongen, 115 S. Ct. 1223, 1229-30 (1995). 
+
+
+The legislative history of ERISA does not support 
+petitioner’s argument in any event. In particular, peti- 
+tioner’s assertion that § 502(a)(3) appeared relatively late 
+in the legislative process (while § 409 was included in the 
+first bill introduced) is unfounded. Each of the bills cited 
+by petitioner, in fact, contained an antecedent of 
+§ 502(a)(3) to accompany the antecedent of § 409. See H.R. 
+2 (as introduced), 93d Cong., 1st Sess. § 106 (1973), 
+reprinted in Leg. Hist. 3, 33 (Secretary may sue to enjoin 
+violation of title); S. 4 (as introduced), 93d Cong., 1st Sess. 
+§ 603 (1973), reprinted in Leg. Hist. 93, 183 (participant or 
+beneficiary may sue “for appropriate relief, legal or equi- 
+table, to redress or restrain a breach of any ... duty of a 
+fiduciary”); S. 1557, 93d Cong., Ist Sess. § 9 (1973) 
+reprinted in Leg. Hist. 280, 303 (participant or beneficiary 
+may sue “for appropriate relief, legal or equitable, to 
+redress a breach of any . . . duty of a fiduciary”); S. 4 (as 
+reported), 93d Cong., 1st Sess., § 603 (1973), reprinted in 
+Leg. Hist. 389, 579 (participant or beneficiary may sue 
+“for appropriate relief, legal or equitable to redress or 
+restrain a breach of any . . . duty of a fiduciary”). 
+Although the precise contours of the provision were 
+altered in the legislative process and emerged as the 
+language seen in § 502(a)(3), petitioner’s suggestions that 
+this provision was appended to ERISA by the Conference 
+Committee as something of an afterthought, or only to 
+
+
+26 
+
+
+allow enforcement of ERISA’s lesser “regulatory provi- 
+sions,” simply are not supported by the legislative his- 
+tory. 
+
+
+The legislative history of ERISA does establish some 
+principles which have a bearing on the proper construc- 
+tion of § 502(a)(3). For example, as the Court has noted, 
+the legislative history establishes that Congress intended 
+to codify in ERISA principles of the common law of 
+trusts, which in turn has led the Court to seek guidance 
+in the common law in interpreting the statute. See H.R. 
+Rep. No. 93-533, p. 11 (1973), reprinted in Leg. Hist. 2348, 
+2358 (“The fiduciary responsibility section, in essence, 
+codifies and makes applicable to . . . fiduciaries certain 
+principles developed in the evolution of the law of 
+trusts”), quoted in Firestone, supra, 489 U.S. at 110. 
+
+
+The legislative history also is replete with statements 
+reflecting Congressional intent that individual partici- 
+pants and beneficiaries would have the right to bring 
+actions to redress violations of the statute — including its 
+fiduciary duty provisions. See, e.g., Joint Explanatory State- 
+ment of the Committee of Conference, 120 Cong. Rec. 27,934 
+(1974), reprinted in Leg. Hist. 4519, 4594 (“Under the 
+conference agreement, civil actions may be brought by a 
+participant or beneficiary . . . for relief from breach of 
+fiduciary responsibility”); 120 Cong. Rec. 29,933 (1974), 
+reprinted in Leg. Hist. at 4745 (“Individual participants 
+and beneficiaries will . . . be able to bring suit .. . to 
+obtain redress of fiduciary violations”) (statement of Sen. 
+Williams); 120 Cong. Rec. 29,935 (1974), reprinted in Leg. 
+Hist. at 4752 (“Employees would have the right to enforce 
+new Federal rules of conduct applicable to those who 
+manage pension and welfare funds”) (statement of Sen. 
+
+
+27 
+
+
+Javits); H.R. Rep. No. 93-533, p. 17 (1973), reprinted in Leg. 
+Hist. 2348, 2364 (“The enforcement provisions have been 
+designed specifically to provide . . . participants and 
+beneficiaries with broad remedies for redressing or pre- 
+venting violations of the Act”). 
+
+
+However, petitioner does not cite, and respondents 
+have not found, anything in the legislative history which 
+directly addresses the specific question of whether partic- 
+ipants and beneficiaries were intended to have a right of 
+individual recovery for breach of fiduciary duty. Cf. 
+United States v. Ron Pair Enterprises, 489 U.S. 235, 240 
+(1989) (“it is not appropriate or realistic to expect Con- 
+gress to have explained with particularity each step it 
+took” in enacting sweeping legislation). In the face of 
+such inconclusive legislative history, a court must return 
+to the first premise of statutory construction - giving 
+effect to the plain meaning of the words used by Con- 
+gress. Id.; Hubbard v. United States, 115 S. Ct. 1754, 1761 
+(1995). That principle alone is more than sufficient to 
+delineate the proper construction of § 502(a)(3). 
+
+
+Finally, a few comments are in order regarding some 
+of the policy arguments raised by one of petitioner’s 
+amici, the Chamber of Commerce, as to the perceived 
+consequences of recognizing a right of individual recov- 
+ery for breach of fiduciary duty. The Chamber’s brief 
+suggests that one result of such recognition would be that 
+breach of fiduciary duty claims would routinely be joined 
+with run-of-the-mill benefit claims already cognizable 
+under § 502(a)(1)(B) of ERISA, 29 U.S.C. § 1132(a)(1)(B) 
+(1988). Section 404(a)(1) provides that one of the obliga- 
+tions of a fiduciary is to discharge his duties “in accor- 
+dance with the documents and instruments governing the 
+
+
+28 
+
+
+plan.” A failure to pay benefits owing under the terms of 
+the plan therefore would also constitute a breach of 
+fiduciary duty. Of course, that would be so regardless of 
+whether § 502(a)(3) is construed as authorizing a right of 
+individual recovery for a breach of the duties set forth in 
+§ 404(a)(1). Moreover, even if the Chamber's concern that 
+the joinder of an alternative theory of recovery for the 
+same conduct would significantly increase the cost of 
+benefit litigation were well founded (which is subject to 
+debate), this is the sort of policy concern better addressed 
+to Congress in the first instance, and certainly is not 
+sufficient to carry the “exceptionally heavy burden” of 
+overcoming the plain language of § 502(a)(3). 
+
+
+The same is true of the Chamber’s argument that 
+recognition of a right of individual recovery for breach of 
+fiduciary duty would create incompatible legal standards 
+for courts hearing benefit claim disputes. Under Firestone, 
+when the plan documents confer discretion upon a fiduci- 
+ary, the fiduciary’s claim denial decision may be over- 
+turned only for an abuse of discretion. The Chamber 
+reasons that if an individual beneficiary has a right of 
+recovery under § 502(a)(3), an inconsistent standard of 
+review would be compelled because under § 404(a)(1) a 
+fiduciary must discharge its duties “solely in the interest 
+of the participants and beneficiaries.” This argument 
+again confuses the recognition of a right of individual recov- 
+ery under § 502(a)(3) with the existence of the duty under 
+§ 404(a)(1) in the first instance. Even if the plain language of 
+§ 502(a)(3) did not provide for individual relief for breach of 
+fiduciary duty, the fiduciary duty itself already undeniably 
+exists under § 404(a)(1). This Court obviously was aware of 
+the duties imposed by § 404(a)(1) when it decided the 
+
+
+29 
+
+
+Firestone case, and it did not regard the abuse of discre- 
+tion standard (when appropriately authorized by the plan 
+documents) as being incompatible with the fulfillment of 
+those duties. Moreover, the abuse of discretion standard 
+endorsed in Firestone itself was drawn directly from the 
+common law of trusts (see 489 U.S. at 111) - - under which 
+fiduciaries had the duty of loyalty now codified in 
+§ 404(a)(1), and under which they also were subject to 
+liability to individual beneficiaries. Accordingly, the 
+argument that giving effect to the plain meaning of 
+§ 502(a)(3) will create inconsistent standards of review for 
+benefit litigation simply will not withstand scrutiny. 
+
+
+If anything, the policy arguments of petitioner and its 
+amici serve to demonstrate the very incongruity of their 
+position. On the one hand, they cannot di ny that under 
+§ 404(a)(1) fiduciaries must discharge their duties pru- 
+dently and “solely in the interest of the participants and 
+beneficiaries,” yet on the other they maintain that the 
+breach of a fiduciary duty which causes injury not to the 
+plan but only to an individual participant or beneficiary 
+should not be remediable. To so hold in this case, as the 
+court of appeals stated, “would leave unremedied an 
+egregious wrong.” (PA 16a.) That Congress could have 
+intended such a result is inconceivable; that it did not 
+intend such a result is evident from the plain language of 
+§ 502(a)(3). 
+
+
+30 
+
+
+Il. PETITIONER BREACHED ITS FIDUCIARY DUTY 
+NOT TO LIE TO PARTICIPANTS ABOUT BENE- 
+FITS. 
+
+
+Petitioner’s argument on the second question pre- 
+sented in this certiorari proceeding at times strays so far 
+from the genuine issues that its relation to this case is 
+difficult to discern. Notwithstanding petitioner’s consis- 
+tent effort to characterize it as such, this is not a case 
+about whether an ERISA fiduciary has a duty to disclose 
+facts to beneficiaries beyond the specific mandatory dis- 
+closures enumerated in the statute. Rather, this case 
+raises the question of whether, when an ERISA fiduciary 
+exercises its discretion to communicate with beneficiaries 
+about the status of their benefits, it has a duty to be 
+honest in such communications. The unchallenged record 
+in this case establishes that petitioner was not merely 
+silent in the face of a duty to disclose, but rather that 
+petitioner made intentional, affirmative misrepresentations 
+to participants about the status and security of their 
+benefits.” 
+
+
+® Petitioner’s unwillingness to acknowledge the facts 
+which have been conclusively established at this stage of the 
+proceedings is particularly evident in this section of its argu- 
+ment. Petitioner suggests that the record reflects only “claimed 
+wrongs” and that it “allegedly did not fully inform plaintiffs as 
+to the likely future financial viability of MCC.” (Petitioner’s 
+brief at 29, 32; emphasis added.) The distinction between 
+“claimed wrongs” or “allegations” and unchallenged factual 
+findings of fraudulent misrepresentation may elude petitioner, 
+but it surely will not elude this Court. 
+
+
+31 
+
+
+Petitioner is intent upon characterizing its conduct as 
+a failure to disclose rather than as affirmative misrepre- 
+sentations because on the surface of the matter a “mere” 
+failure to disclose would seem to fit better with peti- 
+tioner’s theory that it did not act in a fiduciary capacity, 
+but rather only engaged in “business decisions” in its 
+nonfiduciary capacity as an employer. Petitioner argues 
+that if an employer which also serves as an ERISA fiduci- 
+ary does not act in a fiduciary capacity when it makes 
+business decisions regarding a plan, then its conduct does 
+not take on a fiduciary character merely because, in the 
+alleged absence of a duty to disclose, it elects not to 
+communicate with plan participants about those deci- 
+sions other than as expressly required by ERISA’s report- 
+ing and disclosure scheme. 
+
+
+Petitioner’s argument is fatally flawed in several 
+respects, beginning, as noted above, with the fact that this 
+case does not involve a mere failure to disclose facts 
+relating to an employer’s plan-related business decisions. 
+Whether or not a fiduciary has a duty to communicate 
+facts in the first instance, the relevant authorities consis- 
+tently reflect that once it exercises its discretion to com- 
+municate about benefits (as petitioner did in this case), it 
+enters into the realm of fiduciary responsibility and is 
+subject to all of the attendant fiduciary duties. 
+
+
+The distinction between a mere business decision 
+relating to a plan and the fiduciary function of communi- 
+cation to beneficiaries about the status of the plan is 
+clearly reflected in the court of appeals’ decision in this 
+case (PA 12a-13a), as well as in the decisions of other 
+courts of appeals. In Berlin v. Michigan Bell Telephone Co., 
+858 F.2d 1154 (6th Cir. 1988), the court recognized that 
+
+
+32 
+
+
+“purely business decisions by an ERISA employer are not 
+governed by section [404(a)(1)’s] fiduciary standards,” 
+but that an employer acting as plan administrator has a 
+fiduciary duty not to make material misrepresentations to 
+participants about its decisions with respect to the plan. 
+Id., 858 F.2d at 1163-64. 
+
+
+Decisions of the court of appeals for the Third Circuit 
+also effectively illustrate the distinction between mere 
+business decisions and the fiduciary act of communicat- 
+ing with beneficiaries. In Hozier v. Midwest Fasteners, Inc., 
+908 F.2d 1155 (3d Cir. 1990) (a case frequently cited by 
+petitioner — see petitioner’s brief at 31, 32, 33 and 35), the 
+court held that an employer’s decision to amend or termi- 
+nate an employee benefit plan is “unconstrained by the 
+fiduciary duties that ERISA imposes upon plan adminis- 
+tration.” Id., 908 F.2d at 1162. However, Hozier did not 
+involve allegations of misleading communications about 
+the status of benefits. In four subsequent decisions, the 
+Third Circuit made it clear that ERISA’s fiduciary duties 
+do apply when an employer communicates with plan 
+participants about benefits. See In Re: Unisys Corp. Retiree 
+Medical Benefit “ERISA” Litigation, No. 94-1875, 1995 WL 
+380983 (3d Cir. June 28, 1995); Curcio v. John Hancock 
+Mutual Life Insurance Co., 33 F.3d 226, 232-35 (3d Cir. 
+1994); Bixler v. Central Pennsylvania Teamsters Health & 
+Welfare Fund, 12 F.3d 1292, 1300 (3d Cir. 1993); Fischer v. 
+Philadelphia Electric Co., 994 F.2d 130, 133-35 (3d Cir.), cert. 
+denied, 114 S. Ct. 622 (1993). In the Unisys opinion, the 
+court (citing Hozier as supporting authority) clearly artic- 
+ulated the principle at hand: 
+
+
+33 
+
+
+When a corporate plan administrator speaks 
+about benefits to its employees, the administra- 
+tor acts in a fiduciary capacity even if he speaks 
+about a nonfiduciary decision such as the busi- 
+ness decision to terminate a welfare benefit 
+plan. 
+
+
+Id. at *10, n. 10. 
+
+
+The fact that communication about benefits inherently 
+is a fiduciary function is confirmed by the structure of 
+ERISA. The role of a plan administrator within the frame- 
+work of ERISA inherently is fiduciary in nature. The 
+definition of a “fiduciary” expressly includes anyone who 
+exercises any discretionary authority or discretionary 
+responsibility in the administration of a plan. § 3(21)(A) of 
+ERISA, 29 U.S.C. § 1002(21)(A) (1988) (emphasis added). 
+Section 402(a)(1) of ERISA, 29 U.S.C. § 1102(a)(1) (1988), 
+requires that the instrument establishing a plan shall 
+provide for one or more “named fiduciaries” who “shall 
+have authority to control and manage the . . . adminis- 
+tration of the plan.” (Emphasis added.) The advisory reg- 
+ulations published by the Department of Labor also state 
+that “a plan administrator . . . must, bly] the very nature 
+of his position, have discretionary authority or discretion- 
+ary responsibility in the administration of the plan within 
+the meaning of § 3(21)(A)(iii) of the Act. Persons who 
+hold such positions will therefore be fiduciaries.” 29 
+C.F.R. § 2509.75-8 D-3 (1988). 
+
+
+The primary responsibility assigned to the fiduciary 
+position of plan administrator under ERISA is to commu- 
+nicate with participants and beneficiaries about the nature and 
+status of their benefits. It is the plan administrator, as such, 
+who bears the responsibility for compliance with ERISA’s 
+
+
+34 
+
+
+reporting and disclosure requirements. See §§ 101-104 of 
+ERISA, 29 U.S.C. §§ 1021-1024 (1988 & Supp. 1993). The 
+structure of ERISA itself thus indicates that the act of 
+communicating with beneficiaries about the status of 
+their benefits inherently is a fiduciary function, at least to 
+the extent that any discretion is exercised in that process. 
+
+
+Petitioner apparently contends, however, that 
+ERISA’s reporting and disclosure obligations are exclu- 
+sive in the sense that only in carrying out those specified 
+disclosures could an employer be deemed to act in its 
+fiduciary capacity as plan administrator. Any other bene- 
+fit-related communications, petitioner would argue, can- 
+not be deemed to be made in a fiduciary capacity because 
+the making of any other communications is not required 
+of the plan administrator/fiduciary by ERISA. As a 
+threshold matter, this argument ignores the concept that 
+one acts as a fiduciary when exercising discretionary 
+authority or responsibility with regard to the administra- 
+tion of a plan. If anything, then, the fiduciary character of 
+plan-related communications which the fiduciary volun- 
+tarily elects to make — an exercise of discretion - may be 
+regarded as even more clearly a fiduciary function than 
+the communications expressly required by ERISA. 
+
+
+The notion that ERISA’s fiduciary duties do not 
+extend to communications between fiduciaries and bene- 
+ficiaries other than those communications specifically 
+required in the reporting and disclosure provisions is 
+patently untenable in any event. It is apparent from the 
+typical complexity of employee benefit plans themselves 
+and the continuously interactive nature of plan adminis- 
+tration that discretionary communications between par- 
+ticipants and fiduciaries (including employers acting in 
+
+
+35 
+
+
+the capacity of plan administrator) must occur on a regu- 
+lar basis in the course of plan administration. 
+
+
+This point is illustrated quite simply by the require- 
+ment of ERISA that an SPD include the name and address 
+not only of the plan administrator but of all other fiduci- 
+aries of the plan. See § 102(b) of ERISA, 29 U.S.C. § 1022(b) 
+(1988). The obvious purpose of including fiduciaries’ 
+names and addresses is to enable participants to communi- 
+cate with the fiduciaries in some fashion. While the 
+requirement of stating the name and address of the plan 
+administrator might be explained in part by the fact that 
+beneficiaries have the right, under ERISA’s express dis- 
+closure provisions, to request or inspect certain documents 
+through the plan administrator, the requirement of provid- 
+ing the names and addresses of other fiduciaries (upon 
+whom the primary obligation to comply with express 
+reporting and disclosure requirements is not imposed) can 
+be explained only by the fact that other discretionary 
+communications between beneficiaries and fiduciaries — to 
+which ERISA’s fiduciary duties would apply - were also 
+contemplated by Congress. See In Re: Unisys Corp. Retiree 
+Medical Benefit “ERISA” Litigation, No. 94-1875, 1995 WL 
+380983, at *6 (3d Cir. June 28, 1995) (“satisfaction by an 
+employer as plan administrator of its statutory disclosure 
+obligations under ERISA does not foreclose the possibility 
+that the plan administrator may nonetheless breach its 
+fiduciary duty owed to plan participants to communicate 
+candidly if the plan administrator simultaneously or 
+
+
+36 
+
+
+subsequently makes material misrepresentations to those 
+to whom the duties of loyalty and prudence are owed”).1° 
+
+
+It is apparent from the terms of petitioner’s SPD, 
+“You and Massey Ferguson,” that petitioner itself plainly 
+contemplated and indeed invited the regular occurrence 
+of discretionary communications between participants 
+and itself as plan administrator. In one passage in the 
+SPD, petitioner stated that its designated group benefits 
+administrators “are available to you or your survivors to 
+assist and counsel as needed.” (PI. Ex. 114, section II, p. 
+7.) In another passage, petitioner encouraged benefici- 
+aries to write or call the personnel administration office 
+(which was designated to handle the day-to-day func- 
+tions of plan administration) if they had “any questions 
+concerning these benefits.” (Id. at section VIII, p. 9.) Most 
+importantly, in the section of the SPD describing partici- 
+pants’ rights under ERISA, petitioner stated that “if you 
+have any questions about your plan, you should contact 
+the plan administrator.” (Id. at section IX, pp. 4-5.)" 
+
+
+10 Curtiss-Wright v. Schoonejongen, 115 S. Ct. 1223 (1995) is 
+cited by petitioner in part for the proposition that ERISA’s 
+scheme “for enabling beneficiaries to learn their rights and 
+obligations” is “built around reliance on the face of written plan 
+documents.” However, Curtiss-Wright certainly did not hold 
+that no other form of communication about benefits was con- 
+templated under ERISA, or that when such communications 
+occur they would not also be subject to ERISA’s fiduciary duty 
+provision. Curtiss-Wright did not, in any event, involve a claim 
+of breach of fiduciary duty or any allegation of affirmative 
+misrepresentation regarding the status of benefits. 
+
+
+11 Another section of the SPD entitled “Benefit Administra- 
+tors” also highlights the distinction at issue in this case. It states, 
+in pertinent part, as follows: 
+
+
+37 
+
+
+Petitioner's own SPD thus acknowledges not only that 
+communications between participants and the plan 
+administrator were contemplated in addition to those 
+specified in ERISA’s reporting and disclosure scheme, but 
+also that the act of communicating with beneficiaries 
+about the plan was regarded by petitioner itself as a 
+function to be carried out in its fiduciary capacity as plan 
+administrator. 
+
+
+The conclusion that the act of communicating with 
+the plan participants about the plan or the status of 
+benefits thereunder inherently is a fiduciary function is 
+further supported by the common law of trusts, in which 
+ERISA is rooted. At common law, a trustee is subject to 
+stringent and broadly defined duties with regard to com- 
+munications with beneficiaries about matters relating to 
+the trust. See, e.g., Restatement (Second) of Trusts, §§ 170(2), 
+173 (1959). 
+
+
+A final note is in order about the threshold issue of 
+whether the petitioner acted in its fiduciary capacity in 
+making the affirmative misrepresentations which are at 
+issue in this case. Although petitioner does not expressly 
+
+
+Massey Ferguson, Inc. is the plan sponsor and admin- 
+
+istrator of the company’s pension, savings, and wel- 
+
+fare plans. The plan sponsor has control over the plans 
+
+and the administrator is responsible for administer- 
+
+ing the plans. 
+(Pl. Ex. 114, section IX, p. 1.) This passage further illustrates the 
+fact that while the employer may have control over decisions 
+relating to the plan, the administration of the plan — which as 
+shown elsewhere in the SPD includes communications with 
+beneficiaries — is a function of the plan administrator. The latter 
+is, in turn, inherently a fiduciary position. 
+
+
+38 
+
+
+raise the issue, there can be no legitimate doubt that its 
+misrepresentations about MCC’s financial health and out- 
+look directly related to respondents’ employee benefits. 
+These and other intentional misrepresentations were 
+made to implement Project Sunshine, which was speci- 
+fically designed in part to rid petitioner of employee 
+benefit obligations. The misrepresentations were made in 
+the context of soliciting consent by the employees of the 
+CARE division and retail stores to the transfer of their 
+employment and benefit rights to MCC. In the case of a 
+self-funded welfare benefit plan, the security of benefits 
+is directly tied to the financial health of the employer/ 
+plan sponsor. If the employer is bankrupt, then there will 
+be no source for the payment of any benefits. Thus, 
+petitioner’s fraudulent misrepresentations to the effect 
+that MCC had a bright future went to the heart of the 
+issue of the security of employee benefit rights for mem- 
+bers of the Retired Class. As the district court found, the 
+Retired Class relied to their detriment upon these and 
+other affirmative misrepresentations in accepting the 
+transfer of their employment and benefit rights to MCC. 
+
+
+Because petitioner was necessarily acting in its 
+fiduciary capacity in communicating with employees 
+about their benefits, the only remaining issue is the 
+nature of the fiduciary duties attendant to such communi- 
+cations. Several courts which have considered the issue 
+have held, drawing on the common law of trusts, that the 
+fiduciary duties of loyalty and prudence imposed by 
+§ 404(a)(1) impose not only a negative duty not to misin- 
+form, but also an affirmative duty to inform when the 
+fiduciary knows that its silence might be harmful to the 
+
+
+39 
+
+
+beneficiary. See, e.g., Bixler v. Central Pennsylvania Teams- 
+ters Health and Welfare Fund, 12 F.3d 1292, 1300 (3d Cir. 
+1993); Anweiler v. American Electric Power Service Corp., 3 
+F.3d 986, 991-92 (7th Cir. 1993); Eddy v. Colonial Life Insur- 
+ance Co., 919 F.2d 747, 750-51 (D.C. Cir. 1990). 
+
+
+While the imposition of an affirmative duty of dis- 
+closure seems eminently reasonable and plainly consis- 
+tent with the common law of trusts (see Restatement 
+(Second) of Trusts §§ 170(2), 173 (1959)), the Court need 
+not decide that issue here because, as noted above, this 
+case involves affirmative misrepresentations and not 
+mere silence or omissions. The authorities are uniform as 
+to the existence of a fiduciary duty not to affirmatively 
+misinform a beneficiary. See, e.g., Mullins v. Pfizer, Inc., 23 
+F.3d 663, 668-69 (2nd Cir. 1994); Fischer v. Philadelphia 
+Electric Co., 994 F.2d 130, 133-35 (3d Cir.), cert. denied, 114 
+S. Ct. 622 (1993).!2 As succinctly stated by Judge Posner 
+in Peoria Union Stock Yards Co. v. Penn Mutual Life Insur- 
+ance Co., 698 F.2d 320, 326 (7th Cir. 1983), “lying is incon- 
+sistent with the duty of loyalty owed by all fiduciaries 
+and codified in section 404(a)(1) of ERISA, 29 U.S.C. 
+
+
+A corollary of the duty not to make affirmative represen- 
+tations is the rule that affirmative representations are deemed 
+fraudulent not only when they are patently false but when the 
+maker knows they are misleading because of its failure to state 
+additional or qualifying matter. See Restatement (Second) of Torts, 
+§ 529 (1977). This rule is distinct from the question of whether 
+there is a duty to disclose in the first instance, i.e., whether mere 
+silence can give rise to a cause of action for fraudulent breach of 
+fiduciary duty. Cf. Restatement (Second) of Torts, § 551 (1977). 
+
+
+40 
+
+
+section 1104(a)(1).” The proposition hardly seems debata- 
+ble, and petitioner cites no authority calling it into ques- 
+tion. 
+
+
+There seems little need for resort to legislative his- 
+tory on a point of such clarity, but what little legislative 
+history there is on the matter confirms the obvious — that 
+ERISA was intended, in part, to prevent dishonesty in the 
+administration of employee benefit plans. 120 Cong. Rec. 
+4780 (1974), reprinted in Leg. Hist. at 3590 (fiduciary stan- 
+dards were intended “to prevent abuses in the manage- 
+ment of pension plan funds . . . and other unwise and 
+dishonest financial dealings”) (statement of Rep. Drinan); 
+120 Cong. Rec. 29,935 (1974), reprinted in Leg. Hist. at 
+4751 (ERISA was motivated by Congress’s “sense of 
+indignation and frustration over what often seemed to be 
+a cynical disregard of fundamental American concepts of 
+fairness and decency by some of those who managed the 
+private pension funds”) (statement of Sen. Javits); 120 
+Cong. Rec. 29,951 (1974), reprinted in Leg. Hist. at 4795 
+(“This bill will establish judicially enforceable standards 
+to insure honest, faithful and competent management of 
+pension and welfare funds”) (statement of Sen. Bentsen). 
+
+
+As noted above, most of petitioner’s argument on the 
+question of whether its conduct constituted a breach of 
+fiduciary duty dwells on matters which are really inap- 
+posite to that issue. Petitioner focuses in particular on the 
+evidence as to its disclosure of a reserved right to amend 
+or terminate the plan, and on the assertion that the court 
+of appeals’ decision in this case is somehow inconsistent 
+with ERISA’s vesting rules. Only a few comments are in 
+order regarding those aspects of petitioner’s argument. 
+
+
+41 
+
+
+Petitioner’s focus upon the evidence regarding its 
+disclosure of a reserved right to amend or terminate the 
+plan is misplaced because among the unchallenged find- 
+ings of the district court was the fact that petitioner has 
+never acted to terminate the MF plan, or amended it in a 
+way to eliminate welfare benefits. (PA 51a, { 2.) Instead, 
+petitioner fraudulently induced the employees of the 
+CARE division and retail stores (including the respon- 
+dents now identified as the Retired Class) to accept a 
+transfer of their benefit rights from the MF plan to the 
+MCC plan. This strategy was, of course, absolutely essen- 
+tial to petitioner’s implementation of Project Sunshine, 
+because it was necessary for the sham corporation to 
+have employees in order to give the appearance of legit- 
+imacy to lenders (whose consent to the transfer of debt 
+was required) and others. It would not have suited peti- 
+tioner’s purpose to simply terminate the plan (which also 
+could have caused substantial disruption of its relation- 
+ship with employees of other divisions whom it wished 
+to retain) or to attempt to selectively amend it to exclude 
+CARE division and retail store employees from its cover- 
+age. Whatever its motivation, the fact is that petitioner 
+did not exercise a right of termination, and it cannot justify 
+the achievement of its ends by saying it could have 
+deprived respondents of their benefit rights by some 
+theoretically permissible means other than the fraudulent 
+means which it actually employed. 
+
+
+Petitioner’s emphasis upon the reservation of a right 
+to amend or terminate also is misplaced to the extent it 
+relates to the argument that respondents cannot recover 
+benefits under a breach of fiduciary theory which they 
+could not recover under § 502(a)(1)(B). As noted in 
+
+
+42 
+
+
+respondents’ statement of the case, respondents unsuc- 
+cessfully sought to recover lifetime benefits under 
+§ 502(a)(1)(B) based on petitioner’s failure to disclose in 
+“You and Massey Ferguson” the reservation of the right 
+to amend or terminate the plan. Respondents did not 
+succeed on their claim for lifetime benefits because the 
+district court concluded, and the court of appeals 
+affirmed, that the reservation of rights in the plan itself 
+was enforceable and that respondents’ benefits therefore 
+did not vest upon retirement. Only this claim of entitle- 
+ment to lifetime benefits was litigated in the context of 
+§ 502(a)(1)(B). However, success on their breach of fiduci- 
+ary duty claim nevertheless entitled respondents to be 
+reinstated to the MF plan as though their transfer to MCC 
+had not occurred. Thus, there is no logical inconsistency 
+between the denial of recovery under § 502(a)(1)(B) 
+(given the courts’ conclusions) and the award of relief for 
+breach of fiduciary duty. 
+
+
+Petitioner’s focus upon the distinction between vest- 
+ing rules applicable to pension and welfare plans is 
+equally inapposite, and its argument that the court of 
+appeals’ decision “eviscerates” the distinction between 
+pension and welfare plans in that regard is unfounded. 
+The remedy for petitioner’s breach of fiduciary duty, as 
+modified by the court of appeals, simply was to reinstate 
+respondents to the MF plan. Respondents have not been 
+reinstated with vested or lifetime benefits. The court of 
+appeals has clarified that respondents have only such 
+rights as other members of the MF plan as it now exists, 
+and petitioner’s right to modify the plan still exists in 
+accordance with the opinion. (PA 23a.) Accordingly, the 
+court of appeals’ decision simply does not impinge upon, 
+
+
+43 
+
+
+let alone eviscerate, the distinction between pension 
+plans and welfare plans with regard to vesting. Nor 
+should anything in the result of this case serve to discour- 
+age employers from offering welfare benefits. The only 
+thing it will, hopefully, serve to discourage them from 
+doing is lying to their employees about the status of such 
+benefits. 
+
+
+Finally, it is very important to note that petitioner’s 
+argument that it did not breach its fiduciary duty to 
+respondents appears to address only the claim of the 
+Retired Class. The claim of the Retired Class was based 
+upon the fraudulent misrepresentations made to induce 
+their consent to the transfer to MCC. The claims of the 10 
+individual respondents, however, are quite different. No 
+misrepresentations were made to the individual respon- 
+dents in connection with the transfer to MCC of peti- 
+tioner’s obligation to pay benefits to these respondents. 
+Indeed, no disclosure of any kind was made. The 10 
+individual respondents already had retired from employ- 
+ment with petitioner at the time MCC was formed. Their 
+consent to the transfer never was sought or obtained, and 
+they learned of the transfer only after they stopped 
+receiving benefits when MCC went into receivership. The 
+court of appeals found that “such a complete disregard of 
+the rights and interests of beneficiaries is a clear breach of 
+fiduciary duty in violation of section [404(a)(1)].” (PA 
+17a.) Petitioner’s conduct with respect to the individual 
+respondents constituted a breach of the fiduciary duties 
+of loyalty and prudence, as well as of the duty to admin- 
+ister the plan in accordance with the governing instru- 
+ments. The latter is true simply because nothing in the 
+plan documents authorized the “transfer” of petitioner's 
+
+
+44 
+
+
+benefit obligations to a retiree to another entity. Again, 
+petitioner might in theory have attempted to achieve the 
+same result by either amending or terminating the plan, 
+but the fact is that it did not do so. While petitioner’s 
+argument on the right of individual recovery under 
+§ 502(a)(3) affects the individual respondents as well as 
+the Retired Class, petitioner’s argument as to whether it 
+committed a breach of fiduciary duty does not appear to 
+challenge the validity of the court of appeals’ decision as 
+it relates to the individual respondents. Petitioner in any 
+event certainly has not identified any error in the holding 
+as it relates to those respondents. 
+
+
+S 
+
+
+CONCLUSION 
+
+
+The decision of the court of appeals should be 
+affirmed in its entirety. 
+
+
+Respectfully submitted, 
+
+
+Of Counsel H. RicHarp SmiTH* 
+AHLERS, COONEY, DORWEILER, 
+
+
+Davib SWINTON Haynie, SmitH & Avwsee, P.C. 
+
+
+Micuaet J. Eason 100 Court Avenue, Suite 600 
+Rosert J. SCHMIT Des Moines, lowa 50309-2231 
+WituiaAM A. GENGLER (515) 243-7611 
+
+
+ScHATZ PAQuIN LOCKRIDGE 
+GrinDAL & HOLsTEIN 
+2200 Washington Square * Counsel of Record 
+100 Washington Avenue 
+South 
+
+Minneapolis, Minnesota 
+55401 
+
+612/339-6900 
+
+
+July 26, 1995 
+
+
+Attorneys for Respondents 
+
+
