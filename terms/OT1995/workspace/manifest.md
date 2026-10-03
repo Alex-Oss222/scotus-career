@@ -1,5 +1,7 @@
 # OT1995 Full-Term Event Manifest
 
+**Preparation update (October 3, 2026):** Chunks 5–10 have factual, procedural, source and inherited-law corrections. See the [preparation review and remaining Stone choices](CHUNKS5_10_PREPARATION_REVIEW.md). Inventory, completed-event status, chronology cursor and Court outcomes are unchanged. The update does not approve unresolved proposed positions or complete a new Court event.
+
 **Governing-law relation:** Love supplies the personal-holder rule; Hale returns the preserved §922(o) arms application under that rule and Miller.
 
 **Current status:** Open; all twelve chunk 4 actions are completed. The cumulative inventory has 48 completed Court events through March 18, 1996, plus four admitted statutory sources (52 canonical Records). Jones’s filing-management event is complete while financial leave and certiorari remain pending; Wood remains an open plenary grant. Maine No. 35, Louisiana No. 121 and the five inherited matters retain their stated ongoing stages. Next eligible inventory item: Meghrig v. KFC Western, Inc., March 19, chunk 5; Varity shares that next date group. Records control over this planning projection.

@@ -1,5 +1,7 @@
 # OT1995 Term Continuity Note
 
+**Preparation update (October 3, 2026):** Chunks 5–10 have factual, procedural, source and inherited-law corrections. See the [preparation review and remaining Stone choices](CHUNKS5_10_PREPARATION_REVIEW.md). Inventory, completed-event status, chronology cursor and Court outcomes are unchanged. The update does not approve unresolved proposed positions or complete a new Court event.
+
 ## 1. Scope and Chronology Cursor
 
 **Posture:** All twelve chunk 4 actions are completed. The cumulative state contains **48 completed Court events and four admitted sources (52 canonical Records)** through **1996-03-18**. The sources are the October 1, 1995 paternity amendment; Public Law 104-91 enacted January 6, 1996, with its covered period deemed to begin December 16, 1995; and Telecommunications Act §§302 and 551 enacted February 8, 1996. Jones’s financial motion and certiorari petition remain pending; Wood remains an open plenary grant; Maine No. 35, Louisiana No. 121 and the five inherited matters retain their stated ongoing stages. The completed February 21, February 26, February 27 and March 4 cohorts retain their respective common pre-group law. Next eligible manifest item: Meghrig v. KFC Western, Inc., March 19, chunk 5; Varity shares that next date group. Opening adjudicative cutoff: June 29, 1995.
