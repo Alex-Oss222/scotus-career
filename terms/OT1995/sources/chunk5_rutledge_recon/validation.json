@@ -1,0 +1,165 @@
+{
+  "new_files": {
+    "terms/OT1995/freeze/OT_1995CHUNK5_RUTLEDGE_RECONCILED.md": {
+      "sha256": "bb6202155c547e5900637b7c9dd1e6f9146f83aa0da02939b8890c698389ef31",
+      "bytes": 24814,
+      "lines": 81
+    },
+    "terms/OT1995/sources/chunk5_rutledge_recon/RECEIPT.md": {
+      "sha256": "a9c7bee215c46b39a910824a280683d3cf375b3ec5828203f8cb8f7ba41623ac",
+      "bytes": 14195,
+      "lines": 91
+    }
+  },
+  "input_identity": [
+    {
+      "path": "terms/OT1995/freeze/OT_1995CHUNK5_RUTLEDGE_COMMITMENTS.md",
+      "freeze": "8e012ce",
+      "sha256": "f6d9159ac4253a29ce3262baca803b93a42c205eadcaadfc91cb139a4889df31",
+      "matches": true
+    },
+    {
+      "path": "terms/OT1995/freeze/OT_1995CHUNK5_RUTLEDGE_NEUTRAL_VALIDATED.md",
+      "freeze": "208dca9",
+      "sha256": "0d2a1f7258b5f4a3d6c6e96bedb031116104b431ee7c99b278b01bf617222d78",
+      "matches": true
+    },
+    {
+      "path": "terms/OT1995/freeze/OT_1995CHUNK5_MARCH27_NEUTRAL_LAW_FRESHNESS.md",
+      "freeze": "45ca332",
+      "sha256": "846f14e9b43e080ae3d3b48b94702d72abafbcf8bf8a912507f8b4a0d84d9444",
+      "matches": true
+    },
+    {
+      "path": "terms/OT1995/entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-26.md",
+      "freeze": "71a1954",
+      "sha256": "243708991f71b864854615e69e1b3c7fbc8d18b6b9269cead5c92f96e9d78f56",
+      "matches": true
+    }
+  ],
+  "archive_identity": [
+    {
+      "path": "README.md",
+      "matches_checksum": true,
+      "matches_commit": true
+    },
+    {
+      "path": "cornell_94-8769_ZO.headers.txt",
+      "matches_checksum": true,
+      "matches_commit": true
+    },
+    {
+      "path": "cornell_94-8769_ZO.html",
+      "matches_checksum": true,
+      "matches_commit": true
+    },
+    {
+      "path": "cornell_94-8769_ZO.metadata.json",
+      "matches_checksum": true,
+      "matches_commit": true
+    },
+    {
+      "path": "cornell_94-8769_ZO.txt",
+      "matches_checksum": true,
+      "matches_commit": true
+    },
+    {
+      "path": "cornell_94-8769_ZS.headers.txt",
+      "matches_checksum": true,
+      "matches_commit": true
+    },
+    {
+      "path": "cornell_94-8769_ZS.html",
+      "matches_checksum": true,
+      "matches_commit": true
+    },
+    {
+      "path": "cornell_94-8769_ZS.metadata.json",
+      "matches_checksum": true,
+      "matches_commit": true
+    },
+    {
+      "path": "cornell_94-8769_ZS.txt",
+      "matches_checksum": true,
+      "matches_commit": true
+    },
+    {
+      "path": "manifest.json",
+      "matches_checksum": true,
+      "matches_commit": true
+    },
+    {
+      "path": "usreports_517_292.headers.txt",
+      "matches_checksum": true,
+      "matches_commit": true
+    },
+    {
+      "path": "usreports_517_292.layout.txt",
+      "matches_checksum": true,
+      "matches_commit": true
+    },
+    {
+      "path": "usreports_517_292.metadata.json",
+      "matches_checksum": true,
+      "matches_commit": true
+    },
+    {
+      "path": "usreports_517_292.pdf",
+      "matches_checksum": true,
+      "matches_commit": true
+    },
+    {
+      "path": "usreports_517_292.pdfinfo.txt",
+      "matches_checksum": true,
+      "matches_commit": true
+    }
+  ],
+  "local_links": [
+    {
+      "from": "terms/OT1995/freeze/OT_1995CHUNK5_RUTLEDGE_RECONCILED.md",
+      "target": "OT_1995CHUNK5_RUTLEDGE_COMMITMENTS.md",
+      "exists": true
+    },
+    {
+      "from": "terms/OT1995/freeze/OT_1995CHUNK5_RUTLEDGE_RECONCILED.md",
+      "target": "../sources/chunk5_rutledge_recon/RECEIPT.md",
+      "exists": true
+    }
+  ],
+  "whitespace": [],
+  "associate_rows": {
+    "expected": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "observed": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "exact": true
+  },
+  "assessment_arithmetic": {
+    "starting_counts": 6,
+    "remaining_counts": 5,
+    "per_count": 50,
+    "starting_total": 300,
+    "remaining_total": 250
+  },
+  "source_page_counts": {
+    "historical_rutledge": 16,
+    "tinder": 6
+  },
+  "checks_passed": true
+}
