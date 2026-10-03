@@ -1,0 +1,26 @@
+[
+  {
+    "name": "USREPORTS-517-25.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-25.pdf",
+    "final_url": "https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-25.pdf",
+    "status": 200,
+    "bytes": 234123,
+    "sha256": "4a8b95659b94c68d8e9cb89516824977a907f2287ab623963e3635b1892070f6"
+  },
+  {
+    "name": "cornell_94-1837_ZS.html",
+    "url": "https://www.law.cornell.edu/supct/html/94-1837.ZS.html",
+    "final_url": "https://www.law.cornell.edu/supct/html/94-1837.ZS.html",
+    "status": 200,
+    "bytes": 9402,
+    "sha256": "2432cff7874f73ae2674dd1902fff41e43992f50429df9f2cde09848e4191fbe"
+  },
+  {
+    "name": "cornell_94-1837_ZO.html",
+    "url": "https://www.law.cornell.edu/supct/html/94-1837.ZO.html",
+    "final_url": "https://www.law.cornell.edu/supct/html/94-1837.ZO.html",
+    "status": 200,
+    "bytes": 39553,
+    "sha256": "f0038f680595d110c3e37f8c1b51ca705eba1bf7c2708dbbed735e8232797f43"
+  }
+]

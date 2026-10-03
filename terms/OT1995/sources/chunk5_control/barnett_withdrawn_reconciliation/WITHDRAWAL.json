@@ -1,0 +1,15 @@
+{
+  "status": "withdrawn before freeze; no Court or current-law effect",
+  "reason": "Root disclosed a current private Chief Justice disposition in a follow-up message after the draft was written but before commitment. The recipient was interrupted immediately and the uncommitted candidate removed from the authoritative handoff path.",
+  "preserved_candidate_hash": "424f7d9ec6903c4fb57a72f60a739da49a0f6bbbcdae9474718bc8ca52b2e812",
+  "independent_commitments": "c769139; unchanged",
+  "restoration": "Fresh reconciliation context receives only frozen neutral/independent/comparator and permitted public law plus raw verified primary sources. It receives neither this control archive nor the withdrawn candidate.",
+  "raw_primary_sources": "../../chunk5_barnett_recon/",
+  "archive_files": {
+    "input_hashes.json": "cc5a489f86dde81487d5143db5f51b44535764c59a06fdc95c8374899de0114f",
+    "COVERAGE_CANDIDATE.txt": "f38bb68570d863cb5cdbdfe8bd2aad5539daf9aba5a4f0601a7c72a0888948f5",
+    "validation.json": "e292cbea5c61b85a26886692d419442e1ba13d927c1b18418da1288f71e16a4d",
+    "RECONCILIATION_CANDIDATE.txt": "424f7d9ec6903c4fb57a72f60a739da49a0f6bbbcdae9474718bc8ca52b2e812"
+  },
+  "original_relative_links": "The two preserved .txt drafts retain their original text and original-context relative links; they are audit evidence, not current handoffs."
+}

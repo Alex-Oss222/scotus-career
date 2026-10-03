@@ -1,0 +1,196 @@
+{
+  "input_preservation": {
+    "terms/OT1995/freeze/OT_1995CHUNK5_BARNETT_NEUTRAL_VALIDATED.md": true,
+    "terms/OT1995/freeze/OT_1995CHUNK5_BARNETT_PRECEDENT_SOURCE_ADDENDUM.md": true,
+    "terms/OT1995/freeze/OT_1995CHUNK5_BARNETT_LAW_FRESHNESS.md": true,
+    "terms/OT1995/freeze/OT_1995CHUNK5_BARNETT_COMMITMENTS.md": true,
+    "terms/OT1995/runtime/OT_1995CHUNK5_BARNETT_COMPARATOR.md": true,
+    "terms/OT1995/entering-law/OT_1995CHUNK5.md": true,
+    "terms/OT1995/entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-25.md": true,
+    "terms/OT1995/sources/chunk5_c/barnett_lower_opinion_only.txt": true,
+    "terms/OT1991/output/OT_1991CHUNK12.md": true,
+    "terms/OT1994/output/OT_1994CHUNK4.md": true
+  },
+  "all_inputs_preserved": true,
+  "official_pdf_page_count": 19,
+  "page_coverage": [
+    {
+      "reporter_page": 25,
+      "page_label_present": true,
+      "nonempty_characters": 2764
+    },
+    {
+      "reporter_page": 26,
+      "page_label_present": true,
+      "nonempty_characters": 2768
+    },
+    {
+      "reporter_page": 27,
+      "page_label_present": true,
+      "nonempty_characters": 2354
+    },
+    {
+      "reporter_page": 28,
+      "page_label_present": true,
+      "nonempty_characters": 2024
+    },
+    {
+      "reporter_page": 29,
+      "page_label_present": true,
+      "nonempty_characters": 2085
+    },
+    {
+      "reporter_page": 30,
+      "page_label_present": true,
+      "nonempty_characters": 2128
+    },
+    {
+      "reporter_page": 31,
+      "page_label_present": true,
+      "nonempty_characters": 2275
+    },
+    {
+      "reporter_page": 32,
+      "page_label_present": true,
+      "nonempty_characters": 2246
+    },
+    {
+      "reporter_page": 33,
+      "page_label_present": true,
+      "nonempty_characters": 2272
+    },
+    {
+      "reporter_page": 34,
+      "page_label_present": true,
+      "nonempty_characters": 2172
+    },
+    {
+      "reporter_page": 35,
+      "page_label_present": true,
+      "nonempty_characters": 2117
+    },
+    {
+      "reporter_page": 36,
+      "page_label_present": true,
+      "nonempty_characters": 2207
+    },
+    {
+      "reporter_page": 37,
+      "page_label_present": true,
+      "nonempty_characters": 2159
+    },
+    {
+      "reporter_page": 38,
+      "page_label_present": true,
+      "nonempty_characters": 2147
+    },
+    {
+      "reporter_page": 39,
+      "page_label_present": true,
+      "nonempty_characters": 2245
+    },
+    {
+      "reporter_page": 40,
+      "page_label_present": true,
+      "nonempty_characters": 2212
+    },
+    {
+      "reporter_page": 41,
+      "page_label_present": true,
+      "nonempty_characters": 2240
+    },
+    {
+      "reporter_page": 42,
+      "page_label_present": true,
+      "nonempty_characters": 2151
+    },
+    {
+      "reporter_page": 43,
+      "page_label_present": true,
+      "nonempty_characters": 1277
+    }
+  ],
+  "all_reporter_pages_labeled": true,
+  "complete_opinion_read_ranges": [
+    [
+      1,
+      240
+    ],
+    [
+      240,
+      560
+    ],
+    [
+      560,
+      846
+    ]
+  ],
+  "cornell_opinion_read_ranges": [
+    [
+      1,
+      330
+    ],
+    [
+      331,
+      659
+    ]
+  ],
+  "writing_inventory_manual_verification": {
+    "court_opinions": 1,
+    "separate_writings": 0,
+    "numbered_judicial_footnotes": 0,
+    "official_counsel_asterisk_read": true,
+    "historical_unanimity_verified": true
+  },
+  "justice_rows_present": {
+    "Stevens": true,
+    "O'Connor": true,
+    "Scalia": true,
+    "Kennedy": true,
+    "Souter": true,
+    "Thomas": true,
+    "Ginsburg": true,
+    "Breyer": true
+  },
+  "local_link_issues": [],
+  "reconciled_sha256": "424f7d9ec6903c4fb57a72f60a739da49a0f6bbbcdae9474718bc8ca52b2e812",
+  "source_files": {
+    "COVERAGE.md": {
+      "bytes": 7969,
+      "sha256": "f38bb68570d863cb5cdbdfe8bd2aad5539daf9aba5a4f0601a7c72a0888948f5"
+    },
+    "USREPORTS-517-25.pdf": {
+      "bytes": 234123,
+      "sha256": "4a8b95659b94c68d8e9cb89516824977a907f2287ab623963e3635b1892070f6"
+    },
+    "USREPORTS-517-25.txt": {
+      "bytes": 42583,
+      "sha256": "35413d50c045ef36e19d1e6dc4f3aeb43277e1914b0248b7cd0899ce53482091"
+    },
+    "cornell_94-1837_ZO.html": {
+      "bytes": 39553,
+      "sha256": "f0038f680595d110c3e37f8c1b51ca705eba1bf7c2708dbbed735e8232797f43"
+    },
+    "cornell_94-1837_ZO.txt": {
+      "bytes": 32049,
+      "sha256": "546a470af316f099f1b85555ce3877d0d0aff564f023ec4a45912da9d92e2a27"
+    },
+    "cornell_94-1837_ZS.html": {
+      "bytes": 9402,
+      "sha256": "2432cff7874f73ae2674dd1902fff41e43992f50429df9f2cde09848e4191fbe"
+    },
+    "cornell_94-1837_ZS.txt": {
+      "bytes": 5823,
+      "sha256": "6239a7b81fe8f63a074789b4a063c202dfcc1a3369c3336f5d98f624fd32869a"
+    },
+    "input_hashes.json": {
+      "bytes": 1287,
+      "sha256": "cc5a489f86dde81487d5143db5f51b44535764c59a06fdc95c8374899de0114f"
+    },
+    "retrieval_manifest.json": {
+      "bytes": 976,
+      "sha256": "a8a6b098c35da78fb2c4f4cee26bd378f62d682b10c7fd1e77038fa20a7a4a3a"
+    }
+  },
+  "legal_scope_comparison": "Qualitative review in reconciled handoff; no computational vote or legal-meaning determination."
+}

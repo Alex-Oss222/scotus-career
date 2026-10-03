@@ -1,0 +1,180 @@
+
+
+
+ 
+  
+  
+  
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+  
+
+	
+	
+	
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+	
+	
+    
+    
+    
+    
+    
+    
+    
+    Barnett Bank of Marion County, N. A. v. Nelson, Florida Ins. Comm'r, 517 U.S. 25 (1996)
+ 
+ 
+
+    
+    
+	
+		
+			LII
+			 
+			Supreme Court		 
+		
+	
+
+
+ 
+
+
+Barnett Bank of Marion County, N. A. v. Nelson, Florida Ins. Comm'r (94-1837), 517 U.S. 25 (1996)
+Syllabus   Opinion  [ Breyer ]HTML versionWordPerfect versionHTML versionWordPerfect version
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See United States v. Detroit Lumber Co., 200
+ U.S. 321, 337.
+ 
+ 
+SUPREME COURT OF THE UNITED STATES
+ 
+ 
+Syllabus
+BARNETT BANK OF MARION COUNTY,
+ N. A. v. NELSON, FLORIDA INSURANCE COMMISSIONER,
+ et al.
+ 
+ 
+certiorari to the united states
+ court of appeals for the eleventh circuit
+ 
+ 
+No. 94-1837.
+ Argued January 16, 1996 -- Decided
+ March 26, 1996
+ 
+ 
+
+ 
+ 
+A 1916 federal law (Federal Statute) permits national banks to sell
+ insurance in small towns, but a Florida law (State Statute) prohibits such
+ banks from selling most types of insurance. When petitioner Barnett Bank,
+ a national bank doing business in a small Florida town, bought a state
+ licensed insurance agency, respondent State Insurance Commissioner ordered
+ the agency to stop selling the prohibited forms of insurance. In this action
+ for declaratory and injunctive relief, the District Court held that the
+ State Statute was not pre-empted, but only because of the McCarran Ferguson
+ Act's special insurance related anti pre-emption rule. That rule provides
+ that a federal law will not pre-empt a state law enacted "for the
+ purpose of regulating the business of insurance"--unless the federal
+ statute "specifically relates to the business of insurance." 15
+ U.S.C. § 1012(b) (emphasis added). The Court of Appeals affirmed.
+ 
+ 
+Held: The Federal Statute
+ pre-empts the State Statute. Pp. 4-17.
+ 
+ 
+(a) Under ordinary pre-emption
+ principles, the State Statute would be pre-empted, for it is clear that
+ Congress, in enacting the Federal Statute, intended to exercise its constitutionally
+ delegated authority to override contrary state law. The Federal and State
+ Statutes are in "irreconcilable conflict," Rice v. Norman Williams
+ Co., 458
+ U.S. 654, 659, since the Federal Statute authorizes national banks
+ to engage in activities that the State Statute expressly forbids. Thus,
+ the State's prohibition would seem to "stan[d] as an obstacle to the accomplishment"
+ of one of the Federal Statute's purposes, Hines v. Davidowitz,
+ 312
+ U.S. 52, 67, unless, as the State contends, Congress intended to limit
+ federal permission to sell insurance to those circumstances permitted by
+ state law. However, by providing, without relevant qualification, that
+ national banks "may . . . act as the agent" for insurance sales, 12
+ U.S.C. § 92 the Federal Statute's language suggests a broad, not
+ a limited, permission. That this authority is granted in "addition to the
+ powers now vested . . . in national [banks]," ibid. (emphasis
+ added), is also significant. Legislative grants of both enumerated and
+ incidental "powers" to national banks historically have been interpreted
+ as grants of authority not normally limited by, but rather ordinarily pre-empting,
+ contrary state law. See, e.g., First Nat. Bank of San Jose
+ v. California, 262
+ U.S. 366, 368-369. Where, as here, Congress has not expressly conditioned
+ the grant of power upon a grant of state permission, this Court has ordinarily
+ found that no such condition applies. See Franklin Nat. Bank v.
+ New York, 347
+ U.S. 373. The State's argument that special circumstances surrounding
+ the Federal Statute's enactment demonstrate Congress' intent to grant only
+ a limited permission is unpersuasive. Pp. 4-11.
+ 
+ 
+(b) The McCarran Ferguson Act's anti pre-emption rule does not
+ govern this case, because the Federal Statute "specifically relates to
+ the business of insurance." This conclusion rests upon the Act's language
+ and purposes, taken together. The word "relates" is highly general; and
+ in ordinary English, the Federal Statute--which focuses directly upon industry
+ specific selling practices and affects the relation of insured to insurer
+ and the spreading of risk--"specifically" relates to the insurance business.
+ The Act's mutually reinforcing purposes--that state regulation and taxation
+ of the insurance business is in the public interest, and that Congress'
+ "silence . . . shall not be construed to impose any barrier to [such]
+ regulation or taxation," 15
+ U.S.C. § 1011 (emphasis added)--also support this view. This phrase,
+ especially the word "silence," indicates that the Act seeks to protect
+ state regulation primarily against inadvertent federal intrusion, not to
+ insulate state insurance regulation from the reach of all federal law.
+ The circumstances surrounding the Act's enactment also suggest that the
+ Act was passed to ensure that generally phrased congressional statutes,
+ which do not mention insurance, are not applied to the issuance of insurance
+ policies, thereby interfering with state regulation in unanticipated ways.
+ The parties' remaining arguments to the contrary are unconvincing. Pp.
+ 11-17.
+ 
+ 
+43 F. 3d 631,
+ reversed.
+ 
+ 
+Breyer, J., delivered the opinion
+ for a unanimous Court.
+ 
+ 
+
+ 
+ 
+
+
+ 
+
+

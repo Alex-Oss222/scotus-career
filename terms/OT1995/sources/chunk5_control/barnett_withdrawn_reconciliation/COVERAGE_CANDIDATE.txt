@@ -1,0 +1,52 @@
+# Barnett historical reconciliation — primary-source coverage
+
+This source record concerns historical comparison after the independent Barnett commitments were frozen. It supplies no current Chief Justice position, current author or assignment. Retrieval occurred October 3, 2026; the legal event cutoff is March 26, 1996, with effective simulated entering law through March 25. Later retrieval is not later law.
+
+## Sources and complete reading
+
+| Source | Saved copy | Coverage |
+| --- | --- | --- |
+| [Official United States Reports, 517 U.S. 25–43](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-25.pdf) | [PDF](USREPORTS-517-25.pdf); [complete layout text](USREPORTS-517-25.txt) | All 19 pages, including syllabus, counsel and counsel asterisk, complete Court opinion and terminal order. Read in three consecutive untruncated text ranges covering all 846 lines. |
+| [Cornell syllabus, No. 94-1837](https://www.law.cornell.edu/supct/html/94-1837.ZS.html) | [HTML](cornell_94-1837_ZS.html); [text](cornell_94-1837_ZS.txt) | Complete page, including lineup and final disposition. |
+| [Cornell opinion, No. 94-1837](https://www.law.cornell.edu/supct/html/94-1837.ZO.html) | [HTML](cornell_94-1837_ZO.html); [text](cornell_94-1837_ZO.txt) | Complete page, read in consecutive ranges covering all 659 lines; no other writing is listed. |
+
+The official PDF has 19 pages, beginning with reporter p. 25 and ending with p. 43; `pdftotext -layout` extracted all pages. Text extraction of Cornell used the Python standard-library HTML parser after BeautifulSoup was found unavailable. No installation or environment-configuration change was needed. Raw Cornell text retains navigation and script text, which supply no legal evidence.
+
+### Page-level coverage
+
+| Reporter pages | Material actually read |
+| --- | --- |
+| 25–26 | Syllabus; ordinary-preemption and McCarran components; reversed judgment; unanimous Court notation. |
+| 26–27 | Counsel listings and complete asterisk note listing amici; opening Court paragraphs. |
+| 28–30 | Completed introduction; Part I statutes and facts; lower McCarran rulings; route to review. |
+| 30–31 | Part II; congressional intent; express, field and conflict taxonomy; express recognition that dual compliance is not physically impossible. |
+| 32 | Permission versus state-conditional corporate capacity; actual §92 language; national-bank-powers precedents. |
+| 33 | Franklin, de la Cuesta and Lawrence County; “forbid”/“impair significantly” and “prevent or significantly interfere”; compatible state-regulation examples. |
+| 34–35 | Express incorporation of state law; branching and fiduciary examples; Franklin comparison; beginning of 1916-letter discussion. |
+| 35–37 | Complete quoted letter; assumption of relevance; rejection of competitive-equality condition; administrative citations; ordinary-conflict conclusion. |
+| 37–39 | Part III; insurance-specific exception; ordinary meaning of “relates” and “specifically”; direct insurance transactions and prohibitions; §1011 purpose. |
+| 40–41 | South-Eastern Underwriters and enactment background; limited legislative remarks; specific federal text; John Hancock illustration; banking and insurance can coexist. |
+| 42 | General-statute counterexample; pre-1944 argument; congressional national-bank authority. |
+| 43 | Fabe clear-statement argument rejected; exact final reversal and “It is so ordered.” |
+
+**Every writing and note:** The official syllabus states that Breyer delivered the opinion for a unanimous Court. The official report contains that single Court opinion and no concurrence, dissent, partial join or nonparticipation notation. There are **zero numbered judicial footnotes**. The official counsel asterisk on p. 27 was read completely; it is not a judicial holding. References to notes in cited cases are citations, not missing Barnett notes. The complete cleared lower-opinion body separately contains its designation asterisk and notes 1–2, all read; the prohibited surrounding lower HTML/footer was not opened.
+
+## Cross-check differences and controlling source
+
+The sources agree on docket, argument and decision dates, unanimous lineup, both decisive statutory grounds, state-law limits, and terminal reversal. Cornell retains slip-page references and preliminary-reporting features. Its displayed opinion begins with the 1916 enactment rather than the two introductory paragraphs appearing across official pp. 27–28, and does not supply the official counsel material. The complete official source fills those omissions.
+
+Cornell prints the fiduciary-power citation as “§92(a),” while the official report has **§92a(a)**; the latter controls. Cornell retains an unfilled John Hancock reporter citation and some typographic defects. No doctrinal conclusion rests on those defects. Quoted substantive scope is checked against the official text, rather than represented as byte-identical between transcriptions.
+
+The official historical opinion's abbreviated chronology describes filing suit after the Commissioner's order. The already-validated lower body instead states suit on the purchase date and the order four days later. The neutral packet already preserves that more precise sequence; no new chronology was introduced. The official report's broad descriptions do not establish a full current Florida statute, Barnett's branch eligibility, nationwide sales authority, or an administrative-deference ruling. Its two McCarran questions remain distinct. The report's description of Fabe's “bankruptcy priority” does not replace the actual simulated §3713 holding and its Title 11 exclusion.
+
+## Public-law and source-boundary verification
+
+The reconciliation read the complete frozen Barnett neutral, precedent-source addendum, freshness certificate and commitments, followed by the comparator; read the complete safe lower body; checked relevant entering-law entries; and read the **complete public Gade** entry in `terms/OT1991/output/OT_1991CHUNK12.md`, lines 326–389, and **complete public Freightliner** entry in `terms/OT1994/output/OT_1994CHUNK4.md`, lines 390–428. No unrelated entry in those public render files was used. A prior public-only helper's complete Massachusetts Medical Society verification was transferred by the operator, and the frozen source-acceptance addendum was read in full. No claim is made that this reconciliation context reread that underlying opinion independently.
+
+The reconciliation checked the relevant dated March 25 projection and its March 19–20 changes and relied on the separately frozen full-opinion freshness validation. The unchanged earlier baseline and unrelated intervening decisions were not reread in full. No current-case source gap was filled with private Records, later authorities, current assembly, another commitment, or current Chief Justice material. The only modifications in this task are the new reconciled handoff and this new source directory.
+
+## Identity and integrity
+
+The [retrieval manifest](retrieval_manifest.json) records source URLs, successful HTTP responses, byte counts and SHA-256 hashes. The [input manifest](input_hashes.json) records the frozen and public inputs checked for preservation. The [validation record](validation.json) records the final preservation, page-coverage, writing-inventory and local-link checks. These are deterministic identity checks; the substantive scope comparison is qualitative legal analysis in the reconciliation.
+
+**Remaining limits:** No independent complete petition, all merits/amicus briefs, full joint appendix, trial evidence, oral argument, remainder of the effective Florida statute, or complete cited Comptroller instrument was established by this historical review. No new neutral material ground was adopted. A proposed use of such material for a new decision path must return source-only material to clean preflight and modeling first.
