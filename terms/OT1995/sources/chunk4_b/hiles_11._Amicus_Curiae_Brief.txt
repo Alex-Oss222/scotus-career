@@ -1,0 +1,1014 @@
+OR ARGUMENT | FILED 
+
+
+(4) DEC 7 1995 
+No. 95-6 
+
+
+inten " THE CLERK 
+
+
+In THE 
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+; 
+
+
+NORFOLK & WESTERN RAILWAY COMPANY, 
+¥ Petitioner, 
+
+
+WILLIAM J. HILEs, 
+
+
+Respondent. 
+
+
+On Writ of Certiorari to the 
+Appellate Court of Illinois 
+Fifth Judicial District 
+
+
+BRIEF OF THE UNITED TRANSPORTATION UNION 
+AS AMICUS CURIAE IN SUPPORT OF RESPONDENT 
+
+
+CLINTON J. MILLEs, ITI ROBERT E. HARRINGTON, JR. 
+General Counsel RoBERT B. THOMPSON * 
+UNITED TRANSPORTATION PATRICK J. HARRINGTON 
+UNION HARRINGTON, THOMPSON, 
+
+14600 Detroit Avenue ACKER & HARRINGTON, LD. 
+Cleveland, OH 44107 $10 S. Michigan Avenue 
+(216) 228-9400 Suite 2000 
+
+Chicago, IL 60604 
+
+(812) 922-8883 
+
+Counsel for Amicus 
+
+
+December 7, 1995 * Counsel of Record 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+TABLE OF AUTHORITIES .........................c-cc-ccecee-enceeees iii 
+STATEMENT OF INTEREST OF AMICUS CURIAE.. 1 
+STATEMENT OF THE CASE ...W02.0..........:ccccccececcoseeeeee 3 
+SUMMARY OF THE ARGUMENT ......... vaeneaieiinlidiaeas 3 
+
+
+A. Section 2 of the Safety Appliance Act Requires 
+Couplers Which Perform as Described by the 
+Plain Language of the Act ...00000 3 
+
+
+B. Prior Rulings of This Court Have Been Consist- 
+ent With the Plain Language of Section 2 of the 
+I 4 
+
+
+C. The Same Policy Considerations That Existed 
+When Section 2 of the Safety Appliance Act Was 
+Drafted Still Exist Today ........0.00000000000000000 5 
+
+
+FE, AS ONE FNL AOR, OS 6 
+
+
+I. THE COURT SHOULD RE-AFFIRM ITS 
+PRIOR DECISIONS WHICH HAVE BEEN 
+CONSISTENT WITH THE PLAIN LAN- 
+GUAGE OF SECTION 2 OF THE SAFETY 
+IE AE Xeclincticcaciindinatitiistintnterames 6 
+
+
+II. THE FAILURE OF CARS TO COUPLE AUTO- 
+MATICALLY UPON IMPACT WITHOUT THE 
+NECESSITY OF INDIVIDUALS TO GO BE- 
+TWEEN THE CARS IS A VIOLATION OF 
+SECTION 2 OF THE SAFETY APPLIANCE 
+RIE ES mee NO RIOR RMON CN A TR 10 
+
+
+A. A Misaligned Drawbar, Which Requires 
+Manual Adjustment Between the Cars, Vio- 
+lates Section 2 of the Safety Appliance Act... 11 
+
+
+B. The Presence or Absence of a “Defect” Is 
+Immaterial Under Section 2 of the Safety 
+IE IIE catictten dss niedeaditenssiameininesite tect 14 
+
+
+ii iii 
+
+
+TABLE OF CONTENTS—Continued TABLE OF AUTHORITIES 
+
+
+Page CASES Page 
+Affolder v. New York, Chicago & St. Lewis R.R., 
+III. SECTION 2 OF THE SAFETY APPLIANCE , 
+ACT IS VITAL TO THE RAILROAD EM- 339 US. 96 (1950) . peneqensesneuasncensetnasagas eoceeenasseesens passim 
+
+
+Atlantic City R.R. v. Parker, 242 U.S. 56 (1916). 9, 10 
+
+
+cae ai cakes tee oe PERFORM a Carter v. Atlantic & St. Andrews Bay Ry. Co., 338 
+a US. 490 (1949) ‘gescim 
+. Delk v. St. Louis & San Francisco Ry., 220 US. 
+SR EARLE at ENS AC a 18 580 (1911) 13 
+Goedel v. Norfolk & W. R.R., ‘18 F.3d 807 (4th 
+Cir. 1994) in 14 
+Johnaon v. Southern Pacific RR., 196 US. 1 
+(1904) 6 
+Kansas City S. Ry. v. Cagle, 229 F.2d 12 (10th Cir. 
+1955), cert. denied, 351 U.S. 908 (1956) ~~ 11 
+Kavorkian v. CSX Transportation, Inc., 33 F.3d 
+570 (6th Cir. 1994) . i 14 
+Lisek v. Norfolk & W. Rwy. ™ 30 F.3d 823 (7th Cir. 
+1994) .. . 14,15 
+Metcalfe v. Atchison, Topeka & Santa Fe Rwy.., 
+491 F.2d 892 (10th Cir. 1974) ........ | 12 
+O’ Donnell v. Elgin, Joliet & E. R. Co., 338 U.S. 384 
+(1949) passim 
+Reed v. Philadelphia, Bethlehem & N.E.R.R., 939 
+F.2d 128 (3rd Cir. 1991) 10,14 
+San Antonio, etc. R.R. v. Wagner, 166 3.W. 24, 
+aff'd, 241 U.S. 476 (1916) _. _ 9,10 
+
+
+Schaaf v. Chesapeake & Ohio Ry., 317 N.W.2d 679 
+(Mich. Ct. App. 1988), cert. denied, 464 U.S, 848 
+
+
+(1983) _.. | —' > 
+United Transportation Union v. Lewis, 7il F.2d 
+233 (D.C. Cir. 19838) - passim 
+Urie v. Thompson, 337 U.S. 163 (1946) ao 2 
+Statutes and Regulations 
+
+
+Federal Safety Appliance Act, Title 45 U.S.C. Sec- 
+tion 2 [currently codified at Title 49 U.S.C. Sec- 
+tion 203802(a)(1)(A)] . . ‘passim 
+Federal Railroad Safety Act of 1970, Title 45 
+WB. Bertha GBR, GB COG. ....ccccnccccccecccccccccccccesesee 13 
+
+
+iv 
+TABLE OF AUTHORITIES—Continued 
+
+
+Miscellaneous 
+
+
+Accident/Incident Bulletin No. 163, Calendar Year 
+1994, U.S. Department of Transportation, Tables 
+SS 8) a ee ae ee 
+
+aaa 
+
+Report of the Committee On Interstate And For- 
+eign Commerce on S. 1993 To Provide for Fed- 
+eral Railroad Safety, Hazardous Materials Con- 
+trol and For Other Purposes, June 16, 1970, 
+House Report No. 91-1194 200s 
+
+1970 Cong. Rec. 4109 (1970) 0 
+
+
+Page 3 
+
+
+In THE 
+Supreme Court of the United States 
+
+
+OcToser TERM, 1995 
+
+
+No. 95-6 
+
+
+Norrouk & WESTERN RAILWAY COMPANY, 
+Petitioner, 
+Vv. 
+
+
+WILLIAM J. HILEs, 
+
+
+Respondent. 
+
+
+On Writ of Certiorari to the 
+Appellate Court of Illinois 
+Fifth Judicial District 
+
+
+BRIEF OF THE UNITED TRANSPORTATION UNION 
+AS AMICUS CURIAE IN SUPPORT OF RESPONDENT 
+
+
+This brief of the United Transportation Union is filed 
+with the consent of the perties, the letters expressing con- 
+sent having been filed with the Clerk of the Court. 
+
+
+STATEMENT OF INTEREST OF ..MICUS CURIAE 
+
+
+The United Transportation Union is a voluntary labor 
+organization representing railroad transportation em- 
+ployees on every major railroad in the United States. On 
+a daily basis railroad workers put their own safety at risk, 
+and rely on the protection of the Federal Employers Li- 
+
+
+2 
+
+
+ability Act and the Federal Safety Appliance Act. These 
+Acts are vital to the ability of these workers to safely and 
+efficiently perform their duties. The United Transporta- 
+tion Union fully supports the arguments presented on 
+behalf of the plaintiff-respondent, William J. Hiles, and 
+urges this Court to affirm the decision of the Illinois 
+Appellate Court below. Although the decision by this 
+Court is important to Mr. Hiles, it has even greater sig- 
+nificance for the thousands of railroad workers in the 
+United States who form the life blood of our railway 
+system. 
+
+The language of the Safety Appliance Act, Title 45 
+U.S.C. Section 2' and the key judicial opinions inter- 
+preting the Act are discussed later in this brief as well as 
+the briefs filed by the parties to this Appeal. Lost in the 
+debate, however, is any reference to the one, overriding 
+issue that prompted Congress to enact the Safety Appli- 
+ance Act in 1893. That is, who should bear the risks 
+and the burdens of performing certain jobs that are haz- 
+ardous, but essential to the operation of a railroad? Con- 
+gress conclusively answered this question in 1893 by 
+deciding, as a matter of public policy, that the risks and 
+burdens of performing certain hazardous operations should 
+be borne by the railroad industry, not by those unfortu- 
+nate few individuals who happen to be injured while per- 
+forming their assigned duties. In 1946, this Court 
+specifically recognized and sanctioned the public policy 
+decision made by Congress in 1893, finding oa Congress 
+created the Safety Appliance Act to equitably allocate the 
+inevitable costs of human injury associated with the rail- 
+road industry. Uric v. Thompson, 337 U.S. 163 (1946). 
+
+Nevertheless, the AAR and its member railroads seek 
+to have this Court do for them what they have been un- 
+
+
+' The Safety Appliance Act (hereinafter SAA) was originally 
+codified at Title 45 U.S.C. Sections 1-16. Section 2 is currently 
+codified at Title 49 U.S.C. Section 20802(a)(1)(A). For purposes 
+of clarity, the citations in this Brief are to the original code 
+sections. 
+
+
+3 
+
+
+able to persuade Congress to do, that is to effectively re- 
+peal Section 2 of the Safety Appliance Act or turn it into 
+a product liability statute. The AAR brief expresses 
+apparent dismay over their claim that its member rail- 
+roads spend approximately 4% of their gross revenues 
+on “FELA”. Nowhere is it claimed that this expenditure 
+is related primarily to coupler cases as opposed to all 
+injury claims. In fact, statistics show a human cost. Ac- 
+cording to Federal Railroad Administration records, in 
+1994 there were 31 rail deaths nationwide. Of those, 2 
+deaths were trainmen (a class of employees overwhelm- 
+ingly represented by the United Transportation Union) 
+killed while adjusting couplers on railcars which were 
+moving or moved unexpectedly. Accident/Incident Bulle- 
+tin No. 163, Calendar Year 1994, U.S. Department of 
+Transportation, Tables 8, 9, 66 and 67. Petitioner not 
+only seeks judicial approval of the practice, but seeks to 
+eliminate Safety Appliance Act compensation for those 
+injuries and deaths. Petitioner would impose a potential 
+100% loss of “revenues” to those surviving widows and 
+children. Furthermore, suffice it to say that no decision 
+of this Court or any court has premised an interpretation 
+of the Safety Appliance Act on the claimed economic 
+burden of such safety laws upon a defendant. Indeed, if 
+such claims had merit, Congress is the body to which 
+this concern should be addressed. 
+
+
+STATEMENT OF THE CASE 
+Amicus adopts the statement of the case in Respond- 
+ent’s brief. 
+SUMMARY OF ARGUMENT 
+
+
+A. Section 2 of the Safety Appliance Act requires Couplers 
+Which Perform as Described by the Plain Language 
+of the Act 
+
+
+The Safety Appliance Act requires railroads to use 
+cars which couple automatically upon impact without the 
+necessity of railroad employees going between the ends 
+
+
+4 
+
+
+of the railroad cars. 45 U.S.C. Section 2. The Act re- 
+quires performance on the occasion in question. Peti- 
+
+
+tioner and the Association of American Railroads con- 
+
+
+tend that an injured employee must prove a defect in 
+order to establish a violation of the Safety Appliance Act 
+and that the “properly set” requirement extends to manual 
+adjustment of couplers and drawbars between the ends of 
+cars. Such an interpretation is directly contrary to United 
+States Supreme Court decisions holding that the condition 
+of the equipment is immaterial and further is contrary to 
+the plain language of the Act because railroad employees 
+would be required to go between the ends of railroad 
+cars to realign the couplers in order to effectuate a 
+coupling. 
+
+
+The phrase “without the necessity of men going be- 
+tween the ends of the cars” is descriptive of the equipment 
+and the manner in which that equipment is to perform. 
+The statute requires performance—not flawless compo- 
+nents. A mechanically perfect coupler which fails to per- 
+form as required violates the Act. The absence of a 
+defect cannot aid the railroad. Carter v. Atlantic & St. 
+Andrews Bay Ry. Co., 338 U.S. 430 (1949). 
+
+
+B. Prior Rulings of This Court Have Been Consistent With 
+the Plain Language of Section 2 of the Safety Appliance 
+Act 
+
+
+The arguments of Petitioner, if adopted, would require 
+this Court to overrule or ignore clear, fundamental rul- 
+ings in earlier cases arising under Section 2 of the Safety 
+Appliance Act, 45 U.S.C. Section 2. [See Affolder v. 
+New York, Chicago & St. Louis R.R., 339 U.S. 96, 99 
+(1950); Carter v. Atlanta & St. Andrews Bay Railway 
+Co., 338 U.S. 430 (1949); O'Donnell v. Elgin, Joliet & 
+E.R. Co., 338 U.S. 384 at 390 (1949)] 
+
+
+The first and most important concept is that the plain 
+words of the statute mandate the equipment to perform 
+as required. 
+
+
+5 
+
+
+Second, the failure to perform as required by the Act 
+is the actionable wrong. 
+
+
+Third, all issues of negligence or fault based analysis 
+have been eliminated. 
+
+
+Fourth, the condition of the equipment, bad or good, 
+the absence of a defect, or the fact that it worked on 
+other occasions, is immaterial. 
+
+
+This Court has recognized one defense to the Safety 
+Appliance Act. That is, if the failure to couple is caused 
+by a knuckle not being properly opened, tie plaintiff's 
+claim for damages will be defeated. Affolder v. New 
+York, Chicago & St. Louis R.R., 339 U.S. 96, 99 (1950). 
+This defense is consistent with the plain words of the 
+Act since the knuckle of the coupler can be opened with- 
+out the necessity of men going between the ends of the 
+cars. When railroad employees are required to go be- 
+tween railroad cars in order to manually re-align a draw- 
+bar, they face an entirely different situation than they do 
+when it is necessary to open a railroad knuckle in order 
+to effectuate a coupling. The pivotal difference between 
+these two activities is the fact that the coupler or knuckle 
+can be opened or “set” without the need for the employee 
+to go between the ends of the cars, while realignment of 
+a drawbar requires employees to go between the ends of 
+railroad cars. 
+
+
+C. The Same Policy Considerations That Existed When 
+Section 2 of the Safety Appliance Act Was Drafted 
+Still Exist Today 
+
+
+Congress has determined that certain railroad activities 
+are so hazardous, and so far beyond the control of the 
+individual worker, that any employee who is injured or 
+killed while engaged in one of these activities should be 
+entitled to compensation, regardless of fault. The process 
+of preparing to couple and uncouple cars is one of those 
+activities. The foundation for this public policy decision 
+is basic, fundamental fairness. The Safety Appliance Act, 
+
+
+6 
+
+
+unlike the FELA, is not a fault-based statute. It is a per- 
+formance only statute. Proof that a coupling mechanism 
+was or was not defective is immaterial under the Safety 
+Appliance Act. The only question is whether the coupling 
+mechanism performed as required by the Act, that is, 
+without the necessity of individuals going between the end 
+of the cars. Our members, railroad working men and 
+women, who are constantly exposed to the risks of the 
+coupling process are entitled to no less than the funda- 
+mental fairness that the Safety Appliance Act provides as 
+evidenced by the plain language of that Act and the clear 
+legislative purpose and intei: expressed by Congress. 
+
+
+ARGUMENT 
+
+
+I. THE COURT SHOULD RE-AFFIRM ITS PRIOR 
+DECISIONS WHICH HAVE BEEN CONSISTENT 
+WITH THE PLAIN LANGUAGE OF SECTION 2 
+OF THE SAFETY APPLIANCE ACT 
+
+
+As early as 1904, this Court held that the phrase “with- 
+out the necessity of men going between the ends of the 
+cars” applies equally to coupling and uncoupling. John- 
+son v. Southern Pacific R.R., 196 U.S. 1 (1904). Or, 
+as the Circuit Court of Appeals in United Transportation 
+Union v. Lewis, 711 F.2d 233, 244 (D.C. Gir. 1983) 
+stated: “a licit coupler is one which can be coupled and 
+uncoupled without men having to go between the ends 
+of the cars.” 
+
+
+This Court “. . . early swept all the issues of negligence 
+out of cases under the Safety Appliance Act... A failure 
+of equipment to perform as required by the [Safety Ap- 
+pliance Act] is in itself an actionable wrong, in no way 
+dependent upon negligence and for the proximate results 
+of which there is liability—a liability that cannot be es- 
+caped by proof of care or diligence . . . The statutory 
+liability is not based upon the carrier’s negligence.” 
+O'Donnell v. Elgin, Joliet & E. R. Co., 338 US. 384 
+at 390 (1949). In Carter v. Atlanta & St. Andrews Bay 
+Railway Co., 338 U.S. 430 (1949) the Court stated: 
+
+
+7 
+
+
+This Court has repeatedly attempted to make clear 
+that this is an absolute duty not based upon negli- 
+gence, and that absence of a defect cannot aid the 
+railroad if the coupler was properly set and failed to 
+couple on the occasion in question . . . The fact the 
+coupler functioned properly on other occasions is 
+immaterial. 
+Id, at 433-434. (Emphasis added). 
+
+
+Furthermore, under the Safety Appliance Act a plain- 
+tiff does not have to prove why the couplers failed to 
+couple automatically or that the couplers were defective 
+or in bad condition. This Court, referring to the O’Don- 
+nell decision, stated in Affolder v. New York, Chicago & 
+St. Louis R.R., 339 U.S. 96, 99 (1950): 
+The plaintiff did not have to show a ‘bad’ condition 
+of the coupler; she was entitled to a peremptory in- 
+struction that to equip a car with a coupler which 
+failed to perform properly “in the switching opera- 
+tion was a violation of the Act, which rendered de- 
+fendant liable for injuries proximately resulting there- 
+from, and that neither evidence of negligence nor of 
+diligence and care was to be considered on the ques- 
+tion of this liability”. 
+
+Id. at 99, quoting O’Donnell v. Elgin, Joliet & E. R. Co., 
+
+338 U.S. 384 at 394 (1949). 
+
+
+Indeed, in O'Donnell, this Court rejected the opinion 
+of the lower court that as a result of the broken coupler 
+the “jury may. . . infer that the coupler was defective 
+and was furnished in violation of the Act.” O’Donnell, 
+338 U.S. at 386-387. Instead, this Court ordered a per- 
+emptory instruction that a coupler which broke in the 
+switching operation was a violation of the Act. 
+
+
+In O'Donnell, the defendant railroad also sought to 
+avoid liability by arguing that the coupling failed con- 
+currently with an emergency stop. The Court noted such 
+evidence “might be material on the question of negli- 
+gence. But the [Safety Appliance Act] certainly requires 
+
+
+equipment that will withstand the stress and strain of ail 
+ordinary operation, grades, loading, stops and starts, in- 
+cluding emergency stops. A defendant cannot escape 
+liability for a coupler’s inadequacy by showing too much 
+was demanded of it...” /d. at 393 (Emphasis added). 
+
+
+The O'Donnell Court realized that to permit the rail- 
+road any excuses based on the manner or circumstances 
+of the coupling operation is to reintroduce negligence into 
+the case. It would effectively gut the Safety Apliance Act 
+of its “absolute duty”. Likewise, in the case before this 
+Court, the Petitioner railroad seeks to excuse its com- 
+pliance if the car has been on a curve or if employees 
+can attest to its good or non-defective condition. These 
+negligence or fault-based excuses are eliminated by the 
+Act. The Affolder decision plainly stated: “Nor do we 
+think that any question regarding the normal efficiency 
+of the couplers is involved in an action under the Safety 
+Appliance Acts”. /d. at 98. Petitioner suggests that the 
+plain words of the Act be ignored simply because normal 
+non-defective drawbars may go out of alignment during 
+normal operations. Yet the normal efficiency of this 
+equipment is not a consideration under the Act. 
+
+
+Certain core concepts emerged from this Court’s 1949- 
+1950 trio of Section 2 cases, Carter, O'Donnell, and 
+Affolder. The statute commands a particular performance 
+of the equipment. Failure to perform as required is the 
+“actionable wrong.” All issues of negligence or fault- 
+based analysis are eliminated. The “condition”. of the 
+equipment is immaterial. It makes no difference that the 
+coupler worked perfectly before and after the occasion 
+in question; whether it was defective or not or in a bad 
+or good condition. 
+
+
+Petitioner's argument and analysis in this case fails 
+because it rejects these core concepts. It seeks excuses 
+to explain why employees must go between the cars to 
+effect a coupling by arguing that “properly set” should 
+be construed to include manual alignment between the 
+
+
+= 
+
+
+c= 
+
+
+9 
+
+
+ends of the cars. However, the term “properly set” was 
+defined by the Court in Affolder to mean only that one or 
+both of the knuckles are open—an act which can be ac- 
+complished without the necessity of the employee being 
+between the ends of the cars. The “properly set” defense 
+does not apply to adjustments between the ends of the 
+cars. This is the only possible conclusion consistent with 
+the plain language of the Safety Appliance Act and the 
+Court’s decision in Affolder. Indeed, if Petitioner’s posi- 
+tion were upheld, there would be no reason to equip cars 
+with an operating lever which opens knuckles or un- 
+couples cars from outside the cars. The same flawed 
+rationale which claims manual preparation of the draw- 
+bar between the cars is not a violation, would apply 
+equally to manual preparation of the knuckle (to couple 
+or uncouple) while between the cars. 
+
+
+It is important to remember that this Court has ruled 
+that Section 2 of the Safety Appliance Act is an absolute 
+liability statute, not a product liability statute. The de- 
+sign and operating characteristics of the coupling mech- 
+anism are deliberately left to the railroad industry. As 
+the Congressional record relating to the passage of the 
+Safety Appliance Act clearly states: 
+
+
+This bill does not require any particular kind of 
+coupler to be adopted by the railroads, except a coup- 
+ler which can be coupled and uncoupled without re- 
+quiring anybody to go between the cars. 
+
+
+24 Cong. Rec. 1280 (1893) (emphasis added). Section 
+2 mandates performance characteristics only, i.e., that 
+railcar couplers can be coupled and uncoupled without 
+requiring anyone to go between the cars. 
+
+
+Petitioner’s efforts to buttress its argument by its quo- 
+tations from Atlantic City R.R. v. Parker, 242 U.S. 56 
+(1916) and San Antonio, etc. R.R. v. Wagner, 166 S.W. 
+24, aff'd, 241 U.S. 476 (1916) are misplaced. Petitioner 
+draws a conclusion from those cases that a defect or bad 
+condition must be present in order for misalignment to 
+
+
+10 
+
+
+violate the Safety Appliance Act. Neither case so states. 
+More to the point, in Parker, the plaintiff contended that 
+“the failure of a coupler to work at any time sustains a 
+charge of negligence”. In Wagner, the entire Safety Ap- 
+pliance Act analysis is made in the context of negligence 
+and negligence per se. 
+
+
+The O'Donnell court, footnoting the Wagner decision 
+as well as several others, stated: 
+
+
+The arguments and instructions in this case, as well 
+as others, and the language of many opinions and 
+texts reflect widespread confusion as to the effect to 
+be accorded a violation of the federal safety statute. 
+[Footnote to Wagner] Part of this confusion is trace- 
+able to the diversity of judicial opinion concerning 
+the consequences attributed in negligence actions to 
+the violation of a statute. 
+
+
+O'Donnell, 388 U.S. at 389. 
+
+
+One of the principal themes of the 1949-1950 trio of 
+O'Donnell, Carter and Affolder was to wipe away all 
+forms of negligence or fault based analysis so prevalent 
+and confusing in cases such as Parker and Wagner. 
+
+
+II. THE FAILURE OF CARS TO COUPLE AUTOMATI- 
+CALLY UPON IMPACT WITHOUT THE NECES- 
+SITY OF INDIVIDUALS TO GO BETWEEN THE 
+CARS IS A VIOLATION OF SECTION 2 OF THE 
+SAFETY APPLIANCE ACT 
+
+
+Until 1991 and the decision in Reed v. Philadelphia, 
+Bethlehem & N.E.R.R., 939 F.2d 128 (3rd Cir. 1991), 
+it had been almost uniformly held that the failure of a 
+coupler to couple automatically upon impact or the need 
+to align a drawbar to make a coupling, which resulted in 
+an injury to an employee was a violation of Section 2. 
+
+
+11 
+
+
+A. A Misaligned Drawbar, Which Requires Manual 
+Adjustment Between the Cars, Violates Section 2 
+of the Safety Appliance Act 
+
+
+The early case law as to violations of Section 2 is sum- 
+marized in Kansas City S. Ry. v. Cagle, 229 F.2d 12 
+(10th Cir. 1955), cert. denied, 351 U.S. 908 (1956). 
+In Cagle, the drawbar was misaligned before any coupling 
+was attempted. Cagle was injured while attempting to 
+manually align the drawbar. The Court of Appeals 
+stated: 
+
+
+Appellant states the question in its brief to be, “Was 
+this one fact that the coupler was out of line a non- 
+compliance with the Act?” We think the answer to 
+this question must be in the affirmative. A great num- 
+ber of cases have considered the scope and effect of 
+the Coupler Provision of the Federal Safety Appli- 
+ance Act. Space prevents even a listing of all the 
+cases which have considered these provisions, let 
+alone an analysis thereof. Without exception the 
+cases have held that operating a car on which the 
+drawbar is so far out of line as to prevent automatic 
+coupling violated the Act and imposes absolute 
+liability. 
+
+
+Cagle, 229 F.2d at 14 (Emphasis added). 
+
+
+In Schaaf v. Chesapeake & Ohio Ry., 317 N.W. 2d 
+679 (Mich. Ct. App. 1982), cert. denied, 464 U.S. 848 
+(1983), a Michigan court in a ruling similar to Hiles and 
+other state court decisions stated: 
+
+
+Defendant fails to cite and our research has not dis- 
+covered any case holding that- drawbars must be 
+properly aligned before a railroad can be found 
+guilty of a violation of the Safety Appliance Act... . 
+There is a crucial distinction, however, between a 
+coupler and a drawbar. A coupler can be opened 
+and closed without the necessity of having someone 
+go between any railroad cars. A drawbar, however, 
+
+
+12 
+
+
+can only be manually by someone pushing 
+it in while s ng between the railroad cars. 
+
+
+Schaaf, 317 N.W.2d at 681. 
+
+
+In United Transportation Union v. Lewis, 711 F.2d 
+233 (D.C. Cir. 1983), this union sought an order pro- 
+hibiting the use of a “hook procedure” claiming that the 
+procedure, which required the insertion of the employee's 
+arm between the cars, violated the “without the necessity 
+of men going between the ends of the cars” phrase of 
+Section 2. The decision turned on whether the “without 
+the necessity of men going between the ends of the cars” 
+was descriptive of the equipment or whether Section 2 
+contained an independent prohibition of the act of going 
+between the cars. The court ruled the phrase was de- 
+scriptive of the equipment and “does not address oper- 
+ating procedures”. /d. at 245. Certainly, the act of 
+going between the ends of railroad cars could not be pro- 
+hibited, otherwise railroad movement would come to a 
+grinding halt since there is no other procedure for re- 
+aligning drawbars. 
+
+
+The court in Lewis explained that even though there 
+is no separate prohibition for the act of going between the 
+cars, the railroad is still liable pursuant to Section 2 for 
+injuries which result from the non-performing coupler. 
+Liability exists because if the employee must go between 
+the cars to effect a coupling then there “has been a failure 
+to provide equipment that functions as the Statute com- 
+mands”, /d. at 251. In a footnote the Lewis court em- 
+phasized: 
+
+At the same time, however, actual failure to couple 
+automatically because of a misaligned drawbar or a 
+closed coupler is sufficient to establish liability under 
+section 2. See Metcalfe v. Atchison, Topeka & 
+Santa Fe Rwy., supra, 491 F.2d at 896 and cases 
+cited therein. This is because Congress imposed on 
+railroads a duty not just to provide proper. equip- 
+ment, but also to guarantee its performance. See 
+
+
+13 
+
+
+Affolder v. New York, Chicago & St. Louis R.R., 
+339 U.S. 96, 70 S.Ct. 509, 94 L.Ed. 683 (1950); 
+Carter v. Atlanta & St. Andrews Bay R.R., 338 U.S. 
+430, 70 S.Ct. 226, 94 L.Ed. 236 (1949); Delk v. St. 
+Louis & San Francisco Ry., 220 U.S. 580, 31 S.Ct. 
+617, 55 L.Ed. 590 (191!). And FRA continues to 
+adhere to this view of the railroad’s responsibility. 
+
+
+Id. at 251, N. 39. 
+
+
+Thus while the Safety Appliance Act does not address 
+or prohibit operating procedures, it requires coupling 
+equipment that is proper and guarantees its performance. 
+Significantly, the Federal Railroad Administration, the 
+regulator of rail safety, adheres to this view of the rail- 
+road's responsibility. In short, the FRA has encouraged 
+Operating procedures which reduce injuries* and which 
+reduce the need for manual coupling between the cars. 
+But Lewis and the FRA adhere to the view that employ- 
+ees are still entitled to compensation for injuries when 
+they occur due to equipment which fails to perform as 
+required by the Act. 
+
+
+Because the drawbar misalignment here required man- 
+ual adjustment between the cars, the coupling mechanism 
+was in violation of the Act. By 1970, there was substan- 
+tial national uniformity that a misaligned drawbar was a 
+violation of Section 2 of the Act. At that point, Congress 
+reevaluated the entire scope of all Federal rail safety laws. 
+The result of that reevaluation was the Federal Railroad 
+Safety Act (“FRSA”) of 1970, codified at Title 45 U.S.C. 
+Section 421, ef seg. The committees which studied the 
+legislation discussed the existing safety statutes, including 
+the Safety Appliance Acts, and noted the effectiveness of 
+the protections afforded by the Safety Appliance Acts. 
+
+
+2 Indeed, the FRA, in UTU v. Lewis permitted the hook procedure 
+precisely because it increased the likelihood of automatic coupling 
+and decreased the need for employees to go between the cars to 
+manually adjust the drawbars; the precise activity being performed 
+by Respondent Hiles at the time of his injury. 
+
+
+14 
+
+
+Report of the Committee On Interstate And Foreign Com- 
+merce on S. 1933 To Provide for Federal Railroad Safety, 
+Hazardous Materials Control and For Other Purposes, 
+June 16, 1970, House Report No. 91-1194. The Secre- 
+tary of Transportation proposed repeal of these earlier 
+Federal rail statutes such as the Safety Appliance Acts 
+and proposed that the Department of Transportation con- 
+tinue the protection solely by rezulation under this legisla- 
+tion. (i.e. see current FRA reg ilations contained in 49 
+C.F.R.) [1970 Cong. Rec. 4109 (1970)]. In fact, there 
+are FRA regulations which relate to couplers, their com- 
+ponents, as well as many aspects of railroad operations. 
+
+
+Nevertheless, it was the decision of Congress to retain 
+the Safety Appliance Acts. The Congressional Record 
+states: “These particular laws have served well. In fact, 
+the committee chose to continue them without change.” 
+Report of the Committee On Interstate And Foreign Com- 
+merce on S. 1933 To Provide for Federal Railroad Safety, 
+Hazardous Materials Control and For Other Purposes, 
+June 16, 1970, House Report No. 91-1194, page 8 (em- 
+
+
+phasis added). 
+
+
+77 
+hes 
+
+
+(4th Cir. 1994), Kavorkian v. CSX sae Bd Inc.., 
+33 F.3d 570 (6th Cir. 1994), and Lisek v. Norfolk & 
+
+
+2. The above cases emphasize the condition of the equip- 
+ment (i.e. defects) rather than the performance of the 
+
+
+15 
+
+
+equipment. In each of those cases the existence of a bad 
+
+
+between the cars either because Section 2 does not “ad- 
+dress operating procedures” (see United Transportation 
+
+
+only. However, it is clear that Congress did not mandate 
+a specific type or design of coupler—only how it must 
+perform. Nowhere does the Record suggest that the pres- 
+
+
+16 
+
+
+equipment violates Section 2—not the employee who 
+makes the adjustment. 
+
+
+Ill. SECTION 2 OF THE SAFETY APPLIANCE ACT 
+IS VITAL TO THE RAILROAD EMPLOYEE’S 
+ABILITY TO SAFELY PERFORM HIS OR HER 
+DUTIES 
+
+
+The significant question to be asked at this time is why 
+the Court is being asked to “rewrite” an Act of Congress 
+that has successfully reduced injuries and protected the 
+rights of railroad workers for over a century. The United 
+Transportation Union, as amicus curiae, respectfully sub- 
+mits that no changes in technology, railroad operating 
+procedures, or public policy have occurred at any time 
+during the last century which would justify the change in 
+the law that has been proposed by the Petitioner in this 
+appeal. Hazardous job duties still must be done by in- 
+dividual railroad workers. 
+
+The size, weight and overall complexity of railcars and 
+trains has increased over the years. Even a slight error 
+in the movement of the equipment, or any failure of the 
+equipment to perform, can cause devastating injuries or 
+death. Every time a railroad employee is required to go 
+between two railroad cars to manually realign a drawbar 
+in order to effectuate a coupling, that employee is at risk 
+of injury or death. This is true regardless of whether the 
+cars are “stationary” at the precise moment the employee 
+goes between them, because said cars are subject to move- 
+ment at any time by simultaneous railroad operations 
+being undertaken by other railroad employees. There is 
+no way in which it can be guaranteed that railroad cars 
+which are stationary when an employee goes between them 
+to align a drawbar will remain that way for the duration 
+of the time in which the employee must be between the 
+cars to complete the task. 
+
+One of the problems of relating drawbar adjustments 
+to Congressional remarks in 1893 is this simple question: 
+Did drawbars “misalign” in 1893 and if so, was it suffi- 
+
+
+quaniag sodien of earven Sub 0 came anges Go ye 
+drawbar (i.e. cushioning devices that permit it to move 
+in and out). The simple fact is that as railroads buil 
+bigger (and more profitable ) railcars and equi 
+
+
+it 
+: 
+
+
+Brief) claim that they are unable to develop “satisfactory” 
+technology for self-centering devices that can be activated 
+without going between the cars. The AAR does not ex- 
+plain what it means by “satisfactory”. Perhaps it is too 
+expensive or it is easier to pay injured employees than 
+develop satis sctory technology. Of course, if this Court 
+agrees with Petitioner, no claims payment need be made 
+and the current manually adjusted drawbar will likely be 
+elevated to the level of a “satisfactory” technology. 
+
+The Legislative wisdom of Section 2 is that it is as 
+flexible as technology. Railroads have the freedom to 
+develop any form of coupling apparatus as long as it per- 
+forms as required by the Act. In this Court, the Petitioner 
+and AAR simply state that they cannot or will not develop 
+a coupler or drawbar which can be adjusted without 
+individuals going between the cars. 
+
+
+Thus, this Court is asked to interpret Section 2 con- 
+trary to its plain language and contrary to prior rulings 
+of this Court, and deny injured railroad workers com- 
+pensation for injuries resulting from such non-conforming 
+devices. The request is made to this Court by Petitioner 
+despite a refusal by Congress to repeal or change Section 
+2 in 1970. Petitioner’s position should be clearly rejected. 
+The health and welfare of our members and their families 
+would be seriously undermined by any other result. 
+
+
+18 
+
+
+CONCLUSION 
+
+
+On the basis of the foregoing, amicus curiae respect- 
+fully submits that the judgment of the Appellate Court 
+
+
+of Illinois in this case be affirmed. 
+
+Respectfully submitted, 
+CLINTON J. MILLER, III ROBERT E. HARRINGTON, JR. 
+General Counsel ROBERT B. THOMPSON * 
+UNITED TRANSPORTATION PATRICK J. HARRINGTON 
+
+UNION HARRINGTON, THOMPSON, 
+
+14600 Detroit Avenue ACKER & HARRINGTON, LTD. 
+Cleveland, OH 44107 310 S. Michigan Avenue 
+(216) 228-9400 Suite 2000 
+
+Chicago, IL 60604 
+
+(312) 922-8833 
+
+Counsel for Amicus 
+
+
+December 7, 1995 * Counsel of Record 
+
+

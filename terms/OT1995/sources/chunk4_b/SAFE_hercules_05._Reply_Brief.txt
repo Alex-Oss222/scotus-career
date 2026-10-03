@@ -1,0 +1,587 @@
+Wa. T. THOMPSON COMPANY, 
+
+
+Petitioners, 
+
+
+UNITED STATES OF AMERICA, 
+
+
+Respondent. 
+
+
+On Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Federal Circuit 
+
+
+PETITIONERS’ REPLY BRIEF 
+
+
+GREGORY W. HOMER JAMES S, TURNER 
+RHONDA D. ORIN ALAN DUMOFF 
+ANDERSON KILL OLICK SWANKIN & TURNER 
+& OSHINSKY 1424 16th Street, N.W. 
+
+2000 Pennsylvania Ave.,N.W. Suite 105 
+Suite 7500 Washington, D.C. 20036 
+Washington, D.C. 20006 (202) 462-8800 
+(202) 728-3100 CarTER G. PHILLIPS * 
+WALTER S. ROWLAND SIDLEY & AUSTIN 
+HERCULES INC. 1722 I Street, N.W. 
+Hercules Plaza Suite 900 
+Wilmington, Delaware 19894 Washington, D.C. 20006 
+(302) 594-5000 (202) 736-8000 
+
+Counsel for Petitioners 
+* Counsel of Record 
+
+
+WiLson - Eres Printing Co.. Inc. - 789-0096 - WasHINGTON, D.C. 20001 
+
+
+ait 
+
+
+BEST AVAILABLE COPY: 
+
+
+TABLE OF CONTENTS 
+
+
+INTRODUCTION 
+
+
+THE SPEARIN CLAIM 
+
+
+THE DEFENSE PRODUCTION ACT CLAIM 
+
+
+CONCLUSION 
+
+
+oo - 
+
+
+10 
+
+
+ii 
+TABLE OF AUTHORITIES 
+
+
+CASES Page 
+In Re “Agent Orange’ Product Liability Litiga- 
+tion, 597 F. Supp. 740 (E.D.N.Y. 1984) ............ « 6 
+In Re “Agent Orange” Product Liability Litiga- 
+tion, 818 F.2d 145 (2d Cir. 1987) 6-7 
+Alabama Metal Products, Inc. v. United States, 4 
+Cl. Ct. 580 (1984) 10 
+California-Pacifie Utilities Co., 194 Ct. Cl. at 720.. 9 
+Damanti v. a/s Inger, 314 F.2d 395 (2d Cir. 1963), 
+cert. denied, 375 U.S. 834 (1963) 5 
+Dynalectron Corp. v. United States, 4 Cl. Ct. 424 
+| SE: 10 
+Eastern Airlines, Inc. v. McDonnell Douglas Corp., 
+582 F.2d 957 (5th Cir. 1976) . 8 
+
+
+Electro-Methods, Inc. v. United States, 8 Cl. Ct. 
+
+500 (1983), aff'd in part, 728 F.2d 1471 (Fed. 
+
+Cir. 1964) ........... 10 
+Lopez v. A.C. & S., Inc., 858 F.2d 712 (Fed. Cir. 
+
+1988), cert. denied sub nom., Eagle-Picher In- 
+
+dustries v. United States, 491 US. 904 (1989)... 9-10 
+Matter of Assumption by Government of Contrac- 
+
+tor Liability to Third Persons—Reconsideration, 
+
+62 Comp. Gen. 361 ... 10 
+Space Age Engineering, Inc. v. United States, 4 
+
+Cl. Ct. 789 (1984) ................ 10 
+Tankrederiet Gefion A/S v. Hyman-Michaels Co., 
+
+406 F.2d 1039 (6th Cir. 1969) . 4-5 
+United States v. Spearin, 248 U.S. 182 (1918)-....... 2 
+
+
+STATUTES 
+Defense Production Act, Section 707, 50 U.S.C. 
+
+
+~ 
+. 
+
+
+In THE 
+Supreme Comet of the United States 
+
+
+OCTOBER TERM, 1994 
+
+
+No. 94-818 
+
+
+HERCULES INCORPORATED 
+and 
+Wo. T. THOMPSON COMPANY, 
+7 Petitioners, 
+
+
+UNITED STATES OF AMERICA, 
+Respondent. 
+
+
+On Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Federal Circuit 
+
+
+PETITIONERS’ REPLY BRIEF 
+
+
+INTRODUCTION 
+
+
+From the moment petitioners were ordered to produce 
+Agent Orange subject to the enforcement provisions of the 
+Defense Production Act, the damages suffered by these 
+manufacturers were inescapable. While the government 
+would like to pretend otherwise, the following facts must 
+be accepted as true at this stage in the litigation: 
+
+
+(1) pursuant to its authority under the Defense 
+Production Act, the government compelled petition- 
+ers Wm. T. Thomspon Company (“Thompson”) 
+and Hercules Incorporated (“Hercules”) to manu- 
+
+
+2 
+
+
+facture Agent Orange in accordance with specifica- 
+tions devised by the government; 
+
+
+(2) the government, but not petitioners, knew that 
+Agent Orange manufactured according to the gov- 
+ernment’s specifications was potentially dangerous; 
+
+
+(3) the government’s use of Agent Orange in Viet- 
+nam led to petitioners being sued in tort by a class 
+of individuals allegedly harmed by exposure to 
+Agent Orange; 
+
+
+(4) Thompson and Hercules entered into a reason- 
+able settlement of these tort claims on the eve of a 
+trial where they faced enormous potential liability, 
+and did so only after petitioners had attempted with- 
+out success to have the case dismissed prior to trial 
+on the basis of what eventually came to be known 
+as the government contractor defense; and 
+
+
+(5) had Thompson and Hercules followed the 
+course suggested by the government, rejected settle- 
+ment and faced enormous potential liability at trial, 
+the best that could have occurred was that liability 
+to the Agent Orange class would have been avoided, 
+but the companies still would have faced legal fees 
+of a magnitude comparable to the amounts that peti- 
+tioners paid out in settlement. 
+
+
+On this set of facts, the court of appeals held that, as a 
+matter of law, petitioners had no remedy against the gov- 
+ernment. 
+
+
+Two issues arising from the court of appeals’ ruling are 
+the subject of this petition: first, whether the government 
+can use the government contractor defense to tort claims 
+to bar breach of contract claims against the United States 
+that otherwise would be permissible under United States 
+v. Spearin, 248 U.S. 132 (1918); and, second, whether 
+the plain language of the Defense Production Act requires 
+the United States to reimburse petitioners for the damages 
+they suffered as a consequence of being compelled to 
+manufacture Agent Orange. The government’s opposition 
+
+
+3 
+
+
+to the petition consists largely of arguments for disposing 
+of petitioners’ contract claims on alternative grounds, 
+grounds upon which the court of appeals expressly de- 
+clined to rely. To the extent that the government defends 
+the court of appeals’ actual resolution of the first issue 
+posed above, the government’s argument actually supports 
+granting the petition. The government’s argument on the 
+second issue is a non sequitur and provides no reasoned 
+basis for opposing the petition. 
+
+
+In contrast, petitioners have already demonstrated the 
+generalized importance of having these two issues decided 
+by this Court. Indeed, the need for this Court’s review in 
+this case has now been seconded by the United States 
+Chamber of Commerce which has filed an amicus brief 
+urging that the petition be granted. 
+
+
+THE SPEARIN CLAIM 
+
+
+[Supreme Court procedural metadata omitted from this copy.]
+
+
+In opposing the petition, the government itself finds 
+little that is defensible in the holding of the court of ap- 
+peals. Instead, the government seeks to rely on alterna- 
+tive grounds to dispose of petitioners’ Spearin claim, 
+grounds which the court of appeals expressly declined to 
+
+
+4 
+
+
+rely on as a basis for its decision.’ It is wholly inappro- 
+priate for the government to urge that review be denied 
+in this case on grounds the court of appeals rejected. 
+The United States urged the causation theory which the 
+court of appeals adopted below and the United States 
+should defend that holding now. 
+
+
+What little the government does say in defense of the 
+court of appeals’ actual ruling on the Spearin claim bol- 
+sters the case for granting the petition. The government’s 
+argument highlights the split in the circuits as to whether 
+“actual liability” to third parties must be demonstrated 
+before recovery may be had on a breach of warranty 
+claim, or whether “potential liability” is sufficient. 
+
+
+The government contends that the court of appeals’ 
+resolution of the Spearin claim could be upheld on the 
+grounds that such a claim would require not merely a 
+showing of “potential liability” to the third-party tort 
+plaintiffs as petitioners urge, but would necessitate a dem- 
+onstration of “actual liability” in tort to the Agent 
+Orange plaintiffs. Op. Cert. at pp. 19-20 (emphasis in 
+original). In making this argument, the government cites 
+to Tankrederiet Gefion A/S v. Hyman-Michaels Co., 406 
+
+
+[Supreme Court procedural metadata omitted from this copy.]
+
+
+F.2d 1039, 1042 (6th Cir. 1969), as adopting a “general 
+rule” requiring a showing of actual liability. What the 
+government flatly ignores is that at least one other circuit 
+has rejected this approach and has held that potential 
+liability is sufficient, even where a jury subsequently makes 
+findings which establish that no actual liability existed. 
+Damanti v. a/s Inger, 314 F.2d 395 (2d Cir. 1963), cert. 
+denied, 375 U.S. 834 (1963). The existence of this split 
+in the circuits on this fundamental question of third party 
+liability when applied in the government contracts context 
+is a powerful reason for this court to grant the petition.” 
+
+
+Most of what remains of the government’s argument in 
+support of the court of appeals’ resolution of the Spearin 
+claim consists of an effort to demonstrate that the under- 
+lying settlement in the Agent Orange litigation was not 
+reasonable. Indeed, the government goes so far as to 
+make the conclusory pronouncement that “petitioners’ set- 
+tlement could not have been ‘reasonable.’” Op. Cert. at 
+20. Such a contention flies in the face of the government’s 
+admissions that the government contractor defense is “fac- 
+tual” in nature and that the government actively opposed 
+petitioners’ efforts to rely on this defense in the Agent 
+Orange litigation. Op. Cert. at p. 4, note 2. 
+
+
+While it is true that, without the benefits of any fact 
+finding, the Federal Circuit impliedly held that the Agent 
+
+
+2The government also argues that the theory underlying peti- 
+tioners’ Spearin claims would “cede to government contractors the 
+power to create indirect governmental liability to tort plaintiffs,” 
+and would “encourage military contractors to settle meritless prod- 
+uct liability suits and then seek to recover the related costs through 
+breach of contract claims.” Op. Cert. at p. 18. While this argu- 
+ment merely begs the larger question as to who should pay for 
+the costs that undeniably were associated with the compelled pro- 
+duction of Agent Orange, it does serve to illustrate the important 
+ramifications of how that question ultimately is answered. In 
+point of fact, the Court of Appeals’ interpretation of the Spearin 
+doctrine results in a radical restructuring of the relationship 
+between the government and its contractors which warrants the 
+attention of this Court. 
+
+
+6 
+
+
+Orange settlement was unreasonable, this only exposes 
+the fundamental error in the decision below. In particu- 
+lar, the Agent Orange settlement already has been de- 
+clared reasonable and that finding is not subject to at- 
+tack in petitioners’ suit for breach of warranty. Judge 
+Weinstein issued a 159-page opinion assessing the reason- 
+ableness of the settlement. In Re “Agent Orange” Product 
+Liability Litigation, 597 F. Supp. 740 (E.D.N.Y. 1984). 
+He concluded as follows: 
+
+
+From the defendants’ point of view the settlement is 
+reasonable: First, defending the case would have 
+cost more tens of millions of dollars in legal fees 
+and expenses plus the time of employees and execu- 
+tives who could be doing more productive work. 
+Second, though slight, there was a possibility of an 
+ultimate liability with claims totalling billions of 
+dollars. Third, an ongoing emotional trial would 
+have created adverse publicity (whether or not un- 
+fair), perhaps causing a spillover effect against de- 
+fendants’ other products. Fourth, continued litiga- 
+tion and the possibility of an adverse result has a 
+negative influence on the financial community, caus- 
+ing greater financing expenses as the companies be- 
+come less attractive to investors. 
+
+
+Id. at 857. 
+
+
+The Agent Orange settlement was also approved as rea- 
+sonable at the appellate level in Jn Re “Agent Orange” 
+Product Liability Litigation, 818 F.2d 145 (2d Cir. 
+1987): 
+
+
+[G]iven the serious nature of many of the various 
+ailments and birth defects plaintiffs’ attributed to 
+Agent Orange, the understandable sympathy a jury 
+would have for the particular plaintiffs, and the large 
+number of claimants, 240,000 . . . [the manufac- 
+turers of Agent Orange] were exposed potentially to 
+billions of dollars in damages if liability was estab- 
+lished and millions in attorneys’ fees merely to con- 
+tinue the litigation . . . tort law accords juries wide 
+
+
+7 
+
+
+discretion, and the existence of any substantial num- 
+ber of serious plaintiffs would create a dangerous 
+exposure for the chemical companies. 
+
+Id. at 151. 
+
+
+Finally, the government contends that the elements of 
+the government contractor defense and the Spearin claim 
+are co-extensive, and argues that one oe « able to 
+meet their burden under Spearin here, then they could 
+have met the terms of the defense in the underlying tort 
+case. The government's fascile logic disguises what is in 
+reality yet another attempt to challenge the reasonableness 
+of the underlying settlement in the Agent Orange litiga- 
+tion. Moreover, while the government argues that the 
+government contract defense and the Spearin claim are 
+“carefully calibrated” to protect innocent suppliers (Op. 
+Cert. at 19 n.10), there exists no exposition by this Court 
+of that calibration.* The question is how to apportion 
+liability when an innocent contractor is injured as a result 
+of the government’s actions in compelling production of a 
+potentially dangerous product. Given the interests at the 
+heart of these doctrines, the answer should be an inquiry 
+into fault. Where the fault is the United States’, then 
+liability should rest there as well. 
+
+
+THE DEFENSE PRODUCTION ACT CLAIM 
+
+
+The Defense Production Act (“DPA” or “Act”), under 
+whose authority Hercules and Thompson were compelled 
+to manufacture Agent Orange, contains a hold harmless 
+provision indemnifying manufacturers from liability “for 
+damages or penalties for any act . . . resulting directly or 
+indirectly from compliance with a rule, regulation, or 
+order issued pursuant to this Act .. .” DPA Section 707, 
+50 U.S.C. § 2157. The plain language of Section 707 
+
+
+8 Moreover, this “careful calibration” certainly did not exist in 
+1984 when the Agent Orange litigation was settled; it could not 
+and did not work in this case, leaving petitioners with liability 
+so significant that it forced Thompson out of business. 
+
+
+8 
+
+
+creates a quid pro quo immunizing manufacturers from 
+liability for the conduct they are compelled to perform 
+under the Act. See Brief Amicus Curiae of the Chamber 
+of Commerce of the United States of America, at p. 9. 
+
+
+[Supreme Court procedural metadata omitted from this copy.]
+
+
+[Supreme Court procedural metadata omitted from this copy.]
+
+
+The United States also suggests that the “notwithstanding” 
+clause in the first sentence of Section 707 creates “an even more 
+limited construction.” Op. Cert. at 22 n.12. This language reveals 
+quite the opposite, as this clause confers immunities: “notwith- 
+standing that any such rule, regulation or order shall thereafter 
+be declared by judicial or other competent authority to be invalid.” 
+The scope of this hold harmless provision is so sweeping that even 
+damages arising from orders held invalid are subject to the protec- 
+tions of Section 707. Eastern Airlines, Inc. v. McDonnell Douglas 
+Corp., 532 F.2d 957, 997 (6th Cir. 1976). 
+
+
+9 
+
+
+The language of the DPA is extremely clear that the 
+scope of damages sought to be protected is all-inclusive. 
+Congress sought to protect manufacturers compelled to 
+perform contracts in emphatic language that “[n]o person 
+shall be held liable” for demages resulting “directly or 
+indirectly” from such compulsion. 50 U.S.C. § 2157. 
+Where compulsion is used to require a private manu- 
+facturer to turn production facilities to Government use, 
+Congress clearly intended that no harm befall the “com- 
+pany as a result. See Brief Amicus Curiae of the Chamber 
+of Commerce of the United States of America, at p. 10. 
+That is not the case here.* 
+
+
+The United States questions whether the indemnity pro- 
+visions of the DPA could lead to an implied-in-fact agree- 
+ment to indemnify.* Petitioner argued below the Govern- 
+
+
+5 The clear breadth of this proscription against liability also pro- 
+vides support for petitioners’ Spearin argument. Where the gov- 
+ernment contractor defense and the Spearin claim act in concert, 
+an innocent manufacturer should be protected. Where they fail to 
+act in concert, as happened in the underlying case here, the ques- 
+tion arises as to whether the United States or the manufacturer 
+should bear the liubility. Petitioners argue above that fault should 
+provide the answer. Congressional intent in enacting the DPA 
+also supports the government’s liability in this case. 
+
+
+6 The United States also argues that even were the scope of the 
+Act to be seen as providing indemnity to petitioners, the Anti- 
+Deficiency Act would prohibit such a finding. The purpose of the 
+Anti-Deficiency Act is to keep an agent or officer of the Government 
+from binding the United States to a contractual provision which 
+would create a liability which is open-ended or otherwise in excess 
+of what Congress appropriated for the matter. California-Pacific 
+Utilities Co., 194 Ct. Cl. at 720. If the contract officer had writ- 
+ten an indemnity provision under which petitioners now have 
+brought an action, then the Anti-Deficiency Act might apply. An 
+implied-in-fact indemnity, just as an implied-in-fact warranty, is 
+a judicially fashioned remedy which acknowledges the context in 
+which a contract arose. As such, it stems from the powers of the 
+court rather than from a contract officer. The courts, therefore, 
+have authority to enforce such an indemnity without being subject 
+to the Anti-Deficiency Act. See Lopez v. A.C. & S., Inc., 858 F.2d 
+
+
+10 
+
+
+ment’s 1) compulsion, 2) control over both specifications 
+and production, 3) prohibition against labeling and warn- 
+ing, 4) the “hold harmless” provision of the Defense Pro- 
+duction Act, 50 U.S.C. § 2157, under which the compul- 
+sion was brought, and 5) use of a manufacturer to its 
+detriment create a factual context which gives rise to an 
+implied-in-fact agreement to indemnify. As noted in 
+Space Age Engineering, Inc. v. United States, 4 Cl. Ct. 
+739, 742 (1984): 
+
+
+This court cannot redress the violation of a statute 
+or regulation which creates no enforceable rights, 
+(citations omitted), but a plaintiff may rely on the 
+violation of a statute or regulation to show its 
+implied contract for fair consideration has been 
+breached. Dynalectron Corp. v. United States, 4 Cl. 
+Ct. 424, 428 (1984); see also Alabama Metal Prod- 
+ucts, Inc. v. United States, 4 Cl. Ct. 530, 534 
+(1984); Electro-Methods, Inc. v. United States, 3 
+Cl. Ct. 500, 508 (1983), aff'd in part, 728 F.2d 
+1471 at 1475 (Fed. Cir. 1984). 
+
+
+In sum, the government provides no reason why this 
+Court should not determine the breadth of the immunity 
+conferred under the Defense Production Act. 
+
+
+CONCLUSION 
+
+
+[Supreme Court procedural metadata omitted from this copy.]
+
+
+712, 716 (Fed. Cir. 1988), cert. denied sub nom, Eagle-Picher 
+Industries v. United States, 491 U.S. 904 (1989). Additionally, 
+were Deficiency Act held to apply, indemnification would not be 
+barred because of exceptions for hazardous activities and for 
+compelled production. See Matter of Assumption by Government 
+of Contractor Liability to Third Persons-Reconsideration, 62 Comp. 
+Gen. 361 at 365. 
+
+
+Respectfully submitted, 
+
+
+GREGORY W. HOMER JAMES S. TURNER 
+RHONDA D. ORIN ALAN DUMOFF 
+ANDERSON KILL OLICK SWANKIN & TURNER 
+& OSHINSKY 1424 16th Street, N.W. 
+
+2000 Pennsylvania Ave.,N.W. Suite 105 
+Suite 7500 Washington, D.C. 20086 
+Washington, D.C. 20006 (202) 462-8800 
+(202) 728-8100 CARTER G. PHILLIPS * 
+WALTER S. ROWLAND SIDLEY & AUSTIN 
+HERCULES INC. 1722 I Street, N.W. 
+Hercules Plaza Suite 900 
+Wilmington, Delaware 19894 Washington, D.C. 20006 
+(302) 594-5000 (202) 736-8000 
+
+Counsel for Petitioners 
+* Counsel of Record 
+
+
+Dated: March 15, 1995 
+
+

@@ -1,0 +1,1473 @@
+| Court, U.S. 
+y FILED 
+AY 23 1995 
+No. 94-1809 
+7 CLERK 
+IN THE 
+
+
+SUPREME COURT OF THE UNITED-STATES 
+OCTOBER TERM, 1994 
+
+
+MATSUSHITA ELECTRICAL INDUSTRIAL CO., LTD. 
+AND MATSUSHITA HOLDING CORPORATION, 
+
+
+Petitioners, 
+
+
+v. 
+LAWRENCE EPSTEIN, et al., 
+
+
+Respondents. 
+
+
+MATSUSHITA ELECTRICAL INDUSTRIAL CO., LTD. 
+AND MATSUSHITA HOLDING CORPORATION, 
+
+
+Petitioners, 
+
+
+v. 
+WALTER MINTON, 
+
+
+Respondents. 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI TO 
+THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+EPSTEIN BRIEF IN OPPOSITION 
+
+
+Henry P. Monaghan ROGER W. KIRBY 
+
+435 West 116th Street Counsel of Record 
+
+New York, New York 10027 IRVING MALCHMAN 
+
+(212) 854-2644 KAUFMAN MALCHMAN KIRBY 
+& SQUIRE. LLP 
+
+
+919 Third Avenue 
+New York, New York 10022 
+(212) 371-6600 
+
+
+Attorneys for Epstein Respondents 
+
+
+QUESTIONS PRESENTED 
+
+
+Section 14(d)(7) of the 1934 Exchange 
+Act (added by the "Williams Act") and SEC rule 14d-10 
+promulgated thereunder, the so-called “all-holders, best- 
+price rule", require (unlike Delaware law) shareholder 
+equality “during [a] tender offer." The Ninth Circuit held, 
+inter alia, that a special stock arrangement between 
+Matsushita and Lew Wasserman, MCA’s chairman and 
+owner of 5 million shares of its common stock, violated 
+that rule. In a series of interlocutory orders, did the court 
+below err in 
+
+
+(i) concluding that the complex and unique 
+Wasserman transaction occurred "during" a 
+tender offer; 
+
+
+(ii) in agreeing with the Second and Third 
+Circuits that section 14(d)(7) created an 
+implied right of action, a point that 
+petitioners had in fact expressly conceded in 
+the court of appeals; 
+
+
+(iii) following limits on settlement authority 
+announced in both the Second and Third 
+Circuits, and then refusing to give preclusive 
+effect to a completely non-adversaria! 
+Delaware "settlement" release of causes of 
+action when (a) the sole purpose of the 
+
+
+ll 
+"settlement" was to extinguish 144-10 claims 
+in a pending federal appeal, claims over 
+which the federal courts have excusive 
+jurisdiction; and (b) the 14d-10 chim does 
+not overlap (either as to matters of fact or of 
+law) with any of the state law causes of 
+action; 
+
+
+(iv) in refusing to give preclusiv: effect to 
+a completely non-adversarial Delaware 
+"settlement", the sole purpose of which was 
+to extinguish the 14d-10 claims, n the 
+context of settling state law cause of action 
+that over a year and one half earler the state 
+court had characterized to be "at best, 
+extremely weak" and in which Delaware 
+petitioners’ counsel had charactenzed the 
+14d-10 claims as frivolous, and in the 
+context of a settlement that the court 
+acknowledged to give "meager" benefits to 
+the class and in which "suspicion of 
+collusion" abounds? 
+
+
+TABLE OF CONTENTS 
+
+
+QUESTIONS PRESENTED ................ 
+
+
+TABLE OF CONTENTS 
+
+
+>See &eee 8 8 8 62 6 @ & 2 2 2 & 
+
+
+A. WASSERMAN TRANSACTION .. . 
+
+
+B. IMPLIED RIGHT OF ACTION 
+
+
+2. State Court Releases ........ 
+3. The Actual Holding .. 
+
+
+CONCLUSION .......... 
+
+
+Vv 
+
+
+iv 
+TABLE OF AUTHORITIES Kahn v. Virginia Retirement System, 
+13 F.3d 110 (4th Cir. 1993), cert. denied. 
+CASES 114 S.Ct. 1834 (1994) ....... 000, 
+
+
+Brotherhood of Loc. Fire & Eng. v. 
+
+
+Bangor & A.R. Co., 389 U.S. 327 (1967) .. 3 
+Kremer v. Chemical Constr. Corp.., 
+
+
+Central Bank v. First Interstate Bank, 456 U.S. 461 (1982) ............... 
+
+
+114 S. Ct. 1439 (1994) .. 1... ees 2 
+
+
+Chen Zhou Chai v. Carroll, Layne & Bowler Corp. v. Western Wells Works, 
+
+
+48 F.3d 1331 (4th Cir. 1995) .......... 14 261 U.S. 387 (1923) ............... 
+Durfee v. Duke, In Re General Motors Corporation 
+
+375 U.S. 106 (1963) .......... ety 24 Pick-Up Truck Fuel Tank Products 
+
+Liability Litigation, F.3d __, 
+
+Epstein v. MCA, 1995 U.S. App. LEXIS 8815 
+
+50 F.3d 644 (9th Cir. 1995) ........... passim (3d Cir. April 17, 1995) ............. 
+Field v. Trump, In re MCA, Inc. Shareholder Litig. , 
+
+850 F.2d 938 (2d Cir. 1988), 598 A.2d 687 (Del. Ch. 1991) ......... 
+
+cert. denied, 489 U.S. 1012 (1989) ...... 7, 
+
+13 Marrese v. American Academy of Orthopaedic 
+
+
+Surgeons, 470 U.S. 373 (1985) ........ 
+Grimes v. Vitalink Communications Corp., 
+
+
+17 F.3d 1553 (3d Cir.), cert. denied, National SuperSpuds, Inc. v. New York 
+
+
+ii Pe cies bane 15, Mercantile Exchange, 660 F.2d 9 
+24. ee 
+27, 
+28 
+Hansberry v. Lee, Northwest Airlines, Inc. v. County of Kent, 
+
+
+311 U.S. 32 (1940) ww ee eee 
+
+
+So eee eee eee 
+
+
+vii 
+
+
+vi 
+Nottingham Partners v. Trans-Lux Corp., Thompson v. Thompson, 
+925 F.2d 29 (Ist Cir. 1991) ........... 15, 484 U.S. 174(1988) ............... 
+24 
+United States Parole Commission v. Geraghty, 
+Parsons Steel, Inc. v. First Alabama Bank, 445 U.S. 388 (1980) ............ 
+474 U.S. 518 (1986) ............--. 23, - 
+24 Virginia Bankshares, Inc. v. Sandberg, 
+Phillips Petroleum Co. v. Shutts, 501 U.S. 1083 (1991) ............, 
+472 U.S. 797 (1985) ....... 22.0005. 21 ta 
+STATUTES 
+Plaut v. Spendthrift Farms, 
+__ $.Ct. __, 131 L.Ed. 2d 328 RS! | 
+(April 18, 1995) .............00.. 28 
+ee 
+Polaroid Corp. v. Disney, a: 
+862 F.2d 987 (3d Cir. 1988). ......... 13, PN MIEN TI ov wiui-o'o wuiee ee c ccele 
+14 
+SEC Rule 10b-5, 17 C.F.R. §240.10b-5 ___ 
+Prezant v. De Angelis, } 
+636 A.2d 915 (Del. Supr. 1994) ........ 22 SEC Rule 10b-13, 17 C.F.R. §240.10b-13 __ . 
+Priddy v. Edelman, SEC Rule 144-10, 17 C.F.R. §240.14d-10 
+679 F. Supp. 1425 (E.D. Mich. 1988), 
+aff'd on other grounds, Securities Exchange Act §10(b), 
+883 F.2d 438 (6th Cir. 1989) .......... 14 15 U.S.C. §78j(b) 2... 
+Pryor v. United States Steel Corp.., | Securities Exchange Act §14(d)(6), 
+15 U.S.C. §78n(d(6) ... 2... 
+
+
+794 F.2d 52 (2d Cir.), cert. denied, 
+/ 3 8 Bf eer 13 a 
+Securities Exchange Act §14(d)(7), 
+
+
+Supreme Tribe of Ben Hur v. Cauble, 1S U.S.C. §78n(d(7) .. 
+255 U.S. 356 (1921) .......-...00. 23 
+
+
+viii 
+MISCELLANEOUS 
+
+
+1 Newberg and Conte, Newberg on Class Actions 
+§1.09. (3d ed. 1992) ....-- eee eres 
+
+
+P. Bator, et al., Hart and Wechsler’s The 
+Federal Courts and the Federal System 
+) 
+
+
+John C. Coffee, Jr., Suspect Settlements 
+in Securities Litigation, 
+New York Law Journal, 
+March 28, 1991, at5, col. 1 .....-.++-+- 
+
+
+R. Stern, E. Gressman, S. Shapiro & K. Geller, 
+Supreme Court Practice (7th ed. 1993) 
+
+
+PRE Pee TT 
+
+
+23 
+
+
+24 
+
+
+awn~~ 
+
+
+INTRODUCTION 
+
+
+This petition arises out of Matsushita Electrical 
+Co. Ltd. and its subsidiaries’ ("Matsushita") $6.1 billion 
+dollar acquisition of the common stock of MCA, Inc. 
+("MCA"). The class complaint charged that Matsushita's 
+public tender offer violated federal securities laws because 
+of (a) a special stock swap arrangement that was provided 
+to Lew Wasserman, MCA’s chairman and chief executive 
+officer, and (b), a $21,000,000 bonus paid to Sidney 
+Sheinberg, its chief operating officer and owner of 
+1,170,000 shares (ER 100:3).' These arrangements were 
+alleged to have violated two SEC rules that enforce section 
+14(d)(7) of the Exchange Act: rule 14d-10, the so-called 
+“all-holders, best-price" requirement, because “during [a] 
+tender offer" Matsushita provided higher consideration to 
+Wasserman and Sheinberg, and "in a tender offer" also 
+offered consideration not open to all stockholders; and rule 
+10b-13, because they resulted in Matsushita’s illegal 
+purchase of shares during the tender offer period (ER 
+100:2, 17-18). Expressly designed to reject Delaware 
+corporation law, rule 144-10 prohibits premium payments 
+("App.") 36a n. 31. 
+
+
+' References to “ER” are to the Epstein Plaintiffs’ Excerpts of 
+Record, submitted to the U.S. Court of Appeals for the Ninth Circuit. 
+Citations are by docket control number, followed by exhibit number 
+and page number, if appropriate, as follows: “Docket Number: Page 
+Number” or “Docket Number/Exhibit Number: Page Number”. 
+Passages within the reporter's transcript are included within the 
+Excerpts of Record and are referred to as “RT” along with the date of 
+the hearing and a citation to the exact number of the page being 
+referenced, as follows: “ER RT Date of Hearing: Page Number.” 
+
+
+2 
+
+
+The district court dismissed both a securities class 
+action ("Epstein") and an individual complaint ("Minton"). 
+In major part, the court of appeals reversed. Epstein v. 
+MCA, Inc., to be reported at 50 F.3d 644 (9th Cir. 1995); 
+App. la. On the basis of this Court's intervening decision 
+in Central Bank v. First Interstate Bank, 114 S. Ct. 1439 
+(1994), the court did affirm dismissal of the Epstein 
+complaint’s "aider and abetter" claims against Wasserman 
+and Sheinberg individually. App. 4a n.7. However, the 
+court held that on the undisputed facts the Matsushita/ 
+Wasserman transaction violated 14d-10, App. 1la-20a, and 
+that a jury could so find with respect to a $21,000,000 
+"bonus" received by Sheinberg. App. 20a-23a. Since 
+14d-10 could provide all the relief to which plaintiffs are 
+entitled, the court declined to address the 10b-13 claims. 
+App. 3a n.5. The court also held that a Delaware state 
+court "settlement", the sole purpose of which was to 
+release the 14d-10 claims, did not bar the federal action. 
+App. 24a-40a. The court, accordingly, ordered entry of a 
+summary judgment on the Wasserman stock payment and 
+remanded for determination of damages "if any" on that 
+finding; ordered that a class be certified; instructed the 
+district court to consider further amendments to the 
+complaint; and remanded for further proceedings consistent 
+with its opinion. A petition for rehearing (raising precisely 
+the same issues as the petition here) was denied. A 
+suggestion for rehearing en banc was rejected, none of the 
+court’s 26 active judges having called for a vote. 
+
+App. 62a. 
+
+
+“ 
+
+
+3 
+
+
+This petition provides no issue appropriate for this 
+court’s review. There is no final judgment, and this court 
+rarely grants review of interlocutory orders. E. g., 
+Brotherhood of Loc. Fire & Eng. v. Bangor & A.R. Co. 
+389 U.S. 327, 328 (1967); Stern, et al., Supreme Coun 
+Practice §4.18 (7th ed. 1993) ("Stern").?- No reason 
+exists to depart from settled practice here. Further 
+proceedings may moot or reshape some of the issues 
+raised. More important, petitioners will have the 
+Opportunity to raise these issues after a final judgment. 
+
+
+Finally, none of the claims presented is independently 
+"cert-worthy." 
+
+
+First. The theory of the complaint, sustained by 
+the court below, was that the interlocking of the 
+Wasserman transaction with the public tender offer plainly 
+made the Wasserman transaction part and parcel of the 
+tender offer. Whether the unique and complex Wasserman 
+transaction was "during" and "in" the "tender offer" is a 
+fact-intensive issue whose contours fit this transaction 
+only. No issue of general importance is presented. What 
+is more, wholly apart from the Wasserman holding, a 
+14d-10 trial would still be necessary because of the court’s 
+remand for trial on the "Sheinberg" transaction -- a matter 
+scarcely mentioned in the petition (p. 22, n. 19). 
+
+App. 23a. 
+
+
+2 . 
+Stern, Gressman, Shapiro & Geller, Supreme Court Practice 
+
+
+(7th ed. 1993). 
+
+
+4 
+
+
+Second. In holding that an implied right of action 
+existed under section 14(d)(7) to enforce rule 14d-10, the 
+court below hewed closely to this court’s precedents. The 
+court agreed with recent decisions in the Second and Third 
+Circuits, decisions not even mentioned by petitioners. 
+Moreover, in the court below petitioners affirmatively 
+represented that such a right existed. 
+
+
+Third. In their effort to create a "cert-worthy" 
+issue out of the court’s refusal to permit a Delaware 
+settlement to bar this federal action, petitioners egregiously 
+misstate the holding below. The court did not deny 
+preclusive effect to the Delaware proceeding because of 
+some general "‘policy’ requiring that exclusively federal 
+claims be resolved by settlement only in a federal court" 
+(Pet. at 2). The court said very nearly the opposite. The 
+court was willing to assume that a Delaware release/ 
+judgment would be effective to bar federal claims that 
+were simply counterparts to the state law claims, even 
+though jurisdiction of 1934 Act claims is exclusively in the 
+federal courts. (For example, rule 10b-5 claims have their 
+counterpart in common law fraud. ) Following a distinction 
+drawn by Judge Friendly in the Second Circuit and 
+recently recognized in the Third Circuit, the court held, 
+however, that 28 U.S.C. §1738 did not require that 
+preclusive effect be given to a " settlement” of state law 
+claims that also purported to release federal claims, when, 
+
+
+5 
+
+
+as here, the federal claims do not overlap (in law or in 
+fact) with any of the compromised state causes of action.? 
+
+
+The court below thus did not reach respondents’ 
+alternative argument: that the Delaware proceeding was 
+constitutionally defective because of the manifestly 
+inadequate class representation. In the context of 
+"settling" state law claims that one year and a half earlier 
+the state court (in rejecting another settlement) had held to 
+be, "at best, extremely weak and, therefore, [of] little or 
+no value", and in the context of a current "settlement" 
+which the court acknowledged provided "meager" benefits 
+and which was enveloped by a "suspicion of collusion" 
+Delaware Class representatives purported to release 
+petitioners’ potentially "multi-billion dollar liability" (pet. 
+at 25) federal claims they had earlier branded as 
+"frivolous", claims that they had no incentive to and did 
+
+
+not protect. A sell out, not a settlement, occurred in 
+Delaware. 
+
+
+* Delaware law does not prohibit premiums to dominant 
+
+
+shareholders when they transfer shares that carry with them control of 
+perboe setanin Rule 14d-10 was designed to reject that rule, when 
+ederally regulated tender offers are the means by which shares are 
+=. Petitioners conceded absence of such an overlap in the court 
+= Matsushita makes no attempt to argue that any of the 
+
+faite the poms Share any predicate in common with the state law 
+claims that formed the basis of the Delaware class action”. App. 35a. 
+
+
+6 
+REASONS FOR DENYING THE WRIT 
+
+
+A. WASSERMAN TRANSACTION 
+
+
+Petitioners nowhere deny that rule 14d-10, the 
+"all-holders, best-price rule," requires shareholder equality 
+"during [a] tender offer." The court below held that, on 
+the undisputed facts, the Wasserman stock purchase 
+transaction occurred during such an offer. Petitioners 
+assert that this holding conflicts with the Fourth Circuit’s 
+decision in Kahn*, which the court below had carefully 
+considered and harmonized. App. 19a. The alleged 
+"conflict" is non-existent, and the claim is designed to 
+mask what the petition really invites: this court’s review 
+of the application of settled legal principles to a fact- 
+intensive, complex, and unique set of events. Rare indeed 
+
+
+* Kahn v. Virginia Retirement System, 13 F.3d 110 (4th Cir. 
+1993), cert. denied, 114 S.Ct. 1834 (1994). Petitioner’s appendix 
+includes documents related to the Kahn transaction. These documents 
+were not before any court below. We will, however, not now clutter 
+the record with a motion to strike. Suffice it to say that those 
+documents are not properly part of the record here. Stern, supra, 
+§12.4. 
+
+
+Even as amplified by these materials entirely outside the 
+record, however, there is no conflict: the “private” purchase in Kahn 
+did not tie the price to changes in the tender offer price or give the 
+“private seller” the right to prohibit payment to others until the private 
+purchaser was paid. Finally, even if the court below misunderstood 
+the facts of the Kahn transaction (rather than the legal rule) that would 
+raise no issue of general importance. Certiorari surely is not 
+appropriate to review not the legal rule but two facts-specific takeover 
+arrangements. 
+
+
+7 
+
+
+are the occasions in which certiorari has issued for such 
+purposes. Stern, supra, at §4.14. Since no issue of 
+general public importance -- none whatever -- is raised, 
+certiorari is inappropriate. Layne & Bowler Corp. v. 
+Western Wells Works, 261 U.S. 387, 393 (1923); Stern, 
+§4.11. 
+
+
+Petitioners’ attempt to inflate the court’s ruling on 
+what petitioners themselves acknowledge to be a unique 
+transaction into a fundamental threat to the integrity of the 
+tender offer mechanism is preposterous. Contrary to the 
+claim that the court’s decision created uncertainty, it 
+removed it. The opinion makes clear what is included 
+"during [a] tender offer" and what is not. App. 18a-19a. 
+In so doing, the court did no more than apply the doctrine 
+set out in Judge Winter’s careful opinion in Field v. 
+Trump, 850 F.2d 938, 944 (2d Cir. 1988), cert. denied, 
+489 U.S. 1012 (1989) (App. 17a-18a), a decision not even 
+mentioned in the petition. Petitioners cite not a single 
+tender offer that would have been or will be threatened by 
+this judgment. 
+
+
+The court’s decision was plainly correct on the 
+merits. The structure of the Matsushita~MCA transaction 
+was a transparent violation of rule 14d-10(c). The rule 
+requires that where a tender offerer employs more than 
+one kind of consideration, for example, cash and 
+securities, each shareholder must be allowed the same right 
+to choose among the options offered. That right, in turn, 
+protects the right to receive equal value for one’s shares, 
+
+
+8 
+
+
+and it avoids complex valuation arguments as to whether a 
+particular amount of cash is worth more or less than some 
+new security. Thus, Matsushita could not legally offer 
+Wasserman preferred shares’ and other shareholders cash. 
+To avoid the rule’s prohibition, Matsushita executed an 
+agreement with Wasserman a few minutes before the 
+signing of the public tender offer documents, agreeing to 
+provide the preferred stock in exchange for MCA shares, 
+the side deal to close a few moments after the public had 
+surrendered its shares of MCA, and only if the tender 
+offer attracted sufficient shares. The deal was wholly 
+conditional on the tender offer and its documents: Any 
+delay in the tender offer automatically extended the time 
+for closing the Wasserman deal. Any breach of condition 
+cancelling the tender offer, cancelled the Wasserman offer. 
+If there were any increases in price -- if the hoped-for (by 
+Wasserman) bidding war broke out for MCA (as had 
+happened with Time Warner), and Matsushita raised its 
+price, Wasserman got the benefit. Indeed, Matsushita 
+promised Wasserman it would not pay cash for the shares 
+it had “accepted for payment" from the shareholders, 
+unless and until the Wasserman deal was carried out. And 
+
+
+5 To provide equal treatment to other key insiders, Matsushita 
+offered Sheinberg and Geffen the opportunity to receive preferred 
+stock. To provide equal treatment to trusts to which he felt 
+committed, Wasserman offered them the right to get some of his 
+preferred stock if they wanted it. But the ordinary shareholder was not 
+offered this stock. ER 357/Ex. D: 29-30, 39. The reason: it costs 
+Matsushita much more than the $66 a share equivalent to issue and 
+maintain this stock. Supplemental Excerpts of Record of Wasserman 
+and Sheinberg (SER) at 22-23, submitted to the Ninth Circuit. 
+
+
+9 
+
+
+it gave Wasserman the power to enforce that promise by 
+an injunction. Petitioners concede that the Wasserman 
+transaction was fully conditioned upon the tender offer 
+(Pet. at 22-23). And, of course, all the major “players” 
+understood that Wasserman was part and parcel of the 
+tender offer.° 
+
+
+If the Wasserman transaction does not violate rule 
+14d-10, nothing ever will. Simply by virtue of a lawyer's 
+declaration that the transaction is not part of the offer, 
+transactions will escape the equality requirement of rule 
+14d-10. Why on earth .ould the SEC promulgate such a 
+vacuous rule? Petitioners say nothing -- nothing at all - 
+on that point. The court below, quoting the SEC, rightly 
+recognized that 14d-10 embodied a substantive policy and 
+
+
+* Discovery confirmed what was apparent on the face of the 
+documents: all the “players” (the principals, their investment advisors, 
+and the lawyers) understood that the Wasserman transaction was part 
+of the tender offer. For example, MCA board member and investment 
+banker Felix Rohatyn testified: 
+
+
+"Q. Did you consider MEI's (Matsushita's) 
+acquisition of Mr. Wasserman’s stock to be part 
+of \EI’s acquisition of MCA? 
+
+
+"A. Yes, I did.” 
+
+
+(ER 357/Ex. A: 33-34). MCA's counsel Martin Lipton also 
+represented Wasserman and Sheinberg. He gave precisely the same 
+account (ER 357/Ex. X: 4-5, 104-05). Lipton advised the MCA board 
+that it could consider, inter alia, “the fact that the two largest 
+shareholders of the Company have stated their willingness to tender to 
+MEI” (ER 357,/Ex. D: 60) (emphasis added). 
+
+
+10 
+
+
+was not intended to amount to no more than a drafting 
+exercise for first year associates. App. 15a-16a. 
+
+
+Petitioners assert (Pet. at 4, 22) that the court 
+below overlooked a stipulation that "the Wasserman 
+transaction was entered into when no tender offer was 
+pending” (Pet. at 4). No su:h stipulation appears in the 
+pages (App. 49a-50a) to which reference is made. That 
+reference is to part of the “findings” made by the district 
+court, part of a set submitted by the petitioners’ counsel 
+which the court simply signed with only two trivial 
+changes. (App. 45a). The terms of the stipulation finally 
+
+
+appear in a footnote. (Pet. at 22 n. 20.) And what 
+appears?: a stipulation as to what points on a clock certain i 
+events occurred, a time sequence which the court of 
+appeals fully understood. This hardly constitutes a 
+
+stipulation that “the Wasserman transaction was entered 
+
+into when no tender offer was pending". Moreover, even 
+
+if the court had misunderstood the stipulation that would 
+
+provide no basis for certiorari. Certiorari is not used to 
+
+supervise appellate court understanding of fact-specific 
+
+
+Finally, we observe that, unless the slim footnote 
+reference in the petition at p. 22, n. 19 suffices, the 
+petition makes no challenge to the remand for factual trial 
+on Sheinberg. The court held that a jury might find that a 
+$21,000,000 bonus paid to MCA’s CEO was made to 
+secure his adherence to the transaction and to tender his 
+shares. App. 20a-23a. Thus, the 14d-10 issue would 
+remain in the case no matter what this Court held. 
+
+
+11 
+B. IMPLIED RIGHT OF ACTION 
+
+
+Petitioners’ implied right of action analysis rests 
+upon three mischaracterizations: their own position; the 
+court of appeal's analysis; and finally, this Court's 
+precedents. 
+
+
+no private right of action existed under section 14(d)(7), 
+and thus that rule 14d-10 could not be enforced by private 
+action.’ By contrast, petitioners expressly conceded the 
+existence of an implied right of action. In petitioners’ 
+merits brief (p. 47) they said 
+
+
+“The Epstein Plaintiffs’ concession that 
+there is no need to attempt to demonstrate 
+the existence of a private right of action 
+under Rule 10b-13, because Rule 14d-10 
+protection, see Epstein Br. at 53, 
+undercuts any argument that a private 
+right of action must be created under Rule 
+10b-13 to safeguard the interests of 
+tendering shareholders. In addition to 
+SEC enforcement actions and Rule 
+14d-10 claims, stockholders are further 
+protected by Rule 10b-5,... .” 
+
+
+” As indicated, p. 2, supra, the judgment in their favor was 
+affirmed on another ground. 
+
+
+12 
+
+
+Petitioners have spent a good deal of energy attempting to 
+extricate themselves from the representation that rule 
+14d-10 claims provide shareholders adequate remedies for 
+breaches of the equal treatment requirement. The Ninth 
+Circuit gave petitioners the “benefit of the doubt", and 
+permitted them to make the argument, pointing, however, 
+only to a document submitted long after the oral arguments 
+on the merits. App. San. 9. This Court is under no 
+similar obligation to accommodate petitioners’ effort.’ 
+
+
+Even if petitioners had standing to challenge the 
+existence of an implied right of action, their challenge is 
+meritless. The court below fully understood that whether 
+an implied right of action exists is a question of legislative 
+intent. App. 7a.’ Indeed, the court pointed out that two 
+recent Ninth Circuit cases had been overruled for failure to 
+recognize that."° Ibid. The court engaged in a careful 
+analysis of the language and structure of the section 
+14(d)(7), which is uniquely clear in its intent: an offeror 
+“shall pay". App. 7a-lla. We need not restate the 
+analysis. The court’s conclusion was in complete accord 
+
+
+* The existence of an implied right of action, vel non, is not 
+jurisdictional. Northwest Airlines, Inc. v. County of Kent, 114 S.Ct. 
+855, 862 (1994). 
+
+
+’ The court said that the relevant inquiry was “whether there is 
+an implicit indication, in the statute’s language, legislative history, or 
+structure, of legislative intent to create a private remedy, and whether 
+such an implication would be consistent with the underlying legislative 
+scheme.” App. 7a. 
+
+
+© Ibid. 
+
+
+13 
+
+
+with earlier decisions by the Second Circuit (authored by 
+Judge Winter) and the Third Circuit (authored by Judge 
+Becker). Field v. Trump, 850 F.2d 938, 946 (2d Cir. 
+1988), cert. denied, 489 U.S. 1012 (1989); Polaroid Corp. 
+v. Disney, 862 F.2d 987, 996 (3d Cir. 1988). See also 
+Pryor v. United States Steel Corp., 794 F.2d 52, 57-58 (2d 
+Cir.), cert. denied, 479 U.S. 954 (1986) (§14(d)(6) 
+contains private right of action). "Matsushita argues that 
+we should not follow Pryor, Field, and Polaroid”, the 
+court observed. App. 7a. Interestingly, in their petition to 
+this court, petitioners make no reference whatsoever to 
+those decisions.'' Nor do they note that two other federal 
+circuits have recognized, by implication, that rule 14d-10 
+is enforceable in a private action. See Kahn v. Virginia, 
+
+
+"In their motions for rehearing and for a stay on the mandate, 
+petitioners vigorously asserted that the court erred in considering the 
+“context” in which the Williams Act was enacted in determining 
+legislative intent. Petitioners have now demoted the argument to a 
+footnote. Pet. at 18-19 n. 15. Rightly so, because the contention is 
+obviously meritless. First, context was only one factor which the court 
+considered in determining legislative intent, and it was the last. Only 
+after the court considered the language and structure of section 
+14(d)(7), 50 F.3d 644 (9th Cir. 1995), did the court say “Finally, the 
+legal context . . ." App. 9a. Even if context could never be 
+considered, the previous factors relied upon by the court would justify 
+a private right of action. Moreover, the context in which a statute is 
+enacted is a relevant factor in determining legislative intent. See the 
+discussion at App. 7a and the decisions cited at note 14 of the court’s 
+opinion. App. 10a-lla. Even Justice Scalia, no fan of implied rights 
+of action, is not on record as opposed to that position. Writing for 
+himself alone in Thompson v. Thompson, 484 U.S. 174, 192 (1988) he 
+urged the courts to “get out of the business of implied rights of action 
+altogether” wi islation. 
+
+
+14 
+
+
+supra, and Priddy v. Edelman, 679 F. Supp. 1425 (E.D. 
+Mich. 1988), aff'd on other grounds, 883 F.2d 438 (6th 
+Cir. 1989). 
+
+
+Petitioners also observe that 14d-10 comes 18 
+years after section 14(d)(7), and apparently for that reason 
+this rule should not be federally enforced. Pet. at 3, 19. 
+This argument was never advanced by any litigant in the 
+court below. Wasserman and Sheinberg argued that 
+section 14(d)(7) did not create a private right of action, but 
+they clearly assumed that if it did, rule 14d-10 could be 
+enforced. Br. 54-58."* Even if these petitioners had 
+raised their newly minted argument, it is meritless. All 
+SEC rules come some time after the statute that authorizes 
+them. Rule 14d-10 is an integral part of section 14(d)(7) 
+policy, and it is a rule carefully designed to prevent 
+precisely the kind of abuse shown here. The statute, not 
+the rule, creates the right of action. Virginia Bankshares, 
+Inc. v. Sandberg, 501 U.S. 1083, 1101 (1991); Chen Zhou 
+Chai v. Carroll, 48 F.3d 1331, 1338-39 (4th Cir. 1995). 
+If the claim is that 14d-10 is unauthorized ("goes well 
+beyond” section 14(d)(7)) (Pet. at 18), that issue also was 
+never raised by any litigant below, and it too is meritless. 
+The Third Circuit expressly held in Polaroid, and the 
+Fourth clearly assumed in Kahn, that 14d-10 claims could 
+be maintained under section 14(d)(7). 
+
+
+2 As the court below put it, “Matsushita makes the threshold 
+argument that it cannot be sued by MCA shareholders for violating 
+rule 144-10 because Congress did not intend sections 14(d)(6) and 
+14(d)(7) to be privately enforceable. App. 5a. 
+
+
+15 
+
+
+Petitioners seek to nullify completely the equality 
+requirement of 14d-10. If petitioners’ view of the law 
+were correct, offerors could pay any amount to favored 
+shareholders so long as they can escape SEC detection. 
+Moreover, as the court below noted, the Williams Act has 
+no separate SEC enforcement mechanism. 
+
+
+C. DELAWARE 
+
+
+Petitioners argue that the court’s refusal to give 
+preclusive effect to the Delaware settlement judgment 
+conflicts with the First Circuit’s decision in Nottingham 
+Partners, and the Third Circuit’s decision in Grimes." 
+This is false. No conflict exists. In the class action 
+context, no court has ever held that preclusive effect need 
+be given when the state law claims settled did not overlap 
+in fact or law with the federal claims. In declining to do 
+so, the court’s decision relied upon the distinction drawn 
+by Judge Friendly’s opinion in National SuperSpuds"*, a 
+distinction squarely endorsed by the Third Circuit in 
+Grimes. 17 F.3d at 1564. 
+
+
+We first discuss the Delaware proceedings. Next 
+we address petitioners’ attempt to misstate the issue here: 
+its effort to convince this court that this petition presents 
+
+
+13 
+
+
+Nottingham Partners v. Trans-Lux Corp., 925 F.2d 29, 34 
+(Ist Cir. 1991), and Grimes v. Vitalink Communications Corp., 17 
+F.3d 1553, 1564 (3d Cir.), cert. denied, 115 S.Ct. 480 (1984). 
+
+
+‘4 
+
+
+National SuperSpuds, Inc. v. New York Mercantile Exchange, 
+660 F.2d 9 (2d Cir. 1981). 
+
+
+16 
+
+
+the general question of the power of state courts to release 
+federal claims within the exclusive jurisdiction of the 
+federal courts but which substantially overlap with the state 
+law causes of action. Finally, we turn to what the court 
+below actually decided. 
+
+
+1. The Delaware Proceeding 
+
+
+What is striking about petitioners’ discussion of 
+the Delaware proceedings is they say nothing about what 
+actually happened. The reason will soon be apparent. 
+
+
+When the financial press in September 1990 
+announced that a tender offer by MCA was in the making, 
+a class action was immediately filed in the state court. 
+Petitioners were not named as parties defendant. The 
+Delaware complaint alleged only Delaware causes of 
+action, because jurisdiction over claims under the 1934 Act 
+is exclusively in the federal court. 15 U.S.C. §27. On 
+December 2, after the tender offers’ terms became public, 
+this class action was filed, and at that point the Delaware 
+proceeding became active; by December 11 a settlement 
+"in principle” had been announced. App. 24a-25a. The 
+notice of settlement stated that settlement talks had in fact 
+begun “on or before the day the complaint was filed", even 
+though the full terms of the tender offer would not be 
+known for two months. 
+
+
+‘The complaint was filed on September 30, 1990. The full 
+terms of the tender offer became known on November 30, when 
+required documents were filed with the SEC. 
+
+
+17 
+
+
+The first proposed settlement would have released 
+federal as well as the state law claims. Though petitioners 
+do not so much as mention it (see pet. p. 5, n. 2), in April 
+1991, the vice chancellor rejected the settlement as 
+“illusionary," recognizing it to be no more than a lawyer's 
+relief bill. Jn re MCA, Inc. Shareholder Litig., 598 A.2d 
+687, 695-96 (Del. Ch. 1991). Pointedly, he characterized 
+the Delaware law claims as “at best, extremely weak and, 
+therefore, have little or no value.” Jd. at 694. He said 
+that only the claims before the district court had substance. 
+Id. at 695. No Delaware class was certified. 
+
+
+For the next year and a half all the litigation 
+occurred in the federal court."° There were no Delaware 
+this period, no defendant moved to dismiss the state 
+complaint. 
+
+
+After an appeal had been taken to the court of 
+
+
+filed, a dental Gini Eales tes ein ees 
+petitioners tried to use Delaware as a forum to quash the 
+
+
+= Here is how petitioners’ counsel characterized the on-going 
+Delaware proceedings to Judge Real, in September 1991, a full five 
+months after rejection of the initial settlement. 
+
+
+"I think it’s fair to say it ceased to be prosecuted 
+because the Delaware judge said there was no 
+action is not being prosecuted in any way”. 
+
+
+ER RT 9/03/91: 8-9. 
+
+
+18 
+
+
+federal appeal. Petitioners announced another proposed 
+settlement class and another proposed settlement. Their 
+hope, no doubt, was that respondents would feel compelled 
+to appear in Delaware, and by virtue of submitting to 
+Delaware's jurisdiction, convert an exclusively federal case 
+into one that could be settled with other, more pliable, 
+counsel, counsel who had already fomented one 
+“illusionary” settlement. Believing it inconceivable that 
+the courts of the United States would permit their properly 
+invoked jurisdiction to be destroyed by such strategies, 
+respondents held to their federal forum. They did not 
+appear. 
+
+
+Petitioners again say nothing of the court's 
+response to the new settlement. The vice chancellor did 
+approve the settlement. But he stated that its benefits were 
+"meager" and acknowledged that “suspicions abound” of 
+collusion. “Suspicion, however, is not enough and the 
+objectors have offered no evidence of any collusion." 
+
+App. 70a. His unease was further reflected in his order 
+reducing counsel fees.'’ For reasons that perplexed the 
+Ninth Circuit (App. 27a), the vice chancellor treated the 
+federal claims as worthless, even though that issue was on 
+appeal to the Ninth Circuit and review in that court was de 
+novo. A three-member panel of the state supreme court 
+summarily affirmed without opinion. App. 76a. 
+
+
+‘7 Even though they presumably had done more work since the 
+first settlement failed, Delaware counsel had sought less as counsel 
+fees. 
+
+
+19 
+
+
+The state settlement, of course, had one purpose 
+only: to destroy the class action aspects of the 14d-10 
+claim. There was no provision for opting out a federal 
+class; defendants expecting that few -- if any -- individual 
+Opt-outs would occur. Delaware class counsel had no 
+incentive whatever to protect the 14d-10 claims of the 
+class, and they did not. Quite the contrary; he 
+affirmatively disparaged them. They were, he had earlier 
+said, “frivolous""* (App. 26a). Delaware counsel never 
+asked for a copy of our merits brief in the Ninth Circuit, 
+nor did he make any effort to ascertain the contents of the 
+thousands of pages of Japanese documents we had 
+translated. We could go on. We could show that the 
+Delaware brief supporting settlement misrepresented 
+federal law."* So too did the notice issued to 
+
+
+‘* "We concluded that any 10b-13, 14d-7 claim was frivolous, 
+should not be pursued, would be distracting in the main litigation, and 
+would be a waste of our time and resources when we had a big battle 
+with defendants underway on the issues of Delaware law." Ex. E. p. 
+16 of Declaration of Counsel (DC) containing documents relevant to 
+the Delaware proceedings and submitted to the Ninth Circuit. 
+
+
+'* For example, the Delaware counsel incredibly suggested that 
+even if the Ninth Circuit reversed on the class action issue, class 
+members still would not recover: 
+
+
+As significantly, if not more so, the federal 
+plaintiffs in California sought class certification. 
+This was twice fully and finally denied by Judge 
+Real on all Rule 23 criteria. There is no class in 
+the so-called “federal class actions.” Thus, absent 
+class members cannot, in the present posture or in 
+any posture that I can envision, have any benefit 
+
+
+20 
+shareholders.” The “representation” was, in a word, 
+
+
+from that proceeding. The persons who might 
+benefit, if at all, if a number of remote scenarios 
+took place, would be the individual plaintiffs, and 
+even there they must obtain a reversal of their 
+decisions in that court. But the fundamental fact 
+is that class certification has been denied, and for 
+the many thousands of MCA shareholders, all of 
+whom have elected not to opt out, other than the 
+few who have opted out, there is no prospect of 
+recovery in that case because it's not a class 
+action. And one must question at this time 
+whether or not the statute of limitations has 
+
+
+expired... 
+
+
+Transcript of Jan. 21, 1993 hearing (DC Ex. 1:9-10). As another 
+illustration consider counsel's skeptical treatment of defendant's 
+prospects for damages. Thus, the Delaware Court was told “it is 
+doubtful that the Ninth Circuit will overturn the Federal District 
+Court's factual finding that Mr. Wasserman did not receive higher 
+consideration...". DC Ex. N:32. Yet in the district court petitioners 
+had not moved for summary judgment on damages; and they had 
+already filed its briefs in the appeal to the Ninth Circuit, a brief which 
+made no effort to defend the “finding.“ 
+
+
+® The Second Notice of Settlement was sent to the class by 
+document dated October 27, 1992. App. 77a-10la. The story of the 
+litigation was told in a nearly incomprehensible manner. The 
+document was clearly false in its statements about shareholder rights in 
+the event a shareholder opted out. The notice (App. 96a) states 
+
+
+"By filing a valid Request for Exclusion, a 
+member of the Settlement Class will not be 
+precluded by the Settlement from individually 
+seeking to pursue the claims alleged in the 
+Delaware Actions, the California Federal Actions, 
+the Second Minton Action and the Second Epstein 
+Action, or any other claim relating to the events at 
+
+
+21 
+
+
+constitutionally inadequate as a matter of law, and 
+certainly could be so demonstrated as a matter of fact.” 
+
+
+A Sell out, not a settlement, occurred in 
+Delaware. The Delaware plaintiffs knew that they had had 
+no state claims to compromise, and they were very happy 
+to barter away claims they could not litigate, or in any way 
+affect through issue preclusion. Their release of the 
+14d-10 claim came at no cost to themselves. App. 39a. 
+In exchange for a "settlement" that would pay each 
+shareholder the munificent sum of two to three cents a 
+share (before subtracting counsel fees), Delaware counsel 
+purported to release federal claims that, according to the 
+petitioners (Pet. at 25), are multibillion dollar claims.” 
+
+
+issue in the Delaware Actions.” 
+
+
+DC Ex. H.12 (emphasis added). To succeed in federal court, the 
+document informs that one must “individually pursue” one’s claims. 
+heneachomagpendpentr-thachrert p-areieasog The truth is, 
+
+, one could have declined participation and await adjudicati 
+of the status of the federal class. — 
+
+
+*' As noted, respondents did not appear in Delaware. Since 
+Hansberry v. Lee, 311 U.S. 32 (1940), it has been clear that a 
+collateral attack on inadequate representation is proper in these 
+circumstances. The right to opt-out does not substitute for the 
+requirement of adequate representation. The latter is an additional 
+right secured by the due process claims. Phillips Petroleum Co. v. 
+Shutts, 472 U.S. 797, 810 (1985). 
+
+
+2 We note that petitioners were fully on notice that their 
+settlement efforts were subject to Ninth Circuit proceedings before t 
+
+
+22 
+
+
+Defendants, of course, had every interest in 
+cooperating in such a "settlement." This explains why, for 
+example, they did not move to dismiss, and why no 
+information exists as to who the Delaware plaintiffs are, 
+even though Delaware law requires it. Prezant v. 
+
+De Angelis, 636 A.2d 915, 923-26 (Del. Supr. 1994). The 
+Delaware “settlement” is an egregious example of the 
+abuses in "settlement" class actions that Judge Becker has 
+recently described in the General Motors case.” 
+
+
+The nature of the state court proceedings in this 
+litigation is highly unusual. Any legal question concerning 
+power of state courts to release exclusively federal class 
+action claims does not come in a clear-cut manner; it is 
+contaminated by the effort here to remove a pending 
+federal appeal into a state forum by resuscitating a state 
+case already determined to be meritless. The issue, 
+moreover, is fact intensive, inextricably intertwined with 
+the claim of inadequate representation by counsel, and of 
+constitutionally insufficient supervision of the settlement 
+process by the vice chancellor. App. 39a. 
+
+
+2. State Court Releases 
+
+
+While fully aware of our challenge to the collusive 
+
+
+character of the Delaware “settlement,” the Ninth Circuit 
+did not rest its decision on that ground. Rather, the court 
+
+
+3 In Re General Motors Corporation Pick-Up Truck Fuel Tank 
+Products Liability Litigation, F.3d __, 1995 U.S. App. LEXIS 
+8815 at *44-45, 82 (3d Cir. April 17, 1995). 
+
+
+23 
+
+
+held that the Delaware judgment was not preclusive on 
+another basis. That court began by distinguishing between 
+ordinary litigation and class actions, and the court 
+recognized that it was dealing with "nontraditional forms 
+of litigation,...class action{[s]." United States Parole 
+Commission v. Geraghty, 445 U.S. 388, 402 (1980). 
+Accordingly, “the settlement of a class action is 
+fundamentally different from the settlement of traditional 
+litigation". App. 38a. Class actions are representative 
+suits. Hansberry v. Lee, supra, 311 U.S. 32, 41 
+(1940).% In a true representative suit, the representative 
+bound all the members of its class. 
+
+
+Whatever the power of a representative to affect 
+Claims within the exclusive jurisdiction of the federal 
+court, an issue on which this Court has never ruled,” no 
+
+
+* The immediate ancestor of the modern representative suit is 
+
+
+the Chancery court's insistence on joinder of all parties who are 
+interested in an action. See Fed. R. Civ. P. 19, which embodies that 
+insistence. When as a practical matter joinder could not be achieved 
+because the parties were too numerous, Chancery developed the 
+practice of authorizing representatives to sue. 1 Newberg and Conte, 
+Newberg on Class Actions $1.09. pp. 1-24 to 1-26 (3d ed. 1992). 
+“The class action suit was an invention of equity to enable it to 
+proceed to a decree in suits where the number of those interested...is 
+so great that their joinder as parties in conformity to the usual rules of 
+procedure is impracticable." Hansberry v. Lee, supra, at 41. See, 
+also, Supreme Tribe of Ben Hur v. Cauble, 255 U.S. 356, 363 (1921). 
+Petitioners state that "[t}his Court has held in a series of cases 
+from Kremer v. Chemical Constr. Corp., 456 U.S. 461 (1982), to 
+Parsons Steel, Inc. v. First Alabama Bank, 474 U.S. 518 (1986), that 
+certain federal statutes which confer exclusive federal jurisdiction do 
+
+
+24 
+
+
+_ court had ever held that a representative's release of claims 
+
+that could not have been adjudicated was effective when 
+the state law causes of action did not overlap, either in fact 
+or in law, with the federal cause of action. 
+
+
+Nottingham Partners and Grimes, supra, are not 
+
+
+to the contrary, as the court below recognized. App. 32a- 
+35a. Although in a fact unnecessary to the decision in 
+either case, 7° each court was willing to sustain state court 
+releases of claims under the Exchange Act, but only in the 
+F claims 1 ‘all 1 with 
+federal claim. This is the usual situation. Rule 10b-5 
+claims, for example, are largely federal law counterparts 
+of state common law fraud. In those circumstances, 
+litigation of the state law claim might have issue preclusive 
+
+
+not create an exception to Section 1738." (Pet. at 8.) This statement 
+is false. Kremer in fact left open the issue of whether Title VII 
+
+
+jurisdiction was exclusively in federal court. See P. Bator, et al., Hart 
+
+
+and Wechsler’s The Federal Courts and the Federal System, 1627 n.2. 
+(3d ed. 1988). Parsons is so remote as not to warrant comment. The 
+only decision of this Court to discuss the impact of §1738 on cases 
+
+within the exclusive jurisdiction of the federal district court is Marrese 
+v. American Academy of Orthopaedic Surgeons, 470 U.S. 373 (1985), 
+which specifically leaves the issue open. /d at 386. See generally, 
+
+Hart & Wechsler at 1627-28. Moreover, none of these cases involved 
+
+
+a class action. 
+
+
+% Ip both cases and unlike here, the litigants had appeared in the 
+state proceedings, made that challenge, lost, and sought to relitigate in 
+
+
+federal court. That is wholly improper under 28 U.S.C. §1738, even 
+
+
+if the second challenge is reframed as a “jurisdictional” one. Durfee v. 
+
+
+Duke, 375 U.S. 106, 112-16 (1963). Moreover, in both cases, both 
+state court proceedings were sharply adversarial. 
+
+
+25 
+
+
+effect with respect to a “copy-cat" federal claim. There is 
+an argument that what could be litigated or affected by 
+litigation could be settled. The court of appeals assumed 
+arguendo that this was so, even though it was aware that 
+eminent commentators had strongly attacked the practice, a 
+threat to federal securities policy. In exchange for 
+settlement of weak state law claims, Delaware counsel 
+could compromise substantial federal ones, Claims over 
+which the courts of the United States had been given 
+exclusive jurisdiction. If that effort to oust federal 
+Jurisdiction became prevalent, "the well-travelled road to 
+the Delaware courts could become a six lane highway." 
+John C. Coffee, Jr., Suspect Settlements in Securities 
+Litigation, New York Law Journal, March 28, 1991, at 5 
+col. 1 (DC Ex. M:1). Professor Coffee adds: 
+
+
+"While the legal issue of when one court 
+has the power to approve the release of 
+Claims pending in another forum is 
+complex, the practical message to 
+plaintiffs’ counsel is much simpler: weak 
+derivative and class action claims that 
+once would have been routinely dismissed 
+by the Delaware Chancery Court now 
+have an enhanced settlement value, 
+because they can confer immunity with 
+respect to pending federal securities class 
+actions, which often would have a 
+significant settlement value. 
+
+
+26 
+
+
+"Ironically, the incentives for defendants 
+are even clearer: never seek dismissal on 
+the merits of a state class action if a 
+companion federal class action raising 
+related federal claims is possible, but 
+instead reach a settlement in which the 
+defendants are given a general release. 
+
+
+*~* * 
+
+
+"This type of settlement can be described 
+as “collusive” because the parties to the 
+state court settlement are effectively 
+depriving abseni olayers -- the plaintiffs 
+and their attorneys in the federal action -- 
+on their day in court.” 
+
+
+3. The Actual Holding 
+
+
+But the court of appeals thought it unnecessary to 
+
+
+consider the general issue of state court releases of 
+exclusively federal claims because this is not a “copy-cat” 
+
+
+case.” 
+"SuperSpuds," Judge Norris distinguished such cases from 
+those in which no overlap exists (in fact or in law) between 
+
+
+Relying directly upon Judge Friendly’s opinion in 
+
+
+the federal and state causes of action. He wrote: 
+
+
+77 
+
+
+And, as we have noted, the court had no need to address the 
+
+
+inadequacy of the Delaware representatives. 
+
+
+27 
+
+
+The very cases Matsushita relies upon 
+counsel against an expansive state court 
+power to release exclusively federal 
+claims. In applying an issue preclusion 
+test rather than a “same transaction" test, 
+the cases embrace Judge Friendly’s 
+common sense reasoning that a court’s 
+jurisdiction to extinguish claims by class 
+settlement should not exceed its 
+jurisdiction to extinguish claims by 
+adjudication. Ignoring this reasoning, 
+Matsushita asks us to impose a "same 
+transaction" test without offering logic or 
+precedent in support of such a test. [The 
+“arising Out of the same transaction” test 
+is, of course, used in claim preclusion 
+doctrine. See Restatement (Second) of 
+Judgments § 24 (1981). However, 
+Matsushita, as it must, expressly 
+disclaims reliance on claim preclusion. 
+See Clark v. Watchie, 513 F.2d 994, 997 
+(9th Cir. 1975) (state court judgment can 
+have no claim preclusive effect on 
+exclusively federal securities claims). ] 
+
+
+App. 34a. Judge Norris’ opinion was in fact in complete 
+accord not only with Judge Friendly’s opinion, but with 
+that of the Third Circuit in Grimes v. Vitalink 
+Communications Corp., supra, upon which petitioners rely 
+
+
+28 
+
+
+for their "conflict" claim.** The Third Circuit too relied 
+upon the very same distinction, citing SuperSpuds as for 
+the proposition that “a state court class representative 
+cannot release federal claims arising from a different 
+factual predicate than that before the court." /d. at 1564. 
+No contrary class action authority exists.’ 
+
+
+** ~The wholly unsubstantiated claim that prior tender offers are 
+now subject to wholesale challenge is a claim too removed from reality 
+to warrant any comment. On reopening judgments for money 
+damages, see Plaut v. Spendthrift Farms, _ §.Ct. ___, 131 L.Ed. 2d 
+328 (April 18, 1995). 
+
+
+2% Judge Norris went on to demonstrate, and petitioners do not 
+dispute, that the federal claims extinguished by the Delaware judgment 
+could not have been extinguished by the issue preclusive effect of an 
+adjudication of the state claims. See p. 5, n. 3. 
+
+
+29 
+
+
+CONCLUSION 
+
+
+The petition should be denied. Nothing more is 
+presented than an application for review of a fact-intensive 
+
+
+set of interlocutory orders respecting a unique, complex 
+and indisputably illegal transaction tailored to the needs of 
+one person. 
+
+
+Date: May 22, 1995 
+
+
+Respectfully submitted, 
+
+
+/ ) ob | re 
+tLe I LB one Mast: [ ( (_ 
+
+Hertry P. Monaghan _.—~ ROGER W. KirBy 
+
+435 West 116th Street Counsel of Record 
+
+New York, New York 10027 KAUFMAN MALCHMAN KIRBY & 
+
+(212) 854-2644 SQUIRE, LLP 
+919 Third Avenue 
+New York, New York 10022 
+(212) 371-6600 
+
+
+Attorneys for Epstein Respondents 
+
+

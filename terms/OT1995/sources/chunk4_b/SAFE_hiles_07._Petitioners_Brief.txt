@@ -1,0 +1,1630 @@
+In THE 
+Supreme Cowt of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+NORFOLK & WESTERN RAILWAY COMPANY, 
+Petitioner, 
+Vv. 
+
+
+WILLIAM J. HILEs, 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+
+
+Appellate Coart of Illinois, 
+Fifth Judicial District 
+
+
+BRIEF FOR PETITIONER 
+
+
+Tuomas W. ALVEY, JR. CARTER G. PHILLIPS * 
+Kurt E. RErrz ANNE E. GILSON 
+Marky SUE JUEN SIDLEY & AUSTIN 
+THOMPSON & MITCHELL 1722 Eye Street, N.W. 
+525 West Main Street Washington, D.C. 20006 
+P.O. Box 750 (202) 736-8000 
+Belleville, IL, 62222 
+(618) 277-4700 
+
+Counsel for Petitioner 
+November 9, 1995 * Counsel of Record 
+
+
+WILson - Eras Printine Co., Inc. - 789-0096 - WasHINGTON, D.C. 20001 
+
+
+BEST AVAILABLE COPY aaa 
+
+
+ ) re 
+
+
+QUESTION PRESENTED 
+
+
+Whether a railroad employee who goes between two 
+railroad cars to straighten a misaligned drawbar and is 
+thereby injured is entitled to judgment as a matter of law 
+under the Safety Appliance Act, 49 U.S.C. § 20302(a) 
+
+
+(1)(A), even if there is no evidence that the drawbar 
+was defective. 
+
+
+(i) 
+
+
+ii 
+LIST OF PARTIES AND RULE 296 LIST 
+
+
+The only parties to this proceeding are the petitioner 
+Norfolk & Western Railway Company and the respondent 
+William J. Hiles. 
+
+
+Pursuant to Rule 29.6 of the Rules of this Court, pe- 
+titioner Norfolk & Western Railway Company states that 
+it is a subsidiary of the Norfolk Southern Corporation. 
+
+
+TABLE OF CONTENTS 
+
+
+QUESTION PRESENTED .................-:-:ccccsecseceseesseeeeenees 
+LIST OF PARTIES AND RULE 29.6 LIST .................. 
+TABLE OF AUTHORITIES. ......................c.ccccccccseesseseeeees 
+ee 
+IY eitpeprcnnserierctreeeetmettentnectetimecmsemsmnetmnens 
+STATUTORY PROVISIONS INVOLVED .....0......... 
+STATEMENT OF THE CASE ..0..............cccccscccceseseeseseee 
+SUMMARY OF THE ARGUMENT ....W 
+
+
+RC eee doceumntian —— ; 
+
+
+I. SECTION 20302(a)(1)(A) DOES NOT IM- 
+POSE LIABILITY ON A RAILROAD FOR AN 
+INJURY INCURRED BY AN EMPLOYEE 
+WHILE REALIGNING A MISALIGNED 
+DRAWBAR THAT IS NOT DEFECTIVE ........ 
+
+
+A. The Language Of § 20302(a)(1)(A) Does 
+Not Prohibit Employees From Going Between 
+Cars To Realign Equipment That Is Not De- 
+a 
+
+
+B. Congress’s Concern In Enacting The SAA 
+And § 20802(a)(1)(A) Was To Improve 
+Equipment Installed On Rail Cars, Not To 
+Regulate Employee Operating Practices ....... 
+
+
+C. The FRA’s Regulations Clearly Permit Em- 
+ployees To Go Between Cars And Thus Re- 
+flect Congress’s Intent Solely To Regulate 
+Equipment Safety, Not Operations ............... 
+
+
+(iii) 
+
+
+11 
+
+
+ll 
+
+
+11 
+
+
+14 
+
+
+15 
+
+
+iv 
+TABLE OF CONTENTS—Continued 
+
+
+D. This Court’s Decisions Interpreting § 20302 
+
+
+(a) (1) (A), Particularly Affolder, Clearly 
+Show That The Provision Does Not Prohibit 
+
+
+E. Respondent’s Injury, Which Was Based 
+Solely On A Claim That The SAA Was Vio- 
+lated By A Misaligned Drawbar, Is Not Cov- 
+
+
+ent’s Claim Will Not Deprive Employees Of 
+A Remedy For Any Injuries Caused By A 
+Railroad’s Negligence In Its Operating Pro- 
+cedures For Aligning Drawbars ................. 
+
+
+GRSUEEEED conmasmennstennncsnsnneunietneimmentbansumns 
+
+
+17 
+
+
+21 
+
+
+v 
+
+
+TABLE OF AUTHORITIES 
+
+
+CASES Page 
+
+
+Affolder v. New York, Chicago & St. L.R.R., 339 
+RR ee eee 9, 17, 18, 19 
+Atchison, Topeka & Santa Fe Ry. v. Buell, 480 U.S. 
+ge RB Ed IIE ORE AS 26 
+Atlantic City R.R. v. Parker, 242 U.S. 56 (1916)... 9, 19, 
+20, 22 
+Baltimore & Ohio Ry. Vv. Jackson, 353 U.S. 325 
+EEE earl eae We Se eee 16 
+Brady Vv. Terminal R.R. Ase’n, 303 U.S. 10 (1938).. 19, 27 
+Buskirk v. Burlington N., Inc., 481 N.E.2d 410 
+(Ill. App.), cert. denied, 459 U.S. 910 (1982) 7 
+Carter Vv. Atlanta & St. Andrews Bay Ry., 338 U.S. 
+eee *~ Se Ne See 18 
+Coleman V. Burlington N., Inc., 681 F.2d 542 (8th 
+Sit, TEI direteiellidiastteencnatiieaaihttaiemabiaitmdiinntitidepenen 8 
+Coray V. Southern Pac. Co., 335 U.S. 520 (1949)... 17, 27 
+Crane V. Cedar Rapids & lowa City Ry., 395 U.S. 
+27 
+
+
+EE Se eee ee 
+Davis Vv. Manry, 266 U.S. 401 (1925) —.................. 16 
+Fairport, Painesville & E.R.R. v. Meredith, 292 
+
+BE PS ETS 15 
+Goedel Vv. Norfolk & W. Ry., 13 F.3d 807 (4th Cir. 
+
+a ee 21, 22, 25 
+Johnson V. Southern Pac. Co., 196 U.S. 1 (1904) ... 13 
+Kavorkian v. CSX Tranap., Inc., 33 F.3d 570 (6th 
+
+RR ee a ee 21, 22 
+Kernan V. American Dredging Co., 355 U.S. 426 
+
+ER Se a re ee 27 
+Lilly v. Grand Trunk W.R.R., 317 US. 481 
+
+ET EES SER a 17 
+
+
+Lisek v. Norfolk & W. Ry., 30 F.3d 823 (7th Cir. 
+1994), cert. denied, 115 S. Ct. 904 (1995) 3, 21, 22, 23 
+Louisville & Nashville R.R. v. Layton, 243 U.S. 
+NS eS SEs Pe Vo or 12 
+Maldonado Vv. Missouri Pac. R.R., 798 F.2d 764 
+(5th Cir. 1986), cert. denied, 480 U.S. 982 
+ESE SSSR SYS 21 
+Metcalfe v. Atchison, Topeka & Santa Fe Ry., 491 
+. f gf. |  . eS cece 8, 22 
+
+
+vi 
+TABLE OF AUTHORITIES—Continued 
+
+
+Myers V. Reading Co., 381 U.S. 477 (1947) ............. 19 
+O’Donnell v. Elgin, Joliet & E. Ry., 388 U.S. 384 
+
+TES Se LE aa See, ae ee 12, 19 
+Reed Vv. Philadelphia, Bethlehem & New Eng. R.R., 
+
+939 F.2d 128 (8d Cir. 1991) ....................... 8, 19, 21, 22 
+Rogers V. Missouri Pac. R.R., 352 U.S. 500 (1957)... 10, 27 
+San Antonio & Aransas Pass Ry. v. Wagner, 241 
+
+OS ES ee 9, 19, 20 
+Southern Ry. v. Crockett, 234 U.S. 725 (1914)... 23 
+United States v. Seaboard Air Line R.R., 361 U.S. 
+
+
+FO RE ee ae ae ee eee eee 10, 23 
+
+United Transp. Union v. Lewis, 711 F.2d 2838 
+I eel 4, 5, 22, 23 
+
+STATUTES AND REGULATIONS 
+Cy 8) RE a ce 15 
+ee 2,13 
+SE eee eS 15 
+a passim 
+a ae ee See See ee 26 
+49 U.S.C. § 20108 (a) .......... wee vos a Oe 16 
+ESS Ses Lee ee oe 9, 15 
+Safety Appliance Act, 
+
+49 U.S.C. § 20802(a) (1) (A) —........ passim 
+i iiccrictsciatatinctssteeteteitindiannsiempaninn 26 
+i PROCES Fata 9, 15,17 
+Ne nab ae ay EE A at 9, 15, 16 
+48 Fed. Reg. 45,272 (1988) ............--.------cc-ccccececceeeeeeee> 16 
+NE ch TIES Se TCT EE 16 
+58 Fed. Reg. 48,287 (1908) ...............-..--cccceecccceeeeeeenee 17 
+Act of March 2, 1893, ch. 196, 27 Stat. 5381 13 
+
+
+LEGISLATIVE MATERIALS AND OTHER 
+AUTHORITIES 
+
+
+Automatic Couplers and Power Brakes: Hearings 
+Before the Senate Committee on Interstate Com- 
+merce, 52d Cong., Ist Sess. (1892) ............... 2i9 14 
+
+S. Rep. No. 1049, 52d Cong., Ist Sess. (1892) 4, 5,18 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES—Continued 
+Page 
+
+
+H.R. Rep. No. 1678, 52d Cong., Ist Sess. (1892).. 5,12 
+H.R. Rep. No. 180, 108d Cong., 2d Sess. (1993), 
+
+
+reprinted in 1994 U.S.C.C.A.N. 818... 2 
+A 13 
+TTS STI TE A 12 
+Le 5 
+SS 12,14 
+I i cniicesalseeatindnsindbenes 4 
+
+
+Accident/Incident Bulletin No. 162, U.S. Dep’t of 
+Transp., Fed. R.R. Ass’n Office of Safety, Tables 
+FL EE a 12 
+
+
+In THE 
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+No. 95-6 
+
+
+NorFo_k & WESTERN RAILWAY COMPANY, 
+Petitioner, 
+Vv. 
+WILLIAM J. HILEs, 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+Appellate Court of Illinois, 
+Fifth Judicial District 
+
+
+BRIEF FOR PETITIONER 
+
+
+OPINIONS BELOW 
+
+
+The judgment of the Circuit Court, Third Judicial Cir- 
+cuit, Madison County, Illinois, Pet. App. at 9a-10a, is 
+not reported. The opinion of the Appellate Court of II- 
+linois, Fifth District, id. at la-7a, is reported at 644 
+N.E.2d 508. The order of the Illinois Supreme Court de- 
+nying petitioner’s petition for leave to appeal, id. at 8a, 
+is not reported. 
+
+
+[Same-matter Supreme Court grant metadata omitted.]
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+During the period relevant to this case, Section 2 of the 
+Safety Appliance Act (“SAA”) provided in pertinent part: 
+
+
+[I}t shall be unlawful for any . . . common carrier 
+[engaged in interstate commerce by railroad] to haul 
+or permit to be hauled or used on its line any car 
+used in moving interstate traffic not equipped with 
+couplers coupling automatically by impact, and 
+which can be uncoupled without the necessity of 
+men going between the ends of the cars. 
+
+
+45 U.S.C. § 2. Congress revised the provision effective 
+July 5, 1994 and transferred it to 49 U.S.C. § 20302(a), 
+which states in relevant part: 
+
+
+[A] railroad carrier may use or allow to be used 
+on any of its railroad lines— 
+
+
+(1) a vehicle only if it is equipped with— 
+
+
+(A) couplers coupling automatically by im- 
+pact, and capable of being uncoupled, with- 
+out the necessity of individuals going be- 
+tween the ends of the vehicles... . 
+In amending the statute, Congress expressly provided that 
+it did not intend to effect any “substantive change in the 
+law” nor did it mean to “impair the precedent value of 
+earlier judicial decisions and other interpretations.” H.R. 
+Rep. No. 180, 103d Cong., 2d Sess. 5 (1993), reprinted 
+in 1994 U.S.C.C.A.N. 818, 822. For convenience, pe- 
+titioner will refer to the current version of the statute, 49 
+U.S.C. § 20302(a). 
+
+
+ee | a ey 
+
+
+3 
+
+
+STATEMENT OF THE CASE 
+
+
+1. Respondent William J. Hiles, an employee of peti- 
+tioner Norfolk & Western Railway Company, was a mem- 
+ber of a switching crew at petitioner’s Luther Yard in St. 
+Louis, Missouri. Appeals Record (“R.”) at C250, C256. 
+His duties on July 18, 1990, included coupling and un- 
+coupling railroad cars and aligning drawbars. Report of 
+Proceedings, Jury Trial (“Tr.”) at 159, 188-89. 
+
+
+Railroad cars are connected, or coupled, by mechanisms 
+located at both ends of each car. A coupling mechanism 
+consists of a knuckle, which is a clamp that opens and 
+closes, joined to the end of a drawbar. /d. at 45-46. 
+This drawbar is fastened to a housing mechanism on the 
+car. When two cars come together, the open knuckle of 
+one car engages the knuckle on another car, and the cars 
+couple automatically. /d. at 44. 
+
+
+In order for coupling to take place, the drawbars of 
+the cars must be aligned to connect on impact. R. at 
+C257; Tr. at 44. If they are not aligned before coupling, 
+the knuckles will pass and not contact each other, and the 
+cars will not couple. All drawbars are designed to have 
+some lateral play. If the cars were joined by rigid draw- 
+bars, moving cars would derail on a curved track. Be- 
+cause of this necessary later2! movement, drawbars may 
+become misaligned, or “slued and remain in that posi- 
+tion when uncoupled on a curved track. /d. at 45, 52. 
+When such misalignment occurs, drawbars must be re- 
+aligned manually. Manual alignment of a drawbar re- 
+quires an employee to go between the cars to straighten 
+the bar; there is not now and never has been an automatic 
+alignment device in common use in the railroad industry. 
+See Lisek v. Norfolk & W. Ry., 30 F.3d 823, 831 (7th 
+Cir. 1994), cert. denied, 115 S. Ct. 904 (1995); Reed v. 
+Philadelphia, Bethlehem & New Eng. R.R., 939 F.2d 128, 
+130 (3d Cir. 1991). 
+
+
+2. The equipment involved in coupling railcars has 
+been regulated by the federal government under the Safety 
+
+
+OO TT EE RE a eee ee ee ee 
+
+
+4 
+
+
+Appliance Act since 1893. Before passage of the SAA in 
+1893, there was no federal requirement that couplers on 
+railroad cars be uniform, and railroads across the country 
+had their railcars equipped with a variety of different 
+mechanisms. There existed at that time approximately 
+7,000 patents on automatic couplers, and 37 different 
+types were in use. S. Rep. No. 1049, 52d Cong., Ist Sess. 
+5-6 (1892). 
+
+
+Many cars used a “link and pin” system that required 
+employees to go between the cars to guide an iron link 
+into a slot on the approaching car and to drop a loose 
+pin through the link to hold it in place. See United 
+Transp. Union v. Lewis, 711 F.2d 233, 246 (D.C. Cir. 
+1983) (photograph of trainman between two cars manu- 
+ally coupling a link and pin coupler). “Certainly it has 
+been proven by experience, and long experience, that the 
+common cars . . . coupled with links can not be coupled 
+and uncoupled in practice in any other way, except by 
+going between the cars.” 24 Cong. Rec. 1417 (1893) 
+(statement of Sen. MicPherson). Other cars were fur- 
+nished with various automatic couplers. One switchman 
+testified to the Senate Committee on Interstate Commerce: 
+
+
+You want to understand that the switchman’s life in 
+the day time has an even chance, but the man who 
+works after dark has not the ghost of a show under 
+the present system of things. All he has is a little bit 
+of a hand lantern which throws a light 10 or 20 feet. 
+He goes in to make a coupling, and he does not know 
+the conditions that exist there. He does not know 
+whether it is a Janney or a Hinson, a Dawling, a 
+Drexel or some other kind of a draw-bar. 
+
+
+S. Rep. No. 1049, 52d Cong., Ist Sess. 5 (1892). 
+
+
+The couplers of railroad cars reaching interchange 
+points with other railroad lines therefore did not auto- 
+matically couple before the SAA’s mandate, and railroad 
+employees had to go between railroad cars while the cars 
+were moving together in order to couple the cars manu- 
+
+
+5 
+
+
+ally. See 24 Cong. Rec. 1280 (1893) (statement of Sen. 
+Chandler). In addition, when the SAA was enacted, 
+there were coupling devices in use which, while coupling 
+automatically by impact, required brakemen to go between 
+the cars to uncouple them by hand. United Transp. Union, 
+711 F.2d at 244. 
+
+
+Going between two cars to couple or uncouple them 
+while they are moving is particularly dangerous. As one 
+Senator described the situation during the floor debates: 
+
+
+A railroad employe[e] . . . is asked to step inside 
+the track, stand up against a car which is not moving, 
+and watch the coming of another car, which is being 
+pushed steadily up against the car near which he 
+stands .... I doubt whether there is a Senator here 
+who can stand deliberately and see a long train 
+coupled in the way the coupling is now done without 
+turning his eyes away as two cars come together just 
+before it is the duty of the car-coupler to make the 
+connection and then get out of the way. 
+
+
+24 Cong. Rec. 1280 (1893) (statement of Sen. Chandler). 
+In 1890 President Benjamin Harrison urged Congress to 
+pass legislation “looking to uniformity and increased safety 
+in the use of couplers and brakes upon freight trains 
+engaged in interstate commerce.” S. Rep. No. 1049, 52d 
+Cong., Ist Sess. 3-4 (1892). What is now § 20302 
+(a)(1)(A) was enacted to ensure that coupling equip- 
+ment was compatible and interchangeable nationwide. 
+See S. Rep. No. 1049 at 6; H.R. Rep. No. 1678, 52d 
+Cong., Ist Sess. 3 (1892). 
+
+
+3. On July 18, 1990, respondent was working as a 
+switchman at petitioner’s railyard along with Larry 
+Fauver, a conductor. R. at C250, C255-56. At approxi- 
+mately 4:00 a.m., respondent was walking along the 
+tracks, examining drawbars to determine if they were 
+properly aligned, when he noticed a car with a mis- 
+aligned drawbar. Id. at C258-59. The car, No. TTBX- 
+966015, was a bi-level SA-Auto Rack rail car used to 
+
+
+6 
+
+
+transport automobiles and was at that time coupled to 
+another car. R. at C459; J.A. at 13, 24; Tr. at 44. 
+There was a curve at the north end of the area where 
+the car was located. R. at C260. 
+
+
+Fauver testified at trial that when he uncoupled the 
+cars, the drawbars were misaligned. J.A. at 24. This un- 
+coupling must have taken place on a curve where the 
+drawbars would have remained misaligned when the car 
+stopped. Then a locomotive pulled the car forward, and 
+the slued position of the drawbar did not change. Fauver 
+testified that both he and respondent then went “between” 
+the two cars, which were four or five car lengths apart 
+and not moving, to straighten the misaligned drawbar. 
+Tr. at 48. Respondent was pulling the drawbar towards 
+him while Fauver was pushing it in an attempt to 
+straighten the bar. J.A. at 17-18. In circumstances that 
+could not be more different than those that animated 
+Congress’s passage of § 20302(a)(1)(A), respondent in- 
+jured his back during this process. /d. 
+
+
+4. Respondent filed suit on December 26, 1991, in the 
+Circuit Court of Madison County, Illinois, alleging only 
+that petitioner violated 49 U.S.C. § 20302(a)(1)(A). 
+Id. at 4-5. The SAA makes it unlawful for a railroad to 
+use any car not “equipped with . . . couplers coupling 
+automatically by impact, and capable of being uncoupled, 
+without the necessity of individuals going between the 
+ends of the vehicles.” 49 U.S.C. § 20302(a)(1)(A)." 
+Respondent included in his complaint no allegations of 
+negligence that would have raised a claim directly under 
+the FELA. J.A. at 4-5. Petitioner filed an Answer, id. 
+at 6-7, and then an Amended Answer, raising the affirma- 
+tive defense that any misalignment of the drawbar did 
+not result from defective equipment. /d. at 8-9. 
+
+
+'The Federal Employer’s Liability Act (“FELA”) renders rail- 
+roads liable for a violation of the SAA. 45 U.S.C. § 51. 
+
+
+7 
+
+
+During trial, petitioner filed a Motion for Summary 
+Judgment on the issue of liability, arguing that it had 
+produced evidence that there was no defect in the drawbar 
+alleged to have caused respondent’s injury, and that re- 
+spondent had produced nothing to controvert that evi- 
+dence. R. at C559-61. The court denied this motion. 
+J.A. at 22, 23. The court also denied petitioner’s Motion 
+for Directed Verdict at the close of respondent’s case and 
+at the close of all evidence. Jd. at 20, 23. Instead, the 
+court granted respondent’s Motion for a Directed Verdict 
+on the issue of petitioner’s liability premised solely upon a 
+violation of the SAA. /d. at 22. 
+
+
+Petitioner made two offers of proof that the misalign- 
+ment of the drawbar was not caused by a defect in the 
+equipment: the uncontradicted affidavit and testimony 
+of Walter Miller, general foreman, id. at 10-11, 21, and 
+the testimony of Larry Fauver, conductor, id. at 13-16. 
+Miller testified that he inspected the drawbar at 5:40 
+a.m., less than two hours after the accident, and found 
+that neither the coupler nor the drawbar was defective. 
+Fauver testified that, at the time he uncoupled the rail 
+cars, the drawbar on the car on which respondent was 
+injured was misaligned. In addition, respondent testified 
+at his deposition that he was unaware of any defect in the 
+drawbar. R. at C291-92. 
+
+
+After the court decided liability adversely to petitioner, 
+it directed a verdict and instructed the jury to deliberate 
+solely on damages. J.A. at 25. The jury awarded re- 
+spondent $492,500.00, and judgment was entered against 
+the railroad on May 24, 1993. Pet. App. at 9a-10a. 
+
+
+5. The Fifth Judicial District of the Appellate Court 
+of Illinois affirmed the Circuit Court on December 29, 
+1994. Id. at la. The appellate court explicitly recog- 
+nized its duty to apply federal case law when interpreting 
+the SAA. Id. at 4a. Nevertheless, the court followed only 
+those federal court cases comporting with Illinois case law 
+interpreting the SAA, see Buskirk v. Burlington N., Inc., 
+
+
+TL Rm ay Peg a ae Ree te enn Nn gS rn BB 
+
+
+431 N.E.2d 410 (Ill. App.), cert. denied, 459 U.S. 910 
+(1982); Coleman vy. Burlington N., Inc., 681 F.2d 542 
+(8th Cir. 1982); Metcalfe vy. Atchison, Topeka & Santa 
+Fe Ry., 491 F.2d 892 (10th Cir. 1974), and affirmed the 
+trial court’s judgment. Pet. App. at 7a. The court held 
+that “a railroad is liable as a matter of law” when an 
+employee can show that two railroad cars failed to couple 
+automatically, and that an employee went between those 
+cars and was injured while attempting to realign a draw- 
+bar. Id. at 6a. The employee, held the court, is entitled 
+to a directed verdict on liability regardless of whether the 
+coupling equipment was defective. Jd. at 7a. The Illi- 
+nois Supreme Court denied review. /d. at 8a. 
+
+
+SUMMARY OF THE ARGUMENT 
+A. 
+
+
+Respondent has sued solely under the SAA, a federal 
+law that requires railroad cars to be “equipped with . . . 
+couplers coupling automatically by impact, and capable 
+of being uncoupled, without the necessity of individuals 
+going between the ends of the vehicles.” 49 USC. 
+§ 20302(a)(1)(A). Respondent alleges that this lan- 
+guage renders railroads per se liable whenever railroad 
+employees go between railroad cars and are injured when 
+working with the coupling mechanism. This interpreta- 
+tion, however, contradicts the SAA’s plain language, 
+which does not prohibit employees from going between 
+cars to realign equipment that is not defective. The 
+language focuses on safety equipment, not operating pro- 
+cedures. - 
+
+
+Congress’s purpose in enacting § 20302(a)(1)(A) 
+was to prescribe the use of certain safety equipment, and 
+not to mandate or ban operating procedures such as go 
+ing between two cars, even when the process happens to 
+relate to coupling railroad cars. The SAA’s legislative 
+history shows that the 52d Congress was concerned about 
+
+
+i 
+
+
+ment.” 49 U.S.C. § 20131. 
+
+
+Cc. 
+
+
+Regulations promulgated by the Federal Railroad Ad- 
+ministration (“FRA”) show that operations requiring an 
+employee to stand between two cars are clearly not pro- 
+hibited. See 49 C.F.R. §§ 218.22(c), 218.39(a). These 
+regulations contemplate situations in which railroad em- 
+ployees must go between two cars to perform their jobs, 
+including adjusting couplers. The FRA requires certain 
+procedures to be followed to increase safety in those 
+situations, but obviously these regulations are inconsis- 
+tent with imposing liability under the SAA for any injury 
+to an employee who happens to be between two cars. 
+
+
+D. 
+
+
+This Court has previously held that a railroad cannot 
+be found per se liable under the SAA if the coupling 
+mechanism was not set properly and had no chance to 
+couple. Affolder v. New York, Chicago & St. L.R.R., 
+339 U.S. 96, 99 (1950). While Affolder involved a sit- 
+uation where closed knuckles prevented cars from coupl- 
+ing, its reasoning logically extends to misaligned draw- 
+bars. It establishes that, if the equipment was not prop- 
+erly set so that coupling would take place automatically 
+upon impact, the railroad has a defense to liability. Thus, 
+in this case, the necessity for pre-coupling manual align- 
+ment does not violate the Act. Moreover, whether or not 
+the equipment was properly set or was defective is a 
+question of fact, Atlantic City R.R. v. Parker, 242 U.S. 
+56, 59 (1916); San Antonio & Aransas Pass Ry. Vv. 
+Wagner, 241 U.S. 476, 483-84 (1916), and petitioner 
+
+
+a ere 
+
+
+10 
+
+
+was improperly denied the opportunity to present that 
+question to the jury. 
+
+
+E. 
+
+
+Where a railroad has statutorily required nondefective 
+coupling equipment in place, it should not be held strictly 
+liable for injuries that occur while employees prepare to 
+couple cars. Drawbars become slued in the normal course 
+of railroad car operations without defect, and there is no 
+equipment commonly in use in the railroad industry that 
+would align the drawbars automatically. Accordingly, 
+employees must occasionally realign drawbars manually 
+while standing between the railroad cars. In this case, 
+petitioner had the proper equipment in place at the time 
+of respondent’s accident while he was manually realign- 
+ing the drawbars. The railroad therefore was in com- 
+pliance with the SAA because it had the statutorily re- 
+quired safety equipment installed. It is not for this 
+Court to mandate the development of new equipment; 
+instead, it should interpret the SAA as written. See 
+United States v. Seaboard Air Line R.R., 361 U.S. 78, 
+82 (1959). ‘ 
+
+
+Permitting railroads to present evidence of nondefec- 
+tive equipment as a defense to an SAA 
+deprive plaintiffs injured while working with 
+
+equipment of all remedies; they still may allege a claim 
+under the FELA. But they will have 
+Rogers v. Missouri Pac. R.R., 352 VU. 
+and will be subject to a defense 
+gence, which is reasonable when 
+Operational matters and not alleged equipment problems. 
+
+
+11 
+
+
+ARGUMENT 
+
+
+I. SECTION 20302(a)(1)(A) DOES NOT IMPOSE LIA- 
+BILITY ON A RAILROAD FOR AN INJURY IN- 
+CURRED BY AN EMPLOYEE WHILE REALIGNING 
+A MISALIGNED DRAWBAR THAT IS NOT DE- 
+FECTIVE. 
+
+
+A. The Language Of § 20302(a)(1)(A) Does Not Pro- 
+hibit Employees From Going Between Cars To 
+Realign Equipment That Is Not Defective. 
+
+
+The SAA is a safety equipment statute. It does not 
+prescribe particular operating procedures for railroads or 
+their employees, and does not bar railroad employees 
+from performing their duties between two stationary rail- 
+cars. Instead, the Act compels railroads to equip their 
+cars with certain types of couplers: those that will couple 
+together automatically with other cars. The language of 
+§ 20302(a)(1)(A) of the SAA simply mandates the 
+use of that equipment. 
+
+
+The precise section of the SAA states that a railroad 
+may use on its lines “a vehicle only if it is equipped 
+with . . . couplers coupling automatically by impact, and 
+capable of being uncoupled, without the necessity of in- 
+dividuals going between the ends of the vehicles... .” 
+49 U.S.C. § 20302(a)(1)(A) (emphasis added). These 
+words are clearly directed at the type of equipment a 
+railroad car must have. Even the title of the Act refers 
+only to safety appliances and not railroad safety pro- 
+cedures in connection with the use of that equipment. 
+The statute requires certain equipment, which will couple 
+and uncouple automatically without employees going be- 
+tween the cars during coupling and uncoupling. It does 
+not in terms prohibit the act of going between stationary 
+cars to align drawbars before or after coupling occurs. 
+
+
+The language of the statute requires couplers that, first, 
+couple on impact without employees having to go be- 
+tween cars, and second, can be uncoupled without em- 
+ployees having to go between cars. /d.; see also O’Don- 
+
+
+12 
+
+
+nell v. Elgin, Joliet & E. Ry., 338 US. 384, 387-88 
+(1949) (adding that couplers must also remain coupled 
+until released). Nothing in that statutory sentence sug- 
+gests that employees should never have to go between 
+railcars to perform any duties. The language speaks spe- 
+cifically to coupling equipment’s performance during the 
+coupling and uncoupling of cars.’ It does not describe 
+how the equipment must function at other times when 
+cars are hundreds of feet apart, and does not imply that 
+employees will never have to prepare the equipment to 
+couple—for example, by opening a closed knuckle or 
+aligning a misaligned drawbar. 
+
+Section 20302(a)(1)(A) of the SAA was Congress’s 
+response to the danger of employees needing to stand 
+between cars while the cars moved. One of the bill’s 
+purposes was “to provide against the necessity of the 
+switchmen going in between the cars to couple and un- 
+couple.” 24 Cong. Rec. 1275 (1893) (statement of Sen. 
+Cullom) (emphasis added). See infra at 14-15. The 
+danger of workmen being crushed between two cars 
+during coupling is what § 20302(a)(1)(A) was intended 
+to eliminate. 24 Cong. Rec. 1367 (1893) (statement of 
+Sen. McPherson ).* 
+
+
+Moreover, the phrase “without the necessity of men 
+going between the cars” is not a flat prohibition against 
+
+
+2“(I)t is undoubtedly true that the immediate occasion for 
+passing the laws requiring automatic couplers was the great num- 
+ber of deaths and injuries caused to employees who were obliged 
+to go between cars to couple and uncouple them... .” Louisville & 
+Nashville R.R. vy. Layton, 243 U.S. 617, 621 (1917). 
+
+
+* Section 20302(a)(1)(A) of the SAA has largely accomplished 
+its purpose. In 1890, 369 railroad employees were killed and 7,842 
+were injured during coupling and uncoupling of railcars. H.R. Rep. 
+No. 1678, 52d Cong., ist Sess. 2 (1892). In 1998, one hundred years 
+after the passage of the SAA, one railroad employee was killed and 
+136 were injured while coupling and uncoupling railcars. Accident/ 
+Incident Bulletin No. 162, U.S. Dep’t of Transp., Fed. R.R. Ass'n 
+Office of Safety, Tables 66 & 67 (June 1994). 
+
+
+13 
+
+
+any operational procedure that occurs between two rail- 
+road cars. Congress's dominant concern was not to 
+eliminate altogether the action of going between the cars, 
+but was instead to describe in the statutory language the 
+process as it existed at the time the Act was passed: the 
+process of coupling and uncoupling cars while standing 
+between two moving railcars. 
+
+The Congress of 1893 did not even expressly prohibit 
+employees from going between cars while coupling them: 
+Cars had to be “equipped with couplers coupling auto- 
+matically by impact, and which can be uncoupled without 
+the necessity of men going between the ends of the cars.” 
+45 U.S.C. §2 (emphasis added). This Court in Johnson 
+Vv. Southern Pacific Co., 196 U.S. 1, 18-19 (1904), reason- 
+ably interpreted that statutory language to apply to both 
+coupling and uncoupling because Congress likely did in- 
+tend to treat those two processes the same. However, if 
+Congress had meant absolutely to prohibit employees 
+from going between cars, it would have used far more 
+clear language and at least would have connected the 
+coupling process more expressly to the phrase “without 
+the necessity of men going between the ends of the cars.” 
+
+The stated purpose of the Act is “to promote the safety 
+of employees and travelers upon railroads by compelling 
+common carriers engaged in interstate commerce to equip 
+their cars with automatic couplers and continuous brakes 
+and their locomotives with driving-wheel brakes.” Act of 
+March 2, 1893, ch. 196, 27 Stat. 531 (emphasis 
+added): 24 Cong. Rec. 1246 (1893) (statement of Sen. 
+Cullom) (emphasis added); S. Rep. No. 1049, 52d 
+Cong., Ist Sess. 1 (1892) (emphasis added). That pur- 
+pose is not served by the interpretation of the statute ad- 
+vanced by the court of appeals in this case. 
+
+
+14 
+
+
+B. Congress’s Concern In Enacting The SAA And 
+§ 20302(a)(1)(A) Was To Improve Equipment In- 
+stalled On Rail Cars, Not To Regulate Employee 
+Operating Practices. 
+
+
+The intent to regulate equipment and not to prohibit 
+an operation is revealed by the words Congress chose 
+and is reinforced by a discussion of the provision as it 
+moved through Congress. The legislative history demon- 
+strates that it was not the purpose of § 20302(a)(1)(A) 
+of the SAA to ban all instances of employees going be- 
+tween railroad cars or otherwise to restrict operating 
+procedures. More specifically, Congress did not focus 
+on preventing employees from going between stationary 
+cars: 
+
+
+I think very few people have lost their lives by 
+coupling inventions between cars when they are at a 
+standstill, but it is the continuous shifting and mov- 
+ing of cars in which the brakeman is expected to do 
+the work under circumstances of great danger. 
+
+
+24 Cong. Rec. 1367 (1893) (statement of Sen. Mc- 
+Pherson). A member of the National Committee on 
+Safety Appliances testified similarly before the Senate 
+Committee on Interstate Commerce regarding uncoupling: 
+
+
+There [are] a number of devices that enable... . 
+uncoupling to take place from the side of the car. 
+.. . In a number of these types there are devices 
+on the side of the car by which the knuckle can be 
+opened when the cars are apart, so that switchmen 
+need not go between the cars, never mind how far 
+they are apart. Of course if the cars are a con- 
+siderable distance apart and are not moving there is 
+no particular danger. He goes in and opens the 
+knuckle with his hand. 
+
+
+Automatic Couplers and Power Brakes: Hearings Before 
+the Senate Committee on Interstate Commerce, 52d Cong., 
+Ist Sess. 14 (1892) (testimony of W.E. Rodgers). In 
+addition, Congress could not have seen the ultimate risk 
+
+
+15 
+
+
+as railroad employees going between cars because the 
+SAA independently requires cars to be equipped with air 
+biakes, 45 U.S.C. §§ 1, 9 (now codified at 49 U.S.C. 
+§ 20302); Fuirport, Painesville & E.R.R. v. Meredith, 
+292 U.S. 589, 592-93 (1934), that depend on workmen 
+going between stationary cars on the rails to connect the 
+air hoses for the air brakes. See 49 C.F.R. § 218.39(a). 
+
+
+If Congress had intended § 20302(a)(1)(A) to pro- 
+hibit employees engaged in any aspect of coupling from 
+going between cars, it never would have enacted 49 U.S.C. 
+§ 20131. In that section, Congress expressly directed the 
+Secretary of Transportation: 
+
+to prescribe regulations and issue orders that may be 
+necessary to require that when railroad carrier em- 
+ployees (except train or yard crews) assigned to 
+inspect, test, repair, or service rolling equipment have 
+to work on, under, or between that equipment, every 
+manually operated switch . . . providing access to the 
+track on which the equipment is located is .. . 
+secured by an effective locking device... . 
+
+
+49 U.S.C. § 20131 (emphasis added). While providing 
+for improved safety in these operations, Congress clearly 
+envisioned employees going between cars to perform cer- 
+tain duties. 
+
+
+C. The FRA’s Regulations Clearly Permit Employees 
+To Go Between Cars And Thus Reflect Congress’s 
+Intent Solely To Regulate Equipment Safety, Not 
+Operations. 
+
+
+Consistent with Congress’s expressed intent to regulate 
+equipment, the FRA’s regulations demonstrate that opera- 
+tions requiring an employee to stand between two cars 
+are not per se impermissible. Current regulations of the 
+FRA provide for railroad employees to go between cars 
+safely to adjust couplers. See 49 C.F.R. §§ 218.22, 
+218.39(a). 
+
+
+The Department of Transportation, which is the agency 
+charged with enforcing the SAA through the FRA, 49 
+
+
+16 
+
+
+U.S.C. § 20103(a), quite clearly does not prohibit the 
+act of going between two cars. FRA regulations describe 
+Situations in which employees, in the normal course of 
+their duties, must go between two cars to perform certain 
+functions, including adjusting couplers. The agency’s in- 
+terpretation is entitled to weight in determining congres- 
+sional intent. Baltimore & Ohio Ry. v. Jackson, 353 U.S. 
+325, 330 (1957); Davis v. Manry, 266 U.S. 401, 405 
+(1925). And the agency’s view plainly restricts the scope 
+of § 20302(a)(1)(A) more narrowly than the courts 
+below. 
+
+
+For example, the FRA, regulating operations in a “hump 
+yard,” or yard with one elevated track branching into 
+many tracks at a lower elevation, mandates that “[wJ]hen 
+a train or engine service employee is required to couple 
+an air hose or to adjust a coupling device and that activity 
+will require that the employee place himself between 
+pieces of rolling equipment,” the switch operator must be 
+so notified to prevent injury to the employee between the 
+cars. 49 C.F.R. § 218.39(a) (emphasis added). 
+
+
+In the proposed rulemaking leading to 49 C.F.R. 
+§ 218.39(a),* the FRA and the Department of Trans- 
+portation explained the coupling procedure: After a 
+group of cars has gone down the hill at the hump yard 
+into the “bowl tracks” at the bottom, a crew of employ- 
+ees “couples the cars and connects the airhoses between 
+them” so that they will move as a unit. 48 Fed. Reg. 
+45,272, 45,272 (1983). “In performing these tasks, mem- 
+bers of the yard crew must position themselves between 
+the cars ....” Id. (emphasis added). The rule requires 
+that such employees be protected “when engaged in cou- 
+pling air hoses or adjusting coupling devices, which ac- 
+tivities demand that they place themselves between rolling 
+equipment. This rule would apply to components of these 
+two general tasks, e.g., . . . adjusting drawbars.” Id. at 
+45,273 (emphases added). 
+
+
+* The final, unchanged rule became effective March 23, 1984. 49 
+Fed. Reg. 6495, 6497 (1984). 
+
+
+17 
+
+
+Another FRA regulation provides protection for utility 
+employees “working on, under, or between railroad rolling 
+equipment.” 49 C.F.R. § 218.22(c)(5). The description 
+in the Federal Register of the final rule states that it was 
+promulgated to protect railroad employees “whose activi- 
+ties require them to work on, under, or between [rolling] 
+equipment” on a variety of jobs. 58 Fed. Reg. 43,287, 
+43,288 (1993). 
+
+
+Thus, the FRA plainly envisions that employees must 
+go between railroad cars during the course of their duties 
+and that to do so does not constitute a per se violation of 
+the statute. Instead, the FRA has provided for improved 
+safety requirements when employees must go between cars 
+to adjust couplers or to perform other jobs. Unless the 
+FRA’s regulations are invalid, the SAA does not bar al- 
+together the operation of going between the cars. 
+
+
+D. This Court’s Decisions Interpreting § 20302(a)(1)(A), 
+Particularly Affolder, Clearly Show That The Pro- 
+vision Does Not Prohibit An Employee From Re- 
+aligning A Drawbar That Is Not Defective. 
+
+
+This Court has interpreted the SAA as a safety equip- 
+ment statute, not an operational statute. “Liability of a 
+railroad under the Safety Appliance Act for injuries in- 
+flicted as a result of the Act’s violation follows from the 
+unlawful use of prohibited defective equipment ‘not from 
+the position the employee may be in or the work which 
+he may be doing at the moment when he is injured.’ ” 
+Coray v. Southern Pac. Co., 335 U.S. 520, 523 (1949) 
+(quoting Brady v. Terminal R.R. Ass'n, 303 U.S. 10, 16 
+(1938)). The SAA’s “prime purpose” is “the protection 
+of employees and others by requiring the use of safe 
+equipment.” Lilly v. Grand Trunk W.R.R., 317 USS. 
+481, 486 (1943) (emphasis added). 
+
+
+Consistent with that characterization of the SAA, the 
+necessity of manual adjustment of a drawbar is not a 
+per se violation of the Act. That argument for liability 
+
+
+18 
+
+
+was effectively rejected by this Court in Affolder v. New 
+York, Chicago & St. Louis Railroad, 339 U.S. 96 (1950). 
+In Affolder, two cars had failed to couple, and the plain- 
+tiff lost his leg in his attempt to board and stop the cars 
+from rolling down the track. /d. at 97. The Affolder 
+Court held that 
+
+
+to equip a car with a coupler which failed to perform 
+properly “in the switching operation was a violation 
+of the Act, which rendered defendant liable for in- 
+juries proximately resulting therefrom” . 
+
+
+Of course this assumes that the coupler was placed 
+in a position to operate on impact. Thus, if “the 
+failure of these two cars to couple on impact was 
+because the coupler on the Pennsylvania car had not 
+been properly opened,” the railroad had a good de- 
+fense. 
+
+
+Id. at 99 (emphasis added) (citations omitted). Justice 
+Jackson, dissenting over the lack of clarity of the jury 
+instructions, agreed with the majority’s statement of the 
+law: “Before a failure to couple establishes a defective 
+coupler, it must be found that it was properly set so it 
+could couple. If it was not adjusted as such automatic 
+couplers must be, of course the failure is not that of the 
+device.” Affolder, 339 U.S. at 101 (Jackson, J., dissent- 
+ing) (emphasis added); see also Carter v. Atlanta & St. 
+Andrews Bay Ry., 338 U.S. 430, 434 (1949). 
+
+
+This Court in Affolder did not limit its holding merely 
+to the positioning of the knuckles, which was at issue in 
+that case. Instead, the Court referred more generally to 
+piacing the coupler “in a position to operate on impact.” 
+Affolder, 339 U.S. at 99. The Court noted that counsel 
+for both parties had argued that the issue “was whether, 
+after the couplers were placed in open or proper position, 
+they failed to couple automatically on impact.” /d. 
+(emphases added). The Court recognized that the need 
+to “position” a coupler to operate on impact does not 
+violate the SAA; the Court’s analysis contemplates normal 
+
+
+19 
+
+
+manual adjustment of couplers to permit automatic cou- 
+pling to occur on impact. 
+
+
+Although the Court did not reach the precise question 
+of drawbar misalignment, the Affolder requirement of 
+“properly set” logically includes properly aligned draw- 
+bars. A misaligned drawbar on a coupler is directly 
+analogous to an unopened knuckle on a coupler—they 
+are both frequent causes of failed coupling that normally 
+are not due to defective machinery. Reed v. Philadelphia, 
+Bethlehem & New Eng. R.R., 939 F.2d 128, 132 (3d 
+Cir. 1991). In both cases, a failure to couple may not be 
+caused by defective equipment but by vibration of the car 
+or human error in failing to open a knuckle or align a 
+drawbar, and is therefore not a violation of the SAA.° 
+
+
+Given that the Court’s reasoning in Affolder allows a 
+railroad to present a defense that its equipment was non- 
+defective and simply not set properly, the validity of that 
+defense in any given case is a question of fact for the jury 
+to decide. Atlantic City R.R. v. Parker, 242 U.S. 56, 59 
+(1916); San Antonio & Aransas Pass Ry. v. Wagner, 241 
+U.S. 476 (1916); cf. Myers v. Reading Co., 331 U.S. 477, 
+482-84 (1947) (“A railroad subject to the [SAA] may be 
+found liable if the jury reasonably can infer from the 
+evidence merely that the hand brake which caused the 
+injuries . . . was not an ‘efficient’ hand brake.”). 
+
+
+In San Antonio Railway, for example, this Court found 
+that there was enough evidence for the jury to have con- 
+cluded that certain couplers were “in bad repair” and “for 
+
+
+* The SAA imposes an absolute duty on railroads to comply with 
+its provisions, and a railroad’s exercise of care is irrelevant. See, 
+e.g., O'Donnell v. Elgin, Joliet & E. Ry., 338 U.S. 384, 390-91 
+(1949); Myers v. Reading Co., 331 U.S. 477, 482 (1947); Brady 
+v. Terminal R.R. Ass'n, 303 U.S. 10, 15 (1988). No matter how 
+strict that requirement may be, the railroad still must retain the 
+ability to present the affirmative defense that it did comply with 
+the mandate of the SAA and its equipment performed as required. 
+
+
+20 
+
+
+this reason they did not measure up to the [SAA] standard 
+. . . for such equipment.” San Antonio Ry., 241 U.S. at 
+482-83 (emphasis added). This Court in Atlantic City 
+stated clearly that “[i]f couplers failed to couple auto- 
+matically upon a straight track it at least may be said that 
+a jury would be warranted in finding that a lateral play so 
+great as to prevent coupling was not needed, and that, 
+in the absence of any explanation believed by them, the 
+failure indicated that the railroad had not fully complied 
+with the law.” Atlantic City, 242 U.S. at 59 (emphasis 
+added). Clearly, the Court envisioned that the railroad is 
+permitted to offer an explanation to the jury as to why a 
+coupler failed, and the jury would weigh the evidence and 
+decide whether the failure was caused by a defect in the 
+equipment or a mere operational failure. 
+
+
+In the instant case, because the trial court directed a 
+verdict against petitioner on the issue of liability, petitioner 
+had no such opportunity to present to the jury the un- 
+contested evidence that its equipment was nondefective 
+and complied with SAA standards. This Court has never 
+stated that the mere failure of a coupler to perform sus- 
+tains a claim that the SAA was violated. See San Antonio 
+Ry., 241 U.S. at 484.° The defendant railroad should 
+have the opportunity to show that a factor other than 
+equipment failure or defect caused the failure to couple, 
+or, in this case, caused the drawbar misalignment. 
+
+
+® The evidence in this case does not even demonstrate a failure 
+to perform. The coupler on the car at issue was in fact fastened to 
+another car just before respondent attempted to realign the draw- 
+bar. See supra at 6. And there was no attempt to couple the 
+drawbars before the accident because respondent decided to re- 
+align the drawbar based on his perception that it was “slued.” This 
+demonstrates how far the respondent’s and court of appeals’ 
+theory of liability strays from the essential mandate and purpose 
+of § 20302(a) (1) (A). 
+
+
+21 
+
+
+E. Respondent’s Injury, Which Was Based Solely On 
+A Claim That The SAA Was Violated By A Mis- 
+aligned Drawbar, Is Not Covered By The Act When 
+The Drawbar Was Not Defective. 
+
+
+1. From a practical standpoint, before two railroad 
+cars can be coupled, the coupling equipment must be 
+properly positioned: drawbars must be in alignment and 
+knuckles must be open so that coupling can take place. 
+In this case, a drawbar was misaligned so that the two 
+cars apparently would not have coupled on impact, and 
+the bar had to be aligned manually. The drawbar mis- 
+alignment, however, was caused by normal movement of 
+the railroad car, and not by any defect or malfunctioning 
+of the equipment. 
+
+
+In relevant part, a railroad car must be “equipped with 
+. couplers coupling automatically by impact.” 49 
+U.S.C. § 20302(a)(1)(A). The car involved in re- 
+spondent’s accident was indisputably so equipped. The 
+misaligned drawbar involved in the accident was mis- 
+aligned due to normal operation of the car, and was not 
+defective. Petitioner’s evidence and offers of proof to that 
+effect were undisputed at trial. 
+
+
+The trial court erred when it excluded evidence that the 
+misaligned drawbar was not caused by defective equip- 
+ment, and erred by denying petitioner’s motion for directed 
+verdict on the issue of its liability under the SAA. The 
+modern and unbroken trend of federal appellate court 
+decisions concurs that “the [SAA] was created to reduce 
+the risks associated with coupling rail cars and not to 
+require that drawbars be aligned perfectly at all times.” 
+
+
+Goedel v. Norfolk & W. Ry., 13 F.3d 807, 812 (4th 
+Cir. 1994)." 
+
+
+7 See also Kavorkian v. CSX Tranap., Inc., 33 F.3d 570 (6th Cir. 
+1994); Lisek v. Norfolk & W. Ry., 30 F.3d 823 (7th Cir. 1994), 
+cert. denied, 115 S. Ct. 904 (1995); Reed v. Philadelphia, Bethle- 
+hem & New Eng. R.R., 939 F.2d 128 (3d Cir. 1991); Maldonado v. 
+Missouri Pac. R.R., 798 F.2d 764 (5th Cir. 1986), cert. denied, 480 
+
+
+22 
+
+
+The statute requires automatic coupling, not automatic 
+realignment which did not exist in 1893 and is only in 
+experimental use today. Respondent’s standard would 
+penalize railroads for normal operations unquestionably 
+in compliance with the SAA’s equipment requirements. 
+
+2. The existence of misaligned drawbars does not mean 
+that coupling equipment is defective. Drawbars often 
+become misaligned “by the normal jarring and vibrations 
+of the railroad car or when the car is uncoupled on a 
+different track ....” Kavorkian v. CSX Transp. Inc., 33 
+F.3d 570, 575 (6th Cir. 1994); United Transp. Union v. 
+Lewis, 711 F.2d 233, 235 & n.5 (D.C. Cir. 1983). 
+Moreover, this Court has recognized that, as a practical 
+necessity, drawbars must have lateral play. Atlantic City 
+R.R. v. Parker, 242 U.S. 56, 59 (1916). In order for 
+railroad cars to transverse a curved track without derail- 
+ing, the drawbars holding those cars together must have 
+some lateral play. Normal drawbar misalignment is both 
+essential and beneficial to the proper functioning of rail- 
+road cars; it does not constitute a defect. 
+
+Inevitably, then, nondefective railroad car drawbars will 
+occasionally need alignment. The alignment of drawbars 
+is still required from time to time, even with modern 
+coupling equipment. This alignment can only be accom- 
+plished by a railroad employee going between the rails to 
+move the drawbar manually. Reed v. Philadelphia, Bethle- 
+hem & New Eng. R.R., 939 F.2d 128, 130 (3d Cir. 
+1991); Kavorkian, 33 F.3d at 571. In fact, equipment for 
+automatic alignment remains experimental and is far from 
+common usage in the industry. Br. of Assoc. of Am. 
+Railroads as Amicus Curiae in Supp. of Pet. at 
+10-11; Goedel, 13 F.3d at 809; Lisek v. Norfolk 
+& W. Ry., 30 F.3d 823, 825 & n.2 (7th Cir. 1994), cert. 
+denied, 115 S. Ct. 904 (1995); Metcalfe v. Atchison, 
+Topeka & Santa Fe Ry., 491 F.2d 892, 896 n.2 (10th 
+Cir. 1974); Reed, 939 F.2d at 130 & n.1. 
+
+
+U.S. 982 (1987); ef. United Transp. Union v. Lewis, 711 F.2d 233 
+(D.C. Cir. 1983). 
+
+
+23 
+
+
+The Congress of 1893 could not have meant to man- 
+date the use of nonexistent equipment and to require that 
+drawbars could never be manually aligned in preparation 
+for coupling. This Court should refuse to “accept(| a 
+reading of section 2 that would be tantamount to a pro- 
+nouncement that 99% of all railroad cars violate section 
+2—and have done so for the entire 90 years the Act has 
+been in effect.” United Transp. Union, 711 F.2d at 251 
+n.39. 
+
+
+The question at the core of this case is whether the 
+existence of nondefective misaligned drawbars violates the 
+SAA as written, not whether railroads snould develop new 
+technology to align drawbars automatically. See United 
+States v. Seaboard Air Line R.R., 361 U.S. 78, 82 (1959) 
+(“{I}t is not for courts to determine in particular cases 
+whether this safety measure is or is not needed. Congress 
+determined the policy that governs us in applying the 
+law.”). Indeed, this Court has held that it was not the 
+intent of the SAA to require the invention of equipment, 
+but instead to require the installation of pre-existing safety 
+appliances. Sowthern Ry. v. Crockett, 234 U.S. 725, 737 
+(1914). In sum, “[i]f it is normal for nondefective auto- 
+matic couplers to become misaligned as a part of ordinary 
+railyard operations, then it is simply not reasonable to 
+hold that such misalignment amounts to a violation of 
+the Act,” creating per se liability. Lisek, 30 F.3d at 830- 
+31. 
+
+
+3. The evidence at trial, and petitioner's offers of 
+proof made out of the presence of the jury, demonstrated 
+that petitioner had the proper equipment in place at the 
+time of the accident and that automatic couplers were in 
+fact properly installed on the railroad car. Respondent 
+presented no contrary evidence that the coupler was de- 
+fective, and, in fact, all of the evidence regarding the 
+condition of the coupler tended to show that no defect 
+existed. Accordingly, petitioner was entitled to judgment 
+as a matter of law. 
+
+
+24 
+
+
+Walter A. Miller, Jr., General Foreman at Norfolk 
+Southern Corporation, inspected the railroad car and 
+coupler, which respondent claims caused his injury, less 
+than two hours after the accident. J.A. at 10, 21. Mr. 
+Miller, with 20 years of experience in the railroad in- 
+dustry, concluded that the coupler was not defective, and 
+met the Association of American Railroads guidelines pub- 
+lished in its Interchange Rules. /d. at 10-11, 21. When 
+Mr. Miller made an offer of proof out of the presence of 
+the jury, he reiterated that he found no mechanical defect 
+in the drawbar of the coupling mechanism on the car 
+involved in respondent’s accident. /d. at 21. 
+
+
+Respondent did not dispute petitioner's evidence at 
+trial tending to show that the drawbar at issue was non- 
+defective. In his responses to deposition questions, re- 
+spondent stated that he did not know what caused the 
+drawbar’s misalignment and was unaware whether it was 
+due to a factor other than equipment failure or defect. 
+R. at C291. Respondent declared that he did not know 
+if there was anything about the drawbar’s alignment that 
+indicated to him that it was defective or needed repair. 
+Id. at C292. He saw nothing to indicate that the mis- 
+alignment was due to a factor other than a defect, nor 
+did Mr. Fauver mention anything to respondent that indi- 
+cated that the misalignment was due to something other 
+than a defect. /d. 
+
+
+In this case, there was no prior impact or failed coupl- 
+ing before the accident occurred. Instead, respondent and 
+Conductor Fauver saw the misaligned drawbar, decided 
+that it would prevent coupling, and tried to straighten it 
+before any attempt at coupling. Slued drawbars requir- 
+ing manual alignment can occur whether or not there was 
+an attempt to couple; this factor should not be determi- 
+native in deciding whether the SAA has been violated. It 
+should not make a difference to a railroad’s liability if its 
+employee decides that a drawbar is sufficiently straight 
+to couple and makes a failed attempt, and then is injured 
+
+
+25 
+
+
+in attempting to align the bar, or if the employee judges 
+that the drawbar is too slued to couple and is injured 
+while aligning.” 
+
+
+F. Construing The SAA Not To Cover Respondent's 
+Claim Will Not Deprive Employees Of A Remedy 
+For Any Injuries Caused By A Railroad's Negli- 
+gence In Its Operating Procedures For Aligning 
+Drawbars. 
+
+
+Permitting railroads to present a defense that their 
+equipment was not defective will not deprive railroad em- 
+ployees injured on the job, as the respondent allegedly 
+was, of a remedy. Where a railroad is negligent in its op- 
+erations or in failing to correct an equipment malfunction 
+or in failing to comply with SAA standards, the railroad 
+still would be liable under the FELA.” If this Court 
+
+
+* The Illinois Appellate Court in this case stated that “[a)ll a 
+plaintiff such as Hiles is required to show in order to obtain a 
+directed verdict on the issue of liability is that: (1) railroad cars 
+failed to couple automatically and (2) he went between the cars 
+and was injured while trying to straighten a misaligned drawbar.” 
+Pet. App. at 7a. Respondent, too, advocated this position. In his 
+motion for directed verdict, he stated that “the injured workman 
+need only prove that he went between the cars after they failed to 
+automatically couple, and that he was injured while aligning a 
+misaligned drawbar.” R. at C552. The trial court concluded that 
+Hiles had met those requirements and was therefore entitled to a 
+directed verdict. However, it is apparent from the record below-— 
+and undisputed by respondent—that there was no attempt to couple 
+the railroad cars on the morning of July 18, 1990. Respondent has 
+not even met his own, erroneous legal standard of showing a vio- 
+lation of the SAA, or demonstrating a defect in the drawbar. 
+
+
+*If a drawbar were frozen out of alignment, for example, that 
+would certainly be a coupling defect and the railroad would face 
+liability for an injury associated with that defect. See Goedel Vv. 
+Norfolk &@ W. Ry., 13 F.3d 807, 811 (4th Cir. 1994). Couplers 
+somehow incapable of coupling on impact, perhaps those with 
+broken or missing knuckles or knuckles that could not maintain a 
+coupling, would be defective as well. FRA regulations define a 
+defective coupler as one with “a coupler shank that is bent out of 
+alignment to the extent that the coupler will not couple auto- 
+
+
+26 
+
+
+finds that railroads are strictly liable for all injuries in- 
+curred when drawbars are misaligned, then contributorily 
+negligent railroad employees will be able to elude any 
+evidence of their negligence at trial by suing exclusively 
+under the SAA, as respondent has done here. See 45 
+U.S.C. § 53 (damages diminished under the FELA by 
+employee’s contributory negligence). Given that re- 
+spondent’s claim ultimately is based on operating proced- 
+ures and not on equipment failure, the statutory scheme 
+will be better served by permitting contributory negli- 
+gence to be an issue in these cases. 
+
+
+Respondent declares that “the prime purpose of the 
+SAA is the protection of employees from injury or death,” 
+and that “[t}he object of the SAA, being remedial and 
+humanitarian, should not be construed as to defeat the 
+above purpose.” Resp. Br. in Opp. at 3. It is surely true 
+that the SAA was passed to protect railroad employees 
+from injury or death on the job, but that policy does not 
+mean that the Act’s protections are limitless, nor that the 
+Act’s plain language should be ignored so that employees 
+prevail in every suit brought under the SAA. Nor does 
+it mean that railroads must be deprived of the ability 
+to raise the affirmative defense that they in fact complied 
+fully with the statute. 
+
+
+FELA, intended to be a “broad remedial statute,” is 
+liberally construed in favor of railroad workers. Atchison, 
+Topeka & Santa Fe Ry. v. Buell, 480 U.S. 557, 562 
+(1987). In a FELA action, the railroad is liable if its 
+
+
+matically.” 49 C.F.R. § 215.123. If a coupler is warped out of 
+shape as the regulation contemplates, then it is clearly structurally 
+and raechanically defective—unlike simple misalignment which the 
+employees can manually correct. In addition, if an injured em- 
+ployee could show that the railroad negligently failed to educate 
+him regarding misaligned drawbars so that he was trying to re- 
+align one when it was unnecessary, or had failed to train him on 
+the safest methods of realignment, then a railroad could be liable 
+under the FELA for injuries resulting from those violations. 45 
+U.S.C. § 51. However, that is not the case here. Tr. at 160. 
+
+
+27 
+
+
+negligence “played any part, even the slightest, in produc- 
+ing the injury.” Rogers v. Missouri Pac. R.R., 352 US. 
+500, 506 (1957). A violation of the SAA creates liability 
+under FELA if the violation contributes to the injury, re- 
+gardless of whether that injury was one “the statute sought 
+to prevent.” Kernan v. American Dredging Co., 355 U.S. 
+426, 433 (1958). The employer owes the employee un- 
+der FELA “the duty of complying with his statutory ob- 
+ligations.” Jd. at 439. However, if those statutory obliga- 
+tions are expanded beyond their purpose solely to guaran- 
+tee a remedy, the employer will be faced with a standard 
+far beyond that which Congress intended. Railroad em- 
+ployees justifiably have substantial protection under 
+FELA, but to construe the SAA to deny railroads the 
+legitimate defense that they have not in fact violated the 
+statute is unnecessary for workers’ protection. 
+
+
+To be sure, this Court has interpreted the SAA broadly 
+regarding those employees to whom railroads owe a duty 
+under the Act. Coray v. Southern Pac. Co., 335 U.S. 520, 
+522-23 (1949): Brady v. Terminal R.R. Ass'n, 303 U.S. 
+10, 16 (1938); but see Crane v. Cedar Rapids & lowa 
+City Ry., 395 U.S. 164, 167 (1969). However, the SAA 
+should not be construed to state that a railroad cannot 
+present evidence that its equipment was not defective, 
+particularly if that construction goes against the plain lan- 
+guage anu regulatory understanding of the statute. The 
+SAA protects railroad employees from harm, but it is 
+fundamentally about safety equipment standards for the 
+railroads and carries no presumption of creating liability 
+for every injury in the workplace. The double protection 
+is unnecessary, and particularly inappropriate in this case 
+where respondent chose to sue solely under the SAA and 
+
+
+“It is inconsistent with Congress’s scheme that courts should 
+interpret the concept of a mechanical defect loosely, particularly 
+when the “defect” respondent alleges to exist was not a defect in 
+1893, and to allow a mere operational matter to masquerade as a 
+defect. 
+
+
+28 
+
+
+to forgo his right to state a separate claim based on neg- 
+ligence for violation of the FELA. 
+
+
+CONCLUSION 
+
+
+This Court should reverse the judgment of the Appel- 
+late Court of Illinois, Fifth Judicial District. 
+
+
+Respectfully submitted, 
+
+THOMAS W. ALVEY, JR. CARTER G. PHILLIPS * 
+Kurt E. REITZ ANNE E. GILSON 
+MARY SUE JUEN SIDLEY & AUSTIN 
+THOMPSON & MITCHELL 1722 Eye Street, N.W. 
+525 West Main Street Washington, D.C. 20006 
+P.O. Box 750 (202) 736-8000 
+Belleville, IL 62222 
+(618) 277-4700 
+
+Counsel for Petitioner 
+
+
+November 9, 1995 * Counsel of Record 
+
+

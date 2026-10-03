@@ -1,0 +1,706 @@
+(3 2) 
+Nos. 94-1893, 94-1900 ,% 
+
+
+” 
+
+
+Jn the Supreme Court of the United States 
+OCTOBER TERM, 1994 
+
+
+UNITED STATES OF AMERICA, ET AL.: 
+NATIONAL CABLE TELEVISION ASSOCIATION, 
+Petitioners, 
+
+
+V. 
+
+
+THE CHESAPEAKE AND POTOMAC TELEPHONE 
+COMPANY OF VIRGINIA, ET AL., Respondents. 
+
+
+On Petitions for a Writ of Certiorari to the United States 
+Court of Appeals for the Fourth Circuit 
+
+
+BRIEF OF THE UNITED STATES TELEPHONE ASSOCI- 
+ATION, NATIONAL TELEPHONE COOPERATIVE ASSO- 
+CIATION, ORGANIZATION FOR THE PROTECTION 
+AND ADVANCEMENT OF SMALL TELEPHONE COMPA- 
+NIES, AMERITECH CORPORATION, BELLSOUTH COR- 
+PORATION, FRONTIER CORPORATION, NYNEX COR- 
+PORATION, PACIFIC TELESIS GROUP, SBC COMMUNI. 
+CATIONS INC., THE SOUTHERN NEW ENGLAND TELE- 
+PHONE COMPANY, AND U S WEST, INC., AS AMICI 
+CURIAE IN SUPPORT OF RESPONDENTS 
+
+
+DAVID COSSON 
+L. MARIE GUILLORY 
+
+
+2626 Pennsylvania Ave., N.W. 
+
+
+Washington, D.C. 20037 
+Counsel for The National 
+
+
+Telephone Cooperative Assoc. 
+
+
+THOMAS P. HESTER 
+
+KELLY R. WELSH 
+30 South Wacker Drive 
+Chicago, Illinois 60606 
+Counsel for Ameritech Corp. 
+
+
+MICHAEL J. SHORTLEY, III 
+180 South Clinton Avenue 
+Rochester, New York 14646 
+Counsel for Frontier Corp. 
+
+
+MorRRISON DES. WEBB 
+JOHN M. CLARKE 
+GERALD E. MURRAY 
+JOHN P. WALSH 
+
+1113 Westchester Avenue 
+
+
+White Plains, New York 10604 
+
+
+Counsel for NYNEX Corp. 
+
+
+RICHARD W. ODGERS 
+LUCILLE M. MATES 
+
+130 Kearny Street 
+
+San Francisco, Calif. 94108 
+ALAN F. CIAMPORCERO 
+
+
+1275 Pennsylvania Ave.,N. W. 
+
+
+Washington, D.C. 20004 
+Counsel for Pacific 
+Telesis Group 
+
+
+MADELYN M. DEMATTEO 
+ALFRED J. BRUNETTI 
+
+227 Church Street 
+
+New Haven, Conn. 06510 
+Counsel for The Southern 
+New England Telephone Co. 
+
+
+Lisa M. ZAINA 
+
+21 Dupont Circle, N.W. 
+Washington, D.C. 20036 
+Counsel for The Organization for 
+the Protection and Advancement 
+of Small Telephone Companies 
+
+
+WALTER H. ALFORD 
+WILLIAM B. BARFIELD 
+1155 Peachtree Street, N.E. 
+Atlanta, Georgia 30367 
+Counsel for BellSouth Corp. 
+
+
+JAMES D. ELLIs 
+LIAM S. COONAN 
+KELLY M. MURRAY 
+PAULA J. FULKS 
+175 E. Houston 
+San Antonio, Texas 78205 
+MARTIN E. GRAMBOW 
+1401 I Street, N.W. 
+Washington, D.C. 20005 
+Counsel for SBC Communications 
+Inc. 
+
+
+LLoypD N. CUTLER 
+
+Louis R. COHEN 
+
+CRAIG A. MASBACK 
+Wilmer, Cutler & Pickering 
+2445 M Street, N.W. 
+Washington, D.C. 20037 
+
+CHARLES P. Russ III 
+
+STUART S. GUNCKEL 
+
+David S. SATHER 
+
+NORTON CUTLER 
+1801 California Street 
+Denver, Colorado 80202 
+Counsel for U S$ West, Inc. 
+
+
+TABLE OF CONTENTS 
+Page 
+INTEREST OF THE AMICI CURIAE .......... 1 
+et cere Sak oh eee 6s hee eee 2 
+EE Wie a'n de 6 4's 4 4 oo oto 6.6 6% 0 0% 8 
+
+
+ii 
+TABLE OF AUTHORITIES 
+
+
+Cases 
+
+
+Ameritech Corp. v. United States, 867 F. Supp. 
+721 (N.D. Ill. 1994), appeal pending 7th 
+
+
+Cir. No. 95-1223 0. we cc cccscessseees 
+
+
+BellSouth Corp. v. United States, 868 F. Supp. 
+1335 (N.D. Ala. 1994), appeal pending 
+
+
+11th Cir. No. 94-7036 .......-++2eeees 
+
+
+Chicago Teacher’s Union v. Hudson, 
+
+
+47S U.S. 292 (19GB). wcrc wc ccnsscces 
+
+
+City of Cincinnati v. Discovery 
+
+
+Network, Inc., 113 S. Ct. 1505 (1993) ..... 
+
+
+City of Mesquite v. Alladin’s 
+
+
+Castle, Inc., 455 U.S. 283 (1982) ........ 
+
+
+GTE South, Inc. v. United States, 
+No. CA-94-1588-A (E.D. Va. Feb 10, 1995), 
+
+
+appeal pending 4th Cir. No. 95-1738 ...... 
+
+
+Mankato Citizens Tel. Co. v. FCC, No. 92-1404 
+
+
+(D.C. Cir. Sept. 9, 1992) .........00-. 
+
+
+MCI Telecommunications v.-AT&T, 
+
+
+114 S. Ct. 2223 (1994) .... 2... eee eee 
+NCTA v. FCC, 914 F.2d 285 (D.C. Cir. 1990) .... 
+
+
+NYNEX Corp. v. United States, No. 93-1523- 
+P-C (D. Me. Dec. 8, 1994), appeal pending 
+
+
+let Cis. Mo. SS-11GS 0 weve cesccccces 
+
+
+Pacific Telesis Group v. United States, 48 F.3d 1106 
+Gh Ge. BD nc cccsscccccesenseun 
+
+
+Secretary of State v. J.H. Munson Co., 
+
+
+467 U.S. 947 (1984)... 2. 1 ee ee ee ees 
+
+
+iii 
+Southern New England Tel. Co. v. United States, 
+No. 3:94-CV-80 (DJS) (D. Conn. Apr. 27, 1995) . 
+
+
+Southwestern Bell Co. v. United States, 
+No. 3:94-CV-0193-D (N.D. Tex. Mar. 27, 1995) . . 
+
+
+United States Tel. Ass’n v. United States, 
+No. 1:94CV01961 (D.D.C. Feb. 14, 1995), 
+
+
+appeal pending D.C. Cir. No. 95-5117 ........ 
+
+
+United States vy. W.T. Grant Co., 
+FE twee 
+
+
+United States v. X-Citement Video, Inc., 115 S. Ct. 
+EE 
+EE 
+
+
+Statutes 
+EEE cc ceeeeeseccocecce 1-3, 7 
+
+
+INTEREST OF THE AMICI CURIAE 
+
+Amici curiae are companies (and industry associations 
+whose members are companies) that provide telecommunica- 
+tions services to the general public, including local telephone 
+service regulated as common carriage under state laws and the 
+federal Communications Act of 1934.' Amici file this brief 
+in Opposition to petitioners’ contention that the Court should 
+summarily vacate the judgment of the court of appeals and 
+remand for further proceedings. Amici strongly support 
+respondents’ position that the Court should grant certiorari and 
+decide the important constitutional question presented; alterna- 
+tively, the Court should simply deny certiorari.’ 
+
+Amici, like respondents, are involved in litigation concern- 
+ing the constitutionality of 47 U.S.C. § 533(b), which prohib- 
+its telephone companies from providing “video programming” 
+directly to subscribers within their service areas. In nine other 
+cases (involving these amici and amicus GTE Service Corpo- 
+ration), as in this case, federal courts have struck down Sec- 
+
+
+' Amici United States Telephone Association, National Telephone 
+Cooperative Association, and Organization for the Protection and 
+Advancement of Small Telephone Companies are industry associ- 
+ations whose members — approximately 1400 companies — include 
+virtually all of the traditional local telephone companies in the 
+United States. Amici Ameritech Corporation, BellSouth Corpora- 
+tion, Frontier Corporation, NYNEX Corporation, Pacific Telesis 
+Group, SBC Communications Inc., Southern New England Tele- 
+phone Company, and U S West, Inc. are some of the largest compa- 
+nies whose affiliates or subsidiaries are engaged in the business of 
+providing communications services, including local telephone ser- 
+vice. Together with respondents and amicus GTE Corporation, 
+amici represent virtually every company subject to the free speech 
+restriction in 47 U.S.C. § 533). 
+
+
+? The parties’ letters of consent to the filing of this brief have 
+been filed with the Clerk pursuant to Rule 37.3 of the Rules of this 
+Court. 
+
+
+2 
+
+
+tion 533(b) as a facial violation of the First Amendment.’ 
+
+Amici therefore have a substantial interest in this Court’s 
+
+determination of the constitutionality of Section 533(b). 
+ARGUMENT 
+
+
+Amici file this brief to oppose the government’s extraordi- 
+nary suggestion that this Court vacate the court of appeals’ 
+decision holding Section 533(b) unconstitutional on its face, 
+merely because the Federal Communications Commission has 
+suggested that in the future (in circumstances that it has not 
+yet determined), it will waive application of a statute that it 
+has been enjoined from enforcing. There is no basis for this 
+Court to remand the case to the Fourth Circuit as petitioners 
+have requested. The Commission should not be allowed to 
+nullify an adverse judicial ruling merely by announcing in 
+vague terms that it might no longer apply the statute as writ- 
+ten. The Commission’s recent decision is devoid of meaning 
+in practical terms — in particular, it fails to address the rea- 
+sons set forth by the Fourth Circuit and other courts for hold- 
+ing the statute unconstitutional — and should be rejected by 
+this Court as a transparent litigation tactic. 
+
+
+> US West, Inc. v. United States, 48 F.3d 1092 (9th Cir. 1994); 
+Pacific Telesis Group v. United States, 48 F.3d 1106 (9th Cir. 
+1994); Southern New England Tel. Co. v. United States, No. 3:94- 
+CV-80 (DJS) (D. Conn. Apr. 27, 1995); Southwestern Bell Co. v. 
+United States, No. 3:94-CV-0193-D (N.D. Tex. Mar. 27, 1995); 
+GTE South, Inc. v. United States, No. CA-94-1588-A (E.D. Va. 
+Feb 10, 1995), appeal pending 4th Cir. No. 95-1738; United States 
+Tel. Ass'n v. United States, No. 1:94CV01961 (D.D.C. Feb. 14, 
+1995), appeal pending D.C. Cir. No. 95-5117; NYNEX Corp. v. 
+United States, No. 93-1523-P-C (D. Me. Dec. 8, 1994), appeal 
+pending ist Cir. No. 95-1183; BellSouth Corp. v. United States, 
+868 F. Supp. 1335 (N.D. Ala. 1994), appeal pending 11th Cir. No. 
+94-7036; Ameritech Corp. v. United States, 867 F. Supp. 721 (N.D. 
+Ill. 1994), appeal pending 7th Cir. No. 95-1223. 
+
+
+3 
+
+
+After the district court’s decision in this case, many of 
+these amnici sought to intervene in the action, to avoid the 
+necessity of repetitive litigation, acknowledging that they 
+would thereby be bound by the final decision on appeal. See 
+CA App. 16 (docket entries). The government insisted, how- 
+ever, that it was entitled to defend the statute against each of 
+the companies separately. See Gov’t Defendants’ Mem. in 
+Opp. to Motions to Intervene 10 n.21, 15. In deference to 
+that position, the district court reluctantly denied the motion 
+to intervene. See CA App. 94-95 (order); see also Tr. 63 
+(Sept. 30, 1993) (denying motion “with reluctance”). Accord- 
+ingly, the industry has been forced to proceed piecemeal with 
+nine separate lawsuits and attendant appeals, at great expense 
+to itself, the government, the judicial system, and the public. 
+The government has lost in every court — indeed, before 
+every judge. We consider it outrageous that the government 
+now is arguing that the matter be subjected to additional 
+rounds of litigation, on the basis of “changed circumstances” 
+wholly of its own making. 
+
+
+In this and nine other cases in federal courts around the 
+country, telephone companies have won recognition of their 
+constitutional right to engage in video speech. In every case, 
+before every court, Section 533(b) has been held unconstitu- 
+tional on its face — that is, in every application. Now — 
+after years of litigation, 2 ay tame ay etal 
+tunity to resolve the constitutionality of Section 533(b) — 
+Eales atentanee « 
+waive the video programming ban whenever it believes that 
+competition and diversity would be advanced thereby.‘ The 
+
+
+* The Commission makes no secret of the fact that the Third 
+Report and Order is motivated by the desire to avoid and set aside 
+adverse court decisions. See Third Report and Order, Gov't Supp. 
+Br. App. 7a (“By implementing a ‘more speech-friendly’ plan * * * 
+we make it unnecessary for those courts to decide whether a com- 
+plete prohibition on video programming by telephone companies in 
+
+
+4 
+
+
+FCC has announced its future intention to grant waivers “rou- 
+tinely” to permit telephone companies to provide video pro- 
+gramming where they undertake to provide common carrier 
+video transport and they promise to abide by certain unspeci- 
+fied requirements. Gov't Supp. Br. App. 19a. 
+
+
+Neither the vague promises of future intent announced in 
+the Third Report and Order nor any elaboration of those 
+promises could justify the extraordinary relief requested by the 
+government. In itself, the Third Report and Order does noth- 
+ing: no telephone company has been given permission to 
+engage in video speech (as is their constitutional right, accord- 
+ing to the decision below and those in nine other cases). 
+Amazingly, the FCC does not tell us the terms on which such 
+permission might be granted in the future; we have yet to see 
+whether the terms will be economically or technologically 
+feasible. The Third Report and Order, like other orders in 
+this docket (see note 7, infra), will likely be altered in the 
+process of judicial review and administrative reconsideration. 
+There is no way to know how long it will take to sort all of 
+this out, except that it is likely to take years. Once it is sorted 
+out, there is no way to know how long it will take for the 
+
+
+their exchange areas is constitutional”). 
+
+
+* The new policy addresses only the future prospect of telephone 
+companies providing video programming on a “video dialtone” plat- 
+form. E.g., Gov’t Supp. Br. App. 4a-Sa. The Court should be 
+aware that “video dialtone” is still at a conceptual and experimental 
+stage; no actual, technologically and commercially viable, video 
+dialtone system has ever been put into place. The particular regula- 
+tory requirements to be attached to such a system could well doom 
+it as a realistic means for delivering video programming. In the 
+meantime, if the government’s suggestion is accepted, telephone 
+companies will continue to be barred from all the other ways in 
+which they might exercise their First Amendment rights to engage 
+in video speech. 
+
+
+5 
+
+
+FCC actually to grant waivers. And, of course, there is no 
+way to know whether the Commission will again change its 
+mind, once the immediate threat of this constitutional litigation 
+has been averted. In short, this is the “sort of administrative 
+law shell game” referred to in MCI Telecommunications v. 
+AT&T, 114 §. Ct. 2223, 2227 (1994) (quoting 978 F.2d 727, 
+731-32 (D.C. Cir. 1992)).’ 
+
+
+Even if the FCC had provided a clear announcement that 
+it would waive application of the statute in particular circum- 
+stances, vacatur would not be appropriate. This Court has 
+consistently rejected attempts by defendants to avoid appellate 
+review merely by voluntary cessation of unconstitutional 
+conduct. See, e.g., City of Mesquite v. Alladin’s Castle, Inc. , 
+455 U.S. 283, 288-289 (1982); Chicago Teacher’s Union v. 
+
+
+* The undisputed record in this case demonstrates that issuance 
+of “good cause” waivers is a very rare event, is likely to be ap- 
+pealed, and frequently takes years when a waiver is granted at all. 
+CA App. 8725 (Joint Stipulations of Fact); NCTA v. FCC, 914 F.2d 
+285 (D.C. Cir. 1990). 
+
+
+’ The history of the FCC’s decision-making in this area includes 
+other efforts to avoid judicial review. In 1992, when the Commis- 
+sion first definitively concluded that it should recommend repeal of 
+the statutory ban on telephone company provision of video program- 
+ming, that decision was challenged in the D.C. Circuit by NCTA 
+and others. The FCC convinced the D.C. Circuit to stay its consid- 
+eration of the appeal while the FCC resolved administrative petitions 
+for reconsideration. Mankato Citizens Tel. Co. v. FCC, No. 92- 
+1404 (D.C. Cir. Sept. 9, 1992). The reconsideration phase took 
+over two years, culminating in a new order on November 7, 1994 
+(See 59 Fed. Reg. 63971), which itself was appealed to the D.C. 
+Circuit. In the meantime, however, the FCC granted a number of 
+applications for video dialtone facilities, and those orders have also 
+been appealed. The FCC has asked the D.C. Circuit to stay consid- 
+eration of all those appeals while the Commission resolves petitions 
+for reconsideration of its November 7, 1994 order. 
+
+
+6 
+
+
+Hudson, 475 U.S. 292, 305 n.14 (1986); United States v. 
+W.T. Grant Co., 345 U.S. 629, 632-633 (1953). Here, of 
+course, the relief requested by the government — vacatur of 
+the Fourth Circuit’s decision without any substantive review 
+by this Court — is even more unprecedented. As noted 
+above, the Third Report and Order in fact changes nothing in 
+this litigation: it merely announces a prospective policy, which 
+might not be consistent with the statute, which might not even 
+apply to the respondents, and which the FCC might well re- 
+verse once it is free of the injunctions prohibiting the statute’s 
+enforcement. 
+
+
+There is no point to the government’s suggestion, other 
+than delay and expense. If the government truly believes that 
+its new-found capacity to grant discretionary waivers affects 
+the constitutional issue in this case, then it can argue that 
+position in its brief on the merits. Moreover, if the govern- 
+ment believes that a different regulatory regime than the one 
+now in existence would pass constitutional muster, then it is 
+free to enact that regime and let its legality be tested in due 
+course. But none of this is a legitimate justification for frus- 
+trating prompt resolution of claims of a constitutional right to 
+speak. 
+
+
+Even if the statute authorized the FCC’s newly discovered 
+position concerning its waiver authority,’ and even if the FCC 
+
+
+* The government cites United States v. X-Citement Video, Inc., 
+115 S. Ct. 464, 467 (1994), for the proposition that a newly discov- 
+ered interpretation of a statute should be considered on Supreme 
+Court review of the constitutionality of the statute. Gov't Supp. Br. 
+3-4. But X-Citemen: Video provides no support for the suggestion 
+that the appellate court decision be vacated and the case remanded 
+tor reconsideration on the basis of that changed interpretation. To 
+the contrary, the Court reviewed and decided X-Citement Video on 
+the merits. The Court should do so here as well. 
+
+
+" Waivers may be granted only in situations in which “the issu- 
+
+
+7 
+
+
+had announced an actual policy (rather than merely the vague 
+promise of future action based on presently unknown factors 
+and conditions), the agency’s discretionary policy to grant or 
+deny speech rights could not resolve the constitutional prob- 
+lems presented in this case. City of Cincinnati v. Discovery 
+Network, Inc. , 113 S. Ct. 1505, 1513-1514 n.19 (1993) (strik- 
+ing down a regulatory licensing scheme that vested “unbridled 
+discretion in a government official”); Secretary of State v. 
+J.H. Munson Co., 467 U.S. 947, 964 n.12 (1984) (noting 
+constitutional concerns raised by a statute that “plac[es] discre- 
+tion in the hands of an official to grant or deny a license”); 
+see also id. at 968 (“[t]he possibility of a waiver may decrease 
+the number of impermissible applications of the statute, but 
+it does nothing to remedy the statute’s fundamental defect”). 
+
+
+At best, the Third Report and Order may allow some 
+telephone companies, on terms 10 be specified in the future, 
+in the discretion of the Commission, to engage in some forms 
+of video speech. By contrast, under the decision below, these 
+companies have a constitutional right to engage in video 
+speech now, because the government failed to demonstrate a 
+constitutionally valid justification for silencing them. We are 
+at a loss to understand how the government’s grudging will- 
+ingness, under pressure of adverse court rulings, to give 
+limited discretionary permission for some speech, can possibly 
+
+
+ance of such waiver is justified by the petitioner, taking into account 
+the policy of this subsection.” 47 U.S.C. § 533(b)(4). The Com- 
+mission seeks to base the waivers contemplated by the Third Report 
+and Order, however, not on the policy of the subsection, but rather 
+on its repudiation of that policy. The government’s litigating 
+position in this and related cases has been that the Congressional 
+policy in enacting Section 533(b) was to enhance competition in the 
+cable industry by barring telephone companies from providing video 
+programming in their telephone service areas. See, e.g., Pet. App. 
+17a-18a; see also NCTA, 914 F.2d at 289. 
+
+
+subsutute for the consutubonal nght recogmazed Dy Ge cour 
+below (and by every other cowrl © hawe commderst Qe aeue 
+
+
+If plainuffs had successfully challengec 2 car @e ber 
+ning politcal demonstratoms m a publx perk Gus Cour 
+would not vacate the pudgment anc temand merely Secause he 
+shenff announced — @ response © mul=pie comm myunchon: 
+— that he would warve the bar op Gemoesraters © Sour 
+unspecified circumstances. for “good cause " Althoug? ihe 
+technology wm tus case may be more complies he croimcopie 
+is the same. 
+
+In sum. the cour below fas declared « federal eter 
+unconsatuvonal Its essenna that Xoth he gowernmen anc 
+the industry regulated >y he gate Gow 4 cxpedimous «© 
+possibie. whether thal Gecmor s come 4"sieprome comme 
+mes across the nabor are poset © oOves suomtarna Sse 
+in construcing the mfrastructure seeder © oong compenner 
+to this preiousivy moncpoizec nedher 3 comemaecener 
+The government shoud sot be allowes — ate weg of © 
+every court — © prolong Ge Gece, pews fo 
+importamt Gevelopmem <Accomiingiy te Cour showk’ 
+Prompdy grant rewew anc et he caw  plemery ooctine 
+anc Ora argument 
+
+
+CONCLUSIO* 
+
+
+The peunon for a ert of cernorar ows 3 game ox 
+
+
+the government | suggesoor tat fe udgmer © fe oer © 
+app]eas De acalec ac Tee awe o™aneet OO he roe 
+
+
+7 Gout eee ff fe ete De Coe mowkd 
+ESE Saar 
+
+
+teow) eee 
+“a «Deer eee 8 CC oe” 
+ee aa tae) us 
+Sem D> ooo * ‘eee Pree 7 
+= 2? ine 1 for Pow € Mor 
+
+
+Hit 
+i 
+ith 
+ie 
+
+
+ivi! 
+7 
+Hi 
+m 
+
+
+MICHAEL J. SHORTLEY, I 
+) 30 South Clinton Avenue 
+Rochester, New York 14646 
+Counsel for Frontier Corp. 
+
+
+Morrison DES. WEBB 
+
+JOHN M_ CLARKE 
+
+GERALD E. Murray 
+
+Jou~n P. WaLsH 
+
+/ 113 Westchester Avenue 
+White Plains, New York 10604 
+Counsel for NYNEX Corp. 
+
+
+RICHARD W. ODGERS 
+LUCILLE M MarTEs 
+
+
+10 
+
+
+JAMES D. ELLIs 
+LiaM S. COONAN 
+KELLY MURRAY 
+PAuULa J. FULKs 
+175 E. Houston 
+San Antonio, Texas 78205 
+MARTIN E. GRAMBOW 
+1401 I Street, N.W. 
+Washington, D.C. 20005 
+Counsel for SBC Communications 
+
+
+Inc. 
+
+
+LLoyp N. CUTLER 
+Louts R. COHEN 
+CRraiG A. MASBACK 
+Wilmer, Cutler & Pickering 
+2445 M Street, N.W. 
+
+
+Washington, D.C. 20037 
+
+
+. CHARLES P. Russ III 
+
+
+STuarT S. GUNCKEL 
+Davip S. SATHER 
+NorTOn CUTLER 
+
+1801 California Street 
+Denver, Colorado 80202 
+Counsel for U S West, Inc. 
+
+

@@ -1,0 +1,1724 @@
+". 4 
+. ie 
+
+
+UNITED STATES oF AMERICA, ef al., 
+
+
+\: Petitioners, 
+
+
+‘CumsaPEAKE AND POTOMAC TELEPHONE COMPANY 
+OF VIRGINIA, ef al., 
+
+
+- 
+
+
++ 
+tr% 
+7 
+. 
+. 
+
+
+Respondents. 
+
+
+*. 
+4 
+
+
+4 
+" 
+« 
+r 
+~ 
+) 
+Lea e 
+es: 
+wr 
+neh 
+oF 
+¢ 
+
+
+4 
+
+
+_ 
+
+
+a 
+
+
+De CABLE TELEVISION ASSOCIATION, INC., 
+
+
+* 
+
+
+~% 
+
+
+LOS 
+
+
+yt 
+o> 
+
+
+* 
+*s 
+
+
+a Petitioner, 
+
+
+sar Heine CORPORATION, ef al., 
+
+
+Peed nfl 
+» 
+
+
+to 
+
+
+Respondents. 
+
+
+>. 
+
+
+ve 
+
+
+i 
+kite 
+
+
+4 ~~ 
+o “4 
+
+
+On Writs of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Cireuit 
+
+
+Ba 
+ar 
+os ie toe ~ 
+
+
+a" * 
+
+
+~ . ian > 
+yA woo 
+
+
+BRIEF OF U S WEST, INC. AS AMICUS 
+CURIAE IN SUPPORT OF RESPONDENTS 
+
+
+“wy 
+
+
+Ag 
+ee 
+
+
+“k 
+
+
+wy 
+
+
+we 
+
+See 
+
+ee 
+
+Ww 4 
+‘ 
+
+
++ 
+
+
+ve 
+
+
+se 
+
+
+* - - 
+- Ors, Sollee 
+.*> oust eae 
+
+
+| sage California Street 
+
+
+LLOYD N. CUTLER 
+Counsel of Record 
+Louls R. COHEN 
+WILLIAM T. LAKE 
+STEVEN M. DUNNE 
+LYNN CHARYTAN 
+
+
+~ Wumer, CuTier & PICKERING 
+
+
+2446 M Street, N.W. 
+Washington, D.C. 20037 
+(202) 668-6000 
+
+Counsel for US WEST, Inc. 
+
+
+en ee Printing Co., inc. eediaea’ enscatenen D.C. 20001 
+
+
+TABLE OF CONTENTS 
+
+
+INTEREST OF THE AMICUS CURIAE .................... 
+
+
+STATEMENT OF THE CASE .......................-:c0ssec-cesseeees 
+
+
+SUMMARY OF ARGUMENT ...........0.0...2.....:..ccccssseeesees 
+
+
+ENTS Ren PDR ono eee 
+
+
+I. 
+
+
+Il. 
+
+
+THE VIDEO PROGRAMMING BAN IS NOT 
+NARROWLY TAILORED TO MEET ANY 
+PROFFERED GOVERNMENTAL INTEREST, 
+AND CONGRESS HAS NEITHER EXPLIC- 
+ITLY NOR IMPLICITLY FOUND THAT THE 
+ae 
+
+
+A. There Has Been No Congressional Finding 
+That a Complete Ban on Telephone Company 
+Provision of Video Programming Is Neces- 
+sary To Serve the Interests Proffered by the 
+es 
+
+
+B. The FCC’s Third Report and Order on Tele- 
+phone Company Provision of In-Region 
+Video Programming Fatally Undercuts the 
+Argument That Congress Has Determined 
+That a Blanket Ban Is Necessary .................. 
+
+
+THE FCC’S NEW INTERPRETATION OF 
+ITS WAIVER AUTHORITY IN THE THIRD 
+REPORT AND ORDER ONLY EXACER- 
+BATES THE STATUTE’S UNCONSTITU- 
+IE TT cetitncnctenicvianicildinebenttinnrsieeninatepeniinienimenes 
+
+
+A. The FCC’s New Construction of the “Good 
+Cause” Waiver Provision Does Not Alter 
+Section 533(b)’s Unconstitutional Blanket 
+Ban on Telephone Company Provision of 
+
+
+In-Region Video Programming ...................... 
+B. The FCC’s Promise of Administrative Char- 
+
+
+ity Does Not Vindicate Telephone Companies’ 
+First Amendment Rights .................................. 
+
+
+14 
+
+
+18 
+
+
+18 
+
+
+21 
+
+
+ii 
+
+
+TABLE OF CONTENTS—Continued 
+Page 
+
+
+C. The FCC’s Enlargement of Its Own Admin- 
+istrative Discretion Only Exacerbates the 
+
+
+D. There Is No Reason Now To Address the 
+New Regime the FCC Has Proposed To Re- 
+place the Blanket Ban Enacted by Congress.. 
+
+
+R 
+
+
+CONCLUSION 
+
+
+eee eee eee ee ee eel 
+
+
+iii 
+TABLE OF AUTHORITIES 
+
+
+CASES AND ADMINISTRATIVE DECISIONS Page 
+American Scholastic TV Programming Founda- 
+tion Vv. FCC, 46 F.3d 1173 (D.C. Cir. 1995)........ 10, 11 
+
+
+Applications of Telephone Companies for Section 
+214 Certificates for Channel Facilities Furnished 
+to Affiliated Community Antenna Television 
+Systems, Final Report and Order, 21 F.C.C.2d 
+307 (1970), aff'd sub nom. General Telephone 
+Co. Vv. United States, 449 F.2d 846 (5th Cir. 
+
+
+ee 9 
+Baker v. Carr, 369 U.S. 186 (1962) ................... 16 
+California v. FCC, 39 F.3d 919 (9th Cir. 1994), 
+
+cert. denied, 115 S. Ct. 1427 (1995) —.................. - 
+Cantwell v. Connecticut, 310 U.S. 296 (1940)....... 24 
+Central Bank v. First Interstate Bank, 114 S. Ct. 
+
+EE a re 11 
+City of Cincinnati v. Discovery Network, Inc., 113 
+
+S. Ct. 1505 (1998) ..... a eae ee 15 
+City of Lakewood Vv. Plain Dealer Publishing Co. . 
+
+I i cetions 23, 24, 25 
+Cox V. Louisiana, 379 U.S. 536 (1965) —............... 24 
+Edenfield v. Fane, 113 8. Ct. 1792 (1993) ............... 17 
+
+
+Edward J. DeBartolo Corp. Vv. Florida Gulf Coast 
+Building & Construction Trades Council, 485 
+
+
+EE ae 20 
+GTE California Inc. v. FCC, No. 95-70518 (9th 
+
+EE 8, 23 
+Kunz Vv. New York, 340 U.S. 290 (1951) ............... 24 
+Landmark Communications, Inc. V. Virginia, 435 
+
+EEE Sn ee 14 
+Los Angeles Vv. Preferred Communications, Inc., 
+
+EE a ee 13,14 
+Lovell v. City of Griffin, 308 U.S. 444 (1988)... =n 21 
+Mankato Citizens Telephone Co. v. FCC, No. 92- 
+
+1404 (D.C. Cir. Sept. 9, 1992) ............................ 8 
+NCTA V. FCC, 914 F.2d 285 (D.C. Cir. 1990) ........ 16 
+NLRB Vv. Catholic Bishop of Chicago, 440 U.S. 490 
+
+EEE a a oe 18, 19, 20 
+
+
+Nashville, Chattanooga & St. Louis Ry. v. Walters, 
+i 16 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+National Rural Telecom Ass'n Vv. FCC, 988 F.2d 
+fF YY § RRR SSS: Se See 
+Niemotko v. Maryland, 340 U.S. 268 Ee 
+Pension Benefit Guarantee Corp. Vv. LTV Corp., 
+ies 
+Revision of the Processing Policies for Waivers of 
+the Telephone Company—Cable Television Cross 
+Ownership Rules, 69 F.C.C.2d 1097 (1978)... 
+Sable Communications, Inc. v. FCC, 492 U.S. 115 
+EE A SE es a Lee 
+Saia Vv. New York, 334 U.S. 558 (1948) —................ 
+Schaumberg Vv. Citizens for a Retter Environment, 
+FR RO RES oo PE eee 
+Schneider Vv. State (Town of Irvington), 308 U.S. 
+FRESE ee ON ee eR 
+Secretary of State of Maryland Vv. J.H. Munson 
+
+
+Page 
+
+
+Oe ae 20, 21, 23 
+
+
+Southwestern Bell Corp. v. FCC, 896 F.2d 1378 
+Ee 
+Telephone Company—Cable Television Cross- 
+Ownership Rules, Sections 6354-6358, Third 
+Report and Order, 10 FCC Red 7887 (1995), 
+petition for review filed sub nom. GTE Cali- 
+fornia Inc. v. FCC, No. 95-70518 (9th Cir. June 
+
+
+ES oe passim 
+
+
+Telephone Company—Cable Television Croes- 
+Ownership Rules, Sections 63.54-63.58, Fourth 
+Further Notice of Proposed Rulemaking, 10 
+. | )6U U6LlCUCZO ye ea 
+
+Telephone Company—Cable Television Cross- 
+Ownership Rules, Sections 63.54-68.58, Second 
+Report and Order, Recommendation to Con- 
+gress, and Second Further Notice of Proposed 
+Rulemaking, 7 FCC Red 5781 (1992), modified 
+in part on recon., 10 FCC Red 244 (1994), peti- 
+tion for review filed sub nom. Mankato Citizens 
+Telephone Co. Vv. FCC, No. 92-1404 (D.C. Cir. 
+ff ee ae 
+
+
+v 
+
+
+TABLE OF AUTHORITIES—Continued 
+Page 
+
+
+Turner Broadcasting System, Inc. v. FCC, 114 
+S. Ct. 2445 (1904) ............................... 2, 10, 13, 14, 15, 16 
+U S WEST, Inc. v. United States, 855 F. Supp. 
+1184 (W.D. Wash. 1994), aff'd, 48 F.3d 1092 
+EA a a a ee 2,10 
+U S WEST, Inc. v. United States, 48 F.3d 1092 
+a 2, 3, 8, 9, 10, 11, 17 
+Ward v. Rock Against Racism, 491 U.S. 781 
+ESTES AS Tae ae A ae eae 14 
+
+
+FR ES eens passim 
+Cable Television Consumer Protection and Com- 
+petition Act of 1992, § 2(a) (2), 106 Stat. 1460. 15 
+
+
+Pole Attachment Act of 1978, 47 U.S.C. 224(b) (1). - 
+RSENS passim 
+MISCELLANEOUS 
+141 Cong. Rec. H8506-07 (daily ed. Aug. 4, 1995)... 12,13 
+141 Cong. Rec. 88480 (daily ed. June 15,1995) 12 
+140 Cong. Rec. H5247-48 (daily ed. June 28, 1994) . 12 
+H.R. 1555, 104th Cong., Ist Sess. (1995) 12,13 
+H.R. 3636, 108d Cong., 2d Sess. (1994)... 12 
+H.R. Rep. No. 204, 104th Cong., Ist Sess. (1995) __. 13 
+H.R. Rep. No. 560, 108d Cong., 2d Sess. (1994) 12 
+H.R. Rep. No. 934, 98th Cong., 2d Sess. (1984) 10 
+S. 652, 104th Cong., Ist Sess. (1995) ee 12 
+S. 1822, 108d Cong., 2d Sess. (1994) 12 
+S. Rep. No. 367, 103d Cong., 2d Sess. (1994)... 12 
+FCC Policy on Cable Ownership: A Staff Report 
+EES ES eS Re ae 7 
+
+
+NTIA, U.S. Dep’t of Commerce, The NTIA In- 
+frastructure Report: Telecommunications in 
+the Age of Information (1991) ........ 9 
+Reply Comments of the U.S. Department of Jus- 
+tice, Telephone Company—Cable Television 
+Cross-Ownership Rules (Mar. 13, 1992) ............ 9 
+
+
+Mee Gates Ss a ore 
+
+
+ch 7 % 2 San 7) gm 
+7 » 
+» 7 a 
+7 ri 
+P * 4 g If 9° © ® LA? 
+e 
+
+
+° 
+
+
+@ 
+
+
+9 
+
+
+In THE 
+Supreme Court of the United States 
+
+
+OcTOBER TERM, 1995 
+
+
+No. 94-1893 
+
+
+UNITED STATES OF AMERICA, et ai., 
+
+
+7 Petitioners, 
+
+
+CHESAPEAKE AND POTOMAC TELEPHONE COMPANY 
+OF VIRGINIA, ef ai., 
+
+
+Respondents. 
+
+
+No. 94-1900 
+
+
+NATIONAL CABLE TELEVISION ASSOCIATION, INC., 
+
+
+2 Petitioner, 
+
+
+BELL ATLANTIC CORPORATION, ef al., 
+Respondents. 
+
+
+On Writs of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+BRIEF OF U S WEST, INC. AS AMICUS 
+CURIAE IN SUPPORT OF RESPONDENTS 
+
+
+U S WEST, Inc. (“U S WEST”) respectfully submits 
+this brief as amicus curiae in support of respondents, urg- 
+ing affirmance of the decision below. Written consents of 
+all parties to the filing of this brief have been filed with 
+the Clerk pursuant to Supreme Court Rule 37.3. 
+
+
+2 
+
+
+INTEREST OF THE AMICUS CURIAE 
+
+
+U S WEST and its subsidiaries and affiliates provide 
+local telephone service to customers in 14 western states 
+with a total population of more than 30 million people. 
+U S WEST wishes to provide cable television service, in 
+competition with existing cable operators, within this 14- 
+state regon, but 47 U.S.C. 533(b) (“section 533(b)”), 
+if valid, would by its terms prohibit U S WEST from 
+doing so. 
+
+
+U S WEST, joined by other local telephone companies, 
+brought suit against the federal petitioners in the U.S. 
+District Court for the Western District of Washington, 
+seeking to establish its right under the First Amendment 
+to provide such video programming. The district court 
+granted summary judgment for the plaintiffs, holding that 
+section 533(b) unnecessarily “sacrifices” the First Amend- 
+ment rights of U S WEST and other telephone companies 
+because it is not narrowly tailored to serve any substantial 
+governmental interest. 1) S WEST, Inc. v. United States, 
+855 F. Supp. 1184, 1193 (W.D. Wash. 1994). 
+
+
+The Ninth Circuit affirmed, concluding for similar rea- 
+sons that section 533(b) violates the First Amendment. 
+U S WEST, Inc. v. United States, 48 F.3d 1092 (9th 
+Cir. 1995). Judge Hall, writing for a unanimous panel, 
+first determined that the video programming ban should 
+be subjected to intermediate scrutiny in light of this 
+Court’s decision in Turner Broadcasting System, Inc. Vv. 
+FCC, 114 S. Ct. 2445 (1994). See 48 F.3d at 1097- 
+100. She then concluded that there was no evidence to 
+support two “interests” proffered by the Government as 
+reasons for sustaining section 533(b): to prevent tele- 
+phone companies from limiting access to poles and con- 
+duits, and to promote diversity by preventing telephone 
+companies from monopolizing the cable television indus- 
+try. Id. at 1102-03. As for a third argument—that the 
+video programming ban reduces incentives for telephone 
+companies to “cross-subsidize” cable operations by shift- 
+
+
+3 
+
+
+ing costs to regulated telephone operations—the court 
+found that although there was a question whether the 
+Statute serves this purpose at all, there was no doubt that 
+section 533(b) is not narrowly tailored to meet such 
+a concern. /d. at 1103-06. Citing several examples of 
+steps the Government could take, short of a sweeping ban 
+on speech, to prevent anticompetitive behavior such as 
+cross-subsidization, the court held that section 533(b) 
+is not narrowly tailored and thus fails First Amendment 
+scrutiny. /d. at 1104-06. The court also firmly rejected 
+the Government’s argument that Congress, in not repeal- 
+ing section 533(b), implicitly made legislative findings to 
+which the court should defer. /d. at 1100-01, 1106. The 
+court of appeals refused to accept “congressional inaction 
+as persuasive evidence . . . of Congress’s having ‘found’ 
+anything.” /d. at 1106. 
+
+
+For similar reasons, in the present case, the Court of 
+Appeals for the Fourth Circuit held that section 533(b) 
+violates the First Amendment. Eight other district courts 
+have also concluded that the video programming ban is 
+unconstitutional, and no court has held to the contrary. 
+See Response to Petitions for Writ of Certiorari 4 n.2 
+(listing cases). U S WEST, like respondents, has an in- 
+terest in offering video programming in its local tele- 
+phone service area. U S WEST submits this brief in 
+support of respondents’ position that prohibiting this 
+speech activity violates the First Amendment. 
+
+
+STATEMENT OF THE CASE 
+
+
+We adopt respondents’ statement of the case. How- 
+ever, because this brief focuses in part on the FCC's 
+Third Report and Order,’ we briefly summarize it here. 
+The Third Report and Order is reprinted in the Appen- 
+
+
+' Telephone Company—Cable Television Cross-Ownership Rules, 
+Sections 63.54-63.58, Third Report and Order, 10 FCC Red 7887 
+(1995), petition for review filed sub nom. GTE California Inc. v. 
+FCC, No. 95-70518 (9th Cir. June 28, 1995). 
+
+
+4 
+
+
+dix to the Supplemental Brief of Petitioners in Support 
+of Petition for a Writ of Certiorari (“Pet. Supp. App.” 
+la-2la).? 
+
+
+In the Third Report and Order, the FCC reinterpreted 
+section 533(b)’s “good cause” waiver provision, saying 
+it was doing so in order to avoid the “serious question 
+as to whether Section [|533](b) unnecessarily burdens sub- 
+stantially more speech than is necessary to promote com- 
+petition in the multi-channel video programming market.” 
+Pet. Supp. App. 6a. The waiver provision states that 
+“upon [a] showing of good cause, the Commission may, 
+on petition for waiver, waive the applicability of” the 
+telephone company in-region video programming bar. 47 
+U.S.C. 533(b)(4). Before granting a waiver, the FCC 
+must find that “the issuance of such waiver is justified by 
+the particular circumstances demonstrated by the peti- 
+tioner, taking into account the policy of this subsection.” 
+Id. 
+
+
+Until the Third Report and Order, the agency had 
+found “good cause” to support a waiver only where the 
+applicant could “demonstate” that the waiver was needed 
+and would serve the public interest in that “particular 
+case[].” Revision of the Processing Policies for Waivers 
+of the Telephone Company—Cable Television Cross 
+Ownership Rules, 69 F.C.C.2d 1097, 1111 (1978). 
+Under the new regime announced in the Third Report and 
+Order, the FCC has determined that “good cause” now 
+exists to grant waivers more broadly, because “the cable 
+industry has grown from a fledgling service to a more 
+mature industry that now serves a majority of households” 
+and thus, in the agency’s view, the “relevant circumstances 
+
+
+2“Gov’t Br.” refers to the Brief for the Federal Petitioners. 
+“NCTA Br.” refers to the Brief for Petitioner National Cable 
+Television Association, Inc. “Pet. App.” refers to the appendix to 
+the petition for certiorari in No. 94-1893. “J.A.” refers to the 
+Joint Appendix. 
+
+
+5 
+
+
+have changed greatly since” the adoption of the telephone 
+company video programming ban. Pet. Supp. App. | la. 
+
+
+The agency did not, however, conclude that the statute 
+required it to grant a waiver automatically to every in- 
+terested telephone company; nor did it clearly set forth 
+the circumstances in which waivers will be granted. The 
+FCC simply determined that it was authorized to use its 
+discretion to grant waivers, id. at 17a, and it announced 
+a policy of granting waivers where it finds that a telephone 
+company has agreed “to abide by the regulations [the 
+FCC] will establish governing [the] provision of video 
+programming.” /d. at 19a (emphasis added). The agency 
+did not state specifically what those future regulations 
+will be, merely announcing that waivers will be “subject 
+to . . . any further rules we will enact.” /d. at 20a. Al- 
+though the FCC indicated that telephone companies might 
+be allowed to provide video programming over video dial- 
+tone systems that “include[] a common carriage element,” 
+id. at 13a, the agency expressly declined to decide, for 
+example, what regulatory regime will apply, id. at 3a, or 
+whether a telephone company will be allowed “to build 
+a traditional cable system in its telephone service area in 
+competition with an existing cable service.” Jd. at 17a 
+n.46. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The court of appeals (and the Ninth Circuit in the 
+U S WEST case) ruled that section 533(b) cannot sur- 
+vive intermediate First Amendment scrutiny because its 
+blanket ban on in-region provision of video programming 
+is too broad to serve any proffered governmental purpose. 
+In this Court, petitioners make two arguments for 
+reversal: 
+
+
+1. The courts should defer to supposed congres- 
+sional findings that the blanket ban is necessary 
+to prevent cross-subsidization and that no lesser 
+regime will suffice. 
+
+
+6 
+
+
+2. In any event, the FCC has cured the lack of nar- 
+row tailoring by announcing that it will interpret 
+the statute's “good cause” waiver provision ex- 
+pansively so as to allow telephone companies to 
+provide some in-region video programming (al- 
+beit under conditions that have not yet been fully 
+specified ). 
+
+
+Each of these arguments is flawed, and each fatally 
+undercuts the other. As to the first argument, the legis- 
+lative record does not support petitioners’ claim that Con- 
+gress found that a complete ban on video programming 
+is necessary to prevent cross-subsidization. No such find- 
+ing is explicit or implicit in the 1984 enactment of the 
+statute, and no such finding may properly be inferred 
+from subsequent congressional inaction. Moreover, peti- 
+tioners ignore the most recent congressional activity con- 
+cerning the need for a blanket ban: the passage in both 
+Houses of bills that would repeal section 533(b). Fi- 
+nally, the FCC’s Third Report and Order, which de- 
+scribes sweeping changes in circumstances and begins to 
+construct a new regulatory regime based on broad waivers 
+to allow telephone companies to provide video program- 
+ming on “video dialtone” platforms, completely under- 
+cuts the same agency’s argument to this Court that Con- 
+gress sees a continuing need for a complete ban. 
+
+
+As to the second argument, the FCC cannot save sec- 
+tion 533(b) from invalidation by changing its own waiver 
+policy. Courts and agencies have, in some cases, saved 
+statutes from First Amendment attack by construing their 
+substantive provisions to avoid a constitutional issue. Pe- 
+titioners invoke such cases here, but that is not at all 
+what the FCC has done in this instance. Under the Third 
+Report and Order, telephone companies would remain 
+subject to an unconstitutional blanket statutory ban on 
+a protected form of speech. The FCC has said only that 
+it intends, as a matter of administrative grace, to forgive 
+compliance in some situations. This agency action does 
+
+
+7 
+
+
+not make the statute itself any more constitutional than 
+before, and it does not moot the constitutional issue be- 
+cause the agency forgiveness is at best partial, subject to 
+conditions not yet fully defined, and subject to change. 
+Indeed, unbridled FCC discretion to dole out otherwise 
+prohibited speaking opportunities would only make the 
+situation worse. 
+
+
+ARGUMENT 
+
+
+I. THE VIDEO PROGRAMMING BAN IS NOT NAR- 
+ROWLY TAILORED TO MEET ANY PROFFERED 
+GOVERNMENTAL INTEREST, AND CONGRESS 
+HAS NEITHER EXPLICITLY NOR IMPLICITLY 
+FOUND THAT THE BAN IS NECESSARY 
+
+
+A. There Has Been No Congressional Finding That a 
+Complete Ban on Telephone Company Provision of 
+
+
+Video Programming Is Necessary To Serve the 
+Interests Proffered by the Government 
+
+
+The Government concedes that section 533(b) “com- 
+pletely exclud{es] [telephone companies] from cable pro- 
+gramming in their service areas.” Gov't Br. 25. The Gov- 
+ernment claims, however, that this complete ban survives 
+intermediate scrutiny because it is narrowly tailored to 
+prevent cross-subsidization by telephone companies enter- 
+ing the cable television market.* To the contrary, every 
+
+
+* The Government also contends that the video programming ban 
+is necessary to prevent telephone companies from “abusing their 
+control” over poles and conduits and telephone networks. Gov’t Br. 
+35-37. But this “pole access” argument fails at the threshold. The 
+Government relies on the FCC’s statement in 1970 that it was 
+adopting the rule later codified as section 533(b) out of concern 
+that telephone companies might use their control over utility poles 
+and conduits to hinder the development of an independent cable 
+television industry. /d. at 35. But by 1981, three years before 
+Congress adopted section 583(b), the FCC’s Office of Plans and 
+Policy had already concluded that such concerns did not justify 
+the video programming ban. FCC Policy on Cable Ownership: 
+A Staff Report 162 (1981) (J.A. 160-61). The FCC strongly re- 
+
+
+8 
+
+
+expert federal agency that has examined the question, 
+including both the FCC and the Department of Justice, 
+has concluded that much more limited—and better tar- 
+geted—regulatory safeguards than a complete ban on 
+video programming can meet any risk of cross-subsidy. 
+
+
+For example, when the FCC formally recommended 
+the repeal of section 533(b) in its 1992 Video Dialtone 
+Order, it explicitly concluded that existing regulatory 
+safeguards, such as detailed cost allocation and account- 
+ing rules,‘ regulations ensuring equal treatment of non- 
+regulated services provided over telephone networks,’ and 
+the development of “price cap” regulation,’ were “suffi- 
+cient . . . to protect against cross-subsidization.” 7 FCC 
+Red 5781, 5828-29 (1992). The FCC’s Third Report 
+and Order, discussed in detail below, dramatically reit- 
+erates the FCC’s determination that regulatory safeguards 
+would provide ample protection against any potential for 
+cross-subsidization. The Antitrust Division of the Justice 
+Department agrees that concerns about anticompetitive 
+
+
+affirmed this position in its 1992 Video Dialtone Order, finding that 
+the passage of the Pole Attachment Act of 1978, 47 U.S.C. 224 
+(b) (1), and the cabling of almost the entire country had long ago 
+rendered such concerns obsolete. Telephone Company—Cable Tele- 
+vision Cross-Ownership Rules, Sections 63.54-63.58, Second Report 
+and Order, Recommendation to Congress, and Second Further No- 
+tice of Proposed Rulemaking, 7 FCC Red 5781, 5849 (1992), modi- 
+fied in part on recon., 10 FCC Red 244 (1994), petition for review 
+filed sub nom. Mankato Citizens Telephone Co. v. FCC, No. 92-1404 
+(D.C. Cir. Sept. 9, 1992). For these reasons, and because section 
+533(b) does not prohibit the provision of video transport services, 
+the Ninth Circuit found no evidence to support this rationale for 
+the statute. U S WEST, 48 F.3d at 1102-03. 
+
+
+* See Southwestern Bell Corp. v. FCC, 896 F.2d 1878 (D.C. Cir. 
+1990). 
+
+
+5 See California v. FCC, 39 F.3d 919 (9th Cir. 1994), cert. denied, 
+115 S. Ct. 1427 (1995). 
+
+
+* See National Rural Telecom Ass'n v. FCC, 988 F.2d 174, 178 
+(D.C. Cir. 1998). 
+
+
+9 
+
+
+behavior do not justify retaining section 533(b).’ The 
+National Telecommunications and Information Adminis- 
+tration (NTIA) at the Department of Commerce has 
+similarly concluded that such concerns are “either over- 
+stated or can be effectively ameliorated by adapting exist- 
+ing regulatory safeguards to suit the video programming 
+marketplace.” * 
+
+Because the expert agencies have long since concluded 
+that section 533(b) is not needed to prevent cross- 
+subsidization, the Government falls back on a deference 
+argument: “Congress reasonably concluded that the cross- 
+ownership bar is necessary to prevent cross-subsidization 
+by [telephone companies] in the cable market effectively.” 
+Gov't Br. 31 (emphasis added). The Government then 
+asks the Court to defer to this supposed congressional 
+“judgment.” Id. at 28-29; see id. at 32 n.21. Similarly, 
+petitioner NCTA asserts that “there is no adequate 
+basis for the judiciary to set aside the congressional judg- 
+ment on the issue here.” NCTA Br. 44 (emphasis 
+added ). 
+
+The lower courts, including the Ninth Circuit in the 
+U §S WEST case, have firmly rejected this call for defer- 
+ence because there is simply no reason to believe that 
+Congress ever made—in formal findings or anywhere else 
+—any such “judgment.” When Congress passed section 
+533(b) in 1984, it codified, essentially without comment, 
+an FCC rule adopted in 1970 for the infant cable indus- 
+try out of concern that telephone companies might “pre- 
+empt the market for [cable television] service.” The 
+
+
+7 Reply Comments of the U.S. Department of Justice, Telephone 
+Company—Cable Television Cross-Ownership Rules 44 (Mar. 13, 
+1992) (J.A. 341-42). 
+
+8 NTIA, U.S. Dep’t of Commerce, The NTIA Infrastructure Re- 
+port: Telecommunications in the Age of Information 235 (1991) 
+(J.A. 348). 
+
+® Applications of Telephone Companies for Section 214 Certifi- 
+cates for Channel Facilities Furnished to Affiliated Community 
+Antenna Television Systems, Final Report and Order, 21 F.C.C.2d 
+
+
+10 
+
+
+1984 Congress made no relevant findings of fact in the 
+statute itself, and the single reference to section 533(b) 
+in the legislative history merely explains that Congress 
+intended to codify the earlier FCC rule.” (This case is 
+thus unlike Turner Broadcasting, which involved a statu- 
+tory provision supported by “unusually detailed statutory 
+findings.” 114 S. Ct. at 2461; see id. at 2454-55, 2469.) 
+Moreover, there is no indication that Congress even con- 
+sidered, and no reason whatever to assume that it reached 
+any judgment about, the problem of cross-subsidization; 
+the supposition that cross-subsidization can be effectively 
+prevented only by a complete ban, and not by less severe 
+regulatory alternatives, is a litigator’s supposition that 
+there is no basis whatever for attributing to Congress. 
+See U S WEST, 48 F.3d at 1100-01, 1106. As the D.C. 
+Circuit recently concluded after a thorough examination 
+of section 533(b) and its legislative history, “Congress 
+itself has never embraced [this] purpose[] as its own.” 
+American Scholastic TV Programming Foundation v. 
+FCC, 46 F.3d 1173, 1182 (D.C. Cir. 1995).™ 
+
+
+307, 324 (1970), aff'd sub nom. General Telephone Co. v. United 
+States, 449 F.2d 846 (5th Cir. 1971). 
+
+
+10 H.R. Rep. No. 934, 98th Cong., 2d Sess. 56 (1984). Another 
+passage describes section 533 as a whole as intended “to prevent 
+the development of local media monopolies, and to encourage a 
+diversity of ownership of communications outlets.” Jd. at 55. 
+Logically, this reference must have pertained to other portions of 
+section 533, such as a broadcast station/cable cross-ownership ban 
+and a later-deleted newspaper/cable cross-ownership ban, because a 
+common carrier telephone service is not a medium or “outlet” for 
+owner communications. Telephone companies carry third-parties’ 
+messages from one customer to another. See U S WEST, 855 F. 
+Supp. at 1187. In any event, this statement of the general purposes 
+behind section 533 does not imply a congressional judgment that 
+a total ban on video programming is necessary to prevent any 
+particular phenomenon. 
+
+
+11 The petitioners in American Scholastic, like the Government 
+here, argued that the purposes of section 533(b) are to prevent 
+problems with pole access and to prevent cross-subsidization. The 
+
+
+11 
+
+
+Given the admittedly “sparse” legislative history, 
+NCTA Br. 32, petitioners are forced to argue that the 
+failure of Congress since 1984 to repeal section 533(b) 
+amounts to a congressional “judgment” that nothing short 
+of a complete ban will suffice. The Government points to 
+hearings and staff reports on proposals to repeal section 
+533(b) that never made it out of committee as evidence 
+that Congress as a whole—sometime after 1984—decided 
+to reject less restrictive regulatory alternatives to a com- 
+plete ban. See Gov't Br. 8-11, 31-34; NCTA Br. 16-17, 
+35 n.28. But this Court has repeatedly rebuffed efforts 
+to divine legislative judgments from Congress’s failure to 
+act, explaining that “Congressional inaction lacks persua- 
+sive significance because several equally tenable infer- 
+ences may be drawn from such inaction.” Pension Bene- 
+fit Guarantee Corp. v. LTV Corp., 496 U.S. 633, 650 
+(1990) (internal quotation marks and citation omitted) ; 
+see Central Bank vy. First Interstate Bank, 114 S. Ct. 
+1439, 1453 (1994). Congress’s failure to repeal section 
+533(b) in the last decade, in the face of dramatic 
+changes in the cable television market and findings by the 
+relevant expert agencies that the statute unnecessarily 
+limits competition and diversity, says nothing about Con- 
+gress’s attitude toward less draconian alternatives. As 
+the district court concluded below: “[NJowhere in the 
+legislative materials is there any indication that Congress 
+reached a conclusion concerning the effectiveness of less 
+restrictive regulatory measures.” Pet. App. 100a; accord 
+U S WEST, 48 F.3d at 1106. 
+
+
+If congressional views, unembodied in enacted legis- 
+lation, were a proper basis for determining whether par- 
+ticular legislation is needed to solve an alleged problem, 
+then the best evidence of Congress’s present views would 
+be the recent passage, by both Houses, of bills that would 
+repeal section 533(b). Petitioners’ recitations of the 
+
+
+court found that Congress “has never in law or legislative history 
+specifically adopted these purposes.” 46 F.3d at 1182. 
+
+
+12 
+
+
+“subsequent legislative history” of section 533(b) end 
+prematurely in 1992, see Gov't Br. 8-11; NCTA Br. 15- 
+17, omitting what is clearly the most important evidence 
+of Congress’s views. In 1994, the House of Representa- 
+tives approved by a vote of 423 to 4 a bill (H.R. 3636) 
+that would have repealed section 533(b), 140 Cong. Rec. 
+H5247-48 (daily ed. June 28, 1994), and the committee 
+report accompanying the bill declared that the rationale 
+for a video programming ban was “no longer valid.” H.R. 
+Rep. No. 560, 103d Cong., 2d Sess. 47 (1994). Senate 
+committees also approved several bills in 1994 that would 
+have repealed section 533(b). See, e.g., S. Rep. No. 367, 
+103d Cong., 2d Sess. (1994) (reporting S. 1822). 
+
+Once again this year, Congress is working on legisla- 
+tion that would repeal the video programming ban. In 
+June. the full Senate passed by a vote of 81 to 18 a bill 
+(S. 652) that would repeal section 533(b) and allow 
+telephone companies and their affiliates to provide video 
+programming either through a cable system as a tradi- 
+tional cable operator or though a video dialtone system.” 
+141 Cong. Rec. $8480 (daily ed. June 15, 1995). In 
+August, the House of Representatives passed a similar 
+bill (H.R. 1555), which would allow telephone com- 
+panies (through affiliates) to provide video programming 
+directly to local subscribers through either cable systems 
+or video dialtone platforms.” 141 Cong. Rec. H8506-07 
+
+
+12 The Government’s description of the Senate bill as allowing 
+telephone companies “to offer video programming through video 
+dialtone systems,” Gov't Br. 16 n.12, is misleadingly terse. The bill 
+would also allow a telephone company to provide in-region video 
+programming as a traditional cable operator, without creating a 
+video dialtone system. See S. 652, 104th Cong., Ist Sess. § 202(a). 
+
+
+18 The Government's description of the House bill is also in- 
+accurate. The Government states that H.R. 1555 would allow tele- 
+phone companies “to offer video programming to subscribers in 
+their service areas, through video dialtone platforms operated by 
+separate affiliates.” Gov't Br. 16 n.12. In fact, as passed by the 
+House, H.R. 1555 would also allow telephone companies to offer 
+
+
+13 
+
+
+(daily ed. Aug. 4, 1995) (approved by a vote of 305 to 
+117). The committee report on the bill declares that 
+“[t]elephone company competition with the entrenched 
+cable operators would enable consumers to benefit from 
+lower rates, better quality service, improved maintenance, 
+and a larger diversity of new information services.” H.R. 
+Rep. No. 204, 104th Cong., Ist Sess. 53 (1995). These 
+recent legislative developments refute the Government's 
+contention that Congress has failed to repeal section 
+533(b) because it has a “judgment” that regulatory 
+alternatives short of a complete video programming ban 
+would not be adequate to prevent cross-subsidization. 
+
+
+Of course, “Congress is not obligated, when enacting 
+its statutes, to make a record of the type that an admin- 
+istrative agency or court does to accommodate judicial 
+review.” Turner Broadcasting, 114 S. Ct. at 2471 (plur- 
+ality opinion). But when the Government seeks to defend 
+a broad statutory ban on speech, deemed unnecessary and 
+counterproductive by all the expert agencies, by arguing 
+that all these views are trumped by a congressional judg- 
+ment that no lesser restriction will suffice, the Govern- 
+ment must at least show that Congress actually made such 
+a judgment. The Government's lawyers may not simply 
+posit a problem and then claim that Congress, by adopt- 
+ing a sweeping restriction on speech (without explana- 
+tion) and then failing to repeal it, must have decided that 
+the infringement on speech is necessary to meet the 
+problem posited. See id. at 2470 (plurality opinion); 
+Los Angeles v. Preferred Communications, Inc., 476 U.S. 
+488, 496 (1986) (“This Court may not simply assume 
+that the ordinance will always advance the asserted state 
+
+
+interests sufficiently to justify its abridgement of expres- 
+
+
+video programming through separate affiliates acting as traditional 
+cable operators. H.R. 1555, 104th Cong., Ist Sess. § 201. In addi- 
+tion, the bill would allow telephone companies, under certain condi- 
+tions, to obtain a waiver from the requirement of using a separate 
+video programming affiliate. See id. § 201(b). 
+
+
+14 
+
+
+sive activity”) (internal quotation marks and citation 
+omitted ). 
+
+Moreover, even if Congress had judged it necessary to 
+impose a sweeping ban on speech to address the issue of 
+cross-subsidization, it remains the Court’s responsibility 
+“in the end to decide whether Congress has violated the 
+Constitution.” Sable Communications, Inc. v. FCC, 492 
+U.S. 115 (1989). For that reason, “[dJeference to a 
+legislative finding cannot limit judicial inquiry when First 
+Amendment rights are at stake.” Landmark Communica- 
+tions, Inc. v. Virginia, 435 U.S. 829, 843 (1978). This 
+principle was dramatized in the Turner Broadcasting 
+case, where this Court vacated the lower court’s judgment 
+that the “must-carry” provisions of the 1992 Cable Act 
+were constitutional despite the presence of extensive find- 
+ings of fact supporting the must-carry rules in the text of 
+the Act itself. See 114 S. Ct. at 2454-55; id. at 2470-72 
+(plurality opinion). As the Government acknowledges, 
+it carries the burden of proving that “Congress has drawn 
+reasonable inferences based on substantial evidence.” 
+Turner Broadcasting, 114 S. Ct. at 2471 (plurality opin- 
+ion); see Gov't Br. 32 (quoting Turner Broadcasting). 
+In this case, that burden is insurmountable, because the 
+Government has neither the substantial evidence nor any 
+basis for concluding that Congress actually drew the sup- 
+posed inferences. 
+
+
+B. The FCC’s Third Report and Order on Telephone 
+Company Provision of In-Region Video Program- 
+ming Fatally Undercuts the Argument That Con- 
+gress Has Determined That a Blanket Ban Is 
+Necessary 
+
+
+To prevail, the Government must prove that section 
+533(b) does not “burden substantially more speech than 
+is necessary to further the government's legitimate inter- 
+ests.” Ward v. Rock Against Racism, 491 U.S. 781, 799 
+(1989): see Turner Broadcasting, 114 S. Ct. at 2469 
+(quoting Ward); id. at 2470, 2472 (plurality opinion). 
+
+
+15 
+
+
+If there are “constitutionally acceptable less restrictive 
+means of achieving the Government's asserted interests,” 
+id. at 2472 (plurality opinion) (internal quotation marks 
+and citation omitted), then the statute is not narrowly 
+tailored. The Government may not ignore “alternative, 
+less drastic measures” by which it could protect its as- 
+serted interests in favor of a broad ban on speech. City 
+of Cincinnati v. Discovery Network, Inc., 113 §S. Ct. 
+1505, 1510 n.13 (1993). 
+
+
+Even before the FCC’s Third Report and Order, the 
+Commission, along with every other expert telecommuni- 
+cations agency, had concluded that regulatory safeguards 
+fully addressed the cross-subsidy concerns proffered by 
+petitioners in their attempt to justify section 533(b). 
+The FCC has now not only stated that less restrictive 
+regulatory safeguards can meet these concerns, it has 
+decided that it will not enforce the blanket ban but in- 
+stead will rely on such less severe measures. These FOC 
+actions speak more loudly than its litigators’ words. 
+
+
+According to the FCC, “[t}he relevant circumstances 
+have changed greatly” since the Commission adopted the 
+ban in 1970 and Congress codified it in 1984. Pet. Supp. 
+App. Ila. As Congress found in the 1992 Cable Act, 
+cable operators enjoy a firmly entrenched monopoly in 
+most communities;"* telephone companies cannot pre- 
+vent the development of a viable and independent cable 
+industry. /d. In addition, “significant advances in tech- 
+nology” have “made it possible for a multitude of pro- 
+grammers to reach end user[s]” and have “mitigated” the 
+concerns about competition that originally led to the 
+adoption of the video programming ban. /d. at | la-12a. 
+The dramatic changes noted by the FCC would eliminate 
+
+
+Cable Television Consumer Protection and Competition Act of 
+1992, Pub. L. No. 102-385, § 2(a) (2), 106 Stat. 1460. 
+
+
+16 
+
+
+the basis for any congressional judgment about regula- 
+tory alternatives that might have been made in 1984.” 
+
+Contrary to its litigation position in this Court, the 
+FCC has concluded that under present conditions tele- 
+phone companies should provide in-region video program- 
+ming, subject to regulatory safeguards. According to the 
+FCC, Congress intended when it adopted section 533(b) 
+“ “to promote competition.’” Pet. Supp. App. 10a (quot- 
+ing NCTA v. FCC, 914 F.2d 285, 287 (D.C. Cir. 
+1990)). If excluding one class of speakers ever promoted 
+competition or a diversity of voices, today there is no 
+doubt that it “promote[s] competition to allow a tele- 
+phone company to provide video dialtone service in its 
+telephone service area in competition with an existing 
+cable company.” /d. at 17a. The FCC “has developed a 
+number of safeguards that are designed to prevent cross- 
+subsidization and discrimination,” id. at 14a n.35, and 
+these safeguards provide a more narrowly tailored alterna- 
+tive to the complete ban in section 533(b). 
+
+
+In Turner Broadcasting, this Court vacated and re- 
+manded the lower court’s decision because, among other 
+reasons, “the record fail[ed] to provide any judicial find- 
+ings concerning the availability and efficacy of ‘consti- 
+tutionally acceptable less restrictive means’ of achieving 
+the Government’s asserted interests.” 114 S. Ct. at 2472 
+(plurality opinion) (quoting Sable Communications, 492 
+U.S. at 129). In th's case, the lower courts have made 
+the necessary findings about the availability of less restric- 
+tive, better targeted means of addressing the Government's 
+concerns. The court of appeals below, for example, found 
+at least one “obvious, less-burdensome” alternative: Con- 
+
+
+The Government bears the burden of showing that the statute 
+is constitutional under present circumstances, for even a “ ‘statute 
+[constitutionally] valid when enacted may become invalid by change 
+in the conditions to which it is applied.’” Baker v. Carr, 369 U.S. 
+186, 254 n.6 (1962) (quoting Nashville, Chattanooga & St. Louis 
+Ry. Vv. Walters, 294 U.S. 405, 415 (1985) ). 
+
+
+17 
+
+
+gress could limit the telephone companies’ editorial con- 
+trol over video programming to a fixed percentage of the 
+channels available. Pet. App. 47a-48a. The Ninth Circuit 
+in U S WEST also found “substantial evidence tending to 
+show that the procompetitive goals of § 533(b) can cur- 
+rently be achieved through a variety of less speech- 
+restrictive means.” 48 F.3d at 1105. That court noted 
+many possibilities in the record, including structural sep- 
+aration requirements short of a complete ban, nonstruc- 
+tural safeguards such as cost allocation and accounting 
+rules, requiring telephone companies to carry unaffiliated 
+video programming (the alternative noted by the Fourth 
+Circuit), and strictly enforcing general antitrust laws. 
+
+
+Since then, the FCC has essentially agreed with the 
+lower courts—it has endorsed “obvious, less-burdensome” 
+alternatives to a complete ban, better tailored to meet any 
+concerns about cross-subsidization. Pet. Supp. App. 3a-6a. 
+The FCC’s conclusion reflects the Government's failure 
+to create any record justifying the need for the broad 
+ban on speech contained in section 533(b). As Justice 
+O’Connor remarked in Turner Broadcasting: “If the 
+Government wants to avoid fraudulent political fund- 
+raising, it may bar the fraud, but it may not in the 
+process prohibit legitimate fundraising.” 114 S. Ct. at 
+2479 (O’Connor, J., concurring in part and dissenting 
+in part) (citing Schaumberg v. Citizens for a Better En- 
+vironment, 444 U.S. 620 (1980), and Edenfield v. Fane, 
+113 S. Ct. 1792 (1993)). So too here—if the Govern- 
+ment wants to avoid anticompetitive behavior, it may 
+bar such behavior, but it may not in the process prohibit 
+legitimate telephone company speech. 
+
+
+18 
+
+
+Il. THE FCC’s NEW INTERPRETATION OF ITS 
+WAIVER AUTHORITY IN THE THIRD REPORT 
+AND ORDER ONLY EXACERBATES THE STAT- 
+UTE’S UNCONSTITUTIONALITY 
+
+
+A. The FCC’s New Construction of the “Good Cause” 
+Waiver Provision Does Not Alter Section 533(b)’s 
+Unconstitutional Blanket Ban on Telephone Com- 
+
+
+pany Provision of In-Region Video Programming 
+
+
+In plain language, section 533(b) bars telephone com- 
+panies from providing video programming to subscribers 
+in their telephone service areas. The statute states un- 
+equivocally that it “shall be unlawful” for a telephone 
+company “to provide video programming directly to sub- 
+scribers” or to provide “channels of communications” to 
+an entity that it controls if those channels are “to be 
+used for, or in connection with, the provision of video 
+programming directly to subscribers in the telephone serv- 
+ice area of the common carrier.” 47 U.S.C. 533(b)(1), 
+(2). The Government’s own description of section 533(b) 
+is that it “completely excludes] [telephone companies] 
+from cable programming in their service area.” Gov't Br. 
+25. As respondents and supporting amici have amply 
+demonstrated, and the lower courts have unanimously 
+concluded, this blanket ban unconstitutionally restricts 
+
+
+speech. a 
+
+
+Petitioners, invoking cases like NLRB v. Catholic 
+Bishop of Chicago, 440 U.S. 490 (1979), argue that 
+the FCC has recently found a “saving” construction of 
+the statute that “eliminates the constitutional objections 
+to the statutory regime.” Gov't Br. 39; see NCTA Br. 26- 
+34; Gov't Br. 39-43. But the FCC has done no such 
+thing. As the Third Report and Order makes clear. the 
+FCC has not given the substantive provisions of section 
+533(b) a narrowing construction that eliminates the un- 
+constitutional restriction on telephone company speech." 
+
+
+** The Commission acknowledges that section 533 (b) “prohibits 
+a telephone company from operating a cable system where it has 
+
+
+19 
+
+
+The FCC has merely (i) construed its own “good cause” 
+waiver authority under section 533(b) (4) broadly and 
+(ii) expressed an agency policy determination that it will 
+henceforth exercise that authority generously.” This FCC 
+action does not free telephone companies from the un- 
+constitutional statutory ban; it merely promises freedom 
+to speak, in circumstances not yet specified, as a matter 
+of agency grace. The FCC says only that “telephone com- 
+panies may seek a waiver of the statutory restriction in 
+order to provide programming directly to subscribers over 
+video dialtone facilities where they have a monopoly on 
+local exchange telephone service.” Pet. Supp. App. 15a. 
+As NCTA explains, “the Commission’s construction of 
+Section 533(b)(4) will leave the presumptive statutory 
+bar in place for all telephone companies that, though 
+they may wish otherwise, fail to act in accord with the 
+behavioral requirements made conditions of the waiver.” 
+NCTA Br. 32. 
+
+
+Petitioners invoke the general principle that courts en- 
+gaged in statutory interpretation should attempt, when 
+choosing among reasonable alternatives, to construe stat- 
+utes to avoid constitutional problems. See NCTA Br. 
+26-27; Gov't Br. 40-41. But that canon of Statutory con- 
+struction has no application here. Petitioners’ so-called 
+“saving” construction of section 533(b) does not con- 
+Sstrue the substantive provisions of the statute so as to 
+eliminate an infringement on First Amendment activity. 
+This case is not at all like Catholic Bishop, where the 
+
+
+a monopoly on local telephone company service” and “does generally 
+bar a telephone company from selecting (or ‘exerting editorial 
+control over’) and providing the video programming carried over 
+its wires in its local service area.” Pet. Supp. App. 3a (emphasis 
+in original). 
+
+
+1T “(W]e construe Section [533] (b) (4), the waiver provision, as 
+authorizing us to permit telephone companies to act as programmers 
+on video dialtone systems pursuant to certain conditions.” Pet. 
+Supp. App. 9a. 
+
+
+20 
+
+
+Court construed the National Labor Relations Act not to 
+apply to teachers in parochial schools and thereby avoided 
+serious freedom of religion concerns, 440 U.S. at 507; 
+nor is it like Edward J. DeBartolo Corp. v. Florida Gulf 
+Coast Building & Construction Trades Council, where 
+the Court construed the same statute not to apply to 
+peaceful handbilling and thereby avoided serious freedom 
+of speech concerns, 485 U.S. 568, 575-88 (1988). Here, 
+the FCC has not construed the substantive provisions of 
+the statute at all: both before and after the FCC’s new 
+construction, the statute prohibits a large amount of pro- 
+tected speech without any adequate reason for doing so. 
+Such a statute is not “saved” by the responsible agency’s 
+promise not to enforce it in some cases under conditions 
+the agency unilaterally adopts. 
+
+
+The Government argues that the possibility that a tele- 
+phone company can obtain a waiver to provid in-region 
+video programming “removes any objections to the tail- 
+oring of the congressional regime” by offering a “less 
+burdensome alternative” to the total ban. Gov't Br. 42. 
+This Court rejected an indistinguishable argument in Sec- 
+retary of State of Maryland v. J.H. Munson Co., 467 
+U.S. 947 (1984). In holding that a percentage restric- 
+tion on charitable solicitation was not narrowly tailored 
+to meet any substantial governmental interests and thus 
+was unconstitutional on its face, id. at 965-66, the Court 
+noted that the statute’s waiver provision was unavailing: 
+“The possibility of a waiver may decrease the number of 
+impermissible applications of the statute, but it does 
+nothing to remedy the statute’s fundamental defect.” ” 
+
+
+18In the Third Report and Order, the FCC attempts to distin- 
+guish Munson by arguing that a liberal application of the section 
+583(b) waiver “furthers rather than hinders First Amendment 
+interests” by creating additional speaking opportunities. Pet. Supp. 
+App. 18a-19a. The Court rejected this argument in Munson, noting 
+that where the statute itself “is so poorly suited to accomplishing 
+the State’s goal, and where there are alternative means to serve 
+the same purpose, there is little justification for straining to salvage 
+
+
+21 
+
+
+Id. at 968; see also Lovell v. City of Griffin, 303 U.S. 
+444 (1938) (blanket ban on speech ruled facially un- 
+constitutional notwithstanding license procedure that might 
+have permitted petitioner to engage in the speech activity). 
+
+
+B. The FCC’s Promise of Administrative Charity Does 
+Not Vindicate Telephone Companies’ First Amend- 
+ment Rights 
+
+
+Under the regime contemplated by the Third Report 
+and Order, the video programming ban would remain in 
+place, and telephone companies would be dependent on 
+the FCC for the right to provide video programming to 
+in-region customers. This is not a satisfactory cure for 
+the First Amendment problems of the statute, for at least 
+two reasons. 
+
+
+First, the FCC’s new regime would remain subject to 
+change in the FCC’s discretion. The FCC based its new 
+interpretation of the statute’s waiver provision on the 
+“changed circumstances” that characterize the 1995 cable 
+market as compared to the 1970 or 1984 cable markets. 
+These changed circumstances, the agency said, qualify 
+as the type of “good cause” contemplated by section 
+533(b)(4). Pet. Supp. App. 9a-13a; see Gov't Br. 40. 
+But nothing prevents the agency from changing its mind 
+again, with or without another change of circumstances, 
+real or perceived. Indeed, the FCC is not bound even by 
+its pronouncement that “the rules [it] will promulgate in 
+the immediate future to authorize telephone companies to 
+provide video programming in their service areas will 
+constitute ‘particular circumstances . . . taking into ac- 
+count the policy’ of Section [533](b).” Pet. Supp. App. 
+13a. The agency is free at any point to require an addi- 
+tional showing by telephone companies that “particular 
+circumstances” justify individual waivers, or to change 
+
+
+the statute by invoking the possibility of official dispensation to 
+engage in protected activity.” 467 U.S. at 964 n.12. 
+
+
+22 
+
+
+the rules that constitute such circumstances. Because the 
+underlying video programming ban remains in effect, the 
+agency is free to modify its policy as it deems necessary, 
+leaving telephone companies with greater or lesser restric- 
+tions on their opportunities for speech. 
+
+
+Second, the FCC has not fully set out even the condi- 
+tions under which it now proposes to dispense its admin- 
+istrative charity. In the Third Report and Order, the FCC 
+claims the authority “to permit telephone companies to 
+act as programmers on video dialtone systems pursuant to 
+certain conditions.” Pet. Supp. App. 9a (emphasis added). 
+The agency admits, however, that it has not yet deter- 
+mined what those “conditions” are, leaving open such 
+major issues as “whether telephone companies may pro- 
+vide video programming over video dialtone networks 
+rather than as traditional cable operators” and whether 
+they will be regulated under Title II or Title VI of the 
+Communications Act. /d. at 3a; see id. at 14a n.36. The 
+FCC promises to “address the terms and conditions under 
+which telephone companies should be permitted to pro- 
+vide video programming directly to subscribers in their 
+local service areas in a subsequent order,” id. at 6a n.!!. 
+but it provides no timeframe for doing so.” Any decisions 
+
+
+1% The FCC generally suggests that telephone company in-region 
+video programming ventures would be subject to video dialtone 
+platform rules and could not utilize an anchor programmer Pet 
+Supp. App. 13a. Yet even those issues are explicitly left open is 
+the Commission's Fourth Notice of Proposed Rulemaking. on which 
+the Commission has yet to act. See Telephone Compony—ad< 
+Television Cross-Ownership Rules, Sections 6254-6254, Fourts 
+Further Notice of Proposed Rulemaking, 10 FCC Red 4617 1995 
+(Pet. App. 113a). Petitioner NCTA suggests « host of additions 
+“conduct-specific” conditions that the agency might apply & we 
+phone companies seeking waivers, including opersting stand-s.on« 
+cable systems, complying with Title VI of the Communications Act 
+and requirements relating to corporate structure. sceounting meth 
+ods, audits, and nondiscriminatory practices NCTA Br @ 7 
+date, the agency has not adopted or rejected ‘hese propessie or an 
+other specific rules 
+
+
+23 
+
+
+the FCC does reach in the future will likely face lengthy 
+administrative and judicial challenges.” This remarkable 
+uncertainty regarding the terms of possible administra- 
+tive waivers of section 533(b) underscores the immediate 
+practical difference between a judicial decision striking 
+down the statute and ongoing administrative proceedings 
+that dole out speaking opportunities on a schedule the 
+agency has yet to determine. 
+
+
+C. The FCC's Enlargement of Its Own Administrative 
+Discretion Only Exacerbates the Problem 
+
+
+The FCC's broad waiver policy also creates its own, 
+additional First Amendment concerns by creating a “li- 
+censing™ process in which telephone companies may exer- 
+cise their First Amendment rights only if the FCC, in 
+its discretion, approves. The “good cause” waiver policy 
+is not a blanket authorization for all telephone companies 
+to provide in-region video programming. It merely au- 
+thorizes the FCC to dispense speaking opportunities to 
+telephone companies that file specific waiver requests 
+See Pet. Supp. App. 1Sa, NCTA Br. 31-32. The grant 
+of such a waiver by the FCC will rest “upon compliance 
+with regulations to be published that will be designed to 
+prevent anticompetitive conduct” Govt Br 4]. The 
+waiver policy therefore vests unimpeded discretion in the 
+agency to determine whether telephone companies seck 
+ng to offer im-regoon video programming should be per 
+mutted to do so 
+
+
+lt s fundamental io Firsts Amendment junsprudence 
+‘hat &@ Statute requiring 4 “ycense” for the dissemination 
+ideas and placing discrenon in the hands of governmen: 
+MGcials t© grant or deny the license “creates a threat of 
+censorstup that Dy ms very existence chills free speech ” 
+Munson. 467 -S af 964 5!) As this Court observed 
+n City of Latewoud » Plain Dealer Publishing Co the 
+
+
+"See «yg. OTR eliforee ‘oe © POT Se STO oe 
+m~ = oe etter ‘or ceree= of “herd Beet ant Ofte 
+
+
+ee eT 
+
+
+24 
+
+
+Government “may not condition . . . speech on obtaining 
+a license or permit from a government official in that 
+official’s boundless discretion.” 486 U.S. 750, 764 (1988) 
+(emphasis omitted). “[I}n the absence of narrowly drawn, 
+reasonable and definite standards for the officials to fol- 
+low,” license requirements create the possibility for abuse 
+and censorship of First Amendment rights. Niemotko Vv. 
+Maryland, 340 U.S. 268, 271-72 (1951); see Cox V. 
+Louisiana, 379 U.S. 536, 555-557 (1965); Kunz v. New 
+York, 340 U.S. 290, 294 (1951); Saia v. New York, 
+334 U.S. 558 (1948); Cantwell v. Connecticut, 310 US. 
+296, 305 (1940); Schneider v. State ( Town of Irvington), 
+308 U.S. 147, 163-64 (1939). 
+
+
+The Government suggests that the FCC’s proposed 
+“good cause” waiver “does not raise any of the constitu- 
+tional concerns that have been associated with waiver 
+provisions in other First Amendment contexts,” Gov't Br. 
+41, because the FCC will “ ‘routinely’ grant waivers of the 
+cross-ownership bar . . . to [telephone companies] that 
+agree to abide by [the agency's] safeguards in their video 
+dialtone systems,” id. at 39-40. Those “safeguards,” how- 
+ever, have not been specified and will be decided by the 
+FCC based on its judgment concerning the circumstances 
+under which telephone companies should be permitted to 
+exercise their First Amendment rights. The Court is thus 
+asked to hold that section 533(b) is constitutional based 
+on nothing more than a promise by the FCC that the 
+agency will restrict itself from exercising its discretion in 
+an unconstitutional manner. 
+
+
+Such circular arguments and unsubstantiated promises 
+cannot sidestep the statute’s plain, unconstitutional lan- 
+guage. In City of Lakewood, this Court rejected the invi- 
+tation to presume that “the mayor will deny a permit 
+application only for reasons related to the health, safety, 
+or welfare of Lakewood citizens, and that additional terms 
+and conditions will be imposed only for similar reasons,” 
+reasoning that this “is the very presumption that the doc- 
+
+
+25 
+
+
+trine forbidding unbridled discretion disallows.” 486 U.S. 
+at 770. As the Court ruled, “{t]o allow these iliusory 
+‘constraints’ to constitute the standards necessary to bound 
+a licensor’s discretion renders the guarantee against cen- 
+sorship little more than a high-sounding ideal.” Id. at 
+769-70. 
+
+
+D. There Is No Reason Now To Address the New 
+
+
+Regime the FCC Has Proposed To Replace the 
+Blanket Ban Enacted by Congress 
+
+
+In the court of appeals below, in the Ninth Circuit, and 
+in district courts across the country, the Government ar- 
+gued that the courts should not substitute their own views, 
+or the views of the FCC, for the policy views that the 
+Government's litigators attributed to Congress. In the 
+first part of its brief in this Court, the Government con- 
+tinues to argue that “the courts owe substantial defer- 
+ence” to Congress’s supposed “predictive judgment” that 
+a blanket ban on telephone company provision of cable 
+television service is necessary. Gov't Br. 32 n.21. 
+
+
+The Government's final argument, by contrast, takes 
+Congress out of the picture. The Government argues that 
+since the FCC has concluded that circumstances have 
+changed substantially and has substituted a dramatically 
+different regulatory regime based on video dialtone plat- 
+forms and waivers, the Court should ignore the consti- 
+tutional defects in what Congress has done and sanction 
+the agency’s unilateral rewrite. Respondents and sup- 
+porting amici have shown that the statute as Congress 
+wrote it is unconstitutional and cannot be saved in this 
+manner. There is, however, a further and final point 
+the FCC rewrite is premised on the very decisions the 
+Government now asks this Court to reverse, is still in- 
+complete, and has not been subjected to any review in 
+the lower courts. There is therefore no reason for the 
+Court to address the new regime now. The Court should 
+affirm the decision of the Fourth Circuit and leave it to 
+
+
+26 
+
+
+Congress and the FCC to decide, subject to appropriate 
+judicial review, what to do next. 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the judgment below should 
+be affirmed. 
+Respectfully submitted, 
+
+
+LLOYD N. CUTLER 
+Counsel of Record 
+
+
+CHARLES P. Russ II! Louis R. COHEN 
+
+STUART S. GUNCKEL WILLIAM T. LAKE 
+
+DAVID S. SATHER STEVEN M. DUNNE 
+
+NORTON CUTLER LYNN CHARYTAN 
+
+1801 California Street WILMER, CUTLER & PICKERING 
+
+Denver, Colorado 80202 2445 M Street, N.W. 
+Washington, D.C. 200387 
+(202) 663-6000 
+
+
+‘nner is | Gor Counael for T’ S WEST, Inc. 
+
+

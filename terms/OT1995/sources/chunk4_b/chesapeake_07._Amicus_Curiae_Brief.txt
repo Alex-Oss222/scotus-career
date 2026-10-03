@@ -1,0 +1,581 @@
+& BILFD 
+ar ~<a 
+Nos. 94-1893 and 94-1900 JUN 6 1995 
+| OPFice OF THE CLERK 
+
+
+IN THE 
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1994 
+
+
+UNITED STATES OF AMERICA, et ai. 
+
+
+and 
+
+
+NATIONAL CABLE TELEVISION ASSOCIATION, et al., 
+
+
+- Petitioners, 
+
+
+BELL ATLANTIC CORPORATION, et al., 
+Respondents. 
+
+
+On Petitions for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+BRIEF AMICUS CURIAE OF THE 
+CALIFORNIA CABLE TELEVISION ASSOCIATION 
+IN SUPPORT OF PETITIONERS 
+
+
+SPENCER R. KAITZz BRUCE D. SOKLER * 
+President FRANK W. LLoyp, III 
+JEFFREY SINSHEIMER MINTZ, LEVIN, COHN, FERRIS 
+Director of Regulatory Affairs GLOVSKY & PopPEo, P.C. 
+CALIFORNIA CABLE TELEVISION 701 Pennsylvania Avenue, N.W. 
+ASSOCIATION Suite 900 
+4341 Piedmont Avenue Washington, D.C. 20004 
+P.O. Box 11080 (202) 434-7300 
+Oakland, California 94611 Counsel for Amicus Curiae 
+(510) 428-2225 California Cable Television 
+Association 
+June 6, 1995 * Counsel of Record 
+
+
+WILSON - Eres PrRinTING Co., INC. - 789-0096 - WASHINGTON, D.C. 20001 
+
+
+BEST AVAILABLE COPY 
+
+
+TABLE OF CONTENTS 
+
+
+INTEREST OF AMICUS CURIAB ..........0..-0.---..0-00--- 
+
+
+REASONS FOR GRANTING THE PETITION .......... 
+
+
+CONCLUSION 
+
+
+rrr rerTT TTT eee eee 
+
+
+ii 
+
+
+TABLE OF AUTHORITIES 
+CASES Page 
+
+
+Applications of Telephone Companies for Section 
+214 Certificates for Channel Facilities Furnished 
+to Affiliated Community Antenna Television Sys- 
+tems, 21 F.C.C.2d 307 (1970), aff'd sub nom. 
+General Telegraph Co. of Southwest v. United 
+
+
+States, 449 F.2d 846 (5th Cir. 1971)......... ae 4 
+California v. FCC, 39 F.3d 919 (9th Cir. 1994), 
+
+cert. denied, 115 S. Ct. 1427 (1995)...................... 6 
+GTE California, Inc. v. FCC, 39 F.3d 940 (1994)... 3 
+Leathers v. Medlock, 499 U.S. 439, 111 S. Ct. 1438 
+
+ESS 2 
+Pacific Telesis Group v. United States, 48 F.3d 
+
+1106 (9th Cir. 1994), rehearing pending ............ 3 
+
+
+Preferred Communications, Inc. v. City of Los 
+Angeles, California, and Department of Water 
+and Power, 13 F.3d 1327 (9th Cir. 1994), cert. 
+denied, 114 S. Ct. 2788 (1994) ........................... 2 
+Preferred Communications, Inc. v. City of Los 
+Angeles, California, and Department of Water 
+and Power, 754 F.2d 1396 (9th Cir. 1985), aff'd, 
+
+
+EE 2 
+Telephone Company-Cable Television Cross- 
+Ownership Rule, Sections 63.54-63.58, Third 
+Report and Order, F.C.C. 95-203 (released May 
+ea scsnepenistonrnencene 3 
+Turner Broadcasting System, Inc. v. FCC, 114 
+OR a a 2 
+U S West, Inc. v. United States, 48 F.3d 1092 (9th 
+a stlisiineninsconnionn 3 
+STATUTES AND REGULATIONS 
+he passim 
+
+
+Se IIIS CII iinicniedscncntnctsnsnasesescncanseesceeneeseces 4 
+
+
+IN THE 
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1994 
+
+
+Nos. 94-1893 and 94-1900 
+
+
+UNITED STATES OF AMERICA, et al. 
+
+
+and 
+
+
+NATIONAL CABLE TELEVISION ASSOCIATION, et al., 
+7 Petitioners, 
+BELL ATLANTIC CORPORATION, et ai., 
+Respondents. 
+
+
+On Petitions for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+BRIEF AMICUS CURIAE OF THE 
+CALIFORNIA CABLE TELEVISION ASSOCIATION 
+IN SUPPORT OF PETITIONERS 
+
+
+INTEREST OF AMICUS CURIAE 
+
+
+The California Cable Television Association (“CCTA”) 
+submits this brief as amicus curiae in support of peti- 
+tioners.’ 
+
+
+' Consistent with S. Ct. R. 37.3, all parties have given CCTA 
+their consent to the filing of this brief. Two members of CCTA, 
+Time Warner Cable and Home Box Office, are not represented by 
+CCTA for purposes of this action. 
+
+
+2 
+
+
+CCTA is a trade association representing cable tele- 
+vision system operators that provide cable television serv- 
+ice to nearly six million California residents, as well as 
+cable television programmers and equipment suppliers. 
+CCTA brings information to the Court concerning the 
+effect elimination of the in-region barn om telephone com- 
+pany provision of video programming has had, and will 
+continue to have, on cable television operators and con- 
+sumers in California. CCTA has unique knowledge of 
+the incentive and ability of local exchange carriers 
+(“LECs”) in California—specifically, Pacific Bell (“Pa- 
+cific’) and GTE Corporation—to engage in anticompeti- 
+tive behavior in a manner that directly affects the ability 
+of cable operators to compete effectively in the market- 
+place. Notably, this anticompetitive conduct is at the 
+heart of the congressional justification for Section 533(b) 
+of the Communications Act. 
+
+
+Since 1958, CCTA has participated in proceedings be- 
+fore a wide range of administrative, legislative, and judi- 
+cial bodies on behalf of the cable television industry in 
+California and its individual members. CCTA has a wide 
+range of experience advocating the rights of cable tele- 
+vision operators before this Court * and before the Court 
+of Appeals for the Ninth Circuit. Most recent and rele- 
+vant to the questions posed by the petitioners for cer- 
+tiorari, CCTA filed a brief as intervenor-applicant in the 
+Ninth Circuit Court of Appeals when the district court 
+
+
+2 See amicus briefs filed by CCTA in Turner Broadcasting Sys- 
+tem, Inc. v. FCC, 114 8. Ct. 2445 (1994) and Leathers v. Medlock, 
+499 U.S. 439, 111 S. Ct. 1438 (1991). 
+
+
+*CCTA has filed amicus briefs in Preferred Communications, 
+Ine. v. City of Los Angeles, California, and Department of Water 
+and Power, 754 F.2d 1396 (9th Cir. 1985), aff'd, 476 U.S. 488 
+(1986) ; and Preferred Communications, Inc. v. City of Los Angeles, 
+California, and Department of Water and Power, 13 F.2d 1327 
+(9th Cir. 1994), cert. denied, 114 S. Ct. 2738 (1994). 
+
+
+3 
+
+
+invalidated the telephone company-cable operator cross- 
+ownership ban at issue in this case.* 
+
+
+This amicus brief will illustrate that the issues the 
+petitioners ask this Court to resolve will have a substan- 
+tial impact on competition in the provision of multi- 
+channel video programming, the video services market, 
+and the market for local telephone competition as well.” 
+
+
+REASONS FOR GRANTING THE PETITION 
+
+
+The central issue in this case is whether a non-content 
+based regulation, which the court of appeals found pro- 
+motes the significant governmental interest in media out- 
+let diversity and deterrence of anticompetitive behavior,“ 
+violates the First Amendment because there might be 
+less burdensome alternatives, without regard to how effec- 
+tive such alternatives might be at accomplishing the gov- 
+ernmental interest. 
+
+
+To find, as the court of appeals did, that the telephone 
+company-cable television cross-ownership ban was not 
+narrowly tailored enough to pass constitutional muster * 
+
+
+* See Brief of CCTA in U S West, Inc. v. United States, 48 F.3d 
+1092 (9th Cir. 1994). The court of appeals ultimately denied 
+CCTA intervenor status in that case and, thus, CCTA participated 
+as amicus curiae. CCTA, however, participated in joint oral argu- 
+ment of the U S West case in its capacity as an intervenor in 
+Pacific Telesis Group v. United States, 48 F.3d 1106 (9th Cir. 
+1994), rehearing pending, which also involved a constitutional 
+challenge to Section 533(b). In addition, CCTA was a party in 
+GTE California, Inc. v. FCC, 39 F.3d 940 (1994). 
+
+
+‘In the alternative to this Court’s review, CCTA supports the 
+petitioners’ request that the decision of the court of appeals be 
+vacated and remanded for further consideration in light of the 
+FCC’s action in Telephone Company-Cable Television Cross- 
+Ownership Rule, Sections 63.54-63.58, Third Report and Order, 
+FCC 95-203 (released May 16, 1995). 
+
+
+* Pet. App. 34a. 
+7 Pet. App. 42a. 
+
+
+4 
+
+
+flies in the face of the “real life” experience CCTA’s 
+members have had with anticompetitive conduct by Cali- 
+fornia’s LECs. The simplistic assumption that other less 
+burdensome options exist, or that the Federal Communi- 
+cations Commission (“FCC”) has the requisite means 
+to enforce cenduct-specific regulation, fails to take into 
+account the overwhelming incentive and ability of tele- 
+phone companies to use their monoply power to cross- 
+subsidize and discriminate against competitors in the 
+video services market. 
+
+
+The cross-ownership ban was first adopted by the FCC 
+in 1970 to address the problem of discrimination against 
+cable companies unaffiliated with LECs and to avoid the 
+extension of the telephone company monopoly into the 
+cable services market." The FCC concluded that “the 
+preservation of . . . competition will best be assured by 
+the exclusion of telephone companies in their service 
+areas from engaging in the sale of [cable] service to the 
+viewing public.” ° 
+
+
+In 1981, the FCC revisited this subject with the issu- 
+ance of a comprehensive staff report on the agency’s 
+cable cross-ownership policies." While the report noted 
+that the cable industry no longer was in its infancy, it 
+concluded that continued prohibition of telephone com- 
+pany-cable television cross-ownership “remains  essen- 
+tial.” "' It stated that the restriction should not be lifted 
+until the potential of cable television operators to become 
+genuine competitors of telephone companies with respect 
+
+
+*See 47 C.F.R. 64.601 (1971); Applications of Telephone Com- 
+panies for Section 214 Certificates for Channel Facilities Furnished 
+to Affiliated Community Antenna Television Systems, 21 F.C.C.2d 
+307 (1970), aff'd sub nom. General Tel. Co. of Southwest v. United 
+States, 449 F.2d 846 (5th Cir. 1971). 
+
+
+*21 F.C.C.2d at 325. 
+
+
+” FCC Office of Plans and Policy, FCC Policy on Cable Owner- 
+ship, A Staff Report (Nov. 1981). 
+
+
+11 Jd. at 177. See also id. at 143 (restriction “must be retained 
+for the time being.’’). 
+
+
+5 
+
+
+to local telephone service became more realistic. The 
+report observed that independent cable operators offered 
+the potential “to constrain telephone company market 
+power” and “long run prospects for eliminating the ‘local 
+bottleneck’ altogether.” '~ Thus, the FCC explained, the 
+decision of whether to lift the cross-ownership ban “de- 
+pends critically on the nature of competition in the pro- 
+vision of local loop services.” 
+
+
+In this vein, Congress essentially codified the FCC’s 
+cross-ownership rules in Section 533(b) of the Cable 
+Communications Policy Act of 1984, Pub. L. No. 98- 
+549, 98 Stat. 2779, 47 U.S.C. 533(b). It indicated that 
+the ban was intended “to prevent the development of local 
+media monopolies, and to encourage a diversity of owner- 
+ship of communications outlets.” 
+
+
+The key factual predicate that prompted the owner- 
+ship ban still exists today. Specifically, LECs continue 
+to enjoy overwhelming local access market dominance. 
+Nationwide, industry analysts reported last year that ag- 
+gregate revenues for access services of all competitive 
+local telephone access providers combined are less than 
+one percent of total monopoly LEC access revenues and 
+an even smaller percentage of total revenues."” Indeed, 
+in California, local telephone companies retain a de jure 
+monopoly "* and are resisting efforts to open up the local 
+exchange market to meaningful competition." 
+
+
+12 Jd. at 160. 
+18 Id. at 177. 
+H.R. Rep. No. 934, 98th Cong., 2d Sess. 56 (1984). 
+
+
+5 Economics and Technology, Inc./Hatfield Associates, Inc., “The 
+Enduring Local Bottleneck: Monopoly Power and the Local Ex- 
+change Carriers,” at ii (February, 1994). 
+
+
+See In the Matter of Alternative Regulatory Frameworks for 
+Local Erchange Carriers, CAL. PuB. UTIL. Decision No. 89-10-0381. 
+
+
+17See Comments of Pacific in Jn the Matter of Alternative 
+Regulatory Frameworks for Local Exchange Carriers, CAL. Pus. 
+UTIL. Investigation No. 87-11-033 (filed January 31, 1995). 
+
+
+6 
+
+
+The Ninth Circuit recently reaffirmed that “the BOCs 
+have the incentive to discriminate [in the provision of en- 
+hanced services] and the ability to exploit their monopoly 
+control over the local networks to frustrate regulators’ 
+attempts to prevent anticompetitive behavior.” '* This in- 
+centive to use network facilities to the detriment of com- 
+peting video programmers and providers is especially 
+strong in the context of LEC-provided video service be- 
+cause the LECs already have a wired connection into 
+nearly every home. Thus, LECs are looking to provide 
+video services to consumers who are their captives for 
+telephony. 
+
+
+CCTA has had first-hand experience with telephone 
+company attempts to exploit their extraordinary market 
+power to gain a competitive advantage in the video ser- 
+vices market. For example, in 1986, Pacific constructed 
+a “leaseback” video transport cable system for an inde- 
+pendent cable operator in Palo Alto, California, and 
+estimated that the system’s annual revenue for the first 
+15 years would recover its costs and yield a rate of re- 
+turn on Pacific’s investment of between 10 and 12.72 
+percent." Although Pacific’s construction costs, in fact, 
+had vastly exceeded its estimate, the company never 
+increased its tariffed rates to the customer.” As a result, 
+potential competitors were injured because Pacific re- 
+quired telephone ratepayers to bear the burden of its loss. 
+
+
+1*® California v. FCC, 39 F.3d 919, 929 (9th Cir. 1994), cert. 
+denied, 115 S. Ct. 1427 (1995). 
+
+
+' Application of Pacific Bell for Authority Pursuant to Section 
+214 of the Communications Act of 1934, and Section 63.01 of the 
+Commission’s Rules and Regulations to Construct and Maintain 
+Broadband Cable Distribution Facilities in and around the City of 
+Palo Alto, CA, File No. W-P-C 5753 (filed April, 1986 and 
+amended September, 1986). 
+
+
+“See Reply of the California Cable Television Association to 
+Pacific Bell’s Opposition to Petitions to Deny, FCC File Nos. W-P-C 
+6913, 6914, 6915, and 6916, at 39-42 (filed March 11, 1994). 
+
+
+7 
+
+
+Significantly, this conduct, which violated Pacific's tariff 
+
+
+and the FCC’s cross-ownership rules, was not prevented 
+by the accounting “safeguards” imposed by the FCC. 
+
+
+Pacific’s pending proposals to provide video dialtone 
+service are even more striking.”’ Pacific claims that its 
+$16 billion investment in a new hybrid fiber ‘coaxial cable 
+telecommunications network is nothing more than a re- 
+placement of its copper telephone network and not in- 
+tended primarily to give Pacific the ability to provide 
+video programming.” Therefore, Pacific claims it needs 
+no regulatory approval for most of its investment and has, 
+in fact, initiated construction of its new network with no 
+intervention by the FCC.” 
+
+
+On the basis that the $16 billion investment is primarily 
+for the purpose of telephony, Pacific also proposes that its 
+embedded monopoly telephone ratepayers bear the cost of 
+its new video network. Specifically, Pacific proposes to 
+scrap millions of copper wires, substitute broadband 
+coaxial cable “drops”, even for households that only want 
+basic telephone service, build a broadband feeder and dis- 
+tribution system to carry both video and telephony, and 
+then charge off 78 percent of the new network to regu- 
+lated telephony services, when less than half of these costs 
+should be borne by telephone ratepayers.** This massive 
+
+
+*! Applications of Pacific Bell for Authority Under Section 214(a) 
+of the Communications Act to Construct Video Dialtone Facilities, 
+File Nos. W-P-C- 6913, 6914, 6915, 6916 (filed December 20, 1993). 
+
+
+22 Id. 
+
+
+** See Letter from Jeffrey Sinsheimer, Director of Regulatory 
+Affairs, CCTA, to Kathleen M.H. Wallman, Chief, Common Carrier 
+Bureau, FCC, at 12, FCC File Nos. W-P-C 6913, 6914, 6915, 6916, 
+dated April 11, 1995, citing Letter from Alan Ciamporcero, Pacific 
+Telesis, to Kathleen M.H. Wallman, FCC, at 8, dated January 13, 
+1995. 
+
+
+** See Letter from Jeffrey Sinsheimer, Director of Regulatory 
+Affairs, CCTA, to Kathleen M.H. Wallman, Chief, Common Carrier 
+Bureau, FCC, Exhibit 1 at 2 (Declaration of Leland L. Johnson, 
+Ph.D.), FCC File Nos. W-P-C 6913, 6914, 6915, 6916, dated April 
+11, 1995. 
+
+
+8 
+
+
+cost-shifting away from video dialtone users will allow 
+Pacific to underprice other video providers at the same 
+time that it unfairly burdens its ratepayers. 
+
+
+Most significantly, Pacific’s video dialtone proposals to 
+provide common carriage service are nothing more than 
+a Trojan Horse for the company’s provision of video pro- 
+gramming. Specifically, Pacific expects that its offering 
+will be governed by common carrier regulations, although 
+it proposes to grant discriminatory access and rates to a 
+“favored” video programmer.* And, if the First Amend- 
+ment questions before this Court are resolved in a manner 
+that will permit the telephone company to provide video 
+programming in its service area, Pacific intends to pur- 
+chase this “favored” programmer.” 
+
+
+It is far from clear that the FCC possesses the means to 
+police anticompetitive conduct of this sort in the absence 
+of LEC ownership of video programming. It is readily 
+apparent, however, that the agency will not be able to 
+deter LECs from extending their telephone monopolies 
+into the video transport market when they have the added 
+incentive of gaining dominance over the lucrative video 
+programming business. In light of this evidence, it is not 
+apparent why the court of appeals believes that limiting 
+“the telephone companies’ editorial control over video 
+programming to a fixed percentage of the channel's avail- 
+
+
+able” would be an effective “less-burdensome alternative” 
+to Section 533(b).” 
+
+
+Finally, there is simply no evidence that this limited 
+economic regulation has any impact whatsoever on the 
+ability of LECs to get their desired messages to local sub- 
+scribers. Section 533(b) allows telephone companies 
+ample avenues for communication, including dissemina- 
+
+
+“See Letter from Spencer Kaitz, President, CCTA, to Reed 
+Hundt, Chairman, FCC, FCC File Nos. W-P-C 6913, 6914, 6915, 
+6916, dated September 19, 1994. 
+
+
+26 Id. 
+27 Pet. App. 4la. 
+
+
+9 
+
+
+tion of video programming by any means except LEC- 
+owned in-region cable systems, as well as any expression 
+that does not constitute video programming. In contrast 
+to the minimal effect the cross-ownership ban has on tele- 
+phone company speech, the regulation promotes competi- 
+tion and ensures that the LEC vision of just one (LEC- 
+owned) wire into each home does not become a reality. 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the petitions for a writ of 
+certiorari should be granted. 
+
+
+Respectfully submitted, 
+SPENCER R. KAITZ Bruce D. SOKLER * 
+President FRANK W. LLoyp, III 
+JEFFREY SINSHEIMER MINTZ, LEVIN, COHN, FERRIS, 
+Director of Regulatory Affairs GLOvsKY & Popgo, P.C. 
+CALIFORNIA CABLE TELEVISION 701 Pennsylvania Avenue, N.W. 
+ASSOCIATION Suite 900 
+4341 Piedmont Avenue Washington, D.C. 20004 
+P.O. Box 11080 (202) 434-7300 
+Oakland, California 94611 Counsel for Amicus Curiae 
+(510) 428-2225 California Cable Television 
+Association 
+
+
+June 6, 1995 * Counsel of Record 
+
+

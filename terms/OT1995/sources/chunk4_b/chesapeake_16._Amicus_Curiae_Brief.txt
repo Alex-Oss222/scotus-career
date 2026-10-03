@@ -1,0 +1,959 @@
+BEST AVAILABLE COPY) 
+
+
+QUESTION PRESENTED 
+
+
+Whether 47 U.S.C. § 533(b), which prohibits local 
+
+
+telephone companies from providing video programming 
+directly to subscribers in their telephone service areas, violates 
+the First Amendment. 
+
+
+ii 
+RULE 29.1 STATEMENT 
+
+
+Amicus curiae GTE Corporation is a publicly-held 
+corporation in the business of providing telecommunications 
+services and products to the general public. GTE Corporation 
+is the parent company of GTE Service Corporation and the 
+GTE telephone operating companies. The following 
+subsidiaries of GTE Corporation have securities in public 
+hands: 
+
+
+B.C. Telecom, Inc. 
+
+Caribbean Reservation Center, C. por. A. 
+
+Communications Telefonicas, C. por. A. 
+
+Florence Cellular Telephone Company, Inc. 
+
+GTE California Incorporated 
+
+GTE Directories Corporation Lanka (PVT.) Ltd. 
+
+GTE Florida Incorporated 
+
+GTE Hawaiian Telephone Company Incorporated 
+
+GTE North Incorporated 
+
+GTE Northwest Incorporated 
+
+GTE South Incorporated 
+
+GTE Southwest Incorporated 
+
+Jacksonville Cellular Telephone Corp. 
+
+Jacksonville Cellular Communications, Inc. 
+
+La Compagnie de Telephone Anglo-Canadienne/ 
+Anglo-Canadian Telephone Company 
+
+MTX Italia 
+
+Parque Industrial ITABO, S.A. 
+
+Quebec-Telephone 
+
+Radiowealth, Inc. 
+
+The Micronesian Telecommunications Corporation 
+
+Wilmington Cellular Telephone Corp. 
+
+Wilmington Cellular Communications, Inc. 
+
+Zona France Las Americas 
+
+
+PAGE 
+eee i 
+EE Sob becccesecestcoscecaqsees ii 
+INTEREST OF AMICUS CURIAE ..........066000005: l 
+SUMMARY OF ARGUMENT .........-.ccecccceess 2 
+Cie eeiCibiewendeedesesccccccess: 4 
+
+
+I. THE THIRD REPORT AND ORDER CANNOT BE 
+A “SAVING CONSTRUCTION” OF SECTION 
+533(b) BECAUSE IT IS NOT EVEN A 
+“CONSTRUCTION” OF THE SCOPE OF 
+SECTION 533(b)’S BAN ON SPEECH ............ 4 
+
+
+Il. THE WAIVER REGIME EMBODIED IN THE 
+THIRD REPORT AND ORDER IS AN 
+UNCONSTITUTIONAL STANDARDLESS 
+cc case ub eetecvcccccccse. 6 
+
+
+Ill. THE THIRD REPORT AND ORDER CONFIRMS 
+THAT SECTION 533(b)’S BAN ON TELEPHONE 
+COMPANY SPEECH IS NOT NECESSARY TO 
+PREVENT THE EVILS THE GOVERNMENT 
+RELIES ON TO JUSTIFY THE STATUTE........ 10 
+
+
+TEDSTER UGE E cases es cocccccsocccces 19 
+
+
+TABLE OF AUTHORITIES 
+PAGE 
+
+Cases 
+City of Lakewood v. Plain Dealer Publishing Co., 
+
+GBG UB. TEOCIGEED 2c cccccccsccecesccccccese 6,7 
+Forsyth County, Ga. v. Nationalist Movement, 
+
+SURE, GR BED vevcvccccsccecsocscccces: 6 
+Freedman v. Maryland, 
+
+FIORE, GOD Seco ccdcccccicceccdceceecess 8 
+GTE South v. United States, 
+
+Civ. Action No. 94-1588-A 
+
+GED. Va. Fam. 8G, GBS) occ cccccccccccsecccces 1,2 
+Kunz v. New York, 
+
+SI ED co ch ccncceccncacesnocccsves 7 
+Secretary of State of Md. v. Joseph H. Munson Co., 
+
+FP TTT Le 5 
+Turner Broadcasting Sys., Inc. v. United States, 
+
+OSE SOP bce ccteceWnedsesesodecs. 11 
+United States v. O'Brien, 
+
+|: & , PPP rPrrrrrriririie er 13 
+Ward v. Rock Against Racism, 
+
+GIO Es HEED bb chee cdcdescccccsscéscdes 13 
+Constitutional and Statutory Provisions 
+CRG, Game, GHITNE Bcc ccccccccccccccscesctenes passim 
+GIGBE. GEG cc ccccccccccdeccctcccsecess passim 
+
+
+Nos. 94-1893; 94-1900 
+
+
+IN THE 
+Supreme Court of the Huited States 
+
+
+OCTOBER TERM, 1995 
+
+
+UNITED STATES OF AMERICA, ET AL.., 
+and 
+NATIONAL CABLE TELEVISION ASS’N, INC., 
+Petitioners, 
+Vv. 
+
+
+BELL ATLANTIC CORPORATION, ET AL.., 
+
+
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals for the Fourth Circuit 
+
+
+BRIEF FOR GTE CORPORATION 
+AS AMICUS CURIAE IN SUPPORT OF RESPONDENTS 
+
+
+INTEREST OF AMICUS CURIAE 
+
+
+Amicus curiae GTE Corporation and its affiliated 
+companies (“GTE”) are in the business of providing 
+telecommunications services and products, including local 
+telephone services, to the general public. Amicus, like Bell 
+Atlantic, has challenged the constitutionality of 47 U.S.C. 
+§ 533(b), which prohibits telephone companies from providing 
+“video programming” to subscribers in their service areas. In 
+GTE South v. United States, Civ. Action No. 94-1588-A (E.D. 
+Va. Jan. 15, 1995), the District Court declared that 
+Section 533(b), on its face, violates GTE’s right of free speech 
+
+
+2 
+
+
+guaranteed by the First Amendment of the United States 
+Constitution. The Government has filed a notice of appeal in 
+GTE South, but the parties have agreed to stay that appeal 
+pending resolution of this case by this Court. Amicus GTE 
+Corporation therefore has a substantial interest in this Court’s 
+determination of the constitutionality of Section 533(b).' 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Amicus GTE agrees with respondent Bell Atlantic that 
+Section 533(b), as a direct ban on speech, should be subject to 
+strict scrutiny, and that, under either strict scrutiny or 
+intermediate scrutiny, Section 533(b) is unconstitutional. 
+
+In this brief, amicus GTE discusses the impact of the 
+FCC’s Third Report and Order on this litigation. (May 1995 
+Supplemental Brief of Petitioners In Support of Petition For A 
+Writ of Certiorari 1a-21a (“Gov't Supp. Br.”). In the Third 
+Report and Order, the FCC concluded that Section 533(b)\(4) 
+authorizes it to grant waivers to Section 533(b)’s unequivocal 
+prohibition on telephone companies providing video 
+programming in their service areas. The FCC explicitly 
+declined, however, to specify in the Third Report and Order 
+any of the terms and conditions that it would require for a 
+waiver of Section 533(b), promising only to announce those 
+terms and conditions sometime in the future. 
+
+In their briefs, the Government and the National Cable 
+Television Association (“NCTA”) attempt to characterize the 
+Third Report and Order as a “saving construction” of Section 
+533(b), one which purportedly avoids the constitutional 
+infirmities with that section found by every district and circuit 
+judge to consider the merits of the issue. However, as we 
+
+
+' GTE has obtained the written consent of petitioners, the United States 
+and the National Cable Television Association (“NCTA”), as well as of 
+respondent Bell Atlantic Corporation, to file this amicus brief. The letters 
+of consent are on file with the Clerk of this Court. 
+
+
+demonstrate herein: 
+
+1. The Third Report and Order is not a “saving 
+construction” of Section 533(b), if for no other reason than it is 
+not a “construction” of the scope of that prohibition’s ban of 
+speech. The Third Report and Order purports to construe the 
+FCC’s waiver authority under Section 533(b)(4), but in doing 
+SO, it does not purport to delineate in any specific way the reach 
+of Section 533(b)(1)-(2)'s ban on speech. It is difficult to 
+fathom how the Government and the NCTA can ask this Court 
+to hold that the Third Report and Order alleviates the 
+constitutional infirmities in Section 533(b) when the Third 
+Report and Order does not even purport to specify what speech 
+will be allowed under the waiver regime that it contemplates 
+and what speech will remain prohibited by Section 533(b). 
+
+2. In any event, the waiver regime contemplated by the 
+Third Report and Order is no less unconstitutional than Section 
+533(b) itself. The Third Report and Order replaces an 
+unconstitutional flat ban on speech with an equally 
+unconstitutional flat ban on speech subject to waivers to be 
+granted by bureaucrats according to standards, and subject to 
+conditions, of their own making, which are as yet unknown and 
+which in any event are not meaningfully constrained by any 
+language in the statute. Such a standardless licensing scheme 
+plainly violates the First Amendment. 
+
+3. The real significance of the Third Report and Order lies 
+not in its uselessness as a “saving construction,” but rather in 
+the crucial concessions made in it by the FCC. As we 
+demonstrate in Part III below, in the course of justifying its 
+authority to grant waivers to Section 533(b), the FCC 
+undermines the arguments advanced by the Government in 
+defense of Section 533(b). In short, far from saving Section 
+533(b), the Third Report and Order buries it even deeper. 
+
+
+4 
+
+
+ARGUMENT 
+
+
+I. THE THIRD REPORT AND ORDER CANNOT BE A 
+“SAVING CONSTRUCTION” OF SECTION 533(b) 
+BECAUSE IT IS NOT EVEN A “CONSTRUCTION” 
+OF THE SCOPE OF SECTION 533(b)’S BAN ON 
+SPEECH. 
+
+
+The most basic reason why the Third Report and Order is 
+not a “saving construction” of Section 533(b) is that it is not a 
+“construction” of that prohibition’s ban on speech. In the Third 
+Report and Order, the FCC construes generally its waiver 
+authority under Section 533(b)(4), but in doing so it does not in 
+any specific way delineate the reach of Section 533(b)(1)-(2)'s 
+ban on speech. There is simply no basis for this Court to 
+conclude that the Third Report and Order sufficiently narrows 
+the scope of the statutory ban on speech to save it from 
+unconstitutionality, because the FCC explicitly disavows 
+determining the terms and conditions under which telephone 
+companies will be allowed to speak. 
+
+
+In its brief, the NCTA mischaracterizes the Third Report 
+and Order as having “explicitly concluded that [the] direct 
+provision of video programming [by telephone companies] is 
+authorized under [a] single set of conditions.” (NCTA Br. 28 
+(emphasis in original).) This statement could not be further 
+from the truth. The Third Report and Order most assuredly 
+does not determine any “single set of conditions” under which 
+telephone companies will be allowed to speak. Although the 
+FCC concludes in the Third Report and Order that it has “the 
+legal authority to grant waivers allowing telephone companies 
+to provide video programming in their telephone service areas 
+on video dialtone networks,” (Govt. Supp. Br. 2a (emphasis 
+added)), it explicitly “dof[es] not decide whether telephone 
+companies may provide video programming over video 
+dialtone networks rather than as traditional cable operators,” 
+(id). Nor, the FCC states explicitly, does it decide in the Third 
+
+
+5 
+
+
+Report and Order under what “terms and conditions” a 
+telephone company will be allowed to provide video 
+programming. (Govt. Supp. Br. 6a, n.11.) Nor does the FCC 
+even decide generally whether, “if a telephone company is 
+permitted to provide video programming on a video dialtone 
+system, . . . that telephone company should be regulated [as a 
+common carrier] under Title II or [as a cable operator under] 
+Title V1 of the Communications Act.” (Govt. Supp. Br. 2a-3a 
+(emphasis added).)’ 
+
+In short, the Third Report and Order settles nothing about 
+the scope of Section 533(b)’s ban on speech. Instead, it merely 
+decides that the FCC has the authority under Section 533(b)(4) 
+to issue good cause waivers to allow telephone companies to 
+provide video programming over a video dialtone network if 
+the FCC ultimately decides that it wants to do so, and subject 
+to conditions not yet determined. Because the Third Report 
+and Order does not even purport to determine the scope of 
+Section 533(b)’s ban on telephone company speech, it cannot 
+be a narrowing construction that saves Section 533(b) from the 
+conclusion that the statute is facially unconstitutional under the 
+First Amendment. See Secretary of State of Md. v. Joseph H. 
+Munson Co., 467 U.S. 947, 967-68 (1984) (statute that imposes 
+direct restriction on speech that is too imprecise to satisfy First 
+Amendment is “properly subject to facial attack,” and “[t}he 
+possibility of a waiver may decrease the number of 
+impermissible applications of the statute, but it does nothing to 
+remedy the statute’s fundamental defect”). 
+
+
+* The only hint in the Third Report and Order as to the conditions 
+under which the FCC wil will grant a waiver to Section 533(b) is the FCC's 
+
+
+Il. THE WAIVER REGIME EMBODIED IN THE 
+THIRD REPORT AND ORDER IS_ AN 
+UNCONSTITUTIONAL STANDARDLESS 
+LICENSING SCHEME. 
+
+
+In any event, the FCC’s interpretation in the Third Report 
+and Order of its waiver authority does not alleviate the 
+constitutional infirmities in Section 533(b). Indeed, if anything, 
+it compounds them by vesting in the FCC an unconstrained, 
+standardless licensing power over the free speech rights of 
+telephone companies. See Forsyth County, Ga. v. Nationalist 
+Movement, 112 S. Ct. 2395, 2401-03 (1992); City of Lakewood 
+v. Plain Dealer Publishing Co., 486 U.S. 750, 757, 769-72 
+(1988); Joseph H. Munson Co., 467 U.S. at 964 n.12. The 
+Third Report and Order, in other words, impermissibly 
+“trade[s] a direct prohibition on [telephone company speech] 
+for a licensing scheme that, if it is available to [telephone 
+companies] at all, is available only at the unguided discretion 
+of the [FCC].” Joseph H. Munson Co., 467 U.S. at 964 n.12. 
+
+
+Section 533(b) makes it flatly unlawful for telephone 
+companies to provide video programming, either directly or 
+indirectly, to subscribers in its telephone service area. In the 
+Third Report and Order, the FCC promises that it will 
+“routinely” grant waivers to that seemingly unequivocal 
+prohibition for “good cause,” (Govt. Supp. Br. 4a), but only 
+“where the telephone company agrees to abide by the 
+regulations we will establish governing its provision of video 
+programming,” id. at 19a. As noted above, in the Third Report 
+and Order, the FCC does not purport to determine the terms 
+and conditions to which it will require a telephone company to 
+agree before it will grant the telephone company a good cause 
+waiver to provide video programming. Nor does Section 
+533(b) set up any special procedure either for setting the terms 
+and conditions for “good cause” or for considering requests 
+from a telephone company for such a waiver. 
+
+
+7 
+
+
+In the past, this Court has looked with suspicion at statutes 
+and ordinances that grant executive officials the power to grant 
+or deny a license to speak. As the Court noted in Joseph H. 
+Munson Co., “[b}y placing discretion in the hands of an official 
+to grant or deny a license [to speak], such a statute creates a 
+threat of censorship that by its very existence chills free 
+speech.” 467 U.S. at 964 n.12. See City of Lakewood, 486 at 
+757 (“mere existence of the licensor’s unfettered discretion, 
+coupled with the power of prior restraint, intimidates parties 
+into censoring their own speech”). Section 533(b), as construed 
+by the Third Report and Order, has all of the attributes that this 
+Court has found unacceptable in unconstitutional speech- 
+licensing schemes. 
+
+
+In particular: 
+
+
+First, a legislature “cannot vest restraining control over the 
+right to speak [in] an administrative official where there are no 
+appropriate standards to guide his action.” Kunz v. New York, 
+340 U.S. 290, 295 (1951). Here, there are no meaningful 
+standards in Section 533(b) to restrain the exercise of the 
+FCC’s discretion to grant or deny a waiver. Nothing in the 
+statute purports to constrain the terms and conditions that the 
+FCC can require before it will grant a waiver to Section 
+533(b)’s flat ban on speech, and nothing in the statute ensures 
+that the FCC will apply those terms and conditions consistently, 
+uniformly, or fairly once it has set them. 
+
+
+The fact that the statute authorizes waivers for “good 
+cause” does not constitutionally constrain the discretion of the 
+FCC. There is no statutory definition of “good cause,” and 
+nothing in the statute otherwise constrains the terms and 
+conditions that the FCC may set for waivers. It is 
+inconceivable that this Court would uphold against First 
+Amendment challenge a city ordinance that made all picketing 
+illegal, on the ground that the ordinance allowed the police 
+commissioner to grant a waiver for “good cause.” And we 
+must believe that it would make no difference to this Court if 
+the police commissioner promised, as the FCC has done, to 
+
+
+issue waivers “routinely” according to “speech friendly” 
+standards that he would not even begin to develop until after 
+the Court had decided the constitutional challenge raised in the 
+case. 
+
+
+Second, a speech-licensing scheme violates the First 
+Amendment unless it contains numerous procedural safeguards, 
+all of which are lacking here. In Freedman v. Maryland, 380 
+U.S. 51 (1965), this Court struck down a state law that 
+prohibited the exhibition of any motion picture without first 
+submitting it to a state administrative board for review. Even 
+though the state law had established a detailed set of procedures 
+to govern decisions made by the administrative board, this 
+Court held that the scheme violated the First Amendment 
+because certain other protections were lacking. These 
+additional safeguards, which the Court held to be essential, 
+included: (i) that the government officials must have the burden 
+of proving that any decision they make to suppress speech is 
+constitutional; (ii) that any such decision must be made within 
+a specified brief period; and (iii) that expedited judicial 
+proceedings to review the decision must be assured. Freedman, 
+380 U.S. at 58-60. 
+
+
+None of these procedural safeguards, and nothing like 
+them, is present in Section 533(b) or in the Third Report and 
+Order. The FCC has not even established the substantive terms 
+and conditions to govern its waiver power, much less whether 
+it will implement such rigorous procedures in considering 
+requests for a waiver. There is no onus on the FCC to prove 
+why a telephone company should not be allowed to speak; 
+rather, Section 533(b) provides that, unless the telephone 
+company receives a waiver, it cannot speak. There is no 
+requirement that the FCC must decide waiver applications 
+within any specified brief time, and it is stipulated in this case 
+that waiver applications have languished at the FCC for years. 
+(See J.A. 204-05.) And there is neither any provision for 
+expedited judicial review of the denial of a waiver by the FCC 
+nor any meaningful standards in the statute by which a court 
+
+
+9 
+
+
+could judge the FCC’s exercise of its broad discretion. In short, 
+none of the important procedural safeguards necessary for a 
+constitutional system of speech licensing is present here. 
+
+Third, the Court has previously held that, if a legislative 
+body could have served the relevant government interests in an 
+alternative manner that is obviously less burdensome to speech, 
+a statute is not saved by the fact that an executive official can 
+give dispensation to speak. The Court made this important 
+point explicitly in Joseph H. Munson Co., where it held that the 
+possibility of a waiver from a statutory prohibition of speech 
+does not save a statute when the government’s interests could 
+have been protected by a restriction that was less burdensome 
+on speech: “[W]Jhere there are alternative means to serve the 
+same purpose, there is little justification for straining to salvage 
+the statute by invoking the possibility of official dispensation 
+to engage in protected activity.” 467 U.S. at 964 n.12. 
+
+
+The importance of this point cannot be overemphasized. 
+If this Court were to accept petitioners’ argument that the Third 
+Report and Order avoids the constitutional difficulties with 
+Section 533(b), then the “less restrictive alternative” 
+requirement embodied in both strict and intermediate scrutiny 
+(in First Amendment jurisprudence and elsewhere) would be a 
+virtual dead letter. All that a legislature would have to do to 
+avoid this requirement would be to include in the statute the 
+authority of an executive official to waive the statutory 
+prohibition for “good cause.” Then, so long as the executive 
+official promised to apply the statute in ways that were less 
+intrusive than the statute itself (even if the executive official 
+would not specify the terms and conditions under which he 
+would grant a waiver), the statute would be able to survive 
+heightened scrutiny. That cannot be acceptable. The relevant 
+constitutional question must be whether the legislature could 
+have drawn the statutory ban more narrowly, without 
+compromising the government’s important interests, not 
+whether an executive official has the authority to narrow the 
+application of an overbroad prohibition that is not necessary to 
+
+
+10 
+
+
+serve the government’s asserted interests. 
+
+
+For all of these reasons, the waiver scheme embodied in 
+the Third Report and Order does not alleviate the constitutional 
+infirmities of Section 533(b). 
+
+
+Ill. THE THIRD REPORT AND ORDER CONFIRMS 
+THAT SECTION 533(b)’S BAN ON TELEPHONE 
+COMPANY SPEECH IS NOT NECESSARY TO 
+PREVENT THE EVILS THE GOVERNMENT 
+RELIES ON TO JUSTIFY THE STATUTE. 
+
+
+The real significance of the Third Report and Order to this 
+litigation lies not in its uselessness as a “saving construction,” 
+but rather in how the findings and determinations of the FCC 
+contained therein undermine the Government’s justifications 
+for Section 533(b)’s flat ban on telephone company speech. 
+
+
+To support its conclusion that it can waive Section 
+533(b)’s ban on telephone company speech (subject to 
+unspecified conditions), the FCC makes at least five crucial 
+concessions in the Third Report and Order. Those concessions 
+confirm that Section 533(b)’s ban on telephone company 
+speech is not necessary to prevent the purported evils used by 
+the Government to justify it. 
+
+
+1. The first major concession in the Third Report and 
+Order concerns the original purported justification for the ban 
+on video programming by telephone companies. Throughout 
+this litigation, the Government has argued that the ban on 
+telephone company speech now embodied in Section 533(b) 
+was originally justified as necessary in order to allow the cable 
+companies the time and opportunity to build and develop a 
+nationwide cable television system that was independent of the 
+
+
+control of the telephone companies. (See Govt. Br. 6.)’ In the 
+Third Report and Order, the FCC expressly concedes that any 
+fear that the telephone companies could extinguish the 
+development of an independent cable industry is “no longer 
+relevant” because since 1970, “the cable industry has grown 
+from a fledgling service to a more mature industry that now 
+serves a majority of households and ‘has replaced over-the-air 
+broadcast television as the primary provider of video 
+programming.” (Govt. Supp. Br. lla (quoting Turner 
+Broadcasting Sys., Inc. v. United States, 114 S. Ct. 2445, 2454 
+(1994).) 
+
+
+2. The second major concession in the Third Report and 
+Order is the FCC’s acknowledgment that, in light of 
+“significant advances in technology,” it is now “possible for a 
+multitude of programmers to reach end user customers.” (Govt. 
+Supp. Br. lla-12a.) What this means is that, in light of 
+developments in technology, but for the impact of Section 
+533(b), there could now be at least two ways for any video 
+speaker to reach his or her end-user audience -- either over the 
+existing nontelephone company cable delivery system or over 
+the telephone company’s telephone network. In an artfully 
+worded understatement, the FCC concedes that these advances 
+in technology “have mitigated to a fair degree the competitive 
+concerns that led the Commission and Congress to” ban 
+telephone company video programming. (Govt. Supp. Br. 12a.) 
+
+
+3. The third major concession in the Third Report and 
+Order relates to the overall effect on competition in the 
+provision of video programming if the telephone companies 
+were allowed to speak over their own separate system. The 
+
+
+> The Government contends that the FCC’s original ban on telephone 
+company video programming was “[i}ntend[ed] to insure against arbitrary 
+blockage of the gateway and to preserve a competitive environment for the 
+development and use of broadband cable facilities and services and thereby 
+avoid undue and unnecessary concentration of control over communications 
+media either by existing carriers or other entities.” (Govt. Br. 6) (quotations 
+omitted).) 
+
+
+12 
+
+
+FCC explicitly recognizes that “it does promote competition to 
+allow a telephone company to provide video dialtone service in 
+its telephone service area in competition with an existing cable 
+company.” (Govt. Supp. Br. 16a-17a (emphasis in original).) 
+According to the FCC, what “generally would not promote 
+competition [would be] to allow a telephone company to 
+purchase an incumbent monopolist cable operator in the 
+telephone company’s service area.” (Govt. Supp. Br. 16a 
+(emphasis added).) But Section 533(b) does not even prohibit 
+a telephone company from buying the incumbent cable 
+operator.‘ Rather, it prohibits a telephone company from 
+providing video programming over its own telephone network 
+or through a separate stand-alone cable system. In other 
+words, what Section 533(b) prohibits is precisely what the FCC 
+finds in the Third Report and Order would promote 
+competition with the incumbent cable monopolists and would 
+provide video speakers with more than one way to reach their 
+audiences. Thus, the FCC effectively concedes that, as written, 
+Section 533(b)’s flat ban on telephone company video 
+programming actually hinders the very goals of competition 
+and diversity of voices that the Government argues it is 
+designed to promote. 
+
+
+The combination of these first three concessions -- (i) that 
+the cable companies are now firmly entrenched across the 
+nation; (ii) that technology, unfettered by Section 533(b), 
+would allow video speakers to reach their audiences both over 
+a traditional cable system and through the telephone company 
+network; and (iii) that it would promote, not hinder, 
+competition to allow a telephone company to provide video 
+programming in competition with the incumbent cable 
+monopolist -- has enormous significance for the First 
+
+
+* Section 533(b) does not prohibit a telephone company from buying 
+the incumbent cable company, so long as the telephone company does not 
+provide the video programming on that system. This further shows that 
+Section 533(b) does not remotely serve the competitive goals that the 
+Government has advanced in support of it. 
+
+
+13 
+
+
+Amendment analysis in this case. Specifically, in light of these 
+concessions, it is clear that the only governmental interest that 
+could possibly suffice to justify banning telephone companies 
+from providing video programming would be if the 
+Government could show that telephone company entry into 
+video programming would drive the incumbent cable 
+companies out of the market. Otherwise, it is better to have two 
+competitors in each market, and two ways for video speakers to 
+reach their intended audiences, than to have only one, even if 
+the telephone companies do not compete perfectly. 
+
+What does this mean for the interests advanced by the 
+Government in support of Section 533(b)? First, it makes some 
+of the Government’s arguments utterly irrelevant. For 
+example, the Government places great weight on the 
+speculation that telephone companies could discriminate 
+against unaffiliated video programmers, arguing that “LECs 
+could use their control over the network to ensure that the 
+quality of their own video signal is better than that of 
+[unaffiliated video programmers].” (Govt. Br. 36.) But even 
+if that were true -- a dubious proposition’-- it is irrelevant. For, 
+
+
+* The Government does not attempt to explain how it would be 
+technologically feasible for a telephone company that was delivering a video 
+signal with scores of different channels into an end-user’s home to degrade 
+the quality of the signal for some channels (those carrying programs of 
+unaffiliated video programmers) while maintaining the quality of the signal 
+for other channels (those carrying the telephone company’s affiliated 
+programming). Technology is not voodoo. If intermediate scrutiny under 
+United States v. O'Brien, 39\ U.S. 367 (1968), and Ward v. Rock Against 
+Racism, 491 U.S. 781 (1989), is to have any bite, the Government must carry 
+the burden of establishing that the anticompetitive evils it relies upon to 
+uphold a ban on speech are technologically feasible. The Government has 
+wholly failed to do that in this case. Moreover, in other cases involving 
+voice and data information services, the Government has previously agreed 
+and documented that “there is no substantial risk that a [telephone company } 
+could impede competition through discrimination” against competing 
+providers. Ct. App. JA 2631, 2635. It is absurd for the Government to talk 
+out of one side of its mouth with respect to voice and data services and out 
+of the other side of its mouth to try to uphold Section 533(b)’s ban of video 
+services. In any event, even if a telephone company could degrade the 
+
+
+14 
+
+
+whatever ability the local telephone company may have to 
+discriminate against unaffiliated programmers, the incumbent 
+cable company has the same ability. If either the telephone 
+company or the incumbent cable company can discriminate 
+against unaffiliated programmers, then it is obviously 
+preferable, from the standpoint of both competition and 
+diversity of voices, that the telephone company be given the 
+incentive to enter the market in competition with the incumbent 
+cable company.® Then, if an unaffiliated programmer is 
+discriminated against by either the incumbent cable company 
+or the telephone company, that unaffiliated programmer will 
+(for the first time since the inception of cable television) have 
+somewhere else to turn, and can play the telephone company 
+off against the cable company. 
+
+Discrimination against unaffiliated upstream competitors 
+who require access to a downstream firm’s facilities is grounds 
+for exclusion of that downstream firm from the upstream 
+market only if (if at all) the downstream firm’s facilities are the 
+only way to reach end-line consumers.’ That principle would 
+
+
+quality of the signal solely for unaffiliated programming, the end-user would 
+surely blame, and hold accountable, the telephone company (which is 
+delivering the signal), not the unaffiliated programmer. 
+
+
+* In recommending the repeal of Section 533(b), the National 
+Telecommunications and Information Administration, part of the 
+Department of Commerce, found that telephone companies would likely not 
+have the incentive to invest in the infrastructure necessary to provide video 
+signals over their own network in competition with the cable companies 
+unless the telephone companies could also provide video programming over 
+their networks. See J.A. 345 
+
+
+” It is this basic principle that makes the NCTA’s analogy of Section 
+533(b) to the breakup of the Bell System fatuous. (See NCTA Br. 39.) The 
+reason the Justice Department thought it appropriate to break up the Bell 
+System and then exclude the local Bell telephone companies (such as Bel! 
+Atlantic) from providing long-distance service was the fear that a local Bel! 
+telephone company could discriminate in favor of its affiliated long-distance 
+provider in access to what was characterized as its “bottleneck” local 
+telephone exchange. The key to the exclusion was that unaffiliated long- 
+distance providers had nowhere else to turn to reach customers in the local 
+
+
+15 
+
+
+be grounds to exclude the incumbent cable monopolists from 
+providing video programming because, as things stand today, 
+unaffiliated programmers must pass through the incumbent 
+cable companies’ bottleneck facilities. But that situation would 
+no longer exist if telephone companies were allowed to speak 
+over their own separate systems, thus providing unaffiliated 
+programmers with an alternative to delivery through the 
+incumbent cable companies’ systems. And in no event is the 
+possibility of such discrimination by the telephone companies 
+grounds for barring them from providing video programming 
+in competition with the incumbent cable monopolists. In short, 
+all of the Government's arguments about the possibility that a 
+telephone company would discriminate against unaffiliated 
+video programmers are irrelevant, and could not possibly 
+justify Section 533(b)’s ban on speech. 
+
+
+telephone company’s service area. But, whatever the merits of that position, 
+it has always been considered guspel at the Justice Department and 
+elsewhere that, as soon as there is competition at the local telephone 
+exchange level (i.e., as soon as the unaffiliated long-distance providers could 
+access their customers or complete a long-distance call through a competitor 
+to the incumbent local telephone company), there would no longer be any 
+justification for preventing the local Bell company from providing long- 
+distance service. Here, even if a telephone company discriminated against 
+an unaffiliated programmer, the programmer could switch to the incumbent 
+cable company for delivery of its programming. 
+
+It is particularly ironic that the NCTA would raise the analogy to the 
+breakup of the Bell system and the exclusion of local Bell companies from 
+the long-distance market. For today, the incumbent cable monopolists, 
+through bottleneck control of their facilities, can prevent a particular video 
+programmer from reaching an end user. If the Bell system analogy were 
+followed here, the incumbent cable companies would be prohibited from 
+providing video programming until there was a competing way for 
+unaffiliated programmers to reach their audience. What Section 533(b) does 
+is prevent the telephone companies from breaking the bottleneck held by the 
+incumbent cable companies, thus depriving unaffiliated programmers of an 
+alternative way of reaching their audiences. Thus, to the extent the lessons 
+of the Bell system breakup apply here, they require that Section 533(b) be 
+invalidated so that the incumbent cable companies’ bottleneck contro! of the 
+system of delivery of video speech can be broken. 
+
+
+16 
+
+
+Second, with respect to the Government’s other arguments 
+-- that Section 533(b) is necessary (i) to prevent telephone 
+companies from discriminating against the incumbent cable 
+companies in telephone pole and conduit access, and (ii) to 
+prevent telephone companies from gaining unfair competitive 
+advantage against the incumbent cable companies by allocating 
+some of the costs of their video programming network to their 
+rate regulated telephone network -- it should be clear that these 
+imagined evils cannot possibly justify Section 533(b)’s ban on 
+speech (even under intermediate level scrutiny) unless the 
+Government demonstrates that they would be so widespread 
+and so pervasive as to drive the incumbent cable companies out 
+of the market. It is not enough for the Government to speculate 
+that telephone companies may, here or there, engage in some 
+discrimination in pole and conduit access, or some cross- 
+subsidization. Rather, the Government must also show that 
+such alleged discrimination and cross-subsidization could rise 
+to a level sufficient to drive out the incumbent cable companies. 
+Otherwise, yet again, a second imperfect competitor is better 
+than a monopolist, and two ways for video speakers to reach 
+their audiences are better than one. Here, the Government has 
+not even attempted to show that cross-subsidies and 
+discrimination in pole and conduit access could rise to the level 
+of driving out the cable companies. To the contrary, the 
+Government has consistently argued in the context of 
+information services that there is “no substantial possibility” 
+that a telephone company could even impede competition 
+through cross-subsidies and discrimination, much less drive 
+competing providers out of the market. Ct. App. JA 1906, 
+1909.* And, indeed, it would not pass the straight-face test to 
+assert that these anticompetitive evils could rise to such a level 
+without the FCC, the Congress, the state utility agencies, and 
+
+
+* Notably, while amicus California Cable Television Association 
+claims to have “unique knowledge of the incentive and ability” of GTE “to 
+engage in anticompetitive behavior” against cable companies, CCTA Brief 
+at 2, it fails to allege even a single instance of such conduct by GTE, much 
+less the requisite pattern of widespread and pervasive conduct. 
+
+
+17 
+
+
+the courts noticing the problem and stepping in to solve it. 
+
+
+4. In any event, if there were ever any doubt as to 
+whether the Government’s twin makeweights -- discrimination 
+and cross-subsidies -- are sufficiently serious as to justify 
+Section 533(b)’s flat ban on speech, that doubt is removed by 
+the fourth major concession made by the FCC in the Third 
+Report and Order. In its brief, the Government describes the 
+possibility of discrimination by telephone companies against 
+competitors and improper cross-subsidies as nearly intractable 
+problems, incapable of being effectively policed. (See Govt. 
+Br. 34-36.) But the FCC is plainly not overwhelmed by these 
+problems. 
+
+Specifically, in concluding that it can and should grant 
+waivers to Section 533(b) for some telephone company video 
+programming, the FCC necessarily concludes in the Third 
+Report and Order that it can deal effectively with the problems 
+of cross-subsidies and discrimination through less onerous 
+methods than a flat ban on speech. Indeed, in the Third Report 
+and Order, the FCC trumpets that it has already “developed a 
+number of safeguards that are designed to prevent cross- 
+subsidization and discrimination” by telephone companies 
+
+
+providing video programming. (Govt. Supp. Br. 14a n.35.) 
+According to the FCC, “[t}he safeguards against cross- 
+subsidization include accounting and cost allocation rules that 
+separate nonregulated service costs from the costs associated 
+with providing basic regulated telephone service.” (/d) 
+Similarly, the FCC notes that its “non-discrimination 
+safeguards include a variety of rules designed to ensure that 
+unaffiliated enhanced service providers have access to the 
+network on the same basis as affiliated chanced service 
+providers and are not otherwise unfairly disadvantaged.” (/d ) 
+Moreover, the FCC explains, in its “ongoing rulemaking 
+proceeding in this [matter],” it will decide whether any 
+additional safeguards are needed. /d 
+
+Thus, the Third Report and Order makes clear that the 
+FCC -- the agency in charge of enforcing Section 533(b) -- 
+
+
+believes that it can handle the purported problems of cross- 
+subsidies and discrimination without completely banning the 
+telephone companies from speaking to the subscribers in their 
+service areas. In light of that concession, it seems 
+unimaginable that the Government litigators’ vague and 
+speculative invocation of the purportedly intractable problems 
+of discrimination and cross-subsidies could justify Section 
+533(b)’s flat ban on speech by the telephone companies. 
+
+
+5. The fifth, and perhaps most dispositive, concession in 
+the Third Report and Order is the fundamental conclusion 
+necessarily embodied in that order: that there are obviously 
+less intrusive ways of protecting the interests advanced by the 
+Government in support of Section 533(b) than a complete ban 
+on video speech by telephone companies over their own 
+networks in their own service areas. Although, as we 
+demonstrated above, the Third Report and Order does not in 
+fact adopt a specific less restrictive alternative to Section 
+533(b), it is undeniable that the Third Report and Order 
+recognizes that such obviously less restrictive alternatives are 
+possible, and, therefore, that Congress could adopt one by 
+statute. That concession, under either strict or intermediate 
+scrutiny, is absolutely fatal. 
+
+
+In sum, in its unseemly haste to persuade this Court to 
+avoid passing on the constitutionality of Section 533(b) 7° 
+enacted by Congress, the FCC has, perhaps unwittingly, 
+undermined all of the arguments made by the Government 
+litigators in defense of Congress’ flat ban on speech and 
+confirmed that the statutory ban on telephone company speech 
+is not necessary to serve the interests asserted by the 
+Government. In short, the Third Report and Order does not 
+save Section 533(b), it buries it even deeper. 
+
+
+19 
+
+
+CONCLUSION 
+
+
+The judgment of the Court of Appeals should be affirmed. 
+
+
+Respectfully submitted, 
+RICHARD A. CORDRAY WARD W. WUESTE, JR. 
+4900 Grove City Road M. EDWARD WHELAN III* 
+Grove City, Ohio 43123 JOHN F. RAPOSA 
+(614) 539-1661 GTE CORPORATION 
+One Stamford Forum 
+Stamford, Connecticut 06904 
+* Counsel of Record (203) 965-2000 
+
+
+Counsel for GTE Corporation and its affiliated 
+domestic telephone operating companies 
+
+
+October 18, 1995 
+
+

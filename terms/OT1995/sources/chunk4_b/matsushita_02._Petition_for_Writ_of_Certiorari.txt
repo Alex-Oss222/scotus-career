@@ -1,0 +1,1907 @@
+Supreme Court, u.S. 
+
+
+FILED 
+| 
+J 941809 MAY 35-1995, 
+SOD. cmmccm ad 
+ELNINO 
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1994 
+
+
+MATSUSHITA ELECTRIC INDUSTRIAL Co., LTD. and 
+MATSUSHITA HOLDING CORPORATION, 
+Petitioners, 
+V. 
+LAWRENCE EPSTEIN, et al., 
+Respondents. 
+
+
+MATSUSHITA ELECTRIC INDUSTRIAL Co., LTD. and 
+MATSUSHITA HOLDING CORPORATION, 
+Petitioners, 
+V. 
+WALTER MINTON, 
+Respondent. 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF 
+APPEALS FOR THE NINTH CIRCUIT 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+_—_———————————————————————————————— ee _____ 
+
+
+GEOFFREY C. HAZARD, JR. BARRY R. OSTRAGER 
+
+Of Counsel Counsel of Record 
+
+Trustee Professor of Law SIMPSON THACHER & BARTLETT 
+
+University of Pennsylvania (a partnership which includes 
+
+3400 Chestnut Street professional corporations) 
+
+Philadelphia, Pennsylvania 19104 425 Lexington Avenue 
+
+(215) 898-7494 New York, New York 10017 
+(212) 455-2000 
+
+
+Attorneys for Matsushita Electric Industrial Co., Ltd. 
+and Matsushita Holding Corporation 
+
+
+SP et a a ee ae 
+
+
+i 
+QUESTIONS PRESENTED 
+
+
+Matsushita’s 1990 acquisition of MCA Inc. gave rise to share- 
+holder class action litigations in Delaware state court and later in 
+California federal district court. The named plaintiffs in both 
+litigations claimed to represent the former shareholders of MCA. 
+The federal district court denied class action status to the federal 
+litigations and entered summary judgment for defendant Matsu- 
+shita. The parties to the Delaware state litigations negotiated an 
+“opt out’’ class action settlement providing for the release of all 
+claims, state and federal. A judgment on that settlement was 
+entered by the Delaware Court of Chancery and affirmed by the 
+Delaware Supreme Court. Thereafter, the Ninth Circuit Court 
+of Appeals entertained an appeal from the order dismissing the 
+federal actions sponsored by MCA shareholders who had 
+released their federal claim for consideration pursuant to the 
+Delaware settlement. The court of appeals refused to honor the 
+release and refused to give full faith and credit to the state court 
+judgment. The court of appeals held—contrary to the law of the 
+First and Third Circuits—that state courts lack the power to 
+approve a class settlement releasing exclusively federal claims. 
+This case presents the following questions: 
+
+
+1. Whether a federal court can withhold full faith and credit 
+from a state court final judgment approving a class action settle- 
+ment simply because the settlement released federal claims. 
+
+
+2. Whether a federal court can automatically imply a private 
+right of action under an agency regulation, here Securities and 
+Exchange Commission Rule 14d-10, on the sole ground that the 
+enabling statute has been held to be privately enforceable. 
+
+
+3. Whether a statutorily-defined tender offer time period, with 
+fixed parameters triggering other statutory regulations, can be 
+judicially expanded to include a transaction that occurred 
+outside the tender offer period. 
+
+
+il 
+PARTIES TO THE PROCEEDING 
+
+
+The named plaintiffs in the federal class action, Epstein, et al. 
+v. MCA Inc., et al., No. 92-55675 (C.D. Cal.), are Lawrence 
+Epstein, John Linder, Jane Rockford (as trustee of the Michael 
+J. Rockford Trust), Maurice Karlin, Ruth Karlin, Beth Ann 
+Karlin, and Bert P. Karlin. The plaintiff in Minton v. MCA Inc., 
+No. 92-55632 (C.D. Cal.), is Walter Minton. These two cases 
+were consolidated by the district court and the court of appeals, 
+and they are treated as one case for purposes of this petition. The 
+defendants in both actions are MCA Inc., Matsushita Acquisi- 
+tion Corporation, Matsushita Electric Industrial Co., Ltd., Mat- 
+sushita Holding Corporation, Lew Wasserman, and Sidney J. 
+Sheinberg. 
+
+All claims against MCA Inc., Lew Wasserman, and Sidney J. 
+Sheinberg have been dismissed and those defendants are no 
+longer parties to the action. Matsushita Acquisition Corporation 
+no longer exists by virtue of being merged into MCA Inc. 
+
+
+RULE 29.1 STATEMENT 
+
+
+Pursuant to Sup. Ct. R. 29.1, Petitioners Matsushita Electric 
+Industrial Co., Ltd. and Matsushita Holding Corporation hereby 
+
+
+state that their only parent or subsidiary that is not wholly-owned 
+is Cineplex Odeon Corporation. 
+
+
+i 
+
+
+TABLE OF CONTENTS 
+
+
+QUESTIONS PRESENTED ........- 0 ss seeeererreees 
+PARTIES TO THE PROCEEDING .......---ssseerees 
+RULE 29.1 STATEMENT ........- 6-0 cece eee eeeees 
+TABLE OF AUTHORITIES .........-- ese e cere eeees 
+OPINIONS BELOW ...... 6.666 c cece ere nnnnne 
+
+
+JURISDICTION ... 1... cece cece ee eee eee eeenees 
+
+
+PERTINENT STATUTORY AND REGULATORY 
+PROVISIONS .. 0... ccc ccc cee e eect ewe ree eeeeeeee 
+
+
+STATEMENT OF THE CASE ...... 6. - secre eens 
+
+
+A. The Acquisition of MCA ...... 6-6. s eee eeees 
+B. The State and Federal Actions ........-.-sss5>> 
+C. The Opinions Below ..... 666s e ee eee nee 
+
+
+REASONS FOR GRANTING THE PETITION ......... 
+
+
+i  .  Sissecsccccecces 
+2. Private Right of Action.................05000 
+
+
+3. Tender Offer Regulation .......... 6-0 -seeeeee 
+
+
+OURT OF APPEALS HAS CREATED AN 
+ANOMALOUS EXCEPTION TO THE FULL 
+FAITH AND CREDIT ACT THAT WILL a 
+FRUSTRATE THE SETTLEMENT OF CLA 
+ACTION LITIGATION ...... 6.665 e eee ere eene 
+
+
+i the First and Third Circuits, a 
+
+™ bey my 9 t Approving a Class Action 
+
+Settlement ing State and edera!l Claims is 
+Entitled to Full Faith and Credit ..........--++: 
+
+
+ppeals Improperly Held That 
+as Federal “4 icy Restricts the Operation of the Full 
+
+
+Faith and Credit Act... .. 6.6.6 c cece eee eens 
+
+
+G A PRIVATE RIGHT OF ACTION 
+UNDER RULE [neg J ET Hey CIPLES 
+NCED 
+CONFLICTS WITH DECISIONS OF THE — 
+DISTRICT OF COLUMBIA, THIRD AND 
+CIRCUIT COURTS OF APPEAL ........-----55: 
+
+
+Ill. THE COURT OF APPEALS 
+14d-10 IN CONFLICT WITH THE LAW IN THE 
+
+
+REGULATOR 
+CONOBos Y SCHEME CREATED BY 
+
+
+CONCLUSION 
+
+
+APPENDIX 
+
+
+Appendix A: Opinion of the United $ 
+tates 
+pap Agpocis for the Nath Cacde 
+Ppendix B: Findings of Fact, Conclusions of 
+. Law, 
+and of the United States District 
+
+
+Court for the Distric 
+California . . ae erry ‘ - 
+
+
+Appendix C: Order of the United St 
+ates Court of 
+A * . . . 
+ppeals for the Ninth Circuit Denying 
+Suggestion for Rehearing In Banc... .. 
+
+
+Appendix D: Opinion, Order and Final 
+. Judgment 
+
+
+Appendix E: Opinion of the Delaware Supreme Court . 
+
+
+Appendix F: - of Settlement to the Delaware 
+Mev oe cencectacdecheckbéssenccece 
+
+
+Appendix G: Release Provision of Delaware Settlement 
+
+
+Appendix H: SEC Rule 144-10, 17 
+240.144-10... eS 
+
+
+Appendix I: Section 14(d)(7) of the Securiti 
+ues 
+Exchange Act, 15 U.S.C. § 78n(d)(7) . 
+
+
+Appendix J: Pertinent Excerpts F 
+rom the Stock 
+
+Purchase Agreement 
+Securities and + ~ 
+yo neem , v. Vi 
+
+ment tem, 783 F. Supp. 
+gD.. Ve. 1982), aff'd, 13 F. fo 
+gh 3 (19833 cert. denied, 114 S. 
+
+
+Vv 
+TABLE OF AUTHORITIES 
+Page 
+Cases 
+Abramson v. Pennwood Inv. Corp., 392 
+F.2d 759 (2d Cir. 1968) ...... 6. cece eee 7, 12, 13-14 
+Allen v. McCurry, 449 U.S. 90 (1980) .. 0... 6c eee rere 14 
+Angelastro v. Prudential-Bache Sec., Inc., 
+64 F.2d 939 (3d Cir.), cert. denied, 
+474 U.S. 93S (19BS) 0.6 ccc cece eee ee eee neeneee 19 
+Armstrong v. Board of Sch. Directors, 616 
+F.2d 305 (7th Cir. 1980)... . 26-6 cece renee renee 8 
+Arst v. Stifel Nicolaus & Co. Inc., 871 F. 
+Supp. 1370 (D. Kan. PIED . c ccccccccccccccccescccscs 19 
+Ashbrook v. Block, 917 F.2d 918 (6th Cir. 
+rrr rr ere 19 
+Becher v. Contour Labs., Inc., 279 U.S. 388 
+TT | rrr 13 
+Bernstein v. Mediobanca Banca di Credito 
+Finanziario-Societa per Azioni, 78 F.R.D. 
+1 (S.D.N.Y. 1978)... 0.0 eee cece ee eee eee reer eeeees 12 
+Central Bank v. First Interstate Bank, \14 
+S. Ct. 1439 (1994) .. 2... cece eens 9, 19-20, 21, 23, 24 
+Class Plaintiffs v. City of Seattle, 955 F.2d 
+1268 (9th Cir.), cert. denied, 113 S. Ct. 
+GOB (192) oo ccc ccc cencescceencccceerereccscers 13 
+Coosewoon v. Meridian Oil Co., 25 F.3d 
+920 (10th Cir. 1994)... 0... nce e eee ee eee eee ereees 20 
+Fogel v. Chestnutt, 533 F.2d 731 (2d Cir. 
+1975), cert. denied, 429 U.S. 824 SEED bcdscccecceses 24 
+
+
+Gabelli v. Sikes Corp., 1990 WL 213119 
+(S.D.N.Y. Dec. 14, 1990)... 6.6 eee eee reer ere nes 12 
+
+
+Green v. Ancora-Citronelle Corp., 577 F.2d 
+
+
+1380 (9th Cir. 1978) .. 2... ec ee ee eee ene 7, 12 
+
+
+Ss. 
+
+
+Page 
+Grimes v. Vitalink Communications Corp., 
+17 F.3d 1553 (3d Cir.), cert. denied, 115 
+
+
+ip ED nce np okcachateacas, 7, 8, 11-12, 14, 16 
+Gustafson v. Alloyd Co., Inc., 115 S. 
+
+fe RS Ree me ar 24 
+a v. Federal Land Bank of Spokane, 
+
+878 F.2d 1172 (9th Cir. 1989), cert. 
+
+denied, 493 U.S. 1057 (1990)........................ 21 
+Health Care Plan, Inc. v. Aetna Life Ins. 
+
+Co., 966 F.2d 738 (2d Cir. 1992)............ 17, 19, 20, 21 
+Howe v. Goldcorp Investments, Ltd., 946 
+
+F.2d 944 (ist Cir. 1991), cert. denied, 
+
+Fee Ue ED lc DV eSATA cbs + o sd cece cccecc, 13 
+
+
+In re Corrugated Container Antitrust Litig., 
+643 F.26 195 (Sth Cie. 1981) ........................ 12 
+
+
+In re MCA Inc. Shareholders Litig., 598 
+A.2d 687 (Del. Ch. 1991) 
+
+
+In re Union Square Assocs. Secs. Litig., 
+
+
+1993 WL 220528 (Del. Ch. June 16, 
+1993) 
+
+
+(1964) 
+
+
+Kahn v. Virginia Retirement Sys., 13 F.3d 
+110 (4th Cir. 1993), cert. denied, 114 § 
+Se Ce Se adehadcus Outdiecs doccockniees 9, 22-23 
+
+
+Kamen v. Kemper Fin. Servs., Inc., 908 
+F.2d 1338 (7th Cir. 1990), rev'd on other 
+grounds, 500 U.S. 90 (1991) 
+
+
+Kramer v. Time Warner, Inc., 1990-91 Fed. 
+Sec. L. Rep. (CCH) 95,619 (S.D.N_Y. 
+1990), aff'd, 937 F.2d 767 (2d Cir. 1991) 
+
+
+Kremer v. Chemical Constr. Corp., 456 
+U.S. 461 (1982) 
+
+
+vil 
+
+
+Leddy v. Standard Drywall, Inc., 875 F.2d - 
+383 (2d Cir. 1989) 2.2... cc cece eee eee eee eens 
+
+
+Lowenschuss v. Resorts Int'l, Inc., 1989 
+U.S. Dist. LEXIS 7407 (E.D. Pa. June 
+29, 1989), aff'd without op., 947 F.2d . 
+936 (3d Cir. 1991) 2... ccc ccc cece rere rere e eee nees 
+
+
+. American Academy of 
+gay ode uy ened 470 U.S. 373 
+
+
+TR rrr 10, 14-15 
+j _ Warren County Sch. Dist. Bd. of 
+" e, GOS UD. TS CITB) on ccccccccccccccccrceccess 14 
+
+
+i Portland Cement Co. v. Ca ill, 
+eae F.2d 851 (2d Cir.), cert. d, 
+
+
+419 U.S. BBB (1974)... 0. ccc cece eee eee neeee 20 
+itsubishi Motors Corp. v. Soler Chrysler- 
+"Secs Inc., 473 U.S. 614 (1985) .. 0.6. eee 13 
+Murphy v. Gallagher, 761 F.2d 878 
+(2d Ee, BED ccc cctocd woes teecsodececcceccccce 13, 15 
+
+
+National Super Spuds, Inc. v. New York 
+Mercantile Exchange, 660 F.2d 9 
+
+
+(36 Glo. UGBE) onc ccccccccccccvecgessccccccevess 13, 15 
+NCR Corp. v. American Tel. & Tel. Co.., 
+761 F. Supp. 475 (S.D. Ohio 1991) ... 6... 6. cee eee 3 
+hwest Airlines, Inc. v. Transport 
+“a Union of Am., AFL-CIO, 451 “ 
+Tk 2 T \) ee eee eee eee 
+Nottingham Partners v. Dana, 564 A.2d ao ws 
+1089 (Del. 1909)... 0. ccc ccc ccc cece er ecneees , 12, 
+
+
+Nottingham Partners v. Trans-Lux Corp., 
+928 F.2d 29 (ist Cir. 1991) ......--.006e. 7, 11-12, 16, 17 
+
+
+Parklane Hosiery Co. v. Shore, 439 - 
+Te TC Ree 
+
+
+Parsons Steel, Inc. v. First Alabama Bank, 
+474 U.S. 518 (1986) ... 2... ee eee nee 8, 10, 14 
+
+
+vill 
+Page 
+
+Phillips Petroleum Co. v. Shutts, 472 
+
+Teer TT TTT TT TTT re 6, 16 
+Pinter v. Dahl, 486 U.S. 622 (1988) ..... 0... ccc eee 21 
+Raskin v. Birmingham Steel Corp., 1990 
+
+WL 193326 (Del. Ch. Dec. 4, 1990) ..........000 00555. 7 
+Roosevelt v. E.l. Du Pont de Nemours & 
+
+Co., 958 F.2d 416 (D.C. Cir. 1992) ............. 17, 18, 19 
+Sandler Assocs., L.P. v. BellSouth Corp., 
+
+818 F. Supp. 695 (D. Del. 1993), affd 
+
+without op., 26 F.3d 123 (3d Cir.), cert. 
+
+denied, 115 S. Ct. 481 (1994)...........0.0.4.4.. 7, 8, 12, 17 
+Santa Fe Indus., Inc. v. Green, 430 U.S. 
+
+OP ee Pee eT eT TTTTeTT TITTLE TTT 21 
+Schlaeppi v. Delaware Trust Co., 525 A.2d 
+
+562 (Del. Ch.), aff'd, 523 A.2d 981 (Del. 
+
+1986), cert. denied, 484 U.S. 826 (1987) ........... 10-11 
+Schreiber v. Burlington Northern, Inc., 472 
+
+Gee TRG Cheb ob Mok ONONb.6 0066600856088 6008 21 
+Seagoing Uniform Corp. v. Texaco, Inc., 
+
+FS & TE ES a | rrr ree 12 
+Shearson v. MacMahon, 482 U.S. 220 
+
+ERED. 66600606060 6e6dS POP Ss ce eed fosccedécsocte 13 
+Siedman v. Merrill Lynch, Pierce, Fenner 
+
+& Smith, Inc., 465 F. Supp. 1233 
+
+De SD Cheduedaesusesvatsucdedsdbidoocudes 19 
+Smith v. Dearborn Fin. Servs., Inc., 982 
+
+Fe ee Seabee eccccccssseéésvetdiosss 17 
+Spicer v. Chicago Bd. of Options Exch., 
+
+Sa, BEF ae Ge GP GE CUE Se cdc cccsccccsoceces 17 
+Sternberg v. O'Neil, 1989 WL 137932 (Del. 
+
+Ses CE OU SD Sb he SE aEEaFEeUS bce e ccbedocconcées 10 
+TBK Partners, Ltd. v. Western Union Corp., 
+
+Fe FF fe fe 8 | PP rer rrr rrr 7, 12, 15 
+
+
+ix 
+
+
+Page 
+Thompson v. Thompson, 484 U.S. 174 
+
+(1988) Pre rTer, ToT. LT TITTIT TULLE 17-19 
+Touche Ross & Co. v. Redington, 442 U.S. 
+
+DPE ck cae bdbae Ss eeess vweseceodoccccence 20, 21 
+TransCanada Pipelines Ltd. v. Federal 
+
+Regulatory Comm'n, 878 F.2d 401 (D.C. 
+
+EES rrr ere rr eS ey eee 24 
+Underwriters National Assurance Co. v. 
+
+North Carolina Life & Accident & 
+
+Health Insurance Guaranty Assoc., 455 
+
+EES rr rrrerrere iyi 16 
+Virginia Bankshares, Inc. v. Sandberg, 50| 
+
+i EE £2) coc ease cess ctceoeessoeeeees 18 
+Weiner v. Shearson, Hammill & Co., 521 
+
+Ee GN EE, Ec cco ccccccesecccccccnseceees 13 
+Statutes and Regulations 
+17 C.F.R. § 240.14d-10 (SEC Rule 14d-10) ........... passim 
+17 C.F.R. § 240.14e-1(c) (SEC Rule |4e- 
+
+PPT TTTTTTTTT TET TL T lL 24 
+KM) RS errr ry Tee rerrre Tre Tee 15 
+PEM oc cand oa besseseeseseresVeeronstsecs 15 
+i ORE, vo nn pn enb ae $6.5:5665%5450000000 0000 6, 15 
+15 U.S.C. § 78j(b) (Section 10(b)) «0.6... eee ee eee 18 
+15 U.S.C. § 78n(d)(7) (Section 14(d)(7)) ............. passim 
+Oe CR ED oo cnc eeasebeenecses 065 060660 bevees 2 
+0 6 i rer rer rr ee ree 6 
+SED ic cccd copes bSSbeeeeeneecdenceionoess 15 
+ey i CE ec sce cecccecvebesespeseeeceebesese 15 
+
+
+I COD iva cbssvcceninss Ritey cei cpatles passim 
+
+
+Page 
+
+A PT Ter ree eT eee 14 
+i ee «Use. ed ng nee eeu ekcaee Ones cueweusie 14 
+et en OP ED a A626 5 ondenenseues ces save beownin 15 
+Other Authorities 
+SEC Release No. 34-15548, 1979 SEC 
+
+i ech an cacen aks 23 
+SEC Release No. 34-16384, 1979 SEC 
+
+ey ee I enc. cn ence seeeseectce 23 
+SEC Release No. 34-16385, 1979 SEC 
+
+EE Oe I, OE ee ns occ eb ucnecbeuseses 23 
+SEC Release No. 34-22198, 1985 SEC 
+
+ee BOO OE We ME a's ce on neeskcbck0'8escacen% 20 
+SEC Release No. 34-23421, 1986 SEC 
+
+f ff] 43 § eae ere 20, 24 
+SEC Release No. 34-24976, 1987 SEC 
+
+i + (| S&& — Sener 23-24 
+Books and Periodicals 
+Frank H. Easterbrook & David R. Fischel, 
+
+The Economic Structure of Corporate 
+
+aI GSEs OG Bi ie i ee ae 3 
+William H. Rehnquist, The Prominence of 
+
+the Delaware Court of Chancery in the 
+
+State-Federal Joint Venture of Providing 
+
+SUEEED, SS GE, EG, Te GD no obs ccc cccccccccccuss 3 
+Webster's II, New Riverside Dictionary 
+
+Se 4:2 6 uke Geku bed e a SUUeUEE bien Hi vas cedbeoneas 23 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+OCTOBER TERM, 1994 
+
+
+MATSUSHITA ELECTRIC INDUSTRIAL Co., LTD. and 
+MATSUSHITA HOLDING CORPORATION, 
+Petitioners, 
+V. 
+LAWRENCE EPSTEIN, et al., 
+Respondents. 
+
+
+MATSUSHITA ELECTRIC INDUSTRIAL Co., LTD. and 
+MATSUSHITA HOLDING CORPORATION, 
+Petitioners, 
+v. 
+WALTER MINTON, 
+Respondent. 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF 
+APPEALS FOR THE NINTH CIRCUIT 
+
+
+Matsushita Electric Industrial Co., Ltd. and Matsushita Hold- 
+ing Corporation (“‘Matsushita”) respectfully petition for a writ 
+of certiorari to review the judgment of the United States Court of 
+Appeals for the Ninth Circuit in these cases. 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals, see Appendix (“App.”) 
+la-44a, is reported on Westlaw at 1995 WL 75487. The opinion 
+has not yet been assigned pagination in the Federal Reporter. 
+The findings of fact and conclusions of law of the district court 
+(App. 45a-61a) are unreported. 
+
+
+JURISDICTION 
+
+
+The court of appeals entered its judgment on February 27, 
+1995 (App. la), and denied a timely petition for rehearing and 
+rejected a suggestion for rehearing in banc on April 6, 1995 
+
+
+2 
+
+
+(App. 62a). The jurisdiction of this Court is invoked under 28 
+U.S.C. § 1254(1). 
+
+
+PERTINENT STATUTORY AND REGULATORY 
+PROVISIONS 
+
+
+Section 1738 of Title 28 provides, with respect to the authenti- 
+cated acts, records and judicial proceedings of any State, that: 
+Such Acts, records and judicial proceedings or copies 
+thereof, so authenticated, shall have the same full faith and 
+credit in every court within the United States and its 
+Territories and Possessions as they have by law or usage in 
+the courts of such State, Territory or Possession from 
+which they are taken. 
+
+
+SEC Rule 14d-10, 17 C.F.R. § 240.14d-10, provides, in rele- 
+vant part: 
+
+No bidder shall make a tender offer unless: (1) The tender 
+offer is open to all security holders of the class of securities 
+subject to the tender offer; and (2) The consideration paid 
+to any security holder pursuant to the tender offer is the 
+highest consideration paid to any other security holder 
+during such tender offer. 
+
+
+The complete text of Rule 14d-10 is set forth at App. 105a- 
+106a. 
+
+
+STATEMENT OF THE CASE 
+
+
+Petitioners respectfully suggest that this case presents three 
+issues worthy of certiorari. First, the court of appeals denied Full 
+Faith and Credit to a final judgment entered on a class action 
+settlement in Delaware state court, asserting a “policy” requiring 
+that exclusively federal claims be resolved by settlement only in a 
+federal court. This decision disables parties in a state court class 
+action from reaching a global settlement of all claims or 
+exchanging general releases where an exclusively federal claim 
+has been or arguably could be asserted. It thus retroactively calls 
+into question the finality of all state court class action settlements 
+releasing federal claims as to which the statute of limitations has 
+not run. By compromising the finality of judgments entered in 
+state courts, the court of appeals intrudes on the ability of state 
+courts to fully resolve cases involving both federal and state 
+
+
+3 
+
+
+claims. This interference with the ability of state courts to resolve 
+complex litigation is particularly striking in this case because 
+Delaware is recognized as having a significant interest in the 
+regulation of corporate affairs, a matter primarily of state 
+concern.! 
+
+Second, the court of appeals implied a private right of action 
+under SEC Rule 14d-10, concluding that when Congress enacted 
+Section 14(d)(7) in 1968 it intended the federal courts to recog- 
+nize an implied right of action under all of the rules promulgated 
+thereunder, including Rule 14d-10, which the SEC did not adopt 
+until 18 years later. This automatic implication of a private right 
+of action contravenes bedrock principles of this Court and con- 
+flicts with the approach of the District of Columbia, Third and 
+Sixth Circuit Courts of Appeal. 
+
+
+Finally, compounding these errors, the Ninth Circuit enlarged 
+in an indeterminate way the scope of Rule 14d-10 by shifting the 
+operative event that triggers regulation. The court of appeals 
+extended the restriction that Rule 14d-10 imposes “during [a] 
+tender offer’ to any transaction regardless of when it occurs, if 
+the transaction may be deemed to be “an integral part” of a 
+tender offer. This holding, which directly conflicts with the law of 
+the Fourth Circuit, replaces a clear and certain standard (the 
+defined tender offer period) with a subjective one (the “integral 
+part” test), thereby injecting massive uncertainties into the fed- 
+eral regulation of tender offers. 
+
+
+A. The Acquisition of MCA 
+Matsushita purchased MCA for $6.6 billion in 1990. The two- 
+
+
+step acquisition involved a public tender offer for MCA shares 
+and a privately negotiated purchase of the MCA shares owned by 
+
+
+' The Delaware courts’ expertise in matters of corporate law grows out of the 
+fact that “Delaware is the state of incorporation of roughly half of the 
+Fortune 500 companies.” Frank H. Easterbrook & David R. Fischel, The 
+Economic Structure of Corporate Law 212-13 (1991). See, e.g., Kamen v. 
+Kemper Fin. Servs., Inc., 908 F.2d 1338, 1343 (7th Cir. 1990) (Delaware 
+courts are the “Mother Court of corporate law”), rev'd on other grounds, 500 
+U.S. 90 (1991); NCR Corp. v. American Tel. & Tel. Co., 761 F. Supp. 475, 
+499 (S.D. Ohio 1991); see generally William H. Rehnquist, The Prominence 
+of the Delaware Court of Chancery in the State-Federal Joint Venture of 
+Providing Justice, 48 Bus. Law. 351, 355 (1992). 
+
+
+4 
+
+
+MCA founder Lew Wasserman (the “Wasserman transaction”’). 
+The tender offer price of $66 per share was paid in cash and 
+tendering shareholders received close to a 100% premium over 
+the market price. The Wasserman transaction consisted of a tax- 
+free exchange of Wasserman’s MCA shares for an illiquid pre- 
+ferred stock designed by Matsushita and MCA to be no more 
+valuable than the tender offer consideration. The Wasserman 
+transaction, which was fully disclosed in the public tender offer 
+materials, was intended to satisfy Mr. Wasserman’s unique tax 
+planning and estate needs arising in part from his age (77 in 
+1990) and his extremely low basis in the MCA stock ($.03 per 
+share). See Epstein Plaintiffs’ Excerpts of Record (“ER”) 357, 
+Ex.I at ¥ 1, 7. 
+
+
+Petitioner and Respondents stipulated during proceedings in 
+the district court that the Wasserman transaction was entered 
+into and consummated when no tender offer was pending. App. 
+49a-S0a. 
+
+
+B. The State and Federal Actions 
+
+Class actions were filed on behalf of MCA shareholders in the 
+Delaware Court of Chancery in September 1990 upon the publi- 
+cation of reports that Matsushita was seeking to acquire MCA. 
+The class actions were consolidated and the Delaware court 
+ordered expedited discovery. 
+
+
+In December 1990, the first federal class action was filed in the 
+United States District Court for the Central District of Califor- 
+nia. That complaint, together with several subsequently-filed 
+related actions, alleged that Matsushita’s tender offer violated 
+Rule 14d-10, which requires equal consideration for all stock 
+purchases made “during [a] tender offer.” In April 1991, the 
+district court denied plaintiffs’ motion for class certification. 
+
+In February 1992, the California district court granted sum- 
+mary judgment to Matsushita and dismissed the federal com- 
+
+
+plaints. Respondents appealed this decision to the Ninth Circuit 
+Court of Appeals. 
+
+
+5 
+
+
+While the appeal was pending, the parties in the Delaware 
+actions negotiated a settlement of all claims arising out of Mat- 
+sushita’s acquisition of MCA. The settlement provided all share- 
+holders the right to opt out of the settlement.” 
+
+The Delaware Chancery Court certified a class for settlement 
+purposes and approved a form of notice to the class that 
+described in detail the federal claims asserted in the California 
+district court actions and the status of the appeals in the Ninth 
+Circuit. See App. 77a-101a. The notice made clear that approval 
+of the Delaware settlement would release all state and federal 
+claims arising out of the MCA transaction—specifically includ- 
+ing those claims asserted in the California district court 
+actions—and advised class members that they could preserve 
+their state and federal claims by opting out of the settlement. 
+App. 93a-94a, 96a-97a. In response to the class notice, only 19 of 
+the more than 10,000 former MCA shareholders chose to opt 
+out.’ 
+
+The Delaware Chancery Court approved the settlement and 
+entered a judgment releasing all claims of the class members who 
+chose not to opt out. In determining that the settlement was “fair 
+and reasonable,” the Chancery Court considered the value of all 
+of the state and federal claims that would be released, acknowl- 
+edged that particular care should be taken in reviewing a settle- 
+ment that would bar claims pending elsewhere, noted the possi- 
+bility of a reversal by the Ninth Circuit, and rejected an attack 
+on the adequacy of the representation of the Delaware class. 
+App. 63a, 67a-70a. 
+
+
+2 Earlier, while the federal actions were still pending in the California district 
+court, an agreement was reached in the Delaware proceeding for a non-opt 
+out class settlement that would have released all claims arising out of the 
+MCA acquisition in exchange for non-monetary consideration. The Chancery 
+Court rejected this proposed settlement. See In re MCA Inc. Shareholders 
+Litig., 598 A.2d 687 (Del. Ch. 1991). The Chancery Court concluded that 
+since the federal securities claims were pending in the district court, they had 
+“at least arguable merit” and it would be unfair to release them in a non-opt 
+out settlement. /d. at 691-93, 695-96. 
+
+
+3 The 19 opt-outs included Respondents Rockford, Minton, and six Minton 
+family members and investment trusts. Respondents Epstein, Linder and the 
+Karlins elected not to opt out. No named Respondent objected to the settle- 
+ment in the Delaware Chancery court. 
+
+
+6 
+
+
+Thereafter, in September 1993, the Delaware Supreme Court 
+affirmed the Chancery Court on the basis of the lower court's 
+opinion. App. 76a. 
+
+
+C. The Opinions Below 
+
+The jurisdiction of the district court was invoked under 28 
+U.S.C. § 1331 pursuant to Section 27 of the Securities Exchange 
+Act of 1934, 15 U.S.C. § 78aa. 
+
+
+The federal complaints allege that the tender offer violated 
+SEC Rule 14d-10 on the theory that the preferred stock Wasser- 
+man received was allegedly more valuable than the $66 cash 
+tender offer consideration. Since it was stipulated that the Was- 
+serman transaction was entered into before the public tender 
+offer commenced and consummated after the tender offer had 
+expired (ER 354, § 5), the district court held that the Wasserman 
+transaction was not regulated by Rule 14d-10 and granted sum- 
+mary judgment in favor of Matsushita dismissing the federal 
+actions. App. 52a-60a. 
+
+
+During the pendency of the appeal of this decision to the Ninth 
+Circuit, the Delaware Supreme Court affirmed the Delaware 
+judgment approving the state court settlement. App. 76a. Matsu- 
+shita invoked the Delaware final judgment in the Ninth Circuit 
+as a bar to prosecution of the appeal by the parties who had 
+participated in the Delaware settlement. Matsushita relied on the 
+Full Faith and Credit Act, 28 U.S.C. § 1738, and the law of this 
+Court enunciated in Phillips Petroleum Co. v. Shutts, 472 U.S. 
+797 (1985), regarding the binding effect of opt out class action 
+settlements. The Ninth Circuit, however, refused to grant full 
+faith and credit to the Delaware judgment, holding that a class 
+settlement involving the release of exclusively federal claims 
+cannot be approved in state court. The Ninth Circuit reversed 
+the order granting summary judgment to Matsushita, entered 
+summary judgment for plaintiffs holding that the Wasserman 
+transaction violated Rule 14d-10, and directed certification of a 
+class consisting principally of the thousands of MCA shareholu- 
+ers who had chosen not to opt out of the Delaware state court 
+settlement and who had already accepted the proceeds of the 
+Delaware settlement. 
+
+
+) 
+
+
+REASONS FOR GRANTING THE PETITION 
+
+
+1. Full Faith and Credit. For nearly three decades the 
+federal courts have uniformly held that state and federal claims 
+can be released in a state court settlement. See, ¢.g., TBK 
+Partners, Lid. v. Western Union Corp., 675 F.2d 456, 460 (2d 
+Cir. 1982); Green v. Ancora-Citronelle Corp., 577 F.2d 1380, 
+1383-84 (9th Cir. 1978); Abramson v. Pennwood Inv. Corp., 392 
+F.2d 759, 762 (2d Cir. 1968). The court of appeals ignored this 
+uniform case law and fashioned an unprecedented exception to 
+the Full Faith and Credit Act in direct conflict with the law of 
+the First and Third Circuits.‘ Tie court of appeals’ decision 
+seriously impairs the ability of state courts to settle complex 
+litigation. As a practical matter, it forces class action litigants 
+into a federal forum because it is now wholly improvident for a 
+defendant to settle a state class action raising allegations that 
+could also be the basis for an exclusively federal claim. See, e.g., 
+Raskin v. Birmingham Steel Corp., 1990 WL 193326 at *7 (Del. 
+Ch. Dec. 4, 1990) (“[i]n many cases of this kind a fair settlement 
+of a claim arising from the fairness of a merger will entail the 
+release of federal securities law claims arising from the merger . . 
+.. Settlement of stockholder class actions asserting breach of 
+corporate directors fiduciary duties would hardly be practicable 
+otherwise”) (citations omitted). Thus, state class actions are 
+radically discouraged. The court's decision also opens the door to 
+manipulation by class members who, as in this case, can obtain 
+the benefits of a settic ment in state court and thereafter litigate 
+in federal court. 
+
+The legal system depends upon the finality of judgments. In 
+order to enter judgment upon the settlement, the Delaware 
+Chancery Court was obligated to and did find that the - oe 
+adequately represented and that the settlement was fair an 
+adequate. App. 73a-74a. Those findings were affirmed by the 
+Delaware Supreme Court. This having been done, the legal effect 
+of the settlement should have been determined once and for all; 
+
+
+* See Nottingham Partners v. Trans-Lux Corp., 925 F.2d 29, 34 (ist Cir. 
+1991); Grimes v. Vitalink Communications Corp., 17 F.3d 1553, 1564 (3d 
+Cir.), cert. denied, 115 S$. Ct. 480 (1994); Sandler Assocs., L.P. v. BellSouth 
+Corp., 818 F. Supp. 695 (D. Del. 1993), aff'd, 26 F.3d 123 (3d Cir.), cert. 
+denied, 115 S. Ct. 481 (1994). 
+
+
+under the Full Faith and Credit Act, the court of appeals could 
+
+
+not properly disregard the judgment entered upon the settlement. 
+There is a recognized public policy favoring the finality of judg- 
+ments entered on settlements because courts should facilitate 
+(not undermine) freedom of contract. See, ¢.g., Armstrong v. 
+Board of Sch. Directors, 616 F.2d #*. 313 (7th Cir. 1980) 
+(“there is an overriding public interes: im ¢avor of settlement... . 
+Settlement of the complex disputes often involved in class actions 
+minimizes the litigation expenses of both parties and also reduces 
+the strain such litigation imposes upon already scarce judicial 
+resources’’). 
+
+Where a judgment is entered on a settlement, full faith and 
+credit has the important consequence of holding parties to their 
+bargain. The court of appeals’ decision, however, permits federal 
+courts to override a state court judgment entered upon a settle- 
+ment, and thus to disregard one purpose of the Full Faith and 
+Credit Act by allowing parties to renege on their court-approved 
+agreements. Indeed, the court of appeals’ decision retroactively 
+threatens the finality of an unknown number of fully consum- 
+mated state class action settlements which involved the release of 
+federal claims. See Nottingham Partners v. Dana, 564 A.2d 
+1089, 1104 (Del. 1989) (“the Court of Chancery has a history of 
+approving settlements that have implicitly or explicitly included 
+a general release, which would also release federal claims’’) 
+(footnote omitted). 
+
+This Court has held in a series of cases from Kremer v. 
+Chemical Constr. Corp., 456 U.S. 461 (1982), to Parsons Steel, 
+Inc. v. First Alabama Bank, 474 U.S. 518 (1986), that certain 
+federal statutes which confer exclusive federal jurisdiction do not 
+create an exception to Section 1738. And the First and Third 
+Circuits have held that state court judgments releasing federal 
+securities law claims are entitled to full faith and credit. When 
+this Court denied certiorari in the Grimes and Sandler cases last 
+year, there was no inter-circuit conflict on the preclusion issue 
+presented here. Now there are four circuit court cases address- 
+ing the issue, and this case irreconcilably conflicts with the other 
+three. This case squarely presents the unresolved issue of 
+whether the Williams Act creates an exception to Section 1738 
+in the context of a state court judgment entered on a class action 
+settlement releasing federal securities law claims. 
+
+
+9 
+
+
+2. Private Right of Action. The court of appeals is the first 
+
+
+in the nation to hold that every regulation promulgated under a 
+statute that has been held to be privately enforceable automati- 
+cally confers its own private right of action—regardless of the 
+language or purpose of that regulation. This conception is at odds 
+with “settled interpretive principles regarding implied causes of 
+action,” Central Bank v. First Interstate Bank, 114 S. Ct. 1439, 
+1455 (1994), and conflicts with the law of other Circuits. The 
+holding below, harking back to J./. Case Co. v. Borak, 377 U.S. 
+426 (1964), authorizes the creation of new private rights that 
+lack a basis in congressional intent. This case presents a timely 
+opportunity to address the circumstances under which agency 
+regulations may be enforceable by private suit. 
+
+
+3. Tender Offer Regulation. The Fourth Circuit has recog- 
+nized that Rule 14d-10, which regulates the payment of certain 
+consideration “during [a] tender offer,” operates—just as a no 
+parking sign operates—only during a defined period and not at 
+other times. See Kahn v. Virginia Retirement Sys., 13 F.3d 110 
+(4th Cir. 1993), cert. denied, 114 S. Ct. 1834 (1994). The parties 
+here had stipulated that the Wasserman transaction was agreed 
+to and consummated when no tender offer was pending. The 
+court of appeals held, however, as a matter of law, that because 
+the Wasserman transaction was “conditioned” on the successful 
+completion of the public tender offer, it would be “deemed” to 
+have taken place during the tender offer even though it did not in 
+fact take place at that time. App. 17a-18a. The court of appeals 
+superimposed on the statutorily-specified tender offer period an 
+ill-defined extension of that period. The court held that since the 
+Wasserman transaction “is deemed a part of the tender offer, the 
+tender offer does not end, by definition, until [the Wasserman 
+transaction] is performed [and] [pJerformance of [that transac- 
+tion] . . . will therefore take place ‘during the tender offer... .”” 
+App. 17a, n.19. Thus, the court of appeals sharply limited the 
+ability of tender offerors to confidently structure transactions in 
+accordance with clearly defined rules, thereby creating enormous 
+uncertainty in the law. 
+
+
+10 
+
+
+I. THE COURT OF APPEALS HAS CREATED AN 
+ANOMALOUS EXCEPTION TO THE FULL FAITH 
+AND CREDIT ACT THAT WILL FRUSTRATE THE 
+SETTLEMENT OF CLASS ACTION LITIGATION 
+
+
+The Delaware state court judgment was entered on a settle- 
+ment expressly terminating the federal claims of MCA share- 
+holders who participated in the settlement. See App. 102a-104a.° 
+
+
+A. As Recognized by the First and Third Circuits, a State 
+Court Judgment Approving a Class Action Settlement 
+Releasing State and Federal Claims is Entitled to Full 
+Faith and Credit 
+
+
+A federal court determining the preclusive effect of a state 
+court judgment must apply the preclusion law of the state in 
+which the judgment was rendered. Kremer, 456 U.S. at 481-82; 
+see also Parsons Steel, 474 U.S. at 525-26 (reversing and 
+remanding for determination under state preclusion rules the 
+effect of state court judgment on federal Bank Holding Company 
+Act claim); Marrese v. American Academy of Orthopaedic Sur- 
+geons, 470 U.S. 373, 387 (1985) (reversing and remanding for 
+determination under state preclusion rules the effect of state 
+court judgment on exclusively federal antitrust claim). When a 
+release is embodied in a Delaware state court judgment, making 
+it a record and judicial proceeding under the Full Faith and 
+Credit Act, the release becomes entitled to the same preclusive 
+effect in a federal court that it would be given under Delaware 
+law. The law of Delaware recognizes that a judgment entered on 
+a settlement is entitled to full preclusive effect. See In re Union 
+Square Assocs. Secs. Litig., 1993 WL 220528 at *3 (Del. Ch. 
+June 16, 1993); Sternberg v. O'Neil, 1989 WL 137932 at * 4 
+(Del. Ch. Nov. 9, 1989); Schlaeppi v. Delaware Trust Co., 525 
+
+
+> The Delaware judgment stated that “{a)ll claims, rights and causes of action 
+(state or federal. including but not limited to claims arising under the federal 
+securities laws, any rules or regulations promulgated thereunder, or other- 
+wise), whether known or unknown... including without limitation the 
+claims asserted in the California Federal Actions ... ate hereby compro- 
+mised, settled, released and discharged with prejudice by virtue of the 
+proceedings herein and this Order and Final Judgment.” App. 74a-75Sa 
+(emphasis added) 
+
+
+A.2d 562, 565 (Del. Ch.), aff'd, 523 A.2d 981 (Del. 1986), cert. 
+denied, 484 US 826 (1987).° 
+
+
+The First and Third Circuits have expressly held that a federal 
+court must grant full faith and credit to a Delaware state court 
+judgment entered upon a class action settlement that releases 
+federal securities claims. Grimes, 17 F.3d at 1557, 1563-64; 
+Nottingham, 925 F.2d at 32-33. Contrary to the holdings in 
+Nottingham and Grimes, the court of appeals held: 
+
+
+We believe that a state court cannot require passive class 
+members to contractually release their exclusively federal 
+claims in order to enjoy the benefits of a state class action, 
+when the court has no jurisdictional power to dispose of 
+those claims either directly or indirectly through the doc- 
+trine of issue preclusion. 
+
+App. 40a. This conclusion is directly at odds with Nottingham, 
+
+925 F.2d at 34, which involved a Delaware state court class 
+
+action settlement, and in which the First Circuit held: 
+
+
+[A]s a matter of federal law, a state court can approve and 
+enforce a settlement which requires a party to release 
+claims actually brought, or potentially “bringable,” in fed- 
+eral court under “exclusive jurisdiction” federal statutes 
+even though the state court could not adjudicate claims 
+arising under such statutes. 
+
+
+In Grimes, which also involved a Delaware state court class 
+action settlement, the Third Circuit held that it too: 
+
+
+recognize[s] the broad power of state courts to approve and 
+enforce settlements which reflect the parties’ intent to 
+release all claims arising from a transaction regardless of 
+whether the class action court has jurisdictional compe- 
+tency to hear those claims. 
+
+
+© Delaware law also provides that “[wJhen a state court settlement of a class 
+action releases all claims which arise out of the challenged transaction and is 
+determined to be fair and to have met all due process requirements, the class 
+members are bound by the release or the doctrine of issue preclusion. Class 
+members cannot subsequently relitigate the claims barred by the settlement 
+in a federal court.” In re MCA, Inc. Shareholders Litig., 598 A.2d at 691 
+(citations omitted); Union Square, 1993 WL 220528 at *3-4 (res judicata 
+bars any claim that “arises (at least partially) out of the same transaction,” 
+including “similar, though not identical claims”). 
+
+
+12 
+
+
+17 F.3d at 1564 (citations omitted); see also Sandler, 818 F. 
+Supp. at 704 (recognizing Delaware Chancery Court's “power to 
+approve a release encompassing federal securities law claims... 
+not within the subject matter jurisdiction of the Delaware State 
+courts”).’ Significantly, Grimes, Nottingham, and Sandler 
+involved non-opt out settlements. See Grimes, 17 F.3d at 1555; 
+Nottingham, 925 F.2d at 33; Sandler, 818 F. Supp. at 700. A 
+fortiori, the rights of class members who are afforded an oppor- 
+tunity to opt out are fully protected. 
+
+
+B. The Court of Appeals Improperly Held That Federal 
+“Policy” Restricts the Operation of the Full Faith and 
+Credit Act 
+The court of appeals engrafted onto the Full Faith and Credit 
+
+Act an exception based on a supposed “‘public policy” concern for 
+
+
+7 In addition to Grimes, Nottingham, and Sandler, other courts have recog- 
+nized that individual, derivative and class settlements in state court can 
+resolve exclusively federal claims. See, e.g, TBK, 675 F.2d at 460 (“we have 
+recognized the authority of a state court to approve a settlement that releases 
+a claim within the exclusive jurisdiction of the federal courts”); Green, 577 
+F 2d at 1383-84 (state settlement involving state fiduciary claims bars subse- 
+quent assertion of Exchange Act claims based on same facts); Abramson, 392 
+F.2d at 762 (“[a}ithough the state court could not adjudicate the federal 
+claim, it was within its powers over the corporation and the parties to approve 
+the release of that claim as a condition of settlement of the state action’’); 
+Gabelli v. Sikes Corp., 1990 WL 213119 at *5 (S.D.N.Y. Dec. 14, 1990) 
+(staying federal securities action pending court approval of Florida state 
+court class settlement “‘because of the imminent possibility that the Florida 
+courts will dispose of the exclusive federal issue by approving the settlement 
+and its attendant releases’); Lowenschuss v. Resorts Int'l, Inc., 1989 U.S. 
+Dist. LEXIS 7407 at *20 & n.15 (E.D. Pa. June 29, 1989) (state court class 
+action settlement bars exclusively federal claims), aff'd without op., 947 F.2d 
+936 (3d Cir. 1991); Seagoing Uniform Corp. v. Texaco, Inc., 705 F. Supp. 
+918, 923 (S.D.N.Y. 1989) (recognizing state court's authority in “class 
+action derivative” suit to approve settlement releasing exclusively federal 
+claims), Bernstein v. Mediobanca Banca di Credito Finanziario-Societa per 
+Azioni, 78 F.R.D. 1, 2, 5 (S.D.N.Y. 1978) (general release in state court 
+settlement bars federal securities action); Nottingham Partners v. Dana, 564 
+A.2d at 1104-05 (law “uniformly” distinguishes between state’s power to 
+approve a general release of an exclusively federal claim and its lack of power 
+to adjudicate the same); cf. In re Corrugated Container Antitrust Litig., 643 
+F.2d 195, 221 (Sth Cir. 1981) (“even when the court does not have power to 
+adjudicate a claim, it may still approve release of that claim as a condition of 
+settlement of [an] action [before it]"’’) (citation omitted). 
+
+
+13 
+
+
+the rights of class members. App. 39a-40a & n.33. The “policy” 
+
+that motivated the Ninth Circuit is that although: 
+* a state court judgment can determine factual issues that 
+are preclusive with regard to later federal causes of action,* 
+* non-federal forums sometimes adjudicate causes of 
+action within the exclusive jurisdiction of the federal 
+courts,’ and 
+* a state court-approved release terminates exclusively fed- 
+eral causes of action in individual and derivative actions, 
+¢ nonetheless, the Delaware judgment here is not to be 
+given preclusive effect because, supposedly, only a federal 
+court can approve a class action settlement that releases a 
+federal securities claim. 
+
+Thus, the court of appeals held that the enactment of the Wil- 
+
+liams Act created an exception to the Full Faith and Credit Act. 
+
+See App. 28a, n.25.'° 
+
+
+8 See Becher v. Contour Labs., Inc., 279 U.S. 388, 390-92 (1929) (Holmes, J.); 
+Murphy v. Gallagher, 761 F.2d 878, 886 (2d Cir. 1985). 
+
+
+9 Exclusively federal claims may be decided outside of the federal courts, 
+including (1) in arbitration, see, ¢.g., Shearson v. MacMahon, 482 U.S. 220 
+(1987) (Securities Exchange Act of 1934 claims); Mitsubishi Motors Corp. 
+v. Soler Chrysler-Plymouth, Inc., 473 U.S. 614 (1985) (federal antitrust 
+claims); (2) when exclusively federal claims are raised in state court by way 
+of affirmative defense, see, ¢.g., Weiner v. Shearson, Hammill & Co., 52! 
+F.2d 817, 821-22 & n.22 (9th Cir. 1975); and (3) under principles of forum 
+non conveniens, where a foreign sovereign has the ability to adjudicate 
+“somewhat similar’ claims, see, ¢.g., Howe v. Goldcorp Inv., Lid., 946 F.2d 
+944, 952 (1st Cir. 1991) (securities claims decided in Canada), cert. denied, 
+502 U.S. 1095 (1992). Such judgments are entitled to the same preclusive 
+effect as a judgment entered upon a jury verdict for purposes of Section 1738. 
+See, e.g., Leddy v. Standard Drywall, Inc., 875 F.2d 383, 385 (2d Cir. 1989). 
+
+
+'0 The court below reasoned, citing Judge Friendly’s dicta in National Super 
+Spuds, Inc. v. New York Mercantile Exch., 660 F.2d 9 (2d Cir. 1981), that a 
+state court lacked the power to approve the settlement of claims over which 
+it could not assert jurisdiction for purposes of adjudication. App. 28a-34a. 
+This assertion is plainly wrong. Approving a settlement including the release 
+of federal claims is not an exercise of subject matter jurisdiction over those 
+claims. See Class Plaintiffs v. City of Seattle, 955 F.2d 1268, 1288 (9th 
+Cir.) (“it was not necessary . . . to actually exercise subject matter jurisdic- 
+tion over the claims to approve their release’’), cert. denied, 113 S. Ct. 408 
+(1992); Abramson, 392 F.2d at 762 (in personam jurisdiction provides state 
+court with authority to approve release of federal claims regardless of 
+
+
+14 
+
+
+This Court has consistently rejected arguments that federal 
+statutes limit the scope of Section 1738. In Migra v. Warren 
+County Sch. Dist. Bd. of Educ., 465 U.S. 75, 84 (1984), which 
+addressed the interplay between Section 1738 and 42 U.S.C. § 
+1983, this Court stated that Section 1738 “embodies the view 
+that it is more important to give full faith and credit to state 
+court judgments than to ensure separate forums for federal and 
+state claims.” See also Allen v. McCurry, 449 U.S. 90, 97-98 
+(1980) (no basis to find that the creation of a federal cause of 
+action under Section 1983 impliedly repeals the Full Faith and 
+Credit Act). And, in analyzing the relationship between Sec- 
+tion 1738 and the Anti-Injunction Act, 28 U.S.C. § 2283, this 
+Court reversed a judgment of the Eleventh Circuit, which “gave 
+unwarrantedly short shrift to the important values of federalism 
+and comity imbeded in the Full Faith and Credit Act.” Parsons 
+Steel, 474 U.S. at 522-23; see also Kremer, 456 U.S. at 463, 476 
+(Title VII does not “supersede the principles of comity and 
+repose embodied in § 1738”); Marrese, 470 U.S. at 385-86 (the 
+concerns underlying Section 1738 “certainly are not made less 
+compelling because state courts lack jurisdiction over federal 
+antitrust claims’). 
+
+
+“[A]n exception to Section 1738 will not be recognized unless 
+a later statute contains an express or implied partial repeal.” 
+Kremer 456 U.S. at 466 (absent “manifest incompatiblity” on 
+the face of the statute no implied repeal will be found); see also 
+Marrese, 470 U.S. at 380. Thus, the inquiry is not, as the Ninth 
+Circuit had it, whether Congress intended Section 1738 to apply 
+to a state judgment depending on the type of claims at issue. 
+App. 34a. Section 1738 applies to all state judgments. Marrese, 
+
+
+subject matter jurisdiction); Grimes, 17 F.3d at 1563-64 (“the Delaware 
+court did not exercise any inherent power to release causes of action that it 
+had no jurisdiction to entertain. Rather the Delaware court only acted to 
+enter a settlement agreement that was initiated, negotiated, and adopted by 
+the parties to a lawsuit that was properly before it”). Entry of judgment 
+upon a class settlement containing a broad release of exclusively federal 
+claims “does not in any way interfere with or limit the jurisdiction of the... 
+federal court.” Nottingham Partners v. Dana, 564 A.2d at 1105. That the 
+settlement of federal claims by a state court is not a question of jurisdictional 
+power is evident in the acknowledgment by the court of appeals of the 
+finality of state court settlements of 1934 Act claims in individual and 
+shareholder derivative suits. App. 37a-38a & n.32. 
+
+
+15 
+
+
+470 U.S. at 380; Kremer, 456 U.S. at 466-68. The proper issue is 
+whether Congress in enacting the Williams Act expressly or 
+impliedly created an exception to Section 1738. The Williams 
+Act creates no such exception. See, e.g., Murphy, 761 F.2d at 
+884-85 (concluding that state court judgment precluded later 
+federal securities law action and holding that Exchange Act 
+neither expressly nor impliedly repealed Section 1738).!! 
+
+
+The court of appeals’ decision plays havoc with state court 
+judgments and settlements generally.'* The court of appeals 
+failed to explain why unique safeguards should be created for 
+members of classes certified in state courts who may be able to 
+assert federal claims. Here the class members in the Delaware 
+action were given the due process of notice, an opportunity to 
+object, and the right to opt out. Although the court of appeals 
+
+
+'! The court of appeals analyzed the preclusive effect of the Delaware judg- 
+ment by misapplying the concept of issue preclusion. See App. 28a-37a. 
+Issue preclusion is not a limitation on the scope of a release. Issue preclusion 
+bars relitigation of an issue actually litigated in the prior proceeding. See 
+Parklane Hosiery Co. v. Shore, 439 U.S. 322, 326 n.5 (1979). The court of 
+appeals adapted an issue preclusion test from TBK, even though the court 
+acknowledged that case was not controlling here. TBK involved a federal 
+court’s approval of a settlement that extinguished state claims. TBK did not 
+implicate the Full Faith and Credit Act and did not apply Delaware law. 
+Even so, the court below misread TBK, which in fact held that “where there 
+is a realistic identity of issues between the settled class action and the subse- 
+quent suit... . the paramount policy of encouraging settlements takes prece- 
+dence.” TBK, 675 F.2d at 461. The court of appeals’ attempt to use the 
+concept of issue preclusion is badly confused. The Full Faith and Credit Act 
+requires federal and state courts to apply Delaware preclusion principles to 
+the Delaware judgment, which embodies the terms of the class settlement. A 
+court may limit the preclusive effect to the claims alleged in a complaint only 
+when the representative class members did not have authority to compro- 
+mise other claims arising from the transaction embodied in the suit. See, 
+e.g., Super Spuds, 660 F.2d at 17. There was no such limitation of authority 
+here. 
+
+
+'2 The court of appeals’ decision will have an impact on a wide variety of cases 
+in which facts underlying state law claims also may form the basis of 
+exclusively federal claims. These include admiralty, 28 U.S.C. § 1333 
+(1988); antitrust, 15 U.S.C. § 15 (1988); commodity exchanges, 7 U.S.C. 
+§ 2S(c) (1988); C.E.R.C.L.A., 42 U.S.C. .§ 9613(b) (1988); patent and 
+copyright, 28 U.S.C. § 1338 (1988); and securities, 15 U.S.C. § 78aa 
+(1988). 
+
+
+16 
+
+
+belittled the right to opt out as impractical and therefore inconse- 
+quential, see App. 39a-40a, this Court observed in Shutts that 
+“the Constitution does not require more tc protect what must be 
+the somewhat rare species of class member who is unwilling to 
+execute an ‘opt out’ form, but whose claim is nonetheless so 
+important that he cannot be presumed to consent to being a 
+member of the class by his failure to do so.” 472 U.S. at 813. 
+Indeed, as the Third Circuit observed in Grimes, the fact that 
+judicial review attends a judgment entered upon a class action 
+settlement enhances the force and effect of the release upon non- 
+representative class members because its fairness has been evalu- 
+ated by a court: 
+
+
+As a judgment, the settlement and release of claims is a 
+contract that not only is agreed upon by the parties, but 
+also is stamped with the imprimatur of the court with 
+jurisdiction over the parties and the subject matter of the 
+lawsuit. 
+
+
+17 F.3d at 1557. 
+
+
+In the analogous situation of the recognition by one state court 
+of a judgment of another state court regarding a matter purport- 
+edly outside its jurisdictional competence, this Court has been 
+very clear. When a class member has notice that court approval 
+of a proposed settlement will release claims that could not be 
+adjudicated in the releasing court and the class member fails to 
+object to the release, the class member cannot raise that objec- 
+tion in another court. See Underwriters Nat'l Assurance Co. v. 
+North Carolina Life & Accident & Health Ins. Guar. Assoc., 
+455 U.S. 691, 710 (1982). Finding that preclusive effect must be 
+given to the release, this Court held that the class member was 
+“obliged to advance its argument that the [settling] Court did 
+not have the authority to settle [those claims] when it was given 
+the opportunity to do so [in that court].” /d. This Court made 
+clear that “the rule of jurisdictional finality established in Durfee 
+v. Duke’ applied even though another court might have “exclu- 
+sive jurisdiction over the subject matter of this litigation.” /d. at 
+705 n.11. 
+
+
+Finally, the court of appeals ignored the substantial public 
+policy issues inherent in affording full faith and credit to state 
+court class action judgments recognized by the First and Third 
+Circuit Courts in Nottingham and Grimes: advancing state- 
+
+
+17 
+
+
+federal comity, honoring parties’ legitimate expectations, avoid- 
+
+ing piecemeal litigation, encouraging settlements, and preventing 
+
+forum shopping. As stated in Sandler: 
+[T]he state court-approved release forecloses this federal 
+action based on principles of comity between state and 
+federal courts. To deny effect to a release of claims merely 
+because it was given in an action commenced in state court 
+would invite unprecedented consequences. Such a doctrine 
+would unjustifiably proliferate litigation, defeat legitimate 
+expectations of the settling parties, engender uncertainty 
+among class members and defendants as to their ability to 
+retain the benefits of settlements, discourage settlements 
+altogether and create unwarranted conflict between state 
+and federal courts. 
+
+
+818 F. Supp. at 705 (emphasis added).'* 
+
+
+Il. IMPLYING A PRIVATE RIGHT OF ACTION UNDER 
+RULE 14d-10 VIOLATES PRINCIPLES ANNOUNCED 
+BY THIS COURT AND CONFLICTS WITH DECI- 
+SIONS OF THE DISTRICT OF COLUMBIA, THIRD 
+AND SIXTH CIRCUIT COURTS OF APPEAL 
+
+
+This Court has limited the judicial implication of private 
+rights of action to situations where Congress has indicated that 
+there should be such a right. See, e.g., Northwest Airlines, Inc. v. 
+Transport Workers Union of Am., AFL-CIO, 451 U.S. 77, 94 
+n.31 (1981) (“[i]n a case in which neither the statute nor the 
+legislative history reveals a congressional intent to create a pri- 
+vate right of action ... we need not carry the Cort v. Ash 
+inquiry further’); Thompson v. Thompson, 484 U.S. 174, 190 
+(1988) (Scalia, J., concurring) (“‘[t]he recent history of our 
+holdings is one of repeated rejection of claims of an implied 
+right’’).'4 
+
+
+'3 See Nottingham, 925 F.2d at 33 (if Respondents were “dissatisfied with the 
+Delaware judgment, their recourse was to the United States Supreme Court 
+by certiorari, not to the lower courts in vain pursuit of back door relief’). 
+
+
+'4 See also Roosevelt v. E.1. Du Pont de Nemours & Co., 958 F.2d 416, 420 
+(D.C. Cir. 1992) (Ginsburg, J.) (“[o]ver the years since Borak ... the 
+Court has exercised greater restraint in the implication of private rights of 
+action”); Smith v. Dearborn Fin. Servs., Inc., 982 F.2d 976, 980 (6th Cir. 
+1993) (same); Spicer v. Chicago Bd. of Options Exch., Inc., 977 F.2d 255, 
+258 (7th Cir. 1992) (same); Health Care Plan, Inc. v. Aetna Life Ins. Co., 
+966 F.2d 738, 740 (2d Cir. 1992) (same). 
+
+
+18 
+
+
+The court of appeals dismissed the notion that this Court's 
+implied right of action jurisprudence has shifted in recent years 
+toward a more restrictive approach: 
+
+
+Matsushita’s argument that there has been a recent sea 
+change in the Court’s implied right of action jurisprudence 
+is based on wishful thinking, not case law. The argument is 
+essentially the same one advanced by Justice Scalia in his 
+concurring opinion in Thompson v. Thompson, 484 U.S. 
+174, 188 (1988) (Scalia, J., concurring in the judgment), 
+where he urged his colleagues to “get out of the business of 
+implied private rights of action altogether.” /d. at 192. The 
+problem is that no other justice of the Court has yet to 
+endorse the “get out of the business” approach to implied 
+causes of action. 
+
+
+App. 9a-10a (footnote omitted). 
+
+
+The position advanced by Matsushita, but mischaracterized 
+and summarily rejected by the court of appeals, merely reflects 
+adherence to this Court’s repeated teaching that “recognition of 
+any private right of action for violating a federal statute must 
+ultimately rest on congressional intent to provide a private rem- 
+edy.” Virginia Bankshares, Inc. v. Sandberg, 501 U.S. 1083, 
+1102 (1991) (citation omitted). Two corollaries of this doctrine 
+are equally important here: first, “the breadth of the right once 
+recognized should not, as a general matter, grow beyond the 
+scope congressionally intended,” id.; second, even if a statutory 
+provision is found to be privately enforceable, agency rules 
+promulgated thereunder do not automatically provide for a pri- 
+vate right of action. Instead, a private party asserting an implied 
+right of action must overcome the “ ‘hurdle facing any litigant’ 
+seeking to extend an implied right to a class with claims not 
+comparable to those previously recognized.” Roosevelt, 958 F.2d 
+at 420-21 (quoting Virginia Bankshares, 501 U.S. at 1104). The 
+court of appeals failed to examine the language, structure or 
+purpose of Rule 14d-10, and ignored the fact that the Rule goes 
+well beyond the scope of Section 14(d)(7).'* 
+
+
+'S Improperly consulting the contemporary legal context “{i)]n 1968 when the 
+Williams Act was enacted,” the court of appeals reasoned that because 
+“various lower federal courts had construed Section ]0(b) of the 1934 Act as 
+providing a private cause of action,” it should be inferred that Congress 
+intended that Section ]14(d)(7) also so provides, and thus, automatically Rule 
+14d-10 as well. App. 6a (emphasis added). But Section 10(b) is irrelevant 
+here; Rule 14d-10 was not promulgated pursuant to Section 10(b). See 
+
+
+ee 
+
+
+SS 
+
+
+19 
+
+
+The court of appeals’ holding concerning a private right of 
+action is inconsistent with Roosevelt, supra, Ashbrook v. Block, 
+917 F.2d 918 (6th Cir. 1990), and Angelastro v. Prudential- 
+Bache Sec., Inc., 764 F.2d 939 (3d Cir.), cert. denied, 474 U.S. 
+935 (1985). These cases all employ a two-step inquiry to deter- 
+mine whether there is an implied right under an agency rule: 
+(1) did Congress intend the enabling statute to create a private 
+remedy that could be delegated to agency rulemaking, and (2) is 
+the rule drafted such that a private right may be legitimately 
+implied. Roosevelt, 958 F.2d at 421-25; Ashbrook, 917 F.2d at 
+926; Angelastro, 764 F.2d at 947-48.'© The court of appeals 
+ignored the second step of the analysis and stated the implication 
+test as follows: “‘an agency rule contains a private right of action 
+if Congress intended the statute under which it was promulgated 
+to be privately enforceable.” App. Sa n.8. This is a new implied 
+right of action test of unprecedented breadth. The inevitable 
+consequence of the court of appeals’ reasoning is that Congress 
+intended an implied right of action under each of the ten Rules 
+promulgated under Section 14(d)(7) of the Williams Act. As this 
+Court suggested in another context: 
+
+If we were to rely on this reasoning now, we would be 
+obliged to hold that a private right of action exists for every 
+provision of the 1934 Act .... There would be no logical 
+
+
+Angelastro v. Prudential-Bache Sec., Inc., 764 F.2d 939, 948 n.14 (3d Cir.) 
+(“Congress’ intent to permit private rights of action [under an SEC regula- 
+tion] must stem from .. . the provision which granted the Commission the 
+power to adopt the Rule”’), cert. denied, 474 U.S. 935 (1985). Moreover, this 
+Court has sanctioned consultation of historical implication standards only in 
+two narrowly-defined circumstances, neither of which is raised by Rule | 4d- 
+10. See Thompson, 484 U.S. at 189-90 (Scalia, J., concurring); see also 
+Health Care Plan, 966 F.2d at 742 (“we are told to determine whether a 
+private cause of action is implied by applying the law in effect at the time of 
+decision—([presently] a structured inquiry into Congress’ intent—rather 
+than the method of analysis that courts applied at the time of a statute's 
+enactment’”’). 
+
+
+'© Federal district courts uniformly recognize the need to analyze SEC rules 
+under a two-step analysis, in which the second step has had dispositive 
+significance. See, e.g., Arst v. Stifel Nicolaus & Co. Inc., 871 F. Supp. 1370, 
+1376-77 (D. Kan. 1994) (no private right under SEC Rule 10b-10 even 
+though Section 10(b) provides such a right); Siedman v. Merrill Lynch, 
+Pierce, Fenner & Smith, Inc., 465 F. Supp. 1233, 1237 (S.D.N.Y. 1979) (no 
+private right under SEC Rule 15c3-3(b) even though Section 15(c) of the 
+Exchange Act was then interpreted to afford such a right). 
+
+
+20 
+
+
+stopping point to this line of reasoning .... This 
+approach, with its far-reaching consequences, would work 
+a significant shift in settled interpretive principles regard- 
+ing implied causes of action. 
+Central Bank, 114 S. Ct. at 1455 (emphasis added); see also 
+Touche Ross & Co. v. Redington, 442 U.S. 560, 577 (1979) (“we 
+decline to read [Borak] so broadly that virtually every provision 
+of the securities Acts gives rise to an implied private cause of 
+action’). 
+
+
+Rule 14d-10 states only that “[n]o bidder shall make a tender 
+offer” unless the provisions of the Rule are followed. This lan- 
+guage does not create a substantive right in the security holder; 
+rather, it places a negative restriction on the bidder, which does 
+not signify intent to confer a private right of action. See 
+Coosewoon v. Meridian Oil Co., 25 F.3d 920, 929 (10th Cir. 
+1994) (“a mere proscription of behavior does not justify an 
+inference of a private cause of action for its violation; instead, 
+there must be some evidence that Congress intended one”’) (cit- 
+ing Transamerica Mortgage Advisors, Inc. v. Lewis, 444 U.S. 11 
+(1979)); Health Care Plan, 966 F.2d at 741 (“obligations, in and 
+of themselves, do not provide a basis for conferring a private 
+right of action on [beneficiaries of statute], without further 
+indication of congressional intent’). Nor is there any mention of 
+a private right of action in the numerous SEC releases promul- 
+gating and explaining Rule 14d-10.'’ 
+
+Courts should be particularly reluctant to imply a private right 
+of action where, as here, the language of the Rule goes beyond 
+the requirements of the statute. Congress enacted Section 
+14(d)(7) to ensure that shareholders who tendered their shares 
+early in the course of a tender offer would receive the benefit of a 
+subsequent increase in the tender offer price during the tender 
+offer. See Missouri Portland Cement Co. v. Cargill, Inc., 498 
+F.2d 851, 874 (2d Cir.), cert. denied, 419 U.S. 883 (1974). As 
+interpreted by the court of appeals, for purposes of establishing a 
+violation, Rule 14d-10(c)(1) “obviates the need for plaintiffs’’ to 
+prove that any shareholder received “higher consideration” dur- 
+ing a tender offer when more than one type of consideration is 
+offered. App. 13a, n.17. Thus, as interpreted by the court of 
+appeals, a violation of Rule 14d-10 can be established without 
+
+
+'7 See, e.g., SEC Release No. 34-22198,. 1985 SEC LEXIS 1175 (July |}, 
+1985); SEC Release No. 34-23421, 1986 SEC LEXIS 1179 (July 11, 1986). 
+
+
+21 
+
+
+proof that higher consideration was paid to certain shareholders, 
+and without regard to timing, both of which are integral to 
+Section 14(d)(7). 
+
+Finally, unlike any provision of Section 14(d)(7), Rule 14d- 
+10(e) allows the SEC to exempt transactions from the Rule's 
+application. Such a provision is inconsistent with a private right 
+of action because it would allow the SEC to suspend such a right 
+by discretion. See Touche Ross, 442 U.S. at 574; cf. Santa Fe 
+Indus., Inc. v. Green, 430 U.S. 462, 478 (1977) (“we are reluc- 
+tant to recognize a (private) cause of action here to serve what is 
+‘at best a subsidiary purpose’ of the federal legislation” ).'* 
+
+
+Il. THE COURT OF APPEALS EXPANDED RULE 144-10 
+IN CONFLICT WITH THE LAW IN THE FOURTH 
+CIRCUIT AND THE TENDER OFFER REGULATORY 
+SCHEME CREATED BY CONGRESS 
+
+
+Section 14(d)(7) requires a bidder that raises its offer “before 
+the expiration” of a tender offer to pay the higher consideration 
+to shareholders who tendered shares prior to the announcement 
+of the higher offer. In accordance with this statutory enabling 
+provision, Rule 14d-10 is operative only “during [a] tender 
+offer.” The entire statutory and regulatory scheme in this area 
+revolves around a clearly-defined tender offer period because 
+certainty in the planning of transactions is of critical importance. 
+
+This Court has recognized that parties attempting to structure 
+complex corporate transactions to comply with the federal secur- 
+ities laws must be afforded certainty and predictability. See 
+Schreiber v. Burlington Northern, Inc., 472 U.S. 1, 12 (1985) 
+(rejecting efforts to “inject uncertainty into the tender offer 
+process’); see also Pinter v. Dahil, 486 U.S. 622, 652-53 (1988) 
+(securities industry “demands certainty and predictability’’). 
+The regulation of tender offers is an issue of national importance. 
+
+
+'§ The SEC reviewed Matsushita's acquisition of MCA and had the authority 
+to bring an injunction action if appropriate. The possibility that an implied 
+right of action might “enhance the administrative remedies provided’ under 
+the Williams Act is not a justification for implying a private right of action 
+Harper v. Federal Land Bank, 878 F.2d 1172, 1176-77 (9th Cir. 1989), cert. 
+denied, 493 U.S. 1057 (1990); see also Central Bank, 114 S. Ct. at 1448. In 
+situations in which Congress explicitly relied upon an administrative scheme 
+to induce compliance, courts “should be particularly reluctant to imply a 
+private cause of action without sufficient evidence of Congress’ intent ” 
+Health Care Pian, 966 F.2d at 741 (citing Touche Ross, 442 U.S. at 574) 
+
+
+22 
+
+
+Through tender offers, corporations redistribute assets, unlock 
+the value of moribund publicly-held stock, and increase global 
+competitiveness. The value of the 80 tender offers launched in the 
+United States last year exceeded $53 billion. By their nature, 
+tender offers customarily cut across national and international 
+boundaries. 
+
+Rejecting concerns about certainty and planning, the court of 
+appeals held that if a private purchase such as the Wasserman 
+transaction is conditioned on a tender offer, it should be deemed 
+an integral part of the tender offer. App. 18a. Thus, the court of 
+appeals reasoned, the tender offer does not end until the private 
+purchase is consummated and therefore, such a private purchase 
+takes place “during the tender offer” and falls within the scope of 
+Rule 14d-10. App. 17a, n.19."* 
+
+But why should the mere “conditioning” of a stock purchase 
+agreement on the consummation of a tender offer convert a 
+separate transaction—done during one time period—into an 
+“integral part” of a tender offer in a different time period? The 
+parties have stipulated that the Wasserman transaction was 
+agreed to and consummated when no tender offer was pending.” 
+
+
+The court of appeals’ interpretation of Rule 14d-10 creates a 
+direct conflict with the law of the Fourth Circuit. Kahn, supra, 
+involved a series of overlapping and interrelated transactions that 
+straddled a public tender offer. The district court in Kahn held 
+that “because no purchases occurred during the pendency of the 
+tender offer,” the Rule 14d-10 claim must be dismissed pursuant 
+to Fed. R. Civ. P. 12(b)(6). 783 F. Supp. at 272. The Fourth 
+
+
+'? The court of appeals’ expansion of Rule 14d-10 will inevitably give rise to 
+challenges to executive compensation arrangements that are typically made 
+by a tender offeror with incumbent management. Thus, employment 
+arrangements entered into for the purpose of securing continuity of manage- 
+ment may be challenged as disguised payments for tendered shares regard- 
+less of when the payments are made. Indeed, the court of appeals remanded 
+for trial a Rule 14d-10 claim involving an employment-related payment to 
+MCA's President, Sidney Sheinberg. App. 23a. 
+
+
+20 Specifically, in the pre-trial order in the district court litigation, the parties 
+stipulated that (1) the Wasserman transaction was entered into on Novem- 
+ber 26, 1990, (2) on November 30, Matsushita filed a Schedule 14D-1 [the 
+event commencing the tender offer period, see Rule 144-2), (3) at 12:05 a.m. 
+on December 29, Matsushita gave notice of acceptance of the tendered 
+shares [the event terminating the tender offer|, and (4) the Wasserman 
+transaction was consummated thereafter. See ER 354 § 5, Ff 16, 17, 19, 21. 
+
+
+23 
+
+
+Circuit affirmed. See Kahn, 13 F.3d at 111-13 (recounting dis- 
+trict court’s analysis). Thus, once it was determined that the 
+private stock transactions did not take place “during the tender 
+offer period,” no further analysis was necessary. 
+
+The court of appeals sought to distinguish Kahn solely on the 
+ground that the private stock purchase in Kahn was “uncondi- 
+tional.” App. 19a. Nothing in either Kahn decision suggests that 
+this is so. Moreover, official disclosure documents filed by the 
+Kahn parties with the SEC make clear that the private purchases 
+were expressly conditioned on the success of the public tender 
+offer. See App. 108a. In short, this case is not distinguishable 
+from Kahn in any meaningful way, and a transaction which is 
+sanctioned in the Fourth Circuit is now illegal in the Ninth 
+Circuit. Tender offerors should not be subject to such “conflicting 
+regulatory requirements.” Kahn, 783 F. Supp. at 270. 
+
+
+The court of appeals’ construction of Rule 14d-10 ignores this 
+Court’s mandate that a court may not expand the reach of a rule 
+beyond its express language. See Central Bank, 114 S. Ct. at 
+1447 (“the 1934 Act cannot be read more broadly than its 
+language and the statutory scheme reasonably permit’’) (citation 
+omitted). By its terms, Rule 14d-10 is limited in its reach. The 
+Rule prohibits certain payments “during such tender offer.” Rule 
+14d-10 plainly does not presume to regulate payments that are 
+“conditioned” on the success of a tender offer, or are “an integral 
+part of” a tender offer. “During” means “(t)}hroughout the 
+course or duration of” or “[w)]ithin the time of.” Webster's II, 
+New Riverside Dictionary (1984). The term connotes a finite 
+temporal interval which the Ninth Circuit read out of the Rule 
+by expanding its proscriptions to reach transactions not within 
+the temporal confines of the Rule. 
+
+The SEC extensively considered and rejected—both before 
+and after the adoption of Rule 14d-10—tender offer rules gov- 
+erning post-tender offer stock purchases.*' Rejection of these 
+
+
+2! See, ¢.g., SEC Release No. 34-15548, 1979 SEC LEXIS 2204 at *19 (Feb. 
+5, 1979) (proposing Rule 144-8 which sponsored 40 day post-offer integra- 
+tion period); SEC Release No. 34-16384, 1979 SEC LEXIS 217 at *3 (Nov. 
+29, 1979) (withdrawing proposed Rule 144-8); SEC Release No. 34-16385, 
+1979 SEC LEXIS 218 at *34-5S0 (Nov. 29, 1979) (proposing Rule |4e-4 
+which is first proposal to codify “all-holders” and “best-price” principles 
+later adopted as Rule |4d-10, and simultaneously proposing separate Rule 
+1 4e-5 prohibiting purchases by bidder for 10 days following termination of 
+tender offer, which rule is never adopted); SEC Release No. 34-24976, 1987 
+
+
+24 
+
+
+proposals by the SEC negates the court of appeals’ proposition 
+that they are nevertheless now embraced in Rule 14d-10. See 
+
+
+Fogel v. Chestnutt, 533 F.2d 731, 752-53 n.25 (2d Cir. 1975), 
+cert. denied, 429 U.S. 824 (1976); see also TransCanada Pipe- 
+lines Ltd. v. Federal Regulatory Comm'n, 878 F.2d 401. 411 
+(D.C. Cir. 1989) (citing Udall v. Tallman, 380 U.S. 1, 16 
+(1965)). 7 
+
+Both Section 14(d)(7), the enabling statute for Rule 14d-10, 
+and Rule 10b-13, which regulates side purchases during a tender 
+offer, cease operation when the tender offer expires. See Kramer 
+v. Time Warner, Inc., 1990-91 Fed. Sec. L. Rep. (CCH) 4 
+95,619, at 97,902 (S.D.N.Y. 1990), aff'd, 937 F.2d 767 (2d Cir. 
+1991).23 The SEC has stated that the tender offer rules are 
+designed so that “security holders will have only one date to be 
+concerned with—the expiration date.” SEC Release No. 34- 
+23421, 1986 SEC LEXIS 1179 at *46 (July 11, 1986); cf. 
+Gustafson v. Alloyd Co., Inc., 115 S. Ct. 1061, 1069 (1995). 
+Eliminating the temporal limitation on Rule 14d-10, as the court 
+of appeals did here, will confound tender offerors and sharehold- 
+ers alike and undermine the predictability of the entire regula- 
+tory scheme. 
+
+
+SEC LEXIS 3545 at *28-33 (Oct. 1, 1987) (proposing 10 day post tender 
+offer integration period that has never been adopted). 
+
+
+22 A defined time period also is consistent with the two purposes of Rule | 4d- 
+10: (1) to ensure that the “highest price paid to any tendering security 
+holder . . . be paid to any other tendering security holder,” and (2) to prevent 
+discriminatory tender offers made to fewer than all holders, which pressure 
+the excluded group to sell to the favored group (at a reduced price) before 
+the expiration of the offer. See SEC Release No. 34-23421, 1986 SEC 
+LEXIS 1179 at *10, *27 (July 11, 1986). Thus, Rule 14d-10 should be 
+interpreted as written and intended by the SEC and not as a general 
+“antidiscrimination” provision which reaches into matters properly within 
+the purview of state law. App. 12a. The federal securities laws “create an 
+extensive scheme of civil liability,” and each regulation plays a distinct role. 
+Central Bank, 114 S. Ct. at 1445, 1451. 
+
+23 Other federal tender offer regulations are triggered by the end of the tender 
+offer period. For example, SEC Rule l4e-l(c) requires payment of the 
+tender consideration “promptly after the termination” of the offer. If the 
+tender offer rules do not operate within a clearly defined time frame, the 
+operative event for such Rules will be in doubt. 
+
+
+25 
+
+
+CONCLUSION 
+
+
+The decision of the court of appeals is at odds with the law of 
+this Court on each of the issues as to which Matsushita seeks 
+certiorari. The decision also directly conflicts with the law of the 
+District of Columbia, First, Second, Third, Fourth, and Sixth 
+Circuit Courts. In addition to the dramatic adverse impact of this 
+decision on state and federal litigation in this country, the deci- 
+sion exposes Matsushita to a multi-billion dollar liability. The 
+petition for a writ of certiorari should be granted. 
+
+
+May 3, 1995 
+Respectfully submitted, 
+
+
+/s/_ Barry R. OSTRAGER 
+BARRY R. OSTRAGER 
+Counsel of Record 
+MARY KAY VYSKOCIL 
+PAUL C. CURNIN 
+
+JoseEPH M. MCLAUGHLIN 
+
+
+SIMPSON THACHER & BARTLETT 
+(a partnership which includes 
+professional corporations) 
+
+425 Lexington Avenue 
+
+New York, New York 10017 
+(212) 455-2000 
+
+
+Of Counsel 
+
+
+PROFESSOR GEOFFREY C. HAZARD Jr. 
+Trustee Professor of Law 
+
+University of Pennsylvania 
+
+3400 Chestnut Street 
+
+Philadelphia, Pennsylvania 19104 
+(215) 898-7494 
+
+
+Attorneys for Matsushita Electric Industrial Co., Ltd. 
+and Matsushita Holding Corporation 
+
+

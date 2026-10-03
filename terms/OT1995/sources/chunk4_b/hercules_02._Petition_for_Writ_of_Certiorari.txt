@@ -1,0 +1,1428 @@
+Vveurt, Veo, 
+
+
+evproirnl 
+()) FILED 
+\ | 
+
+
+94 S1nov 419% 
+No. 
+a nt ee li le le 
+
+
+IN THE 
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1994 
+
+
+HERCULES INCORPORATED 
+and 
+Wo. T. THOMPSON COMPANY, 
+y Petitioners. 
+
+
+UNITED STATES OF AMERICA, 
+Respondent. 
+
+
+Petition for Writ of Certiorari to the 
+United States Court of Appeals 
+for the Federal Circuit 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+GREGORY W. HOMER JAMES S. TURNER 
+
+RHONDA D. ORIN SWANKIN & TURNER 
+
+ANDERSON KILL OLICK 1424 16th Street, N.W. 
+& OSHINSKY Suite 105 
+
+2000 Pennsylvania Ave.,N.W. Washington, D.C. 20036 
+
+Suite 7500 (202) 462-8800 
+
+
+Washington, D.C. 20006 
+
+
+CARTER G. PHILLIPS * 
+(202) 728-3100 
+
+
+SIDLEY & AUSTIN 
+
+
+WALTER S. ROWLAND 1722 I Street, N.W. 
+HERCULES INCORPORATED Suite 900 
+Hercules Plaza Washington, D.C. 20006-8795 
+Wilmington, Delaware 19894 (202) 736-8000 
+(302) 594-5000 
+
+Counsel for Petitioners 
+
+
+* Counsel of Record 
+
+
+Wiieow - Evrae Prinrise Co., lec. - 769-0086 - Wasnineron, D.C. 20001 
+
+
+ms 
+
+
+QUESTION PRESENTED 
+
+
+Judge Plager, in dissenting from the opinion issued by 
+the court of appeals, stated the question as starkly as 
+possible: 
+
+If the government compels manufacture of a product 
+by private companies, a product known to the gov- 
+ernment to be potentially dangerous, and the use by 
+the government of the product causes the manufac- 
+turers to incur liability, may the government claim 
+immunity from the consequences of its conduct? 
+
+
+(App. 34a-35a). 
+
+
+Subsumed within this larger question are two distinct 
+issues of law which should be addressed by this Court: 
+
+
+I. Whether the government contractor defense to tort 
+claims created by this Court in Boyle v. United Tech- 
+nologies Corp., 487 U.S. 500 (1988), precludes breach 
+of contract claims against the United States that otherwise 
+are permissible in accordance with United States v. 
+Spearin, 248 U.S. 132 (1918). 
+
+
+2. Whether the government may compel government 
+contractors to produce hazardous products (such as 
+Agent Orange) pursuant to the Defense Production Act, 
+and then avoid all contractual liability for damages suf- 
+fered by the contractors when they subsequently are sued 
+in tort actions by third parties allegedly harmed by these 
+
+
+products. 
+
+
+(i) 
+
+
+3 All of the parties are listed in the caption, Pursuant to 
+Rule 29.1, Petitioners. make the following disclosures: 
+
+1. Hercules Incorporated has no parent company and 
+has no subsidiaries or affiliates that are publicly ‘traded. 
+
+
+2. Wm. T. Thompson Company has no parent com- 
+pany and has no subsidiaries or affiliates that are publicly 
+traded. 
+
+
+TABLE OF CONTENTS 
+
+
+| Page 
+QUESTIONS PRESENTED. 6.....-.-.-is----esscs---soonsteoeseeees a ll 
+PARTIES TO PROCEEDING BELOW ........................ ii 
+TATE TE Gi GOT TINO Satins o.no.ccen.-nasscaiedsisccceceeseoeceeeee iii 
+TABLE OF AUTHORITIES ..................0:...c..cc0-eceseresesoeeee iv 
+I, MII - is siecaciegeedtuncsupeemneneereanssseatecesesecsccecorecss 1 
+a saeeseane cocannecresanssooeecoooscorevoets 2 
+STATUTORY PROVISIONS INVOLVED .................... 2 
+STATEMENT OF THE CASE ..............---.-----------00-e0-e0+e0 2 
+A. The Compelled Production of Agent Orange...... 2 
+
+B. The Agent Orange Litigation ................................. 4 
+
+C. The Government’s Escape From Accountability.. 7 
+REASONS FOR GRANTING THE PETITION........ 10 
+
+
+I. THE COURT OF APPEALS’ DETERMINA- 
+TION CONFLICTS WITH ESTABLISHED 
+CONTRACT PRINCIPLES AND _ IMPOR- 
+TANT POLICY CONSIDERATIONS ................. 12 
+
+
+Il. THE COURT OF APPEALS’ EFFORTS TO 
+APPLY CONCEPTS AND POLICIES DEVEL- 
+OPED IN TORT LAW TO THE ARENA OF 
+GOVERNMENT CONTRACT LAW WILL 
+CREATE UNNECESSARY CONFUSION AND 
+UNCERTAINTY .................2.20.00--c-ncecerreevereesoecoscoeeee 17 
+
+
+Ill. THE COURT OF APPEALS IGNORED THE 
+PLAIN LANGUAGE OF THE DEFENSE 
+PRODUCTION ACT REQUIRING THE GOV- 
+ERNMENT TO REIMBURSE PETITIONERS 
+FOR THE DAMAGES THEY SUFFERED AS 
+A CONSEQUENCE OF MANUFACTURING 
+AGENT ORANGE 19 
+
+
+CONCLUSION 22 
+
+
+(iii) 
+
+
+J iv 
+
+
+TABLE OF AUTHORITIES 
+CASES Page 
+
+
+In Re Agent Orange Product Liability Litigation, 
+100 F.R.D. 718 (E.D.N.Y. 1983), aff’d, 818 F.2d 
+145 (2d Cir. 1987), cert. denied, 484 U.S. 1004 
+
+
+CORD nthcsiertuisscliteii cei Rilate tsi et aie 5 
+In Re Agent Orange Product Liability Litigation, 
+
+565 F. Supp. 1263 (E.D.N.Y. 1988) ........ 5 
+In Re Agent Orange Product Liability Litigation, 
+
+580 F. Supp. 690 (E.D.N.Y. 1984) 16 
+
+
+In Re Agent Orange Product Liability Litigation, 
+611 F. Supp. 1223 (E.D.N.Y. 1985), aff’d, 818 
+F.2d 187 (2d Cir. 1987), cert. denied, 487 U.S. 
+ee ee ee 6 
+In Re Agent Orange Product Liability Litigation, 
+597 F. Supp. 740 (E.D.N.Y. 1984), aff'd, 818 
+F.2d 145 (2d Cir. 1987), cert. denied, 484 U.S. 
+
+
+RR Pe eT 3 
+Ahern v. Central Pacific Freight Lines, 846 F.2d 
+SE Gees Ge CI metittendccenotidie 15 
+
+
+American Ship Building Co. v. United States, 207 
+Ct. Cl. 1002 (1975), rev’d on other grounds, 654 
+
+
+pase ve. Coe. Ge Bee ii. es 18 
+Bird & Sons, Inc. v. United States, 190 Ct. Cl. 426 
+
+EC ee nee ae eS ene 18 
+Boyle v. United Technologies Corp., 487 U.S. 500 
+
+CIID eikhinticehdihiitietiliasdtilaaatasiitelaiidiae ii ttt passim 
+Cardinal Chemical Co. v. Morton International, 
+
+Inc., —— U.S. ——, 118 S. Ct. 1967 (1998) ........ 10 
+Damanti v. A/S Inger, 314 F.2d 395 (2d Cir.), 
+
+cert. denied, 375 U.S. 884 (19638) ............ 14 
+Gardner v. Brown, 5 F.8d 1456 (Fed. Cir. 1998), 
+
+cert. granted, 114 S. Ct. 1896 (1994) _..... 10 
+Ivy v. Diamond Shamrock Chemicals Co., 114 
+
+S. Ct. 1125 (1994) 7 
+Jae Sup Chung v. Dow Chemical Co., No. C-94- 
+
+25138 (N.D. Cal.) 7 
+
+
+Janneh v. GAF Corp., 887 F.2d 482 (2d Cir. 
+1989), cert. denied, 498 U.S. 865 (1990) .......... 15 
+Johns-Manville Corp. v. United States, 13 Cl. Ct. 
+72 (1987), vacated on jurisdictional grounds, 
+855 F.2d 1571 (Fed. Cir. 1988) 12 
+
+
+v 
+
+
+TABLE OF AUTHORITIES—Continued 
+Page 
+Osborn v. Bank of United States, 22 U.S. 738 
+(UBBE) .n.n.aneaenennsecinvecsnecsasscseeceneneesososnesvenseencenenenenense - 15 
+Parfait v. Jahncke Service, Inc., 484 F.2d 296 
+(5th Cir. 1973), cert. denied, 415 U.S. 957 
+
+
+(19FA) .n.n.n.ceo-cecececececcsvnereevensesnsesesocesesesersencscsesnsnenesonee 14 
+Peter v. United States, 6 Cl. Ct. 768 (1984) -.......... 18 
+Ryan Stevedoring Co. v. Pan-Atlantic Steamship 
+Corp., 350 U.S. 124 (1956) -.........--------------------- 20 
+Ryan v. Dow Chemical Co., 781 F. Supp. 934 
+(E.D.N.Y. 1992) -.....-----------cececeseecseseseessceseceneesseenes 7 
+United States v. McInnes, 556 F.2d 436 (9th Cir. 
+|, | nnn ee 15 
+United States v. Spearin, 248 U.S. 132 (1918).......- passim 
+STATUTES 
+2B U.S.C. § 1254 (1) .....-.-----------ececeneeeeeneenecenseeeseennnnnnnees 2 
+28 U.S.C. § 1295 (a) (3B) .....-.-------------c-eceeceeneseseeseenenneneees 10 
+50 U.S.C. §§ 2061, et seq. ........--------------eeee-eeneneeneneenennees passim 
+Bred, FR Cl. P. GB ....-.-----<00--c---es--noececcesceeeseseeeccsensees states 5 
+MISCELLANEOUS 
+Peter H. Schuck, Agent Orange on Trial (enlarged 
+©. 1987) ........-----en-cn-ce-ceneeneeneennsnesnnsnssenennnnncenennasnsenees 2 
+Restatement (Second) of Contracts § 351, cmt. ¢ 
+(1981) .........----nscsneceeesernenenersencnsesosnnsnsnsasesnensssnsnnsnseens 14 
+
+
+Ye Soi 3 ba * Bru. t ratei © 
+> laa, eteets ‘ata 
+
+
+WAR 
+
+
+ok , 
+ate ME 
+PAs | 
+
+
+~ 
+oo 
+
+“s 
+
+> 
+x 
+
+” 
+
+bial 
+el 
+b 
+
+
+LD er om tee 
+
+
+) IN THE 
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1994 
+
+
+No. 
+
+
+HERCULES INCORPORATED 
+and 
+Wo. T. THOMPSON COMPANY, 
+y Petitioners, 
+
+
+UNITED STATES OF AMERICA, 
+Respondent. 
+
+
+Petition for Writ of Certiorari to the 
+United States Court of Appeals 
+for the Federal Circuit 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+Hercules Incorporated (“Hercules”) and Wm. T. 
+Thompson Company (“Thompson”) hereby petition for 
+a writ of certiorari to review the judgment and opinion 
+of the United States Court of Appeals for the Federal 
+Circuit, entered on May 4, 1994, in the consolidated 
+appeals of Hercules Incorporated v. The United States 
+and Wm. T. Thompson Company v. The United States. 
+
+
+= 
+
+
+2 
+
+
+Hercules (App. 47a-80a)* is reported at 25 Cl. Ct. 616. 
+The opinion of that same court granting the United States’ 
+motion for summary judgment against Thompson (App. 
+82a-115a) is reported at 26 Cl. Ct. 17. The divided 
+opinion of the United States Court of Appeals for the 
+Federal Circuit affirming the Claims Court ( App. 1a-46a) 
+is reported at 24 F.3d 188. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+May 4, 1994. Rehearing was denied on July 14, 1994. 
+(App. 117a-121a). On September 26, 1994, the Chief 
+Justice extended the time for filing a petition for a writ 
+of certiorari until November 4, 1994. The jurisdiction of 
+this Court is invoked pursuant to 28 U.S.C. § 1254(1). 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+Section 707 of the Defense Production Act, as 
+amended, 50 U.S.C. § 2157, provides as follows: 
+
+
+No person shall be held liable for damages or penal- 
+ties for any act or failure to act resulting directly or 
+indirectly from compliance with a rule, regulation, 
+or order issued pursuant to this Act. 
+
+
+STATEMENT OF THE CASE 
+A. The Compelled Production of Agent Orange 
+
+
+This case involves the most recent chapter in the long 
+story surrounding the United States’ use of a defoliant 
+known as Agent Orange during the Vietnam War. Peti- 
+tioners are two chemical companies which, during the 
+1960’s, were compelled by the United States under the 
+authority of the Defense Production Act, 50 U.S.C. 
+
+
+’ All citations te “App. ——” refer to the Appendix filed con- 
+temporaneously herewith pursuant to United States Supreme Court 
+Rule 14(k). | | 
+
+
+* For a thorough and insightful telling of this story, see Peter 
+H. Schuck, Agent Orange om Trial (enlarged ed. 1987) 
+
+
+er eet p 
+
+
+Pe ee eee 
+
+
+3 
+
+
+§§ 2061, et seqg., to produce and sell Agent Orange to 
+the Department of Defense. (Jt. App. 0097-0098).° 
+While Hercules and Thompson had some experience in 
+producing herbicides for commercial use, neither com- 
+pany had ever produced defoliants and neither company 
+had any knowledge of the hazards, if any, that might 
+accompany the military use of such defoliants. (Jt. App. 
+0544, 0546-0548, 0448, 0431, 0432). 
+
+
+The United States, in contrast, had engaged in years 
+of study about the use of defoliants for military applica- 
+tions and possessed a wealth of information pertaining to 
+the potential hazards associated with the military use of 
+such compounds. The United States never disclosed this 
+information to petitioners. Instead, the United States 
+developed and provided to Hercules and Thompson pre- 
+cise specifications for the production of Agent Orange.* 
+The United States periodically inspected Hercules’ and 
+Thompson’s plants to verify that the composition of the 
+Agent Orange produced met these specifications. While 
+the United States knew as early as 1959 that the manu- 
+facture of Agent Orange according to these specifications 
+would produce a highly toxic by-product known as 
+“dioxin,” Hercules and Thompson were ignorant of this 
+fact when they began manufacturing Agent Orange pur- 
+suant to the United States’ specifications. (Jt. App. 0446- 
+0447, 0450, 0459, 0465, 0467, 0489). 
+
+
+All of the Agent Orange produced by Thompson and 
+Hercules was provided to the United States under “rated 
+orders” pursuant to the Defense Production Act. See /n 
+Re Agent Orange Product Liability Litigation, 597 F. 
+Supp. 740, 844 (E.D.N.Y. 1984), aff'd, 818 F.2d 145 
+(2d Cir. 1987), cert. denied, 484 U.S. 1004 (1988). 
+
+
+* All citations t» “Jt. App. ——” refer to the Joint Appendix 
+filed in the proceedings before the United States Court of Appeals 
+for the Federal Circuit. 
+
+
+‘These specifications included the requirement that no warning 
+
+
+4 
+
+
+Thompson and Hercules would have been subject to civil 
+and criminal penalties, as well as mandatory injunctions, 
+if they had not complied with the United States’ demands. 
+These demands eventually resulted in the virtual takeover 
+of Hercules’ and Thompson’s production facilities, despite 
+the protestations of both Thompson and Hercules. Indeed, 
+in March of 1967 the United States Department of De- 
+fense directed Hercules to divert its entire herbicide pro- 
+duction capacity to the manufacture of Agent Orange. 
+The United States rejected Hercules’ request for some 
+relief from the government’s rated orders so that it could 
+satisfy its pre-existing commercial commitments. 
+
+
+Thompson went to great lengths to attempt to avoid 
+the compelled production of Agent Orange altogether. 
+Among other things, the President of Thompson person- 
+ally flew to Washington, D.C. and petitioned the Depart- 
+ment of Defense to release Thompson from the rated 
+orders so that it would not have to manufacture Agent 
+Orange at all. These efforts, however, proved unavailing 
+and Thompson was ordered under the Defense Production 
+Act to produce Agent Orange. (App. 4a). 
+
+
+B. The Agent Orange Litigation 
+
+
+In the late 1970s, Hercules and Thompson, along with 
+other Agent Orange manufacturers, were sued in a class 
+action by thousands of veterans and others seeking dam- 
+ages for health problems resulting from exposure to Agent 
+Orange (“Agent Orange Litigation”). The United States 
+was brought into the case by the defendant manufacturers 
+as a third-party defendant. The Agent Orange plaintiffs 
+alleged that Agent Orange produced in accordance with 
+government cations contained dioxin as a by- 
+product, which was alleged to be one of the most poten- 
+tially ‘toxic substances known to man. The. plaintiffs 
+sought up to $40 billion in damages. (Jt. App. 0510). 
+
+
+a 
+2 
+‘= 
+
+
+5 
+
+
+grounds that they were not subject to suit because, in 
+manufacturing Agent Orange, they complied in full with 
+government specifications, This defense, now known as 
+the “government contractor defense,” would subsequently 
+be recognized by a sharply divided Court in Boyle v. 
+United Technologies Corp., 487 U.S. 500 (1988), 
+cert. denied, 488 U.S. 994 (1988) (“Boyle”). Although 
+Judge Pratt, the first district judge assigned to the case, 
+wrote a decision that granted petitioners’ motion, /n Re 
+Agent Orange Product Liability Litigation, 565 F. Supp. 
+1263 (E.D.N.Y. 1983), Judge Weinstein took over the 
+Agent Orange litigation and withdrew Judge Pratt’s opin- 
+ion before it was entered as a formal judgment.® There- 
+after, Judge Weinstein ruled that Hercules and Thompson 
+would remain as defendants in the litigation and that the 
+viability of the government contractor defense could not 
+be determined on summary judgment, but would have 
+to be determined by the jury during the trial on liability. 
+In Re Agent Orange Product Liability Litigation, 100 
+F.R.D. 718, 723 (E.D.N.Y. 1983), aff'd, 818 F.2d 145 
+(2d Cir. 1987), cert. denied, 484 U.S. 1004 (1988). 
+
+
+Rather than risk a catastrophic judgment and incur 
+enormous attorneys’ fees and litigation costs in the proc- 
+ess, even if successful, Hercules and Thompson joined the 
+rest of the defendant companies in their decision to settle 
+the matter. The United States was invited to participate 
+in the settlement negotiations, but refused to do so. In 
+Re Agent Orange Product Liability Litigation, 597 F. 
+Supp. at 879. On May 7, 1984, on the eve of trial, 
+Hercules, Thompson, and all of the other defendant com- 
+panies settled the Agent Orange class action for a total 
+of $180 million to be divided among the defendants on 
+a market share basis. Hercules’ share of the settlement 
+was $18,772,568. Thompson’s share of the settlement 
+was $3,096,597. There is no issue at this point about 
+the reasonableness of the amount of the settlement or 
+
+
+5In the absence of the entry of a formal, judgment, Judge 
+Pratt’s decision was, of course, a legal nullity. Fed. R. Civ. P. 58. 
+
+
+a a. AVF 
+
+
+6 
+
+
+petitioners’ contribution thereto. Also, during the litiga- 
+ton, Hercules incurred defense costs in excess of $6 mil- 
+lion. Thompson incurred defense fees in excess of $3 
+million. 
+
+
+The district court affirmed the Agent Orange settle- 
+ment as reasonable and fair to the plaintiff class four 
+months later. At that time, the district court held that, 
+if Hercules and Thompson had not settled, “there was a 
+possibility of an ultimate liability with claims totalling 
+billions of dollars.” In Re Agent Orange Product Liability 
+Litigation, 597 F. Supp. at 749 (emphasis added). 
+
+
+Some of the Agent Orange plaintiffs opted out of the 
+class action settlement and continued to press their in- 
+dividual claims. The petitioners later moved for summary 
+judgment against these individuals on various grounds, 
+including the government contractor defense. However, 
+the United States, which was still a third-party defendant 
+in the case, vehemently opposed the assertion of this 
+defense, arguing in its brief in opposition to the motion 
+for summary judgment that “there exists substantial and 
+convincing evidence that establishes not only that there 
+are indeed genuine issues of material fact directly bearing 
+on the validity of each and every contention relating to 
+the government contract defense, but also that the defense 
+does not further the policies it purports to serve.” (Jt. 
+App. 0664) (emphasis added). Despite the government’s 
+opposition, the court awarded summary judgment against 
+the plaintiffs who had opted out from the class. In Re 
+Agent Orange Product Liability Litigation, 611 F. Supp. 
+1223 (E.D.N.Y. 1985), aff'd, 818 F.2d 187 (2d Cir. 
+1987), cert. denied, 487 U.S. 1234 (1988). 
+
+
+_ Even though Hercules and Thompson resolved the 
+Agent Orange litigation on comparatively favorable terms, 
+the cost of the settlements and the legal fees seriously 
+affected the financial status of both Hercules and Thomp- 
+son. In fact, Thompson ultimately was forced to cease 
+operations due to the threat of future liabilities stemming 
+
+
+7 
+
+
+from its manufacture of Agent Orange. Both companies 
+continue to defend Agent Orange tort claims at consider- 
+able expense.® 
+
+
+C. The Government’s Escape From Accountability 
+
+
+On June 8, 1990 and May 7, 1990 respectively, Her- 
+cules and Thompson independently commenced actions in 
+the United States Claims Court seeking reimbursement 
+from the United States for the settlement and defense costs 
+they had incurred in connection with the Agent Orange 
+litigation. Their complaints set forth several different 
+claims for relief based on a contractual breach by the 
+government, plus a claim under the Defense Production 
+Act based on indemnification. 
+
+
+Petitioners’ principal contract claim was based on United 
+States v. Spearin, 248 U.S. 132 (1918) (“Spearin”). 
+Hercules and Thompson each alleged that the government 
+
+
+6 Indeed, despite the supposed invincibility of the government 
+contractor defense, Hercules and other Agent Orange manufactur- 
+ers continue to face a wide range of claims stemming from their 
+manufacture of Agent Orange for the government. Those claims 
+include efforts to have the entire Agent Orange settlement agree- 
+ment thrown out and the original class action reinstated, Jvy v. 
+Diamond Shamrock Chemicals Co., 114 S. Ct. 1125 (1994) (deny- 
+ing certiorari in case urging reopening of the Agent Orange liti- 
+gation); independent actions by other Vietnam veterans who 
+assert that their claims did not arise until after the settlement in 
+the Agent Orange litigation, e.g., Ryan v. Dow Chemical Co., 781 
+F. Supp. 984 (E.D.N.Y. 1992); and claims by civilians allegedly 
+exposed to Agent Orange in Vietnam who were outside the scope 
+of the Agent Orange class as certified by Judge Weinstein, e.g., 
+Ryan v. Dow Chemical Co., supra. On May 17, 1994, a group of 
+Korean Army veterans who served in Viet Nam moved to inter- 
+vene in the original Agent Orange litigation for the purposes of 
+participating in the settlement fund. Subsequently, on August 2, 
+1994, twenty-four Korean veterans, out of some 320,000 Koreans 
+who served in Vietnam, filed suit in federal district court against 
+the same Agent Orange defendants seeking damages for personal 
+injuries allegedly suffered from exposure to Agent Orange. Jae 
+Sup Chung v. Dow Chemical Co., No. C-94-2518 (N.D. Cal. filed 
+August 2, 1994). 
+
+
+8 
+
+
+breached a contractual warranty of specifications by re- 
+quiring them to manufacture a product, pursuant to gov- 
+ernment design specifications, that the United States (but 
+not petitioners) knew would contain a dangerous by- 
+product (dioxin). Those specifications ultimately proved 
+to be the basis for veteran plaintiffs’ claims that Agent 
+Orange was defective and thereby subjected Hercules and 
+Thompson to potential third-party liability of an enormous 
+magnitude.” 
+
+
+The claim for indemnification under the Defense Pro- 
+duction Act was predicated on the plain language of 50 
+U.S.C. § 2157, which specifically provides that “[n]o 
+person shall be held liable for damages or penalties for 
+any act or -failure to act resulting directly or indirectly 
+from compliance with a rule, regulation, or order issued 
+pursuant to this Act.” Because Thompson and Hercules 
+had produced Agent Orange under an “order issued pur- 
+suant to this Act,” this provision evidenced a clear Con- 
+gressional intent to indemnify petitioners against any 
+losses they incurred as a result of the Agent Orange 
+litigation. 
+
+
+Prior to any discovery taking place and solely on the 
+basis of the pleadings, the Claims Court dismissed the 
+complaints of Hercules and Thompson on summary judg- 
+ment. The trial court held that all of the claims asserted 
+were barred as a matter of law. (App. 47a-115a). 
+
+
+A divided panel of the Federal Circuit affirmed the 
+dismissal on the grounds that the government contractor 
+defense would have provided Hercules and Thompson 
+with an absolute defense to the claims of the plaintiff class 
+in the Agent Orange litigation had that matter been 
+
+
+Other claims for sellef ervse fvean the Goeveriesint's tireach of 
+ne ee ee ee ee 
+ing the povential hazards of Agent Orange and dioxin; 
+
+
+F 
+¢: 
+
+
+9 
+
+
+litigated to a conclusion. In particular, the Federal Cir- 
+cuit held: 
+
+
+There can be no serious doubt that had the class 
+action Agent Orange Litigation proceeded to termi- 
+nation, no liability would have been imposed against 
+Hercules or Thompson. 
+
+
+(App. 23a). The court of appeals thus held that the cost 
+of settlement incurred by Hercules and Thompson was 
+purely voluntary and had nothing to do with any breach 
+by the United States of a warranty of specifications.® 
+
+
+As to the claim for indemnity under the Defense Pro- 
+duction Act, the court of appeals concluded that, while 
+the plain language of the act grants indemnity as a quid 
+pro quo for the action the contractor is compelled to take, 
+the ordinary practice of indemnifying against the costs 
+of delay arising from requiring priority of performance 
+for the government over private customers is the limit of 
+the indemnity. Accordingly, costs that arise from com- 
+pulsion to accept performance in and of itself are not 
+included within the scope of the indemnification. (App. 
+28a-33a). 
+
+
+Judge Plager dissented from the panel’s disposition of 
+each of the claims asserted by petitioners, concluding 
+that “the law affords substantially more justice than the 
+majority concedes.” (App. 34a). After tracing the con- 
+voluted and complicated history of “the so-called ‘gov- 
+ernment contractor defense,’” Judge Plager observed that 
+the majority’s suggestion “that the evolving government 
+
+
+8 As to petitioners’ claim that the government breached its 
+obligation to disclose superior knowledge, the court of appeals 
+created a new rule that the doctrine of superior knowledge only 
+extends to undisclosed information which increases costs during 
+performance of a contract. “cagerciahes: terete aererepanaanasher 
+
+
+10 
+
+
+contractor defense would clearly dictate the outcome in 
+the original Agent Orange litigation seems to me to be 
+unwarranted historical revisionism, out of place in the 
+decision before us in this case.” (App. 40a).° Similarly, 
+Judge Plager viewed the majority’s conclusion on the 
+claim for indemnification under the Defense Production 
+Act as “a non sequitur,” and one which “ignores the lan- 
+guage of the statute.” (App. 44a). 
+
+
+REASONS FOR GRANTING THE PETITION ” 
+
+
+Judge Plager’s dissent plainly and eloquently states the 
+equities involved in petitioners’ effort to recover for the 
+losses they suffered as a result of the government’s deci- 
+sion to “seize” their companies, and compel them “to 
+engage in a dangerous enterprise.” (App. 44a, 46a). It 
+cannot seriously be disputed that petitioners were harmed 
+by the government’s actions in mandating the manu- 
+
+
+® As to the majority’s basis for dismissing the superior knowl- 
+edge claim asserted by petitioners, Judge Plager commented that 
+“(t)here is neither prior authority nor present reason to limit the 
+doctrine of superior knowledge to require compensation only for 
+the difficulties incurred during performance. . . . if the Govern- 
+ment’s incomplete or misleading information, or its particular 
+specification of its requirements, imposes losses, now or later, on 
+the contractor, then the Government, like any other contractor, 
+should not escape responsibility.” (App. 41a, 48a). 
+
+
+10 The Federal Circuit has exclusive jurisdiction over final deci- 
+sions of the United States Court of Federal Claims. See 28 U.S.C. 
+§ 1295(a) (3). Accordingly, there will rarely, if ever, be a conflict 
+among the Circuits regarding issues raised in cases filed in the 
+United States Court of Federal Claims. However, because the 
+Federal Circuit has exclusive jurisdiction over the United States 
+Court of Federal Claims and certain other federal courts, the 
+rules that the Federal Circuit applies are “a matter of special 
+importance to the entire Nation.” Cardinal Chemical Co. v. Morton 
+International, Inc., —— U.S. ——, 118 8. Ct. 1967, 1971 (1998). 
+This Court has not hesitated to grant review in cases involving 
+issues of recurring importance to the relationship between the 
+federal government and private litigants. See ¢.g., Gardner v. 
+Brown, 6 F.3d 1456 (Fed. Cir. 1998), cert. granted, 114 8. Ct. 
+1396 (1994). 
+
+
+11 
+
+
+facture of a product pursuant to specifications which the 
+government supplied and which it knew would result in 
+the generation of a dangerous by-product (dioxin). The 
+government’s actions led inexorably to the Agent Orange 
+litigation, and just as inexorably to the settlement of that 
+matter on the eve of trial. The only dispute is whether 
+the law provides a means by which this wrong can be 
+redressed. 
+
+
+According to the court of appeals, the law does not 
+provide a remedy for Thompson and Hercules because 
+petitioners “volunteered” to suffer the damages which 
+inevitably flowed from the government’s conscription of 
+their manufacturing facilities. The majority engages in 
+this “historical revisionism” (App. 40a), to achieve what 
+it sees aS a necessary symmetry between tort and contract 
+principals: where sovereign immunity would preclude any 
+private tort claims against the United States as a result 
+of the government’s discretionary activities, then innocent 
+manufacturers compelled to assist in those activities must 
+also be precluded from redress in contract against the 
+United States for the damages the manufacturers suffer 
+when those same tort claims are asserted against the 
+manufacturers. 
+
+
+In the name of protecting the government fisc, the 
+court of appeals denies petitioners the justice they de- 
+serve. The court forces this result by looking past the 
+reasonableness of the settlement and conducting an in- 
+quiry into the underlying tort. This adventure undermines 
+the established policy of encouraging reasonable settle- 
+ment of litigation. This decision thus threatens, in the 
+long run, to increase the costs of government contracting, 
+costs which will ultimately be borne by the United States. 
+This decision also threatens to involve the courts in con- 
+voluted efforts by the government to bar contract claims 
+with tort defenses, creating inappropriate arguments about 
+settlements entered with good cause and in good faith. 
+The court concludes that Hercules and Thompson must 
+bear the crippling costs of redressing the veterans for th. 
+
+
+12 
+
+
+government’s acts because it misapprehends Boyle to re- 
+quire a result which insulates the government. 
+
+
+Not only do established contract law principles and 
+policies require that petitioners be able to recover against 
+the United States the damages they suffered as a result 
+of the United States’ breach of its contractual obligations, 
+but the explicit language of the Defense Production Act 
+establishes that Congress likewise believed the govern- 
+ment should be held responsible for these same damages. 
+
+
+I. THE COURT OF APPEALS’ DETERMINATION 
+CONFLICTS WITH ESTABLISHED CONTRACT 
+PRINCIPLES AND IMPORTANT POLICY CON- 
+SIDERATIONS. 
+
+
+The court of appeals incorrectly held that Hercules and 
+Thompson were barred from suing the government for 
+breach of an implied warranty of specifications because 
+they settled the Agent Orange litigation. This decision 
+is in direct conflict with the contractual right of action 
+against the government that this Court established for 
+
+
+government contractors decades ago in Spearin, 248 U.S. 
+132. 
+
+
+The elements necessary for a contractor to bring a 
+claim against the government under Spearin are as fol- 
+lows: 
+
+
+(1) The specifications under the contract are design 
+specifications, i.e., they set forth in precise de- 
+tails the materials to be employed and the man- 
+ner in which the work is to be performed; 
+
+
+(2) The design specifications were devised and 
+drafted by the government; and 
+
+(3) The government had superior knowledge con- 
+
+cerning that part of the design specification 
+
+causing the defect in the product contracted for. 
+
+Johns-Manville Corp. v. United States, 13 Cl. Ct. 72, 
+
+118-120 (1987), vacated on jurisdictional grounds, 855 
+
+
+13 
+
+
+F.2d 1571 (Fed. Cir. 1988). Where this showing is 
+made, Spearin stands for the proposition that the con- 
+tractor can recover damages from the United States for 
+harm caused to the contractor by the defective specifica- 
+tions. 
+
+
+Hercules and Thompson both established all of the 
+necessary elements for a Spearin claim against the gov- 
+ernment. It has been judicially determined in the Agent 
+Orange litigation that the government had mandated de- 
+sign specifications for Agent Orange; that Hercules and 
+Thompson had followed these specifications exactly; that 
+the alleged defect in Agent Orange that gave rise to the 
+Agent Orange litigation arose directly from the specifica- 
+tions; and that this defect was known to the government 
+at the time it compelled Hercules and Thompson to pro- 
+duce Agent Orange. As damages, Hercules and Thomp- 
+son asserted the costs of the Agent Orange litigation set- 
+tlements and their legal fees. 
+
+
+The court of appeals held that a Spearin claim was 
+barred because Hercules and Thompson could not prove 
+causation between their damages and the breach of war- 
+ranty. Specifically, the court held that, had Hercules and 
+Thompson pursued the Agent Orange litigation to com- 
+pletion, eventually a court would have determined that 
+the government contractor defense as later articulated in 
+Boyle barred the imposition of tort liability against them. 
+Thus, by settling with the class—instead of waiting for 
+the jury or the court to absolve them of any liability— 
+Hercules and Thompson voluntarily assumed liability for 
+which the government was not responsible.” 
+
+
+Significantly, the court of appeals did not and could not 
+cite any legal authority in support of this unprecedented 
+decision. Indeed, the court’s holding directly conflicts 
+
+
+11 Notably, had Hercules and Thompson submitted to trial and 
+jost, their combined claim against the Government now could total 
+billions of dollars, rather than $24 million. See In Re Agent Orange 
+Product Liability Litigation, 597 F. Supp. at 749. 
+
+
+14 
+
+
+with established principles of contract law. In particular, 
+where a breach by one party to a contract results in 
+claims by third persons against the other party to the 
+contract, the party sued is not required to litigate the 
+third-party c ims to conclusion and lose in order to 
+recover damages associated with the third-party claims. 
+Rather, “in furtherance of the policy favoring private 
+settlement of disputes, the injured party is also allowed 
+to recover the reasonable amount of any settlement to 
+avoid litigation, together with the costs of settlement.” 
+Restatement (Second) of Contracts § 351, cmt. c (1981). 
+
+
+This rule allows parties like petitioners, “caught in the 
+middle” between personal injury plaintiffs and other par- 
+ties responsible for the injuries, to settle the third-party 
+claims and then recover in contract the costs of that 
+settlement against the other party where they can demon- 
+strate 1) they were potentially liable to the third parties 
+as a result of the conduct of the other party to the con- 
+tract and 2) the settlement was reasonable based on the 
+size of the possible recovery and the probability of the 
+claimant’s success. Contrary to the holdings below, this 
+is a factual inquiry unsuitable for disposition on summary 
+judgment. 
+
+
+For example, in Parfait v. Jahncke Service, Inc., 484 
+F.2d 296, 304 (Sth Cir. 1973), cert. denied, 415 USS. 
+957 (1974), one company obtained reimbursement from 
+another company for the cost of settling a lawsuit brought 
+against it by an employee of the second company. Reim- 
+bursement was granted on grounds that a showing of the 
+first company’s potential liability to the employee was 
+enough to justify the settlement. The application of this 
+policy is so clear that in Damanti v. A/S Inger, 314 F.2d 
+
+
+a jury finding that there was no underlying third-party 
+liability, on grounds that the shipowner faced potential 
+liability at the time that it settled. The decision below 
+
+
+15 
+
+
+manifestly conflicts with these decisions concerning the 
+proper contract principles that should apply here. 
+Moreover, the court of appeals’ decision in this case 
+reflects a profound lack of appreciation for the realities 
+of litigation which will undermine the strong judicial 
+policy favoring settlements. See Janneh v. GAF Corp., 
+887 F.2d 432, 435 (2d Cir. 1989), cert. denied, 498 
+U.S. 865 (1990) (“Litigants, courts, and Congress view 
+settlement as a positive force, indispensable to judicial 
+administration.” ); Ahern v. Central Pacific Freight Lines, 
+846 F.2d 47, 48 (9th Cir. 1988) (quoting from United 
+States v. McInnes, 556 F.2d 436, 441 (9th Cir. 1977) ) 
+(“there is an overriding public interest in settling and 
+/ quieting litigation”). It is impossible to know whether 
+; the government contractor defense would have prevailed 
+against the ciass in the Agent Orange litigation had it 
+been submitted to the jury after trial. As stated succinctly 
+by the dissenting judge below: “I do not know what the 
+ultimate decision in the Agent Orange litigation would 
+have been on this issue, nor does anyone.” (App. 40a). 
+Obviously, it was the existence of that uncertainty at the 
+time that legitimately motivated the parties to settle.” To 
+
+
+ie, 
+
+
+12 Contrary to the court of appeals’ holding, there are many rea- 
+sons why, rightly or wrongly, the government contractor defense 
+might have failed, First, the government contractor defense is a 
+fact-specific, affirmative defense to liability. Boyle, 487 U.S. at 
+514 (“whether the facts establish the conditions for the [govern- 
+ment contractor] defense is a question for the jury.”) It does 
+not immunize government contractors from being sued in tort 
+actions, in the way that sovereign immunity precludes the asser- 
+tion of such actions against the Government. See Osborn v. Bank 
+of United States, 22 U.S. 738 (1824). There is no guarantee that 
+a jury or court would have concluded that the defense applied to 
+Hercules and Thompson. 
+
+
+the test articulated by this Court in Boyle would cer- 
+
+
+16 
+
+
+penalize petitioners for their reasonable decision is unfair 
+and distorts the litigation process in ways that can only 
+Cause a greater drain on scarce judicial resources. 
+
+
+However, if the court of appeals’ decision is permitted 
+to .tand, every time a government contractor with a 
+potential Spearin claim against the government is sued by 
+a third-party plaintiff, the contractor will face a Hobson’s 
+choice. If the government contractor settles tiie third- 
+party action, it will face the possibility that a federal 
+court will decide in hindsight that it could have avoided 
+any liability in the third-party action by litigating to con- 
+clusion the government contractor defense. If the govern- 
+ment contractor does not settle, it will risk greater ex- 
+posure and expense by proceeding to trial on the third- 
+party claim. If the contractor prevails in the third-party 
+action, no matter what the basis, the government will 
+argue that the contractor has suffered no damages from 
+any breach of warranty by the government. If the con- 
+tractor loses, the government will argue that the con- 
+tractor’s failure to establish the government contractor 
+defense in the underlying tort ac.ion precludes it from 
+establishing the elements of a Spcarin claim against the 
+United States. In sum, the decision below severely under- 
+mines the Spearin claim without any discussion or even 
+
+
+eral interests” are involved. 487 U.S. at 505-07, 511-12. The Fed- 
+eral Circuit in fact bases its reasoning upon the perils of govern- 
+ment liability under state law. Yet the liability petitioners faced 
+in federal district court was expressly not based upon state law, but 
+a “national consensus law.” See In Re Agent Orange Product Lia- 
+bility Litigation, 580 F. Supp. 690 (E.D.N.Y. 1984). Federal inter- 
+ests were tested by federal law in this matter, and no preemption 
+issue existed in this litigation. Boyle would thus not have insulated 
+petitioners. (App. 37a-40a). 
+
+Third, this defense failed Hercules and Thompson when they 
+filed their motions for summary judgment against the class and 
+the Government itself vehemently opposed the defense on factual 
+and policy grounds when Hercules and Thompson later raised it 
+against the opt-out plaintiffs in the Agent Orange litigation. 
+
+
+SOE Rr ee ae. dee 
+
+
+Se ee 
+
+
+17 
+apparent recognition of that fact. For that reason alone, 
+review by this Court is warranted. 
+
+In response to the holding of the court of appeals, 
+government contractors will be required either to raise 
+their prices to cover costs which will no longer be recov- 
+erable in contract from the United States, or refuse con- 
+tracts altogether, thereby restricting potential competition 
+which will likewise increase costs. This is precisely the 
+result which Boyle sought to avoid. Boyle, 487 U.S. at 
+507. Given the importance of this issue to the relation- 
+ship between the United States and its contractors, the 
+Court should grant the petition. 
+
+
+Il. THE COURT OF APPEALS’ EFFORTS TO APPLY 
+CONCEPTS AND POLICIES DEVELOPED IN TORT 
+LAW TO THE ARENA OF GOVERNMENT CON- 
+TRACT LAW WILL CREATE UNNECESSARY 
+CONFUSION AND UNCERTAINTY. 
+
+
+Established boundaries exist between claims against the 
+United States sounding in contract versus those sounding 
+in tort. In the area of tort claims as governed by the 
+Federal Tort Claims Act, a complex jurisprudence has 
+developed around the government’s waiver of sovereign 
+immunity and the numerous exceptions and procedural 
+and substantive limitations to that waiver. The court of 
+appeals’ efforts to import that jurisprudence into the law 
+of government contracts under the Tucker Act is funda- 
+mentally flawed, constitutes judicial legislation, and threat- 
+ens to create untoward confusion and complexity in gov- 
+ernment contracting relations as the courts struggle to 
+accommodate a linkage between tort and contract prin- 
+ciples which should not exist. 
+
+
+Unlike tort claims against the government where no 
+privity exists and an affirmative waiver of sovereign im- 
+munity is required, Tucker Act cases arise between par- 
+ties in privity; the United States waives its protections 
+against parties with whom it enters into contractual rela- 
+tions. Where the breach and the damage are within the 
+
+contemplation of the contracting parties, no 
+
+
+18 
+
+
+further analysis of sovereign immunity need be made. 
+The court in a contract matter simply enforces the agree- 
+ment between the parties in the = of established prin- 
+ciples of contractlaw. 
+
+
+A suit which arises primarily from a contractual under- 
+taking is not barred merely because the negligence of the 
+United States ultimately results in the case developing a 
+“tort aspect.” American Ship Building Co. v. United 
+States, 207 Ct. Cl. 1002 (1975), rev’d other grounds, 
+654 F.2d 75 (Ct. Cl. 1981); Bird & Sons, Inc. v. United 
+States, 190 Ct. Cl. 426 (1970). This Court in Boyle 
+noted the contract basis of such actions, stating that the 
+“liability may be styled one in tort, but it arises out of 
+performance of the contract.” 487 U.S. at 505. The 
+United States is without question answerable for its con- 
+tract breaches, even when the contract involves purchases 
+and designs which are protected from tort claims by third 
+parties under the same discretionary function exception in 
+which Boyle grounded the government contractor defense. 
+As recognized by the court in Peter v. United States, 6 
+Cl. Ct. 768, 778 (1984): 
+
+
+The policy considerations that motivate the sovereign 
+
+. do not create an umbrella that shields the Gov- 
+ernment from liability for breach of valid contracts 
+customarily entered. A multitude of defense con- 
+tractors would be surprised to be told that contracts 
+for ship construction, aircraft production and muni- 
+tions testing were unenforceable because they were 
+related to defense and foreign policy goals. 
+
+
+Where the contractor’s suit against the government is 
+for breach of contract, the parties, the injury, and the 
+cause of action are different than in third-party tort prac- 
+tice. If the contractor makes the necessary showing to 
+recover damages under established contract principles, in- 
+cluding a showing that the government has breached its 
+obligations under the contract and that the contractor. has 
+incurred damages stemming from-.a third-party lawsuit 
+caused by the government’s ny ae 9 it is simply immaterial 
+that the existence of.a tort defense (the government con- 
+
+
+i9 
+
+
+tractor defense) might have prevented the contractor from 
+being further damaged.” 
+
+
+Ill, THE COURT OF APPEALS IGNORED THE PLAIN 
+LANGUAGE OF THE DEFENSE PRODUCTION 
+ACT REQUIRING THE GOVERNMENT TO REIM- 
+BURSE PETITIONERS FOR THE DAMAGES THEY 
+SUFFERED AS A CONSEQUENCE OF MANUFAC- 
+TURING AGENT ORANGE. 
+
+
+Consistent with the principles discussed above, Con- 
+gress itself clearly addressed the issue of how liabilities 
+should be allocated when the government and its con- 
+tractors face damage claims together as a result of the 
+government-compelled actions of the contractor. Con- 
+gress not only left the Tucker Act free of exceptions to 
+contractual liability based on the government’s discretion- 
+ary activities, but Congress also stated unequivocally that 
+a contractor compelled to perform a contract by the gov- 
+ernment is held harmless for any third-party liabilities 
+arising as a result. 
+
+
+Specifically, the Defense Production Act, under whose 
+authority the government compelled petitioners to accept 
+and perform the Agent Orange production contracts, au- 
+thorizes the President to: 
+
+
+require that performance under contracts or orders 
+(other than contracts of employment) which he 
+deems necessary or appropriate to promote the na- 
+tional defense shall take priority over performance 
+of any other contract or order and, for the purpose 
+of assuring such priority, to require acceptance and 
+performance of such contracts or orders in prefer- 
+ence to other contracts or orders. . . 
+
+
+50 U.S.C. § 2071(a) (emphasis supplied ). 
+
+
+18 Indeed, the Federal Acquisition Regulations (FAR) applica- 
+ble to cost reimbursement contracts make no distinction between 
+the recoverability of a tort-related cost and any other cost in- 
+curred in the, course of performing the contract. See FAR 
+$§ 28.811-2 and 52.228-7(c). The court of appeals’ ruling below, 
+therefore, threatens to undermine rules established in the FAR. 
+
+
+20 
+
+
+The indemnity provision of the Defense Production 
+Act broadly and plainly provides, inter alia: 
+
+
+No person shall be held liable for damages or penal- 
+ties for any act or failure to act resulting directly or 
+indirectly from compliance with a rule, regulation, 
+or order issued pursuant to this Act. ... No person 
+shall discriminate against orders or contracts to 
+which priority is assigned or for which materials or 
+facilities are allocated under Title I of this Act. . 
+
+
+50 U.S.C. § 2157 (emphasis supplied). 
+
+
+Petitioners contend that the government’s compulsion 
+of Hercules and Thompson to manufacture Agent Orange 
+and its control over specifications and production, in con- 
+junction with the “hold harmless” provision of the De- 
+fense Production Act, create an implied-in-fact agreement 
+to indemnify petitioners for the damages they suffered in 
+the Agent Orange litigation. The syllogism by which 
+
+
+14 The court of appeals read the second sentence as narrowly 
+limiting the scope of the protections created in the first sentence. 
+(App. 3la-32a). No rule of statutory construction allows the 
+extremely broad language of the first sentence to be constrained 
+to only the particulars that follow. The second sentence in fact 
+addresses a different protection. As Judge Plager noted in his 
+dissent (App. 44a-45a), the languages of the hold harmless provi- 
+sion bars liability for damages without qualification as to type, and 
+contains sweeping language barring liability for any damages 
+directly or indirectly resulting from compliance with any order 
+issued under the Act. No language limits this provision to only 
+those orders which happen to involve priority status. 
+
+
+15 The context in which the government compelled petitioners 
+to manufacture Agent Orange constitutes an implied-in-fact agree- 
+ment by the government to indemnify petitioners for losses to 
+third parties. This indemnity goes to the very heart of the rela- 
+tionship the government took on in its treatment of petitioners. 
+In Ryan Stevedoring Co. v. Pan-Atlantic Steamship Corp., 350 U.S. 
+124, 188 (1956), this Court required an indemnitor to perform. In 
+discussing the stevedore’s obligation to handle operations safely, 
+the Court concluded that “This obligation is not a quasi-contractual 
+obligation implied in law or arising out of a noncontractual relation- 
+ship. It is of the essence of petitioner’s stevedoring contract.” 
+
+
+> ioc n “a ea Na ere 
+
+
+21 
+
+
+the Defense Production Act applies here is straightfor- 
+ward: the indemnity created in the Act is co-extensive 
+with the requirements imposed by the Act (a quid pro 
+quo); Thompson and Hercules were required to accept 
+and perform a contract; therefore, the indemnity covers 
+the risks Thompson and Hercule. incurred by virtue of 
+their performance of the contract. 
+
+
+The court of appeals accepted each premise, agreeing 
+that “[llogically, then, the protection afforded by section 
+[2157] should correspond to the risk imposed” and 
+recognized that Thompson and Hercules were compelled 
+under the authority of the Defense Production Act to 
+accept contracts they did not want to perform. (App. 
+28a). Instead of ending the syllogism by holding the 
+United States liable, the court of appeals gymnastically 
+leapt over the logical conclusion and instead held no 
+indemnity as a matter of law. In an act of judicial legisla- 
+tion, the majority accomplished this by limiting the hold 
+harmless provision only to those damages that arise from 
+the use of Defense Production Act authority to require 
+priority in the performance of contracts, and excluding 
+from indemnity harms which arise from forcing accept- 
+ance of a contract in the first instance. Thompson and 
+Hercules were required to accept and perform contracts 
+they otherwise would have rejected. Even though “assur- 
+ing such priority” is one of the powers conferred by the 
+Act, there is nothing in the language of the hold harmless 
+provision that arbitrarily limits the quid pro quo in a way 
+that exposes a defense contractor to enormous potential 
+liability with no means of avoiding the liability either 
+before or after it is incurred. This is outrageous and 
+should not be countenanced by the Court. 
+
+
+Given the confusion which surrounds the efforts to 
+apply this Court’s reasoning in Boyle to the forced pro- 
+duction of Agent Orange, the Defense Production Act 
+offers a straightforward legal basis by which the wrong 
+done petitioners can be remedied. Co.apelled under the 
+authority of this Act to manufacture a defoliant petition- 
+
+
+22 
+
+
+ers later discovered was highly toxic, and which resulted 
+in one of the largest potential damage exposures ever 
+faced, petitioners followed the least damaging course to 
+all parties concerned. For these efforts, one has been put 
+out of business and the other has suffered severe losses. 
+The Defense Production Act states clearly and unequiv- 
+ocally that “No person shall be held liable for damages 
+to act resulting directly or indirectly from compliance 
+with a[n] . . . order issued pursuant to this Act.” This 
+Court has the opportunity to end a manifest injustice to 
+petitioners, and in so doing set the law on its proper 
+course so that further exercises of authority under the 
+Defense Production Act will not impose crippling burdens 
+on defense contractors forced to protect national security 
+interests. 
+
+
+CONCLUSION 
+The petition for a writ of certiorari should be granted. 
+Respectfully submitted, 
+
+GREGORY W. HOMER JAMES S. TURNER 
+RHONDA D. ORIN SWANKIN & TURNER 
+ANDERSON KILL OLICK 1424 16th Street, N.W. 
+
+& OSHINSKY Suite 105 
+2000 Pennsylvania Ave.,N.W. Washington, D.C. 20036 
+Suite 7500 (202) 462-8800 
+Washington, D.C. 20006 CARTER G. PHILLIPS * 
+(202) 728-3100 SIDLEY & AUSTIN 
+WALTER S. ROWLAND 1722 I Street, N.W. 
+HERCULES INCORPORATED Suite 900 
+Hercules Plaza Washington, D.C. 20006-3795 
+
+
+Wilmington, Delaware 19894 (202) 736-8000 
+(302) 594-5000 
+
+
+* Counsel of Record 
+
+

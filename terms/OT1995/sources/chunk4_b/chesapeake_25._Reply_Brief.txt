@@ -1,0 +1,389 @@
+Nos. 94-1893 and 94-1900 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+UNITED STATES OF AMERICA, ET AL., PETITIONERS 
+W. 
+
+
+THE CHESAPEAKE AND POTOMAC TELEPHONE 
+COMPANY OF VIRGINIA, ET AL. 
+
+
+NATIONAL CABLE TELEVISION ASSOCIATION, IN., 
+PETITIONER 
+
+
+U. 
+BELL ATLANTIC CORPORATION, ET AL. 
+
+
+ON WRITS OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+REPLY MEMORANDUM IN SUPPORT OF 
+SUGGESTION OF MOOTNESS 
+
+
+DREW S. Days, III 
+Solicitor General 
+Department of Justice 
+Washington, D.C. 20530 
+
+
+(202) 514-2217 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases: Page 
+Ashwander v. TVA, 297 U.S. 288 (1936) 4 
+City of Mesquite v. Aladdin's Castle, Inc., 455 U.S. 
+
+— . 7. 6 
+Department of Justice v. Galioto, 477 U.S. 556 
+
+| a en 6 
+Fusari v. Steinberg, 419 U.S. 379 (1975) 0.0.0.0... 4 
+Kremens v. Bartley, 431 U.S. 119 (1977) ............ 4, 5, 6 
+Princeton University v. Schmid, 455 U.S. 100 
+
+—— —Q—A—Aͤ —ꝛ——W— 2 4. 5, 6 
+
+
+Northeastern Florida Chapter of Associated Con- 
+tractors v. City of Jacksonville, 113 8. Ct. 2297 
+
+
+— mx ̃ —ůů ů ů ů ů ů ůů—ꝑ 3. 4 
+United Building & Construction Trades Council 
+v. Mayor and Council, 465 U.S. 208 (1984) ............ 4 
+United States v. Munsingwear, Inc, 340 U.S. 36 
+ee a a e 6 
+Statutes: 
+
+
+Communcations Act of 1934, 47 U.S.C. 151 et seq. 
+(1988 & Supp. V 1993): 
+
+
+. 2 
+i, 47 U.S.C. S“) . . . 1,4, 6 
+11 2 
+
+
+Tele communications Act of 1996, Pub. L. No. 104 
+104 (Feb. 8, 1996): 
+
+
+r l 
+r 2. 3 
+Z 2 
+Zr 3 
+e .... a 2 
+F 2 oO 2 
+r 3 
+!... 2 
+FE A So, en ah 2 
+
+
+(I) 
+
+
+* 
+
+
+2 
+
+
+ee! | ae 
+
+
+In the Supreme Court of the United States 
+
+
+OcTOBER TERM, 1995 
+
+
+No. 94-1893 
+
+
+UNITED STATES OF AMERICA, ET AL., PETITIONERS 
+, v. 
+
+
+THE CHESAPEAKE AND POTOMAC TELEPHONE 
+COMPANY OF VIRGINIA, ET AL. 
+
+
+No. 94-1900 
+
+
+NATIONAL CABLE TELEVISION ASSOCIATION, INC., 
+PETITIONER 
+
+
+5 
+BELL ATLANTIC CORPORATION, ET AL. 
+
+
+ON WRITS OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+REPLY MEMORANDUM IN SUPPORT OF 
+SUGGESTION OF MOOTNESS 
+
+
+1. In Section 302 of the Telecommunications Act of 
+1996 (1996 Act), Congress (a) repealed the prohibition 
+
+
+in former 47 U.S.C. 533(b) against cross-ownership of 
+local exchange carriers (LECs) and traditional cable 
+
+
+(1) 
+
+
+2 
+
+
+systems in the same area; (b) authorized LECs 
+immediately to offer cable service, even over their 
+own telephone wires in their own service areas: (e) 
+also authorized LECs to operate “open video sys- 
+tems” over their telephone wires, subject only to 
+regulations to be issued by the Federal Communica- 
+tions Commission (FCC) within six months, con- 
+sistent with the “public interest, convenience, and 
+necessity; and (d) reduced regulatory burdens on 
+LEC operation of open video systems by, among other 
+things, exempting such systems from municipal fran- 
+chising and the leased-access requirement applicable 
+
+
+! Telecommunications Act of 1996, Pub. L. No. 104-104 (1996 
+Act), § 302(b)(1). 
+
+Under new Section 651(a)(3) of the Communications Act, 
+as added by Section 302(a) of the 1996 Act, a LEC may operate 
+a “cable system,” or it may operate an “open video system.” 
+Only open video systems must be operated in accordance with 
+the regulations to be issued by the FCC. Operation of an open 
+video system does carry certain advantages over operation of a 
+cable system, such as freedom from municipal franchising 
+requirements and leased-access requirements applicable to 
+operators of traditional cable systems. See new Section 
+653(c)(1) (exempting open video systems from Section 612 and 
+part III, which includes Section 621, of the Communications 
+Act, 47 U.S.C. 532. 541). On the other hand, operation of a 
+cable system may carry certain advantages, such as freedom 
+from the requirement that capacity be shared if demand for 
+carriage exceeds available channel capacity. See new Section 
+653(b)1)(B). The choice of the governing legal regime, 
+however, is largely up to the LECs’ election, and in any event 
+LECs are currently free to offer cable service over their 
+telephone wires, if they comply with the generally applicable 
+provisions of Title VI of the Communications Act, covering all 
+cable operators. 
+
+
+* 1996 Act § 302(a) (adding new Section 653(a)(1) to Commu-. 
+nications Act). 
+
+
+3 
+
+
+to cable operators.“ The congressional policy is 
+therefore no longer to prohibit LECs’ provision of 
+video programming in their service areas, but rather 
+broadly to permit it. Only if a LEC elects to offer 
+video programming by means of an open video system 
+rather than a cable system—a matter within its 
+control—must it comply with regulations to be 
+developed by the FCC. That regulatory scheme is 
+required by the statute in order to provide safeguards 
+to prevent LECs from discriminating against unaffili- 
+ated programmers carried on open video systems and 
+charging unjust and unreasonable rates for carriage 
+on such systems, and, if demand for carriage exceeds 
+channel capacity, to require LECs to share channel 
+capacity with unaffiliated programmers. See 1996 Act 
+§ 302(a) (adding new Section 652(b) of the Communica- 
+tions Act). 
+
+Given this sweeping change in federal telecom- 
+munications policy, it is manifest that, at a minimum, 
+the legislation has been “sufficiently altered so as to 
+present a substantially different controversy than the 
+one the [lower courts] originally decided.” North- 
+eastern Florida Chapter of Associated General 
+Contractors v. City of Jacksonville, 113 S. Ct. 2297, 
+2301 n.3 (1993). LECs may now build and operate new 
+cable systems. They may also offer cable service over 
+their telephone wires, subject only to the regulations 
+applicable to all cable operators under Title VI of the 
+Communications Act. No approval by the FCC is 
+necessary for LECs to offer such cable service. 
+
+Under the 1996 Act, LECs have the additional op- 
+tion of operating an open video system. If a LEC 
+elects to operate such an open video system, then 
+
+
+* 1996 Act § 302(a) (adding new Section 653(c)). 
+
+
+4 
+
+
+approval by the FCC is necessary. It is difficult to 
+understand how the availability of this additional 
+option disadvantages them in any fashion. But, even if 
+the new legislation does “burden” LECs operating 
+open video systems to a modest degree, because they 
+will be subject to regulatory safeguards to be 
+developed by the FCC—an approach they have long 
+championed as a more narrowly tailored alternative to 
+the cross-ownership bar—it surely does not burden 
+them “in the same fundamental way” as was the case 
+under the former Section 533(b). Northeastern 
+Florida Contractors, 113 S. Ct. at 2301. The pro- 
+hibition imposed by former Section 533(b) on cross- 
+ownership of telephone companies and cable systems 
+no longer exists; accordingly, respondents’ challenge 
+to that Section is moot. See Kremens v. Bartley, 431 
+U.S. 119, 126-127 (1977); Princeton University v. 
+Schmid, 455 U.S. 100, 103 (1982); United Building & 
+Construction Trades Council v. Mayor and Council, 
+465 U.S. 208, 213 (1984). 
+
+This Court must review the judgment of the court 
+of appeals in light of presently existing federal statu- 
+tory law, not the law in effect at the time that 
+judgment was entered. Kremens, 431 U.S. at 129; 
+Fusari v. Steinberg, 419 U.S. 379, 387 (1975). It also 
+bears emphasis that this case involves the constitu- 
+tionality of an Act of Congress; time and again, the 
+Court has admonished that, “[clonstitutional adjudi- 
+cation being a matter of ‘great gravity and delicacy,” 
+courts should “avoid passing prematurely on consti- 
+tutional questions.“ Kremens, 431 U.S. at 128 
+(quoting Ashwander v. TVA, 297 U.S. 288, 345 (1936) 
+(Brandeis, J., concurring)). Whatever may be the 
+constitutional issues raised by the provisions of the 
+new legislation requiring the FCC to issue regula- 
+
+
+5 
+
+
+tory safeguards against discriminatory conduct on 
+open video systems, those issues have not yet been 
+addressed by any court. At this point, any disputes 
+over those issues “are so unfocused as to make in- 
+formed resolution of them almost impossible.” KAre- 
+mens, 431 U.S. at 134. All of the constitutional issues 
+raised by the case—including the choice between 
+strict scrutiny and intermediate scrutiny, and the 
+proper application of the requisite level of scrutiny— 
+have been fundamentally altered by the enactment of 
+the new legislation. It would not be appropriate for 
+this Court, having granted review to consider the 
+validity of now-repealed legislation, to review the con- 
+stitutionality of the new law, which has not been the 
+subject of briefing and argument.“ 
+
+Respondents have invoked authority to the effect 
+that “voluntary cessation” of challenged conduct will 
+not moot a controversy, but the Court has not hesi- 
+
+
+For example: respondents acknowledge that the new 
+legislation offers them an important “alternative channel of 
+communication” (a traditional cable system), but they assert 
+that, until the FCC issues new regulations, they are subject to a 
+“ban” on operating open video systems. They therefore argue 
+that the new legislation still fails constitutional muster because 
+a ban on the provision of video programming to subscribers, 
+“whatever its scope of duration,” must fail intermediate 
+scrutiny. Resp. 3-4. A substantial portion of the briefs was de- 
+voted to examining, under intermediate scrutiny, the adequacy 
+of alternative channels of communication available to respon- 
+dents, at a time when respondents were not permitted to 
+operate traditional cable systems, but when the FCC was 
+already moving to permit them to operate video dialtone 
+systems. The 1996 Act has so greatly expanded the opportuni- 
+ties for speech available to respondents that the briefs sub- 
+mitted in these cases would be inadequate for resolving any 
+issue presented by the new legislation. 
+
+
+6 
+
+
+tated to find a case moot when a statute under 
+constitutional challenge has been repealed after 
+plenary review has been granted. See Department of 
+Justice v. Galioto, 477 U.S. 556 (1986); Kremens, 431 
+U.S. at 126-127; Princeton University v. Schmid, 455 
+U.S. at 108. Although there may be a limited excep- 
+tion to that rule when it appears likely that “the 
+repeal of the objectionable language would not pre- 
+clude [the authorities] from reenacting precisely the 
+same provision,” City of Mesquite v. Aladdin’s 
+Castle, Inc., 455 U.S. 283, 289 (1982), such a possibility 
+is obviously remote and highly speculative in this 
+situation. The repeal of Section 533(b) was effected, 
+as part of a fundamental restructuring of the Commu- 
+nications Act, after years of close consideration by 
+Congress, and in light of new technological develop- 
+ments. In these circumstances, for the Court to 
+render a decision based on whether the now-repealed 
+provision was constitutionally valid would be tanta- 
+mount to the issuance of an advisory opinion. 
+
+2. There is also no merit to respondents’ sugges- 
+tion that the Court should dismiss the petitions for a 
+writ of certiorari, rather than vacate the judgment 
+below. Galioto and Kremens make clear that vacatur 
+has been the Court’s consistent practice when the 
+mootness has been caused by the repeal of the chal- 
+lenged legislation after the Court’s grant of plenary 
+review. “In such circumstances, ‘it is the duty of the 
+appellate court to set aside the decree belowl.]““ 
+Galioto, 477 U.S. at 560 (citing, inter alia, United 
+States v. Munsingwear, Inc., 340 U.S. 36, 39-40 
+(1950)). 
+
+
+7 
+
+
+For the foregoing reasons, and for the reasons set 
+forth in our suggestion of mootness, the judgment of 
+the court of appeals should be vacated, and these cases 
+should be remanded with instructions to dismiss them 
+as moot. 
+
+Respectfully submitted. 
+
+
+Drew S. Days, III 
+Solicitor General 
+
+
+FEBRUARY 1996 
+
+

@@ -1,0 +1,2804 @@
+nt ees Ae Mee Pe ee, ee ee ait y 
+
+
+% oO 
+
+
+Nos. 94-1898, 94-1900 
+
+
+| In THE 
+Supreme Court of the Ruited States 
+
+
+OcToBerR TERM, 1995 
+
+
+Untrep STATES OF AMERICA, ef al., 
+. Petitioners, 
+
+
+CHESAPEAKE AND Potomac TEL. Co. oF Vinci, ef al., 
+Respondents. 
+
+
+NATIONAL CABLE TELEVISION ASSOCIATION, INC., 
+~~. Petitioner, 
+
+
+BELL ATLANTIC CORPORATION, ef al., 
+Respondents. 
+
+
+On Writs of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+BRIEF FOR PETITIONER 
+NATIONAL CABLE TELEVISION ASSOCIATION, INC. 
+
+
+Danigx L. BRENNER H. Bartow Fars, III * 
+NEAL M. GOLDBERG RICHARD G, TARANTO 
+Davin L. NICOLL Farr & TARANTO 
+NATIONAL CABLE TELEVISION 2445 M Street, NW 
+ASSOCIATION, INC. Washington, DC 20037 
+
+
+1724 Massachusetts Ave., NW (202) 775-0184 
+Washington, DC 20086 * Counsel of Record 
+
+
+QUESTION PRESENTED 
+
+
+Whether the court of appeals incorrectly held that 47 
+U.S.C. § 533(b)—enacted in 1984 as a presumptive bar 
+on the local telephone monopolies’ entering the cable tele- 
+vision business in their telephone-service areas, but allow- 
+
+
+ing entry where there is good cause—is invalid under the 
+First Amendment. 
+
+
+(i) 
+
+
+ii 
+
+
+PARTIES TO THE PROCEEDING 
+
+
+The National Cable Television Association, Inc., peti- 
+tioner in No. 94-1900, was an appellant in the court of 
+appeals, along with the United States of America, Federal 
+Communications Commission, and Janet Reno, as Attor- 
+ney General of the United States, who are petitioners in 
+No. 94-1893. The appellees in the court of appeals, who 
+are respondents here, are the Bell Atlantic Corporation 
+and its relevant subsidiaries: The Chesapeake and Poto- 
+mac Telephone Company of Virginia; The Chesapeake 
+and Potomac Telephone Company; C&P Telephone Com- 
+pany of Maryland; The Chesapeake and Potomac Tele- 
+phone Company of West Virginia; the Diamond State 
+Telephone Company; The Bell Telephone Company of 
+Pennsylvania; New Jersey Bell Telephone Company; and 
+Bell Atlantic Video Services Company. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+
+QUESTION PRESENTED .0..................cccccccccecccecceeceeccseeee i 
+PARTIES TO THE PROCEEDING ........ ii 
+TABLE OF AUTHORIT ING a ...cccccccececccsececceccecseseeeeeesce v 
+I i 2 
+EE TT St 2 
+STATUTORY PROVISION INVOLVED... 2 
+gE EET CEE ER et Smee a 3 
+I. Administrative and Statutory Background... 5 
+
+A. Administrative History 000 5 
+
+B. The Bell System Breakup... 10 
+TEA ESE ee 12 
+
+D. Post-1984 Developments... 15 
+EE eT oe ay 17 
+
+A. District Court Proceedings... 17 
+
+B. The Court of Appeals Decision... 19 
+
+III. Subsequent Agency Action... 22 
+SUMMARY OF ARGUMENT ...... 24 
+EEE LS Se ee 26 
+
+
+I. SECTION 533(b) IS VALID UNDER A 
+PROPER “SAVING” CONSTRUCTION OF 
+THE WAIVER AUTHORITY SET FORTH IN 
+IIT Giidiiirsstinerisemnteinenscmanidiitsddhacinatiiins 26 
+
+
+A. The Commission’s Construction of Section 
+533 (b) (4) Removes the Bases for the Fourth 
+Circuit’s Invalidation of the Statute... 27 
+
+
+(iii) 
+
+
+iv 
+
+
+TABLE OF CONTENTS—Continued 
+Page 
+
+
+B. The Commission’s Interpretation of Section 
+533(b) (4) Is a Proper Saving Construction.. 29 
+
+
+Il. EVEN WITHOUT REGARD TO THE WAIVER 
+AUTHORITY, SECTION 533(b) SURVIVES 
+INTERMEDIATE SCRUTINY ..........0................ 35 
+
+
+A. The Statute Is Narrowly Tailored to Serve 
+Important Government Interests Unrelated 
+to the Suppression of Free Expression .......... 
+
+
+sf 
+
+
+2. Congress Could Reasonably Find Alterna- 
+tives to the Statute To Be Materially Less 
+Effective Means of Addressing the Tar- 
+CRT CO iiriictencsicvittmsnsticttitiniarenene 40 
+
+
+B. The Statute Is Not Properly Condemned As 
+Leaving Insufficient Alternative Avenues of 
+Ee ee 
+
+
+= 
+
+
+CORT AIS cesnnnensnmensnmsnmesennmsemnemnensinneettnns 48 
+
+
+v 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases Page 
+American Scholastic TV Programming Found. v. 
+
+FCC, 46 F.3d 1173 (D.C. Cir. 1995) —.............. 12, 45 
+
+Broadrick v. Oklahoma, 413 U.S. 601 (1973) ......... 37 
+
+
+California v. FCC, 905 F.2d 1217 (9th Cir. 1990) .. 38 
+Chevron U.S.A., Inc. v. NRDC, 467 U.S. 837 
+ER EE ae ee we 29 
+Crowell v. Benson, 285 U.S. 22 (1982) -................... 26 
+Edenfield v. Fane, 113 S. Ct. 1792 (1998) .............. 36 
+Edward J. DeBartolo Corp. v. Florida Gulf Coast 
+Bldg. & Constr. Trades Council, 485 U.S. 568 
+LS Le a ee 26 
+FCC »v. Florida Power Corp., 480 U.S. 245 (1987)... 8 
+FCC v. League of Women Voters, 468 U.S. 364 
+48 
+
+
+I CS oe eee Se 
+FCC v. National Citizens Committee for Broadcast- 
+
+ing (NCCB), 436 U.S. 775 (1978) —................ passim 
+Fortner Enterprises, Inc. v. United States Steel 
+
+Corp., 304 U.S. 495 (1960) .................................... 38 
+GTE California, Inc. v. FCC, 39 F.3d 940 (9th Cir. 
+
+EE ee a a ee ee 22, 34 
+Greyhound Corp. v. ICC, 668 F.2d 1354 (D.C. Cir. 
+
+CC EEE Se ae a ne eee 29 
+Illinois v. ICC, 713 F.2d 305 (7th Cir. 1983) .......... 29 
+International Ass’n of Machinists v. Street, 367 
+
+I 26 
+Jean v. Nelson, 472 U.S. 846 (1985) 2.0000 .. 27 
+Jefferson Parish Hosp. Dist. No. 2 v. Hyde, 466 
+
+EE ee 38 
+Kleem v. INS, 479 U.S. 1308 (1986) 00000. 29 
+MCI Telecommunications Corp. v. AT&T, 114 
+
+fF Ee ee 30, 31, 32 
+Marsh Media Ltd. v. FCC, 798 F.2d 772 (5th Cir. 
+
+1986), cert. denied, 479 U.S. 1085 (1987) .......... 47 
+Murray v. The Schooner Charming Betsy, 6 U.S. 
+
+Oe celelinemesiatiatons 26 
+NLRB v. Catholic Bishop of Chicago, 440 U.S. 490 
+
+Ee Se ee 26 
+NCTA v. FCC, 914 F.2d 285 (D.C. Cir. 1990) ........ 34 
+
+
+vi 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+National Rural Telecom Ass’n v. FCC, 988 F.2d 
+Ff § See ee 88, 40 
+Otter Tail Power Co. v. United States, 410 U.S. 366 
+EC ye Rees eee ee 38 
+Permian Basin Area Rate Cases, 390 U.S. 747 
+Se Sa eee a 42 
+Rubin v. Coors Brewing Co., 115 S. Ct. 1585 
+a ee 1 EE FES 36 
+Sable Communications of Cal., Inc. v. FCC, 492 
+- SF FO Ser a ee 41 
+Southwestern Bell Corp. v. FCC, 896 F.2d 1378 
+SS ee 38 
+TV Signal Co. of Aberdeen v. AT&T, 617 F.2d 1302 
+a eee 6 
+Town of Concord v. Boston Edison Co., 915 F.2d 
+17 (ist Cir. 1990), cert. denied, 499 U.S. 931 
+CREED cccdthetneciisasaitechinteinastdanetuittianesciiatiiideniaeati ti aitadidlaaas 43 
+Turner Broadcasting System v. FCC, 114 8S. Ct. 
+fea ee passim 
+US West, Inc. v. United States, 48 F.3d 1092 (9th 
+I a ee err 22, 40 
+United States v. AT&T, 552 F. Supp. 131 (D.D.C. 
+1982), aff'd, 460 U.S. 1001 (19838) —................ 10, 11 
+United States v. Albertini, 472 U.S. 675 (1985).... 36 
+United States v. O’Brien, 391 U.S. 367 (1968) ........ 18, 35, 
+40, 45 
+United States v. Western Electric Co., 993 F.2d 
+1572 (D.C. Cir.), cert. denied, 114 S. Ct. 487 
+EE SS SS eae eee Ae 87, 44 
+United States v. X-Citement Video, Inc., 115 S. Ct. 
+Ge GRE cercrcenecnctentinneniintiaiiintetdntil passim 
+Ward v. Rock Against Racism, 491 U.S. 781 
+ee eS eee 18, 35, 36 
+Weinberger v. Rossi, 456 U.S. 25 (1982) ................ 33 
+Statutes 
+GF a Be Ge ecctientinntenciinndtinminiinatand 80, 31 
+ES Se ae ee 5 
+
+
+vii 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+
+ETE RS EE I 14, 30 
+
+EEE ae a 21, 46 
+
+Se passim 
+
+ARIES TEA LR RT 17 
+
+lice ae REEL TIN RR NT SS 17 
+
+Administrative Materials 
+
+iin erninsaitiriants 6 
+
+Een 13 
+Applications of Telephone Companies for Section 
+
+214 Certificates, 34 Fed. Reg. 6290 (1969)... 5 
+
+
+Applications of Telephone Companies for Section 
+214 Certificates, 21 F.C.C.2d 307, recons. in part, 
+22 F.C.C.2d 746 (1970), aff'd, General Tel. Co. 
+of the S.W. v. United States, 449 F.2d 846 (5th 
+REE IS AAS ee 6, 7 
+Better T.V., Inc. of Dutchess County, 31 F.C.C.2d 
+939 (1971), modified on other grounds, 34 
+
+
+Ue 7 
+Cable Rate Regulation Order, 8 F.C.C.R. 5631 
+
+EEE sinennenmntidagniudenapangenipecanese 37 
+California Water & Tel. Co., 40 F.C.C.2d 1138 
+
+ID qcrcmdlingsenaptasestenscccmmmamanegiasnenetgtemesemennese 7 
+
+
+Cross Ownership Rules, 69 F.C.C.2d 1097 (1978).. 7 
+FCC Policy on Cable Ownership: A Staff Report 
+
+
+III -datisiliheliscnsiidbssittiestnindiinnaencnntpaseeeneeaiiimmeninmmzoupcccnel passim 
+Fourth Further Notice of Proposed Rulemaking, 
+Eg 32 
+
+
+Further Notice of Inquiry, In re Telephone 
+Company-Cable Television Cross-Ownership 
+Rules, 3 F.C.C.R. 5849 (1988) ............................. 15, 16 
+
+General Tel. Co. of California, 13 F.C.C.2d 448 
+(1968), aff'd, General Tel. Co. of California v. 
+
+FCC, 413 F.2d 390 (D.C. Cir.), cert. denied, 
+REE SL 5 
+
+In re Application of Teleport Communications— 
+
+New York, 7 F.C.C.R. 5986, recons. denied, 8 
+F.C.C.R. 5464 (1992), vacated as moot, No. 92- 
+1621 (D.C. Cir. Oct. 11, 1904) ...........................,.. 12 
+
+
+viii 
+TABLE OF AUTHORITIES—Continued 
+
+
+In re Time Warner Entertainment Co., 8 F.C.C.R. 
+RT aera EE ae A 
+Second Report and Order (Video Dialtone Order), 
+ho 8 CO Se 
+Sugar Land Report and Order, 76 F.C.C.2d 230 
+SUTITITITID ipiceutiadeteurnsppmenrasesiianiedtuasmrnnsnstendingiibtigemiementaianes 
+Telephone Co. Affiliation with CATV Systems, 41 
+| Fc _ a. 
+Telephone Co.-Cable Television Cross-Ownership 
+Rules, 84 F.C.C.2d 385 (1981) ........................... 
+United States Dep’t of Justice Merger Guidelines 
+2 FR ae 
+United States’ Response to Public Comments, 47 
+
+
+Fed. Reg. 23,320 (1982) ......... seaguseenicipuiabensenetionts 11, 
+
+
+Video Dialtone Reconsideration Order, 10 F.C.C.R. 
+SR : Ce echtadicclictahsinhitetantsiebsicdenentncsleenmntnigiewuidids 
+
+
+Congressional Materials 
+
+
+Cable Television Regulation: Hearings on S. 2172 
+before the Subcomm. on Communications of the 
+Sen. Comm. on Commerce, Science, and Trans- 
+portation, 97th Cong., 2d Sess. (1982) ... 
+
+Options for Cable Legislation: Hearings © on 1 ALR. 
+4108, et al. before the Subcomm. on Telecomm., 
+Consumer Protection, and Finance of the House 
+Comm. on Energy and Commerce, 98th Cong., 
+GG OE 
+
+
+Page 
+21 
+
+
+12, 40 
+
+
+21 
+
+
+13 
+15 
+15 
+15 
+15 
+15 
+
+
+14 
+
+
+14 
+15 
+14 
+14 
+14 
+
+
+13 
+
+
+15 
+
+
+ix 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+H.R. Rep. 934, 98th Cong., 2d Sess. (1984) 0... passim 
+S. Rep. 67, 98th Cong., Ist Sess. (1983) 0000000. 13,14 
+S. Rep. 92, 102d Cong., Ist Sess. (1991)... 17 
+Other Materials 
+American Heritage Dictionary (3d ed. 1992)... 31 
+Bell Atlantic to Shift to ‘Wireless Cable’ TV, 
+BD Ee 45 
+Brennan, Why Regulated Firms Should Be Kept 
+Out of Unregulated Markets: Understanding 
+the Divestiture in U.S. v. AT&T, 32 Antitrust 
+ES I ae 38 
+M. Kellogg, P. Huber, & J. Thorne, Federal Tele- 
+communications Law (1992) 2000000000000 89, 43 
+
+
+RBOCS Pump $100 Million Into Wireless Cable 
+Firm, Spurring Consolidation, Communications 
+I 45 
+
+Telecommunications in Transition: The Status of 
+Competition in the Telecommunications Industry 
+(“Wirth Report”), Report by Majority Staff of 
+Subcomm. on Telecomm., Consumer Protection, 
+and Finance of House Comm. on Energy and 
+Commerce, 97th Cong., Ist Sess. (1981)... 10 
+
+
+IN THE 
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+No. 94-1893 
+UNITED STATES OF AMERICA, et al., 
+. Petitioners, 
+
+
+CHESAPEAKE AND POTOMAC TEL. Co. OF VIRGINIA, ef al., 
+
+
+Respondents. 
+No. 94-1900 
+NATIONAL CABLE TELEVISION ASSOCIATION, INC., 
+. Petitioner, 
+
+
+BELL ATLANTIC CORPORATION, ef al., 
+Respondents. 
+
+
+On Writs of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+BRIEF FOR PETITIONER 
+NATIONAL CABLE TELEVISION ASSOCIATION, INC. 
+
+
+Petitioner National Cable Television Association 
+(NCTA) seeks reversal of the decision of the United 
+States Court of Appeals for the Fourth Circuit (Pet. App. 
+la-45a) holding that 47 U.S.C. § 533(b)—the telephone 
+cable cross-ownership statute—is invalid under the First 
+Amendment.' 
+
+
+’ Pursuant to Rule 29.1 of the Rules of this Court, petitioner 
+NCTA states that it has no parent company and no subsidiaries. 
+
+“Pet. App.” refers throughout this brief to the appendix to 
+NCTA’s petition, in No. 94-1900. 
+
+
+2 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (Pet. App. la-45a) 
+is reported at 42 F.3d 181. The opinion of the district 
+court (Pet. App. 46a-93a) is reported at 830 F. Supp. 
+909. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+November 21, 1994. Pet. App. 3a. Timely petitions for 
+rehearing were denied on January 18, 1995. Pet. App. 
+94a-96a. Chief Justice Rehnquist extended the time for 
+filing a petition for certiorari to May 18, 1995. Pet. App. 
+97a. The government's petition was filed on May 17, 
+1995, and NCTA’s petition was filed on May 18, 1995. 
+This Court granted the petitions, and consolidated the 
+cases, on June 26, 1995. JA 386-87. 
+
+
+STATUTORY PROVISION INVOLVED 
+
+
+Section 533(b) of Title 47, United States Code, 
+provides: 
+
+
+(1) It shall be unlawful for any common carrier, 
+subject in whole or in part to subchapter II of this 
+chapter, to provide video programming directly to 
+subscribers in its telephone service area, either di- 
+rectly or indirectly through an affiliate owned by, 
+operated by, controlled by, or under common con- 
+trol with the common carrier. 
+
+
+(2) It shall be unlawful for any common carrier, 
+subject in whole or in part to subchapter II of this 
+chapter, to provide channels of communications or 
+pole, line, conduit space, or other rental arrange- 
+ments, to any entity which is directly or indirectly 
+owned by, operated by, controlled by, or under com- 
+mon control with such common carrier, if such fa- 
+cilities or arrangements are to be used for, or in con- 
+nection with, the provision of video programming 
+directly to subscribers in the telephone service area 
+f the common carrer 
+
+
+3 
+
+
+(3) This subsection shall not apply to any com- 
+mon carrier to the extent such carrier provides tele- 
+phone exchange service in any rural area (as defined 
+by the Commission ). 
+
+
+(4) In those areas where the provision of video 
+programming directly to subscribers through a cable 
+system demonstrably could not exist except through 
+a cable system owned by, operated by, controlled by, 
+or affiliated with the common carrier involved, or 
+upon other showing of good cause, the Commission 
+may, on petition for waiver, waive the applicability 
+of paragraphs (1) and (2) of this subsection. Any 
+such waiver shall be made in accordance with section 
+63.56 of title 47, Code of Federal Regulations (as in 
+effect September 20, 1984) and shall be granted by 
+the Commission upon a finding that the issuance of 
+such waiver is justified by the particular circum- 
+stances demonstrated by the petitioner, taking into 
+account the policy of this subsection. 
+
+
+STATEMENT 
+
+
+The telephone-cable cross-ownership statute at issue, 
+47 U.S.C. §533(b), imposes a presumptive bar (para- 
+graphs (1) and (2)), subject to waiver for good cause 
+(paragraph (4)), on integration by the local telephone 
+monopolists into the business of selling cable television 
+service in their local telephone-monopoly regions. The 
+Statute addresses the well-recognized, structural economic 
+problems that arise when a regulated monopolist (tele- 
+phone) enters a closely related unregulated (or less regu- 
+lated) business (cable). Such integration always 
+generates the incentive, and often provides substantial 
+opportunities, for the monopolist to engage in cross- 
+subsidization, discriminatory self-preference, and other 
+conduct that simultaneously enables it to evade regula- 
+tion’s restraint on its full exploitation of its monopoly 
+ratepayers and, at the same time, to distort, raise prices 
+in, Or even gain power in the newly entered market. The 
+incentives to engage in such conduct are particularly great 
+
+
+4 
+
+
+if the newly entered business is itself a threat to the basic 
+monopoly, as cable is to telephony, so that unfair com- 
+petition in the entered market may reinforce and protect 
+the monopoly. In these circumstances, it is well recog- 
+nized that restricting entry may be pro- rather than anti- 
+competitive. See pages 8-12, 36-40, infra. 
+
+
+Section 533(b) was enacted in 1984, based on a Fed- 
+eral Communications Commission rule adopted in 1970, 
+to address this situation. How serious the problem is and 
+how it should be addressed require a determination 
+whether the anticompetitive risks outweigh the normal 
+procompetitive benefits of allowing entry. And in evaluat- 
+ing the risks and selecting a remedy, the policymaker’s 
+basic choice between a structural bar and regulatory over- 
+sight focuses ultimately on an assessment of administrative 
+standard-setting and monitoring as a means of controlling 
+cross-subsidy and discrimination: how effective such reg- 
+ulatory controls would likely be, how costly they would 
+be to implement, and how much error should be tolerated. 
+In the telephone-cable situation, these assessments have 
+been made, and the balance has been struck, differently 
+at different times by different policymakers. 
+
+
+Section 533(b), in paragraphs (1) and (2), chooses 
+simple structural separation of the telephone and cable 
+businesses as the presumptively needed means of address- 
+ing the undoubted economic problems, and thus fostering 
+and preserving the presence of two wire networks, rather 
+than one wire network, for electronic communications into 
+the home. Paragraph (4) of the statute also allows waiv- 
+ers for “good cause.” And the Commission, exercising its 
+authority under paragraph (4), recently concluded that 
+the balance of risks and benefits has now sufficiently 
+changed that the policies behind Section 533(b) are best 
+fulfilled through regulatory oversight under certain condi- 
+tions rather than structural separation. Pet. App. 103a- 
+121a; id. at 105a & n.4.” 
+
+
+2 Congress is considering telecommunications legislation that 
+would replace Section 533(b) with narrower, regulatory constraints 
+
+
+5 
+
+
+I. Administrative and Statutory Background 
+
+
+A. Administrative History. In the late 1960s, the 
+Federal Communications Commission examined well- 
+documented telephone company efforts to prevent the 
+development of an independent cable television industry, 
+then in its infancy. In 1968, the Commission required 
+telephone companies to obtain certification, under 47 
+U.S.C. § 214, before constructing, acquiring, or operating 
+video transmission facilities. General Tel. Co. of Cali- 
+fornia, 13 F.C.C.2d 448 (1968), aff'd, General Tel. Co. 
+of California v. FCC, 413 F.2d 390 (D.C. Cir.), cert. 
+denied, 396 U.S. 888 (1969). The FCC noted that “[b]y 
+reason of its control over utility poles, or other local ad- 
+vantages resulting from its status as an existing common 
+carrier in the community, the telephone company is in a 
+position to preclude or to substantially delay an unaf- 
+filiated CATV system: from commencing service and 
+thereby eliminate competition.” Jd. at 463. The Section 
+214 process subsequently revealed that telephone com- 
+panies had in fact discriminated in favor of their affiliates 
+and “otherwise improperly extended their existing monop- 
+oly in the telephone field to CATV services.” Applica- 
+tions of Telephone Companies for Section 214 Certifi- 
+cates, 34 Fed. Reg. 6290, 6290-91 (1969). 
+
+
+In 1969, therefore, the Commission proposed to ad- 
+dress the problems of “undue concentration of control of 
+CATV systems by telephone companies,” “anticompeti- 
+tive practices” by telephone companies, and “possible un- 
+fair competitive advantages” of telephone companies in 
+the cable business, such as the ability of telephone com- 
+panies to “subsidize the cost of construction and services 
+required by their affiliates out of revenues derived by the 
+telephone companies from their other services.” Jd. at 
+6292. In 1970, the Commission concluded that the 
+proper response was a rule that presumptively barred 
+
+
+on telephone company entry into the cable business. Both the 
+House and Senate have enacted bills containing such provisions. 
+The legislation is expected to go to conference soon. 
+
+
+6 
+
+
+telephone companies from providing cable television 
+service within their local exchange areas, except upon 
+grant of a Commission waiver. Applications of Telephone 
+Companies for Section 214 Certificates, 21 F.C.C.2d 307, 
+recons. in part, 22 F.C.C.2d 746 (1970), aff'd, General 
+Tel. Co. of the S.W. v. United States, 449 F.2d 846 (Sth 
+Cir. 1971). The Commission rule, which from the be- 
+ginning has provided for waivers of the prohibition upon 
+a showing of “good cause” (and in other specified cir- 
+cumstances), is codified in its current form at 47 C.F.R. 
+$$ 63.54-.56. 
+
+
+In adopting its rule, the Commission explained that 
+“the prevention of undesirable concentration of control of 
+communications media has always been of great concern” 
+(21 F.C.C.2d at 328) and noted the Justice Department's 
+conclusion that telephone companies were “seeking to ex- 
+tend their regulated telephone monopoly into the areas 
+of CATV [cable television] and broadband coaxial cables, 
+primarily to assure themselves of control over the services 
+broadband coaxial cable will perform in the future” (id. 
+at 324). The Commission pointed specifically to tele- 
+phone companies’ ability, by virtue of their “monopoly 
+position,” to discriminate against cable operators seeking 
+
+
+®The Eighth Circuit later described and quoted the Justice 
+Department’s 1970 comments: “The Department of Justice early 
+recognized that CATV operators and telephone companies were 
+both competitors and potential competitors. In 1970 it stated: 
+. . . ‘independent CATV operators and the telephone companies 
+were present and direct competitors in the construction of CATV 
+distribution systems. . . . The telephone companies have made it 
+clear that they regard cable operators as potential competitors for 
+a variety of services.” TV Signal Co. of Aberdeen v. AT&T, 617 
+F.2d 1302, 1308-09 (8th Cir. 1980) (quoting Justice Department 
+comments to FCC). The Eighth Circuit added: “in the present 
+case there exists evidence that the purpose of Bell's exclusion 
+policy [limiting use of poles} was to coerce operators to utilize 
+Bell’s own equipment, thus yielding greater revenue to Bell, and 
+deterring independent operators from entering the CATV and 
+potential broadband communications fields.” Jd. at 1309 n.7. 
+
+
+J 
+
+
+essential access to telephone poles and underground con- 
+duits for their cable television wires. /bid. The Commis- 
+sion also noted evidence that telephone companies with 
+cable affiliates “can subsidize those affiliates with reve- 
+nues obtained through telephone company operations.” 
+Id. at 311. 
+
+
+In the years following its adoption, the Commission 
+applied the rule and reaffirmed its role in restraining the 
+local telephone company’s “potential, by reason of—its 
+monopoly position in the community, to discriminate 
+against CATV operators who desire to provide their own 
+distribution facilities.” Better T.V., Inc. of Dutchess 
+County, 31 F.C.C.2d 939, 957, 966-67 (1971), modified 
+on other grounds, 34 F.C.C.2d 142 (1972); see, e.g., 
+California Water & Tel. Co., 40 F.C.C.2d 1138 (1973); 
+Telephone Co. Affiliation with CATV Systems, 41 
+F.C.C.2d 938 (1973). In 1978, the Commission reiter- 
+ated that its 1970 rulemaking had considered various 
+issues, including “the prevention of potential favoritism 
+by a telephone company towards an affiliated cable tele- 
+vision system either in the methods of establishing it, or 
+by subsidizing the affiliate to the detriment of telephone 
+subscribers,” as well as the concentration of control from 
+a telephone-cable combination. Cross Ownership Rules, 
+69 F.C.C.2d 1097, 1099 n.5 (1978). The Commission 
+also made clear, based on its recognition that a single 
+integrated voice-video network was now in the offing 
+(id. at 1106-08), that its consideration of applications 
+for waiver based on “good cause” would “permit explicit 
+consideration of recent technological developments” and 
+of “the nature and extent of reasonably foreseeable econ- 
+omies from joint or integrated operation,” while guard- 
+ing against “potentially adverse cross-subsidization be- 
+tween a carrier’s telephone and cable television business.” 
+Id. at 1111.* 
+
+
+* The Commission subsequently ruled that “good cause” waivers 
+were not limited to those circumstances where independent cable 
+
+
+In 1981, after Congress addressed part of the problem 
+through the Pole Attachments Act,’ the Office of Plans 
+and Policy of the Commission undertook at the Commis- 
+sion’s direction a comprehensive analysis of the cross- 
+
+
+the in-region presumptive bar. JA 31-78 (excerpts). The 
+report explained that permitting cross-ownership might 
+have economic and technological benefits (JA 43-52), 
+while noting that technological benefits may be grounds 
+for waiver (JA 50 & 41 n.4). The report then explained 
+why there were still overriding risks. 
+
+
+“The disadvantages of crossownership largely derive 
+from the fact that telephone companies are regulated 
+exclusive franchise monopolists in their local area.” JA 
+52. That fact meant that integration into cable can enable 
+the telephone company “partially to avoid rate-of-return 
+regulation on its telephone service . . . by attributing costs 
+to the regulated telephone division and revenues to an 
+unregulated cable division,” with the result that tele- 
+phone ratepayers would be exploited by higher prices and 
+the cable markets distorted through subsidized entry. 
+Ibid.: id. at 54-58. Such cross-subsidization would be 
+“harder to control if cable and telephone system costs 
+are incurred in one area for the same types of equipment, 
+or are to some extent joint or common.” JA 57 (foot- 
+
+
+operation is impossible but would be available upon a showing of 
+“fejlear and substantial economies in construction or operation.” 
+JA 41 n.4; Sugar Land Report and Order, 76 F.C.C.2d 230, 235-36 
+(1980); see JA 43 n.7. 
+
+
+® Congress enacted the Pole Attachments Act of 1978 to “regulate 
+the rates. terms, and conditions for pole attachments.” 47 U.S.C. 
+§ 224(b) (1). The Act leaves considerable room for costly dispute 
+ever such terms and conditions, however, and does not, in any 
+event, guarantee access in the first place. See FCC v. Florida Power 
+Corp.. 480 US. 245, 251 n6 (1987). 
+
+
+9 
+
+
+note omitted).° The telephone companies have a uniquely 
+strong incentive to engage in such conduct with respect 
+to cable because doing so can help forestall the competi- 
+tive threat that cable presents to the telephone business 
+itself, whether for voice or data carriage or for bypass of 
+the local exchange for access to long-distance carriers. 
+JA 53, 58-60; id. at 59 (“cable has more potential to 
+provide telephone-like services in the near future than 
+does any other carrier”). These reasons, the report con- 
+cluded, “are sufficient to overcome the social presumption 
+in favor of allowing unrestricted crossownership.” JA 63 
+(footnote omitted ).’ 
+
+
+The 1981 report extensively discussed the possibilities 
+of addressing the “problems of crossownership directly, 
+through regulation.” JA 67; id. at 67-78. Having noted 
+the intractable problem of cost allocation (see note 6, 
+supra), the report explained the substantial reasons to 
+doubt the effectiveness of regulatory efforts, at that time 
+and possibly in the long run, to prevent discrimination 
+and cost-shifting. /bid. The report concluded that “reg- 
+ulatory tools cannot now solve the problems involved in 
+crossownership between cable and telephone facilities.” 
+Id. at 75. These conclusions were the most compre- 
+hensive and recent analysis of the specific telephone-cable 
+issue before Congress acted in 1984. See also Telephone 
+Co.-Cable Television Cross-Ownership Rules, 84 F.C.C.2d 
+335 (1981) (initiating proceeding to reconsider the cross- 
+ownership rule). 
+
+
+*“One of the most difficult aspects of telephone regulation is 
+the assignment of costs to their causes. Cable and telephone sys- 
+tems share a certain amount of capital equipment; allocating shared 
+costs between these capital accounts on the basis of actual cost 
+causation will be difficult or impossible.” JA 57 (footnote omitted). 
+
+
+’ The report also noted evidence that pole-access problems had 
+continued despite the 1978 statute, but it concluded that the “prob- 
+lem of pole access does not by itself justify banning crossowner- 
+ship.” JA 62. 
+
+
+10 
+
+
+B. The Bell System Breakup. In 1982, the govern- 
+ment and AT&T announced their agreement, as a settle- 
+of 
+
+
+ment of the I 
+
+Bell System so as to separate the local monopoly busi- 
+nesses (now the Bell Operating Companies, or BOCs, 
+including Bell Atlantic) from the competitive businesses 
+(which remained with AT&T). See United States v. 
+AT&T, 552 F. Supp. 131 (D.D.C. 1982), aff'd, 460 
+U.S. 1001 (1983). Substantial evidence had been devel- 
+oped by the government that the Bell System had ex- 
+tensively used its local monopoly power to impair or to 
+forestall competition in related markets, including long- 
+distance, equipment, and even cable. See, e.g.. JA 253. 
+255-56, 260-61. And the consent decree that settled the 
+lawsuit not only broke apart the existing Bell System but 
+barred the local monopolies from entering certain related 
+competitive businesses (long-distance, equipment manu- 
+facturing, and “information services,” the last including 
+cable television, see JA 219) that, because of large com- 
+mon costs or opportunities for discrimination, presented 
+great dangers from what a congressional report the prior 
+year had succinctly described as “the incentives of a 
+regulated unregulated company.” * 
+
+
+The economic evils targeted by the ban on regulated 
+unregulated integration were explained by the United 
+States in its defense of the breakup decree. “[Tyhe BOCs 
+control over essential local exchange facilites will pve 
+them both the power and incentive to disadvantage com 
+petitors in related markets through cross-subsidization and 
+
+
+* Telecommunications «= Trensificn The Status of Competifice 
+in the Telecommumecations /adustry ““Wirth Report” . Repert by 
+Majority Staff of Sebcomm on Telecomm. Consumer Protection 
+and Finance of House Comm oe Energy snd Commerce 97) 
+Cong. lst Ses 58 1981. This report. chapter 4 of whic® ore 
+vides a concise description of the ecomomic dangers of the regu 
+lated telephone moneopeliets entry iete related Susineeees wee 
+produced by the eaeme House subcommittees that was principal: 
+responsible for the 1984 Cable Act 
+
+
+11 
+
+
+discriminatory actions.” United States’ Response to Pub- 
+lic Comments, 47 Fed. Reg. 23,320, 23,336 (1982); id. 
+at 23,323. Moreover, “regulatory mechanisms . are 
+not sufficient to control the long term incentives and abili- 
+ties the BOCs would have to disadvantage competitors in 
+related markets. At the heart of the government's case 
+in United States v. AT&T was the failure of regulation 
+to safeguard competition in the face of the powerful in- 
+centives and abilities of a firm engaged in the provision 
+of both regulated monopoly and competitive services.” 
+Id. at 23,336" 
+
+
+As to cross-subsidy: “the FCC struggled for more than 
+20 years unsuccessfully to solve the problem of allocating 
+common costs between competitive and non-competitive 
+services”, “[t}here is simply no single correct formula for 
+(such) allocation”; and in any event, “the possession by 
+the BOCs of relevant cost information, the extent of com- 
+mon costs. and the high degree of discretion in the treat- 
+ment of such costs enjoyed by the BOCs. would very 
+likely frustrate meaningful regulatory oversight. especially 
+in light of strong incentives on the part of the BOCs to 
+do so.” /bid. As to discrimination: “this is a subject 
+that has preoccumed regulation for more than a decade 
+with ttle success”. and regulation is not likely. in such a 
+‘technologically dynamic industry.” to be “capable of 
+detecting of preventing the very subtle forms of discrimi- 
+nation that would be available to the BOCs.” /hid See 
+@ a 23.537. The government also explained that. while 
+
+
+"Tf tee BOCe af rate base rate of return reguisted monopolists 
+vere permitted % enter reisted competitive marteta they wou! 
+“sre ‘De means anc scentive to fiaadvantage the:r competitors 
+
+
+Some of access te “Se local exchange ‘either of these problems 
+“ae ‘ber ‘ar orewen amenable te successful -eguistory solutior 
+nGeet. “he very Sass for divestiture is thet the anticompetitive 
+vomeme oferent = ‘the out previmer of reguisted monopn!y 
+“= competitive cervices are otherwise inmeciubie” (7 Fed Reg 
+« D2 
+
+
+12 
+
+
+the dangers were attenuated where few common costs or 
+opportunities for discrimination existed (id. at 23,335), 
+the dangers were greatest, and least amenable to regula- 
+tory control, precisely when the same switching equipment 
+was used for the provision of both regulated telephone 
+service and some other service (id. at 23,338-39). 
+
+
+C. The 1984 Cable Act. Against this background, 
+Congress enacted Section 533(b)—the telephone-cable 
+cross-ownership statute—as part of the comprehensive 
+1984 Cable Act.” With only a few changes of language, 
+the statute codified the Commission’s rules presumptively 
+barring the local telephone companies from entering the 
+cable business inside their telephone-service regions (para- 
+graphs (1) and 2)). Congress also included a provi- 
+sion (paragraph (4)) authorizing Commission waivers 
+
+
+1 We note two points of terminology. First, although Bell 
+Atlantic has throughout this proceeding insisted that Section 
+583(b) is not really a “cross-ownership” rule, the Fourth Circuit 
+recognized that this was a “merely semantic” point, since the 
+analysis does not turn on labels. Pet. App. 9a n.7. We follow the 
+familiar label, reflecting the facts that the provision applies by 
+its terms to telephone company ownership of a cable business, 
+Congress included it among the “ownership restrictions” set forth 
+in Section 533, and “cross-ownership” is the term that was used 
+by the legislative history (e.g., H.R. Rep. 984, 98th Cong., 2d Sess. 
+55 (1984)) and has always been used by the Commission. 
+
+Second, we use the term “cable” as a shorthand for the (nar- 
+rower) statutory term “video programming.” The statute has been 
+construed by the Commission and the D.C. Circuit as applying only 
+when a telephone company provides video programming over 4 
+“cable system.” American Scholastic TV Programming Found. v. 
+FCC, 4 F.3d 1178 (D.C. Cir. 1996). 
+
+
+'! Consistent with the statute's underlying purposes, the Com- 
+mission has indicated that Section 583(b) applies, not to all com- 
+panies that are in any way in the “telephone” business, but only 
+to loca! exchange carriers—i.¢.. “traditional landline local exchange 
+telephone companies” providing “ubiquitous, interconnected switched 
+service” over “bottleneck facilities.” Jn re Application of Teleport 
+Communications—_New York, 7 F.C.C_R. 5986, 5988, recons. denied, 
+® F.CCR. 5464 (1992). vacated as moot, No. 92-1521 (D.C. Cir. 
+
+ct. 11, 1904 
+
+
+13 
+
+
+upon a showing of “good cause” and directed the Com- 
+mission to grant such a waiver where “justified by the 
+particular circumstances demonstrated by [an applicant], 
+taking into account the policy of this subsection.” ~ 
+
+
+The legislative history of these provisions is not elabo- 
+rate. At hearings in 1982, the Senate received testimony 
+from both cable and telephone industry witnesses reciting 
+the concerns about discrimination and cross-subsidization. 
+Cable Television Regulation: Hearings on S. 2172 before 
+the Subcomm. on Communications of the Sen. Comm. 
+on Commerce, Science, and Transportation, 97th Cong., 
+2d Sess. 107-08, 344, 386-90, 590, 623 (1982). And 
+there was debate about whether the whole issue should 
+be left to the continuing authority of the Commission, 
+as the Commission's chairman urged. /d. at 97. In the 
+98th Congress, the Senate enacted a cable bill that did 
+not contain a provision codifying or otherwise addressing 
+telephone-cable cross-ownership. See S. Rep. 67, 98th 
+Cong., Ist Sess. 34 (1983); 129 Cong. Rec. 15451-54 
+(1983). 
+
+
+The House, which substantially wrote what became the 
+1984 Cable Act, added what is now Section 533(b). 
+The House Report recites simply the congressional aim 
+“to prevent the development of local media monopolies, 
+and to encourage diversity of ownership of communica- 
+tions outlets.” H.R. Rep. 934, 98th Cong., 2d Sess. 55 
+
+
+1 As part of Section 533, Congress included, in addition to the 
+telephone-cable cross-ownership rule of subsection (b), a rule 
+restricting cross-ownership between broadcast stations and |oca! 
+cable systems (subsection (a) (1)) and a provision granting author- 
+ity to the FCC to adopt additional restrictions on ownership of cable 
+systems by owners of other media of mass communications (sub- 
+sections ‘c), (d)). The Commission has long had a regulation 
+barring ownership of cable systems by a television network. 47 
+C.F_R. §76.501(b). In 1992, Congress added a bar on ownership 
+of a cable business by an in-region “multichanne! multipoint dis- 
+tribution service” (MMDS. «a form of “wireless cable”) or a 
+separate “satellite master antenna television service” SMATYV) 
+Subsection (a) (2). 
+
+
+14 
+
+
+(1984)." See also 130 Cong. Rec. 27975 (1984) 
+(statement of sponsor, Rep. Wirth) (cross-ownership rule 
+intended “to promote a greater diversity of ownership of 
+cable systems”). The bill as passed by the Committee 
+did not contain a general waiver provision going beyond 
+the “rural” exemption that is now found in paragraph 
+(3). H.R. Rep. 934, supra, at 104. On the floor, how- 
+ever, the House added what is now paragraph (4), pro- 
+viding for “good cause” waiver authority. The debate 
+over the flexibility to be accorded the Commission re- 
+solved itself by the express adoption of the Commission's 
+pre-existing “good cause” language, the inclusion of lan- 
+guage directing that waivers be granted “upon a finding 
+that the issuance of such waiver is justified by the particu- 
+lar circumstances demonstrated by the petitioner, taking 
+into account the policy of this subsection [i.e., Section 
+533(b)].” and the floor declarations by the sponsors that 
+the provision should be “narrowly construed.” See 130 
+Cong. Rec. 27978, 31873, 32280 (1984).”* 
+
+
+The legislative record makes clear that Section 533(b) 
+was enacted without opposition from the local telephone 
+companies. Those companies and their congressional sup- 
+porters were not absent from the debate: expressly recog- 
+
+
+13 In discussing First Amendment issues, the House Report relies 
+on this Court’s decision in FCC v. National Citizens Committee for 
+Broadcasting (NCCB), 436 U.S. 775 (1978), unanimously uphold- 
+ing the broadcast-newspaper cross-ownership rule and, in addition, 
+compares the telephone-cable cross-ownership “structural regula- 
+tion” to the Bell breakup decree’s bar on the local telephone 
+monopolists’ entry into related businesses. H.R. Rep. 934, supra, 
+at 33, 57. The Senate Report refers to the 1981 FCC Staff report. 
+S. Rep. 67, supra, at 20. 
+
+
+14 The House version of the provision subsequently was adopted 
+in conference and by both houses. /d, at 31884, 32277-88 (1984). 
+At the same time, the conference added and both houses adopted 
+what is now paragraph (6) of the statement of congressional 
+purpose behind the 1984 Act: to “promote competition in cable 
+communications and minimize unnecessary regulation that would 
+impose an undue economic burden on cable systems.” 47 U.S.C. 
+§ 521(6). The bill became law on October 30, 1984. 
+
+
+15 
+
+
+nizing cable’s competitive threat to aspects of the tele- 
+phone business, they fought hard to prevent cable opera- 
+tors from using the new Act to offer non-video services 
+on their networks in direct competition with telephone 
+services.” But they did not oppose the cross-ownership 
+rule. To the contrary, the record states that, with the 
+revisions worked out in the House (including the adop- 
+tion of the “good cause” waiver authority), Bell Atlantic 
+and other telephone companies gave explicit support for 
+Section 533(b). 130 Cong. Rec. 27982 (1984) (remarks 
+of Rep. Dingell)"; see also Options for Cable Legislation, 
+supra, at 1088-89 (Pacific Telephone official noting ab- 
+sence of opposition to cross-ownership rule). 
+
+
+D. Post-1984 Developments. Consideration of the 
+issue continued in the Commission after enactment of the 
+statute. In 1988, the Commission tentatively concluded 
+that it should recommend the statute’s repeal. Further 
+Notice of Inquiry, In re Telephone Company-Cable Tele- 
+vision Cross-Ownership Rules, 3 F.C.C.R. 5849. The 
+Commission recognized that commenters “have failed to 
+present any evidence, and do not seriously contend, that 
+carriers do not have the ability to subsidize affiliated 
+cable operations” (id. at 5854) and noted that “tele- 
+phone companies continue to have the ability to deny 
+potential competitors access or to engage in anticompeti- 
+
+
+1 See, e.g., H.R. Rep. 934, supra, at 26-27; 129 Cong. Rec. 
+15455-56, 15458-59, 15465, 15468-69, 15474 (1983); Options for 
+Cable Legislation: Hearings on H.R. 4108 et al. before the Sub- 
+comm. on Telecomm., Consumer Protection, and Finance of the 
+House Comm. on Energy and Commerce, 98th Cong., Ist Sess. 
+173, 435, 501, 607, 1087 (1983). 
+
+
+‘©“The measure the House is considering today contains addi- 
+tional protections for telephone companies regarding cross- 
+ownership and pole attachment rules. With these additions, all 
+issues of concern to the telephone industry have been fully and 
+fairly resolved. I am aware of no formal objection to this legisla- 
+tion at this time from the telephone industry. Indeed, I have 
+received support for the telephone-related parts of this measure 
+from additional segments of the telephone industry, including 
+Ameritech, Bell South, and Bell Atlantic.” J/bid. 
+
+
+16 
+
+
+tive cross subsidies” (id. at 5860). Nevertheless, the 
+Commission “tentatively conclude{d]) that the costs of the 
+cross-ownership ban exceed the benefits” (id. at 5858). 
+The Commission specifically concluded that Section 
+533(b) is valid under the First Amendment (id. at 
+5864), so that its legislative recommendation of repeal 
+was a matter of policy judgment—a judgment opposed at 
+the time by, among others, the National Telecommunica- 
+tions Information Administration (NTIA). Jd. at 5856; 
+see Ct. App. JA 8090. 
+
+
+In 1992, the Commission (by a 3-2 vote) formally 
+recommended that Congress “amend the Cable Act to 
+permit the local telephone companies to provide video 
+programming directly to subscribers in their telephone 
+service areas, subject to appropriate safeguards.” Second 
+Report and Order (Video Dialtone Order), 7 F.C.C.R. 
+5781, 5847. The Commission recognized the dangers of 
+this course of action but concluded that, if safeguards 
+were adopted, the risks would be “outweighed by the 
+potential public interest benefits.” Jd. at 5848-49. Both 
+NTIA and the Justice Department now voiced similar 
+policy views. See Pet. App. 55a n.8. 
+
+
+Congress, meanwhile, was actively considering the 
+issue. Proposals to repeal Section 533(b) and to sub- 
+stitute a variety of regulatory safeguards (such as limita- 
+tions on a telephone company’s use of more than 25% 
+of its channel capacity, coupled with separate corporate 
+operations and close FCC supervision) were introduced in 
+Congress repeatedly between 1988 and 1992. During 
+extensive hearings, evidence was submitted explaining the 
+continued existence of anticompetitive dangers and the 
+inadequacy of regulatory checks. See Pet. App. 55a-S6a; 
+Ct. App. J.A. Tabs 65-67, 102-03, 107-22. 
+
+
+In the 1992 Cable Act, Congress rejected the pro- 
+posals for repeal. It instead chose other means to regu- 
+late the cable industry, including rate regulation, prohibi- 
+tion of exclusive franchising, and promotion of diverse 
+ownership of new wireless cable technologies. See 47 
+
+
+17 
+
+
+U.S.C. §§ 533(a)(2), 541(a), 543. The Senate Report 
+accompanying the 1992 Act reaffirms that Section 533(b) 
+and the other cross-ownership rules still “enhance com- 
+petition.” S. Rep. 92, 102d Cong., Ist Sess. 46-47 
+(1991). 
+
+
+Il. This Litigation 
+
+
+A. District Court Proceedings. In 1992, respondents 
+Chesapeake and Potomac Telephone Company of Vir- 
+ginia and Bell Atlantic Video Services brought this suit 
+in the United States District Court for the Eastern Dis- 
+trict of Virginia seeking to enjoin enforcement of Section 
+533(b) as invalid under the First Amendment. The origi- 
+nal defendants were the United States, the Attorney Gen- 
+eral, and the Commission. Petitioner NCTA intervened 
+as a defendant. Ultimately (after judgment), Bell At- 
+lantic Corporation and its other subsidiaries offering local 
+telephone service (all respondents here) were joined as 
+plaintiffs—collectively, “Bell Atlantic.” See JA 4. 
+
+
+The parties filed cross-motions for summary judgment 
+and compiled a record that, on the defendants’ side, in- 
+cluded expert economist affidavits, government reports, 
+and other materials explaining the rationale behind Sec- 
+tion 533(b) and the reasonableness of choosing a struc- 
+tural over a regulatory solution to the problems addressed 
+by the statute. See, e.g., JA 31 (1981 FCC Staff report), 
+79 (1987 GAO report), 119 (1993 GAO report), 222 
+(affidavit of professor and former Commissioner Glen 
+Robinson), 241 (affidavit of Dr. Bruce Owen, professor 
+and former chief economist of the Antitrust Division and 
+of the White House Office of Telecommunications Pol- 
+icy), 331 (reply affidavit of Dr. Bruce Owen). The dis- 
+trict court granted judgment for Bell Atlantic, holding 
+that the statute on its face violates the First Amendment. 
+Pet. App. 46a-93a. The court did not discuss, and the 
+parties did not press any argument based on, the “good 
+cause” waiver provision of Section 533(b)(4). See Pet. 
+
+
+18 
+
+
+App. 47a (treating case as involving only the presumptive 
+bar set forth in Section 533(b)(1) and (2)). 
+
+
+The district court initially reasoned that the appropri- 
+ate standard of review was neither strict scrutiny nor ra- 
+tionality review but “intermediate scrutiny” as set forth 
+in United States v. O’Brien, 391 U.S. 367 (1968), and 
+Ward v. Rock Against Racism, 491 U.S. 781, 791 
+(1989). The district court thus asked if the statute is 
+““narrowly tailored to serve a significant governmental 
+interest’ ” unrelated to content and “ ‘leave[s] open ample 
+alternative channels for communication.’” Pet. App. 61a. 
+On the second issue, the court had “little doubt that the 
+Statute leaves open ample alternative channels for com- 
+munication.” Pet. App. 8la. “Clearly, . . . § 533(b) 
+operates only as a restriction on the ‘manner’ in which 
+
+
+plaintiffs may speak, not as an outright ban on their 
+ability to do so.” Pet. App. 71a n.19." 
+
+
+On the narrow tailoring issue, the district court readily 
+concluded that “the preservation of diversity of ownership 
+of communications outlets is a significant governmental 
+interest” (Pet. App. 83a-84a), explained that “courts 
+must not substitute their judgment on policy matters for 
+that of Congress” (id. at 86a), and accepted that “cross- 
+subsidization is uncontrollable by means of regulatory 
+oversight” (id. at 91a & n.34). Nevertheless, the court 
+
+
+17 The court detailed some (though not all) of the ways Bell 
+Atlantic may offer video speech. “Plaintiffs may provide video 
+programming to audiences outside their service area, and may 
+speak through any type of non-video medium to audiences inside 
+their service area. Even more significantly, however, plaintiffs may 
+also reach audiences within their service area with video program- 
+ming. Section 533(b) only prohibits plaintiffs from directly pro- 
+viding video programming to their subscribers. Plaintiffs are not 
+prohibited from producing their own video programming and 
+marketing it to broadcasters or cable operators for transmission 
+by means other than the plaintiffs’ own facilities. Public access 
+requirements ensure that such programming cannot be silenced 
+by the entities responsible for the direct provision of video pro- 
+gramming.” Pet. App. 7la n.19. 
+
+
+19 
+
+
+held that the cross-ownership rule failed intermediate 
+scrutiny for the sole reason that, in the court’s view, there 
+was no greater likelihood of exploitation of monopoly 
+power from telephone companies’ entry into cable than 
+from what is currently permitted—offering of common- 
+carrier video transmission service to unaffilated program- 
+mers, who then independently sell programming to con- 
+sumers. /d. at 9la-92a (“[t]he essential point is that 
+telephone companies may already, under existing law, 
+compete in the video transport market, and if it were 
+possible for them to reap supracompetitive profits in that 
+market through cross-subsidization, the telephone com- 
+panies could do so irrespective of § 533(b)”); id. at 
+88a. The district court enjoined enforcement of Section 
+533(b) against Bell Atlantic and its various subsidiaries. 
+See Pet. App. Sa. 
+
+
+B. The Court of Appeals Decision. The Fourth Cir- 
+cuit affirmed. Pet. App. la-45a. The court began by 
+stating that it need not consider the waiver provision of 
+Section 533(b)(4), which the court described—overlook- 
+ing the “good cause” standard—as limited to situations 
+where cable service could not be provided except by a 
+telephone company. Pet. App. 4a n.1. Looking only at 
+Section 533(b)(1) and (2), the court agreed with the 
+district court that the proper standard of review was 
+“intermediate scrutiny,” as most recently elaborated in 
+Turner Broadcasting System v. FCC, 114 S. Ct. 2445 
+(1994). Pet. App. 16a-33a. In applying the standard, 
+the court treated as wholly irrelevant this Court’s unani- 
+mous ruling in FCC v. National Citizens Committee for 
+Broadcasting (NCCB), 436 U.S. 775 (1978). that a 
+broadcast licensee could constitutionally be barred from 
+entering the newspaper business in its broadcast service 
+area. Pet. App. 18a-19a."* 
+
+
+'**The court mistakenly attributed to NCTA the view that 
+NCCB calls for, and Section 583(b) should be subject to, mere 
+rationality review. See Pet. App. 17a-20a. NCTA in fact urged 
+that NCCB, though not expressly invoking any standard, supplied 
+
+
+20 
+
+
+Applying Turner, the Fourth Circuit agreed that the 
+governmental interests in preventing “cross-subsidization” 
+and “network-access discrimination” and “preserving di- 
+versity of ownership of communications outlets and of 
+the means of electronic access to homes and businesses” 
+were unquestionably significant. /d. at 33a-34a. The 
+court also took as a given “that ordinary regulatory over- 
+sight is insufficient to guard against telephone company 
+use of cross-subsidization in the cable transport market” 
+and that, contrary to the district court’s “essential” ra- 
+tionale, telephone company entry into the (less regulated) 
+retail cable business does in fact present greater economic 
+problems than telephone company offering of (more 
+tightly regulated) common carrier transmission service. 
+Id. at 39a. Even so, the court of appeals concluded that 
+the statute failed intermediate scrutiny. 
+
+
+The first problem, the court held, was that in the ab- 
+sence of factual findings by Congress (Pet. App. 35a, 
+39a) or a record of pre-1984 FCC consideration of 
+“other, less drastic regulatory schemes” (id. at 40a), the 
+court was “not convinced” that Section 533(b) is nar- 
+rowly tailored to address the identified problems. /d. at 
+39a. The court cited a single “ ‘obvious less-burdensome 
+alternative’ ” as the reason for its conclusion (id. at 41a): 
+a rule requiring telephone companies to offer a fixed 
+percentage of their channel capacity to independent pro- 
+grammers (coupled, presumably, with rules on cost ac- 
+counting and discrimination, plus administrative over- 
+sight). /bid. The court did not offer an explanation, or 
+citation to any evidence in the record, showing how—on 
+the court’s own assumption that “ordinary regulatory 
+oversight is insufficient” (id. at 39a)—this alternative so 
+demonstrably protected against the evils targeted by Sec- 
+tion 533(b) as to justify upsetting Congress’s judgment. 
+
+
+a “similar framework” to intermediate scrutiny. NCTA Ct. App. 
+Reply Br. 1, 8; see NCTA Ct. App. Br. 13, 16. 
+
+
+——._ _ ez 
+
+
+21 
+
+
+The second problem with Section 533(b), the court 
+concluded, is that it does not “leave open ample alterna- 
+tive methods of communication.” Pet. App. 43a. With- 
+out any reference to the “good cause” provision of Sec- 
+tion 533(b)(4), the court characterized the statute as 
+“bar[ring] absolutely the telephone companies from enter- 
+ing, with editorial discretion, the cable television market.” 
+Id. at 43a. The court did not dispute (or in some in- 
+stances recognize) that Bell Atlantic may offer video pro- 
+gramming in various ways: ¢.g., through its own broad- 
+cast stations or networks or others’ broadcast stations or 
+networks; through its own satellite or wireless cable serv- 
+ice; through independent cable systems (by selling its pro- 
+gramming, as other cable programmers must do; or by 
+using leased access, under 47 U.S.C. § 532); through 
+providing its programming to the retail program pack- 
+agers providers on Bell Atlantic’s own video network.” 
+The court stressed that, “unlike other video programmers, 
+the telephone companies cannot guarantee that their pro- 
+gramming will reach this audience.” Pet. App. 13a-14a. 
+
+
+Both the government and NCTA sought rehearing. 
+Petitioner NCTA argued that the “good cause” waiver 
+authority of Section 533(b)(4) was broad enough to 
+allow for the very sort of “narrow tailoring” of restric- 
+tions on telephone company provision of video program- 
+
+
+™” On a video dialtone network with Section 533(b)(1) and (2) 
+enforced, the telephone company provides the transmission plat- 
+form (and several other consumer services) but does not act as a 
+retail seller of programming to consumers. Instead, it leases chan- 
+nels on the network, individually or in groups, to independent 
+programmers/packagers, who, like cable operators, may acquire 
+programming from diverse sources and then act as the retailers of 
+video programming to consumers. The Commission has made clear 
+that Section 533(b) presents no bar to the telephone companies’ 
+reaching their in-region audience by supplying their programminy 
+to the independent programmers ‘packagers on their video dialtone 
+networks. See Video Dialtone Reconsideration Order, 10 F.C.C.R. 
+244, 280-01 (1994); In re Time Warner Entertainment Co., 8 
+F.C.C.R. 7106 (1998). 
+
+
+22 
+
+
+ming that would avoid the substantial constitutional prob- 
+lems that the Fourth Circuit found present in the basic 
+cross-ownership bar (paragraphs (1) and (2)) when 
+read in isolation from the waiver authority.” The gov- 
+ernment, however, was silent on the issue. The court of 
+appeals denied rehearing on January 18, 1995. Pet. App. 
+94a-97a. 
+
+
+III. Subsequent Agency Action 
+
+
+Two days after rehearing was denied, the Commission 
+released an order tentatively proposing the “saving” con- 
+struction of the “good cause” waiver provision that the 
+Fourth Circuit had just passed over without comment. 
+See Pet App. 98a-102a. The Commission noted the sub- 
+Stantial constitutional questions reflected in the Fourth 
+Circuit’s opinion and its obligation to construe the statute, 
+which it administers, to avoid such questions. Pet. App. 
+100a.“" The Commission explained that “good cause” 
+ordinarily refers to “changed circumstances” and that cir- 
+cumstances in the cable industry—‘“no longer a fledgling 
+industry"—-had changed dramatically. Jd. at 99a. The 
+Commission also reasoned that, if regulatory safeguards 
+designed to address the economic dangers underlying the 
+statute were fashioned, compliance with those safeguards 
+as a condition of a waiver would “constitute ‘particular 
+circumstances . . ., taking into account the policy’ of 
+Section 533(b).” Pet. App. 100a. In the Commission’s 
+proposed view, then, the “good cause” waiver provision, 
+previously overlooked in the analysis of Section 533(b), 
+should be construed to narrow the cross-ownership rule so 
+
+
+** Prompted by a new Ninth Circuit ruling, GTE California, 
+Inc. v. FCC, 39 F.3d 940, 946 (1994), NCTA had briefly raised 
+this issue in a letter to the Fourth Circuit one week before the 
+Fourth Circuit’s decision. 
+
+
+*" At present, all of the Regional Bell Operating Companies are 
+beneficiaries of court decisions holding, without regard to the 
+statutory waiver authority, that Section 533(b) is unconstitutional. 
+See Pet. App. 109a n.15 (citing cases, including US West, Inc. v. 
+United States, 48 F.3a 1092 (9th Cir. 1995)). 
+
+
+23 
+
+
+as to “render Section 533(b) constitutional.” Jd. at 
+10la. 
+
+
+On May 16, 1995, the Commission adopted this con- 
+struction of Section 533(b)(4) as a final interpretive rule 
+and concluded that Section 533(b)(4) authorized, at a 
+minimum, the direct provision of programming by tele- 
+phone companies over their video dialtone networks (i.e., 
+on networks open to independent programmers). See Pet. 
+App. 103a, 104a. The Commission noted its duty to 
+“avoid[] the constitutional infirmity identified by the Fourth 
+and Ninth Circuits by making available the * “obvious less- 
+burdensome alternative”’ referenced by those courts.” 
+Pet. App. 107a; id. at 116a, 119a-20a. The Commission 
+Stated that “absent a waiver allowing telephone com- 
+panies to offer video programming over video dialtone 
+networks [that is, where other programmers have access 
+to the video network], there is a serious question as to 
+whether Section [533(b)] unnecessarily burdens substan- 
+tially more speech than is necessary to promote competi- 
+tion in the multi-channel video programming market.” 
+Ibid. (footnote omitted ). 
+
+
+The Commission explained that the policy behind Sec- 
+tion 533(b) and the predecessor FCC rule is to promote 
+competition, with the measures having sought to “prevent 
+the telephone companies from using their monopoly posi- 
+tion to preempt the market for cable service by excluding 
+others from entry.” Pet. App. 1lla (footnote omitted). 
+Given cable’s maturity now, the Commission reasoned, 
+the “concern with ensuring that the cable industry not be 
+extinguished before it is established is no longer relevant.” 
+Id. at 112a. So, too, technological changes have “made 
+it possible for a multitude of programmers to reach end 
+user customers and have mitigated to a fair degree the 
+competitive concerns” underlying the presumptive bar: 
+these “changed circumstances” constitute “good cause” 
+for a waiver under proper conditions. /d. at 112a-13a. 
+
+
+The Commission added that the rules establishing those 
+conditions—including at least the provision by a tele- 
+
+
+24 
+
+
+phone company of programming on its own video dialtone 
+network—will constitute “ ‘particular circumstances . . ., 
+taking into account the policy’” of the statute. Pet. App. 
+113a (quoting § 533(b)(4)). These rules will not allow 
+telephone company entry in any and all circumstances, 
+but will impose limitations, and those limitations will be 
+designed to address discrimination and cross-subsidization, 
+the evils targeted by Section 533(b). Pet. App. 113a- 
+114a, 117a. The circumstances thus will be “particular” 
+and the policies of the statute taken into account. At 
+the same time, the constitutional questions raised by the 
+Fourth Circuit are avoided, as the waiver authority “con- 
+stitutes implementation of the ‘obvious less burdensome 
+alternative’ to the ban identified by the Fourth Circuit.” 
+Pet. App. 1 15a (footnote omitted ). 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The Fourth Circuit’s invalidation of Section 533(b) 
+should be reversed. The court properly gave the statute 
+the searching inquiry into its justifications and reach that 
+is required under intermediate scrutiny. Under those 
+standards, however, the statute should be upheld, not 
+struck down, against Bell Atlantic’s challenge. 
+
+
+1. The Fourth Circuit's decision is wrong, first of all, 
+because it violates the cardinal principle that a statute 
+should be construed, where fairly possible, to avoid con- 
+stitutional difficulties. The Fourth Circuit simply misread 
+the waiver authority of Section 533(b)(4), disregarding 
+the fact that the Commission is authorized to waive the 
+presumptive cross-ownership bar for “good cause.” That 
+authority can hardly be ignored in judging the constitu- 
+tionality of Section 533(b), for it plainly limits the re- 
+strictive reach of the statute. And the provision is in fact 
+properly construed, as the Commission has now done, 
+to narrow the impact of the presumptive cross-ownership 
+bar on telephone companies’ speech so as to avoid the 
+serious constitutional questions identified by the Fourth 
+Circuit and, indeed, expressly to allow Bell Atlantic to 
+
+
+25 
+
+
+offer video programming under the very type of narrowly 
+tailored regulatory safeguards that the Fourth Circuit 
+deemed the constitutionally required alternative to Sec- 
+tion 533(b). 
+
+
+The Commission’s construction of Section 533(b)(4) 
+is based on identified changes in the circumstances di- 
+rectly relevant to the fulfillment of the pro-competitive 
+policy of the statute. The Commission has thus specified 
+“particular circumstances” in which there is “good cause” 
+for waivers, “taking into account the policy” of the stat- 
+ute. Section 533(b)(4). The Commission’s construction 
+should be adopted because it “avoid[s] substantial con- 
+stitutional questions” and is both “fairly possible” as a 
+textual matter and “not plainly contrary to the intent of 
+Congress.” United States v. X-Citement Video, Inc., 115 
+S. Ct. 464, 467, 472 (1994). 
+
+
+2. Even if this Court rejects the Commission’s “sav- 
+ing” construction of Section 533(b)(4), it should reverse 
+the court of appeals’ facial invalidation of the statute on 
+summary judgment. The Fourth Circuit did not question 
+the reality of the economic problems targeted by Section 
+533(b). It rested its decision, instead, on its determina- 
+tion that the targeted problems could and should be ad- 
+dressed through regulatory standard-setting and oversight 
+rather than a structural bar. But that conclusion was im- 
+proper for the simple reason that there is no adequate 
+ground for deeming unreasonable the congressional deter- 
+mination that regulatory measures are less than satisfac- 
+torily effective. Under the standards of intermediate scru- 
+tiny as set out in Turner Broadcasting System v. FCC, 
+114 S. Ct. 2445 (1994), Section 533(b) should survive. 
+
+
+The Fourth Circuit also faulted Section 533(b) for 
+leaving too few avenues of speech open to local telephone 
+companies. Nothing in Turner, however, indicates that 
+there is a separate inquiry into other avenues of speech, 
+once the statute has been shown to be narrowly tailored— 
+that is, that the means adopted are more effective than 
+alternatives at achieving an important government inter- 
+
+
+26 
+
+
+est. In any event, the Fourth Circuit’s view of the speech 
+avenues left open to local telephone companies was flawed 
+factually and legally. In particular, the court gave little 
+or no regard to a range of means by which telephone 
+companies can offer in-region video speech, including 
+broadcasting, wireless cable, and programming through 
+the retail providers on the telephone companies’ planned 
+video dialtone networks. And the court improperly dis- 
+regarded the most relevant precedent, this Court's deci- 
+sion in FCC v. NCCB, 436 U.S. 775 (1978), which 
+unanimously held that the government, upon a proper 
+justification in terms of a legitimate public interest, could 
+bar a broadcaster from entering the newspaper business 
+in its broadcast region, leaving the broadcaster free to 
+publish an out-of-region newspaper and to engage in in- 
+region non-newspaper speech. The similar cross-ownership 
+rule here, well-justified in terms of important public inter- 
+ests, should likewise be upheld. 
+
+
+ARGUMENT 
+
+
+I. SECTION 533(b) IS VALID UNDER A PROPER 
+“SAVING” CONSTRUCTION OF THE WAIVER 
+AUTHORITY SET FORTH IN THAT SECTION 
+
+
+This Court has repeatedly stressed that “a statute is to 
+be construed where fairly possible so as to avoid sub- 
+stantial constitutional questions.” United States v. X- 
+Citement Video, Inc., 115 S. Ct. 464, 467 (1994). See 
+id. at 472 (where a statutory construction “would raise 
+serious constitutional doubts[,] [i]t is . . . incumbent upon 
+us to read the statute to eliminate those doubts so long 
+as such a reading is not plainly contrary to the intent of 
+Congress”). This principle is rooted in the constitu- 
+
+
+22 See, e.y., Edward J. DeBartolo Corp. v. Florida Gulf Coast 
+Bldg. & Constr. Trades Council, 485 U.S. 568, 575 (1988); NLRB 
+v. Catholic Bishop of Chicago, 440 U.S. 490, 499-501 (1979) ; 
+International Ass'n of Machinists v. Street, 367 U.S. 740, 749-50 
+(1961); Crowell v. Benson, 285 U.S. 22, 62 (1982); Murray v. 
+The Schooner Charminy Betsy, 6 U.S. (2 Cranch) 64, 118 (1804). 
+
+
+27 
+
+
+tional respect owed to Congress by the Judicial Branch. 
+It therefore imposes an independent duty on the courts— 
+applicable even in a case, like the present, where the 
+parties themselves overlooked the issue of a saving con- 
+Struction until well into the proceeding. Cf. Jean vy. 
+Nelson, 472 U.S. 846, 854-55 (1985) (applying rule 
+although both sides, including Government, continued to 
+press for constitutional ruling); X-Citement Video, supra 
+(applying rule where Government urged saving construc- 
+tion for the first time in Supreme Court). 
+
+
+The principle applies in this case. The waiver author- 
+ity set forth in Section 533(b)(4), if construed as the 
+Commission has now properly construed it, eliminates the 
+“substantial constitutional questions” identified by the 
+Fourth Circuit and numerous other federal courts. Once 
+such “questions” (or even “doubts”) are acknowledged 
+to be “substantial” or “serious,” the waiver authority 
+should be construed to narrow the statute, precisely in 
+order to avoid actual decision of the constitutional issues. 
+
+
+A. The Commission’s Construction of Section 533(b) (4) 
+Removes the Bases for the Fourth Circuit’s Invali- 
+dation of the Statute 
+
+
+The Fourth Circuit raised serious constitutional ques- 
+tions about Section 533(b)(1) and (2) not because it 
+found the risks of monopoly abuse underlying the statute 
+to be anything but real, but because it found that a flat 
+cross-ownership bar is too ill-fitting a way of addressing 
+those risks: the targeted problems can be addressed 
+through regulatory standards, and too much speech is 
+foreclosed by forbidding in-region cable service. In par- 
+ticular, as to narrow tailoring, the Fourth Circuit relied 
+on the “ ‘obvious less-burdensome alternative’” of allow- 
+ing a telephone company to provide programming on its 
+network under rules requiring substantial access to that 
+network for independent programmers. Pet. App. 41a. 
+As to alternative avenues of communication, the Fourth 
+Circuit found the critical flaw to be that “the telephone 
+
+
+28 
+
+
+companies cannot guarantee that their programming will 
+reach [their in-region] audience.” /d. at 13a-14a. 
+
+
+The Commission's interpretation of Section 533(b)(4) 
+by its terms solves both of these problems. Pet. App. 
+107a, 116a, 119a-120a. While the Commission has not 
+detailed all of the circumstances where telephone com- 
+pany provision of video programming would be allowed 
+under Section 533(b)(4), it has explicitly concluded that 
+such direct provision of video programming is authorized 
+under the single set of conditions identified by the Fourth 
+Circuit as presenting an “ ‘obvious less-burdensome alter- 
+native,” i.e., where the telephone company is one among 
+many programmers on its video dialtone network. Pet. 
+App. 104a, 106a. Similarly, allowing direct telephone 
+company retailing of video programming under those con- 
+ditions eliminates the reason the Fourth Circuit found the 
+statute to leave open too few avenues of in-region speech: 
+under the Commission’s rule, the telephone companies can 
+“euarantee that their programming will reach [their in- 
+region] audience.” /d. at 13a-l4a. As the Commission 
+concluded, its interpretation of Section 533(b)(4) di- 
+rectly eliminates the bases for the Fourth Circuit's facial 
+invalidation of the statute. 
+
+
+Moreover, the Commission’s interpretation solves any 
+“as applied” problem here, because it allows Bell At- 
+lantic to carry out its concrete plan for video program- 
+ming. In the district court, Bell Atlantic alleged in its 
+complaint and subsequently stipulated that, if permitted 
+to proceed, its plan was to enhance its copper telephone 
+network to allow for its own video programming and that 
+“the network will also be available for use by other video 
+programmers on a common carrier basis.” JA 13 (Com- 
+plaint € 28, opening paragraph of “as applied” count). 
+See JA 214 (Stipulation € 97: “If C&P’s telephone net- 
+work is enhanced as referred to in the Complaint, 4 28, 
+plaintiffs assertedly plan to . . . use the network, as en- 
+hanced, for the transmission to consumers of video pro- 
+gramming provided by [Bell Atlantic’s video affiliate] 
+
+
+es _ ae 
+
+
+29 
+
+
+[and] the video programming of unaffiliated program pro- 
+viders”); ibid. (Stipulation 4 98: Bell Atlantic’s network 
+would be available to “unaffiliated video programmers . . . 
+on a tariffed, non-discriminatory, basis”). The Commis- 
+sion’s interpretation of Section 533(b)(4) permits tele- 
+phone company provision of video programming in just 
+such circumstances. 
+
+
+B. The Commission’s Interpretation of Section 533(b)(4) 
+Is a Proper Saving Construction 
+
+
+The Commission’s construction of Section 533(b)(4) 
+is “fairly possible” as a textual matter. X-Citement Video, 
+115 S. Ct. at 467. The Commission, of course, is owed 
+deference in construing Section 533(b)(4). Chevron 
+U.S.A., Inc. v. NRDC, 467 U.S. 837 (1984). Under 
+these standards, the “good cause” authority of Section 
+533(b)(4) may properly be read to permit a waiver 
+upon compliance with regulatory safeguards that address 
+the economic dangers underlying the general cross- 
+ownership rule while reflecting any material changes of 
+circumstances since adoption of the rule, i.e., changes 
+affecting the policy balance of risks and benefits addressed 
+in the statute. 
+
+
+“Good cause,” as the Commission observed, is com- 
+monly interpreted to refer to materially changed circum- 
+stances. Pet. App. 99a, 112a; see, e.g., Illinois v. ICC, 
+713 F.2d 305, 310 (7th Cir. 1983); Greyhound Corp. v. 
+ICC, 668 F.2d 1354, 1362 (D.C. Cir. 1981). In addi- 
+
+
+23 Bell Atlantic has pointed to Kleem v. INS, 479 U.S. 1308 (1986) 
+(Scalia, Circuit Justice), as taking a narrow view of “good cause.” 
+Bell Atlantic Response to Petitions at 20-21. But the invocation 
+of good cause in that case involved no claim of changed circum- 
+stances. Moreover, unlike the asserted claim for good cause relief 
+in Kleem, the Commission’s interpretation of Section 533(b) (4) 
+would not abolish the rule. The rule will apply to any telephone 
+company that fails to meet the specific Commission requirements 
+for a waiver and will, moreover, supply the policy that determines 
+the contours of those waiver requirements—which might prove 
+distinctly objectionable to some telephone companies. 
+
+
+30 
+
+
+tion, a waiver based on and confined to new and well- 
+defined circumstances, if the changes alter the relevant 
+policy balance, would be “justified by the particular cir- 
+cumstances demonstrated by the petitioner, taking into 
+account the policy of this subsection.” Section 533(b) (4). 
+Indeed, the statute’s express direction to the Commission 
+to “tak[e] into account the policy” of the section is most 
+naturally read as an affirmative textual indication of con- 
+gressionally granted authority for the Commission to do 
+just what it did here, i.e., to assess whether any changed 
+circumstances alter the policy balance behind the pre- 
+sumptive bar of paragraphs (1) and (2) of the statute 
+so that relaxation of the bar in specified circumstances, 
+rather than rigid enforcement of it, would serve the pro- 
+competitive policy behind Section 533(b) and the Cable 
+Act as a whole. See 47 U.S.C. §521(6).™ 
+
+
+The conclusion that this construction is “fairly pos- 
+sible” is consistent with this Court’s holding in MCI Tele- 
+communications Corp. v. AT&T, 114 §. Ct. 2223 (1994), 
+that 47 U.S.C. § 203(b)(2), which permits the Commis- 
+sion to “modify” tariff-filiag requirements only in “special 
+circumstances,” does not allow wholesale abrogation of 
+the general tariff-filing rule. /d. at 2228. Most impor- 
+tantly, the principle requiring avoidance of serious con- 
+stitutional issues played no role whatever in MC/. That 
+principle significantly alters the interpretive calculus. In- 
+deed, this Court in X-Citement Video relied on the prin- 
+ciple to adopt what it acknowledged was not the “most 
+natural grammatical reading” of the statute at issue. 115 
+S. Ct. at 467. See also cases cited in note 22, supra. 
+
+
+In any event, the statutory text at issue here is materi- 
+ally different from, and more readily accommodating of 
+
+
+24 Section 533(b)(4) also states that waivers are to be “made 
+in accordance with” the FCC’s cross-ownership regulation in effect 
+on Sept. 20, 1984. 47 U.S.C. §533(b)(4). That regulation, like 
+the statute, identified “good cause” as an independent basis for a 
+waiver. 
+
+
+31 
+
+
+the asserted “changed circumstances” authority than, the 
+text of Section 203(b)(2). The MCI decision rested 
+overwhelmingly on the restrictive meaning of Section 
+203(b)(2)’s word “modify” as allowing only “moderate 
+change.” /d. at 2229-32 (framing issue as turning on the 
+meaning of “modify”). Section 533(b)(4) does not use 
+that word, but instead uses the broader term “waive,” 
+which does not imply the same limited degree of change.*° 
+In addition, Section 533(b)(4) contains, whereas Section 
+203(b)(2) lacks, an explicit, affirmative directive to the 
+Commission to grant relief based on a direct considera- 
+tion of the underlying statutory policy; the inclusion of 
+such a directive is naturally understood as a suggestion 
+that the Commission do just what it did here. Also, 
+whereas Section 203(b)(2) uses the phrase “special cir- 
+cumstances” to restrict the Commission’s authority, Sec- 
+tion 533(b)(4) uses a different phrase, “particular cir- 
+cumstances”——-which more readily carries the meaning of 
+detailed and specific, rather than peculiar or unusual— 
+and it uses this phrase, moreover, nof as a restriction on 
+the relief the Commission “may” grant but, in a separate 
+sentence, to set a standard for waivers the Commission 
+“shall” grant. 
+
+
+Finally, the Commission’s construction of the waiver 
+standard does not effect an “abolition of the rule itself” 
+(Bell Atlantic Response to Petitions at 21): far from 
+freely allowing entry into cable, the Commission would 
+impose specific conduct-based conditions implementing the 
+policy of the specific statutory section—conditions to which, 
+in fact, Bell Atlantic and other telephone companies may 
+vigorously object. See Pet. App. 100a, 117a. For example, 
+the Commission has indicated that it generally would 
+deny waivers for telephone company entry into the cable 
+
+
+*5 The dictionary definition of “waive” does not restrict the term 
+to minor exceptions to a rule. American Heritage Dictionary 2008 
+(3d ed. 1992) (“give up (a claim or right) voluntarily; relin- 
+quish”; “refrain from insisting on or enforcing (a rule or penalty, 
+for example) ; dispense with”). 
+
+
+32 
+
+
+business through purchase of an existing cable system. 
+See Pet. App. 117a. In its rulemaking to specify the 
+conditions of waiver, the Commission may require tele- 
+phone companies either to provide video dialtone service 
+(allowing access by independent programmers) or to 
+operate stand-alone cable systems, but not grant waivers 
+for telephone companies to operate a joint voice-video 
+facility over which it exercises control of the program- 
+ming. The Commission may deny waivers for telephone 
+companies that fail to comply with Title VI of the Com- 
+munications Act, i.e., with the Cable Act. The Commis- 
+sion may impose other requirements—e.g., relating to 
+corporate structure, accounting methods, audits, non- 
+discriminatory practices—as well. See Fourth Further 
+Notice of Proposed Rulemaking, 10 F.C.C.R. 4617 
+(1995); 94-1893 Pet. App. 113a. Unlike the Commis- 
+sion decision in MCI, which simply eliminated the tariff- 
+filing duty for a whole class of telephone companies 
+defined by who they are (i.e., nondominant), the Com- 
+mission’s construction of Section 533(b)(4) will leave 
+the presumptive statutory bar in place for all telephone 
+companies that, though they may wish otherwise, fail to 
+act in accord with the behavioral requirements made con- 
+ditions of waiver. 
+
+
+If the Commission’s construction of the text is thus 
+“fairly possible” within the meaning of the doctrine re- 
+quiring avoidance of serious constitutional questions (X- 
+Citement Video, 115 S. Ct. at 467; note 22, supra), the 
+Commission’s construction also is “not plainly contrary 
+to the intent of Congress.” X-Citement Video, 115 S. Ct. 
+at 472. Whatever the precise reach of the congressional 
+judgment made in 1984, nothing in the “sparse” legisla- 
+tive history (Pet. App. 53a) reveals a clear judgment to 
+preclude Commission waiver if, in the district court’s 
+words, “the rapidly changing nature of the telecommunica- 
+tions field has caused the rationale supporting the [pre- 
+sumptive bar in the] statute to evolve over time.” Pet. 
+App. 8la. To the contrary, the language ultimately 
+
+
+33 
+
+
+adopted in paragraph (4) suggests a compromise, follow- 
+ing debate on the flexibility of the authority to be left 
+to the Commission, designed not to resolve the issue.” 
+
+
+The particular policies behind Section 533(b) support 
+the same conclusion. Congress sought to promote com- 
+petition in Section 533(b) based on its evident view that, 
+in the circumstances then prevalent, the anticompetitive 
+risks of telephone company entry into cable presumptively 
+outweighed what ordinarily are the procompetitive bene- 
+fits of allowing market entry. But like Bell Atlantic’s 
+expert, Professor Hazlett (JA 173-74), the Commission 
+has now concluded that there have been several changes 
+that materially alter that cost-benefit policy balance in 
+particular circumstances: notably, on the _ risk-of-entry 
+side, cable is no longer a “fledgling” industry whose very 
+development is threatened by telephone entry; on the ben- 
+efits-of-entry side, there are new imperatives for develop- 
+ment of new technologies and potential benefits from fair 
+competition in the video market. Pet. App. 99a-100a, 
+112a-113a; Video Dialtone Order, 7 F.C.C.R. at 5844- 
+45, 5848-49." There is no clear evidence that Congress 
+foreclosed the Commission’s ability to assess such chang- 
+ing conditions to determine whether, under defined cir- 
+cumstances, telephone entry would now serve rather than 
+undermine the very policy that underlies the statute: “to 
+prevent the development of local media monopolies and 
+
+
+26 The floor statement of the legislation’s sponsors that the 
+waiver authority should be “narrowly construed” (see page 14, 
+supra), aside from being a familiar element of any such com- 
+promise, hardly forecloses the issue with any clear meaning: at 
+most it prohibits the Commission from simply disagreeing with 
+Congress’s policy balance without any change of the circumstances 
+that were considered by Congress. See also Weinberger v. Rossi, 
+456 U.S. 25, 35 n.15 (1982) (sponsors’ remarks “are certainly not 
+controlling” ). 
+
+
+27 As discussed below (see pages 41-44, infra), this is a matter 
+involving judgment calls on both factual and policy questions, 
+as to which different views are both reasonable. 
+
+
+34 
+
+
+to encourage a diversity of ownership of communications 
+outlets.” H.R. Rep. 934, supra, at 55. 
+
+
+The Ninth Circuit adverted to the possibility of such 
+a saving construction in GTE California, Inc. v. FCC, 
+supra. See Pet. App. 99a, 12la. And contrary to Bell 
+Atlantic’s contention (Response to Petitions at 21-22), 
+this construction of Section 533(b)(4) is in fact con- 
+sistent with the actual ruling of the D.C. Circuit in NCTA 
+v. FCC, 914 F.2d 285 (D.C. Cir. 1990)—which did not 
+consider any constitutional issue (Pet. App. 120a) and 
+could not, in any event, have influenced the intent of the 
+1984 Congress. The D.C. Circuit held that the “good 
+cause” basis for waivers under Section 533(b)(4) fo- 
+cuses on whether “the advantages to be derived from [the 
+telephone company’s] application cannot be realized in 
+the absence of a waiver” (id. at 289) but that the Com- 
+mission had made no such showing in that case. Here, 
+consistent with that standard, as well as with the Commis- 
+sion’s evolving pre-1984 approach to waivers (see pages 
+7-8, supra), the Commission has identified advantages, 
+including technological and competitive benefits, to be 
+gained from telephone entry into the cable business under 
+prescribed conditions. Pet. App. 100a, 112a-1 13a. 
+
+
+In sum, if changes in relevant circumstances so seri- 
+ously loosen the fit between the cross-ownership bar and 
+the risks it addresses as to raise a serious question about the 
+measure’s constitutionality, as the Fourth Circuit and Bell 
+Atlantic have concluded, those same changes ought to 
+constitute good cause for a waiver that avoids the consti- 
+tutional concerns with Section 533(b). The Commis- 
+sion’s interpretation of Section 533(b)(4) rests on such 
+changes. It is a proper saving construction, and the 
+Fourth Circuit’s facial invalidation of Section 533(b) 
+should be reversed on that ground. 
+
+
+35 
+
+
+IL EVEN WITHOUT REGARD TO THE WAIVER 
+AUTHORITY, SECTION 533(b) SURVIVES INTER- 
+MEDIATE SCRUTINY 
+
+
+Even aside from its mistaken disregard for the narrow- 
+ing function served by a proper construction of “good 
+cause,” the Fourth Circuit decision should be reversed. 
+The “intermediate scrutiny” of Turner and its precursors, 
+applied with a searching focus on the justifications for 
+the law, is the proper standard for review. But the court 
+of appeals drew improper conclusions at each of the two 
+steps—narrow tailoring and alternative means of com- 
+munication—where it found fault with Section 533(b)(1) 
+and (2).” 
+
+
+A. The Statute Is Narrowly Tailored to Serve Impor- 
+tant Government Interests Unrelated to the Sup- 
+
+
+pression of Free Expression 
+
+
+This Court in Turner explained that a statute survives 
+intermediate scrutiny if it both “ ‘furthers an important or 
+substantial government interest . . . unrelated to the sup- 
+pression of free expression’” (114 S. Ct. at 2469, quoting 
+O’Brien, 391 U.S. at 377) and, in addition, satisfies 
+the requirement of “narrow tailoring.” bid. The Court 
+summed up this requirement as demanding that the law 
+not “ ‘burden substantially more speech than is necessary 
+to further the government’s legitimate interests.’” /bid., 
+quoting Ward v. Rock Against Racism, 491 U.S. 781, 
+799 (1989). The Court also explained that the effective- 
+ness of alternative means is part of the assessment: a 
+
+
+**We hereafter assume, as the Fourth Circuit did, that the 
+waiver authority provides no substantial narrowing of the statute. 
+In other words, we assume that, contrary to our argument above, 
+Congress reserved to itself, and did not grant the Commission, 
+the authority to determine when circumstances could be found to 
+have so changed that the policy of the statute could better be 
+addressed through regulatory checks rather than a broad structural 
+bar. In fact, as we have noted (pages 16-17, supra), Congress 
+gave renewed consideration to the issues presented by the cross- 
+ownership rule in 1991 and 1992, and it did not modify the statute. 
+
+
+36 
+
+
+law is narrowly tailored “‘“ so long as the . . . regula- 
+tion promotes a substantial government interest that would 
+be achieved less effectively absent the regulation.” ’ ” /bid., 
+quoting Ward, 491 U.S. at 799, quoting United States v. 
+Albertini, 472 U.S. 675, 689 (1985). The plurality in 
+Turner then explained that, in the exercise of its “inde- 
+pendent judgment when First Amendment rights are im- 
+plicated,” the Court’s role is “to assure that, in formulat- 
+ing its judgments, Congress has drawn reasonable infer- 
+ences based on substantial evidence.” 114 S. Ct. at 
+2471.” 
+
+
+1. The Interests Served by the Statute Are Impor- 
+tant and Real 
+
+
+The Fourth Circuit did not find, and could not have 
+found, that Section 533(b) is facially invalid because it 
+fails the first part of the intermediate-scrutiny test. That 
+component of the test requires that the statute serve a real, 
+rather than conjectural, interest unrelated to the suppres- 
+sion of free expression (here, the prevention of familiar 
+economic harms) and that it directly and materially ad- 
+vance that interest (here, alleviate the harms). Turner, 
+114 S. Ct. at 2470 (plurality); Edenfield v. Fane, 113 
+S. Ct. 1792, 1798-99 (1993); Rubin v. Coors Brewing 
+Co., 115 S. Ct. 1585, 1592 (1995). The Fourth Circuit 
+in this case correctly declined to fault Section 533(b) on 
+this score.” 
+
+
+Both the background to Section 533(b) and the record 
+in this case—to be judged under the standards applicable 
+on summary judgment—attest to the well-recognized 
+problems of economic abuse by a dual-market, regulated/ 
+unregulated monopolist that the statute addresses. The 
+local telephone companies are still rate-regulated monop- 
+
+
+2° Applying that standard, the plurality in Turner was “unable 
+to conclude that the Government has satisfied either inquiry” re- 
+quired by intermediate scrutiny. 114 S. Ct. at 2470. 
+
+
+* Compare Turner, 114 S. Ct. at 2470-71 (plurality) (serious 
+question about the reality of the underlying alleged problem of a 
+threat to the broadcast industry). 
+
+
+37 
+
+
+olies, and the cable business not only is less regulated 
+but has long been clearly perceived by the telephone com- 
+panies to constitute a serious, and growing, threat to their 
+basic monopolies." There are, moreover, unquestionably 
+massive Opportunities for cost-shifting and discrimination 
+in the dual provision of telephone and cable service, at 
+least in the situation contemplated by Bell Atlantic: the 
+construction of a single network for the joint carriage of 
+voice and video signals.” 
+
+In these circumstances, the local telephone companies 
+have the classic incentives, and substantial opportunities, 
+to use entry into the cable business—notably, through 
+
+
+™! See Pet. App. 67a; United States v. Western Electric Co., 993 
+F.2d 1572, 1578 (D.C. Cir.), cert. denied, 114 §. Ct. 487 (1993) ; 
+JA 254, 262, 270 (Owen affidavit), JA 201-02 (stipulations); JA 
+187 (Hazlett affidavit); JA 58-59 (FCC Staff study); see also 
+pages 14-15, supra (legislative history reflecting telephone company 
+recognition of cable threat to telephony at time of 1984 Act). 
+
+The Fourth Circuit did not dispute that telephone rate regula- 
+tion, though modified in recent years to “mov[e] away” from the 
+most traditional form of strict rate-of-return regulation (JA 299 
+(Bell Atlantic affiant) ), still is widely tied to costs: nothing in the 
+record suggests that “pure” price cap regulation, severing all con- 
+nection to costs, has been adopted either by the FCC or generally 
+by the States. (To sustain the Fourth Circuit's affirmance of the 
+facial invalidation of Section 533(b), see Pet. App. 4a, 45a, 93a, 
+Bell Atlantic would have to show—and it plainly has not—that 
+“pure price cap” regulation has been so widely adopted by reg- 
+ulators as to render Section 533(b) “substantially overbroad.” 
+Broadrick v. Oklahoma, 413 U.S. 601, 615 (1973).) Indeed, the 
+record evidence is to the contrary. JA 254 and 262-64 (Owen 
+affidavit), JA 334 (Owen reply affidavit). Nor did the Fourth 
+Circuit doubt that the telephone and cable markets present the 
+structural conditions for the economic problem targeted by Con- 
+gress: they have differential price regulation and demand elastici- 
+ties. See JA 251, 253 (Owen affidavit). Telephone companies, upon 
+entering the cable business, would not be subject to cable rate 
+regulation under the 1992 Act. See Cable Rate Regulation Order, 
+8 F.C.C.R. 5631, 5648 (18 n.45) (1998). 
+
+
+%2 See JA 212-14 (stipulations that, among other things, enhance- 
+ment of facilities in Alexandria, Virginia, alone will cost $50-100 
+million) ; JA 254 (Owen affidavit) ; JA 382 (Owen reply affidavit). 
+
+
+38 
+
+
+cost-shifting and discriminatory self-preference—to exploit 
+telephone ratepayers, to harm the cable market, and to 
+forestall the threat to the telephone monopoly that cable 
+presents as the “second wire” for electronic communica- 
+tions. These problems, which are wholly unrelated to 
+speech, are explained in detail in the record of this case 
+(see JA 241-71 (Owen affidavit); JA 331-36 (Owen 
+reply affidavit) ), were elaborately set forth in the 1981 
+FCC Staff report (see pages 8-9, supra), were articulated 
+by the United States at the time of the 1982 Bell System 
+breakup (see pages 10-12, supra),” and have been recog- 
+nized by the courts and by the scholarly literature.” 
+
+
+%3 The Justice Department’s merger guidelines, which generally 
+take a lenient view of when vertical integration is of antitrust 
+concern, single out for special suspicion the case of vertical integra- 
+tion by a regulated monopolist. See JA 249; United States Dep't 
+of Justice Merger Guidelines § 4.23 (June 14, 1984) (“Evasion of 
+Rate Regulation”). 
+
+
+4 See, e.g., Otter Tail Power Co. v. United States, 410 U.S. 366 
+(1973); Netional Rural Telecom Ass'n v. FCC, 988 F.2d 174, 178 
+(D.C. Cir. 1998) (“Firms can gain by shifting costs away from 
+unregulated activities (where consumers would react to higher 
+prices by reducing their purchases) into the regulated ones (where 
+the price increase will cause little or no drop in sales because under 
+regulation the prices are in a range where demand is relatively 
+unresponsive to price changes).”); California v. FCC, 905 F.2d 
+1217, 1224 & n.5, 1235 (9th Cir. 1990) (discrimination problem, 
+citing FCC sources; cost-shifting enables telephone company “to 
+exact monopoly rents from basic service customers by burdening 
+them with costs from unregulated activities”) ; Southwestern Bell 
+Corp. v. FCC, 896 F.2d 1378, 1379 (D.C. Cir. 1990) (“Diversified 
+telephone companies possess a natural incentive to shift costs to 
+their regulated telephone service, and thereby guarantee the re- 
+covery of those costs from ratepayers.”’). 
+
+A similar point about the distinctive dangers of dual-market 
+participation where one market is a regulated monopoly market 
+has been recognized in the context of tie-ins. See Jefferson Parish 
+Hosp. Dist. No. 2 v. Hyde, 466 U.S. 2, 36 n.4 (1984) (O'Connor, J., 
+concurring in the judgment); Fortner Enterprises, Inc. v. United 
+States Steel Corp., 394 U.S. 495, 518 (1969) (White, J., dissenting). 
+
+
+5° See, e.g., JA 246-47; Brennan, Why Regulated Firms Should 
+Be Kept Out of Unregulated Markets: Understanding the Divesti- 
+
+
+39 
+
+
+Beyond that, the history of telephone company actions 
+against independent cable companies (prior to 1970 and 
+afterward), and the history of comparable actions in re- 
+lated competitive markets that led to the Bell System 
+breakup, show that the distinctive risks of the “regulated/ 
+unregulated” dual-market monopolist are anything but 
+purely theoretical. See, e.g., JA 253, 255-56 (Owen 
+affidavit); pages 5-7, 10-12, supra. Section 533(b) 
+directly prevents these evils. 
+
+
+The Fourth Circuit did not, and could not, deem any 
+of this familiar economics an insubstantial basis for con- 
+gressional action. In reaching its decision, moreover, the 
+Fourth Circuit refused to adopt the district court’s “essen- 
+tial point” (Pet. App. 91a-92a) and instead accepted that 
+entry into the retail cable business presents greater dangers 
+of the targeted abuses than does the telephone companies’ 
+participation, allowed today, in the tariffed, common car- 
+rier, regulated transmission business. Pet. App. 39a. Of 
+course, recognition of those additional risks is the essen- 
+tial premise for the government's repeated insistence, in 
+recommending repeal of Section 533(b) as a_ policy 
+matter, that significant mew regulatory safeguards are 
+needed, over and above those applicable to the trans- 
+mission service telephone companies can today offer, if 
+the telephone companies enter the cable business. See 
+JA 370-374 (1994 Administration White Paper detailing 
+needed new safeguards); JA 377 (FCC Chairman); JA 
+382-85 (Assistant Secretary of Commerce). And the 
+
+
+ture in U.S. v. AT&T, 32 Antitrust Bull. 741 (1987); M. Kellogg, 
+P. Huber, & J. Thorne, Federal Telecommunications Law § 9.3.4 
+at 437 (1992) (“A regulated utility that is also involved in an 
+unregulated competitive business may have both the incentive and 
+opportunity to shift the costs of competitive operations onto the 
+regulated side of the line.”); id. §3.2.4, at 144 (“Even if only 
+partially successful, cross-subsidy may undermine competition or 
+efficiency on both sides of the regulatory line. Prices of the regu- 
+lated service may rise above cost while production of the unregu- 
+
+
+lated good or service may shift into the hands of an inefficient 
+provider.” ). 
+
+
+40 
+
+
+record on summary judgment supplies an explanation. 
+Obtaining monopoly power over video transmission is 
+quite simply more valuable to Bell Atlantic (which is 
+therefore more likely to seek it) if it can be used to 
+exploit the (less regulated) retail cable market than if 
+its value is limited to the lesser profits available in the 
+(more heavily regulated) transmission market. See, e.g., 
+JA 332-33 (Owen reply affidavit); see National Rural 
+Telecom Ass'n v. FCC, 988 F.2d at 180-81. Not sur- 
+prisingly, the Ninth Circuit, in its decision on Section 
+533(b), explicitly acknowledged the sufficiency of the 
+evidence to establish this point. US West, Inc. v. United 
+States, 48 F.3d 1092, 1102 (1995). 
+
+
+Section 533(b), in short, addresses—and directly and 
+materially alleviates—well-recognized economic problems 
+that are unrelated to speech. These problems have been 
+expressly acknowledged by the Commission even as it has 
+recommended repeal of Section 533(b) in the belief that 
+the risks may be reduced (though not eliminated) by 
+regulatory checks and are “outweighed” by the benefits 
+of telephone entry into cable. See pages 15-16, supra. 
+Nor are the problems limited in scope: they are “inherent 
+in the joint provision of regulated monopoly services and 
+unregulated competitive products or services” where sub- 
+stantial opportunities for cost-shifting and discrimination 
+exist. United States’ Response to Public Comments, 47 
+Fed. Reg. at 23,335 (emphasis added). The familiar 
+problems addressed in the law were amply supported in 
+law and telephone-company history and were not greatly 
+controversial; indeed, the telephone companies themselves 
+accepted the law. See page 15, supra. The Fourth Cir- 
+cuit properly did not question that Section 533(b) 
+satisfies the first part of the O’Brien test. 
+
+
+2. Congress Could Reasonably Find Alternatives 
+to the Statute To Be Materially Less Effective 
+Means of Addressing the Targeted Problems 
+
+
+The basis for the Fourth Circuit’s decision, instead, 
+was its view about the proper means of addressing the 
+
+
+41 
+
+
+targeted evils. In the Fourth Circuit’s view, Congress was 
+required to rely on conduct-specific regulatory checks and 
+administrative oversight, rather than a structural bar, as 
+an adequate solution to the economic abuses addressed 
+by the statute. Oddly enough, it reached this conclusion 
+despite its explicit assumption that regulatory checks could 
+reasonably be deemed insufficiently effective to prevent 
+those abuses. Pet. App. 39a; see also id. at 9la & n.34 
+(district court likewise assuming regulatory inadequacy). 
+The assumption, not the conclusion, was correct. 
+
+
+There is no reason in a case like this one to approach 
+scrutiny of the judgment of insufficient regulatory effec- 
+tiveness with a heavy dose of skepticism. Compare Sable 
+Communications of Cal., Inc. v. FCC, 492 U.S. 115 
+(1989) (strict scrutiny of content-based law against the 
+background of good reasons to suspect the lack of a dis- 
+passionate congressional assessment of regulatory effec- 
+tiveness). Nor can this Court, in evaluating the consti- 
+tutional validity of Congress’s enactment, properly bind 
+Congress to accept a regulatory agency’s optimistic eval- 
+uation of its own capabilities (let alone other regulators’ 
+capabilities). In fact, there has long been ample support 
+for the assessment that regulatory solutions are insuffi- 
+ciently effective to redress the problems of cost-shifting 
+and discrimination endemic to a dual-market, regulated / 
+unregulated monopolist.” 
+
+
+*% This is not to say that contrary assessments would be 
+unreasonable, either on the factual question of how effective regu- 
+latory checks are likely to be or on the policy questions of how 
+much inefficacy should be tolerated and how large are the offsetting 
+benefits of telephone entry into cable. See pages 16-17, 23 & 
+note 28, supra (new FCC assessments). As to the question of 
+regulatory effectiveness, Professor Robinson has noted: “The gap 
+between Congress and the FCC on how to deal with the telco 
+problem reduces to a different assessment of the reliability of FCC 
+regulations. The FCC believes that its own discretionary programs 
+are sufficient to avoid the risks of anticompetitive conduct. Self- 
+assessments are not inherently wrong, of course, but the bias on 
+which they rest is always ground for others—Congress, the public 
+
+
+42 
+
+
+The 1981 FCC Staff report detailed the strong reasons 
+to doubt the efficacy of attempts to set and enforce cost- 
+accounting and non-discrimination standards. See page 
+9, supra. The United States, in explaining the Bell 
+breakup, attested in even stronger terms to the same in- 
+adequacy, noting as well the persistent failure of the 
+Commission to solve these problems despite considerable 
+efforts. See pages 11-12, supra. The General Accounting 
+Office has twice examined the possibility of realistic en- 
+forcement of cross-subsidy standards by the Commission 
+and twice come to a negative conclusion. See JA 79 
+(1987 GAO report); JA 118 (1993 GAO report). And 
+experts in this case have submitted affidavits, based on 
+long experience with the industry and the Commission, 
+casting substantial doubt on the effectiveness of regula- 
+tory solutions. See JA 226-40 (Prof. Glen Robinson, 
+former FCC Commissioner); JA 265-69 (Owen Affidavit). 
+
+
+These and other sources provide substantial grounds, 
+in addition to the long history of failed administrative 
+efforts, to deem insufficiently effective any realistic pro- 
+gram of administrative oversight of cost-shifting and dis- 
+crimination. As to cross-subsidy, the fundamental problem 
+is the absence of non-arbitrary, objective standards for 
+the allocation of shared costs or the decision to incur 
+certain costs at all.’ Beyond that are the problems of 
+
+
+and the courts as appropriate—to take a skeptical hard look at the 
+assessment. This counsel comes with particular force in light of 
+the history of telco regulation, a history of FCC frustration in 
+controlling telephone company practices.” JA 226. 
+
+
+87 See, e.g., JA 57 (1981 FCC Staff study), 84 (GAO report: 
+“unavoidably subjective nature of the cost allocation process”), 
+267-68 (Owen affidavit); Permian Basin Area Rate Cases, 390 
+U.S. 747, 804 (1968) (“There is ample support for the Commis- 
+sion’s judgment that the apportionment of actual costs between 
+two jointly produced commodities, only one of which is regulated 
+by the Commission, is intrinsically unreliable’; footnote quoting 
+economist’s statement that “‘[t]o make laborious computations 
+purporting to divide [such] costs is “nonsense on stilts”’”) ; United 
+States Dep't of Justice Merger Guidelines § 4.23 n.85 (referring 
+
+
+43 
+
+
+the massive number of the relevant transactions, the com- 
+plex technology involved, the gross disparity in informa- 
+tion available to the telephone companies and regulators, 
+and the substantial degree of discretion inevitably em- 
+bodied in any accounting system, providing fodder for 
+lengthy and costly disputes. See, e.g., JA 231-35, 266; 
+pages 9, 11, supra. Efforts to prevent subtle discrim- 
+inatory self-preference in the provision of essential 
+monopoly services are subject to similar problems of tech- 
+nological complexity, informational disparity, and room 
+for costly debate. See, e.g., JA 73-75, 231, 268-69; 
+pages 9, 11, supra. And both of these sets of problems 
+are magnified by the fact that telephone costs are divided 
+and subject to regulation partly at the federal level and 
+partly at the state level, so that regulatory oversight 
+would have to be effective at both the state and the fed- 
+eral levels—at both which there are grave problems of 
+inadequate resources. See, e.g., JA 236-38, JA 79, JA 
+119, 
+
+
+In the end, as Bell Atlantic and the Bell Operating 
+Companies explained to the D.C. Circuit, the choice be- 
+tween barring their entry into an adjacent unregulated 
+business or allowing entry subject to regulatory oversight 
+“involves multi-faceted policy judgments based on market 
+analysis, administrative experience, enforcement priorities, 
+
+
+to “insoluble cost allocation problem”) ; Town of Concord v. Boston 
+Edison Co., 915 F.2d 17, 27 (1st Cir. 1990), cert. denied, 499 U.S. 
+931 (1991) (“Accounting systems for allocating investment be- 
+tween different serviees or customer classes are notoriously com- 
+plicated and sometimes arbitrary.” (quoting sources) ; M. Kellogg, 
+P. Huber, & J. Thorne, supra, § 3.2.4, at 144 (“Certainly, the 
+allocation of costs between closely related and interdependent busi- 
+nesses is an essentially arbitrary exercise; many economists there- 
+fore take cross-subsidy concerns very seriously. Cross-subsidy is 
+of greatest concern when there are important common or joint 
+costs among regulated and unregulated businesses—costs that can- 
+not be clearly attributed to one business or the other.”’) ; id. § 9.8.4, 
+at 437 (“common costs do create enormous opportunities for 
+accounting hanky-panky”’). 
+
+
+44 
+
+
+economic policy, and a complex balancing of competitive 
+risks and benefits; these judgments are not simple findings 
+of fact or even applications of law to fact.” Brief of 
+the Bell Company Appellees at 50, United States v. 
+Western Electric, No. 91-5263 (D.C. Cir. Aug. 17, 
+1992). Just as there was no adequate basis for the courts 
+to set aside the government’s judgment call on that issue 
+when it proposed to lift the consent-decree restriction on 
+the telephone companies’ provision of “information serv- 
+ices” (United States v. Western Electric, 993 F.2d at 
+1576-82) (balance of policies primarily for government, 
+and judicial role limited to assuring reasonableness of 
+government view, even if opposing view is also reason- 
+able) ), so there is no adequate basis for the judiciary to 
+set aside the congressional judgment on the issue here. 
+The Fourth Circuit could not properly make its own in- 
+dependent, intuitive judgment about regulatory effective- 
+ness and the other elements of the policy mix the basis 
+for invalidating a congressional enactment. 
+
+
+B. The Statute Is Not Properly Condemned As 
+Leaving Insufficient Alternative Avenues of Com- 
+munication 
+
+
+If Section 533(b) is narrowly tailored to serve the 
+unquestionably important, speech-neutral governmental 
+interests behind it—that is, if other means would not be 
+as effective at protecting those interests (Turner, 114 
+S. Ct. at 2469)—it is hard to see what independent 
+weight would attach to the Fourth Circuit’s view, were 
+it correct, that Section 533(b) also has too great an 
+impact on Bell Atlantic’s opportunities for speech. This 
+Court in Turner, in describing the requirements of inter- 
+mediate scrutiny, did not suggest that a statute must meet 
+some additional, independent requirement of the sort ap- 
+plied by the Fourth Circuit. Rather, it ruled that a stat- 
+ute survives intermediate scrutiny, once it is shown to 
+further an important government interest unrelated to the 
+suppression of free expression, if it is narrowly tailored, 
+
+
+45 
+
+
+that is, if the interest would be achieved “‘ “less effec- 
+tively absent the regulation”’” and hence the measure 
+does not “‘ “burden substantially more speech than is 
+necessary” ’” to further the interest. 114 S. Ct. at 2469. 
+Under that formulation, the constitutional inquiry would 
+seem to be at an end based on the showing, made above, 
+that Congress could reasonably find alternatives to the 
+cross-ownership bar insufficiently effective at serving the 
+important speech-independent interest in preventing the 
+economic abuses targeted by the statute. 
+
+
+In any event, even if the “alternative avenues” inquiry 
+represents a separate requirement of O’Brien scrutiny, the 
+Fourth Circuit’s view on this issue is factually and legally 
+flawed. The court took too narrow a view of the oppor- 
+tunities that Bell Atlantic has to reach its desired (in- 
+region) video customers under Section 533(b)(1) and 
+(2). The court also took too narrow a view of the legal 
+standards for judging the sufficiency of those opportuni- 
+ties. 
+
+
+As a factual matter, Bell Atlantic is hardly foreclosed 
+from reaching in-region consumers with its video speech. 
+Bell Atlantic may develop programming to offer to a 
+local cable system or to a local broadcaster or satellite or 
+other delivery service (or video store). Nothing in Sec- 
+tion 533(b) bars Bell Atlantic from becoming a broad- 
+caster itself (see American Scholastic, supra (statute ap- 
+plies only to “cable system”)), or offering satellite 
+service (direct broadcast service (DBS)), or offering 
+“wireless cable” service (MMDS).* Bell Atlantic also 
+may develop entire packages of programming and enter 
+into contracts to supply the content for any of the pro- 
+grammer-retailers who will be dealing directly with sub- 
+
+
+58 Bell Atlantic has in fact recently taken a large stake in an 
+MMDS operator. See Bell Atlantic to Shift to ‘Wireless Cable’ 
+TV, Wash. Post, May 17, 1995, at Fl; RBOCS Pump $100 Million 
+Into Wireless Cable Firm, Spurring Consolidation, Communications 
+Daily, Mar. 30, 1995, at 1. 
+
+
+46 
+
+
+scribers on the Bell Atlantic “video dialtone” network. 
+See Bell Atlantic Ct. App. Br. 74 (anticipating “hundreds 
+or thousands” of channels on network). See also 47 
+U.S.C. § 532 (leased access to cable systems). 
+
+
+Bell Atlantic accordingly is in a comparable position 
+to that of cable programmers today who do not own or 
+control their own cable systems. Compare Pet. App. 
+13a-14a. What Section 533(b)(1) and (2) precisely bar 
+is the in-region retailing of wire-delivered video program- 
+ming on a cable system, because that is the activity 
+presenting the targeted problems of economic abuse. This 
+bar, while triggering First Amendment scrutiny, does not 
+leave the telephone companies without alternative means 
+to reach in-region customers with their video programs. 
+
+
+In judging Section 533(b)(1) and (2) unduly limit- 
+ing, the Fourth Circuit not only ignored several of the 
+channels of communication just mentioned, but also dis- 
+regarded what would seem the central precedent for judg- 
+ing the legal significance of the opportunities for speech 
+left unrestricted to Bell Atlantic—FCC v. NCCB, supra 
+—in which this Court unanimously upheld the bar on 
+in-region broadcaster-newspaper cross-ownership. The 
+Fourth Circuit simply dismissed the relevance of this 
+Court’s decision in NCCB on the ground that “the regula- 
+tion there at issue affected ownership of the broadcast 
+media” and “the instant case does not involve regulation 
+of the broadcast media.” Pet. App. 19a (emphasis in 
+original; footnote omitted). These statements accurately 
+describe a distinction, but they furnish no explanation of 
+why the distinction matters under the First Amendment. 
+
+
+In NCCB, this Court, applying a standard comparable 
+to intermediate scrutiny (though not invoking any spe- 
+cific standard), held that the government could constitu- 
+tionally impose a flat ban that prohibited the holder of 
+a broadcast license, as long as it retained that license, 
+from entering the most venerable of protected speech 
+businesses (newspaper publishing) in its service area. 
+
+
+47 
+
+
+The Court explained that the ban was justified as serving 
+the goal of diversity of local media ownership. And the 
+Court concluded that sufficient alternative avenues of 
+communication were left to the broadcaster, who could 
+engage in non-newspaper speech in-region plus all forms 
+of speech out-of-region. NCCB, 436 U.S. at 794-802.” 
+
+
+If NCCB is a “broadcaster” case, the First Amendment 
+relevance of that fact must reside not in labels but in the 
+fact that the government may legitimately deem common 
+ownership of a broadcast station and a newspaper in the 
+same community to give rise to a genuine public problem: 
+undue power in local speech markets. So, here, the gov- 
+ernment may legitimately deem common ownership of a 
+local telephone monopoly and a cable system to give rise 
+to a genuine public problem. Indeed, the law addressing 
+this problem should be of less, not more, First Amend- 
+ment concern than the measure in NCCB. Here, after all, 
+the foreclosed business is cable service, not newspaper 
+publishing, and the government purpose rests on tradi- 
+tional, non-suspect, speech-neutral economic concerns, 
+not simply a government assessment of the degree of 
+power someone should have as a speaker. 
+
+
+NCCB thus supports the conclusion that, given the 
+established dangers of monopoly abuse, a local telephone 
+monopolist, as long as it remains a local telephone 
+monopolist, may be barred from entering the cable busi- 
+ness in-region—and unrestricted opportunities for out-of- 
+region speech of all sorts, and for all speech but direct 
+cable retailing in-region, are legally sufficient. If a com- 
+pany may be required to exit a speech business (broad- 
+casting) as a condition of entering another protected 
+speech business (newspaper publishing or cable), the 
+First Amendment impact is smaller, not greater, when 
+
+
+*° Relying on NCCB, the Fifth Circuit has upheld the cable- 
+broadcast cross-ownership rule against First Amendment challenge. 
+See Marsh Media Ltd. v. FCC, 798 F.2d 772 (5th Cir. 1986), 
+cert. denied, 479 U.S. 1085 (1987). 
+
+
+48 
+
+
+entry into a protected speech business is conditioned on 
+foregoing participation in a non-speech business (tele- 
+phone common carriage). Cf. FCC v. League of Women 
+Voters, 468 U.S. 364, 387 (1984) (broadcasters have 
+more, not less, speech rights than common carriers). The 
+Fourth Circuit erred in disregarding NCCB in this case. 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be 
+reversed. 
+
+
+Respectfully submitted, 
+
+
+DANIEL L. BRENNER H. BARTOW FARR, III * 
+NEAL M. GOLDBERG RICHARD G. TARANTO 
+DAVID L. NICOLL FARR & TARANTO 
+NATIONAL CABLE TELEVISION 2445 M Street, NW 
+ASSOCIATION, INC. Washington, DC 20037 
+1724 Massachusetts Ave., NW (202) 775-0184 
+Washington, DC 20036 * Counsel of Record 
+
+
+August 18, 1995 
+
+

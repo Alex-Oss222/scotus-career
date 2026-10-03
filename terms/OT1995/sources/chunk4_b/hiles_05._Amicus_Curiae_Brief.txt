@@ -1,0 +1,542 @@
+Q) Freer 
+| FILED 
+
+
+No. 95-6 AUG 0 2 1995 
+| OFF} 
+IN THE pF THE CLERK 
+Supreme Court of the United States 
+
+
+OcTOBER TERM, 1995 
+
+
+NORFOLK & WESTERN RAILWAY COMPANY, 
+. Petitioner, 
+
+WILLIAM J. HILEs, 
+Respondent. 
+
+
+On Petition for a Writ of Certiorari to the 
+Appellate Court of Illinois 
+Fifth Judicial District 
+
+
+BRIEF OF ASSOCIATION OF AMERICAN RAILROADS 
+AS AMICUS CURIAE IN SUPPORT OF PETITIONER 
+
+
+ROBERT W. BLANCHETTE * 
+
+Vice President—Law and 
+General Counsel 
+
+DANIEL SAPHIRE 
+
+General Attorney 
+
+ASSOCIATION OF AMERICAN 
+RAILROADS 
+
+American Railroads Building 
+
+50 F Street, N.W. 
+
+Washington, D.C. 20001 
+
+(202) 639-2505 
+
+
+Counsel for Amicus 
+August 2, 1995 * Counsel of Record 
+
+
+WiILson - Eres Printing Co.. Inc. - 789-0096 - WasHiIncron, D.C. 20001 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+TABLE OF AUTHORITIES ii 
+INTEREST OF AMICUS ................... . 1 
+STATEMENT OF THE CASE ..................... 3 
+r A Se Re oe 3 
+THE INCORRECT INTERPRETATION OF THE 
+SAFETY APPLIANCE ACT BY THE COURT 
+BELOW HAS A SUBSTANTIAL POTENTIAL 
+IMPACT ON RAILROAD LIABILITY ................... 3 
+A. The Decision Below Expands The Scope Of 
+Railroad Liability In FELA Cases Greatly........ 4 
+B. Failure To Resolve This Issue Will Permit Sub- 
+stantial Federal Rights Of Railroad Defendants 
+To Be Determined By The Plaintiff's Choice Of 
+rr 6 
+
+
+ii 11 
+
+
+TABLE OF AUTHORITIES TABLE OF AUTHORITIES—Continued 
+Cases Page Page 
+
+
+we 41 U.S. CHAMBER OF COMMERCE, 1994 ANALYSIS OF 
+— . WORKERS’ COMPENSATION LAws 1994 ee 5 
+Consolidated Rail Corp. v. Gottshall, 114 8. Ct. 24 Cong. Rec. 1275 (1898) — i aa 4 
+r . ee 6 
+Kavorkian v. CSX Transp. Co., 38 F.3d 570 (6th 
+SA SER aE AS REELS a 3 
+O’Donnell v. Elgin, J. & E. R. Co., 388 U.S. 384 
+RESIS oe aR ETE ee 5 
+Reed v. Philadelphia, Bethlehem & New England 
+Ry., 939 F.2d 128 (8rd Cir. 1991) 3 
+Schneider v. National R. Passenger Corp., 987 F.2d 
+r .. 5 
+South Buffalo Ry. Co. ». Ahern, 344 U.S. 367 
+Dr 6 
+} 6 
+
+
+Fn 
+. xx 
+. ——E 
+. * 
+45 U.S.C. 8 56 ieee eee 6 
+r — — 
+r 
+CI —— 
+. — — 
+
+
+Miscellaneous 
+ASSOCIATION OF AMERICAN RAILROADS, CLAIM & 
+t ee 2,5 
+ASSOCIATION OF AMERICAN RAILROADS, RAILROAD 
+EE . 7,8 
+Baker, Why Congress Should Repeal the Federal 
+Employers’ Liability Act of 1908, 29 Harv. J. on 
+LecIs. 79 (Winter 1992) * 6 
+GENERAL ACCOUNTING OFFICE, INTERCITY PASSEN- 
+GER RAIL: FINANCIAL AND OPERATING CONDI- 
+TIONS THREATEN AMTRAK’S LONG TERM VIABIL- 
+SRR ER Cae Re A 2 2 
+
+
+0 s te K ow 
+
+
+In THE 
+Supreme Court of the United States 
+
+
+OcToBerR TERM, 1995 
+
+
+No. 95-6 
+
+
+Norro_k & WESTERN RAILWAY COMPANY, 
+. Petitioner, 
+
+
+WLAN J. HILes, 
+Respondent. 
+
+
+On Petition for a Writ of Certiorari to the 
+Appellate Court of Illinois 
+Fifth Judicial District 
+
+
+BRIEF OF ASSOCIATION OF AMERICAN RAILROADS 
+AS AMICUS CURIAE IN SUPPORT OF PETITIONER 
+
+
+This biref of the Association of American Railroads is 
+filed with the consent of the parties, the letters expressing 
+consent having been filed with the Clerk of the Court. 
+
+
+STATEMENT OF INTEREST OF AMICUS CURIAE 
+
+
+Amicus curiae Association of American Railroads 
+(AAR) is an incorporated, nonprofit trade association 
+representing the nation’s major freight railroads and 
+Amtrak. AAR’s members operate approximately 76 per- 
+cent of the rail industry's line haul mileage and produce 
+94 percent of its freight revenues. AAR represents its 
+members in proceedings before Congress, the courts and 
+administrative agencies in matters of common interest. 
+
+One such matter is the Federal Employers’ Liability 
+Act (FELA). In 1908, before enactment of any no- 
+
+
+2 
+
+
+fault workers’ compensation statutes in this country, Con- 
+gress structured a tort-based remedy for railroad em- 
+ployees injured on the job. Subsequently, every state has 
+enacted a workers’ tion law, under which con- 
+cepts of negligence have been eliminated.’ 
+
+
+Each year several thousand FELA lawsuits are filed 
+against AAR members, and many more claims are settled 
+before a suit is filed. AAR's members expend substantial 
+sums of money defending FELA claims and suits and in 
+the payment of FELA settlements and verdicts,’ far more 
+than is spent by industry as a whole in payment of com- 
+pensation to employees. 
+
+This case is of particular interest to AAR because it 
+has the potential to enlarge the scope of liability for rail- 
+roads. Moreover, it dramatically espouses the possibility 
+of forum shopping under FELA. 
+
+
+AAR’s interest in this case, which involves the inter- 
+pretation of an equipment statute, is heightened as a 
+result of AAR’s long involvement in railroad operational 
+issues. AAR’s expertise in this area has been recognized 
+by Congress which, in originally enacting the Safety Ap- 
+pliance Act, named AAR’s predecessor organization, the 
+American Railway Association, to designate to the Inter- 
+
+
+' Seamen are covered under FELA by virtue of 46 U.S.C. § 688. 
+All other industries in the United States are covered by either 
+state or federal no-fault workers’ compensation systems. 
+
+
+For the past four years, AAR members have spent between 
+$1.2 and 1.3 billion on FELA annually, or nearly 4 percent of 
+their gross revenues. ASSOCIATION OF AMERICAN RAILROADS, CLAIM 
+& LITIGATION Report (Calendar years 1991, 1992, 1993, 1994) 
+(“CLAIM & LITIGATION REPORT’). 
+
+
+Private industry as a whole pays about $0.36 per employee hour 
+worked under state workers’ compensation, GENERAL ACCOUNTING 
+OFFICE, INTERCITY PASSENGER RAIL: FINANCIAL AND OPERATING 
+CONDITIONS THREATEN AMTRAK’S LONG-TERM VIABLIITY 59 (1995), 
+whereas railroads pay over $2.00. 1994 CLAIM & LITIGATION REPORT, 
+at 2-2. 
+
+
+<a 
+
+
+= 
+
+
+3 
+
+
+state Commerce Commission the standard height of draw- 
+bars on freight cars. Act of March 2, 1893, c. 196, § 5, 
+27 Stat. 531.“ AAR has recently participated in two 
+cases involving the question of whether the Safety Appli- 
+ance Act is violated when the failure of a coupler to 
+couple automatically is due to misalignment of a drawbar 
+rather than a defect in the —the same issue as is 
+presented in the case at bar. See, Reed v. Philadelphia, 
+Bethlehem & New England Ry., 939 F.2d 128 (3d Cir. 
+1991); Kavorkian v. CSX Transp., Inc., 33 F.3d 570 
+(6th Cir. 1994). 
+
+
+STATEMENT OF THE CASE 
+
+
+Amicus adopts the statement of the case in Petitioner’s 
+brief. 
+ARGUMENT 
+
+
+THE INCORRECT INTERPRETATION OF THE 
+SAFETY APPLIANCE ACT BY THE COURT BELOW 
+HAS A SUBSTANTIAL POTENTIAL IMPACT ON 
+RAILROAD LIABILITY 
+
+
+This case involves the applicability of Section 2 of the 
+Safety Appliance Act (SAA).° The purpose of this stat- 
+ute is to assure that coupling devices on rail cars will 
+function on contact so as to avoid the necessity for em- 
+ployees to go between moving cars to couple them man- 
+
+
+* More recently Congress has authorized the Secretary of Trans- 
+portation to use AAR's services in carrying out his duties with 
+regard to power and train brakes. 49 U.S.C. § 20802(e). 
+
+
+5 Now codified at 49 U.S.C. § 20802(a), in pertinent part this 
+provision reads: 
+[A] railroad carrier may use or allow to be used on any of its 
+railroad lines— 
+(1) a vehicle only if it is equipped with— 
+(A) couplers coupling automatically by impact, and 
+capable of being uncoupled, without necessity of individ- 
+uals going between the ends of vehicles; 
+
+
+4 
+
+
+ually. It was this dangerous activity that Congress sought 
+to prevent when it enacted § 2 in 1893.“ 
+
+
+Today, rail cars are all equipped with automatic 
+couplers. However, even couplers that are in perfect work- 
+ing order will from time to time become misaligned due 
+to the horizontal play of the drawbar required to permit the 
+rounding of curves without derailment (Pet. brief at 3).’ 
+
+
+The court below held that a railroad is liable as a 
+matter of law under the SAA if an employee goes be- 
+tween rail cars and is injured while attempting to align 
+a drawbar to allow for coupling of the cars even if there 
+is no evidence of a defect in the couplers and ihe alleged 
+failure to couple is due to misalignment of the drawbars. 
+Given this ruling, the court prohibited the railroad de- 
+fendant from introducing evidence of lack of defect in 
+the coupler. 
+
+
+Petitioner's brief demonstrates a strong basis for review 
+of the decision below by this Court: a split among the 
+seven federal courts of appeals that have decided the issue, 
+and a split between a state court and the federal court of 
+appeals for the circuit in which the state court sits. Be- 
+cause of these developments, the risk that venue will 
+dictate the outcome has risen to an unacceptable level in 
+cases arising under a single federal law. 
+
+
+A. The Decision Below Expands The Scope Of Railroad 
+Liability In FELA Cases Greatly 
+
+
+Under its unique provisions, FELA imposes liability 
+on railroads for workplace injuries in cases where the 
+railroads’ negligence caused the injury. 45 U.S.C. § 51. 
+However, unlike workers’ compensation FELA does not 
+
+
+24 Cong. Rec. 1275 (1893). 
+
+
+Federal Railroad Administration regulations recognize that 
+couplers must contain sufficient lateral play to prevent “fouling 
+on curves.” 49 C. F. R. Part 215.125. 
+
+
+5 
+
+
+limit the amount of damages that may be collected when 
+a railroad is liable.“ Thus, a balance has been struck 
+by FELA between limiting liability to cases where em- 
+ployer fault can be demonstrated while omitting any 
+statutory limits on damages.’ 
+
+
+The interpretation of safety statutes like the SAA plays 
+an important role in FELA cases because a violation of 
+such a statute constitutes negligence per se. Urie v. 
+Thompson. 337 U.S. 163, 189 (1949); O'Donnell v. 
+Elgin, J. & E. R. Co., 338 U.S. 384, 390 (1949). As 
+a result, if there is a finding that a safety statute has 
+been violated, the railroad may not introduce evidence 
+that it used reasonable care in its operations. Moreover, 
+the railroad may not introduce evidence that the em- 
+ployee’s negligence contributed to the injury, which ordi- 
+narily would serve to reduce any judgment in proportion 
+to the contributory negligence. 45 U.S.C. § 53. There- 
+fore, a determination that the SAA was violated has a 
+direct impact on a railroad’s obligation to respond in 
+damages to an injured employee and the amount of those 
+damages. 
+
+
+By ignoring the majority of federal court decisions 
+and finding the SAA applicable in cases where there was 
+no defect in the coupling device, the court below has 
+expanded the notion of strict liability under FELA and 
+
+
+In order to create an incentive to return to work, workers’ 
+compensation programs commonly cap the amount of weekly bene- 
+fits that can be received by an injured employee. U.S. CHAMBER 
+OF COMMERCE, 1994 ANALYSIS OF WORKERS’ COMPENSATION LAWS 
+22-25, Chart VI (1994). 
+
+
+* A FELA verdict will be deemed excessive only if it “shocks the 
+judicial conscience.” Schneider v. National RR Passenger Corp., 
+987 F.2d 132, 137 (2d Cir. 1993). ($1.75 million verdict, including 
+over $1 million in intangible damages, not excessive). There were 
+79 FELA verdicts of $1 million or more against AAR members 
+from 1990 through 1994. 1994 CLaIm & LITIGATION FEPorT at 2-8. 
+
+
+6 
+
+
+shifted the balance in FELA prescribed by Congress.“ 
+In so doing, the court in essence made a public policy 
+decision. While the wisdom of keeping one industry sub- 
+ject to a system under which an injured employee's right 
+to compensation is conditioned on a showing of fault 
+may be debated. it is for Congress rather than the courts 
+to decide to what extent railroads should be strictly liable 
+for the injuries of their employees.“ 
+
+
+B. Failure To Resolve This Issue Will Permit Substan- 
+tial Federal Rights Of Railroad FELA Defendants 
+To Be Determined By The Plaintiff's Choice Of Forum 
+
+
+The split between the circuits on this issue, and par- 
+ticularly between federal and state courts, creates a 
+situation where the substantive rights of the parties may 
+be determined by the choice of venue. This is contrary 
+to Congressional intent under FELA, which is that the 
+law with respect to employee compensation in the railroad 
+industry be uniform. South Buffalo Ry. Co. v. Ahern, 
+344 U.S. 367 (1952). 
+
+
+Under FELA, state courts have concurrent jurisdiction 
+to hear claims. 45 U.S.C. § 56. As between state and 
+federal court, the plaintiff has an absolute choice of forum, 
+as FELA cases may not be removed. 28 U.S.C. § 1445(a). 
+Thus, even if the accident occurs in one of the eighteen 
+
+
+% As this Court recently reaffirmed, “FELA does not make the 
+employer the insurer of the safety of his employees while they are 
+on duty. The basis for his liability is his negligence, not the fact 
+that injuries occur.” Consolidated Rail Corp. v. Gottshall, 114 8. Ct. 
+2396, at 2404 (1994). 
+
+
+1! See, Baker, Why Congress Should Repeal the Federal Employ- 
+ers’ Liability Act of 1908, 29 Harv. J. oN Lecis. 79 (Winter 1992). 
+
+
+12 This Court has questioned the wisdom of FELA but has recog- 
+nized that it is within Congress’ province to make any change. 
+See e.g., Bailey v. Central Vermont Ry., Inc., 319 U.S. 360, 354 
+(1948) ; Urie v. Thompson, 337 U.S. at 196 (Frankfurter, J. con- 
+curring in part). 
+
+
+7 
+
+
+states within the five federal circuits that have ruled 
+there is no violation of the SAA when failure to couple 
+is due to a misaligned drawbar, a plaintiff wishing to 
+avoid that ruling may be able to do so by filing suit in 
+state court. The potential for abuse is increased because 
+FELA plaintiffs have wide latitude over the state in 
+which to bring a suit.“ 
+
+
+As this case makes clear, the state court hearing the 
+claim may well decline to follow the precedent of the 
+circuit in which it sits. As a result, in many parts of the 
+country the same facts will lead to differing results. In 
+state court, when misalignment of a nondefective drawbar 
+is alleged, an employee would be relieved of the obliga- 
+tion to show any negligent conduct on the part of the 
+railroad, while the railroad will be precluded from offer- 
+ing evidence of the employee’s negligence. In the federal 
+court, however, railroad negligence would need to be 
+proved and the comparative negligence defense would 
+remain available. This is untenable when the same fed- 
+eral statute is involved. It is contrary to the purpose of 
+FELA to permit such disparate results to hinge on one 
+party’s selection of the forum. 
+
+
+The ruling below invites FELA plaintiffs to make an 
+end run around the negligence requirement of FELA. Un- 
+less this Court decides this issue definitively, state courts 
+will have the ability to impose strict liability on railroads 
+in factual situations similar to the case at bar despite 
+the weight of federal precedent to the contrary, thereby 
+encouraging forum shopping. The court below acknowl- 
+edged as much, suggesting that, absent resolution of this 
+issue by this Court, the court below will continue to follow 
+
+
+' Approximately 49 per cent of rail employees reside in those 
+eighteen states. ASSOCIATION OF AMERICAN RAILROADS, RAILROAD 
+Facts 57 (1994 ed.) (“RAILROAD FAcTs”). 
+
+
+“A plaintiff may bring a FELA suit “wherever the railroad 
+shall be doing business.” 45 U.S.C. § 56. 
+
+
+state precedent. There are hundreds of thousands of rail 
+cars in operation on the rail network daily.” In as much 
+as nondefective drawbars will not infrequently become } 
+misaligned in the course of normal operations, there will | 
+be numerous potential opportunities for unwarranted ex- | 
+pansion of railroad liability through forum shopping. , 
+
+
+CONCLUSION 
+
+
+On the basis of the foregoing, amicus curiae respect- 
+fully submits that the petition for a writ of certiorari to 
+review the judgment of the Appellate Court of Illinois in 
+
+
+this case be granted. 
+Respectfully submitted, 
+
+
+ROBERT W. BLANCHETTE * 
+
+Vice President—Law and 
+General Counsel 
+
+DANIEL SAPHIRE 
+
+General Attorney 
+
+ASSOCIATION OF AMERICAN 
+RAILROADS 
+
+American Railroads Building 
+
+50 F Street, N.W. 
+
+Washington, D.C. 20001 
+
+(202) 639-2505 
+
+Counsel for Amicus 
+
+
+August 2, 1995 * Counsel of Record 
+
+
+5 In 1998, there were 1,173,132 freight rail cars in service. 
+RAILROAD Facts at 50. 
+
+

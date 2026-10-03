@@ -1,0 +1,635 @@
+ce: 
+
+
+Nos. 94-1893; 94-1900 f —— 
+Court, U.S. 
+IN THE ILED 
+
+
+Supreme Court of the Huited States way 3.1 1995 
+OCTOBER TERM, 1994 
+
+
+. 
+
+
+—_ 
+
+
+UNITED STATES OF AMERICA, ef al. \ 
+and 
+NATIONAL CABLE TELEVISION ASSN., INC., 
+Petitioners, 
+
+
+BELL ATLANTIC CORPORATION, ef al. 
+Respondents. 
+
+
+On Petitions for Writ Of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+BRIEF OF AMICUS CURIAE 
+GTE CORPORATION 
+IN SUPPORT OF RESPONDENTS 
+
+
+JOHN F. RAPOSA 
+Counsel of Record 
+WARD W. WUESTE, JR 
+
+GTE CORPORATION 
+One Stamford Forum 
+Stamford, CT 06904 
+(203) 965-2000 
+
+
+Counsel for GTE Corporation 
+and its affiliated domestic 
+telephone operating companies 
+
+
+Dated: May 31, 1995 
+
+
+RULE 29.1 STATEMENT 
+
+
+Amicus curiae GTE Corporation is a publicly-held 
+corporation in the business of providing telecommunications 
+services and products to the general public. GTE Corporation 
+is the parent company of GTE Service Corporation and the 
+GTE telephone operating companies. The following 
+subsidiaries of GTE Corporation have securities in public 
+hands: 
+
+
+BC Telecom, Inc. 
+
+Caribbean Reservation Center, C. por A. 
+
+Communicaciones Telefonicas, C. por A. 
+
+Florence Cellular Telephone Company, Inc. 
+
+GTE California Incorporated 
+
+GTE Directories Corporation Lanka (PVT.) Ltd. 
+
+GTE Florida Incorporated 
+
+GTE Hawaiian Telephone Company Incorporated 
+
+GTE North Incorporated 
+
+GTE Northwest Incorporated 
+
+GTE South Incorporated 
+
+GTE Southwest Incorporated 
+
+Jacksonville Cellular Telephone Corp. 
+
+Jacksonville Cellular Communications, Inc. 
+
+La Compagnie de Telephone Anglo-Canadienne/ 
+Anglo-Canadian Telephone Company 
+
+MTX Italia 
+
+Parque Industrial ITABO, S.A. 
+
+Quebec-Telephone 
+
+Radiowealth, Inc. 
+
+The Micronesian Telecommunications Corporation 
+
+Wilmington Cellular Telephone Corp. 
+
+Wilmington Cellular Communications, Inc. 
+
+Zona France Las Americas 
+
+
+RULE 29.1 STATEMENT 
+TABLE OF AUTHORITIES 
+INTEREST OF AMICUS CURIAE 
+ARGUMENT 
+
+
+II. 
+
+
+III. 
+
+
+IV. 
+
+
+TABLE OF CONTENTS 
+
+
+BECAUSE THE “GOOD CAUSE” WAIVER 
+ARGUMENT IN THE THIRD REPORT AND 
+ORDER IS NOT NEW, THE PROPER WAY 
+FOR THE GOVERNMENT TO PURSUE 
+THAT ARGUMENT IS ON THE MERITS IF 
+
+
+THIS COURT GRANTS CERTIORARI. ..... 
+
+
+IF THE THIRD REPORT AND ORDER 
+REALLY ALTERS THE LEGAL 
+LANDSCAPE, THE PROPER DISPOSITION 
+OF THIS CASE IS TO DENY THE 
+
+
+PETITIONS FOR CERTIORARI. .......--: 
+
+
+WHETHER THE “GOOD CAUSE” WAIVER 
+INTERPRETATION IS OLD OR NEW, IT 
+SURELY DOES NOT SAVE § 533(b) FROM 
+
+
+UNCONSTITUTIONALITY. .........--->- 
+
+
+THE GOVERNMENT’S REQUEST TO GVR 
+SHOULD BE DENIED TO PREVENT 
+MANIPULATION OF THE JUDICIAL 
+
+
+te 
+CONCLUSION 
+
+
+(ii) 
+
+
+see6 6668 869 8 2 2 F 
+
+
+ee 
+
+
+ia 
+
+
+ee 
+
+
+TABLE OF AUTHORITIES 
+
+Cases Page 
+Bureau of Economic Analysis v. Long, 
+
+i 4 
+City of Chicago v. Environmental Defense Fund. 
+
+SE 5 
+City of Cincinnati v. Discovery Network, Inc., 
+
+113 S. Ct. 1505(1993) ..................... 7 
+
+
+GTE South v. United States, 
+Civ. Action No. 94-1588-A 
+
+
+(E.D. Va. Jan. 15,1995)... ...... 1,2 
+Kleem v. INS, 
+
+479 U.S. 1308 (1986) .................. 6 
+Kunz v. New York, 
+
+o9OU.S. 290(19S1) ....................... 6 
+Madden v. Texas, 
+
+498 U.S. 1301(1991) ...................... 6 
+NCTA v. FCC, 
+
+914 F.2d 285 (D.C. Cir. 1990)................ 6 
+Northeastern Florida Contractors v. Jacksonville, 
+
+113 S. Ct. 2297(1993) ........... 4 
+Oberly v. Baltimore & Ohio R.R., 
+
+479 U.S. 980 (1986) ................... — 
+U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership, 
+
+115 S. Ct. 386(1994) ... 4 
+United States v. Salerno, 
+
+er 3 
+United States v. X-Citement Video, Inc., 
+
+115 S. Ct. 464(1994) ....... 3 
+Statutes 
+
+
+cn coerce ccccee, _. . passim 
+
+
+Miscellaneous 
+
+
+Telephone Company-Cable Television Cross 
+Rules, 
+
+
+3 FCC Red 5849 (1988)... 0... eee 6 
+Third Report and Order, 
+FCC 95-203 (May 16, 1995) .........-.--. passim 
+
+
+THE ' 
+
+
+IN 
+Supreme Court of the Huited States 
+
+
+OCTOBER TERM, 1994 
+
+
+Nos. 94-1893; 94-1900 
+
+
+UNITED STATES OF AMERICA, ef ail., 
+and 
+NATIONAL CABLE TELEVISION ASSN., INC., 
+Petitioners, 
+Vv. 
+BELL ATLANTIC CORPORATION, et ai, 
+
+
+Respondents. 
+
+
+On Petitions for Writ Of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+BRIEF OF AMICUS CURIAE 
+GTE CORPORATION 
+IN SUPPORT OF RESPONDENTS 
+
+
+INTEREST OF AMICUS CURIAE 
+
+
+Amicus curiae GTE Corporation and its affiliated 
+companies are in the business of providing telecommunications 
+services and products, including local telephone services, to the 
+general public. Amicus, like respondent Bell Atlantic, has 
+challenged the constitutionality of 47 U.S.C. § 533(b), which 
+prohibits telephone companies from providing “video 
+programming” to subscribers in their service area. In GTE 
+South v. United States, Civ. Action No. 94-1588-A (E.D. Va. 
+Jan. 15, 1995), the District Court declared that § 533(b), on its 
+face, violates GTE’s right of free speech guaranteed by the 
+
+
+2 
+
+
+First Amendment of the United States Constitution. The 
+Government has filed a notice of appeal in GTE South, but the 
+parties have agreed to stay that appeal pending resolution of 
+this case by this Court. Amicus GTE Corporation therefore has 
+a substantial interest in this Court’s determination of the 
+constitutionality of § 533(b).’ 
+
+ARGUMENT 
+
+
+Amicus GTE Corporation respectfully submits that this 
+Court should either: (i) deny the petitions for writ of certiorari, 
+or (ii) grant them and consider this case on the merits. In no 
+event, however, should the Court indulge the Government’ s 
+request to grant the petition, vacate the judgment below, and 
+remand for further consideration (“GVR”) without considering 
+the case on the merits. 
+
+
+The speech-regulating regime embodied in the FCC’s 
+Third Report and Order, FCC 95-203 (May 16, 1995) 
+(reprinted in Appendix to Govt. Supp. Br. at la-21a), is either 
+a significant new legal development or it is not. GTE believes 
+it is not. But either way, the Third Report and Order most 
+assuredly does not justify a GVR. 
+
+
+L. BECAUSE THE “GOOD CAUSE” WAIVER 
+ARGUMENT IN THE THIRD REPORT AND 
+ORDER IS NOT NEW, THE PROPER WAY FOR 
+THE GOVERNMENT TO PURSUE THAT 
+ARGUMENT IS ON THE MERITS IF THIS 
+COURT GRANTS CERTIORARI. 
+
+
+We believe that, for purposes of the important 
+constitutional questions presented by this case, there is nothing 
+new in the Third Report and Order. Indeed, the Third Report 
+and Order is really nothing more than a legal brief, signed by 
+
+
+'! GTE has obtained the written consent of Petitioners, the United States 
+and the National Cable Television Association (“NCTA”), as well as of 
+Respondent Bell Atlantic Corporation, to file tis amicus bnef. The letters 
+of consent are on file with the Clerk of this Court. 
+
+
+3 
+
+
+the FCC, that attempts to “beef up” the very legal argument the 
+Government lost below. 
+The “good cause” waiver provision has always been in 
+the statute, which was enacted in 1984. Moreover, as Bell 
+Atlantic explains in its Response, the Complaint in this case 
+specifically alleged that the “good cause” waiver provision was 
+unconstitutional and the Government argued below that the 
+“good cause” waiver provision “obviate[d] the [need]” for 
+invalidating § 533(b). See Resp. Br. at 19 n.27. Furthermore, 
+by invalidating the statute on its face, the courts below 
+necessarily rejected the Government’s “good cause” waiver 
+argument and determined that no possible application of the 
+Statute’s waiver proviso could save its constitutionality. See, 
+e.g., United States v. Salerno, 481 U.S. 739, 745 (1987) (facial 
+“challenger must establish that no set of circumstances exists 
+under which the [statute] would be valid.”) (emphasis added). 
+
+
+Nor does the Third Report and Order adopt any specific 
+new standards that meaningfully alter the capacity of the “good 
+cause” waiver provision to “save” § 533(b) from 
+unconstitutionality. To the contrary, the Third Report and 
+Order does not even attempt to set forth what specific 
+standards and conditions will govern the FCC’s decision 
+whether to grant a “good cause” waiver. 
+
+
+Because, in our view, there is nothing new about the 
+Government’s “good cause” waiver argument, the proper way 
+to consider it is on the merits if the Court grants certiorari 
+See, e.g., United States v. X-Citement Video, Inc., 115 §. Ct. 
+464 (1994) (considering on the merits a saving construction 
+urged by the Government for the first time in this Court). But 
+it is ridiculous to suggest that this Court should GVR on the 
+basis of a legal argument that was raised and necessarily 
+rejected below, merely because it now has been repackaged by 
+the Government and duly ratified by the relevant agency. 
+
+
+4 
+
+
+Il. IF THE THIRD REPORT AND ORDER REALLY 
+ALTERS THE LEGAL LANDSCAPE, THE 
+PROPER DISPOSITION OF THIS CASE IS TO 
+DENY THE PETITIONS FOR CERTIORARI. 
+
+
+Even if, however, the Court were to take at face value 
+the Government's suggestion that the “good cause” waiver 
+interpretation offered by the FCC is new and alters “the legal 
+landscape,” Govt. Supp. Br. at 6, that still would be no reason 
+to GVR. This Court has previously held that a party may not 
+obtain vacatur of a judgment below by voluntarily ceasing or 
+altering its conduct. U.S. Bancorp Mortgage Co. v. Bonner 
+Mall Partnership, 115 S. Ct. 386 (1994), see also Northeastern 
+Florida Contractors v. Jacksonville, 113 §. Ct. 2297 (1993) 
+(losing party’s voluntary cessation of challenged conduct does 
+not render case moot). There is good reason for this rule. 
+Were the law otherwise, a losing party could effectively 
+postpone the day of final judicial reckoning by simply altering 
+its conduct in the wake of an adverse lower-court decision, and 
+then asking this Court to vacate that judgment to try its luck 
+again below. Our system of justice neither contemplates nor 
+tolerates such judicial ping-pong.’ 
+
+
+* Neither the Government nor the NCTA cites any case in which this 
+Court has vacated the judgment of a Court of Appeals holding a statute 
+unconstitutional because a party has subsequently come up with a “saving” 
+construction of the statute. Much less have petitioners cited a case 
+analogous to this one—where this Court has GVR'd when an administrative 
+agency, which was a losing party to the case, has issued a saving 
+construction that was previously raised in the lower courts. 
+
+The only case cited by the Government (see Govt. Pet. at 16-17) 
+in support of its request for a GVR is Bureau of Economic Analysis v. Long, 
+454 U.S. 934 (1981). That case, however, involved an intervening Act of 
+Congress that changed the governing substantive law in the case. It 
+therefore differs from this case in two significant ways: (i) the asserted basis 
+for GVR was not the action of one of the parties to the litigation, and (ii) the 
+asserted basis for GVR was a bona fide legal development, not simply a 
+reformulation of an argument advanced unsuccessfully below. 
+
+
+(continued...) 
+
+
+5 
+
+
+Thus, if the Third Report and Order does establish a 
+new legal regime, the proper disposition of this case is to deny 
+the petitions. If a litigant really changes the legal regime by 
+altering its conduct, there is no basis to overturn the Court of 
+Appeals decision, which decided the case correctly as 
+presented. Thus, if the “good cause” waiver interpretation is 
+indeed something new, the Government should defend the new 
+legal regime embodied in the Third Report and Order in 
+another case. 
+
+
+iil. WHETHER THE “GOOD CAUSE” WAIVER 
+INTERPRETATION IS OLD OR NEW, IT 
+SURELY DOES NOT SAVE § 533(b) FROM 
+UNCONSTITUTIONALITY. 
+
+
+In any event, whether the “good cause” waiver 
+argument contained in the Third Report and Order is old or 
+new, it surely does not save § 533(b) from unconstitutionality. 
+This too militates strongly against indulging the Government’ s 
+request for a GVR, as it would be a pointless delay of the final 
+vindication of the telephone companies’ First Amendment 
+rights. 
+
+As a predicate matter, it does not appear that the FCC’s 
+interpretation of “good cause” waiver provision in § 533(b)(4) 
+is a permissible reading of the statute. The authority granted 
+by Congress to issue a “good cause” waiver based on the 
+particularized circumstances of the applicant is mor the 
+
+
+authority “routinely” to issue waivers for an entire industry. 
+See Third Report and Order, Govt. Supp. Br. at 19a (“[W]e 
+
+
+? (...continued) 
+
+We have discovered no case in which this Court has GVR'd a 
+lower-court judgment on the ground that the /osing party below has altered 
+its conduct in a manner asserted to be legally significant. Cf City of 
+Chicago v. Environmental Defense Fund, \13 S. Ct. 486 (1992) (GVR’ ing 
+after federal agency—which was not a party—clanfied construction of 
+statute while case pending before Court), Oberly v. Baltimore & Ohio R.R.. 
+479 U.S. 980 (1986) (GVR’ ing after Solicitor General disavowed position 
+taken by federal agency as amicus in court of appeals), 
+
+
+6 
+
+
+will routinely grant a waiver . . . where the telephone company 
+agrees to abide by the regulations we will establish governing 
+its provision of video programming.”) (emphasis added). A 
+“routinely” issued “good cause” waiver is an oxymoron, of. 
+Kleem v. INS, 479 U.S. 1308 (1986) (Scalia, J., in chambers), 
+Madden v. Texas, 498 U.S. 1301, 1304 (1991) (Scalia, J., in 
+chambers), and would eviscerate the flat prohibition contained 
+in § 533(b).” 
+
+
+In addition, even if § 533(b)(4) authorized the grant of 
+routine waivers, the interpretation contained in the Third 
+Report and Order would not save § 533(b) from 
+unconstitutionality. The regime described by the Third Report 
+and Order is nothing more than a flat ban on speech 
+accompanied by a grant of standardless discretion to an 
+administrative agency to license exceptions to the flat ban on 
+speech. This Court has repeatedly held that the government 
+“cannot vest restraining control over the right to speak [in] an 
+administrative official where there are no appropriate standards 
+
+
+> Indeed, the interpretation of the “good cause” waiver provision 
+contained in the Third Report and Order is flatly inconsistent with the only 
+authontative judicial interpretation of § 533(b)(4). In NCTA v. FCC, 
+914 F.2d 285 (D.C. Cir. 1990), the Court of Appeals, at the NCTA’s behest, 
+vacated an FCC order granting a good cause waiver to a telephone 
+company. The Court held that “(t]he policy of [§ 533(b)], which the 
+Commission must take into consideration, is to prohibit a telephone 
+company’s crossownership of a cable facility absent a finding that a 
+community would not otherwise be served by cable or because the waiver 
+is justified by good cause,” and that the waiver was unavailable absent a 
+showing that telephone company participation was “necessary” to the 
+operation of the cable system. /d. at 289. 
+
+The Third Report and Order also flies in the face of the FCC's 
+prior observation that the legislative history of § 533(b) makes plain that “it 
+is the policy of [§ 533(b)] that telephone companies should be prohibited 
+from providing video programming directly to their subscribers in their 
+telephone service area. The waiver authority should be narrowly construed 
+and exercised in a manner that does not undermine the basis policy of this 
+subsection.” Telephone Company-Cable Television Cross Ownership Rules, 
+3 FCC Red 5849, 5850 (1988) (quoting 130 Cong. Rec. H 10,444 (daily ed. 
+Oct. 1, 1984) (emphasis added). 
+
+
+nee 
+
+
+7 
+
+
+to guide his action.” Kunz v. New York, 340 U.S. 290, 295 
+(1951). See also City of Cincinnati v. Discovery Network, Inc., 
+113 S. Ct. 1505, 1509 n.9 (1993). 
+
+
+For First Amendment purposes, the waiver regime 
+described in the Third Report and Order is indistinguishable 
+from a municipality’s flat ban on picketing, accompanied by a 
+promise by the mayor that he will grant exceptions to ban 
+according to “speech friendly” standards that he will develop 
+later when he gets around to it. See Third Report and Order, 
+Govt. Supp. Br. at 3a-4a) (promising to be “speech-friendly” in 
+granting waivers). It is inconceivable that such a regime passes 
+First Amendment muster. Indeed, the FCC’s standardless 
+scheme only strengthens the case that § 533(b) is subject to 
+strict scrutiny. 
+
+
+IV. THE GOVERNMENT’S REQUEST TO GVR 
+SHOULD BE DENIED TO PREVENT 
+MANIPULATION OF THE JUDICIAL PROCESS. 
+
+
+Finally, the Government’s request for a GVR should be 
+denied to prevent manipulation of the judicial process. The 
+“good cause” waiver provision in § 533(b)(4) has been part of 
+the statute since it was passed in 1984 (and, indeed, was part of 
+the FCC-imposed prohibition on telephone company video 
+speech even earlier). The FCC could have issued this 
+interpretation any time before this case was filed or while it 
+was being considered in the District Court and Court of 
+Appeals. It even could have done this in the year since the 
+Court of Appeals decided this case. Or, for that matter, the 
+interpretation contained in the Third Report and Order could 
+be advanced in this Court if certiorari were granted, since the 
+defense was at issue below. 
+
+
+The circumstances surrounding the release of the Third 
+Report and Order make it apparent that the document was 
+carefully timed to persuade this Court to GVR without 
+considering this case on the merits. The FCC’s “new” 
+interpretation came just one day before the Solicitor General 
+filed his petition for certiorari, which in turn was followed 
+
+
+immediately by the Solicitor General’s supplemental brief 
+requesting a GVR. We respectfully suggest that this conduct 
+is wrong, and should not be rewarded. Indeed, if the Court 
+were to grant the Government’s novel request, we think it 
+would set an unfortunate precedent encouraging litigants 
+(particularly the Government) to time purported changes in the 
+“legal landscape” to manipulate this Court’s GVR power to 
+vacate adverse decisions and evade review on the merits. 
+
+
+CONCLUSION 
+
+
+For all the reasons stated herein this Court should either 
+(i) deny the petitions for certiorari, or (ii) grant them and set 
+the case for plenary briefing and argument in the usual course. 
+In no event, however, should this Court vacate the decision of 
+the Court of Appeals and remand the case for further 
+consideration. 
+
+
+Respectfully submitted, 
+
+
+JOHN F. RAPOSA 
+
+Counsel of Record 
+WARD W. WUESTE, JR. 
+GTE CORPORATION 
+One Stamford Forum 
+Stamford, Connecticut 06904 
+(203) 965-2000 
+
+
+Counsel for GTE Corporation 
+and its affiliated domestic 
+
+
+telephone operating companies 
+
+
+May 31, 1995 
+
+

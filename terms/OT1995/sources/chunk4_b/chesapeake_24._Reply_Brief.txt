@@ -1,0 +1,617 @@
+_ 
+Nos. 94-1893, 94-1900 
+
+
+Vourt, U 
+
+
+a : 
+O49) FILED 
+
+
+. 
+
+
+IN THE 
+
+
+CLERK 
+
+
+FEB 8 1996 
+
+
+— 
+
+
+Supreme Court of the United States 
+OCTOBER TERM, 1995 
+
+
+UNITED STATES OF AMERICA, et ai., 
+
+
+Petitioners, 
+
+
+CHESAPEAKE AND POTOMAC TELEPHONE 
+COMPANY OF VIRGINIA, ef ai., 
+
+
+Respondents. 
+
+
+On Writs of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+RESPONSE TO SUGGESTION OF MOOTNESS 
+
+
+KENNETH W. STARR 
+PAUL T. CAPPUCCIO 
+STEVEN G. BRADBURY 
+KIRKLAND & ELLIS 
+
+
+655 Fifteenth Street, N.W. 
+
+
+Washington, D.C. 20005 
+(202) 879-5130 
+
+
+JAMES R. YOUNG 
+
+JOHN THORNE 
+
+MICHAEL E. GLOVER 
+1320 N. Courthouse Road 
+Eighth Floor 
+
+Arlington, VA 22201 
+(703) 974-1600 
+
+
+February 8, 1996 
+
+
+LAURENCE H. TRIBE 
+Counsel of Record 
+
+JONATHAN S. MASSEY 
+
+PETER J. RUBIN 
+
+1575 Massachusetts Avenue 
+
+Cambridge, MA 02138 
+
+(617) 495-4621 
+
+
+PETER W. HUBER 
+
+MARK L. EVANS 
+
+KELLOGG, HUBER, 
+HANSEN, TODD & EVANS 
+
+1301 K Street, N.W. 
+
+Suite 1000 West 
+
+Washington, D.C. 20005 
+
+(202) 326-7900 
+
+
+att 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases Page 
+
+Anderson v. Green, 115 S. Ct. 1059 (1995) ........... 7 
+
+Berry v. Davis, 242 U.S. 468 (1917)... 2... 0.6. eee 5 
+Diffenderfer v. Central Baptist Church, 
+
+ee Se, is adds wecec oé GbE Mec 8% Oe 6 
+
+ee i Se, Ge es ee ED og 6c ccc emececese 6 
+
+: Pee CO Es Be ee I eb coe ce ecesecesos 5 
+
+Honig v. Doe, 484 U.S. 305 (1988).............--. 7 
+
+
+In re Memorial Hospital, 862 F.2d 1299 (7th Cir. 1988)... 8 
+
+
+Northeastern Florida Chapter of Associated General 
+Contractors v. City of Jacksonville, 
+DED G. Ge Se es 6 hb eo 6.0) coe 50 6's ceae 4, 5,6 
+
+
+Plan for Arcadia, Inc. v. Anita Assocs. , 
+501 F.2d 390 (9th Cir. 1974), 
+cert. denied, 419 U.S. 1034 (1975) ...........4.5. 3 
+
+
+Third Report and Order, Telephone Company-Cable 
+Television Cross-Ownership Rule, Sections 
+
+
+63.54-63.58, 10 FCC Red 7887 (1995) ............ 3 
+U.S. Bancorp Mortgage Co. v. Bonner 
+
+Mall Partnership, 115 S. Ct. 386 (1994) .......... 7,8 
+United States v. Alaska §.S. Co., 253 U.S. 113 (1920) .... 5 
+United States v. Munsingwear, 340 U.S. 36 (1950) ..... 7 
+United States Dep't of Justice v. Provenzano, 
+
+— 0 TTT ee TT Tee 5 
+
+
+Valley Forge Christian College v. Americans 
+United for Separation of Church and State, Inc., 
+4 |) ye Oy 2 ae arr ar 6 
+
+
+ii 
+TABLE OF AUTHORITIES -- Continued 
+
+
+Statutes 
+
+
+Communications Act of 1934, 
+47 U.S.C. § 151, ef seq. 
+
+
+DE cabedesevevvvevecese 
+
+
+Telecommunications Act of 1996, 
+
+
+§ 302 (adding 47 U.S.C. §§ 651-653) ......... 
+
+
+§ 302(a) (amending, in part, 47 U.S.C. § 533) ... 
+§ 302(b\(1) (repealing 47 U.S.C. § 533(b)).... .. 
+
+
+Other Authorities 
+
+
+S. Conf. Rep. No. 230, 104th Cong., 2d Sess. (1996) .... 
+
+
+13A Charles Alan Wright & Arthur R. Miller, 
+FEDERAL PRACTICE & PROCEDURE (2d ed. 1984 
+
+
+2 | 8 ee ee 
+
+
+Supreme Court of the United States 
+OCTOBER TERM, 1995 
+
+
+Nos. 94-1893, 94-1900 
+
+
+UNITED STATES OF AMERICA, et al., 
+
+
+Petitioners, 
+v. 
+
+
+CHESAPEAKE AND POTOMAC TELEPHONE 
+COMPANY OF VIRGINIA, et ai., 
+
+
+Respondents. 
+
+
+On Writs of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+RESPONSE TO SUGGESTION OF MOOTNESS 
+
+
+The Telecommunications Act of 1996 does not moot this case.' 
+Although the Act formally repeals 47 U.S.C. § 533(b), it 
+substitutes new provisions that keep in place, for at least six 
+months, the prohibition on a telephone company’s provision of 
+video programming to its local telephone subscribers over an 
+“open video system” (the Act’s new name for “video dialtone”). 
+
+
+In this lawsuit, respondents have sought to speak over just such 
+an open video system. See J.A. 13 (Complaint 4 28). As the 
+Solicitor General has acknowledged, respondents’ “principal 
+objective” in this litigation was to establish their right “to develop 
+a video dialtone system on their own telephone network for the 
+transmission of their own programming.” Govt. Br. 42. Because 
+
+
+' Pursuant to Rule 29.6, respondents incorporate the statement of parent 
+companies and nonwholly owned subsidiaries contained in the Response to the 
+
+
+2 
+
+
+the new Act preserves § 533(b)’s ban on the precise form of video 
+speech at issue in this case, the controversy before this Court 
+remains very much alive. The Court should therefore reject the 
+Solicitor General’s suggestion of mootness and deny his request to 
+dismiss this case. 
+
+1. Respondents challenged § 533(b) both on its face (J.A. 9-13) 
+and as applied to their provision of video programming over a 
+proposed video dialtone network in Alexandria, Virginia (J.A. 13- 
+14). In the district court, the Government conceded that the facts 
+surrounding the Alexandria video dialtone network “typifie(d]” the 
+application of § 533(b) and that a facial challenge was therefore 
+appropriate. Govt. Summary Judgment Br. 79 (May 22, 1993). 
+on its face and as applied. See Pet. App. 108a n.36; see also Pet. 
+App. 6a (opinion of the Court of Appeals). 
+
+
+While § 302(b)(1) of the 1996 Act formally repeals 47 U.S.C. 
+§ 533(b), § 302(a) of the Act qualifies that repeal by adding new 
+language governing a telephone company’s provision of video 
+programming directly to subscribers.’ First, the Act gives a 
+telephone company limited authority to provide video programming 
+over its own non-common carrier “cable system.” See 47 
+U.S.C. § 651(aX(3(A).’ Although the facial relief granted below 
+permitted respondents to provide video programming in that 
+manner, the complaint in this lawsuit alleged no plan for doing so. 
+Second, the Act allows a telephone company to provide video 
+programming over an “open video system,” but only “[tjo the 
+extent permitted by such regulations as the [FCC] may prescribe 
+
+
+* See 47 U.S.C. §§ 651, 652, and 653 (added by the 1996 Act). 
+
+
+* The authority may be exercised in most cases only by building a new cable 
+system, not by acquiring or managing an existing one. With several exceptions, 
+the Act forbids a telephone company or its affiliates from acquiring “more than 
+a 10 percent financial interest, or amy management interest, in any cable 
+service area.” 47 U.S.C. § 652(a). 
+
+
+3 
+
+
+consistent with the public interest, convenience, and necessity.” 
+47 U.S.C. § 653(a(1).* 
+
+No such regulations exist today. The 1996 Act directs the FCC 
+to promulgate regulations “[w]ithin 6 months after the date of 
+enactment of the Telecommunications Act of 1996.” 47 
+U.S.C. § 653(b(1).° The absence of regulations in the interim 
+translates into a continuation of the flat prohibition on speech: A 
+telephone company is absolutely barred from providing video 
+programming over an “open video system.” Until the FCC adopts 
+new rules to govern speech over such systems, and until those 
+programming over their own common carrier network directly to 
+their telephone subscribers.° 
+
+The Act does allow telephone companies to provide video 
+programming over a cable system — and to that extent may offer 
+
+
+* Although “open video system” is not defined, the term is meant to include 
+at least the “video dialtone systems” for which the FCC previously proposed to 
+grant waivers of § 533(b). See 47 U.S.C. § 653(a)(1) (added by the 1996 Act) 
+(describing the nature of an “open video system”); compare Third Report and 
+Order, Telephone Company-Cable Television Cross-Ownership Rule, Sections 
+63.54-63.58, 10 FCC Red 7887 (1995). 
+
+* Congress terminated the effectiveness of the FCC's video dialtone rules 
+(§ 302(b)(3) of the 1996 Act) because they had “created substantial obstacles to 
+the actual operation of open video systems” (S. Conf. Rep. No. 230, 104th 
+Cong., 2d Sess. 179 (1996)), and had “served as an obstacle to competitive 
+entry” by telephone companies. Jd. at 57. Congress left unaffected, pending 
+the FCC's promulgation of new rules, the provision of programming over any 
+video dialtone system previously approved by the FCC. § 302(b)(3) of the 1996 
+Act; see S. Conf. Rep. No. 230, at 179. 
+
+
+* Given the long history of regulatory delay in this area since 1987, see 
+Resp. Br. 37-38, the ban on speech may weil be retained for substantially longer 
+even than the six months specified in the statute. The deadline is not self- 
+enforcing: nothing tn the statute authorizes telephone companies to provide video 
+programming over open video systems if the FCC simply fails to adopt 
+regulations within the six-month period. Nor can the deadline be enforced by 
+mandamus, because under a statutory delegation like this one, a court “cannot 
+order the promulgation of any particular regulation or set of regulations.” Plan 
+for Arcadia, Inc. v. Anita Assocs., S01 F.2d 390, 392 (Mh Cir. 1974), cert. 
+denied, 419 U.S. 1034 (1975). 
+
+
+4 
+
+
+respondents an “alternative channel of communication.”’ But a 
+limited opportunity to speak over a cable system does not moot a 
+controversy concerning the continuing ban on speech over an open 
+video system. A ban on the provision of video programming to 
+subscribers, whatever its scope or duration, cannot survive even 
+intermediate scrutiny (let alone strict scrutiny), because its focus 
+on the editorial function as such assures that it cannot meet the 
+requirement that it be narrowly tailored to an important 
+governmental interest. See Resp. Br. 12-34. 
+
+Far from mooting the controversy, therefore, the 1996 Act 
+perpetuates the controversy. It does no more than require the 
+FCC, at some point in the future, to take regulatory action that 
+might then moot this case. Until some such action is taken, 
+however, this Court retains — and should exercise — its power to 
+adjudicate the case on its merits. 
+
+2. This Court’s precedents do not support the Solicitor 
+General’s suggestion of mootness. On the contrary, the Court has 
+made clear that a case does not become moot when, as here, a 
+
+
+Associated General Contractors v. City of Jacksonville, 113 S. Ct. 
+2297, 2301 (1993). 
+
+
+Repeal of a challenged statute can moot a case, of course, if it 
+
+
+5 
+
+
+in United States Dep't of Justice v. Provenzano, 469 U.S. 14 
+(1984) (per curiam), where the Government as petitioner claimed 
+that a Privacy Act exemption allowed it to withhold information 
+sought under the Freedom of Information Act, the case was 
+mooted by an amendment to the Privacy Act that resolved the issue 
+squarely in respondents’ favor.’ 
+
+The 1996 Act has no such effect. By preserving for at least six 
+months (and perhaps much longer) a ban on precisely the form of 
+video programming that respondents seek to provide, the new 
+
+This case is thus controlled by Associated General Contractors. 
+Shortly after this Court granted certiorari in that case, the 
+respondent City of Jacksonville repealed its challenged Minority 
+Business Enterprise ordinance and replaced it with a new ordinance 
+that “differfed) from the repealed ordinance” in several key 
+respects. 113 S. Ct. at 2300. The Court nonetheless rejected the 
+City’s claim that the repeal rendered the case moot. Applying “the 
+‘well settled’ rule that ‘a defendant’s voluntary cessation of a 
+challenged practice does not deprive a federal court of its power to 
+determine the legality of the practice,”” the Court stated that 
+“[t}here is no mere risk that Jacksonville will repeat its allegedly 
+wrongful conduct; it has already done so.” /d. at 2301 (quoting 
+Mesquite v. Aladdin's Castle, Inc., 455 U.S. 283 (1982)). 
+Focusing on the “gravamen of petitioner’s complaint” — namely, 
+“that its members are disadvantaged in their efforts to obtain city 
+contracts” — the Court reasoned that, while “the new ordinance 
+may disadvantage [petitioner’s members] to a lesser degree than 
+the old one, . . . it disadvantages them in the same fundamental 
+way.” ld. 
+
+
+* See also, ¢.g., Hall v. Beals, 396 U.S. 45, 48 (1969) (per curiam) (case 
+mooted by statutory amendment granting appellants the specific voting right they 
+sought to vindicate); United States v. Alaska $.S. Co., 253 U.S. 113, 115 
+(1920) (case mooted by new statute that achieved “[t}he thing sought to be 
+accomplished by the prosecution of this suit”); Berry v. Davis, 242 U.S. 468, 
+470 (1917) (case mooted by new statute that eliminated “(a}ll possibility or 
+threat” of the conduct sought to be enjoined). 
+
+
+6 
+
+
+The Court’s analysis applies with added force to this case. 
+Whereas the new ordinance in Associated General Contractors 
+disadvantaged petitioner to “a lesser degree” than the old one, the 
+new law here restricts to precisely the same degree respondents’ 
+ability to provide video programming over their own common- 
+carrier networks — it absolutely forecloses them from doing so for 
+at least six months. 
+
+
+This is therefore a live case, not one that depends on an 
+exception to mootness. This is not merely “a case that is ‘capable 
+of repetition, yet evading review.’” Diffenderfer v. Central Baptist 
+Church, 404 U.S. 412, 414 (1972) (emphasis added) (quoting 
+Southern Pacific Terminal Co. v. ICC, 219 U.S. 498, 515 (1911)). 
+The challenged conduct has already been repeated — more 
+accurately, has been continued — in the 1996 Act. And, if the 
+Solicitor General’s argument prevails, the issue will evade review. 
+Nor is this merely “the kind of case that may produce irreparable 
+injury if not decided immediately.” Diffenderfer, 404 U.S. at 414 
+(emphasis added). It will produce irreparable injury — by 
+depriving respondents and other telephone companies of their First 
+Amendment right to use their property for expressive purposes. 
+Cf. Elrod v. Burns, 427 U.S. 347, 373 (1976) (“The loss of First 
+Amendment freedoms, for even minimal periods of time, 
+unquestionably constitutes irreparable injury.”). 
+
+The cost in terms of wasted judicial effort would also be great, 
+in view of the timing of the supposedly mooting event. The 
+legislation was not enacted until nearly eight months after this 
+Court granted certiorari and two months after the Court heard oral 
+argument. When repeal occurs after a case has been briefed and 
+argued, and when this Court has already deliberated regarding its 
+outcome, there is no question that the case has satisfied the 
+functional elements of Article II] — a plaintiff with “an actual 
+injury redressable by the court,” who can assure vigorous 
+representation in “a concrete factual context.” Valley Forge 
+Christian College v. Americans United for Separation of Church 
+and State, Inc., 454 U.S. 464, 472 (1982) (internal quotation 
+marks omitted). Whether the opinion is handed down before or 
+after a change in statutory law hinges primarily on the speed with 
+
+
+7 
+
+
+which the opinion is drafted and printed. It would be an odd rule 
+that made this factor the decisive one for purposes of mootness. 
+
+
+In Honig v. Doe, 484 U.S. 305 (1988), where the Court rejected 
+a suggestion of mootness, the Chief Justice proposed “an additional 
+exception to our present mootness doctrine for those cases where 
+the events which render the case moot have supervened since our 
+grant of ceruorari or noting of probable jurisdiction.” /d. at 331- 
+32 (Rehnquist, C.J., concurring). In his view, the Court’s “unique 
+resources — the time spent preparing to decide the case by reading 
+briefs, hearing oral argument, and conferring — are squandered in 
+every case in which it becomes apparent after the decisional 
+process is underway that we may not reach the question 
+presented.” Jd. at 332. 
+
+Since this case is not moot under the Court’s “present mootness 
+doctrine,” there is no need here to consider adopting this view as 
+a new exception to that doctrine. But the Chief Justice’s concerns 
+are greatly magnified in a case like this one, where the allegedly 
+mooting event does not occur until months after oral argument. At 
+a minimum, the Court should dismiss a case for mootness at this 
+stage only where it is clear that nothing at all is left of the 
+controversy. Here, the very core of the dispute, as framed at the 
+inception of the case, remains both unchanged and vital. 
+
+
+3. If this Court nevertheless concludes that the appropriate 
+response to the 1996 Act is to dismiss the petitions for certiorari 
+on mootness grounds, it should not vacate the judgment of the 
+Court of Appeals. 
+
+In applying the Munsingwear doctrine, this Court has indicated 
+that the “pivotal[]” question, Anderson v. Green, 115 S. Ct. 1059, 
+1060 (1995) (per curiam), is whether this Court’s review is 
+“prevented through happenstance ,” United States v. Munsingwear, 
+340 U.S. 36, 40 (1950), or instead through the “voluntary action” 
+of one of the litigants. U.S. Bancorp Mortgage Co. v. Bonner 
+Mall Partnership, 115 S. Ct. 386, 391 (1994). Here, if this 
+Court’s review is prevented at all, it is prevented not by 
+“happenstance” but by the voluntary decision of one of the parties 
+— the United States of America — to alter § 533(b) after 16 
+federal judges had unanimously held it unconstitutional. 
+[C}hanges of legislative rules often seem to provide special 
+
+
+8 
+
+
+examples of voluntary discontinuance — public officials have 
+surrendered a challenged position.” 13A Charles Alan Wright & 
+Arthur R. Miller, FEDERAL PRACTICE & PROCEDURE § 3533.6, at 334 
+(2d ed. 1984 and 1995 Supp). 
+
+
+Moreover, vacatur is an “extraordinary remedy” to which a 
+party must demonstrate an “equitable entitlement.” Bonner Mall, 
+115 S. Ct. at 392. Any decision regarding vacatur “must also take 
+account of the public interest,” for “‘[jjudicial precedents are 
+presumptively correct and valuable to the legal community as a 
+whole.’” Jd. (quoting Izumi Seimitsu Kogyo Kabushiki Kaisha v. 
+U.S. Phillips Corp., 114 S. Ct. 425, 428 (1993) (Stevens, J., 
+dissenting)). Neither the public interest nor the private equities 
+favor vacatur in this case. 
+
+
+If this Court were to dismiss this case but leave the Court of 
+Appeals’ judgment unaffected, respondents would at least have the 
+continuing protection of an injunction that, in our view, should 
+extend no less to the new Act than to § 533(b). Respondents 
+would also be free to request an appropriate clarifying order under 
+Rule 60(b) of the Federal Rules of Civil Procedure. If the 
+Solicitor General has his way, however, respondents will be 
+stripped of that protection, and the United States may once again 
+enforce a ban on respondents’ provision of video programming to 
+subscribers in their service areas. That result would unjustifiably 
+deprive respondents of their hard-won rights; it also would deprive 
+the public of a presumptively correct Court of Appeals decision 
+whose “persuasive force as precedent . . . may save other judges 
+and litigants time in future cases.” Jn re Memorial Hospital, 862 
+F.2d 1299, 1302 (7th Cir. 1988) (Easterbrook, J.). 
+
+
+CONCLUSION 
+
+
+This Court should reject the suggestion of mootness and should 
+deny the request to dismiss this case. If the Court orders 
+dismissal, it should not vacate the judgment of the Court of 
+
+
+Appeals. 
+
+
+Respectfully submitted. 
+
+
+KENNETH W. STARR 
+PAUL T. CAPPUCCIO 
+STEVEN G. BRADBURY 
+KIRKLAND & ELLIS 
+
+655 Fifteenth Street, N.W. 
+
+
+Washington, D.C. 20005 
+(202) 879-5130 
+
+
+JAMES R. YOUNG 
+
+JOHN THORNE 
+
+MICHAEL E. GLOVER 
+1320 N. Courthouse Road 
+
+
+LAURENCE H. TRIBE 
+Counsel of Record 
+
+JONATHAN S. MASSEY 
+
+PETER J. RUBIN 
+
+1575 Massachusetts Avenue 
+
+Cambridge, MA 02138 
+
+(617) 495-4621 
+
+
+PETER W. HUBER 
+
+MARK L. EVANS 
+
+KELLOGG, HUBER, 
+HANSEN, TODD & EVANS 
+
+
+Eighth Floor 1301 K Street, N.W. 
+Arlington, VA 22201 Suite 1000 West 
+(703) 974-1600 Washington, D.C. 20005 
+(202) 326-7900 
+Counsel for Respondents 
+
+
+February 8, 1996 
+
+

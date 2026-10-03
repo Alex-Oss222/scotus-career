@@ -1,0 +1,1209 @@
+roa 
+
+
+Supreme Court, U.S. 
+M4 , ie UU ! 
+
+
+MAR 9. 4995 
+
+
+No. 94-818 | 
+a ny Cink 
+
+
+a a 
+
+
+OCTOBER TERM, 1994 
+
+
+—— ee 
+
+
+Se 
+
+
+HERCULES, INCORPORATED, ET AL., PETITIONERS 
+
+
+Vv. 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FEDERAL CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES IN OPPOSITION 
+
+
+DrEw S. Days, III 
+Solicitor General 
+
+
+FRANK W. HUNGER 
+Assistant Attorney General 
+
+
+DAVID S. FISHBACK 
+ALFRED R. MOLLIN 
+MICHAEL T. MCCAUL 
+Attorneys 
+Department of Justice 
+Washington, D.C. 20530 
+(202) 514-2217 
+
+
+| BESTAVAILABLE'COPY 
+
+
+QUESTION PRESENTED 
+
+
+Whether supply contracts between the United 
+States and petitioners included an implied-in-fact 
+obligation on the part of the United States to reim- 
+burse petitioners for the cost of litigating and settling 
+certain third-party product liability claims. 
+
+
+(1) 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+Opinions below 1 
+Jurisdiction 0000. 1 
+EEE 2 
+EEE SEER 9 
+EES 24 
+TABLE OF AUTHORITIES 
+Cases: 
+
+“Agent Orange” Product Liability Litigation, In re: 
+506 F. Supp. 762 (E.D.N.Y. 1980)... 16 
+565 F. Supp. 1263 (E.D.N.Y. 1983) 3, 16 
+
+597 F. Supp. 740 (E.D.N.Y. 1984), aff’d, 818 
+
+F.2d 145 (2d Cir. 1987), cert. denied, 484 
+| EES ee ae 10, 14, 16, 22 
+
+611 F. Supp. 1221 (E.D.N.Y. 1985), aff’d, 818 
+F.2d 204 (2d Cir. 1987) 00 10 
+
+
+611 F. Supp. 1223 (E.D.N.Y. 1985), aff'd, 818 
+
+F.2d 187 (2d Cir. 1987), cert. denied, 487 
+
+US. 1984 (1968) 10, 15, 16 
+818 F.2d 145 (2d Cir. 1987), aff’g 597 F. Supp. 
+
+740 (E.D.N.Y. 1984), cert. denied, 484 U.S. 
+
+
+EES 3, 4, 15 
+
+818 F.2d 204 (2d Cir.1987)... 5,17 
+Boyle v. United Technologies Corp., 487 U.S. 500 
+
+RENE ESIC SR Aa 17, 19 
+Eastern Air Lines, Inc. v. McDonnell Douglas 
+
+Corp., 532 F.2d 957 (5th Cir.1976) .... 22 
+
+Feres Vv. United States, 340 U.S. 135 ( 1950) .......... 13 
+Hatzlachh Supply Co. v. United States, 444 U.S. 
+
+| SEER A = 11 
+
+
+Ivy V. Diamond Shamrock Chemicals Co. (In re 
+“Agent Orange” Product Liability Litigation), 
+996 F.2d 1425 (2d Cir. 1993), cert. denied, 114 
+I RO I I i ccasscesteanenestumemensmanietnesesnne. 15, 16 
+
+
+IV 
+
+
+Cases—Continued: Page 
+Lopez Vv. A.C. & S., Inc., 858 F.2d 712 (Fed. Cir. 
+1988), cert. denied, 491 U.S. 904 (1989) ll 
+
+
+Parfait v. Janhcke Service, Inc., 484 F.2d 296 
+(5th Cir. 1973), cert. denied, 415 U.S. 957 
+
+
+I lachetibictitt hada eae ees 20 
+Stencel Aero Eng’g Corp. v. United States, 431 
+
+es UU 13, 19 
+Tankrederiet Gefion A/S Vv. Hyman-Michaels Co., 
+
+406 F.2d 1039 (6th Cir. 1969) 000 20 
+
+
+United States v. Spearin, 248 U.S. 132 (1918)... 11,12 
+United States v. Vertac Chemical Corp., Nos. 94- 
+
+1946 etc. (8th Cir. Jan. 31, 1995)... 21, 22 
+Whisenant Vv. Brewster-Bartle Offshore Co., 446 
+
+F.2d 394 (5th Cir. 1971), cert. denied, 415 U.S. 
+
+
+Be MEINE” ‘Gisrnnassnsaciddeeekeee eee aS 20 
+Statutes: 
+Anti-Deficiency Act, 31 U.S.C. 1341 et seq.: 
+31 U.S.C. 1341 (1988 & Supp. V 1993) 6, 23 
+31 U.S.C. 1341(a) (1) (B) (1988 & Supp. V 
+sieht ete eee Ce 14 
+
+
+Comprehensive Environmental Response, Com- 
+pensation, and Liability Act of 1980, 42 U.S.C. 
+
+
+RN ANE ee eee Ee Se 14 
+4 ES ae ea 13 
+Defense Production Act, 50 U.S.C. App. 2061 et 
+GI seesaataatatteibaiencnisiclaiatennmmnibdnnnieele Riek er es 5 
+§ 101, 50 U.S.C. App. 2071 (1988 & Supp. V 
+deine A 22 
+§101(a), 50 U.S.C. App. 2071(a) (1988 & 
+I a aa 8 
+§101(a)(1), 50 U.S.C. App. 2071(a) (1) 
+(1988 & Supp. V 1993) 200. 21 
+§ 707, 50 U.S.C. App. 2157... 6, 8, 9, 20, 21, 22, 23 
+28 U.S.C. 1491 (1988 & Supp. V 1998) 12 
+a a 13 
+ee ee 13 
+
+
+50 U.S.C. 1431 (1988 & Supp. V 1993) 0. 14 
+
+
+Gu the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1994 
+
+
+No. 94-818 
+HERCULES, INCORPORATED, ET AL., PETITIONERS 
+Vv. 
+UNITED STATES OF AMERICA 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FEDERAL CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES IN OPPOSITION 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (Pet. App. 1a- 
+33a) is reported at 24 F.3d 188. The opinions of the 
+United States Claims Court (now the Court of Fed- 
+eral Claims) (Pet. App. 47a-80a, 82a-115a) are re- 
+ported at 25 Cl. Ct. 616 and 26 Cl. Ct. 17. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals (Pet. App. 
+12la) was entered on May 4, 1994. Petitions for 
+rehearing were denied on July 7, 1994. Pet. App. 
+117a-120a. On September 26, 1994, the Chief Justice 
+extended the time within which to file a petition for 
+a writ of certiorari to and including November 4, 
+
+
+(1) 
+
+
+2 
+
+
+1994, and the petition was filed on that date. The 
+jurisdiction of this Court is invoked under 28 U.S.C. 
+1254(1). 
+
+STATEMENT 
+
+
+1. Between 1964 and 1968 the United States pur- 
+chased quantities of the defoliant Agent Orange from 
+several herbicide manufacturers, including petition- 
+ers. Pet. App. 3a; C.A. App. 464-482, 573-618. The 
+defoliant was produced in accordance with govern- 
+ment specifications and was used, as the manufac- 
+turers were aware it would be, in fighting the 
+Vietnam War. See Pet. App. 49a-50a, 84a-85a. The 
+relevant procurement contracts contained no express 
+warranty or indemnification provisions. Jd. at 19a 
+n.8. 
+
+Depending on how it is produced, Agent Orange 
+may contain varying amounts of a toxic by-product 
+known as dioxin.’ Pet. App. 3a. Beginning in 1979, 
+a number of Vietnam veterans and their families 
+sued the manufacturers of Agent Orange, including 
+petitioners, seeking compensation for injuries al- 
+legedly caused by exposure to the defoliant during 
+the war. Despite the ensuing litigation and years of 
+investigation and controversy, it has never been es- 
+tablished that exposure to dioxin caused the various 
+
+
+’ The courts below made no findings on the emergence, over 
+time, of concerns about the possible hazards of dioxin. There 
+is no doubt, however, that the larger manufacturers of 
+Agent Orange developed considerable knowledge in that re- 
+gard. Indeed, petitioner Hercules altered its production meth- 
+ods to eliminate dioxin following a meeting called by Dow 
+Chemical Company in 1965. The government was not in- 
+formed of or invited to attend that meeting. Pet. App. 4a, 
+49a-50a & n.5. 
+
+
+3 
+
+
+injuries alleged by the plaintiffs in those actions. See 
+Pet. App. 48a n.2, 64a-65a, 83a n.2, 97a-98a. 
+
+The Agent Orange cases were consolidated in the 
+Eastern District of New York. In 1983, Judge Pratt, 
+sitting by designation after his elevation to the court 
+of appeals, granted motions for summary judgment 
+in favor of several of the defendants, including 
+petitioners, based in part on the government con- 
+tractor defense. Pet. App. 4a-6a; In re “Agent 
+Orange” Product Liability Litigation, 565 F. Supp. 
+1263, 1275 (E.D.N.Y. 1983). That defense generally 
+shields from third-party tort liability contractors who 
+follow detailed government specifications, who know 
+no more than the government about any hazards those 
+specifications may present, and who do not withhold 
+any relevant information from the government. See, 
+e.g., Pet. App. 5a-6a, 21a-22a. Judge Pratt did not 
+sign formal judgments of dismissal to implement the 
+summary judgment, however, and the cases were sub- 
+sequently reassigned to Chief Judge Weinstein. 
+
+Chief Judge Weinstein reconsidered and denied the 
+defendants’ motions for summary judgment, and set 
+the case for trial. See Pet. App. 7a, 36a n.2. On the 
+eve of trial the parties entered into a settlement call- 
+ing for a total payment of $180 million, to which each 
+defendant contributed based on its share of the total 
+volume of Agent Orange produced, adjusted for the 
+level of dioxin in its product. Jd. at 7a. The United 
+States was not a party to the settlement, took no part 
+in the settlement discussions, and expressed no view 
+on the applicability of the government contractor de- 
+fense in the settled cases. See Pet. App. 114a-115a; 
+In re “Agent Orange” Product Liability Litigation, 
+818 F.2d 145, 160 (2d Cir. 1987). Petitioner Her- 
+cules’ share of the settlement payment was approxi- 
+
+
+4 
+
+
+mately $18.8 million; petitioner Thompson’s share 
+was approximately $3.1 million. Pet. App. 7a. In 
+affirming the settlement, which it characterized as 
+“essentially a payment of nuisance value” by the 
+defendants, the Second Circuit observed that the dis- 
+trict judge “clear[ly] * * * viewed the plaintiffs’ case 
+as so weak as to be virtually baseless.” In re “Agent 
+Orange” Product Liability Litigation, 818 F.2d 145, 
+151, 171 (2d Cir. 1987), aff'g 597 F. Supp. 740 
+(E.D.N.Y. 1984), cert. denied, 484 U.S. 1004 (1988). 
+
+Nearly 300 plaintiffs opted out of the Agent Orange 
+settlement. Pet. App. 7a. Chief Judge Weinstein 
+subsequently granted summary judgment against the 
+non-settling plaintiffs, “primarily on the ground that 
+the plaintiffs had failed to present credible evidence 
+of a causal link betveen exposure to Agent Orange 
+and the plaintiffs’ alleged injuries,” and alternatively 
+because “the defendant companies were insulated 
+from liability by the government contractor defense.” 2 
+
+
+* During the opt-out litigation, the United States argued 
+that the applicability of the government contractor defense in 
+those cases should not be resolved on the pending motion for 
+summary judgment. The government did not question the 
+availability of the defense in appropriate circumstances. 
+Rather, the government argued that the defense should not 
+apply to claims of negligent manufacturing of defective goods 
+under government contracts, and that there were remaining 
+factual issues, requiring at least further discovery, with 
+respect to each element of the defense: whether the govern- 
+ment “established the specifications” for Agent Orange with 
+respect to the presence of dioxin, whether the Agent Orange 
+produced by various manufacturers actually met the govern- 
+ment’s specifications, and whether particular manufacturers 
+were aware of possible product hazards of which they failed 
+to apprise the government. See C.A. App. 662-697; Pet. App. 
+104a, 113a-115a. 
+
+
+5 
+
+
+Id. at 8a. In related rulings, the district court and 
+the Second Circuit also rejected third-party claims 
+by the manufacturers, including petitioners, against 
+the government, seeking tort-law indemnification for 
+or contribution to the settlement. See In re “Agent 
+Orange” Product Liability Litigation, 818 F.2d 204 
+(1987). 
+
+2. Petitioners filed separate breach-of-contract ac- 
+tions against the United States, once again seeking 
+reimbursement for the costs of litigating and settling 
+“the Agent Orange litigation. See Pet. App. 9a. Both 
+petitioners alleged that the government had made and 
+breached an implied warranty of specifications with 
+respect to Agent Orange. See id. at 9a-10a. Peti- 
+tioner Thompson also contended that the government 
+had an implied obligation to indemnify Thompson 
+because Thompson’s manufacture of Agent Orange 
+was compelled by the government under the Defense 
+Production Act (DPA), 50 U.S.C. App. 2061 et seg. 
+Pet. App. 10a." 
+
+The Claims Court (now the Court of Federal 
+Claims) granted summary judgmert in favor of the 
+United States.‘ The court concluded (Pet. App. 64a- 
+
+
+* Both petitioners also alleged breach of an implied obliga- 
+tion to divulge superior knowledge of intended uses and risks. 
+In addition, petitioner Hercules alleged breach of implied 
+obligations to act in good faith and to exercise due care in 
+the use of Agent Orange. Pet. App. 9a-10a. The courts below 
+rejected those contentions. Jd. at 15a-16a, 25a-27a, 56a-60a, 
+91a-92a. Because petitioners do not renew them in this Court, 
+we do not discuss them further here. 
+
+
+* While petitioners correctly state that no discovery was 
+taken in the Claims Court actions (Pet. 8), they fail to note 
+that the parties presented to the court undisputed documents 
+and testimony from discovery in the extensive Agent Orange 
+
+
+6 
+
+
+68a, 96a-99a) that even if a warranty of specifica- 
+tions were implied, the course of prior judicial pro- 
+ceedings indicated that petitioners could not prove the 
+existence of damages caused by an injurious defect 
+in the government’s specifications, because it had not 
+been established that the tort plaintiffs were harmed 
+by Agent Orange. Moreover, the court held (id. at 
+67a-68a, 99a-100a) that there could have been no 
+breach of any warranty of specifications, “because the 
+manufacturer, under the circumstances alleged, was 
+protected from liability by the Government contractor 
+defense.” Jd. at 68a, 100a. The court also held (id. 
+at 78a-79a, 102a-103a) that to the extent petitioners’ 
+claims depended on implied indemnities in their gov- 
+ernment contracts, they were barred by the Anti- 
+Deficiency Act, 31 U.S.C. 1341. That Act provides 
+that officers and employees of the United States may 
+not normally authorize expenditures in excess of funds 
+already appropriated by Congress. 
+
+The court also rejected (Pet. App. 100a-102a) pe- 
+titioner Thompson’s argument that a contractual in- 
+demnity should be implied on the basis of the Defense 
+Production Act.® Section 707 of that Act, 50 U.S.C. 
+App. 2157, provides in part that “[n]o person shall 
+be held liable for damages or penalties for any act 
+or failure to act resulting directly or indirectly from 
+compliance with a rule, regulation, or order issued 
+pursuant to [the DPA].” The court held that Section 
+707 provides only a defense to actions claiming 
+
+
+litigation before the district court in New York. See, e.g., 
+C.A. App. 263-421. 
+
+
+5 Petitioner Hercules did not rely on the DPA before either 
+the Claims Court or the Federal Circuit. See Pet. App. 
+14a, 28a. 
+
+
+7 
+
+
+breach of non-government contracts adversely affected 
+by the priority that is accorded to government orders 
+under the DPA, not an indemnity for tort damages 
+paid to third parties injured by products manufac- 
+tured under such orders. 
+
+Finally, the court determined that petitioners’ 
+claims were fundamentally inconsistent with the gov- 
+ernment contractor defense. Pet. App. 68a-78a, 104a- 
+115a. The court agreed with the government (id. at 
+75a-76a, 110a-1lla) that the purpose of the defense— 
+to insulate government procurement decisions from 
+considerations of potential future tort liability— 
+would be subverted by allowing a contractor to require 
+government reimbursement of tort damages that the 
+contractor could have avoided by invoking the defense. 
+The court also agreed (id. at 76a-77a, 111la-113a) 
+that petitioners could have invoked the government 
+contractor defense to avoid all liability in the prior 
+Agent Orange litigation, just as they invoked it to 
+avoid liability to plaintiffs who opted out of the class- 
+action settlement. Thus, the court concluded (id. at 
+80a, 115a) that petitioners could not prevail in this 
+litigation because recovery against the government 
+would be inconsistent with the rationale of the gov- 
+ernment contractor defense. 
+
+3. The court of appeals consolidated petitioners’ 
+cases and affirmed. Pet. App. la-33a. The court 
+agreed (id. at 18a-19a & n.8) that scientific proof of 
+dioxin-related injuries was “sparse,” and that, in 
+any event, “the facts would have to be stretched” to 
+conclude that the government had made and breached 
+an implied warranty of specifications that would per- 
+mit petitioners to recover their litigation and settle- 
+ment costs. The court chose to rest its decision, how- 
+
+
+B 
+
+
+ever, on the ground that petitioners “cannot prove 
+that their damages were caused by the government’s 
+alleged breach * * * because [petitioners] were pro- 
+tected from liability to the Agent Orange plaintiffs 
+by the government contractor defense.” Jd. at 19a- 
+20a. Observing that petitioners “successfully argued 
+on three separate occasions that the government con- 
+tractor defense shielded them from liability for the 
+veterans’ tort claims,” the court concluded that “there 
+can be no serious doubt that had the class action 
+Agent Orange litigation proceeded to termination, no 
+liability would have been imposed” against them. 7d. 
+at 23a. Thus, in the court’s view, petitioners made 
+a voluntary decision to settle rather than to press 
+their defense in litigation, and their contributions to 
+the settlement fund resulted from that decision, not 
+from any breach of a contractual duty by the govern- 
+ment. [bid. 
+
+The court of appeals also rejected (Pet. App. 28a- 
+33a) petitioner Thompson’s argument that Section 
+707 of the Defense Production Act, 50 U.S.C. App. 
+2157, created an implied contractual commitment by 
+the government to indemnify DPA contractors for 
+losses arising from tort suits brought by third parties. 
+Like the Claims Court (and the district court that 
+approved the class action settlement), the court con- 
+cluded (Pet. App. 33a) that Section 707’s protection 
+“extends no further than the risk imposed by” Sec- 
+tion 101(a) of the DPA, which authorizes the Presi- 
+dent to require that performance under defense con- 
+tracts “take priority over performance under any 
+other contract or order.” 50 U.S.C. App. 2071(a). 
+The court thus interpreted Section 707 to provide 
+only “a defense for a DPA contractor against a suit 
+
+
+9 
+
+
+by a non-government customer in the event that the 
+DPA contractor is forced to breach another contract 
+to fulfill the government’s requirements,” Pet. App. 
+29a. “Accordingly, invocation of the DPA by the 
+government * * * did not give rise to an implied-in- 
+fact contractual obligation * * * to indemnify Thomp- 
+son for its contribution to the Agent Orange settle- 
+ment fund.” Jd. at 33a. 
+
+Judge Plager dissented. Pet. App. 34a-46a. In his 
+view, approval of the Agent Orange settlement and 
+the uncertain scope of the government contractor de- 
+fense at the time of the settlement made it impossible 
+to conclude that petitioners would have faced no lia- 
+bility had they gone to trial. Jd. at 35a-40a. Judge 
+Plager would also have read Section 707 of the DPA 
+as a general “hold harmless” provision, under which 
+the government was required to indemnify petitioner 
+Thompson for any damages, including third-party 
+tort liability, arising out of Thompson’s production of 
+Agent Orange. Pet. App. 48a-45a. 
+
+
+ARGUMENT 
+
+
+Petitioners manufactured Agent Orange under con- 
+tracts with the government. Years after the com- 
+pletion of performance under those contracts, peti- 
+tioners were sued by third parties who claimed to 
+have been injured by the government’s military use 
+of Agent Orange. In that litigation, petitioners prop- 
+erly raised the government contractor defense. The 
+first district judge to consider the matter granted 
+summary judgment for petitioners on the basis of 
+that defense. That decision was withdrawn by a sec- 
+
+
+10 
+
+
+ond district judge, but both he and the Court of Ap- 
+peals for the Second Circuit later relied in part on 
+the defense in affirming a partial settlement of the 
+litigation, in granting petitioners summary judgment 
+against plaintiffs who opted out of the settlement, 
+and in rejecting petitioners’ third-party claims 
+against the United States for indemnity and con- 
+tribution. This Court denied further review of two 
+of those decisions.* Petitioners have now reformulated 
+their claims for reimbursement in the language of 
+implied warranty and contractual indemnity. 
+
+1. Petitioners’ primary contention is that they have 
+been “barred from suing the government for breach 
+of an implied warranty of specifications.”* Pet. 12; 
+see also Pet. 11. The courts below did not, however, 
+“preclude[]” petitioners from bringing their breach 
+
+
+*See In re “Agent Orange” Product Liability Litigation, 
+597 F. Supp. 740, 795-799, 843-850 (E.D.N.Y. 1984) (approv- 
+ing settlement), aff’d, 818 F.2d 145, 173-174 (2d Cir. 1987), 
+cert. denied, 484 U.S. 1004 (1988); In re “Agent Orange” 
+Product Liability Litigation, 611 F. Supp. 12238, 1263-1264 
+(E.D.N.Y. 1985) (dismissing opt-out cases), aff’d, 818 F.2d 
+187 (2d Cir. 1987), cert. denied, 487 U.S. 1234 (1988); In re 
+“Agent Orange” Product Liability Litigation, 611 F. Supp. 
+1221, 1223 (E.D.N.Y. 1985) (dismissing third-party claims 
+against the United States), aff’d, 818 F.2d 204, 210 (2d Cir. 
+1987). 
+
+
+7 As noted above (see note 3, supra), petitioners do not 
+renew in this Court their claims based on an implied obliga- 
+tion to divulge superior knowledge, and petitioner Hercules 
+does not renew its claims based on implied obligations to act 
+in good faith and to exercise due care. Cf. Pet. 8 n.7. Because 
+the petition presents no question with respect to those claims, 
+we do not address them. 
+
+
+11 
+
+
+of contract claim (Pet. i). Rather, as the court of 
+appeals pointed out (Pet. App. 18a), the Claims 
+Court rejected that claim on the merits, for three 
+independent reasons: (i) because any implied war- 
+ranty of specifications that might be found would not 
+provide for the kind of recovery sought by peti- 
+tioners, (ii) because the absence of scientific evidence 
+regarding the consequences of dioxin exposure would 
+preclude a finding that any such warranty was 
+breached, and (iii) because the availability of the 
+government contractor defense in the prior tort liti- 
+gation would preclude a finding that petitioners’ dam- 
+ages were caused by the government’s alleged breach 
+of such a warranty. The court of appeals indicated 
+its likely agreement with the first two holdings, al- 
+though it explicitly reached and affirmed only the 
+third. Jd. at 18a-20a & n.8. Any of the trial court’s 
+grounds is sufficient to support the judgment below. 
+
+a. Petitioners concede that their contracts with the 
+government included no express warranty or indem- 
+nity of any kind. See Pet. App. 19a n.8. They argue 
+instead (Pet. 12-13) that such a provision was im- 
+plied in fact, and that the Claims Court’s decision to 
+the contrary (Pet. App. 66a, 98a-99a) conflicts with 
+this Court’s decision in United States v. Spearin, 248 
+U.S. 1382 (1918).° 
+
+
+® The Court of Federal Claims’ jurisdiction under 28 U.S.C. 
+1491 extends only to contractual obligations that are either 
+express or implied in fact; it does not reach obligations that 
+are “implied in law.” Hatzlachh Supply Co. v. United States, 
+444 U.S. 460, 465 n.5 (1980); see also Lopez v. A.C. & S., Inc., 
+858 F.2d 712, 714-715 (Fed. Cir. 1988), cert. denied, 491 U.S. 
+904 (1989) (implied warranty claims by suppliers of asbestos 
+insulation). 
+
+
+A2 
+
+
+Spearin involved a contractor who agreed to build 
+a drydock according to detailed plans provided by the 
+Navy. The plans called for the contractor to relocate 
+a sewer in a specific manner, which he did. A defect 
+in the Navy’s plan of the existing sewer caused the 
+relocation to be unsatisfactory, leading to additional 
+costs and a dispute over completion of the contract. 
+248 U.S. at 133-135. The contractor sued, and this 
+Court upheld a judgment in his favor for costs and 
+lost profits. Jd. at 188-139. Noting that the contrac- 
+tor had no knowledge of the plan defect and that his 
+independent investigation of the site was adequate 
+under the circumstances (id. at 134-135, 187), the 
+Court held that the government’s “insertion [into the 
+contract specifications] of the articles prescribing the 
+character, dimensions and location of the sewer im- 
+ported a warranty that, if the specifications were 
+complied with, the sewer would be adequate.” 
+
+The facts of this case are remote from those of 
+Spearin. Petitioners do not claim direct contract 
+damages based on a contention that some defect in 
+the government’s specifications rendered the manu- 
+facture of Agent Orange more difficult or expensive 
+than they expected, or caused the product, although 
+properly manufactured, to be unfit for its intended 
+use. Rather, they claim remote and consequential 
+damages arising from the settlement of unproven 
+third-party tort claims related to the government’s 
+use of the Agent Orange produced. The Claims Court 
+recognized that distinction when it explained (Pet. 
+App. 65a-66a, 98a-99a; emphasis added) that even if 
+the facts might present a triable issue of fact con- 
+cerning the existence of an implied warranty under 
+
+
+13 
+
+
+Spearin, they could not plausibly “be stretched so far 
+as to support the theory that the parties came to a 
+meeting of the minds that there would be an indem- 
+nification agreement between them if the implied 
+warranty of specifications was alleged, but never 
+proven, to [have been] violated.” 
+
+The court of appeals agreed that “the facts would 
+have to be stretched” to support petitioners’ theory. 
+Pet. App. 18a. The court explained (id. at 19a n.8) 
+that under Feres v. United States, 340 U.S. 135 
+(1950), the government is protected from tort liabil- 
+ity for injuries to members of the armed services 
+arising out of their military service. Uncor Stencel 
+Aero Eng’g Corp. v. United States, 431 U.S. 666 
+(1977), that protection extends to suits for indemnity 
+by government contractors who manufacture military 
+equipment under specifications supplied by the gov- 
+ernment, because allowing indirect recovery against 
+the government would undermine Feres’ prohibition 
+of direct suits by service members. For the same 
+reason, the court found it “difficult to envision the 
+circumstances under which a court could find an im- 
+plied-in-fact agreement on the part of the government 
+to provide the kind of indemnity for which [peti- 
+tioners] argue.” Pet. App. 19a n.8. There is no reason 
+for this Court to question the conclusion that peti- 
+tioners’ implied indemnity claim is too implausible to 
+present a genuine issue of fact for trial.° 
+
+
+®* Even express agreements to indemnify a government con- 
+tractor for open-ended liabilities are extraordinary, and in 
+the absence of some specific statutory provision it is question- 
+able whether government agents would have had the authority 
+to agree to the indemnity suggested by petitioners. Compare, 
+e.g., 42 U.S.C. 2210(d) and (h) (indemnification of nuclear 
+contractors); 42 U.S.C. 9619 (President “may agree to hold 
+
+
+14 
+
+
+b. Even if petitioners’ implied indemnity claim 
+raised a triable issue of fact, the Claims Court cor- 
+rectly concluded (Pet. App. 64a-65a, 96a-97a) that 
+under the facts of this case petitioners would not be 
+able to show any breach by the government of an 
+underlying warranty of specifications. As the court 
+pointed out, despite the “many and varied decisions 
+regarding the veterans’ suits against the herbicide 
+manufacturers” (id. at 65a, 97a), no court has ever 
+found credible evidence that exposure to Agent 
+Orange caused any of the injuries complained of by 
+the individual tort plaintiffs. 
+
+Chief Judge Weinstein, who expressed considerable 
+sympathy for the veteran plaintiffs (see, e.g., In re 
+“Agent Orange” Product Liability Litigation, 597 
+F. Supp. 740, 857 (E.D.N.Y. 1984)), nonetheless 
+approved settlement of their claims in part because 
+he thought the case probably “without merit,” ibid., 
+in view of the fact that “an enormous scientific effort 
+to be helpful on causation ha[d], from the plaintiffs’ 
+point of view, left the case at best open.” Jd. at 795. 
+In later granting summary judgment against those 
+plaintiffs who opted out of the settlement, the Chief 
+Judge explained that “years of discovery and tens 
+of millions of dollars spent by the government and 
+
+
+harmless and indemnify” certain “response action contrac- 
+tor[s]” under Comprehensive Environmental Response, Com- 
+pensation, and Liability Act of 1980 (CERCLA)); and 50 
+U.S.C. 1431 (President may enter into defense contracts dur- 
+ing emergencies without regard to most normal statutory 
+restrictions) with, e.g., the Anti-Deficiency Act, 31 U.S.C. 
+1341(a) (1) (B) (no officer or employee may commit the gov- 
+ernment to any “contract or obligation for the payment of 
+money before an appropriation is made unless authorized by 
+law’). 
+
+
+15 
+
+
+others on research ha[d] not yielded any competent 
+evidence indicating a genuine issue of fact about 
+causation.” In re “Agent Orange” Product Liability 
+Litigation, 611 F. Supp. 1223, 1260 (E.D.N.Y. 1985). 
+That judgment was echoed twice by the court of 
+appeals. In re “Agent Orange” Product Liability 
+Litigation, 818 F.2d 145, 171-173 (2d Cir. 1987) 
+(opinion approving settlement), cert. denied, 484 U.S. 
+1004 (1988) ; 818 F.2d 187, 193-194 (opinion approv- 
+ing dismissal of “opt-out” plaintiffs’ claims) (2d Cir. 
+1987), cert. denied, 487 U.S. 1234 (1988). And time 
+has produced no new evidence that would call the 
+courts’ conclusion into question. See Ivy v. Diamond 
+Shamrock Chemicals Co. (In re “Agent Orange” 
+Product Liability Litigation), 996 F.2d 1425, 1436- 
+1437 (2d Cir. 1993), cert. denied, 114 S. Ct. 1125 
+(1994) (reviewing recent evidence and refusing to 
+reopen settlement). There is no reason for this Court 
+to question the Claims Court’s decision (Pet. App. 
+68a), and the court of appeals’ suggestion (id. at 
+18a), that petitioners’ allegation of breach of war- 
+ranty in this case raised no genuine issue for trial. 
+
+ce. Finally, both the Claims Court (Pet. App. 67a- 
+78a, 99a-100a, 104a-115a) and the court of appeals 
+(id. at 19a-25a) held that petitioners could not “prove 
+that [any] damages were caused by the government’s 
+alleged breach of an implied warranty of specifica- 
+tions because they were protected from liability to the 
+Agent Orange plaintiffs by the government contractor 
+defense.” Jd. at 19a-20a. 
+
+As the court of appeals pointed out (Pet. App. 
+22a), the courts that considered the Agent Orange 
+tort litigation all ultimately concluded that the gov- 
+ernment contractor defense protected petitioners from 
+
+
+16 
+
+
+liability. The district court initially granted summary 
+judgment for petitioners on the basis of that defense. 
+See In re “Agent Orange” Product Liability Litiga- 
+tion, 506 F. Supp. 762, 796 (E.D.N.Y. 1980) (Pratt, 
+J.) (indicating willingness to invoke defense once 
+elements proved); In re “Agent Orange” Product Li- 
+ability Litigation, 565 F. Supp. 1263, 1272-1274 
+(E.D.N.Y. 1983) (granting motions for summary 
+judgment). Chief Judge Weinstein retracted that ac- 
+tion after assuming responsibility for the case, see 
+Pet. App. 7a, but he later discussed the potential ap- 
+plicability of the defense in approving the settlement 
+agreement, see 597 F. Supp. at 795-799, 843-850, and 
+he relied on its applicability in dismissing the claims 
+of those plaintiffs who opted out of the settlement. 
+611 F. Supp. at 1263-1264 (“Plaintiffs are unable to 
+overcome defendants’ government contract defense.’’ ). 
+The Second Circuit affirmed in each instance; indeed, 
+it based its decision with respect to the opt-out plain- 
+tiffs solely on the government contractor defense. See 
+818 F.2d at 173-174 (settlement opinion) (defense a 
+“final and in our view impossible, hurdle to sur- 
+mount”’) ; id. at 189-194 (opt-out opinion), 192 (““We 
+need not define the precise contours of the defense 
+because we believe that under any formulation * * * 
+the defendants here were entitled to summary judg- 
+ment.”). See also id. at 209 (opinion on manufac- 
+turers’ tort indemnity claims against the United 
+States); Ivy v. Diamond Shamrock Chemicals Co., 
+996 F.2d at 1436. The long history of prior litigation 
+provides solid support for the conclusion of the court 
+below thai “there can be no serious doubt that had 
+the class action Agent Orange litigation proceeded to 
+termination, no liability would have been imposed 
+against [petitioners].” Pet. App. 23a. 
+
+
+17 
+
+That conclusion is also logically compelled by the 
+parallel requirements of the government contractor 
+defense and the warranty-of-specifications theory ad- 
+vanced by petitioners in this case. Petitioners’ pro- 
+posed warranty theory requires them to establish that 
+they manufactured Agent Orange in compliance with 
+precise design specifications devised and drafted by 
+the government, and that the government knew more 
+than they did about the part of the design that caused 
+the alleged defect in the resulting product. Pet. 12. 
+By comparison, the government contractor defense 
+applies whenever the United States approved reason- 
+ably precise specifications, the contractor’s work con- 
+formed to those specifications, and the contractor 
+warned the United States about any hazards known 
+to the contractor but not to the United States. Pet. 
+App. 21la-22a, citing Boyle v. United Technologies 
+Corp., 487 U.S. 500, 512 (1988). 
+
+Because the elements required to recover under the 
+alleged warranty and those required to invoke the 
+government contractor defense are essentially the 
+same, if a contractor can establish the grounds for 
+the existence of a warranty of specifications under 
+petitioners’ theory, it will necessarily have established 
+the elements of a complete defense to any tort claim 
+that might give rise to damages under the warranty. 
+Conversely, if a tort plaintiff suing a contractor suc- 
+ceeds in recovering damages despite invocation of the 
+government contractor defense, then whatever ele- 
+ment of that defense the contractor failed to establish 
+will also preclude it from recovering under any pur- 
+ported warranty. See also Jn re “Agent Orange” 
+Product Liability Litigation, 818 F.2d 204, 208-209 
+(2d Cir. 1987) (applying similar analysis to petition- 
+ers’ tort indemnity claim against the United States). 
+
+
+18 
+
+
+Petitioners argue (Pet. 13-16) that although they 
+settled the underlying tort litigation, rather than re- 
+lying on the government contractor defense to pre- 
+clude liability, they are entitled to recover for breach 
+of an alleged warranty of specifications because 
+their settlement was “reasonable” (Pet. 14). That 
+argument reflects a misunderstanding of the struc- 
+ture of government contract law, which offers differ- 
+ent protections to contractors in different situations. 
+In Spearin, the contractor could be protected only ‘y 
+allowing recovery of additional costs and lost profits 
+related to completion of the contract. In this case, if 
+petitioners followed government design specifications 
+and did not withhold information about potential haz- 
+ards unknown to the government, their full protec- 
+tion lay in the government contractor defense. Noth- 
+ing in Spearin supports the conclusion that the United 
+States implicitly warranted to reimburse petitioners 
+for costs involved in litigating and settling tort suits 
+as to which the law already provided a complete 
+defense. And no such result can fairly be inferred 
+from the terms of routine supply contracts like those 
+at issue here. 
+
+Petitioners’ theory would cede to government con- 
+tractors the power to create indirect governmental 
+liability to tort plaintiffs, allowing such plaintiffs to 
+accomplish by suing the contractor what they could 
+not accomplish by suing the government directly. It 
+would also encourage military contractors to settle 
+meritless product liability suits and then seek to re- 
+cover the related costs through breach of contract 
+claims against the United States. 
+
+At bottom, petitioners’ argument may be that the 
+United States should be liable ‘n contract because 
+
+
+19 
+
+
+petitioners’ agreemert to settle the class action was 
+
+
+not truly voluntary, petitioners having been pressured 
+by Chief Judge Weinstein’s refusal to enter final 
+judgment on the original order granting summary 
+judgment, and his subsequent encouragement of set- 
+tlement. But such a settlement cannot establish gov- 
+ernment liability where none otherwise exists—par- 
+ticularly where the courts eventually determined not 
+only that there was no defect in the Agent Orange 
+specifications, but also that the government contractor 
+defense immunized petitioners from suit.”* 
+
+Finally, even petitioners’ own authorities hold that 
+an implied indemnity will not always cover a settle- 
+ment based on nothing more than potential liability. 
+For instance, a showing of actual liability will be 
+
+
+© Petitioners also contend (Pet. 16-17) that this case merits 
+review because suppliers will either raise their prices or 
+withdraw from competition for government contracts because 
+third-party tort liability costs “will no longer be recoverable 
+in contract from the United States.” But those costs have 
+never been recoverable against the government, in contract 
+or otherwise. As this Court has explicitly recognized, con- 
+tractors have long been on notice that they should take any 
+risk of tort liability into account in negotiating government 
+contracts, because of the government’s immunity from tort- 
+law contribution. Stencel Aero Eng’g Corp., 431 U.S. at 674 
+& n.8. They can hardly claim surprise that the same princi- 
+ples apply to preclude novel claims of liability under implied 
+contractual indemnities. A contractor’s risk of tort liability is 
+controlled instead through precisely the mechanism at issue 
+here, the government contractor defense. That defense is 
+carefully calibrated to shield suppliers who follow govern- 
+ment design specifications in good faith, without destroying 
+their incentive to develop and share with the government 
+information relating to risks or hazards inherent in the gov- 
+ernment’s designs. See generally Boyle, 487 U.S. at 511-513. 
+
+
+20 
+
+
+required when the “theory on which the original 
+plaintiff had proceeded appeared questionable as a 
+basis for liability.” Parfait v. Jahncke Service, Inc., 
+484 F.2d 296, 304-305 (5th Cir. 1973) (discussing 
+Whisenant v. Brewster-Bartle Offshore Co., 446 F.2d 
+394, 401-403 (5th Cir. 1971) ), cert. denied, 415 U.S. 
+957 (1974); see also Tankrederiet Gefion A/S v. 
+Hyman-Michaels Co., 406 F.2d 1039, 1042 (6th Cir. 
+1969) (adopting “general rule” requiring showing of 
+actual liability). The courts below carefully con- 
+sidered the facts of this case, the various doctrines 
+at issue, and the course of proceedings in the previous 
+tort actions. They determined that, even if petition- 
+ers’ contracts with the government included an im- 
+plied indemnity for third-party tort damages, the 
+chances that petitioners faced actual liability in that 
+action were not only “questionable,” but were so re- 
+mote that petitioners’ claim of indemnifiable damages 
+did not present a triable issue of fact. See Pet. App. 
+18a-23a, 64a-78a, 96a-100a, 104a-1l5a. That fact- 
+bound conclusion necessarily implies that petitioners’ 
+settlement could not have been “reasonable” within 
+the meaning of the indemnity rules they cite, and it 
+merits no further review by this Court. 
+
+2. Petitioners contend (Pet. 19-22) that Section 
+707 of the Defense Production Act, 50 U.S.C. App. 
+2157, and the government’s “compulsion” of petition- 
+ers’ Agent Orange production under the DPA, to- 
+gether “create an implied-in-fact agreement to indem- 
+nify petitioners for the damages they suffered in the 
+Agent Orange litigation.” Petitioner Hercules did 
+
+
+1! We note that the nature or extent of the government’s 
+“compulsion” is by no means settled, particularly with respect 
+to petitioner Hercules. See Pet. App. 3a-4a; compare id. at 
+
+
+21 
+
+
+not advance that claim either in the Court of Federal 
+Claims or in the court of appeals, and it is properly 
+before this Court only on behalf of petitioner Thomp- 
+son. See Pet. App. 14a-15a, 28a. The court of appeals 
+correctly rejected Thompson’s argument. Pet. App. 
+28a-33a. 
+
+a. As the court of appeals held (Pet. App. 29a- 
+33a), the language and statutory context of Section 
+707 indicate that it protects contractors from claims 
+arising out of a DPA order’s displacement of work 
+for other customers, not from tort liability to third 
+parties who claim to have been injured by products 
+manufactured for the government. Section 101(a) (1) 
+of the DPA, 50 U.S.C. App. 2071(a)(1) (emphasis 
+added), authorizes the President 
+
+
+to require that performance under [defense] con- 
+tracts or orders * * * shall take priority over 
+performance under any other contract or order, 
+and, for the purpose of assuring such priority, 
+to require acceptance and performance of such 
+contracts or orders in preference to other con- 
+tracts or orders by any person he finds to be 
+capable of their performance. 
+
+
+Section 707 (50 U.S.C. App. 2157) complements that 
+core directive by providing further that: 
+
+
+No person shall be held liable for damages or 
+penalties for any act or failure to act resulting 
+
+
+49a-50a with id. at 84a-85a; see also C.A. App. 670-677; 
+United States v. Vertac Chemical Corp., Nos. 94-1946 etc. 
+(8th Cir. Jan. 31, 1995), slip op. 3 (“In 1964 * * * Hercules 
+submitted and won competitive bids to supply the United 
+States with * * * Agent Orange.”). Because the case was 
+resolved on summary judgment, we must accept petitioners’ 
+allegations of compulsion as true for present purposes. 
+
+
+22 
+
+
+directly or indirectly from compliance with a 
+rule, regulation, or order issued pursuant to this 
+Act * * *, notwithstanding that any such rule, 
+regulation, or order shall thereafter be declared 
+by judicial or other competent authority to be 
+invalid. No person shall discriminate against 
+orders or contracts to which priority is assigned 
+“ * * under any rule, regulation, or order * * * 
+by charging higher prices * * * or in any other 
+manner. 
+
+
+Construing the two provisions together, the court 
+of appeals properly concluded that Congress did not 
+intend Section 707 of the Act to confer an immunity 
+broader than the risk imposed by Section 101. And, 
+as the court explained (Pet. App. 3la), while that 
+risk may include the need to break or delay perform- 
+ance under contracts with third parties in order to 
+give preference to a government order, “it does not 
+include the risk that the product produced under the 
+DPA contract will be inherently unsafe to users.” ” 
+Every other court that has considered the issue has 
+reached the same conclusion. See id. at 100a-102a 
+(Court of Federal Claims) ; Eastern Air Lines, Inc. v. 
+McDonnell Douglas Corp., 582 F.2d 957, 997 (5th 
+Cir. 1976); In re “Agent Orange” Product Liability 
+Litigation, 597 F. Supp. at 843-845 (opinion approv- 
+ing settlement); see also United States v. Vertac 
+Chemical Corp., Nos. 94-1946 ete. (8th Cir. Jan. 31, 
+1995), slip op. 16-17 (citing decision below and hold- 
+
+
+* As the court pointed out (Pet. App. 82a), the second 
+sentence of Section 707, which refers specifically to contracts 
+assigned priority under Section 101, supports the court’s read- 
+ing of the shield provision. The court did not address the 
+significance of the first sentence’s “notwithstanding” clause, 
+which might suggest an even more limited construction. 
+
+
+23 
+
+
+ing that Section 707 confers no immunity from lia- 
+bility under CERCLA). 
+
+b. Even if Section 707 should have shielded peti- 
+tioners from tort liability for their production of 
+Agent Orange, petitioner Thompson’s argument (Pet. 
+20) that the statute evinces an “implied-in-fact agree- 
+ment” to indemnify it for such liability is implausible. 
+Whatever its scope, Section 707 is plainly intended 
+to provide a defense to liability in third-party law- 
+suits against a DPA contractor, not to provide the 
+supplier with a breach of contract action against the 
+United States. It was therefore plausible for peti- 
+tioners to advance their Section 707 claim as a de- 
+fense to liability in the class action litigation: the 
+DPA shield provision would have functioned, on peti- 
+tioners’ interpretation, like a somewhat more absolute 
+version of the government contractor defense. Peti- 
+tioners failed to persuade the district court in that 
+action (see 597 F. Supp. at 848-845), however, and 
+in the end they compromised the action. Petitioner 
+Thompson cannot now prevail on the much more re- 
+markable claim that Congress, having provided (in 
+Thompson’s view) a complete and explicit shield from 
+tort liability in Section 707, also agreed, by implica- 
+tion, to indemnify Thompson fully if it chose instead 
+to settle the plaintiffs’ claims. As the court of appeals 
+observed (Pet. App. 32a-33a), “if Congress had in- 
+tended section 707 to impose upon the government the 
+kind of liability asserted by Thompson, it would have 
+said so in clear and unequivocal terms.” * 
+
+
+1%3In addition, as the Claims Court noted (Pet. App. 102a- 
+108a), even if such an agreement to indemnify could be 
+inferred, it would probably violate the Anti-Deficiency Act, 31 
+U.S.C. 1841. See note 9, supra. 
+
+
+24 
+
+
+CONCLUSION 
+
+
+The petition for a writ of certiorari should be 
+denied. 
+
+
+Respectfully submitted. 
+
+
+Drew S. Days, ITI 
+Solicitor General 
+
+
+FRANK W. HUNGER 
+Assistant Attorney General 
+
+
+DAVID S. FISHBACK 
+ALFRED R. MOLLIN 
+MICHAEL T. MCCAUL 
+
+
+Attorneys 
+MARCH 1995 
+
+
+sv. &. coveenuenr paimtine orice, 1995 347147 20053 
+
+

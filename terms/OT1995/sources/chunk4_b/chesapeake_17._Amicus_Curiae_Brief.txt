@@ -1,0 +1,663 @@
+as 
+
+
+Ms. PS 
+
+
+be eS 
+fom dike i a 
+Clee RE A 
+7 
+
+
+TABLE OF CONTENTS 
+
+
+Interest of Amicus Curiae ............00c0ee ees 
+
+
+I. There Is No Compelling Reason for 
+Common Carrier Regulation of the 
+
+
+Video Programming Business ........... 
+
+
+Il. The Just Compensation Remedy for Idle 
+Channels Is Not Clearly Available Under 
+
+
+Current Takings Jurisprudence .......... 
+
+
+Ill. |The Absence of Clear Protection Against 
+Forced Idleness of Common Carrier Video 
+
+
+Programming Channels Will Retard Telephone 
+Company Entrance into the Field ......... 
+
+
+Conclusion 
+
+
+na we ef es sae eae eee ees eee eee eee 68 et Se 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases Page 
+Board of Public Utility Comm'rs v. New York Telephone Co., 
+roe fs re ee me he 9 
+
+
+Chesapeake & Potomac Telephone Company of Virginia 
+v. United States, 830 F. Supp. 909 (E.D. Va. 1993), 
+
+
+aff'd, 42 F.3d 181 (4th Cir. 1994), cert. granted, 
+
+
+15S BS. CR. SRR CIGD occccvccteubenetunscasbas 3 
+FCC v. Midwest Video Corp., 440 U.S. 689 (1979) ..... 4,6 
+General Motors v. United States, 323 U.S. 373 (1945) ...... 8 
+Loretto v. Teleprompter Manhattan CATV Corp., 
+
+4508 U.S. GER GREED ccs vececoveessessanuweren 8 
+Lucas v. South Carolina Coastal Council, 
+
+tre t-) i Wayvere rrr yo 8 
+National Ass'n of Regulatory Util. Comm'rs v. FCC, 
+
+oe fo of fee SO Pee 6 
+
+
+PruneYard Shopping Center v. Robins, 447 U.S. 74 (1980) 5, 10 
+Southwestern Bell Tel. Co. v. FCC, 
+
+
+5D Pe 867s GAG. GR. Gee oc oc eseeseeeasenen 6 
+Turner Broadcasting Sys. v. FCC, 114 S. Ct. 2445 (1994) 2, 5, 11 
+Yee v. City of Escondido, 503 U.S. 519 (1992) ........... 8 
+Federal Statutes & Regulations 
+G7 U BK. GED cccccvcccccccceseessss veel 6 
+GT WE. BERD oc ccccccncocessuwecee nan passim 
+GT UBM. BORED cvccocvccecnceceseceueseuewnne 4 
+GF CPR GER GEE 0 60 6b 00 cocsesnsese sae 6 
+Administrative Decision 
+Telephone-Company Cable Television Cross-Ownership, 
+
+0 Pirie CG. Tome RSE oo nc ccscecekheeee 3 
+Other Authority 
+Averch & Johnson, Behavior of the Firm Under Regulatory 
+
+Constraint, 52 Amer. Econ. Review 1053 (1962) ....... 2 
+
+
+INTEREST OF AMICUS CURIAE 
+
+
+East Ascension Telephone Company, Inc. provides local telephone 
+service in parts of Louisiana. As a small telephone company, it cannot 
+afford uneconomic investment to build a utopian common carrier video 
+network as the sole means of providing video programming in its 
+telephone service area. The disposition of this case urged by 
+Petitioners, therefore, would have the practical effect of silencing East 
+Ascension as a video speaker and of depriving East Ascension’s 
+subscribers of an alternative to the cable incumbent. Letters indicating 
+the consent of the parties to the filing of this brief have been filed with 
+the Clerk. 
+
+
+BACKGROUND OF THE CASE 
+
+
+At issue in this case is whether § 533(b) of the Federal 
+Communications Act abridges telephone company speech in violation 
+of the command of the First Amendment. The central argument has 
+already been developed in the principal brief submitted by Bell 
+Atlantic. Only a brief recapitulation of the basic facts is necessary 
+here. 
+
+Through its subsidiary Bell Atlantic Video Services (BVS), Bell 
+Atlantic seeks to provide video programming in direct competition with 
+cable TV operators in Bell Atlantic’s telephone service area. Section 
+533(b) bans all telephone companies, which are regulated as common 
+carriers under the Federal Communications Act, from providing video 
+programming to their telephone subscribers. Bell Atlantic, like East 
+Ascension and other telephone companies, is caught by that restriction. 
+Under § 533(b), any telephone company regulated by the FCC may 
+passively transmit the programming of other providers over its own 
+network; it may seek a broadcast license to transmit some of its own 
+programming over a broadcast ‘requency in its own home region or 
+elsewhere; it may sell its programming to cable TV stations anywhere 
+so long as it can find a buyer; and it may provide video programming 
+directly to customers outside its home region. But it cannot follow its 
+obvious low-cost business strategy: Enter into the business of video 
+programming in its own home region. The statutory prohibition holds 
+whether a telephone company seeks to transmit its message over its 
+own extant telephone facilities, or whether it seeks to build, purchase, 
+or lease separate facilities for that purpose. And the statutory 
+prohibition within the home territory holds whether the phone company 
+
+
+seeks to operate its video facilities as an ordinary private owner or as a 
+common carrier. 
+
+This statutory ban on telephone company video programming 
+amounts, as the Fourth Circuit held, to a flat prohibition of telephone 
+company speech. Pet. App. 49a-Sla. Given that unexceptional 
+finding, the burden switches to the Government to justify that statutory 
+prohibition by identifying some legitimate end of the ban, under (at the 
+very least) a standard of intermediate scrutiny. And it must show that 
+the legitimate end could not be achieved in a more eyreditious and 
+efficient way. See Turner Broadcasting Sys. v. FCC, | |4“. Ct. 2445, 
+2469-70 (1994). The Petitioners seek to meet that burden by showing 
+that this legislative ban was, and is, necessary to prevent cross- 
+subsidization of Bell Atlantic’s video distribution services by its other 
+common carriage telephone services. Their argument is that telephone 
+companies hold powerful local monopoly positions that could allow 
+them, if unchecked, to shift the costs of their video programming 
+venture to their regulated businesses. The resulting subsidies could 
+create distortions in two markets: the subsidized video programming 
+market, and the subsidizing telephone market. See generally Averch 
+& Johnson, Behavior of the Firm Under Regulatory Constraint, 52 
+Am. Econ. Review 1053-1069 (1962); Staff Report, FCC Policy on 
+Cable Ownership (Nov. 1981), JA 54-58. 
+
+The Fourth Circuit assumed the theoretical legitimacy of the cross- 
+subsidy concern, but held that the total ban of § 533(b) was nonetheless 
+not tailored to fit the concern. In passing, the Fourth Circuit mentioned 
+at least one less restrictive form of regulation available to the FCC: 
+The FCC could allow the telephone companies to enter the video 
+programming market in their own region, subject to common carrier 
+obligations similar in form to those imposed on their core telephone 
+business. That proposal was specifically tailored to fit the business 
+plan of Bell Atlantic whose complaint alleged that BVS “will provide 
+some of the video programming on the network, and the network will 
+also be available for use by other video programmers on a common 
+carrier basis.” Complaint ¥ 28, JA 13. 
+
+Now, in its brief to this Court, the Government asserts that ai/ 
+telephone companies should be required to seek waivers of § 533(b) 
+and that waivers will be dispensed only if the applicant submits to a 
+common carriage requirement. Govt. Br. 40. This requirement would 
+be contrary to the business plans of East Ascension Telephone 
+Company, which wishes to enter the video programming market as an 
+
+
+2 
+
+
+ordinary private business and to compete on the same regulatory terms 
+as the incumbent cable TV operators. 
+
+The Fourth Circuit explained its common carrier proposal as 
+follows: 
+
+Moreover, we agree with the district court, 830 F. 
+
+Supp. at 930-31, that an “obvious less-burdensome 
+
+alternative[ |” to Section 533(b) readily presents itself 
+
+(and indeed has been identified by the FCC as a 
+
+possible alternative to Section 533(b) in its 
+
+recommendation to Congress to repeal the provision): 
+
+Congress could simply limit the telephone companies’ 
+
+editorial control over video programming to a fixed 
+
+percentage of the channels available; the telephone 
+
+companies would be required to lease the balance of 
+
+the channels on a common carrier basis to various 
+
+video programmers, without regard to content. See 
+
+Video Dialtone Order, supra, 7 F.C.C. Red. 5781 Tf 
+
+141-143. 
+
+
+Pet. App. 47a-48a. 
+
+The FCC Order to which the Fourth Circuit refers offered only a 
+brief analysis of the common carrier option to § 533(b). Video 
+Dialtone Order, 7 FCC Red 5781, 4 141-143 (1992). The 
+Commission suggested that the appropriate fraction of channels a 
+telephone company could reserve for itself is on the order of 25 percent. 
+Id. at | 143 n.360. An earlier Staff Report had suggested that the 
+appropriate fraction should be between 20 to 30 percent. JA at 68. 
+According to the Staff Report, if the telephone company is allowed to 
+have a larger share, say 80 percent, then it could retain some monopoly 
+power that would allow it to cross-subsidize its video programming 
+services. Alternatively, if its retained percentage were too low, say 5 
+percent, then the telephone company would have little incentive to 
+build its new video transmission facilities in the first place. The 20-30 
+percent figure was the Staff Report’s educated guess designed to split 
+the difference between these two extremes. 
+
+The FCC has carefully expressed the telephone company’s 
+common carrier obligation as a percentage of the total system. If the 
+telephone company could use some minimum guaranteed number of 
+channels, then, according to the Staff Report, it would have a powerful 
+
+
+incentive to build a video transmission system just large enough to 
+cover its own needs, just as any private operator would do. JA 68. 
+
+Simply stated, common carrier status is said to control the 
+theoretical risk of cross-subsidy of video programming while permitting 
+more telephone company speech than is possible under the § 533(b) 
+ban. The implicit logic of this argument is this. The telephone 
+company is required to build a system four times the size it needs for its 
+own use. Any effort to subsidize that system would necessarily result 
+in the telephone company granting three-quarters of the subsidy to 
+independent programmers. The inability to keep most of the subsidy 
+for itself would reduce whatever incentive the telephone company 
+would have to create it in the first place. Since this common carrier 
+alternative is less restrictive than the ban and, in the FCC’s view, as 
+effective in countering any alleged cross-subsidy risk, the Fourth 
+Circuit concluded that the alternative helped to show that the ban is not 
+sufficiently tailored to the cross subsidy concern, whatever its validity. 
+
+The constitutionality of this common carrier requirement was not 
+litigated below. The Fourth Circuit did not examine this suggestion, 
+which it made for only a limited purpose. “We cite the alternative not 
+to imply its constitutionality, but only to show that Section 533(b) is 
+itself unconstitutional.” Pet. App. 48a n.34. 
+
+In FCC v. Midwest Video Corp., 440 U.S. 689 (1979), this Court 
+struck down a comparable but less onerous requirement that applied to 
+cable operators. The FCC had ordered all cable systems over a certain 
+size to expand their capacity from a then-average |2 channels to 20 
+channels, and to offer some of the new channels for public use on a 
+common carrier basis. The Court invalidated the FCC’s rules as 
+contrary to a statutory requirement that cable service not be subject to 
+common carrier regulation. See 47 U.S.C. § 541(c)(“Any cable system 
+shall not be subject to regulation as a common carrier or utility by 
+reason of providing any cable service.”). The Court also noted that 
+subjecting cable channels to common carriage came “at the expense of 
+the journalistic freedom” of cable operators to compose their own 
+package of programming. 440 U.S. at 707. “[{E}ven when not 
+occasioning the displacement of alternative programming, compelling 
+cable operators indiscriminately to accept access programming will 
+to be extended to subscribers.” /d. at 707 n.17. The Court did not 
+reach the First Amendment and Takings Clause issues presented by the 
+FCC’s rules, but noted that these were “not frivolous.” /d. at 709 n.19. 
+
+
+4 
+
+
+More recently, the common carrier possibility for both cable and 
+telephone companies was discussed in Justice O’Connor’s concurring 
+opinion in Turner Broadcasting, 14 S. Ct. at 2475, as an alternative 
+to compelling cable operators to carry local broadcast channels: 
+
+
+If Congress finds that cable operators are leaving some 
+channels empty — perhaps for ease of future 
+expansion — it can compel the operators to make the 
+free channels available to programmers who otherwise 
+would not get carriage. See PruneYard Shopping 
+Center v. Robins, 447 U.S. 74, 88 (1980) (upholding 
+a compelled access scheme because it did not burden 
+others’ speech). Congress might also conceivably 
+obligate cable operators to act as common carriers for 
+some of their channels, with those channels being 
+open to all through some sort of lottery system or 
+timesharing arrangement. Setting aside any possible 
+Takings Clause issues, it stands to reason that if 
+Congress may demand that telephone companies 
+operate as common carriers, it can ask the same of 
+cable companies; such an approach would not suffer 
+from the defect of preferring one speaker to another. 
+
+
+Turner Broadcasting, \14 S. Ct. at 2480. 
+
+
+ARGUMENT 
+
+
+The main purpose of this brief is to show that the hesitation that the 
+Fourth Circuit expressed about the unconstitutionality of the common 
+carrier alternative and that Justice O’Connor expressed about possible 
+Takings Clause issues is in fact well founded. Analyzed in some detail, 
+it becomes clear that in this context common carrier regulation, whose 
+details are still unknown but are irrelevant to the argument made in this 
+brief, would place far too great a burden on First Amendment freedoms 
+to withstand examination under the intermediate scrutiny standard of 
+Turner. The conclusion is plain: Just as the First Amendment makes 
+it impermissible for the FCC (under strict or intermediate scrutiny) to 
+ban the telephone companies from providing video programming in 
+their region, so too it prevents the FCC from conditioning the right of 
+
+
+telephone companies from entering that market on their willingness to 
+accept some as yet unspecified form of common carrier status. 
+
+
+I. There Is No Compelling Reason for Common Carrier 
+Regulation of the Video Programming Business 
+
+
+Historically, common carriage obligations have never been thrust 
+upon private businesses without their consent. Instead, these 
+obligations attach only after » firm decides voluntarily to enter a 
+business that is subject to common carrier regulation. In this regard, it 
+is instructive to note that the Communications Act of 1934 defines a 
+common carrier as “any person engaged as a common carrier for hire, 
+in interstate or foreign communication by wire or radio.” 47 U.S.C. 
+§ 153(h). The regulations amplify that definition by stating that a 
+communication common carrier is “[a]ny person engaged in rendering 
+communication service for hire to the public.” 47 C.F.R. § 21.2 
+(1994). The effect of these two definitions is to link the 
+communications definition of a common carrier to its common law 
+origins, and that in turn stresses the quasi-public nature of the 
+undertaking: “the primary sine qua non of common carrier status is a 
+quasi-public character, which arises out of the undertaking to carry for 
+all people indifferently.” National Ass'n of Regulatory Util. Comm'rs 
+v. FCC, 533 F.2d 601, 608 (D.C. Cir. 1976) (internal quotation 
+omitted). The key element of this definition is the “undertaking” by a 
+given firm to serve all individuals. It is therefore possible for a single 
+company to engage simultaneously in two types of business, one for 
+common carriage, and the other directed toward particular customers 
+only. See Midwest Video Corp., 440 U.S. at 701 n.9 (“one can be a 
+common carrier with regard to some activities but not others”). Thus 
+in Southwestern Bell Telephone Co. v. FCC, 19 F.3d 1475 (D.C. Cir. 
+1994), the Court of Appeals held that the FCC could not regulate as 
+common carriage a certain “dark fiber” service just because some 
+telephone companies had provided it “as a limited, customer-specific 
+service.” 19 F.3d at 1481. Accordingly, the carriers were allowed to 
+discontinue offering dark fiber service, without first receiving FCC 
+approval. 
+
+The decision in Southwestern Beil fits in well with the basic logic 
+of common carrier regulation. Food, clothing, and shelter are 
+necessities of life, but they are not provided under a common carrier 
+
+
+6 
+
+
+regime that requires firms in these lines of endeavor to take all 
+customers indifferently. The vast range of private alternatives provides 
+consumers with all the protection that they need. The discontinuation 
+of dark fiber service at issue in Southwestern Bell did not disrupt or 
+impair the efficiency of the overall telephone network. As such that 
+service was correctly treated as a private service, analogous to the wide 
+variety of services found in ordinary markets. By way of parallel, the 
+video programming services at issue in this case need not be regulated 
+as common carriage to assure the operation of the telephone network, 
+any more than dark fiber service needs to be so regulated. Video 
+programming can be offered on a limited basis to select groups of 
+customers, as in Southwestern Bell, and their possible discontinuation 
+does not threaten the viability of the overall telephone network. 
+
+So understood, the present case illustrates the powerful economic 
+logic behind the distinction between common carrier and private 
+services. The core telephone transmission services of 1,000 separate 
+telephone companies of all sizes and capacities have to be knitted 
+together into a single cohesive network in order to facilitate the 
+transmission of information from any point in the network to any other 
+point in the network. In this environment, common carrier regulation 
+ensures that telephone companies do not refuse service, or set price so 
+high as to deter service, either to telephone users or connecting carriers. 
+This regulation always carries with it the risk of confiscation, but that 
+risk can be checked effectively by insisting that all carriers receive a 
+just rate of return on the investments committed to their common 
+carrier businesses. At the same time, such regulation need pose no 
+threat to fundamental First Amendment values because it does not limit 
+the speech of the telephone companies. 
+
+The same sunny view of common carrier regulation is not 
+appropriate in the novel context of video programming services. 
+Requiring the carrier to serve all customers at a regulated price has 
+never been easy even for public utilities that face relatively stable 
+demand for their outputs that are in turn produced by relatively stable 
+technology. In the fast-moving video programming market, instability 
+and innovation are the only permanent truths, and these conditions 
+make it difficult to fashion reliable rates to reflect the rapid shifts on 
+both the cost and the demand side of the market. Worse still, there is 
+no guarantee that any channels built at telephone company expense and 
+dedicated by law to common carrier status will be leased by other 
+programmers, so that the telephone company could be left with the 
+
+
+7 
+
+
+worst of both worlds: sharp restrictions on its rate of return if the 
+venture proves successful and demand is high, ani no compensation 
+from the Government if its common carrier lines lay vacant. 
+
+
+Il. The Just Compensation Remedy for Idle Channels Is Not 
+Clearly Available Under Current Takings Jurisprudence 
+
+
+One possible way to meet this difficulty is to insist that 
+compensation be provided to the telephone companies if forced to 
+construct expensive facilities that then remain idle. One plausible way 
+to make this argument is to treat the United States as though it leased 
+those vacant channels for its own purposes when it refuses to allow the 
+telephone companies to use these channels themselves. By excluding 
+the telephone companies from the use of their own property, it is as 
+though the Government has taken possession of them. It must then pay 
+compensation for the time it uses the channels in question, just as it 
+must pay compensation when it occupies a building for an indefinite 
+term of years against the will of its owner. See, e.g., General Motors 
+v. United States, 323 U.S. 373 (1945). 
+
+It is, however, an open question whether this compensation claim 
+would be honored by the Government, or indeed accepted by the Court. 
+The precise question of whether an exclusion from the possession of 
+some portion of the system constitutes a taking is not settled under this 
+Court’s takings jurisprudence. It is not crystal clear whether the 
+requirement that certain channels be left vacant will be treated as a 
+physical taking, for which there is a virtual per se rule of compensation, 
+see Loretto v. Teleprompter Manhattan CATV Corp., 458 U.S. 419 
+(1982), or in the alternative whether it will be regarded as part of a 
+regulatory initiative for which compensation is required only when the 
+regulation denies the owner of the property (presumably the entire 
+facility) any “economically viable” use. See Lucas v. South Carolina 
+Coastal Council, 112 S. Ct. 2886 (1992). 
+
+Both these tests raise formidable difficulties of their own. Loretto, 
+for example, involved the permanent physical occupation of space that 
+is strongly analogous to the “electronic occupation” that occurs when 
+a telephone company’s computers and cables are forced either to carry 
+the video programming of others or sit idle. But the Loretto definition 
+of physical taking has not been uniformly applied. In Yee v. City of 
+Escondido, 503 U.S. 519 (1992), the occupation of a pad by a mobile 
+
+
+home tenant was held to be “a regulation of petitioners’ use of their 
+property, and thus does not amount to a per se taking.” Jd. at 532 
+(emphasis in original). And that same conclusion was held to follow 
+from the fact that the landowners chose to “voluntarily open” their 
+premises to others. 
+
+In our view, the forced idleness of particular property should be 
+treated as a physical taking, compensable for the full period of its 
+duration. It is not credible to assert that a telephone company’s 
+decision to build four times the needed video transport capacity is 
+“voluntary” when the FCC has mandated such excess construction as 
+the price of the telephone company’s video speech. Even if the forced 
+idleness is regarded only as a regulatory taking, the better view treats 
+the period of idleness separately. Since no revenues have been 
+collected for that period, explicit compensation from the Government 
+should be required to make up the Government-created shortfall. In 
+rate regulation generally it is improper to reduce the recovery allowed 
+in the current period to reflect some larger than anticipated gains made 
+in some previous rate period. “Past losses cannot be used to enhance 
+the value of the property or to support a claim that rates for the future 
+are confiscatory. And the law does not require the company to give up 
+for the benefit of future subscribers any part of its accumulations from 
+past operations.” Board of Public Utility Comm'rs v. New York 
+Telephone Co., 271 U.S. 23, 31-32 (1926) (citation omitted). 
+
+
+Ill. The Absence of Clear Protection Against Forced Idleness 
+of Common Carrier Video Programming Channels Will 
+Retard Telephone Company Entrance into the Field 
+
+
+For these purposes, however, it is not necessary to reach a 
+definitive resolution of a difficult takings question. The critical point 
+is to note the cautious legal advice on the compensation question that 
+must be given to a telephone company that wished to operate its own 
+video programming facility. There is no way that such a company 
+could be assured that compensation for its idle channels would be 
+required under present law. The lack of clarity of the just compensation 
+question thus lends additional urgency to the telephone company’s First 
+Amendment claim that unsettled policies effectively silence its right to 
+speak. The very uncertainty of the status of the compensation remedy 
+only underscores the legal risks that any telephone company would bear 
+
+
+9 
+
+
+in committing its resources to such a hazardous business venture. Does 
+it take the risk that the government will refuse to pay compensation for 
+the rental value of vacant channels? That it will offer some inadequate 
+compensation? What are the costs of future litigation if disputes arise, 
+and the possibilities of success? 
+
+Nor are these difficulties obviated by trying to take the idle capacity 
+into account in ratemaking procedures. Here, it is conceivable that the 
+FCC or state regulators could allow a telephone company to set rates 
+high enough to recoup the lost revenues in some future period. But 
+once again, there is no guarantee that this form of deferred 
+compensation will provide any effective relief to the telephone 
+companies. It is one thing for the regulator to allow certain rates. It is 
+quite another for the market to pay those rates. Should a demand 
+emerge for the once vacant channels, no potential customer in a 
+competitive market will pay for the downtime of the channel prior to its 
+own use. Those costs are sunk and hence cannot be recovered. Thus, 
+the telephone companies would face this unpleasant dilemma. If the 
+FCC sets the rates too low, the telephone company has no choice but to 
+lease channels at those reduced levels. But if it sets them too high, then 
+potential lessees will simply refuse to deal unless they receive price 
+concessions. The telephone companies can lose from regulation but not 
+gain. 
+The scope of the government intrusion, it should be evident, is 
+much greater than the intrusion inflicted on the mall owner in 
+PruneYard Shopping Center v. Robins, 447 U.S. 74 (1980). In 
+Prune Yard the mall owner did not attack, and this Court did not 
+address, the protester’s intrusion on the ground that it was forced to 
+subsidize speech to which it was opposed. Accordingly, this Court 
+allowed the protesters’ activities for reasons that are inapplicable here. 
+The mall owner could not make a credible showing that its patrons 
+would confuse the message of the protesters with the views of the mall 
+owner; and the Court found no evidence in the record to indicate that 
+the presence of protesters in the Mall would cause any economic loss 
+to the mall owner’s operations. In contrast, the burdens of common 
+carrier status on a telephone company are far greater. In this context, 
+every channel that is used by lessees is a channel that is not available 
+to the owner of the facility. Every decision to commandeer resources 
+reduces the likelihood that the facility will be produced in the first 
+place. Here the required lessees and the telephone company are in the 
+same video programming business, so that the risk of confusion of 
+
+
+10 
+
+
+messages and consequent loss of advertising and good will is far 
+greater. That greater negative impact of government regulation means 
+that this common carrier system for video programming fails under a 
+standard of intermediate scrutiny. 
+
+The basic point here can be made by yet another analogy if we step 
+back from the fast-paced world of telecommunications. Ordinary office 
+and housing markets contain both leased and owner-occupied facilities. 
+There is little reason to think that sensible firms operating in a 
+competitive market cannot decide whether to pursue ownership or 
+lease. If certain rooms lay vacant and may be needed for future 
+expansion, the sensible owner can decide whether to hold them off the 
+market, to rent them on a short term lease at a below-market price, or 
+to rent them on a long-term lease at a higher price reserving to itself a 
+buyback option. No system of rent control could do better for that 
+owner or his potential tenant (who wants the unit to be available in the 
+first place) than their combined voluntary choices, for no outsider has 
+information about the needs of the two parties superior to that they 
+themselves possess. It would be odd in the extreme therefore for the 
+State to tell any landowner, “we will let you build a home for yourself 
+so long as you occupy only one unit in a four unit complex” (to get the 
+desired 25 percent ratio). It is more than odd to impose that 
+requirement on a video programmer that has explicit First Amendment 
+protection. The obligations that are contemplated by this common 
+carrier suggestion are onerous even if ideally implemented and 
+suffocating if not. The huge level of uncertainty associated with any 
+such program means that this Court should look on the proposal with 
+deep suspicion. It should not preserve § 533(b) by looking to unknown 
+systems of common carrier regulation with distinctive pitfalls of their 
+own. 
+
+Justice O’Connor’s modest suggestion in Turner that “Congress 
+might . . . conceivably obligate cable operators to act as common 
+carriers for some of their channels” (114 S. Ct. at 2480 (emphasis 
+added)) is not to the contrary. In addition to the just compensation 
+issues that she has identified, another First Amendment issue is also 
+raised. Justice O’Connor thought that her proposal could be subject to 
+a reduced standard of review because it “would not suffer from the 
+defect of preferring one speaker to another.” Jd But in the context of 
+this litigation, that condition would no longer be satisfied when both 
+telephone companies and cable companies compete in the same market. 
+The FCC’s proposal to saddle telephone companies — and only 
+
+
+telephone companies — with a common carriage requirement explicitly 
+prefers one speaker to another. By exempting the cable companies who 
+wield monopoly power in video distribution and imposing the common 
+carriage requirement only on new entrant telephone companies, the 
+FCC is deterring competition and unfairly and selectively burdening the 
+video speech of telephone companies such as East Ascension 
+Telephone that would not voluntarily elect common carrier regulation. 
+
+
+CONCLUSION 
+
+
+The FCC should not be permitted to salvage § 533(b) by appealing 
+to an unknown and untested system of common carrier regulation for 
+video programming. Here is yet another case where the simple solution 
+is best. Section 533(b) should be struck down. If Congress or the FCC 
+wishes to regulate anew in this area, they may do so, but only subject 
+to the constraints of the First and Fifth Amendments. 
+
+
+Accordingly, the decision below should be affirmed. 
+
+
+Respectfully submitted. 
+
+
+SYLVIA LESSE RICHARD A. EPSTEIN 
+KRASKIN & LESSE Counsel of Record 
+Suite 520 1111 East 60th Street 
+2120 L Street, N.W. Chicago, Illinois 60637 
+Washington, D.C. 20037 (312) 702-9563 
+
+(202) 296-8890 
+
+
+Counsel for Amicus Curiae 
+
+
+October 18, 1995 
+
+
+12 
+
+

@@ -1,0 +1,2324 @@
+UNITED STATES OF AMERICA, ET AL., PE 
+Vv. 
+
+
+THE CHESAPEAKE AND POTOMAC TELEPHONE 
+COMPANY OF VIRGINIA, ET AL. 
+
+
+NATIONAL CABLE TELEVISION ASSOCIATION, INC., 
+PETITIONER 
+
+
+v. 
+BELL ATLANTIC CORPORATION, ET AL. 
+
+
+ON WRITS OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE POURTH CIRCUIT 
+
+
+BRIEF FOR THE FEDERAL PETITIONERS 
+
+
+Drew S. Days, ITI 
+Solicitor General 
+
+
+Gzorcs J. PHILLIPS 
+
+Acting Assistant 
+
+Attorney General 
+
+LAWRENCE G. WALLACE 
+PAUL R.Q. WoLFBONn 
+
+Assistant to the 
+Douaias N, LATTER 
+Marx B. STERN 
+Bruce G. FoRrREst 
+
+Attorneys 
+
+Department of Justice 
+_ Washington, D.C. 20580 
+_ (808) EL4ERt7 
+
+
+QUESTION PRESENTED 
+
+
+Whether 47 U.S.C. 533(b), which bars local telephone 
+companies from directly providing video programming to 
+subscribers in their telephone service areas, violates the 
+First Amendment. 
+
+
+(1) 
+
+
+II 
+
+
+PARTIES TO THE PROCEEDINGS 
+
+
+Petitioners in No. 94-1893, defendants-appellants 
+below, are the United States, the Federal Communica- 
+tions Commission, and Janet Reno, in her official capacity 
+as the Attorney General of the United States. Petitioner 
+in No. 94-1900, an intervenor-defendant and also an ap- 
+pellant below, is the National Cable Television Associa- 
+tion, Inc. Respondents, plaintiffs-appellees below, are 
+The Chesapeake and Potomac Telephone Company of 
+Virginia, Bell Atlantic Video Services Company, Bell 
+Atlantic Corporation, Chesapeake and Potomac Tele- 
+phone Company, C & P Telephone Company of Mary- 
+land, The Chesapeake and Potomac Telephone Company 
+of West Virginia, The Diamond State Telephone Com- 
+pany, The Bell Telephone Company of Pennsylvania, and 
+New Jersey Bell Telephone Company. 
+
+
+TABLE OF CONTENTS 
+
+
+Constitutional and statutory provisions involved _.....___. 
+
+Statement a 
+
+Introduction and summary of argument...» 
+Argument: 
+
+I. Section 533(b) does not require strict scrutiny. 
+
+II. Section 583(b) meets the requirements of inter- 
+
+
+mediate scrutiny : i 
+A. Section 533(b) furthers significant govern- 
+mental interests a SSS Se 
+B. Section 533(b) is narrowly tailored 
+C. LECs have ample alternative channels of 
+SE AE LE 
+
+
+. The FCC’s Third Report and Order eliminates 
+any doubts about the constitutionality of Section 
+nL ui aa a 
+
+
+TABLE OF AUTHORITIES 
+
+
+Amendment of Section 64.702 of the Commission’s 
+Rules and Regulations (Second Computer In- 
+quiry), Final Decision, In re, T7 F.C.C.2d 384 
+(1980), modified in part on reconsideration, 84 
+F.C.C.2d 50 (1980), 88 F.C.C.2d 512 (1981), 
+aff'd sub nom. Computer & Communications 
+Indus. Ass’n V. FCC, 693 F.2d 198 (D.C. Cir. 
+1982), cert. denied, 461 U.S. 938 (1983) ........... 
+American Scholastic TV Programming Founda- 
+tion Vv. FCC, 46 F.3d 1178 (D.C. Cir. 1995) ....... 
+
+
+(m1) 
+
+
+16 
+
+
+19 
+
+
+39 
+43 
+
+
+4,6 
+
+
+IV 
+Cases—Continued: Page 
+
+
+Ameritech Corp. Vv. United States, 867 F. Supp. 
+
+721 (N.D. Ill. 1994), appeal pending, No. 95- 
+
+1223 (7th Cir.) ............ 14 
+Applications of Telephone Companies for Section 
+
+214 Certificates for Channel Facilities Furnished 
+
+to Affiliated Community Antenna Television 
+
+Systems, 21 F.C.C.2d 307 (1970), aff'd sub nom. 
+
+General Telephone Co. Vv. United States, 449 
+
+F.2d 846 (5th Cir. 1971) —........................ 5, 6, 7, 20, 35 
+BellSouth Corp. v. United States, 868 F. Supp. 
+
+1335 (N.D. Ala. 1994), appeal pending, No. 94- 
+
+\ fF f | ews 14 
+Board of Trustees Vv. Fox, 492 U.S. 469 (1989) _.. 28 
+Bolger v. Youngs Drug Products Corp., 463 U.S. 
+
+
+J Oe ee 29 
+California Vv. FCC 
+905 F.2d 1217 (9th Cir. 1990) _...... 4,31 
+4 F.3d 1505 (9th Cir. 1998) —............................. 5 
+89 F.3d 919 (9th Cir. 1994) ................... 5, 37 
+Chevron U.S.A. Inc. Vv. Natural Resources Defense 
+Council, Inc., 467 U.S. 887 (1984) 21 
+City of Renton Vv. Playtime Theaters, Inc., 475 U.S. 
+EG eT ET 22, 29 
+Clark v. Community for Creative Non-Violence, 
+GED WE, Ge. GED ectitecctentetea dein 23, 28, 38 
+Delaware, L. & W.R.R. v. United States, 231 U.S. 
+— oO ae ee Se, Te 6 
+FCC v. National Citizens Committee for Broad- 
+casting, 486 U.S. 775 (1978) -.......-..-----.-.---0---- 3, 20, 25 
+Frisby v. Schultz, 487 U.S. 474 (1988) 23, 24 
+Heffron v. International Society for Krishna Con- 
+sciousness, Inc., 452 U.S. 640 (1981) 38 
+Illinois Bell Telephone Co. v. FCC, 740 F.2d 465 
+>, | > eee ae. TaN 4 
+
+
+Implementation of Section 19 of the Cable Tele- 
+vision Consumer Protection and Competition 
+Act of 1992, First Report, In re, 9 F.C.C. Red 
+. Xk  —eE Sse Le ees 80 
+Jean V. Nelson, 472 U.S. 846 (1985) —................... 22 
+
+
+Cases—Continued: Page 
+Members of City Council v. Taxpayers for Vincent, 
+Ee 22, 23, 31, 41 
+
+
+NYNEX Corp. v. United States, No. 93-323-P-C 
+(D. Me. Dec. 8, 1994), appeal pending, No. 95- 
+
+
+Re iin ctl ipncettiitilibeems 14 
+National Broadcasting Co. v. United States, 
+fy 3 
+National Cable Television Ass’n v. FCC, 33 F.3d 
+ee ee Be iltcccccccntstniitnsinisidiiitlbelliinins 9 
+National Rural Telecom Ass'n V. FCC, 988 F.2d 
+4 ATES: TEETER ee renee 4, 32 
+New York Tel. Co., In re: 
+j}¢: & | _ EESEEESeaEeneana 34 
+5 F.C.C. Red 6668 (1980) ...................................- 34 
+Ohralik v. Ohio State Bar Ass’n, 436 U.S. 447 
+TEES Se 29 
+Pacific Telesis Group Vv. United States, 48 F.3d 
+Se ee I i ie 14 
+
+
+Policy and Rules Concerning the Furnishing of 
+
+Customer Premises Equipment, Enhanced Ser- 
+
+vices and Cellular Communications Services by 
+
+the Bell Operating Companies, Report and Or- 
+
+der, In re, 95 F.C.C.2d 1117 (19838) —........ 4,6 
+Regan Vv. Time, Inc., 468 U.S. 641 (1984) 0. 21 
+San Francisco Arts & Athletics, Inc. v. United 
+
+States Olympic Comm., 483 U.S. 522 (1987)... 28 
+Southern New England Telephone Co. v. United 
+
+States, No. 3:94-CV-80 (DJS) (D. Conn. Apr. 
+
+27, 1995), appeal pending, No. 95-6137 (2d 
+
+
+ER SE eS Ee Te 14 
+Southwestern Bell Corp. v. FCC, 896 F.2d 1378 
+€ “SC eR? eT ee 4 
+
+
+Southwestern Bell Corp. v. United States, No. 3:94- 
+CV-0193-D (N.D. Tex. Mar. 27, 1995), appeal 
+pending, No. 95-10478 (5th Cir.) — 00000... 14 
+
+Telephone Company—Cable Television Cross- 
+Ownership Rules, Sections 63.54-63.58, First 
+Notice of Proposed Rulemaking, First Report 
+and Order, and Second Further Notice of In- 
+quiry, In re, 7 F.C.C. Red 300 (1991) 000. 9 
+
+
+VI 
+Cases—Continued: Page 
+
+
+Telephone Company—Cable Television Cross- 
+Ownership Rules, Sections 63.54-63.58, Further 
+Notice of Inquiry and Notice of Proposed Rule- 
+making, In re, 3 F.C.C. Red 5849 (1988) —........ 8, 26, 27 
+
+Telephone Company—Cable Television Cross- 
+Ownership Rules, Sections 63.54-63.58, Notice 
+of Inquiry, In re, 2 F.C.C. Red 5092 (1987) ....... s 
+
+Telephone Company—Cable Television Cross- 
+Ownership Rules, Sections 63.54-63.58, Second 
+Report and Order, Recommendation to Con- 
+gress, and Second Further Notice of Proposed 
+Rulemaking, In re, 7 F.C.C. Red 5781 (1992), 
+modified in part on reconsideration, 10 F.C.C. 
+ f fo ea 9, 10, 21, 22, 30, 32, 42 
+
+Turner Broadcasting System v. FCC, 114 S. Ct. 
+STE A: Cae passim 
+
+United States v. American Tel. & Tel. Co.: 
+
+524 F. Supp. 1336 (D.D.C. 1981) —.................... 4, 6, 25 
+552 F. Supp. 131 (D.D.C. 1982), aff’d mem. sub 
+
+nom. Maryland v. United States, 460 U.S. 
+
+Fe eS 5-6, 25 
+United States v. O’Brien, 391 U.S. 367 (1968)... 19, 23 
+United States v. Paramount Pictures, Inc., 85 F. 
+
+Supp. 881 (S.D.N.Y. 1949), aff'd mem. sub nom. 
+Loew’s, Inc. Vv. United States, 339 U.S. 974 
+
+
+(SS ee ae 3 
+United States v. Salerno, 481 U.S. 739 (1987) .......... 42 
+United States v. Storer Broadcasting Co., 351 U.S. 
+
+ERS es ee ee oe 25 
+United States v. Western Elec. Co.: 
+
+900 F.2d 283 (D.C. Cir.), cert. denied, 498 U.S. 
+SESE 1 2 ES > SO SSS 4, 31 
+
+998 F.2d 1572 (D.C. Cir.), cert. denied, 114 
+FR RE ES 32 
+
+United States v. X-Citement Video, Inc., 115 8. Ct. 
+GE CIID cecncentatinatinsctiinsaincathnrscaiisnesidamatietneeaia 14-15, 40, 41 
+
+
+United States Telephone Ass'n Vv. United States, 
+No. 1:94CV01961 (D.D.C. Feb. 14, 1995), ap- 
+peal pending, No. 95-1175 (D.C. Cir.) —............ 14 
+
+
+Cases—Continued: Page 
+US West, Inc. v. United States, 48 F.3d 1092 (9th 
+EE TNS Se ee ee 14 
+Ward v. Rock Against Racism, 491 U.S. 781 
+ce icctidisiinedinedinntiincatin 11, 19, 20, 22, 23, 24, 28, 30, 37 
+Constitution, statutes and regulation: 
+U.S. Const. Amend. I 0. .2, 14, 19, 28, 38, 39, 41 
+Bank Holding Company Act of 1956, 12 U.S.C. 
+EE eT 25 
+Cable Communications Policy Act of 1984, Pub. L. 
+No. 98-549, 98 Stat. 2779 wr . 2 
+§ 2, 98 Stat. 2785 2 
+
+
+Cable Television Consumer Protection and Com- 
+
+
+RE A a AS 10 
+§ 2(a) (6), 106 Stat. 1461 00... m 10 
+Interstate Commerce Act, 49 U.S.C. 10746 6 
+Newspaper Preservation Act, 15 U.S.C. 1801- 
+EEE a es 3 
+Public Utility Holding Company Act of 1935, 15 
+U.S.C. 79 et seq.: 
+15 U.S.C. 7T9a(a) ... : 25 
+CS EE A 25 
+47 U.S.C. 522(19) (Supp. V 1998) 20 
+OO 3 
+47 U.S.C. 582 (1988 & Supp. V 1998) 000 8, 30 
+47 U.S.C. 583 (1988 & Supp. V 1998) 0 ~ 
+47 U.S.C. 583(a) (1) (1988 & Supp. V 1998) 3 
+47 U.S.C. 533 (a) (2) (Supp. V 1998) 000 10 
+ff a im 
+47 U.S.C. 583(b) (1) —......... ——— - 7 
+47 U.S.C. 583 (b) (3) es ee ek a 8 
+47 U.S.C. 588 (b) (4) —........................ 8, 14, 15, 31, 39, 40, 41 
+47 U.S.C. 584(a) (Supp. V 1998) 80 
+47 U.S.C. 584(b) (Supp. V 1998) 0. 3 
+47 U.S.C. 585(b) (Supp. V 1998) 3 
+47 U.S.C. 541(a) (1) (Supp. V 1998) 2000 10 
+47 U.S.C. 543 (Supp. V 1998) —... eteiiee 10 
+
+
+47 C.F.R. 64.601 (1971) 0. cumatnieteenes = 6 
+
+
+vir 
+
+
+Miscellaneous: Page 
+
+
+Harvey Averch & Leland L. Johnson, Behavior of 
+the Firm Under Regulatory Constraint, 52 Am. 
+
+
+Econ. Rev. 1052 (1962) , 4 
+C. Edwin Baker, Merging Phone and Cable, 17 
+Hastings Comm. & Ent. LJ. 97 (1994) .............. 26, 27 
+
+
+Cable-Instructional TV and S. 1200, Communica- 
+tions Competitiveness and Infrastructure Mod- 
+ernization Act of 1991: Hearing Before the 
+Subcomm. on Communications of the Senate 
+Comm. on Commerce, Science, and Transporta- 
+tion, 102d Cong., 2d Sess. (1992) ........----..-..0 10, 33 
+Cable TV Consumer Protection Act of 1989: Hear- 
+ings Before the Subcomm. on Communications 
+of the Senate Comm. on Commerce, Science, 
+and Transportation, 101st wise 2d Sess. 
+33 
+
+
+Se one cans ae tae 
+
+
+merce, 102d Cong., Ist Sess. (1991) .................. 10, 33, 34 
+Cable Television Regulation (Part 1): Hearings 
+
+Before the Subcomm. on Telecommunications 
+
+and Finance of the House Comm. on Energy 
+
+and Commerce, 101st Cong., 2d Sess. (1990) ..... 8, 33 
+Cable Television Regulation (Part 2): Hearing Be- 
+
+fore the Subcomm. on Telecommunications and 
+
+Finance of the House Comm. on Energy and 
+
+Commerce, 101st Cong., 2d Sess. (1990) ............ 83 
+Communications Competitiveness and Infrastruc- 
+
+ture Modernization Act of 1990: Hearing Be- 
+
+fore the Subcomm. on Communications of the 
+
+Senate Comm. on Commerce, Science, and Trans- 
+
+portation, 101st Cong., 2d Sess. (1990) .......... 8, 38, 34 
+188 Cong. Rec. (1992): 
+
+
+p. H6489 (daily ed. July 23) -..............-eeeeee 10 
+p. H6492 (daily ed. July 28) -...............---.--e-e-e 10 
+p. H8671 (daily ed. Sept. 17) ..........---.--------e--- 10 
+p. H8673 (daily ed. Sept. 17) -.............-.-.----0 10 
+p. $14,225 (daily ed. Sept. 21)... 10 
+
+
+p. $14,287 (daily ed. Sept. 21) -............-eeeeeee 10 
+
+
+Miscellaneous—Continued: Page 
+pp. $14,246-S14,247 (daily ed. Sept. 21) 10 
+p. $14,250 (daily ed. Sept.21) 10 
+pp. $14,255-S14,256 (daily ed. Sept. 21) 10 
+p. $16,668 (daily ed. Oct.5) 0 10 
+pp. $16,665-S16,666 (daily ed. Oct. 5)... 10 
+141 Cong. Rec. (1995): 
+pp. H8436-H8438 (daily ed. Aug. 4)... 16 
+p. H8437 (daily ed. Aug. 4) 0 16 
+p. H8488 (daily ed. Aug.4) 16 
+p. $8570 (daily ed. June 16) 16 
+p. 88577 (daily ed. June 16)... 16 
+
+
+General Accounting Office, Telecommunications: 
+FCC’s Oversight Efforts to Control Cross- 
+Subsidization (Feb. 1993) 000000 4, 31 
+
+
+tions: Controlling Cross-Subsidy Between Reg- 
+ulated and Competitive Services (Oct. 1987)... 4, 5, 
+1 
+
+
+$1, 33 
+H.R. 1555, 104th Cong., Ist Seas. (1995) 16 
+H.R. Rep. No. 934, 98th Cong., 2d Sess. (1984) .._.8, 8, 20, 
+21, 25, 30, 38 
+2 Alfred E. Kahn, The Economics of Regulation 
+EE EL EET AA ae eee 4 
+Office of Plans and Policy, FCC Policy on Cable 
+Ownership: A Staff Report (Nov. 1981) 7, 35, 36 
+S. 652, 104th Cong., Ist Sess. (1995) iedeniieninn 16 
+S. Rep. No. 456, 101st Cong., 2d Sess. (1990)... 11, 34 
+S. Rep. No. 92, 102d Cong., Ist Sess. (1991)... 11, 34 
+
+
+Statement of Assistant Attorney General Anne K. 
+Bingaman Before the Senate Commerce Com- 
+mittee (Mar. 2, 1995) 00000 82 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+No. 94-1893 
+UNITED STATES OF AMERICA, ET AL., PETITIONERS 
+Vv. 
+
+
+THE CHESAPEAKE AND POTOMAC TELEPHONE 
+COMPANY OF VIRGINIA, ET AL. 
+
+
+No. 94-1900 
+
+
+NATIONAL CABLE TELEVISION ASSOCIATION, INC., 
+PETITIONER 
+
+
+Vv. 
+
+
+BELL ATLANTIC CORPORATION, ET AL. 
+
+
+ON WRITS OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+BRIEF FOR THE FEDERAL PETITIONERS 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (Pet. App. 1la- 
+52a) is reported at 42 F.3d 181. The opinion of the 
+
+
+1“Pet. App.” refers to the appendix to the petition in No. 94- 
+1893. “Pet. Supp. Br.” refers to the supplemental brief in support 
+of the petition in No. 94-1893. “Pet. Supp. App.” refers to the 
+appendix to that supplemental brief. “Resp.” refers to the response 
+to the petitions for a writ of certiorari. “J.A.” refers to the joint 
+
+
+appendix. 
+(1) 
+
+
+2 
+
+
+district court (Pet. App. 53a-108a) is reported at 830 
+F. Supp. 909. The Federal Communications Commis- 
+sion’s Third Report and Order (Pet. Supp. App. la-2la), 
+concerning the statutory provision for waivers of the 
+cross-ownership bar, is not yet reported. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+November 21, 1994. Petitions for rehearing were denied 
+on January 18, 1995. Pet. App. 109a-112a. On March 
+24, 1995, the Chief Justice extended the time within 
+which to file a petition for a writ of certiorari to and 
+including May 18, 1995. The petitions for a writ of 
+certiorari were filed on May 18, 1995, and were granted 
+on June 26, 1995. J.A. 387, 388. The jurisdiction of 
+this Court rests on 28 U.S.C. 1254(1). 
+
+
+CONSTITUTIONAL AND 
+STATUTORY PROVISIONS INVOLVED 
+
+
+The First Amendment to the United States Constitu- 
+tion provides that “Congress shall make no law * * * 
+abridging the freedom of speech, or of the press.” The 
+text of 47 U.S.C. 533(b) is set forth at Pet. App. 167a- 
+
+
+168a. 
+STATEMENT 
+
+
+1. This case involves a First Amendment challenge to 
+47 U.S.C. 533(b), a regulation of the market for cable 
+television services that bars local telephone companies 
+(local exchange carriers or LECs) from directly provid- 
+ing video programming, by means of a cable system, to 
+subscribers in their telephone service areas. Section 
+533(b) was enacted as part of Congress’s comprehensive 
+regulation of the cable industry in the Cable Communica- 
+tions Policy Act of 1984, Pub. L. No. 98-549, 98 Stat. 
+2779 (Cable Act or 1984 Cable Act); see § 2, 98 Stat. 
+2785. It is similar to another cross-ownership rule, en- 
+acted at the same time, that prohibits local television 
+broadcast stations from owning cable systems in their 
+
+
+3 
+
+
+service areas. See 47 U.S.C. 533(a)(1) (1988 & Supp. 
+V i993). It also stands in a long line of congressional 
+and administrative initiatives to promote diversity in 
+media outlets.” 
+
+Section 533(b) addresses the special potential for anti- 
+competitive conduct by LECs, which are generally regu- 
+lated monopolists within their common carrier telephone 
+service areas, in less regulated markets such as the mar- 
+ket for cable services. LECs’ telephone operations are, 
+in general, subject at the state level to rate regulation 
+based on a return on capital and recovery of costs. 
+If LECs entered the cable market, they would have an 
+incentive to allocate the costs of their cable services to 
+their monopoly telephone operations, and to have regula- 
+tors set higher telephone rates based on those shifted 
+costs. Such cost-shifting would allow LECs to impose 
+their cable costs on captive telephone ratepayers without 
+sacrificing telephone service market share, and to sub- 
+sidize their affiliated cable entities with monopoly tele- 
+phone profits. Telephone consumers would suffer higher 
+rates based on distorted costs, and businesses competing 
+with LECs’ affiliated cable entities might wither under 
+
+
+2 See, e.g., FCC v. National Citizens Comm. for Broadcasting, 
+436 U.S. 775 (1978) (upholding restrictions on cross-ownership 
+of daily newspapers and broadcast stations) ; National Broadcast- 
+ing Co. Vv. United States, 319 U.S. 190 (1948) (upholding regula- 
+tion prohibiting network ownership of more than one broadcast 
+station in a service area); United States v. Paramount Pictures, 
+Inc., 85 F. Supp. 881 (S.D.N.Y. 1949) (antitrust decree requiring 
+separation of production and exhibition of motion pictures), aff’d 
+mem. sub nom. Loew’s, Inc. V. United States, 389 U.S. 974 (1950) : 
+15 U.S.C. 1801-1804 (Newspaper Preservation Act) ; 47 U.S.C. 531 
+(municipalities may require public access to cable system); 47 
+U.S.C. 532 (1988 & Supp. V 1993) (cable systems must set aside 
+channels for leased access); 47 U.S.C. 584(b), 535(b) (Supp. V 
+1993) (cable systems must carry local broadcast stations). See 
+H.R. Rep. No. 934, 98th Cong., 2d Sess. 833 & n.3 (1984) (placing 
+telephone-cable cross-ownership rule in line of authority holding 
+that “the government can restrict concentrated ownership of com- 
+munications media in a locality, in the interest of diversity”). 
+
+
+4 
+
+
+unfair competition because of the subsidy from the tele- 
+phone operations.* 
+
+The potential for such “cross-subsidization” by LECs 
+is particularly serious in the cable market, which is ad- 
+jacent to, and potentially overlapping with, the telephone 
+market. Affiliated LECs and cable systems could share 
+capital equipment, such as fiber-optic cable, as well as the 
+costs of research and development, administration of the 
+telephone network, and personnel. Also, because the 
+technology has developed for the transmission of video 
+signals over the telephone network, LECs could de- 
+liver video programming over their own wires. Thus, 
+LECs would have substantial opportunities to cross- 
+subsidize their cable operations if they were permitted to 
+operate cable systems in their own service areas. A regu- 
+latory approach to the problem of cross-subsidization 
+
+
+3 See generally National Rural Telecom Ass’n Vv. FCC, 988 F.2d 
+174, 178 (D.C. Cir. 1993) ; California v. FCC, 905 F.2d 1217, 1224, 
+1226-1228, 1233-1238 (9th Cir. 1990); United States v. Western 
+Elec. Co., 900 F.2d 283, 289-290 (D.C. Cir.), cert. denied, 498 U.S. 
+911 (1990) ; Southwestern Bell Corp. v. FCC, 896 F.2d 1378, 1379- 
+1380 (D.C. Cir. 1990) ; JUinois Bell Tel. Co. v. FCC, 740 F.2d 465, 
+472 (7th Cir. 1984); United States v. American Tel. & Tel. Co., 
+524 F. Supp. 1336, 1368-1369 (D.D.C. 1981); In re Policy and 
+Rules Concerning the Furnishing of Customer Premises Equip- 
+ment, Enhanced Services and Cellular Communications Services 
+by the Bell Operating Companies, Report and Order, 95 F.C.C.2d 
+1117, 1129-1131 (1983) (BOC Separation Order); In re Amend- 
+ment of Section 64.702 of the Commission’s Rules and Regulations 
+(Second Computer Inquiry), Final Decision, 77 F.C.C.2d 384, 4638- 
+464 (1980) (Computer II), modified in part on reconsideration, 
+84 F.C.C.2d 50 (1980), 88 F.C.C.2d 512 (1981), aff'd sub nom. 
+Computer & Communications Indus. Ass’n v. FCC, 698 F.2d 198 
+(D.C. Cir. 1982), cert. denied, 461 U.S. 9388 (1988); General 
+Accounting Office, Telephone Communications: Controlling Cross- 
+Subsidy Between Regulated and Competitive Services 50 (Oct. 
+1987) (First GAO Report) (J.A. 92-98); General Accounting 
+Office, Telecommunications: FCC’s Oversight Efforts to Control 
+Cross-Subsidization 3-4 (Feb. 1993) (J.A. 122-123) ; Harvey Averch 
+& Leland L. Johnson, Behavior of the Firm Under Regulatory Con- 
+straint, 52 Am. Econ. Rev. 1052 (1962); 2 Alfred E. Kahn, The 
+Economics of Regulation 54 (1988). 
+
+
+5 
+
+
+would require extensive supervision and auditing of LECs’ 
+use of their capital equipment, deployment of their 
+human resources, and accounting practices.* 
+
+A second problem posed by entry of LECs into the 
+cable market is the threat of discrimination against their 
+competitors in the use of facilities for the transmission of 
+video signals. That discrimination could take at least 
+two forms. First, traditional cable systems transmit pro- 
+gramming to subscribers over wires attached to utility 
+poles or buried underground and brought into sub- 
+scribers’ homes through utility service conduits. LECs 
+have had, historically, effective control over poles and 
+conduits necessary to the operation of a cable system, 
+and they could abuse that control to prevent competing 
+cable operators from using those poles and conduits, or 
+to make it difficult for competitors to maintain their 
+wires as is necessary to ensure adequate quality.” Second, 
+LECs wield exclusive control over the wires, switching 
+devices, and other transmission facilities essential to the 
+delivery of video signals over the technically complex 
+modern telephone network. Absent effective regulation, 
+LECs could discriminate against competing video pro- 
+grammers in affording access to that network, by design- 
+ing the system to favor transmission of their own video 
+signals and providing inferior service and maintenance 
+to competitors using the network. Discrimination un- 
+checked by regulation could cripple competition if LECs 
+were to exceed their traditional role of common carriers 
+of others’ signals.® 
+
+
+*See J.A. 52, 54-55, 57 (1981 FCC staff study), 251-255 (Owen 
+affidavit); cf. J.A. 84-85, 88-92 (First GAO Report, discussing 
+similar problems in LEC entry into other lines of business). 
+
+
+5 See In re Applications of Tel. Cos. for Section 214 Certificates 
+for Channel Facilities Furnished to Affiliated Community Antenna 
+Television Systems, 21 F.C.C.2d 307, 324 (1970), aff'd sub nom. 
+General Tel. Co. v. United States, 449 F.2d 846 (5th Cir. 1971). 
+
+
+® See California v. FCC, 39 F.8d 919, 929-930 (9th Cir. 1994) ; 
+California v. FCC, 4 F.3d 1505, 1509-1518 (9th Cir. 1993) ; United 
+
+
+6 
+
+2. Section 533(b) has its origins in regulations issued 
+by the Federal Communications Commission (FCC) in 
+1970 to address the problem of anti-competitive practices 
+by LECs in the cable services market. See 47 C.F.R. 
+64.601 (1971); In re Applications of Tel. Cos. for Sec- 
+tion 214 Certificates for Channel Facilities Furnished to 
+Affiliated Community Antenna Television Systems, 21 
+F.C.C.2d 307 (1970), aff'd sub nom. General Tel. Co. 
+v. United States, 449 F.2d 846 (Sth Cir. 1971). The 
+FCC identified “{t}he central problem” as “the anomalous 
+competitive situation between [cable] systems affiliated 
+with the telephone companies, and those which have no 
+such affiliation” (21 F.C.C.2d at 323), and concluded 
+that “[t]he entry by a telephone company * * * into the 
+retailing aspects of [cable] services in the community 
+within which it furnishes communications services can 
+lead to undesirable consequences,” including discrimina- 
+tion against unaffiliated cable companies and extension of 
+LECs’ telephone monopoly to the cable services market 
+(id. at 324). Intending “to insure against any arbitrary 
+blockage of th{e] gateway” and to preserve “a competi- 
+tive environment for the development and use of broad- 
+band cable facilities and services and thereby avoid undue 
+and unnecessary concentration of control over communi- 
+cations media either by existing carriers or other entities,” 
+the FCC determined that “the preservation of such com- 
+petition will best be assured by the exclusion of tele- 
+phone companies in their service areas from engaging in 
+
+
+States v. American Tel. & Tel. Co., 552 F. Supp. 131, 189-190 
+(D.D.C. 1982), aff'd mem. sub nom. Maryland vy. United States, 460 
+U.S. 1001 (1983); United States v. American Tel. & Tel. Co., 524 
+F. Supp. at 1352-1355; BOC Separation Order, 95 F.C.C.2d at 
+1134-1135; Computer II, 77 F.C.C.2d at 463-464. See also Delaware, 
+L. & W.R.R. v. United States, 231 U.S. 363, 370 (1913) (upholding 
+“commodities clause” of Interstate Commerce Act, 49 U.S.C. 10746, 
+which prohibits common carriers from transporting products in 
+which they have a financial interest, and noting potential for dis- 
+crimination if common carriers were permitted to haul for their 
+own benefit as well as others’). 
+
+
+7 
+
+
+the sale of [cable] service to the viewing public except 
+where no practical alternative exists to make such service 
+available within a particular community.” Id. at 325. 
+
+In 1980, the FCC directed its staff to study several 
+regulatory restrictions on ownership of cable systems, and 
+in November 1981, the Commission’s Office of Plans and 
+Policy issued a report recommending that the telephone- 
+cable cross-ownership bar be retained. See FCC Policy 
+on Cable Ownership: A Staff Report 141-178 (J.A. 40- 
+78). The staff report acknowledged that changes in the 
+cable industry made it “no longer appropriate to think 
+of [cable] as an infant,” J.A. 41 n.3, but it nonetheless 
+concluded that there were serious disadvantages in cross- 
+ownership, principally in that “telephone companies are 
+regulated exclusive franchise monopolists in their local 
+area,” J.A. 52. The staff was especially concerned about 
+cross-subsidization of cable operations by LECs, and it 
+noted that, because cable and telephone systems may 
+share capital equipment, “allocating shared costs between 
+these capital accounts on the basis of actual cost causa- 
+tion will be difficult or impossible.” J.A. 57. The staff 
+did not believe that a structural separation of corporate 
+entities providing cable and telephone services would 
+eliminate the danger of cost-shifting. J.A. 67-71. The 
+staff also could not find a regulatory solution to the 
+problem of discrimination in access to the local exchange 
+network. J.A. 73-76. 
+
+3. Congress enacted Section 533(b) in the 1984 Cable 
+Act, using language borrowed from the FCC’s 1970 regu- 
+lations. Congress prohibited “any common carrier, sub- 
+ject in whole or in part to subchapter IT” of the Communi- 
+cations Act of 1934 (i.e., any LEC), from “provid[ing] 
+video programming directly to subscribers in its telephone 
+service area.” 47 U.S.C. 533(b)(1). Congress also pro- 
+hibited LECs from providing pole or conduit space to 
+any affiliated cable entity for the purpose of provid- 
+ing video programming directly to subscribers. Congress 
+intended “to codify [the] FCC rules concerning the 
+
+
+provision of video programming over cable systems by 
+common carriers.” H.R. Rep. No. 934, 98th Cong., 2d 
+Sess. 56 (1984) (1984 House Report). Section 533 as 
+a whole was intended “to prevent the development of 
+local media monopolies, and to encourage a diversity of 
+ownership of communications outlets.” /d. at 55. 
+
+The statute contains several exceptions to the general 
+prohibitions, also derived from the FCC’s regulatory 
+regime. Under Section 533(b)(3), LECs may freely pro- 
+vide video programming to customers who reside in a 
+“rural area,” as defined by the FCC. LECs may also seek 
+a waiver of the cross-ownership bar for those areas where 
+cable service “demonstrably could not exist” except if 
+provided through a LEC-affiliated entity. 47 USC. 
+533(b)(4). Finally, Congress authorized the FCC to 
+waive the cross-ownership bar “upon other showing of 
+good cause * * * [and] upon a finding that the issuance 
+of such waiver is justified by the particular circumstances 
+demonstrated by the petitioner, taking into account the 
+policy of this subsection.” Ibid. 
+
+4. Within a few years of the enactment of Section 
+533(b), LECs and others began to urge its repeal." 
+Beginning in 1987, the FCC conducted extensive public 
+inquiry and rulemaking proceedings regarding the costs, 
+benefits, and continued need for the cross-ownership bar." 
+
+
+7 See, e.g., Communications Competitiveness and Infrastructure 
+Modernization Act of 1990: Hearing Before the Subcomm. on 
+Communications of the Senate Comm. on Commerce, Science, and 
+Transportation, 10ist Cong., 2d Sess. 47-60, 143-158, 168-176 
+(1990) ; Cable Television Regulation (Part 1): Hearings Before 
+the Subcomm. on Telecommunications and Finance of the House 
+Comm. on Energy and Commerce, 101st Cong., 2d Sess. 273-276, 
+$11, 339-842, 398-401, 481-436, 452-463 (1990). 
+
+
+8 See In re Tel. Co—Cable Television Cross-Ownership Rules, 
+Sections 63.54-68.58, Notice of Inquiry, 2 F.C.C. Red 5092 (1987) ; 
+In re Tel. Co.—Cable Television Cross-Ownership Rules, Sections 
+63.54-68.58, Further Notice of Inquiry and Notice of Proposed 
+Rulemaking, 3 F.C.C. Red 5849 (1988) (Further Notice of In- 
+
+
+“9 
+
+
+In 1992, the FCC again examined the bar in the con- 
+text of its rulemaking proceedings on “video dialtone,” 
+a service made possible by technological advances that 
+permit the transmission of video signals over telephone 
+wires, by which LECs may use their wires to transmit 
+video signals from multiple programmers to subscribers 
+on a common carrier basis. See In re Tel. Co.—Cable 
+Television Cross-Ownership Rules, Sections 63.54-63.58, 
+Second Report and Order, Recommendation to Congress, 
+and Second Further Notice of Proposed Rulemaking, 7 
+F.C.C. Red 5781, 5783 (1992) (Video Dialtone Order), 
+modified in part on reconsideration, 10 F.C.C. Red 244 
+(1994); see also National Cable Television Ass'n v. 
+FCC, 33 F.3d 66 (D.C. Cir. 1994). 
+
+The FCC recommended that Congress replace the cross- 
+ownership bar with an array of regulatory safeguards 
+to prevent abuses by LECs if they entered the cable 
+market. See Video Dialtone Order, 7 F.C.C. Red at 
+5847-5851. The FCC did not conclude that the potential 
+for anti-competitive conduct by LECs had disappeared 
+entirely, but it did conclude that the continued risk was 
+outweighed by the potential public interest that would 
+be served by their entry into the cable market. Id. at 
+5849. The FCC stated that, if LECs were allowed to 
+enter the market for providing video programming, it 
+would subject them to extensive regulation: 
+
+
+[T]he FCC should require that if the benefits exceed 
+the costs, the telephone companies provide video 
+programming a a rey 4 separated video 
+programming subsidiary; that their video program- 
+ming be through the video dialtone platform that 
+provides service to multiple programmers; and that 
+the extent of local telephone company-provided 
+
+
+quiry); In re Tel. Co.—Cable Television Cross-Ownership Rules, 
+Sections 63.54-63.58, First Notice of Proposed Rulemaking, First 
+Report and Order, and Second Further Notice of Inquiry, 7 F.C.C. 
+Red 300 (1991). 
+
+
+10 
+
+
+programming be limited to a specified percentage of 
+overall capacity. 
+Id. at 5847-5848; see id. at 5850-5851. 
+
+Congress, however, declined to repeal the cross- 
+ownership bar. In the Cable Television Consumer Pro- 
+tection and Competition Act of 1992, Pub. L. No. 102- 
+385, 106 Stat. 1460 (1992 Cable Act), Congress revised 
+regulation of the cable industry to stimulate competition. 
+See 47 U.S.C. 541(a)(1) (Supp. V 1993) (prohibiting 
+exclusive cable franchises); 47 U.S.C. 543 (Supp. V. 
+1993) (requiring cable rate regulation in areas where 
+there is no effective competition); 47 U.S.C. 533(a)(2) 
+(Supp. V 1993) (adopting cross-ownership rules for new 
+wireless broadcast technologies). By those measures, 
+Congress sought to promote “a substantial governmental 
+and First Amendment interest in promoting a diversity of 
+views.” 1992 Cable Act, §2(a)(6), 106 Stat. 1461. 
+But after extensive consideration of the arguments in 
+favor of and against the telephone-cable cross-ownership 
+bar, and several proposals (including those of the FCC 
+and the Departments of Justice and Commerce) to replace 
+the bar with a regulatory approach to the problems of 
+cross-subsidization and discrimination, Congress left the 
+bar in place. The Senate report accompanying the 1992 
+Cable Act expressed the view that cross-ownership re- 
+strictions like Section 533(b) “enhance competition.” 
+
+
+® See note 7, supra; see also Cable Television Regulation: Hear- 
+ings Before the Subcomm. on Telecommunications and Finance of 
+the House Comm. on Energy and Commerce, 102d Cong., 1st Sess. 
+122-123, 226-227, 524-537, 605-616 (1991); Cable-Instructional TV 
+and S. 1200, Communications Competitiveness and Infrastructure 
+Modernization Act of 1991: Hearing Before the Subcomm. on 
+Communications of the Senate Comm. on Commerce, Science, and 
+Transportation, 102d Cong., 2d Sess. 48, 51, 54-55, 95, 96-109, 
+139-146 (1992); 188 Cong. Rec. 816,663, S16,665-S16,666 (daily 
+ed. Oct. 5, 1992) ; id. at $14,225, $14,237, $14,246-S14,247, $14,250, 
+$14,255-S14,256 (daily ed. Sept. 21, 1992); id. at H8671, H8673 
+(daily ed. Sept. 17, 1992) ; id. at H6489, H6492 (daily ed. July 23, 
+1992). 
+
+
+il 
+
+
+S. Rep. No. 92, 102d Cong., Ist Sess. 46-47 (1991) 
+(1991 Senate Report); see also S. Rep. No. 456, 10\st 
+Cong., 2d Sess. 9 (1990) (1990 Senate Report) (“[B]e- 
+cause of concerns about the potential for anticompetitive 
+practices by telephone companies and the need to ensure 
+media diversity, the Committee is not now prepared to 
+permit telephone companies to own or control video 
+programming.” ). 
+
+5. Respondents then brought this action in district 
+court, challenging the constitutionality of Section 533(b). 
+Respondents (or their corporate affiliates) provide local 
+exchange telephone services in six States and the District 
+of Columbia, and they desire to provide video program- 
+ming directly to subscribers in Alexandria, Virginia, where 
+they have a monopoly on local exchange service. Pet. 
+App. 54a, 77a n.17. 
+
+The district court granted summary judgment for re- 
+spondents. It applied an “intermediate level of scrutiny,” 
+as set forth in Ward v. Rock Against Racism, 491 U.S. 
+781, 791 (1989), which requires that a content-neutral 
+regulation of the time, place, and manner of speech be 
+“narrowly tailored to serve a significant governmental 
+interest” and “leav[e] open ample alternative channels 
+for communication” to pass constitutional muster. See 
+Pet. App. 94a. The district court found “little doubt that 
+the statute leaves open ample alternative channels for 
+communication,” since LECs may, inter alia, communi- 
+cate with subscribers by producing video programming 
+and marketing it to broadcasters and cable operators. 
+
+The district court concluded, however, that Section 
+533(b) is not narrowly tailored because, in its view, there 
+is a lack of “fit” between the statute and the objective 
+of preventing anti-competitive conduct by LECs. Pet. 
+App. 102a. The court accepted, arguendo, that regula- 
+tory controls would be insufficient to prevent LECs from 
+cross-subsidizing affiliated cable entities. Jd. at 106a. 
+But the court stressed that, notwithstanding Section 
+
+
+12 
+
+
+533(b), LECs are permitted to operate systems for the 
+transport of unaffiliated entities’ video programming if 
+they do not exercise control over the selection of that 
+programming, and the court believed that the dangers of 
+discrimination and cross-subsidization are also present in 
+that permitted situation. Pet. App. 101la-102a. Although 
+the government argued that incentives to anti-competitive 
+conduct are enhanced if LECs select, as well as transmit, 
+the video programming offered on a cable system, the 
+court rejected that argument because, it believed, LECs 
+have no “inherent advantage” in video programming that 
+would permit them to evade regulation. /d. at 103a-104a. 
+
+6. The court of appeals affirmed. Pet. App. la-52a. 
+The court of apreals held that Section 533(b) should 
+be subject to intermediate scrutiny because it is not 
+content-based (Pet. App. 28a), it is not intended to 
+regulate or prohibit any speech because of the message 
+that is conveyed (id. at 3la-32a), and it is “justified 
+entirely by the peculiar economic and physical character- 
+istics inherent in the provision of cable service” (id. at 
+34a). Although the court agreed with the government 
+that the interests served by Section 533(b) are signifi- 
+cant (Pet. App. 38a-39a), it concluded that the statute 
+is unconstitutional because it is not narrowly tailored. In 
+reaching that conclusion, the court remarked that, be- 
+cause the statute contains no specific factual findings 
+about the need for the particular measure enacted, it 
+owed no deference to Congress’s judgment on the question 
+of narrow tailoring. /d. at 40a-41a. 
+
+The court of appeals first concluded that the threat 
+of discrimination by LECs against their competitors in 
+
+
+© The court of appeals thus rejected respondents’ arguments for 
+application of strict scrutiny (Pet. App. 37a) and the government's 
+arguments for “minimal scrutiny” (id. at 20a-23a). Judge Michael 
+declined to join the panel’s rejection of strict scrutiny; he believed 
+that, since the statute failed intermediate scrutiny, the question 
+whether strict scrutiny should be applied was “academic.” /d. 
+at 52a. 
+
+
+13 
+
+
+affording access to utility poles and conduits was insuffi- 
+cient to support the cross-ownership bar. It reasoned 
+that Congress could prohibit such discrimination rather 
+than banning LECs from offering cable services. Pet. 
+App. 42a. The court did not address the separate but 
+related problem of LEC discrimination against competi- 
+tors in access to the telephone network for transmission 
+of video signals. 
+
+On the issue of cross-subsidization, the court of appeals 
+assumed that regulatory oversight (in place of a cross- 
+ownership bar) would be insufficient to prevent that abuse 
+in the video transport market. It also assumed that the 
+prospect of domination of the video programming market 
+would give LECs an “ ‘irresistible’ incentive” to cross- 
+subsidize their video transport operations. Pet. App. 44a- 
+45a. Nevertheless, the court found dispositive its percep- 
+tion that an “obvious less-burdensome alternative” to Sec- 
+tion 533(b) exists: “Congress could simply limit [LECs’] 
+editorial control over video programming [on any cable 
+system] to a fixed percentage of the channels available: 
+[LECs] would be required to lease the balance of the 
+channels [to unaffiliated programmers] on a common car- 
+rier basis.” Pet. App. 47a-48a. 
+
+Finally, the court concluded that Section 533(b) does 
+not leave open ample alternative channels for communi- 
+cation by LECs. Pet. App. 49a-Sla. Although the court 
+recognized that LECs may freely arrange for their video 
+programming to be distributed by broadcast stations and 
+unaffiliated cable operators, it held the statute invalid 
+because LECs “cannot guarantee that video programming 
+they wish to transmit to their local audience via cable 
+television * * * will reach their desired audience.” /d. 
+at 50a (emphasis added). It believed that Section 533(b) 
+“ban[s] completely a particular manner of expression” to 
+LECs. Pet. App. 51a. 
+
+7. On May 16, 1995, the FCC issued a Third Report 
+and Order in its video dialtone rulemaking, in which it 
+concluded that, under the “good cause” waiver provision 
+
+
+14 
+
+
+of Section 533(b)(4) (see p. 8, supra), it has “legal 
+authority to grant waivers allowing [LECs] to provide 
+video programming in their telephone service areas on 
+video dialtone networks.” Pet. Supp. App. 2a. Under 
+its construction of Section 533(b)(4), the FCC “will 
+routinely grant a waiver of [the cross-ownership bar] 
+where the [LEC] agrees to abide by the regulations [that 
+the FCC] will establish governing its provision of video pro- 
+gramming.” Pet. Supp. App. 19a. The FCC also explained 
+that, because “the purpose of the rule is to promote com- 
+petition,” it will not grant waivers “to allow a [LEC] to 
+purchase an incumbent monopolist cable operator in the 
+[LEC’s] service area” (id. at 16a); its reading of the 
+waiver authority extends only “to permit a [LEC] to 
+provide video programming over video dialtone systems 
+in its telephone service area in competition with existing 
+cable operators” (id. at 17a) (emphasis added). 
+
+The FCC noted that two courts of appeals and several 
+district courts have concluded that Section 533(b) vio- 
+lates the First Amendment."- It also observed that this 
+Court has instructed that “a statute is to be construed 
+where fairly possible so as to avoid substantial constitu- 
+tional questions.” Pet. Supp. App. 6a (quoting United 
+
+
+11 The Ninth Circuit also declared Section 533(b) unconstitu- 
+tional in two consolidated cases. US West, Inc. v. United States, 
+48 F.3d 1092 (1994); Pacific Telesis Group v. United States, 48 
+F.3d 1106 (1994). The statute has been held invalid by district 
+courts in NYNEX Corp. v. United States, No. 98-823-P-C (D. Me. 
+Dec. 8, 1994), appeal pending, No. 95-1183 (1st Cir.) ; Ameritech 
+Corp. v. United States, 867 F. Supp. 721 (N.D. Ill. 1994), appeal 
+pending, No. 95-1223 (7th Cir.) ; BellSouth Corp. v. United States, 
+868 F. Supp. 1335 (N.D. Ala. 1994), appeal pending, No. 94-7036 
+(11th Cir.) ; United States Telephone Ass'n v. United States, No. 
+1:94CV01961 (D.D.C. Feb. 14, 1995), appeal pending, No. 95-1175 
+(D.C. Cir.) ; Southwestern Bell Corp. v. United States, No. 3:94- 
+CV-0198-D (N.D. Tex. Mar. 27, 1995), appeal pending, No. 95- 
+10478 (5th Cir.); and Southern New England Telephone Co. vy. 
+United States, No. 3:94-CV-80 (DJS) (D. Conn. Apr. 27, 1995), 
+appeal pending, No. 95-6137 (2d Cir.). 
+
+
+15 
+
+
+States v. X-Citement Video, Inc., 115 S. Ct. 464, 467 
+(1994)). The FCC concluded that its interpretation of 
+its waiver authority would “cure [the] constitutional in- 
+firmities” perceived in the cross-ownership bar (Pet. Supp. 
+App. 6a n.11) and make it “unnecessary for [the] courts 
+to decide whether a complete prohibition on video pro- 
+gramming by [LECs] in their exchange areas is consti- 
+tutional” (id. at 7a), for the LECs would henceforth 
+be able to provide video programming directly to sub- 
+scribers in their service areas. 
+
+The FCC addressed two statutory issues in construing 
+Section 533(b)(4): whether there is “good cause” to 
+waive the cross-ownership bar, and whether a waiver is 
+“justified by the particular circumstances demonstrated 
+by the petitioner, taking into account the policy of [the 
+bar].” Pet. Supp. App. 9a. The FCC found two reasons 
+to conclude that “good cause” exists to allow LECs to 
+provide video programming over video dialtone systems. 
+First, “‘[g]ood cause’ is a phrase that is commonly asso- 
+ciated with changed circumstances” (id. at lla), and the 
+growth in the cable industry from “a fledgling service to 
+a more mature industry” constitutes changed circum- 
+stances since Congress enacted the bar in 1984 (id. at 
+10a-lla). Second, “significant advances in technology” 
+that now permit the dissemination of video signals over 
+the telephone network “have made it possible for a multi- 
+tude of programmers to reach end user customers and 
+have mitigated to a fair degree the competitive concerns 
+that led the Commission and Congress to adopt the cross- 
+ownership ban.” /d. at 11la-12a. 
+
+The FCC also concluded that waiving the bar to allow 
+LECs to provide video programming on video dialtone 
+networks would advance the policies of Section 533(b), 
+competition and diversity in the market for video pro- 
+gramming. The FCC emphasized that its video dialtone 
+regulatory framework includes a common carriage ele- 
+ment, such that a LEC offering video dialtone must make 
+capacity available to other, unaffiliated video program- 
+
+
+16 
+
+
+mers. Thus, “{t]he common carrier aspect of video dial- 
+tone service promotes both competitive and free speech 
+interests by making room for more than one speaker.” 
+Pet. Supp. App. 13a. The FCC also made clear that 
+LECs would be allowed to offer video programming in 
+their service areas only if they agree to abide by reg- 
+ulations that will be adopted to prevent anti-competitive 
+abuses such as cross-subsidization and discrimination 
+against competitors. Jd. at 18a-19a.” 
+
+
+INTRODUCTION AND SUMMARY OF ARGUMENT 
+
+
+For more than two decades, there has been spirited 
+debate over the costs and benefits of local telephone com- 
+panies’ entry into the market for cable services, as there 
+has been debate over their participation in other lines of 
+business, such as information services and long-distance 
+services. The problems presented by the entry of LECs 
+into other markets are substantial and complex, and the 
+best mix of competition, regulation, and structural separa- 
+tion to address those problems has been the subject of 
+sustained attention by Congress, the agencies that admin- 
+ister telecommunications laws, and the interests affect- 
+ed by regulation. Several participants in the debate, 
+
+
+12 Congress is also reexamining the cross-ownership bar at this 
+time. On June 16, 1995, the Senate passed a bill that would repeal 
+the cross-ownership bar and would expressly permit LECs to 
+offer video programming through video dialtone systems. See 
+S. 652, 104th Cong., Ist Sess. § 202 (1995); 141 Cong. Rec. $8570, 
+S8577 (daily ed. June 16, 1995). On August 4, 1995, the House 
+of Representatives passed a bil] that would permit LECs to offer 
+video programming to subscribers in their service areas, through 
+video dialtone platforms operated by separate affiliates. See H.R. 
+1555, 104th Cong., Ist Sess. § 201 (1995); 141 Cong. Rec. H8436- 
+H&438 (daily ed. Aug. 4, 1995). The House bill would require the 
+FCC to issue regulations to prevent @' -rimination in access to the 
+video dialtone system, and would permit state regulators to prevent 
+croas-subsidization. See id. at H8437. The House bill would provide 
+imited authority for LECs to invest in and contro] incumbent cable 
+operators. /d. at H8438. 
+
+
+17 
+
+
+including federal agencies, have suggested that consumer 
+welfare would ultimately be increased by freer LEC par- 
+ticipation in the cable market—subject to appropriate 
+regulatory safeguards and in conjunction with removal 
+of barriers to competition in local telephone service. 
+Congress, which is responsible for setting the nation’s tele- 
+communications policy, has nonetheless thus far declined 
+to repeal the cross-ownership bar challenged in this case. 
+
+There are considerable advantages to the simple cross- 
+ownership restriction enacted by Congress over the 
+much more complex system of administrative supervision 
+that would take its place, were the bar repealed or invali- 
+dated. Whether those advantages are outweighed by dis- 
+advantages of inefficiency is, of course, subject to much 
+dispute. But that judgment is for Congress to make, and 
+Congress’s choice of a cross-ownership bar, which has un- 
+deniably been effective in preventing discrimination and 
+cross-subsidization by LECs in the cable market, was a 
+reasonable one. Whatever the arguments against the wis- 
+dom of the bar or its effectiveness in promoting competi- 
+tion, those arguments are not of constitutional dimension. 
+
+I. Section 533(b) does not require strict scrutiny. 
+The cross-ownership bar is content-neutral; it reflects nei- 
+ther disagreement with any idea that would be expressed 
+by LECs, nor any desire to suppress free expression. To 
+the contrary, the bar is intended to keep channels of 
+communication open by preventing private anti-competitive 
+behavior that could choke off speech by LECs’ competi- 
+tors, and is justified entirely by reference to the economic 
+consequences of LEC participation in the cable market. 
+Section 533(b) is therefore subject at most to the inter- 
+mediate scrutiny employed for regulations of the time, 
+place, and manner of speech. 
+
+II. Section 533(b) survives intermediate scrutiny. The 
+cross-ownership bar advances significant governmental 
+interests in preventing anti-competitive conduct and pro- 
+moting diversity of communications outlets. It accom- 
+plishes those objectives by forestalling LECs’ extension of 
+
+
+18 
+
+
+their telephone monopoly to the cable market through 
+cross-subsidization of their cable affiliates and discrimina- 
+tion against competitors in providing access to essential 
+facilities (utility poles and conduits, and the modern tele- 
+phone network) for the transmission of video program- 
+ming. The bar is necessary and narrowly tailored to ac- 
+complish Congress’s objectives, because it is easily 
+administered and entirely effective. A less restrictive ap- 
+proach would require complex structural and accounting 
+regulations and continual administrative supervision to 
+monitor LECs’ compliance with those rules. A regulatory 
+approach also could not assure the same degree of effec- 
+tiveness in preventing discrimination by LECs against 
+competitors. The bar leaves open ample alternative chan- 
+nels of communication to LECs, which may disseminate 
+video programming within their service areas by numer- 
+ous other means (including broadcast television), operate 
+cable systems outside their service areas, and use all non- 
+video means of communication everywhere. The statute 
+also gives the FCC authority to waive the bar for good 
+cause to advance the goals of the statute, and in situations 
+where cable service could not be provided except by 
+LECs. The bar therefore applies only in those circum- 
+stances in which Congress reasonably concluded it is 
+needed to prevent anti-competitive conduct by LECs. 
+Ill. The FCC’s recent construction of its waiver au- 
+thority to permit LECs to offer video programming on 
+video dialtone systems removes any constitutional doubts 
+about the statute. That construction permits LECs to 
+provide video programming in their own service areas, in 
+competition with incumbent cable operators. The con- 
+struction therefore advances the statute’s goals of diver- 
+sity and competition while making more channels for 
+dissemination of video programming available to LECs. 
+
+
+19 
+
+
+ARGUMENT 
+
+
+I. SECTION 533(b) DOES NOT REQUIRE STRICT 
+SCRUTINY 
+
+
+We do not dispute that the dissemination of video pro- 
+gramming by means of a cable system is “speech” pro- 
+tected by the First Amendment. Nevertheless, “not every 
+interference with speech triggers the same degree of scru- 
+tiny under the First Amendment,” and so the Court “must 
+decide at the outset the level of scrutiny applicable” to 
+the cross-ownership bar. See Turner Broadcasting Sys. v. 
+FCC, 114 S. Ct. 2445, 2456 (1994). Respondents con- 
+tend (Resp. 10-12) that Section 533(b) is a content- 
+based restriction requiring strict scrutiny. In fact, the 
+cross-ownership rule is a content-neutral regulation of the 
+market for cable services aimed at the economic behavior 
+of LECs, and it regulates only the manner and place 
+in which LECs may disseminate video programming. 
+It is therefore subject to review under the less rigorous, 
+“intermediate” standard applicable to content-neutral 
+time, place, and manner regulations. See Turner, 114 
+S. Ct. at 2469; Ward v. Rock Against Racism, 491 U.S. 
+781, 791 (1989); cf. United States v. O’Brien, 391 U.S. 
+367 (1968). 
+
+1. The “principal inquiry” in determining whether a 
+regulation is content-based or content-neutral “is whether 
+the government has adopted a regulation of speech be- 
+cause of disagreement with the message it conveys.” 
+Ward, 491 U.S. at 791. Under that inquiry, Section 
+533(b) is content-neutral. The restriction on LEC own- 
+ership of cable systems is unrelated to the content of any 
+programming that LECs might offer, were they allowed 
+to operate cable systems in their service areas. It is 
+irrelevant to the statute whether the video programming 
+that would be transmitted is “commercial or noncommer- 
+cial, independent or network-affiliated, English or Spanish 
+language, religious or secular.” Turner, 114 S. Ct. at 
+2460. 
+
+
+20 
+
+
+Even if a regulation is facially content-neutral, it may 
+also be treated as content-based if the government's 
+“manifest purpose is to regulate speech because of the 
+message it conveys.” Turner, 114 S. Ct. at 2461. Sec- 
+tion 533(b) is not motivated by hostility to any message, 
+however, and the government’s interests are entirely un- 
+related to the suppression of free expression. See ibid.; 
+Ward, 491 U.S. at 791. Indeed, the objective of the 
+cross-ownership restriction is to promote free expression 
+through diversity of media outlets. See 1984 House Re- 
+port 33, 55; cf. FCC v. National Citizens Comm. for 
+Broadcasting, 436 U.S. 775, 801 (1978) (NCCB). The 
+statute recognizes that LECs, if unrestrained by regula- 
+tion, have the ability and incentive to compete unfairly 
+against other cable operators in the same geographical 
+market, because of their physical control over essential 
+facilities for the transmission of cable signals and their 
+monoply power over local telephone service. That control 
+could enable LECs to impede the dissemination of cable 
+programming by their competitors. Cf. Turner, 114 S. Ct. 
+at 2466 (“[S]imply by virtue of its ownership of the 
+essential pathway for cable speech, a cable operator can 
+* * * silence the voice of competing speakers.”). Section 
+533(b), like the predecessor FCC rules, was designed “to 
+insure against any arbitrary blockage of the gateway” 
+(21 F.C.C.2d at 325), and Congress “[took] steps to 
+ensure that private interests not restrict * * * the free 
+flow of information and ideas” (Turner, 114 S. Ct. at 
+2466). 
+
+Respondents maintain that Section 533(b) is content- 
+based because it regulates only the dissemination of 
+“video programming,” and because “video programming” 
+is defined as “programming provided by, or generally 
+considered comparable to programming provided by, a 
+television broadcast station.” 47 U.S.C. 522(19) (Supp. 
+V 1993). As the court of appeals correctly observed 
+(Pet. App. 26a-28a), however, the statute’s reference to 
+“video programming” distinguishes speech solely “on the 
+
+
+21 
+
+
+basis of the mode of delivery of the speech” (id. at 
+28a), and not its content. See Regan v. Time, Inc., 458 
+U.S. 641, 656 (1984) (plurality opinion) (limitations 
+on reproduction of currency “restrict only the manner in 
+which the illustrations can be presented”). While LECs 
+may not operate their own cable systems in their service 
+areas, they may deliver the same video messages to those 
+communities using broadcast television stations, direct 
+broadcast statellite systems, unaffiliated cable systems, and 
+videocassettes. They may also deliver messages to the 
+public through newspapers, leaflets, and radio stations. 
+
+The FCC has interpreted the statutory definition of 
+“video programming” to mean that “Congress intended 
+to prohibit only [LEC] provision of programming com- 
+parable to that provided by broadcast television stations 
+in 1984.” Video Dialtone Order, 7 F.C.C. Red at 5820. 
+As so construed, the statute distinguishes the one-way, 
+non-interactive television technology familiar to Congress 
+in 1984 from other forms of speech that were under 
+development at the time and were preserved for LECs, 
+such as interactive video and videotext. See id. at 5820- 
+5823; 1984 House Report 57 (“[{N]othing in this section 
+shall be construed to limit [LEC] provision of informa- 
+tion services or other non-video programming.”). The 
+statutory definition of “video programming” does not, 
+however, contain any reference to the subject matter of 
+television programs, and the FCC has not construed it 
+to include any element of content.” 
+
+
+18 Given the “abundant discretion” that television licensees retain 
+over programming choices, as well as the breadth of programming 
+that was disseminated on television in 1984, it would be difficult 
+to interpret the Act’s reference to “video programming” to include 
+any element of content. Cf. Turner, 114 S. Ct. at 2464. But even 
+if the statutory reference to “video programming” is ambiguous, 
+the FCC’s construction of it to include a technological! distinction, 
+but not an element of content, is entitled to deference. See Chevron 
+U.S.A. Ine. ¥. Natural Resources Defense Council, Inc., 467 U.S. 
+837, 844-845 (1984). Deference to the FCC’s construction is par- 
+
+
+22 
+
+
+As multimedia speech develops, instances may arise 
+in which it will be difficult to determine whether a cer- 
+tain series of video images is “comparable to” television 
+broadcasting. See Video Dialtone Order, 7 F.C.C. Red 
+at 5820-5821. But even if one must examine the images 
+to determine whether they come within the scope of Sec- 
+tion 533(b), that would not make the bar content-based. 
+The focus of the inquiry is on the manner in which the 
+message is presented, and not on the ideas expressed in 
+the message. Cf. Ward, 491 U.S. at 792-793 (noting 
+that city had disclaimed “any interest in imposing its own 
+view of appropriate sound mix on performers,” and that 
+its interest extended only to “the clearly content-neutral” 
+goal of reducing noise). 
+
+Finally, as the district court noted (Pet. App. 88a- 
+93a), even a regulation of speech that contains an ele- 
+ment of content distinction does not require strict scrutiny 
+if the regulation is “justified without reference to the con- 
+tent of the regulated speech.” City of Renton v. Playtime 
+Theaters, Inc., 475 U.S. 41, 48 (1986); Ward, 491 U.S. 
+at 791. In determining whether strict scrutiny is neces- 
+sary, “[t]he government’s purpose is the controlling con- 
+sideration.” Jbid. Under that inquiry as well, Section 
+533(b) does not require strict scrutiny, for its justifica- 
+tion is unrelated to the content of any message that would 
+be disseminated. The purpose of Section 533(b) is the 
+prevention of certain well-known economic practices that 
+present a danger to free expression and competition—not 
+“(the] suppress[ion] * * * of unpopular views.” Renton, 
+475 US. at 48. The statute “is neutral—indeed it is 
+silent—concerning any speaker’s point of view.” Mem- 
+bers of City Council v. Taxpayers for Vincent, 466 U.S. 
+789, 803-804 (1984). 
+
+
+ticularly appropriate in this case because it avoids the constitu- 
+tional questions that would be created if the statute were construed 
+to include a content-based distinction. Cf. Jean v. Nelson, 472 U.S. 
+846, 855-856 (1985). 
+
+
+23 
+
+
+2. Nor is Section 533(b) subject to strict scrutiny on 
+the theory that it is a “direct ban on speech as such.” 
+Resp. 10. Content-ne utral regulations of speech are sub- 
+
+
+Community for Creative Non-Violence, 468 U.S. 288, 
+298 n.8 (1984). For example, in Frisby v. Schultz, 487 
+U.S. 474 (1988), in which the Court upheld an ordi- 
+nance banning picketing in front of residences, the Court 
+observed that the prohibition was content-neutral (id. at 
+481-482), and it applied the “intermediate” standard of 
+review applicable to content-neutral regulations (see id. 
+at 482 (inquiring whether the ordinance was “narrowly 
+tailored to serve a significant government interest” and 
+whether it “[left] open ample alternative channels of 
+communication”); id. at 492-493 (Brennan, J., dissent- 
+ing) (agreeing that the residential picketing ban was “sub- 
+ject to the well-settled time, place, and manner test”) ). 
+Cf. Ward, 491 U.S. at 791 (applying same test); Clark, 
+468 U.S. at 293 (same). In Vincent, the Court applied 
+a similar test, drawn from United States v. O’Brien, 
+supra, to the content-neutral prohibition on the posting 
+of signs at issue in that case. See 466 U.S. at 804-805, 
+808." 
+
+As a content-neutral regulation of the market for cable 
+services, Section 533(b) must therefore be analyzed under 
+the intermediate standard of scrutiny applicable to time, 
+place, and manner regulations. The statute is not a blan- 
+ket ban on speech by LECs; it prohibits them from oper- 
+ating cable systems only in the areas where they offer 
+local telephone service. In all other areas, where the 
+
+
+14 Thus, notwithstanding respondents’ argument that the O’Brien 
+test “has been reserved exclusively for regulations having only an 
+‘incidental’ effect” on speech (Resp. 10), it is clear that the O’Brien 
+test “in the last analysis is little, if any, different from the stan- 
+dard applied to time, place, or manner restrictions.” Clark, 468 
+U.S. at 298; see id. at 298 n.8; Turner, 114 S. Ct. at 2469. 
+
+
+24 
+
+
+dangers of anti-competitive conduct by LECs are not pres- 
+ent, they are free to offer cable service. The statute also 
+regulates only speech in video form, and not the various 
+other modes of speech that could deliver the same mes- 
+sage. Cf. Frisby, 487 U.S. at 484 (observing that, al- 
+though protesters could not engage in residential picket- 
+ing, they could distribute literature and contact residents 
+by telephone). Finally, the statute regulates only video 
+programming delivered by means of cable systems—not 
+video programming disseminated by all other possible 
+means, including broadcast television, satellite television, 
+and videocassettes. The court of appeals correctly con- 
+cluded, therefore, that Section 533(b) is subject to “in- 
+termediate scrutiny.” Pet. App. 38a. 
+
+
+II. SECTION 533(b) MEETS THE REQUIREMENTS OF 
+INTERMEDIATE SCRUTINY 
+
+
+A. Section 533(b) Furthers Significant Governmental! 
+Interests 
+
+
+A content-neutral regulation of speech is valid if it is 
+“narrowly tailored to serve a significant governmental 
+interest, and * * * leav[es] open ample alternative chan- 
+nels for communication of the information.” Ward, 491 
+U.S. at 791. The court of appeals correctly concluded 
+that the interests served by Section 533(b) are significant. 
+See Pet. App. 38a-39a. In Turner, this Court made clear 
+that “the Government’s interest in eliminating restraints 
+on fair competition is always substantial,” as is “assuring 
+that the public has access to a multiplicity of information 
+sources, [which] promotes values central to the First 
+Amendment.” 114 S. Ct. at 2470. With respect to the 
+cable market in particular, Turner also established that 
+the government has a substantial interest in “ensur[ing] 
+that private interests not restrict, through physical con- 
+trol of [the] critical [bottleneck] of [cable] communica- 
+tion, the free flow of information and ideas,” id. at 2466, 
+
+
+25 
+
+
+an interest directly relevant to LECs’ control over 
+physical facilities for the transmission of cable signals. 
+
+Nor can there be doubt that Section 533(b) actually 
+furthers those significant interests. Cross-ownership re- 
+strictions have long been used by regulators to curtail the 
+potential for abuse of market power and to encourage 
+diversity in holdings.” The utility of such rules to prevent 
+cross-subsidization by monopolists seeking to enter com- 
+petitive markets has also been borne out by the courts’ 
+experience with the antitrust suit that resulted in the 
+breakup of the Bell System. Cross-subsidization by LECs 
+formerly affiliated with the Bell System has been a prin- 
+cipal issue throughout that litigation, in which the district 
+court found that exclusion of those LECs from certain 
+lines of business was necessary to prevent anti-competitive 
+conduct by them.” Section 533(b) is also effective at 
+preventing LECs from abusing their control over facili- 
+ties to discriminate against competitors. By completely 
+excluding LECs from cable programming in their service 
+areas, the bar removes the incentive for them to discrim- 
+inate against their competitors in that business. 
+
+The district court suggested (Pet. App. 102a-104a), 
+however, that Section 533(b) cannot prevent anti- 
+competitive behavior by LECs because the bar does not 
+prohibit them from transporting video signals over cable 
+systems to subscribers, as long as they do not also par- 
+ticipate in the selection of the video programming 
+
+
+15 See, e.g., Public Utility Holding Company Act of 1935, 15 
+U.S.C. 79a(a) and (b); Bank Holding Company Act of 1956, 12 
+U.S.C. 1841 et seq.; see also NCCB, supra (upholding FCC restric- 
+tions on cross-ownership of newspapers and broadcast stations in 
+same community); United States v. Storer Broadcasting Co., 351 
+U.S. 192, 198 (1956) (upholding FCC regulation limiting number 
+of broadcast licenses that any one person could acquire). 
+
+
+16 See 1984 House Report 32-83; United States v. American Tel. 
+& Tel. Co., 524 F. Supp. at 1368-1369; United States v. American 
+Tel. & Tel. Co., 552 F. Supp. at 188-191. 
+
+
+26 
+
+
+transmitted over the cable systems.’ The district court 
+questioned why Congress would have allowed LECs to 
+participate in the video transport market, if it was con- 
+cerned about the misallocation of costs of facilities 
+common to telephone and video transport operations. See 
+Pet. App. 103a-104a & n.31. 
+
+The district court failed to appreciate several points 
+about the justification for Section 533(b). First, as the 
+1981 FCC staff report noted (J.A. 56 n.34), LECs’ in- 
+centive and ability to cross-subsidize are significantly 
+diminished when they transport video programming in the 
+manner of common carriers for unaffiliated entities. State 
+regulators can limit LECs’ revenues from such operations 
+under traditional rate-of-return principles applicable to 
+common carriers. 
+
+Second, the lucrative video programming market makes 
+entry into the cable business particularly attractive to 
+LECs. Once in that market, LECs could compete un- 
+fairly through their ability to cross-subsidize their video 
+transport facilities. The evidence presented to the dis- 
+trict court established that LECs’ incentives to cross- 
+subsidize and to discriminate would be “greatly enhanced 
+if [they] are also allowed to exploit monopoly control 
+of video transmission by earning excess profits in video 
+programming.” J.A. 332 (Owen reply affidavit). See also 
+C. Edwin Baker, Merging Phone and Cable, 17 Hastings 
+Comm. & Ent. L.J. 97, 133 (1994) (“If allowed to pro- 
+vide programming, [LECs’] power in the video transport 
+market would allow them to exercise undue power in the 
+
+
+17 The FCC has consistently taken the position that the cross- 
+ownership bar does not prohibit LECs from offering “channel 
+service,” under which LECs may build and operate cable facilities 
+for the physical transport of video signals but play no role in 
+the selection of the video programming offered on those facilities. 
+Further Notice of Inquiry, 3 F.C.C. Red at 5857. In essence, a 
+LEC offering channel service owns the cable system but leases it to 
+unaffiliated cable operators. 
+
+
+27 
+
+
+video programming market and would increase the value 
+to the phone company of monopolizing transport.”). The 
+FCC has also recognized that Section 533(b) protects 
+“competition in the provision of [cable] services and 
+facilities” (i.e., programming and transmission) by “surely 
+reduc[ing] [LECs’] incentive and ability to engage in anti- 
+competitive conduct in [their] service areas.” Further 
+Notice of Inquiry, n.8, supra, 3 F.C.C. Red at 5864. 
+Therefore, the fact that Section 533(b) permits LECs to 
+enter the video transport market without control over pro- 
+gramming is not a flaw in the economic theory underlying 
+the cross-ownership bar, but a recognition that there is 
+less opportunity or incentive for anti-competitive behavior 
+when LECs are confined to carrying others’ programming 
+in a role similar to their traditional one as common car- 
+riers. See Baker, supra, at 132 (“As long as the phone 
+company cannot itself offer cable programming, it has no 
+incentive tc drive cable companies out of business.” ). 
+
+
+B. Section 533(b) Is Narrowly Tailored 
+
+
+1. The court of appeals invalidated Section 533(b) 
+because it concluded that a less restrictive alternative 
+would be equally effective to prevent anti-competitive 
+behavior by LECs; it suggested that the cross-ownership 
+bar could be replaced by an arrangement under which 
+LECs would be permitted to operate a cable system but 
+would be restricted to editorial control of a fixed per- 
+centage of the channels on that system. Pet. App. 47a- 
+48a. The court of appeals also criticized Congress and 
+the FCC for not making any “underlying factual find- 
+ings” to support their implicit conclusion that less sweep- 
+ing regulatory alternatives would not effectively achieve 
+the government's interests. Jd. at 45a-47a. In the ab- 
+sence of such findings, the court declined to “accede to 
+Congress’ judgment” that the bar is necessary to achieve 
+those interests. Id. at 40a-41a. 
+
+
+28 
+
+
+The court of appeals’ disagreement with Congress’s 
+choice of a cross-ownership bar cannot be reconciled with 
+this Court’s “intermediate scrutiny” decisions, which re- 
+quire considerably more deference to Congress’s judgment 
+that the particular approach chosen for the regulation of 
+the cable market is necessary to prevent anti-competitive 
+abuse effectively. See Clark, 468 U.S. at 299. This Court 
+has made clear that a content-neutral regulation “need not 
+be the least restrictive or least intrusive means of [achiev- 
+ing the government’s interest]. Rather, the requirement 
+of narrow tailoring is satisfied ‘so long as the . . . regu- 
+lation promotes a substantial government interest that 
+would be achieved less effectively absent the regulation.’ ” 
+Ward, 491 U.S. at 798-799 (footnote omitted); Turner, 
+114 S. Ct. at 2469-2470. 
+
+The Court has also stressed that it is “loath to second- 
+guess the Government’s judgment” of narrow tailoring. 
+See Board of Trustees v. Fox, 492 U.S. 469, 478 (198)). 
+Thus, what narrow tailoring requires in this context 3 a 
+“* “fit” between the legislature’s ends and the meas 
+chosen to accomplish those ends,’ a fit that is not neces- 
+sarily perfect, but reasonable; that represents not neces- 
+sarily the single best disposition but one whose scope is 
+‘in proportion to the interest served|.}' * * * Within those 
+bounds [the courts must] leave it to governmental! deci- 
+sionmakers to judge what manner of regulation may best 
+be employed.” Jd. at 480 (citations omitted)."* Given 
+the difficulty of finding a solution to the economic prob- 
+lems that Congress perceived in LEC participation in the 
+cable market, the First Amendment affords Congress “a 
+
+
+18 Although Foz was a commercial speech case, that decision 
+states that the requirement of narrow tailoring for regulation of 
+commercial speech is “substantially similar” to the same require- 
+ment for content-neutral time, place, and manner regulations of 
+non-commercial speech. 492 U.S. at 477-478: see San Francion 
+Arts & Athletics, Inc. v. United States Olympic Comm... 488 US 
+522, 537 n.16 (1987). 
+
+
+eater eth 2 tlh 
+it PHATE Hi uit geet tly 
+) th ii flat ti 1 gt 
+fe Hi ib Hi i 
+if Hi lf Pi iat it 
+THe al allt TH 
+
+
+|: ii! 
+
+
+ne 
+
+
+i : He it 
+
+
+THE 
+
+
+PAH byt 
+
+
+it Het 
+at it 
+
+
+op 
+il Nt bene 
+
+
+. 
+
+
+ad 
+
+
+het 
+43] 
+
+
+a 
+
+
+i ae 
+
+
+3 
+
+
+iu é 
+
+
+gges 
+ity 
+
+
+4 
+
+
+HH 
+
+
+i 
+1 
+
+
+val fit 
+
+
+32 
+
+
+stressing complexity of accounting rules), 266-268 (Owen 
+affidavit, stressing same) .™ 
+
+Congress drew the “reasonable inferenc[e]” that the 
+bar is necessary from “substantial evidence.” Turner, 
+114 S. Ct. at 2471 (plurality opinion). Congress en- 
+acted Section 533(b) in 1984 against a background that 
+included the 1981 FCC staff study and the recent 
+
+
+21 Respondents have pointed out that the FCC and other agen- 
+cies have recommended that Congress replace the cross-ownership 
+bar with regulatory safeguards such as accounting rules and struc- 
+tural separation of telephone and cable affiliates, and have sug- 
+gested that those safeguards would be adequate to prevent cross- 
+subsidization. The FCC and the Department of Justice, relying 
+in part on regulatory safeguards, also supported modification 
+of the Bell System entitrust consent decree to remove the pro- 
+hibition on provision of information services by the former Bell- 
+System LECs. See J.A. 337-360; United States v. Western Elec. 
+Co., 993 F.2d 1572 (D.C. Cir.), cert. denied, 114 S. Ct. 487 (1993). 
+Those agencies have not stated, however, that there would be no 
+risk of discrimination or cross-subsidization if LECs were per- 
+mitted to provide video programming, or that reasonable minds 
+could not differ about the need for exclusion from a market, rather 
+than regulatory safeguards, to prevent anti-competitive abuse effec- 
+tively. Cf. National Rural Telecom Ass’n, 988 F.2d at 180 (noting 
+FCC’s acknowledgment that various regulatory alternatives are 
+not “ironclad guarantees against cost shifting”). The FCC has 
+concluded, rather, that the risk of abuse by LECs in the cable 
+market is outweighed by the potential benefits served by their 
+entry into that market (Video Dialtone Order, 7 F.C.C. Red at 
+5849), and it continues to believe that some regulatory safeguards 
+would be necessary to contain abuses by LECs (id. at 5847-5851). 
+See also Statement of Assistant Attorney General Anne K. Binga- 
+man Before the Senate Commerce Committee 14-17 (Mar. 2, 1995) 
+(lodged with the Clerk) (stressing that restrictions on LECs’ 
+competition with cable systems should be removed in conjunction 
+with restrictions on competition by cable systems and others in 
+provision of local telephone service). Nor is it unusual for federal 
+agencies and Congress to disagree about the costs and benefits of a 
+particular policy. Since the issue in this case is the permissibility 
+of Congress's predictive judgment that exclusion from the cable 
+market is necessary to prevent abuse by LECs, that is the judgment 
+to which the courts owe substantial deference. See pp. 27-29, supra. 
+
+
+33 
+
+
+breakup of the Bell System. Its decision to exclude LECs 
+from the cable market relied on the district court’s con- 
+clusion in the Bell antitrust suit that exclusion of the 
+Bell-System LECs from other lines of business was nec- 
+essary to prevent cross-subsidization. See /984 House 
+Report 33. When Congress returned to the issue in the late 
+1980s and early 1990s, it had a warning from the GAO 
+about serious practical difficulties in containing cross- 
+subsidization of new lines of business by LECs. See 
+J.A. 79-101. Congressional committees also heard testi- 
+mony from parties opposing repeal of the bar that regula- 
+tion could not effectively prevent LECs from engaging in 
+anti-competitive behavior, and that entry of LECs into 
+the cable services market would exacerbate structural 
+problems with that market.” Those interests also brought 
+to Congress’s attention the first GAO Report and court 
+decisions calling into question the efficacy of alternative 
+
+
+22 Cable-Instructional TV and S. 1200, Communications Com- 
+petitiveness and Infrastructure Modernization Act of 1991: Hear- 
+ing Before the Subcomm. on Communications of the Senate Comm. 
+on Commerce, Science, and Transportation, 102d Cong., 2d Sess. 115- 
+139 (1992); Cable Television Regulation: Hearings Before the 
+Subcomm. on Telecommunications and Finance of the House Comm. 
+on Energy and Commerce, 102d Cong., 1st Sess. 206-211, 538-602, 
+617-635, 699-704, 727-745 (1991) ; Communications Competitiveness 
+and Infrastructure Modernization Act of 1990: Hearing Before 
+the Subcomm. on Communications of the Senate Comm. on Com- 
+merce, Science, and Transportation, 101st Cong., 2d Sess. 61-84, 
+89-125, 126-134, 177-194 (1990); Cable TV Consumer Protection 
+Act of 1989: Hearings Before the Subcomm. on Communications 
+of the Senate Comm. on Commerce, Science, and Transportation, 
+101st Cong., 2d Sess. 288-239, 341-355, 559-560 ( 1990); Cable 
+Television Regulation (Part 1): Hearings Before the Subcomm. 
+on Telecommunications and Finance of the House Comm. on Energy 
+and Commerce, 101st Cong., 2d Sess. 436-451, 464-474 (1990): 
+Cable Television Regulation (Part 2): Hearing Before the Sub- 
+comm. on Telecommunications and Finance of the House Comm. on 
+Energy and Commerce, 101st Cong., 2d Sess. 98-99, 114-121 (1990). 
+
+
+34 
+
+
+safeguards such as accounting rules.” The Senate Com- 
+merce Committee, which in 1990 examined in detail the 
+arguments for and against repeal of Section 533(b), con- 
+cluded it “could not at the present time support repeal[,] 
+* * * because of concerns about the potential for anti- 
+competitive practices by telephone companies and the 
+need to ensure media diversity.” 1990 Senate Report 
+8-9: see also 199] Senate Report 46-47.** 
+
+Given the difficulties in monitoring cost-shifting by 
+LECs, the court of appeals understandably accepted, 
+areguendo, that accounting safeguards would not be suffi- 
+cient to prevent that abuse. Pet. App. 45a; see id. at 
+106a (same assumption by district court). Nevertheless, 
+the court of appeals suggested that “Congress could sim- 
+ply limit [LECs’] editorial control over video program- 
+ming to a fixed percentage of the channels available; 
+(LECs} would be required to lease the balance of the 
+channels on a common carrier basis to various video pro- 
+grammers, without regard to content.” Id. at 47a-48a. 
+That suggestion does not solve the problem identified by 
+Congress, however, because LECs could still transfer the 
+
+
+= Cable Television Regulation: Hearings Before the Subcomm. 
+" Telecommunications ond Finance of the House Comm. on Buergy 
+ond Commerce, 102d Cong. Ist Sess. 683, 743 (1991); Communi- 
+aftvons Competitrveness ond Infrastructure Modernisation Act of 
+990 «Hearing Before the Subcomm. on Communications of the 
+Senate Comm. on Commerce, Science, and Transportation, 10)ct 
+ong. 2d Seas. 62, 69. 96-97, 119-120 (1990). 
+
+
+™ Regulators continue to find evidence of cost-shifting by LECa 
+4 1988 FCC sodit tentatively concluded that NYNEX Corporation 
+nad engaged in «a pattern of croes-eubsidization of unregulated 
+*)ates involving more than $100 million. /s re New York Tel. 
+
+SPCC Red 666, 866-869 1990) NYNEX later entered into 
+a consent decree with the FCC, in which it admitted no liability bet 
+agreed to make adjustments to its books and to make « voluntary 
+ontribetion of $1.419.000 to the United States Treasury /s +e 
+Vew York Te Co. 5 FCC. Red S802 (1900) See alee JA 260 
+~2 Owen afider't. deerribing similar Qndings of LECs’ cross 
+cube dization by state oetility regulators 
+
+
+ble the 
+cable system over which they did, and did not, maintain 
+editorial control. Finally, choosing the precise percentage 
+of editorial control over a cable system that would simul- 
+taneously contain LECs’ incentive to cross-subsidize but 
+
+
+36 
+
+
+them great economic power competitors needing 
+those facilities that could be abused. It could be diffi- 
+
+
+develop less restrictive prophylactic rules to prevent it. 
+See J.A. 73-74 (FCC staff study); 231-233 (Robinson 
+affidavit, discussing difficulties in preventing discrimina- 
+tion by LECs in access to their facilities). 
+
+For example, a typical licensing agreement between 
+respondents’ Virginia LEC and a cable carrier granting 
+access to the LEC’s poles and conduits gives the telephone 
+company discretion to determine whether space is avail- 
+able on a pole and conduit system for cable attachments, 
+to refuse access if it would interfere with the quality of 
+telephone communications or other utility facilities al- 
+ready in place, and to decide exactly where cable attach- 
+ments should be placed. The cable operator is also re- 
+quired to obtain the LEC’s permission to carry out main- 
+tenance of the cable attachments. J.A. 104, 108, 109- 
+110. LECs could abuse such provisions to frustrate their 
+competitors’ ability to reach their customers and to keep 
+their equipment adequately maintained, even though the 
+provisions might appear proper to allow LECs to main- 
+tain the quality of their own equipment. 
+
+In the case of access to the telephone network for trans- 
+
+
+37 
+
+
+plans and other proprietary information. See J.A. 268- 
+269 (Owen affidavit); cf. California v. FCC, 39 F.3d 
+919, 927-931 (9th Cir. 1994) (stressing danger of such 
+discrimination in LECs’ participation in information serv- 
+ices market). 
+
+While a law prohibiting discrimination might declare 
+such practices illegal, it could be difficult for competitors 
+or the government to prove that LECs had abused their 
+
+
+supervisory 
+could be necessary to police LECs’ control over the net- 
+
+
+reasonable for Congress to have chosen a cross-ownership 
+bar instead. See Ward, 491 U.S. at 800. A bar on LEC 
+ownership of cable systems in their service areas requires 
+little administrative supervision, and it is completely effec- 
+tive in preventing discrimination. By excluding LECs 
+from the local cable market, it removes entirely their in- 
+centive to discriminate against competitors in the cable 
+business. 
+
+
+As the district court observed, LECs “are by no means 
+‘silenced’ by the operation of [Section] 533(b).” Pet. 
+
+
+systems in their service areas), establish multichannel 
+direct broadcast satellite systems, and create program- 
+
+
+38 
+ming for cablecast on cable channels carried by unaffil- 
+iated cable systems. Thy are ce equa otto Gua 
+outside their common-carrier service areas. See pp. 30- 
+31, supra. The assertion that »<ction 533(b) excludes 
+LECs from “an entire medium of expression” (Resp. 8 
+n.9) is incorrect. 
+
+
+any community by operating a local broadcast television 
+station, which would be carried over cable systems under 
+the 1992 Cable Act's must-<arry rule, or by operating a 
+direct broadcast satellite system. See p. 30, supra. But 
+in any event, the Court has rejected the contention that 
+the First Amendment includes a “guarantee” of reach- 
+ing an audience in a particular way. In Heffron v. Inter- 
+national Society tor Krishna Consciousness, Inc., 452 US. 
+640 (1981), the Court upheld a restriction limiting the dis- 
+
+
+: 
+E 
+; 
+E 
+| 
+
+
+cate their messages to the general public in video format, 
+both within and outmde their service areas, only ome mode 
+~ delivery m specific places is denied w them, because 
+~ the potental anf<ompetitrve economic consequences 
+their using that mechanism im those places. There is 
+no “barrier to delivering t© the media. or to the public 
+by other means” (Clart. 468 US. at 295). any message 
+
+
+39 
+
+
+lt THE FCCS THIRD REPORT AND ORDER ELIMI- 
+NATES ANY DOUBTS ABOUT THE CONSTITU- 
+TIONALITY OF SECTION 533(b) 
+
+
+; As we have argued, a restriction on LECs’ participation 
+
+
+(Pet. Supp. App. la-21la), authoritatively construing the 
+waiver authority delegated to it by Congress in Section 
+533(b)(4), eliminates the constitutional objections to 
+the statutory regime raised by the court of appeals. The 
+FCC’s construction of Section 533(b)(4), which was not 
+available to the court of appeals,” makes clear that Sec- 
+tion 533(b), as a whole, is narrowly tailored and leaves 
+open ample channels of communication to LECs. It 
+
+
+i 
+c 
+“il 
+i 
+
+
+and it will “routinely” grant waivers of the cross- 
+bar, under Section 533(b)(4), to LECs that 
+™ For that reason. we suggested at the petition stage that the 
+
+
+Court waeste the judgment of the court of appeals and remand 
+the case to that court for further consideration ‘Pet. Supp. Br. 7). 
+
+
+40 
+
+
+agree to abide by those safeguards in their video dialtone 
+systems, Pet. Supp. App. 19a. 
+
+The FCC observed that Section 533(b)(4) gives it 
+authority to grant waivers for “good cause,” a phrase that 
+is “commonly associated with changed circumstances.” 
+Pet. Supp. App. lla. It concluded that the growth of the 
+cable industry and the dramatic technological advances in 
+the delivery of video programming since 1984 are 
+“changed circumstances” sufficient to constitute “good 
+cause,” within the meaning of the statute. It also found 
+that those changed circumstances have mitigated the 
+threat to competition that animated the cross-ownership 
+bar to such a degree that greater entry by LECs into 
+the video programming market will not undermine the 
+objectives of the statute as a whole. /d. at 1la-12a. 
+
+Indeed, the FCC concluded that a construction of Sec- 
+tion 533(b)(4) to permit LECs to provide video pro- 
+gramming on video dialtone networks will advance the 
+policies of Section 533(b)—competition and diversity in 
+communications. Pet. Supp. App. 13a. The FCC noted 
+that its video dialtone regulatory framework requires 
+a common carriage element, such that LECs offering 
+video dialtone service must make capacity available to 
+other, unaffiliated programmers. Thus, it concluded, LEC 
+provision of video dialtone “promotes both competitive 
+and free speech interests by making room for more than 
+one speaker.” Ibid. 
+
+The FCC also rested its construction of Section 533 
+(b)(4) on the fact that the construction obviates the pur- 
+ported constitutional problems that the courts have iden- 
+tified in Section 533(b). Pet. Supp. App. 14a-16a. Heed- 
+ing this Court’s admonition that “a statute is to be con- 
+strued where fairly possible so as to avoid [substantial] 
+constitutional questions,” id. at 16a (quoting United 
+States v. X-Citement Video, Inc., 115 §S. Ct. 464, 467 
+(1995)), the FCC concluded that its reading of the stat- 
+ute, by permitting greater LEC participation in video 
+
+
+41 
+
+
+programming, would “eliminate [the constitutional] 
+doubts” that have been suggested but would not be 
+“plainly contrary to the intent of Congress.” /bid. (quot- 
+ing X-Citement Video, 115 S. Ct. at 472). 
+
+Finally, the FCC noted that its construction does not 
+raise any of the constitutional concerns that have been 
+associated with waiver provisions in other First Amend- 
+ment contexts. See Pet. Supp. App. |7a-18a. It stressed 
+that its construction does not lodge any discretion 
+in any official to grant or deny a waiver based on the 
+content of the speech, but rather provides blanket author- 
+ization to offer programming by video dialtone, upon 
+compliance with regulations to be published that wil! be 
+designed to prevent anti-competitive conduct. Accord- 
+ingly, the FCC observed, there is no “threat of censor. 
+ship that by its very existence chills free speech.” /d. at 
+18a-19a. 
+
+2. The FCC's authoritative construction of Section 
+533(b)(4) removes the constitutional doubts about Sec- 
+tion 533(b) that were raised by the court of appeals. 
+Under the operation of the statute as a whole, including 
+Section 533(b)(4) as now interpreted, LECs will “have 
+abundant opportunities to speak.” Pet. Supp. App. 15a. 
+The FCC has established that the door is open for LECs 
+to use their video dialtone systems in the manner of a 
+cable system, to distribute multiple channels of their own 
+programming, as well as the programming of others, 
+selected with editorial control. While its construction 
+does not permit LECs to take over incumbent monopolist 
+cable operators (id. at |6a-17a), that limitation does not 
+prevent LECs from offering. on a video dialtone system. 
+the same programming that could be offered on a tradi- 
+tional cable system. LECs therefore have “ample al- 
+ternative modes of communication™ at their disposa! 
+Vincent, 466 US. at 812." 
+
+
+™ The limitation is also consistent with the statute's goal of 
+and Congress's significant interest in preventing the extension 
+
+
+42 
+
+
+The FCC’s construction also removes any objections 
+to the tailoring of the congressional regime. LECs may 
+enter the market for distribution of multichannel video 
+programming, on the condition that they also set aside a 
+significant portion of the video dialtone network for dis- 
+tribution of other programmers’ video speech on a com- 
+mon carriage basis. Pet. Supp. App. 14a-15a. That is 
+precisely the “obvious less-burdensome alternative” iden- 
+tified by the court of appeals as preferable to Congress’s 
+exclusion of LECs from the cable market. See Pet. App. 
+47a-48a. 
+
+Given their opportunity to disseminate video program- 
+ming on video dialtone networks, respondents cannot, as 
+defenders of the court of appeals’ facial invalidation of 
+the statute, “establish that no set of circumstances exists 
+under which [Section 533(b)] would be valid.” United 
+States Vv. Salerno, 481 U.S. 739, 745 (1987). Under the 
+FCC’s waiver authority, moreover, respondents will obtain 
+their principal objective, the ability to develop a video 
+dialtone system on their own telephone network for the 
+transmission of their own programming. See J.A. 13, 15 
+(complaint). What LECs have not obtained through the 
+FCC’s construction of its waiver authority is the right to 
+purchase incumbent cable operators. But Congress and 
+the FCC have reasonably concluded, after their “lengthy 
+investigation of the relationship between the cable and 
+[telephone] industries” (see Turner, 114 S. Ct. at 2475 
+(Stevens, J., concurring in part and concurring in the 
+judgment) ), that to permit LECs to do so would involve 
+too great a risk of extending their telephone monopoly 
+to the cable market. Their decision furthers the “basic 
+tenet of national communications policy’—that “the 
+
+
+of LECs’ telephone monopolies into the cable market, and with 
+the FCC’s policy of promoting diversity in communications media 
+by encouraging the development of video dialtone as another outlet 
+for video speech. See Video Dialtone Order, 7 F.C.C. Red at 5783. 
+
+
+43 
+
+
+widest possible dissemination of information from diverse 
+and antagonistic sources is essential to the welfare of the 
+public.” Jd. at 2470 (opinion of the Court). 
+
+
+CONCLUSION 
+The judgment of the court of appeals should be 
+
+
+reversed. 
+
+
+Respectfully submitted. 
+
+
+Drew S. Days, III 
+
+
+Solicitor General 
+GEORGE J. PHILLIPS 
+Acting Assistant 
+Attorney General 
+LAWRENCE G. WALLACE 
+Deputy Solicitor General 
+PAUL R.Q. WOLFSON 
+WILLIAM E. KENNARD Assistant to the 
+General Counsel Solicitor General 
+CHRISTOPHER J. WRIGHT DOUGLAS N, LETTER 
+Deputy General Counsel MARK B. STERN 
+Federal Communications BRUCE G. FORREST 
+Commission Attorneys 
+AUGUST 1995 
+
+
+W ©. ©. GOVERNMENT PRINTING Office, 905 
+
+
+367147 201086 
+
+

@@ -1,0 +1,651 @@
+“ae Baie 
+Riss 
+: MAY <0 
+No. 94-1809 ) 
+ee 
+IN THE nents 
+
+
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1994 
+
+
+MATSUSHITA ELECTRIC INDUSTRIAL Co., LTD. and 
+MATSUSHITA HOLDING CORPORATION, 
+Petitioners, 
+V. 
+LAWRENCE EPSTEIN, ef al., 
+Respondents. 
+
+
+MATSUSHITA ELECTRIC INDUSTRIAL COo., LTD. and 
+MATSUSHITA HOLDING CORPORATION, 
+Petitioners, 
+V. 
+WALTER MINTON, 
+Respondent. 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF 
+APPEALS FOR THE NINTH CIRCUIT 
+
+
+PETITIONERS’ REPLY BRIEF 
+
+
+GEOFFREY C. HAZARD, JR. BARRY R. OSTRAGER 
+
+Of Counsel Counsel of Record 
+
+Trustee Professor of Law SIMPSON THACHER & BARTLETT 
+University of Pennsylvania (a partnership which includes 
+3400 Chestnut Street professional corporations) 
+Philadelphia, Pennsylvania 19104 425 Lexington Avenue 
+
+(215) 898-7494 New York, New York 10017 
+
+
+(212) 455-2000 
+
+
+Attorneys for Matsushita Electric Industrial Co., Ltd. 
+and Matsushita Holding Corporation 
+
+
+vt 
+
+
+TABLE OF CONTENTS 
+
+
+I. THE NINTH CIRCUIT HAS CREATED A NEW 
+RULE OF STATE-FEDERAL PRECLUSION 
+THAT VIOLATES PRINCIPLES OF 
+FEDERALISM AND FRUSTRATES CLASS 
+ACTION SETTLEMENTS ..................25: 
+
+
+Il. TENDER OFFERS REQUIRE CERTAINTY 
+REGARDING THE PARAMETERS OF 
+EE EE S064 005 ced eugavenee6¥é0 eevee: 
+
+
+III. THE NINTH CIRCUIT HAS CREATED A NEW 
+AND IMPROPER STANDARD FOR IMPLYING 
+PRIVATE RIGHTS OF ACTION ................ 
+
+
+SE 6-6 05.0600 60005 60450006400 saceboneees 
+
+
+ii 
+RULE 29.1 STATEMENT 
+Pursuant to Sup. Ct. R. 29.1, Petitioners Matsushita Elec- 
+tric Industrial Co., Ltd. and Matsushita Holding Corporation 
+
+
+hereby state that their only parent or subsidiary that is not 
+wholly-owned is Cineplex Odeon Corporation. 
+
+
+Settee 
+
+
+TABLE OF AUTHORITIES 
+Page 
+
+Cases 
+Field v. Trump, 850 F.2d 938 (2d Cir. 1988), cert. 
+
+GI, GED Gy BBG CIGD occ cccccccccccccccccce. 7,8 
+Grimes v. Vitalink Communications Corp., 17 F.3d 1553 
+
+(3d Cir.), cert. denied, 115 S. Ct. 480 (1994) .......... 4,5 
+Kramer v. Time Warner, Inc., 1990-91 Fed. Sec. L. Rep. 
+
+(CCH) 95,619 (S.D.N.Y. 1990), aff'd, 937 F.2d 767 
+
+ER TEER Rt a a i 7 
+Kramer v. Time Warner, Inc., 937 F.2d 767 
+
+ESE NR I aR a a 7 
+Marrese v. American Acudemy of Orthopaedic Surgeons, 
+
+ee 4 
+Miller v. Electric Auto-Lite Co., 396 U.S. 375 i cedenve 3 
+Nottingham Partners v. Trans-Lux Corp., 
+
+ee 2, 4, 5 
+Parsons Steel, Inc. v. First Alabama Bank, 
+
+| ET 3,4 
+Pinter v. Dahl, 486 U.S. 622 (1988) ..................... 7 
+Pryor v. United States Steel or 794 F.2d 52 
+
+(2d Cir.), cert. denied, 479 U.S. 954 (1986) ............. x 
+Sandler Associates, L.P. v. BellSouth Corp., 818 F. Supp 
+
+695 (D. Del. 1993), fre without ?: 26 F.3d 123 
+
+(3d Cir.), cert. denied, 115 S. Ct. 481 (1994) .......... 4,5 
+
+
+Schreiber v. Burlington Northern, Inc., 472 US. | (1985) ....7 
+Touche Ross & Co. v. Redington, 442 U S. 560 tT tees 3 
+Underwriters National Assurance Co. v. North Carolina 
+= & tee & Health Ins. Guar. Assoc., 455 U.S. . 
+EARS URE eek ede oneness cccee 
+
+
+Virginia Bankshares, Inc. v. Sandberg, 
+RE 5 
+
+
+IV 
+
+
+Statutes and Regulations 
+17 C.F.R. § 240.14d-2 (SEC Rule 14d-2) ................. 
+
+
+17 C.F.R. § 240.14d-10 (SEC Rule 14d-10) ........... passim 
+
+
+1S U.S.C. § 78m(d)(1) (Section 13(d)(1))...... 2 6. ee ee eee 
+15 U.S.C. § 78n(d)(6) (Section 14(d)(6)) ....... 6... ee eee. 
+
+
+15 U.S.C. § 78n(d)(7) (Section 14(d)(7)) ............. passim 
+
+
+15 U.S.C. § 78p(b) (Section 16(b)) ... 6 6. 6 eens 
+
+
+Be Wes OF PGE Ke ducecianeeWeccesctctascacactet passim 
+
+
+BD OLE B GREED ccc cccccdccccccccecevcoccccccecess 
+
+
+Other Authorities 
+
+
+Canoga Industries, 1976 SEC No-Act. LEXIS 606 
+Sn Uh Cn vecacductecavuduheaceebsecueaneued &t6% 
+
+
+Guthrie Corp., 1975 SEC No-Act. LEXIS 1316 
+i Ce ea. ee eee i. sendwe at 
+
+
+W.R. Grace & Co., 1975 SEC No-Act. LEXIS 749 
+ee I fe es on ee gels at 
+
+
+Books and Periodicals 
+
+
+John C. Coffee, Jr., Suspect Settlements in Securities 
+Litigation, N.Y.L.J., at 5 (Mar. 28, 1991)............4.4.. 
+
+
+Stern, Gressman, Shapiro & Geller, Supreme Court 
+POD Coen Ge UE Sc ceccbcnccendcescccccoccesces 
+
+
+17 Wright, Miller & C t, Federal Practice and 
+ee ekeneeeenaeday 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+OCTOBER TERM, 1994 
+
+
+MATSUSHITA ELECTRIC INDUSTRIAL Co., LTD. and 
+MATSUSHITA HOLDING CORPORATION, 
+Petitioners, 
+Vv. 
+LAWRENCE EPSTEIN, ef ai., 
+
+
+Respondents. 
+
+
+MATSUSHITA ELECTRIC INDUSTRIAL Co., LTD. and 
+MATSUSHITA HOLDING CORPORATION, 
+
+
+Petitioners, 
+Vv 
+
+
+WALTER MINTON, 
+Respondent. 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF 
+APPEALS FOR THE NINTH CIRCUIT 
+
+
+PETITIONERS’ REPLY BRIEF 
+
+
+The Ninth Circuit's opinion announced new legal principles 
+of broad applicability concerning (1) the balance of authority 
+between state and federal courts, (2) the implication of private 
+rights of action under administrative rules, and (3) the nature of 
+the event that triggers federal tender offer regulation. Each of 
+these new legal principles puts the Ninth Circuit in irreconcilable 
+conflict with the established law of other circuit courts: 
+
+
+* In conflict with the law of the First and Third Circuits, the 
+Ninth Circuit refused to give Full Faith and Credit to a state 
+court judgment entered upon a class action settlement, utilizing 
+an analysis that jeopardizes all comprehensive settlements of 
+State court class actions which involve the compromise of both 
+state and exclusively federal claims. Petition for a Writ of 
+Certiorari (“Pet.”) at 10-17. 
+
+
+2 
+
+
+* In conflict with the law of the District of Columbia, Third, and 
+Sixth Circuits, the Ninth Circuit held that an agency rule 
+promulgated pursuant to an enabling statute that has been held 
+to be privately enforceable automatically will have a private 
+right of action. Pet. at 17-21. 
+
+
+* In conflict with the law of the Fourth Circuit (and uniform 
+SEC authority), the Ninth Circuit transformed a precise and 
+well understood tender offer regulation into an amorphous rule, 
+thereby eliminating the predictability necessary to structure 
+tender offers. Pet. at 21-24. 
+
+
+Far from merely resolving a “unique” factual dispute, the Ninth 
+Circuit's enunciation of these new legal principles has generated 
+extraordinary uncertainty in a number of legal arenas. 
+
+
+Respondents suggest that the Court look past this case on 
+the strength of their representation that the Delaware settlement 
+was the product of a corrupt state bar and judiciary. Epstein 
+Brief in Opposition (“Epstein Opp.”) at 15-26. Yet Respondents 
+concede that such was not the basis of the Ninth Circuit's 
+decision. Jd. at 5, 22. The Ninth Circuit's opinion urgently 
+requires review because it provides circuit court authority to 
+upset state court approved class action settlements releasing both 
+state and federal claims regardless of the adequacy of class 
+representation or level of judicial review to which the settlement 
+was subjected.! 
+
+
+This petition is not premature. Contrary to Respondents’ 
+suggestion that further district court proceedings may “moot or 
+reshape” the Ninth Circuit's holdings, Epstein Opp. at 3, the 
+Ninth Circuit's decision has established novel and far reaching 
+legal principles, none of which can be altered by proceedings on 
+
+
+' The adequacy of representation and notice to the class were litigated in the 
+Delaware Chancery Court, which held that both were adequate. See App. 
+73a-74a. These findings are entitled to preclusive effect. See, ¢.g., Notting- 
+ham Partners v. Trans-Lux Corp., 925 F.2d 29, 32 (ist Cir. 1991). In any 
+event, as Respondents concede, the Ninth Circuit's holding is not predicated 
+on these issues. Respondents are, in addition, barred from now attacking the 
+Delaware proceedings as a result of their Strategic decision to absent them- 
+selves from those proceedings. See, e.g, Underwriters Nat'l Assurance Co. v. 
+North Carolina Life & Accident & Health Ins. Guar. Assoc., 455 U.S. 691, 
+710 (1982). 
+
+
+te SP te 
+
+
+3 
+
+
+remand. The court of appeals entered summary judgment for 
+Respondents and held that Matsushita had violated Rule 14d-10 
+as a matter of law. Thus, the Ninth Circuit has conclusively 
+resolved the substantive liability issues with respect to Mr. Was- 
+serman’s receipt of Matsushita preferred stock, leaving only an 
+assessment of damages for determination on remand.? 
+
+
+I. THE NINTH CIRCUIT HAS CREATED A NEW RULE 
+OF STATE-FEDERAL PRECLUSION THAT 
+VIOLATES PRINCIPLES OF FEDERALISM AND 
+FRUSTRATES CLASS ACTION SETTLEMENTS 
+
+
+Respondents’ opposition briefs fail to address each of the 
+following points: 
+
+* The Ninth Circuit disregarded the provision of the Full Faith 
+and Credit Act that required the Ninth Circuit to give the 
+Delaware judgment approving the class action settlement the 
+same preclusive effect that a Delaware court would give it. See, 
+e.g., Parsons Steel, Inc. v. First Alabama Bank, 474 U.S. 518, 
+525 (1986); Pet. at 10. 
+
+
+* Delaware courts would have enforced the release embodied in 
+the judgment and precluded further prosecution of any claims 
+encompassed in the release by any class members who did not 
+opt out of the Delaware settlement. Pet. at 10-11 & n.6.3 The 
+
+
+[Supreme Court procedural metadata omitted from this copy.]
+
+
+> Professor Coffee's article, Suspect Settlements in Securities Litigation, N.Y. 
+L. J. at 5, col. 1 (Mar. 28, 1991), upon which Respondents heavily rely 
+(Epstein Opp. at 25-26), addresses non opt out settlements. But the judgment 
+to which the Ninth Circuit refused to afford full faith and credit involved an 
+opt out settlement. 
+
+
+4 
+
+
+Ninth Circuit, however, never addressed Delaware preclusion 
+law—a per se reversible error. See, e.g., Marrese v. American 
+Academy of Orthopaedic Surgeons, 470 U.S. 373, 387 (1985); 
+Pet. at 10. : 
+
+
+* Respondents also fail to address the central inquiry of a preclu- 
+sion analysis: whether the federal securities laws create an 
+implied repeal of 28 U.S.C. § 1738. Respondents do not chal- 
+lenge the fact that the only relevant case law holds that the 
+federal securities laws do not create such an implied repeal. 
+Pet. at 15. 
+
+
+Rather than follow the teachings of Parsons, Marrese and 
+other cases decided by this Court and cited in the Petition, the 
+Ninth Circuit created an exception to the Full Faith and Credit 
+Act for any class action potentially touching on exclusively fed- 
+eral claims. The national consequences of this decision for class 
+action litigations are enormous. Pet. at 7-8, 15-17. 
+
+
+Matsushita's petition seeks relief from the failure of the 
+Ninth Circuit to afford full faith and credit to a class action 
+judgment incorporating a release. Matsushita's position is not 
+premised on the theory that a claim was litigated to conclusion in 
+the state court action and therefore subject to claim preclusion. 
+Respondents pointlessly focus on the prerequisites for claim 
+preclusion, which are irrelevant to an analysis of the effect of a 
+release contained in a judgment entered on a class action settle- 
+ment. Indeed, the Ninth Circuit's failure to recognize the distinc- 
+tion between the preclusive effect of a release contained in a 
+judgment and the doctrine of claim preclusion is a fundamental 
+flaw in its analysis. 
+
+
+With this distinction in mind, it is apparent that Notting- 
+ham, Grimes v. Vitalink Communications Corp., 17 F.3d 1553 
+(3d Cir.), cert. denied, 115 S. Ct. 480 (1994), and Sandler 
+Associates, L.P. v. BellSouth Corp., 818 F. Supp. 695 (D. Del. 
+1993), aff'd without op., 26 F.3d 123 (3d Cir.), cert. denied, 115 
+S. Ct. 481 (1994), are directly contradicted by the Ninth Circuit 
+decision. Per. at 11 (setting forth the law of the First and Third 
+
+
+5 
+
+
+Circuits with respect to the preclusive effect of a release).* In 
+addressing the First and Third Circuit authorities, Respondents 
+skirt Nottingham (thereby avoiding any substantive discussion of 
+the law of the First Circuit), omit reference to the relevant 
+portion of Grimes concerning release, and ignore entirely the 
+Sandler decision. 
+
+
+The Ninth Circuit's straightforward disregard of a state 
+court judgment presumed to be otherwise valid is a matter of 
+general public importance. If allowed to stand, the decision will 
+subvert established principles of comity and federalism, prolifer- 
+ate litigation in federal forums by forcing shareholder litigation 
+into federal court, and defeat the legitimate expectations of 
+settling parties by refusing to hold class plaintiffs to the express 
+terms of a settlement to which they never objected and pursuant 
+to which they accepted compensation. Sandler, 818 F. Supp. at 
+705; see Pet. at 16-17. 
+
+
+Il. TENDER OFFERS REQUIRE CERTAINTY 
+REGARDING THE PARAMETERS OF RULE 14d-10 
+
+
+The scope of federal tender offer regulation is likewise a 
+matter of national importance. The Ninth Circuit's holding con- 
+cerning the scope of Rule 14d-10, contrary to Respondents’ 
+assertion, is not limited to the supposedly “unique” and “com- 
+plex” Wasserman transaction. While the Wasserman transaction 
+involved a complex structure, the decision of the Ninth Circuit 
+should have turned on the simple and Straightforward question 
+of whether the transaction occurred during the tender offer. As 
+written (and as previously construed by courts and universally 
+understood by securities law practitioners), Rule 14d-10 operates 
+
+
+* Respondents’ assertion that the Delaware settlement released claims factu- 
+ally unrelated to the federal claims is irrelevant and demonstrably false. The 
+operative complaint in the Delaware action included a claim that the defend- 
+ants had breached their fiduciary duties by according “preferential treat- 
+ment” to Wasserman whereby he would “receive preferred stock in a subsidi- 
+ary of Matsushita in exchange for his holdings of MCA shares” in order “to 
+afford (him) tax-free treatment not available to other shareholders, and to 
+save Wasserman millions of dollars in taxes that would be due if he received 
+cash.” Appendix to Supplemental Brief of Defendants-Appellees Regarding 
+Preclusion, at A29, %] 46, 48. This is the same alleged discriminatory 
+treatment in favor of Wasserman that is the essence of the Rule 14d-10 claim. 
+
+
+6 
+
+
+during a specifically-defined time period: from the commence- 
+ment of the tender offer (defined in Rule 14d-2) until the time 
+the tender offer terminates (upon the offeror’s acceptance of 
+tendered shares, see, e.g., Section 14(d)(7)).5 Applied as written, 
+the Rule does not encompass the Wasserman (or Sheinberg) 
+transaction.® There is no question that based on the stipulated 
+facts the Wasserman transaction occurred when no tender offer 
+was pending. Pet. at 22 n.20; see also App. 49a-50a (stipulated 
+facts incorporated in the district court judgment). If the transac- 
+tion occurred outside the regulated period, it is no more relevant 
+if it occurred 10 minutes or 10 months outside that period. 
+
+
+The Ninth Circuit “deemed” the Wasserman transaction to 
+have occurred during the tender offer period (regardless of when 
+the transaction actually occurred), based on its conclusion that 
+the Wasserman transaction was “conditioned” on the success of 
+the tender offer. The Ninth Circuit's decision creates a new rule 
+that plainly encompasses any transaction of any form that is 
+“conditioned” on the tender offer being consummated, and any 
+transaction that may be deemed an “‘integral part” of a tender 
+offer, regardless of when such a transaction actually takes place. 
+This holding deals a fatal blow to certainty and predictability 
+and may well create a litigation morass. 
+
+
+5 Two particularly egregious misstatements of law by Respondents must be 
+noted. First, Respondent Minton’s discussion of Rule 14d-2 carefully scissors 
+out a crucial operative provision of that Rule. In its entirety, Rule 14d-2 
+makes clear that when, as was stipulated here, the bidder files a Schedule 
+14D-1 within five days after the public announcement, the tender offer period 
+commences on the date of that filing and not at 12:01 a.m. on the date of the 
+public announcement. See Rule 14d-2(b)(2)(i). The Wasserman transaction 
+indisputably occurred outside the tender offer period because the parties 
+Stipulated that the Wasserman transaction was entered into before and 
+consummated after the tender offer period as defined in Rule 14d-2 and 
+Section 14(d)(7). See Pet. at 22 n.20. Second, in addressing the merits of 
+Rule 14d-10, Respondents rely heavily on arguments purportedly derived 
+from Section 14(d)(7). Respondents fail to acknowledge that Section 
+14(d)(7) was never pleaded in an operative complaint. Nor does (or could) 
+Section 14(d)(7) play any role in the Ninth Circuit's decision regarding the 
+merits of Rule 14d-10. See Pet. at 20-21. 
+
+
+Compliance with the 1934 Act requires reference to definite, easily ascertain- 
+able rules. Sections 13(d)(1) and 16(b), for example, establish precise periods 
+of application. See 15 U.S.C. §§ 78m(d)(1); 78p(b). 
+
+
+5 
+
+
+The decision below also widened the scope of Rule 14d-10 
+by applying it to the employment-related payment to Mr. 
+Sheinberg. The decision puts into question whether payments 
+conventionally made to members of the management of a com- 
+pany in connection with their employment (such as bonuses if 
+they agree to stay on after a tender offer) violate Rule 14d-10— 
+even though courts and the SEC have approved such payments 
+for many years.’ Thus, it is the Ninth Circuit's decision to adopt 
+a flexible interpretation to a heretofore precisely-defined Rule 
+14d-10 that makes review by this Court so critical in this case. 
+The Ninth Circuit's decision undoes the specificity of Rule 14d- 
+10 and thereby the predictability of the law governing tender 
+offers—a concern addressed by this Court in other securities 
+cases. See, e.g., Schreiber v. Burlington Northern, Inc., 472 U.S. 
+1, 12 (1985); Pinter v. Dahl, 486 U.S. 622, 652-53 (1988).® 
+
+
+7 See, e.g., Kramer v. Time Warner, Inc., 1990-91 Fed. Sec. L. Rep. (CCH) 
+{ 95,619 at 97,902-903 (S.D.N.Y. 1990), aff'd, 937 F.2d 767 (2d Cir. 1991). 
+In Canoga Industries, 1976 SEC No-Act. LEXIS 606 (Mar. 9, 1976), the 
+SEC approved an acquisition plan that contemplated a private agreement 
+which was to be entered into prior to the announcement of the tender offer, 
+pursuant to which the tender offeror would purchase certain shareholders’ 
+stock on terms and for consideration different than those being offered to the 
+public. There, as here, the private agreement was closed following the 
+expiration of the tender offer. See also Guthrie Corp., 1975 SEC No-Act. 
+LEXIS 1316 (June 29, 1975) (same); W.R. Grace & Co., 1975 SEC No-Act. 
+LEXIS 749 (Apr. 17, 1975) (same). 
+
+
+8 Field v. Trump, 850 F.2d 938 (2d Cir. 1988), cert. denied, 489 U.S. 1012 
+(1989), the only case relied upon by Respondents in support of their interpre- 
+tation of Rule 14d-10, is inapposite. In analyzing two ostensibly separate 
+public tender offers which were alleged to constitute one tender offer, Field 
+found only that the plaintiffs therein had pleaded the minimal level of facts to 
+survive a Rule 12(b)(6) motion to dismiss their Section 14(d)(7) claim. At 
+issue was whether “the purported withdrawal” of the “first” tender offer was 
+real. /d. at 943. The Second Circuit concluded that “the mere announcement 
+of a withdrawal may not be effective if followed by purchases of shares and 
+other conduct inconsistent with a genuine intent to withdraw.” /d. at 944. No 
+question similar to those in the instant case was before the Field court and no 
+Rule 14d-10 claim was at issue. The Second Circuit has had no trouble 
+limiting Field to its unique facts, see Kramer v. Time Warner, Inc., 937 F.2d 
+767, 779 (2d Cir. 1991), and, until the Ninth Circuit opinion, Field had never 
+been followed. 
+
+
+8 
+
+
+{fl. THE NINTH CIRCUIT HAS CREATED A NEW AND 
+IMPROPER STANDARD FOR IMPLYING PRIVATE 
+RIGHTS OF ACTION 
+
+
+Respondents do not challenge the core of Matsushita's 
+implied rights analysis.? As Matsushita previously demonstrated, 
+the Ninth Circuit’s implied rights analysis leads to the untenable 
+result that every rule promulgated pursuant to a privately 
+enforceable statute has a private right of action. Pet. at 19. The 
+cases cited by Respondents finding an implied right of action 
+under Sections 14(d)(7) and 14(d)(6) are irrelevant. See, e.g., 
+Field, 850 F.2d at 945 (Section 14(d)(7)); Pryor v. United States 
+Steel Corp., 794 F.2d 52, 57-58 (2d Cir.) (Section 14(d)(6)), 
+cert. denied, 479 U.S. 954 (1986). In their complaints and now, 
+Respondents make their claims under Rule 14d-10, not Section 
+14(d)(7). Rule 14d-10 should not be read to afford a private right 
+of action because even if a private right is recognized under 
+Section 14(d)(7), “the breadth of the right once recognized 
+should not, as a general matter, grow beyond the scope congres- 
+sionally intended.” Virginia Bankshares, Inc. v. Sandberg, 501 
+U.S. 1083, 1102 (1991). The Epstein Respondents state that 
+“[{t]he rule [14d-10(c)] requires that where a tender offerer 
+employs more than one kind of consideration ...each share- 
+holder must be allowed the same right to choose among the 
+options offered.” Epstein Opp. at 7. This erroneous interpretation 
+of Rule 14d-10(c), which was endorsed by the Ninth Circuit, 
+goes far beyond Section 14(d)(7), which requires that higher 
+consideration be paid to certain shareholders before a claim is 
+actionable. 
+
+
+9 Respondents’ claim that Matsushita's implied right of action point was not 
+properly presented on appeal is meritless and was rejected by the Ninth 
+Circuit. 
+
+
+9 
+
+
+CONCLUSION 
+
+
+[Supreme Court procedural metadata omitted from this copy.]
+
+
+Dated: May 26, 1995 
+Respectfully submitted, 
+
+
+/s/ BARRY R. OSTRAGER 
+
+
+Barry R. Ostrager 
+Counsel of Record 
+Mary Kay Vyskocil 
+Paul C. Curnin 
+
+Joseph M. McLaughlin 
+
+
+SIMPSON THACHER & 
+BARTLETT 
+
+(a partnership which includes 
+professional corporations) 
+425 Lexington Avenue 
+
+New York, New York 10017 
+(212) 455-2000 
+
+
+Of Counsel 
+
+
+Professor Geoffrey C. Hazard, Jr. 
+Trustee Professor of Law 
+University of Pennsylvania 
+
+3400 Chestnut Street 
+Philadelphia, Pennsylvania 19104 
+(215) 898-7494 
+
+
+Attorneys for Matsushita Electric Industrial Co., Ltd. 
+and Matsushita Holding Corporation 
+
+

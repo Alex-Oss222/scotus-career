@@ -1,0 +1,1439 @@
+No. 94-818 (3) 
+
+
+IN THE 
+Supreme Court of the Rnited, States 
+
+
+OCTOBER TERM, 1994 
+
+
+HERCULES INCORPORATED 
+and } 
+Wo. T. THOMPSON CoMPAnY, 
+Vv. 
+
+
+UNITED STATES OF AMERICA, 
+Respondent. 
+
+
+On Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Federal Circuit 
+
+
+BRIEF AMICUS CURIAE OF THE CHAMBER OF 
+COMMERCE OF THE UNITED STATES OF AMERICA 
+IN SUPPORT OF THE PETITIONERS 
+
+
+HERBERT L. FENSTER * 
+HvuGo TEUFEL 
+
+Scott S. EVANS 
+
+Ray M. ARAGON 
+MCKENNA & CUNEO 
+
+870 17th Street, Suite 4800 
+Denver, Colorado 80202 
+(303) 634-4000 
+
+
+ROBIN S. CONRAD 
+
+NATIONAL CHAMBER LITIGATION 
+CENTER, INC. 
+
+1615 H Street, N.W. 
+
+Washington, D.C. 20062 
+
+(202) 463-5337 
+
+Attorneys for Amicus Curiae 
+The Chamber of Commerce of 
+the United States of America 
+
+
+Dated: March 9, 1995 * Counsel of Record 
+
+
+WILSON - Epes Printiiic Co., Inc. - 789-0096 - WASHINGTON, D.C. 20001 
+
+
+BEST AVAILABLE COPY 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether Section 707 of the Defense Production Act 
+of 1950 (the “DPA”), 50 U.S.C. app. § 2157, which 
+mandates that a contractor shall not be liable for “dam- 
+ages . . . for any act or failure to act” resulting from 
+compliance with orders under that Act, shields govern- 
+ment contractors from damages incurred as a result of 
+mandatory work ordered to be performed by the govern- 
+ment. 
+
+
+2. Whether the Federal Circuit’s limited view of the 
+indemnification provided by Section 707 is fundamentally 
+inconsistent with the government contractor defense cre- 
+ated by this Court in Boyle v. United Technologies Corp., 
+487 U.S. 500 (1988), which protects government con- 
+tractors from third-party tort claims, and the protections 
+afforded in United States v. Spearin, 248 U.S. 132 
+(1918), which also protecis contractors from the results 
+of faulty government specifications. 
+
+
+(i) 
+
+
+_—— Ho oe eee 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTIONS PRESENTED ... ; i 
+STATEMENT OF INTEREST OF AMICUS CURIAE.. 1 
+SUMMARY OF ARGUMENT 2 
+REASONS FOR GRANTING THE WRIT .................... 3 
+I, THE DEFENSE PRODUCTION ACT INDEM- 
+NIFIES THE PETITIONERS .............................. 4 
+A. History of the Defense Production Act .......... 4 
+1. Historical Development wipottauia 4 
+2. World War II me 5 
+B. The Korean War and the Defense Production 
+Act of 1950 , 7 
+C. Section 707 Immunizes Contractors From 
+Liability for Damages in Tort or Contract.... 9 
+
+
+Il. THE FEDERAL CIRCUIT’S INTERPRETA- 
+TION OF THE DPA IS WHOLLY INCON- 
+SISTENT WITH BOYLE’S GOVERNMENT 
+CONTRACTOR DEFENSE AND WITH IN- 
+DEMNIFICATION OF CONTRACTORS FOL- 
+LOWING GOVERNMENT SPECIFICATIONS 
+a IIE *Wilbadidbnaibbechedstishidscnbiindeonisncbiisinseceses 11 
+
+
+Ill. THE FEDERAL CIRCUIT'S INTERPRETA- 
+TION OF SECTION 707 WOULD PERMIT 
+THE GOVERNMENT TO IMPOSE ONEROUS 
+CONTRACTS FOR HAZARDOUS PRODUCTS 
+ON CONTRACTORS, WHILE FORCING THE 
+CONTRACTORS TO BEAR THE CONSE- 
+QUENCES OF THESE DECISIONS ................ 14 
+
+
+IV. THE GOVERNMENT'S ACTIONS ARE PART 
+OF A PATTERN TO AVOID LIABILITY FOR 
+THE CONSEQUENCES OF ITS WARTIME 
+a Rincdihitnedhichinatnditidedeecbexecenecsecdenieose 18 
+
+
+i 20 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+
+
+CASES Page 
+Baker v. Carr, 369 U.S. 186 (1962) ......................... 4 
+Boyle v. United Technologies Corp., 487 U.S. 500 
+
+EE connintacetjundiencaneegiidtgnpnaniasintliniesiiasetatiaieamaaal passim 
+D.H. Overmyer Co., Inc., of Ohio v. Frick Co., 405 
+
+| 2 3S Se 16 
+Dolphin Gardens, Inc. v. United States, 243 
+
+F. Supp. 824 (D. Conn. 1965) -.......02.2...00........... 13 
+Dugan v. United States, 16 U.S. (3 Wheat.) 172 
+
+CID cectnnitisnattiianntitaiasciniian tates atiiitiiiaiaa ails 4 
+Elf Atochem North America, Inc. v. United States, 
+
+868 F. Supp. 707 (E.D. Pa. 1994) .........-00-... 19 
+Estate of Cowart v. Nicklos Drilling Co., 112 8. Ct. 
+
+SD CI. ccienctdcctetiintetiipertpiitictatiattnsinaiiithieninnen 9 
+
+
+FMC Corp. v. United States Department of Com- 
+merce, 786 F. Supp. 471 (E.D. Pa. 1992), aff'd, 
+
+
+ee § GG |: Pees 17,19 
+Holodnak v. Avco Corp., 514 F.2d 285 (2d Cir.), 
+
+cert. denied, 423 U.S. 892 (1975) -...................... 17 
+Jackson Jordan, Inc. v. Plasser American Corp., 
+
+747 F.2d 1567 (Fed. Cir. 1984) -........................... 18 
+
+
+Johns-Manville Corp. v. United States, 18 Cl. Ct. 
+72 (1987), vacated on other grounds, 855 F.2d 
+8. RR ae ee 12 
+Kleeman v. McDonnell Douglas Corp., 890 F.2d 698 
+(4th Cir. 1989), cert. denied, 495 U.S. 953 
+GRIT scicaetesnsistasihi tua tentcieada ecuacieasnsineatbatiiiiainial nan idniidiiataa 12 
+L.N. Jackson & Co. v. Royal Norwegian Govern- 
+ment, 177 F.2d 694 (2d Cir. 1949), cert. denied, 
+
+
+— ff SS SS ee 7 
+Lichter v. United States, 334 U.S. 742 (1948) -....... 4 
+Ramey v. Martin-Baker Aircraft Co., 874 F.2d 
+
+Ff | & Feeriene en ee tee 12 
+R.C. Hendreen Co., ASBCA No. 20,599, 77-1 BCA 
+
+| SER PER a ee 12 
+
+
+Rozford Knitting Co. v. Moore & Tierney, Inc., 
+265 F. 177 (2d Cir.), cert. denied, 258 U.S. 498 
+EID | <cncccsvcisscsscsnsiieainienticessiehinensiteeabiamndiienitihiadaieaisieadiaiais aati 5 
+S.J. Amoroso Construction Co. v. United States, 12 
+oy f . f-. & 5 =, 14 
+
+
+v 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+Scarano v. Central Railroad Co. of New Jersey, 208 
+F.2d 510 (8d Cir. 1953) 18 
+Schwartz v. S.S. Naseau, 345 F.2d 465 (2d Cir.), 
+cert. denied, 382 U.S. 919 (1965) ... 15 
+United States v. Spearin, 248 U.S. 182 (1918) ...... passim 
+United States v. Vertac Chemical Corp., 1995 U.S. 
+App. Lexis 1754 (8th Cir. Jan. 31, 1995) ......... 20 
+
+
+William T. Thompson Co. v. United States, 26 Cl. 
+Ct. 17 (1992), aff'd sub nom. Hercules, Inc. v. 
+United States, 24 F.8d 188 (Fed. Cir. 1994), 
+petition for cert. filed, 68 U.S.L.W. 3388 (U.S. 
+Nov. 4, 1994) (No. 94-818) 2.0002. 18, 16 
+Winstar Corp. v. United States, 25 Cl. Ct. 541 
+(1992), rev’d, petition for reh’g in banc accepted, 
+
+
+vacated, 994 F.2d 797 (1998) ................-.-.....00.----- 17 
+Yearsley v. W.A. Ross Construction Co., 309 U.S. 
+Se I cenit datsieneantartiiiadaichnettiitenceseninestenes 12 
+CONSTITUTION AND STATUTES 
+Se a ee I ee ecnsescinccinnsenetettintansiittnanes 5, 10 
+Atomic Energy Damages Act, 42 U.S.C. § 2014 
+Ge SE WO HD ited deteitnisinncreetientieiteen 10 
+
+
+Comprehensive Environmental Response, Compen- 
+sation, and Liability Act, 42 U.S.C. § 9607 
+IED iciiithstheutiadiabiestindilastahabenhidtineditliaipinbilettiairel siatdiaenaics. 18, 19 
+
+Defense Production Act of 1950, 50 U.S.C. app. 
+
+§§ 2061-2171 (1988 & Supp. V 1293) (“DPA”)..passim 
+
+DPA § 101, codified as amended at 50 U.S.C. app. 
+
+§ 2071 (1988 & Supp. V 1993) 00... 4,8,9 
+
+DPA § 707, codified as amended at 50 U.S.C. app. 
+EE IE “Nile hicheininittscitbniigiianiniidiemiaensencendiacl passim 
+
+Ch. 134, § 120, 39 Stat. 166, 213 (1916) 000. 
+
+Ch. 180, 89 Stat. 1168 (1917) ................00...020..000.... 
+
+Ca RIG Grete DO CD acces ccccececccccescncectonecesccnee 
+
+Ch. 440, § 2, 54 Stat. 676, 676 (1940) 00. 
+
+Ch. 720, § 9, 54 Stat. 885, 892 (1940) 20. 
+
+2 Te 
+
+Ch. 593, § 201, 55 Stat. 888, 889 (1941) 00. 
+
+Ch. 199, § 301, 56 Stat. 176, 177 (1942) 
+
+Ch. 590, 59 Stat. 658 (1945) 22... cece eee 
+
+
+NIAAAAAMTIA TH 
+
+
+vi 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+Ch. 522, 60 Stat. 341 (1946) _......... a 7 
+Ch. 625, 62 Stat. G04 (1948) ................--cccccceccscceccececseee 7 
+
+
+Ch. 932, §§ 101, 707, 64 Stat. 798, 799, 818 (1950) ..passim 
+
+
+CODE OF FEDERAL REGULATIONS 
+me ee SS a 10 
+
+
+CONGRESSIONAL MATERIALS 
+
+
+Defense Production Act of 1950: Hearings on 
+S. 3936 Before the Senate Comm. on Banking 
+
+
+and Currency, 81st Cong., 2d Sess. (1950)........ 8 
+96 Cong. Rec. 10,572 (1960) .......................20-.0ce0-20-- 10 
+H.R. Rep. No. 2759, 81st Cong., 2d Sess., reprinted 
+
+in 1950 U.S. Code Cong. Serv. 3620 0.0000. 10 
+H.R. Rep. No. 460, 77th Cong., Ist Sess. (1941)...... 6 
+S. Rep. No. 1268, 80th Cong., 2d Sess., reprinted in 
+
+1948 U.S. Code Cong. Serv. 1989 ...........00.0........... 7 
+S. Rep. No. 1599, 82d Cong., 2d Sess., reprinted in 
+
+BE TE SR ee eee 9, 10,14 
+S. Rep. No. 2250, 81st Cong., 2d Sess. (1950) ........ 8, 10 
+
+MISCELLANEOUS 
+1B James W. Moore et al., Moore’s Federal Prac- 
+tice § 0.405[8] (2d ed. 1994) 0000... eee eee 18 
+
+
+Brown, The Effect of Conscription of Industry o on 
+Contracts for the Sale of Goods, 90 U. Pa. L. 
+Ee ee 7 ee 5 
+
+
+James Madison, Property (1792), reprinted in 6 
+The Writings of James Madison (Gaillard Hunt 
+
+
+OI TI crs cccinirhaatnenicesciinidetsiiclieinateaniaiat ni hailed 17 
+Pedrick & Springfield, “War Measures and Contract 
+Liability, 20 Tex. L. Rev. 71 (1949) ....0000000002.... 5 
+
+
+Todd Rakoff, Contracts of Adhesion: An Essay in 
+Reconstruction, 96 Harv. L. Rev. 1173 (1983)... 15 
+
+
+IN THE 
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1994 
+
+
+No. 94-818 
+
+
+HERCULES INCORPORATED 
+and 
+
+
+Wo. T. THOMPSON COMPANY, 
+
+. Petitioners, 
+
+UNITED STATES OF AMERICA, 
+Respondent. 
+
+
+On Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Federal Circuit 
+
+
+BRIEF AMICUS CURIAE OF THE CHAMBER OF 
+COMMERCE OF THE UNITED STATES OF AMERICA 
+IN SUPPORT OF THE PETITIONERS 
+
+
+STATEMENT OF INTEREST OF AMICUS CURIAE 
+
+
+The Chamber of Commerce of the United States of 
+America (“the Chamber”) is the largest federal associa- 
+tion of businesses, companies and associations in the 
+world. With substantial membership in each of the fifty 
+states, the Chamber represents more than 215,000 busi- 
+nesses and organizations. It is the principal voice of the 
+American business community. An important function of 
+the Chamber is to represent the interests of its members 
+in critical issues before the Supreme Court of the United 
+States. The Chamber seeks to advance those interests by 
+filing briefs in cases of importance to the business com- 
+munity. Among the Chamber’s constituencies is a core 
+of businesses which contract with the United States. 
+
+
+The decision of the United States Court of Appeals for 
+the Federal Circuit in the instant case has serious adverse 
+
+
+2 
+
+
+implications for large and small corporations alike. The 
+decision below is of great concern to the Chamber’s mem- 
+bers in that it allows the government to escape liability 
+for the consequences of its actions in entering into manda- 
+tory contracts for hazardous materials which are critical 
+to the implementation of important public policy goals, 
+and thrusts upon private parties the costs of its actions. 
+The Chamber believes it is important for this Court to 
+recognize the significance of this issue to the business 
+community. 
+
+
+Permitting government-caused tort liability to be im- 
+posed on government contractors raises serious legal and 
+constitutional concerns, since this liability is neither bar- 
+gained for nor avoidable by government contractors. In 
+the Chamber’s view, such liability is wholly inconsistent 
+with existing doctrines protecting government contractors 
+from contractual and third party tort liability for actions 
+dictated by the government through mandatory contracts. 
+It is also inconsistent with the expressed will of Congress 
+embodied in Section 707 of the Defense Production Act 
+of 1950, 50 U.S.C. app. §§ 2061-2171 (“DPA”). Be- 
+cause the Federal Circuit’s interpretation and application 
+of contract law and the government contractor defense 
+issue are in conflict with applicable decisions of this Court, 
+the Court should grant the petition for a writ of certiorari.’ 
+
+
+SUMMARY OF ARGUMENT 
+
+
+1. The history of the DPA illustrates that Congress 
+intended to indemnify contractors for the consequences of 
+producing material for use in defense of the nation. Sec- 
+tion 707 of the DPA indemnifies the Petitioners for the 
+consequences of contracts entered into pursuant to the 
+DPA, including damages in tort. 
+
+
+2. The Federal Circuit’s misapplication of Section 707 
+is wholly inconsistent with the government contractor de- 
+fense enunciated by this Court in Boyle v. United Tech- 
+
+
+1The petitioners and the United States have consented to the 
+filing of this brief. Their respective letters of consent are filed 
+herewith. 
+
+
+3 
+
+
+nologies Corp., 487 U.S. 500 (1988), which shields gov- 
+ernment contractors from third party tort liability for 
+work performed pursuant to government contract specifi- 
+cations, and the doct:‘ne of United States v. Spearin, 248 
+U.S. 132 (1918), which likewise protects government 
+contractors from the effects of faulty or harmful govern- 
+
+
+ment contract specifications. 
+REASONS FOR GRANTING THE WRIT 
+
+
+The petition at bar concerns the protections afforded to 
+government contractors performing important though 
+sometimes hazardous public policy goals. Concomitantly, 
+the petition concerns the extent to which the federal gov- 
+ernment can avoid liability for contracts which it has 
+imposed upon private entities. The protections afforded 
+to government contractors are broader than the limited 
+and internally inconsistent view of government contract 
+indemnity adopted by the Federal Circuit. 
+
+
+The decision below would allow the government to 
+escape the consequences of having compelled petitioners 
+to produce a material, Agent Orange, that the government 
+knew was potentially hazardous, and then knowingly ex- 
+posing service personnel to that material. 
+
+
+While it is well-settled after this Court’s determination 
+in Spearin that the government warrants the specifications 
+which it imposes in contracts, the Federal Circuit found 
+that Spearin did not extend to indemnify the petitioners 
+for the tort claims against it, and that Section 707 pro- 
+tected the contractor only from additional costs or delays 
+imposed by government contract, not from the risk of 
+injury to third parties caused by use of dangerous govern- 
+ment specifications. The Federal Circuit then compounded 
+this error by asserting that tiie petitioners “voluntarily” 
+failed to invoke the government contract defense. None 
+of these decisions will survive scrutiny. 
+
+
+In sum, this case involves the misapplication of three 
+protections that should work integrally to shield from 
+liability government contractors doing the government's 
+work. Boyle, which shields government contractors from 
+third party tort claims, Spearin, which protects contractors 
+
+
+4 
+
+
+from defective government specifications, and the DPA, 
+which mandates that a contractor shall not be liable for 
+“damages . . . for any act or failure to act” resulting from 
+compliance with orders under that Act, all have similar 
+tests and similar justifications. The Federal Circuit failed 
+to address the integral nature of these defenses, limited 
+protection under the DPA, and, at the urging of the gov- 
+ernment, held that the DPA provides no protection to the 
+petitioners. 
+
+
+I. THE DEFENSE PRODUCTION ACT INDEMNIFIES 
+THE PETITIONERS 
+
+
+Claiming to read the plain language of the DPA and 
+to harmonize Sections 101 and 707 of the DPA, the 
+Federal Circuit stated that Section 707 did not indemnify 
+contractors for tort liability. The lower court cited no 
+direct authority for its view that Section 707 does not 
+extend such protection to contractors, and its view is in 
+conflict with the text and the history of the DPA. 
+
+
+A. History of the Defense Production Act 
+
+
+1. Historical Development 
+
+
+Grants of immunity and indemnity against third party 
+liability by the United States to its contractors are per- 
+mitted by the authority conferred in the Constitution to 
+enter into contracts* end to exercise “war powers.” * 
+When these two powers have fused, it has been necessary 
+to protect those who contract with the government for 
+defense-related goods from the consequences of the gov- 
+ernment’s exercise of its political policy responsibilities,‘ 
+particularly when the government has compelled produc- 
+tion to meet war efforts. 
+
+
+Since before the First World War, Congress found it 
+necessary to authorize the executive branch to compel 
+production of goods. Congress recognized that contrac- 
+
+
+2 Dugan v. United States, 16 U.S. (3 Wheat.) 172 (1818). 
+3 Lichter v. United States, 334 U.S. 742 (1948). 
+4 Baker v. Carr, 369 U.S. 186, 217 (1962). 
+
+
+5 
+
+
+tors must be immunized or indemnified from liability 
+which might grow out of less-than-voluntary contract per- 
+formance.’ Indeed, Congress has on other occasions also 
+recognized the need to indemnify contractors facing per- 
+formance risks. See, e.g., 10 U.S.C. § 2354 (1988) 
+(providing indemnification for contracts involving hazard- 
+ous activities ). 
+
+During the World War I era, Congress granted certain 
+extraordinary powers to the President to facilitate mili- 
+tary mobilization. The National Defense Act of 1916 
+empowered the President in time of war or imminent war 
+to place orders for products and materials required by the 
+Army. A similar act supported Navy procurement.’ 
+Compliance with these acts took precedence over any 
+other contract. Neither act protected contractors from 
+third-party liability. Both acts required only that the 
+United States pay just compensation to contractors for 
+the goods conscripted. 
+
+
+2. World War Il 
+
+
+The powers granted to the President during World 
+War I expired at the cessation of hostilities. Thus, in 
+1940, when the situation in Europe required that the 
+United States again mobilize for war, the President’s 
+special procurement powers were limited. 
+
+
+5 Pedrick & Springfield, War Measures and Contract Liability, 
+20 Tex. L. Rev. 71 (1949); Brown, The Effect of Conscription of 
+Industry on Contracts for the Sale of Goods, 90 U. Pa. L. Rev. 533 
+(1942). 
+
+
+® National Defense Act of 1916, ch. 184, §120, 39 Stat. 166, 
+213. 
+
+
+7 Act of March 4, 1917, ch. 180, 39 Stat. 1168, 1192, re-enacted 
+by Act of July 1, 1918, ch. 114, 40 Stat. 704, 719-20. 
+
+
+8 Some courts recognized that compliance with a compulsory order 
+under the National Defense Act of 1916 excused the breach of a 
+commercial contract; the concept applied in these cases was simply 
+that the acts of the sovereign frustrated performance of the con- 
+tract. See Roxford Knitting Co. v. Moore & Tierney, Inc., 265 
+F. 177 (2d Cir.), cert. denied, 253 U.S. 498 (1920). 
+
+
+6 
+
+
+The National Defense Act of 1940 empowered the 
+President, for two years, to require that contractors give 
+priority to Army and Navy contracts or orders,’ and was 
+later amended to give the executive authority to require 
+contractors to give priority to orders for materials to be 
+sent to a country deemed vital to the defense of the 
+United States.*° Congress also expressly immunized con- 
+tractors from liability for breach of contract damages 
+resulting from the performance of priority orders.” The 
+Selective Training and Service Act of 1940” gave the 
+President authority to order necessary supplies or equip- 
+ment for the Army or Navy.” 
+
+
+Following the bombing of Pearl Harbor, Congress en- 
+acted the First and Second War Powers Acts. The First 
+War Powers Act authorized the President, when necessary 
+to “facilitate the prosecution of the war,” to permit an 
+agency exercising functions “in connection with the prose- 
+cution of the war effort . . . to enter into contracts... 
+without regard to the provisions of law relating to the mak- 
+ing, performance, amendment, or modification of con- 
+tracts” and regardless of the availability of appropria- 
+tions..* The War Department relied on this broad grant 
+of authority to assist contractors suffering financial losses 
+
+
+® National Defense Act of 1940, ch. 440, § 2, 54 Stat. 676, 676. 
+10 Act of May 31, 1941, ch. 157, 55 Stat. 236. 
+
+
+11 Jd. The legislative history of this provision recognized that 
+manufacturers sued for damages had limited defenses to defaulted 
+contracts, and “g[a]ve clear statutory protection to all manufactur- 
+ers who comply with priority orders.” H.R. Rep. No. 460, 77th 
+Cong., Ist Sess. 6 (1941). 
+
+
+12 Selective Training and Service Act of 1940, ch. 720, §9, 54 
+Stat. 885, 892. 
+
+
+13 Jd. The authority conferred on the President by the Selective 
+Training and Service Act of 1940 was identical to that of the 
+National Defense Act of 1916. 
+
+
+14 First War Powers Act, 1941, ch. 593, § 201, 55 Stat. 838, 839. 
+
+
+7 
+
+
+and to indemnify contractors against damages arising from 
+the government contract. 
+
+The Second War Powers Act™ again expanded the 
+executive’s power over defense contractors by giving the 
+President authority to require acceptance of priority con- 
+tracts or orders.** A contractor who refused to accept a 
+contract or order faced criminal sanctions.” The Act 
+expressly immunized contractors from liability for breach 
+of contract.”® 
+
+
+The Second War Powers Act and the Selective Training 
+Service Act expired after World War II. Concerned 
+about the ability to meet the country’s foreign and domes- 
+tic obligations,” Congress enacted the Selective Service 
+Act of 1948, which authorized the President to place 
+orders for delivery of articles or materials required by the 
+military forces or the Atomic Energy Commission.” A 
+contractor receiving an order under the Act was required 
+to give that order priority or face possible seizure of its 
+plant and criminal sanctions.” 
+
+
+B. The Korean War and the Defense Production Act 
+of 1950 
+
+
+The invasion of South Korea in 1950 thrust the United 
+States into a military crisis which continued under the 
+
+
+18 Second War Powers Act of 1942, ch. 199, $301, 56 Stat. 
+176, 177. 
+
+
+16 Jd., 56 Stat. at 178. 
+17 Td. at 179. 
+
+
+18 See L.N. Jackson & Co. v. Royal Norwegian Government, 177 
+F.2d 694, 701 (2d Cir. 1949), cert. denied, 389 U.S. 914 (1950). 
+
+
+1 Second War Powers Act of 1942, as amended by ch. 590, 59 
+Stat. 658 (1945); Selective Training and Service Act of 1940, as 
+amended by Act of June 29, 1946, ch. 522, 60 Stat. 341. 
+
+
+2S. Rep. No. 1268, 80th Cong., 2d Sess., reprinted in 1948 
+U.S. Code Cong. Serv. 1989. 
+
+
+21 Selective Service Act of 1948, ch. 625, 62 Stat. 604, 625-26. ° 
+22 Jd. 
+
+
+8 
+
+
+penumbra of the “Cold War” until the fall of the Berlin 
+Wall. In response, Congress drafted the Defense Produc- 
+tion Act, which was generally derived from the emer- 
+gency statutes enacted during World War II.” 
+
+
+Congress’ principal purpose in drafting the DPA was 
+to provide material to the military in as short a time as 
+possible without total disruption of a free economy.” 
+
+
+DPA Section 101, 50 U.S.C. app. § 2071, once again 
+gave the President extraordinary powers to compel «c- 
+ceptance and performance of contracts vital to the na- 
+tional defense.” 
+
+
+During World War II, when contractors had been com- 
+pelled to perform military contracts or to take unusual 
+risks, Congress indemnified war contractors, and immu- 
+nized them against liability for commercial contract de- 
+faults. By 1950, however, government contractors had 
+no such protection. This void was filled by Section 707, 
+a new provision much more broadly immunizing con- 
+tractors from “damages . . . for any act or failure to act 
+resulting directly or indirectly from . . . compliance with 
+
+. . this Act.”* The Senate report accompanying the 
+DPA stated: “Section 707 contains an exculpatory 
+clause protecting persons who have complied with the 
+act against liability for damages thereafter.” S. Rep. No. 
+2250, 81st Cong., 2d Sess. 11 (1950). 
+
+
+When Congress amended Section 707 for clarity in 
+1952, the Senate Report accompanying the amendment 
+again described Section 707 in broad terms: 
+
+
+23 See Defense Production Act of 1950: Hearings on S. 3986 
+Before the Senate Comm. on Banking and Currency, 81st Cong., 2d 
+Sess. 199-200, 278-92 (1950) (side-by-side comparisons of World 
+War II statutory language with proposed statutory language). 
+
+
+24S. Rep. No. 2250, 81st Cong., 2d Sess. 1 (1950). 
+
+
+25 Defense Production Act of 1950, ch. 982, § 101, 64 Stat. 798, 
+799. ; 
+
+
+26 Jd. § 707, 64 Stat. at 818. 
+
+
+9 
+
+The first sentence of section 707 of the act contains 
+the so-called exculpatory clause, which protects a per- 
+son from liability, under contract or otherwise, as the 
+result of compliance with the act or regulations issued 
+under the act. This provision was included to encour- 
+age and assist people to comply with the act, even 
+though it was recognized that common-law doctrines, 
+such as frustration and impossibility of performance 
+and the like, would cover many of the same cases.” 
+
+
+The authority to compel acceptance and performance 
+of contracts or orders pursuant to Section 101 has not 
+changed significantly since its original enactment. Like- 
+wise, the immunity afforded contractors under Section 707 
+performing in compliance with orders under the DPA has 
+remained unchanged since 1952. 
+
+
+C. Section 707 Immunizes Contractors From Liability 
+for Damages in Tort or Contract 
+
+
+By its plain language, Section 707 shields a contractor 
+from liability for “damages . . . for any act or failure 
+to act” resulting from compliance with the DPA. 
+
+
+In statutory construction cases, “when a statute speaks 
+with clarity to an issue judicial inquiry into the statute’s 
+meaning, in all but the most extraordinary circumstance, 
+is finished.” Estate of Cowart v. Nicklos Drilling Co., 
+112 S. Ct. 2589, 2594 (1992). The lower court claimed 
+to be reading this plain language when it denied recovery 
+to the petitioners. Not so; it construed Section 707 in a 
+manner that denies its plain meaning. 
+
+
+By its language, Section 707 immunizes a contractor 
+from all liability resulting from compelled production, 
+whether arising in contract, tort, or otherwise. 
+
+
+There is no indication that Section 707 was intended 
+to excuse only liability under contractual defaults. Indeed, 
+Congress rejected the explicit “liable . . . for any default 
+under any contract” language of the predecessor in favor 
+of the broader “liable . . . for any act or failure to act” 
+
+
+27S. Rep. No. 1599, 82d Cong., 2d Sess., reprinted in 1952 
+U.S.C.C.A.N. 1789, 1818-19. 
+
+
+10 
+
+
+language of Section 707, providing powerful evidence to 
+the contrary. Had Congress intended such a limitation it 
+could very easily and simply have adopted the prior lan- 
+guage.” 
+
+
+Second, the references to Section 707 in the DPA’s 
+legislative history are wholly consistent with the proposi- 
+tion that the immunity language applies to all damages or 
+claims, whatever the legal basis. The House report stated: 
+“This section [707] provides an exemption from damages 
+or penalties which might result from compliance with 
+rules, regulations, or orders issued under title I.” Simi- 
+larly, the relevant Senate report stated: “Section 707 con- 
+tains an exculpatory clause protecting persons who have 
+complied with the act against liability for damages there- 
+after.” ** When Congress re-examined Section 707 in 
+1952, it stated that Section 707 “protects a person from 
+liability, under contract or otherwise, as the result of com- 
+pliance with the act or regulations issued under the act.” ™ 
+
+
+In sum, the plain meaning of the provision, its legisla- 
+tive history, and the historical context in which it was 
+enacted all demonstrate that Congress indeed intended 
+Section 707 to immunize contractors from all damages 
+resulting from compelled production. 
+
+
+28 Compare ch. 199, § 301, 56 Stat. at 180 with 50 U.S.C. app. 
+§ 2157. As previously noted, Congress has not hesitated to indemnify 
+government contractors against the risks that result from govern- 
+ment contract performance—even risks which the contractor’s work 
+may engender. See 10 U.S.C. § 2354 (1988) (providing indemnifi- 
+cation for contracts involving hazardous activities) ; Atomic Energy 
+Damages Act, 42 U.S.C. § 2014 (1988 & Supp. V 1993) (authorizing 
+indemnification of government contractors from nuclear risks) ; see 
+also 48 C.F.R. § 52.228-7 (1994). The Federal Circuit’s view was 
+certainly not premised on considerations of congressional policy. 
+
+
+29 H.R. Rep. No. 2759, 81st Cong., 2d Sess. 22, reprinted in 1950 
+U.S.C.C.A.N. 3620, 3644. 
+
+
+% S. Rep. No. 2250, 81st Cong., 2d Sess. 11 (1950) ; see 96 Cong. 
+Rec. 10,572 (1950). 
+
+
+%1S. Rep. No. 1599, 82d Cong., 2d Sess., reprinted in 1952 
+U.S.C.C.A.N. 1789, 1818 (emphasis added). 
+
+
+‘ll 
+
+
+Il. THE FEDERAL CIRCUITS INTERPRETATION OF 
+THE DPA IS WHOLLY INCONSISTENT WITH 
+BOYLE’S GOVERNMENT CONTRACTOR DEFENSE 
+AND WITH INDEMNIFICATION OF CONTRAC- 
+TORS FOLLOWING GOVERNMENT SPECIFICA- 
+TIONS IN SPEARIN 
+
+
+As stated previously, the other shields involved in this 
+case are the government contractor defense set forth in 
+Boyle and the warranty of adequate specifications eluci- 
+dated in Spearin. Those defenses, which involve nearly 
+identical elements, protect the government contractor from 
+third-party tort claims and from liabilities incurred due to 
+reliance on government contract specifications. Section 
+707, which also is geared to protecting government con- 
+tractors performing mandated services for the government, 
+should be construed similarly. When properly integrated, 
+these three defenses provide freedom from third party tort 
+liability, indemnification for reliance on government spe- 
+cifications, and, under the DPA, indemnification from all 
+liabilities incurred as a result of the contract performance. 
+The opinion of the Federal Circuit, however, diverted 
+from the logic of this trio of government contractor pro- 
+tections to hold that the DPA will not indemnify contrac- 
+tors for incurred liabilities. See Hercules, Inc. v. United 
+States, 24 F.3d 188, 204 (Fed. Cir. 1994). This decision 
+is not only inconsistent with the DPA’s text and history, 
+but with Boyle and Spearin. 
+
+
+In Boyle, this Court held that a contractor manufactur- 
+ing products for the government is not liable in tort to 
+third parties if: 
+
+(1) the United States approved reasonably precise 
+specifications; (2) the equipment conformed to those 
+specifications; and (3) the supplier warned the 
+United States about the dangers in the use of the 
+equipment that were known to the supplier but not 
+to the United States. 
+
+
+12 
+
+
+487 U.S. at 512." These three elements are simply ap- 
+proval, conformance, and relative knowledge. 
+
+
+The first two elements of the test tie the production of 
+the product to the government’s demands. “[A] product 
+conforms to reasonably precise specifications if it satisfies 
+an intended configuration even if it may produce unin- 
+tended and unwanted results.” Kleeman v. McDonnell 
+Douglas Corp., 890 F.2d 698, 703 (4th Cir. 1989) 
+(quotations omitted), cert. denied, 495 U.S. 953 (1990). 
+The contractor satisfies the third element by proving the 
+government knew of (or at least the contractor did not 
+conceal) a danger. Boyle, 487 U.S. at 512; Ramey v. 
+Martin-Baker Aircraft Co., 874 F.2d 946, 951 n.10 (4th 
+Cir. 1989). 
+
+
+The Spearin test is similar. In Spearin, this Court stated 
+that, “if the contractor is bound to build according to 
+plans and specifications prepared by the owner, the con- 
+tractor will not be responsible for the consequences of 
+defects in the plans and specifications.” 248 U.S. at 136. 
+To succeed on an implied warranty claim, the contractor 
+must show: (1) government specifications, (2) with 
+which the contractor complied, and (3) unsatisfactory 
+result. R.C. Hedreen Co., ASBCA No. 20,599, 77-1 
+BCA 4 12,328, at 59,555. The contractor must show also 
+that the government had superior knowledge of the defec- 
+tive specification. Johns-Manville Corp. v. United States, 
+13 Cl. Ct. 72, 118-20 (1987), vacated on other grounds, 
+855 F.2d 1571 (Fed. Cir. 1988). 
+
+
+It is significant that the Court’s first application of the 
+government contractor defense was actually premised on 
+the same issues set forth in Spearin, i.e., defective govern- 
+ment specifications. In Yearsley v. Ross, 309 U.S. 18, 
+20-21 (1940), the Supreme Court concluded a contractor 
+had no liability for riparian damages caused in perform- 
+
+
+%2 The Chamber of Commerce, as amicus curiae in Boyle, sup- 
+ported establishment of the government contractor defense. See 
+Brief for the Chamber of Commerce of the United States as Amicus 
+Curiae, Boyle v. United Technologies, 487 U.S. 500 (1988) (No. 
+86-492). 
+
+
+13 
+
+
+ance of a government contract, because there was “no 
+liability on the part of the contractor for executing {the 
+government's] will.” In doing so, the Court effectively 
+created a bridge between the contract-based relief of 
+Spearin, and the more broadly based relief in Boyle and 
+Section 707." The Federal Circuit ignored this important 
+historical development. 
+
+In the instant case, the Federal Circuit held that the 
+petitioners had successfully argued three times that the 
+government contractor defense applied. Hercules, 24 F.3d 
+at 199. This argument is flawed, since the government 
+contractor defense several years prior to Boyle was not 
+nearly as developed or certain as it is today. Petitioners 
+argued the government contractor defense, but they simply 
+did not win (or lose). See William T. Thompson Co. v. 
+United States, 26 Cl. Ct. 17, 21 (1992) (discussing the 
+reasons for settlement). What occurred in settlement—a 
+small payment to lay to rest hundreds of millions of dol- 
+lars of potential liability—-was not a giveaway but rather 
+a recognition that the government contractor defense was 
+uncertain. Because of this uncertainty (which was 
+fanned by government hostility to the defense at the trial 
+court) the government contractor defense did not provide 
+the escape from liability the court of appeals claims. The 
+petitioners incurred liability under their Agent Orange 
+contracts and were forced to pay damages. 
+
+
+That is precisely where the DPA comes in. As even 
+the Federal Circuit recognized, the Agent Orange con- 
+tracts were imposed upon the petitioners through the DPA, 
+
+
+33 Likewise, in Dolphin Gardens, Inc. v. United States, 243 F. 
+Supp. 824, 827 (D. Conn. 1965), the court found that a contractor 
+who failed to take precautions to prevent damages during perform- 
+ance of a dredging contract was not liable, since “[t]he Government 
+did not provide for such additional precautions in the plans, and 
+[the contractor] is not to be held liable for this omission.” 
+
+
+%4 Importantly, although the Agent Orange court (then Judge 
+Pratt) did accept the principles of the government contractor de- 
+fense, the court thereafter (then Judge Weinstein) adamantly 
+refused to enter judgment on this basis until there was a class 
+settlement. 
+
+
+14 
+
+
+they were forced to produce what the government de- 
+manded, and they thereafter suffered “liability, under con- 
+tract or otherwise, as the result of compliance with the 
+act or regulations issued under the act.” S. Rep. No. 
+1599, reprinted in 1952 U.S.C.C.A.N. at 1818-19. As 
+such, petitioners are entitled to be compensated. 
+
+
+Unfortunately, rather than reading the DPA, the gov- 
+ernment contractor defense and the Spearin doctrine to- 
+gether, the Federal Circuit read them as providing differ- 
+ent and inconsistent bases for relief. See Hercules, 24 
+F.3d at 197. However, as the Chamber of Commerce has 
+shown, these three doctrines have nearly identical stand- 
+ards and rationales. They must be read together, and not 
+as mutually exclusive, in order to fulfill Congress’ expecta- 
+tion that contractors doing the government’s bidding 
+should not be forced to bear costs imposed by the govern- 
+ment’s decisions. 
+
+
+Ill. THE FEDERAL CIRCUITS INTERPRETATION OF 
+SECTION 707 WOULD PERMIT THE GOVERN- 
+MENT TO IMPOSE ONEROUS CONTRACTS FOR 
+HAZARDOUS PRODUCTS ON CONTRACTORS, 
+WHILE FORCING THE CONTRACTORS TO BEAR 
+THE CONSEQUENCES OF THESE DECISIONS 
+
+
+While this appeal does not question the constitutional 
+appropriateness of the War Powers or Defense Production 
+Acts, it must be noted that these acts give the government 
+extraordinary power to compel contractor compliance with 
+executive demands. Because of these powers, the freedom 
+to negotiate, a crucial aspect of traditional contract theory 
+and interpretation, is missing. As the Federal Circuit it- 
+self recognizes, “the Government routinely grants itself 
+privileges—like the right to terminate a contract for the 
+Government’s convenience without penalty—that are not 
+available to other contracting parties.” S.J. Amoroso 
+Constr. Co. v. United States, 12 F.3d 1072, 1079 (Fed. 
+Cir. 1993) (Plager, J., concurring). There can be no 
+pretense that contracts with the government are bargained 
+for and executed with equal bargaining power on both 
+sides, and it is well accepted that they are in fact contracts 
+of adhesion. 
+
+
+15 
+
+
+It is clear that the government has the power to impose 
+contracts entirely against the will of a private party, or, at 
+best, on a take-it-or-leave-it basis. Such contracts cannot 
+be viewed through the lens of traditional common-law 
+rules, since “such a contract is ‘sold not bought.’ The one 
+party dictates its provisions; the other has no more choice 
+in fixing those terms than he has about the weather.” 
+Schwartz v. §.S. Nassau, 345 F.2d 465, 471 (2d Cir.) 
+(quotation omitted), cert. denied, 382 U.S. 919 (1965); 
+see also Todd Rakoff, Contracts of Adhesion: An Essay 
+in Reconstruction, 96 Harv. L. Rev. 1173 (1983). 
+
+
+The Agent Orange contracts were compulsory, not vol- 
+untary. The government drafted the contracts pursuant to 
+the DPA and supplied all specifications. The contractors 
+had no bargaining power at all. Indeed, the contracts at 
+issue cannot even be said to have been let merely on a 
+take-it-or-leave-it basis, but on a “take-it-or-go-to-jail” 
+basis. The contractor could not refuse to produce Agent 
+Orange, demand to produce a safer defoliant, or make one 
+that it felt was more effective. Petitioners had to produce 
+what the government demanded not through negotiation, 
+but submission.” 
+
+
+This enormous disparity in contracting power illustrates 
+the rationale for the indemnity provision of Section 707. 
+Where contracting parties negotiate terms and reach a 
+meeting of the minds, they may allocate the risk (and the 
+price) of consequential damages. 
+
+
+In the instant case, however, the contractors had no 
+such option. They were not able to negotiate liability is- 
+sues because they were ordered to produce what the gov- 
+ernment demanded. See Hercules, 24 F.3d at 190. More- 
+over, the potential danger of Agent Orange was known 
+solely to the government. The contractors were making 
+a product, under government order, with unknown dan- 
+
+
+85 Worse yet, in this case, the government knew that the product 
+potentially was dangerous; it ordered that the product not be 
+labeled as such; and it then knowingly placed military service 
+personnel in harm’s way by exposing them to the product. The 
+petitioners had no control over any of these decisions. 
+
+
+16 
+
+
+gers, unknown liability concerns, and neither the knowl- 
+edge nor the power to protect themselves from liability. 
+See William T. Thompson, 26 Cl. Ct. at 20-21 (Thompson 
+had no input regarding Agent Orange specifications and 
+government’s level of knowledge exceeded Thompson’s). 
+
+
+The Federal Circuit’s view of Section 707 studiously 
+ignores these issues, and is analogous to instances in which 
+parties enter into a contract of adhesion and the drafter 
+attempts to exculpate himself from liability while prohib- 
+iting the draftee from protecting himself.” 
+
+
+In this case, fundamental fairness requires that the gov- 
+ernment not be permitted to escape liability for damages 
+suffered by the contractors through third-party actions.*’ 
+The government’s actions (and the rulings of the district 
+court) wrongly insulate the government from its own 
+conduct. The reasonable expectations of the contractors 
+were that they would be indemnified for actions taken on 
+behalf of the government—by the Spearin doctrine for 
+contract claims, by the Boyle government contractor de- 
+fense for third-party tort claims, and by Section 707 for 
+other liabilities incurred in contract performance. These 
+reasonable expectations are being frustrated by the govern- 
+ment’s attempt to avoid its statutory liabilities under Sec- 
+tion 707. 
+
+
+Further, in imposing the Agent Orange contracts on 
+the petitioners, the government essentially took over peti- 
+tioners’ plants. The petitioners effectively lost the right 
+to their physical plant; the choice of whether or not to en- 
+gage in business; the choice of what to produce; and the 
+
+
+%¢ Such juxtaposition is all the more egregious in this case be- 
+cause the government opposed the government contractor defense in 
+the trial court and now invokes that defense as a shield. 
+
+
+57 The Court has stated “where the contract is one of adhesion, 
+where there is great disparity in bargaining power, . . . other 
+legal consequences may ensue.” D.H. Overmyer Co., Inc., of Ohio 
+v. Frick Co., 405 U.S. 174, 188 (1972). 
+
+
+17 
+
+
+choice of what market to enter.™ Were it not for the pro- 
+tection provided by Spearin, Boyle and Section 707, these 
+actions would violate the Fifth Amendment prohibitions 
+against government seizure of private property without 
+just compensation. 
+
+
+The government may not force private entities to bear 
+the costs of public benefits. This principle is basic to 
+democratic government. As one of the founders ob- 
+served, “[glovernment is instituted to protect property of 
+every sort; as well as that which lies in the various rights 
+of individuals, as that which the term particularly ex- 
+presses. This being the end of government, that alone is 
+a just government which impartially secures to every man, 
+whatever is his own.” James Madison, Property (1792), 
+reprinted in 6 The Writings of James Madison 101, 102 
+(Gaillard Hunt ed. 1906), quoted in Winstar Corp. v. 
+United States, 25 Cl. Ct. 541, 548 (1992), rev'd, petition 
+for reh’g in banc accepted, vacated, 994 F.2d 797 (Fed. 
+Cir. 1993). To view Section 707 as permitting the gov- 
+ernment to force liability, as well as production, upon a 
+contractor would be inconsistent with its historical mean- 
+ing and with other doctrines protecting contractors from 
+liability, and offend basic notions of the sanctity of prop- 
+erty from government seizure. For constitutional as well 
+as legal reasons, the Federal Circuit’s decision that the 
+DPA provides indemnity only against third-party breach 
+of contract claims must be rejected. 
+
+
+38 In this regard see FMC Corp. v. United States Department of 
+Commerce, 29 F.3d 883, 844 (8d Cir. 1994) (government exerted 
+such pervasive control over contractor in ordering it to produce 
+synthetic rubber products that government had operator liability 
+under CERCLA); see also Holodnak v. Aveo Corp., 514 F.2d 285, 
+289 (2d Cir.), cert. denied, 423 U.S. 892 (1975) (government 
+insinuated itself to such an extent into business of contractor that 
+it was a “joint participant” in contractor activities). 
+
+
+18 
+
+
+IV. THE GOVERNMENT'S ACTIONS ARE PART OF A 
+PATTERN TO AVOID LIABILITY FOR THE CON- 
+SEQUENCES OF ITS WARTIME CONTRACTS 
+
+
+In the instant case, the government has sought to avoid 
+indemnifying the petitioners under contracts it imposed 
+pursuant to the DPA. While this may seem inconsistent 
+with the government’s current position that contractors are 
+immune from government contract liability under Boyle, 
+it is consistent with the government’s attempts, in this 
+forum and in many others, to avoid the costs of its past 
+decisions, costs which in many cases are only now be- 
+coming clear.” Now that the government is realizing the 
+cost implications of its compulsory contracts for hazard- 
+ous materials critical to various defense efforts, it has 
+sought to shift these costs of its policies to the private 
+entities which were compelled to place these policies into 
+effect. 
+
+
+The DPA is not the only act placing liability for public 
+policy on the government. The government faces the same 
+threat, and has reacted similarly, in other contexts. For 
+example, in the environmental context, the government 
+has sought to avoid liability under the Comprehensive En- 
+
+
+*® Before the district court, the government attacked the gov- 
+ernment contractor defense, which it then championed to the court 
+of appeals. Such defense could also be estopped under the doc- 
+trine of inconsistent positions. When “the party against whom 
+estoppel is invoked received some benefit from the previously taken 
+position, i.e., he ‘won’ because of it and seeks to ‘win again’ from 
+his original adversary (or one in privity with that person or 
+involved in the same transaction) on a basis which contradicts the 
+prior position,” the doctine will apply. Jackson Jordan, Inc. v. 
+Plasser Am. Corp., 747 F.2d 1567, 1579-80 (Fed. Cir. 1984). 
+
+
+The requirements for the doctrine are reliance and prejudice. 
+Id, at 1580. The reliance component is the same as in a traditional 
+reliance claim. See id. at 1579-80. The prejudice component is 
+the detriment incurred by that reliance. Jd. The underlying con- 
+cern with the doctrine is abuse of the judicial system through 
+clever, amoral advocacy. Litigants are to be discouraged from 
+playing “ ‘fast and loose’ with the judicial process.” 1B James W. 
+Moore et al., Moore’s Federal Practice § 0.405[8), at III-55 (2d 
+ed. 1994); Scarano v. Central R.R. of NJ., 208 F.2d 510 (8d 
+Cir. 1953). 
+
+
+19 
+
+
+vironmental Response, Compensation, and Liability Act 
+(“CERCLA”), 42 U.S.C. § 9607 (1988). An interest- 
+ing, albeit unsuccessful government attempt to avoid such 
+liability arose recently in FMC Corp. v. United States 
+Department of Commerce, 29 F.3d 833 (3d Cir. 1994). 
+
+
+FMC involved World War II synthetic rubber produc- 
+tion contracts with a number of companies produced at 
+a plant over which the government exerted considerable 
+control. As in the instant case, in FMC the government 
+used its wartime powers to compel production of war 
+materials. FMC Corp. v. United States Dep’t of Com- 
+merce, 786 F. Supp. 471, 474-75 (E.D. Pa. 1992). 
+
+
+Years later, the Environmental Protection Agency 
+sought to recover the costs of cleaning up production 
+waste that remained at the plant from a subsequent owner, 
+FMC Corporation. FMC sought contribution under 
+CERCLA from the government, claiming that the hazard- 
+ous waste was due to wartime government contracts. The 
+government raised a number of jurisdictional and sub- 
+stantive challenges to FMC’s contribution claims. 
+
+
+In a divided en banc opinion, the Third Circuit held 
+that the government had waived sovereign immunity to 
+liability under CERCLA, and that given the extent of 
+government control over the facility, it shared liability for 
+environmental clean up. In chiding the government for 
+its assertion that a finding of governmental liability would 
+result in costs far in excess of anything Congress could 
+have intended under CERCLA, the Court noted, “we 
+point out that at bottom our result simply places a cost 
+of the war on the United States, and thus on society as a 
+whole, a result which is neither untoward nor consistent 
+with the policy underlying CERCLA.” FMC, 29 F.3d at 
+846; see also Elf Atochem N. Am., Inc. v. United States, 
+868 F. Supp. 707, 712-13 (E.D. P2. 1994) (United 
+States unsuccessfully contends tha: ““»rld War II-era 
+pollution at chemical plant could not implicate govern- 
+ment under CERCLA; cleanup liability imposed). 
+
+
+In different factual circumstances, thy zovernment has avoided 
+CERCLA liability by arguing it had insufficient control to be liable 
+
+
+20 
+
+
+The government’s actions in FMC are a primer to its 
+actions here. In the instant case, the government, through 
+the DPA, required production of Agent Orange, which 
+it deemed necessary to the war effort in Vietnam. As a 
+direct result of these required production contracts, the 
+petitioners at bar suffered liability. For the United States 
+to avoid the costs of the consequences of these contracts 
+would be neither fair nor consistent with the requirements 
+of the DPA and its underlying policy. 
+
+
+CONCLUSION 
+
+
+For the reasons stated above, the Chamber of Com- 
+merce of the United States of America respectfully re- 
+quests the Court to grant the petition for writ of certiorari. 
+
+
+Respectfully submitted, 
+
+
+HERBERT L. FENSTER * 
+HvuGo TEUFEL 
+Scott S. EVANS 
+
+RAY M. ARAGON 
+
+
+MCKENNA & CUNEO 
+
+370 17th Street, Suite 4800 
+Denver, Colorado 80202 
+(308) 684-4000 
+
+
+as an operator or arranger at a former Agent Orange plant. In 
+United States v. Vertac Chemical Corp., 1995 U.S. App. Lexis 1754 
+(8th Cir. Jan. $1, 1995), the Eighth Circuit reviewed the history 
+of the plant, formerly operated by Hercules. While finding the 
+rated contracts issued to Hercules were “substantially dictated by 
+[the government],” the court also found that the government did 
+not own the raw materials, and that Hercules’ contracts did not 
+address the disposal of wastes. Jd. at *6-*7. Since the government’s 
+“actual involvement” at the facility was “sporadic and minimal,” 
+the government could not be held liable as an arranger. Jd. at *24. 
+The court of appeals also adopted the Federal Circuit’s view that 
+the DPA does not provide general indemnity for government con- 
+tractors. Jd. at *27. 
+
+
+Of course, the Vertac analysis is inapplicable here, for it is undis- 
+puted in the instant case that the government mandated the com- 
+position and production of Agent Orange. It is useful, however, as 
+an example of the government's efforts to limit liability for damages 
+caused under its DPA contracts. 
+
+
+Dated: March 9, 1995 
+
+
+21 
+
+
+Rosin S. CONRAD 
+
+NATIONAL CHAMBER LITIGATION 
+CENTER, INC. 
+
+1615 H Street, N.W. 
+
+Washington, D.C. 20062 
+
+(202) 468-5387 
+
+Attorneys for Amicus Curiae 
+The Chamber of Commerce of 
+the United States of America 
+
+
+* Counsel of Record 
+
+

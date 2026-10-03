@@ -1,0 +1,895 @@
+. Supreme Court, U.S. 
+“) FILED 
+
+
+No. 95-6 NOV 8 1995 
+: CLERK 
+
+
+In THE 
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+NorRFOLK & WESTERN RAILWAY COMPANY, 
+
+
+7 Petitioner, 
+
+
+WILLIAM J. HILEs, 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+Appellate Court of Illinois 
+Fifth Judicial District 
+
+
+BRIEF OF ASSOCIATION OF AMERICAN RAILROADS 
+AS AMICUS CURIAE IN SUPPORT OF PETITIONER 
+
+
+ROBERT W. BLANCHETTE * 
+
+Vice President-Law and 
+General Counsel 
+
+DANIEL SAPHIRE 
+
+General Attorney 
+
+ASSOCIATION OF AMERICAN 
+RAILROADS 
+
+American Railroads Building 
+
+50 F Street, N.W. 
+
+Washington, D.C. 20001 
+
+(202) 639-2505 
+
+
+Counsel for Amicus 
+November 9, 1995 * Counsel of Record 
+
+
+WILson - Eres Printing Co., Inc. - 789-0096 - WasHINGTON, D.C. 20001 
+
+
+BEST AVAILABLE COPY 
+
+
+TABLE OF CONTENTS 
+
+
+SY MeN ecctcnscnsthcslathivnscncsmebphisiasisicmnaioas ii 
+TE MII cssiiiselnscninenahuiideciesihieaaamiidaabactnn 1 
+STATEMENT OF THE CASE. ............22ccc.cscecscscscsscsseseees 4 
+
+
+ARGUMENT ......0. a 4 
+
+
+I. THE RULING BELOW MISCONSTRUES THE 
+PURPOSE OF THE SAFETY APPLIANCE 
+ACT AND WOULD IMPOSE A TECHNOLOG- 
+ICALLY IMPOSSIBLE BURDEN ON RAIL- 
+ROADS i 4 
+
+
+A. Congress Enacted The Safety Appliance Act 
+To Ameliorate The Hazard Posed To Rail 
+Employees From Going Between Cars Dur- 
+ing The Coupling Operation ...........00000.... 5 
+
+
+B. Drawbars Must Be Realigned From Time To 
+Time And The Practice Cannot Be Outlawed.. 9 
+
+
+CR TS SOE 13 
+
+
+ii 
+TABLE OF AUTHORITIES 
+
+
+Cases Page 
+Affolder v. N.Y., C. & St. L. R. Co., 389 U.S. 96 
+acinar eeeeint hcl ela ceased 8 
+Bailey v. Central Vermont Ry., Inc., 319 U.S. 350 
+SITIIII cisicssscsietulcdinietinashathasiidenisesnbeiniianiiaenaiiitimmesbeiiiiaas 13 
+Clark v. Kentucky & Indiana Terminal R., 728 F.2d 
+fs — > = eee 10 
+Consolidated Rail Corp. v. Gottshall, 114 S. Ct. 
+RECs 11 
+Johnson v. Southern Pacific Co., 196 U.S. 1 
+a eileieesintibiaieaisenmeiannl 6,7 
+Kawvorkian v. CSX Transp., Inc., 33 F.3d 570 (6th 
+GI, SEI sc-schntnceiciatiecnnienpnntintondnbitiehinhiadiipgeapitiiniinmaiaes 8, 9, 10 
+
+
+Lisek v. Norfolk & Western Ry. Co., 30 F.3d 823 
+(7th Cir. 1994), cert. denied, 115 S. Ct. 904 
+
+
+a aenae ci eeanriniatncia allied inantaenatiinhiddatean 9,12 
+O’Donnell v. Elgin, J. & E. R. Co., 338 U.S. 384 
+
+RT REST a ae me eA Cen FOO 3 
+Reed v. Philadelphia, Bethlehem & New England 
+
+R., 939 F.2d 128 (3rd Cir. 1991) .......................... 9 
+Schneider v. National R. Passenger Corp., 987 
+
+ER SE ee ee 2 
+United Transp. Union v. Lewis, 711 F.2d 233 
+
+8,9, 11 
+Urie v. Thompson, 337 U.S. 163 (1949) 00000... 3,18 
+
+Statutes and Regulations 
+8 ES eee 4 
+I a Qa 4,6 
+49 U.S.C. § 20802(e) ............ sinenieieets ee Ee ne 4 
+4 &) ak Se 5 
+Miscellaneous 
+
+ASSOCIATION OF AMERICAN RAILROADS, CLAIM & 
+
+I I 2 
+ASSOCIATION OF AMERICAN RAILROADS, MANUAL OF 
+
+STANDARDS AND RECOMMENDED PRACTICES, Sec- 
+
+tion B, Coupler and Freight Car Draft Compon- 
+
+~ | eeRanieenies eae 10 
+
+
+iii 
+TABLE OF AUTHORITIES—Continued 
+
+
+ASSOCIATION OF AMERICAN RAILROADS, MANUAL OF 
+STANDARDS AND RECOMMENDED PRACTICES, Sec- 
+tion C-II, Specifications For Design, Fabrication 
+and Construction of Freight Cars, M-1001, 
+§ 2.1.6 (1994) .............. 
+
+Baker, Why Congress Should ‘Repeal the Federal 
+Employers’ Liability Act of 1908, 29 Harv. J. 
+On Leos. 79 (winter 1992) . 
+
+CAR AND LOCOMOTIVE CYCLOPEDIA S8-1 (8rd ed. 
+LL a ee ee 
+
+GENERAL ACCOUNTING OFFICE, INTERCITY PASSEN- 
+GER RAIL: FINANCIAL AND OPERATING CONDI- 
+TIONS THREATEN AMTRAK’S LONG TERM VIA- 
+BILITY (1995) .. ; 
+
+Letter from J.A. Angold to AAR ‘Coupler. and 
+Draft Gear Committee members (Sept. 16, 
+ESIGN EE le Se 
+
+Letter from W.A. Faris to C.L. Davidson (Dec. 23, 
+1968) . EEE ane a 
+
+Report of the Proceedings of the Twenty-First An- 
+nual Convention of the Master Car-Builders’ 
+Association, June 14-16, 1887 . 
+
+U.S. CHAMBER OF COMMERCE, 1994 ANALYSIS OF 
+WORKERS’ COMPENSATION LAWS (1994) 
+
+24 Cong. Rec. 1275 (1898) . ao A 
+
+24 Cong. Rec. 1280 (1888) ...................... cece. " 
+
+24 Cong. Rec. 1867 (1898) ............... iieaiien 
+
+
+Page 
+
+
+9, 10 
+
+
+13 
+
+
+10 
+
+
+Ne ee ee ee Te a a ee 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+OcToBerR TERM, 1995 
+
+
+No. 95-6 
+
+
+NorFo_k & WESTERN RAILWAY COMPANY, 
+Petitioner, 
+Vv. 
+
+
+WILLIAM J. HILES, 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+Appellate Court of Illinois 
+Fifth Judicial District 
+
+
+BRIEF OF ASSOCIATION OF AMERICAN RAILROADS 
+AS AMICUS CURIAE IN SUPPORT OF PETITIONER 
+
+
+This brief of the Association of American Railroads 
+is filed with the consent of the parties, the letters ex- 
+pressing consent having been filed with the Clerk of the 
+Court. 
+
+
+STATEMENT OF INTEREST OF AMICUS CURIAE 
+
+
+Amicus curiae Association of American Railroads 
+(AAR) is an incorporated, nonprofit trade association 
+representing the nation’s major freight railroads and 
+Amtrak. AAR’s members operate approximately 76 per- 
+
+
+2 
+
+
+cent of the rail industry's lire haul mileage and produce 
+94 percent of its freight revenues. AAR represents its 
+members in proceedings before Congress, the courts and 
+administrative agencies in matters of common interest. 
+
+
+One such matter is the Federal Employers’ Liability 
+Act (FELA). In 1908, before enactment of any no-fault 
+workers’ compensation statutes in the United States. Con- 
+gress structured this tort-based remedy for railroad em- 
+ployees injured on the job. Subsequently, every state 
+has enacted a workers’ compensation law, under which 
+concepts of negligence have been eliminated, leaving the 
+railroad industry virtually the only one where work- 
+related injuries are compensated under a fault-based 
+system.’ 
+
+Each year thousands of claims and lawsuits are asserted 
+under FELA against AAR members. In recent years, 
+FELA costs have risen to over $1 billion a year, far more 
+
+
+than is spent by private industry in general in payment 
+of compensation to injured employees.” 
+
+
+'Seamen are covered under FELA by virtue of 46 U.S.C. § 688. 
+All other industries in the United States are covered by either 
+state or federal no-fault workers’ compensation systems. Unlike 
+workers’ compensation, which caps benefits, U.S. CHAMBER oF Com- 
+MERCE, 1994 ANALY3IS OF WORKERS’ COMPENSATION Laws 22-25, 
+Chart VI (1994), FELA does not limit the amount of damages that 
+may be collected when a railroad is liable) A FELA verdict will 
+be deemed excessive only if it “shocks the judicial conscience.” 
+Schneider v. National R. Passenger Corp., 987 F.2d 132, 1387 (2d 
+Cir. 1993). ($1.75 million verdict, including over $1 million in 
+intangible damages, not excessive). 
+
+
+* For the past four years, the major railroads have spent between 
+$1.2 and 1.3 billion on FELA annually, or nearly 4 per cent of their 
+gross revenues. ASSOCIATION OF AMERICAN RAILROADS, CLAIM & 
+LITIGATION REPORT (Calendar years 1991, 1992, 1993, 1994) 
+(“CLaIm & LITIGATION REPORT”). Private industry other than rail- 
+roads pays about $0.36 per employee hour worked under state 
+workers’ compensation, GENERAL ACCOUNTING OFFICE, INTERCITY 
+PASSENGER RAIL: FINANCIAL AND OPERATING CONDITIONS THREATEN 
+AMTRACK’S LONG-TERM VIABILITY 59 (1995), whereas railroads 
+pay over $2.00. 1994 CLaim & LITIGATION REPORT, at 2-2. 
+
+
+3 
+
+
+AAR has a strong interest in this case because the rul- 
+ing below would result in a further enlargement of the 
+scope of FELA liability. This case concerns the inter- 
+pretation of the Safety Appliance Act, an equipment stat- 
+ute; under FELA, violation of such a statute can consti- 
+tute negligence per se. Urie v. Thompson, 337 U.S. 163, 
+189 (1949); O'Donnell v. Elgin, J. & E. R. Co., 338 
+U.S. 384, 390 (1949).* 
+
+
+AAR has a long standing expertise in railroad opera- 
+tional issues, particularly the issue presented in the case 
+at bar, the operation of couplers. For over one hundred 
+years, AAR, or its predecessor organizations, have studied 
+coupling operations, the means by which individual rail 
+cars are linked to form a train. For example, the Master 
+Car-Builders’ Association (MCBA), an AAR predeces- 
+sor organization, focussed on the issue as early as 1887. 
+MCBA concluded then that “[rjailroads have reached a 
+point where there is an absolute need for an automatic 
+train coupler; . . . The public demands it: safety of the 
+trainmen demands it; and the economical operation of 
+railroads demands it.” * 
+
+
+The expertise of the American Railway Association 
+(ARA), another AAR predecessor organization, was rec- 
+ognized by Congress when it enacted the Safety Appli- 
+ance Act in 1893. That law directed ARA to designate 
+to the Interstate Commerce Commission the standard 
+height of drawbars on freight cars. Act of March 2, 
+
+
+* Moreover, if such a statute is violated the railroad may not 
+introduce evidence that the employee's negligence contributed to 
+the injury, which ordinarily would serve to reduce any judgment in 
+proportion to the contributory negligence. 45 U.S.C. § 53. 
+
+
+* See, Report of the Proceedings of the Twenty-First Annual 
+Convention of the Master Car-Builders’ Association, June 14-16, 
+1887, 187, at 195 (Report of the Executive Committee on Auto- 
+matic Freight Couplers). The Association was engaged in the 
+evaluation and testing of various types of couplers in an effort to 
+recommend a particular type for universal use. 
+
+
+4 
+
+
+1893, c. 196, § 5, 27 Stat. 531. Congress has continued 
+to rely on the expertise of AAR in railroad operational 
+issues.” 
+
+
+In addition to expanding railroad liability, the ruling 
+below would make operational demands on railroads that, 
+for technological reasons, cannot be met. 
+
+
+STATEMENT OF THE CASE 
+
+
+Amicus adopts the statement of the case in Petitioner’s 
+brief. 
+ARGUMENT 
+
+
+I. THE RULING BELOW MISCONSTRUES THE PUR- 
+POSE OF THE SAFETY APPLIANCE ACT AND 
+WOULD IMPOSE A TECHNOLOGICALLY IMPOS- 
+SIBLE BURDEN ON RAILROADS 
+
+
+Section 2 of the Safety Appliance Act (SAA) was 
+enacted to assure that coupling devices .n rail cars will 
+function on contract with each other (or the locomotive) 
+so as to avoid the necessity for employees to go between 
+moving cars to couple them manually.’ This process is 
+called automatic coupling. 
+
+
+Today, all rail cars are equipped with automatic cou- 
+plers. However, even couplers that are in perfect work- 
+ing order will from time to time become misaligned due 
+
+
+* Recently Congress authorized the Secretary of Transportation 
+to use AAR’s services in carrving out his duties with regard to 
+power and train brakes. 49 U.S.C. § 20302(e). 
+
+
+*24 Cong. Rec. 1275 (1893). See infra pp. 6-8. Now codified at 
+49 U.S.C. § 20302(a), in pertinent part this provision reads: 
+
+
+[A] railroad carrier may use or allow to be used on any of 
+its railroad lines-— 
+(1) a vehicle only if it is equipped with— 
+(A) couplers coupling automatically by impact, and 
+capable of being uncoupled, without the necessity of 
+individuals going between the ends of the vehicles; 
+
+
+5 
+
+
+to the horizontal play of the drawbar required to permit 
+the rounding of curves without derailment.’ 
+
+
+The court below held that SAA holds a railroad is 
+liable as a matter of law if an employee is injured while 
+going between rail cars to align a drawbar for coupling. 
+Since the court prohibited the railroad from introducing 
+evidence that the coupler was not defective, the ruling 
+essentially makes misalignment negligence per se. 
+
+
+The result is contrary to the intent of Congress in both 
+SAA and FELA. Moreover, it ignores the realities of 
+railroad operations and the state of rail technology. 
+To uphold the court below would force railroads to aban- 
+don existing technology completely for an alternative that 
+does not exist, and that certainly did not exist in 1893 
+when SAA was enacted. Congress never intended to pre- 
+sent the industry with an operating impossibility. 
+
+
+A. Congress Enacted The Safety Applicance Act To 
+Ameliorate The Hazard Posed To Rail Employees 
+From Going Between Cars During The Coupling 
+
+
+Operation 
+
+
+For this Court fully to appreciate the error below, some 
+historical background is useful. Inherent in the concept 
+of a train is that individual railroad cars can be assembled 
+together (i.e., coupled) to travel a designated route. At 
+the end of the route, the cars can be reassembled in dif- 
+ferent configurations for other destinations. In the United 
+States, where origins and destinations spanned great dis- 
+tances and involved numerous rail companies, the growth 
+and success of the technology required ease and uniform- 
+
+
+7 See infra notes 14-15 and accompanying text. Federal Railroad 
+Administration regulations recognize that couplers must contain 
+sufficient lateral play to prevent “fouling on curves.” 49 C.F.R. 
+Part 215.125. For the purposes of this brief, the terms “couplers,” 
+“drawbars” and “knuckles” are used by AAR as they are described 
+in the Statement of the Case in Petitioner's Brief. 
+
+
+6 
+
+
+ity of such interchange. Obviously then, the efficiency 
+of the coupling procedure has always been of critical 
+importance. 
+
+
+As railroads built the nation’s commercial network, 
+there was a human toll. In the normal course of opera- 
+tions, rail employees were required to go between cars 
+and perform coupling operations manually. This re- 
+quired standing between two cars as one moved toward the 
+other. In the early days, several hundred employees were 
+killed each year while coupling cars." 
+
+
+During the last decade of the Nineteenth Century, Con- 
+gress focused its attention on the perils of railroad work, 
+and in particular the danger inherent in what was then 
+the typical manner in which rail cars were connected. 
+The high rate of death and injury resulting from this 
+practice led Congress te enact section 2 of SAA, which, 
+after a date certain, made it unlawful: 
+
+
+for any . . . common carrier to haul or permit to 
+be hauled or used on its line any car used in moving 
+interstate traffic not equipped with couplers coupling 
+automatically by impact, and which can be uncoupled 
+without the necessity of men going between the ends 
+of cars.” 
+
+
+By this act, Congress sought to change the existing 
+practice to the extent it required employees to go between 
+rail cars and attempt to couple them as one car moved 
+toward the other. As the legislative history explains: 
+
+
+*24 Cong. Rec. 1275 (1893). The act of coupling alone accounted 
+for about 15 per cent of all rail employee fatalities. /d. 
+
+
+*This Court ruled that the statute should be read as though 
+there were a comma after the word “uncoupled” so that the words 
+“without the necessity of men going between the ends of cars” 
+applies to the acts of both coupling and uncoupling. Johnson v. 
+Southern Pacific Co., 196 U.S. 1, 18-19 (1904). For many years 
+found at 45 U.S.C. § 2, section 2 has been recodified at 45 U.S.C. 
+§ 20302(a). Supra note 6. 
+
+
+7 
+
+
+A railroad employee . . . is asked to step inside the 
+track, stand up against a car which is not moving, 
+and watch the coming of another car, which is being 
+pushed steadily up against the car near which he 
+stands. 
+
+
+24 Cong. Rec. 1280 (1893). This practice was neces- 
+Sitated because, at that time, many rail cars were not 
+equipped with couplers that coupled automatically on 
+impact. Moreover, even in the case of cars equipped 
+with so-called automatic couplers, because of the lack of 
+uniformity, coupling generally could not be accomplished 
+without requiring an employee to go between the cars: 
+automatic couplers that were not compatible still had to 
+be coupled manually. 
+
+
+SAA, therefore, required that rail cars be equipped with 
+automatic couplers, and that all couplers be sufficiently 
+compatible so they would couple upon impact. Johnson, 
+at 16-17." Technology was not an inhibiting factor. 
+
+
+Section 2 of SAA must be interpreted in the context of its 
+original purpose. While it prohibits employees from going 
+between cars to effect the actual coupling of cars, it does 
+not prohibit other activities, including preparations that 
+are necessary to permit cars to be coupled. The statute 
+does not prohibit, nor was it intended to prohibit, em- 
+ployees from going in between cars to prepare knuckles 
+or drawbars for coupling, operations that can and do take 
+place while the cars are stationary. As the legislative 
+history makes clear, these activities were not what con- 
+cerned Congress: 
+
+
+. . very few people have lost their lives by coupling 
+inventions [sic] between cars when they are at a 
+
+
+' The legislative history explained that “(t]he bill does not 
+require any particular kind of coupler to be adopted by the rail- 
+roads, except a coupler which can be coupled and uncoupled without 
+requiring anybody to go between cars.” 24 Cong. Rec. 1280 (1893). 
+It was left to the railroads to reach consensus on what type of 
+couplers to use to ensure compatibility. 
+
+
+8 
+
+
+standstill, but it is the continuous shifting and mov- 
+ing of cars in which the brakeman is expected to do 
+the work under circumstances of great danger. 
+
+
+24 Cong. Rec. 1367.” 
+
+
+This Court has previously recognized that SAA does 
+not impose an absolute ban on employees going between 
+cars, only a ban on employees going between cars to 
+perform the act of coupling the cars. Affolder v. N.Y., 
+C. & St. L. R. Co., 339 U.S. 96 (1950)." The same 
+conclusion was reached after a comprehensive and care- 
+ful review of the legislative history of SAA by the Court 
+of Appeals for the District of Columbia in United Tranp. 
+Union v. Lewis, 711 F.2d 233 (D.C. Cir. 1983), which 
+found “that the scope of Section 2 is confined to the re- 
+quirement that railroad cars be ‘equipped’ with automatic 
+couplers that can be operated without the necessity of men 
+going between the ends of the cars, and . . . that the stat- 
+ute does not separately prohibit the act of going between 
+cars.” Jd. at 251. The Lewis court pointed out that 
+
+
+11 Any suggestion that SAA was meant to bar any operation 
+requiring employees to go between cars is further belied by the 
+explicit recognition by Congress that the connection of air hoses 
+(essential for braking), which might require employees to go 
+between cars, would continue. 24 Cong. Rec. 1367. 
+
+The most recent decision by a federal court of appeals on this 
+issue, Kavorkian v. CSX Transp., Inc., 33 F.3d 570 (6th Cir. 1994), 
+also recognized this important point: “Although workers must go 
+between the cars to realign even non-defective drawbars, the danger 
+in doing so does not come from the situation against which the 
+FSAA seeks to safeguard (workers having to go between railroad 
+cars moving together); the danger here is outside § 2’s contem.- 
+plated scope.” 33 F.3d at 575. 
+
+
+12 In Affolder, the Court ruled that if the coupler failed to couple 
+because the knuckle had not been opened, there would be no viola- 
+tion of the act. 339 U.S. at 99. on 
+
+
+1% The Lewis case did not involve a personal injury suit, but 
+rather, a challenge by a rail union to a ruling by the Federal Rail- 
+road Administration that a procedure employed by a railroad that 
+required employees partially to go between cars did not violate SAA. 
+
+
+9 
+
+
+SAA did not address operating procedures, and that if it 
+was read as a blanket prohibition against going between 
+cars during coupling operations, it would render it im- 
+possible to couple cars. Id. at 245. Since the Lewis deci- 
+sion, the other federal courts of appeals considering 
+the issue have recognized that the purpose of SAA is to 
+require that cars be equipped with automatic couplers in 
+working order, not to prohibit employees from going be- 
+tween cars to perform activities other than coupling. See, 
+Kavorkian; Lisek v. Norfolk & Western Ry. Co., 30 F.3d 
+823 (7th Cir. 1994), cert. denied, 115 S. Ct. 904 
+(1995); Reed v. Philadelphia, Bethlehem & New Eng- 
+land R., 939 F.2d 128 (3d Cir. 1991). . 
+
+
+B. Drawbars Must Be Realigned From Time To Time 
+And The Practice Cannot Be Outlawed 
+
+
+The decision below ignores a fundamental aspect of 
+railroad operations. In order for rail cars to operate on 
+curved track there must be some degree of play in the 
+coupler unit."* A rigid coupling mechanism would result 
+in derailments. Thus, lateral play in drawbars is a fact 
+of railroad life. A corollary fact is that coupler units, 
+even in working order, may occasionally move out of line 
+to the point where they will not couple on impact unless 
+realigned.” 
+
+
+* See, ASSOCIATION OF AMERICAN RAILROADS, MANUAL OF STAND- 
+ARDS AND RECOMMENDED PRACTICES, Section C-II, Specifications For 
+Design, Fabrication And Construction of Freight Cars, M-1001, 
+§2.1.6 (1994). [“MANUAL OF STANDARDS AND RECOMMENDED 
+PRACTICES” | 
+
+
+' Federal courts that have considered this matter have reached 
+the same conclusion. Lisek, supra (“{I]t is uncontested for the 
+purposes of this case that nondefective coupling mechanisms can, 
+through the normal course of railyard operations, become mis- 
+aligned to an extent that they will not couple without preliminary 
+realignment.” 30 F.3d at 831); Kavorkian, supra (“|A) drawbar 
+frequently becomes misaligned by the normal jarring and vibra- 
+tions of the railroad car or when the car is uncoupled on a different 
+
+
+10 
+
+
+The railroad industry is constantly alert to technogical 
+changes dealing with both interchangeability and the need 
+to keep couplers in alignment. In furtherance of this goal, 
+AAR has promulgated a set of mechanical rules for 
+freight cars, known as the Interchange Rules. The specific 
+mechanical standards referenced in the Rules are pub- 
+lished by AAR in the “Manual of Standards and Recom- 
+mended Practices.” 
+
+
+Among other things, the Rules prescribe what types 
+of couplers may be used to ensure interchangeability 
+among cars." In addition, the amount of lateral play 
+needed in drawbars so that rail cars of various sizes can 
+safely round curves is specified." These specifications are 
+derived from mathematical formulae relating to the length 
+of cars and track curvature. 
+
+
+A satisfactory technology to address drawbar misalign- 
+ment has yet to emerge. Efforts to develop technology 
+that would cause couplers to realign automatically have 
+been attempted. Self centering devices for couplers were 
+introduced in the mid-1960’s and were used for a time in 
+
+
+track, to such a degree that coupling can not occur without realign- 
+ment.” 33 F.3d at 575). 
+
+In Clark v. Kentucky & Indiana Terminal R., 728 F.2d 307 (6th 
+Cir. 1984), the Court opined, in dicta, that the lateral play needed 
+to round curves would not cause a drawbar to become misaligned, 
+and that a coupler in need of realignment in order to effect coupling 
+was necessarily defective. This simply is not factually correct, and 
+Kavorkian, acknowledging this point, rejected this aspect of the 
+Clark ruling. 33 F.3d at 575. 
+
+
+16 MANUAL OF STANDARDS AND RECOMMENDED PRACTICES, Section 
+B, Coupler and Freight Car Draft Components, M-211 (1994). In 
+1916, ARA adopted the Type D coupler as a standard. This was the 
+first coupler in which parts provided by all manufacturers were 
+completely interchangeable. In subsequent years, new designs were 
+adopted by ARA, and later AAR. See, CAR AND LOCOMOTIVE CYCLO- 
+PEDIA S8-1 (3rd ed. 1974). 
+
+
+17 MANUAL OF STANDARDS AND RECOMMENDED PRACTICES, M-1001. 
+supra note 14. 
+
+
+1] 
+
+
+limited circumstances." AAR undertook extensive evalua- 
+tion of these devices. These investigations revealed prob- 
+lems with the devices that were not addressed in a satis- 
+factory manner.” As a result, such devices eventually 
+fell into disuse and are not used by railroads today. 
+
+
+Thus, the need for manually realigning drawbars that 
+have moved off center is, and will continue to be, an 
+integral part of railroad operations. SAA ought not be 
+interpreted as converting a common and unavoidable 
+practice into a violation of the law.” 
+
+
+There is no conflict between SAA and the practical 
+needs of railroad operations, and this Court should estab- 
+lish a rule that is consistent with both. Where an em- 
+ployee can show an injury caused by the failure of a 
+coupler to couple automatically on impact, and no cause 
+other than a defect or malfunction of the coupler can be 
+attributed, there would be a violation of SAA, and lia- 
+bility would be established. However, where an injury 
+occurs when an employee goes between a car to perform 
+
+
+'* The Lewis court noted this experimental use. 711 F.2d at 235 
+n. 5. 
+
+
+'® See e.g., Letter from J.A. Angold, Director Technical Research 
+and Development, Atchison, Topeka & Santa Fe Railway Co. to 
+AAR Coupler and Draft Gear Committee members (Sept. 16, 1968) 
+(reporting that an investigation on his railroad revealed that 28 
+of 38 of a particular coupler centering device installed were found 
+to be inoperative.) ; Letter from W.A. Faris, Asst. Manager Power 
+and Equipment-Car to C.L. Davidson, Secretary, AAR Mechanical 
+Division (Dec. 23, 1968) (reporting that an investigation on his 
+railroad revealed that only 34.8% of the cars with a particular 
+coupler centering device installed had operative devices.) (Letters 
+are on file at the office of Amicus, 50 F Street, N.W., Washington, 
+D.C. 20001.) 
+
+
+*°To do so would render railroads insurers of their employees’ 
+safety in circumstances never contemplated by SAA or FELA. 
+As this Court recently reaffirmed, “FELA does not make the em- 
+ployer the insurer of the safety of his employees while they are on 
+duty. The basis for his liability is his negligence, not the fact that 
+injuries occur.” Consolidated Rail Corp. v. Gottshall, 114 S. Ct. 
+2396, at 2404 (1994). 
+
+
+12 
+
+
+a task preparatory to coupling, or where the railroad can 
+show that failure to couple was the result of a cause 
+other than a defect in or malfunction of the equipment, 
+SAA would not be violated. In this situation, the em- 
+ployee could still offer evidence that the injury resulted 
+from the carrier’s negligence; however, a ruling of negli- 
+gence per se would be inappropriate. 
+
+
+Whether an unsuccessful attempt to couple had been 
+made prior to an injury should not be determinative of 
+whether SAA has been violated.”’ Otherwise, two situa- 
+tions where a nondefective coupler becomes misaligned 
+in the course of normal rail operations could lead to dif- 
+ferent results, solely based on an employee's initial estima- 
+tion of whether a drawbar is properly aligned. For 
+example, where an employee notices a misaligned draw- 
+bar, attempts to couple it and is injured, no SAA violation 
+would occur, and negligence would need to be shown in 
+order to recover. However, a different result would ob- 
+tain where an employee does not notice the drawbar is 
+misaligned, and attempts, unsuccessfully, to couple the 
+cars. If the employee then attempted to align the drawbar 
+now perceived to have been misaligned and is injured, a 
+finding of an SAA violation, and negligence per se, would 
+follow if a failed attempt to couple were determinative. 
+
+
+By ignoring clear intent of SAA, and the majority of 
+federal court decisions, and finding SAA applicable 
+in cases where there was no defect in or malfunction of 
+the coupling device, the court below has expanded the 
+notion of strict liability under FELA and shifted the bal- 
+ance in FELA prescribed by Congress.” In expanding 
+railroad liability, the court below improperly made a 
+public policy decision. An argument can be made that 
+
+
+“1 The Lisek court questioned whether a prior unsuccessful at- 
+tempt at coupling would trigger liability. 30 F.3d at 831, n. 15. 
+
+
+22 While proof of negligence is a prerequisite for recovery under 
+FELA, damages are uncapped. See supra note 1. 
+
+
+- A 
+
+
+13 
+
+
+the rail industry should be treated like all others in that 
+strict liability ought to obtain for workplace injuries.” 
+However, this is an argument that must be made to the 
+Congress. 
+
+
+CONCLUSION 
+
+
+On the basis of the foregoing, amicus curiae respect- 
+fully submits that the judgment of the Appellate Court of 
+Illinois in this case be reversed. 
+
+
+Respectfully submitted, 
+
+
+ROBERT W. BLANCHETTE * 
+
+Vice President-Law and 
+General Counsel] 
+
+DANIEL SAPHIRE 
+
+General Attorney 
+
+ASSOCIATION OF AMERICAN 
+RAILROADS 
+
+American Railroads Building 
+
+50 F Street, N.W. 
+
+Washington, D.C. 20001 
+
+(202) 639-2505 
+
+Counsel for Amicus 
+
+
+November 9, 1995 * Counsel of Record 
+
+
+“ See, Baker, Why Congress Should Repeal the Federal Em- 
+ployers’ Liability Act of 1908, 29 Harv. J. on Lecis. 79 (winter 
+1992). This Court has questioned the wisdom of FELA but has 
+recognized that it is within Congress’ province to make any change. 
+See e.g., Bailey v. Central Vermont Ry., Inc., 319 U.S. 350, 354 
+(1943); Urie v. Thompson, 337 U.S. at 196 (Frankfurter, J. con- 
+curring in part). 
+
+

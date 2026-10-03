@@ -1,0 +1,617 @@
+[
+  {
+    "file": "SAFE_chesapeake_23._Suggestion_of_Mootness.txt",
+    "bytes": 4653,
+    "sha256": "41cc58fccacc5001d5d8a590c3a2194ba3626fa6c94015b9971b44ebb45a3007"
+  },
+  {
+    "file": "SAFE_chesapeake_24._Reply_Brief.txt",
+    "bytes": 17576,
+    "sha256": "6b8789c066750f49387c9886ad331789ede7a90701ce11fa25da7906e3b4c04a"
+  },
+  {
+    "file": "SAFE_chesapeake_25._Reply_Brief.txt",
+    "bytes": 11938,
+    "sha256": "d3bf6a2e6ef2753331e02d349d044f66be8f2a9acb64a14f9d740d6fe5d2a538"
+  },
+  {
+    "file": "SAFE_chesapeake_JA_record_pp1_23.txt",
+    "bytes": 34302,
+    "sha256": "d0cf7d1fca29da9737a1ad80a2ef4cf179fa599f647eab802e27e48ff658bc89"
+  },
+  {
+    "file": "SAFE_hercules_02._Petition_for_Writ_of_Certiorari.txt",
+    "bytes": 51008,
+    "sha256": "fb8fc6ff237b61bbe95d3a66b51b5be6f79ad83b5662de66554503ee3b363bdd"
+  },
+  {
+    "file": "SAFE_hercules_03._Appendix.txt",
+    "bytes": 221302,
+    "sha256": "4feab9433c019f462f0216ab6d9a08be07296b6549a7a5a66e5eefb281758318"
+  },
+  {
+    "file": "SAFE_hercules_04._Opposition_Brief.txt",
+    "bytes": 42474,
+    "sha256": "752199f282b8df2e30f5a278f007e797cf68d0c5be5a4f5a7edbb597c8924298"
+  },
+  {
+    "file": "SAFE_hercules_05._Reply_Brief.txt",
+    "bytes": 19713,
+    "sha256": "15212b15f490e4b11376bbbb9fdfdaa9c08f7cb262d7c72e307e001f6d33872e"
+  },
+  {
+    "file": "SAFE_hercules_06._Amicus_Curiae_Brief.txt",
+    "bytes": 49113,
+    "sha256": "79f29f71567dc704aebf58aa08ebd9b162bc2e88980c622d9e48e8ae9f44b8bf"
+  },
+  {
+    "file": "SAFE_hercules_07._Joint_Appendix.txt",
+    "bytes": 114525,
+    "sha256": "ee284ed77369a047be412a0380169cc4612d81b1e999fd0b3b46bee5bdc022d5"
+  },
+  {
+    "file": "SAFE_hercules_08._Petitioners_Brief.txt",
+    "bytes": 88836,
+    "sha256": "f0b90fe4844dcb51f9242b87c369e9c7bd205f15f4994b0982d42b71020c4c10"
+  },
+  {
+    "file": "SAFE_hercules_09._Respondents_Brief.txt",
+    "bytes": 96410,
+    "sha256": "ddf07202a69d08ff9a47d654b73128976e58f8a2d4cffafdaed77147ea91962c"
+  },
+  {
+    "file": "SAFE_hercules_10._Reply_Brief.txt",
+    "bytes": 47971,
+    "sha256": "0ed3cd59ae14a4220a81b27fd302c1a4f29576385ac9a3a0e3b5630f5def3cb2"
+  },
+  {
+    "file": "SAFE_hercules_11._Amicus_Curiae_Brief.txt",
+    "bytes": 19866,
+    "sha256": "3053795ab8ad5678994a7dd7cce508b0406b819c7b2ab97838b868afd4465cd1"
+  },
+  {
+    "file": "SAFE_hercules_12._Amicus_Curiae_Brief.txt",
+    "bytes": 69790,
+    "sha256": "39c1d41c598038e749172457800206fcceae0a0753f7a3fea1b32f048b215406"
+  },
+  {
+    "file": "SAFE_hercules_13._Amicus_Curiae_Brief.txt",
+    "bytes": 66467,
+    "sha256": "da1c54da2bfa283f0da1e5c0fa66618731b6473f68d6f3f8c95921af602ec9ca"
+  },
+  {
+    "file": "SAFE_hiles_02._Petition_for_Writ_of_Certiorari.txt",
+    "bytes": 45719,
+    "sha256": "0cf75573d34daca1b3784cf7b565356f07420b19ac5e51fa1fe12d96806f6507"
+  },
+  {
+    "file": "SAFE_hiles_07._Petitioners_Brief.txt",
+    "bytes": 59206,
+    "sha256": "cfa852633933f7f853488f56e5a18e642d7af6d93014a7bc7a30f275ccdbb3f8"
+  },
+  {
+    "file": "SAFE_hiles_08._Respondents_Brief.txt",
+    "bytes": 55348,
+    "sha256": "4d391a1cff42dd1f92a90ea0f9456b3585b0ffde7d8df39c45c3e528c65f9e17"
+  },
+  {
+    "file": "SAFE_hiles_09._Reply_Brief.txt",
+    "bytes": 31853,
+    "sha256": "06d5c9f4dd5d7764216121337d4c7775e2a9b3c6fc53b2f6ad1d74f564cdf53c"
+  },
+  {
+    "file": "SAFE_hiles_JA_lower_court_record.txt",
+    "bytes": 25164,
+    "sha256": "37b74862d4e3deeb07e3e22b5b3a2c6403defdfbafbfa58c025321b5424e3497"
+  },
+  {
+    "file": "SAFE_lewis_711_f2d_233_opinion.txt",
+    "bytes": 73962,
+    "sha256": "fd62bb3ad0089050813dc627697507c6f7bf80caab9d6a4715a745d8b811b276"
+  },
+  {
+    "file": "SAFE_matsushita_02._Petition_for_Writ_of_Certiorari.txt",
+    "bytes": 74094,
+    "sha256": "140d399335fd1b2bffb824c9cd955669cb898be5c13f055f2cc4cfbc180cb10e"
+  },
+  {
+    "file": "SAFE_matsushita_03._Appendix.txt",
+    "bytes": 219868,
+    "sha256": "21bf98080712c7894116e7174bea4f6acbf0b0d7295adc6e9b1bd8d59e3a9d5d"
+  },
+  {
+    "file": "SAFE_matsushita_04._Opposition_Brief.txt",
+    "bytes": 50675,
+    "sha256": "8b5f5a16674623fe898e1d7d3db1d6ad47d7e43aa56390b99b46f9c71ffe3754"
+  },
+  {
+    "file": "SAFE_matsushita_05._Opposition_Brief.txt",
+    "bytes": 40625,
+    "sha256": "a10e89b67d50595ad8f4dfc9d26d1074d5dc102a4846d44205de3545c44adc2c"
+  },
+  {
+    "file": "SAFE_matsushita_06._Reply_Brief.txt",
+    "bytes": 22429,
+    "sha256": "4ed0f057b3bdad3a01b4b173c3227d29b64c59f2c95e5880f830a45eedf2cd97"
+  },
+  {
+    "file": "SAFE_matsushita_07._Amicus_Curiae_Brief.txt",
+    "bytes": 32684,
+    "sha256": "65b8f6cfad33806ec4ba4a84d5ac947109a13ee9a3d08318f93932e3abf47469"
+  },
+  {
+    "file": "SAFE_matsushita_08._Joint_Appendix.txt",
+    "bytes": 425409,
+    "sha256": "62cc0c008e11c0f8fde48c8eaa21973ff445229c262e95bd26bfd16d06e942d3"
+  },
+  {
+    "file": "SAFE_matsushita_09._Petitioners_Brief.txt",
+    "bytes": 128209,
+    "sha256": "8781ef98ec23f4d12b5070da2897376c59c130b68ebbe3166a4b0f9344b0bffd"
+  },
+  {
+    "file": "SAFE_matsushita_10._Respondents_Brief.txt",
+    "bytes": 105243,
+    "sha256": "cb9c42230c26a0989e8d358373afdfc03720f76f158bc6e497ce54b1002ee5e0"
+  },
+  {
+    "file": "SAFE_matsushita_11._Reply_Brief.txt",
+    "bytes": 47272,
+    "sha256": "19d1bba26ff8f061f2e5c5706cdd76145918cd2e1f95c276b3b276adb5edb80f"
+  },
+  {
+    "file": "SAFE_matsushita_12._Amicus_Curiae_Brief.txt",
+    "bytes": 39567,
+    "sha256": "3f834c2e63d8671e057da7322f51e7924f0d38d7466703e1f85c6b25a6809c8e"
+  },
+  {
+    "file": "SAFE_matsushita_13._Amicus_Curiae_Brief.txt",
+    "bytes": 35852,
+    "sha256": "39e037c6212c7a2e831a4a0376ac5ad4dccfdd170c9302995df673e05c039be4"
+  },
+  {
+    "file": "SAFE_telecommunications_1996_section302.txt",
+    "bytes": 22684,
+    "sha256": "50225b68bd9e985b2ec6e0728157f2b052f7a2e503a742315f91c74d9bbd6493"
+  },
+  {
+    "file": "SOURCE_FACTS_SAFE.md",
+    "bytes": 15295,
+    "sha256": "a2dc5e46909ff35f623a9590af8c5482b7693baa2e8880369b4655cf154127ef"
+  },
+  {
+    "file": "affolder_339_us_96.html",
+    "bytes": 44205,
+    "sha256": "c15c12a83d2394457b172f39414f7e3b349b77e48223344cf8527a0043a1716a"
+  },
+  {
+    "file": "affolder_339_us_96.txt",
+    "bytes": 16252,
+    "sha256": "3ef8a7bb83821595544394f26a7faa10e7fdd91d4f2f19784d0ca40c9bdb0b77"
+  },
+  {
+    "file": "archive_bell_atlantic_search.json",
+    "bytes": 490,
+    "sha256": "a31777675b1a7fcf31b4dc176bf1b93208f89c5063fd21f7d9e9caacdddce2f2"
+  },
+  {
+    "file": "archive_chesapeake_metadata.json",
+    "bytes": 317164,
+    "sha256": "bb109a41c0614297a92c3cfd85a7fec3c122f7f9d05334e527d28b070d380040"
+  },
+  {
+    "file": "archive_chesapeake_search.json",
+    "bytes": 490,
+    "sha256": "751f65b427fc46218edfa4efedf1bc389d404b3fe9c47856b729cce32f1f3a1e"
+  },
+  {
+    "file": "archive_hercules_metadata.json",
+    "bytes": 161313,
+    "sha256": "3b80a2984bb788a69ba38a3d513e1a5d30dbbaff6c9ff7062811ad5c717df705"
+  },
+  {
+    "file": "archive_hercules_search.json",
+    "bytes": 464,
+    "sha256": "7e11c843d394cdfb77c10bc809d5839fb8f60f93c249bc762aced3632283b672"
+  },
+  {
+    "file": "archive_hiles_metadata.json",
+    "bytes": 83094,
+    "sha256": "295bac7121c6cb6f0db6979471b42dcf3ae36e405dd5eb2625c89c6fb34bac6d"
+  },
+  {
+    "file": "archive_hiles_search.json",
+    "bytes": 455,
+    "sha256": "26bb75af384afcdc18bd1dd8f929710dea915ba2d43229b499771bcb6a28bf8d"
+  },
+  {
+    "file": "archive_matsushita_metadata.json",
+    "bytes": 147976,
+    "sha256": "469ac6b0fbacd2eb0af055a45ec2715249c7b7a494fb3abb3f54e0bac206c446"
+  },
+  {
+    "file": "archive_matsushita_search.json",
+    "bytes": 479,
+    "sha256": "1c9514f1ec22cbfd689beef5b708540d4cfa5068b8626208ac0819a9b6b1ed66"
+  },
+  {
+    "file": "carter_338_us_430.html",
+    "bytes": 50669,
+    "sha256": "3a60f19963668750bcb3fcafd9d1b9f32e2b7bf19448d5f6abc4fb69c7b7f70d"
+  },
+  {
+    "file": "carter_338_us_430.txt",
+    "bytes": 21338,
+    "sha256": "5506d83a7ce0c512a0fde575a716849f961409bdcc1e4c1114428bad82f54a1d"
+  },
+  {
+    "file": "chesapeake_02._Petition_for_Writ_of_Certiorari.txt",
+    "bytes": 320904,
+    "sha256": "a717e41d2d21befbb426148e8cd429eae96cf009bd2add5a37bdb1fccdf36986"
+  },
+  {
+    "file": "chesapeake_03._Respondents_Brief.txt",
+    "bytes": 119115,
+    "sha256": "6b924ec779deee702d8208c45e6dd7719d928a861616474c2b84118c29c434ca"
+  },
+  {
+    "file": "chesapeake_04._Reply_Brief.txt",
+    "bytes": 8959,
+    "sha256": "a5bf136ddbe7a856fa30cc782d70ced4d7b84ea0b51981ae026fa4a9e1fad50c"
+  },
+  {
+    "file": "chesapeake_05._Amicus_Curiae_Brief.txt",
+    "bytes": 21503,
+    "sha256": "024c93bd80669102074c6937fab5f8279eac80831256c6a0300c64ac6dd098d6"
+  },
+  {
+    "file": "chesapeake_06._Amicus_Curiae_Brief.txt",
+    "bytes": 18832,
+    "sha256": "d857ca2612e28a9dc28fff62c26b774aa28e76217177f199837a0bd84305d6f0"
+  },
+  {
+    "file": "chesapeake_07._Amicus_Curiae_Brief.txt",
+    "bytes": 19013,
+    "sha256": "9f90ab81ba70c279a8d805ca2c84447f5ef7479576412609e1fe061f12c1e30d"
+  },
+  {
+    "file": "chesapeake_08._Joint_Appendix.txt",
+    "bytes": 621843,
+    "sha256": "0186a890307e3dcc81fba166a7e6caec80d8192a574e7f04b95feff498db3e03"
+  },
+  {
+    "file": "chesapeake_09._Petitioners_Brief.txt",
+    "bytes": 112974,
+    "sha256": "0aba1b8cce5535a15a3cfabd70c2355fe0bf8f3046ea73ebd4f62d9b591bd88a"
+  },
+  {
+    "file": "chesapeake_10._Petitioners_Brief.txt",
+    "bytes": 90833,
+    "sha256": "5407f7eb126827cac6b9141a1bbcf42d49ff75d1a5688e29e9fca9890b3bc366"
+  },
+  {
+    "file": "chesapeake_11._Respondents_Brief.txt",
+    "bytes": 121291,
+    "sha256": "f3b8a26d1320972843e5b00fee5bed190fe407871d67347470f5faaf54578605"
+  },
+  {
+    "file": "chesapeake_12._Reply_Brief.txt",
+    "bytes": 37243,
+    "sha256": "6f3b4046d0e0375191cc81efc8d8b03c3e2d2d493985648a21699e10af323c1b"
+  },
+  {
+    "file": "chesapeake_13._Reply_Brief.txt",
+    "bytes": 45014,
+    "sha256": "99d5b3762723132d08cf8b2187cabad6d97590df1eabb22a0e7744c5ac9bdfd0"
+  },
+  {
+    "file": "chesapeake_14._Amicus_Curiae_Brief.txt",
+    "bytes": 42246,
+    "sha256": "9c82da77d01942b1cb1b2845b45e4df45e3ae140d8964dba81d7e8decc756a5d"
+  },
+  {
+    "file": "chesapeake_15._Amicus_Curiae_Brief.txt",
+    "bytes": 24782,
+    "sha256": "9f496ada6d126c3bbfafd838eb910bb63c349a1f3e1eff77f9e8c66cafd63594"
+  },
+  {
+    "file": "chesapeake_16._Amicus_Curiae_Brief.txt",
+    "bytes": 40701,
+    "sha256": "8c51d9c0ef11ccae2398be9eddf09ef60f526420aa900c78f693076d8d750edc"
+  },
+  {
+    "file": "chesapeake_17._Amicus_Curiae_Brief.txt",
+    "bytes": 31094,
+    "sha256": "05dec480a51a2e0c543a5f9356652880e7984b3495fc7853ebee7facbb874464"
+  },
+  {
+    "file": "chesapeake_18._Amicus_Curiae_Brief.txt",
+    "bytes": 58911,
+    "sha256": "820b60fda821b9053f7c2bc06eb215f0e13832b2dd1d3b9a1fea86a67d3880c1"
+  },
+  {
+    "file": "chesapeake_19._Amicus_Curiae_Brief.txt",
+    "bytes": 41218,
+    "sha256": "53ba3abba5973cdc2e8713faec2b62992e21b1158b4aff8e7e69492d1f355d3f"
+  },
+  {
+    "file": "chesapeake_20._Amicus_Curiae_Brief.txt",
+    "bytes": 60889,
+    "sha256": "9024688fe070f8fd61f690167a475ee71312c05ef178584158f6a7ed79d85c74"
+  },
+  {
+    "file": "chesapeake_21._Amicus_Curiae_Brief.txt",
+    "bytes": 73564,
+    "sha256": "be805edfc27a41ce075d22a8e546d5734a0b61199db5dadaa74c5d1840ee7eb4"
+  },
+  {
+    "file": "chesapeake_22._Amicus_Curiae_Brief.txt",
+    "bytes": 38354,
+    "sha256": "9b5bfb410ec2e75de587c553cec632c63e0585e3f06612252eb53fa65d47744f"
+  },
+  {
+    "file": "chesapeake_23._Suggestion_of_Mootness.pdf",
+    "bytes": 570451,
+    "sha256": "8ad23630af4adbcbe26a15effc6fafc3ba70f39f588bea15ed3bd136a92f965f"
+  },
+  {
+    "file": "chesapeake_23._Suggestion_of_Mootness.txt",
+    "bytes": 4653,
+    "sha256": "41cc58fccacc5001d5d8a590c3a2194ba3626fa6c94015b9971b44ebb45a3007"
+  },
+  {
+    "file": "chesapeake_24._Reply_Brief.pdf",
+    "bytes": 2044882,
+    "sha256": "75a2d7de8a5e998d6de48c6fb69348e829f130fdc3bbc5efc38010ac093c7c7d"
+  },
+  {
+    "file": "chesapeake_24._Reply_Brief.txt",
+    "bytes": 19827,
+    "sha256": "34646fdc0080725be95fac0ddd4d50f2939c54502f41f5dc8c647e7ec0bf4c99"
+  },
+  {
+    "file": "chesapeake_25._Reply_Brief.pdf",
+    "bytes": 1266566,
+    "sha256": "809fadd0de210a067788dd0411d6eeb11379a02ef88bf13034003113aa7d03d8"
+  },
+  {
+    "file": "chesapeake_25._Reply_Brief.txt",
+    "bytes": 12002,
+    "sha256": "16bca503904f75e0a839334e39f6b19c931b2c88bc606ffa0d8c469e603cacfd"
+  },
+  {
+    "file": "hercules_02._Petition_for_Writ_of_Certiorari.pdf",
+    "bytes": 6156606,
+    "sha256": "be1d0f4c7256c054b401fda39d1915b4c4a96ae19a2cef128130fb8ae8e3bff5"
+  },
+  {
+    "file": "hercules_02._Petition_for_Writ_of_Certiorari.txt",
+    "bytes": 51043,
+    "sha256": "1347f188a40de5c0265bd262a2d8bf25e06cc1af993bca3f81575b7e3f4c59a9"
+  },
+  {
+    "file": "hercules_03._Appendix.txt",
+    "bytes": 227509,
+    "sha256": "a6c6ffa687d335ff8c30b8e5d2df684769f9a8ca738c95a42a77c4ab4f9a93b4"
+  },
+  {
+    "file": "hercules_04._Opposition_Brief.txt",
+    "bytes": 45277,
+    "sha256": "4a5f9fad2a76e819ea3ce76813781dc1265742934e93c46d4f4acf41a0d846a5"
+  },
+  {
+    "file": "hercules_05._Reply_Brief.txt",
+    "bytes": 23135,
+    "sha256": "c90de8ac366838964d22064552706b9b30e3634dd915a2e5ba8aa03fa5399071"
+  },
+  {
+    "file": "hercules_06._Amicus_Curiae_Brief.txt",
+    "bytes": 50054,
+    "sha256": "71187156e6bea4d6c0211d5061f3309677ad949ae1ace44322807dfc25e650e8"
+  },
+  {
+    "file": "hercules_07._Joint_Appendix.pdf",
+    "bytes": 13819603,
+    "sha256": "82c3d9c3f45401a5fcdbae655974bb94219012ff9b7bba748e109c2ba4fee01f"
+  },
+  {
+    "file": "hercules_07._Joint_Appendix.txt",
+    "bytes": 114941,
+    "sha256": "b28dff5b5c960b9a00c3a98fd19f60d1cc685b84c698d3c7e619de604ce9bddc"
+  },
+  {
+    "file": "hercules_08._Petitioners_Brief.pdf",
+    "bytes": 10985666,
+    "sha256": "5996141e48b0239e160303018cc500f05ddddbed436fdca49b8e88a0e95e144f"
+  },
+  {
+    "file": "hercules_08._Petitioners_Brief.txt",
+    "bytes": 89680,
+    "sha256": "2879571f41c7e5f44e0e56d2f3e813447e20cd1e9a679a2ff7fd2cedfe7aea0d"
+  },
+  {
+    "file": "hercules_09._Respondents_Brief.pdf",
+    "bytes": 10898601,
+    "sha256": "e4a91036497feaa5fccb3c094a176772f61fa652001578218245931a77183d70"
+  },
+  {
+    "file": "hercules_09._Respondents_Brief.txt",
+    "bytes": 99885,
+    "sha256": "18be84a468e93f30aa1d010631fe082d51bc80b3d6924a33c35ed0e0f791ffa6"
+  },
+  {
+    "file": "hercules_10._Reply_Brief.pdf",
+    "bytes": 5701663,
+    "sha256": "512b3be88f71a5102d3dc85d13627b985ec617a4bf816b4357c1479a1eba7c9b"
+  },
+  {
+    "file": "hercules_10._Reply_Brief.txt",
+    "bytes": 48368,
+    "sha256": "37e061727f48d30cc6f945e65204eaf5e6727e1cd41cf02bdd91798a63fa5611"
+  },
+  {
+    "file": "hercules_11._Amicus_Curiae_Brief.txt",
+    "bytes": 19866,
+    "sha256": "3053795ab8ad5678994a7dd7cce508b0406b819c7b2ab97838b868afd4465cd1"
+  },
+  {
+    "file": "hercules_12._Amicus_Curiae_Brief.txt",
+    "bytes": 70431,
+    "sha256": "8c59954dd1568841c62908a8fa997972b3aca6e55546c2169c510d57d65f99b6"
+  },
+  {
+    "file": "hercules_13._Amicus_Curiae_Brief.txt",
+    "bytes": 68745,
+    "sha256": "4a2bb64b62aa07b3473cebc73011fa2f73f3127629ec90b334e2fe1c923a36b6"
+  },
+  {
+    "file": "hiles_02._Petition_for_Writ_of_Certiorari.txt",
+    "bytes": 45719,
+    "sha256": "0cf75573d34daca1b3784cf7b565356f07420b19ac5e51fa1fe12d96806f6507"
+  },
+  {
+    "file": "hiles_03._Opposition_Brief.txt",
+    "bytes": 17212,
+    "sha256": "5f7a1ce3dcae17a9e7f08e4d896318beda4d1706b59dbf4afbff25a367baaaf6"
+  },
+  {
+    "file": "hiles_04._Reply_Brief.txt",
+    "bytes": 13433,
+    "sha256": "eabefcbf32e7c012a1b5cdfbcb0b6c6e455a48d882a705522baf3b13b538612b"
+  },
+  {
+    "file": "hiles_05._Amicus_Curiae_Brief.txt",
+    "bytes": 16251,
+    "sha256": "f0c3104d0ae491d5ecb0d3ee9fb4a12d82b8480d1895ea66cea923ce67bf172a"
+  },
+  {
+    "file": "hiles_06._Joint_Appendix.pdf",
+    "bytes": 3580890,
+    "sha256": "ff20fb5cc564863c2f8251ec6d8fa306223256cfa50834e6984a8a4a66a891bd"
+  },
+  {
+    "file": "hiles_06._Joint_Appendix.txt",
+    "bytes": 27816,
+    "sha256": "e8dc6f4f5c78fe4a91e71d9e57cf8b08113b7344538bcf6974fec8696e107fc9"
+  },
+  {
+    "file": "hiles_07._Petitioners_Brief.txt",
+    "bytes": 59607,
+    "sha256": "01748159819b39d9b1b3bced651e027fdec26a59e8d2b8b449ad7f96842b5c94"
+  },
+  {
+    "file": "hiles_08._Respondents_Brief.pdf",
+    "bytes": 5649250,
+    "sha256": "0b0a2353fe0b89778df2a53d19bf11ec92f176030e8ae81d7dde698c2b9ba0ea"
+  },
+  {
+    "file": "hiles_08._Respondents_Brief.txt",
+    "bytes": 55348,
+    "sha256": "4d391a1cff42dd1f92a90ea0f9456b3585b0ffde7d8df39c45c3e528c65f9e17"
+  },
+  {
+    "file": "hiles_09._Reply_Brief.txt",
+    "bytes": 31853,
+    "sha256": "06d5c9f4dd5d7764216121337d4c7775e2a9b3c6fc53b2f6ad1d74f564cdf53c"
+  },
+  {
+    "file": "hiles_10._Amicus_Curiae_Brief.txt",
+    "bytes": 28936,
+    "sha256": "20fc8616f1c31cc1181e01d40ca4b34d46ac307a3f164e6e3088ea39d8610dac"
+  },
+  {
+    "file": "hiles_11._Amicus_Curiae_Brief.txt",
+    "bytes": 34383,
+    "sha256": "31f76623666cf1fe53dea87c7a8693e8db21a07600ff7fc2af575cf37f43d233"
+  },
+  {
+    "file": "hiles_20302_1994.htm",
+    "bytes": 18596,
+    "sha256": "8f0eebaa65fb0faabcead8aa941ad43911b850e6aebf93115268aa8193f39f10"
+  },
+  {
+    "file": "lewis_711_f2d_233.html",
+    "bytes": 1113348,
+    "sha256": "46417d5c0b9c176005b786575ef7812e5cf9d89e436fc211efffdf6739497b4b"
+  },
+  {
+    "file": "lewis_711_f2d_233.txt",
+    "bytes": 78892,
+    "sha256": "93cb20143615f731d60348c9985076d40347e369afa69b2377220577ef3caceb"
+  },
+  {
+    "file": "matsushita_02._Petition_for_Writ_of_Certiorari.txt",
+    "bytes": 75962,
+    "sha256": "9fc024820655880f75e48c6658fae2d850641ff57c1e40f400dab8623f282355"
+  },
+  {
+    "file": "matsushita_03._Appendix.txt",
+    "bytes": 227138,
+    "sha256": "32754ee1d936a682068ae86102d7c491eb4bd9f38f515af44c8500eaea27eae5"
+  },
+  {
+    "file": "matsushita_04._Opposition_Brief.txt",
+    "bytes": 50675,
+    "sha256": "8b5f5a16674623fe898e1d7d3db1d6ad47d7e43aa56390b99b46f9c71ffe3754"
+  },
+  {
+    "file": "matsushita_05._Opposition_Brief.txt",
+    "bytes": 40625,
+    "sha256": "a10e89b67d50595ad8f4dfc9d26d1074d5dc102a4846d44205de3545c44adc2c"
+  },
+  {
+    "file": "matsushita_06._Reply_Brief.txt",
+    "bytes": 23448,
+    "sha256": "649aeba088c70de4468e5cb51835471e63bd01069b72c24564c8b8822a6a850d"
+  },
+  {
+    "file": "matsushita_07._Amicus_Curiae_Brief.txt",
+    "bytes": 33254,
+    "sha256": "447ca0b295fd86bd8ac1cfb072d97806967b404f71eeef65627bacc5651193d7"
+  },
+  {
+    "file": "matsushita_08._Joint_Appendix.txt",
+    "bytes": 425784,
+    "sha256": "6490c596def72c00779f21418c1457263b441a9e5e5f3551b7a41c8b5ca0cb14"
+  },
+  {
+    "file": "matsushita_09._Petitioners_Brief.txt",
+    "bytes": 129843,
+    "sha256": "fe2f4286a7085cc124548cd311c689a1b89820c164a29a57a581af22e953c4a2"
+  },
+  {
+    "file": "matsushita_10._Respondents_Brief.txt",
+    "bytes": 108359,
+    "sha256": "a5149a79038d72b3d75829b955534798c00c1c2e354653e66e51ebf3675b5ddc"
+  },
+  {
+    "file": "matsushita_11._Reply_Brief.txt",
+    "bytes": 48455,
+    "sha256": "8511a97f2b37b51e1d97b6e3c77a71b43445b259402a97c8657bb1de4256b441"
+  },
+  {
+    "file": "matsushita_12._Amicus_Curiae_Brief.txt",
+    "bytes": 39838,
+    "sha256": "6290eecfdc10a5189fe6d309b5dc72ba58e08a54897b4ea9a927d92061b60f55"
+  },
+  {
+    "file": "matsushita_13._Amicus_Curiae_Brief.txt",
+    "bytes": 35852,
+    "sha256": "39e037c6212c7a2e831a4a0376ac5ad4dccfdd170c9302995df673e05c039be4"
+  },
+  {
+    "file": "telecommunications_1996.html",
+    "bytes": 380602,
+    "sha256": "22eda9b846a5fa3213ff9dd690358c7c1e29100979c3cf7219abc9be1cf53d6b"
+  },
+  {
+    "file": "telecommunications_1996.txt",
+    "bytes": 379234,
+    "sha256": "52159ad3059f897f3b968bb5edae128286a061e0610ba7ee39908570c8dec289"
+  },
+  {
+    "file": "usc28_2106_1994.htm",
+    "bytes": 44172,
+    "sha256": "ab214ce9f7a706cc4ee93703502f950222090c2547e47fafd75a299545919743"
+  }
+]

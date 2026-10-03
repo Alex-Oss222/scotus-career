@@ -1,0 +1,1908 @@
+at. Sak Ai tl Hi, sac 
+P¥e" at ’ 
+KQ 
+
+
+UNITED STATES OF AMERICA, ET AL.: 
+NATIONAL CABLE TELEVISION ASSOCIATION, INC. 
+Petitioners, 
+
+
+v. 
+
+
+THE CHESAPEAKE AND POTOMAC TELEPHONE 
+COMPANY OF VIRGINIA, ET AL., Respondents. 
+
+
+On Writs of Certiorari to the 
+United States Court of Appeals for the Fourth Circuit 
+
+
+BRIEF FOR AMICI CURIAE UNITED STATES 
+TELEPHONE ASSOCIATION, NATIONAL TELEPHONE 
+COOPERATIVE ASSOCIATION, ORGANIZATION FOR 
+THE PROTECTION AND ADVANCEMENT OF SMALL 
+
+TELEPHONE COMPANIES, AMERITECH CORPORA- 
+TION, CINCINNATI BELL, FRONTIER CORPORATION, 
+ILLINOIS CONSOLIDATED TELEPHONE COMPANY, 
+NYNEX CORPORATION, PACIFIC TELESIS GROUP, 
+SBC COMMUNICATIONS INC., AND THE SOUTHERN 
+NEW ENGLAND TELEPHONE COMPANY, 
+
+
+. IN SUPPORT OF RESPONDENTS 
+MARY MCDERMOTT MICHAEL W. MCCONNELL* 
+LINDA KENT KENNETH S. GELLER 
+CHARLES D. Cosson H. THOMAS BYRON III 
+1401 H Street, N.W. Mayer, Brown & Platt 
+
+
+Washington, D.C. 20005 2000 Pennsylvania Avenue, N. W. 
+Counsel for United States Washington, D.C. 20006 
+Telephone Association (202) 463-2000 
+
+
+Counsel for Amici Curiae 
+* Counsel of Record 
+
+
+bs ov 
+© orcr aval ADI EC Copy) eee 
+
+
+oe 
+
+
+Rochester, New York 14646 
+Counsel for Frontier Corp. 
+
+
+ELLYN ELISE CRUTCHER 
+12] South 17th Street 
+Mattoon, Illinois 61938 
+
+
+OWEN E. MACBRIDE 
+Schiff, Hardin & Waite 
+7200 Sears Tower 
+Chicago, Illinois 60606 
+Counsel for Illinois Consoli- 
+dated Telephone Company 
+
+
+a 
+na - a ~~ 
+4 bon Dine ’ 
+i i J me aa arte vie, wi a 
+7 nity one iviag 7 
+
+
+5 ee 
+
+
+a, a 
+
+
+. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+INTEREST OF THE AMICICURIAE ............. l 
+INTRODUCTION AND SUMMARY OF ARGUMENT 2 
+IT SE ia MN B wield oles 6 0's 0 cc cco cc 4 
+I. SECTION 533(b) IS SUBJECT, AT A MINIMUM, TO 
+INTERMEDIATE SCRUTINY ............... 4 
+A. Petitioners Bear a Rigorous Burden of Demonstrating 
+that the Statute is Constitutional ............ 4 
+B. Deference to Congress is Not Appropriate Here .. 6 
+Il. SECTION 533(0) CANNOT WITHSTAND INTERMEDI- 
+RTs ono oo cee eect eccceccc. 10 
+A. Petitioners Have Identified No Substantial Govern- 
+mental Interest Actually Advanced by the Statute . 11 
+1. There is no substantial risk of cross-subsidiza- 
+tion or discrimination ............... 12 
+2. Historical materials do not support petitioners 
+DT PE MUGS Gb SSSe66 06000000 15 
+a. The Jnformation Services decision confirms 
+that Section 533(b) serves no purpose .. 15 
+b. The FCC’s 1970 regulatory ban does not 
+demonstrate a risk of anticompetitive be- 
+IS Mid dls Uh CBB G6 0 0 cc ce 19 
+Section 533(b) is demonstrably anticompetitive 20 
+4. Petitioners have not met their burden of showing 
+that Section 533(b) actually advances a substan- 
+tial government interest .............. 21 
+B. Section 533(b) is Not Narrowly Tailored ....... 22 
+1. Petitioners’ justifications for Section 533(b) are 
+not unique to video programming ........ 23 
+
+
+C. Petitioners Have Not Met Their Burden Under Inter- 
+mediate Scrutiny .......---+-eeeeeeeee 
+os ee) i i oe 
+
+
+TABLE OF AUTHORITIES 
+Cases Page 
+
+
+Ameritech Corp. v. United States, 
+867 F. Supp. 721 (N.D. Ill. 1994), 
+
+
+appeal pending, No. 95-1223 (7th Cir.) ........ passim 
+Applications of Tel. Cos., 
+21 PCC. 20307 (19TD .... 2. ee eee eee 19 
+
+
+BellSouth Corp. v. United States, 
+868 F. Supp. 1335 (N.D. Ala. 1994), 
+appeal pending, No. 94-7036 (lith Cir.) .......... 2 
+
+
+Central Bank of Denver, N.A. v. 
+First Interstate Bank of Denver, N.A.., 
+ee er 8 
+
+
+Central Hudson Gas & Elec. Corp. v. 
+Public Serv. Comm’n, 447 U.S. 557 
+
+
+OI i cesORGh Wire OSE. Lk. cok ccc ceces 24 
+City of Cincinnati v. Discovery 
+
+Network, Inc., 113 S. Ct. 1505 
+
+RET ES ee 22 
+City of Renton v. Playtime Theatres, 
+
+es 20 
+Edenfield v. Fane, 113 S. Ct. 1792 (1993) ....... 12, 21, 22 
+
+
+GTE South, Inc. v. United States, 
+No. CA-94-1588-A (E.D. Va. Feb 10, 1995), 
+
+
+appeal pending, No.95-1738 (4th Cir.)............ l 
+Matsushita Elec. Co. v. Zenith Radio 
+
+I IEEE. ow cnccccccsccceces 14 
+National Rural Telecom Ass'n v. FCC, 
+
+Se Os GE, MD ccc cc ccc cc ccecs 25 
+
+
+NYNEX Corp. v. United States, 
+No. 93-1523-P-C (D. Me. Dec. 8, 1994), 
+appeal pending, No. 95-1183 (ist Cir.) ......... 2 
+
+
+iv 
+
+
+Pacific Gas & Elec. Co. v. Public 
+Utility Comm'n, 475 U.S. 1 (1986)... 6. eee es 24 
+
+
+Pacific Telesis Group v. United States , 
+48 F.3d 1106 (9th Cir. 1994), pet. for 
+cert. filed, No. 95-315 (Aug. 23, 1995) ........... 1 
+
+
+PBGC v. LTV Corp., 496 U.S. 633 (1990) .........+.-- 8 
+
+
+People of California v. FCC, 39 F.3d 
+919 (9th Cir. 1994), cert. denied, 
+
+
+>) ee ee 25, 26 
+Rubin v. Coors Brewing Co., 
+
+ee 4,21, 22 
+Sable Communications v. FCC, 
+
+r | | & | rr Prairie 9, 10 
+
+
+Southern New England Tel. Co. v. 
+United States, No. 3:94-CV-80 (DJS) 
+
+
+(D. Conn. Apr. 27, 1995), appeal pending, 
+a te ewes 1 
+
+
+Southwestern Bell Co. v. United States, 
+No. 3:94-CV-0193-D (N.D. Tex. Mar. 27, 
+
+
+1995), appeal pending, No. 95-10478 (Sth Cir.) ...... l 
+Turner Broadcasting Sys. v. FCC, 
+“8 fer passim 
+
+
+United States Tel. Ass'n v. 
+United States, No. 1:94CV01961 
+
+
+(D.D.C. Feb. 14, 1995), eps. 
+No. 95-5117 (D.C. Cir.) ........ re eRe 
+
+
+United States vy. AT&T, 552 F. Supp. 131 
+(DC. 1982), aff'd sub nom Maryland v 
+
+
+United States, 460 U.S. 1001 (1983) , 16 
+United States v. FCC, 652 F.2d 72 
+(DC Cir. 1980) 20 
+
+
+Umised Seates » GTE Corp . 603 F. Supp 
+™ ODC 1% 16 
+
+
+Vv 
+
+
+United States v. National Treasury 
+Employees Union, 115 S. Ct. 1003 
+
+
+ELE ei Peers 
+
+
+United States v. O'Brien, 
+
+
+RS eee 
+
+
+United States v. Western Elec. Co., 
+900 F.2d 283 (D.C. Cir. 1990) 
+(Triennial Review), cert. denied, 
+
+
+ER eee 
+
+
+United States v. Western Elec. Co., 
+
+
+993 F.2d 1572 (D.C. Cir.) (Information 
+Services), cert. denied, 114 S. Ct. 487 
+
+
+PT Pee eee 
+
+
+United States v. Western Electric Co., 
+
+
+673 F. Supp. 525 (D.D.C. 1987) ..... 
+
+
+U S West, Inc. v. United States, 48 F.3d 
+1092 (9th Cir. 1994), pet. for cert. 
+
+
+filed, No. 95-315 (Aug. 23, 1995) .. . . 
+
+
+Ward v. Rock Against Racism, 
+
+
+Ss POE Gbecccccccses 
+
+
+Statutes 
+
+
+Cable Television Consumer Protection and 
+
+
+Competition Act of 1992, Pub. L. No. 
+102-385, 106 Stat. 1460, § 2(a\(4) 
+
+
+ET hie tne dice oe 6s 60 6 
+GEE EET 6 «© Glide + bEWb.ccces oc . 
+DTD bona 5 5 agbe.o ape ae ¢ 
+
+
+Miscellaneous 
+47C FR. § 69.606 rs Se 
+47C FR. § 1.1401 
+
+
+sh e% 7, 13, 19 
+
+
+vi 
+
+
+Bell Operating Co. Safeguards and 
+Tier 1 Local Exchange Co. Safe- 
+guards, 6 FCC Red 7571 (1991) 
+
+
+(BOC Safeguards)... . 6.6.6 6c e nes 
+
+
+(rel. Aug. 14, 1995) (Fourth Report) ....... 
+
+
+Policy and Rules Concerning Rates for 
+Dominant Carriers, 5 FCC Red 6786 
+(1990), recon., 6 FCC Red 2637 
+
+
+(1991) (price-cap regulations) ........... 
+
+
+Reply Memorandum of FCC As Amicus Curiae, 
+United States v. Western Electric Co., 
+C.A. No. 82-0192, at 6 n.10 (D.D.C. 
+
+
+filed Jan. 18, 1991) (FCC Reply Brief)..... . 
+
+
+S. Rep. No. 92, 102d Cong., 1st Sess. 
+
+
+46 (1991) (1991 Senate Report) .......... 
+
+
+S. Rep. No. 456, 101st Cong., 2d Sess. 
+
+
+GB OITED co ccccccssrcecsccseseccess 
+
+
+Separation of Costs, 2 FCC Red 1298 
+(Joint Cost Order), recon., 2 FCC 
+Red 6283 (1987), further recon., 
+3 FCC Red 6701 (1988), aff'd sub 
+nom. Southweste-n Bell Corp. v. 
+
+
+FCC, 896 F.2d 1°78 (D.C. Cir. 1990)...... 
+
+
+Telephone Company-Cable Television 
+Cross-Ownership Rules (Further Notice 
+of Inquiry and Notice of Proposed 
+
+
+Rulemaking), 3 FCC Red 5849 (1988) ...... 
+
+
+Telephone Company-Cable Television 
+
+
+Cross-Ownership Rules (Second Report 
+and Order), 7 FCC Red 5849 (1988) 
+
+
+(Video Dialtone Order) .........-6555% 
+
+
+oe Oae 8,9 
+
+
+INTEREST OF THE AMICI CURIAE 
+
+
+Amici curiae are companies (and industry associations whose 
+members are companies) that provide telecommunications services 
+to the general public, including local telephone service regulated as 
+common carriage under state law and the federal Communications 
+Act of 1934.' Amici file this brief in opposition to petitioners’ 
+
+
+arguments that 47 U.S.C. § 533(b), which prohibits telephone 
+companies from providing “video programming” directly to sub- 
+scribers within their service areas, can be reconciled with the First 
+Amendment .” 
+
+Like respondent Bell Atlantic, each amicus here has successful- 
+ly brought suit to vindicate its First Amendment right to offer video 
+programming. In ten different cases, federal courts across the 
+country have unanimously held without dissent that Section 533(b) 
+violates the First Amendment.’ Petitioners would have this Court 
+
+
+' Amici United States Telephone Association, National Telephone 
+Cooperative Association, and Organization for the Protection and A.'vance- 
+ment of Small Telephone Companies are industry associations whose 
+members — approximately 1400 companies — include virtually all of the 
+traditional local telephone companies in the United States. Amici 
+Ameritech Corporation, Cincinnati Bell, Frontier Corporation, Lllinois 
+Consolidated Telephone Company, NYNEX Corporation, Pacific Telesis 
+Group, SBC Communications Inc., Southern New England Telephone 
+Company, are some of the largest companies whose affiliates or subsidiar- 
+ies are engaged in the business of providing communications services, 
+including local telephone service. Together with respondents and arnici 
+U S West, Inc. , BellSouth Corporation, East Ascension Telephone Compa- 
+ny, and GTE Corporation, amici represent virtually every company subject 
+to the free speech restriction in 47 U.S.C. § 533(b). 
+
+
+> The parties’ letters of consent to the filing of this brief have been filed 
+with the Clerk pursuant to Rule 37.3 of the Rules of this Court. 
+
+
+> US West, Inc. v. United States, 48 F.34 1092 (9th Cir. 1994), pet. 
+for cert. filed, No. 95-315 (Aug. 23, 1995); Pacific Telesis Group v. 
+United States, 48 F.3d 1106 (9th Cir. 1994), pet. for cert. filed, No. 95- 
+315 (Aug. 23, 1995); Southern New England Tel. Co. v. United States, 
+No. 3:94-CV-80 (DJS) (D. Conn. Apr. 27, 1995), appeal pending, No. 
+95-6137 (2d Cir.); Southwestern Bell Co. v. United States, No. 3:94-CV- 
+0193-D (N.D. Tex. Mar. 27, 1995), appeal pending, No. 95-10478 (Sth 
+Cir.); GTE South, Inc. v. United States, No. CA-94-1588-A (E.D. Va. 
+
+
+2 
+
+
+overturn those unanimous rulings. Amici therefore have a substan- 
+tial interest in this Court’s resolution of this case. 
+INTRODUCTION AND SUMMARY OF ARGUMENT 
+
+
+A. Telecommunications services were formerly divided along 
+technological lines. Telephone companies offered voice and data 
+sion of video programming. Although telephone companies today 
+are willing and able to provide cable service, 47 U.S.C. § 533(b) 
+prevents them from competing with incumbent cable operators. 
+
+
+This Court recognized the distortions caused by the monopoly 
+position of cable operators when it reviewed the 1992 Cable Act in 
+Turner Broadcasting Sys. v. FCC, 114 S. Ct. 2445, 2454-2466 
+(1994). Petitioners now attempt to preserve the status quo in that 
+market and continue to protect the cable industry from competition. 
+E.g., Gov’t Br. 3; NCTA Br. 3.‘ 
+
+
+But the monopolistic system is giving way to technological, 
+economic, and regulatory changes affecting telephone and cable ser- 
+vice. Technology now makes possible the convergence of previ- 
+ously dist con. idi ities for tal 
+combine the abilities of previously distinct industries. At the same 
+
+
+Feb 10, 1995), appeal pending, No. 95-1738 (4th Cir.); United States Tel. 
+Ass'nv. United States, No. 1:94CV01961 (D.D.C. Feb. 14, 1995), appeal 
+pending, No. 95-5117 (D.C. Cir.); NYNEX Corp. v. United States, No. 
+93-1523-P-C (D. Me. Dec. 8, 1994), appeal pending, No. 95-1183 (1st 
+Cir.); BellSouth Corp. v. United States, 868 F. Supp. 1335 (N.D. Ala. 
+1994), appeal pending, No. 94-7036 (11th Cir.); Ameritech Corp. v. 
+United States, 867 F. Supp. 721 (N.D. Ill. 1994), appeal pending, No. 95- 
+1223 (7th Cir.). 
+
+
+* "Gov't Br.” refers to the Brief for the Federal Petitioners. “NCTA 
+Br.” refers to the Brief for Petitioner National Cable Television Associa- 
+tion, Inc. “Pet. App.” refers to the opinions of the courts below, reprinted 
+in the Appendix to the government's Petition for Writ of Certiorari in No. 
+94-1893. °J.A.” refers to the Joint Appendix in the coasolidated cases 
+before this Court. “Ct. App. J.A.” refers to the joint appendix before the 
+court of appeals. p 
+
+
+3 
+
+
+time, regulators have developed far more sophisticated methods of 
+identifying and preventing anticompetitive abuses by regulated 
+
+Section 533(b) prevents the natural development of technolog- 
+ical solutions to the problems of cable monopoly. As a conse- 
+quence, the statute limits the number of cable television operators 
+and harms fundamental First Amendment principles encouraging 
+more speech and greater diversity among speakers. 
+
+
+B. This Court should, at a minimum, apply intermediate scru- 
+tiny to determine the constitutionality of Section 533(b). The gov- 
+ernment bears a substantial burden under that standard: it must show 
+that the regulation actually furthers a substantial government interest 
+and that it is narrowly tailored (i.¢., that it does not burden more 
+speech than is necessary to achieve the government’s purpose). 
+Congress made no findings or predictive judgments in 1984 (when 
+it enacted Section 533(b)) or later; nor did it consider less restrictive 
+alternatives. Instead, it simply codified the Federal Communications 
+Commission’s (FCC’s) existing regulatory ban. Thus, there is no 
+basis for this Court to defer to Congress concerning the statute’s 
+justification. Even imputing to Congress the reasons given by the 
+FCC for its prior regulatory restriction, this Court should strike 
+down the statute because those reasons no longer pertain, as the 
+FCC itself has found. 
+
+
+The statute cannot survive intermediate scrutiny. Petitioners 
+argue that Congress might have imposed a ban on video speech out 
+of concern that regulatory measures would be inadequate to prevent 
+telephone companies from engaging in anticompetitive behavior (dis- 
+crimination or cross-subsidization) in the cable market. But the 
+government petitioners themselves have repeatedly found (and ar- 
+gued in judicial and regulatory proceedings) that there is no real risk 
+ings are confirmed by court decisions and regulatory developments: 
+there is simply no need for a ban on speech. Section 533(b) cannot 
+be justified as protecting or enhancing competition in the cable 
+market. That market is currently dominated by monopolists, and 
+telephone companies are the most promising sources of real compe- 
+tition. Section 533(b) actually inhibits competition and diversity. 
+
+
+4 
+
+
+Section 533(b)’s complete ban is not narrowly tailored to serve 
+any government interest. There is nothing unique about video pro- 
+gramming that justifies imposing a total prohibition in order to 
+prevent cross-subsidization and discrimination. The speculative risk 
+of such anticompetitive behavior would be equally present in any 
+line of business telephone companies might enter, but Section 533(b) 
+imposes a ban only on cable television service. The FCC has devel- 
+oped a comprehensive regulatory scheme to prevent the very kind 
+of anticompetitive behavior petitioners purport to fear. The Justice 
+Department and the FCC have repeatedly expressed confidence in 
+those measures. The government does not assert that those safe- 
+guards are inadequate to protect ratepayers or competitors. 
+
+ARGUMENT 
+
+
+I. SECTION 533) IS SUBJECT, AT A MINIMUM, TO 
+
+INTERMEDIATE SCRUTINY 
+
+Amici agree with Bell Atlantic that Section 533(b) is subject to 
+strict scrutiny under the First Amendment for the reasons set forth 
+in respondents’ brief. Nevertheless, we do not address those issues 
+here because — as every court that has addressed this issue has 
+found — the statute cannot survive even intermediate scrutimy 4 
+fortiori, it would not survive strict scrutiny either 
+
+A. Petitioners Bear a Rigorous Burden of Demonstrating 
+
+that the Statute is Constitutional 
+
+
+The government and NCTA bear the burden of Gemonstrating 
+that Section 533(b) is consistent with the First Amendment under 
+the intermediate scrutiny standard. Rubin v Coors Brewing Co 
+115 S. Ct. 1585, 1991-15992 (1995); Turner, 1148 Co at 2470 
+That standard requires petitioners to demonstrate that the speech 
+restncnon actually “promotes a substannal government waeres' anc 
+that it is narrowly tailored. so that the means chosen do ax “burder 
+substantially more speech than s necessary © further the gover> 
+ment’s legitimate imerests.“” Ward v Rock Against Racism. 49) 
+U.S. 781. 799 (1989), see also Turner 1145 Cl at 2469 Unates 
+States v. O'Brien, 391 U.S. 367, 377 (1968) 
+
+
+in addioe to these clements. 2 restrichon on speech musi aso eee 
+
+
+5 
+
+
+In Turner, the plurality applied the intermediate scrutiny stan- 
+dard and rejected many of the contentions petitioners make here ° 
+The Court emphasized the substantiality of the government's burden 
+in a case such as this: 
+
+
+@ First, the government must identify the important “govern- 
+mental interest” that the statute is designed to serve. Turner, 
+114 S. Ct. at 2470. It is not enough to identify an “abstract” 
+interest. Ibid. 
+
+
+© Second, the government must demonstrate that the speech re- 
+speech restriction is purportedly justified “as a means to redress 
+past harms or prevent amticipated harms.” the government 
+“must demonstrate that the recited harms are real, not merely 
+conjectural, and that the regulation wil! im fact alleviate these 
+harms im a direct and material way” [id 
+
+
+@ Third, even if the restriction does further an mmportam imterest 
+by remedying a real harm. « stil) must be narrowly tailored 
+“[T)he Govermment stil] bears the burden of showing that the 
+remedy m@ has adopeed does not Durden substantially more 
+speech than s necessary to further the goverrmnem! 5 legurnatc 
+
+
+open ample alternative chameeis for commmmmcaton © ~Waerd 49) | S « 
+79) \quoung Glart » Commeueury for Creatw “om Viotewr 468 | 5S 
+258. 293 (1984)) The goverment akoowledge Ge Ge cer cee 
+mect (es sanded © survive Geermeduee scrumey Gov Br 14 quoomg 
+Bard The Fourt® Cecus correctly found Secnoe $3 >) uncomstaunoss 
+on Qe: edependes goend Pe. App 492 We agree wet Bel Adam 
+Qe petitiessss ages oo Ge poe ot aoeereieg oot ot & om 
+accress De seu scpermety 
+
+
+* The sectee of Ge Taree epee Gecumeet’ Serr lO 4 5 CO 
+7. wes pommed by fer ees of Ge Comer rer others week’ be 
+ereck gown @e ericooe curng® ethos wed ft be ferrin 
+Se ad «2 OO CO Comeer |) comcerring © pert ot Geers © 
+c= «os “_dhng Ges arty wes eecomsummally owertromt Ceca &® 
+eavowh qilore® Swece Sewees whe Gieeemeetd fom Ge prereiry 
+‘\epceese of “Ge cede = = =6Gt ot Geage © & ee @ 
+come Sew @ Ms Sew |) Gece © ce et coo 
+™ © &@ wigan 
+
+
+6 
+
+
+interests." bid. (internal citations omitted); see also id. at 
+2479 (O'Connor, J., concurring in part and dissenting in part) 
+("Assuming arguendo that the provisions are justified with 
+reference to the content-neutral interests in fair competition and 
+preservation of free television, they nonetheless restrict too 
+much speech that does not implicate those interests"). 
+
+
+B. Deference to Congress is Not Appropriate Here 
+
+Petimoners ostensibly concede that intermediate scrutiny is the 
+correct standard by which to determine Section 533(b)'s constitu- 
+nonality But they proceed to water down the requirements of that 
+standard. comtending that their mere assertion of a hypothetical 
+“reasonable” basis for the law should justify a ban on speech. See, 
+¢¢ . Gov't Br 29, 31-33, 35; NCTA Br. 41. Indeed, although the 
+govermmem urges the Court to defer, suggests deference to a 
+lemgating position rather than to any legislative finding. Gov't Br. 
+29 (“the question for the courts is whether the regulation of speech 
+ss reasonably necessary to advance amy significam imterest of the 
+govermmem not whether the enacting Congress expressly found it 
+to be necessary” 
+
+
+Peomoners hypothesize various purposes that Section 533(b) 
+cught serve — but they cammot senously mamta ether that Con- 
+gress made factual ‘imdings or empurical predictions embodying 
+chose speculations or that those speculahons are supported by the 
+weogtt of actual evdence instead. they urge thus Court to impute 
+© Congress the lmgastors speculanons and then to defer to those 
+speculations withou proof that “the recited harms are real.” or that 
+Sechon S3Mb) will “allewiate these harms om a direct and material 
+wey ” or Ghat Che statute Goes not “burden substantially more speech 
+than necessary © Tereer. 1145S Cl aot 2470, (Gtermal quotations 
+anc cllepers ormmed) Thess wouk! reduce mwermediate scrutiny to 
+mere “ressomsbiences” rewiew. © Gefisnce of this Court's many 
+ees emphastmmg he muportance of ngorous testmg of speech 
+
+
+Terre suggests tw chere are [wo approaches the govermment 
+Tag @ke © meet © substantial Surden of pustifying 4 Mamme such 
+= Section S76) Uf Compress bas made express findings of fc: 
+qnounting to ‘predictive padgmerts ° the goverument aust “assure” 
+he Comrt, @ @ “emercise fof) dependest peigeeet.” Get “Com 
+
+
+7 
+
+
+gress has drawn reasonable inferences based on substantial evi- 
+dence.” Turner, 114 S. Ct. at 2471.’ However, where — as here 
+— Congress has made n> such findings, the government must shoul- 
+der the more onerous burden of "defending the factual necessity" 
+for a restriction on speech by putting forward real evidence of actual 
+facts supporting the need for the statute in light of the interests it 
+is designed to support. Ibid. This petitioners have not done and 
+cannot do, given the government’s repeated conclusions that the 
+Statute is not necessary. 
+
+
+Rather than “defending the factual necessity” for Section 
+533(b), petitioners seek to uphold the statute based on theories that 
+Congress demonstrably did not itself consider. See, ¢.g., Gov’t Br. 
+31, 35; NCTA Br. 40, 42-43. Some could not liave been conceived 
+in 1984.* For example, the possibility of “discrimination” against 
+competitive video providers seeking access to the telephone network 
+could not have been part of Congress’ consideration of the statute 
+in 1984 because no one imagined then that cable companies would 
+be dependent on the local telephone network to transmit video pro- 
+gramming to consumers. Indeed, they are not dependent on the 
+telephone network. Similarly, there is no evidence that Congress 
+or anyone else thought that the Pole Attachments Act (47 U.S.C. 
+§ 224) had failed to achieve its purpose. Nor did Congress reject 
+
+
+” Bven this standard is an exacting one: the Court vacated the lower 
+court's judgment in Turner, requiring “the Government (to) further demon- 
+strate” that the harms Congress feared would actually come about in the 
+absence of the statute. 114 S. Ct. at 2472. This demonstration could take 
+the form of “2 more substantial elaboration * * * of the predictive or 
+hustorical evidence upon which Congress relied, or the introduction of some 
+additional evidence to establish that” the risk is real. Ibid. The govern 
+mem had ample opportunity here to present its best evidence; ts own 
+findings, however, preclude any showing that the risk is real 
+
+
+* We agree with the government (Gov't Br. 29 2.19) that a statute may 
+be justified by evidence and arguments thal were not presented to. or oot 
+available to, Congress when it enacted the law instead of attempting © 
+meet ther burden of proving such a justification by offering real evidence 
+of the need for the statute. petuponers grasp for unwarramted deference w 
+a Congress that did not consider. and could not have considered. the justi‘ 
+cahons sow presemied to the Court 
+
+
+the possibility of regulatory alternatives to a complete ban: the FCC 
+had not yet developed its cost accounting and affiliate transaction 
+rules, and Congress made no inquiry as to whether such rules could 
+have solved the problem. 
+
+
+Petitioners appear to concede that Congress made no findings 
+or predictive judgments in 1984 when it enacted Section 533(b). 
+Their deference argument depends heavily on Congressional hear- 
+ings and committee reports, as well as General Accounting Office 
+(GAO) reports, dating from well after 1984. See, e.g., Gov't Br. 
+33-34; NCTA Br. 16-17, 42. Congress’ failure to repeal the statute 
+in later years, however, cannot support petitioners’ demand for 
+deference. "[Several equally tenable inferences may be drawn from 
+[congressional] inaction." Central Bank of Denver, N.A. v. First 
+Interstate Bank of Denver, N.A., 114 S. Ct. 1439, 1453 (1994) 
+(internal quotation marks omitted). "[FJailed legislative proposals 
+are a particularly dangerous ground on which to rest an interpre- 
+tation of a prior statute." Jbid. (internal quotation marks omitted); 
+see also PBGC v. LTV Corp., 496 U.S. 633, 650 (1990). In Cen- 
+tral Bank and other cases, this Court has rejected the argument that 
+such materials can illuminate even the meaning of a statute passed 
+earlier. Here petitioners would ascribe even more significance to 
+the inaction of a later Congress, suggesting that a Committee report 
+or hearing testimony from seven years after a statute's passage can 
+substitute for the contemporaneous findings that might have motivat- 
+ed earlier legislators to support the original speech restriction.’ 
+
+
+* Even if this argument had any merit, none of the cited materials 
+amounts to a finding or predictive judgment. First, the government quotes 
+a 1991 report of the Senate Commerce Committee as concluding that 
+*cross-ownership restrictions like Section 533(b) ‘enhance competition. '* 
+Gov't Br. 10-11 (quoting S. Rep. No. 92, 102d Cong., Ist Sess. 46-47 
+(1991) (1991 Senate Report)); see also NCTA Br. 17. The government 
+omits to mention that the quotation referred not primarily to Section 
+$33), but to a wide array of cross-ownership restrictions (arguably 
+supported by justifications of spectrum scarcity). ft cannot be deemed a 
+determination of the success of Section $33(>). The government also 
+quotes an earlier report as “concluding that [the committee) should not a 
+the present time support repeal.” S$. Rep. No. 456, 10 1st Cong., 2d Sess. 
+4-8 (1990), quoted in Gov't Br. 34. That report, however, was studiously 
+
+
+9 
+
+
+Of course, we agree that "Congress is not obligated, when en- 
+acting its statutes, to make a record of the type that an administra- 
+tive agency or court does to accommodate judicial review.” Turner, 
+114 S. Ct. at 2471, quoted in Gov't Br. at 29. But the govern- 
+ment’s invocation of that familiar principle is a non sequitur. We 
+do not fault Congress for the absence of findings when it enacted 
+the statute in 1984; we merely point out that the bare fact that 
+Congress enacted a speech restriction does not bring into play the 
+deference this Court reserves for express findings and actual predic- 
+tive judgments. Nor do we contend that a finding must be included 
+as a separate section within the body of a law passed by Congress 
+(as in the 1992 Cable Act, reviewed in Turner). But here there is 
+no evidence of any actual consideration; petitioners can point only 
+to evidence of later debates on different bills that did not pass. 
+
+
+Indeed, deference is even less appropriate here than in Sable 
+Communications v. FCC, 492 U.S. 115 (1989), where this Court 
+rejected a similar argument by the government. In Sabie, the gov- 
+ernment contended that the mere fact that a statute was enacted 
+amounted to a congressional judgment that there was no less restric- 
+tive alternative to the complete ban at issue in that case. Jd. at 129. 
+In addition to emphasizing the impropriety of judicial deference in 
+the face of a First Amendment claim, the Court also noted that there 
+were no legislative findings to support the government's argument. 
+"[A]side from conclusory statements during the debates by propo- 
+nents of the bill, as well as similar assertions in hearings on a sub- 
+stantially identical bill the year before, * * * the congressional 
+record presented to us contains no evidence as to how effective or 
+ineffective the FCC’s most recent regulations were or might prove 
+to be.” Jd. at 129-130. 
+
+
+neutral in its summary of conflicting opinion on the utility of the video 
+programming ban (S. Rep. No. 456, at 4), and instructed the FCC to com- 
+plete a study of Section 533(b). id. at 8-9; see also 199] Senate Report 
+at 18 (confirming that 1990 report did not determine underlying issues). 
+The FCC did so the next year, when it recommended repeal. Telephone 
+Company-Cabie Television Cross-Ownership Rules (Second Report and 
+Order), 7 FCC Red 5849, 5781, 5847 (1988) (Video Dialtone Order) 
+
+
+10 
+
+
+Even if this Court determined that Congress’ silence could be 
+deemed an implicit adoption of the justifications given 14 years 
+earlier by the FCC when it imposed the regulatory ban on video 
+As we show (pp. 19-20, infra), the FCC originally relied solely on 
+concerns relating to pole attachments, which Congress specifically 
+addressed in the 1978 Pole Attachments Act. The FCC's 1981 
+conclusion that the risk of cross-subsidy might justify retaining the 
+ban was based solely on the absence of a comprehensive scheme to 
+allocate shared costs between regulated and competitive ventures. 
+Since then, the agency has developed just such a comprehensive 
+scheme, which it has repeatedly identified as sufficient to control 
+the potential for anticompetitive behavior. Thus, even if Congress 
+once deferred to the FCC’s regulatory justifications, there is no 
+basis for judicial deference today — when the FCC itself has deter- 
+mined that those justifications are no longer present. 
+
+Petitioners seek to invoke uncritical deference for a reason: 
+they are unable to support their pretextual justifications for Section 
+533(b) with any real evidence. As we show below, their asserted 
+fears of anticompetitive behavior are all without foundation. 
+
+
+Il. SECTION 533() CANNOT WITHSTAND INTERMEDI- 
+ATE SCRUTINY 
+
+
+In Turner, this Court held that the government had not prof- 
+fered sufficient evidence to support judgment in its favor." The 
+government’s case here is far weaker than it was in Turner. Here, 
+Congress made no findings of fact, either in 1984 or at any subse- 
+
+
+© In Turner, the government had not itself moved for summary judg- 
+ment below, but the district court granted judgment to the government 
+based on its submissions in opposition to the plaintiffs’ motion. See 
+114 S. Ct. at 155. Because the government had not had an opportunity 
+to submit factual material in support of its position, the Court remanded 
+for further proceedings. Here, by contrast, the government did move for 
+summary judgment and did submit factual and other matenais. As the 
+district court noted, the parties presented “a comprehensive stipulation of 
+facts and a supporting record consisting of several thousand pages of 
+affidavits, exhibits, and briefs." Pet. App. 57a. There is, accordingly. 
+no basis for a remand. This Court should affirm. 
+
+
+to achieve its svowed purpose of promoting compenmcr axt fv 
+
+
+Protection and Competition Act of 1992. Pub | No 1) So 
+Stat. 1460, § 2iaW4) (1992 Cable Act) wee alse |) A Oe 
+(aff. of Thomas W Hazlet) Under these chrcummemenees. Ge vaken 
+programming ban wm Section 53 \>) fas © samefy he eqs 
+of mtermediate scrutiny 4 & 5 ageficas Ge © ger of Ge Oe 
+efforts of the govermmen and the cable mxdustry every ‘Gers ocer 
+to address the question. mchading Ge Four rcer ae & So 
+Circun, has struck down Section 5) 6b) 
+
+
+4 Peaitemers Have ictemrified “ vetetamtie == — wee 
+tal lmserest Actual) Advances & Ge Gare, 
+
+
+The goverument and NCTA cefy on Ge Pourt® Circe ) cue 
+mem chat the govermmen : Gieress © prow acoep 
+behavior (thereby cnhancg compete ax SO fee 
+in cable wleviewe are eebetemtet «20 Gew ) & 0 ce Oe 
+3Se-39a), NCTA Br 3%) see alee Pe Age |) Re (he gore 
+mem cven quotes [wee |) caement Get cee Cee © 
+far compennon” and suring acces ©) Gee © stone 
+Goe sources” are “substumtial” geerees 094 5 © @ 6) queeee 
+im Gow't Br 24 Nowhere bowever @ petitieeers Gemeetes & 
+scribe the parncular aeeress Ge Secoee “oN § perporeey 
+designed t serve See Sgewiett + for 55 OOlU™U 
+(1993) Gookimg © “Ge precee seers ot eee  & oe 
+ermment}~ 
+
+
+i 
+
+
+we powermt eee For eee ccevemem) eo 
+Oe meee eetaee!) Scena et Ge Goverment | ee 
+< ore ee Specter © Ge ere Goer oe eee * * * ee 
+oO merry ie © 8 « Ge eter Goer ees Oe 
+«$0 « > ae cee Seis FS Ole ee CTS 
+= =e Oe ee po eer 5 oe eg 
+wen ms fo ower fee we Ge) eet See 
+oe Gere Gee Ge cee eee ee eee ee 
+one wer “5 O «™ 
+
+
+eee oeh aoe ee gee Be peer © a oe 
+ee wee (We gees ot 4 4 ot Ge Comer © tee 
+econ (OW Geet et oe Ge ee” pee of OF 
+eee Ge ae © Sc cee Ge ere cee « cee 
+= 2 ope of fee © oe ae eee oe oe 
+Geeerwedt & See ON Of Ge See Cece aoe oe 
+aur oe ee we a eee Oe 
+Crowe) Geepeng Ge cooper comes * °° et of Ge ae 
+oe er ee 2 ope oe oe 
+-— = a} ee ee ee ee SP ee 
+. 7 we ge wwe mew 6 SSS OT 
+mee at eevee © Ge coe ceree See OND 6 oe 
+eee eo 7) ae 
+
+
+wer) = eee et oe eee 
+te 
+
+
+ag Ce Re coe ews agg ee 
+=e a ee as en © es aoe, 
+nw Ee ee ee OP ee eee 
+ee i i ee 
+— ee a ee oe fF ee oe 
+‘_—e Gen eo eee OG! & TAs CU} 
+TSE == 2S oe we PP eel Se 
+I ee ee ee 
+ame Ger eer ee et ee Ge ee ee 
+— ene = weet aed ae eer 8 § UCU 
+se eC + @ & | ee wee we oe 
+
+
+ee a 
+ed 
+
+
+0S) Te BOO ccterret & Gee eee whee « atop 
+ory oredecesser © Sectee STM) @ 19 bet Compress eer 
+
+
+0 SC © De Memes Ge cee certely comme Gee ee Pe 
+
+
+ore? 6 egeret © ecompiet © ome Ser Ph Ap i ee 
+om <¢ « ee Merwe Ge goers be ee Oe 
+= eee eee wee eco © oul wey oe © 
+ere “@ge0e= separ Cate “seme on erm 
+eee Pete Somer of eer et Somer of Proposed Rue 
+— - - =™ =e) coo 
+
+
+il 
+
+
+14 
+
+
+cable networks provide an alternative to the telephone network and 
+therefore a competitive check on the possibility of discrimination, 
+and they would not be affected by any discrimination that the tele- 
+phone companies might attempt. In the unlikely event that an exist- 
+ing cable operator goes out of business when faced with compe- 
+tition, its network will remain in place, offering a ready asset to a 
+potential competitor that wants to challenge the telephone compa- 
+ny.'? Consequently, any resulting dominant market position would 
+be contestable by other entrants. The existing cable industry, by 
+contrast, is sheltered from competitive pressures by Section 533(b). 
+nation ignores a fundamental fact: incumbent cable operators domi- 
+nate the market, reaching 98% of television households with their 
+extensive network. See Gov't Br. 17-18 (citing hypothetical risk 
+and “exten{d] their telephone monopoly to the cable market"). Tele- 
+phone companies would be new entrants, trying to compete with 
+established monopolist firms. Petitioners’ purported concerns 
+assume that the new entrant will drive the incumbent monopolist 
+entirely out of the market by violating stringent legal and regulatory 
+Achieving this end would be practically, as well as legally, suspi- 
+cious, and would require (unrealistically) that the new entrant be 
+able to hide a pattern of substantial predatory pricing that is so 
+successful it not only allows the entrant to obtain market share but 
+completely reverses the relative roles of the two primary rivals. 
+See, ¢.g., Matsushita Elec. Co. v. Zenith Radio Corp., 475 U.S. 
+574, 589 (1986). 
+
+
+The FCC’s comprehensive regulatory measures are designed 
+specifically to prevent discrimination and cross-subsidization by 
+telephone companies. These rules can be relied on to prevent the 
+speculative ills hypothesized by petitioners. Indeed, the government 
+petitioners themselves — both the FCC and the Department of Jus- 
+tice — have repeatedly and emphatically expressed confidence that 
+
+
+* NCTA acknowledges that the existing cable network may even 
+compete with the telephone network for voice and data carriage, or for 
+access to long-distance carners. NCTA Br. 9. 
+
+
+15 
+
+
+the existing rules are sufficient to monitor and prevent anticom- 
+petitive practices (see pp. 26-27, infra). Congress has made no con- 
+trary judgment and petitioners have not shown that these safeguards 
+are such abject failures that a ban on speech is required. 
+
+
+In short, there is no reason to believe that telephone companies 
+could cross-subsidize or discriminate without detection, much less 
+that they could do so to such an extent that they would inflict any 
+
+itive injury. 
+
+2. Historical materials do not support petitioners’ argument. 
+
+
+The government and NCTA allege that various historical expe- 
+riences justify the ban in Section 533(b). For example, they contend 
+that the 1982 consent decree settling the government's antitrust case 
+against AT&T and the FCC’s 1970 regulatory ban on telephone 
+company video programming (the predecessor to Section 533(b)) can 
+somehow be understood to support the statutory ban on speech. 
+Those assertions are misleading in their descriptions of events and 
+
+a. The Information Services decision confirms that 
+Section 533(b) serves no purpose. 
+
+
+Petitioners point to the consent decree that divested the Bell 
+
+
+telephone companies from AT&T, suggesting that the 1982 settle- 
+ment of acomplex government antitrust case against AT&T justifies 
+
+
+today’s ban on telephone companies seeking to offer cable televi- 
+sion. Gov’t Br. at 25 & n.16; NCTA Br. 10-12. This argument 
+
+
+distorts the record. In fact, the history of the consent decree since 
+divestiture demonstrates conclusively that the government's assump- 
+tions and fears in this case — which petitioners assert are equivalent 
+to those underlying the consent decree — are not borne out by 
+experience. 
+
+The AT&T divestiture decree entered in 1982 prohibited the 
+Bell telephone companies from providing “information services.” 
+United States v. AT&T, 552 F. Supp. 131, 227-229 (D.D.C. 1982), 
+aff'd sub nom. Maryland v. United States, 460 U.S. 1001 (1983)." 
+
+
+° Only the Bell telephone companies (those owned by amici Ameritech, 
+NYNEX, Pacific Telesis, SBC Communications, amici U S West and 
+
+
+16 
+
+
+That prohibition included video programming. Thus, at the time 
+Section 533(b) was enacted, the Bell companies were already pro- 
+hibited from offering video programming." 
+
+The information services prohibition was not based on any evi- 
+dence that AT&T or the Bell telephone companies had ever engaged 
+in anticompetitive behavior in that context: "The parties agreed to 
+the information services restriction as a precautionary measure 
+*** " United States v. Western Elec. Co., 900 F.2d 283, 307 
+(D.C. Cir. 1990) (Triennial Review), cert. denied, 498 U.S. 911 
+(1990). The 1982 decree settled government antitrust allegations 
+“centered exclusively on AT&T’s activities in the interexchange- 
+service [long-distance] and equipment-manufacturing markets." 
+Ibid. "{Tyhere really was no record to speak of concerning AT&T’s 
+activities in the information services market" or in any other non- 
+
+
+BellSouth, and respondent Bell Atlantic) are covered by the decree. 
+Amicus GTE is subject to a different decree. United States v. GTE Corp., 
+603 F. Supp. 730 (D.D.C. 1984). The remaining telephone company 
+amici (more than 1300 companies) have never been subject to the restric- 
+tions in either consent decree. Petitioners do not distinguish between these 
+groups of telephone companies, simply assuming that the rationale of the 
+decree applies with equal justification to all those subject to Section 533(b). 
+There is no basis for such an assumption and it demonstrates again the 
+poor fit of Section 533(b) to purported regulatory needs. 
+
+
+' See Reply Memorandum of FCC As Amicus Curiae, United States 
+v. Western Electric Co., C.A. No. 82-0192, at 6 n.10 (D.D.C. filed Jan. 
+18, 1991) (FCC Reply Brief) (Ct. App. J.A. 2671, 2684 n.10). The 
+category of information services includes any service that involves generat- 
+ing, acquiring, packaging, or manipulating information that can be trans- 
+mitted over a telecommunications network. AT&T, 552 F. Supp. at 229; 
+see also United States v. Western Electric Co., 673 F. Supp. 525, 589-590 
+
+
+(D.D.C. 1987) (listing examples). 
+
+
+'S Because the restriction was the result of a voluntary settlement, it was 
+not subject to First Amendment challenge. Thus, it is not surprising that 
+telephone companies “did not oppose” Section 533(b) when Congress con- 
+sidered the proposal. See NCTA Br. 15. The minimal legislative history 
+demonstrates that even Congress paid little attention to the specifics of 
+Section 533(b). See Id. at 13 (legislative history is “not elaborate”). 
+
+
+17 
+
+
+telecommunications market because the company had long been 
+prohibited from entering those markets in a 1956 consent decree. 
+Ibid. (citing United States vy. Western Elec. Co., 1956 Trade Cas. 
+{ 68,246, at 71,138 (D.N.J. 1956)). 
+
+
+Since then, the decree parties (including the Department of Jus- 
+tice) and the courts have recognized that the hypothetical fears 
+underlying this "precaution[ ]" were insubstantial and that continued 
+exclusion of the Bell companies from providing information services 
+(such as video programming) is unwarranted. Accordingly, the 
+courts have lifted the information services restriction based largely 
+on the government's own representations that there was no continu- 
+ing need for it. 
+
+In 1987, three years after divestiture had been completed, the 
+Justice Department conducted a full-scale review of the decree, 
+including an "in-depth research” report by an independent consultant 
+hired by the government. Triennial Review, 900 F.2d at 291. As 
+a result of that review, and "[a]fter studying the comments of the 
+parties and intervenors on its recommendations, the [Department] 
+formally moved the court * * * for the removal of all the line of 
+business restrictions,” including information services. Id. at 292.'° 
+The Department was not alone: "With respect to the non-telecom- 
+munications and information services restrictions, all of the parties 
+to the original decree — AT&T, the [Bell companies], and the 
+[Department] — as well as the FCC agreed that the restrictions 
+should be removed.” Jbid. 
+
+
+The decree court at first declined to remove the information 
+services ban entirely, prompting appeals by the Justice Department 
+as well as the Bell companies. The D.C. Circuit held that the 
+decree court should not have retained the information services 
+restriction in the face of the government's (and every other party’s) 
+view that the restriction was not necessary to serve the public 
+interest. Jd. at 307-309. On appeal after remand, the D.C. Circuit 
+affirmed the removal of the information services restriction. The 
+court of appeals reviewed the substantial evidence before the district 
+
+
+'© The Department recommended that the decree court leave intact the 
+prohibition on local telephone companies offering certain long-distance 
+("interexchange") service. 
+
+
+18 
+
+
+court (much of it proffered by the Justice Department) that the 
+information services ban was not necessary and was in fact anti- 
+
+. United States v. Western Elec. Co., 993 F.2d 1572, 
+1578-1582 (D.C. Cir.) (/nformation Services), cert. denied, 114 S. 
+Ct. 487 (1993). Significantly, those who then opposed the view of 
+the telephone companies and the Justice Department raised the same 
+specters that petitioners now point to: discrimination and cross- 
+subsidization. Jbid. The Information Services court rejected those 
+illusory fears. This Court should take notice that the government 
+in that case not only recognized the insubstantiality of those con- 
+cerns, but actually demonstrated to the court’s satisfaction that 
+discrimination and cross-subsidization were not real risks. See id. 
+at 1580." 
+
+
+The arguments raised here to support Section 533(b) are the 
+same tired claims that were presented to, and repeatedly rejected by, 
+the government and the courts in the information services context. 
+For example, NCTA opposed the government’s proposal to lift the 
+information services restriction, arguing that it would give the Bell 
+companies “unparalleled opportunities for cross-subsidization of and 
+discrimination against cable operators.” Br. of NCTA, United 
+States v. Western Elec. Co., at 15 (D.D.C. filed Oct. 17, 1990). 
+It is telling that, since the information services restriction was lifted 
+in October 1991, there has been no evidence of anticompetitive 
+abuse by telephone companies offering information services. Peti- 
+tioners’ purported concerns here are even weaker because cable 
+companies do not depend on access to telephone company facilities 
+to deliver video programming to consumers. 
+
+
+'7 In addition to petitioners’ misleading arguments based on the consent 
+decree and the FCC’s 1970 regulation, amicus California Cable Television 
+Association (CCTA) alleges that a California telephone company has com- 
+mitted various misdeeds. CCTA Br. 13-16. These allegations are based 
+on one-sided presentations of routine regulatory disputes. Contrary to 
+CCTA’s implication, neither the FCC, the California Public Utility Com- 
+mission, nor any other independent reviewer has ever found that Pacific 
+has engaged in cross-subsidization or discrimination. 
+
+
+19 
+
+
+b. The FCC’s 1970 regulatory ban does not demon- 
+strate a risk of anticompetitive behavior. 
+
+
+NCTA notes the developmen of the FCC’s 1970 regulation 
+prohibiting telephone companies from owning or operating cable 
+television systems, which Congress codified in Section 533(b). 
+NCTA Br. 5-6; see Applications of Tel. Cos., 21 F.C.C. 2d 307, 
+324 (1970). One reason for imposing the ban in 1970 was to shelter 
+a new and undeveloped cable television business from the full rigors 
+of competition. Video Dialtone Order, 7 FCC Red at 5848 ("the 
+ban gave cable television operators an opportunity to firmly establish 
+themselves as viable competitors”); see also Applications of Tel. 
+Cos., 21 F.C.C. 2d at 314, 324-325. By 1992, however, the FCC 
+recognized that there had been “enormous growth [in] the cable 
+industry,” which now holds "a leading position in the delivery and 
+provision of video programming to the American public.” Video 
+Dialtone Order, 7 FCC Red at 5848; see also Ameritech, 867 F. 
+Supp. at 727. In fact, Congress has found that the cable industry’s 
+unchallenged growth has had severe anticompetitive results. “The 
+cable industry has become highly concentrated" and wields “undue 
+market power,” resulting in “barriers to entry for new programmers 
+and a reduction in the number of media voices available to consum- 
+ers." 1992 Cable Act §§ 2(a)(2), 2(aX(4). The government’s pur- 
+pose for restricting telephone company speech in 1970 — giving a 
+fledgling industry a chance to develop — cannot support Section 
+533(b) today, when the statute protects a monopolistic media behe- 
+moth from the most promising source of competition. 
+
+
+When it adopted its regulatory ban in 1970, the FCC feared 
+
+
+that telephone companies might use their control over telephone pole 
+and conduit access to prevent competing cable companies from es- 
+tablishing networks to deliver video programming. Applications of 
+Tel. Cos., 21 F.C.C. 2d at 324. In 1978, Congress addressed that 
+concern directly by authorizing the FCC to “regulate the rates, 
+terms, and conditions for pole attachment.” 47 U.S.C. § 224(b)(1); 
+
+
+see also 47 C.F.R. § 1.1401 (implementing regulations). 
+
+Because the pole attachment statute largely eliminated the con- 
+cern underlying the regulatory ban, a 1981 FCC staff report focused 
+on a concern that the FCC expressly declined to rely on in 1970: 
+the risk of anticompetitive cost-shifting , or cross-subsidization. J.A. 
+
+
+20 
+
+
+54-58; see also Pet. App. 94a (noting change from 1970 order to 
+1981 report). The 1981 report concluded that the ban should be 
+retained until the FCC could develop regulations segregating the 
+costs of a telephone company’s regulated operations from the costs 
+incurred in non-regulated, competitive businesses. Jd. at 158, 175. 
+The FCC has since developed and fully implemented just such a 
+comprehensive cost allocation scheme (see pp. 24-26, infra). 
+
+
+Thus, since the regulatory ban was adopted, there have been 
+significant changes in the regulatory, competitive, and technological 
+environment. As a result, the FCC — to which Congress deferred 
+in the first place — now has concluded that the reasons for banning 
+telephone companies from the cable television business are no longer 
+valid. See, e.g., Video Dialtone Order, 7 FCC Red at 5848-5849. 
+
+
+3. Section 533(b) is demonstrably anticompetitive. 
+
+
+Although petitioners seek to justify Section 533(b) on the 
+ground that it preverts anticompetitive behavior (e.g., Gov’t Br. 17; 
+NCTA Br. 36-37), the irony of their position is that the statute itself 
+is blatantly anticompetitive. Its primary effect is to block a sophisti- 
+cated and able competitor — the local telephone company — from 
+entering a market that would benefit from competition. In the 
+statute’s absence, telephone companies would provide an infusion 
+of much-needed competition in the cable market. It is simply coun- 
+terproductive to exclude the only real competitor under the guise of 
+promoting competition. “Freedom of entry is the single most 
+important guarantor of competition in a concentrated industry." 
+United States v. FCC, 652 F.2d 72, 106 (D.C. Cir. 1980) (en 
+banc). 
+
+
+The video programming ban has been in place (in statutory or 
+regulatory form) for some 25 years.'"* In the real world and after 
+
+
+'* The government suggests that Congress requires "a reasonable oppor- 
+tunity to experiment with solutions to admittedly serious problems.” Gov't 
+Br. 28-29 (quoting City of Renton v. Playtime Theatres, Inc., 475 U.S. 41, 
+52 (1986)). Section 533(b) is not a new, “experiment{al]" rule. The 
+statute must stand or fall based on the application of intermediate scrutiny 
+today, not on whether Congress needed a reasonable opportunity to experi- 
+ment in 1984. See also Gov't Br. 29 n.19. 
+
+
+21 
+
+
+a fair test, Section 533(b) has not promoted competition and diversi- 
+ty in cable television. To the contrary, Congress concluded in 1992 
+that “most cable television subscribers have no opportunity to select 
+become highly concentrated." 1992 Cable Act §§ 2(a)(2), 2(a)(4). 
+In light of this indisputable fact, it is preposterous to contend that 
+Section 533(b) promotes competition and diversity "in a direct and 
+material way." Turner, 114 S. Ct. at 2470. The ban also subverts 
+the purported goal of diversity in information sources by cutting off 
+the expression of a whole category of speakers. See Coors, 115 S. 
+Ct. at 1592 (holding that a labeling ban did not "directly and materi- 
+ally advance [the government's] asserted interest because of the 
+overall irrationality of the Government's regulatory scheme"). 
+
+
+None of this is mere speculation. The government agencies 
+with regulatory and oversight responsibilities for the telephone and 
+cable industries — petitioners FCC and the Justice Department, as 
+well as the National Telecommunications and Information Adminis- 
+tration (NTIA) — have expressly found that the ban should be re- 
+moved because it impedes competition and limits diversity. J.A. 
+337-347. These formal, factual investigations and reports are within 
+the scope of the agencies’ regulatory jurisdiction, and this Court is 
+entitled to rely on them — and not the position put forward by 
+government litigators — concerning the state of the market and other 
+facts relevant to the constitutional analysis. 
+
+
+4. Petitioners have not met their burden of showing that 
+Section 533(b) actually advances a substantial govern- 
+ment interest. 
+
+
+The requirement that a speech restriction actually advance the 
+identified interests is critical to constitutional analysis under the 
+intermediate scrutiny standard. Turner, Coors, and Edenfield are 
+only the most recent examples of cases where the Court has focused 
+on this element. Petitioners’ briefs make little attempt to demon- 
+strate that there is a real purpose behind Section 533(b) in today’s 
+world. Their identified concerns are based on outdated and inaccu- 
+rate allegations, which cannot justify restricting telephone company 
+speech today, especially in the absence of real competition in the 
+cable market. Moreover, they are directly contradicted by official 
+government findings. 
+
+
+22 
+
+
+B. Section 533(b) is Not Narrowly Tailored 
+
+
+The requirement of narrow tailoring should be rigorously 
+applied, as this Court’s decisions demonstrate. In recent years, the 
+Court has struck down a number of restrictions because they failed 
+the narrow tailoring requirement, many for the very same reasons 
+that Section 533(b) fails this standard. 
+
+
+Thus, the Court rejected a blanket ban on in-person solicitation 
+by accountants where the state’s justification applied equally to 
+solicitation by mail or advertisement. Edenfield, 113 S. Ct. at 
+1801; see also City of Cincinnati v. Discovery Network, Inc., 113 
+S. Ct. 1505, 1516 (1993) (striking down a restriction on newsracks 
+because it distinguished without reason between commercial and 
+noncommercial publications). Here, Section 533(b) singles out 
+cable programming, while the government's justifications apply just 
+as well (or as badly) to all information services and even all compet- 
+itive (nonregulated) businesses. 
+
+
+Just last Term, the Court held unconstitutional a federal law 
+prohibiting disclosure of alcohol content on beer labels and adver- 
+tisements. Coors, 115 S. Ct. at 1592 (noting the “overall irrational- 
+ity of the Government’s regulatory scheme,” allowing alcohol 
+content disclosure in many advertisements but not on labels). Here, 
+telephone company regulators have recognized that telephone com- 
+panies have significant new services and products to offer consum- 
+ers, who will benefit from increased competition. Regulators have 
+
+
+replaced blanket restrictions with comprehensive and sophisticated 
+oversight of financial activities. 
+
+
+Also last Term, the Court held that a prohibition on all execu- 
+tive branch employees from receiving honoraria was not narrowly 
+tailored to the government’s asserted interest in employee efficiency. 
+United States v. National Treasury Employees Union, 115 S. Ct. 
+1003, 1015 (1995) (noting the significant burden on the public’s 
+right to read and hear what the employees would write and say and 
+that the vast majority of speech subject to the ban has no effect on 
+the government’s interests); see also id. at 1016-1017 (identifying 
+aspects of the ban that “cast serious doubt on” the government’s 
+identified justifications). Here, prohibiting telephone companies 
+from providing cable service denies the public the benefits of in- 
+
+
+23 
+
+
+creased diversity and competition in the currently monopolized cable 
+market. 
+
+The government could not prohibit the distribution of newspa- 
+pers for the purpose of eliminating traffic injuries and deaths caused 
+by newspaper delivery trucks — even if eliminating such injuries 
+is a compelling interest and even if regulatory measures aimed 
+directly at traffic safety were less effective. For the same reason, 
+the government cannot forbid telephone companies from providing 
+video programming out of a fear that they might cross-subsidize or 
+discriminate. The risk of such behavior is inherent in any business 
+venture undertaken by a rate-of-return regulated enterprise, and 
+there has been no showing that regulatory alternatives are in fact 
+inadequate. 
+
+1. Petitioners’ justifications for Section 533(b) are not 
+
+unique to video programming. 
+
+
+It is significant that the justifications raised by petitioners are 
+not unique to the expressive activity of offering video program- 
+ming.” In theory, telephone companies would be able to engage 
+in cross-subsidization and discrimination whenever they enter arty 
+line of business other than regulated telephone service. Regulators 
+and lawmakers have long recognized, however, that there is no jus- 
+tification for a total ban on such enterprises as publishing telephone 
+directories, monitoring alarm systems, or providing information 
+such as news and weather. See Information Services, 993 F.2d at 
+1578. Petitioners have identified nothing about the video program- 
+ming business that suggests the dangers are greater here than else- 
+where, but cable is the only expressive business that telephone 
+companies are banned from entering. We believe it is also signifi- 
+cant that cable is a business that the Court has recognized deserves 
+constitutional protection. Since a rate-regulated company could (in 
+
+
+'? In fact, as the lower courts found, the government's justifications 
+have nothing to do with video programming at all. Any risk of cross- 
+subsidization could arise only from joint costs between telephony and video 
+transport, which is permitted by Section 533(b). There simply are no joint 
+costs between telephony and video programming. Pet. App. 42a-43a; id. 
+at 102a (" § $334) is irrelevant to the telephone companies’ ability to under- 
+take such practices"); see also U S West, 48 F.3d at 1102, 1104. 
+
+
+24 
+
+
+theory) cross-subsidize any other line of business it enters, the 
+government must point to some unique reason (something more than 
+the mere possibility of cross-subsidy) for singling out a medium of 
+protected speech for this sweeping prohibition. 
+
+Section 533(b)'s poor “fit” is no different than a hypothetical 
+statute prohibiting electric utility companies from owning and pub- 
+lishing a newspaper. Such a ban could be justified on concerns of 
+cross-subsidization and discrimination against competitors (news- 
+papers who need electric power). In fact, this Court has struck 
+down less drastic attempts to regulate the speech of utility compa- 
+nies. In the most recent case, the Court noted that the speech at 
+issue, a newsletter included in billing envelopes, was “[i}Jn appear- 
+ance no different than a small newspaper.” Pacific Gas & Elec. Co. 
+v. Public Utility Comm'n, 475 U.S. 1, 8 (1986) (plurality); see also 
+id. at 19 (noting absence of narrow tailoring); Central Hudson Gas 
+& Elec. Corp. v. Public Serv. Comm'n, 447 U.S. 557, 570 (1980). 
+
+
+2. Existing regulatory safeguards protect against cross-sub- 
+sidization and discrimination. 
+
+
+Turner emphasizes that the government must demonstrate (and 
+
+a reviewing court must determine) that there are no “availab[le) and 
+efficac{ious] constitutionally acceptable less restrictive means of 
+achieving the Government's asserted [objectives]." 114 S. Ct. at 
+2472 (internal quotation marks omitted). Here, petitioners dispute 
+the propriety of the Fourth Circuit’s holding that such less speech- 
+restrictive alternatives are available to address the government's 
+purported interests. Gov't Br. 27; NCTA Br. 40-41. We agree 
+with Bell Atlantic’s analysis of the flaws in that position. But peti- 
+tioners do not address the narrower ground that supports the lower 
+courts’ judgment striking down the statute: that existing regulatory 
+ponent ym ~~~ pnmena cpmeemmeneananremeeal 
+
+
+The , hibiti ———- 
+changed drastically since 1984, when Section 533(b) was enacted. 
+First, the FCC has replaced rate-of-return regulation with price caps 
+and average schedule rates, a regulatory system that removes any 
+
+
+25 
+
+
+incentive to cross-subsidize. See Policy and Rules Concerning Rates 
+for Dominant Carriers, 5 FCC Red 6786 (1990), recon., 6 FCC 
+Red 2637 (1991) (price-cap regulations); 47 C.F.R. § 69.606 (aver- 
+age schedule regulations);” see also National Rural Telecom Ass'n 
+v. FCC, 988 F.2d 174, 178 (D.C. Cir. 1993) (under the price-cap 
+system, there is no “reward for shifting costs from unregulated 
+activities into regulated ones, for the higher costs will not produce 
+higher legal ceiling prices"); Information Services , 993 F.2d at 1580 
+(price-cap regulation “reduces * * * ability to shift costs from un- 
+regulated to regulated activities"); People of California v. FCC, 39 
+F.3d 919, 926 (9th Cir. 1994) (a telephone company “would have 
+little incentive to shift costs from nonregulated activities to regulated 
+ones because it would not be able to increase regulated rates to 
+recapture those costs”), cert. denied, 115 S. Ct. 1427 (1995).”" 
+
+
+Second, the FCC has adopted detailed cost accounting rules 
+designed to allocate costs carefully between regulated and non- 
+regulated services. See, e.g., Separation of Costs, 2 FCC Red 1298 
+(Joint Cost Order), recon., 2 FCC Red 6283 (1987), further recon., 
+3 FCC Red 6701 (1988), aff'd sub nom. Southwestern Bell Corp. 
+v. FCC, 896 F.2d 1378 (D.C. Cir. 1990); Bell Operating Co. Safe- 
+guards and Tier 1 Local Exchange Co. Safeguards, 6 FCC Red 
+7571, 7594 (1991) (BOC Safeguards). These rules did not exist in 
+1984, when Congress enacted Section 533(b), and the FCC’s 1981 
+Staff Report specifically identified the absence of such a regulatory 
+
+
+%® The average schedule rules establish a svstem by which over 600 tele- 
+phone companies, nearly half of those subj<ct to the ban in Section 533(b), 
+set prices according to a schedule based on the total costs incurred by all 
+participating companies. Use of this formula (like the price-cap regime) 
+reduces the incentive and ability of telephone companies to cross-subsidize 
+because interstate rates for these companies are not directly tied to their 
+
+
+** NCTA contends that the FCC’s (and many states’) move to price-cap 
+regulation is meaningless unless it is “pure price cap regulation, severing 
+all connection to costs." NCTA Br. 37 n.31 (internal quotation marks 
+omitted). But there is no support for that proposition. Even where the 
+regulator retains some residual authority to account for costs, there is no 
+
+
+26 
+
+
+regime as a justification for retaining the ban at that time. J.A. 58. 
+
+
+Thus, the only justification that can even indirectly be attributed to 
+Congress — the absence of regulatory means to control the risk of 
+
+
+cross-subsidization — is simply no longer true. 
+
+
+The FCC’s Joint Cost rules (1) impose detailed cost allocation 
+standards, (2) establish accounting procedures, audit requirements, 
+and other implementation and enforcement mechanisms, and (3) set 
+rules for recording transactions between regulated telephone compa- 
+nies and their corporate affiliates. See People of California, 39 
+F.3d at 926. Under the cost allocation standards, telephone compa- 
+nies are required, in apportioning costs between regulated and non- 
+regulated services, to (a) charge the nonregulated activity for tariffed 
+services at the tariffed rates (and apply an equivalent credit to the 
+regulated service providing the tariffed services); (b) directly assign 
+all costs, whenever possible, to either regulated or nonregulated 
+activities; and (c) group unassignable “common” costs into certain 
+categories and allocate them according to a specific methodology. 
+Joint Cost Order, 2 FCC Red at 1318. In addition, all common 
+investment costs relating to “central office equipment and outside 
+plant” must be allocated “based upon the relative regulated and 
+nonregulated usage of the investment at the highest forecast relative 
+nonregulated usage over the life of the investment." Jd. at 1319 
+(emphasis added). In this way, the Joint Cost rules impose a sys- 
+tematic bias in favor of the customers of the regulated activity 
+(thereby preventing cross-subsidization and counteracting it to the 
+extent it goes undetected) by ensuring that joint costs are to some 
+extent shifted automatically to the nonregulated activity from the 
+regulated — not vice versa. 
+
+
+b. The government has repeatedly and formally found 
+that existing regulatory safeguards are effective. 
+
+
+The FCC and the Justice Department have both emphatically 
+found that the existing regulatory safeguards are adequate to protect 
+ratepayers and competitors. In its most recent pronouncement on 
+the subject, the FCC has found “that our current regulatory safe- 
+guards against cross-subsidy are sufficient to protect telephone 
+ratepayers when a telephone company provides cable service over 
+{ ] a stand-alone cable system.” Jn Re: Telephone Company-Cable 
+Television Cross-Ownership Rules (Fourth Report and Order), FCC 
+
+
+27 
+
+
+95-357, at 9, ¢ 18 (rel. Aug. 14, 1995) (Fourth Report). The PCC 
+specifically identified price cap rules, affiliate transaction require- 
+ments, and the cost allocation rules in the Joint Cost Order. See 
+id. at 9-10 & nn. 43-45. Significantly, the Fourth Report did not 
+even address fears of discrimination, implicitly acknowledging the 
+unreality of that concern where telephone companies offer traditional 
+cable television service. See id. at 9 (identifying as “a primary 
+
+
+concern * * * [only] that telephone ratepayers not bear the burden 
+of the investment in [cable] systems"). 
+
+
+The Fourth Report is just the most recent of many FCC affir- 
+
+
+nation. See also, e.g., Video Dialtone Order, 7 FCC Red at 5827 
+("existing safeguards against discrimination and cross-subsidization" 
+
+
+suffice to “protect against potential anticompetitive conduct"). The 
+Justice Department has also approved these safeguards, expressing 
+its view that FCC regulations suffice to protect ratepayers from 
+cross-subsidization and protect competitors from discrimination. 
+For example, both the FCC and the Justice Department made the 
+same admission — that regulatory safeguards are sufficient to ad- 
+dress the problems of cross-subsidization and network discrimination 
+— in the Information Services litigation (see pp. 17-18, supra). 
+Information Services, 993 F.2d at 1580.” See also Ameritech, 867 
+F. Supp. at 734-35 ("The FCC and DOJ have taken the position that 
+* * * concerns about cross-subsidization and network discrimination 
+could be addressed by federal regulations. * * * In this litigation, 
+the Government states that ‘the defendant agencies stand by their 
+assessment.’") 
+
+
+2 See Memorandum of United States in Support of Motions for Remov- 
+al of the Information Services Restriction, United States v. Western Electric 
+Co., C.A. No. 82-0192, at 15-33 (D.D.C. filed Aug. 22, 1990) (Ct. App. 
+J.A. 2631-2649); Reply Memorandum of United States in Support of 
+Motions for Removal of the Information Services Restriction, United States 
+v. Western Electric Co., C.A. No. 82-0192, at 6, 60-65 (D.D.C. filed 
+Jan. 18, 1991) (Ct. App. J.A. 2790-2795); FCC Reply Brief at 25 (Ct. 
+App. J.A. 2703). 
+
+
+28 
+
+
+We do not mean to suggest — as petitioners might characterize 
+our argument (Gov't Br. 32 n.21) — that the views of executive and 
+independent agencies should trump a legislative determination. 
+Rather, these government pronouncements are important precisely 
+because there has been no legislative determination here (thus, there 
+is no occasion for deference to Congress, see pp. 6-10, supra). 
+Intermediate scrutiny requires careful justification of a speech re- 
+striction by demonstrating its actual effects. Turner, 114 S. Ct. at 
+2470. Petitioners simply have not shown that, in the real world, 
+there is any deficiency in the existing regulatory safeguards requir- 
+ing a complete ban on speech. All the available evidence — and all 
+of petitioners’ statements in other fora — demonstrate the opposite: 
+that the existing safeguards do an excellent job of monitoring and 
+preventing anticompetitive abuses. 
+
+c. Petitioners have not shown that regulatory safe- 
+guards are inadequate. 
+
+
+Petitioners have no real evidence of regulatory failure. They 
+point to two GAO reports, hinting that the GAO determined that 
+cross-subsidization is not redressable by regulatory measures. Gov't 
+Br. 31, 33. In fact, the reports criticize only the insufficient staffing 
+at the FCC; notably, they recognize in principle the efficacy of the 
+Joint Cost rules as a means of controlling cross-subsidies. £.g., 
+J.A. 83, 124. Indeed, the Court should view the government's 
+arguments here with substantial skepticism; they are flatly contradic- 
+ted by repeated public pronouncements of the FCC and the Justice 
+Department. See Video Dialtone Order, 7 FCC Red at 5828 ("while 
+some parties contend that the FCC lacks the resources to adequately 
+protect against anticompetitive conduct, we note that we have previ- 
+ously concluded that this contention is without merit") (footnote 
+omitted)” As we have shown (pp. 8-9 & note 9, supra), the 
+
+
+® Even if this Court were to seriously entertain an argument that 
+petitioner FCC has elsewhere conceded “is without merit,” the argument 
+must be rejected. Surely hiring a few more auditors is a less restrictive 
+means of accomplishing the government's objectives than silencing the 
+video programming speech of the telephone companies. If Congress and 
+the Administration do not consider the regulatory objective important 
+enough to warrant additional audit staff, the government should not be 
+
+
+various post- 1984 committee reports and snippets of hearing testimo- 
+ny simply do not support the view that Congress or any other 
+government entity actually believed that the FCC's regulatory 
+measures are inadequate. 
+
+
+C. Petitioners Have Not Met Their Burden Under Inter- 
+mediate Scrutiny 
+
+
+Economic regulation not affecting speech is subject to deferen- 
+tial review when challenged in court. If Congress wishes to exclude 
+one class of competitors to preserve the position of another, the 
+Constitution does not stand as a bar, so long as litigators defending 
+the law can suggest a reasonable basis for the restriction. But, as 
+this Court recently reaffirmed in Turner, Congress has no such 
+latitude when it restricts protected speech. 
+
+
+Where, as here, the government bars willing speakers from an 
+entire medium of communications that is now dominated by monop- 
+olists, and explains its ban with the assertion that the restriction pro- 
+motes competition, it bears a heavy burden of justification. This 
+is a burden that petitioners do not meet — indeed, they have scarce- 
+ly even attempted to meet it. For the government petitioners to 
+demonstrate that Section 533(b) actually advances the objectives of 
+competition and diversity would require them to contradict the 
+conclusions of every study of the issue they have undertaken in the 
+past eight years. Their only hope is to persuade this Court to avert 
+its eyes from the actual regulatory record and reverse the unanimous 
+judgments of federal courts in ten different cases on the basis of 
+hypothetical, unproven, and implausible theories that were never 
+adopted (or even considered) by Congress, that were repudiated by 
+petitioners themselves, and that were concocted solely for the pur- 
+pose of this litigation. The First Amendment demands more. 
+
+
+heard to claim that the objective is important enough to satisfy heightened 
+scrutiny under the First Amendment. 
+
+
+30 
+
+
+CONCLUSION 
+The judgment of the court of appeals should be affirmed. 
+
+
+Respectfully submitted. 
+
+
+MARY MCDERMOTT 
+
+LINDA KENT 
+
+CHARLES D. COSSON 
+1401 H Street, N.W. 
+Washington, DC 20005 
+Counsel for United States 
+Telephone Association 
+
+
+DAVID COSSON 
+L. MARIE GUILLORY 
+2626 Pennsylvania Ave., N.W. 
+Washington, D.C. 20037 
+Counsel for The National 
+
+
+Telephone Cooperative Assoc. 
+
+
+THOMAS P. HESTER 
+
+KELLY R. WELSH 
+30 South Wacker Drive 
+Chicago, Illinois 60606 
+Counsel for Ameritech Corp. 
+
+
+MICHAEL W. MCCONNELL* 
+KENNETH S. GELLER 
+H. THOMAS BYRON III 
+Mayer, Brown & Platt 
+2000 Pennsylvania Avenue, N. W. 
+Washington, DC 20006 
+(202) 463-2000 
+
+
+Counsel for Amici Curiae 
+* Counsel of Record 
+
+
+LIsA M. ZAINA 
+2] Dupont Circle, N.W. 
+Washington, D.C. 20036 
+Counsel for The Organization for 
+the Protection and Advancement 
+
+
+of Small Telephone Companies 
+
+
+MORRISON DES. WEBB 
+
+JOHN M. CLARKE 
+
+JOHN P. WALSH 
+1113 Westchester Avenue 
+White Plains, New York 10604 
+Counsel for NYNEX Corp. 
+
+
+THOMAS E. TAYLOR 
+CHRISTOPHER J. WILSON 
+Frost & Jacobs 
+2500 PNC Center 
+201 East Fifth Street 
+Cincinnati, Ohio 45202 
+Counsel for Cincinnati Bell 
+
+
+Telephone Company 
+
+
+MICHAEL J. SHORTLEY, III 
+180 South Clinton Avenue 
+Rochester, New York 14646 
+Counsel for Frontier Corp. 
+
+
+ELLYN ELISE CRUTCHER 
+121 South 17th Street 
+Mattoon, Illinois 61938 
+
+
+OWEN E. MACBRIDE 
+Schiff, Hardin & Waite 
+7200 Sears Tower 
+Chicago, Illinois 60606 
+Counsel for Illinois Consoli- 
+dated Telephone Company 
+
+
+31 
+
+
+RICHARD W. ODGERS 
+LUCILLE M. MATES 
+
+130 Kearny Street 
+
+San Francisco, Calif. 94108 
+
+
+ALAN F. CIAMPORCERO 
+1275 Pennsylvania Ave.,N. W. 
+Washington, D.C. 20004 
+Counsel for Pacific 
+Telesis Group 
+
+
+JAMES D. ELLIS 
+LIAM S. COONAN 
+KELLY M. MURRAY 
+MARY W. MARKS 
+175 E. Houston 
+San Antonio, Texas 78205 
+
+
+MARTIN E. GRAMBOW 
+1401 I Street, N. W. 
+Washington, D.C. 20005 
+Counsel for SBC Communications 
+Inc. 
+
+
+MADELYN M. DEMATTEO 
+ALFRED J. BRUNETTI 
+227 Church Street 
+New Haven, Conn. 06510 
+Counsel for The Southern 
+New England Telephone Co. 
+
+
