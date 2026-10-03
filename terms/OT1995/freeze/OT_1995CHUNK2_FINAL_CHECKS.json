@@ -1,0 +1,11 @@
+{
+  "checks": [
+    "Existing brief, inventory, Records and output preserved: 15 SHA256 checks.",
+    "New Records: 12; all fixed labels and projection blocks checked.",
+    "Controlling explanations checked: 24; maximum 237 words.",
+    "Local Record links checked: 39; no locked-directory link followed.",
+    "Matching named runtime/freeze pairs checked: 19."
+  ],
+  "errors": [],
+  "git": "Not invoked; provenance checks deferred to operator."
+}

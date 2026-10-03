@@ -1,0 +1,37 @@
+# OT1995 chunk 2, group C — reconciled non-Stone commitments
+
+**Stage:** Isolated historical reconciliation under Engine §7. This document supplements, rather than rewrites, the frozen provisional commitments. It contains no Stone position and makes no assignment.
+**Inputs:** The frozen C neutral packet and commitments, the Allridge and Yamaha neutral addenda, the C entering-law slice, the Current-Term Neutral Projection, Engine provisions, and the C historical comparator. Current private Stone material, combined briefs, raw Records, and the locked top-level directory were not accessed. No Git command or process was run.
+**Chronology:** Lawrence and Stutson share the January 8, 1996 entering baseline; neither becomes authority for the other through file order. Yamaha's cutoff is January 9; Allridge's is January 15. The actual Pioneer, Graham, Johnson, Simmons, Delo, Brecht, O'Neal, Swint, and Tuggle propositions in the supplied slices govern within their own limits. A citation to a historical post-divergence Supreme Court action does not admit that action into this timeline.
+
+**Status:** Stutson reconciliation complete. This separate handoff does not include the pending Lawrence matter. No additional historical neutral facts are adopted beyond the frozen neutral packet and its clean addendum, where applicable. Durable file freeze; operator repository commitment remains pending.
+
+## Stutson v. United States — No.94-8988 — January 8, 1996
+
+### Result and shared supporting ground
+
+Retain six GVR commitments — Stevens, O'Connor, Kennedy, Souter, Ginsburg, and Breyer — and two denial commitments — Scalia and Thomas. The [official report, 516 U.S.193–198](https://www.govinfo.gov/content/pkg/USREPORTS-516/pdf/USREPORTS-516-193.pdf), was downloaded and read in full, including its timing footnote and the cross-reference to the three Lawrence writings. The historical non-Stone pattern matches the frozen one. Historical Rehnquist dissented here; his vote is not transferred to Stone.
+
+The supporting six rely on the supplied combination of actual Pioneer's potentially important construction, the Government's changed position about its relevance, the one-working-day delay, and an unexplained affirmance that leaves the governing premise uncertain. None alone makes vacatur obligatory. Reconsideration may affect access to appellate review and can occur without this Court deciding excusability, resolving all Rule 4(b) questions, or finding that the lower court in fact applied a wrong rule. The procedural justification satisfies the probability-and-equities understanding stated above, independently on the common entering baseline; Lawrence is not treated as an earlier effective precedent.
+
+Actual Pioneer concerns Rule 9006(b)(1), attributes counsel's conduct to the client, and considers all relevant circumstances without making any factor invariably decisive. Its separate (b)(2) and (b)(3) restrictions remain confined to the bankruptcy rules they address. This order neither copies those rule-specific provisions into Rule 4(b) nor makes a merits holding that every Rule 4(b) application is governed identically. The court below may again reject the excuse on lawful grounds. No conviction, sentence, filing deadline, or substantive appellate claim is adjudicated; no merits appeal is guaranteed.
+
+| Justice | Reconciled support or objection |
+|---|---|
+| Stevens | GVR; full join in the bounded procedural explanation. His actual Pioneer join and Tuggle opinion support the distinction between a potentially mistaken review premise and a right to relief. His historical concurrence confirms context-sensitive discretion, without an exception to counsel attribution or an entitlement for every brief delay. |
+| O'Connor | GVR; full join without finding excusable neglect. Her Pioneer dissent's focus on the reason for default and missing causation findings remains available on remand. Her historical support confirms that accepting reconsideration does not adopt a lenient merits outcome or abandon her Alvarado concern about executive control. |
+| Scalia | Deny; no join in the GVR ground. His historical dissent confirms the precise objection: Pioneer was available and its relevance disputed below; the unexplained order might have applied it and rejected relief. Changed Government advocacy supplies neither intervening law nor a confession that the judgment is wrong. Judicial power to review exists, but uncertainty alone does not authorize this disposition under his limiting approach. |
+| Kennedy | GVR; full join. His actual Pioneer join permits consideration of careless default while preserving client responsibility, and his historical support confirms that the combined procedural circumstances overcome his Alvarado concern. He makes no finding about this lawyer's excuse. |
+| Souter | GVR; full join. His Pioneer dissent join does not prevent application of the actual majority rule within its scope. His historical support and actual Tuggle join favor remand while leaving causation, relevant circumstances, and the eventual ruling to proper review. |
+| Thomas | Deny; joins Scalia's full limiting objection. His Pioneer dissent and actual Tuggle join distinguish an identified defective judicial premise from the present uncertainty. The historical express join confirms this scope; it does not establish opposition to all remands involving attorney error. |
+| Ginsburg | GVR; full join. Her actual Tuggle and Thompson joins support review under the correct framework without a finding of entitlement. The historical agreement confirms the case-specific procedural judgment; no rule makes a short delay automatically excusable. |
+| Breyer | GVR; full join. His actual Tuggle and Thompson joins and historical agreement support reconsideration of a potentially determinative appellate premise. The loss of appellate review matters to the equities, but does not erase rule limits, counsel attribution, or finality. |
+
+**Separate-position work:** Stevens's supportive discretionary explanation and the common Scalia–Thomas limiting dissent apply to this matter too. There is no additional non-Stone join in Stevens's supplemental position. Preserve the Scalia–Thomas objection that the Government concedes a point of law rather than error in the judgment, and that an unexplained affirmance does not establish reliance on the abandoned argument. Their complete common dissenting position and the six full joins in the shared explanation reconcile with the internal disposition commitments. Publication and authorship remain unassigned.
+
+**Departure assessment:** No material historical departure. The actual simulated Pioneer majority, rather than historical authorship or post-divergence citations in the comparator, supplies entering law. The full historical account also contains further circuit decisions and briefing chronology; those details have been sent for clean neutral review and do not supply an unapproved factual enlargement of this handoff.
+
+
+## Preservation and source limits
+
+Read with the identically named frozen neutral packet or the corresponding section of `OT_1995CHUNK2_C_NEUTRAL.md`, the existing clean addenda, and frozen `OT_1995CHUNK2_C_COMMITMENTS.md`. Full sources and case-specific limits are identified above. The common stage boundary and actual entering-law qualifications remain controlling. No author, Stone position, final Court count, or petition poll publication is supplied. Runtime and freeze bytes verified identical.

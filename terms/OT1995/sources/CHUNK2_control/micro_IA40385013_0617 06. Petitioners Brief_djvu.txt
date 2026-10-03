@@ -1,0 +1,3147 @@
+oo tae ay 
+
+
+pny, be . = 
+
+
+ony i a 
+
+
+2 Ps Sots ? : v2} 4 sy Nid iA 7 +, <4 ,, 5 ¥ be Se a . 
+P ter TS) ' 1*, ~ A ' ’ = y 
+Si ; Ae : p 
+‘ Pan, b> F I L E D 
+i? ‘i 
+es 
+” 
+= Nos. 94-7848, 94-7492 JUN 30 
+1s 
+- _ ~ - — —o - - - ~ _ +--+ s 
+
+
+— —s—s« it the Supreme Court of the Sinited States 
+. OCTOBER TERM, 1995 
+
+
+ROLAND J. BAILEY, PETITIONER 
+
+
+Vv. 
+: : UNITED STATES OF AMERICA, RESPONDENT 
+
+
+Counsel for Bailey (94-7448) Counsel for Robinson (94-7492) 
+a SSSSSNSnNnSDSISSSNONNNNNNNnnnnnnnnonneninnnnns 
+
+
+BEST AVAILABLE COPY | 
+
+
+QUESTION PRESENTED 
+
+
+Whether the 5-4 decision of the court below misinterpreted 18 
+U.S.C. § 924(c)(1) — which imposes a mandatory 5-year consecu- 
+tive sentence on a person who “uses or carries” a firearm “during 
+and in relation to” a drug-trafficking offense — by adopting a 
+standard that looks solely to the “proximity and accessibility” of 
+the firearm to the drugs, drug paraphernalia, or drug proceeds, 
+rather than to active employment of the firearm or to other rel- 
+evant factors such as the type of weapon involved, whether it was 
+loaded and ready to fire, and the presence of expert testimony to 
+support the government’s theory of “use.” 
+
+
+TABLE OF CONTENTS 
+
+Page 
+
+TABLE OF AUTHORITIES .................... vi 
+Cee news 1 
+EE Ee l 
+STATUTORY PROVISION INVOLVED ............ l 
+EE I 
+1. Bailey’s Arrest, Trial, and Panel Appes! ...... . | 
+
+2. Robinson's Arrest, Trial, and Parel Appeal .._. . 4 
+
+3. The En Banc Court’s Opinica ............. 8 
+SUMMARY OF ARGUMENT ................. 11 
+Ee ee 12 
+
+
+I. A DEFENDANT “USES” A FIREARM “DUR- 
+ING AND IN RELATION TO” A DRUG-TRAFFICK- 
+ING OFFENSE BY ACTIVELY EMPLOYING THE 
+WEAPON TO CARRY OUT THE PREDICATE OF- 
+
+
+A. The Language And Structure Of Section 924(c)(1) 
+Clearly Express Congress’s Intent To Criminalize 
+Only Active Employment Of A Firearm To Commit 
+The Predicate Offense ................. 13 
+
+
+4. The Anti-Drug Abuse Act of 1988....... 
+
+
+D. The Rule Of Lenity Supports Petitioners’ Construct- 
+
+
+ion Of Section 924(c(1) ................ 
+
+
+A. The Language, Structure, And Legislative History 
+
+
+Of Section 924(c) Demonstrate That Congress 
+Intended Several 
+
+
+1. Possession Is Necessary But Not Sufficient To 
+Show “Use” Of A Firearm ........_.. 
+
+
+2. Section 924(c) Criminalizes Use Of A Firearm, 
+Not Mere Potential Or Intended Use .... . 
+
+
+3. Accessibility Of The Firearm To The Defen- 
+dant, Even Immediate Accessibility, Is Not 
+Sufficient To Establish Liability For 
+
+
+‘WN ocivénusesdunene... 
+
+
+4. A Firearm Is Not Used In Relation To The 
+Predicate Offense Merely Because Its Presence 
+“Emboldens” The Defendant ........._. 
+
+
+The D.C. Circuit's “Proximity And Accessibility” 
+Test Is Inconsistent With The Foregoing Limitations 
+And Is Otherwise Erroneous .........._._. 
+
+
+\ 
+
+
+v 
+
+
+TABLE OF CONTENTS — Continued 
+
+
+Page 
+
+
+C. Courts Should Consider A Variety Of Relevant 
+Factors In Determining Whether There Was Suffi- 
+
+
+cient Evidence Of Use ................. 44 
+Accessibility Of Firearm To Defendant .. _. . 45 
+Proof Of A Drug Transaction.......... 45 
+
+The Type, Condition, And Number Of 
+A 45 
+
+4. Whether The Firearm Was Loaded And 
+a er i ar la ea 46 
+i I ne ee nn th ne ee os 46 
+
+D. Once These Factors Are Considered, Both Petition- 
+
+ers’ Convictions Should Be Reversed ........ 47 
+i foe eco eee. eee 50 
+Gp ae en ee la 
+
+
+vi 
+TABLE OF AUTHORITIES 
+
+Cases: Page 
+Astor v. Merritt, 111 U.S. 202 (1884) .............. 15 
+Bell v. United States, 349 U.S. 81 (1955) ............ 33 
+Busic v. United States, 446 U.S. 398 (1980) ..... 22, 23, 26 
+Cleveland v. United States, 329 U.S. 14 (1946) ........ 21 
+District of Columbia v. Greater Washington Board 
+
+of Trade, 113 S. Ct. 580 (1992) ............... 40 
+
+
+Green v. Bock Laundry Machine Co., 490 U.S. 504 (1989) . 44 
+
+
+Ingersoll-Rand Co. v. McClendon, 498 U.S. 133 (1990) .. . 40 
+John Hancock Mut. Life Ins. Co. v. Harris Trust 
+
+
+& Sav. Bank, 114 S. Ct. 517 (1993) ............ 19 
+King v. St. Vincent's Hospital, 502 U.S. 215 (1991) ..... 19 
+McLaughlin v. United States, 476 U.S. 16 (1986) ....... 18 
+McNally v. United States, 483 U.S. 363 (1987) ........ 33 
+New York State Conference of Blue Cross 
+
+& Blue Shield Plans v. Travelers Ins. Co.., 
+
+SEG GP PE UGS ccccccccccces 40 
+Perrin v. United States, 444 U.S. 37 (1979) .......... 14 
+Ratzlaf v. United States, 114 S. Ct. 655 (1994) ........ 16 
+Rewis v. United States, 401 U.S. 808 (1971) .......... 33 
+Simpson v. United States, 435 U.S. 6 (1978) ....... 23, 26 
+Smith v. United States, 113 S. Ct. 2050 (1993) nnn passim 
+United States Department of Treasury v. Fabe, 
+
+Cs nce 16, 37 
+United States v. Aguilar, 63 U.S.L.W. 4637 
+
+sak Cirbtnice hc ecm ne nee ad 
+
+
+United States v. Anderson, 39 F.3d 331 (D.C. Cir. 1994) .. 19 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+
+United States v. Bruce, 939 F.2d 1053 
+
+SE 4, 39, 45, 46 
+United States v. Clemis, 11 F.3d 597 (6th Cir. 
+
+1993), cert. denied, 114 S. Ct. 1858 (1994)........ 43 
+United States v. Conner, 972 F.2d 1172 
+
+EE ee 45 
+United States v. Derr, 990 F.2d 1330 
+
+Se 4, 46-48 
+United States v. Feliz-~Cordero, 859 F.2d 250 
+
+eR ele 45, 46 
+United States v. Fermin, 32 F.3d 674 (2d Cir. 
+
+1994), cert. denied, 115 S. Ct. 1145 (1995)........ 45 
+United States v. Granderson, 114 S. Ct. 1259 
+
+EEE a ae he 12, 33, 34 
+United States v. Gutierrez-Silva, 983 F.2d 123 
+
+a 46 
+United States v. Long, 905 F.2d 1572 
+
+(D.C. Cir.), cert. denied, 
+
+RE 12, 14, 33, 38 
+United States v. McFadden, 13 F.3d 463 
+
+LEE SS passim 
+United States v. McKinnell, 888 F.2d 669 
+
+ee 45 
+United States v. Morris, 977 F .24 617 
+
+ie a le 45, 46 
+United States v. Paz, 927 F.2d 176 
+
+I 36 
+United States v. R.L.C., 503 U.S. 291 (1992) ...... 33, 34 
+
+
+viii 
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+
+United States v. Reyes, 930 F.2d 310 (3d Cir. 
+
+Diba hs meddsadensdeoest Few ct Oe 45 
+United States v. Ron Pair Enters., Inc., 
+
+Car ek SE Ob wei 64 RW es 0 bh e Si 13 
+United States v. Stewart, 779 F.2d 538 (9th Cir. 
+
+1985), cert. denied, 484 U.S. 867 (1987) ......... 28 
+United States v. Sullivan, 919 F.2d 1403 (10th Cir. 
+
+1990), cert. denied, 113 S. Ct. 1013 (1993)........ 42 
+United States v. Theodoropoulos, 866 F.2d 587 
+
+ek nee waa be we ee ts Pee bs 45 
+United States v. Williams, 952 F.2d 418 
+
+(D.C. Cir.), cert. denied, 113 $.Ct. 148 (1992) ..... 46 
+United States v. Willis, 6 F.3d 257 (Sth Cir. 1993) ...... ae 
+United States v. Wilson, 884 F.2d 174 (Sth Cir. 1989) .... 36 
+Statutes and Sentencing Guidelines: 
+Sp en Eee Wb d bed 6 bw dene ne chi ceen tee 5,6 
+SEED, 64s vce od oa BEL IS 21 
+SUED. oS G-v-v'e SSS SOM weet onl 21 
+SED Goo 3:5. ESe Ub wes oc ncsadue 21 
+es ME « 6-63 bc v.0'00¥ os cease ene ae 21 
+EE ee, ee 21 
+I ws wi irewmais vctbiwed o¥d on 2, 37 
+od ee ee | 21 
+PE Beh Cs Caeeee tit cass ey wedne 21, 37 
+SEE & 4 5 0 boo aah 6 oh oo Ons pee 37 
+
+
+ix 
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+En / iho 6.5.60 00 60 6.0% SUE bb oe 0 Os 21 
+i es 6b supe eee 6 Ue Udee cede 21 
+re Ps ae ee 37 
+i od sens on 6 ins baeeoond owes 37 
+ee See 37 
+ie <2. 66 Oss whe ob 0 b's cb 0 60a 37 
+te hes oils vie ceeicecedies passim 
+FR ee ee 21 
+ns Wise 566 Udo ota deeded s tives 21 
+EO Se ee oe eee passim 
+IS 8.2bS oo 6 6 oe Cdk 6H U's oe passim 
+is i+. noses an ch bnase s 00:b%% 19 
+eo Se osc ese beeceecseee 20 
+EE. WAG bo wb 5.06 668 wcls dc 60% 20 
+i. o£. 6s os bee o0 sec 4a veces ses 20 
+nhs. + pet ecesehsce to VS sewET 21 
+Es hs es te on ds g Ule b's 66% 8 . B 
+Es Lod eie debe dibeccesestioses’ 37 
+i Pies Sob Gee bec oeccceeeers 37 
+is i. 6+ 5006.00 08 a beweeweel 37 
+es 2... pee ©. is 66.0 6 eb awe 4 18 
+nS os cane oo cb beewt eens. bee 2 
+rT Sco: pees cob be sees cethetes 5 
+
+
+Se ie BPSD ccc ccc ccccccceececes 5 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+Se Deas ED 6c 6k 6 Vee d ée% ORE Se eee Fe 5 
+Se Gee COED oseccccsveécesseee eure en 6 
+BS Gs EE Hewcccrccescete eet awe 5 
+ee ee ED wc 6004 @0 600 week Perse eer l 
+aD Cates EE 8c 6 io 80 6808S Ese eo ker 9 
+. FS % © 5} & Ber Oe er ae 22 
+Pub. L. No. 90-618, § 102, 82 Stat. 1213 .......... 22, 23 
+Pub. L. No. 98-473, § 1005(a), 98 Stat. 1837 ......... 25 
+Pub. L. No. 99-308, § 104, 100 Stat. 449 ......... 29, 32 
+Pub. L. No. 100-690, § 6212, 102 Stat. 4181 ......... 32 
+Pee ED & ov owe ede pede ee ee cee 17, 39 
+Daas CD 66 ieee wedaeiowet™ Creat 38 
+Se ED cc ccccesvecedaceeteenwee 17 
+A SEE. vc cc cectecesccexiwi ee ee 17 
+EL cg occcccnccaucesene beeen oe 17 
+Misceilaneous: 
+114 Cong. Rec. (1968): 
+DE ewnebeeeedcscccéenesabueees eee 24 
+SPD . «sss ses 60s cen 23 
+Dh ns ann 6 0c 0 6504606488 4k CEE 23 
+8 8 Bey es ee 23 
+i Pn + 0+ 6660 ee se bmanieeecme 25 
+DP PE. wedkesnseces ténehenne ace’ 23, 24 
+SDP. cccecccvecestcewanten eau 24 
+S LerTrreTre. Tes. 23 
+SAP rr rg a arta ycyts | 24 
+SS — FRerererry. oe tet eer 24 
+
+
+Page 
+
+Tt Tose Lees cade es cheese ot bes ot 25 
+
+thn. 606d bs eis eee sd er beteeses 23 
+
+Et iietds sdk aes 0.0.00 e600 $a)e cae 64 23 
+
+ET i 006 a6 6.006 ¢dibarh4 eee we < 24 
+
+nr ain aula g's S60 l o's s 04 6 0's 6 0 Oe 0 6% 18 
+128 Cong. Rec. (1982): 
+
+GE <5 Sea eS a 28 
+
+ie head <6 bien ci ee bee ain es 6's 28 
+129 Cong. Rec. (1983): 
+
+Cd shinies Kid.o Mies 6 60.06 ¥ 04 6 62 26 
+
+EEE EEE 26 
+Black’s Law Dictionary (6th ed. 1990) .............. 15 
+Comprehensive Crime Control Act of 1983: Hearings 
+
+on S. 829 Before the Subcommittee on Criminal 
+
+Law of the Senate Committee on the Judiciary, 
+
+9Gmh Coms., lot Sous. (1903) 2... ccc eee 25, 26 
+H.R. Conf. Rep. No. 1956, 90th Cong., 2d Sess., 
+
+reprinted in 1968 U.S.C.C.A.N. 4410 ........... 24 
+H.R. Conf. Rep. No. 3355, 103d Cong., 2d Sess., 
+
+reprinted in 1994 U.S.C.C.A.N. 1839 .......... 21 
+H.R. Rep. No. 1577, 90th Cong., 2d Sess., 
+
+reprinted in 1968 U.S.C.C.A.N. 4410 ........... 22 
+H.R. Rep. No. 495, 99th Cong., 2d Sess., 
+
+reprinted in 1986 U.S.C.C.A.N. 1327 ........ passim 
+The New Shorter Oxford English Dictionary (1993) ...... 16 
+By Gy ee ig I ED owe ec ccc cc cece. 31 
+S. Rep. No. 1501, 90th Cong., 2d Sess. (1968) ........ 22 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+
+S. Rep. No. 225, 98th Cong., 2d Sess. (1983), 
+
+reprinted in 1984 U.S.C.C.A.N. 3182 ........ passim 
+S. Rep. No. 583, 98th Cong., 2d Sess. (1984) ......... 31 
+Webster's Il New Riverside University Dictionary 
+
+DE cha ek eee oe eee Ueda LAS 64a 16 
+Webster’s New International Dictionary of 
+
+English Language (2d ed. 1949) ............... 15 
+
+
+BRIEF FOR THE PETITIONERS 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the en banc court of appeals (J.A. 78-119) is 
+
+
+reported at 36 F.3d 106. The order granting rehearing en banc in 
+Bailey (J.A. 33) is reported at 4 F.3d 1004. The panel opinion in 
+Bailey (J.A. 17-32) is reported at 995 F.2d 1113. The panel 
+opinion (J.A. 47-76) and the order granting rehearing en banc 
+(J.A. 77) in Robinson are reported together at 997 F.2d 884. The 
+opinion of the district court denying a motion for judgment of 
+acquittal in Robinson (J.A. 38-46) is reported at 779 F. Supp. 606. 
+JURISDICTION 
+
+
+The court of appeals entered its judgment on October 4, 1994. 
+J.A. 78. The petition for a writ of certiorari in Bailey was filed 
+on December 28, 1994. The petition for a writ of certiorari in 
+Robinson was filed on December 29, 1994. On April 17, 1995, 
+this Court granted both petitions along with petitioners’ motions to 
+proceed in forma pauperis, and consolidated the cases. This Court 
+has jurisdiction under 28 U.S.C. § 1254(1). 
+
+
+STATUTORY PROVISION INVOLVED 
+
+
+Pertinent provisions of 18 U.S.C. § 924 are reproduced in an 
+
+appendix to this brief. _ 
+STATEMENT 
+
+In separate trials growing out of unrelated incidents, petition- 
+ers Roland J. Bailey and Candisha S. Robinson were each 
+convicted of, among other things, using or carrying a firearm 
+“during and in relation to” the crime of possession of cocaine with 
+intent to distribute it, in violation of 18 U.S.C. § 924(c)(1). 
+Separate panels of the D.C. Circuit affirmed Bailey’s conviction 
+and reversed Robinson’s. The court granted rehearing en banc in 
+both cases and, in a closely divided decision, affirmed both 
+convictions 
+
+
+1. Bailey's Arrest, Trial, and Panel Appeal. a. We describe 
+the evidence in the light most favorable to the government. On the 
+morning of May 2, 1988, two police officers patrolling in Wash- 
+ington, D.C., stopped petitioner Bailey when they noticed that the 
+car he was driving had no front license plate and no inspection 
+sticker. J.A. 18. Officer Washington asked Bailey for his driver’s 
+license. When Bailey handed him a District of Columbia identifi- 
+
+
+2 
+
+
+cation card instead, Washington ordered Bailey to get out of the 
+car. J.A. 10. As Bailey stepped out of the car, Officer Wash- 
+ington saw him push something between the front seat and the 
+console separating the two front seats. J.A. 3, 18, 80. Wash- 
+ington then searched the passenger compartment of the car and 
+discovered one round of .380-caliber ammunition on the console 
+and a satchel containing 30 grams of cocaine in 27 plastic bags. 
+J.A. 18, 80; 2/27/90 Tr. 74-75, 93, 106, 125. 
+
+After arresting Bailey, the officers unlocked the car trunk 
+(which was inaccessible from the passenger compartment) and 
+found a vest containing $2500 in cash. 2/27/90 Tr. 97-98, 117.' 
+The police also found, beneath “a whole lot of items” including 
+“clothing and bags and other things,” a bag containing a 9-mm. 
+handgun that was “loaded with one clip” of ammunition containing 
+six .380-caliber bullets. J.A. 6, 9; 2/27/90 Tr. 106. The police 
+could not see the gun when they opened the trunk; indeed, the 
+trunk was so full that it took roughly one minute to find the bag 
+containing the gun. J.A. 9. Both officers testified that they did 
+not see Bailey do anything other than drive the car. J.A. 5, 8. 
+
+
+The government indicted Bailey for (1) possession of cocaine 
+with intent to distribute it, in violation of 21 U.S.C. § 841(a); 
+(2) using or carrying a firearm during and in relation to that drug- 
+trafficking crime, in violation of 18 U.S.C. § 924(c)(1); and 
+(3) illegal possession of a firearm, in violation of 18 U.S.C. 
+§ 922(g). J.A. 17; 2/27/90 Tr. 5; C.A. App. Tab C. At trial, the 
+government presented evidence that Bailey had recently purchased 
+the car he was driving. 2/28/90 Tr. 7-11. The evidence also 
+showed that the pistol recovered from the trunk of the car, though 
+loaded with a clip of ammunition, was not ready to fire because a 
+bullet had not yet been chambered. 2/27/90 Tr. 106, 132-136. In 
+addition, the government’s weapons expert testified that, because 
+the clip in the gun contained .380 ammunition instead of the larger 
+9-mm. ammunition it was designed to hold, the weapon could be 
+fired only once; “you cannot fire another round unless you manu- 
+
+
+' The court below twice misstated the record in declaring that the trunk 
+contained $3216. J.A. 18, 80. In fact, the record establishes that the 
+police found a total of $3216, only about $2500 of which was in the 
+trunk; the remaining $700 was on Bailey’s person. 2/27/90 Tr. 97. 
+
+
+3 
+
+
+ally remove empty rounds” and then “feed another round into the 
+chamber.” Jd. at 139-140. 
+
+
+Another government expert, Detective DiDemenico, testified 
+that the quantity of cocaine in Bailey’s car indicated that it was 
+intended for street sale, and that drug dealers frequently have a 
+firearm “on their person or within reach” (J.A. 11) to protect 
+themselves and “their assets, drugs and money” (J.A. 10, 81). 
+DiDomenico testified further that the purpose of having a firearm 
+within reach was for protection against “stickup boys” who try to 
+steal the drugs or money. J.A. 11-13. He agreed that, “[i]f you 
+are trying to protect yourself” in this way, the weapon’s “power 
+and speed” are “what’s most important.” J.A. 13. DiDomenico 
+also emphasized that a drug seller would need immediate access to 
+his firearm because he would get no notice before a “stickup boy” 
+confronted him: 
+
+Q. (by defense counsel): In all your experience talking with 
+
+the stickup boys, did any of them ever tell you that they ever 
+
+gave the person they were sticking up an opportunity to go 
+get their gun first? 
+
+A. (DiDomenico): That’s ridiculous, no. 
+
+
+J.A. 13. The jury found Bailey guilty on all counts, and he was 
+sentenced to concurrent 51-month terms on the counts not at issue 
+here, a consecutive 60-month term on the Section 924(c)(1) con- 
+viction, and three years of supervised release. J.A. 19; 6/8/90 
+Tr. 35. The district court denied mid-trial and post-trial motions 
+for a judgment of acquittal. 2/28/90 Tr. 13-18; 3/1/90 Tr. 7. 
+
+
+b. A panel of the court of appeals affirmed. J.A. 17-32. The 
+court rejected Bailey’s claim that there was insufficient evidence 
+from which the jury could find beyond a reasonable doubt that he 
+“used” the gun locked in the trunk of the car “during and in rela- 
+tion to” the underlying drug-trafficking offense of possession of 
+cocaine with intent to distribute it. The majority stated that the 
+government “need not establish that the defendant brandished or 
+discharged the weapon”; it is enough to demonstrate “that the fire- 
+arm was available to provide protection to the defendant.” J.A. 
+21, 22 (internal quotations omitted). Acknowledging that “the gun 
+here was not within Bailey’s reach while he was driving,” the 
+court nonetheless concluded that the jury “could reasonably infer 
+
+
+4 
+
+
+* * * that the weapon located in the trunk was used to facilitate the 
+defendant’s [past] sales of narcotics and the possession of all of the 
+drugs that necessarily preceded those transactions.” J.A. 24-25. 
+
+The majority rejected Bailey’s argument that his conviction 
+should be reversed on the strength of United States v. Derr, 990 
+F.2d 1330 (D.C. Cir. 1993), and United States v. Bruce, 939 F.2d 
+1053 (D.C. Cir. 1991). J.A. 26-27. In both those cases, guns 
+were found in close proximity to drugs, but the court held that the 
+evidence, though possibly sufficient to show that the defendant in- 
+tended to use the gun in some future act of distribution, was 
+insufficient to demonstrate use during and in relation to the predi- 
+cate offense of possession with intent to distribute. The majority 
+distinguished these cases on the ground that they involved future 
+distributions, whereas in Bailey’s case the jury could reasonably 
+have concluded (despite the absence of either a charge or evidence 
+of actual past drug transactions) that he used the gun to protect “an 
+earlier distribution” and the “earlier possession” that necessarily 
+accompanied it. J.A. 26-27. 
+
+Judge D.H. Ginsburg dissented from the majority’s resolution 
+of the “use or carry” issue, opining that its holding could not 
+“honestly be reconciled” with Derr and Bruce. J.A. 29. “I for 
+one cannot imagine,” he stated, “how a gun in a locked car trunk 
+could have been used to protect the possession of the 27 bags in 
+the front seat — if one accepts the premise that the guns in Derr 
+and Bruce could not protect the drugs with which they were closet- 
+ed.” J.A. 31. Judge Ginsburg also made it clear, however, that 
+he believed the rule of Derr and Bruce to be unsound. J.A. 29, 
+32. 
+
+
+2. Robinson's Arrest, Trial, and Panel Appeal. a. On 
+July 15, 1991, undercover officer Larry Hale approached Veloria 
+Robinson, petitioner’s sister, in the northeast quadrant of Washing- 
+ton and indicated that he wished to buy crack cocaine. J.A. 48; 
+10/30/91 Tr. 4-5. Veloria Robinson took him to an apartment and 
+knocked on the door. J.A. 48, 81. Hale testified that petitioner 
+answered the door, and Veloria Robinson told her that Hale want- 
+ed something. J.A. 48, 81. Petitioner asked him what he wanted, 
+and Hale replied, a “twenty.” J.A. 48, 81; 10/30/91 Tr. 7. Hale 
+testified that he then entered the apartment, where he observed 
+petitioner, in the apartment’s only bedroom, hand her sister a rock 
+
+
+5 
+
+
+of crack cocaine. J.A. 48, 81. Veloria Robinson emerged from 
+the bedroom and gave the cocaine rock to Hale in exchange for 
+$20 in marked money. J.A. 48, 81. 
+
+
+On the next evening, July 16, Hale was climbing the stairs 
+leading to the apartment when he was approached by a man named 
+Kwarme Parker, who said that Veloria Robinson was inside the 
+apartment, but that he also lived in the apartment and could serve 
+him. J.A. 48, 81. While Hale waited in the hallway outside the 
+front door, Parker entered the apartment, reemerged, and gave 
+Hale cocaine in exchange for $20 in marked money. J.A. 48-49. 
+
+
+Approximately thirty minutes later, a warrant-authorized 
+search of the apartment led to the discovery in the bedroom closet 
+of a locked footlocker, which contained an operable but unloaded 
+.22-caliber Derringer in a holster, two rocks of crack cocaine 
+weighing a total of 10.88 grams, $20 in marked money from the 
+sale by Parker, $42.80 in other cash, and papers bearing petition- 
+er’s name. J.A. 49, 55, 81, 106; 10/30/91 Tr. 28, 36-39, 43-44, 
+52-57, 59, 69. The police also recovered from the apartment a 
+cassette tape package that contained empty ziplock bags. J.A. 49, 
+63, 81. There was no ammunition in the apartment. J.A. 55. 
+
+
+Petitioner Robinson was indicted on six counts, including pos- 
+session of five or more grams of cocaine base on July 16, 1991, 
+with intent to distribute it, in violation of 21 U.S.C. § 841(a)(1) 
+and 841(b)(1)(B)(iii), and 18 U.S.C. § 2 (Count III); possession of 
+five or more grams of cocaine base within 1000 feet of a public 
+school on July 16, 1991, with intent to distribute it, in violation of 
+21 U.S.C. §§ 841(a)(1), 841(6)(1(C), and 860(a), and 18 U.S.C. 
+§ 2 (Count IV); and using or carrying a firearm on July 16, 1991, 
+in the course of the offense charged in Counts II] and IV and in vi- 
+olation of 18 U.S.C. § 924(c\(1), 21 U.S.C. §§ 841(a)\(1), 
+841(b)(1)(C), and 860(a), and 18 U.S.C. § 2 (Count V). J.A. 38 
+n.1.* Consistent with the indictment, the jury instruction relating 
+
+
+? The remaining counts were crack cocaine on July 15, 
+1991, in violation of 21 U.S.C. § 841(a)(1) and 841(6)(1)(C) and 18 
+U.S.C. § 2 (Count I); distributing crack cocaine within 1000 feet of a 
+public school on July 15, 1991, in violation of 21 U.S.C. §§ 841(a)(1), 
+841(0)(1(C), and 860(a), and 18 U.S.C. § 2 (Count II); and knowingly 
+
+
+6 
+
+
+to the Section 924(c)(1) count required a finding that a firearm was 
+used or carried during the July 16 predicate offenses (Counts [II 
+and [V). J.A. 35-36. 
+
+
+A government expert testified that the .22-caliber Derringer 
+was a “second gun” — the type of weapon a drug dealer would 
+“keep hidden on [her] person and use it until (she) get{s) [her] real 
+gun.” 10/30/91 Tr. 79; J.A. 49. He also testified that drug 
+dealers generally use guns to protect themselves from robbers, 
+rival dealers, employees, and the police. J.A. 49; 10/30/91 
+Tr. 77-78. 
+
+
+rent contributions from her sister, Kwarme Parker, and Sharine 
+McKinney. J.A. 50; 10/30/91 Tr. 135-136; 10/31/91 Tr. 147- 
+149, 153. She testified that the footlocker belonged to her but that 
+she had no knowledge of the gun or drugs found in it. J.A. 50; 
+10/30/91 Tr. 133, 136; 10/31/91 Tr. 152-153. She explained that 
+she had taken in Parker, who was dating her sister Veloria, even 
+though she knew he was selling drugs (but not out of her apart- 
+ment), because he had no place to go and because she needed help 
+with the rent. Petitioner's testimony, corroborated in part by other 
+witnesses (J.A. 50; 10/30/91 Tr. 104, 113-120), was that she took 
+active steps to prevent Parker from bringing drugs into her apart- 
+ment. J.A. 50; 10/30/91 Tr. 131-133, 135; 10/31/91 Tr. 151-152. 
+Petitioner also testified that she had allowed Parker to place a 
+padlock on the footlocker because he complained that someone was 
+stealing money from him, that Parker had the keys to the footlock- 
+er, and that she checked the footlocker frequently to be sure it 
+contained no drugs. 10/30/91 Tr. 133-136; 10/31/91 Tr. 149-152; 
+see also 10/30/91 Tr. 110 (testimony of Sharine McKinney) 
+(Parker “was the only one with the key, period”). Petitioner also 
+offered an alibi for July 15 and read from the transcript of her 
+sister’s plea hearing, where Veloria Robinson stated that it was her 
+
+
+girlfriend rather than petitioner who helped to sell the crack to 
+
+
+making available for use a building, room, or enclosure for the purpose 
+of using, storing, manufacturing, or distributing cocaine base on or about 
+July 16, 1991, in violation of 21 U.S.C. § 856(a) and 18 U.S.C. § 2. 
+J.A. 38 0.1. 
+
+
+5 
+
+
+Officer Hale on July iS. J.A. 50-51; 10/30/91 Tr. 129-131; 
+10/31/91 Tr. 144-145, 157-159. 
+
+
+Petitioner was convicted on all six counts. The district court 
+denied her mid- and post-trial motions for a judgment of acquittal. 
+2/28/90 Tr. 174; J.A. 38-46. She was sentenced to 157 months 
+of imprisonment, a four-year term of supervised release, and a 
+special assessment of $300. J.A. 82. 
+
+b. A panel of the D.C. Circuit reversed Robinson’s Section 
+924(c) conviction. J.A. 47-76. The court first observed that Sec- 
+tion 924(c), by its terms, “conspicuously fails to criminalize mere 
+possession of a firearm during and in relation to a drug trafficking 
+offense.” J.A. 53. Under the statute’s language, moreover, “even 
+if an individual intends to use a firearm in connection with a drug 
+trafficking offense, the conduct of that individual is not reached by 
+the statute unless the individual actually uses the firearm for that 
+purpose.” J.A. 53. (emphasis added). Applying the multi-factor 
+test then used by the D.C. Circuit to determine “use,” the court 
+reversed Robinson's conviction because “there is absolutely no evi- 
+dence that Ms. Robinson has ever brandished or previously used 
+the firearm in the locked trunk”; the gun “certainly was not easily 
+accessible since it was in the bedroom closet in a locked footiock- 
+er”; the gun was a “small derringer,” was the only gun on the 
+premises, and was “unloaded * * * without ammunition anywhere 
+on the premises”; and “[e]ven the government’s drug expert, 
+Officer Stroud, confessed to the jury that the derringer recovered 
+from the locked footlocker was not the type of gun a drug dealer 
+ordinarily would use to protect a stash of drugs.” J.A. 54-55. 
+
+
+The court also rejected t*» government’s argument that the 
+gun was used by petitioner “to protect her stash of drugs in the 
+locked trunk,” explaining that it was difficult to see how the gun 
+could be “of any help to Ms. Robinson in the event of an emergen- 
+cy”: “In order to brandish the gun, Ms. Robinson would have to 
+run to the closet, unlock the trunk, open the trunk and grab the 
+gun,” and even then “the gun would be of virtually no use to Ms. 
+Robinson since it was unloaded and there was no ammunition for 
+it anywhere in the apartment.” J.A. 54-55. And the court 
+rejected the government's alternative argument that the jury could 
+reasonably have inferred actual use of the firearm because 
+
+
+petitioner’s apartment was a “crack house.” J.A. 56-57. Judge 
+Henderson dissented. J.A. 61-76. 
+
+
+3. The En Banc Court's Opinion. On rehearing en banc, a 
+divided court upheld both convictions. J.A. 78-119. The bare 
+majority of five judges abandoned the “complex, open-ended test” 
+previously employed to determine whether a firearm was “used” 
+and replaced it “with a test that looks to two factors only”: the 
+proximity of the gun “to the drugs, drug paraphernalia, or drug 
+proceeds” involved in the underlying offense; and “the accessibili- 
+ty of the gun to the defendant from the place where the drugs, 
+drug paraphernalia, or drug proceeds are located.” J.A. 80, 101. 
+
+The majority acknowledged that, in both of petitioners’ cases, 
+the predicate offense for the § 924(c)(1) count was possession of 
+cocaine with intent to distribute it. J.A. 80. The court criticized 
+its own prior approach and concluded that other circuits “focus[ }, 
+in essence, upon whether the firearm was accessible and proximate 
+to the defendant during the commission of the drug offense.” J.A. 
+83-92. As to Section 924(c)(1)’s requirements that a firearm be 
+“used” and that such use occur “during” as well as “in relation to” 
+the predicate offense, the court first acknowledged that the statute 
+does not criminalize “the mere possession of a firearm by someone 
+who commits a drug offense.” J.A. 82, 93-100. “[U]se,” the 
+court noted, “could be defined either narrowly, so as to encompass 
+only the paradigmatic uses of a gun, i.c., firing, brandishing, or 
+displaying the gun during the commission of the predicate offense, 
+or more broadly, so as to include the other ways in which a gun 
+can be used to facilitate drug trafficking.” J.A. 93. 
+
+
+The court acknowledged that the former approach has “the 
+virtue of simplicity” and would make it “relatively easy to 
+determine” liability. Without even acknowledging the rule of 
+lenity, however, the court rejected the “paradigmatic” approach 
+because “nothing in the statute indicates that the Congress 
+intended” it and because “use” is an “expansive[ }” term that does 
+not require active employment of a gun. J.A. 93 (citing Smith v. 
+United States, 113 S. Ct. 2050, 2054, 2058 (1993)). Accordingly, 
+the court concluded that one “uses” a gun within the meaning of 
+Section 924(c)(1) by either placing or keeping the gun in a location 
+“from which one (or one’s agent) can gain access to it if and when 
+needed to facilitate a drug crime.” 3.A. 95 (emphasis added). The 
+
+
+9 
+
+
+court held further that, when the predicate drug offense is a 
+“continuing offense” such as possession with intent to distribute, 
+the government need not show that the gun was in such a place at 
+the time the defendant is arrested; it is enough to show that the 
+defendant “put or kept the gun” in such a place “at some point” 
+in time during the defendant’s possession of drugs. J.A. 95. 
+The majority also held that a firearm is used “during and in 
+relation to” a predicate drug offense if it is “positioned so as to be 
+
+
+available for use during ongoing drug activity.” J.A. 96. The 
+court stressed that the gun did not have to “further[{ ]” the drug 
+
+
+offense, provided that its location suggests that it had the potential 
+to facilitate the drug offense. J.A. 95.° The majority opinion 
+made no attempt to define the “carry” component of Section 
+924(c)(1) or to delimit the scope of “use” vis-a-vis “carry.” 
+
+
+Applying those standards, the court concluded that the govern- 
+ment had submitted sufficient evidence to convict both Bailey and 
+Robinson. J.A. 100-101. The court held that the gun in the 
+locked trunk of Bailey’s car was “used” because it was “found in 
+the same place as the cash (namely, the trunk) and in the same car 
+as the drugs” and was “easily accessible to Bailey at any time that 
+he was handling either the drugs or the proceeds of the sale.” 
+J.A. 100. As for Robinson, the court similarly concluded that the 
+Derringer found in the locked trunk in her apartment was “proxi- 
+mate to the drugs, and it was accessible to anyone, such as 
+Robinson, who had access to the drugs.” J.A. 101. 
+
+
+Judge Wald dissented in part. J.A. 102-106. She stated that 
+the majority’s twofold standard for determining whether a firearm 
+
+
+> In reaching this conclusion, the court cited several cases broadly 
+interpreting the phrase “relates to” in 29 U.S.C. § 1144(a), the 
+preemption clause of the Employment Retirement Income Security Act 
+(ERISA), and concluded that Congress's choice of the phrase “in relation 
+to” was “clearly deliberate and an indication that it intended § 924(c)(1) 
+to be a broad prohibition, reaching more than conduct that actively 
+advances the underlying predicate drug offense.” J.A. 97. In addition, 
+the court relied on Congress's failure in 1985 to enact a bill that would 
+have replaced — in the “carrying” but not the “use” prong of Section 
+924(c\(1) — the “in relation to” requirement with a more restrictive “in 
+furtherance of” requirement. J.A. 97-98. 
+
+
+10 
+
+
+was “used” “artificially limit[s]” the factors necessary to distin- 
+guish “use” from mere possession. J.A. 103; see also J.A. 102 
+(“Congress * * * created no statutory presumption that ‘use’ auto- 
+matically would follow from the presence of any particular factors, 
+and I can find no authority for courts to do so.”). Judge Wald 
+identified several additional factors, such as the type of gun 
+involved, whether the gun was loaded, and whether expert 
+testimony supported an inference of “use,” that in her view are 
+crucial to distinguishing “use” from mere possession. J.A. 102. 
+She also criticized the majority’s test as unclear and the two factors 
+as collapsing into one. J.A. 103 (“It seems that whenever the guns 
+are located proximately to the drugs, they must also be potentially 
+accessible to the defendant from the place the drugs are stored.”). 
+Despite her staunch disagreement with the legal standard adopted 
+by the majority, Judge Wald — alone among the nine participating 
+judges of the court of appeals — concluded that, through the 
+application of a traditional balancing of the appropriate factors, 
+Bailey’s conviction should be affirmed and Robinson’s reversed. 
+J.A. 106. 
+
+Judge Williams, joined by Judges Silberman and Buckley, dis- 
+sented outright. J.A. 107-119. Judge Williains faulted the majori- 
+ty’s reliance on inferences of potential use, arguing that, under the 
+plain meaning of the statutory term, “use” “normally implies activ- 
+ity.” J.A. 108 (citing United States vy. McFadden, 13 F.3d 463, 
+467 (ist Cir. 1994) (Breyer, C.J., dissenting)). The three-judge 
+dissent rejected the majority’s reliance on Smith v. United States 
+to extend “use” to encompass potential use (J.A. 115-116): 
+
+Nothing in Smith precludes limiting “use” to active employ- 
+ment. [Smith's] statement that “§ 924(c)(1)’s language 
+sweeps broadly”, * * * 113 S.Ct. at 2054, means only that 
+the proscribed use of firearms is not limited to the obvious or 
+typical ways in which they may assist in the commission of a 
+crime. Rather, a gun may be “used” regardless of whether 
+it acts as an instrument to shoot, to bludgeon, or for ex- 
+change. That is, whether a firearm is “used” does not depend 
+on whether it is employed in the customary way or a more 
+creative way. But it does depend on whether the gun is 
+employed at all, and nothing [in Smith] expands “use” beyond 
+active employment. 
+
+
+11 
+
+
+Judge Williams also noted that Section 924 itself distinguishes the 
+actual use of a firearm, on the one hand, from intent or potential 
+for use, on the other. J.A. 112 (citing 18 U.S.C. § 924(d)). 
+Quoting this Court’s observation in Smith, 113 S. Ct. at 2057, that 
+“using a firearm” should not have a “different meaning in 
+§ 924(c)(1) than it does in § 924(d),” Judge Williams concluded 
+that the majority opinion was inconsistent with Congress’s choice 
+not to reach mere “intent to use” in subsection (c). J.A. 112. 
+Judge Williams also examined the origins of Section 924(c)( 1) 
+and the legislative materials accompanying Congress’s revisions of 
+the statute in 1984 and 1986, which he concluded confirm that 
+“use” was intended to reach only active employment of a firearm. 
+J.A. 109-112. And Judge Williams criticized the majority's defini- 
+tion of “use” as being so broad that it “leave[s] no apparent role” 
+for the alternate element of “carrying” a firearm during and in 
+relation to a predicate offense. J.A. 112. Judge Silberman joined 
+Judge Williams’s dissent and also dissented separately. J.A. 119. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+12 
+
+
+13 F.3d 463, 467 (ist Cir. 1994) (Breyer, C.J., dissenting), and 
+is rooted in the text, structure, and legislative history of the 
+statute. At a minimum, this reading is dictated by the rule of 
+lenity, because no other plausible interpretation is “unambiguously 
+correct.” United States v. Granderson, 114 S. Ct. 1259, 1267 
+(1994). 
+
+
+II. If the Court rejects this definition, it would then be 
+required to draw a line somewhere else along the continuum 
+between actual employment of the firearm to carry out the 
+predicate offense and mere possession, which even the majority 
+below acknowledged the statute does not reach. The Court should 
+reject the D.C. Circuit’s “proximity and accessibility” standard 
+because it in fact criminalizes instances of mere possession; 
+contravenes other limits on “use” liability apparent from the text, 
+structure, and legislative history of the statute; and unduly limits 
+the ability of juries and courts to consider all relevant factors in 
+deciding whether a firearm was “used” as opposed to merely 
+possessed. The Court should take this occasion to articulate 
+several clear limits on “use” liability and should endorse an 
+approach to determining “use” within those limits that at least 
+takes into account all pertinent factors. 
+
+ARGUMENT 
+
+
+Two years ago, in Smith v. United States, 113 S. Ct. 2050, 
+2058 (1993), the Court held that a defendant who attempted to ob- 
+tain a large quantity of cocaine from a pawnshop owner by dis- 
+playing and offering to trade a machine gun for the drugs was 
+properly convicted of “using” that firearm “during and in relation 
+to” the predicate offenses of attempt (and conspiracy) to possess 
+cocaine with intent to distribute it. The Court rejected the nar- 
+rower interpretation that the statute requires “use as a weapon” and 
+determined that a firearm is “used” if a defendant “employ[s]” or 
+“derive[s] service from” the firearm. Although the Court noted 
+that the definition of “use” is “expansive }” (id. at 2058), it 
+nevertheless cautioned that the term is “not without limits.” Jd. at 
+2054 (citing United States v. Long, 905 F.2d 1572, 1576-1577 
+(D.C. Cir.) (Thomas, J.), cert. denied, 498 U.S. 948 (1990)). 
+The present cases afford the Court an opportunity to give meaning 
+to the limits that circumscribe Section 924(c)(1)’s scope and halt 
+the lower courts’ continuing efforts to rewrite the statute by 
+
+
+13 
+
+
+allowing juries to equate “use” with mere “possession” of a fire- 
+arm — and constructive rather than actual possession, at that. 
+I. A DEFENDANT “USES” A FIREARM “DURING AND 
+IN RELATION TO” A DRUG-TRAFFICKING OFFENSE 
+BY ACTIVELY EMPLOYING THE WEAPON TO 
+CARRY OUT THE PREDICATE OFFENSE 
+The ordinary meaning of Section 924(c)(1)’s operative lan- 
+guage and the language and structure of Section 924 as a whole 
+show that Congress intended to impose mandatory sentences only 
+on those who actively employ a firearm to carry out the predicate 
+offense. Such active employment includes firing or discharging, 
+aiming, pointing, bludgeoning, trading, threatening with, brandish- 
+ing, or displaying. It can also include referring to the weapon. 
+To the extent there is any ambiguity about the meaning of the 
+Statute, it is completely dispelled by the legislative history of 
+Section 924(c)(1). Because there is no evidence that Bailey or 
+Robinson ever “used” a firearm within the meaning of Section 
+924(c\(1), their convictions should be reversed. Even if other 
+constructions of the term “use” are possible, the rule of lenity calls 
+A. The Language And Structure Of Section 924(c)(1) Clearly 
+
+
+Express Congress’s Intent To Criminalize Only Active 
+Employment Of A Firearm To Commit The Predicate 
+Offense 
+
+
+As this Court often has explained, “[tJhe task of resolving the 
+dispute over the meaning of [a statute] begins where all such 
+inquiries must begin: with the language of the statute itself.” 
+United States v. Ron Pair Enters., Inc., 489 U.S. 235, 241 (1989). 
+Section 924(c)(1) provides in pertinent part: 
+
+Whoever, during and in relation to any crime of violence or 
+
+drug trafficking crime (including a crime of violence or drug 
+
+trafficking crime which provides for an enhanced punishment 
+if committed by the use of a deadly or dangerous weapon or 
+device) for which he may be prosecuted in a court of the 
+
+United States, uses or carries a firearm, shall, in addition to 
+
+the punishment provided for such crime of violence or drug 
+
+trafficking crime, be sentenced to imprisonment for five years 
+
+
+14 
+
+
+18 U.S.C. § 924(c)(1) (emphasis added). The five-year term of 
+imprisonment under Section 924(c)(1) for a first use of a firearm 
+may not be suspended and must run consecutively with “any other 
+term of imprisonment including that imposed” for the predicate 
+offense. Ibid. The government must make two distinct showings 
+to obtain a conviction under Section 924(c)(1): that the defendant 
+“used” or “carried” a firearm; and that such use or carrying was 
+both “during and in relation to” a “crime of violence or drug 
+trafficking crime.” Smith, 113 S. Ct. at 2053 (emphasis added). 
+
+In Smith, the Court considered the meaning of these require- 
+ments. The defendant met with an undercover agent and sought 
+to exchange a machine gun for cocaine. In concluding that the 
+defendant “used” the machine gun, the majority relied on the or- 
+dinary meaning of the word “use,” the surrounding language in 
+Section 924(c)(1), and the language and structure of Section 924 
+as a whole. 113 S. Ct. at 2053-2058. With regard to the inde- 
+pendent requirement that the use be contemporaneous with (“dur- 
+ing”) and “in relation to” the predicate offense, the Court observed 
+that this phrase is “expansive” and, “at a minimum, clarifies that 
+the firearm must have some purpose or effect with respect to the 
+drug trafficking crime.” Jd. at 2058-2059. The Court concluded, 
+however, that it “need not determine the precise contours” of this 
+requirement because “petitioner’s use of his MAC-10 meets any 
+reasonable construction of it”: the gun “was an integral part of the 
+transaction” ; “[w]ithout it, the deal would not have been possible.” 
+Id. at 2059 (internal quotations omitted). 
+
+
+Properly interpreted, the operative language of Section 924(c) 
+at issue in this case — whether petitioners “used” the firearms in 
+question “during and in relation to” the predicate offenses — de- 
+notes the active employment of the weapon to accomplish the un- 
+lawful acts that constitute the predicate offense. As this Court 
+explained in Smith, the word “use” is nowhere defined in Section 
+924 and thus must be construed in accord with its ordinary and 
+natural meaning. 113 S.Ct. at 2054 (citing Perrin v. United 
+States, 444 U.S. 37, 42 (1979)). In ordinary usage, the word 
+“use” connotes action or activity. See United States v. Long, 905 
+F.2d 1572, 1576 (D.C. Cir.) (Thomas, J.) (acknowledging word’s 
+“conventional, active connotation”), cert. denied, 498 U.S. 948 
+(1990); United States v. McFadden, 13 F.3d 463, 467 (1st Cir. 
+
+
+15 
+
+
+1994) (Breyer, C.J., dissenting) (“the ordinary meanings of the 
+words ‘use’ and ‘carry’ * * * connote activity beyond simple pos- 
+session”); id. at 468 (“[cJourts might have interpreted ‘use’ by in- 
+sisting upon activity with the gun, such as firing it or brandishing 
+it, or, at least, displaying it [ Jor even trading it for drugs”). In 
+consulting various dictionaries to discern that meaning, the Court 
+in Smith noted that “use” is variously defined as “‘to convert to 
+one’s service’ or ‘to employ’” (113 S. Ct. at 2054, quoting Web- 
+ster’s New International Dictionary of English Language 2806 (2d 
+ed. 1949)), or “‘[t]o make use of; to convert to one’s service; to 
+employ; to avail oneself of; to utilize; [or] to carry out a purpose 
+or action by means of’” (ibid., quoting Black’s Law Dictionary 
+1541 (6th ed. 1990)). All of these definitions suggest action or ac- 
+
+Of course, the word “use” cannot be “viewed in isolation” 
+but rather must be interpreted “in light of the terms that surround 
+it.” Smith, 113 S. Ct. at 2054-2055. The surrounding language 
+includes a second appearance in the very same sentence containing 
+the operative language: after describing the eligible predicate 
+offenses as “any crime of violence or drug trafficking crime,” the 
+statute clarifies that this “includ{es] a crime of violence or drug 
+trafficking crime which provides for an enhanced punishment if 
+committed by the use of a deadly or dangerous weapon or device.” 
+18 U.S.C. § 924(c)(1) (emphasis added). In this second appear- 
+ance, the word “use” conveys the unmistakable suggestion of 
+active employment to carry out the underlying offense. See also 
+pp. 19-21, infra; J.A. 109-112 (Williams, J., dissenting).‘ 
+
+The pertinent context also necessarily includes the word’s 
+exclusive direct object (“a firearm”), since firearms are capable of 
+being used in only so many ways; its companion term (“carries”), 
+which suggests the kind of conduct Congress intended to crimina- 
+
+
+* The en banc majority relied heavily on Astor v. Merritt, 111 U.S. 202 
+(1884), a century-old case involving “use” of wearing apparel under the 
+customs laws that was cited in passing in Smith (see 113 S. Ct. at 2054) 
+for the proposition that a “more inclusive understanding of ‘use’ has long 
+been recognized in the jurisprudence of the Supreme Court.” J.A. 94. 
+That case, however, has little or no relevance to the issue presented here. 
+See J.A. 108-109 (Williams, J., dissenting). 
+
+
+16 
+
+
+lize and must have some meaning independent of “use”; and the 
+requirement that any “use” or “carrying” of a firearm bear a 
+certain temporal and functional relationship (“during and in rela- 
+tion”) to a specific predicate offense. Of particular significance is 
+the term “carry,” which specifies an alternative basis for liability. 
+The plain meaning of the word “carry” is “[t]o have or keep on 
+one’s person (carry a gun).” Webster's II New Riverside Universi- 
+ty Dictionary 233 (1988) (emphasis altered).° 
+
+Any definition of “use” that renders superfluous the alterna- 
+tive element of “carrying” a firearm is inconsistent with the tenet 
+that each word in a statute must be given effect. United States 
+Department of Treasury v. Fabe, 113 S. Ct. 2202, 2210 n.6 
+(1993); see also Ratzlaf v. United States, 114 S. Ct. 655, 659 
+(1994) (concern over treating statutory terms as surplusage is 
+“heightened when the words describe an element of a criminal 
+offense”). Defining “use” as active employment of a firearm to 
+commit the predicate offense preserves a meaningful role for 
+“carrying” liability: one can “use” a firearm without carrying it 
+(as by displaying or referring to a firearm not borne on one’s 
+person, or by trading a firearm for drugs without handling it). 
+Although many instances of use will also involve carrying, the 
+same is true of the D.C. Circuit’s “proximity and accessibility” 
+test for use. See J.A. 119 (Williams, J., dissenting) (majority’s 
+
+
+5 Under a somewhat broader definition in Webster's, “carry” incorpo- 
+rates an element of movement together with an element of immediate 
+accessibility. Thus, “carry” can mean “[tjo bear [an object] from one 
+place to another” while “hold{ing] or be{ing] capable of holding” the 
+object. Webster's Il New Riverside University Dictionary 233 (1988). 
+See also The New Shorter Oxford English Dictionary 343 (1993) (defining 
+“carry” to include an element of movement as well as “hav[ing) [the 
+. Object] with or beside one as one moves”). There is no basis on which 
+a jury could properly have concluded that either Bailey or Robinson 
+“carried” a firearm during and in relation to the predicate offense of 
+possession of a controlled substance with intent to distribute it. Not a 
+single member of the en banc court suggested otherwise, and Judge 
+Williams's dissent explained in detail why Bailey’s action in “transport- 
+ing” a gun in the trunk of his car did not qualify as “carrying.” J.A. 
+117-119. 
+
+
+17 
+
+
+“expansive view of ‘use’ virtually emasculates the role of the term 
+‘carry’ in the statute”). 
+
+Any definition of “use” should also bear some logical 
+relationship to “carry,” so that it is possible to see why Congress 
+would have singled out those two kinds of activity for stiff 
+mandatory penalties (rather than letting the conduct be punished 
+through a two-level enhancement under the Sentencing Guide- 
+lines). The D.C. Circuit majority failed to consider the relation- 
+ship between “use” and “carry,” and it is difficult to imagine why 
+Congress would have singled out for punishment situations where 
+a defendant, during the predicate offense, either (1) bears a firearm 
+on his person (or moves in tandem with the firearm in circum- 
+stances where the firearm is within easy reach); or, according to 
+the D.C. Circuit’s test, (2) constructively possesses a firearm that 
+is situated near the drugs, drug paraphernalia, or drug proceeds 
+involved in the underlying offense and is accessible from that 
+location (regardless of whether it is accessible to the defendant). 
+J.A. 80, 101. In contrast, the definition of “use” we propose pre- 
+serves a logical relationship between the two bases of liability. It 
+is perfectly sensible that Congress wanted to criminalize not only 
+instances where a firearm is actively employed in the commission 
+of a crime of violence or drug-trafficking offense, but also cases 
+where a firearm is “carrie[d]” “in relation to” the predicate of- 
+fense (i.¢., carried with the intent to use it should the need arise). 
+
+
+¢ Under Section 2D1.1(b)(1) of the Sentencing Guidelines, a two-level 
+enhancement is applied to anyone convicted of certain drug-trafficking 
+offenses (including possession with intent to distribute) if “a dangerous 
+weapon (including a firearm) was possessed” during the offense. The 
+Guidelines’ two-level enhancement for “possession” is a more calibrated 
+means of punishment than the blunt mandatory minimum punishment of 
+Section 924(c), because the enhancement is added to a number that 
+already reflects the seriousness of the crime in light of such factors as the 
+amount of drugs involved in the predicate offense and the criminal history 
+of the specific offender. See, e.g., U.S.S.G. §§ 2D1.1(aX(3), 2D1.1(c); 
+McFadden, 13 F.3d at 467-468 (Breyer, C.J., dissenting). The two-level 
+enhancement does not apply if the defendant is also convicted under 
+Section 924(c). See U.S.S.G. § 2K2.4 application note 2, § 3D1.1 
+
+
+application note |. 
+
+
+18 
+
+
+What is more, our proposed definition of “use” uniquely 
+preserves the proper relationship between “use” and “carrying” 
+liability. As Judge Williams correctly noted, Congress “saw ‘use’ 
+as a comparatively narrow term, with ‘carry’ picking up cases of 
+an alternative type of activity, where the defendant did not actively 
+‘use’ the weapon.” J.A. 112 (emphasis added). This reading 
+finds ample support in the legislative history of Section 924(c).’ 
+
+Indeed, the Solicitor General has previously acknowledged 
+this relationship between the “use” and “carry” elements in 
+Section 924(c). In McLaughlin v. United States, 476 U.S. 16 
+(1986), a case holding that an unloaded firearm could be a 
+“dangerous weapon” under 18 U.S.C. § 2113(d), the Solicitor 
+General’s brief took note of the 1984 amendments to Section 
+924(c) and stated: “It appears that Congress is of the view that 
+something more than the carrying of a gun is required to establish 
+its use.” U.S. Br. 19 n.18 (No. 85-5189) (emphasis added). The 
+Solicitor General further explained that Section 2113(d), which 
+imposes additional penalties for bank robbery committed “by the 
+use of a dangerous weapon or device,” would not cover an armed 
+robber who “approaches a bank teller and demands money, 
+without displaying a weapon,” because “the robber has not ‘used’ 
+the weapon to ‘assault’ anyone, as Section 2113(d) requires.” Id. 
+at 18-19. See also J.A. 113-115 (dissenting opinion) (discussing 
+McLaughlin brief). 
+
+
+7 See H.R. Rep. No. 495, 99th Cong., 2d Sess. 10, reprinted in 1986 
+U.S.C.C.A.N. 1327, 1336 (expressing concern that a “self-defense” ex- 
+ception might “decimate[ ]” the “‘carrying’ branch of the offense * * * 
+in that the felon could claim that he was only carrying the weapon for de- 
+fense against other felons, and cite the fact that he did not actually use the 
+weapon as proof of his claim”); S. Rep. No. 225, 98th Cong., 2d Sess. 
+314 n.10 (1983), reprinted in 1984 U.S.C.C.A.N. 3182, 3492 n.10 
+(“Evidence that the defendant had a gun in his pocket but did not display 
+it, or refer to it, could nevertheless support a conviction for ‘carrying’ a 
+firearm in relation to the crime if from the circumstances or otherwise it 
+could be found that the defendant intended to use the gun if a contingency 
+arose or to make his escape.” ) (emphasis added); 114 Cong. Rec. 27,144 
+(1968) (Sen. Murphy) (praising an amendment on ground that it “will 
+make every criminal and would-be criminal think twice before using or 
+even carrying a firearm”) (emphasis added). 
+
+
+19 
+
+
+Finally, a proper understanding of “use” must account for the 
+requirement that the firearm use occur “during and in relation to” 
+the predicate offense — here, possession of a controlled substance 
+with intent to distribute it. The word “during” suggests that “use” 
+signifies something whose time of occurrence can be identified and 
+proved.’ Active employment fits that description; the D.C. 
+Circuit’s proximity and accessibility tests do not. 
+
+B. The Structure Of Section 924 As A Whole Confirms This 
+
+
+Interpretation 
+
+“[T]he meaning of statutory language, plain or not, depends 
+on context.” King v. St. Vincent's Hospital, 502 U.S. 215, 221 
+(1991). Each term in a statute should be read in light of the 
+surrounding provisions of the law as a whole. John Hancock Mut. 
+Life Ins. Co. v. Harris Trust & Sav. Bank, 114 S. Ct. 517, 523 
+(1993). Although Congress’s intent not to penalize anything less 
+than the active employment of a firearm to accomplish the predi- 
+cate offense is discernible from the language and structure of Sec- 
+tion 924(c\(1), “[t}o the extent there is any uncertainty” on this 
+score, “the remainder of § 924 appropriately sets it to rest.” 
+Smith, 113 S. Ct. at 2056. 
+
+
+In Smith, this Court relied on Section 924(d\(1), which 
+authorizes the forfeiture of firearms and ammunition that are 
+“involved in or used in” certain offenses and “intended to be 
+used” in other offenses. 18 U.S.C. § 924(d)(1); see also id. 
+
+
+* To the extent that firearm “uses” are not limited to discrete events 
+(such as an instance of firing, vrandishing, pointing, or trading of the 
+weapon), additional problems may arise in the administration of the 
+statute. See United States v. Anderson, 39 F.3d 331, 360 (D.C. Cir. 
+1994) (Silberman, J., dissenting) (noting that under majority's holding — 
+that cach “use” of a firearm during and in relation to the predicate 
+offense is a separate violation of Section 924(c) — “if a defendant were 
+charged with possession of drugs with intent to distribute and kept a gun 
+in a chest, each time he indulged the impulse to fondle the gun so as to 
+emboiden his criminal determination, see United States v. Bailey, 36 F 3d 
+106, 114, 116 * * * , he would have committed a fresh section 924(c)(1) 
+violation * * * [and] it would not be unusual for the government to 
+obtain, as a practical matter, a life sentence whenever a gun accompanies 
+a drug crime”), rehearing en banc granted, 39 F.3d 331, 361 (1995). 
+
+
+20 
+
+
+§ 924(d)(2)(C) (same). Because some of the listed offenses include 
+use of a weapon as an item of barter, the Court reasoned, Con- 
+gress must have intended the word “use” to include trading a 
+weapon for drugs. 113 S. Ct. at 2056-2057. Here, by contrast, 
+there is not the slightest indication in Section 924(d) that Congress 
+envisioned as “use” passive relationships such as those involved in 
+these cases. On the contrary, Section 924(“: squarely supports our 
+definition of “use.” As explained above, “» forfeiture provision 
+makes express reference to firearms that are “used in” or “in- 
+volved in” any knowing commission of certain offenses, as well as 
+to firearms that are merely “intended to be used in” other offenses. 
+This demonstrates Congress's acute awareness of the distinction 
+between actual use and potential or intended use.’ If Congress 
+had meant Section 924(c) liability to attach whenever a firearm was 
+“involved in” a predicate offense or a defendant “intended to use” 
+a firearm during that offense, Congress could have said as much. 
+See J.A. 112 (Williams, J., dissenting) (“Congress * * * provided 
+for forfeiture before the weapon was used * * * apparently saving 
+§ 924(c)’s five years additional imprisonment for cases of actual 
+use”). 
+
+Moreover, all of the offenses cross-referenced in Section 
+924(d)(3) involve firearm “uses” falling squarely within the defini- 
+tion we propose.” This was not true of the definition of “use” 
+rejected in Smith (“use as a weapon”): the offenses listed in Sec- 
+tion 924(d\(3) include some “in which the firearm is not used as 
+a weapon but instead as an item of barter or commerce.” 113 
+
+
+* See also 18 U.S.C. § 924(e(2)(B) (defining “violent felony” as 
+including acts of juvenile delinquency involving “the use or carrying of 
+a firearm, knife, or destructive device” where the predicate offense “has 
+as an element the use, altempted use, or threatened use of physical force 
+against the person of another”) (emphasis added); id. § 924(h) (penalizing 
+transfers of certain firearms that “will be used” to commit drug-traffick- 
+ing offenses). 
+
+
+As Judge Williams's dissent observes, the parallelism between 
+“use[s}” under Section 924(c) and “inten[ded] * * * use[s)” under Section 
+924(d) “may not be complete” because in Section 924(c) the term shares 
+company with “carry” whereas in the portion of 924(d) that is relevant 
+for this analysis it does not. See J.A. 113. 
+
+
+21 
+
+
+S. Ct. at 2057. By contrast, in all the examples given in Smith — 
+exporting, importing, and transporting — the firearm not only is 
+actively employed to carry out the crime, but also is itself a 
+necessary part of the actus reus. See id. at 2057 n.*; see also 18 
+U.S.C. §§ 922(aX(1), 922(aX3), 922(aXS), 922(b\3), 922(d), 
+922(i), 922(j), 922(), 922(m), 924(b). As this Court has ruled 
+(Smith, 113 S. Ct. at 2057), “using a firearm” should not have a 
+“different meaning in § 924(c)(1) than it does in § 924(d).” 
+
+
+Also instructive is Section 924(a)(5)(B)(ii), which penalizes 
+the sale, delivery, or other transfer of a handgun or ammunition by 
+an adult to a juvenile if the adult knows or has reasonable cause to 
+know that the juvenile “intended to carry or otherwise possess or 
+discharge or otherwise use the handgun or ammunition in the 
+commission of a crime of violence.” 18 U.S.C. § 924(a\(5)(B)ii) 
+(emphasis added). This provision reflects Congress’s understand- 
+ing of “carry[ing]” as a specific kind of possession (bearing on 
+one’s person), and “discharg[fing]” as a specific kind of use. It 
+also suggests that Section 924(c), which lacks the phrase “or 
+otherwise possess,” reaches only one type of possession — carry- 
+ing. Moreover, under the rules of ejusdem generis and noscitur a 
+sociis, the phrase “discharge or otherwise use” takes on a special 
+significance: the general term “use” that follows the specific term 
+“discharge” must describe a category of deployments of the 
+weapon that are similar in kind to discharging. Cleveland v. 
+United States, 329 U.S. 14, 18 (1946). That category consists of 
+other active employments of a firearm to carry out the predicate 
+offense." 
+
+
+"See also H.R. Conf. Rep. No. 3355, 103d Cong., 2d Sess. 421, 
+reprinted in 1994 U.S.C.C.A.N. 1839, 1858-1859 (in report accompa- 
+nying Section 924(a)(S)(B)ii), stating that “ready availability of guns to 
+young people results in the acceptability of their random use”) (emphasis 
+added); 18 U.S.C. § 924(i) (imposing penalties on “[a] person who, in 
+the course of a violation of subsection (c), causes the death of a person 
+through the use of a firearm”) (emphasis added). 
+
+
+22 
+
+
+C. The Origins And Legislative History Of Section 924(c)(1) 
+Demonstrate Congress’s Intent To Penalize Only Active 
+Employment Of A Firearm To Commit The Predicate 
+Offense 
+
+
+Because the language and structure of Section 924 demonstrate 
+that “use” of a firearm “during and in relation to” a “crime of vio- 
+lence or drug trafficking crime” covers only the active employment 
+of the weapon to accomplish the underlying offense, there is no 
+need to consult the legislative history of the provision. If the 
+Court concludes, however, that Section 924(c)(1)’s meaning is am- 
+biguous, then we submit that such ambiguity is dispelled by a care- 
+ful examination of the statute’s origins and legislative history. 
+
+Originally enacted as part of the Gun Control Act of 1968, 
+Section 924(c) has been amended many times. Nevertheless, only 
+three of those amendments (in 1984, 1986, and 1988) bear on the 
+scope of liability for “us[ing] or carry[ing]” a firearm. As we 
+next explain, Congress intended in passing the 1968 Act to limit 
+“use” to active employment to carry out the predicate offense; and 
+there is nothing in the legislative record to suggest (and much that 
+refutes) any claim that the 1984, 1986, or 1988 amendments were 
+intended to broaden the scope of “use” liability. 
+
+1. The Gun Control Act of 1968. In the summer and fall of 
+1968, Congress, responding to a precipitous rise in political 
+assassinations, riots, and other violent crimes involving guns, 
+passed two laws in quick succession: the Omnibus Crime Control 
+and Safe Streets Act of 1968, Pub. L. No. 90-351, 82 Stat. 197; 
+and the Gun Control Act of 1968, Pub. L. No. 90-618, § 102, 82 
+Stat. 1213, 1224." Congress debated and passed the latter statute 
+in the immediate aftermath of the assassinations of Senator Robert 
+F. Kennedy and Dr. Martin Luther King, Jr. See Busic v. United 
+States, 446 U.S. 398, 404 n.9 (1980). 
+
+
+Section 924(c) was directly addressed to alleviating the 
+problem of violent crime. In pertinent part, it provided: 
+
+
+@ See H.R. Rep. No. 1577, 90th Cong., 24 Sess. 7, reprinted in 1968 
+U.S.C.C.A.N. 4410, 4412-4413; S. Rep. No. 1501, 90th Cong., 2d 
+Sess. 22-23 (1968). 
+
+
+23 
+
+
+Whoever —(1) uses a firearm to commit any felony which may 
+be prosecuted in a court of the United States, or (2) carries a 
+firearm unlawfully during the commission of any felony 
+which may be prosecuted in a court of the United States, shall 
+be sentenced to a term of imprisonment for not less that one 
+year nor more than 10 years. 
+
+
+Pub. L. No. 90-618, § 102, 82 Stat. 1213, 1224. For several 
+reasons, it is clear that Congress intended Section 924(c) to 
+criminalize only the active employment of a firearm to carry out 
+a predicate offense. 
+
+First, as Judge Williams correctly noted (J.A. 110), the stat- 
+utory language strongly “suggests that Congress had active em- 
+ployment of a weapon in mind.” Judge Williams explained: 
+
+The phrase “uses to commit” implies that the defendant 
+
+derived actual service from the weapon in completing an 
+
+unlawful act. This service might take the form of injuring 
+one’s opposition by firing it, intimidating opponents by 
+displaying or brandishing it, or offering it in exchange to 
+complete an unlawful commercial transaction. It does not, 
+however, imply merely potential service — i.e., keeping it 
+hidden from view, intending to use it only if a contingency 
+should arise. 
+J.A. 110 (dissent). 
+Second, the legislative history — “sparse” though it may 
+'* — confirms Congress’s intent to penalize only active employ- 
+
+
+Simpson v. United States, 435 U.S. 6, 15 (1978); see id. at 13-14 
+(describing origins of provision). The “use or carry” provision originat- 
+ed in the House as a floor amendment proposed by Representative Poff 
+only six weeks after Senator Kennedy's assassination. 114 Cong. Rec. 
+22,231 (1968); see also id. at 21,785-21,786. The Poff amendment, 
+whose operative language ultimately appeared in the statute, was passed 
+by the House (see id. at 22,248, 23,094) instead of an alternative amend- 
+ment proposed by Representative Casey. See id. at 22,229, 21,765- 
+21,766, 21,770. Representative Poff noted that his amendment “is a 
+substitute for the Casey amendment, but it is not in derogation of the 
+Casey amendment.” Jd. at 22,231. The House bill’s provision was later 
+adopted by a conference committee in lieu of an analogous provision of 
+
+
+24 
+
+
+ment of firearms to commit federal offenses. Several Members of 
+Congress expressed the view that the statute should penalize “use” 
+either instead of, or in addition to, “carry[ing]” of a firearm, and 
+their remarks made clear the view that the word “use” was appro- 
+priate precisely because it was more active than carrying. 
+Representative Casey, for example, stated that, if the statute 
+penalized “use” but not “carrying,” the provision would “apply 
+only to those who actually use a gun in the commission of the 
+offenses enumerated.” 114 Cong. Rec. 22,229-22,230 (1968) 
+(emphasis added). In support of an amendment to delete the word 
+“carries,” Representative Dowdy stated: 
+I believe that the onus should be the use of a firearm in the 
+commission of a crime. The fact that a person might be 
+carrying a firearm could very well not have anything to do 
+with the commission of a crime if the gun is not used or 
+exhibited. Of course, exhibiting would be using the gun in 
+the commission of a crime, and that is where the burden 
+should be on the use of a gun in the commission of a crime. 
+
+
+Id. at 22,235. Similarly, Representative Harsha criticized a 
+version of the bill for “requir[ing] those merely having a gun in 
+their possession to be subject to the same penalties as those who 
+actually use that weapon in the commission of a crime.” Jd. at 
+22,234 (emphasis added). And Representative Dole praised 
+another version for “materially aid{ing) police and prosecutors in 
+obtaining convictions and prison terms for the offender who uses 
+a firearm in the performance of a Federal felony.” Id. at 22,762 
+
+
+the Senate bill that had been added by Senator Dominick. See id. at 
+27,141-27,142 (1968); H.R. Conf. Rep. No. 1956, 90th Cong., 2d Sess. 
+12, 31-32, partially reprinted in 1968 U.S.C.C.A.N. 4410, 4426. The 
+Casey amendment provided in pertinent part that “whoever during the 
+commission of any robbery, assault, murder, rape, burglary, kidnaping, 
+or homicide (other than involuntary manslaughter), uses or carries any 
+firearm which has been transported in interstate or foreign commerce 
+shall be imprisoned” for specified terms. 114 Cong. Rec. 22,229 
+(emphasis added). Senator Dominick’s amendment imposed penalties on 
+anyone who, “while engaged in the commission of any offense which is 
+a crime of violence punishable under this title, is armed with any fire- 
+arm.” Id. at 27,142 (emphasis added). 
+
+
+25 
+
+
+(emphasis added); see also ibid. (“a deterrent to felonies committed 
+with a weapon”) (emphasis added). ' 
+
+2. The Comprehensive Crime Control Act of 1984. In 1984, 
+Congress amended Section 924(c)(1) to read, in pertinent part, as 
+follows: 
+
+Whoever, during and in relation to any crime of violence, 
+including a crime of violence which provides for an enhanced 
+punishment if committed by the use of a deadly or dangerous 
+weapon or device, for which he may be prosecuted in a court 
+of the United States, uses or carries a firearm, shall, in 
+addition to the punishment provided for such crime of 
+violence, be sentenced to imprisonment for five years. 
+
+
+Pub. L. No. 98-473, § 1005(a), 98 Stat. 1837, 2138-2139. 
+Among other things, the amended statute eliminated the require- 
+ment that the firearm be carried “unlawfully,” added the require- 
+ment that it be carried or used “during and in relation to” the 
+predicate offense, and deleted the words “to commit” from the 
+phrase “uses to commit.” 
+
+
+As Judge Williams observed, there is “no evidence” that, in 
+
+
+amending the statute in 1984, “Congress sought to expand the 
+meaning of ‘use.’” J.A. 111 (dissent). On the contrary, the avail- 
+
+
+‘References by other Members of the House reflect a similar under- 
+standing of firearm “use.” See, ¢.g., 114 Cong. Rec. at 21,788-21,789 
+(Rep. Scheuer) (asking whether police officer who is convicted of assault 
+would be subject to enhanced penalty if officer “push{ed] somebody in 
+the street or punch[{ed] somebody in the nose — with no use of the pistol, 
+but merely carrying the pistol as [the officer] is licensed to do — in no 
+way bringing the pistol into any aggressive act”); id. at 22,239 (Rep. 
+Pucinski) (Casey amendment would, “for the first time, make a criminal 
+who takes a gun in his hand realize that he is going to be prosecuted to 
+the fullest extent of the Federal law”) (emphasis added); id. at 22,247 
+(Rep. Horton) (“When a person commits a crime with a firearm, he uses 
+his weapon to terrorize his victim with the threat that, with the flick of 
+his finger, he can snuff out one or more innocent lives.”) (emphasis 
+added). 
+
+
+26 
+
+
+effectiveness as a deterrent to violent crime.” S. Rep. No. 225, 
+98th Cong., 1st Sess. 312 (1983), reprinted in 1984 U.S.C.C.A.N. 
+3182, 3490; see also id. at 313, 1984 U.S.C.C.A.N. at 3491 (the 
+amendment was made “to overcome the problems with the present 
+subsection discussed above [i.e., in the report]”); J.A. 110-111 
+(noting significance of this language). The “drafting problems” 
+Congress wished to correct pertained to sentencing, not the defini- 
+tion of the offense. S. Rep. No. 225 at 313, 1984 U.S.C.C.A.N. 
+at 3491. And the decisions of this Court that Congress wished to 
+undo were Busic v. United States, 446 U.S. 398 (1980), and Simp- 
+son v. United States, 435 U.S. 6 (1978). See S. Rep. No. 225 at 
+312-313, 1984 U.S.C.C.A.N. at 3490-3491. In view of this dis- 
+cussion in the Senate Report accompanying the legislation, there 
+is no reason to believe that Congress sought to expand the defini- 
+tion of “use,” and every reason to conclude that it did not. 
+
+In fact, most of Congress’s revisions to the statute that affect 
+liability for firearm “use” can be readily explained by Congress’s 
+goal of overturning Sizupson and Busic. In Simpson, this Court 
+held that a defendant may not be sentenced under both Section 
+924(c) and a sentence enhancement provision in the predicate 
+offense. 435 U.S. at 16. In Busic, the Court held that a defendant 
+may not be prosecuted under Section 924(c) if the predicate 
+offense itself contains an enhancement provision. 446 U.S. at 399- 
+400. To overturn those holdings, Congress inserted the following 
+qualifying phrase after “crime of violence”: “including a crime of 
+violence which provides for an enhanced punishment if committed 
+by the use of a deadly or dangerous weapon or device.” Appar- 
+ently to avoid re peating this cumbersome phrase, Congress consoli- 
+dated subsections (1) and (2) into a single section. And, once that 
+consolidation occurred, it would of course have been 
+cal to retain the full phrase “use to commit” in lieu of “use.”” 
+
+
+'S This reading is confirmed by the Justice Department’s analysis of 
+S. 829, the Administration’s bill that contained the provision that later be- 
+came the 1984 amendment to Section 924(c). See Comprehensive Crime 
+Control Act of 1983: Hearings on S. 829 Before the Subcommittee on 
+Criminal Law of the Senaie Committee on the Judiciary, 98th Cong., 1st 
+Sess. 116, 199 & n.2 (1983) (S. 829 Hearings); see also 129 Cong. Rec. 
+22,883, 22,906 (1983). According to the Justice Department, the 
+
+
+27 
+
+
+The Senate Report did discuss, in a lengthy footnote, addition- 
+al changes made by the 1984 amendment to liability for carrying 
+a firearm — including omission of the requirement that the 
+carrying be “unlawful[ ]” and addition of a requirement that it be 
+“in relation to” the predicate offense. The Report explained: 
+
+Evidence that the defendant had a gun in his pocket but did 
+
+not display it, or refer to it, could nevertheless support a 
+
+conviction for “carrying” a firearm in relation to the crime if 
+
+from the circumstances or otherwise it could be found that the 
+defendant intended to use the gun if a contingency arose or to 
+
+make his escape. The requirement in present section 924(c) 
+
+that the gun be carried unlawfully, a fact usually proven by 
+
+showing that the defendant was in violation of a State or local 
+law, has been eliminated as unnecessary. The “unlawfully” 
+provision was added originally to section 924(c) because of 
+
+Congressional concern that without it policemen and persons 
+
+licensed to carry firearms who committed Federal felonies 
+
+would be subjected to additional penalties, even where the 
+weapon played no part in the crime, whereas the section was 
+directed at persons who chose to carry a firearm as an 
+offensive weapon for a specific criminal act. * * * Moreover, 
+the requirement that the firearm’s use or possession be “in 
+relation to” the crime would preclude its application in a 
+situation where its presence played no part in the crime, such 
+as a gun carried in a pocket and never displayed or referred 
+to in the course of a pugilistic barroom fight. 
+S. Rep. No. 225 at 314 n.10, 1984 U.S.C.C.A.N. at 3492 n.10 
+(citation omitted) (emphasis added). 
+
+This passage is highly instructive. The highlighted language 
+confirms Congress’s intent that Section 924(c) reach only the ac- 
+tive employment of a firearm to carry out a predicate offense. The 
+first sentence, moreover, strongly suggests that Congress believed 
+that “use” of a firearm consists of actions such as firing, display- 
+ing, or referring to the weapon during the predicate offense. In 
+alluding to the possibility that circumstances might demonstrate 
+
+
+pertinent language originated in S. 2572, a bill that had been passed in 
+1982 but vetoed by President Reagan. S. 829 Hearings at 199. 
+
+
+28 
+
+
+that a “defendant intended-to use the gun if a contingency arose or 
+to make his escape,” the Report necessarily has in mind a concept 
+of “use” that is active and could not include, for example, mere 
+possession of the weapon for protection." Furthermore, it 
+indicates that even immediate access to a firearm (such as carrying 
+it on one’s person) is an insufficient basis for liability unless the 
+gun played a direct role in the predicate offense. 
+
+The Committee did not mention any change to “use” liability 
+occasioned by the addition of the phrase “during and in relation 
+to.” That fact is hardly surprising, however, once it is recognized 
+that those requirements are already implicit in the concept of “use” 
+Congress intended the statute to reflect both before and after the 
+1984 amendment — active employment of a firearm to carry out 
+the predicate offense. See United States v. Stewart, 779 F.2d 538, 
+539-540 (9th Cir. 1985) (Kennedy, J.) (holding that “in relation 
+to” requirement was implicit in pre-1984 version of statute with 
+regard to carrying liability), cert. denied, 484 U.S. 867 (1987). 
+In this connection, it is significant that $. 2572, a precursor bill 
+passed but vetoed in 1982 (see note 15, supra), would have added 
+to “carrying” but not to “use” liability the requirement that the 
+predicate felony include as an element “the use of violence or 
+threat of imminent violence as defined in section 16 of this title.” 
+See 128 Cong. Rec. 26,581, 26,610 (1982). Here again, there 
+was no need to add that qualifier to the provision for “use” 
+liability, since the idea of imminent violence was already implicit 
+in the requirement that a firearm be “used.”"’ 
+
+
+‘6 Discussing this passage in his dissent, Judge Williams correctly ob- 
+served that “[tJhe reference to intended use shows that Congress envi- 
+sioned the ‘carry’ provision to punish a defendant who did not ‘display’ 
+or otherwise actively use the firearm, but who had at least taken the ac- 
+tive step of carrying the gun on a drug trafficking foray.” J.A. 112 (em- 
+phasis added). “Thus the Senate evidently saw ‘use’ as a comparatively 
+narrow term, with ‘carry’ picking up cases of an alternative type of ac- 
+tivity, where the defendant did not actively ‘use’ the weapon.” J.A. 112. 
+
+
+‘7 Moreover, insofar as Congress intended to change the scope of 
+carrying liability by adding the phrase “in relation to,” Congress clearly 
+meant to limit the statute’s reach not, as the D.C. Circuit concluded (see 
+note 3, supra), to expand it. 
+
+
+29 
+
+
+Finally, as Judge Williams observed (J.A. 111), the only two 
+examples of using a firearm in violation of Section 924(c) men- 
+tioned in Senate Report 225 are both “active”: “pointing it at a 
+teller or otherwise displaying it whether or not it is fired.” S. 
+Rep. No. 225 at 314, 1984 U.S.C.C.A.N. at 3492. This suggests 
+that Congress intended the statute, as amended, to continue to 
+penalize as a “use” only the active employment of a firearm to 
+carry out a crime. See also J.A. 111 (“While these examples were 
+not presented as exhaustive, they provide insight into the general 
+class of behavior Congress had in mind.”). That intent, of course, 
+is fully consistent with Congress’s overarching purpose of address- 
+ing the serious problem of violent crime. 
+
+Thus, there is no basis for concluding that Congress intended 
+to expand the meaning of “use” by amending the statute in 1984. 
+And, of course, “Congress’s adoption of the connective phrase 
+‘during and in relation to’ could not have been intended to adjust 
+for evolving problems of passive drug crimes” because “Congress 
+only added drug trafficking offenses as predicate crimes in 1986.” 
+J.A. 111 (Williams, J., dissenting). 
+
+3. The Firearm Owners’ Protection Act of 1986. In 1986, 
+Congress once again amended Section 924(c)(1). Pub. L. No. 99- 
+308, § 104, 100 Stat. 449, 457. Congress expanded the definition 
+of predicate offense from “crime[s] of violence” to include any 
+“drug trafficking offense” and defined the latter as “any felony 
+or importation of any controlled substance.” Jbid. 
+
+
+The legislative history of the 1986 law confirms Congress’s 
+intent to continue to punish under the “use” prong of Section 
+924(c) only active employment of the weapon to carry out the 
+predicate offense. To begin with, the accompanying House Report 
+in no way suggests an intent to expand the meaning of firearm 
+“use” occurring “during and in relation to” a predicate offense. 
+See H.R. Rep. No. 495, 99th Cong., 2d Sess. 27, 1986 
+U.S.C.C.A.N. 1327, 1353. Although Congress obviously intend- 
+ed to expand the eligible predicate offenses to include felony drug- 
+trafficking crimes, this change, according to the Administration’s 
+own analysis of the legislation, was needed to “resolve the current 
+uncertainty whether such crimes are crimes of violence.” 
+Assessment of Bureau of Alcohol, Tobacco, and Firearms, 
+
+
+30 
+
+
+reprinted in H.R. Rep. No. 495 at 17-18, 1986 U.S.C.C.A.N. at 
+1343-1344 (emphasis added). 
+
+Other passages in the House Report demonstrate that Congress 
+did not intend to broaden the meaning of firearm “use.” In 
+explaining the rejection of a “self-defense” exception to Section 
+924(c), the House Report explained: 
+
+Proponents of the self-defense amendment point out that the 
+defense is not available to one protecting himself “from the 
+danger which was the direct result of the commission of or 
+attempt to commit a felony.” They argue that a felon who 
+uses a gun in the commission of a felony or in a shoot out 
+with police while fleeing cannot therefore claim self-defense, 
+since he is protecting himself from a danger that was the 
+direct result of the felony. 
+
+While this reasoning may rule out a successful self-defense 
+claim in most situations in which the use branch of the offense 
+forms the basis for the mandatory penalty prosecution, it 
+would not have the same weight in the prosecution for 
+carrying a firearm during the commission of a felony. 
+Indeed, the “carrying” branch of the offense might be 
+decimated, in that the felon could claim that he was only 
+the fact that he did not actually use the weapon as proof of his 
+claim. For example, a drug trafficker, if charged with 
+carrying a firearm under 18 U.S.C. 924(c) in connection with 
+drug trafficking, might be able to reasonably sustain a claim 
+that it was carried for protection against rival traffickers. 
+
+H.R. Rep. No. 495 at 10, 1986 U.S.C.C.A.N. at 1336. A broad 
+definition of “use,” for example, cannot be reconciled with the 
+committee’s statement that in “most situations” in which “use” 
+liability attaches the proposed self-defense provision would be 
+unavailable because a defendant himself has created the danger by 
+“us[ing] a gun in the commission of a felony or in a shoot out with 
+police while fleeing.” Ibid. (emphasis altered). Similarly, the 
+committee’s recognition that a felon who was carrying a weapon 
+could often invoke the defense by claiming “that he was only 
+carrying the weapon for defense against other felons,” and citing 
+“the fact that he did not actually use the weapon,” suggests a 
+
+
+31 
+
+
+narrow understanding of the word “use” — one that would nor in- 
+clude carrying a weapon for protection. Finally, the specific 
+example contained in the final sentence of the text quoted above 
+demonstrates beyond dispute that the House Judiciary Committee 
+believed that a drug trafficker who carries a firearm for the pur- 
+pose of protecting himself against “rival traffickers” would not be 
+subject to liability under Section 924(c) for “use” of that firearm. 
+If credited, that statement forecloses “use” liability when a weapon 
+is merely possessed for protection. 
+
+The majority below (see J.A. 97) attached significance to 
+another passage of the House Report (appearing immediately 
+before the discussion of the self-defense proposal just quoted) in 
+which the Judiciary Committee explained its decision not to add 
+the phrase “in furtherance of any such crime of violence” to the 
+carrying branch of Section 924(c) liability. See H.R. Rep. 
+No. 495 at 9, 1986 U.S.C.C.A.N. at 1335. In rejecting that 
+proposal as “unnecessary to prevent injustice,” the committee 
+noted that the proof of the new element “would involve additional 
+analysis of the defendant’s conduct, the circumstances of the 
+violent crime and evidence of the defendant’s state of mind.” Jbid. 
+(emphasis added). According to the majority below (J.A. 97-98), 
+the committee’s rejection of this amendment shows that “Congress 
+carefully avoided any implication that it intended to narrow the 
+relationship that must be shown between the gun and the predicate 
+offense in order to support a conviction under § 924(c)(1).” 
+
+But that is true only with respect to carrying liability. As the 
+subsequent discussion in the House Report of the self-defense pro- 
+posal makes clear, the Judiciary Committee was acutely aware of 
+the distinction between “use” and “carry” liability. Accord S. 
+Rep. No. 583, 98th Cong., 2d Sess. 22 (1984) (discussing “in fur- 
+therance requirement” to be added by S. 914 to “carrying” liabili- 
+ty). More fundamentally, the majority’s reasoning rests on the 
+mistaken assumption that the “in furtherance” language would have 
+modified both “use” and “carry.” But see S. 49, § 104, 99th 
+Cong., Ist Sess. (1985) (“uses a firearm, or carries a firearm in 
+furtherance of any such crime of violence”). Since the concept of 
+“use” already embodied in Section 924(c)(1) included the idea of 
+employment of the weapon “in furtherance of” the predicate 
+
+
+32 
+
+
+offense, there was simply no reason to alter the operative language 
+relating to “use” liability. 
+
+Thus, there is no evidence in the legislative materials that 
+Congress in 1986 intended to broaden the notion of firearm “use” 
+(and much contrary evidence). Nor is it even clear that Congress 
+intended to include passive drug-trafficking crimes as predicate 
+offenses in 1986. After all, the 1986 amendment defined “drug 
+traffic offense[s]” in a way that appeared to exclude such passive 
+offenses — as “any felony violation of Federal law involving the 
+distribution, manufacture, or importation of any controlled sub- 
+stance.” Pub. L. No. 99-308, § 104, 100 Stat. 457 (emphasis add- 
+ed). And the House Report, at least, suggested that Congress 
+meant simply to clarify that drug-trafficking offenses could qualify 
+as crimes of violence. Only in 1988 was the definition of “drug 
+trafficking crime” changed to read as it now does. 
+
+
+4. The Anti-Drug Abuse Act of 1988. Congress broadened 
+the definition of “drug trafficking crime” in 1988 to include “any 
+felony punishable under the Controlled Substances Act (21 U.S.C. 
+801 et seq.), the Controlled Substances Import and Export Act (21 
+U.S.C. 951 et seq.), or the Maritime Drug Law Enforcement Act 
+(46 U.S.C. App. 1901 et seq.).” Pub. L. No. 100-690, § 6212, 
+102 Stat. 4181, 4360. Congress thus made clear for the first time 
+that a “drug trafficking offense” includes not just the more active 
+crimes of distribution, importation, and manufacture but also 
+passive crimes such as possession with intent to distribute. We 
+have been unable to find amy evidence in the slight legislative 
+history of the 1988 Act to suggest that Congress considered, even 
+for a moment, how the “carry” or “use” provision would function 
+when applied to a predicate possessory offense. 
+
+In sum, Congress intended in passing the 1968 Act to limit 
+“use” to active employment of a firearm to carry out the predicate 
+offense; there is nothing to suggest that the 1984, 1986, or 1988 
+amendments were intended to broaden the scope of “use” liability; 
+and indeed there is voluminous evidence in the legislative record 
+to support the conclusion that Congress continued to have in mind 
+an active concept of “use.” 
+
+
+33 
+
+
+D. The Rule Of Lenity Supports Petitioners’ Construction Of 
+
+Section 924(c)(1) 
+
+Even if the Court were to conclude that the language, 
+structure, and legislative history of Section 924(c)\(1) do not 
+compel the interpretation of “use” suggested above, there can be 
+no serious doubt that our interpretation — accepted below by 
+Judges Williams, Silberman, and Buckley — is a reasonable one, 
+and that the statute is therefore at least ambiguous. See also Long, 
+905 F.2d at 1576 (Thomas, J.) (acknowledging “conventional, 
+active connotation” of word “use”); McFadden, 13 F.3d at 468 
+(Breyer, C.J., dissenting) (“[cJourts might have interpreted ‘use’ 
+by insisting upon activity with the gun, such as firing it or 
+brandishing it, or, at least, displaying it [ Jor even trading it for 
+drugs”). Under the rule of lenity, “ambiguity concerning the 
+ambit of criminal statutes should be resolved in favor of lenity.” 
+Rewis v. United States, 401 U.S. 808, 812 (1971) (citing Bell v. 
+United States, 349 U.S. 81, 83 (1955)). That principle is disposi- 
+tive here. 
+
+
+As the Court recently explained in United States v. Grander- 
+son, 114 §. Ct. 1259 (1994), the rule of lenity should be applied 
+“where text, structure, and history” of a criminal statute “fail to 
+establish that the Government’s position is unambiguously cor- 
+rect.” Id. at 1267 (emphasis added). See also McNally v. United 
+States , 483 U.S. 350, 359-360 (1987) (“The Court has often stated 
+that when there are two rational readings of a criminal statute, one 
+harsher than the other, we are to choose the harsher only when 
+Congress has spoken in clear and definite language.”). In light of 
+the text and structure of the statute and the extensive legislative 
+materials just summarized, any interpretation of “use” that includes 
+more than active employment of the firearm to carry out the predi- 
+cate offense is, surely, not “unambiguously correct.”"* 
+
+
+‘As explained in Sections 1.A and B above, it is clear that no position 
+other than one requiring active use could be unambiguously correct, even 
+if one ignores the legislative history and considers only the text and struc- 
+ture of the statute, see United States v. R.L.C., 503 U.S. 291, 307-311 
+(1992) (Scalia, J., joined by Kennedy & Thomas, JJ., concurring in part 
+and concurring in the judgment), or considers the text and structure as 
+informed by this Court's decisions and the background rules of statutory 
+
+
+ag 
+
+
+The D.C. Circuit majority did not even mention the rule of 
+lenity, much less attempt to explain why its proposed interpretation 
+of “use” as “proximity and accessibility” is unambiguously cor- 
+rect. Indeed, the majority acknowledged that “‘use’ could be de- 
+fined either narrowly, so as to encompass only the paradigmatic 
+uses of a gun, i.e., firing, brandishing, or displaying the gun 
+during the commission of the predicate offense, or more broadly, 
+so as to include the other ways in which a gun can be used to 
+facilitate drug trafficking.” J.A. 93 (emphasis added). Without 
+thorough analysis of the provision’s “text, structure, and history” 
+(Granderson, 114 §. Ct. at 1267), the court rejected the narrower 
+interpretation on the ground that “nothing in the statute indicates 
+that the Congress intended” it. J.A. 93. In addition to misreading 
+Congress’s intent, that conclusion violates the rule of lenity by 
+’ ‘acing the burden on the defendant affirmatively to support his (or 
+her) reading of the statute, rather than on the government to prove 
+the unambiguous correctness of its reading." 
+
+If “use” of a firearm denotes active employment to carry out 
+the predicate offense, this case is at an end. Petitioners’ alleged 
+“uses” of the firearms do not even begin to approach such active 
+employment. Bailey was arrested after police officers found co- 
+caine in the driver’s compartment of his automobile. Locked in 
+the trunk of the car, underneath “a whole lot of items,” was a bag 
+containing a firearm. There was no evidence — and certainly no 
+evidence to support a finding beyond a reasonable doubt — that 
+Bailey had ever used the firearm in amy manner — i.¢., no evi- 
+dence that he had actively employed it. Moreover, as the gun was 
+
+
+interpretation, see id. at 311-312 (Thomas, J., concurring in part and 
+concurring in the judgment). 
+
+
+'% Although lenity “does not always require the ‘narrowest’ construc- 
+tion” of a criminal statute (R.L.C., 503 U.S. at 306 n.6), it cannot 
+ee 
+meaning to be something less than clear. If Congress wishes to impose 
+a mandatory sentence of five, ten, twenty, or thirty years, and in some 
+instances life imprisonment, based on firearms “used” in the fashion 
+found by the juries in these cases, it should say so clearly. 
+
+
+35 
+
+
+neither being borne on Bailey’s , erson nor within his immediate 
+
+reach, he was not “carrying” the firearm. See note 5, supra. 
+The case against Robinson also fails. Robinson was arrested 
+
+in her home. The gun that provided the basis for her Section 
+
+924(c)(1) enhancement was found at the bottom of a locked 
+
+footlocker in a bedroom closet and was unloaded. As in Bailey's 
+
+case, there was no evidence that Robinson had ever actively em- 
+ployed the firearm in any manner. And, as the gun was locked 
+away in another room of the house, it was not being borne on 
+
+Robinson’s person. No rational jury could have concluded beyond 
+
+a reasonable doubt that Robinson used a firearm in relation to a 
+
+drug-trafficking crime. 
+
+Il. WHETHER A DEFENDANT “USED” A FIREARM 
+“DURING AND IN RELATION TO” A SPECIFIC 
+PREDICATE OFFENSE SHOULD, AT A MINIMUM, BE 
+ASSESSED IN LIGHT OF ALL RELEVANT FACTORS 
+If this Court declines to adopt the definition of “use” set forth 
+
+above, then it must undertake to define that term by drawing a line 
+
+pon on the one hand and mere presence of the firearm during the 
+predicate offense on the other. As a review of the lower courts’ 
+decisions in this area demonstrates, “it is easier to see the need to 
+distinguish (drug-crime-related) ‘use’ from ‘possession’ than it is 
+
+to explain just how to make the distinction.” United States v. 
+
+McFadden, 13 F.3d 463, 468 (ist Cir. 1994) (Breyer, C.J., dis- 
+
+senting). Although it is difficult to describe the line between use 
+
+and non-use (other than in the manner suggested in Part I above), 
+it is a good deal easier to say what “use” is not. As explained 
+below, several clear limits on the concept of “use” are apparent 
+from the language, structure, and legislative history of Section 
+
+924(c), but have been misunderstood by some of the lower courts: 
+
+first, mere possession during the predicate offense is a necessary 
+
+but not a sufficient condition for firearm “use”; second, Section 
+
+924(c) criminalizes the “use” of a firearm, but not its mere poten- 
+
+tial or intended use; third, accessibility of the firearm to the 
+
+defendant, even immediate accessibility, does not in and of itself 
+constitute “use”; and, fourth, a defendant does not “use” a firearm 
+
+
+“in relation to” Hoy ay pay vies pane d oer maga 
+nearby or available that it can be said to “embolden” 
+
+
+36 
+
+
+Once these limits on “use” liability are recognized, it is clear 
+that the D.C. Circuit’s “proximity and accessibility” test is 
+erroneous and should be rejected. That test sweeps in many cases 
+that rest outside several of the foregoing boundaries. It can also 
+produce absurd results, as Judge Wald explained in her dissent. 
+J.A. 104-105. And it permits an appellate court to conclude that 
+“use” has been proved beyond a reasonable doubt without regard 
+to several factors that are relevant (and potentially dispositive) on 
+that issue. We submit that all of the following are relevant to 
+determining whether a gun was “used”: (1) the accessibility of the 
+firearm to the defendant, (2) any proof of an actual drug transac- 
+tion during which the firearm was actively employed, (3) the type, 
+condition and number of firearms involved; (4) whether the fire- 
+arm was loaded and ready to fire; and (5) expert testimony 
+concerning the government’s particular theory of use. These 
+factors, moreover, should be assessed in light of the specific nature 
+of the predicate offense. Once the evidence in petitioners’ cases 
+is reviewed in light of all of these factors, it is manifest that their 
+convictions should be reversed. 
+
+A. The Language, Structure, And Legislative History Of 
+Section 924(c) Demonstrate That Congress Intended 
+Several Important Limitations On The Concept Of Fire- 
+arm “Use” 
+
+
+1. Possession Is Necessary But Not Sufficient To Show 
+“Use” Of A Firearm 
+
+
+Many of the lower federal courts (including the D.C. Circuit, 
+see J.A. 82) have recognized that mere possession of a firearm 
+during and in relation to a predicate offense is not enough to 
+qualify as “use.” See, e.g., United States v. Wilson, 884 F.2d 
+174, 177 (Sth Cir. 1989). On the other hand, this principle has 
+not been universally acknowledged. See, ¢.g., United States v. 
+Paz, 927 F.2d 176, 179 (4th Cir. 1991). For several reasons, the 
+Court should recognize this important limit on the concept of 
+“use.” 
+
+First, the word “use” carries “a more active meaning — 
+mening Gut exalt teil (hiealapeadaa demain * 
+See McFadden, 13 F.3d at 467 (Breyer, C.J., dissenting). Second, 
+if mere possession of a firearm qualified as “use,” there would be 
+
+
+37 
+
+
+no reason for the statute to mention “carry” as an independent 
+basis for liability. Re engeaian® eve G8 gage 26 ans ante 5), 
+
+
+possession violates the principle that each word in a statute must 
+
+
+be given effect. United States Department of Treasury v. Fabe, 
+113 S. Ct. 2202, 2209-2210 (1993). 
+
+
+Third, Congress obviously knows how to criminalize posses- 
+sion and has not done so in Section 924(c). See McFadden, 13 
+
+
+sentence on anyone who, during and in relation to a crime of 
+violence or a drug-trafficking crime, “uses or carries a firearm and 
+is in possession of armor piercing ammunition.” 18 U.S.C. 
+§ 929(a) (emphasis added). 
+
+Fourth, as then-Chief Judge Breyer observed in his McFadden 
+dissent (13 F.3d at 467), ee eee 
+
+
+H.R. Rep. No. 495 at 10, 1986 U.S.C.C.A.N. at 1336; see page 
+30, supra. “Such a person quite clearly ‘possesses’ the weapon 
+with the intent to make active use of it if necessary; yet, the 
+Report adds, ‘he did not actually use the weapon.’” McFadden, 
+13 F.3d at 467 (dissent). Nor is this the only example in the 
+legislative history that supports this analysis. The Senate Report 
+accompanying the 1984 amendment explained that “the require- 
+ment that the firearm’s use or possession be ‘in relation to’ the 
+crime would preclude its application in a situation where its 
+presence played no part in the crime, such as a gun carried in a 
+
+
+® See, ¢.g., 18 U.S.C. §§ 922(g), 922(j), 922(k), 922(0)(1), 922(v)(1), 
+922(w)(1), 922(x)(2), 930(a), 930(b), 930(e)(1). 
+
+
+38 
+
+
+pocket and never displayed or referred to in the course of a 
+pugilistic barroom fight.” S. Rep. No. 225 at 314 n.10, 1984 
+U.S.C.C.A.N. at 3492 n.10; see page 27, supra. 
+
+
+Fifth and finally, if “use” means nothing more than mere pos- 
+session, then Section 924(c) will essentially “swallow up” the 
+Sentencing Guideline that specifically addresses drug-related gun 
+possession. See U.S.S.G. § 2D1.1(6)(1); McFadden, 13 F.3d at 
+466-468 (Breyer, C.J., dissenting); see also note 6, supra. That 
+result, however, would undercut Congress’s “effort to create a 
+among different kinds of criminal behavior and punishes accord- 
+ingly.” McFadden, 13 F.3d at 467-468 (Breyer, C.J., dissent- 
+ing).”" 
+
+Although possession alone is not enough to constitute “use,” 
+it is clear that use of a firearm cannot occur without possession. 
+See United States v. Long, 905 F.2d 1572, 1576-1579 (D.C. Cir.) 
+(Thomas, J.), cert. denied, 498 U.S. 948 (1990). Possession is 
+thus the minimum nexus between the defendant and the weapon 
+necessary to support a conviction. 
+
+2. Section 924(c) Criminalizes Use Of A Firearm, Not 
+
+Mere Potential Or Intended Use 
+
+A second important limitation on “use” apparent from the lan- 
+guage, structure, and legislative history of Section 924 — and 
+conceded by the Solicitor General in this case — is that “use” of 
+a firearm cannot mean mere “potentia! use” or even “intended 
+use.” See Br. in Opp. 20 (“Section 924(c) requires * * * actual 
+(not future) use” of a firearm). That “use” cannot mean the poten- 
+tial for use is apparent for several reasons. In addition to draining 
+every connotation of action from the word “use,” that standard 
+would be satisfied in most if not all cases of simple possession of 
+
+
+1 To the extent that Section 924(c)’s mandatory minimum provision 
+is an “ad hoc deviation” from Congress’s “more general policy” of 
+sentencing as expressed in the Sentencing Guidelines, the Court should 
+seek to avoid reading the term “use” in Section 924(c) “with unnecessary 
+breadth.” McFadden, 13 F.3d at 468 (Breyer, C.J., dissenting). As ex- 
+plained in Part I above, one way to accomplish that result is to read 
+
+
+“use” according to its ordinary meaning. 
+
+
+39 
+
+
+a firearm. Whenever a firearm is possessed, after all, there is at 
+least some potential that it may be employed. But as explained 
+above, whatever else it means, the term “use” cannot encompass 
+instances of mere possession. Allowing “use” to be fourid when 
+there is only the potential for use would also render the “carrying” 
+prong entirely superfluous. Every time a firearm is carried there 
+is, at least in theory, a possibility that it will be put to use. Had 
+Congress intended “use” of a firearm to encompass all situations 
+where the firearm potentially might be deployed, there would have 
+been no need to mention “carrying” liability. 
+
+Equally clear is Congress’s desire not to penalize the mere 
+intent to use a firearm — as the Solicitor General has conceded 
+(Br. in Opp. 20) and the panel in Robinson correctly recognized 
+(J.A. 53, citing United States v. Bruce, 939 F.2d 1053, 1055 
+(D.C. Cir. 1991)). After all, Section 924(c), by its terms, targets 
+two types of activity with a firearm — use and carrying — that are 
+required to have a close nexus to certain predicate offenses. It 
+does not penalize mere intentions. A contrary interpretation of the 
+statute, moreover, would be difficult if not impossible to reconcile 
+with Section 924(d), which provides for forfeiture of firearms 
+“used” in certain offenses and of firearms “intended to be used.” 
+See also pages 19-20 and note 9, supra. 
+
+3. Accessibility Of The Firearm To The Defendant, Even 
+Immediate Accessibility, Is Not Sufficient To Establish 
+Liability For “Use” 
+
+A third important limitation apparent from the text, structure, 
+and history of Section 924(c) is that it does not make unlawful the 
+presence of a firearm during a predicate offense merely because 
+the weapon is accessible (even immediately accessible) to the 
+defendant. So much is clear from the fact that Congress designed 
+the statute not to reach all instances of carrying, but only those 
+where the carrying is “in relation to” the predicate offense. See 
+also pages 27-28, supra. There is simply no reason why Congress 
+would have excluded amy instances of carrying if immediate 
+accessibility were enough to establish liability under the statute. 
+
+
+40 
+
+
+4. A Firearm Is Not Used In Relation To The Predicate 
+Offense Merely Because Its Presence “Emboldens” 
+The Defendant 
+
+
+It is equally clear that a defendant may not be convicted of 
+using a firearm on the theory that the firearm “emboldens” the 
+defendant to commit the predicate offense. That theory is too 
+broad. In many instances, it would criminalize the mere posses- 
+sion of a firearm during the predicate offense, since such posses- 
+sion frequently can be alleged to “embolden” the defendant. Simi- 
+larly, the emboldening theory subsumes almost every case where 
+the firearm is accessible to the defendant. As just explained, 
+however, accessibility alone cannot properiy be the basis for 
+liability. And, insofar as a defendant who is carrying a firearm 
+can always be described as “emboldened,” the theory also renders 
+the carrying element superfluous. 
+
+The emboldening theory is erroneous not only because it does 
+not describe a “use” of the firearm, but alsc vecause the kind of 
+relationship to the offense it describes is not one made criminal by 
+Section 924(c). In Smith, this Court observed that the phrase “in 
+relation to” is “expansive”™ and that, “at a minimum, {it] clari- 
+fies that the firearm must have some purpose or effect with respect 
+to the drug trafficking crime; its presence or involvement cannot 
+be the result of accident or coincidence.” 113 S. Ct. at 2059. 
+
+
+2 The Court cited District of Columbia v. Greater Washington Board 
+of Trade, 113 S. Ct. 580 (1992), a case construing the phrase “relates to” 
+in the preemption clause of ERISA. The analogy to the broadly worded 
+ERISA preemption clause (see Ingersoll-Rand Co. v. McClendon, 498 
+U.S. 133, 138-139 (1990) cannot be carried too far, however, because 
+the relationships targeted by that clause and by Section 924(c) are entirely 
+different. Whereas ERISA’s preemption clause refers to the relationship 
+between state laws and ERISA plans, Section 924(c) targets the relation- 
+ship between certain actions (e.g., “carrying” a firearm) and predicate 
+offenses. See, e.g., New York State Conference of Blue Cross & Blue 
+Shield Plans v. Travelers Ins. Co., 115 S$. Ct. 1671, 1677 (1995) (noting 
+that state law may “relate to” an ERISA plan if the law “makes 
+‘reference to’ ERISA plans in any manner”). In any event, the Court 
+made clear as recently as Travelers that not all laws that have an effect 
+on ERISA plans can be said to “relate to” those plans. Jd. at 1680. 
+
+
+41 
+
+
+The Court in Smith had no need, however, to “determine the pre- 
+cise contours” of this requirement because Smith’s gun “was an in- 
+tegral part of the transaction,” and “[w]ithout it, the deal would 
+not have been possible.” Jbid. (internal quotations omitted). 
+
+If the gun plays a pivotal role and has a tangible effect on the 
+successful commission of the underlying offense, there is no doubt 
+that the use is “in relation to” that offense. But if the “use” is less 
+important to accomplishing the unlawful acts constituting the predi- 
+cate offense, then the “use” must at least have a direct impact or 
+effect on the predicate offense. It is not enough that the firearm 
+embolden the defendant in the commission of the predicate offense. 
+
+
+Finally, the emboldening theory should be rejected as too in- 
+determinate and as impossible to administer. J.A. 116 (Williams, 
+J., dissenting). The theory invites juries and courts to speculate 
+about whether a defendant was psychologically comforted by the 
+existence of a gun, an inquiry that is inherently incapable of proof 
+beyond a reasonable doubt, virtually incapable of consistent 
+appiication, and impossible to review. Thus, the “emboldening” 
+rationale promises either “a carte blanche for conviction” or a 
+“continuous and vacillating review of jury verdicts.” J.A. 116. 
+That cannot and should not be the law. 
+
+B. The D.C. Circuit’s “Proximity And Accessibility” Test Is 
+Inconsistent With The Foregoing Limitations And Is 
+Otherwise Erroneous 
+The majority below rejected the “open-ended test” previously 
+
+used in the D.C. Circuit and “replace[d] it with a test [for ‘use’] 
+
+that looks to two factors only”: (1) the proximity of the gun “to 
+the drugs, drug paraphernalia, or drug proceeds” involved in the 
+underlying offense; and (2) “the accessibility of the gun to the 
+defendant from the place where the drugs, drug paraphernalia, or 
+drug proceeds are located.” J.A. 80, 101. One “uses” a gun 
+within the meaning of Section 924(c)(1), the court held, by placing 
+or keeping the gun in a location “from which one (or one’s agent) 
+can gain access to it if and when needed to facilitate a drug 
+crime.” J.A. 95 (emphasis added). The court held further that, 
+when the predicate drug offense is a “continuing offense” such as 
+possession with intent to distribute, the government need not show 
+that the gun was in such a place at the time the defendant was ar- 
+
+
+42 
+
+
+rested; it is enough to show that the defendant “put or kept the 
+gun” in such a place “at some point” in time during the defen- 
+dant’s possession of drugs. J.A. 95. 
+
+This test suffers from numerous flaws and should be rejected. 
+As a threshold matter, it is difficult to see how the D.C. Circuit's 
+“proximity” factor adds anything to the “accessibility” factor. As 
+Judge Wald correctly noted in her dissent, “whenever the guns are 
+located proximately to the drugs, they must also be potentially 
+accessible to the defendant from the place the drugs are being 
+stored.” J.A. 103. Thus, the majority’s test essentially collapses 
+into a single factor: the firearm’s proximity — not to the defen- 
+dant, but to the “drugs, drug paraphernalia, or drug proceeds.” 
+J.A. 80, 101. Yet the statute plainly does not criminalize storing 
+or keeping a firearm in the same place as money or ziplock bags 
+or even drugs — it criminalizes contemporaneous use of the gun 
+in relation to a predicate drug-trafficking offense. See also J.A. 
+102 (“Congress * * * created no statutory presumption that ‘use’ 
+automatically would follow from the presence of any particular 
+factors, and I can find no authority for courts to do so.”). Indeed, 
+the Solicitor General so concedes. Br. in Opp. 20 & n.4. The 
+majority’s test is impossible to reconcile with the plain language of 
+the statute. 
+
+In addition to this shortcoming, the D.C. Circuit’s test runs 
+afoul of several of the necessary limits on “use” described above. 
+The D.C. Circuit majority reasoned that a firearm kept in an 
+accessible location is “used” because it can serve to protect the 
+defendant, drugs, and drug proceeds. J.A. 95, 96. But that 
+rationale is necessarily too broad, if in fact Section 924(c) does not 
+reach mere possession, because it would apply “virtually whenever 
+a gun is present near the scene of a drug crime.” McFadden, 13 
+F.3d at 469 (Breyer, C.J., dissenting). Such a “possession for 
+protection” theory sweeps all cases of mere possession within the 
+ambit of “use” because all firearms — even those that are only 
+possessed — have a potential utility. See ibid.; see also United 
+States v. Sullivan, 919 F.2d 1403, 1432 & n.45 (10th Cir. 1990) 
+(rejecting the “possession for protection” rationale), cert. denied, 
+113 S. Ct. 1013 (1993). 
+
+
+By focusing on the proximity of a firearm, and by relying on 
+inferences of potential use rather than evidence of actual use, the 
+
+
+43 
+
+
+court affirmed petitioners’ convictions based on the “theoretical 
+possibility” of use rather than on use itself. See McFadden, 13 
+F.3d at 468 (Breyer, C.J., dissenting). The “proximity” standard 
+is usconsistent with the ordinary, active meaning of “use” (see id. 
+at 466-467) and expands it to include mere potential use “when 
+needed to facilitate a drug crime.” J.A. 95. 
+
+Furthermore, the continuing nature of the predicate drug 
+offense of possession with intent to distribute cannot justify 
+inferring past use of a firearm from present possession. United 
+States v. Clemis, 11 F.3d 597, 602 (6th Cir. 1993), cert. denied, 
+114 S. Ct. 1858 (1994). Here again, such a principle subsumes all 
+cases of mere possession and permits conviction based on mere 
+speculation of past use. The present case illustrates that problem. 
+With regard to petitioner Bailey, for example, the prosecution pre- 
+sented no evidence whatever that he actually employed the firearm 
+in his trunk at any time in the past. Accordingly, the court relied 
+on generalizations about the prevalence of gun usage in the drug 
+world (J.A. 98, 100) to conclude that past use could be inferred — 
+beyond a reasonable doubt — from Bailey’s possession of a fire- 
+arm at the time of arrest. Permitting one person to be convicted 
+on the basis of assumptions about other persons’ conduct demon- 
+strates the limitless reach of the majority opinion’s interpretation 
+of “use.” 
+
+Nor can the majority’s holding be reconciled with Congress’s 
+intent, clearly expressed in Section 924(d), to penalize “use” in- 
+stead of mere “intended use.” J.A. 112 (Williams, J., disse>ing); 
+see also pages 19-20, supra. As Judge Williams correctly noted, 
+the majority’s test departs from Congress’s intent by essentially 
+“dilut[ing] ‘use’ to mean simply possession with a floating intent 
+to use.” J.A. 108. 
+
+The D.C. Circuit’s test also should be rejected because it 
+could lead to absurd results. As Judge Wald explained, 
+
+
+if the guns and drugs are found [all together] in a locked 
+strongbox and the defendant is miles away, under the major- 
+ity’s test, the guns are arguably accessible to the defendant 
+from the place where the drugs are stored and are being 
+“used” to facilitate the possession of the drugs. To state the 
+proposition is to reveal its illogic. Under the statute it is the 
+
+
+44 
+
+
+defendant who must use the gun, so it is the accessibility of 
+the gun to him at the time of the drug offense charged that is 
+relevant, not the accessibility of the gun to a phantom 
+defendant who is positioned where the drugs are. 
+J.A. 103-104 (dissent). Thus, if the predicate offense is possession 
+with intent to distribute and the defendant is “not in the immediate 
+vicinity of the scene where the drugs and guns are found,” the 
+majority’s test “can produce a ridiculous result.” J.A. 104; see 
+also J.A. 105 (“A defendant cannot have been ‘using’ a gun to 
+protect drugs when he was nowhere near the gun.”). This Court 
+will avoid a construction of a statute that would lead to absurd 
+results — even if the literal terms of the statute are far more 
+helpful to that construction than are the terms here. See, e¢.g., 
+Green v. Bock Laundry Machine Co., 490 U.S. 504, 510-511 
+(1989); id. at 527 (Scalia, J., concurring in the judgment).” 
+
+
+C. Courts Should Consider A Variety Of Relevant Factors In 
+Determining Whether There Was Sufficient Evidence Of 
+Use 
+
+
+To draw the line between “possession” and “use,” and thus 
+to determine which conduct will be punished by Section 924(c) and 
+which by the Sentencing Guidelines instead (see page 17 and note 
+6, supra), some courts have examined various indicia of “use” and 
+have upheld enhancements only when there were strong indications 
+that the possession of the guns was for the protection of the drugs 
+and thereby actually facilitated the possession with intent to distrib- 
+ute. The factors that should be reviewed (which have been 
+developed by the courts of appeals, see McFadden, 13 F.3d at 468 
+(Breyer, C.J., dissenting)) are (1) the accessibility of the firearm 
+
+
+® The D.C. Circuit's test should also be rejected because of the rule of 
+lenity. Whatever else may be said of the majority’s two-factor test, it is 
+not an interpretation of Section 924(c) that would be apparent to the ordi- 
+nary citizen. See United States v. Aguilar, 63 U.S.L.W. 4637, 4639 
+(U.S. June 21, 1995) (“We have traditionally exercised restraint in 
+assessing the reach of a federal criminal statute, both out of deference to 
+the prerogatives of Congress, and out of concern that a fair warning 
+should be given to the world in language that the common world will 
+understand, of what the law intends to do if a certain line is passed.”) 
+(citations and internal quotations omitted). 
+
+
+45 
+
+
+to the defendant, (2) any proof of an actual drug transaction during 
+which the firearm was used, (3) the type and number of firearms 
+involved, (4) whether the firearm was loaded and ready for use, 
+and (5) expert testimony concerning the government's case-specific 
+theory of use. 
+
+1. Accessibility Of Firearm To Defendant. A factor courts 
+have used to distinguish between use and possession is “the 
+accessibility of the gun to the defendant.” United States v. Morris, 
+977 F.2d 617, 621 (D.C. Cir. 1992); Derr, 990 F.2d at 1338; 
+United States v. McKinnell, 888 F.2d 669, 675 (10th Cir. 1989). 
+If a gun is sufficiently accessible to a defendant, that factor lends 
+some support to an inference that the gun provided protection for 
+the drug offense or that the defendant derived some service from 
+the gun. By itself, this factor is not sufficient to establish use, as 
+explained above. See United States v. Conner, 972 F.2d 1172, 
+1174 (10th Cir. 1992) (“[mJere access to a firearm is insufficient 
+to sustain a conviction” under Section 924(c)). Accessibility 
+coupled with other circumstances can support a conviction, but 
+inaccessibility of a firearm strongly undermines a conviction. 
+
+2. Proof Of A Drug Transaction. A second indicium of fire- 
+arm “use” is proof of an earlier drug transaction at which the fire- 
+arm was actively employed or available to protect the drug opera- 
+tions. Morris, 977 F.2d at 622; Bruce, 939 F.2d at 1055; United 
+States v. Fermin, 32 F.3d 674, 678 (2d Cir. 1994), cert. denied, 
+115 S. Ct. 1145 (1995); United States v. Feliz-Cordero, 859 F.2d 
+250, 254 (2d Cir. 1988); United States v. Theodoropoulos, 866 
+F.2d 587, 597 (3d Cir. 1989). Evidence of such a transaction is 
+particularly important when the predicate offense is possession 
+with intent to distribute, because the transaction can bridge the gap 
+between the active verb “use” and the “passive crime” of posses- 
+sion. Bruce, 939 F.2d at 1055. Evidence of a previous transac- 
+tion that the firearm facilitated would be circumstantial evidence 
+that the firearm was “used” during the later offense as well as that 
+the defendant had incorporated it into a drug-trafficking operation. 
+United States v. Reyes, 930 F.2d 310, 313, 314 n.5 (3d Cir. 
+i991). 
+
+
+3. The Type, Condition, And Number Of Firearms Involved. 
+Many courts of appeals have ruled that the number of firearms in- 
+volved in the predicate drug-trafficking offense is relevant in deter- 
+
+
+46 
+
+
+mining whether the firearms were “used”; the more guns present, 
+the stronger the inference of use. Compare, e.g., Bruce, 939 F.2d 
+at 1056 (conviction reversed where only a single firearm was in- 
+volved), and Feliz-Cordero, 859 F.2d at 254 (same), with Morris, 
+977 F.2d at 622-623 (“arsenal” of weapons supported Section 
+924(c) conviction), and United States v. Williams, 952 F.2d 418, 
+421 (D.C. Cir.) (same), cert. denied 113 S. Ct. 148 (1992). Al- 
+though the “use” of a single weapon violates the statute, a purely 
+circumstantial showing of “use” is weakened by the fact that no 
+other weapons were present. The type and condition of a gun may 
+also be relevant to whether it was used by a defendant and in what 
+fashion. For example, a very large weapon such as a rifle would 
+be difficult to “use” in a fashion that requires concealment on 
+one’s person. Similarly, if the weapon is not readily operable, its 
+utility would be impaired. Thus, the specific features of the fire- 
+arm in question are relevant to whether the gun was “used.” 
+
+
+4. Whether The Firearm Was Loaded And Ready To Fire. 
+Some courts of appeals have stated that an inference of “use” is 
+strengthened when the firearm at issue is loaded. Morris, 977 
+F.2d at 622; Derr, 990 F.2d at 1338. Others, by contrast, have 
+ruled that whether a gun is loaded is irrelevant to whether it is 
+used because even an unloaded gun increases the risk of violence, 
+and because “it is very difficult for a person to determine whether 
+a gun was loaded or not when the gun is pointed at that person.” 
+United States v. Gutierrez-Silva, 983 F.2d 123, 124-125 (8th Cir. 
+1993); see also, e.g., United States v. Willis, 6 F.3d 257, 265 (5th 
+Cir. 1993). Certainly, this factor is relevant in at least some 
+cases, depending on the government’s theory of how the gun was 
+“used” in a particular case. 
+
+5. Expert Testimony. Finally, some courts have looked to 
+whether expert testimony bolstered the government’s theory of 
+“use” as advanced in a particular case. Morris, 977 F.2d at 622; 
+Derr, 990 F.2d at 1338.% An expert’s testimony concerning a 
+
+
+- Testimony by a government witness that guns are often or typically 
+associated with drug operations cannot be considered 
+
+probative. Derr, 990 F.2d at 1339 (such evidence is only “marginally 
+helpful to the prosecution”); see also Bruce, 939 F.2d at 1055 (expert 
+testimony that guns and drugs “go hand in hand” insufficient to bolster 
+
+
+47 
+
+
+specific firearm or the nature of drug-trafficking operations can 
+sometimes serve to rule out certain “uses” for the weapon. 
+
+
+No single criterion identified above has dispositive weight; 
+rather, courts must balance the criteria in determining whether a 
+defendant “used” a firearm in connection with the predicate drug- 
+trafficking offense. Derr, 990 F.2d at 1338. As next explained, 
+that balancing process yields but one conclusion: the convictions 
+of both petitioners should be reversed. 
+
+
+D. Once These Factors Are Considered, Both Petitioners’ 
+
+Convictions Should Be Reversed 
+
+The evidence presented at petitioners’ trials was insufficient 
+to prove, beyond a reasonable doubt, that either Bailey or Robin- 
+son “used” a firearm during the predicate offense of possession of 
+cocaine with intent to distribute it. As an examination of the 
+relevant factors makes clear, the evidence showed, at most, that 
+each petitioner possessed, but did not use, a firearm. 
+
+1. Bailey was stopped for a traffic offense. When the police 
+searched the car’s interior, they found one round of .380-caliber 
+ammunition on the console and a satchel containing 30 grams of 
+cocaine in 27 plastic bags. J.A. 18, 80; 2/27/90 Tr. 74-75, 93, 
+106, 125. After arresting Bailey, the officers unlocked the car 
+trunk (which was inaccessible from the passenger compartment) 
+and found a vest containing approximately $2500 in cash. 2/27/90 
+Tr. 97-98, 117. Beneath “a whole lot of items,” including “cloth- 
+ing and bags and other things,” the police also found a bag con- 
+taining a 9-mm. handgun that was “loaded with one clip” of am- 
+munition containing six .380-caliber bullets. J.A. 6, 9; 2/27/90 
+Tr. 106. The police officers could not see the gun when they 
+opened the trunk; indeed, the trunk was so full that it took roughly 
+one minute to find the bag containing the gun. J.A.9. Bailey also 
+had approximately $700 on his person. 
+
+This evidence was insufficient to support a finding that Bailey 
+“used” a firearm “in relation to” the crime of possession of co- 
+
+
+inference of use). Rather, the testimony must help establish that “the gun 
+in this case was used to protect the possession of these drugs.” Derr, 
+990 F.2d at 1339 (second emphasis added). 
+
+
+actively employed the firearm. With regard to accessibility, the 
+gun was located in the locked trunk of the car Bailey was driving 
+In the court below the government conceded that “the firearm was 
+
+
+rypothetical transaction the government did not prove, used a 
+
+
+_ The third factor (type and number of firearm) likewise favors 
+Bailey. There was only one firearm involved. In addition, al- 
+though the gun recovered from the trunk of Bailey’s car was a 9- 
+mm. pistol, according to the government’s own expert it was load- 
+ed with much smaller .380 ammunition and thus incapable of firing 
+more than one bullet unless the empty shell was manually removed 
+and another bullet manually chambered. 
+
+
+= The panel opinion illustrates the dangers of such speculation. The 
+majority there conjectured, with no evidence beyond the contents of 
+Bailey's car when he was stopped: “As [Bailey] walked from his car to 
+the point of sale, like any drug dealer he was constantly in danger of be- 
+ing attacked by bandits or by a potential customer. Until the actual sale, 
+of course, he possessed the narcotics. In effect, for a drug dealer on the 
+streets, possession and distribution are inextricably linked * * * and the 
+Jury could reasonably conclude that during the tense moments leading up 
+to the exchange of drugs and money, Bailey used the gun in the trunk to 
+protect his inventory of drugs * * *.” J.A. 27. This is rank speculation. 
+
+
+49 
+
+
+Fourth, the pistol found in Bailey’s trunk, though loaded with 
+a clip containing six bullets, was not yet ready to fire because a 
+bullet had not been chambered. 
+
+
+Finally, the expert testimony presented at trial concerning the 
+government’s particular theory of use weighed significantly in 
+Bailey’s favor. According to the government’s expert, the purpose 
+of having a firearm within reach was for protection against “stick- 
+up boys” who try to steal the drugs or money. J.A. 11-13. The 
+expert agreed that, “[i)f you are trying to protect yourself” in this 
+way, the weapon’s “power and speed” are “what’s most impor- 
+tant.” 2/27/90 Tr. 166-167. He also emphasized that a drug 
+seller would need immediate access to his firearm because he 
+would get no notice before a “stickup boy” confronted him. J.A. 
+13. Yet Bailey lacked immediate access to the gun, and the gun, 
+loaded with a clip of .380-caliber bullets, lacked the “power and 
+speed” that the expert said was so important. On this evidence, 
+the jury could not have found “use” beyond a reasonable doubt. 
+
+
+2. The evidence presented at Robinson’s trial was woefully 
+deficient. The Derringer locked in a box in Robinson’s closet was 
+not accessible to her. The evidence at her trial showed that 
+Parker, not Robinson, had the keys to the box. See 10/30/91 
+Tr. 110 (testimony of Sharine McKinney) (Parker “was the only 
+one with the key, period”). Robinson periodically was able to 
+gain access to the box, but there is no evidence that she had such 
+access any time on July 16, 1991, or that such access had ever 
+been employed to facilitate a drug transaction. Without access to 
+the box on that date in the time before the police executed the 
+search, Robinson would have lacked access to the Derringer. 
+
+a distribution offense occurred on July 15, that offense was not the 
+predicate of the 924(c) charge. In any event the eyewitness tes- 
+timony about that transaction showed that the Derringer played no 
+role. As to the events of July 16, which were the predicate for the 
+924(c) charge, Robinson was charged with only a possessory of- 
+fense, not actual distribution, and there was no evidence that the 
+Derringer played any role even in Parker's distribution offense. 
+
+
+The remaining relevant factors likewise weigh strongly in 
+Robinson’s favor. As in Bailey’s case, there was only one firearm 
+
+
+50 
+
+
+involved. In addition, it was unloaded (with no ammunition even 
+found in the apartment) and thus necessarily unready to be fired. 
+Finally, the government’s expert gave testimony that supported the 
+limited utility of the unloaded .22-caliber Derringer. According 
+to the government’s theory, this kind of weapon was a “second 
+gun” — the type of weapon a drug dealer would “keep hidden on 
+{her} person and use it until [she] get{s] [her] real gun.” 10/30/91 
+Tr. 79; J.A. 49. But there was no evidence — none — that 
+petitioner even knew of the gun’s existence, much less ever had it 
+hidden on her person. This factor, as well, also weighs strongly 
+against any finding of use. 
+
+The evidence presented against Robinson could not support a 
+finding, beyond a reasonable doubt, that she “used” the Derringer 
+during and in relation to the July 16 offense. Robinson’s convic- 
+tion on the Section 924(c) count accordingly should be reversed. 
+
+
+CONCLUSION 
+The judgment of the court of appeals should be reversed. 
+
+
+Respectfully submitted. 
+
+
+Roy T. ENGLERT, JR. DAVID B. SMITH 
+Counsel of Record Counsel of Record 
+
+ALAN E. UNTEREINER English & Smith 
+
+LUKE P. LEVASSEUR 526 King Street, Suite 213 
+Mayer, Brown & Platt Alexandria, VA 22314 
+
+
+2000 Pennsylvania Ave., N.W. (703) 548-8911 
+Washington, D.C. 20006 
+(202) 463-2000 
+Counsel for Bailey (94-7448) Counsel for Robinson (94-7492) 
+
+
+JUNE 1995 
+
+
+” Counsel gratefully acknowledge the assistance of Kevin B. Huff, a 
+student at Columbia Law School, in the preparation of this brief. 
+
+
+<4. 
+
+
+ee ee 
+
+
+- ea 
+arent 
+
+
+> 
+
+
+& 
+
+
+b 
+
+
+eS 
+, A 
+a 
+w Je 7 . i | 
+fs _, | 
+- * 
+s * | 
+
+
+as 
+’ 
++ 
+
+
+18 U.S.C.A. § 924 (Supp. 1995) 
+(a)(1) 
+
+
+* * * * * 
+
+
+(a(S). Whoever knowingly violates subsection (s) of (t) or 
+section 922 shall be fined under this title, imprisoned for not 
+more than | year, or both. 
+
+
+(SA)(i) A juvenile who violates section 922(x) shall be 
+fined under this title, imprisoned not more than | year, or both, 
+except that a juvenile described in clause (ii) shall be sentenced 
+to probation on appropriate conditions and shall not be incarcer- 
+ated unless the juvenile fails to comply with a condition of 
+probation. 
+
+(ii) A juvenile is described in this clause if— 
+
+(I) the offense of which the juvenile is 
+charged is possession of a handgun or ammunition in 
+violation of section 922(x)(2); and 
+
+
+(I) the juvenile has not been convicted in any 
+court of an offense (including an offense under section 
+922(x) or a similar State law, but not including any 
+other offense consisting of conduct that if engaged in 
+by an adult would not constitute an offense) or adjudi- 
+cated as a juvenile delinquent for conduct that if 
+engaged in by an adult would constitute an offense. 
+
+
+(B) A person other than a juvenile who knowingly violates 
+section 922(x)— 
+
+(i) shall be fined under this title, imprisoned not 
+more than 1 year, or both; and 
+(ii) if the person sold, delivered, or otherwise trans- 
+ferred a handgun or ammunition to a juvenile knowing 
+or having reasonable cause to know that the juvenile 
+intended to carry or otherwise possess or discharge or 
+otherwise use the handgun or ammunition in the com- 
+
+
+So in original. Two subsecs. (a)(5) were enacted. 
+
+
+la 
+
+
+mission of a crime of violence, shall be fined under 
+
+this title, imprisoned not more than 10 years, or both. 
+
+(b) | Whoever, with intent to commit therewith an offense 
+punishable by imprisonment for a term exceeding one year, or 
+with knowledge or reasonable cause to believe that an offense 
+punishable by imprisonment for a term exceeding one year is to 
+On Eth. cles, eomnpest, er eeaives 8 Sram 
+ammunition in interstate or foreign commerce shall be 
+
+hined under this title, or imprisoned not more than ten years, or 
+
+
+_ (1) Whoever, during and in relation to any crime of 
+violence or drug trafficking crime (including a crime of violence 
+or drug trafficking crime which provides for an enhanced pun- 
+ishment if committed by the use of a deadly or dangerous 
+weapon or device) for which he may be prosecuted in a court of 
+the United States, uses or carries a firearm, shall, in addition to 
+the punishment provided for such crime of violence or drug 
+trafficking crime, be sentenced to imprisonment for five years, 
+and if the firearm is a short-barreled rifle, short-barreled 
+
+
+device, or is equipped with a firearm silencer or firearm muffler, 
+to imprisonment for thirty years. In the case of his second or 
+subsequent conviction under this subsection, such person shall be 
+sentenced to imprisonment for twenty years, and if the firearm 
+is a machinegun, or a destructive device, or is equipped with a 
+firearm silencer or firearm muffler, to life imprisonment without 
+release. Notwithstanding any other provision of law, the court 
+shall not place on probation or suspend the sentence of any 
+person convicted of a violation of this section, nor shall the term 
+of imprisonment imposed under this subsection run concurrently 
+with any other term of imprisonment including that imposed for 
+the crime of violence or drug trafficking crime in which the fire- 
+arm was used or carried. 
+
+(Q) For purposes of this subsection, the term “drug traf- 
+ficking crime” means any felony punishable under the Controlled 
+Substances Act (21 U.S.C. 801 et seq.), the Controlled Sub- 
+stances Import and Export Act (21 U.S.C. 951 et seq.), or the 
+Maritime Drug Law Enforcement Act (46 U.S.C. 1901 et seq.). 
+
+
+2a 
+
+
+(3) For purposes of this subsection the term “crime of 
+violence” means an offense that is a felony and— 
+
+
+(A) has an element the use, attempted use, or threat- 
+ened use of physical force against the person or property of 
+another, or 
+
+(B) that by its nature, involves a substantial risk that 
+physical force against the person or property of another may 
+be used in the course of committing the offense. 
+
+(d)(1) Any firearm or ammunition involved in or used in any 
+knowing violation of subsection (a)(4), (a)(6), (f), (g), (h), (0, 
+(j), or (k) of section 922, or knowing importation or bringing 
+into the United States or any possession thereof any firearm or 
+ammunition in violation of section 922(/), or knowing violation 
+of section 924, or willful violation of any other provision of this 
+chapter or any rule or regulation promulgated thereunder, or any 
+violation of any other criminal law of the United States, or any 
+firearm or ammunition intended to be used in any offense 
+referred to in paragraph (3) of this subsection, where such intent 
+is demonstrated by clear and convincing evidence, shall be 
+subject to seizure and forfeiture, and all provisions of the 
+Internal Revenue Code of 1954 relating to the seizure, forfeiture, 
+and disposition of firearms, as defined in section 5845(a) of that 
+Code, shall, so far as applicable, extend to seizures and forfei- 
+tures under the provisions of this chapter: Provided, That upon 
+acquittal of the owner or possessor, or dismissal of the charges 
+against him other than upon motion of the Government prior to 
+trial, or lapse of or court termination of the restraining order to 
+which he is subject, the seized or relinquished firearms or 
+ammunition shall be returned forthwith to the owner or possessor 
+or to a person delegated by the owner or possessor unless the 
+return of the firearms or ammunition would place the owner or 
+possessor or his delegate in violation of law. Any action or 
+proceeding for the forfeiture of firearms or ammunition shall be 
+commenced within one hundred and twenty days of such seizure. 
+
+
+(2)(A) In any action or proceeding for the return of firearms 
+or ammunition seized under the provisions of this chapter, the 
+court shall allow the prevailing party, other than the United 
+
+
+3a 
+
+
+a 
+
+
+States, a reasonable attorney’s fee, and the United States shall be 
+liable therefor. 
+
+
+(B) In any other action or proceeding under the provisions 
+of this chapter, the court, when it finds that such action was 
+without foundation, or was initiated vexatiously, frivolously, or 
+in bad faith, shall allow the prevailing party, other than the 
+United States, a reasonable attorney’s fee, and the United States 
+shall be liable therefor. 
+
+
+(C) Only those firearms or quantities of ammunition 
+particularly named and individually identified as involved in or 
+used in any violation of the provisions of this chapter or any rule 
+or regulation issued thereunder, or any other criminal law of the 
+United States or as intended to be used in any offense referred 
+to in paragraph (3) of this subsection, where such intent is 
+demonstrated by clear and convincing evidence, shall be subject 
+to seizure, forfeiture, and disposition. 
+
+(D) The United States shall be liable for attorneys’ fees 
+under this paragraph only to the extent provided in advance by 
+appropriation Acts. 
+
+(3) The offenses referred to in paragraphs (1) and 
+(2)(C) of this subsection are— 
+
+
+(A) any crime of violence, as that term is defined in 
+section 924(c)(3) of this title; 
+
+
+(B) any offense punishable under the Controlled Substanc- 
+es Act (21 U.S.C. 801 et seq.) or the Controlled Substances 
+Import and Export Act (21 U.S.C. 951 et seq.); 
+
+
+(C) any offense described in section 922(a)(1), 922(a\(3), 
+922(a)(S), or 922(b\3) of this title, where the firearm or 
+ammunition intended to be used in any such offense is involved 
+in a pattern of activities which includes a violation of any offense 
+described in section 922(a)(1), 922(a)3), 922(a)(5S), or 922(b\(3) 
+of this title; 
+
+(D) any offense described in section 922(d) of this title 
+where the firearm or ammunition is intended to be used in such 
+offense by the transferor of such firearm or ammunition: 
+
+
+(E) any offense described in section 922(i), 922(j), 922), 
+922(n), or 924(b) of this title; and 
+
+
+4a 
+
+
+(F) any offense which may be prosecuted in a court of the 
+United States which involves the exportation of firearms or 
+(e(1) In the case of a person who violates section 922(g) of 
+this title and has three previous convictions by any court referred 
+to in section 922(g)(1) of this title for a violent felony or a 
+serious drug offense, or both, committed on occasions different 
+from one another, such person shall be fined not more than 
+$25,000 and imprisoned not less than fifteen years, and, 
+notwithstanding any other provision of law, the court shall not 
+suspend the sentence of, or grant a probationary sentence to, 
+such person with respect to the conviction under section 922(g). 
+(2) As used in this subsection— 
+(A) the term “serious drug offense” means— 
+(i) | anoffense under the Controlled Substances 
+Act (21 U.S.C. eet ey Er pe og 
+es Import and Export Act (21 U.S.C. et seq.), Or 
+the Maritime Drug Law Enforcement Act (46 U.S.C. 
+App. 1901 et seq.), for which a maximum term of 
+imprisonment of ten years or more is prescribed by 
+law; or 
+(ii) an offense under State law, involving 
+ing, distributing, or possessing with intent 
+— my i " 
+(as defined in section 102 of the Controlled Substanc- 
+es Act (21 U.S.C. 802)), for which a maximum term 
+of imprisonment of ten years or more is prescribed by 
+law; 
+(B) the term “violent felony” means any crime pun- 
+ishable by imprisonment for a term exceeding one 
+year, or any act of juvenile delinquency involving the 
+use or carrying of a firearm, knife, or destructive 
+device that would be punishable by imprisonment for 
+such term if committed by an adult, that— 
+(i) has as an element the use, attempted use, 
+or threatened use of physical force against the person 
+of another; or 
+
+
+Sa 
+
+
+(ii) is burglary, arson, or extortion, involves 
+use of explosives, or otherwise involves conduct that 
+presents a serious potential risk of physical injury to 
+another; and 
+
+(C) the term “conviction” includes a finding that a person 
+has committed an act of juvenile deiinquency involving a 
+violent felony. 
+
+
+* 
+
+
+(h) Whoever knowingly transfers a firearm, knowing that 
+such firearm will be used to commit a crime of violence (as 
+defined in subsection (c)(3) or drug trafficking crime (as defined 
+in subsection (c)(2) shall be imprisoned not more than 10 years, 
+fined in accordance with this title, or both. 
+
+
+* - * * * 
+
+
+(i) A person who, in the course of a violation of subsec- 
+tion (c), causes the death of a person through the use of a 
+firearm, shall— 
+
+(1) if the killing is a murder (as defined in section 
+
+1111), be punished by death or by imprisonment for any term 
+
+of years or for life; and 
+
+(2) if the killing is manslaughter (as defined in 
+section 1112), be punished as provided in that section. 
+
+
+* * . - = 
+
+
+(n) A person who conspires to commit an offense under 
+subsection (c) shall be imprisoned for not more than 20 years, 
+fined under this title, or both; and if the firearm is a machinegun 
+or destructive device, or is equipped with a firearm silencer or 
+muffler, shall be imprisoned for any term of years or life. 
+
+

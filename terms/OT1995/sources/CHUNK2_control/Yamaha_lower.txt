@@ -1,0 +1,1789 @@
+
+Lucien B. CALHOUN; Robin L. Calhoun, individually and as Administrators of the Estate of Natalie K. Calhoun, deceased v. YAMAHA MOTOR CORPORATION, U.S.A.; Yamaha Motor Co., Ltd.; Palmas Del Mar Company; Palmas Del Mar, Inc.; Palmas Yacht Club, Inc.; Marina De Palmas Yacht Club, Inc.; Maxxam Properties, Inc.; ABC Corporation; XYZ Partnership(s); Candelero Hotel Corporation; Marina De Palmas Shipyard, Inc. Yamaha Motor Corporation, U.S.A. and Yamaha Motor Company, Ltd., Appellants in No. 93-1736 Lucien B. CALHOUN; Robin L. Calhoun, individually and as Administrators of the Estate of Natalie K. Calhoun, deceased, Appellants in No. 93-1737 v. YAMAHA MOTOR CORPORATION, U.S.A.; Yamaha Motor Co., Ltd.; Palmas Del Mar Company; Palmas Del Mar, Inc.; Palmas Yacht Club, Inc.; Marina De Palmas Yacht Club, Inc.; Maxxam Properties, Inc.; ABC Corporation; XYZ Partnership(s); Candelero Hotel Corporation; Marina De Palmas Shipyard, Inc.
+Nos. 93-1736, 93-1737.
+United States Court of Appeals, Third Circuit.
+Argued April 13, 1994.
+Decided Nov. 2, 1994.
+As Amended Nov. 17, 1994.
+Sur Petition for Panel Rehearing with Suggestion for Rehearing In Banc Dec. 7, 1994.
+*624
+Manchel, Lundy & Lessin, William J. Taylor, Thomas A. Masterson, Jr. (argued), Taylor & Taylor, Philadelphia, PA, for appel-lees/cross-appellants Lucien B. Calhoun and Robin L. Calhoun.
+Jonathan Dryer (argued), William R. Hoffman, Wilson, Elser, Moskowitz, Edelman & Dicker, Philadelphia, PA, for appellants/cross-appellees Yamaha Motor Corp., U.S.A. and Yamaha Motor Co., Ltd.
+Before: BECKER, MANSMANN and SCIRICA, Circuit Judges.
+OPINION OF THE COURT
+BECKER, Circuit Judge.
+These consolidated interlocutory cross appeals before us pursuant to 
+28 U.S.C. § 1292
+(b) (1993) present an interesting and important question of maritime law: whether state wrongful death and survival statutes are displaced by a federal maritime rule of decision concerning the remedies available for the death of a recreational boater occurring within state territorial waters,
+1
+ which are explicitly excluded from the reach of the Death on the High Seas Act, 
+46 U.S.C.A. § 761
+ (1975). The remedies at issue are loss of society, loss of support and services, loss of future earnings, and punitive damages.
+This case arose when Natalie Calhoun, the twelve year old daughter of plaintiffs Lucien and Robin Calhoun, was killed in a boating accident in the waters off Puerto Rico. Natalie had been riding a ‘Wavejammer,” a type of jet ski manufactured by Yamaha Motor Corporation, U.S.A., and its parent company, Yamaha Motor Company, Ltd. (collectively referred to as “Yamaha”). Plaintiffs sued Yamaha seeking recovery under the Pennsylvania wrongful death and survival statutes, 42 Pa.Cons.StatAnn. §§ 8301-8302 (1982 & Supp.1994). In granting partial summary judgment for Yamaha on the issue of available damages, the district court held that federal maritime law displaced both state remedies, and fashioned a federal common law rule applicable to cases involving the death of a non-seaman in territorial waters under which future earnings and punitive damages are not recoverable but damages for loss of society or support are. Each party sought certification to appeal the portion of the court’s ruling that was unfavorable.
+*625
+We do not reach the question whether the district court fashioned the proper federal common law remedy, however, because we conclude that the federal maritime law does not displace state wrongful death or survival statutes in this context. Rather, applying traditional admiralty choice of law principles, we hold that the appropriate rule of decision in this area should be supplied by state law. Our analysis of the Supreme Court’s maritime wrongful death jurisprudence reveals that there is no federal substantive policy with which state wrongful death or survival statutes conflict here. In the absence of a clear conflict, state law rules of decision should apply. We will therefore affirm the district court’s order denying Yamaha partial summary judgment, reverse the order granting Yamaha partial summary judgment, and remand the case for further proceedings consistent with this opinion. On remand, the district court will have to determine whether the plaintiffs’ claims are governed by the laws of Pennsylvania or of Puerto Rico, and how the wrongful death and survival laws of those Commonwealths bear upon plaintiffs’ damages.
+I. FACTS, PROCEDURAL HISTORY, AND SCOPE OF THE INTERLOCUTORY APPEAL
+On July 6, 1989, while vacationing at Pal-mas Del Mar Resort, Humacao, Puerto Rico, Natalie Calhoun rented a Yamaha “Wave-jammer.” While she was riding the “Wave-jammer,” Natalie slammed into a vessel anchored in the waters off the hotel frontage and was killed. At the time of her death, Natalie was twelve years old. Her parents, Lucien and Robin Calhoun, individually and in their capacities as administrators for the estate of their daughter, sued Yamaha in the District Court for the Eastern District of Pennsylvania seeking recovery under the Pennsylvania wrongful death statute, 42 Pa. Cons.StatAnn. § 8301 (1982 & Supp.1994), and the Pennsylvania survival statute, 42 Pa. Cons.Stat.ANN. § 8302 (1982). Their complaint invoked federal jurisdiction both on the basis of diversity of citizenship, 
+28 U.S.C.A. § 1332
+ (West 1993),
+2
+ and admiralty, 
+28 U.S.C.A. § 1333
+ (West 1993). The theories of recovery alleged in the complaint included negligence, strict liability, and breach of the implied warranties of merchantability and fitness for purpose. The complaint sought damages for lost future earnings, loss of society, loss of support and services, and funeral expenses. It also requested punitive damages.
+On November 27,1991, Yamaha moved for partial summary judgment asserting that the damages recoverable in the action, if any, were governed by the federal admiralty law, and that under that law the plaintiffs were not entitled to lost future wages, loss of society, loss of support and services, or punitive damages.
+3
+. In its decision on the motion, the district court: (1) agreed with Yamaha that the federal common law of admiralty governed the Calhouns’ wrongful death and survival actions; (2) held that the general maritime wrongful death cause of action recognized in 
+Moragne v. States Marine Lines, Inc., 
+398 U.S. 375
+, 
+90 S.Ct. 1772
+, 
+26 L.Ed.2d 339
+ (1970), displaced the Pennsylvania wrongfid death and survival statutes and hence that any available remedy was a function of federal common law; and (3) held that under this federal common law remedy, lost future wages and punitive damages could not be awarded but loss of society and loss of support and services could be. The court therefore granted Yamaha’s motion for summary judgment on the loss of future earnings and punitive damages, and denied its motion respecting the claims for loss of society and loss of support and services.
+Yamaha moved the district court to certify for immediate interlocutory appeal, 
+28 U.S.C.A. § 1292
+(b) (West 1993), the question whether the plaintiffs should be able to recover damages for the loss of Natalie’s society. Believing that the question was extremely close, the district court granted the 
+*626
+motion and certified the issue to this court.
+4
+ Plaintiffs then requested that the district court amend its certification order to add the question whether future earnings and punitive damages were recoverable. The district court agreed, and certified the following question to this Court:
+The questions of law certified to the Court of Appeals are whether, pursuant to [a federal] maritime cause of action, plaintiffs may seek to recover (1) damages for the loss of the society of their deceased minor child, (2) damages for the loss of their child’s future earnings, and (3) punitive damages.
+Both parties petitioned for permission to appeal pursuant to Federal Rule of Appellate Procedure 5(a). We granted both petitions and consolidated the appeals. We have jurisdiction pursuant to 
+28 U.S.C.A. § 1292
+(b) (West 1993).
+The district court’s statement in the certification order is limited to the question of what damages are available under a 
+federal 
+maritime cause of action. On appeal, however, the parties have also (properly) briefed the question whether federal maritime law displaced state wrongful death and survival statutes. As will appear, the answer to the certified question, depends in large part on the resolution of the displacement question. We presume that the district court intended this important question of displacement to be considered. But even if such were not the case, it would not affect our jurisdiction.
+As provided in section 1292(b), we have before us an appeal from the challenged order, not just the certified question. Section 1292(b) requires not that we answer the certified question, but that we decide an appeal from, an interlocutory order. We therefore are not bound ■ by the district court’s formulation of the question, and may address any issue that is necessary to decide the appeal before us. 
+See In re School Asbestos Litigation, 
+789 F.2d 996
+ (3d Cir.1986). There, the district court certified for appeal an order certifying a compulsory class under Federal Rule of Civil Procedure 23(b)(1)(A) and (b)(1)(B), but after taking jurisdiction, we also reviewed the court’s denial of certification under Rule 23(b)(3). 
+Id. 
+at 1002
+; 
+see also Johnson v. Alldredge, 
+488 F.2d 820
+, 822-23 (3d Cir.1973) (stating that appeals court is not bound by district court’s statement of the issue on section 1292(b) appeal), 
+cert. denied, 
+419 U.S. 882
+, 
+95 S.Ct. 148
+, 
+42 L.Ed.2d 122
+ (1974); 9 Jambs W. MooRE et al„ MooRe’s Federal PRACTICE ¶ 110.25[1], at 300 (2d ed. 1994) (“[I]t is the 
+order 
+that is appealable, and not the controlling question identified by the district court. Thus, the court of appeals may address any issue necessary to decide the ease before it.”) (footnote omitted). The displacement question, which, in our view, is the critical question raised by this appeal, is therefore appropriately before us, and we turn immediately to it. The questions are ones of law and our review is plenary.
+II. ADMIRALTY LAW AND DISPLACEMENT OF STATE LAW: GENERAL PRINCIPLES
+As we have noted, the plaintiffs’ complaint alleged federal jurisdiction on the basis of both diversity of citizenship, 28 U.S.C.A § 1332 (West 1993), and admiralty, 
+28 U.S.C.A. § 1333
+ (West 1993).
+5
+ The Su
+*627
+preme Court has instructed us that “[w]ith admiralty jurisdiction comes the application of substantive admiralty law.” 
+East River S.S. Corp. v. Transamerica Delaval, 
+476 U.S. 858
+, 864, 
+106 S.Ct. 2295
+, 2298-99, 
+90 L.Ed.2d 865
+ (1986). But knowing that substantive admiralty law applies does not really resolve the question whether federal or state law provides the relevant rule of decision. “Although the corpus of admiralty law is federal in the sense that it derives from the implications of Article III evolved by the courts, to claim that all enforced rights pertaining to matters maritime are rooted in federal law is a destructive oversimplification of the highly intricate interplay of the States and the National Government.” 
+Romero v. International Terminal Operating Co., 
+358 U.S. 354
+, 373-75, 
+79 S.Ct. 468
+, 480, 
+3 L.Ed.2d 368
+ (1959); 
+see also American Dredging Co. v. Miller, 
+— U.S. -, -, 
+114 S.Ct. 981
+, 987, 
+127 L.Ed.2d 285
+ (1994) (recognizing the continued vitality of this principle from Romero).
+State and federal authorities jointly exercise regulatory authority over maritime matters. 
+Romero, 
+358 U.S. at 375
+, 
+79 S.Ct. at 481
+. As a result, state law can, and often does, provide the relevant rule of decision in admiralty cases. 
+See, e.g., Wilburn Boat Co. v. Fireman’s Fund Ins. Co., 
+348 U.S. 310
+, 321, 
+75 S.Ct. 368
+, 374, 
+99 L.Ed. 337
+ (1955) (state law determines the effect of breach of warranty in a marine insurance policy). Indeed, “[i]n the field of ... maritime torts, the National Government has left much regulatory power in the States.” 
+Id. 
+at 313, 
+75 S.Ct. at 370
+.
+Whether a state law may provide a rule of decision in an admiralty case depends on whether the state rule “conflicts” with the substantive principles of federal admiralty law. As Judge Aldisert explained in 
+Floyd v. Lykes Bros. Steamship Co., 
+844 F.2d 1044
+, 1047 (3d Cir.1988), “state law may supplement maritime law when maritime law is silent or where a local matter is at issue, but state law may not be applied where it would conflict with [federal] maritime law.” 
+See also Askew v. American Waterways Operators, Inc., 
+411 U.S. 325
+, 341, 
+93 S.Ct. 1590
+, 1600, 
+36 L.Ed.2d 280
+ (1973) (courts in admiralty cases may reach beyond maritime precedents and apply state law “absent a clear conflict with the federal law”); 
+Pope & Talbot, Inc. v. Hawn, 
+346 U.S. 406
+, 409-10, 
+74 S.Ct. 202
+, 205, 
+98 L.Ed. 143
+ (1953) (“[Sjtates may sometimes supplement federal maritime policies....”); 
+Sosebee v. Rath, 
+893 F.2d 54
+, 56-57 (3rd Cir.1990) (maritime law preempts territorial attorney fees provision that directly conflicts with federal law). Thus, in the context of this case, the Pennsylvania wrongful death and survival statutes (or the Puerto Rico death and survival actions) may apply unless they conflict with a substantive rule of federal admiralty law.
+We view this question as being quite similar, if not identical, to the preemption analysis articulated in 
+Clearfield Trust Co. v. United States, 
+318 U.S. 363
+, 
+63 S.Ct. 573
+, 
+87 L.Ed. 838
+ (1943), and its progeny, 
+see, e.g., United States v. Little Lake Misere Land Co., 
+412 U.S. 580
+, 594, 
+93 S.Ct. 2389
+, 2398, 
+37 L.Ed.2d 187
+ (1973); 
+United States v. Kimbell Foods, Inc., 
+440 U.S. 715
+, 728-29, 
+99 S.Ct. 1448
+, 1458-59, 
+59 L.Ed.2d 711
+ (1979); 
+Boyle v. United Technologies Corp., 
+487 U.S. 500
+, 507 n. 3, 
+108 S.Ct. 2510
+, 2516 n. 3, 
+101 L.Ed.2d 442
+ (1988); 
+O’Melveny & Myers v. F.D.I.C., 
+— U.S. -,-, 
+114 S.Ct. 2048
+, 2053, 
+129 L.Ed.2d 67
+ (1994). These cases recognize that there are areas of unique federal interest which are entirely governed by federal law, but where federal law nevertheless “borrows,” 
+see Little Lake Misere, 
+412 U.S. at 594
+, 93 S.Ct. at 2398, or “incorporates” or “adopts,” 
+see Kimbell Foods, 
+440 U.S. at 728-30
+, 
+99 S.Ct. at 1458-59
+, state law 
+*628
+except where a significant conflict with federal policy exists.
+While it is clear that under certain circumstances the general maritime law— including the wrongful death rule of 
+Morcugne 
+—may incorporate state law as its rule of decision, the Supreme Court has begun to view the distinction between federal law incorporating state law as a rule of decision and state law operating of its own force as of theoretical importance only. 
+See O’Melveny & Myers, 
+— U.S. at -, 114 S.Ct. at 2048 (“In any event, knowing whether ‘federal law governs’ in the 
+Kimbell Foods 
+sense — a sense which includes federal adoption of state-law rules — does not much advance the ball. The issue in the present case is whether the [state] rule of decision is to be applied ... or displaced, and if it 
+is 
+applied it is of only theoretical interest whether the basis for that application is [the state’s] sovereign power or federal adoption of [the state’s] disposition.”) (citation omitted). More precisely, although drawing such a distinction identifies the sovereign “power” being exercised, it does not have any real bearing on the practical question whether the state law rule of decision will apply or be displaced. 
+See id.
+6
+Thus, because it makes little practical difference as to whether the general maritime law has incorporated state law or whether state law provides a rule of decision of its own force, we simply refer to the problem as “displacement of state law.”
+7
+In admiralty law, determining whether federal maritime law conflicts with and thus displaces state law has proven to be extremely tricky. Although we are told time and again under maritime preemption doctrine that a conflict exists where state law prejudices the “characteristic features” of federal maritime law, or interferes with the “proper harmony and uniformity of that law,” 
+Southern Pac. Co. v. Jensen, 
+244 U.S. 205
+, 216, 
+37 S.Ct. 524
+, 529, 
+61 L.Ed. 1086
+ (1917), the 
+Jensen 
+language is little more than a convenient slogan, providing little guidance on the question whether there is a conflict. 
+See American Dredging, 
+— U.S. at -, 114 S.Ct. at 991 (Stevens, J., concurring) (“The unhelpful abstractness of [the 
+Jensen 
+language] leaves us without a reliable compass for navigating maritime pre-emption problems.”). Indeed, the lack of a clearly delineated conflicts inquiry in this area has been problematic. The Supreme Court has consistently struggled with setting the boundary between conflicting and non-conflicting state regulation in the area of maritime affairs, and has recently admitted,
+[i]t would be idle to pretend that the line separating permissible from impermissible state regulation is readily discernible in our admiralty jurisprudence, or indeed is even entirely consistent within our admiralty jurisprudence. Compare 
+[Kossick v. United Fruit Co., 
+365 U.S. 731
+, 
+81 S.Ct. 886
+, 
+6 L.Ed.2d 56
+ (1961) ] (state law cannot require provision of maritime contract to be in writing), with 
+Wilburn Boat Co. v. Fireman’s Fund Ins. Co., 
+348 U.S. 310
+, 
+75 S.Ct. 368
+, 
+99 L.Ed. 337
+ [ (1955) ] (state law can determine effect of breach of warranty in marine insurance policy).
+American Dredging, 
+— U.S. at -, 114 S.Ct. at 987-88 (parallel citation omitted). 
+See also 
+GRANT Gilmore & Charles L. 
+*629
+Black, The Law of AdmiRalty § 1-17, at 49 (2d ed. 1975) (“The concepts that have been fashioned for drawing [the line between state and federal law] are too vague, as we have seen, to ensure either predictability or wisdom in the line’s actual drawing.”).
+In our view, however, the maritime preemption doctrine is not significantly different from the preemption doctrine applicable to non-maritime contexts. 
+See American Dredging, 
+— U.S. at -, 114 S.Ct. at 992 (Stevens, J., concurring); 
+Wilburn Boat Co., 
+348 U.S. at 324
+, 
+75 S.Ct. at 376
+ (Frankfurter, J., concurring) (maritime preemption analysis factors “are not unlike those involved when the question is whether a State, in the absence of congressional action, may regulate some matters even though aspects of interstate commerce are affected”); 
+id. 
+at 333
+, 
+75 S.Ct. at 381
+ (Reed, J., dissenting) (“Since Congress has power to make federal jurisdiction and legislation exclusive, the [preemption] situation in admiralty is somewhat analogous to that governing state action interfering with interstate commerce.”). Therefore, resort to non-maritime preemption doctrine by way of analogy may help sharpen the focus of the inquiry.
+8
+Stated succinctly, in the absence of an express statement by Congress (express preemption), (implied) preemption could occur either where Congress intended that federal law occupy the field (field preemption) or where there is an actual conflict between state and federal law such that; (1) compliance with both federal and state law is impossible; or (2) state law stands as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress. 
+See California v. ARC America Corp., 
+490 U.S. 93
+, 100-01, 
+109 S.Ct. 1661
+, 1665, 
+104 L.Ed.2d 86
+ (1989) (antitrust).
+9
+In non-maritime cases, the determination whether there is a conflict between state and federal law in large part turns on 
+*630
+the interpretation of federal statutes. 
+See Wallis v. Pan American Petroleum Corp., 
+384 U.S. 63
+, 68, 
+86 S.Ct. 1301
+, 1304, 
+16 L.Ed.2d 369
+ (1966) (“Whether latent federal power should be exercised to displace state law is primarily a decision for Congress.”).
+10
+ In addition, non-maritime eases employ a presumption against preemption. That is, a court should construe a federal substantive rule in such a way that it does not conflict with a state rule in an area traditionally regulated by the states. 
+See ARC America, 
+490 U.S. at 102
+, 
+109 S.Ct. at 1666
+. In admiralty law a similar presumption is incorporated in the case law by the requirement that there be a “clear conflict” before state laws are preempted. 
+See Askew, 
+411 U.S. at 341
+, 93 S.Ct. at 1600; 
+cf. Ballard Shipping v. Beach Shellfish, 
+32 F.3d 623
+, 630 (1st Cir.1994) (stating that where a state remedy is aimed at a “great and legitimate state concern,” a federal court must act with caution before finding displacement of state law).
+In light of these general principles, the question in this case — whether state statutory remedies can provide the rule of decision when a recreational boater is killed in territorial waters — largely reduces to an inquiry into whether the different substantive admiralty rules articulated in federal statutes and at common law would be frustrated by the application of state law. 
+Pope & Talbot, Inc., 
+346 U.S. at 410
+, 
+74 S.Ct. at 205
+ (“[A] state may not deprive a person of any substantial admiralty right as defined in controlling acts of Congress or by interpretative decisions of this Court.”); 
+Wilburn Boat Co., 
+348 U.S. at 332
+, 
+75 S.Ct. at 381
+ (Reed, J., dissenting) (“State power may be exercised where it is complementary to the general admiralty law. It may not be exercised where it would have the effect of harming any necessary or desirable uniformity.”); 
+Offshore Logistics, Inc. v. Tallentire, 
+477 
+U.S. 207
+, 228, 
+106 S.Ct. 2485
+, 2497, 
+91 L.Ed.2d 174
+ (1986) (“[W]here Congress had spoken, or where general federal maritime law controlled, the States exercising concurrent jurisdiction over maritime matters could not apply conflicting state substantive law.”).
+But before determining whether the substantive federal policies concerning maritime deaths would be frustrated, it is important to know what policies have, and have not, been articulated. This requires some understanding of the history behind the development of federal remedies for maritime deaths. Although the “tortuous development”
+11
+ of the federal remedies for maritime deaths is familiar to many, and has been amply described elsewhere in the case law,
+12
+ it is essential background, and so we will describe at least the major developments.
+III. THE RELEVANT FEDERAL LAW
+A EARLIER BACKGROUND: FROM 
+THE HARRISBURG 
+TO 
+MORAGNE
+In 1886, the Supreme Court held in 
+The Harrisburg, 
+119 U.S. 199
+, 
+7 S.Ct. 140
+, 
+30 L.Ed. 358
+ that in the absence of an applicable state or federal statute, the general maritime law did not afford a wrongful death cause of action to the survivors of individuals killed on the high seas, or waters navigable 
+*631
+from the sea. The harshness of this rule prompted reaction from the federal judiciary and from Congress. District and appeals courts began to allow recovery for deaths within state territorial waters where the state had an applicable wrongful death statute. 
+See Tallentire, 
+477 U.S. at 212
+, 106 S.Ct. at 2489.
+13
+ The Supreme Court held in 
+The Hamilton, 
+207 U.S. 398
+, 
+28 S.Ct. 133
+, 
+52 L.Ed. 264
+ (1907), that state wrongful death statutes could, in limited circumstances, be applied to fatal accidents occurring on the high seas.
+14
+ Most importantly, Congress, in 1920, enacted (1) the Death on the High Seas Act (“DOHSA”) which provided a federal wrongful death remedy for survivors of all persons, seamen and non-seamen, killed on the high seas, 46 U.S.C.A.App. §§ 761-768 (West 1975 & Supp.1994), and (2) the Jones Act, which gives, among other things, a remedy for the wrongful death of a seaman resulting from a personal injury suffered during the course of the seaman’s employment, 46 U.S.CA.App. § 688 (West 1975 & Supp.1994).
+These developments, particularly the enactment of DOHSA and the Jones Act, ensured that a wrongful death remedy would be available for most people killed in maritime accidents. Thus, between 1920 and 1970, deaths on the high seas were remedied by DOHSA, deaths in territorial waters were remedied by state wrongful death statutes, and deaths of seamen (whether on the high seas or in territorial waters) were remedied by the Jones Act. 
+The Harrisburg, 
+however, remained troublesome. Part of the trouble stemmed from the development'of different theories of recovery for maritime deaths. Explanation of this difficulty requires reference to the two basic theories on which a seaman can recover for personal injuries.
+First, the seaman can claim that the shipowner or some other potentially liable party was negligent; that is the basis for recovery under the Jones Act. Second, the seaman can claim that the vessel was unseaworthy. The doctrine of unseaworthiness basically imposes on a shipowner a nondelegable duty to provide seamen a vessel that is reasonably fit for its purpose;
+15
+ it is a “species of liability without fault.” 
+Seas Shipping Co. v. Sieracki 
+328 U.S. 85
+, 94-95, 
+66 S.Ct. 872
+, 877, 
+90 L.Ed. 1099
+ (1946).
+16
+The Harrisburg, 
+however, sharply limited the operation of the doctrine of unseaworthiness when a seaman was killed (as opposed to just being injured) within territorial waters, in the following manner.
+Under 
+The Harrisburg 
+there was no right to recover for wrongful death under federal maritime law, either on a negligence theory 
+*632
+or on an unseaworthiness theory. Although DOHSA allowed recovery based on unseaworthiness for deaths outside the three-mile territorial limit, DOHSA did not apply to injuries within territorial waters. This meant that a seaman’s survivors could not take advantage of the unseaworthiness doctrine when the seaman was killed in territorial waters unless a state statute allowed recovery based on such a theory. ■ And although some state statutes did, 
+see The Tungus v. Skovgaard, 
+358 U.S. 588
+, 
+79 S.Ct. 503
+, 
+3 L.Ed.2d 524
+ (1959) (allowing wrongful death action based on the doctrine of unseaworthiness because New Jersey wrongful death statute was construed to allow such a theory), some did not, 
+see Moragne v. State Marine Lines, 
+211 So.2d 161
+, 166 (Fla.1968) (holding that Florida wrongful death statute did not allow recovery for unseaworthiness).
+The Harrisburg 
+also created a 
+complete 
+bar to recovery for unseaworthiness for “Jones Act seamen” killed in territorial waters when it was combined with 
+Lindgren v. United States, 
+281 U.S. 38
+, 
+50 S.Ct. 207
+, 
+74 L.Ed. 686
+ (1930), and 
+Gillespie v. United States Steel Corp., 
+379 U.S. 148
+, 
+85 S.Ct. 308
+, 
+13 L.Ed.2d 199
+ (1964).
+17
+Lindgren 
+and 
+Gillespie 
+held that the Jones Act was the exclusive wrongful death remedy for seamen and could not be supplemented by state wrongful death actions.
+18
+ The result was that, since the Jones Act allowed recovery only on the basis of negligence, the doctrine of unseaworthiness was of no aid to a Jones Act seaman who was killed within territorial waters. 
+See Kernan v. American Dredging Co., 
+355 U.S. 426
+, 428-30, 
+78 S.Ct. 394
+, 396-97, 
+2 L.Ed.2d 382
+ (1958).
+The combination of 
+The Harrisburg, Lindgren, 
+and 
+Gillespie 
+created disarray in the field of remedies for wrongful death of seamen, and led to three “anomalies” or “incongruities” in admiralty law that eventually made the regime intolerable.
+19
+ “First, in territorial waters, general maritime law allowed a remedy for unseaworthiness resulting in injury, but not for death.” 
+Miles v. Apex Marine Corp., 
+498 U.S. 19
+, 26, 
+111 S.Ct. 317
+, 322, 
+112 L.Ed.2d 275
+ (1990). Second, survivors of seamen killed outside the three-mile territorial limit could pursue a wrongful death action based on unseaworthiness, while survivors of those killed inside territorial waters could not, unless a state wrongful death statute allowed recovery based on unseaworthiness. 
+Moragne, 
+398 U.S. at 395
+, 
+90 S.Ct. at 1785
+. Third, survivors of a 
+“Sieracki 
+-seaman,” 
+see supra 
+at n. 16, could recover for a death within territorial waters under applicable state statutes, while survivors of a Jones Act seaman (a “true” seaman) could not. 
+Moragne, 
+398 U.S. at 395-96
+, 
+90 S.Ct. at 1785
+.
+In 1970 the Supreme Court decided that enough was enough, and in 
+Moragne v. States Marine Lines, Inc., 
+398 U.S. 375
+, 
+90 S.Ct. 1772
+, 
+26 L.Ed.2d 339
+ (1970), the Court overruled 
+The Harrisburg 
+and recognized a general maritime wrongful death cause of action under federal common law. 
+Id. 
+at 378
+, 
+90 S.Ct. at 1776
+. 
+Moragne 
+was, by all accounts, a landmark case. Although its specific holding merely created a general maritime wrongful death remedy based on the doctrine of unseaworthiness, it has since been interpreted as creating a wrongful death remedy based on negligence. 
+See 
+Gilmore & BlaCK § 6-33, at 368 (“The remedy provides recovery for deaths caused by negligence as well as for deaths caused by unseaworthiness ....”); 
+Miles v. Melrose, 
+882 F.2d 976
+, 985 (5th Cir.1989), 
+aff'd sub nom. Miles v. Apex Marine Corp., 
+498 U.S. 19
+, 
+111 S.Ct. 317
+, 
+112 L.Ed.2d 275
+ (1990).
+20
+Moragne 
+has, 
+*633
+of course, been the focus of detailed analysis and description in the case law and commentaries, which we need not repeat here. It is important, however, to point out that, to justify creating the general maritime wrongful death remedy, the Court invoked the need for “uniform vindication of federal policies,” 
+21
+ and the “humane and liberal character of proceedings in admiralty.”
+22
+One aspect of 
+Moragne 
+—a jurisprudential one — must however be related in some detail. 
+Moragne 
+brought to the fore the importance of federal statutory remedies in determining the appropriate shape of the general maritime law. At the time 
+Moragne 
+was decided, DOHSA and the Jones Act both provided wrongful death remedies in admiralty. The existence of these statutory schemes left it unclear whether a court could create a federal common law rule in the area. Although DOHSA and the Jones Act reflected a strong public policy favoring survivors’ recovery for wrongful deaths, at the same time they also may have represented a considered legislative judgment that wrongful death remedies should go no further than those provided for by statute.
+The undertaking in 
+Moragne, 
+in large part, was to determine whether the existing statutory remedies were to place a ceiling or a floor on available remedies for wrongful death. After searching the federal legislation and the case law, the 
+Moragne 
+court concluded that “Congress [had] given no affirmative indication of an intent to preclude the judicial allowance of a remedy for wrongful death to persons in the situation of [the] petitioner.” 
+Moragne, 
+398 U.S. at 393
+, 
+90 S.Ct. at 1784
+. In the absence of such an affirmative indication from Congress, the Court believed it appropriate to recognize a general maritime wrongful death cause of action. As we detail below, this aspect of 
+Moragne 
+—the importance of federal statutory schemes in shaping non-statutory remedies — has been particularly far reaching in the Court’s wrongful death jurisprudence since 
+Moragne.
+B. THE POST-MORAGNE CASES: 
+GAUDET, HIGGINBOTHAM, ■ TALLENTIRE, 
+AND 
+MILES
+Four 
+post-Moragne 
+decisions are particularly important to our decision: 
+Sea-Land Services, Inc. v. Gaudet, 
+414 U.S. 573
+, 
+94 S.Ct. 806
+, 
+39 L.Ed.2d 9
+ (1974); 
+Mobil Oil Corp. v. Higginbotham, 
+436 U.S. 618
+, 
+98 S.Ct. 2010
+, 
+56 L.Ed.2d 581
+ (1978); 
+Offshore Logistics, Inc. v. Tallentire, 
+477 U.S. 207
+, 
+106 S.Ct. 2485
+, 
+91 L.Ed.2d 174
+ (1986); and 
+Miles v. Apex Marine Corp., 
+498 U.S. 19
+, 
+111 S.Ct. 317
+, 
+112 L.Ed.2d 275
+ (1990). These eases have further refined the federal maritime cause of action recognized in 
+Moragne 
+and provide some outline of the legal architecture for maritime death claims. But although they adumbrate the domains in which federal statutory, federal common law, and state statutory remedies operate to provide a rule of decision in maritime death cases, a brief survey of these decisions shows that significant areas of uncertainty remain.
+1. GAUDET
+Gaudet 
+addressed the types of damages available for a longshoreman killed in territorial waters, 
+414 U.S. at 573
+, 
+94 S.Ct. at 806
+, and concluded that damages for loss of society were available. 
+Id. 
+at 587-88
+, 
+94 S.Ct. at 816
+. Although recognizing that DOHSA did not compensate for nonpeeuniary losses, 
+id.
+at 588 n. 22, 
+94 S.Ct. at 
+816 n. 22, the Court studiously ignored the example of DOHSA and followed the “humanitarian policy of the 
+*634
+maritime law” that favored recovery for loss of society. 
+Id. 
+at 588
+, 
+94 S.Ct. at 816
+. Three aspects of 
+Gaudet 
+are worth mentioning. First, the decision recognizes damages for loss of society as being available in a general maritime wrongful death action. 
+Id. 
+at 587
+, 
+94 S.Ct. at 816
+. Second, on its face, 
+Gaudet 
+appears to approve of the application of state statutes in maritime death cases.
+23
+See 
+id. 
+at 587-88
+, 
+94 S.Ct. at 816
+. Third, and perhaps most important, 
+Gaudet 
+(together with its offspring, 
+American Export Lines, Inc. v. Alvez, 
+446 U.S. 274
+, 
+100 S.Ct. 1673
+, 
+64 L.Ed.2d 284
+ (1980)) represents the first, and last, time that the Court departed from the guidance of federal statutory wrongful death remedies in shaping recovery for wrongful death.
+24
+Cf. Gaudet, 
+414 U.S. at 601-02, 605
+, 
+94 S.Ct. at 823, 825
+ (Powell, J., dissenting). Indeed, since 
+Gaudet, 
+the Court, disapproving of that decision but reluctant to overrule it directly, has narrowed the ease to its facts so that the decision may be, for all intents and purposes, a dead letter. 
+See Miller v. American President Lines, 
+989 F.2d 1450
+, 1458 (6th Cir.1993) (“Although 
+Gaudet 
+has never been overruled, its holding has been limited over the years to the point that it is virtually meaningless.”), 
+cert. denied, 
+— U.S. -, 
+114 S.Ct. 304
+, 
+126 L.Ed.2d 252
+ (1993).
+2. HIGGINBOTHAM
+In 
+Higginbotham, 
+436 U.S. at 618
+, 
+98 S.Ct. at 2010
+, the Court addressed the question whether survivors of a person killed on the high seas were entitled to recover damages under federal maritime law in addition to the damages available under DOHSA. Of particular interest to the Court was whether the loss of society damages recognized in 
+Gaudet 
+were available where the death occurred on the high seas notwithstanding the fact that DOHSA itself did not allow for loss of society damages. The Court’s answer was “no.” The reasoning of 
+Higginbotham 
+was straightforward: Congress had specifically spoken to the issue of damages in DOHSA and provided damages only for pecuniary losses, and it was not open to the Court to authorize supplementary relief that went beyond that authorized by Congress. 
+Id. 
+at 626
+, 
+98 S.Ct. at 2015
+. Although not explicit in the decision, 
+Higginbotham 
+drew its inspiration directly from the statutory analysis in 
+Moragne 
+that we have identified above.
+25
+ The only difference between the analysis in 
+Moragne 
+and that in 
+Higginbotham 
+is that while 
+Moragne 
+saw a gap in the statutory scheme, 
+Higginbotham 
+saw none. 
+See 
+id. 
+at 625
+, 
+98 S.Ct. at 2015
+.
+3. TALLENTIRE
+Eight years later came 
+Tallentire, 
+477 U.S. at 207
+, 106 S.Ct. at 2485, which involved a claim for damages for a death on the high seas. This time the question was whether remedies available under a state wrongful death action could supplement the remedies available under DOHSA. The Court again said “no,” holding that the Louisiana wrongful death statute (which allowed recovery for loss of society) could not apply to a claim governed by DOHSA. 
+Id. 
+at 233, 106 S.Ct. at 2499. Again, the analysis had been foreshadowed by 
+Moragne 
+and 
+Higginbotham: 
+Congress had spoken directly to the question 
+*635
+of damages for deaths on the high seas in DOHSA, and the Court was not free to supplement the statutory scheme (with a state law remedy).
+The main battle in 
+Tallentire, 
+however, was not over the 
+applicability 
+of the 
+Higginbotham 
+mode of analysis to a state wrongful death statute;
+26
+ rather, the principal dispute was over the 
+construction 
+of section 7 of DOHSA, which provided in pertinent part that
+[t]he provisions of any State statute giving or regulating rights of action or remedies for death shall not be affected by this chapter.
+46 U.S.C.A § 767 (West 1976). A circuit split existed on the question whether this section preserved the operation of state wrongful death statutes for deaths on the high seas. In a 5-4 decision, the Court held that the clause was nothing more than a jurisdictional savings clause which preserved the rights of state courts to “entertain causes of action and provide wrongful death remedies both for accidents arising on territorial waters and, under DOHSA, for accidents occurring more than one marine league from shore.” 
+Tallentire, 
+477 U.S. at 221
+, 106 S.Ct. at 2493.
+Although the Court justified its result in part by stressing the advantage of having a uniform remedy for deaths on the high seas, 
+see id. 
+at 230-31, 106 S.Ct. at 2498-99, the Court’s reasoning was ultimately grounded on its interpretation of the legislative history of section 7 of DOHSA In surveying the legislative history of DOHSA, the Court stated that section 7 was included in the act in order to save state remedies within territorial waters. According to the Court, “[t]he reach of DOHSA’s substantive provisions was explicitly limited to actions arising from accidents on the high seas, so as to ‘prevent the Act from abrogating by its own force, the state remedies then available in state waters.’ ” 
+Id. 
+at 224, 106 S.Ct. at 2495 (quoting 
+Higginbotham, 
+436 U.S. at 621-22
+, 
+98 S.Ct. at 2013
+) (internal citation omitted). It concluded that
+because DOHSA by its terms extended only to the high seas and therefore was thought not to displace these state remedies on territorial waters, [see 
+Moragne 
+], § 7, as originally proposed, ensured that the Act saved to survivors of those killed on territorial waters the ability to pursue a state wrongful death remedy in state court.
+Id. 
+at 224-25, 106 S.Ct. at 2495. According to one treatise the implication of the Court’s decision in 
+Tallentire 
+is that although survivors of a person killed on the high seas may seek only the limited recovery provided by DOHSA, “[i]f the same accident occurs within a marine league from shore, where [DOH-SA] has no effect, the survivors can recover damages under the state wrongful death statute, including, when provided, reimbursement for non-economic losses.” 14 CHARLES A. WRIGHT ET AL., FEDERAL PRACTICE AND PROCEDURE § 3672, at 295 (Supp.1994).
+U. MILES
+The latest case in the Court’s maritime wrongful death jurisprudence is 
+Miles, 
+498 U.S. at 19
+, 
+111 S.Ct. at 317
+. In 
+Miles, 
+.the mother of a Jones Act seaman killed in territorial waters pressed a 
+Moragne 
+cause of action based on the doctrine of unseaworthiness. The Court considered two issues: first, whether the Jones Act provided the exclusive measure of remedies for the death of a Jones Act seaman where recovery was premised on the 
+Moragne 
+cause of action, and second, whether a general maritime survival action recognized loss of future earnings for a Jones Act seaman. The Court held that the Jones Act damages were the exclusive measure of damages allowed to a Jones Act seaman, regardless of whether the claim was based on 
+Moragne; 
+it then held that the Jones Act damages controlled any recovery based on a general maritime survival action for the death of a Jones Act seaman, and that since the Jones Act did not allow recovery for future earnings, they were not recoverable under 
+Moragne. 
+Id. 
+at 32-33, 36
+, 
+111 S.Ct. at 326, 328
+.
+Miles 
+reflects the preeminence that the 
+Moragne 
+statutory analysis has achieved in 
+*636
+shaping wrongful death remedies. By the time of 
+Miles, 
+the entire inquiry into remedies for deaths has been reoriented into an inquiry into what the relevant statutes had stated.
+We have described 
+Moragne 
+at length because it exemplifies the fundamental principles that guide our decision in this case. We no longer live in an era when seamen and their loved ones must look primarily to the courts as a source of substantive legal protection from injury and death; Congress and the States have legislated extensively in these areas. In this era, an admiralty court should look primarily to these legislative enactments for policy guidance.
+Id. 
+at 27
+, 
+111 S.Ct. at 323
+. But importantly for this appeal, 
+Miles 
+showed no great hostility to the operation of state statutes in providing rules of decision in admiralty cases.
+The passage quoted above hints that state statutory schemes have a role to play in admiralty cases. Such a role received fuller articulation later in the 
+Miles 
+opinion, where the Court discussed the question whether a general maritime survival action existed. Although it ultimately declined to address the issue, the Court’s discussion seemed to sanction some lower courts’ practice of applying state survival statutes to deaths at sea. 
+Id. 
+at 33-34
+, 
+111 S.Ct. at 326
+ (“Most States have survival statutes applicable to tort actions generally, and admiralty courts have applied these state statutes in many instances to preserve suits for injury at sea. Where these state statutes do not apply, however, or where there is no state survival statute, there is no survival of unseaworthiness claims absent a change in the traditional maritime rule.”) (internal citations and footnote omitted).
+5. EMERGING TRENDS
+Although the trend in the 
+post-Moragne 
+case law can be explained by reference to the rise in the importance of federal statutory schemes in shaping maritime remedies, it would be myopic not to recognize the other forces at work. One trend that cannot be ignored is that the Court seems to be cutting back on plaintiffs’ rights in maritime actions. Throughout the 1950s and 1960s, the Supreme Court expanded the rights of plaintiffs by generally allowing plaintiffs the benefit of whichever rule, state or federal, was more favorable to recovery. 
+See 
+Gilmore & Black § 6-61, at 463-68. 
+Moragne 
+— or perhaps 
+Gaudet
+—represented the apex of the Court’s policy of expanding plaintiffs’ rights in admiralty actions. 
+Higginbotham, Tallentire, 
+and 
+Miles, 
+in contrast, show a tendency on the part of the Court during the last two decades to reverse its policy of favoring seamen plaintiffs.
+A second trend is the weakness with which the principle of uniformity, i.e., the notion that 
+Moragne 
+initiated a trend in the case law to make recovery for maritime deaths more uniform — which permeates the rhetoric of the case law — has actually been applied in these cases. For, although the cases often mention uniformity as a guiding principle, the Court’s actions belie its importance. 
+Higginbotham, 
+for example, quite consciously created an anomaly (the unavailability of non-pecuniary damages for wrongful death at high sea where such damages were available to longshoremen killed in territorial waters), stating'that “a desire for uniformity cannot override the statute [DOHSA],” 
+436 U.S. at 624
+, 
+98 S.Ct. at 2014
+. Similarly, 
+Tallentire 
+rejected a rule that would make DOHSA recoveries consistent with those available under 
+Moragne 
+for deaths on territorial waters. 
+See Tallentire, 
+477 U.S. at 233
+, 106 S.Ct. at 2499-500. And 
+Miles 
+viewed the variety of survival actions under state law without alarm, declining to fashion a uniform federal rule on the matter that would cover all plaintiffs. 
+See 
+498 U.S. at 34
+, 
+111 S.Ct. at 326-27
+.
+27
+ We believe that the thrust of these cases suggests that the concept of uniformity has a good deal less weight than has been thought, 
+see also Sutton v. Earles, 
+26 F.3d 903
+, 917 (9th Cir.1994) (invoking 
+Gaudet 
+and 
+Higginbotham 
+to reject uniformity argument untethered to statute), and that it has significance to the extent that it aids in the “vindi
+*637
+cation of federal policies,” 
+Moragne, 
+398 U.S. at 401
+, 
+90 S.Ct. at 1788
+.
+C. WRONGFUL DEATH VS. SURVIVAL ACTIONS IN THE SCHEMA
+We have discussed this case law at such length because a thorough understanding of it is critical to our analysis of the issue presented here. Before we turn to that analysis, however, we must identify another aspect of the legal background that often appears to be glossed over in the case law of maritime deaths. Throughout the previous discussion of the case law, reference has been made to wrongful death actions and to survival actions. Although they are often lumped together without any distinction, 
+see Wahlstrom v. Kawasaki Heavy Indus., Ltd., 
+4 F.3d 1084
+, 1093 (2d Cir.1993) (where plaintiffs treated as a single action a claim for “wrongful death and survivorship benefits”), they are, in fact, quite distinct. 
+See, e.g., Gaudet, 
+414 U.S. at 
+575 n. 2, 
+94 S.Ct. at 
+810 n. 2 (distinguishing wrongful death statutes from survival statutes).
+A wrongful death cause of action belongs to the decedent’s dependents (or closest kin in the case of the death of a minor). It allows the beneficiaries to recover for the harm that 
+they 
+personally suffered as a result of the death, and it is totally independent of any cause of action the decedent may have had for his or her own personal injuries. Damages are determined by what the beneficiaries would have “received” from the decedent and can include recovery for pecuniary losses like lost monetary support, and for non-pecuniary losses like loss of society. 2 BENEDICT ON ADMIRALTY § 81(a), at 7-2. A survival action, in contrast, belongs to the estate of the deceased (although it is usually brought by the deceased’s relatives acting in a representative capacity) and allows recovery for the injury to the 
+deceased 
+from the action causing death. Under a survival action, the decedent’s representative recovers for the decedent’s pain and suffering, medical expenses, lost earnings (both past and future), and funeral expenses. 
+Id.
+The Jones Act (by incorporating the FELA) contains both a wrongful death provision and a survival provision. 
+Gaudet, 
+414 U.S. at 
+575 n. 2, 576, 
+94 S.Ct. at 
+810 & n. 2. DOHSA contains a wrongful death provision, but does not contain a survival provision. 
+Id.
+General maritime law contains a wrongful death action by way of 
+Moragne, 
+but the Supreme Court has not recognized a survival action. As was mentioned above, both 
+Tallentire 
+and 
+Miles 
+have stressed that there is as yet no clear federal rule on the extent to which state survival remedies are available under DOHSA or 
+Moragne. See Miles, 
+498 U.S. at 
+33-34 & n. 2, 
+111 S.Ct. at 
+326-27 & n. 2; 
+Tallentire, 
+477 U.S. at 
+215 n. 1, 106 S.Ct. at 2490 n. 1 (declining to approve or disapprove of the application of state survival statutes to cases involving deaths on the high seas).
+With this distinction in mind, we now turn to the question whether state wrongful death and survival statutes conflict with the principles articulated in the 
+post-Moragne 
+line of cases.
+IV. CHOICE OF LAW ANALYSIS
+As our previous analysis has shown, there is no federal rule, either statutory or at common law, that explicitly precludes the operation of state wrongful death or survival statutes in cases involving recreational boaters killed in territorial waters. DOHSA applies only to deaths on the high seas. The Jones Act applies only to seamen. And no Supreme Court case has explicitly held that 
+Moragne 
+displaces state wrongful death or survival remedies for non-seamen killed in territorial waters. Of course, federal law still should displace the state wrongful death and survival statutes if such statutes stand as obstacles to the accomplishment and execu
+*638
+tion of the clearly expressed policies of federal maritime law. It appears, however, that neither state survival statutes nor wrongful death statutes stand as such obstacles.
+A 
+SURVIVAL STATUTES
+The question whether federal maritime law displaces state survival statutes in the context of recreational boaters killed in territorial waters need not detain us long. As we have explained above, there does not appear to be any substantive federal policy addressing survival actions for non-seamen. Although DOHSA does not contain a survival provision, its absence does not show that Congress expressed an “affirmative indication of an intent to preclude,” 
+see Moragne, 
+398 U.S. at 393
+, 
+90 S.Ct. at 1784
+, state survival statutes from operating in territorial waters for, as 
+Tallentire 
+tells us, Congress specifically limited the reach of DOHSA “ ‘so as to prevent the Act from abrogating by its own force the state remedies then available in state waters.’” 
+Tallentire, 
+477 U.S. at 224
+, 106 S.Ct. at 2495 (quoting 
+Higginbotham, 
+436 U.S. at 621-22
+, 
+98 S.Ct. at 2013
+).
+28
+Moreover, although 
+Moragne 
+does not recognize a survival action, we do not believe that the Court’s 
+gost-Moragne 
+case law reflects any intent to preclude survival actions based on state law. Quite the contrary, in its discussion of the possible existence of a general maritime survival remedy in 
+Miles, 
+the Court seemed to endorse (or at least not preclude) the practice of applying state survival statutes for deaths occurring within territorial waters. 
+See 
+498 U.S. at 33-34
+, 
+111 S.Ct. at 326
+.
+In light of this case law, we hold that federal admiralty law, as articulated both by statute and by the federal common law, does not preempt the application of state survival statutes for deaths of recreational boaters (non-seamen) within territorial waters.
+29
+ Such a holding, we believe, is the one most consistent with federal/state conflict of law principles, particularly the presumption against preemption. 
+See supra 
+at 629-30. In our view, a holding contrary to the one we reach would require the conclusion that federal admiralty law conflicts with state law in an area where 
+neither 
+Congress 
+nor 
+admiralty law has provided any rule of decision. Such a holding would ignore traditional conflicts principles.
+We also believe that our result is not inconsistent with the holding in 
+Miles 
+that future earnings, one of the major components of survival damages, are not available to a Jones Act seaman. Unlike DOHSA, the Jones Act does provide for a survival action, and under the Jones Act, recovery on a survival action is limited to losses suffered during the decedent’s lifetime. See 
+45 U.S.C.A. § 59
+ (West 1986); 
+Miles, 
+498 U.S. at 35
+, 
+111 S.Ct. at 327
+. As 
+Miles 
+recognized, 
+Congress 
+made the decision in the Jones Act to place a limit on a seaman’s recovery, and hence the Supreme Court should not disregard “Congress’ ordered system of recovery,” 
+id. 
+at 36
+, 
+111 S.Ct. at 328
+, by supplementing recovery, even if forceful policy arguments favored recovery of future earnings, 
+id. 
+at 35-36
+, 
+111 S.Ct. at 327
+ (“There are indeed strong policy arguments for allowing [recovery of future earnings].”).
+But the Jones Act applies only to seamen. And Yamaha has not demonstrated that Congress intended the limitation on damages in the Jones Act to extend beyond seamen. By its terms, the act is strictly limited to a certain class of plaintiffs. We believe that a 
+*639
+state statute allowing recovery of future earnings would not be plainly inconsistent with the federal law, nor would it frustrate Congress’ scheme of compensation for seamen, when it is applied to people who fall outside the scope of the congressionally mandated recovery scheme for maritime injuries and death.
+30
+See also Garner v. Dravo Basic Materials Co., 
+768 F.Supp. 192
+, 195 (S.D.W.Va.1991) (holding that 
+Miles 
+does not preclude loss of future earnings in death of a non-seaman because Jones Act does not extend to non-seamen).
+31
+ In sum, we hold that general maritime law does not preempt state law survival statutes in survival actions based on the death of a nonseaman in territorial waters, and that such statutes consequently govern the instant case. We turn therefore to the question whether the federal maritime law displaces state wrongful death remedies.
+B. WRONGFUL DEATH STATUTES
+Whether federal admiralty law preempts state wrongful death statutes from applying to accidents to non-seamen in territorial waters presents a more difficult inquiry. 
+Moragne 
+apparently creates a federal wrongful death remedy that applies to non-seamen in territorial waters.
+32
+ Yamaha argues that 
+Moragne 
+therefore displaces state ■ wrongful death statutes. But although we know that 
+Moragne 
+provides a wrongful death remedy, the precise contours of that remedy are not yet fully defined.
+33
+ Unless applying state law would be inconsistent with, or would frustrate the operation of, a particular federal maritime rule of decision in 
+*640
+this area, 
+Moragne 
+should not displace state law rules of decision for deaths of non-seamen in territorial waters.
+34
+Yamaha’s argument that 
+Moragne 
+displaces all state wrongful death statutes as rules of decision is fairly straightforward: Both DOHSA and the Jones Act preempt state wrongful death statutes, so why shouldn’t 
+Moragne?
+35
+This argument, at least on its face, is seductive. 
+Tallentire, Higginbotham, 
+and 
+Miles 
+are to at least a certain extent the lineal descendants of 
+Jensen, 
+which introduced the importance of “uniformity” in admiralty law and stressed the preeminence of federal maritime law over state law rules of decision. 
+See Jensen, 
+244 U.S. at 216
+, 
+37 S.Ct. at 529
+.
+36
+*641
+But unlike the situations in 
+Tallentire, Higginbotham, 
+and 
+Miles, 
+each of which im-plieated clearly articulated federal statutory schemes, the 
+Moragne 
+cause of action in this context reflects anything but a clearly articulated scheme. Not only has Congress said nothing about the applicability of particular remedies, but the Court’s common law has not either. And since 
+Moragne 
+explicitly left open a number of questions about remedies, application of state remedies remains permissible to the extent they do not conflict with whatever settled principles exist.
+37
+ This proposition is true whether state laws operate to plaintiffs’ or defendants’ benefit. 
+See, e.g., Brockington v. Certified Elec., Inc., 
+903 F.2d 1523
+, 1528-33 (11th Cir.1990) (per cu-riam) (applying exclusivity provisions of Georgia Worker’s Compensation Act to 
+exclude 
+additional recovery under general federal maritime law to nonmaritime worker injured within territorial waters), 
+cert. denied, 
+498 U.S. 1026
+, 
+111 S.Ct. 676
+, 
+112 L.Ed.2d 668
+ (1991).
+Prior to 
+Moragne, 
+it was well established that state wrongful death statutes could ap-pty to maritime deaths occurring in territorial waters. 
+Lindgren, 
+281 U.S. at 43-44
+, 
+50 S.Ct. at 210
+ (“[Before the Jones Act], in the absence of any legislation by Congress, ... where a seaman’s death resulted from a maritime tort on navigable waters within a State whose statutes gave a right of action on account of death by wrongful act, the admiralty courts could entertain a libel in person-am for the damages sustained by those to whom .such right was given.”);
+38
+Garrett v. Moore-McCormack Co., 
+317 U.S. 239
+, 245, 
+63 S.Ct. 246
+, 251, 
+87 L.Ed. 239
+ (1942) (“Admiralty courts, when invoked to protect rights rooted in state law, endeavor to determine the issues in accordance with the substantive law of the State.”); 
+The Tungus, 
+358 U.S. at 590-91
+, 79 S.Ct. at 505-06 
+(pre-Moragne 
+rights of non-seaman killed in state territorial waters depend on state wrongful death statute).
+39
+Furthermore, 
+Moragne 
+itself showed no hostility to concurrent application of state 
+*642
+wrongful death statutes. Indeed, to read into 
+Moragne 
+the idea that it was placing a ceiling on recovery for wrongful death, rather than a floor, is somewhat ahistorical. The 
+Moragne 
+cause of action was in many respects a gap-filling measure to ensure that seamen (and their survivors) would all be treated alike. 
+Gaudet, 
+414 U.S. at 596
+, 608 n. 19, 
+94 S.Ct. at 820
+, 826 n. 19 (Powell, J., dissenting). The “humane and liberal” purpose underlying the general maritime remedy of 
+Moragne 
+was driven by the idea that survivors of seamen killed in state territorial waters should not have been barred from recovery simply because the tort system of the particular state in which a seaman died did not incorporate special maritime doctrines. It is difficult to see how this purpose can be taken as an intent to preclude the operation of state laws that do supply a remedy.
+Of course, as we have mentioned above, 
+Moragne 
+also recognized the importance of federal statutory commands in shaping the general maritime wrongful death remedy— both in the way in which it created a general maritime wrongful death remedy, and in its suggestion that courts should look to statutes for guidance in developing the contours of that remedy. And 
+post-Moragne 
+jurisprudence has given that principle preeminence. But a proper application of this principle, in our view, shows that state wrongful death statutes should not be displaced in this context. Our principal guidance on this issue comes from 
+Tallentire 
+and its interpretation of DOHSA, the one federal statute applicable to non-seamen.
+Although 
+Tallentire 
+held that DOHSA displaced state • wrongful death statutes for deaths on the high seas, its analysis of section 7 of DOHSA is of considerable importance in understanding the extent to which the DOHSA remedies should not be treated as the exclusive types of remedies in a 
+Mo-ragne 
+cause of action. Of decisional importance in 
+Tallentire 
+was the notion that by enacting section 7 of DOHSA, Congress intended to preserve concurrent state jurisdiction for maritime deaths within state territorial waters. As we have discussed in the previous section, the Court stressed that the animating purpose of section 7 was to preserve to the states “jurisdiction to provide wrongful death remedies under state law for fatalities on territorial waters,” and that “[bjecause DOHSA by its terms extended only to the high seas and therefore was thought not to displace [state wrongful death remedies] on territorial waters, § 7, as originally proposed, ensured that the Act saved to survivors of those killed on territorial waters the ability to pursue a state wrongful death remedy in state court.”
+40
+Tallentire, 
+477 U.S. at 225
+, 106 S.Ct. at 2495 (internal citation omitted). 
+Tallentire 
+thus tells us that DOHSA was affirmatively intended to preserve state wrongful death remedies for survivors of people killed in territorial waters. This intent to preserve state wrongful death remedies in state territorial waters should not be lightly disregarded, particularly since 
+Moragne 
+and its progeny say nothing explicit about abrogating state remedies.
+Tallentire’s interpretation of DOHSA is also important for another reason. It suggests that there is a more fundamental flaw in Yamaha’s argument that the incorporation of DOHSA’s provisions into a 
+Moragne 
+cause of action should be treated as displacing all state wrongful death remedies. If Yamaha is right, it means that 
+Moragne 
+gives DOHSA preclusive effect in an area (maritime deaths in state territorial waters) in which Congress explicitly intended DOHSA to have no such effect. 
+See The Tungus, 
+358 U.S. at 608
+, 79 S.Ct. at 514 (“It is odd to draw restrictive inferences from a statute whose purpose was to extend recovery for wrongful death.”). So interpreted, 
+Moragne 
+would thus transform a statute explicitly designed to preserve state remedies into one that would displace them. In our view, such a result would cut 
+Moragne 
+loose from its conceptual moorings and disregard Supreme Court teachings since 
+Mo-ragne 
+that we must look to congressional statutory commands to determine what remedies are available for maritime deaths.
+*643
+But even if DOHSA is not treated as 
+explicitly 
+allowing state law to operate in this area, at the very least the legislative history of DOHSA shows no hostility toward the application of state wrongful death statutes in territorial waters. 
+See Gaudet, 
+414 U.S. at 
+588 n. 22, 
+94 S.Ct. at 
+816 n. 22. And since a “clear conflict” must exist before state law is displaced by federal admiralty law, 
+see Askew, 
+411 U.S. at 341
+, 93 S.Ct. at 1600, we cannot find that 
+Moragne 
+displaces state wrongful death remedies for deaths of non-seamen in territorial waters. Because we see no congressional intent to preclude the operation of state wrongful death statutes, and, indeed, believe that DOHSA arguably preserves state wrongful death remedies in territorial waters, we hold that state wrongful death statutes provide the rule of decision when a recreational boater is killed in territorial waters.
+We find support for this result in Judge Breyer’s opinion in 
+Lyon v. Ranger III, 
+858 F.2d 22
+, 27 (1st Cir.1988) (applying Massachusetts state law as its rule of decision in wrongful death action brought by survivor of person killed in a scuba accident within Massachusetts territorial waters), and the views of a leading treatise, 14 Chaeles A Wright et al., Federal Practice AND Prooedure § 3672, at 295 (2d ed. Supp.1994) (“If the same accident [one falling within the provisions of DOHSA] occurs within a marine league from shore, where [DOHSA] has no effect, the survivors can recover damages under the state wrongful death statute, including, when provided, reimbursement for non-eeonomic losses.”); 
+cf. Ballard Shipping, 
+32 F.3d at 631
+ (holding that the federal maritime economic loss rule of 
+Robins Dry Dock & Repair Co. v. Flint, 
+275 U.S. 303
+, 
+48 S.Ct. 134
+, 
+72 L.Ed. 290
+ (1927), which denies recovery for purely economic losses, did not displace a Rhode Island statute that allowed damages for some economic losses).
+We also believe our holding to be in full accord with the principle of uniform vindication of federal maritime policies that, however attenuated, 
+see supra 
+at 636-37; has generally been considered the hallmark of conflicts jurisprudence in admiralty law. In terms of the notion of uniformity, Yamaha’s claim basically boils down to the following proposition: state wrongful death statutes cannot apply to deaths to recreational boaters in territorial waters because it would raise the possibility of different remedies depending on the location of the accident and the citizenship of the parties.
+41
+ But Yamaha “heralds the need for uniformity without an appreciation for the boundaries of its relevance.” 
+Ellenwood v. Exxon Shipping Co., 
+984 F.2d 1270
+, 1279 (1st Cir.1993). The argument simply proves too much. “All state laws, if given effect in admiralty cases, interfere to a degree with the uniformity of admiralty law.” 1 Benedict on Admiralty § 112, at 7-36.
+Perhaps recognizing that its uniformity argument proves too much, Yamaha advanced a variant of it at oral argument, suggesting that accepting the Calhouns’ position on available damages would lead to the following allegedly untenable result: in an accident on a ship in which a non-seaman and a seaman were each killed, the non-seaman’s survivors would potentially be entitled (depending on the state statute) to higher damages than those available to the survivors of the seaman. This result, however, is untenable only if we assume that a person’s statutory status should be irrelevant for purposes of determining recovery for maritime deaths. But 
+Miles, 
+by denying loss of society damages to the survivor of a seaman because the seaman was covered by the Jones Act, has told us that such status does make a difference. 498 U.S. at 32-33, 111 S.Ct. at 325-26.
+42
+More fundamentally, however, it is fairly common for tort systems to allow different recoveries based on the injured party’s status. The problem Yamaha poses arises all of the time, whenever two parties are injured in 
+*644
+the same event but one is covered by worker’s compensation and the other is not. Even within maritime law, differing recoveries based on status occur all of the time. Longshoremen and seamen can often be injured in the same event, but a longshoreman covered by LHWCA, 
+33 U.S.C.A. §§ 901
+et seq. 
+(West 1986), cannot sue under the doctrine of unseaworthiness, while a seaman can.
+A similar asymmetry exists between non-seamen and seamen where non-seamen cannot take advantage of the doctrine of unseaworthiness. 
+See Kermarec v. Compagnie Generate Transatlantique, 
+358 U.S. 625
+, 629, 
+79 S.Ct. 406
+, 409, 
+3 L.Ed.2d 550
+ (1959); 
+Gremillion v. Gulf Coast Catering Co., 
+904 F.2d 290
+, 294 n. 11 (5th Cir.1990). For instance, should a non-seaman and a seaman be injured due to a non-negligent but unsea-worthy condition of the vessel, the seaman would recover and the non-seaman would not. This analogy has especial importance because in 
+Moragne 
+itself a negligence theory was at all times still available to the plaintiff.
+43
+Indeed, this case is, in many respects, the mirror image of 
+Moragne. Moragne 
+was driven by the realization that the state wrongful death tort system simply could not be grafted wholesale onto the regime governing torts affecting seamen. 
+398 U.S. at 401
+, 
+90 S.Ct. at 1788
+ (stating that its holding would remove the “tensions and discrepancies that have resulted from the necessity to accommodate state remedial statutes to exclusively maritime substantive concepts”). To accept Yamaha’s position in this case would create the opposite of the problem faced in 
+Moragne, 
+for we would be grafting a compensation scheme designed principally for seamen onto cases that fit easily within the tort systems, developed by the states. This case is, at base, no different than a cause of action arising out of the average motor vehicle accident.
+Finally, we note that states have substantial interests in policing their territorial waterways and protecting their citizens through their tort systems. In light of such interests, we should be loath to displace their statutes under our federal common law power absent a clear federal rule. 
+See American Dredging, 
+— U.S. at -, 114 S.Ct. at 992 (Stevens, J., concurring) (citing 
+Cipollone v. Liggett Group, Inc., 
+— U.S. -, -, 
+112 S.Ct. 2608
+, 2617, 
+120 L.Ed.2d 407
+ (1992)). Although we recognize that the rule barring state claims if they conflict with basic maritime principles often requires a delicate accommodation of federal and state interests, here, in the absence of a clear federal interest, we think that the balance tips in favor of allowing state law to apply. In sum, we hold that general maritime law does not preempt state law wrongful death acts in actions based on the death of a nonseaman in territorial waters, and that such acts therefore govern this case.
+V. CONCLUSION
+For reasons we have explained above, before reaching the question certified by the district court it is necessary to determine what law governs this dispute, and the bulk of our opinion has been devoted to resolving that difficult question. We have concluded that whether loss of society, loss of support and services, future earnings, or punitive damages are available for the death of a non-seaman in territorial waters is a question to be decided in accordance with state law. We do not, however, reach the question of which state’s law — Pennsylvania’s or Puerto Rico’s — applies. The district court did not consider that issue, and we decline to do so, preferring to have the district court address it in the first instance. Accordingly, we do 
+*645
+not answer the certified question in terms. (As explained earlier, 
+see supra 
+at 626, under section 1292(b) we need not reach the certified question, but only decide the appeal from the challenged order.) We have, however, given the district court sufficient guidance so that it may now do so with facility. Since the question of which state’s law applies is plainly open, we will affirm the district court’s order denying defendant’s motion for summary judgment on loss of society and loss of support damages, but we will reverse the order granting defendant’s motion for summary judgment on lost future earnings and punitive damages.
+The parties shall bear their own costs.
+1
+. "State territorial waters” refers to waters within the territorial limits of a state, as well as "the coastal waters less than three nautical miles from the shore of a state.” William C. Brown, III, 
+Problems Arising from the Intersection of Traditional Maritime Law and Aviation Death and Personal Injury Liability, 
+68 TuiX.Rev. 577, 581 (1994).
+2
+. The Calhouns are citizens of Pennsylvania; Yamaha Motor Corporation, U.S.A. is a California corporation, and Yamaha Motor Company, Ltd. is a Japanese corporation.
+3
+. Yamaha has conceded that funeral expenses are compensable.
+4
+. Section 1292(b) allows for immediate appeal of interlocutory orders (1) which involve a controlling question of law as to which there is substantial ground for difference of opinion and where an immediate appeal will materially advance the ultimate termination of the litigation and (2) which the court of appeals permits pursuant to Rule 5 of the Federal Rules of Appellate Procedure. 
+See 
+28 U.S.C.A. § 1292
+(b); Fed.R.App.P. 5(a).
+5
+. Since this accident involved the allision of a pleasure craft (the “Wavejammer”) with another vessel on navigable waters, admiralty jurisdiction appears to have been appropriate. 
+See Sisson v. Ruby, 
+497 U.S. 358
+, 366-68, 
+110 S.Ct. 2892
+, 2898, 
+111 L.Ed.2d 292
+ (1990); 
+Foremost Ins. Co. v. Richardson, 
+457 U.S. 668
+, 677, 
+102 S.Ct. 2654
+, 2659, 
+73 L.Ed.2d 300
+ (1982) (collision of two boats, neither of which had ever been engaged in commercial maritime activity, and where site of accident was on waters seldom, if ever, used for commercial activity, was within admiralty jurisdiction). The Calhouns now argue that admiralty jurisdiction is inappropriate. Although they are entitled to so argue and have reserved their right to appeal that question from a final order, we doubt that the existence or non-existence of admiralty jurisdiction matters to the question of remedies. Even if this were solely a diversity 
+*627
+case (in which event we would still have subject matter jurisdiction over these cross-appeals) or the parties were in state court, a federal maritime rule of decision applicable to the controversy would still displace a state rule that was in conflict. Although 
+Erie R.R. Co. v. Tompkins, 
+304 U.S. 64
+, 
+58 S.Ct. 817
+, 
+82 L.Ed. 1188
+ (1938), states that there is no 
+general 
+federal common law, it is well settled that there are areas in which 
+specific 
+bodies of federal common law operate, particularly admiralty. And where a federal rule (either statutory or common law) supplies a rule of decision in a particular case, it applies regardless of the basis of jurisdiction. That is in part what the 
+reverse-Erie 
+doctrine tells us. 
+See Offshore Logistics, Inc. v. Tallentire, 
+477 U.S. 207
+, 223, 
+106 S.Ct. 2485
+, 2494, 
+91 L.Ed.2d 174
+ (1986).
+6
+. 
+See also Boyle, 
+487 U.S. at 
+507 n. 3, 
+108 S.Ct. at 
+2516 n. 3 (“We refer here to the displacement of state law, although it is possible to analyze it as the displacement of federal-law reference to state law for the rule of decision. [Citing 
+Little Lake Misere 
+and 
+Kimbell Foods 
+]. We see nothing to be gained by expanding the theoretical scope of the federal pre-emption beyond its practical effect, and so adopt the more modest terminology. If the distinction between displacement of state law and displacement of federal law’s incorporation of state law ever makes a practical difference, it at least does not do so in the present case.”); Martha Field, 
+Sources of Law: The Scope of Federal Common Law, 
+99 Harv.L.Rev. 881
+, 977 & n. 408 (1986) ("[The] distinction between state law applying directly and state law applying through federal reference is of dubious relevance.”).
+7
+. The correct analytic conclusion, we believe, is that admiralty law simply has not spoken to the factual situation of this case, 
+see infra 
+at 637-39, 639-43, and that state laws accordingly apply of their own force. Were we to find federal admiralty law governing wrongful death and survival actions applicable to the death of a recreational boater occurring within state territorial waters, however, our analysis would likely lead us to hold that admiralty law either does not displace or adopts (or incorporates) state (or territorial) tort law. 
+See infra 
+at n. 33.
+8
+. The analogy is not perfect. In 
+Knickerbocker Ice Co. 
+v. 
+Stewart, 
+253 U.S. 149
+, 
+40 S.Ct. 438
+, 
+64 L.Ed. 834
+ (1920), and 
+Washington v. W.C. Dawson & Co., 
+264 U.S. 219
+, 
+44 S.Ct. 302
+, 
+68 L.Ed. 646
+ (1924), the Supreme Court held that some state regulation of maritime matters, even where authorized by Congress, was precluded directly by the Constitution and the uniformity implications of its grant of federal maritime jurisdiction. 
+See Knickerbocker, 
+253 U.S. at 163-64
+, 
+40 S.Ct. at 441
+; 
+W.C. Dawson & Co., 
+264 U.S. at 227-28
+, 
+44 S.Ct. at 305
+. In 
+Knickerbocker, 
+however, a congressional enactment authorizing state workers' compensation laws to govern maritime workers was held unconstitutional “because their provisions were held to modify or displace essential features of the substantive maritime law.” 
+Red Cross Line v. Atlantic Fruit Co., 
+264 U.S. 109
+, 124, 
+44 S.Ct. 274
+, 277, 
+68 L.Ed. 582
+ (1924). And in 
+W.C. Dawson & Co., 
+a similar congressional act was invalidated because it “permitted] any state to alter the maritime law and thereby introduce conflicting requirements.” 
+W.C. Dawson & Co., 
+264 U.S. at 228, 44 S.Ct. at 305. Although these cases have not been explicitly overruled by the Court, they rest on a strong nondelegation doctrine the likes of which has not been seen since the 1930s. At all events, by contrast to the situations in 
+Knickerbocker 
+and 
+W.C. Dawson, 
+as we detail below, here we discern no maritime law governing the plaintiffs’ wrongful death and survival actions and no federal interest whose uniformity would be unconstitutionally impaired by application of state law.
+9
+. The full 
+Jensen 
+preemption analysis is contained in the now famous passage stating that state legislation affecting maritime commerce is invalid "if it contravenes the essential purpose expressed by an act of Congress, or works material prejudice to the characteristic features of the general maritime law, or interferes with the proper harmony and uniformity of that law in its international and interstate relations.” 
+Jensen, 
+244 U.S. at 216
+, 
+37 S.Ct. at 529
+. This language seems to include the express preemption and implied preemption concepts of the non-maritime preemption doctrines. The language also seems to leave room for field preemption, although it does not appear to reference it as clearly. But as the First Circuit has recently recognized in 
+Ballard Shipping Co. v. Beach Shellfish, 
+32 F.3d 623
+, 626-27 (1st Cir.1994), in 
+American Dredging, 
+— U.S. at -, 114 S.Ct. at 987, the Supreme Court gave the 
+Jensen 
+"characteristic features” language a limited meaning. "[I]t rea[d] the phrase to apply — and apparently only to apply — to a federal rule that either 'originated in admiralty’ or has 'exclusive application there.' " 
+Ballard Shipping, 
+32 F.3d at 627
+. Under this restrictive reading, wrongful death and survival statutes would materially prejudice no "characteristic feature” of admiralfy because the wrongful death and survival remedies did not originate in or have exclusive application in admiralty. Because applying these state remedies would not conflict with any congressional legislation, 
+see infra 
+at 637-39, 639-43, the focus of the inquiry in this case, therefore, is whether the application of state rules of decision will unduly interfere with the uniformity of federal maritime principles.
+10
+.Maritime law is not simply a creature of statute but is more an amalgam of common law and statutory principles. But as we discuss in the next section, the development of the federal law of maritime deaths has become increasingly defined by statute, and the federal statutory schemes have taken a preeminent role in shaping the federal maritime death remedies, including those provided by federal common law. This development, in our view, brings the federal admiralty preemption doctrine more into line with the run-of-the-mill preemption case law, where the focus of the inquiry is in large part on statutory interpretation. 
+Cf. Ballard Shipping, 
+32 F.3d at 630-31
+ (looking to a recently enacted statute to determine whether a federal common law rule displaced a state statute).
+11
+. 
+Tallentire, 
+477 U.S. at 212
+, 106 S.Ct. at 2488 ("The tortuous development of the law of wrongful death in the maritime context illustrates the truth of Justice Cardozo’s observation that '[death] is a composer of strife by the general law of the sea as it was for many centuries by the common law of the land.’ ”) (quoting 
+Cortes v. Baltimore Insular Line, Inc., 
+287 U.S. 367
+, 371, 
+53 S.Ct. 173
+, 174, 
+77 L.Ed. 368
+ (1932)).
+12
+. 
+See Miles v. Apex Marine Corp., 
+498 U.S. 19
+, 23-27, 
+111 S.Ct. 317
+, 320-23, 
+112 L.Ed.2d 275
+ (1990); 
+Tallentire, 
+477 
+U.S. at 212-17
+, 106 S.Ct. at 2488-91.
+13
+. 
+Tallentire 
+cited, 
+inter alia, City of Norwalk, 
+55 F. 98
+, 108 (S.D.N.Y.1893) (state wrongful death statute may validly be applied to "maritime affairs within the state limits”), 
+aff d in part, rev'd in part on other grounds, 
+61 F. 364
+, 367-68 (2d Cir.1894) (application of state wrongful death statute to accident in state territorial waters valid "in the absence of any regulation of the subject by [C]ongress") (citing 
+Steamboat Co. v. Chase, 
+83 U.S. (16 Wall.) 522, 
+21 L.Ed. 369
+ (1873) and 
+Sherlock v. Alling, 
+93 U.S. (3 Otto) 99, 
+23 L.Ed. 819
+ (1876)).
+14
+. Under 
+The Hamilton, 
+state wrongful death statutes could apply in admiralty on the high seas where (1) the statutes were 
+intended 
+to apply on the high seas, 
+see Tallentire, 
+477 U.S. at 213
+, 106 S.Ct. at 2489, which was not often the case, 
+id. 
+at 213-14, 106 S.Ct. at 2489-90 (quoting 
+Moragne, 
+398 U.S. at 
+393 n. 10, 
+90 S.Ct. at 
+1784 n. 10); and either (2) "the vessel upon which the wrongful act occurred was constructively part of the territory of the state,” or (3) “the wrongdoer was a vessel or citizen of the state subject to its jurisdiction even when beyond its territorial limits,” 
+id. 
+at 214, 106 S.Ct. at 2490 (quoting 
+Wilson v. Transocean Airlines, 
+121 F.Supp. 85
+, 88 (N.D.Cal.1954)). As 
+Tallentire 
+notes, however, the limitations placed on the operation of state statutes for deaths on the high seas made 
+The Hamilton 
+of little practical import in allowing recovery for wrongful death. 
+Tallentire, 
+477 U.S. at 213-14
+, 106 S.Ct. at 2489-90.
+15
+. "[I]n the case of non-seamen, the only duty owed by ship-owners is that of exercising due care under the circumstances.” 2 Benedict on Admiralty § 81(c), at 7-9 n. 18 (7th ed. 1994) (citing 
+Kermarec v. Compagnie Generate Transatlantique, 
+358 U.S. 625
+, 
+79 S.Ct. 406
+, 
+3 L.Ed.2d 550
+ (1959)).
+16
+. 
+Sieracki 
+is better known for its holding that longshore workers were entitled to a warranty of seaworthiness, 
+id.,
+328 U.S. at 97
+, 
+66 S.Ct. at 878
+, thus creating 
+"Sieracki 
+-seamen.” That part of the case was made obsolete by the 1972 amendments to the Longshore and Harbor Workers Compensation Act ("LHWCA”), 
+see 
+33 U.S.C.A. § 905
+(b) (West 1986), which precluded longshoremen from taking advantage of the doctrine of unseaworthiness.
+17
+. We use the term “Jones Act seamen” in contrast to 
+“Sieracki
+-seamen,” 
+see supra 
+n. 16.
+18
+. It is important to note here that both 
+Lindgren 
+and 
+Gillespie 
+were limited to the preemptive effect of the Jones Act's wrongful death remedy on state wrongful death statutes. They did not challenge the Supreme Court’s holding in 
+Mahnich v. Southern S.S. Co., 
+321 U.S. 96
+, 
+64 S.Ct. 455
+, 
+88 L.Ed. 561
+ (1944), that an injured Jones Act seaman could invoke the doctrine of unseaworthiness to sue for 
+injuries, 
+wherever contracted.
+19
+. The “anomalies” were explained in 
+Moragne, 
+398 U.S. at 394-96
+, 
+90 S.Ct. at 1784-85
+.
+20
+. The case law, however, does not uniformly hold that the 
+Moragne 
+wrongful death remedy applies to claims based on negligence. 
+See, e.g., Ford v. Wooten, 
+681 F.2d 712
+, 715-16 (11th Cir.1982) (holding that the 
+Moragne 
+remedy applies only to unseaworthiness, not negligence); 
+Ivy v. Security Barge Lines, Inc., 
+606 F.2d 524
+, 527 (5th Cir.1979) (en banc) (same, as concerns Jones Act seamen).
+21
+. As Justice Harlan put it:
+Our recognition of a right to recover for wrongful death under general maritime law will assure uniform vindication of federal policies, removing the tensions and discrepancies that have resulted from the necessity to accommodate state remedial statutes to exclusively maritime substantive concepts. Such uniformity not only will further the concerns of both of the 1920 Acts [DOHSA and the Jones Act] but also will give effect to the constitutionally based principle that federal law should be a system of law coextensive with, and operating uniformly in, the whole country.
+Moragne, 
+398 U.S. at 401-02
+, 
+90 S.Ct. at 1788
+ (internal quotation marks and citations omitted).
+22
+. 
+Id. 
+at 387
+, 
+90 S.Ct. at 1780-81
+ (quoting 
+The Sea Gull, 
+21 Fed.Cas. 909-10 (C.C.D.Md.1865) (No. 12,578)). The 
+Moragne 
+court recognized that the maritime law "included a special solicitude for the welfare of those men who undertook to venture upon hazardous and unpredictable sea voyages.” 
+Id.
+23
+. 
+Gaudet 
+also cited approvingly to a decision of this court, 
+Dugas v. National Aircraft Corp., 
+438 F.2d 1386
+ (3d Cir.1971), which joined a state survival statute to a general maritime wrongful death cause of action. 
+Gaudet, 
+414 U.S. at 
+588 n. 24, 
+94 S.Ct. at 
+817 n. 24.
+24
+. In 
+American Export Lines, 
+the Supreme Court held that general maritime law allowed the wife . of a harbor worker to bring an action for damages for loss of society due to a maritime tort suffered by her husband. Although DOHSA and the Jones Act did not themselves provide such non-pecuniary damages, the Court allowed them, reasoning a la 
+Gaudet 
+that DOHSA was the exclusive remedy only for 
+“fatal 
+injuries incurred on the 
+‘high 
+seas,' " 
+American Export Lines, 
+446 U.S. at 282
+, 
+100 S.Ct. at 1678
+, and that “the Jones Act does not exhaustively or exclusively regulate longshoremen's remedies,” 
+id. 
+at 282-83
+, 
+100 S.Ct. at 1678
+.
+Miles v. Apex Marine Corp., 
+498 U.S. 19
+, 
+111 S.Ct. 317
+, 
+112 L.Ed.2d 275
+ (1990), allowed a maritime wrongful death action for the death of a Jones Act seaman in territorial waters due to unseaworthiness. Despite the Jones Act’s provision of liability only for deaths due to 
+negligence, 
+the holding in 
+Miles 
+may still be seen as following congressional guidance in that DOHSA allowed recovery for deaths occurring on the high seas due to unseaworthiness, and the Court's holding merely harmonized those two statutes.
+25
+.But see 
+id.,
+436 U.S. at 625
+, 
+98 S.Ct. at 
+2015 (citing Moragne's discussion of congressional intent concerning DOHSA).
+26
+. 
+Tallentire 
+also discussed the applicability of the remedies afforded under the Outer Continental Shelf Lands Act, 
+43 U.S.C.A. § 1331
+et seq. 
+(West 1986 & Supp.1994), 
+id. 
+at 217
+, 106 S.Ct. at 2491, but that discussion is not pertinent here.
+27
+. 
+See also American 
+Dredging, - U.S. at -, 114 S.Ct. at 987:
+"It is true that state law must yield to the needs of a uniform federal maritime law when this Court finds inroads on a harmonious system!,] [b]ut this limitation still leaves the states a wide scope. State created liens are enforceable in admiralty. State remedies for wrongful 
+*637
+death and state statutes providing for the survival of actions ... have been upheld when applied to maritime causes of action.... State rules for the partition and sale of ships, state laws governing the specific performance of arbitration agreements, state laws regulating the effect of a breach of warranty under contracts of maritime insurance — all these laws and others have been accepted as rules of decision in admiralty cases, even, at times, when they conflicted with a rule of maritime law which did not require uniformity.”
+(quoting 
+Romero, 
+358 U.S. at 373-74
+, 79 S.Ct. at 480-81) (alterations and omissions in 
+American Dredging 
+).
+28
+. Indeed, as we have mentioned, 
+Tallentire 
+left open the question whether state survival statutes could provide a rule of decision even for death on the high seas. 
+See also Miles, 
+498 U.S. at 
+34 n. 2, 111 S.Ct. at 326-27 n. 2; 
+Dugas v. National Aircraft Corp., 
+438 F.2d 1386
+ (3d Cir.1971) (holding that in lawsuit premised on DOHSA, Pennsylvania survival statute could be applied concurrently). And the Fifth Circuit has held, in the wake of the 
+Gaudet, Higginbotham, Tallentire, 
+and 
+Miles 
+quartet, that DOHSA does not preempt a general maritime survival action. 
+Baris v. Sulpicio Lines, Inc., 
+932 F.2d 1540
+, 1543 n. 2 (5th Cir.1991), 
+cert. denied, 
+- U.S. -, 
+112 S.Ct. 430
+, 
+116 L.Ed.2d 449
+ (1991); 
+Graham v. Milky Way Barge, 
+824 F.2d 376
+, 386-87 (5th Cir.1987).
+29
+. We have alternated in our discussion between the terms "recreational boaters” and non-seamen, and we mean to use the terms interchangeably. We do not mean to intimate that crew members of a vessel such as a racing yacht should necessarily be treated differently than someone in Natalie Calhoun’s position. The applicable remedy depends on whether such crew members fall within the Jones Act as seamen.
+30
+. The Second Circuit has stated that the Court’s language in 
+Miles 
+did not limit its holding to Jones Act seamen. 
+See Wahlstrom v. Kawasaki Heavy Indus. Ltd., 
+4 F.3d 1084
+, 1093 (2d Cir.1993). The Second Circuit reached this conclusion by stating:
+The Court’s analysis relied heavily upon the decedent’s status as a seaman and the resultant applicability of the Jones Act, but the announced conclusion of its opinion (unlike the companion ruling as to loss of society) was not confined to seamen.
+Id.
+(internal citation omitted). However, the language from the conclusion in 
+Miles 
+—-"We ... hold that a general maritime survival action cannot include recoveiy for decedent's lost future earnings,” 498 U.S. at 37, 111 S.Ct. at 328—clearly referenced the particular decedent involved in that case. The language did not say "a decedent” or "any decedent.” It simply said "decedent.” We believe that the Second Circuit’s reading of the conclusion is not compelled by the language, and given that such a reading ignores the Court's rationale for'denying future earnings, we decline to follow it. 
+See also Sutton 
+v. 
+Earles, 
+26 F.3d 903
+, 916-17 (9th Cir.1994) (criticizing 
+Wahlstrom 
+and declining to follow its denial of loss-of-society damages to non-dependent parents).
+31
+. Even assuming that the 
+Miles 
+holding extends beyond seamen, we are not sure that its rule against future earnings would extend to deny recovery of such earnings in the case at bar. The rule denying lost future earnings, implied from the exclusivity of the Jones Act, presupposes that the decedent had a livelihood and that his dependents would be entitled to damages for loss of support under the wrongful death provision. Apparently, the Jones Act denies recovery of lost future earnings only because, as 
+Miles 
+explained:
+Recoveiy of lost future earnings in a survival suit will, in many instances, be duplicative of recoveiy by dependents for loss of support in a wrongful death action; the support dependents lose as a result of the seaman's death would have come from the seaman's future earnings.
+Miles, 
+498 U.S. at 35
+, 111 S.Ct. at 327. This rationale appears to be quite suspect when the decedent is someone who is not employed, especially a child. A child does not typically support her parents and so loss of support damages will be negligible. A child’s expected future earnings, however, may be considerable. Allowing for lost future earnings under such circumstances raises minimal risk of duplicative recoveiy. In our view, to deny loss of future earnings under such circumstances gives a windfall to potential defendants. Thus, even if there is a federal rule which extends beyond seamen to conflict with a state survival statute allowing recoveiy of lost future earnings, we doubt that the federal rule would extend to deny lost future earnings when the decedent was a child and loss of support damages would be negligible. We also doubt its applicability to cases where the decedent was an adult who, unlike a Jones Act seaman, was unemployed. This analysis, we add, is not intended to suggest casei-by-case preemption analysis, but rather to demonstrate why, in policy terms, the construction advanced by Yamaha is flawed and hence unlikely to have animated the Supreme Court. 
+See Garner, 
+768 F.Supp. at 195
+.
+32
+. The 
+Moragne 
+remedy might apply only to Jones Act seamen and to those others, including longshoremen, to whom a 
+federal 
+duty of seaworthiness or due care is owed. 
+Moragne 
+explicitly grounded its holding in the propriety of extending a federal remedy to correspond to the “federally imposed duties of maritime law,” filling a gap left by some state statutes. See 
+Moragne, 
+398 U.S. at 
+401 & n. 15, 
+90 S.Ct. at 
+1788 & n. 15.
+33
+. Even if 
+Moragne 
+did provide a clear rule of decision in this area, however, the mere existence of a federal wrongful death cause of action 
+*640
+does not necessarily require displacement. 
+Cf. California v. ARC America Corp., 
+490 U.S. 93
+, 101-02, 
+109 S.Ct. 1661
+, 1665, 
+104 L.Ed.2d 86
+ (1989) (concurrent application of federal and state rules of decision are allowed); 
+Tallentire, 
+477 U.S. at 224
+, 106 S.Ct. at 2495 ("States could ‘modify’ or 'supplement' the federal maritime law by providing a wrongful death remedy enforceable in admiralty for accidents on territorial waters.”) (citing 
+Western Fuel Co. v. Garcia, 
+257 U.S. 233
+, 
+42 S.Ct. 89
+, 
+66 L.Ed. 210
+ (1921), and 
+Steamboat Co. v. Chase, 
+83 U.S. (16 Wall.) 522, 
+21 L.Ed. 369
+ (1873)); Gilmore & Black § 1-17, at 49-50 (“All that can be said in general is that the states may not flatly contradict established maritime law, but may ‘supplement’ it, to the extent of allowing maritime recoveries in some cases where the maritime law denies them...."). Concurrent application of state and federal law is commonplace, particularly in areas governed by federal common law. 
+See, 
+e.g., 
+ARC America, 
+490 U.S. at 101-02
+, 
+109 S.Ct. at 1665
+ (antitrust); 
+Madruga v. Superior Court, 
+346 U.S. 556
+, 561, 
+74 S.Ct. 298
+, 301, 
+98 L.Ed. 290
+ (1954) ("Aside from its inability to provide a remedy 
+in rem 
+for a maritime cause of action, ... a state, ‘having concurrent jurisdiction, is free - to adopt such remedies, and to attach to them such incidents, as it sees fit' so long as it does not attempt to make changes in the 'substantive maritime law.’ ") (quoting 
+Red Cross Line, 
+264 U.S. at 124
+, 44 S.Ct. at 277).
+Indeed even where states impose liability beyond that imposed under federal law, there is not necessarily a conflict, particularly in the absence of a statement from Congress to the contrary. 
+See ARC America, 
+490 U.S. at 105
+, 
+109 S.Ct. at 1667
+ ("Ordinarily, state law causes of action are not pre-empted solely because they impose liability over and above that authorized by federal law, ... and no clear purpose of Congress indicates that we should decide otherwise in this case.”) (citing 
+Silkwood v. Kerr-McGee Corp., 
+464 U.S. 238
+, 257-58, 
+104 S.Ct. 615
+, 626-27, 
+78 L.Ed.2d 443
+ (1989), and 
+California v. Zook, 
+336 U.S. 725
+, 736, 
+69 S.Ct. 841
+, 847, 
+93 L.Ed. 1005
+ (1949)). In the traditional concurrent application of state law context, in which there is a clear federal rule, a legitimate state law may still apply if it does not impose too great a burden on the uniform vindication of the federal policy. 
+See, e.g., Ballard Shipping, 
+32 F.3d at 630
+ (describing the interest-balancing approach and suggesting that the inquiry reduces to the “familiar one of burden"). Here, by contrast, there is no specific federal rule on point, and we thus need not analyze the question under the rubric of "incorporation.” State law, subject to possible preemption on grounds we have enumerated, applies of its own force. 
+See, e.g., Wilburn Boat Co., 
+348 U.S. at 316
+, 
+75 S.Ct. at 371
+ ("[The ‘literal performance’ rule of insurance contracts law] has not been judicially established as part of the body of federal admiralty law in this country. Therefore, the scope and validity of the [maritime insurance] policy provisions here involved and the consequences of breaching them can only be determined by state law unless we are now prepared to fashion controlling federal rules.").
+34
+. And were 
+Moragne 
+to extend to persons in Natalie Calhoun's circumstances, we might hold that its wrongful death remedy either does not displace or actually incorporates state (and territorial) law; "the demand for uniformity is not inflexible and does not preclude the balancing of the competing claims of state, national and international interests.” 
+Wilburn Boat Co., 
+348 U.S. at 323-24
+, 
+75 S.Ct. at 376
+ (Frankfurter, J., concurring in the result). As our analysis below indicates, Congress has expressed an affirmative intent, as far as civilians are concerned, to preserve state law remedies in territorial waters. 
+See infra 
+at 642—43.
+35
+. The rule that the Jones Act preempts state remedies stems from 
+Lindgren 
+and 
+Gillespie 
+(which held that the Jones Act was the exclusive remedy for survivors of seamen killed in territorial waters). These cases may not have survived 
+Moragne, see 
+Gilmore & Black § 6-32, at 368 (saying that 
+Moragne 
+effectively overruled 
+Lind-gren 
+and Gillespie), although in 
+Miles 
+the Court suggested that at least with respect to the issue of the preemption of state remedies, 
+Lindgren 
+and 
+Gillespie 
+are still good law. 
+See Miles, 
+498 U.S. at 29
+, 111 S.Ct. at 324 (‘‘[T]he preclusive effect of the Jones Act established in 
+Lindgren 
+and 
+Gillespie 
+extends only to state remedies....") (citing 
+Moragne, 
+398 U.S. at 396, n. 12
+, 
+90 S.Ct. at 1785, n. 12
+). At all events, the premise of Yamaha’s argument that the federal statutes displace all state remedies is not free from doubt, even where the federal statutes apply.
+36
+. Of course Justice Holmes dissented in 
+Jensen, 
+uttering what is perhaps his best known statement: "The common law is not a brooding omnipresence in the sky but the articulate voice of some sovereign or quasi sovereign that can be identified.” 
+244 U.S. at 222
+, 
+37 S.Ct. at 531
+*641
+(Holmes, J., dissenting). And 
+Jensen 
+has since been called the 
+Lochner 
+of the federal maritime law. 
+See American Dredging, 
+- U.S. at -, 114 S.Ct. at 991 (Stevens, J., concurring) 
+(“Jensen 
+is just as untrustworthy a guide in an admiralty case today as 
+Lochner v. New York, 
+198 U.S. 45
+, 
+25 S.Ct. 539
+, 
+49 L.Ed. 937
+ (1905), would be in a case under the Due Process Clause.”) (parallel citation omitted).
+37
+.Although Yamaha has been able to muster considerable support in the case law for its position that 
+Moragne 
+displaces all state wrongful death statutes, the case law appears to be split on this issue. 
+Compare Wahlstrom v. Kawasaki Heavy Indus., Ltd., 
+4 F.3d 1084
+, 1089 (2d Cir.1993) (citing cases); 
+Nelson v. United States, 
+639 F.2d 469
+, 473 (9th Cir.1980); 
+Choat v. Kawasaki Motors Corp., 
+1994 A.M.C. 2626
+, 
+1994 WL 221417
+ (Ala.1994) and 
+Texaco Ref. & Mktg., Inc. v. Estate of Dau Van Tran, 
+808 S.W.2d 61
+ (Tex.1991) (holding that 
+Moragne 
+displaces state wrongful death and survival statutes), 
+cert. denied, - 
+U.S. -, 
+112 S.Ct. 301
+, 
+116 L.Ed.2d 245
+ (1991), 
+with Ellenwood v. Exxon Shipping Co., 
+984 F.2d 1270
+, 1280 n. 12 (1st Cir.1993) ("Even today, plaintiffs may invoke state wrongful death statutes under the saving clause insofar as they involve accidents in territorial waters and do not conflict with the substantive principles developed under the maritime wrongful death doctrine."), 
+cert. 
+denied, - U.S. -, 
+113 S.Ct. 2987
+, 
+125 L.Ed.2d 682
+ (1993), and 
+Lyon v. Ranger III, 
+858 F.2d 22
+, 27 (1st Cir.1988) (Breyer, J.) (applying Massachusetts state law as rule of decision in wrongful death action brought by surviv- or of person killed in scuba accident within Massachusetts territorial waters). 
+Cf. Favorito v. Pannell, 
+27 F.3d 716
+ (1st Cir.1994) (applying Rhode Island law to claims arising from allision of small boat with anchored vessel within Rhode Island's territorial waters and citing 
+Lyon 
+); 
+Marine Transp. Servs. Sea-Barge Group, Inc. v. Python High Performance Marine Corp., 
+16 F.3d 1133
+ (11th Cir.1994) (although recognizing that general maritime law was applicable to the claim under admiralty jurisdiction, nevertheless applying principles of Florida equitable estoppel law in commercial dispute).-
+38
+. 
+See also 
+id.,
+281 U.S. at 44
+, 
+50 S.Ct. at 210
+ ("[Sjsuch statutes 'were not a part of the general maritime law' and were recognized only because Congress had not legislated on the subject.”).
+39
+. This aspect of the holding óf 
+The Tungus 
+retains vitality 
+post-Moragne, 
+for the 
+Moragne 
+Court "concluded that the primaiy source of the confusion [in the law of maritime wrongful deaths] is not to be found in 
+The Tungus, 
+but in 
+The Harrisburg,'' Moragne, 
+398 U.S. at 378
+, 
+90 S.Ct. at 1776
+, only the latter of which 
+Moragne 
+accordingly overruled. 
+Id. 
+at 409
+, 
+90 S.Ct. at 1792
+.
+40
+. 
+See also 
+id.
+("The felt necessity for a DOHSA saving clause, then, may be traced to the fact that [state] wrongful death statutes like workmen's compensation schemes were not common law remedies, and thus may not have been deemed saved to suitors under the Judiciary Act of 1789, as construed in 
+Jensen.") 
+(internal quotation marks and citations omitted).
+41
+. Yamaha states, in terrorem:
+The Calhouns argue against the weight of authority and against the concept of uniformity; instead they espouse a different remedy for civilians injured in territorial waters than that afforded seamen and maritime workers by Congress and the Supreme Court. If accepted, their argument would result in at least 50 different possible measures of damages for the same cause of action, depending solely on the citizenship of the decedent and/or the place of the accident.
+Reply/Answering Brief of Appellants/Cross-Ap-pellees at 1-2.
+42
+. The case law is replete with statements that non-seamen should not be entitled to damages in 
+*644
+greater amounts than seamen because allowing recovery would not foster admiralty's aim of providing special solicitude to seamen. 
+See, e.g., Wahlstrom, 
+4 F.3d at 1092
+. But this argument seems to us to be a non sequitur, for it is difficult to see how denying recovery to non-seamen's survivors shows any special solicitude to seamen or their survivors.
+43
+. It is often a quite reasonable choice for a group of potential plaintiffs to give up the prospect of huge damages in return for easier theories of recovery, and vice versa. The trade-off that the longshoreman received in exchange for losing the right to sue on an unseaworthiness theory was an increase in the compensation benefits under the LHWCA and expanded coverage. 
+See 
+Gilmore & Black § 6-53, at 437 & n. 339. More specifically, a trade-off similar to the one made in the context of longshore workers’ injuries seems quite reasonable in the context of this case.
+SUR PETITION FOR PANEL REHEARING WITH SUGGESTION FOR REHEARING IN BANC
+Dec. 7, 1994
+The petition for rehearing filed by Appel-lani/Cross-Appellees, having been submitted to the judges who participated in the decision of this Court and to all the other available circuit judges in active service, and no judge who concurred in the decision having asked for rehearing, and a majority of the circuit judges of the circuit in regular active service not having voted for rehearing by the court in banc, the petition for reheating is DENIED.

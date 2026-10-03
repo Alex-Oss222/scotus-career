@@ -1,0 +1,3801 @@
+bs, FILED 
+
+
+q 
+941947 MAY 3 0 1995 
+Gere: OF THE CLERK 
+
+
+IN THE 
+
+
+SUPREME COURT OF THE UNITED STATES 
+
+
+OCTOBER TERM, 1994 
+
+
+APRIL LOVE, 
+
+
+Petitioner, 
+
+
+ROBERT G. PEPERSACK, SR.., 
+MERRILL A. MESSICK, JR., 
+ERNEST ELDON PLETCHER, 
+
+and ELMER HUNT TIPPETT, JR., 
+
+
+Respondents. 
+
+
+PETITION FOR WRIT OF CERTIORARI TO 
+THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+HOWARD J. FEZELL 
+8 East Street, Suite 200 
+P.O. Box 588 
+Frederick, Maryland 21705 
+(301) 846-0241 
+
+
+Counsel for Petitioner. 
+
+
+Washington, D.C. © THIEL PRESS ¢ (202) 328-3286 
+
+
+__ 
+
+
+«A000 
+
+
+(t) 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Does the Second Amendment to the United States 
+Constitution guarantee an individual right to keep and 
+bear arms, or a collective right of states to maintain 
+militias? 
+
+2. Must a person have some affiliation with an organ- 
+ized state militia in order to have standing to assert a 
+
+
+Second Amendment claim as part of an action brought 
+pursuant to 42 U.S.C. Sec. 1983? 
+
+
+3. Is the Second Amendment applicable to the States 
+via the Due Process Clause of the Fourteenth Amend- 
+ment? 
+
+
+4. Did the Petitioner’s Complaint state a cause of 
+action under 42 U.S.C. Sec. 1983 where it is alleged, 
+inter alia, that in disapproving her application to pur- 
+chase a firearm the Respondents knew that they had 
+no lawful basis for their conduct, and that they acted 
+willfully and maliciously and with a reckless disregard 
+of the Petitioner’s Constitutional rights? 
+
+
+(11) 
+
+
+PARTIES TO THE PROCEEDING 
+
+
+Petitioner: April Love 
+
+
+Respondents: Robert G. Pepersack, Sr.; 
+Merrill A. Messick, Jr.; 
+Ernest Eldon Pletcher; and 
+Elmer Hunt Tippett, Jr. 
+
+
+(112) 
+
+
+TABLE OF CONTENTS Page 
+rc < oo > 5a 6 sess 00006000 ce eee i 
+PARTIES TO THE PROCEEDING. ......cccccccccccees ii 
+ etves dunk CO Ca be beveedee iv 
+ie ks kop owes eed dbo seh ewe ees 2 
+ES Ee a a ee 2 
+RELEVANT STATUTES AND CONSTITUTIONAL 
+
+I re aa gw b's 6 a 8 6.60 2 00 Vee obs oe 2 
+DEtRTeE TOU SHWE Ss oe eee rs cee eneceueree 2 
+A. The Parties and The Underlying Action. ............. 3 
+B. Respondents’ Motion To Dismiss .................. 5 
+Pe Te ee acs Cras oe a te cbee ees 06 00 5 
+Se I I gn vis wet cee nccncceves 7 
+REASONS FOR GRANTING THE PETITION ............. 8 
+
+
+I. In Holding That The Second Amendment “‘Pre- 
+serves A Collective, Rather Than An Individual 
+Right” The Court Of Appeals Decided A Fed- 
+eral Question In A Way That Conflicts With 
+Applicable Decisions Of This Court................. 8 
+
+
+II. The Opinion Of The Court Of Appeals Is In 
+Conflict With That Of Another United States 
+Court Of Appeals On The Same Matter............. 16 
+
+
+III. In Holding That ‘*The Second Amendment Does 
+Not Apply To The States’’ The Court Of Appeals 
+Decided A Federal Question In A Way That Con- 
+flicts With Applicable Decisions Of This Court ........ 17 
+
+
+IV. Whether The Second Amendment Is Applicable 
+To The States Via The Due Process Clause Of 
+The Fourteenth Amendment Is An Important 
+Question Of Federal Law That Has Not Been, 
+But Should Be, Settled By This Court.............. 19 
+
+
+V. In Affirming The Dismissal Of The Complaint By 
+The District Court, The Court Of Appeals Dis- 
+regarded Well-Established Precedent ............... 23 
+
+
+(iv) 
+
+
+A. The Court of Appeals mis-applied a standard Se. 
+that is relevant only in cases of unintentional 
+Pee Se ee Pe Te. Fe es SO Ee Pe Eee 23 
+
+
+B. The Court of Appeals overlooked its usual stand- 
+ard in reviewing Rule 12(b)(6) motions, and 
+stated as fact something that is not apparent 
+from the record or even suggested by 
+
+
+co Pe ee ee re ok ee Pe eee eee eS 24 
+GOCERAMRIE hc csc se ck RO CUS Cea OEMs DEVE hee RE 27 
+APPENDICES: 
+
+Appendix A — Relevant Constitutional Provisions And 
+
+PE ee ey ig a ee eee rire ee me a la 
+Appendix B — Transcript of oral opinion of court 
+
+oe ee er an ee re ee 10a 
+Appendix C — Published opinion of U.S. Court of Appeals 
+
+in Cound ha, DO-RGSs oe tes Cave eee eer ere ees GR 25a 
+Appendix D — Order, dated March 2, 1995 denying 
+
+eB PRTC ERE CURE CTR OTT CE 33a 
+Appendix E — Amended Complaint .................5. 34a 
+
+TABLE OF AUTHORITIES 
+
+Cases: 
+Benton v. Maryland, 395 U.S. 784, 89 S.Ct. 2056, 
+
+2D TROD Fee Cite. vid Cac ek eRe Nhs wes abe we 18 
+Boyer v. Garrett, 183 F.2d 582 (4th Cir. 1950)............ 19 
+Chicago B. & Q.R. Co. v. Chicago, 166 U.S. 226, 
+
+27 S.Ce, SBE, G0 EG Bee Re os eet cece ecses 18, 22 
+Daniels v. Williams, 474 U.S. 327, 106 S.Ct. 662, 
+
+OS TA Ge Se am 6a es * Wen os 980 0a ee os 7, 23 
+Dent v. West Virginia, 129 U.S. 114, 123, 9 S.Ct. 
+
+233, BE Lae. GEO CIR 6 x vc chee cece usiinecnses id 
+
+
+DeShaney v. Winnebago County Department Of Social 
+Services, 489 U.S. 189, 109 S.Ct. 998, 1003, 103 
+LEB. 2d 249 (NOGB). 0 ric ce ree essence esensees 21 
+
+
+(v) 
+
+
+Cases, continued: Page 
+Duncan v. Louisiana, 391 U.S. 145, 88 S.Ct. 1444, 
+
+20 L.Ed.2d 491 ih awe bb KK Geek oo ok tG 18 
+Fresno Rifle And Pistol Club v. Van De Camp, 965 
+
+F.2d 723 (9th Cir. Mah Wea OW k 6k bs so ee 6, 16 
+Gideon v. Wainwright, 372 U.S. $35, 83 S.Ct. 792, 
+
+9 L.Ed.2d 799 Se Mew CON eae ea ak odes bales 18 
+Gitlow v. New York, 268 U.S. 652, 45 S.Ct. 625, 
+
+ee ee A 0 0 hs be avg i occ. 3 28 14, 18 
+
+
+John Doe v. Portland Housing Authority, Maine 
+Supreme Judicial Court, Decision No. 
+
+
+Diciete tei cies tne GLE en ee eee 21 
+Kellogg v. City of Gary, 562 N.E.2d 685 (ind. 1990)........ 24 
+Klopfer v. North Carolina, 386 U.S. 213, 87 S.Ct. 
+
+WOW Se OT i es 18 
+Malloy v. Hogan, 378 U.S. 1, 84 S.Ct. 1489, 12 
+
+sccnssnnessrsid sr, oirien.ts LRAT ERR OOO NE ERO GE 18 
+Mapp v. Ohio, 367 U.S. 643, 81 S.Ct. 1684, 6 L.Ed.2d 
+
+wate By saan’ LR Pa eg peed Uns oly sp pee ae 15,18 
+Miller v. Texas, 153 U.S. 535, 14 S.Ct. 874, 38 L.Ed. 
+
+WN ro ee 5,10 
+Planned Parenthood v. Casey, US. » 132 §.Ce. 
+
+2791, 120 L.Ed.2d SOME 50 6a ekGOS Se ee: 6, 13 
+Plessey v. Ferguson, 163 U.S. 537, 16 S.Ct. 1138, 41 
+
+siursstors icuoesh, captess EEE rE OT PO OU Aas 19 
+Port Const. Co. v. Gov’t Of Virgin Islands, 359 F.2d 
+
+I ED i fk eed caves cd ek 25 
+Presser v. Illinois, 116 U.S. 252, 6 S.Ct. 580, 29 L.Ed. 
+
+ee RS oar ws nd he ea 0 CR. 5,6, 10, 17,18 
+Quilici v. Village of Morton Grove, 695 F.2d 261 (7th 
+
+Cir. 1982), cert. denied, 464 U.S. 863 Ree Pied ted 21 
+Robinson v. California, 370 U.S. 660, 82 S.Ct. 1417, 
+
+siden cbt ontheeieh, nu... eee I a ee 18 
+
+
+Rucker v. Harford County, 946 F.2d 278 (4th Cir. 
+1991), cert. denied, 112 S.Ct. 1175 (1992) ............ 23 
+
+
+(vt) 
+
+
+Cases, continued: Page 
+Scott v. Sanford, 60 U.S. (19 How.) 393, 15 L.Ed. 
+
+J Et!) Serer rrr ree fer ere rs ee 5,8 
+South v. Maryland, 59 U.S. 396, 15 L.Ed. 433 
+
+te re Se ee in ce ree ee ee oe 21 
+United States v. Cruikshank, 92 U.S. 542, 23 L.Ed. 
+
+GES (ISTE). . cen cccecccccccvccssessceeces passim 
+United States v. Johnson, 497 F.2d 548 (4th Cir. 
+
+ROPE) cccctevcicdecdtavee eve Gen bee ksb bane Fes 8 
+United States v. Miller, 307 U.S. 174, 59 S.Ct. 816, 
+
+GS 1... 1RGG (RGSS) «6 i. 6a sd 6 ee aww 6 6S 5,11 
+United States v. Panter, 688 F.2d 268 (5th Cir. 1982) ....... 21 
+United States v. Verdugo-Urquidez, 494 U.S. 259, 110 
+
+S.Ct. 1056, 108 L.Ed.2d 222 (1990). ...........26. 6, 12 
+Waterford Citizens Ass'n v. Reilly, 970 F.2d 1287 
+
+C000 Cie, Be aks SUS oo 6 he ee ok ee CERES 7, 26 
+Wolff v. McDonnell, 418 U.S. 539, 558, 94 S.Ct. 2963, 
+
+41 LL. BEBR GSE, Bere Chee) ce ba eee ee tewesiveeucds 14 
+
+
+Constitution, Statutes and Rules: 
+
+
+United States Constitution 
+
+
+ee OS Se eee ee passim 
+
+Pamreeets AMR: cc cee eksener<oed ives passim 
+28 U.S.C. 
+
+DASDGIEE oc ik bade badass esses er eereaee 2 
+42 U.S.C. 
+
+SUGOR oc ive ce wud wed 0b ise lun beware 2,9 
+Fed. R. Gav. Prceiiave TQ. . 6 os 64s be bewee’s 2, 5, 7, 26 
+Md. Ann. Code 
+
+Wt GE, BOGE «wis ba Ce ehSS es SCC eee 2, 3, 4, 25 
+
+Ot, BE; OE sou 68s CSS ces BIN RETO eee en 2 
+District of Columbia Code Sec. 6-2311 .............202. 21 
+District of Columbia Code Sec. 6-2312(4) ............... 21 
+Village of Morton Grove, Ill. Ord. No. 81-ll.............. 21 
+
+
+NTN | 
+
+
+(vit) 
+
+
+Page 
+
+Texts and Miscellaneous: 
+Amar, The Bill of Rights as a Constitution, 100 YALE 
+
+en rn <u i's sa cto b hoses 6 abs cee aweue 15 
+Van Alstyne, The Second Amendment and The Personal 
+
+Right to Arms, 43 DUKE L.J. 1236 (1994) ....... 15, 18, 22 
+Dowlut, Federal And State Constitutional Guarantees to 
+
+Arms, 15 U. DAYTON L. REV. 59 (1989)............. 16 
+
+
+Dowlut, Bearings Arms In State Bills Of Rights, Judicial 
+Interpretation, And Public Housing, 5 St. Thomas 
+Ne etcees 20 
+
+
+Cottrol & Diamond, The Second Amendment: Toward 
+An Afro-Americanist Reconsideration, 80 GEO. 
+
+
+EE ae ih eo ae ea a ab obo ae 6a ss eeene 22 
+Levinson, The Embarrassing Second Amendment, 99 
+
+a a ae be 22 
+Goldfarb, ‘“‘Domestic Disarmament,’’ Washington Post, 
+
+Pe tte a, a wae wien vie otee eas 20 
+
+
+Moynihan, “Guns Don’t Kill People. Bullets Do,” 
+New York Times, December 12, 1993, page 
+
+
+WP eee Cees eae sneaks ws 6 see 6 64 Ww eee 20 
+Cutler, “License and Restrict Handguns,” Washington Post, 
+
+a eS re 20 
+“Gun Law From Barth to Brady,”’ Washington Post, 
+
+Ne ee ee 20 
+
+
+“Gun Control in Haiti,’’ Washington Post, November 
+RR Se SrA eit a eg eR 20 
+
+
+No. 
+
+
+IN THE 
+
+
+SUPREME COURT OF THE UNITED STATES 
+OCTOBER TERM, 1994 
+
+
+APRIL LOVE, 
+
+
+Petitioner, 
+
+
+ROBERT G. PEPERSACK, SR., 
+MERRILL A. MESSICK, JR., 
+ERNEST ELDON PLETCHER, 
+and ELMER HUNT TIPPETT, JR., 
+
+
+Respondents. 
+
+
+PETITION FOR WRIT OF CERTIORARI TO 
+THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+April Love respectfully petitions for a writ of certiorari 
+to review the judgment of the United States Court of 
+Appeals for the Fourth Circuit affirming the dismissal of 
+her amended complaint filed in the United States District 
+Court for the District of Maryland. 
+
+
+l 
+
+
+2 
+
+
+OPINIONS BELOW 
+
+
+The published opinion of the United States Court of 
+Appeals for which review is sought is Love v. Pepersack, 
+47 F.3d 120 (4th Cir. 1995). The slip opinion in Case 
+No. 94-1582 was dated February 3, 1995 [App. 25a- 
+32a]. An appeal to that Court was taken by petitioner 
+from an oral ruling rendered by the United States District 
+Court for the District of Maryland, the Hon. Peter J. 
+Messitte, Judge, on April 1, 1994 in the United States 
+District Court for the District of Maryland in Civil Action 
+No. 93-2609-PJM [App. 10a-24a]. The District Court’s 
+
+
+opinion is unreported. 
+
+
+JURISDICTION 
+
+
+Jurisdiction is conferred in this case purusant to 28 
+U.S.C. Sec. 1254(1). The United States Court of Appeals 
+for the Fourth Circuit affirmed the dismissal of the 
+petitioner’s amended complaint in a published opinion 
+dated February 3, 1995. A Petition For Rehearing and 
+Suggestion Of Rehearing In Banc was denied by order of 
+the court on March 2, 1995 [App. 33a]. 
+
+
+RELEVANT STATUTES AND 
+CONSTITUTIONAL PROVISIONS 
+
+
+Set forth in App. la-9a are U.S. Const., Amendment 
+2, U.S. Const., Amendment 14, Section 1, 42 U.S.C. Sec. 
+1983, Fed. Civ. Procedure 12(b)(6), Md. Ann. Code art. 
+27, Sec. 442, and Md. Ann Code art. 27, Sec. 445. 
+
+
+STATEMENT OF THE CASE 
+
+
+Jurisdiction is conferred in this case pursuant to 28 
+U.S.C. Sec. 1254(1). 
+
+
+— 
+
+
+3 
+
+
+A. The Parties and The Underlying Action. 
+
+
+Petitioner’s 42 U.S.C. Sec. 1983 complaint arises out 
+of the unlawful interference by the Maryland State 
+Police with her attempt to purchase a handgun. Respon- 
+dents include three State Troopers and the Superinten- 
+dent of State Police, all of whom are alleged to have 
+acted in their official capacities under color of state law 
+[App. 35a-36a]. They are being sued, however, only in 
+their individual capacities [App. 36a]. 
+
+
+Petitioner sought to purchase a handgun from a retailer 
+in Prince George’s County, Maryland. She filled out an 
+“Application To Purchase A Firearm” (Maryland State 
+Police Form #77R) which was forwarded to the licensing 
+division of the Maryland State Police! [App. 36a]. Peti- 
+tioner properly completed her application and all infor- 
+mation given by her was true and correct [App. 37a]. It 
+is undisputed that petitioner was not legally disqualified 
+from purchasing a handgun. However, in violation of 
+state law, respondents disapproved her application solely 
+
+
+Md. Ann. Code, art. 27, Sec. 442 requires that any persons 
+seeking to purchase a handgun from a dealer must first submit an 
+application to the Superintendent of State Police. By signing the 
+application a prospective purchaser certifies that he or she is not 
+disqualified from purchasing or possessing a handgun by any fac- 
+tors set forth in art. 27, Sec. 442(f). The Superintendent is 
+required to conduct an investigation into the application. Md. 
+Ann. Code, art. 27, Sec. 442(g). For 7 days from the date the 
+application is submitted a transfer of the handgun to the prospec- 
+tive purchaser may not take place. If, after seven days, the dealer 
+does not receive a notice of disapproval from the Superintendent 
+a transfer may take place. 
+
+
+The Superintendent may send a notice of disapproval only 
+“{iJf it be thereupon determined that any false information or 
+statement has been supplied or made by the applicant, or that the 
+application has not been properly completed, .. .”’ Jd. 
+
+
+4 
+
+
+on the basis of several prior arrests? without determining 
+
+
+the ultimate disposition of those arrests [App. 38a-40a]. 
+Respondents, without any lawful basis, sent a notice to 
+the seller of the handgun that a transfer to petitioner 
+could not be completed [App. 40a]. Respondents main- 
+tained a long standing policy of disapproving applications 
+solely on the basis of prior arrests despite their knowl- 
+edge that Md. Ann. Code art. 27, Sec. 442 permitted 
+them to send a notice of disapproval to the seller of a 
+handgun only when they determined that an applicant 
+provided false information or that the application had 
+not been properly completed [App. 41a-42a, 44a]. 
+
+
+Petitioner alleges that as a result of respondents’ 
+unlawful conduct she was denied the ability to purchase 
+a handgun and was compelled to obtain the services of 
+legal counsel to represent her in an appeals process [ App. 
+45a]. The appeals process culminated in an order entered 
+in her favor by the Circuit Court for Prince George’s 
+County, Maryland whereby the respondent Tippett was 
+ordered to “forthwith approve [petitioner’s] Application 
+To Purchase A Firearm” [App. 45a]. The state Court held 
+that the disapproval of petitioner’s application had been 
+“arbitrary and capricious” [App. 17a]. 
+
+
+All the individual respondents are alleged to have 
+acted willfully and maliciously and with a reckless dis- 
+regard of the constitutional rights of petitioner [App. 
+45a]. Petitioner alleges that respondents’ conduct was 
+deliberate and made with knowledge that there was no 
+
+
+2 Petitioner worked as an exotic dancer. Of her three arrests 
+in Florida, two were for participating in an obscene show and one 
+was for indecent exposure. All three were misdemeanors. Only 
+one resulted in a conviction when she pleaded guilty to partici- 
+pating in an obscene show and paid a fine. Petitioner’s arrest in 
+Illinois was for two counts of battery and one count of resisting 
+arrest. This did not result in a conviction. 
+
+
+5 
+
+
+lawful basis for disapproval of her application [App. 
+38a-41a, 45a]. Petitioner alleges a deprivation of rights 
+guaranteed to her by the Second and Fourteenth Amend- 
+ments to the United States Constitution, namely, the 
+right to keep and bear arms, freedom to contract and due 
+process of law [App. 46a]. 
+
+
+B. Respondents’ Motion To Dismiss. 
+
+
+Respondents filed a motion to dismiss pursuant to 
+Fed. R. Civ. P. 12(b)(6) for failure to state a cause of 
+action. This motion was granted by the District Court 
+after a hearing on April 1, 1994 [App. 10a]. 
+
+
+C. The Appeal. 
+
+
+Petitioner noted an appeal to the United States Court 
+of Appeals for the Fourth Circuit. The case was cap- 
+tioned Love v. Pepersack, No. 94-1582. In a published 
+opinion dated February 3, 1995, Love v. Pepersack, 47 
+F.3d 120 (4th Cir. 1995), the Court of Appeals affirmed 
+the dismissal of petitioner’s amended complaint by the 
+District Court [App. 31a]. 
+
+
+The Court of Appeals held that the Second Amend- 
+ment “preserves a collective, rather than individual right” 
+[App. 31a]. This holding runs contrary to several opinions 
+of this Court. See Scott v. Sanford, 60 U.S. (19 How.) 
+393, 15 L.Ed. 691 (1857); United States v. Cruikshank, 
+92 U.S. 542, 23 L.Ed. 588 (1876); Presser v. Illinots, 116 
+U.S. 252, 6 S.Ct. 580, 29 L.Ed. 615 (1886); Miller v. 
+Texas, 153 U.S. 535, 14 S.Ct. 874, 38 L.Ed. 812 (1894); 
+United States v. Miller, 307 U.S. 174, 59 S.Ct. 816, 83 
+L.Ed. 1206 (1939). In each of these cases in which this 
+Court discussed, or touched upon the Second Amend- 
+ment, it never conditioned the right to keep and bear 
+
+
+6 
+
+
+arms upon affiliation with or service in an organized 
+militia. Even today, this court still refers to the Second 
+Amendment in the context of tndtvidual rights, such as 
+the right of freedom of speech and freedom from unrea- 
+sonable searches and seizures. See United States v. 
+Verdugo-Urquidez, 494 U.S. 259, 265, 110 S.Ct. 1056, 
+108 L.Ed.2d 222 (1990); Planned Parenthood v. Casey, 
+—_— U.S. —_— , 112 S.Ct. 2791, 120 L.Ed.2d 674 (1992). 
+
+
+The opinion of the Court of Appeals is also in conflict 
+with the opinion of the United States Court of Appeals 
+for the Ninth Circuit in Fresno Rifle And Pistol Club v. 
+Van De Camp, 965 F.2d 723, 731 (9th Cir. 1992) affirm- 
+ing the holding of a district court that the Second Amend- 
+ment guarantees an individual right (although declining 
+to hold it applicable to the States via the Fourteenth 
+Amendment). 
+
+
+The Court of Appeals also relied upon United States v. 
+Crutkshank, 92 U.S. 542, 23 L.Ed. 588 (1876) and 
+Presser v. Illinots, 116 U.S. 252, 6 S.Ct. 580, 29 L.Ed. 
+615 (1886) as sole authority for the proposition that the 
+Second Amendment is inapplicable to the states [App. 
+30a]. In doing so, the Court of Appeals ignored almost a 
+century of case law in which this Court has repudiated 
+Crutkshank’s holding that none of the Bill of Rights are 
+applicable to the states. 
+
+
+The Court of Appeals stated as fact things that are not 
+apparent from the record in order to excuse respondents’ 
+unlawful disapproval of petitioner’s application to pur- 
+chase a firearm. In particular, the Court stated that ‘‘[the 
+licensing division] was strapped for time’’ [App. 26a]. 
+The Court also stated as fact that ‘‘[respondents] were 
+forced by extreme time constraints to streamline investi- 
+gations” [App. 29a]. Neither of these facts upon which 
+the Court so heavily relied are apparent from the record. 
+
+
+7 
+
+
+That the respondents were ‘‘strapped for time’’ was never 
+even suggested by the respondents in their brief. 
+
+
+The Court of Appeals also treated this case as if it 
+were one alleging unintentional conduct, although the 
+amended complaint clearly alleges that respondents all 
+acted willfully and maliciously. The Court held that a 
+violation of substantive due process occurs: 
+
+
+only where the government’s actions in depriving a 
+person of life, liberty, or property are so unjust that 
+no amount of fair procedure can rectify them [App. 
+
+
+29a]. 
+
+
+This is an appropriate standard in a case involving 
+unintentional conduct. Daniels v. Williams, 474 U.S. 327, 
+331, 106 S.Ct. 662, 665, 88 L.Ed. 2d 662 (1986). How- 
+ever, petitioner’s amended complaint clearly alleges that 
+respondents’ conduct was deliberate and respondents 
+acted with knowledge that there was no lawful basis for 
+disapproval of petitioner’s application [App. 38a, 41a, 
+45a]. 
+
+
+The Court of Appeals ignored an established standard 
+of review in evaluating a Rule 12(b)(6) motion. That is 
+whether the complaint, accepting the allegations as true, 
+allows a recovery. Waterford Citizens Ass’n. v. Reilly, 
+970 F.2d 1287, 1290 (4th Cir. 1992). 
+
+
+D. The Petition For Rehearing. 
+
+
+In her petition For Rehearing And Suggestion Of 
+Rehearing In Banc all of the points raised immediately 
+above were brought to the attention of the Court of 
+Appeals. The petition was denied on March 2, 1995 
+[App. 33a]. 
+
+
+8 
+
+
+REASONS FOR GRANTING THE PETITION 
+
+
+IN HOLDING THAT THE SECOND AMENDMENT “PRE- 
+SERVES A COLLECTIVE, RATHER THAN AN INDI- 
+VIDUAL RIGHT” THE COURT OF APPEALS DECIDED 
+A FEDERAL QUESTION IN A WAY THAT CONFLICTS 
+WITH APPLICABLE DECISIONS OF THIS COURT. 
+
+
+The Court of Appeals reaffirmed its earlier decision in 
+United States v. Johnson, 497 F.2d 548 (4th Cir. 1974) 
+that the “Second Amendment preserves a collective, 
+rather than an individual right’”’ [App. 31a]. It also sug- 
+gested that petitioner, in order to prevail on any Second 
+Amendment claim, would have to identify “how her 
+possession of a handgun will preserve or insure the effec- 
+tiveness of the militia” [App. 3la]. In holding that the 
+Second Amendment preserves only a collective right (and 
+suggesting that affiliation with a militia is required to 
+assert a Second Amendment claim) the Court of Appeals 
+decided a federal question in a way that conflicts with 
+applicable decisions of this Court. On those occasions 
+where it has discussed the right to keep and bear arms, 
+this Court has always treated it as an individual right. 
+Furthermore, this Court has never conditioned the right 
+to keep and bear arms upon affiliation with an organized 
+state militia. 
+
+
+In Scott v. Sanford, 60 U.S. (19 How.) 393, 15 L.Ed. 
+691 (1857) this Court addressed the question of whether 
+persons of African descent could be citizens. It held that 
+they could not in an opinion written by Chief Justice 
+Taney, a Southerner from Maryland (where slavery was 
+both legal and widely practiced). In 1857, Southerners 
+were not keen on the idea of freeing the slaves, much less 
+bestowing upon them the rights of citizens. The concerns 
+of his fellow Southerners were not lost upon Chief 
+
+
+9 
+
+
+Justice Taney, who wrote that if blacks were recognized 
+as citizens in any State of the Union, they would have 
+the right to travel freely, engage in free speech, hold 
+public meetings on political issues, and ‘‘keep and carry 
+arms wherever they went.” 60 U.S. at 416-17. If the 
+Second Amendment guaranteed only the collective right 
+of states to maintain militias, there would have been no 
+reason for Taney to fear that black citizens could ‘“‘keep 
+and carry arms”’ since citizenship does not automatically 
+entail service in an organized state militia. What con- 
+cerned Chief Justice Taney was the rights blacks would 
+enjoy as citizens. This Court’s opinion in Scott v. Sanford 
+also listed the right to keep and bear arms with other 
+rights which the Court has held to be of an individual 
+nature, such as freedom of religion, free speech, freedom 
+of the press, peaceable assembly, trial by jury, and the 
+right against self-incrimination. 60 U.S. at 450. 
+
+
+In United States v. Cruikshank, 92 U.S. 542, 23 L.Ed. 
+588 (1876) this Court effectively repealed the Due Pro- 
+cess Clause of the Fourteenth Amendment by holding 
+that the Second Amendment, like the rest of the Bill of 
+Rights, only operated as a restraint upon the federal 
+government. In discussing the right to ‘‘bear arms for a 
+lawful purpose”’ this Court stated that ‘“‘the people” 
+should look to localities (not the National Government) 
+for protection against “their fellow citizens’ of rights 
+recognized by the Second Amendment. 92 U.S. at 553. 
+Crutkshank affirmed an order arresting judgments of con- 
+viction for conspiracy to deprive freed blacks in Louisiana 
+of their civil rights. The fact that the black citizens who 
+were victimized were not affiliated with an organized 
+state militia had no bearing on the case. This Court in 
+Crutkshank also used the phrase “the people” in the same 
+context as “their fellow citizens.” 92 U.S. at 553. It 
+
+
+10 
+
+
+obviously viewed “‘the people”’ referred to in the Second 
+Amendment as meaning individuals. States, unlike indi- 
+viduals, do not have ‘“‘fellow citizens.” 
+
+
+In Presser v. Illinots, 116 U.S. 252, 6 S.Ct. 580, 29 
+L.Ed. 615 (1886) this Court upheld the conviction of a 
+man charged with parading a body of armed men through 
+Chicago without a license. Illinois law prohibited bodies 
+of men to associate together as military organizations or 
+to drill or parade in cities and towns unless authorized 
+by law. Presser challenged this law as violating the Second 
+Amendment. The Court held that these provisions did 
+not infringe the right of the people to keep and bear 
+arms. Citing Crutkshank, Presser also held that the Sec- 
+ond Amendment is a limitation only upon Congress and 
+the federal government. Presser did, however, hold that 
+all citizens capable of bearing arms constitute the reserve 
+military force or reserve militia of the United States and 
+of the States, and that even without the Second Amend- 
+ment states may not prohibit people from keeping and 
+bearing arms “so as to deprive the United States of their 
+rightful resource for maintaining public security.” 116 
+U.S. at 265, 6 S.Ct. at 584. Presser thus drew a clear 
+distinction between “the people” and “States.” As in 
+Scott v. Sanford and Crutkshank, this Court in Presser 
+never conditioned the right to keep and bear arms upon 
+affiliation with an organized state militia. If the Second 
+Amendment guaranteed only a collective right, this 
+Court could easily have disposed of Presser’s Second 
+Amendment claim by holding that he lacked standing to 
+assert it. Instead, this Court addressed Presser’s Second 
+Amendment claim on tts merits. 
+
+
+In Miller v. Texas, 135 U.S. 535, 14 S.Ct. 874, 38 
+L.Ed. 812 (1894) this Court declined to rule on the 
+appellant’s Second Amendment claim due to his failure 
+
+
+11 
+
+
+to raise it in a timely fashion, stating, ‘‘[i]f the Four- 
+teenth Amendment limited the power of the States as 
+to such rights, as pertaining to citizens of the United 
+States, we think it was fatal to this claim that it was not 
+set up in the trial court.” 153 U.S. at 538. Miller had 
+been convicted of murder and on appeal argued that 
+Texas law forbidding the carrying of weapons violated 
+the Second Amendment. Once again, if the Second 
+Amendment guaranteed only a collective right, such a 
+claim could have been easily disposed of due to Miller’s 
+lack of standing. However, Miller’s claim was not ruled 
+upon because he, as an individual, lacked standing to 
+assert it. This Court held that he had failed to assert it 
+in a timely fashion. 
+
+
+United States v. Miller, 307 U.S. 174, 59 S.Ct. 816, 
+83 L.Ed. 1206 (1939) involved the indictment of Jack 
+Miller and a cohort for unlawfully transporting a short- 
+barrelled shotgun in violation of the National Firearms 
+Act of 1934. The federal district court sustained Miller’s 
+demurrer to the indictment, holding that the section of 
+the act under which he had been indicted violated the 
+Second Amendment. The United States appealed. Miller 
+absconded. Only the Solicitor General for the United 
+States filed a brief or appeared to argue the case. What 
+this Court was concerned with was whether the shotgun 
+possessed by Miller had “some reasonable relationship 
+to the preservation or efficiency of a well-regulated 
+militia, ...” 307 U.S. at 178, 59 S.Ct. at 818. This 
+Court refused to take judicial notice that a short-barrelled 
+shotgun “is any part of ordinary military equipment or 
+that its use could contribute to the common defense’”’, 
+307 U.S. at 178, 59 S.Ct. at 818, and the case was 
+remanded to the district court for further proceedings. 
+If the Second Amendment guaranteed only a collective 
+
+
+12 
+
+
+right, this Court could have simply held that Jack Miller, 
+as an individual, lacked standing to assert a right to keep 
+and bear arms. However, the fact that Miller was not 
+affiliated with an organized state militia had no bearing 
+on the case. Miller never even suggested that the posses- 
+sor of a firearm must be a member of a militia, and the 
+individual nature of the right to keep and bear arms 
+went unquestioned. 
+
+
+United States v. Verdugo-Urquidez, 494 U.S. 259, 
+110 S.Ct. 1056, 108 L.Ed.2d 222 (1990) involved the 
+search of a residence in Mexico by agents of the United 
+States Drug Enforcement Agency. The occupant of the 
+residence was a Mexican citizen who later sought to sup- 
+press evidence that had been obtained during the search. 
+This Court held that the Fourth Amendment did not 
+apply to a search by American police of the Mexican 
+residence of a Mexican citizen and resident who had no 
+voluntary attachments to the United States. Although 
+this case involved a claim under the Fourth Amendment’s 
+prohibition against unreasonable searches and seizures, 
+the opinion by Chief Justice Rehnquist makes it clear 
+that the phrase “the people’’, as used in the Bill of 
+Rights, means individuals: 
+
+
+“The people” seems to have been a term of art 
+employed in select parts of the Constitution. . . . 
+The Second Amendment protects “‘the night of the 
+people to keep and bear Arms,”’ and the Ninth and 
+Tenth Amendments provide that certain rights and 
+powers are retained by and reserved to ‘“‘the peo- 
+ple.”” See also U.S. const., Amdt. 1, (“Congress shall 
+make no law . . . abridging . . . the nght of the 
+people peaceably to assemble’’) . . .. While this tex- 
+tual exegesis is by no means conclusive, tt suggests 
+that “the people” protected by the Fourth Amend- 
+ment, and by the First and Second Amendments, 
+
+
+13 
+
+
+and to whom nghts and powers are reserved in the 
+Ninth and Tenth Amendments, refers to a class of 
+persons who are part of a national community or 
+who have otherwise developed sufficient connection 
+with this country to be considered part of that com- 
+munity. 494 U.S. at 265, 110 S.Ct. at 1057 (emp. 
+added) 
+
+
+In his dissenting opinion in Verdugo-Urqutdez, Justice 
+Brennan noted that, “‘the term ‘the people’ is better 
+understood as a rhetorical counterpoint to ‘the govern- 
+ment,’ such that rights that were reserved to ‘the people’ 
+
+
+were to protect all those subject to ‘the government.’ ” 
+494 US. at 287, 110 S.Ct. at 1072 (emp. added) 
+
+
+In Planned Parenthood v. Casey, _ U.S. ___ , 112 
+S.Ct. 2791, 120 L.Ed.2d 674, (1992), this Court con- 
+sidered the constitutionality of provisions in a Pennsy]- 
+vania abortion statute requiring the informed consent 
+of the patient, a 24-hour waiting period, parental con- 
+sent, spousal notification, and reporting and record- 
+keeping. The plaintiffs claimed that such provisions 
+constituted a deprivation liberty in volation of the Due 
+Process Clause of the Fourteenth Amendment. Planned 
+Parenthood held that the substantive liberties protected 
+by the Fourteenth Amendment against interference by 
+the States was not limited to those rights already guar- 
+anteed against federal interference by the first eight 
+amendments to the Constitution. In doing so, this 
+Court listed the right to keep and bear arms in the same 
+context as other rights which it has held to be of an 
+individual nature: 
+
+
+Neither the Bill of Rights nor the specific prac- 
+tices of the States at the time of the adoption of the 
+Fourteenth Amendment marks the outer limits of 
+the substantive sphere of liberty which the Four- 
+teenth Amendment protects. See U.S. Const., 
+
+
+14 
+
+
+Amend. 9. As the second Justice Harlan recog- 
+nized: 
+
+“(T]he full scope of the liberty guaranteed 
+by the Due Process Clause ‘cannot be found in or 
+limited by the precise terms of the specific guar- 
+antees elsewhere provided in the Constitution. 
+This ‘liberty’ is not a series of isolated points 
+pricked out in terms of the taking of property; 
+the freedom of speech, press, and religion; the 
+right to keep and bear arms; the freedom from 
+unreasonable searches and setzures; and so on. It 
+is a rational continuum which, broadly speaking, 
+includes a freedom from all substantial arbitrary 
+impositions and purposeless restraints, . . . and 
+which also recognizes, what a reasonable and sens- 
+itive judgment must, that certain interests require 
+particularly careful scrutiny of the state needs 
+asserted to justify their abridgement.” Poe v. 
+Ullman, supra, 367 U.S. at 543, 81 S.Ct., at 
+1777 (Harlan, J., dissenting from dismissal on 
+jurisdictional grounds.) 112 §.Ct. at 2805 (emp. 
+added) 
+
+
+That this Court would even mention the right to keep 
+and bear arms in a discussion of the rights protected by 
+the Due Process Clause of the Fourteenth Amendment 
+demonstrates that it considers the Second Amendment 
+to guarantee an individual right. The touchstone of due 
+process is protection of the individual against arbitrary 
+action of government. Dent v. West Virginia, 129 U.S. 
+114, 123, 9 S.Ct. 231, 233, 32 L.Ed. 623 (1889); Wolff 
+v. McDonnell, 418 U.S. 539, 558, 94 S.Ct. 2963, 41 
+L.Ed.2d 935, 2976 (1974). 
+
+
+The First and Fourth Amendments guarantee individ- 
+ual, as opposed to collective, rights. See Gitlow v. New 
+York, 268 U.S. 652, 45 S.Ct. 625, 69 L.Ed. 1138 (1925) 
+
+
+15 
+
+
+(First Amendment guarantee of freedom of speech appli- 
+cable to States); Mapp v. Ohio, 367 U.S. 643, 81 S.Ct. 
+1684, 46 L.Ed.2d 1081 (1961) (barred use of evidence 
+seized in violation of Fourth Amendment). The Court’s 
+opinions in Verdugo-Urquidez and Planned Parenthood 
+demonstrate that if ‘‘the people’’ whose rights are guar- 
+anteed by the First, Fourth, Ninth, and Tenth Amend- 
+ments are individual, ‘‘the people’’ whose rights are guar- 
+anteed by the Second Amendment must also be individ- 
+uals. 
+
+
+All of the above cases were cited by petitioner below. 
+The Court of Appeals, however, dismissed the petitioner’s 
+authorities as being only ‘‘law review articles”. [App. 
+30a] One of those law review articles was The Bu. »f 
+Rights as a Constitution, 100 YALE L.J. 1131, 1166 
+(1991), in which Prof. Akil Reed Amar of Yale Law 
+
+
+School wrote: 
+
+
+The states’ rights reading [of the Second Amend- 
+ment] puts great weight on the word “militia,” 
+but this word appears only in the Amendment’s 
+subordinate clause. The ultimate right to keep and 
+bear arms belongs to “‘the people,”’ not the “‘states.” 
+As the language of the Tenth Amendment shows, 
+these two are of course not identical and when the 
+Constitution means “states,” it says so. Thus, as 
+noted above, “the people” at the core of the Second 
+Amendment are the same ‘“‘people”’ at the heart of 
+the Preamble and the First Amendment, namely 
+Citizens. 
+
+
+Another law review article cited by petitioner below 
+was The Second Amendment and The Personal Right to 
+Arms, 43 DUKE L.J. 1236, 1243-44 (1994) in which 
+Prof. William Van Alstyne writes: 
+
+
+[The Second Amendment] looks to an ultimate 
+reliance on the common citizen who has a right to 
+
+
+16 
+
+
+keep and bear arms rather than only to some stand- 
+ing army, or only to some other politically separ- 
+ated, defined, and detached armed cadre, as an 
+essential source of security of a free state. In relat- 
+ing these propositions within one amendment, 
+moreover, it does not disparage, much less does it 
+subordinate “the right of the people to keep and 
+bear arms.”” To the contrary, it expressly embraces 
+that right and indeed it erects the very scaffolding 
+of a free state upon that guarantee. It derives its 
+definition of a well-regulated Militia in just this 
+way for a “free State:’”’ The Militia to be well 
+regulated is a Militia to be drawn from just such 
+people (i.e. people with a right to keep and bear 
+arms) rather than from some other source (i.e. 
+from people without rights to keep and bear arms) 
+(emp. in original) 
+
+
+During the Constitutional Convention, language quali- 
+fying the right to keep and bear arms by inserting the 
+phrase “for the common defnese” next to the words 
+“bear arms” was rejected. This underscores the draft- 
+ers’ refusal to limit the right to military purposes. Dow- 
+lut, Federal And State Constitutional Guarantees To 
+Arms, 15 U. DAYTON L. REV. 59, 66 (1989). 
+
+
+II. 
+THE OPINION OF THE COURT OF APPEALS IS IN 
+CONFLICT WITH THAT OF ANOTHER UNITED STATES 
+COURT OF APPEALS ON THE SAME MATTER. 
+
+
+The opinion of the Court of Appeals is in conflict with 
+the opinion of the United States Court of Appeals for the 
+Ninth Circuit in Fresno Rifle And Pistol Club v. Van De 
+Camp, 965 F.2d 723 (9th Cir. 1992) on the question of 
+whether the Second Amendment guarantees an individual 
+
+
+17 
+
+
+right. In Fresno, the ninth Circuit Court of Appeals 
+affirmed the holding of a district court that the Second 
+Amendment guarantees an individual right. Jd. at 731. 
+A conflict therefore exists between the Circuit Courts as 
+to the nature of the right guaranteed by the Second 
+Amendment. 
+
+
+Il. 
+IN HOLDING THAT “THE SECOND AMENDMENT 
+DOES NOT APPLY TO THE STATES” THE COURT OF 
+APPEALS DECIDED A FEDERAL QUESTION IN A 
+WAY THAT CONFLICTS WITH APPLICABLE DECI- 
+SIONS OF THIS COURT. 
+
+
+Citing only Presser v. Illinois, 116 U.S. 252, 6 S.Ct. 
+580, 29 L.Ed. 614 (1886) and United States v. Cruik- 
+shank, 92 U.S. 542, 23 L.Ed. 588 (1876) the Court of 
+Appeals held that “‘[t] he Second Amendment does not 
+apply to the states’”’ [App. 30a]. 
+
+
+United States v. Cruthkshank held that the Second 
+Amendment was intended only as a bar to action by the 
+federal government. 92 U.S. at 553. Cruikshank was 
+cited for this proposition ten years later in Presser v. 
+Ilinots, 116 U.S. at 265, 6 S.Ct. at 584. Actually, 
+Crutkshank held that the none of the Bill of Rights 
+acted as a restraint upon State action. As the Court 
+stated succinctly: 
+
+
+The First Amendment to the Constitution pro- 
+hibits Congress from abridging “the right of the 
+people to assemble and to petition the Government 
+for a redress of grievances.” This, like the other 
+amendments proposed and adopted at the same 
+time, was not intended to limit the powers of the 
+State Government in respect to their own citizens, 
+but to operate upon the National Government 
+alone. 92 U.S. at 553 (emp. added) 
+
+
+18 
+
+
+This Court has long since abandoned such a restricted 
+application of the Bill of Rights in a series of cases 
+beginning in 1897. Utilizing what has come to be known 
+as the “incorproation doctrine’”’ this Court has held that 
+various individual rights guaranteed by amendments to 
+the U.S. Constitution may not be infringed upon by the 
+states. See, e.g., Chicago B. & Q. R. Co. v. Chicago, 166 
+U.S. 226, 17 S.Ct. 581, 41 L.Ed. 979 (1897) (compen- 
+sation for taking of property); Gitlow v. New York, 268 
+U.S. 652, 45 S.Ct. 625, 69 L.Ed. 1138 (1925) (freedom 
+of speech); Mapp v. Ohio, 367 U.S. 643, 81 S.Ct. 1684, 
+46 L.Ed.2d 1081 (1961) (barred use of evidence seized 
+in violation of Fourth Amendment); Robinson v. Calt- 
+fornia, 370 U.S. 660, 82 S.Ct. 1417, 8 L.Ed.2d 758 
+(1962) (prohibition against cruel and unusual punish- 
+ment); Gideon v. Wainwright, 372 U.S. 335, 83 S.Ct. 
+792, 9 L.Ed.2d 799 (1963) (right to counsel); Malloy 
+v. Hogan, 378 U.S. 1, 84 S.Ct. 1489, 12 L.Ed.2d 653 
+(1964) (self-incrimination); Klopfer v. North Carolina, 
+386 U.S. 213, 87 S.Ct. 988, 18 L.Ed.2d 1 (1967) (speedy 
+trial); Duncan v. Loutsiana, 391 U.S. 145, 88 S.Ct. 1444, 
+20 L.Ed.2d 491 (1968) (jury trial); Benton v. Maryland, 
+395 U.S. 784, 89 S.Ct. 2056, 23 L.Ed.2d 707 (1969) 
+(double jeopardy). 
+
+
+In The Second Amendment and The Personal Right 
+to Arms, 43 DUKE L.J. 1236, 1239, n. 10 (1994) Prof. 
+
+
+William Van Alstyne writes: 
+
+
+[T]here are a few nineteenth century decisions 
+denying any relevance of the Second Amendment to 
+the States; but these decisions (they have never been 
+revisited by the Supreme Court) merely mimicked 
+others of the same era in holding that none of the 
+rights or freedoms enumerated in the Bill of Rights 
+were made applicable by the Fourteenth Amend- 
+ment to the states. See, e.g., Presser v. Illinois, 116 
+
+
+19 
+
+
+U.S. 252 (1886); United States v. Cruikshank, 92 
+U.S. 542, 553 (1876). The shaky foundation of 
+these cases (“shaky”’ because the effect was to evis- 
+cerate the Fourteenth Amendment itself) has long 
+since been recognized — and long since repudiated 
+by the Court in general. 
+
+
+While Cruikshank (and its progeny, Presser) did hol¢ 
+that the Second Amendment does not apply to the states 
+they did so only in the context of holding that none of 
+the Bill of Rights applied to the states. To the extent 
+that the principle enunciated in Cruikshank has since 
+been repudiated, the Court of Appeal’s reliance on that 
+case as precedent conflicts with this Court’s ultimate 
+rejection of the principle Cruikshank espoused.” 
+
+
+IV. 
+WHETHER THE SECOND AMENDMENT IS APPLICABLE 
+TO THE STATES VIA THE DUE PROCESS CLAUSE OF 
+THE FOURTEENTH AMENDMENT IS AN IMPORTANT 
+QUESTION OF FEDERAL LAW THAT HAS NOT BEEN, 
+BUT SHOULD BE, SETTLED BY THIS COURT. 
+
+
+What is generically referred to as “gun control” is an 
+issue that, like abortion, generates a lot of controversy. 
+Like abortion, many of the attempts to restrict, or pro- 
+
+
+5 Despite the fact that Cruikshank’s holding that none of 
+the Bill of Rights are applicable to the States has been long since 
+discarded by the Supreme Court, the Court of Appeals clings to it 
+like it did to Plessy v. Ferguson, 163 U.S. 537, 16 S.Ct. 1138, 41 
+L.Ed. 256 (1896) when, in a one-page opinion, it upheld racial seg- 
+regation of athletic activities in public parks and playgrounds in 
+Baltimore. See Boyer v. Garrett, 183 F.2d 582 (4th Cir. 1950). 
+
+*To people who oppose the private ownership of firearms, 
+“gun control” is often a euphemism for prohibition. Attorney 
+Ronald Goldfarb wrote in an op-ed piece in the Washington Post, 
+“[n]o reform can be meaningful without a tough program for dis- 
+
+[footnote continued] 
+
+
+20 
+
+
+hibit? the private ownership of firearms take place at 
+the state or local level. The infringement of a right is no 
+less significant when accomplished via state or local law, 
+as opposed to an act of Congress. Whether the protec- 
+tions afforded by the Second Amendment are applicable 
+
+
+mantling existing arsenals, applying not just to handguns but to 
+all assault weapons (and ammunition). After a brief period of 
+amnesty, the dismantling of all unregistered and unregulated 
+weapons must be swift and thorough.” “‘Domestic Disarmament’’, 
+Washington Post, November 21, 1993, page C3. 
+
+
+Sen. Daniel Patrick Moynihan of New York advocates that 
+a 10,000 percent tax be levied on certain types of ammunition, 
+effectively raising its cost out of sight. ‘Guns Don’t Kill People. 
+Bullets Do.’”” New York Times, December 12, 1993, page E15. 
+Adoption of a “prohibitve excise tax on the sale of ammunition”’ 
+is also advocated by Lloyd Cutler, White House Counsel to both 
+Presidents Carter and Clinton. ‘‘License and Restrict Handguns”’, 
+Washington Post, December 21, 1993, page A23. 
+
+
+After passage of the “Brady Bill’’ (which imposed a five busi- 
+ness day waiting period on the sale of handguns) the Washington 
+Post editorialized that, ‘“‘[t] here remains much more to do (espe- 
+cially in regard to banning assault weapons), ...”’ ‘““Gun Law From 
+Barth to Brady”, Washington Post, December 1, 1993, Page A24. 
+In another editorial entitled “Gun Control In Haiti’’, this news- 
+paper equated gun control with firearms confiscation by American 
+troops occupying that island. Washington Post, November 29, 
+1994, Page A22. 
+
+
+5 Any comprehensive listing of attempts to seriously restrict 
+or prohibit the private ownership of firearms would exceed the 
+limits imposed by Rule 33. What follows is only a minuscule 
+sampling of efforts at local attempts at prohibiting private gun 
+ownership. 
+
+
+The Chicago Housing Authority has adopted lease provisions 
+prohibiting tenants from possessing firearms or ammunition. This 
+applies even to persons who are otherwise in compliance with 
+applicable state and city laws, such as the registration requirements 
+of Chicago Code Sec. 8-20-040). Dowlut, Bearing Arms In State 
+Bills Of Rights, Judicial Interpretation, And Public Housing, 5 
+St. Thomas Univ. L.R. 203, 212-214 (1992). Similar lease restric- 
+tions imposed by the Portland, Maine Housing Authority were 
+recently invalidated by the Maine Supreme Judicial Court on 
+
+
+[footnote continued] 
+
+
+21 
+
+
+to the States is, therefore, of great importance to mil- 
+lions of Americans whose possession of firearms may be 
+adversely affected by local laws. 
+
+
+People have a fundamental right to defend themselves 
+against criminal assaults. United States v. Panter, 688 
+F.2d 268, 271 (5th Cir. 1982). For many adults, fire- 
+arms offer the only practical and effctive means of self- 
+defense against armed, violent attackers. The importance 
+of having access to firearms for self-defense is under- 
+scored by the fact that local governments have no obli- 
+gation to protect any particular individual. See DeShaney 
+v. Winnebago County Department Of Social Services, 
+489 U.S. 189, 196-97, 109 S.Ct. 998, 1003, 103 L.Ed.2d 
+249 (1989), South v. Maryland, 59 U.S. 396, 15 L.Ed. 
+
+
+grounds other than the Second Amendment. John Doe v. Portland 
+Housing Authority, Decision No. 7191, April 4, 1995. 
+
+
+Morton Grove, Ill. Village Ordinance No. 81-11 bans the pri- 
+vate possession of handguns, subject to certain exceptions. No 
+exception is made for people who simply want to keep a handgun 
+at home for self-defense. The ordinance was unsuccessfully chal- 
+lenged as being violative of the Illinois State Constitution and the 
+Second and Ninth Amendments of the United States Constitu- 
+tion. See Quilici v. Village of Morton Grove, 695 F.2d 261 (7th 
+Cir. 1982), cert. denied, 464 U.S. 863 (1983). 
+
+
+The cities of Kenosha and Milwaukee, Wisconsin held refer- 
+endums in November, 1994 on virtually identical ordinances that 
+would have outlawed private possession of handguns with a barrel 
+shorter than 10 inches. None of the exemptions in either ordi- 
+nance would have permitted possession of a handgun at home for 
+self-defense. The measure lost in Milwaukee by a 2 to 1 margin 
+with 47,721 votes in favor, and 97,421 against. In Kenosha the 
+ordinance lost by a margin of almost 3 to 1 with 6,382 votes in 
+favor, and 17,537 votes against. 
+
+
+The District of Columbia has prohibited the acquisition of 
+new handguns by its residents since 1976. All firearms, including 
+handguns, must be registered. D.C. Code, Sec. 6-2311. However, 
+D.C. Code, Sec. 6-2312(4) provides that no registration certificate 
+shall be issued for a pistol not validly registered prior to September 
+24, 1976. 
+
+
+22 
+
+
+433 (1856). Ironically, the same localities who would 
+disarm their inhabitants can disclaim any obligation to 
+protect them.® 
+
+
+The legislative history of the Fourteenth Amendment 
+demonstrates that its drafters intended the first section to 
+restrain the power of the States to abridge personal rights 
+guaranteed by the first eight amendments to the Consti- 
+tution. Cottrol & Diamond, The Second Amendment: 
+Toward An Afro-Amencanist Reconsideration, 80 GEO 
+L.J. 309, 346 (1991), Van Alstyne, The Second Amenda- 
+ment and The Personal Right to Arms, 43 DUKE L.,J. 
+1236, 1251-52 (1994). However, not long after ratifica- 
+tion of the Fourteenth Amendment this Court held that 
+the Bill of Rights operated only as a restraint upon the 
+federal government. United States v. Crutkshank, 92 
+U.S. 542, 23 L.Ed. 588 (1876). Via Crutkshank, this 
+Court effectively repealed the Due Process Clause of the 
+Fourteenth Amendment. As noted above, beginning in 
+1897 this Court has subsequently held other portions 
+of the Bill of Rights as being applicable to the States via 
+the Due Process Clause. 
+
+
+In The Embarrassing Second Amendment, 99 YALE 
+L.J. 637, 653 (1989), Prof. Sanford Levinson of the 
+University of Texas Law School questions whether 
+Cruthkshank and Presser should still be considered binding 
+precedent: 
+
+
+The first ‘incorporation decision,” Chicsgo, B. & 
+Q.R. Co. v. Chicago, was not delivered until eleven 
+years after Presser, one therefore cannot know if the 
+judges in Cruthkshank and Presser were willing to 
+concede that any of the amendments comprising the 
+Bill of Rights were anything more than limitations 
+
+
+6 see note 5, supra. 
+
+
+23 
+
+
+on congressional or other national power. The 
+obvious question, given the modern legal reality of 
+the incorporation of almost all of the rights pro- 
+tected by the First, Fourth, Fifth, Sixth, and Eighth 
+Amendments, is what exactly justifies treating the 
+Second Amendment as the great exception. Why, 
+that is, should Cruikshank and Presser be regarded 
+as binding precedent any more than any of the other 
+“‘pre-incorporation” decisions refusing to apply 
+given aspects of the Bill of Rights against the States? 
+(emp. in original) 
+
+
+¥. 
+IN AFFIRMING THE DISMISSAL OF THE COMPLAINT 
+BY THE DISTRICT COURT, THE COURT OF APPEALS 
+DISREGARDED WELL-ESTABLISHED PRECEDENT. 
+
+
+A. The Court of Appeals mis-applied a standard 
+that is relevant only in cases of unintentional 
+conduct. 
+
+
+In holding that the Due Process Clause was not vio- 
+lated in this case, the Court of Appeals relied on Rucker 
+v. Harford County, 946 F.2d 278 (4th Cir. 1991), cert. 
+dented, 112 S.Ct. 1175 (1992) [App. 29a]. Rucker 
+involved the unintentional shooting of a bystander while 
+police were attempting to apprehend a fleeing criminal. 
+In Rucker, 946 F.2d at 281, the Court of Appeals cited 
+Daniels v. Williams, 474 U.S. 327, 331, 106 S.Ct. 662, 
+665, 88 L.Ed.2d 662 (1986) in support of its holding 
+that the residual protections of “substantive due process” 
+
+
+run only to state action so arbitrary and irrational, 
+so unjustified by any circumstance or governmental 
+interest, as to be literally incapable of avoidance by 
+any pre-deprivation procedural protections or of 
+adequate rectification by any post-deprivation state 
+remedies. 
+
+
+© 
+
+
+24 
+
+
+Daniels v. Williams, like Rucker, involved unintentional 
+conduct on the part of the defendants. Dantels held that 
+“the Due Process Clause is simply not implicated by a 
+negligent act of an official causing unintended loss of or 
+injury to life, liberty or property.” 474 U.S. at 328, 106 
+S.Ct. at 663 (emp. in original). In discussing the Due 
+Process Clause, this Court in Dantels stated that “‘Histor- 
+ically, this guarantee of due process has been applied to 
+deliberate decisions of government officials to deprive 
+a person of life, liberty, or property.” 474 U.S. at 331, 
+106 S.Ct. at 665 (emp. in original). Cf, Kellogg v. City 
+of Gary, 562 N.E.2d 685 (Ind. 1990). In Kellogg the 
+Supreme Court of Indiana upheld a Sec. 1983 action in 
+which the City of Gary refused to even issue applications 
+for handgun carry permits. In doing so, the court held 
+that a state law right to bear arms for self-defense and for 
+defense of the state is an interest in both liberty and 
+property protected by the Fourteenth Amendment and 
+which can serve as the basis for a Sec. 1983 action. Jd. 
+at 694-95. 
+
+
+The decision to disapprove petitioner’s application to 
+purchase a firearm is alleged to have been deliberate and 
+made with knowledge that there was no lawful basis for 
+disapproval. In the context of a case alleging deliberate 
+misconduct, Dantels v. Willtams is inapplicable. 
+
+
+B. The Court of Appeals overlooked its usual stand- 
+ard in reviewing Rule 12(b)(6) motions, and 
+stated as fact something that is not apparent from 
+the record or even suggested by respondents. 
+
+
+In order to excuse the respondents’ unlawful conduct 
+in disapproving the petitioner’s application to purchase a 
+firearm, the Court of Appeals stated as fact something 
+that is not apparent from the record, or even suggested 
+
+
+25 
+
+
+by the respondents in their brief. Petitioner asks only 
+that her case be decided on the basis of the record. 
+
+
+The Court of Appeals concluded that although 
+respondents apparently violated state law, they were 
+compelled to do so because of time constraints: 
+
+
+The licensing division of the Maryland State Police 
+received the [petitioner’s] application [to purchase 
+a firearm] on September 18, 1990. It was strapped 
+for time — Maryland law gives the police only seven 
+days to deny the application; if it does not act, the 
+dealer may legally sell the firearm. 27 Md. Code 
+Ann. Sec. 442(b)(1992) [App. 26a]. 
+
+
+The Court also discussed what ‘forced’ the respond- 
+ents to “‘streamline’’ the investigation required by the 
+legislature: 
+
+
+Though their acts apparently violated state law, 
+these police officers were forced by extreme time 
+constraints to streamline investigations. They erred 
+on the side of caution by denying applications 
+where a computer check showed arrests with 
+unknown dispositions. We cannot say that this 
+corner cutting was “‘unjustified by circumstance or 
+governmental interest’’ or that its effect was ‘“‘liter- 
+ally incapable of . . . adequate rectification by any 
+post-deprivation state remedies” [App. 30a]. 
+
+
+The statute giving the State Police seven days in which 
+to disapprove an application to purchase a firearm was 
+enacted in 1966. Legislatures are presumed to intend to 
+enact statutes which are constitutional and otherwise 
+valid. Port Const. Co. v. Gov’t Of Virgin Islands, 359 
+F.2d 663, 665 (3rd Cir. 1966). Since 1966, the Mary- 
+land General Assembly has never seen the need to expand 
+the period of time in which the State Police must decide 
+whether to disapprove an application to purchase a fire- 
+
+
+26 
+
+
+arm. The Court of Appeals substituted its judgment for 
+that of the Maryland legislature in holding that the seven 
+day period was not sufficient for respondents to conduct 
+the investigation required by law. By excusing respond- 
+ents’ unlawful conduct which is sanitized as ‘“‘streamlin- 
+ing” or “corner cutting” the Court of Appeals laid the 
+foundation for its conclusion that respondents’ conduct 
+was: (a) justified and/or (b) not incapable of ‘‘adequate 
+rectification by any post-deprivate state remedies.” 
+
+
+There is nothing in the record below which justified 
+respondents’ willful disregard of the law they were sworn 
+to uphold, regardless of whether it is characterized as 
+mere ‘‘streamlining” or “corner cutting”. Petitioner 
+alleges that respondents knew they had no lawful basis to 
+disapprove her application, and that they acted willfully 
+and maliciously and with a reckless disregard of the 
+appellant’s constitutional rights. The standard of review 
+used in evaluating a Rule 12(b)(6) motion is whether the 
+complaint, accepting the allegations as true, allows a 
+recovery. Waterford Citizens Ass’n v. Reilly, 970 F.2d 
+187, 1290 (4th Cir. 1992). 
+
+
+Petitioner ultimately prevailed in a judicial appeal of 
+the respondent’s conduct. Unfortunately, no post-depri- 
+vation state remedy could restore to petitioner the free 
+exercise of her right while the case was on appeal in state 
+court. By way of analogy, if petitioner had been denied 
+the right to vote solely on account of her race she could 
+undoubtedly have that denial overturned by a state court. 
+However, in the interim, she would have been denied the 
+exercise of that right, which no post-deprivation remedy 
+could restore to her. 
+
+
+27 
+
+
+CONCLUSION 
+
+
+For the reasons set forth above, petitioner prays that 
+her Petition For Writ Of Certiorari be granted. 
+
+
+Respectfully submitted, 
+
+
+HOWARD J. FEZELL 
+8 East Street, Suite 200 
+P.O. Box 588 
+Frederick, Maryland 21705 
+(301) 846-0241 
+
+
+Counsel for Petitioner. 
+
+
+la 
+
+
+APPENDIX A 
+
+
+RELEVANT CONSTITUTIONAL PROVISIONS 
+AND STATUTES 
+
+
+U.S. Const. Amendment 2: 
+
+
+A well regulated Militia being necessary to the 
+security of a free state, the right of the people to 
+keep and bear arms, shall not be infringed. 
+
+
+U.S. Const, Amendment 14, Section 1: 
+
+
+All persons born or naturalized in the United 
+States, and subject to the jurisdiction thereof, are 
+citizens of the United States and of the State 
+wherein they reside. No State shall make or enforce 
+any law which shall abridge the privileges or immun- 
+ities of citizens of the United States; nor shall any 
+State deprive any person of life, liberty, or property 
+without due process of law; nor deny to any person 
+within its jurisdiction the equal protection of the 
+laws. 
+
+
+42 U.S.C. §1983 
+Civil action for deprivation of rights 
+
+
+Every person who, under color of any statute, ordinance, 
+regulation, custom, or usage, of any State or Territory or 
+the District of Columbia, subjects, or causes to be sub- 
+jected, any citizen of the United States or other person 
+within the jurisdiction thereof to the deprivation of any 
+rights, privileges, or immunities secured by the Con- 
+stitution and laws, shall be liable to the party injured in 
+an action at law, suit in equity, or other proper proceed- 
+ing for redress. For the purposes of this section, any Act 
+
+
+2a 
+
+
+of Congress applicable exclusively to the District of 
+Columbia shall be considered to be a statute of the 
+District of Columbia. 
+
+
+(R.S. §1979; Dec. 29, 1979, P. L. 96-170, §1, 93 Stat. 
+1284.) 
+
+
+Fed. R. Civ. P. 12(b) 
+
+
+Rule 12 
+Defenses and Objections — When and How 
+Presented — By Pleading or Motion — 
+Motion for Judgment on the Pleadings 
+
+
+* * * 
+
+
+(b) How Presented. Every defense, in law or fact, to a 
+claim for relief in any pleading, whether a claim, counter- 
+claim, cross-claim, or third-party claim, shall be asserted 
+in the responsive pleading thereto if one is required, 
+except that the following defenses may at the option of 
+the pleader be made by motion; (1) lack of jurisdiction 
+over the subject matter, (2) lack of jurisdiction over the 
+person, (3) improper venue, (4) insufficiency of process, 
+(5) insufficiencey of service of process, (6) failure to state 
+a claim upon which relief can be granted, (7) failure to 
+join a party under Rule 19. A motion making any of 
+these defenses shall be made before pleading if a further 
+pleading is permitted. No defense or objection is waived 
+by being joined with one or more other defenses or objec- 
+tions in a responsive pleading or motion. If a pleading 
+sets forth a claim for relief to which the adverse party is 
+not required to serve a responsive pleading, the adverse 
+party may assert at the trial any defense in law or fact to 
+
+
+(RR i 
+
+
+3a 
+
+
+that claim for relief. If, on a motion asserting the defense 
+numbered (6) to dismiss for failure of the pleading to 
+state a claim upon which relief can be granted, matters 
+outside the pleading are presented to and not excluded 
+by the court, the motion shall be treated as one for 
+summary judgment and disposed of as provided in Rule 
+56, and all parties shall be given reasonable opportunity 
+to present all material made pertinent to such a motion 
+by Rule 56. 
+
+
+Md. Ann. Code art. 27, Sec. 442 
+Sec. 442. Sale or transfer of pistols and revolvers. 
+
+
+(a) Right to regulate sales preempted by State.—All 
+restrictions imposed by the laws, ordinances or regula- 
+tions of all subordinate jurisdictions within the State of 
+Maryland on sales of pistols or revolvers are superseded 
+by this section, and the State of Maryland hereby pre- 
+empts the rights of such jurisdictions to regulate the sale 
+of pistols and revolvers. 
+
+
+(b) Application to purchase or transfer.—No dealer 
+shall sell or transfer any pistol or revolver until after 
+seven days shall have elapsed from the time an applica- 
+tion to purchase or transfer shall have been executed by 
+the prospective purchaser or transferee, in triplicate, and 
+forwarded by the prospective seller or transferor to the 
+Superintendent of the Maryland State Police. 
+
+
+(c) Same—Disposition of coptes.—The dealer shall 
+promptly after receiving an application to purchase or 
+transfer, completed in accordance with subsection (e) 
+below, forward one copy of the same, by certified mail, 
+to the Superintendent of the Maryland State Police. The 
+
+
+Oe 
+
+
+4a 
+
+
+copy forwarded to the said Superintendent shall contain 
+the name, address, and signature of the prospective seller 
+or transferor. The prospective seller or transferor shall 
+retain one copy of the application for a period of not less 
+than three years. The prospective purchaser or transferee 
+shall be entitled to the remaining copy of the application. 
+
+
+(d) Same—Fees.—(1) a person who makes an applica- 
+tion to purchase or transfer a pistol or revolver shall pay 
+to the dealer a $10 application fee with the application to 
+purchase or transfer. [NOTE: The above provision was 
+not in effect as of September, 1990. It was added to Sec. 
+442 in 1992. | 
+
+
+(2) The dealer shall forward the $10 application fee 
+along with the application to the Superintendent of the 
+Maryland State Police. 
+
+
+(ce) Same—Statement of penalties for supplying false 
+information required.—The application to purchase or 
+transfer shall bear the following legend: “Any false infor- 
+mation supplied or statement made in this application is 
+a crime which may be punished by imprisonment for a 
+period of not more than three years, or a fine of nor 
+more than $5,000, or both.”’ 
+
+
+(f) Same—Information required.—The application to 
+purchase or transfer shall contain the following infor- 
+mation: 
+
+
+(1) Applicant’s name, address, occupation, place and 
+date of birth, height, weight, race, eye and hair color 
+and signature. In the event the applicant is a corporation, 
+the application shall be completed and executed by a 
+corporate officer who is a resident of the jurisdiction in 
+which the application is made. 
+
+
+(2) A statement by the applicant that he or she: 
+
+
+a 
+
+
+5a 
+
+
+(i) Has never been convicted of a crime of violence, in 
+this State or elsewhere, or of a violation of any of the 
+provisions of Secs. 286, 286A or 286C of this article or 
+any conspiracy to commit any crimes established by 
+those sections, or of any of the provisions of this subtitle. 
+
+
+(ii) Is not a fugitive from justice. 
+(iii) Is not a habitual drunkard. 
+
+
+(iv) Is not an addict or a habitual user of narcotics, 
+barbiturates or amphetamines. 
+
+
+(v) Has never spent more than thirty consecutive days 
+in any medical institution for treatment of a mental dis- 
+order or disorders, unless there is attached to the applica- 
+tion a physician’s certificate, issued within thirty days 
+prior to the date of application certifying that the appli- 
+cant is capable of possessing a pistol or revolver without 
+undue danger to himself or herself, or to others. 
+
+
+(vi) Is at least 21 years of age as required by federal 
+law. 
+
+
+(vii) Has or has not submitted a prior application and, 
+if so, when and where. 
+
+
+(3) The date and hour the application was delivered 
+in completed form to the prospective seller or transferor 
+by the prospective purchaser or transferee. 
+
+
+(g) Investigation of application; procedure when 
+false information is discovered or the application is 
+incomplete.—The Superintendent of the Maryland State 
+Police may request the assistance of the police commis- 
+sioner of Baltimore City, the chief of police in any 
+county maintaining a police force, or the sheriff in a 
+county not maintaining a police force and shall promptly 
+upon receipt of the application to purchase or transfer 
+conduct an investigation in order to determine the truth 
+
+
+6a 
+
+
+or falsity of the information supplied and statements 
+made in said application. If it be thereupon determined 
+that any false information or statement has been supplied 
+or made by the applicant, or that the application has not 
+been properly completed, the said Superintendent or any 
+specific member of the State Police authorized by the 
+Superintendent to act as his agent in matters relating 
+to pistol or revolver sales shall notify the prospective 
+seller or transferor, in writing, within seven days from the 
+date the executed application to purchase or transfer was 
+forwarded by certified mail, of his disapproval of said 
+application. Written notice of such disapproval shall be 
+thereafter forwarded by the said Superintendent and/or 
+his duly authorized agent or agents to the prospective 
+purchaser or transferee. The date upon which the exe- 
+cuted application to purchase or transfer was forwarded 
+by certified mail by the prospective seller or transferor 
+shall be considered as the first day of the seven-day 
+period allowed for notice of disapproval to the said pro- 
+spective seller or transferor. If the seventh day of the 
+seven-day period allowed for the said notice of dis- 
+approval shall fall on a Sunday or legal holiday, the 
+computation period shall be extended to the first day 
+next following, which is neither a Sunday nor a legal 
+holiday. [NOTE: Until 1992, this was subsection (f) of 
+Sec. 442. ] 
+
+
+(h) Sale prohibited to dtsapproved applicant; excep- 
+tions.—No dealer shall sell or transfer a pistol or revolver 
+to an applicant whose application has been timely dis- 
+approved, unless such disapproval has been subsequently 
+withdrawn by the Superintendent of the Maryland State 
+Police and/or his duly authorized agent or agents or 
+overruled by the action of the courts pursuant to sub- 
+section (i) of this section. 
+
+
+7a 
+
+
+(i) Hearing; judicial review.—(1) Any prospective 
+purchaser or transferee aggrieved by the action of the 
+State Police may request a hearing within 30 days from 
+the date when written notice was forwarded to the 
+aggrieved person by writing to the Superintendent of 
+State Police, who shall grant the hearing within fifteen 
+days of the request. 
+
+
+(2) The hearing and subsequent proceedings of judicial 
+review, if any, thereupon following shall be conducted in 
+accordance with the provisions of the Administrative 
+Procedure Act. 
+
+
+(3) The hearing shall be held in the county of the 
+legal residence of the aggrieved person. If the aggrieved 
+person is not a State resident, the hearing shall be held 
+at a location designated by the Superintendent of the 
+State Police. 
+
+
+(j) Nottfication of completed transaction; permanent 
+record of sales and transfers.—Any dealer who sells or 
+transfers a pistol or revolver in compliance with this sub- 
+title shall forward a copy of the written notification of 
+such completed transaction, within seven days from the 
+date of delivery of the said pistol or revolver, to the 
+Superintendent of the Maryland State Police, whose duty 
+it shall be to maintain a permanent record of all such 
+completed sales and transfers of pistols and revolvers in 
+the State. The notification shall contain an identifying 
+description of the pistol or revolver sold or transferred 
+including its caliber, make, model, manufacturer’s serial 
+number, if any, and any other special or peculiar char- 
+acteristics or marking by which the said pistol or revolver 
+may be identified. 
+
+
+(k) Construction of section.—Nothing in this section 
+shall be construed to affect sales and/or transfers for 
+
+
+8a 
+
+
+bona fide resale in the ordinary course of business of a 
+person duly licensed under Sec. 443 of this subtitle, or 
+sales, transfers, and/or the use of pistols or revolvers by 
+any person authorized or required to sell, transfer, and/or 
+use such pistols or revolvers as part of his or her duties as 
+a member of any official police force or other law 
+enforcement agency, the armed forces of the United 
+States, including all official reserve organizations, or the 
+Maryland National Guard. 
+
+
+(1) Penalties.—Any person who knowingly gives any 
+false information or makes any material misstatement in 
+an application required by this section, or who fails to 
+promptly forward such application to the Superintendent 
+of the Maryland State Police or his duly authorized agent 
+or agents, or who sells or transfers a pistol or revolver to 
+a person other than the one by whom application was 
+made, or who otherwise sells, transfers, purchases, or 
+receives transfer of a pistol or revolver in violation of this 
+section, shall upon conviction thereof be subject to the 
+penalties hereinafter provided in Sec. 448 of this subtitle. 
+
+
+Md. Ann. Code art. 27, Sec. 445 
+
+
+Sect. 445. Restrictions on sale, transfer and possession of 
+pistols and revolvers. 
+
+
+(a) Right to regulate transfer and possession of pistols 
+and revolvers prrempted by State.—All restrictions 
+imposed by the laws, ordinances or regulations of all 
+subordinate jurisdictions within the State of Maryland on 
+possession or transfers by private parties of pistols and 
+revolvers are superseded by this section and the State of 
+Maryland hereby preempts the right of such jurisdictions 
+to regulate the possession and transfer of pistols and 
+revolvers. 
+
+
+9a 
+
+
+(b) Sale or transfer to criminal, fugitive, etc.—A dealer 
+or person may not sell or transfer a pistol or revolver to a 
+persons whom he knows or has reasonable cause to 
+believe has been convicted of a crime of violence, or of a 
+violation of any of the provisions of Sec. 286, Sec. 
+286A, or Sec. 286C of this article, or any conspiracy to 
+commit any crimes established by those sections or of 
+any of the provisions of this subtitle, or is a fugitive from 
+justice, or is a habitual drunkard, or is addicted to or a 
+habitual user of narcotics, barbiturates or amphetamines, 
+or is of unsound mind, or to any person visibly under the 
+influence of alcohol or drugs, or to any person under 2] 
+years of age as required by federal law. 
+
+
+(c) Possession by criminal, fugitive, etc.—A person 
+may not possess a pistol or revolver if the person: 
+
+
+(1) Has been convicted of: 
+
+(i) A crime of violence; or 
+
+(ii) Any provision of this subtitle; or 
+(2) Is: 
+
+(i) A fugitive from justice; 
+
+(ii) A habitual drunkard; 
+
+
+(iii) A habitual abuser of narcotics, barbiturates, or 
+amphetamines; or 
+
+
+(iv) Suffering from a mental disorder as defined in 
+Sec. 10-101(h)(2) of the Health-General Article and has 
+a history of violent behavior against another person or 
+self, or has been confined for more than 30 consecutive 
+days to a facility as defined in Sec. 10-101 of the Health- 
+General Article, unless the person possesses a physician’s 
+certification that the person is capable of possessing a 
+pistol or revolver without undue danger to the person or 
+to others. 
+
+
+10a 
+
+
+APPENDIX B 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF MARYLAND 
+
+
+Case No. PJM93-2609 
+
+
+APRIL LOVE, 
+Plaintiff 
+
+
+vs. 
+
+
+ROBERT G. PEPERSACK, SR., et al., 
+Defendants 
+
+
+Baltimore, Maryland 
+April 1, 1994 
+11:30 A.M. 
+
+
+TRANSCRIPT OF ORAL OPINION OF COURT 
+BEFORE THE HONORABLE PETER J. MESSITTE 
+
+
+TRANSCRIPT ORDERED 
+BY: HOWARD J. FEZELL, ESQ. 
+APPEARANCES: 
+For the Plaintiff: By: HOWARD J. FEZELL, ESQ. 
+203A Broadway Street 
+Suite 9 
+P.O. Box 588 
+
+
+Frederick, Maryland 21701 
+(301) 846-0241 
+
+
+For the Defendants: By: 
+MARY HOLDSWORTH BOWEN, ESQ. 
+
+
+1201 Reisterstown Road 
+
+
+lla 
+
+
+Pikesville, Maryland 21208 
+(410) 653-4228 
+
+
+Court Recorder Operator: Stallings 
+Transcriber: Sherry Thomson 
+[2] PROCEEDINGS 
+
+
+(Call to order of the Court at 11:30 a.m.; prior pro- 
+ceedings not transcribed as per order) 
+
+THE COURT: Court is prepared to rule. 
+
+This is an action for relief under Article ___, Title 42, 
+Section 1983 of the United States Code. It is brought 
+by plaintiff, April Love, against various state employees 
+connected with the Maryland State Police. 
+
+In summary, it is a claim for money damages to repre- 
+sent, to redress the deprivation of what plaintiff claims 
+were rights guaranteed her under the federal Constitution 
+consistent with the language of 42 U.S.C., Section 1983, 
+and it arises out of the efforts of Ms. Love to obtain, in 
+1990, the right to purchase a firearm from a dealer in 
+Maryland. 
+
+The individuals involved are Robert G. Pepersack, 
+Merrill A. Messick, Ernest Pletcher, and Elmer Tippett, 
+Jr. The state of Maryland is also made a defendant in 
+this case. 
+
+Mr. Pepersack, at the time of the events in question, 
+was supervisor of the firearms license section of the 
+Maryland State Police. Mr. Messick was commander of 
+the licensing division of the Maryland State Police. Mr. 
+Pletcher was a corporal in the Maryland State Police, 
+assigned to the firearms section of the licensing division 
+of the state police. And Mr. Tippett was superintendent 
+of the Maryland State Police. 
+
+
+12a 
+
+
+[3] Each of these individuals are sued in their indi- 
+vidual capacity although they are alleged, at the time 
+that they were acting, to have been acting as officials. 
+
+The — Certain preliminary issues need to be addressed 
+with regard to this case to get beyond the, the, even to 
+discuss even whether there have been constitutional 
+violations or not. 
+
+And the first would go to whether the state of Mary- 
+land has any business in this suit at all; that is, the state 
+of Maryland itself. And that matter, in the Court’s view, 
+is disposed of summarily by the argument made by the 
+state that the Eleventh Amendment to the U.S. Consti- 
+tuion basically immunizes the state from suit. That goes 
+back as far as (INAUDIBLE). It has been reaffirmed 
+many times; in Pennhurst State School and Hospital v. 
+Halderman, 465 U.S. 89, a 1984 Supreme Court case, 
+and also Weller v. Department of Social Services, a 901 
+F.2d 387 Fourth Circuit case from 1990. 
+
+Accordingly, the Court grants the defendants’ motion 
+to dismiss the state of Maryland as a defendant. 
+
+The other individuals are sued and it is said by counsel 
+for those individuals that really they are being sued in 
+their official capacity, not in their individual capacity, 
+and that, that therefore they should, this should be 
+treated as a suit against the state and the suit should also 
+be dismissed as to them. 
+
+[4] The Court agrees with the plaintiff in this case 
+that effectively what we have here is a claim against state 
+officials but they are sued in their individual capacity 
+and as such they are liable to suit. Hafer v. Mellow, 112 
+Sup. Ct. 358, 1991, in the Court’s view, makes them 
+subject to suit under the present circumstances. 
+
+We turn, however, under all those circumstances to 
+the issue of whether a cause of action is stated as to these 
+four defendants now fairly in suit. 
+
+
+13a 
+
+
+42 U.S.C. 1983 reads as follows. Quote, every person 
+who under color of any statute, ordinance, regulation, 
+custom, or usage of any state or territory of the District 
+of Columbia subjects or causes to be subjected any 
+citizen of the United States or other person within the 
+jurisdiction thereof to the deprivation of any rights, 
+privileges, or immunities secured by the Constitution and 
+laws shall be liable to the party injured in an action at 
+law, suit in equity, or other proper proceeding for redress. 
+And that’s the end of the section for present purposes. 
+We need not read more. 
+
+The first and foremost, as the defendants point out, 
+it is required of the plaintiffs, plaintiff in this case, that 
+she demonstrate that she was in fact, she had some con- 
+stitution—, federal constitutional right that she was 
+deprived of, that she be, that there be such a right that 
+she speaks of. 
+
+[5] There are, as the Court understands it, three sepa- 
+rate constitutional rights that the plaintiff relies upon. 
+She says, first, that she has been denied a property right 
+under the Fourteenth Amendment with regard to the 
+acquisition of this firearm. She says she has been denied 
+a right to contract by reason of the disapproval of her 
+application, and she says finally she has been denied of 
+her constitutional right to bear arms under the Second 
+Amendment to the U.S. Constitution. 
+
+I will start with the, the issue of ability to contract, 
+which the Court has not yet seen as a separately stated 
+federal constitutional right and I am, without much 
+more comment, able to conclude that there is no sepa- 
+rately cognizable federal constitutional right to contract 
+that could be asserted under Section 1983. And so, to 
+the extent that the complaint is predicated on that 
+theory, it is rejected. 
+
+
+l4a 
+
+
+The next matter that I will turn to as far as the federal 
+constitution might concern is the right to bear arms 
+under the Second Amendment. It is contended by the 
+plaintiff that consistent with the concept of order, liberty 
+if you will, that the Second Amendment really is not 
+dissimilar from all other federal Bill of Rights amend- 
+ments and that it ought to, to be applicable to the states. 
+
+However persuasive that argument may be, it is clear 
+to this judge that that proposition has not ever been 
+accepted [6] by courts in this country. Indeed, the 
+Supreme Court of the United States has made it clear 
+that the Second Amendment to the U.S. Constitution 
+does not apply to the states. That was held as early as 
+U.S. v. Crookshank, which is 92 U.S. 542-553, an 1875 
+case where the court stated, concerning the right of 
+bearing arms for a lawful purpose, quote, this is not a 
+right granted by the constitution; neither is it in any 
+manner dependent upon that instrument for its exist- 
+ence. The Second Amendment declares that it shall not 
+be infringed but this, as has been seen, means no more 
+than that it shall not be infringed by Congress. 
+
+And then that review, that position had been reaf- 
+firmed in Pressor v. Illinots, whci is a 198— Excuse 
+me — an 1886 case which appears at 116 U.S. 252. And 
+has been affirmed also by the Maryland Court of Special 
+Appeals in Underdunk (PHONETIC) v. Handgund Permit 
+Review Board, 44 Md.F.132, which is a 1979 case. 
+
+The Court, therefore, feels it need not inquire beyond 
+the matter of the inapplicability of the Second Amend- 
+ment to the states because under 42 U.S.C. 1983 it has 
+to be a federal constitutional right or other law that is 
+the matter or the subject of deprivation, and not some 
+other law. 
+
+To the extent that the Maryland Constitution may 
+incorporate by reference the Second Amendment, that 
+
+
+l5a 
+
+
+may constitute a state constitutional claim that could be 
+[7] litigated in state court, but it is not one that is liti- 
+gateable in federal court pursuant to 42 U.S.C., Section 
+1983. 
+
+That leaves the third theory of, of deprivation of right 
+that plaintiff relies upon and she says that this is a 
+deprivation of her substantive due process rights under 
+the Fourteenth Amendment, and she characterizes her 
+interest in that regard as a property interest that has been 
+affected in this case. 
+
+The Court does agree, to this extent, with the plaintiff 
+that one proceeds in the analysis of a deprivation of due 
+process right under the claim of entitlement standard 
+and, that is, that whether someone is entitled to a permit 
+or approval of, of a certain activity will depend on 
+whether the local agency lacks all discretion to, to deny 
+issuance or the, of a permit or withhold approval. That 
+concept appeared in Gardner v. Mayor and City Council 
+of Baltimore, which is 90—, 969 F.2d 63, a Fourth Cir- 
+cuit case from 1992. 
+
+So that before one looks at the substantive due process 
+standard there has to be, first, a legitimate claim of 
+entitlement and then, if there is, one looks at the issue of 
+whether there has been arbitrary, capricious behavior, or 
+another way of saying that is whether there is behavior 
+that shocks the conscience. 
+
+So we look first at whether there is a claim of entitle- 
+ment in this case, because even if there — If there [8] is 
+no claim of entitlement, then however arbitrary the 
+action may be, it is not actionable under 42 U.S.C. 1983. 
+It yet may be actionable under state law. 
+
+The statute that the plaintiff proceeds under and 
+makes reference to in this case is a Maryland state statute 
+which appears at Article 27, Section 442, regulating the 
+sale or transfer of pistols and revolvers. And basically 
+
+
+16a 
+
+
+the, the statute provides that a dealer is precluded from 
+selling or transferring a pistol or revolver until seven days 
+have elapsed from the time of the application to purchase 
+the revolv—, revolver and from the time that the prospec- 
+tive purchaser executes an application and submits it to 
+the Maryland State Police for approval. 
+
+Now in this case there’s no question that an applica- 
+tion was, for approval was executed and it is also true 
+that within seven days the Maryland State Police dis- 
+approved the application. 
+
+It is provided in the stature, 27 Maryland Code, 
+Article 27 Maryland Code, Section 442, (e) that certain 
+information has to be provided by the applicant, among 
+that information that the individual has never been con- 
+victed of a crime of violence in this state or elsewhere or 
+a violation of certain provisions related to drug offenses. 
+
+In this case the applicant, Ms. Love, did indicate 
+that, that she certified that she was not disqualified and 
+[9] that is all that she said. 
+
+Pursuant to Article 27, Section 442, sub (f), the 
+superintendent was, upon receipt of the application, to 
+commence his or its investigation of the application in 
+order to determine the truth or falsity of information 
+supplied and the statements made in said application. 
+And that, that apparently did occur. 
+
+Now as I understand the representation in this case 
+there was some effort made within the seven days to, to 
+find out what was going on in this case and there appar- 
+ently was at least some response from the federal com- 
+puter network, suggesting that this individual, Ms. Love, 
+which is her true name, was, had been the subject of prior 
+arrests in other states, and I think there were three 
+arrests that were indicated. And apparently no indica- 
+tion of what the disposition was relative to those arrests. 
+
+
+17a 
+
+
+Without the matter being further resolved but with 
+the seven day period closing in, apparently the state 
+superintendent of police or his representatives disap- 
+proved the application, and thereupon there was a 
+judicial review, a hearing sought and the judicial review 
+sought of those decisions as further provided in sub- 
+section (g) of the reference to statute. 
+
+At the hearing before a state hearing examiner the 
+decision of the state superintendent was affirmed appar- 
+ently, [10] and then later a petition for review was 
+filed with the Circuit Court for Montgomery, for Prince 
+George’s County relative to the propriety of that deci- 
+sion. 
+
+MR. FEZELL: Excuse me, Your Honor. 
+
+THE COURT: Certainly. 
+
+MR. FEZELL: If I may, just a brief correct. The 
+appeal hearing was heard by Sergeant Pepersack, who 
+made the decision to disapprove, so the appeal was in 
+fact conducted by the individual— 
+
+THE COURT: Was there a hearing officer— 
+
+MR. FEZELL: —who did the disapproval. 
+
+THE COURT: — as well? 
+
+MR. FEZELL: No, Your Honor. 
+
+THE COURT: All right, I stand corrected. It was done 
+internally. There was a hearing by someone, in fact one 
+of the defendants in the case, who also denied the, the 
+license. And then judicial review was sought in the Cir- 
+cuit Court for Prince George’s County and, based on this 
+administrative decision, based on presumably a sub- 
+stantial evidence standard, arbitrary and capricious stand- 
+ard, and Judge McCollough (PHONETIC) of the Circuit 
+Court for Prince George’s County felt that the superin- 
+tendent of the state police had acted arbitrarily and 
+capriciously and, therefore, ordered that the approval be 
+given with regard to the application forthwith. 
+
+
+18a 
+
+
+[11] Now the — Without — I don’t have the transcript 
+of Judge McCollough’s ruling but let us assume for pres- 
+ent purposes that he decided that the superintendent of 
+police acted arbitrarily and capriciously in not approving 
+this application and, as I understand it further, in putting 
+upon the applicant herself some duty to demonstrate that 
+she had not been convicted of these offenses which the 
+computer showed she had been arrested for. 
+
+Well, I don’t know that I need any interruption at this 
+point. It’s not — 
+
+MR. FEZELL: Fine. 
+
+THE COURT: — not too central because I — Whatever 
+the procedure is I, I don’t have the record of Judge 
+McCollough in front of me and I’m really into my opin- 
+ion now so you'll have to sort of take it as I deliver it. 
+
+In any event, I’m, I’m — We’ll assume for present pur- 
+poses that Judge McCollough found that this was arbi- 
+trary and capricious action and, essentially, reversed the 
+decision of the superintendent and ordered that eventu- 
+ally the application be approved. 
+
+The suggestion by the plaintiff is that the Court may 
+well now be bound by Judge McCollough’s ruling as to 
+the finding of arbitrary and capricious action and that 
+the, that therefore the Court would be required to permit 
+this cause of action to proceed. 
+
+[12] Now the Court does not accept the proposition 
+that it is necessarily bound by Judge McCollough’s find- 
+ing in this case as a matter of law and, frankly, even if, 
+if the Court is not, were not bound by it, the Court sees 
+nothing in the statute itself that necessarily says that the 
+superintendent of police must approve an application 
+within seven days if, even if his investigation is still pend- 
+ing regarding the existence or nonexistence of con- 
+victions. 
+
+
+19a 
+
+
+But I need not reach that point at this time because 
+before you get to the issue of whether there has in fact 
+been arbitrary and capricious action you first have to 
+demonstrate your claim of entitlement. And the Court 
+believes that the plaintiff has not so demonstrated that 
+in this case. 
+
+This is not the kind of case where there is absolutely 
+no discretion whatsoever. There is authority, as the Court 
+reads it, in the police department to investigate the 
+criminal background of th< individual and that authority, 
+in the Court’s view, is sufficient to defeat any claim of an 
+entitlement such as to constitute a protectible property 
+interest under the Fourteenth Amendment. 
+
+In Weller v. Department of Social Services for Balti- 
+more, 901 F.2d 387, a 1990 Fourth Circuit case, although 
+discussing procedural due process, the Court did say, at 
+page 392, that there is no property or liberty interest in 
+the specific investigative procedures which one contends 
+were [13] neglected. No due process claim can rest upon 
+the state’s failure to conduct them. 
+
+Likewise, the Court would find no due pros—, no 
+property, protectible property interest in whether or not 
+the superintendent of police in this case had been diligent 
+or not diligent in regard to the existence of a conviction 
+for these offenses. But — And so I find no claim of entitle- 
+ment such as to find a protectible property interest.. 
+
+Even if I did, however, find a protectible interest in 
+these circumstances, the Court would not find that the 
+actions in this case were arbitrary and capricious in the 
+sense that 42 U.S.C. 1983 defines them. 
+
+What is clear, and it is clear not only in the context of 
+an applicaticn for approval to carry a gun but it may be 
+application to develop property rights or others, that 
+arbitrary, capricious in the federal, 42 U.S.C. 1983 sense 
+is far narrower than arbitrary and capricious as defined 
+
+
+20a 
+
+
+under state law as to whether there is substantial evidence 
+or not to justify a decision. And that’s one, another 
+reason why this Court would not be bound by the finding 
+of the state court, because the standard is radically differ- 
+ent, much narrower. 
+
+There is no, nothing in this action, in this entire trans- 
+action that the Court could say shocks the conscience, is 
+totally divorced from rationality, which is the kind of 
+[14] standard which obtains in the federal arbitrary, 
+capricious sense, but not in the state arbitrary and 
+Capricious sense. 
+
+A decision maker can still have discretion and act 
+arbitrarily in, under state law, and be reversed, and yet 
+not state a federal cause of action which, in the Court’s 
+view, is what has happened here. 
+
+There well may have been arbitrary action by the 
+superintendent of police in denying the applicant’s rights 
+in this case, but not such as to shock the conscience and 
+be so totally divorced from rationality as to state the 
+deprivation of a, of a, of a due process right under the 
+federal constitution. 
+
+So, as I say, number one, I do not believe that there 
+even is a Claim of entitlement in this case with regard to 
+the, the approval of this permit, given that there is some 
+discretion to investigate vested in the superintendent. 
+
+But even if there were a claim on entitlement, in the 
+Court’s view, the Court states as a matter of law that 
+there is not sufficient arbitrary and capricious action 
+within the meaning of the federal statute as to shock the 
+conscience or be totally divorced from rationality. 
+
+On that basis, therefore, the Court finds that the, 
+there is no remaining theory of constitutional right 
+deprivation that would permit this action to remain in 
+this Court, that all potential constitutional actions have 
+been [15] properly addressed. None of them withstand, 
+
+
+2la 
+
+
+in the Court’s view, the argument made by defendants 
+that they do not amount to protectible constitutional 
+interests. 
+
+There well may be violations of state law. It is clear 
+that violations of state law cannot provide the basis for 
+a due process claim. Clark v. Link says that at 855 F.2d 
+156, a 1988 Fourth Circuit case which was, in fact, 
+affirmed by the Supreme Court. 
+
+Sorry, that’s also in — Strike that last language. Weller 
+just affirmed it and Weller was a Fourth Circuit case as 
+well, 
+
+And there may be claims with regard to violations of 
+the Maryland constitution which also could properly be 
+asserted in state court. But they don’t remain in federal 
+court. 
+
+Under all the circumstances the Court believes that 
+the defendants’ motion to dismiss is well taken. The 
+defendants’ motion to dismiss is, therefore, granted. 
+
+MR. FEZELL: Your Honor, if I may just briefly, 
+during the body of your opinion — 
+
+THE COURT: Right. 
+
+MR. FEZELL: — you referred to the procedure as 
+one whereby the superintendent of state police would 
+approve an application to purchase a handgun. And as 
+I pointed out in the body of my memorandum of points 
+and authorities in an [16] argument today, Article 27, 
+Section 442 does not require the superintendent of state 
+police to approve an application. 
+
+Indeed, if you take a look at the text of Article 27, 
+Section 442, subparagraph (f), it talks about the super- 
+intendent of state police sending a notice of disapproval 
+to a prospective seller of a handgun in the event that he 
+shall determine that any false information or statement 
+has been supplied or made by the applicant or that the 
+application has not been properly completed. 
+
+
+22a 
+
+
+So we — This is not a situation where the superinten- 
+dent of state police was withholding approval, but where 
+he was interfering in a matter without a proper statutory 
+basis. 
+
+THE COURT: All right. And, and I will — Accepting 
+that correction, and I think it’s a fair correction, what the 
+statute authorizes the superintendent to do is to issue a 
+notice of disapproval within a seven day period. And in 
+a sense that’s a denial of approval, if you will, and that’s 
+the sense in which I take it. 
+
+I don’t think anything that you’ve said changes my 
+view of this case. In fact the superintendent issued timely 
+a notice of disapproval, you say without appropriate 
+authority. And I think perhaps to some extent Judge 
+McCollough agreed with you. But I say that it is not the 
+kind of lack of authority that rises to the level of denial 
+of a federal [17] constitutional claim. 
+
+May well violate the state statute, may well be arbi- 
+trary and capricious as a matter of state law because, as 
+I see it, there is no claim of entitlement for reasons that 
+I stated and even if there were, there is not, as a matter 
+of law I find, action that is arbitrary and capricious 
+within the meaning of 1983. 
+
+I still deny your recovery on that ground. But I, I 
+accept your correction. It doesn’t really affect, in my 
+view, the decision. 
+
+Case is dismissed in federal court. I guess it’s not really 
+dismissed with, with prejudice. I think you have some 
+causes of action that may yet be assertible unless time 
+has run. 
+
+Speaking of that, I don’t know whether you want to 
+get this case remanded in any way to state court on your 
+state causes of action. 
+
+
+MR. FEZELL: Let me think about that. 
+
+
+23a 
+
+
+THE COURT: Well, you may need to act fairly quickly 
+because as soon as judgment is entered here I may have, I 
+think I’ve got jurisdiction under, under new federal 
+jurisdiction law to remand cases to state court without 
+having you lose your, your limitations rights, and that’s 
+something you’d have to think about and look at the law 
+on that rather quickly. 
+
+[18] MR. FEZELL: Your Honor, you wouldn’t hap- 
+pen to have a cite on that, would you? 
+
+THE COURT: I don’t have the cite handy but there 
+is a, within the last couple of years when supplemental 
+jurisdiction’s supplanted pendant jurisdiction and all 
+that, there was a provision made for a federal court to 
+remand state court actions as I recall without tolling the 
+statute of limitations. So you better look at that. 
+
+I will — Let me, let me say this to you. It’s now 
+Friday. I'll give you until — 
+
+Before I enter final judgment in this case, Madam 
+Clerk — 
+
+I'll give you until next, next Thursday. Actually, I'll 
+give you till the end, close of business Wednesday to 
+decide whether you want to petition for that relief. 
+
+MR. FEZELL: Fine, Your Honor. 
+
+THE COURT: If I have not gotten from you an appro- 
+priate petition and, and also allowing for me, myself, 
+and for the defendant to oppose any kind of remand in 
+that regard — But if you’re going to file a request that 
+I remand part of this to state court, it must be filed by 
+the close of business Wednesday. 
+
+Failing that I will enter final judgment on Thursday. 
+But if you file that motion then, Mr. Bowen, you’ll have 
+time, time to respond. 
+
+[19] MR. BOWEN: Thank Your Honor. 
+
+THE COURT: And then I will rule, without a promise, 
+Mr. Fezell — 
+
+
+24a 
+
+
+MR. FEZELL: Fine, Your Honor. 
+
+THE COURT: — I will rule on whether or not remand 
+is appropriate. 
+
+MR. FEZELL: Fine, Your Honor. 
+
+THE COURT: Okay. All right. Thank you, gentlemen. 
+
+MR. FEZELL: Thank you. 
+
+MR. BOWEN: Thank Your Honor. 
+
+
+* * * 
+
+
+TRANSCRIBER’S CERTIFICATION 
+
+
+I, Sherry Thomson, do hereby certify that the fore- 
+going is a correct transcript from the record of proceed- 
+ings in the above-entitled matter. 
+
+
+25a 
+
+
+APPENDIX C 
+
+
+PUBLISHED 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+No. 94-1582 
+
+
+APRIL LOVE, 
+Plaintiff-Appellant, 
+
+
+ROBERT G. PEPERSACK, SR.; 
+MERRILL A. MESSICK, JR.; 
+ERNEST ELDON PLETCHER; 
+ELMER HUNT TIPPETT, JR.; 
+STATE OF MARYLAND, 
+
+
+Defendants-Appellees. 
+
+
+Appeal from the United States District Court 
+for the District of Maryland, at Baltimore. 
+Peter J. Messitte, District Judge. 
+(CA-93-2609-PJM) 
+
+
+Argued: December 7, 1994 
+Decided: February 3, 1995 
+Before HALL and LUTTIG, Circuit Judges, and 
+
+
+CURRIE, United States District Judge, District of 
+South Carolina, sitting by designation. 
+
+
+26a 
+
+
+Affirmed by published opinion. Judge Hall wrote the 
+opinion of the Court, in which Judge Currie joined. 
+Judge Luttig wrote a separate concurring opinion. 
+
+
+COUNSEL 
+
+
+COUNSEL: Howard J. Fezell, Frederick, Maryland, for 
+Appellant. Mark Holdswroth Bowen, Assistant Attorney 
+General, Pikesville, Maryland, for Appellees. ON BRIEF: 
+J. Joseph Currant, Jr., Attorney General of Maryland, 
+Pikesvilie, Maryland, for Appellees. 
+
+
+OPINION 
+HALL, Circuit Judge: 
+
+
+April Love appeals the dismissal of her 42 U.S.C. 
+§1983 civil rights suit against various Maryland state 
+troopers. We affirm. 
+
+
+L 
+
+
+According to her complaint, in September, 1990, 
+April Love tried to purchase a handgun at a shop in 
+Prince George’s County, Maryland. She filled out an 
+application required by state law. All of her answers to 
+the questions posed were true and correct. 
+
+
+The licensing division of the Maryland state police 
+received the application on September 18, 1990. It was 
+strapped for time—Maryland law gives the police only 
+seven days to deny the application; if it does not act, the 
+dealer may legally sell the firearm. 27 Md. Code Ann. 
+§442(b) (1992). On September 21, Corporal Ernest 
+Pletcher reviewed the application and a computer print- 
+out from Maryland police and Federal Bureau of Investi- 
+
+
+27a 
+
+
+gation files. He discovered that Ms. Love had been 
+arrested on four occasions. In 1976, while working as a 
+stripper, Ms. Love had been arrested twice for partici- 
+pating in an obscene show and once for indecent expo- 
+sure. In 1978, she had been arrested and charged with 
+two counts of battery and one of resisting arrest. She 
+was convicted of only one of these crimes—a misde- 
+meanor! —though disposition of the charges was not 
+apparent on the computer printout. 
+
+
+Without further investigation, Pletcher recommended 
+that the application be denied. Sergeant Robert Peper- 
+sack reviewed the file and made the final decision to 
+deny the application. A letter to Ms. Love reporting the 
+denial was signed by Lieutenant Merrill Messick. In 
+separate correspondence, Messick instructed the dealer 
+not to sell Ms. Love the handgun. 
+
+
+The reason for the denial was the prior arrest record 
+itself, and both Pletcher and Pepersack later testified that 
+it was standard practice to deny applications on that 
+basis. The Maryland Code lists several grounds for deny- 
+ing an application, but a prior arrest is not such a ground. 
+
+
+Love exhausted state administrative remedies without 
+success, and then sued in state court. She won. The court 
+ordered the state police to approve her application. Love 
+then filed this §1983 suit—alleging violations of sub- 
+stantive due process, a “right to contract,” and the Sec- 
+ond Amendment—against Pletcher, Pepersack, Messick, 
+and the state police commander, Colonel Elmer Tippett. 
+The defendants moved to dismiss, and the district court 
+granted the motion. 
+
+
+Love appeals. 
+
+
+I She paid a fine upon conviction in Florida of participating 
+in an obscene show. 
+
+
+28a 
+Il. 
+
+
+We divide due process into “‘substantive” and “‘proce- 
+dural” prongs, though the latter term is redundant and 
+the first is, strictly speaking, a conflict in terms. Love 
+asserts only a substantive due process claim. Substantive 
+due process is a far narrower concept than procedural; it 
+is an absolute check on certain governmental actions 
+notwithstanding “the fairness of the procedures used to 
+implement them.” Weller v. Dep’t of Social Services, 901 
+F.2d 387, 391 (4th Cir. 1990) (quoting Daniels v. Will- 
+tams, 474 U.S. 327, 331 (1986). 
+
+
+To win her case, Love must first have a property right 
+in the approval of her application to purchase a handgun. 
+Property rights can be created and defined by state laws. 
+Board of Regents v. Roth, 408 U.S. 564, 577 (1972), but 
+laws calling for issuance of a license or permit cannot 
+create property rights unless “the [state actor] lacks all 
+discretion to deny issuance of the permit or to withhold 
+its approval. Any significant discretion conferred upon 
+the local agency defeats the claim of a property interest.” 
+Gardner v. Baltimore Mayor & City Council, 969 F.2d 
+63, 68 (4th Cir. 1992). 
+
+
+Whether Love has a property interest under Gardner is 
+a close call, as is whether Gardner ought to even apply 
+outside the context of land use.” The state permitting 
+statute, 27 Md. Code Ann. §442, requires the applicant 
+to deny all potentially disqualifying circumstances in the 
+application itself. The police have the power to deny the 
+
+
+2 Ownership and free use of land is “property” in perhaps 
+the most ancient sense known to Anglo-American law. Throughout 
+our opinion in Gardner, we emphasized the land-use context of our 
+“‘lack of all discretion’’ standard, see, e.g., id. at 68-69, and we are 
+unwilling to extend it where, as here, such an extension is unneces- 
+sary to our decision. 
+
+
+29a 
+
+
+application only if it is incomplete or any information on 
+it is false. it is a stretch to deem that power “‘discretion- 
+ary.”’ Nonetheless, because we decide below that Love’s 
+claim fails the second prong of the substantive due 
+process test, we will assume without deciding that Gard- 
+ner does govern here and that Love as a property interest 
+in approval of her application.® 
+
+
+A violation of “‘substantive” due process occurs only 
+where the government’s actions in depriving a person of 
+life, liberty, or property are so unjust that no amount of 
+fair procedure can rectify them. 
+
+
+[T]he residual protections of ‘substantive due 
+process”’ in this (or any) context run only to state 
+action so arbitrary or irrational, so unjustified by 
+any circumstance or governmental interest, as to be 
+literally incapable of avoidance by any pre-depriva- 
+tion procedural protections or of adequate rectifica- 
+tion by any post-deprivation state remedies. Irra- 
+tionality and arbitrariness imply a most stringent 
+standard against which state action is to be mea- 
+sured in assessing a substantive due process claim. 
+
+
+Rucker v. Harford County, 946 F.2d 278, 281 (4th Cir. 
+1991), cert. denied, 112 S.Ct. 1175 (1992). 
+
+
+Here we agree with the district court that Love’s claim 
+fails. Though their acts apparently violated state law, 
+these police officers were forced by the extreme time 
+constraints to streamline investigations. They erred on 
+the side of caution by denying applications where a com- 
+
+
+3On the other hand, she had full procedural protection for 
+this supposed property interest, including an administrative hearing 
+and a right of access to the state courts under the state’s adminis- 
+trative procedures act. She used these procedures and vindicated 
+her property right, which fully explains why she has not pled a 
+claim for denial of procedural due process. 
+
+
+30a 
+
+
+puter check showed arrests with unknown dispositions. 
+We cannot say that this corner-cutting was “unjustified 
+by circumstance or governmental interest’’ or that its 
+effect was “‘literally incapable of . . . adequate rectifica- 
+tion by any post-deprivation state remedies.” Indeed, the 
+deprivation here was fully rectified. State courts exist in 
+order to, among other things, protect citizens against 
+misapplication of state law. We would trivialize the Due 
+Process Clause to invoke it every time the citizen defeats 
+the state in state court. The Clause is violated only where 
+the state courts can do nothing to rectify the injury that 
+the state has already arbitrarily inflicted.* 
+
+
+Ill. 
+
+
+Citing law review articles, Love argues that she has an 
+individual federal constitutional right to “‘keep and bear” 
+a handgun, and Maryland may not infringe upon this 
+right. 
+
+She is wrong on both counts. The Second Amendment 
+does not apply to the states. Presser v. Illinois, 116 U.S. 
+252 (1886); United States v. Cruikshank, 92 U.S. 542 
+( 1876).° Moreover, even as against federal regulaiion, 
+
+
+*Love also argues that the disapproval of her application 
+violated her “right to contract’”’ with the gun dealer. There is no 
+positive federal “‘right to contract” at all times on all subjects, 
+though individuals are generally free to contract in a manner and 
+with objectives that do not violate local law, and this liberty may 
+give rise to an interest protected by the Fourteenth Amendment’s 
+Due Process Clause. See generally, Roth, 408 U.S. at 572. This 
+“claim” is therefore just a component of the substantive due 
+process claim. 
+
+
+SLove makes an odd argument that the Maryland Constitu- 
+tion incorporates the Second Amendment, and that therefore the 
+Second Amendment “‘applies’’ to Maryland. It may well “apply” 
+to Maryland in this manner, but, if it does, it is only as a matter 
+of state law, and violations of state law are not cognizable under 
+§ 1983. Clark v. Link, 855 F.2d 156, 161 (4th Cir. 1988). 
+
+
+3la 
+
+
+the amendment does not confer an absolute individual 
+right to bear any type of firearm. In 1939, the Supreme 
+Court held that the federal statute prohibiting possession 
+of a sawed-off shotgun was constitutional, because the 
+defendant had not shown that his possession of such a 
+gun bore a “reasonable relationship to the preservation or 
+efficiency of a well regulated militia.” United States v. 
+Miller, 307 U.S. 174, 178 (1939). Since then, the lower 
+federal courts have uniformly held that the Second 
+Amendment preserves a collective, rather than individual, 
+right. This court’s precedent is United States v. Johnson, 
+497 F.2d 548 (4th Cir. 1974). In Johnson, the defendant 
+challenged the constitutionality of the federal statute 
+prohibiting possession of firearms by convicted felons. 
+We were not impressed (id. at 550): 
+
+
+Johnson’s argument that [18 U.S.C. §] 922(g) is 
+an unconstitutional violation of his Second Amend- 
+ment right to keep and bear arms is not new. See, 
+e.g., United States v. Miller, 307 U.S. 174, 59 S.Ct. 
+816 L.Ed. 1206 (1939). The courts have consis- 
+tently held that the Second Amendment only con- 
+fers a collective right of keeping and bearing arms 
+which must bear a “reasonable relationship to the 
+preservation or efficiency of a well-regulated militia.”’ 
+307 U.S. at 178, 59 S.Ct. at 818. Johnson presents 
+no evidence that section 922(g) in any way affects 
+the maintenance of a well regulated militia. 
+
+
+Love has likewise not identified how her possession of a 
+handgun will preserve or insure the effectiveness of the 
+militia. 
+The judgment is affirmed. 
+AFFIRMED 
+
+
+32a 
+
+
+LUTTIG, Circuit Judge, concurring in the judgment: 
+
+
+I concur only in the judgment reached by the majority, 
+and I do so only because Gardner v. Baltimore Mayor and 
+City Council, 969 F.2d 63 (4th Cir. 1992), is the law of 
+
+
+the circuit. 
+
+
+33a 
+APPENDIX D 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+[Filed March 2, 1995] 
+
+
+No. 94-1582 
+CA-93-2609-P]M 
+APRIL LOVE 
+Plaintiff-Appellant 
+
+
+V. 
+
+
+ROBERT G. PEPERSACK, SR.; MERRILL A. MESSICK, 
+JR.; ERNEST ELDON PLETCHER; ELMER HUNT 
+TIPPETT, JR.; STATE OF MARYLAND 
+
+
+Defendants-Appellees 
+
+
+On Petition for Rehearing with 
+Suggestion for Reharing In Banc 
+
+
+The appellant’s petition for rehearing and suggestion 
+for rehearing in banc were submitted to this Court. As 
+no member of this Court or the panel requested a poll on 
+the suggestion for rehearing in banc, and 
+
+
+As the panel considered the petition for rehearing and 
+is of the opinion that it should be denied, 
+
+
+IT IS ORDERED that the petition for rehearing and 
+suggestion for rehearing in banc are denied. 
+
+
+For the Court, 
+
+
+/s/ Bert M. Montague 
+CLERK 
+
+
+34a 
+APPENDIX E 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF MARYLAND 
+
+
+CIVIL ACTION NO. N93-2609 
+
+
+APRIL LOVE 
+7600 Fountain Blue Drive 
+Apt. 602E 
+New Carrollton, Md. 20784 
+
+
+Plaintiff 
+v. 
+
+
+ROBERT G. PEPERSACK, SR. 
+301 Luther Road 
+Glen Burnie, Md. 21601 
+
+
+MERRILL A. MESSICK, JR. 
+1201 Reisterstown Road 
+Pikesville, Md. 21208 
+
+
+ERNEST ELDON PLETCHER 
+1201 Reisterstown Road 
+Pikesville, Md. 21208 
+
+
+ELMER HUNT TIPPETT, JR. 
+1201 Reisterstown Road 
+Pikesville, Md. 21208 
+
+
+STATE OF MARYLAND 
+Serve: 
+
+
+J. Joseph Curran, Jr. 
+Attorney General 
+
+7 N. Calvert Street 
+Baltimore, Md. 21202 
+
+
+and 
+
+
+| 
+
+
+35a 
+Winfield Kelly, Jr. 
+Secretary of State 
+Jeffrey Building 
+16 Francis Street 
+Annapolis, Md. 21404 
+Defendants 
+AMENDED COMPLAINT 
+JURISDICTION 
+
+
+1. This is an action for money damages to redress the 
+deprivation by the defendants of rights secured to the 
+plaintiff by the Constitution and laws of the United 
+States and the State of Maryland. Jurisdiction of this 
+Court is invoked under the provisions of Sections 1331 
+and 1343(a)(3) of Title 28 and Sections 1983 and 1988 
+of Title 42 of the United States Code. 
+
+
+THE PARTIES 
+
+
+2. During all times mentioned in this Complaint, the 
+plaintiff was (and she still is) an adult citizen of the 
+United States residing in the State of Maryland. 
+
+
+3. During all times mentioned in this Complaint, 
+defendant Robert G. Pepersack was the supervisor of the 
+firearms license section of the Maryland State Police, 
+acting in his official capacity. Defendant Pepersack is 
+being sued, however, only in his individual capacity. 
+
+
+4. During all times mentioned in this Complaint, 
+defendant Merrill A. Messick, Jr. was the commander of 
+the licensing division of the Maryland State Police, acting 
+in his official capacity. Defendant Messick is being sued, 
+however, only in his individual capacity. 
+
+
+36a 
+
+
+5. During all times mentioned in this Complaint, 
+defendant Ernest Eldon Pletcher was a corporal in the 
+Maryland State Police assigned to firearms section of the 
+licensing division of the Maryland State Police, acting in 
+his official capacity. Defendant Pletcher is being sued, 
+however, only in his individual capacity. 
+
+
+6. Durir.g all times mentioned in this Complaint, 
+defendant Elmer Hunt Tippett, Jr. was the Superinten- 
+dent of the Maryland State Police, acting in his official 
+capacity. Defendant Tippett is being sue, however, only 
+in his individual capacity. 
+
+7. During all times mentioned in this Complaint, the 
+individual defendants named above were acting under 
+color of law, that is, under color of the Constitution, 
+statutes, laws, charter, ordinances, rules, regulations, 
+customs and usages of the defendant State of Maryland. 
+
+
+8. At all times mentioned in this Complaint, the 
+defendants acted jointly and in concert with each other. 
+Each defendant had the duty and the opportunity to 
+protect the plaintiff from the unlawful actions of the 
+other defendants but each defendant failed and refused 
+to perform such duty, thereby proximately causing the 
+plaintiff’s injuries. 
+
+
+COUNT I 
+
+
+9. The plaintiff realleges and incorporates herein by 
+reference the averments contained in Paragraphs 1 
+through 8, supra as if they were fully set forth herein. 
+
+
+10. In September of 1990 the plaintiff sought to pur- 
+chase a firearm from the retail outlet in Prince George’s 
+County, Maryland. On September 13, 1990 she com- 
+pleted an Application To Purchase A Firearm (Maryland 
+State Police Form #77R) pursuant to Article 27, Section 
+
+
+37a 
+
+
+442 of the Annotated Code of Maryland. The plaintiff 
+provided all information required by this form and all 
+information provided by her was true and correct. 
+
+
+11. The plaintiff's application was forwarded to the 
+Maryland State Police and received by the licensing 
+division on September 18, 1990. Commencing on Sep- 
+tember 21, 1990 the defendant Pletcher commenced an 
+investigation of the plaintiff’s application pursuant to 
+Article 27, Section 442(f) of the Annotated Code of 
+Maryland. This investigation was completed by the 
+defendant Pletcher on September 21, 1990. 
+
+
+12. Defendant Pletcher’s investigation of the plain- 
+tiffs application consisted of a review of computer 
+printouts from data bases maintained by the Maryland 
+
+
+State Police and the Federal Bureau of Investigation 
+(F.B.I.). 
+
+
+13. As a result of his investigation pursuant to Article 
+27, Section 442(f) of the Annotated Code of Maryland 
+the defendant Pletcher determined that there was no 
+problem with the completion of the plaintiff’s Applica- 
+tion To Purchase A Firearm. Defendant Pletcher’s investi- 
+gation of the plaintiff’s application also failed to reveal 
+any facts that would have lawfully prohibited the plain- 
+tiff from purchasing or possessing a handgun. Specific- 
+ally, defendant Pletcher’s investigation failed to reveal 
+that the plaintiff had ever been convicted of a “crime of 
+violence” in Maryland or elsewhere; that the plaintiff 
+had ever been convicted of a violation of Article 27, 
+Section 286, 286(a), or 286(c) of the Annotated Code 
+of Maryland; that the plaintiff had ever been convicted 
+of conspiracy to commit any crimes established by 
+Article 27, Sections 286, 286(a) or 286(c) of the Anno- 
+tated Code of Maryland; that the plaintiff had ever been 
+convicted of any violation of the subtitle governing 
+
+
+38a 
+
+
+pistols set forth in Article 27, Sections 441 through 448 
+of the Annotated Code of Maryland; that the plaintiff 
+was a fugitive from justice; that the plaintiff was an 
+habitual drunkard; was an addict or an habitual user of 
+narcotics, barbiturates or amphetamines; that the plain- 
+tiff had ever spent more than thirty consecutive days in 
+any medical institution for treatment or a mental dis- 
+order or disorders; or that the plaintiff was under 21 
+years of age. 
+
+
+14. Despite the fact that his investigation revealed 
+nothing that would have prevented the plaintiff from 
+purchaing or possessing a handgun, defendant Pletcher 
+nonetheless recommended to the defendant Pepersack 
+that the plaintiff’s application be disapproved. 
+
+
+15. Defendant Pletcher recommended that the plain- 
+tiff’s application be disapproved based upon three prior 
+arrests of the plaintiff in the State of Florida in 1976 and 
+one prior arrest in the State of Illinois in 1978. This 
+recommendation was made by defendant Pletcher with- 
+out first determining whether or not any of these arrests 
+had actually resulted in a conviction, although defendant 
+Pletcher, a State Trooper with 18 years experience, 
+clearly understood that there was a significant difference 
+between an individual’s being arrested and that person’s 
+being convicted of an offense. 
+
+
+16. After receiving defendant Pletcher’s recommenda- 
+tion that the plaintiff’s application be disapproved, defen- 
+dant Pepersack personally reviewed the computer print- 
+outs that defendant Pletcher had reviewed in conducting 
+his investigation and upon which he based his recommen- 
+dation of disapproval. Defendant Pepersack did not 
+conduct any additional investigation of the plaintiff’s 
+application beyond reviewing the computer printouts. 
+
+
+39a 
+
+
+17. Defendant Pepersack made the final decision to 
+disapprove the application based upon three prior arrests 
+of the plaintiff in the State of Florida in 1976 and one 
+prior arrest in the State of Illinois in 1978. This decision 
+was made by defendant Pepersack without first deter- 
+mining whether or not any of these arrests had actually 
+resulted in a conviction, although defendant Pepersact, a 
+State Trooper with 26 years experience, clearly under- 
+stood that there was a significant difference between an 
+individual’s being arrested and that person’s being con- 
+victed of an offense. 
+
+
+18. Based upon his review of the information supplied 
+to him by the defendant Pletcher, defendant Pepersack 
+failed to determine that the plaintiff would have been 
+lawfully prohibited from purchasing or possessing a hand- 
+gun. Specifically, defendant Pepersack failed to deter- 
+mine that the plaintiff had ever been convicted of a 
+‘“‘crime of violence” in Maryland or elsewhere; that the 
+plaintiff had ever been convicted of a violation of Article 
+27, Section 286, 286(a), or 286(c) of the Annotated 
+Code of Maryland; that the plaintiff had ever been con- 
+victed of conspiracy to commit any crimes established 
+by Article 27, Sections 286, 286(a) or 286(c) of the 
+Annotated Code of Maryland; that the plaintiff had ever 
+been convicted of any violation of the subtitle governing 
+pistols set forth in Article 27, Sections 441 through 448 
+of the Annotated Code of Maryland; that the plaintiff 
+was a fugitive from justice; that the plaintiff was an 
+habitual drunkard; was an addict or an habitual user of 
+narcotics, barbiturates or amphetamines; that the plain- 
+tiff had ever spent more than thirty consecutive days in 
+any medical institution for treatment or a mental dis- 
+order or disorders; or that the plaintiff was under 21 
+years of age. 
+
+
+40a 
+
+
+19. Subsequent to defendant Pepersack’s decision to 
+disapprove the plaintiff’s application, defendant Merrill 
+A. Messick, Jr. informed the plaintiff by letter dated 
+September 21, 1990 that “‘[a]n investigation into your 
+application to purchase a pistol or revolver has indicated 
+that it should not be approved. Accordingly, the seller 
+has been notified that the transfer of a pistol or revolver 
+will not be completed at this time.”” As of September 
+21, 1990 defendant Messick was the Commander of the 
+licensing division of the Maryland State Police and, as 
+commander, was responsible for notices of disapproval 
+that go out to sellers or transferors of handguns. 
+
+
+20. Defendant Messick’s notification to the plaintiff 
+that ‘‘{a]n investigation into your application to pur- 
+chase a pistol or revolver has indicated that it should 
+not be approved,” and his notification of the seller not 
+to complete the transfer of a handgun to the plaintiff 
+was undertaken without his having any basis to believe 
+that the plaintiff would have been lawfully prohibited 
+from purchasing or possessing a handgun. Specifically, 
+defendant Messick had no information to indicate that 
+the plaintiff had ever been convicted of a “crime of 
+violence” in Maryland or elsewhere; that the plaintiff had 
+ever been convicted of a violation of Article 27, Section 
+286, 286(a), or 286(c) of the Annotated Code of Mary- 
+land; that the plaintiff had ever been convicted of con- 
+spiracy to commit any crimes established by Article 
+27, Sections 286, 286(a) or 286(c) of the Annotated 
+Code of Maryland; that the plaintiff had ever been con- 
+victed of any violation of the subtitle governing pistols 
+set forth in Article 27, Sections 441 through 448 of the 
+Annotated Code of Maryland; that the plaintiff was a 
+fugitive from justice; that the plaintiff was an habitual 
+drunkard; was an addict or an habitual user of narcotics, 
+
+
+bite shiies 
+
+
+4la 
+
+
+barbituarates or amphetamines; that the plaintiff had 
+ever spent more than thirty consecutive days in an medi- 
+cal institution for treatment of a mental disorder or dis- 
+orders; or that the plaintiff was under 21 years of age. 
+
+
+21. Defendant Messick so notified the plaintiff and 
+the seller of the handgun although, as a State Trooper 
+with more than thirty years’ experience, he clearly under- 
+stood that there was a significant difference between an 
+individual’s being arrested and that person’s being con- 
+victed of an offense. 
+
+
+22. With the knowledge, consent, and under the 
+supervision of the defendant Messick, the defendants 
+Pletcher and Pepersack, as personnel of the licensing 
+division of the Maryland State Police, conducted the 
+actual investigations of applications to purchase fire- 
+arms such as that completed by the plaintiff. 
+
+
+23. With the knowledge, consent, and under the 
+supervision of the defendant Messick, the defendants 
+Pletcher and Pepersack routinely disapproved applica- 
+tions to purchase firearms solely on the basis of prior 
+arrests that, had they resulted in a conviction, would 
+possibly disqualify an applicant from purchasing a 
+handgun under state or federal law. 
+
+
+24. Defendant Messick had been the commander of 
+the licensing division of the Maryland State Police since 
+July of 1988, and, as of September, 1990, had actual 
+knowledge of the procedures followed by the licensing 
+division of the Maryland State Police in the processing of 
+applications to purchase firearms. Defendant Messick 
+knew, or should have known, that his subordinates were 
+acting unlawfully and in violation of the constitutional 
+rights of persons, including the plaintiff, whose applica- 
+tions were thus disapproved. But the defendant Messick 
+
+
+42a 
+
+
+failed to take any action to prevent such unlawful and 
+unconstitutional conduct on the part of his subordinates. 
+
+
+25. Defendant Messick, along with defendants Pletcher 
+and Pepersack were, as of September of 1990, expressly 
+authorized by the Superintendent of the Maryland State 
+Police to act as his agent in matters relating to the investi- 
+gations required by Article 27, Section 442 of the Anno- 
+tated code of Maryland. 
+
+
+26. Defendant Messick, along with defendants Pletcher 
+and Pepersack were, as of September of 1990, routinely 
+disapproving applications to purchase firearms such as 
+that completed by the plaintiff solely on the basis of 
+prior arrests without bothering to determine whether an 
+arrest had actually resulted in a conviction. 
+
+
+27. As of September of 1990, the Maryland State 
+Police had no statutory authority to disapprove an appli- 
+caiton to purchase a firearm on the basis of prior arrests 
+without determining whether or not the arrest actually 
+resulted in a conviction. 
+
+
+28. However, as of September, 1990, the licensing 
+division of the Maryland State Police maintained and 
+followed a policy, practice, and custom of disapproving 
+applications to purchase firearms solely on the basis of 
+prior arrests that, had they resulted in a conviction, 
+would possibly disqualify an applicant from purchasing a 
+handgun under state or federal law. Pursuant to this 
+policy, practice, custom, the licensing division of the 
+Maryland State Police would notify an applicant and the 
+seller that the application was disapproved and, if an 
+appeal hearing was requested by an applicant, would 
+notify the applicant of the arrest upon which the dis- 
+approval was based and require the applicant to obtain 
+proof that the arrest had resulted in something other 
+
+
+43a 
+
+
+than a conviction, or in the event of a conviction to pro- 
+vide proof that the offense would not disqualify the 
+applicant from purchasing a handgun. At an appeal 
+hearing conducted at the Maryland State Police Head- 
+quarters on November 8, 1990 with regard to the plain- 
+tiff’s application, defendant Pepersack testified under 
+oath that he had been the supervisor of the firearms 
+license section for five years and that this had been the 
+policy, practice, and custom since he came to the licens- 
+ing division. 
+
+29. At the plaintiff’s appeal hearing held on Novem- 
+ber 8, 1990, the defendant Pletcher testified under oath 
+that he had been with the licensing division of the Mary- 
+land State Police since June 27, 1990. Defendant Pletcher 
+testified under oath that it was his understanding that it 
+is standard operating procedure of the licensing division 
+of the Maryland State Police to disapprove an application 
+to purchase a firearm where there is a record of an arrest 
+for what was perceived to be a serious crime, but where 
+there had been no finding as to a conviction if the crime 
+would prohibit someone from purchasing or possessing 
+a firearm under state or federal law. Defendant Pletcher 
+also testified that this procedure was communicated to 
+him by the defendant Pepersack through his training 
+process. 
+
+
+30. At the plaintiff’s appeal hearing held on November 
+8, 1990, the defendant Pepersack testified under oath 
+that sin-> he came to the firearms license section in 1986 
+it had been the policy to disapprove applications to pur- 
+chase firearms where there is a record of an arrest for 
+what was perceived to be a serious crime and to require 
+a prospective purchaser to provide documentation as to 
+the final disposition of the arrest and, in the event of a 
+conviction, to document that the conviction would not 
+
+
+44a 
+
+
+disqualify him or her from purchasing a pistol or revolver. 
+The defendant Pepersack also testified that ‘hundreds of 
+thousands” of individuals had been initially disapproved 
+according to this policy. 
+
+31. As of September, 1990, the policy, practice, and 
+custom of disapproving applications to purchase firearms 
+solely on the basis of prior arrests was contrary to the 
+provisions of Article 27, Section 442 of the Annotated 
+Code of Maryland which govern the sale or transfer of 
+pistols or revolvers. That section of the Annotated Code 
+of Maryland placed upon the Superintendent of State 
+Police the obligation of conducting an investigation in 
+order to determine the truth or falsity of the information 
+supplied and statements made in an application to pur- 
+chase a firearm; and authorized disapproval of an applli- 
+cation only where the Superintendent of State Police 
+determined that any false information or statement had 
+been supplied or made by the applicant, or that the 
+application had not been properly completed. 
+
+
+32. With the knowledge and consent of the defendant 
+Tippett the defendants Messick, Pletcher and Pepersack, 
+as personnel of the licensing division of the Maryland 
+State Police, conducted investigations of applications to 
+purchase firearms such as that completed by the plaintiff. 
+
+
+33. Defendant Tippett had been Superintendent of 
+the Maryland State Police since November of 1987 and, 
+as of September, 1990, had actual knowledge of the pro- 
+cedures followed by the licensing division of the Mary- 
+land State Police in the processing of applications to 
+purchase firearms. Defendant Tippett knew, or should 
+have known, that his subordinates were acting unlawfully 
+and in violation of the constitutional rights of persons, 
+including the plaintiff, whose applications were thus 
+disapproved. But the defendant Tippett failed to take 
+
+
+45a 
+
+
+any action to prevent such unlawful and unconstitutional 
+conduct on the part of his subordinates. 
+
+
+34. With the knowledge and consent of the defendant 
+Tippett, the defendants Messick, Pletcher and Pepersack 
+routinely disapproved applications to purchase firearms 
+solely on the basis of prior arrests that, had they resulted 
+in a conviction, would possibly disqualify an applicant 
+from purchasing a handgun under state or federal law. 
+
+
+35. As direct and proximate result of the acts and 
+omissions of the individual defendants as aforesaid, the 
+plaintiff was denied the ability to purchase a handgun. 
+The plaintiff, a layperson, was compelled to obtain the 
+services of legal counsel to represent her in an appeals 
+process which culminated in an order entered in her favor 
+against the defendants Tippett and Messick by the Circuit 
+Court for Prince George’s County, Maryland whereby the 
+defendant Tippett was ordered to “forthwith approve the 
+[plaintiff’s] Application To Purchase A Firearm (MSP 
+Form #77R).” 
+
+
+36. In the manner described above, the individual 
+defendants, in furtherance of a policy, practice, and 
+custom of the defendant, State of Maryland, acted will- 
+fully and maliciously. 
+
+
+37. In the manner described above, the individual 
+defendants, in furtherance of a policy, practice, and 
+custom of the defendant, State of Maryland, acted with 
+a reckless disregard of the constitutional rights of the 
+plaintiff although they knew, or reasonably should have 
+known, that their conduct would result in the violation 
+of the plaintiff’s constitutional rights. 
+
+
+38. In the manner described above, the individual 
+defendants, in furtherance of a policy, practice, and 
+custom of the defendant, State of Maryland, deprived 
+
+
+46a 
+
+
+the plaintiff of her right to keep and bear arms, freedom 
+to contract, and to due process of law. All of these rights 
+are secured individually to the plaintiff by the provisions 
+of the Second and Fourteenth Amendments to the 
+United States Constitution, Article 2 of the Maryland 
+Declaration of Rights, and by Title 42 U.S.C. Sections 
+1983 and 1988. 
+
+
+COUNT II 
+
+
+39. The plaintiff realleges and incorporates herein by 
+reference the averments contained in paragraphs 1 
+through 38, supra, as of they were fully set forth herein. 
+
+
+40. In the manner described herein, all the defendants 
+deprived the plaintiff of her right to be free from being 
+taken or imprisoned or disseized of her liberties or 
+privileges, or in any manner deprived of life, liberty or 
+property but by the judgment of her peers, or by the Law 
+of the Land, contrary to rights conferred upon or guar- 
+anteed individually to her pursuant to Article 24 of the 
+Maryland Declaration of Rights. 
+
+
+WHEREFORE, the plaintiff demands judgment as 
+follows: 
+
+
+A. Compensatory damages against the defendants, 
+jointly and severally. 
+
+
+B. Punitive damages against the defendants, jointly 
+and severally. 
+
+
+C. The costs incurred by the plaintiff in bringing this 
+action. 
+
+
+D. Plaintiff’s reasonable attorney’s fees. 
+
+
+E. Such other relief as this Court shall deem fair and 
+equitable. 
+
+
+47a 
+
+
+HOWARD J. FEZELL (Fed. Bar #08799) 
+203A Broadway Street 
+
+P.O. Box 588 
+
+Frederick, Maryland 21705-0588 
+
+(301) 856-0241 
+
+
+Counsel For Plaintiff 
+
+
+DEMAND FOR JURY TRIAL 
+The Plaintiff demands a trial by jury. 
+
+
+/s/ Howard J. Fezell 
+
+
+CERTIFICATE OF SERVICE 
+
+
+I hereby certify that on the 15th day of September, 
+1993 a copy of the foregoing Amended Complaint was 
+mailed, via first class mail, postage prepaid, along with 
+the original Complaint, summons, and two copies of the 
+Notice and Acknowledgement Of Receipt Of Summons 
+And Complaint to the following: 
+
+
+ROBERT G. PEPERSACK, SR. 
+301 Luther Road 
+Glen Burnie, Md. 21601 
+
+
+MERRILL A. MESSICK, JR. 
+Headquarters, Maryland State Police 
+1201 Reisterstown Road 
+
+Pikesville, Md. 21208 
+
+
+ERNEST ELDON PLETCHER 
+Headquarters, Maryland State Police 
+1201 Reisterstown Road 
+
+Pikesville, Md. 21208 
+
+
+ELMER HUNT TIPPETT, JR. 
+Headquarters, Maryland State Police 
+
+
+48a 
+
+
+1201 Reisterstown Road 
+Pikesville, Md. 21208 
+
+
+And on behalf of the Defendant, State of Maryland: 
+
+
+J. Joseph Curran, Jr. 
+Attorney General 
+
+7 N. Calvert Street 
+Baltimore, Md. 21202 
+
+
+Winfield Kelly, Jr. 
+Secretary of State 
+Jeffrey Building 
+
+16 Francis Street 
+Annapolis, Md. 21204 
+
+
+/s/ Howard J. Fezell 
+
+

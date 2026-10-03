@@ -1,0 +1,177 @@
+{
+  "records": [
+    {
+      "path": "terms\\OT1995\\records\\Locomotive_Engineers_v_Atchison_Topeka_and_Santa_Fe_Railroad_Co_merits_1996-01-08.md",
+      "sha256": "fb10581a0145f13a6adbccc4c7f30dc11f7b0e631af19079cc417b0efbdd8f58",
+      "eleven_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ],
+      "explanation_word_counts": [
+        221
+      ],
+      "no_existing_file_overwritten": true
+    },
+    {
+      "path": "terms\\OT1995\\records\\Lawrence_v_Chater_GVR_1996-01-08.md",
+      "sha256": "5f1f0a070fb5ee2214dd19deeb10cfd558c76a714ebc4c181981b1c7b066792f",
+      "eleven_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ],
+      "explanation_word_counts": [
+        237
+      ],
+      "no_existing_file_overwritten": true
+    },
+    {
+      "path": "terms\\OT1995\\records\\Stutson_v_United_States_GVR_1996-01-08.md",
+      "sha256": "a67e4a798461050eb2cef91db637b8ffa7a258eb14aad57e2dd020bfd125b0b3",
+      "eleven_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ],
+      "explanation_word_counts": [
+        218
+      ],
+      "no_existing_file_overwritten": true
+    },
+    {
+      "path": "terms\\OT1995\\records\\Yamaha_Motor_Corp_USA_v_Calhoun_merits_1996-01-09.md",
+      "sha256": "377ebc5e27e4c9a69923fafcfbadf1fd62195600842a7028d05f69f67b6c011d",
+      "eleven_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ],
+      "explanation_word_counts": [
+        191,
+        230
+      ],
+      "no_existing_file_overwritten": true
+    },
+    {
+      "path": "terms\\OT1995\\records\\Allridge_v_Scott_merits_1996-01-15.md",
+      "sha256": "1611626d0e101fb1da70cf1fc5ddf4d054f82058fbed4c456e721c3f2f3bdee6",
+      "eleven_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ],
+      "explanation_word_counts": [
+        88,
+        148,
+        225,
+        99,
+        160
+      ],
+      "no_existing_file_overwritten": true
+    }
+  ],
+  "no_git_operations": true,
+  "record_count": 5,
+  "validation": "Structural checks plus manual component/join arithmetic; operator term checks pending.",
+  "scope_exposure": "Supplied assignment source contained adjacent nonassignment material (Gaudin, Travelers, Term Limits and participation boilerplate); encountered after all relevant freezes, not used to change commitments.",
+  "local_links_resolve": true,
+  "final_assembly_review": "Manual frozen-commitment, Stone fixed-core, remedy, public/private, and component arithmetic review completed. Full term validation remains with operator.",
+  "arithmetic": {
+    "Locomotive": {
+      "judgment": 9,
+      "rationale": 9
+    },
+    "Lawrence": {
+      "internal_gvr": 7,
+      "internal_deny": 2,
+      "court_rationale": 6,
+      "Stone_judgment_only": 1,
+      "published_dissent": 2
+    },
+    "Stutson": {
+      "internal_gvr": 7,
+      "internal_deny": 2,
+      "court_rationale": 7,
+      "published_dissent": 2
+    },
+    "Yamaha": {
+      "threshold_judgment": 9,
+      "threshold_rationale": 8,
+      "remedy_judgment": 9,
+      "remedy_rationale": 9
+    },
+    "Allridge": {
+      "each_component_judgment": 9,
+      "I_A_rationale": 9,
+      "I_B_rationale": 8,
+      "II_rationale": 9,
+      "III_rationale": 8,
+      "IV_rationale": 9,
+      "Chapman_proposal": 1
+    }
+  },
+  "assignment_delta": {
+    "named_Chief_assignments": {
+      "Kennedy": 1,
+      "O'Connor": 1,
+      "Souter": 1
+    },
+    "unattributed_Chief_authorized_per_curiam": 2
+  },
+  "assignment_source_refresh": "Final bounded assignment copy read for the identified authoring sources after coordinator removed incidental extra paragraphs. Earlier exposure remains disclosed; no commitment was changed from it.",
+  "Allridge_Teague_completeness": {
+    "kernel_projection_identity": true,
+    "explanation_words": 148,
+    "rationale_votes": 8,
+    "Stone_no_additional_rationale": true,
+    "sources": "Entering-law C Gilmore and Caspari excerpts"
+  },
+  "Locomotive_statutory_completeness": {
+    "kernel_projection_identity": true,
+    "b3_24_hour_train_movement_condition": true,
+    "b7_carrier_or_responsible_officer_agent_knowledge_at_terminal_departure": true,
+    "judgment_and_rationale_votes": 9,
+    "source": "Official 1994 section 21103 PDF read in full"
+  }
+}
