@@ -436,15 +436,17 @@ Post-divergence Supreme Court citations in this list refer only to actual simula
 
 **Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
-- **Stone’s Controlled Judgment:** Reverse the Seventh Circuit and remand.
-- **Stone’s Remedy / Remand Position:** Permit Bank One to pursue the Act’s express civil-liability remedy, subject to the statute’s elements, defenses, causation requirements, and measure of recovery.
-- **Stone’s Threshold Position:** Determine first whether the claimant and violation fall within the express liability text; no implied-cause-of-action inquiry is necessary.
-- **Supporting Authorities:** 12 U.S.C. §§4001, 4008, and 4010; Regulation CC; *Touche Ross & Co. v. Redington*, 442 U.S. 560; *Transamerica Mortgage Advisors, Inc. v. Lewis*, 444 U.S. 11.
-- **Stone’s Proposed Holding for This Case:** The Expedited Funds Availability Act’s express civil-liability provision reaches a depository institution’s regulatory violation with respect to another bank when the claimant qualifies as a statutory person and proves the loss and other requirements Congress prescribed.
-- **Stone’s Reasoning:** Congress used an express liability provision reaching a depository institution that fails to comply with duties imposed by the Act or its valid regulations with respect to another person. The statutory definitions do not confine that protected person to a consumer depositor, and the notice-of-nonpayment rules regulate interbank conduct central to the Act’s operation. Giving the enacted words their ordinary reach therefore requires adjudication under the express remedy rather than dismissal or creation of an implied one.
-- **Stone’s Operative Limit:** The holding creates no remedy beyond §4010, does not eliminate statutory or regulatory defenses, and does not decide Bank One’s ultimate proof of causation or damages.
+Bank One v. Midwest Bank
 
-**Current-law and approval boundary:** Section I and its source reading govern statements of existing law. The legal answers and remedies stated here remain individual positions at their recorded approval status. The documented standing fallback addresses only a genuinely unaddressed component within its authorized scope; it neither approves an unapproved proposal nor overrides an expressed position or cures an unresolved review channel.
+Stone: reverse and remand.
+
+Stone holds that Bank One may bring the interbank action under the Expedited Funds Availability Act. The correct statutory path is:
+
+* § 4010(f): source of interbank liability and the Federal Reserve's authority to define the governing liability standards.
+* § 4010(d): federal and state court jurisdiction over actions under § 4010.
+* § 4010(a): not the basis, because its customer-bank liability provision expressly excludes another depository institution.
+
+So Stone reverses the Seventh Circuit's jurisdictional dismissal and remands for adjudication of Bank One's interbank claim under the governing Federal Reserve rules. He does not hold that Bank One necessarily wins on liability.
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -846,25 +848,38 @@ Section 1962(a)’s separate income, participation and investment conditions rem
 
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-**Status:** User-selected position; evidence disposition completed at the user's direction on October 2, 2026; no Court decision is entered.
+**Position status:** Approved by the user as written on October 2, 2026; no Court vote or outcome entered.
 
-**Congressional authority.** Stone would reject both Commerce Clause challenges. Simulated *Harris* permits Congress to regulate armed vehicle taking as part of the economic class addressed by the interstate automobile-theft scheme. Taking control of the covered vehicle is the conduct regulated. The government must prove the statute's vehicle-specific interstate element, but need not prove an intention to resell across state lines or a substantial interstate effect attributable to each defendant. That gives Congress effective authority over the regulated class without making every local crime federal because crime affects insurance, productivity or national prosperity.
+Bishop / Stokes
 
-Stone also regards direct forcible interference with possession and control of the covered transportation instrumentality as an additional constitutional ground. The offense attacks the vehicle itself as a means of transportation; it is not merely unrelated conduct involving an object that once crossed a state line. This is Stone's distinct rationale, not the controlling rationale already adopted in *Harris*. It does not require that the car be making an interstate journey at the time, and it does not confer unlimited federal authority over every subsequent use of an object with an interstate history. The record establishes no current interstate journey. The economic-class holding independently resolves the challenge.
+Here Stone splits the two defendants.
 
-**Punishment.** Stone would reject Stokes's objection to the consecutive carjacking and firearm sentences. *Harris* resolves this statutory pairing and applies *Hunter* to the clearly authorized punishments in one prosecution. Congress's permission to impose both punishments does not relieve the government of proving either offense. Section 924(c)'s use-or-carrying and relation requirements remain independent of §2119's firearm-possession element. Lenity protects against unresolved statutory ambiguity; it cannot create ambiguity that this precise precedent has resolved. The stricter simulated rule for successive prosecution concerns a different injury.
+Bishop: affirm.
 
-**The booking evidence.** Legitimate intake and medical care do not give police a general exemption from Miranda. The question is whether the particular inquiry, in context, was one the officers should have known was reasonably likely to elicit an incriminating response. A medical explanation deserves consideration, but cannot replace that inquiry. Here the courts credited a medical purpose for asking about Stokes's limp. Stone has examined that finding and the reported exchange rather than assume an investigative pretext. The district court found, and the court of appeals held not clearly erroneous, that the officer's question about what was the matter with Stokes's leg was part of the booking procedure designed to fulfill the government's obligation to provide medical attention if necessary. Stone would not rest on a general routine-booking exception. But the question was a single inquiry, asked during booking, about a limp the officers had observed. Read with that finding, it was not one the officers should have known was reasonably likely to elicit an incriminating response. The government's later use of the answer does not by itself make the question interrogation. Stone would affirm admission of the statement on that basis.
+His Commerce Clause challenge is controlled by the simulation's Harris precedent. Harris already held that § 2119 constitutionally reaches armed vehicle taking as part of the economic vehicle-taking class connected to the interstate motor-vehicle theft regime, while expressly refusing to rely on remote vehicle history alone. (Holdings)
 
-The recording also needs to be considered according to what it shows and what the prosecution used. Observable physical condition and an incriminating testimonial answer are different evidence. If the answer must be excluded, removing it can preserve independently admissible portions of the recording. Admissibility still requires the ordinary relevance and prejudice analysis. There is no reason to treat the whole video as constitutionally indivisible. Because Stone would sustain admission of the answer, no redaction question arises. The court of appeals concluded that Stokes gave no good reason why the recording should not have been shown to the jury and that the government gave good reasons for introducing it. With no demonstrated basis for excluding the entire video, its admission was within the trial court's discretion, and Stone would affirm that ruling.
+Stone's Commerce roadmap itself says Bishop should simply be upheld under Harris, deliberately creating no new Commerce doctrine.
 
-**Identification.** Stone would apply *Manson* and *Biggers* with attention to what the police procedure may have done to the witnesses' recollections. A witness's confidence after being shown the person police identify as the thief cannot simply erase the risk created by that suggestion. The original opportunity to observe and the other existing reliability considerations must be weighed against its corrupting effect. The lower courts found independent recollections. Those findings need a supported legal or factual reason for rejection; suggestion alone does not compel exclusion under the governing rule. Here the suggestion was real: before the station viewing, both victims heard police talking about having caught the man who took the car, and the court of appeals treated the show-up as arguably unnecessarily and impermissibly suggestive. Against that, the reported record shows that both victims got a good look at the gunman during the taking and viewed Stokes within an hour and a half of it. The district court found that their identifications came from their own recollections of the crime rather than from the show-up and concluded that they were reliable; the court of appeals found no clear error in the finding and no error in the conclusion. That finding accounts for the suggestion rather than ignoring it. No supported reason to reject it appears, so Stone would affirm admission of the out-of-court and in-court identifications. Stone would neither replace *Manson* with automatic exclusion nor require a new checklist, expert report or prescribed lineup procedure.
+So Bishop's judgment stands.
 
-**Disposition.** Affirm against the Commerce and cumulative-punishment challenges. Decide Stokes's evidence claims separately under the rules above. A supported ruling applying the correct law should be affirmed. On the reported findings of independent recollection and of a medical-intake purpose for the booking question, and with no demonstrated basis for excluding the entire video, each evidence ruling is supported under the correct law. Those findings permit the correct standards to be applied on review, so no limited remand is needed. Because no trial error is identified, neither the *Chapman* standard for preserved constitutional error nor the distinct harmless-error standard for ordinary evidentiary error is reached, and no new trial is warranted. Affirm both judgments.
+Stokes: affirm in part, vacate in part, and remand narrowly.
 
-The trial-claim disposition rests on the findings reported in the court of appeals' opinion. Missing material in this packet is not itself a reason to reverse the lower court or to remand. Bishop's unreserved plea presents his surviving challenge to the government's power to prosecute; it does not carry Stokes's trial objections with it.
+Stone should:
 
-**Sources:** The completed simulated *Harris* and related opening law are reproduced in Section I and the [inherited reading](inherited/readings/OT1995-027.md). The [appellate record](https://law.justia.com/cases/federal/appellate-courts/F3/66/569/488093/) supplies the case-specific posture and the reported findings on Stokes's evidence claims (66 F.3d at 571–73 & n.2). The [Master Jurisprudence](assessment/sources/MASTER_JURISPRUDENCE.md) and [Commerce reasoning](assessment/sources/STONE_COMMERCE_CLAUSE_AND_FEDERALISM.md) inform Stone's position within those legal and factual limits.
+* affirm the Commerce Clause challenge under Harris;
+* affirm the § 2119 plus § 924(c) consecutive punishment, because Harris already unanimously held that Congress expressly authorized the cumulative punishment and that Missouri v. Hunter permits it in the same prosecution; (Holdings)
+* affirm admission of the eyewitness identifications, because there are actual district-court findings that the identifications rested on the witnesses' own recollections and were reliable despite the suggestive show-up; [Justia Law](https://law.justia.com/cases/federal/appellate-courts/F3/66/569/488093/)
+* vacate the appellate disposition only as to the booking statement and booking videotape and remand those two issues for proper findings.
+
+For the limp statement, saying the question had a "medical purpose" does not by itself answer whether, in the actual circumstances, police should have known it was reasonably likely to elicit an incriminating answer. For the videotape, the Third Circuit's statement that Stokes gave "no good reason" and the Government gave "a number of good reasons" does not reveal enough of the relevance and prejudice analysis for Stone to reconstruct it himself. [OpenJurist](https://openjurist.org/66/f3d/569/united-states-v-bishop)
+
+So the clean shorthand is:
+
+Bishop: affirm.
+
+Stokes: affirm on Commerce, cumulative punishment, and identification; vacate and limited-remand on the booking statement and booking video.
+
+If the lower court finds either booking item was improperly admitted, it then conducts the appropriate prejudice or harmless-error analysis and orders whatever further relief that analysis requires.
 
 ### SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
