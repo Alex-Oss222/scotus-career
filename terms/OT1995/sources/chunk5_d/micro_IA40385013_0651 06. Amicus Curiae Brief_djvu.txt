@@ -1,0 +1,1411 @@
+— 
+FIT ED 
+(a) DEC 28 1995 
+
+
+No. 95-354 
+
+
+Supreme Court, U.S 
+
+
+IN THE 
+
+
+Supreme Court of the Gnited States 
+OCTOBER TERM, 1995 
+
+
+JAMES O’CONNOR, 
+
+
+Petitioner, 
+v. 
+
+
+CONSOLIDATED COIN CATERERS CORPORATION, 
+
+
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+BRIEF AMICI CURIAE OF THE 
+AMERICAN ASSOCIATION OF RETIRED PERSONS 
+AND THE NATIONAL EMPLOYMENT LAWYERS 
+ASSOCIATION IN SUPPORT OF PETITIONER 
+
+
+STEVEN S. ZALEZNICK 
+
+THOMAS W. OSBORNE 
+
+CATHY VENTRELL-MONSEES* 
+
+AMERICAN ASSOCIATION OF RETIRED PERSONS 
+601 E Street, N.W. 
+
+Washi n, D.C. 20049 
+
+(202) -2060 
+
+
+Counsel for Amici Curiae 
+American Association of Retired Persons 
+and the National Employment Lawyers Association 
+
+
+*Counsel of Record 
+
+
+‘ee 
+
+
+5 
+
+
+QUESTION PRESENTED 
+
+
+Is a prima facie case of age discrimination precluded by the 
+fact that the employee who secures the job that the claimant 
+was denied is within the class of persons protected against 
+age discrimination? 
+
+
+TABLE OF CONTENTS 
+Page 
+QUESTION PRESENTED .......ccccecssess i 
+TABLE OF AUTHORITIES ................. iv 
+INTERESTS OF AMICI CURIAE ............... | 
+SUMMARY OF ARGUMENT ................. 3 
+ARGUMENT .....ccccscceeeseue un eee 4 
+
+
+REPLACEMENT BY A MEMBER OF THE 
+PROTECTED CLASS IS NOT AN ESSENTIAL 
+ELEMENT OF A PRIMA FACIE CASE OF AGE 
+DISCRIMINATION UNDER THE MCDONNELL 
+DOUGLAS PROOF PARADIGM ........... 4 
+
+
+A. Purpose Of The Prima Facie Case ..... 4 
+
+
+B. The Lower Court's Adaptation Of The 
+Fourth McDonnell Douglas Element To 
+Require Proof In An ADEA Discharge 
+Case That Plaintiff's Replacement Is 
+Outside The Protected Age Group Vitiates 
+The Purpose Of The Prima Facie Case .. 8 
+
+
+C. The Fourth Element Of The Prima Facie 
+Case Must Be Flexible ............ 11 
+
+
+Il. TO REQUIRE ADEA DISCHARGE PLAINTIFFS 
+TO SHOW A REPLACEMENT OUTSIDE THE 
+PROTECTED CLASS IS CONTRARY TO THE 
+STATUTORY PURPOSE OF THE ADEA .... 16 
+
+
+A. In Enacting The ADEA, Congress’ Purpose 
+Was To Prohibit Employers From Using 
+Age As A _ Determining Factor In 
+Employment Decisions............ 16 
+
+
+B. Requiring Plaintiffs To Prove Replacement 
+By Someone Under Age 40 Essentially 
+Eviscerates The Law's Protections For 
+Workers In The Upper Ages Of The 
+
+
+lil. BECAUSE OF ITS INSISTENCE ON THE 
+MECHANISTIC APPLICATION OF ITS 
+VERSION OF THE MCDONNELL DOUGLAS 
+MODEL, THE COURT BELOW IMPROPERLY 
+REJECTED PROBATIVE EVIDENCE 
+SUFFICIENT TO ESTABLISH A PRIMA FACIE 
+DC MEeG bb se wesecsecsecce. 21 
+
+
+ECC Se PEGs ecccecccccccccce 26 
+
+
+iV 
+TABLE OF AUTHORITIES 
+CASES 
+Airline Pilots Association v. Trans World Airlines, 
+713 F.2d 940 (2d Cir. 1983), aff'd on other grounds 
+
+
+sub. nom. 7rans World Airlines, Inc. v. Thurston, 
+Gee Gas SE Gn Gu dee ee ets tv eweetanr 21 
+
+
+Alphin v. Sears, Roebuck & Co., 
+940 F.2d 1497 (llth Cin. 1991) 2. ww wee eee 23 
+
+
+Brom v. Bozell, Jacobs, Kenyon & Eckhardt, 
+827 F. Supp. 686 (N.D. Ill. 1994) ............. 25 
+
+
+Byrd v. Roadway Express, Inc., 
+687 F.2d 85 (Sth Cir. 1982) ............4.. 20, 23 
+
+
+Carter v. City of Miami, 870 F.2d 578 (11th Cir. 1989) . 19 
+
+
+Chevron, U.S.A., Inc. v. Natural Resources Defense 
+Council, 467 U.S. 837 (1984) ...........4.. 17-18 
+
+
+Chipollini v. Spencer Gifts, Inc., 
+814 F.2d 893 (3d Cir.), cert. dismissed, 
+Gp Wa GEE . 6 Sanednncecencnstéceee 5 
+
+
+Connecticut v. Teal,457 U.S. 440 (1982) ......... 21 
+
+
+Cooley v. Carmike Cinemas, Inc., 
+y PR E: J ol ee 24 
+
+
+Vv 
+
+
+Table of Authorities continued 
+
+
+Dickson v. Amoco Performance Products, 
+69 Fair Empl. Prac. Cas. (BNA) 228 (N.D. Ga. 1994). 24 
+
+
+Douglas v. Anderson, 656 F.2d 528 (9th Cir. 1981) .. 20 
+
+
+EEOC v. Clay Printing Co., 
+955 F.2d 936 (4th Cir. 1992) .............. 6, 15 
+
+
+EEOC v. Western Elec. Co., Inc., 
+713 F.2d 1011 (4th Cir. 1983) ............. 13, 15 
+
+
+Furnco Const. Corp. v. Waters, 438 U.S. 567 (1978) . 11 
+Futrell v. J. 1. Case, 38 F.3d 342 (7th Cir. 1994) ... 24 
+
+
+Gadsby v. Norwalk Furniture Corp., 
+1995 U.S. App. LEXIS 35229 (7th Cir. 1995) . 9, 21, 22 
+
+
+Goldstein v. Manhattan Industries, Inc.., 
+758 F.2d 1435 (11th Cir.), cert denied, 
+RS Ee ee 20 
+
+
+Hazen Paper Co. v. Biggins, 
+OB... SES. Co. FHS CURED nw ww ccc ccce. 5 
+
+
+Herold v. Hajoca Corp., 
+864 F.2d 317 (4th Cir.), cert. denied, 
+Ge DEEP EE bho cdendeeesccescoses 15 
+
+
+vi 
+
+
+Table of Authorities continued 
+International Brotherhood of Teamsters v. United States, 
+Ge Cee: Wu's Keve 0c) 0.06% nw 11, 12 
+
+
+Jackson v. GTE Directories Service Corp., 
+
+
+734 F. Supp. 258 (N.D. Tex. 1990) ............ 20 
+
+
+Kralman v. Illinois Department of Veterans’ Affairs, 
+pe fo. 6 18 
+
+
+LaMontagne v. American Convenience Products, Inc., 
+See ee CEs EE no ceccncccoccesess 5 
+
+
+Lockhart v. Westinghouse Credit Corp., 
+4, . | | ) rv TTT ie 23 
+
+
+Loeb v. Textron, Inc., 
+600 F.2d 1003 (ist Cir. 1979) ............. passim 
+
+
+Lovelace v. Sherwin-Williams Co., 
+Ge PE ohn ddiemee coe beso eeeee passim 
+
+
+Maxfield v. Sinclair Intern., 
+Fe ee PE EEE cecpecce ces seeeen 18 
+
+
+Mayall v. Peabody Coal Co., 
+BP I 18 
+
+
+McCorstin v. United States Steel Corp., 
+621 F.2d 749 (Sth Cir. 1980)]} ............ 9, 19, 20 
+
+
+vii 
+
+
+Table of Authorities continued 
+
+
+McDonnell Douglas v. Green, 
+er ciceccuébeccheses ee passim 
+
+
+Neufeld v. Searle Laboratories, 
+884 F.2d 335 (8th Cir. 1989) ..........6 50 eee 24 
+
+
+O'Connor v. Consolidated Coin Caterers Corp., 
+56 F.3d 542 (4th Cir. 1995) .........2.455. passim 
+
+
+Price Waterhouse v. Hopkins, 490 U.S. 228 (1989) .. 10 
+
+
+Rollins v. Tech-South, Inc., 
+
+
+833 F.2d 1525 (11th Cir. 1987) ............... 24 
+Roper v. Peabody Coal Co., 
+
+47 F.3d 925 (7th Cir. 1995) ...............-. 17 
+Smith v. Flax, 618 F.2d 1062 (4th Cir. 1980) ...... 25 
+
+
+St. Mary's Honor Center v. Hicks, 
+__-U.S. _, 113 S. Ce. 2742 (1993) ............ 8 
+
+
+Texas Department of Community Affairs v. Burdine, 
+BOGE See se Vewot Sete iveeti 5,6, 7,8 
+
+
+Thornbrough v. Columbus and Greenville Railroad Co., 
+760 F.2d 633 (Sth Cir. 1985) 2... ee eee 5 
+
+
+Trans World Airlines v. Thurston, 
+Se TTD cc uacebedseeseeeceess 8, 13, 21 
+
+
+Viii 
+
+
+Table of Authorities continued 
+United States Postal Service Board of Governors v. 
+Aikens, 460 U.S. 711 (1981) ............. 5, 6, 22 
+STATUTES 
+Age Discrimination in Employment Act, 
+
+29 U.S.C. § 621 et seq., (ADEA) ........... 2, 16 
+ae ee oak oe khwek ieee eka de east 16 
+MISCELLANEOUS 
+113 Cong. Rec. 31,255 (1967) ............ ee 
+Pes I cobs chcecceéeeneseres 17 
+
+
+O'Meara, Protecting the Growing Number of Older 
+Workers: The Age Discrimination in Employment Act, 
+Labor Relations and Public Policy Series, at 26 (1989) 19 
+
+
+Schuster and Miller, An Empirical Assessment of the 
+Age Discrimination in Employment Act, 38 Indus. 
+eG Se Ge tc ccc cc eceeseecs 19 
+
+
+IN THE 
+
+
+Supreme Court of the Anited States 
+
+
+OCTOBER TERM, 1995 
+
+
+No. 95-354 
+
+
+JAMES O'CONNOR, 
+Petitioner, 
+v. 
+CONSOLIDATED COIN CATERERS CORPORATION, 
+Respondent. 
+
+
+On Writ of Certiorari To The 
+United States Court of Appeals 
+For the Fourth Circuit 
+
+
+BRIEF AMICI CURIAE OF THE 
+AMERICAN ASSOCIATION OF RETIRED PERSONS 
+AND THE NATIONAL EMPLOYMENT 
+LAWYERS ASSOCIATION 
+
+
+INTERESTS OF AMICI CURIAE 
+
+
+The American Association of Retire.’ Persons (AARP) 
+is a nonprofit membership organization of persons age 5O and 
+older that is dedicated to addressing the needs and interests of 
+older Americans. AARP seeks through education, advocacy, 
+and service to enhance the quality of life for all by promoting 
+independence, dignity, and purpose. 
+
+
+2 
+
+
+More than one-third of AARP's thirty-two million 
+members are employed individuals, most of whom are 
+protected by the Age Discrimination in Employment Act, 29 
+U.S.C. § 621 et seq., (ADEA). 
+
+One of AARP's primary objectives is to strive to 
+achieve dignity and equality in the work place through 
+positive attitudes, practices, and policies regarding work and 
+retirement. Through its research, publications, and training 
+programs, AARP seeks to eliminate ageist stereotypes, to 
+encourage employers to hire and retain older workers, and to 
+help older workers overcome the obstacles they face because 
+of age. 
+
+AARP seeks to insure that older persons are judged on 
+their ability, not age. To this end, AARP created a Worker 
+Equity Initiative in 1985 to study and address issues affecting 
+the employment of older persons. AARP has developed 
+educational and advocacy programs to encourage and promote 
+the employment of older persons. As part of its advocacy 
+efforts, AARP has filed more than 100 amicus curiae briefs 
+in the United States Supreme Court, federal appellate and 
+district courts, and state courts regarding the proper 
+interpretation and application of the federal and state 
+discrimination laws to insure that the rights of older workers 
+are fully protected. 
+
+The National Employment Lawyers Association 
+(NELA) is a national bar association of over 2,000 lawyers 
+who regularly represent employees in employment-related 
+disputes. NELA members comprise a large segment of the 
+leaders of the bar specializing in employment law on behalf 
+of employees. NELA members regularly handle age 
+discrimination cases. 
+
+
+3 
+
+
+In light of its interest in the application of employment 
+law, NELA has previously filed amicus curiae briefs with the 
+United States Supreme Court, as well as the federal Circuit 
+Courts of Appeals, and various state Supreme Courts. 
+
+Because of its practical experience with the issues at 
+bar, NELA is well-suited to brief this Court on the 
+importance of the issues and the practical effects of the 
+Court's decision beyond the immediate concerns of the 
+parties. 
+
+Both amici are vitally interested the proper 
+formulation and application of the requirements for a prima 
+facie case of age discrimination. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+In the typical employment discrimination suit, the plaintiff 
+is able to present circumstantial, but not direct evidence of 
+discrimination. In the absence of direct evidence, the prima 
+facie case functions as a framework for establishing a 
+rebuttable presumption of discrimination, thus compelling a 
+response from defendant. 
+
+Because no single formulation of the prima facie showing 
+can possibly be expected to capture the many guises in which 
+such discrimination can occur, and because plaintiff's burden 
+is light, this Court has repeatedly emphasized that one 
+acceptable framework, its McDonnell Douglas model, is, of 
+necessity, a flexible test, adaptable to different factual 
+situations. Ignoring this principle, the court below rigidly 
+applied an adaptation of McDonnell Douglas for ADEA 
+discharge cases that requires as its fourth element a showing 
+that the discharged employee was replaced by someone 
+outside the protected age group. The court held that because 
+
+
+4 
+
+
+the 56 year old petitioner's replacement was 40 years old, just 
+within the age group protected by the ADEA, petitioner could 
+not, aS a matter of law, make the required prima facie 
+showing and granted summary judgment for defendant. 
+
+Finding that petitioner's evidence failed to satisfy even its 
+relaxed prima facie standard applicable to reduction-in-force 
+cases, the court below improperly relied on evidence relevant 
+to respondent's rebuttal, while essentially ignoring the 
+probative value of plaintiff's circumstantial evidence. 
+Finally, because of its too rigid adherence to the formulaic 
+approach, the court below essentially ignored petitioner's 
+direct evidence of discriminatory intent. 
+
+
+ARGUMENT 
+
+
+I. REPLACEMENT BY A }*‘EMBER OF THE 
+PROTECTED CLASS IS NOT AN ESSENTIAL 
+ELEMENT OF A PRIMA FACIE CASE OF AGE 
+DISCRIMINATION UNDER THE MCDONNELL 
+DOUGLAS PROOF PARADIGM. 
+
+
+A. Purpose Of The Prima Facie Case. 
+
+
+Since in the typical employment discrimination case direct 
+evidence may be unobtainable, this Court developed the 
+McDonnell Douglas prima facie framework for evaluation of 
+the available circumstantial evidence. The prima facie case 
+
+
+is based on the notion that, by ruling out the more 
+obvious job-related reasons for [the employer's 
+decision, an employment discrimination] complainant 
+can create an inference of some tainted reason, i.e., 
+some discriminatory reason, sufficient to require the 
+
+
+5 
+
+
+employer to articulate a legitimate reason for [the 
+
+employment decision. }" 
+
+Loeb v. Textron, Inc., 600 F.2d 1003, 1013 (1st Cir. 1979). 
+It is, therefore, the first step in "sharpen[ing] the inquiry into 
+the elusive factual question of intentional discrimination." 
+Texas Dept of Community Affairs v. Burdine, 450 U.S. 248, 
+255 n. 8. (1981). 
+
+In an ADEA case alleging discriminatory discharge, 
+plaintiff's ultimate burden is to prove by a preponderance of 
+the evidence that age was a motivating factor in the 
+employer's decision to discharge him. Hazen Paper Co. v. 
+Biggins, _ U.S. __, 113 S. Ct. 1701, 1706 (1993). 
+Plaintiff's proof may consist of direct or circumstantial 
+evidence. United States Postal Service Bd. of Governors v. 
+Aikens, 460 U.S. 711, 714 n. 3 (1981). Direct evidence is 
+not required because "it is often unavailable or difficult to 
+find." Chipollini v. Spencer Gifts, Inc., 814 F.2d 893, 897 
+(3d Cir.), cert. dismissed, 483 U.S. 1052 (1987). 
+"Employers are rarely so cooperative as to include a notation 
+in the personnel file, “fired due to age’; or to inform a 
+dismissed employee candidly that he is too old for the job." 
+Thornbrough v. Columbus and Greenville Railroad Co. , 760 
+F.2d 633, 638 (Sth Cir. 1985). Therefore, most employment 
+discrimination plaintiffs must rely on circumstantial evidence 
+because direct evidence is unobtainable. “Even an employer 
+who knowingly discriminates on the basis of age may leave 
+no written records and may communicate it orally to no one." 
+LaMontagne v. American Convenience Products, Inc., 750 
+f.2d 1405, 1410 (7th Cir. 1984). Because "[t}here will seldom 
+be ‘eyewitness’ testimony as to the employer's mental 
+
+
+6 
+
+
+process," this Court in McDonnell Douglas v. Green” 
+“devised a framework that would allow both plaintiffs and the 
+courts to deal effectively with employment discrimination 
+revealed only through circumstantial evidence." Aikens, 460 
+U.S. at 716. 
+
+The court below acknowledged that in accordance with its 
+decision in EEOC v. Clay Printing Co., 955 F.2d 936, 940 
+(4th Cir. 1992), an ADEA plaintiff "may meet this burden 
+under the ordinary standards of proof by direct or indirect 
+evidence relevant to and sufficiently probative of the issue." 
+In the alternative, an ADEA plaintiff may, as O'Connor did, 
+"resort to the proof scheme articulated for Title VII cases in 
+McDonnell Douglas v. Green,"* "- properly adapted - for 
+application to ADEA litigation." Lovelace v. Sherwin- 
+Williams Co., 681 F.2d 230, 239 (4th Cir. 1982. 
+
+In McDonnell Douglas, this Court specified "the basic 
+allocation of burdens and order of presentation of proof in a 
+Title VII case alleging discriminatory treatment."» In a 
+unanimous opinion by Mr. Justice Powell, the Court in 
+McDonnell Douglas held that plaintiff bears the burden of 
+establishing a prima facie case of discrimination and that 
+"[t}his may" - not must - "be done" by showing 
+
+
+(i) that he belongs to a racial minority; (ii) that he 
+applied and was qualified for a job for which the 
+
+
+411 U.S. 792 (1973). 
+
+
+¥ O'Connor v. Consolidated Coin Caterers Corp., 56 F.3d 542, 545 (4th 
+Cir. 1995). 
+
+
+¥ Texas Dept of Community Affairs v. Burdine, 450 U.S. 248, 252 
+(1981). 
+
+
+7 
+
+
+employer was seeking applicants; (iii) that, despite his 
+qualifications, he was rejected; and (iv) that, after his 
+rejection, the position remained open and the employer 
+continued to seek applicants from persons of 
+complainant's qualifications. 
+
+
+In Loeb, 600 F.2d at 1014, the First Circuit explained that 
+McDonnell Douglas 
+
+
+addresses two problems that exist in most employment 
+discrimination cases: (1) direct evidence of 
+discrimination is likely to be unavailable, and (2) the 
+employer has the best access to the reasons that 
+prompted him to fire, reject, discipline or refuse to 
+promote the complainant.... Proof of the McDonnell 
+Douglas-type prima facie case assures the plaintiff his 
+day in court despite the unavailability of direct 
+evidence, and entitles him to an explanation from the 
+defendant-employer for whatever action was taken. 
+
+
+"The burden of establishing a prima facie case of disparate 
+treatment is not onerous." Burdine, 450 U.S. at 253. 
+Neither is the burden cast on defendant once plaintiff makes 
+the required showing. If proven, the prima facie case does 
+not establish the fact of a discriminatory motive requiring a 
+directed verdict for plaintiff; rather, it establishes a rebuttable 
+factual presumption of discrimination which requires the 
+defendant to produce some admissible evidence of (but not to 
+prove by a preponderance) a legitimate, nondiscriminatory 
+reason for plaintiff's termination. Jd., at 254. McDonnell 
+
+
+* 411 U.S. at 802 [emphasis supplied). 
+
+
+Douglas "does not alter the traditional burdens of proof in 
+civil litigation, and is not intended to deflect the factfinder 
+from the central issue of whether the employer was motivated 
+by discriminatory factors." Loeb, 600 F.2d at 1015. 
+Plaintiff's prima facie showing places upon the defendant 
+merely "the burden of producing an explanation to rebut the 
+prima facie case ...." St. Mary's Honor Center v. Hicks, __ 
+U.S. _, 113 S. Ct. 2742, 2747 (1993). 
+
+The issue raised by this case is whether the particular 
+adaptation of McDonnell Douglas applied by the Fourth 
+Circuit to the circumstances of this case comports with the 
+purpose of the prima facie case, which is “to sharpen the 
+inquiry into the elusive factual question of intentional 
+discrimination." Burdine, 450 U.S. at 255 n. 8. 
+
+
+B. The Lower Court's Adaptation Of The Fourth 
+McDonnell Douglas Element To Require Proof 
+In An ADEA Discharge Case That Plaintiff's 
+Replacement Is Outside The Protected Age 
+Group Vitiates The Purpose Of The Prima 
+Facie Case. 
+
+
+The insistence by the court below that where the plaintiff 
+alleges that he was discharged due to age” the fourth element 
+
+
+* Although this Court has not had occasion to hold that McDonnell 
+Douglas applies to suits under the ADEA, because every circuit court of 
+appeals has so held, the Court has acknowledged that the McDonnell 
+Douglas "framework has gained wide acceptance, not only in [Title VII 
+cases}, but also in similar cases, such as those alleging age discrimination 
+under the Age Discrimination in Employment Act of 1967." Hicks, 113 
+S. Ct. at 2757 (Souter, J., dissenting). See also Trans World Airlines v. 
+Thurston, 469 U.S. 111, 121 (1985). See, e.g., Loeb v. Textron, Inc.., 
+
+
+9 
+
+
+of the prima facie case can be satisfied only by a showing that 
+plaintiff was replaced by someone outside the protected age 
+group thwarts the purpose of the McDonnell Douglas 
+paradigm. 
+
+The prima facie case requires that plaintiff make only a 
+threshold showing of discriminatory treatment. Therefore, he 
+"should not be forced to anticipate every possible reason his 
+employer could provide for his discharge and incorporate 
+responses to all of these hypothetical reasons into his prima 
+facie case." Gadsby v. Norwalk Furniture Corp., 1995 U.S. 
+App. LEXIS 35229 (7th Cir. 1995), at 31 (Flaum, Circuit 
+Judge, concurring).” For example, in many discharges, the 
+terminated older employee is not immediately replaced or is 
+
+
+600 F.2d 1003 (ist Cir. 1979) (Nothing in the ADEA or its legislative 
+history contradicts the conclusion that the same methods and burdens of 
+proof apply under the ADEA as under Title VII.). 
+
+
+© Gadsby and the present case, among others, illustrate the struggle of 
+the lower courts to adapt the fourth element of the McDonnell Dougias 
+proof scheme to the ADEA because of the varying contexts in which age 
+discrimination arises. [Age “|dJiscrimination, unfortunately, exists in 
+forms as myriad as the creative perverseness of human beings can 
+provide.” McCorstin v. United States Steel Corp. , 621 F.2d 749, 753 (Sth 
+Cir. 1980)]. In Gadsby, a single discharge case where plaintiff was not 
+replaced, the court sidestepped the more fundamental question of whether 
+proof of actual replacement is required at all, but “declined to hold that the 
+{less stringent] RIF standard applies.” 1995 U.S. App. LEXIS 35229, at 
+21. In O'Connor, the court below felt constrained to apply its age 40 
+replacement test (which assumes a showing of replacement is required to 
+satisfy the fourth element) and, like Gadsby, declined to apply its similar, 
+less stringent reduction-in-force test, finding petitioner's evidence would 
+be insufficient to meet even that relaxed standard. As discussed, herein, 
+however, petitioner's evidence is much stronger and much more probative 
+of age discrimination than was Gadsby's. 
+
+
+10 
+
+
+not replaced at all” Thus, the characteristics of the 
+replacement will have no bearing on the employer's 
+discriminatory intent to discharge the older employee at the 
+time of the discharge. Indeed, this Court's McDonnell 
+Douglas formulation of the plaintiff's prima facie case does 
+not require the plaintiff to show anything about the actual 
+person hired or that the hiree was outside the protected class. 
+
+The prima facie case properly must focus on the treatment 
+of the plaintiff at the time of the challenged employment 
+decision. As this Court emphasized in Price Waterhouse v. 
+Hopkins, 490 U.S. 228, 241 (1989): "The critical inquiry, the 
+one commanded by the words of [the federal 
+antidiscrimination statute], is whether an [unlawful criterion] 
+was a factor in the employment decision at the moment it was 
+made." The Court explained that "in saying that [an unlawful 
+criterion] played a motivating part in an employment 
+decision, we mean that, if we asked the employer at the 
+moment of the decision what its reasons were and if we 
+received a truthful response, one of those reasons would be 
+that the applicant or employee was a [member of a protected 
+group].” Price Waterhouse, 490 U.S. at 246, n. 11. 
+
+In other words, the prima facie case is a snapshot of the 
+employee's treatment taken at the time of discharge. There 
+may be other interpretations and explanations of the picture 
+it presents, but such evidence is relevant to the employer's 
+
+
+Y As discussed in section 1.C. below, the Fourth Circuit has held 
+previously that even im a case involving the demotion and immediate 
+replacement of a protected-age store manager, the age of the replacement 
+is not an essential element of an ADEA claim. Lovelace v. Sherwin- 
+Williams Co., 681 F.2d 230, 237-38 n. 5 (4th Cir. 1982). 
+
+
+rebuttal and, ultimately, to the plaintiff's proof of pretext, not 
+to the prima facie case. 
+C. The Fourth Element Of The Prima Facie Case 
+Must Be Flexible. 
+
+This Court has repeatedly emphasized that its decision in 
+McDonnell Douglas "did not purport to create an inflexible 
+formulation," International Brotherhood of Teamsters v. 
+United States, 431 U.S. 324, 358 (1977); Furnco Const. 
+Corp. v. Waters, 438 U.S. 567, 575 (1978) (This, of course, 
+was not intended to be an inflexible rule.") In the McDonnell 
+Douglas opinion, immediately after setting forth the elements 
+of the prima facie case applicable to the facts before the 
+Court, Justice Powell added the caveat that 
+
+
+The facts necessarily will vary in Title VII cases, and 
+
+the specification above of the prima facie proof 
+
+required from respondent is not necessarily applicable 
+in every respect to differing factual situations.” 
+
+In Furnco, 438 U.S. at 577, this Court further cautioned 
+that the McDonnell Douglas prima facie case must not be 
+employed in a "rigid, mechanized, or ritualistic" manner 
+because it is 
+
+merely a sensible, orderly way to evaluate the evidence 
+
+in light of common experience as it bears on the 
+
+‘tical ion of discrimination. A prima facie case 
+
+enter MDamedl Dougie: maless on tates of 
+
+discrimination only because we presume these acts, if 
+
+
+¥ McDonnell Douglas v. Green, 411 U.S. 792, 802 n. 13 (1973). 
+
+
+12 
+
+
+on the consideration of impermissible factors. 
+
+Neither did the Court intend that McDonnell Douglas 
+would be the exclusive method of establishing a prima facie 
+case of individual discrimination. Teamsters, 431 U.S. at 
+358. Thus: 
+
+
+The importance of McDonnell Dougias lies, not in its 
+specification of the discrete elements of proof there 
+required, but in its recognition of the general principle 
+that any [employment discrimination] plaintiff must 
+carry the initial burden of offering evidence adequate 
+
+to create an inference that an employment decision was 
+
+_ based on a discriminatory criterion illegal under the 
+
+Act. 
+
+Id. 
+
+The Fourth Circuit has acknowledged that "[i]t was never 
+intended that a ‘prima facie case’ of employment 
+discrimination could be established only by mechanically 
+applying the precise requirements set forth in McDonnell 
+Douglas." EEOC v. Western Elec. Co., Inc., 713 F.2d 1011, 
+1014 (4th Cir. 1983). Rather, 
+
+
+because of the comparable remedial purposes of [Title 
+VII and the ADEA] and the comparable difficulty 
+under both of proving discriminatory motivation, the 
+judicially created proof scheme for Title VII cases 
+featuring a rebuttable factual presumption favoring 
+claimants in the initial stages of proof is appropriate - 
+properly adapted - for application in ADEA litigation. 
+Lovelace, 681 F.2d at 239 [emphasis supplied]. 
+
+
+. 
+
+
+13 
+
+
+The Fourth Circuit's restrictive adaptation of the 
+McDonnell Douglas paradigm for the “usual ADEA case," 
+EEOC v. Western Elec. Co., Inc., 713 F.2d at 1014, in which 
+the fourth element mandates "replace[ment] by someone of 
+comparable qualifications outside the protected class"” 
+supposedly "was intended to demonstrate unequal treatment 
+by the relatively objective evidence of replacement by a 
+member of a non-protected class." /d., at 1014-15. 
+However, the court below has transmuted that simple 
+intention into mechanistic application of a method of proof 
+which confines plaintiffs in discharge cases to a straitjacket!”’ 
+and which vitiates the purpose of the prima facie case - to 
+insure that victims of discrimination have their day in court. 
+See Trans World Airlines, Inc. v. Thurston, 469 U.S. 111, 
+121 (1985). 
+
+
+® As discussed above, Justice Powell's formulation of the elements of 
+the prima facie case in McDonnell-Dougias did not include a showing of 
+replacement by a person outside the protected class. 411 U.S. at 802. 
+
+
+12 The parties and che district court characterized the facts as presenting 
+a reduction-in-force case, O'Connor, 56 F.3d at 546. Nevertheless, the 
+court below, struggling to fit the somewhat awkward facts of this case into 
+a familiar formulation for analysis, found that because the reduced “force” 
+in this case consisted of two people - plaintiff and one other employee - 
+and because plaintiff could point to his replacement - the less stringent 
+reduction-in-force paradigm was “inapt.” Therefore, the court felt 
+constrained to employ the more restrictive discharge/replacement rubric. 
+O'Connor, 56 F.3d at 546. However, the elements of the prima facie case 
+which plaintiffs must prove should not depend on a court's post hoc 
+characterization of the facts to fit a particular model; rather, the prima 
+facie model should be flexible enough to accommodate the facts 
+themselves. 
+
+
+14 
+
+
+In Lovelace, an ADEA case arising from the demotion of 
+a protected-age store manager and his replacement by a 
+younger man who was also in the protected age group, the 
+Fourth Circuit took a position completely opposite from that 
+espoused in the opinion below. The Lovelace court stated 
+that 
+
+
+an ADEA claim involving replacement by another does 
+not require as a matter of law proof that the other was 
+outside the protected age group. But absolute and 
+relative ages of the claimant and his replacement have 
+obvious relevance in assessing whether a factual 
+inference of age discrimination is permissible. 
+Lovelace, 681 F.2d at 242 n. 13 [emphasis supplied]. Going 
+a step further, the Fourth Circuit in Lovelace, 681 F.2d at 
+237-8 n. 5, “agree[d]" that replacement "by a person outside 
+the protected age group . . . is not [even] an essential legal 
+element of the ADEA claim. . . .". The Lovelace court 
+specifically pointed out, 681 F.2d at 242-3 n. 13, its 
+agreement with the analysis of the First Circuit in Loeb, 600 
+F.2d at 1013 n. 9: 
+
+
+Replacement of a 60 year old by a 35 year old or even 
+a 45 year old within the protected class would be more 
+Suggestive of discrimination than replacement of a 45 
+year old by a 42 year old within the protected class or 
+a 39 year old outside it. 
+
+
+Lovelace, 681 F.2d at 242-43 n. 13. 
+
+
+In the opinion below, without overruling Lovelace or even 
+attempting to rationalize the conflict between its present 
+decision and its above-described earlier analysis of the fourth 
+
+
+15 
+
+
+prima facie element, the court incorrectly stated that "Fourth 
+Circuit precedent has required a plaintiff to demonstrate that 
+his replacement was outside the protected class to satisfy that 
+element,” 56 F.3d at 546 n. 1, citing its decision in EEOC v. 
+Clay Printing Co., 955 F.2d 936, 943 (4th Cir. 1992). Clay, 
+however, was a reduction-in-force case which applied the 
+much less restrictive test of Herold v. Hajoca Corp. , "that 
+persons outside the protected class were retained in the same 
+position or that there was some other evidence indicating that 
+the employer did not treat age neutrally in deciding to dismiss 
+the plaintiff." Even EEOC v. Western Elec. Co., Inc., 713 
+F.2d 1011 (4th Cir. 1983), in which the Fourth Circuit 
+announced the rule applied below, was a reduction-in-force 
+case to which the rule did not apply. 
+
+Thus, despite the Fourth Circuit's protestations that its 
+decision was circumscribed by its own precedents, O'Connor 
+is the first case to which that court has applied its unduly 
+restrictive formulation of the fourth element to deny an 
+ADEA discharge plaintiff a trial by jury. 
+
+
+W864 F.2d 317, 320 (4th Cir.), cert. denied, 490 U.S. 1107 (1988). 
+
+
+i However, because “the age of a replacement employee should be a 
+relevant, but not dispositive, factor for a court to consider when deciding 
+whether the plaintiff has established a prima facie case under the 
+McDonnell Douglas framework," the majority of the circuit courts have 
+rejected the “absolute requirement” of showing replacement from outside 
+the protected age group in favor of a showing that the replacement was 
+merely younger. O'Connor, 56 F.3d at 550-51 (Butzner, Senior Circuit 
+Judge, concurring in part and dissenting in part.). 
+
+
+16 
+
+
+Il. TO REQUIRE ADEA DISCHARGE 
+PLAINTIFFS TO SHOW A REPLACEMENT 
+OUTSIDE THE PROTECTED CLASS IS 
+CONTRARY TO THE STATUTORY PURPOSE 
+OF THE ADEA. 
+
+
+A. In Enacting The ADEA, Congress' Purpose 
+Was To Prohibit Employers From Using 
+Age As A _ Determining Factor In 
+Employment Decisions. 
+
+
+The purposes of the ADEA are set forth in the first section 
+of the Act: 
+
+
+to promote employment of older persons based on their 
+ability rather than age; to prohibit arbitrary age 
+discrimination in employment; to help employers and 
+workers find ways of meeting problems arising from 
+the impact of age on employment. 
+
+
+29 U.S.C.. § 621(b). The statutory language adopted by 
+Congress to implement this purpose is that work place 
+discrimination against "any individual...because of such 
+individual's age" is unlawful. 29 U.S.C. § 623. The statute 
+says nothing about the age of others. Rather, in the 
+circumstances of this case, it commands an examination of the 
+employer's actions in order to determine if the individual 
+employee's age was a motivating factor in the decision to 
+discharge him. 
+
+Although the text of the ADEA does not address the 
+narrow question presented by this case, the legislative history 
+of the Act speaks to it directly and forcefully. Senator Javits, 
+one of the sponsors of the ADEA, stated: 
+
+
+17 
+
+
+Section 4 of the Bill [29 U.S.C. § 623] specifically 
+prohibits discrimination against any "individual" 
+because of his age. It does not say that the 
+discrimination must be in favor of someone younger 
+than age 40. In other words, if two individuals ages 
+52 and 42 apply for the same job and the employer 
+selected the man age 42 . . . because he is younger 
+than the man 52, then he will have violated the act . . 
+
+
+113 Cong. Rec. 31,255 (1967). Thus, it is clear that 
+Congress intended to include within the coverage of the 
+ADEA claims based on the relative ages of members of the 
+protected class. "[T]he ADEA protects older employees from 
+discrimination on the basis of age, not just discrimination in 
+favor of persons under the age of forty." Roper v. Peabody 
+Coal Co., 47 F.3d 925, 927 (7th Cir. 1995). 
+
+A regulation promulgated by the Equal Employment 
+Opportunity Commission expressly states that: 
+
+
+It is unlawful in situations where this Act applies, for 
+an employer to discriminate in hiring or in any other 
+way by giving preference because of age between 
+individuals 40 and over. Thus, if two people apply for 
+the same position, and one is 42 and the other 52, the 
+employer may not lawfully turn down either one on the 
+basis of age, but must make such a decision on the 
+basis of some other factor. 
+
+
+29 C.F.R. § 1625.2(a). Because the EEOC is the primary 
+agency charged with implementing the ADEA, its 
+interpretation is entitled to great deference. Chevron, U.S.A., 
+
+
+18 
+
+
+Inc. v. Natural Resources Defense Council, 467 U.S. 837, 
+844 (1984). 
+
+There is not a scintilla of evidence in either the statute or 
+its legislative history evincing an intention that an employer 
+should be "insulated from liability for age discrimination 
+when he chooses among people in the protected class." 
+Mayall v. Peabody Coal Co., 7 F.3d 570, 572 (7th Cir. 
+1993); see Kralman v. Illinois Dept. of Veterans’ Affairs, 23 
+F.3d 150, 155 (7th Cir. 1994). The O'Connor decision, 
+however, subverts the congressional purpose by turning the 
+ADEA's shield against age discrimination for every older 
+worker into a sword in the hands of employers to be used 
+against many older workers who are discharged because of 
+their age, through the simple artifice of hiring a replacement 
+who is at least age 40. 
+
+
+B. Requiring Plaintiffs To Prove Replacement By 
+Someone Under Age 40 Essentially Eviscerates 
+The Law's Protections For Workers In The 
+Upper Ages Of The Protected Class. 
+
+
+The practical consequences of dismissing age 
+discrimination claims when a replacement is within the 
+protected class cannot be ignored. "If no intra-age group 
+protection were provided by the ADEA, it would be of 
+virtually no use to persons at the upper ages of the protected 
+class whose jobs require experience since even an employer 
+with clear anti-age animus would rarely replace them with 
+someone under 40." Maxfield v. Sinclair Intern., 766 F.2d 
+788, 792 (3d Cir. 1985) Moreover, "a requirement that the 
+replacement be from a nonprotected group fails to take the 
+
+
+19 
+
+
+ieality of the working place into account." Carter v. City of 
+Miami, 870 F.2d 578, 583 (11th Cir. 1989). That reality is: 
+
+
+Seldom will a sixty-year-old be replaced by a person 
+
+in the twenties. Rather the sixty-year-old will be 
+
+replaced by a fifty-five-year-old, who, in turn, is 
+succeeded by a person in the forties, who will be 
+replaced by a younger person. Eventually a person 
+outside the class will be elevated but rarely to the 
+position of the one fired. This is especially true in 
+management and technical fields where knowledge and 
+experience, the product of years, are necessary 
+prerequisites to appointment of persons on high rungs 
+of the corporate ladder. 
+
+McCorstin v. United States Steel Corp. , 621 F.2d 749, 754 
+
+(Sth Cir. 1980). 
+
+In the work place, the most common type of age 
+discrimination claim is one brought by a 57-year old who is 
+terminated.” Indeed, more than seventy-five percent of all 
+age discrimination claims are discharge claims.“ The 
+requirement of showing replacement by one outside the 
+protected class would, therefore, effectively deny a remedy to 
+those most frequently victimized by age discrimination. 
+Further, as the population continues to age, the need to 
+
+
+4 Schuster and Miller, An Empirical Assessment of the Age 
+Discrimination in Employment Act, 38 Indus. & Lab. Rev. 64 (Oct. 1984). 
+
+
+4” O'Meara, Protecting the Growing Number of Older Workers: The Age 
+
+
+Discrimination in Employment Act, Labor Relations and Public Policy 
+Series, at 26 (1989). 
+
+
+20 
+
+
+protect those older workers who elect to remain in the work 
+force longer will only increase. 
+
+Although age is a “continuum along which the distinctions 
+between employees are often subtle and relative," Goldstein 
+v. Manhattan Industries, Inc., 758 F.2d 1435, 1442 (11th 
+Cir.), cert denied, 474 U.S. 1005 (1983), age, like race or 
+gender, is an immutable and discreet characteristic in the 
+sense that once a person attains the status of “older worker," 
+that status is permanent. Moreover, the discharge of an 
+employee because of his age is just as injurious to the older 
+worker as the discharge of an African-American because of 
+his race or of a woman on account of her sex. "That the 
+person is replaced by a person ten years younger rather than 
+twenty years does not diminish the discrimination; the 
+subtlety only tends to disguise it." McCorstin, 621 F.2d at 
+754. 
+
+Further, replacement, even by an older employee, should 
+not necessarily foreclose proof of a prima facie case, 
+especially if as in this case, there is other direct or 
+circumstantial evidence which supports an inference of 
+discrimination. Douglas v. Anderson, 656 F.2d 528 (9th Cir. 
+1981); see Jackson v. GTE Directories Service Corp. , 734 F. 
+Supp. 258, 267 (N.D. Tex. 1990). The older replacement 
+could have been hired, for example, to deliberately mask 
+discrimination in order to ward off a lawsuit. See Loeb, 600 
+F.2d at 1013 n. 9; Byrd v. Roadway Express, Inc., 687 F.2d 
+85, 86 (Sth Cir. 1982) (The fact that plaintiff "was replaced 
+by a black does not necessarily negate the possibility that his 
+treatment and discharge were motivated by racial 
+discrimination. "). 
+
+
+21 
+
+
+The civil rights laws protect the right of the individual 
+employee to be free of invidious employment discrimination. 
+These statutes do not permit employers to compromise this 
+individual right by the non-discriminatory treatment of other 
+employees in the protected class. Connecticut v. Teal, 457 
+U.S. 440 (1982). In the case of the ADEA, "Congress never 
+intended favorable treatment of some members of a plaintiffs’ 
+age group to excuse discrimination against others." Airline 
+Pilots Ass'n v. Trans World Airlines, 713 F.2d 940, 953 (2d 
+Cir. 1983), aff'd on other grounds sub. nom. Trans World 
+Airlines, Inc. v. Thurston, 474 U.S. 946 (1985). Thus, the 
+employer's replacement of a terminated 56 year old employee 
+with another employee who is 40 years old, as the Fourth 
+Circuit found was done in this case, does not preclude the 
+possibility that the termination of the 56 year old was based 
+on age. The Fourth Circuit's contrary holding smacks of the 
+“bottom line" analysis emphatically rejected by this Court in 
+Teal, 457 U.S. at 454. 
+
+
+Ill. BECAUSE OF ITS INSISTENCE ON THE 
+MECHANISTIC APPLICATION OF ITS 
+VERSION OF THE MCDONNELL DOUGLAS 
+MODEL, THE COURT BELOW IMPROPERLY 
+REJECTED PROBATIVE EVIDENCE 
+SUFFICIENT TO ESTABLISH A PRIMA FACIE 
+CASE 
+
+
+After finding that petitioner failed to satisfy the fourth 
+element of its adaptation of McDonnell Douglas to ADEA 
+discharge cases because his replacement was within the 
+protected age group, the court then concluded that even under 
+its less stringent reduction-in-force test, he also failed to 
+
+
+22 
+
+
+satisfy the fourth element because "O'Connor failed to 
+demonstrate Consolidated did not treat age neutrally in 
+discharging him." O'Connor, 56 F.3d at 547. The court 
+also found that three ageist comments by his direct 
+supervisor, all made within two months of O'Connor's 
+discharge, were merely “stray remarks" which did not 
+constitute direct evidence of age discrimination because there 
+was no "nexus" between the remarks and the termination. 
+See Id., at 549-50. 
+
+The objective of the prima facie model is to permit the 
+trier of fact to consider evidence relevant to the employer's 
+intent and motivation in reaching a decision on the ultimate 
+issue in the case. United States Postal Service Board of 
+Governors v. Aikens, 460 U.S. 711, 716 (1983). Here, rather 
+than examining the evidence in light of the ultimate question, 
+
+
+48 Recently, the Seventh Circuit in Gadsby v. Norwalk Furniture Corp. , 
+1995 U.S. App. LEXIS 35229 (7th Cir. 1995), also declined to apply its 
+strikingly similar, less stringent reduction-in-force adaptation of 
+McDonnell Douglas to a discharge case, even though there is “no 
+meaningful reason why the prima facie case in the situation where an 
+employee is discharged and not replaced due to a reduction in force should 
+be different from the situation where an employee is discharged and not 
+replaced for some other reason.” 1995 U.S. App. LEXIS 35229, at 34 
+(Flaum, Circuit Judge, concurring.). [Judge Flaum concurred because 
+Gadsby had not sufficiently proven pretext. Jd. at 41.). 
+
+Because of the dearth of evidence, Gadsby was forced to rely solely 
+on the fact that his employer retained younger workers. The Seventh 
+Circuit found such reliance misplaced because "[i]f that were enough, 
+practically any terminated employee in the protected class could make out 
+a prima facie case of age discrimination since most companies will retain 
+at least some employees under age 40." /d., at 26. 
+
+As discussed herein, there is much more evidence which is much more 
+probative of discriminatory intent in the case below than in Gadsby. 
+
+
+23 
+
+
+the court below seemed constrained by a need to categorize 
+and separately consider each piece of evidence and, in the 
+case of the three ageist statements by Williams, O'Connor's 
+supervisor, to label the evidence as direct or indirect. 
+However, had the focus of the inquiry "not been] obscured 
+by the blindered recitation of a litany," Byrd v. Roadway 
+Express, Inc., 687 F.2d 85, 86 (Sth Cir. 1982), the court 
+below might have recognized in the evidence presented 
+sufficient indicia of age bias to meet the low prima facie 
+threshold. Further, the court's rejection of Williams’ 
+statement that "O'Connor, you are too damn old for this kind 
+of work,” made two weeks before O'Connor's discharge 
+during the period of reorganization leading up to his 
+termination as not meeting the standard for direct proof,” 
+discredits evidence which could be relevant and powerful 
+indicators of the employer's state of mind.” 
+
+Indeed, statements indicative of bias against older 
+employees need not even be contemporaneous with the 
+alleged discrimination to be admissible. See Lockhart vy. 
+Westinghouse Credit Corp., 879 F.2d 43, 54 (3d Cir. 1989) 
+(Statement made seven months after the plaintiff's discharge 
+
+
+i Direct evidence of a stated purpose to discriminate "is evidence which, 
+if believed, would prove the existence of a fact... without any inference 
+or presumptions.” O'Connor, 56 F.3d at 548, quoting Bodenheimer v. 
+PPG Indus., Inc., 5 F.3d 955, 958 (Sth Cir. 1993). 
+
+
+If the quoted statement is not considered direct evidence, it along with 
+the other two statements referring to O'Connor's age by O'Connor's 
+supervisor - one of which was made two days before O'Connor was fired - 
+interpreted in the light most favorable to petitioner, is circumstantial 
+evidence from which discriminatory intent may be inferred. See Alphin 
+v. Sears, Roebuck & Co., 940 F.2d 1497, 1501 (11th Cir. 1991). 
+
+
+24 
+
+
+was admissible because the jury could reasonably conclude 
+"that it was merely a cumulative statement of managerial 
+policies that had been sanctioned or favored by top executives 
+_ . . for a considerable time."); Neufeld v. Searle 
+Laboratories, 884 F.2d 335, 340 (8th Cir. 1989) (What the 
+employer “said in March is certainly a good indication of 
+what was on [the employer's] mind in February" where 
+employee was discharged before management made 
+statements indicative of age bias.); Cooley v. Carmike 
+Cinemas, Inc., 25 F.3d 1325, 1330 (6th Cir. 1994) 
+(Statements made fen years earlier that decisionmaker did not 
+"like to be around old people" and that old people (those over 
+30) “should be confined to a concentration camp" held 
+admissible. ) 
+
+In the present case, in addition to two other statements 
+made around that same time, only fwo days before 
+O'Connor's discharge, his supervisor remarked that “[i)t's 
+about time we get some young blood in this company." 
+O'Connor, 56 F.3d at 549. Incredibly, the court below held 
+the remark inadmissible because "[t}his apparently humorous 
+comment is not probative of age discrimination." /d. 
+Whether intended as a joke or not, however, such statements 
+can raise an inference of age discrimination. Rollins v. Tech- 
+South, Inc., 833 F.2d 1525, 1530 (11th Cir. 1987); Dickson 
+v. Amoco Performance Products, 69 Fair Empl. Prac. Cas. 
+(BNA) 228, 231 (N.D. Ga. 1994). 
+
+In Futrell v. J. 1. Case, 38 F.3d 342 (7th Cir. 1994), the 
+court of appeals severely admonished the district court for 
+doing precisely what the Fourth Circuit has done in this case - 
+discounting the value of several pieces of evidence, including 
+ageist remarks, by separately considering the weight of each 
+
+
+25 
+
+
+piece rather than considering the evidence as a whole. 
+measure the evidence is whether it is relevant to the 
+employer's intent. For example, in Brom v. Bozell, Jacobs, 
+Kenyon & Eckhardt, 827 F. Supp. 686 (N.D. Ill. 1994), the 
+court ruled as relevant a supervisor's statement that "people 
+feel they want younger people on the account" because the 
+Statement related to the employer's perceptions about 
+appropriate staffing decisions, particularly when the plaintiff 
+was replaced by a younger person. Ageist statements such as 
+those at issue in this case should not be rejected out of hand 
+based on the defendant's characterization of them as 
+“ambiguous.” They are not at all ambiguous to a discharged 
+older worker like O'Connor who was fired two days after his 
+supervisor said that “[iJt's about time we get some young 
+blood in this company." 
+
+
+The skepticism of the court below regarding the admissibility of the 
+statements at issue in this case possibly can be traced to the rationale of 
+Chief Judge Haynesworth in Smith v. Flax, 618 F.2d 1062, 1066 (4th Cir. 
+1980), who rejected statements indicating that a company's future lies with 
+its young as evidence of a discriminatory purpose as follows: 
+
+
+In any enterprise, today's juniors will be tomorrow's 
+
+seniors. Today's seniors can help create a foundation for 
+
+tomorrow's growth and prosperity, but future realization 
+
+of the potential of an enterprise lies principally with those 
+
+who will be in positions of leadership and responsibility in 
+
+the future. 
+While such sentiments may be appropriate in a commencement address 
+they reflect a bias which the age discrimination law condemns. While the 
+natural order in the work place may be that younger workers ultimately 
+replace older workers for legitimate reasons related to job performance, 
+the firing of older workers because of their age cannot be allowed to play 
+any part in that process. 
+
+
+26 
+CONCLUSION 
+
+
+In it's ritualistic adherence to its requirement of a showing 
+of replacement by a person outside the protected age group in 
+order to satisfy the fourth element of the prima facie case, the 
+court below failed to heed this Court's admonitions that the 
+McDonnell Douglas framework must be applied flexibly in 
+order to provide a day in court for victims of age 
+evidence of discriminatoryintent as failing to make out a 
+prima facie case under any standard, the court failed to 
+properly evaluate such evidence. For these reasons, the 
+decision of the court below must be reversed. 
+
+
+Respectfully submitted, 
+
+
+Steven S. Zaleznick 
+Cathy Ventrell-Monsees* 
+Thomas W. Osborne 
+
+' - ' neo 
+
+of Retired Persons 
+601 E Street, N.W. 
+Washington, DC 20049 
+(202) 434-2060 
+
+
+ner ' -_ 
+of Retired Persons 
+and 
+National Employment Lawyers Association 
+
+

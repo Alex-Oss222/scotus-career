@@ -1,0 +1,19 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 83,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;95-5015&quot; OR text:&quot;95-5015&quot; OR text__reviews:&quot;95-5015&quot;) OR (text:&quot;Larry Grant&quot; OR text:&quot;Larry Grant&quot; OR text__reviews:&quot;Larry Grant&quot;) OR (text:&quot;Lonchar v. Thomas&quot; OR text:&quot;Lonchar v. Thomas&quot; OR text__reviews:&quot;Lonchar v. Thomas&quot;))",
+      "qin": "collection:us-supreme-court AND (&quot;95-5015&quot; OR &quot;Larry Grant&quot; OR &quot;Lonchar v. Thomas&quot;)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 20,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 0,
+    "start": 0,
+    "docs": []
+  }
+}

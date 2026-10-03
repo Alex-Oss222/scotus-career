@@ -1,0 +1,72 @@
+[
+  {
+    "raw": "morse_02._Jurisdictional_Statement_djvu.txt",
+    "safe": "morse_02._Jurisdictional_Statement_djvu_neutral_read.txt",
+    "raw_sha256": "12f5654192b5702c04ae142ee71a0a33b3bcdcf66489c1b301c34f2cc33a996a",
+    "safe_sha256": "12f5654192b5702c04ae142ee71a0a33b3bcdcf66489c1b301c34f2cc33a996a",
+    "redactions": 0
+  },
+  {
+    "raw": "morse_07._Joint_Appendix_djvu.txt",
+    "safe": "morse_07._Joint_Appendix_djvu_neutral_read.txt",
+    "raw_sha256": "106621d3f76e4f9d334883f66cceac4709ac9135d31325aacd9d342b43d959e7",
+    "safe_sha256": "bcab13cce5ccba7c9b9e046bddb7b3c26271d16f71835fee9e7ddabcf113e934",
+    "redactions": 2
+  },
+  {
+    "raw": "morse_08._Appellants_Brief_djvu.txt",
+    "safe": "morse_08._Appellants_Brief_djvu_neutral_read.txt",
+    "raw_sha256": "2d3841d72ea655908afd52864fb1db56608ef017f59f22d796661d4109afaabb",
+    "safe_sha256": "5c5bc4f87faf05f62cc68ab14f9be07989b2ed5a5490e9619ee08fbbab45830e",
+    "redactions": 2
+  },
+  {
+    "raw": "morse_09._Appellees_Brief_djvu.txt",
+    "safe": "morse_09._Appellees_Brief_djvu_neutral_read.txt",
+    "raw_sha256": "bf99241e94505f5835245f28954eff0b59c5c8c8d814fa8e77e69d08e5650060",
+    "safe_sha256": "bf99241e94505f5835245f28954eff0b59c5c8c8d814fa8e77e69d08e5650060",
+    "redactions": 0
+  },
+  {
+    "raw": "morse_10._Reply_Brief_djvu.txt",
+    "safe": "morse_10._Reply_Brief_djvu_neutral_read.txt",
+    "raw_sha256": "e75b1a6e32aeba91638f3ff22915cfe7fa36c2d80918678060ae9d860eee391e",
+    "safe_sha256": "e75b1a6e32aeba91638f3ff22915cfe7fa36c2d80918678060ae9d860eee391e",
+    "redactions": 0
+  },
+  {
+    "raw": "rutledge_2._Petition_for_Writ_of_Certiorari_djvu.txt",
+    "safe": "rutledge_2._Petition_for_Writ_of_Certiorari_djvu_neutral_read.txt",
+    "raw_sha256": "9a7ef8d112588f31c3366bb71f1f5a274031ae9de7dc37897e3640c5bda1c7aa",
+    "safe_sha256": "9a7ef8d112588f31c3366bb71f1f5a274031ae9de7dc37897e3640c5bda1c7aa",
+    "redactions": 0
+  },
+  {
+    "raw": "rutledge_5._Joint_Appendix_djvu.txt",
+    "safe": "rutledge_5._Joint_Appendix_djvu_neutral_read.txt",
+    "raw_sha256": "7851e69f85a38e1c92d623bfcd45dcd701d9229f0299a8e6e8be6c75723585a6",
+    "safe_sha256": "4621700614d05cf6fb92170b97ef9bf7892fcfc0452bb183dec5b60a00abd2e9",
+    "redactions": 2
+  },
+  {
+    "raw": "rutledge_6._Petitioners_Brief_djvu.txt",
+    "safe": "rutledge_6._Petitioners_Brief_djvu_neutral_read.txt",
+    "raw_sha256": "f90151e770f004754f24dc0ce0fbc381e33afcac1823616ae09ce51f2bd80696",
+    "safe_sha256": "6d18d2490c65645382fb93ffd33affada96b70b981b761abfc0035e29c65fc4a",
+    "redactions": 2
+  },
+  {
+    "raw": "rutledge_7._Respondents_Brief_djvu.txt",
+    "safe": "rutledge_7._Respondents_Brief_djvu_neutral_read.txt",
+    "raw_sha256": "64b38f5f61988ea36fe71a1eca831b178ec899754091dfc8ffac3057635bca39",
+    "safe_sha256": "63086760a9a351bc5f2e924b8f198b7c0d213a24d9095f82e706fa6cbb9bd724",
+    "redactions": 1
+  },
+  {
+    "raw": "rutledge_8._Reply_Brief_djvu.txt",
+    "safe": "rutledge_8._Reply_Brief_djvu_neutral_read.txt",
+    "raw_sha256": "cd00bf7183dad2788f8a02f26f2f05b76807da41068fda48ae82004e8bc5a2c4",
+    "safe_sha256": "cd00bf7183dad2788f8a02f26f2f05b76807da41068fda48ae82004e8bc5a2c4",
+    "redactions": 0
+  }
+]

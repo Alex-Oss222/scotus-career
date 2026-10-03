@@ -1,0 +1,4460 @@
+Supreme Court, U.&, ; 
+
+& FILED 
+ts 4-12 juL-119% 
+In THE OFFICE OF THE CLERK 
+
+Supreme Court of the United States 
+
+OCTOBER TERM, 1994 
+
+SEMINOLE TRIBE OF FLORIDA, 
+™ Petitioner, 
+STATE OF FLORIDA, and LAWTON CHILES, 
+Governor of Florida, 
+Respondents. 
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+Bruce S. Rocow * 
+BEVERLY A. POHL 
+
+BRucE S. Rocow, P.A. 
+Suite 200 
+
+350 S.E. Second Street 
+Ft. Lauderdale, FL 33301 
+(305) 767-8909 
+
+JERRY C. STRAUS 
+
+JUDITH A. SHAPIRO 
+
+HAROLD P. GREEN 
+
+Hosss, STRAUS, DEAN & WALKER 
+1819 H St. N.W., Suite 800 
+Washington, DC 20006 
+
+(202) 783-5100 
+Of Counsel: 
+EUGENE GRESSMAN 
+JOHN J. GIBBONS * Counsel of Record 
+
+WILSON - Epes PRINTING Co., Inc. - 789-0096 - WASHINGTON, D.C. 20001 
+
+TABLE OF CONTENTS 
+
+Appendices 
+
+A. 
+
+B. 
+
+Opinion, Seminole Tribe of Florida v. Florida, 
+11 F.8d 1016 (11th Cir. 1994), Jan. 18, 1994 ...... 
+
+Opinion, Seminole Tribe of Florida v. Florida, 
+801 F. Supp. 655 (S.D. Fla. 1992), June 18, 
+REI RE SAL ee 
+
+Order, Seminole Tribe of Florida v. Florida, 
+91-6756-CIV-MARCUS (S.D. Fla. Sep. 22, 1993), 
+Order on Summary Judgment Motions .............. 
+
+Order Seminole Tribe of Florida v. Florida, 
+Apr. 28, 1994, 11th Cir., Granting Motion to 
+TE SR co ee 
+
+Order, Seminole Tribe of Florida v. Florida, 
+Apr. 28, 1994, 11th Cir., Granting Stay ............ 
+
+Order, Seminole Tribe of Florida v. Florida, 
+Apr. 6, 1994, 11th Cir., Denying Petitions for 
+ERASER AL ACE Cae 70) Oe nc 
+
+Page 
+
+la 
+
+26a 
+
+43a 
+
+la 
+
+APPENDIX A 
+
+UNITED STATES COURT OF APPEALS 
+ELEVENTH CIRCUIT 
+
+Nos. 92-4652, 92-6244 
+
+SEMINOLE TRIBE OF FLORIDA, 
+Plaintiff-A ppellee, 
+Vv. 
+
+STATE OF FLORIDA, LAWTON CHILES, 
+Governor of the State of Florida, 
+Defendants-A ppellants. 
+
+POARCH CREEK INDIANS, 
+POARCH BAND OF CREEK INDIANS, 
+Plaintiff-A ppellant, 
+v. 
+
+STATE OF ALABAMA, JAMES E. FoLsom, 
+Governor, State of Alabama, 
+Defendants-A ppellees. 
+
+Appeal from the United States District Court 
+for the Southern District of Florida 
+
+Appeal from the United States District Court 
+for the Southern District of Alabama 
+
+Jan. 18, 1994 
+
+2a 
+
+Before TJOFLAT, Chief Judge, BLACK, Circuit 
+Judge, and JOHNSON, Senior Circuit Judge. 
+
+TJOFLAT, Chief Judge: 
+
+These two consolidated cases present the following is- 
+sue: whether Congress successfully abrogated the states’ 
+Eleventh Amendment sovereign immunity from suit by 
+enacting the Indian Gaming Regulatory Act (“IGRA”), 
+Pub.L. No. 100-497, 102 Stat. 2467 (1988) (codified at 
+25 U.S.C. §§ 2701-21). The two district court judges 
+below agreed that IGRA manifested Congress’ attempt to 
+abrogate the states’ Eleventh Amendment immunity; they 
+disagreed, however, as to whether Congress possesses the 
+power under the Constitution to accomplish that abroga- 
+
+tion. 
+
+We hold that, although decisions of the Supreme Court 
+demonstrate that Congress does possess the power to ab- 
+rogate the states’ Eleventh Amendment sovereign immu- 
+nity in certain cases, Congress did not possess that power 
+when enacting IGRA under the Indian Commerce Clause, 
+U.S. Const. art. I, § 8, cl. 3. Thus, the states retain their 
+sovereign immunity and the federal courts do not have 
+subject-matter jurisdiction over suits brought under IGRA. 
+Accordingly, these cases must be dismissed. 
+
+In part I, we provide a brief summary of the Indian 
+Gaming Regulatory Act here at issue. In part II, we set 
+forth the facts relevant to these cases. After establishing 
+our jurisdiction and the appropriate standard of review 
+in part III, we examine the Eleventh Amendment issues 
+in part ITV and then analyze the effect of our holding in 
+part V.? 
+
+1 Unless so indicated, all cited sections refer to Title 25 of the 
+United States Code. 
+
+2 Defendants raise one issue for the first time on appeal: the 
+Tenth Amendment. Citing the Supreme Court’s decision in New 
+York v. United States, —— U.S. ——, 112 S.Ct. 2408, 120 L.Ed.2d 
+120 (1992), in which the Court held that Congress could not 
+
+3a 
+
+I. 
+
+In 1987, the Supreme Court held that a state could 
+not enforce its “civil/regulatory” gaming laws in a manner 
+that would prohibit gaming on Indian lands within its 
+borders. California v. Cabazon Band of Mission Indians, 
+480 U.S. 202, 107 S.Ct. 1083, 94 L.Ed.2d 244 (1987). 
+That decision left Indian gaming largely unregulated by 
+the states; similarly, “existing federal law d[{id] not pro- 
+vide clear standards or regulations for the conduct of 
+gaming on Indian lands.” 25 U.S.C. § 2701(3). In an 
+attempt to supply some much-needed regulation, and af- 
+ter contentious debate concerning the appropriate state 
+role in the regulation of Indian gaming, Congress enacted 
+the Indian Gaming Regulatory Act. IGRA’s primary 
+purpose was “to provide a statutory basis for the opera- 
+tion of gaming by Indian tribes as a means of promoting 
+tribal economic development, self-sufficiency, and strong 
+tribal governments.” § 2702(1). In order to accomplish 
+this goal, Congress defined classes of Indian gaming, 
+§ 2703(6)-(8); established the National Indian Gaming 
+Commission to monitor and regulate some forms of In- 
+dian gaming, §§ 2704-08; and provided a compacting pro- 
+cedure by which states might participate in the regula- 
+tion of certain forms of Indian gaming, § 2710(d). 
+
+: Briefly summarized, Congress divided Indian gaming 
+into three “classes.” Class I gaming, which is governed 
+and regulated solely by individual Indian tribes, includes 
+little more than “social games solely for prizes of mini- 
+mal value... .” § 2703(6). Class II gaming, which is 
+subject to certain federal regulations, includes bingo and 
+
+coercively interfere with the reserved powers of the states, de- 
+fendants contend that IGRA coercively forces the states to nego- 
+tiate with Indian tribes in violation of the Tenth Amendment. 
+
+“It is not the practice of this court to consider issues on appeal 
+that were not raised in the district court.” Allen v. Alabama, 728 
+F.2d 1884, 1387 (11th Cir. 1984) ; Moore v. Morgan, 922 F.2d 1558, 
+1556 n. 3 (11th Cir. 1991). Accordingly, we decline to address 
+defendants’ contention. 
+
+4a 
+
+comparable games as well as non-banking card games 
+where not prohibited by state law.* § 2703(7)(A). Nei- 
+ther of these classes is relevant to the cases on appeal. 
+
+These cases address the third class of gaming. Class 
+III gaming is defined residually; it includes “all forms 
+of gaming that are not class I gaming or class II gaming.” 
+§ 2703(8). Specifically excluded from class II, and there- 
+fore within the parameters of class III, are banking card 
+games and “electronic or electromechanical facsimiles of 
+any game of chance or slot machines of any kind.” 
+§ 2703(7)(B). Class III gaming is the type of gaming 
+most profitable to the tribes; it also is the gaming in 
+which the states desire the greatest regulatory oversight. 
+
+In order to achieve a compromise between the interests 
+of the states and the interests of the Indian tribes, Con- 
+gress mandated that class III gaming activities would be 
+lawful on Indian lands only when those activities are 
+(a) authorized by the tribe; (b) located in a state that 
+permits such gaming; and, most importantly, (c) “con- 
+ducted in conformance with a Tribal-State compact en- 
+tered into by the Indian tribe and the State . . . that is in 
+effect.” § 2710(d)(1). To ensure that dilatory actions 
+by the state could not preclude or unreasonably delay 
+Indian gaming, IGRA also delineated a negotiating proc- 
+ess designed to culminate in the Tribal-State compact and 
+provided mechanisms to remedy state misconduct. 
+
+Under the statute, the tribe initiates the compacting 
+process by requesting that the state enter into negotiations 
+for the purpose of concluding a Tribal-State compact gov- 
+erning the conduct of gaming activities; in IGRA, Con- 
+gress mandated that the state “shall negotiate with the In- 
+dian tribe in good faith to enter into a compact.” §2710 
+(d)(3)(A). If these negotiations bear fruit, the com- 
+pact must be approved by the Secretary of the Interior 
+and published in the Federal Register. § 2710(d) (8). 
+
+8 Non-banking card games are those in which the gamblers com- 
+pete against each other rather than against the house. 
+
+5a 
+
+Congress also anticipated that Tribal-State negotiations 
+would not always produce a mutually satisfactory com- 
+pact; it thus provided tribes with a remedy in the federal 
+courts: 
+
+(A) The United States district courts shall have ju- 
+risdiction over— 
+
+(i) any cause of action initiated by an Indian 
+tribe arising from the failure of a State to enter 
+into negotiations with the Indian tribe for the 
+purpose of entering into a Tribal-State compact 
+under paragraph (3) or to conduct such ne- 
+gotiations in good faith. . . . 
+
+(B) (i) An Indian tribe may initiate a cause of ac- 
+tion described in subparagraph (A)(i) only after 
+the close of the 180-day period beginning on the 
+date on which the Indian tribe requested the State 
+to enter into negotiations under paragraph (3) (A). 
+
+§ 2710(d)(7)(A)(i) & (B)(i). If the district court 
+finds that the state indeed has failed to negotiate in good 
+faith, that court “shall order the State and the Indian 
+Tribe to conclude such a compact within a 60-day period.” 
+§ 2710(d)(7)(B) (iii). If that fails, “the Indian tribe 
+and the State shall each submit to a mediator appointed 
+by the court a proposed compact that represents their 
+last best offer for a compact.” § 2710(d)(7)(B) (iv). 
+The mediator then selects the better of the two proposals 
+and submits it to the tribe and the state. The state then 
+either may consent to the compact within sixty days, in 
+which case the compact is treated as if it were the product 
+of negotiations; or may refuse to consent, in which case 
+the Secretary of the Interior provides procedures to regu- 
+late the tribe’s class III gaming. § 2710(d)(7)(B) (vi) 
+& (vii). 
+
+, Defendants in these two cases assert that the federal 
+jurisdiction granted by § 2710(d)(7) is contrary to their 
+
+6a 
+
+Eleventh Amendment sovereign immunity and demand 
+that the tribes’ cases be dismissed. 
+
+Il. 
+
+The facts of these cases are few and easily summarized. 
+The first case, Seminole Tribe of Florida v. Florida, No. 
+92-4652, was filed by the Seminole Tribe, federally recog- 
+nized as a tribe under Section 16 of the Indian Reor- 
+ganization Act, 25 U.S.C.A. § 476 (West 1983 & Supp. 
+1993). The complaint, filed in the Southern District of 
+Florida on September 19, 1991, asserted jurisdiction 
+largely under 25 U.S.C. § 2710(d)(7)(A)(i) and al- 
+leged that the State of Florida and its governor, Lawton 
+Chiles, had “failed to respond in good faith to the Tribe’s 
+request for compact negotiations and have not conducted 
+those negotiations in good faith.” Defendants moved to 
+dismiss the complaint for lack of subject-matter jurisdic- 
+tion based on the sovereign immunity enjoyed by the 
+State of Florida and the Governor of Florida under the 
+Eleventh Amendment. On June 18, 1992, the district 
+court denied the motion, 801 F. Supp. 655 (S.D. Fla. 
+1992) (“Seminole”), and this interlocutory appeal en- 
+sued. 
+
+The second case, Poarch Band of Creek Indians v. 
+Alabama, No. 92-6244, presents a similar initial fact pat- 
+tern. The Poarch Band, also a federally recognized tribe, 
+filed suit against the State of Alabama and its governor, 
+Guy Hunt (for whom the current governor, James E. 
+Folsom, Jr., has been substituted), on September 11, 
+1991. Also asserting jurisdiction largely under 25 U.S.C. 
+§ 2710(d)(7)(A)(i), the complaint is designed to re- 
+solve for the State and the Tribe various questions regard- 
+ing IGRA’s definition of class III gaming. The State of 
+Alabama’s answer claimed a defense of sovereign im- 
+munity under the Eleventh Amendment; the district court 
+granted the State’s subsequent motion to dismiss based 
+upon this defense on October 30, 1991. 776 F. Supp. 550 
+
+7a 
+
+(S.D. Ala. 1991) (“Poarch I”).* The governor also filed 
+an Eleventh-Amendment-based motion to dismiss; the dis- 
+trict court granted it on February 20, 1992, thus dis- 
+missing the final defendant and terminating the Poarch 
+Band’s suit. 784 F. Supp. 1549 (S.D. Ala. 1992) 
+(“Poarch II”). It is from these orders that the Poarch 
+Band appeals. : 
+Il. 
+
+We have jurisdiction over these consolidated cases pur- 
+suant to 28 U.S.C. § 1291. In Poarch I and Poarch II, 
+the district court granted defendants’ sovereign-immunity- 
+based motions to dismiss, thus terminating the tribe’s suit 
+and giving rise to our appellate jurisdiction over final 
+orders. Our jurisdiction in Seminole arises from the dis- 
+trict court's denial of defendants’ motion to dismiss based 
+on sovereign immunity; such a denial grants defendants 
+the right of an immediate, interlocutory appeal. See 
+Griesel v. Hamlin, 963 F.2d 338, 340 (11th Cir. 1992). 
+
+The granting or denial of a sovereign immunity de- 
+fense is an issue of law subject to de novo review by this 
+court. McDonald v. Hillsborough County School Bd., 821 
+F.2d 1563, 1554 (11th Cir. 1987). 
+
+IV. 
+
+For more than a century, judicial interpretation of the 
+Eleventh Amendment has far exceeded the apparent scope 
+of the amendment’s actual provisions. The scope 
+of the “textual” amendment is rather limited and serves 
+
+only to restrict the Article III diversity jurisdicti 
+federal courts: wit pmiigien 
+
+The Judicial power of the United States shall not 
+be construed to extend to any suit in law or equity, 
+
+commenced or prosecuted against one of the United 
+
+*The district court dismissed the State of Alabama from the 
+
+Poarch Band’s amended complaint in an unpublished 
+January 24, 1992. " tS aa 
+
+8a 
+
+States by Citizens of another State, or by Citizens 
+or Subjects of any Foreign State. 
+
+U.S. Const. amend. X1. 
+
+In 1890, however, the Supreme Court rejected this 
+facial reading. In Hans v. Louisiana, 134 U.S. 1, 10 
+S.Ct. 504, 33 L.Ed.2d 842 (1890), the Court recognized 
+that the Eleventh Amendment “reflected . . . a consensus 
+that the doctrine of sovereign immunity, for States as 
+well as for the Federal Government, was part of the un- 
+derstood background against which the Constitution was 
+adopted, and which its jurisdictional provisions did not 
+mean to sweep away.” Pennsylvania v. Union Gas Co., 
+491 U.S. 1, 31-32, 109 S.Ct. 2273, 2297, 105 L.Ed.2d 1 
+(1989) (Scalia, J., concurring in part and dissenting in 
+part). Thus, the Court determined that the principle of 
+sovereign immunity, although omitted from the text of 
+the Constitution, survived the Constitutional Convention. 
+
+It did not survive untarnished, however; the Court 
+subsequently has held that the states’ immunity is not 
+absolute. More specifically, the states are not immune 
+from suit if the circumstances indicate consent, abroga- 
+tion, or the fiction of Ex parte Young. If none of these 
+three exceptions applies, however, the Eleventh Amend- 
+ment serves as a jurisdictional bar to the suit. See Penn- 
+hurst State School & Hosp. v. Halderman, 465 U.S. 89, 
+104 S.Ct. 900, 79 L.Ed.2d 67 (1984). We address each 
+exception to Eleventh Amendment immunity in turn. 
+
+A. 
+
+First, the Supreme Court has held that the states may 
+not rely on the defense of sovereign immunity if they 
+have consented to suit. A court may find consent in 
+three circumstances. The clearest of the three, known as 
+express consent, usually takes the form of legislative enact- 
+ment. The second form of consent derives from the states’ 
+ratification of the Constitution. This “plan of the conven- 
+
+9a 
+
+tion” consent assumes that, by ratifying the Constitution 
+and joining the republic, each state ceded certain powers 
+to the federal system; implicit in this cession is the under- 
+standing that the state necessarily also consented to suit 
+in certain cases. Thus, the Court has held that, by ratify- 
+ing the Constitution, the states waived their immunity to 
+suits by the United States, see, e.g., United States v. 
+Texas, 143 U.S. 621, 641-46, 12 S.Ct. 488, 492-94, 36 
+L.Ed. 285 (1892); and by sister states, see, e.g., South 
+Dakota v. North Carolina, 192 U.S. 286, 24 S.Ct. 269, 
+48 L.Ed. 448 (1904). Finally, the Court has created a 
+third, extremely limited category of consent. This consent 
+is premised on the state’s participation in a congressional 
+program which, as a prerequisite for participation, man- 
+dates that the state consent to suit. The Court has found 
+this form of consent to exist in only one case: Parden v. 
+Terminal Railway of Alabama, 377 U.S. 184, 84 S.Ct. 
+1207, 12 L.Ed.2d 233 (1964). 
+
+We find that neither Alabama nor Florida has consented 
+to a suit under IGRA. 
+1. 
+
+Express waivers of a state’s Eleventh Amendment sov- 
+ereign immunity must be explicitly authorized by the state 
+“in its Constitution, statutes and decisions.” Silver v. 
+Baggiano, 804 F.2d 1211, 1214 (11th Cir. 1986) (quot- 
+ing Ford Motor Co. v. Department of Treasury, 323 U.S. 
+459, 467, 65 S.Ct. 347, 352, 89 L.Ed. 389 (1945)). 
+See also Edelman v. Jordan, 415 U.S. 651, 94 S.Ct. 1347, 
+39 L.Ed.2d 662 (1974). The Alabama defendants cite 
+Article I, section 14 of the Alabama Constitution, which 
+specifically reserves Alabama’s sovereign immunity, and 
+claim that Alabama therefore could not have consented 
+to a suit under IGRA. Even though Florida has not 
+raised a similar defense, plaintiffs have failed to demon- 
+strate that either state has given express consent to this 
+suit. Therefore, we find that the states have not expressly 
+waived their Eleventh Amendment sovereign immunity. 
+
+10a 
+2. 
+
+Nor does “plan of the convention” consent imperil the 
+states’ sovereign immunity. Three terms ago, the Supreme 
+Court addressed the question whether the states, by rati- 
+fying the Constitution, had surrendered their sovereign 
+immunity to suits by Indian tribes. The court compared 
+suits brought by sister states to suits brought by Indian 
+tribes and held that the states had not waived their sov- 
+ereign immunity to suits brought by Indian tribes under 
+the “plan of the convention”: 
+
+What makes the States’ surrender of immunity from 
+suit by sister States plausible is the mutuality of the 
+concession. There is no such mutuality with either 
+foreign sovereigns or Indian tribes. . . . [I]f the 
+convention could not surrender the tribes’ immunity 
+for the benefit of the States, we do not believe that 
+it surrendered the States’ immunity for the benefit 
+of the tribes. 
+
+Blatchford v. Native Village of Noatak, U.S. ——., 
+
+- , 111 S.Ct. 2578, 2582-83, 115 L.Ed.2d 686 
+(1991) (emphasis in original). The Court’s holding in 
+Blatchford governs our resolution of this issue. Thus, we 
+hold that the states cannot be said to have surrendered 
+their sovereign immunity under the “plan of the con- 
+vention.” 
+
+3. 
+
+Finally, the tribes assert that both Florida and Alabama 
+have consented to this suit by participating in negotiations 
+under IGRA. Invoking Parden, 377 U.S. 184, 84 S.Ct. 
+1207 (1964), the tribes assert that the states have at- 
+tempted to reap the benefits of IGRA and therefore should 
+be held to have consented to the downside of the statute, 
+specifically, federal jurisdiction over the present suits. We 
+disagree. 
+
+In Parden, the Supreme Court for the first—and, to 
+date, last—time found that a state had waived its im- 
+
+~ ee ee eee 
+
+lla 
+
+munity to suit by participating in a federal program man- 
+dating that participants consent to suit. The facts of that 
+case, as well as subsequent Supreme Court decisions, ren- 
+der Parden inapplicable to the appeals at hand. 
+
+First, it is apparent that Parden was decided largely 
+on its facts. In that case, the State of Alabama had op- 
+erated a for-profit, state-owned railroad for twenty years. 
+By operating the railroad in interstate commerce, Ala- 
+bama effectively had transcended the typical realm of 
+state authority by entering the private market, a market 
+in which all employers were subject to the strictures passed 
+by Congress. The limited holding of the Court was that, 
+based on these facts, Alabama should be subject to the 
+same requirements as the other (private) participants in 
+the private market; one of those requirements was that all 
+market actors consent to suit. These cases involve state 
+governments negotiating with sovereign tribes located 
+within the states’ borders—hardly a “private” activity— 
+and thus do not raise the same concerns that prompted 
+the Supreme Court’s unique decision in Parden. 
+
+Second, later decisions of the Supreme Court limit 
+Parden and indicate that Alabama and Florida cannot 
+be said to have consented to suit in this case. First, in 
+Employees v. Missouri Dep’t of Public Health and Wel- 
+fare, 411 U.S. 279, 93 S.Ct. 1614, 36 L.Ed.2d 251 
+(1973), the Court declined to extend Parden to circum- 
+stances in which a state was operating a non-profit hos- 
+pital facility, a traditional state activity. The next year, 
+in Edelman v. Jordan, 415 U.S. 651, 94 S.Ct. 1347, 39 
+L.Ed.2d 662 (1974), the Court refused to find Parden- 
+style consent when Illinois participated in a federal pro- 
+gram by agreeing to administer federal and state funds 
+in accordance with federal law. The Court reiterated this 
+holding a decade later in Atascadero State Hospital v. 
+Scanlon, 473 U.S. 234, 105 S.Ct. 3142, 87 L.Ed.2d 121 
+(1985). Finally, the Court further limited Parden in 
+Welch v. Texas Dep’t of Highways and Public Transp., 
+483 U.S. 468, 107 S.Ct. 2941, 97 L.Ed.2d 389 (1987). 
+
+12a 
+
+In fact, in no other case has the Court found consent 
+pursuant to its Parden decision. 
+
+When Parden and its progeny are examined closely, 
+it is apparent that, although Parden may not be entirely 
+dead, it certainly is not quick enough to breathe life into 
+the Indian tribes’ claims in these cases. In these cases, 
+
+the states were faced with a Hobson’s choice: refuse to . 
+
+negotiate with the tribes, and therefore be subject to suit 
+under IGRA; or negotiate with the tribes, and therefore 
+
+(according to the tribes’ argument) consent to suit under > 
+
+IGRA. Thus, we cannot find the same voluntary, for- 
+profit, private-enterprise operation involved in Parden and 
+decline to hold that Alabama and Florida consented to 
+suit. 
+
+Thus, we find that neither Florida nor Alabama con- 
+sented, either expressly, implicitly, or by conduct under 
+Parden, to suit in federal court under IGRA. 
+
+B. 
+
+In defining the second sovereign immunity exception, 
+the Supreme Court has held that states also may not rely 
+on the defense of sovereign immunity if Congress has 
+specifically abrogated that defense when legislating pur- 
+suant to certain of its plenary powers. See, e.g., Fitz- 
+
+5 One sister circuit, in determining that the Eleventh Amend- 
+ment did not bar suits under IGRA, mentioned that the state had 
+“actively engaged in negotiating tribal-State compacts and ha[d] 
+reaped the benefits from these negotiations.” See Cheyenne River 
+Sioux Tribe v. State of South Dakota, 3 F.8d 273 (8th Cir. 1993) 
+(“Cheyenne II’), aff’'g 830 F. Supp. 528 (D.S.D. 1993) (“Cheyenne 
+I”). As the Eighth Circuit Court of Appeals primarily rested its 
+decision on the fact that Congress had abrogated the state’s 
+Eleventh Amendment immunity, an argument we discuss (and 
+reject) in part III.B., below, it is not clear how much weight the 
+court gave to the state’s participation in negotiations. To the 
+extent that the Eighth Circuit relied on South Dakota’s negotia- 
+tions as a basis for finding a waiver of sovereign immunity, we 
+
+respectfully disagree. 
+
+“oN. we . een 
+
+& me a4 
+
+laa Mowe nd ore wae 
+
+— a nas: 
+
+13a 
+
+patrick v. Bitzer, 427 U.S. 445, 96 S.Ct. 2666, 49 L.Ed. 
+2d 614 (1976) (finding abrogation in legislation passed 
+pursuant to §5 of the Fourteenth Amendment); and 
+Pennsylvania v. Union Gas Co., 491 U.S. 1, 109 S.Ct. 
+2273, 105 L.Ed.2d 1 (1989) (finding abrogation in legis- 
+lation passed pursuant to the Congress’ Article I, § 8 
+plenary power over commerce). The Court has not yet 
+found that Congress possesses the power to abrogate the 
+states’ sovereign immunity when legislating under any 
+other provisions of the Constitution. 
+
+The tribes’ most significant argument is that Congress 
+abrogated the states’ Eleventh Amendment immunity when 
+it granted jurisdiction to the district courts in 25 U.S.C. 
+§ 2710(d). The district court in Seminole, as well as one 
+sister court of appeals and a handful of district courts, 
+have adopted the tribes’ position. We disagree, believing 
+that Congress, when it enacted IGRA pursuant to the In- 
+dian Commerce Clause, lacked the power to abrogate the 
+states’ sovereign immunity.’ 
+
+When determining whether Congress has abrogated the 
+states’ Eleventh Amendment immunity, we must conduct 
+a two-part inquiry. We first must determine that the “evi- 
+dence of congressional intent [to abrogate the states’ im- 
+munity is] both unequivocal and textual.” Dellmuth v. 
+Muth, 491 U.S. 223, 230, 109 S.Ct. 2397, 2401, 105 
+L.Ed.2d 181 (1989) (citing Atascadero, 473 U.S. at 
+242, 105 S.Ct. at 3147). We also must find that Con- 
+gress possessed the power under the Constitution to abro- 
+gate the states’ Eleventh Amendment sovereign immunity. 
+
+6 See Cheyenne II, supra; Kickapoo Tribe of Indians v. Kansas, 
+818 F. Supp. 1423 (D. Kan. 1993); Cheyenne I, supra; Seminole, 
+supra. 
+
+7Other courts also have held that Congress lacked abrogation 
+power when it enacted IGRA. See Sault Ste. Marie Tribe of 
+Chippewa Indians v. Michigan, 800 F. Supp. 1484 (W.D. Mich. 
+1992); Ponca Tribe of Oklahoma v. Oklahoma, 834 F. Supp. 1341 
+(W.D. Okla. 1992); Spokane Tribe of Indians v. Washington, 790 
+F. Supp. 1057 (E.D. Wash. 1991); Poarch I, supra. 
+
+l4a 
+
+We hold that Congress expressed its intent sufficiently to 
+survive the first prong of this inquiry. That intent can not 
+be given effect, however, as Congress did not possess the 
+power to abrogate the states’ immunity when it enacted 
+IGRA. 
+
+1. 
+
+Several courts have addressed tne question whether - 
+
+Congress unequivocally intended to abrogate the states’ 
+
+immunity when it enacted IGRA. Those courts have had - 
+
+little difficulty concluding that Congress’ intent was suf- 
+ficiently clear. See, e.g., Cheyenne Il, supra; Kickapoo, 
+818 F. Supp. at 1427 (“[A] clearer statement of the intent 
+to abrogate is difficult to envision.”); Seminole, 801 F. 
+Supp. at 658; Sault Ste. Marie, 800 F. Supp. at 1489 
+(“clear statement of waiver”); Poarch I, 776 F. Supp. 
+at 557; Ponca, supra. We believe the question not so 
+easily resolved. 
+
+In Dellmuth, the Supreme Court reiterated its earlier 
+holdings that a Congressional declaration abrogating the 
+states’ Eleventh Amendment sovereign immunity must 
+be explicit: “As we made plain in Atascadero, ‘[a] 
+general authorization for suit in federal court is not the 
+kind of unequivocal statutory language sufficient to abro- 
+gate the Eleventh Amendment.’ 473 U.S. at 246, 105 
+S.Ct. at 3149.” 491 U.S. at 231, 109 S.Ct. at 2402. 
+At first glance, it would appear that IGRA fails that test: 
+Instead of specifically abrogating the states’ immunity, 
+section 2710(d)(7)(A) states only that “[t]he United 
+States district courts shall have jurisdiction. . . .” The 
+mere granting of jurisdiction is not equivalent to the ab- 
+rogation of a defense. 
+
+A closer examination of IGRA, however, reveals that, 
+despite Congress’ omission of a specific abrogation clause, 
+Congress nonetheless manifested its intent to abrogate the 
+States’ immunity. IGRA gives the federal district courts 
+jurisdiction over three types of cases, the first of which 
+is “any cause of action initiated by an Indian tribe arising 
+
+ee ee oe. 
+
+15a 
+
+from the failure of a State to enter into negotiations with 
+the Indian tribe for the purpose of entering into a Tribal- 
+State compact under paragraph (3) or to conduct such 
+negotiations in good faith.” § 2710(d)(7)(A)(i). The 
+only possible defendant to such a suit is a state (see part 
+IV(C), below). Thus, unless Congress intended to abro- 
+gate the states’ immunity, this portion of IGRA would be 
+of no effect. Charged as we are with the task of giving 
+effect to each portion of a statute, we must conclude that 
+Congress intended to abrogate the states’ sovereign im- 
+munity.* Thus, we hold that the first prong of our inquiry 
+is satisfied. 
+2. 
+
+More important and less easily met, is the second 
+prong of our inquiry: whether Congress possessed the 
+constitutional power to abrogate the states’ immunity 
+when it enacted IGRA. To resolve this issue, we initially 
+must determine under which provision(s) of the Constitu- 
+tion Congress enacted IGRA (see sub-part a). Only then 
+can we determine whether Congress possessed the power 
+to abrogate the states’ immunities (see sub-part b). 
+
+a. 
+
+Congress may pass legislation only when the Constitu- 
+tion gives it the authority to do so. As we mentioned 
+earlier, the Supreme Court has held that Congress pos- 
+seses abrogation powers only when it enacts legislation 
+under the auspices of (1) Section 5 of the Fourteenth 
+
+8 This conclusion is bolstered by Justice Scalia’s opinion in 
+Dellmuth. Concurring with the Court’s majority opinion. Justice 
+Scalia noted that the majority’s “reasoning does not preclude 
+congressional elimination of sovereign immunity in statutory text 
+that clearly subjects States to suit for monetary damages, though 
+without explicit reference to State sovereign immunity or the 
+Eleventh Amendment.” 491 U.S. at 238, 109 S.Ct. at 2403 (Scalia, 
+J., concurring). Although the facts of that case differ slightly 
+from the case before us, it is clear that Congress in enacting IGRA 
+“clearly subject[ed] States to suit” in § 2710(d) (7). 
+
+l6a 
+
+Amendment or (2) the Interstate Commerce Clause. 
+Plaintiff tribes urge us to find that IGRA was passed not 
+only pursuant to the Indian Commerce Clause, but also 
+pursuant to Section 5 and the Interstate Commerce 
+Clause.® We cannot so find. 
+
+First, as to the Fourteenth Amendment, plaintiff tribes 
+claim that Fitzpatrick v. Bitzer, 427 U.S. 445, 96 S.Ct. 
+2666, 49 L.Ed.2d 614 (1976) (holding that Congress 
+
+may abrogate states’ sovereign immunity when legislating . 
+
+pursuant to Section 5 of the Fourteenth Amendment), 
+controls, thus granting Congress the authority to abrogate 
+the states’ immunity in IGRA. To justify this contention, 
+the tribes assert that IGRA creates both a liberty interest 
+and a property interest in the tribes and their members. 
+Neither of these claimed interests, however, find support 
+in the Supreme Court’s Fourteenth Amendment jurispru- 
+dence. 
+
+The alleged liberty interest, the tribes claim, arises from 
+the Supreme Court’s holding in Board of Regents v. Roth, 
+408 U.S. 564, 92 S.Ct. 2701, 33 L.Ed.2d 548 (1972). 
+Stating that the states’ input in IGRA is akin to a licensing 
+requirement, the tribes assert that the states’ failure to en- 
+ter a compact operates exactly as an unconstitutional de- 
+nial of a license. The alleged property interest likewise 
+is derived from Roth. What the tribes fail to recognize, 
+
+* Both the so-called Indian Commerce Clause and the so-called 
+Interstate Commerce Clause derive from the same constitutional 
+grant of plenary power to Congress in Article I: “The Congress 
+shall have Power . . . To regulate Commerce with foreign Nations, 
+and among the several States, and with the Indian Tribes.” U.S. 
+Const., art. I, § 8, cl. 3. Although the Interstate and Indian Com- 
+merce Clauses are contained in the same textual provision, the 
+purposes that prompted their inclusion in the Constitution, as 
+well as their subsequent legal interpretations, are distinct. See, 
+e.g., Cotton Petroleum Corp. v. New Mexico, 490 U.S. 1638, 192, 
+109 S.Ct. 1698, 1716, 104 L.Ed.2d 209 (1989) (“It is also well 
+established that the Interstate Commerce and Indian Commerce 
+Clauses have very different applications.”). 
+
+an ew pa ae ee o~ — 
+
+l7a 
+
+however, is that these interests are created only when the 
+claimant has “a legitimate claim of entitlement.” Jd. at 
+577, 92 S.Ct. at 2709. The tribes’ bald assertion that 
+IGRA creates such a claim ignores the discretionary na- 
+ture of the compacting process envisioned by IGRA. 
+IGRA does not create an entitlement to operate gambling 
+operations; rather, it establishes the process and standards 
+by which gambling may be conducted on Indian lands. 
+Thus, IGRA creates no liberty or property interests and 
+cannot implicate the Fourteenth Amendment. 
+
+Second, the tribes, noting that Congress’ goals in enact- 
+ing IGRA included “shield[ing] [Indian gaming] from or- 
+ganized crime and other corrupting influences,” § 2702 
+(2), assert that Congress necessarily enacted IGRA pur- 
+suant to the Interstate Commerce Clause. The tribes look 
+to the legislative history of the Organized Crime Control 
+Act of 1970, Pub.L. No. 91-452, 84 Stat. 922 (1970), 
+to find Congressional reasoning that organized crime bur- 
+dens interstate commerce. 84 Stat. at 923. The tribes 
+thus conclude that, since Congress meant to address or- 
+ganized crime by enacting IGRA, it passed IGRA under 
+the Interstate Commerce Clause. 
+
+We disagree. As § 2702(2) makes clear, Congress’ 
+concern with organized crime was not that such activities 
+would burden interstate commerce, but rather that pro- 
+hibition of organized crime would “ensure that the Indian 
+tribe is the primary beneficiary of the gaming operation, 
+and .. . assure that gaming is conducted fairly and hon- 
+estly by both the operator and the players.” § 2762(2). 
+In addition, Congress wanted to criminalize the involve- 
+ment of organized crime in order to “promote[] tribal 
+economic development, self-sufficiency, and strong tribal 
+government.” § 2702(1). In analyzing Congress’ goals, 
+it is clear that alleviating a supposed burden on interstate 
+commerce was not among them. 
+
+Having excluded the possibility that Congress enacted 
+IGRA under either the Interstate Commerce Clause or 
+
+18a 
+
+Section 5 of the Fourteenth Amendment, we must con- 
+clude that Congress enacted IGRA solely under the In- 
+dian Commerce Clause. The Supreme Court’s jurispru- 
+dence on the Indian Commerce Clause bolsters our 
+conclusion that Congress enacted IGRA solely under that 
+authority. See Cotton Petroleum, 490 U.S. at 192, 109 
+S.Ct. at 1716 (“[T]he central function of the Indian Com- 
+merce Clause is to provide Congress with plenary power 
+to legislate in the field of Indian affairs.” ). 
+
+b. 
+
+Having determined that Congress enacted IGRA solely 
+under the Indian Commerce Clause, we now must deter- 
+mine whether the Indian Commerce Clause permits Con- 
+gress to abrogate the states’ Eleventh Amendment im- 
+munity. We conclude that it does not. 
+
+The Supreme Court case most relevant to this issue is 
+Pennsylvania v. Union Gas Co., 491 U.S. 1, 109 S.Ct. 
+2273, 105 L.Ed.2d 1 (1989). In that case, involving a 
+badly fractured Court, a four-member plurality held 
+that Congress had the power to abrogate the states’ 
+Eleventh Amendment immunity when enacting legislation 
+pursuant to the Interstate Commerce Clause. The plural- 
+ity stated that, since the Interstate Commerce Clause 
+
+withholds power from the States at the same time 
+at its confers it on Congress, and because the con- 
+gressional power thus conferred would be incomplete 
+without the authority to render States liable in dam- 
+ages, it must be that, to the extent that the States 
+gave Congress the authority to regulate commerce, 
+they also relinquished their immunity where Congress 
+found it necessary, in exercising this authority, to 
+render them liable. The States held liable under such 
+a congressional enactment are thus not “unconsent- 
+
+—_—-——_ —.- 
+
+10 Justice Brennan authored the opinion; Justices Marshall, 
+Blackmun, and Stevens joined. 
+
+>< Gew < 
+
+19a 
+
+ing”; they gave their consent all at once, in ratifying 
+the Constitution containing the Commerce Clause, 
+rather than on a case-by-case basis. 
+
+Id. at 19-20, 109 S.Ct. at 2284. Thus, the Court held 
+that the State of Pennsylvania could not invoke sovereign 
+immunity in defending a suit for money damages under 
+the Comprehensive Environmental Response, Compensa- 
+tion, and Liability Act of 1980 (“CERCLA”) and the 
+Superfund Amendments and Reauthorization Act of 1986 
+(“SARA”), 42 U.S.C. § 9601 et seq.” 
+
+In a cryptic concurring opinion, Justice White agreed 
+with Justice Brennan’s conclusion that Congress had the 
+authority to abrogate the states’ immunity; however, he 
+also stated that he did not “agree with much of [Justice 
+Brennan’s] reasoning,” id. at 57, 109 S.Ct. at 2295 
+(White, J., concurring).” It is regrettable that Justice 
+White failed to provide any reasoning of his own to sup- 
+port his conclusion that Congress had abrogation power as 
+his vague concurrence renders the continuing validity of 
+
+11 Congress passed both CERCLA and SARA pursuant to the 
+Interstate Commerce Clause. 
+
+12 Justice White’s uneasiness is understandable given the ques- 
+tionable foundation on which Justice Brennan built his argument. 
+His plurality opinion contains three significant weaknesses: (1) it 
+disregards the Supreme Court’s statements that Parden v. Ter- 
+minal Railway of Alabama, 377 U.S. 184, 84 S.Ct. 1207, 12 L.Ed.2d 
+233 (1964), was a waiver case, not an abrogation case; (2) it 
+misconstrues Employees v. Missouri Dep’t of Public Health and 
+Welfare, 411 U.S. 279, 93 S.Ct. 1614, 86 L.Ed.2d 251 (1973), by 
+ignoring that it too, solely addressed whether Congress had man- 
+dated that Missouri consent to suit before operating a hospital. 
+(Thus, it also was not an abrogation case.); and, (3) it appeared 
+to afford precedential value to two cases, Welch v. Texas Dept. of 
+Highways and Public Transp., 483 U.S. 468, 107 S.Ct. 2941, 97 
+L.Ed.2d 389 (1987), and County of Oneida v. Oneida Indian Nation, 
+470 U.S. 226, 105 S.Ct. 1245, 84 L.Ed.2d 169 (1985), in which 
+the Court assumed that Congress had abrogation power, but spe- 
+cifically denied “deciding, or intimating a view of the question.” 
+Welch, 483 U.S. at 475, 107 S.Ct. at 2947. 
+
+20a 
+
+Union Gas in doubt. The other four justices fervently 
+opposed the plurality’s holding. 
+
+Some courts have noted not only that there are weak- 
+nesses in the Union Gas Court’s holding, but also that 
+changes in the composition of the Court make it likely 
+that a majority of the present Court would disagree with 
+Union Gas and find that Congress was not empowered 
+to abrogate the states’ immunity. Unlike those courts, we 
+refuse to disregard Union Gas merely on these bases. 
+Nonetheless, when examined in the proper light, Union 
+Gas is distinguishable from the cases before us and does 
+not govern our disposition of this issue. Our conclu- 
+sion that Congress did not have the power, when enact- 
+ing IGRA, to abrogate the states’ Eleventh Amendment 
+sovereign immunity is supported by two lines of argu- 
+ment. 
+
+First, the tribes begin their argument by assuming that 
+Union Gas controls all Commerce Clause cases, Indian 
+as well as Interstate; thus, they assert, we are obligated 
+to hold that Congress successfully abrogated the states’ 
+immunity when it passed IGRA.” We believe it appro- 
+priate, however, to limit Union Gas to the factual situa- 
+tion before that Court: the exercise of Congress’ power 
+to legislate under the Interstate Commerce Clause. 
+CERCLA and SARA were passed pursuant to the Inter- 
+state Commerce Clause, not the Indian Commerce Clause. 
+In addition, each of the opinions—plurality, concurrences, 
+and dissents—addressed only the Interstate Commerce 
+Clause. Moreover, the opinions do not suggest that the 
+Union Gas holding should be broadly construed. Thus, 
+
+18 The tribes assert that the Union Gas Court used the term 
+“Commerce Clause,” not “Interstate Commerce Clause,” thus evi- 
+dencing its intention to grant Congress abrogation powers when- 
+ever it acted pursuant to any of the Commerce Clauses, Interstate, 
+Indian, or foreign. The Court’s entire discussion, as well as every 
+case it cited, focused solely on the Interstate Commerce Clause. 
+We therefore conclude that the Court’s discussion, although im- 
+precise, implicated only the Interstate Commerce Clause. 
+
+2la 
+
+a fair reading of Union Gas is one that limits Congress’ 
+abrogation powers to laws passed under the Interstate 
+Commerce Clause. As we already have determined that 
+IGRA was passed pursuant to the Indian Commerce 
+Clause, the Union Gas holding does not control our dispo- 
+sition of this case. 
+
+This conclusion is bolstered by the unique qualities 
+that distinguish the Interstate Commerce Clause and the 
+Indian Commerce Clause. In an attempt to demonstrate 
+this point, defendants suggest that Cotton Petroleum 
+Corp. v. New Mexico, 490 U.S. 163, 192, 109 S.Ct. 
+1698, 1716, 104 L.Ed.2d 209 (1989) (explaining that 
+“the Interstate Commerce and Indian Commerce Clauses 
+have different applications”), governs our disposition of 
+these cases. That case, which dealt solely with preemp- 
+tion and multiple taxation issues, plainly is distinguish- 
+able from the facts before us; thus, the Cotton Petro- 
+leum Court’s conclusion that the Commerce Clause dis- 
+tinguishes between states and Indian tribes is neither sur- 
+prising nor controlling precedent. Although not directly 
+on point, however, much of the reasoning that supported 
+Cotton Petroleum sheds light on the present issue. In 
+that case, the Court acknowledged the plenary powers 
+under the Interstate Commerce Clause that allow Con- 
+gress to place limits on the states in order to “maintain[] 
+free trade among the States.” Jd. By contrast, “the cen- 
+tral function of the Indian Commerce Clause is to pro- 
+vide Congress with plenary power to legislate in the field 
+of Indian affairs.” Jd. Although Congress has the power 
+to limit the states under the Indian Commerce Clause as 
+well, the different purposes underlying the two clauses 
+mandate that they be treated distinctly. As a result, the 
+unique abrogation power afforded Congress under the 
+Interstate Commerce Clause in Union Gas cannot be ex- 
+tended to the Indian Commerce Clause. 
+
+A second argument supporting our conclusion that 
+Congress did not possess the power to abrogate the states’ 
+immunity is that a proper reading of Union Gas and the 
+
+22a 
+
+cases cited therein demonstrates that the Court has al- 
+lowed federal jurisdiction over states only when the states 
+partake in an activity typical of private individuals. For 
+instance, in Parden, a case on which the Union Gas 
+plurality primarily relied, the State of Alabama was oper- 
+ating a for-profit railroad in interstate commerce. Like- 
+wise, in Union Gas itself, the State of Pennsylvania was 
+an “owner or operator” of land and therefore, like pri- 
+
+vate citizens, was subject to liability under SARA. On . 
+
+the contrary, when the State of Missouri operated a non- 
+proprietary, not-for-profit hospital (a non-private activity 
+“wholly within [the states’] sphere of authority”), the 
+Court refused to find that Congress mandated federal 
+jurisdiction. Employees, 411 U.S. at 282, 93 S.Ct. at 
+1617 (1973). 
+
+In this case, the tribes seek to impose jurisdiction over 
+the States of Alabama and Florida for their failure to 
+negotiate a compact with the tribes. Rather than being a 
+typically private activity, such negotiations are “wholly 
+within [the states’] sphere of authority.” We believe the 
+Supreme Court’s jurisprudence clearly evinces an intent 
+to allow federal jurisdiction over states only when the 
+state’s conduct is outside the typical realm of state au- 
+thority. As negotiations with tribes certainly are not out- 
+side that realm of authority, the principles of federalism 
+and sovereign immunity exemplified in the Eleventh 
+Amendment prevent Congress from abrogating the states’ 
+immunity. Thus, even if Union Gas’ reasoning were to 
+give Congress abrogation power under the Indian Com- 
+merce Clause in general, we would hold that Congress 
+may not abrogate when it legislates in an area typically 
+reserved to the states (such as negotiating regulations 
+with Indian tribes). 
+
+For these reasons, we conclude that Congress did not 
+possess the power to abrogate the states’ Eleventh 
+Amendment immunity when it enacted IGRA. 
+
+ee ee ee ee ee ee ee ee ee ee Cee ee Meee le ee ee ee) en er 
+
+23a 
+
+2 
+
+Third, the Supreme Court has created a third excep- 
+tion to the doctrine of sovereign immunity by holding 
+that the Eleventh Amendment does not always provide 
+immunity to government officials; in certain circum- 
+stances, those officials may be subject to suit, despite the 
+Eleventh Amendment, under the “fiction” of Ex parte 
+Young, 209 U.S. 123, 28 S.Ct. 441, 52 L.Ed. 714 
+(1908). Briefly, the fiction allows an individual to ob- 
+tain a federal injunction against a state officer to force 
+the officer to comply with federal law. Jd. at 160, 28 
+S.Ct. at 454. Under the fiction, the tribes assert that they 
+may sue the governors of Alabama and Florida to com- 
+pel negotiations under IGRA. 
+
+The Ex parte Young doctrine does not apply in two 
+cases: (1) it cannot be used to compel an executive offi- 
+cial to undertake a discretionary task; and (2) it cannot 
+be used if the suit is, in reality, against the state. As most 
+of the courts that have addressed this issue have found, 
+however, the tribes’ claims fit into both categories. See, 
+e.g., Poarch II, 784 F. Supp. at 1551-52; Poarch I, 776 
+F. Supp. at 562; and Ponca, supra.“ 
+
+First, the Ex parte Young doctrine cannot compel dis- 
+cretionary acts. Ex parte Young, 209 U.S. at 158, 28 
+S.Ct. at 453. IGRA does not allot merely ministerial acts 
+to the state, however; rather, it provides for the negotia- 
+tion of a contract, the terms of which are left to the dis- 
+cretion of the state and the tribe. Likewise, since IGRA 
+provides a procedure should the state decide not to nego- 
+tiate, even the mere question of whether the state should 
+
+14 The only case to disagree is Spokane, 790 F. Supp. at 1062-63. 
+There, the court focused on the need for a forum in which the 
+tribe could air its grievances. The need for a forum, however, 
+does not provide a federal court with the power to override state 
+officials’ constitutionally mandated sovereign immunity. Federal 
+court jurisdiction is subject to and limited to the dictates of the 
+Eleventh Amendment, and one judge’s desire to give an aggrieved 
+party a remedy does not enlarge it. 
+
+24a 
+
+negotiate at all is subject to discretion. Thus, both of 
+these facets of IGRA’s compacting process demonstrate 
+that the governors must use their discretion; accordingly, 
+under the first exception to the Ex parte Young doctrine, 
+the governors retain their Eleventh Amendment sovereign 
+immunity. 
+
+Second, if a suit in reality is against the state itself, the 
+Ex parte Young doctrine is inapplicable. Pennhurst State 
+
+School & Hospital v. Halderman, 465 U.S. 89, 101-02, . 
+
+104 S.Ct. 900, 908-09, 79 L.Ed.2d 67 (1984). IGRA 
+uniformly addresses itself to “the State”; not once does it 
+impose duties or responsibilities on a particular officer of 
+the state (e.g., the governor, the legislature, etc.). Even 
+the district court’s injunctive relief powers are limited to 
+ordering “the State and the Indian Tribe to conclude” 
+a compact. § 2710(d)(7)(B)(iii) (emphasis added). 
+In addition, IGRA mandates that the State negotiate, 
+conclude, and abide by the Tribal-State compact. It is 
+apparent that these suits are not against officials in an 
+attempt to force them to follow federal law; rather, the 
+suits are against the states for failing to negotiate a com- 
+pact in good faith. At a result, the doctrine of Ex parte 
+Young does not apply. 
+
+Unless one of the three exceptions—consent, abroga- 
+tion, or Ex parte Young—applies, the Eleventh Amend- 
+ment serves as a jurisdictional bar and precludes federal 
+court adjudication over these suits. As we have found 
+that none of the exceptions is applicable to IGRA, these 
+cases must be disriissed for lack of subject-matter jurisdic- 
+tion. 
+
+V. 
+
+As a result of our holding that the federal courts do 
+not have jurisdiction to reach the issues brought by the 
+tribes in these two suits, the procedures found in §§ 2710 
+(d)(7)(A)(i) and (B)(i)-(vi) necessarily fail when an 
+unconsenting state refuses to consent to suit.” 
+
+15 A state may consent to suit, in which case these provisions 
+remain in full force. See, e.g., Rumsey Indian Rancheria of Wintun 
+
+— | 4% 
+
+tt Gay 
+
+25a 
+
+The final question we must resolve is whether all provi- 
+sions for state involvement in class III gaming also fail, 
+as the tribes contend. We hold that they do not. IGRA 
+contains an explicit severability clause, § 2721; and we 
+find no “strong evidence” to ignore that plain congres- 
+sional directive. See Alaska Airlines, Inc. v. Brock, 480 
+U.S. 678, 686, 107 S.Ct. 1476, 1481, 94 L.Ed.2d 661 
+(1987). Nevertheless, we are left with the question as to 
+what procedure is left for an Indian tribe faced with a 
+state that not only will not negotiate in good faith, but 
+also will not consent to suit. The answer, gleaned from 
+the statute, is simple. One hundred and eighty days after 
+the tribe first requests negotiations with the state, the tribe 
+may file suit in district court. If the state pleads an Elev- 
+enth Amendment defense, the suit is dismissed, and the 
+tribe, pursuant to 25 U.S.C. § 2710(d) (7) (B) (vii), then 
+may notify the Secretary of the Interior of the tribe’s fail- 
+ure to negotiate a compact with the state. The Secretary 
+then may prescribe regulations governing class III gaming 
+on the tribe’s lands. This solution conforms with IGRA 
+and serves to achieve Congress’ goals, as delineated in 
+§§ 2701-02. 
+
+VI. 
+
+The decision of the United States District Court for the 
+Southern District of Florida in Seminole Tribe of Florida 
+v. Florida, No. 92-4652, is reversed; the case is remanded 
+so that the district court may dismiss the suit. The deci- 
+sions of the United States District Court for the Southern 
+District of Alabama in Poarch Band of Creek Indians v. 
+Alabama, No. 92-6244, are affirmed. 
+
+IT IS SO ORDERED. 
+BLACK, Circuit Judge, specially concurring: 
+I concur in the result. 
+
+Indians v. Wilson, No. Civ-S-92-812 GEB, 1993 WL 360652 (E.D. 
+Cal. July 20, 1993), in which defendants waived their Eleventh 
+Amendment immunity. 
+
+26a 
+APPENDIX B 
+
+UNITED STATES DISTRICT COURT 
+S.D. FLORIDA 
+
+No. 91-6756-CIV 
+
+SEMINOLE TRIBE OF FLORIDA. 
+Plaintiff, 
+Vv. 
+
+STATE, OF FLoripDA, LAWTON CHILES, 
+Governor of the State of Florida, 
+Defendants. 
+
+June 18, 1992 
+
+ORDER 
+
+MARCUS, District Judge. 
+
+THIS CAUSE is before the Court on Defendants’ Mo- 
+tion to Dismiss on Eleventh Amendment Grounds, filed 
+December 16, 1991. For the following reasons, the mo- 
+tion is Denied. . 
+
+I. BACKGROUND 
+
+Plaintiff, the Seminole Tribe of Florida (the “Tribe” ) 
+is a federally recognized Indian tribe whose headquarters 
+are located in Broward County, Florida. The Tribe com- 
+menced this action pursuant to the Indian Gaming Regu- 
+latory Act, 25 U.S.C. § 2701 et seq. (“IGRA”), to re- 
+mediate the alleged failure of the State of Florida to con- 
+duct good faith negotiations regarding certain gaming 
+activities to be conducted on the Tribe’s land, after 
+State-Tribe compact negotiations failed to yield an agree- 
+
+— = 
+
+pie: 
+
+ee a 
+
+27a 
+
+ment. According to the Tribe, “the State and its Gover- 
+nor have refused to enter into any negotiations for inclu- 
+sion of such gaming in a tribal-state compact, [and have 
+accordingly] violated [IGRA’s] requirement of good faith 
+negotiation.” Compl. at 4 24. The Defendants assert that 
+they have in fact entered into good faith negotiations with 
+the Tribe, but maintain that those negotiations were un- 
+availing since the gaming activities at issue are prohibited 
+under Florida law. In addition, the Defendants have 
+moved to dismiss the action pursuant to the Eleventh 
+Amendment to the United States Constitution, arguing 
+that Congress does not have the power constitutionally 
+to enforce the “good faith” requirement of the compact 
+process by explicitly providing the Tribe a judicial remedy 
+against the State. 
+
+Il. LEGAL FRAMEWORK 
+
+A. Indian Gaming Regulatory Act 
+
+The Indian Gaming Regulatory Act was enacted by 
+Congress primarily “to provide a statutory basis for the 
+operation of gaming by Indian tribes as a means of pro- 
+moting tribal economic development, self-sufficiency, and 
+strong tribal governments. . . .” 25 U.S.C. § 2702(1). 
+IGRA divides Indian gaming into three distinct classes. 
+Class I gaming “means social games solely for prizes of 
+minimal value or traditional forms of Indian gaming en- 
+gaged in by individuals as a part of, or in connection 
+with, tribal ceremones or celebrations.” Id. at § 2703(6). 
+“Class I gaming on Indian lands is within the exclusive 
+jurisdiction of the Indian tribes” and is not subject to the 
+provisions of IGRA. Id. at § 2710(a)(1). Class II gam- 
+ing includes bingo, pull-tabs, lotto, punch boards, tip jars 
+and other similar games, id. at § 2703(7)(A)(i), and 
+certain non-banking card games (not including blackjack 
+and baccarat), id. at §§ 2703(7)(A) (ii); 2703(7) (B) 
+(i). “Class II gaming on Indian lands shall continue to 
+
+28a 
+
+be within the jurisdiction of the Indian tribes,” but is sub- 
+ject to the provisions of IGRA, id. at § 2710(a)(2), in- 
+cluding oversight by National Indian Gaming Commission, 
+established within the Department of the Interior. Jd. at 
+§ 2704(a). 
+
+Class III gaming is “all other forms of gaming that are 
+not class I gaming or class II gaming.” Id. at § 2703(8). 
+“Class III gaming activities shall be lawful on Indian 
+lands only if such activities are . . . located in a State 
+that permits such gaming for any purpose by any person, 
+organization, or entity... .” Id. at § 2710(d)(1). IGRA 
+further provides that 
+
+{aJny Indian tribe having jurisdiction over the Indian 
+lands upon which a class III gaming activity is being 
+conducted, or is to be conducted, shall request the 
+State in which such lands are located to enter into 
+negotiations for the purpose of entering into a Tribal- 
+State compact governing the conduct of gaming ac- 
+tivities. Upon receiving such a request, the State 
+shall negotiate with the Indian tribe in good faith to 
+enter into such a compact. 
+
+Id. at §2710(d)(3)(A) (emphasis added). Finall 
+IGRA mandates that : sang 
+
+[t]he United States district courts shall have jurisdic- 
+tion over . . . any cause of action initiated by an 
+Indian tribe arising from the failure of a State to 
+enter into negotiations with the Indian tribe for the 
+purpose of entering into a Tribal-State compact un- 
+
+der paragraph (3) or to conduct such tiati 
+in good faith. ... negotiations 
+
+Id. at §2710(d)(7)(A)(i). Notwithstanding the ex- 
+press terms of Section 2710, Defendants argue that any 
+such suits brought to remediate a State’s alleged failure 
+
+to negotiate in good faith are barred the 
+Amendment. 7 pein 
+
+29a 
+
+B. Eleventh Amendment 
+
+The Eleventh Amendment to the United States Consti- 
+tution provides: 
+
+The Judicial power of the United States shall not 
+be construed to extend to any suit in law or equity, 
+commenced or prosecuted against one of the United 
+States by Citizens of another State, or by Citizens 
+or Subjects of any Foreign State. 
+
+U.S. Const. amend. XI. The scope of the Amendment 
+has been extended beyond the literal text to also bar suits 
+against a State brought by one of its own citizens. Hans 
+v. Louisiana, 134 U.S. 1, 21, 10 S.Ct. 504, 33 L.Ed. 842 
+(1890). Thus, as the United States Supreme Court has 
+recently observed: 
+
+Despite the narrowness of its terms, since Hans v. 
+Louisiana we have understood the Eleventh Amend- 
+ment to stand not so much for what it says, but for 
+the presupposition of our constitutional structure 
+which it confirms: that the States entered the fed- 
+eral system with their sovereignty intact; [and] that 
+the judicial authority in Article III is limited by this 
+sovereignty. ... 
+
+Blatchford v. Native Village of Noatak, U.S. ——, 
+, 111 S.Ct. 2578, 2581, 115 L.Ed.2d 686 (1991) 
+(citation omitted). Three exceptions to the Amendment 
+exist: (1) a State may consent to suit in federal court, 
+or waive its immunity to such suits, either expressly or 
+impliedly; see id.; (2) Congress may, when it possesses 
+the power, abrogate the States’ immunity; see Pennsyl- 
+vania v. Union Gas Co., 491 U.S. 1, 13-23, 109 S.Ct. 
+2273, 2280-86, 105 L.Ed.2d 1 (1989); and (3) state 
+officials may under certain circumstances be sued, in their 
+official capacities, to obtain prospective relief. See Ex 
+Parte Young, 209 U.S. 123, 28 S.Ct. 441, 52 L.Ed. 714 
+(1908). Against this framework, we proceed to evaluate 
+Defendant’s Motion to Dismiss. 
+
+30a 
+
+Ill. ANALYSIS 
+A. Abrogation 
+
+The Tribe’s central argument in opposition to the Mo- 
+tion to Dismiss is that Congress, in enacting IGRA, abro- 
+gated the State’s Eleventh Amendment immunity.’ We 
+hold that Congress did in fact abrogate the States’ im- 
+munity when it enacted IGRA, and, despite case authority 
+to the contrary,? further hold that, pursuant to the In- 
+dian Commerce Clause, Congress plainly had the con- 
+stitutional power to abrogate.* 
+
+1. Statutory Language 
+
+At the outset, the United States Supreme Court has 
+held that 
+
+Congress may abrogate the States’ constitutionally 
+secured immunity from suit in federal court only by 
+making its intention unmistakably clear in the lan- 
+guage of the statute. 
+
+a 
+
+1 The Tribe also argues that the State has implicitly waived its 
+immunity, either inherently in the “plan of convention”, see Blatch- 
+ford, —— U.S. at ——,, 111 S.Ct. at 2581, or constructively by the 
+State’s acceptance of the benefits of IGRA, see Parden v. Terminal 
+Railway, 377 U.S. 184, 192-98, 84 S.Ct. 1207, 1212-18, 12 L.Ed.2d 
+233 (1964). Since the Tribe has not strenuously pursued: either 
+“waiver” theory, and since we reach our decision on purely “abro- 
+gation” principles, we need not address the issues raised by these 
+arguments except insofar as they may bear upon Congress’ power 
+to abrogate. 
+
+2 See Sault Ste. Marie Tribe of Chippewa Indians, et al. v. State 
+of Michigan, No. 90-611, 1992 WL 71384, at *4-5 (W.D. Mich. Mar. 
+27, 1992) ; Spokane Tribe of Indians v. State of Washington, 790 
+F. Supp. 1057, 1059-61 (E.D. Wash. 1991); Poarch Band of Creek 
+Indians v. State of Alabama, 776 F. Supp. 550, 557 (S.D. Ala. 1991). 
+
+% Both the Indian and Interstate Commerce Clauses are found 
+in the same delegation of legislative authority, which gives Congress 
+the power “To regulate Commerce with foreign Nations, and 
+among the several States, and with the Indian Tribes... .” U.S. 
+Const. art. I, § 8, cl. 3. 
+
+3la 
+
+See Atascadero State Hospital v. Scanlon, 473 U.S. 234, 
+242, 105 S.Ct. 3142, , 87 L.Ed.2d 171 (1985); 
+see also Blatchford, U.S. at . 1211 SC. ot 
+2584; Dellmuth v. Muth, 491 U.S. 223, 226, 109 S.Ct. 
+2397, 2399, 105 L.Ed.2d 181 (1989). In the instant 
+case, the relevant portion of IGRA provides: 
+
+The United States district courts shall have jurisdic- 
+tion over . . . any cause of action initiated by an 
+Indian tribe arising from the failure of a State to 
+enter into negotiations with the Indian tribe for the 
+purpose of entering into a Tribal-State compact un- 
+der paragraph (3) or to conduct such negotiations 
+in good faith. ... 
+
+25 U.S.C. § 2710(d)(7)(A) (i). It is beyond preadven- 
+ture that, in expressly providing for federal jurisdiction 
+over claims brought by Indian tribes against States to 
+compel faith negotiations under IGRA (or to rem- 
+edy the lack of such negotiations), Congress made its in- 
+tention to abrogate the States’ immunity in this context 
+“unmistakably clear in the language of the statute.” See 
+Atascadero, 473 U.S. at 242, 105 S.Ct. at 3147. In- 
+deed, the State of Florida concedes as much. See Def. 
+Mem. at 14 (“There is little doubt but that IGRA’s at- 
+tempted abrogation of state immunity is clear enough to 
+do so if Congress has the power to abrogate in this situa- 
+tion.”). Moreover, every court to squarely consider this 
+precise issue has concluded that the language in Section 
+2710 is “unmistakably clear.” See Sault Ste. Marie Tribe 
+of Chippewa Indians, et al. v. State of Michigan, No. 
+90-611, 1992 WL 71384, at *4 (W.D. Mich. Mar. 27, 
+1992) (“IGRA demonstrates specific Congressional in- 
+tent that states be subject to suit in federal courts based 
+upon violations of IGRA. This Court finds that the Act 
+is a clear statement of waiver of sovereign immunity.” 
+(emphasis in original) ); Poarch Band of Creek Indians 
+v. State of Alabama, 776 F. Supp. 550, 557 (S.D. Ala. 
+1991) (“[{T]his Court has little doubt but that IGRA’s 
+attempted abrogation of state immunity is clear enough 
+
+32a 
+
+to do so if Congress has the power to abrogate in this 
+Situation. . . . It is difficult to imagine a clearer state- 
+ment of Congress’ intent to subject states to lawsuits in 
+the federal courts.”). Accordingly, we find that IGRA, 
+on its face, abrogates the States’s Eleventh Amendment 
+immunity. That does not end the inquiry, however. 
+
+2. Congressional Power to Abrogate 
+
+A more difficult question is whether, notwithstanding 
+its manifest intent to do so, Congress had the power to 
+abrogate the States’ immunity in the context at issue here. 
+Given Congress’ plenary authority over Indian relations, 
+explicitly noted in the text of the Constitution at Article 
+I, § 8, cl. 3, and the uniquely federal issues raised when 
+such authority is exercised, considered in conjunction with 
+the principles enunciated by the Supreme Court in Penn- 
+sylvania v. Union Gas Co., 491 U.S. 1, 109 S.Ct. 2273, 
+105 L.Ed.2d 1 (1989), we conclude that Congress, when 
+acting pursuant to the Indian Commerce Clause, has the 
+power to abrogate the States’ immunity. 
+
+We begin by observing that the Indian Commerce 
+Clause of the Constitution provides that “Congress shall 
+have power . . . To regulate Commerce . . . with the 
+Indian Tribes.” U.S. Const. art. I, § 8, cl. 3. Congres- 
+sional power over Indian affairs is plenary. Cotton Pe- 
+troleum Corp. v. New Mexico, 490 U.S. 163, 192, 109 
+S.Ct. 1698, 1715-16, 104 L.Ed.2d 209 (1989) (“[T]he 
+central function of the Indian Commerce Clause is to 
+provide Congress with plenary power to legislate in the 
+field of Indian affairs. . . .”); Oneida County, N.Y. v. 
+Oneida Indian Nation of N.Y., 470 U.S. 226, 234-35, 
+105 S.Ct. 1245, 1251-52, 84 L.Ed.2d 169 (1985) (“With 
+the adoption of the Constitution, Indian relations became 
+the exclusive province of federal law.” (citing The Fed- 
+eralist No. 42)); White Mountain Apache. Tribe v. 
+Bracker, 448 U.S. 136, 142, 100 S.Ct. 2578, 2583, 65 
+L.Ed.2d 665 (1980) (“Congress has broad power to reg- 
+ulate tribal affairs under the Indian Commerce Clause. 
+
+33a 
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+In Worcester v. Georgia, 31 U.S. (6 Pet.) 515, 8 
+L.Ed. 483 (1832), Chief Justice Marshall, writing for 
+the High Court, observed that 
+
+[the Articles of Confederation] gave the United 
+States in congress assembled the sole and exclusive 
+right of “regulating the trade and managing all the 
+affairs with the Indians, not members of any of the 
+states; provided, that the legislative power of any 
+state within its own limits be not infringed or vio- 
+lated.” 
+* * * * 
+
+The correct exposition of this [section of the Articles 
+of Confederation] is rendered unnecessary by the 
+adoption of our existing constitution. That instru- 
+ment confers on congress the powers of war and 
+peace; of making treaties, and of regulating com- 
+merce with foreign nations, and among the several 
+states, and with the Indian tribes. These powers 
+comprehend all that is required for the regulation 
+of our intercourse with the Indians. They are not 
+limited by any restriction on their free actions; the 
+shackles imposed on this power, in the [Articles of 
+Confederation], are discarded. 
+
+31 U.S. at 558-59. See also United States v. City of 
+Salamanca, 27 F. Supp. 541, 543 (W.D.N.Y. 1939) 
+
+34a 
+
+(“Any doubt as to whether under the Articles of Con- 
+federation certain rights over the Indians were reserved 
+to the states was removed by the adoption of the Con- 
+stitution.” ); The Federalist No. 42, at 268 (James Madi- 
+son) (Clinton Rossiter ed., 1961) (“The regulation of 
+commerce with the Indian tribes is very properly unfet- 
+tered from two limitations in the Articles of Confedera- 
+tion. .. .”). And in Morton v. Mancari, 417 U.S. 535, 
+94 S.Ct. 2474, 41 L.Ed.2d 290 (1974), a unanimous 
+Supreme Court opined: 
+
+Resolution of the instant issue [of whether an In- 
+dian employment preference violates the Due Process 
+Clause of the Fifth Amendment] turns on the unique 
+federal status of Indian tribes under federal law and 
+upon the plenary power of Congress, based on a 
+history of treaties and the assumption of a “guardian- 
+ward” status, to legislate on behalf of federally rec- 
+ognized Indian tribes. The plenary power of Con- 
+gress to deal with the special problems of Indians 
+is drawn both explicitly and implicitly from the Con- 
+stitution itself. 
+
+417 U.S. at 551-52, 94 S.Ct. at 2483.* It is thus abun- 
+dantly clear that issues pertaining to Indian affairs are 
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+35a 
+
+uniquely federal, and that in regulating such affairs vis- 
+a-vis the States, congressional authority is plenary. 
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+We next turn to a consideration of Pennsylvania v. 
+Union Gas Co., 491 U.S. 1, 109 S.Ct. 2273, 105 L.Ed.2d 
+1 (1989). In Union Gas, the Supreme Court held that 
+the plain language of the Comprehensive Environmental 
+
+Amendment); Ainsworth, The Negative Foreign Commerce Clause: 
+An Analysis of the Reserved Unitary Tax Issue in Container Cor- 
+poration of America v. California Franchise Tax Board, 8 B.U.J. 
+Tax L. 65 (1990) (“it is Congress, not the states, which must 
+fairly regulate commerce ‘with the Indian tribes’ ”). 
+
+5 We note that, in the Bankruptcy Clause context, the United 
+States Court of Appeals for the Eleventh Circuit has expressly 
+left open the question of congressional power to abrogate. TEW 
+v. Arizona State Retirement System, 873 F.2d 1400, 1401 (11th 
+Cir. 1989) (per curiam) (“Because we hold that Congress has not 
+expressly abrogated sovereign immunity here, we do not reach the 
+constitutional question of whether it would have the authority to 
+do so.” (citation omitted) ). 
+
+36a 
+
+Response, Compensation, and Liability Act of 1980 
+(“CERCLA”), 42 U.S.C. § 9601 ef seq., permits a suit 
+for monetary damages against a state in federal court. 
+491 U.S. at 5, 109 S.Ct. at 2276. Further, a majority 
+of the Court concluded that Congress has the power to 
+abrogate the States’ immunity when legislating pursuant 
+to the Interstate Commerce Clause. Jd. at 13-23, 57, 109 
+S.Ct. at 2280-86, 2295. Justice Brennan authored the. 
+plurality opinion of the Court on the abrogation issue, 
+in which Justices Marshall, Blackmun, and Stevens joined. 
+Justice White filed a separate opinion in which he con- 
+curred in the judgment and noted his agreement “that 
+Congress has the authority under Article I to abrogate 
+the Eleventh Amendment immunity of the States... .” 
+491 U.S. at 57, 109 S.Ct. at 2295. Justice Brennan’s 
+plurality opinion reasoned that Congress possessed such 
+power principally by virtue of “the plenary powers granted 
+it by the Constitution” to regulate interstate commerce, 
+id. at 14-19, 109 S.Ct. at 2281-84 (citing Fitzpatrick v. 
+Bitzer, 427 U.S. 445, 456, 96 S.Ct. 2666, 2670-71, 49 
+L.Ed.2d 614 (1976) (holding that Congress may ab- 
+rogate States’ immunity when legislating under § 5 of the 
+Fourteenth Amendment, since its powers under that 
+amendment are plenary) ), and also, to a lesser extent, by 
+virtue of the States’ surrender of immunity in the “plan 
+of convention” regarding matters within the ambit of the 
+Interstate Commerce Clause.’ /d., 491 U.S. at 19-23, 109 
+
+* Defendants argue that the applicability of Union Gas to the 
+instant case is undermined by the Tribe’s inability to satisfy the 
+“plan of convention” prong of that decision since no State-Tribe 
+“mutuality” was represented in the “plan of convefition.” We 
+cannot agree. The plurality’s “plan of convention” discussion in 
+Union Gas is, in our view, more a natural extension of the “plen- 
+ary power” basis of the decision than a separate requirement of 
+mutuality, since, even when discussing the “plan of convention,” 
+the Court was primarily concerned with Congress’ plenary powers 
+in the area of interstate commerce, observing: 
+
+It would be difficult to overstate the breadth and depth of the 
+commerce power. It is not the vastness of this power, however, 
+
+37a 
+
+S.Ct. at 2284-86. Since Congress clearly posseses com- 
+plete and plenary authority in the area of Indian affairs, 
+which is at least as broad as Congress’ interstate com- 
+merce power, see note 8, infra, we hold that Congress 
+has the power to abrogate the States’ immunity pursuant 
+to the Indian Commerce Clause. 
+
+Defendants have rested their Eleventh Amendment ar- 
+gument on three recent district court opinions, Sault Ste. 
+Marie Tribe of Chippewa Indians, et al. v. State of Mich- 
+igan, No. 90-611, 1992 WL 71384 (W.D. Mich. 1992); 
+Spokane Tribe of Indians v. State of Washington, 790 
+F. Supp. 1057 (E.D. Wash. 1991); and Poarch Band of 
+Creek Indians v. State of Alabama, 776 F. Supp. 550 
+(S.D. Ala. 1991). First, Defendants observe that the dis- 
+trict courts in both the Sault Ste. Marie and the Poarch 
+cases expressed misgivings as to the continuing vitality 
+of Union Gas, with the court in Poarch going so far as 
+to conclude that, 
+
+that is so important here: it is its effect on the power of the 
+States. 
+491 U.S. at 20, 109 S.Ct. at 2284 (citations omitted). This is pre- 
+cisely the same observation advanced by the Court when analyzing 
+Congress’ plenary power in this area: 
+[T]he Commerce Clause with one hand gives power to Congress 
+while, with the other, it takes power away from the States... . 
+The important point . . . is that the provision both expands 
+federal power and contracts state power; that is the meaning, 
+in fact, of a “plenary” grant of authority... . 
+
+Id. at 16-17, 109 S.Ct. at 2282-83. 
+
+We thus rest today’s decision primarily on Congress’ plenary 
+power over Indian affairs, rather than on a “mutuality in the plan 
+of convention” theory, for a number of reasons. First, an explica- 
+tion of plenary congressional power is, in our view, the central 
+thrust of Union Gas, and is a proper basis on which to find con- 
+gressional power to abrogate. In addition, the latter theory seem- 
+ingly begs the question by presuming that the states have already 
+ceded their sovereignty. Finally, we think, “plan of convention” 
+cession is more properly a “waiver” argument than an “abrogation” 
+argument, and, in the Indian affairs context, was rejected in Blatch- 
+ford, —— USS. at - , 111 S.Ct. at 2581-83. 
+
+38a 
+
+[blecause Union Gas is not directly on point, and 
+with an eye toward the shaky ground on which it 
+stands, this Court does not find the decision to be 
+controlling. The weakness of the plurality opinion 
+leads this Court to believe that it should not be 
+given an expansive application. . . . 
+
+776 F. Supp. at 558." We are unpersuaded. As already 
+noted, a majority of the Supreme Court in Union Gas 
+held that Congress had the power to abrogate the States’ 
+immunity under the Interstate Commerce Clause; Union 
+Gas is binding authority on this Court. It is a mistake 
+to simply dismiss Union Gas as being inapposite, es- 
+pecially since congressional power over both interstate and 
+Indian commerce derives from precisely the same Con- 
+stitutional clause, Article I, § 8, cl. 3, and since its power 
+in both areas is plenary. See Matter of McVey Trucking, 
+812 F.2d at 323 (holding that “Congress may abrogate 
+state immunity to suit pursuant to any of its plenary 
+powers,” including the Bankruptcy Clause of Article I, 
+§ 8, cl. 4); Peel v. Florida Dep’t of Transp., 600 F.2d 
+1070, 1085 (Sth Cir. 1979) (finding authority to abrogate 
+pursuant to Congress’ war powers, and observing that 
+“nothing in the history of the eleventh amendment, the 
+doctrine of sovereign immunity, or the case law indicates 
+that Congress, when acting under an [AJrticle I, section 
+8 delegated power, lacks the authority to provide for 
+federal court enforcement of private damage actions 
+against the states”); BV Engineering v. University of 
+Cal., Los Angeles, 657 F. Supp. 1246, 1248 (C.D. Cal. 
+
+7 See also Sault Ste. Marie, 1992 WL 71384, at *5 (district court 
+settles on a “narrow reading of Union Gas”); Mississippi Band of 
+Choctaw Indians v. State of Mississippi, No. 90-386, 1991 WL 
+255614, at *6 (S.D. Miss. Apr. 9, 1991) (“[T]he Court notes that 
+it does not consider the Union Gas decision itself controlling prece- 
+dent upon which the eleventh amendment questions at issue here 
+could be decided. Union Gas dealt with congressional abrogation 
+of state immunity through an exercise of authority under the 
+interstate commerce clause. The instant matter involves the Indian 
+commerce clause.”’). 
+
+39a 
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+THE COURT: Let me ask you a question. Is 
+congressional authority under Article I, Section 8, 
+dealing with the power to regulate commerce with 
+the Indian tribes any less sweeping than the power 
+to regulate commerce with foreign nations and among 
+the several States? 
+
+MR. GLOGAU: No, it is not. 
+
+Transcr. of Hrng. of Jan. 13, 1992, at 10. Defendants 
+nonetheless argue that Congress’ power over Indian com- 
+merce is of a “very different specie” than the power over 
+
+40a 
+
+interstate commerce, and that Union Gas is therefore 
+readily distinguishable, since the Indian commerce power 
+lacks an element of “mutuality” found in the area of inter- 
+state commerce. See id. 491 U.S. at 10-16, 109 S.Ct. at 
+2278-82. This argument is unconvincing, and we con- 
+clude that, based on its paramount and plenary authority 
+
+over Indian affairs, Congress’ power to act pursuant to_ 
+
+the Indian Commerce Clause is at least as great, if not 
+greater, than its powers under the Interstate Commerce 
+Clause.® Moreover, Cotton Petroleum does not undercut 
+this conclusion, since that decision goes on to note: 
+
+8 Accord Howard v. Illinois Central R. Co., 207 U.S. 468, 521, 
+28 S.Ct. 141, 154-55, 52 L.Ed. 297 (1908) (Moody, J., dissenting) 
+(“There is nothing in the words of the grant [of commerce power 
+to Congress] that permits the belief that the power is not coex- 
+tensive over foreign, interstate, and Indian trade, or is anything 
+less than the whole power which any government may properly 
+exercise over either. . . .”); Wabash R. Co. v. United States, 168 
+F. 1, 4 (7th Cir. 1909) (“When the Declaration of Independence 
+ripened into fact, the several states could have taken their separate 
+places in the family of nations as absolutely sovereign powers, and 
+the commerce among them would have been on the same footing 
+as commerce “with foreign nations” and “with Indian tribes.” On 
+abandoning their “firm league of friendship” and adopting the 
+Constitution, the states divested themselves of the power to regulate 
+interstate commerce as completely as they did of the power to 
+regulate foreign commerce, and transferred to the nation in -equal 
+terms the power to regulate both. To the extent that there is a 
+difference between the power of Congress over interstate commerce 
+and over foreign commerce, it comes not from any difference in 
+the grants, but from the fact that other provisions of the Consti- 
+tution which may limit the exercise of power over interstate com- 
+merce may have no application to foreign commerce.”) ; Ainsworth, 
+supra note 4 (“First, Indian Commerce Clause analysis is struc- 
+tured differently than Interstate Commerce Clause analysis. It 
+proposes a tripartite balancing of unequal interests (tribal, state, 
+and federal) rather than a binary balancing of constitutionally 
+equal interests (two similarly situated taxpayers in the same 
+or different states). Second, under the Indian Commerce Clause, 
+there is a presumption against state authority to tax Indian-value 
+without express Congressional approval; whereas under the Inter- 
+state Commerce Clause, there is a presumption in favor of any 
+
+4la 
+
+In particular, while the Interstate Commerce Clause 
+is concerned with maintaining free trade among the 
+States even in the absence of implementing federal 
+legislation, the central function of the Indian Com- 
+merce Clause is to provide Congress with plenary 
+power to legislate in the field of Indian affairs. 
+
+490 U.S. at 192, 109 S.Ct. at 1715-16 (emphasis added).° 
+
+Finally, Defendants rely on Blatchford in concluding 
+that Congress lacked the power to abrogate.” This re- 
+liance is misplaced, we think, since Blatchford is pri- 
+marily a “waiver” case, and its concerns over a lack of 
+“mutuality of . . . concession,” U.S. at - : 
+111 S.Ct. at 2581-83, are properly limited to that con- 
+text. But even if, as Defendants assert, the “waiver” 
+principles enunciated in Blatchford can be said to speak 
+to Congress’ power to abrogate—and we think they do 
+not—the lack of State-Indian mutality is a matter of rela- 
+tively minor importance. First, Congress’ plenary power 
+over the uniquely federal area of Indian affairs is the 
+
+non-discriminatory state taxing scheme which has not been ex- 
+pressly disapproved of by Congress. Finally, under the Indian 
+Commerce Clause, it is the quantitative weight of the burden im- 
+posed on Indian Commerce that is the significant question; whereas 
+under the Interstate Commerce Clause, it is the equal distribution 
+of tax burdens among taxpayers, regardless of the absolute amount 
+of the overall burden, that matters.”); Resnick, Dependent Sov- 
+ereign: Indian Tribes, States, and the Federal Courts, 56 U. Chi. 
+L. Rev. 671 (1989) (“[T]he ‘Indian commerce clause could be read 
+as expansively as the Interstate commerce clause.’ Under such 
+a reading, the constitutional limits on congressional power over 
+Indian tribes may be more formal than real.” (quoting Clinton, 
+Isolated in Their Own Country: A Defense of Federal Protection 
+a at, Autonomy and Self Government, 33 Stan. L. Rev. 979, 997 
+1981) )). 
+
+® At all events, Cotton Petroleum is of limited help here since 
+the issue there was whether Indian tribes could be treated as 
+States for tax apportionment purposes. 
+
+10 The Spokane Tribe and Sault Ste. Marie courts also relied on 
+Blatchford in reaching the same conclusion. 
+
+42a 
+
+primary basis on which we rest today’s decision. Second, 
+we are not persuaded that a lack of mutuality between the 
+States and the Indian nations is a compelling deficiency, 
+since there did in fact exist a mutuality between the fed- 
+eral government—in which plenary power to regulate In- 
+dian affairs was vested—and the States. And although 
+the lack of State-Indian mutality may undercut the argu- 
+ment that the States waived their immunity to any and all 
+suits by Indian tribes, the importance of that want of 
+mutuality is diminished when a suit is brought pursuant 
+to explicit congressional authorization, since the linchpin 
+of abrogation must be the nature of the power pursuant 
+to which Congress raised the Eleventh Amendment bar- 
+rier. Furthermore, to the extent that Blatchford does ex- 
+pressly discuss abrogation, that discussion never reaches 
+the issue of congressional power, since the Court con- 
+cluded that Section 1362 of Title 28 did not contain 
+“unmistakably clear” language evincing Congress’ intent 
+to abrogate.” US. at , 111 S.Ct. at 2586. 
+Thus, Blatchford is wholly silent on the principal issue 
+raised here of congressional power to abrogate, and as 
+such is readily distinguishable. Accordingly, it is 
+
+ORDERED AND ADJUDGED that Defendants’ Mo- 
+tion to Dismiss is DENIED. 
+
+DONE AND OP DERED. 
+
+11 That section provides: 
+The district courts shall have original jurisdiction of all civil 
+actions, brought by any Indian tribe or band with a governing 
+body duly recognized by the Secretary of the Interior, wherein 
+the matter in controversy arises under the Constitution, laws, 
+or treaties of the United States. 
+28 U.S.C. § 1862. Notably absent from Section 1862 is language 
+specifically referencing the States, as is present in the statute con- 
+ferring jurisdiction in the instant case, 25 U.S.C. § 2710(d) (7) 
+
+(A) (i). | 
+
+43a 
+APPENDIX C 
+[Filed Sep. 22, 1993] 
+
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF FLORIDA 
+
+Case 91-6756-CIV-MARCUS 
+
+SEMINOLE TRIBE OF FLORIDA, 
+Plaintiff, 
+v. 
+
+STATE OF FLORIDA, LAWTON CHILES, 
+Governor of the State of Florida, 
+Defendants. 
+
+ORDER GRANTING DEFENDANTS’ MOTION 
+FOR SUMMARY JUDGMENT AND DENYING 
+PLAINTIFF’S MOTION FOR SUMMARY 
+JUDGMENT AND PLAINTIFF'S SUPPLEMENTAL 
+MOTION FOR SUMMARY JUDGMENT 
+
+THIS MATTER comes before the Court pursuant to 
+the Plaintiff, SEMINOLE TRIBE OF FLORIDA’s (“the 
+Tribe”), Motion for Summary Judgement and the De- 
+fendants, the STATE OF FLORIDA and LAWTON 
+CHILES’s (“the State”), Motion for Summary J udge- 
+ment, both of which were filed on October 9, 1992, and 
+pursuant to the Tribe’s Supplemental Motion for Sum- 
+mary Judgment, filed on March 19, 1993. 
+
+The Tribe brought this action under the Indian Gam- 
+ing Regulatory Act, 28 U.S.C. §§ 2701-21, 18 U.S.C. 
+§§ 1166-68 (“IGRA”). The Tribe alleges that the State 
+has failed to negotiate in good faith by refusing to in- 
+
+44a 
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+ORDERED AND ADJUDGED that the State’s Mo- 
+tion for Summary Judgment is -—GRANTED and the 
+Tribe’s Motion for Summary Judgment and Supplemental 
+Motion for Summary Judgment are DENIED for the 
+reasons detailed at some length below. 
+
+I. 
+
+The following facts tiave been stipulated to by the 
+parties in their Joint Pretrial Stipulation. On January 
+29, 1991, the Tribe asked the State to commence nego- 
+tiations pursuant to the IGRA for a compact governing 
+the Tribe’s proposed operation of certain forms of gam- 
+bling on Tribal lands. On March 4, 1991, the Tribe 
+submitted a proposed contract providing for Tribal oper- 
+ation of poker, and machine or computer-assisted games 
+
+tk 
+
+45a 
+
+which duplicate poker, bingo, pull-tabs, lotto, punch 
+boards, tip jars, instant bingo, and other games similar to 
+bingo. By letter of May 24, 1991, the State, through 
+the Governor’s General Counsel, J. Hardin Peterson, Jr., 
+agreed to negotiate poker and other games allowed by 
+Fla. Stat. Anno. § 849.085 (West Supp. 1993), but re- 
+jected all of the Tribe’s other compact requests. The 
+letter set forth the State’s preliminary legal position on 
+the scope of games believed by the State to be subject 
+to compact negotiations and also contained suggestions 
+for issues to be negotiated related to regulatory matters. 
+On June 18, 1991, Seminole Chairman James Billie re- 
+quested Florida Governor Lawton Chiles’s personal in- 
+volvement in compact negotiations. The Chairman sub- 
+mitted additional games that the Tribe asserted met the 
+objections set forth in the May 24 letter from Peterson, 
+and, at the same time, requested expansion of negotia- 
+tions to include casino gambling. On June 25, 1991, 
+the Tribe submitted a ten-page legal memorandum to 
+the State in support of the lawfulness of the proposed 
+compact. (Joint Pretrial Stipulation at 4, 44 1-5). 
+
+On August 22, 1991, representatives of the Tribe met 
+with State representatives to discuss the Tribe’s compact 
+request. The State agreed to negotiate concerning poker 
+and other card games, raffles, and parimutual wagering 
+on dog and horse racing and jai alai. In response to 
+questions from the State representatives, there was some 
+discussion of how the Tribe would conduct these games 
+if a compact were approved. The State, however, re- 
+fused to negotiate a compact covering any machine or 
+computer-assisted gaming which the State contended 
+would violate Fla. Stat. Anno. §§ 849.15 and 849.16 
+(West 1976 & Supp. 1993). Specifically, the State re- 
+fused to negotiate a compact covering any form of casino 
+gambling. (Joint Pretrial Stipulation at 4-5, 4 6). 
+
+On September 17, 1991, the State and the Tribe met 
+to continue discussions. The State expressed its willing- 
+
+46a 
+
+ness to negotiate a compact for games permitted under 
+the interpretation of IGRA set forth in its September 13 
+letter. The Tribe decided not to continue negotiations 
+at that time and subsequently filed the instant lawsuit. 
+By letter dated September 14, 1992, the Tribe contacted 
+the State requesting that negotiations be resumed. (Joint 
+Pretrial Stipulation at 5, 44 6.1-6.2). 
+
+II. 
+
+The standard to be applied in reviewing a summary 
+judgment motion is stated unambiguously in Rule 56(c) 
+of the Federal Rules of Civil Procedure: 
+
+The judgment sought shall be rendered forthwith if 
+the pleading, depositions, answers to interrogatories 
+and admissions on file, together with the affidavits, 
+if any, show that there is no genuine issue as to any 
+material fact and that the moving party is entitled to 
+a judgment as a matter of law. 
+
+Fed. R. Civ. P. 56(c). Thus, summary judgment may 
+be entered only where there is no genuine issue of ma- 
+terial fact. Moreover, the moving party has the burden 
+of meeting this exacting standard. Adickes v. S.H. Kress 
+& Co., 398 U.S. 144, 157 (1970). 
+
+In applying this standard, the Eleventh Circuit has 
+explained: 
+
+In assessing whether the movant has met this bur- 
+den, the courts should view the evidence and all 
+factual inferences therefrom in the light most favor- 
+able to the party opposing the motion. Adickes, 398 
+U.S. at 157, 90 S.Ct. at 1608; Marsh, 651 F.2d at 
+991. All reasonable doubts about the facts should 
+be resolved in favor of the non-movant. Casey En- 
+terprises, Inc. v. American Hardware Mut. Ins. Co., 
+655 F.2d 598, 602 (5th Cir. 1981). If' the record 
+presents factual issues, the court must not decide 
+them; it must deny the motion and proceed to trial. 
+
+le 
+
+Ss pragen ye “aS Reease? fa 
+
+47a 
+
+Marsh, 651 F.2d at 991; Lighting Fixture & Elec. 
+Supply Co. v. Continental Ins. Co., 420 F.2d 1211, 
+1213 (Sth Cir. 1969). Summary judgment may be 
+inappropriate even where the parties agree on the 
+basic facts, but disagree about the inferences that 
+should be drawn from these facts. Lighting Fixture 
+& Elec. Supply Co., 420 F.2d at 1213. If reason- 
+able minds might differ on the inferences arising 
+from undisputed facts, then the court should deny 
+summary judgment. Impossible Electronics, 669 
+F.2d at 1031; Croley v. Matson Navigation Co., 434 
+F.2d 73, 75 (Sth Cir. 1970). 
+
+Moreover, the party opposing a motion for sum- 
+mary judgment need not respond to it with any affi- 
+davits or other evidence unless and until the movant 
+has properly supported the motion with sufficient 
+evidence. Adickes v. S.H. Kress & Co., 398 US. 
+at 160, 90 S.Ct. at 1609-10; Marsh, 651 F.2d at 
+991. The moving party must demonstrate that the 
+facts underlying all the relevant legal questions 
+raised by the pleading or otherwise are not in dis- 
+pute, or else summary judgment will be denied not- 
+withstanding that the non-moving party has intro- 
+duced no evidence whatsoever. Brunswick Corp. v. 
+Vineberg, 370 F.2d 605, 611-12 (Sth Cir. 1967). 
+See Dalke v. Upjohn Co., 555 F.2d 245, 248-49 
+(9th Cir. 1977). 
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+The United States Supreme Court has provided sig- 
+nificant additional guidance as to the evidentiary standard 
+which trial courts should apply in ruling on a motion 
+for summary judgment: 
+
+[The summary judgmert] standard mirrors the stand- 
+ard for a directed verdict under Federal Rule of 
+
+48a 
+
+Civil Procedure 50(a), which is that the trial judge 
+must direct a verdict if, under the governing law, 
+there can be but one reasonable conclusion as to the 
+verdict. Brady v. Southern R. Co., 320 U.S. 476, 
+479-80, 64 S.Ct. 232, 234, 88 L.Ed. 239 (1943). 
+
+Anderson vy. Liberty Lobby, Inc., 477 U.S. 242, 250. 
+
+(1986). The Court further stated that “[t]he mere ex- 
+istence of a scintilla of evidence in support of the posi- 
+tion will be insufficient; there must be evidence on which 
+the jury could reasonably find for the [non-movant].” 
+Id. at 252. In determining whether this evidentiary 
+threshold has been met, the trial court “must view the 
+evidence presented through the prism of the substantive 
+evidentiary burden” applicable to the particular cause of 
+action before it. Jd. at 254. If the non-movant in a sum- 
+mary judgment action fails to adduce evidence which 
+would be sufficient, when viewed in a light most favor- 
+able to the non-movant, to support a jury finding for the 
+non-movant, summary judgment may be granted. /d. 
+at 254-55. 
+
+In another case, the Supreme Court has declared that 
+a non-moving party’s failure to prove an essential ele- 
+ment of a claim renders all factual disputes as to that 
+claim immaterial and requires the granting of summary 
+
+judgment: 
+
+In our view, the plain language of Rule 56(c) man- 
+dates the entry of summary judgment . . . against 
+a party who fails to make a showing sufficient to 
+establish the existence of an element essential to 
+that party’s case, and on which that party will bear 
+the burden of proof at trial. In such a situation, 
+there can be “no genuine issue as to any material 
+fact,” since a complete failure of proof concerning 
+an essential element of the nonmoving party's case 
+necessarily renders all other facts immaterial. The 
+moving party is “entitled to judgment as a matter 
+of law” because the nonmoving party has failed to 
+
+08 A etese ee Be 
+
+; 
+j 
+: 
+3 
+4 
+i 
+
+49a 
+
+make a sufficient showing on an essential element of 
+her case with respect to which she has the burden 
+of proof. 
+
+Celotex Corp. v. Catrett, 477 U.S. 317, 322-23 (1986) 
+(emphasis added). 
+
+The parties agree that there are no genuine issues of 
+material fact in dispute and that the matter may properly 
+be disposed of on cross-motions for summary judgment. 
+(Joint Pretrial Stipulation at 13). The parties’ respective 
+claims will be evaluated against this standard. 
+
+IIL. 
+
+Congress enacted the IGRA in 1988. In its opening 
+text, Congress recognized that: 
+
+(1) numerous Indian tribes have become engaged 
+in or have licensed gaming activities on Indian lands 
+as a means of generating tribal governmental reve- 
+nue; ... 
+
+(3) existing Federal law does not provide clear 
+standards or regulations for the codnuct of gaming 
+on Indian lands; 
+
+(4) a principal goal of Federal Indian policy is 
+to promote tribal economic development, tribal self- 
+sufficiency, and strong tribal government; and 
+
+(5) Indian tribes have the exclusive right to reg- 
+ulate gaming activity on Indian lands if the gaming 
+activity is not specifically prohibited by Federal law 
+and is conducted within a State which does not, as a 
+matter of criminal law and public policy, prohibit 
+such gaming activity. 
+
+25 U.S.C. § 2701. The purpose of the IGRA is: 
+
+(1) to provide a statutory basis for the operation 
+of gaming by Indian tribes as a means of promoting 
+tribal economic development, self-sufficiency, and 
+strong tribal governments; 
+
+50a 
+
+(2) to provide a statutory basis for the regulation 
+of gaming by an Indian tribe adequate to shield it 
+from organized crime and other corrupting influ- 
+ences, to ensure that the Indian tribe is the primary 
+beneficiary of the gaming operation, and to assure 
+
+that gaming is conducted fairly and honestly by both 
+
+the operator and players; and 
+
+(3) to declare that the establishment of independ- 
+ent Federal authority for gaming on Indian lands, 
+the establishment of Federal standards for gaming 
+on Indian lands, and the establishment of a National 
+Indian Gaming Commission are necessary to meet 
+congressional concerns regarding gaming and to pro- 
+tect such gaming as a means of generating tribal 
+revenue. 
+
+25 U.S.C. § 2702. 
+
+Basically, the IGRA divides gaming into three classes. 
+Class I gaming “means social games solely for prizes of 
+minimal value or traditional forms of Indian gaming en- 
+gaged in by individuals as a part of, or in connection 
+with, tribal ceremonies or celebrations.” 25 U.S.C. 
+§ 2703(6). Class I gaming is subject to the exclusive 
+jurisdiction of the Indian tribes and is not subject to the 
+regulatory provisions of the IGRA. 25 U.S.C. § 2710 
+
+(a)(1). 
+
+Class II gaming “means the game of chance commonly 
+known as bingo (whether or not electronic, computer, 
+or other technologic aids are used in connection there- 
+with) . . . including (if played at the same location) 
+pull-tabs, lotto, punch boards, tip jars, instant bingo, 
+and games similar to bingo, and card games that (1) 
+are explicitly authorized by the laws of the State or (II) 
+are not explicitly prohibited by the laws of the State and 
+are played at any location in the State,” provided those 
+card games are played under the State laws and regula- 
+tions governing hours of operation and limitations on 
+wagers or pot sizes. 25 U.S.C. § 2703(7)(A). Congress 
+
+S5la 
+
+explicitly excluded “any banking card games, including 
+baccarat, chemin de fer, or blackjack, or . . . electronic 
+or electromechanical facsimilies of any game of chance 
+or slot machines of any kind” from Class II. 25 U.S.C. 
+§ 2703(7)(B). The tribes have jurisdiction over Class 
+If gaming, subject to the requirements of the IGRA and 
+the oversight of the National Indian Gaming Commis- 
+sion. 25 U.S.C. § 2710(b). 
+
+Class III gaming “means forms of gaming that are not 
+class [ gaming or class II gaming.” 25 U.S.C. § 2703(8). 
+The parties agree that the games at issue here (i.e., casino 
+gaming and machine or computer-assisted games) are 
+Class III games. The IGRA states: 
+
+Class III gaming activities shall be lawful on Indian 
+lands only if such activities are— 
+
+(A) authorized [by an approved Tribal] ordi- 
+nance or resolution... , 
+
+(B) located in a State that permits such gaming 
+for any purpose by any person, organization, or 
+entity, and 
+
+(C) conducted in conformance with a Tribal-State 
+compact entered into by the Indian tribe and the 
+State under paragraph (3) that is effect. 
+
+25 U.S.C. §2710(d). In order to engage in Class III 
+gaming activities on tribal land, a tribe must first “re- 
+quest the State in which such lands are located to enter 
+into negotiations for the purpose of entering ito a Tribal- 
+State compact governing the conduct of gaming activities.” 
+25 U.S.C. § 2710(3)(A). The IGRA requires the State 
+to negotiate with the Indian tribe in good faith upon re- 
+ceipt of the tribe’s request. Id. 
+
+Immediately before passage of the IGRA, in the case 
+of California v. Cabazon Band of Mission Indians, 480 
+U.S. 202, 107 S.Ct. 1083 (1987) the Supreme Court 
+established the standard for evaluating requests by Indian 
+
+52a 
+
+tribes to conduct gaming activities on tribal lands. In 
+Cabazon, the State of California objected to the Indian 
+tribe’s operation of bingo games on tribal property. The 
+state argued that the tribe’s bingo operations violated a 
+state penal statute which, while it did not prohibit bingo, 
+imposed prize limits and required the games to be “op- 
+
+erated and staffed by members of designated charitable - 
+
+organizations who may not be paid for their services.” 
+Cabazon, 480 U.S. 205, 107 S.Ct. at 1086. As noted 
+by the Supreme Court, California was a “Public Law 280” 
+state, meaning that Congress had granted California ju- 
+risdiction over specified areas of Indian country within 
+its borders. Section 2 of Pub.L. 280 granted Califor- 
+nia “broad criminal jurisdiction over offenses committed 
+by or against Indians within all Indian country” within 
+California, but Section 4 of Pub.L. 280 granted the state 
+a more limited form of civil jurisdiction. Cabazon, 480 
+U.S. at 207-08, 107 S.Ct. at 1087. Based on this differ- 
+ence in the congressional grant of jurisdiction, the Su- 
+preme Court held: 
+
+when a State seeks to enforce a law within an Indian 
+reservation under the authority of Pub.L. 280, it 
+must be determined whether the law is criminal in 
+nature, and thus fully applicable to the reservation 
+under § 2, or civil in nature, and applicable only 
+as it may be relevant to private civil litigation in 
+state court. 
+
+Cabazon, 480 U.S. at 208, 107 S.Ct. at 1088. 
+
+In Cabazon, the Supreme Court adopted a prohibitory/ 
+regulatory distinction to determine whether the state law 
+governing the conduct at issue fell within Pub.L. 280’s 
+grant of criminal jurisdiction or not. The Court cautioned 
+that the mere fact that “an otherwise regulatory law is 
+enforceable by criminal as well as civil means does not 
+necessarily convert it into a criminal law within the mean- 
+ing of Pub.L. 280.” 480 U.S. at 211, 107 S.Ct. at 1089. 
+Rather, the touchstone is “whether the conduct at issue 
+
+53a 
+
+violates the State’s public policy.” 480 U.S. at 209, 107 
+S.Ct. at 1088. After reviewing the scope of legally per- 
+missible gambling activities within California, the Court 
+concluded that “California regulates rather than prohibits 
+gambling in general and bingo in particular.” 480 U.S. 
+at 211, 107 S.Ct. at 1089. The Court was not pre- 
+sented with, and thus did not address, the situation where 
+a state adopted a regulatory attitude toward some forms 
+of gambling which would fall under the IGRA’s rubric 
+of Class III gaming (e.g., parimutuel betting and a state 
+lottery), but prohibited the specific Class III activities 
+proposed by a tribe. 
+
+Review of the Cabazon decision is basic when inter- 
+preting the IGRA, as Congress incorporated the Cabazon 
+decision into both the statutory language and legislative 
+history of the IGRA. The Senate Report accompanying 
+the IGRA makes explicit reference to the Cabazon de- 
+cision in discussing 25 U.S.C. § 2710(b)(1)(A)’s re- 
+quirement that Class II gaming on Indian property take 
+place only if “located within a State that permits such 
+gaming for any purpose by any person, organization, or 
+entity.” The Senate Report offered the following guid- 
+ance to courts construing that phrase: 
+
+the Committee anticipates that Federal courts will 
+rely on the distinction between State criminal law 
+which prohibit certain activities and the civil laws 
+of a State which impose a regulatory scheme upon 
+those activities to determine whether class IIT games 
+are allowed in certain States. This distinction has 
+been discussed by the Federal courts many times, 
+most recently and notable by the Supreme Court in 
+Cabazon. 
+
+The phrase “for any purpose by any person, organ- 
+ization or entity” makes no distinction between State 
+laws that allow class II gaming for charitable, com- 
+mercial, or governmental purposes, or the nature of 
+
+54a 
+
+the entity conducting the gaming. If such gaming 
+is not criminally prohibited by the State in which 
+tribes are located, then tribes, as governments, are 
+free te engage in such gaming. 
+
+S. Rep. No. 446, 100th Cong., 2d Sess., reprinted in 1988 
+
+U.S.C.C.A.N. 3076, 3082. While the Senate Report re- . 
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+In the instant case, the Tribe argues that the “permits 
+such gaming” provision of the IGRA (i.e., the phrase 
+incorporating Cabazon’s regulatory/prohibitory distinc- 
+tion) refers to the “generic class of gaming permitted in 
+the State.” (Plaintiff's Motion for Summary Judgment at 
+18) (emphasis in original). Under the Tribe’s theory, 
+by allowing one form of Class III gaming, the State has 
+evinced a public policy which is regulatory in nature to- 
+ward all forms of Class III gaming. Following the Tribe’s 
+argument, because the State allows parimutuel facilities 
+
+2 bee ee 
+
+55a 
+
+and the state lottery, all other forms of Class III gaming, 
+such as casinos and machine and computer-assisted games, 
+become mandatory subjects for negotiation of the Tribe- 
+State compact. The State’s admitted refusal to include 
+those forms of Class III activities in the compact negotia- 
+tion would therefore constitute a violation of the good 
+faith requirement imposed upon the State by the IGRA. 
+While we agree that the Cabazon standard should be used 
+in the interpretation of the IGRA Class III provisions, 
+we cannot accept the Tribe’s broad assertion that the 
+State’s permission of specific Class III gaming activities 
+places all Class III activities on the table as subject to 
+negotiation. 
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+proposed by the Indian tribe was in fact permitted by the 
+State. 
+
+The Sisseton-Wahpeton case arose in the context of 
+Class II gaming. The Indian tribe in that case opened a 
+blackjack enterprise on its South Dakota reservation. The 
+tribe argued, first, that its blackjack operation was grand- 
+fathered in as a Class II activity by specific IGRA pro- 
+visions not relevant to the instant case. The tribe further 
+argued that its operations satisfied the IGRA requirement 
+that the activities take place in a state “that permits such 
+gaming for any purpose by any person, organization or 
+
+56a 
+
+entity.” This is the precise phrase in both the Class Il 
+and Class III provisions which is at issue in the instant 
+case. In interpreting that phrase, the court stated that it 
+revealed a congressional intent to permit a “particular 
+gaming activity . . . if the state law merely regulated, as 
+
+opposed to completely barred, that particular gaming ac- . 
+
+tivity.” 897 F.2d at 365 (emphasis added). After con- 
+cluding that South Dakota permitted commercial card 
+games including blackjack, albeit with wage limits and 
+other constraints, the court found that the IGRA’s re- 
+quirement was met and the Indian tribe could lawfully 
+conduct its blackjack operation pursuant to the IGRA. 
+
+In Mashantucket, the United States Court of Appeals 
+for the Second Circuit addressed a similar issue in the con- 
+text of the IGRA provisions governing Class III activities. 
+The Indian tribe sought to operate casino-type games of 
+chance on its reservation in Connecticut. The state re- 
+fused to negotiate a compact for these gaming activities. 
+The district court found that Connecticut statute specifi- 
+cally authorized certain nonprofit organizations to hold 
+Las Vegas nights. Based on this, the district court granted 
+summary judgment in favor of the tribe. In upholding the 
+district court’s decision, the Court of Appeals for the 
+
+Second Circuit stated: 
+
+the district court concluded, after a careful review 
+of pertinent Connecticut law regarding “Las Vegas 
+nights,” that Connecticut “permits games of chance, 
+albeit in a highly regulated form. Thus such gaming 
+is not totally repugnant to the State’s public policy, 
+
+This ruling means only that the State must ne- 
+gotiate with the Tribe concerning the conduct of 
+casino-type games of chance at the Reservation. 
+
+913 F.2d at 1031-32. (emphasis added). 
+
+Finally, in Lac du Flambeau II, the court found that 
+the Wisconsin electorate amended their state’s constitu- 
+
+4 
+
+57a 
+
+tion to allow the state to operate a lottery. Based in part 
+On an opinion by the Wisconsin Attorney General, the 
+court concluded that Wisconsin no longer prohibited 
+games ivolving prize, chance, and consideration, and ruled 
+that all games falling within that category must be in- 
+cluded in the compact negotiation. Thus, the court’s rul- 
+ing was limited to the speciic category of games, albeit 
+a broad category, no longer prohibited by Wisconsin. 
+To some extent, the court in Lac du Flambeau II utilized 
+a different interpretation of Cabazon than the one out- 
+lined above. For example, the court observed: 
+
+If the policy is to prohibit all forms of gambling by 
+anyone, then the policy is characterized as criminal- 
+prohibitory and the state’s criminal laws apply to 
+tribal gaming activity. On the other hand, if the 
+state allows seme forms of gambling, even subject 
+to extensive regulation, its policy is deemed to be 
+civil-regulatory and it is barred from enforcing its 
+gambling laws on the reservation. 
+
+This approach is broader than the one em 
+ployed by the 
+Supreme Court in Cabazon and other courts which ai 
+bp! . Bas ee and, to the extent the court in 
+u eau ased its conclusion on th i 
+we decline to follow its lead.” ewes 
+
+1The Tribe has also argued that the Lac du Flamb 
+sion controlled the ultimate outcome of the gp 4 
+Tribe asserted that the electorate’s amendment of the Florida 
+Constitution to permit a state-run lottery converted the State’s 
+public policy toward all forms of Class III gaming to one which is 
+wholly regulatory in nature. We disagree. First, the Tribe’s 
+argument is premised on the notion that the Court may look only to 
+the State’s Constitution, and not to its statutory law or expressions 
+by its populace, to discern the State’s public policy toward gam- 
+bling. The Tribe has cited nothing and we can find no support for 
+on = — as noted above, the thrust of Cabazon 
+progeny requires a particularized inquiry into the 
+gambling activity (in this case, casino ey i and aa 
+computer-assisted gaming). For example, in Cabazon, where Cali- 
+fornia ran a state lottery and permitted parimutuel betting, the 
+
+58a 
+
+In sum, we can find no convincing support in these 
+cases for the Tribe’s suggestion that a state’s public policy 
+permitting individual Class III activities is somehow 
+equivalent to permitting all Class III gaming activities. 
+Indeed, two other courts recently reached the same con- 
+clusion regarding the “permits such gaming” language and 
+Class III gaming activities. See, Cheyenne River Sioux 
+Tribe v. State of South Dakota, et. al., 1993 WL 316042, 
+No. 93-1224/1521 (8th Cir. August 23, 1993) (Court 
+upheld district court’s ruling that state need not include 
+traditional keno in compact negotiations when state only 
+permitted video keno because the “‘such gaming’ lan- 
+guage of 25 U.S.C. § 2710(d)(1)(B) does not require 
+the state to negotiate with respect to forms of gaming it 
+does not presently permit.”) and Rumsey Indian Ranch- 
+eria of Wintun Indians, et al. v. Governor Pete Wilson, 
+et al., Case No. CIV-S-92-812-GEB at 16, n.16 (E.D. 
+Cal. July 16, 1993) (“This court has found no authority 
+for the proposition that a state’s public policy construed 
+as permitting a single Class III game must be found to 
+permit all Class III gaming activities.”) Thus, we look 
+at the state’s public policy toward the specific gaming 
+activities proposed by the tribes.* 
+
+lower courts and the Supreme Court looked at the state’s public 
+policy regarding bingo, the specific gambling activity at issue. 
+Thus, we do not agree that Lac du Flambeau II dictates the out- 
+come of the instant case, without a review of the State’s public 
+policy toward gambling in general and its public policy toward the 
+specific gaming activities in question. 
+
+2In its motion for summary judgment, the State argued that 
+the different language prefacing the Class II and Class III pro- 
+visions should be the focus of the Court’s analysis of the IGRA. 
+The relevant portions of the IGRA state: 
+An Indian tribe may engage in, or license and regulate, class 
+II gaming on Indian lands within such tribe’s jurisdiction, 
+if—... 
+(A) such Indian gaming is located within a State that 
+permits such gaming for any purpose by any person, or- 
+ganization or entity, ... 
+and: 
+
+59a 
+
+The Tribe has argued alternatively that Florida in fact 
+permits precisely those types of Class III gaming activities 
+which it proposes to operate on Tribal lands. The parties 
+agree that the State explicitly permits parimutuel betting 
+and the state lottery, both of which are Class III games. 
+The Joint Pretrial Stipulation describes in detail these 
+games. For example, there are thirty-five parimutuel fa- 
+cilities throughout the State, including dog and horse 
+facing tracks and jai alai frontons. The State also per- 
+mits simulcast and intertrack betting at the parimutuel 
+facilities. Simulcast involves the transmission of an out- 
+of-state race into Florida or an in-state race out of Flor- 
+ida for betting purposes. Intertrack betting involves the 
+transmission of a race from one Florida parimutuel fa- 
+cility to another for betting purposes. The total amount 
+bet at the State’s thirty-five facilities has been 1.6 billion 
+dollars for the past several years. (Joint Pretrial Stipula- 
+tion at 5-6, 44 7-11). 
+
+Class III gaming activities shall be lawful on Indian lands only 
+if such activities are—... 
+
+(B) located in a State that permits such gaming for any 
+
+purpose by any person, organization, or entity, .. . 
+25 U.S.C. §2710(b) (1) and (d)(1) (emphasis added). The State 
+argues that the use of the term “gaming activities” rather than 
+“gaming” indicates a congressional intent that courts treat Class 
+III as a particularized, rather than a generic group of activities, 
+thereby requiring an activity-by-activity review of the proposed 
+tribal gaming. 
+
+At least one court has concluded that this difference in prefatory 
+language does not create a meaningful distinction between Class 
+II and Class III under the IGRA. See, Mashantucket Peguot Tribe 
+v. State of Connecticut, 913 F.2d 1024, 1030 n.6 (No significance 
+should be accorded to the “modest difference” between the two 
+introductory sections). Because we have concluded that the appli- 
+cation of the Cabazon standard requires a court to examine the 
+State’s public policy regarding the specific activities proposed by 
+the Tribe, we need not address the State’s argument that the 
+prefatory language creates an important distinction between the 
+IGRA’s Class II and Class III provisions. We add, however, that 
+the purported distinction the State would draw between “gaming” 
+and “gaming activities” appears illusory. 
+
+60a 
+
+In addition to accepting bets placed at parimutuel fa- 
+cility windows staffed by facility employees, fifteen facili- 
+ties use SAMS. SAMS are automated machines which 
+permit a bettor to enter his bet by inserting money, vouch- 
+ers, or credit cards into the machine, thereby enabling 
+him to select the number or combination he wishes to 
+purchase. A ticket is issued showing those numbers. 
+Those numbers may be selected by bettors who handicap 
+races or those who choose numbers or combinations with- 
+out handicapping the race. A ticket showing a winning 
+number or combination of numbers will entitle the holder 
+to receive money in exchange for the ticket. (Joint Pre- 
+trial Stipulation at 6, 4 12). 
+
+Florida’s state-wide lottery has a total in annual ticket 
+sales of approximately two billion dollars. There are 
+approximately 12,000 retail lottery sites throughout the 
+State, and each retail site is operated by one or more 
+persons trained by the State to operate the machine ter- 
+minals which are installed at the sites. The on-line lot- 
+tery games are Cash 3, Play 4, Fantasy 5, and Lotto. 
+Each of these games uses machine terminals installed at 
+the retail site. To play, a player selects his numbers either 
+by marking the numbers of his choice or by marking the 
+Quick Pick box on the play slip, a three by nine inch 
+card which is inserted in the machine terminal. If Quick 
+Pick is marked, the machine selects the numbers. In 
+either event, the chosen numbers are transmitted to and 
+recorded by the lottery’s main computer in Tallahassee 
+and the retail terminal prints out the lottery ticket con- 
+taining the selected numbers. Alternatively, a player can 
+verbally select either the numbers of his choice or the 
+Quick Pick option to be entered into the machine by hand. 
+Retailers and employees are permitted to operate machine 
+terminals for their own purchases of lottery tickets. The 
+winning numbers are chosen by an air blowing device 
+which ensures the random selection of white numbered 
+balls. A ticket showing a winning combination of num- 
+bers entitles the holder to receive money in exchange for 
+the ticket. (Joint Pretrial Stipulation at 6-7, 44 13-16). 
+
+6la 
+
+It is clear, therefore, that some Class III gaming is 
+“not totally repugnant to” Florida’s public policy, Mashan- 
+tucket, 913 F.2d at 1031, as the State allows, although 
+with regulations, parimutuel betting and the Florida lot- 
+tery. The Tribe, however, argues that the State already 
+permits precisely those Class III activities in which it 
+wishes to engage. Specifically, the Tribe points to the 
+State’s alleged permission of charity casino nights, gam- 
+bling cruises operated by foreign flag vessels out of Flor- 
+ida ports, and the use of computer or machine-assisted 
+gaming in conjunction with parimutuel betting and the 
+State lottery. The Tribe asserts that the State’s permission 
+of these activities indicates a regulatory, rather than a 
+prohibitory, public policy toward these games, thereby 
+making them mandatory subjects of negotiation between 
+the Tribe and the State. Before addressing these argu- 
+ments, it is helpful to examine Florida’s public policy 
+toward other types of Class III activities in order to place 
+the Tribe’s argument in its proper context. 
+
+The Florida penal code prohibits now, and has for 
+many years barred a broad range of gambling activities. 
+Fla. Stat. Anno. § 849.08 (West 1976) prohibits gam- 
+bling in general, and provides: 
+
+Whosoever plays or engages in any game at cards, 
+keno, roulette, faro or other game of chance, at any 
+place, by any device whatever, for money or other 
+thing of value, shall be guilty of a misdemeanor of 
+the second degree, punishable as provided in 
+§ 775.082 or § 775.083. 
+
+Other sections of the Florida penal code prohibit various 
+activities associated with or attendant to gambling. For 
+example, § 849.01 prohibits the keeping of a gambling 
+house,* § 849.02 makes an individual acting as a “serv- 
+
+3 Fla. Stat. Anno. § 849.01 (West 1976) states: 
+Whoever by himself, his servant, clerk or agent, or in any other 
+manner has, keeps, exercises or maintains a gaming table or 
+room, or gaming implements or apparatus, or house, booth, 
+
+62a 
+
+ant, clerk, agent, or employee” of a person in violation 
+of § 849.01 guilty of the same offense,* § 849.03 pro- 
+hibits the renting of a house or room for gambling pur- 
+poses,® § 849.11 prohibits plays at games of chance by 
+lot,® § 849.14 prohibits betting on the outcome of con- 
+test of skill,’ and § 849.04 makes it illegal to allow a 
+
+tent, shelter or other place for the purpose pf gaming or gam- 
+bling or in any place of which he may directly or indirectly 
+have charge, control or management, either exclusively or with 
+others, procures, suffers or permits any person to play for 
+money or other valuable thing at any game whatever, whether 
+heretofore prohibited or not, shall be guilty of a felony of the 
+third degree, punishable as provided in § 775.082, or § 775.084. 
+
+‘Fla. Stat. Anno. § 849.02 (West 1976) states: 
+
+Whoever acts as servant, clerk, agent, or employee of any 
+person in the violation of § 849.01 shall be punished in the 
+manner and to the extent therein mentioned. 
+
+5 Fla. Stat. Anno. § 849.03 (West 1976) states: 
+
+Whoever, whether as owner or agent, knowingly rents to 
+another a house, room, booth, tent, shelter or place for the 
+purpose of gaming shall be punished in the manner and to 
+the extent mentioned in § 849.01. 
+
+® Fla. Stat. Anno. § 849.11 (West 1976) states: 
+
+Whoever sets up, promotes or plays at any game of chance 
+by lot or with dice, cards, numbers, hazards or any other 
+gambling device whatever for, or for the disposal of money 
+or other thing of value or under the pretext of a sale, gift, 
+or delivery thereof, or for any right, share or interest therein, 
+shall be guilty of a misdemeanor of the second degree, punish- 
+able as provided in § 775.082 or § 775.083. 
+
+7 Fla. Stat. Anno. § 849.14 (West 1976) states: 
+
+Whoever stakes, bets or wagers any money or other thing of 
+value upon the result of any trial or contest of skill, speed 
+or power or endurance of man or beast, or whoever receives 
+in any manner whatsoever any money or other thing of value 
+staked, bet or wagered, or offered for the purpose of being 
+staked, bet or wagered, by or for any other person upon any 
+such result, or whoever knowingly becomes the ‘custodian or 
+depositary of any money or other thing of value so staked, 
+bet, or wagered upon any such result, or whoever aids, or 
+
+63a 
+
+minor or mentally incompetent individual to gamble.* 
+Section 849.05 makes the discovery of gambling devices 
+prima facie evidence that the location where they were 
+found is kept for the purposes of gambling.’® Section 
+849.07 prohibits the use of billiards tables for gambling 
+purposes.” In addition, § 849.231(1) prohibits the man- 
+
+ufacture, sale, purchase, or possession of gambling de- 
+
+assists, or abets in any manner in any of such acts all of which 
+are hereby forbidden, shall be guilty of a misdemeanor of the 
+second degree, punishable as provided in § 775.082 or § 775.083. 
+
+5 Fla. Stat. Anno. § 849.04 (West Supp. 1993) states: 
+
+Whoever being the proprietor, owner or keeper of any E.O., 
+keno ar pool table, or billiard table, wheel of fortune, or any 
+other game of chance, kept for the purpose of betting, will- 
+fully and knowingly allows any minor or any person who is 
+mentally incompetent or under guardianship to play at such 
+game or to bet on such game of chance or whoever aids or 
+abets or otherwise encourages such playing or betting of any 
+money or other valuable thing upon the result of such game 
+of chance by any minor or any person who is mentally incom- 
+petent or under guardianship shall be guilty of a felony of the 
+third degree, punishable as provided in § 775.082, § 775.083, or 
+§ 775.084. For the purpose of this section, a “mentally incom- 
+petent person” is one who because of mental illness, mental 
+retardation, senility, excessive use of drugs or alcohol, or 
+other mental incapacity is incapable of either managing his 
+property or caring for himself or both. 
+
+* Fla. Stat. Anno. § 849.05 (West Supp. 1993) states: 
+
+If any of the implements, devices or apparatus commonly used 
+in games of chance in gambling houses or by gamblers, are 
+found in any house, room, booth, shelter or other place it shall 
+be prima facie evidence that the said house, room, booth, 
+shelter or other place where the same are found is kept for the 
+purpose of gambling. 
+
+10 Fla. Stat. Anno. § 849.07 (West 1976) states: 
+
+If any holder of a license to operate a billiard or pool table 
+shall permit any person to play billiards or pool or any other 
+game for money, or any other thing of value, upon such tables, 
+he shall be deemed guilty of a misdemeanor of the second 
+degree, punishable as provided in § 775.082 or § 775.083. 
+
+64a 
+
+vices,"’ § 849.26 provides that all gambling debts or con- 
+tracts are void,” and § 849.12 provides for the forfeiture 
+to the State of money and prizes won through illegal 
+gambling.” 
+
+11 
+
+13 
+
+Fla. Stat. Anno. § 849.231(1) (West 1976) states: 
+
+Except in instances when the following described implements 
+or apparatus are being held or transported by authorized per- 
+sons for the purpose of destruction, as hereinafter provided, 
+and except in instances when the following described instru- 
+ments or apparatus are being held, sold, transported, or manu- 
+factured by persons who have registered with the United States 
+Government pursuant to the provisions of Title 15 of the 
+United States Code, sections 1171 et seq., as amended, so long 
+as the described implements or apparatus are not displayed 
+to the general public, sold for use in Florida, or held or manu- 
+factured in contravention of the requirements of 15 U.S.C. 
+§ 1171 et seq., it shall be unlawful for any person to manu- 
+facture, sell, transport, offer for sale, purchase, own, or have 
+in his possession any roulette wheel or table, faro layout, crap 
+table or layout, chuck-a-luck wheel, bird cage such as used for 
+gambling, bolita balls, chips with house markings, or any 
+other device, implement, apparatus, or paraphernalia ordinarily 
+or commonly used or designed to be used in the operation of 
+gambling houses or establishments, excepting ordinary dice 
+and playing cards. 
+
+Fla. Stat. Anno. § 849.26 states: 
+
+All promises, agreements, notes, bills, bonds or other contracts, 
+mortgages or other securities, when the whole or part of the 
+consideration if for money or other valuable thing won or lost, 
+laid, staked, betted or wagered in any gambling transaction 
+whatsoever, regardless of its name or nature, whether hereto- 
+fore prohibited or not, or for the repayment of money lent or 
+advanced at the time of a gambling transaction for the pur- 
+pose of being laid, betted, staked or wagered, are void and of no 
+effect; provided, that this acts shall not apply to wagering on 
+pari-mutuels or any gambling transaction expressly authorized 
+by law. 
+
+Fla. Stat. Anno. § 849.12 (West 1976) states: 
+
+All sums of money and every other valuable thing, drawn and 
+won as a prize, or as a share of a prize, or as a share, per- 
+centage or profit of the principal promoter or operator, in any 
+lottery, and all money, currency or property of any kind to 
+
+65a 
+
+Certain games which would otherwise be Class III 
+games are exempted from this statutory scheme. These 
+
+are 
+
+14 
+
+limited, however, to games played in residences for 
+
+less than $10,"* drawings by chance held by charitable or- 
+
+be disposed of, or offered to be disposed of, by chance or de- 
+vice in any scheme or under any pretext by any person, and 
+all sums of money or other thing of value received by any 
+person by reason of his being the owner or holder of any 
+ticket or share of a ticket in a lottery, or pretended lottery, 
+or of a share or right in any such schemes of chance or device 
+and all sums of money and other thing of value used in the 
+setting up, conducting or operation of a lottery, and all money 
+or other thing of value at stake, or used or displayed in or 
+in connection with any illegal gambling shall be forfeited, and 
+may be recovered by civil proceedings, filed, or by action for 
+money had and received, to be brought by the Department 
+of Legal Affairs or any state attorney, or other prosecuting 
+officer, in the circuit courts in the name and on behalf of the 
+state; the same to be applied when collected as all other penal 
+forfeitures are disposed of. 
+
+Fla. Stat. Anno. § 849.085 (West Supp. 1993) states: 
+
+(1) Notwithstanding any other provision of law, it is not a 
+crime for a person to participate in a game described in this 
+section if such game is conducted strictly in accordance with 
+this section. 
+
+(2) As used in this section: 
+
+(a) “Penny-ante game” means a game or series of games or 
+poker, pinochle, bridge, rummy, canasta, hearts, dominoes, or 
+mah-jongg in which the winnings or any player in a single 
+round, hand, or game do not exceed $10 in value. 
+
+(b) “Dwelling” means residential premises owned or rented 
+by a participant in a penny-ante game and occupied by such 
+participant or the common elements or recreational areas or a 
+condominium or mobile home park of which a participant in 
+a penny-ante game is a unit owner, or the facilities of an 
+organization which is tax exempt under §501(c)(7) of the 
+Internal Revenue Code. The term “dwelling” also includes a 
+college dormitory room or the common recreational area of a 
+college dormitory or a publicly owned community center owned 
+by a municipality or county. 
+
+(3) A penny-ante game is subject to the following restrictions: 
+
+66a 
+
+ganizations,“ and promotions in connection with the sale 
+
+(a) The game must be conducted in a dwelling. 
+
+(b) A person may not receive any consideration or commission 
+for allowing a penny-ante game to occur in his dwelling. 
+
+(c) A person may not directly or indirectly charge admission 
+
+or any other fee for participation in the game. 
+
+(d) A person may not solicit participants by means of adver- 
+tising in any form, advertise the time or place of any penny- 
+ante game, or advertise the fact that he will be a participant 
+in any penny-ante game. 
+
+(e) A penny-ante game may not be conducted in which any 
+participant is under 18 years of age. 
+
+(4) A debt created or owed as a consequence of any penny- 
+ante game is not legally enforceable. 
+
+(5) The conduct of any penny-ante game within the common 
+elements or recreation area of a condominium or mobile home 
+park or the conduct of any penny-ante game within the dwell- 
+ing of an eligible organization as defined in subsection (2) 
+or within a publicly owned community center owned by a 
+municipality or county creates no civil liability for damages 
+arising from the penny-ante game on the part of a condo- 
+minium association, mobile home owner’s association, dwelling 
+owner, or municipality or county or on the part of a unit 
+owner who was not a participant in the game. 
+
+15 Fla. Stat. Anno. § 849.0935 (West Supp. 1993) states: 
+
+(1) As used in this section, the term: 
+
+(a) “Drawing by chance” or “drawing” means an enterprise 
+in which, from the entries submitted by the public to the 
+operator of the drawing, one or more entries are selected 
+by chance to win a prize. The term “drawing” does not in- 
+clude those enterprises commonly known as “matching,” “in- 
+stant winner,” or “preselected sweepstakes,” which involve the 
+distribution of winning numbers, previously designated as such, 
+to the public. 
+
+(b) “Operator” means an organization qualified under 26 
+
+U.S.C. §501(c) (3), and its agents, officers, or employees, 
+which promotes, operates, or conducts a drawing by chance. 
+
+(2) The provision of § 849.09 shall not be construed to pro- 
+hibit an organization qualified under 26 U.S.C. § 506(c) (3) 
+
+67a 
+
+from conducting drawings by chance, provided the operator 
+has complied with all applicable provisions of chapter 496. 
+
+(3) All brochures, advertisements, notices, tickets, or entry 
+blanks used in connection with a drawing by chance shall 
+conspicuously disclose: 
+
+(a) The rules governing the conduct and operation of the 
+drawing. 
+
+(b) The full name of the organization or operator, and its 
+principal place of business. 
+
+(ec) The source of funds used to award cash prizes or to pur- 
+chase prizes, 
+
+(d) The date, hour, and place where the winner will be chosen, 
+unless the brochures, advertisements, notices, tickets, or entry 
+blanks are not offered to the public more than 8 days prior 
+to the drawing. 
+
+(4) It is unlawful for any operator who, pursuant to the 
+authority granted by this section, promotes, operates, or con- 
+ducts a drawing by chance: 
+
+(a) To design, engage in, promote, or conduct any drawing 
+in which the winner is predetermined by means of matching, 
+instant win, or preselected sweepstakes or otherwise or in 
+which the selection of the winners is in any way rigged; 
+
+(b) To require an entry fee, payment, proof of purchase, or 
+contribution as a condition of entering the drawing or of 
+being selected to win a prize; 
+
+(c) To arbitrarily remove, disqualify, disallow, or reject 
+any entry or to discriminate in any manner between entrants 
+who gave contributions to the operator and those who did not 
+give such contributions; 
+
+(d) To fail to promptly notify, at the address set forth on 
+the entry blank, any person whose entry is selected to win, 
+of the fact that he has won; 
+
+(e) To fail to award all prizes offered in the manner and at 
+the time stated; and 
+
+(f) To print, publish, or circulate literature or advertising 
+material used in connection with the drawing which is false, 
+deceptive, or misleading. 
+
+(5) Any operator who engages in any act or practice in vio- 
+lation of this section is guilty of a misdemeanor of the second 
+degree, punishable as provided in § 775.082 or § 775.083. How- 
+
+68a 
+
+of consumer goods.” 
+
+These wide-ranging statutory prohibitions are not the 
+only evidence of the State’s public policy toward gam- 
+
+ever, any operator or other person who sells or offers for sale 
+in this state a ticket or entry blank for a raffle or other draw- 
+ing by chance, without complying with the requirements of 
+paragraph (8) (d), is guilty of a misdemeanor of the second 
+degree, punishable by fine only as provided in § 775.083. 
+
+(6) This section does not apply to the state lottery operated 
+pursuant to chapter 24. 
+
+16 Fla. Stat. Anno. § 849.094 (West Supp. 1993) states in pertinent 
+part: 
+(1) As used in this section, the term: 
+
+(a) “Game promotion” means, but is not limited to, a con- 
+test, game of chance, or gift enterprise, conducted within or 
+throughout the state and other states in connection with the 
+sale of consumer products or services, and in which the ele- 
+ments of chance and prize are present. However, “game pro- 
+motion” shall not be construed to apply to bingo games con- 
+ducted pursuant to § 849.0931. 
+(b) “Operator” means any person, firm, corporation, or asso- 
+ciation or agent or employee thereof who promotes, operates, 
+or conducts a game promotion, except any charitable nonprofit 
+organization. 
+(2) It is unlawful for any operator: 
+(a) To design, engage in, promote, or conduct such a game 
+promotion, in connection with the promotion or sale of -con- 
+sumer products or services, wherein the winner may be pre- 
+determined or the game may be manipulated or rigged so as to: 
+1. Allocate a winning game or any portion thereof to 
+certain lessees, agents, or franchises; or 
+2. Allocate a winning game or any part thereof to a 
+particular period of the game promotion or to a particular geo- 
+graphic area; 
+(b) Arbitrarily to remove, disqualify, disallow or reject any 
+entry; 
+(c) To fail to award prizes offered; 
+(d) To print, publish, or circulate literature or advertising 
+material used in connection with such game promotions which 
+is false, deceptive, or misleading; or 
+(e) To require an entry fee, payment, or proof of purchase 
+as a condition of entering a game promotion. 
+
+69a 
+
+bling. The State’s voters have twice rejected referenda 
+which would have legalized casino gambling. In 1986, 
+the most recent referendum, the Florida electorate ap- 
+proved the State lottery by a two-to-one margin but re- 
+jected casino gambling by the same margin. (Defend- 
+ants’ Motion for Summary Judgment, Ex. #3). In ad- 
+dition, the Florida Legislature has failed to pass several 
+bills over the past few years which would have permitted 
+charity casino night activities. (Joint Pretrial Stipulation 
+at 9, § 20). 
+
+As noted above, the permission of parimutuel betting 
+and the operation of the State lottery indicates that some 
+Class III activities are not repugnant to the State. How- 
+ever, both the Legislature and the State electorate have 
+evinced their unwillingness to allow all but a few forms 
+of Class III activities and those which are allowed are 
+subject to strict regulation. With this in mind, we turn 
+now to the Tribe’s argument that the State in fact permits 
+precisely those Class III activities about which the State 
+refused to negotiate. 
+
+The Tribe first argues that the failure to prosecute 
+casino nights held by some Florida charities reflects the 
+State’s permission of casino gambling. The following 
+facts are not in dispute. Over the past three years, cer- 
+tain Florida charities have conducted casino or Las Vegas 
+nights. These events include the use of blackjack tables, 
+roulette wheels, crap tables, and other casino-like equip- 
+ment. The events’ patrons make a contribution to the 
+sponsoring charitable organization and are given casino- 
+like chips to be used to play the available casino-style 
+games. At the end of the evening, the players may then 
+use their chips to purchase or bid on gifts which have 
+been donated to or purchased by the charity. (Joint Pre- 
+trial Stipulation at 8, 4 17). The Tribe submitted a list 
+under seal of twenty-nine casino nights held during the 
+period 1990-1992. Of these events, fifteen were held in 
+Broward County, four in Dade County, six in Palm Beach 
+
+70a 
+
+County, and one in both Collier and Martin Counties.” 
+On March 23, 1993, the Tribe submitted a list of four 
+more such events held in Broward County. 
+
+Additionally, The Florida Attorney General’s office has 
+
+had ten to fifteen calls about charitable casino nights _ 
+
+within the past four years, asking about events where 
+there would be casino-like gambling. The Attorney Gen- 
+eral’s office received information regarding names of firms 
+offering to sponsor these events and passed that informa- 
+tion to the appropriate local states’ attorneys offices. The 
+Attorney General’s office never learned if any action 
+was taken at the local level and did not follow up to 
+determine if anything illegal was discovered. (Joint Pre- 
+trial Stipulation at 8, 4 18). 
+
+On July 22, 1991, the Florida Attorney General wrote 
+to each of the twenty State Attorneys informing them 
+of the Tribe’s compact request and stating: 
+
+17 To obtain this list, the Tribe initially filed a motion to compel, 
+and later a renewed motion to compel, against the promoter of 
+these events. The Court referred these motions to United States 
+Magistrate Judge Ted E. Bandstra to resolve. On November 6, 
+1992, Magistrate Judge Bandstra granted the Tribe’s renewed 
+motion to compel. Subsequently, the Tribe and the events’ pro- 
+moter reached an agreement whereby the list of the events was 
+filed under seal with the Court on November 27, 1992, pursuant 
+to the Joint Stipulation of Resolution of Seminole Tribe of Florida’s 
+Motion to Compel and Plaintiff’s Renewed Motion to Compel Testi- 
+mony and Production from [the Promoter] and Withdrawal of 
+Motion. 
+
+In the Tribe’s Notice of Filing Under Seal a List of 29 Charitable 
+Las Vegas Night Events accompanying the actual list, the Tribe 
+indicated that in his order of November 6, 1992, Magistrate Judge 
+Bandstra’s found that the promoter faced no threat of prosecution 
+based on the disclosure of the list of casino night events. We as- 
+sume that the Tribe points this out to support its contention that 
+a State Attorney’s failure to prosecute casino night events consti- 
+tutes permission of casino gambling. The promoter filed. an objec- 
+tion to the characterization of Magistrate Judge Bandstra’s order. 
+We specifically disregard any suggestions in the Tribe’s Notice, 
+and take notice only of the contents of the list filed under seal. 
+
+Tila 
+
+{The Tribe] may also attempt to establish full 
+fledged gambling casinos. The Seminoles justify 
+these proposed activities in part on the fact that 
+“casino nights” or “Las Vegas nights” are openly 
+conducted by various charitable and non-profit or- 
+ganizations in Florida despite the clear prohibition 
+against such activity outlined in Chapter 849, Flor- 
+ida Statutes (1989). Of great concern to me is the 
+perception among some members of the law enforce- 
+ment community, including prosecutors, that Casino 
+Night or Las Vegas Night activities are lawful. This 
+is simply not true. The people of Florida have re- 
+peatedly rebuffed attempts to legitimize casino type 
+gambling. 
+
+On at least two occasions prior to the State Attorney 
+General’s letter, State Attorneys had written letters pro- 
+viding opinions that permit casino or Las Vegas nights 
+under certain circumstances. The above quoted letter 
+from the Attorney General was prompted by one of those 
+State Attorney letters. The Attorney General received 
+responses from three other State Attorneys agreeing with 
+and supporting the letter’s statement that casino night ac- 
+tivities are illegal. (Joint Pretrial Stipulation at 8, 4 18). 
+The Attorney General’s office, both present and past, has 
+consistently taken the position, through formal and in- 
+formal opinions, that casino night activities are illegal. 
+(Joint Pretrial Stipulation at 8, 4 18.1). The parties have 
+stipulated that the casino night activities described above 
+are not generally prosecuted due to budgetary and man- 
+power constraints and the exercise of prosecutorial dis- 
+cretion on the part of state attorneys. (Joint Pretrial Stip- 
+ulation, 4 21). 
+
+The Tribe has argued that the failure to prosecute 
+charitab'e casino nights by local state attorneys is analo- 
+gous to the situation in Mashantucket supra. We disagree. 
+The Tribe is correct that the Mashantucket case centered 
+on the operation of casino night activities by charitable 
+
+72a 
+
+organizations in Connecticut. However, in that case, Con- 
+necticut, unlike Florida, officially sanctioned the opera- 
+tion of casino nights by way of statute. In contrast, the 
+Tribe relies only on the discretionary decision not to 
+prosecute sporadic casino night activities to evince the 
+
+State’s permission of casino gambling activities, notwith-- 
+
+standing the State Legislature’s clear prohibitory declara- 
+tion in the promulgation of its penal code. 
+
+The prosecutorial discretion involved in the enforce- 
+ment of crimes is certainly one component in a state’s 
+public policy. The capacity to discern public policy, how- 
+ever, from the discretionary exercise of prosecutorial 
+power is exceedingly difficult. The undisputed facts evi- 
+dencing a strong public policy against casino-type activi- 
+ties cannot be substantially undermined by occasional and 
+sporadic decisions made on a local level not to prosecute 
+a discrete casino night conducted by a charity, due to 
+manpower, financial constraints, and higher criminal pri- 
+orities. First, the State Attorney General has emphasized 
+repeatedly and over extended periods of time, in formal 
+and informal opinions, that these activities remain il- 
+legal **, and the Florida penal code is plain and unam- 
+
+18 For example, in response to the question of whether a “Law 
+[sic] Vegas” party staged by a fraternal organization for the bene- 
+fit of a crippled children’s home was legal, the State Attorney Gen- 
+eral responded: 
+
+The gambling laws make no exceptions in favor of fraternal 
+orders of persons who participate in gambling schemes oper- 
+ated by such orders, even when the ultimate beneficiary is a 
+worthy one. Said laws bear upon everybody equally and take 
+no cognizance of who is to benefit from the operation of gam- 
+bling schemes. 
+
+Therefore your question is answered in the negative because 
+in my opinion the described “Las Vegas” party would violate 
+the criminal laws of Florida. 
+
+Op. Att’y. Gen. 056-20 (1956). (Exh. I, Defendants’ ‘Motion for 
+
+Summary Judgment). As noted above, the State Attorney General 
+recently reaffirmed this position in a letter sent out to all State 
+
+73a 
+
+biguous on its face prohibiting these activities. Indeed, 
+the parties have stipulated that the “Attorney General’s 
+office, both present and past, has consistently taken the 
+position through formal and informal opinions that casino 
+night activities are illegal.” (Joint Pretrial Stipulation at 
+p. 9, 4 18.1). 
+
+Second, the State electorate and its representatives have 
+continuously rejected attempts to legalize casino gambling. 
+(Joint Pretrial Stipulation at 9, 4 20). For example, the 
+State’s voters twice rejected referenda to legalize casino 
+gambling. Most recently, in 1986, a proposed amend- 
+ment to the Florida Constitution to allow casino gambling 
+in hotels of 500 rooms or more was defeated by a two-to- 
+one margin. (Defendant’s Motion to Summary Judgment, 
+Ex. 9). In addition, charity casino nights have also been 
+the subject of several bills in the Florida legislature, and 
+none of the bills have passed. (Joint Pretrial Stipulation 
+at 9, 4 20). 
+
+Finally, desuetude has been reejected as a general theory 
+of legislation by the Florida Supreme Court. In State 
+v. Egan, 287 So.2d 1 (Fla. 1973), the defendant was 
+charged with the common-law offense of nonfeasance. The 
+defendant was indicted pursuant to a Florida statute which 
+explicitly adopted English common law in relation to 
+crimes, with certain exceptions, as the law of the State. 
+The trial court ruled that the statute in question was 
+unconstitutional on the grounds of vagueness and obsoles- 
+cence, and the Florida Supreme Court reversed. It is the 
+Florida Supreme Court’s discussion of the argument re- 
+
+Attorneys. This letter, written in reaction to two opinions from 
+local state attorneys that such activities were legal, states: 
+
+Of great concern to me is the perception among some mem- 
+bers of the law enforcement community, including prosecu- 
+tors, that Casino Night or Las Vegas Night activities are 
+lawful. This is simply not true. The people of Florida have 
+repeatedly rebuffed attempts to legitimize casino type gambling. 
+
+(Joint Pretrial Stipulation at 9, 7 18). 
+
+74a 
+
+garding the obsolescence of the state statute which is rele- 
+vant to the instant case. In rejecting the argument that 
+the infrequent use of common law crimes to prosecute in- 
+dividuals had caused those crimes to cease to exist, the 
+Florida Supreme Court observed: 
+
+Our answer to this line of argument is that a legisla- 
+tive enactment may be repealed only by further legis- 
+lation and not by time or changed conditions. .. . 
+Simply stated, the general rule is that a statute is 
+not repealed by nonuse. The argument set forth in 
+the order of the lower court may be a cogent one 
+when addressed to the legislature, yet courts of jus- 
+tice cannot and do not recognize such a policy as 
+a basis for their decision. 
+
+287 So.2d at 7. The Tribe’s argument that the failure of 
+local prosecutors to prioritize and prosecute sporadic and 
+apparently infrequent casino night activities converts an 
+activity expressly prohibited by the penal code of the 
+State into one which is permitted by the public policy 
+of the State resembles the argument presented to and 
+rejected by the Florida Supreme Court. 
+
+The record before the Court consists of a total of some 
+thirty-three events held in four countries over a three 
+year period. In a state with sixty-seven counties and 
+more than thirteen million inhabitants, we do not believe 
+that this evinces a public policy permitting casino gam- 
+bling, especially when contrasted with the State’s unam- 
+biguous penal statutes, the consistent prohibitory opinions 
+of the State Attorney General over time, and the repeated 
+votes of the State’s electorate and its legislators prohibit- 
+ing and rejecting casino gambling. The most that can 
+be said regarding charitable casino night activities in 
+Florida is that some State Attorneys in some counties 
+
+on some occasions have chosen to prosecute other crimes _ 
+
+as having higher priority, rather than the sporadic casino 
+night event, based on the resources available to them. 
+
+75a 
+
+Based on the record before us, and viewing the evidence 
+in the light most favorable to the Tribe, we do not be- 
+lieve that the sporadic decision to decline to prosecute 
+the occasional casino night in a handful of Florida coun- 
+ties can be said to constitute the State’s permission of 
+casino gambling. The Florida Legislature has plainly 
+pronounced the public policy of the State, the people of 
+the State have recently spoken twice, and the State At- 
+torney Generals have repeatedly and consistently pro- 
+nounced in formal and informal opinions that such casino 
+night activities are illegal. The overwhelming weight of 
+the evidence presented does not support the Tribe’s posi- 
+tion. 
+
+The Tribe also points to the fact that cruise ships 
+docked in Florida possess gambling devices and embark 
+passengers from Florida ports for the purpose of provid- 
+ing casino gaming for those passengers and that this too 
+evinces a public policy toward casino gambling which 
+is regulatory, rather than prohibitory, in nature. Several 
+of these ships provide only day cruises with no destina- 
+tion other than the high seas for gambling purposes. It 
+is these cruises on which the Tribe grounds its argument. 
+While Fla. Stat. Anno. §$ 849.231(1) (West 1976) pro- 
+hibits the possession of gambling paraphernalia, the ships 
+at issue are expressly exempted from the prohibition by 
+Fla. Stat. Anno. § 849.231(3) (West Supp. 1993). (Joint 
+Pretrial Stipulation at 9, 419). However, notably no 
+gambling occurs nor is it permitted within the territorial 
+bounds of the State. 
+
+The Tribe argues nevertheless that the State’s collec- 
+tion of a tax on these cruises manifests a public policy 
+of permitting casino gambling. The State collects the 
+tax pursuant to Fla. Stat. Anno. § 212.02(1) (West Supp. 
+1993). That statute provides in pertinent part: 
+
+The term “admissions” means and includes the net 
+sum of money after deduction of any federal taxes 
+for admitting a person or vehicle or persons to any 
+
+76a 
+
+place of amusement, sport, or recreation or for the 
+privilege of entering or staying in any place of 
+amusement, sport, or recreation, including, but not 
+limited to, theaters, outdoor theaters, shows, exhibi- 
+tions, games, races, or any place where charge is 
+made by way of sale of tickets, gate charges, seat 
+charges, greens fees, participation fees, entrance fees, 
+or other fees or receipts of anything of value meas- 
+ured on an admission or entrance or length of stay 
+or seat box accommodations in any place where 
+there is any exhibition, amusement, sport, or recre- 
+ation... 
+
+Section 212.04 provides, in pertinent part: 
+
+(1)(a) It is hereby declared to be the legislative 
+intent that every person is exercising a taxable privi- 
+lege who sells or receives anything of value by way 
+of admissions. 
+
+(b) For the exercise of such privilege, a tax is levied 
+at the rate of 6 per cent of sales price, or the actual 
+value received from, such admissions, which 6 per 
+cent shall be added to and collected with all such 
+admissions from the purchaser thereof. . . 
+
+Thus, the State collects a tax on these cruises pursuant 
+to its broadly applicable admissions tax, a tax which 
+applies to the many forms of amusement, sport, or recre- 
+ation based in the State. The admissions tax is charged 
+to customers of these cruises because these excursion 
+tours are not considered “a transportation service.” 
+(Plaintiff's Supplemental Motion for Summary Judgment 
+at 6). It should be observed, however, that the tax is 
+not leveled at the gambling enterprise per se, i.e., the 
+amount of tax collected is wholly independent of the 
+amount of gambling, if any, done on the high seas by an 
+individual passenger. Indeed, a passenger who does not 
+participate in the gambling activities offered onboard 
+pays the same admissions tax as the passenger who does 
+
+T7a 
+
+participate. Moreover, the Tribe’s interpretation of this 
+tax in relation to the IGRA’s requirements is overly 
+broad. Each case interpreting the IGRA which found 
+state permission of a Class III gaming activity presented 
+some form of explicit legislative approval of the activity 
+within the state’s territory. The Tribe’s theory would 
+seem to place an affirmative duty on a state to eradicate 
+means by which its citizens could legally gamble in other 
+jurisdictions in order to demonstrate a public policy pro- 
+hibiting Class III activities.® For the same reason, the 
+Tribe’s argument that the State’s continued allowance 
+of these cruises to use its ports must fail, especially in 
+light of the fact that no gambling occurs within the State’s 
+boundaries. Thus, even when viewing the evidence before 
+the Court in the light most favorable to the Tribe, we 
+conclude that these cruises by foreign flag vessels cannot 
+be fairly said to constitute permission of casino gambling 
+by the State within the State and within the ambit of the 
+IGRA. 
+
+Finally, we turn to the Tribe’s argument that the State 
+permits machine and computer-assisted gaming. The 
+State’s position is that Fla. Stat. Anno. §§ 849.15 and 
+849.16 (West & Supp. 1993) outlaw certain machines 
+commonly known as slot machines. Therefore, this type 
+of machine and computer-assisted gaming need not by 
+[sic] included in the Tribe-State compact negotiations. The 
+Tribe asserts that the machines used at some parimutuel 
+facilities and in the operation of the Florida Lottery 
+fall within the definition of Fla. Stat. Anno. § 849.16 
+
+19 A hypothetical may be illustrative. Imagine that an individual 
+who owns casinos in New Jersey operated an airline with sched- 
+uled flights from Miami to Atlantic City for the sole purpose of 
+bringing players to his halls. Passengers who bought their air- 
+plane tickets in Florida would pay the applicable sales tax to the 
+State. Under the Tribe’s theory, this would constitute the State’s 
+permission of gambling under the IGRA, a conclusion which is 
+supported by neither the language of the IGRA nor the cases 
+interpreting that statute. 
+
+78a 
+
+(West Supp. 1993), and therefore the State “permits 
+such gaming for any purpose by any person, organization 
+or entity” within the meaning of 25 U.S.C. § 2710(d) 
+(1)(B). The relevant statutes state in pertinent part: 
+
+849.16 Machines or devices which come within in 
+provisions of law defined.— 
+
+(1) Any machine or device is a slot machine or 
+device within the provisions of this chapter if it is 
+one that is adapted for use in such a way that, as 
+a result of the insertion of any piece of money, coin, 
+or other object, such machine or device is caused to 
+operate or may be operated and if the user, by rea- 
+son of any element of chance or of any other out 
+come of such operation unpredictable to him, may: 
+
+(a) Receive or become entitled to receive any 
+piece of money, credit, allowance, or thing of value, 
+or any check, slug, token, or memorandum, whether 
+of value or otherwise, which may be exchanged for 
+any money, credit, allowance, or thing of value 
+or which may be given in trade;.. . 
+
+849.15 Manufacture, sale, possession, etc., of coin- 
+operated devices prohibited.— 
+
+It is unlawful: 
+
+(1) To manufacture, own, store, keep, possess, 
+sell, rent, lease, let on shares, lend or give away, 
+transport, or expose for sale or lease, or to offer to 
+sell, rent, lease, let on shares, lend or give away, or 
+permit the operation of, or for any person to perinit 
+to be placed, maintained, or used or kept in any 
+room, space, or building owned, leased or occupied 
+by him or under his management or control, any 
+slot machine or device of any part hereof; or 
+
+(2) To make or to permit to be made with any 
+person any agreement with reference to any slot 
+machine or device, pursuant to which the user 
+
+79a 
+
+thereof, as a result of any element of chance or other 
+outcome unpredictable to him, may become entitled 
+to receive any money, credit, allowance, or thing of 
+value or additional chance or right to use such ma- 
+chine or device, or to receive any check, slug, token 
+or memorandum entitling the holder to receive any 
+money, credit, allowance or thing of value. 
+
+In Eccles v. Stonz, 183 So. 628 (Fla. 1938) and Deeb 
+v. Stoutamira, 53 So.2d 873 (Fla. 1951), the Florida 
+Supreme Court offered some guidance in the interpre- 
+taiton of these statutes. In Eccles, the Florida Supreme 
+Court reviewed the history of the two statutes. In 1935, 
+the Florida Legislature legalized “all sorts of slot ma- 
+chines or coin-operated gambling devices,” with the pro- 
+vision that the vote by the majority of a county’s elec- 
+torate could prohibit their use within that county. 183 
+So. at 631. As noted by the Court, 
+
+Within two years the operation of slot machines in 
+Florida had become so obnoxious to the citizens of 
+this State that the people of a great. majority of the 
+counties in the State had voted overwhelmingly to 
+prohibit the operation of all slot machine devices 
+licensed under the 1935 Act being operated there- 
+after in their respective counties, and a great ma- 
+jority of the members of the legislature of 1937 were 
+pledged to their constituency to enact laws which 
+would abolish the operation of slot machines in 
+Florida. The opposition to slot machines was the 
+direct result of the baneful and destructive effect 
+which the operation of those machines had had upon 
+the morals of the people of Florida of all ages and 
+classes. It is a matter of common knowledge, of 
+which we must take judicial cognizance, that the 
+lure to play the slot machine had become so great 
+as to undermine the morals of many and to lead to 
+the commission of or the indulgence in vices and 
+crimes to procure the coins with which to play the 
+machines. 
+
+80a 
+
+So the legislature of 1937 carried out the mandate 
+of the majority of the people of the State, and the 
+members their pledges to their constituency, to pass 
+acts which would prohibit the operation of coin- 
+operated gambling devices in this State and enacted 
+Chapter 18143 [i.e., the instant statutes]. 
+
+It is also a matter of common knowledge that 
+pursuant to the passage of that act the popular slot 
+machine with its set of pictured wheels, its alluring 
+jackpot and its pull lever, generally known as the 
+one-armed bandit, faded away from the public places 
+and immediately in the places where they had stood 
+were set up the mechanical horse races, marble pin 
+games and other coin-operated mechanical devices, 
+adapted and fit for fast, easy gambling; and it is 
+a matter of common knowledge, of which we cannot 
+plead ignorance, that these machines are generally 
+used as gambling devices and that the gambling 
+element is the principal lure which causes them to 
+be played by the public. 
+
+183 So. at 631. In Deeb, the Florida Supreme Court 
+stated that, to viclate the statutes at issue in the instant 
+case, the “element of unpredictability” must be “inherent” 
+in the machine itself. 53 So.2d at 874. Thus, the unpre- 
+dictable outcome or chance, upon which the money or 
+prize is awarded, must be part of the machine’s operation. 
+A review of the SAMS and lottery ticket machines indi- 
+cates that they do not need [sic] this criterion. 
+
+Specifically regarding the SAMS, the description of 
+these machines found in the Joint Pretrial Stipulation re- 
+veals that they are the automated equivalent of placing 
+a bet at a live teller’s window. Similarly, the lottery ter- 
+minals operate as recording and ticketing devices, neces- 
+sary in order to keep track of the individual combinations 
+entered throughout the state. Neither type of machine 
+falls within the scope of the legislative intent as recounted 
+by the Florida Supreme Court in Eccles. More generally, 
+
+8la 
+
+however, the Tribe attempts to read out of the statute 
+the phrase “such machine . . . is caused to operate... 
+and if the user, by reason or any element of chance or 
+of any other outcome of such operation unpredictable by 
+him, may” received money or a thing of value. Both the 
+statutory language and Deeb indicate that the unpredict- 
+able event or element of chance which determines the 
+winner must be linked to the machine’s operation. Thus, 
+the winner at a parimutuel facility is determined by the 
+dog or horse race, not by the operation of the SAMS 
+machines. Similarly, the winner of the State Lottery is 
+determined by the weekly drawing in Tallahassee, not by 
+the operation of the individual lottery ticket terminals. 
+
+In support of its position, the Tribe refers to Rumsey 
+Indian Rancheria of Wintun Indians, et al. v. Governor 
+Pete Wilson, et al., Case No. CIV-S-92-812-GEB (E.D. 
+Cal. July 16, 1993). We find the Rumsey case unper- 
+Suasive as applied to the particular facts of this case. In 
+Rumsey, the Indian tribes argued that they were “en- 
+titled to play the electronic games on Indian land regard- 
+less of whether the equipment used may be deemed illegal 
+slot machines so long as the State sponsors an identical 
+type of game.” Rumsey at 17. Thus, the tribes in Rum- 
+sey advocated a game-by-game evaluation of the electronic 
+games they proposed. In contrast, in the instant case, the 
+Tribe argues that the State’s alleged permission of spe- 
+cific machines which violate Fla. Stat. Anno. § 849.16 
+(West Supp. 1993) make machine or computer-assisted 
+games of any type mandatory subjects of negotiation. This 
+parallels the Tribe’s earlier argument, which we rejected, 
+that the permission of one type of Class III activity places 
+all types of Class III activity on the negotiation table. In 
+addition, in Rumsey, the court observed that “State has 
+authorized the State Lottery to operate electronic games 
+virtually identical to the electronic games requested by the 
+Tribes” and that “it appears that equipment similar if not 
+identical to that proposed by the Tribes is currently em- 
+ployed by the State in its electronic gaming operations.” 
+Rumsey at 18. 
+
+82a 
+
+In the instant case, the Tribe has made no such argu- 
+ment and the undisputed facts compel a different con- 
+clusion. The Tribe’s proposal to the State indicated that 
+it seeks to use machine or computer-assisted games to 
+
+duplicate poker, bingo, pull-tabs, lotto, punch boards, 
+
+tip jars, instant bingo, or other games (Joint Pretrial 
+Stipulation at 4, § 2), games which are clearly not iden- 
+tical to the SAMS and lottery ticket machines. Thus, the 
+court’s conclusion in Rumsey that the tribes should be al- 
+lowed to negotiate regarding the operation of electronic 
+games “virtually identical” to electronic games operated 
+by the California Lottery is not opposite to the instant 
+case on the record presented to the Court. 
+
+Based on the record before the Court, and viewing all 
+evidence in a light most favorable to the Tribe, we con- 
+clude that the State does not permit the operation of 
+gambling devices in contravention to Fla. Stat. Anno. 
+$§ 495.15 and 495.16 (West 1976 & Supp. 1993) and 
+that the machine or computer-assisted games proposed 
+by the Tribe are not mandatory subjects of negotiation 
+under the IGRA. 
+
+In conclusion, it is the holding of the Court first that 
+the IGRA does not require all Class III gaming activities 
+to be included in compact negotiations merely because 
+the State permits specific Class III gaming activities in 
+some form; and second that, contrary to the Tribe’s ar- 
+gument, the State does not permit those specific types of 
+Class III gaming activities which it now seeks to include 
+in the Tribe-State compact negotiations. Having con- 
+cluded that these proposed Class III activities need not 
+be included in the compact negotiations, we hold that the 
+State has not violated the IGRA’s good faith requirement 
+by refusing to include them in the negotiations. Accord- 
+ingly, it is hereby 
+
+ORDERED AND ADJUDGED that Defendant’s Mo- 
+tion for Summary Judgment is GRANTED and the 
+Plaintiffs Motion for Summary Judgment and Supple- 
+
+83a 
+
+mental Motion for Summary Judgment are DENIED. It 
+is further 
+
+ORDERED AND ADJUDGED that the Defendant 
+shall submit a proposed order of final judgment within 
+fifteen (15) days of the date of this Order. 
+
+DONE AND ORDERED in Miami, Florida this 22 
+day of September, 1993. 
+
+/s/ Stanley Marcus 
+STANLEY MARCUS 
+United States District Judge 
+Southern District of Florida 
+cc: Counsel of record 
+
+84a 
+APPENDIX D 
+
+[Filed Apr. 28, 1994] 
+
+IN THE UNITED STATES COURT OF APPEALS . 
+FOR THE ELEVENTH CIRCUIT 
+
+No. 93-5256 
+
+SEMINOLE TRIBE OF FLORIDA, 
+Plaintiff-A ppellant, 
+
+versus 
+
+STATE OF FLORIDA DEPARTMENT OF HEALTH AND 
+REHABILITATIVE SERVICES; LAWTON CHILES, 
+Governor of the State of Florida, 
+
+Defendants-A ppellees. 
+
+On Appeal from the United States District Court 
+for the Southern District of Florida 
+
+ORDER: 
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+/s/ Harold B. Tjofiat 
+Chief Judge 
+
+85a 
+APPENDIX E 
+[Filed Apr. 28, 1994] 
+
+IN THE UNITED STATES COURT OF APPEALS 
+FOR THE ELEVENTH CIRCUIT 
+
+No. 92-4652 
+
+SEMINOLE TRIBE OF FLORIDA, 
+Plaintiff-A ppellee, 
+
+versus 
+
+STATE OF FLORIDA; LAWTON CHILES, 
+Governor of the State of Florida, 
+Defendants-A ppellants. 
+
+On Appeal from the United States District Court 
+for the Southern District of Florida 
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+/s/ Harold B. Tjoflat 
+Chief Judge 
+
+86a 
+APPENDIX F 
+[Filed Apr. 6, 1994] 
+
+IN THE UNITED STATES COURT OF APPEALS. 
+FOR THE ELEVENTH CIRCUIT 
+
+No. 92-4652 
+
+SEMINOLE TRIBE OF FLORIDA, 
+Plaintiff-A ppellee, 
+versus 
+STATE OF FLoriIDA; LAWTON CHILES, 
+
+Governor of the State of Florida, 
+Defendants-A ppellants. 
+
+On Appeal from the United States District Court 
+for the Southern District of Florida 
+
+ON PETITION(S) FOR REHEARING AND 
+SUGGESTION(S) OF REHEARING EN BANC 
+
+Before: TJOFLAT, Chief Judge, BLACK, Circuit Judge, 
+and JOHNSON, Senior Circuit Judge. 
+
+PER CURIAM: 
+
+(X) The Petition(s) for Rehearing are DENIED and no 
+member of this panel nor other Judge in regular active 
+service on the Court having requested that the Court be 
+polled on rehearing en banc (Rule 35, Federal Rules of 
+Appellate Procedure; Eleventh Circuit Rule 35-5), the 
+Suggestion(s) of Rehearing En Banc are DENIED. 
+
+ENTERED FOR THE CourRT: 
+
+/s/ Harold B. Tjoflat 
+Chief Judge 
+
+87a 
+
+APPENDIX G 
+STATUTORY PROVISIONS 
+
+§ 2710. Tribal gaming ordinances 
+(a) Exclusive jurisdiction of Class I gaming activity 
+
+(1) Class I gaming on Indian lands is within the ex- 
+clusive jurisdiction of the Indian tribes and shall not be 
+subject to the provisions of this chapter. 
+
+(2) Any class II gaming on Indian lands shall con- 
+tinue to be within the jurisdiction of the Indian tribes, 
+but shall be subject to the provisions of this chapter. 
+
+(b) Regulation of Class II gaming activity; net revenue 
+allocation; audits; contracts 
+
+(1) An Indian tribe may engage in, or license and 
+regulate, class II gaming on Indian lands within such 
+tribe’s jurisdiction, if— 
+
+(A) such Indian gaming is located within a State 
+that permits such gaming for any purpose by any 
+person, organization or entity (and such gaming is 
+not otherwise specifically prohibited on Indian lands 
+by Federal law), and 
+
+(B) the governing body of the Indian tribe 
+adopts an ordinance or resolution which is approved 
+by the Chairman. 
+
+A separate license issued by the Indian tribe shall be Te- 
+quired for each place, facility, or location on Indian 
+lands at which class II gaming is conducted. 
+
+(2) The Chairman shall approve any tribal ordinance 
+or resolution concerning the conduct, or regulation of 
+class II gaming on the Indian lands within the tribe's 
+jurisdiction if such ordinance or resolution provides 
+that— 
+
+(A) except as provided in paragraph (4), the 
+Indian tribe will have the sole proprietary interest 
+and responsibility for the conduct of any gaming 
+activity; 
+
+Pre 
+
+88a 
+
+(B) net revenues from any tribal gaming are not 
+to be used for purposes other than— 
+
+(i) to fund tribal government operations or 
+programs; 
+
+(ii) to provide for the general welfare of the 
+Indian tribe and its members; 
+
+(iii) to promote tribal economic develop- 
+ment; 
+
+(iv) to donate to charitable organizations; or 
+
+(v) to help fund operations of local govern- 
+ment agencies; 
+
+(C) annual outside audits of the gaming, which 
+may be encompassed within existing independent 
+tribal audit systems, will be provided by the Indian 
+tribe to the Commission; 
+
+(D) all contracts for supplies, services, or con- 
+cessions for a contract amount in excess of $25,000 
+annually (except contracts for professional legal or 
+accounting services) relating to such gaming shall 
+be subject to such independent audits; 
+
+(E) the construction and maintenance of the 
+gaming facility, and the operation of that gaming 
+is conducted in a manner which adequately protects 
+the environment and the public health and safety; 
+and 
+
+(F) there is an adequate system which— 
+
+(i) ensures that background investigations 
+are conducted on the primary management offi- 
+cials and key employees of the gaming enter- 
+prise and that oversight of such officials and 
+their management conducted on an ongoing 
+basis; and ; 
+
+(ii) includes— 
+
+89a 
+
+(I) tribal licenses for primary manage- 
+ment officials and key employees of the 
+gaming enterprise with prompt notifica- 
+tion to the Commission of the issuance of 
+such licenses; 
+
+(II) a standard whereby any person 
+whose prior activities, criminal record, if 
+any, or reputation, habits and associations 
+pose a threat to the public interest or to 
+the effective regulation of gaming, or cre- 
+ate or enhance the dangers of unsuitable, 
+unfair, or illegal practices and methods 
+and activities in the conduct of gaming 
+shall not be eligible for employment; and 
+
+(III) notification by the Indian tribe to 
+the Commission of the results of such 
+background check before the issuance of 
+any of such licenses. 
+
+(3) Net revenues from any class II gaming activities 
+conducted or licensed by any Indian tribe may be used 
+to make per capita payments to members of the Indian 
+tribe only if— 
+
+(A) the Indian tribe has prepared a plan to allo- 
+cate revenues to uses authorized by paragraph 
+
+(2)(B); 
+
+(B) the plan is approved by the Secretary as 
+adequate, particularly with respect to uses described 
+in clause (i) or (iii) of paragraph (2)(B); 
+
+(C) the interests of minors and other legally in- 
+competent persons who are entitled to receive any of 
+the per capita payments are protected and preserved 
+and the per capita payments are disbursed to the 
+parents or legal guardian of such minors or legal 
+incompetents in such amounts as may be necessary 
+for the health, education, or welfare, of the minor or 
+other legally incompetent person under a plan ap- 
+
+90a 
+
+proved by the Secretary and the governing body of 
+the Indian tribe; and 
+
+(D) the per capita payments are subject to Fed- 
+eral taxation and tribes notify members of such tax 
+liability when payments are made. 
+
+(4)(A) A tribal ordinance or resolution may provide 
+for the licensing or regulation of class II gaming activi- 
+ties owned by any person or entity other than the Indian 
+tribe and conducted on Indian lands, only if the tribal 
+licensing requirements include the requirements described 
+in the subclauses of subparagraph (B)(i) and are at 
+least as restrictive as those established by State law gov- 
+erning similar gaming within the jurisdiction of the State 
+within which such Indian lands are located. No person 
+or entity, other than the Indian tribe, shall be eligible to 
+receive a tribal license to own a class II gaming activity 
+conducted on Indian lands within the jurisdiction of the 
+Indian tribe if such person or entity would not be eligible 
+to receive a State license to conduct the same activity 
+within the jurisdiction of the State. 
+
+(B)(i) The provisions of subparagraph (A) of this 
+paragraph and the provisions of subparagraphs (A) and 
+(B) of paragraph (2) shall not bar the continued oper- 
+ation of an individualiy owned class II gaming operation 
+that was operating on September 1, 1986, if— 
+
+(I) such gaming operation is licensed and regu- 
+lated by an Indian tribe pursuant to an ordinance 
+reviewed and approved by the Commission in ac- 
+cordance with section 2712 of this title, 
+
+_ (I) income to the Indian tribe from such gaming 
+is used only for the purposes described in paragraph 
+(2)(B) of this subsection, 
+
+(TIT) not less than 60 percent of the net revenue 
+is income to the Indian tribe, and ‘ee 
+
+(TV) the owner of such gaming operation pays 
+an appropriate assessment to the National Indian 
+
+Sila 
+
+Gaming Commission under section 2717(a)(1) of 
+this title for regulation of such gaming. 
+
+(ii) The exemption from the application of this sub- 
+section provided under this subparagraph may not be 
+transferred to any person or entity and shall remain in 
+effect only so long as the gaming activity remains within 
+the same nature and scope as operated on October 17, 
+1988. 
+
+(iii) Within sixty days of October 17, 1988, the Sec- 
+retary shall prepare a list of each individually owned 
+gaming operation to which clause (i) applies and shall 
+publish such list in the Federal Register. 
+
+(c) Issuance of gaming license; certificate of self-regula- 
+tion 
+
+(1) The Commission may consult with appropriate 
+law enforcement officials concerning gaming licenses 
+issued by an Indian tribe and shall have thirty days to 
+notify the Indian tribe of any objections to issuance of 
+such license. 
+
+(2) If, after the issuance of a gaming license by an 
+Indian tribe, reliable information is received from the 
+
+Commission indicating that a primary management offi- 
+cial or key employee does not meet the standard estab- 
+lished under subsection (b)(2)(F)(ii)(II) of this sec- 
+tion, the Indian tribe shall suspend such license and, 
+after notice and hearing, may revoke such license. 
+
+(3) Any Indian tribe which operates a class II gaming 
+activity and which— 
+(A) has continuously conducted such activity for 
+a period of not less than three years, including at 
+least one year after October 17, 1988; and 
+(B) has otherwise complied with the provisions 
+of this section may petition the Commission for a 
+certificate of self-regulation. 
+
+(4) The Commission shall issue a certificate of self- 
+regulation if it determines from available information, 
+
+92a 
+
+and after a hearing if requested by the tribe, that the 
+tribe has— 
+
+(A) conducted its gaming activity in a manner 
+which— 
+
+(i) has resulted in an effective and honest 
+accounting of all revenues; 
+
+(ii) has resulted in a reputation for safe, 
+fair, and honest operation of the activity; and 
+
+(iii) has been generally free of evidence of 
+criminal or dishonest activity; 
+
+(B) adopted and is implementing adequate sys- 
+tems for— 
+
+(i) accounting for all revenues from the ac- 
+tivity; 
+
+(ii) investigation, licensing, and monitoring 
+of all employees of the gaming activity; and 
+
+(ili) investigation, enforcement and prosecu- 
+tion of violations of its gaming ordinance and 
+regulations; and 
+
+(C) conducted the operation on a fiscally and 
+ecomically sound basis. 
+
+(5) During any year in which a tribe has a certificate 
+for self-regulation— 
+
+(A) the tribe shall not be subject to the pro- 
+visions of paragraphs (1), (2), (3), and (4) of 
+section 2706(b) of this title; 
+
+(B) the tribe shall continue to submit an annual 
+independent audit as required by subsec. (b) (2)(C) 
+of this section and shall submit to the Commission 
+a complete resume on all employees hired and li- 
+
+censed by the tribe subsequent to the issuance of a 
+certificate of self-regulation; and 
+
+(C) the Commission may not assess a fee on such 
+activity pursuant ot section 2717 of this title in ex- 
+
+93a 
+
+cess of one quarter of 1 per centum of the gross 
+revenue. 
+(6) The Commission may, for just cause and after 
+an opportunity for a hearing, remove a certificate of self- 
+regulation by majority vote of its members. 
+
+(d) Class III gaming activities; authorization; revocation; 
+Tribal-State compact 
+
+(1) Class III gaming activities shall be lawful on In- 
+dian lands only if such activities are— 
+
+(A) authorized by an ordinance or resolution 
+
+that— 
+(i) is adopted by the governing body of the 
+Indian tribe having jurisdiction over such lands, 
+
+(ii) meets the requirements of subsection 
+(b) of this section, and 
+
+(iii) is approved by the Chairman, 
+
+(B) located in a State that permits such gaming 
+for any purpose by any person, organization, or en- 
+tity, and 
+
+(C) conducted in conformance with a Tribal-State 
+compact entered into by the Indian tribe and the 
+State under paragraph (3) that is in effect. 
+
+(2)(A) If any Indian tribe proposes to engage in, or 
+to authorize any person or entity to engage in, a class 
+III gaming activity on Indian lands of the Indian tribe, 
+the governing body of the Indian tribe shall adopt and 
+submit to the Chairman an ordinance or resolution that 
+meets the requirements of subsection (b) of this section. 
+
+(B) The Chairman shall approve any ordinance or 
+resolution described in subparagraph (A), unless the 
+Chairman specifically determines that— 
+
+(i) the ordinance or resolution was not adopted 
+in compliance with the governing documents of the 
+
+Indian tribe, or 
+
+94a 
+
+(11) the trial governing body was significantly and 
+unduly influenced in the adoption of such ordinance 
+or resolution by any person identified in section 2711 
+(e)(1)(D) of this title. 
+
+Upon the approval of such an ordinance or resolution, the 
+Chairman shall publish in the Federal Register such or- 
+dinance or resolution and the order of approval. 
+
+(C) Effective with the publication under subparagraph 
+(B) of an ordinance or resolution adopted by the govern- 
+ing body of an Indian tribe that has been approved by 
+the Chairman under subparagraph (B), class III gaming 
+activity on the Indian lands of the Indian tribe shall be 
+fully subject to the terms and conditions of the Tribal- 
+
+State compact entered into under paragraph (3 
+Indian tribe that is in effect. Paee <2) hy te 
+
+(D) (i) The governing body of an Indian tribe, in its 
+sole discretion and without the approval of the Chairman, 
+may adopt an ordinance or resolution revoking any prior 
+ordinance or resolution that authorized class III gaming 
+on the Indian lands of the Indian tribe. Such revocation 
+shall render class III gaming illegal on the Indian lands 
+of such Indian tribe. 
+
+m ii) The Indian tribe shall submit any revocation or- 
+dinance or resolution described in clause (i) to the Chair- 
+man. The Chairman shall publish such ordinance or reso- 
+ee m4 er eo Register and the revocation provided 
+
+y such ordinance or resolution shall tak 
+date of such publication. sch ianedlaa 
+
+(ili) Notwithstanding any provision of this subsec- 
+tion— 
+
+(I) any person or entity operating a class III 
+gaming activity pursuant to this paragraph on the 
+date on which an ordinance or resolution described 
+in clause (i) that revokes authorization for such 
+Class III gaming actiivty is published in the Federal 
+Register may, during the 1-year period beginning 
+
+95a 
+
+on the date on which such revocation ordinance or 
+resolution is published under clause (ii), continue 
+to operate such activity in conformance with the 
+Tribal-State compact entered into under paragraph 
+(3) that is in effect, and 
+
+(II) any civil action that arises before, and any 
+crime that is committed before, the close of such 1- 
+year period shall not be affected by such revocation 
+ordinance or resolution. 
+
+(3)(A) Any Indian tribe having jurisdiction over the 
+Indian lands upon which a class III gaming activity is be- 
+ing conducted, or is to be conducted, shall request the 
+State in which such lands are located to enter into ne- 
+gotiations for the purpose of entering into a Tribal-State 
+compact governing the conduct of gaming activities. Upon 
+receiving such a request, the State shall negotiate with 
+the Indian tribe in good faith to enter into such a com- 
+pact, the State shall negotiate with the Indian tribe in 
+good faith to enter into such a compact. 
+
+(B) Any State and any Indian tribe may enter into 
+a Tribal-State compact governing gaming activities on the 
+Indian lands of the Indian tribe, but such compact shall 
+take effect only when notice of approval by the Secretary 
+of such compact has been published by the Secretary in 
+the Federal Register. 
+
+(C) Any Tribal-State compact negotiated under sub- 
+paragraph (A) may include provisions relating to— 
+
+(i) the application of the criminal and civil laws 
+and regulations of the Indian tribe or the State that 
+are directly related to, and necessary for, the licens- 
+ing and regulation of such activity; 
+
+(ii) the allocation of criminal and civil jurisdic- 
+tion between the State and the Indian tribe necessary 
+for the enforcement of such laws and regulations; 
+
+96a 
+
+(iii) the assessment by the State of such activities 
+in such amounts as are necessary to defray the costs 
+of regulating such activity; 
+
+(iv) taxation by the Indian tribe of such activity 
+in amounts comparable to amounts assessed by the 
+State for comparable activities; 
+
+(v) remedies for breach of contract; 
+
+(vi) standards for the operation of such activity 
+and maintenance of the gaming facility, including li- 
+censing; and 
+
+(vii) any other subjects that are directly related 
+to the operation of gaming activities. 
+
+(4) Except for any assessments that may be agreed to 
+under paragraph (3)(C) (iii) of this subsection, nothing 
+in this section shall be interpreted as conferring upon a 
+State or any of its political subdivisions authority to im- 
+pose any tax, fee, charge, or other assessment upon an 
+Indian tribe or upon any other person or entity authorized 
+by an Indian tribe to engage in a class III activity. No 
+State may refuse to enter into negotiations described in 
+paragraph (3)(A) based upon the lack of authority in 
+such State, or its political subdivisions, to impose such 
+a tax, fee, charge, or other assessment. 
+
+(5) Nothing in this subsection shall impair the right 
+of an Indian tribe to regulate class III gaming on its In- 
+dian lands concurrently with the State, except to the ex- 
+tent that such regulation is inconsistent with, or less strin- 
+gent than, the State laws and regulations made applicable 
+by any Tribal-State compact entered into by the Indian 
+tribe under paragraph (3) that is in effect. 
+
+(6) The proviisons of section 1175 of Title 15 shall 
+
+not apply to any gaming conducted under a Tribal-State 
+compact that— 
+
+(A) is entered into under paragraph (3) by a 
+State in which gambling devices are legal, and 
+
+97a 
+
+(B) is in effect. 
+
+(7)(A) The United States district courts shall have 
+jurisdiction over— 
+
+(i) any cause of action initiated by an Indian 
+tribe arising from the failure of a State to enter into 
+negotiations with the Indian tribe for the purpose 
+of entering into a Tribal-State compact under para- 
+graph (3) or to conduct such negotiations in good 
+
+faith, 
+
+(ii) any cause of action initiated by a State or 
+Indian tribe to enjoin a class III gaming activity lo- 
+cated on Indian lands and conducted in violation of 
+any Tribal-State compact entered into under para- 
+graph (3) that is in effect, and 
+
+(iii) any cause of action initiated by the Secretary 
+to enforce the procedures prescribed under subpara- 
+graph (B) (vii). 
+
+(B)(i) An Indian tribe may initiate a cause of ac- 
+tion described in subparagraph (A) (i) only after the close 
+of the 180-day period beginning on the date on which the 
+Indian tribe requested the State to enter into negotia- 
+tions under paragraph (3)(A). 
+
+(ii) In any action described in subparagraph (A) (i), 
+upon the introduction of evidence by an Indian tribe 
+that— 
+
+(1) a Tribal-State compact has not been entered 
+into under paragraph (3), and 
+
+(II) the State did not respond to the request of 
+the Indian tribe to enegotiate such a compact or did 
+not respond to such a request in good faith, 
+
+the burden of proof shall be upon the State to prove that 
+the State has negotiated with the Indian tribe in good 
+faith to conclude a Tribal-State compact governing the 
+conduct of gaming activities. 
+
+ra 
+
+98a 
+
+(iii) If, in any action described in subparagraph (A) 
+(i), the court finds that the State has failed to negotiate 
+in good faith with the Indian tribe to conclude a Tribal- 
+State compact governing the conduct of gaming activities, 
+the court shall order the State and the Indian Tribe to 
+conclude such a compact within a 60-day period. In 
+determining in such an action whether a State has ne- 
+gotiated in good faith, the court— 
+
+(1) may take into account the public interest, 
+public safety, criminality, financial integrity, and ad- 
+— economic impacts on existing gaming activities, 
+an 
+
+(II) shall consider any demand by the State for 
+direct taxation of the Indiain tribe or of any Indian 
+lands as evidence that the State has not negotiated 
+in good faith. 
+
+(iv) If a State and an Indian tribe fail to conclude 
+a Tribal-State compact governing the conduct of gaming 
+activities on the Indian lands subject to the jurisdiction 
+of such Indian tribe within the 60-day period provided 
+in the order of a court issued under clause (iii), the In- 
+dian tribe and the State shall each submit to a mediator 
+appointed by the court a proposed compact that repre- 
+sents their last best offer for a compact. The mediator 
+shall select from the two proposed compacts the one 
+which best comports with the terms of this Act and any 
+
+other applicable Federal law and with the findings and 
+order of the court. 
+
+_(v) The mediator appointed by the court under clause 
+(iv) shall submit to the State and the Indian tribe the 
+compact selected by the mediator under clause (iv). 
+
+(vi) If a State consents to a proposed compact durin 
+the 60-day period beginning on the date ais rs 
+proposed compact is submitted by the mediator to the 
+State under clause (v), the proposed compact shall be 
+treated as a Tribal-State compact entered into under para- 
+graph (3). 
+
+99a 
+
+(vii) If the State does not consent during the 60-day 
+period described in clause (vi) to a proposed compact 
+submitted by a mediator under clause (v), the mediator 
+shall notify the Secretary and the Secretary shall pre- 
+scribe, in consultation with the Indian tribe, procedures— 
+
+(1) which are consistent with the proposed com- 
+pact selected by the mediator under clause (iv), the 
+provisions of this chapter and the relevant provisions 
+of the laws of the State, and 
+
+(II) under which class II] gaming may be con- 
+ducted on the Indian lands over which the Indian 
+tribe has jurisdiction. 
+
+(8)(A) The Secretary is authorized to approve any 
+Tribal-State compact entered into between an Indian tribe 
+and a State governing gaming on Indian lands of such 
+
+Indian tribe. 
+
+(B) The Secretary may disapprove a compact de- 
+scribed in subparagraph (A) only if such compact vio- 
+lates— 
+
+(i) any provision of this chapter, 
+
+(ii) any other provision of Federal law that does 
+not relate to jurisdiction over gaming on Indian 
+lands, or 
+
+(iii) the trust obligations of the United States to 
+Indians. 
+
+(C) If the Secretary does not approve or disapprove 
+a compact described in subparagraph (A) before the date 
+that is 45 days after the date on which the compact is 
+submitted to the Secretary for approval, the compact 
+shall be considered to have been approved by the Secre- 
+tary, but only to the extent the compact is consistent 
+with the provisions of this chapter. 
+
+(D) The Secretary shall publish in the Federal Regis- 
+ter notice of any Tribal-State compact that is approved, 
+
+100a 
+
+or considered to have been approved, under this para- 
+graph. 
+
+(9) An Indian tribe may enter into a management con- 
+tract for the operation of a class III gaming activity if 
+such contract has been submitted to, and approved by, 
+the Chairman. The Chairman’s review and approval of 
+such contract shall be governed by the provisions of sub- 
+sections (b), (c), (d), (f), (g), and (h) of-section 2711 
+of this title. 
+
+(e) Approval of ordinances 
+
+For purposes of this section, by not later than the date 
+is 90 days after the date on which any tribal gaming 
+ordinance or resolution is submitted to the Chairman, the 
+Chairman shall approve such ordinance or resolution if 
+it meets the requirements of this section. Any such or- 
+dinance or resolution not acted upon at the end of that 
+90-day period shall be considered to have been approved 
+by the Chairman, but only to the extent such ordinance or 
+resolution is consistent with the provisions of this chapter. 
+
+(Pub.L. 100-497, § 11, Oct. 17, 1988, 102 Stat. 2472.) 
+
+

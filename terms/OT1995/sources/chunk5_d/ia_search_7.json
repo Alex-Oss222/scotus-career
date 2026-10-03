@@ -1,0 +1,19 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 239,
+    "params": {
+      "query": "collection:us-supreme-court AND (text:&quot;A-828&quot; OR text:&quot;A-828&quot; OR text__reviews:&quot;A-828&quot;)",
+      "qin": "collection:us-supreme-court AND &quot;A-828&quot;",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 0,
+    "start": 0,
+    "docs": []
+  }
+}

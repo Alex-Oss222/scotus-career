@@ -1,0 +1,7 @@
+# Additional bounded retrieval attempts
+
+The official 1994 House Code URLs of the form `https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title28-section1915&num=0&edition=1994` were attempted for 28 U.S.C. §§1915, 2243, 2251, 2253 and 29 U.S.C. §§623, 631. Every request failed at the network proxy with `Tunnel connection failed: 403 Forbidden`. No content was retrieved from these attempts. Earlier GovInfo guessed-granule requests saved as HTML in this directory returned a Page Not Found document and are not authority.
+
+Safe existing official primary copies supplied by control: `terms/OT1995/sources/chunk4_a/SCOTUS_Rules1995_515US1195_1254.txt` and PDF (Rules effective October 2, 1995); `terms/OT1994/sources/oneal/1994-28usc2254.txt` and HTML (full old §2254 and Habeas Rules). Rules 22, 33, 38 fee schedule and 39 were checked; old §2254 operative text, Rules 4 and 9 and the 1976 deletion of the proposed five-year prejudice presumption were checked. A claim to reading every rule and every advisory note in the entire Habeas Rules compilation is not made.
+
+The OpenJurist extracted Lonchar files contain the full lower-opinion body and notes. Their source headers were separately checked with narrowly matched docket/date extraction: 58 F.3d 590, No. 95-8821, dated June 29, 1995 in that header; 58 F.3d 588, No. 95-8799, June 23, 1995. The 590 body dates the district stay June 28 and orders its own mandate at 5 p.m. today. Preserve this source distinction pending exact lower-order verification.

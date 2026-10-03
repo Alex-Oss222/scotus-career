@@ -1,0 +1,26 @@
+[
+  {
+    "source": "wisconsin_petitioners9.txt",
+    "safe": "wisconsin_petitioners9_neutral_read.txt",
+    "raw_sha256": "aec5025d313a7e1a4d37eaa0c1fd09751847f48f0f5014ced56fcf208bc2d3be",
+    "safe_sha256": "6cf481553d3d7bb74f758e088b6a84b85df95d4acf40b0bf15607290b1c0a055"
+  },
+  {
+    "source": "wisconsin_petitioners10.txt",
+    "safe": "wisconsin_petitioners10_neutral_read.txt",
+    "raw_sha256": "4eafe3303bbec3999cb2cc83d7dd8ca4b6e1a0b9b722839c0d2cbcea46c63b92",
+    "safe_sha256": "f72cc5a5d6e72cc3a1cd0dcfb7b9de269c196028a3ec4829731a57c3a763bd40"
+  },
+  {
+    "source": "wisconsin_respondent11.txt",
+    "safe": "wisconsin_respondent11_neutral_read.txt",
+    "raw_sha256": "2bd1aea99424f185499f7606565b8d016ff0866aad6db61145e3f3ffa3cc34b3",
+    "safe_sha256": "25aa28ccb17a4030693646f2a50a99f2d31b5adf627b3fa92d90631dc7146137"
+  },
+  {
+    "source": "wisconsin_respondent12.txt",
+    "safe": "wisconsin_respondent12_neutral_read.txt",
+    "raw_sha256": "7cd32ced9284e81b99f93c64bedbfbd414e5933a56f7314c7745c6bbb2f25470",
+    "safe_sha256": "a3c95ab1a29684780f1e184d0c06c2dc7cd85468a20dcf137f52bdd7c0f23a0f"
+  }
+]

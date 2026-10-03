@@ -1,0 +1,1353 @@
+                    rtp                                    FILED        |
+
+                        (a)          (6) 6)                NOV 8 1995
+                                                             CLERK
+                Nos. 94-1614, 94-1631, 94-1985
+
+
+                              In The
+      Supreme Court of the United States
+                       October Term, 1995
+
+                                 Sf
+
+             STATE OF WISCONSIN,             Petitioner,
+        }                       v.
+       CITY OF NEW YORK, et al., Respondents.
+             [Caption Continued on Inside Cover]
+                                 +
+            On Writs of Certiorari to the United States
+              Court of Appeals for the Second Circuit
+                                 >
+
+     BRIEF OF PETITIONER STATE OF WISCONSIN
+                                 *
+
+                         JAMES E. DOYLE
+                         Attorney General of Wisconsin
+
+                         PETER C. ANDERSON
+                         Assistant Attorney General
+                         of Wisconsin
+                         Counsel of Record
+
+                        Attorneys for Petitioner
+                        State of Wisconsin
+
+Wisconsin Department of Justice
+Post Office Box 7857
+Madison, Wisconsin 53707-7857
+(608) 266-9595
+  STATE OF OKLAHOMA, Petitioner,
+                   v.
+CITY OF NEW YORK, et al., Respondents.
+                   S|
+
+   UNITED STATES DEPARTMENT
+   OF COMMERCE, et al., Petitioners,
+                  Vv.
+
+
+
+
+CITY OF NEW YORK, et al., Respondents.
+                  QUESTION PRESENTED
+
+       Whether the July 15, 1991, decision of the Secretary
+of Commerce not to substitute statistically adjusted census
+numbers for the 1990 decennial census totals previously
+reported by the President for the reapportionment of
+Congress and transmitted to the states for use in
+redistricting was consistent with the language of the
+Constitution and the constitutional goal of equal
+representation.
+                   LIST OF PARTIES                             Shalala, as Secretary of Health   & Human Services; Henry
+                                                               Cisneros, as Secretary of Housing & Urban Development;
+       The parties to the proceeding in the court of appeals   Robert B. Reich, as Secretary of Labor; Federico Pena, as
+were the City of New York; State of New York; City of Los      Secretary of Transportation; Richard W. Riley, as Secretary
+Angeles; City of Chicago; Dade County, Florida; United         of Education; State of Wisconsin and State of Oklahoma.
+States Conference of Mayors; National League of Cities;                The People of the State of California ex rel.
+League of United Latin American Citizens; National             Daniel E. Lungren, Attorney General, and County of
+Association for the Advancement of Colored People;             Hudson, New Jersey, were parties to the proceedings in the
+Marcella Maxwell; Donald H. Elliott; John Mack; Olga           district court, whose judgment was vacated by the court of
+Morales; Timothy W. Wright, III; Raymond G. Romero;            appeals, but were not parties to the proceeding in the court
+Antonio Gonzales; Athalie Range; City of Atlanta, Georgia;     of appeals.
+Maynard Jackson, individually and as the Mayor of the
+City of Atlanta; Florida House of Representatives; Florida
+State Conference; Miguel A. De Grandy; Willye Dennis;
+Mario Diaz-Balart; Dr. Charles Evans; Rodolfo Garcia, Jr.;
+Bollowy L. "Bo" Johnson; Alfred J. Lawson, Jr.; Willis
+Logan, Jr.; Johnnie McMillan; Alzo J. Reddick; Peter Rudy
+Wallace; T.K. Wetherell; State of Texas; City of Phoenix,
+Arizona; State of New Jersey; State of Florida; City of
+Cleveland, Ohio; City of Denver, Colorado; City of
+Inglewood, California; City of New Orleans, Louisiana; City
+of Oakland, California; City of Pasadena, California; City
+of Philadelphia, Pennsylvania; City of San Antonio, Texas;
+City of San Francisco, California; Broward County, Florida;
+State of Arizona; City of Baltimore, Maryland; City of
+Boston, Massachusetts; City of Long Beach, California;
+City of San Jose, California; Los Angeles County,
+California; San Bernardino County, California; District of
+Columbia; Navajo Nation; State of New Mexico; City of
+Tucson, Arizona, and Council of Great City Schools; the
+United States Department of Commerce; Ronald H. Brown,
+Esq., as Secretary of the United States Department of
+Commerce;    Michael   R. Darby,   as Under   Secretary for
+Economic    Affairs of the United States Department       of
+Commerce; Bureau of Census; Barbara Everitt Bryant, as
+Director of Bureau of Census; William J. Clinton, as
+President of the United States; Donnald K. Anderson, as
+Clerk of the United States House of Representatives;
+Michael    Espy, as Secretary of Agriculture;     Donna   E.
+                          iv
+
+
+
+                TABLE OF CONTENTS
+
+                                                   Page     I.     THE RECOGNITION OF CLAIMS
+                                                                   OF   CONSTITUTIONAL
+                                                                   ENTITLEMENT     TO   SPECIFIC
+QUESTION PRESENTED        ..............-2-eee0:       i           CENSUS     INNOVATIONS
+                                                                   CONFLICTS WITH CONGRESS’
+enn                ci. cose      cel sta thenaneaee a ii           CONSTITUTIONAL     AUTHORITY
+                                                                   TO DIRECT THE MANNER OF
+ee    ey EE            occa betrobusbtdenseenaet      iv           TAKING   THE    CENSUS    AND
+                                                                   CREATES    AN    UNTENABLE
+TABLE OF AUTHORITIES       ...............-2e00-      vi           SYSTEM       OF    CENSUS
+                                                                   GOVERNANCE .............++5..
+GRE                 soc    ob aced a See 40s Sues ous 1
+                                                            II.    BY   MISAPPREHENDING    THE
+SEE.             oc cdenadécsnanaccvanne
+                                   ts Kanto 1                      RELATION BETWEEN CENSUS
+                                                                   ACCURACY AND EQUALITY OF
+CONSTITUTIONAL PROVISIONS AND                                      REPRESENTATION, THE COURT
+IEE                6 G keactases
+                              sbsccsev.etote           1           OF APPEALS ERRED IN HOLDING
+                                                                   THAT    THE   ADJUSTMENT
+STATEMENT OF THE CASE          ...................     2           DECISION WAS SUBJECT TO
+                                                                   HEIGHTENED          EQUAL
+           A.      Stipulation to Conduct Post-                    PROTECTION SCRUTINY .........
+                   Enumeration Survey ..........       3
+                                                            Ill.   THE  SECRETARYS   DECISION
+           B       The Secretarys Adjustment                       WAS CONSTITUTIONAL ..........
+                   EL       «o.0 saddens
+                                      REE * On © 7
+                                                           ES              rere ee ey ee eee   eee Te
+           C.      District Court’s    Decision
+                   Upholding     Adjustment
+                   cc         5 Camc bor wiae tees    11
+
+           D.      Court of Appeals’ Decision .....   12
+
+SUMMARY OF ARGUMENT            ...................    14
+                 TABLE OF AUTHORITIES                          Com. of Mass. v. Mosbacher,
+                                                                      785 F. Supp. 230 (D. Mass. 1992),
+                       CASES CITED                                    rev'd sub nom. Franklin
+                                                                      v. Massachusetts, 112 S. Ct.
+Arizonans For Fair Representation                                     Ee           EE                                      30
+       v. Symington,
+       828 F. Supp. 684 (D. Ariz. 1992),                       Cuomo v. Baldrige,
+       affd mem. sub nom.,                                           674 F. Supp. 1089
+       Hispanic Chamber of Commerce                                  Ee 1 ee                                            2, 44
+       v. Arizonans for Fair Representation,
+       Se ah Gk SE EE a Phe veWee Fee eciccne            44    Franklin v. Massachusetts,
+                                                                      112 S. Ct. 2767
+Assembly of State of Cal.                                             Dae        eo gvaraed
+                                                                                       bow ae eseede          14, 18-21, 29,
+       v. U.S. Dept. of Commerce,                                                                                 37, 45, 46
+       968 F.2d 916 (9th Cir. 1992) ..............       44
+                                                               Karcher v. Daggett,
+Baker v. Carr,                                                        462 U.S. 725
+       og         Be                    Se   ere   ee    20           ee           Ea ee                  13, 17, 25, 34, 37
+
+Carey v. Klutznick,                                            Kirkpatrick v. Preisler,
+       508 F. Supp. 404                                               ee eS          IED ou Sivinke uid Sede eccuees   34, 44
+       ET        Es     ood wv dks cede oheeeeaeees      33
+                                                               Klutznick v. Carey,
+Carey v. Klutznick,                                                   ee es SD CRE            o boo cca sberhe
+                                                                                                            cee. 28
+       637 F.2d 834
+       ge       Ea  aa ea                          eee   28    Senate of State of Cal.
+                                                                      v. Mosbacher,
+Carey v. Klutznick,                                                   968 F.2d 974 (9th Cir. 1992) ..............         44
+       653 F.2d 732 (2d Cir. 1981),
+       cert. denied, 455 U.S. 999                              Sharrow v. Brown,
+       SE        A 5S PUNE.
+                        Fhe bes bee bawheke           19, 28         447 F.2d 94 (2d Cir. 1971),
+                                                                     cert. denied, 405 U.S. 968
+City of Detroit v. Franklin,                                         Ss                                        od so wible 43
+       4 F.3d 1367 (6th Cir.
+       1993), cert. denied,         .                          Tucker v. U.S. Dept. of Commerce,
+       114 S. Ct. 1217 (1994)...........       14, 28-31, 44          135 F.R.D. 175
+                                                                      AER                        ee             ey ae     29
+                                                                                                              ix
+
+
+Tucker v. U.S. Dept. of Commerce,                                         eee es        GU)       Sea        Oe     UA     a co hic'e'e bewee cles 2
+       958 F.2d 1411 (7th Cir.),
+      cert. denied, 113 S. Ct. 407                                        U.S. Const.
+       6       PP              A ae © ts       er       14, 16, 28-30,           en                           o's 6 bs wee 1, 2, 18, 19, 42, 43
+                                                                38, 39
+                                                                          6    Be                        >                                         2
+U.S. Dept. of Commerce
+       v. Montana,                                                        Sas I         EE        SMES       BN     eee Piece cece      ee wen    19
+       503 U.S. 442
+       GRE Said dn         de vad   bap Weswes      16, 19, 21-23, 27,    ee                  i                                ies   ee kewee    26
+                                                                43, 47
+
+Washington v. Davis,                                                                                 STATUTES
+       ee ee           ED           iy OK oa ees oe see ke eee      38
+                                                                          Administrative Procedure Act,
+Wesberry v. Sanders,                                                             5 U.S.C. § 551,
+       ee es    BED             ib cc cceeo   Sed    wre re hee et 28            I       Si a Se Ss SSS ieee ct 3, 11, 30, 45, 46
+
+Young v. Klutznick,                                                       IEEE               GOs wean une ok bw wabwes 6508 6               2, 3, 41
+       497 F. Supp. 1318 (E.D. Mich. 1980),
+       rev'd, 652 F.2d 617 (6th Cir. 1981),                               eeeee ee tre                                                           25
+       cert. denied, 455 U.S. 939 (1982) ...........                20
+                                                                          Pe            EE     he Meh oT Rn ee           UVES ees vc cuce    21, 25
+Young v. Klutznick,
+       652 F.2d 617 6th Cir. 1981),                                       Bie                 errr ee Sete eenbetchuewnnee                         3
+       cert. denied, 455 U.S. 939
+       COOGEE cc cece cudévece    sed ¥e Tete                   28, 44    OSD                  So ci vee          WN ceded       dice bb os 2,3
+
+                                                                          SD We         PS         COS ERA
+                                                                                                         Seer’ vn 25, 32, 33
+           CONSTITUTIONAL                 PROVISIONS
+                                                                          Sr        EE           6 Ss SU Wi vee Gees eosess oeeess 25
+US. Gonst. a86. LOB.          oie   tet   Fee wee ees    3, 16, 17, 22,
+                                                        25, 26, 34, 37    EE                      6k Fave Way's <Giws          6 cdueee      41, 45
+
+U.S. Const. art. I,                                                       Se            EE        a 6 nour bbWen kd adcbaneebes                  33
+       |      © Rees                eee,      1, 4, 15, 16, 19, 21, 30
+                                                                          ee                   eS
+                                                                                                ots eer                           2, 4, 12, 32, 33
+CL, Cee, Ge.           ©      so cbewescesedesecers            2, 3,13
+                                                                          eR                      PS                ee eee                         1
+BD URE. S BAGR «6 50's et       FS.    Deen       Baik        3   The Council of State Governments,
+                                                                        The Book of States 1994-95
+ee                er eer                                    S3          Sach      Seabee Waw ed wh b's ine ei cbc   ees
+
+Se ET             ie
+                   ce ee                             ee       3   D. Freedman, Adjusting the 1990 Census,
+                                                                        252 Science 1233 (1991)   .................
+SF Cs     WE      CA is Sasa dies Cees cay ean     cee eee    3
+                                                                  U.S. Department of Commerce Bureau
+ee CE            oad ob a wbbec denn canes d cab ayes         3          of the Census, 1980 Census
+                                                                        of Population: General Social
+Ariz. Rev. Stat. Ann. (1994)                                            and Economic Characteristics,
+        F°        BMR ar ieeers ee eye een                   47         United States Summary (1983) ............
+
+N.Y. State L. (McKinney 1995)                                     U.S. Department of Commerce Bureau
+       358. 008 «wf. . Chueh eerss sisi                      44         of the Census, 1990 Census of
+                                                                        Population: Summary Population
+We I      Se      Se h ii 6 vc dninctcnks
+                                     che Kes 42                         and Housing Characteristics,
+                                                                        United States Summary (1992) ............
+
+               LEGISLATIVE HISTORY                                U.S. Department of Commerce
+                                                                        Bureau of the Census,
+PL, GRGGG, OIG; FRE         GES   6 Sees
+                                      cac estes              32         Current Population Reports,
+                                                                        P 20-440, “Voting and Registration
+Pt: DR               I      65 6 ve ve cceut oa cevuwe       32         in the Election of November 1988"
+                                                                        A              a    CRE ASE OSS aa en
+S. Rep. No. 1256, 94th Cong.,
+       2d Sess. (1976),                                           U.S. Department of Commerce
+       reprinted in 1976 U.S.                                           Bureau of the Census, Current
+       Code Cong. & Admin. News 5463        ..........       33         Population Reports, P 20-466,
+                                                                        "Voting and Registration in the
+                                                                        Election of November 1992"
+                OTHER AUTHORITIES                                       a          a Oe eee             ss cee ee és aes
+
+58 Fed. Reg. 69 (Jan. 4, 1993)    ................      5,11
+
+Congressional Research Service,
+       Decennial Census Coverage:
+       The Adjustment Issue
+       (Feb. 1, 1994) .... 12... eee cece        eee eens    24
+                     OPINIONS BELOW
+
+        The opinion of the court of appeals (Pet. App. 1-40)!
+is reported at 34 F.3d 1114 (2d Cir. 1994). The opinions of
+the district court (Pet. App. 41-95, 96-120, 121-34) are
+reported at 822 F. Supp. 906, 739 F. Supp. 761 and 713
+F. Supp. 48. The decision of the Secretary of Commerce
+(Pet.-App. 135-415) is published at 56 Fed. Reg. 33582.
+
+[Procedural history omitted from this reading copy.]
+
+        CONSTITUTIONAL PROVISIONS AND
+              STATUTES INVOLVED
+
+       The      constitutional       provisions      involved      are
+U.S. Const. art. I, § 2, cl. 3, amended             by U.S. Const.
+
+
+   "References to “Pet. App.” are to the appendix to the petition for a
+writ of certiorari
+             filed in No. 94-1614.
+
+   * The State of Oklahoma’s petition for rehearing was denied on
+December 12, 1994 (Pet.
+                    App. 419-21).
+amend. XIV,      § 2; U.S.      Const.   amend.     V; U.S.     Const.     minority populations would be undercounted relative to
+amend. XIV, § 1; and U.S. Const. amend. XV, § 1. Statutes                  other states and regions, causing a loss in representation
+involved are 2 U.S.C. § 2a, 13 U.S.C. § 141 and 13 U.S.C.                  and in census-based allocations of federal monies
+§ 195. The pertinent text of these provisions is set forth at              (J.A. 44-45, 48).    Plaintiffs alleged that post-census
+Pet. App. 422-27.                                                          statistical estimation techniques provided a feasible
+                                                                           method for correcting the anticipated undercount
+                STATEMENT OF THE CASE                                      (id. at 46-47). The failure to employ this specific census
+                                                                           procedure was alleged to violate U.S. Const. art. I, § 2, by
+        This case concerns claims that the United States                   failing to conduct "the most accurate census practicable,"
+Constitution mandates the use of specific methodological                   and to discriminate "with respect to fundamental rights
+innovations in taking the decennial census.                                against individuals residing in legislative districts that are
+        In October 1987, the Department of Commerce                        disproportionately undercounted," in violation of Fifth
+announced its decision that it would not attempt to                        Amendment      equal      protection    guarantees        (J.A. 48).
+statistically adjust the results of the 1990 census, as it had             Plaintiffs did not contend that the differential undercount
+also decided with respect to the 1980 census. Litigation                   resulted from a discriminatory purpose or that, given the
+regarding the 1980 census ended in December, 1987, with                    Census Bureau’s decision to adhere to an “actual
+the decision in Cuomo v. Baldrige, 674 F. Supp. 1089                       enumeration,” the Bureau would not attempt "to arrive at
+(S.D.N.Y. 1987), upholding the census. In November, 1988,                  as accurate a figure as humanly possible” (Pet. App. 99).
+New York City, Los Angeles, Chicago, Dade County,                          Statutory claims were asserted under 2 U.S.C. § 2a,
+Florida and the states of New York and California, joined                  13 U.S.C. § 141 and the Administrative Procedure Act,
+by several interest groups and individuals, filed suit to                  5 U.S.C. § 551, et seg. (J.A. 48-49). Jurisdiction of the
+compel the Department of Commerce and the Census                           district court was invoked under 28 U.S.C. §§ 1331, 1337,
+Bureau to undertake statistical estimation procedures                      1361, 2201, 2202 and 5 U.S.C § 702 (J.A. 40).
+designed to “correct" anticipated errors in the 1990
+decennial    census,    this time venuing the action in the                               A.      Stipulation to Conduct                 Post-
+Eastern District of New York (R. 1).* Plaintiffs’ complaint                                       Enumeration Survey.
+alleged that the census as planned would result in an
+undercount of the population, that the undercount would                           Following    the    district    court's   denial     of   the
+be differentially concentrated among racial and ethnic                     Goverrnmient’s motion to dismiss and motion for summary
+minorities and that, as a result, states and cities with large             judgment (Pet. App. 121-34), the parties entered a
+                                                                           stipulation, approved by the court on July 17, 1989, under
+                                                                           which the Secretary of Commerce agreed to reconsider
+    *New Jersey, Florida, Texas, New Mexico, Arizona and the District      de novo whether to carry out a statistical adjustment of the
+of Columbia subsequently joined the suit as plaintiffs-intervenors         1990 census (J.A. 61-67). The stipulation required that the
+(R. 130, 145, 161, 206, 207, 223). Following the July 15, 1991, decision   decision be made by July 15, 1991, and in accordance with
+of then-Secretary of Commerce Robert Mosbacher not to adjust the           published guidelines articulating the relevant technical and
+results of the 1990 census, Wisconsin and Oklahoma intervened as                                                                             |
+defendants (R. 213, 276). Two related district court actions, City of                                                                        1
+Atlanta v. Mosbacher, No. 92-CV-1566 (N.D. Ga.), and Florida House of
+Representatives v. Franklin, No. 92-CV-2037 (N.D. Fila.), were later
+consolidated with the New York proceedings (R. 323. 332).
+nontechnical statistical and policy grounds for the decision                   encourage census participation. For example, both
+(id. 62-63).*                                                                  Wisconsin and Detroit mounted census awareness and
+        The Census Bureau went forward as planned with                         outreach campaigns.®            As subsequently measured by the
+the vast statistical undertaking of attempting to count                        PES,    the     1990      census      counted     98.4%      of the    total
+every person living in the United States as of April 1, 1990,                  population.’
+resulting in a resident population count of the United                                 Despite this accomplishment, problems remained.
+States of 248,709,873 and ar 2pportionment count of                            The return rate of questionnaires during the initial mail
+249,632,692 (Pet. App. 320). ‘The enumeration process                          out/mail back phase was only 63% (id. at 15, 327-28),
+began with the development of comprehensive maps of                            although in Wisconsin it exceeded 76%, representing the
+each   block in the United              States,     the identification    of   highest voluntary response rate in the country (J.A. 98;
+housing     units    on      each     block   and    included   pre-     and   see also A.R. App. 6 at 40). Moreover, despite the efforts to
+post-census review by state and local governments.                       The   enumer::te minority residents, the undercount differential
+actual    enumeration       started    with    the    basic                    was not reduced below historic levels (J.A. 76).
+mail-out/mail-back procedure, followed by multiple contacts                            Pursuant to the July 1989 stipulation, the Census
+with each household that did not return a census                               Bureau began conducting a Post-Enumeration Survey, or
+questionnaire, a 100% recheck of vacant or uninhabitable                       PES, nearly three months after the April 1 census date
+units, a “Were you counted?" advertising campaign, a                           (Pet. App. 336). The PES procedure consisted of stratifying
+parolee and probationer check, and a housing coverage                          the population into 1,392 mutually exclusive poststrata
+check (see generally id. at 319-32). Aware of differential                     defined by geography, race/ethnic group, housing tenure,
+census coverage rates for minority populations in earlier                      age and sex (id. at 52 n.5, 164). Data obtained from a
+censuses, the Census Bureau mounted the most extensive
+effort ever to enumerate               African-Americans        and other
+minorities.         State and local governments were free to
+                                                                                       This included the hiring of 280 community outreach workers
+                                                                                       who worked in communities two years before census taking;
+                                                                                        involvement of 56,000 community organizations--most minority
+                                                                                       but    also    city   and   state   Complete     Count   Committees;
+    ‘The district court subsequently upheld the guidelines established by              outstanding cooperation from Black and Spanish language
+the Commerce Department against the plaintiffs’ challenge that they                    media in running public service announcements and programs
+violated the stipulation and were biased against adjustment                            about the importance of the census; and the hiring of follow-up
+(Pet. App. 110-18). In the same decision, the court granted plaintiffs’                enumerators from minority populations, bilingual and multi-
+declaratory judgment that statistical adjustment would not violate                     language enumerators, and residents of public housing projects
+either the Constitution’s requirement of an “actual enumeration,”                      and American Indian reservations to enumerate persons in
+U.S. Const. art I, § 2, cl. 3, or 13 U.S.C. § 195 (Pet. App. 107-110).
+Section  195 of Title 13 of the U.S. Code directs the use of sampling,
+where feasible, in carrying out the Department’s census functions,                "See J.A. 95-101;      Administrative    Record     ("A.R.") App. 6 at 40
+"lelxcept for the determination of population for purposes of                  (Wisconsin); Pet. App. 174 (Detroit).
+apportionment of Representatives in Congress among the several
+states...   ."                                                                    "The 1.6% undercount estimate reflects a correction of an original
+                                                                               2.1% estimate resulting from the discovery of a computer coding error
+    5As described by Census Director Bryant in her recommendation to           and the correctionof errors in 104 sample block clusters thought to have
+Secretary Mosbacher       (J.A.76):                                            a major impact on bias in the original estimates (Tr. 1782-83, 1786-92;
+                                                                               DX 31 (Tr. 1790-92)); see also 58 Fed. Reg. 69, 73 (Jan. 4, 1993).
+sample consisting of roughly 377,000 people (id. at 157), or            factors exhibited significantly greater variability than had
+approximately one-sixth of one percent of the national                  been anticipated during the design of the PES, and a
+population, were matched to data obtained in the census’                statistical technique known as “smoothing” was used to
+to estimate census coverage rates for each poststratum                  reduce this variability (id. at 57 n.10, 219-27).
+(id. at 76 n.23, 169-70, 336-40).    The overwhelming                           "Selected PES" estimates were completed in June
+majority of the nation’s 39,000 local jurisdictions were                1991 (A.R. App. 10 (June 13, 1991, Release)). As originally
+unrepresented in the sample (id. at 80, 212; A.R. App. 13°              calculated, the PES estimated that the 1990 census had
+at 4). The construction of the PES meant that an average                resulted in a 2.1% undercount of the national population
+sample of roughly 300 people was used to estimate census                (Pet. App. 58). Consistent with earlier studies, coverage
+coverage rates for each demographic post-stratum                        rates were found to be disproportionately lower for racial
+(A.R. App. 13 at 3), on average containing roughly                      and ethnic minorities, estimated to range from 94.8% for
+180,000 people.      The PES did not sample states                      Hispanics to 98.8% for non-Hispanic whites (ibid.).
+individually but aggregated them into nine census divisions             Coverage rates also varied by state, although the relation
+(Pet. App. 164, 342-43, 370-72). For example, only 141                  between minority and state undercounts was often counter-
+blocks from Wisconsin, the least populous state in the East             intuitive."   The June 1991 undercount estimates for
+North Central census region, were included in the sample                every state in the New England, Middle Atlantic, East
+(id. at 372). The state’s undercount estimate was primarily             North Central and West North Central census regions were
+based on data ootained in 947 blocks sampled in Illinois,               below the national average, meaning that each state in the
+Indiana, Michigan and Ohio (id. at 371-72). California                  Midwest and Northeast, including the plaintiffs New York
+dominated the sample uses to estimate state populations                 and New Jersey, would lose population as a percentage of
+in the Pacific census division, providing nearly half of the            the national population under the adjusted numbers
+division’s    1,390 blocks     included   in the sample                 (A.R. App. 10, Tables 1, 5 (June 13, 1991, Release)). Had
+(id. at 370-72; see also A.R. App. 13 at 3-4). The PES                  the June 1991 estimates been used as the apportionment
+relied on the assumption of sample homogeneity--that                    census, California and Arizona would have each gained,
+persons in each poststratum were homogeneous with                       and Wisconsin and Pennsylvania would have each lost, one
+respect to their probability ofbeing missed by the census               seat in the House of Representatives (Pet. App. 17).
+(Pet. App. 79, 205).
+        Based on the sample observations, as well as the                                 B.       The    Secretary’s           Adjustment
+imputation of nearly nine million people for whom match                                           Decision.
+status between census and survey could not be determined
+(id. at 75-76,    170), an estimate       of the undercount        or           On    July    15, 1991,    then-Commerce         Department
+overcount rate for each poststratum, called an adjustment               Secretary Mosbacher announced his decision not to adjust
+factor, was derive4 “sing the statistical technique of dual
+system estimation (id. at 340-42). The raw adjustment
+
+                                                                           For example, Montana, Idaho and Wyoming were each reported to
+   *Confusingly referred to as the P-sample (population) and E-sample   have undercount rates roughly double those estimated for New Jersey,
+(enumeration) (Pet. App. 76 n.23). Only one sample was taken.           Michigan and Illinois (A.R. App. 10, Table 1). Rhode Island’s estimated
+                                                                        undercount of 0.3%, the lowest in the country, was one-fourth the
+   °D. Freedman, Adjusting the 1990 Census, 252 Science 1233 (1991).    undercount for non-Hispanic whites nationally (ibid. ).
+the 1990 census"’ (Pet. App. 135-415).               Explaining his         highly technical and comprehensive.       The Secretary
+decision, Secretary Mosbacher stated that he was deeply                     expressed concern regarding the introduction of errors in
+troubled by the persistence of a differential undercount of                 the PES in the process of attempting to determine whether
+minority populations and expressed regret that adjustment                   people included in the sample had been counted in the
+was unable to address this problem without adversely                        census. He noted that for 1.7% of the P-sample and 2.1%
+affecting the integrity of the census (id. at 138-39). The                  of the E-sample, match status could not be resolved and
+Secretary acknowledged that a statistical adjustment                        had to be imputed using a logistic regression model. When
+would likely increase the "numeric accuracy" of the census                  weighted up to the national population, imputed matches
+(id. at 184-85, 200).  He explained, however, that the                      represented nearly nine million people, a number almost
+constitutional purpose of the census was not simply to                      twice as large as the estimated net national undercount
+count the total number of people in the United States but                   (id. at 75-76, 170).
+to locate them so that political representation could be                            The Secretary also found troubling the large
+allocated to the states and to their residents in proportion                measured bias in the PES estimates. At the time of the
+to their numbers.         Accordingly, he concluded that the                July 1991 adjustment decision, preliminary results of the
+primary criterion for accuracy should be distributive rather                Census Bureau’s total error model indicated that the PES
+than numeric accuracy (id. at 200-201). The Secretary                       was biased towards overestimating the undercount and
+found that while the adjusted numbers appeared to come                      that a biased-corrected estimate would be about 1.4%
+closer to giving the nation’s total population than the                     rather than the estimated 2.1%. This meant that roughly
+enumeration census, the census numbers displayed greater                    a third of the net undercount adjustment came from bias
+distributive accuracy than the adjusted counts and                          in the PES. Biases in the PES also tended to be higher for
+represented the most accurate count of the population of                    minority evaluation strata (id. at 180).     In addition, the
+the United States at the state and local levels (ibid.).                    Secretary concluded that uncertainty about the true
+        The     Secretary's     statistical    evaluation      of   the     variance of the adjusted figures meant that even their
+competing census results (adjusted and unadjusted) was                      superior   numeric   accuracy   had   not   been   definitively
+                                                                            demonstrated (id. at 201). The Secretary found that the
+                                                                            loss function analyses and hypothesis tests that had been
+   "A Special Advisory Panel appointed to advise the Secretary on the       prepared by the Census Bureau at the time of the
+adjustment decision pursuant to the July 1989 stipulation split evenly      adjustment decision supported the superior accuracy of the
+in recommending in favor of and against adjustment, with all of the         census counts, when distributive accuracy was considered
+members nominated by the plaintiffs recommending adjustment                 and when reasonable estimates of the error variance of the
+(Pet. App. 59). Based on the Census Bureau's “loss function” analysis,
+a majority of the Census Bureau’s Undercount Steering Committee             alternative DSE were used (ibid.). Noting that the results
+supported  the adjusted numbers as being the more accurate (id. at 59).     of PES evaluation studies had not been completely
+The late discovery of an error in the calculation of loss function values   analyzed by the time of the decision and that the statistical
+was subsequently reported to weaken, but not change, the majority's         tools used to calculate and evaluate the adjusted counts
+conclusion (id. at 190-91, 244-45). While recommending in favor of          were at the cutting edge of statistical research, Secretary
+adjustment, the Director of the Census Bureau also recognised that
+"{a]djustment is an issue about which reasonable men and women and
+                                                                            Mosbacher expressed deep concern that if an adjustment
+the best statisticians and demographers can disagree” (J.A. 73). The        were made, it would be on the basis of research conclusions
+Under Secretary for Economic Affairs and the Administrator of the           that might well be reversed in the next several months
+Economics and Statistics Administration           recommended     against   (id. at 248).
+adjustment (Pet. App. 59).
+                              10                                                                 11
+
+
+        The Secretary also identified substantial evidence                      Cc.      District           Court’s      Decision
+which cast doubt on the homogeneity assumption                                           Upholding Adjustment Decision.
+underlying the entire synthetic adjustment methodology
+(id. at 204-13). In addition, the Secretary reported that              Following the Secretary’s decision, the district court
+small changes in adjustment methodology were capable of         permitted extensive discovery and then set the case for
+moving seats in the House of Representatives (id. at 228).      trial. The 13-day trial consisted almost exclusively of
+The single methodological decision to exclude 28 out of         expert demographic and statistical testimony and produced
+1,392 variance outliers during the process used to "smooth"     thousands of pages of exhibits (Pet. App. 60-61). Evidence
+the raw adjustment factors was alone sufficient to shift a      was presented that in attempting to correct for bias in the
+House seat from Pennsylvania to Arizona (id. at 220). One       original PES     estimates,    the Census      Bureau     discovered
+member of the Special Advisory Panel had calculated the         errors whose correction reduced the national undercount
+states’ populations using five modifications to the PES’s       estimate to 1.6% (Tr. 1786-87, 1790-91; DX 31
+modeling assumptions.          Each produced a different        (Tr. 1790-92)); see also 58 Fed. Reg. 69, 73 (Jan. 4, 1993).
+apportionment of Congress (id. at 218). The Secretary           Correction of these errors changed state undercount
+identified "the bundle of statistical techniques contained in   estimates as well, but not uniformly.”                Less technical
+the smoothing process" as one of the most problematic           evidence regarding Wisconsin’s experience in the census
+aspects of the adjustment process (id. at 228), finding that    and the disruption adjustment would cause to Oklahoma’s
+the techniques relied heavily on statistical assumptions,       redistricting process was submitted by stipulation and
+resulted in large changes in adjustment factors and might       affidavit (J.A. 95-101, 102-108). On April 13, 1993, the
+very well have led to an overstatement of the undercount        district court issued a decision upholding the Secretary's
+(id. at 219-28).                                                decision      against   adjusting    the   1990    census
+        In addition to concluding that the adjusted numbers     (Pet. App. 43-95). The court also ordered the release of
+did   not improve, but more          likely worsened,    the    block-level adjusted census data to the plaintiff states
+distributional accuracy of the census, the Secretary            (id. at 91-95).
+identified    policy considerations      militating  against            The district court adhered to its earlier ruling that
+adjustment. The sensitivity of the PES results to modeling      the Secretary’s decision would be reviewed under the APA’s
+assumptions not only impaired their usability but opened        arbitrary and capricious standard (id. at 63-66; see also
+the census to the risk of political manipulation                id. at 129-33).  The court agreed with the Secretary's
+(id. at 213-28).    Statistical estimation also undermined      decision to focus on distributive, rather than numeric,
+incentives to future census participation, including state      accuracy, given the census’s function in distributing
+and local support for future censuses (id. at 228-38).          political    representation           and     economic      benefits
+Adjustment also risked significant disruption to the orderly
+transfer of political representation that would result from
+changing the census numbers already reported by the                “New Mexico’s estimated undercount fell by the largest amount,
+                                                                1.44%.   Both Arizona’s and California’s undercount estimates were
+President for the apportionment of Congress and used by
+                                                                reduced by 0.92%, which, in the case of California, would have
+the states in redistricting (id. at 249-56).                    represented nearly 275,000 people.    New Hampshire’s undercount
+                                                                increased by 0.22%. New Jersey's estimated undercount fell to 0.57%,
+                                                                more than a percentage less than the revised national undercount.
+                                                                Pennsylvania’s undercount estimate was reduced by 0.34%, while
+                                                                Wisconsin’s was reduced by 0.06% (DX 31, Attachment 4).
+                                   12                                                                   13
+
+
+(id. at 77-78). The court engaged in a detailed review of                 government by the Fifth Amendment (id. at 31-33).         The
+the adjustment decision under each of the Department’s                    court interpreted the district court’s decision as having
+eight published       guidelines        (Pet. App. 69-89)."*    While     "implicitly found that the census did not achieve equality
+finding the adjustment decision reasonable under each of                  of voting power as nearly as practicable" (id. at 34). The
+the     guidelines,   the    court        commented,     with    little   court also characterized the decision to adhere to an
+explanation, that were it "called upon to decide this issue               acknowledged undercount as one which "disproportionately
+de novo, I would probably have ordered the adjustment"                    denies representation on the basis of race or ethnicity"
+(id. at 89). Nevertheless, the court agreed with one of the               (ibid.). Both consequences were identified as requiring
+Census Bureau’s principal statisticians that "reasonable                  heightened constitutional scrutiny (id. at 33-34).
+‘statisticians could differ on this conclusion” (id. at 91),                      Under     established   congressional   redistricting
+concluding that the Secretary’s decision had been neither                 standards, the court of appeals noted that once a plaintiff
+arbitrary nor capricious (ibid. ).                                        had shown "that a scheme was not the product of a good-
+                                                                          faith effort to achieve equality, ‘the burden shift(s] to the
+                 D.      Court of Appeals’ Decision.                      {governmental entity] to prove that the population
+                                                                          deviations in its plan were necessary to achieve some
+       All of the plaintiffs except California and Hudson                 legitimate state objective” (id. at 37 (quoting Karcher v.
+County, New Jersey, appealed the district court’s decision,               Daggett, 462 U.S. 725, 740 (1983) (emphasis added)). The
+arguing that because the case involved constitutional                     court    held    that    "the  findings    of the _ district
+claims, it should be remanded for de novo review.                  On     court .. . plainly show that plaintiffs carried their burden
+August 8, 1994, a divided panel of the United States Court                of proving that the Secretary’s refusal to adjust the census
+of Appeals for the Second Circuit ruled that the judgment                 in accordance with the PES did not reflect an effort to
+of the district court be vacated and the case remanded for                achieve equality as nearly as practicable” (id. at 38). In
+further proceedings to determine whether the decision not                 particular,   the   court  identified    the   Secretary's
+to adjust was essential to the achievement of a legitimate                acknowledgement that the adjusted numbers would likely
+governmental interest (id. at 4, 39-40).                                  make the census more accurate nationally and reduce the
+          The court first rejected Wisconsin’s and Oklahoma’s             disparate impact of census inaccuracies on minority groups
+argument that statistical estimation of the apportionment                 (ibid.).   The court pointed to the Secretary's valuing
+census was barred by the statutory exception to sampling                  distributive over numeric accuracy, his concerns regarding
+in the apportionment census contained in 13 U.S.C. § 195                  potential    manipulation    of, and _ disincentives        to,
+(id. at 23-25).        The court then reviewed         the                participation in future censuses and the foreseeability of
+constitutionality of the adjustment decision under equal                  the differential undercount as further evidence of his
+protection standards made applicable to the federal                       failure to make the required good faith effort (id. at 38-39).
+                                                                          Summarizing, the court stated "that plaintiffs amply
+                                                                          showed that the Secretary did not make the required effort
+      Guideline
+              One "mandate[{d] that
+                                 the actual count be considered
+                                                              the         to achieve numerical accuracy as nearly as practicable"
+most accurate count of the population ‘at the national state and local    (id. at 39). The court’s only conclusion regarding the
+level, unless an adjusted count is shown to be more accurate™             adjustment decision’s effect on equality of representation
+(Pet. Ap. 71-72). The court found that the plaintiffs had failed "to      in Congress was in its characterization of the Secretary’s
+illustrate affirmatively the superior accuracy of the adjusted counts
+either (1) at any level mentioned in Guideline      One, or (2) for any
+                                                                          decision as “declin[ing] to make the generally improving
+reasonable definition of accuracy” (id. at 78).
+                              14                                                               15
+
+
+adjustment that would lessen the disproportionate                “correcting” unintended errors in the census potentially
+undercounting of minorities if it would result in a              having   representational   consequences.      The   issue   of
+distribution of Representatives that would be different          whether the Secretary acted constitutionally in not
+from the present distribution, although just as accurate"        substituting statistically adjusted census results for the
+(id. at 38). Other than noting that census inaccuracies          population totals previously reported by the President and
+could affect equality in intrastate redistricting (id. at 33),   provided to the states is framed by the broader question of
+the court did not discuss the adjusted and unadjusted            whether    the Constitution       recognizes  a _ judicially
+numbers’ impact on equality in state-created congressional       enforceable right to specific census innovations which are
+and legislative districts. Stating that the proper standard      claimed necessary to achieve the “most accurate census
+of review was not the arbitrary and capricious standard          practicable."
+but the "more traditional standard applicable to an equal                Wisconsin submits that at least where the
+protection claim that a fundamental right has been denied        procedures selected for taking the census do not represent
+on the basis of race or ethnicity" (id. at 39-40), the court     a retreat from past efforts to take an accurate census, the
+held that the burden shifted to the Secretary to show that       Constitution does not create an entitlement to specific,
+the   result   of undercounting    minorities   furthered   a    previously untried, census innovations.     The recognition of
+legitimate governmental objective and was essential for the      a judicially enforceable right to the most accurate census
+achievement of that objective (id. at 40).                       practicable conflicts with Congress’ express constitutional
+        Dissenting,     Judge    Timbers    endorsed     the     and historically exercised authority to direct the manner of
+thoroughness and reasoning of the district court’s opinion       taking the census.   U.S. Const. art. I, § 2, cl. 3. There is a
+and noted the conflict created by the court of appeals’          fundamental difference between constitutionally proscribed
+decision with decisions of the Sixth and Seventh Circuits        census decisions and constitutionally mandated procedures.
+in City of Detroit v. Franklin, 4 F.3d 1367 (6th Cir. 1993),     There are many procedures capable of improving census
+cert. denied, 114 S. Ct. 1217 (1994), and Tucker v. U.S.         accuracy. No matter what procedures are selected, there
+Dept. of Commerce, 958 F.2d 1411 (7th Cir.), cert. denied,       will always be other procedures capable of producing a
+113 S. Ct. 407 (1992) (Pet. App. 40).                            more accurate census. A standard of consistency is not a
+                                                                 standard of mandated actions.          As reflected in the
+               SUMMARY OF ARGUMENT                               Constitution’s grant of congressional authority to
+                                                                 determine the best way of taking the census, the choice of
+         1. Franklin v. Massachusetts, 112 S. Ct. 2767, 2777     census procedures is an inherently legislative function
+(1992), held that census          decisions affecting the        involving complex technical and policy trade-offs, often
+apportionment of Congress will be reviewed for consistency       entailing resource allocation decisions. As two decades of
+with the language of the Constitution              and the       protracted litigation demonstrate, determining the impact
+constitutional goal of equal representation. In this case,       of adopting a given census procedure on equality of
+plaintiffs’ claim was not that a census procedure was            representation rests on complex and highly uncertain
+constitutionally proscribed, as was asserted in Franklin v.      predictions.
+Massachusetts, but that the Constitution mandated the use               Recognizing a judicially enforceable right to
+of additional procedures--here, statistical estimation           procedures claimed necessary to achieving the most
+techniques--in taking the 1990 census. Plaintiffs alleged        accurate census practicable creates an unworkable system
+that this methodological innovation was capable of               of census governance.   The census is a process intended to
+                                 16                                                                        17
+
+
+confer finality and certainty in the decennial reallocation                   was faced with a myriad of complex statistical arguments
+of rights of political representation. The strict statutory                   regarding the relative distributional accuracy of two
+timetable established for taking, completing and reporting                    imperfect sets of census results, making the substitution of
+the census and for reallocating rights of representation in                   census numbers technically and constitutionally perilous.
+the national government based on its results reflects the                     Because the constitutional purpose of the census is to
+need for finality. Claims to specific census innovations                      allocate rights of political representation based on the
+which result in litigation spanning more than half the                        distribution of the population among and within the states,
+decade can have no other consequence than to throw into                a:
+                                                                       ene,   the Secretary's focus on distributive, rather than numeric
+disarray     the   already-completed   process    of state                    accuracy, did not demonstrate an absence of good faith, but
+redistricting. Recognizing a constitutional entitlement to                    the opposite.
+specific census innovations threatens the Balkanization of                            The court of appeals wrongly concluded that the
+census decisions, as states forego Congress in favor of                       district court had "implicitly found" that the census failed
+individual district court actions, to secure those procedures                 to achieve equality of representation as nearly as
+viewed as conferring the greatest benefit in the count.                       practicable.      With respect to the census’s impact on
+That census decisions have representational consequences                      intrastate redistricting, the court of appeals failed to
+is a truism. Yet, as recognized by the Seventh Circuit,                       recognize the plaintiffs’ ability to use the adjusted numbers
+claims to specific census innovations do "not ask [courts] to                 for redistricting subsequent to the district court’s ordering
+decree equality. . . . [but] to take sides in a dispute among                 the data’s release. With respect to the census’s impact on
+statisticians,   demographers,        and   census   officials... ."          equality in the apportionment of Congress, the Second
+Tucker, 958 F.2d at 1418.        Simply by directing                          Circuit’s characterization of the PES apportionment as
+apportionment in accordance with the decennial census,                        "just as accurate" as the census apportionment meant that
+"Article I, section 2, clause 3 does not authorize law suits                  plaintiffs had not met the threshold burden, required even
+founded    on    disagreement    with       the Census    Bureau’s            in Art. I, § 2 redistricting cases, of demonstrating improved
+statistical methodology."   Ibid.                                             equality of representation in Congress. Karcher v. Daggett,
+                                                                              462 U.S. at 730-31. Plaintiffs’ failure to meet this burden
+        2. In this case, the Second Circuit erred in                          was also reflected in the district court’s express finding
+concluding that the Secretary had failed to make a good-                      that they had failed to demonstrate the superior accuracy
+faith effort to achieve equality of representation as nearly                  of the adjusted numbers at the national, state or local level
+as practicable and that the census denied representation                      and for any reasonable definition of accuracy.
+on the basis of race or ethnicity. Because these conclusions                          The Second Circuit’s concern regarding the
+were wrong, the court erred in holding that the adjustment                    differential undercount of minority populations was
+decision was to be reviewed under heightened equal                            understandable but did not support its conclusion that the
+protection standards.                                                         census denied representation on the basis of race or
+        The application of Art. I, § 2 redistricting standards                ethnicity. Representatives in Congress are apportioned to
+to census decisions is problematic.            Good faith in                  states, not to racial or ethnic groups. The question of
+redistricting reflects the objective feasibility of creating                  whether the census denies representation on the basis of
+equal population districts, measured by a "relatively rigid                   race or ethnicity is the same as whether the apportionment
+mathematical standard," U.S. Dept. of Commerce uv.                            of Congress is wrong. Unless this is demonstrated, shifting
+Montana, 503 U.S. 442, 464 (1992). Here, the Secretary                        seats in the House of Representatives from states with
+                              18                                                                           19
+
+
+relatively small, to states with relatively large, minority              far more deference than a state districting decision that is
+populations accomplishes nothing more than an arbitrary                  capable of being reviewed under a relatively rigid
+reallocat.on of rights of political representation.                      mathematical standard." Montana, 503 U.S. at 464.                 The
+                                                                         adjustment decision was constitutional.
+         3. Under Frunklin v. Massachusetts’ standard of
+consistency with the language of the Constitution and the                                           ARGUMENT
+constitutional goal of equality of representation, the
+Secretary’s decision was constitutional. Plaintiffs did not                      I.      THE RECOGNITION OF CLAIMS OF
+contend that adherence to the 200-year practice of actual                                CONSTITUTIONAL ENTITLEMENT TO
+enumeration was inconsistent with constitutional text or                                 SPECIFIC  CENSUS  INNOVATIONS
+history.     Conflicts with constitutional language and                                  CONFLICTS    WITH  CONGRESS’
+principles were, however, present in the PES.            The                             CONSTITUTIONAL AUTHORITY TO
+substitution of the estimates for the reported census would                              DIRECT THE MANNER OF TAKING
+have disrupted on-going state redistricting efforts, a result                            THE CENSUS AND CREATES AN
+conflicting with both the goal of equal representation and                               UNTENABLE SYSTEM OF CENSUS
+the need for census finality. State estimates were based on                              GOVERNANCE.
+samples taken in other states, conflicting with the
+constitutional requirement that Congress be apportioned                         A. Article I, § 2, cl. 3 (The Apportionment Clause),
+on the basis of each state’s population. U.S. Const. art. I,             as amended by Section 2 of the Fourteenth Amendment,
+§ 2, cl. 3; amend. XIV, § 2. By removing the incentive to                provides for the apportionment of Representatives in the
+take part in the census, estimation would make future                    House of Representatives among the states "according to
+censuses more difficult to conduct, also hindering the goal              their respective Numbers,” and directs that the "actual
+of representational equality by causing future inaccuracies.             Enumeration" be taken every ten years, "in such Manner
+More     broadly,   estimation    acquiesces    in citizen               as [Congress] shall by Law direct." With the adoption of
+non-participation in the processes of self-government,                   the Sixteenth Amendment, the census has the single
+particularly among those groups which have been least                    constitutional purpose of providing the states’ populations
+included in the political process. Vulnerable to political               for apportioning Congress. Carey v. Klutznick, 653 F.2d
+manipulation     and   producing   highly    unstable    results,        732, 736 (2d Cir. 1981), cert. denied, 455 U.S. 999 (1982).
+statistical   estimation   undermines       the   perception   of                Montana, 503 U.S. at 457-58, held that decisions
+legitimacy in the allocation of rights of political                      affecting the apportionment of Congress are justiciable.
+representation among and within states.                                  Franklin v. Massachusetts extended this holding to census
+       The Secretary’s decision was consonant with the                   decisions   affecting the apportionment,      112 S. Ct.
+goal of equality of representation. Very serious concerns                at 2776 n.2, stating that census decisions would be
+existed regarding the quality of the PES estimates,                 in   reviewed under a standard of consistency with the
+particularly as affecting their distributional accuracy. The             language of the Constitution and the constitutional goal of
+district court held that the Secretary’s comprehensive                   equal representation. Jd. at 2777. The specific question in
+evaluation of the technical and policy issues bearing on                 this   case   is whether    the    Secretary's   decision   not    to
+adjustment had been reasonable. In this circumstance, the                substitute statistically estimated population totals for the
+choice of census results was one necessarily "command|[ing]              1990 census was consistent with constitutional text and
+                                   20                                                                                21
+
+
+principles. That issue is framed by the broader question of                 representation. Conducting the census in a year not evenly
+whether the Constitution mandates the adoption of specific                  divisible by ten, U.S. Const. art. I, § 2, cl. 3, assigning
+census innovations claimed to be necessary to achieve the                   overseas military personnel to states based on place of
+most accurate census practicable.                                           birth, rather than “home of record" or other measure of
+        The recognition of a judicially enforceable right to                current state ties," delaying the reporting of census
+compel specific census innovations conflicts with the                       results until after the subsequent congressional elections
+Constitution’s express grant of congressional authority to                  or so late in the election cycle as to prevent their being
+direct the manner of taking the census and Congress’                        used to reapportion Congress, or directing that census
+historic exercise of that authority.         If courts are to decide        enumerators engage in substantially less canvassing of
+which procedures will achieve the most accurate census                      minority neighborhoods, are examples of census decisions
+practicable, then unless Congress directs that the census                   which would be inconsistent with the language of the
+be taken in a manner that a court agrees will achieve the                   Constitution or its goal of representational equality.'®
+greatest practicable accuracy, Congress’ decision will be                            But plaintiffs’ claim was not that the procedures
+unconstitutional.'*      While not stated, the recognition of a             employed       in     the        1990   census    were      constitutionally
+constitutional   right to specific census       procedures                  proscribed          but      that       additional      procedures     were
+necessarily assumes some basic institutional inability on                   constitutionally mandated. A standard of consistency with
+the part of Congress to address problems in the census and                  constitutional goals and language                    is different from a
+to direct the taking of an accurate census. This  is to say                 standard of mandated actions.                         The possibility of
+that the Founders of the Constitution erred in allocating                   alternative      decisions          being     equally    constitutional   is
+this constitutional function to the Legislative Branch.              Yet    suggested both in Montana, 503 U.S. at 463 ("The polestar
+there appear to be few, if any, historical examples to                      of equal representation does not provide sufficient guidance
+support this view. To the contrary, in 200 years, the                       to allow us to discern a single constitutionally permissible
+decennial census has evolved into a highly professional,                    course"), and Franklin v. Massachusetts, 112 S. Ct. at 2778
+methodologically sophisticated and costly operation which                   (finding Secretary's judgment to have been "consonant
+each decade attempts to count a larger proportion of the                    with, though not dictated by, the text and history of the
+population.       While the census continues to contain                     Constitution").             As    distinguished      from    congressional
+unintended     errors, this case is not in the realm of the
+embedded and extreme inequality presented in Baker v.
+Carr, 369 U.S. 186 (1962).
+       Plainly, there are a number of census decisions
+which would be constitutionally proscribed as inconsistent                     “Cf. Franklin v. Massachusetts, 112 S. Ct. at 2786 n.22 (Stevens, J.,
+with constitutional language or the goal of equal                           concurring in part and concurring in the judgment) (noting inability to
+                                                                            change "home of record" designation after entering military service as
+                                                                            implicating constitutional requirements of accuracy and decenniality).
+
+   “This view is reflected in Young v. Klutznick, 497 F. Supp. 1318,           “Because Congress retains the authority to alter the apportionment
+1326 (E.D. Mich. 1980), rev’d on other grounds, 652 F.2d 617 (6th Cir.      reported by the President, it can also correct census abuses as well as
+1981), cert. denied, 455 U.S. 939 (1982), in which the question of          innocent inaccuracies.     See 2 U.S.C. § 2a(b) (apportionment of
+whether   the Constitution   required   an   adjustment   in the official   Representatives shown on states’ Certificates of Entitlement effective "in
+population counts to reflectthe differential undercount of minorities was   each Congress thereafter until the taking effect of a reapportionment
+held “not for the Congress, but for the judiciary.”                         under this section or subsequent statute” (emphasis added)).
+                                     22                                                                               23
+
+
+apportionment,”         decisions      regarding       the census           are   1,392 mutually exclusive demographic strata produces
+noteworthy not only because of the nearly limitless number                        results whose bias and variability prevent improvement in
+of procedural choices available, but because many decisions                       the census’s distributional accuracy, the Constitution does
+would       properly     be      regarded       as_    consistent          with   not mandate a sample of two million people next be taken.
+constitutional language and the goal of representational                                  Decisions regarding the best way of conducting the
+equality, notwithstanding the likely superiority of                               census necessarily "command([] far more deference than a
+alternative or additional procedures as giving more                               state districting decision that is capable of being reviewed
+accurate counts.                                                                  undera relatively rigid mathematical standard." Montana,
+       Hiring 400,000 enumerators should produce a more                           503 U.S. at 464. Review of census decisions should reflect
+accurate census than employing 300,000, yet either level                          the    need    for   prompt     determinations        of validity       or
+would seem constitutionally permissible. Assigning more                           invalidity, so as to limit the impact of review on census
+enumerators on a per capita basis to states with large                            finality. This counsels courts to avoid transforming review
+numbers of non-citizens or linguistic minorities would                            of census decisions into legislative determinations of the
+appear constitutionally permissible, even though its                              procedures best capable of producing the most accurate
+necessary consequence would be to reduce the per capita                           census practicable. In general, where challenged census
+assignment in other states.           Ten attempts at non-response                procedures represent the adherence to, or reasonable
+follow-up should yield more accurate counts than six                              modifications of, previous census practices and do not
+attempts, which should yield more accurate counts than                            represent a retreat from attempts to obtain an accurate
+four attempts. Yet the Constitution would seem satisfied                          census,” they should be sustained.                In general, unless
+whether four, six or ten attempts are made. Because the                           their adoption would conflict with other constitutional
+census is used to allocate rights of political representation                     principles, innovations to improve coverage should be
+over the next ten years, a census taken on October 1                              sustained. Particularly where challenged census action
+should be more accurate in terms of providing more current                        consists of a decision not to adopt a specific methodological
+population totals than one taken on April 1. Yet the choice                       innovation, the decision should be upheld. It is not that
+of an April 1 census data should also be constitutional. If                       decisions not to adopt specific census innovations are
+a post-census sample of 377,000 people stratified among                           unreviewable, but that in nearly all cases they are
+                                                                                  constitutional. Cf. Montana, 503 U.S. at 458 (decision that
+                                                                                  a constitutional provision may not be judicially enforceable
+                                                                                  "is of course very different from determining that specific
+    In the case of apportionment, Art. I, § 2 requires that each state be         congressional action does not violate the Constitution"). If
+apportioned at least one Representative and that there be no fewer than           exceptions need to be recognized to this standard, they are
+30,000   inhabitants   per    Representative   once   each   state   has   been   not presented by a case in which the innovation being
+apportioned one. Congress must also select an apportionment that is
+                                                                                  advanced represents a departure from a 200-year practice
+related to population. Montana, 503 U.S. at 463. Beyond this, it seems
+very likely that congressional apportionment    is required to reflect rough
+proportionality to the states’ populations--if a state with a population of
+1,000,000 is apportioned two Representatives, a state with a population
+of 2,000,000 cannot be apportioned eight. It may be that because
+                                                                                     “Thus, in arguing that a constitutional entitlement to specific census
+                                                                                  innovations should not be recognized, Wisconsin is not suggesting that
+mathematical analysis has concluded that only five methods of
+                                                                                  the wholes: » abandonm
+                                                                                                    of prior censusent
+                                                                                                                    procedures, unless replaced
+apportionment lead to a workable solution of the fractional remainder
+                                                                                  by new ones, would not be subject to constitutional constraints. This is
+problem, see id. at 451-52, the selection of one of these methods is
+                                                                                  not, however, what was being alleged here.
+required.
+                                  24                                                                           25
+
+
+of actual enumeration, in which intense professional and                  judgments as each court focuses on the particular
+scientific debate exists as to the feasibility of the                     innovation advanced by the plaintiffs before it. Unlike
+innovation and its potential for introducing new errors into              Congress, where all states are represented, adversely
+the count, and in which significant policy reasons, many of               affected states are likely to be heard at all only if they
+constitutional     stature,   militate   against the procedure’s          submit to the jurisdiction of a court which would not
+adoption.                                                                 otherwise have jurisdiction over them.
+        States,      municipalities,      citizen     groups      and             Claims to the adoption of specific census innovations
+individuals perceiving an advantage in a particular                       inherently conflict with the need for finality and certainty
+procedure or methodological innovation are free to petition               in the decennial reallocation of representational rights,
+Congress for its adoption.”       Because all states are                  both among and within the states. This need is reflected
+represented in Congress, states which would be adversely                  in the strict statutory timetable established by Congress
+affected by a particular innovation are able to advance                   for taking and completing the census, for reporting its
+their interests or to offer alternative procedures. The                   results to Congress and to the states and for translating
+selection of the many procedures which actually go into the               the results into entitlements to representation in the
+taking of the census represents the outcome of an                         national government.” Protracted litigation as the vehicle
+evolutionary process in which innovations are conceived of,               for deciding the best way of conducting the census
+debated,      developed,   tested, implemented,       retained    and     threatens substantial disruption of state redistricting
+abandoned in an attempt to achieve more accurate counts                   efforts. The effect of changing census numbers on states
+each decade. Once the methods of taking the census have                   whose apportionments would change is plain. A state told
+been selected, each state has the incentive to encourage the              that it has one less Representative than before cannot hold
+greatest census response on the part of its residents within              elections with its current districts. But even states whose
+the established methodological framework.                                 apportionments do not change will witness an apparent
+                                                                          change in district populations when census results are
+        B. The recognition of a constitutional right to the               changed. Because Art. I, § 2 imposes a standard of precise
+most accurate census practicable not only conflicts with the              mathematical equality in congressional redistricting,
+Constitution’s grant of congressional authority but results               Karcher v. Daggett, 462 U.S. at 734, already-established
+in an untenable system of census governance.             The
+recognition of these claims encourages states and
+municipalities to eschew Congress in favor of individual                     Under the current census statutes, April 1 is established as the
+district court actions to compel those innovations perceived              decennial census date.   13 U.S.C. § 141(a).   Under 13 U.S.C. § 141(b),
+as conferring the greatest benefit in the count. This has                 the Secretary of Commerce is required to report the states’ population
+the potential of producing different, if not inconsistent,                totals to the President by December 31 of the census year. Under
+                                                                          2 U.S.C. § 2a(a), the President is to report the states’ population totals
+                                                                          and the new apportionment to Congress within the first week of its first
+                                                                          session in the year following the census, with the apportionment
+                                                                          determined using the method of equal proportions. The President’s
+   *Congress did not enact any of the legislation introduced before and   report establishes a state’s entitlement to a particular number of
+after the 1990 census to compel its stetistical adjustment.        See    Representatives.     Franklin v. Massachusetts, 112 S.Ct. at 2773
+Congressional Research Service, Decennial Census Coverage:         The    (plurality opinion). Within fifteen days after the President’s report, the
+Adjustment Issue, at 23-27 (Feb. 1, 1994), for summary of legislation     Clerk of the House of Representatives is required to send to each state’s
+introduced in the 100th through 103rd Congresses relating to census       governor a Certificate of Entitlement showing the state’s new
+adjustment.                                                               apportionment.   2 U.S.C. § 2a(b).
+                                  26                                                                                27
+                        —————
+
+
+
+
+districts can be claimed to be unconstitutional.                 Either     whatever procedures are selected for taking the census,
+under Art. I, § 2 or state constitutional provisions,”                      additional procedures can always be posited for improving
+states may either feel or be compelled to draw new                          census accuracy. Doubling the expenditure for targeted
+congressional and legislative districts. Whether a state                    outreach should make the census more accurate. If a
+retains or redraws       its districts, its choice could easily             400,000-person sample fails to improve accuracy, a
+trigger litigation. At the same time, litigation which spans                post-cunsus sample of a million can be posited which
+half the decade determining the best way of taking the                      might. The examples also point to the fact that the choice
+census can ultimately provide at most a formal, rather                      of census procedures is an inherently legislative task,
+than real, improvement in equality of representation.                       requiring the balancing of technical and policy trade-offs,
+Correction of population totals as they existed on April 1,                 often entailing resource allocation decisions. Increasing
+1990, become increasingly less relevant to true equality as                 enumerator positions reduces resources available for other
+the decade progresses, which is the reason a new census is                  census programs or for non-census expenditures. Changing
+taken at the decade’s end. There might be cases where the                   the date for taking the census or for reporting its results
+need for census finality must give way to superior                          may improve accuracy, but at the cost of shortening the
+constitutional commands, as where plainly unconstitutional                  time for states to accomplish redistricting.
+action is not discovered until after Congress’ election under                       Even if the concept of census "practicability" had
+the new census.      A claim that specific methodological                   obvious boundaries, determining the effect of a specific
+innovations    are necessary to achieving census              accuracy      census procedure’s adoption on equality of representation
+does not present such a case.                                               at best involves complex and uncertain judgments for
+        A judicially enforceable right to the most accurate                 which "[nJeither mathematical analysis nor constitutional
+census    practicable invokes no clear standard             of              interpretation provides a conclusive answer." Montana,
+constitutionality. Article I, § 2 redistricting standards are               503 U.S. at 463. A court might be able to select census
+not successfully engrafted onto census decisions merely by                  procedures believed to offer the best chances of ensuring
+substituting the phrase "as accurate as is practicable" for                 the greatest number of people being counted, although it is
+"as equal as is practicable." The concept of practicability                 unlikely to have any greater abilities in this regard than
+with respect to census accuracy is defined over the set of                  Congress or the Executive. But the constitutional basis for
+all possible census procedures which might be used in                       asking courts to compel specific census innovations is not
+counting the population. Available choices range from                       the desirability of counting the greatest number of people
+decisions as broad as the level of census appropriations to                 but the ability to distribute the population correctly among
+decisions as specific as the actual assignment of                           the states. That the selection of census procedures will
+enumerators, the script to be followed during non-response                  have representational consequences is a truism. Where
+follow-up, or the length and format of census                               small     changes        in state       populations      can     change    the
+questionnaires.      As previous examples         regarding
+constitutionally permissible census procedures suggest,
+                                                                               =New       York’s    and New       Jersey's errors   in predicting higher
+                                                                            populations     under   statistical   estimation   present     a good example.
+                                                                            Philadelphia, also a plaintiff, wouid not only lose population as a share
+   "1See e.g., Wis. Const. Art. IV, § 3 ("At its first session after each   of the national total under the PES (A.R. App. 10 (June 13, 1991), Table
+enumeration made by the authority of the United States, the legislature     3 (estimated undercount 0.8% below national estimates)) but would
+shall apportion and district anew the members of the senate and             suffer reduced representation in Congress resulting from Pennsylvania’s
+assembly, according to the number of inhabitants").                         loss of a House seat.
+                                    28                                                                           29
+
+
+apportionment of Congress, the abstract recognition of the                     group of Illinois plaintiffs alleged that the existence of a
+relation between census errors and representational rights                     differential undercount in the 1990 census would "cause[]
+does not confer the ability to predict accurately the impact                   them      to lose representation       in the House        of
+of census innovations on representational equality.                            Representatives and a fair share of federal and state funds
+        The Sixth and Seventh Circuit’s decisions in Tucker                    allocated on the basis of the census figures." Jd. at 1412.
+v. U.S. Dept. of Commerce and City of Detroit v. Franklin ™                    The plaintiffs’ suit sought to compel "an appropriate
+reflect a deep and well-founded judicial skepticism, not as                    statistical adjustment for the undercount," ibid., as part of
+to the need for review of census decisions which contravene                    the decennial census. The district court had dismissed the
+constitutional text or principles, but as to the courts’ ability               claim as presenting a non-justiciable political question.
+to mandate the adoption of specific census innovations in                      Tucker v. U.S. Dept. of Commerce, 135 F.R.D. 175 (N.D. Ill.
+the guise of enforcing the Constitution.“                  In Tucker, a        1991). On appeal, the Seventh Circuit ruled that the claim
+                                                                               was not justiciable because the plaintiffs lacked standing
+                                                                               in the sense of having litigable rights. Tucker, 958 F.2d
+   *Three court of appeals’ decisions from the 1980 census concerned           1415-17.
+claims to statistical adjustment.   See Carey v. Klutznick, 637 F.2d 834                Decided a few months before Franklin              ov.
+(2d Cir. 1980) (upholding preliminary injunction requiring procedures          Massachusetts, Tucker was predictive of the standard of
+to correct errors in New York’s and New York City’s count; evidence of         review of census decisions subsequently established by this
+census underccunt of minority populations held to establish likelihood         Court. The Seventh Circuit understood the plaintiffs’ claim
+of success on the merits in light of Art. I, § 2 congressional redistricting
+                                                                               to be that without a statistical adjustment they would lose
+standard in Wesberry v. Sanders, 376 U.S. 1, 7-8 (1964), requiring voting
+equality "as nearly as is practicable"); Carey v. Klutznick, 653 F.2d 732      congressional representation.”           While stating that the
+(2d Cir. 1981) (reversing and remanding district court’s subsequent            case was not a reapportionment case, Tucker, 958 F.2d
+judgment on the merits; district court’s broad sanction order for              at 1415, the court of appeals held that the claim was not
+government’s refusal to produce confidential master address registers          barred under the political questions doctrine, stating that
+held to punish unrepresented states which would be adversely affected          "the political sensitivities that might have been thought to
+by adjustment of single state’s population by preventing full and fair
+disclosure of facts and adjudication of the merits), cert. denied, 455 U.S.
+                                                                               bring the apportionment cases within the scope of the
+999 (1982) (see also Klutznick v. Carey, 449 U.S. 1068 (1980) (staying         political questions doctrine, but did not, are not greater
+portion of district court’s judgment enjoining the reporting of census         here." Ibid. The court also recognized the judiciary’s
+results to President on December 31, 1980)); Young v. Klutznick,               ability to decide census questions where established
+652 F.2d 617 (6th Cir. 1981) (reversing judgment compelling                    constitutional principles provide the grounds for the
+development of methods to statistically adjust census to correct for
+                                                                               decision, as in a case “concernied]          with discrimination
+minority undercounts; plaintiffs held to lack standing and claim held not
+ripe because alleged loss of representation from undercount would result       rather than      innocent inaccuracy" or, with greater
+from the Michigan Legislature’s intervening decision not to adjust the         reservations,    with respect to a challenge to "some
+census in redistricting, which had not yet occurred), cert. denied, 455        categorical judgment of inclusion or exclusion argued to be
+U.S. 939 (1982).
+
+    *The Second Circuit’s discussion of Tucker was limited to noting the
+Seventh Circuit’s recognition that in redistricting
+                                                cases plaintiffs are not          *®Tucker, 958 F.2d at 1415-16 (noting that litigation had not been
+required to prove that districting inequalities represent a deliberate         allowed to proceed to the point where the plaintiffs would be required
+effort to dilute an affected group’s voting power (Pet. App. 36, citing        to specify the adjustment sought, preventing a determination that they
+Tucker,
+    958 F.2d at 1414). The court of appeals’ decision did not discuss          had nothing to gain from winning the case).
+City of Detroit.
+                                 30                                                               31
+
+
+in violation of history, logic, and common  sense."                  would result in inequalities of representation in state
+Id. at 1418  (citing Com.  of Mass.  v. Mosbacher,                   redistricting. Id. at 1373-74.
+785 F. Supp.   230 (D. Mass.          1992) (three-judge court),              The Sixth and Seventh           Circuit’s  negative
+rev'd sub nom.,     Franklin     v. Massachusetts,    supra.    In   assessment of the courts’ ability to decree equality by
+contrast to these types of claims, the Seventh Circuit held          taking sides in disputes regarding the Census Bureau’s
+that merely by directing congressional apportionment in              statistical methodology resonates in the Constitution’s
+accordance with the decennial census, "Article I, section 2,         positive grant of census authority. The issue raised by
+clause 3 does not authorize lawsuits founded on                      plaintiffs’ claim is not whether a given census innovation
+disagreement       with    the   Census    Bureau’s    statistical   is permissible, or even desirable, but whether the
+methodology." Tucker, 958 F.2d at 1418. Unable to find in            Constitution creates an entitlement to its adoption. The
+the apportionment clause, the census statutes or the                 goal of equality is not demeaned, but respected, by
+Administrative Procedure Act guidelines for taking an                recognizing the limits of the courts’ ability to perform the
+accurate decennial census, the court stated:                         inherently legislative function of determining how best to
+                                                                     take the census. The existence of an unbounded set of
+       So nondirective are the relevant statutes that it is          procedures having the potential for improving census
+       arguable that there is no law for a court to apply in         accuracy, the complex policy and technical calculus
+       a case like this, . . . --that you might as well turn it      involved in the selection of census procedures, and the still
+       over to a panel of statisticians and political                greater complexity of determining the relation between
+       scientists and let them make the decision, for all            census procedures and their impact on equality of
+       that a court could do to add to its rationality or            representation make the decision whether to employ
+       fairness.                                           .         specific methodological innovations one for Congress, as the
+                                                                     Constitution directs.
+Id. at 1417-18 (citations omitted).       Contrasting the
+judicially administrable standard of voting equality in                     Il     BY   MISAPPREHENDING      THE
+redistricting cases, the court characterized the plaintiffs’                       RELATION    BETWEEN    CENSUS
+claim as one not asking a court to decree equality but "to                         ACCURACY   AND   EQUALITY   OF
+take sides in a dispute among statisticians, demographers,                         REPRESENTATION, THE COURT OF
+and census officials concerning the desirability of making                         APPEALS ERRED IN HOLDING THAT
+a statistical adjustment to the census headcount."                                 THE ADJUSTMENT DECISION WAS
+Id. at 1418.                                                                       SUBJECT TO HEIGHTENED EQUAL
+        In City of Detroit, the Sixth Circuit followed the                         PROTECTION SCRUTINY.
+Seventh Circuit’s reasoning to uphold summary judgment
+dismissing a claim seeking to compel statistical adjustment                  A. In concluding that Secretary Mosbacher had not
+of the 1990 census        or to compel a recount of Detroit’s        made the required effort to achieve equality as nearly as
+residents. 4 F.3d at 1375-78. Concluding that states could           practicable, the court of appeals referred to “Congress’s
+use statistically adjusted census data in congressional              expressed intent to encourage such use [of statistics]"
+redistricting, the court also affirmed the dismissal of a            (Pet. App. 38), an apparent reference to the court’s earlier
+claim for lack of standing that unadjusted census data
+                                    32                                                                          33
+
+
+holding that 13 U.S.C. § 195” does not preclude the use                     purposes.” The term "census of the population," as used
+of sampling in the taking of the reapportionment census.                    in § 141(a) is defined in § 141(g) to mean a "census of
+The court held to the contrary that the statute’s legislative               population, housing, and matters relating to population
+history revealed “that a statistical adjustment to the initial              and housing.”      No conflict exists between § 195’s
+enumeration is not barred by the Census Act and indeed                      prohibition of sampling for purposes of obtaining the
+was meant to be encouraged" (Pet. App. 25).                                 population used in apportionment and § 141(a)’s and
+        The court incorrectly interpreted § 195. When                       § 195’s encouragement of sampling for other purposes.
+enacted in 1957, § 195 permitted the use of sampling                        When determining the apportionment census, the
+"felxcept for the determination of population for                           Secretary is not authorized to use sampling. For other
+apportionment        purposes."”’           The    current   statutory      census purposes--such as determining the portion of a
+language reflects its 1976 amendment (P.L. 94-521,                          state’s population living in owner-occupied housing--the
+90 Stat. 2464) to require, rather than simply permit,                       Secretary is encouraged to use sampling, where feasible.”
+sampling where feasible.         The same law amended
+13 U.S.C. § 141(a) to authorize the Secretary of Commerce                           B. The court of appeals’ greater error lay in
+to determine the “form and content" of "the decennial                       concluding    that   the enumeration       census  denied
+census of the population . . . including the use of sampling                representation on the basis of race or ethnicity and that
+procedures and special surveys." The court of appeals                       the Secretary had failed to make the required good faith
+correctly viewed the legislative history of the amendments                  effort to achieve equality of representation as nearly as
+to §§ 141(a) and 195 as revealing a congressional intent to                 practicable.       Based     on    these      conclusions,      the     court
+encourage the use of sampling.         See Pet. App. 24-25.                 incorrectly held that the adjustment decision was subject
+However, the same legislative history, like the express
+language     of § 195 both         before    and   after amendment,
+specifically excepted the use of sampling for apportionment
+                                                                               *The court of appeals quoted the language of S. Rep. No. 1256,
+                                                                            94th Cong., 2d Sess. 6 (1976), reprinted in 1976 U.S. Code Cong. &
+                                                                            Admin. News 5463, 5468, which states:
+
+                                                                                              Section 10 amends section 195 of title 13, U.S.C., to
+                                                                                    require that the Secretary of Commerce authorize the use of
+                                                                                    sampling procedures in carrying out the provisions of this title
+                                                                                     whenever he deems it feasible, except in the apportionment of
+                                                                                     the U.S. House of Representatives. This differs   from present
+   "Except for the determination of population for purposes of                       language which grants the Secretary discretion to use sampling
+apportionment of Representatives among the States, the Secretary shall,              when it is considered appropriate. The section     as amended
+if he considers it feasible, authorize the use of the statistical method             strengthens congressional       intent   that,   whenever    possible,
+known as ‘sampling’ in carrying out the provisions of this title.”                   sampling  shall be used.
+13 U.S.C. § 195.
+                                                                            The court emphasized the last sentence (Pet. App. 25).
+    "As originally enacted, 13 U.S.C. § 195 provided: “Except for the
+determination of population for apportionment purposes, the Secretary          “Thus, the in pari materia construction
+                                                                                                                   of §§ 195 and 141 as
+may, where he deems it appropriate, authorize the use of the statistical    permitting sampling in the apportionment census in Carey v. Klutznick,
+method known as ‘sampling’ in carrying out the provisions of this title."   508 F. Supp. 404, 415 (S.D.N.Y. 1980), and followed by the district court
+P.L. 85-207, § 14, 71 Stat. 484.                                            here (Pet. App. 110 n.7) is incorrect.
+                                 34                                                                    35
+
+to heightened scrutiny under Art. I, § 2 congressional                    court, the Secretary was concerned that adjustment might
+redistricting standards and under equal protection                        result in an incorrect apportionment of Congress
+standards governing racial classifications.                               (Pet. App. 19, 38).    Half of his advisors believed that
+        The ability  to engraft Art.I, §2 redistricting                   accuracy at the state and local levels would not be
+standards onto census decisions is problematic. In the case               improved (id. at 19). Uncertainty as to the methods of
+of intrastate congressional districting, “Article I, § 2...               adjustment and their underlying assumptions created the
+‘permits only the limited population variances which are                  danger that an adjustment would be made on the basis of
+unavoidable despite a good-faith effort to achieve absolute               research conclusions that might well be reversed in the
+equality, or for which justification is shown.” Karcher v.                next several months (ibid.). Because the effects of different
+Daggett, 462 U.S. at 730 (quoting Kirkpatrick v. Preisler,                adjustment methods could be known in advance, the
+394 U.S. 526, 531 (1969)). The ability to put forward a                   adjustment process might become subject to political
+redistricting plan, either considered by the Legislature or               manipulation (id. at 19, 38). The Secretary also found that
+developed by the plaintiff, which achieves smaller                        adjustment would not result in greater distributive
+population deviations than the state plan establishes a                   accuracy and that statistical estimation would undermine
+state’s failure to make a good faith effort to achieve                    future census participation by removing the incentive for
+equality of representation as nearly as practicable.” The                 states to cooperate in the census (id. at 38).
+concept of good faith reflects objective feasibility rather                       Given its interpretation of the district court’s
+than an impressionistic assessment of subjective purpose.                 decision as having “implicitly found" that the census failed
+        In contrast to state redistricting standards, for the             to achieve       equality    of representation      and    its
+1990 census no rigid formula existed for determining                      characterization of the Secretary’s adherence to the census
+whether the estimated population totals were better than                  as denying representation on the basis of race or ethnicity
+the original census in the constitutionally relevant sense of             (id. at 34), the court of appeals’ decision suggests that the
+improving equality of representation in Congress. Instead,                court viewed the adjusted numbers as clearly superior to
+the Secretary was presented with a myriad of complex                      the enumeration census in terms of achieving equality of
+statistical arguments, subject to intense dispute among                   representation either with respect to the apportionment of
+statisticians and demographers, concerning the relative                   Congress or in state redistricting. Yet other parts of the
+distributional accuracy of two sets of numbers, each known                decision contradict this interpretation. In summarizing the
+not to represent “true” population totals.                                adjustment decision, the court stated that the Secretary
+         The concerns identified by the court of appeals as               had “conced{ed] that the adjustments would likely bring
+underlying the decision not to adjust read not as an                      greater accuracy in the count at the national level" but
+indictment of the decision but as proof of the Secretary's                that he had expressed a principal concern "that adjustment
+reasoned evaluation of an exceedingly complex and                         might not improve distribution of Representatives among
+constitutionally perilous issue. As summarized by the                     the states" (id. at 19). The court returned to the effect of
+                                                                          adjustment      on    congressional    apportionment      in
+                                                                          summarizing its reasons for finding that the Secretary had
+   Thus,
+     in Karcher v. Daggett, the plaintiffs were able to sustain           not made a good faith effort to achieve equality of
+their threshold burden by pointing to several plans considered, but not   representation.   The court pointed to the Secretary’s
+adopted, by the New Jersey Legislature which resulted in smaller          statement "that an adjustment would not be made because
+population deviations than the 0.6984% maximum deviation under the        it would not result in greater distributive accuracy," as
+challenged plan. 462 U.S. at 738.
+                              36                                                                     37
+
+
+revealing that “he would decline to make the generally             numeric accuracy of the state’s count, as would adding
+improving      adjustment      that     would      essen.    the   120,000 to the population of a state whose “true”
+disproportionate undercounting of minorities if it would           undercount was 80,000. But if the result would be to cause
+result in a distribution of Representatives that would be          the first state to lose a seat in Congress, to which it would
+different from the present distribution, although just as          be entitled under the states’ "true" populations, equality of
+accurate” (id. at 38 (emphasis in the original)). The court        representation does not improve, but deteriorate, by
+did not state that the evidence established that the               increasing numeric accuracy.”'
+adjusted counts resulted in the correct apportionment of                    The Art. I, § 2 redistricting
+                                                                                                  standard relied on by
+Congress or that adherence to the original counts caused           the court of appeals places the burden on parties
+an incorrect apportionment. The court of appeals did not           challenging a state’s plan to establish that population
+make any finding with respect to the adjusted numbers’             differences ceid have been reduced or eliminated by a
+impact on equality of representation in intrastate                 good-faith effort to draw equal population districts
+districting and did not discuss the plaintiffs’ ability to         (Pet. App. 36-37, citing Karcher v. Daggett, 462 U.S.
+achieve intrastate equality by using the adjusted data             at 730-31). In redistricting cases, this threshold burden is
+ordered released more than a year before.                          met by a plaintiffs putting forward a plan which achieves
+        The court emphasized the perceived numeric                 smaller population deviations than those under the state
+accuracy of the adjusted numbers, particularly at the              plan. The failure to come forward with such a plan defeats
+national level, as a key fact demonstrating the Secretary's        a plaintiffs claim See Karcher v. Daggett, 462 U.S. at 731
+lack of good faith. The court’s emphasis on numeric                ("if [redistricting plaintiffs) fail to show that the differences
+accuracy not only highlights its misconception of the              could have been avoided the apportionment scheme must
+relation between census accuracy and equality of                   be upheld"). If standards for congressional redistricting
+representation but underscores the Secretary's good faith          are to be applied to the census, the ability to point to a
+in not focusing on this aspect of census accuracy. A census        different apportionment using a different set of census
+which achieves "true" numeric accuracy in the count of the         totals does not answer whether the new apportionment
+national population has no inherent superiority over one           improves equality of representation.      Cf. Franklin uv.
+which does not.       What makes one set of numbers                Massachusetts,      112 S.Ct.      at 2778     (although     different
+constitutionally superior is its ability to distribute correctly   apportionment would have resulted from exclusion of
+a given national population among the states. If this              overseas personnel from apportionment census, "certainly
+occurs, it is constitutionally irrelevant whether the              appellees have not demonstrated that eliminating overseas
+national count is half or double its “true” level or               employees entirely from the state counts will make
+somewhere in between. The same percentage distribution             representation in Congress more equal"). Even accepting
+of the national population among the states will result in         the court of appeals’ characterization of the PES
+the same apportionment, regardless of the level of the             apportionment as being "just as accurate" as the census
+national population. Unless they result in the correct             apportionment, "just as accurate" does not mean a better
+distribution of the national population, improvements in           apportionment, only a different apportionment.        The
+the numeric accuracy of state population totals are
+ similarly uninformative on the issue of representational
+ equality. Adding 30,000 to the population total of a state            3'An example of increased numeric accuracy causing representational
+ whose “true” undercount was 50,000 would improve the              equality to worsen is contained in the Secretary’s adjustment decision
+                                                                   (Pet. App. 183).
+                               38                                                                 39
+
+
+district court did not "implicitly" find that the census failed     power). If anything, positing a differential undercount as
+to achieve equality of representation as nearly as                  the reason for a loss of representation offers to prove more
+practicable. Rather the district court expressly found that         than is necessary. If the numbers used to apportion
+plaintiffs failed to demonstrate at the national, state or          Congress result in an unintended but nevertheless
+local level, and for any reasonable definition of accuracy,         avoidable malapportionment, then from a constitutional
+that the adjusted numbers were superior to the census               standpoint it does not matter why this has occurred but
+(Pet. App. 78).                                                     that it has occurred. See ibid. (in redistricting cases, "[i]t
+                                                                    is enough that the state’s electoral districts are
+        C. The court of appeals’ concern regarding the              malapportioned.")
+persistence of the differential undercount of minorities was                Instead, the court of appeals’ error lay in its
+understandable.      But the existence of the differential          assumption that the existence of the undercount
+undercount did not warrant the conclusion either that the           differential meant that representation had been denied to
+Secretary had failed to achieve equality of representation          begin with. Representatives in Congress are apportioned
+as nearly as practicable or that the census denied                  to states, not racial or ethnic groups. Every state has
+representation on the basis of race or ethnicity.                   racial and ethnic minorities, and the effect of changing a
+        To the extent the Second Circuit conceived of a right       state’s apportionment is the same for all its residents,
+to be counted in the census, independent of the impact of           regardless  of race or ethnicity. Taking  a House seat from
+census inaccuracies on equality of representation, its              Wisconsin reduces the representation of black voters in
+analysis of the census’s differential count of minorities was       Milwaukee to the same extent as it reduces the
+not consistent with established Equal Protection principles.        representation of white voters in Green Bay, Menominee
+An equal protection violation based upon racial                     voters in Keshena and Hmong voters in Eau Claire.
+discrimination requires proof of discriminatory purpose.            Whether      a particular      ethnic   or racial      group’s
+Washington v. Davis, 426 U.S. 229, 239-245 (1976). Here,            representational rights can be improved through a different
+plaintiffs did not allege any discriminatory purpose.               apportionment of Congress is the same question as
+Neither the adjustment decision nor the procedures                  whether the apportionment can be improved.             Unless
+selected for taking the enumeration census give the least           adjustment will improve equality of representation in
+hint of discriminatory purpose.       The 1990 census was           Congress, all that is accomplished by shifting seats in
+noteworthy for its concerted and comprehensive efforts to           Congress from states with relatively small minority
+count minority residents.                                           populations to states with relatively large minority
+        The court of appeals’ decision did not focus on the         populations is an arbitrary reallocation of rights of political
+differential undercount’s impact on non-representational            representation.
+interests,   but   on   its   effect   on   the   allocation   of           The differential undercount provides a highly
+representational rights.     In this regard, the court of           stylized reason for why the census might result in
+appeals did not err in concluding that a denial of                  inequality of representation in Congress.      It does not
+representation on the basis of race or ethnicity does not           answer the question of whether this has occurred or, if it
+require proof of discriminatory purpose. Accord Tucker,             has occurred, how to correct it. The complex texture of the
+958 F.2d at 1414 (redistricting cases do not place on               PES estimates involved much more than the measurement
+plaintiffs any burden of proving that a malapportionment
+represents a deliberate effort to dilute some group’s voting
+                                  40                                                                         41
+
+
+of racial and ethnic undercount differentials nationally.”                 therefore, was not made until more than six months after
+More importantly, there was no finding that the census                     the President’s report of the states’ apportionments to
+resulted in inequality in the apportionment of Congress or                 Congress,
+                                                                                 2 U.S.C. § 2a, and more than three months after
+that the adjusted numbers would improve equality.                          the time established for the provision of P.L. 94-171 data
+Accordingly, the court of appeals erred in holding that the                for use in state redistricting. 13 U.S.C. §14l(c). The
+adjustment decision was subject to heightened equal                        substitution of the adjusted numbers for the enumeration
+protection scrutiny. -                                                     census would have required states to begin again the
+                                                                           politically complex task of redistricting or--what would
+        lll.     THE SECRETARY’S                DECISION         WAS       have been still more disruptive--to become embroiled in
+                 CONSTITUTIONAL.                                           litigation as to the numbers to be used in redistricting.
+                                                                           Efforts to achieve greater census accuracy at the cost of
+       A. Plaintiffs did not contend that the decision to                  impairing the states’ ability to establish new districts and
+adhere    to the     enumeration    census   contravened                   hold elections present no clear improvement                 in
+constitutional text or history.        To the contrary, over and           representational equality.
+above the broader conflict between claims of constitutional                        Adjusting the census would have represented the
+entitlement to specific census innovations and Congress’                   first time in the nation’s history that the states’
+constitutional and historically exercised authority to direct              apportionment populations would have been based on
+the manner of taking the census, aspects of the PES                        counts in other states (Pet. App. 251-52). Statistically, this
+conflicted with constitutional language and principles.                    fact implicates the problem of assuming homogeneity of the
+        Even if the Secretary’s decision regarding the use of              sample strata--the assumption, for example, that
+the adjusted numbers had not led to further litigation, the                African-American residents of Madison had the same
+PES numbers would have been untimely. The actual post-                     chance of being counted in the census as their post-stratum
+census survey was not begun until nearly three months                      counterparts living in Peoria. Yet Wisconsin showed a
+after the April 1 census date. Because       of the process’s              significant increase in its African-American population
+complexity, initial results of the PES were not reported                   between 1980 and 1990--indicating relatively recent
+until April 1991 and revised estimates were not reported                   immigration into the state--not witnessed in other states in
+until June 1991, which continued to contain errors not                     the East North Central census region.* Constitutionally,
+corrected until the following spring. The evaluation of the                the reliance on sample observations in other states to
+estimates was not sufficiently completed to permit a
+decision until July 15, 1991. The adjustment decision,
+                                                                              *Wisconsin’s African-American population grew by 33.5% during the
+                                                                           decade of the 1980’s, compared to less than a 4% overall increase in the
+   “If all that mattered to the states’ census coverage rates was the      state’s population--one of the reasons the state was able to retain a
+proportion of their populations consisting of minority racial and ethnic   ninth House seat. During the same period, growth rates in African-
+groups, the PES would have looked much different than it did. States       American populations in the other East North Central states ranged
+such as Rhode Island, Massachusetts,      Pennsylvania and Wisconsin       from 1.2% in Illinois to 7.9% in Michigan. Source:   U.S. Department
+                                                                                                                                              of
+would not have had estimated undercount rates below the average for        Commerce Bureau of the Census, 1980 Census of Population: General
+non-Hispanic whites nationally, and states like New Jersey, Michigan       Social and Economic Characteristics, United States Summaryat 1-277,
+and Illinois would not have undercount rates roughly half those            Table 232 (1983); U.S. Department of Commerce Bureau of the Census,
+estimated for Montana, Wyoming and Idaho. See A.R. App. 10 (June 13,       1990 Census of Population: Summary Population and Housing
+1991, Release), Table 5.                                                   Characteristics,   United States Summaryat 59, Table
+                                                                                                                             2 (1992).
+                                   42                                                                               43
+
+
+estimate a state’s population conflicts with the requirement                     statistical estimation undermines the perceived legitimacy
+that representation in Congress be based on the states’                          of the allocation of representational rights at both the state
+populations, “counting the whole number of persons in each                       and national      level.    Cf. Montana,        503 U.S. at 465-66
+State." U.S. Const. amend. XIV, § 2.                                             (noting states’ and nation’s acceptance for halfa century of
+        The use of statistical estimation techniques to                          congressional apportionments based on method of equal
+"correct" the results of the enumeration census also meant                       proportions        as  factor    supporting      method’s
+that state and local officials would no longer have an                           constitutionality).   Procedures selected for taking the
+incentive to encourage residents to take part in the census.                     enumeration       census--expanded     targeted    outreach
+A significant problem in the 1990 census was a lower than                        programs, increases in enumerators assigned to canvass
+anticipated      response     rate    during     the  initial                    minority neighborhoods, simplified census forms--will have
+mail-out/mail-back   phase (Pet. App. 15, 327-28). Wisconsin                     representational consequences, but these are very difficult
+actively encouraged its residents’ participation in the                          to know in advance. See Pet. App. 228 ("small changes in
+census, achieving the highest voluntary response rate in                         the census enumeration can move seats in the
+the nation (J.A. 95-101; A.R. App: 6 at 40). To reward                           House . . . but no individual involved in the enumeration
+these efforts and this accomplishment by taking away the                         process can predict how").      In contrast, the extreme
+state’s ninth House seat could not send a clearer message                        sensitivity of the statistical estimates to modeling
+regarding the value of performing this single duty of
+national residence. Undermining the ability to achieve                           to political manipulation. Beyond this, no state would view
+accuracy in future censuses impairs, and therefore conflicts                     as legitimate a loss of representation from that already
+with, the goal of equality of representation.                                    established by the President which may represent nothing
+        More broadly, the use of statistical estimation                          more than random sampling error, which results from a
+acquiesces in broader trends of citizen non-involvement in                       statistical process that introduces as many sources of error
+the processes of self-government, particularly among                             as it is attempting to "correct," which is based on a sample
+population groups whose historic underinclusion        in the                    that includes only 141 blocks from within the state and
+census has corresponded to a much greater, and much                              which estimates the state’s population using sample
+more serious, underinclusion in the political process. The                       observations primarily from other states.
+PES penalized states, like Wisconsin,                whose high rate of
+voluntary census participation corresponded to high rates
+of voter participation.   This result is contrary to the                         voter participation is significantly higher than national averages, both
+                                                                                 for minority and non-minority voters.         See U.S. Department of
+constitutional judgment reflected in Section 2 of the
+                                                                                 Commerce Bureau of the Census, Current Population Reports, P 20-440,
+Fourteenth Amendment that equality of representation is                          “Voting and Registration in the Election of November 1988" at 36-40
+furthered by apportioning representation in the national                         (1989); U.S. Department   of Commerce Bureau   of the Census, Current
+government in proportion to the degree that states have                          Population Reports, P 20-466, "Voting and Registration in the Election
+effectively     extended     the right to vote                  Similarly,       of November 1992" at 23-30 (1993). See also The Council of State
+                                                                                 Governments, The Book of States 1994-95 at 226, Table 5.9 (Voter
+                                                                                 Turnout For Presidential Elections: 1984, 1988 and 1992) (1994). The
+                                                                                 provision of Section 2 of the Fourteenth Amendment for a reduction in
+   “Wisconsin imposes a ten day residence requirement on voting and              the states’ apportionment populations in the proportion to the
+does not require voter registration.    See Wis. Stat. § 6.55 (eligible voters   percentage of male citizens whose right to vote “is denied . . . or in any
+permitted to vote by producing evidence of current address on day of             way abridged” has been held a political question. Sharrow       v. Brown,
+election).   According to Census Bureau estimates, Wisconsin's level of          447 F.2d  94 (2d Cir. 1971), cert. denied, 405 U.S. 968 (1972).
+                                   44                                                                             45
+
+         B. At the very least, the Secretary's decision was                   their districts, an order compelling a mid-decade change in
+conscnant with the goal of equal representation.                              the decennial   census is unnecessary. New York City does
+         The issue is framed by the availability of two sets                  not have an interest in compelling Oklahoma’s or Indiana’s
+of census numbers, each different from the other down to                      use of the adjusted numbers.”
+the block level. The ex post availability        of two census                        The ex post availability
+                                                                                                             of two sets of census results
+results resolves plaintiffs’ claim that a failure to estimate                 also changes the evaluation of plaintiffs’ claim to a specific
+the census would result in representational inequality in                     census innovation. In their complaint, plaintiffs presented
+the creation of their own congressional and legislative                       a plausible theory for why anticipated errors in the census
+districts. “The simple answer . . . is that [plaintiffs do} not               might result in reduced representation. The claim went
+have toutilize thecensus figures in apportioning {their|                      beyond a critique of census accuracy to offering a specific,
+legislative    districts.           Cuomo     v._ Baldridge,                  previously untried, method for “correcting” the results of
+674 F. Supp. at 1105 n.31.* The district court ordered the                    the decennial census.        As it turned out, neither claim was
+release of adjusted block-level data to the plaintiffs two                    correct. While a differential undercount was confirmed,
+and a half years ago (Pet. App. 91-95). To the extent                         the PES did not change the congressional apportionment
+plaintiffs have not used the adjusted data to draw new                        of five of the plaintiff states, and both New York and New
+districts, their commitment    to principles of equality,like                 Jersey would have lost population as a share of the
+their belief in the superior accuracy of the adjusted counts,                 national total under the adjusted numbers. That two of
+rings hollow.       To the extent the plaintiffs have redrawn                 the plaintiff states would have each gained a seat in the
+                                                                              House of Representatives under the estimated counts
+                                                                              merely begged the question of whether they were entitled
+    Accord, Senate of State of Cal. v. Mosbacher, 968 F.2d 974, 979 (9th      to additional representatior -and whether Wisconsin and
+Cir. 1992) (if state knows that census data are under-representative,it       Pennsylvania deserved to lose representation--under the
+“can, and should, utilize noncensus data in addition to the official count    states’ "true" populations.
+in [the] redistricting process"); Assembly of State of Cal. v. U.S. Dept.
+of Commerce, 968 F.2d 916, 918 n.1 (9th Cir. 1992);       City of Detroit,
+                                                                                       In Franklin v. Massachusetts,
+                                                                                                            the challenged census
+4 F.3d at 1373-74; Youngv. Klutznick, 652 F.2d at 624-26. See also            decision was the inclusion of overseas populations in the
+Kirkpatrick v. Preisler, 394 US. at 535 (suggesting approval of               states’ apportionment totals based on “home of record"
+population inequalities in congressional districts to reflect anticipated     data. The allocation of overseas personnel to the states
+population shifts if population trends are thoroughly documented and          had occurred two other times, in 1900 and 1970. 112S. Ct.
+applied in a systematic, and not ad hoc, manner).                             at 2771.     “Home of record" data were known to exhibit a
+   While it is difficult to have confidence in the interpretation of other
+states’ redistricting statutes and case law, Wisconsin is not aware of any
+plaintiff state whose legislative or congressional districts were
+established after the district court ordered the release of the block-level
+adjusted data. See eg., N.Y. State L. (McKinney              1995) § 111         *"In addition, the provision of census data used in state redistricting
+(congressional   districts, effective June 11, 1992),    § 121 (legislative   is statutory. See 13 U.S.C. § 14l(c). To the extent this statutory
+districts, effective  May 4, 1992); Ariz. Rev. Stat. Ann. (1994) § 16-1102    function makes the adjustment decision reviewable under the
+(legislative districts, effective June 16, 1992); Arizonans For Fair          Administrative Procedure Act’s arbitrary and capricious       standard, see
+Representationv. Symington, 828 F. Supp. 684 (D. Ariz. 1992)                  Franklinv. Massachusetts, 112S. Ct. at 2782 (Stevens, J., concurring
+(three-judge court) (congressional districts), affd mem. sub nom.,            in part and concurring in the judgment), the plaintiffs didnot challenge,
+Hispanic Chamber  of Commerce v. Arizonans
+                                    for Fair Representation,                  and the court of appeals did not disturb, the district court’s findings that
+113
+  3S.
+    8.Ct 1573 (1993).                                                         the Secretary's decision satisfied this standard.
+                                 46                                                              47
+
+
+high “error rate" and possibly little correlation with an            regarding the choice of census totals necessarily
+employee’s true feelings of state affiliation. Jd. at 2786           “commands far more deference than a state districting
+(Stevens, J., concurring in part and concurring             in the   decision that is capable of being reviewed under a
+judgment). Indeed, a man or woman who designated a                   relatively rigid mathematical standard."   Montana,
+home of record upon entering military service could not              503 U.S. at 464.   Stated otherwise, a state’s claim to an
+change it later. Jd. at 2786 n.22. Nevertheless, the Court           additional House seat which is premised on a modeling
+concluded that the Secretary’s decision to include this very         decision to exclude 28 out 1,392 variance outliers during
+imprecise measure of the states’ overseas populations "does          variance "pre-smoothing” does not invoke "a substantive
+not hamper the underlying constitutional goal of equal               standard of commanding constitutional significance."
+representation, but assuming the employees temporarily               Id. at 463. Even those tending to favor adjustment, which
+stationed abroad have indeed retained their ties to their            included the Census Bureau's director and the district
+home States, actually promotes equality." Jd. at 2778                judge himself, found the Secretary's technical and policy
+(opinion of O’Connor, J.). The members of the Court who              evaluation reasonable. If it was reasonable to conclude
+viewed    the    decision   as   reviewable   under   the   APA’s    that the adjusted numbers would not improve, and possibly
+arbitrary and capricious standard found it to have been              worsen, the distributional accuracy of the census, it was
+neither. Jd. at 2786-87 (Stevens, J., concurring in part and         consonant with the goal of equal representation not to
+concurring in the judgment).                                         substitute the adjusted numbers for those officially
+         Here,    the   Secretary      decision   rested    on   a   reported. The Secretary acted constitutionally.
+comprehensive evaluation of highly technical issues of
+statistical interpretation. Given that the distributional
+accuracy of the PES determined its impact on equality, it
+was consistent with the goal of equality of representation
+for the Secretary to weigh the many sources of error that
+impaired the distributional quality of the estimates. For
+example, it was consistent with the goal of representational
+equality for the Secretary to question the validity of the
+PES’s central assumption of sample homogeneity, where
+substantial evidence contradicted the assumption. It was
+also consistent with the goal of equal representation for the
+Secretary to be concerned that the estimates had been
+derived under severe time constraints, employing untested
+modeling assumptions. It was consistent to consider the
+estimate’s instability with respect to congressional
+apportionment.
+       Again, a standard of consistency is different from
+one of mandated actions. Where statisticians intensely
+disagree as to whether a sample has been constructed,
+taken and statistically manipulated in a manner that
+yields a "better" distribution of the population, a decision
+                           48
+
+
+                    CONCLUSION
+
+       The judgment of the court of appeals should be
+reversed and the judgment of the district court affirmed.
+
+                           Respectfully submitted,
+
+                           JAMES E. DOYLE
+                           Attorney General of
+                                             Wisconsin
+
+                           PETER C. ANDERSON
+                           Assistant Attorney General
+                           of Wisconsin
+                           Counsel of Record
+
+                           Attorneys for Petitioner
+                           State of Wisconsin
+
+
+Wisconsin Department of Justice
+Post Office Box 7857
+Madison, Wisconsin 53707-7857
+(608) 266-9595
+

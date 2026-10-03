@@ -1,0 +1,824 @@
+App. 24 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE WESTERN DISTRICT OF NORTH CAROLINA 
+CHARLOTTE DIVISION 
+
+
+C-C-91-227-P 
+JAMES O’CONNOR, 
+Plaintiff, 
+V. 
+
+
+CONSOLIDATED COIN 
+CATERERS CORPORATION, 
+
+
+Defendant. 
+
+
+MEMORANDUM OF 
+DECISION AND 
+ORDER 
+
+
+(Filed 
+July 27, 1993) 
+
+
+Ne ee eee eee ee” 
+
+
+THIS MATTER is before the Court on motion, filed 
+June 16, 1993, of Consolidated Coin Caterers Corporation 
+(“Consolidated”) for summary judgment. Plaintiff James 
+O’Connor filed a response and an affidavit on July 6, 
+1993, and July 9, 1993. Consolidated followed with a 
+reply on June 19, 1993. 
+
+
+O’Connor’s complaint alleges a violation of the Age 
+Discrimination in Employment Act, 29 U.S.C. § 621 et seq. 
+Specifically, O’Connor alleges that although Consolidated 
+told him that his position was eliminated as part of a 
+reduction in force, Consolidated actually filled his posi- 
+tion with a younger man. Now, after the conclusion of 
+discovery, Consolidated has moved for summary judg- 
+ment. 
+
+
+Summary Judgment Standard 
+
+
+Summary judgment is appropriate when the plead- 
+ings, responses to discovery, and the record reveal that no 
+
+
+App. 25 
+
+
+genuine issue of any material fact exists and that the 
+moving party is entitled to judgment as a matter of law. 
+See Fed. R. Civ. P. 56(c). The party moving for summary 
+judgment has the initial burden of showing that no genu- 
+ine issue of any material fact exists and that the moving 
+party is entitled to judgment as a matter of law. Celotex 
+Corp. v. Catrett, 477 U.S. 317, 323 (1986). After the moving 
+party has met its burden, the non-moving party must 
+come forward with specific facts showing that evidence 
+exists to support its claims and that a genuine issue for 
+trial exists. Id.; Matsushita Elec. Indus. Co. v. Zenith Radio 
+Corp., 475 U.S. 574, 587 (1986); see Fed. R. Civ. P. 56(e) (in 
+response to motion for summary judgment, “adverse 
+party may not rest upon the mere allegations or denials 
+of the adverse party’s pleading, but the adverse party's 
+response, by affidavits or as otherwise provided in this 
+rule, must set forth specific facts showing that there is a 
+genuine issue for trial”). When considering motions for 
+summary judgment, courts must view facts and infer- 
+ences in the light most favorable to the party opposing 
+the motion for summary judgment. Matsushita, 475 U.S. at 
+587-88; United States v. Diebold, Inc., 369 U.S. 654, 655 
+(1962). When, however, the evidence from the entire 
+record could not lead a rational fact-finder to find for the 
+non-moving party, no genuine issue for trial exists and 
+summary judgment is appropriate. Matsushita, 475 U.S. at 
+587. 
+
+
+Factual Background 
+
+
+O’Connor began his employment with Consolidated 
+in 1978. Consolidated principally operates cafeterias and 
+
+
+App. 26 
+
+
+vending machines in industrial plants. O’Connor man- 
+aged a territory for Consolidated while he was in its 
+employ. In December of 1989, O’Connor became the dis- 
+trict manager for the region known in the company as 
+“4Cs South.” Four Cs South, centered in Charlotte, 
+encompassed much of southern and western North Caro- 
+lina until July of 1990 when Ed Williams, O’Connor’s 
+immediate supervisor, reallocated some of O’Connor’s 
+territory to another manager. On August 9, 1990, Consoli- 
+dated terminated O’Connor and demoted one other man- 
+ager as part of a reorganization or reduction-in-force. 
+
+
+Prior to O’Connor’s termination, Consolidated and 
+its parent company, Canteen Corporation (collectively 
+“Consolidated/Canteen”), operated three districts in 
+North Carolina and one district in South Carolina. After 
+the reorganization and the consequent reduction-in-force 
+of managers in August of 1990, Consolidated and Can- 
+teen operated only two districts in North Carolina and 
+South Carolina collectively. As noted above, O’Connor 
+was terminated and another manager, Allen Hunter, 
+demoted to achieve the reduction in force. Both O’Connor 
+and Hunter were over 50 at the time. Consolidated / 
+Canteen retained Ed Finnell, age 40 at the time, and Mike 
+Kiser, age 35 at the time. O’Connor’s old district was 
+combined into the new Four Cs South which was placed 
+under the supervision of Finnell. The new Four Cs South 
+also included Finnell’s old district, Canteen’s operations 
+in Columbia, Spartanburg, and Greenville, South Caro- 
+lina. 
+
+
+App. 27 
+
+
+Discussion 
+
+
+To prove a case of age discrimination, the plaintiff 
+must demonstrate that: he was an employee covered by 
+the Act at the time of the unfavorable employment deci- 
+sion, i.e., that he was over forty years of age; he suffered 
+an unfavorable employment action at the hands of an 
+employer covered by the Act, e.g., discharge; and, the 
+unfavorable employment action occurred “under circum- 
+stances in which the employee’s ‘age was a determining 
+factor’ in the action in the sense that “ ‘but for’ his 
+employer’s motive to discriminate against him because of 
+his age, he would not [have suffered the action].” Lovelace 
+v. Sherwin-Williams Co., 681 F.2d 230, 238 (4th Cir. 1982) 
+(citation omitted). 
+
+
+The plaintiff may prove these substantive elements in 
+either of two ways. First, the plaintiff may rely on ordi- 
+nary principles of proof just as in any case. In other 
+words, the plaintiff could rely on any direct or indirect 
+evidence admissible under the rules of evidence to prove 
+his case by a preponderance of the evidence. If the plain- 
+tiff were not able to carry his burden of proof, the defen- 
+dant-employer would be entitled to judgment as a matter 
+of law and the case would not go to the jury. Id. at 239 
+Second, the plaintiff may rely on the scheme of proof 
+initially applied to Title VII “disparate treatment” cases 
+and known as the McDonnell-Douglas proof scheme. See 
+McDonnell Douglas Corp. v. Green, 411 U.S. 792 (1973) and 
+Texas Dep't of Community Affairs v. Burdine, 450 U.S. 248 
+(1980). This scheme of proof favors the plaintiff initially 
+by allowing him to rather easily establish a presumption 
+of discrimination that, once established, compels the 
+
+
+App. 28 
+
+
+defendant-employer to demonstrate a legitimate, non- 
+discriminatory reason for the unfavorable employment 
+decision. 
+
+
+The prima facie case of age discrimination under the 
+McDonnell-Douglas proof scheme requires that the plain- 
+tiff prove four objective elements, to-wit: (1) he was in the 
+protected age group class under the Act at the time of the 
+unfavorable employment decision; (2) he was discharged; 
+(3) at the time of the discharge, he was performing his job 
+at a level that met his employer’s legitimate expectations; 
+and (4) following the discharge, he was replaced by 
+someone of comparable or lesser qualifications outside 
+the protected class. Equal Employment Opportunity Comm. 
+v. Western Elec. Co., 713 F.2d 1011, 1014 (4th Cir. 1983). 
+The Court must grant summary judgment if the plaintiff 
+does no present evidence of each of these four elements; 
+“the claimant should not be permitted to establish a 
+‘prima facie case’ by satisfying only the first three ele- 
+ments.” Id. at 1014-1015. 
+
+
+Although the Fourth Circuit has recognized that the 
+fourth element, as stated, is not rigidly applicable to 
+reduction-in-force cases, id. at 1014, it has not foreclosed 
+the application of the fourth element to such cases. In 
+fact, the Court has stated that even in reduction in force 
+cases, the employee must demonstrate that the employer 
+“did not treat age neutrally in its [employment deci- 
+sions].” Id. at 1015; Equal Employment Opportunity Comm., 
+955 F.2d 936, 943 (4th Cir. 1992) (citing Western Electric, 
+713 F.2d at 1014-1015). Western Electric was a large scale 
+reduction in force in which 225 employees were adversely 
+affected. Id. at 1013. The instant reduction is not nearly so 
+
+
+App. 29 
+
+
+large or complex; only two employees, O’Connor and 
+Hunter, were adversely affected. 
+
+
+The fourth element of the McDonnell-Douglas proof 
+scheme does not normally “fit” well in reduction-in-force 
+cases because the adversely affected employee cannot 
+point to a replacement with whom the discharged 
+employee would logically compare himself. Id. at 1014. In 
+this case, however, there is no such problem. As noted 
+above, the reorganization combined O’Connor’s old dis- 
+trict, Four C south, with the South Carolina district. Fin- 
+nell was the manager of the old South Carolina district. 
+The most obvious choices to supervise the new, enlarged 
+district would have been Finnell or O’Connor. Because 
+Consolidated /Canteen chose Finnell to head the new dis- 
+trict and take over O’Connor’s responsibilities, Finnell 
+essentially replaced O’Connor. Indeed, O’Connor testifies 
+in his affidavit that Consolidated/Canteen replaced him 
+with Finnell. Affidavit of Plaintiff (filed July 9, 1993) at 
+q 9. 
+
+
+In the instant case, therefore, O'Connor has not pro- 
+duced evidence of the fourth element of age discrimina- 
+tion under the McDonnell-Douglas proof scheme. The 
+fourth element requires that the employee-plaintiff show 
+that the employer has replaced the plaintiff with a person 
+outside the protected class.! Alternatively, the employee- 
+
+
+' The Court is fully aware of cases in other circuits that in 
+which the various circuits decline to apply this rule and merely 
+require the age-discrimination plaintiff to demonstrate that he 
+was replaced by a younger person even if the younger person is 
+also in the protected class. See Carter v. City of Miami, 870 F.2d 
+578, 583 n.14 (11th Cir. 1989) (compiling cases). The Court 
+declines to follow these nonbinding precedents. 
+
+
+App. 30 
+
+
+plaintiff may present other objective evidence that the 
+employer has not treated age neutrally. The protected 
+class consists of all employees age 40 and over at the time 
+of the unfavorable action. 29 U.S.C.A. § 631 (West 1985 & 
+Supp. 1993). At the time of the unfavorable action, 
+August 9, 1990, Finnell was 40 years old.? Because Finnell 
+was within the protected class and O’Connor has pre- 
+sented no other evidence of that Consolidated /Canteen 
+did not treat age neutrally in deciding to terminate him, 
+the Court finds that O’Connor cannot rely on the McDon- 
+nell-Douglas proof scheme. 
+
+
+O’Connor, however, may prove his case — and defeat 
+this motion for summary judgment — using traditional 
+principles of proof. 713 F.2d at 1014. The principle issue 
+in dispute here is motivation. O’Connor proffers both 
+direct and indirect evidence in his effort to demonstrate 
+discriminatory intent. The direct evidence consists of 
+three remarks that Ed Williams, the decisionmaker for 
+Consolidated/Canteen, made. First, O’Connor testified 
+that Williams remarked —- two days prior to O’Connor’s 
+termination — “It’s about time we started to get some 
+young blood in this company.” O’Connor deposition at 
+44. Williams made this comment in response to the state- 
+ment of Don Dillingham, another employee, that he was 
+about to turn 50. 
+
+
+Second, O’Connor testified that Williams remarked — 
+within two weeks of O’Connor’s termination — “O’Con- 
+nor, you’re two [sic] damn old.” O’Connor dep. at 46. 
+
+
+2 Finnell turned 41 on August 27, 1990, three weeks after 
+O’Connor’s termination. 
+
+
+App. 31 
+
+
+O’Connor also testified that Williams remarked — during 
+the same conversation — “O’Connor, you're too damn old 
+for this kind of work.” O’Connor, however, also testified 
+that he did not remember anything else about the conver- 
+sation, including the context of the remarks, the general 
+subject of the conversation, or the length of the conversa- 
+tion. O'Connor dep. at 46-47. 
+
+
+Third, O’Connor testified that Williams stated - 
+sometime during June or July of 1990 - that O’Connor 
+was too old to play eighteen holes of golf for five consec- 
+utive days. O’Connor, Williams and another employee 
+were watching a playoff of a golf tournament. While 
+watching the tournament, O’Connor remarked that he 
+“couldn't walk that many rounds of golf for five days to 
+play 18 holes for five days.” To this comment, Williams 
+responded that O’Connor was “too old.” O’Connor dep. 
+at 49. 
+
+
+O’Connor has not presented any evidence that links 
+these three remarks to the decision to discharge him. 
+Stray comments cannot prove age discrimination. In 
+order for O’Connor to rely on these comments to prove 
+age discrimination, he must demonstrate that they were 
+related to the decision to discharge him. Equal Employ- 
+ment Opportunity Comm. v. Clay Printing Co., 955 F.2d 936, 
+942 (4th Cir. 1992). An age discrimination plaintiff must 
+demonstrate that a nexus exists between allegedly dis- 
+
+
+criminatory statements and the unfavorable employment 
+decision at issue. Id. 
+
+
+In the instant case, O'Connor has not demonstrated 
+any nexus between Williams’ three comments and the 
+decision to discharge him. The first comment, “It’s about 
+
+
+App. 32 
+
+
+time to get some young blood in this company,” was 
+made in response to an employee’s own comment on his 
+age. This comment did not indicate an intent to discharge 
+older employees. In Clay Printing, the decisionmaker had 
+made comments such as, “too many people have been 
+around here too long and make too much money,” and “if 
+employees had been there 10 years or more, they needed 
+to move on,” along with references to the company’s 
+need to “attract newer, younger people” and “young 
+blood,” were not probative of age discrimination or a 
+discriminatory purpose. Id. at 942. The Court found that 
+these comments reflect the need of all companies to hire 
+young employees constantly in order to remain vital. The 
+Court noted Chief Judge Haynsworth’s comment on this 
+need and the failure of these type comments to show age 
+discrimination: 
+
+
+In any enterprise, today’s juniors will be tomor- 
+row’s seniors. Today’s seniors can help create a 
+foundation for tomorrow's growth and prosper- 
+ity, but future realization of the potential of an 
+enterprise lies principally with those who will 
+be in positions of leadership and responsibility 
+in the future. 
+
+
+Id. (quoting Smith v. Flax, 618 F.2d 1062, 1066 (4th Cir. 
+1980)). Likewise, the Court finds that Williams’ comment 
+on the need for young blood in the company is not 
+probative of a discriminatory intent. 
+
+
+Williams’ second comment, “O’Connor, you're too 
+damn old for this kind of work,” also is not probative of 
+discriminatory intent. The context of the statement must 
+
+
+App. 33 
+
+
+indicate discriminatory intent. O’Connor, however, testi- 
+fied that he did not remember the context or the subject 
+matter of the comment. As such, plaintiff has not estab- 
+lished a nexus between this comment and the decision to 
+discharge him. 
+
+Williams made the third comment, that O’Connor 
+was “too old,” in response to O’Connor’s admission that 
+he could not walk eighteen holes of golf on five consecu- 
+tive days. Because O’Connor was not a golfer, but rather 
+a general manager in a catering and vending business, 
+Williams’ comment has no probative value. Clearly, Wil- 
+liams’ comment did not have any nexus to the decision to 
+terminate O’Connor. 
+
+
+O’Conner [sic] has also proffered indirect evidence of 
+discriminatory intent. O’Conner [sic] argues that he has 
+“substantial indirect evidence tending to show that he 
+was performing well, and that he was better qualified to 
+continue employment than was Ted Finnell. . . . ” O’Con- 
+nor’s “substantial evidence,” however, consists only of 
+his comparison with Ted Finnell. Most of the indirect 
+evidence that Plaintiff proffers is nothing more than a 
+historical narrative of Plaintiff's employment with Con- 
+solidated. The last paragraph of the “Concluding Portion 
+of Memorandum in Response to Motion for Summary 
+Judgment” contains the only possibly probative evidence: 
+
+Plaintiff had a better track record than did Fin- 
+
+nell. At the time of plaintiff's termination, his 
+
+next previous performance evaluation was 
+
+“commenable [sic] minus,” whereas Finnell’s 
+
+was “com t minus.” Plaintiff placed consis- 
+
+tently hi in his salary class than did Finnell 
+within his salary class. 
+The first statement is merely a conclusion, not evidence. 
+The second statement, although true, is not probative of 
+
+
+App. 34 
+
+
+the performance of each person at the time of the termi- 
+nation. The evaluations of Finnell and O’Connor were 
+made eight to nine months before the decision to termi- 
+nate O’Connor. This type of evidence - historical evi- 
+dence of job performance removed in time from the date 
+of the unfavorable decision — is not probative of discrimi- 
+natory intent. O’Conner [sic] has presented no evidence 
+to support the conclusion that he was fulfilling the legiti- 
+mate expectations of his employer at the time of the dis- 
+charge (or at least performing on the same level as 
+Finnell). Plaintiff simply has presented no specific evi- 
+dence of the level of his performance relative to Finnell’s 
+performance at the time of discharge. As such, O’Conner 
+[sic] has not carried his burden of proof. Anderson v. 
+Liberty Lobby, Inc., 477 U.S. 242, 256-257 (1986) (plaintiff, 
+in response to adequately-supported motion for summary 
+judgment, has burden of producing evidence that would 
+support jury verdict). 
+
+
+Because O’Conner [sic] cannot present the objective 
+evidence necessary to rely on the McDonnell-Douglas 
+scheme of proof and cannot present direct or indirect 
+evidence necessary to prevail under traditional principles 
+of proof, the Court must grant summary judgment for 
+Defendant. 
+
+
+NOW, THEREFORE, IT IS ORDERED that Consoli- 
+dated’s motion for summary judgment will be 
+GRANTED. The Court will file simultaneously with this 
+
+
+App. 35 
+
+
+memorandum of decision a judgment dismissing the 
+plaintiff's action with prejudice. 
+
+
+This the 27th day of July, 1993. 
+
+
+/s/ Robert D. Potter 
+ROBERT D. POTTER 
+UNITED STATES 
+DISTRICT JUDGE 
+
+
+App. 36 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+FILED 
+May 31, 1995 
+
+
+No. 94-1214 
+CA-91-277-C-C-P 
+
+
+JAMES O’CONNOR 
+Plaintiff-Appellant 
+
+
+Vv. 
+
+
+CONSOLIDATED COIN 
+CATERERS CORPORATION 
+
+
+Defendant-Appellee 
+
+
+EQUAL EMPLOYMENT 
+OPPORTUNITY COMMISSION 
+
+
+Amicus Curiae 
+
+
+On Petition for Rehearing with 
+Suggestion for Rehearing In Banc 
+
+
+Appellant filed a petition for rehearing with sugges- 
+tion for rehearing in banc. The EEOC filed a motion for 
+leave to file a brief for amicus curiae in support of the 
+suggestion for rehearing. 
+
+
+Judge Butzner voted to grant panel rehearing. Judges 
+Hamilton and Luttig voted to deny panel rehearing and 
+the motion of the EEOC. 
+
+
+No member of the Court requested a poll on the 
+suggestion for rehearing in banc. 
+
+
+App. 37 
+
+
+The Court denies the petition for rehearing with sug- 
+gestion for rehearing in banc. 
+
+
+Entered at the direction of Judge Hamilton for the 
+Court. 
+
+
+For the Court, 
+
+
+/s/ Bert M. Montague 
+CLERK 
+
+
+App. 38 
+
+
+UNITED STATES COURT OF APPEALS 
+
+
+FOR THE FOURTH CIRCUIT 
+FILED 
+
+
+June 8, 1995 
+No. 94-1214 
+
+
+O’Connor v. Consolidated Coin 
+
+
+MANDATE 
+
+
+The judgment of this Court dated 4/21/95 takes effect 
+today. 
+
+
+BERT M. MONTAGUE 
+CLERK 
+
+
+) 
+
+) 
+
+) 
+
+. ) 
+CONSOLIDATED COIN 
+) 
+
+) 
+
+) 
+
+
+App. 39 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE WESTERN DISTRICT OF 
+NORTH CAROLINA CHARLOTTE DIVISION 
+
+
+C-C-91-277-P 
+
+
+JAMES O’CONNOR 
+
+
+Plaintiff, ORDER 
+
+
+" (Filed Jan. 7, 1994) 
+
+
+CATERERS, CORP. 
+Defendant. 
+
+
+THIS MATTER is before the Court on Plaintiff's 
+motion, filed August 6, 1993, for a new trial. Since the 
+motion is filed under Federal Rule of Civil Procedure 59, 
+and this Court conducted no trial, the Court will treat it 
+as a motion for relief from judgment based upon newly 
+discovered evidence under Federal Rule of Civil Pro- 
+cedure 60(b). 
+
+
+This Court entered summary judgment against Plain- 
+tiff on July 27, 1993. The Court entered summary judg- 
+ment on the ground that Plaintiff had demonstrated 
+insufficient evidence to link derogatory remarks by Mr. 
+Ed Williams (Plaintiff's boss) about Plaintiff's age to the 
+decision to fire Plaintiff. 
+
+
+The motion presently before the Court is premised 
+entirely upon newly discovered evidence embodied in 
+the affidavit of Philip Dennis. Mr. Dennis’s affidavit 
+states, inter alia, tat the day after Plaintiff was fired, Ed 
+William’s [sic] told Dennis his boss (Ted Arts) instructed 
+
+
+App. 40 
+
+
+him to fire Plaintiff. Dennis asked Williams why Plaintiff 
+was fired and he replied he thought it was because, “all 
+of us were getting old, that Jim was getting old, and that 
+there were three other persons around the office who 
+were turning 50.” Dennis Affidavit, pp. 1-2, { 2. Dennis’s 
+affidavit also states that Williams told him Ted Arts, not 
+Williams, made the decision to fire Plaintiff. 
+
+
+Plaintiff concludes the Dennis affidavit provides a 
+link between the age derogatory remarks and the deci- 
+sion to fire Plaintiff and creates a genuine issue of mate- 
+rial fact concerning who made the decision to fire 
+
+
+Plaintiff. 
+
+
+ANALYSIS 
+
+
+The standard of law governing a Rule 60 motion 
+requires that the movant demonstrate: 
+
+
+1) the evidence is newly discovered since the 
+
+
+judgment was entered; 
+
+2) due diligence on the part of the movant to 
+discover the new evidence has been exercised; 
+3) the evidence is not merely cumulative or 
+impeaching; 
+
+4) the evidence is material; 
+
+5) the evidence is such that is likely to produce 
+a new outcome if the case were retried, or is 
+such that would require the judgment to be 
+
+
+amended. 
+Boryan v. United States, 884 F.2d 767 (4th Cir. 1989). 
+
+
+Based upon the Court’s review of the Dennis affi- 
+davit and the oral argument submitted to the Court, the 
+Court concludes that Plaintiff has failed to demonstrate 
+
+
+App. 41 
+
+
+either that the evidence in the affidavit would likely 
+produce a new outcome or that Plaintiff exercised due 
+diligence to discover that evidence. 
+
+
+The evidence in the affidavit would not likely pro- 
+duce a different result because it does not definitively 
+establish the missing link between the decision to fire 
+Plaintiff and a prohibited age bias against Plaintiff. The 
+Dennis affidavit does not demonstrate that Plaintiff's fir- 
+ing was motivated by his age. Instead, the affidavit at 
+best demonstrates that Williams believed Plaintiff was 
+fired because of his age. The affidavit neither states that 
+Arts directed Williams to fire Plaintiff because of his age, 
+nor that Williams himself decided to terminate Plaintiff 
+because of his age. Hence, there remains no direct evi- 
+dence that Plaintiff was fired because of his age. 
+
+
+The affidavit also does not created [sic] a dispute of 
+fact that necessitates the relief Plaintiff seeks. Without 
+some proof of an improper motive for firing Plaintiff, the 
+question of who fired him is not material, even if dis- 
+puted. Who fired Plaintiff is irrelevant unless it can be 
+shown he was fired unlawfully by someone. Firing an 
+employee without an improper motive is not prohibited 
+by Title VII. 
+
+
+Laying aside the fact that the Dennis affidavit would 
+not likely change the result, it was also not discovered 
+after the exercise of due diligence. Plaintiff cannot deny 
+he had reason to know Dennis would be a worthy person 
+to depose and that, had Plaintiff chosen to, he could have 
+been deposed. 
+
+
+App. 42 
+
+
+Plaintiff offers two reasons why Dennis was not 
+questioned. First, because Dennis may have been reluc- 
+tant to tell the truth under oath while on Defendant's 
+payroll. Second, that it would have been too costly for 
+Plaintiff to depose Dennis. Of course, these rationale 
+assume Dennis was known to the Plaintiff as a candidate 
+for deposition. Yet, these reasons do not eliminate the 
+simple fact that Dennis was known to Plaintiff, could 
+have been deposed and was not. 
+
+
+Plaintiff’s concern that a witness might not be forth- 
+coming under oath is purely a hypothetical concern that 
+was factored into his litigation strategy. To say that a 
+witness may not have said what the Plaintiff wanted to 
+hear during a deposition does not indicate due diligence 
+was exercised in finding and questioning him. Indeed, 
+had Dennis been questioned and yet not disclosed what 
+he is now saying, it could be more credibly argued that 
+the evidence was not discoverable with the exercise of 
+due diligence. Still, Dennis was not questioned. 
+
+
+Moreover, Dennis was admittedly known to Plaintiff 
+prior to the initiation of his suit as one who had contact 
+with Defendant’s management, a person within the class 
+of older employees, and one who would be a likely 
+candidate to unearth evidence of improper company bias 
+against older employees in general and Plaintiff speci- 
+fically. Yet, for reasons assuredly known to Plaintiff and 
+his counsel, but not particularly relevant to this inquiry, 
+Dennis was not questioned about his knowledge of the 
+circumstances surrounding Plaintiff's firing even though 
+he lived in Plaintiff's home town of Charlotte, North 
+
+
+Carolina. 
+
+
+App. 43 
+
+
+Plaintiff’s concern about containing costs is certainly 
+prudent, but it does not show that due diligence was 
+exercised in discovering a known potential witnesses’ 
+knowledge about his lawsuit. It only shows that counsel 
+opted for one course of litigation strategy over another 
+within the parameters of his client’s limited resources. 
+But this is always the case in litigation. This “prohibitive 
+cost as due diligence” approach would permit virtually 
+any undiscovered evidence to be offered up after an unfa- 
+vorable trial or a summary judgment motion on the 
+ground that it was too costly to find it before the plaintiff 
+lost. That is assuredly not the standard of law for due 
+diligence. 
+
+
+Plaintiff’s election to prefer one litigation strategy 
+over another does not transform the decision not to 
+depose Dennis into the exercise of due diligence. Quite to 
+the contrary, it demonstrates that Plaintiff elected not to 
+exercise any diligence at all respecting a known potential 
+witness for reasons wholly within his sound judgment. 
+
+
+NOW, THEREFORE, IT IS ORDERED that Plain- 
+
+
+tiff’s notice for relief from judgment be, and hereby is, 
+DENIED. 
+
+
+This the 6th day of January, 1994. 
+
+
+/s/ Robert D. Potter 
+ROBERT D. POTTER 
+UNITED STATES 
+DISTRICT JUDGE 
+
+

@@ -1,0 +1,28 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 428,
+    "params": {
+      "query": "collection:us-supreme-court AND (text:&quot;Consolidated Coin&quot; OR text:&quot;Consolidated Coin&quot; OR text__reviews:&quot;Consolidated Coin&quot;)",
+      "qin": "collection:us-supreme-court AND &quot;Consolidated Coin&quot;",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 2,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40386004_1599",
+        "title": "O'Connor v. Consolidated Coin Caterers Corp., 519 U.S. 1040 (1996) (No. 96-565)"
+      },
+      {
+        "identifier": "micro_IA40385013_0651",
+        "title": "O'CONNOR v. Consolidated Coin Caterers Corp., 517 U.S. 308 (1996) (No. 95-354)"
+      }
+    ]
+  }
+}

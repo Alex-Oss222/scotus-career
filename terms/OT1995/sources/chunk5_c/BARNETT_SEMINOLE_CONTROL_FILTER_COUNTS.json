@@ -1,0 +1,67 @@
+[
+  {
+    "source": "barnett_02._Petition_for_Writ_of_Certiorari_djvu.txt",
+    "copy": "barnett_02._Petition_for_Writ_of_Certiorari_djvu_control_filtered.txt",
+    "omitted_paragraphs": 23
+  },
+  {
+    "source": "barnett_11._Joint_Appendix_djvu.txt",
+    "copy": "barnett_11._Joint_Appendix_djvu_control_filtered.txt",
+    "omitted_paragraphs": 8
+  },
+  {
+    "source": "barnett_12._Respondents_Brief_djvu.txt",
+    "copy": "barnett_12._Respondents_Brief_djvu_control_filtered.txt",
+    "omitted_paragraphs": 1
+  },
+  {
+    "source": "barnett_13._Petitioners_Brief_djvu.txt",
+    "copy": "barnett_13._Petitioners_Brief_djvu_control_filtered.txt",
+    "omitted_paragraphs": 10
+  },
+  {
+    "source": "barnett_14._Respondents_Brief_djvu.txt",
+    "copy": "barnett_14._Respondents_Brief_djvu_control_filtered.txt",
+    "omitted_paragraphs": 20
+  },
+  {
+    "source": "barnett_15._Reply_Brief_djvu.txt",
+    "copy": "barnett_15._Reply_Brief_djvu_control_filtered.txt",
+    "omitted_paragraphs": 6
+  },
+  {
+    "source": "seminole_02._Petition_for_Writ_of_Certiorari_djvu.txt",
+    "copy": "seminole_02._Petition_for_Writ_of_Certiorari_djvu_control_filtered.txt",
+    "omitted_paragraphs": 12
+  },
+  {
+    "source": "seminole_03._Appendix_djvu.txt",
+    "copy": "seminole_03._Appendix_djvu_control_filtered.txt",
+    "omitted_paragraphs": 13
+  },
+  {
+    "source": "seminole_08._Amicus_Curiae_Brief_djvu.txt",
+    "copy": "seminole_08._Amicus_Curiae_Brief_djvu_control_filtered.txt",
+    "omitted_paragraphs": 5
+  },
+  {
+    "source": "seminole_09._Joint_Appendix_djvu.txt",
+    "copy": "seminole_09._Joint_Appendix_djvu_control_filtered.txt",
+    "omitted_paragraphs": 8
+  },
+  {
+    "source": "seminole_10._Petitioners_Brief_djvu.txt",
+    "copy": "seminole_10._Petitioners_Brief_djvu_control_filtered.txt",
+    "omitted_paragraphs": 9
+  },
+  {
+    "source": "seminole_11._Respondents_Brief_djvu.txt",
+    "copy": "seminole_11._Respondents_Brief_djvu_control_filtered.txt",
+    "omitted_paragraphs": 3
+  },
+  {
+    "source": "seminole_12._Reply_Brief_djvu.txt",
+    "copy": "seminole_12._Reply_Brief_djvu_control_filtered.txt",
+    "omitted_paragraphs": 7
+  }
+]

@@ -1,0 +1,1394 @@
+' Supreme Court, U 2 
+FILED 
+
+
+é 
+I de 28 1995 
+
+
+LG) | 
+No. 95-354 Nv | * —_— 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+JAMES O’CONNOR, PETITIONER 
+. 
+CONSOLIDATED COIN CATERERS CORPORATION 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES AND THE 
+EQUAL EMPLOYMENT OPPORTUNITY COMMISSION 
+AS AMICI CURIAE SUPPORTING PETITIONER 
+
+
+Drew S. Days, III 
+
+Solicitor General 
+
+C. GREGORY STEWART DEVAL L. PATRICK 
+
+General Counsel 8 
+
+GWENDOLYN YOUNG REAMS 
+
+Associate General Counsel 
+LORRAINE C. DAVIS 
+
+Assistant General Counsel 
+
+
+Assistant Attorney General 
+
+
+PAUL BENDER 
+Deputy Solicitor General 
+
+
+PAUL R.Q. WOLFSON 
+Assistant to the Solicitor 
+
+
+ROBERT J. GREGORY General 
+BARBARA L. SLOAN Department of Justice 
+Attorneys Washington, D.C. 20530 
+Equal Employment (202) 514-2217 
+Opportunity Commission 
+
+
+Washington, D.C. 20507 
+
+
+QUESTION PRESENTED 
+
+Whether a plaintiff alleging that he was discharged 
+in violation of the Age Discrimination in Employment 
+Act, 29 U.S.C. 621 et seq., must show that he was re 
+placed by someone outside the protected age group to 
+make out a prima facie case of discrimination under 
+McDonnell Douglas Corp. v. Green, 411 U.S. 792 
+(1973) 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+Interest of the United States and the Equal Employ- 
+ment Opportunity Commission l 
+— 2 
+Summary of argument 7 
+Argument: 
+
+
+II. Special considerations that may be applicable to 
+
+
+. 22 
+Z — — — 26 
+TABLE OF AUTHORITIES 
+Cases: 
+Alphin v. Sears, Roebuck & Co., 947 F.2d 1497 
+ä 18 
+Barnes v. GenCorp, Inc., 896 F.2d 1457 (6th Cir.), 
+cert. denied, 498 U.S. 878 (1990) / ꝗ inn 20 
+Bashara v. Black Hills Corp, 26 F.3d 820 (8th 
+11 2 
+Bell v. AT&T, 946 F.2d 1507 (10th Cir. 19911) 22 
+Chevron U.S.A. Ine. v. Natural Resources Defense 
+Council, Inc., 467 U.S. 887 (196% %ꝙ r 11 
+Chippolini v. Spencer Gifta, Inc., 814 F.2d 893 
+(3d Cir.), cert. denied, 483 U.S. 1062 (1987) ............ 13 
+Connecticut v. Teal, 457 U.S. 440 (1982) ................ 17 
+Cooper v. Asplundh Tree Expert Co., 836 F.2d 
+. —— —— — 20 
+Corbin v. Southland Int'l Trucks, 25 Fd 1545 
+CL . 20 
+Cuddy v. Carmen, 694 F.2d 853 (D.C. Cir. 1982) ..... 19 
+
+
+(III 
+
+
+IV 
+Cases—Continued: Page 
+
+Cumpiano v. Banco Santander Puerto Rico, 
+
+GOS F.Bd 148 da Cir. 0 16, 19 
+Davenport v. Riverview Gardens School Dist., 
+
+LLL 16 
+Douglas v. Anderson, 656 F.2d 528 (9th Cir. 
+
+BOND —— ———— — 18. 20 
+EEOC v. Arabian American Oil Co., 499 U.S. 244 
+
+| 2 11 
+EEOC v. Western Electric Co., 713 F.2d 1011 
+
+00 11 —— — 20, 22, 23 
+Freeman v. Packaging Machine Co., 865 F 2d 1331 
+
+8 QE 18, 19 
+Furnco Construction Co. v. Waters, 438 U.S. 567 
+
+a 13, 14-15, 17, 18, 20 
+Haskell v. Kamen Corp., 743 F.2d 113 (2d Cir. 
+
+| ee 19 
+Herold v. Hajoca Corp., 864 F.2d 317 (4th Cir. 
+
+1988), cert. denied, 490 U.S. 1107 (1989) 18, 25 
+International Bhd. of Teamsters v. United States, 
+
+177% 14. 17 
+Jackson v. Richards Medical Co., 961 F.2d 575 
+
+0 ˙ UE 16 
+Korbin v. University of Minnesota, 34 F. 3d 698 
+
+Tü . — 16 
+
+
+Kralman v. Illinois Dep't of Veterans’ Affairs, 
+23 F.3d 150 (7th Cir.), cert. denied, 115 S. Ct. 
+
+
+1—— . ˙ 10, 11, 20 
+LaPointe v. United Autoworkers Local 600, 8 F.3d 
+GU 20 
+Lee v. Russell Cty. Bd. of Educ., 684 F.2d 769 
+11K 2 16 
+Lindsey v. Prive Corp., 987 F.2d 324 (5th Cir. 
+Se 19 
+Loeb v. Textron, Inc., 600 F.2d 1008 (Ist Cir. 
+en ee 13, 14, 15 
+
+
+Lorillard v. Pons, 434 U.S. 575 (1978) 13 
+
+
+Cases—Continued: Page 
+
+Lovelace v. Sherwin-Williams Co., 681 F.2d 230 
+
+ee 13, 20 
+Marshall v. Goodyear Tire & Rubber Co., 554 F 2d 
+
+9 20 
+Mazfield v. Sinclair Int'l, 766 F.2d 788 (3d Cir. 
+
+1985), cert. denied, 474 U.S. 1057 (1986) .............. 12, 19, 21 
+McCorstin v. United States Steel Corp., 621 F 2d 
+
+. — — — 12, 21 
+McDonnell Douglas Corp. v. Green, 411 U.S. 792 
+
+— T ⁰ ⁰ n 2. 4. 13. 14. 23 
+Matthews v. Allis- Chalmers Corp., 769 F.2d 1215 
+
+. KKKͤ—K, 22 
+McKennon v. Nashville Banner Pub. Co., 
+
+. — ͤ 13 
+Meiri v. Dacon, 759 F.2d 989 (2d Cir. 1985) ............ 16 
+Mitchell v. Data General Corp., 12 F.3d 1310 
+
+11—K——— . eee 22 
+Notari v. Denver Water Dep't, 971 F.2d 585 (10th 
+
+Tg — ———— 16 
+
+
+Orman v. WLS-TV, 846 F.2d 448 (7th Cir. 1988) .. 22, 23 
+Price v. Maryland Casualty Co., 561 F.2d 609 
+De 20 
+Rinehart v. City of Independence, 35 F 3d 1263 
+(8th Cir. 1994), cert. denied, 115 S. Ct. 1822 
+
+
+RS SRE reyes 20, 23 
+Roper v. Peabody Coal Co., 47 F 3d 925 (7th Cir. 
+
+9 — — 22. 24 
+Rush v. Me Donald's Corp., 966 F.2d 1104 (7th 
+
+— ͤ—àm2:.. — 16 
+Schwager v. Sun Oil Co., 591 F.2d 58 (10th Cir. 
+
+—— 13 
+Seman v. Coplay Cement Co., 26 F.3d 428 (3d Cir. 
+
+—— — — — — 13. 
+
+
+VI 
+Cases—Continued: Page 
+
+Shah v. General Elec. Co., 816 F.2d 264 (6th Cir. 
+
+— .d Sees Er eno 22, 24 
+Simpson v. Midland-Ross Corp., 823 F.2d 937 (6th 
+
+1 —̃ — J 22 
+St. Marys Honor Center v. Hicks, 113 S. Ct. 2742 
+
+— W 15, 16, 19, 21 
+Texas Dep't of Community Affairs v. Burdine, 
+
+ey 15, 20, 22 
+Trans World Airlines, Inc. v. Thurston, 469 US. 
+
+880 — — 13 
+Williams v. General Motors Corp., 656 F. 2d 120 
+
+(5th Cir. 1981), cert. denied, 455 U.S. 943 (1982) ..... 22, 23 
+Williams v. Williams Electronics, Inc., 856 F. 2d 
+
+GD Ga Gin, SED . ſ— — 22 
+
+
+Statutes and regulation: 
+Age Discrimiantion in Employment Act, 29 U.S.C. 
+
+
+090 —————————————5iÜ 1 
+I cecsemsnsnnionsnseuvenesnennsnssemmnsesesess 
+111511» . 11 
+11 cccccncencsccnsecnesserensecssemsnesnesssecess 9 
+
+Civil Rights Act of 1964, Tit. VII, 42 U.S.C. 2000 
+3ͤK——-ͤĩ ᷣͤ ⁵— 1. 8, 11, 13, 14, 16 
+12K ͤ 11 
+Miscellaneous: 
+113 Cong. Rec. 31,266 (1987 ——————.—— 10-11 
+
+
+In the Supreme Court of the United States 
+
+
+OcTOBER TERM, 1995 
+
+
+No. 95-354 
+JAMES O’CONNOR, PETITIONER 
+Vv. 
+
+
+CONSOLIDATED COIN CATERERS CORPORATION 
+
+
+ON WRIT OF CERTIORARI TO 
+THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES AND THE 
+EQUAL EMPLOYMENT OPPORTUNITY 
+COMMISSION AS AMICI CURIAE 
+SUPPORTING PETITIONER 
+
+
+INTEREST OF THE UNITED STATES AND THE 
+EQUAL EMPLOYMENT OPPORTUNITY 
+COMMISSION 
+
+
+The Equal Employment Opportunity Commission 
+(EEOC) has primary responsibility for administering 
+and enforcing the Age Discrimination in Employment 
+Act (ADEA), 29 U.S.C. 621 et seg. The EEOC partici- 
+pated as amicus curiae in this case in the court of 
+appeals. In addition, the Attorney General and the 
+EEOC share responsibility for enforcing Title VII of 
+the Civil Rights Act of 1964, 42 U.S.C. 2000e et seq., 
+which prohibits discrimination in employment on the 
+
+
+(1) 
+
+
+2 
+
+
+basis of race, sex, religion, or national origin. In 
+litigation under both the ADEA and Title VII, courts 
+use the order of proof and prima facie case framework 
+set forth by this Court in McDonnell Douglas Corp. 
+v. Green, 411 U.S. 792 (1973), the application of which 
+is at issue in this case. The resolution of this case 
+will affect the enforcement responsibilities of the 
+Attorney General and the EEOC. 
+
+
+STATEMENT 
+
+
+1. From 1986 to 1990, petitioner was employed as 
+general manager of respondent’s “4Cs North” sales 
+territory, covering northern North Carolina and 
+southern Virginia. Pet. App. 3. Respondent operates 
+cafeterias and vending machines. Id. at 2. In 1989, 
+petitioner’s immediate supervisor, Regional Vice 
+President Ed Williams, gave him a performance rat- 
+ing of “commendable minus” (i.e., slightly less than 
+“eommendable”) and informed petitioner that he had 
+earned the largest incentive bonus at the company 
+that year. O’Connor Aff. J 4. 
+
+Later in 1989, respondent reorganized its sales 
+territories. Petitioner, who was then 55 years old, 
+agreed to assume control of respondent’s “4Cs South” 
+territory, covering southern and western North 
+Carolina and northern South Carolina, which had had 
+financial problems. O’Connor Aff. J 5; Pet. App. 3. 
+Mike Kiser, who was 35 years old, took over peti- 
+tioner’s former position as manager of the 4Cs North 
+area. Allen Hunter, age 57, remained the manager of 
+the Greensboro/Raleigh, North Carolina, region, 
+and Ted Finnell, age 40, remained in charge of 
+the Greenville/Spartanburg, South Carolina, region. 
+O'Connor Aff. J 5; Pet. App. 3. 
+
+
+3 
+
+
+In the summer of 1990, Williams reassigned part of 
+petitioner’s 4Cs South territory to Mike Kiser, pur- 
+portedly because petitioner was “slow” in responding 
+to problem accounts. Pet. App. 3-4. At about the same 
+time, Williams began making age-related remarks to 
+and around petitioner. First, while watching a golf 
+tournament on television in June, Williams com- 
+mented to petitioner that petitioner was “too old” to 
+play 18 holes of golf five days in a row. In July, during 
+a discussion in petitioner’s office, Williams told 
+petitioner, “O’Connor, you are too damn old for this 
+kind of work.” Finally, in early August, in petition- 
+er’s presence but in response to another employee’s 
+comment that he would soon be turning 50 years old, 
+Williams remarked, “It’s about time we started to get 
+some young blood in this company.” Id. at 17-19. 
+
+Two days after the last comment, petitioner was 
+terminated. All of his territory was combined with 
+the territory assigned to the 40-year-old Finnell and 
+placed under Finnell’s control. (In Finnell’s most 
+recent appraisal, made eight months earlier, Williams 
+had given him a “competent minus” performance rat- 
+ing, a lower rating than the “commendable minus” 
+rating received by petitioner. O’Connor Aff. J 10.) At 
+the same time, the 57-year-old Hunter was demoted to 
+a sales position, and all of his territory was combined 
+with the territory assigned to the 35-year-old Kiser 
+and placed under Kiser’s management. Pet. App. 4-5. 
+
+2. Petitioner filed suit in the United States 
+District Court for the Western District of North 
+Carolina, alleging that he was fired because of his 
+age, in violation of the ADEA. The district court 
+granted summary judgment to respondent. Pet. App. 
+24-35. The court observed that an age discrimination 
+plaintiff can prove a case of discrimination in at least 
+
+
+1 
+
+
+two ways: The plaintiff may rely on “direct or indi- 
+rect evidence admissible under the rules of evidence” 
+to demonstrate discrimination. Id. at 27. Alterna- 
+tively, the plaintiff may rely on “the scheme of proof 
+initially applied to Title VII ‘disparate treatment’ 
+cases and known as the McDonnell-Douglas proof 
+scheme. * * * This scheme of proof favors the 
+plaintiff initially by allowing him to rather easily 
+establish a presumption of discrimination that, once 
+established, compels the defendant-employer to dem- 
+onstrate a legitimate, non-discriminatory reason for 
+the unfavorable employment decision.” Jd. at 27-28 
+(citing, inter alia, McDonnell Douglas Corp. v. 
+Green, 411 U.S. 792 (1973)). 
+
+The court concluded that petitioner had failed to 
+demonstrate unlawful discrimination under either 
+method of proof. It read Fourth Circuit precedent to 
+require, under the McDonnell Douglas proof scheme, 
+that petitioner prove “four objective elements”: 
+
+
+(1) he was in the protected age group class under 
+the Act at the time of the unfavorable employ- 
+ment decision; (2) he was discharged; (3) at the 
+time of his discharge, he was performing his job 
+at a level that met his employer’s legitimate ex- 
+pectations; and (4) following the discharge, he was 
+replaced by someone of comparable or lesser qual- 
+ifications outside the protected class. 
+
+
+Pet. App. 28. The court ruled that petitioner had 
+failed to produce evidence of the fourth McDonnell 
+Douglas element because his replacement, Finnell, 
+was 40 years old, and was therefore within the class of 
+persons protected by the ADEA. Therefore, it held, 
+
+
+2 5 
+
+
+petitioner “cannot rely on the Me Donnell-· Douglas 
+proof scheme.“ Id. at 30. 
+
+The district court also concluded that petitioner 
+could not withstand summary judgment using 
+“traditional principles of proof.” Pet. App. 30. It 
+decided that petitioner’s direct evidence of discrim- 
+ination, the three age-related remarks by Williams, 
+was not probative because there was no direct 
+“nexus” between the remarks and the discharge. /d. 
+at 31. It further concluded that petitioner’s “in- 
+direct,” performance-related evidence, viz., his bonus 
+and his recent receipt of an appraisal superior to 
+Finnell’s, was also not probative because the 
+appraisals had been made eight to nine months before 
+petitioner’s discharge. Id. at 33-34. 
+
+3. The court of appeals affirmed. Pet. App. 1-23. It 
+concluded, as had the district court, that petitioner 
+could not make out a prima facie case under 
+McDonnell Douglas because his replacement was 
+within the protected age group, albeit substantially 
+younger than petitioner. Id. at 9-10. The court stated 
+that “Fourth Circuit precedent has required a plain- 
+
+
+The district court also noted that, although the Fourth 
+Circuit had indicated that the fourth McDonnell Douglas ele- 
+ment “is not rigidly applicable” in cases involving a reduction 
+in force, the court of appeals had stated that, “even in reduc- 
+tion in force cases, the employee must demonstrate that the 
+employer ‘did not treat age neutrally in its [employment 
+decisions? to establish a prima facie case under McDonnell 
+Douglas. Pet. App. 28 (citations omitted). The district court 
+expressed doubt whether petitioner’s discharge was the result 
+of a reduction in force (id. at 29), but it ruled that, even if it 
+was, petitioner could not prevail because he had pregented “no 
+other evidence that [respondent] did not treat age neutrally in 
+deciding to terminate him” (id. at 30). 
+
+
+6 
+
+
+tiff to demonstrate that his replacement was outside 
+the protected class to satisfy [the fourth McDonnell 
+Douglas] element,” although it acknowledged con- 
+trary authority in other circuits. Id. at 10 n. I. 
+
+The court believed that, because petitioner “can 
+point to his replacementl,) * * this case is not 
+properly characterized as a reduction-in-force suit.” 
+Pet. App. 9. It nonetheless considered whether 
+petitioner could make out a prima facie case under a 
+“modified version of the McDonnell Douglas” scheme 
+applicable to reductions in force, and decided that he 
+could not. The court described the elements of the 
+modified scheme as follows: 
+
+
+(1) the employee was protected by the ADEA; (2) 
+he was selected for discharge from a larger group 
+ef-candidates; (3) he was performing at a level 
+substantially equivalent to the lowest level of 
+those of the group retained; and (4) the process of 
+selection produced a residual work force of 
+persons in the group[] [retained] containing some 
+unprotected persons who were performing at a 
+level lower than that at which he was performing. 
+
+
+Pet. App. 11. 
+
+The court concluded that petitioner could not 
+satisfy either the third or the fourth element of the 
+modified scheme. As to the third element, it reasoned 
+that, notwithstanding petitioner’s favorable perform- 
+ance review in 1989, petitioner “was not performing 
+well in August of 1990, at the time of his termin- 
+ation.” Pet. App. 13. And as to the fourth prong, it 
+ruled that petitioner could not show that “persons 
+outside the protected class were retained in the same 
+position or that there was some evidence indicating 
+that the employer did not treat age neutrally.“ Jbid. 
+
+
+7 
+
+
+The court believed that petitioner was “not compar- 
+able to Kiser or Finnell since [petitioner’s] territory 
+was reduced prior to his termination due to his slow 
+response to problem accounts.” Id. at 13-14. 
+
+Finally, the court of appeals affirmed the district 
+court’s decision that petitioner had not produced pro- 
+bative direct evidence of discrimination. It found 
+Williams’s remarks to be “innocuous” (Pet. App. 17) 
+and “inane” (id. at 19), amounting only to “stray com- 
+ments that do not establish evidence of age discrim- 
+ination” (ibid.). It also rejected petitioner’s evidence 
+based on differential performance reviews as “insuf- 
+ficiently probative,” in light of its earlier conclusion 
+that petitioner and Finnell were not similarly situ- 
+ated because petitioner’s territory had been reduced. 
+Ibid. 
+
+Judge Butzner filed an opinion concurring in part 
+and dissenting in part. Pet. App. 20-23. He “reluc- 
+tantly” agreed that circuit precedent required peti- 
+tioner to show that he was replaced by someone out- 
+side the protected age group to satisfy the fourth 
+element of the McDonnell Douglas prima facie case, 
+although he stated that Is luch an absolute require- 
+ment has no justification in law or policy.” Id. at 21. 
+He believed, however, that petitioner had produced 
+sufficient direct evidence of discrimination to survive 
+summary judgment. Id. at 22-23. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The Fourth Circuit erred in concluding that, to 
+establish a prima facie case of age discrimination 
+under McDonnell Douglas, petitioner was required to 
+demonstrate that his replacement was not within the 
+class of persons protected by the ADEA. The ADEA 
+prohibits age discrimination against “any individual” 
+
+
+8 
+
+
+age 40 or older, and that prohibition extends to age 
+discrimination among individuals within the protec- 
+ted age group. If the statute did not bar age discrim- 
+ination among persons within the protected age 
+group, it would offer little protection to senior-level 
+employees whose jobs require experience, for even an 
+employer seeking to discriminate against older work- 
+ers would rarely replace such employees with some- 
+one younger than 40. 
+
+In a discharge case under the ADEA, a plaintiff 
+should be able to make out a prima facie case by 
+showing that he was within the protected age group, 
+that he was discharged from a position for which he 
+was qualified, and that the employer sought or 
+obtained a replacement with similar qualifications. 
+That showing eliminates the two most common non- 
+discriminatory reasons for a discharge, lack of quali- 
+fications in the applicant and lack of available work. 
+It therefore raises an inference of discrimination, 
+even if the plaintiff does not identify the age of the 
+replacement, by presenting the court with the unex- 
+plained termination of a qualified employee in the 
+protected age group who performed a task for which 
+the employer had a need. Such a showing therefore 
+shifts to the employer the burden of articulating a 
+legitimate, nondiscriminatory reason for the termin- 
+ation. A similar approach has been applied in cases 
+arising under Title VII of the Civil Rights Act of 
+1964. 
+
+In cases involving reductions in force, where the 
+employer no longer has a need for anyone to perform 
+the discharged employee’s functions, a plaintiff alleg- 
+ing age discrimination may have to show that the 
+employer retained younger employees to establish a 
+prima facie case. This is not a reduction-in-force 
+
+
+9 
+
+
+case, however, for petitioner has shown that respond- 
+ent continued to have a need for someone to fulfill the 
+functions that he was performing before he was fired. 
+Furthermore, even in a reduction-in-force case, a 
+plaintiff should have to show only that similarly 
+qualified and younger employees were retained, not 
+that employees younger than 40 were retained. Peti- 
+tioner in this case has therefore established a prima 
+facie case, and the district court should not have 
+
+
+granted summary judgment to respondent. 
+ARGUMENT 
+
+
+I. IN A DISCRIMINATORY DISCHARGE SUIT 
+BROUGHT UNDER THE AGE DISCRIMINATION IN 
+EMPLOYMENT ACT, THE AGE OF THE REPLACE- 
+MENT EMPLOYEE IS NOT AN ELEMENT OF THE 
+PRIMA FACIE CASE UNDER THE MCDONNELL 
+DOUGLAS FRAMEWORK 
+
+
+1. The Age Discrimination in Employment Act 
+(ADEA) provides, in part: 
+
+
+It shall be unlawful for an employer — 
+
+
+(1) to fail or refuse to hire or to discharge any 
+individual or otherwise discriminate against any 
+individual with respect to his compensation, 
+terms, conditions, or privileges of employment, 
+because of such individual’s age. 
+
+
+29 U.S.C. 623(a)(1). A separate section of the ADEA 
+further provides that It he prohibitions in this chap- 
+ter shall be limited to individuals who are at least 40 
+years of age.” 29 U.S.C. 631(a). 
+
+The protection against discrimination afforded by 
+the ADEA is thus limited to individuals “who are at 
+least 40 years of age.” 29 U.S.C. 631(a). Nothing in 
+
+
+10 
+
+
+the ADEA suggests, however, that an employer may 
+discriminate against an older employee in favor of a 
+younger one merely because the younger one is 40 
+years old. It is “hornbook law” that an ADEA action 
+may be based on discrimination between older and 
+younger members of the protected class. Kralman v. 
+Illinois Dep’t of Veterans’ Affairs, 23 F.3d 150, 155 
+(7th Cir.), cert. denied, 115 S. Ct. 359 (1994). Indeed, 
+respondent does not dispute that an ADEA plaintiff 
+may rely on “an intra-protected-group age compari- 
+son” to demonstrate unlawful age discrimination. See 
+Resp. Br. in Opp. 9. 
+
+The legislative history of the ADEA plainly indi- 
+cates that Congress intended to prohibit age discrim- 
+ination even when the favored younger employee is 40 
+years old. During the Senate’s consideration of the 
+ADEA, Senator Javits made that very point: 
+
+
+Section 4 of the bill specifically prohibits 
+discrimination against any “individual” because of 
+his age. It does not say that the discrimination 
+must be in favor of someone younger than age 40. 
+In other words, if two individuals ages 52 and 42 
+apply for the same job and the employer selected 
+the man age 42 solely * * * because he is 
+younger than the man 52, then he will have 
+violated the act. 
+
+
+113 Cong. Rec. 31,255 (1967). Senator Yarborough, 
+the floor manager of the bill, agreed: 
+
+
+It is not the intent of the sponsors of this legis- 
+lation * * * to permit discrimination on account 
+of age, whether discrimination might be attempted 
+between a man of 38 and one 52 years of age, or 
+between one 42 and one 52 years of age. If two men 
+applied for employment under the terms of this 
+
+
+11 
+
+
+law, and one was 42 and one was 52, * * . [the 
+
+
+employer] could not turn either down on the basis 
+of the age factor. 
+Ibid. 
+
+Consistent with the language and legislative 
+history of the statute, EEOC regulations bar discrim- 
+ination within the protected age group. Under those 
+regulations, “(ijt is unlawful * * for an employer 
+to discriminate in hiring or in any other way by 
+giving preference because of age between individuals 
+40 and over. Thus, if two people apply for the same 
+position, and one is 42 and the other 52, the employer 
+may not lawfully turn down either one on the basis of 
+age.” 29C.F.R. 1625.2(a). Because the EEOC is the 
+agency charged with implementation of the ADEA, 
+its interpretation is entitled to “great deference.” 
+Kralman, 23 F. gd at 155 (citing Chevron U.S.A., Inc. 
+v. Natural Resources Defense Council, Inc., 467 U.S. 
+837, 844 (1984)); see 29 U.S.C. (EEOC’s statutory 
+authority to issue rules and regulations to implement 
+ADEA). 
+
+It would be inconsistent with the policy of the 
+ADEA to exclude employees who suffer age discrim- 
+ination from the ADEA’s protective reach merely 
+because those who benefit from the discrimination are 
+also protected by the Act. As the Third Circuit has 
+
+
+2 The EEOC’s statutory authority to issue regulations “nec- 
+essary or appropriate for carrying out [the ADEA|),” includ- 
+ing regulations to establish “reasonable exemptions” from the 
+ADEA (29 U.S.C. 628), distinguishes the ADEA from Title 
+VII, for which the EEOC does not have “authority to promul- 
+gate rules and regulations.” EEOC v. Arabian American Oil 
+Co., 499 U.S. 244, 257 (1991) (declining to accord deference to 
+EEOC’s Guideline on extraterritorial application of Title VII). 
+
+
+12 
+
+
+noted, “[i]f no intra- age group protection were provid- 
+ed by the ADEA, it would be of virtually no use to 
+persons at the upper ages of the protected class whose 
+jobs require experience since even an employer with 
+clear anti-age animus would rarely replace them with 
+someone under 40.“ Mazfield v. Sinclair Int'l, 766 
+F. 2d 788, 792 (3d Cir. 1985), cert. denied, 474 U.S. 1057 
+(1986). A rule limiting protection to those replaced by 
+employees younger than 40 “fails to take the reality 
+of the working place into account. Because of the 
+value of experience, rarely are sixty-year-olds re- 
+placed by those under forty. The replacement process 
+is more subtle but just as injurious to the worker who 
+has been discharged.” McCorstin v. United States 
+Steel Corp., 621 F.2d 749, 754 (5th Cir. 1980). 
+Although an employer may rarely replace a 60-year- 
+old with a 35-year-old, “the sixty-year-old will be 
+replaced by a fifty-five-year-old, who, in turn, is suc- 
+ceeded by a person in the forties[.] * * * Eventually, 
+a person outside the protected class will be elevated 
+but rarely to the position of the one fired.” Ibid. 
+
+2. a. The ADEA therefore unquestionably prohibits 
+discrimination against individuals who are 40 years 
+old or older, on the basis of age, even when that dis- 
+crimination favors someone who is also 40 years old 
+or older. This case presents the question whether 
+the same conclusion applies to the establishment of a 
+prima facie of age discrimination—whether an age 
+discrimination plaintiff is precluded from establishing 
+a prima facie case under the McDonnell Douglas 
+framework simply because the beneficiary of the 
+discrimination is 40 years old. In our view, the fact 
+that the replacement worker is 40 years old or older 
+
+
+13 
+
+
+should not prevent a plaintiff from establishing such a 
+prima facie case.’ 
+
+The question presented in this case must be 
+considered in light of the purpose of the burden- 
+shifting framework articulated in McDonnell 
+Douglas. The Court designed that framework as “a 
+sensible, orderly way to evaluate the evidence in light 
+of common experience as it bears on the critical 
+question of discrimination.” Furnco Construction 
+Corp. v. Waters, 438 U.S. 567, 577 (1978). Because 
+plaintiffs rarely can demonstrate an employer’s dis- 
+criminatory intent directly, At he shifting burdens of 
+proof set forth in McDonnell Douglas are designed to 
+assure that the ‘plaintiff has] his day in court despite 
+the unavailability of direct evidence.“ Trans World 
+Airlines, Inc. v. Thurston, 469 U.S. 111, 121 (1985) 
+
+
+See McDonnell Douglas Corp. v. Green, 411 U.S 792, 802 
+(1973) (setting out elements of prima facie case of discrim- 
+inatory failure to hire under Title VII of Civil Rights Act of 
+1964). Although this Court has never decided whether the 
+McDonnell Douglas frame to litigation under the 
+ADEA, every court of appeals that has considered the issue has 
+held that it does, and we are not aware of any contrary 
+decision. E. g., Seman v. Coplay Cement Co., 26 F.3d 428, 432 & 
+n.7 (3d Cir. 1994); Lovelace v. Sherwin-Williams Co., 681 F.2d 
+230, 239 n.8 (4th Cir. 1982); Loeb v. Textron, Inc., 600 F. 2d 
+1003, 1012-1017 (Ist Cir. 1979); Schwager v. Sun Oil Co., 591 
+F.2d 58, 60-61 (10th Cir. 1979). Since Title VII and the ADEA 
+share a common purpose—elimination of discrimination in the 
+work place (see McKennon v. Nashville Banner Pub. Co., 115 
+S. Ct 879, 884 (1995))—and since many of “the prohibitions of 
+the ADEA were derived in haec verba from Title VII“ 
+(Lorillard v. Pons, 434 U.S. 575, 584 (1978), it is especially 
+
+
+appropriate to apply the McDonnell Douglas proof scheme to 
+cases arising under the ADEA. 
+
+
+; 
+
+
+14 
+
+
+(quoting Loeb v. Textron, Inc., 600 F.2d 1008, 1014 (Ist 
+Cir. 1979)). 
+
+McDonnell Douglas allows the plaintiff to establish 
+a prima face case of discrimination “by showing (i) 
+that he belongs to a racial minority; (ii) that he 
+applied and was qualified for a job for which the 
+employer was seeking applicants; (iii) that, despite his 
+qualifications, he was rejected, and (iv) that, after his 
+rejection, the position remained open and the em- 
+ployer continued to seek applicants from persons of 
+the plaintiff's) qualifications.” 411 U.S. at 802. That 
+formulation of the prima facie case reflects the 
+Court’s recognition that “the two most common legit- 
+imate reasons on which an employer might rely to 
+reject a job applicant” are “absolute or relative lack of 
+qualifications [and] the absence of a vacancy in the job 
+sought.” International Bhd. of Teamsters v. United 
+States, 431 U.S. 324, 358 n.44 (1977). The McDonnell 
+Douglas formulation allows the plaintiff to show that 
+those defenses are not at issue in the case by 
+demonstrating that there was a position to be filled 
+for which he was qualified. If the plaintiff makes that 
+showing, then the unexplained failure to hire (or 
+termination of) an applicant or employee who is quali- 
+fied to perform a task that the employer needs to have 
+done gives rise to an inference of unlawful discrim- 
+ination.’ As the Court in Furnco explained: 
+
+
+more obvious job-related reasons for not hiring him, a Title VII 
+complainant can create an inference of some tainted reason, 
+i.e., some discriminatory reason, sufficient to require the 
+
+
+15 
+
+
+A prima facie case under McDonnell Douglas 
+an inference of discrimination only be- 
+we presume these acts, if otherwise 
+unexplained, are more likely than not based on 
+the consideration of impermissible factors. And 
+we are willing to presume this largely because we 
+know from our experience that more often than 
+not people do not act in a totally arbitrary 
+manner, without any underlying reasons, es- 
+pecially in a business setting. Thus, when all 
+legitimate reasons for rejecting an applicant have 
+been eliminated as possible reasons for the 
+employer’s actions, it is more likely than not the 
+employer, who we generally assume acts only 
+with some reason, based his decision on an 
+impermissible consideration such as race. 
+
+
+438 U.S. at 577 (citation omitted). 
+
+Establishment of a prima facie case under 
+McDonnell Douglas does not compel a finding of 
+discrimination; it merely shifts to the employer the 
+burden of producing evidence of a non-discriminatory 
+reason or reasons for the personnel action. “Estab- 
+lishment of the prima facie case in effect creates a 
+presumption that the employer unlawfully discrim- 
+inated against the employee,” Texas Dep't of Com- 
+munity Affairs v. Burdine, 450 U.S. 248, 254 (1981), 
+and that presumption “places upon the defendant the 
+burden of producing an explanation to rebut the prima 
+facie case,” St. Mary’s Honor Center v. Hicks, 113 S. 
+Ct. 2742, 2747 (1993). If the defendant meets its 
+burden of production on rebuttal, then the presump- 
+tion, having fulfilled its role of forcing the defendant 
+
+
+employer to articulate a legitimate reason for the complainant's 
+rejection.” Loeb, 600 F.2d at 1013. 
+
+
+16 
+
+
+to come forward with some response, simply drops out 
+of the picture” and “the trier of fact proceeds to de- 
+cide the ultimate question: [wJhether plaintiff has 
+proven ‘that the defendant intentionally discriminated 
+against him.“ Id. at 2749. 
+
+b. In the context of Title VII litigation, the prevail- 
+ing view in the courts of appeals is that a plaintiff is 
+not prevented from establishing a prima facie case by 
+the fact that the person hired instead of the plaintiff 
+or chosen to replace the plaintiff is a member of the 
+same minority group as is the plaintiff, or has the 
+same gender as the plaintiff.“ This view permits a 
+plaintiff who is a member of a minority group or a 
+woman to establish a prima facie case, and thus to 
+raise an inference that he or she was the victim of 
+prohibited discriminatory treatment, even though 
+another person of the same minority group or gender 
+might have escaped such treatment by the same 
+
+
+5 See Davenport v. Riverview Gardens School Dist., 30 F. 3d 
+940, 944-945 (8th Cir. 1994); Rush v. Me Donald's Corp., 966 
+F.2d 1104, 1114 (7th Cir. 1992); Jackson v. Richards Medical 
+Co., 961 F.2d 575, 587 n.12 (6th Cir. 1992); Cumpiano v. Banco 
+Santander Puerto Rico, 902 F.2d 148 (ist Cir. 1990); Meiri v. 
+Dacon, 759 F.2d 989, 995-996 (2d Cir. 1985). There is language 
+in other decisions suggesting that the characteristics of the 
+replacement are part of the prima facie case, but in none of 
+those decisions was the issue squarely presented. See Korbin v. 
+University of Minnesota, 34 F.3d 698, 702 (8th Cir. 1994); 
+Notari v. Denver Water Dep't, 971 F.2d 585, 590 (10th Cir. 
+1992); Lee v. Russell Cty. Bd. of Educ., 684 F.2d 769, 775 n.11 
+(llth Cir. 1982). In Hicks, 113 S. Ct. at 2747, this Court noted 
+that the respondent, a black man, had established a prima facie 
+case by showing (among other things) that he was replaced by a 
+white man, but the Court did not hold there that the race of 
+the replacement was part of the prima facie case. See id. at 
+2758 n.1 (Souter, J., dissenting). 
+
+
+17 
+
+
+employer. As the Court stressed in Connecticut 
+v. Teal, 457 U.S. 440, 455 (1982), “Congress never in- 
+tended to give an employer license to discriminate 
+against some employees on the basis of race or sex 
+merely because he favorably treats other members of 
+the employees’ group. * * * Title VII does not 
+permit the victim of a facially discriminatory policy 
+to be told that he has not been wronged because other 
+persons of his or her race or sex were hired.” See 
+also Teamsters v. United States, 431 U.S. at 342. 
+
+The lower courts’ conclusion that a plaintiff should 
+not be precluded from establishing a prima facie case 
+even when the hired employee is a member of the 
+same minority group reflects a realistic view of the 
+nature of discrimination in the workplace. There are 
+some situations in which an employer might discrim- 
+inate on the basis of (for example) race by refusing to 
+hire a black person, even if another black person is 
+ultimately hired for the same or a similar position. 
+An employer engaging in racial discrimination might 
+hire a few members of racial minority groups to ward 
+off discrimination suits, or might reassign a few 
+minority employees to conceal discrimination. Or an 
+employer might discourage blacks from applying for 
+certain positions through rejection of some black 
+applicants and delay in filling the positions. Such 
+actions would constitute prohibited discrimination, 
+even if the persons eventually chosen to fill the 
+positions were black. 
+
+The last fact pattern is, indeed, very similar to the 
+facts of Furnco, in which three qualified black 
+applicants for open bricklaying positions were initial- 
+ly rejected, but one of the three was subsequently 
+hired, along with six other black bricklayers. 438 
+U.S. at 570. The Court agreed with the respondents 
+
+
+18 
+
+
+in that case that they had established a prima facie 
+case under McDonnell Douglas: “[T]hey were mem- 
+bers of a racial minority; they did everything within 
+their power to apply for employment; Furnco has 
+conceded that they were qualified in every respect for 
+the jobs which were about to be open; they were not 
+offered employment, although Smith later was; and 
+the employer continued to seek persons of similar 
+qualifications.” Id. at 576. 
+
+c. These considerations apply with equal force to 
+cases brought under the ADEA. As in the Title VII 
+context, a correct understanding of the function of 
+the McDonnell Douglas framework leads to the 
+conclusion that the characteristics of the replace- 
+ment employee are not an element of the plaintiff's 
+prima facie case.“ By establishing that he or she fell 
+within the class of persons protected by the ADEA, 
+had the qualifications for a position that the employer 
+needed to fill, and nonetheless was rejected by the 
+employer, an ADEA plaintiff presents the court with 
+an unexplained adverse personnel action and raises an 
+inference of discrimination. The age of the replace- 
+ment employee may be relevant at a later stage of the 
+
+
+See Freeman v. Packaging Machine Co., 865 F.2d 1331, 
+1335 n.1 (Ist Cir. 1988); Douglas v. Anderson, 656 F.2d 528, 532 
+(9th Cir. 1981). See also Alphin v. Sears, Roebuck & Co., 940 
+F.2d 1497, 1501 (11th Cir. 1991) (noting that plaintiff's evidence 
+suggested that he was replaced by someone older “as part of 
+a strategy to eliminate two employees from the protected 
+group”); Herold v. Hajoca Corp., 864 F.2d 317, 320 (4th Cir. 
+1988) (holding that prima facie case of age discrimination was 
+established even though employer had assigned plaintiff's job 
+duties to an even older worker), cert. denied, 490 U.S. 1107 
+(1989). 
+
+
+19 
+
+
+proceedings, but it should not affect the plaintiff's 
+prima facie case.’ 
+
+Moreover, the Fourth Circuit’s rule, requiring a 
+replacement from outside the protected class as a 
+necessary element of a prima facie case in all cases, is 
+wholly illogical. Under that rule, a 45-year-old plain- 
+tiff who was fired and replaced by a 39-year-old could 
+establish a prima facie case, whereas a 65-year-old 
+plaintiff replaced by a 40-year-old could not, even 
+though the inference of age bias based on the 
+difference in ages is much stronger in the second case 
+than in the first. Every court of appeals other than 
+the Fourth Circuit has therefore held that, at a 
+minimum, a plaintiff should be able to make out a 
+prima facie case under the ADEA if (in addition to the 
+other elements of the McDonnell Douglas frame- 
+work) he or she is replaced by a younger employee, 
+irrespective of whether that replacement is older or 
+younger than 40.“ 
+
+
+The replacement of an employee in the protected age 
+group with another employee at least 40 years old may be 
+relevant to demonstrate the lack of discriminatory intent on 
+the part of the employer. See Hicks, 113 S. Ct. at 2753-2754 
+(once the defendant satisfies its burden of production of a 
+nondiscriminatory reason for its action, the presumption of 
+discrimination disappears, and the trier of fact must then 
+decide “whether the defendant intentionally discriminated 
+against the plaintiff”); see also Cumpiano v. Banco Santander 
+Puerto Rico, 902 F.2d 148, 155 (Ist Cir. 1990) (noting that “the 
+attributes of a successor employee may have evidentiary force 
+in a particular case”). 
+
+See Cuddy v. Carmen, 694 F.2d 853, 857 (D.C. Cir. 1982); 
+Freeman v. Package Machinery Co., 865 F.2d 1331, 1335 n.2 
+(Ist Cir. 1988); Haskell v. Kamen Corp., 743 F.2d 113, 119 n.1 
+(2d Cir. 1984); Maxfield, supra, 766 F.2d at 791-792 (3d Cir.); 
+Lindsey v. Prive Corp., 987 F.2d 324, 326-327 (5th Cir. 1993); 
+
+
+20 
+
+
+A rigid under-age-40 requirement not only lacks 
+logic and common sense, it would run counter to the 
+Court’s admonitions that the McDonnell Douglas 
+framework is not “rigid, mechanized or ritualistic” 
+(Furnco, 438 U.S. at 577; Burdine, 450 U.S. at 253 
+n.6), and that the burden of establishing a prima facie 
+case is “not onerous” (id. at 255). A “Procrustean 
+limitation” restricting the ability to establish a prima 
+facie case to situations in which the replacement is 
+younger than 40 would preclude many older, more 
+experienced employees with meritorious claims from 
+relying on the McDonnell Douglas framework, simp- 
+
+
+Barnes v. GenCorp, Inc., 896 F.2d 1457, 1465 n.9 (6th Cir.), 
+cert. denied, 498 U.S. 878 (1990); Kralman, supra, 23 F.3d at 
+153-156 (7th Cir.); Rinehart v. City of Independence, 35 F.3d 
+1263, 1265-1266 (8th Cir. 1994), cert. denied, 115 S. Ct. 1822 
+(1995); Douglas v. Anderson, 656 F.2d 528, 532-533 (9th Cir. 
+1981); Cooper v. Asplundh Tree Expert Co., 836 F.2d 1544, 1547 
+(10th Cir. 1988); Corbin v. Southland Int'l Trucks, 25 F.3d 
+1545, 1549 (11th Cir. 1994). But see LaPointe v. United 
+Autoworkers Local 600, 8 F.3d 376, 379 (6th Cir. 1993) 
+(seemingly requiring replacement from outside the protected 
+class); Price v. Maryland Casualty Co., 561 F.2d 609, 612 
+(5th Cir. 1977) (same). The Fourth Circuit’s adoption of the 
+“under-age-40” requirement may have been inadvertent. That 
+court first stated that a replacement from outside the protect- 
+ed class was required in EEOC v. Western Electric Co., 713 
+F.2d 1011, 1014 (4th Cir. 1983), where it cited Lovelace v. 
+Sherwin-Williams Co., 681 F.2d 230 (4th Cir. 1982), for its 
+formulation of the prima facie case. Lovelace in fact rejected 
+an under-age-40 requirement. See id. at 237-238 n.5, 242 n.13. 
+The Western Electric court also cited Marshall v. Goodyear 
+Tire & Rubber Co., 554 F.2d 730 (5th Cir. 1977), but that 
+decision held only that a prima facie case was established when 
+the plaintiff was replaced by someone outside the protected 
+group (id. at 736); it did not hold that replacement by one 
+younger than 40 was essential. 
+
+
+21 
+
+
+ly because their replacement was age 40 or 41 (rather 
+than 38 or 39), even though that fact alone does not 
+remove the inference of discrimination. See 
+McCorstin, 621 F.2d at 753. There is simply “no 
+reason to engraft [an under-age-40] requirement on to 
+the law.” Mazfield, 766 F.2d at 792.° 
+
+It also bears emphasis that, whereas the burden of 
+establishing a prima facie case under McDonnell 
+Douglas is not heavy, the employer’s burden of 
+production in rebuttal to that prima facie case is also 
+light, for at the rebuttal stage, the defendant “need 
+not persuade the court that it was actually motivated 
+by the proffered reasons.” Hicks, 113 S. Ct. at 2749. 
+The defendant need only “‘set forth, through the 
+introduction of admissible evidence,’ reasons for its 
+actions which, if believed by the trier of fact, would 
+support a finding that unlawful discrimination was 
+not the cause of the employment action.” Jd. at 2747 
+(emphasis omitted). When combined with the evidence 
+produced to establish plaintiff's prima facie case, the 
+employer’s proffered reasons for the adverse per- 
+sonnel action and the identity of the replacement 
+employee will “frame the factual issue with sufficient 
+
+
+The inappropriateness of the Fourth Circuit’s require- 
+ment is apparent from the facts of this case. Because Hunter’s 
+district was assigned to Kiser (age 35), Hunter (age 57) would 
+be able to establish a prima facie case of discrimination based on 
+his demotion, whereas petitioner (age 55), although fired on the 
+same day during the same reorganization, cannot because his 
+replacement was age 40—even though the age difference 
+between the displaced and retained employees is similar in both 
+instances. Petitioner could, however, have established a prima 
+facie case if the reorganization had occurred the previous year, 
+before Finnell turned 40, or if his district had gone to Kiser 
+instead of to Finnell. 
+
+
+22 
+
+
+clarity so that the plaintiff will have a full and fair 
+opportunity to demonstrate pretext,” Burdine, 450 
+U.S. at 255-256, and the trier of fact can make an 
+informed credibility determination. The Fourth 
+Cireuit's rule, on the other hand, would arbitrarily 
+preclude any use of the McDonnell Douglas frame- 
+work in ADEA cases simply because the hired or 
+retained employee is at least 40 years old. 
+
+
+II. SPECIAL CONSIDERATIONS THAT MAY BE 
+APPLICABLE TO CASES INVOLVING REDUC- 
+TIONS IN FORCE DO NOT APPLY TO THIS CASE 
+
+
+In several cases, lower courts have struggled with 
+the application of the McDonnell Douglas proof 
+scheme to employers’ large-scale reductions in force, 
+such as reductions caused by plant closings.” The 
+difficulty in applying McDonnell Douglas to reduc- 
+tions in force stems from the fact that, when the 
+workforce is reduced, the employer has often deter- 
+mined for wholly nondiscriminatory reasons that it 
+no longer has an economic need for the functions that 
+
+
+10 See, e.g., Roper v. Peabody Coal Co., 47 F.3d 925, 927 (7th 
+Cir. 1995) (ADEA); Bashara v. Black Hills Corp., 26 F.3d 820, 
+823 (8th Cir. 1994) (ADEA); Mitchell v. Data General Corp., 12 
+F.3d 1310, 1315 (4th Cir. 1998) (ADEA); Bell v. AT&T, 946 
+F.2d 1507, 1590-1511 (10th Cir. 1991) (Title VID: Williams v. 
+Williams Electronics, Inc., 856 F.2d 920, 922-923 (7th Cir. 1988) 
+(Title VII); Orman v. WLS-TV, 846 F.2d 448, 453-456 (7th Cir. 
+1988) (ADEA); Simpson v. Midland-Ross Corp., 823 F.2d 937, 
+941 (6th Cir. 1987) (ADEA); Shah v. General Elec. Co., 816 
+F.2d 264, 267-271 (6th Cir. 1987) (Title VII); Matthews v. Allis- 
+Chalmers Corp., 769 F.2d 1215, 1217 (7th Cir. 1985), overruled 
+in part by Oxman, supra; id. at 1221-1224 (Flaum, J., con- 
+curring) (ADEA); Western Electric, 713 F.2d at 1014-1015 
+(ADEA); Williams v. General Motors Corp., 656 F.2d 120, 129- 
+131 (5th Cir. 1981) (ADEA), cert. denied, 455 U.S. 943 (1982). 
+
+
+23 
+
+
+the plaintiff was performing." In such cases, it 
+cannot be said, in the language of McDonnell 
+Douglas, that, after the plaintiff's discharge, “the 
+position remained open and the employer continued to 
+seek applicants from persons of [the plaintiff's] 
+qualifications.” 411 U.S. at 802. When a position has 
+been eliminated for economic reasons, it is possible to 
+conclude that “the fact that a protected employee who 
+was performing his job well was fired cannot, by 
+itself, trigger a presumption of discrimination.” 
+Oxman v. WLS-TV, 846 F.2d 448, 454 (7th Cir. 1988). 
+Consequently, some courts have concluded that, in 
+cases involving reductions in force, plaintiffs should 
+be required to produce some other evidence, “circum- 
+stantial or direct, from which a factfinder might 
+conclude that the employer intended to discriminate 
+in reaching the decision at issue,” in order to 
+establish a prima facie case.“ In many cases, that 
+requirement will effectively mean that the plaintiff 
+must show how other employees were treated by the 
+employer during the reduction of the workforce. The 
+plaintiff might, for example, raise an inference of 
+discrimination by producing evidence that the 
+employer laid off qualified black, female, or older 
+
+
+n Thus, in such cases, “the employer's reason for discharg- 
+ing the plaintiff is not ‘otherwise unexplained.’ The reduction- 
+in-force is [itself] an objective, legitimate explanation of the 
+employer’s action which the plaintiff does not call into question 
+by establishing a prima facie case under the regular stand- 
+ards.” Rinehart, 35 F.3d at 1268. 
+
+2 Williams v. General Motors Corp., 656 F.2d at 129; see also 
+Ozman, 846 F.2d at 454 (“an additional showing that creates an 
+inference of discrimination”); Western Electric, 713 F.2d at 
+1015 (“some other evidence that the employer did not treat age 
+neutrally”). 
+
+
+24 
+
+
+employees but retained similarly qualified white, 
+male, or younger ones. See, e.g., Shah v. General 
+Elec. Co., 816 F.2d 264, 268-269 (6th Cir. 1987). 
+
+Those considerations do not apply here, since, as 
+the court of appeals observed (Pet. App. 9-10), this 
+case does not involve a reduction in force. Although 
+respondent eliminated a few positions from its work- 
+force, it did not cease to have a need for someone to 
+perform the managerial functions that petitioner had 
+been assigned. “Thus, the ‘jobs’ were consolidated but 
+the task remained the same; each individual [employ- 
+ee] merely had to work harder to perform that same 
+task.” Shah, 816 F.2d at 269. The reason given for 
+modifying the McDonnell Douglas formulation in 
+reduction-in-force cases is therefore absent here, and 
+the situation is more accurately analyzed as one in 
+which Finnell replaced petitioner, or one in which 
+both Finnell and petitioner were considered for a new 
+position for which both were qualified. 
+
+Even if considerations applicable to reduction-in- 
+force cases were pertinent here, petitioner should not 
+be precluded from making a prima facie case merely 
+because Finnell, his replacement, was age 40. The 
+differential treatment between petitioner and the 
+much younger Finnell is sufficient to raise an infer- 
+ence of age discrimination, even if Finnell’s age is 
+deemed relevant to the existence of a prima facie case. 
+See Roper v. Peabody Coal Co., 47 F.3d 925, 927 (7th 
+Cir. 1995). Although petitioner might not be able to 
+make out a prima facie case of age discrimination if all 
+of the retained comparable employees were the same 
+age as he or older, that is not the situation in this 
+case, in which the favored employee was substantially 
+younger than petitioner. Petitioner therefore estab- 
+lished a prima facie case of age discrimination, and 
+
+
+25 
+
+
+the district court should not have granted summary 
+judgment to respondent.” 
+
+
+„ Moreover, if this were a reduction-in-force case, it would 
+be appropriate to compare petitioner with Kiser, who was per- 
+forming a similar function, who was retained, and who was 
+younger than 40. That comparison would establish a prima 
+facie case under any formulation of McDonnell Douglas applic- 
+able to reductions in force, for petitioner “was dismissed while 
+younger workers, at least one of whom was under 40 and was 
+therefore outside the ADEA-protected class, were retained.” 
+Herold, 864 F 2d at 320. 
+
+The court of appeals did not hold that petitioner was 
+precluded from establishing a prima facie case under standards 
+applicable to reductions in force solely because Finnell was age 
+40. The court of appeals stated that petitioner had not made 
+out a prima facie case because he had not shown that “he was 
+working up to expectations” (Pet. App. 13) and because 
+Williams's decision to retain Kiser and Finnell, rather than 
+petitioner, was based on “Kiser and Finnell's ability to handle 
+an enlarged geographic territory” (id. at 14). We believe that 
+both bases for the court of appeals’ conclusion are erroneous. 
+The factors discussed by the court of appeals are relevant in 
+considering whether respondent rebutted petitioner's showing, 
+not whether petitioner established a prima facie case. Peti- 
+tioner’s evidence of his performance review and bonus was 
+sufficient to establish that he was qualified, for the purpose of 
+making out a prima facie case. Neither court below evaluated 
+the strength of respondent's rebuttal case, however, since both 
+courts incorrectly ruled that petitioner had failed to establish a 
+prima facie case. 
+
+
+CONCLUSION 
+The judgment of the court of appeals should be 
+reversed, and the case should be remanded for further 
+proceedings. 
+Respectfully submitted. 
+
+
+Drew S. Days, III 
+Solicitor General 
+C. GREGORY STEWART 
+ame DEVAL L. PATRICK 
+GWENDOLYN YOUNG REAMS PAUL BENDER 
+Associate General Counsel Deputy Solicitor General 
+
+
+LORRAINE C. DAVIS 
+
+
+' PAUL R.Q. WOLFSON 
+Assistant General Counsel Assistant to the Solicitor 
+
+
+ROBERT J. GREGORY — 
+1 — L. SLOAN 
+
+
+be Commission 
+
+
+DECEMBER 1995 
+
+

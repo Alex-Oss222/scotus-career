@@ -1,0 +1,40 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 83,
+    "params": {
+      "query": "collection:us-supreme-court AND (text:Bowersox OR text:Bowersox OR text__reviews:Bowersox)",
+      "qin": "collection:us-supreme-court AND Bowersox",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 5,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40386002_0685",
+        "title": "Bowersox v. Antwine, 516 U.S. 1067 (1996) (No. 95-659)"
+      },
+      {
+        "identifier": "micro_IA40386003_1068",
+        "title": "Bowersox v. Wilkins, 525 U.S. 1094 (1999) (No. 98-674)"
+      },
+      {
+        "identifier": "micro_IA40386018_1139",
+        "title": "Bowersox v. Smith, 525 U.S. 1187 (1999) (No. 98-1127)"
+      },
+      {
+        "identifier": "micro_IA40385013_0738",
+        "title": "Bowersox v. Driscoll, 519 U.S. 910 (1996) (No. 95-1779)"
+      },
+      {
+        "identifier": "micro_IA40386013_2055",
+        "title": "Bowersox v. Clemmons, 523 U.S. 1088 (1998) (No. 97-1159)"
+      }
+    ]
+  }
+}

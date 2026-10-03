@@ -1,0 +1,576 @@
+JAMES O'CONNOR, 
+v. 
+
+
+CONSOLIDATED COIN CATERERS CORP ., 
+
+
+Petitioner, 
+
+
+Respondents. 
+4 
+On Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Fourth Circuit 
+4 
+
+
+BRIEF OF THE STATES OF MARYLAND 
+ARKANSAS, DELAWARE, MICHIGAN, NEVADA 
+NEW JERSEY, OKLAHOMA AND SOUTH DAKOTA 
+Cl CURIAE IN SUPPORT OF RESPONDENT 
+
+4 
+
+
+J. JOSEPH CURRAN, JR. 
+Attorney General of Maryland 
+
+
+TARRA DESHIELDS-MINNIS* 
+ANDREW H. BAIDA 
+
+
+Assistant Attorneys General 
+200 St. Paul Place, 20th Floor 
+
+
+Baltimore, a 21202 
+(410) 576-790 
+
+
+Counsel for Amici States 
+
+
+*Counsel of Record 
+[additional counsel listed on inside cover] 
+
+
+WINSTON BRYANT 
+Attorney General 
+
+of Arkansas 
+
+200 Tower Building 
+323 Center Street 
+Little Rock, AR 72201 
+
+
+M. JANE BRADY 
+
+General of Delaware 
+820 North Front Street 
+Wilmington, Delaware 19801 
+
+
+FRANK J. KELLEY 
+
+Attorney General of Michigan 
+P.O. Box 30212 
+
+Lansing, Michigan 48909 
+
+
+FRANKIE SUE DEL PAPA 
+Attorney General 
+of Nevada 
+
+
+Capitol Complex 
+Carson City, NV 89710 
+
+
+DEBORAH T. PORITZ 
+Attorney General 
+
+of New J 
+
+R.J. Hughes Justice Complex 
+Trenton, NJ 08625 
+
+
+MARK BARNETT 
+
+Att General 
+
+of Dakota 
+
+500 East Capital Avenue 
+Pierre, SD 57501 
+
+
+p thane ow f Oklaho 
+oO ma 
+112 State Capitol Buildi 
+Oklahoma City, OK 7310 
+
+
+QUESTION PRESENTED 
+
+
+Can an individual establish a prima facie case that he was 
+discharged on the basis of age when his replacement is within the 
+class of persons protected against age discrimination” 
+
+
+TABLE OF CONTENTS 
+
+
+QUESTION PRESENTED 
+INTEREST OF AMICI] CURIAE 
+STATEMENT 
+
+SUMMARY OF ARGUMENT 
+ARGUMENT . 
+
+
+A PLAINTIFF ALLEGING AN UNLAWFUL 
+DISCHARGE IN VIOLATION OF THE ADEA 
+MUST SHOW, TO ESTABLISH A PRIMA 
+FACIE CASE UNDER THE MCDONNELL 
+DOUGLAS CRITERIA, THAT HE WAS 
+REPLACED BY SOMEONE OUTSIDE OF 
+THE PROTECTED AGE GROUP | - 3 
+
+
+CONCLUSION 
+
+
+we wn NN = 
+
+
+TABLE OF AUTHORITIES 
+CASES 
+
+
+Barnes v. Gencorp Inc, 896 F.2d 1457 (6th Cir 1990) _. 4 
+Bienkowski v. American Airlines, Inc., 85\ F 2d 1503 
+
+
+- 2 | 6 
+Connecticut v. Teal, 457 US. 440 (1982) - —- 7,8 
+Cooper v. Asplundh Tree Expert Company, 
+
+836 F 2d 1544(10th Cir 1988)... 6 
+Cuddy v. Carmen, 694 F.2d 853 (D.C. Cir. 1982) 6 
+Douglas v. Anderson, 656 F.2d 528 (9th Cir 1981)... 6,7 
+Freeman v. Package Machinery Co.., 
+
+865 F.2d 1331 (ist Cir 1988)... 6 
+
+
+Haskell v. Kaman Corp., 743 F.2d 113 (2d Cir 1984) 6,7 
+LaPointe v. United Autoworkers Local 600, 
+
+8 F.3d 376 (6thCir 1993)... sss... re 4 
+Maxfield v. Sinclair International, 
+
+
+766 F.2d 788 (3d Cir 1985)... ss cma 6 
+
+
+McCorstin v. United States Steel Corp., 
+621 F.2d 749 (Sthcir 1980). sss Pee ae 5 
+
+
+McDonnell Douglas Corp. v. Green, 
+411 US. 792(1973).._.. 
+
+
+O'Connor v. Consolidated Coin Caterers Corp., 
+
+
+56 F.3d 542 (4th Cir 1995). 
+Rinehart v. City of Independence, Mo . 
+35 F 3d 1263 (8th Cir. 1994) 
+
+
+Roper v. Peabody Coal Co., 
+47 F 3d 925 (7th Cir. 1995) 
+
+
+STATUTES AND RULES - 
+29U SC. § 621(b) . 
+29U SC. § 626(b) 
+29U SC. § 626(c).. 
+29 U.S.C. § 630(b) 
+29U S.C. § 631(a) 
+
+
+Sup Ct R. 37 
+
+
+2,3,5,7 
+
+
+NNN S&S 
+
+
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+No. 95-354 
+
+
+JAMES O'CONNOR. 
+Petitioner, 
+v. 
+
+
+CONSOLIDATED COIN CATERERS CORP , 
+
+
+Respondents. 
+4 
+On Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Fourth Circuit 
+¢ 
+
+
+BRIEF OF THE STATES OF MARYLAND 
+ARKANSAS, DELAWARE, MICHIGAN, NEW JERSEY, 
+NEVADA, OKLAHOMA AND SOUTH DAKOTA AS 
+AMICI CURIAE IN SUPPORT OF RESPONDENT 
+
+
+4 
+
+
+This brief is submitted by the amici states through their 
+respective Attorneys General in accordance with Rule 37.5 
+of the Rules of the Supreme Court. 
+
+
+2 
+
+
+INTEREST OF AMICI CURIAE 
+
+
+Because the Age Discrimination in Employment Act 
+(ADEA) defines "employer" to include "a state or political 
+subdivision of a state,” 29 U.S.C. § 630(b), a state agency 
+that violates the ADEA is liable for both legal and equitable 
+relief. 29 U.S.C. § 626(b) & (c). Institutional employers 
+such as the States, like their private sector counterparts, 
+have an acute interest in knowing the rules that govern 
+ADEA litigants. The States, therefore, have a strong 
+- interest in this case because it requires this Court to define 
+the nature of proof needed to establish a prima facie case in 
+causes of action instituted pursuant to the ADEA. 
+
+
+STATEMENT OF THE CASE 
+
+
+James O'Connor initiated the present action pursuant to 
+the ADEA following his discharge from employment with 
+Consolidated Coin Caterers Corporation (Consolidated). 
+O'Connor v. Consolidated Coin Caterers Corp., 56 F.3d 
+542, 543 (4th Cir. 1995). O'Connor was 56 years of age at 
+the time of his discharge; he was replaced by someone who 
+was 40 years of age. /d. at 544. The United States District 
+Court for the Western District of North Carolina granted 
+summary judgment in favor of Consolidated, ruling that 
+O'Connor had failed to establish, under the proof scheme 
+enunciated in McDonnell Douglas Corp. v. Green, 411 U.S. 
+792 (1973), a prima facie case that Consolidated had done 
+anything other than treat age neutrally in deciding to 
+terminate him. 56 F.3d at 545. The district court went on 
+to hold that O'Connor had likewise failed to establish by 
+traditional proof methods that his discharge was age-based. 
+Id. 
+
+
+On appeal, the United States Court of Appeals for the 
+Fourth Circuit affirmed the judgment. The court held that 
+O'Connor could not survive summary judgment under the 
+
+
+3 
+
+
+McDonnell Douglas rubric because the employee who 
+replaced him was outside of the class of persons protected 
+by the ADEA. /d. at 547. The court held that O'Connor 
+fared no better in his efforts to offer direct proof that age 
+was the determining factor in Consolidated's decision to 
+discharge him. /d. at 549-50. The court found no 
+discriminatory intent was evinced by the age-related 
+remarks that Consolidated allegedly made. /d. 
+
+
+Judge Butzner filed a separate opinion concurring in part 
+and dissenting in part. /d. at 550-51. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+This Court should adopt the requirement that the court 
+of appeals imposed in this case. Just as discriminatory 
+intent is not manifested when a member of a particular race, 
+national origin, or gender is replaced by a member of the 
+same classification, such intent does not arise under the 
+ADEA when one member of the protected classification 
+replaces another. The rule that the court of appeals used 
+should be affirmed because it parallels the line drawing that 
+Congress engaged in when it enacted the ADEA, and it 
+ensures consistent results when determining whether a party 
+has made out a prima facie case under the ADEA. 
+
+
+ARGUMENT 
+
+
+A PLAINTIFF ALLEGING AN UNLAWFUL 
+VIOLATION OF THE ADEA MUST SHOW, TO 
+ESTABLISH A PRIMA FACIE CASE UNDER 
+THE MCDONNELL DOUGLAS CRITERIA, 
+THAT HE WAS REPLACED BY SOMEONE 
+OUTSIDE OF THE PROTECTED AGE 
+GROUP. 
+
+
+The decision of the court of appeals -- that in ADEA 
+cases the plaintiff must focus on the personal characteristics 
+of the person chosen to replace him and show that he or she 
+
+
+4 
+
+
+was someone outside of the class of persons protected 
+against age discrimination -- should be affirmed for the 
+principal reason that it is consistent with Congress’ decision 
+to craft bright lines in limiting the ADEA's protection to 
+those falling within a defined age group.’ In setting forth 
+that the ADEA is "to promote employment of older persons 
+based on their ability rather than age [and] to prohibit 
+arbitrary age discrimination in employment,” 29 U.S.C. § 
+621(b), Congress deliberately chose to have the statute's 
+prohibitions apply only to those individuals at least 40 years 
+of age and less than 65 years of age. 29 U.S.C. § 631(a). 
+This choice sharply distinguishes the ADEA from virtually 
+any other civil rights statute, such as Title VII, for example, 
+which extends its protections to a// members of a particular 
+race, national origin, gender, or other statutorily defined 
+class. 
+
+
+The test that the court of appeals applied results in no 
+more of an injustice than does that which derives from 
+Congress’ decision to delimit the class of plaintiffs eligible 
+for protection under the ADEA. In fact, a bright line rule, 
+requiring a plaintiff to show as an essential part of his prima 
+facie case that he was replaced by someone outside of the 
+class of persons protected by the ADEA, is fully consonant 
+with Congress’ drawing of a clear line in limiting the 
+protections of the ADEA to a defined age group. 
+
+
+The court of appeals’ requirement also provides an 
+
+
+' The Fourth Circuit is not alone in requiring an ADEA 
+plaintiff to show that he or she was replaced by someone outside 
+of the protected class. The Sixth Circuit adheres to a like view, 
+see LaPointe v. United Autoworkers Local 600, 8 F.3d 376, 379 
+(6th Cir. 1993), though it did not always do so as evidenced by 
+a case predating LaPointe. See Barnes v. Gencorp, Inc., 896 
+F.2d 1457, 1466 (6th Cir. 1990). 
+
+
+5 
+
+
+unambiguous, workable rule that, to the exclusion of any 
+other rule, best befits the age characteristic. Requiring that 
+the age of the person chosen to replace the ADEA claimant 
+be outside of the ADEA's protected class, as an essential 
+element of the McDonnell Douglas framework, ensures the 
+precise type of objective evidence that provides the basis for 
+a permitted inference of discriminatory intent. The first and 
+third prongs of the McDonnell Douglas scheme are no more 
+than standing requirements; the discharge constitutes the 
+cognizable injury, and being a member of the ADEA's 
+protected ciass satisfies the requirement of being within the 
+ambit of interests protected by the statute. McCorstin v. 
+United States Steel Corp., 621 F.2d 749, 753 (Sth Cir. 
+1980). The second prong relating to the plaintiff's 
+qualifications for the job, at most, operates to negate a 
+possible rebuttal to the claim of discrimination that has been 
+deemed reasonable to place within the plaintiffs burden of 
+proof. /d. A showing that the plaintiff was replaced by 
+someone outside the protected class is evidence truly 
+probative of unequal treatment and is, therefore, a relevant 
+consideration. 
+
+This type of showing provides the courts with the most 
+effective and trustworthy method by which to deal with age- 
+based discrimination cases predicated on circumstantial 
+evidence. As Petitioner concedes, unlike race or gender, 
+age is not an immutable characteristic. Brief of Petitioner 
+at 17. Age is a matter of degree. It is a continuum. A 
+disparity in age can result from a differential spanning many 
+or a few years, or even only months. It is this quality which 
+compels the bright-line rule employed by the court below. 
+
+Amici recognize that other circuits have not required a 
+plaintiff to show as part of his or her prima facie case proof 
+that the replacement employee is outside the protected age 
+group. See Roper v. Peabody Coal Co., 47 F.3d 925, 927 
+
+
+6 
+
+
+(7th Cir. 1995); Rinehart v. City of Independence, Mo., 35 
+F.3d 1263, 1266 (8th Cir. 1994); Freeman v. Package 
+Machinery Co., 865 F.2d 1331, 1335 n.2 (1st Cir. 1988); 
+Bienkowski v. American Airlines, Inc., 851 F.2d 1503, 1505 
+(Sth Cir. 1988); Cooper v. Asplundh Tree Expert Company, 
+836 F.2d 1544, 1547 (10th Cir. 1988); Maxfield v. Sinclair 
+International, 766 F.2d 788, 792 (3d Cir. 1985); Haskell v. 
+Kaman Corp., 743 F.2d 113, 122 (2d Cir. 1984); Douglas 
+v. Anderson, 656 F.2d 528, 532-33 (9th Cir. 1981); Cuddy 
+v. Carmen, 694 F.2d 853, 857 (D.C. Cir. 1982). But the 
+tests that have been substituted in place of this requirement 
+are unworkable, inconsistent with one another, and 
+incompatible with the essentially arbitrary line that 
+Congress drew in enacting the ADEA. 
+
+
+For example, both the District of Columbia and the 
+Tenth Circuit Courts of Appeals allow an ADEA claimant 
+to show that he or she was replaced by a "younger" person. 
+Cuddy v. Carmen, 694 F.2d at 857; Cooper, 836 F.2d at 
+1547. Under this paradigm, a discharged employee of 49 
+years of age could establish a prima facie case of age-based 
+discrimination in any case where the person replacing him 
+or her is "younger," even if the age disparity is a year or 
+even less. Stated differently, under the "younger" person 
+approach, an inference of age discrimination would be 
+permitted even where the probative value of such an 
+inference would be virtually nonexistent. 
+
+
+In apparent recognition of the difficulty created by the 
+“younger” person formulation, other circuits have qualified 
+that test somewhat. The Third, Fifth, Seventh, and Eighth 
+Circuit Courts of Appeals require that the employee who 
+replaced the plaintiff be "sufficiently" younger than the 
+plaintiff. See Maxfield, 766 F.2d at 792; Bienkowski, 851 
+F.2d at 1505; Roper, 47 F.3d at 927; Rinehart, 35 F.3d at 
+1266. The Second and Ninth Circuit Courts of Appeals 
+
+
+7 
+
+
+require that the plaintiff show that the employee who 
+replaced him or her was “substantially” younger than he or 
+she. See Haskell, 743 F.2d at 122; Douglas v. Anderson, 
+656 F.2d at 532-33. 
+
+
+Far from eliminating the difficulty engendered by the 
+"younger" person showing, the “sufficiently” and 
+"substantially" younger requirements only add to the 
+problem. What constitutes a "sufficient" or "substantial" 
+age disparity is an open question. The vagueness inherent 
+in both terms will only inspire irreconcilable results. 
+
+
+In contrast, requiring that a plaintiff show that the person 
+who replaced him or her was someone outside of the 
+protected class provides the sort of meaningful guidance 
+needed when grappling with age-based discrimination 
+claims under the McDonnell Douglas rubric. It promotes 
+ease of administration, and leads to a result that renders 
+application of the McDonnell Douglas scheme neither 
+mechanistic nor ritualistic. Importantly, it ensures that an 
+inference of discriminatory intent will be drawn in those 
+circumstances warranting such an inference, and eliminates 
+the inconsistent judicial line drawing that courts have 
+engaged in when determining whether a prima facie case 
+has been made out. 
+
+
+The United States and the American Association of 
+Retired Persons, in their respective briefs as amicus curiae, 
+contend that the rule applied by the court below runs 
+counter to the proposition stated by this Court in 
+Connecticut v. Teal, 457 U.S. 440, 454 (1982), that an 
+employer cannot escape liability for a specific instance of 
+racial discrimination by treating other members of the 
+affected party's racial group favorably. See Brief of United 
+States at 15-16; Brief of American Association of Retired 
+Persons at 21. This argument confuses unlawful 
+
+
+discrimination with discriminatory intent. Teal was a 
+disparate impact case. In such cases, the focus is on 
+whether the challenged practice has a discriminatory effect. 
+
+
+Here, the focus is on the entirely separate matter of 
+discriminatory intent. As this Court pointed out in 7eal, 
+"[p]roof that a work force was racially balanced or that it 
+contained a disproportionately high percentage of minority 
+employees is not wholly irrelevant on the issue of intent 
+when that issue is yet to be decided." 457 U.S. at 454. 
+Likewise, proof that the employee who replaced the ADEA 
+claimant is someone outside of the protected class is 
+relevant insofar as it permits the inference of age-based 
+discrimination to be drawn. 
+
+
+Put simply, Teal does not stand for the proposition that 
+unlawful discriminatory intent is evinced when a female 
+employee is repiaced with another female, or when an 
+African-American employee is replaced with another 
+African-American. It is equally nonsensical to hold in this 
+case that replacing a discharged employee with someone 
+within the protected age group constitutes impermissible 
+discrimination under the ADEA. 
+
+
+9 
+
+
+CONCLUSION 
+
+
+For the reasons stated, the judgment of the court of 
+appeals should be affirmed. 
+
+
+Respectfully submitted, 
+
+
+J. JOSEPH CURRAN, JR. 
+Attorney General of Maryland 
+
+
+TARRA DESHIELDS-MINNIS* 
+ANBREW H. BAIDA 
+
+Assistant Attorneys General 
+200 St. Paul Place, 20th Floor 
+Baltimore, Maryland 21202 
+(410) 576-7901 
+
+
+Counsel for Amici States 
+*Counsel of Record 
+
+
+January 31, 1996 
+
+

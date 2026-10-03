@@ -1,0 +1,28 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 230,
+    "params": {
+      "query": "collection:us-supreme-court AND (text:&quot;95-7587&quot; OR text:&quot;95-7587&quot; OR text__reviews:&quot;95-7587&quot;)",
+      "qin": "collection:us-supreme-court AND &quot;95-7587&quot;",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 2,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385014_0001",
+        "title": "Shieh v. Kakita, 517 U.S. 1186 (1996) (No. 95-7589)"
+      },
+      {
+        "identifier": "micro_IA40385013_0791",
+        "title": "Shieh v. Kakita, 517 U.S. 343 (1996) (No. 95-7587)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1857 @@
+S j , Ed 1) 
+No. 94-1837__| 9385 
+' 
+
+IN THE | 
+
+' CLERK ie 
+Supreme Court of the Gnited-States——— 
+OCTOBER TERM, 1995 
+
+BARNETT BANK OF MARION COUNTY, N.A., 
+
+Petitioner, 
+v. 
+
+BILL NELSON, INSURANCE COMMISSIONER 
+OF THE STATE OF FLORIDA, 
+FLORIDA DEPARTMENT OF INSURANCE, 
+FLORIDA ASSOCIATION OF LIFE UNDERWRITERS, 
+PROFESSIONAL INSURANCE AGENTS OF FLORIDA, INC., 
+AND FLORIDA ASSOCIATION OF INSURANCE AGENTS, 
+
+Respondents. 
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+BRIEF FOR THE PETITIONER 
+
+NATHAN LEWIN 
+(Counsel of Record) 
+Scott L. NELSON 
+
+J. BRADLEY BENNETT 
+
+RICHARD E. SWARTLEY JAMES R. HEAVNER, JR. 
+
+Genera! Counsel MILLER, CASSIDY, 
+
+BARNETT BANKS, INC. LARROCA & LEWIN 
+
+50 N. Laura Street 2555 M Street, N.W. 
+
+Jacksonville, FL 32202 Washington, D.C. 20037 
+
+(904) 791-7505 (202) 293-6400 
+Attorneys for Petitioner 
+
+PRESS OF BYRON S. ADAMS WASHINGTON, D.C. 1-800-347-8208 
+
+(i) 
+QUESTIONS PRESENTED 
+
+1. Whether a federal statute that gives a national 
+bank operating in a town with a population not exceeding 
+5,000 the right to sell insurance (12 U.S.C. § 92) preempts 
+a state law that prohibits such a bank from selling insurance. 
+
+2. Whether a state law prohibiting banks from 
+selling insurance is a law enacted “for the purpose of 
+regulating the business of insurance” within the meaning of 
+the McCarran-Ferguson Act, 15 U.S.C. § 1012(b). 
+
+2 Whether 12 U.S.C. § 92 is an “Act [that] 
+specifically relates to the business of insurance” within the 
+meaning of the McCarran-Ferguson Act, 15 U.S.C. 
+§ 1012(b). 
+
+(ii) 
+LIST OF PARTIES 
+
+_ The caption of this case reflects the 
+rene ee of Bill Nelson, current Insurance Commissioner 
+
+the State of Florida, for his predecessor, Tom Gallagher. 
+Otherwise, the names of all parties to the proceeding below 
+appear in the caption of this case. 
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+(iii) 
+
+TABLE OF CONTENTS 
+Page 
+QUESTIONS PRESENTED .........-++eee5> (i) 
+BT GPE cc cccceeccoeeeeseseces (ii) 
+TABLE OF AUTHORITIES ........-eseee> (vi) 
+Ee ie i 
+CC EE ar a ee 2 
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED ..........66550068: 2 
+EE a a a ee 2 
+1. In 1916, Congress Authorizes Certain 
+National Banks To Sell Insurance. .... 2 
+2. In 1945, Congress Passes the 
+McCarran-Ferguson Act To Confirm 
+State Regulatory Authority. ........ 5 
+
+3. In 1974, Florida Prohibits Certain 
+National Banks from Selling Insurance. . 8 
+
+4. In 1993, Barnett Bank Buys an 
+
+5. Barnett Bank Litigates and Loses. .... 10 
+SUMMARY OF ARGUMENT .........-++55. 12 
+
+(iv) 
+
+TABLE OF CONTENTS — CONTINUED 
+
+Section 626.988 Does Not Satisfy 
+
+(1) | Why was the Florida law 
+
+(2) How does the Florida law 
+
+Page 
+” ioe... 36 
+(3) Royal Drug and Pireno ...... 37 
+(4) The Governing Principle ..... 39 
+
+the Business of Insurance” ............. 41 
+A The Specific Subject Matter of 
+Section 92 Is Bank Sales of 
+DT at otade éwhubeks cucs 41 
+B The McCarran-Ferguson Act Uses 
+Broad Language in Preserving Federal 
+Legislation that “Specifically Relates” 
+nn nceediobwtbwes cose 42 
+Cc The Eleventh Circuit’s Holding 
+Distorts the Statutory Language. .... . 44 
+(1) Specific Rejection of State 
+Law Is Not Required. ....... 44 
+(2) The Federal Law “Relates” to 
+Insurance Regardless of Whether 
+It "Regulates" Insurance. ..... 45 
+DE dt biedédee cans boeee ce een 48 
+
+(vi) 
+TABLE OF AUTHORITIES 
+Page(s) 
+
+CASES: 
+Adamo Wrecking Co. v. United States, 
+
+434 U.S. 27S (IDTE) ww cc ccc cccccccccccse 43 
+Child Labor Tax Case, 
+
+250 UB. BO CBED ccccccccccscccsccccess 24 
+
+of Revenue of Montana v. Kurth Ranch, 
+
+114 BS. Ce. 19BT CIGDE) 0c ccccccccccccccses 24 
+District of Columbia v. Greater Washington Bd. of Trade, 
+
+, PER. f,  Prrerrrirrereree 43 
+Felder v. Casey, 
+
+GBT UB. TSE CIGD ccc cccccccccccccecs 15 
+Fidelity Fed. Sav. & Loan Ass'n v. De La Cuesta, 
+
+458 UB. 061 (IGG cc ccccccccccccces 16, 17 
+First Nat'l Bank of Eastern Arkansas v. Taylor, 
+
+907 F.2d 775 (8th Cir.), 
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+Florida Ass'n of Ins. Agents, Inc. v. Board of Governors, 
+591 F.2d 334 (Sth Cir. 1979)... 2... eee eee 19 
+
+Franklin Nat'l Bank v. New York, 
+SF Gas SED cb bh edece seoeuns 3, 15, 16, 17 
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+(vii) 
+TABLE OF AUTHORITIES - CONTINUED 
+
+Page(s) 
+Gade v. National Solid Wastes Management Ass'n, 
+Te EE EE Decoceesdoccceescoces 15 
+Garcia v. Island Program Designer, Inc., 
+J. f fl. | | re 17 
+
+Glendale Fed. Sav. & Loan Ass'n v. Florida Dep’t of Ins., 
+587 So. 2d 534 (Fla. App. 1991), 
+review denied, 599 So. 2d 656 (Fla. 1992)... 9, 27, 28 
+
+Group Life & Health Ins. Co. v. Royal Drug Co., 
+GED Gap See IPOD cccccccccccs 29, 37, 38, 39 
+
+Hanover Ins. Co. v. Commissioner, 
+598 F.2d 1211 (1st Cir.), 
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+PPE ocCeoccccceuseseseces 30 
+Independent Ins. Agents of America, Inc. v. Ludwig, 
+
+997 F.2d 958 (D.C. Cir. 1993).............. 5 
+
+John Hancock Mut. Life Ins. Co. v. Harris Trust & Sav. 
+Bank, 
+PPC deoeeseseeseeedeunes 42 
+
+McCulloch v. Maryland, 
+17 U.S. (4 Wheat.) 316 (1819) .............. 45 
+
+Morales v. Trans World Airlines, Inc., 
+ee alk a ln dee 43, 44 
+
+(viii) 
+
+TABLE OF AUTHORITIES - CONTINUED 
+Page(s) 
+
+- aleaaaaat asain Carolina v. Variable Annuity Life Ins. 
+115 S. Ct. 810 (1995)... cece ccc cuucee 3, 14 
+
+NBD Bank, N.A. v. Bennett, 
+No. 95-1310, 1995 U.S. App. LEXIS 27835 5, 14, 42 
+
+New York State Conf. of Blue Cross & Blu: Shield Plans v. 
+Travelers Ins. Co.., 
+a Gb Ss wont deceectéoseene 43 
+
+Norman v. Baltimore & O.R. Co., 
+SP EE “bs wkd co dabeceeeceteunt 45 
+
+Owensboro National Bank v. Stephens, 
+44 F.3d 388 (6th Cir. 19/5), 
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+Pacific Gas & Elec. Co. v. Energy Resources Conservation 
+and Dev. Comm'n, 
+
+Se ee ED co cdbctcdcecceesédccos 29 
+Paul v. Virginia, 
+
+75 U.S. (8 Wall.) 168 (1869) .............4.4. 30 
+Perez v. Campbell, 
+
+Se 60 ckevelved bles Jéelen 15 
+
+Pilot Life Ins. Co. v. Dedeaux, 
+Cae Wee PE 64 « ded ed-ceeb dees es 39, 41 
+
+(ix) 
+TABLE OF AUTHORITIES - CONTINUED 
+
+Page(s) 
+
+Prudential Ins. Co. v. Benjamin, 
+
+328 U.S. 408 (1946) ...-. ce ee eee eee 22, 24 
+Russello v. United States, 
+
+464 U.S. 16 (1983) 2... ee ee ee eee 29 
+SEC v. National Securities, Inc., 
+
+393 U.S. 453 (1969) ...... cee ee eee 35, 36, 40 
+Smith v. United States, 
+
+113 BS. Ce. FASO CIGSS) 2 wer ccccccsvescees 43 
+St. Paul Fire & Marine Ins. Co. v. Barry, 
+
+438 U.S. $31 (IDTE) on ccc cer ccsccscscces 30 
+Texas Employers’ Ins. Ass'n v. Jackson, 
+
+820 F.2d 1406 (Sth Cir. 1987), 
+
+rev'd on rehearing on other grounds, 
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+490 U.S. 1035 (1988) 2... . cee ee ees 46 
+Union Labor Life Ins. Co. v. Pireno, 
+
+458 U.S. 119 (1982) .. 1... ce eee eee 37, 38, 39 
+United Services Auto. Ass'n v. Muir, 
+
+792 F.2d 356 (3d Cir. 1986), 
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+ie 0). | re re ee 29 
+
+United States v. South-Eastern Underwriters Ass'n, 
+322 U.S. 533 (1944) 2... eee ee eee eee passim 
+
+14 
+
+immunity under the second clause of McCarran-Ferguson is 
+necessary if the first clause is to offer protection to most insur- 
+ance consumer protection laws. 
+
+The National Securities test, which looks to the insurer- 
+policyholder relationship, contemplates a “public action” per- 
+spective whereby states enact laws to adjust, manage or control 
+this relationship. On the other hand, the Pireno test, by looking 
+to: (1) whether the practice has the effect of transferring or 
+spreading a policyholder’s risk; (2) whether the practice is an 
+integral part of the policy relationship between the insurer and 
+insured; and (3) whether the practice is limited to entities within 
+the insurance industry; contemplates a “private action” perspec- 
+tive whereby an insurer’s practices are examined to determine 
+if antitrust immunity applies to that action. 
+
+The “business of insurance” under the Pireno test, focusing 
+on an insurer’s practices to determine if that insurer is acting 
+within the confines of the antitrust immunity granted by the 
+second clause of McCarran-Ferguson, does not contemplate the 
+broader context of regulation of the elements of the business of 
+insurance. 
+
+Therefore, the proper inquiry is whether Section 626.988, 
+under the holdings of National Securities and Fabe, is a law 
+enacted “for the purpose of regulating the business of insurance” 
+by regulating the insurer-policyholder relationship. Even if 
+Pireno were applicable, Section 626.988 satisfies that test be- 
+cause it is critical to the relationship between the insurer and 
+insured. 
+
+The practical effect of the McCarran-Ferguson Acct is that 
+each state can enact laws to regulate the business of insurance 
+in keeping with the particular needs and conditions in that state. 
+The result is a diverse set of insurance regulatory schemes (with 
+many similarities) reflecting the perspective of each individual 
+state. One of the strengths of state regulation of the business of 
+insurance is that a state’s regulatory regime can be focused on 
+
+15 
+
+the unique circumstances of that particular state. In this regard, 
+it is important to keep in mind that Flonda’s insurance regula- 
+tory laws were enacted to apply to Florida’s (and only Florida’s) 
+insurance environment. The context within which to view the 
+Florida Legislature’s aim in enacting 626.988 is Florida’s 
+unique demographic composition. Florida’s large population of 
+senior citizens and newcomers to the state (from other states and 
+other countries) are especially vulnerable to coercion or unfair 
+trade practices. 
+
+B. Section 626.988 is Part Of A Comprehensive 
+Legislative Scheme That Protects Policyholders 
+And Was Enacted For The Purpose Of Regulat- 
+ing The Business Of Insurance. 
+
+Appellants characterize Section 626.988, Florida Statutes, 
+as a “bare pin-pointed prohibition, not part of a scheme of 
+regulation.” (Barnett Br. p. 13) Nothing could be further from 
+the truth. Section 626.988 is an important element of a compre- 
+hensive regulatory scheme (the Florida Insurance Code) enacted 
+for the purpose of protecting the Florida insurance-buying pub- 
+lic. Section 626.988 is contained in Florida’s Insurance Code 
+in Part X of Chapter 626, Florida Statutes. Part X is entitled the 
+“Unfair Insurance Trade Practices Act” and was enacted to 
+implement the legislative intent of Congress in passing the 
+McCarran-Ferguson Act. 
+
+The practices prohibited in Part X of Chapter 626 are those 
+unfair and deceptive acts which occur during the solicitation, 
+negotiation, effectuation, and servicing of insurance contracts. 
+Thus, the provisions of Part X (of which 626.988 is a part), 
+necessarily regulate the relationship between insurance compa- 
+nies and current and prospective policyholders in order to pre- 
+vent unfair methods of competition, and unfair or deceptive acts 
+or practices. The regulated activities extend to agents, insurers, 
+and all other persons involved in the relationship between the 
+
+16 
+
+insurance company and the policyholder. See, e.g., Fla. Stat. 
+Ann. § 626.9511(1). 
+
+In Florida, soliciting, negotiating, effectuating, and servic- 
+ing of insurance policies for current or prospective policyholders 
+must be accomplished through agents licensed by the Depart- 
+ment. For example, Section 626.041, Florida Statutes, requires 
+that only licensed agents may: solicit insurance or procure 
+applications, receive insurance premiums on behalf of an in- 
+surer, deliver any insurance contract or any renewal thereof, 
+analyze insurance policies or give opinions with respect thereto, 
+or in any way cause to be effected any insurance contract. 
+Similarly, Section 624.425, Florida Statutes, requires that an 
+insurance policy may be issued only through a licensed agent. 
+
+Because an insurance company can only act .hrough agents 
+licensed by the State of Florida to solicit and service insurance 
+policies, laws which govern agent activities and proscribe vari- 
+ous unfair and deceptive trade practices in connection with the 
+solicitation, negotiation, and effectuation of the insurance con- 
+tract are laws enacted for the purpose of regulating the business 
+of i.surance. By regulating the relationship between the insur- 
+ance company and policyholders carried out through insurance 
+agents, Florida has enacted statutes which fall within the class 
+of statutes described in Nat'l Securities, and Fabe. The question 
+then becomes whether 626.988 was enacted to be part of this 
+system. 
+
+C. It Has Been Well Established That 626.988 Was 
+Enacted To Avoid Unfair Trade Practices, 
+Coercion, And Undue Concentration Of 
+Resources. 
+
+The need to ascertain the aim of the Legislature in enacting 
+a particular law for McCarran-Ferguson analysis requires what 
+is essentially a “state-by-state” and “case-by-case” process. 
+Barnett, in its brief at page 11, refers to the decision of the Sixth 
+Circuit in Owensboro National Bank v. Stephens, 44 F.3d 388 
+
+17 
+
+(6th Cir. 1994), as a “contrary decision” which was “ignored” 
+by the Eleventh Circuit. However, the holding in Owensboro 
+in no way controls the result in the instant case, as the | Ith 
+Circuit properly found. Barmett fails to recognize that the 
+Owensboro case dealt with a different Kentucky law, with the 
+particular aims of the Kentucky legislature in enacting it, and 
+with an entirely different history of construction and application 
+than Florida’s Section 626.988. Owensboro was decided by the 
+Sixth Circuit based upon that Court’s conclusion that Kentucky 
+law Section 287 was not enacted for the purpose of regulating 
+the business of insurance. The Sixth Circuit did not consider 
+the issue of whether Section 92 of the National Bank Act 
+“specifically relates to the business of insurance” for McCarran- 
+Ferguson purposes. Thus, the Sixth Circuit Owensboro deci- 
+sion is plain and simply a decision which turned on the merits 
+of Kentucky law Section 287. 
+
+Ascertaining the aim of the Florida Legislature in enacting 
+626.988 is aided by the considerable amount of scrutiny this law 
+has received over the years. The Court of Appeals began its 
+analysis of the aim of 626.988 with the location of the law in the 
+Florida Insurance Code. Section 626.988 is located in the part 
+of the Florida Insurance Code entitled “Unfair Insurance Trade 
+Practices.” As expressed in Fabe, location informs (but does 
+not determine) as to whether a statute regulates the business of 
+insurance. The expressed purpose of the statutory provisions 
+within the Unfair Trade Practices Act is found at Section 
+626.951, Florida Statutes: 
+
+The purpose of this part is to regulate trade practices 
+relating to the business of insurance in accordance 
+with the intent of Congress of March 9, 1945 (Pub. L. 
+No. 15, 79th Congress) [the McCarran-Ferguson 
+Act], by defining, or providing for the determination 
+of, all such practices in this state which constitute 
+unfair methods of competition or unfair or deceptive 
+
+18 
+
+acts or practices and by prohibiting the trade practices 
+so defined or determined. 
+
+Id. Placing Section 626.988 within the Unfair Trade Practices Act 
+suggests that the Legislature’s aim in enacting this provision was 
+to prohibit unfair methods of competition or unfair or deceptive acts 
+or practices relating to the business of insurance. 
+
+The next source of information on the Legislature’s aim in 
+enacting 626.988 is the preamble (amended out prior to passage) 
+to the bills leading to the enactment of 626.988, extensively 
+referred to in Barnett’s brief.? 
+
+The preamble cites a series of findings by a federal admin- 
+istrative law judge in a recommended decision for consideration 
+by the Federal Reserve Board regarding bank holding companies’ 
+applications to the Federal Reserve Board to engage in insurance 
+agency activities. The actual preamble provisions found at 
+Barnett’s Bnef Appendix pages Sa-7a are much more instructive 
+than Barnett’s paraphrase at page 19 of its Brief. In particular, 
+finding (d) of the administrative law judge cited in the preamble 
+found: 
+
+...[w]hile it is difficult to accurately measure the psychol- 
+
+ogy of voluntary tieing, nevertheless the weight of evi- 
+
+dence realistically evaluated suggests that in times of 
+
+scarcity of lending funds, the average borrower finds 
+himself in a weakened bargaining position vis-a-vis the 
+lender and the offer of insurance placement is another 
+
+of other borrowing services with which the borrower can 
+
+increase the probability that a needed loan will be 
+
+granted. 
+Barnett Br. App. 6a-7a. 
+
+2 The preamble was not introduced into evidence at trial. 
+
+19 
+
+The preamble describes the findings as based upon “an exhaus- 
+tive presentation of evidence.” The text of the preamble shows that 
+the preamble drafters were incredulous that despite finding (d), and 
+the other cited findings, the administrative law judge nonetheless 
+recommended that the bank applicants be authorized to engage in 
+insurance agency activities in a limited manner and subject to various 
+restrictions. The preamble drafters then proceeded to express their 
+concems over insurance agents being employed by, associated, or 
+affiliated with bank holding companies by stating: 
+
+WHEREAS, the undue concentration of economic 
+
+resources, a substantial decrease in competition 
+
+among insurance agents, unfair competition, conflicts 
+
+of interest, and voluntary tieing are against the public 
+
+policy of the state and against the best interests of the 
+
+people of Florida, and 
+
+* * * 
+
+WHEREAS, to preserve the public policy and protect 
+
+the public interest insurance agents and solicitors 
+
+should be prohibited from soliciting, negotiating and 
+
+selling insurance contracts if employed by, associated 
+
+or affiliated in any way with specified institutions. 
+Barnett Br. App. 7a. 
+
+It is noteworthy that 626.988 is characterized in the pream- 
+ble as a prohibition against insurance solicitors and agents 
+soliciting, negotiating, and selling insurance contracts in the 
+employ of or association with financial institutions. This per- 
+spective shows the legislative aim was to protect the public 
+interest with regard to an essential element of the insurance 
+transaction — the point of sale by an insurance agent. Thus, the 
+preamble provisions are entirely consistent with the Legisla- 
+ture’s placement of 626.988 within the Unfair Trade Practices 
+Act. 
+
+20 
+
+Barnett’s assertion that the legislature’s primary purpose 
+in enacting Section 626.988 was to protect insurance agents is 
+not supported by a fair reading of the preamble or any evidence 
+presented in this case. 
+
+Another source of insight regarding the rationale for 
+626.988 is state litigation involving this law, particularly Glen- 
+dale Federal S&L v. Department of Insurance, 587 So.2d 534 
+(Fla. lst DCA 1991), cited by the Court of Appeals below. The 
+Florida trial court’s summary judgment order in Glendale noted 
+that the parties had developed a factual record through the filing 
+of memoranda and through extensive discovery. Based on the 
+evidence presented, the trial court found: 
+
+Concerns regarding financial institutions’ entry into 
+insurance activities, including the prevention of coer- 
+cion, unfair trade practices, and undue concentration 
+of resources, existed at the time of passage of the 
+Statute and remain valid today. Expert testimony 
+filed with this Court shows that a legislature could 
+well have decided that some protection was required. 
+
+Glendale, 587 So.2d at 536, n.1. (emphasis added). 
+
+The language used by the District Court of Appeal reflects the 
+Court’s conclusion, based on the evidence presented, that the 
+perceived dangers were real and far from “implausible.” The 
+District Court of Appeal, in affirming the trial court, held: 
+
+[T]he cited rational bases of prevention of coercion, 
+unfair trade practices and undue concentration of 
+resources, in light of evidence in the form of affidavits 
+and deposition testimony of expert witnesses, support 
+the conclusions that the legislature could properly 
+decide to act as it did, and that the statute accordingly 
+does not violate due process. 
+
+587 So.2d at 537. 
+
+21 
+
+The District Court below also noted this fact in an earlier 
+decision, Production Credit Associations of Florida v. Depart- 
+ment of Insurance, 356 So.2d 31 (Fla. Ist DCA 1978). In 
+construing whether certain entities were “financial institutions” 
+under 626.988, the Florida appellate court held: 
+
+Insurance is an industry affected with a public interest 
+
+and subject to regulation by the States. The Legisla- 
+
+ture has determined that there is a potential for abuse 
+
+inherent in financial institutions being involved in the 
+
+sale of insurance, and that the licensing of employees 
+
+of financial institutions as insurance agents is not in 
+
+the public interest. 
+
+Id. at 32. The Florida First District Court of Appeal in Produc- 
+tion Credit clearly understood the legislative purpose of 626.988 
+to be protecting the public from abuse. 
+
+When the issue of financial institutions engaging in insur- 
+ance agency activities has been subjected to extensive eviden- 
+tiary exposition, both in Glendale and the administrative hearing 
+cited in the preamble, the finding has been that unfair trade 
+practices, coercion, undue concentration of resources, and con- 
+flict of interest may arise from this practice. 
+
+In another case involving implementation of 626.988, 
+Great Northern Insured Annuity Corporation, et. al v. Depart- 
+ment of Insurance and Treasurer, a state of Florida Division of 
+Administrative Hearings Final Order (Fl. Bankers Assoc. Br. 
+la-37a), independent Hearing Officer Mary Clark found, also 
+after hearing extensive evidence: 
+
+As stated in Glendale, the legislature was guarding 
+
+against the dangers of financial institutions becoming 
+
+involved in the business of insurance: the prevention 
+
+of coercion, unfair trade practices, and undue concen- 
+
+tration of resources. 
+
+Fl. Bankers Assoc. Br. p. 22a. 
+
+22 
+
+As can be seen, for purposes of determining Legislative 
+intent, Section 626.988 comes before this Court as the most 
+battle-hardened state law in the nation involving the issue of 
+insurance agents associating with financial institutions in the 
+sale of insurance. Each time, however, the ultimate finding has 
+been that 626.988 was enacted to prevent coercion, unfair trade 
+practices, and undue concentration of resources. 
+
+Barnett disingenuously argues that Ms. Linda Clifford, as 
+a licensed insurance agent, was as personally qualified tu sell 
+insurance after she became a Barnett Bank employee as she had 
+been previously. This argument avoids the real issue. When 
+Barnett purchased Ms. Clifford's insurance agency and she 
+became a Barnett employee, it was the influence exerted on 
+insurance transactions by Barnett and not by Ms. Clifford per- 
+sonally, which gave rise to the Department's Immediate Final 
+Order. The record is clear that the direction and mission of the 
+Linda Clifford Insurance Agency changed dramatically upon 
+purchase by Barnett. 
+
+Barnett and its Amici further urge this Court to dismiss as 
+implausible the expressions of legislative purpose of 626.988 
+made by Florida's Legislature, insurance regulator, and courts. 
+The crux of their argument is that no one could really believe 
+that prohibiting bank holding companies from engaging in 
+insurance agency activities safeguards insurer solvency and 
+protects the public in insurance transactions. Barnett and its 
+Amici base their entire reasoning on the premise that 626.988 is 
+solely an economic conflict between banks and independent 
+insurance agents and is not “truly regulatory”. If 626.988 has a 
+greater public protection purpose and is “truly regulatory,” 
+Barnett’s arguments collapse. 
+
+Actual experience in Florida has demonstrated that unfair 
+trade practices do occur when bank holding companies enter into 
+arrangements with insurance agents for the sale of insurance on 
+bank premises. 
+
+23 
+
+In the case of Department of Insurance and Treasurer v. 
+James Mitchell and Company, et al. (Recommended Order 
+dated August 30, 1994), State of Florida Division of Adminis- 
+trative Hearings Independent Hearing Officer Charles C. 
+Adams? made the following Finding of Fact at page 6, para- 
+graph 12: 
+
+As contemplated by the services agreement the cus- 
+
+tomer base for the James Mitchell insurance agents 1s 
+
+primarily constituted of Barnett Bank customers who 
+have been referred by Barnett Bank employees. The 
+insurance agents and other employees who work in 
+
+Florida do not solicit insurance business unrelated to 
+
+the tie-in with Barnett Banks, Inc. and its branches. 
+
+The Hearing Officer made a Conclusion of Law at page 46, 
+paragraph 121, of his Recommended Order, that the arrange- 
+ment between James Mitchell and Company and Barnett had the 
+following result: 
+
+James Mitchell and Company has violated Section 
+
+626.9541(1)(b), Florida Statutes, in the manner al- 
+
+leged. Specifically, James Mitchell and Company has 
+knowingly established its own advertising, and bene- 
+fited from Barnett advertising pursuant to the services 
+agreement. James Mitchell and Company has made 
+statements about, and benefited from statements by 
+
+Barnett employees pursuant to the services agree- 
+
+ment. The advertising and statements concerned 1n- 
+
+surance sales through the Tax Advantage Account by 
+
+Mitchell Tax Advantage Account Specialists (insur- 
+
+> The administrative proceedings in James Mitchell (as well as in Great 
+Northern, supra.), were pursuant to Flonda's Administrative Procedures Act, 
+Chapter 120, Florida Statutes, and as such the hearing officers in both 
+proceedings were independent of, and not chosen by the Department. 
+
+24 
+
+ance agents). By these arrangements, James Mitchell 
+
+and Company has placed before the consuming public 
+
+information which is deceptive and misleading as to 
+
+the fact that insurance products are being sold by 
+
+insurance agents who work for James Mitchell and 
+
+Company. James Mitchell and Company has com- 
+
+mitted the violations both by direct and indirect ac- 
+
+tions. Violations of Section 626.9541(1)(b), Flonda 
+
+Statutes, pertaining to the deceptive and misleading 
+
+actions by James Mitchell and Company are found in 
+
+the use of business cards which the James Mitchell 
+
+and Company insurance agents provide to customers, 
+
+appointment cards prepared by Barnett employees, 
+
+and brochures disseminated by Barnett employees 
+
+and Mitchell employees, which materials contribute 
+
+to the deceptive and misleading nature of the 
+
+Mitchell/Barnett program. The office layout in which 
+
+the James Mitchell and Company insurance agents 
+
+market the products on the premises of the Barnett 
+
+branch banks contributes to the deceptive and mis- 
+
+leading nature of the program. The personal and 
+
+telephonic solicitations of customers by James 
+
+Mitchell and Company insurance agents and through 
+
+actions of Barnett Bank employees, contemplated by 
+
+the services agreement, contribute to the deceptive 
+
+and misleading nature of the program. 
+The Hearing Officer’s findings are exactly what Barnett is 
+asserting is an implausible rationale for 626.988. The 
+Barnett/Mitchell arrangement was a conscious effort to obscure 
+ance products sold on bank premises. The result was consumers 
+being deceived and misled as to the fact they were buying an 
+insurance company product and not a bank product, and that 
+individuals on Barnett premises who appeared to be bank em- 
+ployees were actually insurance agents. Barnett customers were 
+
+25 
+
+being channeled into insurance transactions by Barnett employ- 
+ees without understanding that the insurance product called a 
+“Tax Advantage Account” was not part of Barnett’s bank serv- 
+ices. 
+
+The Department of Insurance in a Final Order issued July 
+7, 1995, accepted the Hearing Officer’s recommended penalties 
+and revoked the Florida nonresident life insurance agent’s li- 
+cense issued to James K. Mitchell, ordered James K. Mitchell 
+and Company, and James K. Mitchell, as an officer and director 
+of James K. Mitchell and Company, to cease and desist the 
+prohibited practices described in the Recommended Order, and 
+ordered James K. Mitchell and Company to obtain an insurance 
+agency license. The Department of Insurance additionally con- 
+cluded in its Final Order that the Mitchell/Barnett arrangement 
+was an illegal association with regard to insurance sales between 
+an insurance agent and bank pursuant to 626.988. The Depart- 
+ment’s Final Order is currently on appeal before the Florida First 
+District Court of Appeal.* 
+
+The holding of the District Court below was indeed pro- 
+phetic with regard to the Hearing Officer’s conclusions in the 
+Mitchell case eight months later. The District Court held: 
+
+Additionally, and notwithstanding the existence of 
+
+specific prohibitions on coercive credit extension, the 
+
+Court finds that loan officers could steer customers to 
+
+the bank’s insurance agent for the purpose of suggest- 
+
+ing the sale of insurance that is not needed, in order 
+
+for the bank to make a profit on the insurance policy. 
+
+The concern herein expressed is that an arms-length 
+
+* Eighteen copies of the Hearing Officer’s Recommended Order and 
+Department Final Order in Department of Insurance and Treasurer v. James 
+Mitchell and Company, et al. have been lodged with the Supreme Court 
+Clerk's Office. These documents are official public records of the State of 
+Florida. 
+
+26 
+
+relationship be maintained among the bank, the loan 
+officer and the insurance agents. The maintenance of 
+this relationship is for the protection of the solvency 
+of the insurance industry, and the prevention of coer- 
+cion, which in turn protects all potential, present and 
+future policyholders. 
+
+Barnett, 839 F.Supp. at 842, Pet. App. 31a. 
+
+The Circuit Court below put an even finer point on this 
+issue by holding: 
+While Appellant Barnett Marion argues that the stat- 
+ute exists only to protect “independent insurance 
+agents from competition by financial institutions,” 
+Appellants Brief at 35, we disagree. The danger in 
+these situations, as the trial court correctly points out, 
+is the loss of arms-length transactions and objectivity 
+when the bank becomes involved with insurer and 
+insured. 
+Barnett, 43 F.3d at 636, Pet. App. 12a. 
+
+D. The Established Purpose Of 626.988 Meets The 
+First Prong Of The Fabe Test. 
+
+Once the purpose of 626.988, as expressed by Florida’s 
+Legislature, state regulator, and courts, is established, the next 
+analysis is how the expressed purpose fits the federal definition 
+of regulating “the business of insurance.” In Fabe, supra, this 
+Court explained the issue by holding: 
+
+The broad category of laws enacted “for the purpose 
+
+of regulating the business of insurance” consists of 
+
+laws that possess the “end, intention or aim” of ad- 
+
+justing, managing, or controlling the business of in- 
+surance. Black’s Law Dictionary 1236, 1286 (6th ed. 
+
+1990). This category necessarily encompasses more 
+
+than just the “business of insurance.” For the reasons 
+
+expressed above, we believe that the actual perform- 
+
+27 
+
+ance of an insurance contract is an essential part of the 
+“business of insurance.” 
+113 S.Ct. at 2210 (emphasis added). 
+
+The District Court, applying the Fabe test, characterized 
+626.988 as appearing to: 
+
+define or regulate a relationship between insurer and 
+potential policyholder, that is, the insurance-purchas- 
+ing public at large, rather than one between insurer 
+and present policyholder. 
+
+839 F.Supp. at 840., Pet. App. 28a. The distinction between 
+“potential” and “present” policyholders utilized by the District 
+Court is pointed to by Barnett as a flaw in the reasoning of the 
+lower courts. However, Barnett’s argument reveals a lack of 
+practical understanding of the business of insurance and its 
+regulation. 
+
+The point-of-sale transaction, when the insurance is solic- 
+ited and sold, is an essential part of the business of insurance. 
+Every person who purchases insurance is a “potential” policy- 
+holder until an actual insurance policy is issued. What occurs 
+during the solicitation and sale of the policy — what the con- 
+sumer represents to the agent and what the agent represents to 
+the consumer — influences the very existence and enforceability 
+of an insurance contract. The consumer is still a “potential” 
+policyholder when solicitation materials are provided, when 
+coverage choices are made, and even when the vitally important 
+application for coverage is filled out. In terms of regulating 
+abuses such as unfair trade practices and coercion, the focus of 
+regulatory efforts is protecting “potential” policyholders. 
+Moreover, “potential” policyholders become “present” policy- 
+holders generally with no personal contact with the insurer 
+whatsoever. The insurance agent is the living link between the 
+policyholder and the insurance company. “Insurance is a busi- 
+ness greatly affected by the public trust, and the holder of an 
+
+28 
+
+agent’s license stands in a fiduciary relationship to both the 
+client and insurance company.” Natelson v. Department of 
+Insurance, 454 So.2d 31, 32 (Fla. Ist DCA 1984). In sum, the 
+relationship between insurer and policyholder revolves around 
+the axis of the role of the insurance agent. 
+
+The District Court proceeded to cite the National Securities 
+holding that statutes aimed at protecting the relationship be- 
+tween insurer and insured, “directly or indirectly,” are statutes 
+enacted for the purpose of regulating the business of insurance. 
+The Court then concluded: 
+
+Future policyholders then are “indirectly” affected by 
+regulations such as section 626.988. Thus, the Court 
+finds that Florida section 626.988 indirectly protects 
+the relationship between insurer and insured because 
+it is aimed at protecting the insurance purchasing 
+public at large. 
+
+Barnett, 839 F.Supp. at 841. 
+
+The Court uses the term “indirect” to connote that laws 
+which regulate the point-of-sale transaction involve persons 
+who are not yet “insureds.” In this sense, as already indicated, 
+many important insurance consumer protection laws “indi- 
+rectly” affect the relationship between insurer and policy- 
+holder.» Therefore, the important consideration is not the 
+directness of the protection, but its role in protecting the public. 
+The public can be much better protected by regulating against 
+abuses at the point of sale rather than after “the horse is out of 
+the barn” when a policy has been issued and a “direct” relation- 
+ship exists. 
+
+> E.g., misrepresentations and false advertising, defamation, boycott, 
+
+coercion, intimidation, false statements, unfair discrimination, unlawful re- 
+bate, twisting, misrepresentation in insurance applications, refusal to insure, 
+prohibited arrangements as to funerals and funeral directors, and sliding. Fla. 
+Stat. Ann. §626.9541(1) (a), (b), (c), (d), (g), (fh), (k), (1), (s), (x), (2). 
+
+29 
+
+The Circuit Court below summarized its reasoning for 
+concluding 626.988 regulates the business of insurance as fol- 
+lows: 
+
+Relying on the state court interpretations, testimony 
+at trial, reference in the Florida statute to McCarran- 
+Ferguson, and explicit instruction from the United 
+States Supreme Court in Nat'] Securities that regula- 
+tory protection of policyholders may be indirect . . . 
+626.988 regulates the business of insurance because 
+it protects policyholders. 
+Barnett, 43 F.3d at 636. 
+
+This reasoning goes right to the heart of the reality that the 
+purpose of 626.988, which was accepted by both the District 
+Court and Circuit Court, is to protect policyholders. Thus, 
+626.988 is “truly a form of regulation” of the business of 
+insurance. The regulation takes place at the point of sale and 
+“controls” and “manages” the potential for coercion, unfair trade 
+practices, or undue concentration of resources by removing the 
+potential for abuse perceived by the Legislature. 
+
+The Solicitor General’s brief supporting Barnett makes an 
+important concession at page 12: 
+
+a as acer ores 
+
+and the licensing of . . . agents” can be part of the 
+
+“pusiness of insurance.” ‘See National Securities, 393 
+
+U.S. at 460. Many state sales and licensing regulations 
+
+may indeed be “enacted . . . forthe purpose of regulating” 
+
+that business within the meaning of 15 U.S.C. 1012(b). 
+
+Sol. Gen. Br. p. 12. 
+
+However, the Solicitor General still asserts 626.988 is not such 
+a law because an inquiry into the practical, realistic, actual purpose 
+of 626.988 is not “protecting or regulating, even indirectly, the 
+relationship between the insurance company and its policyholders.” 
+The Department would respectfully submit that the practical, real- 
+
+30 
+
+istic, and actual purpose of 626.988 has been overwhelmingly 
+demonstrated to be the protection of policyholders. It is the 
+Petitioner and its Amici who ask this court to disregard the 
+record and adopt an extremely cynical view of Florida’s support 
+of 626.988. 
+
+No state or federal court has permitted the established and 
+worthwhile goals underlying 626.988, which operate to protect 
+Florida consumers, to be mischaracterized as mere'y a conflict 
+
+E. The District Court And Circuit Court Recognized 
+The legitimate Peril Of Undue Concentration Of 
+Resources. 
+
+One of the stated purposes of 626.988 is the prevention of 
+“undue concentration of resources.” As used in the context of 
+626.988, the phrase “undue concentration of resources” refers 
+to the situation where a third party marketer provides such a 
+substantial source of income to an insurer that the third party 
+controls, in effect, the decision-making of the insurer. This 
+situation was credibly established by uncontroverted testimony 
+at trial.’ This practice thus “indirectly” harms Florida consum- 
+ers. 
+
+© Glendale, n. 1. 
+
+’ Trial transcript page 25, lines 7-19: “Q: You indicated that another 
+purpose of 626.988 is to prevent concentration of economic resources 
+through control of insurance companies by financia! institutions. Can you 
+explain how the statute works in that regard? A: Yes. What we have seen 
+is agents and other third parties who have access to a large customer base of 
+potential insurance consumers have the potential through — by virtue of the 
+cash flow and the premium writings that can be generated by that block of 
+business, of controlling the decision making process of the insurers which 
+would provide insurance to that group, to the extent that they have caused 
+the insolvency of insurance companies in Florida and other states.” 
+
+Trial transcript, pages 25-26: “...once the insurance company becomes 
+dependent on the cash flow the marketers can begin to siphon off funds for 
+
+; 
+t 
+; 
+: 
+| 
+: 
+
+31 
+
+Both the District Court and Circuit Court placed great 
+emphasis on the issue of avoiding threats to insurer solvency in 
+examining Section 626.988. The District Court, in reliance on 
+the testimony of Department witness Shropshire, held: 
+
+The Court concurs with the concerns noted by the 
+witness. For example, in order to make a profit on 
+automobile loans or home mortgages, the insurance 
+agents may incur business they might otherwise reject 
+because they would be pressured by the bank to do so 
+in order to consummate the bank’s loan transactions. 
+This might lead to the over insurance of nsky busi- 
+ness, which could result in the insolvency of the 
+insurer. 
+
+Barnett, 839 F Supp. at 842. 
+The Circuit Court recognized the significance of Mr. 
+
+Shropshire’s testimony, finding: 
+At trial ... Mr. Shropshire testified about the need to 
+protect policyholders by regulating the financial sta- 
+bility of insurance companies so that they remain 
+solvent and able to pay claims upon demand, which 
+could be threatened by pressures to make improper 
+insurance decisions. This pressure could force an 
+insurer to assume a bad risk to quickly consummate a 
+
+administrative expenses or reinsurance agreements with insurers that they 
+are otherwise affiliated with, and...those administrative fees and consulting 
+fees...drive the decisions with respect to the effectuation of coverage.” 
+
+“If they [the third party marketer] control the insurer they can, therefore, 
+effectuate a situation where they're focused on getting their income from the 
+sale of the insurance that may not always be in the best interest [of the 
+insurer]... They may lower underwriting standards in order to attract more 
+insureds. The long run of that is that it could impact the solvency of the 
+bad risks are put on the book and the insurance company incurred a bunch 
+of claims.” 
+
+32 
+
+bank loan, or could push a bank customer to take out 
+unnecessary insurance where the bank’s only motive 
+is profit. 
+Barnett, 43 F.3d at 636. This point is so critical that elaboration 
+of this potential for harm is appropriate. 
+
+Section 626.988 is only one of several statutory provisions 
+where the Florida legislature has addressed the danger of de 
+facto control of insurers by third parties. As testified at trial,*® 
+the Florida legislature has addressed the same danger in several 
+other contexts, including: 
+
+(1) holding companies, Fla. Stat. Ann. § 628.801; 
+(2) managing general agents, Fla. Stat. Ann. § 626.7451; 
+(3) third party administrators, Fla. Stat. Ann. § 626.88; 
+
+(4) producer-controlled business, Fla. Stat. Ann. 
+§ 626.7491; 
+
+(5) favored-agent, Fla. Stat. Ann. § 626.730(3). 
+
+The Department presented testimony at trial as to the 
+similarities between the dangers addressed in 626.988 from 
+“undue concentration of resources,” and the same type of dan- 
+gers addressed in other statutes. The motivation to push poor 
+quality business on an insurer is present in each circumstance 
+addressed in the above-cited statutes. Most individual insurance 
+agents are compensated through a system of sales-based com- 
+missions, and so some will act upon the same motivation. The 
+difference is that an individual agent, or even an independent 
+
+* Trial Transcript, page 27-28. “Q: Okay. Mr. Dowdell, are there other 
+Statutes within the [Florida Insurance] Code in addition to 626.988, which 
+were enacted for the purpose of regulating the potential for control of insurers 
+by insurance marketers? A: Yes. There are a number of statutes which have 
+been enacted for that purpose. There is a producer controlled insurer stat- 
+ute...a managing general agent law...a holding company statute...a third party 
+administrator statute...” 
+
+33 
+
+small town bank, does not have sufficient leverage to compel 
+insurer management to do something management knows would 
+be adverse to the insurer’s solvency. This is not true when an 
+insurer becomes so dependent on a large bank holding company 
+for its dominant income production that the insurance company 
+management cannot afford to make objective decisions. An 
+insurer’s management decisions could certainly be adversely 
+influenced by Barnett, with its 600 Florida branches (Lodging, 
+Tab C. p. 9) and enormous potential income stream. 
+
+Other commentators have recognized the very real danger 
+to insurer solvency that results when third parties obtain de facto 
+control of an insurer’s decision making? with the attendant 
+inability of the insurer to pay claims of policyholders. 
+
+Moreover, a Report of the U.S. House of Representatives 
+closely echoes the testimony of the Department’s witnesses 
+below, and reveals that the Florida Legislature’s concerns, are 
+neither illusory nor hypothetical. This Congressional report is 
+entitled Failed Promises — Insurance Company Insolvencies — 
+A Report by the Subcommittee on Oversight and Investigations 
+of the Committee On Energy and Commerce, U.S. House of 
+Representatives, 101st Cong., 2d Sess. (1990). (The Subcom- 
+mittee was chaired by Rep. John Dingell, and the February 1990 
+Report is sometimes referred to as the “Dingell Report.”) The 
+first two of a list of six “key weaknesses in the present system 
+
+’ The insolvency of the Baldwin-United insurance company, one of the 
+largest insurer insolvencies ever to occur in the United States, is attributed 
+by commentators to outside control of the insurer by affiliated parties that 
+did not have the insurer’s best interest at heart. See, e.g., Dunne, /ntercom- 
+pany Transactions Within Insurance Holding Companies, 20 The ABA 
+Forum 445, 446 (1985): “The bottom line question for insurance regulators 
+is: Can our present laws assure the preservation of the money people have 
+entrusted to insurers that operate within holding company systems to cover 
+risks they are committed to insure? In other words, can the laws keep 
+insurers from getting milked to impotence...” 
+
+34 
+
+of solvency regulation,”!° identified in the Subcommittee Re- 
+port, directly address the danger of outside influence and control 
+of an insurer by third parties. The Report notes that “through 
+excessive reliance on the judgements of managing general 
+agents, brokers, and other companies, many insurance company 
+managers essentially delegate their most fundamental responsi- 
+bilities to third parties who may have conflicting interests or 
+inadequate abilities.”'' The Subcommittee termed the prob- 
+lems posed by managing general agents, as third parties who 
+can come to control an insurer, as “exceedingly dangerous.”!? 
+Managing general agents are, in essence, “super agents” who 
+control the marketing efforts of an insurer. This arrangement 
+is very similar to the sort of arrangements likely to occur 
+between bank holding companies and insurers. Moreover, con- 
+trary to Barnett’s assertion, financial institutions could exert 
+undue influence on insurance company decisions without nec- 
+essarily meeting the definition of a Managing General Agent or 
+other licensed marketer and thus a specific prohibition is re- 
+quired. 
+
+While failing to acknowledge that Section 626.988 ad- 
+dresses the same concern, Barnett, at footnote 2, page 28 of its 
+brief, concedes Florida laws regarding third party administrators 
+and managing general agents protect the solvency of insurers 
+stating: 
+
+There is no dispute that these laws of general applica- 
+
+tion were intended to protect the solvency of insur- 
+
+ance companies by limiting the opportunity for 
+
+powerful third parties to influence underwriting deci- 
+sions. 
+
+10 Subcommittee Report, page 3. 
+'! Subcommittee Report at 3. 
+'2 Subcommittee Report at 10. 
+
+35 
+
+Although more precise in its focus, Section 626.988 deals with 
+a far more powerful third party than managing general agents or 
+third party administrators, and the potential for influencing 
+underwriting decisions is correspondingly greater. 
+
+Il. The Federal Reserve Act, Including Section 92, Specifi- 
+cally Relates To The Business Of Banking. n 
+
+Barnett argues in its brief at page 41 that even if Section 
+626.988 clears the first hurdle of the McCarran-Ferguson test 
+and regulates the business of insurance, this Florida law must 
+clear a second hurdle, that Section 92 does not specifically relate to 
+the business of insurance. Barnett describes this second hurdle as 
+“virtually insurmountable.” Barnett’s argument makes a subtle, but 
+inappropriate modification of the actual McCarran-Ferguson test. 
+
+When McCarran-Ferguson is properly applied, and Section 
+626.988 clears the hurdle of the first part of the McCarran-Ferguson 
+test, it is Section 92 which then must be tested and clear the hurdle 
+of “specifically relating to the business of insurance.” Barnett's 
+argument seeks to obscure the fact that there has been a shifting of 
+the burden of preemption (the concept of reverse-preemption). 
+Barnett must now prove that Section 92 passes muster as a federal 
+law which overcomes the state insurance regulatory law. By 
+suggesting the Florida law must clear both the McCarran-Ferguson 
+test hurdles, Barnett manufactures the argument that: 
+
+[I)f a prohibition on banks selling insurai. = regulates the 
+“business of insurance,” section 92's express authoriza- 
+tion of bank insurance sales must at least specifically 
+relate to the insurance business. 
+
+Barnett Br. p. 41. This argument is flawed because it attempts to 
+answer the second test simply by looking at the answer to the first 
+test. Contrary to this flawed logic, this Court must scrutinize 
+Secticn 92 on its own merits to determine whether Section 92 was 
+enacted to “specifically relate to the business of insurance.” This 
+
+36 
+
+analysis is independent of that applied in the first test to the state 
+law. 
+
+A. The Second Part Of The Mccarran-Ferguson Test 
+Must Be Applied In A Manner Which Gives 
+Substance To McCarran-Ferguson’s Protection 
+Of Regulation Of The Business Of Insurance By 
+The States. 
+
+In determining whether Section 92 “specifically relates” to 
+the business of insurance, the weight given to the preemptive 
+effect of McCarran-Ferguson has great bearing on the outcome 
+reached. The reasoning of the District Court and Circuit Court 
+below, and of the Owensboro courts, reflects a strong recogni- 
+tion of the reverse-preemptive power of McCarran-Ferguson. 
+This perspective was well expressed by the Circuit Court below 
+as follows: 
+
+With McCarran-Ferguson guiding our analysis, this 
+
+Court must ask whether Fla.Stat. ch. 626.988 regu- 
+
+lates insurance, so as to presumptively preempt con- 
+
+trary federal law. Second, we must ask whether 
+
+section 92 specifically relates to insurance, so that it 
+
+will fit within the McCarran-Ferguson exception that 
+
+reinstates federal law as supreme. / 
+Barnett, 43 F 3d at 634. 
+
+The McCarran-Ferguson tests thus proceed as follows: A 
+state law which passes the first test preempts the federal law. 
+The federal law can only be “reinstated” by passing the second 
+test. 
+
+The cases considering whether Section 92 “specifically 
+relates” to the business of insurance have two common points 
+in their reasoning. First, under McCarran-Ferguson, a federal 
+enactment “specifically relates” only to its primary subject. A 
+provision cannot specifically relate to two things at once. That 
+is, is the primary subject of Section 92 banking or the business 
+
+37 
+
+of insurance? Second, the Courts analyze whether the federal 
+law “specifically relates” to the business of insurance with 
+enough substance to reinstate the federal law over the state law. 
+In other words, the federal law must “specifically relate” with 
+enough preemptive horsepower to displace the state law. This 
+perspective is expressed in the District Court’s reasoning that: 
+. . . Section 92 simply fails to manifest any express 
+intent to preempt state insurance laws. That silence 
+is particularly understandable given the historical fact 
+that section 92 was enacted “at a time when the 
+business of insurance was believed to be beyond the 
+reach of Congress’ power under the Commerce Clause.” 
+
+Barnett, 839 F Supp. at 843. 
+
+The perspective and reasoning of the lower courts in applying 
+McCarran-Ferguson give substance to Congress’ intent for regula- 
+tion of the business of insurance to lie primarily with the states. 
+Through the “clear statement rule,” state laws enjoy the protection 
+necessary to maintain the integrity of the state insurance regulatory 
+system. 
+
+However, Barnett and its Amici approach the issue from an 
+entirely different perspective. They view McCarran-Ferguson as a 
+mere “bump in the road” of federal law supremacy, with any 
+connection to the business of insurance being sufficient to move the 
+federal law past the McCarran-Ferguson obstacle: For example, the 
+Solicitor General, at page 20 of its brief concedes: 
+
+We may certainly assume that in authorizing national 
+banks in small towns to sell insurance, Congress’ pri- 
+mary purpose was to regulate banking. 
+Yet, the Solicitor General proceeds to assert Section 92 “specifically 
+relates to the business of insurance by permitting some banks to 
+engage in one aspect of that business.” (Solicitor General's Br. at 
+21.) This reasoning is understandable from individuals accustomed 
+to the supremacy of federal laws under the National Banking Act. 
+
+38 
+
+Howevei, any attempt to preempt state regulation of insurance 
+requires a different preemption analysis under McCarran-Ferguson. 
+
+B. The Courts Which Have Addressed The Issue 
+Agree: section 92 Is Not An “Act Specifically 
+Relate|d] To The Business Of Insurance.” 
+
+In determining whether Section 92 “specifically relates to the 
+
+business of insurance,” it is very instructive how the District and 
+
+issue. 
+1. The Owensboro District Court 
+
+The Owensboro Distnct Court conducted its McCarran-Fer- 
+guson analysis “in reverse order” and determined first whether 12 
+U.S.C. § 92 is an Act of Congress which relates to the business of 
+
+The “business of insurance” has been narrowly 
+defined, and it seems fairly obvious that § 92 does not 
+constitute Congressional regulation of that business. 
+This section is a part of the National Bank Act, and 
+its function is to grant additional powers to national 
+banks. That the power granted to the national banks 
+involves insurance does not transform this section into 
+a regulation of the business of insurance. Accord- 
+ingly, § 92 will not invalidate the Kentucky statute on 
+these grounds. 
+
+Owensboro Nat'l Bank v. Moore, 803 F.Supp. 24, 36 (E.D.Ky. 
+1992). The Owensboro District Court looked at the function of 
+Section 92 — to grant additional powers to national banks — and 
+properly concluded that the fact that this grant of power involved 
+insurance did not transform Section 92 into regulation of the 
+business of insurance. 
+
+39 
+
+2. The Owensboro Circuit Court 
+
+On appeal, the Owensboro Circuit Court majority stated, 
+“we need not consider whether Section 92 ‘specifically relates 
+to the business of insurance’; for without regard to whether 
+Section 92 so relates, McCarran-Ferguson cannot save Section 
+“287 from preemption.” Owensboro Nat'l Bank v. Stephens, 44 
+F.3d 388, 392 (6th Cir. 1994). Thus, the Owensboro majority 
+took no position on whether Section 92 “specifically relates to 
+the business of insurance.” 
+
+Judge Batchelder, in a dissenting opinion (Pet. App. 50a- 
+64a), did address whether Section 92 specifically relates to the 
+business of insurance. Her position squared with the 
+Owensboro District Court that Section 92 is not an Act specifi- 
+cally related to the business of insurance. (Pet. App. 61a ef seq.) 
+Citing Section 92’s legislative history, she found the District 
+Court’s Owensboro analysis “sound” because the primary in- 
+tent of Section 92 was to strengthen small national banks by 
+providing them with additional sources of revenue Owensboro, 
+44 F.3d at 397-398. 
+
+3. The Barnett District Court 
+
+The District Court addressed the issue of Section 92 “spe- 
+cifically relat{ing]} to the business of insurance” at footnote 3 of 
+its opinion: 
+
+In the alternative, Plaintiff [Barnett] could prevail 
+
+under a McCarran-Ferguson analysis if the Court 
+
+found that section 92 was specifically related to the 
+business of insurance, and if 626.988 is deemed to be 
+
+a law enacted for the purpose of regulating insurance. 
+
+However, Plaintiff has consistently stated and/or con- 
+
+ceded that section 92 is a “bank” law, and has prem- 
+
+ised its argument accordingly. 
+
+40 41 
+
+Barnett, 839 F Supp. at 839, Pet. App. 25a. The Court’s obser- Although Nat’! Bank of Or. did not address 
+vation that Barnett had stated and/or conceded Section 92 is a whether section 92 relates to insurance, it did empha- 
+“bank” law is supported by the following trial excerpt: size at length the relation between section 92 and both 
+
+the National Bank Act and the Federal Reserve Act, 
+neither of which suggests section 92 relates specifi- 
+cally to insurance or was a specific attempt to preempt 
+
+The Court: And your belief is that Section 92 
+is a banking statute? 
+
+Mr. Wells: I believe that Section 92 is in the Na- state insurance laws. Both Acts concern banking, not 
+tional Bank Act and provides that a insurance. Moreover, Congress enacted section 92 
+national bank can engage in certain “at a time when the business of insurance was believed 
+insurance agency activities. to be beyond the reach of Congress’ power under the 
+
+The Court: So would you classify it as a banking Commerce Clause.” Fabe, U.S. at__ , 113 S.Ct. 
+statute or an insurance statute or a com- at 2212. As the trial court pointed out, “[e}ven South- 
+bination thereof? Eastern Underwriters, which briefly altered the pre- 
+
+, e emption landscape, noted that prior to 1944 Congress 
+
+Mr. Wells: | wanes canmy 3050 SaENG | ——. ‘st no Gane’ had chemapted to conteel the business of 
+
+TR-108. Barnett made the same concession in its pleadings, insurance.” {citations omitted] Before 1944, both 
+stating: Congress and the Supreme Court understood Paul v. 
+
+This issue was also squarely addressed in Owensboro. Virginia [citation omitted] to place insurance outside 
+
+There, the court recognized that a national bank en- the Commerce Clause power. Accordingly, when 
+
+gaged in insurance agency activities pursuant to Sec- Congress enacted section 92 in 1916 — nearly 30 
+
+tion 92 is not engaged in the business of insurance, it years before South-Eastern Underwriters — Con- 
+
+is engaged in the business of banking: “that the power gress could not have been attempting to regulate a 
+
+granted to the national banks involves insurance does business that it believed it had no power to regulate. 
+
+not transform this section [92] into a regulation of the Congress was concerned wi.h banking, not insurance. 
+
+business of insurance.” Owensboro, 803 F.Supp. at This Court concludes that section 92 neither “‘spe- 
+
+36. cifically relates to the business of insurance,” 15 
+
+R. 2-28, p.21. U.S.C. § 1012(b), nor “specifically requires,” Fabe, 
+4. The Barnett Circuit Court pada a. S.Ct. at 2211, that apparently 
+The Circuit Court below began its analysis of this issue by Se ee 
+tracing the history of Section 92, which it took in “compacted form” Barnett, 43 F.3d at 637. 
+from United States Nat'l Bank of Or. v. Independent Ins. Agents, The pertinent decisions reveal that there is no conflict 
+__US.__, 113 S.Ct. 2173, 124 L.Ed.2d 402 (1993). Barnett, among the federal circuits on the issue of whether Section 92 
+43 F.3d at 637. n. 2; (Pet. App. 13a-14a). The Circuit Court, “specifically relates to the business of insurance.” To the con- 
+
+relying on this Court’s decision in Fabe, stated: trary, each Court which has considered the question has dis- 
+
+42 
+
+posed of this issue in the negative with relative ease. (See also 
+Louisiana state court decision: First Advantage Ins., Inc. v. 
+Green, 652 So.2d 562 (La. Ct. App.), writ. denied, 654 So.2d 
+331 (La. 1995).) 
+
+C. The Court Should Examine The 1916 Act As A 
+Whole To Determine Whether Section 92 Speci- 
+fically Relates To The Business Of Insurance. 
+
+The McCarran-Ferguson Act provides that no “Ac?” of 
+Congress shall impair state law enacted for the purpose of 
+regulating the business of insurance unless the Act specifically 
+relates to the business of insurance. Therefore, in determining 
+whether the exception to McCarran’s reverse preemption ap- 
+plies to Section 92, examination of the 1916 Act as a whole is 
+instructive. (See Judge Schlesinger’s remarks at Transcript of 
+Motions Hearing, 41-42.) 
+
+Section 92 was enacted in 1916 as a part of a comprehen- 
+sive amendment of the Federal Reserve Act of 1913.'> The 1916 
+legislation is entitled “An Act to Amend Certain Sections of the 
+Act Entitled ‘Federal Reserve Act.”” The 1916 Act (Lodging, 
+Tab A) amended numerous sections of the 1913 Federal Re- 
+serve Act in a variety of ways distinctively relating to banking, 
+including: permitting member banks to maintain reserves in 
+their own vaults; increasing the amounts of certain instruments 
+a bank could receive if secured by collateral; permitting any 
+Federal reserve bank to make advances to member banks for a 
+period not exceeding fifteen days; permitting member banks to 
+accept certain instruments for the purpose of furnishing dollar 
+exchange; authorizing member banks to open and maintain bank 
+accounts for foreign correspondents; permitting banks to make 
+loans secured by farm land and real estate situated within 100 
+
+7 A copy of the 1916 Amendment to the 1913 Federal Reserve Act is 
+included in the Department’s Lodging with the Supreme Court Clerk. 
+
+43 
+
+miles of the bank’s location; and authorizing national banking 
+associations with capital and surplus of $1 million or more to 
+invest in the stock of banks engaged in international and foreign 
+banking. One provision of the 1916 Act, now codified as 12 
+U.S.C. 92, permitted national banks located in a place of 5,000 
+or less population to act as insurance agents. 
+
+However, Section 92 is not an “Act.” It constitutes only a 
+small part of chapter 461, “An Act To amend certain sections of 
+the Act entitled ‘Federal reserve Act,’ ....”. H.R. 13391, 64th 
+Cong., Ist Sess. Ch. 461 (1916). The 1916 amendment to the 
+Federal Reserve Act, taken in its entirety, cannot be said to 
+“specifically relate” to the business of insurance. As noted by 
+this Court in U.S. Nat'l Bank of Or., “Section 92 travels together 
+with the paragraphs that surround it.” 113 S.Ct. at 2185. 
+
+D. Section 92 Does Not Meet The McCarran- 
+Ferguson “Clear Statement Rule”. 
+
+Even assuming arguendo that Section 92 is an “Act,” 
+Section 92 still does not “specifically relate” to the business of 
+insurance within McCarran-Ferguson’s “clear statement rule,” 
+as described in Fabe, supra, as follows: 
+
+The McCarran-Ferguson Act did not simply overrule 
+
+South-Eastern Underwriters and restore the status 
+
+quo. To the contrary, it transformed the legal land- 
+
+scape by overturning the normal rules of pre-emption. 
+
+Ordinarily, a federal law supersedes any inconsistent 
+
+state law. The first clause of § 2(b) reverses this by 
+
+imposing what is, in effect, a clear-statement rule, a 
+
+rule that state laws enacted “for the purpose of regu- 
+
+lating the business of insurance” do not yield to 
+conflicting federal statutes unless a federal statute 
+specifically requires otherwise. 
+
+113 S.Ct. at 2211 (emphasis added). 
+
+as 
+
+The “clear statement rule” arises in part as a result of the 
+strong presumption against imputing to Congress an intent to 
+preempt state regulation in an area which has been traditionally 
+left to the states. Jones v. Rath Packing Co., supra, 430 U.S. at 
+525. The Fabe Court’s recognition of this rule also arises from 
+the legislative history statements “animating” the first clause of 
+15 U.S.C. § 1012(b): 
+
+Elaborating upon the purpose animating the first 
+clause of § 2(b) of the McCarran-Ferguson Act, Sena- 
+tor Ferguson observed: 
+
+“What we have in mind is that the insurance 
+business, being interstate commerce, if we merely 
+enacta law relating to interstate commerce, or if there 
+is a law now on the statute books relating in some way 
+to interstate commerce, it would not apply to insur- 
+ance. We wanted to be sure that the Congress, in its 
+wisdom, would act specifically with reference to in- 
+surance in enacting the law.” 91 Cong Rec 1487 
+(1945). This passage later confirms that “no existing 
+law and no future law should, by mere implication, be 
+applied to the business of insurance” (statement of 
+Mr. 
+
+Mahoney). /bid. 
+
+Fabe, 113 S.Ct. at 2211, n. 7 (emphasis added). 
+
+These excerpts from the legislative history of the McCar- 
+ran-Ferguson Act reflect that Congress intended to avoid any 
+inadvertent preemption of state insurance law by federal law. It 
+is not enough for a federal act to involve the business of 
+insurance. Something more was envisioned. In the words of 
+Senator Ferguson, Congress must act “specifically” with refer- 
+ence to insurance. 
+
+When used as an adjective, “specific” is defined as “con- 
+stituting or falling into a specified category” or “restricted by 
+
+45 
+
+nature to a particular individual, situation, relation, or effect.” 
+Webster's New Collegiate Dictionary (1981). A given law 
+cannot “specifically relate” to two different subjects. Section 
+92 is but one of a variety of provisions contained in the 1916 
+Act amending the Federal Reserve Act which confers additional 
+authority to national banks. Section 92 only relates to the 
+business of banking, not the business of insurance. 
+
+When used as a noun, “specific” means “details” or “par- 
+ticulars.” Jd. In this context, Section 92 must therefore deal 
+with the business of insurance in a detailed manner in order to 
+qualify as an exception under the McCarran-Ferguson Act. The 
+1916 Act contains a variety of detailed provisions relating to the 
+intricacies of numerous banking activities. Section 92, by con- 
+trast, does not describe insurance-related activities in any detail 
+whatsoever. The fact that the word “insurance” is mentioned 
+several times in Section 92 does not transform the statute into 
+an act which specifically relates to the business of insurance. 
+
+Further, in addition to authorizing insurance sales, Section 
+92 also authorizes a national bank to act as a broker for real estate 
+loans and to receive fees and commissions in that regard. The 
+common element of the two activities is the receipt of commis- 
+sions. Section 92 therefore specifically relates to bank income, 
+not the business of insurance. 
+
+The version of the McCarran-Ferguson Act which was 
+passed by both the House of Representatives and the Senate 
+read: 
+
+No Act of Congress shall be construed to invalidate, 
+
+impair or supersede any law enacted by any State for 
+
+the purpose of regulating the business of insurance, or 
+
+which imposes a fee or tax upon such business, unless 
+
+such act specifically so provides. 
+91 Cong. Rec. 329-30 (1945), 91 Cong. Rec. 478-88 (1945) 
+(emphasis added). 
+
+46 
+
+The McCarran-Ferguson Act was amended in Conference 
+Committee to exempt a Federal act which “specifically relates 
+to the business of insurance.” Barnett asserts that the Confer- 
+ence Committee “jettisoned the narrow savings clause in favor 
+of an expansive clause that validates any federal statute that 
+‘specifically relates to the business of insurance.’”” However, 
+the Conference Committee Report (Lodging, Tab B) states it 
+was the purpose of the agreement between the House and Senate 
+to state in as clear language as possible that a moratorium be 
+granted to the insurance business from the operation of antitrust 
+laws, “leaving the taxing and regulatory powers of the several 
+States fully protected.”'4 This statement makes it clear the 
+language change was not intended to dilute protection of state 
+regulation. 
+
+E. In Enacting Section 92, Congress Never In- 
+tended To Permit The Comptroller To Unilat- 
+erally Supplant Established State Insurance 
+Regulatory Schemes. 
+
+There can be little doubt that in 1916, Congress had no 
+intention of placing the Comptroller of the Currency in the 
+position of regulating the business of insurance. Any authority 
+granted to the Comptroller is based on the Comptroller’s author- 
+ity over the business of banking, not the business of insurance. 
+Regulation of the business of insurance is entirely outside the 
+Comptroller’s area of jurisdiction and expertise. To conclude 
+that Section 92 specifically relates to the business of insurance 
+would produce the absurd result of the Comptroller of the 
+Currency regulating the business of insurance. 
+
+Congress’ purpose in enacting Section 92 was to allow a 
+limited group of small national banks to pursue another revenue 
+source. Prior to Section 92’s enactment, national banks had no 
+
+7 A copy of the Conference Committee Report is included in the 
+
+Department's Lodging with the Supreme Court Clerk. 
+
+47 
+
+authority to sell insurance even in the absence of state law 
+prohibiting such sales. Thus, Section 92 has been properly 
+construed to merely permit (as opposed to mandate) national 
+banks to sell insurance in towns of under 5,000 population, only 
+if a state law does not prohibit such activity. However, in 
+Florida, state law does prohibit such activity for valid reasons 
+unique to Florida. There is no indication whatsoever that Sec- 
+tion 92 was intended to remove any power heid by the states. 
+
+F. Cases Cited By Barnett Construing “Specifically 
+Relates To Insurance” Are Distinguishable. 
+
+Barnett’s position is not strengthened by reference to cases 
+involving the Employee Retirement Income Security Act 
+(ERISA). 29 U.S.C. § 1001, et seg. ERISA comprehensively 
+regulates insured and self-insured health and life insurance plans 
+offered by employers to employees. “ERISA, both in general 
+and in the guaranteed benefit policy provision in particular, 
+obviously and specifically relates to the business of insurance.” 
+John Hancock Mut. Life Ins. Co. v. Harris Trust & Sav. Bank, 
+__ US. _, 114 S.Ct. 517, 525, 126 L.Ed.2d 524 (1993). In 
+contrast, Section 92 does not comprehensively regulate the 
+business of insurance. 
+
+Further, ERISA’s “deemer” clause cleariy evidences an 
+intent to exempt employee benefit plans from the preemption 
+language of McCarran-Ferguson. In this regard, 29 U.S.C. 
+1144(b)(2)(B) expressly provides that no employee benefit plan 
+“shall be deemed to be an insurance company .. . or to be 
+engaged in the business of insurance . . . for purposes of any law 
+of any state purporting to regulate insurance companies.” 
+Whereas several courts have found ERISA to specifically relate 
+to insurance, none have found Section 92 to relate to anything 
+other than banking. 
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+48 
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+“Because the power of the federal government to tax 
+was not delegated to the states” by the Act ... [citation 
+omitied] the application of federal laws to insurance 
+companies is not inconsistent with the intent of Con- 
+gress to refrain from interfering with state regulation 
+of the insurance business. 
+
+Hanover, 598 F.2d at 1218. Further, unlike Section 92, the Internal 
+Revenue Code provision considered in that case is part of a perva- 
+sive regulatory scheme in which Congress has indicated an intent 
+to occupy the field. (Sections 801 to 843 of Subchapter L of Chapter 
+1 of the Internal Revenue Code) 
+
+Similarly, the Texas Employers’ Court addressed the Long- 
+shore and Harbor Workers Compensation Act. 33 U.S.C. § 901, et 
+seq. Unlike Section 92, the Federal worker’s compensation act 
+expressly provides that an employer’s liability under the Act is 
+“exclusive and in place of all other liability.” 33 U.S.C. § 905. 
+Further, the Act is a comprehensive scheme addressing worker’s 
+compensation benefits provided by employers through insured and 
+self-insured programs. Section 935 of the Act subjects insurers to 
+all of the requirements and obligations applicable to employers, and 
+expressly indicates that such a requirement facilitated the admini- 
+stration of the entire regulatory scheme. Again, unlike Section 92, 
+the intent of the Act to preempt may be inferred from the creation 
+of a pervasive federal regulatory system. 
+
+49 
+
+Finally, Wisner v. Wisner, 338 U.S. 655 (1950), cited by 
+Barnett, is irrelevant. The case dealt with a conflict between the 
+National Service Life Insurance Company Act of 1940 and a state’s 
+community property law. No state law enacted for the purpose of 
+regulating the business of insurance was involved and the case has 
+no bearing on the interpretation of the McCarran-Ferguson Act. 
+
+Ill. Under Traditional Preemption Doctrine, Petitioner 
+Cannot Overcome The Strong Presumption That Con- 
+gress Did Not Intend To Oust State Regulation Of The 
+Conduct Of Insurance By Preempting Section 626.988. 
+
+The Eleventh Circuit did not reach the question whether 
+Section 92 preempts Section 626.988 under a traditional pre- 
+emption analysis because it concluded that the McCarran-Fer- 
+guson Act’s “reverse-preemption” rule precludes an 
+interpretation of Section 92 as superseding state law. Neverthe- 
+less, even under traditional preemption doctrine, Section 
+626.988 is fully applicable to Barnett, regardless of its national 
+bank charter. 
+
+Petitioner cannot overcome the strong presumption that 
+Congress did not intend to displace the States’ traditional role 
+in regulating the conduct of insurance within their borders. See 
+N.Y. Conf. of Blue Cross v. Travelers Ins.,__ U.S. __, 115 $.Ct. 
+1671, 1676 (1995). There is no “clear and manifest” evidence, 
+id., that Congress intended to convey an indefeasible nght on 
+small-town national banks to sell insurance even where state 
+insurance law would limit or preclude that activity, especially 
+where, as here, the state law is evenly applied to both state-char- 
+tered and federally chartered banks. Section 92’s legislative 
+history demonstrates that it was designed to enable small-town 
+national banks to obiain additional fee income in order to better 
+compete with state-chartered banks that were permitted to en- 
+gage in these nonbanking activities. See 53 Cong. Rec. 11001 
+(1916); Barnett Br. at 3. There is no evidence Congress believed 
+that this authority. was critical to the banking functions of 
+
+50 
+
+national banks, and there is no evidence that it serves such a 
+purpose. In enacting Section 92, Congress did no more than 
+grant small-town national banks the charter capacity to engage 
+in a business that was universally understood to be controlled 
+exclusively by the states. Section 626.988, which has the effect 
+of precluding a// bank subsidiaries of bank holding companies 
+from selling non-credit insurance, does not create an “obstacle” 
+to the accomplishment of Congress’ goals. See Hillsborough 
+County, Fla. v. Automated Medical Labs., Inc., 471 U.S. 707, 
+713 (1975). 
+
+To avoid repetition and preserve space, the Department 
+will not reiterate the traditional preemption arguments more 
+fully set out in the Brief of the Florida Association of Life 
+Underwriters, et al., and fully adopts those arguments. 
+
+CONCLUSION 
+
+The judgment of the United States Court of Appeals for the 
+Eleventh Circuit should be affirmed. 
+
+Respectfully submitted, 
+
+DAVID J. BUSCH 
+Counsel of Record 
+
+DANIEL Y. SUMNER 
+General Counsel 
+DENNIS SILVERMAN 
+KAREN ASHER-COHEN 
+FLORIDA DEPARTMENT 
+OF INSURANCE 
+200 E. Gaines Street 
+Tallahassee, FL 32399-0333 
+(904) 413-4146 
+
+Attorneys for Respondents 
+Bill Nelson and the Florida 
+
+; Department of Insurance 
+December 8, 1995. 
+
+

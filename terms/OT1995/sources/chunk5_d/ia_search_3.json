@@ -1,0 +1,24 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 75,
+    "params": {
+      "query": "collection:us-supreme-court AND (text:Lonchar OR text:Lonchar OR text__reviews:Lonchar)",
+      "qin": "collection:us-supreme-court AND Lonchar",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 1,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385012_1459",
+        "title": "Alexzene Hamilton, as Natural Mother and Next Friend to James Edward Smith v. Texas, 498 U.S. 908 (1990) (No. 89-7838)"
+      }
+    ]
+  }
+}

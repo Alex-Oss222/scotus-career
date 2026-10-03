@@ -1,0 +1,1915 @@
+y = 
+
+
+ee 
+EE oS 
+aes saa hae 
+
+
+a Bey 
+af pe e 
+Sak StF 
+
+
+- 
+
+
+i 
+QUESTION PRESENTED 
+
+
+Whether the Double Jeopardy Clause of the Fifth Amendment 
+bars the entry of judgments of conviction and the imposition of 
+concurrent sentences on two separate counts in an indictment where 
+the conduct that forms the basis of the count alleging a conspiracy 
+to distribute a controlled substance (21 U.S.C. § 846) is identical 
+to the conduct that establishes the "in concert" element in the count 
+
+
+alleging a continuing criminal enterprise (21 U.S.C. § 848). 
+
+
+‘i 
+LIST OF PARTIES 
+
+
+Petitioner Tommy L. Rutledge was the only appellant in Case 
+No. 93-1122 in the United States Court of Appeals for the Seventh 
+
+
+Circuit. His case was consolidated on appeal with Case No. 93- 
+2652, in which Shelly Henson was the only appellant, and Case No. 
+93-2653, in which Richard Hagemaster was the only appellant. 
+Petitioner's appeal also was consolidated initially with Case No. 93- 
+2654, in which Stan Winters was the only appellant, but that case 
+subsequently was severed from the consolidated appeals. The 
+United States of America was the only appellee in all of these 
+appeals. 
+
+In the United States District Court for the Central District of 
+Illinois, petitioner was named as a co-defendant in a second 
+superseding indictment with Shelly Henson, Richard Hagemaster, 
+Stan Winters, and Donald Taylor in Criminal Case No. 91-40009. 
+In a prior indictment in the same case, petitioner had been named 
+as a co-defendant with Roger Malott. The United States of America 
+was the only plaintiff in that case. 
+
+
+TABLE OF CONTENTS 
+PAGE 
+QUESTION PRESENTED .................... i 
+LIST OF PARTIES ..................2022... ii 
+TABLE OF CONTENTS ................2e00- iii 
+TABLE OF AUTHORITIES ................... Vv 
+EES l 
+
+
+THE SEVENTH CIRCUIT'S PRACTICE OF ALLOW- 
+ING ENTRY OF JUDGMENTS OF CONVICTION AND 
+CONCURRENT SENTENCES ON CCE AND CON- 
+SPIRACY VERDICTS IN CASES INVOLVING A 
+SINGLE COURSE OF CONDUCT VIOLATES THE 
+
+
+A. Congress Did Not Intend To Impose Cumulative 
+Punishment For A Single Course Of Conduct Under 
+Both 21 U.S.C. § 848 (Continuing Criminal Enter- 
+
+
+prise) And 21 U.S.C. § 846 (Conspiracy). ..... 
+
+
+9 
+
+
+PAGE 
+
+
+B. The Seventh Circuit's Practice Of Allowing Entry Of 
+Judgments of Conviction And Imposition of Concur- 
+rent Sentences Upon Guilty Verdicts For Both CCE 
+And Conspiracy Counts Involving Identical Conduct 
+
+
+Proscribed By The Fifth Amendment. ........ 12 
+COMCLIMBON ... . ss ove os owen ee, Coes 20 
+| eee ee la 
+
+
+TABLE OF AUTHORITIES 
+PAGE 
+Cases 
+
+Ashe v. Swenson, 397 U.S. 436 (1970) ...........5.. 15 
+Ball v. United States, 470 U.S. 856 (1985) ........ passim 
+Brecht v. Abrahamson, 113 S. Ct. 1710 (1993) ......... 16 
+Chapman v. California, 386 U.S. 18 (1967) ........... 16 
+Davis v. United States, 114 §. Ct. 2350 (1994) ......... 14 
+Department of Reverme of Montana v. Kurth Ranch, 
+
+ON ee Ee eee eee 7 
+Edwards v. Arizona, 451 U.S. 477 (1981) ............ 14 
+Garrett v. United States, 471 U.S. 773 (1985) ...... passim 
+Jeffers v. United States, 432 U.S. 137 (1977) ....... passim 
+Keene Corp. v. United States, 113 S. Ct. 2035 
+
+GD Se Stice Rb eS ne Vibe kd COENEN 11 
+Kotteakos v. United States, 328 U.S. 750 (1946) ........ 16 
+Lange, Ex Parte, 85 U.S. (18 Wall.) 163 (1874) ........ 7 
+Lorillard v. Pons, 434 U.S. 575 (1978) ............. 11 
+Michigan v. Jackson, 475 U.S. 625 (1986) ........... 14 
+Minnick v. Mississippi, 498 U.S. 146 (1990) ....... 14, 16 
+Miranda v. State of Arizona, 384 U.S. 436 (1966) ....... 14 
+Missowi v. Hunter, 459 U.S. 359 (1983) ............ 8 
+
+
+Mohwish v. United States, 113 S$. Ct. 1378 (1993), 
+vacating and remanding United States v. Patrick, 
+965 F.2d 1390 (6th Cir. 1992), on remand, 
+993 F.2d 123, 124 (6th Cir. 1993) .............. 4 
+
+
+vi 
+
+
+PAGE 
+North Carolina v. Pearce, 395 U.S. 711 (1969) ve eC 7, 12 
+Rose v. Clark, 478 U.S. 570 (1986) ............445- 16 
+Satterwhite v. Texas, 486 U.S. 249 (1988) ............ 16 
+United States v. Aiello, 771 F.2d 621 (2d Cir. 
+
+eae Le a ae 18 
+United States v. Anderson, 39 F.3d 331 (D.C. Cir. 
+
+1994), reversed on other grounds, 59 F.3d 1323 
+
+GL. Giz. GG wdcetiseccteecccses 17 
+United States v. Bafia, 949 F.2d 1465 (7th Cir. 1991), 
+
+cert. denied, 112 S. Ct. 1989 (1992) .......... 4, 10 
+United States v. Bond, 847 F.2d 1233 (7th Cir. 1988) .. 4, 18 
+United States v. Butler, 885 F.2d 195 (4th Cir. 1989)... .. 17 
+United States v. Cruz, 805 F.2d 1464 (11th Cir. 
+
+1986), cert. denied, 481 U.S. 1006 (1987) ......... 17 
+United States v. Dickey, 736 F.2d 571 (10th Cir. . 
+
+1984), cert. denied, 469 U.S. 1188 (1985) ......... 18 
+United States v. Fernandez, 916 F.2d 125 (3d Cir. 
+
+1990), cert. denied, 500 U.S. 948 (1991) .......... 18 
+United States v. Graziano, 710 F.2d 691 (11th Cir. 
+
+1983), cert. denied, 466 U.S. 937 (1984) .......... 18 
+United States v. Halper, 490 U.S. 435 (1989) ......... 7 
+United States v. Hernandez-Escarsega, 886 F.2d 
+
+1560 (9th Cir. 1989), cert. denied, 497 U.S. 
+
+SED CHUOED 2 oo co « bia 6 ate OSS Gi ocd’ «xine 17 
+United States v. L.A. Tucker Truck Lines, Inc.., 
+
+906 UB. See Aree n.a>'\0-0:014 etetion too exiteres 10 
+United States v. Michel, 588 F.2d 986 (Sth Cir.), 
+
+cert. denied, 444 U.S. 825 (1979) .............. 18 
+
+
+vii 
+PAGE 
+United States v. Neal, 27 F.3d 1035 (Sth Cir. 
+
+1994), cert. denied, 115 S. Ct. 1165 (1995) ........ 17 
+United States v. Paulino, 935 F.2d 739 (6th Cir. 
+
+1991), cert. denied, 502 U.S. 1036 (1992) ......... 17 
+United States v. Possick, 849 F.2d 332 (8th Cir. 
+
+AG 0 ae ee ee 17 
+United States v. Rivera-Martinez, 931 F.2d 148 
+
+(lst Cir.), cert. denied, 502 U.S. 862 (1991) ....... 17 
+United States v. Rutledge, 40 F.3d 879 (7th Cir. 
+
+ENS aN a a 1,3,4 
+United States v. Smith, 703 F.2d 627 (D.C. Cir. 
+
+Ri RN ie ee i, es os aw 18 
+United States v. Stallings, 810 F.2d 973 (10th 
+
+OEE EE eae 17 
+United States v. Webster, 639 F.2d 174 (4th Cir. 
+
+1981), modified in part on other grounds, 
+
+669 F.2d 186 (4th Cir.), cert. denied, 456 U.S. 
+
+SE CHU <-o 6-6 6 mS Oke MESSE omif co 6 Bcc? 18 
+Usery v. Turner Elkhorn Mining Co., 428 U.S. 1 (1976) .. . 11 
+Whalen v. United States, 445 U.S. 684 (1980) ........ 8,9 
+Witte v. United States, 115 S. Ct. 2199 
+
+(90D) ...... .mitmariind a0d DN a dae Wh ss os 7 
+
+Constitutional Provisions 
+U.S. Constitution amend. V.................. passim 
+Federal Statutes 
+BD Cs Os Oe Pe Ch eS oes bbc eWas ed 3 
+
+
+PAGE 
+18 UBL. OCRROIND 6 vhiu 04 6556 ROW. vaneall 12 
+9USC. 9M eA Oe a. 3 
+wusc. 9mm fsb tO AS 12 
+DEUAG.BWS is. iv +0 bb bce eee 3, 16 
+93 UBL. COMEID 26. cc cscvtceecece bi 2, 3, 10 
+1 URS. Seem o.oo ee we 2 
+26 UBC. 6 ONG 2)04 do's ee. tes 4 eh passim 
+21 UBL. $008... 6 ith hada ot arwed passim 
+WUC: OUND... HUB. NE 2 
+
+
+Anti-Drug Abuse Act of 1988, Pub. L. No. 100-690, 
+Title VI, § 6470(a), 102 Stat. 4377 (1988) 
+(amending 21 U.S.C. § 846) .............4..4. 11 
+
+
+Anti-Drug Abuse Act of 1988, Pub. L. No. 100-690, 
+Title VI, § 6481, Title VII, 7001, 102 Stat. 4382, 
+4387-88 (1988) (amending 21 U.S.C. § 848) ....... 11 
+
+
+Violent Crime Control Act of 1994, Pub. L. No. 
+103-322, Title XXXII, §§ 330003(e), 
+330009(d), 330014, 108 Stat. 2141, 2143, 
+
+
+2146 (1994) (amending 21 U.S.C. § 848) ......... ll 
+Other Authorities 
+Ped. B. Ae. 0 ee cov eces 4 
+Flynn, The Graying of America's Prison Population, 
+Fe Cae &. FU GG nc cr ccesawaenbanetncns 15 
+
+
+Turley, Project for Older Prisoners (POPS), George 
+Washington University National Law Center (1991) ... 15 
+
+
+ix 
+PAGE 
+
+
+Zimbardo, Transforming California's Prisons Into 
+Expensive Old Age Homes for Felons: 
+Enormous Hidden Costs and Consequences 
+
+
+Sor California's Taxpayers, Report from the 
+Center on Juvenile and Criminal Justice 
+
+
+ree wid owe ry ae 15 
+
+
+No. 94-8769 
+
+
+Supreme Court whe United States 
+OCTOBER TERM, 1995 
+
+
+TOMMY L. RUTLEDGE, 
+Petitioner, 
+
+
+The judgment of the United States Court of Appeals for the 
+Seventh Circuit, its opinion, and its denial of the petition for 
+rehearing and -uggestion for rehearing en banc are reported as 
+United States v. Rutledge, 40 F.3d 879 (7th Cir. 1994). (J.A. 25- 
+47, 48.”) The judgment of the United States District Court for the 
+Central District of Ilinois is unreported. (J.A. 8-24.) 
+
+
+The United States Court of Appeals for the Seventh Circuit 
+entered judgment on November 10, 1994. (J.A. 25, 47.) 
+
+
+” In this brief, petitioner will refer to materials in the Joint Appendix as °J.A. 
+__.”» amd t the record of the district court proceedings as "R. 
+
+
+2 
+
+
+Petitioner's timely petition for rehearing and suggestion for 
+rehearing en banc was denied on January 3, 1995. (J.A. 48.) 
+Petitioner's motion for leave to proceed in forma pauperis and 
+petition for a writ of certiorari were filed on April 3, 1995. [Current Court procedural metadata omitted] 
+Petitioner invokes the jurisdiction of this Court pursuant to 28 
+U.S.C. § 1254(1). 
+
+
+RELEVANT CONSTITUTIONAL AND 
+STATUTORY PROVISIONS sas 
+
+
+This case involves the following constitutional and statutory 
+provisions, which are set forth in the Appendix to this brief: 
+
+
+U.S. Constitution amend. V; 
+21 U.S.C. § 841(a) and (b)(1)(A) (Prohibited acts); 
+21 U.S.C. § 846 (Attempt and conspiracy); and 
+
+21 U.S.C. § 848 (Continuing criminal enterprise). 
+
+
+STATEMENT OF THE CASE 
+
+
+Petitioner Tommy L. Rutledge ("Rutledge") was named as a 
+defendant in a second superseding indictment (the “indictment") 
+filed on December 4, 1991, in the United States District Court for 
+the Central District of Illinois. (J.A. 2-7.) Count 1 of the 
+indictment alleged that Rutledge “knowingly and intentionally did 
+engage im a continuing criminal enterprise, namely a series of 
+violations of Title 21, United States Code, Sections 841(a)(1) and 
+846" and that such conduct was “[iJn violation of Title 21, United 
+States Code, Section 848." (J.A. 2-3.) Count 2 of the indictment 
+alleged that Rutledge, along with his co-defendants, had conspired 
+
+
+3 
+
+
+to possess cocaine with intent to distribute "in violation of Title 21, 
+United States Code, Section 846." (J.A. 3-5.” 
+
+
+On June 25, 1992, following a nine-day trial, the jury returned 
+a verdict of guilty against Rutledge on both the continuing criminal 
+enterprise ("CCE") count and the conspiracy count, as well as all 
+other counts of the indictment. (R. 153.) On December 29, 1992, 
+the district court entered judgments of conviction on all counts of 
+the indictment. The district court sentenced Rutledge to serve a 
+prison term of life on the conviction under Count 1 of the indict- 
+ment (CCE, 21 U.S.C. § 848). and a prison term of life on Count 
+2 of the indictment (conspiracy, 21 U.S.C. § 846). (J.A. 10.) The 
+judgment of the district court specified that the separate life 
+sentences under Count 1 and Count 2 of the indictment would run 
+concurrently. (/d.) Pursuant to 18 U.S.C. § 3013, the district court 
+ordered Rutledge to pay a special assessment of $300, consisting of 
+a separate $50 assessment for each judgment of conviction. (J.A. 
+9.) 
+
+
+On appeal, Rutledge argued that the district court violated the 
+Double Jeopardy Clause of the Fifth Amendment both when the 
+court entered separate judgments of conviction on the CCE charged 
+in Count 1 and the conspiracy charged in Count 2, and when it 
+imposed separate, concurrent sentences on those counts. United 
+States v. Rutledge, 40 F.3d 879, 886 (7th Cir. 1994). (A. 37.% 
+The United States Court of Appeals for the Seventh Circuit agreed 
+that “the conspiracy charge is a lesser included offense of the CCE 
+
+
+¥ The indictment also charged Rutledge with possession of cocaine with intent 
+to distribute in violation of 21 U.S.C. § 841(a)\(1) (Count 3), possession of a 
+firearm after conviction of a felony im violation of 18 U.S.C. § 922(g) (Count 4). 
+and carrying and using a firearm im relation tw a drug trafficking offense in 
+violation of 18 U.S.C. § 924(c) (Coumts 5 and 6). (A. 5-7.) No questions are 
+presented with respect to those counts im this Court. 
+
+
+» Rutledge raised other claims of error with respect to both his trial and hss 
+sentencing. (J.A. 30-37.) Those claims are not pursued in this Court. 
+
+
+4 
+
+
+charge,” but rejected Rutledge's Double Jeopardy Clause argument. 
+40 F.3d at 886. (J.A. 38.) Instead, the court of appeals adhered 
+to the position it has taken since 1986 that "[cJoncurrent sentences 
+may be imposed for conspiracy and CCE provided the cumulative 
+punishment does not exceed the maximum under the CCE Act." 
+40 F.3d at 886, citing United States v. Bafia, 949 F.2d 1465, 1473 
+(7th Cir. 1991), cert. denied, 112 S. Ct. 1989 (1992), and United 
+States v. Bond, 847 F.2d 1233, 1239 (7th Cir. 1988). (J.A. 38.) 
+The court of appeals affirmed Rutledge's convictions and sentences 
+in their entirety. 40 F.3d at 890. (J.A. 47.) 
+
+
+On December 6, 1994, Rutledge filed a timely pro se petition 
+for rehearing and suggestion for rehearing en banc pursuant to an 
+extension of time granted by the Seventh Circuit. In that petition 
+he directed the Seventh Circuit's attention to Mohwish y. United 
+States, 113 S. Ct. 1378 (1993).% In Mohwish, this Court vacated 
+the Sixth Circuit's affirmance of the petitioner's judgment of 
+conviction and concurrent sentences for both CCE and conspiracy 
+counts, and remanded to the Sixth Circuit "for further consideration 
+in light of the position presently asserted by the Acting Solicitor 
+General." Jd. at 1378. The Acting Solicitor General had argued 
+that Congress did not intend to permit cumulative punishment for 
+both CCE and conspiracy counts in cases where the evidence 
+supporting the conspiracy conviction is the same as the evidence 
+establishing the "in concert" element of the CCE violation. Brief 
+for United States at 14, Mohwish v. United States, 113 S. Ct. 1378 
+(1993). The court of appeals denied Rutledge's petition for 
+rehearing and suggestion for rehearing en banc without explanation 
+on January 3, 1995. (J.A. 48.) 
+
+
+* Rutledge had previously raised Mo/meish in a pro se lewer to the Seventh 
+Circurt, filed pursuant to Rule 28(j) of the Federal Rules of Appellate Procedure, 
+on October 6, 1994, five weeks before the court of appeals issued its judgment 
+and opmmon affirming the district court. 
+
+
+5 
+
+
+Rutledge filed his petition for a writ of certiorari on April 3, 
+1995, requesting that this Court require the Seventh Circuit to 
+conform its approach to multiple guilty verdicts under 21 U.S.C. 
+§§ 846 and 848 to the requirements of the Double Jeopardy Clause, 
+and to the practice adopted by a significant majority of the other 
+circuits. [Current Court procedural metadata omitted] 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Application of three of this Court's cases requires that the court 
+below be reversed and one of Rutledge's convictions and sentences 
+be vacated: Jeffers v. United States, 432 U.S. 137 (1977); Garrett 
+v. United States, 471 U.S. 773 (1985); and Ball v. United States, 
+470 U.S. 856 (1985). 
+
+
+There is no dispute in this case that Rutledge's conspiracy 
+conviction rests on the very same conduct that the Government used 
+to prove the “in concert” element of the CCE offense. Neverthe- 
+less, since 1986, the Seventh Circuit has endorsed the entry of 
+separate judgments of conviction and imposition of concurrent 
+sentences when a jury returns guilty verdicts on CCE and con- 
+spiracy counts. It is the only circuit to do so; nine others prohibit 
+the entry of judgment and imposition of sentence on both, while two 
+permit judgment but prohibit even concurrent sentences. Hence, the 
+Seventh Circuit alone holds the Double Jeopardy Clause satisfied 
+so long as the total length of the concurrent sentences imposed on 
+the CCE and conspiracy judgments does not exceed the maximum 
+authorized under one of the offenses of conviction. 
+
+
+This approach by the Seventh Circuit to multiple guilty verdicts 
+in the context of combined CCE and conspiracy prosecutions 
+contradicts this Court's Double Jeopardy Clause ruling in Jeffers v. 
+United States, 432 U.S. 137 (1977), which this Court reaffirmed 
+in Garrett v. United States, 471 U.S. 773 (1985). In Jeffers, this 
+Court concluded that Congress did not intend to provide for 
+cumulative punishment under the conspiracy and CCE statutes in 
+
+
+6 
+
+
+cases in which the same facts form the basis for both the conspiracy 
+count and the concerted action element of the CCE charge. And 
+in Garrett, this Court explicitly approved the rationale and holding 
+of Jeffers. Congress, although it has otherwise amended both the 
+conspiracy and CCE statutes since this Court decided Garrett, has 
+left standing this Court's conclusion that Congress did not intend 
+the two statutes to provide cumulative punishment based on the same 
+underlying conduct. 
+
+
+The Double Jeopardy Clause bars imposition of multiple punish- 
+ments not authorized by the legislature, either in a single proceeding 
+or in successive proceedings. Because Congress did not intend 
+courts to impose cumulative punishment for CCE and conspiracy 
+convictions based upon the same course of conduct, the Constitution 
+forbids courts from entering judgments of conviction on both guilty 
+verdicts. A fortiori, the imposition of concurrent sentences is 
+impermissible. In Ball v. United States, 470 U.S. 856 (1985), this 
+Court held that the entry of a judgment of conviction is punishment 
+in and of itself. Accordingly, the Ball Court concluded that when 
+Congress did not express an intent to impose cumulative punish- 
+ment, the Double Jeopardy Clause proscribes the entry of dual 
+judgments of conviction, and consequently the imposition of 
+concurrent sentences for a single course of conduct that violates 
+more than one federal criminal statute. 
+
+
+Therefore, when the jury returned verdicts of guilty against 
+Rutledge on both the CCE and the conspiracy counts, the district 
+court should have entered judgment and imposed a sentence on only 
+one of those verdicts. That is the only approach consistent with this 
+Court's decisions in Jeffers, Garrett, and Ball. That approach also 
+furthers the purpose of the Double Jeopardy Clause by mitigating 
+the dangers of prosecutorial overreaching inherent in the distinctly 
+modern practice of routinely bringing multiple-count indictments 
+based on a single course of conduct — a practice that is itself a 
+byproduct of the relatively recent explosive proliferation of criminal 
+Statutes. 
+
+
+7 
+
+
+Unless Congress clearly expresses its intent to permit cumula- 
+tive punishment for a single course of conduct, the Double Jeopardy 
+Clause prohibits both the entry of multiple judgments of conviction 
+and the imposition of multiple sentences under different statutes. 
+The per se rule that this Court adopted in Ball with respect to the 
+Double Jeopardy Clause also vindicates fundamental principles of 
+separation of powers and the criminal defendant's due process 
+interest in not being subject to a greater sanction than that con- 
+templated by the legislature. The Seventh Circuit's judgment 
+affirming the district court's multiple judgments and concurrent 
+sentences accordingly should be reversed, and the case should be 
+remanded for the limited purpose of vacating one of the two 
+
+
+judgments and its corresponding sentence. 
+
+
+THE SEVENTH CIRCUIT'S PRACTICE OF ALLOWING 
+ENTRY OF JUDGMENTS OF CONVICTION AND CONCUR- 
+RENT SENTENCES ON CCE AND CONSPIRACY VERDICTS 
+IN CASES INVOLVING A SINGLE COURSE OF CONDUCT 
+VIOLATES THE FIFTH AMENDMENT. 
+
+
+This Court has long recognized that the Double Jeopardy Clause 
+protects the criminal defendant against both multiple prosecunons 
+and multiple punishments. Departmers of Reverme of Mortana v 
+Kurth Ranch, 114 S. Ct. 1937, 1941 n.1 (1994), citing North 
+Carolina v. Pearce, 395 U.S. 711, 717 (1969). Just last term, the 
+Court reaffirmed that “the Constitution was designed as much to 
+prevent the criminal from being twice punished for the same offence 
+as from being twice tried for it." Witte v. United States, 115 S. Ct. 
+2199, 2204 (1995), quoting Ex Parte Lange, 85 U.S. (18 Wall.) 
+163, 173 (1874). That protection against multiple punishments has 
+“deep roots in our history and jurisprudence.” Uhsited States v. 
+Halper, 490 U.S. 435, 440 (1989). 
+
+
+In recent years, the Court has emphasized that the Doubie 
+Jeopardy Clause's prohibition against multiple pumshments 
+
+
+specifically prohibits a court from imposing multiple or cumulative 
+punishment for particular conduct when such punishment is not 
+intended by the legislature. See Whalen v. United States, 445 U.S. 
+684, 689 (1980) ("If a federal court exceeds its own authority by 
+imposing muluple punishments not authorized by Congress, it 
+violates not only the specific guarantee against double jeopardy , but 
+also the constitutional principle of separation of powers in a manner 
+that trenches particularly harshly on individual liberty"); id. at 697 
+(Blackmun, J., concurring in the judgment) (only function of Double 
+Jeopardy Clause in multiple punishments context "is to prevent. . . 
+Legislative Branch intended”); id. at 701 (Rehnquist, J., dissenting) 
+(in imposing muluple punishments in single proceeding, dispositive 
+question is “whether Congress intended to authorize separate 
+punishments for the two crimes"). The Double Jeopardy Clause 
+does not proscribe judicial enforcement in a single proceeding of a 
+legislature's intentional enactment of multiple punishments for 
+separately enumerated offenses. Missouri v. Mader, 459 U.S. 359, 
+368-69 (1983); see also Whalen, 445 U.S. at 688. When Congress 
+does not authorize cumulative punishment, however, entry of 
+multiple judgments of conviction and the imposition of multiple 
+concurrent sentences are constitutionally forbidden. Ball v. United 
+Sates, 470 U.S. 856, 864-65 (1985). Thus, the Double Jeopardy 
+Clause bars multiple punishments in two specific circumstances: 
+_|\ when muluple punishments are imposed for the same conduct 
+m successive proceedings, regardless of legislative imtemt; and 
+-) when the legrsiature did not intend to impose multiple punish- 
+ments for the same conduct. regardless of whether those punish- 
+ments are umposed m single or multiple proceedings. 
+
+The present case falls within the second of these categories. 
+ongress dic not authorize the muluple punishments imposed on 
+Rutiedge Thas Court already has determined that Congress did not 
+mend cumulative pumshmen for violanons of the two statutes at 
+ssuc bere. 21 U SC §§ 846 and 848. where. as im this case, the 
+proof of the “im concert” element of the CCE offense is essentially 
+
+
+9 
+
+
+identical to the proof of the conspiracy. Jeffers v. United States, 
+432 U.S. 137, 155-57 (1977); accord Garrett v. United States, 471 
+U.S. 773, 794 (1985). Therefore, the district court imposed 
+constitutionally proscribed multiple punishments, even though it 
+entered the judgments and imposed the sentences in a single 
+proceeding. 
+A. Congress Did Not Intend To Impose Cumulative 
+Punishment For A Single Course Of Conduct Under 
+
+
+Both 21 U.S.C. § 848 (Continuing Criminal Enterprise) 
+And 21 U.S.C. § 846 (Conspiracy). 
+
+
+In this case, as in all Fifth Amendment challenges to multiple 
+punishments, the threshold question is whether the legislature 
+intended to impose cumulative punishment for a single course of 
+conduct that violates more than one criminal statute. Garrett v. 
+United States, 471 U.S. 773, 778 (1985). If Congress has not 
+authorized cumulative punishment for violation of the conspiracy 
+statute (21 U.S.C. § 846) and CCE stanute (21 U.S.C. § 848), then 
+the Double Jeopardy Clause bars such punishment. See Whalen v. 
+United States, 445 U.S. 684, 688-89 (1980); see also id at 701 
+(Rehnquist, J., dissenting). A court imposing multiple punishments 
+not authorized by Congress violates both the specific guarantee 
+againsi double jeopardy and the constimutional principle of separation 
+of powers. Jd. at 689 (foomote omitted). 
+
+
+This Court has already answered that threshold question with 
+respect to 21 U.S.C. §§ 846 and 848. In Jeffers v. United States, 
+432 U.S. 137, 155-56 (1977), Justice Blackmun, writing for a four- 
+Justice , concluded that Congress did not intend “to allow 
+
+punishment for violations of §§ 846 and 848." Upon 
+careful analysis, the plurality conchaded that both statutes are 
+directed at the incremental harm associated with concerted activiry 
+im the area of narcotics wafficking 432 US a 157. The 
+-oncurring optmon of Justice Stevens jomed by the remaining three 
+jusnces who heard the case. agreed with the pluraliry that cumula 
+ave pumishmem may not be imposed for violations of §§ 846 and 
+
+
+10 
+
+
+848. Jd. at 160. Thus the Court concluded, unanimously, that 
+Congress did not intend to authorize cumulative punishment for 
+conduct that violates both the conspiracy and CCE statutes, and that 
+the Double Jeopardy Clause therefore bars such cumulative 
+punishment. 
+
+This Court reaffirmed the Jeffers analysis of Congress's intent 
+in Garrett v. United States, 471 U.S. 773 (1985). There, this Court 
+expressly approved the plurality opinion in Jeffers holding that the 
+Double Jeopardy Clause prohibits imposing cumulative penalties for 
+guilty verdicts on CCE and conspiracy counts. Garrett, 471 U.S. 
+at 794 (the Jeffers plurality “reasonably concluded that the dangers 
+posed by a conspiracy and a CCE were similar and thus there would 
+be little purpose in cumulating the penalties"). The Court ultimately 
+held that Congress did envision cumulative sentences for conduct 
+that violates both the CCE statute and a substantive drug statute such 
+as 21 U.S.C. § 841(aX(1). id 
+
+
+The Seventh Circuit apparently misreads Garrett as altering the 
+principle articulated in Jeffers — rather than reaffirming its holding 
+in the conspiracy context. See United States v. Bafia, 949 F.2d 
+1465, 1472 (7th Cir. 1991), cert. denied, 112 S. Ct. 1989 (1992) 
+(stating that Supreme Court authorized multiple punishments under 
+21 U.S.C. §§ 846 and 848 when it “affirmed Garrett's sentence 
+which included concurrent sentences for CCE and conspiracy con- 
+victions"). Bafia is incorrect in this regard. While the defendant 
+in Garrett also had been convicted of conspiracy under 21 U.S.C. 
+§ 846, 471 U.S. at 776, the petitioner in Garrett did not challenge 
+that conviction in this Court. See 52 U.S.L.W. 3912 Gune 19, 
+1984) (questions presented in petition for certiorari in No. 83-1842). 
+Therefore, this Court's opinion dealt exclusively with the interaction 
+of CCE and substantive offenses. Where this Court does not 
+address a particular issue in its opinion, the opinion's silence on that 
+issue may not be taken as approval of the action of the court below 
+with respect to that point. See United States v. LA Tucker Truck 
+Lines, Inc., 344 U.S. 33, 38 (1952) (refusing to consider as 
+
+
+11 
+
+
+precedent for jurisdiction other opinions in which Court took 
+jurisdiction without discussion); see also Usery v. Turner Elkhorn 
+Mining Co., 428 U.S. 1, 14 (1976) (summary affirmance not a stare 
+decisis barrier to Court now considering the merits). 
+
+
+The basis for the finding in Jeffers that Congress did not intend 
+cumulative punishment for CCE and conspiracy violations was that 
+both statutes are aimed at the same “additional dangers posed by 
+concerted activity." Jeffers, 432 U.S. at 157. There is, however, 
+no such duplication between the purposes of substantive drug 
+offenses and the proscription of continuing criminal enterprises 
+found in 21 U.S.C. § 848, the CCE statute. As Garrett itself makes 
+clear, the distinction between conspiracy and substantive offenses 
+is dispositive in this context. See 471 U.S. at 794. 
+
+
+The Court's interpretation of congressional intent in Jeffers and 
+Garrett was subsequently confirmed when Congress amended both 
+21 U.S.C. § 846 and 21 U.S.C. § 848 in the years following 
+Garrett but did not enact any amendment to change this Court's 
+ruling that a court cannot impose cumulative punishment under both 
+statutes for a single course of conduct. See, e.g, Anti-Drug Abuse 
+Act of 1988, Pub. L. No. 100-690, Title VI, § 6470(a), 102 Stat. 
+4377 (1988) (amending 21 U.S.C. § 846); id, Title VI, § 6481, 
+Title VII, 7001, 102 Stat. 4382, 4387-88 (1988) (amending 21 
+U.S.C. § 848); Violent Crime Control Act of 1994, Pub. L. No. 
+103-322, Title XXXII, §§ 330003(e), 330009(d), 330014, 108 Stat. 
+2141, 2143, 2146 (1994) (amending 21 U.S.C. § 848). Congress 
+“is presumed to be aware of an administrative or judicial interpreta- 
+tion of a statute and to adopt that interpretation when it re-enacts 
+a statute without change.” Lorillard v. Pons, 434 U.S. 575, 580 
+(1978); see also Keene Corp. v. United States, 113 S. Ct. 2035, 
+2043 (1993) (same). Where, as here, Congress revisits those 
+statutes several times without disturbing this Court's specific, 
+reiterated, and authoritative interpretation of their punitive effect, 
+the presumption in favor of the prior judicial interpretation is all the 
+stronger. 
+
+
+12 
+
+
+Garrett's analysis of the interaction between CCE and 
+substantive offenses did not affect the Court's conclusion in Jeffers 
+that Congress did not intend to impose a cumulative penalty on a 
+defendant convicted of CCE and conspiracy violations in cases 
+involving a single course of conduct. It is, and should remain, the 
+view of this Court that the Double Jeopardy Clause forbids the 
+imposition of cumulative punishment for CCE and conspiracy 
+violations based on the same concerted activity. 
+
+B. The Seventh Circuit's Practice Of Allowing Entry Of 
+Judgments of Conviction And Imposition of Concurrent 
+Sentences Upon Guilty Verdicts For Both CCE And 
+Conspiracy Counts Involving Identical Conduct Im- 
+permissibly Sanctions Cumulative Punishment Proscrib- 
+ed By The Fifth Amendment. 
+
+Given this Court's holding that Congress did not intend to 
+impose cumulative punishment for a single course of conduct under 
+the CCE and conspiracy statutes, the Double Jeopardy Clause bars 
+not only the imposition of concurrent sentences on both counts, but 
+also the entry of judgments of conviction on both verdicts. That 
+conclusion follows from this Court's decision in Ball v. United 
+States, 470 U.S. 856 (1985). In Baill, this Court held that Congress 
+did not intend to allow cumulative punishment for the same conduct 
+that resulted in separate violations of statutes prohibiting receiving 
+a firearm (18 U.S.C. § 922(h)(1)) and possessing the same firearm 
+(18 U.S.C. § 1202(aX(1)). Jd at 865. The Court stressed that 
+punishment prohibited by the Double Jeopardy Clause, see North 
+Carolina v. Pearce, 395 U.S. 711, 717 (1969), includes “a criminal 
+conviction and not simply the imposition of sentence.” Ball, 470 
+U.S. at 861. Moreover, this Court held in Ball that “[t}he second 
+conviction, whose concomitant sentence is served concurrently , does 
+not evaporate simply because of the concurrence of the sentence ” 
+Id. at 864-65. Accordingly, this Court held without dissent that 
+"the second conviction, even if it results in no greater sertence, is 
+an impermissible punishment.” Jd. at 865 (emphasis supplied) 
+
+
+13 
+
+
+Under Ball, the Double Jeopardy Clause forbids even the entry 
+of a second judgment of conviction in cases where the legislature 
+did not imtend cumulative punishmem, regardless of whether that 
+second judgment has any tangible effect on the defendamt. Because 
+Ball held that the unauthorized additional judgment by mseif violates 
+the Double Jeopardy Clause, the unconsutuonaisty of that padgmers 
+does not turn upon the existence ve/ non of foreseeabie or unforesee- 
+able collateral consequences. The Court m Bail did xtentify potenna! 
+consequences that might possibly arse following the ery of 
+muluple judgments of convicnon m vioianon of the Doubie Jeoparcy 
+Clause. For example, Aail noted that the presence of two comvx 
+Uons on the record might, among other things, resull m an mcreasec 
+sentence under some recidivist statute mmplicated at some later ume 
+or be used to mmpeach the defendam'’s credibility m some later 
+proceeding. id a 865. The Court also observed that the second 
+judgment of conviction “carries the societal sugma accompany ing 
+any criminal conviction.” an incremental punushmer that s alway: 
+presem when a court emers multiple fadgmerss of comvicuon i 
+
+
+The Court m Ball did ux, however. rety on the existence o 
+
+
+magnitude of the secomd judgments powmtial side cfiece © 
+determumung whether the Doubie Jeoparty Clause has deer oun 
+0 the first mstamce indeed. the Court already had recogmuec © 
+effers that double jeopardy prncapies appty regardiess ¢ eneme 
+they have any measurable effect on the defendam > mcarcerac 
+There, the Court sail beid Ghat cumulative pumishemest axder 2 
+USC §§ 846 and 848 viotates the Double Jeopardy Clause even 
+chough = noted that ms Soiding was “of mmor nigmificance © he 
+particular case.” 432 US. at 157. because he Gowerument couk’ 
+obtm the same prison semeence bv charging he ieferciame wot | 
+“olaton of only Section 848 
+
+
+Ball aibows the Goverument © coum mule coum mxhcmern 
+aleging separate offenses for whach te eguismure ft xe me 
+UWA Ve purESinem amd © subut Dose summits cu 
+
+
+14 
+
+
+the jury. However, Ball establishes a per se rule that prohibits the 
+entry of judgment and imposition of sentence on both offenses. 
+
+
+Per se rules like the one in Ball are favored because they are 
+predictable and easy to use, and therefore conserve precious judicial 
+resources. This Court has formulated such bright-line rules specifi- 
+cally to protect the constitutional rights of criminal defendants. See, 
+e.g., Michigan v. Jackson, 475 U.S. 625 (1986) (per se rule that 
+after defendant requests assistance of counsel, any waiver of Sixth 
+Amendment right to counsel is invalid); Edwards v. Arizona, 451 
+U.S. 477 (1981) (in furtherance of Fifth Amendment protections 
+discussed in Miranda v. State of Arizona, 384 U.S. 436 (1966), per 
+se rule is that questioning of suspect must cease as soon as he or she 
+asks for lawyer). 
+
+The merit of a bright-line rule “lies in the clarity of its 
+command and the certainty of its application." Mirmick vy. 
+Mississippi, 498 U.S. 146, 151 (1990). Such a rule conserves 
+judicial resources that would otherwise be expended in making 
+difficult case-by-case determinations and implements existing 
+constitutional protections in practical and straightforward terms. Jd. 
+In a variety of settings, this Court has avoided imposing case-by- 
+case analysis requirements where the "clarity and ease of applica- 
+tion" of an existing per se rule would be lost. See, e.g., Davis v. 
+United States, 114 §. Ct. 2350, 2356 (1994) (refusing to create 
+exception to "bright line" Edwards requirement that request for 
+counsel be unambiguous before interrogation must cease). 
+
+The categorical rule in Ball serves the laudable goals of bright- 
+line rules in general. It is unambiguous and easy to administer. 
+Indeed, nine circuits already apply this rule to cumulative punish- 
+ment under 21 U.S.C. §§ 846 and 848 with no difficulty. See p. 
+17, infra. The Ball rule prevents the violation of a defendant's 
+rights under the Double Jeopardy Clause without interfering with 
+the trial of the case in any way, because it only comes into play if 
+and when a jury returns guilty verdicts upon two or more cumula- 
+tive counts. Indeed, it may well serve to simplify trials by 
+
+
+=~ 
+
+
+15 
+
+
+diminishing the incentive "for prosecutors to spin out a startlingly 
+numerous series of offenses from a single alleged criminal transac- 
+tion" that came with “the advent of specificity in [legislative] 
+
+
+(1970). Furthermore, the Ball rule avoids requiring a district court 
+to rely on prophesy to predict whether any conceivable harm would 
+ever result to a defendant before entering judgments of conviction 
+under both Sections 846 and 848. 
+
+
+On the other hand, without the Ball per se rule, trial courts will 
+have to attempt to predict the future before vindicating a criminal 
+defendant's double jeopardy rights. This approach would thwart a 
+fundamental constitutional protection without any corresponding 
+benefit to the administration of justice. To the contrary, at best the 
+
+
+16 
+
+
+conviction is itself a punishment forbidden by the Double Jeopardy 
+Clause.” 
+
+
+There is little societal cost to using the Ball per se rule. By 
+definition, in a case in which the imposition of the cumulative 
+judgment and sentence on the defendant will have absolutely no 
+tangible effect on punishment, the fact that the defendant is not 
+adjudged guilty and sentenced for the cumulative offense will not 
+shorten his or her sentence. In sharp contrast to Miranda, for 
+example, which imposes substantial costs on society "by requiring 
+the suppression of trustworthy and highly probative evidence,” 
+Minnick, 498 U.S. at 151, the Ball rule effectuates a fundamental 
+
+When the jury returned verdicts of guilty against Rutledge on 
+both the CCE and the conspiracy counts, the district court entered 
+judgment and imposed a sentence on each of those verdicts, 
+including separate $50 special assessments pursuant to 18 U.S.C. 
+§ 3013. As this Court's decisions in Jeffers and Ball demonstrate, 
+
+
+® Furthermore, the concept of “harmless error” is completely inapplicable 
+here. Under a common formulation of this doctrine, “if the prosecution can 
+prove beyond a reasonable doubt that a constitutional error did not contribute 
+to the verdict, the error is harmless and the verdict may stand." Satterwhite v. 
+Texas, 486 U.S. 249, 256 (1988) (emphasis added), citing Chapman v. Califor- 
+nia, 386 U.S. 18, 24 (1967) (“harmless error” doctrine applies unless constitu- 
+tional right violated is so basic to a fair trial that any infraction cannot be 
+treated as “harmless error"); see also Brecht v. Abrahamson, 113 S. Ct. 1710, 
+1714 (1993) (on collateral review, error is harmless and habeas relief unwar- 
+ranted if error did not have “substantial and injurious effect or influence in 
+determining the jury's verdict") (emphasis supplied), citing Kotteakos v. United 
+States, 328 U.S. 750, 776 (1946). This doctrine is concerned exclusively with 
+the fairness of the trial and whether the jury's verdict would have been 
+different had the constitutional error not occurred. See Rase v. Clark, 478 
+U.S. 570, 587 (1986) (Stevens, J., concurring) (violations not related to the 
+truth-seeking function of a trial are not subject to the “harmless error” doct- 
+rine). In contrast, the constitutional violation that Rutledge has suffered has no 
+bearing on the jury verdict because the violation did not occur until after the 
+verdicts were returned, when the court entered the judgments and sentences on 
+the multiple convictions. 
+
+
+17 
+
+
+that violated the Double Jeopardy Clause. Avoiding that violation, 
+though, could not have been more simple. Had the court merely 
+entered judgment and imposed sentence on one of the two counts, 
+the constitutional violation would not have occurred. 
+
+
+In fact, the straightforward application of Ball in the context of 
+combined CCE and conspiracy prosecutions already is in effect 
+throughout most of the nation. Nine courts of appeals have held 
+that Ball, when considered in conjunction with Jeffers and Garrett, 
+forbids the imposition of multiple judgments and concurrent 
+sentences for both CCE and conspiracy violations in cases involving 
+the same underlying conduct. See, e.g, United States v. Rivera- 
+Martinez, 931 F.2d 148, 153 (1st Cir.), cert. denied, 502 U.S. 862 
+(1991); United States v. Butler, 885 F.2d 195, 202 (4th Cir. 1989); 
+United States v. Neal, 27 F.3d 1035, 1054 (Sth Cir. 1994), cert. 
+denied, 115 S. Ct. 1165 (1995); United States v. Paulino, 935 F.2d 
+739, 751 (6th Cir. 1991), cert. denied, 502 U.S. 1036 (1992); 
+United States v. Possick, 849 F .2d 332, 341 (8th Cir. 1988); United 
+States v. Hernandez-Escarsega, 886 F.2d 1560, 1582 (9th Cir. 
+1989), cert. denied, 497 U.S. 1003 (1990); United States v. 
+Stallings, 810 F.2d 973, 976 (10th Cir. 1990); United States v. 
+Cruz, 805 F.2d 1464, 1479 (11th Cir. 1986), cert. denied, 481 U.S. 
+1006 (1987); United States v. Anderson, 39 F.3d 331, 357 (D.C. 
+Cir. 1994), reversed on other grounds, 59 F.3d 1323 (D.C. Cir. 
+1995) (en banc)” Even before this Court's opinion in Ball, a 
+number of courts of appeals had ruled that the Double Jeopardy 
+Clause bars both entry of judgment and imposition of concurrent 
+
+
+18 
+
+
+sentences on separate CCE and conspiracy counts. See, e.g, United 
+States v. Webster, 639 F.2d 174, 182 (4th Cir. 1981), modified in 
+part on other grounds, 669 F.2d 186 (4th Cir.), cert. denied, 456 
+U.S. 935 (1982); United States v. Michel, 588 F.2d 986, 1001 (Sth 
+Cir.), cert. denied, 444 U.S. 825 (1979); United States v. Dickey, 
+736 F.2d 571, 597 (10th Cir. 1984), cert. denied, 469 U.S. 1188 
+(1985); United States v. Graziano, 710 F.2d 691, 699 (11th Cir. 
+1983), cert. denied, 466 U.S. 937 (1984); United States v. Smith, 
+703 F.2d 627, 628 (D.C. Cir. 1983). Indeed, the Seventh Circuit 
+is the only court of appeals that allows the imposition of concurrent 
+sentences notwithstanding the clear holdings of Jeffers, Garrett, and 
+Ball.¥ 
+
+
+The Seventh Circuit has refused to draw the line at the jury's 
+return of a guilty verdict, as Ball mandated. In United States v. 
+Bond, 847 F.2d 1233, 1239 (7th Cir. 1988), the court sought to 
+distinguish Ball on the ground that Ball only prohibits convictions 
+for violations of separate statutes which “create identical offenses." 
+That distinction cannot be sustained, however, in light of Ball's 
+express focus on the question of legislative intent. Under Ball, once 
+a court finds that Congress did not intend a defendant's conduct to 
+be punishable under two separate statutes, “[o}ne of the convictions, 
+as well as its concurrent sentence, is unauthorized punishment for 
+a separate offense." Ball, 470 U.S. at 864. 
+
+
+; ; , 634 
+Cir. 1985) (permitting “combined” judgment of conviction on both CCE 
+conspiracy counts, and imposition of single sentence); United States v. Fernan- 
+dez, 916 F.2d 125, 128-29 (3d Cir. 1990) (permitting separate CCE and 
+conspiracy judgments, but imposition of only one sentence), cert. denied, 500 
+U.S. 948 (1991). 
+
+
+19 
+
+
+848 should end the double jeopardy inquiry. This conclusion as to 
+Congress's intent automatically implicates the Ball prohibition 
+against multiple convictions, not just multiple sentences, and “the 
+only remedy consistent with the congressional intent is for the 
+District Court . . . to vacate one of the underlying convictions." 
+Ball, 470 U.S. at 864. The Court's emphasis in Bail on the 
+impropriety of even a concurrent sentence under the Double 
+Jeopardy Clause further demonstrates that when a criminal 
+defendant's rights under the Double Jeopardy Clause are implicated, 
+those rights must be protected regardless of the practical effect on 
+the anticipated length of the defendant's incarceration or any other 
+collateral consequences. 
+
+
+20 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, Petitioner Tommy L. Rutledge 
+respectfully requests that this Court reverse the judgment of the 
+United States Court of Appeals for the Seventh Circuit and remand 
+with a direction to vacate Rutledge's judgment of conviction and 
+sentence under either Count 1 or Count 2 of the indictment. ) 
+
+
+Respectfully submitted, 
+Barry Levenstam 
+Counsel of Record 
+JENNER & BLOCK 
+One IBM Plaza 
+Chicago, Illinois 60611 
+(312) 222-9350 
+
+Jerold S. Solovy 
+
+Avidan J. Stern 
+
+Jacob I. Corré 
+
+JENNER & BLOCK 
+
+One IBM Plaza 
+
+
+Chicago, Illinois 60611 
+(312) 222-9350 
+
+
+Dated: August 25, 1995 
+
+
+RELEVANT CONSTITUTIONAL AND 
+STATUTORY PROVISIONS 
+
+
+United States Constitution: 
+Amend V- 
+
+
+No person shall be held to answer for a capital, or otherwise 
+infamous crime, unless on a presentment or indictment of a Grand 
+Jury, except in cases arising in the land or naval forces, or in the 
+Militia, when in actual service in time of War or public danger; 
+nor shall any person be subject for the same offence to be twice put 
+in jeopardy of life or limb; nor shall be compelled in any criminal 
+case to be a witness against himself, nor be deprived of life, liberty, 
+or property, without due process of law; nor shall private property 
+be taken for public use, without just compensation. 
+
+
+United States Code, Title 21:” 
+§ 841. Prohibited Acts A 
+(a) Unlawful acts 
+Except as authorized by this subchapter, it shall be unlawful for 
+any person knowingly or intentionally 
+(1) to manufacture, distribute, or dispense, or possess with 
+intent to manufacture, distribute, or dispense, a controlled 
+substance; or 
+
+
+(2) to create, distribute, or dispense, or possess with intent 
+to distribute or dispense, a counterfeit substance. 
+
+
+~ The statutes set forth in this Appendix reflect all amendments to date. The 
+particular substance of amendments enacted after the time of the incidents set 
+forth in the superseding indictment of Rutledge did not materially affect the 
+statutes for purposes of this appeal. 
+
+
+24 3a 
+
+
+(b) Penalties (vi) 400 grams or more of a mixture or substance 
+Except as otherwise provided in‘section 849, 859, 860, or 861 containing a detectable amount of N-phenyl-N-[1-(2- 
+
+
+of this title, any person who violates subsection (a) of this section phenylethyl)-4-piperidinyl} propanamide or 100 grams or 
+shall be sentenced as follows: as more of a mixture o substance containing a detectable 
+
+
+(1) (A) In the case of a violation of subsection (a) of this 
+section involving 
+
+(i) 1 kilogram or more of a mixture or substance 
+containing a detectable amount of heroin; 
+
+
+(ii) 5 kilograms or more of a mixture or substance 
+containing a detectable amount of 
+
+
+(I) coca leaves, except coca leaves and extracts 
+of coca leaves from which cocaine, ecgonine, and 
+derivatives of ecgonine or their salts have been 
+removed; 
+
+(II) cocaine, its salts, optical and geometric 
+isomers, and salts of isomers: 
+
+(Ill) ecgonine, its derivatives, their salts, 
+isomers, and salts of isomers; or 
+
+(IV) any compound, mixture, or preparation 
+
+
+which contains any quantity of any of the substances 
+referred to in subclauses (1) through (III); 
+
+
+(iii) 50 grams or more of a mixture or substance 
+described in clause (ii) which contains cocaine base: 
+(tv) 100 grams or more of phencyclidine (PCP) or 1 
+kilogram or more of a mixture or substance 
+a detectable amount of phencyclidine (PCP): 
+
+
+(v) 10 grams or more of a mixture or substance 
+containing a detectable amount of lysergic acid die- 
+thylamide (LSD); 
+
+
+amount of amy amalogue of N-phenyl-N-[1-(2- 
+phenylethyl)-4-piperidiny!] propanamide; 
+
+(vii) 1000 kilograms or more of a mixture or 
+substance containing a detectable amount of marijuana, 
+or 1,000 or more marijuana plants regardless of weight: 
+
+
+or 
+
+
+(viii) 100 grams or more of methamphetamine, its 
+salts, isomers, and salts of its isomers or 1 kilogram or 
+more of a mixture or substance containing a detectable 
+amount of methamphetamine, its salts, isomers, or salts 
+of its isomers; 
+
+
+such person shall be sentenced to a term of imprisonment 
+which may not be less than 10 years or more than life and 
+if death or serious bodily injury results from the use of such 
+substance shall be not less than 20 years or more than life, 
+a fine not to exceed the greater of that authorized in accor- 
+dance with the provisions of Title 18, or $4,000,000 if the 
+defendant is an individual or $10,000,000 if the defendant is 
+other than an individual, or both. If any person commits 
+such a violation after a prior conviction for a felony drug 
+offense has become final, such person shall be sentenced to 
+a term of imprisonment which may not be less than 20 years 
+and not more than life imprisonment and if death or serious 
+bodily injury results from the use of such substance shall be 
+sentenced to life imprisonment, a fine not to exceed the 
+greater of twice that authorized in accordance with the 
+provisions of Title 18, or $8,000,000 if the defendant is an 
+individual or $20,000,000 if the defendant is other than an 
+individual, or both. If any person commits a violation of this 
+subparagraph or of section 849, 859, 860, or 861 of this title 
+
+
+4a 
+
+
+after two or more prior convictions for a felony drug offense 
+have become final, such person shall be sentenced to a 
+mandatory term of life imprisonment without release and 
+fined in accordance with the preceding sentence. Any 
+sentence under this subparagraph shall, in the absence of such 
+a prior conviction, impose a term of supervised release of at 
+least 5 years in addition to such term of imprisonment and 
+shall, if there was such a prior conviction, impose a term of 
+supervised release of at least 10 years in addition to such 
+term of imprisonment. Notwithstanding any other provision 
+of law, the court shall not place on probation or suspend the 
+sentence of any person sentenced under this 
+No person sentenced under this subparagraph shall be eligible 
+for parole during the term of imprisonment imposed therein. 
+(Pub.L. 91-513, Tithe I, § 401, Oct. 27, 1970, 84 Stat. 1260; Pub.L. 95-633, 
+Title II, § 201, Nov. 10, 1978, 92 Stat. 3774; Pub.L. 96-359, § 8(c), Sept. 26, 
+1980, 94 Stat. 1194; Pub.L. 98-473, Title Il, §§ 224(a), 502, 503(b)(1), (2), Oct. 
+12, 1984, 98 Stat. 2030, 2068, 2070; Pub.L. 99-570, Title I, § 1005(a), Oct. 
+27, 1986, 100 Stat. 3207-6; Pub.L. 99-570, Title I, §§ 1002, 1003(a), 1004(a), 
+1103, Tithe XV, § 15005, Oct. 27, 1986, 100 Stat. 3207-2, 3207-5, 3207-6, 
+3207-11, 3207-192; Pub.L. 100-690, Title VI, §§ 6055, 6254(h), 6452(a), 6470(g), 
+(h), 6479, Nov. 18, 1988, 102 Stat. 4318, 4367, 4371, 4378, 4382; Pub.L. 
+101-647, Title X, § 1002(e), Title XII, § 1202, Tithe XXXV, § 3599K, Nov. 29, 
+1990, 104 Stat. 4828, 4830, 4932; Pub.L. 103-322, Title IX, § 90105(a), (c), 
+Tithe XVIII, § 180201(b)(2)(A), Sept. 13, 1994, 108 Stat. 1987, 1988, 2047.) 
+
+
+§ 846. Attempt and conspiracy 
+
+Any person who attempts or conspires to commit any offense 
+defined in this subchapter shall be subject to the same penalties as 
+those prescribed for the offense, the commission of which was the 
+object of the attempt or conspiracy. 
+
+
+(Pub.L. 91-513, Title Il, § 406, Oct. 27, 1970, 84 Stat. 1265; amended Pub.L. 
+100-690, Title VI, § 6470(a), Nov. 18, 1988, 102 Stat. 4377.) 
+
+
+Sa 
+
+
+$ 848. Contimdng criminal enterprise 
+
+(a) Penalties: forfeitures 
+
+Any person who engages in a continuing criminal enterprise shall 
+be sentenced to a term of imprisonment which may not be less than 
+20 years and which may be up to life imprisonment, to a fine not 
+to exceed the greater of that authorized in accordance with the 
+provisions of Title 18, or $2,000,000 if the defendant is an 
+individual or $5,000,000 if the defendant is other than an individual, 
+and to the forfeiture prescribed in section 853 of this chapter; except 
+that if any person engages in such activity after one or more prior 
+convictions of him under this section have become final, he shall 
+be sentenced to a term of imprisonment which may not be lews than 
+30 years and which may be up to life imprisonment, to a fine not 
+to exceed the greater of twice the amount authorized in accordance 
+with the provisions of Title 18, or $4,000,000 if the defendant is 
+an individual or $10,000,000 if the defendant is other than an 
+individual, and to the forfeiture prescribed in section 853 of this 
+
+
+chapter. 
+
+
+o) =“ inui sities 
+enterprise 
+
+Any person who engages in a continuing criminal enterprise shall 
+
+be imprisoned for life and fined in accordance with subsection (a) 
+of this section if— 
+
+
+(1) such person is the principal administrator, organizer, or 
+leader of the enterprise or is one of several such principal 
+administrators, organizers, or leaders; and 
+
+
+(2) (A) the violation referred to in subsection (c)(1) of this 
+section involved at least 300 times the quantity of a substance 
+described in subsection 841(b)(1)(B) of this title, or 
+
+
+(B) the enterprise, or any other enterprise in which the 
+defendant was the principal or one of several principal 
+administrators, organizers, or leaders, received $10 million 
+
+
+6a 
+
+
+dollars in gross receipts during any twelve-month period of 
+its existence for the manufacture, importation, or distribution 
+of a substance described in section 841(b)(1)(B) of this title. 
+
+
+(c) “Contiqui ‘minal ise" defined 
+For purposes of subsection (a) of this section, a person is engaged 
+in a continuing criminal enterprise if— 
+(1) he violates any provision of this subchapter or subchapter 
+II of this chapter the punishment for which is a felony, and 
+(2) such violation is a part of a continuing series of violations 
+of this subchapter or subchapter II of this chapter— 
+
+(A) which are undertaken by such person in concert with 
+five or more other persons with respect to whom such person 
+occupies a position of organizer, a supervisory position, or 
+any other position of management, and 
+
+(B) from which such person obtains substantial income 
+or resources. 
+
+
+(d) Suspension of sentence and probation prohibited 
+
+
+In the case of any sentence imposed under this section, imposition 
+or execution of such sentence shall not be suspended, probation shall 
+not be granted, and the Act of July 15, 1932 (D.C.Code, secs. 
+24-203 to 24-207), shall not apply. 
+
+
+(e) Death penalty 
+(1) In addition to the other penalties set forth in this section— 
+
+
+(A) any person engaging in or working in furtherance of 
+a continuing criminal enterprise, or any person engaging in 
+an offense punishable under section 841(b)(1)(A) or section 
+960(b)(1) who intentionally kills or counsels, commands, 
+induces, procures, or causes the intentional killing of an 
+individual and such killing results, shall be sentenced to any 
+term of imprisonment, which shall not be less than 20 years, 
+
+
+7a 
+
+
+and which may be up to life imprisonment, or may be 
+sentenced to death; and 
+
+(B) any person, during the commission of, in furtherance 
+of, or while attempting to avoid apprehension, prosecution 
+or service of a prison sentence for, a felony violation of this 
+subchapter or subchapter II of this chapter who intentionally 
+kills or counsels, commands, induces, procures, or causes the 
+intentional killing of amy Federal, State, or local law 
+enforcement officer engaged in, or on account of, the 
+performance of such officer's official duties and such killing 
+results, shall be sentenced to any term of imprisonment, 
+which shall not be less than 20 years, and which may be up 
+to life imprisonment, or may be sentenced to death. 
+
+
+(2) As used in paragraph (1)(b), the term “law enforcement 
+officer" means a public servant authorized by law or by a 
+Government agency or Congress to conduct or engage in the 
+prevention, investigation, prosecution or adjudication of an 
+offense, and includes those engaged in corrections, probation, or 
+parole functions. 
+
+(g)~ Hearing required with respect to the death penalty 
+
+A person shall be subjected to the penalty of death for any 
+offense under this section only if a hearing is held in accordance 
+with this section. 
+
+
+(h) Notice by the Government in death penalty cases 
+
+
+(1) Whenever the Government intends to seek the death 
+penalty for an offense under this section for which one of the 
+sentences provided is death, the attorney for the Government, a 
+reasonable time before trial or acceptance by the court of a plea 
+of guilty, shall sign and file with the court, and serve upon the 
+defendant, a notice— 
+
+
+= ‘The official statutory compilation skips subsection (f) of 21 U.S.C. § 48. 
+
+
+8a 
+
+
+(A) that the Government in the event of conviction will 
+seek the sentence of death; and 
+
+
+(B) setting forth the aggravating factors enumerated in 
+subsection (n) of this section and any other aggravating 
+factors which the Government will seek to prove as the basis 
+for the death penalty. 
+
+
+(2) The court may permit the attorney for the Government 
+to amend this notice for good cause shown. 
+(i) Hearing before court or jury 
+(1) When the attorney for the Government has filed a notice 
+as required under subsection (h) of this section and the defendant 
+is found guilty of or pleads guilty to an offense under subsection 
+(e) of this section, the judge who presided at the trial or before 
+whom the guilty plea was entered, or any other judge if the judge 
+who presided at the trial or before whom the guilty plea was 
+entered is unavailable, shall conduct a separate sentencing hearing 
+to determine the punishment to be imposed. The hearing shall 
+be conducted— 
+(A) before the jury which determined the defendant's 
+guilt, 
+(B) before a jury impaneled for the purpose of the 
+hearing if— 
+(i) the defendant was convicted upon a plea of guilty; 
+(ii) the defendant was convicted after a trial before 
+the court sitting without a jury; 
+(iii) the jury which determined the defendant's guilt 
+has been discharged for good cause; or 
+(iv) after initial imposition of a sentence under this 
+section, redetermination of the sentence under this section 
+is necessary; or 
+
+
+9a 
+
+
+(C) before the court alone, upon the motion of the 
+defendant and with the approval of the Government. 
+
+
+(2) A jury impaneled under paragraph (1)(B) shall consist of 
+12 members, unless, at any time before the conclusion of the 
+hearing, the parties stipulate with the approval of the court that 
+it shall consist of any number less than 12. 
+
+
+@) Proof. of ; 1 alstoatinn § 
+
+
+Notwithstanding rule 32(c) of the Federal Rules of Criminal 
+Procedure, when a defendant is found guilty of or pleads guilty to 
+an offense under subsection (e) of this section, no presentence report 
+shall be prepared. In the sentencing hearing, information may be 
+presented as to matters relating to any of the aggravating or 
+mitigating factors set forth in subsections (m) and (n) of this section, 
+or any other mitigating factor or any other aggravating factor for 
+which notice has been provided under subsection (h)(1)(B) of this 
+section. Where information is presented relating to any of the 
+aggravating factors set forth in subsection (n) of this section, 
+information may be presented relating to any other aggravating 
+factor for which notice has been provided under subsection (h)(1)(B) 
+of this section. Information presented may include the trial 
+transcript and exhibits if the hearing is held before a jury or judge 
+not present during the trial, or at the trial judge's discretion. Any 
+other information relevant to such mitigating or aggravating factors 
+may be presented by either the Government or the defendant, 
+regardless of its admissibility under the rules governing admission 
+of evidence at criminal trials, except that information may be 
+excluded if its probative value is substantially outweighed by the 
+danger of unfair prejudice, confusion of the issues, or misleading 
+the jury. The Government and the defendant shall be permitted to 
+rebut any information received at the hearing and shall be given fair 
+opportunity to present argument as to the adequacy of the informa- 
+tion to establish the existence of any of the aggravating or mitigating 
+factors and as to appropriateness in that case of imposing a sentence 
+of death. The Government shall open the argument. The defendant 
+
+
+10a 
+
+
+shall be permitted to reply. The Government shall then be 
+permitted to reply in rebuttal. The burden of establishing the 
+existence of any aggravating factor is on the Government, and is not 
+satisfied unless established beyond a reasonable doubt. The burden 
+of establishing the existence of any mitigating factor is on the 
+defendant, and is not satisfied unless established by a preponderance 
+of the evidence. 
+
+
+(k) Return of findings 
+
+
+The jury, or if there is no jury, the court, shall consider all the 
+information received during the hearing. It shall return special 
+findings identifying any aggravating factors set forth in subsection 
+(n) of this section, found to exist. If one of the aggravating factors 
+set forth in subsection (n)(1) of this section and another of the 
+aggravating factors set forth in paragraphs (2) through (12) of 
+subsection (n) of this section is found to exist, a special finding 
+identifying any other aggravating factor for which notice has been 
+provided under subsection (h)(1)(B) of this section, may be 
+returned. A finding with respect to a mitigating factor may be made 
+by one or more of the members of the jury, and any member of the 
+jury who finds the existence of a mitigating factor may consider 
+such a factor established for purposes of this subsection, regardless 
+of the number of jurors who concur that the factor has been 
+established. A finding with respect to any aggravating factor must 
+be unanimous. If an aggravating factor set forth in subsection (n)(1) 
+of this section is not found to exist or an aggravating factor set forth 
+in subsection (n)(1) of this section is found to exist but no other 
+aggravating factor set forth in subsection (n) of this section is found 
+to exist, the court shall impose a sentence, other than death, 
+authorized by law. If an aggravating factor set forth in subsection 
+(n)(1) of this section and one or more of the other aggravating 
+factors set forth in subsection (n) of this section are found to exist, 
+the jury, or if there is no jury, the court, shall then consider 
+whether the aggravating factors found to exist sufficiently outweigh 
+any mitigating factor or factors found to exist, or in the absence of 
+
+
+lla 
+
+
+mitigating factors, whether the aggravating factors are themselves 
+sufficient to justify a sentence of death. Based upon this considera- 
+tion, the jury by unanimous vote, or if there is no jury, the court, 
+shall recommend that a sentence of death shall be imposed rather 
+than a sentence of life imprisonment without possibility of release 
+or some other lesser sentence. The jury or the court, regardless of 
+its findings with respect to aggravating and mitigating factors, is 
+never required to impose a death sentence and the jury shall be so 
+= 
+
+(1) Imposition of sentence 
+
+Upon the recommendation that the sentence of death be imposed, 
+the court shall sentence the defendant to death. Otherwise the court 
+shall impose a sentence, other than death, authorized by law. A 
+sentencé of death shall not be carried out upon a person who is 
+under 18 years of age at the time the crime was committed. A 
+sentence of death shall not be carried out upon a person who is 
+mentally retarded. A sentence of death shall not be carried out upon 
+a person who, as a result of mental disability— 
+
+(1) cannot understand the nature of the pending proceedings, 
+what such person was tried for, the reason for the punishment, 
+or the nature of the punishment; or 
+
+(2) lacks the capacity to recognize or understand facts which 
+would make the punishment unjust or unlawful, or lacks the 
+ability to convey such information to counsel or to the court. 
+
+
+(m) Mitigating factors 
+In determining whether a sentence of death is to be imposed on 
+a defendant, the finder of fact shall consider mitigating factors, 
+including the following: 
+(1) The defendant's capacity to appreciate the wrongfulness 
+of the defendant's conduct or to conform conduct to the require- 
+ments of law was significantly impaired, regardless of whether 
+
+
+12a 13a 
+
+
+unless notice of additional aggravating factors is provided under 
+subsection (h)(1)(B) of this section: 
+
+
+the capacity was so impaired as to constitute a defense to the 
+charge. 
+
+
+(2) The defendant was under unusual and substantial duress, 
+regardless of whether the duress was of such a degree as to 
+constitute a defense to the charge. 
+
+
+(3) The defendant is punishable as a principal (as defined in 
+section 2 of Title 18) in the offense, which was committed by 
+another, but the defendant's participation was relatively minor, 
+regardless of whether the participation was so minor as to 
+constitute a defense to the charge. 
+
+
+(4) The defendant could not reasonably have foreseen that the 
+defendant's conduct in the course of the cOmmission of murder, 
+or other offense resulting in death for which the defendant was 
+convicted, would cause, or would create a grave risk of causing, 
+death to any person. 
+
+
+(5) The defendant was youthful, although not under the age 
+of 18. 
+
+
+(6) The defendant did not have a significant prior criminal 
+record. 
+
+
+(7) The defendant committed the offense under severe mental 
+or emotional disturbance. 
+
+
+(8) Another defendant or defendants, equally culpable in the 
+crime, will not be punished by death. 
+
+
+(9) The victim consented to the criminal conduct that resulted 
+in the victim's death. 
+
+(10) That other factors in the defendant's background or 
+character mitigate against imposition of the death sentence. 
+(n) Aggravating factors for homicide 
+
+
+If the defendant is found guilty of or pleads guilty to an offense 
+under subsection (e) of this section, the following aggravating 
+
+
+factors are the only aggravating factors that shall be considered, 
+
+
+(1) The defendant— 
+
+(A) intentionally killed the victim; 
+
+(B) intentionally inflicted serious bodily injury which 
+resulted in the death of the victim; 
+
+(C) intentionally engaged in conduct intending that the 
+
+
+victim be killed or that lethal force be employed against the 
+victim, which resulted in the death of the victim; 
+
+
+(D) intentionally engaged in conduct which— 
+
+(i) the defendant knew would create a grave risk of 
+death to a person, other than one of the participants in 
+the offense; and 
+
+(ii) resulted in the death of the victim. 
+
+
+(2) The defendant has been convicted of another Federal 
+offense, or a State offense resulting in the death of a person, for 
+which a sentence of life imprisonment or a sentence of death was 
+authorized by statute. 
+
+
+(3) The defendant has previously been convicted of two or 
+more State or Federal offenses punishable by a term of imprison- 
+ment of more than one year, committed on different occasions, 
+involving the infliction of, or attempted infliction of, serious 
+bodily injury upon another person. 
+
+
+(4) The defendant has previously been convicted of two or 
+more State or Federal offenses punishable by a term of imprison- 
+ment of more than one year, committed on different occasions, 
+involving the distribution of a controlled substance. 
+
+
+(5) In the commission of the offense or in escaping ap- 
+prehension for a violation of subsection (e) of this section, the 
+defendant knowingly created a grave risk of death to one or more 
+persons in »ddition to the victims of the offense. 
+
+
+l4a 
+
+
+(6) The defendant procured the commission of the offense by 
+payment, or promise of payment, of anything of pecuniary value. 
+
+(7) The defendant committed the offense as consideration for 
+the receipt, or in the expectation of the receipt, of anything of 
+pecuniar y value. 
+
+(8) The defendant committed the offense after substantial 
+planning and premeditation. 
+
+(9) The victim was particularly vulnerable due to old age, 
+youth, or infirmity. 
+
+(10) The defendant had previously been convicted of violating 
+this subchapter or subchapter II of this chapter for which a 
+sentence of five or more years may be imposed or had previously 
+been convicted of engaging in a continuing criminal enterprise. 
+
+(11) The violation of this title in relation to which the conduct 
+described in subsection (e) of this section occurred was a 
+violation of section 859 of this title. 
+
+(12) The defendant committed the offense in an especially 
+heinous, cruel, or depraved manner in that it involved torture or 
+serious physical abuse to the victim. 
+
+
+(o) Right of the defend matice wit tiecriminati 
+
+
+(1) In any hearing held before a jury under this section, the 
+court shall instruct the jury that in its consideration of whether 
+the sentence of death is justified it shall not consider the race, 
+color, religious beliefs, national origin, or sex of the defendant 
+or the victim, and that the jury is not to recommend a sentence 
+of death unless it has concluded that it would recommend a 
+sentence of death for the crime in question no matter what the 
+race, color, religious beliefs, national origin, or sex of the 
+defendant, or the victim, may be. The jury shall return to the 
+court a certificate signed by each juror that consideration of the 
+race, color, religious beliefs, national origin, or sex of the 
+defendant or the victim was not involved in reaching his or her 
+
+
+15a 
+
+
+individual decision, and that the individual juror would have 
+made the same recommendation regarding a sentence for the 
+crime in question no matter what the race, color, religious 
+beliefs, national origin, or sex of the defendant, or the victim, 
+may be. 
+
+
+(2) Not later than one year from November 18, 1988, the 
+Comptroller General shall conduct a study of the various 
+procedures used by the several States for determining whether or 
+not to impose the death penalty in particular cases, and shall 
+report to the Congress on whether or not any or all of the various 
+procedures create a significant risk that the race of a defendant, 
+or the race of a victim against whom a crime was committed, 
+influence the likelihood that defendants in those States will be 
+sentenced to death. In conducting the study required by this 
+paragraph, the General Accounting Office shall— 
+
+(A) use ordinary methods of statistical analysis, including 
+methods comparable to those ruled admissible by the courts 
+in race discrimination cases under title VII of the Civil Rights 
+Act of 1964 [42 U.S.C.A. § 20006e et seq.]; 
+
+
+(B) study only crimes occurring after January 1, 1976; 
+and 
+
+
+(C)determine what, if any, other factors, including any 
+relation between any aggravating or mitigating factors and the 
+race of the victim or the defendant, may account for any 
+evidence tuat the race of the defendant, or the race of the 
+victim, influences the likelihood that defendants will be 
+sentenced to death. In addition, the General Accounting 
+Office shall examine separately and include in the report, 
+
+
+16a 
+death penalty cases involving crimes similar to those covered 
+(p) s — ital in which deati ey j 
+sought or imposed 
+If a person is convicted for an offense under subsection (e) of this 
+
+
+17a 
+
+
+In all other cases the court shall remand the case for reconsidera- 
+tion under this section. The court of appeals shall state in writing 
+the reasons for its disposition of the review of the sentence. 
+
+
+(4) (A) Notwithstanding any other provision of law to the 
+contrary, in every criminal action in which a defendant is 
+
+
+charged with a crime which may be punishable by death, a 
+defendant who is or becomes financially unable to obtain 
+
+
+adequate representation or investigative, expert, or other 
+
+
+section and the court does not impose the penalty of death, the court 
+may impose a sentence of life imprisonment without the possibility 
+of parole. 
+
+
+(q) Appeal i al | for financial bi 
+defendants 
+
+
+(1) In any case in which the sentence of death is imposed 
+under this section, the sentence of death shall be subject to review 
+by the court of appeals upon appeal by the defendant. Notice of 
+appeal must be filed within the time prescribed for appeal of 
+judgment in section 2107 of Title 28. An appeal under this 
+section may be consolidated with an appeal of the judgment of 
+conviction. Such review shall have priority over all other cases. 
+
+(2) On review of the sentence, the court of appeals shall 
+consider the record, the evidence submitted during the trial, the 
+information submitted during the sentencing hearing, the 
+procedures employed in the sentencing hearing, and the special 
+
+(3) The court shall affirm the sentence if it determines that— 
+
+
+(A) the sentence of death was not imposed under the 
+influence of passion, prejudice, or any other arbitrary factor; 
+and 
+
+(B) the information supports the special finding of the 
+existence of every aggravating factor upon which the sentence 
+was based, together with, or the failure to find, any mitigat- 
+ing factors as set forth or allowed in this section. 
+
+
+reasonably necessary services at any time either— 
+(i) before judgment; or 
+
+
+(ii) after the entry of a judgment imposing a sentence 
+of death but before the execution of that judgment; 
+
+
+shall be entitled to the appointment of one or more attorneys 
+and the furnishing of such other services in accordance with 
+paragraphs (5), (6), (7), (8), and (9). 
+
+
+(B) In any post conviction proceeding under section 2254 
+or 2255 of Title 28, seeking to vacate or set aside a death 
+sentence, any defendant who is or becomes financially unable 
+to obtain adequate representation or investigative, expert, or 
+other reasonably necessary services shall be entitled to the 
+appointment of one or more attorneys and the furnishing of 
+such other services in accordance with paragraphs (5), (6), 
+(7), (8), and (9). 
+
+
+(5) If the appointment is made before judgment, at least one 
+attorney so appointed must have been admitted to practice in the 
+court in which the prosecution is to be tried for not less than five 
+years, and must have had not less than three years experience in 
+the actual trial of felony prosecutions in that court. 
+
+
+(6) If the appointment is made after judgment, at least one 
+attorney so appointed must have been admitted to practice in the 
+court of appeals for not less than five years, and must have had 
+
+
+18a 
+
+
+not less than three years experience in the handling of appeals in 
+that court in felony cases. 
+
+
+(7) With respect to paragraphs (5) and (6), the court, for 
+good cause, may appoint another attorney whose background, 
+knowledge, or experience would otherwise enable him or her to 
+properly represent the defendant, with due consideration to the 
+seriousness of the possible penalty and to the unique and complex 
+nature of the litigation. 
+
+
+(8) Unless replaced by similarly qualified counsel upon the 
+attorney's Own motion or upon motion of the defendant, each 
+attorney so appointed shall represent the defendant throughout 
+every subsequent stage of available judicial proceedings, 
+including pretrial proceedings, trial, sentencing, motions for new 
+trial, appeals, applications for writ of certiorari to the Supreme 
+Court of the United States, and all available post-conviction 
+process, together with applications for stays of execution and 
+other appropriate motions and procedures, and shall also 
+represent the defendant in such competency proceedings and 
+proceedings for executive or other clemency as may be available 
+to the defendant. 
+
+
+(9) Upon a finding in ex parte proceedings that investigative, 
+expert or other services are reasonably necessary for the 
+representation of the defendant, whether in connection with issues 
+relating to guilt or sentence, the court shall authorize the 
+defendant's attorneys to obtain such services on behalf of the 
+defendant and shall order the payment of fees and expenses 
+therefore, under paragraph (10). Upon a finding that timely 
+procurement of such services could not practicably await prior 
+authorization, the court may authorize the provision of and 
+payment for such services nunc pro tunc. 
+
+(10) Notwithstanding the rates and maximum limits generally 
+applicable to criminal cases and any other provision of law to the 
+
+
+contrary, the court shall fix the compensation to be paid to 
+attorneys appointed under this subsection and the fees and 
+
+
+19a 
+
+
+expenses to be paid for investigative, expert, and other reasonably 
+necessary services authorized under paragraph (9), at such rates 
+or amounts as the court determines to be reasonably necessary 
+
+
+to carry out the requirements of paragraphs (4) through (9). 
+(r) Refusal to participate by State and Federal correctional 
+employees 
+
+
+No employee of any State department of corrections or the 
+Federal Bureau of Prisons and no employee providing services to 
+that department or bureau under contract shall be required, as a 
+condition of that employment, or contractual obligation to be in 
+attendance at or to participate in any execution carried out under this 
+section if such participation is contrary to the moral or religious 
+convictions of the employee. For purposes of this subsection, the 
+term "participation in executions” includes personal preparation of 
+the condemned individual and the apparatus used for execution and 
+supervision of the activities of other personnel in carrying out such 
+activities. 
+
+
+(Pub.L. 91-513, Title II, § 408, Oct. 27, 1970, 84 Stat. 1265; Pub.L. 98-473, 
+Title I, §§ 224(b), 305, Oct. 12, 1984, 98 Stat. 2030, 2050; Pub.L. 98-473, 
+§ 224(b), formerly § 224(c), as amended Pub.L. 99-570, Title 1, § 1005(b)(2), 
+Oct. 27, 1987, 100 Stat. 3207-6; Pub.L. 99-570, Title I, §§ 1252, 1253, Oct. 27, 
+1986, 100 Stat. 3207-14, 3207-15; Pub.L. 100-690, Titles VI, VII, §§ 6481, 7001, 
+Nov. 18, 1988, 102 Stat. 4382, 4387, 4388; Pub.L. 103-322, Title XOCXIII, 
+§§ 330003(e), 330009(d), 330014, Sept. 13, 1994, 108 Stat. 2141, 2143, 2146.) 
+
+

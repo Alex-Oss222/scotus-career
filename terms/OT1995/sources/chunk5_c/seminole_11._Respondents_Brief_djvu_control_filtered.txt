@@ -1,0 +1,1718 @@
+No. 94-12 
+
+IN THE 
+
+Supreme Court of the ites States 
+
+October Term, 1994 
+
+SEMINOLE TRIBE OF FLORIDA, 
+
+Petitioner 
+
+STATE OF FLORIDA and 
+LAWTON CHILES, Governor, 
+Respondents 
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+BRIEF OF RESPONDENTS 
+
+ROBERT A. BUTTERWORTH 
+ATTORNEY GENERAL OF FLORIDA 
+
+Jonathan A. Glogau 
+Assistant Attorney General 
+Fla. Bar No. 371823 
+(Counsel of Record) 
+
+PL-01, The Capitol 
+Tallahassee, FL 32399-1050 
+(904) 488-5899 
+
+COUNSEL FOR RESPONDENTS 
+
+| 
+
+-- 
+
+—_————————— 
+
+[ \mravr allall Ani Faany)? sip 
+
+TABLE OF CONTENTS 
+
+Page 
+
+TABLE OF AUTHORITIES ............... iii 
+
+CONSTITUTIONAL PROVISIONS. .......... l 
+
+STATEMENT OF THE CASE .............. 2 
+
+JURISDICTIONALNOTE ............... 6 
+
+SUMMARY OF THE ARGUMENT ........... 7 
+
+ARGUMENT 
+
+I. THE ELEVENTH AMENDMENT DOES NOT 
+PERMIT ASUIT BY AN INDIAN TRIBE AGAINST 
+A STATE OR ITS GOVERNOR BASED ON THE 
+ALLEGED FAILURE OF THE STATE TO 
+NEGOTIATE A GAMING COMPACT IN GOOD 
+
+I ees retiree eto re re ee ll 
+
+A. The Eleventh Amendment Embodies the Concept 
+
+of Sovereign Immunity in its Entirety .... . 12 
+
+B. Florida has not Consented to this Suit .... . 15 
+
+1. Plan of the Convention ............ 16 
+
+ES ee 17 
+
+a. Fourteenth Amendment .......... 18 
+
+b. Interstate Commerce Clause ........ 19 
+
+3. The Indian Commerce Clause ........ 21 
+
+4. Union Gas Should be Overruled ....... 24 
+
+Il. THE SEMINOLE TRIBE CANNOT AVOID 
+FLORIDA’S ELEVENTH AMENDMENT 
+SOVEREIGN IMMUNITY SIMPLY BY INVOKING 
+EX PARTE YOUNG AND NAMING THE 
+a eens re 4b es 6 27 
+
+Page 
+A.The Suit is in Reality One Against the State . 27 
+
+B.The Acts Which are Mandated by IGRA Involve 
+i re 31 
+
+C.There is no Allegation of an Unconstitutional 
+State Law or an Unconstitutional Action by State 
+
+Cleese ... cc cane se 35 
+
+Ill. A TRIBAL EXCEPTION TO HANS uv. 
+LOUISIANA SHOULD NOT BE ALLOWED . . 37 
+COMNCTIIOIONM .. ccc ewe 6 eee 39 
+
+il 
+
+TABLE OF AUTHORITIES 
+
+Cases Page(s) 
+Atascadero State Hospital v. Scanlon, 473 U.S. 
+EEE EE 13 
+Blatchford v. Native Village of Noatak, __ U.S.__, 
+111 S.Ct. 2578 (1991) .... 7,10, 15, 16, 17, 22, 37 
+California v. Cabazon Band of Mission Indians, 
+EEE eee 2 
+Cherokee Nation v. Georgia, 5 Pet. 1, 
+gg ce tt te te 21 
+
+Chisolm v. Georgia, 2 Dall. 419, 1 L.Ed. 440(1793) . . 12 
+
+Cotton Petroleum v. New Mexico, 
+
+490 U.S. 163 (1989)........... 8, 20, 21, 22 
+Cory v. White, 457 U.S. 85 (1982) . . . . 13, 27, 28, 29 n.2 
+Dellmuth v. Muth, 491 U.S. 223 (1989) ......... 17 
+Dugan v. Rank, 372 U.S. 609(1963) .......... 29 
+Edelman v. Jordan, 415 U.S. 651 (1974) ... . 15, 24, 36 
+
+Employees of the Department of Public Health and 
+Welfare v. Dept. of Public Health and Welfare, 
+State of Missouri, 411 U.S.279 (1973) . 12, 14, 23, 35 
+
+Ex parte Virginia, 100 U.S. 339 (1880) ......... 18 
+Ex parte Young, 209 U.S. 123 (1907) . 9, 27, 30, 32, 35, 36 
+Fitzpatrick v. Bitzer, 427 U.S. 445 (1976). 8, 18, 19, 25, 26 
+Fitts v. McGhee, 172 U.S. 516(1899) ...... 13, 14, 23 
+
+Ford Motor Co. v. Dept. of Treasury, State of 
+Indiana, 323 U.S. 459 (1945). ......... 13, 29 
+
+Governor of Georgia v. Madrazo, 1 Pet. 110 (1828) . 30n.3 
+Great Northern Life v. Read, 322 U.S. 47(1944) ... 28 
+Green v. Mansour, 474 U.S. 64(1985)...... 13, 35, 36 
+
+ill 
+
+Cases Page(s) 
+
+Hans v. Louisiana, 134 U.S.1(1890) ...... 10, 12, 37 
+Hawaii v. Gordon, 373 U.S. 57 (1963)... .---++:> 29 
+Hess v. Port Authority Trans-Hudson Corp., 
+
+__ US. __, 115 S.Ct. 394 (1994) ....--+-- 14 
+Hodel v. Virginia Surface Mining & Reclamation 
+
+Assn., Inc., 452 U.S. 264(1981) ..-.- +++: 34 
+Missouri v. Fiske, 290 U.S. 18 (1933) ...---++:-: 14 
+Monaco v. Mississippi, 292 U.S. 313 (1934)... . - 12, 16 
+New York v. United States, __U.S.__, 112 S.Ct. 
+
+9408 (1998) ...--scceees 10, 24, 26, 33, 34, 37 
+Osborn v. Bank of United States, 9 Wheat. 
+
+(22 U.S.) 738 (1824)... 2 ee ee ee ee es 28 
+Payne v. Tennesee, __ U.S.__, 115 L.Ed.2d 
+
+ie. CL es a ab ae eee OS Ons 25 
+Pennhurst State School and Hospital v. Halderman, 
+
+465 U.S. 89 (1984) ....- + +e eee eee passim 
+
+Pennsylvania v. Union Gas, 491 U.S. 1(1989) . . 8,19, 23 
+
+Puerto Rico Aqueduct and Sewer Authority v. 
+Metcalf & Eddy, Inc., __ U.S. __, 113 S.Ct. 
+
+Ce ga nh 64 ee ON 12, 13, 15, 27 
+Quern v. Jordan, 440 U.S. 332 (1979) . . . . 18, 27, 28, 30 
+Scheuer v. Rhodes, 416 U.S. 232 (1974) .....-.--+--: 29 
+Seminole Tribe v. Florida, 801 F.Supp.655 (S.D. 
+
+re eee oe ee ee 5 
+Seminole Tribe v. Florida, 11 F.3d 1016 
+
+(lith Cir. 1994) ....-- 2-2 eee eee eres 5 
+South Dakota v. Dole, 483 U.S. 203 (1987) .....--- 33 
+United States v. Texas, 143 U.S. 621 (1892)...... 16 
+United States v. Wheeler, 435 U.S. 313 (1978) .... 22 
+
+1V 
+
+Cases Page(s) 
+UPS v. Mitchel, 451 U.S.56(1981) ......... 17 n.1 
+Welch v. Texas Dept. of Highways, 483 U.S. 
+
+ERE RO ance ng! en eee ee 13, 15, 25 
+
+Worcester County Trust v. Riley, 302 U.S. 292 (1937) . 28, 35 
+
+Statutes Cited 
+
+RS Ee ee ee ee 2, 32 
+os sk oo ed wh ee ola te 22 
+i «wnt ep ok eke se ee 2 
+Rs a oy on G6 e bu ube 2, 23 
+ad ok a os a 0 56 oe © Meee 2 
+A 2, 32 
+a, ees ae 28 
+25 U.S.C.§ 271QGM3MA) ............ 2, 28, 34 
+25 U.S.C. § 271QdM7MAMi) .. 2... 2. ee. 2, 11, 28, 34 
+25 U.S.C. § 2710(dX 7 BXGii) 2.2... ew. . 3, 4, 28, 34 
+25 U.S.C. § 2710(dX 7X BXMiv). .. 2... 2... 3, 28, 34 
+25 U.S.C. § 271QGXTMBMV) ... 2.2... we ee ee 3 
+Bie Com) yy. | re 3 
+25 U.S.C. § 2710(dX7MBXvii) . 2... ee ee 3, 34 
+
+United States Constitution 
+
+po RL passim 
+
+pe RR eer oe 16 
+
+pe) ee 10 
+
+pee eee passim 
+
+Se ee, ee a sc sc ore ee ee Kee ee 7,18 
+Vv 
+
+Florida Statutes Page(s) CONSTITUTIONAL PROVISIONS 
+
+CS. acy etka wobtG ea) en eee 31 
+Se, sk ee eek ee oe 3 Art. I, § 8, cl. 3, U.S. Const.: 
+8 Ee ae re 4 The Congress shall have power...To regulate 
+i Re Ye 4 Commerce with foreign Nations, and among the 
+9 O.00, Pie. Stet... ee ee several States, and with the Indian Tribes. 
+Other Authorities Tenth Amendment: 
+S.Rep. 100-446, 100th Cong., lst Sess. 1-5 The powers not delegated to the United States by 
+1988 U.S.C.C.A.N. 3071-3076. ........... 2 the Constitution, nor prohibited by it to the 
+States, are reserved to the States respectively, or 
+to the people. 
+Eleventh Amendment 
+
+The Judicial power of the United States shall not 
+be construed to extend to any suit in law or equity, 
+commenced or prosecuted against one of the 
+United States by Citizens of another State, or by 
+Citizens or Subjects of any Foreign State. 
+
+Fourteenth Amendment: 
+
+SECTION 1. All persons born or naturalized in the 
+United States, and subject to the jurisdiction 
+thereof, are citizens of the United States and of 
+the State wherein they reside. No State shall 
+make or enforce any law which shall abridge the 
+privileges or immunities of citizens of the United 
+States; nor shall any State deprive any person of 
+life, liberty, or property, without due process of 
+law; nor deny to any person within its jurisdiction 
+the equal protection of the laws. 
+
+SECTION 5. The Congress shall have power to 
+enforce by appropriate legislation the provisions 
+of this article. 
+
+STATEMENT OF THE CASE 
+
+This case arises under the Indian Gaming Regulatory Act, 
+25 U.S.C. § 2701 et seg. and 18 U.S.C. § 1166-68 (hereafter 
+IGRA). IGRA establishes a comprehensive statutory 
+scheme for the regulation of gambling on Indian lands. It is 
+the result of years of legislative debate and prior judicial 
+decisions. S.Rep. 100-446, 100th Cong., Ist Sess. 1-5, 1988 
+U S.C.C.A.N. 3071-3076. 
+
+In California v. Cabazon Band of Mission Indians, 480 
+U.S. 202 (1987), this Court held that, on reservation lands, 
+the Indian tribes could engage in unregulated gambling 
+activities if such gambling activities were not criminally 
+prohibited by the State. Congress quickly passed IGRA in 
+order “to provide for a statutory basis for the operation of 
+gaming by Indian tribes,” “to provide a statutory basis for 
+the regulation of gaming by Indian tribes,” and to create the 
+National Indian Gaming Commission with authority to estab- 
+lish standards for gaming on Indian lands. 25 U.S.C. § 2702. 
+
+IGRA creates three classes of gambling. The issues before 
+this Court relate to class III gambling, which includes all 
+forms of gambling other than traditional Indian social 
+games and bingo. 25 U.S.C. § 2703(8). Class III gambling is 
+lawful only in a State which permits such gambling. 25 
+
+U.S.C. § 2710(d)(1)(B). 
+
+A Tribe desiring to conduct class III gambling must re- 
+quest the State in which the Indian lands are located to 
+negotiate a Tribal-State compact governing such gambling. 
+IGRA requires that “the State shall negotiate with the 
+Indian tribe in good faith to enter into such a compact.” 25 
+U.S.C. § 2710(d\(3A). If the State fails to negotiate or fails to 
+negotiate in good faith, IGRA provides that a Tribe can initiate 
+a suit in federal district court [25 U.S.C. § 2710(d)(7)(A)(i)] 
+to seek an order from the court forcing the State to the 
+
+negotiating table for the conclusion of a compact within 60 
+days. 25 U.S.C. § 2710(d\ 7) BX iii) 
+
+If the court finds that the State has not acted in good faith 
+then “the court shall order the State and the Indian tribe to 
+conclude such a compact within a 60 day period.” /d. If a 
+compact is not completed within that time, “the Indian tribe 
+and the State shall each submit to a mediator appointed by 
+the court a proposed compact that represents their last best 
+offer for a compact.” 25 U.S.C. § 2710(d)(7)(B\iv) The me- 
+diator is required to select the one of the two submitted 
+compacts which best comports with IGRA, other applicable 
+federal law, and the findings and order of the court. Jd. 
+
+The State and the Tribe then have 60 days to agree to the 
+selected compact. 25 U.S.C. § 2710(d)(7B)\(v)-(vii) If the 
+parties still cannot agree to execute a compact within that 
+time, then the mediator transmits the selected compact to 
+the Secretary of the Interior. At this point, the Secretary is 
+empowered to prescribe regulations for the implementation 
+of class III gambling consistent with the terms of the chosen 
+compact, IGRA, and State law. 25 U.S.C. § 2710(d\7)B) vii) 
+
+On January 29, 1991, the Seminole Tribe asked the State 
+of Florida to commence negotiations pursuant to IGRA for 
+a compact governing the Tribe’s proposals for gambling on 
+Tribal lands. [J.A. 21a] On March 4, 1991, the Tribe submit- 
+ted a proposed compact providing for Tribal operation of 
+poker, and machine or computer-assisted games which du- 
+plicate poker, bingo, pull-tabs, lotto, punch boards, tip jars 
+instant bingo, and other games similar to bingo. [J A 
+24a-25a, 29a] By letter of May 24, 1991, the State agreed 
+to discuss poker and other games allowed by § 849.085, Fla. 
+Stat., but rejected all of the Tribe’s other compact requests 
+as being contrary to Florida law and not the proper subject 
+of negotiation under IGRA. [J.A. 36a—39a] The letter set 
+forth the State’s preliminary legal position on the scope of 
+
+games believed by the State to be subject to compact nego- 
+tiations and also contained suggestions for issues to be 
+negotiated related to regulatory matters. On June 18, 1991, 
+the Tribe submitted additional games that it asserted met 
+the objections set forth in the May 24 letter from the State, 
+and, at the same time, requested expansion of negotiations 
+to include casino gambling. [J.A. 40a] 
+
+On August 22, 1991, representatives of the Tribe met with 
+State representatives to discuss the Tribe’s compact request. 
+The State agreed to negotiate concerning poker and other card 
+games, raffles, and parimutuel wagering on dog and horse 
+racing and jai alai, all of which are permitted by Florida law. 
+In response to questions from the State representatives, there 
+was some discussion of how the Tribe would conduct these 
+games if a compact were approved. The State, however, re- 
+fused to negotiate any machine or computer-assisted gaming, 
+which the State determined would violate §§ 849.15 and 
+849.16, Fla. Stat. Specifically, the State refused to negotiate a 
+compact covering any form of casino gambling. [Joint Pretrial 
+Stipulation at 4-5, 7 6, Pet. App. 45a] 
+
+On September 17, 1991, the State and the Tribe met to 
+continue discussions. The State expressed its willingness 
+to discuss a compact for games permitted under the inter- 
+pretation of IGRA set forth in its September 13 letter. [Pet. 
+App. 45a—46a] On September 19, 1991, the Tribe filed its 
+complaint in the district court alleging that the State of 
+Florida had failed to negotiate in good faith for the comple- 
+tion of a Tribal-State compact for gambling operations 
+pursuant to IGRA. [J.A. 12a] 
+
+In its complaint, the Tribe requested an order directing 
+the State to enter into a compact within 60 days pursuant 
+to 25 U.S.C. § 2710(d\7)B\iii). In addition, the Tribe 
+sought a declaratory judgment that the State permitted 
+casino gambling and slot machines, thereby seeking to 
+
+make those types of gambling subject to negotiation under 
+IGRA. [J.A. 18a—19a] 
+
+The State moved to dismiss the complaint based on the 
+immunity afforded it by the Eleventh Amendment. [J.A. 
+49a| The district court issued its order denying the motion 
+on June 18, 1992. Seminole Tribe v. Florida, 801 F Supp. 655 
+(S.D. Fla. 1992) [Pet. App. 26a] An appeal to the Eleventh 
+Circuit Court of Appeals ensued. 
+
+The Eleventh Circuit Court of Appeals reversed the dis- 
+trict court’s denial of Florida’s motion to dismiss based on 
+the State’s Eleventh Amendment immunity, remanding 
+with instructions to dismiss the case. The Court of Appeals 
+held that the Eleventh Amendment immunity of the States 
+could not be abrogated by Congress pursuant to its author- 
+ity under the Indian Commerce Clause, Art. I, § 8, cl. 3, U.S. 
+Const., and that none of the established exceptions to the 
+State’s Eleventh Amendment immunity, including Ex parte 
+Young, were applicable. Therefore, the Court found that the 
+federal courts lacked subject matter jurisdiction. Seminole 
+Tribe v. Florida, 11 F.3d 1016 (11th Cir. 1994) [Pet. App. 1a] 
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+IGRA does not require all Class III gaming activi- 
+ties to be included in compact negotiations merely 
+because the State permits specific Class III gam- 
+ing activities in some form; and second that, 
+contrary to the Tribe’s argument, the State does 
+not permit those specific types of Class III gaming 
+activities which it now seeks to include in the 
+
+Tribe-State compact negotiations. Having con- 
+cluded that these proposed Class III activities 
+need not be included in the compact negotiations, 
+we hold that the State has not violated the 
+IGRA’s good faith requirement by refusing to 
+include them in the negotiations 
+
+(Pet. App. 43a, 82al(emphasis added) This order is cur- 
+rently on appeal to the Eleventh Circuit Court of Appeals. 
+That appeal has been abated during the pendency of the 
+instant case. 
+
+JURISDICTIONAL NOTE 
+
+The amicus brief of the State and Local Legal Center raises 
+a substantial jurisdictional question under Article III, con- 
+tending that the role of federal courts under IGRA is “non-ju- 
+dicial” and that any order a federal court may enter against 
+a State is unenforceable. If so, the Center’s Article il argu- 
+ment and its jurisdictional concerns merit close attention. 
+
+The State views the provisions of IGRA as far more 
+coercive. Indeed, the argument of the Seminole Tribe and 
+its amici, and the ruling of several Courts of Appeal, lend 
+great weight to its view. Here, for example, the federal 
+district court construed the Florida laws governing gam- 
+bling. Presumably, it was prepared to enforce the provisions 
+of IGRA based on its interpretation of Florida law and to 
+specify what the State was required to negotiate. Further, 
+there is nothing in IGRA that requires the Secretary of the 
+Interior to accept the State’s interpretation of its own laws. 
+In fact, the Secretary would probably consider himself 
+bound by a federal court’s construction of State law, even if 
+contrary to the State’s interpretation. 
+
+SUMMARY OF THE ARGUMENT 
+
+The judgment of the Eleventh Circuit dismissing the 
+Tribe’s suit under IGRA against the State should be af- 
+firmed. Congress lacks the power under the Indian 
+Commerce Clause to abrogate the Eleventh Amendment 
+sovereign immunity of the States. Additionally, Ex parte 
+Young does not apply to allow suit against the Governor 
+for prospective relief in this case. 
+
+The Eleventh Amendment to the United States Constitution 
+embodies the doctrine of sovereign immunity, limiting the 
+grant of judicial authority set forth in Article III of the 
+United States Constitution. The Eleventh Amendment pro- 
+hibits the bringing of suit against a State in federal court 
+absent the consent of the State. By its terms, the Amendment 
+applies to “any suit in law or equity,” and therefore applies 
+regardless of the relief sought. 
+
+The State has not expressly consented to this suit nor can 
+implied consent be found by this Court given the extremely 
+limited circumstances under which implied consent can 
+exit. Consent has been found in the “plan of the convention” 
+for suits between sister States and by the United States 
+against a State. Implicit consent in the “plan of the conven- 
+tion” has specifically been found not to exist between the 
+States and Indian Tribes. Blatchford v. Native Village of 
+Noatak, __ U.S. ___, 111 S.Ct. 2578 (1991). 
+
+Consent to suit has also been based on certain provisions 
+of the Constitution where this Court has found the power 
+to abrogate the States’ Eleventh Amendment immunity, 
+such as § 5, Fourteenth Amendment. The Fourteenth 
+Amendment allows federal intrusion into the executive, 
+legislative, and judicial powers previously reserved to the 
+States. This intrusion was ratified by the States, and effec- 
+tuated by specific language in § 5 of the Amendment. The 
+
+conclusion that the States thus consented to Congress’ 
+power to abrogate the States’ Eleventh Amendment sover- 
+eign immunity where it is “necessary to enforce” the 
+Amendment is understandable. Fitzpatrick v. Bitzer, 427 
+
+U.S. 445 (1976). 
+
+Consent to Congresses’ power to abrogate has also re- 
+cently been found in the Interstate Commerce Clause. In 
+Pennsylvania v. Union Gas, 491 U.S. 1 (1989), a plurality 
+of this Court held that clause gives Congress the power to 
+regulate the relations between States in order to foster free 
+trade nationally. Viewed in light of the consent of the States 
+to suit in the “plan of the convention” with respect to other 
+States, and the unique aspects of the Interstate Commerce 
+Clause in its restraint of the States, this Court concluded 
+that such a consent to abrogate could be found in that 
+Clause. But the power to abrogate is only available when 
+the commerce power is incomplete without it and the abro- 
+gation is necessary to accomplish the goals of Congress under 
+the Interstate Commerce Clause. Such is not the case here. 
+
+Petitioner’s assertion that the Indian Commerce Clause 
+also grants to Congress consent to abrogate the States’ 
+Eleventh Amendment sovereign immunity is without merit. 
+The Indian and Interstate Commerce Clauses were treated 
+as completely separate provisions in the constitutional con- 
+vention. Consent found in the Interstate Commerce Clause 
+is premised on a structural understanding of the relations 
+between the States and the Federal Government. The pow- 
+ers granted under the Indian Commerce Clause are of a 
+different character. The Indian Commerce Clause grants 
+Congress complete authority over the Tribes, while the 
+Interstate Commerce Clause grants Congress power to 
+control the relations among the States within the ambit of 
+that Clause. There is no basis to import consent to the power 
+to abrogate under the Interstate Commerce Clause to cases 
+involving the Indian Commerce Clause. Cotton Petroleum v. 
+
+New Mexico, 490 U.S. 163 (1989). It is not necessary for 
+Congress to subject the States to suit under IGRA in order 
+for Congress to achieve its purposes. Those purposes can be 
+
+achieved under Congress’ complete power over the Tribes: 
+no State involvement is necessary. 
+
+If this Court concludes that it cannot distinguish the 
+Interstate Commerce Clause from the Indian Commerce 
+Clause or any other Article I power on a principled basis 
+then this Court’s recent plurality decision finding sheen 
+tion under the Interstate Commerce Clause should be 
+overruled. For if Congress has the power to abrogate the 
+States’ Eleventh Amendment sovereign immunity under 
+
+any Article I power, then that immunity has been rendered 
+a nullity. 
+
+Nor can the Tribe sue the Governor of Florida under the 
+doctrine of Ex parte Young, 209 U.S. 123 (1907), in order to 
+avoid the States’ immunity. Although this is not an action 
+for damages, under IGRA it can only be a suit against the 
+State. When an action is one against the State, it is barred 
+regardless of the relief sought. 
+
+The requested relief also seeks to compel the Governor to 
+act In an area where he has discretion as to whether and 
+how to act. Ex parte Young is therefore inapplicable. More- 
+over, in that the Tribe seeks a mandatory injunction, not the 
+prohibition of unconstitutional conduct envisioned by 
+Young, it asks for relief not available under Young. 
+
+IGRA utilizes State law to determine what types of class 
+III gaming are permissible. The complaint in this case seeks 
+a determination of State law and a mandatory injunction 
+ordering the Governor to negotiate for the types of gambling 
+set forth in the injunction. This suit, and IGRA to the extent 
+it authorizes this suit, impinge on the State’s discretion as 
+to the appropriate interpretation of State law and the 
+proper terms for negotiations. This is a serious intrusion on 
+
+the discretion of the State in the formulation of its public 
+policy not warranted by the Ex parte Young doctrine. Al- 
+though the Tribe asserts that the State can ignore the 
+coercive orders of a federal court called for by IGRA, this 
+assertion lacks merit. Ignoring a federal court order im- 
+pugns the court’s dignity and constitutes contempt. 
+
+To the extent IGRA’s commands are mandatory and the 
+orders of a federal court are mandatory, the State is faced 
+with a choice of negotiating for the terms dictated by the 
+Tribes or facing the coercive orders of the federal courts. 
+IGRA thus treats the States as an administrative subdivi- 
+sion of the federal government in violation of the Tenth 
+Amendment. New York v. United States, __ U.S. __, 112 
+S.Ct. 2408 (1992) 
+
+Contrary to a new assertion made by the Petitioner, 
+Hans v. Louisiana, 134 U.S. 1 (1890), should not be over- 
+ruled or limited. It has stood for over a century and has been 
+the basis of many decisions of this Court and many laws 
+passed by Congress. The States did not consent to suit in 
+federal court by the Indian tribes in the “plan of the conven- 
+tion” and the States did not consent in the Indian Commerce 
+Clause to Congress abrogating the States’ immunity. The 
+relationships of the States and the Tribes with respect to 
+their sovereign immunity, confirmed four years ago in 
+Blatchford v. Native Village of Noatak, __ Us. aan 
+S.Ct. 2578 (1991), should be left alone. 
+
+10 
+
+ARGUMENT 
+
+THE ELEVENTH AMENDMENT DOES 
+NOT PERMIT A SUIT BY AN INDIAN TRIBE 
+AGAINST A STATE OR ITS GOVERNOR BASED ON 
+THE ALLEGED FAILURE OF THE STATE TO 
+NEGOTIATE A GAMING COMPACT IN GOOD 
+FAITH 
+
+The Indian Gaming Regulatory Act provides that if a 
+State refuses to negotiate or fails to negotiate in good faith 
+with an Indian tribe for the conclusion of a gaming compact, 
+then the Tribe may sue the State in federal court. 25 U.S.C. 
+§ 2710(d)(7)(AX(i) The Seminole Tribe brought suit against 
+the State and its Governor alleging that Florida had failed to 
+negotiate in good faith for the conclusion of a gaming compact. 
+The district court denied a motion to dismiss based on the 
+State’s Eleventh Amendment immunity; the Eleventh Circuit 
+Court of Appeals reversed holding that Congress lacked the 
+power to abrogate the State’s immunity pursuant to the 
+Indian Commerce Clause and that no exceptions applied. 
+
+Prosecution of this suit violates the State’s Eleventh 
+Amendment sovereign immunity which bars suit against 
+the State in federal court absent the States’ consent, regard- 
+less of the relief sought. Congress lacks the authority under 
+the Indian Commerce Clause to abrogate such immunity. 
+
+11 
+
+A. The Eleventh Amendment Embodies the 
+Concept of Sovereign Immunity in its 
+Entirety 
+
+Sovereign immunity is a common law doctrine which 
+shields the sovereign from the coercive power of the courts. 
+This immunity is absolute without the consent of the sov- 
+ereign. Employees of the Department of Public Health and 
+Welfare v. Dept. of Public Health and Welfare, State of 
+Missouri, 411 U.S.279, 288 (1973). In Hans v. Louisiana, 
+134 U.S. 1 (1890), this Court found: 
+
+It is inherent in the nature of sovereignty not to 
+be amenable to the suit of an individual without 
+its consent. 
+
+Id. at 13 (quoting Alexander Hamilton, Federalist # 81). See 
+also, Monaco v. Mississippi, 292 U.S. 313, 322-27 (1934). 
+This immunity is absolute, regardless of the relief sought. 
+Puerto Rico Aqueduct and Sewer Authority v. Metcalf & 
+Eddy, Inc., ___ U.S. __, 113 S.Ct. 684, 688 (1993). 
+
+In 1793, this Court assumed original jurisdiction over a 
+suit brought by a citizen of South Carolina against the State 
+of Georgia. Chisolm v. Georgia, 2 Dall. 419, 1 L.Ed. 440 
+(1793). This Court’s decision, to hold Georgia liable upon 
+certain bonds, “created such a shock of surprise that the 
+Eleventh Amendment was at once proposed and adopted.” 
+See, Pennhurst State School and Hospital v. Halderman, 
+465 U.S. 89, 97-98 (1984). Although the Eleventh Amendment 
+was adopted in direct response to the holding in Chisolm, 
+
+this Court has recognized that its greater signifi- 
+cance lies in its affirmation that the fundamental 
+principle of sovereign immunity limits the grant 
+of judicial authority in Art. III. 
+
+Pennhurst, 465 U.S. at 98. Thus, in Hans v. Louisiana, 134 
+at 15, the Court found that “federal jurisdiction over suits 
+
+12 
+
+against unconsenting States was not contemplated by the 
+
+Constitution when establishing the judicial power of the 
+United States.” 
+
+The Eleventh Amendment embodies the broad and fun- 
+damental principles of sovereign immunity. Welch v. Texas 
+Dept. of Highways, 483 U.S. 468, 472, 486 (1987): Green v. 
+Mansour, 474 U.S. 64, 68 (1985); Atascadero State Hospital v. 
+Scanlon, 473 U.S. 234, 238 (1985). This limitation on the 
+judicial power of the United States is a “compelling force,” 
+Ford Motor Co. v. Indiana, 323 U.S. 459, 467 (1945), extend- 
+ing to all suits regardless of the relief sought. Puerto Rico, 
+113 S.Ct. at 688. By its very terms the Amendment applies 
+to “any suit in law or equity,” a premise acknowledged in 
+Cory v. White, 457 U.S. 85, 90 (1982): 
+
+Edelman did not hold, however, that the Eleventh 
+Amendment never applies unless a judgment for 
+money payable from the State treasury is sought. 
+[footnote omitted] It would be a novel proposition 
+indeed that the Eleventh Amendment does not bar 
+a suit to enjoin the state itself simply because no 
+money judgment is sought. 
+
+See also, Pennhurst, 465 U.S. at 114 n.25 (“(T]here was no 
+suggestion [in Edelman] that damages alone were thought 
+to run against the State while injunctive relief did not” 
+thereby barring damage claims but not injunctive claims.) 
+This bar is necessary “to prevent the indignity of subjecting 
+a State to the coercive process of judicial tribunals at the 
+instance of private parties.” Puerto Rico, 113 S.Ct. at 689. 
+See also, Fitts v. McGhee, 172 U.S. 516, 527-28 (1899). 
+
+The Court has frequently recognized this broad intent: 
+
+The fact that the motive for the adoption of the 
+11th Amendment was to quiet grave apprehensions 
+that were extensively entertained with respect to 
+
+13 
+
+the prosecution of state debts in the federal courts 
+cannot be regarded...as restricting the scope of 
+the amendment to suits to obtain money judg- 
+ments. The terms of the amendment...were not so 
+limited. 
+
+Missouri v. Fiske, 290 U.S. 18, 27 (1933). Accord, Employees, 
+411 U.S. at 292 (the Eleventh Amendment reversed the 
+holding in Chisolm and more generally restored the original 
+understanding of sovereign immunity. ) 
+
+In Hess v. Port Authority Trans-Hudson Corp., __ U.S. 
+__, 115 S.Ct. 394 (1994), this Court held that the Port 
+Authority, a bistate compact clause entity, was not entitled 
+to Eleventh Amendment immunity. Referring to the “impe- 
+tus for the Eleventh Amendment,” it acknowledged that 
+jeopardy of the public fisc was the most salient factor. /d. at 
+404. However, the Court also recognized that this is not the 
+only issue for Eleventh Amendment analysis, discussing the 
+“twin reasons” for the passage of the Eleventh Amendment: 
+1) to protect the public fisc; and 2) to accord the States the 
+respect owed them as members of the federation. Jd. at 400. 
+The Eleventh Amendment “emphasizes the integrity re- 
+tained by each State.” Id. Accord, Fitts v. McGhee, 172 
+U.S. at 528 (Eleventh Amendment’s purpose was to 
+prevent the indignity of subjecting the States to the coer- 
+cive process of the federal courts.) 
+
+The Eleventh Amendment is a “fundamental protection” 
+and is 
+
+rooted in a recognition that the States, although 
+a Union, maintain certain attributes of sover- 
+eignty, including sovereign immunity...It thus ac- 
+cords the States the respect owed them as 
+members of the federation. 
+
+14 
+
+Puerto Rico, 113 S.Ct. at 688-89. No matter what relief is 
+requested, suits against the State violate the fundamental 
+value of sovereign immunity as embodied in the Eleventh 
+Amendment and are barred, absent the consent of the 
+sovereign State. Despite this overwhelmingly clear stand- 
+ard, the Petitioner and the Solicitor General argue that the 
+Eleventh Amendment can be abrogated. Their logic fails 
+because they cannot point to any consent in the “plan of the 
+convention” which will support this power. 
+
+B. Florida has not Consented to this Suit 
+
+The Eleventh Amendment embodies the historical under- 
+
+standing of the immunity of a State as a sovereign entity. It 
+stands for the 
+
+presupposition of our constitutional struc- 
+ture...that the States entered the federal system 
+with their sovereignty intact; that the judicial 
+authority in Article III is limited by this sover- 
+eignty. ...and that a State will therefore not be 
+subject to suit in federal court unless it has con- 
+sented to suit, either expressly or in the plan of the 
+convention. 
+
+Blatchford v. Native Village of Noatak, __ U.S. __, 111 
+S.Ct. 2578, 2581 (1991) (emphasis added). Consent in this 
+context can be express or implied, although implied waiver 
+or consent “is not a doctrine commonly associated with 
+surrender of constitutional rights.” Welch, 483 U.S. at 473; 
+Edelman v. Jordan, 415 U.S. 651, 673 (1974). In this case, 
+Petitioner has never claimed that the State of Florida 
+expressly waived its immunity. Implied consent has pre- 
+viously been found by this Court only by virtue of: 1) an 
+absolute consent in the “plan of the convention”; or 2) consent 
+in that plan to allow Congress to abrogate the States’ 
+immunity. Neither of these doctrines of implied consent can 
+
+15 
+
+be applied to a suit by an Indian tribe against the State 
+based on the Indian Commerce Clause. Blatchford, 111 
+S.Ct. at 2582-83. 
+
+1. Plan of the Convention 
+
+The States surrendered a limited quantum of their sover- 
+eignty and consented to two classes of lawsuits when the 
+Constitution was adopted in 1789. 
+
+States of the Union still possessing attributes of 
+sovereignty shall be immune from suits, without 
+their consent, save where there has been “a surren- 
+der of this immunity in the plan of the convention.” 
+
+Monaco, 292 U.S. at 322-23 (quoting A. Hamilton, 
+(Federalist # 81)) 
+
+This Court has found two types of consent in the “plan of 
+the convention.” In order to ensure the permanence of the 
+Union, suits by the United States against a State are 
+permitted. U.S. v. Texas, 143 U.S. 621 (1892). The constitu- 
+tional plan also requires that controversies between States 
+be the subject of judicial settlement. 
+
+The waiver or consent, on the part of a State, 
+which inheres in the acceptance of the constitu- 
+tional plan, runs to the other States who have 
+likewise accepted that plan and to the United 
+States as the sovereign which the Constitution 
+creates. 
+
+Monaco, 292 U.S. at 328-30. See also, Blatchford, 111 S.Ct. 
+at 2582. Art. III, § 2, U.S. Const., bolsters this finding of 
+consent by specifically granting to the federal courts “judi- 
+cial power” over “controversies to which the United States 
+shall be a party” and “controversies between two or more 
+
+16 
+
+States.” Of critical note, this “plan of the convention” con- 
+sent does not extend to the Indian tribes. 
+
+[I]t would be absurd to suggest that the tribes 
+surrendered immunity in a convention to which 
+they were not even parties. But if the convention 
+could not surrender the tribes’ immunity for the 
+benefit of the States, we do not believe that it 
+surrendered the States’ immunity for the benefit 
+of the tribes. 
+
+Blatchford, 111 S.Ct. at 2582-83 (emphasis in original). 
+Neither is there any indication of such a consent in Article 
+III of the Constitution. In addition to the consent found in 
+the “plan of the convention,” the States have consented to a 
+limited power in Congress unilaterally to abrogate the 
+States’ Eleventh Amendment sovereign immunity. 
+
+2. Abrogation 
+
+In this case, the Seminole Tribe argues that Congress, in 
+the passage of IGRA, intended to and did abrogate the 
+States’ sovereign immunity pursuant to its authority under 
+the Indian Commerce Clause, Art I, § 8, cl. 3, U.S. Const. 
+Congress lacks such power.' 
+
+Petitioner’s arguments ignore this Court’s pronounce- 
+ment that abrogation of the States’ sovereign immunity 
+places considerable strain on the concepts of federalism 
+which inform the Eleventh Amendment and upsets the 
+fundamental balance set by the Constitution. Dellmuth v. 
+
+1 The court below determined that the IGRA was passed pursuant 
+to the Indian Commerce Clause. {Pet App. 17a-18a] Amici for the Tribes 
+argue that the Interstate Commerce Clause provided authority for this 
+Act and therefore the Congress had authority to abrogate the States’ 
+sovereign immunity under Pennsylvania v. Union Gas. This issue is not 
+properly raised by amici. UPS v. Mitchel, 451 U.S. 56, 60 n.2 (1981) 
+
+17 
+
+Muth, 491 U.S. 223, 227 (1989). In fact, the power to 
+abrogate has been found by this Court in only two contexts: 
+1) § 5, Fourteenth Amendment; and 2) the Interstate 
+Commerce Clause, Art. I, § 8, cl. 3. Neither applies or lends 
+force to the Tribe’s argument. 
+
+a. § 5, Fourteenth Amendment 
+
+The enactment of the Fourteenth Amendment sanctioned 
+unprecedented intrusions into the legislative, executive, and 
+judicial autonomy previously reserved to the states. 
+Fitzpatrick v. Bitzer, 427 U.S. 445, 455 (1976). The prohibi- 
+tions of the Fourteenth Amendment are directed to the States: 
+
+No State shall make or enforce any law which 
+shall abridge the privileges or immunities of citi- 
+zens of the United States; nor shall any State de- 
+prive any person of life, liberty, or property, without 
+due process of law; nor deny to any person within 
+its jurisdiction the equal protection of the laws. 
+
+Amend. XIV, U.S. Const. 
+
+[The Civil War Amendments] have reference to 
+actions of the political body denominated a State 
+by whatever instruments or in whatever modes 
+that action may be taken. 
+
+Quern v. Jordan, 440 U.S. 332, 355 (1979) (quoting Ex parte 
+Virginia, 100 U.S. 339, 346-47 (1880)). 
+
+Section 5 of the Amendment states that, “The Congress 
+shall have power to enforce by appropriate legislation the 
+provisions of this article.” Referring to that section, this 
+Court has held: 
+
+We think that Congress may, in determining what 
+is “appropriate legislation” for the purpose of enforc- 
+ing the provisions of the Fourteenth Amendment, 
+
+18 
+
+provide for suits against States or state officials 
+which are constitutionally impermissible in other 
+contexts. 
+
+Fitzpatrick, 427 U.S. at 456. Fitzpatrick arose under the 
+Civil Rights Act to remedy sex discrimination in the State’s 
+retirement benefits program. Title VII was passed pursuant 
+to Congress’ authority under the Fourteenth Amendment. 
+Id. at 453 n.9. This Court held that Congress could author- 
+ize actions against the States for damages and attorneys’ 
+fees under that authority. Jd. at 456—57. 
+
+The intrusion into the States’ legislative, executive, and 
+judicial authority, coupled with the explicit authority to adopt 
+appropriate legislation, give solid ground to the implication 
+that the States were granting to Congress the power to 
+intrude further on their sovereignty by allowing for suit in 
+federal court to enforce the terms of the Amendment. Neither 
+the terms nor the history of the Indian Commerce Clause bear 
+any resemblance to the Fourteenth Amendment in this re- 
+spect. Terse in the extreme, the clause does not even hint at a 
+surrender of sovereignty. 
+
+b. Interstate Commerce Clause 
+
+Although supported by a different foundation, this Court 
+has also found the power to abrogate the States’ Eleventh 
+Amendment sovereign immunity in the Interstate Commerce 
+Clause. In Pennsylvania v. Union Gas, 491 U.S. 1 (1989), 
+this Court held that Congress could abrogate the States’ 
+Eleventh Amendment sovereign immunity in its enactment 
+of the “Superfund” Law pursuant to its powers under the 
+Interstate Commerce Clause. Jd. at 23 (plurality). The 
+ruling was grounded on “the special nature of the power 
+conferred by that Clause.” Jd. at 19. The Court stated that 
+the interstate commerce power would be “incomplete with- 
+out the authority to render States liable in damages” and 
+
+19 
+
+that Congress “found it necessary, in exercising this author- 
+ity, to render [the States] liable.” Jd. at 19-20. 
+
+In context, this finding is understandable, even though 
+Justice White, the fifth vote for the majority, concurred 
+without explaining his reasoning. Jd. at 57. The Interstate 
+Commerce Clause is concerned with maintaining free trade 
+among the states. Cotton Petroleum v. New Mexico, 490 U.S. 
+163, 192 (1989). Under the “dormant” commerce clause, the 
+States are restrained in their actions with regard to each 
+other in the absence of federal legislation. Under Congress’ 
+active powers, the aim is still to foster free trade among the 
+States. This clause, both dormant and active, is unique 
+among the Article I powers granted to the national govern- 
+ment - it restrains the States and expressly allows regula- 
+tion of the economic relationships among the States. If the 
+States consented to suits by sister States in the “plan of the 
+convention,” then it is logical to contend that the States 
+consented to Congress’ power to subject them to suit under 
+the power granted to police the relationships of the States 
+to each other. 
+
+Both § 5, Fourteenth Amendment and the Interstate 
+Commerce Clause grant powers to Congress which are 
+addressed to the States. The Indian Commerce Clause, on 
+the other hand, is a grant of power to Congress to control 
+the affairs of the Indian tribes. The States did not submit 
+to suits by Indian tribes in the “plan of the convention,” and 
+neither did the States consent to Congress’ power to abro- 
+gate the States’ Eleventh Amendment sovereign immunity 
+in the “plan of the convention” by reason of the adoption of 
+the Indian Commerce Clause. No consent can be found to 
+support the abrogation of the States’ Eleventh Amendment 
+immunity pursuant to the Indian Commerce Clause. 
+
+20 
+
+3. The Indian Commerce Clause 
+
+{n order to overcome the States’ sovereign immunity, the 
+Court must find consent. Petitioner argues that the States 
+have consented to Congress’ power to abrogate the States’ 
+Eleventh Amendment sovereign immunity pursuant to its 
+power under the Indian Commerce Clause. This argument 
+lacks merit. 
+
+As Chief Justice Marshall observed in Cherokee 
+Nation v. Georgia, 5 Pet. 1, 18, 8 L.Ed. 25 (1831): 
+“The objects to which the power of regulating 
+commerce might be directed, are divided into 
+three distinct classes — foreign nations, the sev- 
+eral states, and Indian Tribes. When forming this 
+article, the convention considered them as en- 
+tirely distinct.” 
+* * * 
+
+It is also well established that the Interstate 
+Commerce and Indian Commerce Clauses have 
+very different applications. In particular, while 
+the Interstate Commerce Clause is concerned 
+with maintaining free trade among the States 
+even in the absence of implementing federal leg- 
+islation,...the central function of the Indian 
+Commerce Clause is to provide Congress with 
+plenary power to legislate in the field of Indian 
+affairs.... The extensive case law that has devel- 
+oped under the Interstate Commerce Clause, 
+moreover, is premised on a structural under- 
+standing of the unique role of the States in our 
+constitutional system that is not readily imported 
+to cases involving the Indian Commerce Clause. 
+
+Cotton Petroleum, 490 U.S. at 192 (citations omitted). 
+
+The Interstate Commerce Clause and the Indian Commerce 
+Clause are wholly dissimilar and the latter provides no 
+
+21 
+
+principled basis whatsoever for finding that the States 
+consented to suit by the Indian Tribes. Blatchford, 111S.Ct. 
+at 2583. The States cannot be presumed to have agreed to 
+something indirectly which they clearly did not agree to 
+directly, i.e., consent to suit by tribes in derogation of the 
+States’ sovereign immunity. This distinction is consistent 
+with the distinctions made by this Court in Cotton Petroleum. 
+The implied consent found in Union Gas from the Interstate 
+Commerce Clause is based on a structural understanding 
+of the relationship of the state and federal governments, 
+including the consent derived from the “plan of the conven- 
+tion.” That understanding does not apply to the Indian 
+Commerce Clause. 
+
+The Indian Commerce Clause gives Congress exclusive 
+and plenary power over the Indian tribes. This power is 
+complete — complete enough to allow for the elimination of 
+a tribe as a legal entity. 
+
+The sovereignty that the Indian tribes retain is of 
+a unique and limited character. It exists only at 
+the sufferance of Congress and is subject to com- 
+plete defeasance. 
+
+United States v. Wheeler, 435 U.S. 313, 323 (1978). See, e.g. 
+Alabama and Coushatta Indians of Texas Termination Acts, 
+25 U.S.C. §§ 721-728. 
+
+Petitioner’s historical analysis of the Indian Commerce 
+Clause brings it only to this point — that the power of 
+Congress over the Tribes is exclusive and complete with 
+respect to the Indian tribes. It does not follow from that 
+proposition that the power to abrogate the States’ Eleventh 
+Amendment sovereign immunity is even arguably found in 
+the Indian Commerce Clause. 
+
+The Tribe’s sovereignty is wholly dependent on the pleas- 
+ure of Congress. States are not so dependent; they created 
+
+22 
+
+a Union premised upon their sovereignty remaining intact. 
+As opposed to its complete power over the Indian tribes, 
+Congress has only the limited powers granted to it by the 
+Constitution to control the relations among the States. The 
+right to abrogate Eleventh Amendment sovereign immunity 
+is available to Congress under the Interstate Commerce 
+Clause only if its power is “incomplete” and abrogation is 
+“necessary” for the exercise of the commerce power. Union 
+Gas, 491 U.S. at 19-20 Neither of these conditions is met 
+with respect to IGRA and the Indian Commerce Clause. 
+
+Congress’ power under the Indian Commerce Clause is 
+complete. With regard to Indian affairs, there are no limi- 
+tations on Congress’ authority to pass legislation affecting 
+the Tribes. Subjecting the States to suit is not necessary 
+either to fulfill that power or to effectuate the stated pur- 
+poses of IGRA. The purposes of IGRA include providing a 
+statutory basis for the operation and regulation of Indian 
+gambling. 25 U.S.C. § 2702 Inclusion of the States in the 
+regulatory scheme was not necessary. IGRAcould have been 
+written to allow the Tribes to regulate themselves, to subject 
+them to federal regulation, to allow voluntary participa- 
+tion of the States, or to allow for suit by the United States 
+to enforce the terms of the Act. See, Employees, 411 U.S. at 
+285-86 (FLSA allows for suit by the Secretary of Labor.). 
+None of these schemes would have required that the States 
+be subject to suit by a Tribe in derogation of their Eleventh 
+Amendment sovereign immunity. Contrary to the Tribe’s 
+assertion that the remedy crafted by Congress in IGRA is 
+“consistent with the core values of the Eleventh Amend- 
+ment,” [Pet Br. at 21 n.5], that remedy ignores “the very 
+object and purpose of the Eleventh Amendment [which] 
+were to prevent the indignity of subjecting a state to the 
+coercive process of judicial tribunals at the instance of 
+private parties.” Fitts v. McGhee, 172 U.S. at 527-28 
+
+23 
+
+IGRA’s scheme plainly mandates State involvement in 
+permitting casino gambling on tribal lands. The Tribe even 
+interprets IGRA as allowing a federal court to decide that 
+the Tribe is allowed to conduct casino gambling that the 
+State believes is denied to all other citizens by State crimi- 
+nal law. Both fly in the face of the Tenth Amendment. As 
+this Court observed in New York v. United States, 112 S.Ct. 
+2408, 2424 (1992): 
+
+|Wjhere the Federal Government directs the 
+States to regulate, it may be state officials who 
+will bear the brunt of public disapproval, while the 
+federal officials who devised the regulatory pro- 
+gram may remain insulated from the electoral 
+ramifications of their decision. 
+
+The Tenth Amendment does not allow federal officials to 
+avoid accountability in this manner. Jd. Casino gambling 
+remains politically unpopular in most States and has been 
+defeated in Florida in three referenda in the past two 
+decades. If Congress wishes to control casino gambling on 
+reservations, it has the complete authority to do so and such 
+a decision should be made “in full view of the public.” Jd. 
+
+4. Union Gas Should be Overruled 
+
+Congress chose to command the States to be involved in 
+Indian gambling and created an enforcement remedy that 
+can only be based on an extension of the plurality opinion 
+of this Court in Union Gas. The differences between the 
+Indian and Interstate Commerce Clauses militate strongly 
+against extending that holding to this case. The Indian 
+Commerce Clause provides no authority for Congress to 
+abrogate the States’ Eleventh Amendment sovereign immu- 
+nity. On issues of constitutional law, the doctrine of stare 
+decisis is not strictly followed. Edelman, 415 U.S. at 671 & 
+n.14. Stare decisis is a “principle of policy” not an “inexorable 
+
+24 
+
+command.” Payne v. Tennesee, 115 L.Ed.2d 720, 737 (1991). 
+That is especially true in cases such as this where the issue 
+is constitutional and “correction through legislative action 
+is practically impossible.” Jd. Where a precedent is “un- 
+workable or badly reasoned” the Court should not feel 
+restrained. Jd. This is the case with the plurality holding of 
+Union Gas, a relatively recent, not widely relied upon 
+holding. The divergent interpretations regarding the valid- 
+ity of the remedy found in IGRA is evidence of the diffi- 
+culty of reconciling that opinion with the existing body of 
+law. In contrast, this Court has refused to overturn Hans v. 
+Louisiana, a unanimous decision upon which a minimum of 
+17 decisions of this Court and innumerable acts of Congress 
+rely. Welch, 483 U.S. at 494 n.27, 495—96 (Scalia concurring). 
+
+If this Court concludes that it cannot limit Union Gas to 
+the uniqueness of the Interstate Commerce Clause, or if 
+credence should be given to Petitioner’s amici’s argument 
+that IGRA was adopted under the Inierstate Commerce 
+Clause, then Union Gas should be reconsidered and over- 
+ruled. For a full discussion of this point, see Brief of amicus, 
+States, which we adopt here by reference. 
+
+Union Gas held that the Interstate Commerce Clause’s 
+plenary authority to regulate commerce provides a basis for 
+the » ower to abrogate. An expansive reading of this power 
+would render the States’ Eleventh Amendment sovereign 
+immunity a nullity. All of Congress’ power is plenary when 
+read in conjunction with the Supremacy Clause. All of 
+Congress’ power is granted vy the States with a concomitant 
+reduction in the sovereign power of the States and all of 
+Congress’ powers are “carved out” of the States’ power. 
+Fitzpatrick, 427 U.S. at 456. 
+
+A broad reading of Union Gas that ignores the unique 
+nature of the Interstate Commerce Clause renders all 
+Article I powers unrestricted and available as a basis for 
+
+25 
+
+S| 
+
+overruling the States’ Eleventh Amendment sovereign im- 
+munity, leaving it without any force. Article I powers are 
+not, however, unrestricted. For example, Congress can 
+regulate the publishing industry under the Interstate 
+Commerce Clause as tha: power is necessarily limited by 
+the First Amendment. See, New York 112 S.Ct. at 2418 
+(analyzing limitations on Congress’ power in a Tenth 
+Amendment context.) Incidents of State sovereignty can be 
+protected from Article I powers. In New York, it was the 
+Tenth Amendment which did so; in this case the Eleventh 
+Amendment protects the States’ sovereign immunity, an 
+incident of State sovereignty. Cf. Id. 
+
+In Fitzpatrick, this Court found that the Fourteenth 
+Amendment, given its unique history and purpose, allowed 
+suits that would be “constitutionally impermissible in other 
+contexts.” 427 U.S. at 456. If a broad reading of Union Gas 
+is adopted, there would be no “other contexts” — Congress 
+could subject the States to suit at its pleasure under any of 
+its Article I powers. Arrogating such power to Congress 
+renders the fundamental protection of the Eleventh 
+Amendment a nullity and such a reading should be rejected. 
+
+The Indian Commerce Clause provides no basis upon 
+which to find the power to abrogate the States’ Eleventh 
+Amendment sovereign immunity. There was no consent in 
+the “plan of the convention” for direct suits by Indian tribes 
+against States and, therefore, there was no consent in the 
+“plan of the convention” to Congress’ power to create such 
+causes of action. This distinction controls this case and 
+prevents the importation of the power to abrogate from the 
+Interstate to the Indian Commerce Clause. The judgment 
+of the Eleventh Circuit should be affirmed. 
+
+26 
+
+II. 
+
+THE SEMINOLE TRIBE CANNOT AVOID 
+FLORIDA’S ELEVENTH AMENDMENT 
+SOVEREIGN IMMUNITY SIMPLY BY INVOKING 
+EX PARTE YOUNG AND NAMING THE 
+GOVERNOR 
+
+The Tribe argues that even if Congress lacked the power 
+to abrogate the States’ Eleventh Amendment sovereign 
+immunity under the Indian Commerce Clause, suit can 
+be maintained against the Governor of Florida under the 
+doctrine set forth in Ex parte Young, 209 U.S. 123 (1907). 
+The Solicitor General joins in this contention. 
+
+The ruling in Young has not been given the expansive 
+interpretation the Tribe and the Solicitor General suggest 
+here. See, Pennhurst, 465 U.S. at 102. It is a narrow 
+exception and “has no application in suits against the 
+States and their agencies which are barred regardless of 
+the relief sought.” Puerto Rico, 113 S.Ct. at 688. Ex parte 
+Young does not apply here because: A) this is in reality 
+an action against the State; B) the acts sought to be 
+mandated are discretionary, not ministerial; and C) there 
+is neither an allegation of the existence of an unconstitu- 
+tional State law nor a request to enjoin an unconstitu- 
+tional action by a State officer. 
+
+A. This Suit is in Reality One Against the State 
+
+The doctrine in Ex parte Young is inapplicable if the suit 
+is in reality one against the State. Quern, 440 U.S. at 345 
+n.17; Cory, 457 U.S. at 89. Under IGRA, the suit brought by 
+the Petitioner is plainly one against the State. IGRA’s 
+commands are directed solely against the State and require 
+the exercise of the State’s legislative, compacting, and con- 
+tracting powers, and further require that decisions be made 
+
+27 
+
+as to the application, vel non, of its criminal and civil 
+authority. It is the State which must negotiate in good faith 
+(25 U.S.C. § 2710(d\(3)(A)); it is the State which must enter 
+into compacts with the Tribes [25 U.S.C. § 2710(d)(1)(C)); it 
+is the State which may be sued [25 U.S.C. § 2710(d 7) A)(i)); 
+it is the State which will be ordered to complete a compact 
+within 60 days [25 U.S.C. § 2710 (d)(7)B)(iii)]; it is the 
+State which will be ordered to submit its last best offer for 
+a compact to a mediator [25 U.S.C. § 2710(d7)(BXiv)]. 
+
+In other analogous situations, this Court has steadfastly 
+refused to adopt the position of the Tribe and the Solicitor 
+General. In Cory v. White, a suit was brought under the 
+Federal Interpleader Act by the executor of the estate of 
+Howard Hughes to determine the domicile of the decedent 
+for death tax purposes. The State officials who were sued 
+raised the Eleventh Amendment as a defense and this Court 
+specifically declined to narrow its reach, declining to hold 
+that all suits for injunctions are permissible under Young. 
+Cory, 457 U.S. at 91. Similarly, in Worcester County Trust v. 
+Riley, 302 U.S. 292, 296 (1937), this Court stated: 
+
+[A] suit nominally against individuals, but re- 
+straining or otherwise affecting their action as 
+state officers, may be in substance a suit against 
+the state, which the Constitution forbids|.] 
+
+See also, Quern, 440 U.S. at 345 n.17 (quoting Osborn v. 
+Bank of U.S., 9 Wheat. (22 U.S.) 738 (1824)(key inquiry is 
+whether the state officer is in fact the real party in interest 
+or whether he is only a nominal party.)) See also, Great 
+Northern Life v. Read, 322 U.S. 47, 51 (1944)(State cannot 
+be controlled by courts through suits against officials.) This 
+
+28 
+
+Court has never ruled otherwise.” See, Hawaii v. Gordon 
+373 U.S. 57, 58 (1963) (The general rule is that relief sought 
+nominally against an officer is in fact against the sovereign 
+if the decree would operate against the latter). 
+
+Even if the relief is not compensation, but the prevention 
+or discontinuance of the wrong, the compulsion which the 
+court is asked to impose may be against the sovereign 
+although nominally directed against the individual. If so, 
+the suit is barred. Pennhurst, 465 U.S. at 101 (relief sought 
+nominally against an officer is in fact against the sovereign 
+if the decree would operate against the latter); Scheuer v. 
+Rhodes, 416 U.S. 232 (1974). It is the essential nature and 
+effect of the proceeding which determines whether it is a 
+suit against the State. Ford Motor Co., 323 U.S. at 464. The 
+general rule is that a suit is against the sovereign if the 
+judgment sought would expend itself on the public treasury 
+or domain, or interfere with the public administration, or if 
+the effect of the judgment would restrain the government 
+from acting or compel it to act. Dugan v. Rank, 372 U.S. 609, 
+620 (1963Xemphasis added suit for injunction against offi- 
+cials of the United States actually against the sovereign). 
+
+In this case, the Tribe has attempted to avoid the State’s 
+Eleventh Amendment sovereign immunity by naming the 
+Governor as the chief executive officer of the State. The 
+
+2 In cases where dainages were at issue, the Court seems to have 
+developed a shorthand test — damage claims are barred as being against 
+the sovereign. However, this must be considered a two tier test, because 
+if the claim is for injunctive relief, the question of whether the claim is 
+in reality one against the State remains. Were this not the case, then all 
+of the language cited above addressing whether the case is really one 
+against the State is merely superfluous; the only question that would 
+need to be answered is the damages question. This Court has disavowed 
+such an interpretation of Edelman. Cory, 457 U.S. at 90 n.2; Pennhurst, 
+465 U.S. at 114 n.25. 
+
+29 
+
+Court, in Ex parte Young, specifically disavowed such a 
+subterfuge.° 
+
+The things required to be done by the actual 
+Defendants were the very things which, when 
+done, would constitute a performance of the al- 
+leged contract by the state. 
+
+Id. at 151; Quern, 440 U.S. at 345 n.17 The same is true 
+here. Any decree would be an order compelling the State to 
+act, as the only “duties” imposed by IGRA fall upon the 
+State. This not the type of injunction envisioned by Young. 
+The injunction in Young sought to prevent a State Attorney 
+General from doing “that which he had no legal right to do.” 
+Ex parte Young, 209 U.S. at 159. The mandatory injunction 
+requested here seeks to order the Governor to do that which 
+IGRA commands the State to do. 
+
+It is the effect of the relief sought which determines 
+whether the suit is one against the state. In Pennhurst, 465 
+US. at 107-08, all of the relief ordered was institutional and 
+official in character and relief under Young was denied. The 
+same is true in the instant case. The relief requested is 
+institutional in that it runs against the only party recog- 
+nized by IGRA, the State; and it is official in that it seeks 
+an order telling the Governor how to act in his official 
+capacity as Governor. An order enjoining the Governor to 
+take action under the dictates of IGRA would require of the 
+Governor the very things IGRA commands of the State. 
+Such a mandatory injunction would impermissibly compel 
+the State to take action and interfere with the public ad- 
+ministration. If the Tribe’s argument were accepted, the 
+
+3 “Where the chief magistrate of a state is sued, not by his name, but 
+by his style of office, and the claim made upon him is entirely in his official 
+character, we think the state itself may be considered as a party on the 
+record. If the state is not a party, there is no party against whom a decree 
+can be made.” Governor of Georgia v. Madrazo, 1 Pet. 110, 123-24 (1828). 
+
+30 
+
+“narrow exception” set forth in Young would virtually evis- 
+cerate the Eleventh Amendment and any request for pro- 
+spective injunctive relief would be permissible. 
+
+The Tribe asserts that the Governor is responsible for 
+negotiating a compact with the Tribe. But the argument 
+fails to distiguish the Governor from the State. Moreover, 
+no citation to IGRA will support the Tribe’s assertion. The 
+only authority cited for this proposition is a provision of the 
+Florida Constitution vesting executive authority in the 
+Governor. [Pet. Br. at 23] But this provision does not vest 
+him with authority to negotiate a compact. Compacting is 
+traditionally a legislative act. Under the federal Compact 
+Clause, interstate compacts are generally approved by the 
+State legislatures and then by Congress. Similarly, other 
+state compacts with Indian tribes are legislatively ap- 
+proved. See, e.g., § 285.165, Fla. Stat. (Water Rights Compact 
+between the Seminole Tribe and the State of Florida) If the 
+legislature assumed the role of negotiator with the Tribes, 
+the Legislature could not be sued under Ex parte Young 
+because the Legislature is unquestionably “the State.” This 
+suit is, in reality, one against the State, seeking a manda- 
+tory injunction ordering the Governor to exercise his discre- 
+tion in a certain way, and it is barred by the Eleventh 
+Amendment. 
+
+B. The Acts Which are Mandated by IGRA 
+Involve Discretion 
+
+Petitioner asserts that the acts sought to be enjoined are 
+not discretionary and therefore are properly subject to the 
+Ex parte Young exception. (Pet Br. 25-31) The Tribe asserts 
+that only the requirement to negotiate in good faith is 
+subject to the injunction and that the discretion as to the 
+terms of the negotiation remains unaffected. Finally, the 
+
+31 
+
+Tribe asserts that the State can simply refuse to participate 
+in the remedial actions ordered by the Court. 
+
+The complaint in this action shows that the Tribe was 
+not merely seeking an order requiring the State to nego- 
+tiate in good faith, but a declaration that certain games 
+were to be the subject of negotiations based on the Tribe’s 
+assertion that those games were “permitted” in Florida. 
+[J.A. 18a-19a] Any order from a court addressing this 
+issue necessarily impinges on the discretion of the State 
+to determine the extent of the negotiations in accordance 
+with State law. 
+
+By limiting negotiations to gambling activities which are 
+“permitted” by the State, IGRA relies upon State law in the 
+implementation of the federal act. 25 U.S.C. § 2710(d)(1)(B). 
+See also, 18 U.S.C. § 1166 (incorporating State law for 
+federal enforcement purposes). In order to grant the 
+Tribe’s requested relief, a federal court must interpret 
+State law and order the State to comply. That is prohibited. 
+
+It is difficult to think of a greater intrusion on 
+state sovereignty than when a federal court in- 
+structs state officials on how to conform their 
+conduct to state law. 
+
+Pennhurst, 465 U.S. at 106. By asking for an interpretation 
+of what Florida “permits” under its own law, Petitioner 
+requested just such an intrusion. 
+
+The Tribe’s suggestion that the State can merely refuse 
+to participate in the remedial process militates against its 
+argument. If the State can refuse, then the very willingness 
+to negotiate becomes a discretionary act. The Solicitor 
+General even characterizes the “duty” to negotiate as a 
+“conditional one.” [Sol. Br. at 17] If so, then it is not a 
+ministerial duty for which a mandatory injunction will lie. 
+Young, 209 U.S. at 158. Petitioner cannot have it both ways; 
+
+32 
+
+either the State’s participation is discretionary or it is not. 
+If it is, then Ex parte Young does not apply no matter how 
+its holding is interpreted.* If the States’ participation is 
+mandatory, then IGRA violates the Tenth Amendment. 
+
+The Eleventh Circuit did not address the Tenth Amendment 
+issue because it had not been raised in the District Court. 
+[Pet. App. 2a—3a at note 2] This Court’s decision in New 
+York v. United States had not been issued at the time of the 
+filing of the complaint and motions in this case. Petitioner 
+asserts that the dictates of IGRA are mandatory, thereby 
+allowing an injunction to be issued under Ex parte Young. 
+This Tenth Amendment question is therefore subsumed 
+within the second question posed by the Petitioner and 
+accepted for review by this Court. The Court may appropri- 
+ately address the issue. 
+
+New York v. United States, 112 S.Ct. 2408 (1992), held that 
+the “take title” provision of the Low-Level Radioactive Waste 
+Policy Act of 1985 was a violation of the Tenth Amendment. 
+This was based on a finding that, under the Act: 
+
+A State may not decline to administer the federal 
+program. No matter which path the State chooses, 
+it must follow the direction of Congress. 
+
+Id. at 2429. But, as the Court pointed out, Congress has 
+authority over individuals, not the States. Jd. at 2422. 
+Hence, it can encourage, but not compel, a State to regulate 
+in a particular way. For example, under the Spending 
+Clause, Congress may condition the receipt of federal funds 
+on compliance with certain dictates, id. at 2423, and thus 
+highway funds may be conditioned on the adoption of a 
+minimum drinking age. South Dakota v. Dole, 483 U.S. 203, 
+
+4 If the States’ role is discretionary, then the Tribes have another 
+jurisdictional problem — if the State has no duty, then the failure to act 
+does not raise a case or controversy for Article III jurisdictional purposes. 
+
+33 
+
+206 (1987). Further, Congress can offer the States an alter- 
+native of regulating according to a federal standard or 
+having State law preempted. Hodel v. Virginia Surface 
+Mining & Reclamation Assn., Inc. , 452 U.S. 264, 288 (1981). 
+
+Congress afforded the States neither of these alterna- 
+tives in the passage of IGRA. The Act provides that the 
+State “shall negotiate.” 25 U.S.C. § 2710(d)(3)(A). If the 
+State fails to negotiate, or negotiate in good faith, then it 
+will be subject to the coercive process of the federal courts. 
+25 U.S.C. § 2710(d)(7 Ai). The coercive elements of IGRA, 
+requiring the States to negotiate under pain of federal court 
+compulsion, reduce the States to mere administrative sub- 
+divisions of the federal government. IGRA violates the 
+Tenth Amendment when it puts the States in this position 
+New York, 112 S.Ct. at 2434. 
+
+Petitioner asserts that the State can simply refuse to 
+participate. (Pet Br. at 26 n.9) But that course risks a 
+finding of contempt and undermines the dignity of the 
+federal courts. IGRA empowers a federal court to order the 
+parties to conclude a compact within 60 days and then to 
+order the parties to submit a “last best offer” toa mediator.” 
+25 U.S.C. § 2710(d)(7)(BXiii) and (iv). Failing that, the 
+Secretary of the Interior is empowered to impose regula- 
+tions governing the conduct of class III gambling, presum- 
+ably making his interpretation of State law the final word. 
+25 U.S.C. § 2710(d7 BX vii). Moreover, there is no limitation 
+
+[CONTROL: procedural-metadata paragraph omitted; no legal inference from omission.]
+
+34 
+
+on his authority to include duties for the State in his 
+proposed regulations. 
+
+By subjecting the States to the choice of negotiating and 
+entering into a compact or being subject to the coercive 
+orders of the District Court, IGRA violates the Tenth 
+Amendment. The relief sought under IGRA against the 
+Governor directs him in the exercise of his discretion; no 
+such relief is available under Ex parte Young absent an 
+allegation of an unconstitutional State law or an unconsti- 
+tutional action by State officers. 
+
+C. There is no allegation of an unconstitutional 
+State law or an unconstitutional action by 
+State officers 
+
+In Ex parte Young, the Attorney General of Minnesota was 
+enjoined from enforcing an unconstitutional state law. This 
+Court held that the unconstitutional state law was void and 
+therefore could not impart to the responsible official the 
+immunity of the State. Jd. at 159-60. In this case, there is 
+no allegation that the actions of the Governor are in further- 
+ance of an unconstitutional law. Nor is there an allegation that 
+his conduct violates the Constitution. Therefore, the rationale 
+of Young is inapplicable. This Court found Ex parte Young 
+similarly inapplicable in Worcester County Trust v. Riley: 
+
+the present suit is not founded on the asserted 
+unconstitutionality of any state statute and the 
+consequent want of lawful authority for official 
+action taken under it. 
+
+302 U.S. at 300; Mansour, 474 U.S. at 68 (Ex parte Young 
+exception applies to “a suit challenging the constitutionality 
+of a state official’s action in enforcing [a] state law”); Employees, 
+411 U.S. at 294 n.9 (suits may be brought in federal court 
+against state officers allegedly acting unconstitutionally). 
+
+35 
+
+In Ex parte Young the Court held that where “the act 
+which the state attorney general seeks to enforce be a 
+violation of the federal constitution” then he will be stripped 
+of the State’s immunity in recognition of the “superior 
+authority of that Constitution.” Jd. at 160-61; Pennhurst, 
+465 U.S. at 104. This is an obvious reference to the Supremacy 
+Clause which prevents the States from enacting laws in 
+conflict with federal enactments. See, Mansour, 474 U.S. at 
+68 (“Relief of the sort awarded in Ex parte Young gives life 
+to the Supremacy Clause.”) When a State enactment con- 
+flicts with a federal law, it is unconstitutional under the 
+Supremacy Clause and an injunction under Young would be 
+available to prevent enforcement of the State law. Without 
+an unconstitutional State law or rule, there is no basis for 
+an injunction. Compare, e.g., Edelman, 415 U.S. at 653 
+(allegation that Edelman, the Director of the Cook County 
+Department of Public Aid, administered the federal AABD 
+program pursuant to the Illinois Public Aid Code, which 
+conflicted with the federal regulations prescribing time 
+standards for processing applications. This conflict ren- 
+dered the code unconstitutional.) The lack of an allegation 
+of the unconstitutionality of either a State law or the action 
+of a State officer renders the doctrine of Ex parte Young 
+inapplicable. 
+
+36 
+
+Ill. 
+
+A TRIBAL EXCEPTION TO HANS v. LOUISIANA 
+SHOULD NOT BE ALLOWED 
+
+Petitioner argues that the holding in Hans v. Louisiana 
+should be limited so as not. to be applicable to suits by Tribes 
+against States. In Hans, this Court held that the Eleventh 
+Amendment prohibited suits against a State by citizens of 
+that State even though the text of the Amendment did not 
+literally state it. This holding was a confirmation of the 
+sovereign immunity which the States retained upon crea- 
+tion of the Union. Pennhurst, 465 U.S. at 98. 
+
+The Tribe’s argument would subject the States to suits by 
+the Tribes on the same footing as suits by other States or 
+the United States and require overruling this Court’s hold- 
+ing in Blatchford. The only basis for suits by other States 
+or the United States is the consent found in the “plan of the 
+convention.” This Court previously held that the States did 
+not give such consent with regard to the Indian tribes. 
+Blatchford, 111 S.Ct. at 2582-83. 
+
+In making this argument, Petitioner relies on language 
+found in the Constitution’s preamble. (Pet. Br. 33) This 
+argument again is a “plan of the convention” argument 
+which has been rejected by this Court. The States did not 
+accede to Congress’ power to abrogate their sovereign im- 
+munity in favor of the Tribes, any more than they consented 
+to suits by the Tribes in the “plan of the convention.” 
+
+The Petitioner’s argument that a clear statement of intent 
+to abrogate the States’ immunity suffices to avoid the appli- 
+cation of Hans is without merit. Congress cannot arrogate 
+power to itself by simply stating its intent in bold clear 
+language. In New York v. United States, 112 S. Ct. 2408 (1992), 
+this Court found that Congress had similarly attempted to 
+subject the States to an unconstitutional requirement in the 
+
+37 
+
+“take title” provision of the Low-Level Radioactive 
+Waste Policy Act. That clear statement of intent did 
+nothing to overcome the violation of the Tenth Amendment 
+found there. 
+
+Petitioner alludes to various policy considerations which 
+it believes justify limiting Hans. However, in Pennhurst, 
+this Court said: 
+
+(Considerations of policy cannot override the con- 
+stitutional limitation on the authority of the fed- 
+eral judiciary to adjudicate suits against a state. 
+
+465 U.S. at 123. Similarly, policy considerations suggested 
+by the Tribe cannot override the fundamental limitation on 
+the power of Congress or the judiciary embodied in the 
+States’ Eleventh Amendment sovereign immunity. 
+
+Finally, it is unnecessary and unwise at this time to add 
+another layer of complexity to the analysis of the States’ 
+Eleventh Amendment sovereign immunity by creating an 
+exception to Hans. The power to abrogate is not necessary 
+for Congress to fulfill its duties and responsibilities under 
+the Indian Commerce Clause. And, contrary to Petitioner’s 
+false plea, [Pet. Br. at 32] there is no State misconduct here 
+in need of correction. If Congress wants to authorize virtu- 
+ally unrestricted gambling, it should take the responsibility 
+for doing so. In sum, then, the relationship between the States 
+and the Tribes is best left alone, both entities maintaining 
+their traditional sovereign immunity. One hundred and four 
+years of adherence to Hans should not be abandoned. 
+
+38 
+
+CONCLUSION 
+
+The Eleventh Amendment immunity of the States cannot 
+be abrogated by Congress pursuant to its power under the 
+Indian Commerce Clause, and the doctrine of Ex parte 
+Young does not provide a way around that immunity in this 
+case. Therefore, the questions presented by the Petitioner 
+should both be answered in the NEGATIVE, and the hold- 
+ing of the 11th Circuit should be AFFIRMED, pending 
+resolution of the cross-petition of the State of Florida, 
+docket number 94-219. 
+
+Respectfully submitted, 
+
+ROBERT A. BUTTERWORTH 
+ATTORNEY GENERAL OF FLORIDA 
+Jonathan A. Glogau 
+
+Assistant Attorney General 
+
+Fla. Bar No. 371823 
+
+(Counsel of Record) 
+
+PL-01, The Capitol 
+
+Tallahassee, FL 32399-1050 
+(904) 488-5899 
+
+COUNSEL FOR RESPONDENTS 
+
+39 
+
+
