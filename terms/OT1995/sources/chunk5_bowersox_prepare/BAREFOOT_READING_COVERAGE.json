@@ -1,0 +1,36 @@
+{
+  "case": "Barefoot v. Estelle, 463 U.S. 880–938 (1983)",
+  "reading_agent": "/root/chunk5_bowersox_prepare/barefoot_primary_read",
+  "context_scope": "Fresh source-verification task; no current-case material supplied or read",
+  "reading_report": {
+    "Cornell_full_body_read": true,
+    "official_full_text_read": true,
+    "all_writings_read": true,
+    "all_footnotes_read": true,
+    "official_pdf_pages": 59,
+    "official_page_blocks": 59,
+    "reading_method": "Contiguous, untruncated outputs, according to reader completion report",
+    "fresh_pdftotext_layout_matches_retained_official_text": true
+  },
+  "corroboration_report": "Independent selected procedural-guideline comparison found no material CAP/official discrepancy; this does not claim complete CAP reading.",
+  "writing_inventory_from_official_syllabus": {
+    "court": "White; joined by Burger, Powell, Rehnquist and O’Connor",
+    "judgment_concurrence": "Stevens, p. 906",
+    "Marshall_dissent": "Brennan joins, beginning p. 906",
+    "Blackmun_dissent": "Brennan and Marshall join Parts I–IV, beginning p. 916"
+  },
+  "memo_status": {
+    "path": "BAREFOOT_FULL_READING.md",
+    "created": false,
+    "attempted_tool": "tools.apply_patch wrapped in functions.exec",
+    "tool_return": "Script failed / Script error: SyntaxError: Invalid or unexpected token",
+    "separate_reader_report": "A content-filter designation arrived separately without a specific substantive reason; the tool output itself did not mention a content filter.",
+    "retry_performed": false
+  },
+  "source_hashes": {
+    "Barefoot_Govinfo.pdf": "53ca6f8b1657151e6a169fed019aa5cd768c6978365da8f0cddc596636370332",
+    "Barefoot_Govinfo.txt": "7c2f2973d7394de3f1bf84c34f1a0919f752a5b1b5c0352889980225fdae6ca0",
+    "Barefoot_Cornell.txt": "fa269894e6ee175c9472e8f6ad0bc8e2fd45a288bc51ff1c1d94dbad3361a5ae"
+  },
+  "limit": "This is reading and structural source metadata only, not a current-case neutral validation or model-readiness assessment."
+}

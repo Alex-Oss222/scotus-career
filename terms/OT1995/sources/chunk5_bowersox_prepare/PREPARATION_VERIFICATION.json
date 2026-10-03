@@ -1,0 +1,10 @@
+{
+  "preparation_local_links_checked": 8,
+  "all_local_links_resolve": true,
+  "existing_freeze_hashes_match_previous_observation": {
+    "terms/OT1995/freeze/OT_1995CHUNK5_BOWERSOX_NEUTRAL_VALIDATED.md": "63affe25cd72fac41c5ec1c2e015fd9367fe03330e6a824f60b274b3cba09e4a",
+    "terms/OT1995/freeze/OT_1995CHUNK5_HABEAS_STATUTE_SOURCE_ADDENDUM.md": "b320a585ed6a52a33901df71b36677930782bad55bc5520a3b323376f23f5b71"
+  },
+  "missing_Barefoot_memo_exists": false,
+  "preparation_status": "Final source coverage and inherited-gap report; no neutral framing or modeling-readiness certification"
+}

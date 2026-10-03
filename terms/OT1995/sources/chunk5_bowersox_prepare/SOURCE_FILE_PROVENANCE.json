@@ -1,0 +1,77 @@
+{
+  "scope": "Pre-divergence Barefoot and Delo v. Stokes source preservation only",
+  "source_files": {
+    "Barefoot_CAP.html": {
+      "bytes": 185004,
+      "sha256": "32f7e6dce02684f87b88d93493160d4a766ef9d0a122ae4bb460cc8701d076c7"
+    },
+    "Barefoot_CAP_casebody.txt": {
+      "bytes": 124302,
+      "sha256": "d8651fc521f5bd6f42c06e1360fd56dbaebf4f7b05a9f24f72f0d1c95c17712f"
+    },
+    "Barefoot_Cornell.html": {
+      "bytes": 193983,
+      "sha256": "34206418e836fea1ec1d5894b66d9d02cff47e0c57aa5f5c23cf08c918dd4af2"
+    },
+    "Barefoot_Cornell.txt": {
+      "bytes": 132587,
+      "sha256": "fa269894e6ee175c9472e8f6ad0bc8e2fd45a288bc51ff1c1d94dbad3361a5ae"
+    },
+    "Barefoot_Govinfo.pdf": {
+      "bytes": 4120847,
+      "sha256": "53ca6f8b1657151e6a169fed019aa5cd768c6978365da8f0cddc596636370332"
+    },
+    "Barefoot_Govinfo.txt": {
+      "bytes": 139861,
+      "sha256": "7c2f2973d7394de3f1bf84c34f1a0919f752a5b1b5c0352889980225fdae6ca0"
+    },
+    "Barefoot_LOC.html": {
+      "bytes": 175115,
+      "sha256": "4103d3931308ebc4529934beb6a4807558e6a2ddd8683900fdf1167457a631da"
+    },
+    "Delo_CAP.html": {
+      "bytes": 23488,
+      "sha256": "76f4a1188cbeb8229315d2cc68fd8ff649ad0e25fa2205f56db4cec775bf9723"
+    },
+    "Delo_CAP_casebody.txt": {
+      "bytes": 14400,
+      "sha256": "b2e4ee7d806069bbba90b458378c24d0f436a6e9406b79e36d1b4ac412575e53"
+    },
+    "Delo_Cornell.html": {
+      "bytes": 49417,
+      "sha256": "c246b4298595fc789e512b76460d28af9694dbb7378905aeb76cd1c946870020"
+    },
+    "Delo_Cornell.txt": {
+      "bytes": 16116,
+      "sha256": "859a8939843bd52161716347b7cb948929e7084c6313820b3f7deb14e83e6926"
+    },
+    "Delo_Govinfo.pdf": {
+      "bytes": 780585,
+      "sha256": "10314b959f786b1c813e1460297317d2015e1334832dc3d68666a27c8afea761"
+    },
+    "Delo_Govinfo.txt": {
+      "bytes": 16531,
+      "sha256": "931835e77a5481dd47a8bd0057b770e72baf2f72902bff452b4af825815ea3bf"
+    },
+    "Delo_LOC.html": {
+      "bytes": 173124,
+      "sha256": "fa80329ffd9cf1aca814761302e31d381b8e63fa478a293bc7955bcec917adb9"
+    }
+  },
+  "official_report_pages": {
+    "Barefoot_Govinfo.pdf": {
+      "pdf_pages": 59,
+      "report_pages": "463 U.S. 880–938"
+    },
+    "Delo_Govinfo.pdf": {
+      "pdf_pages": 8,
+      "report_pages": "495 U.S. 320–327"
+    }
+  },
+  "extraction": {
+    "official_report_text": "pdftotext -layout; full PDFs retained",
+    "Cornell_text": "Complete div.bodytext extracted using Python HTMLParser; paragraph text and footnotes retained",
+    "CAP_text": "Complete section.casebody extracted using Python HTMLParser; modern site material excluded"
+  },
+  "coverage": "See separate source-reading notes; downloading or extraction alone does not establish full reading."
+}

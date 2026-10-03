@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Barefoot_v_Estelle_463US880",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep463/usrep463880/usrep463880.pdf",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "Delo_v_Stokes_495US320",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep495/usrep495320/usrep495320.pdf",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "Barefoot_Cornell",
+    "url": "https://www.law.cornell.edu/supremecourt/text/463/880",
+    "status": 200,
+    "bytes": 193983,
+    "sha256": "34206418e836fea1ec1d5894b66d9d02cff47e0c57aa5f5c23cf08c918dd4af2"
+  },
+  {
+    "name": "Delo_Cornell",
+    "url": "https://www.law.cornell.edu/supremecourt/text/495/320",
+    "status": 200,
+    "bytes": 49417,
+    "sha256": "c246b4298595fc789e512b76460d28af9694dbb7378905aeb76cd1c946870020"
+  },
+  {
+    "name": "Barefoot_LOC",
+    "url": "https://www.loc.gov/item/usrep463880/",
+    "status": 200,
+    "bytes": 175115,
+    "sha256": "4103d3931308ebc4529934beb6a4807558e6a2ddd8683900fdf1167457a631da"
+  },
+  {
+    "name": "Delo_LOC",
+    "url": "https://www.loc.gov/item/usrep495320/",
+    "status": 200,
+    "bytes": 173124,
+    "sha256": "fa80329ffd9cf1aca814761302e31d381b8e63fa478a293bc7955bcec917adb9"
+  },
+  {
+    "name": "Barefoot_Govinfo",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-463/pdf/USREPORTS-463-880.pdf",
+    "status": 200,
+    "bytes": 4120847,
+    "sha256": "53ca6f8b1657151e6a169fed019aa5cd768c6978365da8f0cddc596636370332"
+  },
+  {
+    "name": "Delo_Govinfo",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-495/pdf/USREPORTS-495-320.pdf",
+    "status": 200,
+    "bytes": 780585,
+    "sha256": "10314b959f786b1c813e1460297317d2015e1334832dc3d68666a27c8afea761"
+  },
+  {
+    "name": "Barefoot_CAP",
+    "url": "https://static.case.law/us/463/html/0880-01.html",
+    "status": 200,
+    "bytes": 185004,
+    "sha256": "32f7e6dce02684f87b88d93493160d4a766ef9d0a122ae4bb460cc8701d076c7"
+  },
+  {
+    "name": "Delo_CAP",
+    "url": "https://static.case.law/us/495/html/0320-01.html",
+    "status": 200,
+    "bytes": 23488,
+    "sha256": "76f4a1188cbeb8229315d2cc68fd8ff649ad0e25fa2205f56db4cec775bf9723"
+  }
+]
