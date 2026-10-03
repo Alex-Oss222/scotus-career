@@ -1,0 +1,2597 @@
+515us3rulf 06-30-97 16:37:18    PGT • USRULES
+
+
+
+
+      RULES OF THE SUPREME COURT OF THE
+                UNITED STATES
+
+
+                        ADOPTED JULY 26, 1995
+                     EFFECTIVE OCTOBER 2, 1995
+
+
+
+  The following are the Rules of the Supreme Court of the United States
+as revised on July 26, 1995. See post, p. 1196. The amended Rules be-
+came effective October 2, 1995, as provided in Rule 48, post, p. 1253.
+  For previous revisions of the Rules of the Supreme Court see 346 U. S.
+949, 388 U. S. 931, 398 U. S. 1013, 445 U. S. 985, and 493 U. S. 1099.
+
+
+
+
+                                                             1195
+515us3rulg 05-27-97 16:52:17   PGT • USRULES
+
+
+
+
+             ORDER ADOPTING REVISED RULES
+               OF THE SUPREME COURT OF
+                   THE UNITED STATES
+
+                   Wednesday, July 26, 1995
+
+  IT IS ORDERED that the revised Rules of this Court,
+today approved by the Court and lodged with the Clerk,
+shall be effective October 2, 1995, and be printed as an ap-
+pendix to the United States Reports.
+  IT IS FURTHER ORDERED that the Rules promulgated
+December 5, 1989, see 493 U. S. 1099, and all amendments to
+those Rules, shall be rescinded as of October 1, 1995, and
+that the Rules shall govern all proceedings in cases com-
+menced after that date and, to the extent feasible and just,
+cases then pending. See revised Rule 48.2.
+
+
+
+
+      1196
+515us3rulc 07-09-98 11:56:07                        PGT • USRULES
+
+
+
+
+         RULES OF THE SUPREME COURT OF THE
+                   UNITED STATES
+
+
+                               TABLE OF CONTENTS
+
+
+                                        PART I. THE COURT                                                     Page
+Rule 1.       Clerk.............................................................................................. 1199
+Rule 2.       Library.......................................................................................... 1199
+Rule 3.       Term.............................................................................................. 1200
+Rule 4.       Sessions and Quorum................................................................. 1200
+
+                         PART II. ATTORNEYS AND COUNSELORS
+Rule 5.       Admission to the Bar ................................................................. 1200
+Rule 6.       Argument Pro Hac Vice ........................................................... 1202
+Rule 7.       Prohibition Against Practice.................................................... 1202
+Rule 8.       Disbarment and Disciplinary Action ...................................... 1202
+Rule 9.       Appearance of Counsel .............................................................. 1203
+
+                 PART III. J URISDICTION ON W RIT OF CERTIORARI
+Rule 10. Considerations Governing Review on Certiorari................. 1203
+Rule 11. Certiorari to a United States Court of Appeals Before
+           Judgment.................................................................................. 1204
+Rule 12. Review on Certiorari: How Sought; Parties ......................... 1204
+Rule 13. Review on Certiorari: Time for Petitioning.......................... 1207
+Rule 14. Content of a Petition for a Writ of Certiorari...................... 1208
+Rule 15. Briefs in Opposition; Reply Briefs; Supplemental Briefs... 1211
+Rule 16. Disposition of a Petition for a Writ of Certiorari ................ 1214
+
+                               PART IV. OTHER J URISDICTION
+Rule 17.      Procedure in an Original Action ............................................. 1214
+Rule 18.      Appeal from a United States District Court ........................ 1215
+Rule 19.      Procedure on a Certified Question.......................................... 1220
+Rule 20.      Procedure on a Petition for an Extraordinary Writ............ 1221
+
+                           PART V. MOTIONS AND APPLICATIONS
+Rule 21. Motions to the Court ................................................................. 1223
+                                                                                      1197
+515us3rulc 07-09-98 11:56:07                         PGT • USRULES
+
+
+
+
+1198                                 TABLE OF CONTENTS
+                                                                                                               Page
+Rule 22. Applications to Individual Justices ......................................... 1224
+Rule 23. Stays ............................................................................................. 1225
+
+             PART VI. BRIEFS ON THE M ERITS AND ORAL A RGUMENT
+Rule 24.       Briefs on the Merits: In General............................................. 1226
+Rule 25.       Briefs on the Merits: Number of Copies and Time to File 1228
+Rule 26.       Joint Appendix ............................................................................ 1229
+Rule 27.       Calendar ....................................................................................... 1232
+Rule 28.       Oral Argument............................................................................ 1232
+
+                           PART VII. PRACTICE AND PROCEDURE
+Rule 29. Filing and Service of Documents; Special Notifications;
+           Corporate Listing................................................................... 1233
+Rule 30. Computation and Extension of Time...................................... 1236
+Rule 31. Translations ................................................................................. 1237
+Rule 32. Models, Diagrams, and Exhibits.............................................. 1237
+Rule 33. Document Preparation: Booklet Format; 81 /2- by 11-Inch
+           Paper Format .......................................................................... 1238
+Rule 34. Document Preparation: General Requirements ................... 1241
+Rule 35. Death, Substitution, and Revivor; Public Officers ............... 1243
+Rule 36. Custody of Prisoners in Habeas Corpus Proceedings......... 1244
+Rule 37. Brief for an Amicus Curiae..................................................... 1244
+Rule 38. Fees ............................................................................................... 1246
+Rule 39. Proceedings In Forma Pauperis ............................................ 1247
+Rule 40. Veterans, Seamen, and Military Cases................................... 1248
+
+                             PART VIII. DISPOSITION OF CASES
+Rule 41.       Opinions of the Court ................................................................ 1249
+Rule 42.       Interest and Damages ............................................................... 1249
+Rule 43.       Costs.............................................................................................. 1250
+Rule 44.       Rehearing..................................................................................... 1251
+Rule 45.       Process; Mandates ...................................................................... 1252
+Rule 46.       Dismissing Cases ........................................................................ 1252
+
+                      PART IX. DEFINITIONS AND EFFECTIVE DATE
+Rule 47. Reference to “State Court” and “State Law” ...................... 1253
+Rule 48. Effective Date of Rules............................................................. 1253
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+     RULES OF THE SUPREME COURT OF THE
+               UNITED STATES
+
+
+   Adopted July 26, 1995—Effective October 2, 1995
+
+
+                      PART I. THE COURT
+Rule 1. Clerk
+  1. The Clerk receives documents for filing with the Court
+and has authority to reject any submitted filing that does
+not comply with these Rules.
+  2. The Clerk maintains the Court’s records and will not
+permit any of them to be removed from the Court building
+except as authorized by the Court. Any document filed
+with the Clerk and made a part of the Court’s records may
+not thereafter be withdrawn from the official Court files.
+After the conclusion of proceedings in this Court, original
+records and documents transmitted to this Court by any
+other court will be returned to the court from which they
+were received.
+  3. Unless the Court or the Chief Justice orders otherwise,
+the Clerk’s office is open from 9 a.m. to 5 p.m., Monday
+through Friday, except on federal legal holidays listed in 5
+U. S. C. § 6103.
+Rule 2. Library
+  1. The Court’s library is available for use by appropriate
+personnel of this Court, members of the Bar of this Court,
+Members of Congress and their legal staffs, and attorneys
+for the United States and for federal departments and
+agencies.
+  2. The library’s hours are governed by regulations made
+by the Librarian with the approval of the Chief Justice or
+the Court.
+                                                  1199
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+1200           RULES OF THE SUPREME COURT
+
+  3. Library books may not be removed from the Court
+building, except by a Justice or a member of a Justice’s staff.
+Rule 3. Term
+  The Court holds a continuous annual Term commencing on
+the first Monday in October and ending on the day before
+the first Monday in October of the following year. See 28
+U. S. C. § 2. At the end of each Term, all cases pending on
+the docket are continued to the next Term.
+Rule 4. Sessions and Quorum
+  1. Open sessions of the Court are held beginning at 10 a.m.
+on the first Monday in October of each year, and thereafter
+as announced by the Court. Unless it orders otherwise, the
+Court sits to hear arguments from 10 a.m. until noon and
+from 1 p.m. until 3 p.m.
+  2. Six Members of the Court constitute a quorum. See
+28 U. S. C. § 1. In the absence of a quorum on any day
+appointed for holding a session of the Court, the Justices
+attending—or if no Justice is present, the Clerk or a Deputy
+Clerk—may announce that the Court will not meet until
+there is a quorum.
+  3. When appropriate, the Court will direct the Clerk or
+the Marshal to announce recesses.
+
+            PART II. ATTORNEYS AND COUNSELORS
+Rule 5. Admission to the Bar
+  1. To qualify for admission to the Bar of this Court, an
+applicant must have been admitted to practice in the highest
+court of a State, Commonwealth, Territory or Possession, or
+the District of Columbia for a period of at least three years
+immediately before the date of application; must not have
+been the subject of any adverse disciplinary action pro-
+nounced or in effect during that 3-year period; and must
+appear to the Court to be of good moral and professional
+character.
+  2. Each applicant shall file with the Clerk (1) a certificate
+from the presiding judge, clerk, or other authorized official
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                     1201
+
+of that court evidencing the applicant’s admission to practice
+there and the applicant’s current good standing, and (2) a
+completely executed copy of the form approved by this Court
+and furnished by the Clerk containing (a) the applicant’s per-
+sonal statement, and (b) the statement of two sponsors en-
+dorsing the correctness of the applicant’s statement, stating
+that the applicant possesses all the qualifications required
+for admission, and affirming that the applicant is of good
+moral and professional character. Both sponsors must be
+members of the Bar of this Court who personally know, but
+are not related to, the applicant.
+   3. If the documents submitted demonstrate that the appli-
+cant possesses the necessary qualifications, and if the appli-
+cant has signed the oath or affirmation and paid the required
+fee, the Clerk will notify the applicant of acceptance by the
+Court as a member of the Bar and issue a certificate of ad-
+mission. An applicant who so wishes may be admitted in
+open court on oral motion by a member of the Bar of this
+Court, provided that all other requirements for admission
+have been satisfied.
+   4. Each applicant shall sign the following oath or affirma-
+tion: I, ..............., do solemnly swear (or affirm) that as an
+attorney and as a counselor of this Court, I will conduct my-
+self uprightly and according to law, and that I will support
+the Constitution of the United States.
+   5. The fee for admission to the Bar and a certificate bear-
+ing the seal of the Court is $100, payable to the United States
+Supreme Court. The Marshal will deposit such fees in a
+separate fund to be disbursed by the Marshal at the direction
+of the Chief Justice for the costs of admissions, for the benefit
+of the Court and its Bar, and for related purposes.
+   6. The fee for a duplicate certificate of admission to the
+Bar bearing the seal of the Court is $15, payable to the
+United States Supreme Court. The proceeds will be main-
+tained by the Marshal as provided in paragraph 5 of this
+Rule.
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+1202           RULES OF THE SUPREME COURT
+
+Rule 6. Argument Pro Hac Vice
+   1. An attorney not admitted to practice in the highest
+court of a State, Commonwealth, Territory or Possession, or
+the District of Columbia for the requisite three years, but
+otherwise eligible for admission to practice in this Court
+under Rule 5.1, may be permitted to argue pro hac vice.
+   2. An attorney qualified to practice in the courts of a
+foreign state may be permitted to argue pro hac vice.
+   3. Oral argument pro hac vice is allowed only on motion
+of the counsel of record for the party on whose behalf leave
+is requested. The motion shall state concisely the qualifica-
+tions of the attorney who is to argue pro hac vice. It shall
+be filed with the Clerk, in the form required by Rule 21, no
+later than the date on which the respondent’s or appellee’s
+brief on the merits is due to be filed, and it shall be accompa-
+nied by proof of service as required by Rule 29.
+Rule 7. Prohibition Against Practice
+  No employee of this Court shall practice as an attorney or
+counselor in any court or before any agency of government
+while employed by the Court; nor shall any person after
+leaving such employment participate in any professional
+capacity in any case pending before this Court or in any
+case being considered for filing in this Court, until two
+years have elapsed after separation; nor shall a former em-
+ployee ever participate in any professional capacity in any
+case that was pending in this Court during the employee’s
+tenure.
+Rule 8. Disbarment and Disciplinary Action
+  1. Whenever a member of the Bar of this Court has been
+disbarred or suspended from practice in any court of record,
+or has engaged in conduct unbecoming a member of the Bar
+of this Court, the Court will enter an order suspending that
+member from practice before this Court and affording the
+member an opportunity to show cause, within 40 days, why
+a disbarment order should not be entered. Upon response,
+or if no response is timely filed, the Court will enter an
+appropriate order.
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                   1203
+
+   2. After reasonable notice and an opportunity to show
+cause why disciplinary action should not be taken, and after
+a hearing if material facts are in dispute, the Court may take
+any appropriate disciplinary action against any attorney who
+is admitted to practice before it for conduct unbecoming a
+member of the Bar or for failure to comply with these Rules
+or any Rule or order of the Court.
+Rule 9. Appearance of Counsel
+   1. An attorney seeking to file a document in this Court
+in a representative capacity must first be admitted to prac-
+tice before this Court as provided in Rule 5, except that
+admission to the Bar of this Court is not required for an
+attorney appointed under the Criminal Justice Act of 1964,
+see 18 U. S. C. § 3006A(d)(6), or under any other applicable
+federal statute. The attorney whose name, address, and
+telephone number appear on the cover of a document pre-
+sented for filing is considered counsel of record, and a sepa-
+rate notice of appearance need not be filed. If the name of
+more than one attorney is shown on the cover of the docu-
+ment, the attorney who is counsel of record shall be clearly
+identified.
+   2. An attorney representing a party who will not be filing
+a document shall enter a separate notice of appearance as
+counsel of record indicating the name of the party repre-
+sented. A separate notice of appearance shall also be en-
+tered whenever an attorney is substituted as counsel of rec-
+ord in a particular case.
+
+      PART III. J URISDICTION ON W RIT OF CERTIORARI
+Rule 10. Considerations Governing Review on
+             Certiorari
+   Review on a writ of certiorari is not a matter of right, but
+of judicial discretion. A petition for a writ of certiorari will
+be granted only for compelling reasons. The following, al-
+though neither controlling nor fully measuring the Court’s
+discretion, indicate the character of the reasons the Court
+considers:
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+1204            RULES OF THE SUPREME COURT
+
+         (a) a United States court of appeals has entered a
+       decision in conflict with the decision of another United
+       States court of appeals on the same important matter;
+       has decided an important federal question in a way that
+       conflicts with a decision by a state court of last resort;
+       or has so far departed from the accepted and usual
+       course of judicial proceedings, or sanctioned such a de-
+       parture by a lower court, as to call for an exercise of
+       this Court’s supervisory power;
+         (b) a state court of last resort has decided an impor-
+       tant federal question in a way that conflicts with the
+       decision of another state court of last resort or of a
+       United States court of appeals;
+         (c) a state court or a United States court of appeals
+       has decided an important question of federal law that
+       has not been, but should be, settled by this Court, or
+       has decided an important federal question in a way that
+       conflicts with relevant decisions of this Court.
+A petition for a writ of certiorari is rarely granted when the
+asserted error consists of erroneous factual findings or the
+misapplication of a properly stated rule of law.
+
+Rule 11. Certiorari to a United States Court of Appeals
+            Before Judgment
+   A petition for a writ of certiorari to review a case pending
+in a United States court of appeals, before judgment is en-
+tered in that court, will be granted only upon a showing that
+the case is of such imperative public importance as to justify
+deviation from normal appellate practice and to require
+immediate determination in this Court. See 28 U. S. C.
+§ 2101(e).
+
+Rule 12. Review on Certiorari: How Sought; Parties
+   1. Except as provided in paragraph 2 of this Rule, the peti-
+tioner shall file 40 copies of a petition for a writ of certiorari,
+prepared as required by Rule 33.1, and shall pay the Rule
+38(a) docket fee.
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                   1205
+
+   2. A petitioner proceeding in forma pauperis under Rule
+39 shall file an original and 10 copies of a petition for a writ
+of certiorari prepared as required by Rule 33.2, together
+with an original and 10 copies of the motion for leave to
+proceed in forma pauperis. A copy of the motion shall pre-
+cede and be attached to each copy of the petition. An in-
+mate confined in an institution, if proceeding in forma pau-
+peris and not represented by counsel, need file only an
+original petition and motion.
+   3. Whether prepared under Rule 33.1 or Rule 33.2, the
+petition shall comply in all respects with Rule 14 and shall
+be submitted with proof of service as required by Rule 29.
+The case then will be placed on the docket. It is the peti-
+tioner’s duty to notify all respondents promptly, on a form
+supplied by the Clerk, of the date of filing, the date the case
+was placed on the docket, and the docket number of the case.
+The notice shall be served as required by Rule 29.
+   4. Parties interested jointly, severally, or otherwise in a
+judgment may petition separately for a writ of certiorari; or
+any two or more may join in a petition. A party not shown
+on the petition as joined therein at the time the petition is
+filed may not later join in that petition. When two or more
+judgments are sought to be reviewed on a writ of certiorari
+to the same court and involve identical or closely related
+questions, a single petition for a writ of certiorari covering
+all the judgments suffices. A petition for a writ of certiorari
+may not be joined with any other pleading, except that any
+motion for leave to proceed in forma pauperis shall be
+attached.
+   5. No more than 30 days after a case has been placed on
+the docket, a respondent seeking to file a conditional cross-
+petition (i. e., a cross-petition that otherwise would be un-
+timely) shall file, with proof of service as required by Rule
+29, 40 copies of the cross-petition prepared as required by
+Rule 33.1, except that a cross-petitioner proceeding in forma
+pauperis under Rule 39 shall comply with Rule 12.2. The
+cross-petition shall comply in all respects with this Rule and
+Rule 14, except that material already reproduced in the ap-
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+1206           RULES OF THE SUPREME COURT
+
+pendix to the opening petition need not be reproduced again.
+A cross-petitioning respondent shall pay the Rule 38(a)
+docket fee or submit a motion for leave to proceed in forma
+pauperis. The cover of the cross-petition shall indicate
+clearly that it is a conditional cross-petition. The cross-
+petition then will be placed on the docket, subject to the
+provisions of Rule 13.4. It is the cross-petitioner’s duty to
+notify all cross-respondents promptly, on a form supplied by
+the Clerk, of the date of filing, the date the cross-petition
+was placed on the docket, and the docket number of the
+cross-petition. The notice shall be served as required by
+Rule 29. A cross-petition for a writ of certiorari may not
+be joined with any other pleading, except that any motion
+for leave to proceed in forma pauperis shall be attached.
+The time to file a cross-petition will not be extended.
+   6. All parties to the proceeding in the court whose judg-
+ment is sought to be reviewed are deemed parties entitled
+to file documents in this Court, unless the petitioner notifies
+the Clerk of this Court in writing of the petitioner’s belief
+that one or more of the parties below have no interest in the
+outcome of the petition. A copy of such notice shall be
+served as required by Rule 29 on all parties to the proceed-
+ing below. A party noted as no longer interested may re-
+main a party by notifying the Clerk promptly, with service
+on the other parties, of an intention to remain a party. All
+parties other than the petitioner are considered respondents,
+but any respondent who supports the position of a petitioner
+shall meet the petitioner’s time schedule for filing docu-
+ments, except that a response supporting the petition shall
+be filed within 20 days after the case is placed on the docket,
+and that time will not be extended. Parties who file no doc-
+ument will not qualify for any relief from this Court.
+   7. The clerk of the court having possession of the record
+shall keep it until notified by the Clerk of this Court to cer-
+tify and transmit it. In any document filed with this Court,
+a party may cite or quote from the record, even if it has
+not been transmitted to this Court. When requested by the
+Clerk of this Court to certify and transmit the record, or any
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                    1207
+
+part of it, the clerk of the court having possession of the
+record shall number the documents to be certified and shall
+transmit therewith a numbered list specifically identifying
+each document transmitted. If the record, or stipulated por-
+tions, have been printed for the use of the court below, that
+printed record, plus the proceedings in the court below, may
+be certified as the record unless one of the parties or the
+Clerk of this Court requests otherwise. The record may
+consist of certified copies, but if the lower court is of the
+view that original documents of any kind should be seen by
+this Court, that court may provide by order for the trans-
+port, safekeeping, and return of such originals.
+
+Rule 13. Review on Certiorari: Time for Petitioning
+   1. Unless otherwise provided by law, a petition for a writ
+of certiorari to review a judgment in any case, civil or crimi-
+nal, entered by a state court of last resort or a United States
+court of appeals (including the United States Court of Ap-
+peals for the Armed Forces) is timely when it is filed with
+the Clerk of this Court within 90 days after entry of the
+judgment. A petition for a writ of certiorari seeking review
+of a judgment of a lower state court that is subject to discre-
+tionary review by the state court of last resort is timely
+when it is filed with the Clerk within 90 days after entry of
+the order denying discretionary review.
+   2. The Clerk will not file any petition for a writ of cer-
+tiorari that is jurisdictionally out of time. See, e. g., 28
+U. S. C. § 2101(c).
+   3. The time to file a petition for a writ of certiorari runs
+from the date of entry of the judgment or order sought to be
+reviewed, and not from the issuance date of the mandate (or
+its equivalent under local practice). But if a petition for re-
+hearing is timely filed in the lower court by any party, the
+time to file the petition for a writ of certiorari for all parties
+(whether or not they requested rehearing or joined in the
+petition for rehearing) runs from the date of the denial of
+the petition for rehearing or, if the petition for rehearing is
+granted, the subsequent entry of judgment. A suggestion
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+1208           RULES OF THE SUPREME COURT
+
+made to a United States court of appeals for a rehearing en
+banc is not a petition for rehearing within the meaning of
+this Rule unless so treated by the United States court of
+appeals.
+   4. A cross-petition for a writ of certiorari is timely when
+it is filed with the Clerk as provided in paragraphs 1, 3, and
+5 of this Rule, or in Rule 12.5. However, a conditional
+cross-petition (which except for Rule 12.5 would be untimely)
+will not be granted unless another party’s timely petition for
+a writ of certiorari is granted.
+   5. For good cause, a Justice may extend the time to file a
+petition for a writ of certiorari for a period not exceeding 60
+days. An application to extend the time to file shall set out
+the basis for jurisdiction in this Court, identify the judgment
+sought to be reviewed, include a copy of the opinion and any
+order respecting rehearing, and set out specific reasons why
+an extension of time is justified. The application must be
+received by the Clerk at least 10 days before the date the
+petition is due, except in extraordinary circumstances. For
+the time and manner of presenting the application, see Rules
+21, 22, 30, and 33.2. An application to extend the time to
+file a petition for a writ of certiorari is not favored.
+
+Rule 14. Content of a Petition for a Writ of Certiorari
+   1. A petition for a writ of certiorari shall contain, in the
+order indicated:
+   (a) The questions presented for review, expressed con-
+cisely in relation to the circumstances of the case, without
+unnecessary detail. The questions should be short and
+should not be argumentative or repetitive. If the petitioner
+or respondent is under a death sentence that may be affected
+by the disposition of the petition, the notation “capital case”
+shall precede the questions presented. The questions shall
+be set out on the first page following the cover, and no other
+information may appear on that page. The statement of any
+question presented is deemed to comprise every subsidiary
+question fairly included therein. Only the questions set out
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                   1209
+
+in the petition, or fairly included therein, will be considered
+by the Court.
+   (b) A list of all parties to the proceeding in the court
+whose judgment is sought to be reviewed (unless the caption
+of the case contains the names of all the parties), and a list
+of parent companies and nonwholly owned subsidiaries as
+required by Rule 29.6.
+   (c) If the petition exceeds five pages, a table of contents
+and a table of cited authorities.
+   (d) Citations of the official and unofficial reports of the
+opinions and orders entered in the case by courts or admin-
+istrative agencies.
+   (e) A concise statement of the basis for jurisdiction in this
+Court, showing:
+        (i) the date the judgment or order sought to be re-
+     viewed was entered (and, if applicable, a statement that
+     the petition is filed under this Court’s Rule 11);
+        (ii) the date of any order respecting rehearing, and
+     the date and terms of any order granting an extension
+     of time to file the petition for a writ of certiorari;
+        (iii) express reliance on Rule 12.5, when a cross-
+     petition for a writ of certiorari is filed under that Rule,
+     and the date of docketing of the petition for a writ of
+     certiorari in connection with which the cross-petition is
+     filed;
+        (iv) the statutory provision believed to confer on this
+     Court jurisdiction to review on a writ of certiorari the
+     judgment or order in question; and
+        (v) if applicable, a statement that the notifications
+     required by Rule 29.4(b) or (c) have been made.
+
+  (f) The constitutional provisions, treaties, statutes, ordi-
+nances, and regulations involved in the case, set out verba-
+tim with appropriate citation. If the provisions involved are
+lengthy, their citation alone suffices at this point, and their
+pertinent text shall be set out in the appendix referred to in
+subparagraph 1(i).
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+1210            RULES OF THE SUPREME COURT
+
+  (g) A concise statement of the case setting out the facts
+material to consideration of the questions presented, and also
+containing the following:
+          (i) If review of a state-court judgment is sought, spec-
+       ification of the stage in the proceedings, both in the
+       court of first instance and in the appellate courts, when
+       the federal questions sought to be reviewed were raised;
+       the method or manner of raising them and the way in
+       which they were passed on by those courts; and perti-
+       nent quotations of specific portions of the record or sum-
+       mary thereof, with specific reference to the places in the
+       record where the matter appears (e. g., court opinion,
+       ruling on exception, portion of court’s charge and excep-
+       tion thereto, assignment of error), so as to show that the
+       federal question was timely and properly raised and that
+       this Court has jurisdiction to review the judgment on a
+       writ of certiorari. When the portions of the record re-
+       lied on under this subparagraph are voluminous, they
+       shall be included in the appendix referred to in subpara-
+       graph 1(i).
+          (ii) If review of a judgment of a United States court
+       of appeals is sought, the basis for federal jurisdiction in
+       the court of first instance.
+  (h) A direct and concise argument amplifying the reasons
+relied on for allowance of the writ. See Rule 10.
+  (i) An appendix containing, in the order indicated:
+          (i) the opinions, orders, findings of fact, and conclu-
+       sions of law, whether written or orally given and tran-
+       scribed, entered in conjunction with the judgment
+       sought to be reviewed;
+          (ii) any other opinions, orders, findings of fact, and
+       conclusions of law entered in the case by courts or ad-
+       ministrative agencies, and, if reference thereto is neces-
+       sary to ascertain the grounds of the judgment, of those
+       in companion cases (each document shall include the cap-
+       tion showing the name of the issuing court or agency,
+       the title and number of the case, and the date of entry);
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                    1211
+
+       (iii) any order on rehearing, including the caption
+     showing the name of the issuing court, the title and
+     number of the case, and the date of entry;
+       (iv) the judgment sought to be reviewed if the date
+     of its entry is different from the date of the opinion
+     or order required in sub-subparagraph (i) of this
+     subparagraph;
+       (v) material required by subparagraphs 1(f) or
+     1(g)(i); and
+       (vi) any other material the petitioner believes es-
+     sential to understand the petition.
+If the material required by this subparagraph is voluminous,
+it may be presented in a separate volume or volumes with
+appropriate covers.
+   2. All contentions in support of a petition for a writ of
+certiorari shall be set out in the body of the petition, as pro-
+vided in subparagraph 1(h) of this Rule. No separate brief
+in support of a petition for a writ of certiorari may be filed,
+and the Clerk will not file any petition for a writ of certiorari
+to which any supporting brief is annexed or appended.
+   3. A petition for a writ of certiorari should be stated
+briefly and in plain terms and may not exceed the page limi-
+tations specified in Rule 33.
+   4. The failure of a petitioner to present with accuracy,
+brevity, and clarity whatever is essential to ready and ade-
+quate understanding of the points requiring consideration is
+sufficient reason for the Court to deny a petition.
+   5. If the Clerk determines that a petition submitted timely
+and in good faith is in a form that does not comply with this
+Rule or with Rule 33 or Rule 34, the Clerk will return it
+with a letter indicating the deficiency. A corrected petition
+received no more than 60 days after the date of the Clerk’s
+letter will be deemed timely.
+Rule 15. Briefs in Opposition; Reply Briefs;
+           Supplemental Briefs
+  1. A brief in opposition to a petition for a writ of certiorari
+may be filed by the respondent in any case, but is not man-
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+1212           RULES OF THE SUPREME COURT
+
+datory except in a capital case, see Rule 14.1(a), or when
+ordered by the Court.
+   2. A brief in opposition should be stated briefly and in
+plain terms and may not exceed the page limitations speci-
+fied in Rule 33. In addition to presenting other arguments
+for denying the petition, the brief in opposition should ad-
+dress any perceived misstatement of fact or law in the peti-
+tion that bears on what issues properly would be before the
+Court if certiorari were granted. Counsel are admonished
+that they have an obligation to the Court to point out in the
+brief in opposition, and not later, any perceived misstatement
+made in the petition. Any objection to consideration of a
+question presented based on what occurred in the proceed-
+ings below, if the objection does not go to jurisdiction, may
+be deemed waived unless called to the Court’s attention in
+the brief in opposition.
+   3. Any brief in opposition shall be filed within 30 days
+after the case is placed on the docket, unless the time is ex-
+tended by the Court or a Justice, or by the Clerk under Rule
+30.4. Forty copies shall be filed, except that a respondent
+proceeding in forma pauperis under Rule 39, including an
+inmate of an institution, shall file the number of copies re-
+quired for a petition by such a person under Rule 12.2, to-
+gether with a motion for leave to proceed in forma pauperis,
+a copy of which shall precede and be attached to each copy
+of the brief in opposition. If the petitioner is proceeding in
+forma pauperis, the respondent may file an original and 10
+copies of a brief in opposition prepared as required by Rule
+33.2. Whether prepared under Rule 33.1 or Rule 33.2, the
+brief in opposition shall comply with the requirements of
+Rule 24 governing a respondent’s brief, except that no sum-
+mary of the argument is required. A brief in opposition
+may not be joined with any other pleading, except that any
+motion for leave to proceed in forma pauperis shall be
+attached. The brief in opposition shall be served as re-
+quired by Rule 29.
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                    1213
+
+   4. No motion by a respondent to dismiss a petition for a
+writ of certiorari may be filed. Any objections to the juris-
+diction of the Court to grant a petition for a writ of certiorari
+shall be included in the brief in opposition.
+   5. The Clerk will distribute the petition to the Court for
+its consideration upon receiving an express waiver of the
+right to file a brief in opposition, or, if no waiver or brief in
+opposition is filed, upon the expiration of the time allowed
+for filing. If a brief in opposition is timely filed, the Clerk
+will distribute the petition, brief in opposition, and any reply
+brief to the Court for its consideration no less than 10 days
+after the brief in opposition is filed.
+   6. Any petitioner may file a reply brief addressed to new
+points raised in the brief in opposition, but distribution and
+consideration by the Court under paragraph 5 of this Rule
+will not be deferred pending its receipt. Forty copies shall
+be filed, except that petitioner proceeding in forma pauperis
+under Rule 39, including an inmate of an institution, shall file
+the number of copies required for a petition by such a person
+under Rule 12.2. The reply brief shall be served as required
+by Rule 29.
+   7. If a cross-petition for a writ of certiorari has been dock-
+eted, distribution of both petitions will be deferred until the
+cross-petition is due for distribution under this Rule.
+   8. Any party may file a supplemental brief at any time
+while a petition for a writ of certiorari is pending, calling
+attention to new cases, new legislation, or other intervening
+matter not available at the time of the party’s last filing. A
+supplemental brief shall be restricted to new matter and
+shall follow, insofar as applicable, the form for a brief in oppo-
+sition prescribed by this Rule. Forty copies shall be filed,
+except that a party proceeding in forma pauperis under
+Rule 39, including an inmate of an institution, shall file the
+number of copies required for a petition by such a person
+under Rule 12.2. The supplemental brief shall be served as
+required by Rule 29.
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+1214           RULES OF THE SUPREME COURT
+
+Rule 16. Disposition of a Petition for a Writ of
+            Certiorari
+   1. After considering the documents distributed under
+Rule 15, the Court will enter an appropriate order. The
+order may be a summary disposition on the merits.
+   2. Whenever the Court grants a petition for a writ of cer-
+tiorari, the Clerk will prepare, sign, and enter an order to
+that effect and will notify forthwith counsel of record and
+the court whose judgment is to be reviewed. The case then
+will be scheduled for briefing and oral argument. If the rec-
+ord has not previously been filed in this Court, the Clerk will
+request the clerk of the court having possession of the record
+to certify and transmit it. A formal writ will not issue un-
+less specially directed.
+   3. Whenever the Court denies a petition for a writ of cer-
+tiorari, the Clerk will prepare, sign, and enter an order to
+that effect and will notify forthwith counsel of record and
+the court whose judgment was sought to be reviewed. The
+order of denial will not be suspended pending disposition of
+a petition for rehearing except by order of the Court or a
+Justice.
+
+                PART IV. OTHER J URISDICTION
+
+Rule 17. Procedure in an Original Action
+   1. This Rule applies only to an action invoking the Court’s
+original jurisdiction under Article III of the Constitution of
+the United States. See also 28 U. S. C. § 1251 and U. S.
+Const., Amdt. 11. A petition for an extraordinary writ in
+aid of the Court’s appellate jurisdiction shall be filed as pro-
+vided in Rule 20.
+   2. The form of pleadings and motions prescribed by the
+Federal Rules of Civil Procedure is followed. In other
+respects, those Rules and the Federal Rules of Evidence
+may be taken as guides.
+   3. The initial pleading shall be preceded by a motion for
+leave to file, and may be accompanied by a brief in support
+of the motion. Forty copies of each document shall be filed,
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                    1215
+
+with proof of service. Service shall be as required by Rule
+29, except that when an adverse party is a State, service
+shall be made on both the Governor and the Attorney Gen-
+eral of that State.
+   4. The case will be placed on the docket when the motion
+for leave to file and the initial pleading are filed with the
+Clerk. The Rule 38(a) docket fee shall be paid at that time.
+   5. No more than 60 days after receiving the motion for
+leave to file and the initial pleading, an adverse party shall
+file 40 copies of any brief in opposition to the motion, with
+proof of service as required by Rule 29. The Clerk will dis-
+tribute the filed documents to the Court for its consideration
+upon receiving an express waiver of the right to file a brief
+in opposition, or, if no waiver or brief is filed, upon the expi-
+ration of the time allowed for filing. If a brief in opposition
+is timely filed, the Clerk will distribute the filed documents
+to the Court for its consideration no less than 10 days after
+the brief in opposition is filed. A reply brief may be filed,
+but consideration of the case will not be deferred pending
+its receipt. The Court thereafter may grant or deny the
+motion, set it for oral argument, direct that additional
+documents be filed, or require that other proceedings be
+conducted.
+   6. A summons issued out of this Court shall be served
+on the defendant 60 days before the return day specified
+therein. If the defendant does not respond by the return
+day, the plaintiff may proceed ex parte.
+   7. Process against a State issued out of this Court shall be
+served on both the Governor and the Attorney General of
+that State.
+
+Rule 18. Appeal from a United States District Court
+  1. When a direct appeal from a decision of a United States
+district court is authorized by law, the appeal is commenced
+by filing a notice of appeal with the clerk of the district court
+within the time provided by law after entry of the judgment
+sought to be reviewed. The time to file may not be ex-
+tended. The notice of appeal shall specify the parties taking
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+1216           RULES OF THE SUPREME COURT
+
+the appeal, designate the judgment, or part thereof, ap-
+pealed from and the date of its entry, and specify the statute
+or statutes under which the appeal is taken. A copy of the
+notice of appeal shall be served on all parties to the proceed-
+ing as required by Rule 29, and proof of service shall be filed
+in the district court together with the notice of appeal.
+   2. All parties to the proceeding in the district court are
+deemed parties entitled to file documents in this Court, but
+a party having no interest in the outcome of the appeal may
+so notify the Clerk of this Court and shall serve a copy of
+the notice on all other parties. Parties interested jointly,
+severally, or otherwise in the judgment may appeal sepa-
+rately, or any two or more may join in an appeal. When
+two or more judgments involving identical or closely related
+questions are sought to be reviewed on appeal from the same
+court, a notice of appeal for each judgment shall be filed with
+the clerk of the district court, but a single jurisdictional
+statement covering all the judgments suffices. Parties who
+file no document will not qualify for any relief from this
+Court.
+   3. No more than 60 days after filing the notice of appeal
+in the district court, the appellant shall file 40 copies of a
+jurisdictional statement and shall pay the Rule 38 docket fee,
+except that an appellant proceeding in forma pauperis
+under Rule 39, including an inmate of an institution, shall file
+the number of copies required for a petition by such a person
+under Rule 12.2, together with a motion for leave to proceed
+in forma pauperis, a copy of which shall precede and be
+attached to each copy of the jurisdictional statement. The
+jurisdictional statement shall follow, insofar as applicable,
+the form for a petition for a writ of certiorari prescribed by
+Rule 14, and shall be served as required by Rule 29. The
+appendix shall include a copy of the notice of appeal showing
+the date it was filed in the district court. For good cause, a
+Justice may extend the time to file a jurisdictional statement
+for a period not exceeding 60 days. An application to ex-
+tend the time to file a jurisdictional statement shall set out
+the basis for jurisdiction in this Court; identify the judgment
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                  1217
+
+sought to be reviewed; include a copy of the opinion, any
+order respecting rehearing, and the notice of appeal; and set
+out specific reasons why an extension of time is justified.
+For the time and manner of presenting the application, see
+Rules 21, 22, and 30. An application to extend the time to
+file a jurisdictional statement is not favored.
+   4. No more than 30 days after a case has been placed on
+the docket, an appellee seeking to file a conditional cross-
+appeal (i. e., a cross-appeal that otherwise would be un-
+timely) shall file, with proof of service as required by Rule
+29, a jurisdictional statement that complies in all respects
+(including number of copies filed) with paragraph 3 of this
+Rule, except that material already reproduced in the appen-
+dix to the opening jurisdictional statement need not be re-
+produced again. A cross-appealing appellee shall pay the
+Rule 38 docket fee or submit a motion for leave to proceed
+in forma pauperis. The cover of the cross-appeal shall indi-
+cate clearly that it is a conditional cross-appeal. The cross-
+appeal then will be placed on the docket. It is the cross-
+appellant’s duty to notify all cross-appellees promptly, on a
+form supplied by the Clerk, of the date of filing, the date the
+cross-appeal was placed on the docket, and the docket num-
+ber of the cross-appeal. The notice shall be served as re-
+quired by Rule 29. A cross-appeal may not be joined with
+any other pleading, except that any motion for leave to pro-
+ceed in forma pauperis shall be attached. The time to file
+a cross-appeal will not be extended.
+   5. After a notice of appeal has been filed in the district
+court, but before the case is placed on this Court’s docket,
+the parties may dismiss the appeal by stipulation filed in the
+district court, or the district court may dismiss the appeal
+on the appellant’s motion, with notice to all parties. If a
+notice of appeal has been filed, but the case has not been
+placed on this Court’s docket within the time prescribed for
+docketing, the district court may dismiss the appeal on the
+appellee’s motion, with notice to all parties, and may make
+any just order with respect to costs. If the district court
+has denied the appellee’s motion to dismiss the appeal, the
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+1218           RULES OF THE SUPREME COURT
+
+appellee may move this Court to docket and dismiss the ap-
+peal by filing an original and 10 copies of a motion presented
+in conformity with Rules 21 and 33.2. The motion shall be
+accompanied by proof of service as required by Rule 29, and
+by a certificate from the clerk of the district court, certifying
+that a notice of appeal was filed and that the appellee’s mo-
+tion to dismiss was denied. The appellant may not thereaf-
+ter file a jurisdictional statement without special leave of the
+Court, and the Court may allow costs against the appellant.
+   6. Within 30 days after the case is placed on this Court’s
+docket, the appellee may file a motion to dismiss, to affirm,
+or in the alternative to affirm or dismiss. Forty copies of
+the motion shall be filed, except that an appellee proceeding
+in forma pauperis under Rule 39, including an inmate of an
+institution, shall file the number of copies required for a peti-
+tion by such a person under Rule 12.2, together with a mo-
+tion for leave to proceed in forma pauperis, a copy of which
+shall precede and be attached to each copy of the motion to
+dismiss, to affirm, or in the alternative to affirm or dismiss.
+The motion shall follow, insofar as applicable, the form for a
+brief in opposition prescribed by Rule 15, and shall comply
+in all respects with Rule 21.
+   7. The Clerk will distribute the jurisdictional statement to
+the Court for its consideration upon receiving an express
+waiver of the right to file a motion to dismiss or to affirm or,
+if no waiver or motion is filed, upon the expiration of the
+time allowed for filing. If a motion to dismiss or to affirm
+is timely filed, the Clerk will distribute the jurisdictional
+statement, motion, and any brief opposing the motion to the
+Court for its consideration no less than 10 days after the
+motion is filed.
+   8. Any appellant may file a brief opposing a motion to dis-
+miss or to affirm, but distribution and consideration by the
+Court under paragraph 7 of this Rule will not be deferred
+pending its receipt. Forty copies shall be filed, except that
+an appellant proceeding in forma pauperis under Rule 39,
+including an inmate of an institution, shall file the number of
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                   1219
+
+copies required for a petition by such a person under Rule
+12.2. The brief shall be served as required by Rule 29.
+   9. If a cross-appeal has been docketed, distribution of both
+jurisdictional statements will be deferred until the cross-
+appeal is due for distribution under this Rule.
+   10. Any party may file a supplemental brief at any time
+while a jurisdictional statement is pending, calling attention
+to new cases, new legislation, or other intervening matter
+not available at the time of the party’s last filing. A supple-
+mental brief shall be restricted to new matter and shall fol-
+low, insofar as applicable, the form for a brief in opposition
+prescribed by Rule 15. Forty copies shall be filed, except
+that a party proceeding in forma pauperis under Rule 39,
+including an inmate of an institution, shall file the number of
+copies required for a petition by such a person under Rule
+12.2. The supplemental brief shall be served as required by
+Rule 29.
+   11. The clerk of the district court shall retain possession
+of the record until notified by the Clerk of this Court to cer-
+tify and transmit it. See Rule 12.7.
+   12. After considering the documents distributed under
+this Rule, the Court may dispose summarily of the appeal on
+the merits, note probable jurisdiction, or postpone consider-
+ation of jurisdiction until a hearing of the case on the merits.
+If not disposed of summarily, the case stands for briefing and
+oral argument on the merits. If consideration of jurisdiction
+is postponed, counsel, at the outset of their briefs and at oral
+argument, shall address the question of jurisdiction. If the
+record has not previously been filed in this Court, the Clerk
+of this Court will request the clerk of the court in possession
+of the record to certify and transmit it.
+   13. If the Clerk determines that a jurisdictional statement
+submitted timely and in good faith is in a form that does not
+comply with this Rule or with Rule 33 or Rule 34, the Clerk
+will return it with a letter indicating the deficiency. If a
+corrected jurisdictional statement is received no more than
+60 days after the date of the Clerk’s letter, its filing will be
+deemed timely.
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+1220           RULES OF THE SUPREME COURT
+
+Rule 19. Procedure on a Certified Question
+   1. A United States court of appeals may certify to this
+Court a question or proposition of law on which it seeks in-
+struction for the proper decision of a case. The certificate
+shall contain a statement of the nature of the case and the
+facts on which the question or proposition of law arises.
+Only questions or propositions of law may be certified, and
+they shall be stated separately and with precision. The cer-
+tificate shall be prepared as required by Rule 33.2 and shall
+be signed by the clerk of the court of appeals.
+   2. When a question is certified by a United States court
+of appeals, this Court, on its own motion or that of a party,
+may consider and decide the entire matter in controversy.
+See 28 U. S. C. § 1254(2).
+   3. When a question is certified, the Clerk will notify the
+parties and docket the case. Counsel shall then enter their
+appearances. After docketing, the Clerk will submit the
+certificate to the Court for a preliminary examination to de-
+termine whether the case should be briefed, set for argu-
+ment, or dismissed. No brief may be filed until the prelimi-
+nary examination of the certificate is completed.
+   4. If the Court orders the case briefed or set for argument,
+the parties will be notified and permitted to file briefs. The
+Clerk of this Court then will request the clerk of the court
+in possession of the record to certify and transmit it. Any
+portion of the record to which the parties wish to direct the
+Court’s particular attention should be printed in a joint ap-
+pendix, prepared in conformity with Rule 26 by the appellant
+or petitioner in the court of appeals, but the fact that any
+part of the record has not been printed does not prevent the
+parties or the Court from relying on it.
+   5. A brief on the merits in a case involving a certified
+question shall comply with Rules 24, 25, and 33.1, except that
+the brief for the party who is the appellant or petitioner
+below shall be filed within 45 days of the order requiring
+briefs or setting the case for argument.
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                    1221
+
+Rule 20. Procedure on a Petition for an Extraordinary
+             Writ
+   1. Issuance by the Court of an extraordinary writ author-
+ized by 28 U. S. C. § 1651(a) is not a matter of right, but of
+discretion sparingly exercised. To justify the granting of
+any such writ, the petition must show that the writ will be
+in aid of the Court’s appellate jurisdiction, that exceptional
+circumstances warrant the exercise of the Court’s discretion-
+ary powers, and that adequate relief cannot be obtained in
+any other form or from any other court.
+   2. A petition seeking a writ authorized by 28 U. S. C.
+§ 1651(a), § 2241, or § 2254(a) shall be prepared in all respects
+as required by Rules 33 and 34. The petition shall be cap-
+tioned “In re [name of petitioner]” and shall follow, insofar
+as applicable, the form of a petition for a writ of certiorari
+prescribed by Rule 14. All contentions in support of the
+petition shall be included in the petition. The case will be
+placed on the docket when 40 copies of the petition are filed
+with the Clerk and the docket fee is paid, except that a peti-
+tioner proceeding in forma pauperis under Rule 39, includ-
+ing an inmate of an institution, shall file the number of copies
+required for a petition by such a person under Rule 12.2,
+together with a motion for leave to proceed in forma pau-
+peris, a copy of which shall precede and be attached to each
+copy of the petition. The petition shall be served as re-
+quired by Rule 29 (subject to subparagraph 4(b) of this Rule).
+   3. (a) A petition seeking a writ of prohibition, a writ of
+mandamus, or both in the alternative shall state the name
+and office or function of every person against whom relief is
+sought and shall set out with particularity why the relief
+sought is not available in any other court. A copy of the
+judgment with respect to which the writ is sought, including
+any related opinion, shall be appended to the petition to-
+gether with any other document essential to understanding
+the petition.
+   (b) The petition shall be served on every party to the pro-
+ceeding with respect to which relief is sought. Within 30
+days after the petition is placed on the docket, a party shall
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+1222           RULES OF THE SUPREME COURT
+
+file 40 copies of any brief or briefs in opposition thereto,
+which shall comply fully with Rule 15. If a party named as
+a respondent does not wish to respond to the petition, that
+party may so advise the Clerk and all other parties by letter.
+All persons served are deemed respondents for all purposes
+in the proceedings in this Court.
+   4. (a) A petition seeking a writ of habeas corpus shall
+comply with the requirements of 28 U. S. C. §§ 2241 and 2242,
+and in particular with the provision in the last paragraph of
+§ 2242, which requires a statement of the “reasons for not
+making application to the district court of the district in
+which the applicant is held.” If the relief sought is from the
+judgment of a state court, the petition shall set out specifi-
+cally how and where the petitioner has exhausted available
+remedies in the state courts or otherwise comes within the
+provisions of 28 U. S. C. § 2254(b). To justify the granting
+of a writ of habeas corpus, the petitioner must show that
+exceptional circumstances warrant the exercise of the
+Court’s discretionary powers, and that adequate relief cannot
+be obtained in any other form or from any other court. This
+writ is rarely granted.
+   (b) Habeas corpus proceedings are ex parte, unless the
+Court requires the respondent to show cause why the peti-
+tion for a writ of habeas corpus should not be granted. A
+response, if ordered, shall comply fully with Rule 15. Nei-
+ther the denial of the petition, without more, nor an order of
+transfer to a district court under the authority of 28 U. S. C.
+§ 2241(b), is an adjudication on the merits, and therefore does
+not preclude further application to another court for the re-
+lief sought.
+   5. The Clerk will distribute the documents to the Court
+for its consideration when a brief in opposition under subpar-
+agraph 3(b) of this Rule has been filed, when a response
+under subparagraph 4(b) has been ordered and filed, when
+the time to file has expired, or when the right to file has been
+expressly waived.
+   6. If the Court orders the case set for argument, the Clerk
+will notify the parties whether additional briefs are required,
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                  1223
+
+when they shall be filed, and, if the case involves a petition
+for a common-law writ of certiorari, that the parties shall
+prepare a joint appendix in accordance with Rule 26.
+
+             PART V. MOTIONS AND APPLICATIONS
+
+Rule 21. Motions to the Court
+   1. Every motion to the Court shall clearly state its pur-
+pose and the facts on which it is based and may present legal
+argument in support thereof. No separate brief may be
+filed. A motion should be concise and shall comply with any
+applicable page limits. Rule 22 governs an application ad-
+dressed to a single Justice.
+   2. (a) A motion in any action within the Court’s original
+jurisdiction shall comply with Rule 17.3.
+   (b) A motion to dismiss as moot (or a suggestion of moot-
+ness), a motion for leave to file a brief as amicus curiae, and
+any motion the granting of which would dispose of the entire
+case or would affect the final judgment to be entered (other
+than a motion to docket and dismiss under Rule 18.5 or a
+motion for voluntary dismissal under Rule 46) shall be pre-
+pared as required by Rule 33.1, and 40 copies shall be filed,
+except that a movant proceeding in forma pauperis under
+Rule 39, including an inmate of an institution, shall file a
+motion prepared as required by Rule 33.2, and shall file the
+number of copies required for a petition by such a person
+under Rule 12.2. The motion shall be served as required by
+Rule 29.
+   (c) Any other motion to the Court shall be prepared as
+required by Rule 33.2; the moving party shall file an original
+and 10 copies. The Court subsequently may order the mov-
+ing party to prepare the motion as required by Rule 33.1; in
+that event, the party shall file 40 copies.
+   3. A motion to the Court shall be filed with the Clerk
+and shall be accompanied by proof of service as required by
+Rule 29. No motion may be presented in open Court, other
+than a motion for admission to the Bar, except when the
+proceeding to which it refers is being argued. Oral argu-
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+1224           RULES OF THE SUPREME COURT
+
+ment on a motion will not be permitted unless the Court
+so directs.
+   4. Any response to a motion shall be filed as promptly as
+possible considering the nature of the relief sought and any
+asserted need for emergency action, and, in any event,
+within 10 days of receipt, unless the Court or a Justice, or
+the Clerk under Rule 30.4, orders otherwise. A response to
+a motion prepared as required by Rule 33.1 shall be prepared
+in the same manner if time permits. In an appropriate case,
+the Court may act on a motion without waiting for a
+response.
+
+Rule 22. Applications to Individual Justices
+   1. An application addressed to an individual Justice shall
+be filed with the Clerk, who will transmit it promptly to the
+Justice concerned if an individual Justice has authority to
+grant the sought relief.
+   2. The original and two copies of any application ad-
+dressed to an individual Justice shall be prepared as required
+by Rule 33.2, and shall be accompanied by proof of service
+as required by Rule 29.
+   3. An application shall be addressed to the Justice allotted
+to the Circuit from which the case arises. When the Cir-
+cuit Justice is unavailable for any reason, the application
+addressed to that Justice will be distributed to the Justice
+then available who is next junior to the Circuit Justice; the
+turn of the Chief Justice follows that of the most junior
+Justice.
+   4. A Justice denying an application will note the denial
+thereon. Thereafter, unless action thereon is restricted by
+law to the Circuit Justice or is untimely under Rule 30.2,
+the party making an application, except in the case of an
+application for an extension of time, may renew it to any
+other Justice, subject to the provisions of this Rule. Except
+when the denial is without prejudice, a renewed application
+is not favored. Renewed application is made by a letter to
+the Clerk, designating the Justice to whom the application is
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                   1225
+
+to be directed, and accompanied by 10 copies of the original
+application and proof of service as required by Rule 29.
+   5. A Justice to whom an application for a stay or for bail
+is submitted may refer it to the Court for determination.
+   6. The Clerk will advise all parties concerned, by ap-
+propriately speedy means, of the disposition made of an
+application.
+
+Rule 23. Stays
+   1. A stay may be granted by a Justice as permitted by law.
+   2. A party to a judgment sought to be reviewed may pre-
+sent to a Justice an application to stay the enforcement of
+that judgment. See 28 U. S. C. § 2101(f).
+   3. An application for a stay shall set out with particularity
+why the relief sought is not available from any other court
+or judge. Except in the most extraordinary circumstances,
+an application for a stay will not be entertained unless the
+relief requested was first sought in the appropriate court or
+courts below or from a judge or judges thereof. An applica-
+tion for a stay shall identify the judgment sought to be re-
+viewed and have appended thereto a copy of the order and
+opinion, if any, and a copy of the order, if any, of the court
+or judge below denying the relief sought, and shall set out
+specific reasons why a stay is justified. The form and con-
+tent of an application for a stay are governed by Rules 22
+and 33.2.
+   4. A judge, court, or Justice granting an application for a
+stay pending review by this Court may condition the stay on
+the filing of a supersedeas bond having an approved surety
+or sureties. The bond will be conditioned on the satisfaction
+of the judgment in full, together with any costs, interest,
+and damages for delay that may be awarded. If a part of
+the judgment sought to be reviewed has already been satis-
+fied, or is otherwise secured, the bond may be conditioned
+on the satisfaction of the part of the judgment not otherwise
+secured or satisfied, together with costs, interest, and
+damages.
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+1226           RULES OF THE SUPREME COURT
+
+   PART VI. BRIEFS ON THE MERITS AND ORAL ARGUMENT
+
+Rule 24. Briefs on the Merits: In General
+   1. A brief on the merits for a petitioner or an appellant
+shall comply in all respects with Rules 33.1 and 34 and shall
+contain in the order here indicated:
+   (a) The questions presented for review under Rule 14.1(a).
+The questions shall be set out on the first page following the
+cover, and no other information may appear on that page.
+The phrasing of the questions presented need not be identi-
+cal with that in the petition for a writ of certiorari or the
+jurisdictional statement, but the brief may not raise addi-
+tional questions or change the substance of the questions
+already presented in those documents. At its option, how-
+ever, the Court may consider a plain error not among the
+questions presented but evident from the record and other-
+wise within its jurisdiction to decide.
+   (b) A list of all parties to the proceeding in the court
+whose judgment is under review (unless the caption of the
+case in this Court contains the names of all parties). Any
+amended list of parent companies and nonwholly owned sub-
+sidiaries as required by Rule 29.6 shall be placed here.
+   (c) If the brief exceeds five pages, a table of contents and
+a table of cited authorities.
+   (d) Citations of the official and unofficial reports of the
+opinions and orders entered in the case by courts and admin-
+istrative agencies.
+   (e) A concise statement of the basis for jurisdiction in this
+Court, including the statutory provisions and time factors on
+which jurisdiction rests.
+   (f) The constitutional provisions, treaties, statutes, ordi-
+nances, and regulations involved in the case, set out verba-
+tim with appropriate citation. If the provisions involved are
+lengthy, their citation alone suffices at this point, and their
+pertinent text, if not already set out in the petition for a
+writ of certiorari, jurisdictional statement, or an appendix
+to either document, shall be set out in an appendix to the
+brief.
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                    1227
+
+   (g) A concise statement of the case, setting out the facts
+material to the consideration of the questions presented,
+with appropriate references to the joint appendix, e. g., App.
+12, or to the record, e. g., Record 12.
+   (h) A summary of the argument, suitably paragraphed.
+The summary should be a clear and concise condensation of
+the argument made in the body of the brief; mere repetition
+of the headings under which the argument is arranged is
+not sufficient.
+   (i) The argument, exhibiting clearly the points of fact and
+of law presented and citing the authorities and statutes re-
+lied on.
+   ( j) A conclusion specifying with particularity the relief
+the party seeks.
+   2. A brief on the merits for a respondent or an appellee
+shall conform to the foregoing requirements, except that
+items required by subparagraphs 1(a), (b), (d), (e), (f), and (g)
+of this Rule need not be included unless the respondent or
+appellee is dissatisfied with their presentation by the oppos-
+ing party.
+   3. A brief on the merits may not exceed the page limita-
+tions specified in Rule 33.1(g). An appendix to a brief may
+include only relevant material, and counsel are cautioned not
+to include in an appendix arguments or citations that prop-
+erly belong in the body of the brief.
+   4. A reply brief shall conform to those portions of this
+Rule applicable to the brief for a respondent or an appellee,
+but, if appropriately divided by topical headings, need not
+contain a summary of the argument.
+   5. A reference to the joint appendix or to the record set
+out in any brief shall indicate the appropriate page number.
+If the reference is to an exhibit, the page numbers at which
+the exhibit appears, at which it was offered in evidence, and
+at which it was ruled on by the judge shall be indicated, e. g.,
+Pl. Exh. 14, Record 199, 2134.
+   6. A brief shall be concise, logically arranged with proper
+headings, and free of irrelevant, immaterial, or scandalous
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+1228           RULES OF THE SUPREME COURT
+
+matter. The Court may disregard or strike a brief that does
+not comply with this paragraph.
+
+Rule 25. Briefs on the Merits: Number of Copies and
+         Time to File
+   1. The petitioner or appellant shall file 40 copies of the
+brief on the merits within 45 days of the order granting the
+writ of certiorari, noting probable jurisdiction, or postponing
+consideration of jurisdiction.
+   2. The respondent or appellee shall file 40 copies of the
+brief on the merits within 30 days after receiving the brief
+for the petitioner or appellant.
+   3. The petitioner or appellant shall file 40 copies of the
+reply brief, if any, within 30 days after receiving the brief
+for the respondent or appellee, but any reply brief must actu-
+ally be received by the Clerk no more than one week before
+the date of oral argument.
+   4. The time periods stated in paragraphs 1 and 2 of this
+Rule may be extended as provided in Rule 30. An applica-
+tion to extend the time to file a brief on the merits is not
+favored. If a case is advanced for hearing, the time to file
+briefs on the merits may be abridged as circumstances re-
+quire pursuant to an order of the Court on its own motion or
+that of a party.
+   5. A party wishing to present late authorities, newly
+enacted legislation, or other intervening matter that was not
+available in time to be included in a brief may file 40 copies
+of a supplemental brief, restricted to such new matter and
+otherwise presented in conformity with these Rules, up to
+the time the case is called for oral argument or by leave of
+the Court thereafter.
+   6. After a case has been argued or submitted, the Clerk
+will not file any brief, except that of a party filed by leave of
+the Court.
+   7. The Clerk will not file any brief that is not accompanied
+by proof of service as required by Rule 29.
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                   1229
+
+Rule 26. Joint Appendix
+   1. Unless the Clerk has allowed the parties to use the de-
+ferred method described in paragraph 4 of this Rule, the
+petitioner or appellant, within 45 days after entry of the
+order granting the writ of certiorari, noting probable juris-
+diction, or postponing consideration of jurisdiction, shall file
+40 copies of a joint appendix, prepared as required by Rule
+33.1. The joint appendix shall contain: (1) the relevant
+docket entries in all the courts below; (2) any relevant plead-
+ings, jury instructions, findings, conclusions, or opinions; (3)
+the judgment, order, or decision under review; and (4) any
+other parts of the record that the parties particularly wish to
+bring to the Court’s attention. Any of the foregoing items
+already reproduced in a petition for a writ of certiorari, ju-
+risdictional statement, brief in opposition to a petition for a
+writ of certiorari, motion to dismiss or affirm, or any appen-
+dix to the foregoing, that was prepared as required by Rule
+33.1, need not be reproduced again in the joint appendix.
+The petitioner or appellant shall serve three copies of the
+joint appendix on each of the other parties to the proceeding
+as required by Rule 29.
+   2. The parties are encouraged to agree on the contents of
+the joint appendix. In the absence of agreement, the peti-
+tioner or appellant, within 10 days after entry of the order
+granting the writ of certiorari, noting probable jurisdiction,
+or postponing consideration of jurisdiction, shall serve on the
+respondent or appellee a designation of parts of the record
+to be included in the joint appendix. Within 10 days after
+receiving the designation, a respondent or appellee who con-
+siders the parts of the record so designated insufficient shall
+serve on the petitioner or appellant a designation of addi-
+tional parts to be included in the joint appendix, and the
+petitioner or appellant shall include the parts so designated.
+If the Court has permitted the respondent or appellee to
+proceed in forma pauperis, the petitioner or appellant may
+seek by motion to be excused from printing portions of the
+record the petitioner or appellant considers unnecessary. In
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+1230           RULES OF THE SUPREME COURT
+
+making these designations, counsel should include only those
+materials the Court should examine; unnecessary designa-
+tions should be avoided. The record is on file with the Clerk
+and available to the Justices, and counsel may refer in briefs
+and in oral argument to relevant portions of the record not
+included in the joint appendix.
+   3. When the joint appendix is filed, the petitioner or appel-
+lant immediately shall file with the Clerk a statement of the
+cost of printing 50 copies and shall serve a copy of the state-
+ment on each of the other parties as required by Rule 29.
+Unless the parties agree otherwise, the cost of producing
+the joint appendix shall be paid initially by the petitioner or
+appellant; but a petitioner or appellant who considers that
+parts of the record designated by the respondent or appellee
+are unnecessary for the determination of the issues pre-
+sented may so advise the respondent or appellee, who then
+shall advance the cost of printing the additional parts, unless
+the Court or a Justice otherwise fixes the initial allocation of
+the costs. The cost of printing the joint appendix is taxed
+as a cost in the case, but if a party unnecessarily causes mat-
+ter to be included in the joint appendix or prints excessive
+copies, the Court may impose these costs on that party.
+   4. (a) On the parties’ request, the Clerk may allow prepa-
+ration of the joint appendix to be deferred until after the
+briefs have been filed. In that event, the petitioner or ap-
+pellant shall file the joint appendix no more than 14 days
+after receiving the brief for the respondent or appellee. The
+provisions of paragraphs 1, 2, and 3 of this Rule shall be
+followed, except that the designations referred to therein
+shall be made by each party when that party’s brief is
+served. Deferral of the joint appendix is not favored.
+   (b) If the deferred method is used, the briefs on the merits
+may refer to the pages of the record. In that event, the
+joint appendix shall include in brackets on each page thereof
+the page number of the record where that material may be
+found. A party wishing to refer directly to the pages of the
+joint appendix may serve and file copies of its brief prepared
+as required by Rule 33.2 within the time provided by Rule
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                   1231
+
+25, with appropriate references to the pages of the record.
+In that event, within 10 days after the joint appendix is filed,
+copies of the brief prepared as required by Rule 33.1 contain-
+ing references to the pages of the joint appendix in place of,
+or in addition to, the initial references to the pages of the
+record, shall be served and filed. No other change may be
+made in the brief as initially served and filed, except that
+typographical errors may be corrected.
+   5. The joint appendix shall be prefaced by a table of con-
+tents showing the parts of the record that it contains, in the
+order in which the parts are set out, with references to the
+pages of the joint appendix at which each part begins. The
+relevant docket entries shall be set out after the table of
+contents, followed by the other parts of the record in chrono-
+logical order. When testimony contained in the reporter’s
+transcript of proceedings is set out in the joint appendix, the
+page of the transcript at which the testimony appears shall
+be indicated in brackets immediately before the statement
+that is set out. Omissions in the transcript or in any other
+document printed in the joint appendix shall be indicated by
+asterisks. Immaterial formal matters (e. g., captions, sub-
+scriptions, acknowledgments) shall be omitted. A question
+and its answer may be contained in a single paragraph.
+   6. Exhibits designated for inclusion in the joint appendix
+may be contained in a separate volume or volumes suitably
+indexed. The transcript of a proceeding before an adminis-
+trative agency, board, commission, or officer used in an action
+in a district court or court of appeals is regarded as an ex-
+hibit for the purposes of this paragraph.
+   7. The Court, on its own motion or that of a party, may
+dispense with the requirement of a joint appendix and may
+permit a case to be heard on the original record (with such
+copies of the record, or relevant parts thereof, as the Court
+may require) or on the appendix used in the court below, if
+it conforms to the requirements of this Rule.
+   8. For good cause, the time limits specified in this Rule
+may be shortened or extended by the Court or a Justice, or
+by the Clerk under Rule 30.4.
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+1232           RULES OF THE SUPREME COURT
+
+Rule 27. Calendar
+  1. From time to time, the Clerk will prepare a calendar of
+cases ready for argument. A case ordinarily will not be
+called for argument less than two weeks after the brief on
+the merits for the respondent or appellee is due.
+  2. The Clerk will advise counsel when they are required
+to appear for oral argument and will publish a hearing list
+in advance of each argument session for the convenience of
+counsel and the information of the public.
+  3. The Court, on its own motion or that of a party, may
+order that two or more cases involving the same or related
+questions be argued together as one case or on such other
+terms as the Court may prescribe.
+
+Rule 28. Oral Argument
+   1. Oral argument should emphasize and clarify the written
+arguments in the briefs on the merits. Counsel should as-
+sume that all Justices have read the briefs before oral argu-
+ment. Oral argument read from a prepared text is not
+favored.
+   2. The petitioner or appellant shall open and may conclude
+the argument. A cross-writ of certiorari or cross-appeal
+will be argued with the initial writ of certiorari or appeal as
+one case in the time allowed for that one case, and the Court
+will advise the parties who shall open and close.
+   3. Unless the Court directs otherwise, each side is allowed
+one-half hour for argument. Counsel is not required to use
+all the allotted time. Any request for additional time to
+argue shall be presented by motion under Rule 21 no more
+than 15 days after the petitioner’s or appellant’s brief on the
+merits is filed, and shall set out specifically and concisely why
+the case cannot be presented within the half-hour limitation.
+Additional time is rarely accorded.
+   4. Only one attorney will be heard for each side, except by
+leave of the Court on motion filed no more than 15 days after
+the respondent’s or appellee’s brief on the merits is filed.
+Any request for divided argument shall be presented by mo-
+tion under Rule 21 and shall set out specifically and concisely
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                  1233
+
+why more than one attorney should be allowed to argue.
+Divided argument is not favored.
+   5. Regardless of the number of counsel participating in
+oral argument, counsel making the opening argument shall
+present the case fairly and completely and not reserve points
+of substance for rebuttal.
+   6. Oral argument will not be allowed on behalf of any
+party for whom a brief has not been filed.
+   7. By leave of the Court, and subject to paragraph 4 of
+this Rule, counsel for an amicus curiae whose brief has been
+filed as provided in Rule 37 may argue orally on the side of
+a party, with the consent of that party. In the absence of
+consent, counsel for an amicus curiae may seek leave of the
+Court to argue orally by a motion setting out specifically and
+concisely why oral argument would provide assistance to the
+Court not otherwise available. Such a motion will be
+granted only in the most extraordinary circumstances.
+
+             PART VII. PRACTICE AND PROCEDURE
+
+Rule 29. Filing and Service of Documents; Special
+            Notifications; Corporate Listing
+   1. Any document required or permitted to be presented to
+the Court or to a Justice shall be filed with the Clerk.
+   2. A document is timely filed if it is sent to the Clerk
+through the United States Postal Service by first-class mail
+(including express or priority mail), postage prepaid, and
+bears a postmark showing that the document was mailed on
+or before the last day for filing. Commercial postage meter
+labels alone are not acceptable. If submitted by an inmate
+confined in an institution, a document is timely filed if it is
+deposited in the institution’s internal mail system on or be-
+fore the last day for filing and is accompanied by a notarized
+statement or declaration in compliance with 28 U. S. C. § 1746
+setting out the date of deposit and stating that first-class
+postage has been prepaid. If the postmark is missing or not
+legible, the Clerk will require the person who mailed the
+document to submit a notarized statement or declaration in
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+1234           RULES OF THE SUPREME COURT
+
+compliance with 28 U. S. C. § 1746 setting out the details of
+the mailing and stating that the mailing took place on a par-
+ticular date within the permitted time. A document also is
+timely filed if it is forwarded through a private delivery or
+courier service and is actually received by the Clerk within
+the time permitted for filing.
+   3. Any document required by these Rules to be served
+may be served personally or by mail on each party to the
+proceeding at or before the time of filing. If the document
+has been prepared as required by Rule 33.1, three copies
+shall be served on each other party separately represented
+in the proceeding. If the document has been prepared as
+required by Rule 33.2, service of a single copy on each other
+separately represented party suffices. If personal service is
+made, it shall consist of delivery at the office of the counsel
+of record, either to counsel or to an employee therein. If
+service is by mail, it shall consist of depositing the document
+with the United States Postal Service, with no less than
+first-class postage prepaid, addressed to counsel of record at
+the proper post office address. When a party is not repre-
+sented by counsel, service shall be made on the party, per-
+sonally or by mail.
+   4. (a) If the United States or any federal department,
+office, agency, officer, or employee is a party to be served,
+service shall be made on the Solicitor General of the United
+States, Room 5614, Department of Justice, 10th St. and Con-
+stitution Ave., N. W., Washington, DC 20530. When an
+agency of the United States that is a party is authorized by
+law to appear before this Court on its own behalf, or when
+an officer or employee of the United States is a party, the
+agency, officer, or employee shall be served in addition to the
+Solicitor General.
+   (b) In any proceeding in this Court in which the constitu-
+tionality of an Act of Congress is drawn into question, and
+neither the United States nor any federal department, office,
+agency, officer, or employee is a party, the initial document
+filed in this Court shall recite that 28 U. S. C. § 2403(a) may
+apply and shall be served on the Solicitor General of the
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                    1235
+
+United States, Room 5614, Department of Justice, 10th St.
+and Constitution Ave., N. W., Washington, DC 20530. In
+such a proceeding from any court of the United States, as
+defined by 28 U. S. C. § 451, the initial document also shall
+state whether that court, pursuant to 28 U. S. C. § 2403(a),
+certified to the Attorney General the fact that the constitu-
+tionality of an Act of Congress was drawn into question.
+See Rule 14.1(e)(v).
+   (c) In any proceeding in this Court in which the constitu-
+tionality of any statute of a State is drawn into question, and
+neither the State nor any agency, officer, or employee thereof
+is a party, the initial document filed in this Court shall recite
+that 28 U. S. C. § 2403(b) may apply and shall be served on
+the Attorney General of that State. In such a proceeding
+from any court of the United States, as defined by 28 U. S. C.
+§ 451, the initial document also shall state whether that
+court, pursuant to 28 U. S. C. § 2403(b), certified to the State
+Attorney General the fact that the constitutionality of a
+statute of that State was drawn into question. See Rule
+14.1(e)(v).
+   5. Proof of service, when required by these Rules, shall
+accompany the document when it is presented to the Clerk
+for filing and shall be separate from it. Proof of service
+shall contain, or be accompanied by, a statement that all par-
+ties required to be served have been served, together with
+a list of the names, addresses, and telephone numbers of
+counsel indicating the name of the party or parties each
+counsel represents. It is not necessary that service on each
+party required to be served be made in the same manner or
+evidenced by the same proof. Proof of service may consist
+of any one of the following:
+   (a) an acknowledgment of service, signed by counsel of
+record for the party served;
+   (b) a certificate of service, reciting the facts and circum-
+stances of service in compliance with the appropriate para-
+graph or paragraphs of this Rule, and signed by a member
+of the Bar of this Court representing the party on whose
+behalf service is made or by an attorney appointed to repre-
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+1236           RULES OF THE SUPREME COURT
+
+sent that party under the Criminal Justice Act of 1964, see 18
+U. S. C. § 3006A(d)(6), or under any other applicable federal
+statute; or
+  (c) a notarized affidavit or declaration in compliance with
+28 U. S. C. § 1746, reciting the facts and circumstances of
+service in accordance with the appropriate paragraph or
+paragraphs of this Rule, whenever service is made by any
+person not a member of the Bar of this Court and not an
+attorney appointed to represent a party under the Criminal
+Justice Act of 1964, see 18 U. S. C. § 3006A(d)(6), or under
+any other applicable federal statute.
+  6. Every document, except a joint appendix or amicus cu-
+riae brief, filed by or on behalf of one or more corporations
+shall list all parent companies and nonwholly owned subsidi-
+aries of each of the corporate filers. If there is no parent or
+subsidiary company to be listed, a notation to this effect shall
+be included in the document. If a list has been included in
+a document filed earlier in the case, reference may be made
+to the earlier document (except when the earlier list ap-
+peared in an application for an extension of time or for a
+stay), and only amendments to the list to make it current
+need be included in the document being filed.
+
+Rule 30. Computation and Extension of Time
+   1. In the computation of any period of time prescribed or
+allowed by these Rules, by order of the Court, or by an appli-
+cable statute, the day of the act, event, or default from which
+the designated period begins to run is not included. The
+last day of the period shall be included, unless it is a Satur-
+day, Sunday, federal legal holiday listed in 5 U. S. C. § 6103,
+or day on which the Court building is closed by order of the
+Court or the Chief Justice, in which event the period shall
+extend until the end of the next day that is not a Saturday,
+Sunday, federal legal holiday, or day on which the Court
+building is closed.
+   2. Whenever a Justice or the Clerk is empowered by law
+or these Rules to extend the time to file any document, an
+application seeking an extension shall be filed within the pe-
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                      1237
+
+riod sought to be extended. An application to extend the
+time to file a petition for a writ of certiorari or to file a juris-
+dictional statement must be received by the Clerk at least
+10 days before the specified final filing date as computed
+under these Rules; if received less than 10 days before the
+final filing date, such application will not be granted except
+in the most extraordinary circumstances.
+   3. An application to extend the time to file a petition for a
+writ of certiorari, to file a jurisdictional statement, to file a
+reply brief on the merits, or to file a petition for rehearing
+shall be made to an individual Justice and presented and
+served on all other parties as provided by Rule 22. Once
+denied, such an application may not be renewed.
+   4. An application to extend the time to file any document
+or paper other than those specified in paragraph 3 of this
+Rule may be presented in the form of a letter to the Clerk
+setting out specific reasons why an extension of time is justi-
+fied. The letter shall be served on all other parties as re-
+quired by Rule 29. The application may be acted on by the
+Clerk in the first instance, and any party aggrieved by the
+Clerk’s action may request that the application be submitted
+to a Justice or to the Court. The Clerk will report action
+under this paragraph to the Court as instructed.
+
+Rule 31. Translations
+   Whenever any record to be transmitted to this Court con-
+tains material written in a foreign language without a trans-
+lation made under the authority of the lower court, or ad-
+mitted to be correct, the clerk of the court transmitting the
+record shall advise the Clerk of this Court immediately so
+that this Court may order that a translation be supplied and,
+if necessary, printed as part of the joint appendix.
+
+Rule 32. Models, Diagrams, and Exhibits
+   1. Models, diagrams, and exhibits of material forming part
+of the evidence taken in a case and brought to this Court for
+its inspection shall be placed in the custody of the Clerk at
+least two weeks before the case is to be heard or submitted.
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+1238           RULES OF THE SUPREME COURT
+
+  2. All models, diagrams, and exhibits of material placed in
+the custody of the Clerk shall be removed by the parties no
+more than 40 days after the case is decided. If this is not
+done, the Clerk will notify counsel to remove the articles
+forthwith. If they are not removed within a reasonable
+time thereafter, the Clerk will destroy them or dispose of
+them in any other appropriate way.
+
+Rule 33. Document Preparation: Booklet Format;
+             81⁄2- by 11-Inch Paper Format
+   1. Booklet Format: (a) Except for a document expressly
+permitted by these Rules to be submitted on 81⁄2- by 11-inch
+paper, see, e. g., Rules 21, 22, and 39, every document filed
+with the Court shall be prepared using typesetting (e. g.,
+wordprocessing, electronic publishing, or image setting) and
+reproduced by offset printing, photocopying, or similar proc-
+ess. The process used must produce a clear, black image on
+white paper.
+   (b) The text of every document, including any appendix
+thereto, except a document permitted to be produced on
+81⁄2- by 11-inch paper, shall be typeset in standard 11-point
+or larger type with 2-point or more leading between lines.
+The type size and face shall be no smaller than that con-
+tained in the United States Reports beginning with Volume
+453. Type size and face shall be consistent throughout. No
+attempt should be made to reduce, compress, or condense
+the typeface in a manner that would increase the content
+of a document. Quotations in excess of three lines shall be
+indented. Footnotes shall appear in print as standard 9-
+point or larger type with 2-point or more leading between
+lines. The text of the document must appear on both sides
+of the page.
+   (c) Every document, except one permitted to be produced
+on 81⁄2- by 11-inch paper, shall be produced on paper that is
+opaque, unglazed, 61⁄8 by 91⁄4 inches in size, and not less than
+60 pounds in weight, and shall have margins of at least
+three-fourths of an inch on all sides. The text field, includ-
+ing footnotes, should be approximately 41⁄8 by 71⁄8 inches.
+515us3urul 07-10-97 16:49:00   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                    1239
+
+The document shall be bound firmly in at least two places
+along the left margin (saddle stitch or perfect binding pre-
+ferred) so as to permit easy opening, and no part of the text
+should be obscured by the binding. Spiral, plastic, metal,
+and string bindings may not be used. Copies of patent docu-
+ments, except opinions, may be duplicated in such size as is
+necessary in a separate appendix.
+   (d) Every document, except one permitted to be produced
+on 81⁄2- by 11-inch paper, shall comply with the page limits
+shown on the chart in subparagraph 1(g) of this Rule. The
+page limits do not include the pages containing the questions
+presented, the list of parties and corporate affiliates of the
+filing party, the table of contents, the table of cited authori-
+ties, or any appendix. Verbatim quotations required under
+Rule 14.1(f), if set out in the text of a brief rather than in
+the appendix, are also excluded. For good cause, the Court
+or a Justice may grant leave to file a document in excess of
+the page limits, but application for such leave is not favored.
+An application to exceed page limits shall comply with Rule
+22 and must be received by the Clerk at least 15 days before
+the filing date of the document in question, except in the
+most extraordinary circumstances.
+   (e) Every document, except one permitted to be produced
+on 81⁄2- by 11-inch paper, shall have a suitable cover consisting
+of 65-pound weight paper in the color indicated on the chart
+in subparagraph 1(g) of this Rule. If a separate appendix
+to any document is filed, the color of its cover shall be the
+same as that of the cover of the document it supports. The
+Clerk will furnish a color chart upon request. Counsel shall
+ensure that there is adequate contrast between the printing
+and the color of the cover. A document filed by the United
+States, or by any other federal party represented by the So-
+licitor General, shall have a gray cover. A joint appendix,
+answer to a bill of complaint, motion for leave to intervene,
+and any other document not listed in subparagraph 1(g) of
+this Rule shall have a tan cover.
+   (f) Forty copies of a document prepared under this para-
+graph shall be filed.
+515us3urul 07-10-97 16:49:00       PGT • USRULES
+
+
+
+
+1240              RULES OF THE SUPREME COURT
+
+ (g) Page limits and cover colors for booklet-format docu-
+ments are as follows:
+                                                            Page     Color of
+       Type of Document
+                                                           Limits     Cover
+    (i) Petition for a Writ of Certiorari (Rule 14); Mo-
+        tion for Leave to File a Bill of Complaint and
+        Brief in Support (Rule 17.3); Jurisdictional
+        Statement (Rule 18.3); Petition for an Extraor-
+        dinary Writ (Rule 20.2)                             30        white
+   (ii) Brief in Opposition (Rule 15.3); Brief in Oppo-
+        sition to Motion for Leave to File an Original
+        Action (Rule 17.5); Motion to Dismiss or Affirm
+        (Rule 18.6); Brief in Opposition to Mandamus
+        or Prohibition (Rule 20.3(b)); Response to a
+        Petition for Habeas Corpus (Rule 20.4)              30       orange
+  (iii) Reply to Brief in Opposition (Rules 15.6 and
+        17.5); Brief Opposing a Motion to Dismiss or
+        Affirm (Rule 18.8)                                  10         tan
+  (iv) Supplemental Brief (Rules 15.8, 17, 18.10, and
+        25.5)                                               10         tan
+   (v) Brief on the Merits for Petitioner or Appellant
+        (Rule 24); Exceptions by Plaintiff to Report of
+        Special Master (Rule 17)                            50      light blue
+  (vi) Brief on the Merits for Respondent or Appel-
+        lee (Rule 24.2); Brief on the Merits for Re-
+        spondent or Appellee Supporting Petitioner
+        or Appellant (Rule 12.6); Exceptions by Party
+        Other Than Plaintiff to Report of Special Mas-
+        ter (Rule 17)                                       50      light red
+ (vii) Reply Brief on the Merits (Rule 24.4)                20        yellow
+(viii) Reply to Plaintiff ’s Exceptions to Report of
+        Special Master (Rule 17)                            50       orange
+  (ix) Reply to Exceptions by Party Other Than
+        Plaintiff to Report of Special Master (Rule 17)     50       yellow
+   (x) Brief for an Amicus Curiae at the Petition
+        Stage (Rule 37.2)                                   20       cream
+  (xi) Brief for an Amicus Curiae in Support of the
+        Plaintiff, Petitioner, or Appellant, or in Sup-
+        port of Neither Party, on the Merits or in an
+        Original Action at the Exceptions Stage                       light
+        (Rule 37.3)                                         30        green
+ (xii) Brief for an Amicus Curiae in Support of the
+        Defendant, Respondent, or Appellee, on the
+        Merits or in an Original Action at the Excep-                 dark
+        tions Stage (Rule 37.3)                             30        green
+(xiii) Petition for Rehearing (Rule 44)                     10         tan
+515us3urul 07-10-97 16:49:01   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                 1241
+
+   2. 81⁄2- by 11-Inch Paper Format: (a) The text of every
+document, including any appendix thereto, expressly permit-
+ted by these Rules to be presented to the Court on 81⁄2- by
+11-inch paper shall appear double spaced, except for indented
+quotations, which shall be single spaced, on opaque, un-
+glazed, white paper. The document shall be stapled or
+bound at the upper left-hand corner. Copies, if required,
+shall be produced on the same type of paper and shall be
+legible. The original of any such document (except a motion
+to dismiss or affirm under Rule 18.6) shall be signed by the
+party proceeding pro se or by counsel of record who must be
+a member of the Bar of this Court or an attorney appointed
+under the Criminal Justice Act of 1964, see 18 U. S. C.
+§ 3006A(d)(6), or under any other applicable federal statute.
+Subparagraph 1(g) of this Rule does not apply to documents
+prepared under this paragraph.
+   (b) Page limits for documents presented on 81⁄2- by 11-inch
+paper are: 40 pages for a petition for a writ of certiorari,
+jurisdictional statement, petition for an extraordinary writ,
+brief in opposition, or motion to dismiss or affirm; and 15
+pages for a reply to a brief in opposition, brief opposing a
+motion to dismiss or affirm, supplemental brief, or petition
+for rehearing. The page exclusions specified in subpara-
+graph 1(d) of this Rule apply.
+
+Rule 34. Document Preparation: General Requirements
+  Every document, whether prepared under Rule 33.1 or
+Rule 33.2, shall comply with the following provisions:
+  1. Each document shall bear on its cover, in the order indi-
+cated, from the top of the page:
+  (a) the docket number of the case or, if there is none, a
+space for one;
+  (b) the name of this Court;
+  (c) the October Term in which the document is filed (see
+Rule 3);
+  (d) the caption of the case as appropriate in this Court;
+  (e) the nature of the proceeding and the name of the court
+from which the action is brought (e. g., “On Petition for
+515us3urul 07-10-97 16:49:01   PGT • USRULES
+
+
+
+
+1242           RULES OF THE SUPREME COURT
+
+Writ of Certiorari to the United States Court of Appeals for
+the Fifth Circuit”; or, for a merits brief, “On Writ of Cer-
+tiorari to the United States Court of Appeals for the Fifth
+Circuit”);
+   (f) the title of the document (e. g., “Petition for Writ of
+Certiorari,” “Brief for Respondent,” “Joint Appendix”);
+   (g) the name of the attorney who is counsel of record for
+the party concerned (who must be a member of the Bar of
+this Court except as provided in Rule 33.2), and on whom
+service is to be made, with a notation directly thereunder
+identifying the attorney as counsel of record and setting out
+counsel’s office address and telephone number. Only one
+counsel of record may be noted on a single document. The
+names of other members of the Bar of this Court or of
+the bar of the highest court of a State acting as counsel,
+and, if desired, their addresses, may be added, but counsel
+of record shall be clearly identified. Names of persons
+other than attorneys admitted to a state bar may not be
+listed, unless the party is appearing pro se, in which case
+the party’s name, address, and telephone number shall
+appear. The foregoing shall be displayed in an appropriate
+typographic manner and, except for the identification of
+counsel, may not be set in type smaller than standard
+11-point, if the document is prepared as required by Rule
+33.1.
+   2. Every document exceeding five pages (other than a joint
+appendix), whether prepared under Rule 33.1 or Rule 33.2,
+shall contain a table of contents and a table of cited authori-
+ties (i. e., cases alphabetically arranged, constitutional provi-
+sions, statutes, treatises, and other materials) with refer-
+ences to the pages in the document where such authorities
+are cited.
+   3. The body of every document shall bear at its close the
+name of counsel of record and such other counsel, identified
+on the cover of the document in conformity with subpara-
+graph 1(g) of this Rule, as may be desired.
+515us3urul 07-10-97 16:49:01   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                    1243
+
+Rule 35. Death, Substitution, and Revivor; Public
+         Officers
+   1. If a party dies after filing a petition for a writ of cer-
+tiorari to this Court, or after filing a notice of appeal, the
+authorized representative of the deceased party may appear
+and, on motion, be substituted as a party. If the representa-
+tive does not voluntarily become a party, any other party
+may suggest the death on the record and, on motion, seek an
+order requiring the representative to become a party within
+a designated time. If the representative then fails to be-
+come a party, the party so moving, if a respondent or appel-
+lee, is entitled to have the petition for a writ of certiorari or
+the appeal dismissed, and if a petitioner or appellant, is enti-
+tled to proceed as in any other case of nonappearance by a
+respondent or appellee. If the substitution of a representa-
+tive of the deceased is not made within six months after the
+death of the party, the case shall abate.
+   2. Whenever a case cannot be revived in the court whose
+judgment is sought to be reviewed, because the deceased
+party’s authorized representative is not subject to that
+court’s jurisdiction, proceedings will be conducted as this
+Court may direct.
+   3. When a public officer who is a party to a proceeding in
+this Court in an official capacity dies, resigns, or otherwise
+ceases to hold office, the action does not abate and any
+successor in office is automatically substituted as a party.
+The parties shall notify the Clerk in writing of any such
+successions. Proceedings following the substitution shall
+be in the name of the substituted party, but any misnomer
+not affecting substantial rights of the parties will be
+disregarded.
+   4. A public officer who is a party to a proceeding in this
+Court in an official capacity may be described as a party by
+the officer’s official title rather than by name, but the Court
+may require the name to be added.
+515us3urul 07-10-97 16:49:01   PGT • USRULES
+
+
+
+
+1244           RULES OF THE SUPREME COURT
+
+Rule 36. Custody of Prisoners in Habeas Corpus
+         Proceedings
+   1. Pending review in this Court of a decision in a habeas
+corpus proceeding commenced before a court, Justice, or
+judge of the United States, the person having custody of the
+prisoner may not transfer custody to another person unless
+the transfer is authorized under this Rule.
+   2. Upon application by a custodian, the court, Justice, or
+judge who entered the decision under review may authorize
+transfer and the substitution of a successor custodian as a
+party.
+   3. (a) Pending review of a decision failing or refusing to
+release a prisoner, the prisoner may be detained in the cus-
+tody from which release is sought or in other appropriate
+custody or may be enlarged on personal recognizance or bail,
+as may appear appropriate to the court, Justice, or judge
+who entered the decision, or to the court of appeals, this
+Court, or a judge or Justice of either court.
+   (b) Pending review of a decision ordering release, the pris-
+oner shall be enlarged on personal recognizance or bail, un-
+less the court, Justice, or judge who entered the decision, or
+the court of appeals, this Court, or a judge or Justice of
+either court, orders otherwise.
+   4. An initial order respecting the custody or enlargement
+of the prisoner, and any recognizance or surety taken, shall
+continue in effect pending review in the court of appeals and
+in this Court unless for reasons shown to the court of ap-
+peals, this Court, or a judge or Justice of either court, the
+order is modified or an independent order respecting custody,
+enlargement, or surety is entered.
+
+Rule 37. Brief for an Amicus Curiae
+   1. An amicus curiae brief that brings to the attention of
+the Court relevant matter not already brought to its atten-
+tion by the parties may be of considerable help to the Court.
+An amicus curiae brief that does not serve this purpose bur-
+dens the Court, and its filing is not favored.
+515us3urul 07-10-97 16:49:01   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                     1245
+
+   2. (a) An amicus curiae brief submitted before the
+Court’s consideration of a petition for a writ of certiorari,
+motion for leave to file a bill of complaint, jurisdictional
+statement, or petition for an extraordinary writ, may be filed
+if accompanied by the written consent of all parties, or if the
+Court grants leave to file under subparagraph 2(b) of this
+Rule. The brief shall be submitted within the time allowed
+for filing a brief in opposition or for filing a motion to dismiss
+or affirm. The amicus curiae brief shall specify whether
+consent was granted, and its cover shall identify the party
+supported.
+   (b) When a party to the case has withheld consent, a
+motion for leave to file an amicus curiae brief before the
+Court’s consideration of a petition for a writ of certiorari,
+motion for leave to file a bill of complaint, jurisdictional
+statement, or petition for an extraordinary writ may be pre-
+sented to the Court. The motion, prepared as required by
+Rule 33.1 and as one document with the brief sought to be
+filed, shall be submitted within the time allowed for filing an
+amicus curiae brief, and shall indicate the party or parties
+who have withheld consent and state the nature of the mov-
+ant’s interest. Such a motion is not favored.
+   3. (a) An amicus curiae brief in a case before the Court
+for oral argument may be filed if accompanied by the written
+consent of all parties, or if the Court grants leave to file
+under subparagraph 3(b) of this Rule. The brief shall be
+submitted within the time allowed for filing the brief for the
+party supported, or if in support of neither party, within the
+time allowed for filing the petitioner’s or appellant’s brief.
+The amicus curiae brief shall specify whether consent was
+granted, and its cover shall identify the party supported or
+indicate whether it suggests affirmance or reversal. The
+Clerk will not file a reply brief for an amicus curiae, or a
+brief for an amicus curiae in support of, or in opposition to,
+a petition for rehearing.
+   (b) When a party to a case before the Court for oral argu-
+ment has withheld consent, a motion for leave to file an ami-
+515us3urul 07-10-97 16:49:01   PGT • USRULES
+
+
+
+
+1246           RULES OF THE SUPREME COURT
+
+cus curiae brief may be presented to the Court. The mo-
+tion, prepared as required by Rule 33.1 and as one document
+with the brief sought to be filed, shall be submitted within
+the time allowed for filing an amicus curiae brief, and shall
+indicate the party or parties who have withheld consent and
+state the nature of the movant’s interest.
+   4. No motion for leave to file an amicus curiae brief is
+necessary if the brief is presented on behalf of the United
+States by the Solicitor General; on behalf of any agency of
+the United States allowed by law to appear before this Court
+when submitted by the agency’s authorized legal representa-
+tive; on behalf of a State, Commonwealth, Territory, or Pos-
+session when submitted by its Attorney General; or on behalf
+of a city, county, town, or similar entity when submitted by
+its authorized law officer.
+   5. A brief or motion filed under this Rule shall be accom-
+panied by proof of service as required by Rule 29, and shall
+comply with the applicable provisions of Rules 21, 24, and
+33.1 (except that it suffices to set out in the brief the interest
+of the amicus curiae, the summary of the argument, the ar-
+gument, and the conclusion). A motion for leave to file may
+not exceed five pages. A party served with the motion may
+file an objection thereto, stating concisely the reasons for
+withholding consent; the objection shall be prepared as re-
+quired by Rule 33.2.
+
+Rule 38. Fees
+  Under 28 U. S. C. § 1911, the fees charged by the Clerk
+are:
+  (a) for docketing a case on a petition for a writ of certio-
+rari or on appeal or for docketing any other proceeding, ex-
+cept a certified question or a motion to docket and dismiss
+an appeal under Rule 18.5, $300;
+  (b) for filing a petition for rehearing or a motion for leave
+to file a petition for rehearing, $200;
+  (c) for reproducing and certifying any record or paper,
+$1 per page; and for comparing with the original thereof
+515us3urul 07-10-97 16:49:01   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                   1247
+
+any photographic reproduction of any record or paper, when
+furnished by the person requesting its certification, $.50
+per page;
+  (d) for a certificate bearing the seal of the Court, $10; and
+  (e) for a check paid to the Court, Clerk, or Marshal that is
+returned for lack of funds, $35.
+
+Rule 39. Proceedings In Forma Pauperis
+   1. A party seeking to proceed in forma pauperis shall file
+a motion for leave to do so, together with the party’s nota-
+rized affidavit or declaration (in compliance with 28 U. S. C.
+§ 1746) in the form prescribed by the Federal Rules of Appel-
+late Procedure, Form 4. See 28 U. S. C. § 1915. The motion
+shall state whether leave to proceed in forma pauperis was
+sought in any other court and, if so, whether leave was
+granted. If the United States district court or the United
+States court of appeals has appointed counsel under the
+Criminal Justice Act of 1964, 18 U. S. C. § 3006A, or under
+any other applicable federal statute, no affidavit or declara-
+tion is required, but the motion shall cite the statute under
+which counsel was appointed.
+   2. If leave to proceed in forma pauperis is sought for the
+purpose of filing a document, the motion, and an affidavit
+or declaration if required, shall be filed together with that
+document and shall comply in every respect with Rule 21.
+As provided in that Rule, it suffices to file an original and 10
+copies, unless the party is an inmate confined in an institu-
+tion and is not represented by counsel, in which case the
+original, alone, suffices. A copy of the motion shall precede
+and be attached to each copy of the accompanying document.
+   3. Except when these Rules expressly provide that a docu-
+ment shall be prepared as required by Rule 33.1, every docu-
+ment presented by a party proceeding under this Rule shall
+be prepared as required by Rule 33.2 (unless such prepa-
+ration is impossible). Every document shall be legible.
+While making due allowance for any case presented under
+this Rule by a person appearing pro se, the Clerk will not
+515us3urul 07-10-97 16:49:01   PGT • USRULES
+
+
+
+
+1248           RULES OF THE SUPREME COURT
+
+file any document if it does not comply with the substance of
+these Rules or is jurisdictionally out of time.
+   4. When the documents required by paragraphs 1 and 2 of
+this Rule are presented to the Clerk, accompanied by proof
+of service as required by Rule 29, they will be placed on the
+docket without the payment of a docket fee or any other fee.
+   5. The respondent or appellee in a case filed in forma pau-
+peris shall respond in the same manner and within the same
+time as in any other case of the same nature, except that the
+filing of an original and 10 copies of a response prepared as
+required by Rule 33.2, with proof of service as required by
+Rule 29, suffices. The respondent or appellee may challenge
+the grounds for the motion for leave to proceed in forma
+pauperis in a separate document or in the response itself.
+   6. Whenever the Court appoints counsel for an indigent
+party in a case set for oral argument, the briefs on the merits
+submitted by that counsel, unless otherwise requested, shall
+be prepared under the Clerk’s supervision. The Clerk also
+will reimburse appointed counsel for any necessary travel
+expenses to Washington, D. C., and return in connection with
+the argument.
+   7. In a case in which certiorari has been granted, probable
+jurisdiction noted, or consideration of jurisdiction postponed,
+this Court may appoint counsel to represent a party finan-
+cially unable to afford an attorney to the extent authorized
+by the Criminal Justice Act of 1964, 18 U. S. C. § 3006A, or
+by any other applicable federal statute.
+   8. If satisfied that a petition for a writ of certiorari, juris-
+dictional statement, or petition for an extraordinary writ is
+frivolous or malicious, the Court may deny leave to proceed
+in forma pauperis.
+
+Rule 40. Veterans, Seamen, and Military Cases
+  1. A veteran suing to establish reemployment rights
+under 38 U. S. C. § 2022, or under any other provision of law
+exempting veterans from the payment of fees or court costs,
+may file a motion for leave to proceed on papers prepared as
+required by Rule 33.2. The motion shall ask leave to pro-
+515us3urul 07-10-97 16:49:01   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                  1249
+
+ceed as a veteran and be accompanied by an affidavit or dec-
+laration setting out the moving party’s veteran status. A
+copy of the motion shall precede and be attached to each
+copy of the petition for a writ of certiorari or other substan-
+tive document filed by the veteran.
+   2. A seaman suing under 28 U. S. C. § 1916 may proceed
+without prepayment of fees or costs or furnishing security
+therefor, but is not entitled to proceed under Rule 33.2, ex-
+cept as authorized by the Court on separate motion under
+Rule 39.
+   3. An accused person petitioning for a writ of certiorari to
+review a decision of the United States Court of Appeals for
+the Armed Forces under 28 U. S. C. § 1259 may proceed with-
+out prepayment of fees or costs or furnishing security there-
+for and without filing an affidavit of indigency, but is not
+entitled to proceed on papers prepared as required by Rule
+33.2, except as authorized by the Court on separate motion
+under Rule 39.
+
+              PART VIII. DISPOSITION OF CASES
+
+Rule 41. Opinions of the Court
+  Opinions of the Court will be released by the Clerk imme-
+diately upon their announcement from the bench, or as the
+Court otherwise directs. Thereafter, the Clerk will cause
+the opinions to be issued in slip form, and the Reporter of
+Decisions will prepare them for publication in the prelimi-
+nary prints and bound volumes of the United States Reports.
+
+Rule 42. Interest and Damages
+  1. If a judgment for money in a civil case is affirmed, any
+interest allowed by law is payable from the date the judg-
+ment under review was entered. If a judgment is modified
+or reversed with a direction that a judgment for money be
+entered below, the mandate will contain instructions with
+respect to the allowance of interest. Interest in cases aris-
+ing in a state court is allowed at the same rate that similar
+judgments bear interest in the courts of the State in which
+515us3urul 07-10-97 16:49:01   PGT • USRULES
+
+
+
+
+1250           RULES OF THE SUPREME COURT
+
+judgment is directed to be entered. Interest in cases aris-
+ing in a court of the United States is allowed at the interest
+rate authorized by law.
+  2. When a petition for a writ of certiorari, an appeal, or
+an application for other relief is frivolous, the Court may
+award the respondent or appellee just damages, and single
+or double costs under Rule 43. Damages or costs may be
+awarded against the petitioner, appellant, or applicant,
+against the party’s counsel, or against both party and
+counsel.
+
+Rule 43. Costs
+  1. If the Court affirms a judgment, the petitioner or appel-
+lant shall pay costs unless the Court otherwise orders.
+  2. If the Court reverses or vacates a judgment, the re-
+spondent or appellee shall pay costs unless the Court other-
+wise orders.
+  3. The Clerk’s fees and the cost of printing the joint ap-
+pendix are the only taxable items in this Court. The cost of
+the transcript of the record from the court below is also a
+taxable item, but shall be taxable in that court as costs in the
+case. The expenses of printing briefs, motions, petitions, or
+jurisdictional statements are not taxable.
+  4. In a case involving a certified question, costs are equally
+divided unless the Court otherwise orders, except that if the
+Court decides the whole matter in controversy, as permitted
+by Rule 19.2, costs are allowed as provided in paragraphs 1
+and 2 of this Rule.
+  5. To the extent permitted by 28 U. S. C. § 2412, costs
+under this Rule are allowed for or against the United States
+or an officer or agent thereof, unless expressly waived or
+unless the Court otherwise orders.
+  6. When costs are allowed in this Court, the Clerk will
+insert an itemization of the costs in the body of the mandate
+or judgment sent to the court below. The prevailing side
+may not submit a bill of costs.
+  7. In extraordinary circumstances the Court may adjudge
+double costs.
+515us3urul 07-10-97 16:49:01   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                    1251
+
+Rule 44. Rehearing
+   1. Any petition for the rehearing of any judgment or deci-
+sion of the Court on the merits shall be filed within 25 days
+after entry of the judgment or decision, unless the Court or
+a Justice shortens or extends the time. The petitioner shall
+file 40 copies of the rehearing petition and shall pay the filing
+fee prescribed by Rule 38(b), except that a petitioner pro-
+ceeding in forma pauperis under Rule 39, including an in-
+mate of an institution, shall file the number of copies re-
+quired for a petition by such a person under Rule 12.2. The
+petition shall state its grounds briefly and distinctly and
+shall be served as required by Rule 29. The petition shall
+be presented together with certification of counsel (or of a
+party unrepresented by counsel) that it is presented in good
+faith and not for delay; one copy of the certificate shall bear
+the signature of counsel (or of a party unrepresented by
+counsel). A copy of the certificate shall follow and be
+attached to each copy of the petition. A petition for rehear-
+ing is not subject to oral argument and will not be granted
+except by a majority of the Court, at the instance of a Justice
+who concurred in the judgment or decision.
+   2. Any petition for the rehearing of an order denying a
+petition for a writ of certiorari or extraordinary writ shall
+be filed within 25 days after the date of the order of denial
+and shall comply with all the form and filing requirements of
+paragraph 1 of this Rule, including the payment of the filing
+fee if required, but its grounds shall be limited to intervening
+circumstances of a substantial or controlling effect or to
+other substantial grounds not previously presented. The
+petition shall be presented together with certification of
+counsel (or of a party unrepresented by counsel) that it is
+restricted to the grounds specified in this paragraph and that
+it is presented in good faith and not for delay; one copy of
+the certificate shall bear the signature of counsel (or of a
+party unrepresented by counsel). A copy of the certificate
+shall follow and be attached to each copy of the petition.
+The Clerk will not file a petition without a certificate. The
+petition is not subject to oral argument.
+515us3urul 07-10-97 16:49:01   PGT • USRULES
+
+
+
+
+1252           RULES OF THE SUPREME COURT
+
+   3. The Clerk will not file any response to a petition for
+rehearing unless the Court requests a response. In the ab-
+sence of extraordinary circumstances, the Court will not
+grant a petition for rehearing without first requesting a
+response.
+   4. The Clerk will not file consecutive petitions and peti-
+tions that are out of time under this Rule.
+   5. The Clerk will not file any brief for an amicus curiae
+in support of, or in opposition to, a petition for rehearing.
+
+Rule 45. Process; Mandates
+   1. All process of this Court issues in the name of the Presi-
+dent of the United States.
+   2. In a case on review from a state court, the mandate
+issues 25 days after entry of the judgment, unless the Court
+or a Justice shortens or extends the time, or unless the par-
+ties stipulate that it issue sooner. The filing of a petition for
+rehearing stays the mandate until disposition of the petition,
+unless the Court orders otherwise. If the petition is denied,
+the mandate issues forthwith.
+   3. In a case on review from any court of the United States,
+as defined by 28 U. S. C. § 451, a formal mandate does not
+issue unless specially directed; instead, the Clerk of this
+Court will send the clerk of the lower court a copy of the
+opinion or order of this Court and a certified copy of the
+judgment. The certified copy of the judgment, prepared
+and signed by this Court’s Clerk, will provide for costs if
+any are awarded. In all other respects, the provisions of
+paragraph 2 of this Rule apply.
+
+Rule 46. Dismissing Cases
+   1. At any stage of the proceedings, whenever all parties
+file with the Clerk an agreement in writing that a case be
+dismissed, specifying the terms for payment of costs, and pay
+to the Clerk any fees then due, the Clerk, without further
+reference to the Court, will enter an order of dismissal.
+   2. (a) A petitioner or appellant may file a motion to
+dismiss the case, with proof of service as required by Rule
+515us3urul 07-10-97 16:49:01   PGT • USRULES
+
+
+
+
+               RULES OF THE SUPREME COURT                  1253
+
+29, tendering to the Clerk any fees due and costs payable.
+No more than 15 days after service thereof, an adverse
+party may file an objection, limited to the amount of damages
+and costs in this Court alleged to be payable or to showing
+that the moving party does not represent all petitioners or
+appellants. The Clerk will not file any objection not so
+limited.
+   (b) When the objection asserts that the moving party does
+not represent all the petitioners or appellants, the party
+moving for dismissal may file a reply within 10 days, after
+which time the matter will be submitted to the Court for
+its determination.
+   (c) If no objection is filed—or if upon objection going only
+to the amount of damages and costs in this Court, the party
+moving for dismissal tenders the additional damages and
+costs in full within 10 days of the demand therefor—the
+Clerk, without further reference to the Court, will enter an
+order of dismissal. If, after objection as to the amount of
+damages and costs in this Court, the moving party does not
+respond by a tender within 10 days, the Clerk will report
+the matter to the Court for its determination.
+   3. No mandate or other process will issue on a dismissal
+under this Rule without an order of the Court.
+
+        PART IX. DEFINITIONS AND EFFECTIVE DATE
+
+Rule 47. Reference to “State Court” and “State Law”
+  The term “state court,” when used in these Rules, includes
+the District of Columbia Court of Appeals and the Supreme
+Court of the Commonwealth of Puerto Rico. See 28 U. S. C.
+§§ 1257 and 1258. References in these Rules to the common
+law and statutes of a State include the common law and stat-
+utes of the District of Columbia and of the Commonwealth
+of Puerto Rico.
+
+Rule 48. Effective Date of Rules
+  1. These Rules, adopted July 26, 1995, will be effective
+October 2, 1995.
+515us3urul 07-10-97 16:49:01   PGT • USRULES
+
+
+
+
+1254           RULES OF THE SUPREME COURT
+
+  2. The Rules govern all proceedings after their effective
+date except to the extent that, in the opinion of the Court,
+their application to a pending matter would not be feasible
+or would work an injustice, in which event the former proce-
+dure applies.
+

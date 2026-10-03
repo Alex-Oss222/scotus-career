@@ -1,0 +1,499 @@
+§ 431                                    TITLE 2—THE CONGRESS                                      Page 248
+
+Sec.                                                        (3) The term ‘‘Federal office’’ means the office
+             (g) Attribution of multi-State expendi-      of President or Vice President, or of Senator or
+                   tures to candidate’s expenditure
+                                                          Representative in, or Delegate or Resident Com-
+                   limitation in each State.
+             (h) Senatorial candidates.                   missioner to, the Congress.
+441b.    Contributions or expenditures by national          (4) The term ‘‘political committee’’ means—
+           banks, corporations, or labor organizations.       (A) any committee, club, association, or
+441c.    Contributions by government contractors.           other group of persons which receives con-
+             (a) Prohibition.                               tributions aggregating in excess of $1,000 dur-
+             (b) Separate segregated funds.                 ing a calendar year or which makes expendi-
+             (c) ‘‘Labor organization’’ defined.
+441d.    Publication and distribution of statements
+                                                            tures aggregating in excess of $1,000 during a
+           and solicitations; charge for newspaper or       calendar year; or
+           magazine space.                                    (B) any separate segregated fund established
+441e.    Contributions by foreign nationals.                under the provisions of section 441b(b) of this
+441f.    Contributions in name of another prohibited.       title; or
+441g.    Limitation on contribution of currency.              (C) any local committee of a political party
+441h.    Fraudulent misrepresentation of campaign           which receives contributions aggregating in
+           authority.
+                                                            excess of $5,000 during a calendar year, or
+441i.    Repealed.
+441j.    Repealed.                                          makes payments exempted from the definition
+442.     Authority to procure technical support and         of contribution or expenditure as defined in
+           other services and incur travel expenses;        paragraphs (8) and (9) aggregating in excess of
+           payment of such expenses.                        $5,000 during a calendar year, or makes con-
+      SUBCHAPTER II—GENERAL PROVISIONS                      tributions aggregating in excess of $1,000 dur-
+451.       Extension of credit by regulated industries;
+                                                            ing a calendar year or makes expenditures ag-
+             regulations.                                   gregating in excess of $1,000 during a calendar
+452.       Prohibition against use of certain Federal       year.
+             funds for election activities.                 (5) The term ‘‘principal campaign committee’’
+453.       State laws affected.
+454.       Partial invalidity.                            means a political committee designated and au-
+455.       Period of limitations.                         thorized by a candidate under section 432(e)(1) of
+456.       Repealed.                                      this title.
+                                                            (6) The term ‘‘authorized committee’’ means
+         CHAPTER REFERRED TO IN OTHER SECTIONS
+                                                          the principal campaign committee or any other
+  This chapter is referred to in section 61a–9 of this    political committee authorized by a candidate
+title.                                                    under section 432(e)(1) of this title to receive
+SUBCHAPTER I—DISCLOSURE OF FEDERAL                        contributions or make expenditures on behalf of
+         CAMPAIGN FUNDS                                   such candidate.
+                                                            (7) The term ‘‘connected organization’’ means
+        SUBCHAPTER REFERRED TO IN OTHER SECTIONS          any organization which is not a political com-
+  This subchapter is referred to in section 455 of this   mittee but which directly or indirectly estab-
+title.                                                    lishes, administers or financially supports a po-
+                                                          litical committee.
+§ 431. Definitions
+                                                            (8)(A) The term ‘‘contribution’’ includes—
+  When used in this Act:                                       (i) any gift, subscription, loan, advance, or
+  (1) The term ‘‘election’’ means—                          deposit of money or anything of value made by
+    (A) a general, special, primary, or runoff              any person for the purpose of influencing any
+  election;                                                 election for Federal office; or
+    (B) a convention or caucus of a political                  (ii) the payment by any person of compensa-
+  party which has authority to nominate a can-              tion for the personal services of another per-
+  didate;                                                   son which are rendered to a political commit-
+    (C) a primary election held for the selection           tee without charge for any purpose.
+  of delegates to a national nominating conven-             (B) The term ‘‘contribution’’ does not in-
+  tion of a political party; and                          clude—
+    (D) a primary election held for the expres-               (i) the value of services provided without
+  sion of a preference for the nomination of indi-          compensation by any individual who volun-
+  viduals for election to the office of President.          teers on behalf of a candidate or political com-
+  (2) The term ‘‘candidate’’ means an individual            mittee;
+who seeks nomination for election, or election,               (ii) the use of real or personal property, in-
+to Federal office, and for purposes of this para-           cluding a church or community room used on
+graph, an individual shall be deemed to seek                a regular basis by members of a community
+nomination for election, or election—                       for noncommercial purposes, and the cost of
+    (A) if such individual has received contribu-           invitations, food, and beverages, voluntarily
+  tions aggregating in excess of $5,000 or has              provided by an individual to any candidate or
+  made expenditures aggregating in excess of                any political committee of a political party in
+  $5,000; or                                                rendering voluntary personal services on the
+    (B) if such individual has given his or her             individual’s residential premises or in the
+  consent to another person to receive contribu-            church or community room for candidate-re-
+  tions or make expenditures on behalf of such              lated or political party-related activities, to
+  individual and if such person has received such           the extent that the cumulative value of such
+  contributions aggregating in excess of $5,000 or          invitations, food, and beverages provided by
+  has made such expenditures aggregating in ex-             such individual on behalf of any single can-
+  cess of $5,000.                                           didate does not exceed $1,000 with respect to
+Page 249                            TITLE 2—THE CONGRESS                                         § 431
+
+ any single election, and on behalf of all politi-   cost for construction or purchase of any office
+ cal committees of a political party does not        facility not acquired for the purpose of influ-
+ exceed $2,000 in any calendar year;                 encing the election of any candidate in any
+   (iii) the sale of any food or beverage by a       particular election for Federal office;
+ vendor for use in any candidate’s campaign or         (ix) any legal or accounting services ren-
+ for use by or on behalf of any political com-       dered to or on behalf of—
+ mittee of a political party at a charge less            (I) any political committee of a political
+ than the normal comparable charge, if such            party if the person paying for such services
+ charge is at least equal to the cost of such          is the regular employer of the person render-
+ food or beverage to the vendor, to the extent         ing such services and if such services are not
+ that the cumulative value of such activity by         attributable to activities which directly fur-
+ such vendor on behalf of any single candidate         ther the election of any designated can-
+ does not exceed $1,000 with respect to any sin-       didate to Federal office; or
+ gle election, and on behalf of all political com-       (II) an authorized committee of a can-
+ mittees of a political party does not exceed          didate or any other political committee, if
+ $2,000 in any calendar year;                          the person paying for such services is the
+   (iv) any unreimbursed payment for travel            regular employer of the individual rendering
+ expenses made by any individual on behalf of          such services and if such services are solely
+ any candidate or any political committee of a         for the purpose of ensuring compliance with
+ political party, to the extent that the cumu-         this Act or chapter 95 or chapter 96 of title
+ lative value of such activity by such individ-        26,
+ ual on behalf of any single candidate does not
+ exceed $1,000 with respect to any single elec-      but amounts paid or incurred by the regular
+ tion, and on behalf of all political committees     employer for such legal or accounting services
+ of a political party does not exceed $2,000 in      shall be reported in accordance with section
+ any calendar year;                                  434(b) of this title by the committee receiving
+   (v) the payment by a State or local commit-       such services;
+ tee of a political party of the costs of prepara-     (x) the payment by a State or local commit-
+ tion, display, or mailing or other distribution     tee of a political party of the costs of cam-
+ incurred by such committee with respect to a        paign materials (such as pins, bumper stick-
+ printed slate card or sample ballot, or other       ers, handbills, brochures, posters, party tab-
+ printed listing, of 3 or more candidates for any    loids, and yard signs) used by such committee
+ public office for which an election is held in      in connection with volunteer activities on be-
+ the State in which such committee is orga-          half of nominees of such party: Provided,
+ nized, except that this clause shall not apply      That—
+ to any cost incurred by such committee with             (1) such payments are not for the costs of
+ respect to a display of any such listing made         campaign materials or activities used in
+ on broadcasting stations, or in newspapers,           connection with any broadcasting, news-
+ magazines, or similar types of general public         paper, magazine, billboard, direct mail, or
+ political advertising;                                similar type of general public communica-
+   (vi) any payment made or obligation in-             tion or political advertising;
+ curred by a corporation or a labor organiza-            (2) such payments are made from contribu-
+ tion which, under section 441b(b) of this title,      tions subject to the limitations and prohibi-
+ would not constitute an expenditure by such           tions of this Act; and
+ corporation or labor organization;                      (3) such payments are not made from con-
+   (vii) any loan of money by a State bank, a          tributions designated to be spent on behalf
+ federally chartered depository institution, or        of a particular candidate or particular can-
+ a depository institution the deposits or ac-          didates;
+ counts of which are insured by the Federal De-        (xi) the payment by a candidate, for nomina-
+ posit Insurance Corporation, Federal Savings        tion or election to any public office (including
+ and Loan Insurance Corporation, or the Na-          State or local office), or authorized committee
+ tional Credit Union Administration, other           of a candidate, of the costs of campaign mate-
+ than any overdraft made with respect to a           rials which include information on or ref-
+ checking or savings account, made in accord-        erenced to any other candidate and which are
+ ance with applicable law and in the ordinary        used in connection with volunteer activities
+ course of business, but such loan—                  (including pins, bumper stickers, handbills,
+      (I) shall be considered a loan by each en-     brochures, posters, and yard signs, but not in-
+   dorser or guarantor, in that proportion of        cluding the use of broadcasting, newspapers,
+   the unpaid balance that each endorser or          magazines, billboards, direct mail, or similar
+   guarantor bears to the total number of en-        types of general public communication or po-
+   dorsers or guarantors;                            litical advertising): Provided, That such pay-
+      (II) shall be made on a basis which assures    ments are made from contributions subject to
+   repayment, evidenced by a written instru-         the limitations and prohibitions of this Act;
+   ment, and subject to a due date or amortiza-        (xii) the payment by a State or local com-
+   tion schedule; and                                mittee of a political party of the costs of voter
+      (III) shall bear the usual and customary in-   registration and get-out-the-vote activities
+   terest rate of the lending institution;           conducted by such committee on behalf of
+   (viii) any gift, subscription, loan, advance,     nominees of such party for President and Vice
+ or deposit of money or anything of value to a       President: Provided, That—
+ national or a State committee of a political             (1) such payments are not for the costs of
+ party specifically designated to defray any           campaign materials or activities used in
+§ 431                                TITLE 2—THE CONGRESS                                    Page 250
+
+    connection with any broadcasting, news-           which, under section 441b(b) of this title,
+    paper, magazine, billboard, direct mail, or       would not constitute an expenditure by such
+    similar type of general public communica-         corporation or labor organization;
+    tion or political advertising;                      (vi) any costs incurred by an authorized
+      (2) such payments are made from contribu-       committee or candidate in connection with
+    tions subject to the limitations and prohibi-     the solicitation of contributions on behalf of
+    tions of this Act; and                            such candidate, except that this clause shall
+      (3) such payments are not made from con-        not apply with respect to costs incurred by an
+    tributions designated to be spent on behalf       authorized committee of a candidate in excess
+    of a particular candidate or candidates;          of an amount equal to 20 percent of the ex-
+    (xiii) payments made by a candidate or the        penditure limitation applicable to such can-
+  authorized committee of a candidate as a con-       didate under section 441a(b) of this title, but
+  dition of ballot access and payments received       all such costs shall be reported in accordance
+  by any political party committee as a condi-        with section 434(b) of this title;
+                                                        (vii) the payment of compensation for legal
+  tion of ballot access; and
+    (xiv) any honorarium (within the meaning of       or accounting services—
+                                                          (I) rendered to or on behalf of any political
+  section 441i of this title).
+                                                        committee of a political party if the person
+  (9)(A) The term ‘‘expenditure’’ includes—             paying for such services is the regular em-
+    (i) any purchase, payment, distribution,            ployer of the individual rendering such serv-
+  loan, advance, deposit, or gift of money or           ices, and if such services are not attrib-
+  anything of value, made by any person for the         utable to activities which directly further
+  purpose of influencing any election for Federal       the election of any designated candidate to
+  office; and                                           Federal office; or
+    (ii) a written contract, promise, or agree-           (II) rendered to or on behalf of a candidate
+  ment to make an expenditure.                          or political committee if the person paying
+  (B) The term ‘‘expenditure’’ does not include—        for such services is the regular employer of
+    (i) any news story, commentary, or editorial        the individual rendering such services, and if
+  distributed through the facilities of any broad-      such services are solely for the purpose of
+  casting station, newspaper, magazine, or other        ensuring compliance with this Act or chap-
+  periodical publication, unless such facilities        ter 95 or chapter 96 of title 26,
+  are owned or controlled by any political party,     but amounts paid or incurred by the regular
+  political committee, or candidate;                  employer for such legal or accounting services
+    (ii) nonpartisan activity designed to encour-     shall be reported in accordance with section
+  age individuals to vote or to register to vote;     434(b) of this title by the committee receiving
+    (iii) any communication by any membership         such services;
+  organization or corporation to its members,           (viii) the payment by a State or local com-
+  stockholders, or executive or administrative        mittee of a political party of the costs of cam-
+  personnel, if such membership organization or       paign materials (such as pins, bumper stick-
+  corporation is not organized primarily for the      ers, handbills, brochures, posters, party tab-
+  purpose of influencing the nomination for           loids, and yard signs) used by such committee
+  election, or election, of any individual to Fed-    in connection with volunteer activities on be-
+  eral office, except that the costs incurred by a    half of nominees of such party: Provided,
+  membership organization (including a labor          That—
+  organization) or by a corporation directly at-          (1) such payments are not for the costs of
+  tributable to a communication expressly advo-         campaign materials or activities used in
+  cating the election or defeat of a clearly iden-      connection with any broadcasting, news-
+  tified candidate (other than a communication          paper, magazine, billboard, direct mail, or
+  primarily devoted to subjects other than the          similar type of general public communica-
+  express advocacy of the election or defeat of a       tion or political advertising;
+  clearly identified candidate), shall, if such           (2) such payments are made from contribu-
+  costs exceed $2,000 for any election, be re-          tions subject to the limitations and prohibi-
+  ported to the Commission in accordance with           tions of this Act; and
+  section 434(a)(4)(A)(i) of this title, and in ac-       (3) such payments are not made from con-
+  cordance with section 434(a)(4)(A)(ii) of this        tributions designated to be spent on behalf
+  title with respect to any general election;           of a particular candidate or particular can-
+    (iv) the payment by a State or local commit-        didates;
+  tee of a political party of the costs of prepara-     (ix) the payment by a State or local commit-
+  tion, display, or mailing or other distribution     tee of a political party of the costs of voter
+  incurred by such committee with respect to a        registration and get-out-the-vote activities
+  printed slate card or sample ballot, or other       conducted by such committee on behalf of
+  printed listing, of 3 or more candidates for any    nominees of such party for President and Vice
+  public office for which an election is held in      President: Provided, That—
+  the State in which such committee is orga-              (1) such payments are not for the costs of
+  nized, except that this clause shall not apply        campaign materials or activities used in
+  to costs incurred by such committee with re-          connection with any broadcasting, news-
+  spect to a display of any such listing made on        paper, magazine, billboard, direct mail, or
+  broadcasting stations, or in newspapers, maga-        similar type of general public communica-
+  zines, or similar types of general public politi-     tion or political advertising;
+  cal advertising;                                        (2) such payments are made from contribu-
+    (v) any payment made or obligation incurred         tions subject to the limitations and prohibi-
+  by a corporation or a labor organization              tions of this Act; and
+Page 251                                  TITLE 2—THE CONGRESS                                                       § 431
+
+      (3) such payments are not made from con-                                 REFERENCES IN TEXT
+    tributions designated to be spent on behalf               The Federal Election Campaign Act of 1971, as
+    of a particular candidate or candidates; and            amended, referred to in par. (19), is Pub. L. 92–225, Feb.
+    (x) payments received by a political party              7, 1972, 86 Stat. 3, as amended, which is classified prin-
+                                                            cipally to this chapter. For complete classification of
+  committee as a condition of ballot access                 this Act to the Code, see Short Title notes set out
+  which are transferred to another political                below and Tables.
+  party committee or the appropriate State offi-
+  cial.                                                                             AMENDMENTS
+
+  (10) The term ‘‘Commission’’ means the Fed-                  1986—Pars. (8)(B)(ix)(II), (9)(A)(vii)(II). Pub. L. 99–514
+                                                            substituted ‘‘Internal Revenue Code of 1986’’ for ‘‘Inter-
+eral Election Commission.
+                                                            nal Revenue Code of 1954’’, which for purposes of codi-
+  (11) The term ‘‘person’’ includes an individual,
+                                                            fication was translated as ‘‘title 26’’ thus requiring no
+partnership, committee, association, corpora-               change in text.
+tion, labor organization, or any other organiza-               1980—Pub. L. 96–187 changed the section designations
+tion or group of persons, but such term does not            from letters to numbers, and as so redesignated, sub-
+include the Federal Government or any author-               stantially redefined the terms applicable to the provi-
+ity of the Federal Government.                              sions of this Act.
+  (12) The term ‘‘State’’ means a State of the                 1976—Subsec. (a)(2). Pub. L. 94–283, § 102(a), sub-
+United States, the District of Columbia, the                stituted ‘‘party which has authority to nominate’’ for
+Commonwealth of Puerto Rico, or a territory or              ‘‘party held to nominate’’.
+possession of the United States.                               Subsec. (e)(2). Pub. L. 94–283, § 102(b), substituted
+                                                            ‘‘written contract, promise, or agreement,’’ for ‘‘con-
+  (13) The term ‘‘identification’’ means—
+                                                            tract, promise, or agreement, expressed or implied,’’.
+    (A) in the case of any individual, the name,
+                                                               Subsec. (e)(4). Pub. L. 94–283, § 102(c), inserted provi-
+  the mailing address, and the occupation of                sions establishing an exception for legal or accounting
+  such individual, as well as the name of his or            services.
+  her employer; and                                            Subsec. (e)(5). Pub. L. 94–283, §§ 102(d), (e), 115(d) (1),
+    (B) in the case of any other person, the full           substituted ‘‘section 441b(b) of this title’’ for ‘‘the last
+  name and address of such person.                          paragraph of section 610 of title 18, United States Code’’
+                                                            in cl. (F), added cls. (G), (H), and (I), and, in the provi-
+  (14) The term ‘‘national committee’’ means                sions following cl. (I), substituted ‘‘person’’ for ‘‘indi-
+the organization which, by virtue of the bylaws             vidual’’.
+of a political party, is responsible for the day-to-           Subsec. (f)(4). Pub. L. 94–283, §§ 102(f), 115(d)(2), in-
+day operation of such political party at the na-            serted provisions in cl. (C) requiring the reporting to
+tional level, as determined by the Commission.              the Commission of costs directly attributable to a com-
+  (15) The term ‘‘State committee’’ means the               munication expressly advocating the election or defeat
+organization which, by virtue of the bylaws of a            of a clearly identifiable candidate if those costs should
+political party, is responsible for the day-to-day          exceed $2,000 per election, substituted ‘‘section 441b(b)
+                                                            of this title’’ for ‘‘the last paragraph of section 610 of
+operation of such political party at the State
+                                                            title 18, United States Code’’ in cl. (H), and added cls.
+level, as determined by the Commission.                     (I), (J), and (K).
+  (16) The term ‘‘political party’’ means an asso-             Subsec. (n). Pub. L. 94–283, § 115(h), substituted ‘‘sec-
+ciation, committee, or organization which nomi-             tion 432(e) (1) of this title’’ for ‘‘section 432(f)(1) of this
+nates a candidate for election to any Federal of-           title’’.
+fice whose name appears on the election ballot                 Subsec. (o) to (q). Pub. L. 94–283, § 102(g)(3), added sub-
+as the candidate of such association, committee,            secs. (o) to (q).
+or organization.                                               1974—Pub. L. 93–443, § 201(a) (1), inserted introductory
+  (17) The term ‘‘independent expenditure’’                 reference to title IV of this Act, which for purposes of
+means an expenditure by a person expressly ad-              codification is translated as subchapter II of this chap-
+                                                            ter.
+vocating the election or defeat of a clearly iden-             Subsec. (a)(5). Pub. L. 93–443, § 201(a)(2), struck out
+tified candidate which is made without coopera-             from definition of ‘‘election’’ the election of delegates
+tion or consultation with any candidate, or any             to a constitutional convention for proposing amend-
+authorized committee or agent of such can-                  ments to the Constitution of the United States.
+didate, and which is not made in concert with,                 Subsec. (d). Pub. L. 93–443, § 201(a)(3), inserted ref-
+or at the request or suggestion of, any can-                erence to ‘‘club,’’ before ‘‘association’’ and substituted
+didate, or any authorized committee or agent of             ‘‘other group of persons’’ and ‘‘receives’’ for ‘‘organiza-
+                                                            tion’’ and ‘‘accepts’’.
+such candidate.
+                                                               Subsec. (e). Pub. L. 93–443, § 201(a)(4), transferred the
+  (18) The term ‘‘clearly identified’’ means
+                                                            word ‘‘means’’ after introductory word ‘‘contribution’’
+that—                                                       to become the initial word in pars. (1) to (4); in par. (1),
+     (A) the name of the candidate involved ap-             incorporated existing provisions in provisions des-
+  pears;                                                    ignated subpars. (A) and (B), and deleted former provi-
+     (B) a photograph or drawing of the candidate           sions respecting contributions for the purpose of influ-
+  appears; or                                               encing the nomination for election, or election, of any
+     (C) the identity of the candidate is apparent          person as a presidential election or for the purpose of
+  by unambiguous reference.                                 influencing the election of delegates to a constitutional
+                                                            convention for proposing amendments to the Constitu-
+  (19) The term ‘‘Act’’ means the Federal Elec-             tion of the United States; in par. (2), provided for ex-
+tion Campaign Act of 1971 as amended.                       press or implied transactions; in par. (3), substitution
+(Pub. L. 92–225, title III, § 301, Feb. 7, 1972, 86         of ‘‘funds received by a political committee which are
+Stat. 11; Pub. L. 93–443, title II, §§ 201(a), 208(c)(1),   transferred to such committee from another political
+                                                            committee or other source’’ for ‘‘a transfer of funds be-
+Oct. 15, 1974, 88 Stat. 1272, 1286; Pub. L. 94–283,
+                                                            tween political committees’’; inserted at end of par. (4)
+title I, §§ 102, 115(d), (h), May 11, 1976, 90 Stat. 478,   the word ‘‘but’’; and added par. (5.)
+495, 496; Pub. L. 96–187, title I, § 101, Jan. 8, 1980,        Subsec. (f). Pub. L. 93–443, § 201(a)(5), transferred the
+93 Stat. 1339; Pub. L. 99–514, § 2, Oct. 22, 1986, 100      word ‘‘means’’ following introductory word ‘‘expendi-
+Stat. 2095.)                                                ture’’ to become the initial word in pars. (1) to (3); in
+§ 431                                         TITLE 2—THE CONGRESS                                                   Page 252
+
+par. (1), incorporated existing provisions in provisions          ternal Revenue Code, and section 5043 of Title 42, The
+designated subpars. (A) to (C) and deleted end text               Public Health and Welfare; repealing sections 435, 436,
+reading ’’, or for the purpose of influencing the election        437b, 437e, 439b, and 441j of this title and section 591 of
+of delegates to a constitutional convention for propos-           Title 18; and enacting provisions set out as notes under
+ing amendments to the Constitution of the United                  this section] may be cited as the ‘Federal Election
+States’’; in par. (2), provided for express or implied            Campaign Act Amendments of 1979’.’’
+transactions; in par. (3), substituted ‘‘the transfer of
+                                                                              SHORT TITLE OF 1976 AMENDMENT
+funds by a political committee to another political
+committee; but’’ for ‘‘a transfer of funds between polit-           Section 1 of Pub. L. 94–283 provided that: ‘‘This Act
+ical committees’’; and added par. (4).                            [enacting sections 441a to 441j of this title, amending
+  Subsec. (g). Pub. L. 93–443, § 208(c)(1), substituted defi-     this section and sections 432, 434, 436, 437b to 439c, and
+nition of ‘‘Commission’’ for ‘‘supervisory officer’’.             455 of this title, section 591 of Title 18, Crimes and
+  Subsecs. (j) to (n). Pub. L. 93–443, § 201(a)(6)–(8), added     Criminal Procedure, and sections 9002, 9003, 9004, 9006,
+subsecs. (j) to (n).                                              9007, 9008, 9009, 9012, 9032, 9033, 9034, 9035, and 9039 of
+                                                                  Title 26, Internal Revenue Code, repealing sections
+          EFFECTIVE DATE OF 1980 AMENDMENT                        437a, 441, and 456 of this title and sections 608, 610, 611,
+  Section 301 of Pub. L. 96–187 provided that:                    612, 613, 614, 615, 616, and 617 of Title 18, and enacting
+  ‘‘(a) Except as provided in subsection (b), the amend-          provisions set out as notes under sections 437c, 437f, and
+ments made by this Act [see Short Title of 1980 Amend-            441 of this title and sections 9002, 9004, and 9035 of Title
+ment note set out below] are effective upon enactment             26] may be cited as the ‘Federal Election Campaign Act
+[Jan. 8, 1980].                                                   Amendments of 1976’.’’
+  ‘‘(b) For authorized committees of candidates for                           SHORT TITLE OF 1974 AMENDMENT
+President and Vice President, section 304(b) of the Fed-
+eral Election Campaign Act of 1971 [section 434(b) of               Section 1 of Pub. L. 93–443 provided: ‘‘That this Act
+this title] shall be effective for elections occurring            [enacting sections 437a to 437h, 439a to 439c, 455, and 456
+after January 1, 1981.’’                                          of this title, sections 614 to 617 of Title 18, Crimes and
+                                                                  Criminal Procedure, and sections 9031 to 9042 of Title
+          EFFECTIVE DATE OF 1974 AMENDMENT                        26, Internal Revenue Code; amending this section and
+  Section 410 of Pub. L. 93–443 provided that:                    sections 432 to 437, 438, 439 and 451 to 453 of this title,
+  ‘‘(a) Except as provided by subsection (b) and sub-             sections 1501 to 1503 of Title 5, Government Organiza-
+section (c), the foregoing provisions of this Act [enact-         tion and Employees, sections 591, 608, 610, 611, and 613
+ing sections 437a to 437h, 439a to 439c, 455 and 456 of this      of Title 18, sections 276, 6012, 9002 to 9012 of Title 26, and
+title sections 614 to 617 of Title 18, Crimes and Criminal        section 315 of Title 47, Telegraphs, Telephones, and Ra-
+Procedure, and sections 9031 to 9042 of Title 26, Internal        diotelegraphs; repealing section 440 of this title, sec-
+Revenue Code, amending sections 431 to 437, 438, 439, 451         tion 9021 of Title 26, and sections 801 to 805 of Title 47;
+to 453 of this title, sections 1501 to 1503 of Title 5, Gov-      and enacting provisions set out as notes under this sec-
+ernment Organization and Employees, sections 591, 608,            tion and sections 434, 437c, and 438 of this title, sections
+610, 611, and 613 of Title 18, sections 276, 6012, and 9002       591 and 608 of Title 18, and section 9006 of Title 26] may
+to 9012 of Title 26, and section 315 of Title 47, Tele-           be cited as the ‘Federal Election Campaign Act Amend-
+graphs, Telephones, and Radiotelegraphs, repealing sec-           ments of 1974’.’’
+tion 440 of this title, section 9021 of Title 26, and sec-                               SHORT TITLE
+tions 801 to 805 of Title 47, and enacting provisions set
+                                                                    Section 1 of Pub. L. 92–225 provided: ‘‘That this Act
+out as notes under this section and sections 432, 434,
+                                                                  [enacting this chapter and chapter 7 of Title 47, Tele-
+437c, and 438 of this title, sections 591 and 608 of Title
+                                                                  graphs, Telephones, and Radiotelegraphs, amending
+18, and section 9006 of Title 26] shall become effective
+                                                                  sections 591, 600, 608, 610, and 611 of Title 18, Crimes and
+January 1, 1975.
+                                                                  Criminal Procedure, and sections 312 and 315 of Title 47,
+  ‘‘(b) Section 104 [set out as a note under section 591
+                                                                  repealing sections 241 to 256 of this title and section 609
+of Title 18] and the amendment made by section 301
+                                                                  of Title 18, and enacting provisions set out as notes
+[amending section 453 of this title] shall become effec-
+                                                                  under this section and section 801 of Title 47] may be
+tive on the date of the enactment of this Act [Oct. 15,
+                                                                  cited as the ‘Federal Election Campaign Act of 1971’.’’
+1974].
+  ‘‘(c)(1) The amendments made by sections 403(a), 404,                            TRANSFER OF FUNCTIONS
+405, 406, 408, and 409 [enacting sections 9031 to 9042,
+                                                                    Federal Savings and Loan Insurance Corporation
+amending sections 276, 9002, 9003, 9004, 9005, 9006, 9007,
+                                                                  abolished and functions transferred, see Pub. L. 101–73,
+9008, 9009, 9010, 9011, and 9012, and repealing section 9021
+                                                                  title IV, §§ 401–406, Aug. 9, 1989, 103 Stat. 354–363, set out
+of Title 26] shall apply with respect to taxable years be-
+                                                                  as a note under section 1437 of Title 12, Banks and
+ginning after December 31, 1974.
+                                                                  Banking.
+  ‘‘(2) The amendment made by section 407 [amending
+section 6012 of Title 26] shall apply with respect to tax-                         TRANSITION PROVISIONS
+able years beginning after December 31, 1971.’’
+                                                                    Section 303 of Pub. L. 96–187 provided that:
+                      EFFECTIVE DATE                                ‘‘(a) The Federal Election Commission shall transmit
+                                                                  to the Congress proposed rules and regulations nec-
+  Section 408, formerly § 406, of Pub. L. 92–225 as renum-        essary for the purpose of implementing the provisions
+bered Pub. L. 93–443, title III, § 302, Oct. 15, 1974, 88 Stat.   of this Act, and the amendments made by this Act [see
+1289, provided that: ‘‘Except as provided in section 401          Short Title of 1980 Amendment note set out above],
+of this Act [section 451 of this title], the provisions of        prior to February 29, 1980.
+this Act [see Short Title note set out below] shall be-             ‘‘(b) The provisions of section 311(d) of the Federal
+come effective on December 31, 1971, or sixty days after          Election Campaign Act of 1971 [section 438(d) of this
+the date of enactment of this Act [Feb. 7, 1972], which-          title] allowing disapproval of rules and regulations by
+ever is later.’’                                                  either House of Congress within 30 legislative days
+                                                                  after receipt shall, with respect to rules and regula-
+            SHORT TITLE OF 1980 AMENDMENT
+                                                                  tions required to be proposed under subsection (a) of
+  Section 1 of Pub. L. 96–187 provided: ‘‘That this Act           this section, be deemed to allow such disapproval with-
+[amending this section and sections 432 to 434, 437, 437c,        in 15 legislative days after receipt.’’
+437d, 437f to 439a, 439c, 441a to 441i of this title, section
+3132 of Title 5, Government Organization and Employ-              VOTING SYSTEM STUDY; REPORT TO CONGRESS; COST OF
+ees, sections 602, 603, and 607 of Title 18, Crimes and                                STUDY
+Criminal Procedure, section 901a of Title 22, Foreign               Section 302 of Pub. L. 96–187, as amended by Pub. L.
+Relations and Intercourse, section 9008 of Title 26, In-          100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433,
+Page 253                                     TITLE 2—THE CONGRESS                                             § 432
+
+provided that: ‘‘The Federal Election Commission with              with the date and amount of any such con-
+the cooperation and assistance of the National Insti-              tribution; and
+tute of Standards and Technology, shall conduct a pre-               (5) the name and address of every person to
+liminary study with respect to the future development              whom any disbursement is made, the date,
+of voluntary engineering and procedural performance
+standards for voting systems used in the United States.
+                                                                   amount, and purpose of the disbursement, and
+The Commission shall report to the Congress the re-                the name of the candidate and the office
+sults of the study, and such report shall include recom-           sought by the candidate, if any, for whom the
+mendations, if any, for the implementation of a pro-               disbursement was made, including a receipt,
+gram of such standards (including estimates of the                 invoice, or canceled check for each disburse-
+costs and time requirements of implementing such a                 ment in excess of $200.
+program). The cost of the study shall be paid out of any
+                                                                (d) Preservation of records and copies of reports
+funds otherwise available to defray the expenses of the
+Commission.’’                                                      The treasurer shall preserve all records re-
+                                                                quired to be kept by this section and copies of
+        SECTION REFERRED TO IN OTHER SECTIONS                   all reports required to be filed by this sub-
+  This section is referred to in sections 58, 59e, 433, 437a    chapter for 3 years after the report is filed.
+of this title; title 18 sections 602, 603, 607; title 22 sec-   (e) Principal and additional campaign commit-
+tion 3944; title 42 sections 1973gg–1, 5043.                         tees; designations, status of candidate, au-
+§ 432. Organization of political committees                          thorized committees, etc.
+                                                                   (1) Each candidate for Federal office (other
+(a) Treasurer; vacancy; official authorizations                 than the nominee for the office of Vice Presi-
+  Every political committee shall have a treas-                 dent) shall designate in writing a political com-
+urer. No contribution or expenditure shall be ac-               mittee in accordance with paragraph (3) to serve
+cepted or made by or on behalf of a political                   as the principal campaign committee of such
+committee during any period in which the office                 candidate. Such designation shall be made no
+of treasurer is vacant. No expenditure shall be                 later than 15 days after becoming a candidate. A
+made for or on behalf of a political committee                  candidate may designate additional political
+without the authorization of the treasurer or his               committees in accordance with paragraph (3) to
+or her designated agent.                                        serve as authorized committees of such can-
+(b) Account of contributions; segregated funds                  didate. Such designation shall be in writing and
+                                                                filed with the principal campaign committee of
+  (1) Every person who receives a contribution                  such candidate in accordance with subsection
+for an authorized political committee shall, no                 (f)(1) of this section.
+later than 10 days after receiving such contribu-                  (2) Any candidate described in paragraph (1)
+tion, forward to the treasurer such contribution,               who receives a contribution, or any loan for use
+and if the amount of the contribution is in ex-                 in connection with the campaign of such can-
+cess of $50 the name and address of the person                  didate for election, or makes a disbursement in
+making the contribution and the date of receipt.                connection with such campaign, shall be consid-
+  (2) Every person who receives a contribution                  ered, for purposes of this Act, as having received
+for a political committee which is not an au-                   the contribution or loan, or as having made the
+thorized committee shall—                                       disbursement, as the case may be, as an agent of
+    (A) if the amount of the contribution is $50                the authorized committee or committees of such
+  or less, forward to the treasurer such contribu-              candidate.
+  tion no later than 30 days after receiving the                   (3)(A) No political committee which supports
+  contribution; and                                             or has supported more than one candidate may
+    (B) if the amount of the contribution is in                 be designated as an authorized committee, ex-
+  excess of $50, forward to the treasurer such                  cept that—
+  contribution, the name and address of the per-                     (i) the candidate for the office of President
+  son making the contribution, and the date of                     nominated by a political party may designate
+  receipt of the contribution, no later than 10                    the national committee of such political party
+  days after receiving the contribution.                           as a principal campaign committee, but only if
+                                                                   that national committee maintains separate
+  (3) All funds of a political committee shall be
+                                                                   books of account with respect to its function
+segregated from, and may not be commingled
+                                                                   as a principal campaign committee; and
+with, the personal funds of any individual.
+                                                                     (ii) candidates may designate a political
+(c) Recordkeeping                                                  committee established solely for the purpose
+  The treasurer of a political committee shall                     of joint fundraising by such candidates as an
+keep an account of—                                                authorized committee.
+    (1) all contributions received by or on behalf                (B) As used in this section, the term ‘‘support’’
+  of such political committee;                                  does not include a contribution by any author-
+    (2) the name and address of any person who                  ized committee in amounts of $1,000 or less to an
+  makes any contribution in excess of $50, to-                  authorized committee of any other candidate.
+  gether with the date and amount of such con-                    (4) The name of each authorized committee
+  tribution by any person;                                      shall include the name of the candidate who au-
+    (3) the identification of any person who                    thorized such committee under paragraph (1). In
+  makes a contribution or contributions aggre-                  the case of any political committee which is not
+  gating more than $200 during a calendar year,                 an authorized committee, such political com-
+  together with the date and amount of any                      mittee shall not include the name of any can-
+  such contribution;                                            didate in its name.
+    (4) the identification of any political com-                  (5) The name of any separate segregated fund
+  mittee which makes a contribution, together                   established pursuant to section 441b(b) of this
+

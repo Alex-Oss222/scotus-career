@@ -1,0 +1,1544 @@
+Tc. 
+
+
+(5) JUL 24 19% 
+
+
+No. 94-1453 
+
+
+; CLERK 
+
+
+In the Supreme Court of the Anited States 
+OCTOBER TERM, 1995 
+
+
+D. GRANT PEACOCK, Petitioner 
+Vv. 
+
+
+JACK L. THOMAS, Respondent 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+BRIEF OF THE NATIONAL ASSOCIATION OF 
+REAL ESTATE INVESTMENT MANAGERS 
+AS AMICUS CURIAE IN SUPPORT OF PETITIONER 
+
+
+ROBERT P. DAVIS 
+Counsel of Record 
+KENNETH S. GELLER 
+BLAKE M. CORNISH 
+Mayer, Brown & Platt 
+2000 Pennsylvania Ave., N. W. 
+Washington, D.C. 20006 
+(202) 463-2000 
+
+
+BEST AVAILABLE COPY! 
+
+
+a 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether a federal court has ancillary jurisdiction to 
+adjudicate a plaintiff's factually unrelated claim to enforce a 
+prior judgment against a non-party to the original action. 
+
+
+2. Whether it is consistent with the statutory scheme of 
+the Employee Retirement Income Security Act (“ERISA”) to 
+impose personal liability on a nonfiduciary by piercing the 
+corporate veil of a fiduciary. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+SI EEE ow tt ee tt es i 
+Sg go gn og tt ts iv 
+INTEREST OF THE AMICUS CURIAE.......... l 
+SUMMARY OF ARGUMENT ............... 2 
+as 5 6b ta pes ce cece es 4 
+
+
+I. ANCILLARY JURISDICTION DOES NOT 
+ENCOMPASS A PLAINTIFF’S UNRELATED 
+POST-JUDGMENT CLAIMS AGAINST THIRD 
+Ech Cle 6 os so ¢ 0 ¢ 00000 0 eo 4 
+
+
+A. The Expansion Of The Federal Court’s Limited 
+Jurisdiction Permitted Below Is Unnecessary 
+To Enable The Court To Vindicate Its 
+DEG Dawes és cee es cce ce. 4 
+
+
+B. The Veil-Piercing Action Lacks The Factual 
+Interdependence With The ERISA Action To 
+Support Ancillary Jurisdiction .......... 10 
+
+
+Il. PIERCING THE CORPORATE VEIL TO IMPOSE 
+PERSONAL LIABILITY ON A NONFIDUCIARY 
+IS INCONSISTENT WITH THE _ ERISA 
+oo 12 
+
+
+A. ERISA  Unambiguously Delineates Who 
+Shall Bear The Burdens Of Fiduciary 
+Eee 13 
+
+
+iii 
+TABLE OF CONTENTS - Continued 
+Page 
+B. ERISA’s Fiduciary-Nonfiduciary Distinction 
+
+
+Would Be Rendered Meaningless By Inferring A 
+Cause Of Action For Veil-Piercing To Reach 
+
+
+Nonfideciagios .. 0. ccc ce cc eee ees 16 
+C. Veil-Piercing To Impose Liability On A 
+
+
+Nonfiduciary Is Inconsistent With ERISA’s 
+Functional Definition Of A Fiduciary ...... 23 
+
+
+CORTE AIS nw cc ct ce ce ee aterespoeus 25 
+
+
+iV 
+
+
+TABLE OF AUTHORITIES 
+
+Cases e 
+Alman v. Danin, 801 F.2d 1 (1st Cir. 
+
+AD ee Ul Ae ee a iadahe saw 6 6 6 60 6s 18 
+Argento v. Village of Melrose Park, 838 
+
+ee eee cee tee 8 
+Bank of the United States v. Halstead, 23 
+
+FF fe a 5 
+
+
+Berry v. McLemore, 795 F.2d 452 (Sth 
+
+
+Ps bee oe ad he been sees 8, 11 
+Buckley Dement, Inc. v. Travelers Plan 
+
+Administrators of Illinois, Inc. , 39 
+
+eg ree 18 
+Confer v. Custom Eng’g Co., 952 F.2d 34 
+
+i od tek ote o 6's 6 6 6 5 6 560 € 14 
+Dugas v. American Surety Co., 300 U.S. 
+
+I ee le a as bes oy 6 6 a 6 0 88 5 
+Eagerton v. Valuations, Inc., 698 F.2d 
+
+ge Ra a 8 
+Firestone Tire & Rubber Co. v. Bruch, 489 
+
+Re re 20 
+H.C. Cook Co. v. Beecher, 217 U.S. 497 
+
+ES a ht ee kg sc 2, 5-7, 9 
+Hale vy. Allinson, 188 U.S. 56 (1903) ........ tia 
+Julian v. Central Trust Co., 193 U.S. 93 
+
+ET Cratls*d ei a otk OS 6 eee ah oie wee Os 6 
+Kayes v. Pacific Lumber Co., 51 F.3d 1449 
+
+NS ere a ee eee ee 14 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Pages 
+
+Kokkonen v. Guardian Life Ins. Co. of 
+
+America, 114 §. Ct. 1673 (1994) ....... 4,5, 7-9 
+Mackey v. Lanier Collection Agency & 
+
+Service, 486 U.S. $25 (1968) .........---- 10 
+Manway Constr. Co. v. Housing Authority 
+
+of Hartford, 711 F.2d 501 (11th Cir. 
+
+DTC ec ae cee See heeneevrrece 1] 
+Martin v. Harline, 15 E.B.C. (BNA) 1138 
+
+ee, ED ong 5 be 6 ow 60 0.0 60 6 08.8 14 
+Massachusetts Mut. Life Ins. Co. v. 
+
+Russell, 473 U.S. 134 (1985) ......... 13, 17-19 
+Mertens v. Hewitt Associates, 113 S. Ct. 
+
+fa er 3, 13, 14, 17-20 
+Nachman Corp. v. PBGC, 446 U.S. 359 
+
+Pre eae eae Soe 18 
+New York State Conference of the Blue 
+
+Cross & Blue Shield Plans v. Travelers 
+
+Insurance Company, 115 S. Ct. 1671 
+
+SE a ey ee ne 19 
+Newton v. Van Otterloo, 756 F. Supp. 
+
+ar. fo § fo Ge See ae ae a 14 
+Nieto v. Ecker, 845 F.2d 868 
+
+ee, SEE 2. 6 oo ble wae os obo oe 8 C'e os 20 
+Northwest Airlines, Inc. v. Transport 
+
+ee, Gee GE. Fe GHD cc cece cccees 18 
+
+
+Owen Equipment & Erection Co. v. Kroger, 
+Ge Was SRP RR co hc eevesdees ete tes 11 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Pages 
+
+Redding Ford v. California State Board of 
+
+Equalization, 722 F.2d 496 (9th Cir. 
+
+1983), cert. denied, 469 U.S. 817 
+
+ET SE A Se 11 
+Reich v. Compton, No. 93-2019, 1995 WL 
+
+329911 (3d Cir. June 5, 1995) ............ 18 
+Reich v. Continental Casualty Co., 33 
+
+F.3d 754 (7th Cir. 1994), cert. denied, 
+
+ane Oe ee kk nn ee 2 17 
+Reich v. Rowe, 20 F.3d 25 (ist Cir. 1994)... 17, 19, 21 
+Riggs v. Johnson County, 73 U.S. 166 
+
+Panwa CRS ETlaaccscuwecceee 5 
+Rodriguez v. United States, 480 U.S. 522 
+
+STO th Male ale a beth kd oc b'u-< 0 «0 20 
+Root v. Woolworth, 150 U.S. 401 (1893).......... 5 
+Sandlin v. Corporate Interiors, Inc. , 972 
+
+oe 11 
+Skevofilax v. Quigley, 810 F.2d 378 
+
+(3d Cir, 1987) (en banc), cert. 
+
+denied, 481 U.S. 1029 (1987) .............. 8 
+Supreme Tribe of Ben-Hur v. Cauble, 255 
+
+I he ee de ks web 5 
+Thomas v. Tru-Tech, No. 87-2243-3, 1988 
+
+U.S. Dist. LEXIS 15929, (D.S.C. 
+
+a Ne es 10 
+United Mine Workers v. Gibbs, 383 U.S. 
+
+gg NES rr a ue ee ee ea ae 11 
+
+
+Vil 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Pages 
+Useden v. Acker, 947 F.2d 1563 (11th 
+
+A se oe ere ae ee 20 
+Statutes and Regulations 
+26 U.S.C. $6 414QB)-414(C) . 0. cere cee 21 
+ERISA § 2(a), 29 U.S.C. § 1001(a) ............ 19 
+ERISA § 3(14), 29 U.S.C. § 1002(14) .......... 21 
+ERISA § 3(21), 29 U.S.C. § 1002(21) ........ 14, 23 
+ERISA § 3(21)(A), 29 U.S.C. § 1002(21)(A) .. . . 13, 14 
+ERISA § 3(38), 29 U.S.C. § 1002(38) .......... 15 
+ERISA §§ 210(c), (d), 29 U.S.C. 
+
+— lS ES eee eee ee 21 
+ERISA § 302(c)(11)(B), 29 U.S.C. 
+
+5. Par Aree ae ‘error we 21 
+ERISA § 302(f), 29 U.S.C. § 1082() ........... 21 
+ERISA § 303(d)(2), 29 U.S.C. § 1083(d)(2)....... 21 
+ERISA §§ 401-414, 29 U.S.C. §§ 1101-1114 ...... 13 
+ERISA § 402(a), 29 U.S.C. § 1102(a) .......... 13 
+ERISA § 402(c)(3), 29 U.S.C. § 1102(c)(3) ....... 15 
+ERISA § 403(a), 29 U.S.C. § 1103(a) .......... 22 
+ERISA § 403(a)(2), 29 U.S.C. § 1103(a)(2) ....... 22 
+ERISA § 404(a)(1), 29 U.S.C. § 1104(a)(1) ....... 15 
+
+
+ERISA § 405(c)(1)(B), 29 U.S.C. 
+Bee ee 13 
+
+
+Viii 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+ERISA § 406(a), 29 U.S.C. § 1106(a) ..... 13, 
+
+
+ERISA § 409(a), 29 U.S.C. § 110%a) ........ 
+ERISA § 410(a), 29 U.S.C. § 1110(a) ........ 
+BRISA § 502, 29 U.S.C. § 1132............ 
+ERISA § 502(a)(3), 29 U.S.C. § 1132(a)(3) ... . . 
+ERISA § 514, 29 U.S.C. § 1144............ 
+ERISA § 515, 29 U.S.C. § 1145. ........... 
+
+
+ERISA § 4007(e)(2), 29 U.S.C. 
+a 
+
+
+ERISA § 4041(c)(2), 29 U.S.C. 
+RR al Ss Lie a les & 6 oo. 0 > 00's 
+
+
+ERISA § 4043(a), 29 U.S.C. § 1343(a)........ 
+ERISA § 4068, 29 U.S.C. § 1368 
+
+
+ERISA §§ 4062-4064, 29 U.S.C. 
+ee 
+
+
+29 C.F.R. § 2509.75-8, D-4 (1994) 
+
+
+Miscellaneous 
+
+
+| William M. Fletcher, Fletcher Cyclopedia of 
+the Law of Corporations § 41.30 (perm. ed. 
+es ee ee ee 
+
+
+60 Fed. Reg. 33,861 (June 29, 1995) .......... 
+
+
+Pages 
+
+
+ix 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Pages 
+Private Pension Plan Reform: Hearings 
+Before the Subcommittee on Private 
+Pension Plans of the Senate Comm. on 
+Finance, 93rd CONG., 1ST SESS. 671 (1973) .... 20 
+
+
+ee 
+
+
+Jn the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+No. 94-1453 
+D. GRANT PEACOCK, Petitioner 
+Vv. 
+
+
+JACK L. THOMAS, Respondent 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+BRIEF OF THE NATIONAL ASSOCIATION OF 
+REAL ESTATE INVESTMENT MANAGERS 
+AS AMICUS CURIAE IN SUPPORT OF PETITIONER 
+
+
+INTEREST OF THE AMICUS CURIAE 
+
+
+The National Association of Real Estate Investment 
+Managers (“NAREIM™”) is an association of approximately 60 
+firms that manage large, equity-oriented real estate 
+investments or act as investment and asset managers to 
+various institutional holders of such real estate. Because 
+ERISA pension plans are major investors in real estate, 
+
+
+2 
+
+
+NAREIM member firms often serve as investment manager 
+fiduciaries of these plans. As a result, they have a strong 
+interest in ensuring that any duties or liabilities imposed under 
+ERISA with respect to such activities are consistent with the 
+language of the statute and predictable in application. 
+Specifically, shareholders (both corporate and individual) of 
+real estate investment managers are ERISA fiduciaries only 
+when they expressly assume that obligation or function as 
+fiduciaries. Nonfiduciary shareholders thus have a substantial 
+concern about being saddled with ERISA liability based on 
+their corporate ownership rather than the established tests of 
+fiduciary status. ' 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Respondent’s veil-piercing action cannot proceed against 
+petitioner for two independent reasons. First, this case does 
+not fall within the ancillary jurisdiction of the federal courts. 
+Adjudication of petitioner’s liability is not necessary to 
+vindicate the federal court’s authority or to effectuate its 
+decrees. There has been no allegation that anyone bound by 
+the original judgment has flouted or failed to comply with that 
+judgment. Rather, this “ancillary” action resulted in a 
+completely different judgment against a. different party 
+premised on different facts and a different legal theory. This 
+Court’s controlling precedent precludes the assertion of 
+ancillary jurisdiction when a judgment creditor seeks to 
+require a nondiverse third party to pay the judgment. H.C. 
+Cook Co. v. Beecher, 217 U.S. 497 (1910). 
+
+
+The action to impose liability on petitioner also lacks 
+factual interdependence with the fiduciary action that 
+preceded it. Determining the issue of fiduciary liability 
+required an inquiry into whether petitioner or others exercised 
+
+
+' The parties’ letters of consent to the filing of this brief have 
+been filed with the Clerk pursuant to Rule 37.3 of the Rules of this 
+Court. 
+
+
+3 
+
+
+discretionary authority and control over the management and 
+administration of fund assets. By contrast, the veil-piercing 
+action required an inquiry into a shareholder's dominance of 
+his corporation and observation of the corporate form; indeed, 
+it focused on conduct that occurred after the original 
+judgment. 
+
+
+Second, even if ancillary jurisdiction exists, the Fourth 
+Circuit’s theory of implied liability is inconsistent with the 
+explicit and careful distinctions in ERISA between the duties 
+of those who are fiduciaries under the statute and those who 
+are not. These distinctions have very significant practical 
+implications. ERISA fiduciaries are subject to a stringent 
+standard of care for their own conduct. Fiduciaries also can 
+be held liable for acts and omissions of cofiduciaries as well 
+as for violations of ERISA’s prophylactic and highly technical 
+prohibited transaction rules. These obligations cannot be 
+contracted away even if the fiduciary acts in good faith and 
+in the best interest of the plan and its participants and 
+beneficiaries. The Fourth Circuit’s expansion of the scope of 
+such liability to the shareholders of fiduciaries undercuts 
+ERISA’s fundamental distinctions between fiduciaries and 
+nonfiduciaries and is likely to increase materially the cost to 
+investment managers of doing business. 
+
+
+In imposing ERISA liability on petitioner, a nonfiduciary, 
+the Fourth Circuit did not purport to find either a specific 
+cause of action or a specific source of authority of nonfidu- 
+ciary duty under the statute, for there is none. It simply 
+borrowed a liberal veil-piercing rule adopted in the totally 
+different context of regulating the obligations of employers 
+under ERISA. As this Court only recently held, however, 
+there is a strong presumption against federal courts creating 
+new causes of action or remedies within the ERISA statutory 
+scheme. Mertens v. Hewitt Associates, 113 S. Ct. 2063, 
+2067 (1993). 
+
+
+The Fourth Circuit offered essentially no rationale for 
+overcoming that presumption. In fact, allowing the action 
+
+
+4 
+
+
+created here would upset the delicate balance of competing 
+interests legislated by Congress; it would render ERISA 
+liabilities wholly unpredictable; and it would ignore statutory 
+language showing that Congress has already regulated the 
+relationship among plans, fiduciaries and their shareholders. 
+Finally, there is a fundamental inconsistency between 
+ERISA’s functional definition of fiduciary status and 
+corporate veil-piercing when used to impose liability on a 
+nonfiduciary. 
+
+
+ARGUMENT 
+
+
+I. ANCILLARY JURISDICTION DOES NOT 
+ENCOMPASS A _ PLAINTIFF’S UNRELATED 
+POST-JUDGMENT CLAIMS AGAINST THIRD 
+PARTIES 
+
+
+The Fourth Circuit's jurisdictional ruling vastly expands 
+the scope of ancillary jurisdiction to include new and different 
+claims, brought after the original action, involving parties and 
+facts different from the original action. Ancillary 
+jurisdiction, as it has been framed by this Court, does not 
+reach so fear. 
+
+
+This Court has identified two purposes served by the 
+ancillary jurisdiction of the federal courts: (1) to permit 
+disposition by a single court of claims that are factually 
+interdependent; and (2) to enable a court to manage its 
+proceedings, vindicate its authority, and effectuate its decrees. 
+Kokkonen v. Guardian Life Ins. Co. of America, 114 S. Ct. 
+1673, 1676 (1994). Neither circumstance exists here. 
+
+
+A. The Expansion Of The Federal Court’s Limited 
+Jurisdiction Permitted Below Is Unnecessary To 
+Enable The Court To Vindicate Its Authority 
+
+
+The Fourth Circuit did not hold that ancillary jurisdiction 
+was necessary to vindicate the federal court’s authority. The 
+assertion of jurisdiction was not designed to enforce the 
+judgment of a federal court. Rather, it was designed to enter 
+
+
+5 
+
+
+a new judgment holding a third party responsible for the 
+liabilities imposed by the original judgment. 
+
+
+To be sure, federal courts have broad authority to enforce 
+their judgments. See Riggs v. Johnson County, 73 U.S. 166, 
+187 (1867); Bank of the United States v. Halstead, 23 U.S. 
+(10 Wheat.) 51 (1825). For example, federal courts have 
+unquestioned jurisdiction to issue orders forcing a party to 
+Carry out the terms of the court’s judgment. See, e.g., Dugas 
+v. American Surety Co., 300 U.S. 414, 428 (1937); Supreme 
+Tribe of Ben-Hur v. Cauble, 255 U.S. 356, 367 (1921); Root 
+v. Woolworth, 150 U.S. 401, 410-413 (1893). The 
+enforcement proceeding enables the court to ensure that its 
+rulings are given effect and that the parties bound by the 
+judgment comply with it. See id. at 410-412. 
+
+
+The holdings of this Court make clear, however, that 
+federal jurisdiction to enforce judgments in supplemental 
+proceedings is not unlimited. Kokkonen, 114 S. Ct. at 1676- 
+1677. Specifically, this Court has never held that jurisdiction 
+exists to allow a plaintiff in a subsequent action to bring a 
+claim that requests relief of a “different kind” or that rests on 
+a “different principle.” Dugas, 300 U.S. at 428; see, e.g., 
+Beecher, 217 U.S. at 499; Hale v. Allinson, 188 U.S. 56, 81 
+(1903). In fact, the Court has expressly rejected as “expan- 
+sive” dicta the notion that a federal court has jurisdiction to 
+provide precisely the kind of relief respondent seeks here. In 
+Kokkonen, the Court declined to endorse a definition of 
+ancillary jurisdiction as 
+
+“[a] bill filed to continue a former litigation in the same 
+
+court . . . to obtain and secure the fruits, benefits and 
+
+advantages of the proceedings and judgment in a former 
+suit in the same court by the same or additional parties 
+. Or to obtain any equitable relief in regard to, or 
+connected with, or growing out of, any judgment or 
+proceeding at law rendered in the same court * * *.” 
+
+
+6 
+
+
+114 S. Ct. at 1676 (quoting Julian v. Central Trust Co., 193 
+U.S. 93, 113-114 (1904)). 
+
+
+The Fourth Circuit acknowledged that federal courts do 
+not have jurisdiction over “independent” enforcement actions. 
+Pet. App. 15a.’ The court of appeals concluded, however, 
+that respondent’s veil-piercing action was not independent, 
+because the action was a derivative claim that attempted to 
+determine whether petitioner, a corporate shareholder, could 
+be held liable for a pre-existing judgment entered against the 
+corporation. Jd. at 13a. The court reasoned that 
+
+
+[bJecause identification of those parties who are liable is 
+necessarily antecedent to procedural enforcement of the 
+judgment against those parties, and because Riggs 
+establishes that federal courts have “ancillary” jurisdic- 
+tion over enforcement of judgments, it would seem that 
+the federal courts’ “ancillary” jurisdiction would extend 
+to the instant attempt to pierce the corporate veil. 
+
+
+Ibid. This reasoning plainly misconceives the breadth of 
+ancillary jurisdiction and cannot be reconciled with this 
+Court’s decision in H.C. Cook Co. v. Beecher, 217 U.S. 497 
+(1910). 
+
+
+Beecher involved a suit by a judgment creditor of a 
+corporation found liable for patent infringement who, unable 
+to collect against the corporation, sued its directors. The 
+judgment creditor alleged that the directors took actions 
+during the pendency of the patent infringement proceeding to 
+render the corporation insolvent in the event an adverse 
+judgment was entered. After emphasizing that the second 
+action did not deal with the patent but only the existence of 
+the judgment, the Court flatly disagreed with the contention 
+
+
+? It is undisputed that there is no diversity of citizenship and no 
+basis for federal question jurisdiction here other than the fact that 
+the suit seeks to enforce a judgment obtained pursuant to ERISA. 
+Pet. App. Ila n.6. 
+
+
+7 
+
+
+that the action was “ancillary” to the judgment in the former 
+suit, “which, of course, it is not.” 217 U.S. at 498-499. 
+The Court held that “if the directors are under obligations by 
+Connecticut law to pay a judgment against their corporation, 
+that is not a matter that can be litigated between citizens of 
+the same state, in the [federal courts].” Jd. at 499. Indeed, 
+Beecher was a more compelling case for the exercise of 
+ancillary federal jurisdiction, because the plaintiff charged 
+that the defendants’ activities, which occurred while the 
+patent suit was being litigated, were intended to frustrate the 
+effect of the federal judgment. 
+
+
+This Court has never departed from or questioned the 
+holding of Beecher, and there is no reason for it to do so 
+now. Indeed, the Court's recent decision in Kokkonen 
+demonstrates the continuing vitality of the principles 
+enunciated in Beecher. See 114 S. Ct. at 1676. Simply 
+stated, ancillary jurisdiction, as framed by Beecher and 
+Kokkonen, does not enable a federal court to entertain every 
+subsequent action by a plaintiff to identify an individual or 
+entity against whom an existing judgment might be satisfied. 
+Rather, a federal court lacks ancillary jurisdiction to hear a 
+claim where the plaintiff seeks a different kind of substantive 
+relief. Beecher involved the question — not at issue in the 
+original action — whether corporate shareholders were under 
+a state-law obligation to pay a patent judgment already 
+obtained against their corporation. This case involves the 
+question — also not at issue in the original action — whether 
+a controlling shareholder has an obligation to satisfy an 
+ERISA judgment already obtained against his corporation. 
+Beecher clearly held that the federal courts lack jurisdiction 
+to hear this kind of ancillary claim. 217 U.S. at 497. 
+
+
+The Fourth Circuit sought to avoid the holding in 
+Beecher in two ways, neither of which is persuasive. First, 
+although the court of appeals observed that “the doctrine of 
+piercing the corporate veil is not a mere procedural rule 
+relating to ‘how’ a judgment is to be enforced, but is, rather, 
+
+
+8 
+
+
+a substantive rule of liability” (Pet. App. 12a), it ignored the 
+obvious implication of this observation — that respondent was 
+attempting to secure a different kind of relief. Instead, the 
+court reasoned that any effort by a plaintiff to satisfy a prior 
+federal judgment fell within the federal court’s jurisdiction 
+because it was “necessarily antecedent” to procedural 
+enforcement of the judgment. /d. at 13a. This reasoning 
+ignores the fact that “[a] distinction must be drawn between 
+those acts which are necessary to enforce a judgment or order 
+and those which are done merely for the sake of procedural 
+convenience and bear no relationship to the court’s earlier 
+exercise of constitutional or statutory jurisdiction.” Eagerton 
+v. Valuations, Inc., 698 F.2d 1115, 1119 (11th Cir. 1983). 
+The Fourth Circuit’s rationale would allow a claimant to use 
+the federal courts to pursue anyone against whom an insolvent 
+fiduciary might have a claim as “necessarily antecedent” to 
+enforcing the federal judgment.’ 
+
+
+The wrong alleged in this case is not one that imperils 
+the operation of the federal court. See Kokkonen, 114 S. Ct. 
+at 1676. In Kokkonen, the Court noted that “the only order 
+here was that the suit be dismissed, a disposition that is in no 
+way flouted or imperiled by the alleged breach of the 
+settlement agreement.” Jd. at 1677. Similarly, here the 
+federal court’s order was that Tru-Tech, Inc. ("Tru-Tech") 
+was liable to respondent under ERISA and that petitioner was 
+not liable, an order that is neither flouted nor imperiled by 
+petitioner’s unwillingness to assume the debts of Tru-Tech. 
+
+
+* That petitioner was a party to the original proceeding is of no 
+significance. The courts have held that a party found not liable in 
+the original action should be considered a non-party in a subsequent 
+enforcement action. Argento v. Village of Melrose Park, 838 F.2d 
+1483, 1488 n.7 (7th Cir. 1988); Skevofilax v. Quigley, 810 F.2d 
+378, 384 (3d Cir. 1987) (en banc), cert. denied, 481 U.S. 1029 
+(1987); Berry v. McLemore, 795 F.2d 452, 455 n.2 (Sth Cir. 
+1986). 
+
+
+9 
+
+
+Indeed, it is perfectly consistent with the federal court’s 
+judgment that petitioner has no obligation to respondent under 
+ERISA. 
+
+
+Just as the Kokkonen plaintiff asserted a purely state law 
+claim, so does respondent. If, as respondent argues, 
+petitioner improperly stripped Tru-Tech of its assets before 
+the judgment could be satisfied, his remedy is a state court 
+action to void the fraudulent transfers or pierce the corporate 
+veil. Such an action would require the court to resolve new 
+and different factual issues between new parties. Federal 
+courts do not have the power to entertain such e/forts. As 
+Beecher makes clear, a plaintiff who brings a veil-piercing 
+claim against a controlling shareholder is not attempting to 
+enforce the federal judgment received against the corporation; 
+rather, he is using the federal judgment to create new state 
+law liabilities against a stranger to the federal judgment. 
+
+
+Second, the Fourth Circuit asserted that “Beecher is 
+factually distinguishable from the case at bar.” Pet. App. 
+15a. The court of appeals stated that “the instant case 
+involves allegations that [petitioner] deliberately engaged in 
+improper transfers and improperly ignored corporate 
+formalities with the specific purpose of evading the already- 
+extent [sic] judgment against Tru-Tech, [while] Beecher in- 
+volved an allegation that corporate directors, acting within 
+their legal capacity, voted to continue sales of a product 
+which was the subject of a then-pending patent infringement 
+suit.” Ibid. We submit that the jurisdictional power of the 
+federal courts to adjudicate substantively different claims in 
+enforcement actions cannot rest on so slender a factual 
+distinction. As just discussed, the question instead turns on 
+whether the plaintiff is merely attempting to execute the prior 
+judgment, or whether the plaintiff is attempting to impose 
+liability on new parties on the basis of new grounds that 
+involve the litigation of new and different questions. That is 
+unquestionably the case here. 
+
+
+10 
+
+
+B. The Veil-Piercing Action Lacks The Factual 
+Interdependence With The ERISA Action To 
+Support Ancillary Jurisdiction 
+
+An exercise of ancillary jurisdiction also is inappropriate 
+
+here because the underlying ERISA action and the subsequent 
+veil-piercing action involve altogether different factual issues. 
+The ERISA action involved the question whether Tru-Tech 
+complied with its fiduciary duty in administering an ERISA 
+plan. See Pet. App. 3a-4a. The veil-piercing action, by 
+contrast, involved the question whether Tru-Tech and 
+petitioner possess separate personalities.* No precedent of 
+this Court justifies considering the veil-piercing action to be 
+ancillary to the ERISA action.° 
+
+
+A fiduciary duty determination under ERISA and a veil- 
+piercing determination not only are governed by different 
+legal principles but also are highly fact-intensive. In 
+assessing petitioner’s fiduciary liability, the trial court looked 
+at evidence of the business decisions made by Tru-Tech’s 
+officers and directors in establishing and administering the 
+ERISA plan. The court expressly found that “[nJeither D. 
+Grant Peacock & Co. nor D. Grant Peacock exercised 
+discretionary authority and control over the management and 
+administration of the plan and disposition of its assets,” and 
+thus were not plan fiduciaries. Thomas v. Tru-Tech, No. 87- 
+
+
+* In fact, the conduct that gave rise to the veil-piercing action 
+arose primarily after the ERISA judgment had been entered. See 
+Pet. App. 39a-41a; p. 24, infra. 
+
+
+> The conclusion that the veil-piercing action is not necessary to, 
+or a part of, the underlying ERISA judgment is confirmed by 
+Mackey v. Lanier Collection Agency & Service, 486 U.S. 825, 833 
+(1988), which held that “ERISA does not provide an enforcement 
+mechanism for collecting judgments won” in actions brought 
+against plans by either purported beneficiaries or general creditors. 
+
+
+ee Ed tele Vaile a Re ba By 
+
+
+11 
+
+
+2243-3, 1988 U.S. Dist. LEXIS 15929, *31-32 (D.S.C. Nov. 
+28, 1988). 
+
+
+In the veil-piercing action, the trial court looked at 
+entirely different facts: evidence of moneys owed to and by 
+Tru-Tech, transfers of notes and consideration paid therefor, 
+and company accounting practices for periods before and after 
+the original judgment. Pet. App. 40a-42a. This inquiry had 
+virtually no overlap with the fiduciary duty inquiry. The 
+factual interdependence between the two actions necessary to 
+support ancillary jurisdiction is clearly lacking. 
+
+
+Rather than adopting an expansive view of federal 
+jurisdiction to enforce judgments, this Court and the lower 
+courts have generally asked whether the subsequent 
+enforcement action arises from a common nucleus of 
+operative facts with the underlying federal proceeding and 
+therefore can be said to form part of the same constitutional 
+case. See Owen Equipment & Erection Co. v. Kroger, 437 
+U.S. 365, 371 (1978); United Mine Workers v. Gibbs, 383 
+U.S. 715, 725 (1966). These courts have found that the 
+requisite factual nexus is lacking when the plaintiff asserts 
+unrelated, fact-specific, disputed claims, after the end of the 
+principal litigation.° 
+
+
+* See, e.g., Sandlin v. Corporate Interiors, Inc. , 972 F.2d 1212, 
+1217 (10th Cir. 1992) (“when postjudgment proceedings seek to 
+hold nonparties liable for a judgment on a theory that requires 
+proof on facts and theories significantly different from those 
+underlying the judgment, an independent basis for federal jurisdic- 
+tion must exist”); Berry, 795 F.2d at 455 (finding that court lacked 
+jurisdiction, in part, because original judgment arose from alleged 
+constitutional violation and subsequent garnishment action arose 
+from contract); Redding Ford v. California State Board of 
+Equalization, 722 F.2d 496, 498 (9th Cir. 1983) (“ancillary 
+jurisdiction cannot be extended beyond the claims asserted in one 
+action”), cert. denied, 469 U.S. 817 (1984); Manway Constr. Co. 
+v. Housing Authority of Hartford, 711 F.2d 501, 504 (11th Cir. 
+
+
+12 
+
+
+The Fourth Circuit should have followed the same 
+approach. If it had, it would have been compelled to 
+conclude that there is no common nucleus of fact between the 
+issues raised in the ERISA action and the issues dispositive in 
+the veil-piercing action. Thus, there is no basis to assert 
+ancillary jurisdiction here. 
+
+Il. PIERCING THE CORPORATE VEIL TO IMPOSE 
+PERSONAL LIABILITY ON A NONFIDUCIARY IS 
+INCONSISTENT WITH THE ERISA STATUTORY 
+SCHEME 
+
+
+Respondent was awarded a judgment against Tru-Tech 
+under ERISA. In the course of that litigation, Tru-Tech was 
+held to be a fiduciary of an ERISA pension plan, and 
+petitioner was held not to be a fiduciary. When Tru-Tech 
+was unable to satisfy the judgment, respondent commenced 
+this suit against petitioner, contending that ERISA contains an 
+implied cause of action — corporate veil-piercing — that 
+would make petitioner liable as if he were an ERISA 
+fiduciary. 
+
+
+This theory of implied liability undercuts the explicit, 
+carefully-crafted distinction in ERISA between the duties of 
+those who are fiduciaries under the statute and those who are 
+not. That distinction — unchanged since ERISA was enacted 
+in 1974 — is fundamental in regulating the relationship 
+between ERISA plans and those, such as the member firms of 
+amicus curiae NAREIM, with whom the plans do business. 
+These relationships have been guided for over 20 years by the 
+definition of fiduciary status in ERISA. Particularly in view 
+of this Court’s unwillingness to infer causes of action under 
+
+
+1983) (contempt action against garnishee bank raised state law 
+claims, between non-diverse parties, and was “so far removed” 
+from original contract action that ancillary jurisdiction could not be 
+invoked). 
+
+
+= ee tg ee eget 
+
+
+13 
+
+
+ERISA (see Mertens v. Hewitt Associates, 113 S. Ct. 2063, 
+2067 (1993)), the decision below should be reversed. 
+
+
+A. ERISA Unambiguously Delineates Who Shall Bear 
+The Burdens Of Fiduciary Responsibility 
+
+
+Congress devoted an entire subpart of ERISA to the 
+subject of “Fiduciary Responsibility,” §§ 401-414, 29 U.S.C. 
+§§ 1101-1114. The core subject of this regulation, a 
+“fiduciary” to a plan, must comply with detailed obligations 
+set forth in the statute. The duties and responsibilities of 
+fiduciaries include “the proper management, administration, 
+and investment of [plan] assets, the maintenance of proper 
+records, the disclosure of specified information, and the 
+avoidance of conflicts of interest.” Massachusetts Mut. Life 
+Ins. Co. v. Russell, 473 U.S. 134, 142-143 (1985). A 
+fiduciary is “personally liable” for any breach of the 
+“responsibilities, obligations, or duties imposed upon 
+fiduciaries” by Title I, § 409(a), 29 U.S.C. § 1109(a). The 
+fiduciary is also barred from causing the plan to engage in 
+certain “prohibited transactions,” § 406(a), 29 U.S.C. 
+§ 1106(a), and from engaging in other prohibited transactions 
+involving self-dealing or conflict of interest. See § 406(b), 
+29 U.S.C. § 1106(b). Several remedial provisions provide 
+broad rights of action to both private parties and the Secretary 
+of Labor against errant plan fiduciaries. See, e.g., § 502, 29 
+U.S.C. §§ 1132. 
+
+
+The statute succinctly provides three ways to become an 
+ERISA fiduciary. First. the plan instrument must provide for 
+at least one “named fiduciary.” See § 402(a), 29 U.S.C. 
+§ 1102(a). Second, the plan instrument may authorize named 
+fiduciaries to designate other persons to carry out certain 
+fiduciary responsibilities under the plan. See § 405(c)(1)(B), 
+29 U.S.C. § 1105(c)(1)(B). Persons so designated are 
+deemed to be fiduciaries under ERISA. See § 3(21)(A), 29 
+U.S.C. § 1002(21)(A). 
+
+
+14 
+
+
+Third, and most broadly, ERISA contains a functional 
+definition of fiduciary status. See § 3(21)(A), 29 U.S.C. 
+§ 1002(21)(A). Even if a corporation or an individual is not 
+named or specifically designated as a fiduciary, that 
+corporation or individual functionally will take on fiduciary 
+Status: 
+
+
+to the extent (i) he exercises any discretionary authority 
+or discretionary control respecting management of such 
+plan or exercises any authority or control respecting 
+management or disposition of its assets, (ii) he renders 
+investment advice for a fee or other compensation, direct 
+or indirect, with respect to any moneys or other property 
+of such plan, or has any authority or responsibility to do 
+so, or (iii) he has any discretionary authority or 
+discretionary responsibility in the administration of such 
+plan. 
+
+
+§ 3(21), 29 U.S.C. § 1002(21). By defining ERISA fiducia- 
+ries functionally, Congress “expand{ed] the universe of 
+persons subject to fiduciary duties — and to damages — 
+under section 409 [29 U.S.C. § 1109].” Mertens, 113 S. Ct. 
+at 2071. ' 
+
+
+This broad functional definition of fiduciary status cuts 
+through the labels in corporate structures. For example, 
+members of a board of directors of a corporation are treated 
+as fiduciaries to the extent that their activities fall within 
+Section 3(21). See 29 C.F.R. § 2509.75-8, D-4 (1994); 
+Martin v. Harline, 15 E.B.C. (BNA) 1138 (D. Utah 1992); 
+Newton v. Van Otterloo, 756 F. Supp. 1121, 1132 (N.D. Ind. 
+1991). Indeed, an officer of a corporation that is a named 
+fiduciary of a plan may, in acting for the corporation, also be 
+regarded as a fiduciary individually. Compare Confer v. 
+Custom Eng’g Co., 952 F.2d 34 (3d Cir. 1991) (corporate 
+officer not a fiduciary individually), with Kayes v. Pacific 
+Lumber Co., 51 F.3d 1449 (9th Cir. 1995) (corporate officer 
+who acts in a fiduciary capacity may be held liable 
+individually as a fiduciary). 
+
+
+15 
+
+
+ERISA'’s distinction between fiduciary and nonfiduciary 
+status is the essential guide for parties dealing with pension 
+plans, such as the members of NAREIM. For example, an 
+investment firm may be appointed by a named fiduciary to 
+serve as an “investment manager” of the assets of the plan. 
+See § 402(c)(3), 29 U.S.C. § 1102(c)(3). An investment 
+manager under ERISA is a fiduciary with power over plan 
+assets, which is registered as an investment advisor under the 
+Investment Advisers Act of 1940, or is a bank or insurance 
+company, and which has acknowledged in writing its 
+fiduciary status. See § 3(38), 29 U.S.C. § 1002(38). Due to 
+the functional definition of a fiduciary under ERISA, 
+however, the possible extent of fiduciary status is not limited 
+to the corporate entity appointed investment manager. Thus, 
+other corporate entities, individuals affiliated with the 
+investment manager, and even the shareholders are charged 
+under ERISA with knowing that if they act as fiduciaries, 
+they must both meet the obligations of and be subject to 
+liability as fiduciaries. 
+
+
+The practical implications of the distinction between 
+fiduciary and nonfiduciary status are substantial. For 
+example, in an investment relationship that is not governed by 
+ERISA, the parties may define the standard of care by 
+contract and agree to exculpation (on a showing of good faith, 
+or absent proof of negligence) as to the performance of the 
+investment. Under ERISA, however, an investment manager 
+is held to a very high statutory standard of care, § 404(a)(1), 
+29 U.S.C. § 1104(a)(1), which cannot be varied by the 
+parties, and exculpation of an investment manager is void as 
+against public policy. § 410(a), 29 U.S.C. § 1110(a); see 
+Kayes, 51 F.3d at 1460. 
+
+
+Furthermore, even if the investment manager’s conduct 
+satisfies ERISA’s standard of care generally, under ERISA 
+the investment manager still must comply with the statute’s 
+highly detailed prohibited transaction rules (§ 406(a), 29 
+U.S.C. § 1106(a)), which bar fiduciaries from causing the 
+
+
+16 
+
+
+plan to enter into investments that directly or indirectly 
+involve parties in interest.’ In addition, a fiduciary may be 
+liable for breaches committed by cofiduciaries. Implementing 
+procedures to comply with ERISA’s stringeat rules and 
+purchasing fiduciary liability insurance to protect against 
+inadvertent violations of ERISA increase the operating costs 
+of investment managers.. Thus, there are very tangible 
+reasons for investment managers, and the corporations and 
+individuals related to them, to understand precisely when they 
+are deemed to be fiduciaries subject to fiduciary liability 
+under ERISA and when they are not. 
+
+
+Until now, that guidance has been provided by the clear 
+statutory language of ERISA and by more than 20 years of 
+interpretation of that language by the Department of Labor 
+and the courts. The decision below would introduce massive 
+confusion by imposing liabilities on nonfiduciaries that are 
+equivalent to those that fiduciaries have assumed expressly. 
+
+
+B. ERISA’s Fiduciary-Nonfiduciary Distinction 
+Would Be Rendered Meaningless By Inferring A 
+Cause Of Action For Veil-Piercing To Reach 
+Nonfiduciaries 
+
+
+Respondent brought this suit under ERISA to require 
+petitioner, a nonfiduciary, to satisfy a judgment rendered 
+against Tru-Tech, a fiduciary. Respondent did not premise 
+his claims against petitioner on a theory that sought equitable 
+relief, under § 502(a)(3), 29 U.S.C. § 1132(a)(3), against a 
+nonfiduciary for knowing participation in a fiduciary breach. 
+
+
+’ A very recent prohibited transaction exemption proposed by 
+the Department of Labor illustrates the complexity of administering 
+the investment activities of pension plans in compliance with the 
+prohibited transaction rules. The Labor Department noted, as part 
+of the grounds for proposing the retroactive exemption, that the 
+General Motors plans currently have 1,375 entities that are parties 
+in interest with respect to the plans. 60 Fed. Reg. 33,861, 33,863 
+(June 29, 1995). 
+
+
+ee See ee eee ae 
+
+
+ee ee er. ae 
+
+
+er ts en A nt cele ww 
+
+
+tae DK 
+
+
+ee ee ee a ee ee 
+
+
+) 
+; 
+: 
+; 
+) 
+; 
+
+
+17 
+
+
+Thus, the viability of such an action under Section 502(a)(3), 
+a question that this Court reserved in Mertens, 113 S. Ct. at 
+2067-2068, is not directly presented here. Instead, the Fourth 
+Circuit devised a federal common law rule of liability with no 
+specific foundation in ERISA. This Court has stated a strong 
+presumption against inferring new causes of action or 
+remedies within ERISA. Russell, 473 U.S. at 146-148; 
+Mertens, 113 S. Ct. at 2067. The Court should be particu- 
+larly reluctant to infer liability against the nonfiduciary here, 
+where the result would undercut ERISA’s fundamental 
+distinction between fiduciaries and nonfiduciaries. 
+
+
+1. The Fourth Circuit’s Reasoning Lacks Support 
+in the Statute 
+
+
+The Fourth Circuit did not attempt to locate a specific 
+relevant source of nonfiduciary duty in ERISA or a cause of 
+action in the language of the statute. Rather, the court of 
+appeals appears to have relied entirely on ERISA’s general 
+purpose of protecting employee benefits as the basis for a 
+new common law rule imposing liability on nonfiduciaries. 
+Under ERISA, however, “vague notions of a statute’s ‘basic 
+purpose’ are * * * inadequate to overcome the words of its 
+text regarding the specific issue under consideration.” 
+Mertens, 113 S. Ct. at 2071. 
+
+
+The Fourth Circuit did not explicitly acknowledge that it 
+was sanctioning the imposition of fiduciary liability on a 
+nonfiduciary. As a result, the court of appeals did not 
+address the open issue, post-Mertens, of the liability of a 
+nonfiduciary under Section 502(a)(3) of ERISA for knowing 
+participation in a fiduciary breach. Accordingly, the court 
+below avoided a confrontation with the post-Mertens decisions 
+in three other circuits that have decided against such knowing 
+participation liability of a nonfiduciary. See Reich v. Rowe, 
+20 F.3d 25 (Ist Cir. 1994) (nonfiduciary accounting service 
+provider); Reich v. Continental Casualty Co., 33 F.3d 754, 
+757 (7th Cir. 1994), cert. denied, 115 S. Ct. 1104 (1995) 
+(nonfiduciary provider of fiduciary liability insurance policy); 
+
+
+18 
+
+
+Reich v. Compton, No. 93-2019, 1995 WL 329911 (3d Cir. 
+June 5, 1995) (nonfiduciary lessee); see also Buckley Dement, 
+Inc. v. Travelers Plan Administrators of Illinois, Inc., 39 
+F.3d 784, 789 (7th Cir. 1994) (nonfiduciary claims 
+administrator). 
+
+
+Instead, the Fourth Circuit relied upon “a liberal veil- 
+piercing standard” (Pet. App. 23a), which the First Circuit 
+had fashioned in Alman v. Danin, 801 F.2d 1 (1st Cir. 1986), 
+to require the controlling shareholders of an employer to 
+satisfy the corporation’s contractual obligation under a 
+collective bargaining agreement to contribute to multi- 
+employer benefit plans. The duty of an employer to 
+contribute to a multi-employer plan pursuant to a collective 
+bargaining agreement is a statutory obligation of the employer 
+under ERISA. § 515, 29 U.S.C. § 1145. But the employer 
+takes on no greater duty under ERISA than it has assumed 
+contractually in bargaining to contribute to the multi-employer 
+plan. In contrast, a corporate fiduciary takes on specific 
+statutory duties of care, solely because of the corporation’s 
+status as a fiduciary under ERISA. Given these distinctions 
+under the structure of ERISA, it was plainly inappropriate to 
+follow Alman and import veil-piercing notions here. 
+
+
+2. Without More, This Court Should Not Infer a 
+New Cause of Action from ERISA 
+
+
+There is a strong presumption against federal courts 
+creating new causes of action or remedies within ERISA. 
+Mertens, 113 S. Ct. at 2067. “The presumption that a 
+remedy was deliberately omitted from a statute is strongest 
+when Congress has enacted a comprehensive legislative 
+scheme including an integrated system of procedures for 
+enforcement.” Russell, 473 U.S. at 147 (quoting Northwest 
+Airlines, Inc. v. Transport Workers, 451 U.S. 77, 97 (1981)). 
+There is no doubt that ERISA is the prototypical 
+“comprehensive and reticulated” statute. Mertens, 113 S. Ct. 
+at 2066 (quoting Nachman Corp. v. PBGC, 446 U.S. 359, 
+
+
+Pe ee ee Nee Pa en ene tay 
+
+
+le tens i rin be il Oy AD ect a En tN Pe sho 
+
+
+te el ae DA 44 wet eierwes ey es ee 
+
+
+iterates 
+
+
+19 
+
+
+361 (1980)).* As much as the Fourth Circuit struggled (for 
+jurisdictional reasons) to characterize the action against 
+petitioner as simply piggybacking on an underlying ERISA 
+claim (Pet. App. 12a), the reality is that the creation of a new 
+veil-piercing cause of action runs afoul of the presumption 
+that Congress deliberately omitted the cause of action in the 
+first place, without offering any justification for doing so. 
+
+
+There are very strong reasons not to buck this presump- 
+tion. First, ERISA is the result of a delicate balancing of 
+competing interests by Congress. Although the purpose of 
+ERISA is to protect the security of employees, Congress had 
+to engage in “certain cost-benefit analyses * * * in order to 
+fashion a comprehensive regulatory scheme.” Rowe, 20 F.3d 
+at 32. One key legislative decision was to define carefully 
+the obligations, and the causes of action to enforce those 
+obligations, associated with “increasing the number of 
+fiduciary parties and the scope of fiduciary responsibility.” 
+Id. at 32-33. This was Congress’ chosen method of 
+“containing pension costs,” Mertens, 113 S. Ct. at 2072, and 
+meeting the stated objective of preserving “the soundness and 
+stability of plans with respect to adequate funds to pay 
+promised benefits.” § 2(a), 29 U.S.C. § 1001(a). Allowing 
+an implied cause of action vitiating ERISA’s fundamental 
+distinctions between fiduciaries and nonfiduciaries would 
+upset the balance crafted by Congress. 
+
+
+Second, the costs associated with such a substantial 
+expansion of ERISA-based liability are great. As one pension 
+
+
+* The remaining components of the statutory scheme are tightly 
+woven: “carefully integrated” civil enforcement provisions, § 502, 
+29 U.S.C. § 1132; Russell, 473 U.S. at 146; “clearly expansive” 
+preemptive powers, § 514, 29 U.S.C. § 1144; New York State 
+Conference of the Blue Cross & Blue Shield Plans v. Travelers 
+Insurance Company, 115 S. Ct. 1671, 1677 (1995); and a complex 
+regulatory system in Title IV governing plan terminations. 
+
+
+20 
+
+
+expert told the Senate Finance Committee's Subcommittee on 
+Pension Plans during the consideration of ERISA: 
+
+
+Unless this system [of liability for breaches of fiduciary 
+duty] is developed with the utmost care, fiduciaries will 
+avoid exercising initiative, judgment, individual 
+responsibility, or similar subjective attention to individual 
+plan management. The essential element of the private 
+system — flexibility — will be compromised. Undue 
+conservatism will be encouraged — to the detriment of 
+the employees, the employer, and the economy as a 
+whole. 
+
+
+Private Pension Plan Reform: Hearings Before the 
+Subcommittee on Private Pension Plans of the Senate Comm. 
+on Finance, 93rd CONG., IST SESS. 671-672 (1973) 
+(statement of John S. Nolan). 
+
+
+Unfortunately, the Fourth Circuit ignored this warning. 
+Rather than grapple with the language of the statute, the court 
+of appeals heaped a daunting expansion of common law 
+liability atop the shaky base of the general protective purposes 
+of the statute. But as the Ninth Circuit observed in criticizing 
+similar attempts under ERISA in the pre-Mertens era, they 
+“have built very much on very little.” Nieto v. Ecker, 845 
+F.2d 868, 872 (9th Cir. 1988). See also Rodriguez v. United 
+States, 480 U.S. 522, 526 (1987) (rejecting the vice of 
+“simplistically * * * assum[ing] that whatever furthers the 
+Statute’s primary objective must be the law”). Such a 
+practice makes ERISA liabilities wholly unpredictable, and 
+the numerous industries that rely upon a clear understanding 
+of the statute require a more stable legal environment in 
+which to operate. To be sure, Congress intended the federal 
+courts to have the power to develop a common law of 
+ERISA, at least interstitially, see Firestone Tire & Rubber 
+Co. v. Bruch, 489 U.S. 101, 110 (1989), but the courts 
+should “incorporate a given trust law principle [only] if the 
+Statute’s text negates an inference that the principle was 
+omitted deliberately from the statute.” Useden v. Acker, 947 
+
+
+21 
+
+
+F.2d 1563, 1581 (11th Cir. 1991); accord Rowe, 20 F.3d at 
+32. 
+
+
+Third, ERISA already contains many provisions in which 
+Congress explicitly disregarded the corporate form in order 
+to further the statutory purposes. In addition to the functional 
+definition of fiduciary, the highly technical rules applicable to 
+transactions with parties in interest (§ 3(14), 29 U.S.C. 
+§ 1002(14)) determine whether transactions with shareholders 
+of fiduciaries are, or are not, prohibited. § 406(a), 29 U.S.C 
+§ 1106(a). Congress also concluded that certain provisions of 
+part 2 of Title I of ERISA, establishing minimum 
+participation, vesting and benefit accrual standards, should be 
+applied as if all corporations and all trades or businesses 
+under common control were a single employer. §§ 210(c), 
+(d), 29 U.S.C. §§ 1060(c), (d). Similarly, Congress chose to 
+disregard the corporate form in certain funding provisions of 
+part 3 of Title I of ERISA, specifically providing joint and 
+several liability on all members of a controlled group of 
+trades or businesses for funding obligations (§ 302(c)(11)(B), 
+29 U.S.C. § 1082(c)(11)); imposing a lien for failure to fund 
+on the property of all members of such a controlled group (§ 
+302(f), 29 U.S.C. § 1082(f)); and considering the financial 
+condition of all members of such a controlled group for 
+purposes of providing variances from the minimum funding 
+requirements for substantial business hardships (§ 303(d)(2), 
+29 U.S.C. § 1083(d)(2)).2 The detailed attention that 
+
+
+* Title Il of ERISA amended the Internal Revenue Code to 
+incorporate many of the substantive provisions of Title I of ERISA. 
+Sections 414(b) and 414(c) of the Code impose controlled group 
+principles for selected provisions relating to certain tax qualified 
+employee benefit plans. 26 U.S.C. §§ 414(b)-414(c). Certain 
+provisions in Title IV of ERISA similarly apply specifically to all 
+trades or businesses under common control, including the obligation 
+to pay premiums to the Pension Benefit Guaranty Corporation (§ 
+4007(e)(2), 29 U.S.C. § 1307(e)(2)); the ability to engage in a 
+
+
+22 
+
+
+Congress gave to recognizing or disregarding the corporate 
+form throughout ERISA belies the conclusion that Congress 
+intended the courts to devise a liberal veil-piercing standard 
+of general applicability. 
+
+
+Imposing liability on a  nonfiduciary controlling 
+shareholder also would produce, in practice, a contorted 
+result that is inconsistent with the structure of ERISA. The 
+trustees must have “exclusive authority and discretion to 
+manage and control the assets of the plan.” § 403(a), 29 
+U.S.C. § 1103(a). However, the trust may delegate to an 
+asset manager the authority to manage, acquire or dispose of 
+plan assets. § 403(a)(2), 29 U.S.C. § 1103(a)(2). If this 
+authority is delegated to an investment manager, the control- 
+ling shareholder of the investment manager takes on fiduciary 
+duties and fiduciary liability only if he agrees to become a 
+fiduciary or acts in fact as a fiduciary. But, if the “liberal 
+veil-piercing standard” of the Fourth Circuit is adopted (Pet. 
+App. 23a), the controlling shareholder may be subject to veil- 
+piercing liability even if he has been careful to refrain from 
+acting as a fiduciary, due to his nonfiduciary conduct of the 
+business of the corporation. Thus, controlling shareholders, 
+confronted with the threat of liability under a liberal veil- 
+piercing standard, perversely may be able to protect 
+themselves against liability under ERISA only by becoming 
+more deeply involved in the corporation’s fiduciary activities. 
+Whether the controlling shareholder is capable of performing 
+as a Skilled fiduciary becomes less relevant than responding 
+to this imperative. The carefully articulated delegation of 
+authority permitted under ERISA thus may become skewed by 
+
+
+distress termination under § 4041(c)(2), 29 U.S.C. § 1341(c)(2); 
+reportable events under § 4043(a), 29 U.S.C. § 1343(a); liability 
+with respect to plan terminations and withdrawals, §§ 4062-4064, 
+29 U.S.C. §§ 1362-1364; and the lien imposed by § 4068, 29 
+U.S.C. § 1368. 
+
+
+pitt. — 
+
+
+23 
+
+
+the foreign pressures of defending against veil-piercing 
+liability. 
+C. Veil-Piercing To Impose Liability On A 
+Nonfiduciary Is Inconsistent With ERISA’s 
+Functional Definition Of A Fiduciary 
+
+
+The functional definition of a fiduciary in Section 3(21) 
+of ERISA is an explicit and dynamic statutory mechanism for 
+attributing fiduciary responsibility to the true, behind-the- 
+scenes wielders of power over a plan. It is therefore 
+protective: if the “named” fiduciary really is acting as a 
+fiduciary in name only, the functional definition pins fiduciary 
+duties — and thus personal liability — upon additional parties. 
+In this way, the functional definition functions very much like 
+the common law doctrine of veil-piercing, placing substance 
+over form. 
+
+
+However, veil-piercing analysis differs from the 
+functional ERiSA analysis in such a way that it would be 
+anomalous to use veil-piercing to impose fiduciary liability on 
+an individual (such as petitioner) who has already been found 
+to be a nonfiduciary under ERISA. Though procedurally 
+similar, the two analyses differ in substance. Veil-piercing is 
+a traditional state-law method of assigning substantive liability 
+against a person or entity when that person or entity exercises 
+such complete control over a corporation that the corporate 
+form is adjudged to be a sham. See Pet. App. lla. By 
+contrast, the analysis required by ERISA looks beyon¢ issues 
+of general corporate control to the particular type of control 
+specified in Section 3(21) as triggering fiduciary duties. This 
+factual link to plan assets and affairs is essential to describing 
+an ERISA cause of action, because fiduciary duties and 
+obligations make sense only in terms of their relation to a 
+plan.'° In other words, it makes perfect sense to have situa- 
+
+
+' That is why the factors analyzed in veil-piercing cannot 
+generate ERISA liability; they are all cast in reference to corporate, 
+
+
+24 
+
+
+tions in which a shareholder would be considered a fiduciary 
+under ERISA even though it would be inappropriate to pierce 
+the corporate veil to impose other corporate liabilities. But 
+it confuses the purposes of the statute and compromises its 
+integrity to employ veil-piercing to impose personal liability 
+on a controlling shareholder — who, by virtue of his 
+behavior, has not triggered any fiduciary duties and obliga- 
+tions — and to call that liability ERISA liability. 
+
+
+The Fourth Circuit considered the argument that veil- 
+piercing should not be substituted for ERISA’s functional 
+fiduciary analysis but dismissed it in a short footnote. See 
+Pet. App. 19a n.14. The court of appeals observed that 
+“[t}he tests for ERISA fiduciary liability and veil-piercing are 
+not identical,” and it stressed that “most of the activity 
+leading to the conclusion of veil-piercing occur[red] after the 
+activity pursuant to which the corporation [was] deemed to 
+have breached its ERISA fiduciary duties.” Jbid. But this 
+statement hardly explains why it is appropriate to superimpose 
+a court-made veil-piercing theory on top of the fiduciary 
+analysis adopted by Congress, much less why ERISA’s 
+functional analysis could not simply have been applied to the 
+changed factual picture that existed at the time of the enforce- 
+ment action. Simply stated, the relevant status under ERISA 
+is that of a fiduciary, and liability should follow only if a 
+person is named or functions as a fiduciary. 
+
+
+not plan, affairs — e.g., undercapitalization of the corporation, 
+failure to observe corporate formalities, siphoning of the 
+corporation's funds by the dominant shareholder, non-functioning 
+of corporate officers and directors, and commingling of personal 
+and corporate assets. See generally | William M. Fletcher, 
+Fletcher Cyclopedia of the Law of Corporations § 41.30 (perm. ed. 
+rev. vol. 1990). 
+
+
+25 
+
+
+CONCLUSION 
+The judgment of the court of appeals should be reversed. 
+
+
+Respectfully submitted. 
+
+
+\ 
+
+
+ROBERT P. DAVIS 
+Counsel of Record 
+KENNETH S. GELLER 
+BLAKE M. CORNISH 
+Mayer, Brown & Platt 
+2000 Pennslyvania Ave. , N. W. 
+Washington, D.C. 20006 
+(202) 463-2000 
+
+
+Counsel gratefully acknowledges the able assistance of 
+Stephen F. Rosenthal, a student at the Harvard Law 
+School, in the preparation of this brief. 
+
+
+JULY 1995 
+
+

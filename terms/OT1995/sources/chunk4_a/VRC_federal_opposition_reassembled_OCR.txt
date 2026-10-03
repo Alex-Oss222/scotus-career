@@ -1,0 +1,882 @@
+Source: Archive item micro_IA40386002_0698. Cover through printed p.9 extracted verbatim from tail of segmented file 5; printed pp.10–19 from segmented file 6. OCR, not a verified transcription.
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+
+OCTOBER TERM, 1995 
+
+
+PETE WILSON, GOVERNOR OF CALIFORNIA, 
+ET AL., PETITIONERS 
+
+
+Vv. 
+
+
+VOTING RIGHTS COALITION, ET AL. 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+BRIEF FOR THE FEDERAL RESPONDENTS IN OPPOSITION 
+
+
+DREW S. DAYS, III 
+Solicitor General 
+
+
+DEVAL L. PATRICK 
+Assistant Attorney General 
+
+
+STEVEN H. ROSENBAUM 
+SAMUEL R. BAGENSTOS 
+
+
+Attorneys 
+Department of Justice 
+Wa i — 30 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether the National Voter Registration Act of 1993 
+(NVRA), 42 U.S.C. 197399 et seg., is a constitutional exercise of 
+
+
+Congress’s power under the Elections Clause, U.S. Const. Art. I, § 
+
+
+4, to regulate the manner in which States administer elections for 
+
+
+~ : ATUr - , : — } , Q 
+2 Whether the NVRA is a constitutional exercise of 
+Congress’s power to enforce the Fourteenth and Fifteenth 
+
+
+Amenaments. 
+
+
+El 
+
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+
+| OCTOBER TERM, 1995 
+
+
+No. 95-673 
+
+
+PETE WILSON, GOVERNOR OF CALIFORNIA, 
+ET AL., PETITIONERS 
+
+
+Vv. 
+
+
+VOTING RIGHTS COALITION, ET AL. 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+BRIEF FOR THE FEDERAL RESPONDENTS IN OPPOSITION 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (Pet. App. 1-12) is 
+reported at 60 F.3d 1411. The opinion of the district court (Pet. 
+App. 13-25) is reported at 878 F. Supp. 1324. 
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on July 24, 
+1995. The petition for a writ of certiorari was filed on October 
+23, 1995 (a Monday). The jurisdiction of this Court is invoked 
+under 28 U.S.C. 1254(1). 
+
+STATEMENT 
+
+
+a. This case involves the State of California’s federal 
+
+
+constitutional challenge to the National Voter Registration Act of 
+
+
+2 
+1993 (NVRA or Act), 42 U.S.C. 1973gg et seq. (Supp. V 1993). The 
+Act is designed to "increase the number of eligible citizens who 
+register to vote in elections for Federal office." 42 U.S.C. 
+1973gg(b) (1) (Supp. V 1993). To that end, it establishes uniform, 
+nationwide procedures for registering to vote in federal elections. 
+
+The Act requires States to accept voter registration applica- 
+tions "made simultaneously with an application for a motor vehicle 
+driver’s license," 42 U.S.C. 1973gg-2(a) (1) (Supp. V 1993), as well 
+as with applications submitted at the offices of other state 
+agencies, 42 U.S.C. 1973gg-2(a)(3) (Supp. V 1993). The latter 
+agencies must include state public-assistance offices, "all offices 
+in the State that provide State-funded programs primarily engaged 
+in providing services to persons with disabilities," and other 
+agencies designated by the State. 42 U.S.C. 1973gg-5(a) (Supp. V 
+1993). The Act also requires state election officials to accept 
+voter registration applications submitted by mail. 42 U.S.C. 
+1973gg-4 (Supp. V 1993). 
+
+The Act also contains provisions to ensure the effective 
+operation of the registration methods just described. It requires 
+the employees of state motor vehicles offices to "include a voter 
+registration application form for elections for Federal office as 
+part of" every driver’s license application. 42 U.S.C. 1973gg- 
+3(c) (1) (Supp. V 1993). That voter registration form must inform 
+applicants of the state’s voter eligibility requirements and the 
+
+
+penalties for submitting a false application; it may not require 
+
+
+any information that duplicates information already required on the 
+
+
+3 
+
+
+driver’s license application. 42 U.S.C. 1973gg-3(c) (2) (A) and (D) 
+(Supp. V 1993). When applicants return their completed forms, the 
+motor vehicles employees must forward the voter registration 
+portion of the application to the "appropriate State election 
+official" for processing. 42 U.S.C. 1973gg-3(e) (Supp. V 1993). 
+Employees in the other designated state agencies must also include 
+a federal voter registration form along with every application for 
+the agency’s benefits or services, and must forward completed 
+applications to "the appropriate State election official" for 
+processing. 42 U.S.C. 1973gg-5(a) (6) and (d) (Supp. 1993). In all 
+instances, the relevant state election official determines whether 
+the applicant is eligible to vote and makes the ultimate decision 
+
+
+whether to place the registrant on the voting rolls. See H.R. Rep. 
+
+
+No. 9, 103d Cong., 1st Sess. 8 (1993). 
+The NVRA contains several provisions protecting the integrity 
+of the voting rolls in federal elections. It requires that voter 
+
+
+registration forms set forth each eligibility requirement of state 
+law and require the applicant to attest, under penalty of perjury, 
+that he or she meets each requirement. 42 U.S.C. 1973gg- 
+3(c) (2) (C), 1973gg-7(b) (2) (Supp. V 1993). It also requires States 
+to "conduct a general program that makes a reasonable effort to 
+remove the names of ineligible voters from the official lists of 
+eligible voters" because of the death of the registrant or a change 
+in the registrant’s residence. 42 U.S.C. 1973gg-6(a) (4) (Supp. V 
+
+
+1993). In addition, it allows States to conduct a program for 
+
+
+removing otherwise ineligible voters from the rolls. 42 U.S.C. 
+
+
+4 
+
+
+1973gg-6(b) and (c) (2) (A) (Supp. V 1993). Any program to protect 
+the integrity of voter registration rolls, however, must be 
+“uniform, nondiscriminatory, and in compliance with the Voting 
+Rights Act of 1965," 42 U.S.C. 1973gg-6(b) (1) (Supp. V 1993), and 
+may not purge voters from the rolls "by reason of the person’s 
+failure to vote," 42 U.S.C. 1973gg-6(b) (2) (Supp. V 1993). Finally, 
+the Act makes fraudulent registration a federal crime. 42 U.S.C. 
+1973gg-10(2) (Supp. V 1993). 
+
+2. The Act became effective in California on January 1, 1995. 
+See 42 U.S.C. 1973gg note (Supp. V 1993). On August 12, 1994, the 
+Governor of California "order[ed] California state agencies to 
+comply with the NVRA only ‘to the extent [that] federal funding is 
+made available for such purposes.’" Pet. App. 14. Because no non- 
+matching federal funding is provided to implement the Act, the 
+Governor’s order required total noncompliance. Id. at 3.’ On 
+December 14, 1994, private plaintiffs filed one of the present 
+actions in the United States District Court for the Northern 
+District of California, seeking declaratory and injunctive relief 
+requiring the State to comply with the Act. Ibid.; see 42 U.S.C. 
+
+
+1973gg-9. Shortly thereafter, the State sued the United States in 
+
+
+’ The United States Departments of Agriculture and Health 
+
+
+and Human Services have provided matching funds for the States’ 
+costs of implementing the NVRA with respect to applicants for 
+benefits under the AFDC, WIC, and food stamps programs. See H.R. 
+Rep. No. 9, supra, at 11 (expressing intent that such matching 
+funds be provided). In addition, the NVRA provides for reduced 
+postal rates for mailings required by the Act. See 39 U.S.C. 3629 
+(Supp. V 1993); see also 42 U.S.C. 1973gg-6 note (Supp. V 1993). 
+In the absence of state expenditures, however, the Act does not 
+provide for federal funding of the NVRA’s implementation. 
+
+
+Ss 
+
+
+the same court, seeking a declaration that the Act violates the 
+federal Constitution and an injunction barring its enforcement. 
+Pet. App. 15. The United States filed a counterclaim in the 
+
+
+State’s action, seeking an injunction to require the State to 
+
+
+comply with the Act. Ibid. After the two actions were consolidat- 
+ed, the parties moved for preliminary injunctions. Ibid. The 
+
+
+district court consolidated the preliminary injunction hearing with 
+a trial on the merits of the constitutional issues. Ibid.; see 
+Fed. R. Civ. P. 65(a) (2). 
+
+After trial, the district court issued a written decision 
+rejecting the State’s constitutional challenges to the Act. Pet. 
+App. 13-25. The court held that the NVRA is a valid exercise of 
+Congress’s power under the Elections Clause, U.S. Const. Art. I, § 
+4, to regulate the "Times, Places and Manner of holding" elections 
+for federal office. Pet. App. 16-19. The court also held that the 
+Act does not violate the Tenth Amendment since, when acting under 
+the Elections Clause, Congress "may directly regulate the state’s 
+manner and means of voter registration without invading an area re- 
+served to the states." Id. at 18. The court permanently enjoined 
+the State from failing to comply with the Act and ordered it to 
+come forward with "a proposed plan for implementing the NVRA." Id. 
+at 21. 
+
+3. The court of appeals affirmed. Pet. App. 1-12. Relying 
+in part on the Seventh Circuit’s decision upholding the Act in 
+Association of Community Organizations for Reform Now (ACORN) v. 
+
+
+Edgar, 56 F.3d 791 (1995), the court determined that Congress’s 
+
+
+6 
+
+
+power over the "Times, Places and Manner of holding" elections for 
+federal office includes the power to regulate voter registration 
+procedures. Pet. App. 5. Based on that determination, the court 
+held that "the Act * * *, on its face, fits comfortably within" 
+Congress's power under the Elections Clause. Id. at 7. 
+
+The court of appeals rejected the State’s argument that the 
+
+
+NVRA violates the Tenth Amendment principles articulated in New 
+
+
+York v. United States, 505 U.S. 144 (1992). The court observed 
+that New York held that "Congress could not impose on the states 
+
+
+the burden of exercising its power under the Constitution to 
+
+
+regulate interstate commerce." Pet. App. 8. The court determined 
+that the State’s reliance on New York was "flaw[ed)]," because, 
+"unlike the commerce power in Article I, section 8," the Elections 
+
+
+Clause "empowers Congress to impose on the states precisely the 
+burden at issue." Pet. App. 8. 
+
+The court of appeals emphasized that its decision concerned 
+"an as yet unapplied statute." Pet. App. 4. The court assumed 
+that "interpretive or constitutional issues that might arise in the 
+implementation of the Act do not impair our analysis of the Act’s 
+facial constitutionality." Ibid. As had the Seventh Circuit in 
+ACORN, the court directed the district court "to approach its task 
+of implementation with an ‘adequate sensitivity to the principle of 
+
+
+federalism.’" Pet. App. 12 (quoting ACORN, 56 F.3d at 798). The 
+
+
+panel retained jurisdiction to consider any subsequent appeals. 
+
+
+Pet. App. 12. 
+
+
+~ 
+ARGUMENT 
+
+The court of appeals correctly held that the NVRA is a valid 
+exercise of Congress’s power under the Elections Clause (U.S. 
+Const. Art. I, § 4) and does not violate the Tenth Amendment. The 
+Ninth Circuit’s decision accords with the only other court of 
+appeals decision to address the constitutionality of the Act, 
+Association of mmuni rganization form Now Vv. 
+Edgar, 56 F.3d 791 (7th Cir. 1995), and with all of the district 
+court decisions addressing that subject.’ 
+
+1. The court of appeals correctly held that Congress had the 
+power to enact the NVRA under the Elections Clause, U.S. Const. 
+Art. I, § 4 See Pet. App. 7; accord ACORN v. Edgar, 56 F.3d at 
+793-795. That Clause provides: 
+
+The Times, Places and Manner of holding Elections for 
+
+Senators and Representatives, shall be prescribed in each 
+
+State by the Legislature thereof; but the Congress may at 
+
+any time by Law make or alter such Regulations, except as 
+
+
+to the Places of chusing Senators.’ 
+
+
+A natural reading of the term "Manner of holding Elections" 
+
+
+* ACORN v. Miller, Nos. 4:95-cv-45, 1:95-cv-184 & 1:95-cv-386 
+(W.D. Mich. Dec. 13, 1995); Condon v. Reno, Civ. Nos. 3:95-192-0 & 
+3:95-345-0 (D.S.C. Nov. 20, 1995); Virginia v. United States, No. 
+3:95CV357 (RLW) (E.D. Va. Oct. 18, 1995); ACORN v. Ridge, Nos. Civ. 
+A. 94-7671 & Civ. A. 95-382, 1995 WL 136913 (E.D. Pa. Mar. 30, 
+1995); see also Wom V v. Graves, No. 95-2350-KHV 
+(D. Kan. Nov. 30, 1995) (granting preliminary injunction requiring 
+Kansas to comply with NVRA). 
+
+
+, The Elections Clause does not refer to presidential 
+
+
+elections. As the Seventh Circuit observed, however, this Court 
+has construed Article II, Section 2, which does address that 
+subject, "to grant Congress power over Presidential elections 
+coextensive with that which Article I section 4 grants it over 
+congressional elections." ACORN v. Edgar, 56 F.3d at 793 (citing 
+Burroughs v. United States, 290 U.S. 534 (1934)); see also Buckley 
+
+
+v. Valeo, 424 U.S. 1, 13 n.16 (1976). 
+
+
+8 
+includes the process of registering voters. As this Court stated 
+in Smiley v. Holm, 285 U.S. 355, 366 (1932): 
+(T] hese comprehensive words ["Times, Places and Manner") 
+embrace authority to provide a complete code for congres- 
+sional elections, not only as to times and places, but in 
+relation to notices, registration, supervision of voting, 
+protection of voters, prevention of fraud and corrupt 
+practices, counting of votes, duties of inspectors and 
+canvassers, and making and publication of election 
+returns; in short, to enact the numerous requirements as 
+to procedure and safeguards which experience shows are 
+
+
+necessary in order to enforce the fundamental right 
+involved. 
+
+
+See also Ex parte Siebold, 100 U.S. (10 Otto) 371, 379-380 (1880) 
+(upholding a statute providing for federal supervision of a state’s 
+voter registration process as a proper exercise of the "Times, 
+Places and Manner" authority); ACORN v. Edgar, 56 F.3d at 793 
+("Times, Places and Manner" includes process of registration). 
+Thus, the NVRA’s adoption of uniform, nationwide procedures for 
+registering to vote in elections for federal office falls squarely 
+within the scope of the Elections Clause. 
+
+By virtue of the Elections Clause, the conduct of federal 
+
+
+elections is "one of the few areas in which the Constitution 
+
+
+expressly requires action by the States." U.S. m_ Lim: 
+v. Thornton, 115 S. Ct. 1842, 1855 (1995). The Elections Clause 
+
+
+provides "that the state legislatures ‘shall’ prescribe the details 
+necessary to hold congressional elections." Id. at 1883 (Thomas, 
+J., dissenting) (quoting U.S. Const. Art. I, § 4); see also 
+Siebold, 100 U.S. (10 Otto) at 388 ("It is the duty of the States 
+
+
+to elect representatives to Congress."). As the court of appeals 
+
+
+held, that obligation is one that, the Constitution contemplates the 
+
+
+9 
+
+
+States will bear at their own expense. Pet. App. 9; accord ACORN 
+v. Edgar, 56 F.3d at 794. 
+
+Although the States have the initial obligation to set up 
+procedures for elections for federal office, Congress has "ultimate 
+authority" over federal election procedures. U.S. imits, 115 
+S. Ct. at 1899 (Thomas, J., dissenting). Thus, even when States 
+prescribe their own procedures, Congress retains "a general 
+supervisory power over the whole subject." Siebold, 100 U.S. (10 
+Otto) at 387. The Clause expressly empowers Congress "at any time" 
+to "make" its own regulations or to "alter" the States’ regula- 
+tions. As this Court has explained (Siebold, 100 U.S. (10 Otto) at 
+383-384): 
+
+If (Congress) only alters, leaving, as manifest convenience 
+
+requires, the general organization of the polls to the State, 
+
+there results a necessary co-operation of the two governments 
+in regulating the subject. But no repugnance in the system of 
+regulations can arise thence; for the power of Congress over 
+the subject is paramount. It may be exercised as and when 
+
+Congress sees fit to exercise it. 
+
+It is clear that, when Congress "alters" a State’s rules, the state 
+officials remain responsible for carrying them out.‘ That is also 
+true when Congress makes its own rules, for state officials owe 
+
+
+duties "as well to the United States as to the State. This 
+
+
+necessarily follows from the mixed character of the transaction, -- 
+
+
+* See ACORN v. Edgar, 56 F.3d at 795: 
+
+
+The first sentence [of the Elections Clause], remember, 
+requires the states to create and operate * * * a system 
+(for electing federal officials) and the second authoriz- 
+es Congress to alter the state’s system -- but it is 
+still the state’s system, manned by state officers and 
+hence paid for by the state. 
+
+
+10 
+
+
+State and national." Id. at 388. In the NVRA, Congress made its 
+own rules, and those rules "alter" any inconsistent state rules on 
+the subject. See ACORN v. Edgar, 56 F.3d at 795. And, in keeping 
+with this Court’s understanding of the Elections Clause, Congress 
+required the States to administer those rules. 
+
+The NVRA is not only consistent with this Court’s understand- 
+ing of the Elections Clause but also with historical practice. 
+Each time Congress has regulated federal elections, it has 
+compelled the States to implement those regulations. For example, 
+since 1871 Congress has required that all elections for Members of 
+Congress be tabulated by written or printed ballot. See 2 U.S.C. 
+9. And since 1872 Congress has established a uniform, nationwide 
+date on which States must hold elections for federal office. See 
+2 U.S.C. 7; 3 U.S.C. 1. Those enactments have required States to 
+develop and implement procedures for tabulating, securing, and 
+printing ballots, and to provide for polling places on the 
+federally mandated election date. They have also put States to the 
+choice of either electing state officials by ballot on the federal 
+election date or incurring the additional expense and effort of 
+administering separate processes for state and federal elections. 
+The constitutionality of such federally mandated burdens is firmly 
+established. EX parte Yarbrough, 110 U.S. 651, 661 (1884); 
+Siebold, 100 U.S. (10 Otto) at 384. This Court has also upheld the 
+federal requirement that States establish a mechanism for accepting 
+absentee ballots in presidential elections. Oregon v. Mitchell, 
+
+
+400 U.S. 112, 118-119 (1970) (opinion of Black, J.) (upholding 42 
+
+
+11 
+
+
+U.S.C. 1973aa-1(d)). 
+
+Petitioners suggest that the Elections Clause "was solely 
+designed to allow Congress to regulate federal elections in 
+‘extraordinary circumstances’ to prevent the States from refusing 
+to conduct federal elections." Pet. 26 (quoting The Federalist No. 
+59, at 363 (Alexander Hamilton) (Clinton Rossiter ed., 1961)); see 
+also Washington Legal Foundation et al. Amicus Br. (WLF Br.) 11-13; 
+Pacific Legal Foundation Amicus Br. (PLF Br.) 11-13. One important 
+purpose of the Clause was, indeed, to prevent States from destroy- 
+ing the Union by refusing to hold elections for federal office. 
+See The Federalist No. 59, at 363. But the court of appeals 
+correctly determined that the Clause was not limited to that 
+purpose. Pet. App. 7-8 & nn.3-4. 
+
+
+As the Seventh Circuit observed in ACORN v. Edgar, the 
+
+
+Elections Clause "is broadly worded and has been broadly interpret- 
+ed." 56 F.3d at 794. The Clause authorizes Congress to exercise 
+its supervisory authority over federal election procedures "at any 
+time," U.S. Const. Art. I, § 4, not just when necessary to preserve 
+the Union. See Siebold, 100 U.S. (10 Otto) at 392 (Elections 
+Clause power may be exercised "whenever Congress deems it expedient 
+
+
+to interfere merely to alter or add to existing regulations of the 
+
+
+State"); see also Smiley, 285 U.S. at 366-367. As the Seventh 
+Circuit noted (ACORN v. Edgar, 56 F.3d at 794), "[o]ne of the 
+
+
+unquestioned regulations enacted under the authority of Article I 
+section 4 is the fixing of a uniform date for federal elections" -- 
+
+
+a regulation that can hardly be said to be necessary for the 
+
+
+12 
+
+
+preservation of the Union. The NVRA is a valid exercise of 
+
+
+Congress’s "coordination function." U.S. Term Limits, 115 S. Ct. 
+
+
+at 1898 (Thomas, J., dissenting). 
+
+2. Relying on New York v. United States, 505 U.S. 144 (1992), 
+petitioners contend (Pet. 18-23) that the NVRA violates the Tenth 
+Amendment by requiring state officials to implement its provisions. 
+See also WLF Br. 7-9; PLF Br. 16-20. The court of appeals, like 
+all other courts to consider the issue, correctly rejected that 
+contention. Pet. App. 8-9. 
+
+In New York, this Court held that the "take title" provision 
+of the Low-Level Radioactive Waste Policy Amendments Act of 1985, 
+Pub. L. No. 99-240, 99 Stat. 1842, violated the Tenth Amendment. 
+That provision was enacted pursuant to Congress’s Commerce Clause 
+power, and it required States either to enact regulations providing 
+for the disposal of all low-level radioactive waste generated 
+within their borders or to take title to and possession of that 
+waste by January 1, 1996. This Court held that the provision 
+violated the principle that "Congress may not simply ‘commandee[r] 
+the legislative processes of the States by directly compelling them 
+to enact and enforce a federal regulatory program.’" New York, 505 
+U.S. at 161 (quoting Hodel v. Virginia Surface Mining & Reclamation 
+Ass'n, 452 U.S. 264, 288 (1981)). The Court explained that "[t]he 
+allocation of power contained in the Commerce Clause, for example, 
+authorizes Congress to regulate interstate commerce directly; it 
+
+
+does not authorize Congress to regulate state governments’ 
+
+
+regulation of interstate commerce." New York, 505 U.S. at 166. 
+
+
+13 
+
+
+The Tenth Amendment principles enunciated in New York are 
+
+
+inapposite here. The Tenth Amendment provides (U.S. Const. Amend. 
+X): 
+
+The powers not delegated to the United States by the 
+Constitution, nor prohibited by it to the States, are 
+reserved to the States respectively, or to the people. 
+
+The Tenth Amendment reserves to the States only "the original 
+
+
+powers of sovereignty" that they possessed before adoption of the 
+
+
+Constitution. U.S. Term Limits, 115 S. Ct. at 1854. The power to 
+
+
+regulate the "Times, Places and Manner" of holding elections for 
+Congress and the presidency, however, "exclusively spr[a]ng out of 
+the existence of the national government." Ibid. That power, 
+moreover, is expressly "delegated to the United States" (U.S. 
+Const. Amend X) by the Elections Clause. It is therefore not a 
+"power[]" reserved to the States by the Tenth Amendment.° 
+
+The textual allocation to the States of the authority and 
+obligation to administer the federal election machinery reflects 
+the Framers’ recognition that "manifest convenience requires" 
+leaving to the States the general responsibility for conducting 
+elections for federal office. Siebold, 100 U.S. (10 Otto) at 383. 
+But the Framers also recognized the strong federal interest in 
+regulating the conduct of federal elections. See Wesberry v. 
+
+
+Sanders, 376 U.S. 1, 42 (1964) (Harlan, J., dissenting). Thus, 
+
+
+5 
+
+
+Even if the Tenth Amendment did limit Congress’s exercise 
+of its Elections Clause authority, the NVRA would fall within those 
+limits. Unlike the situation in New York, in the NVRA Congress did 
+not force States to exercise a congressional power to regulate 
+private conduct. Cf. New York, 505 U.S. at 166. Rather, Congress 
+exercised its long-standing authority to supervise the States’ own 
+conduct in administering elections for federal office. 
+
+
+14 
+they expressly required state officials to comply with congressio- 
+nal regulations in this area. Congress may exercise this power "at 
+any time, and to any extent which it deems expedient." Siebold, 
+100 U.S. (10 Otto) at 392. 
+
+If petitioners were correct that Congress may not impose 
+affirmative obligations on States as part of its power to "make or 
+alter" regulations of the federal election process, Congress would 
+be required to federalize the entire voter registration process 
+whenever it wished to impose some uniform federal requirements on 
+that process. Cf. WLF Br. 10. The Court has squarely rejected 
+that argument: "We are unable to see why it necessarily follows 
+
+
+that, if Congress makes any regulations on the subject, it must 
+
+
+assume exclusive control of the whole subject. The Constitution 
+does not say so." Siebold, 100 U.S. (10 Otto) at 383.® While 
+
+
+Congress has traditionally left "the general organization of the 
+polls to the State" (ibid.), it has always retained the "superviso- 
+ry and paramount" power that the Framers deemed essential to the 
+preservation of the federal government (id. at 386). The decision 
+
+
+in New York did not purport to change those well-established 
+
+
+* Petitioners read (Pet. 25) Siebold as standing only for the 
+limited proposition that Congress may attach additional penalties 
+to voter fraud committed by state officials in federal elections. 
+The holding of Siebold is not so limited. Siebold upheld a federal 
+statute that provided for the appointment of federal officers to 
+supervise state officials in the registration of voters, adminis- 
+tration of voting rolls, and staffing of polling places in 
+elections for federal office. See Siebold, 100 U.S. (10 Otto) at 
+379-382. The Court held that Congress may subject state officials 
+to this kind of federal supervision because, in the area of federal 
+elections, state officials owe duties to the United States as well 
+as the State. Id. at 388. 
+
+
+15 
+
+
+principles. 
+
+3. Despite Congress’s broad power to regulate federal 
+elections, petitioners contend that the NVRA violates principles of 
+federalism because it requires employees of the state Department of 
+Motor Vehicles and public assistance agencies "to perform federal 
+registration duties wholly outside their usual line of work." Pet. 
+22 (internal quotation marks omitted). That contention is 
+factually incorrect. Under the Act, it is the "appropriate State 
+election official" -- as designated by state law -- who registers 
+voters, determines eligibility, and maintains the voter rolls. 42 
+U.S.C. 1973gg-3(e), 1973gg-5(d); see also H.R. Rep. No. 9, 103d 
+Cong., lst Sess. 8 (1993). The Act imposes only narrow, routine 
+duties on employees at other state agencies: They must include 
+voter registration forms with the driver’s license or social 
+service applications they already distribute, see 42 U.S.C. 1973qg- 
+3(c), 1973gg-5(a) (6) (Supp. V 1993); they must provide assistance 
+in filling out the forms when asked, see 42 U.S.C. 1973gg- 
+
+
+S(a)(6)(C) (Supp. V 1993); and they must forward the completed 
+
+
+forms to the "appropriate State election official," 42 U.S.C. 
+1973gg-3(e), 1973gg-5(d) (Supp. V 1993). None of those duties is 
+alien to the affected employees’ "usual line of work." They must, 
+
+
+in all events, distribute forms (for driver’s licenses or other 
+state benefits or services) and forward them for processing; at 
+most, the Act adds an additional form to the package. 
+
+
+Those minimal additional duties are closely related to 
+
+
+Congress’s power under the Elections Clause to adopt uniform 
+
+
+16 
+procedures for electing federal officials. See ACORN v. Edgar, 56 
+F.3d at 796 (noting that Congress might exceed its authority under 
+the Elections Clause if it sought to use that power "to destroy 
+state government, perhaps by constituting all employees of the 
+state full-time federal voting registrars," but that the NVRA does 
+not impermissibly interfere with state prerogatives) . When it 
+enacted the NVRA, Congress acted against a backdrop of voter 
+registration procedures that varied widely from State to State. 
+For example, only 27 States offered registration by mail. See S. 
+Rep. No. 6, 103d Cong., 1st Sess. 12 (1993). Twenty-two States 
+permitted voter registration at motor vehicles offices, but the 
+programs were implemented in different ways. See id. at 7-10. 
+State laws allowing voter registration at other state agencies were 
+also inconsistent. See id. at 15. Congress decided to make these 
+procedures uniform, and it decided to do so in a way that afforded 
+broad opportunities to register to vote. See U.S. Term Limits, 115 
+S. Ct. at 1858-1859, 1864 (noting that constitutional provisions 
+governing federal elections aim at promoting uniformity) . 4 
+therefore endorsed the procedures adopted by States that afforded 
+such broad opportunities, and adopted those procedures as national 
+rules. Doing so requires some employees in some States to assume 
+obligations not imposed under current state practice; that, 
+however, is a necessary concomitant of Congress’s "coordination 
+function" under the Elections Clause. Id. at 1898 (Thomas, J., 
+
+
+dissenting). 
+
+
+The present cases entail only a facial challenge to the NVRA. 
+
+
+17 
+
+
+Pet. App. 4. The court of appeals recognized that future applica- 
+tions of the Act might raise constitutional issues distinct from 
+those presented here. Id. at 4, 11. The court also recognized 
+that the prospect of such issues arising "dictate[s] that implemen- 
+tation of the Act be done sensitively." Id. at 9; accord ACORN v. 
+Edgar, 56 F.3d at 798 (implementation of NVRA must "exhibit an 
+adequate sensitivity to the principle of federalism"). According- 
+ly, the court of appeals specifically directed the district court 
+on remand to act "with an informed understanding of the duality of 
+sovereignty imbedded within the Constitution of the United States." 
+Pet. App. 11. In addition, the panel retained jurisdiction over 
+any later appeals involving implementation. Id. at 12. In light 
+of those actions, petitioners’ claim that implementation of the Act 
+will encroach on state prerogatives does not justify further review 
+by this Court at this time. See Watson v. Buck, 313 U.S. 387, 402 
+(1941) ("Passing upon the possible significance of the manifold 
+provisions of a broad statute in advance of efforts to apply the 
+separate provisions is analogous to rendering an advisory opinion 
+upon a statute or a declaratory judgment upon a hypothetical 
+case."). 
+
+4. Petitioners also urge this Court to grant certiorari to 
+consider whether the NVRA is a valid exercise of Congress’s power 
+to enforce the Fourteenth and Fifteenth Amendments. Pet. 27-29. 
+While Congress’s enforcement power under those Amendments provides 
+
+
+an alternative ground for upholding the judgment below, that issue 
+
+
+was not decided by the court of appeals. In any event, the Act is 
+
+
+18 
+
+
+a proper means of enforcing the Fourteenth and Fifteenth Amend- 
+ments. 
+
+The enforcement provisions of the Fourteenth and Fifteenth 
+Amendments authorize Congress to “use any rational means to 
+effectuate the constitutional prohibition of racial discrimination 
+in voting." South Carolina v. Katzenbach, 383 U.S. 301, 324 
+(1966); accord Katzenbach v. Morgan, 384 U.S. 641, 651 (1966). In 
+the exercise of that authority, Congress may adopt uniform, 
+nationwide rules targeting practices with a discriminatory effect. 
+See Oregon v. Mitchell, 400 U.S. at 132-133 (opinion of Black, J.) 
+(upholding nationwide ban on literacy tests); id. at 216 (opinion 
+of Harlan, J.) (same); id. at 283-284 (opinion of Stewart, J.) 
+(same); see also City of Rome v. United States, 446 U.S. 156 (1980) 
+(Congress may take action against practices that are discriminatory 
+in effect, even if they lack a discriminatory purpose). 
+
+Under that principle, the NVRA is well within Congress’s 
+enforcement authority. Congress enacted the NVRA after nearly 30 
+years of experience with the Voting Rights Act and a decade of 
+investigating voter registration procedures. See, e.g., Staff of 
+Subcomm. on Civil and Constitutional Rights of the House Comm. on 
+the Judiciary, 98th Cong., 2d Sess., After the Voting Rights Act: 
+Registration Barriers (Comm. Print 1984) (H.R. Ser. No. 18). That 
+experience revealed that voter-registration requirements have 
+sometimes been administered in a way designed to deprive minorities 
+
+
+of their right to vote. See, e.g., S. Rep. No. 6, supra, at 3, 18; 
+
+
+H.R. Ser. No. 18, supra, at 2-5. Congress also considered evidence 
+
+
+wou Serco eo 
+
+
+19 
+
+
+that existing registration practices have had discriminatory 
+effects. See, e.g., S. Rep. No. 6, supra, at 17-18. The NVRA 
+responds to those problems by enacting uniform, nationwide 
+procedures that tend to prevent discriminatory administration of 
+registration laws and make it easier to register. Such uniform 
+rules can be an effective way to enforce the Fourteenth and 
+Fifteenth Amendments. See Oregon v. Mitchell, 400 U.S. at 283-284 
+(opinion of Stewart, J.). 
+CONCLUSION 
+The petition for a writ of certiorari should be denied. 
+Respectfully submitted. 
+
+
+DREW S. DAYS, III 
+
+
+Solicitor General 
+DEVAL L. PATRICK 
+Assi rne neral 
+
+
+STEVEN H. ROSENBAUM 
+SAMUEL R. BAGENSTOS 
+
+
+Attorneys 
+
+
+DECEMBER 1995 
+
+

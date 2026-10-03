@@ -1,0 +1,1282 @@
+Supreme Court of the United States 
+| _Opobat Term, 1998 | 
+
+
+a GRANT PEACOCK, 
+
+
+Petitioner, 
+
+
+QUESTIONS PRESENTED 
+
+
+Can a federal court pierce the corporate veil to 
+impose liability for an ERISA judgment on a person 
+found to be the alter ego of the liable corporation? 
+
+
+Was the action to enforce the ERISA judgment prop- 
+erly before the district court? 
+
+
+ii 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+TABLE OF AUTHIORITING . .cccccecccsccctvwvceseyss iii 
+STATUTORY PROVISIONS INVOLVED............. 1 
+STATERGIINE 0.0 ccs ctbccccvedevis t0tsbies ouvennues 1 
+SUMMARY OF ARGUMENT.............2.-0e000- 5 
+AIKAIIIGE casi vvciccisatechcdvensdesseuenennie 5 
+
+
+1. ERISA PERMITS THE APPLICATION OF FED- 
+ERAL COMMON LAW VEIL-PIERCING STAN- 
+
+
+DARE. onic vd kc ces sctapis eed venuenisseer 5 
+
+a. Mertens Does Not Preclude The ERISA Veil- 
+Pierce THOME 6 oie 6 ceiidnesovehebs tueena bere 7 
+
+b. State Courts Would Not Have Proved An 
+Appropriate And Adequate Forum ......... 12 
+
+2. THE DISTRICT COURT PROPERLY EXERCISED 
+JURISDICTION OVER THIS ACTION .......... 17 
+
+a. The District Court Had Jurisdiction Under 
+The Doctrine Of Ancillary Jurisdiction...... 17 
+
+b. The District Court Had Jurisdiction Under 
+REID, 5 na so vucuidenovedhs nkiebe hbase 24 
+CONCTAIIIOIN ovds conacdivcecsdeueesseteeaelenee 27 
+
+
+iii 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Ag-Chem Equipment Co., Inc v. Daggeri:art, 315 
+S.E.2d 379 (S.C. App. 1984)....... Ge 9 
+Alessi v. Raybestos-Manhattan, Inc, 451 U.S. 504 
+GE TUG aBelds VO 0 GaN 6c cledWsccedeectededss 10 
+Alman v. Danin, 801 F.2d 1 (1st Cir. 1986)........ 15, 16 
+Bank of the United States v. Halstead, 23 U.S. (10 
+eS can aL te wed ere kveewence ce 19 
+Board of County Commissioners of Labette County v. 
+United States, 112 U.S. 217 (1884) ................. 20 
+Freeman v. Howe, 65 U.S. (24 How.) 450 (1860)....... 19 
+
+
+H. C. Cook Co. v. Beecher, 217 U.S. 497 (1910)..... 22, 23 
+
+
+Kokkonen v. Guardian Life Insurance Co., 114 S. Ct. 
+Es Ore an cecbaccibowsss’ 14, 18, 19, 23, 24 
+
+
+Mackey v. Lanier Collection Agency & Service, 486 
+EM Gaede cdcccecenees prvesepene 12, 13, 14 
+
+
+Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803) .... 19 
+Mertens v. Hewitt Associates, 113 S. Ct. 2063 (1993) 
+New York State Conf. of Blue Cross & Blue Shield 
+
+Plans v. Travelers Ins. Co., 115 S. Ct. 1671 (1995) .... 14 
+Reich v. Rowe, 20 F.3d 25 (ist Cir. 1994)........... 9, 10 
+Riggs v. Johnson County, 73 U.S. (6 Wall.) 166 (1868) .... 24 
+
+
+iv 
+TABLE OF AUTHORITIES - Continued 
+Page 
+CIOGUD i... vvinwddeecddcen chvden dy tedmpaubababe denn 7, 25 
+The Firestone Tire & Rubber Co. v. Marlboro Cotton 
+Mills, 278 F. 816 (D.S.C.), modified, 282 F. 811 
+(4th Cir. 1922), cert. denied, 260 U.S. 749 (1923) ..... 4 
+United States v. Barnette, 376 U.S. 681 (1964)...5, 20, 24 
+
+
+Watson v. Williams, 36 Miss. 331 (1858)........ 5, 20, 24 
+
+
+STATUTES AND REGULATIONS 
+
+
+SO Ch, ries scexsinael 7, 14 
+UNE a Sek 1, 6, 25 
+50 Ce ik. ois cccuis cual 1, 6, 13, 25, 26 
+
+
+Ruces or Crvm PROCEDURE 
+Federal Rule of Civil Procedure 69(a)............... 23 
+
+
+OTHER AUTHORITIES 
+18 C.J.S. Corporations § 12, p. 280...........00e ee eeee 8 
+
+
+Fletcher Cyclopedia of Corporations, § 41, p. 603 
+(Posh, OE, Tees beck CECE cd he CRE Bh ds 8 
+
+
+13 CHarRLEs A. WriGut, ARTHUR R. MiLter & Epwarp 
+H. Cooper, FeperAt PRACTICE AND PROCEDURE 
+
+
+SG SE Cea: 8p id sa tea neethecdeceuh ckcecvans 17, 18 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+Section 409(a) of ERISA, 28 U.S.C. § 1109(a), provides 
+in pertinent part as follows: 
+
+
+Any person who is a fiduciary with respect to a 
+plan who breaches any of the responsibilities, 
+obligations, or duties imposed upon fiduciaries 
+by this title . . . shall be subject to such other 
+equitable or remedial relief as the court may 
+deem appropriate... . 
+
+
+Section 502(f) of ERISA, 28 U.S.C. § 1132(f), provides 
+in pertinent part as follows: 
+
+
+The district courts of the United States shall 
+have jurisdiction . . . to grant the relief provided 
+for in subsection (a) of this section in any action. 
+
+
++ 
+
+
+STATEMENT 
+
+
+This case involves two related actions by the Respon- 
+dent, Jack L. Thomas (“Thomas”) on behalf of the pension 
+plan of Tru-Tech, Inc. (“Tru-Tech”) and its participants. 
+The first action established liability on the part of Tru- 
+Tech for breach of fiduciary duty. Subsequent to the facts 
+which gave rise to that action, the Petitioner, D. Grant 
+Peacock, engaged in a course of conduct described in the 
+district court’s findings of fact found in the Petition for 
+Certiorari on pages 40a through 42a. The findings of fact 
+include the following: 
+
+
+1. The Petitioner “was the controlling share- 
+holder and sole director of Tru-Tech” and 
+“directed and controlled essentially all of its 
+affairs.” [Pet. App. 40a, { 2]. 
+
+
+ey en Tree ee 
+
+
+“During the entire period from November 
+1986 through its ultimate dissolution in May 
+of 1990, there was a failure to observe corpo- 
+rate formalities . . . and the corporate shell 
+of Tru-Tech was merely a facade for the 
+operation of the dominant will of [Peti- 
+tioner].” [Pet. App. 40a, { 3]. 
+
+
+The Petitioner “directed the management of 
+Tru-Tech’s affairs to defeat the collection of 
+the Thomas judgment by siphoning off the 
+assets of the corporation to certain favored 
+creditors owned or controlled by [Peti- 
+tioner].” [Pet. App. 41a, { 4]. 
+
+
+The “assets of Tru-Tech were siphoned off 
+by [Petitioner] pursuant to a corporate strat- 
+egy developed by him. It was the specific 
+intent and purpose of this strategy to siphon off 
+these assets to favored creditors owned or 
+controlled by [Petitioner] and to defeat col- 
+lection of the Thomas judgment.” [Pet. App. 
+42a, { 7 (emphasis added)]. 
+
+
+In his efforts to siphon off the assets of Tru- 
+Tech, “it was the specific intent of [Petitioner] 
+to defraud the former employees of Tru-Tech 
+who were beneficiaries of the pension plan 
+and to defeat their legitimate attempt to col- 
+lect a lawful judgment.” [Pet. App. 42a, { 9 
+(emphasis added)]. 
+
+
+“Under the facts of this case and in light of 
+the clear legislative purpose of ERISA, it 
+would be inequitable and unfair to allow 
+Tru-Tech’s corporate form to be misused for 
+the purpose of depriving its employees of 
+
+
+3 
+
+
+their anticipated benefits and avoiding law- 
+ful financial obligations to an employee ben- 
+efit plan under ERISA.” [Pet. App. 42a, 
+{ 11). 
+
+
+Evidence fully supporting all of these findings of fact 
+is found in the district court’s order in the Petition for 
+Certiorari on pages 3la through 40a. This evidence 
+includes two letters of Petitioner’s Pittsburgh attorney 
+dated November 28, 1988, and March 13, 1989, document- 
+ing the Petitioner’s “settled . . . strategy” to “refrain” 
+from payment of the Thomas judgment and keep his cur- 
+rent attorneys involved in that appeal process while 
+siphoning off the assets of Tru-Tech so as to render them 
+judgment-proof. [Pet. App. 34a-35a]. Therefore, under the 
+facts of this case, we have a Pennsylvania resident delib- 
+erately and successfully undermining the judgment of the 
+United States District Court for the District ot South 
+Carolina in a way that both the district court and the 
+Court of Appeals for the Fourth Circuit found to be 
+utterly reprehensible. [See Pet. App. 15a, 24a, 4la and 
+42a]. 
+
+
+The Fourth Circuit affirmed the district court’s deci- 
+sion. In a unanimous opinion written by Judge Donald 
+Russell and joined by Judge Widener and Senior Judge 
+Chapman, the court held that the federal court had sub- 
+ject matter jurisdiction over the case because it arose 
+under ERISA. Furthermore, the court ruled that the dis- 
+trict court did not err by applying a federal common law 
+standard for piercing the corporate veil. 
+
+
+Before tackling the authorities and policy consider- 
+ations involved, we do take issue with Petitioner’s char- 
+acterization of the second of these two interrelated 
+
+
+actions as “a separate lawsuit brought for the purpose of 
+collecting a prior federal judgment” [Petition for Cer- 
+tiorari, p. 2] and a “second, independent lawsuit.” [Pet. 
+Br. 2]. The Fourth Circuit rejected this same contention 
+“that this suit is one merely to collect an outstanding 
+judgment” [Pet. App. 11a] and that “once the plaintiff 
+class won its judgment against Tru-Tech, it became a 
+judgment creditor like any other.” [Pet. App. 12a]. In 
+rejecting this argument, the Fourth Circuit stated: 
+
+
+We established above that an attempt to pierce 
+the corporate veil is a matter of substantive law 
+that determines whether a corporate shareholder 
+can be held liable for a preexisting judgment entered 
+against the corporation. An attempt to pierce the 
+corporate veil, therefore, seeks to identify those 
+parties against whom the judgment can be satis- 
+fied. . . . [I])dentification of those parties who are 
+liable is necessarily antecedent to the procedural 
+enforcement of the judgment against those par- 
+ties. ... 
+
+
+[Pet. App. 13a (emphasis added)]. This action, therefore, 
+is not one to collect a judgment, but one to establish 
+liability on the part of the Petitioner. If successful, Thomas 
+may then be forced into the federal or state courts of 
+Pennsylvania to collect his judgment against Petitioner, 
+just as he was in his attempt to collect his judgment 
+against Tru-Tech. 
+
+
+Fe ee eT ee re ee eT me 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The decision of the Fourth Circuit is consistent with 
+this Court’s prior holdings and should be affirmed for the 
+following reasons: 
+
+
+First, as held by the Fourth Circuit, liability was 
+properly imposed upon the Petitioner under federal com- 
+mon law veil-piercing standards as an equitable remedy 
+available under ERISA. 
+
+
+Second, as held by the Fourth Circuit under the doc- 
+trine of ancillary jurisdiction, federal courts have the 
+inherent power and duty to protect their lawful judg- 
+ments from “the assaults of the lawless.” See United States 
+v. Barnette, 376 U.S. 681, 699-700 (1964), quoting Watson v. 
+Williams, 36 Miss. 331, 341-342 (1858). In addition to ancil- 
+lary jurisdiction, the district court had jurisdiction under 
+the broad, remedial scope and purposes of ERISA. 
+
+
+¢ 
+
+
+ARGUMENT 
+
+
+1. ERISA PERMITS THE APPLICATION OF FED- 
+ERAL COMMON LAW VEIL-PIERCING STAN- 
+DARDS. 
+
+
+The policies of allowing a federal court to enforce its 
+own judgments and of protecting the interests of partici- 
+pants in ERISA plans are the mainstays of the decisions of 
+the district court and the Fourth Circuit. Allowing 
+Thomas to pierce the corporate veil of Tru-Tech fits nicely 
+into the ERISA remedial scheme. Such a remedy comfort- 
+ably falls under the category of “other appropriate equi- 
+table relief” under ERISA § 502(a)(3). 29 U.S.C. 
+
+
+§ 1132(a)(3). In affirming the decision of the district court, 
+the Fourth Circuit adopted a common equitable remedy 
+which lies well within the bounds of ERISA’s intended 
+reach. 
+
+
+ERISA § 502(a) provides that 
+A civil action may be brought - 
+
+
+* + * 
+
+
+(2) ... by a participant, beneficiary or 
+fiduciary for appropriate relief under Section 
+1109 of this title; [or] 
+
+
+(3) by a participant, beneficiary or 
+fiduciary . . . to obtain other appropriate equita- 
+ble relief... . 
+
+
+29 U.S.C. § 1132(a)(2) and (3). The liability that was 
+imposed upon the Petitioner by the Fourth Circuit was 
+initially the liability of Tru-Tech for its breach of its duties 
+as a plan fiduciary pursuant to ERISA § 409, 29 U.S.C. 
+§ 1109. The district court and the Fourth Circuit allowed 
+Thomas to pierce the corporate veil of Tru-Tech as a 
+means of providing “appropriate relief” or “appropriate 
+equitable relief” under the terms of ERISA. 
+
+
+The relief provided to Thomas by the District Court 
+and the Fourth Circuit does not broaden ERISA as the 
+Petitioner asserts. The corporate veil of Tru-Tech was 
+pierced to allow for the appropriate and adequate 
+enforcement of the provisions of ERISA. The first section 
+of ERISA states as follows: 
+
+
+It is hereby declared to be the policy of this 
+chapter to protect interstate commerce and the 
+interests of participants in employee benefit 
+plans and their beneficiaries, by requiring the 
+disclosure and reporting to participants and 
+
+
+7 
+
+
+beneficiaries of financial and other information 
+with respect thereto, by establishing standards of 
+conduct, responsibility, and obligation for fiduci- 
+
+
+aries of employment benefit plans, and by providing 
+for appropriate remedies, sanctions, and ready access to 
+the Federal courts. 
+
+
+29 U.S.C. § 1001(b) (emphasis added). 
+
+
+This Court has long acknowledged that “the doctrine of 
+corporate entity, recognized generally and for most pur- 
+poses, will not be regarded when to do so would work fraud 
+or injustice.” Taylor v. Standard Gas & Electric Co., 306 US. 
+307, 322 (1939). ERISA was enacted in large part to protect 
+employees from being deprived of their benefits, See 29 
+U.S.C. § 1001 (1982). ERISA clearly provides for piercing the 
+corporate veil in this case where the Petitioner deliberately 
+siphoned off Tru-Tech’s assets in an effort to prevent the 
+employees from collecting the money due them as a result of 
+the first action. Had the Petitioner not been held accountable 
+for the liability of Tru-Tech, which had been rendered worth- 
+less by his efforts, the enforcement provisions of ERISA 
+would have been stripped of any significance. To permit 
+such actions to escape scrutiny from the federal courts as a 
+matter of law would transmute ERISA to a mere snare and 
+illusion effectively eliminating the employee protection 
+promised by Congress. 
+
+
+a. Mertens Does Not Preclude The ERISA Veil-Pierc- 
+ing Relief. 
+
+
+The Petitioner mistakenly believes that Mertens v. 
+Hewitt Associates, 113 S. Ct. 2063 (1993), would bar the 
+veil-piercing relief awarded by the district court and the 
+Fourth Circuit. Mertens is clearly distinguishable from 
+this action. In Mertens, both the relief sought and the 
+
+
+defendant’s actions giving rise to the plaintiff’s claim 
+were entirely different from this case. 
+
+
+The plaintiff in Mertens attempted to recover com- 
+pensatory damages against a plan actuary for the actu- 
+ary’s role in the plan fiduciary’s breach of duty. This 
+Court refused to allow a separate cause of action to be 
+brought under ERISA against a non-fiduciary for mone- 
+tary damages. The relief awarded by the district court 
+and the Fourth Circuit in the case at bar, however, did not 
+arise from a separate cause of action for monetary dam- 
+ages but from an equitable remedy fashioned to further 
+the policies of ERISA. “[A]n attempt to pierce the corpo- 
+rate veil is not itself a cause of action but rather is a 
+means of imposing liability on an underlying cause of 
+action, such as a tort or breach of contract.” Fletcher 
+Cyclopedia of Corporation § 41, p. 603 (Perm. ed. 1990). 
+Unlike Mertens, a new cause of action is not being fash- 
+ioned to permit recovery from a party not intended to be 
+subject to such liability under ERISA. Thomas is merely 
+seeking to keep an ERISA judgment from being rendered 
+worthless by the wrongful acts of the Petitioner. 
+
+
+The holding in Mertens would allow “equitable 
+relief” in an action against a nonfiduciary. “The alter ego 
+doctrine is based in equity and is remedial in nature.” 18 
+C.J.S. Corporations § 12, p. 280. Thomas concedes that the 
+relief ordered by the district court and the Fourth Circuit 
+would force the Petitioner to pay money to Thomas. 
+However, the Petitioner’s liability for such payment 
+arises from a disregard for Tru-Tech’s corporate form and 
+from his disregard for the authority of the federal courts. 
+The relief awarded by the district court and the Fourth 
+Circuit does not subject a nonfiduciary to money dam- 
+ages. Such relief comes in the form of removing the 
+
+
+corporate veil to expose the Petitioner as the responsible 
+party for Tru-Tech’s judgment liability. The relief granted 
+was removal of the veil, not the money damages. 
+
+
+The procedure followed by Thomas in seeking to 
+enforce the ERISA judgment is analogous to another pro- 
+cedure available to enforce judgments commonly referred 
+to as supplementary proceedings. “Supplementary pro- 
+ceedings are equitable in nature.” Ag-Chem Equipment Co., 
+Inc. v. Daggerhart, 315 S.E.2d 379, 381 (S.C. App. 1984), 
+citing The Firestone Tire & Rubber Co. v. Marlboro Cotton 
+Mills, 278 F. 816 (D.S.C.), modified, 282 F. 811 (4th Cir. 
+1922), cert. denied, 260 U.S. 749 (1923). Thus, there is no 
+doubt this action involves “relief that [is] typically avail- 
+able in equity.” Mertens, supra, 113 S. Ct. at 2069. 
+
+
+Another typical form of equitable relief mentioned by 
+the Court in Mertens is restitution. While money damages 
+may be exchanged as a result of a judgment for restitu- 
+tion, the remedy is nonetheless equitable. Here, the relief 
+granted Thomas merely removes the corporate impedi- 
+ment, thereby necessitating a payment of money. 
+
+
+The Petitioner cites Reich v. Rowe, 20 F.3d 25 (ist Cir. 
+1995) as authority for his contention that “[e]ven if this 
+action could be viewed as seeking equitable relief, it 
+could not be maintained under ERISA .. . [because] there 
+is no allegation of any violation of ERISA or an ERISA 
+plan.” [Pet. Br. 17, n. 8]. Distinguishable on its facts, Reich 
+involves a claim against a financial consultant who pro- 
+vided services to an ERISA plan. Reich actually supports 
+Thomas’ claim. In Reich, the First Circuit explains: 
+
+
+10 
+
+
+We are more willing to create common law 
+remedies that are directed toward undoing spec- 
+ific transactions or recovering assets of an 
+ERISA plan. In those situations, the parties are 
+more likely to be in control of plan assets and 
+thus functionally more likely fiduciaries. 
+
+
+Reich, supra, 20 F.3d at 33. The actions of the Petitioner in 
+siphoning off assets of Tru-Tech should subject him to 
+liability under the form of equitable relief fashioned by 
+the Fourth Circuit. 
+
+
+In Mertens, this Court was concerned about disturb- 
+ing the balance “between the primary [ERISA] goal of 
+benefitting employees and the subsidiary goal of contain- 
+ing pension costs” provided by the ERISA civil enforce- 
+ment provisions. Mertens, supra, 113 S. Ct. at 2072, quoting 
+Alessi v. Raybestos-Manhattan, Inc., 101 S. Ct. 1895, 1902 
+(1981). In this action, there is no danger that pension 
+costs will rise if the Petitioner is held liable for the Tru- 
+Tech judgment. The relief awarded by the district court 
+and the Fourth Circuit will not “impose high insurance 
+costs upon persons who regularly deal with and offer 
+advice to ERISA plans, and hence upon ERISA plans 
+themselves.” Mertens, supra, 113 S. Ct. at 2072. It is 
+extremely doubtful that an insurance product is available 
+to cover a person for intentionally siphoning off assets 
+from his alter ego corporation. Imposing liability on the 
+Petitioner may actually lower pension costs by allowing 
+recovery against persons “functionally more like fiduci- 
+aries.” Reich, supra, 20 F.3d at 33. 
+
+
+A final distinction between Mertens and the case cur- 
+rently before the Court involves the actions of the respec- 
+tive defendants. In Mertens, the plaintiffs, former 
+
+
+11 
+
+
+employees entitled to benefits under their employer’s 
+pension plan, attempted to hold the actuary for their 
+pension plan liable after the actuary failed to provide 
+accurate actuarial assumptions to the employer. As a 
+result, the employer did not adequately fund the plan, 
+and the employees were denied their full pensions. The 
+actuary’s shortcomings, however, pale in comparison 
+with the dishonest, deceitful behavior of the Petitioner 
+who masterminded and executed a scheme to “defeat the 
+collection of the Thomas judgment by syphoning off the 
+assets of the corporation. ...” [Pet. App. 41a, { 4]. Not 
+only was it the specific intent of the Petitioner to 
+“defraud the former employees of Tru-Tech,” [Pet. App. 
+42a, { 9], it was also his intent to scoff at the rulings of 
+the federal courts. Petitioner’s egregious and reprehens- 
+ible behavior dwarfs the failures of the actuary in Mer- 
+tens. 
+
+
+The Petitioner argues that relief in the form of pierc- 
+ing the corporate veil should not be available because 
+ERISA already contains a standard for reaching beyond 
+the corporation by way of ERISA’s definition of “fiduci- 
+ary.” The actions of the Petitioner which exposed him to 
+liability for the Tru-Tech judgment did not occur with 
+respect to the administration or operation of the plan. The 
+Petitioner’s culpable behavior occurred after the breach 
+of fiduciary duty from which the Tru-Tech liability arose. 
+Therefore, the relief the Petitioner suggests as available to 
+Thomas would not be available in this case. The only 
+appropriate and adequate relief available to Thomas was 
+that awarded by the district court and the Fourth Circuit. 
+
+
+12 
+
+
+b. State Courts Would Not Have Proved An Appro- 
+priate And Adequate Forum. 
+
+
+The Petitioner cites Mackey v. Lanier Collection Agency 
+& Service, 486 U.S. 825 (1988), for authority that ERISA 
+does not provide a means of enforcing ERISA judgments. 
+This is not a fair representation of Mackey. 
+
+
+Mackey involved an action instituted in a state court 
+of Georgia by a collection agency seeking to garnish the 
+benefits of the members of an ERISA welfare benefits 
+plan. The case also turned on the applicability of a Geor- 
+gia state law prohibiting the garnishment of plan benefits 
+covered by ERISA. In Mackey, this Court held that ERISA 
+preempted the state garnishment procedure thereby set- 
+ting aside the anti-garnishment provision, and, because 
+ERISA did not provide a procedure for collecting judg- 
+ments against plan participants, the judgment creditor 
+was allowed to proceed against the plan assets. 
+
+
+The Petitioner enthusiastically embraces and relies 
+upon this Court’s statement in Mackey that “ERISA does 
+not provide an enforcement mechanism for collecting 
+judgments won... . ” Id. at 833. The Fourth Circuit's 
+decision, however, does not conflict with Mackey. The 
+Petitioner’s reliance upon this statement is misplaced. 
+Mackey does not preclude the application of a federal 
+common law veil-piercing rule in actions under ERISA. 
+An attempt to pierce the corporate veil is not a means of 
+collecting a judgment; it is a means of imposing liability. 
+Applying the general purposes and principles of ERISA, 
+Thomas seeks to pierce Tru-Tech’s corporate veil in order 
+to hold the Petitioner liable for the actions of his sham 
+
+
+13 
+
+
+corporation. This action clearly cannot be a mere collec- 
+tion action because Thomas may yet have to bring a 
+collection action under state law to collect the judgment 
+against the Petitioner if this Court affirms the Fourth 
+Circuit’s decision. 
+
+
+Mackey simply did not involve a judgment creditor 
+seeking enforcement of an ERISA judgment. There is a 
+definite distinction between a holding that ERISA does 
+not provide a mechanism to enforce judgments against an 
+ERISA plan and the assertion that ERISA does not pro- 
+vide an enforcement mechanism to enforce ERISA judg- 
+ments. 
+
+
+Petitioner argues that ERISA does not preempt state 
+laws regarding piercing the corporate veil and then leaps 
+to the conclusion that, since ERISA does not preempt 
+state law regarding piercing the corporate veil, suits such 
+as this one are not covered by ERISA and must be 
+brought under state law. As discussed above, Thomas’ 
+action to pierce the corporate veil of Tru-Tech is not a 
+separate cause of action but simply a supplemental pro- 
+ceeding to impose liability for an ERISA judgment on a 
+sham corporation’s alter ego. Thomas is pursuing “other 
+appropriate equitable relief.” 29 U.S.C. § 1132(a)(3). Any 
+state statute or state court decision that attempts to regu- 
+late the availability of the veil-piercing remedy for ERISA 
+judgments would be preempted. In Mackey, the Court 
+stated as follows: 
+
+
+Consequently, adhering to our precedents in 
+this area, we hold that Ga. Code Ann. 
+§ 18-4-22.1, which singles out ERISA employee 
+welfare benefit plans for different treatment 
+under state garnishment procedures, is pre- 
+empted under § 514(a). The state statute's 
+
+
+14 
+
+
+express reference to ERISA plans suffices to 
+bring it within the federal law’s pre-emptive 
+reach. 
+
+
+Mackey, supra, 486 U.S. at 830. 
+
+
+The Petitioner argues that “[a]llowing the states to 
+maintain their traditional standards for veil-piercing 
+would do nothing to undermine a ‘uniform body of bene- 
+fits laws.’ ” [Pet. Br. 24]. A federal court must be able to 
+“ .. . vindicate its authority, and effectuate its decrees 
+....” Kokkonen v. Guardian Life Ins. Co. of America, 114 S. 
+Ct. 1673, 1675-1676 (1994). As the Fourth Circuit 
+explained: 
+
+
+[A]n attempt to pierce the corporate veil is nec- 
+essarily subsidiary to some primary cause of 
+action, it is not simply an attempt to collect a 
+preexisting liability against an entity already 
+found liable under the relevant substantive law; 
+it is, rather, an attempt to impose such a preex- 
+isting liability upon an entity not otherwise liable. 
+
+
+[Pet. App. 12a]. 
+
+
+The policy of protecting “the interests of participants 
+in employee benefit plans” must be uniformly upheld. 29 
+U.S.C. § 1001(b). Such uniformity cannot be accomplished 
+by forcing participants to resort to state law in instances 
+such as the present action where the Petitioner has made 
+a mockery of an ERISA judgment. If this Court holds that 
+an action to pierce the corporate veil may only be brought 
+under state law and not under a federal common iaw 
+fashioned under ERISA, it would undermine the “uni- 
+form body of benefits law.” New York State Conf. of Blue 
+Cross & Blue Shield Plans v. Travelers Ins. Co., 115 S. Ct. 
+1671, 1677 (1995). If the standards for enforcing an ERISA 
+
+
+15 
+
+
+judgment become a matter of state law, uniformity will 
+effectively be written out of ERISA. By applying the 
+federal veil-piercing standard enunciated by the First 
+Circuit in Alman v. Danin, 801 F.2d 1 (1st Cir. 1986), the 
+Fourth Circuit has not extended the causes of action 
+available under ERISA, but has merely reinforced the 
+remedies currently available under ERISA. 
+
+
+The ability of ordinary creditors of a corporation to 
+look beyond the corporate veil for recovery is limited 
+since such parties knowingly deal with an entity with 
+limited liability. An ERISA plan participant, however, has 
+a higher degree of expectation for recovery because the 
+plan represents that a contribution will be made and 
+administered pursuant to a fiduciary obligation. Such an 
+expectation must be given preference over ordinary cred- 
+itors. Such a preference can only be provided by a uni- 
+form enforcement procedure for ERISA judgments that 
+would include a remedy allowing piercing of the corpo- 
+rate veil. 
+
+
+The Petitioner argues that piercing the corporate veil 
+is a matter that should be left for adjudication by the 
+states. Had this been a traditional state law contract or 
+tort cause of action resulting in a judgment against the 
+corporation by a federal court, the Petitioner’s argument 
+would be more persuasive. Because the veil-piercing rem- 
+edy is sought as a result of an ERISA judgment, however, 
+the mandates of ERISA demand an ERISA action to pierce 
+the corporate veil. 
+
+
+In explaining the standard for piercing the corporate 
+veil, which was later adopted by the Fourth Circuit in this 
+case, the First Circuit in Alman v. Danin concluded: 
+
+
+16 
+
+
+ERISA, the statute sought to be enforced 
+here, cannot be said to attach great weight to 
+corporate form. Indeed, deferring too readily to 
+the corporate identity may run contrary to the 
+explicit purposes of the Act. Congress enacted 
+ERISA in part because many employees were 
+being deprived of anticipated benefits, which 
+not only reduced the financial resources of indi- 
+vidual employees and their dependents but also 
+undermined the stability of industrial relations 
+generally . . . allowing the shareholders of a 
+marginal corporation to invoke the corporate 
+shield in circumstances where it is inequitable 
+for them to do so and thereby avoid financial 
+obligations to employee benefit plans, would 
+seem to be precisely the type of conduct that 
+Congress wanted to prevent. 
+
+
+801 F.2d at 3-4. If federal common law relating to piercing 
+the corporate veil is not applied in situations such as the 
+one before this Court, not only will the uniformity envi- 
+sioned by ERISA be destroyed but plan participants will 
+be denied the protection ERISA was designed to provide. 
+
+
+The Petitioner expresses concern that applying a fed- 
+eral common law doctrine of veil-piercing “would free 
+federal courts to impose ERISA liability on corporate 
+officers and shareholders whenever such a result is 
+deemed consistent with the policy ensuring full collection 
+of all ERISA judgments.” [Pet. Br. 28]. It is simply unbe- 
+lievable that this Court’s decision affirming the Fourth 
+Circuit would send shockwaves through the retirement 
+plan industry. Liability has been imposed upon the Peti- 
+tioner as a result of his willful acts designed to frustrate 
+Thomas’ collection of an ERISA judgment. Petitioner’s 
+actions could easily become the basis for a “How To” 
+
+
+17 
+
+
+manual on defeating ERISA judgments. Uniform stan- 
+dards for piercing the corporate veil which are aimed at 
+preventing such actions would only affect parties with a 
+similar blatant disregard for the federal courts and the 
+policies and goals behind ERISA. In short, state law can- 
+not adequately provide the necessary uniform remedy. 
+
+
+2. THE DISTRICT COURT PROPERLY EXERCISED 
+JURISDICTION OVER THIS ACTION. 
+
+
+a. The District Court Had Jurisdiction Under the 
+Doctrine of Ancillary Jurisdiction. 
+
+
+The doctrine of ancillary jurisdiction is described in 
+13 CHartes A. Wricut, ArtHuR R. Miter & Epwarp H. 
+Cooper, FeperAt Practice AND Procepure § 3523 (1984) as 
+follows: 
+
+
+The most important instance in which the fed- 
+eral courts hear cases over which no subject 
+matter jurisdiction is expressly conferred on 
+them by the Constitution, or by federal statute, 
+is when the ill-defined concept of “ancillary 
+jurisdiction” is invoked. According to this con- 
+cept, a district court acquires jurisdiction of a 
+case or controversy in its entirety, and, as an 
+incident to the disposition of the matter prop- 
+erly before it, it may decide other matters raised 
+by the case of which it could not take cogni- 
+zance were they independently presented. Thus, 
+if the federal court has jurisdiction of the princi- 
+pal action, it also may hear any ancillary pro- 
+ceeding therein, regardless of the citizenship of 
+the parties, the amount in controversy, or any 
+other factor that normally would determine sub- 
+ject matter jurisdiction. .. . 
+
+
+18 
+
+
+As to the basic underlying purpose of ancillary juris- 
+diction, the treatise states further: 
+
+
+Ancillary jurisdiction exists because without it 
+the federal court neither could dispose of the 
+principal case effectively nor do complete justice 
+in the dispute that is before the tribunal. Viewed 
+from this perspective then, the concept is a com- 
+mon-sense solution to the problems of piece- 
+meal litigation that otherwise would arise by 
+virtue of the limited jurisdiction of the federal 
+courts prescribed in Article III and the complex- 
+ity of many modern lawsuits. 
+
+
+Id. (emphasis added). 
+
+
+As to the scope of ancillary jurisdiction: 
+
+
+The concept also is broad enough to include 
+those acts that the federal court must take in 
+order properly to carry out its judgment on a 
+matter as to which it has jurisdiction. This gen- 
+eral principle is one of broad application, although 
+of rather uncertain limits. For example, it has 
+been held that mandamus or scire facias will lie to 
+effectuate relief granted in the main action... . 
+
+
+19 
+
+
+varying respects and degrees, factually interde- 
+pendent . . . ; and (2) to enable a court to function 
+successfully, that is, to manage its proceedings, 
+vindicate its authority, and effectuate its decrees. . . . 
+
+
+114 S. Ct. at 1675-1676 (emphasis added). 
+
+
+The concern of the federal courts for the vindication 
+of their authority and the effectuation of their decrees is 
+not a novel or recent phenomenon. Jt appears to have 
+been foremost in the mind of Chief Justice Marshall in 
+Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803), and has 
+been a concern of this Court ever since. 
+
+
+As this Court noted in Bank of the United States v. 
+Halstead, 23 U.S. (10 Wheat.) 51 (1825): 
+
+
+The judicial power would be incomplete, and 
+entirely inadequate to the purposes for which it 
+was intended, if after judgment, it could be 
+arrested in its progress, and denied the right of 
+enforcing satisfaction in any manner which shall 
+be prescribed by the laws of the United States. 
+The authority to carry into complete effect the 
+judgments of the Courts, necessarily results, by 
+implication, from the power to ordain and estab- 
+lish such Courts. 
+
+
+Id. (emphasis added). Id. at 53. This Court’s decision in Freeman v. Howe, 65 U.S. 
+(24 How.) 450 (1860), further emphasizes the jurisdiction 
+In Kokkonen, supra, this Court described the “two of the federal courts over supplemental matters: 
+separate, though sometimes related, purposes” of ancil- The principle is, that a bill filed on the equity 
+lary jurisdiction as follows: side of the court to retrain or regulate judgments 
+or suits at law in the same court, and thereby 
+.. . Generally speaking, we have asserted ancil- prevent injustice, or an inequitable advantage 
+lary jurisdiction . . . for two separate, though under mesne or final process, is not an original 
+sometimes related, purposes: (1) to permit dis- suit, but ancillary and dependent, supplemen- 
+
+
+position by a single court of claims that are, in tary merely to the original suit, out of which it 
+
+
+20 
+
+
+had arisen, and is maintained without reference 
+to a citizenship or residents of the parties. 
+
+
+Id. at 460. 
+
+
+In Barnette, supra, 376 U.S. at 699-700, when the 
+authority of the federal judiciary was challenged and 
+undermined by the Governor and Lieutenant Governor of 
+Mississippi, this Court stressed the importance of enforc- 
+ing the authority of the federal courts. The opinion by 
+Justice Clark quoted with approval “the statement of the 
+High Court of Errors and Appeals of Mississippi 105 
+years ago in Watson v. Williams, [36 Miss. 331 (1858)].” 
+The Court referred to Watson as “a celebrated case that 
+has been cited with approval in many state jurisdictions 
+as well as cases in this Court,” Barnette, supra, 376 U.S. at 
+695, and described the following quotation “as true and 
+perhaps even more urgent today”: 
+
+
+A court without the power effectually to protect 
+itself against the assaults of the lawless, or to 
+enforce its orders, judgments, or decrees against 
+the recusant parties before it, would be a dis- 
+grace to the legislation, and a stigma upon the 
+age which invented it. . . . The power to compel 
+the lawless offender, against decency and pro- 
+priety, to respect the laws of its country, and to 
+submit to their authority (a duty to which the 
+good citizen yields hearty obedience, without 
+compulsion) must exist, or courts and laws 
+operate at last as a restraint upon the upright, 
+who need no restraint, and a license to the 
+offenders, whom they are made to subdue. 
+
+
+Certainly, a less persuasive case for the exercise of 
+ancillary jurisdiction is found in Board of County Commis- 
+sioners of Labette County v. United States, 112 U.S. 217 
+
+
+21 
+
+
+(1884). In that case, a judgment had been obtained in the 
+Circuit Court of the United States for the District of 
+Kansas against the Township of Oswego. The judgment 
+against Oswego, like the Thomas judgment, remained 
+unpaid. A Writ of Mandamus was then issued by that 
+court directed to the Board of County Commissioners of 
+Labette County requiring them to levy and collect suffi- 
+cient taxes to satisfy the judgment. They demurred to the 
+writ on the grounds that “the court has no jurisdiction of 
+the persons of the respondents or the subject of the 
+action.” In rejecting that contention, in an opinion by 
+Justice Matthews, this Court stated: 
+
+
+The objection that the circuit court had no juris- 
+diction to issue its mandamus to the plaintiffs in 
+error is based upon the supposition that, 
+because they are not parties to the judgment 
+against Oswego township, and are not officers 
+of or representatives of that municipal corpora- 
+tion, but are officers of the county of Labette, 
+the proceeding against them is the exercise of an 
+original jurisdiction, which does not belong to 
+that court. It is quite true, as it is familiar, that 
+there is no original jurisdiction in the circuit 
+courts in mandamus, and that the writ issues out 
+of them only in aid of a jurisdiction previously 
+acquired, as is justified in such cases as the present 
+as the only means of executing their judgments. But 
+it does not follow because the jurisdiction in 
+mandamus is ancillary merely that it cannot be 
+exercised over persons not parties to the judgment 
+sought to be enforced... . 
+
+
+The question is whether the respondents, to 
+whom the writ is addressed, have the legal duty 
+to perform, which is required of them, and 
+
+
+22 
+
+
+whether the relator has a legal right to its per- 
+formance from them, by virtue of the judgment 
+he has already obtained. If so, then they are, as 
+here, the legal representatives of the defendant in 
+that judgment, as being the parties on whom the law 
+has cast the duty of providing for its satisfaction. 
+They are not strangers to it, as being new par- 
+ties, on whom an original obligation is sought to 
+be charged, but are bound by it, as its stands, 
+without the right to question it, and under a legal 
+duty to take those steps which the law has prescribed 
+as the only mode of providing means for its payment. 
+
+
+Id. at 220-221 (emphasis added). 
+
+
+The respondents in that case became “the parties on 
+whom the law has cast the duty of providing for [the] 
+satisfaction” of that outstanding judgment by virtue of 
+their office. Here, the Petitioner has made himself respon- 
+sible for this judgment by his unlawful action in siphon- 
+ing off the assets of Tru-Tech “to defeat collection of the 
+Thomas judgment” and to undermine the lawful authority 
+of the district court. 
+
+
+Petitioner erroneously asserts that H.C. Cook Co. v. 
+Beecher, 217 U.S. 497 (1910) requires reversal of the Fourth 
+Circuit’s decision. Petitioner makes the astounding asser- 
+tion that “the only link between this case and Tru-Tech is 
+that Respondent’s purpose is to obtain payment on the 
+Tru-Tech judgment from someone. ... ” [Pet. Br. 13]. 
+Thomas is not merely seeking payment from someone; he 
+is seeking to impose liability on the sham corporation’s 
+alter ego — the Petitioner. The Fourth Circuit’s decision is 
+not in conflict with Beecher. Beecher addresses litigation 
+which is truly independent from pricr actions. Thomas’ 
+effort to pierce the corporate veil is not independent of 
+
+
+23 
+
+
+his prior litigation. As the Fourth Circuit indicated, “an 
+attempt to pierce the corporate veil is necessarily subsid- 
+iary to some primary cause of action.” [Pet. App. 12a]. 
+
+
+It is also important to note that Beecher was decided 
+before Federal Rule of Civil Procedure 69(a) was adopted. 
+Rule 69(a) provides in pertinent part: 
+
+
+Process to enforce a judgment for the payment 
+of money shall be a writ of execution, unless the 
+court directs otherwise. The procedure on exe- 
+cution, in proceedings supplementary to and in 
+aid of a judgment, and in proceedings on and in 
+aid of execution shall be in accordance with the 
+practice and procedure of the state in which the 
+district court is held, existing at the time the 
+remedy is sought... . 
+
+
+Thus, Rule 69(a) provides a procedural mechanism for a 
+court’s exercise of its inherent jurisdiction to enforce its 
+judgments in supplemental proceedings. 
+
+
+The Fourth Circuit’s decision is also in keeping with 
+Kokkonen, supra. Although this Court in Kokkonen, as 
+pointed out by the Petitioner [Pet. Br. 13], declined to 
+extend the concept of ancillary jurisdiction to “a claim for 
+breach of contract” arising out of a settlement agreement, 
+there was no suggestion there, as here, that such action 
+was necessary “to enable a court to function successfully” 
+or to “vindicate its authority, and effectuate its decrees.” 
+Kokkonen, supra, 114 S. Ct. at 1675-1676. 
+
+
+The federal courts have inherent jurisdiction to 
+enforce their judgments in supplemental proceedings. 
+[I]f the power is conferred to render the judg- 
+
+
+ment or enter the decree, it also includes the 
+power to issue proper process to enforce such 
+
+
+24 
+
+
+judgment or decree. . . . [T]he jurisdiction of a 
+court is not exhausted by the rendition of the 
+judgment, but continues until that judgment 
+shall be satisfied. 
+
+
+Riggs v. Johnson County, 73 U.S. (6 Wall.) 166, 187 (1867). 
+
+
+Just as clearly as the Governor and Lieutenant Gover- 
+nor of Mississippi sought to undermine the lawful orders 
+of the district court and Court of Appeals in United States 
+v. Barnette, supra, Petitioner has thus far successfully 
+undermined the lawful orders of the district court and 
+the Court of Appeals. This has been accomplished by 
+what the district court characterized as “the specific 
+intent and purpose of [Petitioner’s] strategy to siphon off 
+[the] assets [of the judgment debtor] to favored creditors 
+owned or controlled by [Petitioner] and to defeat collec- 
+tion of the Thomas judgment.” [See Pet. App. 42a, 7]. 
+
+
+If the district court cannot “vindicate its authority 
+and effectuate its decrees,” Kokkonen, supra, through the 
+doctrine of ancillary jurisdiction, then it will become, in 
+the colorful language of Watson v. Williams, supra, “a 
+disgrace to the legislation” that created it, “and a stigma 
+upon the age which invented it.” 
+
+
+b. The District Court Had Jurisdiction Under 
+ERISA. 
+
+
+As discussed at length in Part 1, this is an action 
+brought under the enforcement provisions of ERISA to 
+enforce an ERISA judgment, not a separate cause of 
+action. Although the doctrine of ancillary jurisdiction 
+supports the district court’s jurisdiction over this matter, 
+jurisdiction is also provided by the provisions of ERISA. 
+
+
+25 
+
+
+The complaint in the first action invoked the court's 
+equitable jurisdiction under ERISA by seeking relief both 
+under ERISA § 409(a) and § 502(a). Under ERISA § 409(a), 
+the court may grant “such other equitable or remedial 
+relief as the court may deem appropriate.” 28 U.S.C. 
+§ 1109(a). Under ERISA § 502(a), a plan participant may 
+“obtain other appropriate equitable relief.” 28 U.S.C. 
+§ 1132(a)(3). 
+
+
+The complaint in the present action incorporated the 
+original complaint by reference in $5 [J.A. 44-45], speci- 
+fically invoked the court’s power to pierce the corporate 
+veil “under ERISA and applicable federal law” [J.A. 
+49-50] and sought “such other relief as may be appropri- 
+ate.” As argued above, “applicable federal law” would 
+include the doctrine of ancillary jurisdiction. Further- 
+more, under the broad remedial purposes of ERISA, 
+appropriate equitable relief must be available to protect 
+the interests of plan participants or ERISA itself becomes 
+a toothless dragon offering no protection to vulnerable 
+employees. 
+
+
+Furthermore, this action is not an independent action 
+for monetary damages. The purpose of piercing the cor- 
+porate veil is to prevent fraud or injustice. See Taylor v. 
+Standard Gas Co., supra, 306 U.S. at 322. One would be 
+hard pressed to imagine a more shocking example of 
+injustice to plan beneficiaries than the Petitioner’s efforts 
+to subvert the authority of the federal courts by defeating 
+the collection of a lawful judgment. Thomas does not 
+bring an independent action for monetary damages; he 
+brings an equitable action to satisfy a lawful judgment 
+and thereby defend the authority of the court which 
+issued it. 
+
+
+26 
+
+
+Public policy and the ends of justice support the 
+extension of jurisdiction under ERISA to pierce the corpo- 
+rate veil and to impose liability upon those who would 
+undermine the authority of our federal courts. Section 
+502(f) of ERISA provides that “district courts of the 
+United States shall have jurisdiction . . . to grant the relief 
+provided for in subsection (a) of this section in any 
+action.” 29 U.S.C. § 1132(f). As previously discussed, this 
+action involves an attempt by a plan participant to 
+enforce plan provisions by seeking to impose liability for 
+an ERISA judgment on the Petitioner. This is a continua- 
+tion of an ERISA action and, as such, is covered by the 
+original jurisdiction afforded the action by ERISA. 
+
+
+Finally, under both the doctrine of ancillary jurisdic- 
+tion and under ERISA, the provisions for nationwide 
+service of process under ERISA are available to Thomas 
+to allow him to enforce the ERISA judgment effectively 
+and thus prevent Petitioner from rendering the ERISA 
+civil enforcement provisions impotent. Pursuant to 29 
+U.S.C. § 1132(e)(2), “process may be served in any other 
+district where a defendant resides or may be found.” 
+Thus, ERISA provides for nation-wide service of process. 
+
+
+¢ 
+
+
+27 
+
+
+CONCLUSION 
+
+
+For the reasons set forth above, the judgment of the 
+Fourth Circuit Court of Appeals should be affirmed. 
+
+
+Respectfully submitted, 
+
+
+J. KENDALL Few 
+
+James R. GILREATH 
+
+Joun C. Few 
+
+Marcaret A. CHAMBERLAIN 
+
+STEPHEN G. Ports 
+
+Attorneys for Respondent 
+September 6, 1995 
+
+

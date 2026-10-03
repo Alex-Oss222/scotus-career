@@ -1,0 +1,1380 @@
+In THE 
+Supreme Court of the United States 
+
+
+OcToBER TERM, 1995 
+
+
+D. GRANT PEACOCK, 
+Petitioner, 
+
+
+Vv. 
+Jack L, THomas, 
+Respondent. 
+On Writ of Certiorari to the 
+
+
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+BRIEF OF THE BRICKLAYERS & TROWEL TRADES 
+INTERNATIONAL PENSION FUND 
+AS AMICUS CUREAE IN SUPPORT OF RESPONDENT 
+
+
+TRA R. MITZNER 
+Counsel of Record 
+
+Woopy N. PETERSON 
+
+CARLA M. MARCOLIN 
+DICKSTEIN, SHAPIRO & 
+Morin, L.L.P. 
+2101 L Street, N.W. 
+Washington, D.C. 20087-1526 
+(202) 785-9700 
+
+Attorneys for Amicus Curiae 
+Bricklayers & Trowel Trades 
+International Pension Fund 
+
+
+WILSON - Erase Printine Co.. Inc. - 789-0086 - WasHINGTON, D.C, 20001 
+
+
+@ WR 
+
+
+F 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+py SF i, REE SN TT iii 
+INTEREST OF THE AMICUS CURIAE .......00000....... 1 
+Eg ETE ci Nettie A 
+A. The IPF And Other Taft-Hartley Plans ............ 
+B. Congress Puts “Teeth” In ERISA |... 
+C. The Delinquency Problem Faced By Taft-Hartley 
+EEE Sa Be eae Se ee A 4 
+BURMEAIE OF ARGUMENT. .........cc..cccccccscocc.-cosccserccosee 5 
+PFE ENS a 8 
+
+
+I. THE ORIGINS AND NECESSITY OF THE 
+CORPORATE VEIL PIERCING DOCTRINE... 8 
+
+
+Il. THE TEST FOR VEIL PIERCING IN ERISA 
+CASES IS WELL-DEFINED AND DIFFI- 
+SE A SET aibtite liDinpiptghictdieiccinctihictinssbhenlthnttprecewen 10 
+
+
+Ill. THE UNIVERSALLY RECOGNIZED FED- 
+ERAL VEIL PIERCING DOCTRINE FOL- 
+LOWED BY THE FOURTH CIRCUIT IS CON- 
+SISTENT WITH ERISA AND THIS COURT'S 
+ND cchaielciidalaihtihpincivccasiticslageilieasiiinsiiatigten 11 
+
+
+IV. THIS COURT SHOULD DECLINE PETITION- 
+ER’S INVITATION TO DEPRIVE ERISA 
+PLANS OF A CRITICAL WEAPON IN EM- 
+PLOYER DELINQUENCY CASES ..................... 16 
+
+
+V. STATE LAW CANNOT GOVERN ERISA 
+CASES IN WHICH THE DOCTRINE OF 
+PIERCING THE CORPORATE VEIL IS IN- 
+Pe ai nittinclenttatshencciidiesnscstimmcsintisiiahimneasinmmnninens 17 
+
+
+A. Employer Delinquency Cases Must Be Liti- 
+gated In Federal Court ............................-........ 17 
+
+
+ii 
+TABLE OF CONTENTS—Continued 
+
+
+B. Federal Jurisdiction Over ERISA Actions 
+For Collection Of Employer Delinquencies Is 
+Exclusive And State Law Is Preempted........ 
+
+
+C. Relegating These Actions To State Court 
+Would Deny The IPF And Other Funds Im- 
+portant Procedural Safeguards ....................... 
+
+
+COTTE ATTEEES acanssssecsceisinegmessitnilibiiseniiniie saccisiininampantaahiiaiis 
+
+
+Page 
+
+
+18 
+
+
+iii 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases: Page 
+Alman v. Danin, 801 F.2d 1 (ist Cir. 1986) .......... 10 
+Anderson v. Abbott, 321 U.S. 349 (1944) ................ 9, 16 
+
+
+Carpenters Amended & Restated Health Benefit 
+
+Fund v. John W. Ryan Constr. Co., 767 F.2d 
+
+ES 3, 16 
+Cement & Concrete Workers Dist. Council Welfare 
+
+Fund v. Lollo, 35 F.2d 29 (2d Cir. 1994) —.......... 12 
+Connors v. P & M Coal Co., 801 F.2d 1373 (D.C. 
+
+Oo peminnidetedence 12,13 
+Contractors, Laborers, Teamsters & Eng’rs Health 
+
+& Welfare Plan v. Hroch, 757 F.2d 184 (8th Cir. 
+
+
+CEES ES ae a So 10, 12 
+Employees Sav. Plan of Mobil Oil Corp. v. Vickery, 
+99 F.R.D. 188 (S.D.N.Y. 19838) -.......................... 4 
+
+
+Farm King Supply, Inc. Integrated Profit Sharing 
+Plan & Trust v. Edward D. Jones & Co., 884 F.2d 
+
+
+Ee CE 20 
+First Nat'l City Bank v. Banco Para El Comercio 
+Exterior De Cuba, 462 U.S. 611 (1983) —........... 9 
+
+
+International Bhd. of Painters v. George A. 
+Kracher, Inc., 856 F.2d 1546 (D.C. Cir. 1988)... 12, 13 
+Joyce v. Clyde Sa.doz Masonry, 871 F.2d 1119 
+(D.C. Cir.), cert. denied, 493 U.S. 918 (1989)... 3 
+Joyce v. Sansone, Civ. No. 94-02137 (D.D.C. filed 
+
+
+EEE ESE TIS, CRIT ee 17 
+Joyce v. Shared Management, Civ. No. 938-0974 
+I EE TIED Bn UII oncscccecccsncecnsccoscocacccces 17 
+
+
+Laborers Clean-Up Contract Admin. Trust Fund 
+v. Uriarte Clean-Up Serv., Inc., 736 F.2d 516 
+ES AS ee ee 10, 12 
+Laborers’ Pension Trust Fund v. Sidney Wein- 
+berger Homes, Inc., 872 F.2d 702 (6th Cir. 
+
+
+ESL TES Se ELD a 10, 12 
+Lowen v. Tower Asset Management, Inc., 829 F.2d 
+
+EE A Nl 10 
+Lumpkin v. Envirodyne Indus., Inc., 933 F.2d 449 
+
+(7th Cir.), cert. denied, 502 U.S. 989 (1991) ...... 14 
+
+
+Mackey v. Lanier Collection Agency & Serv., 486 
+EET I 20 
+
+
+iv 
+TABLE OF AUTHORITIES—Continued 
+
+Page 
+
+Massachusetts Laborers’ Health & Welfare Fund v. 
+
+Starrett Paving Corp., 845 F.2d 23 (ist Cir. 
+RSE RS Es ears. Bes + 12, 13, 15, 20 
+
+Massachusetts Mutual Life Insurance Co. v. Rus- 
+Gal ET Ts TO Ge hse hiheccintntibigiestensbicsinth 6,14 
+
+Mertens v. Hewitt Associates, —— U.S. ——, 113 
+Gis GD Se tae cbebeictebiticitticihigicttetnrnctvclitediinninted passim 
+
+Olson v. E.F. Hutton & Co., 957 F.2d 622 (8th Cir. 
+ES SVS So ne ON a I ee 20 
+
+Operating Eng’rs Pension Trust v. Reed, 736 F.2d 
+| RR ee ae Se ee 10 
+Reich v. Compton, 57 F.3d 270 (3d Cir. 1995) ........ 12 
+Solomon v. Klein, 770 F.2d 352 (3d Cir. 1985) ........ 12, 13 
+
+Steinberg v. Buczynski, 40 F.3d 890 (7th Cir. 
+| | EER See we Re 15 
+
+
+Taylor v. Standard Gas Co., 306 U.S. 307 (1989).... 9 
+Thomas v. Peacock, 39 F.3d 493 (4th Cir. 1994) ....passim 
+Trustees of Dartmouth College v. Woodward, 17 
+
+
+CEB, - Ge Wren D GD. COD ta cncieinctctitesecintitecteectiinss 8 
+United Elec. Workers v. 163 Pleasant St. Corp., 
+960 F.2d 1080 (1st Cir. 1992) —................... 10, 12, 18, 14 
+United States v. Lehigh Valley R.R., 220 U.S. 257 
+4) | Re PR ees ee ee eee tb ee 6, 9, 15, 16 
+Statutes and Regulations: 
+ARE a Re a 2 
+BD TTR, BB BRE OE BOG. osesincccccceeectiesciseciiccecsene sdiseiitatinls 1 
+pF TR kL S | SP ae On eee Re aoe 15 
+2 EE eS ee | 15 
+IID ccenzanncnnsnitishiadiciiiadlititeadi antes iiieiiiinle cathe 12, 15 
+4 En ee eee 14, 20 
+ee cciitinschittsnthntnnecnsniniticencecisasrttiiianiesiiaiislatietiad passim 
+re aria disisktisctasitislaienvicttinisiinlnaianctiatntagstaindh 4,15 
+ie, &  §. 4 Fo, eee yrs 2 
+Legislative Material: 
+
+
+The Senate Comm. on Labor and Human Resources, 
+96th Cong., 2d Sess. 1076, The Multiemployer 
+Pension Amendments of 1980: Summary and 
+Analysis of Considerations (Comm. Print 1980) .. 3 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES—Continued 
+Miscellaneous: 
+
+
+AFL-CIO, Pensions in Changing Capital Markets 
+(1993) ie ‘a 
+Frank H. Easterbrook & Daniel R. Fischel, Limited 
+Liability and the Corporation, 52 U. Chi. L. Rev. 
+
+
+1 William Meade Fletcher, Fletcher Cyclopedia of 
+the Law of Private Corporations § 41 (perm. ed. 
+RR SE ae ee 
+
+4 Office of Research & Economic Development, U.S. 
+Dep’t of Labor, Private Pension Plan Bulletin— 
+Abstract of 1991 Form 5500 Annual Reports 
+I i leriaeaenaas 
+
+I. Maurice Wormser, Disregard of the Corporate 
+Fiction and Allied Corporation Problems (New 
+York: Baker, Voorhis & Co. 1927) ~....................... 
+
+
+Page 
+
+
+3 
+
+
+2 
+
+
+IN THE 
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+No. 94-1453 
+
+
+D. GRANT PEACOCK, 
+Petitioner, 
+Vv. 
+
+
+Jack L. THOMAS, 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+BRIEF OF THE BRICKLAYERS & TROWEL TRADES 
+INTERNATIONAL PENSION FUND 
+AS AMICUS CURIAE IN SUPPORT OF RESPONDENT 
+
+
+INTEREST OF THE AMICUS CURIAE' 
+
+
+The Bricklayers & Trowel Trades International Pension 
+Fund (“IPF”) is a multiemployer ERISA’ plan providing 
+
+
+1 The parties’ letters of consent to the filing of this brief have 
+been filed with the Clerk pursuant to Rule 37.3 of the Rules of 
+this Court. 
+
+
+2 Employee Retirement Income Security Act of 1974, as amended, 
+29 U.S.C. §§ 1001 et seq. 
+
+
+2 
+
+
+pension benefits to workers involved in various construc- 
+tion trades, including bricklaying. The benefits distributed 
+by the IPF are funded by contributions of participating 
+employers, which make such contributions pursuant to 
+the terms of collective bargaining agreements between 
+them and Bricklayer local unions * throughout the country. 
+When an employer fails to make required contributions to 
+the IPF, ERISA requires the IPF trustees to make “reason- 
+able,” “systematic” and “diligent” efforts to collect those 
+delinquencies.* 
+
+
+A significant obstacle faced by the IPF and other Taft- 
+Hartley funds’ is the abuse of the corporate form by 
+employers in order to place corporate assets beyond the 
+reach of the funds. The IPF has a substantial interest in 
+insuring that when employers attempt to evade their 
+ERISA obligation to pay employee benefit contributions, 
+by ignoring corporate formalities or otherwise perpetrating 
+a fraud upon the beneficiaries of the fund, it continues to 
+have available in ERISA cases the traditional doctrine of 
+“piercing the corporate veil.” * 
+
+
+INTRODUCTION 
+A. The IPF And Other Taft-Hartley Plans 
+
+
+The IPF is an ERISA fund administered in Washington, 
+D.C. with over 15,000 participating construction industry 
+employers nationwide. It distributes $40 million each 
+year to over 16,000 beneficiaries. The IPF, like all Taft- 
+Hartley plans, is governed by an equal number of union- 
+
+
+8 There are 175 such local unions that negotiate collective bar- 
+gaining agreements. 
+
+
+441 Fed. Reg. 12,740 (1976) (PTE Class Exemption 76-1). 
+5 29 U.S.C. § 186(c) (5). 
+
+
+*In light of the IPF’s keen interest in the veil piercing issues 
+raised by the second question presented by the Petition for Certi- 
+orari, and the IPF’s answers to that question, this brief does not 
+address the ancillary jurisdiction question presented by the Petition. 
+
+
+———————————————— 
+
+
+3 
+
+
+appointed and employer-appointed trustees. There are 
+approximately three million Taft-Hartley pension plans 
+like the IPF,’ with total assets of approximately $250 
+million.* 
+
+
+B. Congress Puts “Teeth” In ERISA 
+
+
+At the time ERISA was passed in 1974, there were no 
+special provisions addressing collection of employer de- 
+linquencies. This problem was (and is) particularly acute 
+for funds like the IPF, many of whose contributing em- 
+ployers are small companies in the construction business, 
+an industry which, as Congress has recognized, is notable 
+for its transitory nature.” 
+
+
+Congress amended the statute in 1980 to increase the 
+ability of funds to recoup delinquent contributions. The 
+legislative history reflects that Congress intended that the 
+collection enforcement provisions “should have teeth,” 
+because of the “serious problem” created by the failure 
+of employers to “make promised contribution[s] in a 
+timely fashion,” which “imposes a variety of costs” on 
+plans. Carpenters Amended & Restated Health Benefit 
+Fund v. John W. Ryan Constr. Co., 767 F.2d 1170, 
+1173-74 (Sth Cir. 1985) (citations omitted).”° Those 
+
+
+74 Office of Research & Economic Development, U.S. Dep’t of 
+Labor, Private Pension Plan Bulletin—Abstract of 1991 Form 5500 
+Annual Reports 21 (Winter 1995). 
+
+
+8 AFL CIO, Pensions in Changing Capital Markets 50-51 (1993). 
+This $250 million figure does not include the assets of an equal 
+number of health, welfare and similar Taft-Hartley plans, located 
+throughout the United States and faced with the same difficulties 
+in collecting employer delinquencies as pension plans like the IPF. 
+
+
+® Joyce v. Clyde Sandoz Masonry, 871 F.2d 1119, 1123 (D.C. 
+Cir.) , cert. denied, 493 U.S. 918 (1989). 
+
+
+1 Quoting staff of the Senate Comm. on Labor and Human 
+Resources, 96th Cong., 2d Sess. 1076, The Multiemployer Pension 
+Amendments of 1980: Summary and Analysis of Considerations 
+43-44 (Comm. Print 1980). 
+
+
+4 
+
+
+changes included adding section 515 of ERISA (“Every 
+employer who is obligated to make contributions . . . 
+shall . . . make such contributions . . . .”),"’ permitting 
+funds to collect interest and liquidated damages up to 
+20% of delinquent contributions (or double interest) in 
+court actions (29 U.S.C. § 1132(g)(2)(B) and (C)) 
+and making the award of attorney’s fees in favor of the 
+plan mandatory in collection cases. 29 U.S.C. § 1132 
+(g)(2)(D).* 
+
+
+C. The Delinquency Problem Faced By Taft-Hartley 
+Funds 
+
+
+The trustees of the IPF have adopted written collection 
+procedures which insure that employers are given an 
+initial opportunity to pay delinquent contributions and, 
+if the delinquent sums are not collected, that the matters 
+are then referred to counsel for action. In 1994, there 
+were approximately 3,200 delinquent IPF employers, and 
+323 delinquencies in the hands of counsel, of which 86 
+ultimately had to be litigated. Section 502(e)(2) of 
+ERISA (29 U.S.C. § 1132(e)(2)) provides that the 
+IPF may institute all its collection cases in Washington, 
+D.C. “where the plan is administered,” regardless of where 
+the participating employer is located. This provision en- 
+ables the IPF to bring all such cases in its home judicial 
+district, resulting in a great savings to the plan in court 
+costs and a great tactical advantage in resolving delin- 
+quencies in the IPF’s home forum.” 
+
+
+1 29 U.S.C. § 1145 (“Delinquent Contributions”). 
+
+
+12 This is the only provision in all of ERISA with a mandatory 
+attorney’s fees requirement. In all other ERISA Title I actions, 
+attorney’s fees are only allowed in the “discretion” of the court. 
+29 U.S.C. § 1132(g) (1). 
+
+
+13 Plans have been successful in defeating motions to transfer 
+collection cases from the place where the plan is administered to 
+the district where the employer is located. See, e.g., Employees 
+Sav. Plan of Mobil Oil Corp. v. Vickery, 99 F.R.D. 188 (S.D.N.Y. 
+1983). 
+
+
+5 
+
+
+For trust funds such as the IPF, there is little difficulty 
+in collecting from employers with ongoing operations. 
+As to those employers, there are assets available for 
+garnishment and execution in the event that they are 
+unable or unwilling to satisfy the judgment. The real 
+problem instead arises when those individuals who control 
+the employer which signed the collective bargaining agree- 
+ment abuse the corporate form, or loot the company after 
+a judgment is entered. If the beneficiaries of the fund 
+are to recover the contributions that are due on their 
+behalf,"* they must “pierce the corporate veil.” 
+
+
+The doctrine of piercing the corporate veil has long 
+been used by the IPF in ERISA cases to secure payment 
+of employer delinquencies. It is a weapon that, while 
+not frequently invoked (because of the difficulties of 
+proof), is nonetheless an essential weapon in the IPF’s 
+arsenal to combat fraud by certain employers. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The question presented by this case is whether federal 
+courts can continue to apply in ERISA cases the well- 
+established doctrine of federal common law veil piercing 
+to allow beneficiaries and funds to recover benefits due 
+them under ERISA. This Court has consistently disre- 
+garded the corporate form and pierced the veil when 
+required to prevent fraud or injustice or to avoid defeat- 
+ing legislative policies. The veil piercing doctrine is a 
+broad “equitable principle,” or a “qualification or denial” 
+of the principle of limited liability. It is not, as the court 
+below recognized, itself a “cause of action”. 
+
+
+14In the case of pension plans, ERISA requires the fund to 
+provide the beneficiary with pension credits regardless of whether 
+the contributions are recovered in the collection process. In the 
+case of health and welfare plans, no such credit need be given and 
+the employees lose medical coverage if the contribution is not 
+made. Delinquencies therefore result in unanticipated costs to 
+pension plans and the loss of medical benefits to those beneficiaries 
+
+
+covered by health plans. 
+
+
+6 
+
+
+The federal common law of veil piercing has been 
+uniformly recognized and applied by the courts of appeals 
+in ERISA delinquency cases. The circuits have all adopted 
+a parallel three-factor federal common law veil piercing 
+test, which “demands a substantial showing” by a plain- 
+tiff that each factor is present. The Fourth Circuit prop- 
+erly applied this familiar test to respondent Thomas’ evi- 
+dence, which proved that Petitioner Peacock siphoned off 
+the assets of Tru-Tech, a corporation he controlled, for 
+his own personal benefit and to deny his employees the 
+ERISA benefits Tru-Tech owed them. Given the difficul- 
+ties of uncovering corporate machinations like Peacock’s, 
+and the substantial evidentiary burden a plaintiff must 
+shoulder, affirmance of the judgment below will not open 
+the litigation floodgates or expose corporate shareholders 
+to unwarranted liability. 
+
+
+The decision below does not create a new “cause of 
+action,” ERISA remedy or category of persons subject to 
+ERISA’s liability, or otherwise run afoul of Mertens v. 
+Hewitt Associates, US. » 113 & Ce. 2063 
+(1993) and Massachusetts Mutual Life Insurance Co. v. 
+Russell, 473 U.S. 134 (1985). Once the court of appeals 
+pierced Tru-Tech’s corporate veil due to Peacock’s abuse 
+of the corporation, Peacock and Tru-Tech became “one 
+for all purposes.” United States v. Lehigh Valley R.R., 220 
+U.S. 257, 272, 274 (1911). The court below properly 
+found him liable under ERISA, not because he is an 
+ERISA fiduciary in his own right, but because he is 
+True-Tech, a conceded ERISA fiduciary. 
+
+
+Taft-Hartley plans faced such daunting problems col- 
+lecting delinquent employer contributions that Congress 
+amended ERISA in 1980 to give it even more “teeth.” 
+Against this background, reversal of the Fourth Circuit 
+would take away a weapon ERISA plans had even before 
+the 1980 amendments, and run counter to Congress’ ex- 
+press intent to facilitate plan collections from delinquent 
+employers, including those who loot their corporations. 
+
+
+7 
+
+
+Every court to have addressed the issue in an ERISA 
+case has recognized the veil piercing doctrine, even those 
+which, consistent with Mertens, have simultaneously re- 
+buffed attempts to expand ERISA’s definition of “em- 
+ployer” in order to reach corporate officers. Indeed, these 
+decisions affirmatively, and correctly, find that to sanction 
+corporate abuses like Peacock’s in the ERISA context 
+would thwart Congress’ discernible intent. 
+
+
+Contrary to Petitioner’s argument, state law cannot 
+govern here. First, collection of employer delinquencies 
+can only be brought in federal court. Second, because 
+Peacock stands in the shoes of a fiduciary in breach, 
+Thomas’ second action clearly “relates to” an ERISA 
+plan, and state law would be preempted by ERISA. 
+
+
+Under Peacock’s theory, the veil piercing doctrine could 
+be used in an ERISA case only if the corporate officer 
+was brazen or witless enough to abuse the corporate form 
+(and the beneficiaries or fund lucky enough to learn of 
+the abuses) before an adverse judgment was entered 
+against the corporation. If neither event occurred before 
+judgment, the federal doctrine (and a federal forum) 
+would be unavailable. But the availability of veil piercing 
+in ERISA cases cannot turn on the fortuity of the timing 
+of the “corporate strategies” employed by schemers like 
+Peacock, if only because such a rule would reward those 
+who are the cleverest and most sophisticated in the use 
+of the veil to disguise their siphoning off of corporate 
+assets. 
+
+
+Finally, reversal here would deprive Taft-Hartley and 
+other ERISA funds of important procedural and tactical 
+advantages Congress was careful to afford them, such 
+as the right to sue employers in the district where the plan 
+is administered, and to effect nationwide service of process. 
+What Peacock advocates would not only strip away these 
+statutory protections, but would also mean that every 
+ERISA delinquency case involving veil piercing would be 
+
+
+brought in two states, in two forums and under two sets 
+of laws—first in federal court (and under federal law) 
+where the Plan is administered, and then, under state law, 
+in whatever state the employer happened to be located. 
+This patchwork of litigation, with its attendant expense 
+and difficulty for the funds, is obviously desirable for 
+corporate manipulators like Peacock (whose goal it is to 
+cheat their employees out of ERISA benefits), but harm- 
+ful to fund beneficiaries. Allowing Peacock to reach that 
+goal in this fashion is contrary to the letter and the spirit 
+of ERISA. 
+
+
+ARGUMENT 
+
+
+I. THE ORIGINS AND NECESSITY OF THE CORPO- 
+RATE VEIL PIERCING DOCTRINE 
+
+
+Chief Justice Marshall observed nearly 200 years ago 
+that a corporation is “an artificial being, invisible, intangi- 
+ble, and existing only in contemplation of law.” Trustees 
+of Dartmcuth College v. Woodward, 17 U.S. (4 Wheat.) 
+250, 303 (1819). The venerable doctrine of “piercing the 
+corporate veil” is a necessary reality check on this legal 
+fiction, and its attendant privilege of limited liability. As 
+Professor Wormser (who apparently popularized the term 
+“veil piercing”) has written, 
+
+
+[s]ince the element of personality is an extraordinary 
+privilege conferred upon the corporation by the law, 
+and involves the employment of a fiction, . . . “[the 
+corporate form] must be used for legitimate business 
+purposes and must not be perverted”... . 
+
+
+I. Maurice Wormser, Disregard of the Corporate Fiction 
+and Allied Corporation Problems 8-9 (New York: Baker, 
+Voorhis & Co. 1927) (citation omitted). Accordingly, 
+
+
+the fiction will be disregarded and the law will look 
+to see the men and facts behind the fiction whenever 
+it is employed “to defraud creditors, to evade an 
+existing obligation, to circumvent a statute, to achieve 
+
+
+9 
+or perpetuate monopoly, or to protect knavery and 
+crime.” 
+Id. at 40. 
+
+
+These doctrines are likewise firmly embedded in the 
+jurisprudence of this Court, which has 
+
+
+long recognized “the broader equitable principle that 
+the doctrine of corporate entity, recognized generally 
+and for most purposes, will not be regarded when 
+to do so would work fraud or injustice.” Taylor v. 
+Standard Gas Co., 306 U.S. 307, 322 (1939). In 
+particular, the Court has consistently refused to give 
+effect to the corporate form where it is interposed to 
+defeat legislative policies. 
+
+
+First Nat'l City Bank v. Banco Para El Comercio Ex- 
+terior De Cuba, 462 U.S. 611, 629-30 (1983). See also 
+Anderson v. Abbott, 321 U.S. 349, 362 (1944); Lehigh 
+Valley, 220 U.S. at 271-74. 
+
+
+Limited liability of corporations, then, is a privilege, 
+just as the veil-piercing exception is a prophylactic limita- 
+tion on that privilege. This exception has been variously 
+termed an “equitable principle” (First Nat'l City Bank, 
+462 U.S. at 629), a “qualification or denial” of the 
+principle of limited liability (Anderson, 321 U.S. at 
+362), an “exception” to the “rule” of limited liability 
+(Frank H. Easterbrook & Daniel R. Fischel, Limited 
+Liability and the Corporation, 52 U. Chi. L. Rev. 89 
+(1985)), a “doctrine” (id. at 109), or a “disregard” of 
+the “fiction” of the corporate form (Wormser, supra, at 
+40). But an attempt to pierce the corporate veil 
+
+
+“is not itself a cause of action but rather is a means 
+of imposing liability on an underlying cause of ac- 
+tion ... .” 1 William Meade Fletcher, Fletcher 
+Cyclopedia of the Law of Private Corporations § 41, 
+at 603 (perm. ed. rev. vol. 1990). 
+
+
+Thomas v. Peacock, 39 F.3d 493, 499 (4th Cir. 1994) 
+(emphasis added). 
+
+
+10 
+
+
+Il. THE TEST FOR VEIL PIERCING IN ERISA CASES 
+IS WELL-DEFINED AND DIFFICULT TO MEET 
+
+
+The doctrine of piercing the corporate veil has been 
+applied by many courts in ERISA delinquency cases. As 
+articulated in Alman v. Danin, 801 F.2d 1, 4 (1st Cir. 
+1986), relied upon by the court below (Thomas, 39 F.3d 
+at 504), a court will look to three factors in determining 
+whether to pierce the corporate veil: (1) the respect paid 
+by the individuals to the corporate identity; (2) the fraud- 
+ulent intent of the principals; and (3) the degree of in- 
+justice that would be visited on the litigants by recognizing 
+the corporate identity. Accord United Elec. Workers v. 
+163 Pleasant St. Corp., 960 F.2d 1080, 1092-93 (1st Cir. 
+1992) (Breyer, Selya and Cyr, JJ.). The other courts 
+of appeals have adopted a substantially similar federal 
+common law veil piercing test in ERISA cases. See, e.g., 
+cases cited in id.; see also Operating Eng’rs Pension Trust 
+v. Reed, 736 F.2d 513, 515 (9th Cir. 1984) (Kennedy, 
+J.). 
+
+
+That three-factor test “demands a substantial showing” 
+by a plaintiff that each factor is present. United Elec., 
+960 F.2d at 1092-93. To meet that burden, a litigant 
+must prove, for example, that corporate formalities and 
+independence were ignored (Laborers Clean-Up Contract 
+Admin. Trust Fund v. Uriarte Clean-Up Serv., Inc., 736 
+F.2d 516, 524 (9th Cir. 1984)); that an owner looted 
+the company for the owner’s personal benefit (Laborers’ 
+Pension Trust Fund v. Sidney Weinberger Homes, Inc., 
+872 F.2d 702, 705 (6th Cir. 1988)); that the firm had 
+“wholly inadequate capitalization” (Lowen v. Tower 
+Asset Management, Inc., 829 F.2d 1209, 1221 (2d Cir. 
+1987)); or that the owner abused the corporate form 
+“in an inequitable fashion to avoid its obligations” (Con- 
+tractors, Laborers, Teamsters & Eng’rs Health & Welfare 
+Plan v. Hroch, 757 F.2d 184, 191 (8th Cir. 1985)). The 
+Fourth Circuit here did no more than apply this familiar 
+test to Thomas’ proof which, as the court of appeals 
+
+
+11 
+
+
+found (in a holding Peacock did not appeal to this 
+Court), established that Peacock 
+
+
+engaged in a “corporate strategy” with “the specific 
+intent and purpose . . . [of] siphon{ing] off [Tru- 
+Tech’s] assets to favored creditors owned or con- 
+trolled by Peacock and to defeat collection of the 
+Thomas judgmert.” 
+
+
+Thomas, 39 F.3d at 505. 
+
+
+Permitting funds such as the IPF to continue to pursue 
+unscrupulous individuals like Peacock will not subject 
+officers and shareholders of legitimate corporations to 
+wholesale imposition of ERISA liability. The “piercing” 
+doctrine will continue to come into play only when a 
+plaintiff makes a “substantial showing” that there has 
+been a total disregard of the corporate form, or that the 
+corporation has been converted into a vehicle to defraud 
+beneficiaries. In (and only in) those circumstances, the 
+perpetrators will be denied the protection of the corporate 
+veil, not because there is an independent “cause of action” 
+against them under a “piercing” theory, but because the 
+wrongdoer is no longer entitled to the protection of the 
+legal fiction of the corporate shield, and will be deemed 
+to be the corporation and, as such, liable under ERISA 
+for the payment of contributions. 
+
+
+Ill. THE UNIVERSALLY RECOGNIZED FEDERAL 
+VEIL PIERCING DOCTRINE FOLLOWED BY THE 
+FOURTH CIRCUIT IS CONSISTENT WITH ERISA 
+AND THIS COURT’S TEACHINGS 
+
+
+Petitioner cites no case (because to our knowledge there 
+is none) in which a court has refused to apply the veil 
+piercing doctrine to any other federal statute. Peacock 
+nonetheless argues that Congress chose ERISA as its first 
+vehicle to forbid federal courts from piercing the corpo- 
+rate veil, thereby allowing abuses of the corporate form 
+designed to evade ERISA obligations, to be remedied 
+(if at all) in the state courts. 
+
+
+12 
+
+
+Petitioner never comes to grips with the fact that every 
+court facing the issue has recognized that veil piercing is 
+available in an appropriate ERISA breach of fiduciary 
+duty case, as in all others. See, e.g., Massachusetts 
+Laborers’ Health & Welfare Fund v. Starrett Paving Corp., 
+845 F.2d 23, 26-27 (1st Cir. 1988) (Breyer, J.); United 
+Elec., 960 F.2d at 1091-93; Connors v. P & M Coal Co., 
+801 F.2d 1373, 1377-78 (D.C. Cir. 1986) (Scalia, 
+Ginsburg, D. & Buckley, JJ.); International Bhd. of 
+Painters v. George A. Kracher, Inc., 856 F.2d 1546, 
+1547, 1550 & n.28 (D.C. Cir. 1988); Hroch, 757 F.2d 
+at 190-91; Laborers Clean-Up Contract Admin. Trust, 
+736 F.2d at 523-25; Solomon v. Klein, 770 F.2d 352, 
+353-54 (3d Cir. 1985); Laborers’ Peiision Trust Fund, 
+872 F.2d at 704-05; Cement & Concrete Workers Dist. 
+Council Welfare Fund v. Lollo, 35 F.2d 29, 36-37 (2d 
+Cir. 1994).* 
+
+
+What is particularly instructive about this uniform body 
+of appellate court precedent is that in every case where 
+the question was presented, the court of appeals (con- 
+sistent with Mertens) rejected attempts to expand the 
+ERISA definition of “employer,” while simultaneously 
+recognizing that its refusal did not abrogate the doctrine 
+of corporate veil piercing in an ERISA context. Indeed, 
+
+
+15 We note at this juncture that Peacock cites Reich v. Compton, 
+57 F.3d 270 (3d Cir. 1995), as holding directly that “Mertens for- 
+bids any sort of relief . . . against nonfiduciaries for engaging in 
+conduct not prohibited by ERISA” (Pet. Br. 17 n.8), and as provid- 
+ing indirect support for his proposition that ERISA’s definition of a 
+“fiduciary” specifies when the corporate veil may be pierced in an 
+ERISA case. (Pet. Br. 19 & n.12.) The short answer to this citation 
+is that here Peacock (by virtue of his corporate manipulation) 
+stands in the shoes of Tru-Tech, which is a fiduciary and engaged 
+in conduct which is prohibited by ERISA. Moreover (as Peacock’s 
+“Cf.” signal candidly admits), Compton is not a fiduciary veil- 
+piercing case but rather a “prohibited transaction” case brought 
+under the much more technical requirements of 29 U.S.C. § 1106. 
+If it had been a fiduciary veil piercing case, the Third Circuit 
+would have applied the same federal veil piercing test used by the 
+Fourth Circuit here. See Solomon, 770 F.2d at 353-54. 
+
+
+13 
+
+
+the circuit courts were at pains to emphasize that their 
+holdings left the doctrine undisturbed. See Massachusetts 
+Laborers’, 845 F.2d at 25-26; International Brotherhood, 
+856 F.2d at 1547, 1549-50; Solomon, 770 F.2d at 353- 
+54; Connors, 801 F.2d at 1377-78. 
+
+
+What the District of Columbia Circuit said about the 
+“hallmark corporate law” doctrine of limited liability in 
+the ERISA context applies to the equally deep-rooted cor- 
+porate law principle of piercing the corporate veil in 
+ERISA cases: 
+
+
+Surely if Congress had decided to alter such a uni- 
+versal and time-honored concept, it would have sig- 
+naled that resolve somehow in the legislative history. 
+We may usefully recall what quite recently in Con- 
+nors v. P & M Coal Co. we announced: 
+
+
+“We find nothing in the language or purpose of 
+[ERISA] to justify so significant a compromise of 
+the corporate principle of limited liability. . . .” 
+
+
+International Brotherhood, 856 F.2d at 1550. Here, as in 
+International Brotherhood and Connors, there is nothing 
+in the “language or purpose” of ERISA which supports 
+Petitioner’s argument that the Act destroys the federal 
+corporate veil doctrine. To the contrary, the text and 
+intent of the statute affirmatively establish that Congress 
+preserved the doctrine for use in federal court by ERISA 
+beneficiaries and funds. United Elec., 960 F.2d at 1091- 
+93 (collecting cases). As the First Circuit there pointed 
+out, “sanctioning conduct” abusive of the corporate form 
+like that engaged in by Peacock here, would put the 
+federal courts “at cross purposes with Congress and 
+thwart Congress’s discernible intent.” Jd. at 1092. 
+
+
+Petitioner (Pet. Br. 12, 14) argues that by applying the 
+traditional doctrine of veil piercing, the Court of Appeals 
+“expands” ERISA to include a federal “cause of action,” 
+contrary to this Court’s admonition in Mertens, 113 S. Ct. 
+at 2071. This proposition has twin, and independently 
+
+
+14 
+
+
+fatal, flaws. First, as we established in Part I, piercing 
+the corporate veil is in no sense a “cause of action.” ” 
+Rather, piercing the corporate veil simply stands the in- 
+dividual in the shoes of the corporation: 
+
+
+When state law pierces the corporate veil, where 
+the owner is the corporation’s alter ego, where state 
+or other relevant federal law makes the owner liable, 
+it is fairly easy to say that the owner is the corpor- 
+ation, and that the owner is therefore an “employer” 
+(under ERISA’s definition) “who is obligated” (un- 
+der state or other relevant federal law) “to make 
+contributions to” a pension plan. Indeed, in such a 
+case he is an employer already obligated . . . to make 
+the contributions. 
+
+
+¢ 
+
+
+16To be sure, there are cases in which courts in dicta (or liti- 
+gants) loosely use the phrase “cause of action” in reference to 
+the veil piercing theory. See, e.g., Lumpkin v. Envirodyne Indus., 
+Inc., 933 F.2d 449, 460-63 (7th Cir.), cert. denied, 502 U.S. 939 
+(1991). This terminology does not alter the fact that, as the court 
+below concluded, veil piercing is a substantive law “rule” that 
+“determines who is liable for breaches of ERISA fiduciary duties.” 
+Thomas, 39 F.3d at 503. See also id. at 499, 500; Lumpkin, 933 
+F.2d at 460-61; United Elec., 960 F.2d at 1092 and cases there cited. 
+Finally, see Pet. Br. 15, 18, 26 (referring to veil piercing as a 
+“standard” or “rule’). Nor does it mean that veil piercing is a 
+new “cause of action” under Mertens, or a new “remedy” under 
+Russell, 473 U.S. 134. In Mertens (in contrast to this case), because 
+the defendant was concedely not a fiduciary, he could only have 
+been found liable by expanding ERISA’s definition to include a non- 
+fiduciary, an expansion this Court found flew in the face of the text 
+of ERISA. Similarly, in Russell, this Court rejected an attempt to 
+add a new remedy to those Congress had deliberately chosen to 
+incorporate in the statute. 
+
+By contrast, here, as we have shown, Congress explicitly made 
+corporations that exercise fiduciary contro] part of the class of 
+liable persons, and specifically included the remedy for fiduciary 
+breaches Thomas seeks, 29 U.S.C. § 1109. Since it is undisputed 
+in this Court that Peacock “is” his corporation Tru-Tech, it cannot 
+be said that the judgment below “adds” anything to ERISA within 
+the meaning of Mertens or Russell. 
+
+
+15 
+
+
+Massachusetts Laborers’, 845 F.2d at 26 (emphasis in 
+original). See also Lehigh Valley, 220 U.S. at 272, 274 
+(when corporate veil pierced, corporation and those be- 
+hind veil become “one for all purposes” and are treated 
+as “one and inseparable”); Steinberg v. Buczynski, 40 
+F.3d 890, 892 (7th Cir. 1994) (those who abuse cor- 
+porate form deemed to “stand in the shoes of their cor- 
+poration as debtors to the pension fund”). 
+
+
+Second, Petitioner ignores the fundamental differences 
+between this case and Mertens. Unlike Mertens, this case 
+(and collection cases generally) do not involve the ques- 
+tion of expanding the definition of “fiduciary” beyond the 
+explicit categories enumerated in ERISA.” Rather, they 
+raise the issue of who in fact is the corporate employer, 
+a fictional entity ERISA on its face makes liable for the 
+payment of contributions on behalf of its employees. See 
+Massachusetts Laborers’, 845 F.2d at 24. When, in an 
+appropriate case, a court lifts the corporate veil and im- 
+poses liability on its controlling individuals or entities, it 
+does not “expand” the class of liable persons. To the 
+contrary, a court in that instance imposes liability on the 
+
+
+17 Petitioner makes much of the fact that Thomas is attempting 
+to pierce the corporate veil against Peacock when Peacock was 
+found, in the first proceeding, not to be a fiduciary. In ERISA 
+Taft-Hartley fund collection actions, the issue of whether the de- 
+linquent employer is a “fiduciary” never comes into play because 
+an employer does not have discretion and control over fund assets 
+(as required for fiduciary status under Mertens) and cannot gain 
+such discretion and control because participating employers are 
+“parties in interest” under ERISA. 29 U.S.C. §$§ 1003(14), 1106. 
+Consequently, the issue of fiduciary status is irrelevant under 
+§§ 1132(g) (2) and 1145. Moreover, as we show infra, Petitioner’s 
+reliance on Mertens is misplaced even outside the Taft-Hartley 
+collection context. 
+
+
+18 The standards for piercing the corporate veil (respect for 
+corporate identity, fraudulent intent, etc.) are different from those 
+used to determine who is an ERISA fiduciary (discretionary con- 
+trol or authority over fund assets or management). See, e.g., 
+Thomas, 39 F.3d at 503 n.14; 29 U.S.C. § 1002(21) (A); Mertens, 
+113 S. Ct. at 2066. 
+
+
+16 
+
+
+very persons who, but for the privilege of limited liability 
+afforded by the legal fiction of the corporate form, would 
+have been so liable in the first place. 
+
+
+Such a result is not only commanded by the text of 
+ERISA, but also furthers the ERISA policies of keeping 
+ERISA plans solvent and ensuring that unscrupulous cor- 
+porate schemers like Peacock do not abuse the corporate 
+form so as to deny ERISA beneficiaries the retirement 
+benefits they have worked hard to earn. See Ryan, 767 
+F.2d at 1173. The response to Petitioner’s contention 
+that ERISA (alone in all the law) compels federal courts 
+to allow the Peacocks of the corporate world to (in Pro- 
+fessor Wormser’s words) use the fiction of the corporate 
+form to “defraud creditors” like ERISA beneficiaries, 
+“evade existing obligations” to their employees, “circum- 
+vent a statute” such as ERISA, or to “protect knavery” 
+akin to the corporate shenanigans Peacock concededly 
+resorted to here, should be “not while this Court sits.” 
+See Anderson, 321 U.S. at 366-67; Lehigh Valley, 220 
+U.S. at 273-74. 
+
+
+IV. THIS COURT SHOULD DECLINE PETITIONER’S 
+INVITATION TO DEPRIVE ERISA PLANS OF A 
+CRITICAL WEAPON IN EMPLOYER DELIN- 
+QUENCY CASES 
+
+
+The problem of employer delinquencies was so acute 
+and posed such an economic threat to the well-being of 
+Taft-Hartley funds that in 1980, the statute was amended 
+to give it “teeth.” See Ryan, 767 F.2d at 1173-74. Na- 
+tional funds like the IPF must chase thousands of delin- 
+quent employers every year. The most difficult delin- 
+quency cases do not involve employers with ongoing 
+operations, but employers who are “here today and gone 
+tomorrow.” More and more, this phenomenon of the 
+vanishing or insolvent employer is attributable to fraud 
+rather than any economic malaise. In those instances 
+when an employer has disregarded the corporate form 
+in order to perpetrate a fraud on creditors, including the 
+
+
+17 
+
+
+fund, the doctrine of piercing the corporate veil has 
+proven to be the only effective weapon.” 
+
+
+This is not a case in which beneficiaries or Taft-Hartley 
+funds are asking the Court for expanded powers under 
+ERISA. The doctrine of piercing the corporate veil is so 
+well-established and so widely accepted by the courts that 
+it has been used for decades to combat corporate fraud 
+in ERISA cases. Peacock now asks this Court to turn 
+back the clock by taking that weapon away from the funds 
+and relegating them to the vagaries of state litigation. 
+Such action not only would be contrary to the policy of 
+ERISA, but would be unfair to those that Congress ex- 
+pressly sought to protect. 
+
+
+V. STATE LAW CANNOT GOVERN ERISA CASES IN 
+WHICH THE DOCTRINE OF PIERCING THE COR- 
+PORATE VEIL IS INVOKED 
+
+
+A. Employer Delinquency Cases Must Be Litigated In 
+Federal Court 
+
+
+Petitioner argues that piercing the corporate veil is a 
+matter traditionally committed to the states, which are 
+
+
+19 A recent IPF experience illustrates the point. On July 20, 
+1993, the IPF obtained a judgment against two companies, Shared 
+Management Group, Ltd. and Division 4 Masonry Inc., both of 
+which thereafter closed their doors. IPF subsequently obtained 
+documents that revealed a “silent partner,” Robert Sansone, who 
+was the sole shareholder of the companies. In the IPF’s asset 
+discovery of the defunct companies, it was learned that neither 
+company had followed the corporate formalities, such as holding 
+annual meetings of the directors and shareholders. In addition, 
+Sansone borrowed mone) {rom each corporation without appropriate 
+loan documentation. While insolvent, the corporations repaid money 
+to several of its “investors” who were associated with Sansone. 
+A new action thereafter: was filed by the IPF, this time naming 
+Sansone as a defendant and seeking recovery under the doctrine of 
+piercing the corporate veil. Following Sansone’s deposition, the 
+matter was resolved by Sansone’s payment of the full contributions 
+owed by the defunct corporations. Joyce v. Shared Management, 
+Civ. No. 98-0974 (D.D.C. filed May 11, 1993); Joyce v. Sansone, 
+Civ. No. 94-02137 (D.D.C. filed Oct. 4, 1994). 
+
+
+18 
+
+
+competent to adjudicate such issues. (Pet. Br. 25-28). 
+But, at least as to the collection of employer delinquencies 
+under 29 U.S.C. § 1132(g)(2) of ERISA, the states lack 
+jurisdiction to do so. 29 U.S.C. § 1132(e)(1) provides 
+in pertinent part: 
+Except for actions under subsection (a) ( 1)(B) of 
+the section [actions by beneficiaries], the district 
+courts of the United States shall have exclusive 
+jurisdiction of civil actions under this subchapter 
+brought by . . . a fiduciary.... 
+
+
+If Petitioner is correct that state courts alone may em- 
+ploy the doctrine of piercing the corporate veil in ERISA 
+cases, then individuals who defraud fund beneficiaries 
+will be immune from prosecution under ERISA or state 
+law, because federal jurisdiction is exclusive. When Con- 
+gress has so clearly expressed its desire to protect those 
+beneficiaries by putting “teeth” in the statute, it would 
+be anomalous to provide fewer rights and protections for 
+those beneficiaries than for everyone else. 
+
+
+B. Federal Jurisdiction Over ERISA Actions For 
+Collection Of Employer Delinquencies Is Exclusive 
+And State Law Is Preempted 
+
+
+Peacock asserts that state veil piercing laws are not 
+preempted by ERISA because they do not “relate to” an 
+employee benefit plan. (Pet. Br. 21-25.) To support 
+this theory, Petitioner points out that the Tru-Tech plan 
+is “long gone,” such that the amended complaint cannot 
+
+
+relate to ERISA. (Pet. Br. 22.) 
+
+
+Petitioner's contention that ERISA has disappeared 
+from this case is simply wrong. Although it is true that 
+Peacock’s scheme to siphon off corporate assets for his 
+own benefit was well disguised and necessitated a second 
+legal action, this does not alter the fact that the second 
+action remained an ERISA collection action brought to re- 
+cover for damages to plan beneficiaries. Had Thomas been 
+aware of Peacock’s misdeeds at the time the first suit was 
+
+
+— 
+
+
+19 
+
+
+filed, he would have named Peacock as a defendant, nof 
+as a fiduciary, but as a person who was the corporation 
+under the doctrine of piercing the corporate veil.”” Given 
+the success of Peacock’s scheme, Thomas was entitled to 
+name him as a defendant in the second action and seek 
+relief, under the federal common law doctrine of piercing 
+the corporate veil, for the ERISA contributions owed by 
+his corporation. 
+
+
+Under Peacock’s theory, the availability of the veil 
+piercing doctrine in an ERISA case would turn on the 
+timing of corporate machinations. Thus, Peacock asserted 
+below that Thomas could and should have made his veil 
+piercing contention when he filed his first complaint, even 
+though Peacock had then yet to embark on his nefarious 
+“corporate strategy” to avoid his company’s ERISA obli- 
+gations. Thomas, 39 F.3d at 503 n.14. In the same 
+breath (using the Catch-22 approach that also drives his 
+preemption argument), Peacock contends that because he 
+manipulated and abused the corporate form after the ini- 
+tial judgment had been entered and Peacock found (on 
+the then known facts) not to be a fiduciary, ERISA pre- 
+vents Thomas from relying on a veil piercing doctrine to 
+enforce the judgment against Peacock. 
+
+
+Two responses are in order. First, the availability of 
+the doctrine cannot turn on the timing of the corporate 
+scheme, if only because such a rule would reward those 
+who lie in the weeds (or conceal their strategy) until 
+after a judgment is entered. Second, that Peacock was 
+found not to be a fiduciary in the first phase of the litiga- 
+tion is irrelevant for, as Mertens recognizes, persons other- 
+wise not liable under ERISA, may “become liable for 
+damages” whenever they “cross the line” drawn by 
+ERISA between non-fiduciaries and fiduciaries by engag- 
+
+
+© Indeed, Peacock claimed below that Thomas should have and 
+(more importantly for present purposes) could have, named Pea- 
+cock as a defendant under a veil piercing theory in his initial 
+complaint. See Thomas, 39 F.3d at 508 n.14. 
+
+
+20 
+
+
+ing in conduct that brings them within the reach of the 
+statute. 113 S. Ct. at 2071-72." Here, of course, Peacock 
+“crossed the line” when he abused Tru-Tech’s corporate 
+form and stepped into the corporation’s shoes. Then (but 
+only then) could it be said that Peacock “simply is the 
+corporation.” Massachusetts Laborers’, 845 F.2d at 24 
+(emphasis in original). See also Thomas, 39 F.3d at 
+502 n.11. 
+
+
+Finally, Thomas’ second action against Peacock in any 
+event had to be brought in federal court. That is so 
+because it “relates to” an employee benefit plan, as it 
+sought to recover damages awarded under ERISA for 
+breach of fiduciary duty by Peacock’s corporation. 29 
+U.S.C. § 1109. In these circumstances, where the benefi- 
+ciaries sought to pierce the veil and impose that liability 
+on Peacock, state corporate law is preempted and federal 
+common law must govern.” 
+
+
+C. Relegating These Actions To State Court Would 
+Deny The IPF And Other Funds Important Proce- 
+dural Safeguards 
+
+
+Peacock contends that a rule requiring veil piercing 
+actions to be brought in state court would in no way 
+
+
+21 Compare Farm King Supply, Inc. Integrated Profit Sharing 
+Plan & Trust v. Edward D. Jones & Co., 884 F.2d 288 (7th Cir. 
+1989) (broker who followed investment adviser’s instructions in 
+executing transactions is not a fiduciary) with Olson v. E.F. Hutton 
+& Co., 957 F.2d 622, 626 (8th Cir. 1992) (broker whose advice 
+served as a primary basis for investment decisions was a fiduciary). 
+
+
+22 The statement in Mackey v. Lanier Collection Agency & Serv., 
+486 U.S. 825, 883 (1988), that “ERISA does not provide an enforce- 
+ment mechanism for collecting judgments won” does not change 
+this result. As the Fourth Circuit held (Thomas, 39 F.3d at 502), 
+Mackey would only be relevant if this were an action to execute 
+on the judgment Thomas won below (by way of garnishment of 
+Peacock’s wages, for example, as was the case in Mackey). But 
+that enforcement action is yet to come, and will only take place 
+if this Court affirms the judgment. Until this Court does +o, there 
+is no final judgment against Peacock to “collect” or “enforce.” 
+See Thomas, 39 F.3d at 503. 
+
+
+21 
+
+
+thwart uniformity or undermine any other ERISA policy. 
+(Pet. Br. 25-28.) However, every court presented with 
+the question has reached the contrary result, concluding 
+that ERISA mandates a federal common law of veil pierc- 
+ing. See cases cited in Part III, supra. 
+
+
+Additionally, it is important to recognize that the rule 
+Peacock advocates would operate to the severe detriment 
+of plans such as the IPF. Since 29 U.S.C. § 1132(e)(2) 
+allows ERISA actions to be brought where the plan is 
+“administered,” the IPF can bring suit against any of 
+its thousands of participating empleyers in Washing- 
+ton, D.C., and can effect nationwide service of proc- 
+ess to obtain jurisdiction over them there. The provi- 
+sion confers at least two substantial benefits on the IPF. 
+First, there is the saving realized by suing in one juris- 
+diction through one counsel, as opposed to retaining coun- 
+sel throughout the United States. Indeed, delinquencies 
+can be handled on an “assembly line” basis, reducing costs 
+to the plan. Second, § 1132(a)(2) affords a significant 
+tactical advantage to plans like the IPF. A California 
+employer sued in Washington, D.C. is much more likely 
+to settle the matter than if the litigation were brought in 
+its home district. This ERISA provision therefore pro- 
+duces both savings and tactical benefits. 
+
+
+If Peacock’s proposal were adopted, every ERISA de- 
+linquency case in which it is necessary to “pierce the 
+corporate veil” would be litigated at least in two stages 
+in two forums, and under both state and federal law. 
+In the first phase, suit would be brought and decided 
+under federal law in the federal court where the plan is 
+administered, just as are the many other delinquency suits 
+instituted by the fund. In the second phase, suit would 
+have to be brought (says Peacock) in the state court 
+located in the employer’s home district, under state law 
+rather than federal common law, to obtain a judgment 
+from the person hiding behind the corporate veil. We 
+submit that there is no basis for allowing delinquent em- 
+
+
+22 
+
+
+ployers, who have cheated their employees out of con- 
+tribution payments, to enjoy procedural benefits and 
+require funds to engage in costly nationwide litigation, 
+particularly at the expense of advantages now enjoyed by 
+ERISA plans. 
+
+
+CONCLUSION 
+The court of appeals should be affirmed. 
+
+
+Respectfully submitted, 
+
+
+IRA R. MITZNER 
+Counsel of Record 
+
+Woopy N. PETERSON 
+
+CARLA M. MARCOLIN 
+DICKSTEIN, SHAPIRO & 
+MorIn, L.L.P. 
+2101 L Street, N.W. 
+Washington, D.C. 20037-1526 
+(202) 785-9700 
+
+Attorneys for Amicus Curiae 
+Bricklayers & Trowel Trades 
+
+September 6, 1995 International Pension Fund 
+
+

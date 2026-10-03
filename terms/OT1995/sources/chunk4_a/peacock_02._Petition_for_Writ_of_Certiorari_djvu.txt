@@ -1,0 +1,5076 @@
+js 
+941453 MAR 11995 
+
+
+NO.—orrIre OF THE CLERK 
+j ——____E_TOSYNrL__£€__€__ _____—_——_ ___ 
+
+
+In THE 
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1994 
+
+
+JACK L. THOMAS, 
+Respondent, 
+
+
+V. 
+
+
+D. GRANT PEACOCK, 
+Petitioner. 
+
+
+Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+DAVID L. FREEMAN 
+(Counsel of Record) 
+J. THEODORE GENTRY 
+
+
+WYCHE, BURGESS, FREEMAN 
+& PARHAM, P.A. 
+
+Post Office Box 728 
+
+44 East Camperdown Way 
+
+Greenville, SC 29602 
+
+(803) 242-8200 
+
+Attorneys for Petitioner 
+D. Grant Peacock 
+
+
+WILSON - Eres Printinc Co., Inc. - 789-0096 - WASHINGTON, D.C. 20001 
+
+
+iT \ L.. 2aJ 
+
+
+————— —_ 
+
+
+QUESTIONS‘ PRESENTED FOR REVIEW 
+
+
+1. Whether, consistent with Article III of the Constitu- 
+
+
+tion and the decision of this Court in H.C. Cook Co. 
+v. Beecher, 217 U.S. 497, 30 S. Ct. 601 (1910), a 
+federal court may automatically assert “ancillary” ju- 
+risdiction over a separate lawsuit, involving separate 
+facts, filed for the purpose of collecting a prior fed- 
+eral judgment from a party other than the judgment 
+debtor. 
+
+
+. Whether, under this Court’s holdings in Mertens v. 
+
+
+Hewitt Associates, 113 S. Ct. 2063 (1993), and 
+Mackey v. Lanier Collection Agency & Service, 486 
+U.S. 825, 108 S. Ct. 2182 (1988), a court may derive 
+from ERISA, and impose on a nonfiduciary, a sub- 
+stantive ERISA remedy for the collection of a judg- 
+ment entered pursuant to ERISA in a prior lawsuit. 
+
+
+(i) 
+
+
+TABLE OF CONTENTS 
+
+
+TABLE OF AUTHORITIES 
+
+
+II Rieetheditilnsiinreticbicinipsctecteeamentvoutencesmasrsiies 
+IIT cllaidhdicsclsteiandterentindoubtennnincastaintecabowanicians 
+
+
+SE SE re 
+C. Proceedings Below in the Instant Case ................. 
+1. Before the District Court....... SEES A 
+2. In the Court of Appeals .2....................cees-eneee 
+
+
+II. THE DECISION BELOW IS IN CONFLICT 
+WITH THIS COURT’S DECISIONS IN 
+BEECHER AND KOKKONEN AND WITH 
+DECISIONS OF SEVERAL OTHER CIR- 
+CUITS. IT HAS THE POTENTIAL TO 
+GREATLY EXPAND THE SCOPE OF FED- 
+SUROUED PUPP IO oasncsscccscecccsescccecenssvcesesncsee 
+
+
+A. This Court Should Grant Certiorari to Re- 
+affirm the Validity of its Controlling Opinion 
+in Beecher, Which Has Come into Question... 
+
+
+B. The Decision Below Broadens a Substantial 
+Split of Authority Over the Scope of Fed- 
+eral Ancillary Jurisdiction .............................. 
+
+
+1. Cases Disagreeing with the Fourth Cir- 
+Cee htew ions 
+
+
+2. Cases Agreeing with the Fourth Circuit.. 
+(iii) 
+
+
+nonaowwTs- &*-§ © wb we Ww 
+
+
+10 
+
+
+13 
+
+
+13 
+16 
+
+
+iv 
+TABLE OF CONTENTS—Continued 
+
+
+Ill. THE DECISION BELOW, BY FASHIONING 
+AN ERISA REMEDY FOR ENFORCEMENT 
+OF AN ERISA JUDGMENT, AND IMPOSING 
+IT ON ONE HELD NOT TO BE A FIDUCI- 
+ARY, CONFLICTS WITH THIS COURT’S 
+RECENT DECISIONS INTERPRETING 
+
+
+A. In Mertens, This Court Held That Courts 
+Should Not Fashion ERISA Remedies Not 
+Expressly Created by Congress. The Court 
+Below Derived Just Such a Remedy from 
+EID cnnscisionsieciitbtiiiniliniicin Rete pint Bee = 
+
+
+B. Mertens is Also Violated by the Imposition 
+of a Substantive ERISA Remedy Against a 
+Person Adjudged Not to be a Fiduciary........ 
+
+
+C. By Fashioning a Separate, Substantive 
+ERISA Remedy for the Enforcement of 
+ERISA Judgments, the Fourth Circuit also 
+Violated this Court’s Decision in Mackey.... 
+
+
+D. The Decision Below Contributes to a Broad 
+and Continuing Confusion over the Respect 
+to be Accorded the Corporate Veil in ERISA 
+Litigation. The Court’s Guidance is Needed 
+ke eee eee eae 
+
+
+CONCLUSION 
+
+
+FEET EEE TTT TOTS SOSH ERR eee’ 
+
+
+p EELY I EES eet ee 
+
+
+SED tiadescciithicesstisttihiciiiilininstetaedit rls eine ee eS 
+ON icttcncitiiteiciiiticmaiititae ee a 
+
+
+Appendix D 
+
+
+FEE EEE EEE EEE EE EEE EEE ETT SEEKS H eee renee eeeeeee 
+
+
+Appendix E 
+
+
+SOOTHES EH ES TEESE SESESE EE SEEE SE EEEE SESEEESESSS SSE SES ESESS 
+
+
+Appendix F 
+
+
+FOTOS SELLE SEH SEE ES SSOS SO SSEESSSSEESE SS EESS SEEESS COE ESS COS SeCoeee 
+
+
+Page 
+
+
+18 
+
+
+18 
+
+
+19 
+
+
+21 
+
+
+Vv 
+
+
+‘ 
+TABLE OF AUTHORITIES 
+Cases Page 
+
+
+Alman v. Danin, 801 F.2d 1 (1st Cir. 1986) ......... ao 
+Argento v. Village of Melrose Park, 838 F.2d 1483 
+(7th Cir. 1988) .............. 10-13, 16 
+Berry v. McLemore, 795 F.2d 452 (5th Cir. 1986)... 6, 9, 
+13, 14, 15 
+Blackburn Truck Lines v. Francis, 723 F.2d 730 
+Cy Gh ID ehccd ible centittncptnbtiicctentititncnevesitictiniatibit 10, 17 
+Connors v. P&M Coal Co., 801 F.2d 1373 (D.C. Cir. 
+RSET CS RT Lh ss 9 23 
+Fidelity & Casualty Co. v. Reserve Ins. Co., 596 
+F.2d 914 (9th Cir. 1979) ............ S ad 
+H. C. Cook Co. v. Beecher, 217 U.S. 497, 30 S. Ct. 
+Re PT SE ee 6, passim 
+International Bhd. of Painters v. George A. 
+Kracher, Inc., 856 F.2d 1546 (D.C. Cir. 1988) .... 23 
+Kokkonen v. Guardian Life Insurance Co., 114 
+
+
+9, 16 
+
+
+A EE LTTE a ce ee 8-13 
+Lowen v. Tower Asset Management, Inc., 829 F.2d 
+
+By I iia ici ceiiintiasinrdlinns 22 
+Mackey v. Lanier Collection Agency & Service, 
+
+486 U.S. 825, 108 S. Ct. 2182 (1988) ...... 7, 8, 18, 21, 22 
+Manway Constr. Co. v. Housing Auth. of the City 
+
+of Hartford, 711 F.2d 501 (2d Cir. 1983) .......... 10, 15 
+Massachusetts Mut. Life Ins. Co. v. Russell, 473 
+
+U.S. 134, 105 S. Ct. 3085 (1985) ..........00000..0....... 19 
+Mertens v. Hewitt Associates, 113 S. Ct. 2063 
+
+a a a al 8, 18, 19, 20, 22 
+National Westminster Bank U.S.A. v. Cheng, 751 
+
+F. Supp. 1158 (S.D.N.Y. 1990) ........000000000..... 10, 14, 15 
+Operating Engineers Pension Trust v. Reed, 726 
+
+ee ceusinessennens 23 
+Owen Equipment & Erection Co. v. Kroger, 437 
+
+U.S. 365, 98 S. Ct. 2396 (1978) 0.00.00. 11,13 
+Redding Ford v. California State Bd. of Equaliza- 
+
+tion, 722 F.2d 496 (9th Cir. 1983) ......000002000.. 9, 16 
+Riggs v. Johnson County, 73 U.S. (6 Wall.) 166 
+
+4 ASS EEE Re, aa eee nr 5, 14 
+Sandlin v. Corporate Interiors, Inc., 972 F.2d 1212 
+
+ERI RETO ERS a 6, 9, 14, 15 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES—Continued 
+Page 
+
+
+Sederquist v. Court, 861 F.2d 554 (9th Cir. 1988).. 9,16 
+Skevofilaz v. Quigley, 810 F.2d 378 (3d Cir. 1987) 
+
+
+I CRI cccuicstnssercestintianntanintnietine dae 10, 12, 18, 16 
+Sullivan v. Hochfelder, 834 F. Supp. 1036 (N.D. 
+| ERR ER Mtr Os Mets A is al 10 
+
+
+Thomas v. Peacock, 39 F.3d 493 (4th Cir. 1994) ..5, passim 
+Thomas v. Tru-Tech, Inc., 900 F.2d 256 (table 
+
+
+Statutes 
+
+
+only), 1990 WL 48865 (4th Cir. Apr. 3, 1990) .... 4 
+dS oe 2 |: | nano ee marr es 2 
+SD ey Oe I hethhtetttnciccntcstsinclassinicnimitnondiinatebatied 2,11, 73a 
+BP ae OO CAD cceccctcsstsonsersnevtntenssisclaiithennitten 20 
+BP Ns Op Si iicceuncshtcithntemndinaniamiiineslide 2, 7,9, 21, 7la 
+
+
+f 
+
+
+(In THE 
+Supreme Court of the Anited States 
+
+
+OCTOBER TERM, 1994 
+
+
+No. 
+
+
+JACK L. THOMAS, 
+. Respondent, 
+D. GRANT PEACOCK, 
+
+Petitioner. 
+
+
+Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+D. Grant Peacock respectfully petitions for a writ of 
+certiorari to review the judgment of the United States 
+Court of Appeals for the Fourth Circuit in this case. 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals, App., infra, at 1a, 
+is reported at 39 F.3d 493. The opinions of the district 
+court are unreported. App., infra, at 30a, 54a. 
+
+
+JURISDICTION 
+
+
+The court of appeals entered its judgment on Novem- 
+ber 4, 1994. Petitioner timely sought rehearing by the 
+Fourth Circuit, and that request was denied on December 
+
+
+2 
+
+
+2, 1994. This Court’s jurisdiction is invoked pursuant to 
+28 U.S.C. § 1254(1). 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+Section 502(a) of the Employee Retirement Income 
+Security Act (“ERISA”), 29 U.S.C. § 1132(a), enumer- 
+ates the private causes of action available under ERISA. 
+Its text is set forth in the Appendix, infra, at 71a. 
+
+
+Section 502(e)(2) of ERISA, 29 U.S.C. § 1132 
+(e)(2), ERISA’s nationwide service of process provision, 
+provides: 
+
+
+“Where an action under this title is brought in a dis- 
+trict court of the United States, . . . process may be 
+served in any other district where a defendant resides 
+or may be found.” 
+
+
+28 U.S.C. § 1367 codifies the law of ancillary and 
+pendent federal court jurisdiction. Its text is set forth in 
+the Appendix, infra, at 73a. 
+
+
+STATEMENT 
+A. Overview. 
+
+
+This is a collection action, filed in federal court against 
+Petitioner for the purpose of collecting a judgment ob- 
+tained against a corporation, Tru-Tech, Inc., in a previous 
+lawsuit in federal court. Petitioner Grant Peacock asserted 
+that the action should be dismissed, among other reasons, 
+because the district court lacked jurisdiction over the dis- 
+pute. The opinion below observed that there is no diver- 
+sity jurisdiction here, and that the only potential basis 
+for federal jurisdiction is that the action seeks to enforce 
+a prior federal court judgment. 
+
+
+The Fourth Circuit held that this jurisdictional basis 
+is sufficient—that a federal court has “ancillary jurisdic- 
+tion” over a separate lawsuit brought for the purpose of 
+collecting a prior federal judgment from a person other 
+
+
+Tech’s corporate veil. By thus imposing liability on a 
+nonfiduciary, and finding in ERISA an extrastatutory 
+mechanism for the enforcement of ERISA judgments, the 
+decision below came into conflict with this Court’s recent 
+ERISA jurisprudence. 
+
+B. The Prior Lawsuit. 
+
+
+The scene for this case cannot be set without brief 
+reference to the prior related case, Thomas v. Tru-Tech, 
+Inc. (“Tru-Tech”), the ERISA case in which liability 
+was imposed upon Tru-Tech as a plan fiduciary, but Pe- 
+titioner Grant Peacock was absolved of liability and ex- 
+pressly held not to be a fiduciary. The instant case is 
+essentially an effort by Respondent Thomas to find a 
+solvent defendant to pay the judgment rendered in Tru- 
+Tech. 
+
+
+On the question of Petitioner Peacock’s fiduciary status, 
+the Fourth Circuit upheld the district court’s conclusion 
+that he was not: 
+
+
+[T]he district court held that Peacock acted solely in 
+his capacity as Chairman of the Board of Tru-Tech, 
+not as a fiduciary of the Plan. Indeed, the record re- 
+veals that Tru-Tech’s Board of Directors resolved in 
+a meeting on October 11, 1984, to retain the ten-year 
+cliff vesting schedule. Conceding this, Thomas insists 
+
+
+4 
+
+
+that Peacock, as the principal investor, dominated the 
+Board and had de facto power to make these decisions 
+concerning the Plan. But this influence has scant evi- 
+dentiary support and does not contradict the finding 
+that these decisions were made by the Board, not Pea- 
+cock acting unilaterally. 
+
+
+Thomas v. Tru-Tech, Inc., 900 F.2d 256 (table only), 
+1990 WL 48865 at **3 (4th Cir. Apr. 3, 1990) (un- 
+published; emphasis added). 
+
+
+C. Proceedings Below in the Instant Case. 
+
+
+1. Before the District Court. 
+
+
+Thus, at the conclusion of Tru-Tech, Petitioner Pea- 
+cock was no longer within the jurisdiction of the federal 
+court. Respondent Thomas filed the instant proceeding 
+against Petitioner—an entirely new lawsuit, with a new 
+caption, a new file number, and entirely different factual 
+allegations—to force Petitioner to pay the judgment en- 
+tered against Tru-Tech. The Complaint attempted this 
+through a cause of action styled “Piercing the Corporate 
+Veil Under ERISA and Applicable Federal Law.” The 
+issue for trial was whether Petitioner Peacock, in his 
+dealings with Tru-Tech after the entry of judgment, en- 
+gaged in activities that improperly removed assets from 
+Tru-Tech. 
+
+
+The district court rejected Petitioner’s argument that 
+ERISA does not provide such an independent cause of 
+action as “piercing the corporate veil” (and thus, that 
+ERISA cannot be relied on either for subject matter juris- 
+diction or for personal jurisdiction by virtue of ERISA’s 
+nationwide service of process). App. infra, at 50a, 65a. 
+
+
+Instead, the district court accepted the theory that 
+ERISA provides a cause of action for piercing the cor- 
+porate veil of an ERISA fiduciary to reach its non- 
+fiduciary shareholders. App., infra, at 43a-50a. It also held 
+that the corporate veil should not be accorded great sig- 
+
+
+5 
+
+
+nificance in an ERISA case, given the “broad, remedial 
+scope” of ERISA. App., infra, at 50a. “The congres- 
+sional intent of ERISA,” the district court concluded, “is 
+to hold employers responsible for pension benefits, so 
+that when the corporate form poses a bar to liability, 
+concerns for corporate separateness are secondary to the 
+mandate of ERISA.” App., infra, at 52a. On this basis, 
+the district court imposed personal liability on Petitioner 
+Peacock for the prior judgment against Tru-Tech. 
+
+
+2. In the Court of Appeals. 
+
+
+The Fourth Circuit affirmed, but not on the ERISA- 
+specific grounds of the district court. Instead, the court 
+of appeals held that an action to pierce the corporate veil 
+of a judgment debtor falls within a federal court’s “an- 
+cillary jurisdiction”—even if the action is commenced as 
+an entirely separate lawsuit. This conclusion is in direct 
+conflict with an opinion of this Court, as well as recent 
+decisions in several circuits, regarding the extent of a 
+federal court’s ancillary jurisdiction. 
+
+On the issue of federal jurisdiction, the Fourth Circuit 
+did note that there was no diversity jurisdiction in this 
+case, and “that there is no basis for federal question juris- 
+diction other than the fact that the suit seeks to enforce 
+a judgment obtained pursuant to ERISA.” 39 F.3d at 
+499 n.6, App., infra, at lla. This one fact was held 
+sufficient, however; the court affirmed, on the basis that 
+this separate suit to pierce Tru-Tech’s corporate veil and 
+impose liability on Petitioner was “ancillary” to the federal 
+district court’s jurisdiction over the previous lawsuit, Tru- 
+Tech. In so holding, the Fourth Circuit relied primarily 
+on this Court’s 1867 opinion in Riggs v. Johnson County, 
+73 U.S. (6 Wall.) 166 (1867). 39 F.3d at 500, App., 
+infra, at 13a. Riggs does not deal directly with the issue 
+presented here, but states the proposition that some “proc- 
+
+
+6 
+
+
+ess subsequent to judgment” is a part of the federal court’s 
+power. 73 U.S. (6 Wall.) at 187.’ 
+
+
+The court of appeals acknowledged to varying degrees 
+three cases that are in direct conflict with its application 
+of ancillary jurisdiction. In H.C. Cook Co. v. Beecher, 
+217 U.S. 497, 30 S. Ct. 601 (1910), which the Fourth 
+Circuit sought to distinguish, this Court held squarely that 
+a case such as this one does not fall within a federal 
+court’s ancillary jurisdiction. 39 F.3d at 500, App., infra, 
+at 13a. The Fourth Circuit also made passing mention 
+of, but did not analyze, decisions in two other circuits 
+that reach the opposite result from the instant case. 39 
+F.3d at 501, App., infra, at 15a; see Sandlin v. Corporate 
+Interiors Inc., 972 F.2d 1212, 1217 (10th Cir. 1992); 
+Berry v. McLemore, 795 F.2d 452, 455 (Sth Cir. 1986). 
+
+
+The Fourth Circuit’s stated test for the propriety of 
+exercising ancillary jurisdiction was whether the subse- 
+quent action is “truly independent” of the prior action. 
+The court gave no weight to the fact that the veil-piercing 
+action is entirely separate from the prior lawsuit on which 
+federal jurisdiction is dependent: 
+
+
+Without defining the precise contours of when a 
+subsequent litigation is “independent” of a former liti- 
+gation and judgment, we believe that [Respondent] 
+Thomas’ attempt to pierce the corporate veil is not 
+
+“independent” of the initial litigation herein. As noted 
+above, an attempt to pierce the corporate veil is nec- 
+essarily subsidiary to some primary cause of action. 
+That Thomas opted to file a separate action to pierce 
+
+
+1 The full text quoted by the Fourth Circuit states: 
+It is black letter law that 
+
+
+the jurisdiction of a court is not exhausted by the rendition 
+of the judgment, but continues until that judgment shall be 
+satisfied. . . . Process subsequent to judgment is as essential 
+to jurisdiction as process antecedent to judgment, else the 
+judicial power would be incomplete and entirely inadequate 
+to the purposes for which it was conferred by the Constitution. 
+
+
+7 
+
+Tru-Tech’s corporate veil is irrelevant: the court’s 
+subject matter jurisdiction does not turn on whether 
+Thomas pursued the procedurally proper route... . 
+[This is, at bottom, a proceeding the goal of which 
+is to collect the judgment earlier obtained by the plain- 
+tiff class. There is, in short, simply no practical rea- 
+son to treat this litigation as separate from the initial 
+litigation. 
+
+
+39 F.3d at 501-02, App., infra, at 16a (citations and 
+footnotes omitted; emphasis added). In other words, the 
+court below concluded that the instant action was not 
+“independent,” and that ancillary jurisdiction was there- 
+fore proper, for the simple reason that the goal of this 
+action “is to collect the judgment” from the prior action. 
+
+
+After concluding that federal jurisdiction was proper, 
+the Fourth Circuit proceeded to fashion an ERISA 
+remedy for piercing the corporate veil. Having noted that 
+veil piercing is “substantive” law, 39 F.3d at 499, App., 
+infra, at 12a, the court held that “ERISA preempts any 
+state law of veil-piercing,” 39 F.3d at 503, App., infra, 
+at 20a. It expressly rejected Petitioner’s argument that 
+Mackey means there is no ERISA remedy for judgment 
+enforcement, id., (although there may be one under state 
+law) and thus that ERISA’s nationwide service of process 
+provision, 29 U.S.C. § 1132(e)(2), could not be used to 
+reach Petitioner. The prior judgment was accordingly 
+imposed on Petitioner under the auspices of ERISA. The 
+court “adopt[ed] the liberal veil-piercing standard enun- 
+ciated by the First Circuit in Alman [v. Danin, 801 F.2d 
+1 (1st Cir. 1986)] for use in ERISA actions.” 39 F.3d 
+at 504, App., infra, at 23a. It quoted with approval a 
+long passage from Alman, which states among other 
+things that ERISA “cannot be said to attach great weight 
+to corporate form.” 39 F.3d at 504, App., infra, at 21a. 
+
+
+8 
+
+
+REASONS FOR GRANTING THE PETITION 
+
+
+I. SUMMARY. 
+
+
+In the broadest terms, there are two reasons for the 
+Court to take this case. First, it is in direct conflict with 
+this Court’s decisions in Beecher and in Kokkonen v. 
+Guardian Life Insurance Co., 114 S. Ct. 1673 (1994) 
+over the scope of federal ancillary jurisdiction. It also 
+broadens an existing conflict among a number of cir- 
+cuits over the same point; notably, some of the circuit 
+courts agreeing with the Fourth Circuit have reached their 
+decisions by expressly declining to follow Beecher. The 
+issues presented are important ones; the decision below 
+has the potential to expand federal court jurisdiction 
+dramatically in all areas. It would open the federal courts 
+to any separate lawsuit filed for the purpose of collecting 
+a prior federal judgment. The issues giving rise to these 
+conflicts are cleanly presented here, and the Court should 
+resolve this important question of federal jurisdiction and 
+reaffirm the vitality of Beecher. 
+
+
+Second, the decision below reaches a result that is 
+contrary to this Court’s decisions in two ERISA cases, 
+Mertens v. Hewitt Associates, 113 S. Ct. 2063 (1993), 
+and Mackey v. Lanier Collection Agency & Service, 486 
+U.S. 825, 108 S. Ct. 2182 (1988). Taken together, these 
+cases make it clear that ERISA does not provide a spe- 
+cific remedy for the collection of ERISA judgments, and 
+that ERISA is in general a “comprehensive and reticu- 
+lated statute,” Mertens, 113 S. Ct. at 2066, and accord- 
+ingly that theories of liability not included in the statute 
+should not be created by the judiciary, 113 S. Ct. at 2071- 
+72. Yet the decision below does precisely what these deci- 
+sions forbid. It derives from ERISA a means for the 
+enforcement of an ERISA judgment on a theory of re- 
+covery not spelled out in ERISA, against a person not 
+identified by ERISA as liable. (Indeed, against a person 
+previously held not to be liable under ERISA.) Because 
+
+
+9 
+personal jurisdiction could be had only. pursuant to 
+
+
+ERISA’s nationwide service of process provision, 29 U.S.C. 
+
+
+§ 1132(e)(2), treatment of the remedy as arising under 
+ERISA was indispensable to the result below. This result 
+contributes to the existing confusion among the circuit 
+courts of the respect to be paid to the corporate form in 
+ERISA cases. The Court should bring this matter back in 
+line with its precedents and the statutory balance struck 
+
+
+by Congress. 
+
+
+Il. THE DECISION BELOW IS IN CONFLICT WITH 
+THIS COURT'S DECISIONS IN BEECHER AND 
+KOKKONEN AND WITH DECISIONS OF SEVERAL 
+OTHER CIRCUITS. IT HAS THE POTENTIAL TO 
+GREATLY EXPAND THE SCOPE OF FEDERAL 
+JURISDICTION. 
+
+
+The fundamental question of federal jurisdiction pre- 
+sented here is the availability of ancillary jurisdiction over 
+a separate lawsuit, involving new facts, filed to collect a 
+prior federal court judgment from a party other than the 
+judgment debtor.? Review is appropriate because there 
+is a substantial split of authority on this point, which has 
+called into question one of this Court’s precedents. 
+
+
+The lower court cases that have held that ancillary 
+jurisdiction does not exist in such a circumstance, or which 
+have enunciated principles plainly precluding such an ac- 
+tion, include Sandlin, 972 F.2d 1212, 1217 (10th Cir. 
+1992); Berry, 795 F.2d 452, 455 (Sth Cir. 1986); Seder- 
+quist v. Court, 861 F.2d 554, 557-58 (9th Cir. 1988); 
+Redding Ford v. California State Board of Equalization, 
+722 F.2d 496, 498 (9th Cir. 1983); Fidelity & Casualty 
+Company v. Reserve Ins. Co., 596 F.2d 914, 918 (9th 
+
+
+2 There is no alternative basis for jurisdiction here. As the court 
+below noted, it is “undisputed that there is.no diversity of citizen- 
+ship in this action, and that there is no basis for federal question 
+jurisdiction other than the fact that the suit seeks to enforce a 
+judgment obtained pursuant to ERISA.” 39 F.3d at 499 n.6; App., 
+infra, at lla n.6. 
+
+
+10 
+
+
+Cir. 1979); National Westminster Bank U.S.A. v. Cheng, 
+751 F. Supp. 1158, 1160 (S.D.N.Y. 1990) (relying on 
+Manway Constr. Co. v. Housing Auth. of the City of 
+Hartford, 711 F.2d 501, 504 (2d Cir. 1983)). 
+
+
+Other circuits have disagreed, holding or implying that 
+ancillary jurisdiction does exist in such a case. Argento v. 
+Village of Melrose Park, 838 F.2d 1483, 1487-90 (7th 
+Cir. 1988) (followed in Sullivan v. Hochfelder, 834 F. 
+Supp. 1036, 1038 (N.D. Ill. 1993), albeit with mention 
+of the problem of exercising ancillary jurisdiction in a 
+separate action); Skevofilax v. Quigley, 810 F.2d 378, 
+383-85 (3d Cir. 1987) (en banc); Blackburn Truck 
+Lines v. Francis, 723 F.2d 730, 732 (9th Cir. 1984). 
+
+
+The appropriateness of review is heightened because the 
+decision below is in direct conflict with this Court’s deci- 
+sion in H.C. Cook Co. v. Beecher, 217 U.S. 497, 30 
+S. Ct. 601 (1910). Moreover, two of the circuits agreeing 
+with the Fourth Circuit have directly questioned the con- 
+tinuing vitality of Beecher. Before describing the circuit 
+split, we therefore turn to Beecher, and to this Court’s 
+recent decision in Kokkonen, which also directs a different 
+result from the one reached below. 
+
+
+A. This Court Should Grant Certiorari to Reaffirm the 
+Validity of its Controlling Opinion in Beecher, 
+Which Has Come into Question. 
+
+
+In Beecher, a judgment creditor brought an action to 
+impose liability for a prior patent judgment on the direc- 
+tors of the corporate judgment debtor. The creditor ac- 
+cused the directors of taking actions with the purpose and 
+effect of rendering the company insolvent in the event of 
+a judgment against it. In his opinion for the Court, Justice 
+Holmes was careful to emphasize that the second action 
+did not deal with the patent (just as the instant case does 
+not contain any allegations regarding the ERISA plan) 
+but had to do only with the existence of the judgment. 
+
+
+. i 
+
+
+Accordingly, the Court ruled that the attempt to impose 
+liability on the directors was “of course” not “ancillary 
+to the judgment in the former suit.” 217 U.S. 497, 30 
+S. Ct. at 602. 
+
+
+Beecher is plainly controlling here. The allegations and 
+issues are the same below and in Beecher. The court 
+below sought to distinguish Beecher on the timing of 
+the alleged wrongs by the individual defendants in the two 
+cases, but the net effect of this is to emphasize that Peti- 
+tioner Peacock’s asserted wrongdoing was entirely divorced 
+in time from the ERISA wrong for which Tru-Tech was 
+held liable. 39 F.3d at 501, App., infra, at 15a. This 
+break in time highlights the absence of the “common 
+nucleus of operative fact” between Tru-Tech and the 
+instant case that would make the two part of the same 
+constitutional “case or controversy.”* See 39 F.3d at 
+503 n.14, App., infra, at 19a n.14. 
+
+
+Two circuit courts that have reached conclusions sim- 
+ilar to the one below have said that Beecher should be 
+treated as a nullity. In Argento, a divided panel of the 
+Seventh Circuit approved an exercise of ancillary juris- 
+diction over a separate lawsuit to impose liability on 
+parties held not liable in the prior suit. They declined 
+to follow Beecher: “That case, decided over 75 years 
+
+
+* As we discuss infra in describing Kokkonen, it is clear that 
+constitutional and statutory limits on federal court power apply to 
+exercise of ancillary and pendent jurisdiction. See also Owen, 437 
+U.S. at 372, 98 S. Ct. at 2401. The accepted constitutional test is 
+whether there is a “common nucleus of operative fact” between 
+the claim sought to be brought before the court and the accompany- 
+ing federal claims. Without this “common nucleus,” the matters 
+are not part of the same constitutional “case.” 
+
+
+This standard has recently been codified, without any relevant 
+impact on the inquiry to be undertaken. 28 U.S.C. 1367, App., 
+infra, at 73a, allows the exercise of “supplemental” jurisdiction 
+over claims that “form part of the same case or controversy under 
+Article III” of the Constitution as a case already properly in 
+federal court. 
+
+
+12 
+
+
+ago, is three paragraphs long con’aining a conclusion, 
+but virtually no discussion. It has rarely been cited as 
+precedent.” 838 F.2d at 1488. The dissent in Argento 
+criticized the majority for reaching a decision “directly 
+contrary” to Beecher. 838 F.2d at 1501. 
+
+
+A similar disagreement over the vitality of Beecher 
+erupted in the Third Circuit in Skevofilax. The majority of 
+the en banc court declined to follow Beecher, calling it 
+a “delphic pronouncement” and dismissing the opinion 
+because it did not expressly claim to “serve as a pro- 
+nouncement on the constitutional limits of ancillary juris- 
+diction.” 810 F.2d at 385 n.4. The dissent countered 
+that Beecher did have precedential value, and that it 
+should have controlled. 810 F.2d at 392-93. 
+
+
+Although not directly controlling, the analysis of this 
+Court’s unanimous opinion last term in Kokkonen clearly 
+indicates that Beecher is good law and that the decision 
+-below was incorrect. Kokkonen considered whether a fed- 
+eral court has ancillary jurisdiction to enforce a settlement 
+agreement from a prior federal case. After noting that 
+federal courts have limited jurisdiction, possessing “only 
+that power authorized by Constitution and statute,” 114 
+S. Ct. at 1675, the Court concluded there is no auto- 
+matic federal jurisdiction over a claimed breach of a 
+settlement agreement. The factual issues involved in the 
+two cases were plainly distinct, and the court’s ability 
+to function was not “imperiled by the alleged breach.” 
+114 S. Ct. at 1677. The suit, in short, “involve[d] a claim 
+for breach of a contract,” and “automatic jurisdiction over 
+such contracts is in no way essential to the conduct of 
+federal-court business.” Jd. This analysis suggests that 
+Beecher is right and the result below is wrong. There is 
+‘no common nucleus of operative fact here, and the al- 
+leged wrong is not one that imperils the operation of 
+the federal courts such that “automatic jurisdiction” over 
+such a claim is “essential.” 
+
+
+13 
+
+
+The instant case presents clearly the issue of the con- 
+tinuing vitality of Beecher. This is an attempt (i) in a 
+second, separate lawsuit (ii) to invoke facts not in issue 
+in the prior lawsuit * (iii) in order to hold liable a person 
+not already within the federal court’s jurisdiction.’ Under 
+Beecher, under the constitutionally mandated ancillary 
+jurisdiction analysis contained in Owen and Kokkonen, 
+and under various circuit court authorities we will de- 
+scribe below, ancillary jurisdiction should not have been 
+exercised here. In light of the growing tendency to dis- 
+regard Beecher, the Court should take this opportunity to 
+make it plain that Beecher, and Article III principles in 
+general, govern this case. 
+
+
+B. The Decision Below Broadens a Substantial Split of 
+Authority Over the Scope of Federal Ancillary 
+Jurisdiction. 
+
+
+1. Cases Disagreeing with the Fourth Circuit. 
+
+
+We provided at the beginning of this section a list of 
+many of the federal court decisions following Beecher and 
+
+
+* This issue is well presented here, as the Fourth Circuit several 
+times relied on its conclusion that the facts in the instant case were 
+different from the facts at issue in the original Tru-Tech litigation. 
+See 39 F.3d at 501, App., infra, at 15a (distinguishing Beecher 
+because alleged wrongs here were directed to “already-extent [sic] 
+judgment” ; id. n.10, App., infra, at 16a n.10 (distinguishing Sandlin 
+on basis that this case involves “conduct by Peacock occurring after 
+the judgment in the initial litigation”); id. at 503 n.14, App., 
+infra, at 19a n.14 (activity leading to conclusion of veil-piercing here 
+occurred “after the activity pursuant to which the corporation is 
+deemed to have breached its ERISA fiduciary duties”). 
+
+
+* Courts considering the issue have recognized that parties 
+absolved of liability in a prior action should be treated as strangers 
+to the judgment in that action for purposes of any subsequent 
+action attempting to impose liability on them. Argento, 838 F.2d 
+at 1488 n.7; Skevofilaz, 810 F.2d at 384-85 (treating township as 
+“nonparty to the original lawsuit” for purposes of imposing liabil- 
+4 S — for individual officers’ liability; Berry, 795 F.2d 
+a 
+
+
+ee err eS ee 
+
+
+14 
+
+
+in conflict with the result below. We describe some of 
+those cases in more detail here. 
+
+
+Many of these opinions have acknowledged the passage 
+from Riggs relied on by the Fourth Circuit, see supra 
+note 1, which states that a federal court’s jurisdiction 
+continues after the entry of judgment, but have concluded 
+that this holding does not mean that a federal court can 
+do anything it pleases, to anyone it pleases, in the name 
+of enforcing a judgment. See Berry, 795 F.2d at 455 
+(post-judgment jurisdiction described in Riggs “is limited 
+to those actions that a court may take in that same ac- 
+tion”); National Westminster Bank, 751 F. Supp. at 
+1160 (in construing Riggs, “where a party seeks to invoke 
+ancillary jurisdiction to protect a judgment of the court, 
+there must be a transactional relationship between the 
+claims predicated on federal jurisdiction and the claims 
+to be piggy-backed into the federal court” (internal quo- 
+tation omitted) ). 
+
+
+Prior to the decision below, the Tenth Circuit had most 
+recently dealt with this matter. That court faced the 
+precise issue presented by the present case—an attempt by 
+a successful plaintiff to enforce his judgment against al- 
+leged alter egos of the judgment debtor—in Sandlin, 972 
+F.2d 1212 (10th Cir. 1992). Calling the precedents 
+“largely consistent,” the Sandlin court stated that “[w]hen 
+a party asserts a postjudgment claim against a nonparty 
+not arising out of the operative facts that produced the 
+original judgment, an independent basis for federal juris- 
+diction must exist.” 972 F.2d at 1216 (emphasis added). 
+Although noting that Beecher has recently been criticized 
+as “dated and for its lack of exposition,” the Tenth Circuit 
+read Beecher “as saying that when postjudgment proceed- 
+ings seek to hold nonparties liable for a judgment on a 
+theory that requires proof on facts and theories signifi- 
+cantly different from those underlying the judgment, an 
+independent basis for federal jurisdiction must exist. So 
+read, the opinion seems both consistent with most modern 
+
+
+15 
+court decisions and controlling upon us.” 972 F.2d at 
+1217. 
+
+
+National Westminster Bank, supra, also involved an 
+attempt by a judgment creditor to collect his judgment 
+from principals of the corporate debtor by “piercing the 
+corporate veil.” 751 F. Supp. at 1159. The court declined 
+ancillary jurisdiction in this separately filed lawsuit, be- 
+cause there was no nexus between the original claim and 
+the veil-piercing action. “[P]etitioner’s theories of fraudu- 
+lent conveyance and piercing the corporate veil are re- 
+moved from the original breach of contract action... . 
+Petitioner’s claims involve investigation into the facts of 
+how the corporations at issue were run... .” 751 F. Supp. 
+at 1160. The principle relied on in this case was drawn 
+directly from the Second Circuit's opinion in Manway 
+Construction Co., 711 F.2d 501, 504 (2d Cir. 1983), 
+which was also relied on by Sandlin. Although Manway 
+involved different facts, its controlling principle is con- 
+trary to the ruling by the Fourth Circuit below, and the 
+Second Circuit should be counted among the circuits in 
+direct conflict with the Fourth Circuit’s ruling. 
+
+
+In Berry, 795 F.2d 452, the Fifth Circuit refused to 
+exercise ancillary jurisdiction over an attempt to collect 
+a judgment from the alleged indemnitors of the judgment 
+debtor. The Berry court first concluded that the two ac- 
+tions did not share a common nucleus of fact, noting that 
+plaintiff's first action “arose out of an alleged violation of 
+his constitutional rights,” while the second involved a con- 
+tract. “[T]he alleged obligations of the Town and NHI 
+are completely independent of the primary judgment 
+against McLemore.” 795 F.2d at 455. The court con- 
+cluded: “We can find no case where a court held that it 
+had ancillary jurisdiction to consider claims in a new and 
+independent action merely because the second action 
+
+
+sought to satisfy or give additional meaning to an earlier 
+judgment.” /d. 
+
+
+16 
+
+
+Several decisions by the Ninth Circuit fall into this line 
+of authority.° Sederquist holds that ancillary jurisdiction 
+will not extend to “a separate case against different de- 
+fendants.” 861 F.2d at 558; see also Redding Ford, 722 
+F.2d at 498 (9th Cir. 1983) (“[aJncillary jurisdiction 
+cannot be extended beyond the claims asserted in one 
+action”); Fidelity & Casualty Company, 596 F.2d at 918 
+(9th Cir. 1979) (“Whatever the current parameters of 
+ancillary jurisdiction the doctrine has never extended be- 
+yond claims asserted in one action.” ).” 
+
+
+2. Cases Agreeing with the Fourth Circuit. 
+
+
+There are also courts that have agreed broadly with the 
+ruling below. In our discussion of Beecher above, we 
+discussed two of these cases, Argento, 838 F.2d 1483, 
+and Skevofilax, 810 F.2d 378, which regard Beecher as 
+having fallen into desuetude. 
+
+
+The other case agreeing with the result below reflects 
+confusion within a circuit. In an opinion decided without 
+oral argument less than one month after Redding Ford, 
+
+
+® As we discuss infra, there is one contrary opinion in the Ninth 
+Circuit on this issue, but the majority of Ninth Circuit cases 
+disagree with the Fourth Circuit. 
+
+
+™The Ninth Circuit cases do not involve attempts to enforce 
+judgments, but their rationales nevertheless conflict directly with 
+the result below. This highlights the fact that the ancillary 
+jurisdiction cases involve two approaches, which complement one 
+another, and which both disagree with the result below. One 
+approach emphasizes that the facts involved in the veil-piercing 
+analysis will typically be unrelated to the facts giving rise to sub- 
+stantive liability; absent a common nucleus of operative fact, there 
+can be no ancillary jurisdiction. Other cases have not reached this 
+stage of analysis, because they have held that ancillary jurisdiction 
+can never extend to a second lawsuit; a federal court’s power to 
+hear ancillary matters stops at the boundaries of the suit over 
+which it has original jurisdiction. Both issues are presented in 
+this case, since it involves both a separate lawsuit and a clear 
+disjunction of the relevant facts in the two cases. See supra 
+note 4. 
+
+
+a 
+
+
+supra, the Ninth Circuit took a position inconsistent with 
+its own precedents. Blackburn Truck Lines v. Francis, 
+723 F.2d 730 (9th Cir. 1984), was a separate lawsuit to 
+collect a judgment in a freight charges case from the 
+alleged alter egos of the bankrupt original defendants. 
+Without citation to Beecher or the Ninth Circuit prece- 
+dents mentioned above that expressly hold that ancillary 
+jurisdiction will not extend to an entirely separate lawsuit, 
+the Blackburn panel concluded that the federal courts did 
+have ancillary jurisdiction over such a matter. 
+
+
+This is an area that is beset with considerable con- 
+fusion; the various circuits employ various methods of 
+analysis, with various results, and pay various amounts of 
+deference to this Court’s decision in Beecher. This case 
+squarely and cleanly presents these issues, and the Court 
+should take this opportunity to provide unity and guidance 
+on this question. 
+
+
+Nor are the stakes trivial. The rule enunciated by the 
+Fourth Circuit would open the federal courts to any 
+separate lawsuit with the stated purpose of imposing a 
+judgment entered in a federal court on a party not ini- 
+tially held liable for that judgment. Although the Fourth 
+Circuit saw “no practical reason” not to exercise jurisdic- 
+tion over such a matter, 39 F.3d at 502, App., infra, 
+at 17a, such a rule would increase the load of federal 
+cases without any efficiency advantages; since, by defini- 
+tion, these new cases involve entirely new issues, the fed- 
+eral courts that handled the prior actions have no advan- 
+tage over the state courts in disposing of them. For these 
+reasons as well, review by this Court is appropriate. 
+
+
+18 
+
+
+Ill. THE DECISION BELOW, BY FASHIONING AN 
+ERISA REMEDY FOR ENFORCEMENT OF AN 
+ERISA JUDGMENT, AND IMPOSING IT ON ONE 
+HELD NOT TO BE A FIDUCIARY, CONFLICTS 
+WITH THIS COURT’S RECENT DECISIONS IN- 
+TERPRETING ERISA. 
+
+
+The decision below is in conflict with this Court’s cases 
+in Mertens and Mackey. It violates their teachings by 
+fashioning a substantive ERISA remedy for the collection 
+of judgments, and by applying that remedy to one who 
+would not be held liable within the four corners of the 
+ERISA statute. The question of whether there is an 
+ERISA remedy in this case is of particular importance 
+because, regardless of subject matter jurisdiction, the only 
+basis for personal jurisdiction over Petitioner Peacock in 
+South Carolina was ERISA’s nationwide service of process 
+provision. If Respondent has only a state law remedy for 
+his wrong, he cannot sue Mr. Peacock in South Carolina. 
+App., infra, at 59a. 
+
+
+The result also highlights considerable lower court con- 
+fusion over the proper respect to be shown to corporate 
+form in ERISA cases. Review by this Court is needed 
+to establish the effect of its precedents and to give guid- 
+ance on the deference to be given corporate form. 
+
+
+A. In Mertens, This Court Held That Courts Should 
+Not Fashion ERISA Remedies Not Expressly Cre- 
+ated by Congress. The Court Below Derived Just 
+Such a Remedy from ERISA. 
+
+
+In Mertens v. Hewitt Associates, 113 S. Ct. 2063 
+(1993), the Supreme Court held that ERISA does not 
+authorize suits for monetary relief by plan participants 
+against a nonfiduciary. Observing that the only provision 
+of ERISA allowing suit against nonfiduciaries provides for 
+“equitable relief’ only, the Court declined to expand the 
+express provisions of ERISA to allow monetary recovery 
+as well as equitable relief against a nonfiduciary. 
+
+
+> ~~ ” ee ae aa 
+
+
+, 
+
+After noting that ERISA is a “comprehensive and 
+reticulated statute,” 113 S. Ct. at 2066 (internal quota- 
+tions omitted), this Court stated its own “unwillingness to 
+infer causes of action in the ERISA context, since that 
+statute’s carefully crafted and detailed enforcement scheme 
+provides strong evidence that Congress did not intend to 
+authorize other remedies that it simply forgot to incorpo- 
+rate expressly.” 113 S. Ct. at 2071-72 (internal quota- 
+tions omitted). In closing, the Court rejected an invitation 
+to “give a strained interpretation to [ERISA] in order to 
+achieve the [claimed] ‘purpose of ERISA to protect plan 
+participants and beneficiaries.’” 113 S. Ct. at 2071. The 
+Court stated that “vague notions of a statute’s ‘basic pur- 
+pose’ are . . . inadequate to overcome the words of its 
+text,” especially with respect to “ERISA, an enormously 
+complex and detailed statute that resolved innumerable 
+disputes between powerful competing interests— not all in 
+favor of potential plaintiffs.” Jd.; see also Massachusetts 
+Mut. Life Ins. Co. v. Russell, 473 U.S. 134, 146, 105 
+S. Ct. 3085, 3092 (1985) (“carefully integrated” enforce- 
+ment scheme of ERISA is “strong evidence that Congress 
+did not intend to authorize other remedies that it simply 
+
+
+forgot to incorporate expressly” ). 
+
+
+The Fourth Circuit treated the veil-piercing action 
+brought by Respondent as “a substantive rule of liability.” 
+39 F.3d at 499, App., infra, at 12a. It held that ERISA 
+“preempts any state law of veil-piercing” and provides the 
+rule of law for such an action. 39 F.3d at 503, App., 
+infra, at 20a. By thus allowing a substantive cause of 
+action, nowhere provided for in ERISA, to proceed as an 
+ERISA action, the court below did precisely what Mertens 
+said it should not. 
+
+
+B. Mertens is Also Violated by the Imposition of a 
+Substantive ERISA Remedy Against a Person 
+Adjudged Not to be a Fiduciary. 
+
+
+In Tru-Tech, the district court held and the Fourth 
+Circuit affirmed that Grant Peacock was not a fiduciary 
+of the ERISA plan at issue. As this Court explained in 
+
+
+— 
+
+
+20 
+
+
+Mertens, ERISA establishes a broad definition of fiduciary 
+that “expand[s] the universe of persons subject to fiduciary 
+duties—and to damages”—beyond the common law, 
+which limited the reach of fiduciary duty to “formal trus- 
+teeship.” 113 S. Ct. at 2071. The Court relied on this 
+expansive definition of fiduciary in declining to further 
+expand liability to non-fiduciaries under ERISA. The 
+Court would not disturb “the balance . . . that the text 
+adopted by Congress has struck.” 113 S. Ct. at 2072. 
+
+
+In other words, Congress used the term “fiduciary” to 
+describe precisely those persons and entities against whom 
+ERISA provides remedies for breaches. The ruling below 
+upsets this statutory balance by providing an ERISA rem- 
+edy against a person expressly held not to be a fiduciary. 
+
+
+The rationales offered below for this departure from 
+ERISA and this Court’s guidance—that such a step was 
+necessary to vindicate ERISA’s “broad, remedial scope,” 
+App., infra, at 50a, and that ERISA “cannot be said to 
+attach great weight to corporate form,” 39 F.3d at 503, 
+App., infra, at 22a—simply miss the point. The “re- 
+medial purpose” of ERISA, be it broad or narrow, is 
+incorporated into the fiduciary liability standard and the 
+“balance” struck by Congress. Similarly, fiduciary liability 
+defines precisely the degree to which the court may reach 
+behind the corporate veil. If a person “exercises any dis- 
+cretionary auhority or discretionary control” with respect 
+to an ERISA plan, 29 U.S.C. § 1002(21)(A) then he or 
+she can be held liable, regardless of the shielding presence 
+of a corporation. An ERISA-based remedy that goes 
+beyond this standard is at odds with the statute and with 
+Mertens. 
+
+
+By treating the veil-piercing claim as arising under 
+ERISA, the court below went beyond the statute, and was 
+able to find personal jurisdiction over Petitioner Peacock 
+where none would otherwise exist. 
+
+
+, 2 
+
+
+C. By Fashioning a Separate, Substantive ERISA 
+Remedy for the Enforcement of ERISA Judgments, 
+the Fourth Circuit also Violated this Court’s Deci- 
+sion in Mackey. 
+
+
+In Mackey v. Lanier Collection Agency & Service, 486 
+US. 825, 833, 108 S. Ct. 2182, 2187 (1988), the Court 
+explained that “ERISA does not provide an enforcement 
+mechanism for colletcing judgments won” in civil enforce- 
+ment actions under ERISA’s 29 U.S.C. § 1132. “Con- 
+sequently,” the Court concluded, “state-law methods for 
+collecting money judgments must, as a general matter, 
+remain undisturbed by ERISA[.]” 486 U.S. at 834, 108 
+S. Ct. at 2187-88. Once the judgment is in hand, an 
+ERISA judgment debtor is no different from any other 
+judgment debtor. 
+
+
+Mackey plainly applies here, for there can be no doubt 
+that Respondent Thomas’s intent in bringing this action 
+was to collect the prior judgment.* As the Fourth Circuit 
+
+
+®To be sure, the facts of Mackey are different from those of 
+this case, but the holding of Mackey is clear and its import is 
+unmistakable—ERISA does not provide a separate substantive 
+remedy for the collection of ERISA judgments. Moreover, the 
+Fourth Circuit’s divergence from Mackey is made manifest by the 
+two opinions’ inconsistent rulings on the matter of ERISA preemp- 
+tion of collection actions. 
+
+
+Mackey involved two issues, both of which arose from an attempt 
+by a Georgia collection agency to garnish welfare plan benefits to 
+collect money judgments. In the first portion of its opinion, the 
+Mackey Court struck down a Georgia statute that specifically ex- 
+empted ERISA plans from “the process of garnishment,” on the 
+grounds that the law made “reference to” an ERISA plan and 
+— preempted by ERISA. 486 U.S. at 829-30, 108 S. Ct. 
+at 2185-86. 
+
+
+The second portion of the opinion went on to consider whether 
+the entire Georgia garnishment procedure was preempted by 
+ERISA. It was in this context that the Court concluded that 
+ERISA does not provide its own mechanism for the enforcement 
+of judgments; hence, the Court held that state law mechanisms 
+must be used and that the garnishment statute was not preempted. 
+
+
+22 
+
+
+stated plainly in its opinion, “this is, at bottom, a proceed- 
+ing the goal of which is to collect the judgment earlier 
+obtained by the plaintiff class.” 39 F.3d at 501, App., 
+infra, at 16a. 
+
+
+Mackey reinforces, in the specific context of actions 
+to enforce ERISA judgments, the general principles of 
+Mertens that courts are not free to create new ERISA 
+remedies. Nevertheless, the opinion below provided Re- 
+spondent with a federal substantive remedy to assist him 
+in haling Petitioner into court and collecting the ERISA 
+judgment. Mackey teaches that there is no such remedy. 
+
+
+D. The Decision Below Contributes to a Broad and 
+Continuing Confusion over the Respect to be 
+Accorded the Corporate Veil in ERISA Litigation. 
+The Court’s Guidance is Needed on this Question. 
+
+
+In the context of breach of fiduciary duty, a number of 
+circuits have held, as the Fourth Circuit did below, that 
+ERISA has little regard for the corporate form, and that 
+the corporate veil of a corporate fiduciary may be 
+breached almost at will to reach a solvent shareholder or 
+director. The leading case in this area, relied on heavily 
+below, is Alman v. Danin, 801 F.2d 1 (1st Cir. 1986); 
+see also Lowen v. Tower Asset Management, Inc., 829 
+F.2d 1209 (2d Cir. 1987). 
+
+
+On the other hand, ERISA cases involving suits against 
+employers for delinquent plan contributions have taken 
+a much more cautious approach to the corporate veil. 
+Although many of these cases allude to the possibility of 
+veil-piercing in the appropriate circumstance, they do not 
+suggest that the corporate form can be tossed aside when- 
+ever convenience or the “broad remedial purpose” of 
+ERISA so demand. Indeed, these cases point out that 
+
+
+486 U.S. at 830-40, 108 S. Ct. at 2186-91. This is precisely contrary 
+to the holding of the Fourth Circuit below that ERISA does 
+“preempt[] any state law of veil-piercing” in the context of col- 
+lection of judgments. 39 F.3d at 508, App., infra, at 20a. 
+
+
+”“? — - 
+
+
+‘ @B 
+
+
+Congress could have imposed broader ERISA liability on 
+corporate insiders had it chosen, but that it did not. See, 
+e.g., International Bhd. of Painters v. George A. Kracher, 
+Inc., 856 F.2d 1546, 1550 (D.C. Cir. 1988) (declining 
+to hold principal shareholder and chief officer liable for 
+corporation’s ERISA contributions; “Limited liability is 
+a hallmark of corporate law. Surely if Congress had 
+decided to alter such a universal and time-honored con- 
+cept, it would have signaled that resolve somehow in the 
+legislative history.”); Connors v. P&M Coal Co., 801 
+F.2d 1373, 1376 (D.C. Cir. 1986) (rejecting “interest 
+and control” test for imposition of individual liability for 
+corporate obligations; noting that such a lowered standard 
+would “discourage future participation in multiemployer 
+pension plans”); Operating Engineers Pension Trust v. 
+Reed, 726 F.2d 513, 515 (9th Cir. 1984) (no special 
+standard of veil piercing set forth in employer contribu- 
+tion case). 
+
+
+The decision below highlights the divergence of views 
+among the circuits as to the respect to be paid to the 
+corporate form in ERISA actions; this divergence shows 
+itself in a comparison of fiduciary breach and employer 
+contribution cases, although there is no statutory or policy 
+difference in the two areas that would justify such differ- 
+ent degrees of deference to corporate form. Because of 
+the importance of these issues, and because of the substan- 
+tial disincentive to provision of ERISA plans by employ- 
+ers that the liberal rule of veil-piercing enunciated below 
+creates, the Court should take this case to clarify the 
+rules under which ERISA liability may be imposed on 
+corporate shareholders or managers. 
+
+
+————___ 
+
+
+24 
+CONCLUSION 
+
+
+Review of the decision below is necessary to end the 
+confusion regarding the scope of the federal courts’ an- 
+cillary jurisdiction, and to address the important ERISA 
+issues presented here. Petitioner respectfully requests the 
+issuance of a writ of certiorari to the United States Court 
+of Appeals for the Fourth Circuit to consider the ques- 
+tions presented by this case. 
+
+
+Respectfully submitted, 
+
+
+DAVID L. FREEMAN 
+(Counsel of Record) 
+
+
+J. THEODORE GENTRY 
+WYCHE, BURGESS, FREEMAN 
+& PARHAM, P.A. 
+Post Office Box 728 
+44 East Camperdown Way 
+Greenville, SC 29602 
+(808) 242-8200 
+Attorneys for Petitioner 
+March 1, 1995 D. Grant Peacock 
+
+
+BEST AVAILABLE COPY 
+
+
+~ teenie al Se wtp a> > Wh 
+
+
+o Reetet 2K 
+
+
+Rea eS ee 
+
+
+‘ #s 
+APPENDIX A 
+
+
+UNITED STATES COURT OF APPEALS 
+FOURTH CIRCUIT 
+
+
+Nos. 92-2524, 93-1394 and 93-1469 
+
+
+Jack L. THomas, Individually, on behalf of the Tru-Tech, 
+Incorporated Pension Plan, and as a represettative of 
+a class of plaintiffs similarly situated, 
+Plaintiff-A ppellee, 
+v. 
+
+
+D. GRANT PEACOCK, 
+Defendant-A ppellant, 
+
+
+and 
+
+
+ALAN H. FINEGOLpD, 
+Defendant. 
+
+
+Jack L. THomas, Individually, on behalf of the Tru-Tech, 
+
+
+Incorporated Pension Plan, and as a representative of 
+a class of plaintiffs, similarly situated, 
+
+
+Plaintiff-A ppellee, 
+
+
+Vv. 
+
+
+D. GRANT PEACOCK, 
+Defendant-A ppellant, 
+
+
+and 
+
+
+ALAN H. FINEGOLD, 
+Defendant. 
+
+
+2a 
+
+
+Jack L. THomas, Individually, on behalf of the Tru-Tech, 
+Incorporated Pension Plan, and as a representative of 
+a class of plaintiffs, similarly situated, 
+Plaintiff-A ppellee, 
+v. 
+
+
+Tru-TECH, INc.; D. GRANT PEACOCK, 
+Defendants-A ppellants, 
+
+
+and 
+GRANT PEACOCK AND COMPANY, INC.; 
+
+
+CONNECTICUT GENERAL LIFE INSURANCE COMPANY, 
+Defendants. 
+
+
+Argued May 9, 1994 
+Decided Nov. 4, 1994 
+
+
+Before RUSSELL and WIDENER, Circuit Judges, and 
+CHAPMAN, Senior Circuit Judge. 
+
+
+Affirmed in part and vacated and remanded in part by 
+published opinion. Judge RUSSELL wrote the opinion, 
+in which Judge WIDENER and Senior Judge CHAPMAN 
+joined. 
+
+OPINION 
+
+DONALD RUSSELL, Circuit Judge: 
+
+
+Jack L. Thomas (“Thomas”), a former employee of 
+Tru-Tech, Inc. (“Tru-Tech”), brought a suit under the 
+Employee Retirement Income Security Act of 1974 
+(“ERISA”), 29 U.S.C. § 1001 et seq., on behalf of a class 
+of former Tru-Tech employees against Tru-Tech and D. 
+Grant Peaccok (“Peacock”), an officer and shareholder of 
+Tru-Tech. The district court held for the plaintiff class 
+as against Tru-Tech, but held Peacock not liable as a 
+
+
+‘ 3a 
+
+
+plan fiduciary. Thomas v. Tru-Tech, Inc., No. 87-2243-3, 
+1988 U.S.Dist. LEXIS 15929, 1988 WL 212511 (D.S.C. 
+Nov. 28, 1988). On appeal, we affirmed the district 
+court’s judgment in all respects. Thomas v. Tru-Tech, 
+Inc., 900 F.2d 256 (4th Cir.1990) (unpublished disposi- 
+tion; full text reported at 1990 WL 48865). 
+
+
+Thomas then brought suit, purportedly on behalf of 
+the plaintiff class certified in the earlier suit,’ against Pea- 
+cock, individually, and against Peacock’s attorney, Alan 
+H. Finegold (“Finegold”), seeking to collect the earlier 
+judgment. Among various theories for recovery, Thomas 
+sought to pierce Tru-Tech’s corporate veil and reach Pea- 
+cock. The district court rejected Thomas’ claim against 
+Finegold, but allowed plaintiffs to recover as against Pea- 
+cock based upon their veil-piercing theory. Thomas v. 
+Peacock, No. 7:91-3843-21, 1992 U.S.Dist. LEXIS 18749 
+(D.S.C. Oct. 28, 1992). Peacock appeals. We affirm. 
+
+
+Peacock also appeals the district court’s assessment of 
+attorneys’ fees against him with respect to both litigations 
+pursued by Thomas. We vacate the award of attorneys’ 
+fees and remand for further proceedings. 
+
+
+I. 
+
+
+In August of 1987, Thomas, on behalf of a class of 
+similarly situated former Tru-Tech employees, filed suit 
+against Tru-Tech and Peacock seeking payment of bene- 
+fits due under Tru-Tech’s pension plan (the “initial liti- 
+gation”). The complaint raised numerous claims for re- 
+lief, including breach of fiduciary duty under ERISA. The 
+district court found Tru-Tech, but not Peacock, to be a 
+plan fiduciary; it further found that Tru-Tech had breached 
+
+
+1 Thomas describes this suit as a continuation of the prior class 
+action and, accordingly, asserts that this suit is also brought on 
+behalf of the class. As discussed infra, Peacock disputes this 
+assertion. 
+
+
+ee nee 
+
+
+4a 
+
+
+its fiduciary duties. On appeal, we affirmed the district 
+court in all respects.” 
+
+
+Thomas subsequently sought to execute judgment 
+against Tru-Tech in Pennsylvania, but was unsuccessful. 
+Thomas then brought the present suit against Peacock, 
+individually, and against Peacock’s attorney, Finegold, on 
+theories of civil conspiracy, fraudulent transfer of assets, 
+and corporate veil-piercing under ERISA. The district 
+court approved of plaintiffs’ attempt to pierce Tru-Tech’s 
+corporate veil and determined that plaintiffs were entitled 
+to collect from Peacock their earlier judgment against 
+Tru-Tech; the court otherwise rejected plaintiffs’ claims. 
+Peacock appeals. 
+
+Il. 
+
+
+In 1981, Rockwell International decided to sell the 
+textile machinery parts manufacturing business of its 
+Draper Division; this business was conducted at two plants, 
+one in Marion, South Carolina, and the other in Beebe 
+River, New Hampshire. A Delaware corporation named 
+Tru-Tech was organized for the purpose of acquiring this 
+business. Tru-Tech maintained an office in Spartanburg, 
+South Carolina; Bill Wilcock (“Wilcock”) was appointed 
+its president and chief executive officer. A partnership 
+named Marion Limited Partners (“Marion LP”) was es- 
+tablished for the purpose of purchasing the Marion, South 
+Carolina, plant from Rockwell International and leasing 
+it to Tru-Tech. 
+
+
+Among the investors in Tru-Tech was appellant Pea- 
+cock. Peacock was the sole stockholder and director of 
+Peacock, Williams & Company (“PW & C”).* Peacock 
+
+
+2We summarized the facts underlying the initial litigation in 
+our earlier opinion, see 1990 WL 48865, at *1-*2. 
+
+
+In fact, PW & C was first called D. Grant Peacock & Company, 
+and then Peacock, Williams & Company; it subsequently reverted 
+to its original name. For ease of reference, we refer to it through- 
+out our opinion as “PW & C.” 
+
+
+‘i Sa 
+
+
+was a CPA and a lawyer who also served as a partner in 
+
+
+Marion LP. Marion LP’s sole general partner, however, 
+was Wilcock. 
+
+
+_ Despite high hopes, Tru-Tech quickly fell on hard 
+times.‘ When, by September of 1983, Tru-Tech had al- 
+ready lost a substantial sum of money, Wilcock was re- 
+placed by John H. Blackburn (“Blackburn”), previously 
+Tru-Tech’s vice president of operations. When Tru- 
+Tech’s board determined that it was not viable for Tru- 
+Tech to continue in business, it became Blackburn’s re- 
+sponsibility to liquidate Tru-Tech’s assets. 
+
+
+In 1985, Tru-Tech relocated its offices to space :ented 
+by PW & C in Pittsburgh, Pennsylvania. Timothy H. Wil- 
+liams (“Williams”), PW & C’s president, assumed the role 
+of Tru-Tech’s executive vice president, treasurer and sec- 
+retary. From late 1986 through late 1988, PW & C 
+silled Tru-Tech for incidentals such as telephone, travel, 
+
+
+* The district court noted: 
+
+
+The promoters and founders of Tru-Tech expected the busi- 
+ness to derive substantial revenue primarily from two sources. 
+First, they expected to continue supplying parts to Rockwell’s 
+Draper Division which manufactured looms. Second, they be- 
+lieved that Tru-Tech had purchased the tooling for Draper parts 
+and that they could sell these parts on the open market. Un- 
+
+
+fortunately, their expectations did not come to fruition and 
+the business failed. 
+
+
+Despite the general sluggishness in the textile industry at 
+the time, the demise of Tru-Tech can be attributed to two 
+events that occurred simultaneously. First, within six months 
+of Tru-Tech’s purchase .. Rockwell’s Draper parts manufac- 
+turing business, Rockwell sold its Draper Division to another 
+group of investors who immediately reduced inventories, thus 
+severely reducing orders Tru-Tech expected to fill. Second, the 
+“new” Draper filed suit against Tru-Tech alleging that Draper, 
+not Tru-Tech, had the tooling rights for Draper parts. It was 
+determined subsequently that Draper had in fact retained these 
+rights, and it was at this point that Tru-Tech’s potential for 
+profit was eliminated. 
+
+
+1992 U.S.Dist. LEXIS 18749, at *3-*4, 
+
+
+6a 
+
+
+entertainment, legal, postal and office supply expenses. 
+Peacock testified that, at that time: “We ha[d]n’t been 
+keeping the accounting records . . . for Tru-Tech since it 
+it had no employees.” J.A. 345. 
+
+
+By February of 1986, Tru-Tech had managed to sell 
+all of its productive assets in South Carolina. Operations 
+at the Beebe River Plant in New Hampshire ceased in 
+June of 1986 and management sought to liquidate the 
+assets at that plant to reduce Tru-Tech’s financial liabili- 
+ties. Despite this effort, Tru-Tech’s negative net worth 
+continued to increase from $893,676.00 on September 
+30, 1986 to $1,376,888.00 by September 30, 1990. 
+
+
+As Tru-Tech’s troubles continued to mount, Peacock 
+took it upon himself to “buy out” other investors who, 
+purportedly, could less well withstand the impact of Tru- 
+Tech’s financial downturn than could he. As a result, by 
+1987, Peacock controlled in excess of 70% of Tru-Tech’s 
+stock. This domination continued until 1990,° when, on 
+Finegold’s advice, Peacock sold 724,980 shares to Wil- 
+liams and Blackburn for $200 in order to bring his hold- 
+ings below the 50% mark. Moreover, from March 1988 
+until February 1990 and, effectively, until Tru-Tech’s 
+final dissolution in May 1990, Peacock served as the com- 
+pany’s sole director. 
+
+
+Peacock testified that, following the suspension of Tru- 
+Tech’s operations, in July 1986, Blackburn was placed on 
+PW & C’s payroll for the purpose of “wrapping-up Tru- 
+Tech’s affairs.” For this service and for the rent for a 
+portion of PW & C’s office in Pittsburgh, PW & C billed 
+Tru-Tech $10,000 each month; this liability eventually 
+grew to more than $110,000. PW & C issued invoices to 
+Tru-Tech which described the $10,000 a month charge 
+as levied for the services rendered by Blackburn, an en- 
+gineer by trade, as having been billed for “FINANCIAL 
+CONSULTING SERVICES.” E.g., J.A. 443. This lia- 
+
+
+5 Althovgh the stock certificates exhibit dates in 1987, they were 
+not forwarded to Blackburn for his signature until 1990. 
+
+
+‘ 7a 
+bility was not long maintained on PW & C’s books, how- 
+
+
+ever, since, according to an August 3, 1989, memorandum 
+
+
+to Williams, “the management fee receivable of [approxi- 
+mately] $110,000 was written off in the year ended 
+1/31/87.” J.A. 593. Nevertheless, as described below, 
+Tru-Tech receivables were subsequently transferred from 
+Tru-Tech to PW & C and to other Peacock-affiliated enti- 
+ties, purportedly in consideration for this liability owed 
+PW & C by Tru-Tech. 
+
+
+On November 28, 1988, as described above, the district 
+court entered judgment in favor of the plaintiff class 
+against Tru-Tech, which timely filed its notice of appeal, 
+leaving Tru-Tech beset by numerous large liabilities, in- 
+cluding the Thomas judgment, some $50,000 owed to 
+PW & C and approximately $350,000 owed to Peacock 
+individually. After discussions with Peacock concerning 
+the Thomas judgment against Tru-Tech, Finegold, by let- 
+ter dated March 2, 1989, advised Peacock: 
+
+
+I see no reason for any payment with regard to the 
+Thomas litigation unless and until the judgment be- 
+comes final and constitutes a lien on real estate held 
+for sale. As I understand the situation, the corpora- 
+tion Owns no real estate in South Carolina and the 
+plaintiffs have made no effort to attach the corpora- 
+tion’s property in New Hampshire at this time. It 
+remains quite desirable then, to effect the disposition, 
+for acceptable consideration, of the New Hampshire 
+realty before the plaintiffs attempt to reach it. You 
+will need, nevertheless, to pay any legal fees owed to 
+Tru-Tech, Inc.’s counsel in the Thomas case in order 
+to keep them involved in the appeal process. 
+
+
+J.A. 625 4c. The letter goes on to suggest, as a means of 
+“protect[ing] the [Tru-Tech] real estate against any claims 
+in the Thomas case and to preserve some possibility of 
+recovery of some portion of the amounts owed to you and 
+your corporation, . . . an arrangement,” J.A. 625-26, 
+under which a new corporation would be formed in New 
+
+
+a 
+
+
+—————Eoeeeee 
+
+
+Hampshire for the purpose of assuming ownership of the 
+Tru-Tech real estate. Finegold advised that “the arrange- 
+ment suggested allows you and Peacock, Williams & Com- 
+pany to recover $130,000 if the new corporation even- 
+tually succeeds in consummating the sale of the premises,” 
+J.A. 626, subject to the proviso that “the possibility 
+exists of treatment of the transfer as a voidable prefer- 
+ence,” J.A. 626. 
+
+
+Peacock and Finegold then held a meeting to discuss 
+further the subject of the Tru-Tech judgment, “as a con- 
+sequence of which,” J.A. 628, Finegold, in a March 13, 
+1989 letter, identified for Peacock “the various matters 
+on which we had settled as a strategy,” J.A. 628, includ- 
+ing, in particular, the following: 
+
+
+(3) The [Tru-Tech] corporation will refrain, for 
+the time being, from payment of any obligations aris- 
+ing out of the Thomas litigation, pending further 
+developments on this front. 
+
+
+(7) The [Tru-Tech] corporation will, with the use 
+of its receivables, pay down the amounts owed to 
+Peacock, Williams & Company, and to you, person- 
+ally, in order to start running the one year period for 
+avoidance of preferences to control persons in bank- 
+
+
+ruptcy. 
+J.A. 628. 
+
+
+The “strategy” outlined in Finegold’s letters to Peacock 
+was never fully implemented. Still, several questionable 
+transactions were executed during this general time frame. 
+We summarize them here. 
+
+
+On April 30, 1988, a $31,804 Tru-Tech receivable 
+from Marion LP was “netted on Tru-Tech’s books” so as 
+to become a receivable of PW & C. J.A. 433. 
+
+
+By authorization dated October 31, 1988, Peacock, as 
+sole director of Tru-Tech, transferred a $27,235.08 Tru- 
+
+
+1 
+
+
+Tech receivable known as the “Uhiman note” to Finegold 
+and Peacock’s wife as trustees of the D. Grant Peacock 
+trust, the beneficiary of which is Pe ’s wife. In return 
+for this transfer, Finegold claimed, by letter dated April 
+3, 1989, to have forwarded to Peacock checks payable to 
+Tru-Tech for $27,235.08. The letter requests that Pea- 
+cock furnish Finegold with “a schedule showing the appli- 
+cation by Tru-Tech of the $27,235.08 paid, an applica- 
+tion which, I assume, involves some favored creditors like 
+Peacock, Williams & Company, Incorporated.” J.A. 618. 
+
+
+Judge Traxler concluded “that there was either no con- 
+sideration paid for the assignment of the Uhiman note on 
+October 31, 1988, or the assignment was simply back- 
+dated to reflect that as the supposed date of transfer,” 
+1992 U.S.Dist. LEXIS 18749, at *12, and, further, “that 
+the purpose of the sale of the Uhlman Note was to get 
+enough cash into Tru-Tech to pay the $25,000 retainer 
+to Greenville [counsel] for the purpose of handling the 
+appeal of the Thomas judgment,” id.; October 31, 1988, 
+the purported date of the sale, predates the entry of judg- 
+ment in favor of plaintiffs in the original trial. 
+
+
+At a March 6, 1989, Tru-Tech board meeting attended 
+by Peacock, Finegold and Blackburn, Peacock agreed to 
+pay $130,000 of Tru-Tech funds to PW & C. Peacock 
+asserts that this was to repay PW & C for money paid to 
+Blackburn to manage Tru-Tech’s affairs, even though, 
+prior to that date, the evidence showed that PW & C had 
+“written off” that amount due. 
+
+
+On a June 26, 1989, Tru-Tech pro forma balance sheet. 
+Peacock made a handwritten note that a $47,000 Tru- 
+Tech receivable known as the “Brodsky note” should be 
+transferred to PW & C. Further, next to numerous bal- 
+ance sheet liability entries, including the entry “Judgment 
+—Jack Thomas Case” as well as entries for interest 
+thereon and estimated attorneys’ fees, is the handwritten 
+word, “Forget.” J.A. 542. 
+
+
+10a 
+
+
+By unanimous consent order dated July 1, 1989, the 
+Tru-Tech board of directors, of which Peacock was by 
+then the sole member, approved the transfer of the Brod- 
+sky note to PW & C “for accounts payable owed by Tru- 
+Tech to Peacock Williams.” J.A. 590. Blackburn, as 
+Tru-Tech’s president, formally executed the transfer on 
+October 20, 1989, “for consideration paid,” J.A. 588. 
+
+
+On November 1, 1989, Tru-Tech assigned a $5,737.75 
+receivable from Marion LP to PW & C. 
+
+
+On February 15, 1990, Peacock resigned as a director 
+of Tru-Tech. Yet, as late as May of that year, Peacock 
+continued to sign checks, drawn on Tru-Tech’s bank 
+accounts, for legal fees. 
+
+
+On April 26, 1990, Blackburn tendered his letter of 
+resignation as Tru-Tech’s president. Nevertheless, for some 
+six months thereafter, Blackburn remained on PW & C’s 
+payroll and continued to oversee the “wrapping up” of 
+Tru-Tech’s affairs. 
+
+
+On May 1, 1990, Williams resigned as Tru-Tech’s 
+executive vice president, treasurer and secretary. Yet, on 
+May 4, 1990, he authorized the assignment of a $5,000 
+mortgage from Tru-Tech to PW & C. 
+
+
+When, in 1990, the plaintiff class, by way of Pennsyl- 
+vania counsel, served interrogatories on PW & C, Fine- 
+gold, and Peacock and his wife, Finegold responded, by 
+letter dated August 30, 1990: 
+
+
+[A]s I understand the situation, Tru-Tech, Inc., . . . 
+has discontinued its businesses, and disposed of all its 
+fixed assets . . .; and all of its directors and officers 
+with any detailed knowledge of the businesses and 
+affairs of the corporation have resigned. As a prac- 
+tical matter, then, the corporation is defunct; and 
+there is no one known to Grant Peacock or to me 
+who has the authority and knowledge to prepare the 
+answer demanded to the interrogatories propounded. 
+
+
+J.A. 632. 
+
+
+. ila 
+
+
+Based on the foregoing, the district court found that 
+Peacock failed to observe the traditional corporate format 
+and engaged in a “corporate strategy” with “the specific 
+intent and purpose . . . [of] siphon{ing] off [Tru-Tech’s] 
+assets to favored creditors owned or controlled by Pea- 
+cock and to defeat collection of the Thomas judgment.” 
+1992 U.S.Dist. LEXIS 18749, at *19. Peacock appeals. 
+
+
+Ill 
+
+
+Peacock argues that this suit is one merely to collect an 
+outstanding judgment and that, because ERISA is not 
+thereby implicated, the district court lacked subject matter 
+jurisdiction over this case.* He also argues that, even if 
+the district court properly exercised jurisdiction, it erred 
+in applying a federal common law, as opposed to state 
+law, standard for piercing the corporate veil. Proper 
+evaluation of these contentions requires that we examine 
+the nature of an attempt to pierce the corporate veil. 
+
+
+As we explained in DeWitt Truck Brokers, Inc. v. W. 
+Ray Flemming Fruit Co., 540 F.2d 681 (4th Cir.1976): 
+
+
+[I]t is recognized that a corporation is an entity, 
+Separate and distinct from its officers and stockhold- 
+ers, and that its debts are not the individual indebted- 
+ness of its stockholders. This is expressed in the 
+presumption that the corporation and its stockholders 
+are separate and distinct. . . . But this concept of 
+Separate entity is merely a legal theory . . . and the 
+courts “decline to recognize [it] whenever recogni- 
+tion of the corporate form would extend the principle 
+of incorporation ‘beyond its legitimate purposes and 
+[would] produce injustices or inequitable conse- 
+quences.” ” 
+
+
+Id. at 683 (citation and footnote omitted) ( quoting 
+Krivo Indus. Supply Co. v. National Distillers and Chem. 
+
+
+*It is undisputed that there is no diversity of citizenship ji 
+p in 
+this action, and that there is no basis for federal question juris- 
+diction other than the fact that the suit seeks to enforce a judg- 
+ment obtained pursuant to ERISA. 
+
+
+12a 
+
+
+Corp., 483 F.2d 1098, 1106 (Sth Cir.1973), modified, 
+490 F.2d 916 (1974)). 
+
+
+“An attempt to pierce the corporate veil is not itself a 
+cause of action but rather is a means of imposing liability 
+on an underlying cause of action... .” 1 William Meade 
+Fletcher, Fletcher Cyclopedia of the Law of Private 
+Corporations § 41, at 603 (perm. ed. rev. vol. 1990). 
+However, although an attempt to pierce the corporate 
+veil is necessarily subsidiary to some primary cause of 
+action, it is not simply an attempt to collect a preexisting 
+liability against an entity already found liable under the 
+relevant substantive law; it is, rather, an attempt » “a 
+
+such a preexisting liability upon an entity not other- 
+a liable. See Sandlin v. Corporate Interiors Inc., 972 
+F.2d 1212, 1217 (10th Cir.1992) (in a “cause of action 
+based upon the alter ego theory[,] . . . in theory the court 
+is merely trying to identify the true debtor on the judg- 
+ment”). Thus, the doctrine of piercing the corporate veil 
+is not a mere procedural rule relating to “how” a judg- 
+ment is to be enforced, but is, rather, a substantive rule 
+of liability. See Craig v. Lake Asbestos of Quebec, Lid., 
+843 F.2d 145, 149 (3d Cir.1988) (holding that, in 
+diversity case, federal district court properly applied New 
+Jersey substantive law of veil-piercing). Last, we note 
+that “the doctrine of piercing the corporate veil is an 
+equitable one.” 1 Fletcher, supra, § 41, at 603. 
+
+
+IV. 
+
+
+Peacock argues that, once the plaintiff class won its 
+judgment against Tru-Tech, it became a judgment creditor, 
+like any other. The district court, he argues, therefore 
+lacked subject matter jurisdiction over Thomas’ attempt to 
+pierce the corporate veil. We reject this argument. 
+
+
+It is black letter law that 
+
+
+7 We note that, at page 27 of his brief, Peacock, albeit in another 
+context, relies upon this very excerpt from Professor Fletcher’s 
+treatise. 
+
+
+‘ 13a 
+
+
+the jurisdiction of a court is not exhausted by the 
+rendition of the judgment, but continues until that 
+judgment shall be satisfied. . . . Process subsequent 
+to judgment is as essential to jurisdiction as 
+
+antecedent to judgment, else the judicial power would 
+be incomplete and entirely inadequate to the purposes 
+for which it was conferred by the Constitution. 
+
+
+Riggs v. Johnson County, 73 U.S. (6 Wall.) 166, 187, 
+18 L.Ed. 768 (1867). We established above that an at- 
+tempt to pierce the corporate veil is a matter of substan- 
+tive law that determines whether a corporate shareholder 
+can be held liable for a preexisting judgment entered 
+against the corporation. An attempt to pierce the corpo- 
+rate veil, therefore, seeks to identify those parties against 
+whom the judgment can be satisfied. Because identifica- 
+tion of those parties who are liable is necessarily ante- 
+cedent to procedural enforcement of the judgment against 
+those parties, and because Riggs establishes that federal 
+courts have “ancillary” jurisdiction over enforcement of 
+judgments, it would seem that the federal courts’ “ancil- 
+lary” jurisdiction would extend to the instant attempt to 
+pierce the corporate veil. 
+
+Before we leave the issue, however, we must assure 
+ourselves that our conclusion is in accord with the Supreme 
+Court’s holding in H.C. Cook Co. v. Beecher, 217 US. 
+497, 30 S.Ct. 601, 54 L.Ed. 855 (1910).* There, a 
+
+
+*The Seventh Circuit in Argento v. Village of Melrose Park, 
+838 F.2d 1483, 1488 (7th Cir. 1988), discounted the Justice Holmes’ 
+opinion in Beecher as a “case, decided over 75 years ago, [that] 
+is three paragraphs long containing a conclusion, but virtually 
+no discussion.” Further, noted that Court, “[i]t has rarely been 
+cited as precedent.” Id. We are skeptical of the Seventh Circuit’s 
+notion that, as an inferior court, we may evade Supreme Court 
+precedent on grounds of “desuetude.” Cf. United States v. Chase, 
+18 F.3d 1166, 1169 (4th Cir.1994) (“Although there has been 
+little discussion of [Ball v. United States, 140 U.S. 118, 11 S.Ct. 
+761, 35 L.Ed. 877 (1891),] since it was decided in 1891, the Su- 
+preme Court and the Eighth Circuit, in deciding other issues, have 
+recognized its continued vitality.”). Nor are we convinced, as was 
+
+
+l4a 
+
+
+Connecticut corporate patentholder brought a patent in- 
+fringement suit in federal court against another Connecti- 
+cut corporation. During the pendency of the suit, the 
+directors of the defendant corporation voted to continue 
+sales in alleged violation of the plaintiff's patent. Plaintiff 
+proved the victor in the patent infringement case but was 
+unable to collect from the defendant corporation, which 
+was by then insolvent. 
+
+
+Plaintiff then filed a second suit in federal court against 
+the directors of the insolvent corporation. In its com- 
+plaint, plaintiff alleged that the defendants voted to con- 
+tinue sales “kn[o]w[ing] that [insolvency] would be the 
+result of a judgment against [their corporation in the first 
+suit], but did the acts alleged for the purpose of increasing 
+the value of their stock in the company, and of receiving 
+the profits and dividends that might be received from the 
+sale.” Id. at 498, 30 S.Ct. at 601-02. 
+
+
+On plaintiff's appeal of the second suit, Justice Holmes, 
+writing for the Court, rejected Plaintiff's characterization 
+of the suit as one to hold the directors jointly and sev- 
+erally liable with their corporation for their part in in- 
+fringing plaintiff's patent, id., instead according plaintiff's 
+complaint its “natural interpretation [as] an attempt to 
+make the defendants answerable for the judgment already 
+obtained,” id. The Court then summarily concluded that 
+the case “of course [did] not” fall within the federal 
+court’s ancillary jurisdiction. Id. at 499, 30 S.Ct. at 602. 
+
+
+the Third Circuit in Skevofilax v. Quigley, 810 F.2d 878, 385 n. 5 
+(3d Cir.) (en banc), cert. denied, 481 U.S. 1029, 107 S.Ct. 1956, 
+95 L.Ed.2d 528 (1987), that “Justice Holmes probably intended 
+the [Beecher] opinion to be an interpretation of the .. . governing 
+statute,” and that the possibility that Justice Holmes might have 
+“intended his opinion to serve as a pronouncement on the constitu- 
+tional limits of ancillary jurisdiction” should be dismissed because 
+“he certainly kept that intention to himself, for it is nowhere 
+mentioned in the opinion.” In any event, we may assume Beecher’s 
+continuing vitality, for the case is distinguishable on its facts 
+from the case now before us. 
+
+
+( ee 
+
+
+The Court concluded: “[I]f the directors are under obli- 
+gations by Connecticut to pay a judgment against their 
+corporation, that is not a matter that can be litigated 
+between citizens of the same State in the Circuit Court 
+of the United States.” Jd. 
+
+
+Beecher is factually distinguishable from the case at 
+bar. While the instant case involves allegations that 
+Peacock deliberately engaged in improper transfers and 
+improperly ignored corporate formalities with the specific 
+purpose of evading the already-extent judgment against 
+Tru-Tech, Beecher involved an allegation that corporate 
+directors, acting within their legal capacity, voted to con- 
+tinue sales of a product which was the subject of a then- 
+pending patent infringement suit. Beecher, however, does 
+make clear that the mere fact that a “former judgment 
+[provides] the foundation of [a subsequent] case,” id., is 
+insufficient, alone, to establish that the subsequent case 
+falls within the federal court’s ancillary jurisdiction. In 
+particular, where the subsequent action is truly “independ- 
+ent” of the former action and judgment, there is no ancil- 
+lary jurisdiction. See Sandlin v. Corporate Interiors Inc., 
+972 F.2d 1212, 1217 (10th Cir.1992) (“We read 
+Beecher as saying that when postjudgment proceedings 
+seek to hold nonparties liable for a judgment on a theory 
+that requires proof on facts and theories significantly 
+different from those underlying the judgment, an inde- 
+pendent basis for federal jurisdiction must exist.”); Berry 
+v. McLemore, 795 F.2d 452, 455 (5th Cir.1986) (“gar- 
+nishment actions against third parties are construed as 
+independent actions from the primary action which estab- 
+lished the judgment debt” and, therefore, the “court’s 
+ancillary jurisdiction to enforce its judgment does not 
+extend to these garnishment actions” ).° 
+
+
+®*We do not, by our citation of the Fifth Circuit’s decision in 
+Berry, mean to imply a holding that garnishment actions against 
+third parties are, in fact, “independent actions from the primary 
+action which established the judgment debt”; that issue, of course, 
+is not now before us. 
+
+
+l6a 
+
+
+Without defining the precise contours of when a subse- 
+quent litigation is “independent” of a former litigation and 
+judgment, we believe that Thomas’ attempt to pierce the 
+corporate veil is not “independent” of the initial litigation 
+herein. As noted above, an attempt to pierce the corpo- 
+rate veil is necessarily subsidiary to some primary cause 
+of action. That Thomas opted to file a separate action 
+to pierce Tru-Tech’s corporate veil is irrelevant: the 
+court’s subject matter jurisdiction does not turn on 
+whether Thomas pursued the procedurally proper route. 
+Further, we do not believe that the possibility that Thomas 
+may not have been able to pursue this litigation at the 
+same time as the initial litigation should affect the fact 
+that this is, at bottom, a proceeding the goal of which 
+is to collect the judgment earlier obtained by the plaintiff 
+class. Cf. Sandlin v. Corporate Interiors Inc., supra, 972 
+F.2d 1212; but cf. Blackburn Truck Lines, Inc. v. 
+
+
+%°In Sandlin, a successful age discrimination plaintiff sought 
+to collect judgment against the owners of the debtor corporation, 
+who were not parties to the initial age discrimination litigation, 
+on an alter ego theory. The Tenth Circuit read Beecher, which it 
+described as “[a] typically cryptic Justice Holmes opinion,” 972 
+F.2d at 1217, to say “that when postjudgment proceedings seek to 
+hold nonparties liable for a judgment on a theory that requires 
+proof on facts and theories sigificantly different from those under- 
+lying the judgment, an independent basis for federal jurisdiction 
+must exist,” id. Purporting to apply that standard to the case 
+before it, the court, “[w]ithout attempting to decide all future 
+cases, when the alter ego contentions may be more intertwined 
+with the merits of the underlying claim within the court’s primary 
+jurisdiction, we hold the district court properly dismissed the in- 
+stant alter ego claims.” Id. at 1218. The court reached this con- 
+clusion on the grounds that the attempt to invoke the alter ego 
+doctrine involved “significantly different factual proof, new parties, 
+[and] prejudgment actions.” /d. By contrast, the court indicated 
+that “[p]ursuing the new parties . . . on a successor theory” would 
+be viable to the extent that plaintiff could allege “postjudgment 
+transfers of [the corporate debtor’s] property.” Jd. (citing Chris- 
+
+
+‘ AT7a 
+
+
+Francis, 723 F.2d 730 (9th Cir.1984)", ‘There is, in 
+short, simply no practical reason to treat this litigation 
+
+
+tiansen v. Mechanical Contractors Bid Depository, 404 F.2d 324 
+(10th Cir.1968) ). ' vat 2 
+The Tenth Circuit’s holding in Sandlin is not inconsistent with, 
+and, indeed, can be read to support, our conclusion herein. First, 
+the case at bar involves primarily conduct by Peacock occurring 
+after the judgment in the initial litigation was obtained. More- 
+over, to whatever extent the Tenth Circuit may properly have ob- 
+served that, for jurisdiction to lie, “alter ego contentions [should] 
+be [somewhat] intertwined with the merits of the underlying 
+claim,” we note that the district court here found that Peacock 
+engaged in a strategy with “the specific intent and purpose... 
+[of] siphon[ing] off [Tru-Tech’s] assets to favored creditors 
+owned or controlled by Peacock and to defeat collection of the 
+Thomas judgment.” 1992 U.S.Dist. LEXIS 18749, at *19. 
+
+
+In Francis, the plaintiff, who was unable to collect upon de- 
+fault judgments it previously had obtained against two bankrupt 
+corporations, brought suit against the three owners of both cor- 
+porations, seeking to pierce the corporate veil. The court of ap- 
+peals held that jurisdiction was proper in the district court. Rea- 
+soned the court: “In one sense this suit is an effort to enforce 
+the initial default judgment; in another sense it is an effort to 
+accomplish what a joinder might have provided.” Jd. at 732. 
+
+
+We do not believe that the Ninth Circuit’s reference to joinder 
+has bearing here. This is because Peacock was in fact a party 
+to the initial ‘tigation, although not in the same capacity as he was 
+in the phase of litigation now under review. Moreover, plaintiffs 
+presumably could not successfully have pursued their veil-piercing 
+claim because most of the actions which led the district court to 
+its conclusion had then yet to occur. Nevertheless, we do not think 
+that these differences warrant a different conclusion as to jurisdic- 
+tion. Especially where, as here, a stock-holder has deliberately 
+manipulated corporate assets in order to frustrate the ability of 
+one who holds a judgment against the corporation by virtue of 
+federal law, we think it clear that the federal courts have jurisdic- 
+tion to ensure that the federal judgment is ultimately collected. 
+To the extent that the Ninth Circuit’s opinion in Francis suggests 
+otherwise, we respectfully disagree. 
+
+We would note that the Francis court made no mention of the 
+Justice Holmes’ opinion in Beecher. 
+
+
+18a 
+
+
+as separate from the initial litigation.”* Cf. Pineville Real 
+Estate Operation Corp. v. Michael, 32 F.3d 88 (4th Cir. 
+1994) (holding that there is no federal question jurisdic- 
+tion over case where the plaintiff brought action against 
+defendants who had, in an earlier ERISA case, obtained 
+judgments against the plaintiff, seeking to enjoin state 
+enforcement of the judgment liens obtained by defendants 
+and where the only federal statute or rule relied upon in 
+plaintiffs complaint was Fed.R.Civ.P. 54(b) ). 
+
+
+Peacock places heavy reliance upon the Supreme 
+Court’s statement in Mackey v. Lanier Collection Agency 
+& Service, 486 U.S. 825, 833, 108 S.Ct. 2182, 2187, 
+100 L.Ed.2d 836 (1988), that “ERISA does not provide 
+an enforcement mechanism for collecting judgment won” 
+in either actions brought against plans by purported bene- 
+ficiaries or in actions brought by general creditors of the 
+plan, see ERISA § 502, 29 U.S.C. § 1132. Peacock reads 
+this statement out of context. The Mackey Court imme- 
+diately proceeded to note that, while ERISA did not pro- 
+vide for an enforcement mechanism, where suit is filed in 
+federal court, judgment enforcement is conducted pur- 
+suant to Federal Rule of Civil Procedure 69(a), which 
+adopts state law for judgment enforcement mechanisms. 
+486 US. at 833-34, 108 S.Ct. at 2187-88. Thus, the mere 
+fact that ERISA may not provide an explicit mechanism 
+for judgment enforcement does not mean that ERISA does 
+not provide jurisdiction for judgment enforcement. There- 
+fore, even assuming, arguendo, that piercing the corporate 
+veil is merely a method of judgment enforcement,” 
+Mackey does not undermine but, rather, supports the 
+district court’s exercise of jurisdiction. 
+
+
+12 For this reason, we reject Peacock’s challenge to the venue 
+of the instant litigation, as well as his contention that the district 
+court erred in failing to certify the plaintiff class for purposes of 
+the instant litigation. 
+
+
+13 We, in fact, consider and reject this argument below. 
+
+
+‘ 19a 
+
+
+Peacock also claims that the Supreme Court’s decision 
+in Mertens v. Hewitt Asseciates,; —— U.S. ——, 113 
+S.Ct. 2063, 124 L.Ed.2d 161 (1993), establishes that the 
+instant litigation against him was improperly maintained. 
+We disagree. In Mertens, the Court hold that ERISA 
+provides for no action for monetary damages against non- 
+fiduciaries. The current attempt by plaintiffs is not, how- 
+ever, as discussed above, an independent action for mone- 
+tary damages against a nonfiduciary, but an equitable 
+attempt to satisfy a previous judgment entered against a 
+fiduciary. 
+
+
+We therefor conclude that jurisdiction was proper in 
+the district court. 
+
+
+V. 
+
+
+Having determined that the court below properly exer- 
+cised jurisdiction over Thomas’ claim, we now turn to 
+whether the district court applied the proper legal standard 
+in adjudicating Thomas’ attempt to pierce Tru-Tech’s 
+corporate veil."* The district court relied upon a federal 
+
+
+* Peacock argues that the doctrine of piercing the corporate 
+veil has no place in ERISA actions at all. He argues that, wherever 
+the corporate veil should be pierced so that a shareholder will be 
+subject to the ERISA fiduciary liability of its corporation, ERISA, 
+standing alone, should allow the shareholder to be sued as a fidu- 
+ciary; piercing the corporate veil, he argues, adds nothing to 
+ERISA, but “results [only] in an uncomfortable inconsistency: the 
+imposition of liability on an individual who previously had been 
+adjudged not to be a fiduciary and hence not to have any liability 
+under ERISA’s statutory scheme.” Appellant’s Br. 23. 
+
+We disagree. The tests for ERISA fiduciary liability and veil- 
+piercing are not identical, especially where, as here, most of the 
+activity leading to the conclusion of veil-piercing occurs after the 
+activity pursuant to which the corporation is deemed to have 
+breached its ERISA fiduciary duties. 
+
+Peacock also argues that res judicata should bar Thomas’ claim 
+here. Thomas, Peacock argues, could and should have brought his 
+piercing claim at the same time as his ERISA claim. The record 
+does not provide the support necessary to this argument, however: 
+
+
+20a 
+
+
+common law rule for piercing the corporate veil in ERISA 
+cases. Peacock argues that the Supreme Court’s decision 
+in Mackey forecloses the existence of a federal common 
+law veil-piercing rule in ERISA actions. We disagree. 
+The Mackey Court held that “ERISA does not provide an 
+enforcement mechanism for collecting judgments won in” 
+suits brought by plan beneficiaries, pursuant to ERISA 
+§ 502(a)(1)(B), (d), 29 U.S.C. § 1132(a)(1)(B), (d), 
+against ERISA benefit plans. Even assuming, arguendo, 
+that ERISA also does not provide an enforcement mecha- 
+nism for collecting judgments won in suits brought by plan 
+beneficiaries, pursuant to ERISA § 502(a)(2), 29 U.S.C. 
+§ 1132(a)(2), such as the initial litigation won by plain- 
+tiffs,"* Mackey would only preclude a federal common law 
+veil-piercing ruie in ERISA actions to the extent that an 
+attempt to pierce the corporate veil is merely an enforce- 
+ment mechanism for collecting a judgment. It would be 
+error, however, as we discuss above in Section III, to 
+characterize the doctrine of piercing the corporate veil as 
+a mere judgment enforcement mechanism. Because a rule 
+of veil-piercing determines who is liable for breaches of 
+ERISA fiduciary duties, we believe that ERISA preempts 
+any state law of veil-piercing. See ERISA § 514(a), 29 
+U.S.C. § 1144(a); 1 Fletcher, supra, § 41.90, at 91 
+(Supp.1993) (“In disputes involving workers’ claims to 
+ERISA benefits, a federal court may apply a federal : com- 
+mon law standard of corporate separateness.” ). 
+
+
+most of the transactions relied upon by Judge Traxler in piercing 
+the corporate veil did not occur until after completion of the initial 
+ERISA litigation. 
+
+
+15 ERISA § 502(a) (2) allows for “[a] civil action [to] be brought 
+. . . by a participant, beneficiary or fiduciary for appropriate re- 
+lief under section 1109 of this title.” 29 U.S.C. § 1132(a) (2). 
+ERISA § 409, 29 U.S.C. § 1109, in turn, imposes liability upon plan 
+fiduciaries who breach their fiduciary duties. Plaintiffs, in the 
+initial litigation, were successful in establishing, pursuant to 
+ERISA § 409, 29 U.S.C. § 1109, that Tru-Tech was a fiduciary of 
+the benefit plan it had established, and that Tru-Tech had breached 
+its fiduciary duties. 
+
+
+‘ Bie 
+
+
+Having concluded that the determination of whether to 
+pierce the corporate veil in an ERISA action is made 
+under federal law, we turn to what standard the federal 
+
+
+veil-piercing rule adopts. See Phoenix Mut. Life Ins. Co. 
+
+
+vy. Adams, 30 F.3d 554, 563-64 (4th Cir.1994). The 
+
+
+First Circuit in Alman v. Danin, 801 F.2d 1, 3-4 (lst 
+Cir.1986), explained: 
+
+There is no litmus test in the federal courts govern- 
+ing when to disregard corporate form. The Supreme 
+Court has, however, provided some guidance, stating 
+that “the doctrine of corporate entity, recognized 
+generally and for most purposes, will not be regarded 
+when to do so would work fraud or injustice.” Taylor 
+v. Standard Gas Co., 306 U.S. 307, 322, 59 S.Ct. 
+543, 550, 83 L.Ed. 669 (1939). The Court has 
+further indicated that corporate form may not defeat 
+overriding federal legislative policies. See First Na- 
+tional City Bank v. Banco Para el Comercio Exterior 
+de Cuba, 462 U.S. 611, 630, 103 S.Ct. 2591, 2602, 
+77 L.Ed.2d 46 (1983); Bangor Punta Operations, 
+Inc. v. Bangor & Aroostook Railroad Co., 417 U.S. 
+703, 713, 94 S.Ct. 2578, 2584, 41 L.Ed.2d 418 
+(1974). This court has said, 
+
+
+The general rule adopted in the federal cases is 
+that “a corporate entity may be disregarded in 
+the interests of public convenience, fairness and 
+equity,” [citing Capital Telephone Co. v. FCC, 
+498 F.2d 734, 738 (D.C.Cir.1974)]. In apply- 
+ing this rule, federal courts will look closely at 
+the purpose of the federal statute to determine 
+whether the statute places importance on the 
+corporate form [citations omitted], an inquiry 
+that usually gives less respect to the corporate 
+form than does the strict common law alter 
+ego doctrine... . 
+
+
+Town of Brookline v. Gorsuch, 667 F.2d 215, 221 
+(1st Cir.1981). 
+
+
+22a 
+
+
+ERISA, the statute sought to be enforced here, 
+cannot be said to attach great weight to corporate 
+form. Indeed, deferring too readily to the corporate 
+identity may run contrary to the explicit purposes of 
+the Act. Congress enacted ERISA in part because 
+many employees were being deprived of anticipated 
+benefits, which not only reduced the financial re- 
+sources of individual employees and their dependents 
+but also undermined the stability of industrial rela- 
+tions generally. See 29 U.S.C. § 1001 (1982) (state 
+ment of congressional findings and declaration of 
+policy); H.Rep. No. 807, 93d Cong., 2d Sess., re- 
+printed in 1974 U.S.Code Cong. & Ad. News 4639, 
+4670, 4676. Allowing the shareholders of a marginal 
+corporation to invoke the corporate shield in circum- 
+stances where it is inequitable for them to do so and 
+thereby avoid financial obligations to employee bene- 
+fit plans, would seem to be precisely the type of con- 
+duct Congress would want to prevent. 
+
+
+801 F.2d at 3-4. Several Other circuits have followed 
+similar reasoning. Ellison v. Shenango Inc. Pension Bd. v. 
+Snyder, 956 F.2d 1268, 1274-75 (3d Cir.1992); Janow- 
+ski v. International Bhd. of Teamsters Local No. 710 
+Pension Fund, 673 F.2d 931, 941 (7th Cir.1982), va- 
+cated on other grounds, 463 U.S. 1222, 103 S.Ct. 3565, 
+77 L.Ed.2d 1406 (1983); see NLRB v. Greater Kansas 
+City Roofing, 2 F.3d 1047, 1052 (10th Cir.1993) (inter- 
+preting federal rule to allow veil piercing only where 
+“(i) . . . there [was] such unity of interest and lack of 
+respect given to the separate identity of the corporation 
+by its shareholders that the personalities and assets of the 
+corporation and the individual are indistinct and (ii) . . . 
+adherence to the corporate fiction [would] sanction a 
+fraud, promote injustice, or lead to an evasion of legal 
+obligations”). We, too, find this reasoning persuasive ™ 
+
+
+1® We note that this federal common law veil-piercing rule accords 
+with our understanding of the South Carolina rule, as expounded 
+
+
+‘ 2 
+
+
+and, accordingly, adopt the liberal veil-piercing standard 
+enunciated by the First Circuit in Alman for use in 
+ERISA actions. As a consequence, we conclude that the 
+district court applied the correct legal standard in evalu- 
+ating the plaintiff class’ effort to pierce Tru-Tech’s cor- 
+porate veil. 
+
+
+in our opinion in DeWitt Truck Brokers, Inc. v. W. kay Flemming 
+Fruit Co., 640 F.2d 681 (4th Cir.1976). There, we explained that 
+the “concept of [the corporation as a] separate entity is merely 
+a legal theory . . . and the courts ‘decline to recognize [it] whenever 
+recognition of the corporate form would extend the principle of 
+incorporation beyond its legitimate purposes and [would] produce 
+injustices or inequitable consequences.’” Jd. at 683 (footnote 
+omitted) (quoting Krivo Indus. Supply Co. v. National Distillers 
+and Chem. Corp., 483 F.2d 1098, 1106 (Sth Cir.1973), modified, 
+490 F.2d 916 (1974)). We proceeded to stress that “proof of plain 
+fraud is not a necessary element in a finding to disregard the cor- 
+porate entity,” id. at 684, and that “courts have experienced ‘little 
+difficulty’ and have shown no hesitancy in applying what is described 
+as the ‘alter ego’ or ‘instrumentality’ theory in order to cast aside 
+the corporate shield and to fasten liability on the individual stock- 
+holder,” id. at 685 (quoting Jron City Sand & Gravel Div. of Me- 
+Donough Co. v. West Fork Towing Corp., 298 F.Supp. 1091, 1098 
+(N.D.W.Va.1969), rev’d on other grounds, 440 F.2d 958 (4th Cir. 
+1971)). Thus, while the federal veil-piercing test may “usually 
+give[] less respect to the corporate form than does the strict 
+common law alter ego doctrine,” Town of Brookline, 667 F.2d at 
+221, the South Carolina doctrine of veil-piercing accords with the 
+ERISA veil-piercing standard announced in Alman. Compare Per- 
+petual Real Estate Servs., Inc. v. Michaelson Properties, Inc., 974 
+F.2d 545, 549 (4th Cir.1992) (noting that the standard we set out 
+in DeWitt is “not the law in Virginia,” which sets more stringent 
+standards for piercing the corporate veil). 
+
+
+In light of the foregoing, we observe that, to the extent that, 
+“[{w)hile the veil piercing inquiry in an ERISA case is .. . rooted 
+in federal law, state is not rendered completely irrelevant,” United 
+Elec., Radio and Machine Workers of America v. 163 Pleasant 
+Street Corp., 960 F.2d 1080, 1092 n. 12 (1st Cir.1992), and that, in 
+“apply[ing] federal substantive law, ... we may look to state law 
+for guidance,” Laborers Clean-Up Contract Administration Trust 
+Fund v. Uriarte Clean-Up Service, Inc., 736 F.2d 516, 523 (9th 
+Cir.1984), the federal standard we apply accords with South Caro- 
+lina veil-piercing law. 
+
+
+24a 
+
+
+VI. 
+
+
+Peacock next argues that, on the facts presented, the 
+district court erred in concluding that Tru-Tech’s corporate 
+veil should be pierced. We disagree. The district court 
+found, as matters of fact, that Peacock owned a control- 
+ling (and, at most relevant times, a complete) interest in 
+Tru-Tech and, from March of 1988 until its liquidation, 
+served as Tru-Tech’s sole director; that PW & C hired 
+Blackburn to wind down Tru-Tech’s business and, in turn, 
+billed Tru-Tech $10,000 a month for financial services, 
+and also for incidental expenses; and that numerous trans- 
+fers were effected among Tru-Tech, PW & C, Peacock 
+and others without proper consideration or formalities. 
+On the basis of these facts and others set out above, the 
+court further found that Peacock engaged in a “corporate 
+strategy” with “the specific intent and purpose . . . [of] 
+siphon[ing] off [Tru-Tech’s] assets to favored creditors 
+owned or controlled by Peacock and to defeat collection 
+of the Thomas judgment.” 1992 U.S. Dist. LEXIS 18749, 
+at *19. On the record before us, we cannot characterize 
+these findings of fact as clearly erroneous. 
+
+
+We also review the district court’s decision to pierce 
+Tru-Tech’s corporate veil under the clearly erroneous 
+standard. DeWitt Truck Brokers, Inc., supra, 540 F.2d at 
+684; accord Laborers Clean-Up Contract Administration 
+Trust Fund v. Uriarte Clean-Up Service, Inc., 736 F.2d 
+516, 523 (9th Cir.1984) (reviewing, under the clearly 
+erroneous standard, the district court’s decision in an 
+ERISA case to pierce the corporate veil). Under that 
+limited standard of review, the district court’s decision 
+will not be disturbed. 
+
+
+Peacock’s remaining arguments against the district 
+court’s judgment regarding the imposition against him of 
+the Tru-Tech ERISA liability established in the initial 
+litigation are without merit. We consequently affirm the 
+district court’s judgment in that regard. 
+
+
+' = 
+
+
+Vil. 
+
+Following the determination by the district court in the 
+initial litigation that Tru-Tech was liable while Peacock 
+was not, District Judge G. Ross Anderson, Jr., entered an 
+order allowing plaintiffs to defer any motion for attorneys’ 
+fees until final disposition of the initial litigation. Because 
+of the appeal of the initial litigation and the subsequent 
+attempt to pierce Tru-Tech’s corporate veil, such a motion 
+was not made until the instant litigation was complete in 
+the district court. At that time, District Judge William B. 
+Traxler, Jr., referred the matter back to Judge Anderson 
+for determination of fees arising out of the initial litiga- 
+tion. Judge Anderson applied the five-factor test enunci- 
+ated in Reinking v. Philadelphia American Life Insurance 
+Co., 910 F.2d 1210, 1217-18 (4th Cir.1990), to deter- 
+mine whether a fee award was appropriate, and, finding 
+that one was, the twelve-factor test adopted in Barber v. 
+Kimbrell’s, Inc., 577 F.2d 216, 226 & n. 28 (4th Cir.), 
+cert. denied, 439 U.S. 934, 99 S.Ct. 329, 58 L.Ed.2d 
+330 (1978), to fix the amount thereof. Ultimately, Judge 
+Anderson decided that a fee of $123,181.25 was reason- 
+able, along with costs of $13,103.60. Judge Traxler 
+undertook a similar inquiry and analysis with respect to 
+fees arising out of the veil-piercing litigation, concluding 
+that $64,406.25 in attorneys’ fees and $4,490.91 in costs 
+were due. Thus, a total of $205,182.01 in attorneys’ 
+fees and expenses were assessed against Peacock. This, 
+we note as a preliminary matter, exceeds the total damages 
+assessed in this case. Peacock argues both that it was 
+inappropriate for the district court to award attorneys’ 
+fees in this case and that, even if such an award was 
+appropriate, the amount of the award was excessive. We 
+reject Peacock’s first argument but find his second argu- 
+ment persuasive. 
+
+
+In keeping with ERISA § 502(g)(1)’s explicit grant of 
+discretion to the district courts to award “a reasonable 
+attorney’s fee,” 29 U.S.C. § 1132(g), we review the dis- 
+
+
+wal f 
+
+
+26a 
+
+
+trict court’s decision to award attorneys’ fees solely for 
+abuse of discretion, Quesinberry v. Life Ins. Co. of N. 
+Am., 987 F.2d 1017, 1028 (4th Cir.1993) (en banc). 
+Peacock argues that, because the initial litigation resulted 
+in his exoneration, any award of attorneys’ fees is unjust 
+here. The truly culpable party, Peacock suggests, is Tru- 
+Tech. Because this argument ignores the district court’s 
+finding that Peacock was Tru-Tech’s alter ego and was, 
+himself, culpable for siphoning off Tru-Tech’s funds, we 
+reject it and find no abuse of discretion in the district 
+court’s decisions to award attorneys’ fees arising out of 
+both stages of litigation in this case. 
+
+
+Of far greater weight is Peacock’s challenge to the 
+amount of the fee awards announced by the district 
+judges. Factor eight of the procedure established in 
+Barber v. Kimbrell’s, Inc., for fixing the amount of an 
+attorneys’ fee award is “the amount in controversy and 
+the results obtained.” 577 F.2d at 226 n. 28. This is “the 
+most critical factor,” in such an analysis. Hensley v. 
+Eckerhart, 461 U.S. 424, 436, 103 S.Ct. 1933, 1941, 
+76 L.Ed.2d 40 (1983). Yet, although the fee award for 
+the initial litigation amounts to more than two-thirds of 
+the total award resulting from that litigation, the district 
+court, in its discussion of “the most critical factor” in the 
+Barber analysis focused on the result and the tenacity of 
+the attorneys without mentioning the size of the proposed 
+attorneys’ fee and costs award in comparison with the 
+total damage award.’’ A subsequent discussion in the 
+district court’s opinion justifies the disproportionate award 
+by citation to cases discussing fee awards in the context of 
+civil rights actions, and by asserting that the policies un- 
+derlying ERISA are equally strong. This justification is 
+without basis in law. We think it safe to say, without 
+belittling the important interests which ERISA serves to 
+
+
+17 Nor did the district court discuss the size of the fee award 
+in the context of another Barber factor, the attorneys’ reasonable 
+expectations at the outset of the litigation. 
+
+
+‘ 27a 
+
+
+vital protections and vindicate far more important in- 
+terests. Cf. Quesinberry, 987 F.2d at 1030 (noting Con- 
+gress’ decision not to implement, in the ERISA context, 
+“a mandatory fee shifting rule analogous to 42 U.S.C. 
+§ 1988”). As the Fifth Circuit has explained: 
+
+
+The policies underlying ERISA are certainly im- 
+portant ones, but they simply do not rise to the 
+level of assuring that all citizens are accorded their 
+civil rights. Not only are the policies that [ERISA] 
+is designed to enforce less compelling than those 
+furthered by [the civil rights laws], but the need for 
+attorneys’ fees as an enforcement incentive is less 
+under ERISA than the . . . civil rights statutes. 
+Plaintiffs suing under the [civil rights laws] are 
+“private attorneys general” in the sense that they seek 
+injunctive relief to vindicate important public rights. 
+If such “plaintiffs were routinely forced to bear their 
+own attorneys’ fees, few aggrieved parties would be 
+in a position to advance the public interest by invok- 
+ing the injunctive powers of the federal courts.” 
+[Newman v. Piggie Park Enterprises, Inc., 390 U.S. 
+400, 402, 88 S.Ct. 964, 966, 19 L.Ed.2d 1263 
+(1968)]. Plaintiffs under Title I of ERISA may be 
+seeking injunctive relief for the benefit of all the 
+participants and beneficiaries of a particular plan. 
+but they may also be seeking damages on behalf of 
+their plan or simply the recovery of benefits from the 
+plan that are due them alone. Fiduciaries, more- 
+over, may have a statutory obligation to bring ERISA 
+suits. Thus, incentives in the form of attorneys’ fees 
+are, on the whole, less necessary to insure that the 
+Statute is enforced. 
+
+
+Iron Workers Local No. 272 v. Bowen, 624 F.2d 1255, 
+1265-66 (Sth Cir.1980) (footnotes omitted); accord 
+Ellison v. Shenango Inc. Pension Bd. v. Snyder, 956 F.2d 
+1268, 1274-75 (3d Cir.1992); Janowski v. International 
+Bhd. of Teamsters Local No. 710 Pension Fund, 673 F.2d 
+
+
+28a 
+
+
+931, 941 (7th Cir.1982), vacated on other grounds, 463 
+U.S. 1222, 103 S.Ct. 3565, 77 L.Ed.2d 1406 (1983). 
+We agree with the position taken by other circuits in 
+this regard. We therefore vacate the attorneys’ fees de- 
+termination entered by the district court with regard to 
+the initial litigation.** On remand, the district court should 
+recalculate, in a manner consistent with this opinion, the 
+amount of attorneys’ fees. 
+
+
+With respect to the district court’s assessment of attor- 
+ney’ fees with regard to the instant attempt to pierce 
+Tru-Tech’s corporate veil, Peacock claims that the district 
+court erred in failing to address whether any portion of 
+the total hours spent by the plaintiff's attorneys was de- 
+voted solely to plaintiffs’ case against Finegold, which, as 
+opposed to plaintiffs’ case against Peacock, was not suc- 
+cessful. We disagree. It is true that “no fees should be 
+awarded for time spent on unsuccessful claims that were 
+unrelated to successful ones.” Abshire v. Walls, 830 F.2d 
+1277, 1282 (4th Cir.1987). Where, however, the facts of 
+an unsuccessful claim are “inextricably intertwined” with 
+those of a successful claim, fees for total time spent are 
+appropriately awarded because both claims required in- 
+vestigation of a “common core of facts.” Here, given 
+Finegold’s relationship to Peacock and his role in Pea- 
+cock’s and Tru-Tech’s transactions, and the nature of the 
+claims raised against Finegold, we conclude that the facts 
+underlying all of the plaintiffs’ claims in this litigation 
+were “inextricably intertwined.” 
+
+Peacock also raises several specific objections to the 
+district court’s assessment of attorneys’ fees as to both 
+phases of the litigation herein. First, Peacock cites nu- 
+
+
+18 We also note that the district court, in assessing attorneys’ 
+fees with respect to the initial litigation, made reference to plain- 
+tiffs’ counsel’s success in piercing Tru-Tech’s corporate veil in the 
+instant litigation. This was error. In proceeding under the “results 
+obtained” factor in determining an appropriate fee award for the 
+initial litigation, the district court should confine its consideration 
+to the “results obtained” in that litigation. 
+
+
+ae 
+
+
+one would have sufficed. See n v. Metts, 973 F.2d 
+378, 383-85 (4th Cir.1992). Second, Peacock claims 
+that the district court awarded items of “cost” which do 
+not fall within the definition of the term at 28 U.S.C. 
+§ 1920. Last, Peacock describes as excessive the time 
+plaintiffs’ counsel claim to have spent in preparing their 
+fee petitions for submission to the district court and in 
+performing unspecified tasks since the victory against 
+Peacock in the veil-piercing phase of this case. 
+
+
+The district judges’ orders herein reveal no examination 
+of the objections described above. While we acknowledge 
+the great deference we afford district courts in assessing 
+the proper amount of attorneys’ fees and costs, Goodwin, 
+973 F.2d at 385, where a party raises specific objections 
+to particular fees or items of cost, we believe it appropri- 
+ate for the district court, in the first instance, to address 
+such objections and make appropriate factual finding in 
+order that we might arrive at an informed review of the 
+district court’s decision. See Joseph A. by Wolfe v. New 
+Mexico Dep’t of Human Servs., 28 F.3d 1056, 1060-61 
+(10th Cir.1994). 
+
+VIII. 
+
+
+We affirm the district court’s judgment allowing the 
+plaintiff class to pierce Tru-Tech’s corporate veil and 
+recover the damages assessed in the initial litigation from 
+Peacock. While we affirm the district court’s decision to 
+allow the plaintiff class to recover the attorneys’ fees it 
+incurred in maintaining both the initial litigation and the 
+instant litigation, we vacate the amounts of attorneys’ fees 
+and costs assessed by the district court and remand for 
+recalculation consistent with this opinion. 
+
+
+AFFIRMED IN PART AND VACATED AND RE- 
+MANDED IN PART. 
+
+
+30a 
+APPENDIX B 
+[Filed and Entered Oct. 28, 1992] 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF SOUTH CAROLINA 
+SPARTANBURG DIVISION 
+
+
+C/A No. 7:91-3843-21 
+
+
+Jack L. THomas, Individually and on Behalf of the Tru- 
+Tech, Inc. Pension Plan, and as a Representative of a 
+Class of Plaintiffs Similarly Situated, 
+
+Plaintiff, 
+vs. 
+
+
+D. GRANT PEACOCK and ALAN H. FINEGOLD, 
+Defendants. 
+
+
+ORDER 
+
+
+This matter is before the court as a nonjury trial. 
+I find for the Plaintiff against D. Grant Peacock. I do 
+not find for the Plaintiff against Alan H. Finegold. 
+
+
+Background of the Case 
+
+
+In 1987 the Plaintiff (“Thomas”) brought an action in 
+United States District Court in South Carolina on behalf 
+of himself and other employees of Tru-Tech, Inc. (“Tru- 
+Tech”) seeking payment of pension benefits under the 
+Tru-Tech, Inc. Pension Plan (“the Pension Plan”). 
+Thomas v. Tru-Tech, Inc., No. 7:87-2243-3 (D.S.C. 
+1988). In that action, Thomas asserted numerous causes 
+of action, including breach of fiduciary duty under the 
+Employee Retirement Income Security Act (“ERISA”), 
+29 U.S.C. § 1001, et seg. (1982). The substance of 
+
+
+3la 
+
+
+Thomas’ claim was that he and others were entitled to 
+pension benefits under an amendment to the Pension Plan. 
+
+
+In November 1988, the district court ruled that Thomas 
+was entitled to benefits and further held that Tru-Tech, 
+as a fiduciary of the Pension Plan, was liable to Thomas 
+under ERISA for breach of its fiduciary duty in the 
+amount of $187,628.93. The case was appealed to the 
+Fourth Circuit Court of Appeals which, in April 1990 
+affirmed in all respects the lower court’s decision and left 
+intact Thomas’ judgment against Tru-Tech. See Thomas 
+v. Tru-Tech, Inc., 900 F.2d 256 (4th Cir. 1990) (table 
+only; text available on Westlaw). 
+
+
+Following the decision by the Fourth Circuit, Thomas 
+attempted to some extent to collect the judgment from 
+Tru-Tech, but was unsuccessful. Thomas then brought the 
+present suit against D. Grant Peacock (“Peacock”), indi- 
+vidually, and Peacock’s attorney, Alan H. Finegold 
+(“Finegold”), on theories of civil conspiracy, fraudulent 
+transfer of assets, and corporate veil piercing under 
+ERISA and applicable federal law. Thomas alleged Pea- 
+cock and Finegold conspired to improperly charnel Tru- 
+Tech’s assets in order to defeat Thomas’ claim as a judg- 
+ment creditor. In addition, Thomas alleged that Peacock’s 
+control over Tru-Tech’s affairs was such that Tru-Tech 
+was a mere “alter ego” of Peacock himself and that Tru- 
+Tech’s disregard for corporate formalities justified piercing 
+the corporate veil in order to secure satisfaction of the 
+$187,628.93 Thomas judgment. 
+
+
+Findings of Fact 
+
+
+Tru-Tech was organized in 1981 as a Delaware cor- 
+poration to purchase a textile machinery parts manufac- 
+turing business from the Draper division of Rockwell 
+International. Financing for the two plants, located in 
+Marion, South Carolina, and Beebe River, New Hamp- 
+shire, was arranged through a group of investors from 
+Pittsburgh, Pennsylvania. Grant Peacock was one of these 
+
+
+32a 
+
+
+investors. A partnership named Marion Limited Partners 
+was established for the purpose of purchasing the Marion, 
+South Carolina, plant from Rockwell International and 
+leasing it to Tru-Tech. An office was placed in Spartan- 
+burg, South Carolina. 
+
+
+The promoters and founders of Tru-Tech expected the 
+business to derive substantial revenue primarily from two 
+sources. First, they expected to continue supplying parts 
+to Rockwell’s Draper Division which manufactured looms. 
+Second, they believed that Tru-Tech had purchased the 
+tooling for Draper parts and that they could sell these 
+parts on the open market. Unfortunately, their expecta- 
+tions did not come to fruition and the business failed. 
+
+
+Despite the general sluggishness in the textile industry 
+at the time, the demise of Tru-Tech can be attributed to 
+two events that occurred simultaneously. First, within six 
+months of Tru-Tech’s purchase of Rockwell’s Draper parts 
+manufacturing business, Rockwell sold its Draper Division 
+to another group of investors who immediately reduced 
+inventories, thus severely reducing orders Tru-Tech ex- 
+pected to fill. Second, the “new” Draper filed suit against 
+Tru-Tech alleging that Draper, not Tru-Tech, had the 
+tooling rights for Draper parts. It was determined sub- 
+sequently that Draper had in fact retained these rights, 
+and it was at this point that Tru-Tech’s potential for 
+profit was eliminated. 
+
+
+By September of 1983, Tru-Tech had lost a substantial 
+sum of money and Bill W. Wilcock, Tru-Tech’s president 
+and chief executive officer, was terminated and replaced by 
+John H. Blackburn, Tru-Tech’s Vice President of Opera- 
+tions. The Spartanburg office was closed. Since Tru-Tech 
+continued to lose money, it became Blackburn’s respon- 
+sibility to liquidate Tru-Tech’s assets. 
+
+
+During the latter half of 1985 and early 1986, Tru- 
+Tech managed to sell all of its productive assets in South 
+Carolina. Although the lease between Marion Limited 
+
+
+‘ 3a 
+
+
+Partners and Tru-Tech did not — until the fall of 
+1986, Tru-Tech quit paying rent in February of . 
+Operations .at the Beebe River Plant in New Hampshire 
+ceased in June of 1986. . ‘While Tru-Tech maintained as- 
+sets at this plant, management sought to liquidate the 
+assets to reduce its financial liabilities. Tru-Tech’s nega- 
+tive net worth increased from $893,676.00 on September 
+30, 1986, to $1,376,888.00 on September 30, 1990, thus 
+evidencing the fact that Tru-Tech continued to lose money. 
+Among the liabilites owed by Tru-Tech were the amount 
+of Thomas’ judgment, approximately $50,000.00 owed 
+to Grant Peacock & Co., approximately $350,000.00 
+owed to Peacock individually, and several other large out- 
+standing debts. 
+
+
+D. Grant Peacock was the sole stockholder and director 
+of Peacock, Williams & Company, formerly D. Grant 
+Peacock & Company. He also ended up serving as the sole 
+director of Tru-Tech from March of 1988 until its liquida- 
+tion. Peacock owned controlling interest in Tru-Tech 
+prior to the sale of 724,980 shares to Timothy H. Williams 
+and John H. Blackburn for $200. Peacock was a CPA 
+and a lawyer who also served as a partner in Marion 
+Limited Partnership. 
+
+
+Following discontinuation of the operations of Tru- 
+Tech, Peacock testified that John H. Blackburn was 
+“placed on the payroll of Peacock, Williams” for the pur- 
+pose of handling the wrap-up of Tru-Tech in July 1986. 
+For this service and for the service of operating out of 
+Peacock’s office in Pittsburgh, Peacock, Williams & Com- 
+pany billed Tru-Tech $10,000 per month for “financial 
+consulting services,” generating a large receivable on the 
+books of Tru-Tech in excess of $110,000. However, ac- 
+cording to an August 3, 1989, memo to Timothy H. Wil- 
+liams, with a copy to Peacock and Jack Blackburn, “The 
+
+
+_ 
+\o 
+oo 
+an 
+
+
+1 Although the stock certificates are dated December 10, 1988, 
+they were forwarded by Grant Peacock to John Blackburn for his 
+signature as president of Tru-Tech on April 4, 1990. 
+
+
+34a 
+
+
+Peacock, Williams books contain[ed] no receivable from 
+Tru-Tech because the management fee receivable of ap- 
+proximately $110,000 was written off in the year ended 
+January 31, 1987.” During the entire period from No- 
+vember 1, 1986, through October 31, 1988, Peacock, 
+Williams & Company billed Tru-Tech for such incidental 
+expenses as telephone bills, travel, entertainment, legal 
+fees, UPS, Federal Express, office supplies, Xerox, post- 
+age, and petty cash. Peacock testified that during this 
+period no accounting records were kept for Tru-Tech 
+“since it had no employees.” 
+
+On November 28, 1988, the Plaintiff obtained the 
+judgment from the district court against Tru-Tech. An 
+appeal was taken immediately thereafter. After obvious 
+discussions with Peacock concerning the Thomas judg- 
+ment, Finegold wrote Peacock on March 2, 1989, stating 
+in part as follows: 
+
+
+I see no reason for any payment with regard to the 
+Thomas litigation unless and until the judgment be- 
+comes final and constitutes a lien on real estate held 
+for sale. As I understand the situation, the corpora- 
+tion owns no real estate in South Carolina and the 
+plaintiffs have made no effort to attach the corpora- 
+tion’s property in New Hampshire at this time. It 
+remains quite desirable then, to effect the disposition, 
+for acceptable consideration, of the New Hampshire 
+realty before the plaintiffs attempt to reach it. You 
+will need, nevertheless, to pay any legal fees owed to 
+Tru-Tech, Inc.’s counsel in the Thomas case in order 
+to keep them involved in the appeal process. 
+
+
+In the same letter, it was suggested to Peacock “in 
+order to protect the real estate against any claims in the 
+Thomas case and to preserve some possibility of recovery 
+of some portion of the amounts owed to you and your 
+corporation” that Peacock consider an elaborate scheme 
+under which a new corporation would be formed in New 
+Hampshire for the purpose of receiving a transfer of the 
+
+
+—> 
+
+
+Tru-Tech real estate. Recognizing that “the possibility 
+exists of treatment of the transfer as a voidable prefer- 
+ence,” Finegold nonetheless advised that “the arrangement 
+suggested allows you and Peacock, Williams & Company 
+to recover $130,000 if the new corporation eventually 
+succeeds in consummating the sale of the premises.” 
+
+
+Following more discussions with Peacock, on March 
+13, 1989, Finegold wrote to Peacock “as a consequence of 
+our meeting this past Monday with respect to Tru-Tech, 
+Inc.,” to point out “the various matters on which we had 
+settled as a strategy,” including: 
+
+
+(3) The corporation will refrain, for the time being, 
+from payment of any obligations arising out of the 
+
+
+Thomas litigation, pending further developments on 
+this front. 
+
+
+( 1) The corporation will, with the use of its receiv- 
+ables, pay down the amounts owed to Peacock, 
+Williams & Company and to you, personally, in order 
+to start running the one year period for avoidance of 
+preferences to control persons in bankruptcy. 
+
+
+Following this exchange of correspondence, on a Tru- 
+Tech Proforma Balance Sheet dated June 26, 1989, Pea- 
+cock indicated in his own handwriting that the note 
+receivable shown on the books of Tru-Tech as the “Brod- 
+sky Note” with a value of $47,000 should be transferred 
+to Peacock, Williams & Company and that Tru-Tech 
+should “forget” the $187,628.93 Thomas judgment car- 
+ried as a liability on the Tru-Tech balance sheet together 
+with estimated interest on the judgment of $12,000 and 
+estimated Plaintiff's attorneys’ fees of $50,000. It is also 
+worthy of note that this same document shows that the 
+asserted consideration for this preferential transfer of the 
+Brodsky Note to Peacock, Williams & Company was the 
+same management fee for “financial consulting services” 
+which were written off on the books of Peacock, Williams 
+& Company in the year ending January 31, 1987. 
+
+
+36a 
+
+
+According to this “strategy,” Peacock, who by then 
+was sole director of Tru-Tech, executed a written consent 
+of the Tru-Tech Board of Directors dated July 1, 1989, 
+authorizing the Brodsky Note to be transferred to Pea- 
+cock, Williams & Company “for accounts payable owed 
+by Tru-Tech to Peacock, Williams,” and the assignment 
+of the Brodsky Note was executed by John H. Blackburn 
+as president of Tru-Tech on October 20, 1989. Biack- 
+burn was then operating out of Peacock’s office in Pitts- 
+burgh. However, although the transfer date of the Brod- 
+sky Note is shown in Tru-Tech’s general ledger with a 
+transaction date of July 31, 1989, a typed list of accounts 
+payable for Tru-Tech dated April 19, 1990, still shows a 
+total of $111,706 payable to Grant Peacock & Company 
+with a handwritten entry questioning whether the $40,000 
+Brodsky Note should be deducted. 
+
+
+In addition to the Brodsky Note, deposition exhibits 
+identified by Peacock and Finegold indicate that a note 
+receivable known as the “Uhlman Note” was transferred 
+to Finegold and Nancy B. Peacock. The authorization for 
+this transfer, signed by D. Grant Peacock as sole director 
+of Tru-Tech, is dated October 31, 1988, and Finegold 
+testified in his deposition that a check should have been 
+issued to Tru-Tech “more or less” at the same time: 
+
+
+Q. And the check would have been at the same 
+time as far as you know? 
+
+
+A. I assume more or less. Whether it was on the 
+exact same day that the note was signed, I don’t 
+know. 
+
+
+The date of the transfer and payment of consideration 
+is important because, if the authorization was actually 
+executed on the date shown in Plaintiff's Deposition Ex- 
+hibit # 7, this transfer would have taken place on Octo- 
+ber 31, 1988, twenty-eight days prior to the entry of the 
+Thomas judgment against Tru-Tech. Finegold testified 
+that “Mr. Peacock contacted me and indicated to me that 
+
+
+‘ 37a 
+
+
+Tru-Tech, Inc., had as one its assets this particular note” 
+and that Tru-Tech “was badly in need of funds that it 
+could use to pay certain obligations and that it wished to 
+sell this note for cash.” However, the actual “transaction 
+date” shown on the general ledger of Tru-Tech for the 
+transfer of the Uhlman Note is May 31, 1989. In addi- 
+tion, Thomas introduced as Exhibit # 31 a letter from 
+Finegold dated April 3, 1989, the first paragraph of which 
+States: 
+
+
+Pursuant to your request, I have signed and enclosed 
+herewith, in my capacity as trustee of the D. Grant 
+Peacock Trust for Nancy B. Peacock u/a dated De- 
+cember 26, 1985, two checks payable to the order 
+of Tru-Tech in the aggregate amount of $27,235.08 
+constituting the purchase price of the Uhlman note, 
+including interest accrued through same date. 
+
+
+This same letter requests that Peacock furnish Finegold 
+“a copy of the so-called Uhlman note” and “a schedule 
+showing the application by Tru-Tech of the $27,235.08 
+paid, an application which, I assume, involves some fa- 
+vored creditors like Peacock, Williams & Company, In- 
+corporated.” 
+
+Thus, the evidence is that there was either no con- 
+sideration paid for the assignment of the Uhlman Note on 
+October 31, 1988, or the assignment was simply back- 
+dated to reflect that as the supposed date of transfer. In 
+addition, the court finds that the purpose of the sale of 
+the Uhlman Note was to get enough cash into Tru-Tech 
+to pay the $25,000 retainer to Greenville attorney David 
+L. Freeman for the purpose of handling the appeal of the 
+Thomas judgment.’ Deposition exhibits identified by 
+Peacock indicate that reports on the progress of the 
+Thomas litigation were made by Freeman to John H. 
+Blackburn as senior vice-president of Peacock, Williams & 
+
+
+? According to a pencil entry on the Tru-Tech accounts payable 
+list of July 31, 1989, the $25,000 retainer appears to have been 
+paid on June 2, 1989. 
+
+
+38a 
+
+
+Company and that Freeman’s bill for handling the appeal 
+was sent, not to Tru-Tech, but to Peacock himself and to 
+Grant Peacock & Company.* 
+
+
+In addition to these transfers, Tru-Tech also transferred 
+a receivable from Marion Limited Partners, in which Pea- 
+cock was a partner, in the amount of $5,737.75 to Pea- 
+cock, Williams & Company on November 1, 1989, together 
+with a $5,000 note on May 4, 1990.‘ There is further 
+evidence that Peacock was the “alter ego” of Tru-Tech in 
+a memorandum dated November 2, 1989, which stated: 
+
+
+On September 30, 1987, Tru-Tech, Inc., shows a 
+payable to Peacock Williams of $31,804. Tru-Tech 
+also shows a receivable from Marion Limited Partners 
+for $37,541.75. 
+
+
+On April 30, 1988, the two amounts were netted 
+on Tru-Tech’s books lowering the receivable from 
+Marion Limited Partners to $5,737.75 and the 
+amount due tc Peacock, Williams to zero. 
+
+
+Marion Limited Partners and Peacock, Williams 
+should now reflect this change. Marion Limited Part- 
+ners now owes Peacock, Williams $31,804.° 
+
+
+Peacock continued to act as the “alter ego” of Tru- 
+Tech even after his purported resignation as a director 
+
+
+*Freeman’s letter of January 6, 1989, enclosing his $25,000 
+“retainer statement” was sent directly to D. Grant Peacock of D. 
+Grant Peacock and Company, and the invoice itself is directed to 
+Grant Peacock & Company, Inc. 
+
+
+* This transfer was pursuant to what Peacock called “a floating 
+authorization,” and the assignment was executed by Timothy H. 
+Williams as executive vice-president of Tru-Tech on May 4, 1990, 
+four days after he resigned as an officer of Tru-Tech on May 1, 
+1990. 
+
+
+’This remaining Tru-Tech receivable of $5,737.75 was subse- 
+quently transferred to Peacock Williams & Company on November 
+1, 1989. 
+
+
+é 39a 
+
+
+on February 15, 1990. On March 6, 1990, Finegold 
+forwarded him “for signature in connection with the with- 
+drawal of Tru-Tech, Inc., from the State of New Hamp- 
+shire,” a letter to the State of New Hampshire “apparently 
+required for completion of this process.” Finegold con- 
+tinued to bill Peacock for delinquent legal services ac- 
+counts of Tru-Tech through May of 1990, and Peacock 
+continued to sign checks for legal fees on the bank ac- 
+count of Tru-Tech, including a $249.91 check dated May 
+29, 1990, and a check for $1,057.16 dated May 31, 1990. 
+However, although Finegold had no problem in getting 
+Peacock to sign Tru-Tech checks in payment of Finegold’s 
+legal fees after Peacock had resigned as a director, on 
+August 30, 1990, Finegold wrote to Donald L. Phillips, 
+a Pittsburgh attorney hired by Thomas to undertake sup- 
+plemental proceedings in Pennsylvania, stating in part as 
+follows: 
+
+
+Apparently, a problem exists in furnishing answers to 
+those interrogatories; for at present, as I understand 
+the situation, Tru-Tech, Inc. . . . has discontinued 
+its businesses, and disposed of all of its fixed assets 
+. . . 5 and all of its directors and officers with any 
+detailed knowledge of the businesses and affairs of 
+the corporation have resigned. As a practical matter, 
+then, the corporation is defunct; and there is no one 
+known to Grant Peacock or to me who has the au- 
+thority and knowledge to prepare the answers de- 
+manded to the interrogatories propounded. 
+
+
+Further, with respect to Peacock’s credibility, there was 
+no reference to Marion Limited Partners’ transfer to Pea- 
+cock, Williams & Company in Peacock’s answers to gar- 
+nishee interrogatories in the Pennsylvania supplemental 
+proceedings * and the evidence reveals the back-dating of 
+the stock certificates from Peacock to Timothy H. Williams 
+
+
+* The interrogatories were signed by Finegold and verified by 
+Peacock. 
+
+
+40a 
+
+
+and John R. Blackburn from April 4, 1990 to December 
+10, 1988.’ 
+
+
+Based on the background findings stated above, the 
+court makes the following specific findings of fact: 
+
+
+1. Grant Peacock was the sole shareholder and director 
+of Peacock, Williams & Company, formerly Grant Peacock 
+& Company. 
+
+
+2. From March 1988 until its ultimate dissolution in 
+May of 1990, Peacock was the controlling shareholder 
+and sole director of Tru-Tech. He directed and controlled 
+essentially all of its affairs, including its finances, dictated 
+the disposition of its assets, and ran the company from 
+his own office in Pittsburgh, either directly or through 
+other employees of Peacock, Williams & Company. 
+
+
+3. During the entire period from November 1986 
+through its ultimate dissolution in May of 1990, there was 
+a failure to observe corporate formalities between Tru- 
+Tech, Grant Peacock, and Peacock, Williams & Company. 
+No dividends were paid, there were no independently 
+functioning officers and directors other than Peacock and 
+those employees of Peacock, Williams & Company domi- 
+nated by Grant Peacock; there was an absence of many 
+of the corporate records normally found in a functioning 
+corporation, and the corporate shell of Tru-Tech was 
+merely a facade for the operation of the dominant will of 
+Grant Peacock. 
+
+
+TIn his deposition, Peacock testified that the reason for this 
+stock transfer had nothing to do with tax considerations. How- 
+ever, Tru-Tech’s amended 1988 tax return dated January 5, 1990 
+states as follows: “This return as originally filed incorrectly in- 
+dicated that a shareholder owned more than 50% of the stock as of 
+year end. This return is filed to correct the answer to question 
+l(a) and (b) on the original return.” Peacock testified that the 
+stock was issued in September of 1989, but the actual documents 
+show that the stock certificates were not signed unti] April 1990. 
+
+
+try ; 
+ber 1988 through its ultimate dissolution in May of 1990, 
+Tru-Tech was and remained insolvent. In contemplation 
+of the Thomas judgment and following its entry, Pea- 
+cock directed the management of Tru-Tech’s affairs to 
+
+
+creditors owned or controlled by Peacock, including Pea- 
+cock, Williams & Company and the D. Grant Peacock 
+Trust for Nancy B. Peacock. 
+
+
+5. Included in the assets of Tru-Tech siphoned off by 
+Peacock to certain favored creditors owned or controlled 
+by him were the following: 
+
+
+(a) The Uhlman Note valued at $27,235. 
+(b) The Brodsky Note valued at $47,000 to $48,000. 
+
+
+(c) The Marion Limited Partners’ receivable valued 
+at $5,737.75. 
+
+
+(d) A note transferred to Peacock, Williams & Com- 
+pany in May 1990 valued at $5,000. 
+
+
+6. The stated consideration for the bulk of these trans- 
+fers was a $110,000 receivable payable to Peacock, Wil- 
+liams & Company primarily for “financial consulting serv- 
+ices” billed to Tru-Tech during the time it was dominated 
+and controlled by Peacock and Peacock, Williams & 
+Company. This receivable had been previously written 
+off on the books of Peacock, Williams & Company in 
+January of 1987. The remaining consideration for these 
+transfers was a cash payment from the D. Grant Pea- 
+cock Trust for Nancy B. Peacock, the apparent purpose 
+of which was to pay the retainer charged by Greenville 
+attorney David Freeman to Peacock and Grant Peacock 
+
+
+& Company for handling the appeal of the Thomas judg- 
+ment. 
+
+
+42a 
+
+
+7. These assets of Tru-Tech were siphoned off by Pea- 
+cock pursuant to a corporate strategy developed by him. 
+It was the specific intent and purpose of this strategy to 
+siphon off these assets to favored creditors owned or con- 
+trolled by Peacock and to defeat collection of the Thomas 
+judgment. 
+
+
+8. There was a significant intermingling of funds as 
+well as overlap of administrative personnel between Tru- 
+Tech and Peacock, Williams & Company. As a result of 
+these and other actions of Peacock as the dominant share- 
+holder and director, Tru-Tech failed to observe traditional 
+corporate formalities. 
+
+
+9. In his efforts to siphon off the assets of Tru-Tech 
+to favored creditors owned or controlled by Peacock, it 
+was the specific intent of Peacock to defraud the former 
+employees of Tru-Tech who were beneficiaries of the Pen- 
+sion Plan and to defeat their legitimate attempt to collect 
+a lawful judgment. 
+
+
+10. The corporate form of Tru-Tech during the period 
+of November 1986 through its ultimate dissolution in May 
+of 1990, and even following that date, was a mere facade, 
+and during that period Tru-Tech was nothing more than 
+the “alter ego” of Peacock and an instrumentality domi- 
+nated and controlled by him. 
+
+
+11. Under the facts of this case and in light of the 
+clear legislative purpose of ERISA, it would be inequitable 
+and unfair to allow Tru-Tech’s corporate form to be mis- 
+used for the purpose of depriving its employees of their 
+anticipated benefits and of avoiding lawful financial obli- 
+gations to an employee benefit plan under ERISA. 
+
+
+12. The involvement of Finegold was not proven to 
+have exceeded the scope of proper legal representation. 
+
+
+‘ 43a 
+_ Conclusions of Law 
+A. Federal Policy Under ERISA 
+
+
+The applicable federal policy under ERISA was well 
+stated by the United States Court of Appeals for the First 
+Circuit in Alman v. Danin, 801 F.2d 1, 304 (ist Cir. 
+1986) where the court explained: 
+
+
+There is no litmus test in the federal courts governing 
+when to disregard corporate form. The Supreme 
+Court has, however, provided some guidance, stating 
+that “the doctrine of corporate entity, recognized 
+generally and for most purposes, will not be regarded 
+when to do so would work fraud or injustice.” 
+Taylor v. Standard Gas Co., 306 U.S. 307, 322, 
+59 S.Ct. 543, 550, 83 L.Ed. 669 (1939). The Court 
+has further indicated that corporate form may not 
+defeat overriding federal legislative policies... . This 
+Court has said, 
+
+
+The general rule adopted in the federal cases 
+is that “a corporate entity may be disregarded 
+in the interests of public convenience, fairness 
+and equity. .. .” In applying this rule, federal 
+courts will look closely at the purpose of the 
+federal statute to determine whether the statute 
+places importance on the corporate form... , 
+an inquiry that usually gives less respect to the 
+corporate form than does the strict common law 
+alter ego doctrine. . . . 
+
+
+ERISA, the statute sought to be enforced here, can- 
+not be said to attach great weight to corporate form. 
+Indeed, deferring too readily to the corporate iden- 
+tity may run contrary to the explicit purposes of the 
+Act. Congress enacted ERISA in part because many 
+employees were being deprived of anticipated bene- 
+fits, which not only reduced the financial resources 
+of individual employees and their dependents but also 
+undermined the stability of industrial relations gen- 
+
+
+44a 
+
+
+erally. . . . Allowing the shareholders of a marginal 
+corporation to invoke the corporate shield in circum- 
+stances where it is inequitable for them to do so and 
+thereby avoid financial obligations to employee bene- 
+fit plans, would seem to be precisely the type of con- 
+duct Congress wanted to prevent. 
+
+
+801 F.2d at 3-4 (citations omitted). 
+
+
+In deciding whether it is appropriate to disregard the 
+corporate form and to impose liability upon the dominant 
+shareholder under the “alter ego” doctrine, the courts have 
+generally focused on the following three factors: 
+
+
+the small respect paid by the shareholders themselves 
+
+to [the corporation’s] separate corporate entity; the 
+
+fraudulent intent of the incorporator; and the degree 
+
+of injustice that would be visited on the litigants by 
+
+recognizing the corporate identity. Other courts have 
+
+looked to similar factors where ERISA is involved. 
+8 
+
+
+Citing Alman v. Danin, with approval, the Seventh 
+Circuit in Lumpkin v. Envirodyne Industries, Inc., 933 
+F.2d 449, 461 (7th Cir. 1991) stated as follows: 
+
+
+The underlying congressional policy behind ERISA 
+clearly favors the disregard of the corporate entity 
+in cases where employees are denied their pension 
+benefits. In Pension Ben. Guaranty Corp. v. Quimet 
+Corp., 711 F.2d 1085 (1983), certiorari denied, 464 
+U.S. 961, 104 S.Ct. 393, 78 L.Ed.2d 337, the First 
+Circuit pierced the corporate veil to impose liability 
+upon the solvent members of a corporation that had 
+declared bankruptcy. The court emphasized that the 
+congressional intent of ERISA is to hold employers 
+
+
+8 Alman v. Danin, 801 F.2d at 4, citing Contractors, Laborers, 
+Teamsters & Engineers Health & Welfare Plan v. Hroch, 757 F.2d 
+184, 190 (8th Cir. 1985); Laborers Clean-up Contract Administra- 
+tion Trust Fund v. Uriarte Clean-up Service, Inc., 736 F.2d 516, 
+524 (9th Cir. 1984). 
+
+
+i a 
+
+
+responsible for pension benefits, so that when the 
+corporate form poses a bar to liability, “concerns for 
+corporate separateness are secondary to what we view 
+as the mandate of ERISA.” .. . Thus under Quimet 
+Corp., the corporate form chosen by defendant does 
+not necessarily preclude plaintiffs from piercing the 
+corporate veil and suing Envirodyne. If justice would 
+be served and potential fraud nullified then plaintiffs 
+should be able to proceed against the party that had 
+actual control of WSC and EDC.’ 
+
+
+In DeWitt Truck Brokers, Inc. v. W. Ray Flemming 
+Fruit Company, 540 F.2d 681 (4th Cir. 1976), the 
+Fourth Circuit described the appropriate considerations in 
+determining whether the corporate veil should be pierced. 
+In an opinion by Judge Donald Russell, the court stated: 
+
+
+At the outset, it is recognized that a corporation is an 
+entity, separate and distinct from its officers and 
+stockholders, and that its debts are not the individual 
+indebtedness of its stockholders. . .. But this concept 
+of separate entity is merely a legal theory, “introduced 
+for purposes of convenience and to subserve the ends 
+of justice,” and the courts “decline to recognize [it] 
+whenever recognition of the corporate form would 
+extend the principle of incorporation ‘beyond its le- 
+gitimate purposes and [would] produce injustices or 
+inequitable consequences.’” ... . Accordingly, “in 
+an appropriate case and in furtherance of the ends 
+of justice,” the corporate veil will be pierced and the 
+corporation and its stockholders “will be treated as 
+identical.” 
+DeWitt Truck Brokers, 540 F.2d at 683. 
+
+
+. The Fourth Circuit stressed the “proof of plain fraud 
+is not a necessary element in a finding to disregard the 
+
+
+* Lumpkin v. Envirodyne Industries, Inc., 933 F 
+(7th Cir. 1991). 2d 449, 461 
+
+
+46a 
+
+
+corporate entity” (540 F.2d 684) and “that the mere 
+fact that all or almost all of the corporate stock is owned 
+by one individual or a few individuals, will not afford 
+sufficient grounds for disregarding corporateness. .. .” 
+
+
+But when substantial ownership of all the stock of a 
+corporation in a single individual is combined with 
+other factors clearly supporting disregard of the cor- 
+porate fiction on grounds of fundamental equity and 
+fairness, courts have experienced “little difficulty” 
+and have shown no hesitancy in applying what is de- 
+scribed as the “alter ego” or “instrumentality” theory 
+in order to cast aside the corporate shield and to 
+fasten liability on the individual stockholder. . . . 
+
+
+DeWitt Truck Brokers, 540 F.2d at 685. 
+
+
+Stating that the piercing of the corporate veil is a ques- 
+tion of fact that is “particularly in the province of the trial 
+court” (540 F.2d 684), the Fourth Circuit in DeWitt 
+Truck Brokers stated: 
+
+
+One fact which all the authorities consider significant 
+in the inquiry, and particularly so in the case of the 
+one-man or closely held corporation, is whether the 
+corporation was grossly under-capitalized for the pur- 
+poses of the corporate undertaking. . .. And [t]he 
+obligation to provide adequate capital begins with 
+incorporation and is a continuing obligation there- 
+after . . . during the corporation’s operations. . . . 
+Other factors that are emphasized in the application 
+of the doctrine are failure to observe corporate for- 
+malities, non-payment of dividends, the insolvency of 
+the debtor corporation at the time, siphoning the 
+funds of the corporation by the dominant stock- 
+holder, non-functioning of other officers or directors, 
+absence of corporate records, and the fact that the 
+corporation is merely a facade for the operations of 
+the dominant stockholder or stockholders. .. . 
+
+
+DeWitt Truck Brokers, 540 F.2d at 685-687 (citations 
+omitted ). 
+
+
+47a 
+
+
+In accord with these rules, see Federal Deposit Insur- 
+ance Corporation v. Sea Pines Company, 692 F.2d 973 
+(4th Cir. 1982); Sturkie v. Sifly, 280 S.C. 453, 313 
+S.E.2d 316 (S.C. Ct. App. 1984); C.T. Lowndes & Coe 
+v. Suburban Gas & Appliance Company, 415 §.E.2d 404 
+(S.C. Ct. App. 1991); Cumberland Wood Products, Inc. 
+v. Bennett, 1992 W.L. 71171 (S.C. Ct. App. 1992); Cen- 
+tral States v. Minneapolis Van and Warehouse Company, 
+746 F. Supp. 1289, 1294-1296 (N.D. Ill. 1991). The 
+general rule is also stated in Fletcher Cyclopedia of Cor- 
+porations, section 41.90, page 715, as follows: 
+
+
+The federal rule states that a corporate entity may be 
+disregarded in the interest of public convenience, fair- 
+ness, and equity, and in applying this rule the federal 
+courts will look closely at the purpose of the federal 
+statute involved to determine whether it places im- 
+portance on corporate form. Under federal common 
+law, the corporate form may be disregarded in the 
+interest of justice where it is used to defeat an over- 
+riding public policy... . 
+
+
+In Leddy v. Standard Drywall, Inc., 875 F.2d 383, 387- 
+88 (2nd Cir. 1989), the court held that the president and 
+major shareholder of a corporation who conspired with 
+the corporation to defraud pension, welfare, and fringe 
+benefits of their employees was individually liable under 
+ERISA for unpaid contributions even though traditional 
+conditions for piercing the corporate veil were not met. 
+On the issue of individual liability of Gedell, as president 
+and major shareholder of the corporation, the court stated: 
+
+
+We agree with Gedell that the District Court did not 
+make sufficient findings for a conclusion to pierce the 
+corporate veil under traditional common law princi- 
+ples, nor was there sufficient proof at trial that would 
+support such a conclusion. But this does not absolve 
+Gedell of liability. 
+
+
+48a 
+
+
+Section 515 of ERISA imposes an obligation to 
+make contributions to employee benefit funds on 
+“every employer who is obligated to make contribu- 
+tions . . . under the terms of a collectively bargained 
+agreement.” 29 U.S.C. § 1145. The term “employer” 
+is defined as “any person acting directly as an em- 
+ployer, or indirectly in the interest of an employer, 
+in relation to an employee benefit plan.” 29 U.S.C. 
+§ 1002. 
+
+
+Gedell was not merely a major shareholder and con- 
+trolling officer of a company that neglected to make 
+required benefit plan contributions. He and other 
+Standard officials engaged in a criminal conspiracy to 
+defraud the Funds. .. . 
+
+
+The Supreme Court has consistently refused to give 
+effect to the corporate form where it is interposed to 
+defeat legislative policies. . . . 
+
+
+Shielding from liability a controlling corporate officer 
+who, like Gedell, deliberately flouts ERISA obliga- 
+tions by conspiring to defraud employee pension and 
+welfare plans would surely defeat this legislative pur- 
+pose. We therefore hold that at least to the extent 
+that a controlling corporate official defrauds or con- 
+spires to defraud a benefit fund of required contribu- 
+tions, the official is individually liable under Section 
+502 of ERISA, 29 U.S.C. § 1132, just as he would 
+be liable for unpaid minimum wages under [the Fair 
+Labor Standards Act], even if the traditional condi- 
+tions for piercing the corporate veil are not met... . 
+
+
+Leddy v. Standard Drywall, 875 F.2d at 387-88. 
+
+
+In Combs v. Ryan’s Coal Co., Inc., 785 F.2d 970, 983 
+(11th Cir. 1986) the court stated that “because liability 
+
+
+, 49a 
+
+
+here flows from ERISA, we find it appropriate to follow 
+the Supreme Court's holdings, in cases arising under anal- 
+ogous labor law statutes, that have permitted imposing lia- 
+bility for contempt on a successor or alter ego.” 
+Accordingly, we affirm the district court’s determina- 
+tion that Simmons and Alan’s are liable to the Trust- 
+ees for the unpaid pension funds. The factual sup- 
+port for the trial court’s finding, in both respects, is 
+overwhelming. Simmons directed and controlled the 
+finances of both companies, as well as numerous 
+others, and ran the whole lot out of one office. The 
+decision not to pay the obligation under the consent 
+decree was his. During the period when Ryan’s was 
+in default of its obligations under the consent decree, 
+Simmons authorized over $60,000 in payments to 
+himself and to other of his wholly owned concerns. 
+. . . Further, there was significant intermingling of 
+
+
+funds . . . as well as overlap of administrative per- 
+sonnel. . . . Upon all of this evidence we cannot prop- 
+erly say that the trial court’s findings were clearly in 
+error. 
+
+
+Combs v. Ryan’s Coal Co., Inc., 785 F.2d at 983. 
+
+
+In Lowen v. Tower Asset Management, Inc., 829 F.2d 
+1209 (2d Cir. 1987), the plaintiff-trustees of an ERISA 
+pension plan sued the corporations, and their individual 
+directors, responsible for investing the pension plan’s 
+funds. The plaintiffs alleged that the defendants engaged 
+in prohibited transactions because the defendants owned 
+or had an interest in some of the corporations in which 
+the defendants were investing the pension plan’s funds. 
+Id. at 1212. In affirming summary judgment for the 
+plaintiffs, the Second Circuit held that not only the cor- 
+porations, but also the individual owners of the corpora- 
+tions, were liable for fiscal mismanagement: 
+
+
+Neither the separate corporate status of the three cor- 
+porations nor the general principle of limited share- 
+
+
+50a 
+
+
+holder liability afford protection where exacting 
+obeisance to the corporate form is inconsistent with 
+ERISA’s remedial purposes. Parties may not use 
+she'l-game-like maneuvers to shift fiduciary obliga- 
+tions to one legal entity while channeling profits from 
+
+
+self-dealing to a separate legal entity under their 
+control. 
+
+
+A failure to disregard the corporate form in the 
+circumstances of the present case would fatally under- 
+mine ERISA. The record demonstrates beyond dis- 
+pute extensive intermixing of assets among the corpo- 
+rations, and among the corporations and individual 
+defendants. 
+
+
+Id. at 1220-21. 
+
+
+Lowen and Alman particularly demonstrate that fed- 
+eral courts will look to substance over form when allega- 
+tions of corporate mismanagement or fraud are prosecuted 
+under ERISA. Moreover, the federal courts will hold 
+defendants personally liable for their fraudulent actions. 
+The fact of the matter is that ERISA was enacted to 
+prevent corporate machinations from hindering employee- 
+plaintiffs in securing their benefits. ERISA clearly states 
+this not only in its purpose clause, but also in its legisla- 
+tive history. The courts, therefore, have construed ERISA 
+to have a broad, remedial scope. 
+
+
+B. Civil Conspiracy 
+
+
+The elements of a civil conspiracy under South Caro- 
+lina law are (1) a combination of two or more persons, 
+(2) for the purpose of injuring the plaintiffs, and (3) 
+which causes the plaintiffs special damages. See LaMotte 
+v. The Punchline of Columbia, Inc., 296 S.C. 66, 370 
+_S.E.2d 711, 713 (1988); Island Car Wash, Inc. v. Norris, 
+
+
+292 S.C. 595, 358 S.E. 2d 150, 152 (S.C. Ct. App. 
+1987). 
+
+
+Sla 
+
+
+In Lee v. Chesterfield General Hospital, 289 S.C. 6, 
+344 §.E.2d 379 (S.C. Ct. App. 1986), the court explained 
+the distinction between a civil conspiracy and criminal 
+conspiracy as follows: 
+
+
+A criminal conspiracy consists of “a combination 
+between two or more persons for the purpose of 
+accomplishing a criminal or unlawful object or an 
+object neither criminal nor unlawful by criminal or 
+unlawful means.” . . . (“A conspiracy consists. . . 
+in the agreement of two or more to do an unlawful 
+act, or to do a lawful act by unlaw means”). To 
+establish a criminal conspiracy it is not necessary 
+to prove an overt act. The gist of the crime is the 
+unlawful combination. The crime is then complete, 
+even though nothing further is done. . .. 
+
+
+A civil conspiracy, on the other hand, consists of 
+three elements: (1) a combination of two or more 
+persons, (2) for the purpose of injuring the plaintiff, 
+(3) which causes special damages. . . . The grava- 
+men of the tort is the damage resulting to the plain- 
+tiff from an overt act done pursuant to the combina- 
+tion, not the agreement or combination per se... . 
+A civil conspiracy may, of course, be furthered by 
+an unlawful act. . . . However, an unlawful act is 
+not a necessary element of the tort. An action for 
+conspiracy may lie even though no unlawful means 
+are used and no independently unlawful acts are 
+committed. 
+
+
+Lee v. Chesterfield General Hospital, 344 S.E.2d at 381- 
+82 (citations omitted). 
+
+
+C. Specific Conclusions 
+
+
+1. The plaintiff has the burden of proof and must 
+establish each and every element of his cause of action 
+by the preponderance of the evidence. This means that 
+the plaintiff must produce evidence which, when consid- 
+
+
+52a 
+
+
+ered in the light of all the facts, leads this court to believe 
+that what the plaintiff claims is more likely true than not. 
+
+
+2. While the doctrine of corporate entity is recognized 
+generally and for most purposes, it will not be regarded 
+when to do so would work fraud or injustice, nor may 
+the corporate form be misused to defeat overriding federal 
+legislative policies. 
+
+
+3. The general rule adopted is that a corporate entity 
+may be disregarded in the interest of public convenience, 
+fairness, and equity. Under the clear legislative purposes 
+of ERISA, the courts do not attach great weight to cor- 
+porate form when to do so would deprive employees of 
+their anticipated benefits and avoid lawful financial obli- 
+gations to employee benefit plans. 
+
+
+4. The primary considerations in determining whether 
+to pierce the corporate veil under ERISA are the amount 
+of respect paid by the shareholders themselves to the cor- 
+porations’ separate corporate entity, the fraudulent intent 
+of the dominating shareholder, and the degree of injustice 
+that would be visited on the litigants by recognizing the 
+corporate entity. The underlying congressional policy be- 
+hind ERISA clearly favors the disregard of the corporate 
+entity in cases where employees are wrongfully denied 
+their pension benefits. The congressional intent of ERISA 
+is to hold employers responsible for pension benefits, so 
+that when the corporate form poses a bar to liability, 
+concerns for corporate separateness are secondary to the 
+mandate of ERISA. If justice would be served and poten- 
+tial fraud nullified, then the beneficiaries of the plans 
+should be able to proceed against the party that has ac- 
+tually exerted dominant control over the corporation. 
+
+
+5. Proof of plain fraud is not a necessary element in 
+a finding to disregard the corporate entity, but when sub- 
+stantial ownership of the stock of a corporation in a single 
+individual is combined with other facts clearly supporting 
+disregard of the corporate fiction on the grounds of funda- 
+
+
+; 53a 
+
+
+mental equity and fairness, there should be little difficulty 
+and no hesitancy in applying the alter ego doctrine. 
+
+6. The evidence in this case dictates the conclusion 
+that Peacock was the “alter ego” of Tru-Tech and that 
+Tru-Tech was a mere “instrumentality” in his hands. 
+
+
+7. The Plaintiffs have sustained their burden of proof 
+on the “alter ego” theory and are entitled to “pierce the 
+corporate veil” and to recover a judgment against D. 
+Grant Peacock for recovery of their previously rendered 
+judgment for $187,628.93 against Tru-Tech together with 
+interest and attorneys’ fees. 
+
+
+8. The Plaintiffs have not sustained their burden of 
+proving the essential elements of a civil conspiracy under 
+South Carolina law, the elements being (a) a combination 
+
+
+of two or more persons, (b) for the purpose of injuring 
+the Plaintiffs, and (c) that such combination and con- 
+spiracy has caused the Plaintiffs special damages. 
+
+
+9. The Plaintiffs have not sustained their burden of 
+proving liability on the part of Finegold. 
+
+
+THEREFORE, IT IS ORDERED that the Plaintiffs 
+shall have judgment against D. Grant Peacock in the 
+amount of $187,628.93 together with interest at the rate 
+of 8.55% as set forth in the Thomas judgment and costs 
+under 29 U.S.C. § 1132(q). Plaintiffs shall have thirty 
+days after the filing of this Order to submit their petitions 
+for attorneys’ fees. 
+
+
+IT IS FURTHER ORDERED that the court finds for 
+Alan H. Finegold and no judgment shall be entered 
+against him. 
+
+
+IT IS SO ORDERED. 
+
+
+/s/ William B. Traxler, Jr. 
+WILLIAM B. TRAXLER, Jr. 
+United States District Judge 
+Greenville, South Carolina 
+October 26, 1992. 
+
+
+54a 
+
+
+APPENDIX C 
+[Filed and Entered Jun. 24, 1992] 
+IN THE UNITED STATES DISTRICT COURT 
+
+
+FOR THE DISTRICT OF SOUTH CAROLINA 
+SPARTANBURG DIVISION 
+
+
+C/A NO: 7:91-3843-21 
+
+
+JacK THOMAS, Individually, on behalf of the Tru-Tech, 
+Inc. Pension Plan, and as a Representative of a Class of 
+Plaintiffs similarly situated, 
+
+Plaintiffs, 
+v. 
+
+
+D. GRANT PEACOCK and ALAN H. FINEGOLD, 
+Defendants. 
+
+
+ORDER 
+
+
+I. INTRODUCTION 
+
+
+The Defendants, D. Grant Peacock (“Peacock”) and 
+Alan H. Finegold (“Finegold”) have moved the court 
+to dismiss the action pursuant to Fed.R.Civ.P. 12(b)(2), 
+asserting that this court lacks personal jurisdiction over 
+them. Alternatively, Peacock and Finegold, pursuant to 
+Fed.R.Civ.P. 12(b)(3), move to transfer venue of the 
+case to the United States District Court for the Western 
+District of Pennsylvania. Representative Plaintiff Thomas 
+contends, however, that this court may exercise in per- 
+sonam jurisdiction over the Defendants because jurisdic- 
+tion is statutorily conferred under 29 U.S.C. § 1132(e)(2) 
+of “The Employee Retirement Income Security Act” 
+(“ERISA”), 29 U.S.C. § 1001 et seg. (1988). Moreover, 
+
+
+‘ 55a 
+
+
+the Plaintiff claims that venue of this cause is proper in 
+the District of South Carolina. Having considered the 
+statutory scheme, the Congressional purpose of enacting 
+ERISA, and the relevant caselaw, the court concludes 
+that it may exercise personal jurisdiction over the De- 
+fendants and that venue is proper in this district. Accord- 
+ingly, the court denies the Motion to Dismiss, Or In 
+The Alternative, To Transfer This Action. 
+
+
+Il. THE FACTS 
+
+
+The facts giving rise to the present motion originated 
+with an ERISA action by Plaintiff Thomas, representing 
+a similarly situated class of plaintiffs, on August 20, 
+1987, in the District of South Carolina before the Honor- 
+able Judge G. Ross Anderson, Jr. This action was filed 
+by Thomas against Tru-Tech, Incorporated (“Tru-Tech”), 
+Peacock, who was Chairman of the Board of Tru-Tech, 
+Grant Peacock & Company, Incorporated, and Connecti- 
+cut General Life Insurance Company, for breach of fiduci- 
+ary duty in failing to fund properly the Tru-Tech Pension 
+Plan. The court held that Thomas and his class were 
+entitled to benefits and that Tru-Tech, a fiduciary of the 
+pension plan, was liable to the Plaintiffs for breach of its 
+fiduciary duties. Accordingly, Plaintiff Thomas and his 
+class prevailed in this action and were awarded a judg- 
+ment of $187,500.00 in November of 1988. See Thomas 
+v. Tru-Tech, Inc.. No. 7:87-2243-3 (D.S.C. 1988). The 
+Fourth Circuit affirmed the district court’s judgment. See 
+Thomas v. Tru-Tech, Inc., 90C F.2d 256 (4th Cir. 1990) 
+(unpublished opinion). This judgment remains unsatis- 
+fied, and its satisfaction is the impetus for the present 
+action. 
+
+
+Further information is gleaned from the affidavits and 
+memoranda of the parties and the unpublished appellate 
+opinion affirming the earlier action. Tru-Tech was or- 
+ganized as a Delaware corporation in 1981 by Bill Wilcock 
+for the purpose of acquiring a textile machinery parts 
+
+
+56a 
+
+
+business. One of the businesses Tru-Tech acquired was 
+a manufacturing plant in Marion, South Carolina. The 
+other acquired plant was located in Beebe River, New 
+Hampshire. In addition to acquiring a manufacturing 
+plant in South Carolina, Tru-Tech also kept its corporate 
+headquarters and sales offices in Spartanburg, South Caro- 
+lina, thereby establishing itself in South Carolina and 
+availing itself to South Carolina’s jurisdiction. Signifi- 
+cantly, the pension plan was administered in South Caro- 
+lina, which also happens to be the district in which the 
+Plaintiffs reside. Also in 1981, Tru-Tech formed a pen- 
+sion plan for the benefit of its employees. Although the 
+plan stated its effective date was October 1, 1981, the 
+plan was subject to approval by the Internal Revenue 
+Service (“IRS”). The plan, however, was not submitted 
+for approval until December 31, 1982. The IRS, on July 
+21, 1983, withheld its approval of the plan because its 
+vesting schedule did not comply with the applicable law. 
+The board of directors of Tru-Tech, therefore, on Septem- 
+ber 14, 1983, amended the plan to correct the defective 
+vesting schedule. 
+
+
+By 1984, however, Tru-Tech was in financial straits. 
+To this end, Tru-Tech’s directors notified the IRS that 
+their prior amendment of the vesting schedule was un- 
+authorized and requested the IRS to issue an adverse 
+determination as to the plan, which was issued on Janu- 
+ary 31, 1985 and became final on May 23, 1985. Ac- 
+cordingly, the plan was terminated; and its assets were 
+refunded to Tru-Tech with interest. 
+
+
+The effective date of this plan was an issue in the 
+earlier proceeding before Judge Anderson. Judge Ander- 
+son held that the plan became effective in 1981—the year 
+the plan would have been approved had its vesting sched- 
+ule been properly calculated by Tru-Tech’s directors. The 
+Fourth Circuit affirmed Judge Anderson’s ruling, holding 
+that the pension plan was indeed effective in 1981. See 
+900 F.2d 256 (4th Cir. 1990) (unpublished opinion). 
+
+
+‘ 5Ta 
+
+
+By 1986, Tru-Tech had moved most of its operations to 
+Pennsylvania and was no longer transacting business in 
+South Carolina. , | 
+In the instant ed ae Thomas, potent gba nde 
+attempting to sati judgment u 
+Andenaaal tn tie promda dikds'ta' tau’ ark of i Pie 
+tiffs’ breach of fiduciary duty claim against Tru-Tech, 
+Peacock, and others. In his present Complaint, Plaintiff 
+Thomas alleges that Peacock, with the advice and counsel 
+of Finegold, fraudulently transferred Tru-Tech’s assets in 
+an attempt to deprive the Plaintiffs of a res that would 
+satisfy their judgment. Specifically, Plaintiff Thomas avers 
+that Peacock and Finegold transferred Tru-Tech’s assets 
+to certain favored creditors, some of which are corporate 
+entities allegedly controlled by Peacock. The alleged ef- 
+fect of these preferential transfers is that Tru-Tech is 
+escaping not only the duties it had as a fiduciary of the 
+pension plan, but also the judgment rendered adverse to 
+it by Judge Anderson, whose ruling was affirmed by the 
+United States Court of Appeals for the Fourth Circuit. 
+Thus, the present action is an attempt to satisfy a former 
+judgment properly rendered by the District Court. 
+
+
+Ill. DISCUSSION 
+
+
+A. The Purpose of ERISA 
+
+
+ERISA’s broad, remedial scope is squarely established 
+in the opening section of the Act: 
+
+
+It is hereby declared to be the policy of this 
+chapter to protect interstate commerce and the inter- 
+ests of participants in employee benefit plans and 
+their beneficiaries, by requiring the disclosure and 
+reporting to participants and beneficiaries of financial 
+and other information with respect thereto, by estab- 
+lishing standards of conduct, responsibility, and obli- 
+gation for fiduciaries of employee benefit plans, and 
+by providing for appropriate remedies, sanctions, and 
+ready access to the Federal courts. 
+
+
+58a 
+
+
+29 U.S.C. § 1001(b) (emphasis supplied). Apart from 
+the expressly stated purpose of the Act, the legislative his- 
+tory reveals that ERISA contemplated a liberal interpreta- 
+tion, including liberal provisions for jurisdiction and 
+venue. The House Committee on Education and Labor, 
+reporting on drafts of the Act, stated: 
+
+
+The enforcement provisions have been designed 
+specifically to provide both the Secretary and partici- 
+pants and beneficiaries with broad remedies for 
+redressing or preventing violations of the Act. The 
+intent of the Committee is to provide the full range 
+of legal and equitable remedies available in both 
+state and federal courts and to remove jurisdictional 
+and procedural obstacles which in the past appear to 
+have hampered effective enforcement of fiduciary re- 
+sponsibilities under state law for recovery of benefits 
+due to participants. For actions in federal courts, 
+nationwide service of process is provided in order 
+to remove a possible procedural obstacle to having 
+all proper parties before the court. 
+
+
+H.R.Rep. No. 93-533, 93rd Cong., Ist Sess., 17 (1973), 
+reprinted in 1974 U.S.Code Cong. & Admin.News 4639, 
+
+
+4655 (emphasis supplied). ERISA, therefore, is to be 
+construed liberally. 
+
+
+Like its purpose, ERISA’s jurisdictional and venue pro- 
+visions are sweeping in scope. Specifically, 29 U.S.C. 
+§ 1132(e)(2) provides: 
+
+
+Where an action under this subchapter is brought 
+in a district court of the United States, it may be 
+brought in the district where the plan is administered, 
+where the breach took place, or where a defendant 
+resides or may be found, and process may be served 
+in any other district where a defendant resides or 
+may be found. 
+
+
+Accordingly, the Act provides for nation-wide service of 
+process. The jurisdictional implications of this national 
+
+
+59a 
+
+
+service of process are the crux of the disputed issue in the 
+present case. 
+
+
+In its Motion to Dismiss or Transfer Venue, the De- 
+fendants strenuously urge, pursuant to International Shoe 
+Co. v. Washington, 326 U.S. 310 (1945), and its 
+progeny, that they have not established the proverbial 
+
+“systematic and continuous minimum contacts” with South 
+Carolina, nor have they availed themselves to the courts 
+of the forum state. Therefore, the Defendants claim that 
+this court’s exercising in personam jurisdiction over them 
+violates the Due Process Clause of the United States Con- 
+stitution. See “Defendant’s Motion To Dismiss Or In 
+The Alternative, To Transfer This Action,” pp. 9-19. 
+While the Defendants correctly recite due process law and 
+the limitations placed upon state courts, and federal courts 
+sitting in diversity, to exercise jurisdiction over non- 
+resident defendants, that argument is simply misplaced in 
+the present action. Here, jurisdiction is premised upon a 
+federal question, not upon diversity. Thus, the United 
+States, not a state, is the sovereign. International Shoe 
+Co., therefore, does not apply; and the Defendants’ asser- 
+tions to the contrary fail in the wake of jurisdiction con- 
+ferred by statute. 
+
+
+As stated, International Shoe Co. applies to the power 
+of state courts and federal courts exercising diversity juris- 
+diction to extend their power and process beyond the 
+borders of the state in order to compel the presence of 
+non-residents. An International Shoe Co. analysis must 
+first determine whether a state long-arm service of process 
+statute exists and then whether ordering the defendant to 
+appear by virtue of the long-arm statute comports with 
+the Constitutional requirements of due process. The 
+second prong of the International Shoe Co. analysis is 
+determining whether the non-resident defendant has estab- 
+lished “minimum contacts” with the forum state. See 
+Federal Ins. of America v. Lake Shore, Inc., 886 F.2d 
+654, 657 n.2 (4th Cir. 1989); Wolf v. Richmond County 
+
+
+60a 
+
+
+Hosp. Auth., 745 F.2d 904, 909 (4th Cir. 1984). In 
+the present action, 29 U.S.C. § 1132(e)(2), provides for 
+national service of process. The statute conferring juris- 
+diction is a federal statute granting jurisdiction to courts 
+of the United States. The Nation, therefore, is the entity 
+seeking to establish its power and process. When the 
+national law is at issue, Congress may freely prescribe for 
+service of process and the federal courts—wherever situ- 
+ated—may just as freely exercise jurisdiction, even over 
+parties residing outside the forum state: 
+
+
+The jurisdiction of the Supreme Court and the 
+Court of Claims is not confined by geographical 
+boundaries. Each of them, having by the law of 
+its organization jurisdiction of the subject-matter 
+of a suit, and of the parties thereto, can, sitting at 
+Washington, exercise its power by appropriate proc- 
+ess, served anywhere within the limits of the terri- 
+tory over which the Federal government exercises 
+dominion. 
+
+x * * 
+
+
+It is true that Congress has declared that no person 
+Shall be sued in a circuit court [now, district court] 
+of the United States who does not reside within the 
+district for which the court was established, or who 
+is not found there. But a citizen residing in Oregon 
+may be sued in Maine, if found there, so that process 
+can be served on him. There is, therefore, nothing 
+in the Constitution which forbids Congress to enact 
+that, as to a class of cases or a case of special char- 
+acter, a circuit court—any circuit court—in which 
+the suit may be brought, shall, by process served 
+anywhere in the United States, have the power to 
+bring before it all the parties necessary to its deci- 
+sion. 
+
+
+United States v. Union Pacific R.R., 98 U.S. 569, 603-04 
+(1878). 
+
+
+of the district courts based on presence of the de- 
+
+fendant in the United States, rather than in any par- 
+
+ticular state. When Congress does not provide, the 
+
+district court’s service is not constrained by the due 
+
+process limits to which state courts are subject. 
+Driver v. Helms, 74 F.R.D. 382, 390 (D.R.I. 1977) 
+(citations omitted and emphasis supplied), aff'd as to 
+jurisdiction and modified on other grounds, 577 F.2d 147 
+(1st Cir. 1978), rev'd on other grounds sub nom., Colby 
+v. Driver, 444 U.S. 527 (1980) (consolidated with Staf- 
+ford v. Briggs, 444 U.S. 527 (1980)). Specifically, the 
+Fourth Circuit has held: 
+
+
+[Defendant] argues before us that reliance on 
+[Bankruptcy] Rule 704’s provisions to determine 
+whether the bankruptcy court had in personam juris- 
+diction over it would be misplaced, since valid service 
+of process and personal jurisdiction are two separate 
+concepts. In the abstract that may be true, but for 
+purposes of proceedings arising from federal law, it 
+is largely academic. . . . Where Congress has author- 
+ized nationwide service of process by federal courts 
+under specific federal statutes, so long as the asser- 
+tion of jurisdiction over the defendant is compatible 
+with due process, the service of process is sufficient 
+to establish the jurisdiction of the federal court over 
+the person of the defendant. 
+
+
+Since we have determined that Congress author- 
+ized nationwide service of process in cases like the 
+present one, . . . [t]he propriety of process issuing 
+
+
+62a 
+
+
+from federal courts sitting in cases arising under 
+federal law is not tested by [International Shoe Co.] 
+because the issues involved necessarily are often na- 
+tional in character. 
+
+
+Hogue v. Mildon Eng’g, Inc., 736 F.2d 989, 991 
+(4th Cir. 1984) (citations omitted). Accordingly, the 
+Hogue court held that a bankruptcy court in Virginia had 
+personal jurisdiction over a non-resident California corpo- 
+ration because the bankruptcy law is federal law and pro- 
+vides for national process. Similarly, Haile v. Henderson 
+Nat'l Bank, 657 F.2d 816, 824 (6th Cir. 1981), cert. 
+denied, 455 U.S. 949 (1982), held that “In an action 
+where service of process is effected pursuant to a federal 
+statute which provides for nationwide service of process, 
+the strictures of /nternational Shoe do not apply.” See 
+also Gilbert v. Bagley, 492 F. Supp. 714, 747 (M.D.N.C. 
+1980). 
+
+
+The Defendants consistently urge upon the court that 
+South Carolina has no jurisdiction over them and that 
+they have established no minimum contacts in the forum 
+state. This. assertion reveals the flaw in the Defendants’ 
+reasoning, and consequently, its authority. The United 
+States, not South Carolina, is the sovereign asserting juris- 
+diction over the Defendants by virtue of a federal statute. 
+The Defendants are residents of the United States and 
+they need merely have minimum contacts with the United 
+States to effect jurisdiction over them, not minimum con- 
+tacts with the forum state. The Second Circuit in Mariash 
+v. Morrill, 496 F.2d 1138 (2d Cir. 1974), aptly addressed 
+this issue. In Mariash, the Defendants were served with 
+process in Massachusetts, but venue was laid in New York. 
+The defendants claimed that New York did not have juris- 
+diction over them because they had not established min- 
+imum contacts with New York. The statute at issue was 
+the Securities Act of 1934, 15 U.S.C. § 78a et seq. 
+(1988), of which § 78aa provided for national service of 
+
+
+. 63a 
+
+
+process. Rejecting the defendants’ contention that federal 
+courts in New York could not exercise in personam 
+jurisdiction, the Second Circuit held: 
+
+
+It is not the State of New York but the United States 
+‘which would exercise its jurisdiction over them.’ 
+And plainly, where, as here, the defendants reside 
+within the territorial boundaries of the United States, 
+the ‘minimal contacts,’ required to justify the federal 
+government’s exercise of power over them, are pres- 
+ent. Indeed, the ‘minimal contacts’ principle does 
+not, in our view, seem particularly relevant in evalu- 
+ating the constitutionality of in personam jurisdiction 
+based on nationwide, but not extraterritorial, service 
+of process. 
+
+
+Mariash, 496 F.2d at 1143 (emphasis in original). Sim- 
+ilarly, the Fifth Circuit upheld jurisdiction, conferred by 
+federal statute, over a non-resident defendant which trans- 
+acted no business in the forum state. The court, as here, 
+rejected the defendant’s assertion that due process had 
+been violated: 
+
+
+Subject only to the regulation of Congress, each fed- 
+eral court exercises the ‘judicial Power of the United 
+States,’ not a judicial power constitutionally limited 
+by the boundaries of a particular district. Because 
+the district court’s jurisdiction is always potentially, 
+and, in this case, actually co-extensive with the boun- 
+daries of the United States, due process requires 
+only that a defendant in a federal suit have minimum 
+contacts with the United States, ‘the sovereign that 
+created the court.’ 
+
+
+FTC v. Jim Walter, Corp., 651 F.2d 251, 256 (Sth Cir. 
+1981) (citations omitted and emphasis in original). Ac- 
+cordingly, provided that a defendant has minimum con- 
+tacts with the United States, ERISA confers personal ju- 
+risdiction over the defendant in any federal district court. 
+The irresistible conclusion, therefore, is that this court 
+does exercise in personam jurisdiction over the Defend- 
+
+
+64a 
+
+
+ants because the Defendants are residents of, and conduct 
+business in, the United States. 
+
+
+Apart from the decisional law, this court’s exercising 
+personal jurisdiction over Peacock and Finegold com- 
+ports with the Federal Rules of Civil Procedure. Spe- 
+cifically, Fed.R.Civ.P. 4(f) provides: 
+
+
+All process other than a subpoena may be served 
+anywhere within the territorial limits of the state in 
+which the district court is held, and, when authorized 
+by a statute of the United States or by these rules, 
+beyond the territorial limits of that state. (emphasis 
+supplied). 
+
+
+Thus, Rule 4(f) recognizes the power of Congress to 
+provide for nationwide service of process to enforce a 
+federal right, as the Supreme Court in Union Pacific R.R. 
+noted. This Congressional authority to provide for na- 
+tional process springs from the right of any sovereign to 
+exercise jurisdiction over any defendant within its terri- 
+tory. Gilbert v. Bagley, 492 F. Supp. 714, 746 (M.D.N.C. 
+1980); First Flight Co. v. National Carloading Corp., 
+209 F. Supp. 730, 736 (E.D. Tenn. 1962). Finally, the 
+court notes that the weight of authority holds that there 
+is no requirement of minimum contacts with the state in 
+which the federal court sits when a federal statute pro- 
+vides for nationwide service of process. As the District 
+of the District of Columbia held in Combs v. Adkins & 
+Adkins Coal Co., 597 F. Supp. 122 (D.D.C. 1984): 
+
+
+Moreover, this Court possesses personal jurisdic- 
+tion over the defendants, who reside in Kentucky. 
+Where Congress has authorized nationwide service 
+of process, a federal court may exercise personal 
+jurisdiction over any United States resident, without 
+regard to whether its sister state court could assert 
+jurisdiction under minimum contacts principles. 
+
+
+Id. at 125. See also Alman v. Danin, 801 F.2d 1, 5 (lst 
+Cir. 1986); Securities Investor Protection Corp. v. Vig- 
+
+
+‘ 65a 
+
+
+man, 764 F.2d 1309, 1314-15 (9th Cir.-1985); Haile v. 
+Henderson Nat'l Bank, 657 F.2d 816, 824-26 (6th Cir. 
+1981), cert. denied, 455 U.S, 949 (1982); FTC v. Jim 
+Walter Corp., 651 F.2d 251, 256 (Sth Cir. 1981); Fitz- 
+simmons v. Barton, 589 F.2d 330, 334 (7th Cir. 1979); 
+Mariash v. Morrill, 496 F.2d 1138, 1142-43. (2d Cir. 
+1974); United States Telecom, Inc. v. Hubert, 678 F. 
+Supp. 1500, 1508 (D. Kan. 1987); City of Harrisburg v. 
+Bradford Trust Co., 621 F. Supp. 463, 467 (M.D. Pa. 
+1985); Piper Acceptance Corp. v. Slaughter, 600 F. Supp. 
+169, 171 (D. Colo. 1985); Clement v. Pehar, 575 F. 
+Supp. 436, 438-39 (N.D. Ga. 1983); and Gilbert v. Bag- 
+ley, 492 F. Supp. 714, 746-47 (M.D.N.C. 1980). Accord- 
+ingly, this court, by virtue of ERISA’s statutory authority, 
+may exercise personal jurisdiction over Peacock and Fine- 
+
+
+gold. 
+
+
+Concluding that Jnternational Shoe Co. does not apply 
+to the present action, the type of process the Defendants 
+are due must now be considered. Here, ERISA provides 
+for nationwide service of process. Since a federal statute 
+is at issue, the fifth amendment, not the fourteenth amend- 
+ment, of the Constitution is implicated. Fifth amendment 
+due process, with respect to national service of process, 
+only requires that a defendant receive sufficient notice of 
+a legal proceeding, namely by first class or certified mail. 
+This is the rule of Mullane v. Central Hanover Bank & 
+Trust, 339 U.S. 306 (1950). The issue, therefore, is one 
+of notice under the fifth amendment. The process due 
+the defendant is whether the service was reasonably cal- 
+culated to inform the defendant of the pendency of the 
+proceedings against him so that he might have an oppor- 
+tunity to be heard and establish a defense. Certainly, 
+Peacock and Finegold, residents of the United States, were 
+given sufficient notice of the action pending against them: 
+the Defendants received service of process and employed 
+counsel to appear on their behalf. Because the Defend- 
+ants are cognizant of the proceeding instituted against 
+them, Peacock and Finegold received sufficient due proc- 
+
+
+66a 
+
+
+ess; and their Constitutional due process rights have not 
+been violated. 
+
+
+B. Venue 
+
+
+In their motion, the Defendants alternatively move the 
+court to transfer this action to the Western District of 
+Pennsylvania. Peacock and Finegold allege that Pennsyl- 
+vania, not South Carolina, is the appropriate form for 
+this action. The Defendants are residents of Pennsylvania 
+and some of the allegedly fraudulent actions of the De- 
+fendants occurred in Pennsylvania. In support of this 
+contention, the Defendants cite the general venue provi- 
+sions of 28 U.S.C. § 1404(a) (1988), and claim that 
+transfer of venue is routinely granted. As with their per- 
+sonal jurisdiction argument, the venue argument is equally 
+misplaced because ERISA itself provides for venue; thus, 
+28 U.S.C. § 1404(a) does not apply to this action. 
+ERISA specifically provides that a plaintiff may bring an 
+action: (1) in the district where the plan is administered; 
+(2) where the breach took place; or (3) where the de- 
+fendant resides or may be found. 29 U.S.C. § 1132 
+(e)(2). ERISA plainly states that venue may lie where 
+the plan was administered. Venue is proper in South 
+Carolina, therefore, because the plan was administered 
+in South Carolina. 
+
+
+The Plaintiffs, as residents of South Carolina, have 
+properly chosen to prosecute their action in the District 
+of South Carolina; and a plaintiff’s choice of forum should 
+not be disturbed unless the balance of equities strongly 
+favors the defendant. Gulf Oil v. Gilbert, 330 U.S. 501, 
+508 (1947); Gross v. Owen, 221 F.2d 94, 95 (D.C.Cir. 
+1955). Moreover, when a claim may conceivably be held 
+to have arisen in more than one district, “a plaintiff may 
+choose between those two (or conceivably even more) 
+districts that with approximately equal plausibility . . . 
+may be assigned as the locus of the claim.” Leroy v. 
+Great Western United Corp., 443 U.S. 173, 185 (1979) 
+
+
+‘ 67a 
+
+
+(citations omitted). When Congress has enacted a special 
+venue provision for a particular action which the com- 
+plaining party meets, the impetus on transferring the case 
+decreases while the burden on the movant demonstrating 
+that the action should be transferred increases. Interna- 
+tional Bhd. of Painters v. Best Painting and Sandblasting 
+Co., 621 F. Supp. 906, 907 (D.D.C. 1985). Also, a 
+transfer will not be effected where the inconvenience to 
+the defendant would simply be shifted to the plaintiff. 
+Trustees of Nat'l Asbestos Workers Pension Fund v. Lake 
+Erie Ins., 688 F. Supp. 1059, 1060 (D.Md. 1988). 
+
+
+In Combs v. Adkins & Adkins Coal Co., 597 F. Supp. 
+122 (D.D.C. 1984), the court, in denying the defendant’s 
+motion to transfer venue of an ERISA action, held: 
+
+
+This Court also declines to disturb the plaintiffs’ 
+choice of forum by transferring this action to Ken- 
+tucky under the doctrine of forum non conveniens or 
+pursuant to its discretion under 28 U.S.C. § 1404(a). 
+Numerous decisions of this Court have denied simi- 
+lar motions filed by non-resident defendants in other 
+ERISA cases. The defendants were given ample 
+notice that litigation could ensue in the District of 
+Columbia, and in any event, it makes good sense to 
+hear this case where the Plans are administered. 
+
+
+Id. at 125 (citations omitted and emphasis supplied). 
+The courts have uniformly held that venue is not freely 
+transferred under ERISA when the beneficiaries have filed 
+suit. See Securities Investor Protection Corp. v. Vigman, 
+764 F.2d 1309, 1317 (9th Cir. 1985), Varsic v. United 
+States District Court for the Central District of California, 
+607 F.2d 245, 248 (9th Cir. 1979); Trustees of the Nat'l 
+Asbestos Workers Pension Fund v. Lake Erie Ins., 688 
+F.Supp. 1059, 1060 (D.Md. 1988), United States Tele- 
+com, Inc. v. Hubert, 678 F. Supp. 1500, 1504 (D. Kan. 
+1987), International Bhd of Painters v. Best Painting and 
+Sandblasting Co., 621 F. Supp. 906, 907 (D.D.C. 1985), 
+Trustees of the Nat'l Automatic Sprinkler Indus. Pension 
+
+
+68a 
+
+
+Fund v. Best Automatic Fire Protection, Inc., 578 F. 
+Supp. 94, 96 (D.Md. 1983), and Bostic v. Ohio River 
+Co. Basic Pension Plan, 517 F. Supp. 627, 637 (S.D. 
+W.Va. 1981), all denying to transfer venue at an ERISA 
+defendant’s request. 
+
+
+Under ERISA’s venue provisions, venue is proper in 
+South Carolina. The plan was administered here when 
+Tru-Tech had its corporate headquarters and sales offices 
+in South Carolina. Since Plaintiff Thomas has chosen 
+this district as his forum, the weight of authority dictates 
+that it not be disturbed. Moreover, maintaining this action 
+in this forum serves the broad remedial purposes of ERISA 
+by removing procedural obstacles from the Plaintiffs- 
+employees suit, which the legislative history of the Act 
+clearly mandates. Accordingly, because venue is proper 
+in this district and the Defendants’ venue analysis miscon- 
+ceives the law, the motion to transfer is denied. 
+
+
+THEREFORE, THIS COURT ORDERS, AD- 
+JUDGES, AND DECREES that the motion to dismiss 
+pursuant to Fed.R.Civ.P. 12(b)(2) is DENIED, AND 
+THIS COURT FURTHER ORDERS that the motion to 
+transfer venue to the Western District of Pennsylvania 
+pursuant to Fed.R.Civ.P. 12(b)(3) is likewise DENIED. 
+
+
+IT IS SO ORDERED. 
+
+
+/s/ William B. Traxler, Jr. 
+WILLIAM B. TRAXLER, JR. 
+United States District Judge 
+
+
+Greenville, South Carolina 
+June 23, 1992. 
+
+
+‘ 69a 
+APPENDIX D 
+Filed December 2, 1994 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+No. 92-2524 
+CA-91-3843-7-21 
+
+
+Jack L. Tuomas, Individually, on behalf of the Tru-Tech, 
+Incorporated Pension Plan, and as a representative of 
+a class of plaintiffs similarly situated, 
+Plaintiff-A ppellee 
+v. 
+
+
+D. GRANT PEACOCK, 
+Defendant-A ppellant 
+
+
+and 
+
+
+ALAN H. FINEGOLD, 
+Defendant 
+
+
+No. 93-1394 
+CA-91-3843-7-21 
+
+
+Jack L. Tuomas, Individually, on behalf of Tru-Tech, 
+Incorporated Pension Plan, and as a representative of 
+a class of plaintiffs similarly situated, 
+Plaintiff-A ppellee 
+v. 
+
+
+D. GRANT PEACOCK, 
+Defendant-A ppellant 
+and 
+
+
+ALAN H. FINEGOLD, 
+Defendant 
+
+
+70a 
+
+
+No. 93-1469 
+CA-87-2243-7 
+
+
+Jack L. Tuomas, Individually, on behalf of the Tru-Tech, 
+Incorporated Pension Plan, and as a representative of 
+a class of plaintiffs similarly situated, 
+Plaintiff-A ppellee 
+v. 
+
+
+TRU-TECH, INCORPORATED; D. GRANT PEACOCK, 
+Defendants-Appellants 
+and 
+
+
+GRANT PEACOCK & COMPANY, INCORPORATED; 
+CONNECTICUT GENERAL LIFE INSURANCE COMPANY, 
+Defendants 
+
+
+ON PETITION FOR REHEARING WITH 
+SUGGESTION FOR REHEARING IN BANC 
+
+
+The appellants’ petition for rehearing and suggestion 
+for rehearing in banc were submitted to this Court. As 
+no member of this Court or the panel requested a poll 
+on the suggestion for rehearing in banc, and 
+
+
+As the panel considered the petition for rehearing and 
+is of the opinion that it should be denied, 
+
+
+IT IS ORDERED that the petition for rehearing and 
+suggestion for rehearing in banc are denied. 
+
+
+For the Court, 
+
+
+/s/ Bert M. Montague 
+Clerk 
+
+
+é( Tla 
+
+
+§ 1132. Civil enforcement 
+(a) Persons.empowered to bring a civil action 
+A civil action may be brought— 
+(1) by a participant or beneficiary— 
+(A) for the relief provided for in subsection (c) 
+of this section, or 
+(B) to recover benefits due to him under the 
+terms of his plan, to enforce his rights under the 
+
+
+terms of the plan, or to clarify his rights to future 
+benefits under the terms of the plan; 
+
+
+(2) by the Secretary, or by a participant, beneficiary 
+or fiduciary for appropriate relief under section 1109 of 
+this title; 
+
+(3) by a participant, beneficiary, or fiduciary (A) to 
+enjoin any act or practice which violates any provision 
+of this subchapter or the terms of the plan, or (B) to ob- 
+tain other appropriate equitable relief (i) to redress such 
+violations or (ii) to enforce any provisions of this sub- 
+chapter or the terms of the plan; 
+
+
+(4) by the Secretary, or by a participant, or beneficiary 
+for appropriate relief in the case of a violation of 1025(c) 
+of this title; 
+
+
+(3) except as otherwise provided in subsection (b) 
+of this section, by the Secretary (A) to enjoin any act 
+or practice which violates any provision of this subchap- 
+ter, or (B) to obtain other appropriate equitable relief 
+(i) to redress such violation or (ii) to enforce any pro- 
+vision of this subchapter; 
+
+(6) by the Secretary to collect any civil penalty under 
+subsection (c)(2) or (i) or (/) of this section: 
+
+
+72a 
+
+
+(7) by a State to enforce compliance with a qualified 
+medical child support order (as defined in section 1169 
+(a)(2)(A) of this title); or 
+
+
+(8) by the Secretary, or by an employer or other per- 
+son referred to in section 1021(f)(1) of this title, (A) to 
+enjoin any act or practice which violates subsection (f ) 
+of section 1021 of this title, or (B) to obtain appropriate 
+equitable relief (i) to redress such violation or (ii) to 
+enforce such subsection. 
+
+
+, * 73a 
+
+
+§ 1367. Supplemental jurisdiction 
+
+
+(a) Except as provided in subsections (b) and (c) 
+or as expressly provided otherwise by Federal statute, in 
+any civil action of which the district courts have original 
+jurisdiction, the district courts shall have supplemental 
+jurisdiction over all other claims that are so related to 
+claims in the action within such original jurisdiction that 
+they form part of the same case or controversy under 
+Article III of the United States Constitution. Such sup- 
+plemental jurisdiction shall include claims that involve 
+the joinder or intervention of additional parties. 
+
+
+(b) In any civil action of which the district courts 
+have original jurisdiction founded solely on section 1332 
+of this title, the district courts shall not have supplemental 
+jurisdiction under subsection (a) over claims by plaintiffs 
+against persons made parties under Rule 14, 19, 20, or 
+24 of the Federal Rules of Civil Procedure, or over claims 
+by persons proposed to be joined as plaintiffs under Rule 
+19 of such rules, or seeking to intervene as plaintiffs under 
+Rule 24 of such rules, when exercising supplemental juris- 
+diction over such claims would be inconsistent with the 
+jurisdictional requirements of section 1332. 
+
+
+(c) The district courts may decline to exercise supple- 
+mental jurisdiction over a claim under subsection (a) if— 
+
+
+(1) the claim raises a novel or complex issue of 
+State law, 
+
+
+(2) the claim substantially predominates over the 
+claim or claims over which the district court has 
+Original jurisdiction, 
+
+(3) the district court has dismissed all claims over 
+which it has original jurisdiction, or 
+
+
+(4) in exceptional circumstances, there are other 
+compelling reasons for declining jurisdiction. 
+
+
+74a 
+
+
+(d) The period of limitations for any claim asserted 
+under subsection (a), and for any other claim in the same 
+action that is voluntarily dismissed at the same time as 
+or after the dismissal of the claim under subsection (a), 
+shall be tolled while the claim is pending and for a 
+period of 30 days after it is dimissed unless State law 
+provides for a longer tolling period. 
+
+
+(e) As used in this section, the term “State” includes 
+the District of Columbia, the Commonwealth of Puerto 
+Rico, and any territory or possession of the United States. 
+
+
+(Added Pub.L. 101-650, Title MI, §310(a), Dec. 1, 
+1990, 104 Stat. 5113.) 
+
+

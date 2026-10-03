@@ -1,0 +1,1140 @@
+No. 94-1453 
+
+
+IN THE 
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+D. GRANT PEACOCK, 
+Petitioner, 
+
+
+Vv. 
+
+
+Jack L. THOMAS, 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+REPLY BRIEF FOR THE PETITIONER 
+
+
+CARTER G. PHILLIPS DAVID L. FREEMAN 
+RICHARD D. BERNSTEIN (Counsel of Record) 
+SIDLEY & AUSTIN J. THEODORE GENTRY 
+1722 I Street, N.W. WYCHE, BURGESS, FREEMAN 
+Washington, D.C. 20006 & PARHAM, P.A. 
+(202) 736-8000 Post Office Box 728 
+44 East Camperdown Way 
+Greenville, SC 29602 
+(803) 242-8200 
+Attorneys for Petitioner 
+October 6, 1995 D. Grant Peacock 
+
+
+WILSON - Eres Printinc Co., Inc. - 789-0096 - WasHiIncTon, D.C. 20001 
+
+
+TABLE OF CONTENTS 
+
+
+TABLE OF AUTHORITIES. ................2.-.-cccceseccsesesseeeeesees 
+I. NEITHER ERISA NOR FEDERAL COM- 
+
+
+Il. 
+
+
+MON LAW PROVIDES A POST-JUDGMENT 
+CAUSE OF ACTION FOR PIERCING THE 
+VEIL OF A CORPORATE FIDUCIARY OR 
+JUDGMENT DEBTOR ..............2-.-c-ccec-ceveeeeseeenenees 
+
+
+B. Federal Common Law ............-..-2----0..0.cccc-0e0--0e--e 
+
+
+THERE IS NEITHER A CONSTITUTIONAL 
+BASIS NOR A POLICY JUSTIFICATION FOR 
+ANCILLARY JURISDICTION OVER THIS 
+a  .  eae 
+
+
+NRE aaa! Te TOT OT CO 
+
+
+ii 
+TABLE OF AUTHORITIES 
+CASES Page 
+Alexander v. Hillman, 296 U.S. 222 (1985) ........... 12, 16 
+Anderson v. Abbott, 321 U.S. 349 (1944) —............ & 
+
+
+Berry v. McLemore, 795 F.2d 452 (5th Cir. 1986) .. 14 
+Buckley Dement, Inc. v. Travelers Plan Adm’rs, 39 
+
+
+PrP YF, Bs Bm Pees itee hfe 4 
+Chicot County Drainage Dist. v. Baxter State 
+
+Bank, 966 US. Goi COGS i.nncontmmeuasanaamen 14 
+Connors v. P&M Coal Co., 801 F.2d 1873 (D.C. Cir. 
+
+BED ccncensevce vocanctntniotastnemnippsiensiiaaiaeaaeae nna 6 
+Dery v. Wyer, 265 F.2d 804 (2d Cir. 1959) —.......... 12 
+Dewey v. West Fairmont Gas Coal Co., 123 U.S. 
+
+SED CITY esecdcecscictsdcivicecduhndndbadeetii dais 11,12 
+Dugas v. American Surety Co., 300 U.S. 414 
+
+|}: | ns a Be 18, 14, 15 
+Empire Lighting Fixture Co. v. Practical Lighting 
+
+Fizture Co., 20 F.2d 295 (2d Cir. 1927) -............ 18 
+Finley v. United States, 490 U.S. 545 (1989) —........ 12,19 
+Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101 
+
+CRD ceevecncesccacicccentnnecssstntitnmasss 4 
+H.C. Cook Co. v. Beecher, 172 F. 166 (C.C.D. Conn. 
+
+|, EE oe nT 17 
+
+
+H.C. Cook Co. v. Beecher, 217 U.S. 497 (1910) ....16, 17, 18 
+J.M. Resources Inc. v. Petro-Pak Resources, Ltd., 
+
+
+581 F. Supp. 629 (D. Colo. 1984) 0.00. 18 
+Karcher v. May, 484 U.S. 72 (1987) —...................... 16 
+Kokkonen v. Guardian Life Ins. Co., 114 8. Ct. 1673 
+
+) | SISSIES Ee 10, passim 
+Krippendorf v. Hyde, 110 U.S. 276 (1884) —....... 12, 20 
+Labette County Commissioners v. United States ex 
+
+rel. Moulton, 112 U.S. 217 (1884) — 0... 15, 16 
+Local Loan Co. v. Hunt, 292 U.S. 234 (1934) _........ 14,19 
+Mackey v. Lanier Collection Agency & Serv., 486 
+
+i Fy Eee re EE ee at 8 
+
+
+Massachusetts Laborers’ Health & Welfare Fund v. 
+Starrett Paving Corp., 845 F.2d 23 (ist Cir. 
+
+
+BOD nccecinscinncoctnitdicocnnsslaiicdiasiecaidtiamcen ca ne 5 
+Mertens v. Hewitt Associates, 113 S. Ct. 2063 
+QBGIED ..0-cicvesssvcevesssntestionseninmnsetamaaiesanmiaial 2, passim 
+
+
+iii 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+Minnesota Co. v. St. Paul Co., 69 U.S. (2 Wall.) 
+
+ES LS A NS i aS I Oa 12, 15 
+Miree v. DeKalb County, 433 U.S. 25 (1977)........ 9 
+O’Melweny & Myers v. FDIC, 114 S. Ct. 2048 
+
+ESE EL ES Te a 5, 7,19 
+Owen Equip. & Erec. Co. v. Kroger, 487 U.S. 365 
+
+RENN SES PCN ree eee 11, 12 
+Parsons Steel, Inc. v. First Alabama Bank, 474 
+
+SE a 14 
+Reich v. Compton, 57 F.3d 270 (3d Cir. 1995)... 4 
+Reich v. Rowe, 20 F.3d 25 (ist Cir. 1994) 3 
+Riggs v. Johnson County, 73 U.S. (6 Wall.) 166 
+
+(1868) . 15, 16 
+Riverdale Cotton Mills v. ‘Alabama & Ga. Mfg. Co., 
+
+198 U.S. 188 (1905) _..... EEL EE ee 15 
+Root v. Woolworth, 150 U.S. 401 (1898) 14 
+Santa Fe Industries, Inc. v. Green, 430 U.S. 462 
+
+SE SR ea 8 
+Skevofilaz v. Quigley, 810 F.2d 378 (3d Cir. 1987) 
+
+EE ESSE ae a 10 
+Swift & Co. Packers v. Compania Colombiana Del 
+
+Caribe, S.A., 389 U.S. 684 (1950) 12 
+Texas Indus. v. Radcliff Materials, Inc., 451 U.S. 
+
+EE eT 4 
+United States v. Cordova Chem. Co., 59 F.3d 584 
+
+a 4 
+Valley Forge Christian College v. " Americans 
+
+United for Separation of Church & State, 454 
+
+I eames 19 
+Wesch v. Folsom, 6 F.3d 1465 (11th Cir. 1998) Laat 14 
+Wm. Passalacqua Builders, Inc. v. Resnick Develop- 
+
+ers South, Inc., 983 F.2d 131 (2d Cir. 1991)... 2 
+Zenith Radio Corp. v. Hazeltine Research, Inc., 395 
+
+EEE 16, 20 
+
+STATUTES AND RULES 
+EEL EE 14 
+Ee 5 
+
+
+I htttatttinsccncinentnngusctuneennnateneneusinmecnanes 6 
+
+
+iv 
+TABLE OF AUTHORITIES—Continued 
+
+
+29 U.S.C. § 1182(a) — 
+29 U.S.C. § 1145 
+Fed. R. Civ. P. 69(a) 1 
+Fed. R. Civ. P. 82 1 
+
+
+OTHER AUTHORITIES 
+
+
+1 W. Fletcher, ia. el hepesganamddnaswetiied 
+Private Corporations .. - 2,9 
+
+
+anf on - 
+
+
+REPLY BRIEF FOR THE PETITIONER 
+
+
+IL. NEITHER ERISA NOR FEDERAL COMMON LAW 
+
+PROVIDES A POSTJUDGMENT CAUSE OF AC- 
+TION FOR PIERCING THE VEIL OF A CORPO- 
+RATE FIDUCIARY OR JUDGMENT DEBTOR. 
+
+
+Neither the Fourth Circuit nor the United States in its 
+
+
+point. Because respondent and other amici argue in favor 
+of an ERISA cause of action, however, and because the 
+absence of an ERISA cause of action is relevant to the 
+
+
+or the terms of the plan.” 29 U.S.C. § 1132(a)(3)(B). 
+
+
+1. Section 502(a)(3) does not apply here. First, the 
+relief sought and obtained here—a money judgment 
+
+
+1 The existence vel non of an ERISA cause of action is particu- 
+larly critical here, because in the absence of an ERISA cause 
+of action respondent could not rely on ERISA’s provision for 
+nationwide service of process. See Pet. Br. at 28 n.18. Conse- 
+quently, the Court would to, at a minimum, remand for a 
+proper determination regarding personal jurisdiction. Contrary 
+to the suggestion of the United States, the Petition in this case 
+expressly argued the personal jurisdiction issue as a basis for 
+granting certiorari on the ERISA issue. Pet. at 18. 
+
+
+TP 
+
+
+case, the award of attorney’s fees entered below cannot stand, since 
+it is premised solely on ERISA. 
+
+
+2 
+
+
+against petitioner—plainly is legal, not equitable. In 
+Mertens v. Hewitt Associates, 113 S. Ct. 2063, 2068 
+(1993), this Court stated plainly that “[mjoney damages 
+are, of course, the classic form of legal relief.” See Pet. 
+Br. at 17 & n.8; see also Wm. Passalacqua Builders, Inc. 
+v. Resnick Developers South, Inc., 933 F.2d 131, 134-37 
+(2d Cir. 1991) (carefully analyzing origin of doctrine 
+of veil piercing and concluding that the doctrine “had 
+equitable and legal components”; accordingly, action to 
+pierce veil of judgment debtor to impose uncollected 
+judgment on alleged alter egos, as an action which sought 
+monetary damages, was legal and not equitable); 1 W. 
+Fletcher, Fletcher Cyclopedia of the Law of Private Cor- 
+porations § 41, 1994 Cum. Supp. at 45 (veil piercing 
+held to be legal issue where it “turns chiefly on disputed 
+fact questions and the relief sought consists of damages” ). 
+
+Respondent and his amicus AARP seek to evade this 
+principle by asserting that the remedy obtained here is an 
+equitable “restitutionary” or “restorative” remedy. Resp. 
+Br. at 9; AARP Br. at 11-12. This plain misstatement 
+serves only to emphasize the legal nature of the remec 
+here. Petitioner was not directed to restore to Tru-Tech 
+(and thence for the benefit of all its creditors) the notes 
+and receivables that were transferred to Grant Peacock 
+& Co.; he instead was subjected to a personal money judg- 
+ment for $187,628.93, to be paid directly to respondent. 
+The judgment below went far beyond “restoration” of the 
+transfers out of Tru-Tech, imposing damages at more than 
+twice the value of the property transferred. The judg- 
+
+
+2 As we have explained, the face value of the transfers at issue 
+was less than $60,000—and their actual value was even less. Pet. 
+Br. at 8 n.3. Amicus United States places the value at $80,000, pre- 
+sumably by failing to deduct from the transfers the cash paid for 
+the $25,000 Uhiman note. U.S. Br. at 3; see C.A. 4 App. at 168. 
+Even if one uses the United States’ figure, and further assumes 
+arguendo that no consideration was given for the transfers, the 
+damages award alone in this case far exceeds any benefit obtained 
+by petitioner. (Of course, the unrefuted evidence shows that the 
+transfers in this case—contrary to the implication of the facile 
+term “siphoning” favored by respondent—were supported by full 
+
+
+3 
+
+
+ment at issue here improved the Tru-Tech judgment by 
+making collectible in full, out of petitioner’s assets, what 
+could not have been collected from Tru-Tech, which was 
+insolvent even before the transfers in question. 
+
+2. Moreover, Section 502(a)(3) of ERISA could not 
+were an equitable remedy. Section 502(a)(3) authorizes 
+equitable relief only to redress a violation of ERISA or 
+an ERISA plan. ERISA “does not, after all, authorize 
+‘appropriate equitable relief at large.” Mertens, 113 
+S. Ct. at 2067. In this lawsuit, there is no allegation of 
+a violation of ERISA or a plan—indeed the suit makes 
+no specific mention at all of the statute or the plan docu- 
+ment. ES SES Ces ae © SUNS Meee os 
+
+
+ERISA or an ERISA plan. Thus, Section 502(a)(3), 
+which is directed narrowly at relief for ERISA violations, 
+cannot apply.* 
+
+
+B. Federal Common Law. 
+
+
+1. Absent any express statutory cause of action to 
+pierce the veil of an ERISA judgment debtor, this case 
+create a federal common law cause of action where 
+ERISA does not. 
+
+
+This Court has considered and rejected the arguments 
+for such # judicial rewriting of ERISA in Mertens. The 
+Court refused “to infer causes of action in the ERISA 
+context, since that statute’s carefully crafted and detailed 
+enforcement scheme provides strong evidence that Con- 
+gress did not intend to authorize other remedies that it 
+simply forgot to incorporate expressly.” 113 S. Ct. at 
+
+
+and valid consideration. Pet. Br. at 8 n.3.) This is not a restitu- 
+tion case. 
+
+
+* See Reich v. Rowe, 20 F.3d 25, 29 (ist Cir. 1994) (interpreting 
+similar language of Section 502(a) (5) of ERISA to limit available 
+relief to redress of a violation of terms of ERISA). 
+
+
+4 
+
+
+2067 (internal quotations omitted); see Pet. Br. at 15-17; 
+see also United States v. Cordova Chem. Co., 59 F.3d 
+584, 590 (6th Cir. 1995) (rejecting a federal commor 
+low ctandard for plesting Ge cocperats vel ets te 
+
+
+sidiary to hold the parent liable as an “operator” under 
+CERCLA; noting that Congress could have abandoned 
+“traditional concepts of limited liability associated with 
+the corporate form” had it chosen). 
+
+
+Mertens is squarely on point in its refusal to create an 
+
+
+extrastatutory remedy for damages against a nonfiduciary. 
+deseaver, ts fo tie Recedolad Tenens of Suuaniab-ahet 
+
+
+ERISA is a finished work, not merely a congressionally 
+created scaffold on which the judiciary may mount what- 
+ever remedies it sees fit—that is crucial here. Mertens 
+applies, and mandates reversal, because respondent seeks 
+to assert under the rubric of ERISA a cause of action 
+contained nowhere in ERISA.* 
+
+
+* Respondent’s amici Central States (at 8-9) and NCCMP (at 13) 
+
+safer to this Court's statement that “courts are to develop a federal 
+ommon law of rights and obligations under ERISA-regulated 
+plans.” Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101, 110 
+(1989) (internal quotations omitted). The context of this state 
+ment, however, is that “ERISA abounds with the language and 
+terminology of trust law,” and accordingly that in construing 
+ERISA the Court will be “guided by principles of trust law.” 489 
+U.S. at 110-11. 
+
+There is a broad gulf between the principle stated in Firestone, 
+that the common law understanding of trust law principles should 
+be used in interpreting the text of ERISA, and the proposition 
+advanced here and rejected in Mertens, that resort may be had to 
+the common law to create an action that Congress declined to pro- 
+vide in enacting ERISA. See Texas Indus. v. Radcliff Materials, 
+Inc., 451 U.S. 680, 643-45 (1981) (power to interpret common 
+law terms of Sherman Act does not give courts “the power to alter 
+or supplement the remedies enacted”); Buckley Dement, Inc. v. 
+Travelers Plan Adm’rs, 39 F.3d 784, 789-90 (7th Cir. 1994) 
+(common law to be used in “implement{ing) the provisions of 
+ERISA,” not “augment[ing)” them). Moreover, veil piercing is 
+not a trust law doctrine. See Reich v. Compton, 57 F.3d 270, 278 
+n.12 (3d Cir. 1995) (alter ego doctrine not part of the common 
+law of trusts “upon which Congress engrafted ERISA” (citing 
+Firestone) ; this “is not surprising given that the alter ego doctrine 
+originally developed in the context of corporate law’’). 
+
+
+every jadick 
+recovery of ERISA claimants. See, ¢.¢., Resp. Br. at 15 
+(ERISA beneficiary “has a higher degree of expectation 
+for recovery”); Bricklayers Br. at 16 (Congress has 
+amended ERISA to give it “teeth” for recovery of delin- 
+quent contributions). This Court has flatly rejected that 
+argument in Mertens, 113 S. Ct. at 2071, and in 
+O'Melveny & Myers v. FDIC, 114 S. Ct. 2048, 2055 
+(1994) (“there is no federal volicy that the fund should 
+always win”); see Pet. Br. ae 
+
+
+RB Soap, one Trae 5 ll prone 
+mon law of veil piercing under ERISA, because they are 
+concerned about a different kind of case—one in which 
+a multiemployer plan seeks to pierce the veil of a 
+moribund corporation in order to have the corporation’s 
+alter ego declared the “employer” under Sections 3(5) 
+and 515 of ERISA, 29 U.S.C. §§ 1002(5), 1145, for 
+purposes of fulfilling contribution obligations to the plan. 
+Rather than simply identifying this issue as one not pre- 
+sented here, these amici urge affirmance on the basis of 
+an analogy between (a) the “employer contribution” 
+scenario and (b) an attempt to pierce the veil of a breach- 
+ing corporate fiduciary in order to declare the alter ego 
+also to be a brea. ‘ing fiduciary. E.g., Bricklayers Br. at 
+12 & n.15; Central States Br. at 6, 9; NCCMP Br. at 
+15° 
+
+
+5 Even in the employer contribution context, amici significantly 
+overread certain decisions. See, e¢.g., Massachusetts Laborers’ 
+Health & Welfare Fund v. Starrett Paving Corp., 845 F.2d 23, 26, 
+27 (ist Cir. 1988) (Breyer, J.) (panel bound by prior Circuit 
+opinion in Alman regarding source of law; dealing in dictum with 
+circumstance in which alter ego was “already obligated”; i.c., was 
+the alter ego at the time obligation was entered) ; Connors v. P&M 
+Coal Co., 801 F.2d 1873, 1878 (D.C. Cir. 1986) (joined by Ginsburg 
+& Scalia, JJ.) (dictum noting other decisions; does not address 
+federal common law issue). 
+
+
+6 
+
+
+Assuming arguendo that veil piercing is available in 
+the employer contribution case, the proposed analogy col- 
+lapses in this fiduciary liability case because of the differ- 
+ence between fiduciary liability for breach and employer 
+liability for contributions. Fiduciary liability requires a 
+finding that the fiduciary was guilty of some breach of 
+duty—while acting as a fiduciary. Indeed, Section 409 
+of ERISA, which provides for fiduciary liability for breach 
+of duty, expressly states that “[n]Jo fiduciary shall be liable 
+with respect to a breach of fiduciary duty . . . if such 
+breach was committed before he became a fiduciary or 
+after he ceased to be a fiduciary.” 29 U.S.C. § 1109(b) 
+(emphasis added). If an individual .mecting ERISA’s 
+functional definition of fiduciary—that is, having discre- 
+tionary authority or control over a plan*—commits a 
+breach, then there is fiduciary liability; the veil piercing 
+inquiry can add nothing to the statutory test. If the aim 
+of piercing the veil is to declare that the individual was 
+a fiduciary at the time of the wrong, then the proper and 
+only inquiry is the statutory test of whether the individual 
+exercised discretionary authority or control. If so, the 
+individual is a fiduciary regardless of corporate form. 
+Pet. Br. at 18-19. On the other hand, if the purpose of 
+the veil piercing inquiry is, as appears to be the case here, 
+to declare that the individual later became a fiduciary and 
+is therefore responsible for a prior ERISA wrong, then 
+liability is precluded by Section 409(b) of ERISA. In 
+either event, veil piercing has no place in the fiduciary 
+liability analysis. 
+
+Petitioner was conclusively adjudged not to be a fidu- 
+ciary of the Tru-Tech plan at the time of the breach of 
+fiduciary duty that supports the Tru-Tech judgment. See 
+U.S. Br. at 25 (petitioner’s liability “was not premised 
+on” ERISA violation). Further, it is universally acknowl- 
+edged that the events alleged to support veil piercing here 
+occurred after the fiduciary breach. Thus, pursuant to 
+
+
+*As Mertens points out, this definition expands beyond the 
+common law “the universe of persons subject to fiduciary duties— 
+and to damages.” 113 S. Ct. at 2071. 
+
+
+7 
+
+
+ERISA Section 409(b), the one thing that this case ab- 
+solutely cannot be about—and the misplaced focus of the 
+amici multiemployer plans—is whether Tru-Tech’s cor- 
+porate veil can be pierced to make petitioner a fiduciary 
+with respect to the breach in this case. See Central States 
+Br. at 6. 
+
+
+3. From the foregoing, it is clear that respondent has 
+no cause of action, either express or implied, arising 
+under ERISA. The only remaining argument for applica- 
+tion of federal law in this case is that the statute should 
+be supplemented by creation of a federal common law 
+rule of decision for imposition of liability on persons 
+claimed to be the alter ego of a federal judgment debtor.’ 
+
+In a word, O’Melveny is dispositive. There, the FDIC 
+sought application of a federal common law rule of deci- 
+sion in a professional negligence and breach of fiduciary 
+duty case brought against a law firm that had represented 
+a failed bank. This Court held that state law governed, 
+noting that it would not “adopt a court-made rule to 
+supplement federal statutory regulation that is compre- 
+hensive and detailed,” 114 S. Ct. at 2054, and that even 
+in the absence of such a comprehensive statutory frame- 
+work, no federal rule of decision would be adopted in the 
+absence of “a significant conflict between some federal 
+policy or interest and the use of state law,” id. at 2055 
+(internal quotation omitted). 
+
+
+First, ERISA is precisely the kind of “comprehensive 
+and detailed” statute that calls for no judicial additions. 
+The lack of need for federal common law accretions is 
+especially clear with respect to ERISA because of its ex- 
+press preemption provision. When a matter, such as this 
+one, is plainly beyond the reach of a preemption provi- 
+sion, the lack of federal interest in imposng a common 
+law rule of decision becomes even clearer. Pet. Br. at 
+21-24; see Mackey v. Lanier Collection Agency & Serv., 
+
+
+™ The United States does not join those seeking federalizatiou of 
+this corporate law doctrine. U.S. Br. at 25. 
+
+
+486 U.S. 825, 834 (1988) (leaving “state-law methods 
+
+
+for collecting money judgments . . . undisturbed by 
+ERISA”). 
+
+
+Nor is there any “significant conflict” here between 
+federal policy and state law principles. There is no sug- 
+gestion that some states do not recognize veil piercing (or 
+provide for the voiding of preferential transfers, the more 
+appropriate remedy here). See Santa Fe Industries, Inc. 
+v. Green, 430 U.S. 462, 479 (1977) (declining to 
+“federalize” state corporate law “{a]bsent a clear indica- 
+tion of congressional intent”; noting the general under- 
+standing that state law will govern corporate affairs un- 
+less “federal law expressly” states to contrary) .* 
+
+
+The Fourth Circuit clearly erred in imposing liability 
+on petitioner on the basis of a “liberal [federal common 
+law] veil-piercing standard” created especially “for use in 
+ERISA actions.” Pet. App. 23a. Even if this Court con- 
+cludes that this action is properly within the federal 
+courts’ ancillary jurisdiction, the matter will have to be 
+remanded for proper application of a state law rule of 
+
+
+8 Incredibly, three amici ask this Court to create a federal 
+common law rule of veil piercing for every attempt to collect a 
+federal judgment. Bricklayers Br. at 11 (championing the “uni- 
+versally recognized federal veil piercing doctrine”); NCCMP Br. 
+at 11-12 (urging veil piercing in every case “where a federal 
+judgment is sought to be enforced”); Central States Br. at 9-10 
+(“[vJeil piercing is a federal common law matter where the liabil- 
+ity of the corporation is created by federal statute”). These amici 
+mischaracterize Anderson v. Abbott, 321 U.S. 349 (1944), a narrow 
+preemption case. In Anderson, the National Bank Act itself ex- 
+pressly pierced the corporate veil and made shareholders of national 
+banks directly liable for certain debts. 321 U.S. at 369 n.1 (quoting 
+statute). The Court held a Delaware statute preempted that allowed 
+evasion of the federal statute by the simple interposition of a 
+holding company owning all the stock of the national bank, with the 
+holding company’s shareholders having limited liability. Jd. at 365. 
+The Anderson court expressly noted the narrowness of its holding: 
+“Barring conflicting federal incorporation statutes, Delaware may 
+choose such rules of limitation on the liability of stockholders 
+of her corporations as she desires.” Jd. (emphasis added). Of 
+course, there is no federal incorporation statute at issue here. 
+
+
+9 
+
+
+decision on the merits, and proper determination of per- 
+sonal jurisdiction. See supra note 1.° 
+
+
+Il. THERE IS NEITHER A CONSTITUTIONAL BASIS 
+NOR A POLICY JUSTIFICATION FOR ANCILLARY 
+JURISDICTION OVER THIS STATE LAW MATTER. 
+
+
+1. Respondent and several amici ask this Court to 
+hold that any action, the goal of which is to obtain assets 
+for a holder of a federal judgment, is itself a federal 
+action. The incredible breadth of this “asset-finding” 
+jurisdiction is in sharp contrast to this Court’s prior deci- 
+sions, which clearly delineate the limited circumstances 
+in which a matter that shares no common nucleus of 
+operative fact with a federal action can nevertheless be 
+called part of the same constitutional “case.” Under these 
+decisions, a plaintiff can bring such an action in federal 
+court only when (a) the res that is the subject of the 
+lawsuit has been attached or is otherwise in the actual or 
+
+
+® The rule adopted below also departs from black letter principles 
+of veil piercing law, both (i) in imposing liability on petitioner 
+for wrongs that occurred before he was alleged to be Tru-Tech’s 
+alter ego, see Pet. Br. 26 n.16; 1 Fletcher § 43.10 (“control must 
+. . » have been exercised at the time the acts complained of took 
+place”: control “must proximately cause the injury”), and (ii) in 
+allowing recovery beyond the amount of the allegedly improper trans- 
+fers, 1 Fletcher § 45 (where transfers “may be avoided as fraudu- 
+lent conveyances, disregard of the corporate entity is unnecessary’”’ ). 
+
+In light of this inconsistency with general principles of veil 
+piercing law, the Fourth Circuit’s brief dictum that the rule in this 
+case “accords with [its] understanding” of South Carolina law, Pet. 
+App. 22a n.16, cannot forestall a more searching inquiry into the 
+appropriate state law remedy. See Miree v. DeKalb County, 433 
+U.S. 25, 38 (1977) (where court of appeals incorrectly disposed 
+of case by creating federal common law, remanding to apply state 
+law and reexamine prior dicta concerning state law). First, it is 
+not clear that South Carolina law would govern here. In any event, 
+as the Government notes, there does not appear to be South 
+Carolina authority on the limitation of the veil-piercing remedy 
+when it is based on preferential transfers, U.S. Br. at 27 n.19; 
+nor are we aware of South Carolina authority that an alter ego 
+may be made liable for acts occurring before the veil could be 
+pierced. These state law questions should be certified to the 
+appropriate state court on remand, if remand is necessary. 
+
+
+rule, “the post-judgment pursuit of a questionable gam- 
+bling debt allegedly due the defendant,” Skevofilax v. 
+Quigley, 810 F.2d 378, 389 (3d Cir. 1987) (en banc) 
+(Becker, J., concurring), would be ancillary. 
+
+This line is reinforced by this Court’s numerous ad- 
+monitions that ancillary jurisdiction may be exercised only 
+if it is “necessary” or “essential” to protection of the 
+federal court’s existing federal question or diversity juris- 
+diction. See Kokkonen v. Guardian Life Ins. Co., 114 
+S, Ct. 1673, 1677 (1994) (matter must be “essential 
+to the conduct of federal-court business”); Pet. Br. at 
+36. When the putatively ancillary matter does not in- 
+volve rights to a res in the hands of the court, and 
+cannot be resolved by reference to what the federal court 
+has already decided (so that decision of the matter can- 
+not be said to threaten to undermine the court’s prior 
+decision), then resolution of the new matter by the federal 
+court cannot be said to be “necessary.” In a Kokkonen- 
+type situation, for instance, it could easily be argued that 
+the flouting of a settlement agreement entered for the 
+express purpose of obtaining dismissal of a federal action 
+is an affront to the dignity and functioning of the court, 
+
+
+10 Respondent and his amici, as did the Fourth Circuit, rely on 
+the proposition that an attempt to pierce the corporate veil is 
+“subsidiary to some primary cause of action” to suggest that a 
+veil-piercing claim must always be ancillary. Pet. App. 12a, 16a; 
+see Resp. Br. at 8. The conclusion does not follow. Veil piercing 
+is “subsidiary” in the limited sense that liability does not flow 
+simply because the veil can be pierced; there must be an independ- 
+ent wrong, and the alter ego must have responsibility for that 
+wrong. See supra note 9. This concept has nothing to do with 
+
+
+11 
+
+undermining its authority and the “spirit” of its order. 
+Kokkonen makes clear, however, that this sort of activity 
+beyond the scope of a federal court order, even if incon- 
+sistent with the spirit of that order, is not enough for 
+ancillary jurisdiction. As this Court’s prior decisions dem- 
+onstrate, it is not “necessary” for the federal court to 
+take up the matter unless property in its possession, or 
+the express terms of its order, are at issue. See Owen 
+Equip. & Erec. Co. v. Kroger, 437 U.S. 365, 377 (1978) 
+(“neither the convenience of litigants nor considerations 
+of judicial economy can suffice to justify extension of the 
+doctrine of ancillary jurisdiction” ). 
+
+The Tru-Tech order did not attach Tru-Tech’s assets, 
+and petitioner was not held liable here for violating the 
+terms of the Tru-Tech order. The common law of veil 
+piercing, not the terms of the Tru-Tech order, supplied 
+the controlling legal principle below. It was thus not 
+“essential” to vindication of the Tru-Tech order that this 
+new allegation, involving facts never before presented, 
+and a new trial, be heard in federal court.” 
+
+
+2. Neither respondent nor any amicus contends that 
+federal court jurisdiction can be premised here on the 
+familiar common nucleus of operative fact test.” Nor is 
+
+
+11 We emphasize that we are not contending that there is no 
+remedy for the wrong alleged here. The point here is that Article 
+III places a limit on the ability of the federal courts to hear all 
+claims that come before them. 
+
+
+This distinguishes Dewey v. West Fairmont Gas Coal Co., 
+123 U.S. 329 (1887). There, a defendant brought a counterclaim 
+for a fraudulent transfer against both a diverse plaintiff and a 
+non-diverse third party. Jd. at 331-32. The fraudulent transfer 
+claim against the third party was of course factually interdependent 
+with the identical counterclaim against the plaintiff, who was still 
+before the court and over whom there was proper jurisdiction. 
+
+
+The fact that Dewey involved a counterclaim is also critical. As 
+this Court has noted, ancillary jurisdiction “has often been upheld 
+in situations involving impleader, cross-claims or counterclaims,” 
+since ancillary jurisdiction serves there to allow to be heard “claims 
+by a defending party haled into court against his will, or by another 
+person whose rights might be irretrievably lost unless he could 
+
+
+over the parties and disputes surrounding the res, since 
+the alternative would be to leave claimants not before the 
+court without an effective remedy. U.S. Br. at 14 & n.7.¥ 
+See Finley v. United States, 490 U.S. 545, 551 (1989) 
+(ancillary jurisdiction available “when an additional party 
+has a claim upon contested assets within the court’s ex- 
+clusive control”). Of course, affirmance of the Fourth 
+Circuit would sweep away the carefully drawn distinctions 
+in this line of cases; there will never again be a need for 
+execution or attachment in federal court if any party 
+receiving unattached property claimed by a judgment 
+debtor can be haled into court on that basis alone. 
+
+
+assert them in an ongoing action in a federal court.” Owen, 487 
+U.S. at 8375-76; see also Dery v. Wyer, 265 F.2d 804, 807 n.3 (2d 
+Cir. 1959) (characterizing Dewey as involving a compulsory coun- 
+terclaim). Plainly, if Dewey had involved an attempt by a plaintiff 
+to assert ancillary jurisdiction over a third party not otherwise 
+before the court, the attempt would have failed under the doctrine 
+of Owen, which refused to allow a plaintiff, after a non-diverse 
+third-party defendant was added by the defendant, to assert a 
+factually related claim against that third-party defendant. 
+
+
+18 See Swift & Co. Packers v. Compania Colombiana Del Caribe, 
+S.A., 389 U.S. 684, 693 (1950) (in admiralty, federal court has 
+jurisdiction to determine “[dJisputes over ownership of attached 
+vessels” to ensure propriety of attachment) ; Alezander v. Hillman, 
+296 U.S. 222, 237-38 (1935) (in a receivership, receivers “may 
+sue to recover any part of the res”; the issue before the Court in 
+this case was in any event personal jurisdiction, not subject matter, 
+id. at 231, 242; the Court also remarked on the existence of com- 
+mon issues of fact, id. at 248) ; Krippendorf v. Hyde, 110 U.S. 276, 
+280-86 (1884) (party claiming to own property attached in federal 
+court proceeding may assert title in that proceeding; noting that 
+attached property “is regarded as in the custody of the court’) ; 
+Minnesota Co. v. St. Paul Co., 69 U.S. (2 Wall.) 609, 682 (1864) (if 
+property is “in the hands of the receiver of the Circuit Court, noth- 
+ing can be plainer than that any litigation for its possession must 
+take place in that court, without regard to the citizenship of the 
+parties”). 
+
+
+13 
+
+
+Indeed, the availability of in rem ancillary jurisdiction 
+underscores, in two ways, that the instant action is not 
+properly regarded as ancillary. First, Kokkonen empha- 
+sizes that ancillary jurisdiction is improper when the 
+court and the parties could have provided in the original 
+order for a broader retention of jurisdiction. 114 S. Ct. 
+at 1677. Here, no asset of Tru-Tech was attached. 
+
+
+Second, supsadint Red Ge option of inciitsting on 
+ea) GEMM THOTOA Ger dapeates Gaoenend Oe 
+allegedly improper transfers. See 11 U.S.C. bees — 
+
+
+created federal court proceeding to protect i 
+as respondent against improper transfers. See id. §§ 541- 
+344, 547. Of course, bankruptcy law also provides 
+
+
+ee ee cee ee ae 
+
+
+Sanaa iit ens Ghbmmaten ef waite. 2 See id. 
+§§ 342, 307, — These protections are not part of the 
+licially created ancillary remedy sought by 
+
+
+3. Federal court ancillary jurisdiction could be justi- 
+fied here only if it were necessary to protect the court’s 
+prior judgment. This Court’s cases make it clear that 
+the federal court’s role in protecting a judgment is coter- 
+minous with the terms of that judgment; if the putatively 
+ancillary proceeding seeks a result or relief different from 
+what is provided in the main case, the second proceed- 
+a6 OS Se ene a le Sate Claeamenel 
+v. American Surety Co., 300 US. 414, 428 (1937) 
+(jurisdiction to enforce prior decree is available if “the 
+relief be not of a different kind or on a different prin- 
+ciple”); see also Pet. Br. at 39. This case, with new 
+
+
+4 Respondent’s claim constituted only about 15 percent of Tru- 
+Tech's total indebtedness. C.A. 4 App. at 162-68. Of Tru-Tech’s 
+remaining creditors, petitioner, who was personally owed $344,000 
+by Tru-Tech, was among the largest. /d. at 162. 
+
+
+14 
+
+
+poetias one om malin sennenatnn. 2 Ai See steny 
+goes beyond enforcing the terms of the Tru-Tech judg- 
+ment. See Berry v. Lemore, 195 F.2d 452, 455 (Sth Cir. 
+1986) (“We can find no case where a court Sit hed 
+ancillary jurisdiction to consider claims in a new and in- 
+
+
+sege 
+
+
+against 
+action or their privies. As this Court has noted, ancillary 
+jurisdiction exists “to avoid the relitigation of questions 
+once settled between the same parties.” Root v. Wool- 
+worth, 150 U.S. 401, 410-11 (1893).* 
+
+
+For instance, in Local Loan Co. v. Hunt, ee 
+234 (1556), 6 ens called. on hearty Sy Ge overnmer 
+of all debts, including the one owed the petitioner. The 
+petitioner, as a creditor with notice, was thus bound as 
+a party under res judicata principles. See, e.g., Chicot 
+County Drainage Dist. v. Baxter State Bank, 308 U.S. 
+371, 375 (1940). The petitioner nevertheless brought a 
+
+
+“The Anti-Injunction Act, 28 U.S.C. § 2283, which generally 
+prohibits interference in state court proceedings by federal courts, 
+contains a “relitigation exception” that allows stay of a state 
+court proceeding “to protect or effectuate” federal court judgments 
+—the language used to describe the scope of ancillary jurisdiction. 
+See Dugas, 300 U.S. at 428 (ancillary bill may be brought “in aid 
+of and to effectuate” prior federal decree) ; Kokkonen, 114 8S. Ct. 
+at 1676 (court has “power to protect its proceedings and 
+vindicate its authority”). The “protect or effectuate” language, 
+which has been construed as “essentially a res judicata concept 
+designed to prevent” relitigation, Wesch v. Folsom, 6 F.3d 1465, 
+1471 (11th Cir. 1993), will justify federal injunction of a state 
+proceeding only where the “federal court’s flexibility and authority 
+to decide” the case is “seriously impair[ed].” Parsons Steel, Inc. 
+v. First Alabama Bank, 474 U.S. 618, 535  wared This line of 
+authority supports limiting ancilliary jurisdiction to matters falling 
+within the bounds of prior court orders. 
+
+
+Paar yin atng pe pat ate 9 agp 
+
+decrees. 300 U.S. at 426-27. A federal court has juris- 
+
+Gate te cae Cies Bp oetees ane Ipren Ceet,, Sat eavens 
+
+alificatio that the relief be not of a different 
+
+ifferen .” 300 U.S. at 428 (em- 
+
+phasis added). See also Riverdale Cotton Mills v. Ala- 
+
+bama & Ga. Mfg. Co., 198 U.S. 188, 195 (1905); 
+Minnesota Co., 69 U.S. at 632. 
+
+
+The rulings in Riggs v. Johnson County, 73 U.S. (6 
+Wall.) 166 (1868) and Labette County Commissioners 
+v. United States ex rel. Moulton, 112 U.S. 217 (1884), 
+are not to the contrary. Each case involved municipal 
+liability on bonds, adjudicated in federal court. The sub- 
+
+
+simply to order persons, in their official capacities, to 
+cause the judgments to be satisfied.* In this sense, the 
+
+
+1¢ It did not matter that the bonds in Labette County were those 
+of a township, while the enforcement order was directed to county 
+officials. The township bonds were issued by the county commis- 
+sioners and, pursuant to state law, it was the county commissioners 
+who had the authority to levy the tax to pay those bonds. See 112 
+U.S. at 218, 222. The Court properly emphasized that the county 
+
+
+i a in- 
+dividual officeholder.” Karcher v. May, 484 U.S. 72, 78 
+(1987). Here, by contrast, petitioner was sued in his 
+individual capacity for personal liability and the judgment 
+against him is not the mere application of res judicata.” 
+
+
+lish liability on the part of” petitioner. Resp. Br. at 4. 
+That does not describe Riggs or Labette, or any of this 
+Court’s other ancillary jurisdiction cases. It does describe 
+the universal understanding of a separate constitutional 
+“case,” one that must have its own jurisdictional basis. 
+
+
+4. This is the conclusion reached by this Court in 
+H.C. Cook Co. v. Beecher, 217 US. 497 (1910). 
+Beecher confirms that ancillary jurisdiction stops short of 
+separate lawsuits, involving new facts and claims, brought 
+to impose liability on a third party. See Pet. Br. at 29- 
+> 
+
+
+: oners “are not strangers” to the judgment, “but are bound 
+by it, as it stands.” Id. at 221 (emphasis added). 
+
+
+7 To the contrary, this Court has held that a judgment’s res 
+judicata effect cannot be applied to a non-party to the initial action 
+who is alleged to be an alter ego, until that non-party, in a second 
+action, is found after a new trial in fact to be an alter ego. See 
+Zenith Radio Corp. v. Hazeltine Research, Inc., 395 U.S. 100, 111 
+(1969). Zenith, and common sense, thus refute the Government’s 
+argument that an action to establish the alter ego status of a non- 
+party is merely an action to execute the judgment. See U.S. Br. at 
+12. Accordingly, Fed. R. Civ. P. 69(a) is irrelevant. See also Fed. 
+R. Civ. P. 82 (“These rules shall not be construed to extend . . 
+the jurisdiction of the United States district courts”). 
+
+
+% The United States, U.S. Br. at 12, relies on Alezander v. 
+Hillman in criticizing the argument that this lawsuit is a new 
+“case” because it involved new parties, new facts, a new caption, 
+
+
+f 
+H 
+i 
+eat 
+i 
+a 
+Hi 
+
+
+: 
+i 
+af 
+
+
+a 
+oF 
+
+
+t 
+
+
+no jurisdiction. H.C. ary, Augyig-ndbvom 
+172 F. 166, 167 (C.C.D. Conn 1909) This Court agreed 
+
+
+* 
+
+
+shin thlsdineill mallitah Meedientien ob Seotben thane 
+is no more or less “a pure state law claim,” U.S. Br. at 
+23, here than there was in Beecher. The yvernme 
+argues that the claim against petitioner was not “pure” 
+(the Government does view it as a state law claim, U.S. 
+Br. at 25) because it is premised on a “scheme” to defeat 
+
+
+a federal judgment. We submit the availability of federal 
+
+
+jurisdiction over a statelaw tort action should not tum 
+
+
+and a new complaint. We submit that Article III's definition of 
+“case” must be understood at least in part in terms of the common 
+understanding of the term “case” —that is, a discrete lawsuit begun 
+with a summons and complaint to resolve a circumscribed dispute. 
+Hillman supports this view. There, this Court based its conclusion 
+that the ancillary bill did not commence a new suit on the “fact 
+that process was not prayed or issued.” 296 U.S. at 239. What the 
+United States calls “notions of formal pleading” are actually 
+reflections of the natural meaning of the word “case.” 
+
+
+intent is relevant “to the scope and proper exercise of a 
+court’s ancillary jurisdiction.” U.S. Br. at 19. The Gov- 
+ernment, however, Se ee ee 
+implies that the federal courts should be commensurately 
+expansive in asserting ancillary jurisdiction over actions 
+purporting to collect ERISA judgments. 
+
+
+® For this reason, the distinction of Beecher suggested by amicus 
+AFL-Cl1lO—that Beecher is different because it involves pre-judgment 
+conduct only—plainly fails. See AFL-CIO Br. at 11-12 (suggesting 
+distinction and then admitting its meaninglessness). If anything, 
+the behavior in Beecher would be more amenable to ancillary 
+jurisdiction than the allegations here, because the conduct in 
+Beecher took place while the underlying matter was actually 
+before the court. 
+
+
+2° The United States also points to Empire Lighting Fizture Co. v. 
+Practical Lighting Fixture Co., 20 F.2d 295 (2d Cir. 1927) in at- 
+tempting to distinguish Beecher. The result in Empire Lighting, 
+and hence its distinction of Beecher, turns on a peculiarity of New 
+York law. As Empire Lighting explains, a fraudulent conveyance is 
+void under New York law, with the result that a suit to set it aside 
+is “not therefore essential,” and can therefore be regarded as “in 
+substance an equitable execution” against the debtor itself. 20 F.2d 
+at 296-97; see J.M. Resources Inc. v. Petro-Pak Resources, Ltd., 
+581 F. Supp. 629, 638 (D. Colo. 1984) (denying jurisdictior and 
+distinguishing Empire Lighting on grounds that it reads New 
+York law to regard the debtor as “still own[ing] the property”). 
+
+
+has accomplished all that it set out to do, and not that 
+rk Se action is an invitation to the 
+courts to try their own hands at further regulatic 
+Mertens, 113 S. Ct. at 2071; O'Melveny, 114 S. Ct. at 
+
+
+of parties,” the Court “will not read juri 
+
+
+ae See Pet. Br. at 42-43. Rather, the United 
+States appears to take the extraordinary position that it 
+is the district courts alone that have the role of setting 
+ON eS OS 68,0 AenEeeD tae US. Br. 
+at 18-1 
+That position is contrary to this Court's holdings in 
+applied limits. See, e.g., Valley Forge 
+Christian College v. Americans United for Separation of 
+Church & State, 454 U.S. 464, 474-75 (1982); see also 
+Local Loan, 292 U.S. at 241 (describing circumstances 
+nae Sp Seaee cee mm Cenes Costes aay 
+
+
+ceubbihk: Ghali Wak Goieh F Gen todansh tent w eB tam 
+eR Sn MR en those parties who are 
+liable,” Pet. A: 13a, and to reach their assets for satis 
+
+
+faction of ail udgments. See, e.g., AFL-CIO Br. 
+at 2; AARP Br. at 11 n.6, 1s (“it makes no difference 
+under what federal statute the judgment was adjudi- 
+cated”). These asset finding actions will invariably in- 
+parties but new theories of liability, 
+
+
+20 
+
+
+Zenith Corp., 395 U.S. at 111 (determination of alter 
+ego status requires new trial). 
+
+Furthermore, the volume of amici urging this Court 
+to approve of federal “asset-finding” jurisdiction is itself 
+sufficient to show that these matters would likely impose 
+a substantial burden on federal court dockets. “Asset- 
+finding” forays against third parties by federal judgment 
+creditors—in diversity as well as federal question cases, 
+for there is no principled basis for distinguishing among 
+types of federal judgments for purposes of ancillary juris- 
+diction—could rest on a wide variety of state law theories, 
+and they might easily be instituted years after the primary 
+action. Moreover, these cases would require the federal 
+courts to determine what notice, intervention, and dis- 
+tribution mechanisms to create in order to protect the 
+claims of other creditors to the same disputed assets. Sce, 
+e.g., Krippendorf, 110 U.S. at 281-86 (noting necessity 
+of allowing intervention by third party with asserted in- 
+terest in property). Federal court jurisdiction over such 
+actions is neither “necessary nor even particularly effi- 
+cient.” Kokkonen, 114 S. Ct. at 1676. 
+
+
+CONCLUSION 
+The judgment of the Fourth Circuit should be reversed. 
+Respectfully submitted, 
+CARTER G. PHILLIPS DAVID L. FREEMAN 
+RICHARD D. BERNSTEIN (Counsel of Record) 
+SIDLEY & AUSTIN J. THEODORE GENTRY 
+1722 I Street, N.W. WYCHE, BURGESS, FREEMAN 
+Washington, D.C. 20006 & PARHAM, P.A. 
+(202) 736-8000 Post Office Box 728 
+44 East Camperdown Way 
+Greenville, SC 29602 
+(808) 242-8200 
+Attorneys for Petitioner 
+
+
+October 6, 1995 D. Grant Peacock 
+
+

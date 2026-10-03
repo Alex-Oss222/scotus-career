@@ -1,0 +1,821 @@
+, sae 
+A Supreme Court of the United States ; 
+a OCTOBER TERM, 1995 
+i " : 
+e : 
+a D. GRANT PEACOCK, 
+i Petitioner, 
+ae v. 
+i Jack L. THoMas, ‘° 
+. Respondent. 7) 
+xe On Writ of Certiorari to the , 
+- ie United States Court of Appeals i 
+By for the Fourth Circuit 
+BRIEF OF THE AMERICAN FEDERATION OF LABOR 
+z AND CONGRESS OF INDUSTRIAL ORGANIZATIONS 
+AS AMICUS CURIAE IN SUPPORT OF RESPONDENT 
+VIRGINIA A. SEITZ 
+one 1000 Connecticut Avenue, N.W. 
+a Suite 1300 
+*' Washington, D.C. 20036 
+DAVID M. SILBERMAN 
+LAURENCE GOLD 
+(Counsel of Record) 
+815 16th Street, N.W. 
+Washington, D.C. 20006 
+(202) 637-5590 
+
+
+WILSON - Erase Printine Co., Inc. - 789-0096 - WaswineTon, D.C. 20001 
+
+
+® BPR. v0 
+
+
+“ BESTAVAILABLE COPY! 
+
+
+ad. 
+
+
+TABLE OF CONTENTS 
+
+
+TABLE OF AUTHORITIES ................--:cccecsceseecesseeees nell 
+
+
+SUMMARY OF ARGUMENT ................ semaanpiianmatiiniamadegién 
+
+
+ARGUMENT ... 
+
+
+CONCLUSION 
+
+
+Page 
+
+
+14 
+
+
+ii 
+TABLE OF AUTHORITIES 
+
+
+CASES Page 
+Argento v. Village of Melrose Park, 838 F.2d 1488 
+
+| AR hel nL Sa 12 
+Bank of the United States v. Halstead, 23 U.S. 51 
+
+CRIED osicsctcunssecenntdesonesibdllirthinientenenenitah’ Uti titaa ID sats 7 
+Dewey v. West Fairmont Gas Coal Co., 123 U.S. 
+
+GED CIGD eccctekcveciticstchleteeinnidens teddies 12, 13 
+Dugas v. American Surety, 300 U.S. 414 (1987)... 8 
+Finley v. United States, 490 U.S. 545 (1989) ........... 12 
+First National City Bank v. Banco Para El Comer- 
+
+cio Exterior de Cuba, 462 U.S. 611 (19838) .......... 5 
+G.M. Leasing Corp. v. United States, 429 U.S. 338 
+
+0, | EE REE PO OE 6 
+Gompers v. ‘Bucks Stove & Range Co., 221 U.S. 418 
+
+CTE cincocesicrsnntitidiitincnsigtislacesniaenieie ee a en 9 
+
+
+H.C. Cook Co. v. Beecher, 217 U.S. 497 (1910)... passim 
+Kokkonen v. Guardian Life Insurance Co. of 
+
+
+America, —— U.S. , 1148. Ct. 1673 (1994) ..2, 7, 11 
+Labette County Commissioners v. United States ex 
+rel. Moulton, 112 U.S. 217 (1884) ................... 2, 8,9, 10 
+Riggs v. Johnson County, 73 U.S. (6 Wall.) 166 
+COIIIED cinnsnssascindeiesssnastessataniaupedeamin sitet ena 6 
+Root v. Woolworth, 150 U.S. 401 (18938) ................ ® 
+Skevofilaz v. Quigley, 810 F.2d 378 (3rd Cir. 1987), 
+cert. denied, 481 U.S. 1029 ..... PERRIS NAS A TR 12 
+Southport Petroleum Co. v. NLRB, 315 U.S. 100 
+(a EI TERI e es HI RS ER SOG 6 
+United States v. Kimball Foods, Inc., 440 U.S. 715 
+)  , Saree Sper Re Se 13 
+Wayman v. Southard, 23 U. S. (10 Wheat.) 1 
+CIID ns iaicccisiedenrenccnsundlocsbctnenssaicibansibammipalialaaananana 2 
+STATUTES 
+Employee Retirement Income Security Act 
+(ERISA), 29 U.S.C. § 1001 et seq. —...00000 eee. passim 
+MISCELLANEOUS 
+W.M. Fletcher, Fletcher Cyclopedia of the Law of 
+Private Corporations (1990) ...... PPR, at A Ets 5 
+
+
+Wright, Miller & Cooper, Federal Practice and 
+PUCCIO COR GE, TOD ~ eccsccntstncicaindstncsssmndiinnds 6,7 
+
+
+In THE 
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+No. 94-1453 
+
+
+D. GRANT PEACOCK, 
+
+
+y Petitioner, 
+
+
+Jack L. THOMAS, 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+BRIEF OF THE AMERICAN FEDERATION OF LABOR 
+AND CONGRESS OF INDUSTRIAL ORGANIZATIONS 
+AS AMICUS CURIAE IN SUPPORT OF RESPONDENT 
+
+
+The American Federation of Labor and Congress of 
+Industrial Organizations (“AFL-CIO”), a federation of 
+79 national and international unions with a total mem- 
+bership of approximately 13,000,000 working men and 
+women, files this brief amicus curiae with the consent of 
+the parties, as provided for in the Rules of this Court. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+A. The threshold issue for decision is whether the dis- 
+trict court had jurisdiction to determine whether the judg- 
+ment against Tru-Tech, Inc. was enforceable against a 
+person not named in that judgment but alleged to be 
+the alter ego of the judgment debtor. The generic ques- 
+tion of jurisdiction to enforce a federal judgment against 
+
+
+2 
+
+
+a closely-related third party may arise in any of the fol- 
+lowing contexts: Where a judgment debtor secrets its 
+assets in the possession of such a third party; where a 
+judgment debtor fraudulently conveys ownership of its 
+assets to the third party in order to defeat a federal judg- 
+ment; and where, as here, following the entry of a federal 
+judgment, a third-party owner disregards the corporate 
+form of the judgment debtor and depletes the debtor’s 
+assets to frustrate satisfaction of the federal judgment. 
+In each of these situations, we submit, a federal court 
+that enters a judgment and that has jurisdiction over the 
+person of the third party also has ancillary jurisdiction to 
+enforce the federal judgment. 
+
+
+The governing principle is that “[t]he jurisdiction of a 
+court is not exhausted by the rendition of its judgment 
+but continues until that judgment shall be satisfied.” 
+Wayman v. Southard, 23 U.S. (10 Wheat.) 1, 23 (1825). 
+This principle has given rise to the doctrine of “ancillary 
+jurisdiction” which enables a federal court to “vindicate its 
+authority, and effectuate its decrees.” Kokkonen v. Guar- 
+dian Life Ins. Co. of America, U.S. ——, 114 S. Ct. 
+1673, 1676 (1994). And, this Court has established that, 
+“in aid of a jurisdiction previously acquired,” a federal 
+court has ancillary jurisdiction “over persons not parties 
+to the judgment sought to be enforced.” Labette County 
+Commissioners v. United States ex rel. Moulton, 112 U.S. 
+217, 219 (1884). Moreover, where as here, a federal 
+judgment debtor conspires with a third party to frustrate 
+the judgment, a federal court must have the power to act 
+in order to “vindicate its authority and effectuate its de- 
+crees.” Kokkonen, 114 S. Ct. at 1676. 
+
+
+‘This Court’s decision in H.C. Cook v. Beecher, 217 
+U.S. 497 (1910), is not to the contrary. That case in- 
+volved allegations that, prior to the entry of judgment, 
+corporate directors had managed the corporation in a 
+way that failed to take into account the pendency of the 
+lawsuit; it most emphatically did not involve conduct that 
+took place after the federal judgment was entered and 
+that was intended to avoid that judgment. 
+
+
+3 
+
+
+B. The only additional question is whether the courts 
+below correctly held that the judgment against Tru-Tech 
+could be enforced against Peacock. The court of appeals 
+held that “ERISA preempts any state law of veil piercing” 
+and provides the rule of decision in proceedings to en- 
+force an ERISA judgment against corporate officers or 
+directors based on post-judgment conduct. But the ap- 
+pellate court immediately acknowledged that “the federal 
+common law veil-piercing rule accords with our under- 
+standing of the South Carolina rule,” Pet. App. 22a-23a 
+n.16. This being so, there is no reason for this Court 
+to resolve the choice of law question that petitioner raises. 
+
+
+ARGUMENT 
+
+
+A. The decisions below—and the briefs of petitioner 
+and his amici in this Court—address a range of issues 
+under the Employee Retirement Income Security Act 
+(ERISA), 29 U.S.C. $1001 et seq., including issues 
+critical to deciding this case, others not necessary to the 
+decision of the case and still others not even raised by the 
+case. We therefore begin by defining what this case is— 
+and, equally important, is not—about. 
+
+
+At the threshold, this case does not raise any question 
+of substance as to the scope of the ERISA liability of 
+“fiduciaries,” as defined by the Act. Where an ERISA 
+fiduciary takes the corporate form (and especially the 
+form of a closely held corporation), questions can arise 
+as to the liability of an individual who controls the fidu- 
+Ciary corporation for the corporation's actions. But the 
+district court, in the original proceeding here, ruled that 
+only Tru-Tech, Inc., and not petitioner Grant Peacock, 
+was liable for violating ERISA. That judgment was af- 
+firmed on the first appeal, and that ruling forms the law 
+of this case. 
+
+
+The instant proceeding thus has a single cause and a 
+single focus: Grant Peacock’s conduct after Tru-Tech 
+had violated ERISA and after the entry of the ERISA 
+
+
+4 
+
+
+judgment against Tru-Tech. The district court found that 
+from the time of judgment in November, 1988, until the 
+dissolution of Tru-Tech in May, 1990, Peacock, as the 
+sole director of Tru-Tech, “directed the management of 
+Tru-Tech’s affairs to defeat the collection of the judgment 
+by siphoning off the assets of the corporation to certain 
+favored creditors owned or controlled by Peacock.” Pet. 
+App. 4la. The district court further found that “it was 
+the specific intent of Peacock to defraud the former em- 
+ployees of Tru-Tech who were beneficiaries of the Pen- 
+sion Plan and to defeat their legitimate attempt to collect 
+a lawful judgment.” /d. 42a. Based on these and other 
+findings, the district court ruled that the judgment could 
+be enforced against Peacock. /d. 
+
+
+The questions posed here therefore concern the scope of 
+a federal court’s authority to enforce its judgments against 
+persons not named in the judgment but who are closely 
+connected to the judgment debtor. Specifically, the ques- 
+tions posed are (i) whether the district court had juris- 
+diction to determine whether its judgment in the original 
+litigation was enforceable against Peacock; and (ii) if so, 
+whether that court correctly decided that the judgment 
+was so enforceable. It is to those questions that we now 
+turn. 
+
+
+B. In answering the threshold jurisdictional question, 
+it aids analysis, we believe, to consider three generic situ- 
+ations in which a federal court in enforcing its judgment 
+may be called on to exercise jurisdiction over claims 
+regarding persons who were not named in that judgment 
+but who nonetheless are linked to the judgment debtor. 
+
+
+The first class of cases is the one in which a judgment 
+debtor is alleged to have secreted the debtor’s assets by 
+transferring possession, but not ownership, of these 
+assets to a spouse, a child or a business entity controlled 
+by the judgment debtor or his family. In these cases, the 
+federal court may be called upon to bring the spouse, 
+child, or controlled business entity before it in order 
+
+
+5 
+
+
+to adjudicate whether the third party is in possession of 
+the debtor’s assets, and, if so, to compel the third party 
+to transfer the debtor’s assets to the judgment creditor 
+in order to satisfy the court’s judgment. 
+
+
+Second, there are cases in which a judgment debtor 
+is alleged not merely to have transferred possession of as- 
+sets of the debtor but to have fraudulently conveyed owner- 
+ship to a related third party (again, such as a family 
+member or a commonly controlled corporation) in order to 
+defeat the judgment of a federal court. In these cases, 
+the federal court may be called upon to bring the third 
+party before it in order to adjudicate the lawfulness of 
+the conveyance and, if fraudulent, to compel the third 
+party to transfer the assets to the judgment creditor to 
+satisfy the court’s judgment. 
+
+
+Third, and finally, are cases like the instant one in 
+which subsequent to the entry of a federal court judgment, 
+the controlling owner or officer of a corporate judgment 
+debtor is alleged to have disregarded the debtor’s corpo- 
+rate form and to have depleted the debtor’s assets to 
+frustrate the execution of the court’s judgment. In these 
+cases, the federal court may be called upon to bring 
+the third party before it to determine wh ther the third 
+party has become the alter ego of the judgment debtor 
+such that the court’s judgment can be enforced against 
+the third party (and all of that party’s assets, whether 
+Or not previously owned by the judgment debtor ).’ 
+
+
+'It is hornbook law that “when the corporation is the mere 
+alter ego, or business conduit of a person, it may be disregarded. 
+. The rationale behind the alter ego theory is that if the 
+charchelders themselves, or the corporations themselves, disregard 
+the legal separation, distinct properties, or proper formalities of 
+the different corporate enterprises, then the law will likewise 
+disregard them so far as is necessary to protect individual and 
+corporate creditors”. 1 W.M. Fletcher, Fletcher Cyclopedia of 
+the Law of Private Corporations, §41 (1990). See also First 
+National City Bank ». Banco Para El Comercio Exterior de Cuba, 
+462 U.S. 611, 629 (1983) (“where a corporate entity is so exten- 
+sively controlled by its owner that a relationship of principal and 
+
+
+6 
+
+
+In each of these situations, the federal court must, of 
+course, first acquire jurisdiction over the person before 
+the third party can be brought before the court.’ But 
+where that is accomplished through proper service of 
+process, the question then arises as to whether the 
+federal court has subject matter jurisdiction over the pro- 
+ceeding so as to enable the court to adjudicate the secre- 
+tion, fraudulent conveyance, or alter ego issues. 
+
+
+C. The principles that govern the answer to that ques- 
+tion were stated by Chief Justice Marshall 170 years ago 
+in Wayman v. Southard, 23 U.S. (10 Wheat.) 1, 23 
+(1825): 
+
+
+The jurisdiction of a court is not exhausted by the 
+rendition of its judgment but continues until that 
+judgment shall be satisfied. Many questions arise 
+on the process subsequent to the judgment in which 
+jurisdiction is to be exercised. . . . Were it even true 
+that jurisdiction could technically be said to termi- 
+nate with the judgment, an execution would be a 
+writ necessary for the perfection of that which was 
+previously done, and would, consequently, be neces- 
+sary to the beneficial exercise of jurisdiction. 
+
+
+The Court reaffirmed the teaching of Wayman in Riggs 
+v. Johnson County, 73 U.S. (6 Wall.) 166, 187 (1867)— 
+on which the court below principally relied—adding that: 
+
+
+agent is created, .. . one may be held liable for the actions of the 
+other”) (citing NLRB v. Deena Artware, Inc., 361 U.S. 398, 402-04 
+(1960) ). Accord G.M. Leasing Corp. v. United States, 429 U.S. 338, 
+345 (1977); Southport Petroleum Co. v. NLRB, 315 U.S. 100 
+(1942). 
+
+
+2 Grant Peacock denies that the federal district court in South 
+Carolina properly acquired jurisdiction over him. But that issue 
+was not addressed by the court of appeals and is not fairly encom- 
+passed in the questions presented by Peacock’s petition for cer- 
+tiorari. In any event, it is well established that a court with 
+personal jurisdiction over a corporation may also exert personal 
+jurisdiction over its alter egos when the latter seek to avoid a 
+federal judgment and to benefit themselves. See 4 Wright, Miller 
+& Kane, Federal Practice and Procedure § 1069 (Supp. 1984). 
+
+
+7 
+
+
+[T]he rule is universal, that if the power is conferred 
+to render the judgment or enter the decree, it also 
+includes the power to issue proper process to enforce 
+such judgment or decree. .. . Process subsequent to 
+judgment is as essential to jurisdiction as process 
+antecedent to judgment, else the judicial power would 
+be incomplete and entirely inadequate to the pur- 
+pose for which it was conferred by the Constitution.’ 
+
+
+These principles have given rise to what we now refer 
+to as the federal courts’ “ancillary jurisdiction.” Under 
+this rubric, as this Court siated just last Term, the Court 
+has “recognize[d] federal courts’ jurisdiction over some 
+matters (otherwise beyond their competence) that are in- 
+cidental to other matters properly before them.” Kok- 
+konen v. Guardian Life Ins. Co. of America, U.S. 
+, 114 S. Ct. 1673, 1676 (1994).* And, one of the 
+primary offices of ancillary jurisdiction, as Kokkonen 
+states, is “to enable a court to function successfully, that 
+is, to manage its proceedings, vindicate its authority, and 
+effectuate its decrees.” Id. at 1676 (emphasis added).° 
+
+
+A federal court’s ancillary jurisdiction to effectuate its 
+decrees extends not only to claims against parties to the 
+
+
+5 See also, e.g., Bank of the United States v. Halstead, 23 U.S. (10 
+Wheat.) 51, 53 (1825) (“The authority to carry into complete effect 
+the judgments of the Court, necessarily results, by implication, from 
+the power to ordain and establish such Courts. The suit does not 
+terminate with the judgment, and all proceedings on the execution 
+are proceedings in the suit’). 
+
+
+* See also 6 Wright, Miller & Cooper, Federal Practice and Pro- 
+cedure § 1444 (2d ed. 1990) (“Ancillary jurisdiction is “based on 
+the premise that a district court acquires jurisdiction over a case 
+or controversy in its entirety and, as incident tc the disposition 
+of a dispute that is properly before it, may exercise jurisdiction 
+to decide other matters raised by the case over which it would not 
+have jurisdiction were they independently presented”’) . 
+
+
+5In Kokkonen, the prior proceeding had been settled and as a 
+result of the settlement the district court had entered a judgment 
+of dismissal. This Court observed that: 
+
+
+{I)f the parties’ obligation to comply with the terms of the 
+settlement agreement had been made part of the order of 
+
+
+8 
+
+
+judgment but to third parties as well. That is the clear 
+teaching of Labette County Commissioners v. United 
+States ex rel. Moulton, 112 U.S. 217 (1884). 
+
+
+In Labette County, a plaintiff who had obtained a 
+federal court judgment against a Kansas township sought 
+to invoke the court’s ancillary jurisdiction to obtain a 
+weit of mandamus requiring the county in which the 
+township was located to levy taxes to satisfy the judg- 
+ment, as required by Kansas law. The County Commis- 
+sioners sought to avoid the enforcement of the federal 
+judgment as against them, stating that “because they 
+are not parties to the judgment against Oswego Township, 
+and are not officers of or representatives of that municipal 
+corporation, but are officers of the County of Layette, the 
+proceeding against them is the exercise of an original 
+jurisdiction, which does not belong to that court.” 112 
+U.S. at 219. 
+
+
+This Court rejected that argument. The Court explained 
+that while it “is quite true . . . that there is no original 
+jurisdiction in the circuit courts in mandamus,” it is 
+nonetheless appropriate for the federal court to issue a 
+writ “in aid of a jurisdiction previously acquired” and “as 
+the only means of executing their judgments.” 112 U.S. 
+at 220. And the Court specifically ruled that even though 
+“the jurisdiction in mandamus is ancillary,” that jurisdic- 
+tion can “be exercised over persons not parties to the 
+judgment sought to be enforced.” /d.* 
+
+
+dismissal—either by separate provisions (such as a provision 
+“retaining jurisdiction” over the settlement agreement) or by 
+incorporating the terms of the settlement agreement in the 
+order, ....a breach of the agreement would be a violation of 
+the order, and ancillary jurisdiction to enforce the agreement 
+would therefore exist. [Kokkonen, 114 S. Ct. at 1677. | 
+
+
+*Cf. Root v. Woolworth, 150 U.S. 401, 411 (1893) (a federal 
+court has ancillary jurisdiction to enforce a judgment on behalf 
+of a party in privity with a party to the judgmént); Dugas v. 
+American Surety, 300 U.S. 414, 428 (1987) (same). 
+
+
+9 
+
+
+Indeed, the rule could hardly be otherwise. A judg- 
+ment issued by a federal court is not idle words on a 
+piece of paper, but rather the manifestation of an official 
+governmental act intended to have the force and effect of 
+law. A judgment would be far less than that if the fed- 
+eral courts lack the authority to address and resolve is- 
+sues that arise when the party in whose favor the judg- 
+ment runs is unable to obtain the benefits of the judgment 
+and claims that the party against whom the judgment runs 
+has conspired with third parties to engage in conduct 
+designed to evade the operation of the judgment. “If a 
+party can make himself a judge of the validity of orders 
+which have been issued, and by his own act of disobedi- 
+ence set them aside, then are the courts impotent, and 
+what the Constitution fittingly calls ‘the judicial power of 
+the United States’ would be a mere mockery.” Gompers 
+v. Bucks Stove & Range Co., 221 U.S. 418, 450 (1911). 
+
+
+The instant case thus involves nothing more than a 
+run-of-the-mine application of a federal court’s ancillary 
+jurisdiction to “effectuate its decrees.” Indeed, the instant 
+case follows a fortiori from Labette County. There, an- 
+cillary jurisdiction was exercised over a claim against 
+third parties—the county commissioners—even though no 
+Suggestion was made that the commissioners had done 
+anything to frustrate the effectuation of the federal court’s 
+judgment. Here, in contrast, that is precisely what oc- 
+curred. As noted above, respondents here alleged—and 
+the district court found—that Grant Peacock, as Tru- 
+Tech’s sole director, acted to defeat the district court's 
+judgment by “siphoning off the assets of the corporation” 
+and transferring those assets to a corporation wholly- 
+owned by Peacock and to a trust Peacock established for 
+his wife. 
+
+
+Thus, ancillary jurisdiction is appropriate here not 
+merely “in aid of a jurisdiction previously acquired,” 
+Labette County, supra, but, moreover, to “vindicate [the 
+federal court’s] authority and effectuate its decrees,” 
+Kokkonen, supra. If the power to “vindicate its author- 
+
+
+10 
+
+
+ity” is to mean anything, it must encompass cases such as 
+this. 
+
+Labette County also disposes of Peacock’s contention 
+that due process concerns are implicated when a federal 
+court extends its ancillary enforcement jurisdiction to a 
+third party not named in the judgment. The county 
+commissioners in Labette County were strangers to the 
+judgment there, yet this Court had no difficulty in hold- 
+ing the claim against the commissioners to be within the 
+federal court’s ancillary jurisdiction. In Labette County 
+it was enough for the Court that the county commission- 
+ers were “the parties on whom the law has cast the duty 
+of providing for [the judgment’s] satisfaction.” 112 U.S. 
+at 220. 
+
+
+Here, the claim is that Peacock has such a legal duty 
+because he acted in such a way as to make himself the 
+alter ego of—and thus, legally inseparable from—the 
+party already before the court. If the exercise of ancillary 
+jurisdiction in Labette County is consistent with due 
+process, it again follows a fortiori that the exercise of 
+such jurisdiction is proper here. 
+
+D. Grant Peacock’s case thus reduces to the claim that 
+the decision below is contrary to H.C. Cook Co. v. Beecher, 
+217 U.S. 497 (1910), the precedent the court below 
+went to great pains to distinguish. Petitioner grossly 
+overreads Beecher. 
+
+
+1. In Beecher, a Connecticut corporation brought a 
+patent infringement suit in federal court against a second 
+Connecticut corporation, alleging that the defendant was 
+selling a product which infringed plaintiff's patent. The 
+plaintiff corporation, after prevailing, sought to collect 
+its judgment and found that the judgment exceeded the 
+assets of the defendant corporation. The plaintiff corpor- 
+ation then filed a second suit in federal court against the 
+directors of the defendant corporaticn, alleging that the 
+directors voted to continue sales during the first lawsuit, 
+and voted to expend funds to defend the lawsuit, knowing 
+
+
+11 
+
+
+that insolvency “would be the result of a judgment against 
+[their corporaion in the first suit], . . . for the purpose 
+of increasing the value of their stock in the company, 
+and of receiving the profits and dividends that might be 
+received from the sale.” 217 U.S. at 498. 
+
+
+In an opinion whose analysis is contained in just one 
+paragraph, this Court construed the suit against the direc- 
+tors as “an attempt to make the[m] answerable for the 
+judgment already obtained.” 217 U.S. at 498. The Court 
+then stated without further expiication that the case did not 
+fall within the federal court’s ancillary jurisdiction, con- 
+cluding: “If the directors are under obligations by Con- 
+necticut to pay a judgment against their corporation, that 
+is not a matter than can be litigated between citizens of 
+the same State in the Circuit Court of the United States.” 
+Id. 
+
+
+Whatever the reasoning underlying the Court’s conclu- 
+sion in Beecher—and the Court’s opinion provides no 
+further insight into that reasoning—at least this much is 
+clear: Beecher did not involve, and cannot be stretched 
+to govern, the federal court’s ancillary jurisdiction to 
+“effectuate its decrees.” Kokkonen, 114 S.Ct. at 1676. 
+
+
+There was no claim in Beecher that the directors had 
+done anything subsequent to the entry of judgment to 
+frustrate the enforcement of that judgment. Rather, the 
+sole claim in Beecher was that because the directors of 
+the corporation, prior to the entry of judgment, had man- 
+aged the corporation in a way that did not take into 
+account the pendency of the lawsuit (but that was not 
+otherwise fraudulent or unlawful) the directors had opened 
+themselves up to personal liability. 
+
+
+The question of whether there is federal court ancillary 
+jurisdiction over such pre-judgment conduct is a question 
+of substance. But it is not a question going to the ex- 
+istence of ancillary jurisdiction to effectuate decrees. 
+That head of jurisdiction is concerned with conduct that 
+takes place after a federal judgment is entered and that 
+amounts to an effort to avoid that judgment. 
+
+
+12 
+
+
+Beecher’s ruling that the claim against pre-judgment 
+conduct there was not cognizable in federal court thus has 
+nothing to say about the exercise of ancillary jurisdiction 
+in cases like the instant one, where post-judgment conduct 
+undermines the federal court’s authority and its judgment. 
+
+
+2. In drawing the distinction just noted, we do not 
+mean to suggest that there is no federal court ancillary 
+jurisdiction to adjudicate claims that, by virtue of pre- 
+judgment conduct, a third party shou!d be held liable for 
+the acts of a defendant wrongdoer. Indeed, this Court 
+upheld the exercise of ancillary jurisdiction in just such 
+a situation in Dewey v. West Fairmont Gas Coal Co., 
+123 U.S. 329 (1887). Dewey was a diversity case in 
+which the counterclaim plaintiff was permitted to implead 
+a third party—with respect to whom there was no diver- 
+sity of citizenship—where the counterclaim defendant was 
+alleged to have become insolvent by fraudulently convey- 
+ing assets to the third party. And, Dewey's exercise of 
+ancillary jurisdiction was cited with approval in Finley v. 
+United States, 490 U.S. 545, 551-52 n.4 (1989). 
+
+
+It is not at all clear whether, and if so how, Dewey and 
+Beecher can be harmonized so as to provide a coherent 
+basis for defining the scope of ancillary jurisdiction to 
+adjudicate claims that a third party’s pre-judgment con- 
+duct makes that party liable for the defendant’s wrongs. 
+It may well be that Beecher reaches the right result but 
+not on jurisdictional grounds.’ The claims against the 
+directors in Beecher rested on the extraordinary theory 
+that during a lawsuit against a corporation the directors 
+must act as trustees for the plaintiff or open themselves 
+up to personal liability. We know of no legal support for 
+that substantive theory and no basis why the claim should 
+not have been dismissed on the merits. 
+
+
+7Cf. Argento v. Village of Melrose Park, 838 F.2d 1483, 1488 
+(7th Cir. 1988) (questioning continuing vitality of Beecher) ; 
+Skevofilaz v. Quigley, 810 F.2d 378, 385 n.56 (3rd Cir. 1987) (en 
+banc), cert. denied, 481 U.S. 1029 (reinterpreting Beecher as a 
+statutory, rather than a jurisdictional, decision). 
+
+
+13 
+
+
+It is not necessary to decide that question here, how- 
+ever, because, as just explained—and as the court of 
+appeals concluded, see Pet. App. 15a—the conflict be- 
+tween Beecher and Dewey and the question raised by 
+those cases simply is not implicated here. For present 
+purposes, it is enough to conclude that whatever the rule 
+in the Beecher context, the federal courts ancillary juris- 
+diction plainly extends to claims that, subsequent to the 
+entry of a judgment, the judgment debtor and a closely- 
+related third party have colluded to frustrate the effectua- 
+tion of that judgment. . 
+
+
+E. The only remaining question is whether, on the 
+merits, the courts below properly held that the judgment 
+against Tru-Tech could be enforced against Grant Pea- 
+cock. That question turns on the application of hornbook 
+veil piercing principles to the facts of this case. As such, 
+the question ordinarily would not merit the attention of 
+this Court. Peacock therefore seeks to engage the Court’s 
+attention by focusing on a choice of law question ad- 
+dressed below. 
+
+
+The court of appeals did reason that because ERISA 
+governs the determination of “who is liable for breaches 
+of ERISA fiduciary duties, we believe that ERISA pre- 
+empts any state law of veil piercing” and states the rule 
+for determining when to pierce the corporate veil to en- 
+force an ERISA judgment against officers or directors 
+based upon their conduct subsequent to the entry of the 
+judgment. Pet. App. 20a-21a (emphasis in original). 
+
+
+But immediately after deciding to apply a “federal com- 
+mon law veil-piercing rule,” Pet. App. 21a—trather than 
+to incorporate a state law rule into federal law, see United 
+States v. Kimball Foods, Inc., 440 U.S. 715, 726 (1979) 
+—the court of appeals went on to conclude that the 
+“federal common law veil-piercing rule accords with our 
+understanding of the South Carolina rule,” Pet. App. 
+22a, n.16, viz. with the state-law rule that would be 
+incorporated into federal law if the federal common law 
+derived from ERISA were not controlling. 
+
+
+14 
+
+
+Since, under the decision below, the choice between 
+federal law and state law is immaterial to the outcome 
+here, this case provides a particularly inappropriate ve- 
+hicle for the Court to resolve the choice of law question 
+Peacock raises.” 
+
+
+That being so, we respectfully submit that the Court 
+either should dismiss the writ of certiorari with respect to 
+the second question raised here or, alternatively, should 
+uphold the determination below on the ground that regard- 
+less of whether federal common law or state law incor- 
+porated into federal law applies, it is proper to enforce 
+the judgment against Peacock. 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the judgment of the Court 
+of Appeals should be affirmed. 
+
+
+Respectfully submitted, 
+
+
+VIRGINIA A, SEITZ 
+
+1000 Connecticut Avenue, N.W. 
+~ Suite 1300 
+
+Washington, D.C. 20036 
+
+
+DAVID M. SILBERMAN 
+LAURENCE GOLD 
+(Counsel of Record) 
+815 16th Street, N.W. 
+Washington, D.C. 20006 
+(202) 637-5390 
+
+
+®* The Court also need not decide whether, as the court below 
+assumed, the veil-piercing rule used to determine when a judgment 
+may be enforced against a corporate owner is necessarily the same 
+as the rule for determining when the owner can be held liable for 
+the corporation’s wrong in the first instance since the only issue 
+raised here concerns veil-piercing to enforce a judgment. See 
+pp. 3-4, supra. 
+
+

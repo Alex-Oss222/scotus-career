@@ -1,0 +1,866 @@
+ec OS 8 ee reg 
+Supreme 
+
+
+| i 
+
+
+MAY 1 1995 
+No. 94-1453 
+—_—_—__———— fee THE cue | 
+IN THE 
+
+
+Supreme Court of the United States 
+OCTOBER TERM, 1994 
+
+
+D. GRANT PEACOCK, 
+
+
+- Petitioner, 
+
+
+JACK L. THOMAS, 
+Respondent. 
+
+
+On Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+RESPONDENT'S BRIEF IN OPPOSITION 
+
+
+J. KENDALL FEW 
+
+(Counsel of Record) 
+
+JOHN C, FEw 
+
+MARGARET A. CHAMBERLAIN 
+
+
+FEw & Few, P.A. 
+
+Post Office Box 10085 
+
+850 Wade Hampton Boulevard 
+Greenville, SC 29603 
+
+(803) 232-6456 
+
+
+JAMES R. GILREATH 
+
+Post Office Box 2147 
+
+110 Lavinia Avenue 
+
+Greenville, SC 29602 
+
+(803) 242-4727 
+
+Attorneys for Respondent 
+Jack L. Thomas 
+
+
+sss 
+a 
+
+
+WILSON - Epes PrintinG Co., Inc. - 789-0096 - WASHINGTON, D.C. 20001 
+
+
+1, 
+
+
+QUESTIONS PRESENTED FOR REVIEW 
+
+
+May a federal court assert ancillary jurisdiction over 
+a cause of action to pierce the corporate veil under 
+ERISA? 
+
+
+May a federal court apply the federal common law 
+veil-piercing rule in ERISA actions to enforce a 
+judgment? 
+
+
+(i) 
+
+
+— es Sm 
+
+
+TABLE OF CONTENTS 
+
+
+TABLES OF DUCES CINOTD cettcecnevintinceessnsenasenancisscnnnsiain 
+
+
+yyy de ht renee 
+
+
+SUMMARY OF ARGUMENT ......00.0.........ecceeeceeteeeeeees 
+
+
+REASONS FOR DENYING THE PETITION ............ 
+
+
+I. 
+
+
+Il. 
+
+
+III. 
+
+
+IV. 
+
+
+THE FOURTH CIRCUIT'S DECISION IS 
+NOT IN CONFLICT WITH THIS COURT'S 
+DECISIONS IN BEECHER OR KOKKONEN.. 
+
+
+THERE IS NO MEANINGFUL SPLIT IN 
+THE CIRCUITS CONCERNING FEDERAL 
+ANCILLARY JURISDICTION OVER AC- 
+TIONS TO PIERCE THE CORPORATE VEIL 
+IN ORDER TO COLLECT PRIOR JUDG- 
+MENTS UNDER ERISA ...............................00000-0- 
+
+
+IT WOULD BE PREMATURE FOR THIS 
+COURT TO ADDRESS THE ISSUE OF AN- 
+CILLARY JURISDICTION OVER AN AC- 
+TION TO PIERCE THE CORPORATE VEIL 
+IN ORDER TO COLLECT A PRIOR JUDG- 
+i EE rE 
+
+
+THE FOURTH CIRCUIT’S DECISION TO 
+APPLY FEDERAL CO™“MON LAW VEIL- 
+PIERCING STANDARDS IS NOT IN CON- 
+FLICT WITH THIS COURT’S DECISIONS 
+IN MERTENS OR MACKEY, NOR IS THERE 
+CONFUSION ABOUT VEIL-PIERCING UN- 
+DER ERISA IN THE CIRCUIT COURTS........ 
+
+
+CIS \etiieniteninsthhineesatieserinsninvccicenssintcviianiemmcctesneinnseesiene 
+
+
+(iii) 
+
+
+12 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases Page 
+Alman v. Danin, 801 F.2d 1 (1st Cir. 1986) .......... 4,12 
+Argento v. Village of Melrose Park, 838 F.2d 1483 
+
+I aS cD ee Silipos 3 
+Berry v. McLemore, 795 F.2d 452 (5th Cir. 
+
+ETS EN a oe ee Ce a Sa CS ae 7,8 
+Blackburn Truck Lines v. Francis, 723 F.2d 730 
+
+a i 5 edie eedeniabieal 9 
+Connors v. P & M Coal Company, 801 F.2d 1373 
+
+a EE SO A ee 11 
+Fidelity & Casualty Co. v. Reserve Ins. Co., 596 
+
+ST I eines 7 
+H. C. Cook Co. v. Beecher, 217 U.S. 497, 30 S. Ct. 
+
+SEE, WII; scdeacolinditsabecitbsshdiediecssiandscnthedeslasniemecstana 3, 4, 5, 7,8 
+
+
+International Brotherhood of Painters and Allied 
+Trades Union v. Kracher, 856 F.2d 1546 (D.C. 
+
+
+ea I I EE es SD ES 11 
+Kokkonen v. Guardian Life Insurance Co., 114 
+
+I a 4,6,7 
+Mackey v. Lanier Collection Agency & Service, 486 
+
+U.S. 825, 108 S. Ct. 2182 (1988) .......0000..... 3,5, 10, 11 
+Manway Constr. Co. v. Housing Auth. Of the City 
+
+of Hartford, 711 F.2d 501 (2d Cir. 1983) .......... 9 
+Mertens v. Hewitt Associates, 113 S. Ct. 2063 
+
+ETERS SESE Robey 2 oc Ce 4,10 
+National Westminster Bank U.S.A. v. Cheng, 751 
+
+F. Supp. 1158 (S.D.N.Y. 1990) —..........0000000000...... 7,8,9 
+Operating Engineers Pension Trust v. Reed, 726 
+
+a. GU ene 11,12 
+Redding Ford v. California State Bd. Of Equaliza- 
+
+tion, 722 F.2d 496 (9th Cir. 1983) 2.00000... 7 
+Sandlin v. Corporate Interiors, Inc., 972 F.2d 1212 
+
+EEE SE eS RS 7,8 
+
+
+Sederquist v. Court, 861 F.2d 554 (9th Cir. 1988). 7 
+Skevofilar v. Quigley, 810 F.2d 378 (3d Cir. 1987) 
+
+(en banc), cert. denied, 481 U.S. 1029, 107 S. Ct. 
+
+I I a 3 
+Thomas v. Peacock, 39 F.3d 493 (4th Cir. 1994) ..2, 3, 4,6 
+Thomas v. Tru-Tech, Inc., 900 F.2d 256 (4th Cir. 
+
+1990) .... iicantdaneiaieanddiabibinbineinadabesiandaleimemnasinaiastieasss 2 
+
+
+2 ES Se 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Statutes 
+
+
+Page 
+
+Thomas v. Tru-Tech, Inc., No. 87-2243-3, 1988 U.S. 
+
+Dist. LEXIS 15929, 1988 WL 212511 (D.S.C. 
+REIS AT Slr RES a 1 
+
+Town of Brookline v. Gorsuch, 667 F.2d 215 (1st 
+A a RE Se RS ee an an Ee 4 
+ed 4,9, 10,12 
+Se Metts Oe EID CED Cie COD cececeeeceveveccccecssccsecccoes 3 
+i ssseotiintineiipbbamoinonenae 1 
+
+
+IN THE 
+Supreme Court of ihe United States 
+
+
+OCTOBER TERM, 1994 
+
+
+No. 94-1453 
+
+
+D. GRANT PEACOCK, 
+Petitioner, 
+We 
+
+
+JACK L. THOMAS, 
+Respondent. 
+
+
+On Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+RESPONDENT'S BRIEF IN OPPOSITION 
+
+
+STATEMENT OF THE CASE 
+
+
+This is a lawsuit brought by the Respondent, Jack L. 
+Thomas (“Thomas”) to pierce Tru-Tech, Inc.’s corporate 
+veil in order to reach the Petitioner, D. Grant Peacock 
+(“Peacock”), an officer and shareholder of Tru-Tech. 
+
+
+Thomas, a former employee of Tru-Tech, originally 
+brought a class action suit against Tru-Tech and Peacock 
+under the Employee Retirement Income Security Act of 
+1974 (ERISA), 29 U.S.C. § 1001, et seg. The district 
+court ruled in favor of the plaintiff class as against Tru- 
+Tech but held Peacock was not liable as a plan fiduciary. 
+Thomas v. Tru-Tech, Inc., No. 87-2243-3, 1988 U.S. 
+Dist. LEXIS 15929, 1988 WL 212511 (D.S.C. Nov. 28, 
+1988). The United States Court of Appeals for the 
+
+
+2 
+
+
+Fourth Circuit affirmed the district court’s opinion. 
+Thomas v. Tru-Tech, Inc., 900 F.2d 256 (4th Cir. 1990) 
+(unpublished disposition; full text at 1990 WL 48865). 
+Thomas then commenced this current litigation against 
+Peacock individually, seeking to pierce Tru-Tech’s cor- 
+porate veil. 
+
+
+Thomas sued Peacock individually because Peacock and 
+his attorney, Alan H. Finegold, schemed to siphon off 
+Tru-Tech’s assets in order to prevent the collection of 
+the judgment against Tru-Tech. Money was transferred 
+from Tru-Tech to Peacock’s wife, to Peacock’s lawyer 
+and to Peacock’s business, Peacock, Williams & Company 
+(“P,W & C”). At a Tru-Tech Board meeting held on 
+March 6, 1989, Peacock agreed to pay $130,000 of 
+Tru-Tech funds to P,W & C. Although Peacock claimed 
+that this transfer was to repay P,W & C for money paid 
+to Tru-Tech’s president to manage Tru-Tech’s affairs, the 
+district court noted that the evidence showed that P,W & C 
+had previously written off that debt. On July 1, 1989, 
+the Tru-Tech Board of Directors, of which Peacock 
+was by then the sole member, approved a transfer of 
+$47,000 to P.W & C. In February of 1990, Peacock 
+officially resigned as a Director of Tru-Tech, but he con- 
+tinued to sign checks drawn on Tru-Tech’s bank accounts 
+for months to come. Based on transfers of funds such 
+as the ones described, the district court found that Pea- 
+cock failed to observe the corporate form and depleted 
+Tru-Tech’s assets in order to avoid collection of the 
+Thomas judgment and in order to enrich himself. The 
+district court ruled that it was proper for Thomas to 
+pierce Tru-Tech’s corporate veil in order to reach Pea- 
+cock. Peacock appealed to the Fourth Circuit which 
+affirmed the district court’s decision. Thomas v. Peacock, 
+39 F.3d 493 (4th Cir. 1994). 
+
+
+In a unanimous opinion written by Judge Donald 
+Russell and joined by Judge Widener and Senior Judge 
+Chapman, the Fourth Circuit held that the federal court 
+had subject matter jurisdiction over the case because it 
+
+
+3 
+
+
+arose under ERISA. Furthermore, the Court ruled that 
+the district court did not err by applying a federal com- 
+mon law standard for piercing the corporate veil. 
+
+
+The Fourth Circuit reasoned that the equitable doctrine 
+of piercing the corporate veil was “necessarily subsidiary 
+to some primary cause of action,. ... Thus, ... nota 
+mere procedural rule relating to ‘how’ a judgment is to 
+be enforced, but is, rather, a substantive rule of liability.” 
+39 F.3d at 500. The court took great pains to ensure 
+that its ruling was in compliance with H. C. Cook Co. v. 
+Beecher, 217 U.S. 497, 30 S. Ct. 601 (1910). Thomas’ 
+effort to pierce the corporate veil was not found to be 
+independent of his prior litigation and, thus, not in conflict 
+with Beecher. 39 F.3d at 501. Some circuits have based 
+federal ancillary jurisdiction in veil-piercing actions on 
+the proposition that this Court’s decision in Beecher may 
+lack continuing vitality. Argento v. Village of Melrose 
+Park, 838 F.2d 1483 (7th Cir. 1988); Skevofilax v. 
+Quigley, 810 F.2d 378 (3d Cir. 1987) (en banc), cert. 
+denied, 481 U.S. 1029, 107 S. Ct. 1956 (1987). The 
+Fourth Circuit, by contrast, did not challenge Beecher 
+but simply distinguished it on its facts. Whereas Thomas 
+alleges that Peacock wrongfully ignored corporate for- 
+malities and improperly transferred funds in an effort to 
+evade the judgment against Tru-Tech, Beecher involved 
+a suit to enforce a judgment against officers of a corpora- 
+tion who were acting within their legal capacity. 39 F.3d 
+at 501. 
+
+
+After establishing that jurisdiction was proper in federal 
+court, the Fourth Circuit then ruled that applying the 
+federal common law rule for piercing the corporate veil 
+was appropriate in ERISA cases. While recognizing that 
+Mackey v. Lanier Collection Agency & Service, 486 U.S. 
+825, 108 S. Ct. 2182 (1988), held that “ERISA does not 
+provide an enforcement mechanism for collecting judg- 
+ments won” in suits brought by plan beneficiaries, pursu- 
+ant to ERISA § 502(a)(1)(B), (d), 29 U.S.C. § 1132 
+(a)(1)(B), (d), against ERISA benefit plans, the Fourth 
+
+
+4 
+
+
+Circuit noted that piercing the corporate veil is not 
+merely a mechanism for collecting a judgment. 39 
+F.3d at 503. Because Thomas seeks to pierce the cor- 
+porate veil to determine who is liable under ERISA, the 
+court held that ERISA preempts state law rules of veil- 
+piercing. /d. Therefore, the federal common law rule 
+of veil-piercing must apply in ERISA actions. The Fourth 
+Circuit adopted the rule articulated by the First Circuit 
+in Alman v. Danin, 801 F.2d 1 (1st Cir. 1986),’ finding 
+its reasoning persuasive and in accordance with the veil- 
+piercing rules followed in other circuits. 39 F.3d at 503. 
+
+
+For these reasons, the Fourth Circuit found that the 
+district court had properly asserted ancillary jurisdiction 
+and had properly applied the federal common law veil- 
+piercing standard when piercing the corporate veil under 
+ERISA. 
+
+SUMMARY OF ARGUMENT 
+
+
+First, the Fourth Circuit’s decision is in keeping with 
+this Court’s decisions in Beecher and Kokkonen vy. 
+Guardian Life Insurance Co., 114 S. Ct. 1673 (1994), 
+over the scope of federal ancillary jurisdiction. In addi- 
+tion, there is no split among the circuits as to the very 
+narrow question of ancillary jurisdiction over an action 
+to pierce the corporate veil in order to collect a judge- 
+ment in an ERISA case. Simply put, it would be pre- 
+mature for this Court to grant Peacock’s petition because 
+so few courts have addressed this narrow issue. Nor has 
+the impact of 28 U.S.C. § 1367 been felt on this issue. 
+So even if this Court disagrees and finds a split among 
+the circuits, that split may disappear once courts have 
+an opportunity to apply and interpret § 1367. 
+
+
+Second, the Fourth Circuit’s decision is not contrary to 
+this Court’s decisions in Mertens v. Hewitt Associates, 113 
+
+
+'In Alman, the First Circuit reasoned that because ERISA does 
+not attach great weight to corporate form, the “corporate entity 
+may be disregarded in the interests of public convenience, fairness 
+and equity.” 801 F.2d at 3 (quoting Town of Brookline v. Gorsuch, 
+667 F.2d 215, 221 (1st Cir. 1981) ). 
+
+
+5 
+
+
+S. Ct. 2063 (1993) or Mackey. The equitable doctrine 
+of piercing the corporate veil is a substantive rule of 
+liability, not a mere collection action. Furthermore, there 
+is no confusion among the circuit courts as to piercing 
+the corporate veil in ERISA cases. The petitioner sees 
+confusion and discord where none exists. The Court 
+should deny the petition for a Writ of Certiorari. 
+
+
+REASONS FOR DENYING THE PETITION 
+
+
+I. THE FOURTH CIRCUIT’S DECISION IS NOT IN 
+CONFLICT WITH THIS COURT’S DECISIONS IN 
+BEECHER OR KOKKONEN. 
+
+
+The Fourth Circuit found that it had ancillary juris- 
+diction over Thomas’ attempt to pierce the corporate veil. 
+This decision is not in conflict with Beecher. In Beecher, 
+a corporate patent holder brought a patent infringement 
+action in federal court. While the suit was pending, the 
+directors of the defendant corporation voted to continue 
+sales despite allegations in the lawsuit that the sales were 
+in violation of the. plaintiff's patent. Although winning 
+the patent infringement case, plaintiff was unable to col- 
+lect from the defendant corporation because it had be- 
+come insolvent. Plaintiff then filed another lawsuit in 
+federal court against the directors of the defendant cor- 
+poration, alleging that the defendant directors had voted 
+to continue sales with the purpose of rendering the com- 
+pany insolvent in the event that the plaintiff was success- 
+ful in its patent infringement suit. The Court found that 
+the plaintiff was attempting “to make the defendants 
+answerable for the judgment already obtained,” 217 U:S. 
+at 498, 30 S. Ct. at 601-02, and held that the case did not 
+fall within the federal court’s ancillary jurisdiction. Jd. 
+at 499, 30 S. Ct. at 602. 
+
+
+Beecher is distinguishable from the case before this 
+Court. Beecher dealt with litigation that was truly in- 
+dependent from the prior litigation. Thomas’ effort to 
+pierce the corporate veil is not independent of his prior 
+
+
+6 
+
+
+litigation. As the Fourth Circuit noted, “an attempt to 
+pierce the corporate veil is necessarily subsidiary to some 
+primary cause of action.” 39 F.3d at 500. By its very 
+nature, an attempt to pierce the corporate veil cannot be 
+independent of the primary cause of action. 
+
+
+Nor is the Fourth Circuit’s decision in conflict with 
+Kokkonen. As Peacock himself concedes, Kokkonen is 
+not controlling. Kokkonen addresses the federal court's 
+jurisdiction to enforce a settlement agreement from a 
+prior federal case. The litigation over the settlement 
+agreement was for breach of a contract and was purely 
+independent from the prior federal case. In Kokkonen, 
+the Court noted that 
+
+
+Generally speaking we have asserted ancillary juris- 
+diction (in the very broad sense in which that term 
+is sometimes used) for two separate, though some- 
+times related, purposes: (1) to permit disposition by 
+a single court of claims that are, in varying respects 
+and degrees, factually interdependent; and (2) to 
+enable a court to function successfully that is, to 
+manage its proceedings, vindicate its authority, and 
+effectuate its decrees. 
+
+
+114 S. Ct. at 1676 (citations omitted). As to the first pur- 
+pose enunciated by Kokkonen, by its very nature an at- 
+tempt to pierce the corporate veil is factually dependent 
+upon the earlier claims under ERISA. As to the second 
+purpose for ancillary jurisdiction, by attempting to pierce 
+the corporate veil, Thomas is clearly asking the federal 
+court to effectuate its decree in the earlier action. This 
+is the type of situation envisioned by the Court in Kok- 
+konen as warranting the exercise of ancillary jurisdiction: 
+
+
+“The situation would be quite different if the parties’ 
+obligation to comply with the terms of the settlement 
+agreement had been made part of the order of dis- 
+missal—either by separate provision (such as a pro- 
+vision ‘retaining jurisdiction’ over the settlement 
+agreement) or by incorporating the terms of the set- 
+tlement agreement in the order. In that event, a 
+
+
+— TT ew - 
+
+
+<= 
+
+
+7 
+
+
+breach of the agreement would be a violation of the 
+order, and ancillary jurisdiction to enforce the agree- 
+ment would therefore exist.” 
+
+
+Id. at 1677. That is close to the situation presented 
+here. The district court found that Peacock failed to 
+observe the corporate form and deliberately siphoned off 
+Tru-Tech’s assets with the specific intent and purpose of 
+defeating the collection of the judgment against Tru-Fech. 
+Clearly, the federal courts may exercise jurisdiction over 
+an action to pierce the corporate veil in order to hold 
+liable one who has been actively and purposefully at- 
+tempting to defeat a legitimate effort to collect a lawful 
+judgment. To conclude otherwise would cast into doubt 
+
+
+a court's ability to vindicate its authority and to effectu- 
+ate its decrees. 
+
+
+Il. THERE IS NO MEANINGFUL SPLIT IN THE CIR- 
+CUITS CONCERNING FEDERAL ANCILLARY 
+JURISDICTION OVER ACTIONS TO PIERCE THE 
+CORPORATE VEIL IN ORDER TO COLLECT 
+PRIOR JUDGMENTS UNDER ERISA. 
+
+
+Peacock cites Sandlin v. Corporate Interiors, Inc., 972 
+F.2d 1212 (10th Cir. 1992), Sederquist v. Court, 861 
+F.2d 554 (9th Cir. 1988), Berry v. McLemore, 795 F.2d 
+452 (Sth Cir. 1986), Redding Ford v. California State 
+Bd. Of Equalization, 722 F.2d 496 (9th Cir. 1983). 
+Fidelity & Casualty Co. v. Reserve Ins. Co., 596 F.2d 
+914 (9th Cir. 1979), and National Westminster Bank 
+U.S.A. v. Cheng, 751 F. Supp. 1158 (S.D.N.Y. 1990) 
+as cases demonstrating a split in the circuits. The facts 
+of these cases are distinguishable from the facts currently 
+before the Court. Not one of those cases deals with an 
+effort to pierce the corporate veil under ERISA. 
+
+
+Sandlin actually supports the Fourth Circuit’s decision 
+to find ancillary jurisdiction. Although the Tenth Circuit 
+found no adequate basis for ancillary jurisdiction when it 
+applied the Beecher standard to the facts before it. the 
+court noted that ancillary jurisdiction may well be found 
+
+
+8 
+
+
+if the alter ego claims were more closely connected to the 
+underlying claim. Furthermore, the court indicated that 
+ancillary jurisdiction may be based upon a successor 
+theory if the plaintiff could allege “post-judgment trans- 
+fers of property.” 972 F.2d at 1217 (citations omitted ). 
+The facts that the Tenth Circuit foresaw as being able 
+to provide ancillary jurisdiction exist in this case. 
+Thomas’ allegations that Peacock was the alter ego for 
+Tru-Tech are irreversibly bound to the merits of the 
+initial litigation and involve post-judgment transfers of 
+property in an effort to defeat collection of the initial 
+
+
+judgment. 
+
+
+Nor can it be said that Berry is in direct conflict with 
+the Fourth Circuit’s decision. Berry involves a garnish- 
+ment action brought against the alleged indemnitors of a 
+judgment debtor. The sole connection between the alleged 
+indemnitors and the initial litigation was an indemnity 
+contract with the defendants in the initial case. The al- 
+leged indemnitors played no role in the initial litigation. 
+Such cannot be said about Peacock and the initial litiga- 
+tion brought by Thomas. 
+
+
+Peacock argues that the Second Circuit should also be 
+counted among the circuits in direct conflict with the 
+Fourth Circuit’s ruling. He reaches this conclusion on 
+the basis. not of a case decided by the Second Circuit, 
+but on a case decided by the district court in the South- 
+ern District of New York. National Westminster Bank, 
+like the case before this Court, involves an effort to pierce 
+the corporate veil in order to collect a judgment. The 
+district court found no nexus between the original litiga- 
+tion and a subsequent veil-piercing action, and, therefore, 
+found no ancillary jurisdiction. Even if this decision is 
+at odds with the decision rendered by the Fourth Circuit, 
+it is unreasonable to suggest that, on the basis of this one 
+decision from a district court, the Second Circuit is 
+at odds with the Fourth Circuit. Peacock indicates that 
+the decision in National Westminster Bank, standing 
+alone, is indicative of the Second Circuit’s position be- 
+
+
+9 
+
+
+cause the principle relied upon by the district court was 
+derived from the Second Circuit’s opinion in Manway 
+Constr. Co. v. Housing Auth. Of the City of Hartford, 
+711 F.2d 501 (2d Cir. 1983). As Peacock notes, how- 
+ever, Manway involves totally different facts from this 
+case. National Westminster Bank simply cannot predict 
+the position the Second Circuit will take when presented 
+with a veil-piercing action under ERISA to collect a 
+prior judgment. 
+
+
+Likewise, it is ludicrous to suggest that the Fourth 
+Circuit is at odds with the Ninth Circuit on this issue 
+considering that the Ninth Circuit held in Blackburn 
+Truck Lines v. Francis, 723 F.2d 730 (9th Cir. 1984), 
+that the federal court had jurisdiction over a suit brought 
+to pierce the corporate veil in order to reach the owners 
+of ae corporations in order to collect a prior judg- 
+ment. 
+
+
+Il. IT WOULD BE PREMATURE FOR THIS COURT 
+TO ADDRESS THE ISSUE OF ANCILLARY JURIS- 
+DICTION OVER AN ACTION TO PIERCE THE 
+CORPORATE VEIL IN ORDER TO COLLECT A 
+PRIOR JUDGMENT UNDER ERISA. 
+
+
+Granting Peacock’s petition would be premature. First 
+of all, there simply have been too few cases decided 
+which address this issue. In his efforts to demonstrate a 
+split in the circuits, Peacock has cited cases which are 
+not close enough factually to warrant comparison. This 
+is not merely a case to collect a judgment; it is an action 
+to pierce the corporate veil to collect a judgment in an 
+ERISA action. Opinions which examine the issue of 
+ancillary jurisdiction in litigation brought to collect prior 
+judgments, but not involving attempts to pierce the cor- 
+porate veil under ERISA, simply do not address the 
+narrow issue in this case. 
+
+
+Furthermore, few courts have had an opportunity to 
+address this issue since 28 U.S.C. § 1367, the statute 
+
+
+10 
+
+
+codifying ancillary and pendent jurisdiction, went into 
+effect on December 1, 1990. Even if this Court were to 
+determine that a significant split in the circuits exists on 
+the issue of ancillary jurisdiction, there is no way of 
+knowing at this time whether the split would remain once 
+courts have had an opportunity to apply § 1367. This 
+new statute may well result in greater uniformity in the 
+circuits for all issues dealing with what used to be known 
+as pendent and ancillary jurisdiction. Until more appel- 
+late courts are confronted with actions to pierce the cor- 
+porate veil in order to collect a judgment in an ERISA 
+action and until more courts have had an opportunity to 
+apply and interpret 28 U.S.C. § 1367, the issue presented 
+to this Court is simply not ripe for consideration. It 
+would be premature for this Court to grant Peacock’s 
+
+
+petition. 
+
+
+IV. THE FOURTH CIRCUITS DECISION TO APPLY 
+FEDERAL COMMON LAW _ VEIL-PIERCING 
+STANDARDS IS NOT IN CONFLICT WITH THIS 
+COURT’S DECISIONS IN MERTENS OR MACKEY, 
+NOR IS THERE CONFUSION ABOUT VEIL- 
+PIERCING UNDER ERISA IN THE CIRCUIT 
+COURTS. 
+
+
+In Mertens, the Court held that ERISA does not pro- 
+vide for actions seeking monetary damages against non- 
+fiduciaries. The Fourth Circuit’s decision does not con- 
+flict with this holding. Thomas is not engaging in an 
+independent action for monetary damages; he is engaging 
+in an equitable action to satisfy a prior judgment. Fur- 
+thermore, as discussed above, the veil-piercing action is 
+dependent upon the prior litigation. It is not an inde- 
+pendent action at all. 
+
+
+Nor does the Fourth Circuit’s decision conflict with 
+Mackey. Peacock relies heavily upon the statement in 
+Mackey that “ERISA does not provide an enforcement 
+mechanism for collecting judgments won” in actions 
+brought against plans by proported beneficiaries or in 
+
+
+1] 
+
+
+actions brought by general creditors of the plan. 486 
+U.S. at 833, 108 S. Ct. at 2187. As the Fourth Circuit 
+noted, however, Peacock’s reliance upon this statement is 
+misplaced. Mackey does not preclude the application of 
+4 federal common law veil-piercing rule in ERISA ac- 
+tions. An attempt to pierce the corporate veil is not a 
+mere enforcement mechanism for collection of a judg- 
+ment. Thomas’ action seeks to apply the general pur- 
+poses and principles of ERISA to pierce Tru-Tech’s cor- 
+porate veil in order to hold Peacock liable for the actions 
+of his alter ego. The fact that this case is not a mere 
+collection action is brought home by the realization that 
+a collection action under state law may yet have to be 
+brought against Peacock to collect the judgment against 
+him if the Fourth Circuit’s decision stands. 
+
+
+Finally, Peacock argues that there is a “broad and 
+continuing confusion” over piercing the corporate veil in 
+ERISA actions. There is no such confusion. The courts 
+are in consensus that it is proper to pierce the corporate 
+veil to enforce a judgment when there is evidence of 
+wrongdoing and a failure to observe the corporate form. 
+The cases Peacock cites demonstrate this. In /nternational 
+Brotherhood of Painters and Allied Trades Union y. 
+Kracher, 856 F.2d 1546 (D.C. Cir. 1988), the court 
+concluded its opinion by emphatically stating: “[{w]e 
+Stress again that this case involves no claim of alter ego 
+or conduct that might result in the necessity to pierce the 
+corporate veil.” Jd. at 1550, n.28. In Connors v. P & M 
+Coal Co., 801 F.2d 1373 (D.C. Cir. 1986), the court 
+noted that in general “shareholders and officers may be 
+held personally liable for their corporations’ obligations 
+under ERISA if they have acted as the alter egos of their 
+corporations or otherwise met the requirements that 
+justify piercing the corporate veil under traditional com- 
+mon law principles.” /d. at 1378. In Operating Engi- 
+neers Pension Trust v. Reed, 726 F.2d 513 (9th Cir. 
+1984), the court recognized that an individual should be 
+held personally liable for trust fund obligations of a 
+
+
+12 
+
+
+corporation controlled by that individual only if there has 
+been a failure to observe the proper corporate form, and 
+there is fraud involved. /d. at 515. Clearly these cases 
+are not in conflict with the Fourth Circuit’s decision. 
+Courts are not reluctant to pierce the corporate veil when 
+they are confronted with fraud and injustice. See Alman, 
+801 F.2d 1 (1st Cir. 1986). 
+
+
+CONCLUSION 
+
+
+Review by this Court of the Fourth Circuit’s decision 
+would be unwarranted and premature. There currently 
+exists no significant conflict between the Fourth Circuit’s 
+decision and the decisions of this Court and other cir- 
+cuits. Furthermore, the impact of 28 U.S.C. § 1367 has 
+yet to be felt on the issues presented by this case. 
+
+
+Respectfully submitted, 
+
+
+J. KENDALL FEw 
+
+(Counsel of Record) 
+
+JOHN C,. FEw 
+
+MARGARET A. CHAMBERLAIN 
+
+
+Few & Few, P.A. 
+
+Post Office Box 10085 
+
+850 Wade Hampton Boulevard 
+Greenville, SC 29603 
+
+(803) 232-6456 
+
+
+JAMES R. GILREATH 
+
+Post Office Box 2147 
+
+110 Lavinia Avenue 
+
+Greenville, SC 29602 
+
+(803) 242-4727 
+
+Attorneys for Respondent 
+Jack L. Thomas 
+
+
+May 1, 1995 
+
+
