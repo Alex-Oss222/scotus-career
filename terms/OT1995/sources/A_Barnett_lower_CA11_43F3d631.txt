@@ -1,0 +1,139 @@
+BARNETT BANK OF MARION COUNTY, N.A., a national banking association, Plaintiff-Counter-Defendant, Appellant, Cross-Appellee, v. Tom GALLAGHER, Insurance Commission of the State of Florida, Fla. Dept. Insurance, a state agency, Defendants-Appellees, Cross-Appellant, Florida Association of Life Underwriters, Professional Insurance Agents of Florida, Inc., Florida Associations of Insurance Agents, Defendants-Counter-Claimant, Appellees-Cross-Appellants.
+
+No. 93-3508.
+
+United States Court of Appeals, Eleventh Circuit.
+
+Jan. 30, 1995.
+
+      *632David M. Wells, Peter E. Nicandri, Jacksonville, FL, for appellant.
+
+David J. Busch, Tallahassee, FL, Scott A. Sinder, Ann M. Kappler, Arti K. Rai, Washington, DC, J. Robert McClure, Jr., F. Townsend Hawkes, Tallahassee, FL, for appellee.
+
+Virginia B. Townes, Akerman, Senterfitt & Eidson, P.A., Orlando, FL, Anthony J. Stein-meyer, Jacob M. Lewis, U.S. Dept, of Justice, Civ. Div., Appellate Staff, Washington, DC, Daniel Y. Sumner, Florida Dept, of Ins., Tallahassee, FL, for amicus, Florida Bankers Ass’n.
+
+Before COX, Circuit Judge, FAY, Senior Circuit Judge, and CARNES *, District Judge.
+
+      *
+
+ Honorable Julie E. Carnes, U.S. District Judge for the Northern District of Georgia, sitting by designation.
+
+FAY, Senior Circuit Judge:
+
+This appeal arises from a final order following a bench trial on the merits of plaintiff Barnett Bank of Marion County’s (“Barnett Marion”) suit for permanent injunctive and declaratory relief against Florida Insurance Commissioner Tom Gallagher and the Florida Department of Insurance. The Florida Association of Life Underwriters, Professional Insurance Agents of Florida, Inc., and the Florida Associations of Insurance Agents intervened in the district court. Appellant Barnett Marion alleges the district court erred in concluding that Fla.Stat. ch. 626.988 regulates insurance, and in concluding that 12 U.S.C. § 92 (“section 92”) does not relate to insurance.1 We disagree, and AFFIRM the district court judgment.
+
+Appellee/Cross-Appellants Tom Gallagher and the Florida Department of Insurance allege the district court erred in holding section 92 permits national banks to sell insurance nationwide. Appellee/Cross-Appellants Florida Association of Life Underwriters, Professional Insurance Agents of Florida, Inc., and the Florida Associations of Insurance Agents allege the district court erred in finding that Appellant Barnett Marion was “located and doing business in a place with a population of less than 5000” pursuant to section 92. Based on our reading of the Federal and Florida statutes, we find it unnecessary to reach either of these issues.
+
+I. BACKGROUND
+
+Florida law precludes bank subsidiaries or bank holding company affiliates from conducting insurance activities in Florida. Fla. Stat. ch. 626.988 (1993). Federal law, however, allows national banks — despite their status as subsidiaries or affiliates — to act as insurance agents in localities with fewer than five thousand people. 12 U.S.C. § 92 (1988).
+
+Barnett Marion is a national-bank subsidiary of a bank holding company, Barnett Banks, Inc. Barnett Marion’s principal place of business is Ocala, Florida, but it maintains a branch office in Belleview, Florida. Belle-view’s population is fewer than five thousand, *633as shown by the last decennial census. Barnett purchased an insurance agency from Linda K. Clifford in Belleview. As a result, Ms. Clifford, a Florida licensed insurance agent, became an employee of Barnett Marion and maintained her office inside the bank.
+
+The day of the purchase, Barnett Marion sought a declaration allowing it to use this branch office to “market insurance to existing and potential customers regardless of where the insurance customers are located.” Barnett Marion argued that 12 U.S.C. § 92 preempted Fla.Stat. ch. 626.988, and asked the district court to find that:
+
+Barnett Bank and, specifically Barnett Bank Belleview, is authorized and empowered by federal law to act as an agent for any insurance company authorized by the State of Florida to do business in Florida.
+
+(Rl-1-7).
+
+Four days later, the Florida Department of Insurance (“Department”) issued an Immediate Final Order (“IFO”) directing Linda Clifford and her associate agents to cease insurance agency activities other than selling credit life and credit disability insurance. Barnett Marion moved for a temporary restraining order (“TRO”) and sought to enjoin the Department from acting on the IFO.
+
+The district court denied Barnett Marion’s motion for TRO and held a hearing on the motion for preliminary injunction. The court denied the motion for the preliminary injunction and set the case for trial.
+
+The issues before this court are as follow: First, whether Fla.Stat. eh. 626.988 regulates insurance. Second, whether 12 U.S.C. § 92 relates to insurance. Third, whether Barnett Marion is located and doing business in a place with fewer than five thousand people, and if so, whether the bank may sell insurance nationally or only within this small town. To answer these questions of law we must examine the history and purposes of these statutes.
+
+II. JURISDICTION
+
+Upon the Court’s request at oral argument, each side briefed the issue of whether the district court had subject matter jurisdiction to decide the case. Based on Lawrence County v. Lead-Deadwood, Sch. Dist., 469 U.S. 256, 259 n. 6, 105 S.Ct. 695, 697 n. 6, 83 L.Ed.2d 635 (1985) and Shaw v. Delta Airlines, Inc., 463 U.S. 85, 96 n. 14, 103 S.Ct. 2890, 2899 n. 14, 77 L.Ed.2d 490 (1983), we find subject matter jurisdiction. The United States Supreme Court specified in Shaw that:
+
+The Court’s decision today in Franchise Tax Board v. Construction Laborers Vacation Trust, ante, [463 U.S.] p. 1, [103 S.Ct. 2841, 77 L.Ed.2d 420] (1983) does not call into question the lower courts’ jurisdiction to decide these cases. Franchise Tax Board was an action seeking a declaration that state laws were not pre-empted by ERISA. Here, in contrast, companies subject to ERISA regulation seek injunctions against enforcement of state laws they claim are pre-empted by ERISA, as well as declarations that those laws are pre-empted.
+
+It is beyond dispute that federal courts have jurisdiction over suits to enjoin state officials from interfering with federal rights. See Ex parte Young, 209 U.S. 123, 160-162 [28 S.Ct. 441, 454-55, 52 L.Ed. 714] (1908). A plaintiff who seeks injunc-tive relief from state regulation, on the ground that such regulation is pre-empted by a federal statute which, by virtue of the Supremacy Clause of the Constitution, must prevail, thus presents a federal question which the federal courts have jurisdiction under 28 U.S.C. § 1331 to resolve.
+
+      Id. at 96, n. 14, 103 S.Ct. at 2899, n. 14.
+
+In accord with Supreme Court case law, we hold that a federal court has federal question jurisdiction to decide a claim against a state officer or agency alleging that a federal statute preempts a state statute under the Supremacy Clause and that the state statute cannot be enforced. This Court has appellate jurisdiction under 28 U.S.C. § 1291.
+
+III. STANDARD OF REVIEW
+
+This appeal requires review of the district court’s statutory interpretation. Such review is de novo. Centel Cable Television Co. of Fla. v. Thomas J. White Dev. Corp., 902 F.2d 905, 908 (11th Cir.1990); *634
+      Keys Jet Ski, Inc. v. Kays, 893 F.2d 1225, 1227 (11th Cir.1990). We review the district court’s fact findings in a bench trial for clear error. Fed.R.Civ.P. 52(a); Anderson v. Bessemer City, 470 U.S. 564, 578, 105 S.Ct. 1504, 1511, 84 L.Ed.2d 518 (1985).
+
+IV. ANALYSIS
+
+A. Findings of Fact
+
+While the parties dispute whether the trial court made findings of fact or merely conclusions of law, none of the parties alleges the trial court erred in its fact-finding. Appellant Barnett Marion’s Initial Brief at 16; Appellee Gallagher’s Initial Brief at 13; Ap-pellee Underwriter’s Initial Brief at 12. Accordingly, we review de novo the trial court’s conclusions of law.
+
+B. Conclusions of Law
+
+      1. McCarran-Ferguson
+
+In the late 19th Century, the United States Supreme Court held insurance contracts were not in interstate commerce. Paul v. Virginia, 75 U.S. (8 Wall) 168, 183, 19 L.Ed. 357 (1868). The states then developed extensive insurance regulations. In 1944, the Supreme Court rejected that analysis in United States v. South-Eastern Underwriters Ass’n., 322 U.S. 533, 64 S.Ct. 1162, 88 L.Ed. 1440 (1944), holding Congress could regulate insurance under its Commerce Clause power. Id. at 553, 64 S.Ct. at 1173-74.
+
+In response, Congress passed the McCarran-Ferguson Act, which proclaimed that “[n]o Act of Congress shall be construed to invalidate, impair, or supersede any law enacted by any State for the purpose of regulating the business of insurance, or which imposes a fee or tax upon such business, unless such Act specifically relates to the business of insurance." 59 Stat. 34 (1945), 15 U.S.C. § 1012(b) (emphasis added). This statutory scheme creates a reverse-preemption doctrine for insurance legislation. That is, a state statute that regulates insurance presumptively preempts a contrary Congressional statute unless the Congressional statute specifically relates to insurance. Congress declared this state regulation to be in “the public interest.” 15 U.S.C. § 1011.
+
+With McCarran-Ferguson guiding our analysis, this Court first must ask whether Fla.Stat. eh. 626.988 regulates insurance, so as to presumptively preempt contrary federal law. Second, we must ask whether section 92 specifically relates to insurance, so that it will fit within the McCarran-Ferguson exception that reinstates federal law as supreme.
+
+      2. Florida Law
+
+The state statute at issue, Fla.Stat. eh. 626.988, is part of the Unfair Insurance Trade Practices Act (Part X), located within the Florida Insurance Code. Florida Statute chapter 626.951 declares that:
+
+The purpose of this part [X] is to regulate trade practices relating to the business of insurance in accordance with the intent of Congress as expressed in the Act of Congress of March 9, 1945 (Pub.L. No. 15, 79th Congress) [McCarran-Ferguson], by defining, or providing for the determination of, all such practices in this state which constitute unfair methods of competition or unfair or deceptive acts or practices and by prohibiting the trade practices so defined or determined.
+
+To this end, Fla.Stat. ch. 626.988 provides, in relevant part:
+
+(2) No insurance agent or solicitor licensed by the Department of Insurance under the provisions of this chapter who is associated with, under contract with, retained by, owned or controlled by, to any degree, directly or indirectly, or employed by, a financial institution shall engage in insurance agency activities as an employee, officer, director, agent, or associate of a financial institution agency.
+
+Fla.Stat. ch. 626.988(2). Subsection (l)(a) defines a “financial institution” to include any bank or bank holding company, or any subsidiary, affiliate, or foundation thereof. “Specifically excluded from this definition is any bank which is not a subsidiary or affiliate of a bank holding company and is located in a city having a population of less than 5,000 according to the last preceding census.” Id. Barnett Marion’s status as a national-bank *635subsidiary removes it from this narrow exception and prohibits it from engaging in insurance activities under the Florida statute.
+
+At first blush, it seems evident that a statutory chapter entitled “Insurance Field Representatives and Operations,” Fla.Stat. ch. 626, and a statutory part entitled “Unfair Insurance Trade Practices,” Fla.Stat. ch. 626, part. X, must regulate insurance. The Supreme Court, however, has cautioned that location informs but does not determine whether a statute regulates “the business of insurance.” United States Dept. of Treasury v. Fabe, — U.S. -, -, 113 S.Ct. 2202, 2210, 124 L.Ed.2d 449 (1993). More important, held the Court, is whether the statute’s aim is to regulate “an essential part of the ‘business of insurance.’” Id.
+
+In Fabe, the Supreme Court held that an Ohio statute that accorded policyholders priority over an insolvent insurance company’s other creditors was a law enacted to regulate the business of insurance because it regulated policyholders and their relationship to the insurance company. Id. at -, 113 S.Ct. at 2212. Under McCarran-Ferguson, this portion of the Ohio statute preempted a contrary federal statute giving the United States priority over other creditors of a bankrupt. See id. The Supreme Court in Fabe took this “relationship” test directly from S.E.C. v. Nat’l Sec., Inc., 393 U.S. 453, 89 S.Ct. 564, 21 L.Ed.2d 668 (1969), which involved an Arizona statute designed to protect insurance companies’s s/iareholders. In finding that the Arizona statute was not enacted to regulate the business of insurance, the Court held:
+
+The relationship between insurer and insured, the type of policy which could be issued, its reliability, interpretation, and enforcement — these were the core of the “business of insurance” [as used within McCarran-Ferguson.] Undoubtedly, other activities of insurance companies relate so closely to their status as reliable insurers that they too must be placed in the same class. But whatever the exact scope of the statutory term, it is clear where the focus was — it was on the relationship between the insurance company and the policyholder. Statutes aimed at protecting or regulating this relationship, directly or indirectly, are laws regulating the “business of insurance.”
+
+      Id. at 460, 89 S.Ct. at 568-69 (emphasis added).
+
+The question we now ask is whether the Florida statute meets this test because it was enacted to protect policyholders by regulating their relationship with the insurer. In the instant case, the trial court relied on state court interpretations of the Florida statute and testimony from the Director of Legal Services for the Florida Department of Insurance to hold that Fla.Stat. ch. 626.988 was enacted to regulate the relationship between insurers and potential policyholders or, more broadly, “the insurance-purchasing public at large.” (R3-69-12). Specifically, the Florida cases relied on express a concern underlying the statute with overreaching by financial institutions if, permitted to sell insurance. The Florida First District Court of Appeals has spoken at least twice on the subject, finding that:
+
+[b]ecause the statute concerns the regulation of insurance, it is a matter within the state’s exercise of police power and large discretion is vested in the legislature.... Concerns regarding financial institutions’ entry into insurance activities, including the prevention of coercion, unfair trade practices, and undue concentration of resources, existed at the time of passage of the statute and remain valid today ... [A] legislature could well have decided that some protection was required.
+
+      Glendale Fed. S & L. Ass’n. v. Fla. Dept. of Ins., 587 So.2d 534, 536 n. 1 and 537 (Fla. 1st Dist.Ct.App.1991) (citations omitted), rev. denied, 599 So.2d 656 (Fla.1992).
+
+[Moreover,] insurance is an industry affected with a public interest and subject to regulation by the States. The Legislature has determined that there'is potential for abuse inherent in financial institutions being involved in the sale of insurance, and that the licensing of employees of financial institutions as insurance agents is not in the public interest.
+
+      *636
+      Prod. Credit Ass’ns. of Fla. v. Fla. Dept, of Ins., 356 So.2d 31, 32 (Fla. 1st Dist.Ct.App.1978).
+
+At trial, the Director of Legal Services for the Florida Department of Insurance, Mr. Shropshire, testified about the need to protect policyholders by regulating the financial stability of insurance companies so that they remain solvent and able to pay claims upon demand, which could be threatened by pressures to make improper insurance decisions. This pressure could force an insurer to assume a bad risk to quickly consummate a bank loan, or could push a bank customer to take out unnecessary insurance where the bank’s only motive is profit. While appellant Barnett Marion argues that the statute exists only to protect “independent insurance agents from competition by financial institutions,” Appellant’s Brief at 35, we disagree. The danger in these situations, as the trial court correctly points out, is the loss of arms-length transactions and objectivity when the bank becomes involved with insurer and insured. “The maintenance of this relationship is for the protection of the solvency of the insurance industry, and the prevention of coercion, which in turn protects all potential, present and future policyholders.” (R3-69-16).
+
+Relying on the state court interpretations, testimony at trial, reference in the Florida statute to McCarran-Ferguson, and explicit instruction from the United States Supreme Court in Nat’l Securities that regulatory protection of policyholders may be indirect, 393 U.S. at 460, 89 S.Ct. at 568-69, the trial court found that Fla.Stat. ch. 626.988 regulates the business of insurance because it protects policyholders. We agree. “Under the terms of the McCarran-Ferguson Act, 15 U.S.C. § 1012(b), therefore, federal law must yield to the extent the [state] statute furthers the interests of policyholders.” Fabe, — U.S. at -, 113 S.Ct. at 2208.
+
+      S. Section 92
+
+“State laws enacted ‘for the purpose of regulating the business of insurance’ do not yield to conflicting federal statutes unless a federal statute specifically requires otherwise.” Fabe, — U.S. at -, 113 S.Ct. at 2211. The question now is whether section 92 specifically requires otherwise. To answer this question, we examine the section’s history.
+
+In 1863, the Civil War Congress enacted the National Bank Act, which it then reenacted in 1864. The Act created federally chartered national banks and empowered them to issue and accept a uniform national currency. One section of the National Bank Act limited the indebtedness of national banks. In 1874, Congress revised, reorganized, and reenacted all statutes in effect at the time, including this indebtedness provision, and simultaneously repealed all prior statutes. With minor stylistic changes, Title 62 of the Revised Statutes § 5202 contained the National Bank Act’s indebtedness provision.
+
+In 1913, Congress amended Rev.Stat. § 5202 to include a fifth exception to the indebtedness provision. The amendment was a detail of the Federal Reserve Act of 1913, which created Federal Reserve banks and the Federal Reserve Board, and required national banks to become members of the new Federal Reserve System. Finally, in 1916, Congress enacted what we today call section 92. One portion of section 92 authorized national banks located and doing business in places with fewer than five thousand inhabitants, as shown by the last preceding decennial census, to be agents for any fire, life, or other insurance company authorized to do business in the State where the bank is located.
+
+Two years later, however, Congress repealed all of § 5202 except the indebtedness provision. The story, however, does not end here. In 1982, Congress actually amended section 92. See Garn-St. Germain Depository Institutions Act of 1982, § 403(b), 96 Stat. 1511; see also Competitive Equality Banking Act of 1987, § 201(b)(5), 101 Stat. 583 (imposing a one-year moratorium on section 92 activities). Amid confusion over whether section 92 still lived, the Supreme Court tackled the issue in United States Nat’l Bank of Or. v. Indep. Ins. Agents, — U.S. -, 113 S.Ct. 2173, 124 L.Ed.2d 402 (1993). Finding the apparent repeal of section 92 to have been mere scrivener’s error in placing *637section 92 in the Rev.Stat. § 5202 rather than the Federal Reserve Act, as the Court divined Congress had intended, the Supreme Court held section 92 had escaped repeal.2
+
+Although Nat’l Bank of Or. did not address whether section 92 relates to insurance, it did emphasize at length the relation between section 92 and both the National Bank Act and the Federal Reserve Act, neither of which suggests section 92 relates specifically to insurance or was a specific attempt to preempt state insurance laws. Both Acts concern banking, not insurance. Moreover, Congress enacted section 92 “at a time when the business of insurance was believed to be beyond the reach of Congress’ power under the Commerce Clause.” Fabe, — U.S. at -, 113 S.Ct. at 2212. As the trial court pointed out, “[e]ven South-Eastern Underwriters, which briefly altered the preemption landscape, noted that prior to 1944 Congress ‘at no time’ had attempted to control the business of insurance.” (R3-69-18) (citing 322 U.S. at 544, 64 S.Ct. at 1168-69). Before 1944, both Congress and the Supreme Court understood Paul v. Virginia, 75 U.S. (8 Wall.) 168, 183, 19 L.Ed. 357 (1868), to place insurance outside the Commerce Clause power. Accordingly, when Congress enacted section 92 in 1916 — nearly 30 years before South-Eastern Underwriters—Congress could not have been attempting to regulate a business that it believed it had no power to regulate. Congress was concerned with banking, not insurance.
+
+This Court concludes that section 92 neither “specifically relates to the business of insurance,” 15 U.S.C. § 1012(b), nor “specifically requires,” Fabe, — U.S. at -, 113 S.Ct. at 2211, that apparently conflicting state laws be preempted. Accordingly, under MeCarran-Ferguson, Fla.Stat. ch. 626.988 need not yield to section 92. Based on this determination that Fla.Stat. ch. 626.988 may proscribe national-bank subsidiaries from conducting insurance activities within Florida, we do not reach the issues of whether, if such banks could sell insurance, they could do it nationally.
+
+V. CONCLUSION
+
+We hold that the district court correctly interpreted both the federal and state statutes at issue in this case. Further, we hold that the district court’s findings of fact were not clear error. We AFFIRM.
+
+AFFIRMED.
+
+      1
+
+. Recently the United States Supreme Court resolved a conflict among the Circuit Courts of Appeals by holding that section 92 properly is included in § 13 of the Federal Reserve Act (Act Dec. 23, 1913, ch. 6) rather than the National Bank Act. See United States Nat’l Bank of Or. v. Indep. Ins. Agents, - U.S. -, ---, 113 S.Ct. 2173, 2182-86, 124 L.Ed.2d 402 (1993). Both the parties and the district court at various times refer to the section as part of the National Bank Act. While this nomenclature does not affect the section’s validity in light of the Supreme Court case, for clarity's sake this Court will refer to the statute simply as "section 92.”
+
+      2
+
+. All of the above history of section 92 and the National Bank Act is taken in compacted form from Nat’l Bank of Or., -U.S. -, 113 S.Ct. 2173 (1993). For a more detailed discussion replete with citations and authorities, see Justice Souter’s opinion for a unanimous Court, id. at ---, 113 S.Ct. at 2179-82.

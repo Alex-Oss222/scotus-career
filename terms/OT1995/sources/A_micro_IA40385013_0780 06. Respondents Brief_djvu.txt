@@ -1,0 +1,1527 @@
+No. 
+
+
+~ Supreme Court, Us. 
+"1 FILED 
+
+
+95-5257 JAN 22 1996 
+
+
+CLERK 
+
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+
+OCTOBER TERM, 1995 
+
+
+ISMAEL ORNELAS-LEDESMA AND SAUL ORNELAS, PETITIONERS 
+
+
+We 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE SEVENTH CTRCUIT 
+
+
+BRIEF FOR 
+
+
+THE UNITED STATES 
+
+
+DREW S. DAYS, III 
+Solici 6 ] 
+
+
+JOHN C. KEENEY 
+Act j Assi b Att 5 } 
+
+
+MICHAEL R. DREEBEN 
+Deputy Solicitor General 
+
+
+CORNELIA T.L. PILLARD 
+ee he Solici 
+General 
+
+
+JOEL M. GERSHOWITZ 
+
+
+QUESTION PRESENTED 
+Whether the court of appeals, accepting as not clearly 
+erroneous the facts the district court found, was required to 
+review de novo the district court’s conclusion that those facts 
+provided reasonable suspicion justifying an investigatory stop 
+
+
+and probable cause to search. 
+
+
+(I) 
+
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+
+OCTOBER TERM, 1995 
+
+
+No. 95-5257 
+ISMAEL ORNELAS-LEDESMA AND SAUL ORNELAS, PETITIONERS 
+Vv. 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE SEVENTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+OPINIONS BELOW 
+The order of the court of appeals affirming petitioners’ 
+convictions (J.A. 91-93) is unreported, but the judgment is noted 
+at 52 F.3d 328 (Table). The earlier opinion of the court of 
+appeals vacating the convictions and remanding for further 
+proceedings (J.A. 55-73) is reported at 16 F.3d 714. The 
+recommendations of the magistrate judge (J.A. 7-27, 76-84) and 
+the opinions of the district court (J.A. 28-36, 74-75, 85-90) are 
+unreported. 
+JURISDICTION 
+The judgment of the court of appeals was entered on April 
+
+
+18, 1995. The petition for a writ of certiorari was filed on 
+
+
+2 
+July 17, 1995, and was granted on November 6, 1995 (J.A. 94). 
+The jurisdiction of this Court rests on 28 U.S.C. 1254(1). 
+CONSTITUTIONAL PROVISION INVOLVED 
+The Fourth Amendment to the United States Constitution 
+provides: 
+
+The right of the people to be secure in their persons, 
+houses, papers, and effects, against unreasonable searches 
+and seizures, shall not be violated, and no Warrants shall 
+issue, but upon probable cause, supported by Oath or 
+affirmation, and particularly describing the place to be 
+searched, and the persons or things to be seized. 
+
+* STATEMENT 
+
+After entering conditional guilty pleas in the United States 
+District Court for the Eastern District of Wisconsin, petitioners 
+were convicted of possessing cocaine with intent to distribute 
+it, in violation of 21 U.S.C. 841(a)(1). Petitioner Ornelas- 
+Ledesma was sentenced to 60 months’ imprisonment and petitioner 
+Ornelas was sentenced to 63 months’ imprisonment, each term to be 
+followed by four years’ supervised release. J.A. 4-5, 45-46, 48- 
+51. On petitioners’ appeal from the denial of their motion to 
+suppress cocaine found behind a side panel in their car, the 
+court of appeals vacated the judgments of conviction and remanded 
+for further. proceedings. J.A. 55-73. On remand, the United 
+States magistrate judge recommended that the motion to suppress 
+be granted, J.A. 76-84, but the district court sustained the 
+government’ objection to the magistrate judge’s recommendation 
+
+
+and denied the suppression motion, J.A. 85-90. The court of 
+
+
+appeals affirmed. J.A. 91-93. 
+
+
+3 
+
+1. The facts are undisputed.’ On December 11, 1993, 
+Detective Pautz of the Milwaukee County Sheriff’s Office was 
+making a routine survey of the motels along South 27th Street in 
+Milwaukee, Wisconsin, looking for drug trafficking activity. In 
+one of the motel parking lots he spotted a 1981 two-door 
+Oldsmobile with a California license plate. Based on his 
+training and experience in drug interdiction, Pautz knew that 
+narcotics traffickers often use older two-door General Motors 
+cars because it is easy to conceal drugs in them, and that 
+California is a "source" State from which drugs are shipped to 
+other States. J.A. 9, 56. Pautz radioed his dispatcher to find 
+out to whom the car was registered. The dispatcher responded 
+either that the registered owner of the car was Miguel Ledesma 
+Ornelas or Miguel Ornelas Ledesma; Pautz was unsure whether the 
+dispatcher indicated that the name "Ledesma" came before or after 
+the name "Ornelas." J.A. 9-10, 56-57. 
+
+Believing that he had the name of the car's registered 
+owner, Detective Pautz entered the motel and checked the 
+registry, which showed that an Ismael (not Miguel) Ornelas and 
+another man had registered at 4:00 a.m. without reservations. 
+Pautz called for his partner, Detective Hurrle, to join him at 
+the motel parking lot. After Hurrle arrived, the two officers 
+
+
+asked the local office of the federal Drug Enforcement Agency 
+
+
+. The facts in this statement are drawn from the factual 
+findings of the magistrate judge, J.A. 9-13, 79, as adopted by the 
+district court, J.A. 28, 86, and affirmed by the court of appeals, 
+J.A. 56-59, 92. 
+
+
++ 
+(DEA) to run a check, through its Narcotic and Dangerous Drug 
+Information System (NADDIS), on Miguel Ledesma Ornelas from San 
+Jose and on Ismael Ornelas.* NADDIS reported two "hits," ji.e., 
+records of known or suspected criminal activity. One identified 
+Miguel Ledesma Ornelas (also known as Miguel Lemus-Ledesma), a 
+48-year-old Hispanic male, five feet six inches tall and weighing 
+150 pounds, as a suspected heroin dealer from El Centro, 
+California. The other identified Ismael Ornelas, Jr., of Tucson, 
+Arizona, as a suspected 1, 000-kilogram-per-month cocaine dealer. 
+The officers did not attempt to obtain further descriptions of 
+the two suspected dealers. They summoned the handler of the 
+narcotics-detecting dog for the Drug Enforcement Unit, Detective 
+Luedke. When Luedke arrived, Hurrle informed him of the 
+information the officers had obtained, and Pautz left for another 
+assignment. J.A. 10-11, 57-58. 
+
+As detectives Hurrle and Luedke observed from their cars in 
+the motel parking lot, two men left the motel and entered the 
+Oldsmobile. Detective Hurrle approached the car, identified 
+himself as a police officer, asked whether he could speak with 
+them, and inquired whether they had any illegal drugs or 
+contraband. Both men denied possessing anything illegal. Hurrle 
+then asked the men for identification. Saul Ornelas, the driver, 
+produced a driver’s license in that name. Ismael Ornelas- 
+Ledesma, who was in the front passenger seat, produced a 
+
+
+. NADDIS is a computerized compilation of DEA’s information 
+on known and suspected drug traffickers. J.A. 57. 
+
+
+_— 
+
+
+5 
+California driver’s license in the name of Ismael Ornelas with a 
+Martinez, California, address. Hurrle asked them if he could 
+search the car, and they consented to the search. J.A. 11-12, 
+58-59. 
+
+Detective Hurrle searched the trunk, and Detective Luedke 
+(without the aid of the drug-sniffing dog) searched the interior 
+of the car. During his inspection, Luedke noticed a loose right 
+rear interior panel on the passenger side of the car. One of the 
+screws used to fasten a vent cover to the panel was, according to 
+Luedke, rusty, and he believed that the rust indicated that the 
+screw had recently been removed.’ Luedke removed the screw and 
+dismantled the vent area, removed the loose panel, and uncovered 
+a package containing two kilograms of cocaine. The officers 
+arrested petitioners. J.A. 12-13, 59; Tr. 155-159. 
+
+2. Petitioners filed pre-trial motions to suppress the 
+cocaine found in the car. The magistrate judge recommended that 
+the motions be denied. J.A. 26. The magistrate judge first 
+determined that the investigatory stop of petitioners was 
+justified by reasonable suspicion that "criminal activity was 
+afoot." J.A. 20. The magistrate judge relied on the officers’ 
+experience that cars like the 1981 Oldsmobile are often used for 
+transporting drugs, and their knowledge that petitioners’ car was 
+
+
+registered in a “source” State for narcotics, that petitioners 
+
+
+’ The court of appeals stated that Luedke did not explain 
+the basis for his inference, but that "maybe the idea is that the 
+removal of the screw would have scraped off its chrome coating, 
+which protected it from rusting." J.A. 59. 
+
+
+6 
+had checked into the motel at 4:00 a.m. without reservations, and 
+that the car owner’s “name came back on NADDIS as being a drug 
+trafficker, and the name of Ismael Ornelas, Jr. came back on 
+NADDIS as also being a drug trafficker." Jbid. 
+
+The magistrate judge next determined that petitioners had 
+validly consented to the search of the car, but that the consent 
+did not extend to the removal of the interior panel. J.A. 21. 
+Because the magistrate judge’s own examination of the screw 
+revealed no rust, he did not credit Luedke’s testimony that the 
+rusty screw led him to believe that the panel had been removed to 
+store drugs. J.A. 21-22.‘ The magistrate judge thus 
+recommended that the district court hold that the search behind 
+‘the panel was not supported by the requisite probable cause. 
+J.A. 22. He nonetheless recommended denial of the suppression 
+motions because, under the inevitable discovery exception to the 
+exclusionary rule, the drug-sniffing dog would have detected the 
+drugs. J.A. 22-23. 
+
+The district court accepted the magistrate judge’s 
+recommendation that the suppression motion be denied, but on a 
+different theory. J.A. 28-35. The court agreed with the 
+magistrate judge that the investigatory stop and consent search 
+were valid, J.A. 28-29, but concluded that it was unnecessary to 
+invoke the inevitable discovery doctrine because, in its view, 
+
+
+the search behind the door panel was supported by probable cause, 
+
+
+The parties stipulated to the fact that the screw was not 
+rusty. See J.A. 33. 
+
+
+ae 
+
+
+7 
+J.A. 30-31. The district court stated that the magistrate 
+judge’s probable cause ruling “does not consider the totality of 
+the circumstances leading up to the removal and search of the 
+door panel." J.A. 33. In the district court’s view, the model, 
+age, and “source” State of origin of the car, and the fact that 
+two men traveling together checked into the motel at 4:00 a.m. 
+without reservations, formed a “drug courier profile," which, 
+together with the two NADDIS hits and the loose interior car 
+panel, amounted to probable cause to remove the panel and search 
+for drugs. J.A. 33-34. 
+
+3. The court of appeals, following its holding in United 
+States v. Spears, 965 F.2d 262 (7th Cir.), cert. denied, 113 § 
+Ct. 502 (1992), applied a clear-error standard of review to the 
+district court’s determinations of reasonable suspicion and 
+probable cause. J.A. 65-66. Spears had noted (965 F.2d at 269) 
+that, in Jllinois v. Gates, 462 U.S. 213, 236, 238-239 (1983), 
+this Court stated that courts should not conduct de novo review 
+of the sufficiency of affidavits supporting the issuance of 
+warrants, but instead should review such affidavits to determine 
+only whether the issuing magistrate had a "substantial basis" for 
+finding probable cause. Spears extended that form of deferential 
+review (which it equated to review for clear error) to appellate 
+review of a district court’s finding of probable cause in a 
+nonwarrant case. 965 F.2d at 269-270. The court in Spears 
+recognized that probable cause is "a legal conclusion, dependent 
+
+
+solely on a factual analysis: the facts are what the police knew 
+
+
+8 
+
+and did; the finding of probable cause is a conclusion that those 
+facts meet the legal criteria for probable cause." Jd. at 270. 
+It nonetheless concluded that, "[b]ecause there is little to 
+distinguish a magistrate’s probable cause determination in a 
+warrant case and a district judge’s probable cause determination 
+in a nonwarrant case, appellate review should be the same for 
+both." Ibid. In either case, "(i]t is the front-line judicial 
+officer * * * who conducts the initial inquiry," and “an 
+appellate panel should not substitute its judgment in either 
+case." Jd. at 271.° 
+
+The court of appeals held that the district court did not 
+err in this case by ruling that the stop was supported by 
+reasonable suspicion, although it regarded the question as 
+"close." J.A. 65.° Because the reliability of the information 
+stored in NADDIS had not been established in this case, the court 
+treated a NADDIS hit as no more reliable than a tip from an 
+informant not known to be reliable. Accordingly, the court found 
+the NADDIS hits to be insufficient to support a stop unless 
+corroborated by other facts. J.A. 62. The court concluded, 
+
+
+however, that the detectives had sufficient corroboration to 
+
+
+° The Spears court observed that, "(b]ecause this decision 
+changes the law of this circuit, we have circulated this opinion to 
+all active judges * * *. A majority of the judges has voted not to 
+rehear the case en banc." 965 F.2d at 269 n.2. 
+
+
+. Spears addressed only the standard of review of probable- 
+cause determinations, but in this case the court of appeals applied 
+the clear-error standard to the reasonable-suspicion determination 
+as well, observing that "(t)here is no basis for distinguishing in 
+this regard between probable cause and reasonable suspicion. They 
+are adjacent points on a continuum." J.A. 65-66. 
+
+
+9 
+establish reasonable suspicion. J.A. 64. The corroborative 
+facts included the make and age of the car, its "source" State 
+origin, the 4:00 a.m. motel check-in without advance 
+reservations, and the fact that the two NADDIS hits, although 
+ultimately proving to have identified individuals other than 
+petitioners, reasonably appeared to the officers at the time to 
+be mutually reinforcing. J.A. 59-60. The court explained that 
+both the names in NADDIS were “very similar" to the names on the 
+motel registry and car registration, and that the ways in which 
+they were not identical were readily explained: "Jr." could have 
+been left off Ismael Ornelas’ name in the motel registry, and 
+Miguel Ornelas Ledesma’s last names could have been reversed in 
+entering them in the computer. J.A. 63. In the court of 
+appeals’ view, "the fact that both the registered owner of the 
+car ang the name on the motel registry corresponded more or less 
+to names of suspected drug dealers in the NADDIS database was 
+impressive." Id. at 64. 
+
+The court of appeals rejected the district court’s probable 
+cause analysis, however, concluding that the denial of the 
+suppression motion could not be upheld "on the basis of the 
+record compiled in the district court." J.A. 66. In the court 
+of appeals’ view, the key fact informing the district court’s 
+probable cause ruling was Detective Luedke’s testimony that the 
+car’s right rear interior panel was loose, ibid., but the 
+magistrate judge ruled on alternative grounds "*(w] ithout 
+
+
+discussing the bearing of Luedke’s testimony about the loose 
+
+
+10 
+panel on the issue of probable cause," J.A. 67.’ The court of 
+appeals accordingly vacated the convictions and remanded the case 
+to the district court for a determination of the credibility of 
+Luedke’s testimony about the loose panel. If the district court 
+were to credit that testimony, the court of appeals instructed, 
+it must determine whether “the loose panel, in conjunction with 
+the NADDIS tips as corroborated by the circumstances that first 
+aroused Detective Pautz’s suspicions, adequately established 
+probable cause to believe that drugs were concealed behind the 
+panel." J.A. 72-73. 
+
+4. On remand, the district court referred the case to the 
+magistrate judge for an initial determination. J.A. 74-75. 
+Before the magistrate judge, the parties stipulated to resolution 
+of the matter on the existing record. J.A. 82. The magistrate 
+judge expressly accepted the credibility of Detective Luedke’s 
+testimony that the car’s interior panel was loose, but concluded 
+that “the loose panel alone, given the age of the Oldsmobile, is 
+not probative evidence of the fact it necessarily had been 
+recently removed." J.A. 79. The NADDIS hits and other factors 
+alone were not, in the magistrate judge’s view, sufficient to 
+establish probable cause to remove the panel. J.A. 79-83. He 
+
+
+accordingly recommended that the suppression motion be granted. 
+
+
+7 
+
+
+The court held that the government had waived on appeal 
+the claim, accepted by the magistrate judge, that the presence at 
+the scene of the drug-sniffing dog ensured that the drugs 
+inevitably would have been discovered. J.A. 72. In any event, the 
+court of appeals believed the inevitable-discovery claim could not 
+be supported in the absence of evidence regarding the dog’s 
+capabilities and intended use. J.A. 71-72. 
+
+
+11 
+J.A. 83, 84. 
+
+The district court accepted the finding that Luedke’s 
+testimony was credible. J.A. 86. It rejected, however, the 
+magistrate judge’s recommended disposition and instead denied the 
+suppression motion. While stating that "the issue is a close 
+one," the district court again reached the conclusion that the 
+facts established probable cause. J.A. 85-90. The court 
+commented that, "[v])iewed individually," the conformity with the 
+drug courier profile, the NADDIS hits, or the loose panel "may be 
+unremarkable," but "[t])hey become more meaningful when, in a 
+specific case, they converge and form around two specific 
+individuals." J.A. 87. The district court viewed the loose 
+panel as “the final fact in a string of unbroken facts which 
+establishes the probable cause equation." J.A. 89. 
+
+S. On appeal after remand, the court of appeals upheld 
+under the “clear error” standard the district court’s 
+determination that the removal of the door panel was supported by 
+probable cause. J.A. 91-93. The court stated that the district 
+court’s opinion "adequately reviews the circumstances on which 
+the decision to search the car was based and explains why taken 
+as a totality they gave the officers probable cause to conduct 
+the search." J.A. 92. 
+
+SUMMARY OF ARGUMENT 
+
+A court of appeals should apply a de novo standard of review 
+
+to a trial court’s holding of whether the facts known to law 
+
+
+enforcement officers add up to the reasonable suspicion or 
+
+
+12 
+probable cause required to justify the search or seizure in 
+question. 
+
+Probable cause and reasonable suspicion determinations turn 
+on an evaluation of whether the totality of the circumstances 
+give rise to an objectively reasonable basis for conducting a 
+search or seizure. Each inquiry has two components. First, the 
+historical facts known to the officers must be established. 
+Second, once those facts are established, a judgment must be made 
+
+
+whether it was objectively reasonable under the known 
+
+
+circumstances to draw the conclusion that criminal conduct likely 
+would be brought to light by conducting an investigatory stop or 
+search. The second step in the analysis goes beyond the realm of 
+finding facts, and requires a legal judgment about the 
+constitutionality of the search or seizure. 
+
+Under conventional standards for determining the scope of 
+appellate review, the trial court’s determination of reasonable 
+suspicion or probable cause to support a warrantless search is 
+subject to de novo review. While factual findings are reviewed 
+only for clear error, courts of appeals customarily conduct 
+plenary review of the governing legal standards. Courts of 
+
+
+appeals also conduct plenary review of so-called mixed questions 
+
+
+of law and fact when that process is necessary to develop the 
+meaning of a legal standard and to ensure its consistent 
+application. Those considerations strongly support de novo 
+review in the present context. The analysis here parallels that 
+
+
+conducted by the Court in Thompson v. Keohane, 116 S. Ct. 457, 
+
+
+13 
+465, 467 (1995), in which the Court held that, in federal habeas 
+proceedings, "independent," rather than deferential, review 
+applies to determinations of whether a suspect was in custody for 
+purposes of Miranda warnings. De novo review also accords with 
+this Court’s cases, which have in a wide variety of settings 
+subjected probable cause and reasonable suspicion determinations 
+to independent, plenary review. 
+
+The advantages that normally justify de novo appellate 
+review are fully applicable here. First, the exposition of the 
+Fourth Amendment standard of reasonableness depends on the 
+process of case-by-case elaboration in the appellate courts. 
+Second, the development of the law at the appellate level gives 
+guidance to law enforcement officers and promotes consistent 
+outcomes in the trial courts. Third, the considerations favoring 
+de novo review have special force where, as here, a 
+constitutional right is concerned. 
+
+Nothing in this Court’s decisions suggests that deference is 
+owed to a trial judge’s finding that a warrantless search was or 
+was not justified by the requisite level of suspicion. In 
+Lilinois v. Gates, 462 U.S. 213 (1983), this Court held that 
+after-the-fact review of a neutral magistrate’s determination to 
+issue a search warrant should be conducted deferentially, and 
+that the warrant should be upheld "so long as the magistrate had 
+a ‘substantial basis for . . conclud[ing])’ that a search would 
+uncover evidence of wrongdoing." Jd. at 236. That conclusion 
+
+
+reflected the "preference to be accorded to warrants" under the 
+
+
+14 
+
+Fourth Amendment, id. at 237 n.10; it has no application to 
+appellate review of a district court’s determination of the 
+validity of a warrantless search or seizure. Similarly, this 
+Court’s decisions approving deferential review of legal issues 
+that involve supervision of litigation, events occurring before 
+the trial court, or mixed questions of fact and law such as 
+negligence that are traditionally administered by juries, are 
+inapplicable to the constitutional conclusion, rendered by the 
+courts, of whether a warrantless search was justified. That 
+conclusion requires a balance of law enforcement needs against 
+privacy interests, and it calls for plenary appellate review. 
+
+The court of appeals in this case did not apply a de novo 
+standard, but instead approved the stop and search in question 
+based on deferential, clear-error review of the district court’s 
+conclusions. In our view, both the stop and search, if reviewed 
+under a de novo standard, should be upheld as supported by the 
+requisite levels of suspicion. Because the court of appeals has 
+not yet applied the de novo standard to the facts found here, 
+this case should be remanded to that court for application of the 
+
+
+proper standard of review. 
+
+
+15 
+ARGUMENT 
+IN REVIEWING A DISTRICT COURT’S DETERMINATION OF WHETHER 
+REASONABLE SUSPICION OR PROBABLE CAUSE EXISTED FOR A WARRANTLESS 
+SEARCH OR SEIZURE, A COURT OF APPEALS SHOULD APPLY A DE NOVO 
+STANDARD 
+
+
+A. Reasonable Suspicion And Probable Cause Are Objective Legal 
+Conclusions Based On The Totality Of The Circumstances 
+
+
+The investigative stop of petitioners was permissible under 
+the Fourth Amendment if supported by reasonable suspicion, Terry 
+v. Ohio, 392 U.S. 1 (1968), and the warrantless search of their 
+car was valid if based on probable cause, California v. Acevedo, 
+500 U.S. 565, 569-570 (1991); Carroll v. United States, 267 U.S. 
+132, 158-159 (1925). The standards for both reasonable suspicion 
+and probable cause depend on a determination, given the totality 
+of the circumstances, of whether an objectively reasonable law 
+enforcement officer would have justification for the stop or 
+search at issue. United States v. Cortez, 449 U.S. 411, 418 
+(1981) (reasonable suspicion); Illinois v. Gates, 462 U.S. 213, 
+230-231 (1983) (probable cause). Each inquiry requires a two- 
+step analysis: first, an identification of all the pertinent 
+facts known to the law enforcement officers conducting the stop 
+or search, and, second, an evaluation of whether, as a matter of 
+objective reasonableness, that information adds up to reasonable 
+suspicion or probable cause to believe that the stop or search 
+will uncover contraband or evidence of a crime. 
+
+It is well established that the second step of determining 
+probable cause requires more than just a factual analysis; it 
+
+
+requires, instead, an appraisal of the totality of the 
+
+
+16 
+circumstances under an objective, legal standard. Gates, 462 
+U.S. at 230, 238. Probable cause exists where "the facts and 
+circumstances within [the law enforcement officers’) knowledge 
+and of which they had reasonably trustworthy information [are] 
+sufficient in themselves to warrant a man of reasonable caution 
+in the belief that" the search will yield evidence of a crime. 
+Carroll, 267 U.S. at 162. The probabilities with which the 
+concept is concerned "are the factual and practical 
+considerations of everyday life on which reasonable and prudent 
+men, not legal technicians, act." Brinegar v. United States, 338 
+U.S. 160, 175 (1949). The substantive standard reflects an 
+appropriate deference to law enforcement officers: the facts 
+must be evaluated not as an average citizen would understand 
+them, but from the perspective of an officer “versed in the field 
+of law enforcement." Gates, 462 U.S. at 232, quoting Cortez, 449 
+U.S. at 418. 
+
+The reasonable suspicion standard closely parallels the 
+objective framework for analyzing probable cause, but because an 
+investigative stop is less intrusive than a search, the 
+suggestion that crime, contraband, or evidence of crime may be 
+present need not be as strong. United States v. Brignoni-Ponce, 
+422 U.S. 873, 880 (1975); Alabama v. White, 496 U.S. 325, 330 
+41990). Reasonable suspicion to stop exists when, based on the 
+totality of the circumstances, "the detaining officers * * * have 
+a particularized and objective basis for suspecting the 
+
+
+particular person stopped of criminal activity." Cortez, 449 
+
+
+17 
+U.S. at 417-418. Like probable cause, reasonable suspicion is 
+not an historical fact; it is a legal conclusion, measured by an 
+objective constitutional standard. Terry, 392 U.S. at 21-22; 
+Cortez, 449 U.S. at 417-418; Brown v. Texas, 443 U.S. 47, 52 n.2 
+(1979). 
+
+
+B. The Ultimate Conclusion In Nonwarrant Cases Of Whether 
+Reasonable Suspicion Or Probable Cause Exists Is Subject To 
+
+
+De Novo Appellate Review 
+1. The standards of appellate review generally applicable 
+
+
+to questions of fact and questions of law are well established. 
+Appellate courts "“accept([) findings of fact that are not ‘clearly 
+erroneous’ but decid(e) questions of law de novo." First Options 
+of Chicago, Inc. v. Kaplan, 115 S. Ct. 1920, 1926 (1995); see 
+Pierce v. Underwood, 487 U.S. 552, 558 (1988). Appellate 
+
+
+deference to a trial court’s findings of fact is mandated in the 
+civil context by Federal Rule of Civil Procedure 52(a), which 
+provides that a trial court’s findings of fact "shall not be set 
+aside unless clearly erroneous." In the context of federal 
+habeas corpus review of state court judgments, Congress has 
+conferred a presumption of correctness, subject to enumerated 
+exceptions, on state courts’ findings of fact. 28 U.S.C. 
+2254(d). There is no similar express rule governing direct 
+appeals in criminal cases, but this Court applies the clearly 
+erroneous standard to findings of fact in the criminal setting as 
+well. Maine v. Taylor, 477 U.S. 131, 145 (1986); see also 
+Hernandez v. New York, 500 U.S. 352, 365-366 (1991) (plurality 
+
+
+Opinion). In contrast, appellate courts are generally free to 
+
+
+18 
+conduct a de novo review of legal conclusions, and it is their 
+principal function to do so. Salve Regina College v. Russell, 
+499 U.S. 225, 231-232 (1991). Under a de novo standard, 
+appellate courts must "make an independent determination" of the 
+legal conclusions of the lower courts. United States v. First 
+City National Bank, 386 U.S. 361, 368 (1967); Salve Regina 
+
+
+College, 499 U.S. at 231. 
+The traditional standards of review of fact and law serve 
+
+
+systemic goals of “doctrinal coherence and economy of judicial 
+administration." Salve Regina College, 499 U.S. at 231. The 
+application of the clearly erroneous standard to questions of 
+fact recognizes that trial judges are “usually in a superior 
+position to appraise and weigh the evidence." Zenith Radio Corp. 
+v. Hazeltine Research, Inc., 395 U.S. 100, 123 (1969); see also 
+Thompson v. Keohane, 116 S. Ct. 457, 465 (1995); Miller v. 
+Fenton, 474 U.S. 104, 114 (1985). The district courts have 
+“unchallenged superiority” in factfinding, Salve Regina College, 
+499 U.S. at 233, because their energy and resources are primarily 
+devoted to the time-consuming tasks associated with hearing 
+evidence and finding facts. They seldom, however, have the 
+opportunity for extensive reflection on legal issues. Courts of 
+appeals, in contrast, are institutionally structured to focus 
+principally om deciding legal issues. They hear arguments but do 
+not face the burdens of taking evidence, and they enjoy the 
+benefits of a “collaborative juridical process that promotes 
+
+
+decisional accuracy." Jd. at 232. In addition, the coherent 
+
+
+19 
+
+development of a body of law requires appellate courts to 
+establish controlling principles and to demonstrate the meaning 
+of those principles through their consistent application across a 
+range of varying factual contexts. Thompson, 116 S. Ct. at 467. 
+
+There is no dispute that the underlying factual 
+circumstances that bear on reasonable suspicion and probable 
+cause determinations are issues of fact, reviewable under the 
+deferential clearly erroneous standard. This Court has defined 
+factual findings as "basic, primary, or historical facts: facts 
+‘in the sense of a recital of external events and the credibility 
+of their narrators,’”" Thompson, 116 S. Ct. at 464, quoting 
+Townsend v. Sain, 372 U.S. 293, 309 n.6 (1963). Findings 
+regarding what information was known to officers conducting a 
+stop or a warrantless search, and when and how they learned it, 
+are factual in that sense, and thus, under the clear-error 
+standard, may not be reversed unless “the reviewing court on the 
+
+
+entire evidence is left with the definite and firm conviction 
+
+
+that a mistake has been committed." United States v. United 
+States Gypsum Co., 333 U.S. 364, 395 (1948); see also Anderson v. 
+City of Bessemer City. 470 U.S. 564, 573-574 (1985) (discussing 
+
+
+when error is “clear” and giving trial court choice between two 
+permissible views of the evidence). 
+
+The ultimate determination of probable cause or reasonable 
+suspicion, however, is not a factual matter. Courts must decide 
+as a matter of law whether the facts supply the requisite quantum 
+
+
+of suspicion to render a search or seizure "reasonable" under the 
+
+
+20 
+Fourth Amendment. Probable cause and reasonable suspicion are 
+judged under an objective standard, measured by what a reasonable 
+person would conclude; those determinations are not controlled by 
+the subjective state of mind of the officers conducting the 
+search. See Terry, 392 U.S. at 21-22; Gates, 462 U.S. at 231; 
+Florida v. Royer, 460 U.S. 491, S507 (1983) (plurality opinion). 
+Here, as elsewhere, the reasonable person is a "legal construct," 
+calling for a judgment that goes far beyond determination of 
+“what happened."* In the Fourth Amendment setting, that 
+construct requires a judgment about the degree of information 
+needed to justify the intrusion in question. The courts must 
+give content to the general concepts of reasonable suspicion and 
+probable cause in a manner that "“safeguard(s) citizens from rash 
+and unreasonable interferences with privacy and from unfounded 
+charges of crime," while "“giviing) fair leeway to enforcing the 
+law in the community’s protection.” Brinegar, 338 U.S. at 176. 
+In addition, the conclusion whether probable cause or reasonable 
+suspicion existed in a particular case not only provides the rule 
+of decision for the case at hand, but also establishes guidance 
+for public officials and courts confronted with similar 
+
+
+circumstances in the future. 
+
+
+* Antilles $.S. Co. v. Members of Am. Hull] Ins. Syndicate, 
+733 F.2d 195, 204 (2d Cir. 1984) (Newman, J., concurring) ("[I)f 
+the law’s hypothetical reasonable person were to appear in the 
+courtroom as a deus ex machina and respond to an inquiry as to what 
+he or she thought the terms [of the contract) meant, the answer 
+would be a matter of fact in the traditional sense-- an observable, 
+recordable historical event. But the law’s reasonable person has 
+not yet appeared on the witness stand of any courtroom. That 
+person remains a legal construct."). 
+
+
+21 
+
+Probable cause and reasonable suspicion determinations might 
+be characterized as “mixed question(s] of law and fact." 
+Thompson, 116 S. Ct. at 465.*° As between a legal and a mixed 
+question, however, the precise characterization is not crucial, 
+because mixed questions, too, are typically subject to de novo 
+review. A standard of "independent review" is generally applied 
+to “mixed question(s) of law and fact," so that the appellate 
+courts may elaborate the meaning of precedent and explicate 
+underlying “legal values" through case-by-case review. Id. at 
+464 n.9, 465, 467; see also Miller, 474 U.S. at 109; Strickland 
+v. Washington, 466 U.S. 668, 698 (1984); Bose Corp. v. Consumers 
+Union of United States, Inc., 466 U.S. 485, 501 (1984); Cuyler v. 
+
+
+Sullivan, 446 U.S. 335, 342 (1980); Neil v. Biggers, 409 U.S. 
+188, 193 n.3 (1972). 
+
+
+2. This Court’s recent decision in Thompson, involving a 
+mixed question of law and fact closely analogous to the Fourth 
+Amendment issues here, reinforces the conclusion that the 
+reasonable suspicion and probable cause determinations should be 
+reviewed de novo. To determine whether a suspect is "in custody” 
+for Miranda purposes, a court must, applying "the totality of the 
+circumstances," determine “how a reasonable man in the suspect’s 
+
+
+position would have understood his situation." Berkemer v. 
+
+
+* A mixed question is one "in which the historical facts are 
+admitted or established, the rule of law is undisputed, and the 
+issue is whether the facts satisfy the statutory standard, or to 
+put it another way, whether the rule of law as applied to the 
+established facts is or is not violated." Pullman-Standard v. 
+Swint, 456 U.S. 273, 289 n.19 (1982). 
+
+
+22 
+McCarty, 468 U.S. 420, 442 (1984). Citing the applicable 
+"reasonable man" standard, the respondents in Thompson argued 
+that the "in custody" inquiry was factual. The Court rejected 
+that argument, stressing the distinction between the first step, 
+“identification of the ‘totality of the circumstances,’" and the 
+second, evaluation of whether those circumstances, "if 
+encountered by a ‘reasonable person,’ would * * * add up to 
+custody as defined in Miranda." 116 S. Ct. at 466. The Court 
+accordingly concluded that the presumption of correctness that 
+attaches to state court factual determinations under 28 U.S.C. 
+2254 (d)\ does not apply to Miranda custody determinations. See 
+
+
+} 
+
+
+also mibler. 474 U.S. at 112 ("(T)he ultimate question whether, 
+
+
+under the totality of the circumstances, the challenged 
+confession was obtained in a manner compatible with the 
+requirements of the Constitution is a matter for independent 
+federal determination."). 
+
+Reasonable suspicion and probable cause determinations 
+entail the same two-step approach of viewing the "totality of the 
+circumstances” through the eyes of a "reasonable person,” and 
+there is no basis for treating the ultimate constitutional 
+question of objective reasonableness differently here from the 
+Court’s treatment of the Miranda custody question in Thompson. 
+In sum, whether the second step of the probable cause inquiry is 
+viewed as a legal or a mixed question, it involves a 
+determination, unanswerable by simple recourse to the facts, 
+
+
+concerning whether the known information justified a reasonable 
+
+
+23 
+conclusion that a search was sufficiently likely to turn up 
+evidence of a crime. As such, it should be reviewed de novo. 
+
+3. This Court has expressly indicated that probable cause 
+determinations regarding warrantless searches or arrests are to 
+be accorded independent appellate review. In Ker v. California, 
+374 U.S. 23 (1963), the petitioners challenged, for lack of 
+probable cause, the legality of a warrantless search made 
+incident to their arrest. Before reviewing the evidence bearing 
+on the existence of probable cause, the Court addressed the 
+question of the applicable standard of review, commenting that, 
+"“(w)hile this Court does not sit as in nisi prius to appraise 
+contradictory factual questions, it will, where necessary to the 
+determination of constitutional rights, make an independent 
+examination of the facts, the findings, and the record so that it 
+can determine for itself whether in the decision as to 
+reasonableness the fundamental -- j.e., constitutional -- 
+criteria established by this Court have been respected." Id. at 
+34. Conducting its own de novo review, the Court then proceeded 
+"to examine the entire record including the findings of 
+California’s courts to determine whether the evidence seized from 
+petitioners was constitutionally admissible under the 
+circumstances of thle) case." Jbid. 
+
+In another warrantless search case, Beck v. Qhio, 379 U.S. 
+89 (1964), the Court relied on Ker for the same principle. The 
+Court reiterated that it had a responsibility to make an 
+
+
+“independent examination” of the record to resolve the ultimate 
+
+
+24 
+
+question of whether the constitutional standard of probable cause 
+was satisfied. Id. at 92, quoting Ker, 374 U.S. at 34.*° See 
+also Elkins v. United States, 364 U.S. 206, 223-224 (1960) (in 
+discarding the "silver platter" doctrine that allowed use in 
+federal trials of evidence seized by state agents without 
+probable cause, the Court stated that, "[i]n determining whether 
+there has been an unreasonable search and seizure by state 
+officers, a federal court must make an independent inquiry, 
+whether or not there has been such an inquiry by a state court, 
+and irrespective of how any such inquiry may have turned out"). 
+
+In many cases, the Court has, without expressly articulating 
+the applicable standard of review, conducted a careful, detailed 
+examination of the established facts to determine whether they 
+amounted to reasonable suspicion or probable cause. For example, 
+in Carrol] v. United States, 267 U.S. 132 (1925), the Court 
+approached the determination of probable cause as if it were 
+deciding the issue afresh, posing for itself the question "was 
+there probable cause?" and examining the facts in detail, id. at 
+159-161, rather than simply asking whether the district court’s 
+determination was clearly erroneous. Similarly, in Brinegar v. 
+
+
+United States, 338 U.S. 160, 165-171 (1949), the Court observed 
+
+
+= Both Ker and Beck involved direct review of probable 
+cause rulings made by state courts instead of federal district 
+courts. But the Court’s requirement in those cases of independent 
+appellate review is equally applicable to review of federal court 
+determinations. As the Court stated in Bose Corp., 466 U.S. at 
+499, it would “pervert the concept of federalism for this Court to 
+lay claim to a broader power of review over state-court judgments 
+than it exercises in reviewing the judgments of [the lower) federal 
+courts." See also Hernandez, 500 U.S. at 369 (plurality opinion). 
+
+
+25 
+
+that the facts were "substantially undisputed," id. at 162, and 
+itself addressed "(t]he crucial question * * * whether there was 
+probable cause for Brinegar’s arrest," id. at 164. The district 
+court had held that the officers lacked probable cause when they 
+began to chase petitioner’s car, and the court of appeals 
+affirmed.** This Court, however, made its own detailed analysis 
+of the facts and arrived at the opposite conclusion. The Court 
+viewed the case as "indistinguishable" from Carroll, and held 
+that it "necessarily follows" that the lower court’s decision 
+must be reversed if Carrol] “is to continue in force." Id. at 
+171. The Court expressly rejected the practical results that 
+clear-error review would tolerate: "In the absence of any 
+significant difference in the facts, it cannot be said that the 
+Fourth Amendment’s incidence turns on whether different trial 
+judges draw general conclusions that the facts are sufficient or 
+insufficient to constitute probable cause." Ibid.” 
+
+Cases involving reasonable suspicion also reflect a long- 
+established mode of review that can only be described as de novo. 
+In Terry v. Qhio, 392 U.S. 1 (1968), this Court itself 
+
+
+= The lower courts had, however, rejected the suppression 
+motion on the alternative grounds that petitioner’s admission after 
+his car was stopped provided probable cause for the search. 338 
+U.S. at 163. 
+
+
+= Probable cause determinations are also reviewed de novo 
+in civil suits to recover damages for warrantless searches 
+allegedly conducted without probable cause. In determining whether 
+a government offic ». is entitled to qualified immunity, reviewing 
+courts determine as a matter of law whether, given the established 
+facts, a reasonable officer could have believed there was probable 
+
+
+cause to search. Anderson v. Creighton, 483 U.S. 635, 641 (1987). 
+
+
+26 
+“examine([d) the conduct of Officer McFadden in this case to 
+determine whether his search and seizure of petitioner were 
+reasonable." Id. at 27. In doing so, the Court did not defer to 
+the trial court’s determination, see id. at 8, but instead drew 
+its own independent conclusion, stating: "We think on the facts 
+and circumstances Officer McFadden detailed before the trial 
+judge a reasonably prudent man would have been warranted in 
+believing petitioner was armed and thus presented a threat to the 
+officer’s safety while he was investigating his suspicious 
+behavior." Jd. at 28. 
+
+Similarly, in United States v. Cortez, 449 U.S. 411, 418-421 
+(1981), this Court itself reviewed the fects in detail and 
+arrived at an independent conclusion regarding the presence of 
+reasonable suspicion. The Court posed the question as "whether, 
+based upon the whole picture, * * * experienced Border Patrol 
+officers[) could reasonably surmise that the particular vehicle 
+they stopped was engaged in criminal activity,” and determined 
+that, “({o)]n this record, they could so conclude." Id. at 421- 
+422. In United States v. Sokolow, 490 U.S. 1 (1989), the Court 
+
+
+emphasized its own role in reviewing the facts: “In evaluating 
+the validity of a stop such as this, we must consider ‘the 
+totality of the circumstances -- the whole picture.’" Id. at 8, 
+quoting Cortez, 449 U.S. at 417 (emphasis added). And in Alabama 
+v. White, 496 U.S. 325 (1990), the Court again arrived at an 
+independent conclusion based on its analysis of the established 
+
+
+facts, stating that, "(c)ontrary to the court below, we conclude 
+
+
+27 
+
+that when the officers stopped respondent, the anonymous tip had 
+
+been sufficiently corroborated to furnish reasonable suspicion 
+
+that respondent was engaged in criminal activity." Id. at 331- 
+
+332. Again, the Court made no determination whether the lower 
+
+court had made any clear errors. In none of these probable cause 
+
+or reasonable suspicion cases did the Court suggest a need for 
+deference to the district court, or imply that anything other 
+than an independent determination of the ultimate issue was 
+appropriate on appellate review. 
+
+Cc. The Precedential a Of Reasonable Suspicion And 
+Probable Cause Conclusions, And The Need For Consistent 
+Standards To Guide Official Conduct, Support A De Novo 
+Standard Of Review 
+This Court has noted “the practical truth that the decision 
+
+to label an issue a ‘question of law,’ a ‘question of fact,’ ora 
+
+‘mixed question of law and fact’ is sometimes as much a matter of 
+
+allocation as it is of analysis." Miller, 474 U.S. at 113-114, 
+
+citing Monaghan, Constitutional Fact Review, 85 Colum. L. Rev. 
+
+229, 237 (1985). The classification of an issue as factual or 
+
+legal may “turn[) on a determination that, as a matter of the 
+
+sound administration of justice, one judicial actor is better 
+
+positioned than another to decide the issue in question." 474 
+
+U.S. at 114. See also Thompson, 116 S. Ct. at 465 (referring to 
+
+“practical considerations that have prompted the Court to type 
+
+questions * * * as ‘factual issue(s)’"); First Options of 
+
+Chicago, 115 S. Ct. at 1926 (referring to "respective 
+
+institutional advantages” that affect "the reviewing attitude 
+
+
+that a court of appeals takes toward a district court decision") ; 
+
+
+28 
+Pierce, 487 U.S. at 559-560; Bose Corp., 466 U.S. at 501-502 
+(identifying factors relevant to drawing the distinction between 
+law and fact). 
+
+Those institutional considerations favor de novo review 
+here. First, de novo review is appropriate because of the 
+importance of the appellate court’s "function as an expositor of 
+law" regarding reasonable suspicion and probable cause. Miller, 
+474 U.S. at 114. The necessarily general nature of the 
+reasonable suspicion and probable cause standards means that 
+defining what conduct falls within constitutional bounds remains 
+a task to be carried out through individual decisions. The 
+Fourth Amendment reasonableness standards are not "susceptible of 
+Procrustean application." Ker, 374 U.S. at 33. Rather, as the 
+Court stated in Jerry, 392 U.S. at 29, the limitations imposed by 
+the Fourth Amendment “will have to be developed in the concrete 
+factual circumstances of individual cases." 
+
+This Court has recognized that where, as here, "the content 
+of the rule is not revealed simply by its literal text, but 
+rather is given meaning through the evolutionary process of 
+common-law adjudication,” the standard should be treated as one 
+of law subject to de novo appellate review. Bose Corp., 466 U.S. 
+at 502; see Miller, 474 U.S. at 114 (where the "relevant legal 
+principle can be given meaning only through its application to 
+the particular circumstances of a case, the Court has been 
+reluctant to give the trier of fact’s conclusions presumptive 
+
+
+force and, in so doing, strip a federal appellate court of its 
+
+
+29 
+primary function as an expositor of law"); see also United States 
+v. McConney, 728 F.2d 1195, 1200 (9th Cir.) (en banc), cert. 
+denied, 469 U.S. 824 (1984); Monaghan, supra, 85 Colum. L. Rev. 
+at 229, 273-276. Given a standard of objective reasonableness, 
+the purely legal function of saying "what the law is" can be 
+accomplished only by applying the basic standard to a series of 
+closely related situations and thereby elaborating that standard. 
+The exercise of decisional power in individual cases is, in 
+circumstances such as these, "the process through which the rule 
+itself evolves and its integrity is maintained." Bose Corp., 466 
+U.S. at 503. 
+
+A second, and closely related, functional principle that 
+favors de novo review in this context is the need to give 
+guidance to law enforcement officers to enable them to apply the 
+constitutional standards consistently across the wide range of 
+individual cases. The several decisions of this Court, and the 
+body of case law developed by the federal courts of appeals, are 
+the central means of spelling out the requirements of Fourth 
+Amendment, providing guidance for law enforcement personnel, and 
+reconciling conflicting trial court approaches. "([TJhe 
+protection of the Fourth and Fourteenth Amendments can only be 
+realized if the police are acting under a set of rules which, in 
+most instances, makes it possible to reach a correct 
+determination beforehand as to whether an invasion of privacy is 
+justified in the interest of law enforcement." New York v. 
+
+
+Belton, 453 U.S. 454, 458 (1981) (internal quotation marks 
+
+
+30 
+omitted). As this Court recently confirmed in Thompson, "the law 
+declaration aspect of independent review potentially may guide 
+police, unify precedent, and stabilize the law," and those 
+effects "serve legitimate law enforcement interests." 116 S. Ct. 
+at 467. 
+
+This Court’s decisions illustrate how case-by-case review of 
+reasonable suspicion and probable cause determinations refine 
+those standards and give rise to principles of general 
+application to subcategories of Fourth Amendment cases. For 
+example, the Court has offered guidance regarding the permissible 
+weight to give certain recurring types of potentially suspicious 
+activity, such as mere association with a known offender, United 
+States v. Di Re, 332 U.S. 581, 593 (1948), flight upon the 
+approach of police officers, Sibron v. New York, 392 U.S. 40, 66 
+(1968), and presence in neighborhood known to be frequented by 
+drug users, Brown v. Texas, 443 U.S. 47, 52 (1979); see generally 
+
+
+2 W. LaFave, Search and Seizure § 3.6, at 29-74 (2d ed. 1987). 
+Standards have also emerged regarding the permissible scope of a 
+
+
+search of an automobile. See, e.g., California v. Acevedo, 500 
+U.S. 565 (1991) (probable cause to search a container authorizes 
+search even in the absence of probable cause to search automobile 
+in which container is found); United States v. Ross, 456 U.S. 798 
+41982) (probable cause to search a vehicle authorizes search of 
+containers and packages therein); see generally 3 W. LaFave, 
+Supra, §§ 7.1-7.5, at 1-145. And courts have dealt with such 
+
+
+issues as the relevance of an offender "profile" to the issue of 
+
+
+31 
+
+reasonable suspicion. United States v. Sokolow, 490 U.S. at 10. 
+
+It is through the development of such subsidiary standards that 
+
+the general Fourth Amendment reasonableness standards gain 
+
+specific content, and are subject to consistent administration by 
+lower courts and law enforcement personnel. 
+
+Third, the considerations favoring de novo review carry 
+special weight where a constitutional right is concerned. As the 
+Court stated in the First Amendment context in Bose Corp., "the 
+constitutional values protected by the rule make it imperative 
+that judges -- and in some cases judges of this Court -- make 
+sure that it is correctly applied." 466 U.S. at 502. Indeed, 
+the Court has referred to independent review as a "duty of 
+constitutional adjudication." Haynes v. Washington, 373 U.S. 
+$03, 515 (1963). The Constitution has the same meaning in the 
+hands of different law enforcement personnel and different 
+district courts. "(Djeferential appellate review," however, 
+would “invite[) divergent development of * * * law," Salve Regina 
+College, 499 U.S. at 234, and disparate application of 
+constitutional principles. 
+
+D. Neither Jllinois v. Gates Nor Other Decisions Of This Court 
+Support A Deferential Standard Of Review For District Court 
+Determinations Of The Validity Of Warrantless Searches And 
+Seizures 
+1. Im adopting the clear-error standard of review for 
+
+district court determinations of whether a warrantless search was 
+
+supported by probable cause, the Seventh Circuit relied on 
+
+Dilinois v. Gates. supra. United States v. Spears, 965 F.2d 262, 
+
+269-272 (7th Cir.), cert. denied, 113 S. Ct. S502 (1992); J.A. 65- 
+
+
+32 
+66, 92 (citing Spears). In Gates, the Court reaffirmed the 
+"traditional standard" of deferential review of a magistrate’s 
+determination that an affidavit was sufficient to establish 
+probable cause for the issuance of a warrant. 462 U.S. at 236. 
+Gates clarified that under that approach the affidavit is 
+reviewed only to ensure that the magistrate had a "substantial 
+basis" for issuing the warrant. Jd. at 238-329. Because the 
+probable cause standard is the same in both warrant and 
+nonwarrant cases, the Seventh Circuit concluded that "(i]t would 
+be anomalous to require a more searching review of a district 
+judge’s probable cause determination" in nonwarrant cases than of 
+a magistrate’s decision to issue a warrant. Spears, 965 F.2d at 
+270. The court of appeals thus held that a "clearly erroneous" 
+standard should be applied in both contexts. J[bid. 
+
+The Seventh Circuit’s reliance on Gates is misplaced. The 
+"substantial basis" test of Gates reflected “the Fourth 
+Amendment's strong preference for searches conducted pursuant to 
+a@ warrant.” 462 U.S. at 236. The Court reasoned that, "[{i)f the 
+affidavits submitted by police officers are subjected to the type 
+of scrutiny some courts have deemed appropriate, police might 
+well resort to warrantless searches, with the hope of relying on 
+consent or some other exception to the Warrant Clause that might 
+develop at the time of the search." Ibid. The Court added that 
+“the possession of a warrant by officers conducting an arrest or 
+search greatly reduces the perception of unlawful or intrusive 
+police conduct." Ibid. For those reasons, the Court indicated 
+
+
+33 
+that a reviewing court’s duty is “simply to ensure that the 
+magistrate had a ‘substantial basis for .. . conclud[ing]’ that 
+probable cause existed." Jd. at 238-239. 
+
+Gates’s description of the "preference" for warrants, and 
+the deferential review of magistrate determinations, is grounded 
+in substantive Fourth Amendment principles long recognized by 
+this Court. See United States v. Ventresca, 380 U.S. 102, 106, 
+109 (1965) (because "in a doubtful or marginal case a search 
+under a warrant may be sustainable where without one it would 
+fall,” the resolution of — a case "should be largely 
+determined by the preference to be accorded to warrants"); United 
+States v. Watson, 423 U.S. 411, 423 (1976) (law enforcement 
+officers’ "judgments about probable cause may be more readily 
+accepted where backed by a warrant issued by a magistrate") ; 
+United States v. Leon, 468 U.S. 897, 914 (1984) ("[Wle have thus 
+concluded that the preference for warrants is most appropriately 
+effectuated by according ‘great deference’ to a magistrate’s 
+determination."). The reasoning of Gates, however, is not 
+applicable to the allocation of functions between a district 
+court and court of appeals in the review of warrantless searches 
+and seizures. There is no reason grounded in Fourth Amendment 
+doctrine to give leeway on appeal to a district court’s after- 
+the-fact conclusion that probable cause existed for a warrantless 
+search, with the resulting potential for restriction of an 
+individual’s constitutional rights. Nor is there reason for 
+
+
+appellate deference to a trial court’s after-the-fact conclusion 
+
+
+34 
+that probable cause was lacking, with the resulting potential for 
+injury to law enforcement interests and society’s stake in the 
+availability of lawfully obtained evidence in a criminal 
+prosecution.” Fourth Amendment policy supports giving 
+appropriate deference to the magistrate’s determination to 
+encourage the use of warrants. It does not, however, favor 
+district court determinations over those of appellate courts on 
+the ultimate determination of the constitutionality of a 
+warrantless search or seizure. In sum, while there is a sound 
+doctrinal basis for the meantend adopted in Gates, no 
+corresponding principle supports appellate deference to a trial 
+
+
+court’s decision upholding or invalidating a warrantless search 
+
+
+or seizure.*™ 
+
+
+= Under 18 U.S.C. 3731, the government may appeal "from a 
+decision or an order of a district court() suppressing or excluding 
+evidence * * *." See United States v. Ceccolini, 435 U.S. 268, 271 
+n.1 (1978); 4 W. LaFave, gupra, § 11.7(b), at 509-512. 
+
+
+“* The Court in Gates did state, in passing, that "[(t])here are 
+so many variables in the probable-cause equation that one 
+determination will seldom be a useful ‘precedent’ for another." 
+462 U.S. at 238 n.11. That statement was not a holding of Gates, 
+nor was it addressed to what standard of review appellate courts 
+should apply to district court determinations of probable cause in 
+nonwarrant cases (an issue that was not presented in Gates). 
+Rather, it was made in the context of explaining the Court’s 
+
+
+established by our decisions in {[v. Texas, 378 U.S. 108 
+(1964)] and Spinelli") . As iscussed above, the Court’s 
+determinations of probable cause and reasonable suspicion issues 
+have provided guidance to lower courts and law enforcement 
+officers, and have harmonized results reached in different cases on 
+Similar facts. Gates cast no doubt on the line of cases in this 
+Court (see pages 22-27, gupra) that had applied independent, rather 
+than deferential, review to lower court determinations of the 
+
+
+35 
+
+2. Other cases in which this Court has accorded 
+deferential, clear-error review to questions extending beyond the 
+historical facts are also inapplicable in this setting. Those 
+cases fall into three main categories: those dealing with 
+supervision of litigation on factbound issues, those that are 
+heavily dependent on credibility determinations relating to an 
+individual’s subjective state of mind, and those involving mixed 
+questions of law and fact that are traditionally decided by 
+juries. None of those circumstances is present here. 
+
+In Cooter & Gell v. een Co. 496 U.S. 384, 399 (1990), 
+the Court acknowledged that, in reviewing a district court’s 
+decision imposing sanctions under Federal Rule of Civil Procedure 
+11, “({ljegal issues are raised in considering whether a pleading 
+is ‘warranted by existing law or a good faith argument’ for 
+changing the law and whether the attorney’s conduct violated Rule 
+11." The Court nonetheless concluded that deferential review of 
+Rule 11 decisions is appropriate. Similarly, in Pierce v. 
+Underwood, 487 U.S. 552, 557-563 (1988), the Court held that an 
+abuse-of-discretion standard applies to all aspects of review of 
+district courts’ attorneys’ fees determinations under the Equal 
+Access to Justice Act, even though the question whether the 
+government’s litigating position was “substantially justified" 
+has legal elements. Jd. at S60. 
+
+The Court in both cases held that those fact-bound issues 
+
+
+involving the supervision of litigation before the district 
+
+
+validity of warrantless searches and seizures. 
+
+
+36 
+courts were ill-suited to de novo appellate review. As the 
+Pierce Court explained, "[b)y reason of settlement conferences 
+and other pretrial activities, the district court may have 
+insights not conveyed by the record, into such matters as whether 
+particular evidence was worthy of being relied upon, or whether 
+critical facts could easily have been verified by the 
+Government." 487 U.S. at 560; see Cooter & Gell, 496 U.S. at 
+403-404. An appellate court could not easily familiarize itself 
+with litigation events not appearing in the record, nor would the 
+effort be justified in view of the limited precedential value of 
+the result: the questions in these cases are "multifarious and 
+novel," and "little susceptible, for the time being at least, of 
+useful generalization.” Pierce, 487 U.S. at 562; Cooter & Gell, 
+496 U.S. at 404. 
+
+The litigation-supervision rationale is inapplicable here. 
+Probable cause and reasonable suspicion are not matters relating 
+to the proper conduct of litigation before the district courts, 
+but are matters of constitutional privacy rights and effective 
+law enforcement; as discussed above, the utility of the 
+development of constitutional precedent in this area is 
+substantial. 
+
+The second line of cases in which this Court has applied a 
+deferential standard of review to nominally legal questions 
+"extending beyond the determination of ‘what happened’*" includes 
+such issues as “competency to stand trial (e.9g., Maggio v. 
+
+
+Fulford, 462 U.S. 111, 117 (1983) (per curiam)); and juror 
+
+
+37 
+
+
+impartiality (e.g., (Wainwright v.] Witt, 469 U.S. [(412,] 429 
+((1985)]); Patton v. Yount, 467 U.S. 1025, 1036 (1984); Rushen v. 
+Spain, 464 U.S. 114, 120 (1983))." Thompson, 116 S. Ct. at 464 
+(parallel citations omitted). The Court in Thompson described 
+those determinations as essentially factual, and thus entitled to 
+a presumption of correctness for purposes of Section 2254(d), 
+because they deal with largely subjective standards, whose proper 
+resolution “depends heavily” on "credibility findings whose basis 
+cannot be easily discerned from an appellate record." 116 S. Ct. 
+at 465. Because "the critical events," Miller, 474 U.S. at 117, 
+surrounding the determination of juror impartiality and defendant 
+competency -- @€.g., juror voir dire and the court’s first-hand 
+observation of the defendant in a competency proceeding -- take 
+place “in open court," Thompson, 116 S. Ct. at 466, quoting 
+Miller, 474 U.S. at 117, it is appropriate to accord the judgment 
+of the trial court, as “jurist-observer,”" presumptive weight, 
+Thompson, 116 S. Ct. at 465. 
+
+Probable cause and reasonable suspicion determinations, in 
+contrast to competency and juror bias, involve application of an 
+objective standard to out-of-court events and information known 
+to officers at an earlier time. A trial court has no "first- 
+person vantage” on those events, Thompson, 116 S. Ct. at 466, and 
+its “superior capacity to resolve credibility issues is not 
+dispositive," jd. at 465. Like the Miranda custody decision in 
+Thompson, the Fourth Amendment reasonableness standards are 
+
+
+objective, and thus different in character from determinations of 
+
+
+38 
+juror bias or competency to stand trial, which depend heavily on 
+assessing the subjective state of mind of the juror or the 
+defendant .** 
+
+Finally, it is traditional in our legal system to entrust 
+“reasonable person" determinations in negligence cases to the 
+trier of fact, subject only to deferential review. See Cooter & 
+Gell, 496 U.S. at 402. As this Court explained in Thompson, 
+however, the basis for that tradition lies in the entrustment of 
+most negligence issues to juries, which are invited "to apply 
+community standards" and whose decisions "cannot be reduced to 
+anything approaching a definite rule." 116 S. Ct. at 466 n.13. 
+Probable cause and reasonable suspicion determinations, however, 
+are made by "(j)udges alone,” and “they do so with a view to 
+identifying recurrent patterns, and advancing uniform outcomes." 
+Ibid. Moreover, the reasonableness of a search or seizure is not 
+solely a function of community standards, but turns on a 
+“balancing of competing interests" embodied in the Fourth 
+Amendment. See Michigan v. Summers, 452 U.S. 692, 700 n.12 
+(1981). The task of "hold{[ing) the balance true" is for the 
+
+
+courts. Gates, 462 U.S. at 241. 
+
+
+ad The Thompson Court also observed that, "in fathoming the 
+state of mind of a potential juror or a defendant in order to 
+answer the questions, ‘Is she free of bias?,’ ‘Is he competent to 
+stand trial?,’ the trial court makes an individual-specific 
+decision, one unlikely to have precedential value." 116 S. Ct. at 
+466. Reasonable-suspicion and probable cause determinations, 
+however, like the determination of custodial status at issue in 
+Thompson, do have "law-clarifying benefits," and carry precedential 
+weight. Jd. at 466 n.14. 
+
+
+~ <a eer 
+
+
+39 
+* * © 
+
+Applying a de novo standard to the ultimate legal questions 
+whether reasonable suspicion and probable cause were present on 
+the established facts of this case, we believe that both the stop 
+and search were constitutionally valid and should be upheld. The 
+court of appeals, however, stated that it reviewed the reasonable 
+suspicion and probable cause determinations only for clear error. 
+J.A. 65-66, 92. Because the questions whether, under a de novo 
+standard, the officers’ reasonable suspicion and probable cause 
+determinations should be sustained were not presented in the 
+petition for certiorari (nor do petitioners discuss or request 
+that this Court decide those issues, see Br. 42), this Court 
+should vacate the judgment below and remand the case to the court 
+of appeals for application of the currect standard. Sup. Ct. 
+
+
+Rule 24.1(a); see, e.g., Thompson, 116 S. Ct. at 467; Miller, 474 
+U.S. at 118. 
+
+
+40 
+CONCLUSION 
+
+
+The judgment of the court of appeals should be vacated and 
+
+
+the case remanded to the court of appeals for further 
+proceedings. 
+Respectfully submitted. 
+
+
+DREW S. DAYS, III 
+Solici e } 
+
+
+JOHN C. KEENEY 
+Act j Assi : 5 } 
+
+
+MICHAEL R. DREEBEN 
+D ty Solic: e } 
+
+
+CORNELIA T.L. PILLARD 
+or ~~ 
+General 
+
+
+JOEL M. GERSHOWITZ 
+Attorney 
+
+
+JANUARY 1996 
+
+

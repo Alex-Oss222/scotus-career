@@ -1,0 +1,428 @@
+TABLE OF CONTENTS 
+
+
+Page 
+
+
+TABLE OF AUTHORITIES il 
+
+
+BRIEF OF AMICI CURIAE 
+
+
+INTEREST OF AMICI CURIAE 
+
+
+to 
+
+
+ARGUMENT 3 
+
+
+IN NON-WARRANT CASES, APPELLATE 
+COURTS SHOULD NOT CONDUCT A DE 
+NOVO STANDARD OF REVIEW CONCERN- 
+ING REASONABLE SUSPICION TO STOP 
+AND PROBABLE CAUSE TO SEARCH: A 
+UNIFORM STANDARD OF NO DE NOVO 
+REVIEW SHOULD APPLY TO BOTH WAR- 
+RANT AND NON-WARRANT CASES 3 
+
+
+CONCLUSION 8 
+
+
+ul 
+TABLE OF AUTHORITIES 
+
+
+Cases 
+
+
+Illinois v. Gates, 462 U.S. 213 (1983) 
+Miranda v. Arizona, 384 U.S. 436 (1966) 
+New York v. Belton, 453 US. 454 (1981) 
+Terry v. Ohio, 392 US. 1 (1968) ....... 
+Tiompson v. Keohane, 116 S.Ct 457 (1995) . 
+United States v. Green, 113 S.Ct. 1835 (1993) 
+United States v. Ornelas-Ledesma, 16 F.3d 714 
+(7th Cir. 1994)... ... 
+United States v. Spears, 965 F 2d 262 (7th Cir 1992) . 
+
+
+Article 
+
+
+“Miranda vy Arizona—ls It Worth the Cost?,” 24 Calif 
+Western Law Rev. 185-200 (1987-1988) | .. 
+
+
+4.5. 
+
+
+No. 95-5257 
+
+
+a 
+
+
+In The 
+
+
+Supreme Court of the United States 
+October Term, 1995 
+
+
+SAUL ORNELAS and ISMAEL ORNELAS-LEDESMA, 
+
+
+Petitioners, 
+vs. 
+
+
+UNITED STATES OF AMERICA, 
+Respondent 
+
+
+ON WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS 
+FOR THE SEVENTH CIRCUIT 
+
+
+BRIEF 
+AMICI CURIAE 
+OF 
+AMERICANS FOR 
+EFFECTIVE LAW ENFORCEMENT, INC., 
+JOINED BY 
+THE NATIONAL DISTRICT 
+ATTORNEYS ASSOCIATION, INC. 
+IN SUPPORT OF AFFIRMANCE OF THE 
+DECISION OF THE SEVENTH CIRCUIT 
+COURT OF APPEALS BELOW. 
+
+
+This Brief is filed pursuant to the Rules of the United States 
+Supreme Court Consent to file has been granted by respective 
+Counsel for the Petitioners and Respondent. The letters of 
+consent have been filed with the Clerk of this Court, as required 
+by the Rules. 
+
+
+2 
+INTEREST OF AMICI CURIAE 
+
+
+Americans for Effective Law Enforcement, Inc. (AELE), 
+as a national not-for-profit citizens organization, is interested in 
+establishing a body of law making the police effort more 
+effective, in a constitutional manner. It seeks to improve the 
+operation of the police function to protect our citizens in their 
+life, liberties, and property, within the framework of the various 
+State and Federal Constitutions 
+
+
+AELE has previously appeared as amicus curiae over one 
+hundred times in the Supreme Court of the United States and 
+over thirty-five times in other courts, including the Federal 
+District Courts, the Circuit Courts of Appeal and various state 
+courts, such as the Supreme Courts of California, Illinois, 
+Ohio, and Missouri. 
+
+
+The National District Attorneys Association, Inc. 
+(NDAA), is a nonprofit corporation and the sole national 
+organization representing local prosecuting attorneys in 
+America Since its founding in 1950, NDAA’s programs of 
+education, training, publications, and amicus curiae activity 
+have carried out its guiding purpose of reforming the criminal 
+justice system for the benefit of all our citizens. 
+
+
+Amici are national professional associations representing the 
+interests of law enforcement and prosecutorial agencies at the 
+state and local levels Our members include (1) law enforce- 
+ment officers and law enforcement administrators who are 
+charged with the responsibility of overseeing the process of stop 
+and frisk, arrest and search and seizure within the bounds of the 
+law, as well as training and the formulation of administrative 
+guidance on this subject, and (2) prosecutors and police legal 
+advisors who, in their criminal jurisdiction capacity, are called 
+upon to advise law enforcement officers and administrators in 
+connection with such matters, and to prosecute crimes and 
+
+
+3 
+
+
+represent the states on appellate review of cases involving 
+evidence obtained as a result thereof 
+
+
+Because of the relationship with our members, and the 
+composition of our membership and directors—including active 
+law enforcement administrators and counsel—we possess direct 
+knowledge of the impact of the ruling of the court below, and 
+we wish to impart that knowledge to this Court. 
+
+
+ARGUMENT 
+
+
+IN NON-WARRANT CASES, APPELLATE COURTS 
+SHOULD NOT CONDUCT A DE NOVO STANDARD OF 
+REVIEW CONCERNING REASONABLE SUSPICION TO 
+STOP AND PROBABLE CAUSE TO SEARCH. A UNI- 
+FORM STANDARD OF NO DE NOVO REVIEW SHOULD 
+APPLY TO BOTH WARRANT AND NON-WARRANT 
+CASES. 
+
+
+In this case Milwaukee, Wisconsin, police suspected that 
+two people in a car with California license plates were drug 
+dealers. They followed them into a motel and obtained one of 
+their names from the registry and another from automobile 
+records. They then ran both names through “NADDIS,” the 
+Narcotic and Dangerous Drug Information System operated by 
+the Drug Enforcement Administration (DEA) DEA came back 
+with two “hits”, the names corresponded “more or less to names 
+of suspected drug dealers in the NADDIS database ” 
+
+
+; Although the magistrate judge and trial court were given no 
+information on the reliability of the NADDIS system, the 
+Seventh Circuit Court of Appeals, in United States v. Ornelas- 
+Ledesma, \6 F 34714 (7th Cir 1994), concluded that there was 
+reasonable suspicion for the police to make an investigative stop 
+of the pair as they were leaving the motel 
+
+
+The defendants filed for review with this Court. requesting 
+
+
+4 
+
+
+a consideration of two questions, 1.¢.: 
+
+1 In non-warrant cases, should appellate courts conduct a de 
+novo standard of review concerning reasonable suspicion to 
+stop and probable cause to search? 
+
+Il. Was it a violation of defendants’ due process rights for the 
+trial court to refuse access to the raw data comprising the 
+NADDIS check, which was later used to justify both the 
+stop and the search? 
+
+
+In granting review, this Court confined itself to question I, 
+supra. Amici submit that the issue is a very important one for 
+search and seizure law. The Seventh Circuit had previously 
+adopted a “clear error” standard of review in search warrant 
+cases, i.e, deferring to the findings below and not conducting 
+a de novo review on appeal on the issue of probable cause 
+unless there were “clear error.” United States v. Spears, 965 
+F 2d 262 (7th Cir. 1992). 
+
+
+If the Court adopts the same rule for warrantless stops, 
+frisks, and searches, it would clarify the procedural law with 
+respect to appellate review of search and seizure probable cause 
+issues, including the rules with respect to investigative stops 
+under Jerry v. Ohio, 392 US. 1 (1968). It would also be of 
+great assistance to law enforcement officers who need help, and 
+not hindrance, in their daily work. It would provide clear 
+guidance to the police through a uniform system of Fourth 
+Amendment jurisprudence and carry forward the Court’s 
+emphasis upon “bright line” rules for police, an emphasis which 
+was initiated in New York v. Belton, 453 U.S. 454 (1981), as 
+urged by amici in several cases before this Court in the last 15 
+years 
+
+
+Amici submit that the cype of question involved in this case 
+is essentially a question of fact. As such, using the “totality of 
+the circumstances” approach established by this Court in //linois 
+v. Gates, 462 U.S. 213 (1983), the suppression level and trial 
+courts are in the best position to resolve these factual issues 
+
+
+=, 
+
+
+As noted in Spears, supra, 
+
+The question .. isthe same did probable cause exist? The 
+[United States Supreme] Court tells us that “[p]robable 
+cause exists where ‘the facts and circumstances within [the 
+officers’] knowledge and of which they had reasonably 
+trustworthy information [are] sufficient in themselves to 
+warrant a man of reasonable caution in the belief that’ an 
+offense has been or is being committed.” Srinegar v. 
+United States, 338 U.S. 160, 175-76, 69 S Ct. 1302, 1311, 
+93 L.Ed. 1879 (1949) (quoting Carroll v. United States, 267 
+U.S. 132, 162, 45 S.Ct. 280, 288, 69 L Ed 543 (1925)). It 
+is a legal conclusion, dependent solely on a factual analysis: 
+the facts are what the police knew and did, the finding of 
+probable cause is a conclusion that those facts meet the legal 
+criteria for probable cause. So the question for us is whether 
+this finding should be reviewed deferentially, as ordinary 
+findings of fact are, or de novo, as ordinary legal rulings are. 
+
+
+_. . All we are doing today is announcing one standard of 
+review for all reasonable searches. This is not as big a step 
+as it appears at first blush We already review exigent 
+circumstances cases for clear error. See, e.g., United States 
+v. Sewell, 942 F.2d 1209, 1213 (7th Cir. 1991). The same 
+is true of consent cases. See, e.g., United States v. Berk, 
+930 F.2d 1219, 1221 (7th Cir), cert. denied, US _, 
+112 S$ Ct. 269, 116 L.Ed.2d 221 (1991). By our action 
+today we simply bring probable cause-based non-warrant 
+cases in line with the rest of our Fourth Amendment reason- 
+able search jurisprudence. And in line with three of our 
+sister circuits, who likewise review probable cause determi- 
+nations for clear error. See United States v. Fox, 902 F.2d 
+1508, 1513 (10th Cir), cert. denied US. _, Ill 
+S$ Ct. 199, 112 LEd2d 161 (1990), United States v. 
+Williams, 897 F.2d 1430, 1435 (8th Cir 1990), United 
+States v. Santana, 895 F 2d 850, 852 (ist Cir. 1990) 
+United States v. Spears, supra, at 270-271 
+
+
+6 
+
+
+Amici note that, as with the determination of the issues 
+surrounding the prophylactic rule of Miranda v. Arizona, 384 
+U.S. 436 (1966), independent review by appellate courts at both 
+state and federal levels of questions of fact is not only unnec- 
+essary on the basis of Fourth Amendment and Miranda rule 
+jurisprudence, but also unwise from a judicial policy standpoint. 
+The appellate courts simply do not have the resources to re- 
+examine questions of fact in Fourth Amendment cases. Opening 
+the door to de novo review of such issues will open a chapter of 
+judicial involvement in the minutiae of fact issues similar to that 
+plaguing our courts in Miranda cases, as chronicled in the study 
+on the impact of Miranda's prophylactic rule upon the appellate 
+courts in “Miranda v. Arizona—lIs It Worth the Cost?,” 24 
+Calif. Western Law Rev. 185-200 (1987-1988). As amici 
+pointed out in our brief filed with this Court in United States v. 
+Green, 113 S.Ct. 1835 (1993) (petition for certiorari dismissed 
+upon death of respondent), the appellate courts are not only 
+unequipped to deal with such questions of fact, but frequently 
+their chorus of uncoordinated voices leaves the police with 
+virtually no “bright line” guidance on factual issues. 
+
+
+The problem is the same in Fourth Amendment cases as in 
+Miranda prophylactic rule cases. If the Court sanctions de 
+novo review in this case, it will open a large Pandora’s Box of 
+inconsistent appellate rulings in Fourth Amendment cases and 
+leave the police with little or no guidance at the level of the 
+courts in which their work is largely involved, i.e, the sup- 
+pression and trial level courts. It would do disservice to the 
+principle articulated by this Court in Gates, supra, 462 U.S. at 
+232, 103 S.Ct. at 2329, that “probable cause is a fluid concept 
+—turning on the assessment of probabilities in particular factual 
+contexts—not readily, or even usefully, reduced to a set of legal 
+rules.” The Court would introduce into Fourth Amendment 
+jurisprudence the multiplicity of levels of review of essentially 
+fact issues that now exists in Miranda cases. Thompson v. 
+Keohane, 116 S.Ct. 457 (1995). 
+
+
+7 
+
+
+As concluded wisely by the court below: 
+
+In both cases [warrant and warrantless], if there is probable 
+cause, the search is reasonable and does not violate the 
+Fourth Amendment. If there is no probable cause, the 
+factfinder at trial will not consider the evidence, either 
+because the warrant did not issue, or the exclusionary rule 
+operates to keep it out. It is the front-line judicial officer in 
+both cases who conducts the initial inquiry, who concludes 
+there is or is not probable cause, and an appellate panel 
+should not substitute its judgment in either case. 
+
+United States v. Spears, supra, at 271. 
+
+
+Amici submit on behalf of law enforcement officers, 
+administrators, and counsel, that affirmance of the decision 
+below is consonant with established case law, sound judicial 
+policy, and the need to provide law enforcement with bright line 
+rules that can be effectively applied at the street level. To rule 
+otherwise will be to create a new era of confusion and inconsis- 
+tency in Fourth Amendment jurisprudence at the state and 
+federal appellate levels similar to that which presently exists in 
+the area of Miranda's prophylactic rule case law. We respect- 
+fully ask the Court not to launch the nation’s appellate courts 
+upon this fruitless endeavor. 
+
+
+CONCLUSION 
+
+
+Amici urge this Court to affirm the decision of the court 
+below on the basis of the precedents of this Court and sound 
+
+
+judicial policy. 
+
+
+OF COUNSEL: 
+
+MICHAEL P. BARNES, ESQ. 
+Prosecuting Attorney 
+
+South Bend, Indiana 
+
+President 
+
+National District Attorneys 
+Association, Inc. 
+
+99 Canal Center Plaza 
+Suite 510 
+
+Alexandria, Virginia 22314 
+
+
+BERNARD J. FARBER, ESQ. 
+1126 West Wolfram, Rear 
+Chicago, Illinois 60657-4330 
+
+
+Respectfully submitted, 
+
+
+Counsel for Amici Curiae 
+FRED E. INBAU, ESQ. 
+John Henry Wigmore Professor 
+of Law, Emeritus 
+Northwestern University 
+School of Law 
+Chicago, Illinois 60611 
+
+
+WAYNE W. SCHMIDT, ESQ 
+Executive Director 
+Americans for Effective 
+Law Enforcement, Inc. 
+5519 N. Cumberland Ave. 
+Suite 1008 
+Chicago, Illinois 60656 
+
+
+JAMES P. MANAK, ESQ. 
+Counsel of Record 
+421 Ridgewood Avenue, 
+Suite 100 
+Glen Ellyn, Illinois 
+60137-4900 
+Tele and Fax: (708) 858-6392 
+
+

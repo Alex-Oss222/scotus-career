@@ -1,0 +1,3096 @@
+iin_-oaet 
+
+
+__BESTAVAILABLE COPY 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether an order remanding a case to state court based 
+on Burford abstention is reviewable by appeal and not merely 
+by mandamus. 
+
+
+2. Whether an action at law against a private party seeking 
+money damages can present the exceptional circumstances 
+necessary for a federal court to decline to exercise its juris- 
+diction based on the Burford doctrine. 
+
+
+ii 
+LIST OF PARTIES AND RULE 29.6 STATEMENT 
+
+
+The names of all parties in this Court and in the United 
+States Court of Appeals for the Ninth Circuit are contained in 
+the caption. 
+
+
+Respondent is a wholly-owned subsidiary of The Allstate 
+Corporation, a publicly traded corporation. Respondent's non- 
+wholly owned subsidiaries are After Six Holding Corporation, 
+Allstate Automobile & Fire Insurance Company Limited, 
+Gainey Ranch Financial Class A L.P., Saison Life Insurance 
+Company, Ltd., Samshin Allstate Life Insurance Company, 
+Ltd., Saugatuck II Cellular Investment Corp., and Tramed. 
+
+
+TABLE OF CONTENTS 
+PAGE 
+QUESTIONS PRESENTED................... i i 
+LIST OF PARTIES AND RULE 29.6 STATEMENT T 
+TABLE OF CONTENTS........... int 
+TABLE OF AUTHORITIES ....... vi 
+OPINIONS BELOW ....... abeben 
+STATUTES INVOLVED ........... 2 
+STATEMENT OF THECASE......... 2 
+A. Statutory Procedures for Insurance 
+
+RIOUINOTIB. oo cccccccccece: | 3 
+
+1. The Collection and Management 
+Th eek cudcdcncess<ee : 4 
+2. The Claim-Processing Function 5 
+B. The Mission Liquidation. 5 
+C. The Suit Against Allstate 7 
+SUMMARY OF ARGUMENT .... 10 
+SE | ees 13 
+
+
+1. THE DISTRICT COURT'S ORDER 
+REMANDING THE CASE TO STATE COURT 
+WAS REVIEWABLE ON APPEAL......... 13 
+
+
+Il. 
+
+
+iv 
+
+
+A. The District Court's Remand Order Was 
+Appealable as a Final Decision Under 28 
+iin O) BEE sdéccsccecanssssenssesibawoenests 
+
+
+B. Even If the District Court's Remand Order 
+Were Not Final in the Usual Sense, It Would 
+Be Appealable as a Final Collateral Order .. 
+
+
+THE EXTRAORDINARY CIRCUMSTANCES 
+JUSTIFYING BURFORD ABSTENTION 
+CANNOT ARISE IN AN ACTION AT LAW ON 
+
+
+> A QPS ce cecdcecenenssdéecacctadnessescnss: 
+
+
+A. The Burford Doctrine Applies Only to 
+Actions Seeking to Review State Administra- 
+tive Proceedings Where Such Review Would 
+Interfere with State Policymaking Processes 
+On Matters of Distinctively Local Concern . 
+
+
+1. The District Court Had No Discretion 
+to Abstain Because Allstate Sought No 
+IED Bie ccktccecniscctacssecess 
+
+
+2. The District Court Had No Discretion 
+to Abstain Because Allstate Did Not 
+Seek to Interfere with State Policy- 
+GREED cvccceseccoccsvnscccecccesenseoves 
+
+
+B. Neither of the Interests the Liquidator 
+Asserts Here May Defeat Allstate's Right to 
+Invoke the District Court's Diversity 
+PUTIN cccccecocenescncsdccesceecscnscces 
+
+
+PAGE 
+
+
+14 
+
+
+21 
+
+
+24 
+
+
+26 
+
+
+30 
+
+
+36 
+
+
+39 
+
+
+v 
+PAGE 
+|. The Liquidator’s Preference for 
+Consolidated Litigation Cannot Defeat 
+Allstate's Right to Invoke Diversity 
+PEED scndencdencucclbccbcdedscsers 40 
+
+
+2. The Presence of State-Law Issues Cannot 
+Defeat Allstate's Right to Invoke Diversity 
+LE I ee a 45 
+
+
+The District Court Had No Discretion to 
+Abstain in the Face of Allstate's Motion to 
+Compe! Arbitration Under the Federal 
+
+
+FE Se AE I I EE A 48 
+SI 06d cedcadcbenvens abducnodesdbidedasnenads 50 
+0 EEA cee a ae cont era SAE PS la 
+
+
+TABLE OF AUTHORITIES 
+
+Cases PAGE 
+Ainsworth y. Allstate Insurance Co., 634 F. Supp. 
+
+ee Gee Be Sana cncsedanesussssecisodaseenes 48 
+Alabama Public Service Commission v. Southern 
+
+Railway Co., 341 U.S. 341 (1951)................ 27, 29 
+Allied-Bruce Terminix Cos. v. Dobson, 115 S. Ct. 
+
+SED dcddveddecsabicidtcurtnetdeniatiddeds 13, 49, 50 
+Anderson v. Great Republic Life Insurance Co., 41 
+
+Cal. App. 2d 181, 106 P.2d 75 (1940) ............ 37 
+Angoff v. Holland-American Ins. Co. Trust, No. CV87- 
+
+4356 (Mo. Cir. Ct., Jackson Co., May 11, 1995) .. 3 
+Ankenbrandt v. Richards, 504 U.S. 689 (1992)........ 33, 35 
+Bank of Bethel v. Pahquioque Bank, 14 Wall. (81 
+
+es Be cucctndcpetsocnnsneuesetactodanacs 42,44 
+
+
+Ex parte Bradstreet, 7 Pet. (32 U.S.) 634 (1833)...... 18, 19 
+Burford v. Sun Oil Co., 319 U.S. 315 (1943) .9, 10, 25, 26, 27 
+Carnegie-Mellon University v. Cohill, 484 U.S. 343 
+
+
+SE kx. tadducndpabemiasoneantenedssedincenendanin 15,17 
+Catlin v. United States, 324 U.S. 229 (1945).......... 15 
+Clay v. Sun Insurance Office, 363 U.S. 207 (1960) ... 32 
+Cohen v. Beneficial Industrial Loan Corp., 337 U.S. 
+
+I ee eee 11, 14, 21 
+Cohens v. Virginia, 6 Wheat. (19 U.S.) 264(1821).... 25 
+
+
+Coit Independence Joint Venture v. FSLIC, 489 U.S. 
+Sle EE Wdcndarkedstdudadsantubenicnatmneuntal 12, 42, 44 
+
+
+vil 
+PAGE 
+
+Colonial American Life Insurance Co. v. 
+
+Commissioner of Internal Revenue, 491 U.S. 244 
+
+Settee sadsidedecndhasnaibiedwbdudessesccetseosencss< 6 
+Colorado River Water Conservation District v. 
+
+United States, 424 U.S. 800 
+
+Sn dsteingidtiniddiniaienn eiiantiaienes ted 16, 25, 28, 29, 34, 47 
+Commonwealth Trust Co. v. Bradford, 297 U.S. 613 
+
+Et aciteieithartinkalesiideaidiacniauaaieiteaaakmesnanamasenindes ia 44, 45 
+
+
+Coopers & Lybrand v. Livesay, 437 U.S. 468 (1978).. 21 
+Corcoran v. Ardra Insurance Co., 842 F.2d 31 (2d Cir. 
+
+
+Se nescdntececedntdusbdddadescbudeetstunsuasaeess 20, 23 
+Corcoran v. National Union Fire Insurance Co., 143 
+
+A.D. 2d 309, 532 N.Y.S.2d 376 (1988) ........... 37 
+Costle v. Fremont Indemnity Co., 839 F. Supp. 265 
+
+vb eh Eb Achtneaneddecansictecsrnnendesnsoutes 30 
+County of Allegheny v. Frank Mashuda Co., 360 U.S. 
+
+SED adthiuanavhiduaneedaunenedeuscdedeskirss 25, 33 
+Crawford v. Employers Reinsurance Co., 896 F. Supp. 
+
+ee ee SE, Wc ccccdcencasbucauencecesds 37 
+Dean Witter Reynolds Inc. v. Byrd, 470 U.S. 213 
+
+SE cchdbdedtesnudstddesesekuaanbiebasaddasuiéans 49 
+Digital Equipment Corp. v. Desktop Direct, Inc., 
+
+Fee ae Gl GE SUE cnccnsvedcecssecocs 15, 21, 23, 24 
+Donovan v. City of Dallas, 377 U.S. 408 (1964) ...... 40 
+
+
+Doughty v. Underwriters at Lloyd's, London, 6 F.3d 
+SE Giascuss deattunectestecciedsccutes 23 
+
+
+Vili 
+PAGE 
+Duane v. Government Employees Insurance Co., 784 
+
+
+F. Supp. 1209 (D. Md. 1992), aff'd, 37 F.3d 1036 
+(4th Cir. 1994), cert. granted, 115 S. Ct. 1251, 
+
+
+cert. dismissed, 115 S. Ct. 2272 (1995) .......... 30 
+Eagle Life Insurance Co. v. Hernandez, 743 S.W.2d 
+
+671 (Tex. App. 1987) .......2.- ccc eee ee ee eeeeeeees 37 
+Erie R. Co. v. Tompkins, 304 U.S. 64 (1938) .......... 46 
+Fabe v. Columbus Insurance Co., 68 Ohio App. 3d 
+
+226, 587 N.E.2d 966 (1990) .......... 202 e cece eee. 41 
+Fair Assessment in Real Estate Association v. 
+
+McNary, 454 U.S. 100 (1981) ......-.-----6- 33, 34, 35 
+Fornaris v. Ridge Tool Co., 400 U.S. 41 (1970)....... 32 
+Foster v. Chesapeake Insurance Co., 933 F.2d 1207 
+
+(Sed Cie. IDB) 0c cccccccccccscccccseccovccscccceces 21, 
+Fragoso v. Lopez, 991 F.2d 878 (ist Cir. 1993) ....... 30, 39 
+Garamendi v. Caldwell, {1992 Transfer Binder] Fed. 
+
+Sec. L. Rep. (CCH) 4 96,861 (C.D. Cal. 1992)... 41 
+General Atomic Co. v. Felter, 434 U.S. 12 (1977) .... 40 
+Gillespie v. Waite-Hill Assurance, Ltd., No. 87-08504 
+
+RMT (Kx) (C.D. Cal. 1987) ........-6--e cece eeeee 41 
+Grode v. Mutual Fire, Marine & Inland Insurance 
+
+Co., 8 F.3d 953 (3rd Cir. 1994) ........-.- 6-50 eee 34, 46 
+Growe v. Emison, 113 S. Ct. 1075 (1993).............. 32 
+Gulfstream Aerospace Corp. v. Mayacamas Corp., 
+
+GOS OD. SFE CIGTSD cc ccvccsecccscccsccesoscvccces 20 
+H.D. Roosen Co. v. Pacific Radio Publishing Co., 123 
+
+Cal. App. 525, 11 P.2d 873 (1932)...........-+5. 50 
+
+
+ix 
+PAGE 
+
+Harrington v. Haller, 111 U.S. 796 (1884) ............ 19 
+Harrison v. St. Louis & S.F.R. Co., 232 U.S. 318 
+
+PIE onde dsawibibvvenecdasedudddhuscsdesssaccers 40 
+Hawaii Housing Authority v. Midkiff, 467 U.S. 229 
+
+SPE se cbuvendbndsivecvbdesedvenesevedssscecseesss 25 
+Helvering v. Therrell, 303 U.S. 218 (1938)............ 37 
+Idlewild Bon Voyage Liquor Corp. v. Epstein, 370 
+
+| RCN hae ee Re aaa 16 
+
+
+Insurance Co. v. Comstock, 16 Wall. (83 U.S.) 258 
+Nin iiiadiaiedtididcndibendat adc he 18, 19 
+
+
+Johnson v. Jones, 115 S. Ct. 2151 (1995).............. 22 
+Karl Koch Erecting Co. v. New York Convention 
+
+Center Development Corp, 838 F.2d 656 
+
+SE Ee 21 
+Kentucky v. Dennison, 24 How. (65 U.S.) 66 
+
+SPU bhtiiubedees vennhsiahnbcnticensecseeceoscssy< 19 
+
+
+Kinder v. Superior Court (Market Insurance Corp.), 
+78 Cal. App. 3d 574, 144 Cal. Rptr. 291 (1978). . 36, 43 
+
+
+The King v. Justices of Gloucestershire, | B. & A. 
+
+
+1, 109 Eng. Rep. 688 (K.B. 1830) ................ 18 
+Matter of Kinney (Miller), 257 A.D. 496, 14 N.Y.S.2d 
+
+11, aff'd, 281 N.Y. 840, 24 N.E.2d 494 (1939)... 37 
+Kline v. Burke Construction Co., 260 U.S. 226 
+
+AE re Se Rene nena paee ae 13, 24, 43 
+
+
+Langnes v. Green, 282 U.S. 531 (1931)................ 34 
+
+
+Louisiana Power & Light Co. v. City of Thibodaux, 
+SEP ccunchadavcdseeseceucedcbus 32, 33, 35 
+
+
+PAGE 
+Lumbermen's Mutual Casualty Co. v. Elbert, 348 U.S. 
+
+OD Cink cccc i cncccesnéacsedcscswencetvcenss 27, 28, 39 
+Maloney v. Rhode Island Insurance Co., 115 Cal. 
+
+App. 2d 238, 251 P.2d 1027 (1953)...........+++. 36 
+Markham v. Allen, 326 U.S. 490 (1946) ............55. 44 
+Martin v. Wilks, 490 U.S. 755 (1989)... ..... 6.6 e eens 40 
+Mastrobuono v. Shearson Lehman Hutton, Inc., 115 S. 
+
+Go, RSID CIGTSD onvccccdccecccccasccecstescsscoeces 48 
+
+
+McDermott International, Inc. v. Lloyd's Underwriters 
+of London, 944 F.2d 1199 (Sth Cir. 1991)........ 21, 23 
+
+
+McNeese v. Board of Education, 373 U.S. 668 (1963). 46 
+Meredith v. City of Winter Haven, 320 U.S. 228 
+
+
+CODED ooo cidcieviidcdddanccunnencecuswenececcassenes 12, 46 
+Midland Asphalt Corp. v. United States, 489 U.S. 
+
+FOS CRGBD) oo cccccccncceccscccsscesccesaccsecsceess 21 
+Milk ‘N’ More, Inc. v. Beavert, 963 F.2d 1342 (10th 
+
+Cie, GOED aces nccucadeincncdandccccccccssccnsensons 22 
+
+
+Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, 
+Inc., 473 U.S. 614 (1985) ....... 26. cece cence eee ees 48 
+
+
+Morris v. Jones, 329 U.S. 545 (1947) ..... 12. 42, 43, 44, 45 
+
+
+Moses H. Cone Memorial Hospital v. Mercury 
+Construction Corp., 460 U.S. 1 (1983).........-. passim 
+
+
+Nassau Square Associates v. Insurance Commissioner 
+of California, 579 So. 2d 259 (Fla. App. 1991).. 42 
+
+
+New Orleans Public Service Inc. v. Council 
+of City of New Orleans (NOPSI), 491 U.S. 350 
+CRDGOD ceccceccescss seeks ebGden GheAdsswendsouneee passim 
+
+
+xi 
+PAGE 
+Ex parte Newman, 14 Wall. (81 U.S.) 152 (1872)..... 18 
+North River Insurance Co. v. Allstate Insurance Co., 
+866 F. Supp. 123 (S.D.N.Y. 1994) ................ 48 
+
+
+Oakbrooke Associates, Ltd. v. Insurance Commissioner 
+of California, 581 So. 2d 943 (Fla. App. 1991).. = 41 
+
+
+Ex parte Parker, 120 U.S. 737 (1887) ................. 18 
+Parker, petitioner, 131 U.S. 221 (1889)............... 18 
+Pelleport Investors v. Budco Quality Theatres, 741 
+
+Peete Pe GONG WED hve cnedceccevecccscccccvcs 22 
+Penn General Casualty Co. v. Pennsylvania ex rel. 
+
+Schnader, 294 U.S. 189 (1935)........... 40, 43, 44, 45 
+In re Pennsylvania Co., 137 U.S. 451 (1890).......... 18 
+Pennsylvania v. Williams, 294 U.S. 176 (1935) ...40, 44, 45 
+Perry v. Thomas, 482 U.S. 483 (1987)................. 50 
+Prima Paint Corp. v. Flood & Conklin Manufacturing 
+
+Seg FOO Wels BO COMED wn vcncnscncesctecdesccess 48 
+Princess Lida v. Thompson, 305 U.S. 456 (1938) ..... 44 
+Propper v. Clark, 337 U.S. 472 (1948) ................ 46 
+
+
+Prudential Reinsurance v. Superior Court 
+(Garamendi). 3 Cal.4th 1118, 842 P.2d 48, 14 
+Cal. Rptr. 749 (Cal. 1992) ............. 4, 38, 46, 47, 49 
+
+
+Railroad Co. v. Wiswall, 23 Wall. (90 U.S.) 507 
+RRR EL RS ee eee eee ee 17, 18, 19, 20 
+
+
+Railroad Commission v. Pullman, 312 U.S. 496 
+EI San LA y= ae ee hee eae 16, 32 
+
+
+xi 
+PAGE 
+Regis Associates v. Rank Hotels ( Management) Ltd., 
+
+894 F.2d 193 (6th Cir. 1990)...... 0.6. - cece eee ees 22 
+Riehle v. Margolies, 279 U.S. ZIS (CIDA) «0. vccccccees 42,44 
+Rosenberg Brothers & Co. v. Curtis Brown Co., 260 
+
+U.S. 516 (1923)... 2... ccc cece cece eee e cere eeeeeeeees 14, 20 
+Ex parte Russell, 13 Wall. (80 U.S.) 664 (1871) ...... 18, 19 
+Salve Regina College v. Russell, 499 U.S. 225 (1991) 46 
+Ex parte Schollenberger, 96 U.S. 369 (1878) ......... 19 
+Southland Corp. v. Keating, 465 U.S. 1 (1984)......-. 50 
+
+
+Sowell v. Federal Reserve Bank, 268 U.S. 449 (1925) 43 
+
+
+Stainback v. Mo Hock Ke Lok Po, 336 U.S. 368 
+(1949) 2... cccccccccccccccccecscccecccercsvsnneress 31 
+
+
+Taylor v. Freeland & Kronz, 503 U.S. 638 (1992)..... 35 
+
+
+Texas Commerce Bank-El Paso v. Garamendi, 28 Cal. 
+App. 4th 1234, 34 Cal. Rptr. 2d 155 (1994) ..37, 38, 49 
+
+
+Thermtron Products, Inc. v. Hermansdorfer, 423 U.S. 
+
+
+336 (1976) ........cceeeceeececcees 10, 13, 17, 18, 20, 21 
+Things Remembered, Inc. v. Petrarca, 64 U.S.L.W. 
+
+4035 (1995) 22... . cece cece cence eee eee eteeneeneeeees 10, 14 
+Todd v. DSN Dealer Service Network, Inc., 861 F. 
+
+Supp. 1531 (D. Kan. 1994) .........0eeeeeee renee 30 
+Travelers Insurance Co. v. Keeling, 996 F.2d 1485 
+
+(2d Cir. 1993) ......ccceeeeeeeeee reece eeeeeeenenees 23 
+
+
+Tribune Co. v. Abiola, 66 F.3d 12 (2d Cir. 1995)...... 30, 39 
+
+
+xili 
+
+
+PAGE 
+Underwriters National Assurance Corp. v. North 
+
+Carolina Life Insurance Guarantee Association, 
+
+GBS DB. GHE CIGEED cccccccccccccevccscscccccsccss 40 
+United Gas Pipe Line Co. v. Ideal Cement Co., 369 
+
+FRY), rrr rrr rrr rere 32 
+United Labor Life Insurance Co. v. Pireno, 458 U.S. 
+
+SG nc sctdsnccccdvcncusczescecccessenssesces 35 
+United States v. Bank of New York & Trust Co., 296 
+
+TD, BD GI occ vcnnevcccccesecsesscsvccscesces 43,44 
+United States v. Klein, 303 U.S. 276 (1938)........... 42 
+United States Department of Treasury v. Fabe, 
+
+The Bo > Tl.) errr 35 
+Universal Reinsurance Corp. v. Allstate Insurance 
+
+Co., 16 F.3d 125 (7th Cir. 1994).............6005 48 
+University of Maryland v. Peat Marwick Main & Co., 
+
+923 F.2d 265 (3d Cir. 1991)...........-- cece ee eees 30 
+Waco v. United States Fidelity & Guaranty Co., 293 
+
+TLD, BEERS cence verscccscosessnsdeescnvesssee 15 
+Webster v. Superior Court (Gillespie), 46 Cal. 3d 338, 
+
+758 P.2d 596, 250 Cal. Rptr. 268 (1988).......... 4] 
+Weinberger v. Romero-Barcelo, 456 U.S. 305 (1982). 29 
+Wilton v. Seven Falls Corp., 115 S. Ct. 2137 (1995)... = 31 
+
+Statutes 
+
+
+Federal Arbitration Act, 9 U.S.C. 
+et BOND vusunadavecees 8, 9, 16, 23, 25, 30, 46, 48, 49, 50 
+
+
+McCarran-Ferguson Act, 15 U.S.C. 
+OO GEOR TRESS «occ vcscescveccsccoversccsenccsss 34, 35, 50 
+
+
+XIV 
+
+
+PAGE 
+28 U.S.C. § 1291..........- 10, 11, 13, 14, 15, 17, 20, 21, 22 
+28 U.S.C. § 1292(a)(1).....- cece cece een e eee e eee enees 20 
+2B U.S.C. § 1331... ce cece cece cree en enn erteneeeceeeees 8 
+2B U.S.C. § 1332.2... cc cececernececerececeeees 8, 10, 24, 30 
+2B U.S.C. § 1441.20... cc cece cece een e ne reeeeeceeerees 24, 30 
+28 U.S.C. § 1441(c) (1988 ed.) «2... - eee e eee reece ee 8 
+28 U.S.C. § 1447.........ccccecccrcscccecees 10, 11, 13, 14, 17 
+28 U.S.C. § 2072(b)...... cece eee e eee e cree eee ten eneenees 31 
+2B U.S.C. § 2201... 2... cece cere ec eneenneeeeencereunees 31 
+42 U.S.C. § 19B3....... cc ccceccececccrecsecereeeseeeers 33 
+43 U.S.C. § 666 ... 2... cece cece cee e eee e renee enn eenenes 34 
+Cal. Code Civ. Proc. §§ 22-23 ........----e eee eeeeeees 36 
+Cal. Ins. Code §§ 1010-1062 .........---0:e cece neers 36, 37 
+Cal. Ins. Code § 1011 .........--- eee eee reece cree eeeeees 3 
+Cal. Ins. Code § 1016 ..........-.-- eee cece e cere ee eeeees 3 
+Cal. Ins. Code § 1021 .........---. ee eee cree eeeeeeeeeeee 5 
+Cal. Ins. Code § 1031.........- 2. cece eee eeeeeees 4, 8, 34, 46 
+Cal. Ins. Code § 1032 .........----e eee ceee ee eeeeeeees 5 
+Cal. Ins. Code § 1033 ........----- eee eee cece ee eeeeeeees 5, 38 
+Cal. Ins. Code § 1035 .........---- eee cers eeeeeeeeees 4, 38 
+Cal. Ins. Code § 1035.5 .......---.-eeeeeeeeeeeeeeeeeees 5 
+Cal. Ins. Code § 1037 ........---.e eee ce cere reeeeeees 4, 36,41 
+Cal. Ins. Code § 1057 .......----- cece cece reece eeeeeeees 3,37 
+
+
+XV 
+
+
+Cal. Ins. Code § 1058 
+Cal. Ins. Code §§ 1063-1063.15 ....................... 5 
+Cal. Ins. Code §§ 1064.1-1064.12.................... 3,4, 42 
+
+
+Cal. Ins. Code § 1125, added by Act of Oct. 12, 1995, 
+
+
+ch. 843, § 1, 1995 Cal. Adv. Legis. Serv. 4994, 
+ET aubbicetucccescscedecssediveavece 3 
+
+
+Uniform Insurers Liquidation Act, 13 U.L.A. 32] 
+(1986) 
+
+
+Other Authorities 
+
+
+Grant Gilmore & Charles L. Black, Jr., The Law of 
+Admiralty §§ 10-8, 10-17.....................00-. 34 
+
+
+Ronald A. Jacks, Arbitration and Insurer Insolvencies, 
+
+
+in ABA, Law and Practice of Insurance Company 
+BURG CPERGY BOW CIGGOD cc cc ccesccscccccccesccnccces 48 
+
+
+Henry T. Kramer, The Nature of Reinsurance 4-6, in 
+Reinsurance (Robert W. Strain ed. 1980)......... 6 
+
+
+P. Phillips, The Statutory Jurisdiction and Practice of 
+
+
+the Supreme Court of the United States 276 (2d 
+Pekar tend ctescrdedesbusscakineadeteeseeeen: 18,19 
+
+
+Prefatory Notes to Uniform Insurers Liquidation Act, 
+SP SE ED von wes chcduddsbaesckdeiceders 4,42 
+
+
+David L. Shapiro, Jurisdiction and Discretion, 60 
+N.Y.U. L. Rev. $43, 370-77 (1965) ...........02+. 25 
+
+
+Richard R. Spencer, Jr., Obligations of Guarantee 
+Associations, in ABA, Law and Practice of 
+
+
+Insurance Company Insolvency Revisited 535 
+Ss shvGsd mush cadeseccecechurnehacbesrsdadcdess 5 
+
+
+xvi 
+
+
+— IN THE 
+Subcommittee on Oversight and Investigations, House Supreme Court of the United States 
+Committee on Energy and Commerce, Failed 
+Promises: Insurance Company Insolvencies, OCTOBER TERM, 1995 
+Committee Print 101-P, 101st Cong., 2d Sess. sn ones 
+(1990) ....ccccccccccccoseceesseseennennnn=n===—EEEE 6, 38 
+eo 
+Edson R. Sunderland, The Problem of Appellate 
+Review, 5 Tex. L. Rev. 126, 129-130 (1927) ..... 19 CHUCK QUACKENBUSH. I afi atin iat Gan 
+
+
+of California, in His Capacity as Liquidator and Trustee of 
+the Mission Insurance Company Trust, Mission National 
+Insurance Company Trust, Enterprise Insurance Company 
+Trust, Holland-America Insurance Company Trust and 
+Mission Reinsurance Corporation Trust, 
+
+
+Wright, Miller & Cooper, Federal Practice and 
+Procedure § 3914.11 (2d ed. 1992) ............... 20 
+
+
+Petitioner. 
+
+
+Yn 
+
+
+ALLSTATE INSURANCE COMPANY, 
+
+
+Respondent 
+
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES 
+COURT OF APPEALS FOR THE NINTH CIRCUIT 
+
+
+>. 
+
+
+BRIEF OR RESPONDENT 
+
+
+Respondent Allstate Insurance Company submits this brief 
+to urge affirmance of the judgment below. 
+
+
+OPINIONS BELOW 
+
+
+The order of the District Court remanding the case to state 
+court (Pet. App. 13a-34a) is unpublished. The order of the 
+Court of Appeals denying petitioner's motion to dismiss the 
+
+
+2 
+
+
+appeal (Br. Opp. Pet. App. la-2a) is unpublished. The opin- 
+ion of the Court of Appeals on appellate jurisdiction and the 
+merits (Pet. App. la-12a) is reported at 47 F.3d 350. The 
+order of the Court of Appeals denying rehearing (Pet. App. 
+35a-37a) is unpublished. 
+
+
+STATUTES INVOLVED 
+
+
+The federal statutes involved in this case are the provisions 
+of the Judicial Code governing diversity and removal juris- 
+diction, 28 U.S.C. §§ 1332(a), 1441(a) (Pet. App. 115a); the 
+Federal Arbitration Act, 9 U.S.C. §§ 1-16 (Br. Opp. Pet. App. 
+4a-12a); and the provision governing appeals from final deci- 
+sions of the District Courts, 28 U.S.C. §1291 (App. la 
+hereto). The state statutes involved are Article 14 of the 
+California Insurance Code, governing Proceedings in Cases 
+of Insolvency and Delinquency, Cal. Ins. Code §§ 1010- 
+1062 (Pet. App. 59a-86a); and Article 14.3 of the California 
+Insurance Code, which is known as the Uniform Insurers 
+Rehabilitation (or Liquidation) Act, Cal. Ins. Code 
+§§ 1064.1-1064.12 (Pet. App. 105a-114a). 
+
+
+STATEMENT OF THE CASE 
+
+
+This ts a civil action for money damages commenced by 
+petitioner, the California Insurance Commissioner acting as 
+Liquidator and Trustee for the Mission group of insurance 
+companies (the “Liquidator”), against respondent Allstate 
+Insurance Company (“Allstate”). J.A. 35-61. The Mission 
+companies (collectively, “Mission”) had previously been 
+piaced in conservatorship and later in liquidation on grounds 
+of their hazardous financial condition. Pet. App. 116a-121a; 
+J.A. 8-34. 
+
+
+3 
+
+
+A. Statutory Procedures for Insurance Liquidations. 
+
+
+Under California law, when an insurer doing business 
+within the state becomes insolvent, the Insurance Commis- 
+sioner may apply to the Superior Court for an order autho- 
+rizing the Commissioner, as conservator, to take possession of 
+the insurer's books and property and to conduct its business. 
+Cal. Ins. Code §§ 1011, 1064.2(c). If efforts to rehabilitate the 
+company would be futile, the Commissioner may apply to the 
+court for an order authorizing him or her to liquidate and 
+wind up the insurer's business. /d. § 1016. An order appoint- 
+ing the Commissioner as conservator or liquidator of an insol- 
+vent insurer vests in the Commissioner title to all the insurer's 
+assets. Jd. §§ 1011, 1064.2(a)-(b). In that capacity, he or she 
+is “deemed to be a trustee for the benefit of all creditors and 
+other persons interested in the estate” of the insolvent insurer. 
+Id. § 1057. 
+
+
+Because most insurance companies do business in more 
+than one state, they can be subject to multiple receiverships. 
+Under the Uniform Insurers Liquidation Act (the “Uniform 
+Act”), 13 U.L.A. 321 (1986), enacted in California as Cal. 
+Ins. Code §§ 1064.1-1064.12, the receiver in the state where 
+the insolvent insurer is domiciled takes title to the insurer's 
+assets wherever located. /d. §§ 1064.2(b), 1064.3(b).' 
+
+
+' ‘The term “receiver” is used to refer to conservators, rehabili- 
+tators and liquidators generically. See Cal. Ins. Code § 1064. 1(k). Under 
+the Uniform Act, receivers appointed in states other than the state of 
+domicile perform certain functions as “ancillary receivers” with respect 
+to assets and claimants located in their respective states. Cal. Ins. Code 
+§§ 1064.2(b), 1064.3(b). See also Cal. Ins. Code § 1125, added by Act of 
+Oct. 12, 1995, ch. 843, § 1, 1995 Cal. Adv. Legis. Serv. 4994, 4995-5006 
+(West) (enacting Interstate Insurance Receivership Compact). Indeed, 1t 
+appears that the Liquidator serves as ancillary receiver of Holland-Amer- 
+ica Insurance Company. one of the entities on whose behalf he brings this 
+action, as that company was a Missouri corporation, J.A. 8, 23, and ami- 
+cus Missouri Director of Insurance serves as domiciliary liquidator 
+Angoff v. Holland-America Ins. Co. Trust, Notice of Order, No. CV87- 
+4356 (Mo. Cir Ct., Jackson Co., May 11, 1995). 
+
+
+4 
+
+
+1. The Collection and Management Function. 
+
+
+The Commissioner, as conservator or liquidator of an insol- 
+vent insurer, is responsible for conserving the insurer's assets 
+and conducting its business and affairs. Cal. Ins. Code 
+§§ 1037(a), 1064.2(c). To assist in that task, the Commis- 
+sioner is specifically authorized to hire special deputies, 
+counsel, clerks and assistants, all of whom are paid out of the 
+assets of the insolvent insurer, and to delegate to them such 
+powers as he or she deems necessary. /d. §§ 1035, 1064.2(c). 
+
+
+The conservator or liquidator is required to collect all debts 
+due and claims belonging to the insurer, id. § 1037(b), but has 
+the authority to settle claims “upon such terms and conditions 
+as the commissioner shall deem to be most advantageous to 
+the estate of the person being administered or liquidated,” id. 
+§ 1037(c). With respect to such debts and claims, the Cali- 
+fornia Insurance Code codifies and preserves the right of 
+setoff, i.e., the principle that a party owing money to an insol- 
+vent entity may ordinarily deduct from the debt any amount 
+that the insolvent entity owes that party. /d. § 1031.” 
+
+
+For the purpose of collecting debts and performing his or 
+her other duties, the conservator or liquidator is empowered 
+to “prosecute and defend any and all suits and other legal pro- 
+ceedings” involving the insolvent insurer. Jd. § 1037(f). Under 
+the Uniform Act, the liquidator or conservator from an insol- 
+vent insurer's state of domicile may sue on behalf of the 
+insurer in the courts of any state. See id. §§ 1064.2(b), 
+1064.3(b), 1064.10; Prefatory Note, 13 U.L.A. at 323. 
+
+
+* ‘The California Supreme Court explained in Prudential Rein- 
+surance v. Superior Court (Garamendi), 3 Cal.4th 1118, 1142, 842 P.2d 
+48. 63. 14 Cal. Rptr. 749, 764 (1992), that “[o}ffsetting debts not only 
+spreads risk but also acts as mutual security for performance,” thus 
+
+
+enhancing the ability of smaller insurers, in particular, to survive and 
+compete 
+
+
+5 
+
+
+2. The Claim-Processing Function. 
+
+
+Besides managing the insolvent insurer's assets and col- 
+lecting debts owed to it, the other principal statutory function 
+of a liquidator is to process and pay claims of the insurer's 
+creditors. Creditors of the insurer are sent notice and have six 
+months to file proofs of claim with the liquidator. Cal. Ins. 
+Code § 1021(a). If the liquidator rejects a claim, the claimant 
+may apply to the court for allowance of the claim. /d. § 1032. 
+Funds from the insolvent insurer's estate are distributed to the 
+creditors of the estate according to priorities established by 
+statute. Jd. § 1033. General creditors’ claims are subordinated 
+by statute to policyholder and guarantee association claims. 
+Id. § 1033(a)(6).’ 
+
+
+B. The Mission Liquidation. 
+
+
+On November 26, 1985, the California Insurance Com- 
+missioner obtained orders from the Superior Court in Los 
+Angeles placing Mission Insurance Company and four of its 
+affiliates in conservatorship. Pet. App. 116a-118a, J.A. 8-19. 
+
+
+> In a liquidation, most policyholder claims against an insolvent 
+insurer are paid not by the insolvent insurer itself but are covered by the 
+California Insurance Guarantee Association, see Cal. Ins. Code §§ 1063- 
+1063.15, and similar guarantee associations in other states. See generally 
+Richard R. Spencer, Jr., Obligations of Guarantee Associations, in ABA, 
+Law and Practice of Insurance Company Insolvency Revisited 535 
+(1989). With respect to a “covered claim,” see Cal. Ins. Code § 1063. 1(c), 
+the Guarantee Association assumes the insolvent insurer's duties under 
+the insurance policy. /d. § 1063.2. The Association then is deemed to be 
+an assignee of the policyholder’s mghts against the insolvent insurer, id. 
+§ 1063.4(b), and its claims (and claims of similar associations in other 
+states) have equal priority with policyholders’ uncovered claims, id. § 
+1033(a)(5). The liquidation statute provides the various state guarantee 
+associations early access to their expected share of the insolvent insurer's 
+estate. Jd. § 1035.5(a). The Guarantee Association obtains funds by 
+assessing premiums against its members, id. § 1063.5, which consist of 
+the insurance companies licensed to do business in the state, id. 
+§ 1063(a). 
+
+
+6 
+
+
+On February 24, 1987, the same court issued liquidation 
+orders for these companies. Pet. App. 119a, 121a, J.A. 23-34.‘ 
+
+
+In the Mission conservation and liquidation proceedings, 
+the Liquidator has requested and obtained at least eleven sep- 
+arate orders from the California Superior Court expressly 
+authorizing him “to initiate such equitable or legal actions or 
+proceedings in this or other states as may appear to him nec- 
+essary to carry out his functions as Liquidator [or Conserva- 
+tor].” Pet. App. 118a, 121a; J.A. 10, 13, 16, 19, 22, 25, 28, 
+31, 34 (emphasis added). Those orders also state that all per- 
+sons are enjoined from, among other things, interfering with 
+the “possession, titie and rights” of the Liquidator “in and to 
+the assets of Respondent,” and from “instituting or prose- 
+cuting any action or proceeding against” the Mission com- 
+panies or their Liquidator without the consent of the court. 
+Pet. App. 117a, 120a; J.A. 9, 12, 15, 18, 24, 27, 30, 33. 
+
+
+Pursuant to the liquidation orders, the Liquidator com- 
+menced the winding up of the Mission companies’ business. 
+Allstate has filed claims with the Liquidator for amounts 
+the Mission companies owed it under various reinsurance 
+contracts.° 
+
+
+* — The Liquidator improperly includes in his Statement of the Case 
+numerous allegations of fact that have no support in the record, includ- 
+ing the repeated charge that Mission's reinsurers caused its insolvency. 
+That allegation is irrelevant to the issues before the Court; in any event, 
+if made against Allstate, it would be vigorously denied. See Subcomm. 
+on Oversight & Investigations of House Comm. on Energy & Commerce, 
+Failed Promises: Insurance Company Insolvencies, Committee Print 101- 
+P, 101st Cong., 2d Sess., 11-19 (1990) (Mission's inslovency is “tale of 
+reckless and incompetent management”). 
+
+
+. Reinsurance is insurance for insurance companies. Reinsurance 
+
+
+permits an insurer to spread its insurance risk by assigning (or “ceding”) 
+portions of the risk to other insurance companies acting as reinsurers in 
+exchange for a share of the premiums. See generally Colonial Am. Life 
+Ins. Co. v. Commissioner of Internal Revenue, 491 U.S. 244, 246-247 
+(1989), Henry T. Kramer, The Nature of Reinsurance 4-6, in Reinsurance 
+(Robert W. Strain ed. 1980). As is common in the industry, Mission both 
+
+
+C. The Suit Against Allstate 
+
+
+On February 9, 1990, the Liquidator filed the present suit 
+against Allstate in the California Superior Court for Los 
+Angeles County. J.A. 35-61. The complaint includes two 
+counts: for damages for alleged breach of certain reinsurance 
+contracts, and for a declaratory judgment that Allstate is obli- 
+gated to “pay or make provision to pay” the money allegedly 
+owed under those contracts. J.A. 51-53.° 
+
+
+The Liquidator’s claims against Allstate arise under several 
+thousand separate reinsurance contracts entered into between 
+Allstate and some of the Mission companies between 1961 
+and 1985. J.A. 98. Virtually all of these reinsurance contracts 
+contain agreements providing that disputes arising under the 
+contracts shall be settled by arbitration.’ 
+
+
+provided reinsurance to other companies and sought reinsurance for its 
+own obligations. Pet'r Br. 2, 5, 10 & n.25, 12 & n.30. Allstate notes that 
+the two proofs of claim seeking “contingent and undetermined” amounts 
+included in the Joint Appendix, J.A. 153-164, were not part of the record 
+in the District Court, were attached to the Liquidator’s Petition for 
+Rehearing in the Court of Appeals over Allstate's objection, J.A. 177 1.4, 
+and have since been superseded in the liquidation proceeding. 
+
+
+The complaint also asserts the same claims against 19 other 
+named reinsurers and 1000 alleged reinsurers denominated “Does | 
+through 1000.” J.A. 51-53. It asserts tort claims against “Does 500 
+through 1000,” but not against any named defendants. J.A. 53-59. 
+Together with the Complaint, the Liquidator filed a Notice of Related 
+Cases, seeking to have this suit assigned to Judge Kurt J. Lewin, to whom 
+the Mission liquidation proceeding, as well as ar earlier suit against a 
+number of Mission's reinsurers, had been assigned. J.A. 62-63. 
+
+
+7 Reinsurance “treaties” cover large classes of business, “facul- 
+
+
+tative certificates” cover single risks. Clauses providing for binding arbi- 
+tration are contained in each of the approximately 26 treaties ceding risks 
+from Mission to Allstate, and each of the approximately 41 treaties ced- 
+ing risks from Allstate to Mission. J.A. 97-98. The remaining contracts 
+at issue are facultative certificates, almost all of which also contain 
+agreements for binding arbitration. J.A. 97, 99. 
+
+
+Allstate has served no answer in the action and therefore 
+has not had occasion to state its defenses. Allstate believes 
+that approximately $7 million in reinsurance balances is 
+claimed by Mission under the contracts, subject to the 
+defenses and setoffs that Allstate may assert. Allstate disputes 
+the validity of these claims and intends to assert, among other 
+defenses, that it is entitled to set off against these claims 
+approximately $24 million in reinsurance balances that is due 
+to Allstate from Mission as Allstate’s reinsurer under other 
+contracts. Cal. Ins. Code § 1031.* 
+
+
+On August 2, 1990, Allstate timely removed the Liquida- 
+tor’s breach of contract suit to the United States District 
+Court for the Central District of California based on diversity 
+of citizenship.’ Allstate then moved under the Federal Arbi- 
+tration Act, 9 U.S.C. §§ 1 et seq., to compel arbitration under 
+the reinsurance agreements and to stay the litigation pending 
+arbitration. J.A. 77. The Liquidator moved to remand the case 
+to state court based on abstention and lack of jurisdiction. 
+
+
+. Some of the contracts name Northbrook Insurance Company, 
+
+
+which later changed its name to Northbrook Excess and Surplus Insur- 
+ance Company (“NESCO"”), as the ceding insurer. NESCO, a former sub- 
+sidiary of Allstate, was merged into Allstate in January 1985, and 
+Allstate assumed all of NESCO's assets and liabilities. J.A. 96-97. 
+
+
+% Allstate's co-defendant Insurance Company of North America 
+
+
+(“INA”) also joined in the motion. Allstate and INA, which were the only 
+two defendants served with process, Pet. App. 15a, removed the action 
+to federal court on the ground that there was diversity of citizenship 
+between themselves and the Liquidator, 28 U.S.C. § 1332(a), and that the 
+claims asserted against Allstate and INA were separate and independent 
+of the claims against nondiverse defendants, permitting removal under 28 
+U.S.C. § 1441(c) (1988 ed.), which had not yet been amended to limit 
+such removals to claims giving rise to federal-question jurisdiction under 
+28 U.S.C. § 1331. J.A. 73, 76. The Liquidator subsequently filed a notice 
+of dismissal of all defendants except Allstate and INA, and Allstate and 
+INA then filed a supplemental notice of removal based on complete 
+diversity between the Liquidator and themselves as the only remaining 
+defendants. J.A. 111-115. INA later settled and was dismissed from the 
+case. 
+
+
+Without deciding Allstate’s arbitration motion, the District 
+Court entered an order remanding the case to the state court. 
+Pet. App. 13a-34a. The District Court concluded that it had 
+jurisdiction but should abstain from exercising that jurisdic- 
+tion under Burford v. Sun Oil Co., 319 U.S. 315 (1943). 
+Although Allstate had not filed an answer to the complaint, 
+the District Court relied heavily on its expectation that the 
+central issue in the case would be Allstate’s anticipated 
+defense of setoff and its understanding that the state-court 
+judge had previously dealt with setoff issues in connection 
+with the Mission insolvency. Pet. App. 14a-15a, 25a-26a, 31a, 
+33a, 34a. It ignored Allstate’s argument, among others, that 
+abstention was inappropriate in the face of a motion under the 
+Federal Arbitration Act.'° 
+
+
+Allstate filed a timely appeal from the remand order to the 
+United States Court of Appeals for th ‘inth Circuit.'' The 
+Liquidator filed a motion to dismiss the appeal, which was 
+denied. Br. Opp. Pet., App. la-2a. On February 2, 1995, a 
+unanimous panel of the Court of Appeals reversed the District 
+Court's order of remand. Garamendi v. Allstate Ins. Co., 47 
+F.3d 350, Pet. App. la-12a. 
+
+
+After holding “that a remand order based on abstention” is 
+“a final collateral order that is reviewable on appeal,” 47 F.3d 
+at 353, Pet. App. Sa-6a, citing Moses H. Cone Memorial Hos- 
+pital v. Mercury Construction Corp., 460 U.S. 1, 11-13 
+(1983), the Court of Appeals then concluded that abstention 
+was not appropriate in this case. The court reasoned that the 
+Burford doctrine, which finds its justification in the discre- 
+tionary powers of a federal court sitting in equity, should not 
+
+
+od Def. Mem. of Law in Opp. to Motion to Remand, 22, 23, Def. 
+Supp. Mem. of Law Respecting Motion to Remand, 7. 
+
+
+ue Allstate requested, in the alternative, that its appeal be treated 
+as a petition for writ of mandamus if that Court found that it lacked 
+appellate jurisdiction. App’t Opening Br. 2, n. 1; App’t Br. Opp. Motion 
+to Dismiss Appeal 11-12 & n.6. 
+
+
+10 
+
+
+be extended to actions at law for the recovery of contract 
+damages. 47 F.3d at 354-56, Pet. App. 8a-12a. 
+
+
+On February 16, 1995, the Liquidator filed a petition for 
+rehearing and suggestion for rehearing en banc, which the 
+Court of Appeals denied on May 19, 1995. Pet. App. 35a-36a. 
+On August 11, 1995, the Liquidator petitioned this Court for 
+a writ of certiorari, which the Court granted on October 16, 
+1995. 116 S. Ct. 334. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+This case is about the duty of the federal courts to exercise 
+the jurisdiction conferred on them by Congress. The Courts of 
+Appeals have appellate jurisdiction over appeals from all 
+“final decisions” of the District Courts. 28 U.S.C. § 1291. The 
+District Courts have original jurisdiction over cases between 
+parties of diverse citizens’.ip. 28 U.S.C. § 1332. In both 
+instances, the federal courts lack the authority to refuse to 
+exercise the jurisdiction that Congress has conferred. E.g., 
+New Orleans Public Service Inc. v. Council of City of New 
+Orleans (“NOPSI”), 491 U.S. 350, 359 (1989). 
+
+
+I. Because the District Court remanded the case to state 
+court based on the nonstatutory ground of abstention under 
+Burford v. Sun Oil Co., 319 U.S. 315 (1943), it is uncontested 
+that the bar to appellate review of statutory remand orders, 28 
+U.S.C. § 1447(d), does not apply. Things Remembered, Inc. v. 
+Petrarca, 64 U.S.L.W. 4035 (U.S. 1995); Thermtron Prods., 
+Inc. v. Hermansdorfer, 423 U.S. 336 (1976). Appellate juris- 
+diction is therefore governed solely by the principles of final- 
+ity embodied in 28 U.S.C. § 1291. 
+
+
+A remand based on the Burford doctrine satisfies the most 
+basic principles of finality because it ends the litigation in the 
+District Court and leaves that court with nothing further to do. 
+Because the remand order here put Allstate “effectively out of 
+federal court”—indeed, put Allstate expressly and literally 
+
+
+11 
+
+
+out of federal court—it was final and appealable under 
+§ 1291. Moses H. Cone Mem. Hosp. v. Mercury Constr. Corp., 
+460 U.S. 1, 9 (1983). 
+
+
+The suggestion in Thermtron that a remand order is not 
+final, which was made without the benefit of briefing and 
+argument by the parties on the issue, relies on a 19th-century 
+case applying an understanding of finality that is flatly incon- 
+sistent with this Court’s modern cases. The finality of an 
+abstention-based remand is no different from that of an 
+abstention-based dismissal because both have the same effect: 
+the surrender of jurisdiction to a state court. Congress has cre- 
+ated no exception to §1291 beyond the review bar of 
+§ 1447(d), and this Court should not do so. 
+
+
+Even if the remand order were not final in the usual sense, 
+it would be final and appealable under the collateral-order 
+doctrine of Cohen v. Beneficial Industrial Loan Corp., 337 
+U.S. 541 (1949). Because the issue of Burford abstention is an 
+important question completely separate from the merits of 
+arbitrability and the underlying contract claims, and because 
+the District Court conclusively determined the abstention 
+question in a way that is effectively—indeed, completely— 
+unreviewable on appeal from the final judgment, the remand 
+order is appealabie as a final collateral order. E.g., Moses H. 
+Cone, 460 U.S. at 11-13. 
+
+
+II. The Court of Appeals correctly reversed the District 
+Court's abstention order. As this Court made clear in NOPSI, 
+“federal courts lack the authority to abstain from the exercise 
+of jurisdiction that has been conferred,” 491 U.S. at 358, and 
+may exercise their discretion to deny “certain types of relief” 
+only in narrow and “carefully defined” areas, id. at 359. The 
+Burford doctrine permits a federal court to refuse equitable 
+relief that would restrain or interfere with a state adminis- 
+trative proceeding or decision only where granting relief 
+would disrupt state policymaking processes by displacing spe- 
+cialized state-court review on matters of peculiarly local con- 
+cern. E.g., id. at 361-362. 
+
+
+12 
+
+
+Here, however, Allstate is not seeking to restrain or inter- 
+fere with the Liquidator’s performance of his duties; the Liq- 
+uidator is suing to collect money from Allstate. In addition, 
+the Liquidator’s role in this suit is not that of an impartial 
+state regulator pursuing administrative policymaking, but a 
+trustee for the private interests of the Mission companies pur- 
+suing contract claims on their behalf. The issues involved, 
+moreover, are not “distinctively local.” There is therefore no 
+basis to apply the Burford doctrine. 
+
+
+Even setting aside the carefully defined criteria of Burford, 
+Allstate’s defense of this action in federal court in no way 
+compromises any State interests. First, removal of the Liq- 
+uidator’s suit to federal court does not interfere with any state 
+statutory scheme. California law does not purport to con- 
+centrate all litigation involving an insolvent insurer in a sin- 
+gle forum. Even if California had sought to do so, this Court 
+has repeatedly held that subjecting a receiver to in personam 
+claims outside the receivership court does not interfere with 
+the receiver's functions or the receivership court’s adminis- 
+tration of the insolvent’s estate. E.g., Coit Independence Joint 
+Venture v. FSLIC, 489 U.S. 561 (1989); Morris v. Jones, 329 
+U.S. 545 (1947). The interest of convenience, which any lit- 
+igant could assert, cannot overcome the statutory right to fed- 
+eral jurisdiction. 
+
+
+Second, the presence of state law issues, whether settled or 
+otherwise, is also no reason to abstain from hearing a case 
+within the court’s diversity jurisdiction, which obviously con- 
+templates that a federal court will decide state-law issues. 
+E.g., Meredith v. City of Winter Haven, 320 U.S. 228. 236 
+(1943). If the District Court reaches the state-law issues here, 
+it will only have to decide ordinary issues of contractual 
+interpretation, contractual and common-law defenses, the 
+statutory right of setoff, and whatever other issues the parties 
+may raise. The possibility of inconsistent adjudications in dif- 
+ferent cases raising similar issues, which is inherent in any 
+multicourt system, provides no reason to abstain. 
+
+
+13 
+
+
+At a minimum, the District Court had no discretion to 
+abstain in the face of Allstate’s motion to compel arbitration 
+under the Federal Arbitration Act. The enforceability of arbi- 
+tration agreements is a matter of federal law, e.g., Allied- 
+Bruce Terminix Cos. v. Dobson, 115 S. Ct. 834 (1995), and a 
+decision on an arbitration motion therefore cannot conceiv- 
+ably disrupt the development of coherent state policy. Allow- 
+ing a party to delay the resolution of an arbitration motion 
+with “prearbitration litigation” about abstention, id. at 843 
+(O’Connor, J., concurring), wou!d frustrate “Congress’ clear 
+intent... to move the parties to an arbitrable dispute out of 
+court and into arbitration as quickly and easily as possible.” 
+Moses H. Cone, 460 U.S. at 22. 
+
+
+ARGUMENT 
+I. 
+
+
+THE DISTRICT COURT’S ORDER REMANDING 
+THE CASE TO STATE COURT WAS 
+REVIEWABLE ON APPEAL 
+
+
+The jurisdiction of the federal courts is defined by 
+Congress, and the judiciary has no authority to expand or con- 
+tract that jurisdiction. New Orleans Public Service, Inc. v. 
+Council of the City of New Orleans (“NOPSI”), 491 U.S. 350, 
+359 (1989); Kline v. Burke Construction Co., 260 U.S. 226, 
+234 (1922). Section 1291 of the Judicial Code provides that 
+“[t}he courts of appeals . . . shall have jurisdiction of appeals 
+from all final decisions of the district courts of the United 
+States.” 28 U.S.C. § 1291. Thus, the reviewability by appeal 
+of the District Court’s order remanding this case to state court 
+is governed solely by the principles of finality embodied in 28 
+U.S.C. § 1291." 
+
+
+12 As the Liquidator concedes, Pet’r Br. 18, 21-22, 29-30, the 
+review bar of 28 U.S.C. § 1447(d) does not apply here. This Court held 
+in Thermtron Products, Inc. v. Hermansdorfer, 423 U.S. 336, 345-346 
+
+
+14 
+
+
+Because the District Court's order effectively put Allsi te 
+out of federal court, the Court of Appeals correctly held that 
+the order was final and appealable under § 1291 as construed 
+in Moses H. Cone Memorial Hospital v. Mercury Construction 
+Corp., 460 U.S. 1 (1983). See Pet. App. 4a-8a. As Moses H. 
+Cone makes clear, the District Court’s order is final for pur- 
+poses of § 1291 whether the order is treated as a final judg- 
+ment in the usual sense or as a final collateral order under the 
+doctrine of Cohen v. Beneficial Industrial Loan Corp., 337 
+U.S. 541 (1949). 
+
+
+A. The District Court’s Remand Order Was Appealable 
+As a Final Decision Under 28 U.S.C. § 1291. 
+
+
+There can be no question that a District Court’s decision to 
+dismiss a case on abstention grownds is final and appealable. 
+See, e.g., NOPSI, 491 U.S. at 358, see also Rosenberg Bros. 
+& Co. v. Curtis Brown Co., 260 U.S. 516 (1923) (order quash- 
+ing service of process for lack of personal jurisdiction). The 
+prospect of subsequent litigation in state court, which an 
+abstention-based dismissal is designed to make possible, does 
+not deprive the dismissal of finality. Section 1291, after all, 
+provides an appeal from the United States District Court to 
+the United States Court of Appeals. 
+
+
+(1976), and recently reaffirmed in Things Remembered, Inc. v. Petrarca, 
+64 U.S.L.W. 4035 (1995), that “§ 1447(d) must be read in pari materia 
+with § 1447(c), so that only remands based on grounds specified in 
+§ 1447(c) are immune from review under § 1447(d).” 64 U.S.L.W. at 
+4036, citing 423 U.S. at 345-346. Burford abstention is an extrastatutory 
+ground for removal; it does not appear in 28 U.S.C. § 1447(c). The only 
+grounds for remand specified in that provision are a “defect in removal! 
+procedure” or “lack[{ ] [of] subject matter jurisdiction.” 28 U.S.C. 
+§ 1447(c); see Things Remembered, 64 U.S.L.W. at 4036. 
+
+
+'3 Allstate asked the Court of Appeals to issue a writ of mandamus 
+in the event an appeal did not lie. See note 11, above. If this Court con- 
+cludes that review by appeal was unavailable, it should either affirm the 
+judgment below on the alternative ground that the District Court's deci- 
+sion warranted issuance of the writ, see note 21, below, or remand the 
+case to the Court of Appeals with directions to address the petition for 
+mandamus. 
+
+
+15 
+
+
+In Carnegie-Mellon University v. Cohill, 484 U.S. 343, 
+351-57 (1988), this Court held that, notwithstanding the 
+absence of express statutory authorization, the district courts 
+have authority to remand a removed case to state court on 
+grounds that would otherwise permit the court to dismiss the 
+case. 484 U.S. at 357. The District Court exercised that 
+authority here. If a district court has authority to remand 
+instead of dismissing upon holding that it should abstain 
+under the Burford doctrine, its decision exercising that 
+authority must be subject to appeal pursuant to § 1291 if it is 
+a “final decision” within the meaning of that section. 
+
+
+There can be no question that it is. The District Court's 
+order of remand here had precisely the same effect as a dis- 
+missal: it definitively and finally put an end to proceedings in 
+the District Court. Just as with a dismissal, the remand order 
+here was literally the “final”—that is, the last—decision the 
+District Court can or will make absent appellate reversal. 
+Because the order “ ‘ends the litigation on the merits and 
+leaves nothing for the court to do,’ ” it is final and appealable 
+under 28 U.S.C. § 1291. Digital Equipment Corp. v. Desktop 
+Direct, Inc., 114 S. Ct. 1992, 1995 (1994), quoting Catlin v. 
+United States, 324 U.S. 229, 233 (1945). In other words, All- 
+state must be permitted an appeal now because if it is not, it 
+will be wholly deprived of its right to appeal the District 
+Court's Burford ruling. See Waco v. United States Fid. 
+& Guar. Co., 293 U.S. 140 (1935) (federal court's order dis- 
+missing defendant's third-party complaint final and imme- 
+diately appealable because remand of case to state court 
+rendered it otherwise unreviewable). Surely a remanded 
+party's right to an appeal should not turn on the District 
+Court's decision to remand rather than dismiss, when the 
+effect in either case is to surrender jurisdiction to the state 
+court. 
+
+
+This Court's decision in Moses H. Cone Memorial Hospi- 
+tal v. Mercury Construction Corp., 460 U.S. 1 (1983), rein- 
+forces that conclusion. In Moses H. Cone, one of the parties 
+
+
+16 
+
+
+had brought suit in federal court to compel arbitration pur- 
+suant to § 4 of the Federal Arbitration Act, 9 U.S.C. § 4. The 
+District Court, invoking the doctrine of Colorado River Water 
+Conservation District v. United States, 424 U.S. 800 (1976), 
+stayed the suit on the ground that a pending state-court suit 
+also raised the issue of the arbitrability of the dispute between 
+the parties. This Court held that the stay order was an appeal- 
+able “final decision” because it put the defendant “ ‘effec- 
+tively out of court’” and was therefore tantamount to 
+dismissal. Moses H. Cone, 460 U.S. at 10, quoting /dlewild 
+Bon Voyage Liquor Corp. v. Epstein, 370 U.S. 713, 715 n.2 
+(1962). The availability of the state court to adjudicate the 
+arbitrability issue did not impair the finality of the stay order. 
+As the Court explained, “a stay of the federal suit pending 
+resolution of the state suit meant that there would be no fur- 
+ther litigation in the federal forum; the state court’s judgment 
+on the issue would be res judicata.” Jd. at 10. In other words, 
+“ ‘effectively out of court’ means effectively out of federal 
+court—in keeping with the fact that the decision under appeal 
+is the refusal to exercise federal jurisdiction.” Jd. at 9 n.8 
+(emphasis in original).'* 
+
+
+The Court observed in Moses H. Cone that the finality of 
+the stay order there was “even clearer” than that of the Pull- 
+man stay order found to be final in /dlewild given the 
+prospect that a Pullman stay might be lifted should the plain- 
+tiff not obtain state-law relief in state court. 460 U.S. at 10. 
+The finality of the District Court’s remand here is clearer still. 
+This case, unlike Moses H. Cone, does not require the Court 
+to assess the practical effect of the District Court's order; by 
+definition, the function of a remand is “precisely to surrender 
+jurisdiction of a federal suit to a state court.” Jd. at 10-11 
+n.11. Allstate is not just “effectively” out of federal court; it 
+is expressly and literally so. 
+
+
+'¢ The Liquidator repeatedly, albeit cryptically, suggests that All- 
+
+
+state may be able to resort to federal court at some time in the future. 
+Pet'r Br. 18, 25, 26. He does not trouble, however, to identify the route 
+back to federal court he has in mind. 
+
+
+17 
+
+
+To avoid the holding of Moses H. Cone, the Liquidator 
+points to the earlier statement in Thermtron that 
+
+
+this Court has declared that because an order remanding 
+a removed action does not represent a final judgment 
+reviewable by appeal, “[t]he remedy in such a case is by 
+mandamus to compel action, and not by writ of error to 
+review what has been done.” 
+
+
+Thermtron, 423 U.S. at 353, quoting Railroad Co. v. Wiswail, 
+23 Wall. (90 U.S.) 507, 508 (1875). In effect, the Liquidator 
+argues that by a single sentence in Thermtron, this Court 
+intended to carve out an exception from the most basic prin- 
+ciples of § 1291 finality for remand orders not subject to the 
+bar of § 1447(d). 
+
+
+The Thermtron sentence cannot bear that weight. To be 
+sure, Thermtron’s assumption that the remand order there was 
+not final, and hence not appealable, was necessary to the 
+Court’s conclusion that mandamus was the proper remedy in 
+that case. But whether the District Court's order in Thermtron 
+was reviewed by mandamus or appeal, the ultimate result 
+would have been the same: the remand order would have been 
+set aside and the District Court would have been directed to 
+proceed with the case. Thus, the statement is effectively dic- 
+tum in the sense that it did not affect the substantive outcome 
+of the case. The statement is not supported by any articulated 
+reasons and was made without the benefit of briefing or argu- 
+ment by the parties.'° 
+
+
+3 Apart from the one sentence quoting Wiswall, the entire dis- 
+
+
+cussion of remedy in Thermtron concerns the undoubted availability of 
+mandamus in the circumstances of the case. 423 U.S. at 352-53. Neither 
+party in Thermtron suggested that the District Court's remand order 
+might be a final order reviewable by appeal under 28 U.S.C. § 1291: the 
+petitioners argued only that mandamus was an appropriate remedy for the 
+refusal of the District Court to proceed, see Thermtron Pet'r Br. (No. 74- 
+206) 17-18, while the respondent argued that § 1447(d) barred al! forms 
+of review, see Thermtron Resp. Br. 4. See also Tr. Thermtron Oral Arg. 
+Nor was the issue considered in Cohill. See 484 U.S. at 347-48 & n.4; 
+Cohill Pet'r Brief (No. 86-1021); Cohill Resp. Br.; Tr. Cohill Oral Arg. 
+
+
+Rather, the Thermtron statement rests entirely on the 
+Wiswall case, a three-sentence opinion from 1875 that is 
+wholly inconsistent with modern notions of finality. Wiswall 
+dismissed, “upon the authority of Jnsurance Company v. Com- 
+stock,” a writ of error to review a remand order on the 
+grounds that the order was “not a ‘final judgment’ in the 
+action but a refusal to hear and decide.” Wiswall, 23 Wall. at 
+508, citing /Jnsurance Co. v. Comstock, 16 Wall. (83 U.S.) 258 
+(1872). In Comstock, this Court held that the Circuit Court's 
+dismissal of a case (itself a writ of error to the District Court) 
+for lack of jurisdiction was a refusal to proceed and therefore 
+reviewable by mandamus, not writ of error. /d. at 270-271. 
+
+
+As Comstock and the other cases cited in Wiswall make 
+clear,'® that case does not reflect a distinction between 
+remands, on the one hand, and dismissals or other orders, on 
+the other, but a broader rule about the respective functions of 
+mandamus and error or appeal. These cases form part of a 
+long line of 19th-century precedents in which mandamus was 
+held the appropriate remedy where a lower court had dis- 
+missed a case at the outset of proceedings for lack of juris- 
+diction or had otherwise refused to proceed. See In re 
+Pennsylvania Co., 137 U.S. 451, 452-453 (1890) (collecting 
+and explaining cases); Ex parte Russell, 13 Wall. (80 U.S.) 
+664, 670 (1871); P. Phillips, The Statutory Jurisdiction and 
+Practice of the Supreme Court of the United States 276 (2d 
+ed. 1872).'’ These decisions did not make review of this cat- 
+
+
+'© Each of the cases cited in the margin to Wiswall, 23 Wall. at 508 
+n.t, also supports the notion that mandamus was the proper remedy to 
+correct an erroneous dismissal. Ex parte Bradstreet, 7 Pet. (32 U.S.) 634, 
+647-650 (1833) (granting mandamus to correct District Court's erroneous 
+dismissal of action for lack of subject-matter jurisdiction); Ex parte New- 
+man, 14 Wall. (81 U.S.) 152, 165 (1872) (stating in dictum that man- 
+damus lies where lower court “refuses to hear and decide the 
+controversy”); The King v. Justices of Gloucestershire, 1 B. & A. 1, 109 
+Eng. Rep. 688 (K.B. 1830) (issuing mandamus to correct erroneous dis- 
+missal of appeal). 
+
+
+17 See. e.g.. Parker, petitioner, 131 U.S. 221 (1889) (mandamus 
+reversing dismissal of appeal for lack of jurisdiction), Ex parte Parker, 
+
+
+19 
+
+
+egory of decisions less accessible, but simply required use of 
+the correct writ: mandamus for a “refusal to hear and decide,” 
+error or appeal for a “final judgment.”'* If the lower court had 
+jurisdiction but decided not to proceed, mandamus issued as 
+a matter of course.'® 
+
+
+“It should be apparent that th[ese] antique decision[s] pro- 
+vide[ } little basis for determining what finality rules should 
+
+
+120 U.S. 737 (1887) (same); Harrington v. Haller, 111 U.S. 796 (1884) 
+(similar to Comstock, relying on Wiswall and Comstock), Ex parte Schol- 
+lenberger, 96 U.S. 369 (1878) (mandamus reversing order quashing ser- 
+vice for lack of personal jurisdiction); Ex parte Russell, 13 Wall. at 
+669-670 (mandamus reversing dismissal, for lack of subject-matter juris- 
+diction, of motion for new trial); Ex parte Bradstreet, 7 Pet. at 647-650. 
+
+
+‘8 See Wiswall, 23 Wall. at 508 (because remand order was “refusal 
+to hear and decide” rather than “final judgment,” remedy was “by man- 
+damus to compel action, and not by writ of error to review what has been 
+done”); Ex parte Russell, 13 Wall. at 670 (“Where a court declines to 
+hear a case or motion, alleging its own incompetency to do so, or that of 
+the party to be heard, mandamus is the proper remedy. A writ of error or 
+appeal does not lie; for what has the appellate court to review where the 
+inferior court has not decided the case, but has refused to hear it?”); 
+Comstock, 16 Wall. at 270 (mandamus, not error, was correct remedy 
+because Circuit Court never “passed upon the questions as to the cor- 
+rectness or incorrectness of the rulings of the District Court”); id. at 271 
+(“Mandamus being the proper remedy, error will not lie”); Phillips, 
+above, at 276 (quoting Ex parte Russell); see also Edson R. Sunderland, 
+The Problem of Appellate Review, 5 Tex. L. Rev. 126, 129-130 (1927) 
+(likening error, certiorari, mandamus, prohibition and appeal to common- 
+law forms of action). 
+
+
+19 See cases cited in note 17, above. In Comstock. the Court had 
+
+
+held that “every party” has a “right” to the judgment of the lower court, 
+that this Court “in such case will issue” mandamus “in a case where the 
+subordinate court had improperly dismissed the case,” and that the party 
+there “would be entitled” to a remedy if it had asked for the proper writ. 
+16 Wall. at 270 (emphasis added); see also Phillips, above, at 270 (“well 
+settled” that mandamus “is nothing more than the ordinary process of a 
+court of justice, to which every one is entitled, where it is the appropriate 
+process for asserting the right he claims,” quoting Kentucky v. Dennison, 
+24 How. (65 U.S.) 66, 97 (1860)). 
+
+
+20 
+
+
+be developed today.” ISA Charles A. Wright, Arthur R. Miller 
+& Edward H. Cooper, Federal Practice and Procedure 
+§ 3914.11 at 701 n.13 (2d ed. 1992) (referring to Comstock as 
+foundation for Wiswall). Under modern practice, a dismissal 
+of a case at the pleading stage, even if it “amounts to a refusal 
+to adjudicate the merits,” is final and appealable. Moses H. 
+Cone, 460 U.S. at 12; see also, e.g., NOPSI, 491 U.S. at 358; 
+Rosenberg Bros., 260 U.S. at 517. The District Court's 
+“refusal to hear and decide” this case, Wiswall, 23 Wall. at 
+508, should be no less appealable simply because the Court 
+chose to effect it by way of remand rather than dismissal.”° 
+Wiswall cannot survive Moses H. Cone and the modern prin- 
+ciples of finality it represents.*' 
+
+
+In short, there is no reason for this Court to follow super- 
+seded precedent based on “historical distinctions” that 
+“produce[ ] arb.trary and anomalous results.” Gulfstream 
+Aerospace Corp. v. Mayacamas Corp., 485 U.S. 271, 285 
+(1988); see id. at 279-88 (repudiating Enelow-Ettelson inter- 
+pretation of 28 U.S.C. § 1292(a)(1)). Congress has created no 
+exception to § 1291 for reviewable remand orders, and this 
+Court should not do so. 
+
+
+20 See Corcoran v. Ardra Insurance Co., 842 F.2d 31, 34-35 (2d 
+Cir. 1988) (“Under the surrender-of-federal-jurisdiction test used in 
+Moses Cone, we wonder whether it can logically or prudently remain the 
+rule that a reviewable remand order . . . is not reviewable by direct 
+appeal”). 
+
+
+at Given the Comstock/Wiswall function of mandamus, the appli- 
+
+
+cation of Wiswall to reviewable remand orders today would require the 
+Court to make clear that the writ readily issues whenever a district court 
+improperly abstains. See Thermtron, 423 U.S. at 353 (“There is nothing 
+in our later cases dealing with the extraordinary writs that leads us to 
+question the availability of mandamus in circumstances where the district 
+court has refused to adjudicate a case, and has remanded it on grounds 
+not authorized by the removal statutes.”). There is simply no reason, 
+however, to permit 19th-century writ practice to interfere in that fashion 
+with the normal application of § 1291. 
+
+
+21 
+
+
+B. Even If the District Court’s Remand Order Were Not 
+Final in the Usual Sense, It Would Be Appealable as a 
+Final Collateral Order. 
+
+
+Even were Thermtron read to preclude treating the District 
+Court’s remand order as a “final judgment,” 423 U.S. at 352- 
+53, the collateral-order doctrine of Cohen v. Beneficial Indus- 
+trial Loan Corp., 337 U.S. 541 (1949), would provide a 
+separate and independent basis for treating the District 
+Court's remand order as final under § 1291. In Cohen, this 
+Court “carved out a narrow exception to the normal applica- 
+tion of the final judgment rule, which. . . considers as ‘final 
+judgments,’” certain decisions “even though they do not ‘end 
+the litigation on the merits,’ Midland Asphalt Corp. v. United 
+States, 489 U.S. 794, 798-99 (1989), quoting Cohen, 337 U.S. 
+at 546. To qualify as a “final collateral order,” an order must 
+
+
+(1) “conclusively determine the disputed question,” 
+(2) “resolve an important issue completely separate from 
+the merits of the action,” and (3) “be effectively unre- 
+viewable on appeal from a final judgment.” 
+
+
+Id. at 799, quoting Coopers & Lybrand v. Livesay, 437 U.S. 
+463, 468 (1978). The collateral order doctrine counsels the 
+Courts of Appeals to give § 1291 a “‘practical construction.’” 
+Digital Equipment Corp. v. Desktop Direct, Inc., 114 S. Ct. 
+1992, 1995 (1994), quoting Cohen, 337 U.S. at 546. 
+
+
+In Moses H. Cone, this Court held alternatively that the 
+abstention-based stay order there was also final under the 
+Cohen doctrine. 460 U.S. at 11-13. As the Court of Appeals 
+held here, the District Court’s order applying the Burford doc- 
+trine to remand this case to state court easily meets the Cohen 
+three-part test. 47 F.3d at 353-54, Pet. App. 4a-8a.” 
+
+
+22“ See also Karl Koch Erecting Co. v. N.Y. Convention Ctr. Devel- 
+opment Corp., 838 F.2d 656, 658-59 (2nd Cir. 1988) (remand on forum- 
+selection clause grounds appealable); Foster v. Chesapeake Ins. Co., 933 
+F.2d 1207, 1211 (3rd Cir. 1993) (same); McDermott Int'l, Inc. v. Lloyd's 
+Underwriters of London, 944 F.2d 1199, 1201-04 (Sth Cir. 1991) (same); 
+
+
+22 
+
+
+The Moses H. Cone decision demonstrates why. First, in 
+concluding there that the stay order conclusively determined 
+the disputed question of Colorado River abstention, this Court 
+held that the technical possibility that “every order short of a 
+final decree is subject to reopening at the discretion of the 
+district judge” did not deprive the stay order of finality. 460 
+U.S. at 12. Here, even that technical possibility is absent, 
+because the District Court has completely removed the case 
+from its control by remanding it to the state court. See 47 F.3d 
+at 353, Pet. App. 6a. 
+
+
+Second, as the Court held in Moses H. Cone, “|ajn order 
+that amounts to a refusal to adjudicate the merits plainly pre- 
+sents an important issue separate from the merits.” 460 U.S. 
+at 12. The remand order here, even more than the stay order 
+in Moses H. Cone, is not a “step toward final judgment,” but 
+a refusal of the federal court to proceed at all. /d. at 12 n.13;, 
+see 47 F.3d at 353, Pet. App. 6a-7a. 
+
+
+Finally, there can also be no dispute that the District 
+Court's remand order would be effectively unreviewable on 
+appeal from a final judgment. Moses H. Cone, 460 US. at 12; 
+Pet. App. 7a. Section 1291 concerns itself, of course, with 
+appeals to the federal Courts of Appeal. The Court of Appeals 
+here would have been powerless to review the remand order 
+as part of a final judgment, for the simple reason that any 
+final judgment would be rendered by a California state court. 
+For that reason, the case does not raise any concern “that 
+appellate review now” might “force the appellate court to 
+consider approximately the same .. . matter more than 
+once,” Johnson v. Jones, 115 S. Ct. 2151, 2155 (1995) 
+(emphasis in original). Appellate review of the abstention 
+decision must occur now or not at all. 
+
+
+Regis Associates v. Rank Hotels (Management) Lid., 894 F.2d 193, 194- 
+
+
+95 (6th Cir. 1990) (same); Pelleport Investors v. Budco Quality Theatres, 
+
+
+741 F.2d 273, 277-78 (9th Cir. 1984) (same); Milk 'N’ More, Inc. v. 
+Beavert, 963 F.2d 1342, 1344-45 (10th Cir. 1992) (same). 
+
+
+23 
+
+
+To avoid the application of the collateral order doctrine, the 
+Liquidator makes three arguments. First, the Liquidator 
+argues that the District Court's remand order was not suffi- 
+ciently conclusive because it did not resolve the issues of 
+arbitrability and setoff. Pet’r Br. 17, 23, 24-25. For purposes 
+of the Cohen doctrine, however, it matters not that the District 
+Court did not resolve other issues, such as arbitrability and 
+setoff, so long as the order sought to be appealed reflects a 
+“conclusive determination” on the matter it did decide—that 
+is, Burford abstention.”* 
+
+
+Second, the Liquidator suggests that Allstate's right to a 
+federal forum to hear this case is not sufficiently “important” 
+to qualify as a final collateral order. Pet’r Br. 29. But even 
+assuming that “importance” states an independent require- 
+ment of the Cohen doctrine, but see Digital Equipment, 114 S. 
+
+
+a To support his argument that the remand order did not conclu- 
+
+
+sively resolve the relevant questions, ‘he Liquidator relies on the Second 
+Circuit decision in Corcoran v. Ardra Ins. Co. 842 F.2d 31, 35 (2d Cir. 
+1988), which held that a remand order based on Burford abstention was 
+not conclusive where the District Court had left unresolved the appel- 
+lant’s motion to compel arbitration, and the First Circuit decision in 
+Doughty v. Underwriters at Lloyd's, London, 6 F.3d 856, 862-64 (1st Cir. 
+1993), which followed Corcoran. But the reasoning of those two cases 
+is flatly inconsistent with the holding of Moses H. Cone. There, the very 
+proceeding in which the District Court had abstained was a petition to 
+compel arbitration pursuant to § 4 of the Federal Arbitration Act. This 
+Court expressly held that the stay order “conclusively determined” the 
+issue sought to be appealed, which was not whether a court or an arbi- 
+trator would decide the contract dispute, but whether the state or the fed- 
+eral court would decide the arbitrability dispute. 460 U.S. at 12-13. Here 
+too, the issue on which Allstate sought appeal below was whether the 
+state or federal court would decide Allstate's motion to compel arbitra- 
+tion and, if necessary, the underlying liability issues. See McDermott, 944 
+F.2d at 1203 n.5 (“Corcoran is wrongly decided”); Travelers Ins. Co. v. 
+Keeling, 996 F.2d 1485, 1489 (2d Cir. 1993) (“Perhaps it would have 
+been possible in Corcoran to bring the remand ruling within the Cohen 
+doctrine by considering the district court to have conclusively determined 
+the threshold issue of which court (state or federal) would decide arbi- 
+trability”). 
+
+
+24 
+
+
+Ct. at 2001, a decision by a District Court to depart from its 
+“virtually unflagging” obligation to exercise its jurisdiction 
+implicates sufficiently important federal rights to satisfy any 
+such requirement, see id. at 2001-2003. Because the right 
+Allstate asserts was conferred by Congress, see 28 U.S.C. 
+§§ 1332, 1441, there is “little room for the judiciary to gain- 
+Say its ‘importance.’ ” /d. at 2001. 
+
+
+Third, the Liquidator argues that the rule mandated by 
+Moses H. Cone permits the “ ‘narrow exception’ ” of Cohen to 
+“ “swallow the general rule’” because “remands . . . rou- 
+tinely occur.” Pet’r Br. 24. The Liquidator misses the point. 
+Limiting the types of orders that qualify as final collateral 
+orders cannot be a goal in itself; the Cohen criteria them- 
+selves are designed to serve that function. Regardless of the 
+frequency with which abstention-based remands occur, Moses 
+H. Cone makes clear that a District Court’s refusal on absten- 
+tion grounds to adjudicate a matter within its jurisdiction 
+finally determines an important federal right so as to qualify 
+for appeal as a final collateral order. 
+
+
+THE EXTRAORDINARY CIRCUMSTANCES 
+JUSTIFYING BURFORD ABSTENTION CANNOT 
+ARISE IN AN ACTION AT LAW ON A CONTRACT. 
+
+
+Within constitutional bounds, Congress has sole authority 
+to define the jurisdiction of the federal courts. New Orleans 
+Public Service Inc. v. Council of the City of New Orleans 
+(“NOPSI”), 491 U.S. 350, 359 (1989); Kline v. Burke Con- 
+struction Co., 260 U.S. 226, 234 (1922). Congress has given 
+defendants in Allstate’s position a statutory right to remove 
+a case to United States District Court. 28 U.S.C. §§ 1332, 
+1441. From earliest days, this Court has emphatically stated 
+that “federal courts lack the authority to abstain from the 
+exercise of jurisdiction that has been conferred.” NOPSI, 491 
+
+
+25 
+
+
+U.S. at 358; see, e.g., Cohens v. Virginia, 6 Wheat. (19 U.S.) 
+264, 404 (1821) (Marshall, C.J.) (“to decline the exercise of 
+jurisdiction [or] usurp that which is not given. . . . would be 
+treason to the constitution”). 
+
+
+While the Court has recognized that the federal courts’ 
+obligation to exercise their jurisdiction does not “eliminate 
+[their] discretion in determining whether to grant certain 
+types of relief” insofar as such discretion “was part of the 
+common-law background against which the statutes confer- 
+ring jurisdiction were enacted,” NOPS/, 491 U.S. at 359, cit- 
+ing David L. Shapiro, Jurisdiction and Discretion, 60 N.Y.U. 
+L. Rev. 543, 570-77 (1985), it has simultaneously cautioned 
+that that discretion is an “‘extraordinary ard narrow exception 
+to the duty of a District Court to adjudicate a controversy 
+properly before it.’” Colorado River Water Conservation Dist. 
+v. United States, 424 U.S. 800, 813 (1976), quoting County of 
+Allegheny v. Frank Mashuda Co., 360 U.S. 185, 188-189 
+(1959). Accordingly, the Court “ha[s] carefully defined. . . 
+the areas in which such ‘abstention’ is permissible, and it 
+remains * “the exception, not the rule.” ” NOPS/, 419 U.S. at 
+359, quoting Hawaii Housing Auth. v. Midkiff, 467 U.S. 229, 
+236 (1984), quoting Colorado River, 424 U.S. at 813. In the 
+absence of the “carefully defined” circumstances that might 
+justify the exercise of discretion not to decide a given con- 
+troversy, federal courts must remain faithful to their “virtually 
+unflagging obligation. . . to exercise the jurisdiction given 
+them.” Colorado River, 424 U.S. at 817. 
+
+
+The Liquidator’s action for money damages on a series of 
+contracts between Allstate and Mission presents no circum- 
+stance that might have justified the District Court’s decision 
+not to decide Allstate’s motion to compel arbitration under the 
+Federal Arbitration Act, 9 U.S.C. §§ 3-4, or, were that motion 
+denied, the underlying liability disputes. The Court of 
+Appeals correctly held that the District Court had no discre- 
+tion to abstain under the principles of Burford v. Sun Oil Co., 
+
+
+26 
+
+
+319 U.S. 315 (1943), and therefore properly reversed the Dis- 
+trict Court’s order of remand. 
+
+
+A. The Burford Doctrine Applies Only to Actions 
+Seeking to Review State Administrative Proceedings 
+Where Such Review Would Interfere with State 
+Policymaking Processes On Matters of Distinctively 
+Local Concern. 
+
+
+The Court of Appeals’ holding that the District Court had 
+no discretion to decline to go forward with the action rests on 
+a limitation that inheres in the very purpose and justification 
+of the Burford doctrine. 47 F.3d at 354-56, Pet. App. 8a-1 2a. 
+
+
+In Burford, an oil company sued in United States District 
+Court to enjoin enforcement of an order of the Texas Railroad 
+Commission granting an oil-drilling permit to one of the com- 
+pany’s competitors. 319 U.S. at 317 & n. 1. This Court held 
+that “as a matter of sound equitable discretion,” the District 
+Court should “stay its hand.” /d. at 318, 334. 
+
+
+The Court relied on two features of the Texas regulatory 
+scheme at issue. First, given the local geological realities, the 
+grant of any one permit directly affected every other present 
+Or prospective permitholder, so that each case had to be 
+treated “as ‘one more item in a continuous series of adjust- 
+ments,’” id. at 332; see id. at 318-25 & nn.15-18. Second, 
+Texas had entrusted the Commission with “broad discretion” 
+in fulfilling its mandate to prevent waste in the Texas oil 
+fields, and had concentrated direct review of the Commis- 
+sion’s orders in a single county so that the state courts there 
+exercised “judicial supervision of Railroad Commission 
+orders,” acquired “specialized knowledge,” and became 
+“working partners with the Railroad Commission in the busi- 
+ness of creating a regulatory system for the oil industry.” /d. 
+at 326-27. The Court rested its decision squarely on the dis- 
+cretion of a “federal equity court” to “decline to exercise its 
+jurisdiction” when judicial restraint was “required by con- 
+
+
+27 
+
+
+siderations of general welfare.” /d. at 334, 333 n.29; see 
+NOPSI, 491 U.S. at 360. 
+
+
+The Court came to the same result for the same reason in 
+Alabama Public Service Commission v. Southern Railway Co., 
+341 U.S. 341 (1951), the only other case in which this Court 
+has authorized a federal court to abstain in reliance on the 
+Burford doctrine. In Southern Railway, this Court held that, 
+“*as a matter of sound equitable discretion,’” the federal court 
+should decline to review an Alabama Public Service Com- 
+mission order refusing a railroad company permission to dis- 
+continue certain passenger service within the state. /d. at 345, 
+quoting Burford, 319 U.S. at 318. 
+
+
+The Court stressed the same facts as in Burford. First, the 
+Commission's order had required a balancing between the 
+costs to the railroad company and the need for the local ser- 
+vice. Southern Railway, 341 U.S. at 345-48. Second, the 
+Alabama scheme concentrated review of the Commission's 
+orders in a single county; appeals to the state court were 
+“supervisory in character,’” id. at 348 (citation omitted); and 
+the court's review of the “administrative order [was] based 
+upon predominantly local factors.” /d. at 349. As in Burford, 
+the Court stressed that, in declining to grant the injunction, 
+the federal court would not be abdicating its responsibility to 
+exercise its jurisdiction, but instead exercising the discretion 
+of “a federal court of equity” to “stay its hand in the public 
+interest when. . . private interests will not suffer. . . .” /d. 
+at 350-51; see NOPSI, 491 U.S. at 360-61. 
+
+
+In Lumbermen’s Mutual Casualty Co. v. Elbert, 348 U.S. 48 
+(1954), this Court confirmed the foundation of the Burford 
+doctrine in the exercise of equitable discretion to avoid inter- 
+ference with state policymaking processes. There, a plaintiff 
+in a tort action brought an action for money damages against 
+the alleged tortfeasor’s insurer under Louisiana's direct action 
+statute. The Court easily rejected an argument based on the 
+Burford doctrine that the case presented grounds for a “dis- 
+
+
+28 
+
+
+cretionary refusal to exercise jurisdiction” because of dif- 
+fering standards of review of jury verdicts in state and federal 
+courts, pointing out that 
+
+
+in Burford, jurisdiction was declined to avoid a potential 
+for conflict with a state’s policy-making process, a con- 
+sideration not present here. Moreover, traditional equi- 
+table authority, not available here, was relied upon to 
+justify the holding. 
+
+
+348 US. at 53. 
+
+
+Most recently, in NOPS/, the Court held that the Burford 
+doctrine did not bar a suit in which a public utility sought to 
+enjoin on federal preemption grounds the enforcement of the 
+utility rate order of a local regulatory body. The Court first 
+summarized the Burford doctrine: 
+
+
+Where timely and adequate state-court review is avail- 
+able, a federal court sitting in equity must decline to 
+interfere with the proceedings or orders of state admin- 
+istrative agencies: (1) when there are “difficult questions 
+of state law bearing on policy problems of substantial 
+public import whose importance transcends the result in 
+the case then at bar”; or (2) where the “exercise of fed- 
+eral review of the question in a case and in similar cases 
+would be disruptive of state efforts to establish a coher- 
+ent policy with respect to a matter of substantial public 
+concern.” 
+
+
+491 U.S. at 361, quoting Colorado River, 424 U.S. at 814. 
+
+
+Applying the doctrine, the Court held that, notwithstanding 
+the availability of state-court review of the order, the District 
+Court had erred by refusing to hear the utility’s claim. The 
+Court explained: 
+
+
+While Burford is concerned with protecting complex 
+
+
+state administrative processes from federal interference, 
+
+
+it does not require abstention whenever there exists such 
+
+
+29 
+
+
+a process, or even in all cases where there is a ‘potential 
+for conflict’ with state regulatory law or policy. 
+
+
+Id. at 362, quoting Colorado River, 424 U.S. at 815-816. 
+Where federal adjudication of the claim “would not disrupt the 
+State's attempt to ensure uniformity in the treatment of an 
+‘essentially local problem,’ ” id., quoting Alabama Pub. Serv. 
+Comm'n, 341 U.S. at 347, the resolution of which “demand{s] 
+significant familiarity with . . . distinctively local regulatory 
+facts or policies,” id. at 364, there could be no basis for Bur- 
+ford abstention. 
+
+
+These cases establish at least two essential predicates to 
+Burford abstention. First, the doctrine does not establish a 
+general discretion in a federal court to depart from its obli- 
+gation to decide cases whenever the court finds a sufficiently 
+weighty state interest involved. Instead, the court's authority 
+not to go forward is based on, and limited by, its discretion to 
+withhold particular types of relief in particular circumstances, 
+most importantly an equity court's discretion to withhold 
+injunctive relief when the public interest calls for restraint. 
+See, e.g., Weinberger v. Romero-Barcelo, 456 U.S. 305, 312- 
+313 (1982). Absent equitable discretion to withhold such 
+relief, there is no basis to apply the Burford doctrine. 
+
+
+Second, the Burford doctrine does not confer authority to 
+abstain in every case in which the plaintiff seeks equitable 
+relief from a state administrative order, but only in those rare 
+circumstances in which the request to restrain enforcement of 
+the order would require the federal court to displace the judg- 
+ment of a state court, equally available to entertain the federal 
+plaintiff's challenge, in an area that demands specialized 
+knowledge of a local problem and coordinated treatment of 
+interconnected cases. Absent a threat that federal injunctive 
+relief would override a state administrative determination on 
+a matter of peculiarly local concern, there is no basis to apply 
+the Burford doctrine. 
+
+
+30 
+
+
+1. The District Court Had No Discretion to Abstain 
+Because Allstate Sought No Injunctive Relief. 
+
+
+Allstate did not bring this lawsuit; the Liquidator did. 
+Allstate simply removed the case to federal court. See 28 
+U.S.C. §§ 1332, 1441. In removing, Allstate did not attempt 
+to restrain or interfere with the Liquidator's performance of 
+his duties in any way, let alone seek review of an order of the 
+Liquidator in any administrative capacity. Nor will Allstate's 
+defense of the action restrain the Liquidator in any way. All- 
+state intends simply to pursue its motion to compel arbitration 
+under the Federal Arbitration Act, 9 U.S.C. §§ 2-4, and to 
+pursue such defenses as are just and well-founded. The only 
+effect on the Liquidator of Allstate's assertion of its federal 
+right to remove the case is that a federal court, rather than the 
+state court in which the Liquidator originally filed the suit, 
+will adjudicate the motion to compel arbitration and, if nec- 
+essary, the Liquidator’s contract claims. 
+
+
+Thus, as the Court of Appeals held, the relief Allstate seeks 
+in defending the action—either a stay of the litigation so that 
+arbitration might be had or, failing that, setoff or denial of the 
+Liquidator’s contract claims on the merits—is alone dispos- 
+itive of the District Court's discretion to abstain on Burford 
+grounds. Because Allstate, the defendant here, seeks no 
+injunctive or other equitable relief to review or restrain the 
+conduct of an administrative agency on a matter of peculiarly 
+local concern, the District Court had no equitable discretion 
+to exercise in determining whether to go forward. See NOPSI, 
+491 U.S. at 360-62.** In other words, by definition, a funda- 
+
+
+4 See also Fragoso v. Lopez, 991 F.2d 878, 882 & n.6 (Ist Cir. 
+1993); Tribune Co. v. Abiola, 66 F.3d 12, 15-17 (2d Cir. 1995); Univer- 
+sity of Md. v. Peat Marwick Main & Co., 923 F.2d 265, 271-272 (3d Cir. 
+1991); Todd v. DSN Dealer Service Network, Inc., 861 F. Supp. 1531, 
+1541 (D. Kan. 1994); Costle v. Fremont Indem. Co., 839 F. Supp. 265, 
+270 (D. Vt. 1993); Duane v. Government Employees Ins. Co., 784 F. 
+Supp. 1209, 1223 (D. Md. 1992), aff'd, 37 F.3d 1036 (4th Cir. 1994), 
+cert. granted, 115 §. Ct. 1251, cert. dismissed, 115 S$. Ct. 2272 (1995). 
+
+
+31 
+
+
+mental requirement of the Burford doctrine cannot be met in 
+a contract action for money damages brought against a private 
+citizen.” 
+
+
+By making clear that the Burford doctrine is available only 
+to federal courts that are “sitting in equity” and therefore 
+must “determin{e] whether to grant certain types of relief,” 
+NOPSI, 491 U.S. at 359, this Court has not revived some anti- 
+quated distinction between legal and equitable forms of plead- 
+ing. See Pet'r Br. 19-21, 31-40. To the contrary, given that 
+“federal courts lack any discretion to abstain from the exer- 
+cise of jurisdiction that has been conferred,” NOPS/, 491 U.S. 
+at 358, the Court has simply instructed that a district court 
+must ground any decision not to entertain a claim in an iden- 
+tifiable source of authority to withhold relief.*° 
+
+
+a Nor does the Liquidator’s inclusion of a claim for declaratory 
+
+
+relief in his complaint confer any discretion on the District Court. Unlike 
+the situation in Wilton v. Seven Falls Corp., 115 S. Ct. 2137 (1995), in 
+which the defendant in a damages action had inverted the normal posture 
+of the parties by filing a separate action seeking a declaration of nonli- 
+ability, id. at 2139, the Liquidator’s request for a declaration of liability 
+simply recasts his request for damages in a different form. J.A. 51-53. 
+The discretion that the Declaratory Judgment Act, 28 U.S.C. § 2201, 
+gives a district court to withhold declaratory relief in appropriate cir- 
+cumstances, see 115 S. Ct. at 2143, surely does not authorize the court to 
+accede to a declaratory judgment plaintiff's request that the defendant not 
+be permitted to remove the action—including the claims at law for con- 
+tractual damages—to federal court. See id. (request for declaratory judg- 
+ment as exception to “the normal principle that federal courts should 
+adjudicate claims within their jurisdiction”). The Liquidator's contention 
+that a declaratory judgment action is always considered “equitable” is thus 
+irrelevant, in any event, he has waived the argument, see J.A. 171, which 
+is plainly wrong under both federal and California law, see J.A. 172-175. 
+
+
+26‘ The Liquidator’s discussion of the formal merger of law and 
+equity in the Federal Rules of Civil Procedure, Pet'r Br. 33-34, is there- 
+fore irrelevant. Those Rules are procedural only and have no effect on 
+substantive law. See 28 U.S.C. § 2072(b) (federal rules “shall not abridge. 
+enlarge or modify any substantive right”), Stainback v. Mo Hock Ke Lok 
+Po, 336 U.S. 368, 382 n. 26 (1949). For the same reason, the Liquidator 
+misses the point when he argues that a court that abstains should always 
+
+
+32 
+
+
+For that reason, the Liquidator undertakes a meaningless 
+task when he seeks support in several decisions of this Court 
+in which, he contends, the Court approved “abstention” in 
+actions at law. Pet'r Br. 35-40. None of these decisions pro- 
+vides the Liquidator any support. 
+
+
+The Liquidator first points to three cases applying the Pull- 
+man doctrine: Fornaris v. Ridge Tool Co., 400 U.S. 41 (1970) 
+(per curiam) (approving Pullman deferral without discussing 
+nature of action or relief sought); United Gas Pipe Line Co. 
+v. Ideal Cement Co., 369 U.S. 134 (1962) (per curiam) 
+(same); and Clay v. Sun Ins. Office, 363 U.S. 207 (1960) (sug- 
+gesting certification of question to state supreme court based 
+on Pullman-like reasoning). Under that doctrine, a district 
+court may defer consideration of a federal constitutional chal- 
+lenge to a State statute in order to give the state courts an 
+opportunity to give the statute a saving construction. See Rail- 
+road Comm'n v. Pullman 312 U.S. 496 (1941); Growe v. Emi- 
+son, 113 S.Ct 1075, 1080 n.1 (1993) (Pullman doctrine calls 
+for “deferral,” not “abstention”). The accomplishment of that 
+objective, unlike the Burford objective of avoiding interfer- 
+ence with administrative proceedings, does not depend on the 
+nature of the relief sought in the action in which the consti- 
+tutional issue arises. The absence of a request for equitable 
+relief is therefore not relevant to the scope of the Pullman 
+doctrine. 
+
+
+Similarly, in authorizing Pullman-like deferral in Louisiana 
+Power & Light Co. v. City of Thibodaux, 360 U.S. 25, 28-31 
+(1959) (citing Pullman but not Burford), this Court simply 
+recognized that principles of restraint prevailing in “con- 
+ventional equity suits” also applied in the context of an emi- 
+nent domain proceeding where necessary to allow the 
+Louisiana courts to settle the question whether the city that 
+
+
+be regarded as exercising its equitable jurisdiction in doing so. Pet'r Br. 
+40-42. The authority to abstain turns not on a label arbitrarily placed 
+upon that authority but on the relief in response to which the authority is 
+exercised. 
+
+
+33 
+
+
+had exercised eminent domain authority actually had such 
+authority under Louisiana law.”’ So too, in Fair Assessment in 
+Real Estate Association v. McNary, 454 U.S. 100, 111 (1981), 
+the Court held only that the longstanding principle of comity 
+that had “led federal courts of equity to refuse to enjoin the 
+collection of state taxes” and “require(d] a like restraint in the 
+use of the declaratory judgment procedure” also barred a suit 
+for damages under 42 U.S.C. § 1983 based on a claim that the 
+State's administration of its tax system was unconstitutional. 
+The McNary Court's extension of the principle against enjoin- 
+ing state tax collection to a § 1983 damages action was 
+expressly based on its conclusion that in order to award dam- 
+ages, the district court would effectively have to make a 
+“ ‘declaration’ ” of unconstitutionality that “would halt the 
+administration of the state tax system” and “would be fully as 
+intrusive” as the injunctive or declaratory relief barred under 
+
+
+2 The Court emphasized that an eminent domain proceeding. 
+
+
+while technically legal, was both “special and peculiar” and “intimately 
+involvec with sovereign prerogative.” 360 U.S. at 28. The basis—and 
+limited scope—of Thibodaux is made clear by this Court's reversal, on 
+the same day and on virtually identical facts, of an abstention order in a 
+case in which the county's power of eminent domain was clear under 
+state law. See County of Allegheny v. Frank Mashuda Co., 360 U.S. 185, 
+188-197 (1959). 
+
+In dictum in Ankenbrandt v. Richards, 504 U.S. 689, 705-706 & n.& 
+(1992), the Court speculated that it was “not inconceivable” that a fed- 
+eral court might stay a case before it to allow a state court to rule on a 
+question of state law, the “public import” of which “transcend{ed] the 
+case at bar,” if the relief sought by the federal! plaintiff required the court 
+to rule as if issuing a divorce, alimony, or child custody decree. The 
+Ankenbrandt Court's speculation about deferring on an issue relating to 
+the status of a domestic relationship provides no support for the sug- 
+gestion that Burford might apply to this contract action. Pet'r Br. 38-39 
+The Ankenbrandt dictum cautioned only against invading the realm of 
+divorce, alimony, and child custody decrees, each of which involves a 
+court's equitable powers and, as the Ankenbrand: Court itself held, falls 
+outside diversity jurisdiction. /d. at 693-704. And, of course, Anken- 
+brandt held that Burford abstention was inappropriate in the tort action 
+before it. 
+
+
+34 
+
+
+the principles of comity applicable to constitutional attacks on 
+state tax systems. /d. at 115, 113; see id. at 107-117. 
+
+
+The Liquidator also cites Langnes v. Green, 282 U.S. 531, 
+541-544 (1931), which was not at law but in admiralty. In 
+ordering the dissolution of an antisuit injunction in order to 
+allow a common-law claim to go forward in state court, the 
+Court expressly rested on the discretionary powers of an 
+admiralty court in a limitation-of-liability proceeding, which 
+is akin to a proceeding in equity to distribute a limited fund. 
+See Grant Gilmore & Charles L. Black, Jr., The Law of Admi- 
+ralty §§ 10-8, 10-17 to 10-19 (2d ed. 1975). 
+
+
+Finally, Congress's decision in the McCarran-Ferguson Act, 
+15 U.S.C. §§ 1011-1015, to allow states to regulate the busi- 
+ness of insurance, see Pet'r Br. 4, 45-47, provides no grounds 
+to apply Burford. As NOPSI makes clear, the mere presence 
+of state regulatory interests provides no grounds to abstain. 
+491 U.S. at 362; see Grode v. Mutual Fire, Marine & Inland 
+Ins. Co., 8 F.3d 953, 960 (3d Cir. 1993).** 
+
+
+“ Contrary to the Liquidator's suggestion, Pet'r Br. 47 n.87, the 
+reference to the McCarran Amendment, 43 U.S.C. § 666, in Colorado 
+River does not support reliance on the McCarran-Ferguson Act here. The 
+McCarran Amendment, which gave the consent of the United States to be 
+sued in state court where certain water rights were in issue, was designed 
+specifically to promote unified adjudication of water rights. Colorado 
+River, 424 U.S. at 819. The McCarran-Ferguson Act, by contrast, has 
+nothing at all to say about state-court jurisdiction, but only insulates cer- 
+tain state regulation of the business of insurance from federal preemption. 
+15 U.S.C. §§ 1011-1015. 
+
+As the District Court concluded, and the Liquidator has not since chal- 
+lenged, a Colorado River stay is unavailable here because there is no 
+concurrent litigation. Pet. App. 22a-23a. The Liquidator’s claims against 
+Allstate are not pending in the state court, and Allstate's potential defense 
+of setoff under Cal. Ins. Code § 1031 is a statutory right independent of 
+its primary contract claims in the liquidation proceeding. 
+
+The Liquidator has not suggested here or in the courts below that 
+the antipreemption provision of the McCarran-Ferguson Act, 15 U.S.C. 
+§ 1012(b), might apply of its own force to bar Allstate's removal. Nor 
+could he: the California Insurance Code does not purport to bar the lit- 
+igation of the Liquidator’s claims in federai court, see Part I1.B.1, below; 
+
+
+35 
+
+
+In short, none of the authorities on which the Liquidator 
+relies to establish that some species of “abstention” might be 
+available in an action at law provides any support for the Dis- 
+trict Court's decision here that the Burford doctrine afforded 
+discretion to refrais trom deciding a contract action for 
+money damages that the defendant had properly removed.*’ 
+
+
+and in any event, § 1012(b) would not protect a law purporting to dis- 
+place diversity jurisdiction because, among other things, such a law 
+would be “logically and temporally unconnected to the transfer of risk” 
+under an insurance policy and therefore would not regulate the “business 
+of insurance.” United Labor Life Ins. Co. v. Pireno, 458 U.S. 119, 130 
+(1982), see also United States Dep't of Treasury v. Fabe, 113 S. Ct. 2202, 
+2209 (1993). In enacting the McCarran-Ferguson Act to protect state laws 
+regulating insurance from preemption, Congress did not intend to deprive 
+the federal courts of jurisdiction to apply those laws. 
+
+
+29 To the extent that the Liquidator's amici curiae The Council of 
+
+
+State Governments and others intend to suggest that the District Court 
+should have abstained on the authority of Thibodaux or McNary (Br. for 
+Amici Council of State Gov'ts et al. 10-14), this Court should not enter- 
+tain the suggestion. The Liquidator did not rely upon the analysis or hold- 
+ing of either case in either the District Court or the Court of Appeals, and 
+he should not be permitted to urge a new ground here. See, e.g., Taylor 
+v. Freeland & Kronz, 503 U.S. 638, 646 (1992). 
+
+In any event, neither Thibodaux nor McNary would support abstention 
+in the circumstances here. First, there is no state-law issue remotely anal- 
+ogous to that which justified deferral of federal proceedings pending a 
+State-court determination of state law in Thibodaux. See Part I1.B.2, 
+below, see also Part II.C, below. Equally, there is no principle of comity 
+applicable to insolvency proceedings remotely analogous to that barring 
+constitutional attacks on the administration of state tax systems found 
+dispositive in McNary. See Part II.B.1, below. The caution Thibodaux and 
+McNary reflect about challenges in federal court to core aspects of state 
+sovereignty, such as eminent domain and taxation, has no application 
+here. While the states undoubtedly have an important interest in insur- 
+ance regulation, the administration of an insolvent’s estate, unlike the 
+power to tax or take property, is not central to its sovereign power. This 
+case also differs from Thibodaux and McNary in that the authority of the 
+Liquidator to act as receiver of Mission, and the validity of the state 
+statutes authorizing him to act in that capacity, are not in question. This 
+Court has warned against “concoct[ing] absention doctrine[s} out of 
+whole cloth,” Ankenbrandt, 504 U.S. at 706 n.8, and there is no reason 
+to do so here. 
+
+
+36 
+
+
+2. The District Court Had No Discretion to Abstain 
+Because Allstate Did Not Seek to Interfere with 
+State Policymaking. 
+
+
+Allstate came to the District Court not to ask that it over- 
+ride an administrative determination made by the Insurance 
+Commissioner in his role as impartial regulator acting in the 
+public interest, but to defend itself against a commercial 
+claim initiated in a state court of general jurisdiction by the 
+Commissioner as Liquidator on behalf of private parties to 
+whom he owes a fiduciary’s duty of loyalty. Because the Liq- 
+uidator was not acting in a regulatory capacity, there could be 
+no prospect that Allstate's defense against the Liquidator’s 
+contract claims would interfere with state policymaking. 
+
+
+The character of the Liquidator’s activity here—and the 
+absence of circumstances giving rise to Burford’s concern for 
+protecting certain administrative proceedings—is reflected in 
+the nature of this action. To collect monies allegedly owed to 
+an insolvent insurer by a third paity, the Liquidator does not 
+conduct an administrative proceeding, but commences an 
+ordinary civil action. Kinder v. Superior Court (Market Ins. 
+Corp.), 78 Cal. App. 3d 574, 579, 144 Cal. Rptr. 291, 295 
+(1978); Maloney v. Rhode Island Ins. Co., 115 Cal. App. 2d 
+238, 249, 251 P.2d 1027, 1033-34 (1953); see Cal. Ins. Code 
+§ 1037(f).°° In that action, the Liquidator must prove facts and 
+make legal arguments like any other litigant.*' And the sub- 
+ject matter of such an action, which by the Liquidator’s own 
+
+
+30 - The Liquidator brought this suit against Allstate as an inde- 
+
+
+pendent action, and it bore a Superior Court docket number separate from 
+that of the liquidation proceedings. See J.A. 35 (Complaint). The under- 
+lying liquidation proceeding, a “special proceeding,” is also judicial, not 
+administrative. Cal. Ins. Code §§ 1011 et seq.; see also Cal. Code Civ. 
+Proc. §§ 22-23; Pet'r Br. 4. 
+
+
+m" The defendant in an action brought by the Liquidator is entitled 
+
+
+to all the protections of a plenary trial under California law, including the 
+right to trial by jury if the action is at law and to findings of fact and con- 
+clusions of law if the case is tried to the bench. Kinder, 78 Cal. App. 3d 
+at 581, 144 Cal. Rptr. at 296. 
+
+
+37 
+
+
+account might here have included claims against any one of 
+hundreds of domestic reinsurers, as well as foreign reinsurers 
+from at least 28 countries, Pet’r Br. 9-11 & n.25, 14 & n.33, 
+is certainly not “distinctively local.” NOPS/, 491 U.S. at 364. 
+
+
+Further, the Liquidator brings the action in pursuit of pri- 
+vate pecuniary interests. The California insurance insolvency 
+Statute expressly provides that “[i]n all proceedings under this 
+article, the commissioner shall be deemed to be a trustee for 
+the benefit of all creditors and other persons interested in the 
+estate” of the insolvent insurer. Cal. Ins. Code § 1057; see id. 
+§§ 1010-1062; Texas Commerce Bank—El Paso v. Garamendi, 
+28 Cal. App. 4th 1234, 1244, 34 Cal. Rptr. 2d 155, 161 
+(1994); see also Pet’r Br. 3, citing Anderson v. Great Repub- 
+lic Life Ins. Co., 41 Cal. App: 2d 181, 188, 106 P.2d 75, 79 
+(1940). The caption on the Liquidator’s papers confirms that 
+he brings this action “in His Capacity as Liquidator and 
+Trustee” of various trusts established in the stead of the insol- 
+vent Mission companies. Pet’r Br. 2 n.2. And the California 
+Court of Appeal has confirmed that “the commissioner is a 
+public official acting on behalf of the state when dealing with 
+insolvent insurers in general, but once appointed conservator 
+of a particular insolvent insurer, the commissioner steps into 
+the shoes of that insurer.” Texas Commerce Bank, 28 Cal. 
+App. 4th at 1245, 34 Cal. Rptr. 2d at 162.” 
+
+
+Regardless of the Liquidator’s status as fiduciary for pri- 
+vate interests, the Liquidator’s claim arises from a contract 
+
+
++ Accord, e.g., Corcoran v. National Union Fire Insurance Co., 
+143 A.D. 2d 309, 532 N.Y.S.2d 376, 378 (1988) (Superintendent of Insur- 
+ance acting as liquidator of insolvent insurance company “acts in a sep- 
+arate and distinct capacity from his role as regulator of the insurance 
+industry,” conducting insolvent’s operations “for the benefit of its cred- 
+itors and policyholders, as opposed to the benefit of the general public”); 
+Helvering v. Therrell, 303 U.S. 218, 225 (1938); Crawford v. Employers 
+Reins. Co., 896 F. Supp. 1101, 1102 (W.D. Okla. 1995); Eagle Life Ins. 
+Co. v. Hernandez, 743 S.W.2d 671, 672 (Tex. App. 1987); Matter of Kin- 
+ney (Miller), 257 A.D. 496, 501, 14 N.Y.S.2d 11, 16, aff'd, 281 N.Y. 840, 
+24 N.E.2d 494 (1939). 
+
+
+38 
+
+
+right belonging to Mission's estate, see Prudential Reins. Co. 
+v. Superior Court (Garamendi), 3 Cal. 4th 1118, 1136-37, 842 
+P.2d 48, 59, 14 Cal. Rptr. 2d 749, 760 (1992), and any 
+recovery on the Liquidator’s claim against Allstate will 
+accrue to the benefit of the liquidation estate and hence to 
+Mission's creditors.** The expenses of the liquidation, includ- 
+ing the salary of a deputy liquidator who may supervise liti- 
+gation and the fees of counsel who conduct it, are paid out of 
+the assets of the receivership estate. Cal. Ins. Code §§ 1033, 
+1035. Because he is pursuing private claims, the Liquidator is 
+treated as a private litigant. See Texas Commerce Bank, 28 
+Cal. App. 4th at 1245-46, 34 Cal. Rptr. 2d at 162." 
+
+
+3 The Liquidator’s suggestion, without citation to California 
+
+
+authority, that Mission's insolvency transformed its contracts into “reg- 
+ulatory agreements” with a state official, Pet'r Br. 49, is both irrelevant 
+and flatly contradicted by California law. See Prudential Reinsurance, 
+3 Cal. 4th at 1136-37, 842 P.2d at 60, 14 Cal. Rptr. 2d at 760 (rejecting 
+argument that insolvency transmuted reinsurance contracts into agree- 
+ments with regulator so as to defeat setoff rights). 
+
+
+- All fifty states have established statutory guarantee associations, 
+
+
+funded by the insurance industry, to protect policyholders from the effect 
+of insurance company insolvencies. See note 3, above. To the extent that 
+policyholder claims are covered by guarantee associations, recovery of 
+a claim by an insolvent insurance company benefits not its individual pol- 
+icyholders but the guarantee associations and the solvent insurance com- 
+panies that constitute their membership. 
+
+
+SI is plain that the Insurance Commissioner, as Liquidator and 
+
+
+Trustee pursuing the interests of the estate's creditors, could not simul- 
+taneously act as neutral regulator pursuing the general welfare of the peo- 
+ple of California. See Texas Commerce Bank, 28 Cal. App. 4th at 1244, 
+34 Cal. Rptr. 2d at 161 (liquidator owes estate's creditors “a duty of loy- 
+alty, which has been interpreted to mean that the trustee must adminis- 
+ter the trust solely in the interest of the beneficiary”) (emphasis added). 
+For example, a House subcommittee has concluded that the Liquidator 
+here, in effect, turned a blind eye to substantial evidence of fraud by for- 
+mer Mission management so as not to compromise his chances of recov- 
+ering against Mission's reinsurers. See Subcomm. on Oversight, supra 
+note 4, at 62-63, 74. Regardless of whether former Mission management 
+actually committed fraud or what conclusions the Liquidator reached on 
+
+
+39 
+
+
+The Burford doctrine provides a shield to protect state pol- 
+icymaking processes conducted by administrative agencies on 
+matters of local concern, not a sword to defeat diversity juris- 
+diction in private commercial litigation. Because Allstate's 
+defense of this action poses no risk of “interference with [Cal- 
+ifornia’s] administrative policy-making process,” Lumber- 
+men's Mutual, 348 U.S. at 53, the District Court had no 
+discretion to abstain. See NOPS/, 491 U.S. at 360-62; Tribune 
+Co. v. Abiola, 66 F.3d at 15-17; Fragoso v. Lopez, 991 F.2d at 
+882 & n.6. 
+
+
+B. Neither of the Interests the Liquidator Asserts Here 
+May Defeat Allstate’s Right to Invoke the District 
+Court’s Diversity Jurisdiction. 
+
+
+At bottom, the Liquidator’s position here rests not on the 
+carefully circumscribed Burford doctrine, but on an infinitely 
+broader notion that a District Court should be permitted to 
+abstain whenever the controversy before it arises in an area 
+affected by state regulation. Not only would such a notion 
+precipitate enormous amounts of wasteful litigation, as liti- 
+gants found cause to urge abstention in the faintest whiff of a 
+State interest, but it is flatly inconsistent with Congress's 
+grant of diversity jurisdiction to the federal courts. But even 
+if, as the Liquidator implicitly suggests, the Burford doctrine 
+permitted a District Court to replace this Court's precisely 
+delimited criteria with an ad hoc balancing of the state and 
+federal interests present in each case, there would be no basis 
+for abstention here. 
+
+
+the matter, the Subcommittee Report highlights the inconsistency 
+between a liquidator’s obligation vigorously to defend against such alle- 
+gations as representative of the insolvent insurer and the duty of an 
+impartial regulator to root out fraud. 
+
+
+40 
+
+
+1. The Liquidator’s Preference for Consolidated 
+Litigation Cannot Defeat Allstate’s Right to 
+Invoke Diversity Jurisdiction. 
+
+
+The Liquidator repeatedly argues that requiring him to pur- 
+sue his suit against Allstate in federal court would “disrupt[ }” 
+California’s statutory insolvency scheme, because, according 
+to the Liquidator, that scheme “clearly contemplates. . . 
+a single, integrated proceeding to devise and implement 
+rehabilitation plans, to marshal assets, accept and adjudicate 
+claims, and otherwise to protect policyholders.” Pet'r 
+Br. 21, 31. California law, however, could not and does not 
+require concentration of all litigation in the liquidation court. 
+And a long line of this Court’s cases squarely refutes the 
+notion that a liquidator or receiver has any reason to complain 
+about the adjudication of claims involving the insolvent out- 
+side the liquidation or receivership proceeding. 
+
+
+As an initial matter, California does not have the consti- 
+tutional authority to derogate from jurisdiction granted by 
+Congress by claiming exclusive authority over suits relating 
+to a given subject. Pennsylvania v. Williams, 294 U.S. 176, 
+180-82 (1935); Penn General Cas. Co. v. Pennsylvania, 294 
+U.S. 189, 197 (1935); see also Harrison v. St. Louis & S.F.R. 
+Co., 232 U.S. 318, 328-329 (1914). Equally, a state court does 
+not have the constitutional authority to enjoin a party from 
+pursuing an in personam claim in a federal court. General 
+Atomic Co. v. Felter, 434 U.S. 12, 17 (1977); Donovan v. City 
+of Dallas, 377 U.S. 408, 412-13 (1964).*° 
+
+
+” While the Liquidator refers to the liquidation court's injunction, 
+
+
+Pet'r Br. 8-9 & n.20, he does not argue that the injunction barred Allstate 
+from removing this action. In any event, the liquidation court's injunc- 
+tion does not, by its own terms, apply to this suit, which was initiated by 
+the Liquidator, see, e.g., J.A. 9, 24, and Allstate could not now be pre- 
+cluded from challenging the injunction if it did, see Martin v. Wilks, 490 
+U.S. 755 (1989); Underwriters Nat'l Assur. Corp. v. North Carolina Life 
+Ins. Guar Ass'n, 455 U.S. 691 (1982). 
+
+
+41 
+
+
+Unsurprisingly, then, the California statutory scheme does 
+not depend on the consolidation of all estate-related litigation 
+in the liquidation court. The California Insurance Code autho- 
+rizes the liquidator to “collect all debts due and claims 
+belonging to” the insurer in liquidation, id. § 1037(b); autho- 
+rizes him or her to “prosecute and defend any and all suits 
+and other legal proceedings” involving the insurer, id. 
+§ 1037(f); and establishes jurisdiction in the liquidation court 
+over any actions brought by or against the insurer, id. § 1058. 
+Nothing in the statute, however, purports to require that all 
+actions involving an insolvent insurer be brought in the same 
+court in which the liquidation proceeding was commenced. 
+See Webster v. Superior Court (Gillespie), 46 Cal.3d 338, 
+343-53, 758 P.2d 596, 598-603, 250 Cal. Rptr. 268, 271-78 
+(1988) (liquidation court not required to enjoin proceedings 
+against insolvent insurer in other courts); accord Fabe v. 
+Columbus Ins. Co., 68 Ohio App. 3d 226, 233, 587 N.E.2d 
+966, 970 (1990) (Ohio law). This case began in the same 
+court in which the liquidation proceeding is pending only 
+because the Liquidator, for his own convenience, chose to file 
+it there. 
+
+
+At the Liquidator’s own request, the Mission liquidation 
+court has entered a series of orders providing “([t}hat the Liq- 
+uidator is authorized to initiate such equitable or legal actions 
+or proceedings in this or other states as may appear to him 
+necessary to carry out his functions as Liquidator.” E.g., J.A. 
+10 (emphasis added). As conservator or liquidator of other 
+insurers, the Commissioner has frequently availed himself or 
+herself of the right to litigate in federal court and in courts of 
+states outside of California.*’ Indeed, allowing liquidators 
+
+
+37 ‘See, e.g., Gillespie v. Waite-Hill Assur. Ltd., No. 87-08504 RMT 
+(Kx) (C.D. Cal. 1987) (Commissioner as liquidator of insolvent insurers 
+sued to collect under reinsurance contract); Garamendi v. Caldwell, 
+[1992 Transfer Binder] Fed. Sec. L. Rep. (CCH) 996,861 (C.D. Cal. 
+1992) (Commissioner as liquidator of insolvent insurer sued for damages 
+for fraud, negligent misrepresentation, and RICO violations); Oakbrooke 
+Assocs., Ltd. v. Insurance Comm'r of Cal., 581 So. 2d 943 (Fla. App. 
+
+
+42 
+
+
+access to other states’ courts is one of the central purposes of 
+the Uniform Insurers Liquidation Act, which California has 
+adopted.** 
+
+
+Thus, the Liquidator’s argument boils down to an assertion 
+that in order to avoid interfering with the liquidation of an 
+insolvent insurer, federal courts should cede to the liquidation 
+court jurisdiction over any case involving that insurer. This 
+Court has repeatedly rejected that assertion, holding to the 
+contrary that the adjudication of ordinary contract claims 
+involving a company in receivership does not interfere with 
+the receiver's administration of the company’s assets or the 
+payment of its creditors. See, e.g., Coit Independence Joint 
+Venture v. FSLIC, 489 U.S. 561, 575-76 (1989); Morris v. 
+Jones, 329 U.S. 545, 548-50 (1947); United States v. Klein, 
+303 U.S. 276, 281-83 (1938); Riehle v. Margolies, 279 U.S. 
+218, 223-25 (1929); Bank of Bethel v. Pahquioque Bank, \4 
+Wall. (81 U.S.) 383, 401-02 (1872). 
+
+
+This Court has carefully delineated both the scope and lim- 
+its of the principle of reciprocal comity that applies when one 
+court, either federal or state, has taken jurisdiction in rem 
+over specific property, as has the liquidation court over Mis- 
+sion’s assets. “[T]he settled rule with respect to suits in equity 
+for the control by receivership of the assets of an insolvent 
+corporation,” which is “applicable to both federal and state 
+
+
+1991) (Commissioner as liquidator of insolvent insurer sued in Florida 
+state court to enforce assignment of rents and leases); Nassau Square 
+Assocs. v. Insurance Comm'r of Cal., 579 So. 2d 259 (Fla. App. 1991) 
+(similar). 
+
+
+3% See Prefatory Notes 92, in 13 U.L.A. 321, 322 (1986 ed.). The 
+Uniform Act also authorizes insurance commissioners in other states to 
+establish ancillary liquidation proceedings in which creditors can prove 
+claims against the insolvent insurer, see note 1, above, in order to spare 
+creditors residing in those states “the expense, annoyance and hardship 
+of proceeding in the courts of the domicile of the insurance company.” /d. 
+94, 13 U.L.A. at 323; see Cal. Ins. Code §§ 1064.3(b), 1064 .4(b). The 
+disposition of claims in such ancillary proceedings is binding on the Cal- 
+ifornia liquidation court. Cal. Ins. Code § 1064.4(b). 
+
+
+43 
+
+
+courts,” is that “the court first assuming jurisdiction over the 
+property may maintain and exercise that jurisdiction to the 
+exclusion of the other.” Penn General Cas. Co. v. Penn- 
+sylvania ex rel. Schnader, 294 U.S. 189, 195 (1935). But 
+“[w]here the judgment sought is strictly in personam, for the 
+recovery of money or for an injunction,” another court need 
+not yield. Penn General, 294 U.S. at 195; see Kline, 260 U.S. 
+at 230-31. 
+
+
+Applying this rule, this Court has held time and again that 
+a federal court may not surrender jurisdiction over an in per- 
+sonam claim involving an insolvent estate simply because, as 
+here, a state court has control over the res. For example, in 
+Morris v. Jones, the Court held that in light of the require- 
+ments of full faith and credit, the Illinois Supreme Court had 
+erred in upholding the disallowance of a claim in an insurance 
+liquidation proceeding that had been based on a judgment 
+rendered against the liquidator in a Missouri court. 329 U.S. 
+at 550-54. The Court explained that the “establishment of the 
+existence and amount of a claim against the debtor in no way 
+disturbs the possession of the liquidation court.” 329 U.S. at 
+549. Thus, the Court held, “the notion that. . . control over 
+
+
+" This rule of priority arises from practical necessity. When two 
+
+
+courts simultaneously assert in rem or quasi in rem jurisdiction over the 
+same property, one court must yield to the other with regard to an in rem 
+or quasi in rem claim if either is to “have possession or control of the 
+property which is the subject of the suit in order to proceed with the 
+cause and grant the relief sought.” Penn General, 294 U.S. at 195; see 
+Kline, 260 U.S. at 235. Contrary to the Liquidator's suggestion, Pet'r Br 
+7-8 n.18, a suit “to establish a debt” is strictly in personam, U.S. v. Bank 
+of N.Y., 296 U.S. 463, 478 (1935), and is therefore unlike a suit to “mar- 
+shal assets,” which involves the enforcement of liens against specific 
+property, see, ¢.g., Sowell v. Federal Reserve Bank, 268 U.S. 449, 456- 
+457 (1925), thus requiring the court to “control the property” in order “to 
+give effect to its jurisdiction,” Bank of N.Y., 296 U.S. at 477. The only 
+assets of Mission involved in this action are its contract claims. Allstate 
+does not dispute the Liquidator’s control over those claims, but merely 
+seeks to defend against them as an adverse party. See Kinder. 78 Cal. 
+App. 3d at 580-581, 144 Cal. Rptr. at 295-296. 
+
+
+44 
+
+
+proof of claims is necessary for the protection of the exclu- 
+Sive jurisdiction of the court over the property is a mistaken 
+one.” /d.*° 
+
+
+The Court relied on this principle in Coit Independence 
+Joint Venture, in which it held that a suit against the Federal 
+Savings and Loan Insurance Corporation in its capacity as a 
+receiver of an insolvent savings and loan association did not 
+“restrain or affect” the exercise of the FSLIC’s receivership 
+functions within the meaning of the applicable statute. 489 
+U.S. at 574-77. Examining the background against which the 
+statute had been enacted, the Court observed that “it was well 
+established at common law that suits establishing the exis- 
+tence or amount of a claim against an insolvent debtor did not 
+interfere with or restrain the receiver's possession of the 
+insolvent’s assets or its exclusive control over the distribution 
+of assets to satisfy claims. /d. at 575, citing Morris, 329 U.S. 
+at 549; Riehle, 279 U.S. at 224; and Bank of Bethel, 14 Wall. 
+at 401 -402.*! 
+
+
+“© See, ¢.g., Bank of N.¥., 296 U.S. at 478 (suit “to establish a debt” 
+against insurer in liquidation, unlike suit to recover possession of the res 
+in the control of the liquidation court, can be adjudicated “without dis- 
+turbing the control of the state court”); Riehle, 279 U.S. at 224 (“[t}here 
+is no inherent reason why the adjudication of the liability of the debtor 
+im personam may not be had in some court other than that which has con- 
+trol of the res”); see also Markham v. Allen, 326 U.S. 490, 494-95 (1946) 
+(in personam federal suits by and against probate administrator do not 
+interfere with state court's jurisdiction over estate or violate probate 
+exception to federal jurisdiction); Princess Lida v. Thompson, 305 U.S. 
+456, 467 (1938) (“an action in federal court to establish the validity or 
+the amount of a claim [against trust under state court control} constitutes 
+no interference with a state court's possession or control of a res”); Com- 
+monwealth Trust Co. v. Bradford, 297 U.S. 613, 617-620 (1936) (in per- 
+sonam federal suit by receiver of insolvent bank to establish right to 
+participate in trust does not disturb state court's in rem control over trust 
+assets). 
+
+
+*! Against this background, it is clear that the Liquidator reads too 
+much into Penn General and Pennsylvania v. Williams. See Pet'r Br. 
+43-45. In Penn General, a federal-court equity receivership had been 
+
+
+45 
+
+
+By complaining that federal adjudication of his action 
+against Allstate would unduly interfere with the conduct of 
+the liquidation proceeding, the Liquidator simply recasts in 
+Burford guise an argument that this Court has rejected in Coit, 
+Morris, and the long line of decisions they represent. If the 
+Liquidator could not have complained about defending a 
+claim against the Mission estate outside the liquidation court, 
+surely he cannot complain about having to pursue his own 
+claim against a third party there. As the Court said in Morris 
+with respect to the full faith and credit statute, so too with 
+respect to the diversity statute: neither contains an “exception 
+in case of liquidations of insolvent insurance companies.” 329 
+U.S. at 553. Simply put, the Liquidator’s argument from “con- 
+venience in administration,” id., cannot defeat Allstate's right 
+to invoke the diversity jurisdiction of the District Court. 
+
+
+2. The Presence of State-Law Issues Cannot Defeat 
+Allstate's Right to Invoke Diversity Jurisdiction. 
+
+
+The Liquidator also contends that the presence of important 
+state law issues justified the District Court's remand order. 
+Pet'r Br. 5-6. The Liquidator misconceives the role of state 
+law and policy in the Burford doctrine, which is concerned 
+not with preventing federal courts from deciding important 
+issues of state law, but with preventing them from displacing 
+state courts when they are providing specialized review of 
+
+
+commenced against an insolvent insurer. The Court held that the federal 
+court sitting im equity, “in the exercise of judicial discretion,” could relin- 
+quish control over the insurer's assets to a state court that had appointed 
+the state imsurance commissioner as statutory liquidator, even though the 
+federal court had acquired jurisdiction first. 294 U.S. at 194-99, see also 
+Pennsylvania v. Williams, 294 U.S. at 182-86 (companion case, liqui- 
+dation of building and loan society). But the Court stressed in Penn Gen- 
+eral that the jurisdiction of whichever court ended up with in rem contro! 
+of the assets was “exclusive only so far as its exercise is necessary for the 
+appropriate control and disposition of the property.” 294 U.S. at 198, see 
+Commonwealth Trust Co., 297 U.S. at 619-20 (doctrine of Penn General 
+and Pennsylvania v. Williams has no application to in personam claims) 
+
+
+46 
+
+
+State administrative policymaking on matters of peculiarly 
+local concern. See Part I1.A, above. The Liquidator's argu- 
+ment simply dresses up in Burford rhetoric an assumption 
+that, as this Court has repeatedly held, conflicts with the very 
+basis of diversity jurisdiction. 
+
+
+A federal court has a bedrock obligation to decide issues of 
+state law—easy or hard, settled or unsettled—arising in the 
+cases that come before it. Meredith v. City of Winter Haven, 
+320 U.S. 228, 236 (1943); see also McNeese v. Board of 
+Educ., 373 U.S. 668, 673 n.5 (1963); Propper v. Clark, 337 
+U.S. 472, 489-90 (1948). Indeed, “[t]he very essence of the 
+Erie doctrine is that the bases of state law are presumed to be 
+communicable by the parties to a federal judge no less than to 
+a State judge.” Salve Regina College v. Russell, 499 U.S. 225, 
+238 (1991), citing Erie R. Co. v. Tompkins, 304 U.S. 64 
+(1938). 
+
+
+Even setting aside the District Court's obligation to decide, 
+as a threshold matter, Allstate's motion to compel arbitration 
+under the Federal Arbitration Act, see Part II.C, below, this 
+case would do no more than require the District Court to ful- 
+fill that bedrock obligation. Even if the Court were to deny 
+the motion to compel arbitration and reach the underlying 
+issues of liability, it would have to apply only the common 
+law of contract; defenses based on contract language and prin- 
+ciples such as statutes of limitations; the statutory right of 
+setoff; or whatever other principles the parties might urge the 
+Court to apply. Decisions on such issues constitute the every- 
+day fare of a district court. See Grode v. Mutual Fire, 8 F.3d 
+at 959.” 
+
+
+42 
+
+
+While the Liquidator repeatedly refers to the supposed com- 
+plexity of the insurance insolvency provisions of the California Insurance 
+Code, he makes no attempt to explain why the District Court, if required 
+to do so, would be incapable of reaching “the correct application and 
+interpretation,” Pet'r Br. 6, of the setoff provision, Cal. Ins. Code § 1031, 
+or the California Supreme Court's recent construction of that provision 
+in Prudential Reinsurance, 3 Cal. 4th at 1136-37, 842 P.2d at 59-60, 14 
+Cal. Rptr. 2d at 761. Occupying less than a single page of text, the sec- 
+
+
+47 
+
+
+The Liquidator also argues that he has a right to protection 
+against “multiple litigation in multiple jurisdictions with 
+varying interpretations of California law and policy.” Pet’r Br. 
+48; see also id. at 9, 14, 47. He thereby echoes the District 
+Court, which based its Burford holding on a determination 
+that California's “overriding interest in regulating insurance 
+insolvencies and liquidation in a uniform and orderly manner 
+
+. . could be undermined by inconsistent rulings from the 
+federal and state courts” on “the hotly contested set-off 
+issue.” Pet. App. 34a. It is well settled, however, that “the 
+mere potential for conflict in the results of adjudications, does 
+not, without more, warrant staying exercise of federal juris- 
+diction.” Colorado River, 424 U.S. at 816. Were the rule oth- 
+erwise, any party facing repetitive litigation on identical 
+claims would be able to seek dismissal of suits in one or sev- 
+eral courts in favor of suits pending elsewhere involving sim- 
+ilar issues. Notwithstanding the Liquidator’s lament, the risk 
+of inconsistent adjudications on identical issues is a risk that 
+inheres in any multicourt system, including the multiple 
+courts of a single state, the independent judicial systems of 
+the several states, or the dual judicial systems of the state and 
+federal governments. 
+
+
+By trumpeting the objective of California law to protect 
+insurance policyholders, the Liquidator comes close to assert- 
+ing that California has an interest in the outcome of this suit. 
+Pet'r Br. 48; see also Pet. App. 15a. But the Liquidator can- 
+not mean to suggest that California would have any interest in 
+this dispute beyond ensuring its fair and just adjudication. By 
+diligently proceeding to resolve the case by deciding the 
+issues as they arose, the District Court would ensure the vin- 
+dication of any state policies reflected in applicable Cali- 
+fornia law. 
+
+
+tion is patterned after the setoff provision of the federal Bankruptcy Act 
+of 1898, codifies the common-law right of setoff, and contains no ref- 
+erences to arcane concepts of insurance regulation. See id. at 1123-24, 
+842 P.2d at 50, 14 Cal. Rptr. 2d at 751. 
+
+
+48 
+
+
+C. The District Court Had No Discretion to Abstain in 
+the Face of Allstate’s Motion to Compel Arbitration 
+Under the Federal Arbitration Act. 
+
+
+Immediately after removing this case to federal court, All- 
+state filed a motion to compel arbitration under the Federal 
+Arbitration Act, 9 U.S.C. §§ 2-4. J.A. 77-110. As this Court 
+has repeatedly explained, that Act reflects “an emphatic fed- 
+eral policy in favor of arbitral dispute resolution.” Mitsubishi 
+Motors Corp. v. Soler Chrysler-Plymouth, Inc., 473 U.S. 614, 
+631 (1985); see, e.g., Mastrobuono v. Shearson Lehman Hut- 
+ton, Inc., 115 S. Ct. 1212, 1215-16 (1995).* 
+
+
+Sections 3 and 4 of the Act give the federal policy teeth. 
+Those sections implement “Congress’ clear intent. . . to 
+move the parties to an arbitrable dispute out of court and into 
+arbitration as quickly and easily as possible.” Moses H.Cone 
+Memorial Hospital v. Mercury Construction Corp., 460 U.S. 
+1, 22 (1983). Thus, when faced with a motion to compel arbi- 
+tration, the court “may consider only issues relating to the 
+making and enforcement of the agreement to arbitrate.” Prima 
+Paint Corp. v. Flood & Conklin Mfg. Co., 388 U.S. 395, 404 
+(1967). “By its terms, the Act leaves no place for the exercise 
+of discretion by a district court, but instead mandates that dis- 
+
+
+43 As the treaties at issue here reflect, J.A. 108-09, arbitration is 
+
+
+the virtually universal means of dispute resolution in the reinsurance 
+industry. Ronald A. Jacks, Arbitration and Insurer Insolvencies, in ABA, 
+Law and Practice of Insurance Company Insolvency 260 (1986). Believ- 
+ing strongly in the efficiency and fairness of industry arbitration, Allstate 
+has consistently and vigorously sought to vindicate its right under the 
+Federal Arbitration Act to ready enforcement of agreements to arbitrate. 
+See, e.g., Universal Reinsurance Corp. v. Allstate Ins. Co., 16 F.3d 125 
+(7th Cir. 1994) (enforcing right under reinsurance contract arbitration 
+Clause to appoint arbitrator upon adverse party's failure to do so in timely 
+manner); North River Ins. Co. v. Allstate Ins. Co., 866 F. Supp. 123 
+(S.D.N.Y. 1994) (holding arbitrable collateral estoppel issues pursuant 
+to arbitration clause in reinsurance contract); Ainsworth v. Allstate Ins. 
+Co., 634 F. Supp. 52 (W.D. Mo. 1985) (holding enforceable against liq- 
+uidator of insolvent insurer arbitration clause in reinsurance contract). 
+
+
+49 
+
+
+trict courts shall direct the parties to proceed to arbitration on 
+issues as to which an arbitration agreement has been signed.” 
+Dean Witter Reynolds Inc. v. Byrd, 470 U.S. 213, 218 (1985) 
+(emphasis in original). In short, courts must implement the 
+Act in a manner that prevents a party resisting arbitration 
+from generating the kind of “prearbitration litigation that 
+would frustrate the very purpose of the statute.” Allied-Bruce 
+Terminix Cos. v. Dobson, 115 S. Ct. 834, 843 (1995) (O’Con- 
+nor, J., concurring); see also id. at 841-42 (opinion of the 
+Court); Moses H. Cone, 460 U.S. at 23 (emphasizing “statu- 
+tory policy of rapid and unobstructed enforcement of arbi- 
+tration agreements”). 
+
+
+Even if the Burford doctrine might otherwise apply in an 
+action to collect money on a contract, it surely cannot apply 
+in the face of a motion to compel arbitration under the Federal 
+Arbitration Act. See Moses H. Cone, 460 U.S. at 23-26. Not 
+only does such a motion seek no restraint on the enforcement 
+of a state administrative order, but it is inconceivable that a 
+decision on such a motion by a federal court would disrupt 
+the development of uniform state policy in an area of pecu- 
+liarly local concern. See NOPS/, 491 U.S. at 361-62. 
+
+
+The Liquidator nevertheless suggests that the Burford doc- 
+trine might apply here because the post-liquidation enforce- 
+ability of agreements to arbitrate “is an unsettled question 
+under California law.” Pet’r Br. 5; see id. 26. The enforce- 
+ability of arbitration agreements, however, is a matter of fed- 
+
+
+eral law. Even if California law purported to render 
+
+
+agreements to arbitrate unenforceable against the liquidator 
+of an insolvent insurance company,“ it would remain a ques- 
+
+
+44 —_— Neither the California Insurance Code nor the California Arbi- 
+
+
+tration Act contains any provision purporting to have that effect, and the 
+Liquidator can point to no reported California decision holding that they 
+do. To the contrary, the California courts have held that a liquidator 
+“steps into the shoes of the insolvent insurer, taking the relevant claims 
+and defenses as he finds them,” Prudential Reinsurance, 3 Cal. 4th at 
+1136-37, 842 P.2d at 59, 14 Cal. Rptr. 2d at 760; see Texas Commerce 
+
+
+50 
+
+
+tion of federal law whether the antipreemption provision of 
+the McCarran-Ferguson Act, 15 U.S.C. § 1012(b), insulated 
+such a provision from the otherwise preemptive effect of the 
+Federal Arbitration Act. See Terminix, 115 S. Ct. at 838-39; 
+Perry v. Thomas, 482 U.S. te 489-90 (1987); Southland 
+Corp. v. Keating, 465 U.S. 1, 15-16 (1984). 
+
+
+As NOPSI makes clear, a federal court may not abstain 
+from deciding a question of federal preemption. 491 U.S. at 
+362-63; see Moses H. Cone, 460 U.S. at 23-26. At a mini- 
+mum, the District Court had no discretion to remand the case 
+to the state court without deciding Allstate’s motion to com- 
+pel arbitration under the Federal Arbitration Act 
+
+
+CONCLUSION 
+
+
+The judgment of the United States Court of Appeals for the 
+Ninth Circuit should therefore be affirmed. 
+
+
+Respectfully submitted, 
+
+
+JOSEPH D. LEE DONALD FRANCIS DONOVAN 
+Munger, Tolles & Olson (Counsel of Record) 
+
+CARL MICARELLI 
+
+Debevoise & Plimpton 
+JAMES G. SPORLEDER 875 Third Avenue 
+MARY KATHERINE D’AMORE New York, New York 10022 
+Allstate Insurance Company Telephone: (212) 909-6000 
+
+
+Attorneys for Respondent 
+Allstate Insurance Company 
+
+
+January 5, 1996 
+Bank, 28 Cal App 4th at 1245 1246, 34 Cal R ptr 2d at 162: HD 
+
+
+Roosen Co. v. Pacific Radio Pub. Co., 123 Cal. App. 525, 534, 11 P.2d 
+
+
+873. 876 (1932) 
+
+
+APPENDIX 
+
+
+APPENDIX 
+
+
+28 U.S.C. § 1291 provides: 
+
+
+The courts of appeals (other than the United States Court 
+of Appeals for the Federal Circuit) shall have jurisdic- 
+tion of appeals from all final decisions of the district 
+courts of the United States, the United States District 
+Court for the District of the Canal Zone, the District 
+Court of Guam, and the District Court of the Virgin 
+Islands, except where a direct review may be had in the 
+Supreme Court. The jurisdiction of the United States 
+Court of Appeals for the Federal Circuit shall be limited 
+to the jurisdiction described in sections 1292(c) and (d) 
+and 1295 of this title. 
+
+

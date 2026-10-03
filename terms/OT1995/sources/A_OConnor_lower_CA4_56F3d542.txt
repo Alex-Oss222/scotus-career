@@ -1,0 +1,221 @@
+James O’CONNOR, Plaintiff-Appellant, v. CONSOLIDATED COIN CATERERS CORPORATION, Defendant-Appellee, Equal Employment Opportunity Commission, Amicus Curiae.
+
+No. 94-1214.
+
+United States Court of Appeals, Fourth Circuit.
+
+Argued Jan. 31, 1995.
+
+Decided April 21, 1995.
+
+Amended Opinion June 8, 1995.
+
+      *543ARGUED: George Daly, George Daly, P.A., Charlotte, NC, for plaintiff-appellant. Barbara L. Sloan, E.E.O.C., Washington, DC, for amicus curiae. James Bernard Spears, Jr., Haynsworth, Baldwin, Johnson & Greaves, P.A., Charlotte, NC, for defendant-appellee. ON BRIEF: Sharon Samek, George Daly, P.A., Charlotte, NC, for plaintiff-appellant. James R. Neely, Jr., Deputy Gen. Counsel, Gwendolyn Young Reams, Associate Gen. Counsel, and Lorraine C. Davis, Asst. Gen. Counsel, E.E.O.C., Washington, DC, for amicus curiae. Jacob J. Modla, Haynsworth, Baldwin, Johnson & Greaves, P.A., Charlotte, NC, for defendant-appellee.
+
+Before HAMILTON and LUTTIG, Circuit Judges, and BUTZNER, Senior Circuit Judge.
+
+Affirmed by published opinion. Judge HAMILTON wrote the opinion, in which Judge LUTTIG joined. Senior Judge BUTZNER wrote a separate opinion, concurring in part and dissenting in part.
+
+OPINION
+
+HAMILTON, Circuit Judge:
+
+James O’Connor (O’Connor) brought a claim against Consolidated Coin Caterers Corporation (Consolidated) pursuant to the Age Discrimination in Employment Act (ADEA), 29 U.S.C.A. §§ 621-684 (West 1985 & Supp.1994), contending that Consolidated terminated him because of his age. The district court granted summary judgment in favor of Consolidated, holding that O’Connor could not succeed on his claim of age discrimination. We affirm.
+
+I.
+
+Consolidated operates cafeterias and vending machines primarily for use in industrial plants, businesses, schools and health care facilities. Although separately incorporated, Consolidated operates as a division of its parent company, Canteen Corporation (Canteen). In 1986, O’Connor was the general manager of Consolidated’s northern region known as 4Cs North, which was centered in Raleigh, North Carolina, and served northern North Carolina and southern Virginia; Edward Williams (Williams) was O’Connor’s direct supervisor, and Williams reported to Ted Arts (Arts), President of Canteen’s Central Division.
+
+In 1989, Canteen restructured its operations so as to have three geographic territories instead of four. As a result of this reorganization, O’Connor became the general manager of 4Cs South, which was based in Charlotte, North Carolina, and served southern and western North Carolina, as well as northern South Carolina, and Mike Kiser (Kiser) of Consolidated took over O’Connor’s job as general manager of 4Cs North. Allen *544Hunter (Hunter) and Ted Finnell (Finnell), employees of Canteen, remained respectively the managers of Canteen’s Greensboro/Raleigh and Greenville/Spartanburg operations.
+
+On July 10, 1990, Williams reassigned three geographic territories from O’Connor to Kiser, resulting in the following management scheme:
+
+Kiser
+
+4Cs North Manager
+
+Burlington
+
+Smithfield
+
+Tarboro
+
+Hickory
+
+Asheville
+
+Albemarle
+
+South Boston
+
+Hunter
+
+Canteen Manager
+
+Raleigh
+
+Greensboro
+
+O’Connor
+
+4Cs South Manager
+
+Charlotte
+
+Laurinburg
+
+Shelby
+
+According to Consolidated, Williams reassigned the territories from O’Connor to Kiser because O’Connor was slow in responding to problem accounts. When this decision was made, Williams did not know that Arts was planning another reorganization to consolidate Canteen and Consolidated’s operations.
+
+Sometime subsequent to July 10, 1990, Arts contacted Williams, informing him that he wanted to reorganize Canteen and Consolidated’s operations in North and South Carolina to reduce operating costs under the following terms: combine Consolidated with Canteen’s North and South Carolina’s operations into a single, larger geographic territory, have this new territory managed by Williams, and have Williams combine the management responsibilities of Finnell, Kiser, Hunter, and O’Connor. Subsequently, Williams decided to divide this new territory into two newly-organized districts: the Northern District serving northern North Carolina and southern Virginia, and the Southern District serving southern North Carolina and all of South Carolina. These two new districts were substantially larger in geographic territory than under the previous organizations. In August of 1990, this new “Carolinas Region” was organized as follows:
+
+CAROLINAS REGION
+
+Finnell
+
+Southern District
+
+Charlotte
+
+Shelby
+
+Laurinburg
+
+Greenville
+
+Spartanburg
+
+Columbia
+
+Hickory
+
+Asheville
+
+Albemarle
+
+Kiser
+
+Northern District
+
+Burlington
+
+Smithfield
+
+Tarboro
+
+Raleigh
+
+Greensboro
+
+South Boston
+
+As a consequence of this reorganization, on August 10, 1990, O’Connor, age fifty-six, was discharged, and Hunter, age fifty-seven, was demoted.
+
+Having created two new, large districts, Williams chose Finnell, age forty, to manage the Southern District, and Kiser, age thirty-five, to manage the Northern District. According to Consolidated, crucial to selecting the managers for the new districts was the fact that there were substantially greater management responsibilities than had been required under the previous organizations and the new districts were substantially larger in geographic area. Williams asserted he selected Finnell and Kiser because he was Finnell’s former direct superior, had firsthand knowledge of both men’s work and abilities, and considered them competent to handle the greater responsibilities and larger geographic territory.
+
+According to Consolidated, it did not select O’Connor to manage one of the two new districts because they served a greater number of customers, entailed more accounts, covered a substantially larger geographic territory, and O’Connor was slow in responding to problem accounts. Consolidated asserted that a critical factor in not selecting O’Connor was the fact that even before the second reorganization, Williams had reduced the size of O’Connor’s territory from six territories to three. Given that O’Connor was slow with his already-reduced territory, Consolidated concluded that he could not handle an even larger region. Also, Consolidated asserted that O’Connor had not timely re*545sponded to a problem involving food delivery in unrefrigerated trucks.
+
+Discrediting Consolidated’s reasons for terminating him, O’Connor asserted that he was discharged because of his age; consequently, he brought suit under the ADEA. The district court granted summary judgment in favor of Consolidated. Although observing that this case was not the typical reduction-in-force case characterized by mass layoffs, because here the reduction consisted of only O’Connor and Hunter and O’Connor was essentially replaced by Finnell, the district court nevertheless applied the modified McDonnell Douglas four-prong test used in reduction-in-force suits and concluded that O’Connor failed to establish a prima facie case because O’Connor failed to present any evidence that Consolidated did not treat age neutrally in deciding to terminate him. Next, the district court held that O’Connor failed to establish his case by the ordinary burden of establishing by direct and/or circumstantial evidence that he was terminated because of his age.
+
+Subsequently, O’Connor moved for a new trial, ostensibly on the basis of newly-discovered evidence. See Fed.R.Civ.P. 59(a). O’Connor’s proffered evidence was an affidavit of a former coworker, Phillip Dennis (Dennis). Because there had been no trial, but a grant of summary judgment, the district court construed O’Connor’s motion as one for relief from judgment based on newly-discovered evidence and denied it. See Fed. R.Civ.P.60(b)(2). This appeal followed.
+
+II.
+
+Rule 56(e) requires that the district court enter judgment against a party who, “after adequate time for ... discovery fails to make a showing sufficient to establish the existence of an element essential to that party’s case, and on which that party will bear the burden of proof at trial.” Celotex Corp. v. Catrett, 477 U.S. 317, 322, 106 S.Ct. 2548, 2552, 91 L.Ed.2d 265 (1986). To prevail on a motion for summary judgment, Consolidated must demonstrate that: (1) there is no genuine issue as to any material fact; and (2) it is entitled to judgment as a matter of law. See Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248, 106 S.Ct. 2505, 2510, 91 L.Ed.2d 202 (1986). In determining whether a genuine issue of material fact has been raised, we must construe all inferences in favor of O’Connor. See id. at 257-58, 106 S.Ct. at 2514-15. If, however, “the evidence is so one-sided that one party must prevail as a matter of law,” we must affirm the grant of summary judgment in that party’s favor. Id. at 251-52, 106 S.Ct. at 2512. O’Connor “cannot create a genuine issue of fact through mere speculation or the building of one inference upon another.” See Beale v. Hardy, 769 F.2d 213, 214 (4th Cir.1985). To survive Consolidated’s motion, O’Connor may not rest on his pleadings, but must demonstrate that specific, material facts exist that give rise to a genuine issue. See Celotex Corp., 477 U.S. at 324, 106 S.Ct. at 2553. As the Anderson Court explained, the “mere existence of a scintilla of evidence in support of the plaintiffs position will be insufficient; there must be evidence on which the jury could reasonably find for the plaintiff.” Anderson, 477 U.S. at 252, 106 S.Ct. at 2512. Our review of a grant of summary judgment is plenary. See Cooke v. Manufactured Homes, Inc., 998 F.2d 1256, 1260 (4th Cir.1993).
+
+Contending that his employment was terminated because of his age, O’Connor brought this suit against Consolidated pursuant to the ADEA. In order to establish his claim, O’Connor may rely on the normal methods of succeeding on a civil suit by establishing by a preponderance of the evidence that but for Consolidated’s motive to discriminate against him because of his age, he would not have been discharged. See Lovelace v. Sherwin-Williams Co., 681 F.2d 230, 239 (4th Cir.1982). O’Connor “may meet this burden under the ordinary standards of proof by direct or indirect evidence relevant to and sufficiently probative of the issue.” EEOC v. Clay Printing Co., 955 F.2d 936, 940 (4th Cir.1992). Alternatively, O’Connor may resort to the proof scheme articulated for Title VII cases in McDonnell Douglas Corp. v. Green, 411 U.S. 792, 93 S.Ct. 1817, 36 L.Ed.2d 668 (1973), which we have applied to ADEA claims, see Mitchell v. Data General Corp., 12 F.3d 1310, 1314-15 *546(4th Cir.1993); EEOC v. Western Elec. Co., 713 F.2d 1011, 1014 (4th Cir.1983). To establish a prima facie case on an ALEA claim under the McDonnell Douglas rubric, O’Connor must prove the following elements:
+
+(1) [he] is in the protected age group; (2) [he] was discharged or demoted; (3) at the time of discharge or demotion, [he] was performing his job at a level that met his employer’s legitimate expectations; and (4) following his discharge or demotion, [he] was replaced by someone of comparable qualifications outside the protected class.
+
+      Id.
+
+A.
+
+Although the parties and the district court characterized the present appeal as a reduction-in-force case, the reduced “force” consisted of only two people, O’Connor and Hunter, and while O’Connor’s position was eliminated, he was essentially replaced by Finnell. Thus, the complexities and difficulties of determining what employee was replaced by whom in the typical mass layoff case is simply not an issue here. See Clay Printing Co., 955 F.2d at 937 (twenty-three employees laid off); Western Elec. Co., 713 F.2d at 1013 (reduction-in-force test applied to work force of 225 employees). Also, unlike the typical reduction-in-force case, O’Connor can point to his replacement. See Duke v. Uniroyal, Inc., 928 F.2d 1413, 1418 (4th Cir.) (explaining that in reduction-in-force suits determining the employee that replaced the plaintiff may prove difficult, often because jobs have been eliminated or combined), cert. denied, 502 U.S. 963, 112 S.Ct. 429, 116 L.Ed.2d 449 (1991). We are not persuaded, therefore, that this ease is properly characterized as a reduction-in-force suit. Thus, application of the reduction-in-force paradigm is inapt here. Applying the McDonnell Douglas paradigm, we conclude that O’Connor cannot establish a prima facie case because he fails to satisfy the fourth element, i.e., he was not replaced by someone outside the protected class.1 Here, Finnell was forty years old, and thus he was within the protected class. See 29 U.S.C.A. § 631(a) (West Supp.1994). Having failed to satisfy an element of his claim, O’Connor cannot prevail. The district court, therefore, properly entered summary judgment in favor of Consolidated.
+
+B.
+
+We conclude that even applying the reduction-in-foree test to this suit, O’Connor cannot prevail on his claim. In the typical reduction-in-force case, we apply a modified version of the McDonnell Douglas prima facie standard:
+
+(1) the employee was protected by the ADEA; (2) he was selected for discharge from a larger group of candidates; (3) he was performing at a level substantially equivalent to the lowest level of those of the group retained; and (4) the process of selection produced a residual work force of persons in the groups containing some unprotected persons who were performing at a level lower than that at which he was performing.
+
+      Mitchell, 12 F.3d at 1315. This fourth element is usually characterized by stating that a plaintiff must produce “some other evidence that the employer did not treat age neutrally.” Western Elec. Co., 713 F.2d at *5471015. We have made this modification in such cases because the plaintiffs position may have been eliminated or it may be difficult for the plaintiff to show precisely who replaced him. See id. at 1014. While we have noted that “the fourth element [of the McDonnell Douglas scheme] will not fit well in most reduetion-in-force eases,” we have concluded that an ADEA plaintiff “should not be permitted to establish a ‘prima facie case’ by satisfying only the first three elements.” Id.
+
+Indisputably, O’Connor satisfies elements one and two, i.e., he is in the protected class and was discharged. The third element requires that O’Connor perform at a level substantially equivalent to the lowest level of those of the group retained. Essentially, this element demands that O’Connor perform his job satisfactorily, thereby meeting Consolidated’s legitimate expectations. According to Consolidated, O’Connor cannot satisfy this element because even prior to the reorganization that gave rise to the two new district manager positions, O’Connor was slow in dealing with problem accounts, his territorial responsibilities had already been greatly reduced, and he experienced a problem with food delivery in an unrefrigerated truck. Thus, Consolidated posits, O’Connor fails the third prong.
+
+Conversely, O’Connor contends that his performance was satisfactory and that his evidence tended to establish that Consolidated did not treat age neutrally in discharging him. To support these contentions, he relies on: (1) a good performance review dated January 1990 that reviewed the latter part of 1989 along with a large bonus he received in 1989 for good work and comparative salary data; (2) Finnell and Kiser, the younger men, one of whom was outside the protected class, were retained while he and Hunter, the older men, were respectively discharged and demoted; and (3) testimony of Williams that O’Connor had made progress with individual accounts and 4Cs South made some improvement, despite the fact that 4Cs South generally had a lower profit margin than 4Cs North.
+
+This evidence, however, does not tend to establish that O’Connor was a satisfactory employee because Williams did not consider these facts in his decision to discharge O’Connor; rather, Consolidated had already substantially reduced O’Connor’s geographic territory, and given this fact, he was not a contender for one of the new positions. The 1990 review of 1989, 1989 bonus, salary data, and some improvement in 4Cs South are irrelevant because O’Connor was not performing well in August of 1990, the time of termination. See Anderson v. Stauffer Chem. Co., 965 F.2d 397, 401 (7th Cir.1992) (stating that a 1984 evaluation, even if given in December of 1984, and a pay raise given at the start of 1985 was not relative to a discharge on May 1, 1985). Moreover, at the time Consolidated decided to terminate O’Connor, Williams did not know of Art’s decision to consolidate Canteen’s and Consolidated’s organizations. With respect to the evidence that O’Connor was improving, even if O’Connor were making some progress with respect to some accounts, that does not negate the fact that he did not react timely to other problem accounts or that 4Cs South’s performance was still not up to par. Because under Art’s reorganization the geographic territories were even larger, and O’Connor’s territory was already reduced, O’Connor’s evidence tending to establish that he was working up to expectations does not create a genuine issue of material fact.
+
+The fourth prong of the reduction-in-force test requires that O’Connor show “that persons outside the protected class were retained in the same position or that there was some other evidence indicating that the employer did not treat age neutrally in deciding to dismiss the plaintiff.” Herold v. Hajoca Corp., 864 F.2d 317, 320 (4th Cir.1988), cert. denied, 490 U.S. 1107, 109 S.Ct. 3159, 104 L.Ed.2d 1022 (1989). We conclude that O’Connor failed to demonstrate Consolidated did not treat age neutrally in discharging him.2 Focusing on retaining Finnell and Kiser, O’Connor is not comparable to Kiser or Finnell since his territory was reduced prior to his termination due to his slow response to problem accounts. Because O’Connor is not *548comparable to these men, comparing performance reviews and salaries is inapt. See Cone v. Longmont United Hosp. Ass’n, 14 F.3d 526, 533 (10th Cir.1994) (opining that in an age discrimination case, the plaintiff must be comparable to her replacement). In deciding to keep Finnell and Kiser and discharge O’Connor, Williams’ decision was based on Finnell and Kiser’s ability to handle an enlarged geographic territory; three territories were reassigned to Kiser because O’Connor was slow in responding to problem accounts; the fact that these men could handle the larger territories was critical to the decision to discharge O’Connor. Also, there is nothing in the record disclosing Hunter’s ability or performance during the relevant time. Therefore, no comparison can be made between Hunter and Finnell or Kiser. In fact, a month before O’Connor was discharged, Williams considered Kiser’s ability to manage a larger geographic territory superior to that of O’Connor. The decision to discharge O’Connor, therefore, was not grounded in invidious discrimination, but rather on the age-neutral reason that O’Con-nor’s performance did not recommend him for the job, while Finnell and Kiser’s did. O’Connor’s evidence does not create a genuine issue of material fact that Consolidated did not treat age neutrally in making its employment decisions. Additionally, the case law reveals examining a small pool of employees is not probative of discrimination. See Birkbeck v. Marvel Lighting Corp., 30 F.3d 607, 511 (4th Cir.) (comparing four individuals is too small a sample to be probative of discrimination in a ADEA suit), cert. denied, — U.S. -, 115 S.Ct. 666, 130 L.Ed.2d 600 (1994); Simpson v. Midland-Ross Corp., 823 F.2d 937, 943 & n. 7 (6th Cir.1987) (stating that sample of seventeen in an age discrimination case was suspect) (collecting cases); see also Iturbe v. Wandel & Golterman Technologies, Inc., 1994 WL 118103 (4th Cir.1994) (unpublished) (per cu-riam ) (stating that a “court cannot properly draw an inference of discrimination from a pool of only three employees”). Under these precedents, no inference of discrimination may be drawn in this suit. We find that O’Connor failed to satisfy the fourth prong.
+
+III.
+
+As stated, an ADEA plaintiff can establish his claim under the proof scheme articulated in McDonnell Douglas or under the ordinary standards of proof used in civil cases. Here, O’Connor appeared to proceed under both proof schemes. Having concluded that O’Connor cannot prevail under the McDonnell Douglas paradigm, we analyze his claim under the standards of proof by direct and circumstantial evidence used in civil cases.
+
+To succeed on his ADEA claim under the direct standard of proof scheme, O’Connor must establish the following elements: “(1) that he ... was an employee covered by the [ADEA], (2) who suffered an unfavorable action by an employer covered by the [ADEA], and (3) that age was a determining factor in the action in the sense that but for [Consolidated’s] intent to discriminate on the basis of age, [O’Connor] would not have been subjected to the employment action.” Clay Printing Co., 955 F.2d at 941 (internal quotation marks omitted). To defeat a motion for summary judgment under this scheme, O’Connor must “ ‘produce direct evidence of a stated purpose to discriminate [on the basis of age] and/or circumstantial evidence of a stated purpose to discriminate [on the basis of age] of sufficient probative force to reflect a genuine issue of material fact.’ ” Id. (quoting Goldberg v. B. Green & Co., 836 F.2d 845, 848 (4th Cir.1988)) (alteration in original). “Direct evidence of discrimination is evidence which, if believed, would prove the existence of a fact ... without any inference or presumptions.” Bodenheimer v. PPG Indus., Inc., 5 F.3d 955, 958 (5th Cir.1993). The same summary judgment standard applies under this proof scheme.
+
+A.
+
+The direct evidence on which O’Con-nor relies to establish his case are three statements about age-related matters made by Williams. While derogatory remarks may be direct evidence of age discrimination, see Wilhelm v. Blue Bell, Inc., 773 F.2d 1429, 1433 (4th Cir.1985), cert. denied, 475 U.S. 1016, 106 S.Ct. 1199, 89 L.Ed.2d 313 (1986), the decisional law “clearly reflects that isolat*549ed and ambiguous statements ... ‘are too abstract, in addition to being irrelevant and prejudicial, to support a finding of age discrimination,’” Gagne v. Northwestern Nat’l Ins. Co., 881 F.2d 309, 314 (6th Cir.1989) (quoting Chappell v. GTE Prods. Corp., 803 F.2d 261, 268 n. 2 (6th Cir.), cert. denied, 480 U.S. 919, 107 S.Ct. 1375, 94 L.Ed.2d 690 (1987)). Discriminatory remarks concerning age, therefore, cannot be stray or isolated statements. According to the Seventh Circuit, “[ujnless the remarks upon which plaintiff relies were related to the employment decision in question, they cannot be evidence of a discriminatory discharge.” McCarthy v. Kemper Life Ins. Co., 924 F.2d 683, 686-87 (7th Cir.1991). As this court has opined, there must be some “nexus ... between the alleged discriminatory statements and any of the employment decisions made by the [employer].” Clay Printing Co., 955 F.2d at 942; see also Figures v. Board of Pub. Utils., 967 F.2d 357, 360-61 (10th Cir.1992) (noting that racial comments are not probative of discrimination unless they are linked to the challenged action); Merrick v. Farmers Ins. Group, 892 F.2d 1434, 1438-39 (9th Cir.1990) (holding that certain statements unconnected to the employment decision-making process are simply stray remarks that do not demonstrate discriminatory intent). With these principles in mind, we consider the challenged statements.
+
+1.
+
+The first statement was made two days before O’Connor’s discharge. Williams remarked that “[fit’s about time we get some young blood in this company.” (J.A. 122). This comment was made in response to a comment by Don Dillingham, another Consolidated employee, that his fiftieth birthday was fast approaching. This apparently humorous comment is not probative of age discrimination. First, as the Birkbeck court explained, comments such as this are innocuous and create no inference of age bias. The Birkbeck court ruled that the statement “ ‘there comes a time when we have to make way for younger people,’ ” simply lacks discriminatory intent and is more accurately understood as a commentary on the fact that all people age. Birkbeck, 30 F.3d at 511-12; see also Clay Printing Co., 955 F.2d at 942 (holding that an employer’s comment that the employer needed to “‘attract newer, younger people’ ” and needed “ ‘young blood’ ” failed to establish direct evidence of age discrimination); Gagne, 881 F.2d at 314 (holding that the employer’s comment that he “ ‘needed younger blood’ ” did not raise a material fact with respect to establishing age discrimination). Second, there is no nexus linking this statement to O’Connor’s termination as required by Clay Printing Co. See Cone, 14 F.3d at 531 (ruling that “[fisolated comments, unrelated to the challenged action, are insufficient to show discriminatory animus in termination decisions”). Additionally, this comment does not evince an intent to discharge an older employee, but merely to attract some young ones. See Clay Printing Co., 955 F.2d at 942.
+
+2.
+
+The second statement, made two weeks prior to O’Connor’s discharge, consisted of the following: “ ‘O’Connor, you are too damn old for this kind of work.’ ” (J.A. 125). O’Connor testified, however, that he did not remember what he and Williams were discussing when this comment was made or whether this comment was in relation to a business matter. (J.A. 124-25). Thus, there is no evidence that this statement was made in the context of replacing O’Connor. Without this requisite nexus, this statement evinces no discriminatory intent. See id.
+
+3.
+
+The third statement, uttered in either June or July of 1990, was made in connection with O’Connor’s ability to play golf. That statement was made under the following circumstances: O’Connor, Williams, and Steve Carpman, another Consolidated employee, were watching a golf match on television. O’Connor stated that he “couldn’t walk that many rounds of golf for five days to play 18 holes for five days.” (J.A. 127). Williams responded to this comment by stating that O’Connor was just “too old.” Again this *550inane statement was in reply to O’Connor’s jocular declaration that he was too old to play eighteen holes of golf. Here again, there is nothing linking this remark with O’Connor’s discharge. We agree with the district court that these remarks are simply stray comments that do not establish evidence of age discrimination.
+
+B.
+
+We explained the infirmities with respect to O’Connor’s indirect evidence in section IIB. The same reasoning obtains here. The district court dismissed this evidence as insufficiently probative to establish O’Connor’s claim, and we agree with this conclusion.
+
+IV.
+
+O’Connor raises two other issues, but they merit scant attention. First, he asserts that the district court erred in refusing him certain discovery requests. Reversal of discovery rulings is proper “only on a clear showing of abuse, and ‘it is unusual to find abuse of discretion in these matters.’ ” United Presbyterian Church in the United States v. Reagan, 738 F.2d 1375, 1382 (D.C.1984) (quoting Swanner v. United States, 406 F.2d 716, 719 (5th Cir.1969)). We have carefully examined the discovery issues and conclude that the district court did not err with respect to these rulings. Second, O’Connor contends that the district court erred in denying his Rule 59 motion, which the district court construed as a Rule 60(b)(2) motion, based on Dennis’ affidavit. We have examined this affidavit, and we agree with the district court that this evidence fails to satisfy the criteria for granting relief under either Rule 59 or Rule 60. See Boryan v. United States, 884 F.2d 767, 771 (4th Cir.1989).
+
+V.
+
+We conclude that regardless of how O’Con-nor’s claim of age discrimination is viewed, he failed to raise a genuine issue of material fact precluding summary judgment. We therefore affirm the district court’s grant of summary judgment in favor of Consolidated. We have examined carefully O’Connor’s discovery request and his Rule 59 motion and conclude that they are without merit; thus, we affirm those rulings as well. The judgment of the district court is, in all respects, affirmed.
+
+      AFFIRMED.
+
+      1
+
+. While some circuits hold that an ADEA plaintiff can satisfy the fourth element of McDonnell Douglas by showing that he was replaced by someone younger or that younger coworkers were retained in the same or similar positions, even if, as here, the replacements were in the protected age group, see, e.g., Roper v. Peabody Coal Co., 47 F.3d 925, 926 (7th Cir. Feb. 17, 1995); Douglas v. Anderson, 656 F.2d 528, 532 (9th Cir.1981), Fourth Circuit precedent has required a plaintiff to demonstrate that his replacement was outside the protected class to satisfy that element, see, e.g., Clay Printing Co., 955 F.2d at 943 (explaining that because the replacements in a reduction-in-force suit were within the protected class, the plaintiffs had to demonstrate that the employer did not treat age neutrally in making its employment decisions); Western Elec. Co., 713 F.2d at 1014 (holding that “in the usual ADEA case,” a plaintiff must prove that he "was replaced by someone of comparable qualifications outside the protected class”); cf. Lovelace, 681 F.2d at 238-39 & n. 5 & 242-43 n. 13 (noting in dicta that it did not rely on the fact that the plaintiff was replaced by someone in the protected class in reaching its decision and noting further that “[w]hether the absolute and relative ages of [plaintiff] and replacement may be factually relevant to the discrimination issue [was] ... a different matter”).
+
+      2
+
+. See n. 1.
+
+BUTZNER, Senior Circuit Judge,
+
+concurring in part and dissenting in part:
+
+I.
+
+I reluctantly concur in the court’s conclusion that O’Connor cannot make out a prima facie ease of discrimination under the framework set out in McDonnell Douglas Corp. v. Green, 411 U.S. 792, 93 S.Ct. 1817, 36 L.Ed.2d 668 (1973), because he was not replaced by someone outside the protected class.
+
+This circuit’s version of the McDonnell Douglas formula requires an ADEA plaintiff to demonstrate that he was replaced by someone outside the protected age group. See, e.g., EEOC v. Clay Printing Co., 955 F.2d 936, 943 (4th Cir.1992); EEOC v. Western Elec. Co., 713 F.2d 1011, 1015 (4th Cir.1983). These cases compel my concurrence.
+
+Such an absolute requirement, however, has no justification in law or policy. The Age Discrimination in Employment Act, 29 U.S.C. § 621 et seq., states that its objective is “to prohibit arbitrary age discrimination.” 29 U.S.C. § 621(b). The Act contains no language permitting employers to favor a younger employee over an older one on the basis of age simply because the younger employee is within the protected age group.
+
+As a method of proof, the McDonnell Douglas paradigm was “not intended to be rigid, mechanistic or ritualistic.” Furnco Constr. Co. v. Waters, 438 U.S. 567, 577, 98 S.Ct. 2943, 2949, 57 L.Ed.2d 957 (1978). The age of a replacement employee should be a relevant, but not dispositive, factor for a court to consider when deciding whether the plaintiff has established a prima facie case under the McDonnell Douglas framework.
+
+      *551Most other circuits take this approach and observe that a plaintiff need only show he was replaced by someone younger, whether outside or within the protected age group. See Freeman v. Package Machinery Co., 865 F.2d 1331, 1335 n. 2 (1st Cir.1988); Haskell v. Kaman Corp., 743 F.2d 113, 122 (2d Cir.1984); Maxfield v. Sinclair Int'l, 766 F.2d 788, 792-93 (3d Cir.1985); Bienkowski v. American Airlines, 851 F.2d 1503, 1506 (5th Cir.1988); Kralman v. Illinois Dep’t of Veterans’ Affairs, 23 F.3d 150, 153-56 (7th Cir.1994); Rinehart v. City of Independence, 35 F.3d 1263, 1265-66 (8th Cir.1994); Douglas v. Anderson, 656 F.2d 528, 531-33 (9th Cir.1981); Cooper v. Asplundh Tree Expert Co., 836 F.2d 1544, 1547 (10th Cir.1988); Carter v. City of Miami, 870 F.2d 578, 582-83 (11th Cir.1989); Cuddy v. Carmen, 694 F.2d 853, 857 (D.C.Cir.1982); see also Lovelace v. Sherwin-Williams Co., 681 F.2d 230, 237 n. 5 (4th Cir.1982) (dictum). But see LaPointe v. United Autoworkers Local 600, 8 F.3d 376, 379 (6th Cir.1993) (requiring plaintiff to show that replacement was outside protected age group).
+
+II.
+
+I respectfully dissent from the court’s conclusion that, under ordinary standards of proof, O’Connor failed to raise an inference of discrimination. An ADEA plaintiff may prevail on a discrimination claim by demonstrating, through direct or circumstantial evidence, that but for an employer’s motive to discriminate on the basis of age the plaintiff would not have been discharged. Clay Printing, 955 F.2d at 940; Lovelace, 681 F.2d at 239.
+
+O’Connor has presented sufficient evidence of discriminatory motive to survive summary judgment. He testified in his deposition that Ed Williams, his supervisor, told him two weeks before his discharge, “O’Connor, you’re too damn old for this kind of work.” Williams denied making this statement.
+
+Additionally, in his postjudgment motion, O’Connor provided the court with the affidavit of Phillip Dennis, who was a coworker of O’Connor. In his affidavit Dennis states that Williams told him Ted Arts, Williams’s boss, had ordered Williams to fire O’Connor. When Dennis asked why O’Connor was fired, Williams responded “that all of us were getting old, that Jim [O’Connor] was getting old.” Because this affidavit was not reasonably available earlier, I believe the district court should not have rejected it.
+
+These statements create a genuine issue of material fact that should be decided at trial. See Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248, 106 S.Ct. 2505, 2510, 91 L.Ed.2d 202 (1986). A jury could reasonably infer from Williams’s statement or from the information contained in the Dennis affidavit that age was the determining factor in O’Connor’s discharge. Because a trier of fact should determine O’Connor’s claim, I would vacate the judgment of the district court and remand for a full evidentiary hearing.

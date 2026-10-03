@@ -1,0 +1,2231 @@
+| Supreme Court, U.S. ™~] 
+FILED 
+MAR 1 1996 
+4) CLERK a 
+No. 95-668 
+—eeEEEE——————— 
+IN THE 
+
+
+SUPREME COURT OF THE UNITED STATES 
+OCTOBER TERM, 1995 
+
+
+AUCIELLO IRON WORKS, INC., 
+
+
+Petitioner, 
+
+
+Vv. 
+
+
+NATIONAL LABOR RELATIONS BOARD, 
+Respondent. 
+
+
+ON WRIT OF CERTIORARI TO 
+THE UNITED STATES COURT OF APPEALS 
+FOR THE FIRST CIRCUIT 
+
+
+BRIEF FOR THE PETITIONER 
+
+
+Joun D. O’REIty, III 
+(Counsel of Record) 
+O’REILLY & GROSSO 
+77 Turnpike Road 
+Post Office Box 3118 
+Southborough, MA 01745 
+(508) 460-1500 
+
+
+Counsel for Petitioner. 
+
+
+ea omeeimienane 
+Werrington, O.C + THIEL PRESS + (202) 328-3286 
+
+
+Kd * 
+
+
+(i) 
+QUESTION PRESENTED 
+
+
+Whether an Employer is bound by a 
+Union’s "acceptance" of an earlier Employer 
+proposal for a collective bargaining 
+agreement when, at the time of the Union’s 
+"acceptance", the Employer had a reason- 
+able basis for a good faith doubt of the 
+Union’s continued majority status, and 
+expressed that doubt within a reasonable 
+period of time after being advised of the 
+final erosion of Employee support for the 
+Union, but less than one day after the 
+Union had telegraphed its "acceptance". 
+
+
+(ii) 
+
+
+PARTIES TO THE PROCEEDING 
+
+
+National Labor Relations Board 
+
+
+Auciello Iron Works, Inc.* 
+
+
+* In accordance with Rule 29.6, 
+Auciello Iron Works, Inc. hereby discloses 
+
+
+that it has no parent company, 
+or subsidiaries. 
+
+
+affiliates 
+
+
+(iii) 
+
+
+TABLE OF CONTENTS 
+
+
+STATUTORY PROVISIONS INVOLVED ... 
+
+
+STATEMENT OF THE CASE ........... 
+
+
+I. Where a Union, whose sup- 
+port has rapidly deterio- 
+rated since the Employer’s 
+last contract offer was 
+made, suddenly communicates 
+its “acceptance” of that 
+last offer, the Employer 
+should be entitled to raise 
+its doubt as to the Union’s 
+majority status as of the 
+date of the Union’s “accep 
+TONE sc ccccccceccccsceeecess 
+
+
+II. The Board ruling that an 
+"agreement" created by a 
+Union’s “acceptance” creates 
+an irrebuttable presumption 
+of the Union’s majority 
+
+
+12 
+
+
+13 
+
+
+13 
+
+
+Iil. 
+
+
+IV. 
+
+
+(iv) 
+
+
+status, thus rendering imma- 
+terial the Employer’s evi- 
+
+dence of the Union’s actual 
+
+lack of majority status, is 
+inconsistent with the doc- 
+
+trine that the creation of 
+
+such a majority status pre- 
+sumption must have been 
+legitimately and lawfully 
+established........eeeeeeee 21 
+
+
+Even if a requirement exist- 
+
+ed that an Employer, suddenly 
+faced with the basis for 
+asserting a doubt of the 
+Union’s majority status, 
+
+must withdraw any outstanding 
+contract proposals, it should 
+be afforded a reasonable 
+
+period of time to withdraw out- 
+standing contract proposals 
+
+or to assert its doubt of the 
+Union’s majority status..... 25 
+
+
+The judicial deference to 
+
+NLRB interpretations of the 
+
+Act is inapplicable where 
+
+the Board’s statutory inter- 
+pretation is unpersuasive or 
+rests on erroneous legal 
+foundations, or is not sup- 
+ported by, or consistent 
+
+with, the history or language 
+
+OF Che ACE. cccccccccccscccess 32 
+
+
+CONCLUSION .ncccccccccvccccecscees 36 
+
+
+SSUUEEE SA cccccctiedudesesthe App. 1 
+
+
+NLRB _v. All Brand Printing Corp. 
+594 F.2d 926 (2nd Cir. 1979) .... 
+
+
+(v) 
+TABLE OF AUTHORITIES 
+
+
+Cases: 
+437 U.S. 483 (1978) vase eee 
+899 F-2d 104, (ist Cir. 1990) ... 
+
+
+Chicago Tribune Co. v. NLRB, 
+965 F.2d 244 (7th Cir. 1992) .... 
+-— 2. . 89,20, 33. 
+
+
+Corp. Vv. NLRB, 482 U.S. 27 
+
+
+(1987) ee fteeeeeese ne fetes e ees *# 22, 
+Franks Bros. v. NLRB, 321 U.S 
+FOB €29646) cecccces she thneees 23, 
+International Ladies Garment 
+
+, 366 U.S. 
+
+
+731 (1961) wccccccccce 24, 28, 32, 
+
+
+'s- 
+
+
+289 NLRB No. 40 (1988) ....6550-, 
+
+
+Lechmere v. NLRB, 502 U.S. 527 
+(1992) reer eeeeneeeneneneneeeneneneneeeeeeee 
+
+
+, 197 NLRB 
+198, (1972) ee eeeeeeneeeneneneeeeee 
+
+
+23 
+
+
+25 
+
+
+36 
+
+
+30 
+
+
+33 
+
+
+25 
+
+
+25 
+
+
+(vi) 
+
+
+NLRB _v. Babcock & Wilcox, 351 U.S. 
+105 (1956) *enreneeneteerneeee eee 33, 34, 35 
+
+
+NLRB v. Baptist Hospital 
+co 8... Fo — TP : 
+
+
+Co., 871 F.2d 980 (11th Cir. 
+1989) *eerereneeeneneeeee So, 15, 17, 27, 31 
+
+
+NLRB _v. Brown, 380 U.S. 278 
+(1965) *eneeeneteneteenrtreeneneneneneneneneeneneeee#e 33 
+
+
+NLRB _v. Cayuga Crushed Stone, 
+474 F.2d 1380 (2nd Cir. 1973) ... 25 
+
+
+NLRB v. Curtin Matheson Scientific, 
+494 U.S. 775 (1990) ....9, 15, 19, 22 
+
+
+NLRB _v. Financial Institution 
+, 471 U.S. 
+
+
+1098 (1986) *eereeeneeneeneeeneneeneeneee#e 23 
+
+
+NLRB _v. Food and Commercial Workers, 
+G56 Gello Bun ED. so enueecbenns 33 
+
+
+NLRB _v. Ironworkers, 434 U.S. 
+335, (1978) *eeenerneenee eee ee eee 22 
+
+
+NLRB v. Laverdiere’s Enterprises, 
+933 F.2d 1045 (1st Cir. 1991) .... 28 
+
+
+Pepsi Cola Bottling Co. v. NLRB 
+659 F.2d 87 (8th Cir. 1981) ...... 26 
+
+
+NLRB _ v. Radio and Television Broad- 
+, 364 U.S. 573 
+(1961) eft ee -enereweeneeeneeeer#e##*eee##ee#e##se#** *# *# @ 33 
+
+
+(vii) 
+Republic Aviation Corp. v. NLRB, 
+Se Wile We GEEED. ececcccece 33, 34 
+
+
+Royal Coach Lines v. NLRB 
+838 F.2d 47 (2nd Cir. 1988) .. 24, 25 
+
+
+Station KKHI, 284 NLRB No. 113 
+(1987) eee ee eee eee eee eee rere errr 29 
+
+
+, 184 NLRB 139 
+(1970) *seeeeeeeeneeeeeeneeneeeeneeeee 14 
+
+
+Wallkill Valley General Hospital 
+288 NLRB No. 18 (1988) .........+. 30 
+
+
+No. 95-668 
+
+
+IN THE 
+
+
+SUPREME COURT OF THE UNITED STATES 
+OCTOBER TERM, 1995 
+
+
+AUCIELLO IRON WORKS, INC., 
+Petitioner 
+
+
+V. 
+
+
+NATIONAL LABOR RELATIONS BOARD, 
+Respondent 
+
+
+ON WRIT OF CERTIORARI TO 
+THE UNITED STATES COURT OF APPEALS 
+FOR THE FIRST CIRCUIT 
+
+
+BRIEF FOR THE PETITIONER 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the First Circuit Court 
+of Appeals dated July 21, 1995 is reported 
+at 60 F.3d 24 (Pet.App. i1a).+ A copy of 
+the Supplemental Decision and Order of the 
+
+
+"References to the Joint Appendix are desig- 
+nated as “App.” followed by the appropriate page 
+number(s). References to the Appendix to the 
+Petition for Writ of Certiorari are designated as 
+"Pet. App.” followed by the appropriate page num- 
+ber(s). 
+
+
+2 
+
+
+National Labor Relations Board dated May 
+9, 1995 is reported at 317 NLRB No. 60 
+(Pet. App. 9a). The earlier decision of 
+the First Circuit Court of Appeals dated 
+November 30, 1992 is reported at 980 F.2d 
+804 (Pet. App. 59a). The original Deci- 
+sion and Order of the National Labor Rela- 
+tions Board, incorporating by reference 
+the original Decision of the Administra- 
+tive Law Judge of November 24, 1989, is 
+reported at 303 NLRB No. 90 (Pet. App. 
+84a). 
+
+
+JURISDICTIONAL STATEMENT 
+
+
+On July 21, 1995, the First Circuit 
+Court of Appeals entered its Judgment and 
+Opinion, enforcing the Supplemental Deci- 
+sion and Order of the National Labor Re- 
+lations Board dated May 9, 1995. Peti- 
+tioner’s Petition for Writ of Certiorari 
+was filed on October 19, 1995. The Court 
+granted the Petition on January 19, 1996. 
+The Court has jurisdiction under 28 U.S.C. 
+§1254(1). 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+This case involves consideration of Sec- 
+tion 7 and Sections 8(a)(1),(2) and (5) 
+and 8(b)(1) of the National Labor Rela- 
+tions Act ("NLRA" or "the Act"), 29 
+U.S.C., §157, §§158 (a)(1),(2),(5) and 
+158(b) (1). 
+
+
+Section 7 of the NLRA, 29 U.S.C. §157, 
+provides: 
+
+
+Employees shall have the right to 
+self-organization, to form, join, or 
+
+
+3 
+
+
+assist labor organizations, to bargain 
+collectively through representatives 
+of their own choosing, and to engage 
+in other concerted activities for the 
+purpose of collective bargaining or 
+other mutual aid or protection, and 
+shall also have tke right to refrain 
+from any or all of such activities 
+except to the extent that such right 
+may be affected by an agreement 
+requiring membership in a labor orga- 
+nization as a condition of employment 
+as authorized in section 8(a) (3). 
+
+
+Sections 8(a)(1), (2) and (5) of the 
+NLRA, 29 U.S.C. §§158(a)(1), (2) and (5) 
+provide: 
+
+
+(a) It shall be an unfair labor prac- 
+tice for an employer-- 
+
+
+(1) to interfere with, restrain, or 
+coerce employees in the exercise of 
+the rights guaranteed in section 7; 
+
+
+(2) to dominate or interfere with the 
+formation or administration of any 
+labor organization or contribute 
+financial or other support to it: 
+Provided, That subject to rules and 
+regulations made and published by the 
+Board pursuant to section 6, an em- 
+ployer shall not be prohibited from 
+permitting employees to confer with 
+him during working hours without loss 
+of time or pay; 
+
+
+(5) to refuse to bargain collectively 
+with the representatives of his em- 
+
+
+4 
+
+
+ployees, subject to the provisions of 
+section 9(a). 
+
+
+Section 8(b)(1) of the NLRA provides: 
+
+
+(b) It shall be an unfair labor prac- 
+tice for a labor organization or its 
+agents - 
+
+
+(1) to restrain or coerce (A) employ- 
+ees in the exercise of the rights 
+guaranteed in section 7: Provided, 
+That this paragraph shall not impair 
+the right of a labor organization to 
+prrescribe its own rules with respect 
+to the acquisition or retention of 
+membership therein; or (B) an employer 
+in the selection of his representa- 
+tives for the purposes of collective 
+bargaining or the adjustment of griev- 
+ances. 
+
+
+STATEMENT OF THE CASE 
+
+
+The factual background to this case is 
+virtually undisputed and was summarized by 
+the United States Court of Appeals for the 
+First Circuit in its original November 30, 
+1992 Decision at 980 F.2d 805 to 807. 
+(Pet. App. 60a-65a) 
+
+
+The Employer maintains an iron works 
+fabrication shop located in Hudson, Massa- 
+chusetts, and had enjoyed an amicable 
+collective bargaining relationship with 
+Local 501 of the Iron Workers’ Union for a 
+number of years. A series of collective 
+bargaining agreements had been negotiated 
+without incident over those years. The 
+
+
+2 ee 
+
+
+5 
+
+
+most recent agreement expired in September 
+25, 1988. After several negotiating ses- 
+sions in 1988, a final Employer proposal, 
+which the Union agreed to submit to the 
+membership for approval, was rejected by 
+the membership and the parties continued 
+to bargain until October 13, 1988, when a 
+second Employer proposal was presented to 
+the membership and was rejected with a 
+strike vote taken, resulting in a strike 
+commencing on October 14, 1988 and with 
+picket lines being placed at the Employ- 
+er’s plant. Some four weeks into the 
+course of the strike and the picketing 
+activity, a gradual erosion of employee 
+support for the Union was evidenced, so 
+that by the final week of the strike, the 
+Employer noticed an increased deteriora- 
+tion of Union support. The factual basis 
+upon which the Employer relied for its 
+growing belief that the Union might no 
+longer maintain strong support of the 
+bargaining unit was the fact that several 
+employees had elected to cross the picket 
+line, and/or had resigned from the Union 
+and, more importantly, had made direct 
+comments to upper management supervisory 
+employees, affirmatively reflecting the 
+bargaining unit employees’ lack of support 
+for the Union. As a result of the Employ- 
+er’s feeling that the support for the 
+Union was on the downslide, the Employer, 
+at the last negotiating session between 
+the parties on November 17, 1988, advanced 
+a proposal which incorporated by reference 
+some earlier points on which agreement had 
+been reached, but which took a harder line 
+on other points. The Union then terminat- 
+ed the negotiating session, and over the 
+course of the next week, the Employer 
+
+
+6 
+
+
+observed additional factors which support- 
+ed its earlier impression that the Union’s 
+support was rapidly deteriorating. 
+
+
+The picket line was withdrawn the next 
+day, Friday, November 18, 1988, and on 
+that day and throughout the following week 
+of November 21, 1988, the balance of the 
+employees returned to work and additional 
+employees continued to make strong com- 
+ments to management representatives, indi- 
+cating their lack of any continuing sup- 
+port for the Union. Also during that week 
+of November 21, 1988, a number of addi- 
+tional employees resigned from Union mem- 
+bership. Not only did these returning 
+employees affirmatively express lack of 
+support for the Union during the week of 
+November 21, 1988, but other employees, 
+including the Unior Steward, who were 
+presumed to have supported the Union, 
+indicated to the company that they would 
+not be returning, and had obtained perma- 
+nent employment elsewhere. Set forth in 
+the appendix hereto at page App. 1-2 is a 
+summary of those employees who, after the 
+withdrawal of the Union picket line on 
+Friday, November 18, 1988, and throughout 
+the week of November 21, 1988, affirma- 
+tively indicated to the company their lack 
+of support for the Union, including their 
+resignation from the Union, as well as a 
+list of employees who had been supporting 
+the Union and who advised the company that 
+same week that they were not returning to 
+work, as they were permanently employed 
+elsewhere. While the Employer was in the 
+process of assessing these dramatic events 
+occurring during that week, and was in the 
+process of reviewing what, if any, actions 
+
+
+7 
+
+
+would be appropriate in view of this now- 
+apparent final erosion of employee support 
+for the Union, the Union sent a Sunday 
+evening (App. 17a, 65a) telegram to the 
+home of the company president on November 
+27, 1988, purporting to "accept" the man- 
+agement offer of November 17, 1988, which 
+offer had been made prior to: (a) the 
+withdrawal of the picket line; (b) the 
+return to work of a number of employees; 
+(c) the withdrawal from Union membership 
+by additional employees; (d) the increased 
+expressions of dissatisfaction with the 
+Union being made by employees; and (e) the 
+determination that some employees who had 
+been supporting the Union would not be 
+returning to work, as they were permanent- 
+ly employed elsewhere. Management repre- 
+sentatives met with their attorneys the 
+following Monday morning, November 28, 
+1988, and reviewed the Employer’s revised 
+assessment as to the now-complete lack of 
+employee support for the Union, and imme- 
+diately advised the Union that it would no 
+longer recognize the Union as the exclu- 
+sive bargaining representative of the 
+employees, and, in view of the Union’s 
+clear lack of support among employees, its 
+prior contract proposal was no _ longer 
+available for "acceptance". (App. 66a) 
+
+
+Based on an Unfair Labor Practice Charge 
+filed with the Regional Office of the 
+National Labor Relations Board alleging a 
+statutory refusal to bargain by the Enm- 
+ployer’s refusal to consider itself bound 
+by the Union’s "acceptance" of the earlier 
+management proposal, the Regional Office 
+of the Board issued a Complaint on January 
+17, 1989, alleging the Employer violated 
+
+
+the Act by withdrawing recognition from 
+the Union and by refusing to execute an 
+agreement with the Union. 
+
+
+Hearings were conducted before Adminis- 
+trative Law Judge Zankel on June 21, Au- 
+gust 8 and August 9, 1989, and on November 
+24, 1989, the Administrative Law Judge 
+issued a decision that the issue of the 
+Employer’s good faith doubt of the majori- 
+ty status of the Union was, in fact, imma- 
+terial, as the Union had "accepted" the 
+Employer’s proposal immediately prior to 
+the Employer’s withdrawal of recognition. 
+The Administrative Law Judge determined 
+that a collective bargaining agreement 
+between the Employer and the Union came 
+into existence upon the Union’s transmit- 
+tal of its Sunday evening, November 27, 
+1988, telegram purporting to "accept" the 
+Employer’s last proposal, and that the 
+Employer’s withdrawal the following day of 
+recognition and refusal to execute an 
+agreement was, therefore, unlawful. (Pet. 
+
+
+App. p. 84a) 
+
+
+Approximately a year and a half later, 
+on June 27, 1991, the National Labor Rela- 
+tions Board issued a three-paragraph Order 
+affirming the Administrative Law Judge 
+(Appendix, p. 84a). In connection with 
+the NLRB attempting to seek enforcement of 
+that Order in the United States Court of 
+Appeals for the First Circuit, the Court 
+affirmed a number of aspects of the NLRB 
+Order, but agreed with the Employer that 
+the NLRB decision wrich had merely cited 
+prior NLRB determinations dealing with 
+instances where the Union’s lack of sup- 
+port had arisen only after the making of 
+
+
+9 
+
+
+the agreement, and were, therefore, not a 
+basis for ruling on a factual situation 
+involving a Union’s lack of support which 
+existed at the time of the Union’s efforts 
+to “accept" the Employer’s earlier propos- 
+al, had not adequately dealt with the fac- 
+tual issues presented by this case. The 
+Court determined that the Board had 
+“glossed over" what the Court determined 
+to be the “tough question" presented in 
+this case, namely whether a contract must 
+be irrebuttably presumed, where the Union 
+effort to accept an earlier Employer pro- 
+posal came at a time when the Union clear- 
+ly lacked majority support. The First 
+Circuit noted a then-recent decision of 
+the Seventh Circuit Court of Appeals de- 
+termining that an earlier management pro- 
+posal was no longer available for “accep- 
+tance” by a Union which had clearly lost 
+its majority support of the workers. 
+
+, 965 F.2d 244 
+(7th Cir. 1992). 
+
+
+The First Circuit Court of Appeals fur- 
+ther noted that in recent decisions, both 
+before this Court* as well as before the 
+Eleventh Circuit’, the Courts had become 
+involved in the issue of whether the Enm- 
+ployer had, in fact, a good faith doubt of 
+the continued Union’s majority in cases 
+factually identical to the instant case, 
+namely, when that good faith doubt was 
+
+
+*NLRB v. Curtin Matheson Scientific, 494 U.S. 
+777 (1990) 
+
+
+» 871 
+F.2d 980 (llth Cir. 1989) 
+
+
+10 
+
+
+first raised by the Employer only immedi- 
+ately after the allegedly minority Union 
+had attempted to "accept" an earlier man- 
+agement proposal, and those Courts, unlike 
+to Board in this case, had, in fact, de- 
+termined the issve »hased on the legitimacy 
+of the Employer’s gvod faith doubts of the 
+Union’s majority status. The matter was 
+remanded by the First Circuit to the NLRB 
+to address the apparent inapplicability of 
+the prior Board precedent cited in its 
+June 27, 1991 decision, as well as to 
+address the apparent inconsistencies in 
+the approach taken in prior matters, both 
+with this Court as well as with the Elev- 
+enth Circuit, and to address the impact of 
+the Seventh Circuit Court of Appeals deci- 
+sion in Chicago Tribune, supra, that an 
+Employer’s offer is no longer available to 
+the Union whose majority support has been 
+clearly eroded subsequent to the tendering 
+of the earlier management proposal. The 
+Board was specifically directed by the 
+First Circuit to “act with expedition" and 
+to forward a copy of its Supplemental 
+Decision to the Clerk of the First Circuit 
+“as soon as it can". (Pet. App. p. 83a) 
+
+
+Notwithstanding the First Circuit’s 
+mandate to rule on this matter expedi- 
+tiously, it took the Board a full two and 
+one-half years to finally issue its Sup- 
+plemental Decision and Award wherein it 
+determined that, for policy considerations 
+of “industrial stability" and “employee 
+freedom of choice", the presumption of 
+majority status must prevail until the 
+Employer expressly challenges that majori- 
+ty status. It further determined that, 
+if an Employer has a good faith doubt as 
+
+
+11 
+
+
+to the Union’s continued majority status, 
+it must initially raise that issue before 
+the Union accepts its offer. In the fac- 
+tual context of this case, the Board’s 
+decision, in essence, stated that the fact 
+that the Union moved quicker than the 
+Employer by sending a Sunday evening tele- 
+gram to the home of the company’s presi- 
+dent before the management’s announcement 
+of withdrawal of Union recognition, in the 
+face of complete and obvious erosion of 
+any Union support, on the following day, a 
+Monday morning, was dispositive of the 
+case, and precluded the Employer from 
+presenting evidence that, at the time of 
+the Union’s “acceptance”, the Employer had 
+a legitimate doubt of the Union’s majority 
+status. (Pet. App. 9a) 
+
+
+The matter was again reviewed by the 
+United States Court of Appeals for the 
+First Circuit on July 21, 1995 and it was 
+determined that, in view of the Board’s 
+finally having announced an articulated 
+policy-oriented basis for its determina- 
+tion, the Court would affirm that ruling. 
+The Court specifically noted that, in 
+adopting the Board’s rule that an Employer 
+may not raise the issue of the Union’s 
+majority status once the Union has "ac- 
+cepted" an earlier management proposal 
+(even though the Employer attempts to 
+raise this issue within a day or, in theo- 
+ry, within an hour after the Union’s "ac- 
+ceptance") the First Circuit was reaching 
+“a result different from that by our sis- 
+
+
+ter circuit in Chicago Tribune Co." (App. 
+Pp. 7a). 
+
+
+12 
+SUMMARY OF ARGUMENT 
+
+
+This case presents the intriguing issue 
+of whether the established policy of ac- 
+cording to a Union an irrebuttable pre- 
+sumption of majority status once a col- 
+lective bargaining agreement has been 
+reached, should also apply to situations 
+such as this, where, at the time the 
+"agreement" has been reached via _ the 
+Union’s somewhat unorthodox actions in 
+sending a Sunday evening telegram of ac- 
+ceptance in an apparent effort to prevent 
+the Employer from fully assessing the 
+impact of the sudden erosion of Union 
+support, the Employer has not had a real- 
+istic and reasonable opportunity to assert 
+an expression of its good faith doubt of 
+the Union’s continued majority status. 
+The traditional purpose in establishing 
+such an irrebuttable presumption of con- 
+tinued Union majority status is to pre- 
+serve a legitimately created and lawfully 
+continued bargaining relationship between 
+the parties. Such an irrebuttable pre- 
+sumption has no place in a factual situa- 
+tion such as is involved here, where the 
+asserted collective bargaining relation- 
+ship which the Board contends created an 
+irrebuttable presumption of Union majority 
+status was fictitiously created at a time 
+when: (a) the Employer had a basis for 
+believing the Union no longer maintained a 
+majority status; and (b) the Employer had 
+not had a reasonable opportunity to assess 
+the rapidly eroding Union support or to 
+express its doubt as to the Union’s con- 
+tinuing majority status. 
+
+
+13 
+
+
+The Board’s determination that an Em- 
+ployer’s prior offer for a collective bar- 
+gaining agreement remains available for 
+acceptance by a Union who, subsequent to 
+the offer having been made, has lost its 
+majority support among employees is so 
+irrational, in view of the objectives of 
+the Act to protect employees’ Section 7 
+rights and to prevent and prohibit Employ- 
+ers from entering into agreements with 
+minority Unions, that it should not be 
+confirmed by this Court. In similar con- 
+texts, both the Board, as well as various 
+reviewing Courts, have allowed Employers 
+to introduce affirmative evidence estab- 
+lishing a lack of majority status at the 
+time the “agreement” was reached, and have 
+rejected arguments that once the "agree- 
+ment" has been reached, the irrebuttable 
+presumption of continued Union majority 
+status prevents the consideration of any 
+Employer contention that, in fact, at the 
+time of the "“agreement", the Union was 
+lacking a majority status. 
+
+
+ARGUMENT 
+
+
+I. 
+
+WHERE A UNION, WHOSE SUPPORT HAS RAP- 
+IDLY DETERIORATED SINCE THE EMPLOYER’S 
+LAST CONTRACT OFFER WAS MADE, SUDDENLY 
+COMMUNICATES ITS “ACCEPTANCE” OF THAT 
+LAST OFFER, THE EMPLOYER SHOULD BE 
+ENTITLED TO RAISE ITS DOUBT AS TO THE 
+UNION’S MAJORITY STATUS AS OF THE DATE 
+OF THE UNION’S "ACCEPTANCE". 
+
+
+The factual situation involved in this 
+case is a recurring one, wherein during 
+
+
+14 
+
+
+the course of a prolonged strike, the 
+parties continue to negotiate and, when 
+the gradually eroding employee support 
+for the Union reaches a low ebb, the Union 
+is generally inclined to grab “whatever it 
+can" by attempting to “accept” the most 
+recent Employer proposal’, even though 
+that Employer proposal was likely made by 
+the Employer at a time when either: (1) 
+the Union’s support among bargaining unit 
+employees was greater; or (2) the employer 
+may not have been fully aware of the ex- 
+tent of the Union’s lack of employee sup- 
+port. Where, as in this case, the Union’s 
+"acceptance" of the earlier Employer offer 
+literally comes out of the blue and is 
+sent in such apparent panic circumstances 
+by being telegraphed on a Sunday evening 
+to the home of the company’s president 
+only a few days after the final indicia of 
+any employee support for the Union has 
+vanished, the Employer is placed in a 
+position where it must make a rapid as- 
+sessment and determination of whether, at 
+the time of the Union’s effort to capture 
+the benefit of a prior Employer proposal, 
+the Union was, in fact, a representative 
+of a majority of the bargaining unit em- 
+ployees. Prior decisions of other Circuit 
+Courts of Appeals as well as the decision 
+
+
+“tn the very similar circumstances involved in 
+
+, 184 NLRB 139 (1970), the 
+
+Board had referred to such telegrams of “accep- 
+
+tance”, sent at a time when the Union’s employee 
+
+support had clearly evaporated, as a “capitulated . 
+
+contractual surrender”, sent in the Union’es 
+
+"haste to secure its bargaining status", which 
+
+would not place any obligation on the Employer to 
+accept. 
+
+
+15 
+
+
+of this Court in NLRB v. Curtin Matheson 
+Scientific, 494 U.S. 775 (1990) have de- 
+termined that the critical issue in such 
+circumstances, where the Employer, after 
+receiving such a Union attempt to "accept" 
+a prior offer in the face of eroding em- 
+ployee support, is whether the Employer 
+may reject in a timely fashion such an 
+"acceptance" based on the Employer’s good 
+faith belief that the Union, at the time 
+of its “acceptance”, no longer possessed 
+the support of a majority of the bargain- 
+ing unit employees. Unlike the decision 
+in this Court in Curtin Matheson Scientif- 
+ic and unlike the Seventh Circuit Court of 
+Appeals’ decision in Chicago Tribune Co. 
+Vv. NLRB, 965 F.2d 244 (7th Cir. 1992), and 
+unlike the Eleventh Circuit Court of 
+Appeals’ decision in NLRB v. Bickerstaff 
+
+, 871 F.2d 980 (11th Cir. 
+1989), the First Circuit Court of Appeals 
+determined that the question of the 
+Employer’s good faith doubt of the Union’s 
+majority status at the time of receiving 
+such a telegram "acceptance" is immateri- 
+al, as the agreement is fully consummated 
+by the Employer’s receipt of the Union’s 
+"acceptance", and that "agreement" consti- 
+tutes an irrebuttable presumption of the 
+Union’s majority status. Thus, the deci- 
+sion of the First Circuit Court of Appeals 
+in this case is inconsistent with at least 
+two other Circuits, as well as with the 
+rationale of this Court. 
+
+
+In NLRB v. Bickerstaff Clay Prods. Co., 
+871 F.2d 980 (lith Cir. 1989), cert. den. 
+493 U.S. 924 (1989), the Employer’s last 
+offer of November 6 was not accepted but, 
+after further detericration of the Union’s 
+
+
+16 
+
+
+majority status, was "accepted" by a Union 
+telegram on April 8th. As in the instant 
+case, one day after receiving this “accep- 
+tance", management withdrew recognition 
+from the Union and advised the Union that 
+the prior offer was no longer available 
+for “acceptance.” While, unlike the in- 
+stant case, both the Administrative Law 
+Judge and the National Labor Relations 
+Board decided the matter on the question 
+of whether this subsequent expression by 
+the Employer of its doubt of the Union’s 
+majority status was, in fact, based upon a 
+good faith doubt, based on objective con- 
+siderations (a matter which, in this case, 
+the Board and First Circuit are now saying 
+is immaterial, in view of the Union’s 
+having sent its "acceptance" one day prior 
+to the Employer’s withdrawal of recogni- 
+tion), the Board did argue before the 
+Eleventh Circuit Court of Appeals, as it 
+did in the instant case, that the prior 
+offer of the Employer remained available 
+for "acceptance", notwithstanding the 
+Employer having reasonably concluded in 
+the meantime that the Union no longer 
+represented a majority of the bargaining 
+unit employees. According to the Board’s 
+argument in that case, the Employer’s 
+offer would be available for such "“accep- 
+tance" until such time as the Employer 
+expressly either withdrew the offer or 
+withdrew recognition. The Eleventh Cir- 
+cuit Court of Appeals, unlike the First 
+Circuit Court of Appeals in the instant 
+case, determined that there was no such 
+obligation to either withdraw the offer or 
+withdraw recognition. 
+
+
+17 
+
+
+"There is no authority cited by the 
+Board, and none exists, for the propo- 
+sition that withdrawal of a prior of- 
+fer is a condition precedent to an 
+employer’s withdrawal of recognition 
+based on a good faith doubt of the 
+Union’s majority status. If the cir- 
+cumstances changed such that the Em- 
+ployer reasonably believed that the 
+Union no longer represented a majority 
+of its employees on April 8, 1986, 
+Bickerstaff had no duty to withdraw 
+its offer by notifying the Union." 
+NLRB _v. Bickerstaff Clay Products, 871 
+F.2d 980, 993-994 (1lith Cir. 1989) 
+
+
+The Court of Appeals in that case went 
+on to determine that the Employer was 
+within its rights in rejecting the Union’s 
+telegram “accepting” the Employer’s prior 
+offer and in withdrawing recognition from 
+the Union, even though this was not done, 
+as in the instant case, until one day 
+after the Union had "accepted" the Employ- 
+er’s prior offer. This decision is, thus, 
+Clearly inconsistent with the First Cir- 
+cuit’s decision in this case that, not- 
+withstanding an Employer’s legitimate, 
+good faith doubt of the continuing majori- 
+ty status of the Union, it is bound by a 
+Union “acceptance" of the Employer’s most 
+recent proposal. 
+
+
+Similarly, in Chicago Tribune Co. v. 
+NLRB, 965 F.2d 244 (7th Cir. 1992), the 
+Employer had engaged in a number of col- 
+lective bargaining sessions with the Union 
+and, after becoming aware of the nearly 
+complete erosion of the Union’s support 
+among employees, had not’ specifically 
+
+
+18 
+
+
+withdrawn its earlier offers to the Union. 
+It was only several days after the Union’s 
+eventual “acceptance” of the Employer’s 
+earlier offer that the Employer, for the 
+first time, formally took the position 
+that at the time of the Union’s "“accep- 
+tance", it no longer represented a majori- 
+ty of the employees. As in the instant 
+case, the National Labor Relations Board 
+took the position that the acceptance of 
+the Employer’s earlier offer bound the 
+Employer to a collective bargaining agree- 
+ment, and it was too late for the Employer 
+to maintain that, at the time of that 
+"acceptance", the Union no longer repre- 
+sented a majority of the employees. That 
+position was rejected by the Seventh Cir- 
+cuit Court of Appeals on the basic ratio- 
+nale that an Employer may not legally 
+consummate an agreement with a Union when, 
+at the time of that "consummation", the 
+Employer has reason to believe that the 
+Union does not represent a majority of its 
+employees. The Seventh Circuit Court of 
+Appeals also placed great emphasis on the 
+fact that to allow a Union to suddenly 
+grasp an earlier Employer offer at a time 
+when the Union’s support has disappeared 
+and, simply because the Employer has not 
+formally withdrawn either the offer or its 
+recognition of the Union, to force its 
+employees to be bound by a collective 
+bargaining agreement with a Union with 
+whom they no longer have any allegiance is 
+unduly and unnecessarily penalizing those 
+employees. The Court drew careful dis- 
+tinctions between situations such as those 
+involved in this case where, in the ab- 
+sence of any bad faith bargaining by the 
+Employer, the Employer simply had not 
+
+
+19 
+
+
+formally withdrawn its prior offer or 
+Union recognition in the face of the 
+Union’s eroding support, and cases where 
+the Employer refuses to comply with its 
+statutory obligation to bargain in good 
+faith and, as the result of such refusal, 
+the employee support eventually erodes. 
+The Court suggested that in the latter 
+case, the Employer would not be in a posi- 
+tion to reject the Union’s acceptance of 
+any Employer offer, as the Employer itself 
+has illegally contributed to the erosion 
+of the Union’s support. There is no sug- 
+gestion that any such circumstances exist- 
+ed in the instant case. The Court of 
+Appeals for the First Circuit in the in- 
+stant case expressly acknowledged that its 
+determination would be contrary to this 
+decision of the Seventh Circuit Court of 
+
+
+Appeals in Chicago Tribune. (App. p. 7a) 
+
+
+The facts of the instant case are also 
+remarkably similar to those involved in 
+NLRB_v. Curtin Matheson Scientific, 859 
+F.2d 362 (5th Cir. 1988) rev’d. 494 U.S. 
+777 (1990). In that case, the Employer 
+had made an offer to the Union on June 
+12th, and after serious erosion of Union 
+support, the Union finally “accepted" the 
+offer on July 16th. Four days later, the 
+Employer declined the Union’s "acceptance" 
+and, for the first time, formally 
+announced its withdrawal of that earlier 
+offer, based on its doubts as to the 
+Union’s majority status as of the date the 
+Union purported to "accept" the Employer’s 
+offer. The Fifth Circuit Court of Appeals 
+determined that on those facts, there was 
+no violation of Sections 8(a)(1) and 8(a) 
+(5) by the Employer refusing to execute an 
+
+
+20 
+
+
+agreement, and by withdrawing its recogni- 
+tion of the Union. Most significantly, 
+unlike the Court of Appeals in the instant 
+case, it did not consider a legitimate 
+agreement to have been entered into simply 
+by the Union’s attempting to "accept" the 
+Employer’s last proposal. Obviously, if 
+the Fifth Circuit had felt that the mere 
+"acceptance" by the Union of the earlier 
+Employer offer resulted in an "agreement", 
+there would have been no need for the 
+Court of Appeals even to have considered 
+the legitimacy of the Employer’s clain, 
+made four days after this "acceptance" as 
+to the Union’s lack of majority status. 
+
+
+On appeal, a majority of this Court 
+determined that the Employer’s asserted 
+basis for its contention that the Union no 
+longer maintained a majority status (the 
+existence of a number of striker replace- 
+ments which the Employer had assumed did 
+not support the Union) was not a legiti- 
+mate basis for the Employer’s withdrawal 
+of recognition. But, under the rationale 
+of the First Circuit in the instant case, 
+there would have beer no need to have even 
+reached that issue if the Union’s "“accep- 
+tance" of the Employer’s earlier offer 
+constituted a binding agreement, regard- 
+less of the Employer’s feeling that the 
+Union then no longer enjoyed a majority 
+status. 
+
+
+Similarly, the extended dissenting opin- 
+ions of four members of this Court deter- 
+mining that the Employer had not violated 
+the statute by refusing to execute an 
+agreement with the Union necessarily as- 
+sumed that a binding contract was not 
+
+
+7h ta ot Sal 
+
+
+21 
+
+
+consummated simply by the Union’s "“accep- 
+tance" of the Employer’s earlier offer. 
+494 U.S. at 798, 801 
+
+
+Thus, the eventual determination of the 
+Board, as affirmed by the First Circuit 
+Court of Appeals, that the Employer’s 
+Claim of a good faith doubt of the Union’s 
+majority status should not even be consid- 
+ered if that claim is formally announced 
+the day after the Union’s telegram of 
+"acceptance" is immaterial, is inconsis- 
+tent with the manner in which this Court 
+and other Circuits have dealt with that 
+same factual situation. 
+
+
+II. 
+THE BOARD RULING THAT AN "AGREEMENT" 
+CREATED BY A UNION’S “ACCEPTANCE" CRE- 
+ATES AN IRREBUTTABLE PRESUMPTION OF 
+THE UNION’S MAJORITY STATUS, THUS REN- 
+DERING IMMATERIAL THE EMPLOYER’S EVI- 
+DENCE OF THE UNION’S ACTUAL LACK OF 
+MAJORITY STATUS, IS INCONSISTENT WITH 
+THE DOCTRINE THAT THE CREATION OF SUCH 
+A MAJORITY STATUS PRESUMPTION MUST 
+
+
+HAVE BEEN LEGITIMATELY AND LAWFULLY 
+ESTABLISHED. 
+
+
+This Court has approved in various cir- 
+cumstances the Board’s creation of either 
+irrebuttable or rebuttable presumptions of 
+a Union’s majority status. For example, a 
+Union certified by an NLRB election is 
+irrebuttably presumed to have a majority 
+status for a one-year period after the 
+Board certification; after that one-year 
+period, its majority status has only a 
+rebuttable presumption, and the Employer 
+may properly raise, after that one-year 
+
+
+22 
+
+
+period, a claimed good faith doubt as to 
+the majority status of the Union. NLRB v. 
+
+
+Curtin Matheson Scientific, 494 U.S. 775 
+(1990); Fall River Dyeing and Finishing 
+
+
+Corp. v. NLRB, 482 U.S. 27, 37 (1987) 
+
+
+Similarly, a Union who has entered into 
+a valid collective bargaining agreement 
+with an Employer is irrebuttably presumed, 
+during the course of that agreement, to 
+have a majority status among bargaining 
+unit employees; after the expiration of 
+that collective bargaining agreement and 
+during the course of negotiations for a 
+successor agreement, the Union is deemed 
+only to have a rebuttable presumption of a 
+
+
+majority status. NLRB v. Ironworkers, 434 
+U.S. 335, 343 (1978) 
+
+
+To the same effect, a Union who enters 
+into a recognition agreement with an Em- 
+ployer is irrebuttably presumed to have a 
+majority status for "a reasonable time" 
+after that recognition agreement is 
+reached. The rationale for such a policy 
+creating presumptions of majority status 
+
+
+5tn this case, while there was an NLRB Certif- 
+ication in 1977, (App. 69a), the rebuttable pre- 
+sumption of the Union’s majority status which was 
+applicable in the 1988 negotiations was based on 
+the recently-expired agreement, and not on the 
+earlier Certification. (Indeed, none of the 1988 
+employees were even employed at the time of the 
+1977 Certification. (App. p. 55a) Similarly, the 
+“irrebuttable presumption” upon which the Board is 
+now relying so as to preclude the Employer’s evi- 
+dence of the Union’s loss of majority is the “con- 
+tract" created by the Union’s November 27, 1988 
+telegram; it is not based on the original 1977 
+Certification. 
+
+
+23 
+
+
+is that “a bargaining relationship, once 
+rightfully established, must be permitted 
+to exist and function for a reasonable 
+period in which it can be given a fair 
+chance to succeed". Franks Bros. v. NLRB, 
+321 U.S. 702, 705 (1944) This Court has 
+more recently noted that this type of 
+presumption of majority status is intended 
+to “promote stability in collective-bar- 
+gaining relationships, without impairing 
+the free choice of employees". Fall River 
+
+, 482 
+U.S. 27 (1987) Obviously, the creating of 
+an irrebuttable presumption of Union ma- 
+jority status will have an unavoidable 
+impact of infringing on the ability of 
+bargaining unit employees to engage in 
+activity otherwise protected by Section 7 
+of the Act, such as challenging an incum- 
+bent Union’s majority status or in seeking 
+certification by another Union or in at- 
+tempting to refrain from Union activity. 
+However, as this Court noted in NLRB v. 
+
+
+ca, 471 U.S. 1098 (1986), the preference 
+for industrial stability created by lawful 
+collective bargaining relationships must 
+prevail over the incidental impact the 
+protection of collective bargaining rela- 
+tionships may have on the ability of the 
+employees to engage in otherwise available 
+Section 7 activities. Moreover, while 
+that deprivation of Section 7 rights might 
+be justified in order to protect legiti- 
+mate collective bargaining relationships, 
+it is an impermissible infringement on 
+Section 7 rights and a clear violation of 
+
+
+24 
+
+
+the principles of Section 8(a)(2)° of the 
+Act to extend such a presumption of major- 
+ity status to relationships which are 
+based on Union agreements unless the Union 
+agreement itself was lawfully entered 
+into; where the agreement was not lawfully 
+entered into, such am agreement should not 
+serve as the vehicle for the creation of 
+such majority status presumption, so as to 
+deprive employees of their Section 7 
+rights. 
+
+
+For example, in Royal Coach Lines v. 
+NLRB, 838 F.2d 47 ‘2nd Cir. 1988), the 
+Employer had entered into a recognition 
+agreement with the Union. Such an agree- 
+ment ordinarily would create an irrebutta- 
+ble presumption of Union majority status, 
+at least for a “reasonable period of 
+time". In that case, the Employer, upon 
+being advised that at the time of the 
+recognition agreement, the Union, in fact, 
+did not represent a majority of its enm- 
+ployees, immediately repudiated the agree- 
+ment and disavowed any obligation to deal 
+with the Union, based on its good faith 
+doubt that the Union had not represented a 
+majority of the employees. The Second 
+Circuit Court of Appeals acknowledged the 
+general irrebuttable presumption of the 
+Union’s majority status flowing from such 
+agreements, but indicated that the general 
+
+
+‘under Sections 8(a)(2) and 8(b)(1),, it is 
+clearly illegal for an Employer or Union to negoti- 
+ate or enter into an agreement when the Union does 
+not represent a majority of the employees. 14 
+U.S. 731, 732-733 (1961) 
+
+
+25 
+
+
+rule for the operation of presumptions of 
+Union majority status "must be limited to 
+those bargaining relationships that have 
+indeed been ‘lawfully established’". The 
+Second Circuit quoted language from an 
+earlier decision in 
+
+Stone, 474 F.2d 1380 (2nd Cir. 1973), 
+where the presumptions flowing from a 
+Union recognition agreement were limited 
+to those agreements which were "valid" at 
+the time of their consumption. The court 
+also noted in its earlier decision in NLRB 
+v. All Brand Printing Corp., 594 F.2d 926, 
+929 (2nd Cir. 1979), that the basis for 
+this presumption of Union majority status 
+must be a “valid” agreement. This Court, 
+in Franks Bros. v. NLRB, 321 U.S. 702 
+(1944), indicated that the collective 
+bargaining relationships which are to be 
+protected by the aforesaid presumptions of 
+majority status must have been "rightfully 
+established" in order to receive the pro- 
+tection of such presumptions. Otherwise, 
+"the interest in protecting bargaining 
+relationships could not justifiably out- 
+weigh the burdens on employee freedom that 
+flow in some circumstances from the impo- 
+sition of a period of irrebuttably pre- 
+sumptive Union majority support". Royal 
+Coach Lines, 838 F.2d 47 at 52. 
+
+
+The Board itself has noted the distinc- 
+tion that must be drawn between creating 
+presumptions of Union majority status from 
+valid agreements, as opposed to those 
+which are invalid as a result of the Union 
+not maintaining a majority status as of 
+the time of the entering into of the con- 
+tract. In Moisi & Son Trucking, 197 NLRB 
+198, (1972), it was determined that an 
+
+
+26 
+
+
+Employer who has entered into a voluntary 
+recognition agreement with the Union is 
+faced with an irrebuttable presumption 
+that the Union represents a majority of 
+its employees, and must deal with the 
+Union for a reasonable period of time, 
+“unless he introduces affirmative evidence 
+
+
+lack of majority at the time of 
+agg BR agp nem F (Emphasis 
+
+
+added) 
+
+
+Ill. 
+
+EVEN IF A REQUIREMENT EXISTED THAT AN 
+EMPLOYER, SUDDENLY FACED WITH THE BA- 
+SIS FOR ASSERTING A DOUBT OF THE 
+UNION’S MAJORITY STATUS, MUST WITHDRAW 
+ANY OUTSTANDING CONTRACT PROPOSALS, IT 
+SHOULD BE AFFORDED A REASONABLE PERIOD 
+OF TIME TO WITHDRAW OUTSTANDING CON- 
+TRACT PROPOSALS OR TO ASSERT ITS DOUBT 
+OF THE UNION’S MAJORITY STATUS. 
+
+
+Under the Board’s own guidelines, an 
+Employer’s offer for a collective bargain- 
+ing agreement will remain available for 
+acceptance until it is expressly with- 
+drawn, unless circumstances arise which 
+would lead the parties to reasonably be- 
+lieve that the offer was no longer avail- 
+able, or “unless there are intervening 
+circumstances which would make it unfair 
+to hold the company to its offer." Pepsi 
+
+. Vv. NLRB, 659 F.2d 87, 
+89-90 (8th Cir. 1981) One of the circum- 
+stances that could frequently arise be- 
+tween the making of such an offer and the 
+Union’s subsequent attempt to "accept" 
+that offer is the loss of the Union’s 
+majority status and, as noted above, (pp. 
+15-16), the Eleventh Circuit Court of Ap- 
+
+
+27 
+
+
+peals has expressly noted that in those 
+circumstances, the Employer has no duty to 
+withdraw its offer from what has now be- 
+come a minority Union. NLRB_v. Bicker- 
+
+, 871 F.2d 980, 993-994 
+(lith Cir. 1989) 
+
+
+Moreover, even if the Board were to 
+administratively create such a duty, com- 
+mon sense dictates that the time within 
+which an Employer must withdraw its offer 
+should be dictated by the circumstances 
+which have led the Employer to believe 
+that the Union no longer maintains its 
+majority status. Obviously, an Employer. 
+who has made a prior contract offer to te 
+Union and is subsequently presented, for 
+the first time, with compelling evidence 
+which would serve as the basis for a good 
+faith belief on its part that the Union no 
+longer maintains a majority status, should 
+not be held committed to a Union contract 
+if the Union, within minutes or hours of 
+the Employer’s receiving that information, 
+telegraphs its "acceptance" of the Emp loy- 
+er’s offer. The Employer should have a 
+reasonable opportunity not only to inves- 
+tigate and verify the information, which, 
+if confirmed, would serve as the basis for 
+the Employer’s good faith doubt of the 
+Union’s majority status, but the Employer 
+should also have a reasonable period of 
+time to communicate its good faith doubt 
+to the Union. Clearly, if the Employer 
+prematurely and without properly investi- 
+gating and verifying the information that 
+could lead to a good faith doubt of a 
+Union’s majority status, withdraws recog- 
+nition from the Union, it has exposed 
+itself to an unfair labor practice charge. 
+
+
+28 
+
+
+NLRB v. Laverdiere’s Enterprises, 933 F.2d 
+1045, 1051-1053 (ist Cir. 1991); Bolton- 
+Emerson v. NLRB, 899 F.2d 104, 106 (ist 
+Cir. 1990) The need for the Employer to 
+have at least a reasonable opportunity to 
+assess the factual basis for any possible 
+belief that the Union no longer maintains 
+majority status is emphasized by the fact 
+that if it were to continue to recognize 
+and deal with a Union, after becoming 
+aware of the basis for a belief that the 
+Union no longer maintains a majority sta- 
+tus, it has violated Section 8(a)(2) of 
+
+
+the Act. 
+, 366 U.S. 731, 732- 
+
+
+Workers Union v. NLRB 
+
+733 (1961) It would be an unfair and 
+unreasonable requirement to place a burden 
+upon the Employer to have to go through 
+the difficult and prolonged process of 
+accurately evaluating the current majority 
+status of the Union (at the peril of in- 
+curring possible Unfair Labor Practice 
+charges)’ and then to have to decide 
+whether or not to formally announce its 
+disavowal of its obligation to deal with 
+that Union within a matter of hours or 
+even days of the Employer’s first receiv- 
+ing the factual information which could 
+
+
+’?he dilemma faced by an Employer having to 
+determine when it is permissible to assert its good 
+faith doubt that the Union no longer maintains a 
+majority status is demonstrated in the instant case 
+where the Board’s decision implies that the Employ- 
+er waited too long to announce its decision, yet 
+General Counsel, before the Administrative Law 
+Judge, argued at length that, even as of November 
+28th, when the Employer announced its good faith 
+doubt, the Employer did not yet have a sufficient 
+
+
+factual basis for that good faith doubt. 
+
+
+29 
+
+
+serve as a possible basis for the conclu- 
+sion that the Union no longer enjoyed a 
+majority status. 
+
+
+While in this case, the Board is 
+attempting to depict the Employer as one 
+casually “sitting back" and methodically 
+deciding if and when it will announce it’s 
+doubt of the Union’s continuing majority 
+status, or whether it will continue to 
+negotiate with a minority Union in an 
+attempt to obtain a more favorable con- 
+tract (Pet. App. p.36a), the facts of this 
+case clearly negate any such reference and 
+demonstrate the need for allowing at least 
+a reasonable period of time for an Employ- 
+er to assess and evaluate the facts creat- 
+ing a possible good faith doubt of the 
+Union’s majority status. While the Em- 
+ployer had limited information that sever- 
+al months prior to the strike, one or two 
+employees had expressed dissatisfaction 
+with the Union (App. p. 3la, 46a, 60a), 
+and that some employees had crossed the 
+picket line and resigned from the Union 
+(App. p. 9a, 13a, General Counsel Exhibits 
+2a, b, c, da, 3a, b, c, a, 4) and that a 
+few strike replacements had been hired 
+(App. p. 40a), it certainly had far less 
+than an adequate basis for disavowing an 
+obligations to deal with the Union as of 
+November 17, 1988, when it made its last 
+offer to the Union. As the Board has 
+ruled on a number of occasions, the mere 
+fact of several employees crossing a pick- 
+et line and re-signing from the Union and 
+several additional employees being hired 
+as strike replacements is an inadequate 
+basis for refusing to recognize the Union. 
+
+
+Station KKHI, 284 NLRB No. 113 (1987); 
+
+
+30 
+
+
+‘one 
+NLRB No. 40 (1988); Wallkill Valley Gener~- 
+al Hospital, 288 NLRB No. 18 (1988) It 
+was only after the Union withdrew its 
+picket line during the day of Friday, 
+November 18th, and throughout the follow- 
+ing week, that a continuous and changing 
+barrage of events took place that served 
+as the factual basis for the Employer’s 
+forming a possible belief that the Union 
+no longer enjoyed the support of a majori- 
+ty of its employees. For the balance of 
+that day and throughout the following week 
+of November 21st, not only did a number of 
+employees who had been either picketing or 
+honoring the picket line return to work 
+and express to management representatives 
+their lack of support for the Union and, 
+in some instances, actually resign from 
+the Union, but a number of heretofore 
+Union supporters announced for the first 
+time, during that same period, that they 
+had decided to accept permanent employment 
+elsewhere, and accordingly, would not be 
+considered any longer to be bargaining 
+unit employees in the Employer’s assess- 
+ment of whether the Union had the support 
+of a majority of the bargaining unit enm- 
+ployees. See Appendix to Brief, p. App. 
+1 detailing the apparent change in union 
+support status of 13 employees during that 
+3-or 4-day period. The change in apparent 
+status of some 13 employees in a relative- 
+ly small unit consisting of some 23 en- 
+ployees was not made known to the Employer 
+until after the picket line was withdrawn 
+on November i8th and throughout the work 
+
+
+, 289 
+
+
+31 
+
+
+week of November 2ist®. It stands to rea- 
+son that a relatively small Employer who 
+is attempting to run its commercial enter- 
+prise would need to investigate and to 
+assess the changed circumstances in which 
+it found itself, as the result of the 
+change in status of these 13 employees, 
+and it would be an unreasonable burden to 
+force such an Employer to prematurely 
+announce its disavowal of its obligation 
+to the Union, and thus incur the risk of 
+exposure to an unfair labor practice 
+charge. Clearly, such an Employer should 
+have at least a few days to assess its 
+position and, even if this Court were to 
+disagree with the determination of the 
+Eleventh Circuit Court of Appeals in Bick- 
+erstaff Clay Products, supra, p. 15-16, 
+and the Seventh Circuit Court of Appeals 
+in Chicago Tribune Co. v. NLRB, supra, p. 
+17-18, that an Employer who is placed in 
+the posture of having a good faith belief 
+of the Union’s loss of majority status 
+need not expressly withdraw any outstand- 
+ing contract proposals or withdraw recog- 
+nition from the Union, it certainly should 
+have at least a reasonable period of time 
+to assess its position and to decide the 
+appropriateness of withdrawing outstanding 
+contract proposals and/or withdrawing 
+recognition from the Union. Not only 
+should it be allowed a reasonable time to 
+
+
+®the time which was available to the Employer 
+to assess and analyze the sudden shift in employee 
+support for the Union was, in fact, even more 
+limited, as the result of the work week of November 
+21st being a short work week, due to the Thanksgiv- 
+ing holiday. 
+
+
+32 
+
+
+assess the information available to it and 
+to analyze that information, it clearly 
+
+
+has, as the Court noted in International 
+, 366 
+
+
+U.S. 731, 739 (1961), a statutory respon- 
+sibility to carefully analyze the informa- 
+tion available to it to assure itself 
+whether the Union, in fact, represents a 
+majority of its employees. 
+
+
+It is respectfully submitted that the 
+Board’s decision, depriving the Employer 
+of a reasonable period of time to assess 
+and determine the status of the Union 
+merely upon the fact that the Union, cur- 
+rently having become aware of its total 
+lack of support, sends a telegram of ca- 
+pitulation, that such a telegram deprives 
+the Employer of an opportunity to react to 
+the Union’s sudden loss of majority sta- 
+tus is so lacking in persuasive logic that 
+it should not be enforced by this Court. 
+Moreover, that Sunday evening telegram of 
+capitulation, according to the _ Board, 
+ensnares the employees of a company in a 
+three-year affiliation with a Union with 
+which the employees have affirmatively 
+disclaimed any support. 
+
+
+IV. 
+
+THE JUDICIAL DEFERENCE TO NLRB INTER- 
+PRETATIONS OF THE ACT IS INAPPLICABLE 
+WHERE THE BOARD’S STATUTORY INTERPRE- 
+TATION IS UNPERSUASIVE OR RESTS ON 
+ERRONEOUS LEGAL FOUNDATIONS, OR IS NOT 
+SUPPORTED BY THE HISTORY OR LANGUAGE 
+OF THE ACT. 
+
+
+In dealing with the traditional argument 
+of the Board in seeking enforcement of its 
+
+
+33 
+
+
+Orders, that its interpretation of the Act 
+should be granted judicial deference, this 
+Court has determined on a number of occa- 
+sions that such judicial deference is 
+inapplicable where the Board’s Order 
+“rests on erroneous legal foundations", 
+
+
+Lechmere v. NLRB, 502 U.S. 527, 539 
+
+
+' (1992); NLRB v. Babcock & Wilcox, 351 U.S. 
+
+
+105 (1956), and the deference to NLRB 
+statutory interpretations is limited to 
+circumstances in which the Board’s inter- 
+pretation of the Act is both "rational" 
+and “consistent with the statute". NLRB 
+, 484 U.S. 
+112, 123 #£4(1987) Thus, whenever’ the 
+Board’s argument in support of its statu- 
+tory interpretation is either “unpersua- 
+sive" or the Board’s views are not sup- 
+ported by the history or language of the 
+statute, the Court will not defer to the 
+pay Sg interpretation of the stat- 
+ute. = 
+, 364 U.S. 573, 581, 584 
+(1961) Where the Board has adopted "pre- 
+sumptions", this Court has noted that the 
+judicial role is to insure that there is a 
+sound connection between the proven facts 
+and the inferred facts created by the 
+presumption. j . 
+442 U.S. 773, 787 (1979), quoting Republic 
+, 324 U.S. 793, 804- 
+805 (1945) and Beth Israel Hospital v. 
+NLRB, 437 U.S. 483, 501 (1978) for the 
+proposition that such NLRB-created "pre- 
+sumptions" should be upheld only if there 
+is a rational basis, based on the proven 
+facts, for the inferences created by those 
+"presumptions". 
+
+
+34 
+
+
+In NLRB v. Brown, 380 U.S. 278 (1965), 
+the Court set forth in detail the applica- 
+
+
+ble standards for review of cases where 
+the Court feels that the Board has acted 
+in a manner inconsistent with the statute 
+or which may frustrate the policies under- 
+
+
+35 
+
+
+»__V. Labor Board, 
+supra [380 U.S. 300 (1965)]" 
+
+
+Courts must, of course, set aside 
+Board decisions which rest on "an er- 
+roneous legal foundation. 
+
+
+lying that statute. 
+
+
+"Courts should be “slow to overturn an 
+administrative decision," NLRB v. Bab- 
+cock & Wilcox Co., 351 U.S. 105, 112, 
+but they are not left "to ‘sheer 
+acceptance’ of the Board’s' conclu- 
+sions," Republic Aviation Corp. v. 
+NLRB, 324 U.S. 793, 803. Reviewing 
+courts are not obliged to stand aside 
+and rubber stamp their affirmance of 
+administrative decisions that they 
+deem inconsistent with a_ statutory 
+mandate or that frustrate the congres- 
+sional policy underlying a _ statute. 
+Not only is such review always proper- 
+ly within the judicial province, but 
+courts would abdicate their responsi- 
+bility if they did not fully review 
+such administrative decisions. of 
+course due deference is to be rendered 
+to agency determinations of fact, so 
+long as there is substantial evidence 
+to be found in the record as a whole. 
+But where, as here, the review is not 
+of a question of fact, but of a judg- 
+ment as to the proper balance to be 
+struck between conflicting interests, 
+"(tj)he deference owed to an expert 
+tribunal cannot be allowed to slip 
+into a judicial inertia which results 
+in the unauthorized assumption by an 
+agency of major policy decisions prop- 
+erly made by cCongress. 
+
+
+NLRB_yv. 
+, (351 U.S. at 112- 
+113)" 
+
+
+380 U.S. at 291; see also cases cited 
+therein at footnote 5. 
+
+
+It is submitted that this case projects 
+the very type of circumstances in which 
+judicial deference to a Board’s decision 
+should be withheld. The very concept of 
+the Board ordering an Employer to enter 
+into an agreement with a Union which the 
+Employer clearly and legitimately feels it 
+had reason to believe did not represent 
+anything close to a majority of its em- 
+ployees is certainly one that must be 
+supported by either clear statutory lan- 
+guage or by strong and persuasive policy 
+considerations. Obviously, the statutory 
+language does not support such a conclu- 
+sion, as the congressional mandate is 
+clear that collective bargaining relation- 
+ships should only be protected when en- 
+tered into with majority Unions, and the 
+establishment of such collective bargain- 
+ing relationships with minority Unions not 
+only is expressly prohibited by Section 
+8(a)(2) of the Act, but is would also 
+Clearly restrict the Section 7 rights of 
+the employees. 
+
+
+More specifically, the "policy" determi- 
+nations which the Board claims to support 
+its "presumption" that a Union with little 
+
+
+36 
+
+
+or any employee support who is astute 
+enough to literally race to the closest 
+telegraph office to fire off a communica- 
+tion to the Employer "accepting" the 
+Employer’s last offer, at a time when the 
+Union was presumably aware of its lack of 
+employee support, are so lacking in ratio- 
+nal or statutory support that they should 
+not be deferred to by this Court. 
+
+
+The Board’s creation of a presumption of 
+a majority status as the result of an 
+allegedly minority Union having "accepted" 
+the company’s last offer, which "“accep- 
+tance" bars consideration of the Employ- 
+er’s evidence that, in fact, the Union did 
+not have majority support, flies in the 
+face of the rationale of this Court in 
+
+
+International Ladies Garment Workers Union 
+v. NLRB, 366 U.S. 731, 737 (1961), indi- 
+cating that the unlawful "genesis" of such 
+an “agreement" precludes its subsequent 
+use to establish (or, in this case, to 
+presume) the Union’s majority status. 
+
+
+As noted above on pages 23 to 25, such 
+policy considerations intended to protect 
+collective bargainng relationships are 
+properly limited to the protection of 
+legitimately established and continued 
+collective bargaining relationships and 
+should not be stretched beyond recognition 
+so as to apply to a Union’s effort to 
+continue that bargaining relationship by 
+sending surprise telegrams on a Sunday 
+evening to the home of the Employer’s 
+president, in a hasty effort to attempt to 
+secure, for another three years, a collec- 
+tive bargaining agreement so as to capture 
+within the web of that agreement employees 
+
+
+37 
+
+
+who had clearly and recently indicated 
+their lack of interest in that Union. It 
+is respectfully submitted that such an 
+irrational basis for an even more irratio- 
+nal result cannot serve as a proper justi- 
+fication of what the Seventh Circuit noted 
+to be a clear infringement upon the Sec- 
+tion 7 rights of the employees. Chicago 
+Tribune, supra, 965 F.2d at 249-250 
+
+
+CONCLUSION 
+
+
+For the reasons set forth above, it is 
+respectfully requested that this Court 
+reverse the Decision of the Court of Ap- 
+peals for the First Circuit below, and 
+order that this case be remanded to the 
+National Labor Relations Board for a 
+determination of whether, at the time of 
+the receipt by the Employer of the Union’s 
+telegram purporting to "accept" the 
+Employer’s last offer, the Employer main- 
+tained a good faith doubt of the Union’s 
+majority support of employees within the 
+
+
+bargaining unit. 
+Dated this first day of March, 1996. 
+
+
+Respectfully submitted, 
+
+
+JOHN D. O’REILLY, III 
+
+
+O’REILLY & GROSSO 
+
+77 Turnpike Road 
+
+P. O. Box 77 
+
+Southborough, MA 01745-0118 
+(508) 460-1500 
+
+
+Counsel for Petitioner. 
+
+
+Employees who were apparent Union 
+Supporters and who advised the company on 
+or after November 18, 1988 of their change 
+of position to lack of Support for the 
+Union are: 
+
+
+1. Gary Boudreau, who picketed through 
+the last day of picketing, November 
+18th, advised the company on the 18th 
+that he was "disgusted" with the 
+Union. He returned to work on the 
+21st and advised the company that he 
+would resign from the Union that week; 
+he confirmed with the company later 
+that week that he had resigned from 
+the Union. (App. 29a) 
+
+
+Rocco Aliberti came into the company 
+after the picketing stopped on the 
+18th, and advised the company he was 
+not a supporter of the Union, and 
+would vote against the Union. (App. 
+17a-18a) 
+
+
+Robert Cibelli had been picketing and 
+was one of the three remaining 
+picketers, as of November 18th. On 
+the 18th, he advised the company he 
+would be returning to work the 
+following week, and during the week of 
+November 2list, he advised the company 
+he had resigned from the Union, and 
+that he was no longer ai Union 
+Supporter, and was happy that the 
+Union was no longer at the company. 
+(App. 23a-25a) 
+
+
+App. 2 
+
+
+4. David Duplisea had not worked during 
+the strike and came in after the 
+picket line was withdrawn. He then 
+advised the company that he was 
+against the Union and that he didn’t 
+feel that a Union was needed at the 
+company and that he would vote against 
+the Union, and that he resigned from 
+the Union. (App. 31la-32a) 
+
+
+5. Quang Nguyen had honored the Union 
+picket line, and advised the company 
+on the 18th that he would be returning 
+the week of November 28th, and that he 
+intended to resign from the Union. 
+(App. 33a-34a) 
+
+
+Apparent Union supporters who advised the 
+company on November 18th that they were 
+employed permanently elsewhere, and would 
+not be returning to the company: 
+
+
+1. Union Steward Joe Parenti (App. 25a- 
+26a) 
+
+
+2. Richard DeLarda (App. 19a, 47a) 
+
+3. Paul McCarthy (App. 25a-26a) 
+
+4. Ken Seaver (App. 26a, 30a-31a) 
+
+S. Michael Coyne (App. 32a) 
+Additionally, McCarthy advised the company 
+on the 18th of his assessment that the 
+
+
+Union no longer had support among most of 
+the employees. (App. 28a) 
+
+
+App. 3 
+
+
+Additionally, the Employer had been aware 
+of various other employees previously 
+crossing the picket line, resigning from 
+the Union, and disavowing any support for 
+the Union. 
+
+
+(App. 18a, 22a, 28a, 33a, 35a and 38a-39a) 
+
+

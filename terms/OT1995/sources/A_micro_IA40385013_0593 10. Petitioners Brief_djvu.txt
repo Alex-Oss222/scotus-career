@@ -1,0 +1,2122 @@
+aR ee GEE i ee ee ee ee, See Ae Pete ee | ee sincerest een al 
+2 Y 
+
+
+Nos. 94-1614, 94-1631, 94-1985 (ConsplidatW@y 9 1995 
+
+
+a ee ee eee ee. 
+
+
+IN THE stents 
+
+
+Supreme Court of the Anited States 
+OCTOBER TERM, 1995 
+
+
+STATE OF WISCONSIN, 
+Petitioner, 
+v. 
+CiTy OF NEW YORK, ef ai., 
+Respondents. 
+
+
+STATE OF OKLAHOMA, 
+Petitioner, 
+Vv 
+
+
+City OF NEw YORK, ef al., 
+Respondents. 
+
+
+: UNITED STATES DEPT. OF COMMERCE, ef al., 
+ss v. 
+City oF NEw YORK, et al., 
+
+
+Respondents. 
+
+
+¥: On Writ of Certiorari to the 
+aK United States Court of Appeals 
+* for the Second Circuit 
+
+
+PETITIONER STATE OF OKLAHOMA’ S 
+
+
+i 
+QUESTIONS PRESENTED 
+
+
+l. Whether the decision of the Secretary of 
+Commerce not to statistically adjust the 1990 census is 
+consistent with the mandate of Article I, § 2, cl. 3 of the 
+United States Constitution that “[t]he actual Enumeration 
+shall be made . . . in such Manner as [Congress] shall by 
+Law direct." 
+
+
+2. Whether the opinion of the Court of Appeals 
+is inconsistent with United States Dept. of Commerce v. 
+Montana, 503 U.S. 442 (1992), and Franklin v. 
+Massachusetts, 112 S.Ct. 2767 (1992), and in conflict with 
+Tucker v. United States Dept. of Commerce, 958 F.2d 1411 
+(7th Cir.), cert. denied, 113 S.Ct. 407 (1992), and City of 
+Detroit v. Franklin, 4 F.3d 1367 (6th Cir. 1993), cert. 
+
+
+denied, 114 S.Ct. 1217 (1994). 
+
+
+3. Whether the Court of Appeals erred in 
+imposing upon the Secretary of Commerce the heightened 
+burden of showing that the decision furthers a governmental 
+Objective that is legitimate and is essential for the 
+achievement of that objective. 
+
+
+ii 
+
+
+PARTIES TO THE 
+CONSOLIDATED PROCEEDINGS 
+
+
+Petitioners, defendants below, are: United States 
+Department of Commerce; Ronald H. Brown, Esq., As 
+Secretary of the United States Department of Commerce; 
+Everett Ehrlich, As Under Secretary for Economic Affairs 
+of the United States Department of Commerce; Bureau of 
+Census; Harry Scarr, As Acting Director of Bureau of 
+Census; William J. Clinton, As President of the United 
+States; Dan Glickman, As Secretary of Agriculture; Donna 
+E. Shalala, As Secretary of Health and Human Services; 
+Henry Cisneros, As Secretary of Housing and Urban 
+Development; Robert B. Reich, As Secretary of Labor; 
+Federico Pefia, As Secretary of Transportation; Richard W. 
+Riley, As Secretary of Education. 
+
+
+Petitioners, intervenor-defendants below, are: State 
+of Oklahoma; State of Wisconsin. 
+
+
+Chicago; City of Houston; Dade County, Florida; United 
+States Conference of Mayors; National League of Cities; 
+League of United Latin American Citizens; National 
+Association for the Advancement of Colored People; 
+
+
+Logan, Jr.; Johnnie McMillan; Alzo J. Reddick; Peter Rudy 
+Wallace; T.K. Wetherell; State of Texas; City of Phoenix, 
+Arizona; State of New Jersey; State of Florida; City of 
+Cleveland, Ohio; City of Denver, Colorado; City of 
+Inglewood, California; City of New Orleans, Louisiana; City 
+of Oakland, California; City of Pasadena, California; City of 
+
+Pennsylvania; City of San Antonio, Texas; 
+City of San Francisco, California; Broward County, Florida; 
+State of Arizona; City of Baltimore, Maryland; City of 
+Boston, Massachusetts; City of Long Beach, California; City 
+of San Jose, California; Los Angeles County, California; San 
+Bernadino County, California; District of Columbia; Navajo 
+Nation; State of New Mexico; City of Tucson, Arizona; 
+Council of Great City Schools. 
+
+
+Additional respondent, defendant below, is: Donnald 
+K. Anderson, As Clerk of the United States House of 
+Representatives. 
+
+
+iv 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+TABLE OF AUTHORITIES ............+4.- vi 
+CRU BE oc cc cece cbs he wee een 2 
+SOG 2 8 POSES eRe eee eter 2 
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED ............-. 2 
+STATEMENT OF THE CASE ............+.. 3 
+SUMMARY OF ARGUMENT .............-.- 5 
+BREE ob ov eee eee Swe ESTES 7 
+I. 13 U.S.C. § 195 PROHIBITS THE 
+STATISTICAL ADJUSTMENT OF THE 
+DECENNIAL CENSUS FOR 
+APPORTIONMENT PURPOSES ......... 7 
+A. The Constitution Gives Congress The 
+Power To Decide The Census Method; 
+Congress Used This Power To Prohibit 
+RGU nc ccc cccccesecces 8 
+B The Statutory Text Is Clear; 
+Adjustment Is Prohibited .......... 10 
+C. The Legislative History Supports The 
+Conclusion That § 195 Prohibits 
+p Perr LT eee ee ee 13 
+
+
+CONGRESS’ LEGISLATIVE DECISION 
+REQUIRES JUDICIAL DEFERENCE, 
+FURTHERS THE IMPORTANT GOALS 
+
+OF POLITICAL STABILITY AND PUBLIC 
+CONFIDENCE AND INVOKES NO 
+JUSTICIABLE STANDARDS ........... 18 
+
+
+A. _ The Statutory Prohibition Against 
+A Census Adjustment Commands 
+Deference From The Judiciary ...... 18 
+
+
+B. Congress’ Prohibition Against 
+Census Adjustment Furthers Political 
+Stability And Public Confidence ..... 20 
+
+
+e. No Justiciable Standards Exist For 
+Reviewing The Census ........... 24 
+
+
+CENSUS ADJUSTMENT IS NOT REQUIRED 
+BY EITHER THE CONSTITUTION OR THE 
+
+
+GOAL OF VOTER EQUALITY ......... 28 
+THE FINAL RESULT REACHED BY THE 
+SIXTH AND SEVENTH CIRCUITS 
+
+SP EEE UU bd Ov odbc dediocecce 30 
+
+
+THE COURT OF APPEALS ERRED WHEN IT 
+IMPOSED A STANDARD OF REVIEW OTHER 
+THAN ARBITRARY AND CAPRICIOUS ... 31 
+
+
+GRO 6 oko Sebo. cee US 2 be oes eee 35 
+
+
+vi 
+TABLE OF AUTHORITIES 
+
+Cases Page 
+Baker v. Carr, 369 U.S. 186 (1962)........ 25, 33 
+Baldridge v. Shapiro, 455 U.S. 345 (1982) ...... 25 
+Berman v. Parker, 348 U.S. 26 (1954) ......... 19 
+
+Carey v. Klutznick, 508 F. Supp. 404 
+I ak ear ae a ig Sb ge S688 11 
+
+
+City of Detroit v. Franklin, 4 F.3d 1367 
+
+(6th Cir. 1993), cert. denied, 
+
+114 S. Ct. 1217 (1994) ...... 4, 6, 21, 30, 31 
+City of New York v. United States Dept. 
+
+of Commerce, 739 F. Supp. 761 
+
+Se re 11 
+City of New York v. United States Dept. of 
+
+Commerce, 822 F. Supp. 906 
+
+GARE S. TEP is ecview ss 4, 21, 26, 29, 32 
+City of New York v. United States Dept. of 
+
+Commerce, 34 F.3d 1114 
+
+
+(2nd Cir. 1994) ...... 4, 7, 11, 12, 21, 33, 34 
+City of Philadelphia v. Klutznick, 
+503 F. Supp. 663 (E.D. Pa. 1980) ........ 11 
+Connecticut Nat’l Bank v. Germain, 
+ye Se OS EP eee eee 12 
+Consumer Product Safety Com’n v. GTE 
+Sylvania, Inc., 447 U.S. 102 (1980) ....... 10 
+Estate of Cowart v. Nicklos Drilling Co.., 
+eae Gb OED GS Code b ac eweece 10 
+Franklin v. Massachusetts, 112 S. Ct. 2767 (1992) . . 16 
+Fullilove v. Klutznick, 448 U.S. 448 (1980) ...... 20 
+Gilligan v. Morgan, 413 U.S. 1 (1973) ......... 24 
+Graham v. John Deere Co., 383 U.S. 1 (1966) .... 19 
+Karcher v. Daggett, 462 U.S. 725 (1983) ....... 28 
+
+
+Kinsella v. United States, 361 U.S. 234 (1960) .... 19 
+
+
+Vii 
+
+
+Negonsott v. Samuels, 113 S. Ct. 1119 (1993) .... 10 
+Nixon v. United States, 113 S. Ct. 732 (1993)..... 24 
+Reynolds v. Sims, 377 U.S. 533 (1964) ......... 33 
+Rubin v. United States, 449 U.S. 424 (1981) ..... 12 
+S & E Contractors, Inc. v. United States, 
+a 10 
+
+
+Tucker v. United States Dept. of Commerce, 
+
+958 F.2d 1411 (7th Cir.), 
+
+cert. denied, 113 S. Ct. 407 
+
+ES 4, 6, 21, 26, 30, 31, 34-35 
+United States Dept. of Commerce v. Montana, 
+
+Be BGR BOE (IGG ee oc cece. 19, 24, 25, 28 
+Village of Arlington Heights v. Metropolitan 
+
+Housing Dev. Corp., 429 U.S. 252 (1977) ... 33 
+Walters v. Nat’l Ass’n of Radiation Survivors, 
+
+
+OT GE RT: SET ana 20 
+Washington v. Davis, 426 U.S. 229 (1976) ...... 33 
+Wesberry v. Sanders, 376 U.S. 1 (1964) ..... 28, 33 
+
+
+Young v. Klutznick, 497 F. Supp. 1318 (E.D. Mich. 
+1980), rev’d on other grounds, 642 F.2d 617 
+SP OED GA wie OEU cdc tssaces 11, 12 
+
+
+Constitution and Statutes: 
+U.S. Const.: 
+BE PER 0 ods bs BSE ct Dee 8 
+OE Ee eee OP as CSS LES HAS Tie 19 
+Okla. Const 
+i ee Gee es 0. o Salen ees cli wee ee 23 
+De | cas Se bdo Beles Os SR bwen 22 
+ek 0 RR Se eee ke ee 22 
+SURE 8 Pee. 668 te tH SFIBSE VS 4, 31-32 
+WUE. BO 6 os bas ceca eee 9 
+I Be bo es 60 HAAR Tee 22 
+ch SR | ree meres eres er 9 
+RE CE 6 divi cdd dca kt 9 
+i ee Ee 4 do wwii wheedws 9, 12, 13, 19 
+356 Fed. Reg. 33582 Guly 22, 1991) .......2000-% 3 
+
+
+Hearing, H.R. 7911, 85th Cong., Ist Sess. 
+gg PPP ee rs SU ee eee ae 14 
+
+
+U.S. Cong. House Comm. on Post Office 
+and Civil Service. Revision of Census Law. 
+Report to Accompany H.R. 7911. 
+H.R. Rep. No. 1043, 85th Cong., 
+Ist Sess. Washington, U.S. Govt. 
+Pe. Gs BO ob bob veleWeesceves 13-14 
+
+
+ix 
+
+
+Cong. Res. Serv. Rep. for the Senate 
+Subcommittee on Energy, Nuclear 
+Proliferation and Federal Services of 
+The Committee on Governmental 
+Affairs, The Decennial Census: 
+An Analysis and Review, 96th Cong., 
+2d Sess. (Comm. Print 1980) ........ 14, 17 
+
+
+S. Rep. No. 698, 85th Cong., Ist Sess. (1957), 
+reprinted in 1957 U.S. Code Cong. & 
+Do i ee ae 15 
+
+
+S. Rep. No. 94-1256, 94th Cong., 2d Sess. (1976), 
+reprinted in 1976 U.S. Code Cong. & 
+Admin. News 5463 ................ 16, 17 
+
+
+S. 3063, 96th Cong., 2d Sess. (1980), 112 Cong. Rec. 
+at S. 22,856 (daily ed. Aug. 25, 1980)...... 17 
+
+
+Holmes, The Theory of Legal Interpretation, 
+12 Harv.L.Rev. 417 (1899) ............ 11 
+
+
+No. 94-1614, No. 94-1631, No. 94-1985 (Consolidated) 
+
+
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+OCTOBER TERM, 1995 
+
+
+STATE OF WISCONSIN, 
+Petitioner, 
+v. 
+CITY OF NEW YORK, et al., 
+Respondents. 
+STATE OF OKLAHOMA, 
+Petitioner, 
+. . 
+CITY OF NEW YORK, et al., 
+Respondents. 
+UNITED STATES DEPT. OF COMMERCE, et al., 
+Petit . 
+v. 
+CITY OF NEW YORK, et al., 
+Respondents. 
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT.OF APPEALS 
+FOR THE SECOND CIRCUIT 
+
+
+PETITIONER STATE OF OKLAHOMA’S 
+BRIEF ON THE MERITS 
+
+
+2 
+OPINIONS BELOW 
+
+
+The opinion of the United States Court of Appeals for 
+the Second Circuit (“Second Circuit”) is reported at 34 F.3d 
+1114 (2nd Cir. 1994). Pet. App. 1.' The opinions of the 
+United States District Court for the Eastern District of New 
+York are reported at 822 F. Supp. 906 (E.D.N.Y. 1993), 
+739 F. Supp. 761 (E.D.N.Y. 1990), and 713 F. Supp. 48 
+(E.D.N.Y. 1989). Pet. App. 46, 104 and 130, respectively. 
+The decision of the Secretary of Commerce is published at 
+56 Fed.Reg. 33582 (July 22, 1991). Pet. App. 146. 
+
+
+JURISDICTION 
+
+
+This case is before the Court by writ of certiorari 
+granted September 27, 1995, to review the judgment of the 
+United States Court of Appeals for the Second Circuit. 
+Jurisdiction of this Court is invoked under 28 U.S.C. 
+§ 1254(1). 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+Section 2, clauses 1 and 3, and Section 8, clause 18, 
+of Article I of the United States Constitution; Sections 2 and 
+5 of the Fourteenth Amendment; 2 U.S.C. § 2a; and 13 
+U.S.C. §§ 141(a) and (b) and 195 are reproduced at App., 
+infra 1a-6a. 
+
+
+‘References to "Pet. App.” are to the appendix to the petition for 
+a writ of certiorari filed in No. 94-1631. 
+
+
+3 
+STATEMENT OF THE CASE 
+
+
+On November 3, 1988, the City and State of New 
+York, the State of California, and several other cities, public 
+interest groups and individuals brought this suit to compel 
+the Department of Commerce and the Bureau of the Census 
+to require a statistical adjustment of the 1990 decennial 
+census count in order to reduce the anticipated undercount of 
+the population. 
+
+
+Pursuant to a stipulation in the litigation, the 
+Secretary of Commerce (the “Secretary") agreed to consider 
+the question of whether the census headcount should be 
+statistically adjusted.? Pursuant to the court-approved 
+stipulation, the Secretary published a set of Guidelines for 
+evaluating the adjustment question. One of those, Guideline 
+Five, required the Secretary to decide whether any 
+adjustment of the 1990 census would violate the United 
+States Constitution or federal statutes. While he 
+acknowledged unsettled judicial opinion as to whether 
+adjustment violates 13 U.S.C. § 195, the Secretary stated in 
+the commentary which accompanied his final decision: "the 
+majority of courts considering the issue have ruled that 
+section 195 permits an adjustment if the adjustment method 
+makes the census more accurate [citations omitted]." 56 
+Fed. Reg. 33582, 33606, Pet. App. 254, 257. 
+
+
+The Secretary concluded that whether a chosen 
+method of adjustment would violate the Constitution and 
+federal statutes depends upon whether accuracy of the census 
+is improved. Because he found other compelling reasons not 
+to adjust, “legal considerations did not provide a basis for 
+[his] decision." 56 Fed. Reg. at 33606, Pet. App. 258. 
+
+
+? Oklahoma was not a party to the stipulation. 
+
+
+4 
+
+
+In 1991, the Secretary decided not to substitute 
+adjusted numbers for those numbers reported by President 
+Bush for apportionment of Congress and which were then 
+used by the States, including Oklahoma, in redistricting. 
+The Secretary’s decision was consistent with two hundred 
+years of adherence to a census based upon actual 
+enumeration. 
+
+
+On April 13, 1993, the Secretary’s decision not to 
+adjust the census enumeration was upheld by the district 
+court on the basis of the administrative record and the 
+additional evidence presented at a lengthy trial. See City of 
+New York v. United States Dept. of Commerce, 822 F. Supp. 
+906 (E.D.N.Y. 1993). The district court, applying an 
+“arbitrary and capricious" standard under the Administrative 
+Procedure Act, 5 U.S.C. § 706(2)(A), determined that the 
+Secretary’s decision was reasonable. 
+
+
+On August 8, 1994, a divided panel of the Second 
+Circuit reversed and remanded to determine whether the 
+decision not to adjust was necessary to the achievement of a 
+legitimate governmental purpose. City of New York v. 
+United States Dept. of Commerce, 34 F.3d 1114 (2nd Cir. 
+1994). The Second Circuit concluded that § 195’s 
+prohibition against census adjustment for apportionment 
+purposes, when read with § 141, actually encourages 
+adjustment. Jd. at 1125. The court also found that an 
+adjusted census would be more accurate for “most purposes" 
+and thus the Secretary’s rejection of adjustment should be 
+subject to heightened scrutiny. /d. at 1131. The late Judge 
+Timbers dissented from the opinion. Jd. at 1131-1132. He 
+recognized that the majority’s decision conflicted with two 
+other circuit decisions, City of Detroit v. Franklin, 4 F.3d 
+1367 (6th Cir. 1993), cert. denied, 114 S.Ct. 1217 (1994), 
+and Tucker v. United States Dept. of Commerce, 958 F.2d 
+
+
+5 
+
+
+1411 (7th Cir.), cert. denied, 113 S.Ct. 407 (1992), which 
+had earlier upheld the Secretary’s decision to not adjust the 
+census. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The Census clause of the Constitution states that the 
+decennial census shall be taken “in such Manner as 
+[Congress] shall by Law direct." Congress exercised this 
+power and enacted the Census Act which directs the manner 
+in which the census is taken. Congress allows statistical 
+sampling to be utilized for some census purposes but it 
+expressly prohibits the use of sampling for the count used in 
+the apportionment of Representatives. Thus, although the 
+Secretary did not base his adjustment decision on the express 
+prohibition of § 195, this legislative directive bars statistical 
+adjustment until such time as Congress determines otherwise. 
+
+
+The decision of the Secretary of Commerce not to 
+adjust the 1990 census complies with Congress’ directive. 
+It is consistent with the clear language of the statute, with its 
+legislative history, the Constitution, and with the two 
+hundred year tradition of following a method of actual 
+enumeration. 
+
+
+Congress’ decision not to adjust commands deference 
+from the judiciary. The business of census taking is clearly 
+committed to Congress, not the courts. Congress has the 
+power to enact any legislation “necessary and proper" to 
+Carry out its duties. Congress has uone so and its policy 
+choice must be respected. If the standard of “actual 
+enumeration" is ever to be definitionally and fundamentally 
+changed, it must occur through Congress and not through 
+any other branch of government. Judicial review must 
+
+
+6 
+
+
+accord great deference to the broad mandate given to 
+Congress and the two hundred year history of conducting a 
+census based upon an actual count of the people. The sole 
+inquiry is whether the decision not to make a statistical 
+adjustment to the actual enumeration is consistent with the 
+text and authorization of the Constitution. 
+
+
+The constitutional role of the census is to resolve the 
+struggle for political power -- not create a method for seizing 
+political power. If post-enumeration adjustments can be 
+made to the actual headcount, then the door has been opened 
+for adjustments motivated by partisan interest. 
+
+
+Congress’ prohibition against census adjustment also 
+guards against politicizing the constitutional role of the 
+census and furthers political stability at both the national and 
+state levels. The census is the key to the reorganization of 
+the legislative branch. The census must be available within 
+the timetable imposed by law in order for the legislature to 
+determine its own composition and continue the business of 
+government without a delay or a break. If census adjustment 
+and the selection of a formula become the subject of 
+litigation, then timing is lost and the process falters. 
+
+
+Neither the Constitution nor the statutes address 
+adjustment formulas. There are no legal guidelines which a 
+court could apply to census methodology to determine which 
+formula is the “best” or the one required by law. The 
+concept of voter equality also fails to give guidance. The 
+goal of equal representation does not tell a court how to 
+determine what census methodology. 
+
+
+The Second Circuit’s ruling also conflicts with the 
+decisions of the Sixth and Seventh Circuits, City of Detroit, 
+4 F.3d at 1378 and Tucker, 958 F.2d at 1419. The latter 
+
+
+7 
+
+
+correctly concluded that disagreement with census methods 
+does not create a constitutional claim. 
+
+
+Although Oklahoma contends otherwise, if the Court 
+concludes that adjustment is a permissible choice under the 
+law and then focuses on the Secretary’s decision not to 
+adjust, it is clear that his decision is nonetheless not subject 
+to the heightened scrutiny imposed by the Second Circuit. 
+Heightened scrutiny is not applicable because no 
+constitutional rights were violated by the decision not to 
+adjust. There is no constitutional right to census accuracy. 
+The fact that the census undercount dispreportionately affects 
+minorities does not justify a higher standard of review. 
+There is no allegation that the ceusus was conducted in a 
+manner to purposefully or intentionally undercount 
+minorities. The district court properly reviewed the 
+pose 4 "s decision under an arbitrary and capricious 
+
+
+ARGUMENT 
+I, 
+
+
+13 U.S.C. § 195 PROHIBITS THE STATISTICAL 
+ADJUSTMENT OF THE DECENNIAL CENSUS 
+FOR APPORTIONMENT PURPOSES. 
+
+
+The narrow issue before this Court is whether the 
+Court of Appeals for the Second Circuit correctly held that 
+the Secretary must prove that his decision not to statistically 
+adjust the 1990 census furthers a legitimate governmental 
+objective and his decision is essential for achievement of that 
+objective. City of New York, 34 F. 3d at 1131. This narrow 
+issue, however, triggers the broader question: what do the 
+
+
+Constitution and statutes direct with respect to census 
+adjustment? In this case, the Secretary’s decision not to 
+adjust was constitutionally permissible and statutorily 
+required. A decision in favor of adjustment would have 
+been contrary to the governing legislative mandate. 
+
+
+A. The Constitution Gives Congress The Power To 
+Decide The Census Method; Congress Used This 
+P To Prohibit Adi . 
+The Constitution imposes two requirements on the 
+
+
+census. It has to be taken every ten years and it must be 
+taken in the manner specified by Congress: 
+
+
+The actual Enumeration shall be made within 
+three Years after the first Meeting of the 
+Congress of the United States, and within 
+every subsequent Term of ten Years, in such 
+Manner as they shall by Law direct. 
+
+
+U.S. Const. Art. I, § 2, cl. 3. 
+
+
+Congress exercised the power granted to it by the 
+Constitution and passed the Census Act. Within the Census 
+Act, Congress decided that when a census is used to 
+apportion Representatives,’ the Secretary cannot use 
+sampling to adjust the actual enumeration: 
+
+
+3 The Constitution requires that the decennial census be used 
+to apportion representatives “among the several States according to 
+their respective numbers, counting the whole number of persons in 
+each State, excluding Indians not taxed." U.S. Const. Art. 1 § 2, 
+cl. 3. 
+
+
+9 
+
+
+Except for the determination of population for 
+purposes of apportionment of Representatives 
+in Congress among the several States, the 
+Secretary shall, if he considers it feasible, 
+authorize the use of the statistical method 
+known as “sampling” in carrying out the 
+provisions of this title. 
+
+
+13 U.S.C. § 195. App., infra 6. 
+
+
+Congress also decided that when a census is used for 
+purposes other than apportionment, sampling is permissible: 
+
+
+The Secretary shall, in the year 1980 and 
+every 10 years thereafter, take a decennial 
+census Of population as of the first day of 
+April of such year, which date shall be known 
+as the “decennial census date", in such form 
+and content as he may determine, including 
+the use of sampling procedures and special 
+surveys. In connection with any such census, 
+the Secretary is authorized to obtain such 
+other census information as necessary. 
+
+
+13 U.S.C. § 141. 
+
+
+Under § 141, Congress authorized the Secretary to 
+use sampling and special surveys to collect different types of 
+information which are targeted by the census. As defined by 
+§ 141, the census collects information beyond a population 
+count. It inquires into housing matters and related issues and 
+other subjects chosen by the Secretary. 13 U.S.C. § 141(g) 
+(“census of population” defined to mean a census of 
+,opulation, housing and matters related to population and 
+housing); 13 U.S.C. § 141(f) (Secretary shall submit, for 
+
+
+10 
+
+
+congressional approval, the subjects proposed to be included 
+and the types of information to be compiled in the census). 
+
+
+In this case, the Secretary's decision not to adjust the 
+census complies with the Constitution and with the Census 
+Act. The Secretary conducted the census in "such Manner 
+as [Congress] shall by Law direct" because he complied with 
+§ 195’s prohibition against adjustment. Congress directs that 
+sampling shall not be used for apportionment purposes and 
+the Secretary did not do so. As a matter of law, the 
+Secretary could not have decided otherwise. 
+
+
+B. The Statutory Text Is Clear; Adjustment Is 
+Prohibited. 
+
+
+The conclusion that Congress prohibits the statistical 
+adjustment of the census for apportionment is consistent with 
+the Constitution, it is consistent with § 141(a), and it is 
+consistent with § 195. The text is clear. The analysis 
+should end. Consumer Product Safety Com’n v. GTE 
+Sylvania, Inc. , 447 U.S. 102 (1980). The starting point for 
+interpreting a statute is the language of the statute itself. 
+Absent a clearly expressed legislative intention to the 
+contrary, that language must ordinarily be regarded as 
+conclusive. Jd. at 108; Negonsott v. Samuels, 113 S. Ct. 
+1119, 1123 (1993) (Court’s task is to give effect to 
+Congress’ will and where its will has been expressed in 
+reasonably plain terms, that language must ordinarily be 
+regarded as conclusive). When a statute speaks with clarity 
+to an issue, judicial inquiry into the statute’s meaning, in all 
+but the most extraordinary circumstance, is finished. Estate 
+of Cowart v. Nicklos Drilling Co., 112 S. Ct. 2589, 2594 
+(1992). As Justice Holmes emphasized, “We do not inquire 
+what the legislature meant; we ask only what the statute 
+means." S & E Contractors, Inc. v. United States, 406 
+
+
+11 
+
+
+U.S. 1, 14 n. 9 (1972), quoting Holmes, The Theory of 
+Legal Interpretation, 12 Harv.L.Rev. 417, 419 (1899). 
+
+
+In the debate over adjustment, however, much has 
+been made of a perceived conflict between §§ 141(a) and 
+195. In order to resolve this supposed conflict and give 
+meaning to both provisions, reviewing courts have reached 
+the strained conclusion that sampling is permissible for 
+apportionment purposes, but not required, and if used, it 
+must be done in conjunction with traditional counting 
+methods. Carey v. Klutznick, 508 F. Supp. 404, 415 
+(S.D.N.Y. 1980); see also City of Philadelphia v. Klutznick, 
+503 F. Supp. 663, 679 (E.D. Pa. 1980) (Constitution’s 
+“actual enumeration" requires that census be at least based 
+on raw data obtained by actual headcount but § 195 permits 
+sampling for apportionment purposes, though it does not 
+require sampling); Young v. Klutznick, 497 F. Supp. 1318, 
+1335 (E.D. Mich. 1980), rev’d on other grounds, 642 F.2d 
+617 (6th Cir. 1981) (§ 195 merely prohibits the use of 
+figures derived solely by statistical techniques; it does not 
+prohibit the use of statistics in addition to traditional 
+measuring tools to arrive at more accurate population count). 
+
+
+In this case, the district court also held that to give 
+effect to both §§ 195 and 141(a), it must be concluded that, 
+in the apportionment area, sampling may be used but only in 
+addition to traditional counting methods. City of New York 
+v. United States Dept. of Commerce, 739 F. Supp. 761, 
+767-68 (E.D.N.Y. 1990). The Second Circuit concluded 
+that § 195 actually encourages census adjustment for 
+
+
+ee purposes. City of New York, 34 F.3d at . 
+
+
+The most obvious problem with this application of §§ 
+141(a) and 195 is that it ignores the clear language of both 
+
+
+12 
+
+
+statutes. In interpreting a statute a court should always turn 
+first to one cardinal canon before all others. This Court has 
+"stated time and again that courts must presume that a 
+legislature says in a statute what it means and means in a 
+statute what it says there." Connecticut Nat'l Bank v. 
+Germain, 112 S. Ct. 1146, 1149 (1992). "When the words 
+of a statute are unambiguous, then, this first canon is also 
+the last: ‘judicial inquiry is complete.’" /d. at 1149, 
+quoting Rubin v. United States, 449 U.S. 424, 430 (1981). 
+
+
+Section 195 does not say that sampling may be used 
+for apportionment or that sampling can be a part of the 
+apportionment count.‘ Section 195 clearly states that 
+sampling shall not be utilized to obtain the count which is 
+used for the apportionment of congressional representatives. 
+13 U.S.C. § 195. 
+
+
+Similarly, § 141(a) does not say that sampling can be 
+used for apportionment. Instead, it provides that sampling 
+can be used with the census. The remaining provisions in 
+§141 direct that the census shall obtain different types of 
+information which are used for different purposes. Sampling 
+may be perfectly appropriate to arrive at a count which 
+
+
+* It has been concluded that when Congress amended § 195 
+in 1976, it intended to strengthen the use of sampling where 
+apportionment was not involved and thus substituted “shall” for the 
+word “may.” City of New York, 34 F.3d at 1125; Young, 497 F. 
+
+
+Supp. at 1334. Under this analysis, sampling is permissible for 
+apportionment but cannot be a required component of an 
+apportionment count. This analysis ignores that Congress, even 
+when amending, retained the plain prohibition of § 195. Notedly, 
+the Secretary retains discretion in both the original and amended 
+versions of § 195. The original version authorizes sampling when 
+"he deems it appropriate” and the amended version directs sampling 
+"if he considers it feasible.” 13 U.S.C.§ 195. 
+
+
+13 
+
+
+reflects housing, education, income or vocation patterns. 
+When a count is used to apportion representatives, however, 
+sampling is not permitted. 13 U.S.C. § 195. 
+
+
+C. The Legislative History Supports The Conclusion 
+That § 195 Prohibits Adjustment. 
+
+
+Although not necessary to resolve this issue, the 
+legislative history of § 195 supports the conclusion that this 
+section actually means what it says and prohibits the use of 
+sampling for apportionment purposes. When § 195 was first 
+enacted in 1957,’ the House Report stated: 
+
+
+Section 195 provides that the Secretary of 
+Commerce may authorize the use of the 
+Statistical method known as sampling in 
+carrying out the purposes of title 13, if he 
+deems it appropriate. However, section 195 
+procedures in connection _with __the PR ~—y 
+
+
+The purpose of section 195 in authorizing the 
+use of sampling procedures is to permit the 
+utilization of something less than a complete 
+enumeration, as implied by the word 
+“census,” when efficient and accurate 
+coverage may be affected through a sample 
+survey. Accordingly, except with respect to 
+
+
+* As originally enacted, § 195 stated: “Except for the 
+determination of population for apportionment purposes, the 
+Secretary may, where he deems it appropriate, authorize the use of 
+the statistical method known as ‘sampling’ in carrying out the 
+provisions of this title." 
+
+
+14 
+
+
+apportionment, the Secretary of Commerce 
+may use sampling procedures when he deems 
+it advantageous to do so.° [Emphasis added. ] 
+
+
+¢ U.S. Cong. House Comm. on Post Office and Civil Service. 
+Revision of Census Law. Report to Accompany H.R. 7911. H.R. 
+Rep. No. 1043, p. 10, 85th Cong. Ist Sess. Washington, U.S. Govt. 
+Print. Off., 1957, and cited in Cong. Res. Serv. Rep. for the Senate 
+Subcommittee on Energy, Nuclear Proliferation and Federal Services 
+of the Committee on Governmental Affairs, The Decennial Census: 
+An Analysis and Review, pp. 85-86, 96th Cong., 2d Sess. (Comm. 
+Print 1980). 
+
+
+Rep. Beckworth also entered a statement into the record that 
+recognized the census collects different types of information in 
+addition to a headcount and that sampling may be proper for the 
+collection of this information: “The use of sampling procedures 
+would be authorized by the proposed new section 195. It has 
+generally been held that the term ‘census’ implies a complete 
+enumeration. Experience has shown that some of the information 
+which is desired in connection with a census could be secured 
+efficiently through a sample survey which is conducted concurrently 
+with the complete enumeration of other items; that in some instances 
+a portion of the universe to be included might be efficiently covered 
+on a sample rather than a complete basis and that under some 
+circumstances a sample enumeration or a sample census might be 
+substituted for a full census to the advantage of the Government. 
+This section . . . would give recognition to these facts and provide 
+the necessary authority to the Secretary to permit the use of 
+sampling when he believes that it would be advantageous to do so." 
+Hearing, H.R. 7911, 85th Cong., Ist Sess. (June 19, 1957) and 
+cited in Cong. Res. Serv. Rep. for the Senate Subcommittee on 
+Energy, Nuclear Proliferation and Federal Services of the 
+Committee on Governmental Affairs, The Decennial Census: An 
+Analysis and Review, 96th Cong., 2d Sess. (Comm. Print 1980). 
+
+
+15 
+
+
+The Senate Report also stated that sampling was not 
+permitted for apportionment: 
+
+
+A third part of section 14 gives the Secretary 
+authority to use sampling in connection with 
+censuses except for the determination of the 
+population for apportionment purposes. The 
+proper use of sampling methods can result in 
+substantial economies in census taking.’ 
+
+
+When enacted, § 195 prohibited the use of sampling 
+to arrive at a population count for apportionment. When 
+Congress amended § 195 in 1976, it did not substantially 
+change the language of that provision. Most significantly, 
+the 1976 amendment did not remove the reference to 
+apportionment. If Congress originally meant to exclude 
+sampling from apportionment and it left that exclusion in 
+when it amended the statute, then one must conclude that the 
+prohibition remains in force. This conclusion is further 
+supported by the legislative history behind the 1976 
+amendment to § 195. The focus of the 1976 amendments to 
+the Census Act was to provide for a mid-decade census, not 
+
+
+Rep. No. 698, 85th Cong., Ist Sess. (1957), reprinted in 
+1957 U.S. Code Cong. & Admin. News 1706, 1708. 
+
+
+16 
+
+
+to address sampling or adjustment.* Section 141(a) was 
+amended to distinguish between the two censuses and: 
+
+
+New language is added at the end of the 
+subsection to encourage the use of sampling 
+and surveys in the taking of the decennial 
+census. 
+
+
+S. Rep. No. 94-1256, 94th Cong., 2d Sess. (1976), reprinted 
+in 1976 U.S. Code Cong. & Admin. News 5463, 5466. 
+
+
+The 1976 amendment revised § 195 to: 
+
+
+require that the Secretary of Commerce 
+authorize the use of sampling procedures in 
+carrying out the provisions of this title 
+whenever he deems it feasible, except in the 
+apportionment of the U.S. House of 
+Representatives. This differs from present 
+language which grants the Secretary discretion 
+to use sampling when it is considered 
+appropriate. The section as amended 
+strengthens congressional intent that, 
+
+
+* "The main purpose of the 1976 amendment was to provide 
+for a mid-decade census to be used for various purposes (not 
+including apportionment)." Franklin v. Massachusetts, 112 S. Ct. 
+2767, 2784 n. 16 (1992). See also S. Rep. No. 94-1256, 94th 
+Cong., 2d Sess. (1976), reprinted in 1976 U.S. Code Cong. & 
+Admin. News 5463, 5463, "The Committee . . . to which was 
+referred the bill (S. 3688) to amend title 13, United States Code, to 
+provide for a mid-decade census of population, and for other 
+purposes . . .” and the Statement portion of the Senate Report which 
+contains an extensive review of the rationale behind a mid-decade 
+census. 
+
+
+17 
+
+
+whenever possible, sampling shall be used. 
+(Emphasis added. ]’ 
+
+
+The text is clear and the legislative history is clear. 
+Section 195 originally prohibited sampling for apportionment 
+and it still does. Here, the litigation debate between the 
+Executive Branch members and those favoring adjustment 
+has focused primarily on whether the Secretary’s 
+administrative decision was constitutionally flawed. 
+Oklahoma, on the other hand, contends adjustment is 
+prohibited and the Secretary had no authority to decide other 
+than as he did. The real question should be, if § 195 means 
+what its plain language says, is the statute unconstitutional? 
+
+
+® — §. Rep. 94-1256, 94th Cong., 2d Sess. (1976), reprinted in 
+1976 U.S. Code Cong. & Admin. News 5463, 5468. Also, in 
+1980, a bill was introduced which would have specifically amended 
+§§ 141(a) and 195 to “require the bureau of the Census to adjust the 
+population figures, employing the best available methodology to 
+correct for undercounting for all purposes, including 
+reapportionment.” S. 3063, 96th Cong., 2d Sess. (1980), 112 
+Cong. Rec. at S. 22,856 (daily ed. Aug. 25, 1980). The bill was 
+rejected. Statistical adjustment of the census for apportionment 
+
+
+purposes was not adopted. 
+
+
+In 1980, a report was prepared by the Congressional 
+Research Service for the Senate Subcommittee on Energy, Nuclear 
+Proliferation and Federal Services of the Committee on 
+Governmental Affairs, The Decennial Census: An Analysis and 
+Review, 96th Cong., 2d Sess., (Comm. Print 1980), which supports 
+this conclusion. After an extensive analysis of constitutional and 
+statutory provisions and the legislative history of the Census Act and 
+its amendments, the Report concluded that the use of sampling for 
+apportionment purposes is not prohibited by the Constitution but is 
+prohibited by § 195. The Report found that sampling could be used 
+for all other purposes of the decennial census. Report, at p. 88. 
+
+
+18 - 
+
+
+If not (because the manner of conducting the census is 
+textually delegated to Congress), then a decision consistent 
+with this plain language should not be subject to challenge. 
+
+
+Finally, even if § 195 can somehow be read to not 
+expressly prohibit a statistical adjustment for apportionment 
+purposes, no basis exists to set aside the Secretary’s 
+decision. If, contrary to Oklahoma’s reading, Congress has 
+statutorily allowed the Secretary to have this option, the 
+Constitution permits Congress this type of judgment. That 
+being the case, there is no basis to now set aside the 
+Secretary’s decision, in the absence of any claim that the 
+Secretary has carried out the census count contrary to the 
+instructions of Congress. 
+
+
+Il. 
+
+
+CONGRESS’ LEGISLATIVE DECISION 
+REQUIRES JUDICIAL DEFERENCE, 
+FURTHERS THE IMPORTANT GOALS OF 
+POLITICAL STABILITY AND PUBLIC CONFIDENCE 
+AND INVOKES NO JUSTICIABLE STANDARDS. 
+
+
+A. The Statutory Prohibition Against A Census Adjust- 
+C Is Def F The Judici 
+
+
+The Constitution does not specify the method for the 
+census. Instead, the Constitution explicitly commits to 
+Congress the decision of determining the "manner" in which 
+the census is to be performed. The Constitution expressly 
+directs Congress to use its discretion when exercising this 
+power. 
+
+
+19 
+
+
+The Constitution also authorizes Congress to enact 
+legislation that “shall be necessary and proper" to carry out 
+its delegated responsibilities. U.S. Const. Art. I, § 8, 
+cl. 18. Once an object is within the authority of Congress, 
+the means by which it will be attained is for Congress to 
+determine. Berman v. Parker, 348 U.S. 26, 33 (1954) (it is 
+not for courts to oversee the choice of boundary line in 
+implementing federal statute nor sit in review on size of a 
+particular project area; once the question of public purpose 
+has been decided, the amount of land to be taken and the 
+need for a particular tract to be used in the plan rests in the 
+discretion of the legislative branch). 
+
+
+Within the limits of a constitutional grant, Congress 
+may implement the stated purpose by selecting the policy 
+which in its judgment best effectuates the constitutional aim; 
+this is but a corollary to the grant to Congress of any 
+Article I power. Graham v. John Deere Co., 383 U.S. 1, 
+6 (1966); Kinsella v. United States, 361 U.S. 234, 247 
+(1960) (as James Madison explained, the Necessary and 
+Proper Clause is "but merely a declaration, for the removal 
+of all uncertainty, that the means of carrying into execution 
+those [powers] otherwise granted are included in the grant"). 
+
+
+Congress answered the constitutional directive and 
+decided that sampling should not be used for apportionment 
+purposes. 13 U.S.C. § 195. Congress reviewed the 
+adjustment issue in 1957 and in 1976. Each time, it chose 
+not to allow a statistically estimated adjustment to the census 
+for apportionment purposes. Its good-faith choice of an 
+“actual enumeration” method, practiced for over two 
+hundred years, commands deference from the judiciary. 
+United States Dept. of Commerce v. Montana, 112 S. Ct. 
+1415, 1429 (1992) (Congress’ choice of apportionment 
+method upheld; Congress’ decision commands far more 
+
+
+20 
+
+
+deference than a state redistricting plan); Walters v. Nat’l 
+Ass’n of Radiation Survivors, 473 U.S. 305, 319 (1985) 
+(judging constitutionality of Act of Congress is the gravest 
+and most delicate duty that this Court performs and analysis 
+begins with no less deference than the Court customarily 
+must pay to the duly enacted and carefully considered 
+decision of a coequal and representative branch of our 
+Government); Fullilove v. Klutznick, 448 U.S. 448, 472 
+(1980) (Court should afford great weight to decisions of 
+Congress even though legislation implicates fundamental 
+First Amendment or equal protection rights). 
+
+
+B. Congress’ Prohibition Against Census Adjustment 
+Furthers Political Stability And Public Confid 
+
+
+Congress’ decision that the decennial census should 
+not be statistically estimated for apportionment purposes 
+furthers the important goals of political stability and public 
+confidence in government. At the heart of Oklahoma’s 
+concern is whether, without a thorough policy debate in 
+Congress, the important limitation contained in § 195 is 
+going to be read out of the statute. If that occurs, even 
+judicial deference to the Secretary’s current decision will 
+subject an important national process to the political arena. 
+The process employed for future censuses would be viewed 
+as a politicized one, and the attendant loss of integrity 
+insurmountable. If one administration can make post- 
+enumeration adjustments to the actual headcount, then any 
+methodology for adjustments will be subjected to partisan 
+argument. 
+
+
+Likewise, if the judiciary should enter the business of 
+managing the census, then both federal and state political 
+processes would be, at best, disrupted, and at worst, halted. 
+
+
+21 
+
+
+If census adjustment were permissible, then any State 
+which would lose a Representative under the formula 
+adopted by the Census Bureau could find a different formula 
+which arguably produced a “better count.” Different 
+formulas could create conflicting decisions among federal 
+courts which would require perpetual resolution by higher 
+courts and, ultimately, this Court. In this case, a decision 
+not to adjust produced conflicting decisions involving three 
+circuits: City of New York, 34 F. 3d at 1131, Tucker, 958 
+F.2d at 1419, and City of Detroit, 4 F.3d at 1378. 
+
+
+These types of conflicts take years to resolve. This 
+challenge to the methodology of the 1990 decennial census 
+began in 1988. This Court will receive argument in 1996. 
+Over seven years of litigation have elapsed and the issue is 
+not yet resolved. If yet another district court decision and 
+appeal are required, the decennial census will have produced 
+a decennial lawsuit! 
+
+
+These types of cases also involve enormous amounts 
+of complex expert testimony and evidence. In this case, the 
+trial lasted for 13 days, consisted almost exclusively of 
+expert testimony and the transcript exceeded 2,600 pages. 
+One exhibit alone contained over 12,000 documents and 
+18,000 pages. City of New York, 822 F. Supp. at 917. If 
+litigation becomes the method of choosing a census 
+adjustment formula, then the process of seating the 
+government will be placed on hold until the last judicial 
+review occurs. A delayed count or a substituted count 
+becomes a realistic possibility. 
+
+
+The prospect of judicial scrutiny and debate over the 
+choices of census methodology threatens the machinery of 
+government at the national and state levels. The census is an 
+integral part of the ignition system. It is essential and it 
+
+
+22 
+
+
+must fire on time. If it is missing or if it fires late, then the 
+machinery does not work. 
+
+
+By statute, the census must be completed and the 
+results reported to the President within nine months after 
+April Ist of the year in which the census is performed. 13 
+U.S.C. § 141(b). The President must notify Congress, 
+within one week of commencement of the first regular 
+session, of the number of representatives to which each State 
+is entitled. 2 U.S.C. § 2a(a). Within fifteen days of the 
+President’s notification, the Clerk of the House of 
+Representatives must send this information to the Governor 
+of each State. 2 U.S.C. § 2a(b). If the count is delayed, 
+then these events will not occur within the statutory 
+timetable. As long as there is no final count, districts within 
+States cannot be drawn and representatives cannot be elected. 
+
+
+A delayed census puts the entire process on hold. 
+Neither the Constitution nor the statutes anticipate that a 
+census count may be held up while the judiciary reviews or 
+replaces an adjustment formula. There is no statutory or 
+constitutional procedure to use in the interim. Political 
+stability and public confidence are lost when government is 
+halted because it cannot determine even its own composition. 
+
+
+A cornerstone of our constitutional system of 
+government is the ability to convene a properly constituted 
+and recognized government in a timely manner without 
+protracted constitutional challenges over reapportionment and 
+the redistricting process. In Oklahoma, the transfer of state 
+political power is keyed to the decennial census. Oklahoma 
+is bound by its state Constitution to use the census to draw 
+its congressional districts. The state Constitution also 
+demands that redistricting be completed quickly: within 
+ninety (90) days after the convening of the first regular 
+
+
+23 
+
+
+session of the state legislature following the federal decennial 
+census. Okla. Const. art. V, § 11A. 
+
+
+Developing a state redistricting plan is a monumental 
+task. In Oklahoma, it encompasses districts for 101 state 
+representatives, 48 state senators and 6 Congressmen. 
+Jt. App. at 103.'"° After legislative boundary lines are 
+drawn, county commissioners in each of Oklahoma’s 77 
+counties must redraw their district boundaries. Each county 
+must also redraw its precincts. It requires extensive 
+commitments of time, resources and money. Oklahoma 
+spent over $1 million on its 1991 redistricting alone. 
+Jt. App. at 105. 
+
+
+It is also unclear how a repeat run would occur. 
+Oklahoma’s Constitution did not anticipate that the federal 
+decennial census might result in two counts or in a delayed 
+count. The state Constitution does not provide for a 
+procedure for a retake and it is not even clear who would 
+perform the second round of rédistricting. The Oklahoma 
+Constitution states that an Apportionment Commission shall 
+be created if the legislature fails to make the required 
+apportionment within the time provided. Okla. Const. 
+art. V, § LIA. Resolution of whether a three person 
+committee or the legislature should redistrict would 
+undoubtedly create debate and litigation and would not be 
+conducive to political stability or public confidence in 
+government. 
+
+
+Political stability at both the federal and state level is 
+obviously a vital concern. It is also a concern that is 
+directly impacted by census adjustment. Congress’ decision 
+
+
+"References to “Jt. App.” are to the joint appendix filed in this 
+appeal. 
+
+
+24 
+
+
+not to adjust the census solves the problem because it allows 
+the legislative branch to change its composition without 
+delaying or halting the business of government. 
+
+
+C. No Justiciable Standards Exist For Reviewing The 
+Census, 
+
+
+The analysis of whether an issue presents a claim that 
+can be resolved by justiciable standards is often made in the 
+context of the political question doctrine. The Court rejected 
+that doctrine in a case which concerned Congress’ selection 
+of apportionment methods. Montana, 112 S. Ct. at 1430. 
+Although it is now questionable whether the doctrine could 
+be applied here to say the conduct of the census presents a 
+non-justiciable question in the constitutional sense,"' an 
+analogy can clearly be drawn between elements of the 
+doctrine and this case. This analogy leads to the conclusion 
+
+
+"1 See Nixon v. United States, 113 S. Ct. 732 (1993) (claim 
+that Senate rule violated Impeachment Trial Clause was 
+nonjusticiable; the word “try” in that clause does not provide an 
+identifiable textual limit on the authority committed to the Senate); 
+Gilligan v. Morgan, 413 U.S. 1 (1973) (Court found no justiciable 
+claim; where Constitution gives Congress the power to prescribe 
+military training, judiciary should not undertake to review a wide 
+range of possible procedures; such a review would be inappropriate 
+even in the unlikely event that the judge possesses the requisite 
+technical competence to do it). 
+
+
+In this case, as in Nixon, there is no constitutional or 
+Statutory text under which to resolve the issue and assess census 
+methodology. The phrase, “in such manner as [Congress} by law 
+shall direct" does not provide a sufficient textual basis to create a 
+
+
+25 
+
+
+that courts should not manage the business of taking the 
+census. '? 
+
+
+Here, the Constitution’s explicit textual language, 
+unaccompanied by any restrictions, makes clear that the 
+“manner” of conducting the census is committed to 
+Congress. By virtue of this language, “responsibility for 
+conducting the decennial census rests with Congress." 
+Baldridge v. Shapiro, 455 U.S. 345, 347-48 (1982). 
+
+
+Neither the statutes nor the Constitution speak to the 
+issue of standards. As recognized by the Seventh Circuit 
+Court of Appeals: 
+
+
+'2 Under the political question doctrine, judicial review should 
+be declined where there is: 
+
+
+a textually demonstrable constitutional commitment 
+of the issue to a coordinate political department; or 
+a lack of judicially discoverable and manageable 
+standards for resolving it; or the impossibility of 
+deciding without an initial policy determination of 
+a kind clearly for nonjudicial discretion; or the 
+impossibility of a court’s undertaking independent 
+resolution without expressing lack of the respect 
+due coordinate branches of government; or an 
+unusual need for unquestioning adherence to a 
+political decision already made; or the potentiality 
+of embarrassment from multifarious pronounce- 
+ments by various departments on one question. 
+
+
+Montana, 112 S. Ct. at 1424, citing Baker v. Carr, 369 U.S. 186 
+(1962). 
+
+
+26 
+
+
+The plaintiffs’ claim to a census adjustment 
+invokes no judicially administrable standards. 
+The plaintiffs are not asking us to decree 
+equality. They are asking us to take sides in 
+a dispute among statisticians, demographers, 
+and census officials concerning the 
+desirability of making a statistical adjustment 
+to the census headcount. 
+
+
+Tucker, 958 F. 2d at 1418. 
+
+
+In the trial of this case, the district court was asked 
+to review an enormously complex adjustment proposal but 
+with no legal standards to use to judge it. This proposal: 
+(1) created 1,392 poststrata on the basis of age, sex, race, 
+Hispanic origin, housing tenure, the type of place and 
+geographic location; (2) utilized a "homogeneity assumption" 
+that persons in each poststratum were homogeneous with 
+respect to the probability of being missed by the census; 
+(3) identified 5,000 blocks which fairly represented these 
+poststrata; (4) calculated 1,392 poststratum raw adjustment 
+factors to reflect variations found in the Post-Enumeration 
+Survey ("PES") conducted within these 5,000 blocks; 
+(5) “smoothed” the 1,392 raw factors by both “modelling” 
+and “regression” exercises; and (6) used a mathematical 
+model to impute missing characteristics in order to match the 
+census record to the PES to determine whether an 
+
+
+undercount occurred. The accuracy of the adjusted count | 
+
+
+was checked against a Demographic Analysis ("DA") which 
+estimated population and subpopulations through 
+administrative records such as birth and death certificates 
+and immigration statistics. City of New York, 822 F. Supp. 
+at 915-16, 921, 923. 
+
+
+27 
+
+
+There are no justiciable standards which the district 
+court could have used to decide whether the proposed 1,392 
+“smoothed,” “modelled” and “regressed” adjustment factors 
+are the best factors to use. There are no legal standards by 
+which to gauge imputation and undercount ratios or the 
+variance of the PES from the DA. There are no standards 
+and no law to apply to a given formula to determine whether 
+it is required or even permissible. 
+
+
+The power to exercise discretion to decide census 
+methodology is clearly committed to the Congress, not the 
+judiciary. A court’s independent decision on this question 
+would ignore Congress’ right to direct the census process 
+and demonstrate a lack of respect for that branch of 
+government. Regardless of one’s interpretation of 13 U.S.C. 
+§ 195, the policy for the past two hundred years has been to 
+use an actual count and not to statistically adjust the census. 
+
+
+Finally, adjustments beget adjustments. If left to 
+judicial review, this issue could result in different courts 
+choosing different paths for one census, in the quest for 
+greater accuracy. The lack of identifiable standards almost 
+guarantees that not all courts would take the same side in a 
+dispute among census officials, statisticians and 
+
+
+demographers. 
+
+
+28 
+Il. 
+
+
+CENSUS ADJUSTMENT IS NOT REQUIRED 
+BY EITHER THE CONSTITUTION OR THE 
+GOAL OF VOTER EQUALITY. 
+
+
+Nothing in the Constitution requires that Congress 
+adjust the census. In this case, there is no allegation that 
+intentional discrimination against a protected class caused the 
+census undercount. Those in favor of adjustment may 
+contend that the Constitution creates a right of census 
+accuracy or that adjustment is required under the one-person- 
+one-vote standard announced by this Court in prior cases. 
+Wesberry v. Sanders, 376 U.S. 1 (1964); Karcher v. 
+Daggett, 462 U.S. 725 (1983). Neither the Constitution nor 
+voter equality compels statistical adjustment of the census. 
+
+
+The Constitution’s text does not address census 
+accuracy. It does not require a specific level or type of 
+accuracy and it does not specify the means to obtain a census 
+count, accurate or otherwise. 
+
+
+As held in Montana, the one-person-one-vote standard 
+does not provide the means to resolve all issues in this area: 
+"The polestar of equal representation does not provide 
+sufficient guidance to allow us to discern a single 
+constitutionally permissible course." Montana, 112 S. Ct. 
+at 1429. This Court recognized in Montana that the goal of 
+absolute mathematical equality is illusory under the 
+constraints imposed by the Constitution. The constitutional 
+guarantee of a minimum of one Representative for each State 
+and the need to allocate a fixed number of Representatives 
+among 50 States of different populations make absolute 
+voting equality impossible. Jd. at 1429. 
+
+
+29 
+
+
+Neither the Constitution nor the goal of voter equality 
+provides a standard by which a court can choose a particular 
+formula to adjust the census. Neither source gives guidance 
+as to whether 5,000 blocks or 10,000 blocks should be used 
+or where those blocks should be located or whether 1,392 
+strata are sufficiently homogeneous to support an adjustment 
+formula. Neither source determines whether it is best to 
+have a final count which is more accurate from the 
+standpoint of total numbers but is less accurate with respect 
+to distributing those numbers across the United States. 
+
+
+In this case, the Secretary’s decision not to adjust was 
+based, in part, on his conclusion that there was “little or no 
+evidence that the adjusted counts led to greater distributive 
+accuracy at local levels." City of New York, 822 F. Supp. 
+at 922. There are no standards under which a court could 
+decide whether total number accuracy or distributive 
+accuracy is required by the law. 
+
+
+Neither the Constitution nor the goal of voter equality 
+determines whether it is best to leave real people in the count 
+or remove them and replace them with a “best guess." The 
+adjustment formula proposed in this case would delete actual 
+people and replace them with an adjusted number. /d. at 
+922, n. 21. The deletion of real people from the final count 
+could undermine the public’s willingness to respond to the 
+census. If one is going to be replaced by a “best guess” then 
+one may not take the time to send in the form. It may also 
+diminish the incentive of local governments to make efforts 
+to increase census participation. A State may instead choose 
+to concentrate on lobbying for a particular adjustment 
+formula. Neither of these results lead to a more accurate 
+census. 
+
+
+30 
+IV. 
+
+
+THE FINAL RESULT REACHED BY THE 
+SIXTH AND SEVENTH CIRCUITS IS CORRECT. 
+
+
+The Second Circuit Court of Appeal’s decision 
+conflicts with the rulings of the Sixth and Seventh Circuits 
+which upheld the Secretary’s decision not to adjust the 1990 
+census. City of Detroit, 4 F.3d at 1378; Tucker, 958 F.2d 
+at 1419. The latter decisions did not address § 195. 
+Nevertheless, the Sixth and Seventh Circuits reached the 
+correct result. Oklahoma was not a party to these cases. 
+
+
+Both the Sixth and Seventh Circuits recognized that 
+the apportionment clause does not create a constitutional 
+right to census accuracy. City of Detroit, 4 F.3d at 1375; 
+Tucker, 958 F.2d at 1417. The Seventh Circuit reasoned: 
+
+
+It might be different if the apportionment 
+clause, the census statutes, or the 
+Administrative Procedure Act contained 
+guidelines for an accurate decennial census, 
+for that would be some evidence that the 
+framers of these various enactments had been 
+trying to create a judicially administrable 
+standard. There is nothing of that sort, and 
+the inference is that these enactments do not 
+create justiciable rights. 
+Tucker, 958 F.2d at 1417. 
+A court could properly review a claim that Congress 
+did not conduct the census, or did not do so in good faith or 
+
+
+intentionally reduced some group’s representation. Judicial 
+review of census methodology, however, is not authorized 
+
+
+31 
+
+
+by the Constitution. City of Detroit, 4 F. 3d at 1376. A 
+court cannot provide a remedy for a census undercount 
+which is unintentional and is “merely an accident of the 
+census-taking process." Tucker, 958 F.2d at 1413. Judicial 
+review is also improper because the claim of one State or 
+city cannot be considered in isolation. The consequences for 
+other States and cities must be weighed. City of Detroit, 
+4 F.3d at 1378. 
+
+
+The Sixth and Seventh Circuits rejected the same 
+claim that the Second Circuit found to merit heightened 
+scrutiny. The Sixth and Seventh Circuits reached the correct 
+result. The conflict among the circuits should be resolved 
+by this Court. 
+
+
+Vv. 
+
+
+THE COURT OF APPEALS ERRED WHEN 
+IT IMPOSED A STANDARD OF REVIEW 
+OTHER THAN ARBITRARY AND CAPRICIOUS. 
+
+
+If one assumes the Secretary is lawfully permitted the 
+choice of utilizing statistical estimates for apportionment 
+purposes, then it is clear that his decision is not subject to 
+the heightened scrutiny imposed by the Second Circuit. The 
+Administrative Procedures Act (“APA”) sets out the required 
+scope of review of agency decisions. The APA provides: 
+
+
+. . . The reviewing court shall -- 
+(2) hold unlawful and set aside 
+
+
+agency action, findings, and conclusions 
+found to be -- 
+
+
+32 
+
+
+(A) arbitrary, capricious, an abuse 
+of discretion or otherwise not in accordance 
+with law; 
+
+
+(B) contrary to constitutional right, 
+power, privilege, or immunity; . . . 
+
+
+5 U.S.C. § 706. 
+
+
+The district court reviewed the Secretary’s decision 
+in accordance with the mandate of the APA and determined 
+that “the Secretary’s decision not to adjust the 1990 census 
+count was neither arbitrary nor capricious.” City of New 
+York, 822 F. Supp. at 929. On appeal, the plaintiffs argued 
+that the refusal to adjust the census violated the 
+apportionment clause of the Constitution and, therefore, the 
+district court should have imposed a de novo standard of 
+review. 
+
+
+The Court of Appeals rejected the plaintiffs’ plea for 
+de novo review. The court, however, did impose a 
+heightened scrutiny, ruling that the agency’s decision (1) had 
+to further a legitimate governmental objective and (2) be 
+essential for the achievement of that objective. The decision 
+of the Court of Appeals was based on the premise that the 
+Secretary’s decision not to adjust the census involved 
+violations of the Apportionment Clause and the Fourteenth 
+Amendment. 
+
+
+The flaws in the Second Circuit’s opinion, however, 
+are that (1) this is not a case involving apportionment and 
+(2) the agency decision does not involve State action. 
+Because the case does not involve violation of constitutional 
+rights, the scope of review is limited to whether the agency 
+decision was arbitrary or capricious. 
+
+
+33 
+
+
+The Second Circuit relied on the disproportionment 
+undercount of racial minorities to justify heightened scrutiny. 
+City of New York, 34 F. 3d at 1129. The Second Circuit 
+was wrong. It was wrong because the performance of the 
+census involved no intentional conduct to reduce the count of 
+minority residents. The law does not hold that an “official 
+act, without regard to whether it reflects a racially 
+discriminatory purpose, is unconstitutional solely because it 
+has a racially disproportionate impact." Washington v. 
+Davis, 426 U.S. 229, 239 (1976) (emphasis in original). 
+"Proof of racially discriminatory intent or purpose is 
+required to show a violation of the Equal Protection Clause." 
+Village of Arlington Heights v. Metropolitan Housing Dev. 
+Corp., 429 U.S. 252, 265 (1977). If there is proof that a 
+discriminatory purpose was a motivating factor behind the 
+official act in question, then “judicial deference is no longer 
+justified." Village of Arlington Heights, 429 U.S. at 266. 
+
+
+In this vs Ar is no allegation that the Secretary 
+intended to undercount minorities. It is also undisputed that 
+the census cannot achieve an exact count of the nation’s 
+population. There is no basis upon which to support a 
+heightened review of the Secretary’s decision not adjust the 
+census. 
+
+
+The Second Circuit attempted to avoid the 
+requirement of intentional discrimination by analogizing this 
+case to Baker v. Carr, 369 U.S. 186 (1962); Wesberry, 376 
+U.S. at 8; and Reynolds v. Sims, 377 U.S. 533 (1964). 
+Each of these cases, however, dealt with apportionment or 
+districting schemes within a particular State. 
+
+
+34 
+As recognized by the Second Circuit: 
+
+
+There are, of course, differences between the 
+present case and the Wesberry/Reynolds v. 
+Sims line of cases because the present case 
+focuses not on action by a state within its 
+boundaries but rather on federal action that is 
+nationwide in scope. 
+
+
+City of New York, 34 F.3d at 1129. 
+
+
+The Wesberry one-person-one-vote standard 
+addresses the division of one fixed number by another fixed 
+number. The population of the state is divided by the 
+number of congressional representatives allowed to that state. 
+This equation is easily solved and it readily provides a 
+concrete number that can be used to measure the accuracy of 
+the districting plan. 
+
+
+This case, however, concerns counting not solving 
+an equation for an answer. There is a major conceptual 
+difference between the two problems. In reviewing the 
+Secretary’s decision not to adjust the census, there is no 
+equation and there is no resulting number to provide 
+guidance. This case cannot be analyzed in the same manner 
+as the apportionment cases. 
+
+
+The Seventh Circuit Court of Appeals, in Tucker, 
+also rejected the claim that the refusal to adjust should be 
+reviewed under the same standard as apportionment and 
+voting rights cases: 
+
+
+The plaintiffs cannot be serious in arguing 
+that the refusal to adjust the headcount 
+violates the Voting Rights Act. That Act 
+
+
+35 
+
+
+provides remedies only against “any State or 
+political subdivision” of a state. 42 U.S.C. 
+§ 1973; and see §§ 1973a to 1973dd-5. The 
+Fourteenth Amendment is likewise limited to 
+state action. The plaintiffs’ invocation of 
+these enactments is a throwaway. 
+
+
+Tucker, 958 F.2d at 1414. 
+
+
+The court also analyzed the plaintiffs’ argument that 
+failure to adjust the census violated the apportionment 
+clause. The court again distinguished Wesberry, Reynolds 
+and other cases relied on by the plaintiffs and found: 
+
+
+The plaintiffs’ main argument, however, is 
+different from any we have mentioned. It is 
+derived from a constitutional right neither to 
+equal voting power nor to freedom from 
+governmental discrimination, but to census 
+accuracy. 
+
+
+Id. at 1415. 
+
+
+There is no constitutional right to census accuracy. 
+Thus, the decision not to adjust the census did not violate the 
+Constitution. The standard of review then must be whether 
+the Census Bureau’s decision not to adjust was arbitrary and 
+capricious. The Court of Appeals erred in imposing a 
+burden of heightened scrutiny. 
+
+
+CONCLUSION 
+
+
+The State of Oklahoma respectfully requests that the 
+Second Circuit Court of Appeals’ decision be reversed and 
+
+
+36 
+
+
+that the Secretary’s decision not to adjust the 1990 census be 
+upheld. 
+
+
+Respectful! s ibmitted, 
+
+
+DON G. HOLLADAY 
+Counsel of Record 
+
+Shelia D. Tims 
+
+Andrews Davis Legg Bixler 
+Milsten & Price 
+
+500 West Main 
+
+Oklahoma City, OK 73102 
+
+(405) 272-9241 
+
+
+Attorneys for Petitioner, 
+State of Oklahoma 
+
+
+November 9, 1995 
+
+
+APPENDIX 
+
+
+APPENDIX 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+i ie | 1. Article I, Section 2, Clauses 1 and 3 of the 
+United States Constitution provide: 
+
+
+The House of Representatives shall be 
+ip tatiegae Set composed of Members chosen every second 
+vA . Year by the People of the several States, and 
+f bee | the Electors in each State shall have the 
+Qualifications requisite for Electors of the 
+most numerous Branch of the State 
+
+Legislature. 
+
+
++ Representatives and direct Taxes shall 
+
+. : be apportioned among the several States 
+
+i ' which may be included within this Union, 
+
+‘ Sa according to their respective Numbers, which 
+
+Be 7 shall be determined by adding to the whole 
+iii x Number of free Persons, including those 
+| bound to Service for a Term of Years, and 
+excluding Indians not taxed, three fifths of all 
+
+other Persons. The actual Enumeration shall 
+
+: ty be made within three Years after the first 
+
+P | ; | Meeting of the Congress of the United States, 
+and within every subsequent Term of ten 
+Years, in such Manner as they shall by Law 
+
+direct. The number of Representatives shall 
+
+not exceed one for every thirty Thousand, but 
+
+each State shall have at Least one 
+
+Representative; and until such enumeration 
+
+
+2a 
+
+
+shall be made, the State of New Hampshire 
+shall be entitled to chuse three, Massachusetts 
+eight, Rhode-Island and Providence 
+Plantations one, Connecticut five, New. York 
+six, New Jersey four, Pennsylvania eight, 
+Delaware one, Maryland six, Virginia ten, 
+North Carolina five, South Carolina five, and 
+Georgia three. 
+
+
+2. Article I, Section 8, Clause 18 of the United 
+States Constitution provides: 
+
+
+Section 8. The Congress shall have Power 
+
+
+- * ~ - Sal 
+
+
+To make all Laws which shall be 
+necessary and proper for carrying into 
+Execution the foregoing Powers, and all other 
+Powers vested by this Constitution in the 
+Government of the United States, or in any 
+Department or Officer thereof. 
+
+
+3. Sections 2 and 5 of the Fourteenth Amend- 
+ment to the United States Constitution provide: 
+
+
+Section 2. Representatives shall be appor- 
+tioned among the several States according to 
+their respective numbers, counting the whole 
+number of persons in each State, excluding 
+Indians not taxed. But when the right to vote 
+at any election for the choice of electors for 
+President and Vice President of the United 
+States, Representatives in Congress, the 
+Executive and Judicial officers of a State, or 
+
+
+3a 
+
+
+the members of the Legislature thereof, is 
+denied to any one of the male inhabitants of 
+such State, being twenty-one years of age, 
+and citizens of the United States, or in any 
+way abridged, except for participation in 
+rebellion, or other crime, the basis of 
+representation therein shall be reduced in the 
+proportion which the number of such male 
+citizens shall bear to the whole number of 
+male citizens twenty-one years of age in such 
+State. 
+
+
+- - al - * 
+
+
+Section 5. The Congress shall have power to 
+enforce, by appropriate legislation, the 
+provisions of this article. 
+
+
+4. 2 U.S.C. § 2a provides: 
+
+
+Reapportionment of Representatives; time 
+and manner; existing decennial census 
+figures as basis; statement by President; 
+duty of clerk 
+
+
+(a) On the first day, or within one 
+week thereafter, of the first regular session of 
+the Eighty-second Congress and of each fifth 
+Congress thereafter, the President shall 
+transmit to the Congress a statement showing 
+the whole number of persons in each State, 
+excluding Indians not taxed, as ascertained 
+under the seventeenth and each subsequent 
+decennial census of the population, and the 
+number of Representatives to which each 
+
+
+4a 
+
+
+State would be _ entitled under an 
+apportionment of the then existing number of 
+Representatives by the method known as the 
+method of equal proportions, no State to 
+receive less than one Member. 
+
+(b) Each State shall be entitled, in 
+the Eighty-third Congress and in each 
+Congress thereafter until the taking effect of 
+a reapportionment under this section or 
+subsequent statute, to the number of 
+Representatives shown in the statement 
+required by subsection (a) of this section, no 
+State to receive less than one Member. It 
+shall be the duty of the Clerk of the House of 
+Representatives, within fifteen calendar days 
+after the receipt of such statement, to send to 
+the executive of each State a certificate of the 
+number of Representatives to which such 
+State is entitled under this section. In case of 
+a vacancy in the office of Clerk, or of his 
+absence or inability to discharge this duty, 
+then such duty shall devolve upon the 
+Sergeant at Arms of the House of 
+Representatives; and in case of vacancies in 
+the offices of both the Clerk and the Sergeant 
+at Arms, or the absence or inability of both to 
+act, such duty shall devolve upon the 
+Doorkeeper of the House of Representatives. 
+
+(c) Until a State is redistricted in the 
+manner provided by the law thereof after any 
+apportionment, the Representatives to which 
+such State is entitled under such 
+apportionment shall be elected in the 
+following manner: (1) If there is no change 
+in the number of Representatives, they shall 
+
+
+Sa 
+
+
+be elected from the districts then prescribed 
+by the law of such State, and if any of them 
+are elected from the State at large they shall 
+continue to be so elected; (2) if there is an 
+increase in the number of Representatives, 
+such additional Representative or Represen- 
+tatives shall be elected from the State at large 
+and the other Representatives from the 
+districts then prescribed by the law of such 
+State; (3) if there is a decrease in the number 
+of Representatives but the number of districts 
+in such State is equal to such decreased 
+number of Representatives, they shall be 
+elected from the districts then prescribed by 
+the law of such State; (4) if there is a 
+decrease in the number of Representatives but 
+the number of districts in such State is less 
+than such number of Representatives, the 
+number of Representatives by which such 
+number of districts is exceeded shall be 
+elected from the State at large and the other 
+Representatives from the districts then 
+prescribed by the law of such State; or (5) if 
+there is a decrease in the number of 
+Representatives and the number of districts in 
+such State exceeds such decreased number of 
+Representatives, they shall be elected from 
+the State at large. 
+
+
+5. 13 U.S.C. § 141(a) and (b) provide: 
+Population and other census information 
+
+
+(a) The Secretary shall, in the year 
+1980 and every 10 years thereafter, take a 
+
+
+6a 
+
+
+decennial census of population as of the first 
+day of April of such year, which date shall be 
+known as the "decennial census date", in such 
+form and content as he may determine, 
+including the use of sampling procedures and 
+special surveys. In connection with any such 
+census, the Secretary is authorized to obtain 
+such other census information as necessary. 
+
+(b) The tabulation of total population 
+by States under subsection (a) of this section 
+as required for the apportionment of 
+Representatives in Congress among the 
+several States shall be completed within 9 
+months after the census date and reported by 
+the Secretary to the President of the United 
+States. 
+
+
+6. 13 U.S.C. § 195 provides: 
+Use of sampling 
+
+
+Except for the determination of 
+population for purposes of apportionment of 
+Representatives in Congress among the 
+several States, the Secretary shall, if he 
+considers it feasible, authorize the use of the 
+Statistical method known as “sampling” in 
+carrying out the provisions of this title. 
+
+
+* * - ~ - 
+
+

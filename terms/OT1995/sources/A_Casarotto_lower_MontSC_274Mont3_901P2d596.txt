@@ -1,0 +1,99 @@
+
+
+    PAUL CASAROTTO and PAMELA CASAROTTO, Plaintiffs and Appellants, v. NICK LOMBARDI and DOCTOR’S ASSOCIATES, INC., Defendants and Respondents, and DANIEL L. and DEB HUDSON, and D&D SUBWAY CORPORATION, Defendants.
+
+    No. 93-488.
+
+    Submitted August 22, 1995.
+
+    Decided August 31, 1995.
+
+    52 St.Rep. 911.
+
+    901 P.2d 596.
+
+    274 Mont. 3.
+
+      *4For Appellant: Grant D. Parker (argued) and Philip D. Tawney, Mullendore, Tawney & Watt, Missoula.
+
+    For Respondent: Alan G. Schwartz (argued) and Ian E. Bjork-man, Wiggin & Dana, New Haven, Connecticut; L. D. Nybo, Conklin, Nybo, Leveque & Murphy, Great Falls.
+
+    For Amici Curiae: Lawrence Anderson, Attorney at Law, Great Falls (Montana Trial Lawyers Association); Michael A. Bowen and Michael G. McCarty, Foley & Lardner, Milwaukee, Wisconsin (International Franchise Association; Securities Industry Association; Snap-On Tools Corporation).
+
+    JUSTICE TRIEWEILER
+
+    delivered the opinion of the Court.
+
+    Plaintiffs Paul and Pamela Casarotto filed this suit in the District Court for the Eighth Judicial District in Cascade County to recover damages which they claim were caused by the defendants’ breach of contract and tortious conduct. Defendants Nick Lombardi and Doctor’s Associates, Inc., (DAI) moved the District Court for an order dismissing plaintiffs’complaint, or in the alternative, staying further judicial proceedings pending arbitration of plaintiffs’ claims pursuant to a provision in DATs franchise agreement with plaintiffs which required that disputes “arising out of or relating to” that contract be settled by arbitration. The District Court granted defendants’ motion, and ordered that further judicial proceedings be stayed until arbitration proceedings were completed in accordance with the terms of the parties’ agreement. Plaintiffs appealed from that order, and on December 15, 1994, we reversed the order of the District Court and remanded this case to that court for further proceedings. Casarotto v. Lombardi (1994), 268 Mont. 369, 886 P.2d 931. Following this Court’s decision, the defendants petitioned the Supreme Court of the United States for a writ of certiorari. That petition was granted, and on June 12, 1995, the United States Supreme Court ordered that the December 15, 1994, judgment of this Court be vacated, and remanded this case to the Supreme Court of Montana for further consideration in light of that Court’s decision in Allied-Bruce Terminix Cos. v. Dobson (1995), 513 U.S._, 115 S. Ct. 834, 130 L. Ed. 2d 753. Having *5further considered our prior decision in light of Dobson, we now reaffirm and reinstate our prior opinion.
+
+      FACTUAL BACKGROUND
+
+    Paul and Pamela Casarotto entered into a franchise agreement with DAI which allowed them to open a Subway Sandwich Shop in Great Falls, Montana. DAI’s franchise agreement included on page nine a provision which required that controversies or claims related to the contract shall be settled by arbitration in Bridgeport, Connecticut. However, the franchise agreement did not include notice on the front page to the effect that the contract was subject to arbitration, as required by § 27-5-114(4), MCA.
+
+    The Casarottos filed this action in the District Court based on their allegations that DAI breached its agreement with them, defrauded them, and engaged in other tortious conduct, all of which resulted in loss of business and the resulting damage.
+
+    DAI moved to dismiss the Casarottos’ claim or to stay further judicial proceedings pending arbitration pursuant to the arbitration provision in its franchise agreement. The District Court granted DATs motion to stay further judicial proceedings pursuant to 9 U.S. C. § 3, which is part of the Federal Arbitration Act found at 9 U.S.C. §§ 1-15 (1988).
+
+    On appeal from the District Court’s order, we considered whether Montana’s notice requirement was preempted by the Federal Arbitration Act in light of the U.S. Supreme Court’s recent decision in Volt Information Sciences, Inc. v. Board of Trustees of Leland Stanford Junior University (1989), 489 U.S. 468, 109 S. Ct. 1248, 103 L. Ed. 2d 488. In that case, the Supreme Court stated that:
+
+    The FAA contains no express pre-emptive provision, nor does it reflect a congressional intent to occupy the entire field of arbitration. But even when Congress has not completely displaced state regulation in an area, state law may nonetheless be pre-empted to the extent that it actually conflicts with federal law — that is, to the extent that it “stands as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress.” Hines v. Davidowitz, 312 U.S. 52, 67, 61 S.Ct. 399, 404, 85 L.Ed.2d 581 (1941). The question before us, therefore, is whether application of Cal.Civ.Proc. Code Ann. § 1281.2(c) to stay arbitration under this contract in interstate commerce, in accordance with the terms of the arbitration agreement itself, would undermine the goals and policies of the FAA. We conclude that it would not.
+
+      *6
+      Volt, 489 U.S. at 477-78, 109 S. Ct. at 1255 (citation omitted; emphasis added).
+
+    Based on the cited language from Volt, we concluded that the nature of our inquiry was whether Montana’s notice requirement found at § 27-5-114(4), MCA, would “undermine the goals and policies of the FAA.” We concluded that it does not. Casarotto, 886 P.2d at 931. We explained our conclusion as follows:
+
+    Our conclusion that Montana’s notice requirement does not undermine the policies of the FAA is based on the Supreme Court’s conclusion that it was never Congress’s intent when it enacted the FAA to preempt the entire field of arbitration, and its further conclusion that the FAA does not require parties to arbitrate when they have not agreed to do so. That Court held that the purpose of the FAA is simply to enforce arbitration agreements into which parties had entered, and acknowledged that the interpretation of contracts is ordinarily a question of state law. Volt, 489 U.S. at 474, 109 S.Ct. at 1253.
+
+    Presumably, therefore, the Supreme Court would not find it a threat to the policies of the Federal Arbitration Act for a state to require that before arbitration agreements are enforceable, they be entered knowingly. To hold otherwise would be to infer that arbitration is so onerous as a means of dispute resolution that it can only be foisted upon the uninformed. That would be inconsistent with the conclusion that the parties to the contract are free to decide how their disputes should be resolved.
+
+    Montana’s notice requirement does not preclude parties from knowingly entering into arbitration agreements, nor do our courts decline to enforce arbitration agreements which are entered into knowingly.
+
+    Therefore, we conclude that Montana’s notice statute found at § 27-5-114(4), MCA, would not undermine the goals and policies of the FAA, and is not preempted by 9 U.S.C. § 2 (1988).
+
+      Casarotto, 886 P.2d at 938-39.
+
+    On January 18, 1995, subsequent to our decision in this case, the U.S. Supreme Court decided Dobson. On June 12, 1995, the same Court vacated our prior Casarotto decision and remanded the matter to this Court for further consideration in light of the Dobson decision.
+
+    In Dobson, the plaintiffs were the assignees of a contract with Terminix for life-time protection against termites. They sued Terminix in Alabama state court when they found their house “swarming *7with termites.” Terminix moved the court for a stay pursuant to § 2 of the Federal Arbitration Act (9 U.S.C. § 2 (1988)) so that arbitration could proceed pursuant to a provision for arbitration in the termite protection plan. The stay was denied. The Supreme Court of Alabama upheld the denial on the basis of Ala. Code § 8-1-41(3) (1993), which made written, predispute arbitration agreements invalid and unenforceable. The Alabama court concluded that its state statute was not preempted by the Federal Arbitration Act because the connection between the termite contract and interstate commerce was too slight.
+
+    In the court’s view, the Act applies to a contract only if “ ‘at the time [the parties entered into the contract] and accepted the arbitration clause, they contemplated substantial interstate activity.’ ” Despite some interstate activities (e.g., Allied-Bruce, like Tbrminix, is a multistate firm and shipped treatment and repair material from out of state), the court found that the parties “contemplated” a transaction that was primarily local and not “substantially” interstate.
+
+      Dobson, 513 U.S. at_, 115 S. Ct. at 837 (citations omitted).
+
+    Before addressing the issue presented, the Dobson majority reiterated its conclusion that the purpose of the Federal Arbitration Act was to “overcome judicial hostility to arbitration agreements and that applies in both federal and state courts.” Dobson, 115 S. Ct. at 835. The Court then went on to conclude that the language in § 2 of the Act which applied its provisions to any “contract evidencing a transaction involving commerce” had broader significance than the words of art “in commerce,” and therefore, covered more than persons or activities “within the flow” of interstate commerce. Dobson, 115 S. Ct. at 839. The Court held that the word “involving,” like “affecting,” signaled an intent on the part of Congress “to exercise Congress’s commerce power to the full,” Dobson, 115 S. Ct. at 841, and secondly that the Act’s preemptive force applies to transactions which, in fact, involve interstate commerce, even though a connection to interstate commerce may not have been contemplated by the parties at the time they entered into the agreement. For these reasons, the judgment of the Supreme Court of Alabama was reversed. Dobson, 115 S. Ct. at 843.
+
+    After careful review, we can find nothing in the Dobson decision which relates to the issues presented to this Court in this case. Our prior Casarotto decision did not involve state law which made arbitration agreements invalid and unenforceable. Our state law simply requires that the parties be adequately informed of what they are doing before they enter into an arbitration agreement. Our decision did not involve an analysis of what was meant by “involving com*8merce” or “affecting commerce” or “in commerce.” We assumed, in the Casarotto decision, that the transaction with which we were concerned involved interstate commerce, and that any state law which frustrated the purposes of the Federal Arbitration Act would be preempted.
+
+    Finally, there is no suggestion in the Dobson decision that the principles from Volt on which we relied have been modified in any way. To our knowledge, it is still the law, therefore, that state law is only preempted to the extent that it “stands as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress.” Volt, 489 U.S. at 477, 109 S. Ct. at 1255 (citing Hines v. Davidowitz (1941), 312 U.S. 52, 67, 61 S. Ct. 399, 404, 85 L. Ed. 2d 581).
+
+    While the Dobson decision does include a discussion extolling the virtues of arbitration as a “less expensive alternative to litigation,” Dobson, 513 U.S. at_, 115 S. Ct. at 843 (apparently based on input from the American Arbitration Association), and while that conclusion is at odds with facts set forth in Justice Trieweiler’s concurring opinion to our earlier decision, the concurring opinion was not the basis for our decision.
+
+    For these reasons, we conclude, after thorough review of our earlier decision in light of the U.S. Supreme Court’s decision in Dobson, that the decisions are not inconsistent, and therefore, that there is no basis for modifying or reversing our earlier opinion. We reaffirm and reinstate our opinion dated December 15, 1994, in the above matter, and remand this case to the District Court for further proceedings consistent with this opinion.
+
+    JUSTICES NELSON, HUNT and LEAPHART concur.
+
+    JUSTICE LEAPHART,
+
+    specially concurring.
+
+    Justice John C. Harrison was in the majority in this Court’s initial decision in Casarotto v. Lombardi (1994), 268 Mont. 369, 886 P.2d 931. Justice Harrison has since retired. As the successor to Justice Harrison, it is incumbent on me to review that decision in light of the remand from the United States Supreme Court. Having reviewed the Casarotto decision, I specially concur with the Court’s conclusion that Montana’s notice requirement in § 27-5-114(4), MCA, does not undermine the goals and policies of the FAA and is not preempted by 9 U.S.C. § 2 (1988). I have also reviewed the United States Supreme Court’s decision in Allied-Bruce Terminix Cos. v. Dobson (1995), 513 U.S._, 115 S.Ct. 834, 130 L.Ed.2d 753, and I see no reason why the principles enunciated in that decision should have any effect upon this Court’s decision in Casarotto.
+
+      *9In Dobson, the United States Supreme Court held that the FAA preempts anti-arbitration state statutes which invalidate arbitration agreements. Section 27-5-114(4), MCA, cannot be characterized as anti-arbitration nor does it invalidate arbitration agreements. On the contrary, it is one section of Montana’s Uniform Arbitration Act which specifically recognizes arbitration agreements: “A written agreement to submit an existing controversy to arbitration is valid and enforceable except upon such grounds as exist at law or in equity for the revocation of a contract.” Section 27-5-114(1), MCA. The notice requirement of subsection (4) merely protects the consumer by requiring that notice of an arbitration provision be conspicuously placed on the front page of the contract. This does not undermine the pro-arbitration policy of the FAA. Rather, it furthers the policy of meaningftd and consensual arbitration by helping ensure that the consumer who signs what is most often a nonnegotiated, form contract, knowingly agrees to arbitration in the event of a dispute. I see no inconsistency between Dobson and our decision in Casarotto and I specially concur in the Court’s decision to reaffirm and reinstate its December 15,1994 opinion.
+
+    JUSTICE GRAY,
+
+    dissenting.
+
+    I dissent from the Court’s opinion and order and its reinstatement of its prior opinion in this case. My dissent is based on the procedures used by the Court in addressing the United States Supreme Court’s vacating of our earlier opinion and remanding for our reconsideration based on its decision in Allied-Bruce Terminix Cos. v. Dobson (1995), 513 U.S._, 115 S.Ct. 834, 130 L.Ed.2d 753. I also dissent from the Court’s conclusion that nothing in the Dobson case relates to the issues presented to this Court. In dissenting, I also reaffirm and reinstate my earlier dissent in this case.
+
+    A remand for reconsideration to this Court from the United States Supreme Court is an uncommon occurrence for which we have no procedural rules or practices in place. Counsel for the parties were left without guidance as to how they should proceed in order to be heard during this phase of the case. Counsel for the defendants/respondents requested the opportunity to brief the issues raised by the United States Supreme Court’s remand and to present oral argument. Without so much as a mention of this request, the Court apparently denies it. While one can only speculate on the reasons for such an implicit decision, one must assume that the Court is simply unwilling to consider any analysis that would require a change in the result it remains determined to reach. I cannot join in such an *10arrogant and cavalier approach to this important case on remand from the United States Supreme Court.
+
+    More importantly, I disagree with the Court’s conclusion that nothing in Dobson relates to the issues before us. While I agree that the substantive issue addressed at length in Dobson is not before us here, I read more importance into the early language in Dobson than does the Court. In Dobson, the United States Supreme Court reiterates the fundamental premise of the Federal Arbitration Act by citing to Volt, the very case which this Court erroneously interprets and on which it premises its erroneous decision, for the proposition that “the basic purpose of the Federal Arbitration Act is to overcome courts’ refusals to enforce agreements to arbitrate.” Dobson, 513 U.S. at_, 115 S.Ct. at 838; citing Volt Information Sciences, Inc. v. Board of Trustees of Leland Stanford Junior Univ. (1989), 489 U.S. 468, 474, 109 S.Ct. 1248, 1253, 103 L.Ed.2d 488. The Supreme Court goes on to say that “[n]othing significant has changed in the 10 years subsequent to Southland; no later cases have eroded Southland’s authority[.]” Dobson, 513 U.S. at_, 115 S.Ct. at 839. It is this latter statement on which I believe we must focus in reconsidering our decision here. The Court refuses to do so.
+
+    I continue to believe that this Court erroneously interprets Volt, which was decided by the Supreme Court five years after Southland. Volt is clearly distinguishable on its facts from the case before this Court and cannot properly serve as a basis for the result the Court reaches. Volt is neither inconsistent with, nor a retrenchment from, Southland, as this Court suggested in its earlier opinion and suggests again today. This is the message I take from the Supreme Court’s statement in Dobson that “no later cases have eroded Southland’s authority;” this is the portion of this Court’s earlier opinion to which I believe the Supreme Court was directing our attention on remand.
+
+    For the reasons stated in my earlier dissent, it is my view that application of Montana’s notice statute is preempted by the Federal Arbitration Act in this case because application of that statute undercuts, undermines and renders unenforceable the parties’ agreement to arbitrate. This view is entirely consistent both with Southland and with a proper interpretation of Volt. Therefore, I dissent from the Court’s opinion and order and reinstate my prior dissent in this case.
+
+    CHIEF JUSTICE TURNAGE and JUSTICE WEBER join in the foregoing dissent of JUSTICE GRAY.
+

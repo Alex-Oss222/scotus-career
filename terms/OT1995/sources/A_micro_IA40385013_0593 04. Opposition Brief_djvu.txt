@@ -1,0 +1,2185 @@
+IN THE 
+SUPREME COURT OF THE 
+OCTOBER TERM, 1994 
+
+
+No. 94-1614 (6) 
+STATE OF WISCONSIN, Petitioner 
+
+
+v. 
+CITY OF NEW YORK, et al., Respondents. 
+
+
+No. 94-1631 
+STATE OF OKLAHOMA, Petitioner 
+
+
+Vv. 
+CITY OF NEW YORK, et al., Respondents. 
+
+
+No. 94-1985 (<3 
+UNITED STATES DEPARTMENT OF COMMERCE, 
+et al., Petitioners 
+
+
+v. 
+CITY OF NEW YORK, et al., Respondents. 
+
+
+ON PETITIONS FOR WRITS OF CERTIORARI TO 
+THE UNITED STATES COURT OF APPEALS FOR 
+THE SECOND CIRCUIT 
+
+
+BRIEF FOR THE RESPONDENTS IN OPPOSITION 
+
+
+Paul A. Crotty 
+Corporation Counsel of the City of New York 
+100 Church Street 
+
+New York, New York 10007 
+
+(212) 788-0800 
+
+
+Attorney for Respondent the City of New York 
+Counsel of Record 
+
+
+July 3, 1995 
+
+
+BEST AVAILABLE COPY) 
+
+
+7 Ano 
+
+
+(Continuation of Cover Page) 
+Of Counsel: 
+
+
+Robert S. Rifkind 
+
+Cravath, Swaine & Moore 
+
+Worldwide Plaza 
+
+825 Eighth Avenue 
+
+New York, New York 10019 
+
+(212) 474-1000 
+
+Attorney for Respondents the City of New York, 
+the City of Los Angeles, the City of San 
+Francisco, the City of San Jose, the City of Tucson, 
+the City of Long Beach, the City of Pasadena, 
+
+the City of Inglewood, the County of Los Angeles, 
+the County of Broward and the Navajo Nation 
+
+
+7 
+
+
+Peter L. Zimroth 
+
+Arnold & Porter 
+
+399 Park Avenue 
+
+New York, New York 10022 
+(212) 715-1000 
+
+
+Attorney for Respondent the City of New York 
+
+
+Louis M. Solomon 
+
+Solomon, Zauderer, Ellenhorn, Frischer & Sharp 
+45 Rockefeller Plaza 
+
+New York, New York 10111 
+
+(212) 956-3700 
+
+Attorney for Respondent the City of New York 
+
+
+(Continuation of Cover Page) 
+
+
+Dennis C. Vacco 
+
+Attorney General of the State of New York 
+Barbara Mehiman 
+
+Assistant Attorney General 
+
+New York State Department of Law 
+
+120 Broadway 
+
+New York, New York 10271 
+
+(212) 416-8249 
+
+Attorney for Respondent the State of New York 
+
+
+Dan Morales 
+
+Attorney General of the State of Texas 
+Javier P. Guajardo 
+
+Special Assistant Attorney General 
+
+P.O. Box 12548 
+
+Capitol Station 
+
+Austin, Texas 78711 
+
+(512) 475-4405 
+
+Attorney for Respondent the State of Texas 
+
+
+James K. Hahn 
+
+City Attorney of the City of Los Angeles 
+Jessica F. Heinz 
+
+Assistant City Attorney 
+
+200 North Main Street 
+
+Los Angeles, California 90012 
+
+(213) 485-4288 
+
+Attorney for Respondent the City of Los Angeles 
+
+
+(Continuation of Cover Page) 
+
+
+DeWitt W. Clinton 
+
+County Counsel of the County of Los Angeles 
+Ada Treiger 
+
+Deputy County Counsel 
+
+500 West Temple 
+
+Hall of Administration 
+
+Los Angeles, California 90012 
+
+(213) 974-1861 
+
+Attorney for Respondent County of Los Angeles 
+
+
+COUNTER-STATEMENT OF 
+QUESTION PRESENTED 
+
+
+After determining that plaintiffs had proved by 
+conclusive evidence that (a) adjusted census data prepared 
+by the Bureau of the Census would increase the accuracy of 
+the census and (b) the decision of the Secretary of 
+Commerce rejecting use of those data did not reflect a 
+good-faith effort to render a census as accurate as 
+practicable, the court of appeals remanded the case to the 
+district court to give the Secretary an opportunity to show 
+that his decision against adjustment was essential to 
+achievement of a legitimate governmental objective. The 
+question presented is whether this Court should grant 
+interlocutory review of the court of appeals’ order before 
+the factual record is complete, before either court below has 
+determined the Secretary’s decision to be unconstitutional 
+and before either court has considered an appropriate 
+
+
+remedy. 
+
+
+TABLE OF CONTENTS 
+Page 
+TABLE OF AUTHORITIES ............... iii 
+PRELIMINARY STATEMENT .............- 2 
+STATEMENT OF THE CASE .............. 7 
+Proceedings Below .........--++-++- 17 
+REASONS FOR DENYING THE PETITION .... . 28 
+1. The Petitions Fail to Present Unusual 
+Circumstances Warranting Interlocutory 
+NS t's 5 ao oe oe a eee ee ee 28 
+2. The Decision of the Court of Appeals, 
+Which Vacated the Judgment of the District 
+Court and Remanded the Case for Further 
+Proceedings, Was Correct ............ 37 
+
+
+3. There Is No Conflict among the Courts of 
+Appeals to Warrant Review by This Court . . 52 
+
+
+ele a: re a ee ee 61 
+
+
+-ii- 
+
+
+TABLE OF AUTHORITIES 
+
+
+CASES: Page 
+
+j i v. Jac V 
+
+T. & K. R. Co., 
+
+ES ge po ee ee ee 29 
+Baker v. Carr, 
+
+oo ae een 25 
+Buckley v. Valeo, 
+
+See oe ee oe 50 n.8 
+City of Detroit v. Frankl 
+
+
+4 F.3d 1367 (6th Cir. 1993), cert, 
+
+
+denied, US. 1145S. Ct. 
+II as teas hss ost kb ca: 53, 57-60 
+
+
+City of Detroit v. Franklin. 
+800 F. Supp. 539 (E.D. Mich. 1992), 
+aff'd, 4 F.3d 1367 (6th Cir. 1993), cert. 
+
+
+denied, US. _,114S. Ct. 
+EE ee 58 
+
+
+Brothers & Co., 
+ee eee 29 
+
+
+-lli- 
+
+
+J. Truett Payne Co. v. Chrysler 
+
+
+Motors Corp., 
+6 Fe Fe eer mancrc 34 
+
+
+Karcher v. Daggett, 
+462 U.S. 725 (1983) .......... 25, 27, 47, 48 
+
+
+Tucker v. United States 
+
+
+Department of Commerce, 
+
+958 F.2d 1411 (7th Cir.), cert. 
+
+denied, U.S. ___, 113 S. Ct. 407 
+
+Pe cise cnetiak ous 53, 55-57, 59-60 
+
+
+Department of Commerce, 
+
+135 F.R.D. 175 (N.D. Ill. 1991), aff'd, 
+958 F.2d 1411 (7th Cir.), cert. 
+
+denied, US. __, 113 S. Ct. 407 
+
+
+v. Montana, 
+Se ee OD <0 ice 6 id hots BSP EE 26, 47 
+
+
+Virginia Mili it as 
+U.S. __, 113 S.Ct. 2431 (1993) 28-29, 32-33 
+
+
+Washi v. Davis, 
+ee es ee CE a a ic.c 6 COW we oe ees 49 
+
+
+Wesberry v. Sanders, 
+I oo i a 47 
+
+
+-jv- 
+
+
+CONSTITUTION AND STATUTE 
+
+
+United States Constitution: 
+
+
+a Pn wk he dd bs we wwe 56-58 
+
+RD 35h Sp temas ott 50 n.8, 56, 60 
+
+Pee 6 a's Wee wee ew ee eds 50 n.8 
+Statute 
+
+
+Administrative Procedure Act, 
+5 U.S.C. § 706(2)(A) ......... 24, 34, 56 n.12 
+
+
+MISCELLANEOUS 
+
+
+C. Citro & M. Cohen (eds.), 
+
+
+The Bicentennial Census: New, 
+irections i (1985) . 19n4 
+
+
+National Research Council, 
+Modernizing the U.S. Census (1995) ...... 7 n.2 
+
+
+R. Stern, E. Gressman, S. Shapiro & 
+K. Geller, Supreme Court Practice (1993)... .. 29 
+
+
+IN THE 
+
+
+B. Vobejda, “Administration Lets Census SUPREME pie ho THE ee STATES 
+Ruling Stand; Decision Awaits OCT TERM, 
+on Use of Adjusted Numbers,” 
+Woshinenem Post (September 22, 1994) ... 32n.6 No. 94-1614 
+
+
+STATE OF WISCONSIN, Petitioner 
+v. 
+CITY OF NEW YORK, et al., Respondents. 
+
+
+No. 94-1631 
+STATE OF OKLAHOMA, Petitioner 
+Vv. 
+CITY OF NEW YORK, et al., Respondents. 
+
+
+No. 94-1985 
+UNITED STATES DEPARTMENT OF COMMERCE, 
+et al., Petitioners 
+Vv. 
+
+
+CITY OF NEW YORK, et al., Respondents. 
+
+
+ON PETITIONS FOR WRITS OF CERTIORARI TO 
+THE UNITED STATES COURT OF APPEALS FOR 
+THE SECOND CIRCUIT 
+
+
+BRIEF FOR THE RESPONDENTS IN OPPOSITION 
+
+
+Respondents the City of New York, the State of 
+New York, the State of Texas, the City of Los Angeles, the 
+
+
+City of San Francisco, the City of San Jose, the City of 
+
+
+-Vi- 
+
+
+Tucson, the City of Long Beach, the City of Pasadena, the 
+City of Inglewood, the County of Los Angeles, the County 
+of Broward and the Navajo Nation respectfully request that 
+the petitions for writs of certiorari to review the judgment 
+of the United States Court of Appeals for the Second 
+
+
+Circuit in Nos. 94-1614, 94-1631 and 94-1985" be denied. 
+
+
+Preliminary Statement 
+The 1990 decennial census, as reported by the 
+United States Department of Commerce (“Department”), 
+
+
+reflected an undercount of the national population. Not all 
+
+
+' The petition in No. 94-1614, State of Wisconsin v. 
+City of New York, et al. (“Wisc. Pet.”), was filed by the 
+State of Wisconsin on April 3, 1995. The petition in No. 
+94-1631, State of Oklahoma v. City of New York, et al. 
+(“Okla. Pet.”), was filed by the State of Oklahoma on April 
+4, 1995. The petition in No. 94-1985, United States 
+
+e aie Ww et 
+al. (“U.S. Pet.”), was filed by the United States on June 5, 
+1995. Upon application, the Clerk of the Court on April 
+24, 1995 extended the time of respondents to file a brief in 
+opposition to all petitions to and including May 31, 1995 
+and, upon further application, on June 1, 1995 extended 
+that time to and including July 3, 1995. 
+
+
+2. 
+
+
+areas or groups of Americans were equally affected: as in 
+previous censuses, the undercount was differentially severe 
+among members of racial and ethnic minorities. 
+
+Having anticipated, based on its experience with 
+previous censuses, that a differential undercount would 
+occur in the 1990 census and recognizing that a differential 
+undercount undermines the accuracy of census data when 
+used to allocate political representation or government 
+funds, the Bureau of the Census (“Bureau”) designed and 
+executed, as part of the 1990 census, procedures that would 
+have permitted a statistical adjustment of the census to 
+correct for the differential undercount. The Bureau 
+prepared and reviewed adjusted census data that, in the 
+Bureau’s analysis, ameliorated the differential undercount. 
+
+In June 1991 the Bureau concluded that the adjusted 
+census data were more accurate than the unadjusted counts, 
+
+
+and the Director of the Bureau recommended to the 
+
+
+Secretary of Commerce (“Secretary”) that the 1990 census 
+be adjusted on the basis of the data the Bureau had 
+prepared. In July 1991 the Secretary issued a formal 
+decision rejecting the recommendation of the Bureau’s 
+director that the census be adjusted, as well as the Bureau's 
+expert judgment that the adjusted data had been shown to be 
+more accurate. 
+
+Plaintiffs challenged the Secretary’s decision, 
+alleging that, as the Bureau had concluded, the adjusted 
+data had been clearly shown to be more accurate, that the 
+Secretary’s contrary determination had not been made in 
+good faith, and that as a consequence residents of adversely 
+affected jurisdictions were being denied the political 
+representation to which they were entitled, a claim of 
+constitutional dimension. After extensive discovery and a 
+13-day trial, the district court found that plaintiffs had 
+
+
+shown the adjusted data to be more accurate; but, having 
+
+
+concluded that it was empowered to conduct only a limited 
+review of the Secretary’s decision, the court entered 
+judgment for defendants because the Secretary’s decision 
+was not “so beyond the pale of reason as to be arbitrary or 
+Capricious.” 
+
+On appeal, plaintiffs argued that, in light of the 
+constitutional claim presented, the district court should have 
+reviewed the Secretary’s decision de novo. The court of 
+appeals rejected that argument. But, following the 
+teachings of this Court on the standard of review for 
+governmental decisions determining the allocation of 
+political representation and the conduct of the census, the 
+court of appeals concluded that the Secretary’s decision 
+should have been subject to a higher level of scrutiny than 
+that applied by the district court. Upon plaintiffs’ showing 
+that the adjusted census data were more accurate and that 
+
+
+the Secretary’s decision against adjustment was not made in 
+
+
+good faith, the court of appeals held, the burden of proof 
+shifted to the Secretary to show that use of the unadjusted 
+count as the census was essential to the achievement of a 
+legitimate governmental objective. The court of appeals 
+vacated the judgment of the district court and remanded for 
+further proceedings. 
+
+Petitioners now seek review of that interlocutory 
+order. The petitions fail, however, to show the existence 
+of such unusual circumstances as would warrant issuance of 
+writs of certiorari before final judgment. The decision of 
+the court of appeals is a straightforward application of well- 
+
+
+established precedent from this Court. Nor is the court of 
+
+
+appeals’ decision in conflict with the decisions of two courts _ 
+
+
+of appeals that, on quite different facts, rejected cases 
+
+
+seeking to compel other adjustments of the census. 
+
+
+Pater " 
+
+
+STATEMENT OF THE CASE 
+
+a. Error in the unadjusted census. Inevitably, 
+the decennial census is subject to considerable error.’ 
+Appendix to Petition for Writ of Certiorari in No. 94-1614 
+(“Pet. App.”), at 46; see also Transcript of Trial (“Tr.”), 
+at 80-88. For the 1990 census the Bureau has estimated 
+that the unadjusted census counts reflect 25 million, and 
+perhaps as many as 32 million, errors involving erroneous 
+inclusion or exclusion of persons: persons counted who 
+should not have been or counted two or more times 
+(“erroneous enumerations”) and persons not included who 
+should have been (“gross omissions”). Pet. App. 259; see 
+
+
+also Tr. 83-84. For any given block, the census count is 
+
+
+* For a historical account of census-taking in the United 
+Siates, including efforts to deal with census error, see M. 
+Anderson, The American Census: A Social History (1988). 
+For a summary of recent research and planning for 2000, 
+
+
+see National Research Council, Modernizing the U.S. 
+Census (1995). 
+
+
+.% 
+
+
+not, and is not meant to be, especially reliable. Tr. 1315- 
+
+
+1316. 
+
+
+“Net undercount” in the census is the difference 
+between gross omissions and erroneous enumerations. Pet. 
+App. 49, 261; Tr. 89-92. Where net undercount is 
+differentially disiibuted geographically, it systematically 
+compromises the accuracy of census data for allocating 
+electoral representation and funding. The most serious 
+systematic error affecting the decennial census is the 
+differential undercounting of members of minority groups. 
+Pet. App. 49-50. For the 1990 census, the undercount rate 
+for blacks was 4.8%, for Hispanics 5.2%, for Asian/Pacific 
+Islanders 3.1% and for American Indians 5.0%. Pet. App. 
+50. On any estimate of the net national undercount, those 
+rates significantly exceed the average undercount rate for 
+the American population. Taking the Department’s current 
+
+
+estimate, the undercount rate for blacks was three times the 
+
+
+alll 
+
+
+national average, undercount rates for Hispanics and 
+American Islanders were even worse, and the undercount 
+rate for Asian/Pacific Islanders was nearly twice that of the 
+nation as a whole. Because members of minority groups 
+are not evenly distributed geographically, the consequence 
+of the differential undercount is that areas in which 
+members of minority groups are concentrated are 
+systematically deprived of political representation and 
+funding they would otherwise have received. Pet. App. 46, 
+50; Tr. 92, 1197-1198. 
+
+b. Development _of the __Post-Enumeration 
+Survey. The problem of differential undercount in the 1990 
+census was neither new nor unexpected. By the 1950’s, the 
+Bureau and academic researchers had developed reliable 
+techniques of demographic analysis (monitoring national 
+population change through records of births, deaths, 
+
+
+immigration and emigration) and were able to confirm 
+
+
+differential undercounts of blacks in the 1940 and 1950 
+decennial censuses. Pet. App. 39, 49-50; Tr. 496, 506. 
+By the 1960 census, additional population research advances 
+allowed the Bureau to begin to evaluate the census’s 
+deficiencies through “dual-system estimation ” Pet. App. 
+7. To simplify, dual-system estimation involves the use of 
+a second survey to assess the completeness of an original 
+count: a sample is drawn from the population to have been 
+counted, the percentage of the sample actually counted is 
+determined and an estimate of undercount is made on the 
+basis of the portion of the sample found not to have been 
+reached. Pet. App. 51; Tr. 506-507. Dual-system 
+estimation checks were incorporated into the 1960 and 1970 
+census processes; along with demographic analysis at the 
+national level, the Bureau’s dual-system estimation 
+confirmed the persistence of differential undercounting. 
+
+
+Pet. App. 52. In 1980 the Bureau designed and executed 
+
+
+-10- 
+
+
+the “Post-Enumeration Program” (“PEP”), a more 
+ambitious version of the evaluative procedures that had been 
+used to measure undercount in the previous two decennial 
+censuses. Pet. App. 50 n.3. The PEP, like demographic 
+analysis, showed another severely differential undercount in 
+the 1980 census. Pet. App. 50. 
+
+Bureau personnel were troubled by the persistence 
+of the differential undercount. To them, as to outside 
+researchers, it had become plain that no combination of 
+“outreach” programs and energetic canvassing would 
+alleviate the problem. Tr. 506, 1291-1292. By 1984 the 
+Bureau had embarked on a systematic sesserche program to 
+develop a more ‘sophisticated dual-system estimation 
+technique that would be usable not only to evaluate the 
+extent of census coverage deficiencies but to correct them 
+and thereby improve the accuracy of the count. Tr. 516- 
+
+
+521. The technique, based upon improvements in the 1980 
+
+
+-|]- 
+
+
+PEP, was named the “Post-Enumeration Survey” (“PES”). 
+Tr. 1297. In congressional testimony and appearances 
+before professional organizations in 1986 the Bureau’s 
+senior staff reported on the successes of their developing 
+design; simultaneously, test censuses allowed the Bureau to 
+ascertain that individual components of the PES, and the 
+PES overall, functioned as intended. Pet. App. 50-53; Tr. 
+621-622, 1298-1301, 1307-1308. 
+
+c. Commencement _of _this __litigation. 
+Development of the PES as a technique for adjustment was 
+retarded, however, in 1987, when the Department of 
+Commerce intervened and announced in a press release that 
+the 1990 census would not be statistically corrected. Pet. 
+App. 52-53; Tr. 1326. The Department's press release was 
+
+——never supplemented by any formal presentation of the 
+reasons underlying it: in broad terms, without reference to 
+
+
+the differential undercount, the Department stated merely 
+
+
+-12- 
+
+
+that the 1990 count was expected to reach 99% of the 
+national population. Tr. 1327-1332. The PES would still 
+be conducted, but its sampling design would not be 
+specifically calibrated for use in adjustment and further 
+development of adjustment techniques would be suspended. 
+
+In November 1988 the first of the three consolidated 
+lawsuits giving rise to the petitions was filed, City of New 
+York, et aJ. v. United States Department of Commerce, et 
+al., in the United States District Court for the Eastern 
+District of New York. A broad coalition of state, county, 
+city, Organizational and individual plaintiffs alleged that the 
+decision to leave the 1990 census unadjusted would 
+predictably result in a differential undercount of members 
+
+
+of minority groups.’ Plaintiffs moved for a preliminary 
+
+
+> Two other cases, initiated in 1992 in other 
+jurisdictions, were later transferred to the United States 
+District Court for the Eastern District of New York and 
+
+
+consolidated with the earlier-filed action. Pet. App. 61 
+n.14. 
+
+
+-13- 
+
+
+injunction to ensure that, pending the outcome of the 
+litigation, the PES would be conducted in a manner that 
+would permit its use for adjustment. 
+
+On July 17, 1989, the day scheduled for commencement 
+of a hearing on the motion for a_ preliminary 
+injunction, defendants agreed to a stipulation under which, 
+inter alia, the decision against adjustment was vacated and 
+the PES restored to a size (ultimately involving a sample of 
+approximately 400,000 Americans) that would make it 
+usable for adjustment. Defendants also agreed to reconsider 
+the question of adjustment with an open mind and without 
+prejudgment, to publish guidelines that would articulate the 
+considerations they intended to apply in deciding whether to 
+adjust, to release uncorrected census results (if at all) only 
+with a cautionary indication to recipients that the numbers 
+were subject to adjustment to correct for undercounting and 
+
+
+to appoint a special advisory panel comprising eight 
+
+
+-14- 
+
+
+members, four of whom would be selected by the Secretary 
+from a list of seven to be proposed by plaintiffs and four of 
+whom would be selected independently by the Secretary. 
+Pet. App. 96-120. 
+
+In the spring of 1990 defendants promulgated 
+guidelines in purported compliance with the 1989 
+stipulation. Plaintiffs challenged the guidelines on the 
+grounds that they reflected an impermissible bias in favor 
+of the unadjusted count, that they reflected an intention to 
+predicate the adjustment decision on factors other than 
+accuracy and that they failed to set forth the technical 
+considerations (as opposed to generalized statements of 
+policies) that defendants would weigh in their decision. The 
+district court upheld the guidelines. Pet. App. 96-120. 
+Limiting itself to consideration of whether the guidelines 
+satisfied the 1989 stipulation -- i.e., forgoing consideration 
+
+
+of whether the guidelines satisfied constitutional 
+
+
+-15- 
+
+
+requirements -- the court found that, although “[d]efendants 
+[had] done the bare minimum” and “the issue [was] indeed 
+close, defendants [had] satisfied their obligations thus far.” 
+Pet. App. 116. 
+
+Both the 1990 census and the PFS, conducted as 
+part of the census, took place as scheduled. As anticipated, 
+and as discussed above, the uncorrected census was affected 
+by a severely differential undercount. 
+
+The -Bureau—determined that the differential 
+undercount in the uncorrected census could be substantially 
+ameliorated through adjustment. Pet. App. 59. The 
+Bureau’s director, Barbara E. Bryant, formally 
+recommended to Secretary Robert A. Mosbacher that the 
+1990 census be adjusted. Pet. App. 59. 
+
+d. é ision. Secretary 
+Mosbacher rejected that recommendation. At the outset of 
+
+
+his decision, he acknowledged the net undercount and the 
+
+
+-16- 
+
+
+ee ere ee eee Ye ae 
+
+
+ier. 
+
+
+severely differential undercount in the uncorrected census. 
+Pet. App. 138-139. The Secretary acknowledged too that 
+the Bureau had found that adjustment would improve 
+distributive accuracy for places containing two-thirds of the 
+national population. Pet. App. 141-142. He conceded that 
+“the PES was a generally high-quality survey that was well- 
+executed” and that “[t}here is little doubt that the PES 
+detected an overall undercount in the census and a 
+differential undercount at the national level by race and 
+ethnic origin.” Pet. App. 169. Nonetheless, the Secretary 
+decided against adjusting the census to correct for the 
+differential undercount. 
+Proceedings Below 
+
+5. On Secretary Mosbacher’s announcement of 
+his decision, plaintiffs challenged his refusal to accept the 
+recommended adjustment. In May 1992, after extensive 
+
+
+discovery, the district court presided over a 13-day trial, at 
+
+
+ih 
+
+
+which testimony was offered from 14 statisticians and 
+demographers. Pet. App. 61. 
+
+The evidence at trial demonstrated that the Bureau's 
+own research, which formed the basis for its director's 
+| recommendation in favor of adjustment, showed that the 
+adjusted counts provided superior distributive (as well as 
+numeric) accuracy. Plaintiffs demonstrated (and the point 
+has not been contested by respondents) that adjustment 
+would alleviate the differential undercount of minorities, 
+improving distributive accuracy for demographic groups’ 
+shares of the population. Pet. App. 94-95; Tr. 1197-1198. 
+
+The basis for the Bureau’s conclusion, and thus the 
+heart of plaintiffs’ case, included comparison of the 
+adjusted and unadjusted data with demographic analysis, Tr. 
+883-895; evaluation of potential sources of error in the 
+PES, Tr. 250-251, 646-648, 1500-1502; confirmation that 
+
+
+patterns of undercount described by the PES corresponded 
+
+
+-18- 
+
+
+2 bdhieteetunn's 
+
+
+iets ees 
+
+
+with Bureau experts’ expectations, based upon decades of 
+study of the problem of differential undercount, Tr. 645, 
+1543-1547; and systematic comparison of errors in the 
+adjusted and unadjusted counts (“loss function analysis”), 
+Tr. 596-601, 925-970.* 
+
+The Bureau’s analyses showed that adjustment would 
+dramatically increase the accuracy of the census. Tr. 935- 
+970. The analyses proved that adjustment would increase 
+numeric accuracy, of course, but, more important, they 
+showed dramatic increases in distributive accuracy in terms 
+of the apportionment of the House of Representatives, 
+demographic groups as shares of the national population, 
+States as proportions of the nation, components of states as 
+
+
+proportions of their respective states and areas of the nation 
+
+
+* For a general discussion of the application of loss 
+function analysis to the decision whether to adjust the 
+census, see C. Citro & M. Cohen (eds.), The Bicentennial 
+
+: New Directi 278-292 
+(1985) (Plaintiffs’ Exhibit 2). 
+
+
+-19- 
+
+
+in various size categories as proportions of the nation. 
+Those analyses, and testimony explaining and expanding 
+upon them, were introduced into evidence at trial. Id. 
+
+At trial, plaintiffs also showed that the Secretary’s 
+characterization of the Bureau’s analyses betrayed either a 
+misunderstanding or misuse of the data. For example, the 
+Secretary reported that the Bureau’s analysis showed that 
+adjustment would “worsen” accuracy for 21 states (in terms 
+of shares of the national population) and, with a 
+modification of the Bureau’s analysis, would “worsen” 
+accuracy for 28 or 29 states. But that report reflected two 
+fundamental errors: the Secretary was ignoring both the 
+magnitudes and the probabilities of the errors. Adjustment 
+would most clearly improve distributive accuracy where it 
+has the greatest impact, in states such as California and 
+Wisconsin that have very large relative undercounts or 
+
+
+overcounts. In states with small relative under- or 
+
+
+ee the A ATE ee Lt ge a lc At Me 
+
+
+overcounts, i.e., where the difference between the 
+unadjusted and the adjusted shares is small, it is less clear, 
+but also less important, whether adjustment represents an 
+improvement in distributive accuracy. Many of the states 
+that the Secretary said would be “worsened” by adjustment 
+would in fact be virtually unaffected: adjustment would 
+have changed their shares of the national population too 
+little for any practical impact in terms of representation, 
+
+funding or anything else. Ignoring the constitutionally 
+primary purposes of the census and the indisputable 
+improvement in census accuracy adjustment was shown to 
+have for those purposes, the Secretar,’ focused on potential 
+
+errors of no constitutional moment. Pet. App. 77. See Tr. 
+
+993-1075. And many of the states that the Secretary said 
+
+would be “worsened” had probabilities of improvement 
+that, though less than even, were not far from it. The 
+
+
+Secretary ignored the fact, clearly presented in the Bureau’s 
+
+
+-21- 
+
+
+analyses, that the large improvements to be achieved from 
+adjustment were much more likely than the marginal 
+“disimprovements.” Tr. 995, 1001-1075. The Secretary 
+also ignored the fact that the places clearly improved 
+contained the great majority of the nation’s population.° 
+Referring specifically to the Bureau’s analyses (and 
+the Secretary’s interpretation of them), the district court 
+stated, “This Court is satisfied that for most purposes the 
+PES resulted in a more accurate -- or to be statistically 
+fashionable, less inaccurate -- count than the original 
+census,” Pet. App. 59, and found that “plaintiffs have made 
+a compelling attack . . ., and the Secretary has conceded 
+that the objective criteria used to measure the adjusted 
+
+
+counts show a greater numeric accuracy at the national level 
+
+
+5 In the court of appeals, the United States conceded 
+the defects just mentioned in the Secretary's attempted 
+analysis of the number of states whose shares could be 
+expected to be improved or worsened by adjustment. 
+Federal Appellees’ Court of Appeals Brief 47 n.16. 
+
+
+-22- 
+
+
+and that the Census Bureau estimates of distributive 
+accuracy marginally favor the adjusted counts,” Pet. App. 
+77. The district court agreed with plaintiffs that 
+“adjustment is statistically feasible, and would improve the 
+quality of the counts for most purposes while ameliorating 
+the profoundly disturbing problem of differential 
+undercount,” Pet. App. 94-95, and stated that, “were this 
+Court calied upon to decide this issue de novo, I would 
+probably have ordered the adjustment,” Pet. App. 89. But 
+the court concluded that its role was limited to determining 
+whether the Secretary’s decision was arbitrary and 
+capricious, Pet. App. 90-91, when measured against the 
+Secretary's Guidelines, see Pet. App. 69. So limited, the 
+court determined that “the Secretary’s decision not to adjust 
+is [not] so far beyond the pale of reason as to be arbitrary 
+or capricious,” Pet. App. 89. Although the court undertook 
+
+
+no independent analysis of the constitutionality of the 
+
+
+-23- 
+
+
+Secretary’s decision, the court concluded, based on its 
+finding that the Secretary’s decision was not arbitrary or 
+capricious that the decision “does not violate the 
+[Administrative Procedure Act, 5 U.S.C. § 706(2)(A) 
+(“APA”)], the Constitution, the [July 1989] Stipulation, or 
+any statute.” Pet. App. 94. 
+
+2. On appeal, plaintiffs argued that the district 
+
+
+court had adopted the wrong standard for review of the 
+
+
+Secretary’s decision. Plaintiffs contended that the 
+Secretary’s decision affected constitutional rights, because 
+the differential undercount had been shown to result in a 
+malapportionment of the House of Representatives and to 
+affect intra-state redistricting, and that the district court’s 
+deferential review of his decision was therefore erroneous. 
+
+
+Plaintiffs argued that the district court should have reviewed 
+
+
+the Secretary’s decision de novo. 
+
+
+-24- 
+
+
+The court of appeals agreed with plaintiffs that the 
+lower court had erred in the deference it accorded the 
+Secretary but rejected plaintiffs’ argument for de novo 
+review. The court of appeals reasoned that, since this case 
+involves claims that the unadjusted census deprives citizens 
+of equal votes by diluting the voting strength of residents of 
+areas with high undercount, the Secretary’s decision was to 
+be reviewed under a line of analysis that begins with Baker 
+y. Carr, 369 U.S. 186 (1962), and continues through 
+Karcher v. Daggett, 462 U.S. 725 (1983). Pet. App. 26- 
+31. That line of cases, according to the court of appeals, 
+(1) requires that, as near as practicable, one person’s vote 
+must be worth as much as another’s; (2) holds that the right 
+to vote is impaired by dilution as well as by complete 
+disenfranchisement; and (3) imposes upon States the 
+obligation to make a good-faith effort to achieve the goal of 
+
+
+one-person, one-vote. Pet. App. 31. The court of appeals 
+
+
+-25- 
+
+
+concluded that the same reasoning applies, mutatis 
+
+
+mutandis, to federal decisions bearing on equality of 
+representation. Because of separation of powers 
+considerations, the court of appeals determined, de novo 
+review would be inappropriate _ Pet. App. 34. And 
+because of constitutional constraints, precise equality of 
+populations in congressional districts cannot be maintained 
+across state lines. Nonetheless, the court of appeals 
+
+
+reasoned that recent decisions of this Court, including 
+
+
+United States Dep’t of Commerce v. Montana, 503 U.S. 
+442, 463-464 (1992), and Franklin v. Massachusetts, 
+U.S. __, 112 S.Ct. 2767, 2777 (1992), teach that a gooJ- 
+faith effort to achieve equality of voting power as nearly 2s 
+is practicable is required of federal officials in the discharge 
+of responsibilities to conduct and report the census. Pet. 
+
+
+App. 34-35. 
+
+
+“ en ero 
+
+
+oa ee ee ee ee 
+
+
+Ain, 
+
+
+ii. 
+
+
+Biss 
+
+
+Applying Karcher v. Daggett, 462 U.S. at 730-731, 
+the court of appeals held that the burden was initially on 
+
+
+plaintiffs to show that the Secretary had failed to make a 
+good-faith effort to achieve a census as accurate as 
+practicable. Pet. App. 36-37. The court held that plaintiffs 
+had met that burden by demonstrating that the adjusted 
+counts were generally more accurate, especially with 
+respect to alleviating the differential undercount of 
+minorities, and by showing that the Secretary had declined 
+to adopt the more accurate adjusted counts because he 
+remained uncertain about distributive accuracy at some 
+smaller geographic levels. Pet. App. 38-39. 
+
+Following Karcher, 462 U.S. at 740, the court of 
+appeals concluded that plaintiffs’ proof sufficed to shift the 
+burden to the Secretary to show that use of the less accurate 
+unadjusted census data “(a) furthers a governmental 
+
+
+objective that is legitimate, and (b) is essential for the 
+
+
+-27- 
+
+
+achievement of that objective.” Pet. App. 37, 40. The 
+court of appeals remanded the case to permit the Secretary 
+
+
+to essay that demonstration. 
+
+
+REASONS FOR DENYING THE PETITION 
+
+
+3. The Petitions Fail to Present Unusual 
+Circumstances Warranting Interlocutory 
+Revie 
+
+
+The petitions seek interlocutory review by this 
+Court. As the United States recognizes, “The court of 
+appeals in this case did not squarely hold that the 
+Secretary’s decision against adjustment violated the 
+Constitution.” U.S. Pet. 28. Nor did the court of appeals 
+discuss appropriate relief to be awarded by the district 
+court, should that court on remand find in favor of 
+plaintiffs. Ordinarily, the writ of certiorari is not granted 
+to review interlocutory orders. See Virginia Military 
+Institute v. United States, U.S. __, 113 S.Ct. 2431 
+
+
+-28- 
+
+
+eee. Vets Med RR DR Tent tee a Gk OF thet 
+
+
+(1993) (Scalia, J., concurring) (“We generally await final 
+judgment in the lower courts before exercising our 
+certiorari jurisdiction”) (collecting cases). Issuance of a 
+writ of certiorari in cases presented for review of 
+interlocutory orders is confined to instances in which review 
+“iS necessary to prevent extraordinary inconvenience and 
+embarrassment in the conduct of the cause.” American 
+Construction Co. v. Jacksonville, T. & K. R. Co., 148 
+U.S. 372, 384 (1893). “[E)xcept in extraordinary cases, 
+the writ is not issued until final decree.” Hamilton-Brown 
+Shoe Co. v. Wolf Bros. & Co., 240 U.S. 251, 258 (1916). 
+See R. Stern, E. Gressman, S. Shapiro & K. Geller, 
+Supreme Court Practice § 4.18, pp. 195-198 (1993). 
+Wisconsin and Oklahoma do not, in their petitions, 
+acknowledge that they seek review of an interlocutory 
+order; accordingly, they present no extraordinary 
+
+
+circumstances to justify issuance of the writs they seek. 
+
+
+-29- 
+
+
+The United States, by contrast, admits that “the 
+interlocutory posture of the case might in other 
+circumstances weigh against review by this Court,” but 
+suggests that “unusual circumstances” warrant review now. 
+U.S. Pet. 28. 
+
+The United States identifies only two “unusual 
+circumstances” to justify the grant of certiorari at this stage 
+of the litigation. First, the United States argues that the 
+failure to grant review will mean that “this case may well 
+remain unresolved at or near the time of the 1996 
+presidential and congressional elections, [which] could be 
+avoided if this Court grants review at this time.” U.S. Pet. 
+29. Obtaining two extensions of time in the process, the 
+United States delayed until June 1995 to file a petition for 
+review of the court of appeals’ decision, rendered in August 
+1994: were the United States seriously committed to 
+
+
+expedited resolution of this case, its prompt filing of a 
+
+
+petition for certiorari would have permitted denial of the 
+petition for interlocutory review, remand to the district 
+court and review by this Court after final judgment before 
+the 1996 elections. Having acted tardily, the United States 
+should not now be heard to invoke an exigency of its own 
+making as a basis for interlocutory review. In any event, 
+this case was also unresolved at the time of the 1992 
+presidential and congressional elections (at which time the 
+case had been tried to the district court and a decision after 
+trial was pending) and at the time of the 1994 congressional 
+elections (at which time the case had been decided by the 
+
+court of appeals and petitions for rehearing filed by the 
+
+states of Wisconsin and Oklahoma were sub judice). The 
+
+United States cites nothing to suggest that any uncertainties 
+created by the pendency of the district court’s decision in 
+
+1992 or the existence of the unreviewed court of appeals 
+
+
+decision in 1994 created any extraordinary inconvenience or 
+
+
+x} - 
+
+
+embarrassment for anyone at all, let alone petitioners in 
+particular.° 
+
+The second putatively “unusual circumstance” the 
+United States identifies is that “[nJo further proceedings are 
+needed to clarify the issues presented or to render the case 
+suitable for resolution by this Court.” U.S. Pet. 29. Far 
+from being unusual, however, that is the status petitioners 
+can commonly claim in cases in which a court of appeals 
+vacates the judgment of a district court and remands for 
+further proceedings. That was, for example, the situation 
+in Virginia Military Institute, in which the court denied a 
+petition for certiorari after the court of appeals had vacated 
+
+
+the judgment of the district court in favor of Virginia 
+
+
+© Indeed, the situation in the fall of 1994 was more 
+uncertain than it is now, since it was understood then that 
+the federal defendants would probably not be seeking 
+review of the court of appeals’ decision. See B. Vobejda, 
+“Administration Lets Census Ruling Stand; Decision Awaits 
+on Use of Adjusted Numbers,” Washington Post 
+(September 22, 1994), at A18. 
+
+
+- Se 
+
+
+Military Institute and remanded the case for determination 
+of an appropriate remedy. Concurring in the denial of the 
+petition for certiorari, Justice Scalia noted his view that it 
+was “prudent” to defer review until “the litigation below 
+has come to final judgment.” 
+
+Similar prudence is appropriate here. The United 
+States offers as the question presented by its petition that of: 
+“Whether the decision of the Secretary of Commerce not to 
+undertake a statistical adjustment of the 1990 census 
+violated the Constitution.” U.S. Pet. i. But the United 
+States also acknowledges that the court of appeals did not 
+“squarely” address that question. U.S. Pet. 28. And 
+although the district court summarily concluded that the 
+Secretary’s decision did not violate the Constitution, inter 
+alia, Pet. App. 94, the thrust of that court’s analysis was 
+directed at determining whether the decision was arbitrary 
+
+
+and capricious in light of the Secretary’s guidelinés and 
+
+
+-33- 
+
+
+under the APA, Pet. App. 61-91. Thus, if this Court grants 
+the pending petitions, it will be (on the United States’ own 
+view of the case) the first tribunal to consider whether the 
+Secretary’s decision violated the Constitution. Because this 
+Court does not “ordinarily address for the first time . . . an 
+issue which the Court of Appeals has not addressed,” J. 
+Truett Payne Co. v. Chrysler Motors Corp., 451 U.S. 557, 
+568 (1981), respondents submit that that is not a basis for 
+the prudent exercise of certiorari jurisdiction. 
+
+Other related considerations yield the same conclusion. 
+The present state of the record, despite the United States’ 
+assurances, requires at least some modest additions. 
+Consider, for example, the question of the Bureau’s best 
+current estimate of overall undercount in the uncorrected 
+1990 census. In its petition, the United States first 
+acknowledges that the Secretary of Commerce estimated the 
+
+
+overall undercount to be 2.1% of the national 
+
+
+population. U.S. Pet. 4, citing Pet. App. 158. Then the 
+United States says that the Bureau subsequently 
+“represented at the trial in this case that the undercount was 
+1.6% of the population." U.S. Pet. 4, citing Pet. App. 58 
+n.12. The cited source is in the trial court’s opinion, but 
+not from the trial: it reflects the district court’s reading of 
+a newspaper story that appeared in December 1992, more 
+than a half year after the trial ended and the record closed. 
+Next, citing a 1993 publication by Barbara E. Bryant, then 
+Director of the Bureau, the United States says the Bureau 
+subsequently lowered its estimate of the undercount to 0.9% 
+to 1.2%. U.S. Pet. 4.4. Finally, citing no source at all, 
+the United States asserts that, “The Commerce Department 
+now believes, however, that 1.6% is the correct estimate of 
+the undercount.” 
+
+The United States is not prepared to stipulate that — 
+
+
+the outcome of a remand is a foregone conclusion. The 
+
+
+-35- 
+
+
+Second Circuit imposed upon the Secretary, on remand, a 
+precisely stated burden: to show that the decision against 
+adjustment “(a) furthers a governmental objective that is 
+legitimate, and (b) is essential for the achievement of that 
+objective.” Pet. App. 40. That burden, to be sure, is more 
+onerous than what the district court required of the 
+Secretary. But the United States has not claimed that the 
+standard dictates the result. We do not believe it can be 
+inferred from the United States’ silence in its petition that, 
+on remand, the United States will deem itself bound to 
+confess judgment. On the contrary, we believe that this 
+Court should have the benefit of the United States’ proffer 
+and its disposition by the lower courts. 
+
+Finally, no court has yet considered what, if any, 
+relief would be appropriate upon plaintiffs’ proof of their 
+claims. The United States has specifically reserved at least 
+
+
+the argument that, even were the case remanded to the 
+
+
+oe 
+
+
+district court and the district court to enter judgment in 
+favor of plaintiffs, an order requiring reapportionment of 
+the House of Representatives would be inappropriate. U.S. 
+Pet. 27 n.24. There is no suggestion in any of the 
+petitions, nor anywhere else in the record, that this case is 
+one in which interlocutory review is needed to protect 
+petitioners against injuries that would occur as a 
+consequence of the entry of a final judgment in plaintiffs’ 
+favor and that could not be completely redressed through 
+full review after final judgment in keeping with this Court’s 
+usual practice. 
+
+2. The Decision of the Court of Appeals, 
+
+
+Which Vacated the Judgment of the 
+District Court and Remanded the Case for 
+
+
+Further Proceedings, Was Correct __ 
+Petitioners’ argument that no further proceedings are 
+necessary before review of the court of appeals’ decision 
+
+
+rests fundamentally on the claim that that decision is so 
+
+
+obviously and grievously flawed that it merits immediate 
+
+
+x... 
+
+
+reversal. The United States purports to identify three major 
+defects in the court of appeals’ decision: that the court of 
+appeals erroneously preferred numeric to distributive 
+accuracy and rejected the Secretary’s well-reasoned reliance 
+on distributive accuracy, U.S. Pet. 22; that the court of 
+appeals had no basis for its conclusions that plaintiffs had 
+shown the adjusted data to be more accurate and that 
+plaintiffs had shown the Secretary’s contrary determination 
+did not reflect an effort to achieve the most accurate census 
+practicable, U.S. Pet. 23; and that the court of appeals 
+wrongly mandated heightened scrutiny of the Secretary’s 
+decision merely because that decision had a racially 
+disparate impact, U.S. Pet. 23-26. In fact, the court of 
+appeals’ decision reflects no misunderstanding of the 
+Secretary’s decision or the record of the case and no 
+
+
+departure from this Court’s precedents. 
+
+
+-38- 
+
+
+a. There is not, and never has been, any dispute in 
+this litigation (or among experts on the adjustment issue) 
+that distributive accuracy is the object of adjustment. 
+Virtually all of the loss function analyses conducted by the 
+Bureau and presented at trial were comparisons of 
+distributive accuracy. See Pet. App. 366 (Bureau used 
+“loss function analysis to assess the accuracy of the 
+distributions of population across states, places, and 
+counties for the adjusted and unadjusted census”). That is 
+apparent from the district court’s opinion, which explicitly 
+accepts the primacy of distributive accuracy, Pet. App. 77, 
+and, equally explicitly, finds that the Bureau’s analyses 
+demonstrated the superior accuracy of the adjusted counts 
+“for most purposes,” Pet. App. 59. The parties’ dispute 
+over those analyses was not over whether distributive 
+accuracy was the appropriate criterion for decision. Rather, 
+the dispute was over whether the Secretary, by rejecting the 
+
+
+-39- 
+
+
+Bureau’s analyses of « stributive accuracy ir favor of his 
+own interpretations of xe data, decided against the most 
+distributively accurate census practicable. See Pet. App. 
+21. 
+
+The United States asserts that the court of appeals, 
+erroneously preferring numeric to distributive accuracy, 
+faulted the Secretary for his contrary preference, while 
+“entirely fail[ing] to explain how the goal of equal 
+representation for equal numbers of people in the several 
+States could be better served by focusing on the total 
+numeric accuracy of the census figures at the national 
+level.” U.S. Pet. 22 (emphasis in original). But that 
+assertion misstates the court of appeals’ analysis. The 
+critical paragraph in the court of appeals’ decision, in which 
+the court explained the basis for its conclusion that the 
+Secretary’s judgment was not made in good faith, is as 
+
+
+follows: 
+
+
+In the present case, the findings of the 
+district court . . . plainly show that plaintiffs 
+carried their burden of proving that the 
+Secretary’s refusal to adjust the census in 
+accordance with the PES did not reflect an 
+effort to achieve equality as nearly as 
+practicable. Those findings are supported 
+by, imter alia, the Secretary’s 
+acknowledgement that the PES-indicated 
+adjustments would likely not only make the 
+census more accurate nationally, but would 
+also reduce the disparate impact of the 
+Census’ inaccuracies on minority groups, and 
+that he gave other factors priority over 
+achievement of greater accuracy. For 
+example, he stated that he valued 
+“distributive accuracy” over numerical 
+accuracy; and in stating that an adjustment 
+would not be made because it would not 
+result in greater distributive accuracy, the 
+Secretary revealed that he would decline to 
+make the generally improving adjustment 
+that would lessen the disproportionate 
+undercounting of minorities if it would result 
+in a distribution of Representatives that 
+would be different from the present 
+distribution, although just as accurate. 
+
+
+Pet. App. 38 (emphasis in original). The court of appeals 
+did not state that it concluded numeric accuracy was more 
+
+
+important that distributive accuracy. Rather, the court gave 
+
+
+-41- 
+
+
+it as the Secretary’s conclusion that residual uncertainty 
+about what he called “distributive accuracy” was more 
+important than certainty about “lessen{ing] the 
+disproportionate undercounting of minorities” -- which he 
+called “numeric accuracy.” 
+
+The Bureau had developed the PES as a census 
+adjustment technique precisely because of a concern for the 
+distributive consequences of differential undercounting of 
+members of minority groups. Pet. App. 50-51. If 
+members of minority groups were evenly distributed 
+throughout the nation, the differential undercount would 
+have had no consequences in terms of representation or 
+funding. But they are not so distributed: they are 
+concentrated in certain areas. Pet. App. 17. That is why 
+the differential undercount has “deleterious effects on the 
+accuracy of census counts” and “unfair results aris[e] from 
+
+
+such inaccuracy,” Pet. App. 50. 
+
+
+-42- 
+
+
+The Secretary conceded that the “PES-adjusted 
+
+
+estimates reflect more accurately the total population and 
+
+
+.” Pet. App. 
+146 (emphasis supplied). With that concession, the 
+Secretary also conceded (albeit tacitly) that, ceteris paribus, 
+adjustment would improve the distributive accuracy of the 
+census. The Secretary himself chose to describe that 
+consequence, misleadingly, as only “[iJmproved numeric 
+accuracy,” Pet. App. 147. The court of appeals, by 
+contrast, recognized the distributive (i.e., geographically 
+differential) consequences of the differential undercount: 
+“The impact of the differential undercount was naturally 
+more severe in those areas in which racial and ethnic 
+minorities were more concentrated.” Pet. App. 17. The 
+court of appeals’ decision reflects a primary concern with 
+the distributive consequences of the undercount; 
+
+
+understandably, the decision does not present a justification 
+
+
+-43- 
+
+
+for a preference for numeric accuracy, because the decision 
+reflects no such preference. 
+
+b. The United States discounts as unexplained 
+the district court’s several findings that the adjusted data 
+had been shown to be more accurate. U.S. Pet. 23. But 
+the district court’s statement that it was “satisfied that for 
+most purposes the PES resulted in a more accurate” census, 
+Pet. App. 59, follows a description of how the Bureau 
+measured error in the PES and compared the accuracy of 
+the adjusted and the unadjusted counts, id. That analysis 
+formed the basis for the district court’s further statement 
+that, had it been considering the issue de novo, it “would 
+probably have ordered the adjustment.” Pet. App. 89. 
+Those findings provide a solid basis for the court of 
+appeals’ conclusion that plaintiffs had shown the adjusted 
+
+
+counts to be more accurate. 
+
+
+Because it confined itself to determining whether 
+“the Secretary’s conclusions under each guideline” were 
+arbitrary and capricious, the district court did not set aside 
+the Secretary’s decision. Pet. App. 89. Deferring to the 
+Secretary’s authority both to set the criteria for decision by 
+creating the guidelines and to decide the adjustment issue by 
+applying his guidelines, the district court concluded that 
+“under Guideline One, the presumption of accuracy runs in 
+favor of the original census count,” Pet. App. 84, and thus 
+that the Secretary’s decision would stand unless plaintiffs 
+demonstrated the superior accuracy of the adjusted counts 
+both (1) at every level mentioned in Guideline One, and (2) 
+for every reasonable definition of accuracy, Pet. App. 78. 
+Invoking that high standard, the district court deferred to 
+the Secretary’s interpretation of the loss function analysis 
+for states and his stated concern about the absence of 
+
+
+“direct evidence” for improvement of distributive accuracy 
+
+
+-45- 
+
+
+for places of under 100,000 persons.’ Pet. App. 78. In the 
+district court’s view, all of the evidence that had satisfied 
+
+
+that court that the adjusted counts were more accurate, Pet. 
+
+
+’ The Secretary’s ostensible concern about the absence 
+of “direct evidence” for places of under 100,000 population 
+disregarded the Bureau’s conclusions that “adjusted counts 
+are generally more accurate” for small areas and the 
+specific results of Bureau analyses showing improved 
+distributive accuracy for “metropolitan places of less than 
+25,000, 25,000-49,000 and 50,000 or more, and for 
+nonmetropolitan places less than 25,000 and 25,000-49,000 
+in total,” Pet. App. 192. 
+
+Another ostensible concern mentioned by the 
+Secretary -- that adjustment would worsen distributive 
+accuracy for 11 of 23 cities with populations over 500,000, 
+Pet. App. 141 -- was not discussed at trial because 
+defendants there never relied upon it. In stating that 
+concern the Secretary’s decision repeats both of the 
+mistakes identified with respect to the Secretary’s report 
+that adjustment would “worsen” distributive accuracy for 
+more than twenty states -- disregard of both magnitude and 
+probability of error. See above, pp. 20-22. Moreover, the 
+loss function analysis for large cities considers only the 
+cities’ relative shares of the population living in such cities 
+-- not the cities’ shares of the national population or of their 
+respective states. Large cities do not compete directly (let 
+alone exclusively) with one another for representation or 
+funding. The comparison, even if properly executed, thus 
+involves a factor of no constitutional (or other legal) 
+significance. 
+
+
+App. 59, was insufficient to overcome the powerful 
+presumption created by Guideline One. 
+
+The court of appeals disapproved the district court’s 
+extreme deference. Following this Court’s teaching in 
+Montana, 503 U.S. at 460-464, and on the analysis therein 
+of the line of authority that runs from Wesberry v. Sanders, 
+376 U.S. 1 (1964), through Karcher v. Daggett, 462 U.S. 
+725 (1983), the court of appeals observed that the 
+requirement of a “good-faith effort” to achieve equality, 
+where allocation of political representation is at issue, is 
+imposed on federal, as well as state, actors. The court of 
+appeals recognized that constitutional constraints on the 
+apportionment of the House of Representatives mean that 
+“the goal of precise equality in voting power is ‘illusory for 
+the Nation as a whole,’” Pet. App. 35 (quoting Montana, 
+
+
+503 U.S. at 463), but concluded that “[tJhe impossibility of 
+
+
+-47- 
+
+
+achieving precise mathematical equality is 20 excuse for not 
+making this mandated good-faith effort.” Pet. App. 35. 
+Applying the analytic framework of Karcher, 462 
+U.S. at 730-731, the court of appeals accepted the district 
+court’s finding that the adjusted counts had been shown to 
+be more accurate, Pet. App. 21-22, and proceeded to the 
+question of whether plaintiffs had carried their burden of 
+showing the decision to use less accurate data “was not the 
+product of a good-faith effort to achieve equality,” Pet. 
+App. 37. In considerable detail, the court of appeals 
+spelled out the bases for its determination that plaintiffs had 
+carried that burden. Pet. App. 38-39. 
+Despite the United States’ argument, U’S. Pet. 16- 
+17, nothing in Franklin v. Massachusetts is to the contrary. 
+Franklin holds that the standard for reviewing a decision by 
+the Secretary concerning conduct of the census is 
+“consisten[cy] with the constitutional language and the 
+
+
+. 3 an Alte abe. 
+Oe OF ee mt AGN Rtg te AA em OS a 
+
+
+constitutional goal of equal representation.” Franklin, 112 
+S.Ct. at 2777 (emphasis supplied). The court of appeals 
+explicitly applied the Franklin standard in determining that 
+the Secretary was “required to make a good-faith effort to 
+achieve the Constitution’s plain objective of equal 
+representation for equal numbers of people.” Pet. App. 35. 
+G. The court of appeals did not proceed in 
+contravention of Washington v. Davis , 426 U.S. 229 
+(1976). Citing Washington, the court explained that 
+“[a]lthough for most types of equal protection claims, a 
+plaintiff must show that the government’s discrimination 
+was intentional, the Supreme Court has not imposed such a 
+requirement in any of the cases involving apportionment.” 
+Pet. App. 35-36 (citations omitted). In such cases, a 
+plaintiff is required to show only “that the governmental 
+entity failed to make a good-faith effort to achieve equal 
+
+
+districts as nearly as practicable.” Pet. App. 36. The court 
+
+
+of appeals also explained that the right sought to be 
+vindicated in apportionment cases is one of equal 
+protection.* Pet. App. 31. 
+
+The racial and ethnic character of the differential 
+undercount is relevant because it establishes that the 
+uncorrected census compromises the equality of allocations 
+of political representation based thereon. The court of 
+appeals stated that, “[iJn general, if a law alleged to 
+infringe a certain right directly would require a heightened 
+degree of scrutiny, heightened scrutiny should also be given 
+when the law is alleged to infringe that right 
+discriminatorily.” Pet. App. 33. The heightened scrutiny 
+is occasioned by the nature of the right infringed, not by the 
+fact of direct or discriminatory infringement. Thus, the 
+
+
+court of appeals did not conclude that heightened scrutiny 
+
+
+8 “Equal protection analysis in the Fifth Amendment 
+area is the same as that under the Fourteenth Amendment. 
+
+
+Buckley v. Valeo, 424 U.S. 1, 93 (1976). 
+-50- 
+
+
+was warranted simply because the differential character of 
+the undercount peculiarly affects minorities. And surely a 
+decision that impairs equal representation is subject to no 
+lower scrutiny simply because a disproportionate number of 
+those whose voting strength is diluted are members of 
+minority groups. 
+
+By recasting the issue as one involving the necessity 
+of proving intent, the United States avoids any discussion of 
+
+
+the court of appeals’ actual analysis.? Notably, though 
+
+
+” The United States, admitting that “it is undisputed that 
+racial minorities were disproportionately undercounted in 
+the 1990 census,” then argues that it has not been shown 
+“that a failure to adjust the census totals would in turn have 
+a disparate racial impact with respect to the proper 
+allocation of Representatives among the States, the only 
+constitutionally prescribed use of census data.” U.S. Pet. 
+26. In terms of the apportionment of the House, the 
+adjustment considered by the Secretary in 1991 would have 
+shifted two seats, one from Wisconsin to California, one 
+from Pennsylvania to Arizona. In each instance, a seat 
+would have shifted from a state with a disproportionately 
+white population and lower-than-average undercount to a 
+state with a disproportionately non-white population and 
+greater-than-average undercount. Thus, on average, 
+adjustment would have increased the representational 
+
+
+-51- 
+
+
+proclaiming that the decision against adjustment was made 
+without discriminatory animus, the Untied States fails to 
+assert that it was made in a good faith effort to enhance 
+census accuracy. Similarly, the United States fails to 
+explain what legitimate governmental objective reliance 
+upon the unadjusted count is essential to achieve. On 
+remand, the United States will have the opportunity to 
+complete the record in this case by proffering such an 
+
+
+explanation. 
+
+
+3. There Is No Conflict among the Courts of 
+Appeals to Warrant Review by This Court 
+
+
+Dissenting in the court of appeals below, the late 
+Judge Timbers stated that “[t]he only two other circuits that 
+
+
+have ruled on this issue have agreed with Judge 
+
+
+strength of areas with higher concentrations of minorities. 
+Obviously, the shifted seats might have been filled by white 
+Representatives. But the Constitution guarantees only that 
+electoral power will be allocated to constituencies on a 
+racially-neutral basis, not that the racial composition of any 
+legislature will reflect national demographic proportions. 
+
+
+-52- 
+
+
+a on 
+
+
+me a ten ed tet 
+
+
+McLaughlin,” citing City of Detroit v. Franklin, 4 F.3d 
+1367 (6th Cir. 1993), cert. denied, U.S. ___, 114 S.Ct. 
+1217 (1994); Tucker v. United States Dep’t of Commerce, 
+958 F.2d 1411 (7th Cir.), cert. denied, U.S. ___, 113 
+S.Ct. 407 (1992). Judge Timbers thus described the Second 
+Circuit’s decision as “creat[ing] a conflict among the 
+circuits.” Pet. App. 40. 
+
+It is true that neither the Sixth nor the Seventh 
+Circuit ordered that the census be statistically adjusted or 
+held that the Secretary’s decision violated the Constitution. 
+But neither did the Second Circuit order an adjustment or 
+conclude that a constitutional violation had occurred. In 
+fact, examination of the relevant decisions reveals that, 
+notwithstanding the dissent in the Second Circuit, the three 
+cases addressed different issues under different analyses; 
+there is no conflict among them, certainly none that 
+
+
+warrants review now by this Court. 
+
+
+-53- 
+
+
+Tucker was the first of the three cases to be 
+decided." While the census, including the PES, was still 
+being conducted, and thus before Secretary Mosbacher had 
+announced his decision concerning adjustment, the Tucker 
+plaintiffs sought an order that the census be adjusted by 
+unspecified means to correct for undercounting in Illinois."' 
+Tucker v. United States Dep’t of Commerce, 135 F.R.D. 
+175, 176 (N.D. Ill. 1991). The district court, concerned 
+
+
+10 It was not, of course, the first to be filed. The 
+present case was filed first, in 1988. Tucker was filed in 
+1990, and City of Detroit in 1991. The earlier decision in 
+Tucker is attributable to the decision of the plaintiffs in that 
+case to seek adjustment of the census without waiting for 
+Secretary Mosbacher’s decision. 
+
+
+'! The Tucker plaintiffs did not, and could not, 
+challenge the apportionment of the House of 
+Representatives, because no plausible correction for 
+undercount in the 1990 census would have added a seat to 
+(or, for that matter, subtracted a seat from) Illinois’ 
+delegation. To the extent that the Tucker plaintiffs 
+complained that they had been denied federal 
+representation, see Tucker, 135 F.R.D. at 176, their 
+complaint was that they were underrepresented vis-a-vis 
+residents of other parts of Illinois. 
+
+
+-54- 
+
+
+ali iad 
+
+
+0} ©, < 
+
+
+that the outcome of that case might differ from that in other 
+litigation, found the action non-justiciable. Id., 135 F.R.D. 
+at 181-182.. 
+
+The Seventh Circuit affirmed, on other grounds. 
+That court of appeals rejected the district court’s conclusion 
+that the case was non-justiciable as presenting a political 
+question, Tucker v. United States Dep’t of Commerce, 958 
+F.2d at 1415, but affirmed the result, holding that plaintiffs’ 
+suit was barred by the intended-plaintiff doctrine, id., 958 
+F.2d at 1416. In the view of the Seventh Circuit, the 
+Tucker plaintiffs could not show that, even assuming a 
+violation of a constitutional or statutory right, they were 
+“within the class of persons who have been given a right to 
+litigate the violation.” Id. (emphasis in original). In 
+arriving at that result, the Seventh Circuit determined only 
+that “Article I, section 2, clause 3 [(“Apportionment 
+
+
+Clause”)] does not authorize lawsuits founded on 
+
+
+-55- 
+
+
+disagreement with the Census Bureau’s - statistical 
+methodology.” Id., 958 F.2d at 1418. The Seventh Circuit 
+did not have before it, and so did not consider, a challenge 
+to the Secretary’s decision under the Fifth Amendment.” 
+In discussing its application of the intended-plaintiff 
+doctrine, the Seventh Circuit suggested that the same 
+doctrine would bar Massachusetts’ suit, which later reached 
+this Court in Franklin v. Massachusetts. Obviously, this 
+Court did not follow the Seventh Circuit’s approach, and 
+Wisconsin admits that “this Court’s decision in Franklin v. 
+Massachusetts —_ doubt on Tucker’s specific holding,” 
+Wisc. Pet. 16, while the United States does not even 
+
+
+'? Indeed, the court of appeals’ decision in Tucker 
+mentions the Secretary’s decision only once, in a passing 
+reference during a preliminary statement of the background 
+of the case. And while it is arguable that the Seventh 
+Circuit also considered the viability of a challenge under the 
+APA, see id., 958 F.2d at 1416, in context it is clear that 
+the court had in mind a general challenge to the technique 
+of census-taking adopted by the Bureau, not a specific 
+challenge to the Secretary’s actual decision. 
+
+
+-56- 
+
+
+hit 
+
+
+describe the holding in Tucker and that in this case as being 
+in conflict, U.S. Pet. 26-27. Moreover, in light of Franklin 
+v. Massachusetts, no petitioner here suggests that this Court 
+adopt the Seventh Circuit’s application of the intended- 
+plaintiff doctrine. In any event, the specific proposition for 
+which all three petitions cite the court of appeals’ decision 
+in Tucker ~ that the Apportionment Clause does not per se 
+authorize a suit founded on nothing more than a 
+disagreement with the Bureau’s census methodology” -- 
+conflicts with nothing in the Second Circuit’s decision. 
+Like Tucker, City of Detroit was a local case, 
+brought by the City of Detroit and its mayor to compel an 
+
+
+adjustment or revision of the census for Michigan alone. '* 
+
+
+' Wisc. Pet. 17, Okla. Pet. 13, U.S. Pet. 27. 
+‘* As with the Tucker plaintiffs, the Cj 
+
+
+-§7- 
+
+
+City of Detroit v. Franklin, 800 F. Supp. 539, 540 (E.D. 
+Mich. 1992). Affirming the trial court’s grant of summary 
+judgment, id., 800 F. Supp. at 542-547, the Sixth Circuit 
+held that: (1) with respect to plaintiffs’ claims concerning 
+intra-state redistricting, they lacked standing, because the 
+State was at liberty to use other than federal census data for 
+redistricting and there was thus no causal nexus between the 
+challenged (census-taking) conduct and the asserted 
+(representational) injury, City of Detroit, 4 F.3d at 1372- 
+1374; and (2) with respect to plaintiffs’ claims concerning 
+federal funding, the Apportionment Clause per se did not 
+create “a right to census accuracy,” and an adjustment of 
+Michigan alone, leaving other states untouched, would not 
+increase the overall accuracy of the census, id., 4 F.3d at 
+1375-1378. While the court of appeals in City of Detroit 
+did refer to the Secretary’s decision, it did so only to 
+
+
+argued that Michigan alone should receive adjusted census 
+figures. City of Detroit, 4 F.3d at 1377. 
+
+
+-58- 
+
+
+buttress the point that a special adjustment for Michigan 
+would be “impractical,” id. at 1378. 
+
+Once again, no petitioner suggests that this Court 
+adopt the Sixth Circuit’s standing analysis." Oklahoma and 
+the United States cite the Sixth Circuit’s quotation, City of 
+Detroit, 4 F.3d at 1378, of language from Tucker, 958 F.2d 
+at 1418, that a “claim to a census adjustment invokes no 
+judicially administrable standards.” That language, 
+however, is part of the Seventh Circuit’s analysis of the 
+intended-plaintiff doctrine, as applied to the case before that 
+court, and is inapplicable to the present case. Notably, the 
+United States never argues that either the Sixth or the 
+
+
+'S Wisconsin, despite having observed that the 
+continuing vitality of the Seventh Circuit’s decision in 
+Tucker is questionable and that the Sixth Circuit’s decision 
+in City of Detroit “follow[s] Tucker’s reasoning,” Wisc. 
+Pet. 17, suggests that the Second Circuit should have 
+considered plaintiffs’ ability to use the adjusted data for 
+intra-state redistricting but does not suggest that that 
+consideration (whatever its result) would have affected 
+plaintiffs’ standing. Wisc. Pet. 17-18. 
+
+
+-§9- 
+
+
+Seventh Circuit was correct in concluding that a claim to a 
+census adjustment can never be said to invoke judicially 
+administrable standards -- certainly the United States makes 
+no such argument about the claim presented here. Given 
+the nature of the claim before the Sixth Circuit, there is 
+nothing in City of Detroit, any more than in Tucker, that 
+conflicts with the Second Circuit’s decision. 
+
+Neither Tucker nor City of Detroit involved a claim 
+affecting the national apportionment of the House of 
+Representatives, neither considered a challenge under the 
+Fifth Amendment to the Secretary’s decision, and certainly 
+neither addressed the standard of review appropriate upon 
+such a challenge. Although all three courts of appeals dealt 
+generally with matters of census adjustment, they were 
+presented with very different questions: the different 
+substantive results reflect those differences, not a conflict 
+
+
+among the circuits. 
+
+
+CONCLUSION 
+For the foregoing reasons, the petitions for writs of 
+certiorari in Nos. 94-1614, 94-1631 and 94-1985 should be 
+
+
+denied. 
+
+
+Respectfully submitted. 
+
+
+Paul A. Crotty 
+
+Corporation Counsel of the City of New York 
+100 Church Street 
+
+New York, New York 10007 
+
+(212) 788-0800 
+
+
+Attorney for Respondent the City of New York 
+Counsel of Record 
+
+
+Robert S. Rifkind 
+
+Cravath, Swaine & Moore 
+
+Worldwide Plaza 
+
+825 Eighth Avenue 
+
+New York, New York 10019 
+
+(212) 474-1000 
+
+Attorney for Respondents the City of New York, 
+the City of Los Angeles, the City of San 
+Francisco, the City of San Jose, the City of Tucson, 
+the City of Long Beach, the City of Pasadena, 
+
+the City of Inglewood, the County of Los Angeles, 
+the County of Broward and the Navajo Nation 
+
+
+61- 
+
+
+Peter L. Zimroth 
+
+Arnold & Porter 
+
+399 Park Avenue 
+
+New York, New York 10022 
+
+(212) 715-1000 
+
+Attorney for Respondent the City of New York 
+
+
+Louis M. Solomon 
+
+Solomon, Zauderer, Ellenhorn, Frischer & Sharp 
+45 Rockefeller Plaza 
+
+New York, New York 10111 
+
+(212) 956-3700 
+
+Attorney for Respondent the City of New York 
+
+
+Dennis C. Vacco 
+
+Attorney General of the State of New York 
+Barbara Mehlman 
+
+Assistant Attorney General 
+
+New York State Department of Law 
+
+120 Broadway 
+
+New York, New York 10271 
+
+(212) 416-8249 
+
+Attorney for Respondent the State of New York 
+
+
+Dan Morales 
+
+Attorney General of the State of Texas 
+Javier P. Guajardo 
+
+Special Assistant Attorney General 
+
+P.O. Box 12548 - 
+Capitol Station 
+
+Austin, Texas 78711 
+
+(512) 475-4405 
+
+
+Attorney for Respondent the State of Texas 
+
+
+62- 
+
+
+James K. Hahn 
+
+City Attorney of the City of Los Angeles 
+Jessica F. Heinz 
+
+Assistant City Attorney 
+
+200 North Main Street 
+
+Los Angeles, California 90012 
+
+(213) 485-4288 
+
+
+_ Attorney for Respondent the City of Los Angeles 
+
+
+DeWitt W. Clinton 
+
+County Counsel of the County of Los Angeles 
+Ada Treiger 
+
+Deputy County Counsel 
+
+500 West Temple 
+
+Hall of Administration 
+
+Los Angeles, California 90012 
+
+(213) 974-1861 
+
+Attorney for Respondent County of Los Angeles 
+
+
+July 3, 1995 
+
+
+-63- 
+
+

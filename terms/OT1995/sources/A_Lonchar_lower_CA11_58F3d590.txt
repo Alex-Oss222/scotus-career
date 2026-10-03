@@ -1,0 +1,67 @@
+
+
+    Larry Grant LONCHAR, Petitioner-Appellee, v. Albert G. THOMAS, Warden, Georgia Diagnostic and Classification Center, Respondent-Appellant.
+
+    No. 95-8821.
+
+    United States Court of Appeals, Eleventh Circuit.
+
+    June 29, 1995.
+
+    See also, 258 Ga. 447, 369 S.E.2d 749.
+
+    Michael J. Bowers, Atty. Gen., Mary Beth Westmoreland, Asst. Atty. Gen., State of Ga., Atlanta, GA, for appellant.
+
+    John Matteson, Office of John Matteson, Atlanta, GA, Clive Stafford Smith, Office of Clive Stafford Smith, New Orleans, LA, for appellee.
+
+    Before TJOFLAT, Chief Judge, COX and DUBINA, Circuit Judges.
+
+    PER CURIAM:
+
+    Albert Thomas, warden of the Georgia Diagnostic and Classification Center, has filed an emergency motion to vacate the district court’s indefinite stay of the execution of Larry Grant Lonchar. Lonchar has responded to the motion. For the reasons given below, we vacate the stay.
+
+      *591I. Procedural History
+
+    An explanation of our ruling must begin with a review of the procedural history of Lonchar’s case.1 Lonchar’s conviction for murder and sentence of death were affirmed on direct appeal in July 1988, and the Supreme Court denied certiorari in January 1989. Lonchar v. State, 258 Ga. 447, 369 S.E.2d 749 (1988), cert, denied, 488 U.S. 1019, 109 S.Ct. 818,102 L.Ed.2d 808 (1989). Lonc-har refused to file a collateral attack on his own, and his execution was scheduled for March 1990. His sister, Chris Kellogg, then petitioned a Georgia superior court for habe-as corpus. Finding Lonchar competent to bring a petition on his own, the superior court dismissed the petition for lack of standing. The Georgia Supreme Court denied a certificate of probable cause to appeal the decision. Kellogg v. Zant, 260 Ga. 182, 390 S.E.2d 839, cert. denied, 498 U.S. 890, 111 S.Ct. 231, 112 L.Ed.2d 191 (1990). Lonehar’s sister then filed a 28 U.S.C. § 2254 petition in federal district court. Finding after a full evidentiary hearing that Lonchar was competent, the district court dismissed the petition for lack of standing, and this court affirmed. Lonchar v. Zant, 978 F.2d 637 (11th Cir. 1992), cert. denied, — U.S. -, 113 S.Ct. 1378, 122 L.Ed.2d 754 (1993). Lonchar opposed the petition and so stated before the federal district court.
+
+    Following the failure of his sister’s petitions, the State scheduled Lonchar’s execution for February 24, 1993. That day, Lonc-har consented to the filing of a petition for habeas corpus in his own name in Georgia superior court. The superior court stayed the execution. A few months later, Lonchar sought to dismiss the petition. Finding Lonchar competent to waive his rights, the superior court dismissed the petition without prejudice. The Georgia Supreme Court denied Lonchar’s attorneys’ motion for certificate of probable cause to appeal.
+
+    On June 8, 1995, an execution order was entered for Lonchar’s execution between noon Friday, June 23, 1995 and noon Friday, June 30, 1995. The execution was scheduled for 3:00 P.M., June 23, 1995. On June 20, 1995, Lonchar’s brother, Milan Lonchar, Jr., sought habeas relief on Lonchar’s behalf. After a hearing at which Lonchar declared his opposition to the petition and his wish to die, the Georgia superior court found Lonc-har competent and dismissed the petition for want of standing. Lonchar v. Thomas, No. 95-V-128 (Super.Ct.Butts County June 21, 1995). The Georgia Supreme Court denied Lonchar’s brother a certificate of probable cause to appeal. Lonchar’s brother was similarly unsuccessful in federal district court. Lonchar v. Thomas, No. 1:95-CV-1600-JTC (N.D.Ga. June 22, 1995). On June 23, this court denied a certificate of probable cause to permit his brother to appeal the dismissal. Lonchar v. Thomas, 58 F.3d 588 (11th Cir.1995). The U.S. Supreme Court denied certiorari. Lonchar v. Thomas, — U.S. -, 115 S.Ct. 2604, 132 L.Ed.2d 878 (1995).
+
+    On June 23, however, the day his execution was scheduled, Lonchar again—as he had on the day of his scheduled execution in 1993—consented to the filing of a petition for habe-as corpus in his name and a complaint under 42 U.S.C. § 1983. The Butts County Superior Court temporarily stayed the execution. At a hearing in Butts County, Lonchar informed the judge that he did not want a writ of habeas corpus. (Tr. of 6/23/95 hr’g at 6-7.) Lonchar explained that he still wished to be executed, but he hoped to delay the execution long enough for the Georgia legislature to consider changing Georgia’s method of execution from electrocution to lethal injection, so that Lonchar could donate his organs. (Id.) The state court dismissed the habeas petition on June 26, 1995, essentially finding that it was an abusive writ brought for manipulative purposes. Lonchar v. Thomas, Nos. 95-V-332, 335 (Super.Ct.Butts County June 26, 1995). On June 27, the Supreme Court of Georgia denied Lonchar’s application for a certificate of probable cause to appeal the dismissal. Lonchar v. Thomas, 
+      *592Nos. S95R1545, S95M1512 (Ga. June 27, 1995).
+
+    Lonchar’s execution was rescheduled for 3:00 P.M. June 28, 1995. On June 27, Lonchar filed in his own name a 28 U.S.C. § 2254 petition in the district court. The State moved to dismiss the petition. The district court first temporarily stayed the execution to consider the State’s motion; later on June 28 the court entered an indefinite stay to reach the merits of the petition. Lonchar v. Thomas, No. 1:95-CV-1656-JTC (N.D.Ga. June 28, 1995). In the order granting the stay, the district court found that Lonchar has twice waited until the day of execution— despite having ample time before — to seek relief. The court also found that Lonchar not only neglected to seek relief, but explicitly refused in open court to do so. Finally, based on Lonchar’s statement at the hearing on Lonchar’s petition, the court found that
+
+    [Lonchar’s] purpose in asserting the claims is not to obtain a review of the constitutionality and possible errors in his sentence. His sole purpose in asserting the claims is to delay his execution so that the method of execution may be changed to allow him to donate his organs upon death.
+
+    (Order at 7.)
+
+    The district court concluded that Lonchar’s conduct was an abuse of the writ. However, because this § 2254 petition is Lonchar’s first, the court felt constrained by this court’s precedent to deny the State’s motion to dismiss for abuse of the writ. The court therefore denied the motion and granted a stay of execution. The State now moves this court to vacate that stay.
+
+    II. Discussion
+
+    The writ of habeas corpus is governed by equitable principles, and the petitioner’s conduct may thus disentitle him to relief. Sanders v. United States, 373 U.S. 1, 17, 83 S.Ct. 1068, 1078, 10 L.Ed.2d 148 (1963); Gunn v. Newsome, 881 F.2d 949, 954 (11th Cir.1989) (en banc). Even when the petitioner follows procedural rules, the writ comes at a cost to finality and state sovereignty. McCleskey v. Zant, 499 U.S. 467, 496, 111 S.Ct. 1454, 1469-70, 113 L.Ed.2d 517 (1991). A petitioner’s willful delay and manipulation of the judicial system exacerbate this cost. Thus,
+
+    [e]quity must take into consideration the State’s strong interest in proceeding with its judgment and [the petitioner’s] obvious attempt at manipulation.... A court may consider the last-minute nature of an application to stay execution in deciding whether to grant equitable relief.
+
+      Gomez v. United States Dist. Court, 503 U.S. 653, 654, 112 S.Ct. 1652, 1653, 118 L.Ed.2d 293 (1992). This is the case even apart from the subsequent-petition doctrine of abuse of the writ embodied in Rule 9 of the Rules Governing Section 2254 Petitions and addressed by McCleskey. The Gomez court made this clear: “Even if we were to assume ... that [the petitioner] could avoid the application of McCleskey to bar his claim, we would not consider it on the merits. Whether his claim is framed as a habeas petition or § 1983 action, Harris seeks an equitable remedy.” Id. at 653-54, 112 S.Ct. at 1653. The equitable remedy of habeas therefore carries with it equitable doctrines, including the possibility that a petitioner’s egregiously abusive conduct can bar relief even if it is the first time he seeks such relief.
+
+    The district court acknowledged these principles, but it believed that Davis v. Dugger, 829 F.2d 1513 (11th Cir.1987), controlled the result in this case. We disagree. Even assuming that Davis remains good law after Gomez, it does not govern this case. In Davis, the State contended that the filing of a petition on the eve of execution by itself constituted an abuse of the writ. This court held “only that the fact that a scheduled execution is imminent does not itself create a basis for dismissing the petition as an abuse of the writ.” Id. at 1521. The court based its holding exclusively on Rule 9 of the Rules Governing Section 2254 Cases; the court did not consider whether equitable doctrines independent of Rule 9 permit a court to refuse to tolerate egregious abuse.2
+
+      *593Based on the principles of equity and the easelaw cited above, we view this ease as one in which Lonchar has abused the writ. We need not be detained, however, by a debate over whether this case is properly characterized as one involving an abuse of the writ or simply a case involving abusive conduct and misuse of the writ. However the case is characterized, the district court findings show that Lonchar does not merit equitable relief. First, Lonchar has offered no good reason for his six-year refusal to pursue and exhaust his state collateral remedies and file a federal petition. Second, Lonchar presents no good excuse for his manipulative practice of consistently waiting until his day of execution to seek relief. Finally, Lonchar does not explain why this court should entertain a habeas petition that is explicitly brought to delay his execution, not to vindicate his constitutional rights. As was the case in Gomez, “abusive delay ... has been compounded by last-minute attempts to manipulate the judicial process.” Id.
+
+    III. Conclusion
+
+    The district court granted a stay of execution based on the erroneous conclusion that it could not dismiss the petition for Lonchar’s abusive conduct. Because its granting of the stay was thus based on an erroneous determination of law, it was necessarily an abuse of discretion. Jones v. International Riding Helmets, Ltd., 49 F.3d 692, 694 (11th Cir.1996). We accordingly VACATE the stay of execution.
+
+    Our mandate shall issue at 5:00 P.M. Eastern Daylight Time today.
+
+    STAY VACATED.
+
+      1
+      . This procedural history is taken from records on file in this court from this and prior proceedings.
+
+      2
+      . Davis in fact presented no case of egregious abuse. Although over a year passed between the U.S. Supreme Court's denial of certiorari on the direct appeal and Davis’s first state collateral *593attack and § 2254 petition, this one-year delay was well within Florida’s statute of limitations on state collateral relief. Davis, 829 F.2d at 1520 n. 18. Furthermore, Davis had not been totally inactive; he had petitioned the state for clemency. Id. at 1520. The last-minute filing in Davis appeared to result more from Florida's conduct in scheduling an execution before Davis had an opportunity to seek collateral relief than from Davis's willful refusal to seek relief, as is the case here.
+

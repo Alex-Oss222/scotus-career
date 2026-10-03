@@ -1,0 +1,106 @@
+
+
+    Fortis MORSE, Kenneth Curtis Bartholomew, and Kimberley J. Enderson, Plaintiffs, v. OLIVER NORTH for U.S. SENATE COMMITTEE, INC., Republican Party of Virginia, and Albemarle County Republican Committee, Defendants.
+
+    Civ. A. No. 94-0025-C.
+
+    United States District Court, W.D. Virginia, at Charlottesville.
+
+    May 18, 1994.
+
+      *213George Alfred Rutherglen, Daniel R. Ortiz, University School of Law, Pamela S. Karlan, Charlottesville, VA, Eben Moglen, New York City, for plaintiffs.
+
+    Frederick Wilson Choekley, E. Mark Bra-den, Baker & Hostetler, Washington, DC, Donald Wise Huffman, Bird, Kinder & Huffman, P.C., Roanoke, VA, for Oliver North for U.S. Senate Committee, Inc.
+
+    Daniel A. Carrell, Richmond, VA, Joseph Robert Brame, III, Earle Duncan Getehell, Jr., McGuire, Woods, Battle & Boothe, Richmond, VA, Donald W. Lemons, Durrette, Irvin, Lemons & Fenderson, P.C., Richmond, VA, Patrick M. McSweeney, Richmond, VA, for Republican Party of Va., Abemarle County Republican Committee.
+
+    Before WIDENER, Circuit Judge, and MICHAEL and SPENCER, District Judges.
+
+      MEMORANDUM OPINION
+
+    PER CURIAM:
+
+    Fortis Morse, Kenneth Curtis Bartholomew, and Kimberley J. Enderson, plaintiffs, brought this action against the Oliver North for U.S. Senate Committee, Inc. (North Committee), the Republican Party of Virginia (the Party), and the Abemarle County Republican Committee (County Committee), defendants, seeking declaratory, injunctive, and monetary relief and costs for alleged violations of three sections of the Voting Rights Act of 1965, 42 U.S.C. § 1971 et seq., and the Fourteenth and Twenty-Fourth Amendments to the United States Constitution. This dispute challenges a Party requirement that all persons who wish to become a delegate to the statewide convention to nominate the Party’s candidate for United States Senator must pay a nonrefundable registration fee, which is llb.OO.1 Jurisdiction of a three-judge district court is claimed on Counts 3 and 4 of the complaint under 42 U.S.C. §§ 1973c & 1973h and 28 U.S.C. § 2284(a).
+
+    This case was heard on May 18, 1994, pursuant to order of this court. Now pending before the court are the North Commit*214tee’s motion to dismiss, the Party and County Committee’s joint motion to dismiss, the plaintiffs’ motion for a preliminary injunction and plaintiffs’ motion for expedited discovery. We grant, as to Counts 3 and 4, the Party and County Committee’s joint motion to dismiss. We deny, as to Counts 3 and 4, the plaintiffs’ motions for a preliminary injunction and expedited discovery. We find we have no jurisdiction to consider Counts One, Two, and Five of the complaint, and we therefore do not address them. We also do not address the North Committee’s motion to dismiss because the action against the North Committee is based solely on Count 5, over which we have no jurisdiction.
+
+    I
+
+    Taking the facts in the light most favorable to the plaintiffs, we find that on December 16, 1993 the Party issued a call for a state convention, to be held on June 3, 1994, to nominate the Party’s candidate for United States Senator. Pursuant to the call, permitted by the Party plan, in order to become a delegate to the convention, the prospective delegate must pay a registration fee of $45.00, and be selected as a delegate. Delegates are selected in county or city mass meetings, conventions, or party canvasses. As a practical matter, anyone who follows the registration procedure may become a delegate to the state convention. The requirement that a prospective delegate pay a registration fee in order to participate in the Party’s nominating process was not in effect on November 1, 1964, but has been authorized by the Party’s plan at least since 1987.
+
+    The plaintiffs are all registered voters who wish to become delegates to the Party’s June convention. Plaintiff Bartholomew was deterred from filing as a delegate by the $45.00 fee collected by the County Committee. Plaintiff Enderson was deterred from filing as a delegate in Hampton, Virginia by the $45.00 fee collected in Hampton.2 When plaintiff Morse attempted to register for selection as a delegate at the County Committee’s headquarters, he learned of the $45.00 fee, which was a larger sum than he currently had in his checking account. Upon inquiring whether he could file without paying the fee, he was informed by a worker at the County Committee’s headquarters that some candidates would sponsor voters who supported them. Morse then left the County Committee’s headquarters and borrowed the money to pay the fee. Upon his return, his filing form and payment were accepted. By inquiring further, he learned that if he supported Oliver North, he could be reimbursed his registration fee by the North Committee. He then accepted $45.00 from the county coordinator for the North Committee and was told that he was expected to be at the June convention. He later repaid the $45.00 to the North Committee.
+
+    Having delayed five months, and almost on the eve of the state convention, plaintiffs filed this suit in which they plead five causes of action: The Party’s imposition of a registration fee violates the Twenty-Fourth Amendment’s prohibition of poll taxes (Count 1); the Party’s imposition of a registration fee violates the Fourteenth Amendment’s Equal Protection Clause (Count 2); the Party did not receive preclearanee before implementing the registration fee requirement, and the fee is therefore in violation of Section 5 of the Voting Rights Act, 42 U.S.C. § 1973c (Count 3); the imposition of the registration fee prohibits people of limited means from participating in voting in violation of Section 10 of the Voting Rights Act, 42 U.S.C. § 1973h(a) (Count 4); and the North Committee’s practice of paying registration fees for prospective delegates who indicate their support for North violates Section 11 of the Voting Rights Act, 42 U.S.C. § 1973i(c) (Count 5).
+
+    II
+
+    We first turn to the question of jurisdiction of a three-judge court. Plaintiffs’ claims under Sections 5 and 10 of the Voting Rights Act, which are Counts 3 and 4 of the complaint, are actions which “shall be heard and determined by a [district] court of three judges.” 42 U.S.C. §§ 1973c & 1973h(c); accord 28 U.S.C. § 2284(a); Charles A. Wright, The Law of Federal 
+      *215
+      Courts § 50, at 297 n. 14 (4th ed. 1983). A three-judge district court must be convened when so required by an act of Congress. 28 U.S.C. § 2284(a). However, Counts 1, 2, and 5 of plaintiffs’ complaint, which allege two constitutional violations and a violation of Section 11 of the Voting Rights Act, 42 U.S.C. § 1973i(c), which addresses itself solely to criminal conduct, are not claims for which Congress has required the convening of a three-judge court. We are aware that some three-judge district courts have taken the view that when a three-judge court has been properly convened for some claims in which such a court is required it may, in its discretion, exercise jurisdiction over other claims for which a three-judge court is not required. See, e.g., Armour v. Ohio, 775 F.Supp. 1044, 1048 (N.D.Ohio 1991); Tucker v. Montgomery Bd. of Comm’rs, 410 F.Supp. 494, 500 (M.D.Ala.1976). However, the only district court decision in this circuit to address the question holds to the contrary and is the more persuasive, we think. We thus follow the three-judge panel of the United States District Court for the District of South Carolina which held, “Any rights asserted by the plaintiffs under other federal statutes or Constitutional provisions can be asserted only before the [single-judge] District Court.” Gordon v. Executive Comm. of the Democratic Party of Charleston, 335 F.Supp. 166, 170 (D.S.C.1971) (per curiam). We think the view of that court is consistent with the intent of Congress to limit the jurisdiction of three-judge courts, which resulted in the 1976 legislation repealing 28 U.S.C. §§ 2281 & 2282 and amending 28 U.S.C. § 2284.3 See Act of August 12, 1976, Pub.L. No. 94-381, 90 Stat. 1119 (1976); Wright, supra, at 296-97; see also Perez v. Ledesma, 401 U.S. 82, 87, 91 S.Ct. 674, 678, 27 L.Ed.2d 701 (1971) (“Even where a three-judge court is properly convened to consider one controversy between two parties, the parties are not necessarily entitled to a three-judge court and a direct appeal on other controversies that may exist between them.” (footnote omitted)). Accordingly, we do not consider Counts 1, 2, and 5 of the complaint.
+
+    Ill
+
+    Count 3 of the complaint alleges that the Party violated Section Five of the Voting Rights Act, 42 U.S.C. § 1973c, by implementing the registration fee requirement, which the Party admits was not in effect on November 1, 1964,4 without first obtaining preelearance from the Attorney General of the United States. Section Five provides in relevant part:
+
+    Whenever a State or political subdivision ... shall enact or seek to administer any voting qualification or prerequisite to voting, or standard, practice, or procedure with respect to voting different from that in force or effect on November 1,1964 ... such State or subdivision may institute an action in the United States District Court for the District of Columbia for a declaratory judgment that such qualification, prerequisite, standard, practice or procedure does not have the purpose and will not have the effect of denying or abridging the right to vote on account of race or, color [or minority language group] ... and unless and until the court enters such judgment no person shall be denied the right to vote for failure to comply with such qualification, prerequisite, standard, practice, or procedure: Provided, That such qualification, prerequisite, standard, practice, or procedure may be enforced without such proceeding if the qualification, prerequisite, standard, practice, or procedure has been submitted by the chief legal officer or other appropriate official of such State or subdivision to the Attorney General and the Attorney General has not interposed an objection within sixty days after such submission, or upon good cause shown, to *216facilitate an expedited approval within sixty days after such submission, the Attorney General has affirmatively indicated that such objection will not be made.
+
+    42 U.S.C. § 1973c. Our task in this case is to determine whether a change in political party rules dealing not with primary elections, but instead with a party convention, canvass, or mass meeting, is subject to Section Five of the Voting Rights Act, 42 U.S.C. § 1973c.
+
+    As a general rule, political parties, to the extent they are empowered by the State to conduct primary elections for purposes of selecting national convention delegates, are subject to Section Five. See, e.g., MacGuire v. Amos, 343 F.Supp. 119 (M.D.Ala.1972) (per curiam). Here, however, the Party is not conducting primary elections. Instead, local party members are selecting delegates to the state nominating convention, not through an election, but through local conventions, mass meetings, and party canvasses. This distinction is meaningful, and because of it, we hold that the imposition of the registration fee challenged here is not subject to Section Five of the Voting Rights Act.
+
+    In support of our holding, we first rely on the regulations of the Attorney General. The regulation promulgated pursuant to Section Five makes the same distinction between voting in primary elections and other public electoral functions and other party activities. The regulation states:
+
+    Certain activities of political parties are subject to the preclearance requirement of section 5. A change affecting voting effected by a political party is subject to the preclearance requirement: (a) If the change relates to a public electoral function of the party and (b) if the party is acting under authority explicitly or implicitly granted by a covered jurisdiction or political subunit subject to the preclearance requirement of section 5. For example, changes with respect to the recruitment of party members, the conduct of political campaigns, and the drafting of party platforms are not subject to the pre-clearance requirement. Changes with respect to the conduct of primary elections at which party nominees, delegates to party conventions, or party officials are chosen are subject to the preclearance requirement of section 5. Where appropriate the term “jurisdiction” (but not “covered jurisdiction”) includes political parties.
+
+    28 C.F.R. § 51.7 (July 1, 1993). Here, there is no doubt that the Party is not conducting a primary election, and there is no voting as defined.5 Therefore, under the terms of the regulation, the acts of the Party in this case are not subject to the preclearance requirement.
+
+    We also rely on another decision of a three-judge court. In Williams v. Democratic Party of Georgia, No. 16286 (N.D.Ga. April 6, 1972), aff'd, 409 U.S. 809, 93 S.Ct. 67, 34 L.Ed.2d 70 (1972), the court held that a Party’s change in the method of selection of delegates to a national convention from a system in which the delegates were appointed by the party’s last candidate for governor to a system in which delegates were chosen in open convention was not subject to the provisions of the Voting Rights Act. Williams, slip op. at 2, 6. Williams was cited and construed in MacGuire, 393 F.Supp. at 121 n. 3, that the “Act does not protect one’s right to participate in local conventions.” Williams was summarily affirmed by the Supreme Court. 409 U.S. at 809, 93 S.Ct. at 67. Summary affirmances, while not as conclusive as a formal written opinion, are judgments on the merits and entitled to some precedential weight. We are not free to disregard them. Southern Rwy. Co. v. Seaboard Allied Milling Corp., 442 U.S. 444, 462, 99 S.Ct. 2388, 2398, 60 L.Ed.2d 1017 (1979); see also Hicks v. Miranda, 422 U.S. 332, 343-4, 95 S.Ct. 2281, 2289, 45 L.Ed.2d 223 (1975).
+
+    In accordance with the Attorney General’s regulation and the decision discussed above, we hold that the imposition of a registration fee on candidates for delegate to a state party convention who are not chosen in an election and are chosen by local convention, mass meeting, or party canvass is not subject *217to the Section Five preclearance requirement.
+
+    IV
+
+    Plaintiffs also allege that the imposition of the registration fee is in effect the requirement of the payment of a poll tax as a precondition for voting in violation of Section Ten of the Act, 42 U.S.C. § 1973h(a). Section Ten provides in relevant part:
+
+    Authority of Attorney General to institute actions for relief against enforcement of poll tax requirement
+
+    (b) In the exercise of the powers of Congress under section 5 of the fourteenth amendment, section 2 of the fifteenth amendment and section 2 of the twenty-fourth amendment, the Attorney General is authorized and directed to institute forthwith in the name of the United States such actions, including actions against States or political subdivisions, for declaratory judgment or injunctive relief against the enforcement of any requirement of the payment of a poll tax as a precondition to voting, or substitute therefor enacted after November 1, 1964, as will be necessary to implement the declaration of subsection (a) of this section and the purposes of this section.
+
+    42 U.S.C. § 1973h(b). As is immediately apparent, the statute does not, on its face, authorize private actions for violations of Section 10. See Allen v. State Bd. of Elections, 393 U.S. 544, 563, 89 S.Ct. 817, 830-31, 22 L.Ed.2d 1 (1969) (noting that Section 10 authorizes three-judge courts when the Attorney General brings an action under that section).
+
+    In Allen, the Court held that private litigants had standing to sue under Section Five of the Voting Rights Act. 393 U.S. at 557, 89 S.Ct. at 827. Section Ten, however, does not contain similar language, but expressly authorizes the Attorney General to bring actions to enforce the section. See United States v. Solomon, 563 F.2d 1121, 1125 n. 4 (4th Cir.1977) (noting, in dictum, that Section Ten authorizes the Attorney General to sue for injunctive relief to prevent enforcement of a poll tax). Thus, we find no basis permitting the plaintiffs to sue under Section Ten. The statute specifically refers to “such actions,” which are those instituted by the Attorney General.
+
+    V
+
+    As to Counts 3 and 4 of the complaint, we grant the Party and County Committee’s joint motion to dismiss, but for the reasons expressed in this opinion. To the extent they relate to Counts 3 and 4, we deny the plaintiffs’ motions for a preliminary injunction and expedited discovery. The plaintiffs may pursue Counts 1, 2, and 5 in the district court before a single judge should they be so advised.
+
+    An appropriate order will be this day entered.
+
+    ORDER
+
+    In accordance with the opinion filed on this date, it is ADJUDGED and ORDERED that Counts 3 and 4 of the complaint shall be, and they hereby are, dismissed with prejudice.
+
+    It is further ADJUDGED and ORDERED that the plaintiffs’ motions for expedited discovery and a preliminary injunction shall be, and they hereby are, denied so far as they rely upon allegations which may support Counts 3 and 4 of the complaint.
+
+    It is further ADJUDGED and ORDERED that the court declines to act upon Counts 1, 2 and 5 of the complaint, they being without the jurisdiction of the three-judge court.
+
+    It is further ADJUDGED and ORDERED that the motion for a preliminary injunction is denied so far as it depends on facts which may support Count 5 of the complaint, the three-judge court being without jurisdiction to decide the same.
+
+    The three-judge court has declined to grant any relief in this case. Should the plaintiffs be so advised to seek any other relief, they should address a request for the same to the district court of a single judge, and we express no opinion either as to the merits or any procedural aspect thereof.
+
+      1
+      . The registration fee may also be described as $35.00.
+
+      2
+
+        . The local party committee for Hampton is not a party to the suit.
+
+      3
+      . In short, unless Congress has provided that a three-judge court must or may be convened to consider a particular claim, the claim may be considered only by a single judge of the district court. For a listing of some mandatory and permissive three-judge court claims, see Wright, supra, at 297 n. 14.
+
+      4
+      . The Attorney General has determined that November 1, 1964 is the appropriate date to use in determining whether Virginia has enacted or sought to administer a different or new voting qualification, procedure, practice, or the like. 28 C.F.R. Part 51 Appendix; see 42 U.S.C. §§ 1973b(b) & 1973c.
+
+      5
+      . "Voting" is defined as "all action necessary to make a vote effective in any primary, special, or general election.” 28 C.F.R. § 51.2.
+
