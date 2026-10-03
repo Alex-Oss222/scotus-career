@@ -1,0 +1,193 @@
+
+
+
+ 
+  
+  
+  
+
+	
+	
+	
+	
+    
+    
+    
+    
+    
+    
+    
+    Meghrig et al. v. KFC Western, Inc., 516 U.S. 479 (1996).
+ 
+ 
+
+    
+    
+	
+		
+			
+LII
+
+			 
+			
+Supreme Court
+		 
+		
+	
+
+
+ 
+
+
+
+Meghrig et al. v. KFC Western, Inc. (95-83), 516 U.S. 479 (1996). 
+Opinion 
+ [ O'Connor ]Syllabus 
+  HTML version
+WordPerfect versionHTML version
+WordPerfect version
+
+
+ 
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See United States v. Detroit Lumber Co., 200
+ U.S. 321, 337.
+ 
+ 
+
+
+SUPREME COURT OF THE UNITED STATES
+ 
+ 
+
+
+Syllabus
+
+
+MEGHRIG et al.
+ v. KFC WESTERN, INC.
+ 
+ 
+
+certiorari to the united states
+ court of appeals for the ninth circuit
+ 
+ 
+
+No. 95-83.
+ Argued January 10, 1996 -- Decided
+ March 19, 1996
+ 
+ 
+
+
+
+ 
+ 
+
+
+Three years after complying with a county order to clean up petroleum
+ contamination discovered on its property, respondent KFC Western, Inc.,
+ brought this action under the citizen suit provision of the Resource Conservation
+ and Recovery Act of 1976 (RCRA), 42
+ U.S.C. § 6972(a), to recover its cleanup costs from petitioners,
+ the Meghrigs. KFC claimed, among other things, that the contamination had
+ previously posed an "imminent and substantial endangerment to health or
+ the environment," see §6972(a)(1)(B), and that the Meghrigs were responsible
+ for "equitable restitution" under §6972(a) because, as prior owners
+ of the property, they had contributed to the contaminated site. The District
+ Court dismissed the complaint, holding that §6972(a) does not permit
+ recovery of past cleanup costs and that §6972(a)(1)(B) does not authorize
+ a cause of action for the remediation of toxic waste that does not pose
+ an "imminent and substantial endangerment" at the time suit is filed. The
+ Ninth Circuit disagreed on both points and reversed.
+ 
+ 
+
+
+Held: Section 6972 does not
+ authorize a private cause of action to recover the prior cost of cleaning
+ up toxic waste that does not, at the time of suit, continue to pose an
+ endangerment to health or the environment. Pp. 3-9.
+ 
+ 
+
+
+(a) A private party cannot
+ recover the cost of a past cleanup effort under §6972(a), which authorizes
+ district courts "to restrain any person [responsible for toxic waste],
+ to order such person to take such other action as may be necessary,
+ or both." (Emphasis added.) Under a plain reading of this remedial scheme,
+ a citizen plaintiff could seek a mandatory injunction that orders a responsible
+ party to "take action" by attending to the cleanup and proper disposal
+ of waste, or a prohibitory injunction that "restrains" a responsible party
+ from further violating RCRA. Neither remedy, however, contemplates the
+ award of past cleanup costs, whether denominated "damages" or "equitable
+ restitution." A comparison with the relief provided in the analogous, but
+ not parallel, provisions of the Comprehensive Environmental Response, Compensation
+ and Liability Act of 1980 demonstrates that Congress knows how to provide
+ for the recovery of past cleanup costs, and that §6972(a) does not
+ provide that remedy. Pp. 4-5.
+ 
+ 
+
+
+(b) Section 6972(a)(1)(B)--which permits citizen suits against
+ persons responsible for "waste which may present an imminent
+ and substantial endangerment to health or the environment" (emphasis added)--does
+ not authorize a suit based upon an allegation that the contaminated site
+ posed such an endangerment at some time in the past. This timing restriction's
+ plain meaning demonstrates that an endangerment can only be "imminent"
+ if it threatens to occur immediately, and the reference to waste which
+ "may present" imminent harm quite clearly excludes waste that no longer
+ presents such a danger. This language implies that there must be a threat
+ which is present now, although the impact of the threat may not
+ be felt until later. It follows that §6972(a) was designed to provide
+ a remedy that ameliorates present or obviates the risk of future "imminent"
+ harms, not a remedy that compensates for past cleanup efforts. Other aspects
+ of RCRA's enforcement scheme strongly support this conclusion, and the
+ existence of such an elaborate scheme refutes the Government's contention
+ that district courts may award past cleanup costs under their inherent
+ equitable remedial authority. Pp. 5-8.
+ 
+ 
+
+
+(c) This Court does not consider whether a private party could seek
+ to obtain an injunction requiring another party to pay cleanup costs arising
+ after a RCRA citizen suit has been properly commenced. P. 8.
+ 
+ 
+
+
+49 F. 3d 518,
+ reversed.
+ 
+ 
+
+
+O'Connor, J., delivered the
+ opinion for a unanimous Court. 
+ 
+
+ 
+
+
+
+ 
+
+
