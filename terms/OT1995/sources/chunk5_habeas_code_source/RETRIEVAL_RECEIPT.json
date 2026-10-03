@@ -1,0 +1,40 @@
+[
+  {
+    "route": "GovInfo complete 1994 title28 PDF",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title28/pdf/USCODE-1994-title28.pdf",
+    "status": 200,
+    "content_type": "text/html",
+    "bytes": 44172,
+    "is_pdf": false,
+    "html_title": "Page Not Found | GovInfo"
+  },
+  {
+    "route": "GovInfo package metadata for complete title",
+    "url": "https://www.govinfo.gov/metadata/pkg/USCODE-1994-title28/mods.xml",
+    "status": 200,
+    "content_type": "text/html",
+    "bytes": 44172,
+    "html_title": "Page Not Found | GovInfo"
+  },
+  {
+    "route": "LOC 1994 title28 catalog",
+    "url": "https://www.loc.gov/item/uscode1994-028000000/?fo=json",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "route": "LOC same catalog item, HTML representation",
+    "url": "https://www.loc.gov/item/uscode1994-028000000/",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "route": "Operator-directed exact analogous complete Title28 HTML",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title28/html/USCODE-1994-title28.htm",
+    "status": 200,
+    "content_type": "text/html",
+    "bytes": 44172,
+    "sha256": "ab214ce9f7a706cc4ee93703502f950222090c2547e47fafd75a299545919743",
+    "retained_file": "USCODE-1994-title28.htm",
+    "html_title": "Page Not Found | GovInfo",
+    "section_heading_candidates": []
+  }
+]
