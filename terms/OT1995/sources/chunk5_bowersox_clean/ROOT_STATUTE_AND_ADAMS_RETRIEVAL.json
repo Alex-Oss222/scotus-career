@@ -1,0 +1,32 @@
+[
+  {
+    "file": "28usc_1994_full.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title28/pdf/USCODE-1994-title28.pdf",
+    "final_url": "https://www.govinfo.gov/error",
+    "status": 200,
+    "content_type": "text/html",
+    "bytes": 44172,
+    "pdf": false,
+    "sha256": "ab214ce9f7a706cc4ee93703502f950222090c2547e47fafd75a299545919743"
+  },
+  {
+    "file": "USREPORTS-466-964.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-466/pdf/USREPORTS-466-964.pdf",
+    "final_url": "https://www.govinfo.gov/error",
+    "status": 200,
+    "content_type": "text/html",
+    "bytes": 44172,
+    "pdf": false,
+    "sha256": "ab214ce9f7a706cc4ee93703502f950222090c2547e47fafd75a299545919743"
+  },
+  {
+    "file": "28usc2253_1994_olrc.html",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title28-section2253&num=0&edition=1994",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "file": "28usc1651_1994_olrc.html",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title28-section1651&num=0&edition=1994",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  }
+]

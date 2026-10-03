@@ -1,0 +1,68 @@
+{
+  "scope": "Fresh neutral primary-source validation; no current-case merits assessment or model-readiness certification.",
+  "personally_read": [
+    {
+      "source": "Barefoot v. Estelle, 463 U.S. 880–938 (1983)",
+      "official_pages": 59,
+      "full_text": true,
+      "all_writings": true,
+      "all_footnotes": true,
+      "fresh_pdftotext_layout_matches": true,
+      "source_files": [
+        {
+          "path": "terms/OT1995/sources/chunk5_bowersox_prepare/Barefoot_Govinfo.pdf",
+          "bytes": 4120847,
+          "sha256": "53ca6f8b1657151e6a169fed019aa5cd768c6978365da8f0cddc596636370332"
+        },
+        {
+          "path": "terms/OT1995/sources/chunk5_bowersox_prepare/Barefoot_Govinfo.txt",
+          "bytes": 139861,
+          "sha256": "7c2f2973d7394de3f1bf84c34f1a0919f752a5b1b5c0352889980225fdae6ca0"
+        }
+      ]
+    },
+    {
+      "source": "Delo v. Stokes, 495 U.S. 320–327 (1990)",
+      "official_pages": 8,
+      "full_text": true,
+      "all_writings": true,
+      "all_footnotes": true,
+      "fresh_pdftotext_layout_matches": true,
+      "source_files": [
+        {
+          "path": "terms/OT1995/sources/chunk5_bowersox_prepare/Delo_Govinfo.pdf",
+          "bytes": 780585,
+          "sha256": "10314b959f786b1c813e1460297317d2015e1334832dc3d68666a27c8afea761"
+        },
+        {
+          "path": "terms/OT1995/sources/chunk5_bowersox_prepare/Delo_Govinfo.txt",
+          "bytes": 16531,
+          "sha256": "931835e77a5481dd47a8bd0057b770e72baf2f72902bff452b4af825815ea3bf"
+        }
+      ]
+    },
+    {
+      "source": "Wainwright v. Adams, 466 U.S. 964–966 (1984)",
+      "full_retained_CAP_casebody": true,
+      "purpose": "Attribution of the heightened-deference phrase quoted in the official Delo dissent; not treated as Court reasoning.",
+      "official_report_retrieval": "Failed with HTML error redirect.",
+      "source_files": [
+        {
+          "path": "terms/OT1995/sources/chunk5_bowersox_clean/Adams_candidate_CAP_02.html",
+          "bytes": 8856,
+          "sha256": "4be0ff62c00a38c0c30ff39ac6c1747aa5e30b7b599488e03e0b56731e987a13"
+        },
+        {
+          "path": "terms/OT1995/sources/chunk5_bowersox_clean/Adams_CAP_full_text.txt",
+          "bytes": 4950,
+          "sha256": "cd97695d9955dfa711cdae82e630e03833e4710a99eee2c1ba46719a0623efa3"
+        }
+      ]
+    }
+  ],
+  "additional_checks": "Selected Cornell procedural passages compared; not a claim of independent complete Cornell or CAP reading. Source-only Delo note and Barefoot coverage metadata read. Official Reports wording controls quotations.",
+  "neutral_baseline": "Authorized neutral freeze and statutory addendum; public entering-law sources through March 18, 1996 only.",
+  "current_record_limits": "No Bowersox application, response, lower petition, magistrate report, district order, amendment, certificate, or appellate stay recovered or independently read. Earlier opinion facts are not imported into the current case.",
+  "freshness_limit": "Any final April 9 use requires actual intervening public law, including the actual April 1 public release, and a subsequent freshness receipt.",
+  "statutory_source_limit": "Official 1994 standalone §§2253 and 1651 and their complete notes remain unrecovered; GovInfo returns were error HTML and OLRC requests returned proxy 403. No failed response used as authority."
+}

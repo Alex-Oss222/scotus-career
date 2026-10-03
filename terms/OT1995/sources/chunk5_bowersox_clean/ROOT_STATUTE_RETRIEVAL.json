@@ -1,0 +1,20 @@
+[
+  {
+    "section": "2253",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title28/html/USCODE-1994-title28-partVI-chap153-sec2253.htm",
+    "status": 200,
+    "content_type": "text/html",
+    "bytes": 44172,
+    "validation": "GovInfo Page Not Found HTML, not statutory text",
+    "saved_failure_path": "terms/OT1995/sources/chunk5_bowersox_clean/28usc2253_1994_govinfo.html.FAILED.html"
+  },
+  {
+    "section": "1651",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title28/html/USCODE-1994-title28-partV-chap111-sec1651.htm",
+    "status": 200,
+    "content_type": "text/html",
+    "bytes": 44172,
+    "validation": "GovInfo Page Not Found HTML, not statutory text",
+    "saved_failure_path": "terms/OT1995/sources/chunk5_bowersox_clean/28usc1651_1994_govinfo.html.FAILED.html"
+  }
+]

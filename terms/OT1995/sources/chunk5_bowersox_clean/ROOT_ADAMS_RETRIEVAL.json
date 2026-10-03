@@ -1,0 +1,19 @@
+[
+  {
+    "url": "https://www.law.cornell.edu/supremecourt/text/466/964",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "path": "terms/OT1995/sources/chunk5_bowersox_clean/Adams_candidate_CAP_02.html",
+    "url": "https://static.case.law/us/466/html/0964-02.html",
+    "status": 200,
+    "bytes": 8856,
+    "caption": [
+      "Wainwright, Secretary, Florida Department of Corrections <em>v. </em>Adams."
+    ]
+  },
+  {
+    "url": "https://static.case.law/us/466/html/0964-03.html",
+    "error": "HTTP Error 404: Not Found"
+  }
+]
