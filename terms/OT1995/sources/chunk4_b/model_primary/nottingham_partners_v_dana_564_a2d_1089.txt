@@ -1,0 +1,399 @@
+HOLLAND, Justice:
+
+This is an appeal from an order of the Court of Chancery, in and for New Castle County, approving an Agreement of Compromise and Settlement (“Settlement”) in Dana v. Trans-Lux Corp. (the “Dana action”). The plaintiff-appellee, George W. Dana (“Dana”), filed an individual, class and derivative action on March 23, 1988. Dana’s complaint against the defendant-ap-pellee, Trans-Lux Corporation and the individual director defendants (collectively “Trans-Lux”), challenged, inter alia, a recapitalization plan to create a supervoting Class B Stock with a subsequent exchange-offer (the “Class B Recapitalization Plan”) and certain related amendments to the Trans-Lux certificate of incorporation (the “Certificate Amendments”). The Dana action alleged that Trans-Lux’s Board of Directors had engaged in an illegal scheme to keep control of the corporation, i.e., entrenchment. The Dana action further alleged that Trans-Lux had made misleading and incomplete disclosures in the March 27, 1986 Proxy Statement (“Proxy Statement”) which outlined the Class B Recapitalization Plan and the Certificate Amendments for the Trans-Lux stockholders.
+
+The appellants are Nottingham Partners and Deerfield Partners (collectively “Nottingham”), both Massachusetts limited partnerships and holders of record, respectively, of 31,090 and 21,286 shares of Class B Trans-Lux stock and 29,911 and 14,337 shares of Trans-Lux common stock. The appellants are also plaintiffs in an action pending in the United States District Court for the District of Massachusetts, Nottingham Partners and Deerfield Partners v. Trans-Lux Corp., C.A. No. 88-0591-Z (the “Nottingham action”).[1] The Nottingham action, which is not a class action, was filed on March 10, 1988. It also challenged the Class B Recapitalization plan and Certificate Amendments on the basis of nondisclosure, seeking money damages under Federal Securities Law for a fraudulent and misleading proxy solicitation.
+
+On June 21,1988, the parties in the Dana action submitted the Settlement to the Court of Chancery for approval. Notice of the proposed Settlement was sent to all class members on June 27, 1988. Nottingham was the only class member to object to the Settlement. On August 4, 1988, immediately following the hearing on the Nottingham objections, the Court of Chancery announced its decision to certify the class pursuant to Delaware Chancery Court Rule 23(b)(2) and to approve the Settlement.
+
+Nottingham has appealed from the decision to approve the Settlement and the certification of a Rule 23(b)(2) class on the following grounds: (1) the certification of a Rule 23(b)(2) class was improper because that section is not applicable to claims for money damages; (2) the certification of the Rule 23(b)(2) class, which deprives class members the opportunity to opt out, was invalid because the due process clause of the United States Constitution requires that absent class members with money damage claims be provided with an opportunity to opt out of the class; (3) the Court of Chancery abused its discretion in finding the Settlement fair and reasonable, because the class is being asked to relinquish meritorious claims without meaningful consideration; (4) the Settlement goes beyond the scope of the state court’s authority, by purporting to preclude class members from prosecuting damage claims within the exclusive jurisdiction of the federal courts, thereby interfering with the jurisdiction of the federal courts and violating the Supremacy Clause of the United States Constitution. U.S. Const., art. YI, cl. 2; and (5) the Settlement impermissibly purports to release, settle, and resolve claims that were not alleged in the Dana action.
+
+We have reviewed each of the Nottingham contentions. We do not find any of them to be meritorious. Therefore, the decision of the Court of Chancery is affirmed.
+
+[page *1092] Facts
+
+On March 27, 1986, Trans-Lux issued a Proxy Statement in conjunction with the annual meeting of its stockholders, which was to be held May 16, 1986. The Proxy Statement described the Class B stock Recapitalization Plan. Implementation of the plan required an amendment to the Trans-Lux certificate of incorporation, to authorize the issuance of supervoting Class B Stock (the “Class B Amendment”), and a subsequent exchange offer by Trans-Lux, in which holders of Trans-Lux common stock could exchange their shares for Class B Stock (the “Exchange Offer”). The Proxy Statement also described other proposed amendments to the Trans-Lux certificate of incorporation which, if approved, would eliminate the stockholders’ rights: (a) to act by written consent; (b) to remove directors by a majority vote; and (c) to amend the corporation’s bylaws.
+
+The stockholders annual meeting was held as scheduled. Nottingham voted against the Class B Recapitalization Plan and the Certificate Amendments. Nevertheless, a majority of the Trans-Lux stockholders approved all of the proposals described in the Proxy Statement. The Certificate Amendments, including the Class B Amendment were duly filed in the office of the Delaware Secretary of State. See 8 DelC. §§ 242, 103. The Exchange Offer was commenced and completed. No Trans-Lux stockholder filed a legal challenge to these actions at that time.[2]
+
+Approximately two years later, in March of 1988, the Nottingham action was filed in a United States District Court in Massachusetts and the Dana action was filed in the Delaware Court of Chancery. Both actions challenged the validity of the Class B Recapitalization Plan and the Certificate Amendments. Both actions alleged disclosure violations in the May 16, 1986 Proxy Statement and both actions seek equitable relief, although Nottingham also seeks money damages for violations of the Federal Securities Act. In this appeal, as in the Court of Chancery, Dana emphasizes the similarities between the lawsuits and Nottingham emphasizes the differences.
+
+The Nottingham action contended, in part, that the Class B Recapitalization Plan was recommended by the named defendants and adopted by the shareholders as a deterrent to any hostile merger, tender offer, proxy contest, or assumption of control of Trans-Lux. The Nottingham amended complaint alleges that, as of the date of the Proxy Statement, the defendants knew, and did not disclose in the Proxy Statement or elsewhere, that Trans-Lux was negotiating with Gulf and Western, Inc. (“Gulf & Western") for the sale of twenty-four of the Trans-Lux chain of motion picture the-atres for a cash price of $15 million. The Nottingham amended complaint alleges that because of this omission, the Proxy Statement was false and misleading with respect to facts material to the shareholders’ vote on the matters set forth in the Proxy Statement; that it is probable that disclosure of the omitted facts[3] would have caused the shareholders to reject the proposals set forth in the Proxy Statement; and that the plaintiffs were damaged by an affirmative vote on the Class B Recapitalization Plan. The Nottingham action submits that the Trans-Lux shareholders are entitled to relief, including the rescission of the Certificate Amendments and money damages under federal securities laws as a result of the fraudulent and misleading [page *1093] statements made by Trans-Lux in connection with the Proxy Statement.
+
+The Dana action, in the Court of Chancery, challenged the Certificate Amendments, the Class B Recapitalization Plan and other actions taken at the 1987 annual meeting, including the election of directors and the passage of a director liability amendment. The Dana complaint, as amended, alleged that the individual director defendants had engaged in an illegal scheme to maintain the control of Trans-Lux in its then current management, at the expense of the public stockholders. Dana described this as “the Brandt Entrenchment Plan.”
+
+Dana asserted several non-federal legal theories in support of its position. First, that the Class B Recapitalization Plan, Exchange Offer, and the Certificate Amendments were invalid and void under Delaware law. Second, that the approval of the Class B Recapitalization Plan and the Certificate Amendments was obtained by a misleading Proxy Statement. Third, that the defendants breached their fiduciary duties by adopting the Class B Recapitalization Plan and Certificate Amendments and using them to entrench themselves by discouraging efforts of prospective purchasers to purchase a controlling interest in Trans-Lux. Dana sought equitable relief, damages, and costs in the Court of Chancery.
+
+On April 6,1988, Dana filed a motion for summary judgment on its claims that the Certificate Amendments, Class B Recapitalization Plan, the 1987 director elections and the passage of the director liability amendment were invalid under Delaware law (Count I); that the Proxy Statement reflected a breach of the duty of candor and unlawful coercion (Count II); and that the directors elected in 1987 were, and those directors to be elected in 1988 would be, improperly elected (Count VII). Expedited discovery followed, including the production of documents, requests for admissions and the depositions of some of the individual defendants.
+
+On June 21, 1988, the Dana and Trans-Lux parties entered into the Settlement which was filed with the Court, along with a form of Order directing that the action be maintained and proceed as a derivative and class action. It also provided for a hearing to be held on August 4, 1988, in the Court of Chancery, to determine the fairness, reasonableness and adequacy of the Settlement. Notice of the proposed Settlement and the hearing was sent to all class members.
+
+In the Settlement, Trans-Lux agreed to the entry of an “Order and Final Judgment”: (1) declaring the Certificate Amendments to be void ab initio and of no force and effect; (2) reinstating nunc pro tunc the paragraph of Article ELEVENTH of the certificate of incorporation which grants the directors’ concurrent power to amend the by-laws; (3) providing that the board of directors of Trans-Lux shall approve, effective as of the date of the Settlement, (a) an increase of 200,000 shares in the existing stock repurchase program and (b) an expansion of the odd-lot repurchase program from 25 share to 99 share lots for a period of 120 days from the date of the Settlement; and (4) requiring the board of directors to amend the company’s by-laws to reduce the notice period for stockholder nomination of directors to 60 days, which amended by-law is not to be altered, amended or repealed by the Trans-Lux board of directors for a period of 5 years from the effective date of the amendment.
+
+The relief under the Settlement extended to all shareholders of record or beneficial holders of common stock and/or Class B stock at any time during the period from March 21, 1986 (the record date for the 1986 annual meeting) through June 21, 1988. Trans-Lux also agreed to pay the costs of notice and settlement administration; to pay Dana’s counsel fees; not to oppose an application by Dana’s counsel for fees in an amount not to exceed $120,000; and to make reimbursement of Dana’s disbursements and expenses not to exceed $4,000.
+
+Nottingham objected to the Settlement in the Court of Chancery and filed a brief in support of its position. The Court of Chancery held a hearing on Nottingham’s objec [page *1094] tions. In a comprehensive oral opinion, the Court of Chancery rejected the Nottingham objections and approved the Settlement. First, it found that the Dana action sought predominantly equitable relief and, therefore, that certification of a class pursuant to Chancery Court Rule 23(b)(2) was appropriate. It did not afford Nottingham an opportunity to “opt out” of the Rule 23(b)(2) class action. Second, it found that even though part of Nottingham’s claim alleged federal securities violations, that did not preclude approval of the Dana Settlement. Third, the Court of Chancery concluded that the Settlement should be approved because of the substantial benefits conferred upon class members by the Settlement, when contrasted with the lack of probability of success had the Dana action proceeded on the merits. Finally, it held that there was no prohibition against approval of the Dana Settlement, even though the Settlement also released claims asserted in Nottingham’s federal action, since both lawsuits were predicated upon the same set of operative facts. However, the Court of Chancery also noted that the effect of the Settlement and the release on Nottingham’s federal litigation was ultimately for the Massachusetts federal court to decide. Consequently, the Court of Chancery refused to approve that portion of the Settlement seeking to enjoin the Nottingham litigation from proceeding in the Massachusetts federal court.
+
+Class Certification Pursuant to Rule 23(b)(2)
+
+Rule 23 of the Chancery Court Rules outlines the parameters of class action litigation. A class action is essentially a procedural device designed so that mere numbers may not impede large groups of individuals from either enforcing their rights or jointly defending against alleged wrongs on their part.[4] Chancery Court Rule 23 is almost identical to Rule 23 of the Federal Rules of Civil Procedure. Accordingly, in construing Chancery Court Rule 23, we find persuasive authority in the Advisory Committee’s Note on the federal rule and the interpretation of that rule by the federal courts. See Hoffman v. Cohen, Del.Supr., 538 A.2d 1096, 1097-98 (1988).
+
+In this case, Dana sought equitable relief, damages and costs. Nottingham acknowledges that the Court of Chancery has jurisdiction to decide Dana’s claims for equitable relief and, having properly asserted its equitable jurisdiction, to also decide Dana’s claim for damages. Abelow v. Symonds, Del.Ch., 156 A.2d 416, 420 (1959). Nottingham also admits that the claims raised by Dana are appropriate for certification as a class action. However, Nottingham contends that Dana’s claims and its own claims are primarily for monetary damages and not for equitable relief. Therefore, Nottingham argues that the Court of Chancery should have certified the Dana claims as a class action pursuant to Rule 23(b)(3) and not Rule 23(b)(2). In addressing the merits of this contention, it is helpful to briefly review the history and purpose of several provisions in the Court of Chancery class action rule.
+
+Under the Chancery Court Rule 23 and its federal counterpart, a condition precedent to the certification of a class action, is a two-step analysis. The first step requires that the action satisfy all four of the prerequisites mandated by subsection (a) of the rule. These are: “(1) the class is so numerous that joinder of all members is impracticable, (2) there are questions of law or fact common to the class, (3) the claims or defenses of the representative parties are typical of the claims or defenses of the class, and (4) the representative parties will fairly and adequately protect the [page *1095] interests of the class.” Ch.Ct.R. 23(a). If the provisions of subsection (a) are satisfied, the next step is to properly fit the action within the framework provided for in subsection (b). Cf. Fins v. Pearlman, Del.Supr., 424 A.2d 305, 310-11 (1980).
+
+Chancery Court Rule 23(b) divides class actions into three categories.[5] Subdivision (b)(1)[6] “applies to class actions that are necessary to protect the party opposing the class or the members of the class from inconsistent adjudications in separate actions.” [7] Subdivision (b)(2)[8] “applies to class actions for class-wide injunctive or declaratory relief.” Rutherglen, supra note 7, at 22. Subdivision (b)(3)[9] “applies when common questions of law or fact predominate and a class action would be superior to other means of adjudication.” Id.
+
+Subdivision (b)(2) “by its terms, clearly envisions a class defined by the homogeneity and cohesion of its members’ grievances, rights, and interests.” Rosen, Title VII Classes and Due Process: To (b)(2) or Not to (b)(3), 26 Wayne L.Rev. 919, 923 (1980). The factual predicate to certification of a class pursuant to (b)(2) is that “ ‘[t]he party opposing the class has acted or refused to act on grounds generally applicable to the class — ’” Id. (quoting Fed.R.Civ.P. 23(b)(2)). Homogeneity in the rights and interests of the class is also an indispensable element in a Rule 23(b)(2) certification because of the remedy that is contemplated by that subdivision, i.e., “final injunctive or corresponding declaratory relief with respect to the class as a whole.” Id. See Wetzel v. Liberty Mut. Ins. Co., 508 F.2d 239, 255 (3d Cir.), cert. denied, 421 U.S. 1011, 95 S.Ct. 2415, 44 L.Ed.2d 679 (1975). In commenting upon Rule 23(b)(2), the Advisory Committee’s Note to the 1966 Amendments to the Federal Rules of Civil Procedure (Advisory Committee’s Note) states:
+
+This subdivision is intended to reach situations where ... final relief of an in-junctive nature or of a corresponding declaratory nature, settling the legality of the behavior with respect to the class as a whole, is appropriate.
+
+Advisory Committee Note, supra note 5, at 102 (emphasis added). The Advisory Committee’s Note is cited by Nottingham, and has often been cited by others, in support of the principle that subsection (b)(2) was not intended to apply to claims that are primarily for damages. See Wetzel v. Liberty Mut. Ins. Co., 508 F.2d at 250.
+
+Chancery Court Rule 23, and Federal Rule 23 provide that certification of a (b)(3) class is appropriate where “questions of law or fact common to the members of the class predominate over any questions affecting only individual members_” Ch. Ct.R. 23(b)(3); Fed.R.Civ.P. 23(b)(3). Rule 23(b)(3) has also been called the “ ‘damage class action’ because it authorizes a single lawsuit for monetary redress on behalf of [page *1096] numerous persons having similar disputes with the defendant, when economies of time, effort, and expense would be achieved by representative group litigation.” [10] The Advisory Committee’s Note states that (b)(3) is now designed to encompass:
+
+those cases in which a class action would achieve economies of time, effort, and expense, and promote uniformity of decision as to persons similarly situated, without sacrificing procedural fairness or bringing about other undesirable results.
+
+Advisory Committee Note, supra note 5, at 102-03.[11] Nottingham submits that certification of the Dana class action should have been pursuant to subdivision (b)(3) and not (b)(2).[12]
+
+Our review of the Advisory Committee’s Note and the federal cases leaves no doubt that the provisions of subdivision (b)(3) have traditionally been applied to class actions primarily seeking relief in the form of damages. However, we find that contrary to the position taken by Nottingham, the fact that damages are sought, in addition to a request primarily for injunc-tive or declaratory relief, does not necessarily preclude a certification pursuant to subsection (b)(2). 3B J. Moore & J. Kennedy, supra note 10 at 23-278 & n. 3. We agree with the conclusion that “[although the Advisory Committee Note recommends Rule 23(b)(2) as the vehicle for injunctive or declaratory relief, that can resolve the dispute at one stroke, it also suggests that Rule 23(b)(2) may embrace suits seeking monetary compensation, provided this is not the predominant remedy:” Class Actions, supra note 10, at 872 (footnote omitted).[13]
+
+The Court of Chancery held that the Dana action satisfied the requirements for certification under (b)(2). The Court of Chancery found that the Dana complaint alleged breaches of fiduciary duty and disclosure violations. The underlying facts alleged in the Dana complaint related to the same transactions (the Class B Recapitalization Plan and the Certificate Amendments) submitted to the same stockholders by the same March 27, 1986 Proxy Statement. Therefore, the Court of Chancery concluded that the Dana action satisfied the first (b)(2) requirement of demonstrating that the party opposing the class [Trans-Lux] had acted on grounds generally applicable to the class (Trans-Lux stockholders). The Court of Chancery found that although the Dana complaint contained an alternative prayer for damages, the primary relief sought[14] and obtained [page *1097] in the Settlement was declaratory, injunc-tive and rescissory. Thus, the Court of Chancery found that the Dana action satisfied the second (b)(2) requirement of primarily seeking similar equitable relief with respect to the class as a whole. Fradkin v. Ernst, 98 F.R.D. 478, 490-91 (D. Ohio 1983). Cf. Baker v. Providence & Worcester Co., Del.Ch., 364 A.2d 838, 843 (1976), rev’d on other grounds, Del.Supr., 378 A.2d 121 (1977).[15] We are satisfied that both of these conclusions are supported by the record. We affirm the decision of the Court of Chancery to certify the Dana action pursuant to subsection (b)(2) of Chancery Court Rule 23.[16]
+
+23(b)(2)/Due Process Requirements
+
+If a class action is certified pursuant to Rule 23(b)(3), there is a requirement that class members be given actual notice and the right to opt out of the class. Ch. Ct.R. 23(c)(2). There is not a corresponding [page *1098] mandatory provision in Rule 23 for a class member to opt out of a Rule 23(b)(2) proceeding. Certification of a class pursuant to Rule 23(b)(2) makes the giving of notice and the opportunity to opt out discretionary. Ch.Ct.R. 23(d)(2).[17]
+
+Nottingham’s next argument is that even if the Dana action was appropriately categorized within the framework of Rule 23(b), the procedure which was followed by the Court of Chancery prior to certifying the Dana action as a Rule 23(b)(2) class, was unconstitutional. Nottingham argues that the due process clause of the federal Constitution requires that an absent class member, with a money damage claim, be afforded an opportunity to opt out. In support of its position, Nottingham relies upon a decision by the United States Supreme Court which considered the due process rights of absent class members, in situations where state courts seek to impose binding class judgments. Phillips Petroleum Co. v. Shutts, 472 U.S. 797, 105 S.Ct. 2965, 86 L.Ed.2d 628 (1985). Shutts held:
+
+If the forum State wishes to bind an absent plaintiff concerning a claim for money damages or similar relief at law, it must provide minimal procedural due process protection. The plaintiff must receive notice plus an opportunity to be heard and participate in the litigation, whether in person or through counsel.... Additionally, we hold that due process requires at a minimum that an absent plaintiff be provided with an opportunity to remove himself from the class by executing and returning an “opt-out” or “request for exclusion” form to the court.
+
+Id. at 811-12, 105 S.Ct. at 2974-75 (footnotes and citations omitted).[18]
+
+Nottingham argues that it was denied the due process protections set forth in Shutts, when it was not given an opportunity to opt out of the Dana class action.[19] In addressing Nottingham’s argument, we must consider the implications of the fact that the Supreme Court limited its holding in Shutts to “those class actions which seek to bind known plaintiffs concerning claims wholly or predominantly for money judgments.” Id. at 811, n. 3, 105 S.Ct. at 2974, n. 3. In particular, the Supreme Court stated “[w]e intimate no view concerning other types of class actions, such as those seeking equitable relief.” Id.
+
+The footnote in Shutts represents at least the second time that the Supreme Court has expressly declined to extend a due process analysis to class actions for injunctive or declaratory relief maintained under subdivision (b)(2). The first instance involved a requirement for individual notice in (b)(3) class actions. Eisen v. Carlisle & Jacquelin, 417 U.S. 156, 176-77 & n. 14, 94 S.Ct. 2140, 2151-52 & n. 14, 40 L.Ed.2d 732 (1974).[20] Therefore, in addressing whether [page *1099] or not federal due process mandates a right to opt out of a Rule 23(b)(2) class, we must focus upon a question that has thus far been left unresolved by the United States Supreme Court. Cf. Sternberg v. O’Neil, Del.Supr., 550 A.2d 1105 (1988). In doing so we look for guidance in prior decisions by the United States Supreme Court, various federal courts and legal scholars.[21]
+
+Several years ago, the United States Supreme Court noted that “ ‘ “[d]ue process,” unlike some legal rules, is not a technical conception with a fixed content unrelated to time, place and circumstances.’ ” Mathews v. Eldridge, 424 U.S. 319, 334, 96 S.Ct. 893, 902, 47 L.Ed.2d 18 (1976) (quoting Cafeteria Workers v. McElroy, 367 U.S. 886, 895, 81 S.Ct. 1743, 1748, 6 L.Ed.2d 1230 (1961), reh’g denied, 368 U.S. 869, 82 S.Ct. 22, 7 L.Ed.2d 70 (1961)). “ ‘[D]ue process is flexible and calls for such procedural protections as the particular situation demands.’ ” Id. (quoting Morrissey v. Brewer, 408 U.S. 471, 481, 92 S.Ct. 2593, 2600, 33 L.Ed.2d 484 (1972)).[22] The ability of the judiciary to effectively address evolving due process concerns has been particularly evident in Rule 23(b)(2) class action proceedings.
+
+Prior to Shutts, the Third Circuit Court of Appeals concluded that due process did not require notice and the opt-out opportunity for a (b)(2) class member because, by definition, the claims and interests of all class members were homogenous. Wetzel v. Liberty Mutual Ins. Co., 508 F.2d 239, 255-57 (3d Cir.), cert. denied, 421 U.S. 1011, 95 S.Ct. 2415, 44 L.Ed.2d 679 (1975).[23] However, it has subsequently been noted that this type of due process analysis, to the extent it depended upon homogeneity, began to break down “with the advent of the ‘hybrid’ Rule 23(b)(2) class action in which individual monetary relief for class members, typically back pay, [was] sought in addition to classwide [primary] injunc-tive or declaratory relief.” Penson v. Terminal Transport Co., 634 F.2d 989, 994 (5th Cir.1981), cert. denied, 479 U.S. 883, 107 S.Ct. 274, 93 L.Ed.2d 250 (1986) (emphasis added). Penson noted that these hybrid Rule 23(b)(2) actions start to resemble a 23(b)(3) action. Id. Therefore, to protect the due process rights of individual class members, Penson held that “where monetary relief is sought and is made available in a Rule 23(b)(2) class action, [some form of] notice [of the pending action or judgment] is no longer discretionary but is required at some stage in the proceedings.” Id. [ 24 ] (citing Johnson v. General Motors [page *1100] Corp., 598 F.2d 432, 438 (5th Cir.), reh’g denied, 605 F.2d 554 (1979)). Nevertheless, Penson also concluded that “a member of a Rule 23(b)(2) class action has no absolute [due process] right to opt out of the class, even where monetary relief has been sought and is made available.” Id.
+
+In an opinion that was released almost simultaneously with Penson, the Fifth Circuit held that “the right to opt out, which is denied when a Rule 23(b)(2) case is tried, also need not be provided when such a case is settled.” Kincade v. General Tire & Rubber Co., 635 F.2d 501, 507 (5th Cir.1981). That case is particularly instructive in evaluating Nottingham’s appeal, since it also involved the settlement of a 23(b)(2) class action. Kincade held:
+
+The due process clause of the Constitution is satisfied when a Rule 23(b)(2) class action is settled without providing objectors a means of opting out because the objectors are (1) adequately represented by the named plaintiffs, (2) represented by an attorney who is qualified,[25] (3) provided with notice of the proposed settlement,[26] (4) given an opportunity to object to the settlement, and (5) assured that the settlement will not take effect unless the trial judge-after analyzing the facts and law of the case and considering all objections to the proposed settlement-determines it to be fair, adequate, and reasonable.
+
+Id. at 507-508.
+
+The United States Supreme Court has said that “[t]he fundamental requirement of due process is the opportunity to be heard ‘at a meaningful time and in a meaningful manner.’ ” Mathews v. Eldridge, 424 U.S. at 333, 96 S.Ct. at 902 (quoting Armstrong v. Manzo, 380 U.S. 545, 552, 85 S.Ct. 1187, 1191, 14 L.Ed.2d 62 (1965)). It has also stated that “[t]he judicial model of an evidentiary hearing is neither a required, nor even the most effective method of decision making in all circumstances.” Id., 424 U.S. at 348, 96 S.Ct. at 909. Due process is satisfied if the procedures which are followed are “tailored, in light of the decision to be made, to ‘the capacities and circumstances of those who are to be heard,’ to insure that they are given a meaningful opportunity to present their case.” Id. at 349, 96 S.Ct. at 909 (quoting Goldberg v. Kelly, 397 U.S. 254, 268-69, 90 S.Ct. 1011, 1020-21, 25 L.Ed.2d 287 (1970).[27] See, e.g., In re A.H. Robins Co. Inc., 880 F.2d 709, 745-746 (4th Cir.1989); Williams v. Burlington Northern, Inc., [page *1101] 832 F.2d 100, 104 (7th Cir.1987), cert. denied, — U.S. -, 108 S.Ct. 1298, 99 L.Ed.2d 508 (1988).
+
+We are of the view that in the context of a class action settlement, the due process analysis of Rule 23(b)(2) set forth in the Fifth Circuit line of cases is consistent with and survives the United States Supreme Court holding in Shutts. In this case, the Court of Chancery afforded Nottingham all of the due process rights enunciated in Kincade. In addition, Nottingham was able to challenge each of the Court of Chancery’s rulings in this Court. See King v. South Cent. Bell Tel. & Tel. Co., 790 F.2d 524, 530 (6th Cir.1986). We conclude that Nottingham’s right to due process was not violated when it was precluded from “opting out” of the Rule 23(b)(2) Dana class action Settlement. Kincade v. General Tire & Rubber Co., 635 F.2d 501 (1981). See also Williams v. Burlington Northern, Inc., 832 F.2d at 104.
+
+We have concluded that when a portion of the relief which is sought is monetary, a member of a class certified under Rule 23(b)(2) has a Constitutional due process right to notification[28] but not a right to opt out of the class. Penson v. Terminal Transp. Co., 634 F.2d at 994; Johnson v. General Motors Corp., 598 F.2d at 438. Cf. Alexander v. Aero Lodge No. 735, Intern. Ass’n, 565 F.2d 1364, 1372-74 (6th Cir.1977), cert. denied, 436 U.S. 946, 98 S.Ct. 2849, 56 L.Ed.2d 787 (1978). Nevertheless, the Court of Chancery has discretionary power, under its Rule 23(d)(2) to provide for an opt out right and to require that notice thereof be given, if it believes that an opt out right is necessary to protect the interest of absent class members. Penson v. Terminal Transp. Co., 634 F.2d at 993-94. In exercising its discretion, before deciding whether or not to extend an opt out privilege as part of a subsection (b)(2) certification, the Court of Chancery must balance the equities of the defendants’ desire to resolve all claims in a single proceeding against the individuals’ interest in having their own day in Court.[29] The ability to opt out of the class always involves the potential for a multiplicity of lawsuits and variations in adjudication which class actions are intended to prevent.[30]
+
+A decision by the Court of Chancery, to afford or deny an opt out right to a member of a class certified under a Rule 23(b)(2), under circumstances like the ones presented in this case, is a discretionary one. Such a decision will be reversed by this Court only if it constitutes an abuse of discretion under the facts and circumstances which are presented. Penson v. Terminal Transport Co., 634 F.2d at 994. In this case, we find no abuse of discretion in the Court of Chancery’s decision not to afford Nottingham the right to opt out of the Dana class action, when it was certified under subsection (b)(2) of Rule 23.
+
+Court Approval of Settlement
+
+Nottingham argues that the Court of Chancery committed reversible error in determining that the Settlement was fair, reasonable and adequate to protect the interests of the shareholders of Trans-Lux. In analyzing such arguments, this Court has always been assiduous in distinguishing between the function and legal obligations imposed upon the Court of Chancery in initially reviewing a proposed settlement and the appropriate appellate standards by [page *1102] which this Court must subsequently examine such a decision. Both sets of legal principles are well established. Rome v. Archer, Del.Supr., 197 A.2d 49, 53-54 (1964); Polk v. Good, Del.Supr., 507 A.2d 531, 535-36 (1986). We must be cognizant of them in this case.
+
+As a general proposition, Delaware law favors the voluntary settlement of contested issues. Rome v. Archer, 197 A.2d at 53. However, the settlement of a class action is unique in that, “[b]ecause of the fiduciary character of a class action, the [C]ourt [of Chancery] must participate in the consummation of a settlement to the extent of determining its intrinsic fairness.” Id. In determining the fairness of a settlement, the law does not require that the parties be given an opportunity to have a trial on the issues presented. Id. But, the approval of a class action settlement does require more than a cursory scrutiny of the issues presented by the Court of Chancery. Id. The balance between these two extremes, which the Court of Chancery must achieve, has been described as follows:
+
+Under Rome, the [C]ourt’s function is to consider the nature of the [plaintiffs] claim, the possible defenses thereto, the legal and factual circumstances of the case, and then to apply its own business judgment in deciding whether the settlement is reasonable in light of these factors.
+
+Polk v. Good, 507 A.2d at 535 (citing Rome v. Archer, 197 A.2d at 53). “If, in the light of these matters, the [C]ourt [of Chancery] approves the settlement as reasonable through the exercise of sound business judgment, its function as the so-called third party to the settlement has been discharged.” Rome v. Archer, 197 A.2d at 53-54.
+
+In an appeal from the approval of a settlement of a class action, the function of this Court is more limited in its nature. Id. See also Polk v. Good, 507 A.2d at 536. We do not review the record to determine the intrinsic fairness of the settlement in light of our own business judgment. We review the record solely for the purpose of determining whether or not the Court of Chancery abused its discretion by the exercise of its business judgment. Polk v. Good, 507 A.2d at 536. Although that scope of review requires this Court to consider the entire record, if the findings and conclusions of the trial judge are supported by the record and the product of an orderly and logical deductive process, they will be accepted. Id. (citing Levitt v. Bouvier, Del.Supr., 287 A.2d 671, 673 (1972)). Therefore, for this Court to set aside a settlement which has been found by the Court of Chancery to be fair and reasonable, we must find that the evidence in the record is so strongly to the contrary of that conclusion, as to amount to an abuse of discretion. Rome v. Archer, 197 A.2d at 54.
+
+In examining the proposed settlement in this case, the Vice Chancellor applied the principles set forth in Rome to the facts that were before him. First, he examined the nature of the plaintiffs’ claim and the result which would be achieved by the Settlement. In doing so, he stated:
+
+[A] good part of the Dana lawsuit is being settled on a hundred percent basis. That is to say, insofar as the Dana complaint attacks the charter amendments other than the Class B charter amendment and the action taken to effectuate it, those amendments will be invalidated by agreement of the defendants, and on that basis, at least, it wouldn’t be inaccurate to say that the settlement would represent a complete victory for the Dana plaintiffs.
+
+The Vice Chancellor also noted that pursuant to the Settlement, the Trans-Lux stockholders will obtain relief in the form of a revised by-law, reducing the time required for notice of any nomination to the board of directors by the stockholders. The Vice Chancellor described the invalidation of the charter amendments and the revisions of the by-laws as “therapeutic relief” which will remove limitations which formerly existed on the ability of stockholders to directly influence the management of the corporation. The Vice Chancellor also found that the Settlement included a mech [page *1103] anism for providing some relief to stockholders who are dissatisfied with their investment in Trans-Lux. For the small stockholders, the odd-lot repurchase program was expanded from holders of twenty-five shares or fewer to include stockholders holding ninety-nine or fewer shares. For larger stockholders, the existing repurchase program was expanded by 200,000 shares.[31]
+
+Second, in applying the teachings of Rome, the Vice Chancellor evaluated the possible defenses to the plaintiffs’ claims. The Vice Chancellor found that all of the claims raised by Dana and Nottingham faced a “significant laches problem.” Nevertheless, the Vice Chancellor specifically addressed the merits of Nottingham’s nondisclosure claim concerning the sale of the theatres, which alleged á breach of the duty of disclosure under Basic, Inc. v. Levinson, 485 U.S. 224, 108 S.Ct. 978, 99 L.Ed.2d 194 (1988).[32] Basic held that in the context of the purchase or sale of securities, (i.e., Securities and Exchange Commission Rule 10b-5) an omitted fact is material and should be disclosed if there is a substantial likelihood that its disclosure would be considered significant by a reasonable investor. Id. The Vice Chancellor noted that the success of a claim of nondisclosure based upon the holding in Basic necessarily presented a factual issue. The Vice Chancellor concluded that the facts in the record before him made the outcome of a nondisclosure claim under Basic relating to the theatre sales “very uncertain.”[33]
+
+Finally, in accordance with the procedures set forth in Rome, after considering the legal and factual circumstances of the case, the Vice Chancellor applied his own business judgment in deciding whether the settlement was reasonable. The Vice Chancellor concluded that while the relief provided by the Settlement was less than what was called for in the Dana complaint “its value and its worth must be viewed in light of the strength of the claim that is being forgone in order to settle it.” The Court concluded that the Settlement “viewed as a whole” provided fair consideration for the release of the plaintiffs’ claims.[34]
+
+The reasonableness of a particular class action settlement is addressed to the discretion of the Court of Chancery, on a case by case basis, in light of all of the relevant circumstances. Evans v. Jeff D., 475 U.S. 717, 742, 106 S.Ct. 1531, 1545, 89 L.Ed.2d 747, reh’g denied, 476 U.S. 1179, 106 S.Ct. 2909, 90 L.Ed.2d 995 (1986). In this case, we find that the Vice Chancellor’s findings of fact are supported by the record. We [page *1104] also find that the legal conclusions reached by the Vice Chancellor were based upon a proper application of well established principles of law. Consequently, we find no abuse of discretion in this case. Therefore, the decision to approve the Settlement will not be disturbed by this Court. Polk v. Good, 507 A.2d at 536-39.
+
+No Interference With Federal Jurisdiction
+
+Nottingham argues that the Court of Chancery’s approval of the release, as part of the Settlement and the Order of Final Judgment, interferes with the jurisdiction of the Massachusetts’ federal court. Nottingham asserts that the action taken by the Court of Chancery “purports to compromise, settle, release and dismiss with prejudice, the federal securities claims asserted in the Nottingham Action.” We find that there is no factual support in the record for most of these arguments and that those arguments which are supported by the facts are not supported by the law.
+
+The record reflects that none of the provisions in the Settlement, the release or the Order of Final Judgment provides for an explicit or an implicit dismissal of Nottingham’s federal action. Moreover, the Court of Chancery refused to approve a ^portion of the Settlement which would have enjoined Nottingham from proceeding with its action in the Massachusetts federal court. In evaluating the terms of the Settlement, the Vice Chancellor stated:
+
+The one aspect of the settlement that I am troubled by, ... is that part that would enjoin Nottingham from proceeding with the litigation in Massachusetts. While the Court would be willing to entertain and would be willing to sign an order that would provide for release of that claim, that provision in the present form of order that would enjoin Nottingham from proceeding I do have difficulty with, because it has not been demonstrated to my satisfaction that the court could properly do that.
+
+Thereafter, the parties submitted a revised form of order that deleted any reference to barring or enjoining stockholders of Trans-Lux or members of the class from “instituting or prosecuting, directly, derivatively or in any other capacity, any action asserting claims which are settled claims.” Consequently, the only conclusions which can be reached from an examination of the record are that the Settlement and the Final Order of Judgment do not restrain Nottingham from proceeding in federal court, do not attempt to dismiss its federal action, and do not affect the jurisdiction of the Massachusetts federal court.
+
+However, the defendants in the Nottingham action may file a motion to dismiss in the federal court based upon the release. In fact, Trans-Lux indicated this was very probable during the oral argument before this Court. Therefore, Nottingham’s remaining argument which must be addressed is the allegation that the Vice Chancellor’s approval of a general release of the claims of the class members, including any federal claims, as part of the Settlement, constitutes an interference with the jurisdiction of the Massachusetts federal court and violates the Supremacy Clause of the United States Constitution. We find that Nottingham cannot prevail on this argument because the law has uniformly distinguished between the approval of a general release and dismissal or adjudication of an exclusively federal claim. The former is within a state court’s power, the latter is not. Abramson v. Pennwood Inv. Corp., 392 F.2d 759, 762 (2d Cir.1968).
+
+In Abramson, the Court of Appeals recognized the authority of a state court to approve a settlement releasing exclusively federal claims. Following the approval of a settlement of a derivative action in a New York state court, an objecting stockholder sought to intervene in a related derivative action pending in federal court attacking the same transaction on both federal and state law theories. The District Court denied intervention on the grounds that the state settlement was fair and reasonable, released the federal claims and bound the objecting stockholder. In affirming that decision, the Court of Appeals stated:
+
+Although the federal action would not be barred by the dismissal of the state ac [page *1105] tion, Babbitt [the corporation] could agree as part of a settlement agreement or otherwise, to release the federal claim.... [I]t was within [the state court’s] powers over the corporation and the parties to approve the release of that claim as a condition of settlement of the state action.
+
+Id. at 762. See also TBK Partners, Ltd. v. Western Union Corp., 675 F.2d 456, 460 (2d Cir.1982) (state courts have the authority to approve a settlement that releases a claim within the exclusive jurisdiction of the federal courts); see also Bernstein v. Mediobanca Banca di Credito, 78 F.R.D. 1, 5 (S.D.N.Y.1978) (general release executed pursuant to a state court-approved settlement will effectively bar exclusively federal claims arising out of the same transaction).
+
+In this case, the Settlement included a general release of all claims that were or could have been asserted against the defendants arising out of matters and transactions referred to in the Dana complaint or the Stipulation and Agreement of Compromise and Settlement.[35] The validity of executing a general release in conjunction with the termination of litigation has long been recognized by the Delaware courts. Chakov v. Outboard Marine Corp., Del.Supr., 429 A.2d 984, 985 (1981). More specifically, the Court of Chancery has a history of approving settlements that have implicitly or explicitly included a general release, which would also release federal claims.[36]
+
+We conclude that the Court of Chancery’s approval of the release, as part of the Settlement and Order of Final Judgment, does not in any way interfere with or limit the jurisdiction of the Massachusetts federal court. Nottingham may still proceed with its federal action. As a defendant in that action, Trans-Lux may decide to raise certain defenses arising out of the Court of Chancery's approval of the Settlement and release. However, as the Court of Chancery properly concluded, the Massachusetts Federal District Court has the final responsibility for addressing Nottingham’s claims and determining the effect of the release on those claims, in the exercise of its own jurisdiction. See Kremer v. Chemical Constr. Corp., 456 U.S. 461, 481-83, 102 S.Ct. 1883, 1897-99, 72 L.Ed.2d 262 (1982). See also 3B J. Moore & J. Kennedy, supra note 10, at 23-444 & n. 15; 7B C. Wright, A. Miller & M. Kane, supra note 4 § 1789, at 245. See also Steiner v. Sithe-Energies, L.P., Del.Ch., C.A. No. 9511, Hartnett, V.C., slip op. at 7, 1988 WL 36133 (Apr. 18, 1988); Good v. Texaco, Del.Ch., C.A. No. 7501, Brown, Ch., slip op. at 42, 1985 WL 11536 (Feb. 19, 1985).
+
+Release Bars Claims Based on Same Operative Facts
+
+Nottingham’s final argument also relates to the terms and conditions of the release. Specifically, Nottingham argues that a release executed as part of “a class action settlement may not extinguish claims based on different operative facts [page *1106] which were never asserted in the Complaint.” In support of its position, Nottingham relies primarily upon National Super Spuds, Inc. v. N.Y. Mercantile Exch., 660 F.2d 9 (2d Cir.1981).
+
+In response to that position, Trans-Lux argues that the operative facts in the Nottingham action are identical to those which are pleaded in the Dana action. Trans-Lux also submits that Nottingham’s reliance on a different nondisclosure theory to challenge the same transaction does not cause Nottingham’s claims to arise from a different set of operative facts. In support of its position, Trans-Lux relies upon the case of TBK Partners, Ltd. v. Western Union Corp., 675 F.2d 456 (2d Cir.1982).
+
+The decision of the Second Circuit Court of Appeals in National Super Spuds, Inc. held that a general release given by a class plaintiff who represented only those persons who had liquidated their positions in potato future contracts between April 13 and May 7, 1976, could not extend to the claims of persons outside of the class holding unliquidated contracts after May 7, 1976. The Second Circuit subsequently applied its holding in National Super Spuds, Inc. to the facts presented in TBK Partners, Ltd. v. Western Union Corp., 675 F.2d 456, 460 (2d Cir.1982). For the purposes of this case, it is significant that in TBK, the Court of Appeals was required to construe the meaning of the phrase “identical operative factual predicate” that had been used in National Super Spuds, Inc. Id.
+
+In TBK, a class action attacked the short-form merger between Western Union and Gold & Stock on several grounds, some of which were: (1) the information Statement sent to Gold & Stock shareholders omitted or misstated material facts; (2) Western Union would violate state law fiduciary duties owed to Gold & Stock if it effectuated a merger undervaluing Gold & Stock’s reversionary lease interest, and (3) the merger deprived the shareholders of Gold & Stock of the full value of.their reversionary interest in a lease with Western Union. Id. at 458. The stockholders objecting to the class settlement in TBK were the plaintiffs in a New York State Court appraisal proceeding challenging the adequacy of the merger consideration because of the undervaluation of the Gold & Stock reversionary interest. Id. at 457-60. Despite the different state and federal theories of recovery in the two actions, the Court ruled that the “operative factual predicate” was identical because the gravamen of both the class action and the appraisal proceeding was the proper valuation of the reversionary lease interest. Id. at 460-61. In its opinion in TBK, the Court of Appeals expressly upheld the power of a court to approve the release of claims pending in another forum where the released claim rests on the same factual predicate as the class action claim:
+
+As long as the overall settlement is found to be fair and class members were given sufficient notice and opportunity to object to the fairness of the release, we see no reason why the judgment upon settlement cannot bar a claim that would have to be based on the identical factual predicate as that underlying the claims in the settled class action. We have previously “assume[d] that a settlement could properly be framed so as to prevent class members from subsequently asserting claims relying on a legal theory different from that relied upon in the class action complaint but depending upon the very same set of facts.”
+
+We therefore conclude that in order to achieve a comprehensive settlement that would prevent relitigation of settled questions at the core of a class action, a court may permit the release of a claim based on the identical factual predicate as that underlying the claims in the settled class action even though the claim was not presented and might not have been presentable in the class action.
+
+Id. at 460 (footnote omitted).
+
+In this case, the Court of Chancery carefully examined both complaints. The Court of Chancery found that the gravamen of the Dana action and the Nottingham action was the nondisclosure of material facts in the Proxy Statement which was issued pri- [page *1107] or to the 1986 stockholder meetings. The Vice Chancellor held that although the two actions did not allege the identical nondisclosure claim, both actions arose under the same set of operative facts.[37] The Vice Chancellor concluded that since the Nottingham action challenged the same proxy statement which led to adoption of the proposals at the 1986 annual stockholders’ meeting that was at issue in the Dana action, albeit on a different nondisclosure theory, the release approved in Dana could properly include Nottingham’s claims. We find that the Vice Chancellor’s findings are supported by the record and that his conclusions are correct as a matter of law. Id. at 460.
+
+Conclusion
+
+The decision of the Court of Chancery certifying the Dana action pursuant to Chancery Rule 23(b)(2), denying Nottingham’s request to opt out of that class, approving the Settlement, and entering a Final Order of Judgment in the Dana action is AFFIRMED.
+
+[Footnote 1]
+
+. We are advised by counsel that, on the defendants' motion, the Federal District Court in Massachusetts stayed the proceedings in Nottingham pending a resolution of this appeal.
+
+[Footnote 2]
+
+. Nottingham had meetings with senior Trans-Lux executives in late summer or early fall, 1986. It demanded a stock list in October of 1986, in order to ascertain how may stockholders exchanged their shares for Class B shares. A hearing, pursuant to 8 DelC. § 220, was held in January of 1987. Nottingham Partners v. Trans-Lux Corp., Del.Ch., C.A. No. 8755, Hartnett, V.C., 1987 WL 7534 (Feb. 4, 1987). Nottingham participated in the exchange offer and exchanged their common stock for Class B stock.
+
+[Footnote 3]
+
+. The defendants are accused by Nottingham of failing to disclose in the Proxy Statement or elsewhere that the consequence of such a sale would be an increase in Trans-Lux's cash position by $15 million and would make Trans-Lux a materially more attractive company for any entity considering the take over of Trans-Lux, since such an entity could substantially finance the acquisition of Trans-Lux with Trans-Lux’s cash-on-hand.
+
+[Footnote 4]
+
+. 7A C. Wright, A. Miller & M. Kane, Federal Practice and Procedure § 1751, at 7 (1986). Rule 23, as is the case with all other rules, is "'... not be construed to extend or limit the jurisdiction of the Court of Chancery_’ ” Delaware Bankers Ass'n v. Div. of Revenue of the Dep’t. of Fin., Del. Ch., 298 A.2d 352, 357 (1972) (quoting Ch.Ct.R. 82). Therefore, before the Court of Chancery can be deemed to have jurisdiction over an action brought on behalf of a class, there is a need to demonstrate the existence of an equitable right arising out of the fact that no clear legal remedy is available. Wilmington Trust Co. v. Schneider, Del.Supr., 320 A.2d 709, 711 (1974). See also 10 Del.C. § 342.
+
+[Footnote 5]
+
+. See Fed.R.Civ.P. 23 Advisory Committee’s Note (1966), reprinted in 39 F.R.D. 95, 98 (1966) [hereinafter Advisory Committee Note].
+
+[Footnote 6]
+
+. The applicability of this subdivision has not been raised as an issue in this appeal.
+
+[Footnote 7]
+
+. See Rutherglen, Notice, Scope, and Preclusion in Title VII Class Actions, 69 Va. L.R. 11, 22 (1983).
+
+[Footnote 8]
+
+. Subdivision (b)(2) provides for class actions when:
+
+[t]he party opposing the class has acted or refused to act on grounds generally applicable to the class, thereby making appropriate final injunctive relief or corresponding declaratory relief with respect to the class as a whole....
+
+Ch.Ct.R. 23(b)(2).
+
+[Footnote 9]
+
+. Subdivision (b)(3) provides for class actions when:
+
+(3) [t]he court finds that the questions of law or fact common to the members of the class predominate over any questions affecting only individual members, and that a class action is superior to other available methods for the fair and efficient adjudication of the controversy. The matter pertinent to the findings include: (A) The interest of members of the class in individually controlling the prosecution or defense of separate actions; (B) The extent and nature of any litigation concerning the controversy already commenced by or against members of the class; (C) The desirability or undesirability of concentrating the litigation of the claims in the particular forum; (D) The difficulties likely to be encountered in the management of a class action.
+
+Ch.Ct.R. 23(b)(3).
+
+[Footnote 10]
+
+. Antidiscrimination Class Actions Under the Federal Rules of Civil Procedure: The Transformation of Rule 23(b)(2), 88 Yale L.J., 868, 872 (1979) [hereinafter Class Actions ]. The 23(b)(3) class has also been called "the present-day version of the spurious class action.” 3B J. Moore & J. Kennedy, Moore's Federal Practice § 23.45[1] at 23-289 (2d ed.1987). The term "spurious class action" was first used by Thomas Atkins Street to describe class actions that do not involve specific funds or specific property in which each class member has an interest. I T. Street, Federal Equity Practice 342 (1909). "Under the old Rule, a ‘spurious class’ suit could only be brought if the class members were seeking a common relief.” 3B J. Moore & J. Kennedy, supra, at 23-290. In contrast to the homogeneity that is a requirement of subsection (b)(2), a (b)(3) class is heterogeneous in nature. Rosen, Title VII Classes and Due Process to b(2) or Not to b(3), 26 Wayne L.Rev. 919, 923 (1980).
+
+[Footnote 11]
+
+. "Since under Rule 23(b)(3) the essential elements are [now] the predominance of common questions and the superiority of the class action as the method of adjudication, variations in the relief sought by particular class members will not necessarily prevent class certification.” 3B J. Moore & J. Kennedy, supra note 10, at 23-290.
+
+[Footnote 12]
+
+. For a discussion of the "troublesome" relationship between subsections (b)(2) and (b)(3) see, 3B J. Moore & J. Kennedy, supra note 10 at 23-277.
+
+[Footnote 13]
+
+. The Advisory Committee's Note states: "subdivision [ (b)(2) ] does not extend to cases which the appropriate final relief relates exclusively or predominantly to money damages.” Advisory Committee Note, supra note 5, at 102 (emphasis added). See also 7A C. Wright, A. Miller & M. Kane, supra note 4 § 1775 n. 24, at 466 (collecting cases).
+
+[Footnote 14]
+
+. The Dana complaint requests that the Court of Chancery enter an order that:
+
+A. Declares that the Brandt Entrenchment Plan, including the Class B Plan, the Class B Amendment, and the Certificate Amendments, is invalid under Delaware law and constitutes a manipulation of the corporate machinery, a breach of fiduciary duty and a waste of corporate assets;
+
+[page *1097] B. Declares that the May 16, 1986 stockholder vote was ineffective and that the Class B Plan, Class B Amendment and Certificate Amendments are, therefore, invalid, void and must be rescinded;
+
+C. Declares that the May 27, 1987, stockholder vote was ineffective and that the election of directors and passage of the Director Liability Amendment at the 1987 annual meeting are invalid and void and, therefore, six directors must stand for election at the 1988 Trans-Lux annual meeting and the elimination of liability under the Director Liability Amendment does not apply;
+
+D. Preliminarily and permanently enjoins defendants from relying upon the Director Liability Amendment or the Brandt Entrenchment Plan or any of its elements, including attempting to count the Class B Stock as having ten votes per share or the right to elect 75% of the directors;
+
+E. Awards damages for the wrongs committed by the defendants;
+
+F. Awards plaintiff his costs and expenses, including reasonable attorneys’ fees, in connection with the prosecution of this action;
+
+G. Awards such further relief as the Court deems just and appropriate;
+
+H. Declares pursuant to 8 Del.C. § 225 that the directors purportedly elected at the 1987 and 1988 annual meetings do not validly hold office and orders an election for six directorships at which all shares of Trans-Lux stock may be voted for six directors with each share entitled to one vote.
+
+I. Declares pursuant to 8 Del.C. § 225(b) that the Certificate Amendments and Director Liability Amendment are invalid.
+
+[Footnote 15]
+
+. In Baker, the Chancellor found that the stockholder-plaintiffs fit within Rule 23(b)(2) by arguing that the corporation's refusal to change certain voting restrictions was of legitimate interest to the class as a whole. 364 A.2d at 843. In Baker, however, the plaintiffs failed to satisfy the requirements of subsection (a). Id.
+
+[Footnote 16]
+
+. In certain circumstances, which are not present in this case, Professor Moore has suggested an alternative to certification under subsection (b)(2) exclusively:
+
+Subdivision (b)(2) is limited to actions where injunctive or declaratory relief with respect to the class is the exclusive or predominant final result sought. Thus a request for such a remedy merely in aid of a suit for money damages, to preserve the status quo, for instance, would not bring the action within (b)(2). Similarly, where it is clear that the real aim of the litigation is the ultimate money award, with a plea for injunctive relief appended as a formality or a very secondary consideration, the action should be classed within (b)(3). If however, injunctive relief and damages would be equally appropriate remedies, and both may be obtained, the court should divide the suit into subclasses handled under the separate subdivisions of (b); in many such situations class action treatment may only be necessary for the in-junctive aspect, with those individuals suffering actual injury pressing their individual claims for damages in a separate count.
+
+3B J. Moore & J. Kennedy, supra note 10, at 23-296 to 23-297 (footnotes omitted) (emphasis added).
+
+Professors Wright, Miller, and Kane are also in accord with that view:
+
+Disputes over whether the action is primarily for injunctive or declaratory relief rather than a monetary award neither promote the disposition of the case on the merits nor represent a useful expenditure of energy. Therefore, they should be avoided. If the Rule 23(a) prerequisites have been met and injunctive or declaratory relief has been requested, the action usually should be allowed to proceed under subdivision (b)(2). Those aspects of the case not falling within Rule 23(b)(2) should be treated as incidental. Indeed, quite commonly they will fall within Rule 23(b)(1) or Rule 23(b)(3) and may be heard on a class basis under one of those subdivisions.
+
+7A C. Wright, A. Miller and M. Kane, supra note 4, at 470. See also Rosen, Title VII Classes and Due Process: To (b)(2) or Not to (b)(3), 26 Wayne L.Rev. 919, 929-30 n. 45. Although this type of two-tiered certification is permissible, we do not find that in the Dana action it was required as a matter of law. Williams v. Burlington Northern, Inc., 832 F.2d 100, 103-04 (7th Cir.1987), cert. denied, — U.S. -, 108 S.Ct. 1298, 99 L.Ed.2d 508 (1988).
+
+[Footnote 17]
+
+. For a discussion of the reasons why mandatory notice and the right to opt out are not provided for in Rule 23(b)(2), see 3B J. Moore & J. Kennedy, supra note 10, at 23-262 to 23-264, 23-440 to 23-441; see also Advisory Committee Note, supra note 5, at 106.
+
+[Footnote 18]
+
+. Rule 23 and the due process clause requires that the named plaintiff at all times adequately represent the interest of the absent class member. Phillips Petroleum Co. v. Shutts, 472 U.S. at 812, 105 S.Ct. at 2974 (citing Hansberry v. Lee, 311 U.S. 32, 42-43, 61 S.Ct. 115, 118-119, 85 L.Ed. 22 (1940)).
+
+[Footnote 19]
+
+. Following Shutts, the Court of Chancery has consistently held that there is no due process right to opt out of a Rule 23(b)(2) class action, in which the plain tiff seeks equitable relief, exclusively or predominantly. See Schrieber v. Hadson Petroleum Corp., Del.Ch., C.A. No. 8513, Hartnett, V.C., slip op. at 8-11, 1986 WL 12169 (Oct. 29, 1986); In re Amsted Indus. Inc. Litigation, Del.Ch., C.A. No. 8224, Allen, C., slip. op. at 2-3, 1986 WL 12466 (Nov. 3, 1986); Joseph v. Shell, Del.Ch., C.A. No. 7450-NC, Hartnett, V.C., 1985 WL 21125 (Feb. 8, 1985); In re MAXXAM Group, Inc., Del.Ch., C.A. No. 8636, Allen, C., slip. op. at 29-30, 1987 WL 10016 (April 16, 1987).
+
+[Footnote 20]
+
+.Footnote 14 in Eisen states:
+
+We are concerned here only with the notice requirements of subdivision (c)(2), which are applicable to class actions maintained under subdivision (b)(3). By its terms subdivision (c)(2) is inapplicable to class actions for in-junctive or declaratory relief maintained under subdivision (b)(2). Petitioner’s effort to qualify his suit as a class action under subdivisions (b)(1) and (b)(2) was rejected by the Court of Appeals.
+
+417 U.S. at 177 n. 14, 94 S.Ct. at 2152 n. 14.
+
+[Footnote 21]
+
+.Professors Miller and Crump have stated that "[t]here is no neat and logical means of resolving the question whether mandatory actions survive Shutts. The answer depends upon the view one takes of Shutts itself and of the need for mandatory classes. It also depends upon the characteristics of the particular class action." Miller & Crump, Jurisdiction and Choice of Law in Multistate Class Actions After Phillips Petroleum Co. v. Shutts, 96 Yale L.J. 1, 52 (1986). Professor Weber has concluded that "[a]n application of Shutts to Rule 23(b)(2) class actions demonstrates that the minimum due process requirements of notice and the opportunity to opt out are conspicuously absent. The Rule therefore violates due process.” Weber, Preclusion and Procedural Due Process in Rule 23(b)(2) Class Actions, 21 U.Mich.L.J.Ref. 347, 387 (1988). Professor Wood has stated that a "more comprehensive application of procedural due process rulings [by the United States Supreme Court] shows that the extreme reading of Shutts is not in fact a correct one, and that the Court would not so hold if a purely representational case were presented to it.” Wood, Adjudicatory Jurisdiction and Class Actions, 62 Ind.L J. 597, 606 (1987). See also Coffee, Rethinking the Class Action: A Policy Primer on Reform, 62 Ind.L.J. 625 (1987).
+
+[Footnote 22]
+
+. In Mathews v. Eldridge, the Court concluded that an "identification of the specific dictates of due process generally requires consideration of three distinct factors: First, the private interest that will be affected by the official action; second, the risk of an erroneous deprivation of such interest through the procedures used, and the probable value, if any, of additional or substitute procedural safeguards; and finally, the Government's interest, including the function involved and the fiscal and administrative burdens that the additional or substitute procedural requirement would entail.” 424 U.S. at 335, 96 S.Ct. at 903.
+
+[Footnote 23]
+
+. See Advisory Committee Note, supra note 5, at 106. Cf. Johnson v. General Motors Corp., 598 F.2d 432, 437-38 (5th Cir.), reh’g denied, 605 F.2d 554 (1979); see Class Actions, supra note 10, at 872-73.
+
+[Footnote 24]
+
+. Accord Fontana v. Elrod, 826 F.2d 729, 732 (7th Cir.1987); see also 3B J. Moore & J. Kennedy, supra note 10, at 23-414 to 23-417.
+
+[Footnote 25]
+
+. The due process clause in the federal Constitution precludes binding an absent class member by a class action unless the class representative provided adequate and full representation. Hansberry v. Lee, 311 U.S. 32, 42-43, 61 S.Ct. 115, 118-119, 85 L.Ed. 22 (1940).
+
+[Footnote 26]
+
+. In this case, Trans-Lux voluntarily agreed to bear the cost of notice. We are mindful that this cost ordinarily is paid by the plaintiff. See Eisen v. Carlisle & Jacquelin, 417 U.S. at 177, 94 S.Ct. at 2152.
+
+[Footnote 27]
+
+. Although Professor Weber has concluded ■ that an application of Shutts to Rule 23(b)(2) compels a conclusion that the Rule violates due process, he has also suggested the following:
+
+An alternative approach to whether Rule 23(b)(2) affords adequate protection to absent class members is to consider the familiar calculus of due process set out in Mathews v. Eldridge. According to Eldridge, a court should weigh the following factors: (1) the significance of the absent class member's interest and the finality of the deprivation; (2) the likelihood of erroneous deprivation of the class member’s interest, given current safeguards and the benefit of alternative protections; and (3) any interest in maintaining the status quo, including the cost of additional or substitute procedures. The procedure violates due process if it fails upon consideration of these factors.
+
+Weber, supra note 21, at 387 (footnotes omitted). However, Professor Weber concludes that even if an Eisen analysis led to the conclusion that in the absence of a mandatory opt out right, subsection (b)(2) did not violate due process, "other procedures still might better protect the interests of all concerned.” Weber, supra note 21, at 394.
+
+Professors Miller and Crump have proposed a four factor analysis for determining the propriety of mandatory class certifications after Shutts:
+
+The principal factors to be considered include the (1) efficiency and (2) equity concerns that are well illustrated in the pre-Shutts mandatory class decisions, as well as (3) the concern about distant forum abuse and (4) the interest in individualized control that seem to underlie Shutts. Our theory is that the propriety of mandatory class certification pan best be determined by weighing the four enumerated policy factors in the context of each action.
+
+Miller & Crump, supra note 21, at 55-56.
+
+[Footnote 28]
+
+.The right to notification affords the absent class member an opportunity to ask the court to afford it a right to opt out of the Rule 23(b)(2) class if such a right was not provided for in the notice. See Advisory Committee Note, supra note 5, at 106-07. In this case, Nottingham was able to make such an argument. Moreover, since it was notified of the proposed Settlement prior to the class certification, in addition to objecting to the Settlement, Nottingham was able to argue the merits of the decision to certify the Dana action under subsection (b)(2) instead of subsection (b)(3).
+
+[Footnote 29]
+
+. According to Professor Weber, Professors Miller and Crump assert "that with respect to Rule 23(b)(2), the right to opt out is of fundamental importance to the class member, but of significance to the adverse party and judicial administration only in institutional cases." Weber, supra note 21, at 386 n. 161.
+
+[Footnote 30]
+
+. See 3B J. Moore & J. Kennedy, supra note 10, at 23-236.
+
+[Footnote 31]
+
+.In its answering brief in this Court, Trans-Lux argues that its agreement to purchase shares pursuant to such program provides a substantial benefit to stockholders:
+
+Stockholders selling their shares pursuant to either program can avoid transaction costs and thereby minimize the impact of withdrawing their investment. Moreover, the Company’s common stock is thinly traded and, indeed, does not trade every day. A large block put on the market could cause sharp price declines which would harm both the seller and other stockholders. When the company purchases blocks pursuant to its repurchase plan, it benefits all stockholders by avoiding such disruption, enables the seller to obtain the price sought and benefits existing stockholders since the value of their shares is not subjected to the sharp decline. Also, to the extent the Company makes purchases under its stock repurchase plan beyond that which normally would have traded, the marketplace for the trading of the Company's shares is enhanced.
+
+Defendants Below-Appellees’ Ans. Br. at 42.
+
+[Footnote 32]
+
+. The Court of Chancery was not required to rule definitively on any of the possible legal defenses. See Rome v. Archer, 197 A.2d 49 (1964). Moreover, it was precluded from ruling upon the “Basic" federal nondisclosure claim asserted by Nottingham.
+
+[Footnote 33]
+
+. The Vice Chancellor then found that prior to the 1986 Annual Meeting, Trans-Lux had only had preliminary discussions concerning the possible sale of the theatres and its directors concluded at a meeting in which its outside counsel participated, that the discussions were not firm enough to warrant disclosure. The record before the Vice Chancellor also reflected that an agreement in principle for sale of the theatres was not reached until eighteen days after the stockholders meeting occurred and more than two months after the Proxy Statement was distributed.
+
+[Footnote 34]
+
+. The “[vjalidity of a settlement does not depend upon every compromised claim in a lawsuit being supported by independent consideration." Polk v. Good, 507 A.2d at 538.
+
+[Footnote 35]
+
+. The terms of the release which Dana agreed to execute for himself and the class, as part of the Settlement, provides that:
+
+... all claims, rights or causes of action that have been, could have been, or in the future might have been asserted by or on behalf of plaintiff Trans-Lux or any Trans-Lux stockholder or class member or against any defendant, or against any of the officers, directors, agents, attorneys, representatives, affiliates, subsidiaries and general and limited partners, heirs, successors or assigns of any defendant, or against anyone else in connection with or that arise now or hereafter out of the Action, the Settlement (except for compliance with the Settlement), or any matters, transactions or occurrences referred to in the Complaint or the Stipulation, whether or not presently known, including the recitals herein (the "Set-tied Claims”), shall be compromised, settled, released and dismissed with prejudice....
+
+Plaintiffs Below-Appellants' Appendix at A-64 & A-65.
+
+[Footnote 36]
+
+. For example: (1) in Shingala v. Becor Western Inc., Del.Ch., C.A. No. 8858, Berger, V.C., 1988 WL 7390 (Feb. 3, 1988), the Court approved the settlement arising out of a disputed leveraged buy-out in which class action stockholders gave up pending federal securities claims to obtain the benefits of the settlement; and (2) in Tabas v. Crosby, Del.Ch., C.A. No. 6619, Hartnett, V.C., 1982 WL 17835 (June 24, 1982), aff’d sub nom., Geller v. Tabas, Del.Supr., 462 A.2d 1078 (1983), the court approved a settlement that contained general releases despite pending litigation in federal court on the same transaction.
+
+[Footnote 37]
+
+. The following is an excerpt from the transcript of the settlement hearing on August 4, 1988:
+
+THE COURT: You are bringing a claim that certain facts weren't disclosed?
+
+MS. GRACE [Nottingham’s Counsel]: Correct Your Honor.
+
+THE COURT: And that claim is being brought to enforce a particular section of the federal securities laws.
+
+MS. GRACE: That’s right.
+
+THE COURT: And Rule 14(a)(9).
+
+MS. GRACE: That’s right.
+
+THE COURT: That same claim could be brought as a Delaware common law claim, even though it would not have that label and all of the paraphernalia that goes along with it attached; isn’t that right?
+
+MS. GRACE: I suppose it could be brought as a breach of fiduciary duty claim, yes.
+
+******
+
+THE COURT: But your case does arise out of the same transaction upon which this case is based, does it not?
+
+MS. GRACE: Yes. I think it’s the same transaction, your Honor, in the sense that it is the same proxy statement ...
+
+******
+
+THE COURT: But the transaction that is being attacked is the same, is it not?
+
+MS. GRACE: Yes.
+
+THE COURT: That is, the adoption of the Class B plan and the issuance of the proxy statement in order to solicit the proxies.
+
+MS. GRACE: Yes.
