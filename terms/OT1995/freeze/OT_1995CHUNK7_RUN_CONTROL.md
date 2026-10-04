@@ -24,7 +24,7 @@ Source preparation is evidence support, not a Court action. Source-context expos
 
 ## Stage receipts
 
-Henderson, Casarotto, Pinder, Ornelas and Quackenbush are completed Court events. The first four public render entries have been reviewed against mechanically generated inputs; Quackenbush is in rendering. Loving and Auciello have reconciled commitments and are in assembly. Smiley has a finalized clean statutory supplement and is in fresh independent modeling. The final four June10 cases have completed source preparation and neutral drafts awaiting the actual completed June3 public-law refresh. Completed handoffs:
+Henderson, Casarotto, Pinder, Ornelas, Quackenbush, Loving and Auciello are completed Court events. All seven public render entries have been reviewed against mechanically generated inputs. Smiley has completed fresh independent modeling and is in historical reconciliation. The final four June10 cases have completed source preparation and neutral drafts awaiting the actual completed June3 public-law refresh. Completed handoffs:
 
 | Stage | Commit |
 |---|---|
@@ -70,6 +70,10 @@ Henderson, Casarotto, Pinder, Ornelas and Quackenbush are completed Court events
 | Safe OCC rulemaking process and exact banking statutes | 71a6c3c; 870950d |
 | Clean Smiley statutory neutral supplement | c20bf61 |
 | Quackenbush completed Record and exact public reading copy | 903499b |
+| Loving completed Record and exact public reading copy | 0b208d6 |
+| Auciello completed Record and exact public reading copy | 8e058fc |
+| Complete older banking opinions for the statutory source fork | 0d78f64 |
+| Clean replacement Smiley independent commitments | 3acae76 |
 
 The OCC rule is effective April 1, 1996; all seventeen completed Court events on/after that date through May20 were reviewed for material effects and none was found. At admission, this increased sources to eight and total Records to81, while Court events then remained73. It does not alter the preserved same-day baseline's substantive civil-service or arbitration rules; future relevant slices must include its exact terms. No completed adjudication or immutable earlier handoff is rewritten.
 
@@ -102,4 +106,10 @@ The preserved POST_MAY21 snapshot contains one stale source-cutoff clause attach
 
 ### Smiley modeling source-boundary incident
 
-Before writing any commitments, the first scoped Smiley modeling child searched an officially published OCC rule file and received its footnote5 containing this target case’s historical petition-treatment citation. The child reports no target Supreme Court merits outcome, reasoning or lineup exposure and wrote no commitments. This was excluded petition material, so the context stopped; no affected current commitment is retained or reused. Root will preserve the verified statutory source facts through a clean neutral supplement and a fresh independent model using only the bounded OCC PUBLIC source, with no raw final-rule source traversal. The original incident remains disclosed even after clean replacement. The three other June3 models are unaffected and remain distinct.
+Before writing any commitments, the first scoped Smiley modeling child searched an officially published OCC rule file and received its footnote5 containing this target case’s historical petition-treatment citation. The child reports no target Supreme Court merits outcome, reasoning or lineup exposure and wrote no commitments. This was excluded petition material, so the context stopped; no affected current commitment is retained or reused. Root preserved the verified statutory source facts in the clean neutral supplement c20bf61; the fresh independent model used only the bounded OCC PUBLIC source and authorized safe extracts, with no raw final-rule source traversal. Its completed commitments were frozen at3acae76 after full authorized earlier-authority review. The original incident remains disclosed even after clean replacement. The three other June3 models are unaffected and remain distinct.
+
+## June3 progress
+
+Quackenbush903499b unanimously affirms the judgment vacating the abstention remand. O’Connor receives Chief assignment66, her twentieth; Kennedy and Scalia retain distinct full-join concurrences. Loving0b208d6 unanimously affirms on the presented military authority challenges. Kennedy receives assignment67, his eighth; eight join the Court’s rationale and Thomas joins judgment only, with all three separate-writing functions preserved. Auciello8e058fc unanimously affirms full existing enforcement on the qualified Board policy; Ginsburg receives assignment68, her tenth. Root full-record and render reviews passed for all three, as did exact public identity, structural, link and explanation-ceiling checks. Current confirmed Chief totals are68: O’Connor20, Souter13, Ginsburg10, Kennedy8, Thomas6, Stevens5, Scalia3, Stone2 and Breyer1.
+
+The three completed June3 events await Smiley before integration as one common-date group and before the exact PRE_JUNE10 snapshot. Their bookkeeping sequence adds no same-day law. June10’s four clean neutral drafts have refreshed these three public decisions and await actual Smiley and the snapshot.
