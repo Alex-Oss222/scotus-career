@@ -1,0 +1,120 @@
+# Ornelas v. United States — independent Associate commitments
+
+**Status:** Complete provisional modeling handoff, ready for control to freeze. No comparator reconciliation, Chief Justice position, opinion assignment or final Court result is supplied.
+
+**Event:** No. 95-5257; May 28, 1996. Review of the Seventh Circuit's April 18, 1995 judgment in Nos. 94-3349 and 94-3350, following its February 10, 1994 opinion. The question concerns appellate review of ultimate reasonable suspicion for the stop and probable cause for the nonwarrant search. All eight Associate Justices participate; no missing argument date is inferred.
+
+**Frozen inputs:** [Validated neutral packet](OT_1995CHUNK7_ORNELAS_NEUTRAL_VALIDATED.md), commit `1f9169c`, verified SHA-256 `a621e4ed5fec89be8463029402f918de9388e98f8033b8952ef93f2fb9452e81`; [complete post-May 21 projection](../entering-law/OT_1995CHUNK7_POST_MAY21_NEUTRAL_PROJECTION.md) at `5631263`, verified SHA-256 `6b825efcab09981f418a7d0a3194c69606164b3a59ad322ebfe3210d236ab5a1`; [actual Pinder public decision](../entering-law/PUBLIC_Pinder_v_Johnson_merits_1996-05-21.md) at `0f327bd`; and the authorized opening law at `d69c51d`. Research cutoff: May 28, 1996.
+
+The [chronology clarification](../entering-law/OT_1995CHUNK7_POST_MAY21_CHRONOLOGY_NOTE.md), read at `e78b2c9`, corrects the snapshot's isolated descriptive clause: Pinder used the complete May 20 law, and Ornelas uses the complete May 21 law including Pinder. Only the four May 20 decisions shared May 13 entering law. No public holding or present commitment changes through that metadata correction.
+
+Only the frozen neutral materials, safe extractions, authorized prior public law and governing Engine provisions informed these commitments. No current-case historical Supreme Court treatment, comparator, private Stone input, private continuity, raw Decision Record or original Ornelas litigation-paper bundle was opened. General model knowledge is not represented as erasable; the commitments below rest on the supplied sources.
+
+## Shared posture and governing distinctions
+
+All eight accept review under §§1291 and 1254(1), following the source-supported conditional pleas preserving suppression. The parties' agreement on independent review does not remove the suppression controversy or bind the Court's legal classification. There is no supported participation, preservation or jurisdictional defect requiring dismissal. The separate NADDIS discovery claim and initial Supreme Court decision on the search's constitutional sufficiency are outside the authorized question.
+
+Every Justice preserves correction of legal-rule errors and clear-error review of historical findings and credibility. The disputed classification is the further determination whether the established totality meets the reasonable-suspicion or probable-cause threshold. The standards differ in the degree of justification required; that substantive distinction does not by itself establish different appellate review. No Justice selects separate review standards for the two ultimate questions on this record.
+
+First Options Part II and its Standards entry, **Independent determination and delegation of arbitrability**, effective May 22, 1995, supply ordinary independent legal/clear-error factual review, not the classification of these Fourth Amendment applications. Thompson applies Miller's functional method to ultimate Miranda custody; its majority and Thomas's dissent supply competing approaches, neither an automatic answer here. Stansbury supplies an objective substantive test in its own setting. Markman's judge/jury allocation expressly reserves appellate treatment of subsidiary findings. Sheets and Pinder preserve independent legal adjudication without replacing the governing factual-review regime. Pinder's favorable civil pleading assumptions are not a substitute for Ornelas's actual suppression findings, and immunity's reasonable-mistake inquiry is not the constitutional suppression standard.
+
+Gates's substantial-basis review concerns an issuing magistrate's warrant decision. Its warrant preference and observation about fact-specific probable-cause applications must both be addressed; it does not already dictate appellate review of a suppression judge in a nonwarrant case. Pierce and Cooter & Gell establish that functional reasons can support deference, including on mixed questions, but their EAJA and litigation-management settings retain their significance. Salve Regina's independent legal review likewise does not classify all mixed questions.
+
+Section 636(b)(1)(B) permits suppression recommendations, followed by the district judge's de novo determination of specifically objected-to portions. Under Raddatz that is not invariably a fresh hearing; the distinct credibility-rejection reservation is not implicated by the district judge's acceptance of the loose-panel finding. The nondispositive provision in §636(b)(1)(A) does not govern suppression's final disposition. None of these rules independently fixes court-of-appeals review. Civil Rule 52(a) and Thompson's former §2254(d) regime are analogies, not governing criminal appellate text. No habeas presumption, convincing-evidence burden or new evidentiary hearing follows.
+
+Both proposed appellate rules would operate symmetrically in an otherwise authorized government suppression appeal. Section 3731 supplies no such appeal here and retains its jeopardy-stage restriction, prosecutorial certifications, thirty-day deadline and diligent-prosecution requirement; its separate dismissal/new-trial and release provisions confer no unrestricted suppression jurisdiction. The 1971 savings provision is inapplicable to this prosecution. The admitted Rule 57 amendment and other current-term noncase sources supply no additional review standard, excuse from Rule 11(a)(2), or present procedural default.
+
+## Exact review allocations and tested alternatives
+
+**Independent allocation selected by Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer:**
+
+- Historical events, physical conditions, communicated observations and credibility findings remain reviewable for clear error. A genuinely factual subsidiary inference receives that same protection; attaching the word “inference” does not convert a factual finding into law.
+- The appellate court independently determines whether the established circumstances supply reasonable suspicion and probable cause. It need not find the district judge's ultimate conclusion clearly erroneous before disagreeing. Practical probabilities, innocent explanations and the totality remain part of that objective constitutional inquiry.
+- Supported local knowledge and experience-informed explanations deserve weight in evaluating the circumstances. That means considering their actual evidentiary foundation and contextual significance, including the trial court's comparative ability to assess them. It creates no presumption that an officer's suspicion is correct, no direct appellate deference to police, and no separate clear-error shield for the ultimate inference that the constitutional threshold is satisfied. For example, whether the panel was loose is a factual issue; whether that fact and the remaining circumstances justify dismantling is independently assessed. An assertion of expertise cannot supply an unproved observation or database identification.
+
+The six can join this common allocation. Appropriate weight is a qualification on how independent review evaluates the record, not an intermediate standard that leaves the ultimate conclusion to the district judge. No additional numerical weight, mandatory written explanation, generalized officer-credibility preference or separate evidentiary burden is adopted.
+
+**Deferential allocation selected by Scalia and Thomas:** Legal definitions and legal-rule errors receive independent correction; historical findings, credibility and the concrete totality-based ultimate applications receive clear-error review. Deference runs to the district court's adjudication, not the officers' conclusions. Neither would substitute the issuing-magistrate substantial-basis test for clear error or insulate an erroneous legal rule through a factual label.
+
+| Supported path | Strongest case for it | Counterargument tested and conclusion |
+|---|---|---|
+| Independent ultimate review and appellate remand | Constitutional boundaries acquire practical content through applications; appellate comparison supplies national guidance and error correction without retrying history. Thompson and Miller support separating the functions. | Probabilities are contextual and trial judges possess useful experience. The six preserve factual review and the qualified weight described above but find those advantages insufficient to entrust ultimate constitutional sufficiency to clear-error review. |
+| Clear-error ultimate review and affirmance | The decisive task is an experienced assessment of fact-specific probabilities, with limited generalizable precedent. Pierce, Cooter & Gell and Gates's practical observations support institutional deference. | The direct national constitutional question and nonwarrant setting favor appellate control. Scalia and Thomas retain independent legal-rule correction but regard those considerations as insufficient to reclassify every concrete probability assessment. |
+| Independent ultimate review with a distinct subsidiary allocation | Descriptive findings and supported contextual inferences may deserve factual protection or evidentiary weight while ultimate legal sufficiency remains independent. | Undefined “deference to inferences” could swallow independent review or elevate police opinion above law. The six accept only the expressly bounded allocation above; none selects an unspecified intermediate formula. |
+| Different standards for reasonable suspicion and probable cause | The thresholds authorize different intrusions and require different degrees of justification. | Both questions ask whether established circumstances satisfy an objective constitutional threshold. No source-grounded institutional difference here warrants opposite appellate allocations. The six would remand both preserved components; the two would affirm the reviewed allocation for both. |
+
+## Individual commitments
+
+### Stevens
+
+**Judgment:** Vacate and remand to the court of appeals for independent review of both ultimate questions under the stated allocation.
+
+**Ground and own sources:** His Miller join and simulated Thompson join support independent constitutional application after facts are settled. His White dissent shows the importance of evaluating what known information rationally establishes, although it supplies no separate appellate holding. The credited loose panel illustrates the distinction: the disagreement remaining between magistrate and district judge concerns the legal significance of accepted circumstances. His First Options, Sheets and Pinder positions preserve ordinary factual limits.
+
+**Strongest objection and join limit:** He joined Pierce II, Cooter & Gell IV and the Salve Regina dissent; he does not presume that every application merits independent review. Local state-law prediction and litigation-management judgments have institutional features absent from a national search-and-seizure boundary. He accepts contextual weight for substantiated experience but would not join an officer-favoring presumption, automatic profile significance, or clear-error protection for the ultimate probability conclusion. He decides no suppression result or NADDIS reliability.
+
+### O'Connor
+
+**Judgment:** Vacate and remand for independent ultimate reasonable-suspicion and probable-cause review, retaining the common factual and contextual qualifications.
+
+**Ground and own sources:** Her Miller and Thompson opinions require a functional division between establishing events and giving a constitutional boundary practical content. Her Cooter & Gell opinion demonstrates that she assesses the particular institutional task rather than treating the mixed label as decisive. Her Gates, Sokolow, White and Salve Regina joins support practical totality analysis and meaningful appellate legal responsibility. She would distinguish warrant review because prior authorization's institutional value supports a different reviewing relationship.
+
+**Strongest objection and join limit:** The practical, experience-dependent character of probability assessment supports the amici's analogy to discretionary judgments. She answers by protecting actual factfinding and giving supported local and professional inferences their proper weight, while reserving the ultimate national standard to independent judgment. Her opposition to deferential substantial-justification review in Pierce's separate opinion is additional issue-specific support, not a universal antideference rule. She would not join fresh credibility determinations or a rule equating subjective police belief with constitutional justification.
+
+### Scalia
+
+**Judgment:** Affirm within the reviewed standard-of-review question; both ultimate determinations receive clear-error review, with independent correction of legal errors.
+
+**Ground and own sources:** His Pierce Part II analyzes comparative judicial advantage, practical administration and limited generalizability. His Cooter & Gell IV join and Gates's surviving reasoning support treating these totality-based probability assessments as predominantly factual applications once the governing law is correct. He regards independent repetition of each case-specific estimate as offering less useful national guidance than independent control over the legal criteria themselves.
+
+**Strongest objection and join limit:** His Thompson and Salve Regina joins support the competing position. He distinguishes the objective arrest-equivalence boundary and state-law exposition there from the practical estimate of criminal activity or evidence here; Thompson expressly rejected an all-mixed-questions rule. Gates's warrant preference does not directly control this nonwarrant appeal, but the practical nature of probability assessment remains relevant. The district judge's institutional role is not erased by magistrate referral or lack of a second hearing. He would not join independent ultimate review merely softened by undefined weight, direct deference to officers, or immunity-style reasonable-error protection. Affirmance does not newly adjudicate the stop/search merits outside scope.
+
+### Kennedy
+
+**Judgment:** Vacate and remand for the court of appeals to independently decide both ultimate constitutional questions on the established record.
+
+**Ground and own sources:** His Sokolow and White joins recognize a practical totality standard; his Salve Regina and Thompson joins support appellate responsibility for the constitutional boundary applied to established events. First Options supplies the ordinary allocation, while his Sheets and Pinder joins preserve the distinction between legal sufficiency and factual redetermination. The greater consequences of a probable-cause finding change its substantive threshold, not this allocation.
+
+**Strongest objection and join limit:** He joined Cooter & Gell IV and accepts that institutional advantages sometimes support deference. He did not participate in Pierce; no join is attributed to him. Here protecting historical findings and respecting supported experience retain those advantages without allowing different circuits' clear-error tolerances to determine the constitutional boundary. He accepts the common limited treatment of subsidiary inferences, but not a presumption validating the police conclusion or an extension of warrant-review deference. He joins appellate remand, not a present finding that the stop or dismantling was lawful.
+
+### Souter
+
+**Judgment:** Vacate and remand for independent ultimate review of reasonable suspicion and probable cause.
+
+**Ground and own sources:** His Salve Regina, Thompson and First Options joins place independent legal application with the reviewing court when that task gives a national rule operational content. His Markman opinion supplies an issue-specific institutional comparison and attention to consistency, while expressly leaving appellate subsidiary-finding treatment open. The parties' agreed historical loose-panel finding demonstrates why the ultimate constitutional assessment can be separated from credibility without treating every inference as law.
+
+**Strongest objection and join limit:** Gates's observation that individual probable-cause rulings often have modest precedential value undercuts an exaggerated uniformity claim. Recurrent combinations nevertheless guide lawful police action, and constitutional error correction matters even when no general formula emerges. He accepts ordinary factual protection and qualified contextual weight, not deference to the district court's final constitutional answer. His Pinder join supplies no favorable-assumption rule for this criminal record. He would not join reversal directing suppression, a new evidentiary hearing, or a patent-derived rule authorizing independent review of all historical inferences.
+
+### Thomas
+
+**Judgment:** Affirm the reviewed allocation; apply clear-error review to the concrete reasonable-suspicion and probable-cause determinations, independently correcting legal definitions and legal-rule errors.
+
+**Ground and own sources:** His Thompson dissent distinguishes the legal definition from a concrete reasonable-person inference. The same classification argument applies with particular force to estimates of practical probability from interacting circumstances. His Stansbury and First Options joins are consistent: an objective substantive rule and independent review of legal conclusions do not establish that every application is itself legal. His Markman join concerned the particular judicial interpretation task and expressly reserved appellate treatment.
+
+**Strongest objection and join limit:** Direct Fourth Amendment review lacks Thompson's statutory fact presumption and directly regulates searches; neither difference alone eliminates trial-level advantages in assessing the concrete probability. He applies no §2254(d) presumption or burden here. Independent appellate control of legal criteria remains meaningful, and clear error can correct unsupported applications. Magistrate referral does not make the district judgment institutionally irrelevant; §636 authorizes its own determination, and the material credibility finding was accepted. Thomas does not rest on an invented Casarotto Part III join. He would not join independent ultimate review or blanket deference to police, and does not decide a new suppression ground.
+
+### Ginsburg
+
+**Judgment:** Vacate and remand for independent ultimate review of both preserved constitutional thresholds.
+
+**Ground and own sources:** Her Thompson and First Options joins and her Elder and Behrens opinions distinguish appellate legal responsibility from resolving contested evidence. The ultimate questions here assess constitutional sufficiency after the factual predicates are established. Sheets and Pinder reinforce that separation at their actual scope. Appellate comparison of applications can give objective standards consistent content without replacing credibility judgments or granting access to excluded database materials.
+
+**Strongest objection and join limit:** Trial expertise and contextual inference are real, and her law/fact holdings alone do not classify this mixed question. She finds the controlling task to be justification under a national constitutional standard, while ordinary clear-error review protects its factual predicates. Supported officer experience is relevant evidence, not an additional appellate presumption. She joins the stated allocation only with ultimate sufficiency fully independent; she would not give an unverified NADDIS match, discarded rust account or inconclusive scratches the status of a found fact. The correction is appellate reconsideration, not automatic suppression or fact development.
+
+### Breyer
+
+**Judgment:** Vacate and remand for independent ultimate reasonable-suspicion and probable-cause review with the specified protection for factual findings and contextual weight.
+
+**Ground and own sources:** His First Options opinion separates ordinary legal and factual appellate functions; his Johnson opinion protects historical factual work from relabeling; his Thompson join supports independent application where a national constitutional boundary requires it. These sources require classifying the work actually performed. Whether the credited loose panel and remaining established circumstances meet a search threshold is distinct from whether the panel was loose or the witness credible.
+
+**Strongest objection and join limit:** Repeated appellate reassessment has costs, and trial judges develop useful local experience. He would account for that experience through supported factual findings and the express contextual qualification, while preserving independent ultimate judgment and useful guidance from recurring circumstances. Gates does not extend warrant-specific deference to this retrospective nonwarrant inquiry. He rejects both a wholly fresh factual examination and an opaque middle standard that effectively retains clear-error ultimate review. His remand would not restore inevitable discovery, create a new hearing, or decide suppression in the first instance.
+
+## Record, remedy and final handoff limits
+
+The six vacatur positions require the court of appeals to apply the chosen standard first to both preserved questions, including reasonable suspicion previously considered under clear-error review. They do not hold that the existing result necessarily changes. Vacatur corrects appellate review; it is not an order suppressing cocaine, acquitting, releasing petitioners, granting a new trial or unconditionally allowing plea withdrawal. Rule 11(a)(2)'s withdrawal consequence depends on ultimately prevailing on the preserved issue, not merely obtaining this appellate remand. The two affirmance positions sustain the reviewed allocation and existing judgment within that question without adding a new merits rationale.
+
+Every position preserves the actual December 11, 1992 event date, the corrected finding that the gun was not visible, the credited loose panel, the adverse rust assessment and inconclusive scratches. The district judge accepted the remand credibility finding; no commitment orders a hearing to resolve a nonexistent conflict over that finding. Whether particular historical findings are otherwise properly challenged remains subject to ordinary review, not a new factual dispute created here.
+
+The database entries are not established to identify petitioners. No commitment supplies missing reliability or orders production to cure an operator-source gap. Consent did not authorize dismantling, and inevitable discovery is waived; neither becomes an alternative affirmance ground. Nothing adjudicates the excluded discovery claim or a broader preserved issue not supplied by the packet.
+
+Source support consists of the frozen packet, the [safe source extraction](../sources/chunk7_a/ornelas_SANITIZED_SOURCE_EXTRACT.md), [objective record facts](../sources/chunk7_a/ornelas_SANITIZED_RECORD_FACTS.md), the authorized [Thompson public opinion](../entering-law/PUBLIC_Thompson_v_Keohane_merits_1995-11-29.md), the opening First Options entry, and the later public authorities cited above. Original-paper pinpoints and pre-divergence writings/joins are used as verified in the frozen neutral source audit; this modeling context does not claim to have read the excluded original Ornelas papers or to have newly audited every earlier opinion. No additional material record assumption or reconstruction premise is adopted. The eight commitments are complete for separate historical reconciliation.
