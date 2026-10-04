@@ -2,7 +2,7 @@
 
 ## Scope, law and chronology
 
-Current Court actions comprise 63 completed events and five admitted noncase-law sources (68 canonical Records). The April 9 Bowersox interim order is followed by a separate final action granting Missouri's application, 5–4, and vacating the March 8 appellate stay with immediate effect. The Supreme Court application is closed. The underlying appeal and any other lawful restraints are not adjudicated; no substitute stay, fixed grace period, execution order, writ disposition or appeal dismissal is entered. Actual transmission, service, responses and elapsed interim clocks are not presumed. Thirteen chunk 5 Court events and all twelve chunk 4 actions are recorded. Ayers's March 25 library-only writ was dismissed as improvidently granted, 8–1; this Court's review ends while the Fifth Circuit appeal and the district court's remedial jurisdiction remain available. The dismissal changes no substantive desegregation rule and leaves every decree provision undisturbed without merits affirmance. The completed March 27 and April 1 groups retain their respective common March 26 and March 27 entering-law baselines. Jones’s financial-leave motion and certiorari petition remain pending; Wood remains an open plenary grant. Maine No. 35 and Louisiana No. 121 retain implementation jurisdiction, alongside the five inherited open matters. These are the nine previously identified continuing matters. Ayers is no longer an open Supreme Court matter; its pending lower-court appeal is preserved. Shieh’s separate certiorari petitions, Nos. 95-7587, 95-7588 and 95-7589, are also pending after their three individual financial motions were granted; they are not three additional completed Court events. Bowersox, No. A-828, is closed by the final April 9 application order; its underlying appeal and any other lawful restraints are not adjudicated. Latest completed Court event: Cooper v. Oklahoma, April 16, 1996. Next eligible inventory item: the April 23 Markman and Holly Farms group, chunk 6, sharing the common April 16 entering-law baseline. The five admitted sources are the October 1, 1995 paternity amendment; Rule 57 effective December 1, 1995, with its qualified pending-case transition; Public Law 104-91 enacted January 6, 1996, with its covered period deemed to begin December 16, 1995; and Telecommunications Act §§302 and 551 enacted February 8, 1996, within their actual conditions and transitions.
+Current Court actions comprise 65 completed events and seven admitted noncase-law sources (72 canonical Records). The April 9 Bowersox interim order is followed by a separate final action granting Missouri's application, 5–4, and vacating the March 8 appellate stay with immediate effect. The Supreme Court application is closed. The underlying appeal and any other lawful restraints are not adjudicated; no substitute stay, fixed grace period, execution order, writ disposition or appeal dismissal is entered. Actual transmission, service, responses and elapsed interim clocks are not presumed. Thirteen chunk 5 Court events and all twelve chunk 4 actions are recorded. Ayers's March 25 library-only writ was dismissed as improvidently granted, 8–1; this Court's review ends while the Fifth Circuit appeal and the district court's remedial jurisdiction remain available. The dismissal changes no substantive desegregation rule and leaves every decree provision undisturbed without merits affirmance. The completed March 27 and April 1 groups retain their respective common March 26 and March 27 entering-law baselines. Jones’s financial-leave motion and certiorari petition remain pending; Wood remains an open plenary grant. Maine No. 35 and Louisiana No. 121 retain implementation jurisdiction, alongside the five inherited open matters. These are the nine previously identified continuing matters. Ayers is no longer an open Supreme Court matter; its pending lower-court appeal is preserved. Shieh’s separate certiorari petitions, Nos. 95-7587, 95-7588 and 95-7589, are also pending after their three individual financial motions were granted; they are not three additional completed Court events. Bowersox, No. A-828, is closed by the final April 9 application order; its underlying appeal and any other lawful restraints are not adjudicated. Latest completed Court group: Markman and Holly Farms, April 23, 1996. Latest admitted source and legal cutoff: PLRA sections 802–804, April 26, 1996. Next eligible inventory item: the April 29 Carlisle and Sheets group, chunk 6, sharing the common April 26 entering-law baseline. The seven admitted sources are the October 1, 1995 paternity amendment; Rule 57 effective December 1, 1995, with its qualified pending-case transition; Public Law 104-91 enacted January 6, 1996, with its covered period deemed to begin December 16, 1995; Telecommunications Act §§302 and 551 enacted February 8, 1996, within their actual conditions and transitions; AEDPA Title I enacted April 24, 1996; and PLRA sections 802–804 enacted April 26, 1996. The two new sources retain their provision-specific conditions and temporal limits and change no pending case stage by admission alone.
 
 The opening law is the [Holdings doctrinal volumes](../../../state/holdings/INDEX.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md) and [Standing State](../../../state/STANDING_STATE.md), through the complete June 29, 1995 group. The [Composition register](../../../foundation/COURT_COMPOSITION.md) supplies membership, seniority and the August 3, 1994 circuit allotments. Current decisions and statutes below apply from their own effective dates and within their stated limits.
 
@@ -1243,12 +1243,12 @@ The following dependencies retain their stated current or conditional status:
 | Whren v. United States (1996-06-10) | Ornelas v. United States (1996-05-28) | Use an actual earlier effective holding only within its scope, after refreshing entering law. |
 | Lockheed Corp. v. Spink (1996-06-10) | Varity Corp. v. Howe (1996-03-19) | Use an actual earlier effective holding only within its scope, after refreshing entering law. |
 | Baby Richard v. Kirchner / Doe v. Kirchner (1996-06-21) | Express same-day coordination; common pending-transfer posture | Preserve the common entering baseline and distinct child-implementation and adult-adoption questions and remedies. No release priority or intervening holding is established. |
-| Felker v. Turpin (1996-06-28) | Lonchar v. Thomas (1996-04-01); AEDPA source check below | Refresh from any actual Lonchar holding. Establish the enacted gatekeeping and jurisdiction text, effective provisions and applicability before use; original habeas and ordinary certiorari remain distinct. |
+| Felker v. Turpin (1996-06-28) | Lonchar v. Thomas (1996-04-01); admitted AEDPA Title I source below | Apply Lonchar within its actual holding and examine the admitted Title I text for the precise later posture, transition and qualifying facts; source admission decides neither pending-case application nor original habeas jurisdiction. Original habeas and ordinary certiorari remain distinct. |
 | Pennsylvania v. Labron / Pennsylvania v. Kilgore (1996-07-01) | Ornelas (1996-05-28); Whren (1996-06-10) | Refresh from actual earlier effective decisions and retain their boundaries; no proposed construction enters at opening. |
 
 ### Known source and institutional dependencies
 
-The four enacted sources in Current Law are distinct from Court actions. The source dependencies below retain their separate dates and transitions. The Ayers entries concern lower-court amendments whose full texts remain unavailable; the completed library-only dismissal construes neither amendment. Later enactments do not govern an earlier fee motion. No additional roster change or circuit reallotment is established.
+The seven admitted noncase-law sources are distinct from Court actions and retain their separate dates, enacted conditions and transitions. AEDPA Title I was enacted April 24 and PLRA sections 802–804 April 26; no pending matter changes stage by either admission. The Ayers entries concern lower-court amendments whose full texts remain unavailable; the completed library-only dismissal construes neither amendment. Later enactments do not govern an earlier fee motion. No additional roster change or circuit reallotment is established.
 
 | Supplied source date | Matter or instrument | State at opening and required next step |
 |---|---|---|
@@ -1257,7 +1257,8 @@ The four enacted sources in Current Law are distinct from Court actions. The sou
 | 1996-02-08 | Telecommunications Act of 1996, §302(b)(1), repeal of 47 U.S.C. §533(b); Chesapeake & Potomac / Bell Atlantic, 1996-02-27 | Completed: [enacted source](../entering-law/PUBLIC_Telecommunications_Act_section_302_statutory_effectiveness_1996-02-08.md) verifies February 8 repeal and the video-dialtone transition protection. The February 27 Court disposition vacates only the appellate judgment and returns mootness and surviving relief to the Fourth Circuit; enactment alone does not decide either question or vacate the trial judgment. |
 | 1996-02-16 | Ayers district-docket entry 557, admissions amendment | The docket corroborates the February 16 admissions amendment, but its exact operative order and associated motion are not yet admitted. Their full texts have not been located. The bounded pre-event docket extract `sources/A_Ayers_lower_NDMiss_docket_entries500-563.txt` supplies the docket-level terms: the State's February 12 motion is granted and its proposed standards become a fourth alternative equally applicable to all institutions along with the three criteria for full admission already approved. Before any later review actually depends on this amendment, authenticate and admit it at the supported docket-level scope, supplying no unstated term; do not assume the 1995 admissions decree remains unchanged. This does not change an unrelated completed event. The March 25 library-only dismissal construes no admissions amendment and adds no source admission. |
 | 1996-03-01 | Ayers district-docket entry 562, reporting/Monitoring Committee amendment | The full order text has not been located. The bounded pre-event docket extract `sources/A_Ayers_lower_NDMiss_docket_entries500-563.txt` describes extended time to report on control of facility maintenance monies, excusal of the Board from those reports until the Monitoring Committee is appointed and in existence, and new deadlines to be established later by the court. The unstated reach of those reports remains unresolved; no earlier reporting deadline is reimposed. Authenticate any material dependent use at the supported scope. The March 25 library-only dismissal construes no reporting amendment and adds no source admission. |
-| 1996-04-24 | Antiterrorism and Effective Death Penalty Act; later habeas matters, especially Felker | The prospective enactment date is a scheduling premise. Schedule verification of the operative text, effective dates and transitions, then the required Admitted Source Record before the first event on or after operative effectiveness. Enactment does not itself settle applicability to pending proceedings. |
+| 1996-04-24 | Antiterrorism and Effective Death Penalty Act, Title I; later habeas matters, especially Felker | Admitted: Title I enacted April 24, 1996. Chapter 154 retains its state-counsel and other qualifying conditions, and §107(c) expressly covers cases pending on or after enactment. Other provisions’ temporal application, state qualification, constitutional validity and original habeas jurisdiction remain undecided by this source admission; no pending matter changes stage. [Source](../entering-law/PUBLIC_Antiterrorism_and_Effective_Death_Penalty_Act_Title_I_statutory_enactment_1996-04-24.md). |
+| 1996-04-26 | Prison Litigation Reform Act, sections 802–804 | Admitted: sections 802–804 enacted April 26, 1996. Section 802’s §3626 applies to prospective relief originally granted or approved before, on or after enactment, subject to its separate predicates and exceptions. Sections 803 and 804 retain their own prisoner-suit, filing and other enacted conditions. No existing relief is terminated, pending motion decided or disputed temporal application resolved by admission alone. [Source](../entering-law/PUBLIC_Prison_Litigation_Reform_Act_sections_802_804_statutory_enactment_1996-04-26.md). |
 
 ## Published noncontrolling positions
 
@@ -1793,9 +1794,9 @@ Authority and exact joins: [Public decision](../entering-law/PUBLIC_Bowersox_v_W
 
 ## Source cutoff
 
-Latest completed current-term event: Cooper v. Oklahoma, April 16, 1996. Markman and Holly Farms form the next scheduled group on April 23 and share the common April 16 entering-law baseline.
+Latest completed Court group: Markman and Holly Farms, April 23, 1996, using the common April 16 entering-law baseline. Latest admitted source and legal cutoff: April 26, 1996. Carlisle and Sheets form the next scheduled group on April 29 and share the common April 26 entering-law baseline.
 
-The April 9 Bowersox interim order is followed by a separate final action granting Missouri's application, 5–4, and vacating the March 8 appellate stay with immediate effect. The Supreme Court application is closed. The underlying appeal and any other lawful restraints are not adjudicated; no substitute stay, fixed grace period, execution order, writ disposition or appeal dismissal is entered. Actual transmission, service, responses and elapsed interim clocks are not presumed. Thirteen chunk 5 Court events and all twelve chunk 4 actions are recorded. Ayers's March 25 library-only writ was dismissed as improvidently granted, 8–1; this Court's review ends while the Fifth Circuit appeal and the district court's remedial jurisdiction remain available. The dismissal changes no substantive desegregation rule and leaves every decree provision undisturbed without merits affirmance. The completed March 27 and April 1 groups retain their respective common March 26 and March 27 entering-law baselines. Each public decision retains its own event-specific source cutoff and limits. Uncoordinated same-day actions use their common pre-group baseline; future scheduled proceedings supply no intervening holding. Opening law runs through the complete June 29, 1995 group, and circuit allotments remain effective August 3, 1994. The four statutory sources and the December 1 Rule 57 amendment apply within their actual enactment, covered-period and transition terms. January 6 enactment remains distinct from the December 16 deemed Medicaid period; section 551 establishes no presently operational national blocking system. The Ayers operative amendments remain unestablished from their planning dates alone. Jones remains pending as specified in its February 26 order.
+The April 9 Bowersox interim order is followed by a separate final action granting Missouri's application, 5–4, and vacating the March 8 appellate stay with immediate effect. The Supreme Court application is closed. The underlying appeal and any other lawful restraints are not adjudicated; no substitute stay, fixed grace period, execution order, writ disposition or appeal dismissal is entered. Actual transmission, service, responses and elapsed interim clocks are not presumed. Thirteen chunk 5 Court events and all twelve chunk 4 actions are recorded. Ayers's March 25 library-only writ was dismissed as improvidently granted, 8–1; this Court's review ends while the Fifth Circuit appeal and the district court's remedial jurisdiction remain available. The dismissal changes no substantive desegregation rule and leaves every decree provision undisturbed without merits affirmance. The completed March 27 and April 1 groups retain their respective common March 26 and March 27 entering-law baselines. Each public decision retains its own event-specific source cutoff and limits. Uncoordinated same-day actions use their common pre-group baseline; future scheduled proceedings supply no intervening holding. Opening law runs through the complete June 29, 1995 group, and circuit allotments remain effective August 3, 1994. The six admitted statutory sources and the December 1 Rule 57 amendment apply within their actual enactment, covered-period and transition terms. AEDPA Title I and PLRA sections 802–804 retain their provision-specific conditions and unresolved application questions; neither changes a pending case stage by admission alone. January 6 enactment remains distinct from the December 16 deemed Medicaid period; section 551 establishes no presently operational national blocking system. The Ayers operative amendments remain unestablished from their planning dates alone. Jones remains pending as specified in its February 26 order.
 
 ## April 15 completed public authority — Miller
 
@@ -2082,3 +2083,345 @@ The Oklahoma Court of Criminal Appeals receives the case for further proceedings
 The [filed petition, joint appendix and merits submissions in No. 95-5207](https://archive.org/details/micro_IA40385013_0779) supply the reproduced lower opinion, statutory descriptions, conflicting evidence and requested relief. Joint Appendix 8–37 contains expert and jailer testimony; 42–43 records the judge's express burden ruling; 44–49 records renewed trial concerns; and 63–66 reproduces the material lower-court discussion, including the preliminary-hearing issue at 64 n.4. Petitioner's brief 2–10 and respondent's brief 2–12 supply the competing chronology; respondent's brief 14–18 describes the statutory machinery. The lower decision is Cooper v. State, 889 P.2d 293 (Okla. Crim. App. 1995).
 
 The [official case report, 517 U.S. 348](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-348.pdf), corroborates the docket, argument, statute and reported record. No quoted historical passage or numerical survey is necessary to the Court's holding. The statutory-transcription variation concerning the presumption does not alter the state court's authoritative assignment of ultimate persuasion. The reported testimony and competing interpretations do not establish Cooper's medical or legal capacity under a permissible burden, an empirical malingering rate, or the feasibility of retrospective adjudication.
+
+## April 23, 1996 completed public authority — Markman
+
+Exact public text from [the bounded public source](../entering-law/PUBLIC_Markman_v_Westview_Instruments_Inc_merits_1996-04-23.md).
+
+## Event
+
+Markman v. Westview Instruments, Inc., No. 95-26. Argued January 8, 1996; decided April 23, 1996. October Term 1995. On review under 28 U.S.C. §1254(1) of the Federal Circuit's April 5, 1995 en banc judgment, 52 F.3d 967, No. 92-1049, affirming the Eastern District of Pennsylvania's judgment of noninfringement.
+
+The question is whether the Seventh Amendment assigns construction of patent claims, including technical meaning informed by evidence, to the court or jury in a patent infringement action seeking damages. Herbert Markman owns Reissue Patent No. 33,054, and Positek holds its drycleaning license. They sued Westview, maker of the DATAMARK/DATASCAN system, and Althon, a user, under 35 U.S.C. §281, seeking damages under §284 among other relief. Infringement was tried separately from validity and damages.
+
+Claim 1 describes a drycleaning inventory system with a data-input device, processor and memory maintaining an inventory total, transaction-associated indicia, a bar-code printer and at least one scanner. Its concluding function is to detect and localize spurious additions to and deletions from inventory. Claim 10 adds an alphanumeric keyboard. The claim, specification and prosecution explanation connect this function to articles entering and leaving the system. The prosecution amendment added the detection/localization language to overcome an obviousness rejection and explained input and output articles.
+
+The accused system temporarily uses clothing descriptions to print tickets and then retains invoice numbers, dates and cash totals. The parties dispute whether the patented inventory may consist only of cash or invoices. They agree that the accused system does not infringe if the claimed inventory includes clothing. A jury instructed on claim meaning found infringement of claims 1 and 10, but not claim 14. The judge had reserved respondents' directed-verdict motion and entered judgment as a matter of law on October 1, 1991, holding that the claim requires clothing inventory. The Federal Circuit affirmed.
+
+## Participation
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision. All nine participate; no Justice is recused or otherwise nonparticipating.
+
+## Public Action
+
+The Federal Circuit's judgment affirming noninfringement of claims 1 and 10 is affirmed, 9–0.
+
+## Judgment & Remedy
+
+**Supporting:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The judgment as a matter of law remains operative. No new trial, reinstatement of the infringement verdict, damages award or construction hearing is ordered. Claim 14's adverse verdict is not reopened. Validity, damages and any independently pending matter outside the reviewed judgment retain their actual procedural status; this affirmance does not dispose of an unreviewed claim by implication.
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Affirmance | Parts I and III: common allocation boundary, actual construction and independent sufficiency application |
+| Opinion of the Court | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Affirmance | Part II: judicial resolution of technical and credibility disputes embedded in claim construction; subsidiary appellate review reserved |
+| Concurrence in part and in the judgment | Stone-Zsela | No other Justice | Affirmance; joins Parts I and III | Refuses Part II's allocation of genuine historical-fact or credibility disputes merely because embedded in construction; explains why this record requires no such resolution |
+
+Each Court Part has direct majority support: nine in I and III, eight in II. The concurrence neither narrows Part II's holding nor creates a fractured controlling rationale.
+
+## Holdings
+
+### I. A patent damages action's jury right preserves factual infringement work while the court states the claim's legal meaning
+
+**Controlling proposition:** A patent infringement action seeking legal damages carries the Seventh Amendment jury right. The court determines the legally operative meaning of the public patent claim; the jury retains disputed infringement facts, external product identity and other properly factual work under that construction. An action's jury status does not make every subsidiary task a jury function, and technical subject matter alone does not remove otherwise protected facts from the jury.
+
+**Authority:** Part I of Justice Souter's Opinion of the Court, joined by all nine participating Justices identified in Opinion Topology.
+
+**Controlling explanation:** The Amendment preserves jury trial in common-law suits exceeding twenty dollars and restricts reexamination of jury-tried facts to the rules of the common law. Patent infringement for damages is a legal action. That identifies the action's constitutional protection, but the allocation question still requires examining the particular function performed.
+
+A claim defines the public legal boundary of the patent. Judicial construction reads its words with the specification and prosecution history, rather than allowing a witness's desired coverage to determine the grant. Section 112's written-description and particular-and-distinct-claim requirements reinforce that public function; they do not decide every judge-jury question. Historical instrument-construction principles support the court's responsibility for legal meaning. Consistent scope across cases corroborates that function, but neither convenience nor technological complexity could override an established jury entitlement.
+
+The distinction leaves substantial factual work to the jury. Determining what an accused product does, or whether external inventions are identical, differs from expounding the patent's legal boundary. Bischoff preserves that distinction, and Winans separates construction from factual novelty while allowing technical explanation. Tull shows that a legal action need not assign every issue identically; Terry and Wooddell preserve the actual historical and remedial inquiry. The rule is therefore neither that everything involving a patent is legal nor that every task in a damages action must be given to the jury. Part II addresses the narrower disagreement about evidentiary disputes within the assigned construction function.
+
+**Precedent treatment:** Tull, Terry and Wooddell are applied to the action/issue distinction at their respective scopes. Bischoff and Winans preserve judicial construction and distinct external factual inquiries. No precedent is overruled or general allocation for other instruments decided.
+
+### II. Claim construction remains the court's task when technical meaning or credibility within that task is genuinely disputed
+
+**Controlling proposition:** The court construes patent claims, including terms of art informed by extrinsic technical evidence. The Seventh Amendment does not require jury resolution of a genuine technical-usage or expert-credibility dispute embedded in determining claim meaning. The judge evaluates that evidence against the claim, specification, prosecution history and coherence of the whole instrument. This trial allocation does not declare every underlying evidentiary proposition intrinsically legal or determine the appellate standard for all subsidiary findings.
+
+**Authority:** Part II of Justice Souter's Opinion of the Court, joined by Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer: eight Justices. Chief Justice Stone-Zsela does not join this Part.
+
+**Controlling explanation:** Petitioners correctly observe that technical explanation can involve real evidentiary disagreement. Merely calling the ultimate question construction would not answer their objection. The relevant inquiry, however, is whether resolving that disagreement must belong to the jury to preserve the substance of the historical right when the evidence performs the patent-interpretation task.
+
+The cited historical qualifications do not establish such an indispensable allocation. Silsby's components of a combination and Bischoff's identity of external inventions concern application rather than construction strictly understood. Heald's and Singer's treatment of extrinsic explanation in comparisons likewise does not make every evidentiary input into claim meaning a jury question. Winans permits experts to explain the art without allowing their legal opinions to determine construction.
+
+Technical meaning must be assessed for its fit with the instrument's internal structure and the grant's operative scope. The judge can perform that integrated interpretive task even when explanations compete or credibility matters. The evidence's factual underpinnings do not require dividing responsibility for that meaning determination. The patent's public and consistent scope supports the allocation alongside the historical construction/application distinction; uniformity alone would not justify it.
+
+Useful technical evidence is therefore not categorically excluded, and distinct infringement facts remain for their proper factfinder. Nor does trial responsibility settle appellate treatment: assigning construction to a judge does not establish that every subsidiary observation must be reviewed anew. Gaudin's criminal-element holding and Thompson's habeas-review distinction concern different tasks and supply no contrary Seventh Amendment allocation here. The Court decides neither a universal construction-hearing procedure nor the allocation for every other type of instrument.
+
+**Precedent treatment:** The historical patent cases are applied at their construction/application boundaries. Gaudin and Thompson are distinguished without altering their element, factual-protection or review rules. No universal de novo subsidiary-review rule is adopted.
+
+### III. This patent requires clothing inventory, and the infringement verdict lacks a sufficient basis even with the technical proffer credited
+
+**Controlling proposition:** This claim, specification and prosecution history require clothing as part of the inventory. Even accepting petitioners' supported technical evidence favorably and assuming their proposed jury allocation, no reasonable cash-only reading performs the claim's article-related detection and localization function. Ordinary judgment-as-a-matter-of-law principles independently support noninfringement because the parties concede that the accused system does not infringe under a clothing-inclusive construction.
+
+**Authority:** Part III of Justice Souter's Opinion of the Court, joined by all nine participating Justices. This record-specific ground independently supports affirmance and does not narrow Part II's separately controlling allocation rule.
+
+**Controlling explanation:** The conclusion rests on the actual instrument and evidence, not merely the lower court's classification of construction as law. Claim 1 integrates an inventory total with detecting and localizing spurious additions and deletions. The specification's article-related operation and the prosecution explanation of input and output articles establish a clothing component that cash totals alone cannot perform.
+
+The Court credits petitioners' proffer at its supported significance. Industry participants may use inventory for cash or invoices, and Westview's advertising and president's testimony may reflect that usage. Such general usage does not erase this claim's integrated article requirement. The inventor's and patent lawyer's technical explanations are considered on their subjects; neither a witness's occupation nor interest makes the evidence automatically irrelevant. But subjective intended coverage and a legal opinion cannot expand the public instrument. Even the proposed broad usage leaves its article-related function intact.
+
+The requirement of at least one scanner does not equate clothing inventory with cash totals. Batch or transaction processing need not reproduce every detail of the preferred embodiment, and the Court prescribes no particular scanning count, permanent item-by-item architecture or universal tracking technology. Those points still do not remove the clothing component or defeat the actual noninfringement concession.
+
+Thus the result requires neither disbelieving a witness nor choosing between supported historical accounts. A jury right remains compatible with ordinary supported JMOL, and the reserved directed-verdict motion places that alternative before the Court. The competing request for remand identifies no material unresolved fact that could supply the missing permissible cash-only reading. This is not a general rule that any intrinsic evidence defeats any expert account.
+
+**Precedent treatment:** Judicial construction of the public instrument and ordinary civil sufficiency operate together. The historically qualified treatment of technical evidence is respected, without converting this record into a universal evidentiary rule. No validity, damages or general §112 paragraph 6 question is decided.
+
+## Precedent Treatment
+
+The Court applies Seventh Amendment protection to the legal damages action while identifying the distinct construction function. Tull, Terry and Wooddell do not require identical allocation of every issue. Silsby, Bischoff, Heald, Singer and Winans preserve their distinctions among construing an instrument, technical explanation, comparison of external inventions and infringement. They do not establish that every dispute contributing to patent meaning must go to a jury.
+
+Gaudin, June 19, 1995, preserves jury determination of criminal materiality and judicial statement of legal meaning; its criminal burden is not imported. Thompson, November 29, 1995, preserves historical findings and the particular independent custody review it requires; it does not determine the trial factfinder or every appellate standard in patent construction. Cooper's competence adjudication and Miller's parental-notice ruling supply no patent allocation. No precedent is overruled, and no general rule governing other written instruments is announced.
+
+## Law After Decision
+
+Effective April 23, 1996, patent claim construction belongs to the court, including genuine technical-meaning and credibility disputes embedded in that interpretive task. Eight Justices directly support that scope. The presence of extrinsic evidence does not transfer construction to the jury, but technical evidence remains available to inform the instrument's meaning. The jury retains disputed infringement, product-operation and other factual questions outside construction under the legal meaning supplied by the court.
+
+The Court does not decide the appellate standard for every subsidiary finding, impose universal de novo factual review, mandate a separate pretrial construction hearing, exclude all extrinsic evidence or resolve all means-plus-function questions. Other documentary settings and broader law/fact classifications remain open. This case also establishes the independently supported sufficiency application to claims 1 and 10 and the parties' actual concession; it creates no presumption of noninfringement or authority to disbelieve a witness on JMOL.
+
+Chief Justice Stone-Zsela's separate genuine-history and credibility limitation is noncontrolling insofar as it would require a jury to resolve such disputes within claim construction. His full joins to Parts I and III do not qualify the eight-Justice rule in Part II.
+
+## Separate Writings
+
+**Chief Justice Stone-Zsela, concurring in part and in the judgment.** He joins Parts I and III and agrees that the noninfringement judgment should stand. Patent claims define a public legal boundary requiring authoritative, reasonably uniform judicial construction. That legal function remains distinct from deciding what the accused product does, whether evidence is credible and whether the product falls within the construed claim. Bischoff's construction/factual-identity distinction supports preserving both responsibilities.
+
+He does not join Part II's assignment of genuinely disputed historical technical facts or credibility to the judge simply because they arise within construction. A construction label cannot itself remove a jury function; his reservation extends to genuine historical or credibility disputes embedded in determining meaning, not merely to external product-operation disputes. Uniform patent administration supports judicial legal meaning but does not supply authority to relabel protected factual work.
+
+That disagreement requires no different judgment here. Crediting the supported cash/invoice usage and technical testimony still leaves this instrument's article-related requirement intact. No witness must be disbelieved, and the established concession resolves infringement under the clothing-inclusive construction. He therefore joins the Court's actual interpretation and independently sufficient JMOL application without endorsing the broader embedded-dispute allocation. He proposes no new hearing, factual finding, infringement judgment or remand and adopts no universal subsidiary appellate-review rule.
+
+## Procedure After Action
+
+The Federal Circuit's judgment is affirmed. The noninfringement JMOL on claims 1 and 10 remains in place; the Supreme Court directs no further trial or claim-construction hearing. Unreviewed matters retain their existing status. Ordinary mandate procedures apply, without a special issuance date or prescribed later Supreme Court proceeding.
+
+## Source Notes
+
+The [filed petition, joint appendices and merits briefs in No. 95-26](https://archive.org/details/micro_IA40385013_0631) supply the patent and material testimony. Joint Appendix 293–301 contains the patent; 9–46 the accused-system evidence; 46–145 the patent-lawyer testimony; 160–195 the inventor testimony; 208–214 the president's evidence; and 302–307 the brochures. Petitioners' merits brief 2–7 and 14–17 identifies their usage, scanner and batch-processing contentions; respondents' brief 16–18 and footnote 11 presents the independent sufficiency defense.
+
+The en banc lower opinion, 52 F.3d 967, particularly paragraphs 24–38 and 72–80, supplies the claim, construction and concession. Its separate opinions establish the alternative grounds and remand request actually considered below. The [official case report, 517 U.S. 370](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-370.pdf), corroborates the event and reported record. Nothing in the reported evidence establishes additional accused-system features or disposes of an unreviewed claim.
+
+## April 23, 1996 completed public authority — Holly Farms
+
+Exact public text from [the bounded public source](../entering-law/PUBLIC_Holly_Farms_Corp_v_NLRB_merits_1996-04-23.md).
+
+## Event
+
+Holly Farms Corp. v. NLRB, 517 U.S. 392, No. 95-210. Argued February 21, 1996; decided April 23, 1996; October Term 1995. On certiorari under 28 U.S.C. §1254(1) to the Fourth Circuit, which enforced the Board's order in 48 F.3d 1360 (1995). The question is whether chicken catchers, forklift operators and live-haul truckdrivers are agricultural laborers excluded from NLRA employee coverage.
+
+Independent contract growers furnish facilities and raise Holly Farms' birds to marketable size; Holly retains ownership. Holly's crews catch and coop the birds, load them by forklift and haul them to its processing plant. Catching schedules follow processing shifts; the crews also handle trailers and holding arrangements before plant receivers take over. The Board included the workers in the unit, found unfair labor practices and imposed a bargaining order based on an earlier authorization-card majority and conditions preventing a fair rerun after a 95–95 election. The agricultural classification is the granted issue; Tyson's separate successorship dispute and unrelated violations are not independently before the Court.
+
+NLRA §2(3), 29 U.S.C. §152(3), excludes an individual employed as an agricultural laborer. The incorporated definition in FLSA §3(f), 29 U.S.C. §203(f), provides:
+
+> “Agriculture” includes farming in all its branches and among other things includes the cultivation and tillage of the soil, dairying, the production, cultivation, growing, and harvesting of any agricultural or horticultural commodities (including commodities defined as agricultural commodities in section 1141j(g) of title 12), the raising of livestock, bees, fur-bearing animals, or poultry, and any practices (including any forestry or lumbering operations) performed by a farmer or on a farm as an incident to or in conjunction with such farming operations, including preparation for market, delivery to storage or to market or to carriers for transportation to market.
+
+## Participation
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision. All nine participate; no Justice is recused or otherwise nonparticipating.
+
+## Public Action
+
+The Fourth Circuit's judgment enforcing the Board's order is affirmed within the granted agricultural-classification question.
+
+## Judgment & Remedy
+
+| Component | Disposition | Supporting | Opposing |
+|---|---|---|---|
+| Newly raised primary-agriculture harvesting theory | Declined, 9–0; no merits determination | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | None |
+| Live-haul drivers | Coverage sustained, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | None |
+| Chicken catchers | Coverage sustained, 6–3 | Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg, Breyer | O'Connor, Scalia, Thomas |
+| Forklift operators | Coverage sustained, 6–3 | Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg, Breyer | O'Connor, Scalia, Thomas |
+
+The six-Justice majority affirms enforcement and leaves the existing Board order in place. The Court directs no reconsideration of the unit or bargaining order, new election, evidentiary hearing or independent monetary award. Any genuinely remaining unfair-labor-practice or remedial issue remains in its ordinary lawful channel; this direction neither reopens a decided issue nor establishes an outstanding proceeding.
+
+## Opinion Topology
+
+Justice Ginsburg delivers the Opinion of the Court:
+
+| Part | Subject | Joins |
+|---|---|---|
+| I | Primary-harvesting preservation | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer; with Ginsburg, eight. Stone-Zsela agrees only with the disposition declining consideration. |
+| II | Secondary-agriculture statutory requirements | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer; unanimous with Ginsburg. |
+| III | Live-haul drivers | The same unanimous coalition. |
+| IV | Catchers, forklift operators and affirmance | Stone-Zsela, Stevens, Kennedy, Souter and Breyer; with Ginsburg, six. |
+
+Justice O'Connor files an opinion concurring in part and dissenting in part, joined by Scalia and Thomas. They join Parts I–III but would reverse the catchers' and forklift operators' inclusion and order the limited consequential relief described below. No other separate opinion is filed.
+
+## Holdings
+
+### I. The unpreserved primary-harvesting theory is not considered
+
+**Controlling proposition:** Under 29 U.S.C. §160(e), a court may not consider an objection not urged before the Board, its member, agent or agency unless extraordinary circumstances excuse the failure or neglect. Petitioners did not present their primary-agriculture harvesting objection to the Board, and no extraordinary circumstance excuses that omission; the Court therefore declines that objection while deciding the preserved secondary-agriculture question.
+
+**Authority:** Part I of Ginsburg's Opinion of the Court, joined by all seven other Associate Justices. Stone-Zsela agrees with the disposition only.
+
+**Controlling explanation:** Primary agriculture and secondary agriculture are distinct statutory routes. The earlier presentation invoked secondary agriculture; a new harvesting characterization would avoid that route's actor-or-place and farming-relationship conditions. Raising the general agricultural exclusion therefore did not preserve this separate objection. The Board identifies the omission before the agency, and the appellate and petition presentation does not supply the missing objection. Woelke & Romero applies §160(e)'s requirement that the agency receive the objection before judicial review, subject to the enacted extraordinary-circumstances exception. No such circumstance is established. The lower court's description of a concession need not be adopted: failure to raise this theory suffices. The Court neither decides that poultry catching can never be primary agriculture nor treats the preservation ruling as defeating the properly presented secondary claim.
+
+### II. Farm location and the relation to farming are separate requirements
+
+**Controlling proposition:** Secondary agriculture requires a practice performed by a farmer or on a farm and incident to or in conjunction with the relevant farming operations. A nonfarmer's employees may qualify through the on-farm alternative, but location alone is insufficient; preparation for market and delivery to storage, market or carriers remain subject to both requirements. Courts independently identify these statutory boundaries before testing an unresolved agency construction for permissibility.
+
+**Authority:** Part II of the unanimous Opinion of the Court; all nine Justices directly adopt these predicates without agreeing on every application.
+
+**Controlling explanation:** Congress supplied alternative actor and place gateways and a separate relationship to the farming operations. Making farmer employment indispensable would erase the on-farm alternative. Treating every activity occurring there as agricultural would erase the relationship requirement. Farmers Reservoir distinguishes farming from a separate business that serves agriculture; economic connection alone does not settle the statutory relationship. Chevron requires independent examination of the enacted limits, and Town & Country preserves express NLRA exclusions while permitting reasonable classification within the range the statute leaves. MCI likewise forbids an agency to remove a statutory condition through interpretation.
+
+The definition does not make a processor's ownership of poultry conclusive, classify every employee in an integrated business identically or exclude every independent on-farm contractor. Practices may serve farming and processing purposes simultaneously; exclusive service to farming is not an added statutory condition. The relation of the actual work to the relevant farming operation must still be assessed. The Court's disagreement about catchers and loaders concerns that application, not whether Congress enacted both requirements. This holding creates no general occupational exemption or new evidentiary burden.
+
+### III. The Board lawfully includes these live-haul drivers
+
+**Controlling proposition:** The Board's classification of these substantially off-farm live-haul drivers as covered employees is lawful under the incorporated agricultural definition and this record. Their hauling for Holly's separate processing operation is not made agricultural merely because the birds were raised on farms, Holly continuously owned them or the journey begins there.
+
+**Authority:** Part III of the unanimous Opinion of the Court; all nine directly adopt the stated application and limits.
+
+**Controlling explanation:** The independent growers actually raise the birds. Holly's ownership and retaking possession for transport to processing do not themselves establish that Holly resumes poultry husbandry or that these drivers perform it. Bayside rejects attributing independent growers' farming to an integrated processor merely through ownership and control, and permits attention to the particular operation the employees serve. Its by-farmer analysis supports the Board's treatment of this hauling work.
+
+The drivers' substantially off-farm transportation cannot satisfy the on-farm alternative merely by starting at a grower's premises. Nor does the express reference to delivery dispense with the gateway and farming-relationship requirements. The supported schedules, supervision and plant-side handling connect these drivers to the separate removal and processing operation. The Board's classification respects the statutory bounds and is sustained; the Court does not hold that the contrary classification on identical facts would also be permissible. No rule for every driver or mixed-duty employee follows, and the result does not depend on holding that a processing plant can never be a market. Bayside does not itself resolve the different on-farm question presented by the catchers and loaders.
+
+### IV. The Board permissibly includes these catchers and forklift operators
+
+**Controlling proposition:** The definition does not unambiguously exempt these processor-employed catchers and forklift operators. Although they work on farms, the Board reasonably classifies their catching, cooping and loading as part of a distinct removal operation serving processing, rather than as incident to or in conjunction with the growers' farming, on its actual and substantially supported integration rationale. That permissible classification sustains their coverage and affirmance; it is not a compulsory classification of every poultry arrangement.
+
+**Authority:** Part IV of Ginsburg's Opinion of the Court, joined by Stone-Zsela, Stevens, Kennedy, Souter and Breyer; six Justices directly adopt this bounded permissibility holding.
+
+**Controlling explanation:** Catchers coop the birds and forklift operators load them. Each works on a farm, so each satisfies that gateway. But the independent growers have completed raising the birds to marketable size; Holly separately organizes, supervises and times removal to supply its plant. Catching schedules follow processing shifts, and live-haul handling continues until plant receivers take over. These facts support the Board's stated functional-integration ground and its permissible conclusion about the separate farming relationship. Substantial evidentiary support for those facts remains distinct from judicial examination of statutory meaning.
+
+Petitioners plausibly describe catching, cooping and loading as completing farm production and preparing poultry for market. The Labor Department's poultry-preparation examples support that description, but retain the surrounding secondary-agriculture conditions. The examples therefore do not compel the conclusion that this independently organized removal operation belongs to the growers' farming. An independent contractor can perform secondary agriculture, and simultaneous service to farming and processing is possible. Neither concession makes the Board's actual classification unreasonable here.
+
+Farmers Reservoir permits examination of a separately organized operation. Bayside rejects attribution through poultry ownership but leaves the on-farm route open. Health Care and Town & Country support bounded functional classification after each statutory predicate receives independent effect; neither authorizes a new exclusion or substitute agency rationale. The Regional Director supplied both the farmer-status discussion and the actual integration ground. A remand premised on the absence of that ground would disregard the decision made.
+
+The Court does not classify identical tasks performed by a farmer's own employees as nonagricultural, treat employer identity as conclusive, require an exclusive processing purpose or declare every post-growing activity nonagricultural. The Board remains confined to the incorporated definition. No broader classification or new procedure is necessary to affirm this order.
+
+## Precedent Treatment
+
+- Chevron U.S.A. Inc. v. NRDC, 467 U.S. 837: applies independent statutory-boundary review before permissible agency interpretation within the unresolved range; no deference beyond the enacted definition.
+- Farmers Reservoir & Irrigation Co. v. McComb, 337 U.S. 755: applies the distinction between farming and a separately organized enterprise serving it, while preserving both secondary-agriculture gateways.
+- Bayside Enterprises, Inc. v. NLRB, 429 U.S. 298: applies its rejection of attributing contract growers' farming to a processor and its fact-specific classification approach. Its reservation of the on-farm route remains; the present catcher/loader holding resolves this arrangement on its own relationship analysis.
+- Woelke & Romero Framing, Inc. v. NLRB, 456 U.S. 645: applies §160(e)'s preserved-objection requirement in Part I, including its extraordinary-circumstances qualification; no primary-agriculture merits proposition is added.
+- NLRB v. Town & Country Electric, Inc., November 28, 1995: applies text-first, bounded employee classification while preserving every express statutory exclusion; its paid-organizer holding does not itself settle agriculture.
+- NLRB v. Health Care & Retirement Corp., May 23, 1994: applies its permissible functional approach and requirement of an actual agency rationale by analogy, without importing its supervisory test or eliminating a statutory predicate.
+- MCI Telecommunications Corp. v. AT&T, June 17, 1994: preserves the prohibition on replacing an enacted statutory requirement through interpretation; the on-farm route remains effective here.
+
+No precedent is overruled. The Court does not alter NLRB v. Gissel Packing Co.'s bargaining-order standards or independently reexamine the findings supporting the existing order.
+
+## Law After Decision
+
+Effective April 23, 1996, these live-haul drivers, catchers and forklift operators remain covered employees, and the existing enforcement judgment stands. The driver classification has unanimous support; the reasonable, record-specific catcher/loader classification has six-Justice support. The Court applies the existing statutory definition and agency-review principles to the distinct work functions without creating a firm-wide rule or a mandatory classification for every future arrangement.
+
+Both statutory gateways and the separate farming relationship remain operative. Preparation and delivery examples are conditional; employer identity, title to birds and farm location are not independently conclusive. Farmers' own employees, other contractors, mixed-duty drivers and materially different operations are not classified by this judgment. The primary-harvesting question remains undecided on its merits. No general administrative-remand rule, new proof burden or altered bargaining-order test follows.
+
+## Separate Writings
+
+Justice O'Connor, joined by Scalia and Thomas, concurs in Parts I–III and dissents from Part IV and the resulting affirmance for catchers and forklift operators. Her opinion gives effect to both secondary-agriculture requirements: these workers perform on-farm preparation directly connected to the poultry raised on that farm. The on-farm route permits nonfarmer employees, and preparation can accompany farming even when a purchaser controls the schedule and also benefits. The conditional preparation-for-market provisions and the described poultry-cooping/loading interpretations support that application; they do not make every activity on a farm agricultural.
+
+The separate opinion accepts that the Board actually relied on integration and that a separately organized business may fall outside agriculture. It finds the actual catching and loading here remain farm preparation, rather than slaughter, dressing or other processing conducted on the premises. Plant coordination does not negate that direct relationship, and the statute requires neither exclusive farming purpose nor employment by the grower. Bayside's by-farmer ruling does not resolve these on-farm acts. The direct statutory relation controls this application; deference within genuine ambiguity does not permit the Board to remove it. The opinion preserves driver coverage and does not reach the primary-harvesting merits.
+
+The three would reverse inclusion of catchers and forklift operators, vacate enforcement of the bargaining order only to the extent dependent on the improperly constituted unit, and remand through the court of appeals for appropriate Board reconsideration of the lawful unit, the earlier authorization-card majority and the Gissel remedy. The 95–95 election establishes neither a current majority nor automatic termination of that inquiry. Workforce numbers cannot supply card counts. No particular replacement unit, new election, evidentiary hearing or new bargaining order would be directed. Unrelated findings involving covered workers and Tyson's separate successorship issue would remain undisturbed except for any actual remedial dependence on the reversed classification. These proposed consequences are the minority's remedy, not the Court's mandate.
+
+## Procedure After Action
+
+Supreme Court merits review of the agricultural classification is complete. The Fourth Circuit's enforcement judgment remains in effect, with no new unit or bargaining-order remand. Any genuinely remaining unfair-labor-practice or remedial issue follows its ordinary lawful channel; no outstanding issue or future proceeding is presumed. Ordinary mandate procedures apply, and no special issuance date or further Supreme Court event is prescribed.
+
+## Source Notes
+
+The [filed petition, appendices and merits submissions, No. 95-210](https://archive.org/details/micro_IA40385013_0639), the Board decision, 311 N.L.R.B. 273 (1993), and the Fourth Circuit decision, 48 F.3d 1360 (1995), supply the record and posture. Joint Appendix 21a–23a records the Regional Director's grounds; 28a–29a supplies the operating testimony. Board brief 14–15 and n.13 identifies the primary-theory omission. Its 3–4 n.2 explains that the growing contract was marked and discussed in testimony but was not formally admitted as a documentary exhibit; the Court does not treat it otherwise.
+
+The [1994 official text of §203(f)](https://www.govinfo.gov/content/pkg/USCODE-1994-title29/html/USCODE-1994-title29-chap8-sec203.htm) supports the complete statutory quotation. The [official §160(e) text](https://www.govinfo.gov/content/pkg/USCODE-1994-title29/html/USCODE-1994-title29-chap7-subchapII-sec160.htm) supplies the preservation exception and separate substantial-evidence rule. Congress's recurring appropriations linkage is recognized in Bayside; the cited 1994 enactment, Pub. L. 103-333, documents that linkage without determining its own operation in a later fiscal year. The applicable incorporated definition is undisputed here. The Department of Labor's Part 780 interpretations inform the secondary-agriculture inquiry; their conditional examples do not override the statute.
+
+## April 24, 1996 completed public authority — AEDPA Title I
+
+Exact public text from [the bounded public source](../entering-law/PUBLIC_Antiterrorism_and_Effective_Death_Penalty_Act_Title_I_statutory_enactment_1996-04-24.md).
+
+## Event
+
+Antiterrorism and Effective Death Penalty Act of 1996, Public Law 104-132, Title I, enacted April 24, 1996.
+
+## Participation
+
+No judicial participation attaches to enactment.
+
+## Public Action
+
+Congress's Title I habeas amendments are enacted. The Court issues no action.
+
+## Judgment & Remedy
+
+No judicial judgment or remedy is entered.
+
+## Opinion Topology
+
+There is no judicial writing.
+
+## Holdings
+
+Enactment creates no judicial holding.
+
+## Precedent Treatment
+
+No Court decision treats precedent in this event.
+
+## Law After Decision
+
+Title I amends the specified habeas filing, appellate-certificate, state-judgment review, evidentiary-hearing, federal-prisoner collateral-review and successive-application provisions, together with Rule 22 and the specified representation-services provision. Its new chapter 154 establishes special capital-case procedures subject to the enacted state-counsel and other qualifying conditions. Section 107(c) expressly applies that chapter to cases pending on or after enactment. This admission does not decide the other amendments' temporal application to any particular pending proceeding, whether a State qualifies for chapter 154, constitutional validity, or the scope of original habeas jurisdiction. The enacted text and its separate conditions control.
+
+## Separate Writings
+
+There are no judicial separate writings.
+
+## Procedure After Action
+
+No pending Court matter changes stage by this source admission alone. A later relevant event must address the actual statutory provision, procedural posture, transition question and qualifying facts.
+
+## Source Notes
+
+[Public Law 104-132, Title I, §§101–108, 110 Stat. 1217–1226](https://www.govinfo.gov/content/pkg/PLAW-104publ132/pdf/PLAW-104publ132.pdf) supplies the exact enacted provisions, conditions and chapter-154 pending-case clause.
+
+## April 26, 1996 completed public authority — PLRA sections 802–804
+
+Exact public text from [the bounded public source](../entering-law/PUBLIC_Prison_Litigation_Reform_Act_sections_802_804_statutory_enactment_1996-04-26.md).
+
+## Event
+
+Prison Litigation Reform Act of 1995, Public Law 104-134, Title VIII, sections 802–804, enacted April 26, 1996.
+
+## Participation
+
+No judicial participation attaches to enactment.
+
+## Public Action
+
+Congress's specified prison-relief, prisoner-suit and filing provisions are enacted. The Court issues no action.
+
+## Judgment & Remedy
+
+No judicial judgment or remedy is entered.
+
+## Opinion Topology
+
+There is no judicial writing.
+
+## Holdings
+
+Enactment creates no judicial holding.
+
+## Precedent Treatment
+
+No Court decision treats precedent in this event.
+
+## Law After Decision
+
+Section 802 replaces §3626's prison-conditions relief provisions and expressly applies that section to prospective relief originally granted or approved before, on or after enactment. Its separate findings, procedures, exceptions and definitions remain necessary. Section 803 amends the identified institutionalized-persons provisions and §1997e's prisoner-suit conditions. Section 804 amends §1915's specified filing, fee, dismissal, costs and prior-dismissal provisions, with their exceptions, and adds the identified bankruptcy provision. This admission neither terminates existing relief nor decides a particular motion, constitutional objection or disputed temporal application of another component. The original enacted text controls.
+
+## Separate Writings
+
+There are no judicial separate writings.
+
+## Procedure After Action
+
+No pending Court matter changes stage by this source admission alone. Later relevant proceedings require the actual statutory predicates, applicable transition rule and supported procedural event.
+
+## Source Notes
+
+[Public Law 104-134, Title VIII, §§802–804, 110 Stat. 1321-66–1321-75](https://www.govinfo.gov/content/pkg/PLAW-104publ134/pdf/PLAW-104publ134.pdf) supplies the exact enacted text, exceptions, definitions and prospective-relief application provision.
+
+The April 23 decisions share the common April 16 entering-law baseline; neither supplies intervening law for the other. The April 24 and 26 source admissions are subsequent law at their stated scope. Carlisle and Sheets share the common April 26 entering-law baseline for April 29.
