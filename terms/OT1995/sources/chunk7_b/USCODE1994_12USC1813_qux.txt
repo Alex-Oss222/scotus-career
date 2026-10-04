@@ -1,0 +1,40 @@
+12 U.S.C. §1813 — SELECTED COMPLETE DEFINITIONS, 1994 Edition
+Source: https://www.govinfo.gov/content/pkg/USCODE-1994-title12/html/USCODE-1994-title12-chap16-sec1813.htm
+Selection: complete subsections (q), (u), and (x). Other subsections and editorial notes omitted. HTML stripped and whitespace normalized; Code cross-references preserved.
+
+(q) Appropriate Federal Banking Agency.—The term “appropriate Federal banking agency” means—
+(1) the Comptroller of the Currency, in the case of any national banking association, any District bank, or any Federal branch or agency of a foreign bank;
+(2) the Board of Governors of the Federal Reserve System, in the case of—
+(A) any State member insured bank (except a District bank),
+(B) any branch or agency of a foreign bank with respect to any provision of the Federal Reserve Act [12 U.S.C. 221 et seq.] which is made applicable under the International Banking Act of 1978 [12 U.S.C. 3101 et seq.],
+(C) any foreign bank which does not operate an insured branch,
+(D) any agency or commercial lending company other than a Federal agency,
+(E) supervisory or regulatory proceedings arising from the authority given to the Board of Governors under section 7(c)(1) of the International Banking Act of 1978 [12 U.S.C. 3105(c)(1)], including such proceedings under the Financial Institutions Supervisory Act of 1966, and
+(F) any bank holding company and any subsidiary of a bank holding company (other than a bank);
+
+(3) the Federal Deposit Insurance Corporation in the case of a State nonmember insured bank (except a District bank), or a foreign bank having an insured branch; and
+(4) the Director of the Office of Thrift Supervision in the case of any savings association or any savings and loan holding company.
+
+Under the rule set forth in this subsection, more than one agency may be an appropriate Federal banking agency with respect to any given institution.
+
+(u) Institution-Affiliated Party.—The term “institution-affiliated party” means—
+(1) any director, officer, employee, or controlling stockholder (other than a bank holding company) of, or agent for, an insured depository institution;
+(2) any other person who has filed or is required to file a change-in-control notice with the appropriate Federal banking agency under section 1817(j) of this title;
+(3) any shareholder (other than a bank holding company), consultant, joint venture partner, and any other person as determined by the appropriate Federal banking agency (by regulation or case-by-case) who participates in the conduct of the affairs of an insured depository institution; and
+(4) any independent contractor (including any attorney, appraiser, or accountant) who knowingly or recklessly participates in—
+(A) any violation of any law or regulation;
+(B) any breach of fiduciary duty; or
+(C) any unsafe or unsound practice,
+
+which caused or is likely to cause more than a minimal financial loss to, or a significant adverse effect on, the insured depository institution.
+
+(x) Definitions Relating to Default.—
+(1) Default.—The term “default” means, with respect to an insured depository institution, any adjudication or other official determination by any court of competent jurisdiction, the appropriate Federal banking agency, or other public authority pursuant to which a conservator, receiver, or other legal custodian is appointed for an insured depository institution or, in the case of a foreign bank having an insured branch, for such branch.
+(2) In danger of default.—The term “in danger of default” means an insured depository institution with respect to which (or in the case of a foreign bank having an insured branch, with respect to such insured branch) the appropriate Federal banking agency or State chartering authority has advised the Corporation (or, if the appropriate Federal banking agency is the Corporation, the Corporation has determined) that—
+(A) in the opinion of such agency or authority—
+(i) the depository institution or insured branch is not likely to be able to meet the demands of the institution's or branch's depositors or pay the institution's or branch's obligations in the normal course of business; and
+(ii) there is no reasonable prospect that the depository institution or insured branch will be able to meet such demands or pay such obligations without Federal assistance; or
+
+(B) in the opinion of such agency or authority—
+(i) the depository institution or insured branch has incurred or is likely to incur losses that will deplete all or substantially all of its capital; and
+(ii) there is no reasonable prospect that the capital of the depository institution or insured branch will be replenished without Federal assistance.
