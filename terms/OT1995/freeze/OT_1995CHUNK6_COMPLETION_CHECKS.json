@@ -1,0 +1,290 @@
+{
+  "status": "PASS",
+  "chunk": "OT1995 chunk 6",
+  "completed_chunk_court_events": 12,
+  "term_court_events": 73,
+  "term_admitted_sources": 7,
+  "term_total_records": 80,
+  "chief_assignments": 61,
+  "same_date_boundary": {
+    "effective_date": "1996-05-20",
+    "common_entering_law_cutoff": "1996-05-13",
+    "projection": "terms/OT1995/entering-law/OT_1995CHUNK6_PRE_MAY20_NEUTRAL_PROJECTION.md",
+    "commit": "7655d8f",
+    "remaining_same_date_cases": [
+      "Henderson",
+      "Casarotto"
+    ]
+  },
+  "workspace_integration_commit": "7d9ddb7",
+  "preservation": {
+    "protected_tracked_files": 5600,
+    "changed_protected_files": [],
+    "baseline_sha256": "9c6e3bc7b3ceca2d8e3e3bc2de89071066e367f9a39dfd00d2964952570deeb6",
+    "final_bmw_upload_bytes": 9103,
+    "final_bmw_upload_sha256": "44d48a55a1d0774ae4b991ec3a9691488256f8c94d247ad6e10d2f620a894bd6",
+    "verbatim_approved_body": true,
+    "result": "PASS",
+    "immutable_independent_and_reconciled_freezes": 24
+  },
+  "render": {
+    "result": "PASS",
+    "method": "Mechanical concatenation of independently audited public entries with a separate public-only wrapper; no substantive rewrite. Same-date BMW displayed last.",
+    "render_input": {
+      "path": "terms/OT1995/render-inputs/OT_1995CHUNK6.md",
+      "sha256": "072eff135011ab8c640a391f451664808fb306fa32bb0a6ac433d96f3aaf8b6d"
+    },
+    "output": {
+      "path": "terms/OT1995/output/OT_1995CHUNK6.md",
+      "sha256": "068ed8ee0b18db03997dc77139b87d0c690f84166aaed0008bf723890099502d"
+    },
+    "entry_order": [
+      "Planned_Parenthood_Sioux_Falls_Clinic_v_Miller_merits_1996-04-15.md",
+      "Cooper_v_Oklahoma_merits_1996-04-16.md",
+      "Holly_Farms_Corp_v_NLRB_merits_1996-04-23.md",
+      "Markman_v_Westview_Instruments_Inc_merits_1996-04-23.md",
+      "Carlisle_v_United_States_merits_1996-04-29.md",
+      "Sheets_v_Salt_Lake_County_merits_1996-04-29.md",
+      "44_Liquormart_Inc_v_Rhode_Island_merits_1996-05-13.md",
+      "United_Food_and_Commercial_Workers_Union_Local_751_v_Brown_Group_Inc_merits_1996-05-13.md",
+      "United_States_v_Armstrong_merits_1996-05-13.md",
+      "United_States_v_Noland_merits_1996-05-13.md",
+      "Romer_v_Evans_merits_1996-05-20.md",
+      "BMW_of_North_America_Inc_v_Gore_merits_1996-05-20.md"
+    ],
+    "batch_audits": [
+      {
+        "events": [
+          "Miller 1996-04-15",
+          "Cooper 1996-04-16"
+        ],
+        "auditor": "/root/chunk6_public_audit_early",
+        "result": "PASS; no material omissions, additions or editorial patches",
+        "explanation_words": {
+          "Miller": [
+            245,
+            213,
+            246,
+            252
+          ],
+          "Cooper": [
+            258,
+            217,
+            226
+          ]
+        },
+        "render_input": {
+          "path": "/tmp/chunk6_render_early/OT_1995CHUNK6.md",
+          "sha256": "cf756ab8b438081f679ebcf4fec922a39c53402cf95dfd75e5abf6e5a12e3713"
+        },
+        "entries": {
+          "path": "/tmp/chunk6_render_early/entries.md",
+          "sha256": "13f830840d6f6ff318f4ecb71720c5236f04489037917229eba4af5920e7a3ac"
+        }
+      },
+      {
+        "events": [
+          "Holly Farms 1996-04-23",
+          "Markman 1996-04-23"
+        ],
+        "auditor": "/root/chunk6_public_audit_early",
+        "result": "PASS; no material omissions, additions or editorial patches",
+        "explanation_words": {
+          "Holly Farms": [
+            126,
+            179,
+            182,
+            286
+          ],
+          "Markman": [
+            232,
+            258,
+            265
+          ]
+        },
+        "render_input": {
+          "path": "/tmp/chunk6_render_april23/OT_1995CHUNK6.md",
+          "sha256": "372dbbdcfa8b9f746dd43be29e0801654af916024f8396c6cc325f648ce17be0"
+        },
+        "entries": {
+          "path": "/tmp/chunk6_render_april23/entries.md",
+          "sha256": "92e9982dfda12c4c6fd07231628872b52c912066b5c040efc92d683583f17378"
+        }
+      },
+      {
+        "events": [
+          "Carlisle v. United States",
+          "Sheets v. Salt Lake County"
+        ],
+        "auditor": "/root/chunk6_public_audit_early",
+        "result": "PASS",
+        "explanation_words": {
+          "Carlisle": [
+            249,
+            257,
+            243
+          ],
+          "Sheets": [
+            300,
+            280
+          ]
+        },
+        "render_input": {
+          "path": "/tmp/chunk6_render_april29/OT_1995CHUNK6.md",
+          "sha256": "d72229a96cafc5d9d80a32118df2bee2bb7c9fb593b1be6ebad1362d7dc0f129"
+        },
+        "entries": {
+          "path": "/tmp/chunk6_render_april29/entries.md",
+          "sha256": "f8291d1cdfae48528fd9824ab97f35b5df018a77a7cfc96038038a3a91de2f1f"
+        },
+        "defects": []
+      },
+      {
+        "events": [
+          "United Food & Commercial Workers Union Local 751 v. Brown Group, Inc.",
+          "United States v. Noland"
+        ],
+        "auditor": "/root/chunk6_public_audit_early",
+        "result": "PASS",
+        "explanation_words": {
+          "Brown Group": [
+            213,
+            250
+          ],
+          "Noland": [
+            229,
+            286
+          ]
+        },
+        "render_input": {
+          "path": "/tmp/chunk6_render_may13_statutes/OT_1995CHUNK6.md",
+          "sha256": "8b7eb025bcd7a39a92bca84434da5d43d7e548d232ecb9330b35b38ee50c77b8"
+        },
+        "entries": {
+          "path": "/tmp/chunk6_render_may13_statutes/entries.md",
+          "sha256": "b05d178c7692618c714115b3d5bb9e261e3fa496ec6e320fac41b39cab8cf360"
+        },
+        "defects": []
+      },
+      {
+        "events": [
+          "44 Liquormart, Inc. v. Rhode Island",
+          "United States v. Armstrong"
+        ],
+        "auditor": "/root/chunk6_public_audit_early",
+        "result": "PASS",
+        "explanation_words": {
+          "44 Liquormart": [
+            226,
+            253,
+            95,
+            88,
+            88
+          ],
+          "Armstrong": [
+            276,
+            294,
+            190
+          ]
+        },
+        "render_input": {
+          "path": "/tmp/chunk6_render_may13_other/OT_1995CHUNK6.md",
+          "sha256": "cee719f307c0ceb4d7417184cf2908fd8a6f991ce155e6fcdd55ff478404a464"
+        },
+        "entries": {
+          "path": "/tmp/chunk6_render_may13_other/entries.md",
+          "sha256": "6450ed51e8cd36e0406f137b2253d8e81d80d1aed2bcf49f7d26c75ca6b5c295"
+        },
+        "defects": []
+      },
+      {
+        "events": [
+          "Romer v. Evans"
+        ],
+        "auditor": "/root/chunk6_public_audit_early",
+        "result": "PASS",
+        "explanation_words": {
+          "Romer": [
+            305,
+            243
+          ]
+        },
+        "render_input": {
+          "path": "/tmp/chunk6_render_romer/OT_1995CHUNK6.md",
+          "sha256": "69b010a5589daf9137dd93d43526d245fc062285b678352afc6cc53faf94031b"
+        },
+        "entries": {
+          "path": "/tmp/chunk6_render_romer/entries.md",
+          "sha256": "aa0d13cfcd1c31dfb73100185e5a923a3094462374a20269560b355a370bfe9e"
+        },
+        "defects": []
+      },
+      {
+        "events": [
+          "BMW of North America, Inc. v. Gore"
+        ],
+        "auditor": "/root/chunk6_public_audit_early",
+        "result": "PASS",
+        "explanation_words": {
+          "BMW": [
+            210,
+            202,
+            217,
+            246,
+            153
+          ]
+        },
+        "render_input": {
+          "path": "/tmp/chunk6_render_bmw/OT_1995CHUNK6.md",
+          "sha256": "f96096c9d85838bd478fa9de52e0c2483abdf4382f60d491de6547cb5b197f01"
+        },
+        "entries": {
+          "path": "/tmp/chunk6_render_bmw/entries.md",
+          "sha256": "2d169b22d3d5cf31619bb1825003fe0b3b57d6742b882bd2d8ceda7ffd27368a"
+        },
+        "defects": []
+      }
+    ],
+    "wrapper_audit": {
+      "render_input": {
+        "path": "/workspace/scotus-career/terms/OT1995/render-inputs/OT_1995CHUNK6.md",
+        "sha256": "072eff135011ab8c640a391f451664808fb306fa32bb0a6ac433d96f3aaf8b6d"
+      },
+      "wrapper": {
+        "path": "/tmp/chunk6_render_wrapper.md",
+        "sha256": "4d39c68100263244acff8244665954d9cb6751421a08251ed36892f48f388660"
+      },
+      "ordered_cases": [
+        "Planned Parenthood, Sioux Falls Clinic v. Miller",
+        "Cooper v. Oklahoma",
+        "Holly Farms Corp. v. NLRB",
+        "Markman v. Westview Instruments, Inc.",
+        "Carlisle v. United States",
+        "Sheets v. Salt Lake County",
+        "44 Liquormart, Inc. v. Rhode Island",
+        "United Food & Commercial Workers Union Local 751 v. Brown Group, Inc.",
+        "United States v. Armstrong",
+        "United States v. Noland",
+        "Romer v. Evans",
+        "BMW of North America, Inc. v. Gore"
+      ],
+      "auditor": "/root/chunk6_public_audit_early",
+      "result": "PASS",
+      "defects": []
+    }
+  },
+  "required_checks": {
+    "record_checks": "All twelve Court Records and three newly admitted sources pass fixed labels, eleven blocks, exact PUBLIC identity, links and applicable explanation ceilings.",
+    "runtime_split": "OK: 12 matters; runtime split is current",
+    "holdings_volumes": "OK: Holdings volumes and compatibility view are synchronized",
+    "term_validation": {
+      "command": "PYTHONDONTWRITEBYTECODE=1 python tools/check_term.py OT1995",
+      "exit_code": 0,
+      "warning_count": 33,
+      "baseline_warning_count": 23,
+      "new_warning_count": 10,
+      "new_warning_classification": "The existing checker reads Internet Archive identifiers A40385013/A40386012 in ten new Records as Git commit references. These are source identifiers, not missing adjudicative commits. All new local source links resolve. Baseline warnings are unchanged."
+    }
+  },
+  "publication": "Validated artifacts are ready for native Git publication to main; verify remote HEAD after pushing."
+}
