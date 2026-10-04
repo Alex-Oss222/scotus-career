@@ -1,0 +1,5 @@
+# June 10 entering-law chronology clarification
+
+The complete June 3 public state is preserved in [the pre-June10 projection](OT_1995CHUNK7_PRE_JUNE10_NEUTRAL_PROJECTION.md). Its introductory statement that no special retroactivity or earlier-case application was adjudicated describes the OCC source-admission event itself. It does not qualify or supersede the subsequently completed Smiley decision reproduced in full in that projection. Smiley permits the stated qualified judicial use of the current authoritative interpretation for antecedent transactions lacking clear prior guidance, without backdating the April 1 rule or deciding the materially different clear-prior-guidance case. Its exact eight-Justice Part V and other opinion joins remain as recorded.
+
+The six June 10 inventory matters use that complete June 3 law: Richards, Whren, Degen, Exxon, International Business Machines No. 95-591, and Lockheed No. 95-809. No June 10 peer supplies intervening law. This clarification changes no opinion, disposition, source effective date, procedural stage, or substantive entering-law proposition.
