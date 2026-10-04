@@ -2,7 +2,7 @@
 
 ## Scope, law and chronology
 
-Current Court actions comprise 67 completed events and seven admitted noncase-law sources (74 canonical Records). The April 9 Bowersox interim order is followed by a separate final action granting Missouri's application, 5–4, and vacating the March 8 appellate stay with immediate effect. The Supreme Court application is closed. The underlying appeal and any other lawful restraints are not adjudicated; no substitute stay, fixed grace period, execution order, writ disposition or appeal dismissal is entered. Actual transmission, service, responses and elapsed interim clocks are not presumed. Thirteen chunk 5 Court events and all twelve chunk 4 actions are recorded. Ayers's March 25 library-only writ was dismissed as improvidently granted, 8–1; this Court's review ends while the Fifth Circuit appeal and the district court's remedial jurisdiction remain available. The dismissal changes no substantive desegregation rule and leaves every decree provision undisturbed without merits affirmance. The completed March 27 and April 1 groups retain their respective common March 26 and March 27 entering-law baselines. Jones’s financial-leave motion and certiorari petition remain pending; Wood remains an open plenary grant. Maine No. 35 and Louisiana No. 121 retain implementation jurisdiction, alongside the five inherited open matters. These are the nine previously identified continuing matters. Ayers is no longer an open Supreme Court matter; its pending lower-court appeal is preserved. Shieh’s separate certiorari petitions, Nos. 95-7587, 95-7588 and 95-7589, are also pending after their three individual financial motions were granted; they are not three additional completed Court events. Bowersox, No. A-828, is closed by the final April 9 application order; its underlying appeal and any other lawful restraints are not adjudicated. Latest completed Court group and legal cutoff: Carlisle and Sheets, April 29, 1996. The latest admitted source remains PLRA sections 802–804, April 26, 1996. Next eligible inventory item: the May 13 Armstrong, 44 Liquormart, Noland and Brown Group matters, chunk 6, sharing the common April 29 entering-law baseline. The seven admitted sources are the October 1, 1995 paternity amendment; Rule 57 effective December 1, 1995, with its qualified pending-case transition; Public Law 104-91 enacted January 6, 1996, with its covered period deemed to begin December 16, 1995; Telecommunications Act §§302 and 551 enacted February 8, 1996, within their actual conditions and transitions; AEDPA Title I enacted April 24, 1996; and PLRA sections 802–804 enacted April 26, 1996. The two new sources retain their provision-specific conditions and temporal limits and change no pending case stage by admission alone.
+Current Court actions comprise 71 completed events and seven admitted noncase-law sources (78 canonical Records). The April 9 Bowersox interim order is followed by a separate final action granting Missouri's application, 5–4, and vacating the March 8 appellate stay with immediate effect. The Supreme Court application is closed. The underlying appeal and any other lawful restraints are not adjudicated; no substitute stay, fixed grace period, execution order, writ disposition or appeal dismissal is entered. Actual transmission, service, responses and elapsed interim clocks are not presumed. Thirteen chunk 5 Court events and all twelve chunk 4 actions are recorded. Ayers's March 25 library-only writ was dismissed as improvidently granted, 8–1; this Court's review ends while the Fifth Circuit appeal and the district court's remedial jurisdiction remain available. The dismissal changes no substantive desegregation rule and leaves every decree provision undisturbed without merits affirmance. The completed March 27 and April 1 groups retain their respective common March 26 and March 27 entering-law baselines. Jones’s financial-leave motion and certiorari petition remain pending; Wood remains an open plenary grant. Maine No. 35 and Louisiana No. 121 retain implementation jurisdiction, alongside the five inherited open matters. These are the nine previously identified continuing matters. Ayers is no longer an open Supreme Court matter; its pending lower-court appeal is preserved. Shieh’s separate certiorari petitions, Nos. 95-7587, 95-7588 and 95-7589, are also pending after their three individual financial motions were granted; they are not three additional completed Court events. Bowersox, No. A-828, is closed by the final April 9 application order; its underlying appeal and any other lawful restraints are not adjudicated. Latest completed Court group and legal cutoff: Armstrong, 44 Liquormart, Noland and Brown Group, May 13, 1996. The latest admitted source remains PLRA sections 802–804, April 26, 1996. Next eligible inventory item: the May 20 Romer and BMW matters in chunk 6; both and the May 20 Henderson and Casarotto matters in chunk 7 share the common May 13 entering-law baseline. The seven admitted sources are the October 1, 1995 paternity amendment; Rule 57 effective December 1, 1995, with its qualified pending-case transition; Public Law 104-91 enacted January 6, 1996, with its covered period deemed to begin December 16, 1995; Telecommunications Act §§302 and 551 enacted February 8, 1996, within their actual conditions and transitions; AEDPA Title I enacted April 24, 1996; and PLRA sections 802–804 enacted April 26, 1996. The two new sources retain their provision-specific conditions and temporal limits and change no pending case stage by admission alone.
 
 The opening law is the [Holdings doctrinal volumes](../../../state/holdings/INDEX.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md) and [Standing State](../../../state/STANDING_STATE.md), through the complete June 29, 1995 group. The [Composition register](../../../foundation/COURT_COMPOSITION.md) supplies membership, seniority and the August 3, 1994 circuit allotments. Current decisions and statutes below apply from their own effective dates and within their stated limits.
 
@@ -1794,7 +1794,7 @@ Authority and exact joins: [Public decision](../entering-law/PUBLIC_Bowersox_v_W
 
 ## Source cutoff
 
-Latest completed Court group and legal cutoff: Carlisle and Sheets, April 29, 1996, using the common April 26 entering-law baseline. Latest admitted source: April 26, 1996. Armstrong, 44 Liquormart, Noland and Brown Group form the next scheduled group on May 13 and share the common April 29 entering-law baseline.
+Latest completed Court group and legal cutoff: Armstrong, 44 Liquormart, Noland and Brown Group, May 13, 1996, using the common April 29 entering-law baseline. Latest admitted source: April 26, 1996. The next scheduled date is May 20: Romer and BMW in chunk 6, followed in inventory by the same-date Henderson and Casarotto matters in chunk 7. All four share the common May 13 entering-law baseline; no same-date peer supplies intervening law.
 
 The April 9 Bowersox interim order is followed by a separate final action granting Missouri's application, 5–4, and vacating the March 8 appellate stay with immediate effect. The Supreme Court application is closed. The underlying appeal and any other lawful restraints are not adjudicated; no substitute stay, fixed grace period, execution order, writ disposition or appeal dismissal is entered. Actual transmission, service, responses and elapsed interim clocks are not presumed. Thirteen chunk 5 Court events and all twelve chunk 4 actions are recorded. Ayers's March 25 library-only writ was dismissed as improvidently granted, 8–1; this Court's review ends while the Fifth Circuit appeal and the district court's remedial jurisdiction remain available. The dismissal changes no substantive desegregation rule and leaves every decree provision undisturbed without merits affirmance. The completed March 27 and April 1 groups retain their respective common March 26 and March 27 entering-law baselines. Each public decision retains its own event-specific source cutoff and limits. Uncoordinated same-day actions use their common pre-group baseline; future scheduled proceedings supply no intervening holding. Opening law runs through the complete June 29, 1995 group, and circuit allotments remain effective August 3, 1994. The six admitted statutory sources and the December 1 Rule 57 amendment apply within their actual enactment, covered-period and transition terms. AEDPA Title I and PLRA sections 802–804 retain their provision-specific conditions and unresolved application questions; neither changes a pending case stage by admission alone. January 6 enactment remains distinct from the December 16 deemed Medicaid period; section 551 establishes no presently operational national blocking system. The Ayers operative amendments remain unestablished from their planning dates alone. Jones remains pending as specified in its February 26 order.
 
@@ -2644,3 +2644,478 @@ The [Tenth Circuit opinion, 45 F.3d 1383](https://law.resource.org/pub/us/case/r
 The opposition at 5–6 quotes the objective instructions and recites the specific jury findings; those are the party's authenticated recitations rather than a separately available signed verdict form. The published opinion independently supports the intentional-act instruction and circumstantial-evidence ruling. The confidentiality assurance and George's notice retain their testimonial and disputed character; neither is converted into his direct admission. Excluded books and articles were not connected to the diary passages and establish no prior publication of them. The constitutional question does not resolve the independent limitations-text discrepancy or revisit unpresented evidentiary and award disputes.
 
 The April 29 decisions share the common April 26 entering-law baseline; neither supplies intervening law for the other. Armstrong, 44 Liquormart, Noland and Brown Group share the common April 29 entering-law baseline for May 13.
+
+## May 13, 1996 completed public authority — Armstrong
+
+Exact public text from [the bounded public source](../entering-law/PUBLIC_United_States_v_Armstrong_merits_1996-05-13.md).
+
+## Event
+
+United States v. Armstrong, 517 U.S. 456, No. 95-157. Argued February 26, 1996; decided May 13, 1996; October Term 1995. On certiorari to the en banc Ninth Circuit, 48 F.3d 1508 (March 2, 1995), which affirmed dismissal following the Government's refusal to comply with selective-prosecution discovery. The appeal below arose under 18 U.S.C. §3731 from dismissal, not directly from the discovery order.
+
+Five Black defendants faced federal cocaine-base and firearm charges after a joint local-police/ATF investigation. State charges were never filed against them. They alleged racial selection for federal rather than state prosecution and sought charging information. No court found discrimination on the merits or adjudicated guilt.
+
+Beller's declaration identified 24 Black defendants and no non-Black defendants in the federal public defender's cocaine-base matters closed during 1991, excluding out-of-district matters and cases in which retained counsel appeared before post-indictment arraignment. Reed described firsthand professional experience with other-race state crack-sale defendants, including repeat offenders. A separate declaration relayed a treatment professional's observations about users and dealers. These sources have different foundations and do not describe the entire population eligible for federal charging.
+
+On reconsideration, Scheper offered sworn charging reasons involving drug quantities, repeated transactions, multiple participants, joint investigation, firearm allegations, recordings, threats and criminal histories, and denied racial selection. Investigators described the small subset referred federally and Black offenders prosecuted by the State. The Government identified non-Black federal defendants as well. Those proffers remain contested assertions, not judicial findings of neutrality, and do not logically disprove the precisely bounded closed-1991 sample.
+
+The adjudicated order concerned cases involving both cocaine-base and federal-firearm charges, defendants' race, investigating agencies and federal-selection criteria. The September 8 hearing specified 1989 through 1992; a later crack-only exchange is ambiguous and does not establish an expanded order. The judge said she considered all parties' evidence; disputed reliance on supplemental declarations does not remove them from the record. The newspaper was discounted, and the Berk–Campbell study was outside the original district-court record.
+
+## Participation
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision. No Justice is recused or otherwise nonparticipating.
+
+## Public Action
+
+The Ninth Circuit's judgment is reversed, the unsupported discovery order and its dependent dismissal are set aside, and the case is remanded for ordinary pretrial proceedings without directing renewed discovery inquiry.
+
+## Judgment & Remedy
+
+| Component | Disposition and support | Other positions |
+|---|---|---|
+| Present discovery order and refusal-based dismissal | Setting aside, 8–1: Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Stevens would sustain the discretionary inquiry and reviewed dismissal. |
+| Formal appellate judgment and further proceedings | Reversed and remanded, 7–2: O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; ordinary pretrial prosecution without a directed renewed inquiry | Stone-Zsela would expressly vacate the dismissal and direct conditional staged inquiry. Stevens would affirm. |
+
+The refusal-based dismissal loses its predicate; no punitive dismissal for refusal to obey this unsupported order remains. The Court grants neither discovery nor an automatic new opportunity to assemble evidence. A later lawful, adequately supported request retains its ordinary conditions. No conviction, sentence, acquittal, new trial after acquittal or state-prosecution command follows. The appropriate remedy for proved selective prosecution is not decided, and no dismissal-prejudice label is imposed.
+
+## Opinion Topology
+
+Justice O'Connor delivers the Opinion of the Court:
+
+| Part | Subject | Joins and controlling support |
+|---|---|---|
+| I | Rule 16 excludes preparation of this selective-prosecution claim | Scalia, Kennedy, Souter, Thomas and Ginsburg join O'Connor; six. Souter and Ginsburg join only the selective-prosecution scope stated here, reserving other defenses. |
+| II | Preliminary showing, inadequate effect evidence and setting aside the present order/dismissal | Stone-Zsela, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join O'Connor; eight. |
+| III | Ordinary remand without directed renewed inquiry | Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join O'Connor; seven. |
+
+Breyer concurs in part and in the judgment, joining II–III and stating a different Rule 16 ground. Stone-Zsela concurs in part and dissents in part, joining II but advocating his distinct vacatur and staged-inquiry remand. Stevens dissents and would affirm; his agreement that Rule 16 is not the source is not a join in Part I.
+
+## Holdings
+
+### I. Rule 16 does not authorize discovery to prepare a selective-prosecution claim
+
+**Controlling proposition:** Rule 16(a)(1)(C)'s provision for material preparation of the defense does not authorize the requested discovery to prepare a selective-prosecution claim challenging the decision to prosecute. This holding is confined to that claim; it decides neither all affirmative defenses unrelated to guilt nor whether a properly supported constitutional inquiry could have another source of authority.
+
+**Authority:** Part I of O'Connor's Opinion of the Court, joined by Scalia, Kennedy, Souter, Thomas and Ginsburg. The six support the stated selective-prosecution scope; broader treatment of other defenses is not the Court's rule.
+
+**Controlling explanation:** Paragraph (a)(1)(C) covers enumerated documents and objects in Government possession, custody or control through three alternative triggers: materiality to preparation of the defense, intended use in the Government's evidence in chief, or acquisition from or ownership by the defendant. The latter two triggers are not established here. For this purpose, preparation of the defense against the prosecution's criminal case differs from the independent constitutional challenge to the selection decision.
+
+The Rule's structure reinforces that distinction. Paragraph (a)(2), except as provided in (a)(1)(A), (B), (D) and (E), excludes internal attorney or agent reports, memoranda and other Government documents connected with investigation or prosecution; it separately restricts Government witness statements through §3500. Paragraph (a)(3) preserves the grand-jury exceptions in Rules 6, 12(i), 26.2 and (a)(1)(A). These provisions protect distinct categories; aggregate information, criteria and internal deliberations are not automatically identical.
+
+Respondents argued the Rule here, and the Government answered through materiality while denying that it sought a new categorical exemption. The lower courts did not decide the Rule's scope. The Court resolves the presented interpretation without finding waiver or attributing its construction to either the Government or the court below.
+
+Protective and sanction powers regulate an established duty; they do not create the original entitlement. Rule 16(d)(1) permits protective relief on sufficient showing, including an ex parte written showing whose full text must be sealed and preserved if relief is granted. Paragraph (d)(2) permits discovery, continuance, exclusion and other just responses to noncompliance, without establishing that it supplied the actual sanction here. Neither Rule 17(c), Brady nor compulsory process supplies an established alternative entitlement on this showing. Rule 16's nonauthorization is not universal immunity from constitutionally warranted review.
+
+### II. The existing showing does not support discovery of discriminatory federal selection
+
+**Controlling proposition:** Before obtaining discovery on this indirect racial-selection theory, defendants must present some credible evidence tending to show discriminatory effect and purpose, including a reliable basis to infer that persons of another race relevantly similarly situated for federal prosecution could have been prosecuted but were not. The preliminary showing is less than a prima facie merits case; the present request fails on effect, without a separate determination that purpose evidence is independently deficient.
+
+**Authority:** Part II of the Court's opinion, joined by eight Justices identified in Opinion Topology. Their shared holding assumes discovery could be available on an appropriate showing and establishes no additional source of authority.
+
+**Controlling explanation:** Wayte preserves constitutional review of prosecutorial discretion but reserved discovery. Wade's meaningful sentencing-stage screening supplies an analogy, not a completed charging rule. A preliminary predicate must connect the evidence to the challenged federal selection; ultimate clear-evidence language does not set this discovery burden.
+
+Klinger ties comparison to the actual treatment, while Kimberlin permits circumstantial proof without removing constitutional elements or lawful screening. Relevant similarity does not mean perfect identity. Grounded statistics and circumstantial comparisons are permissible, and a specifically justified alternative evidentiary basis may supply the required inference when comparator names cannot reasonably be obtained. Neither universal naming nor a fixed checklist is required. Whether direct admissions of discriminatory purpose dispense with similarly situated comparison remains open; none appears here.
+
+Beller's selected closed-1991 sample supplies a numerator, not the racial composition of an eligible charging population or evidence of relevantly similar offenders passed over. Reed's state-practice experience and the relayed treatment observations do not sufficiently connect their subjects to the quantities, firearms, evidence and criminal-history circumstances relevant here. Considered cumulatively with the developed Government response, the submissions still lack that comparison. Missing particulars establish insufficiency of this showing, not the nonexistence of comparators. The Government's declarations identify relevant gaps but are not accepted as proven neutrality; its non-Black examples do not disprove Beller's bounded count.
+
+Access difficulty is substantial, but discovery may complete a grounded inference rather than create its missing connection solely from hope. There is no finding that all state records are readily available or all subpoenas enforceable. General demographic assumptions, the discounted newspaper and an extra-record study cannot supply the denominator. The judge's consideration of all evidence does not cure this legal insufficiency. The present order therefore cannot stand, and neither can dismissal for refusing it. No ultimate discrimination finding follows.
+
+### III. The case returns without a directed renewed discovery inquiry
+
+**Controlling proposition:** The Ninth Circuit's affirmance is reversed and the case remanded for ordinary pretrial proceedings after setting aside the unsupported order and dependent dismissal. The mandate directs no renewed evidentiary inquiry or automatic discovery; it does not forbid a later lawful request supported under the governing requirements.
+
+**Authority:** Part III of the Court's opinion, joined by the seven reversing Associates identified in Opinion Topology. Stone-Zsela agrees with setting aside the existing order and dismissal but rejects this remand without directed staged inquiry; Stevens would affirm.
+
+**Controlling explanation:** The developed record permits resolution of the challenged order. No missing necessary finding, legally required separation of requests or proper showing establishes a present duty to undertake a new discovery stage. Reduced expense or an initial criteria-only request may affect the scope of otherwise authorized discovery, but cannot itself supply the absent selection comparison.
+
+The Government obtained review by refusing the order, and the district court dismissed for that refusal. Once the order's predicate fails, the dependent sanction cannot stand. This conclusion does not decide whether the same sanction would have been appropriate following refusal of a valid order; that independent issue was not presented. Williams's different grand-jury duty, prejudice requirements and without-prejudice remedy do not assign a prejudice label here. Carlisle preserves lawful supervision within governing limits, not an automatic new production duty.
+
+The case accordingly returns for ordinary prosecution. Any later supported request must satisfy its own source, threshold and protective conditions through ordinary procedures. The Court does not compel defendants to produce new evidence, guarantee another hearing or decide the sanction for proved racial selection. Nothing determines guilt, orders conviction or treats this dismissal as an acquittal.
+
+## Precedent Treatment
+
+- Wayte v. United States, 470 U.S. 598: applies the constitutional effect-and-purpose limits on broad charging discretion while preserving its express nondecision of discovery; the present threshold is resolved here.
+- Wade v. United States, May 18, 1992: applies the distinction between constitutional review and meaningful preliminary screening by analogy from substantial-assistance proceedings; its sentencing rule did not already decide this charging comparison.
+- Kimberlin v. Quinlan, June 12, 1995: preserves statistical and circumstantial proof without a categorical direct-evidence requirement, while retaining constitutional elements, specific support and lawful discovery limits.
+- Klinger v. Department of Corrections, December 4, 1995: applies comparison tied to challenged treatment without demanding complete identity or treating disparity as sufficient proof of purpose.
+- McCleskey v. Kemp, 481 U.S. 279: informs the need to connect a statistical pattern to the challenged decision; it supplies neither a categorical statistical exclusion nor a completed-merits discovery burden.
+- Yick Wo v. Hopkins, 118 U.S. 356: preserves discriminatory-administration inferences on a properly supported pattern; this sample lacks the necessary comparison connection.
+- United States v. Williams, May 4, 1992: its bounded grand-jury disclosure duty and separate supervisory-dismissal conditions remain intact; neither source nor remedy automatically governs this discovery sanction.
+- Carlisle v. United States, April 29, 1996: preserves rule-consistent supervision and rejects evasion of a specific restriction; it does not convert Rule 16's nonauthorization into a general prohibition on constitutional review.
+
+No precedent is overruled. No civil-discovery regime, jury-selection procedure, competence burden or universal supervisory rule is transferred to this case.
+
+## Law After Decision
+
+Effective May 13, 1996, Rule 16(a)(1)(C) does not authorize preparation of this selective-prosecution claim, by six direct votes. The eight-Justice discovery holding requires the stated preliminary connection to discriminatory selection while preserving attainable, grounded circumstantial and statistical proof and justified alternatives to unavailable comparator names. The direct-admission exception remains undecided; ultimate merits proof is not required to obtain discovery, but this showing is insufficient on effect.
+
+The Court mandates ordinary pretrial proceedings without directing a renewed inquiry. It neither creates automatic discovery nor bars a later properly supported request. The source of any additional discovery authority, unpresented Rule 16 defenses, ultimate discrimination and the proper remedy for a proved constitutional violation remain unresolved. The opinion does not find the Government neutral, treat every racial imbalance as discriminatory or establish a universally accessible comparator database.
+
+## Separate Writings
+
+**Breyer, concurring in part and in the judgment.** He joins Parts II–III but rejects Part I's Rule 16 exclusion. Paragraph (a)(1)(C)'s three disjunctive categories perform different work; its defense-preparation category is not confined to the Government's evidence in chief. Information material to a genuine selective-prosecution defense can therefore fall within the Rule, subject to its independent exclusions and protections. Here the missing relevant comparison defeats materiality, so he agrees that the order and dependent dismissal fail. Kimberlin and Klinger preserve grounded circumstantial proof, but disproportionate access and a less intrusive proposed stage cannot supply an absent predicate. He does not resolve a necessary work-product exception, promise enforceable access to all state records or eliminate a distinct lawful source of discovery.
+
+**Stone-Zsela, concurring in part and dissenting in part.** He joins Part II and would expressly vacate the unsupported-order dismissal, but would remand for a staged, limited inquiry under an attainable, evidence-based threshold. The selected 24-defendant sample does not identify comparably eligible non-Black offenders treated differently, supply the denominator or itself prove discriminatory purpose. Kimberlin forbids categorical direct-proof demands; it does not compel his proposed charging procedure or erase effect, purpose and relevant comparison.
+
+His proposed remand would assess the comparison in its offense, eligibility, place and time context with available purpose evidence. These are reliability considerations, not a mandatory checklist or a demand for every listed form of proof. Reliable jurisdiction-specific data, concrete indications of comparably eligible offenders and a supported reason missing information lies with the prosecutor can justify narrow production. A specifically justified alternative evidentiary basis must be accepted where comparator names cannot reasonably be obtained. If the threshold is met, inquiry would begin with limited comparable data or interrogatories, appropriate redaction, privilege review and protective orders, expanding only if the response warrants it. The existing broad order would not return on this sample alone. Ordinary prosecution would resume unless lawful new proceedings justify another remedy. His proposal establishes neither automatic discovery, racial discrimination nor acquittal, and his directed staged remand is not the Court's mandate.
+
+**Stevens, dissenting.** He would affirm the reviewed judgment. Respondents established neither the selective-prosecution defense nor a right to discovery under Rule 16 or inherent authority. That lack of entitlement does not, in his view, eliminate the district judge's bounded discretion to inquire into a disturbing evidentiary pattern. The defined all-Black sample, Reed's firsthand state/federal experience, the substantial federal/state penalty difference and the judge's consideration of the developed response justified inquiry appreciably short of merits proof. Relayed observations and firsthand experience should not be conflated, and the absence of a Government admissibility objection below does not establish a universal hearsay rule.
+
+Wayte's constitutional limits, Williams's bounded judicial protection and the distinction between failed party entitlement and retained judicial function support his discretionary ground. Wade's screening requirement and the mismatch between general crack cases and these federal charges remain serious limits; they do not make every inquiry an abuse of discretion. He acknowledges that the order may have been broader than necessary, but does not replace his affirmance with a criteria-only remand or unconditional access to protected files. He supplies no representative denominator, merits discrimination finding or shifted ultimate burden, and would not give the Government a new unconditional opportunity to refuse, obtain review and then comply after losing.
+
+## Procedure After Action
+
+The case returns through the Ninth Circuit for ordinary pretrial proceedings with the unsupported discovery order and refusal-based dismissal set aside. No renewed discovery inquiry is directed; any later lawful supported request remains subject to its own conditions. Stone-Zsela's proposed staged remand and Stevens's affirmance do not control that mandate. No dismissal-prejudice label, charging allocation, state prosecution, conviction, sentence or new trial after acquittal is ordered. Supreme Court review of this discovery dispute is complete, with ordinary mandate procedures and no prescribed subsequent Court event.
+
+## Source Notes
+
+The [filed record and merits submissions, No. 95-157](https://archive.org/details/micro_IA40385013_0636), and the en banc opinion, 48 F.3d 1508, supply the posture and record. Joint Appendix 68–83 distinguishes the selected sample and Government declarations; 138–141 gives the two defense submissions; 156–163 establishes no prior state charges and the order's stated scope; 217–218 records consideration of all evidence and rejection of the newspaper; 225–226 records the refusal-based sanction. Neither the readable sanction account nor the order material establishes an express dismissal-prejudice term. The later crack-only exchange does not resolve a broader order, and the Berk–Campbell study was not before the district court.
+
+The [official Rule 16 text](https://www.govinfo.gov/content/pkg/USCODE-1996-title18/html/USCODE-1996-title18-app.htm) supplies the materiality alternatives, exclusions, exceptions and protective/sanction provisions. The 1993 expert and 1994 organizational-statement amendments do not create the operative discovery source asserted for the 1992 order. Government reply 1–8 supplies its materiality position and response to the Rule 16 argument; its objection to unconditional state-subpoena access remains distinct from an assurance that particular records can be obtained. The Court's interpretation does not depend on attributing an unmade categorical argument or a waiver finding to those submissions.
+
+## May 13, 1996 completed public authority — 44 Liquormart
+
+Exact public text from [the bounded public source](../entering-law/PUBLIC_44_Liquormart_Inc_v_Rhode_Island_merits_1996-05-13.md).
+
+## Event
+
+44 Liquormart, Inc. v. Rhode Island, No. 94-1140. Argued November 1, 1995; decided May 13, 1996. October Term 1995. On review under 28 U.S.C. §1254(1) of the First Circuit's October 24, 1994 judgment, 39 F.3d 5, reversing a constitutional declaration and directing judgment for defendants. The earlier July opinion and judgment were withdrawn and vacated.
+
+Rhode Island General Laws §3-8-7 prohibits manufacturers, wholesalers, out-of-state shippers and covered license holders from advertising prices of malt beverages, cordials, wine or distilled liquor offered for sale in Rhode Island. Its exception permits price signs or tags attached to or placed on merchandise for sale within licensed premises, under departmental rules. Regulation 32 prohibits alcoholic-price references on signs visible from outside Class A premises. The exception does not authorize unrestricted indoor or exterior-visible price advertising.
+
+Section 3-8-8.1 separately prohibits Rhode Island-based newspapers, periodicals, broadcasters and advertising businesses from accepting, publishing or broadcasting in Rhode Island advertisements stating or referring to alcoholic-beverage prices. It excepts trade journals recognized and authorized by the administrator. Violations carry a $50 first-offense fine and fines of at most $100 for additional offenses; publication or broadcast may also be enjoined on a retail licensee's or association's complaint. Section 3-8-8 supplies general enforcement and license-suspension authority but is not independently invalidated. Nonprice promotion remains permitted. Section 3-1-5 declares temperance and reasonable control of alcohol traffic as purposes.
+
+44 Liquormart's 1991 advertisement displayed liquor bottles, prices for nonalcoholic goods and prominent WOW bursts. It paid a $400 administrative fine without appealing that proceeding. Peoples, a Massachusetts retailer, could not place truthful advertisements of lawful Massachusetts liquor prices in Rhode Island media. Both plaintiffs have standing; Peoples' distinct First Amendment claim remains, while its Commerce Clause claim was abandoned on appeal.
+
+After trial, the District Court declared the challenged provisions unconstitutional and found no significant effect of this price-advertising ban on Rhode Island consumption. It did not decide the effects of general alcohol-advertising bans. The First Circuit regarded the economic inference supporting the ban as constitutionally sufficient and invoked an added Twenty-first Amendment presumption. The parties' treatment of the proposed speech as lawful and presumably truthful does not establish the disputed consumption effect.
+
+## Participation
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision. No Justice is recused or otherwise nonparticipating.
+
+## Public Action
+
+The October 24 First Circuit judgment is reversed on both plaintiffs' preserved First Amendment claims, 9–0. The case is remanded for implementation of the district court's constitutional declaration under the eight-Justice remedial disposition below.
+
+## Judgment & Remedy
+
+| Component | Disposition and support | Operative relief |
+|---|---|---|
+| 44 Liquormart's truthful retail-price claim and Peoples' truthful Massachusetts-price advertisements in Rhode Island | Reverse, 9–0: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | The challenged price-information prohibitions cannot stand under the First Amendment. |
+| Implementation of the constitutional declaration | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: eight | Remand preserving the district declaration against the challenged prohibitions in §§3-8-7, 3-8-8.1 and Regulation 32; no new merits trial. |
+| Additional prospective injunction | Stone-Zsela alone | He would direct that enforcement against truthful, nonmisleading retail-price advertising be enjoined. That additional directive is not the Court's mandate. |
+
+The Court awards no damages or refund of the paid $400 fine, reopens no administrative appeal, and revives no Commerce Clause claim. It orders no tax, minimum-price program or antitrust adjudication. Direct regulation of sales, prices, taxes, hours and unlawful promotions remains subject to its own law. The judgment does not invalidate every alcohol-advertising regulation or the general enforcement authorization in §3-8-8.
+
+## Opinion Topology
+
+Justice Kennedy announces the judgment and writes the following Court and noncontrolling portions. The listed joiners are in addition to the author.
+
+| Portion | Joined by | Authority and scope |
+|---|---|---|
+| I: failure of material advancement | Stone-Zsela, Stevens, Souter, Ginsburg | Opinion of the Court, five; Stevens adopts an independently sufficient conditional application. |
+| II: independent failure of reasonable fit | Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, Breyer | Opinion of the Court, seven; O'Connor and Breyer assume advancement, while Stevens's application remains conditional. |
+| III-A: no added alcohol-based presumption for this restraint | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Opinion of the Court, nine. |
+| III-B: broader Twenty-first Amendment rule and LaRue rationale | Stevens, Scalia, Souter, Thomas, Ginsburg | Opinion of the Court, six; preserves LaRue's holding. |
+| IV-A: commercial-information protection and special care | Stevens, Souter, Ginsburg | Four-Justice noncontrolling portion. |
+| IV-B: more rigorous review of suppression unrelated to consumer protection | Stevens, Ginsburg | Three-Justice noncontrolling portion. |
+| IV-C: broader Posadas treatment | Stevens, Thomas, Ginsburg | Four-Justice noncontrolling portion. |
+| V-A: reversal of both speech judgments | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Unanimous judgment. |
+| V-B: implementing remand preserving the district declaration | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Court remedial disposition, eight; Stone-Zsela would additionally direct an injunction. |
+
+O'Connor concurs in part and in the judgment, joined by Breyer. Scalia and Thomas each concur in part and in the judgment separately. Stone-Zsela concurs in the constitutional judgment and the specified Court portions, but dissents from the remedy insofar as it omits his injunction directive. Their exact grounds and refusals are stated below. No majority adopts IV-A–C or Thomas's categorical rule. The direct Court coalitions require no Marks synthesis.
+
+## Holdings
+
+### I. This record does not establish material advancement of temperance by the price-information ban
+
+**Controlling proposition:** Even under ordinary Central Hudson review and treating temperance as substantial, Rhode Island has not demonstrated that these truthful-price restrictions directly and materially reduce consumption. This conclusion addresses the actual record and restriction, not every possible effect of advertising, price or demand.
+
+**Authority:** Kennedy's Part I, joined by Stone-Zsela, Stevens, Souter and Ginsburg: five. Stevens affirmatively adopts this conditional sufficient ground without accepting consumer ignorance as a legitimate objective or ordinary scrutiny as the complete account.
+
+**Controlling explanation:** The First Amendment protects the lawful, nonmisleading information at issue. Central Hudson requires material advancement, not merely an important interest and a plausible causal possibility. Saffer's theory supplies a real argument: suppressing comparison raises search costs and price dispersion, higher average prices tend to discourage purchases, and opposing experts acknowledged price responsiveness and a theoretically reasonable prediction. Their concessions cannot be omitted.
+
+They nevertheless do not establish the necessary effect of this restriction on this record. The District Court credited contrary testimony and found no significant consumption effect. Saffer's international research concerned general advertising bans, with acknowledged control problems, rather than this price-information rule. The record lacked estimates connecting the projected Rhode Island price change to consumption, and market-share or profit gains could occur without greater total consumption. Smart's acknowledgment of the mechanism accompanied his criticism of its missing data; Pittman's theoretical concession likewise did not erase his contrary conclusion.
+
+The Court separately assesses constitutional sufficiency while respecting the evidentiary character of findings and concessions. It neither decides credibility by counting experts nor treats the First Circuit's economic inference as a new trial finding. Supported prediction remains permissible; no state-specific numerical study, experimental certainty or universal study design is required. Here the whole showing fails the material-advancement requirement. The plaintiffs' expected private profits and the difficulty of measuring advertising effects do not discharge the State's burden.
+
+**Precedent treatment:** Edenfield, Ibanez, Lanphere and Rubin require support responsive to the actual restriction. Edge's record-specific meaningful-reduction holding remains intact. Florida Bar's invalidation confirms scrutiny of the particular showing without prohibiting every predictive judgment.
+
+### II. The complete price-information restraint independently lacks reasonable fit
+
+**Controlling proposition:** Even assuming material advancement, suppressing the challenged category of truthful retail-price information is disproportionate to the asserted temperance objective on this record. Concrete direct price and tax alternatives expose the inadequately justified fit without becoming mandatory replacements or imposing a least-restrictive-means rule.
+
+**Authority:** Kennedy's Part II, joined by Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer: seven. O'Connor and Breyer assume advancement without deciding it; Souter independently adopts both failures; Stevens's fit application is conditional and independently sufficient.
+
+**Controlling explanation:** Fox requires a reasonable proportional relationship between the speech burden and the regulatory end. Rhode Island seeks to affect the amount purchased through the price consumers pay, yet withholds accurate comparison information continuously. Saffer's own acknowledgment that minimum prices or higher taxes could serve the consumption objective supplies a concrete comparison with measures addressing price directly.
+
+The State need not select the least restrictive conceivable policy or exhaust every alternative. But it must justify this substantial informational burden in light of practical alternatives. Its interstate-shopping objection does not show why its own indirect price-raising mechanism avoids the same leakage or why the blanket speech burden is proportionate. Midcal and 324 Liquor identify defects in particular price arrangements, not the illegality of every state-imposed price measure. The Court neither designs a replacement nor adjudicates an antitrust dispute.
+
+Permitting nonprice promotion and the specific merchandise and trade-journal exceptions does not by itself defeat or establish fit. Price information may have a distinct competitive effect, and incremental regulation is not automatically invalid. The decisive problem remains the unexplained breadth of suppressing accurate prices to reach an objective directly addressed by the identified controls. Calling the price category complete retains those exact exceptions; it does not describe a ban on all alcohol speech.
+
+This ground suffices even taking the predicted consumption effect seriously. It creates no new heightened tier, universal alternatives checklist or all-sources-at-once requirement. Those who separately favor broader protection do not turn this conditional application into assent by the whole coalition to that broader theory.
+
+**Precedent treatment:** Fox's reasonable-fit standard is applied; Discovery Network and Rubin supply responsive comparison without requiring the least restrictive means. Subsequent searching Central Hudson review prevents treating Posadas as automatic authorization for this restraint; the broader proposed repudiation in IV-C is separately noncontrolling.
+
+### III-A. The Twenty-first Amendment supplies no added presumption validating this restraint
+
+**Controlling proposition:** Rhode Island's alcohol-control authority supplies no additional presumption relaxing First Amendment protection for these off-premises truthful-price prohibitions. Authority over alcohol sales does not itself establish the validity of suppressing accurate information about lawful sales.
+
+**Authority:** Kennedy's Part III-A, joined by all eight other participating Justices: nine. This common proposition does not attribute Central Hudson balancing to Thomas or either sufficient balancing ground to Scalia.
+
+**Controlling explanation:** Section 2 of the Twenty-first Amendment addresses transportation and importation for delivery or use contrary to state law. It creates no express commercial-speech exception. LaRue and Bellanca involved regulation of conduct on licensed premises; those holdings do not decide this restraint on accurate off-premises information. The State's power to regulate the underlying product cannot alone carry its distinct First Amendment burden. Nor are constitutional speech rights surrendered simply by accepting a liquor license. The challenged bans fail without an added alcohol-based presumption; the Justices supporting the broader conclusion in III-B state that separate ground expressly.
+
+**Precedent treatment:** LaRue and Bellanca's conduct holdings are preserved. The narrower distinction here commands nine votes independently of the broader treatment below.
+
+### III-B. The Twenty-first Amendment does not qualify freedom of speech; LaRue's contrary rationale is disavowed
+
+**Controlling proposition:** The Twenty-first Amendment does not qualify the First Amendment's protection of speech. LaRue's reliance on the Twenty-first Amendment to enhance deference is disavowed, while its holding remains supported by ordinary police powers over the conduct at issue.
+
+**Authority:** Kennedy's Part III-B, joined by Stevens, Scalia, Souter, Thomas and Ginsburg: six. Stone-Zsela, O'Connor and Breyer do not join this broader treatment.
+
+**Controlling explanation:** Constitutional authority over the traffic in alcohol is not authority to diminish a separate constitutional freedom. Giving a liquor-related restriction an extra speech presumption would permit the subject regulated to displace the protection owed to the means of expression. LaRue's result does not require that step: its licensed-premises conduct regulation can rest on the State's police powers. Removing the Twenty-first Amendment rationale therefore neither reverses that conduct holding nor invalidates Bellanca. The rule concerns the interaction with freedom of speech, not the validity of every direct alcohol restriction.
+
+**Precedent treatment:** LaRue's identified rationale is expressly disavowed; its holding and Bellanca's conduct result remain undisturbed. This six-Justice treatment is broader than the case-specific distinction supported by the other three.
+
+### V-B. The completed record supports an implementing remand preserving the constitutional declaration
+
+**Controlling proposition:** Reversal of the operative First Circuit judgment requires implementation of the district court's constitutional declaration against the challenged price-information prohibitions. No new merits trial is required on any adopted sufficient ground. The Court does not issue an additional injunction directive.
+
+**Authority:** Kennedy's Part V-B, joined by Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer: eight. Stone-Zsela separately would direct prospective injunctive relief.
+
+**Controlling explanation:** The case was tried and the challenged provisions declared unconstitutional. The appellate reversal rested on legal treatment that cannot sustain these restrictions under the grounds adopted here. An implementing remand preserves the declaration rather than reopening resolved record development. It does not convert the paid fine or unappealed administrative order into a refund dispute, reach the waived Commerce Clause claim or require a substitute alcohol-control program. Stone-Zsela agrees with reversal but regards an express prospective injunction as necessary relief; that additional direction does not command the remedial majority.
+
+## Precedent Treatment
+
+Central Hudson and Fox remain operative. The Court's advancement and fit grounds are independently supported at their exact levels, and no majority creates a higher tier or Thomas's categorical rule. Discovery Network, Edenfield, Ibanez, Lanphere and Rubin retain their restriction-specific burdens and limits. Florida Bar invalidates its finite waiting period on its record. Edge retains its narrower, record-specific holding sustaining the border-broadcast restriction, not an automatic vice or federalism exception.
+
+LaRue's Twenty-first Amendment rationale is disavowed by six Justices, with its conduct holding and Bellanca preserved. The broader attack on Posadas's informational paternalism, greater-power syllogism and lawful-vice exception has four votes in IV-C; it is not a wholesale Court overruling. The controlling fit application denies automatic Posadas authorization here under subsequent developed scrutiny.
+
+Queensgate's summary dismissal is a merits disposition. Mandel confines its force to the issues necessarily decided; it does not adopt every explanation below or require that comparable liquor-price restrictions invariably survive later developed advancement-and-fit doctrine. This plenary decision applies that doctrine to the established trial record without deciding every other application of Queensgate or relying on an unestablished factual distinction.
+
+Bigelow reinforces protection of Peoples' lawful information in Stevens's analysis, but no separate interstate-information immunity is adopted. The waived Commerce Clause claim remains outside review.
+
+## Law After Decision
+
+The challenged restrictions in §§3-8-7, 3-8-8.1 and Regulation 32 cannot constitutionally suppress the truthful price information presented by either plaintiff. Five Justices find inadequate material advancement; seven independently find unreasonable fit. Six adopt the broader Twenty-first Amendment/LaRue treatment, while all nine reject an added presumption for this restraint. Each coalition supplies its own authority.
+
+The decision leaves ordinary Central Hudson/Fox scrutiny in place. Noncontrolling special-care, heightened-review, broader Posadas and categorical anti-ignorance theories do not replace it. No mandatory numerical study, least-restrictive-means standard, universal simultaneous-regulation rule or independent out-of-state advertising immunity follows. False or misleading speech and unlawful promotions retain their separate governing law, and direct alcohol controls are not invalidated. The Court's implementing remand preserves the declaration; the separate requested injunction is not part of its mandate.
+
+## Separate Writings
+
+**Kennedy's noncontrolling Parts IV-A–C.** In IV-A, joined by Stevens, Souter and Ginsburg, he emphasizes the consumer's interest in accurate commercial information and the special care appropriate when the State suppresses the entire relevant category to influence lawful purchases. That view is distinct from a rule invalidating every such restriction categorically. In IV-B, joined by Stevens and Ginsburg, he would apply more rigorous review to complete truthful-speech suppression unrelated to protecting consumers from deception or comparable injury. It is not announced as universal strict scrutiny for commercial speech. These Justices also adopt the narrower independently sufficient applications in I and II; Stevens's informational objection is not reduced to insufficient evidence alone.
+
+In IV-C, joined by Stevens, Thomas and Ginsburg, Kennedy rejects Posadas's highly deferential permission to choose informational suppression for paternalistic ends, the inference that power to prohibit a product necessarily includes power to suppress truthful promotion, and a freestanding lawful-vice exception. This does not repudiate every Posadas holding. Thomas's join in this treatment does not add a balancing vote, and Souter does not join it. None of these portions commands five votes.
+
+**O'Connor, concurring in part and in the judgment, joined by Breyer.** They join II, III-A and V-A–B. Ordinary Central Hudson/Fox review suffices, with temperance substantial and advancement assumed. Economic prediction and expert concessions deserve genuine weight; they do not decide that the State necessarily fails the advancement prong. The permanent burden on all covered truthful price references nevertheless lacks proportional fit in light of concrete direct controls. Their prior support for supported prophylaxis and finite privacy restrictions does not validate this different burden. They require neither definitive empirical proof nor selection of the least restrictive policy. They distinguish LaRue's licensed-premises conduct and apply subsequent searching doctrine rather than join III-B or IV-C. No new tier, categorical anti-paternalism ground or interstate rule is necessary. Souter joins Part II's independent fit ground, but does not join this separate writing or withdraw his affirmative advancement holding.
+
+**Scalia, concurring in part and in the judgment.** He joins III-A–B and V-A–B. Existing commercial-speech jurisprudence supports invalidation, but he does not expressly join either the advancement or fit analysis and declines to develop or reinforce the doctrine through a new test here. His doubts about Central Hudson and distaste for governmental paternalism do not themselves supply a replacement constitutional rule. The available historical-practice account is inadequate for that change in this case. He nevertheless joins the broader Twenty-first Amendment treatment and preservation of LaRue's conduct holding, but not the broader Posadas passage. His agreement with the result is not another vote for either sufficient balancing ground.
+
+**Thomas, concurring in part and in the judgment.** He joins III-A–B, IV-C and V-A–B, and independently regards the asserted interest in keeping lawful purchasers ignorant in order to manipulate their choices as per se illegitimate. Successful informational suppression would not cure that defect. He does not join Central Hudson balancing, an assumption legitimizing that informational objective, a failure-of-proof rationale or the Fox holding. His rule does not decide whether balancing remains appropriate for materially different interests. It reaches Peoples' presented lawful-sale information as well as 44 Liquormart's speech, while leaving unresolved its relationship to Edge when the forum State has prohibited or regulated the underlying domestic transaction. His broader Posadas and Twenty-first Amendment positions do not overrule Edge by implication. His agreement with the implementing remand rests on his categorical ground and does not adopt the Court's balancing analyses.
+
+**Stone-Zsela, concurring in the constitutional judgment and specified Court portions, and dissenting in part as to remedy.** He joins I, II, III-A and V-A. Ordinary Central Hudson review resolves the case: temperance is substantial, the actual proof does not demonstrate material alleviation, and direct controls reveal inadequate fit. He endorses neither a heightened tier nor a categorical anti-paternalism rule. He does not join the broader LaRue or Posadas treatment. He would expressly enjoin enforcement of the challenged ban against truthful, nonmisleading retail-price advertising, rather than stop at the declaration-preserving remand, and therefore does not join V-B. His injunction would preserve otherwise lawful direct regulation of alcohol sales, prices, taxes, hours and unlawful promotions. False, misleading and transaction-integral advertising remain subject to applicable regulation; his position creates no general immunity for alcohol marketing.
+
+## Procedure After Action
+
+The case returns for implementation of the district court's constitutional declaration following reversal of the October 24, 1994 appellate judgment. No new evidentiary trial or additional prospective-injunction directive is ordered by the Court. The administrative fine, unappealed administrative decision and waived commerce claim remain outside the relief. Ordinary mandate procedures apply, with no special issuance date or further Supreme Court proceeding prescribed.
+
+## Source Notes
+
+The [filed record and briefs in No. 94-1140](https://archive.org/details/micro_IA40385013_0576) supply the operative provisions and proceedings: petition appendix 1–16 contains the First Circuit opinion and orders; 17–50 the district opinion and statutory addendum; Joint Appendix 46–48 the stipulation; 67–85 the selected trial and expert material. The district decision is 829 F. Supp. 543; the operative appeal is [39 F.3d 5](https://openjurist.org/39/f3d/5). The [official case report, 517 U.S. 484](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-484.pdf), corroborates the event and reported record.
+
+Saffer's mechanism, Smart's and Pittman's concessions, and the district court's contrary finding retain their distinct evidentiary character. The plaintiffs' expected profits are beliefs, not findings of total consumption. The Moreland report was excluded below; later Waterson and Hacker–Stuart materials have disputed record status and are not adopted as trial findings. No protectionist-pretext finding or forfeiture of every temperance formulation is established.
+
+## May 13, 1996 completed public authority — Noland
+
+Exact public text from [the bounded public source](../entering-law/PUBLIC_United_States_v_Noland_merits_1996-05-13.md).
+
+## Event
+
+United States v. Noland, 517 U.S. 535, No. 95-323. Argued March 25, 1996; decided May 13, 1996; October Term 1995. On certiorari under 28 U.S.C. §1254(1) to the Sixth Circuit, which affirmed subordination of the Government's tax penalties in In re First Truck Lines, Inc., 48 F.3d 210 (1995). The question concerns the legal sufficiency of the equitable grounds actually used to subordinate these administrative claims.
+
+First Truck commenced Chapter 11 on April 10, 1986, failed to pay postpetition FICA and FUTA taxes, and converted to Chapter 7 on August 1, 1988. The IRS penalties were allowed as administrative expenses under §503(b)(1)(C), but subordinated beneath general unsecured claims. Taxes and interest retained administrative priority; the estate could not pay all creditors. No Government misconduct was found. The Sixth Circuit expressly disclaimed automatic subordination of every tax penalty and required equitable consideration, while relying on the penalties' noncompensatory character, the losses of creditors who supplied value, insufficient assets and retained priority for tax and interest.
+
+Section 503(b), after notice and a hearing and excluding claims allowed under §502(f), allows the specified administrative expenses. Section 503(b)(1)(B) covers a tax incurred by the estate, except a tax of the kind specified in case-era §507(a)(7), and taxes attributable to an excessive tentative carryback adjustment the estate received, whether the relevant tax year ended before or after commencement. Subparagraph (C) covers fines, penalties and reductions in credit relating to those taxes. Case-era §507(a)(1) gives first priority to allowed §503(b) administrative expenses and any fees and charges assessed against the estate under chapter 123 of title 28. Their allowance is distinct from possible subordination.
+
+Section 510(c) provides:
+
+> Notwithstanding subsections (a) and (b) of this section, after notice and a hearing, the court may— (1) under principles of equitable subordination, subordinate for purposes of distribution all or part of an allowed claim to all or part of another allowed claim or all or part of an allowed interest to all or part of another allowed interest; or (2) order that any lien securing such a subordinated claim be transferred to the estate.
+
+## Participation
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision. No Justice is recused or otherwise nonparticipating.
+
+## Public Action
+
+The Sixth Circuit's judgment sustaining subordination on the stated grounds is reversed, and the case is remanded.
+
+## Judgment & Remedy
+
+**Judgment:** Reversed and remanded, 9–0. **Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The subordinate ranking cannot remain justified by the same class-based reasons relabeled as individual balancing. The receiving courts must treat the Government's claim under the Code while preserving equitable subordination on a lawful, supported claim-specific ground. The Court does not find such another ground, require a misconduct hearing or reopen every factual issue; any further consideration depends on the actual record and ordinary preservation.
+
+No final distribution or payment amount is ordered. The Court neither disallows the penalty nor alters tax and interest priority, transfers a lien or determines another claim's rights.
+
+## Opinion Topology
+
+Justice Thomas delivers the Opinion of the Court, Parts I–II, joined in full by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer. All nine directly adopt both controlling propositions, their explanations and the bounded remand. No partial join, judgment-only agreement or separate writing is present.
+
+## Holdings
+
+### I. Administrative priority and equitable subordination retain distinct statutory functions
+
+**Controlling proposition:** These allowed §503(b)(1)(C) postpetition tax penalties retain case-era §507(a)(1) administrative priority after conversion because §348(d)'s ordinary treatment of post-order, preconversion claims expressly excepts §503(b) claims. They nevertheless remain susceptible to §510(c)'s authorized equitable subordination: §726 makes distribution subject to §510, and priority status alone supplies no immunity from that power.
+
+**Authority:** Part I of Thomas's unanimous Opinion of the Court; all nine Justices identified in Opinion Topology join.
+
+**Controlling explanation:** Section 726(a)(1) ordinarily distributes estate property first to claims of the kinds and in the order specified in §507. Section 726(a)(4) separately assigns fourth rank to an allowed secured or unsecured claim for a fine, penalty, forfeiture, or multiple, exemplary or punitive damages arising before the earlier of the order for relief or appointment of a trustee, and only to the extent it does not compensate actual pecuniary loss. That temporal qualification prevents treating every noncompensatory penalty as a fourth-rank claim. These postpetition administrative expenses retain their different statutory treatment; conversion does not erase it.
+
+But §726 expressly excepts the operation of §510. Section 510(c) permits, after notice and a hearing, distributional subordination of all or part of an allowed claim or interest within its stated claim-to-claim or interest-to-interest terms, and transfer of a lien securing a subordinated claim. The Court cannot preserve priority by deleting that express authority. No agreement under §510(a), securities ground under §510(b) or lien-transfer basis is established here.
+
+Susceptibility is only the first question. The exercise must rest on principles of equitable subordination, rather than an unrestricted judicial preference. Ahlers requires equity within the Code, although its reorganization holding did not decide §510(c). The priority provisions and express exception can both operate; their coexistence establishes no conflicting congressional choices requiring a new class ranking. No priority immunity or frozen catalogue of equitable principles follows.
+
+### II. The stated reasons impermissibly replace Congress's priority choice
+
+**Controlling proposition:** Section 510(c) does not authorize subordination of this statutory class merely because its penalties compensate no pecuniary loss and payment would reduce recovery by creditors who supplied value. The lower courts' stated reasons are legally insufficient despite their express refusal to announce automatic subordination of every penalty; lawful claim-specific equity remains available, but no other sufficient ground is established by this decision.
+
+**Authority:** Part II of the same unanimous Opinion of the Court.
+
+**Controlling explanation:** The Sixth Circuit said every tax penalty need not be subordinated and called for equitable consideration. The Court accepts that description of its announced approach, but examines the reasons actually supporting this result. Noncompensatory character, insufficient assets, the losses of value-giving creditors and preserved tax-and-interest priority recur whenever this penalty class competes with compensatory claims in an insolvent estate. They express a general preference for compensation over the very penalties Congress included among administrative expenses. Describing those reasons as balancing does not supply a different equitable circumstance.
+
+The trustee correctly relies on §726's opening exception and §510(c)'s broad allowed-claim language. Legislative statements about penalty claims and continued equitable development likewise support susceptibility; they do not enact a replacement ranking. The express grant remains meaningful when applied on a lawful claim-specific ground. Ahlers's Code-confines principle preserves that distinction rather than abolishing statutory equity. The statutory method reflected in Things Remembered gives compatible provisions independent operation; its separate equitable-remand question does not determine this distribution power.
+
+The Government's broader argument would require misconduct in every equitable-subordination case. Taylor v. Standard Gas, Pepper and Comstock establish misconduct-based applications, but this case needs no universal answer. The Court neither declares misconduct indispensable nor adjudicates a no-misconduct entitlement. Nor does it freeze permissible judicial development at 1978. Particular inequitable conduct or another recognized claim-specific ground remains addressable when its lawful predicates are proved.
+
+Simonson applied a former statutory penalty prohibition and supplies no current §510(c) ranking. Boteler and Nicholas preserve distinct treatment of postpetition penalties and their compliance function. Innocent-creditor and financing concerns cannot alone displace the enacted order or bypass separate financing conditions. Reversal corrects the legal inadequacy of the stated grounds without changing historical findings or directing final distribution.
+
+## Precedent Treatment
+
+- Norwest Bank Worthington v. Ahlers, 485 U.S. 197: applies the requirement that equity operate within the Code; its §1129 holding is not treated as an independent construction of §510(c) or prohibition of all equitable relief.
+- Taylor v. Standard Gas & Electric Co., 306 U.S. 307: preserves its misconduct-based equitable application without establishing a universal misconduct prerequisite.
+- Pepper v. Litton, 308 U.S. 295: preserves its response to creditor misconduct; no necessary condition for every subordination case is inferred.
+- Comstock v. Group of Institutional Investors, 335 U.S. 211: retains its treatment of the creditor relationship without resolving every possible no-misconduct application.
+- Simonson v. Granquist, 369 U.S. 38: distinguishes its former statutory penalty prohibition from present allowance, priority and equitable subordination.
+- Boteler v. Ingels, 308 U.S. 57: preserves the distinct treatment and compliance function of postpetition penalties without deciding this §510(c) question.
+- Nicholas v. United States, 384 U.S. 678: preserves the relevant postpetition distinction and compliance function; it supplies no independent subordination rule here.
+- Things Remembered, Inc. v. Petrarca, December 5, 1995: applies the method of giving compatible statutory provisions separate effect. Its remand-review holding and noncontrolling additional equitable-remand theory do not authorize a new distribution rank.
+
+No precedent is overruled. The Court adds the present limit on class-based subordination without eliminating statutory equity, establishing new elements for every permissible application or deciding universal misconduct necessity.
+
+## Law After Decision
+
+Effective May 13, 1996, a court may not use §510(c) to replace Congress's priority treatment of these postpetition administrative tax penalties with a general preference for compensatory creditors. The stated balancing grounds fail for that reason; the decision does not rest on a finding that the lower court expressly ordered every penalty subordinated.
+
+The §726(a)(4) temporal and noncompensation qualifications, §348(d)'s administrative-claim exception, and §510(c)'s real distributional authority all remain effective. Priority claims are not categorically immune. Whether misconduct must always precede subordination remains open; no affirmative entitlement to relief without misconduct, mandatory new test or independently sufficient alternative ground is announced. Any lawful further application requires its own supported predicates and proper procedural presentation.
+
+## Separate Writings
+
+All nine Justices join the Court's opinion. No separate opinion is filed.
+
+## Procedure After Action
+
+The case returns through the Sixth Circuit for proceedings consistent with the statutory limitation. The rejected reasons cannot sustain the subordinate ranking under another label. Further consideration of any genuinely available equitable ground remains subject to the record and ordinary preservation; no factual reopening, misconduct hearing, lien transfer or distribution schedule is mandated. Supreme Court merits review is complete, with ordinary mandate procedures and no prescribed later Supreme Court event.
+
+## Source Notes
+
+The [filed petition and merits submissions in No. 95-323](https://archive.org/details/micro_IA40385013_0646) supply the lower record and opposing arguments. Petition Appendix A, 1a–22a, reproduces the Sixth Circuit opinion and concurrence; 19a–20a gives the reasons and express disclaimer. Appendices D–E reproduce the district and bankruptcy decisions. Appendix F, 56a–58a, supplies the case-era statutory text, including the quoted §510(c); official Title 11 texts corroborate the enacted provisions. The later change from §507(a)(7) to §507(a)(8) does not alter this case's claim treatment.
+
+The disputed claims are allowed administrative penalties; no Government misconduct finding or separately sufficient alternative equitable ground is supplied. No final distribution is established. The April 26 addition of §523(a)(17), concerning discharge of court filing fees and associated filing costs or expenses, does not change the tax-penalty priority question presented here.
+
+## May 13, 1996 completed public authority — Brown Group
+
+Exact public text from [the bounded public source](../entering-law/PUBLIC_United_Food_and_Commercial_Workers_Union_Local_751_v_Brown_Group_Inc_merits_1996-05-13.md).
+
+## Event
+
+United Food & Commercial Workers Union Local 751 v. Brown Group, Inc., No. 95-340. Argued February 20, 1996; decided May 13, 1996. October Term 1995. On review under 28 U.S.C. §1254(1) of the Eighth Circuit's judgment, 50 F.3d 1426, affirming a standing dismissal without prejudice.
+
+Brown Shoe's January 17, 1992 letter to an International union employee announced closure of its Dixon, Missouri plant and displacement of 277 workers beginning March 20. Local 751 alleges that notice should have gone to the Local and that layoffs began immediately. It sued June 16 as the employees' certified exclusive representative for WARN back pay, benefits and fees. Its representative status is undisputed. The complaint's material allegations are accepted as true and construed favorably at this dismissal stage; no statutory violation, employee eligibility or amount has been tried.
+
+The court below found the first two Hunt conditions satisfied but held that individual participation needed for damages made the representative action constitutionally impermissible. It separately rejected a direct-union-injury theory and upheld denial of postjudgment amendment. The petition presents representative standing, including Hunt's third condition; it does not present the amendment ruling.
+
+## Participation
+
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision. No Justice is recused or otherwise nonparticipating.
+
+## Public Action
+
+The Eighth Circuit's judgment on representational standing is reversed, and the case is remanded, 9–0.
+
+## Judgment & Remedy
+
+**Supporting:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The union's WARN claim may proceed under the correct standing rule. The decision removes the categorical individual-participation ground for the dismissal without prejudice. It does not award back pay, benefits or fees, find a WARN violation, decide any employee's eligibility, or authorize an injunction against the closing. Statutory coverage, individual defenses and legally applicable procedures remain for further proceedings.
+
+The direct organizational-injury theory is not decided. The unpetitioned postjudgment amendment ruling remains untouched, and no new declaratory claim is added. The notice-to-International issue, alleged early layoffs and statutory notice exceptions are unresolved merits questions.
+
+## Opinion Topology
+
+Justice Souter delivers the Opinion of the Court, Parts I and II, joined throughout by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer. All nine adopt both controlling propositions and their explanations. No partial join, judgment-only concurrence or separate writing is filed.
+
+## Holdings
+
+### I. WARN authorizes the exclusive representative to enforce employees' monetary claims
+
+**Controlling proposition:** Section 2104(a)(5), read with WARN's representative definition and employee-liability provisions, authorizes the exclusive representative to pursue the represented employees' back-pay and benefit liability. The representative enforces the employees' entitlement without becoming the beneficiary of their recovery. The clause supplies enforcement authority as well as venue.
+
+**Authority:** Part I of Justice Souter's Opinion of the Court, joined by all nine participating Justices identified in Opinion Topology.
+
+**Controlling explanation:** Section 2101(a)(4) defines the representative as an exclusive employee representative under the specified labor statutes. Section 2102 gives that representative a notice function. Section 2104(a)(1) makes a violating employer liable to aggrieved employees suffering employment loss; paragraph (5) expressly includes a representative among persons who may enforce that liability for others. Reading these provisions together gives effect to both Congress's chosen enforcer and its chosen beneficiary.
+
+Respondent argues that the requirement of being aggrieved restricts every listed plaintiff to someone personally entitled to payment, leaving the representative reference as obsolete language in a venue provision. But that reading deprives the expressly retained representative language of its natural function. A representative's enforcement of an employee's liability is not an award of damages to the union. The deletion of an earlier proposed union-specific remedy does not erase the enacted authority to enforce the workers' recovery.
+
+The statute therefore authorizes the action actually pleaded, rather than a general implied cause of action. Its reference to employee liability does not permit the union to collect a local government's distinct penalty. Nor does naming a representative conclusively resolve Article III or the lawful handling of individual claims. Part II addresses the asserted constitutional obstacle while retaining the statute's limitations on who may recover and what may be awarded.
+
+**Precedent treatment:** Warth and Brock did not decide this express congressional authorization of a representative damages action. Varity and Meghrig preserve the distinction between enforcement authority and additional remedies; applying that distinction does not import their different statutory relief into WARN.
+
+### II. Congress has displaced Hunt's prudential individual-participation condition here without displacing Article III
+
+**Controlling proposition:** Hunt's third requirement—that neither the claim nor the requested relief require individual-member participation—is prudential. Congress may displace it and has done so through WARN's express representative authorization. The represented employees must still have concrete injury fairly traceable to the challenged conduct and likely redressable by the requested relief, supported as the litigation stage requires. Individual proof is not made unnecessary; its potential necessity no longer categorically bars this authorized action.
+
+**Authority:** Part II of the same unanimous Opinion of the Court.
+
+**Controlling explanation:** Hunt ordinarily requires members with standing, interests germane to the organization's purpose, and a claim and remedy not requiring individual participation. The first condition secures an actual controversy through injured represented persons. The third addresses the practical suitability of representative litigation, including questions arising when individual entitlements must be determined. Those concerns do not become Article III requirements merely because the requested relief is monetary.
+
+Warth's damages discussion and Brock's reservation of later individual determinations provide the strongest contrary argument: individualized recovery can raise serious proof, adequacy and binding-effect problems. But neither decision considered Congress's express authorization here. Representative standing already separates the named organization from the persons whose concrete interests are at stake. Congress can remove the prudential participation restriction without authorizing adjudication of an abstract grievance or dispensing with independent constitutional protections.
+
+On the accepted allegations and undisputed representative status, affected workers suffered the employment losses and deficient notice for which the statute provides their monetary remedy; germaneness is also satisfied. These pleading conclusions establish no trial-level violation or amount. Different dates, wages and medical expenses may require individual evidence. That evidence may be handled under applicable law without treating its necessity alone as a constitutional bar.
+
+Germaneness for standing does not automatically establish adequate representation for binding absent persons. Adequacy is not disputed on this record, and the Court orders no new adequacy proceeding, class certification, joinder arrangement or jury procedure. Applicable protections and defenses remain. The independent organizational-injury theory is unnecessary to this sufficient representative ground.
+
+**Precedent treatment:** Hunt's third condition is identified as prudential and displaced by this statute; Hunt's first condition and Lujan's constitutional minimum survive. Northeastern Florida's application of Hunt did not decide this congressional-displacement question. Matsushita's protection of adequate representation concerns lawful binding and supplies no categorical bar to this authorized suit.
+
+## Precedent Treatment
+
+Warth, Hunt and Brock retain their representative-standing principles and their original limits. The Court does not treat earlier approval of common legal challenges as already deciding representative recovery of individual damages. WARN's express authorization supplies that further ground. Lujan's concrete injury, causation, redressability and stage-appropriate proof requirements remain unchanged.
+
+Northeastern Florida remains effective on associational standing and pleading-stage support; it did not establish that every Hunt condition is constitutional. Rowland's statutory treatment of association applications is not an Article III holding. Varity and Meghrig preserve statutory enforcement and remedy boundaries, and Matsushita's actual representation protections remain distinct from permission to commence this action. No precedent is overruled.
+
+## Law After Decision
+
+WARN's exclusive representative may enforce employees' monetary claims despite the need for individual participation. Congress has displaced Hunt's third condition for that action, not the constitutional core. Without clear congressional authorization, the third condition remains operative. The Court leaves open whether a sufficiently simplified damages claim could satisfy it without abrogation. It also leaves open whether Hunt's second, germaneness condition is prudential and subject to congressional displacement; germaneness is satisfied here without deciding that classification.
+
+The authorization enlarges no WARN remedy. Section 2104(a)(1) retains back pay for each violation day at not less than the higher of the employee's prior three-year average regular rate and final regular rate, plus covered employee-plan benefits, including medical expenses that would have been covered absent the employment loss. Liability lasts no more than 60 days and no more than half the employee's employment days. An aggrieved employee must have failed to receive timely statutory notice directly or through the representative.
+
+Paragraph (2) requires reductions for wages paid for the violation period, voluntary unconditional payments not required by legal obligation, and employer payments to third parties or trustees on the employee's behalf attributable to that period. Defined-benefit liability may also be reduced by service credit for all plan purposes during that period. Paragraph (4) permits discretionary reduction when the employer proves good faith and reasonable grounds for believing its conduct lawful. Prevailing-party fees remain discretionary under paragraph (6).
+
+The separate local-government penalty remains at most $500 per violation day and does not apply if the employer pays each aggrieved employee the amount owed within three weeks after ordering the shutdown or layoff. The union receives no right to that penalty. Section 2104(b) makes the statutory remedies exclusive and withholds authority under WARN to enjoin a plant closing or mass layoff. None of those amounts, predicates, reductions or exceptions is adjudicated here.
+
+Actual individual proof, legally applicable joinder or certification, representation, duplicate recovery, binding effect and any properly presented jury question remain governed by their own law. No assignment, payroll-only proof rule or universal need for employee testimony is established. The remand prescribes no additional mandatory procedural framework.
+
+## Separate Writings
+
+All participating Justices join the Court's two Parts. No separate opinion is filed.
+
+## Procedure After Action
+
+The case returns for further proceedings on the WARN claim consistent with the standing ruling. The categorical standing dismissal is reversed; merits, employee entitlements and applicable procedural issues remain to be resolved as presented. The unpetitioned amendment ruling is not reopened. Ordinary mandate procedures apply, with no special issuance date, payment deadline or later Supreme Court proceeding prescribed.
+
+## Source Notes
+
+The [1994 United States Code, title 29, §§2101, 2102 and 2104](https://www.govinfo.gov/content/pkg/USCODE-1994-title29/html/USCODE-1994-title29.htm) supplies the definitions, notice provisions, employee liability, enforcement authorization and remedy limits. Section 2101(a)(4) identifies exclusive representation under 29 U.S.C. §159(a) or §158(f), or 45 U.S.C. §152. Section 2104(a)(5) permits a person enforcing the specified liability, including the employee representative or qualifying local government, to sue for that person, others similarly situated, or both, in a federal district where the violation is alleged or the employer transacts business.
+
+The [filed petition, appendix, joint appendix and briefs in No. 95-340](https://archive.org/details/micro_IA40385013_0648) supply the complaint, notice, undisputed status and lower proceedings. Petition 14–20 and reply 18–19 n.15 establish presentation of the associational ground; the United States brief 8–9 n.8 identifies the unpetitioned amendment ruling. The reply's payroll and medical-claimant proposals are arguments, not findings that individual proof is unnecessary. The lower opinion is 50 F.3d 1426. The [official case report, 517 U.S. 544](https://www.govinfo.gov/content/pkg/USREPORTS-517/pdf/USREPORTS-517-544.pdf), corroborates the event and reported record. Alleged deficient notice and early layoffs remain allegations, and no employee-specific recovery has been determined.
+
+The May 13 decisions share the common April 29 entering-law baseline; none supplies intervening law for a peer. Romer, BMW, Henderson and Casarotto share the common May 13 entering-law baseline for May 20, including across the chunk boundary. Their outcomes remain undecided.
