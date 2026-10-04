@@ -1,0 +1,887 @@
+Doyle J. WILLIAMS, Petitioner, v. Bill ARMONTROUT, Respondent.
+
+
+[PARA b984-11] No. 86-0883-CV-W-9.
+
+
+[PARA b984-12] United States District Court, W.D. Missouri, W.D.
+
+
+[PARA b984-14] Feb. 9, 1988.
+
+
+
+
+
+[PARA b989-9]
+       [PRINTED PAGE 921] *921ORDER DENYING PETITIONER’S REQUEST FOR A WRIT OF HABEAS CORPUS
+
+
+[PARA b989-10] BARTLETT, District Judge.
+
+
+[PARA b989-11] Petitioner Doyle J. Williams (“Williams”) was convicted of the capital murder of Kerry Brummett and sentenced to death in the Circuit Court of Clay County, Missouri, on November 13, 1981.1 On July 21, 1986, Williams filed pro se a “Petition for Writ of Habeas Corpus by a Person in State Custody.” Petitioner seeks a new trial or a discharge from his conviction. Petitioner moved for appointment of an attorney and a stay of execution. On August 4, 1986, Charles German was appointed to represent Williams. A stay of execution was entered on September 12, 1986.
+
+
+[PARA b989-14] On September 17, 1986, the State responded to the order to show cause. Petitioner through his attorney filed his traverse on November 24, 1986.
+
+
+[PARA b989-15] In addition to the claims presented by Williams in his petition and developed in the traverse prepared by counsel, Williams raised the following claims in his pro se petition filed on July 21, 1986:
+
+    [A] Movant’s conviction was obtained in violation of the 5th and 14th Amendments of the United States Constitution when:
+    4. The trial Court failed and refused to instruct the jury as to consideration/weight the jury should give a drug addict’s testimony, to-wit: that the jury should take the testimony of an admitted drug addict’s testimony [sic] with caution and care.
+    6. The trial Court failed and refused to advise Movant that Movant had a Constitutional right to proceed Pro Se.
+    7. The Trial Court failed and refused to advise Movant that Movant had the right to testify and that if Movant decided to testify, that the jury could/should be instructed that Mov-ant’s past criminal convictions could not be considered as evidence of Mov-ant’s guilt in the crime charged.
+    8. The trial Court failed and refused to construe Missouri statute RSMo. 565.001 strickly [sic] against the State and liberally in favor of the Movant, in that when the evidence is viewed in the light most favorabl[e] to the State, said statute has not been violated.
+    9. The trial Court failed and refused to discharge Movant due to the fact that said Court lacked jurisdiction of Movant due to the State transporting illegally from the State of Missouri into the State of Illinois and then back to the State of Missouri before the trial but after the State of Missouri had  [PRINTED PAGE 922] *922taken temporary custody from the Federal Government under the Agreement on Interstate Detainers.
+
+[PARA b990-4] On September 17, 1986, the State responded to these claims in its response to the order to show cause. However Williams did not provide any legal or factual support of the claims in his traverse or in briefs filed on November 24, 1986, January 9, 1987, and June 22, 1987. Therefore, I assume that petitioner has abandoned these claims.
+
+
+[PARA b990-5] On February 19, 1987, oral argument was held on Williams’ petition; no evidence was received. On June 22, 1987, petitioner filed supplemental suggestions in response to arguments made by the State at the February 19, 1987, hearing. Additional authorities were provided by Williams and his counsel by letters dated September 23, 1987, November 12, 1987, December 1, 1987, December 2, 1987, December 17, 1987, and January 13, 1988.
+
+
+[PARA b990-6] I. BACKGROUND
+
+
+[PARA b990-7] In April 1980, Williams and John Morgan burglarized the medical offices of Dr. A.H. Domann in Auxvasse, Missouri, taking, among other things, blank prescription pads. Thereafter, Williams and Morgan went to Morgan’s trailer home. In the presence of Brummett, Williams and Morgan discussed ways to use the prescription pads. Brummett saw the prescription pads with Dr. Domann’s name on them. Later the same day, Williams was arrested while attempting to pass forged prescriptions in a Columbia drug store. Faced with the charge of attempting to obtain a controlled substance by fraud, Williams told Morgan that he could avoid conviction if Dr. Do-mann did not testify that he had not signed the prescriptions.
+
+
+[PARA b990-8] On October 7, 1980, Williams told Morgan that he had killed Domann. Williams suggested to Morgan that Brummett should be killed for testifying for the State against Morgan and to prevent him testifying against Williams about the burglary of Domann’s office. Pursuant to a plan developed by Morgan, Betty Coleman (one of Williams’ girlfriends) and Williams, Coleman arranged a date with Brummett and drove him to a deserted area in Callaway County adjacent to the Missouri River. Williams and Morgan emerged from concealment and dragged Brummett from the automobile. Williams beat Brummett on the head with the barrel of his .357 Magnum. Using a pair of handcuffs Williams had borrowed from an Auxvasse police officer, Williams and Morgan bound Brum-mett’s hands behind his back and forced him into the trunk of the automobile Coleman had driven. Williams and Morgan took Brummett to another location near the Missouri River. After Brummett was removed from the trunk, Williams resumed beating him. Brummett ran toward the river while being pursued by Williams. Still handcuffed, Brummett ran into the river. When Brummett surfaced the second time, Williams ordered Morgan to shoot him. Morgan fired over Brummett’s head. Williams waded into the river to retrieve the handcuffs but Brummett had disappeared. Several days later, his body was found on a sandbar. The cause of Brummett’s death was drowning. His scalp had been lacerated by a blunt instrument.
+
+
+[PARA b990-10] Brummett's gold chain, traces of blood, hairs from Brummett’s head and a pack of Brummett’s cigarettes were found in the car used to transport Brummett. Brum-mett’s glasses and his plastic name tag were found at the place where Brummett was placed in the trunk.
+
+
+[PARA b990-11] On September 17, 1981, a jury found Williams guilty of capital murder and later that day recommended the death penalty. The aggravating circumstance designated by the jury was that Brummett was murdered for the purpose of preventing his testimony in a judicial proceeding. § 565.012.2(12) R.S.Mo. (repealed by L.1983, p. 923, S.B. No. 276, § 1, 1984).
+
+
+[PARA b990-12] II. DISCUSSION
+
+
+[PARA b990-13] A. Williams was not denied due process and equal protection of the law when the trial court refused to instruct on first degree murder (felony murder)
+
+
+
+[PARA b990-14] Williams argues that he was denied due process and equal protection because  [PRINTED PAGE 923] *923the trial judge refused to instruct on felony murder and the Missouri Supreme Court applied different law to Williams’ case than to other similar cases.
+
+
+[PARA b991-5] At trial, the jury was instructed on capital murder (the offense charged) and on the lesser included offenses of second degree murder and manslaughter. Respondent’s Exhibit A-3 at 93-95. Williams’ counsel and the State offered an instruction on first degree murder, i.e., killing committed while perpetrating or attempting to perpetrate kidnapping. R.S.Mo. § 565.003 (repealed by L.1983, p. 922, S.B. No. 276, § 1). Respondent’s Exhibit A-2 at 610-13; Respondent’s Exhibit A-3 at 112. The trial judge refused to give a first degree murder instruction because it was not supported by the evidence. Respondent’s Exhibit A-2 at 611-16, 754-56.
+
+    The Court did that because the Court does not feel that there is evidence sufficient to submit on the felony murder theory. The reasoning behind that is that in this case the only evidence that I remember in this case is that the defendant, together with one John Morgan, set about with an intent and design to cause the death of the deceased in this case, Kerry Brummett.
+    The plan was, that is the evidence indicates, if the jury believes it, that they set about to have the aid and assistance of a female, Betty Coleman. And with the eventual intent being that the deceased would be killed and his body thrown in the Missouri River.
+    The Court feels that the kidnapping that took place later on in the evening was merely one link in the chain of events that had been planned by the defendant and John Morgan in committing the offense of murder.
+    Now, what I’m saying, I’m talking about what the evidence shows. I’m not saying that’s my belief. That’s what the evidence in the case would tend to show if believed by the jury.
+    Now, the Court feels that there is no evidence to the contrary. And the Court feels that there is no independent collateral felony to draw upon to create the crime of felony murder. And that if any, the kidnapping, would just be one of the circumstances planned by the two conspirators to cause the death of Kerry Brummett.
+
+[PARA b991-12] Respondent’s Exhibit A-2 at 613-14.
+
+
+[PARA b991-13] Later, in denying Williams’ motion for judgment of acquittal or for a new trial, the trial judge amplified his reason for refusing to give the first degree murder instruction:
+
+    As I mentioned before, I have reviewed the motion before. And I have given further thought to the allegations of err number 1 regarding the court failing to instruct the jury on the lesser included offense of capital murder.
+    And after further consideration the court came to the same conclusion that I arrived at previously in the case. And that is that there may have been a kidnapping, but the court feels that, again, that was just, as I said before, a link in the chain of the murder in this case.
+    And if there was a kidnapping, the murder was not committed in the course of the commission of the crime of kidnapping. But, on the other hand, the crime of kidnapping was committed in the course of committing the crime of murder. Therefore, the court feels rather strongly that this is not a proper case of felony murder in the State of Missouri or common law or under the law of any state that I know.
+    There is no separate underlying felony during the course of which the crime of murder was committed. And, therefore, the court must decline the acceptance of that allegation at this time.
+
+[PARA ASl] Respondent’s Exhibit A-2 at 754-55.
+
+
+[PARA b991-18] In Sumner v. Mata, 449 U.S. 539, 540, 101 S.Ct. 764, 765, 66 L.Ed.2d 722 (1981), the Supreme Court held that 28 U.S.C. § 2254(d) “requires deference by federal courts to factual determinations of all state courts.” However, a federal court is not barred from reviewing on collateral attack “a mixed determination of law and fact that requires the application of legal principles to the historical facts of this case.” Cuyler v. Sullivan, 446 U.S. 335, 342, 100  [PRINTED PAGE 924] *924S.Ct. 1708, 1715, 64 L.Ed.2d 333 (1980); see also Eldridge v. Atkins, 665 F.2d 228, 236 n. 5 (8th Cir.1981), cert. denied, 456 U.S. 910, 102 S.Ct. 1760, 72 L.Ed.2d 168 (1982). “Therefore, the presumption of correctness accorded the factual determinations of the state court under 28 U.S.C. § 2254(d), ... applies only to the historical facts.” Kellogg v. Scurr, 741 F.2d 1099, 1101 (8th Cir.1984).
+
+
+[PARA b992-4] Due process requires that every available lesser included offense instruction be given in a capital murder case. Beck v. Alabama, 447 U.S. 625, 100 S.Ct. 2382, 65 L.Ed.2d 392 (1980). However, “due process requires that a lesser included offense instruction be given only when the evidence warrants an instruction.” Hopper v. Evans, 456 U.S. 605, 611, 102 S.Ct. 2049, 2053, 72 L.Ed.2d 367 (1982) (emphasis in original).
+
+
+[PARA b992-5] Thus, whether there was sufficient evidence to support an instruction on first degree murder is subject to review by this court on petitioner’s collateral attack of his conviction.
+
+
+[PARA b992-6] Whether the evidence presented at trial was insufficient to support a first degree murder instruction is a conclusion of law. Zemina v. Solem, 438 F.Supp. 455, 467-68 (D.S.D.1977), aff'd 573 F.2d 1027 (8th Cir.1978); Means v. Solem, 480 F.Supp. 128, 135-46 (D.S.D.1979), aff'd, 646 F.2d 322 (8th Cir.1980).
+
+
+[PARA b992-7] At the time of Williams’ trial, first degree murder in Missouri resembled common law felony murder. R.S.Mo. § 565.003 (repealed by L.1983, p. 922, S.B. No. 276, § 1) defined first degree murder as follows:
+
+    Any person who unlawfully kills another human being without a premeditated intent to cause the death of a particular individual is guilty of the offense of first degree murder if the killing was committed in the perpetration of or in the attempt to perpetrate arson, rape, robbery, burglary, or kidnapping.
+
+[PARA b992-9] Petitioner argues that there was evidence from which the jury could have reasonably inferred that the victim’s death was not premeditated and that the death occurred in the course of a felonious kidnapping.
+
+
+[PARA b992-11] Missouri defines kidnapping as follows:
+
+    1. A person commits the crime of kidnapping if he unlawfully removes another without his consent from the place where he is found or unlawfully confines another without his consent for a substantial period, for the purpose of
+    (1) Holding that person for ransom or reward, or for any other act to be performed or not performed for the return or release of that person; or
+    (2) Using the person as a shield or as a hostage; or
+    (3) Interfering with the performance of any governmental or political function; or
+    (4) Facilitating the commission of any felony or flight thereafter; or
+    (5) Inflicting physical injury on or terrorizing the victim or another.
+    2. Kidnapping is a class A felony unless committed under subdivision (4) or (5) of subsection 1 in which case it is a class B felony.
+
+[PARA b992-19] R.S.Mo. § 565.110.
+
+
+[PARA b992-20] Under the law at the time of his trial, Williams would have been entitled to an instruction on first degree murder if there was evidence from which the jury could have concluded reasonably that each of the essential elements of the first degree murder statute were met. However, there was no evidence from which a jury could have concluded that Williams acted “without a premeditated intent to cause the death of a particular individual” as required by R.S.Mo. § 665.003. The theory of the defense was that Williams was not present and did not participate in the killing.
+
+
+[PARA b992-21] Further, overwhelming evidence of premeditation was presented. For example, after admitting to John Morgan that he had killed Dr. Domann, Williams told Morgan on October 8 that “the same thing ought to happen to him [Brummett] that happened to Dr. Domann.” Respondent’s Exhibit A-l at 278. Williams told Morgan on October 9 to "have Nina Potts ... call Roger  [PRINTED PAGE 925] *925Hazlett and have his pistol brought up.” Id. at 276. Morgan testified that sometime after 9:00 p.m. on the 9th, Betty Coleman told him about her proposed “date” with Brummett, the purpose of which was to “get him out-of-town where me [Morgan] and Doyle could kill him.” Id. at 282. He further testified that during the trip to and from Brazito, he, Williams and Coleman agreed on the specific location where Coleman was to drive Brummett on the “date.” Id. at 284. Morgan testified that while at the trailer in Brazito, Williams changed clothes (id. at 286), found and cut a length of rope (id.) and looked for concrete blocks (id.). Williams offered no evidence to the contrary. “The evidence in this case not only supported the claim that [defendant] intended to kill the victim, but affirmatively negated any claim that he did not intend to kill the victim.” Hopper v. Evans, 456 U.S. 605, 613, 102 S.Ct. 2049, 2054, 72 L.Ed. 2d 367 (1982).
+
+
+[PARA b993-4] There was no evidence from which a reasonable jury could have concluded that one of the essential elements of first degree murder, i.e., lack of premeditation, was present. Accordingly, Williams was not deprived of due process when the trial judge refused to give a first degree murder instruction.
+
+
+[PARA b993-5] B. The trial court’s admission of evidence of other crimes and its failure to give a limiting instruction on use of such evidence did not violate Williams’ due process right under the Fourteenth Amendment.
+
+
+
+[PARA b993-6] In his petition Williams asserts that the trial court’s decision to admit evidence of other crimes and bad acts was so prejudicial as to amount to a denial of due process. Additionally, Williams argues that the error in admitting the evidence of other crimes was compounded by the trial judge’s failure to give an instruction that the jury could not consider the “other crime” evidence in determining defendant’s guilt.
+
+
+[PARA b993-7] The State contends that federal habeas corpus relief on this claim is barred because petitioner abandoned these claims in his appeal from his Rule 27.26 hearing and has thereby “deliberately bypassed” available state remedies. See Fay v. Noia, 372 U.S. 391, 83 S.Ct. 822, 9 L.Ed.2d 837 (1963). Petitioner responds that he properly presented this claim in his 27.26 appeal.
+
+
+[PARA b993-10] Although Williams was represented by counsel during his state court trial, his direct appeal and the hearing on his Rule 27.26 motion, he represented himself in the appeal from the trial court’s denial of his motion for post-conviction relief under Rule 27.26. Where an alleged procedural bypass is the result of the habeas corpus petitioner’s own decision, the standard enunciated in Fay v. Noia applies. Graham v. Mabry, 645 F.2d 603, 606 (8th Cir.1981). In Fay, the Supreme Court stated:
+
+    If a habeas applicant ... understandingly and knowingly forewent the privilege of seeking to vindicate his federal claims in the state courts, whether for strategic, tactical, or any other reasons that can fairly be described as the deliberate bypassing of state procedures, then it is open, to the federal court on habeas to deny him all relief if the state courts refused to entertain his federal claims on the merits.
+
+[PARA b993-11]
+      Fay, 372 U.S. at 439, 83 S.Ct. at 849.
+
+
+[PARA b993-12] Petitioner’s attorney on the direct appeal of his conviction raised the claim that the trial court erred in allowing admission of other crimes evidence. Respondent’s Exhibit B-l at 44-49. However, the federal constitutional issues implicated by the claim were not presented to the state court. Petitioner claimed in his “First Pro Se Amended Petition” for relief under Rule 27.26 that the trial court’s failure to instruct the jury on the limited use of other crime evidence and the trial court’s admission of other crime evidence violated his due process right under the Fourteenth Amendment. Respondent’s Exhibit F-3 at 112. (Williams also raised these claims as examples of ineffective assistance of counsel. Respondent’s Exhibit F-3 at 109.) After the trial court denied these claims, petitioner appealed to the Missouri Court of Appeals. In his pro se brief on appeal, petitioner raised both claims as part of his claim of ineffective assistance of counsel at  [PRINTED PAGE 926] *926his trial. Respondent’s Exhibit G-l at 21-23, 46. In its response, the State cautioned:
+
+    To the extent that some of the appellant’s numerous claims in his Rule 27.26 motions have been abandoned on this appeal, respondent notes that such claims have been “deliberately bypassed” under Fay v. Noia, 372 U.S. 391, 83 S.Ct. 822, 9 F.2d 837 (1963) and, if this appeal is affirmed, cannot be raised in any subsequent federal habeas corpus proceeding.
+
+[PARA b994-5] Respondent’s Exhibit H at 4, n. 3.
+
+
+[PARA b994-6] In his reply brief, Williams did not attempt to clarify the claim that he was asserting except to state in a footnote:
+
+    [A]ppellant hereby gives notice to this court and respondent, that failure of appellant to include in this appeal any point of error pleaded to the circuit court should not be considered abandoned, and appellant hereby moves this court to take judicial notice of the points presented to the circuit court and to rule upon the merits of each.
+
+[PARA b994-7] Respondent’s Exhibit G-2 at 10.
+
+
+[PARA b994-8] Williams argues that this reference presented the due process issue to the Missouri courts. The State responds that the presentation of a particular complaint as a basis for ineffective assistance of counsel does not fairly present to the state court the substantive contention itself, citing this Court’s earlier consideration of a writ of habeas corpus filed by petitioner. Williams v. Wyrick, No. 83-0915-CV-W-9, slip op. at 6 (W.D.Mo. Mar. 2, 1984) (citing Picard v. Connor, 404 U.S. 270, 92 S.Ct. 509, 30 L.Ed.2d 438 (1971)). Therefore, the State contends that by failing to present on appeal the substantive constitutional claim regarding the other crime evidence and the failure to give a limiting instruction, petitioner has deliberately bypassed available state review procedures.
+
+
+[PARA b994-9] After reviewing petitioner’s briefs on appeal from the denial of his Rule 27.26 motion, (including the incorporated portion from the brief on direct appeal) and giving his briefs the benefit of liberal construction afforded pro se litigants, Arnold v. Wyrick, 646 F.2d 1225, 1227 n. 7 (8th Cir.1981), I conclude that petitioner did not “fairly present” to the Missouri Court of Appeals the claims that federal due process was violated by admission of other crimes evidence or by the trial judge’s failure to give a limiting instruction. Williams’ reply complained to the Missouri Court of Appeals that these two alleged errors were examples of his failure to receive effective assistance of counsel. For instance, in the brief on appeal from the denial of his Rule 27.26 motion, reference is made to these two alleged errors by the trial judge under the following heading:
+
+    Argument, Point Relied Upon, -A-
+    The trial court erred in it’s [sic] findings that movant’s rights to due process and equal protection of the law and to effective assistance of counsel as protected by the 5th, 6th, and 14th amendments to the United States Constitution and Article (1), Section (10), and (18a) of the Missouri Constitution, in that movant was denied effective assistance of counsel for at least the following reasons:
+
+[PARA AMn] Respondent’s Exhibit G-l at 20.
+
+
+[PARA b994-12] In two subsections under this heading, Williams complained about “(1) Counsel’s failure to request the jury to be fully and correctly instructed, ... Subsection -B-: Evidence of other crimes” and “(5) Failure to properly object to the admission of evidence of other crimes movant was allegedly involved in.” Id. at 20, 21, 46.
+
+
+[PARA b994-13] The Court of Appeals reasonably considered these alleged errors only as examples of how Williams was allegedly denied effective assistance of counsel. Therefore, the manner in which Williams advanced these issues on appeal failed to “provide the state courts with a ‘fair opportunity’ to apply controlling legal principles to the facts bearing upon his constitutional claim.” Anderson v. Harless, 459 U.S. 4, 6, 103 S.Ct. 276, 277, 74 L.Ed.2d 3 (1982). See Martin v. Solem, 801 F.2d 324, 330 (8th Cir.1986).
+
+
+[PARA b994-14] Petitioner may be barred from federal relief on these claims if his failure to raise them in his Rule 27.26 appeal was a  [PRINTED PAGE 927] *927deliberate bypass of state procedures. Under Missouri law, by not including claims made in a 27.26 motion in the brief on appeal, the movant abandons them. See Herron v. State, 498 S.W.2d 530, 531 (Mo.1973) and Daly v. State, 639 S.W.2d 211, 212 n. 1 (Mo.App.1982). Although petitioner represented himself in appealing the denial of his Rule 27.26 motion, he is fully familiar with (if not an “expert” in) Missouri post conviction, appellate and federal habeas corpus procedures as demonstrated by the numerous pleadings filed by him and on his behalf in this and other cases. Also, petitioner filed numerous pleadings in the Rule 27.26 proceeding including two or three “addendums” to his first amended petition for relief and various discovery motions. Williams knows how to present a claim.
+
+
+[PARA b995-3] Furthermore, Williams knew about the alleged errors in admitting other crimes evidence and in failing to give a limiting instruction. In fact, he knew that these alleged errors could be presented as violations of his due process rights because he did so in his “First Pro Se Amended Petition” filed with the trial court on April 17, 1984. Accordingly, petitioner was aware of these particular claims and he has not presented good cause for his failure to raise them on appeal. See Wayne v. White, 735 F.2d 324, 325 (8th Cir.1984). In light of his wealth of experience in and familiarity with appellate and post conviction procedures, the presentation of these claims to the Rule 27.26 court and the warning by the State that failure to raise a claim on appeal precludes federal review, I conclude that petitioner made a voluntary and reasoned decision not to present these claims in his Rule 27.26 appeal. Therefore, petitioner deliberately bypassed available and effective state procedures and cannot present these claims in this case.
+
+
+[PARA b995-4] Even if petitioner had not deliberately bypassed state procedures, these two claims are without merit.
+
+
+[PARA b995-5] Admissibility of evidence is a matter of state law and does not usually form the basis of habeas corpus relief unless the error is so great that it is a denial of due process. Maggitt v. Wyrick, 533 F.2d 383, 385-86 (8th Cir.), cert. denied, 429 U.S. 898, 97 S.Ct. 264, 50 L.Ed.2d 183 (1976); see also Ruff v. Wyrick, 709 F.2d 1219, 1220 (8th Cir.1983). Under Missouri law, evidence of other crimes is admissible “where it tends to establish motive, intent, the absence of mistake or accident, a common scheme or plan embracing the commission of two or more crimes so related that proof of one tends to establish the other, or the identity of the person charged with the commission of the crime on trial.” State v. Trimble, 638 S.W.2d 726, 732 (Mo. banc 1982); see also State v. Shaw, 636 S.W.2d 667, 671-72 (Mo. banc), cert. denied, 459 U.S. 928, 103 S.Ct. 239, 74 L.Ed.2d 188 (1982). Rule 404(b), Federal Rules of Evidence, is similar. Therefore, the “predicate” for successfully asserting that Williams was denied a fair trial because of the admission of other crimes evidence “is a showing of gross or conspicuous prejudice.” Britton v. Rogers, 631 F.2d 572, 575 (8th Cir.1980), cert. denied, 451 U.S. 939, 101 S.Ct. 2021, 68 L.Ed.2d 327 (1981).
+
+
+[PARA b995-8] The trial court admitted evidence that petitioner and witness John Morgan burglarized Dr. Domann’s office; that petitioner attempted to obtain controlled substances with forged prescription pads taken in the burglary; and that petitioner admitted murdering Dr. Domann. The trial judge properly admitted this evidence because it was relevant to establishing a motive for the murder of Brummett. According to Morgan’s testimony, Brummett was present when petitioner and Morgan discussed the robbery and how to use the stolen prescription blanks to obtain drugs. Morgan testified that Williams said that “the same thing ought to happen to [Brum-mett] that happened to Dr. Domann.”
+
+
+[PARA b995-9] The evidence of these other crimes or bad acts was not tenuously connected with the killing of Brummett but rather was highly relevant to establishing motive and plan. Williams has failed to demonstrate that the admission of the evidence for these legitimate purposes was grossly prejudicial. Therefore, his right to a fair trial was not violated.
+
+
+[PARA b996-2]
+       [PRINTED PAGE 928] *928Petitioner contends that the trial court’s failure to instruct the jury as to the limited purposes for which they could consider the other crimes evidence “effectively invited the jury to convict Williams based on acts for which he was not then on trial.” This failure, petitioner argues, denied him a fair trial in violation of his due process rights under the Fourteenth Amendment.
+
+
+[PARA b996-3] Williams could have requested an instruction that the jury should not consider evidence that the defendant committed other crimes in determining guilt but only for such purpose as motive, intent, identity or his credibility as a witness. MAI-CR2d 3.60. At trial, petitioner’s counsel chose not to request such an instruction. Petitioner has failed to carry his burden of demonstrating that the failure by the trial court to sua sponte give a limiting instruction on the other crimes evidence so “infected the entire trial that the resulting conviction violates due process.” Cupp v. Naughten, 414 U.S. 141, 147, 94 S.Ct. 396, 400, 38 L.Ed.2d 368 (1973); see also Williams v. Lockhart, 736 F.2d 1264, 1267 (8th Cir.1984).2
+
+
+
+[PARA b996-4] C. The trial court did not lower the required legal standard for capital murder in the jury instructions and there was sufficient evidence from which a reasonable jury could have found Williams guilty of capital murder
+
+
+
+[PARA b996-5] Petitioner contends that 1) the jury instruction on capital murder stated a lower standard of proof than required by state law; and 2) even if the instruction was consistent with state law, there was insufficient evidence to support the jury’s verdict.
+
+
+[PARA b996-6] “Capital murder” at the time of petitioner’s trial was defined as follows: “Any person who unlawfully, willfully, knowingly, deliberately and with premeditation kills or causes the killing of another human being is guilty of the offense of capital murder.” R.S.Mo. § 666.001. The jury was instructed in part that they were to determine whether Williams “caused the death of Kerry Brummett by beating him and drowning him.” Respondent’s Exhibit A-3 at 93. Petitioner contends that “caused the death” is a lesser standard than “kills or causes the killing.”
+
+
+[PARA b996-9] Generally, jury instructions do not present a basis for habeas corpus relief. Williams v. Lockhart, 736 F.2d 1264, 1267 (8th Cir.1984). “However, when the petitioner establishes that an improper instruction results in ‘a fundamental defect which inherently results in a complete miscarriage of justice [or] an omission inconsistent with the rudamentary demands of fair procedure,’ habeas corpus relief is avail-able_” Brouillette v. Wood, 636 F.2d 215, 218 (8th Cir.1980), cert. denied, 450 U.S. 1044, 101 S.Ct. 1766, 68 L.Ed.2d 243 (1981). quoting Hill v. United States, 368 U.S. 424, 428, 82 S.Ct. 468, 471, 7 L.Ed.2d 417 (1962).
+
+
+[PARA b996-11] “Caused the death” is used in Missouri’s recommended instruction on capital murder, MAI-CR.2d 15.02. In State v. Williams, 652 S.W.2d 102, 115 (Mo. banc 1983), the Missouri Supreme Court concluded that “[t]he submitted instruction comported] with the requirements of § 565.001 and did not misdirect the jury.” The difference in meaning between “caused the death” and “caused the killing” is not a fundamental defect that inherently resulted in a complete miscarriage of justice.
+
+
+[PARA b996-12] Petitioner also argues that a rational jury could not have concluded beyond a reasonable doubt that Williams caused the death of Brummett “by beating him and drowning him” because the only evidence on the cause of Brummett’s death was that he died by drowning.
+
+
+[PARA b996-13] The standard for evaluating a claim that the evidence was insufficient is set forth in Jackson v. Virginia, 443 U.S. 307, 99 S.Ct. 2781, 61 L.Ed.2d 560 (1979), reh. denied, 444 U.S. 890, 100 S.Ct. 195, 62 L.Ed.2d 126 (1979).
+
+    [T]he relevant question is whether, after viewing the evidence in the light most  [PRINTED PAGE 929] *929favorable to the prosecution, any rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt.
+    We hold that in a challenge to a state criminal conviction brought under 28 U.S.C. § 2254 — if the settled procedural prerequisites for such a claim have otherwise been satisfied — the applicant is entitled to habeas corpus relief if it is found that upon the record evidence adduced at the trial no rational trier of fact could have found proof of guilt beyond a reasonable doubt.
+
+[PARA b997-4]
+      Id. 443 U.S. at 319, 324, 99 S.Ct. at 2789, 2791-92 (footnote omitted) (emphasis in original).
+
+
+[PARA b997-5] In applying the standard, if the record supports conflicting inferences this Court “must presume — even if it does not affirmatively appear in the record — that the trier of fact resolved any such conflicts in favor of the prosecution, and must defer to that resolution.” Id. 443 U.S. at 326, 99 S.Ct. at 2793.
+
+
+[PARA b997-6] The judgment of a state appellate court rejecting a challenge to evidentiary sufficiency is entitled to great weight if the state court invokes the proper standard. Lenza v. Wyrick, 665 F.2d 804, 812 (8th Cir.1981). However, this Court must still determine whether the state conviction was secured in accord with federal constitutional law. Jackson, 443 U.S. at 323, 99 S.Ct. at 2791.
+
+
+[PARA b997-7] Considering all of the evidence in the light most favorable to the prosecution, a rational jury could reasonably have concluded that petitioner “caused the death of Brummett by beating him and drowning him....” For instance, Morgan testified that Williams hit Brummett on the head with his gun and then chased the handcuffed Brummett into the river. Respondent’s Exhibit A-l at 290, 293-95. The medical examiner testified that Brummett’s scalp had been lacerated “due to a blunt impact injury.” Respondent’s Exhibit A-l at 230-31, 238, 240. Therefore, petitioner is not entitled to habeas relief on his insufficiency of the evidence claim.
+
+
+[PARA b997-10] D. The State Did Not Violate Williams’ Due Process Rights by the Knomng Use of False Testimony and by Failing to Disclose Evidence Favorable to the Defense
+
+
+
+[PARA b997-11] Williams asserts that the prosecution knowingly used false testimony during his trial and failed to disclose evidence favorable to his defense. Williams argues that this prosecutorial misconduct violated his due process rights under the Fourteenth Amendment.
+
+
+[PARA b997-12] Relying on Gardner v. Florida, 430 U.S. 349, 97 S.Ct. 1197, 51 L.Ed.2d 393 (1977) and Booth v. Maryland, — U.S. -, 107 S.Ct. 2529, 96 L.Ed.2d 440 (1987), Williams contends that “capital cases require application of a higher standard for evaluating prosecutorial misconduct.” However, both Gardner and Booth focused on the sentencing phase of capital murder trials. In Gardner, confidential information was presented to the sentencing judge that was not disclosed to the defendant. The Supreme Court found that the defendant had been denied due process when the death sentence was imposed on the basis of information which he had no opportunity to deny or explain. Gardner, 430 U.S. at 362, 97 S.Ct. at 1207. The Supreme Court in Booth concluded that the formal presentation of a victim impact statement containing “emotionally-charged opinions as to what conclusions the jury should draw from the evidence clearly is inconsistent with the reasoned decisionmaking we require in capital cases.” Booth, 107 S.Ct. at 2536 (footnote omitted).
+
+
+[PARA b997-15] In the instant case, petitioner is asserting errors during the trial, not during the sentencing process. Naturally, the trial must satisfy the requirements of the Due Process Clause. Gardner, 430 U.S. at 358, 97 S.Ct. at 1204. Williams has failed to establish that a higher standard governs habeas review of his trial. However, the seriousness of the crime charged and the sentence imposed assure petitioner that his claims  [PRINTED PAGE 930] *930will receive careful consideration and a reasoned decision.
+
+
+[PARA b998-4] “[T]he suppression by the prosecution of evidence favorable to an accused upon request violates due process where the evidence is material either to guilt or to punishment irrespective of the good faith or bad faith of the prosecution.” Brady v. Maryland, 373 U.S. 83, 87, 83 S.Ct. 1194, 1196-97, 10 L.Ed.2d 215 (1963). In order to establish a violation of Brady, an accused must show: “the suppression of evidence, the evidence’s favorable character to the accused, and the evidence’s materiality.” United States v. Smith, 538 F.2d 1332, 1334 (8th Cir.1976), citing, Moore v. Illinois, 408 U.S. 786, 794-95, 92 S.Ct. 2562, 2568, 33 L.Ed.2d 706 reh. denied, 409 U.S. 897, 93 S.Ct. 87, 34 L.Ed.2d 155 (1972); see also Reese v. Frey, 801 F.2d 348, 350-51 (8th Cir.1986).
+
+
+[PARA b998-5] In United States v. Bagley, 473 U.S. 667, 105 S.Ct. 3375, 3384, 87 L.Ed.2d 481 (1985), the materiality component of Brady was reformulated as follows: “The evidence is material only if there is a reasonable probability that, had the evidence been disclosed to the defense, the result of the proceeding would have been different. A ‘reasonable probability’ is a probability sufficient to undermine confidence in the outcome.”
+
+
+[PARA b998-6] Additionally, “[d]eliberate deception of a court and jurors by the presentation of known false evidence is incompatible with ‘rudimentary demands of justice.’” Giglio v. United States, 405 U.S. 150, 153, 92 S.Ct. 763, 766, 31 L.Ed.2d 104 (1972), citing, Mooney v. Holohan, 294 U.S. 103, 112, 55 S.Ct. 340, 342, 79 L.Ed. 791 (1935). “When the ‘reliability of a given witness may well be determinative of guilt or innocence,’ nondisclosure of evidence affecting credibility falls within [the Brady ] rule.” Id., quoting Napue v. Illinois, 360 U.S. 264, 269, 79 S.Ct. 1173, 1177, 3 L.Ed.2d 1217 (1959). The habeas corpus petitioner must establish that the false testimony was presented by the State and that the prosecutor knew that the testimony was false. Napue, 360 U.S. at 269, 79 S.Ct. at 1177. Further, the false testimony must have been material i.e., there must be “a reasonable probability” that if the false testimony had been disclosed to the defense, the result would have been different. Giglio, 405 U.S. at 154, 92 S.Ct. at 766; Bagley, 105 S.Ct. at 3384.
+
+
+[PARA b998-8] 1. Williams’ claims that the state failed to disclose the scope of Morgan’s immunity agreement and used false testimony about the immunity agreement
+
+
+
+[PARA b998-9] Petitioner contends that the State misled defendant’s counsel about the scope of John Morgan’s immunity agreement with the State and allowed Morgan to testify falsely about his immunity agreement.
+
+
+[PARA b998-10]
+      Procedural Default
+
+
+
+[PARA b998-11] Initially, the State argues that review of these claims is barred by Wainwright v. Sykes, 433 U.S. 72, 97 S.Ct. 2497, 53 L.Ed. 2d 594, reh. denied, 434 U.S. 880, 98 S.Ct. 241, 54 L.Ed.2d 163 (1977) because Williams failed to present these claims in accordance with state procedural rules.
+
+
+[PARA b998-12] Williams attempted to present these claims to the state trial court in a “Fourth Amended Petition under Rule 27.-26” offered on the last day of petitioner’s Rule 27.26 hearing after the evidence had been closed except for a couple of matters Williams had received permission to present. Respondent’s Exhibit F-3 at 72-74; Respondent’s Exhibit F-2 at 344-53. The state trial judge ruled that the new arguments raised in Williams’ fourth amended motion were based on facts that were fully known to him long before the Rule 27.26 action was filed. Therefore, the Court concluded that there was no good cause for the untimely amendment and Williams was denied leave to file the amended complaint pursuant to Missouri Supreme Court Rule 55.33(a). Respondent’s Exhibit F-2 at pp. 347-53. Williams did not challenge this ruling on appeal. The Missouri Court of Appeals refused to review petitioner’s claims that the State misled the defense regarding the Morgan immunity agreement and that the State allowed Morgan to testify falsely about the immunity agreement because they were  [PRINTED PAGE 931] *931not presented to the trial court in the 27.26 motion. Williams v. State, 712 S.W.2d 404, 411 (Mo.App.1986). Therefore, petitioner failed to properly raise these issues in state court.
+
+
+[PARA b999-4] Petitioner responds that he did present the claims to the state court even though the court refused to consider them. Further, petitioner argues that even if he has procedurally defaulted, he had sufficient cause for not presenting the claim earlier because he had ineffective assistance of counsel; there was interference by officials, and the factual and legal bases for his claim were not reasonably available earlier.
+
+
+[PARA b999-5] Because Williams was represented by counsel in presenting his Rule 27.26 motion to the trial court, he must show cause for not properly presenting these arguments to a state court and resulting prejudice in order to obtain habeas corpus review. Wainwright v. Sykes, 433 U.S. 72, 87, 97 S.Ct. 2497, 2506, 53 L.Ed.2d 594, reh. denied, 434 U.S. 880, 98 S.Ct. 241, 54 L.Ed.2d 163 (1977). “[T]he existence of cause for a procedural default must ordinarily turn on whether the prisoner can show that some objective factor external to the defense impeded counsel’s efforts to comply with the State’s procedural rule.” Murray v. Carrier, 477 U.S. 478, 106 S.Ct. 2639, 2646, 91 L.Ed.2d 397 (1986). An objective impediment would include a “showing that the factual or legal basis for a claim was not reasonably available to counsel ... or that ‘some interference by officials,’ made compliance impracticable.” Id. (citations omitted). Additionally, ineffective assistance of counsel constitutes cause for a procedural default. Murray, 106 S.Ct. at 2646. Generally, a claim for ineffective assistance of counsel resulting in a procedural default must be presented to the state court as an independent claim before it can be used to establish cause for a procedural default. Id. (citing Rose v. Lundy, 455 U.S. 509, 518, 102 S.Ct. 1198, 1203, 71 L.Ed.2d 379 (1982)).
+
+
+[PARA b999-6] Williams asserts that he did not know about the problems with the immunity agreement until the Rule 27.26 hearing in the Domann case when he learned that the prosecutor in Callaway County had not secured immunity agreements from the prosecutors in other counties where Morgan allegedly committed crimes. Prosecutor Garber testified at that hearing that she believed Morgan had immunity for a burglary in Cole County even though she knew the Callaway County prosecutor could not promise immunity for crimes committed in other counties. Garber believed that her predecessor in office had obtained an agreement from the Cole County prosecutor not to prosecute Morgan for the burglary.
+
+
+[PARA b999-9] The state trial judge in denying Williams’ request for post-conviction relief in the Domann case stated:
+
+    Movant makes accusations that state personnel performed acts of misconduct to his detriment. The first such alleged act is that prosecutors falsely promised mov-ant’s counsel that witness John Morgan had been granted immunity from prosecution for crimes which occurred outside Callaway County. The convoluted logic advanced by movant on this point cannot seriously be accepted. There was no statutory provision existing to grant a witness immunity from prosecution at or prior to the time movant was tried. It is the practice of prosecutors to form agreements among themselves concerning whether a person or persons might be prosecuted pending other activity in other counties, but the procedure is not formalized by statutory authority. Assuming for the purposes of movant’s argument that the prosecutor of Callaway County did in fact enter into an informal agreement with another prosecutor or prosecutors, there is no proscription against such conduct, and no authority prohibiting the same is advanced. Mov-ant makes a premise that in fact no immunity was granted; then he jumps to an assumption that the state “lied” about a “deal” it made with John Morgan “to testify falsely to a jury.” This is an assumption with not the slightest basis in fact.
+
+       [PRINTED PAGE 932] *932A prosecutor may offer assurances based upon that person’s statement that he or she will not prosecute an individual for a particular offense or offenses, and prosecutors may between or among themselves make representations that charges may or may not be filed against an individual, but there was not at the time of movant’s trial any formal procedure to grant immunity to John Morgan. Prosecutor Garber had no authority or capacity to guarantee that John Morgan would not be prosecuted outside of Calla-way County, although nothing precluded her from conversing with other prosecutors for the purpose of attempting to gain assurance that John Morgan would not be prosecuted in other counties, and she did in fact pursue those assurances. Movant attempts to set up a hypothesis based upon false premises. He charges that had his counsel known that John Morgan had no immunity, and had John Morgan known that he had no immunity, things would have transpired differently, and therefore, when such possibilities exist, he should have the benefit of pursuing those. The equation proposed can never balance, because it is based upon false assumptions. John Morgan was never entitled to a grant of immunity because that is beyond the limits of the prosecutor to grant.
+    The record does not disclose, in any event, that John Morgan was misled in any way by anyone as to his status under the law for exposure to prosecution.
+    Contrary to movant’s statements, there is no showing that the prosecutor in this case made false representations regarding immunity granted to John Morgan. Movant hypothesises that since there were false representations, speculation as to what might have happened should be resolved in his favor, as he sets up a number of scenarios about what might have happened if false representations had not been made. Neither the facts nor the law supports movant.
+    There was no statutory authorization for immunity when movant’s case was tried. His counsel did not have the right to expect that any witness had been granted immunity which was enforceable, and therefore counsel could not have been put to any disadvantage by the facts as they transpired in this case. There was no impropriety by the prosecutor. This point is meritless.
+
+[PARA b1000-7] Respondent’s Exhibit M, pp. 77-79.
+
+
+[PARA b1000-8] Section 2254(d) requires deference by federal courts to factual determinations of all state courts
+
+    unless one of seven conditions specifically set forth in § 2254(d) was found to exist by the federal habeas court. If none of those seven conditions were found to exist, or unless the habeas court concludes that the relevant state-court determination is not ‘fairly supported by the record,’ ‘the burden shall rest upon the applicant to establish by convincing evidence that the factual determination by the State court was erroneous.’ [Emphasis supplied.]
+
+[PARA b1000-10]
+      Sumner v. Mata, 449 U.S. 539, 547, 550, 101 S.Ct. 764, 769, 771, 66 L.Ed.2d 722 (1981) (footnote omitted).
+
+
+[PARA b1000-11] After examining the transcript of the state court proceedings in petitioner’s Rule 27.26 motion in the Domann case, I conclude that Williams has failed to show by convincing evidence that these factual conclusions were erroneous.
+
+
+[PARA b1000-12] Finally, petitioner has not asserted in any state proceeding that he received ineffective assistance of counsel because his attorney did not discover the scope of the state’s immunity agreement with Morgan. Therefore, ineffective assistance of counsel cannot be used to establish cause for petitioner’s procedural default in this proceeding. Murray, 106 S.Ct. at 2646.
+
+
+[PARA b1000-13] Accordingly, Williams has failed to establish cause for failing properly to present these claims to a state court.
+
+
+[PARA b1000-14] Even if Williams could show cause, he must also demonstrate actual prejudice. Murray, 106 S.Ct. at 2649.
+
+    The habeas petitioner must show ‘not merely that the errors at ... trial created a possibility of prejudice, but that they worked to his actual and substantial disadvantage, infecting his entire tri [PRINTED PAGE 933] *933al with error of constitutional dimensions.’ ... Such a showing of pervasive actual prejudice can hardly be thought to constitute anything other than a showing that the prisoner was denied ‘fundamental fairness’ at trial.
+
+[PARA b1001-4]
+      Id. (citation omitted).
+
+
+[PARA b1001-5] Williams has failed to establish that he was denied fundamental fairness at trial. See Respondent’s Exhibit M, pp. 77-79. As soon as Williams’ counsel learned about Morgan’s view of the immunity agreement, they had the factual and legal basis for any attack they desired to make. In fact, the more extensive the immunity agreement claimed by a witness, the better for the cross-examiner because the witness’s reward for testifying is greater. Therefore, defense counsel were better off with an overstated immunity agreement than they would have been had it been accurately presented.
+
+
+[PARA b1001-6] Furthermore, conjecture is that maybe Morgan would not have agreed to testify if he had known that he did not have immunity from all crimes he may have committed. A reading of Morgan’s testimony reveals that immunity for the Brummett murder was the determining factor in Morgan’s willingness to testify.
+
+
+[PARA b1001-7] 2. Williams’ claim that the State failed to disclose reports of interviews with Larry Pimer and Pamela Mealey
+
+
+
+[PARA b1001-8] a. Larry Pimer
+
+
+
+[PARA b1001-9] Williams contends that Larry Pir-ner, a night manager at the Mark Twain Restaurant, was interviewed by the police after Brummett’s disappearance but that police reports concerning witness Pirner were not disclosed to the defense. Pimer testified at petitioner’s Rule 27.26 hearing that he was interviewed by police and that he told them that Brummett did not leave the restaurant with Betty Coleman. Pir-ner’s testimony conflicted with the testimony of two witnesses who testified at trial that Betty Coleman and Kerry Brummett left the restaurant together the night of Brummett’s murder. Petitioner argues that it is not reasonable that the police would have interviewed the two waitresses and not Pirner, the night manager.
+
+
+[PARA b1001-12] The State responds that prosecutor Gar-ber testified during the Rule 27.26 hearing that she did not have in her files a report of an interview with Pirner and that she had not heard of Pimer until after the trial. Respondent’s Exhibit F-2 at 185-86, 191, 205-06.
+
+
+[PARA b1001-13] The State trial judge in denying petitioner’s Rule 27.26 motion concluded that Pir-ner’s testimony that he saw Brummett at the restaurant with a woman who was not Betty Coleman and that he made a report to that effect to the law enforcement authorities was not credible. Respondent’s Exhibit F-3 at 31. The state trial court also found that there was no credible evidence that “Pirner made any report to po-lice_” Respondent’s Exhibit F-3 at 39.
+
+
+[PARA b1001-14] The state court’s factual finding that there is no credible evidence that Pirner made any report to the police is fairly supported by the record. Petitioner has failed 1) to establish any of the seven reasons for disregarding state court factual findings or 2) to establish “by convincing evidence” that the state’s conclusion that a police report of Pimer’s statement does not exist is erroneous. Therefore, the state court’s factual finding is presumed correct. Sumner v. Mata, 449 U.S. at 550, 101 S.Ct. at 771. Accordingly, petitioner has failed to establish the first prong of the Brady test — that the state suppressed any evidence because the state cannot suppress evidence which it does not possess.
+
+
+[PARA b1001-15] However, even if petitioner established that the state withheld a report of an interview with Pirner and even if it were assumed that the report was favorable to the defendant, the report does not meet Brady’s materiality test. Pirner was an acquaintance of Betty Coleman, and a convicted felon. His testimony about what he saw was contradicted by the unimpeached testimony of two waitresses who worked at the same restaurant. There is no reasonable probability that had the Pirner report (assuming one existed) been disclosed to Williams the result of the trial would have  [PRINTED PAGE 934] *934been different. Therefore, Williams has not established a Brady violation.
+
+
+[PARA b1002-4] b. Pamela Mealey
+
+
+
+[PARA b1002-5] Arguments similar to those about Pirner are made about an alleged police report of an interview with Pamela Mealey, a customer at the Mark Twain Restaurant in the early morning hours of October 10, 1980. Mealey testified at the hearing on petitioner’s motion for a new trial that she told an unknown officer in the Callaway County sheriffs department that she saw Brum-mett leave the restaurant with a woman. Although she testified at the hearing that the woman Brummett left with was not Betty Coleman, she testified that she only told authorities that she did not know the woman. She testified that there was no reference to Betty Coleman in the discussion with the officer. Petitioner submitted in this case the affidavit of Charles G. Hyler, petitioner’s attorney at his trial and at the hearing on petitioner’s motion for a new trial, and the affidavit of Karl Madden, the attorney who represented Betty Coleman in her capital murder trial. Both attorneys state that at some time during their representation, Diane Garber furnished them with a list of people interviewed by the state and that Pamela Mea-ley’s name was on the list. During the hearing on the motion for a new trial, Hy-ler stated to the Court that he had not been told anything about Pamela Mealey prior to the hearing.
+
+
+[PARA b1002-6] At the hearing on the motion for new trial, Diane Garber, Callaway County prosecutor, stated that she thought she had a statement from Pamela Mealey but she was not absolutely sure. Further, she testified that if she had a statement it was for a witness the State did not intend to call and therefore the State was not required to supply the statement to the defense. Respondent’s Exhibit A-2 at 752-53. However, at the 27.26 hearing, more than two years later, Garber testified that after her testimony at the hearing on the new trial motion, she reviewed her records and found no reference to a Pamela Mealey although one of the photographs shown to certain witnesses was of a Lisa Mealey. Respondent’s Exhibit F-2 at 184-85. Garber had not heard of Pamela Mealey before trial. Id. at 210. Garber also testified that she did find the name “Pam Neely” mentioned in connection with a drug ring.3
+      Id. at 205, 210.
+
+
+[PARA b1002-10] The trial court after hearing Mealey’s testimony at the hearing on the motion for new trial concluded that the testimony was not credible. Respondent’s Exhibit A-2 at 756. The Supreme Court of Missouri affirmed this credibility finding. State v. Williams, 652 S.W.2d 102, 117 (en banc 1983). After the hearing on petitioner’s Rule 27.26 motion in the Brummett case, the trial judge concluded: “That, as ruled by the trial court, the testimony after trial of Pamela Mealey that she saw the victim at the Mark Twain Restaurant with a woman who was not Betty Coleman, and that she made a report to this effect to law enforcement authorities, is not credible.” Respondent’s Exhibit F-3 at 31. Further, the Court found that “there is no credible evidence that Mealey ... made any report to the police_” Id. at 39.
+
+
+[PARA b1002-11] Petitioner has failed to establish by convincing evidence that these state court findings were erroneous. Accordingly, these factual findings are presumed correct. Sumner v. Mata, 449 U.S. at 550, 101 S.Ct. at 771. The State cannot suppress evidence which it does not possess.
+
+
+[PARA b1002-12] Additionally, even if Williams had established that Mealey made a report to the Callaway County Sheriff, there is a serious question whether the report would have been favorable to Williams. Mealey testified that she did not tell the sheriff’s office that the woman she saw with Brummett was not Betty Coleman. She testified that she told the sheriff’s office that she did not recognize the woman. Respondent’s Exhibit A-2 at 719. Nevertheless, an argument can be made that had the statement been revealed, it might have been helpful to Williams. Mealey might have said that  [PRINTED PAGE 935] *935because she had met Coleman five or six times she would have recognized her if she had been the woman with Brummett.
+
+
+[PARA b1003-4] Assuming that the report existed and assuming that it was favorable to petitioner, information about the Mealey report (assuming it existed) does not meet the Brady materiality test. Mealey testified that she was a friend of Williams. Two unimpeached witnesses testified at trial that they saw Brummett leave with Betty Coleman. There is no reasonable probability that had the Mealey report been disclosed to Williams the result of the trial would have been different. See State v. Williams, 652 S.W.2d at 117. Therefore, Williams has not established a Brady violation.
+
+
+[PARA b1003-5] 3. Williams’ claim that the State failed to disclose Lepley deal
+
+
+
+[PARA b1003-6] Williams argues that the prosecution failed to disclose an agreement not to prosecute Audrey Lepley for receiving stolen property in exchange for Lepley’s testimony at petitioner’s trial. Even though the prosecutor testified at the Rule 27.26 hearing in the Brummett case that there was no immunity agreement with Lepley, Williams argues that Lepley may have believed that there was one and, therefore, the agreement should have been disclosed.
+
+
+[PARA b1003-7] The State responds that prosecutor Gar-ber testified that she made no immunity agreement with Lepley (Respondent’s Exhibit F-2 at 188-89, 203-05) and that Lep-ley also testified at the Rule 27.26 hearing that no agreement existed. Respondent’s Exhibit F-2 at 243, 246-47. The prosecutor also testified that before the trial:
+
+    when Mr. Hiler [sic] in the presence of Mr. Marshall asked me if there was a deal between the State and Kay Lepley. And I told him that I wasn’t sure if there was or not. But I thought that Kay was under the impression that she would not be charged for receiving stolen property if she testified truthfully to the State; and that he should ask Mr. Hamilton. And he subsequently took Mr. Hamilton’s deposition.
+
+[PARA b1003-11] Respondent’s Exhibit F-2 at 188-89.
+
+
+[PARA b1003-12] The state trial judge concluded after the Rule 27.26 hearing that Williams “failed to bear his burden of proof ... that Lepley received immunity from prosecution in another case in exchange for her testimo-ny_” Respondent’s Exhibit F-3 at 28.
+
+
+[PARA b1003-13] These factual findings are presumed correct because Williams has not established that one of the seven conditions set forth in § 2254(d) exists or that these findings are not fairly supported by the record or that these findings are erroneous. Lepley testified that she did not have an agreement that she would not be prosecuted for other crimes if she testified for the prosecution. Prosecutor Garber told Williams’ trial attorney what she knew about a Lepley agreement before trial and referred counsel to her predecessor for more information. Therefore, Williams has not established that the State suppressed any information about an immunity agreement with Lepley.
+
+
+[PARA b1003-14] Even if Williams had established that information about an agreement had been suppressed, there is no reasonable probability that had the information been furnished it would have made a difference in the result of the trial. Lepley testified at the trial that she had seen handcuffs in Williams’ possession prior to Brummett’s murder. Another witness also testified he had seen handcuffs in Williams’ possession prior to Brummett’s murder. Therefore, Lepley’s testimony was cumulative.
+
+
+[PARA b1003-15] 4. Williams’ claim that the prosecution concealed statements by John Morgan
+
+
+
+[PARA Aq9y] Williams states that during discovery in the Rule 27.26 proceedings in the Domann case, the State produced “two police reports of statements by John Morgan which had never been previously disclosed.” Traverse at 75. Williams argues that under Brady, defense counsel should have been given access to these reports.4
+
+
+
+[PARA b1004-3]
+       [PRINTED PAGE 936] *936The two documents dated October 12, 1980, and October 13, 1980, contain statements by Morgan that he denied any knowledge of the murder and that he did not remember where he was between October 6, 1980 (date of the Domann murder), and October 10, 1980 (date of the Brum-mett murder), and that he did not remember talking to Williams during that period of time. Respondent’s Exhibit J.
+
+
+[PARA b1004-4] This claim was not presented to the state court in the Brummett case until one month after the judge denied Williams’ Rule 27.26 motion. On April 22, 1985, Williams requested that the trial court set aside the order denying Rule 27.26 relief relying in part on this allegedly newly disclosed evidence. On April 24, 1985, the motion was denied. The Missouri Court of Appeals rejected the claim because Morgan’s statement that he had no knowledge of the murder had been brought out at trial. Williams v. State, 712 S.W.2d at 411. Furthermore, the claim was not reviewable because it had not been presented to the trial court in the Rule 27.26 motion. Id. Therefore, the State contends that petitioner has procedurally defaulted by bypassing state procedures for considering these claims.
+
+
+[PARA b1004-5] Williams argues that he did not learn of the existence of these statements until discovery during the Rule 27.26 proceeding in the Domann case. Therefore, he presented them to the state court in the Brummett case at the earliest possible time.
+
+
+[PARA b1004-6] The trial judge in deciding Williams’ Rule 27.26 motion in the Do-mann case concluded:
+
+    That movant has failed to carry his burden of establishing that the State did not disclose during discovery movant’s Exhibits 16 and 17, two statements made by John Morgan to police. That attorney Marshall received, and was familiar with, movant’s Exhibits 15 and 18. Said exhibits contain some of the same information as that in movant’s Exhibits 16 and 17. Notwithstanding the failure to carry the burden of proof, movant acknowledged at the hearing that he had the information contained in these exhibits on other exhibits, so the movant is in no position to claim any harm, even if Exhibits 16 and 17 were not produced. Furthermore, the evidence is clear and convincing that Mr. Marshall’s trial strategy was not to risk admission of movant’s extensive criminal record by cross-examining Mr. Morgan about inconsistent statements.
+
+[PARA A2a] Respondent’s Exhibit M at 31.
+
+
+[PARA b1004-10] Deferring to these findings as I must, Williams has not established cause for not raising this claim in a timely manner in state court.
+
+
+[PARA b1004-11] even if it is assumed that Williams established cause for his failing to present this claim properly in state court, he has failed to show a reasonable probability that had the statements been disclosed to the defense before the Brummett trial, the result would have been different. The two allegedly concealed Morgan statements are consistent with Morgan’s testimony at trial; Morgan admitted that he had repeatedly denied participating in the Brummett murder until after he was offered immunity.
+
+
+[PARA b1004-12] Furthermore, defense counsel had access to other statements made by Morgan that were inconsistent with his trial testimony incriminating Williams. Respondent’s Exhibit F-l at 113, 116-17, 122, 143-46; Respondent’s Exhibit F-3 at 30. Williams’ trial attorney decided not to use all of Morgan’s statements in cross-examining Morgan once he admitted that he did not tell the story he told at trial until he was granted immunity. Respondent’s Exhibit F-3 at 35; Williams v. State, 712 S.W.2d at 409. Therefore, even if one assumes that Williams had cause for not raising this point in his Rule 27.26 motion, he has not demonstrated that he was denied fundamental fairness at trial. Accordingly, re [PRINTED PAGE 937] *937view of this claim is barred by Wainwright, 433 U.S. 72, 89, 97 S.Ct. 2497, 2507. Even if not barred, Williams has not established a violation of Brady. Deferring to the State court factual findings, Williams has not established either suppression of evidence by the state or the evidence’s materiality.5
+
+
+
+[PARA b1005-4] 5. Williams’ claim that the state coerced Barbara Rea
+
+
+
+[PARA b1005-5] Williams claims that Brady was violated because the State failed to tell his attorneys before Barbara Rea testified that somebody with the Major Case Squad had threatened to take her child away.6 Williams relies on Rea’s testimony to this effect during some hearing in the Domann case. See Respondent’s Exhibit K; Mov-ant’s Exhibit 7 at 890. Williams also relies on the testimony by prosecutor Garber in the Rule 27.26 hearing in Domann that Garber had no reason to doubt the truth of Rea’s testimony about the coercion. Respondent’s Exhibit K at 199.
+
+
+[PARA b1005-6] None of this information was presented to any state court in this case. At the time of the Rule 27.26 hearing, Rea was incarcerated in Oklahoma. An effort was made by the Missouri court to obtain her presence and an Oklahoma judge determined that her testimony was not necessary. Respondent’s Exhibit F-3 at 86-88.
+
+
+[PARA b1005-9] The state trial judge who heard the Rule 27.26 motion in the Brummett case determined that Williams “has failed to bear his burden of proof that Rea testified under any threat by the prosecution_” Respondent’s Exhibit F-3 at 28. In addition, the state judge found that defense counsel interviewed Rea (id.) and that “they developed some information that might serve as grounds for impeachment and they made strategy decisions as to how or whether such information should be used.” Id. at 33.
+
+
+[PARA b1005-11] Williams has not established any exception to § 2254(d)’s requirement that I defer to the factual determinations of state courts. Accordingly, Williams has not shown that Rea testified under any threat. Even if Rea’s testimony in the Domann case is considered, Williams has not established that the prosecutor knew about the threat.
+
+
+[PARA b1005-12] Finally, Williams has not established a reasonable probability that had the coercion been disclosed to the defense the result of the trial would have been different. Rea testified that she loaned her car to Betty Coleman on the night of the murder and she described the condition of the car when it was returned. Even if Williams had known that Rea was threatened with the loss of her child, Williams has not established that Rea would have testified differently.
+
+
+[PARA b1006-2]
+       [PRINTED PAGE 938] *9386. Petitioner’s claim that the State suppressed Debbie Salmons’ statement
+
+
+
+[PARA AOnU] Petitioner contends that the State withheld a statement by Debbie Salmons that would have corroborated the testimony of potential alibi witness Day and should have been produced under Brady.
+
+
+
+[PARA b1006-3] According to the State, Williams’ claim cannot be considered because it was not properly presented in any state court. Petitioner responds that he was not aware of the existence of the statement until the Rule 27.26 proceeding in the Brummett case. Therefore, petitioner contends that the first opportunity he had to raise the claim was in his appeal from the denial of his Rule 27.26 motion in the Brummett case. Williams believes he did so.
+
+
+[PARA b1006-4] However, petitioner could have raised this claim at the time he found out about the statement by filing an amended 27.26 motion. The evidentiary hearing in the Brummett 27.26 proceeding was held on July 27, 1984, July 30, 1984, August 21, 1984, and September 14, 1984. Testimony about Salmons’ statement occurred on July 27, 1984, during the examination of attorney Hyler by Williams’ attorney. Respondent’s Exhibit F-l at 152-53, 161-62. In Williams’ “Third Amended Petition under Rule 27.26” filed on August 21, 1984, he raised numerous grounds developed by Williams and his appointed counsel. However, this claim was not mentioned. Respondent’s Exhibit F-3 at 80-82. On September 14, 1984, Williams attempted to file a “Fourth Amended Petition under Rule 27.26” but did not include this claim. Williams has not shown an objective factor external to his defense that prevented him from complying with Rule 27.26 and presenting this claim to the trial court. See Murray, 106 S.Ct. at 2646.
+
+
+[PARA b1006-5] In the pro se brief on appeal from the denial of the Rule 27.26 motion, reference is made to this claim for the first time.
+
+    Movant submits that counsel erred in failing to conduct a pre-trial investigation into all of the statements given to the police that would have in any way effected the decision to present key witnesses, i.e., it is apparent that either counsel is guilty of failing to conduct a reasonable investigation as required by Strickland supra, or the State is guilty of suppressing and withholding evidence favorable to defendant, in violation of, Brady vs. Maryland, 373 U.S. 83, [83 S.Ct. 1194, 10 L.Ed.2d 215] (1963). In either case the results are the same, the trier of facts was denied their right to consider the testimony of Robert Day, and thus Mov-ant was denied due process.
+
+[PARA AflS] Respondent’s Exhibit G-l at 31.
+
+
+[PARA b1006-7] However, this statement was tucked into the middle of lengthy argument about ineffective assistance of counsel for failing to conduct an adequate investigation. See headings in brief at 20 and 25. The Court of Appeals reasonably considered Williams’ argument about Salmons’ statement only as another example of alleged ineffective assistance of counsel. Williams, 712 S.W.2d at 408 (referring to “Day’s girl friend”). The manner in which Williams referred to this claim on appeal failed to “provide the state court with a ‘fair opportunity’ to apply controlling legal principles to the facts bearing upon his constitutional claim.” Anderson v. Harless, 459 U.S. 4, 6, 103 S.Ct. 276, 277, 74 L.Ed.2d 3 (1982). Therefore, Williams deliberately bypassed available state procedures and is barred from raising this claim in this case.
+
+
+[PARA b1006-8] Even if Williams had presented the claim properly in state court, he has failed to show that Salmons’ statement was favorable to him. In her statement, Salmons reports that neither she nor Day could remember whether Day saw petitioner on October 8 or October 9,1980. Further, she stated: “[Day] also said T don’t have anything to be afraid of, I’ll just tell the truth but I don’t remember. I don’t want to say anything that will send Doyle to the gas chamber.’ ” Respondent’s Exhibit K; Exhibit 3. Considering the entire Salmons statement, Salmons was not sure whether Day went to borrow money from Williams on October 8 or October 9. The uncertainty about dates and events that pervades the statement would have made the statement worthless. Hyler’s testimony to the contrary makes no sense. See Respon [PRINTED PAGE 939] *939dent's Exhibit F-l at 161-62. On balance, this statement discredits any alibi Day might have furnished by showing uncertainty about the date and demonstrating Day’s bias.
+
+
+[PARA b1007-4] Even if I assume that the statement would have been favorable and even if I assume that with the statement Williams’ attorneys would have called Day as a witness, Day’s testimony would not have changed the outcome. In light of his uncertainty about dates and his bias, his testimony would have harmed rather than helped Williams. Furthermore, his testimony even if taken at face value did not establish an alibi. Day testified at the Rule 27.26 hearing that he borrowed money from Williams on October 9 between 8:00 and 9:00 that evening. Respondent’s Exhibit F-2 at 171-72. However, at the time of the Williams trial, Day testified that he told defendant’s attorney Hyler that “I didn’t really remember whether it was the 8th or 9th.” Id. at 173. Thereafter, Day decided that it must have been the 9th and not the 8th. Id. Day had lived with Nina Potts’ brother. Nina was one of Williams’ girlfriends. Before the trial, Day' went with Nina Potts and attempted to see Williams in jail. Id. at 174-75.
+
+
+[PARA b1007-5] The abduction and murder of Kerry Brummett occurred sometime after 1:45 a.m. on October 10, 1980. Respondent’s Exhibit A-l at 289. Therefore, even if Day had testified that he saw Williams on October 9, 1980, between 8:00 and 9:00 p.m., it would not have explained Williams’ whereabouts hours later. Further, Day’s testimony would not have contradicted Morgan’s testimony that he did not see Williams until around 9:45 p.m. on October 9, 1980. Respondent’s Exhibit A-l at 336-37.
+
+
+[PARA b1007-6] E. Petitioner’s Due Process and Sixth Amendment Rights Were Not Denied by State’s Confiscation of His Property
+
+
+
+[PARA b1007-7] Williams claimed for the first time in his fourth amended Rule 27.26 motion that the State’s confiscation of his property prevenir ed him from retaining counsel thereby violating his due process and. Sixth Amendment rights. Respondent’s Exhibit F-3 at 72-74. Relying on Mo.Sup.Ct. Rule 55.-33(a), the trial court rejected the petition because it was offered on the last day of a four day evidentiary hearing after the petitioner had agreed that only specified evidence remained to be presented and because the claim “concerned facts which were fully known to him long before the present Rule 27.26 action was filed_” Respondent’s Exhibit F-3 at 42; Respondent’s Exhibit F-2 at 275-81, 344-53. The Missouri Court of Appeals refused to consider the claim because the confiscation claim had not been raised properly in the trial court and because the claim “was the subject of a lawsuit pending at the time the hearing on the 27.26 motion was held in which Williams was suing certain officials.” Williams v. State, 712 S.W.2d at 411.
+
+
+[PARA b1007-12] I will defer to the factual findings by the trial court and the Missouri Court of Appeals. § 2254(d). Specifically, I will defer to the finding that Williams knew about the factual basis for this claim long before the Rule 27.26 motion was filed. In fact, Williams testified at the Rule 27.26 hearing that a replevin action to recover his property had been pending 18 months. Petitioner has presented no evidence that he was prevented from raising this claim earlier because of some objective factor external to his defense. See Murray, 106 S.Ct. at 2646. Therefore, petitioner has not established cause for failing to raise the claim properly in state court. Accordingly, the claim will be rejected.
+
+
+[PARA b1007-13] Even if the merits of Williams’ argument were reached, he has not established that the State unlawfully seized his property. In 1983, Williams and Betty June Coleman filed a case under 42 U.S.C. § 1983 claiming that Williams’ property had been taken and withheld without due process of law. Coleman v. Salmons, No. 83-4396-CV-W-6 (W.D.Mo.).
+
+
+[PARA b1007-14] In dismissing this case because Williams had an adequate state remedy, Judge Sachs concluded that “the property at issue in this action was taken with due process of law pursuant to a valid search warrant....  [PRINTED PAGE 940] *940The only claim plaintiff may have is one of a continuing deprivation without due process of law.” Order filed April 16, 1984 at p. 1, Respondent’s Exhibit O.
+
+    The State of Missouri provides a procedure through which to pursue claims of ownership and right to possession of property. See § 542.301, RSMo. From plaintiffs’ own statements it is clear that they currently have pending in Callaway County, Missouri, an action to recover the property of which they allegedly are being deprived. Plaintiffs’ Reponse to “Defendant Garber’s Motion for Judgment on the Pleadings or Summary Judgment” at 3.
+    Because the state procedures to recover property exist and because plaintiffs have not been denied access to those procedures, it cannot be said that plaintiffs are being deprived of property without due process of law. See Parratt v. Taylor, 451 U.S. 527, [101 S.Ct. 1908, 68 L.Ed.2d 420] (1981); Steffen v. Housewright, 665 F.2d 245 (8th Cir.1981). Thus plaintiffs’ federally protected rights are not being violated and plaintiffs’ complaint for deprivation of rights pursuant to 42 U.S.C. § 1983 is unsound as a matter of law.
+
+[PARA b1008-6]
+      Id. at 2 (footnote omitted).
+
+
+[PARA b1008-7] Not only was the taking and withholding of the property constitutional, but Williams has failed to establish that he diligently pursued the available state remedies to obtain return of his property. In 1983, the Sheriff of Callaway County instituted an action entitled “In re Matter of Various Items of Unclaimed Seized Property.” Doyle and Betty Coleman Williams were the only claimants so the sheriff was authorized to deliver the property to claimants on July 23,1986. Respondent’s Exhibit L. Simply put, Williams has failed to establish that Missouri did anything unlawful in either seizing or detaining the property. Therefore, Missouri did not prevent Williams from retaining counsel of his choice. In fact, Charles Hyler was retained by Williams’ relatives to represent him along with appointed attorney, Tom Marshall. Respondent’s Exhibit F-l at 103-04.
+
+
+[PARA b1008-8] F. Williams Was Not Denied Effective Assistance of Counsel
+
+
+
+[PARA b1008-9] Petitioner divides his ineffective assistance of counsel claim into two general categories: 1) counsel’s failure to make a reasonable pretrial investigation; and 2) counsel’s deficiencies during trial.
+
+
+[PARA b1008-10] 1. Applicable standard of review
+
+
+
+[PARA b1008-11] Relying on Voyles v. Watkins, 489 F.Supp. 901, 910 (N.D.Miss.1980) and Irving v. Hargett, 518 F.Supp. 1127, 1144 (W.D.Miss.1981), Williams argues that the Court must strictly scrutinize counsel’s performance in a capital murder case. However, in this Circuit “[w]e apply the same standard in capital and non capital cases, recognizing however, that the seriousness of the offense is a factor to be considered in the overall assessment of counsel’s performance.” Pickens v. Lockhart, 714 F.2d 1455, 1460 n. 4 (8th Cir.1983).
+
+
+[PARA b1008-12] 2. State court findings of fact
+
+
+
+[PARA b1008-13] The Sixth Amendment guarantees a defendant in a criminal case the effective assistance of counsel. McMann v. Richardson, 397 U.S. 759, 771, 90 S.Ct. 1441, 1449, 25 L.Ed.2d 763 (1970). When a defendant fails to receive effective assistance of counsel, a “fundamental constitutional error” has taken place which “undermines the entire adversary process.” Pickens, 714 F.2d at 1459 (citing Thomas v. Wyrick, 535 F.2d 407, 413 (8th Cir.), cert. denied, 429 U.S. 868, 97 S.Ct. 178, 50 L.Ed.2d 148 (1976)).
+
+    Judicial scrutiny of counsel’s performance must be highly deferential. It is all too tempting for a defendant to second-guess counsel’s assistance after conviction or adverse sentence, and it is all too easy for a court, examining counsel’s defense after it has proved unsuccessful, to conclude that a particular act or omission of counsel was unreasonable.... A fair assessment of attorney performance requires that every effort be made to eliminate the distorting effects of hindsight, to reconstruct the circumstances of counsel’s challenged conduct, and to  [PRINTED PAGE 941] *941evaluate the conduct from counsel’s perspective at the time.
+    Because of the difficulties inherent in making the evaluation, a court must indulge a strong presumption that counsel’s conduct falls within the wide range of reasonable professional assistance; that is, the defendant must overcome the presumption that, under the circumstances, the challenged action ‘might be considered sound trial strategy.’
+
+[PARA b1009-4]
+      Strickland v. Washington, 466 U.S. 668, 689, 104 S.Ct. 2052, 2065, 80 L.Ed.2d 674 (1984) (citations omitted).
+
+    A convicted defendant making a claim of ineffective assistance must identify the acts or omissions of counsel that are alleged not to have been the result of reasonable professional judgment. The court must then determine whether, in light of all the circumstances, the identified acts or omissions were outside the wide range of professionally competent assistance. In making that determination, the court should keep in mind, that counsel’s function, as elaborated in prevailing professional norms, is to make the adversarial testing process work in the particular case. At the same time, the court should recognize that counsel is strongly presumed to have rendered adequate assistance and made all significant decisions in the exercise of reasonable professional judgment..
+
+[PARA b1009-6]
+      Strickland, 466 U.S. at 690, 104 S.Ct. at 2066. The habeas corpus petitioner bears a heavy burden to establish that his counsel’s assistance was not effective. Pickens, 714 F.2d at 1459.
+
+
+[PARA b1009-7] A convicted defendant’s claim that counsel’s assistance was so defective as to require reversal of conviction has two components:
+
+    First, the defendant must show that counsel’s performance was deficient. This requires showing that counsel made errors so serious that counsel was not functioning as the “counsel” guaranteed the defendant by the Sixth Amendment. Second, the defendant must show that the deficient performance prejudiced the defense. This requires showing that counsel’s errors were so serious as to deprive the defendant of a fair trial, a trial whose result is reliable. Unless a defendant makes both showings, it cannot be said that the conviction or death sentence resulted from a breakdown in the adversary process that renders the result unreliable.
+
+[PARA b1009-12]
+      Strickland, 466 U.S. at 687, 104 S.Ct. at 2064.
+
+
+[PARA b1009-13] The proper standard for determining whether counsel’s performance was deficient is “whether counsel’s assistance was reasonable considering all the circumstances.” Id., 466 U.S. at 688, 104 S.Ct. at 2065. The court must determine whether, in light of all the circumstances, the identified acts or omissions were outside the wide range of professionally competent assistance. Id., 466 U.S. at 690, 104 S.Ct. at 2066.
+
+
+[PARA b1009-14] Even if counsel’s performance was deficient, the judgment should not be set aside “if the error had no effect on the judgment.” Id., 466 U.S. at 691, 104 S.Ct. at 2066. The defendant must “affirmatively prove prejudice,” i.e., that the error or errors “actually had an adverse effect on the defense.” Id., 466 U.S. at 693, 104 S.Ct. at 2067. “It is not enough for the defendant to show that the errors had some conceivable effect on the outcome of the proceeding.” Id.
+
+
+    The defendant must show that there is a reasonable probability that, but for counsel’s unprofessional errors, the result of the proceeding would have been different. A reasonable probability is a probability sufficient to undermine confidence in the outcome.
+    In making the determination whether the specified errors resulted in the required prejudice, a court should presume, absent challenge to the judgment on grounds of evidentiary insufficiency, that the judge or jury acted according to law.
+
+[PARA Aha]
+      Id., 466 U.S. at 694, 104 S.Ct. at 2068.
+
+
+[PARA b1009-19] Both the performance and prejudice components of the ineffectiveness inquiry present mixed questions of law and fact. Id., 466 U.S. at 698, 104 S.Ct. at 2070. “[S]tate court findings of fact made in the course of deciding an ineffectiveness claim  [PRINTED PAGE 942] *942are subject to the deference requirement of § 2254(d)....” Id.
+
+
+
+[PARA b1010-4] During the course of the state court pretrial and trial proceedings, petitioner was represented by two attorneys: Tom Marshall, public defender, and Charles G. Hy-ler, retained by petitioner’s relatives. The state trial judge in denying Williams’ ineffectiveness claim made the following factual findings:
+
+    8. On March 5, 1981, Public Defender Tom Marshall was appointed to represent the movant in the present case, as well as in the prosecution for the murder of Dr. A.H. Domann. Marshall had been Public Defender of the Thirteenth Area since July of 1979, and prior to that had served two terms as Randolph County Prosecuting Attorney. Since being licensed as an attorney in 1968, Marshall had participated in hundreds of criminal trials.
+
+[PARA b1010-6] Respondent’s Exhibit F-3 at 23.
+
+    21. On August 10, 1981, attorney Charles G. Hyler was retained by relatives of movant to serve as a second defense attorney in the present case. Hyler had been licensed to practice law since 1959, had served four terms as St. Francois County Prosecuting Attorney, and was experienced in criminal defense work.
+
+[PARA b1010-8]
+      Id. at 25-26.
+
+    25. On August 28, 1981, Hyler filed a request for a continuance of the trial. A hearing on this motion was had on September 3, 1981, in which Hyler argued that a continuance was warranted because of his relative newness to the case, the need to conduct additional discovery and other trial commitments by Hyler. This request for continuance was denied by the Circuit Court.
+    26. That co-counsel Marshall was prepared to go to trial at this time, and that his information and expertise were available to assist Hyler in his preparation for the trial of this case.
+    27. At trial, Hyler served as lead counsel. Marshall assisted and advised Hyler in all aspects of the case and had particular responsibility for designated witnesses and the preparation of jury instructions.
+    28.In preparing and conducting the present trial, Hyler spent approximately three hundred hours on this case. From March to October of 1981, Marshall devoted in the vicinity of three-fourths of his time in the preparation and trial of this case and the trial of movant for the murder of Dr. Domann.
+
+[PARA b1010-14]
+      Id. at 26-27.
+
+
+[PARA b1010-15] In Williams v. State, 712 S.W.2d 404, 406 (Mo.App.1986), the Court made these additional general findings on the ineffectiveness claim:
+
+    Both attorneys testified that a principal difficulty in preparing Williams’ defense was the fact that Williams could not account for his activities on the night of October 9 and early morning of October 10, 1980, when the murder of Brummett occurred. When the state filed a motion for discovery seeking to determine if Williams was relying on an alibi defense, Williams gave his attorneys five possible alibis. It was not until virtually the day of trial that Williams finally said his alibi would be that he was in bed with his girl friend Nina Potts.
+    Williams testified in this case to his complaints against the attorneys. Williams testified that he is a college graduate and works in the law library in the penitentiary.
+
+[PARA b1010-18] Because Williams has not established that one of the seven exceptions in § 2254(d) exists, or that these findings are not fairly supported by the record, or that these findings are erroneous, the state court factual findings are presumed correct. § 2254(d).
+
+
+[PARA b1010-19] 3. Williams' attorneys properly investigated the case
+
+
+
+[PARA b1010-20] According to the American Bar Association Standards for Criminal Justice:
+
+    [i]t is the duty of the lawyer to conduct a prompt investigation of the circumstances of the case and to explore all avenues leading to facts relevant to the merits of the case and the penalty in the event of conviction. The investigation should al [PRINTED PAGE 943] *943ways include efforts to secure information in the possession of the prosecution and law enforcement authorities. The duty to investigate exists regardless of the accused’s admissions or statements to the lawyer of facts constituting guilt or the accused’s stated desire to plead guilty.
+
+[PARA b1011-4] 1 ABA Standards for Criminal Justice, Standard 4-4.1 (2d ed. 1980) (quoted in Pickens, 714 F.2d at 1460).
+
+
+[PARA b1011-5] In Strickland, the Supreme Court stated that:
+
+    [C]ounsel has a duty to make reasonable investigations or to make a reasonable decision that makes particular investigations unnecessary. In any ineffectiveness case, a particular decision not to investigate must be directly assessed for reasonableness in all the circumstances, applying a heavy measure of deference to counsel’s judgments.
+
+[PARA b1011-7]
+      Strickland, 466 U.S. at 691, 104 S.Ct. at 2066; see Beans v. Black, 757 F.2d 933, 936 (8th Cir.), cert. denied, 474 U.S. 979, 106 S.Ct. 381, 88 L.Ed.2d 334 (1985). Even if counsel’s investigation is inadequate under the circumstances, the habeas petitioner must meet “the burden of showing that the decision reached would reasonably likely have been different absent the errors.” Strickland, 466 U.S. at 696, 104 S.Ct. at 2069.
+
+
+[PARA b1011-8] a. Larry Pimer
+
+
+
+[PARA b1011-9] Williams contends that his attorneys were ineffective because they failed to discover Larry Pimer, the night manager at the restaurant where Brummett was seen with Betty Coleman the night of the murder. Williams’ argument is premised on the contention that his attorneys failed to discover Larry Pirner because they did not try to do so.
+
+
+[PARA b1011-10] The state trial court found that before trial both attorneys and both defense investigators made separate trips to the Mark Twain Restaurant where Larry Pimer had been night manager.
+
+    In the course of contacting and interviewing the persons who were present in the restaurant at this time, it was determined that the former night manager of the restaurant was no longer employed there, that he was somewhere out of state, and that the restaurant personnel had no idea where he was or how he could be located.
+    30. That the former night manager, one Larry Pirner, was in fact out of the state from Febraury of 1981 until he was extradited to the State of Missouri from the State of California sometime during the month of September of 1981.
+    31. That defense counsel had no reason to believe from the facts in their possession that Pirner had any information which was helpful or favorable to the defense.
+
+[PARA b1011-16] Respondent’s Exhibit F-3 at 27.
+
+
+[PARA b1011-17] Because Williams has not demonstrated any authorized basis to disregard these state court factual findings, I will defer to them. § 2254(d). In light of these findings, petitioner has failed to show that the investigation was unreasonable.
+
+
+[PARA b1011-18] Even if I were to assume that counsel’s investigation was somehow deficient, Williams has failed to show that the defense was prejudiced thereby. See previous discussion and conclusion about Pir-ner’s materiality for Brady purposes.
+
+
+[PARA b1011-19] b. Pamela Mealey
+
+
+
+[PARA b1011-20] Williams asserts that counsel’s performance was deficient because they failed to locate Pamela Mealey, a customer in the Mark Twain Restaurant on the night of the Brummett murder. Williams provides no facts that show counsel’s investigation was unreasonable. Williams supports this point only by arguing that defendant counsel failed to find her and that she was a known associate of both Williams and Morgan.
+
+
+[PARA b1011-21] Pamela Mealey was not a restaurant employee. No evidence was presented at the Rule 27.26 hearing that Williams or Coleman told the attorneys about Pamela Mea-ley. Williams has failed to establish that counsel’s investigation was unreasonable.
+
+
+[PARA b1011-22] Furthermore, for the reasons stated previously in the Brady analysis, petitioner has failed to establish prejudice by showing that there is a reasonable probability that:  [PRINTED PAGE 944] *9441) his defense was harmed in any way by not discovering Mealey; and 2) the result of the trial would have been different had counsel discovered Mealey before trial.
+
+
+[PARA b1012-4] c. Jesse Maxwell
+
+
+
+[PARA b1012-5] Williams asserts that his attorneys were ineffective because they failed to discover Jesse Maxwell who Williams says would have testified that he saw Morgan at a bait and tackle shop at 1:00 a.m. on the morning of the Brummett murder. Williams states that this testimony would have corroborated facts set forth in the Hilke report.7
+
+
+
+[PARA b1012-6] Petitioner, however, does not suggest how his attorney could have located Jesse Maxwell. According to Maxwell’s testimony at the Rule 27.26 hearing, he saw Morgan in a parking lot in Cedar City about 1:00 a.m. on October 10, approximately 45 minutes before the Brummett murder. Maxwell also testified that he did not tell Williams that he had seen Morgan the night of October 10, 1980, until ten months after Williams had been convicted. Respondent’s Exhibit F-l at 54, 57. He did not tell the prosecution about seeing Morgan when the prosecutor interviewed him. Id. at 59. Under these circumstances, Williams has not established that counsel’s investigation was professionally unreasonable.
+
+
+[PARA b1012-7] Furthermore, Williams has not proved that the failure to discover Maxwell actually had any adverse effect on his defense. At the Rule 27.26 hearing, Maxwell testified on direct that he was certain that he saw Morgan on October 10, 1980, because he read about Morgan’s arrest the following day. Respondent’s Exhibit F-l at 51-52. Maxwell had been to several bars before he saw Morgan. Id. On cross-examination Maxwell was uncertain whether he saw the article about Morgan’s arrest the next day or two days after he saw Morgan. Respondent’s Exhibit F-l at 59. If it was two days, then Maxwell saw Morgan early in the morning on October 9, not October 10. Respondent’s Exhibit F-l at 59. Additionally, Maxwell testified that he had corresponded with Williams about legal matters since petitioner’s conviction, that he had been convicted of several felonies including assault and forgery, that he and Betty Coleman had been incarcerated for a year at the same correctional institution, and that Williams’ sister worked as an investigator on one of his cases. Respondent’s Exhibit F-l at 54-58.
+
+
+[PARA b1012-13] d. Other alleged failures
+
+
+
+[PARA AGZ] In a short paragraph entitled “other failures,” petitioner asserts that his counsel should have known, more about the testimony of Lepley and Rea. Specifically, Williams contends that his attorneys should have discovered that Kay Lepley had discussed immunity with the prosecutor and that Barbara Rea had been threatened with the loss of her child.
+
+
+[PARA b1012-14] Williams has not established that his attorneys’ failure to discover these matters was unreasonable. Apparently, Lepley and Rea did not volunteer the information. Only with the perfect vision inherent in hindsight does this argument make any sense. Eliminating the distorting effects of hindsight, Williams has not established that counsel’s failure to inquire about these two subjects was unreasonable. Further, Williams has not established that his attorneys’ failure to discuss these matters with Lepley and Rea actually had an adverse effect on his defense sufficient to undermine the outcome of the trial.
+
+
+[PARA b1012-15] 4. Williams received effective assistance of counsel at trial
+
+
+
+[PARA b1012-16] Williams contends that counsel made several errors during the trial that prejudiced his right to a fair trial.
+
+
+[PARA b1012-17] The Constitution guarantees a fair trial and competent counsel, not a perfect trial and perfect attorney, as measured by hindsight. Weeks v. Scurr, 608 F.Supp. 884,  [PRINTED PAGE 945] *945896 (W.D.Mo.1985), see Strickland, 466 U.S. at 690, 104 S.Ct. at 2066. Defense counsel are required “to exercise only that skill and diligence possessed by competent counsel under like or similar circumstances.” Knott v. Mabry, 671 F.2d 1208, 1214 (8th Cir.), cert. denied, 459 U.S. 851, 103 S.Ct. 115, 74 L.Ed.2d 101 (1982). “[Strategic choices made after thorough investigation of law and facts relevant to plausible options are virtually unchallengeable.” Strickland, 466 U.S. at 690, 104 S.Ct. at 2066.
+
+
+[PARA b1013-4] a. Cross-Examination of John Morgan, Kay Lepley and Barbara Rea
+
+
+
+[PARA A6bL] Petitioner argues that his attorney was ineffective in cross-examining Kay Lepley, Barbara Rea and John Morgan. Petitioner contends that his attorneys did not fully discredit John Morgan’s testimony by using all of Morgan’s ten prior inconsistent statements to impeach him. Also, petitioner claims that his attorneys should have used extrinsic evidence such as a witness to impeach Morgan.
+
+
+[PARA b1013-5] The state trial judge found:
+
+    [t]hat trial defense counsel were aware of the prior inconsistent statements made by state’s witness John Morgan, and that use of such statements was made by defense attorney Hyler in the cross-examination of Morgan and another witness to establish that Morgan had previously given different accounts of the crime and had lied to police investigators.
+
+[PARA A5a] Respondent’s Exhibit F-3 at 30.
+
+
+[PARA b1013-7] Counsel’s use of Morgan’s inconsistent statements resulted in Morgan admitting that he lied to police investigators and gave inconsistent versions of the crime. Respondent’s Exhibit A-l at 322-29; Respondent’s Exhibit F-3 at 35. In light of counsel’s effective use of Morgan’s prior inconsistent statements, Williams has failed to establish how counsel were ineffective by not using all of the inconsistent statements or by not seeking to present extrinsic evidence to impeach Morgan further.
+
+
+[PARA b1013-8] Also, petitioner contends that his attorneys were ineffective because they failed to bring to the attention of the jury an immunity agreement between the State and Kay Lepley and they failed to bring out that Barbara Rea was coerced into testifying by police threats. As discussed earlier, Lepley denies having an immunity agreement with the State and Williams has not established that one ever existed. Even if it is assumed that Rea was threatened, Williams has not established that his attorneys were ineffective in not discovering the threat. Williams has not established counsel were ineffective for not attempting to impeach Rea with information they did not have. See previous discussion of both Lepley and Rea.
+
+
+[PARA b1013-10] b. Limiting Instructions on Other Crimes Evidence and Cautionary Instructions on Testimony of Drug Addict and Accomplice
+
+
+
+[PARA b1013-11] Petitioner argues that his attorneys failed to discuss with him a submission of a limiting instruction on the use of other crimes evidence, an instruction on the testimony of a drug addict and a cautionary instruction on testimony of an accomplice.
+
+
+[PARA b1013-12] The state trial court concluded that “defense attorney Marshall considered submitting a limiting instruction regarding evidence of other crimes (MAI-CR2d 3.58 or 3.60) and decided for reasons of strategy not to do so.” Respondent’s Exhibit F-3 at 30. At the Rule 27.26 hearing, Marshall testified that he decided not to request this limiting instruction because he thought it would highlight Williams’ other crimes in the minds of the jurors. Respondent’s Exhibit F-2 at 303-05.
+
+
+[PARA b1013-13] “Strategic choices made after thorough investigation of law and facts relevant to plausible options are virtually unchallengeable.” Strickland, 466 U.S. at 690, 104 S.Ct. at 2066. In view of Marshall’s extensive criminal trial experience and his intimate knowledge of the case, his decision not to request a limiting instruction on the use of other crimes evidence was reasonable.
+
+
+[PARA b1014-2]
+       [PRINTED PAGE 946] *946Finally, Williams has not established an adverse effect on his defense from not requesting that this instruction be given.
+
+
+[PARA b1014-3] The cautionary instructions on the testimony of a drug addict and of an accomplice that petitioner contends should have been requested are not available in the Missouri Patterned Criminal Jury Instructions. See State v. Tyler, 556 S.W.2d 473, 476 (Mo.App.1977); State v. Lang, 515 S.W.2d 507, 510-11 (Mo.1974). Missouri criminal instructions include only one instruction on the weight and value of the evidence and the believability of witnesses. See MAI-CR2d 2.01. Further, as noted by the Missouri Court of Appeals in Williams, 712 S.W.2d at 407, the Notes on the Use following MAI-CR2d 2.01 state that “no other or additional instruction may be given on the believability of witnesses, or the effect, weight or value of their testimony.” Williams has not established that these cautionary instructions are constitutionally required. Accordingly, Williams has not established that his attorneys’ performance was defective in not requesting these cautionary jury instructions.
+
+
+[PARA b1014-4] c. Williams’ Right to Testify
+
+
+
+[PARA b1014-5] Petitioner argues that his attorneys did not inform him that a limiting instruction on the use of his prior convictions by the jury could be requested if Williams decided to testify. The state court, after hearing the testimony of Williams and his two attorneys at the Rule 27.26 hearing, concluded:
+
+    49. That prior to and during trial, both defense attorneys discussed with movant his decision as to whether or not to testify in his own defense. As a result of these discussions, movant was aware that he could be impeached by his twelve prior felony convictions if he chose to testify. Counsel also discussed with movant the possibility of submitting a limiting instruction advising the jury that it could only consider movant’s prior convictions for purposes of impeachment, not as substantive evidence. Based upon the above consultations, movant made a voluntary, intelligent and informed decision not to testify.
+
+[PARA b1014-8] Respondent’s Exhibit F-3 at 29-30. See also Williams, 712 S.W.2d at 410.
+
+
+[PARA b1014-9] Williams has not established one of the seven conditions enumerated in § 2254(d) and he has not established that these factual determinations are not “fairly supported by the record.” Sumner, 449 U.S. at 550, 101 S.Ct. at 771. Therefore, I must defer to these factual findings.
+
+
+[PARA b1014-10] In fact, the conclusions are fairly supported by the record. Marshall was questioned at length on this issue at the Rule 27.26 hearing. Respondent’s Exhibit F-2 at 300-01, 326-30. Marshall stated that he discussed with Williams on at least two occasions the possibility of requesting an instruction telling the jury about the proper use of Williams’ other convictions.
+
+
+[PARA b1014-11] d. Robert Day and Roger Hazlett
+
+
+
+[PARA AEo] Williams asserts that his attorneys were ineffective because they did not call Robert Day and Roger Hazlett as witnesses. Williams contends that Day was an important witness because he would have corroborated Williams' alibi that he spent the night of the murder with Nina Potts. Haz-lett, Williams states, would have contradicted Morgan’s testimony that Hazlett’s house was the center of activity after Brummett’s murder.
+
+
+[PARA b1014-12] “[Ineffective assistance of counsel complaints based on the failure to secure witness testimony are disfavored, see Sherrill v. Wyrick, 524 F.2d 186, 190 (8th Cir.1975), because presentation of evidence is a matter of trial strategy.” Walker v. Lockhart, 807 F.2d 136, 139 (8th Cir.1986). The presumption of correctness under § 2254(d) applies to a finding by the state court that it was a matter of trial strategy not to call certain witnesses. Eldridge, 665 F.2d at 236 n. 5.
+
+
+[PARA b1014-13] The state trial court concluded after an evidentiary hearing that:
+
+    [Tjhe defense attorneys interviewed one Robert Day as a potential defense witness at the time of trial. In his meeting with counsel, Day initially asserted that  [PRINTED PAGE 947] *947he had seen movant approximately four hours before the murder was alleged to have occurred, but subsequently stated that he did not remember which day he had seen movant. Based upon the above information and Day’s uncooperative attitude, both defense attorneys and mov-ant decided that Day should not be called as a witness.
+
+[PARA b1015-4] Respondent’s Exhibit F-3 at 30.
+
+    (B)oth defense attorneys interviewed one Roger Hazlett as a potential defense witness. Hazlett offered no useful information, claiming no recollection with regard to the relevant time period, and counsel decided not to call him as a witness.
+
+[PARA AUcK] Respondent’s Exhibit F-3 at 28.
+
+
+[PARA b1015-6] The Missouri Court of Appeals concluded as follows with regard to Day:
+
+    Complaint is made that counsel failed to call Robert Day to testify that Day had borrowed money from Williams at 9:30 p.m. on October 9 at Williams’ home in Fulton. Hyler testified that he had Day attend the trial and talked with him in the hall. He stated Day was with a girl friend who told Hyler that if Day testified that he was at Williams’ home on the evening of October 9 she would testify that Day was not there at that time. After the girl friend made that statement, Day told Hyler he could not remember whether or not he was at Williams’ home. Hyler testified that he talked with Marshall and Williams and told them about his conversation with Day and the girl friend, and the conclusion was reached that they could not accomplish anything with Day. This evidence does not support a conclusion that counsel was ineffective for failing to call Day. Further, Williams makes no effort to demonstrate how it would have been impossible for him to have been at home at 9:30 p.m. and still have been involved in a murder that occurred several hours later just a short distance away.
+
+[PARA AgL]
+      Williams v. State, 712 S.W.2d at 408.
+
+
+[PARA b1015-8] Although Williams’ claim in the Missouri Court of Appeals focused on the failure to investigate, the Court’s findings explain why Hazlett was not called to testify:
+
+    Williams contends that Hyler did not properly question Roger Hazlett concerning his knowledge of events which occurred in the early morning of October 10. At the murder trial there was evidence Williams and Morgan went to the Hazlett home in the early morning of October 10 and burned their bloody clothing in the front yard. Williams contends that Hyler failed to ask Hazlett the proper questions during his investigation so as to reveal that Hazlett had information which would have refuted Morgan’s testimony that Williams and Morgan burned their clothing at Hazlett’s home. Williams contends that Hyler simply asked Hazlett what he knew and did not ask specific questions. Contrary to Williams’ contention Hyler testified that he talked with Hazlett and covered Haz-lett ‘from the water front in all directions and he just flat told me he was drunk and asleep ... and he didn’t know anything about it.’
+
+[PARA b1015-11]
+      Id.
+
+
+
+[PARA b1015-12] Petitioner has not established that the factual findings by two state courts are not “fairly supported by the record.” Deferring to these factual findings and after reviewing the record, including the testimony of Roger Hazlett, Robert Day and attorneys Marshall and Hyler at the Rule 27.26 hearing, I conclude that counsel’s decision not to call Hazlett and Day as witnesses was reasonable. Therefore, petitioner has failed to establish the first component of the Strickland test.
+
+
+[PARA b1015-13] e. Telephone Records
+
+
+
+[PARA AkAk] Williams argues that his counsel failed to make a timely and specific objection to the introduction into evidence of telephone records of calls placed from Roger Haz-lett’s house on October 10, 1980, the day of Brummett’s murder. The State contends that Williams did not raise this claim in either his direct appeal or in his Rule 27.26.
+
+
+[PARA b1015-14] Williams responds in his trial brief in support of his Rule 27.26 motion that his appointed counsel argued that trial counsel’s failure to object to the telephone records constituted ineffective assistance  [PRINTED PAGE 948] *948of counsel. Petitioner submitted Exhibit Q, a copy of a pleading captioned “Suggestions Concerning Ineffective Assistance of Counsel Issues.” However, Exhibit Q does not have a file stamp on it and was not signed by petitioner’s appointed counsel, Fred Duchart.
+
+
+[PARA b1016-4] Even though Williams raised instances of alleged ineffective assistance of counsel is his Rule 27.26 motions, he does not assert that his counsel were ineffective because they failed to make a timely and specific objection to the introduction of the telephone records at petitioner’s trial. Neither the trial judge nor the Missouri Court of Appeals addressed this issue.
+
+
+[PARA b1016-5] Under Rule 27.26, a Missouri state court may not consider a second motion for post-conviction relief asserting grounds that could have been raised in the first motion.8 However,
+
+    [R]ule 27.26 does not necessarily and absolutely foreclose a state court from entertaining a second or successive post-conviction motion. Therefore, the requirement of 28 U.S.C. § 2254(b) that available state remedies be exhausted prior to the consideration of federal ha-beas corpus claims will not be disregarded without some indication in the state record that further state proceedings would be futile.
+
+[PARA b1016-7]
+      Lindner v. Wyrick, 644 F.2d 724, 727 (8th Cir.), cert. denied, 454 U.S. 872, 102 S.Ct. 345, 70 L.Ed.2d 178 (1981) (citations omitted). The state record does not establish that further state proceedings would be futile. Thus, petitioner’s claim that he received ineffective assistance when his counsel failed to properly object to the introduction of the telephone records has not been exhausted.
+
+
+[PARA b1016-12] Absent exceptional circumstances, a state prisoner seeking federal habeas relief must exhaust all state remedies. Rose v. Lundy, 455 U.S. 509, 515, 102 S.Ct. 1198, 1201-02, 71 L.Ed.2d 379 (1982). Deference to the administration of justice in state courts is the basis for the exhaustion requirement. Id. Special circumstances may make it appropriate to dispose of an unex-hausted claim on the merits. Frisbie v. Collins, 342 U.S. 519, 520-21, 72 S.Ct. 509, 511, 96 L.Ed. 541 (1952); Lindner, 644 F.2d at 727, n. 5. Here, Williams’ other claims in his petition for habeas corpus are exhausted. To dismiss this unexhausted claim would not further judicial economy, finality or the avoidance of piecemeal litigation. Therefore, I will consider petitioner’s claim that his counsel’s failure to object properly to the introduction into evidence of the telephone records deprived him of effective assistance of counsel.
+
+
+[PARA b1016-13] Petitioner asserts that the telephone records were inadmissible as business records because the prosecution failed to establish a proper foundation. (Although petitioner’s counsel did make a general objection to the admission of the telephone records, his specific objection was ruled untimely and the telephone records were admitted into evidence. Respondent’s Exhibit A-2 at 504, 506-07.)
+
+
+[PARA b1016-14] “[Questions concerning the admissibility of evidence are matters of state law and are not reviewable in a federal habeas corpus proceeding unless the asserted error infringed a specific constitutional protection or was so prejudicial as to deny due process.” Wallace v. Lockhart, 701 F.2d  [PRINTED PAGE 949] *949719, 724 (8th Cir.), cert. denied, 464 U.S. 934, 104 S.Ct. 340, 78 L.Ed.2d 308 (1983).
+
+
+[PARA b1017-4] Assuming for the purpose of this analysis that counsel should have made a timely and specific objection to the introduction of the telephone records, Williams has failed to demonstrate that the decision-maker “reasonably, conscientiously and impartially applying the standards that govern the decision” would have sustained the objection. Strickland, 466 U.S. at 695, 104 S.Ct. at 2068. Even if the objection had been sustained, the custodian of records for the telephone company could have been subpoenaed and would have laid a proper foundation for admissibility as business records. Furthermore, petitioner has failed to demonstrate that there is a reasonable probability that, but for counsel’s failure to make a timely and specific objection, the result of the trial would have been different. There was other evidence corroborating Morgan’s testimony.
+
+
+[PARA b1017-5] 5. Cumulative effect
+
+
+
+[PARA b1017-6] As his final point, petitioner contends that the cumulative effect of his counsel’s failures warrants relief. However, based on the foregoing discussion, petitioner has not established any instance where the assistance of his counsel was unreasonable. Therefore, there is nothing to cumulate.
+
+
+[PARA b1017-7] In fact, based on a review of the entire trial record and deferring to the state court factual findings about counsel’s performance, Williams received more than just “reasonable” representation from experienced counsel. Overall, his counsel provided highly professional representation. As a result, Williams received the full protection of “the adversarial testing process” so essential to a just result. See Strickland, 466 U.S. at 687, 104 S.Ct. at 2064.
+
+
+[PARA b1017-8] CONCLUSION
+
+
+[PARA b1017-9] For the foregoing reasons, it is hereby ORDERED that Doyle Williams’ motion for a writ of habeas corpus is denied.
+
+
+      1
+
+[PARA b989-12] . Petitioner has also been convicted in the Circuit Court of Marion County, Missouri, of the capital murder of Dr. A.H. Domann. Petitioner was sentenced to life imprisonment without possibility of probation or parole for fifty years. See State v. Williams, 662 S.W.2d 277 (Mo.App.1983). Further, petitioner was convicted in the Circuit Court of Marion County, Missouri, of attempting to obtain a controlled substance by fraud. Petitioner was sentenced to life imprisonment. See State v. Williams, 678 S.W.2d 430 (Mo.App.1984).
+
+
+
+      2
+
+[PARA b996-7] . The evidence of other crimes was not introduced as substantive evidence to enhance the range of punishment where the failure to give a limiting evidence has been found to be reversible error. See Evans v. Cowan, 506 F.2d 1248 (6th Cir.1974).
+
+
+
+      3
+
+[PARA b1002-7] . Read in context and with Garber’s testimony on page 205, Respondent's Exhibit F-2, the reference to "Pam Mealy" on line 15, page 210, should be "Pam Neely.”
+
+
+
+      4
+
+[PARA b1003-8] . After the hearing on Williams’ Rule 27.26 motion in the Domann case, the State informed the Court that it believed that the two allegedly concealed statements were forgeries. The trial  [PRINTED PAGE 936] *936judge in Domann did not rule on the stated law. However, these same statements were introduced at a Rule 27.26 hearing following Betty Coleman’s (petitioner's co-defendant and wife) conviction of the murder of Kerry Brummett. The state trial court concluded that the Morgan statements were forgeries and that there are no original reports of which the movant’s'exhibits are accurate copies.
+
+
+
+      5
+
+[PARA b1005-7] . On October 23, 1987, Williams submitted an affidavit of Lynda Branch, an inmate serving a life sentence and an acquaintance of John Morgan, for the "non-hearsay purpose of impeaching the trial testimony of John Morgan, and the post-trial testimony of the proseuctor, concerning the ‘deal’ between Morgan and the State." The affidavit stated that Morgan told Branch that Morgan had lied at Williams’ trial about Williams’ involvement in the murder, in order to protect his half brother and his girlfriend.
+
+
+[PARA b1005-8] Williams does not attempt to rely upon this affidavit directly to support his request for ha-beas corpus relief. Notwithstanding this, the issues raised are not reviewable by this court because they were never presented to or reviewed by any state court. Williams has not alleged and the record does not show the existence of "cause” or "actual prejudice” which would overcome this procedural default. Furthermore, on its face, the credibility of this affidavit is suspect given that the affiant did not come forward until after Morgan’s death.
+
+
+
+      6
+
+[PARA b1005-13] . The presentation of this point by Williams is unclear. It was originally presented in his Traverse (Doc. 11, at 76-77) as another alleged example of favorable information suppressed by the State. However, in Williams’ reply brief (Doc. 22 at 40), Williams talks about knowing presentation of false testimony. No factual basis exists for concluding that Rea testified falsely regardless of whether or not she was threatened in order to obtain her testimony. In fact, Rea agreed that the prosecution told her "on many occasions I only want the truth from you on the witness stand.... ” Respondent’s Exhibit K; Movant’s Exhibit 7 at 894. Furthermore, this claim was presented to the state court as a claim of ineffective assistance of counsel, not as a suppression of evidence claim. Respondent’s Exhibit F-3 at 96, 32-33. Nevertheless, the State has waived Williams’ failure to exhaust state remedies on this claim. Document 20 at 6.
+
+
+
+      7
+
+[PARA b1012-8] . A report ostensibly prepared by Henry Hilke, Cedar City Chief of Police, was inconsistent in some respects with the State’s evidence. Hilke testified that this report was inaccurate because the events described occurred on a different date and that he did not personally prepare the report. Respondent’s Exhibit F-3 at 36.
+
+
+
+      8
+
+[PARA b1016-8] . The pertinent subsections read as follows:
+
+      (c) Form and Sufficiency of Motion. A motion to vacate a sentence must be submitted on a form substantially in compliance with the form appended hereto. The motion shall include every ground known to the prisoner for vacating, setting aside, or correcting his conviction and sentence. The prisoner shall verify the correctness of the motion, including the fact that he has recited all claims known to him.
+      (d) Successive Motions. The sentencing court shall not entertain a second or successive motion for relief on behalf of the prisoner where the ground presented in the subsequent application was raised and determined adversely to the applicant on the prior application or where the ground presented is new but could have been raised in the prior motion pursuant to the provisions of subsection (c) of this Rule. The burden shall be on the prisoner to establish that any new ground raised in a second motion could not have been raised by him in the prior motion.

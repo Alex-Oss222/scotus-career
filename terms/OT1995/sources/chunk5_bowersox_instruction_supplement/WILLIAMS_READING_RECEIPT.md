@@ -1,0 +1,21 @@
+# Williams instruction supplement — source-reading receipt
+
+Control source extraction; no Stone, private position, current model commitment, or current Supreme Court outcome was read or introduced in this follow-up. Only the previously known reporter citations and parent's narrow source questions were used. The initial sanitized extraction and retrospective addendum remain unchanged.
+
+## Complete readings
+
+1. **State v. Williams, 652 S.W.2d 102 (Mo. 1983).** Retrieved `https://static.case.law/sw2d/652/html/0102-01.html`. Personally read the entire CAP judicial casebody (7,819 extracted words), including caption and dates; complete principal opinion, all fifteen represented-counsel points and five pro se points; disposition/participation lines; all six principal-opinion footnotes; complete Welliver separate opinion and both of its footnotes. Printed judicial-writing pages 106–118. CAP headnotes and original scanned page images were not supplied. Text was read in three contiguous blocks through the end. The source confirms refusal of the first-degree instruction but does not enumerate all other instructions.
+
+2. **Williams v. Armontrout, 679 F. Supp. 916 (W.D. Mo. February 9, 1988).** Followed the exact already-established citation in 912 F.2d 924, because the direct-appeal opinion did not enumerate the actual instruction menu. Retrieved `https://static.case.law/f-supp/679/html/0916-01.html`. Personally read the complete CAP judicial casebody, 18,875 extracted words, printed pp. 921–949: caption/docket/date; introductory petition chronology; Part I; every subsection of Part II A–F; conclusion; all eight footnotes. This is the **second petition**, No. 86-0883-CV-W-9, not the January 1996 proceeding. No headnote or original-image coverage is claimed. Contiguous text reads covered lines 1–250, 251–500, 501–690, and 691 through the end. One tool response truncated a short portion of the Mealey credibility paragraph; an explicit reread of lines 365–377 cured it. The complete word-level reading is therefore not an excerpt-only claim.
+
+3. **Habeas Rule 11:** Read the complete operative Rule 11 and its complete advisory note in retained official `terms/OT1994/sources/oneal/1994-28usc2254.txt`, lines 686–710. This was a bounded operative-rule reading, not a claim to reread every rule or the entire Code. A local check for §2242's amendment paragraph produced no source text. The file named `USCODE-1994-title28.htm` in the prior retrieval directory was verified against its receipt as a GovInfo soft-404 and not used as law. No failed network query was repeated.
+
+4. **Foman and Schad:** Scoped source readers saved complete official PDFs, texts, clean notes, and reading receipts before their turns ended. Those artifacts were retained. This extractor additionally read the complete Foman text personally (371 U.S. 178–183, both notes and separate memorandum), its clean note and receipt; Schad's complete reading is certified by `SCHAD_RESEARCH_RECEIPT.md`, and this extractor read `SCHAD_SOURCE_SCOPE.md`. No false claim of a separate complete Schad rereading is made.
+
+## Checks and limits
+
+The actual instruction menu is quoted from 679 F. Supp. at 923, CAP `b991-5`, which expressly cites Williams's own Exhibit A-3 at 93–95. It is not drawn from the Mondaine discussion. The source distinguishes the actual second-degree instruction from the absent first-degree felony instruction; it supplies no warrant to identify the former as a second-degree felony-murder instruction.
+
+The source note distinguishes state review duty, conducted review, allegation of omitted comparison cases, and unknown Hicks formulation. It attributes no 1996 amendment-denial rationale. The 1988 opinion's unrelated denials of proposed state postconviction amendments concerning other claims are not imported as the basis for the 1996 federal amendment denial.
+
+Downloaded CAP HTML is retained byte-for-byte. Generated text adds paragraph IDs and printed-page markers and removes trailing whitespace; those markers are navigation, not part of the opinions. No original transcript, instruction sheet, 1996 petition, or district order was recovered. No new broad search, presumed litigant default, hypothetical filing, vote, or disposition was produced.

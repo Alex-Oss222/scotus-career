@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://static.case.law/sw2d/652/html/0102-01.html",
+    "purpose": "Specific pre-event State v. Williams trial instruction record; direct citation surfaced in previously read R3.",
+    "status": 200,
+    "bytes": 79578,
+    "final_url": "https://static.case.law/sw2d/652/html/0102-01.html"
+  },
+  {
+    "url": "https://static.case.law/f-supp/679/html/0916-01.html",
+    "purpose": "Specific second-petition district report already cited by R3; narrow check of actual Williams trial instruction menu not supplied by direct-appeal report.",
+    "status": 200,
+    "bytes": 190690,
+    "final_url": "https://static.case.law/f-supp/679/html/0916-01.html"
+  }
+]
