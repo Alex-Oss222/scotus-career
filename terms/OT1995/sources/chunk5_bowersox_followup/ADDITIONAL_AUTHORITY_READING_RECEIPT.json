@@ -1,0 +1,54 @@
+{
+  "scope": "Neutral pre-divergence source validation only; no vote, adjudication, or actual court-file completeness claim.",
+  "official_sources": [
+    {
+      "file": "Sanders_373US1_GovInfo.pdf",
+      "bytes": 2190175,
+      "sha256": "af7b4044460f7f600f41df99279d35023e65502edb6f94e998ca23e982ed245f"
+    },
+    {
+      "file": "Sanders_373US1_GovInfo.txt",
+      "bytes": 66449,
+      "sha256": "06a79d490dc9ebbe3bacdb44d513bf98ac969a2864331df039497b2a83d7d1c4"
+    },
+    {
+      "file": "Hopper_456US605_GovInfo.pdf",
+      "bytes": 2710749,
+      "sha256": "61e893db28b0c6b86f264c6f2977e0422df79419c3219ca15c6bec3b7593139f"
+    },
+    {
+      "file": "Hopper_456US605_GovInfo.txt",
+      "bytes": 20595,
+      "sha256": "899c1aa9bf91e77f7b5f43ebf18e10e33b6f9bf0baed29637da2bcd14b36fed3"
+    },
+    {
+      "file": "Pulley_465US37_GovInfo.pdf",
+      "bytes": 2924023,
+      "sha256": "a2696b1e2b28e25a2b28da40e776b7a989fe28fa945e6bcdc0d45a8ea07f9bb0"
+    },
+    {
+      "file": "Pulley_465US37_GovInfo.txt",
+      "bytes": 90070,
+      "sha256": "c56bc14f4a241c37e8e8f96b3877b5127796064c93fbe776240ce10a1ee1925d"
+    },
+    {
+      "file": "Hicks_447US343_GovInfo.pdf",
+      "bytes": 860904,
+      "sha256": "a08ff7d2942198e77b024070d857abaff87aaefbf275f2354209db8c9f1cde38"
+    },
+    {
+      "file": "Hicks_447US343_GovInfo.txt",
+      "bytes": 19561,
+      "sha256": "81f5127b5d360664ad49129a3e4a6b474f2b1956b1c00aef9960fa53864a801f"
+    }
+  ],
+  "reading_coverage": {
+    "Sanders": "Complete official report 373 U.S. 1\u201332 read by scoped authority validator; see SAME_GROUND_AUTHORITY_NOTE.md.",
+    "Hopper": "Complete official report 456 U.S. 605\u2013614, all writings and notes, read by neutral preparer.",
+    "Pulley": "Complete official report 465 U.S. 37\u201374, all writings and notes, read by neutral preparer.",
+    "Hicks": "Complete official report 447 U.S. 343\u2013351, all writings and notes, read by neutral preparer.",
+    "McCleskey": "Complete official report 499 U.S. 467\u2013529 read by scoped authority validator; see CAUSE_AUTHORITY_NOTE.md for its own hashes and CAP cross-check."
+  },
+  "neutral_packet_local_links": 13,
+  "missing_neutral_packet_links": []
+}
