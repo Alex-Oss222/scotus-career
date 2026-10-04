@@ -2,7 +2,7 @@
 
 ## Scope, law and chronology
 
-Current Court actions comprise 62 completed events and four enacted statutory sources (66 canonical Records). The April 9 Bowersox interim order is followed by a separate final action granting Missouri's application, 5–4, and vacating the March 8 appellate stay with immediate effect. The Supreme Court application is closed. The underlying appeal and any other lawful restraints are not adjudicated; no substitute stay, fixed grace period, execution order, writ disposition or appeal dismissal is entered. Actual transmission, service, responses and elapsed interim clocks are not presumed. Thirteen chunk 5 Court events and all twelve chunk 4 actions are recorded. Ayers's March 25 library-only writ was dismissed as improvidently granted, 8–1; this Court's review ends while the Fifth Circuit appeal and the district court's remedial jurisdiction remain available. The dismissal changes no substantive desegregation rule and leaves every decree provision undisturbed without merits affirmance. The completed March 27 and April 1 groups retain their respective common March 26 and March 27 entering-law baselines. Jones’s financial-leave motion and certiorari petition remain pending; Wood remains an open plenary grant. Maine No. 35 and Louisiana No. 121 retain implementation jurisdiction, alongside the five inherited open matters. These are the nine previously identified continuing matters. Ayers is no longer an open Supreme Court matter; its pending lower-court appeal is preserved. Shieh’s separate certiorari petitions, Nos. 95-7587, 95-7588 and 95-7589, are also pending after their three individual financial motions were granted; they are not three additional completed Court events. Bowersox, No. A-828, is closed by the final April 9 application order; its underlying appeal and any other lawful restraints are not adjudicated. Latest completed Court event: Miller, April 15, 1996. Next eligible inventory item: Cooper v. Oklahoma, April 16, chunk 6. The four admitted sources are the October 1, 1995 paternity amendment; Public Law 104-91 enacted January 6, 1996, with its covered period deemed to begin December 16, 1995; and Telecommunications Act §§302 and 551 enacted February 8, 1996, within their actual conditions and transitions.
+Current Court actions comprise 62 completed events and five admitted noncase-law sources (67 canonical Records). The April 9 Bowersox interim order is followed by a separate final action granting Missouri's application, 5–4, and vacating the March 8 appellate stay with immediate effect. The Supreme Court application is closed. The underlying appeal and any other lawful restraints are not adjudicated; no substitute stay, fixed grace period, execution order, writ disposition or appeal dismissal is entered. Actual transmission, service, responses and elapsed interim clocks are not presumed. Thirteen chunk 5 Court events and all twelve chunk 4 actions are recorded. Ayers's March 25 library-only writ was dismissed as improvidently granted, 8–1; this Court's review ends while the Fifth Circuit appeal and the district court's remedial jurisdiction remain available. The dismissal changes no substantive desegregation rule and leaves every decree provision undisturbed without merits affirmance. The completed March 27 and April 1 groups retain their respective common March 26 and March 27 entering-law baselines. Jones’s financial-leave motion and certiorari petition remain pending; Wood remains an open plenary grant. Maine No. 35 and Louisiana No. 121 retain implementation jurisdiction, alongside the five inherited open matters. These are the nine previously identified continuing matters. Ayers is no longer an open Supreme Court matter; its pending lower-court appeal is preserved. Shieh’s separate certiorari petitions, Nos. 95-7587, 95-7588 and 95-7589, are also pending after their three individual financial motions were granted; they are not three additional completed Court events. Bowersox, No. A-828, is closed by the final April 9 application order; its underlying appeal and any other lawful restraints are not adjudicated. Latest completed Court event: Miller, April 15, 1996. Next eligible inventory item: Cooper v. Oklahoma, April 16, chunk 6. The four previously admitted sources are the October 1, 1995 paternity amendment; Public Law 104-91 enacted January 6, 1996, with its covered period deemed to begin December 16, 1995; and Telecommunications Act §§302 and 551 enacted February 8, 1996, within their actual conditions and transitions.
 
 The opening law is the [Holdings doctrinal volumes](../../../state/holdings/INDEX.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md) and [Standing State](../../../state/STANDING_STATE.md), through the complete June 29, 1995 group. The [Composition register](../../../foundation/COURT_COMPOSITION.md) supplies membership, seniority and the August 3, 1994 circuit allotments. Current decisions and statutes below apply from their own effective dates and within their stated limits.
 
@@ -1920,3 +1920,55 @@ Supreme Court merits review of the assigned minor-notice question is complete. T
 The [published Eighth Circuit opinion, 63 F.3d 1452](https://static.case.law/f3d/63/html/1452-01.html), corroborated by [OpenJurist](https://openjurist.org/63/f3d/1452/planned-parenthood-sioux-falls-clinic-v-d-miller-w), supplies the lower judgment, enacted provisions and supported summary-judgment account: 1454–55 n.2 for notice and exceptions, 1460–61 n.9 for the abuse definition, 1461–63 for the declaration recitations and confidentiality discussion, and 1467–68 for the separate rulings. The lower decision quotes the District Court, 860 F. Supp. 1409, 1415–16.
 
 The declaration accounts and predictions retain their stated evidentiary character; the opinion does not find that every parent will obstruct care or every confidentiality safeguard will fail. The reporting-reference typography does not determine the decision. Review is confined to the identified minor-notice question, and April 15 is the assigned merits-decision date; no distinct oral-argument date is established.
+
+## Rule 57 — December 1, 1995 effective source
+
+The [Rule 57 source Record](../records/Rule_57_Federal_Rules_of_Criminal_Procedure_rule_amendment_1995-12-01.md) adds the fifth noncase-law source, effective December 1, 1995. Its local-form and actual-notice protections retain their exact limited subjects; pending-case application is qualified by justness and practicability. It changes no completed Court event, posture, national-rule deadline or automatic application to earlier conduct. The chronology cursor remains April 15, 1996 and the next Court matter is Cooper.
+
+## Event
+
+Federal Rule of Criminal Procedure 57, amended April 27, 1995, effective December 1, 1995, subject to the specified pending-case transition.
+
+## Participation
+
+No case-specific judicial participation attaches to this general procedural rule.
+
+## Public Action
+
+The amended district-court practice rule takes effect. This source entry issues no Court action in a case.
+
+## Judgment & Remedy
+
+No judicial judgment or remedy is entered.
+
+## Opinion Topology
+
+There is no merits opinion or separate writing.
+
+## Holdings
+
+The rule amendment creates no judicial holding.
+
+## Precedent Treatment
+
+No case precedent is treated by this source admission.
+
+## Law After Decision
+
+Rule 57(a)(1) permits district local rulemaking after appropriate public notice and opportunity to comment, requires consistency with—but no duplication of—Acts of Congress and rules adopted under 28 U.S.C. §2072, and requires conformity with any prescribed uniform numbering system. Under (a)(2), a local form requirement may not be enforced to cause loss of rights because of a nonwillful failure to comply.
+
+Under (b), a judge may regulate practice consistently with federal law, the criminal rules and district local rules. No sanction or other disadvantage may be imposed for noncompliance with a requirement outside federal law, federal rules and local district rules unless the alleged violator received actual notice of that requirement in the particular case. Subdivision (c) governs local-rule effectiveness, amendment or circuit-council abrogation, transmission and public availability.
+
+Effective December 1, 1995, the amendment governs all proceedings in criminal cases thereafter commenced and, insofar as just and practicable, all proceedings in criminal cases then pending. That qualification does not establish automatic application to earlier conduct, excuse noncompliance with a national rule, or adjudicate a particular pending case.
+
+## Separate Writings
+
+There are no judicial separate writings.
+
+## Procedure After Action
+
+No case changes stage, no sanction is lifted and no judgment is reopened by this entry. A particular application must satisfy the rule's subject matter, terms and qualified transition.
+
+## Source Notes
+
+[April 27, 1995 promulgation order and Rule 57, 514 U.S. 1161, 1165–1166](https://www.govinfo.gov/content/pkg/USREPORTS-514/pdf/USREPORTS-514-BackMatter-4.pdf); [House Document 104-65](https://www.govinfo.gov/content/pkg/CDOC-104hdoc65/pdf/CDOC-104hdoc65.pdf); [1996 Code, title 18 appendix, Rule 57 and historical notes](https://www.govinfo.gov/content/pkg/USCODE-1996-title18/html/USCODE-1996-title18-app.htm).
