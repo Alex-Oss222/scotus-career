@@ -1,0 +1,1582 @@
+Supreme Court, Us 
+FILED 
+
+
+DEC 5S 1995 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+UNITED Foop AND COMMERCIAL WORKERS UNION 
+LOCAL 751, PETITIONER 
+
+
+v. 
+
+
+BROWN GROUP, INC., D/B/A BROWN SHOE COMPANY 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE EIGHTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+AS AMICUS CURIAE SUPPORTING PETITIONER 
+
+
+Drew S. Days, III 
+
+
+THOMAS S. WILLIAMSON, JR. Solicitor General 
+Solicitor of Labor EDWIN S. KNEEDLER 
+ALLEN H. FELDMAN Deputy Solicitor General 
+Associate Solicitor ALAN JENKINS 
+NATHANIEL I. SPILLER Assistant to the Solicitor 
+Counsel for Appellate General 
+Litigation Department of Justice 
+MARK S. FLYNN Washington, D.C. 20530 
+Senior Appellate Attorney (202) 514-2217 
+
+
+Department of Labor 
+Washington, D.C. 20210 
+
+
+QUESTION PRESENTED 
+
+
+The Worker Adjustment and Retraining Notification 
+Act, 29 U.S.C. 2101 et seqg., requires covered employers to 
+give an employee union advance notice of a plant closing 
+or mass layoff, and expressly authorizes suits in federal 
+court by unions to obtain monetary relief on behalf of 
+their members for violations of the Act. The question 
+presented is whether a union has standing under Article 
+III of the United States Constitution to bring such a suit. 
+
+
+(I) 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+Interest of the United States ................ccccccccccseeeeerereeceee 1 
+LTD 2 
+a x 
+Argument: 
+
+
+A union representing employees affected by a 
+violation of the WARN Act has standing to sue 
+the employer to recover back pay and benefits 
+on behalf of the employees........................ccceeeeeees 10 
+
+
+A. Petitioner has direct standing in its own 
+
+right to sue respondent under the WARN 
+
+ES EEE 1] 
+B. Petitioner's WARN Act claim is consistent 
+
+with traditional forms of representational 
+
+
+iE 
+
+
+litigation 
+C. Petitioner has associational standing to sue 
+respondent under the WARN Act ................ 
+
+
+Conclusion ............. EE Ee 
+
+
+eS 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases: 
+
+
+Air Line Pilots vy. O'Neill, 494 U.S. 65 (1991) .......... 23 
+Allen v. Wright, 468 U.S. 737 (1984) ........... 6, 11, 17, 22 
+Anderson v. Mt. Clemens Pottery Co., 328 U.S. 680 
+
+ELAS ATED 27 
+Baker v. Carr, 369 U.S. 186 (1962) 0000000000000... 26 
+Breininger v. Sheet Metal Workers, 493 U.S. 67 
+
+SUIIIIIED eneiibaniinpdtenansentenenessessecnesseccesssseocssscccsecccoceseccoeses 23 
+Director, Office of Workers’ Compensation v. 
+
+Newport News Shipbuilding & Dry Dock Co., 
+
+a 28 
+Duke Power Co. v. Carolina Environmental Study 
+
+Group, 438 U.S. 59 (1978) .00..........cccccccccccescceeeeeeeeeee 26 
+First National Maintenance Corp. v. NLRB, 452 
+
+Sinn TITTY ceitidtecntestesssnsceenensececsesnsnsesscoscssee 16, 17, 25 
+Flast v. Cohen, 392 U.S. 83 (1968) .......................02. 22 
+
+
+(III) 
+
+
+IV 
+
+
+Cases—Continued: Page 
+
+Gladstone, Realtors v. Village of Bellwood, 
+
+a eee 11, 12, 14, 26 
+General Telephone Co. v. Equal Employment 
+
+Opportunity Commission, 446 U.S. 318 (1980) ..... 27, 28 
+Havens Realty Corp. v. Coleman, 455 U.S. 363 
+
+AOU cessnitisissiansindnmesaaieaiadianleameidiabatemmadd 12, 13, 17 
+Holden v. Hardy, 169 U.S. 366 (1898) .................. 25 
+Hunt v. Washington State Apple Advertising 
+
+Commission, 432 U.S. 333 (1977) .........ccccccccceeeeeeeees 5, 24 
+International Union v. Brock, 477 U.S. 274 
+
+SARTRE ESS SES 14, 16, 24, 26, 29 
+International Union vy. Hoosier Cardinal Corp., 
+
+SEB UB, GBB CIBGID nccceccccccocnsscssesccscsccsscecs 7, 20, 21, 23, 29 
+
+
+Laborers Health & Welfare Trust Fund v. 
+
+Advanced Lightweight Concrete Co., 484 US. 
+
+ ), 19 
+Linda R.S. v. Richard D., 410 U.S. 614 (1973)... 6, 11-12 
+Lujan v. Defenders of Wildlife, 504 U.S. 555 
+
+
+CETTE .....ccsssnnesstateemeamieamanaaialas 10, 14, 17, 18, 28 
+Muskrat v. United States, 219 U.S. 346 (191)) ..... 18 
+NLRB v. Gissel Packing Co., 395 U.S. 575 (1969) ..... 3 
+North Star Steel Co. v. Thomas, 115 8. Ct. 1927 
+
+CUTIE, ..scciesssniitiaianntiaeimaieniiaiiansiidecleatas timed 2, 12, 19 
+
+
+Northeastern Fla. Chapter of Associated Gen. 
+Contractors of Am. v. City of Jacksonville, 113 5. 
+
+
+Cd, BIE CBBTD ccececccceccccccscssecccscescsssncossesssserscsesssnsees 6, 12 
+Pasadena City Bd. of Educ. v. Spangler, 427 U.S. 
+
+a 28 
+Rostker v. Goldberg, 453 U.S. 57 (1981) .................0 11 
+Sierra Club v. Morton, 405 U.S. 727 (1972) ........... 12, 18 
+Simon v. Eastern Kentucky Welfare Rights Organ- 
+
+ization, 426 U.S. 26 (1976) .........ccccccceeeeeeeeeeeeeeneeeeees 24 
+Singleton v. Wulff, 428 U.S. 106 (1976) ..............00. 25 
+Trafficante v. Metropolitan Life Ins. Co., 409 US. 
+
+BIB CITED ccccenccccveccescccsccccvescescccecencsssesnscsnsacssssasseosses 12, 18 
+
+
+Cases—Continued: Page 
+
+
+Valley Forge Christian College v. Americans United 
+for Separation of Church and State, 454 U.S. 464 
+
+
+SUITE ntnistiahtitiiidetnniideiieatieairirpapentaiabieliinecescsenimmasntns 22, 26 
+Walters v. National Ass'n of Radiation Survivors, 
+aR ee ee ED ctetenerteptcccccmctnenersnninnectscmpen 11 
+Warth v. Seldin, 422 U.S. 490 (1975)...... 4, 6, 11, 18, 24, 26 
+Whitmore v. Arkansas, 495 U.S. 149 (1990) .............. 22 
+Constitution, statutes, regulations and rule: 
+Se I, Gs TEE cuccndenienteniennstinensmmnerenecseces passim 
+Black Lung Benefits Act, 30 U.S.C. 932(k) ................ 27-28 
+Civil Rights Act of 1964, Tit. VII, 42 U.S.C. 2000e 
+GB GBM, cccceysccsseccesnssccsccagssccascccesesssconsascsscosaneceseoescoeses 27 
+RT 27 
+Fair Housing Act of 1968, 42 U.S.C. 3601 et seq.: 
+§ 804(d), 42 U.S.C. BGO) 20........ccccccccceeeeeeeeeeseees 13 
+§ 812(a), 42 U.S.C. 3612(a) (1982) .............ccccceeee 12-13 
+Fair Labor Standards Act of 1938, 29 U.S.C. 201 
+GB GUND cennsecsnnsnnssssssecssssessscsssessesesecescscsssccesnsccnsoessesecs 26 
+Lk 28 
+Job Training Partnership Act: 
+ep EE UL, ccnesnsengeneunmnnenssasnenmmscneesssante 15 
+EOI, sccinrnstnscnennenneninmmmennneren 2 
+Labor Management Relations Act, 29 U.S.C. 141 
+et seq.: 
+ae arrears nacenreraemameeiin 7 
+to § Df) Se 20 
+Longshore and Harbor Workers’ Compensatior ‘.°. 
+a ey PE OD cerrmennepesnsnsesestansenennssscnnnscnesensnee 28 
+fk Aen 28 
+National Labor Relations Act, 29 U.S.C. 151 et seg. ... 3, 22 
+fF SO 3 
+OS ET 3, 16 
+Omnibus Trade and Competitiveness Act of 1988, 
+Pub. L. No. 100-418, 102 Stat. 1107 ......................00. 15 
+Railway Labor Act, 45 U.S.C. 152 .................ccccceceeeees 3 
+
+
+VI 
+Statutes, regulations and rule—Continued: Page 
+Worker Adjustment and Retraining Notification Act, 
+SD es BE OED, ccsescrscnssessnensnentiginnntnifeanatinemnes l 
+SD Ws ENED concnsnceinsesinznnenibiensentassvelvcnaeee 3, 22 
+ep ts HE ieenecneninnecessistnstansinstrarmenseneabidnseasennts 12 
+BP Fee ED crnssacecsccstcinsnciniiuceanserssiitinnstniies 2 
+BP Ce SEED cceccsenemmnsmniutninntsremeneniinaties 3, 25 
+I 15, 16 
+SP Se SIE cccncsesudutiensesenesnnnntebenionensmectedes 4 
+i ee 1, 3, 19 
+EO 3 
+CE 3 
+ee 1,4 
+BD Ws ED ctcncscsssessesssscnscesenenenees 3, 4, 7, 11 
+ee CR ED cnnnnnidearsriptunipnsniinasetasishiimesaiaids 1,4 
+ES een 1, 3,4 
+i ES IEEE cneccasnninadiionsinesnssstneingnntianseiesiens 2 
+20 C.F.R.: 
+ee = 16 
+eID ccucstcntstitsnnenesisiitenciniiiegmentnasitiiimmednienesanes 2 
+SP CEEEEEED cnscreccnrsuniscsenerereneemmmmminmensidinininiinale 2, 16 
+8 a eee eee 27 
+Miscellaneous: 
+134 Cong. Rec. (1988): 
+Oh, GEE? cchanennsiinidsnnensvetntmnennsinnaninnenentpueninnnaitiasens 14 
+1, Te cccesssussnssessastuanannscenssnsneneseninmemsisanmenes 15, 19 
+BD, GED cnstsesmnacnsnspantenranemnscnaninieeamestiovnnedinitnians 15, 16 
+Di EEG tbiitecnsenctutscteninensesensnntniageneinediiimmepminineensens 16 
+2, TEP GEEEED csascrmvensnsstestesnsinintoniatiimpngiamemnanes 16 
+a TEE? cctttcisenssnsensemiscnnteentiincsiminentinnninnainimeniin 20 
+De, GETEED cisevencarensscestansecssensenenepapaiatiamanienmsnsennesens 15, 20 
+H.R. 3, 100th Cong., Ist Sess. (1987) ...............cccc000 14, 15 
+H.R. Conf. Rep. No. 576, 100th Cong., 2d Sess. 
+GREEN coccsssnscamnmsensegennansenssqenignsnimepemasteinenrtensesumpennes 14 
+Report of the Secretary of Labor's Task Force on 
+Economic Adjustment and Worker Dislocation in 
+a Competitive Society (Dec. 1986) ...............c..0eeeeeeees 16 
+2 Restatement (Second) of Contracts (1981) ........... 21 
+
+
+S. Rep. No. 62, 100th Cong., Ist Sess. (1987) ........... 15, 16 
+
+
+Vil 
+
+
+Miscellaneous—Continued: 
+
+
+Barbara L. Schlei & Paul Grossman, Employment 
+Discrimination Law (2d ed. 1983) ........ccccccccccccceceees 
+13 C. Wright, A. Miller & E. Cooper, 
+Federal Practice and Procedure (1984) ................ 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+No. 15-340 
+
+
+UNITED FooD AND COMMERCIAL WORKERS UNION 
+LOCAL 751, PETITIONER 
+
+
+v. 
+
+
+BROWN GROUP, INC. D/B/A BROWN SHOE COMPANY 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE EIGHTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+AS AMICUS CURIAE SUPPORTING PETITIONER 
+
+
+INTEREST OF THE UNITED STATES 
+
+
+The Worker Adjustment and Retraining Notification 
+(WARN) Act, 29 U.S.C. 2101 et seg., requires covered 
+employers to give employee unions 60 days’ notice of a 
+plant closing or mass layoff. The Act expressly 
+authorizes federal suits by unions who represent 
+aggrieved employees, and provides that back pay and 
+benefits to such employees, the litigant’s costs and 
+attorney’s fees, and (under certain circumstances) a civil 
+penalty, “shall be the exclusive remedies for any 
+violation.” 29 U.S.C. 2104(b), 2104(a)(1), (3) and (6). 
+This case presents the question whether a union seeking 
+
+
+(1) 
+
+
+2 
+
+
+to utilize the WARN Act’s enforcement scheme in 
+federal court has standing under Article III of the 
+Constitution. 
+
+By holding that a union expressly authorized to sue 
+under the WARN Act lacked standing to do so, the court 
+of appeals effectively invalidated an important feature of 
+the Act. The United States has an interest in the proper 
+application of constitutional standing principles to the 
+federal cause of action created by Congress through the 
+WARN Act. In addition, the WARN Act grants the 
+Secretary of Labor authority to “prescribe such regula- 
+tions as may be necessary to carry out [the Act],” 29 
+U.S.C. 2107(a), and the Secretary has promulgated 
+regulations that “establish basic definitions and rules for 
+giving notice” under the Act. 20 C.F.R. 639.1(b). The 
+WARN Act’s notice provisions, moreover, are an impor- 
+tant part of dislocated worker assistance programs for 
+which the Department of Labor provides funding, stan- 
+dards, and assistance to the States. See Job Training 
+Partnership Act, Tit. III, 29 U.S.C. 1651 e@ seq.; 20 
+C.F.R. 639.1(f). The Secretary therefore has a sub 
+stantia] interest in furthering the policies and purposes of 
+the Act. The United States filed an amicus curiae brief 
+in North Star Steel Co. v. Thomas, 115 S. Ct. 1927 (1995), 
+which concerned the proper statute of limitations for 
+suits filed under the WARN Act. 
+
+
+STATEMENT 
+
+
+1. The WARN Act prohibits covered employers, with 
+exceptions not relevant here, from “order{ing) a plant 
+closing or mass layoff until the end of a 60-day period 
+after the employer serves written notice.” 29 U.S.C. 
+2102(a). See generally North Star Steel Co. v. Thomas, 
+115 S. Ct. 1927, 1929 (1995). The Act requires that the 
+employer serve notice “to each representative of the 
+
+
+3 
+
+
+affected employees * * * or, if there is no such 
+representative at that time, to each affected employee.” 
+29 U.S.C. 2102(a)(1). The Act defines “representative” 
+as “an exclusive representative of employees within the 
+meaning of section [9)(a) or [8)(f) of” the National Labor 
+Relations Act (NLRA), 29 U.S.C. 151 e seg. See 29 
+U.S.C. 2101(a)(4).' 
+
+An employer who violates the Act’s notice require- 
+ment “shall be liable to each aggrieved employee who 
+suffers an employment loss as a result of such closing or 
+layoff for * * * backpay for each day of violation,” 29 
+U.S.C. 2104(a)(1)(A), as well as certain employment 
+benefits, 29 U.S.C. 2104(a)(1)(B), for “the period of viola- 
+tion, up toa maximum of 60 days.” 29 U.S.C. 2104(a)(1). 
+The Act authorizes suits in district court by “{a] person 
+seeking to enforce such liability, including a representa- 
+tive of employees,” and further provides that the person 
+“may sue either for such person or for other persons 
+similarly situated, or both.” 29 U.S.C. 2104(a)(5). Sec- 
+tion 2104(b) of the Act provides that “{tJhe remedies pro- 
+
+
+' Section %a) of the NLRA provides in pertinent part: 
+
+
+Representatives designated or selected for the purposes of 
+collective bargaining by the majority of the employees in a unit 
+appropriate for such purposes, shall be the exclusive 
+representatives of all the employees in such unit for the purposes 
+of collective bargaining in respect to rates of pay, wages, hours of 
+employment, or other conditions of employment. 
+
+
+29 U.S.C. 15%a). Pursuant to Section %a), unions may be selected 
+through an election conducted by the National Labor Relations Board, 
+by obtaining authorization cards signed by a majority of the employees 
+within the unit, or by other methods that present “convincing evidence 
+of majority support.” NLRB v. Gissel Packing Co., 395 U.S. 575, 596 
+(1969). The term “representative” under the WARN Act includes 
+exclusive representatives under the Railway Labor Act, 45 U.S.C. 152. 
+See 29 U.S.C. 2101(a)4). 
+
+
+vided for in this section shall be the exclusive remedies 
+for any violation of this chapter.” 29 U.S.C. 2104(b).* 
+
+2. Petitioner is the exclusive representative of em- 
+ployees at a shoe manufacturing plant operated by re- 
+spondent. Pet. App. 13a-l14a; Compl. 4 5.° Petitioner 
+brought suit pursuant to 2104(a)(5) of the Act, alleging 
+that respondent failed to provide proper notice to it of 
+the closing of respondent’s Dixon, Missouri plant‘ and the 
+consequent layoff of 277 employees represented by peti- 
+tioner.° Compl. 44 6-7. Pursuant to Section 2104(a), peti- 
+tioner sought back pay and fringe benefits for each 
+aggrieved employee for each day of employment loss that 
+the employee suffered before the expiration of the sixty- 
+day notice period. Pet. App. 14a; Compl. 4 10a. Peti- 
+tioner also sought to recover its costs and attorney’s fees. 
+Pet. App. 14a; Compl. 4 10b. 
+
+
+2 In addition to back pay and benefits, prevailing plaintiffs may 
+recover costs and attorney’s fees. 29 U.S.C. 2104(aX6). An employer 
+who fails to give the requisite WARN Act notice to an affected unit of 
+local government “shall be subject to a civil penalty of not more than 
+$500 for each day of such violation.” 29 U.S.C. 2104(aX3). A local 
+government aggrieved under that provision may bring an action in 
+district court to recover the civil penalty. 29 U.S.C. 2104(a\5). 
+
+3% The district court’s decision was rendered on respondent's motion 
+to dismiss. The court was therefore required to accept all well-pleaded 
+
+
+allegations in the complaint as true. See Warth v. Seldin, 422 U.S. 490, 
+
+
+501 (1975). This statement of the facts reflects that procedural posture. 
+
+* Petitioner alleged that a January 17, 1992 letter stating that 
+respondent's plant would be closed beginning on March 20, 1992, was 
+improperly mailed to an employee of the international union, and that, 
+even if the notice was legally adequate, employees represented by 
+petitioner were discharged before the sixty-day statutory period had 
+elapsed. Pet. App. 2a; Compl. ¢4 7-9. 
+
+® Petitioner attached to its complaint, inter alia, a copy of its 
+collective bargaining agreement with respondent and a list naming 
+each of the 277 affected employees. Compl. App. A, ©. 
+
+
+5 
+
+
+3. The district court dismissed the action on the 
+ground that petitioner lacked standing to sue for back 
+pay and benefits for the affected employees. The court 
+acknowledged that the WARN Act expressly authorizes 
+such suits, but held that petitioner had failed to demon- 
+strate the minimum requirements for standing under 
+Article III of the Constitution. Pet. App. 14a. 
+
+Stating that petitioner “has not alleged any injury to 
+itself” (Pet. App. 14a), the court proceeded to consider 
+the standing question solely in terms of whether the 
+union could establish “associational” standing under the 
+three-part test articulated by this Court in Hunt v. 
+Washington State Apple Advertising Commission, 432 
+U.S. 333, 343 (1977). Under the Hunt test, the district 
+court explained, an organization has standing to raise 
+claims on behalf of its members if: (1) the organization’s 
+members would have standing to sue in their own right; 
+(2) the interests the organization seeks to protect are ger- 
+mane to the organization’s purpose; and (3) neither the 
+claim asserted nor the relief requested requires the 
+participation of individual members in the lawsuit. Pet. 
+App. l4a-l5a (citing Hunt, 432 U.S. at 343). The court 
+held that petitioner could not meet the third prong of the 
+Hunt test because it sought only monetary relief on be- 
+half of its members, and such claims would necessarily 
+require the participation of individual members in the 
+suit. Pet. App. 15a.° 
+
+
+6 The district court subsequently denied a motion to alter or amend 
+the judgment, in which petitioner asked the court to accord it standing 
+based on “the special nature of the relationship of a labor organization 
+* * * and its members” or, alternatively, to grant petitioner 30 days 
+in which to file an amended complaint seeking declaratory relief and 
+adding affected individual employees as parties. Pet. App. 17a. The 
+court declined to revisit its standing ruling, and denied petitioner's 
+request for leave to amend its complaint. /d. at 18a-19a. 
+
+
+6 
+
+
+4. The court of appeals affirmed. Pet. App. 1la-12a. 
+The court acknowledged that petitioner is an employee 
+representative statutorily entitled to bring suit under the 
+WARN Act. Jd. at 4a. The court observed, however, 
+that while “{a] federal statute may give a putative 
+plaintiff the right to bring suit, thus relieving him of the 
+judicially-created, prudential standing requirements, 
+* * * the party seeking to have his claim heard never- 
+theless must comply with the Article III constitutional 
+case or controversy requirements.” /d. at 4a-5a (cita- 
+tions omitted). 
+
+The court first considered the union’s direct standing 
+to seek monetary relief under the WARN Act. In doing 
+so, it analyzed whether petitioner had “alleg{ed] personal 
+injury fairly traceable to the defendant’s allegedly 
+unlawful conduct and likely to be redressed by the 
+requested relief.” Pet. App. 5a (quoting Allen v. Wright, 
+468 U.S. 737, 751 (1984)). The court concluded that peti- 
+tioner had satisfied the first two requirements. With re- 
+gard to the “injury” requirement, the court stated that 
+the “gravamen” of petitioner’s claim was the injury suf- 
+fered by its members. /d. at 5a. Nonetheless, the court 
+held that, construing the complaint liberally, it would 
+“assume” that the complaint’s allegation of failure to 
+receive notice under the WARN Act alleged an injury to 
+petitioner itself. Jd. at 6a. The court reasoned, more- 
+over, that because the “actual or threatened injury re- 
+quired by Art. III may exist solely by virtue of statutes 
+creating legal rights,” ibid. (quoting Warth v. Seldin, 422 
+U.S. 490, 500 (1975), quoting Linda R.S. v. Richard D., 
+410 U.S. 614, 617 n.3 (1973)), petitioner “[aJjrguably” had 
+“alleged ‘an invasion of a legally protected interest’ that 
+is concrete and actual.” Jd. at 6a (quoting Northeastern 
+Fla. Chapter of Associated Gen. Contractors of Am. v. 
+City of Jacksonville, 113 S. Ct. 2297, 2302 (1993)). The 
+
+
+court concluded that the second requirement—that the 
+injury be fairly traceable to the alleged conduct of the 
+defendant—was “not an issue in thfe] case.” Pet. App. 
+6a. 
+
+The court held, however, that the relief requested by 
+petitioner would not redress its asserted injury. Pet. 
+App. 6a-7a. Specifically, the court concluded that “[aJn 
+award of monetary damages to any aggrieved employees 
+would do nothing to remedy the alleged failure of notice 
+to [petitioner].” Jd. at 7a. The court further found that 
+petitioner’s request for “‘such other and further relief 
+on its behalf and that of the aggrieved employees as may 
+be proper,’” was “boiler-plate remedies language” that 
+failed to “comport{] with the constitutional requirements 
+of redressability.” bid. (quoting Compl. 4 10c). 
+
+The court of appeals distinguished /nternational Un- 
+ion v. Hoosier Cardinal Corp., 383 U.S. 696 (1966), in 
+which this Court found that a union had standing to 
+recover monetary damages for union members in a suit 
+under Section 301 of the Labor Management Relations 
+Act, 29 U.S.C. 185. The court reasoned that “[t]he union 
+had individual, direct standing [in Hoosier Cardinal 
+Corp.| because its cause of action arose from a contract to 
+which it was a party,” while here, “{iJn contrast, the 
+claims [petitioner] makes * * * are based on the WARN 
+Act, rather than on a collective bargaining agreement.” 
+Pet. App. 7a n.5. 
+
+In addition, the court of appeals agreed with the dis- 
+trict court that petitioner had not demonstrated asso- 
+ciational standing on behalf of its members because it did 
+not meet the third element of the Hunt test. Pet. App. 
+9a.’ The court noted that petitioner did not seek de- 
+
+
+7 The court determined that the other two elements of the Hunt 
+test were met. Section 2104(a)(5) of the WARN Act allows suits by 
+
+
+8 
+
+
+claratory or injunctive relief or damages for the union’s 
+own monetary loss, and that it did not have an assign- 
+ment from its members of their monetary claims. Jd. at 
+Ya-10a. The court also observed that, in determining the 
+appropriate back pay and benefits relief for any WARN 
+Act violation, the district court would have to analyze 
+each individual employee’s circumstances and determine 
+his or her date of termination, piecework pay rate, and 
+medical expenses, in order to calculate damages. Jd. at 
+10a. Because it believed that the relief petitioner sought 
+would require the participation of each aggrieved union 
+member, the court held that petitioner lacked associa- 
+tional standing. Jd. at 1la.* 
+
+
+SUMMARY OF ARGUMENT 
+
+
+A. In order to establish direct standing to sue in 
+federal court, a party must allege an injury to itself that 
+is fairly traceable to the defendant’s challenged conduct 
+and is likely to be redressed by the relief sought. 
+Petitioner’s claim satisfies that standard. 
+
+The WARN Act imposes a legal duty on covered em- 
+ployers to notify unions of plant closings, and expressly 
+authorizes suits by unions for breaches of that duty. The 
+
+
+union members who are aggrieved employees, and those employees 
+would be able to satisfy the Article III requirements of injury, 
+causation and redressability. Thus, the court concluded, petitioner's 
+members would have standing to sue in their own right. Pet. App. 8a. 
+The court also found that the interest in obtaining WARN Act notice of 
+a plant closure, and of redressing the loss of pay and benefits, suffered 
+by the employees it represents, is “germane” to petitioner’s purpose as 
+the exclusive bargaining agent with respect to the employees’ terms 
+and conditions of employment with respondent. Pet. App. 9a. 
+
+* The court of appeals also held that the district court acted within 
+its discretion in denying petitioner leave to amend its complaint. Pet. 
+App. 12a; see note 6, supra. Petitioner did not seek review of that 
+question in its petition for certiorari. 
+
+
+Act thereby affords unions a legal right, the invasion of 
+which satisfies the requirement of personal injury. In 
+enacting the WARN Act, moreover, Congress recognized 
+the tangible harm to unions that unannounced plant 
+closings cause, as well as the important role that properly 
+notified unions play in worker retraining and readjust- 
+ment efforts. An employer’s failure to provide notice as 
+required by the Act also impairs a union’s role as ex- 
+clusive bargaining representative under the federal labor 
+laws, and damages the union’s relationship with the em- 
+ployees it represents. 
+
+Petitioner’s allegation that respondent failed to pro- 
+vide adequate notice of the closing of its Dixon plant 
+clearly satisfies the requirement that the injury asserted 
+be fairly traceable to the defendant’s conduct. 
+
+The redressability requirement for standing is also 
+satisfied. Just as Congress may exercise its legislative 
+power to confer statutory rights, the invasion of which 
+creates an injury within the meaning of Article III, it has 
+authority to prescribe the remedies that will, in its 
+judgment, appropriately redress the infringement of 
+those rights. Here, Congress reasonably concluded that 
+the injury to a union’s role in the readjustment and 
+collective bargaining processes that is caused by a WARN 
+Act violation will be ameliorated by a remedy that im- 
+proves the fiscal security of its members. 
+
+B. Another factor relevant to the standing inquiry is 
+the extent to which a dispute is one traditionally thought 
+to be capable of judicial resolution. Because unions have a 
+pre-existing duty of fair representation toward members 
+of their bargaining unit, permitting them to litigate on 
+behalf of aggrieved employees is consistent with tradi- 
+tional forms of representational litigation, such as suits by 
+trustees, guardians, or “next friends.” 
+
+
+10 
+
+
+C. Petitioner’s suit also satisfies the constitutional re- 
+quirements for associational standing. Petitioner’s mem- 
+bers would have standing to sue in their own right, and 
+the interests petitioner seeks to protect are germane to 
+its statutory and organizational purposes. While the 
+court of appeals found petitioner to lack associational 
+standing because the relief it requested would require 
+the participation of individual employees, we believe that 
+the “individual participation” rule is a prudential con- 
+sideration that may be displaced by Congress. The rule 
+appears to derive from concerns about judicial man- 
+agement and litigation by third parties that this Court 
+has held to be prudential rather than constitutional in 
+nature. Moreover, the courts routinely entertain repre- 
+sentative suits for damages to aggrieved individuals 
+where Congress has authorized such litigation. 
+
+
+ARGUMENT 
+
+
+A UNION REPRESENTING EMPLOYEES AFFECTED BY 
+A VIOLATION OF THE WARN ACT HAS STANDING TO 
+SUE THE EMPLOYER TO RECOVER BACK PAY AND 
+BENEFITS ON BEHALF OF THE EMPLOYEES 
+
+
+Article III of the Constitution limits the jurisdiction of 
+the federal courts to “Cases” or “Controversies.” This 
+Court has defined that limitation through a number of 
+principles, including the requirement of standing. The 
+standing doctrine includes both constitutional and “pru- 
+dential” elements. The constitutional elements are “an 
+essential and unchanging part of the case-or-controversy 
+requirement of Article III.” Lujan v. Defenders of 
+Wildlife, 504 U.S. 555, 560 (1992). The prudential con- 
+siderations, by contrast, are aspects of “judicial self- 
+government,” ibid., by which “the judiciary seeks to 
+avoid deciding questions of broad social import where no 
+individual rights would be vindicated and to limit access 
+
+
+> 
+
+
+11 
+
+
+to the federal courts to those litigants best suited to assert 
+a particular claim.” Gladstone, Realtors v. Village of 
+Bellwood, 441 U.S. 91, 99-100 (1979). Accordingly, where 
+the requirements of Article III are satisfied, Congress 
+may, by legislation, permit litigation by parties “who 
+would otherwise be barred by prudential standing rules.” 
+Warth v. Seldin, 422 U.S. 490, 501 (1975). 
+
+In this case, there can be no question that Congress has 
+expressly authorized a union in petitioner’s position to 
+sue. See 29 U.S.C. 2104(a)(5). By holding that petitioner 
+nevertheless lacks standing to do so, the court of appeals 
+effectively held unconstitutional an important feature of 
+the WARN Act. “Judging the constitutionality of an Act 
+of Congress is properly considered ‘the gravest and most 
+delicate duty that this Court is called upon to perform.’” 
+Walters v. National Ass'n of Radiation Survivors, 473 
+U.S. 305, 319 (1985) (quoting Rostker v. Goldberg, 453 
+U.S. 57, 64 (1981)). Here, the court of appeals failed to 
+give the deference owed to the judgment of Congress 
+that a union is a proper party to vindicate the WARN 
+
+
+Act rights of employees it represents. 
+A. Petitioner Has Standing In Its Own Right To Sue 
+Respondent Under The WARN Act 
+
+
+In order to establish direct standing to sue in federal 
+court, a party must allege (1) “personal injury” that is 
+(2) “fairly traceable to the defendant’s allegedly unlawful 
+conduct” and (3) is “likely to be redressed by the re- 
+quested relief.” Allen v. Wright, 468 U.S. 737, 751 (1984). 
+Petitioner has satisfied each of these requirements. 
+
+
+1. It is well established that “(tJhe actual or threatened 
+_» injury required by Art. III may exist solely by virtue of 
+
+
+‘statutes creating legal rights, the invasion of which 
+creates standing.” Warth v. Seldin, 422 U.S. at 500 
+(quoting Linda R.S. v. Richard D., 410 U.S. 614, 617 n.3 
+
+
+12 
+
+
+(1973)); see also Havens Realty Corp. v. Coleman, 455 
+U.S. 363, 373 (1982); Trafficante v. Metropolitan Life 
+Ins. Co., 409 U.S. 205, 208-212 (1972). “[NJoneconomic 
+injuries,” moreover, “may suffice to provide standing.” 
+Gladstone, Realtors, 441 U.S. at 112; see also Sierra Club 
+v. Morton, 405 U.S. 727, 734-735 (1972). In this case, 
+petitioner alleged in its complaint that respondent failed, 
+in violation of Section 2102 of the WARN Act, to notify 
+the union that it planned to close its Dixon plant and 
+discharge 277 employees represented by petitioner. Pet. 
+App. 6a; Compl. 4 7. That contention clearly alleged the 
+“invasion of a legally protected interest” possessed by 
+petitioner, Northeastern Fla. Chapter of Associated Gen. 
+Contractors v. City of Jacksonville, 113 S. Ct. 2297, 2302 
+(1993), and satisfied the constitutional requirement of 
+personal injury. 
+
+Section 2102 imposes a legal duty on covered em- 
+ployers to provide a union 60 days’ notice of a plant 
+closing or mass layoff. See North Star Steel Co. v. 
+Thomas, 115 S. Ct. 1927, 1929 (1995). In so doing, the 
+provision confers on unions a corresponding right to 
+receive such notice at the time, and in the manner, re- 
+quired by the Act. The statutory right to notice created 
+by the WARN Act, moreover, falls comfortably within 
+the range of legal interests that this Court has recognized 
+as sufficient to confer standing. In Havens Realty, for 
+example, the Court considered the standing of various 
+individuals and organizations to sue under Section 812(a) 
+
+
+13 
+
+
+of the Fair Housing Act of 1968, 42 U.S.C. 3612(a).° The 
+Court concluded that, by making it unlawful under 
+Section 804(d) for a party covered by the Fair Housing 
+Act “[t]o represent [falsely] to any person because of race, 
+color, religion, sex, handicap, familial status, or national 
+origin that any dwelling is not available for inspection, 
+sale, or rental,” 42 U.S.C. 3604(d), and by making that 
+prohibition enforceable through Section 812(a), “Congress 
+has * * * conferred on all ‘persons’ a legal right to 
+truthful information about available housing.” Havens 
+Realty, 455 U.S. at 373. Accordingly, the Court found 
+that a “tester” plaintiff in Havens Realty who received 
+false housing information from a real estate agent had 
+standing to sue, notwithstanding the fact that “the tester 
+may have approached the real estate agent fully 
+expecting that he would receive false information, and 
+without any intention of buying or renting a home.” /d. 
+at 374." 
+
+The right to notice established by the WARN Act 
+closely parallels the right to truthful housing informa- 
+tion at issue in Havens Realty. There is no question, 
+moreover, that petitioner “has suffered injury in pre- 
+
+
+® Section 812(a) of the 1968 Act provides in pertinent part: 
+
+The rights granted by sections 3603, 3604, and 3606 of this title 
+may be enforced by civil actions in appropriate United States 
+district courts without regard to the amount in controversy and 
+in appropriate State or local courts of general jurisdiction. 
+
+42 U.S.C. 3612(a) (1982). 
+
+
+” In contrast, the Court held that a second tester, who did not 
+receive false information, “hald) alleged no injury to his statutory 
+right to accurate information concerning the availability of housing,” 
+Havens Realty, 455 U.S. at 375, and therefore lacked standing under 
+the Fair Housing Act. 
+
+
+14 
+
+
+cisely the form the statute was intended to guard 
+against.” 455 U.S. at 373. 
+
+Nor is the injury petitioner asserts merely a 
+“generalized grievance * * * common to all members of 
+the public.” Lujan v. Defenders of Wildlife, 504 U.S. at 
+575 (internal quotation marks omitted)."” As Congress 
+recognized when it passed the WARN Act, unions are 
+directly affected by mass layoffs of their members, and 
+they have an integral role to play in the coordination 
+of retraining, financial assistance, and other services, 
+before and after the displacement occurs. Cf. Jnterna- 
+tional Union v. Brock, 477 U.S. 274, 286 (1986) (by giving 
+unions a role in the administration of the trade 
+readjustment allowance benefit program, Congress “({rJec- 
+ognizied] the interest of organized labor in obtaining 
+benefits for its workers”). 
+
+Congress viewed prior notice of plant closings as essen- 
+tial to successful worker readjustment programs.” See, 
+
+
+" This aspect of the holding in Lujan was limited to “suits against 
+the Government.” 504 U.S. at 578. Accordingly, it remains an open 
+question what limits Article III imposes on Congress's ability to confer 
+standing on members of the public to challenge in court the conduct of 
+private parties. In any event, for the reasons we discuss herein, 
+Congress’s conferral of standing on the exclusive representative of 
+employees aggrieved by mass layoffs does not approach the outer 
+limits of congressional authority. 
+
+® Plant-closing provisions nearly identical to the WARN Act were 
+initially passed by Congress in an omnibus trade bill, H.R. 3, 100th 
+Cong., Ist Sess. (1987), that contained a worker adjustment program. 
+The plant-closing notification provisions of that legislation were 
+viewed as complementary to the worker adjustment program. See 
+H.R. Conf. Rep. No. 576, 100th Cong., 2d Sess. 1045 (1988) (“the 
+Conferees reaffirm that advance notice is an essential component of a 
+successful worker readjustment program and * * * [that] the two 
+Subtitles [pertaining to worker adjustment and plant closings) are 
+closely related”). The trade bill was vetoed by President Reagan, 
+
+
+15 
+
+
+e.g., 1384 Cong. Rec. 15,928 (Sen. Metzenbaum) (“(t)he 
+important element in our bill is to see to it that people 
+have the time to seek readjustment and retraining while 
+they are working”); id. at 15,518 (1988) (Sen. Chafee) 
+(WARN Act’s notice provision was designed to permit 
+“worker[s} and the community to prepare for the crisis, 
+to respond to the need for job placement, retraining, 
+education, financial assistance—all the demands that arise 
+in these situations”). Accordingly, Congress sought to 
+facilitate the beneficial role that unions play in the 
+readjustment process when they receive adequate notice. 
+See, e.g., S. Rep. No. 62, 100th Cong., Ist Sess. 1045 (1987) 
+(“A strong union role also generates trust and confidence 
+in the workforce about the overall utility of the 
+program.”); 134 Cong. Rec. 15,514 (1988) (Sen. Byrd) 
+(“every sector of the community—management, labor, 
+local government, and other local businesses—must be 
+given time to adjust to an unwanted and traumatic 
+business situation”) (emphasis added);” ibid. (Sen. Byrd) 
+
+
+largely because of the plant-closing provisions. 134 Cong. Rec. 
+12,130 (1988) (veto message). The trade bill was subsequently enacted 
+without the plant-closing provisions. See Pub. L. No. 100-418, 102 Stat. 
+1107. Congress passed the WARN Act, which contains provisions 
+nearly identical to the plant-closing provisions of H.R. 3, and the 
+President permitted the law to take effect without his signature. 
+There is thus a clear connection between plant notification provisions 
+and worker adjustment programs. See 29 U.S.C. 2102(a)(2) (requiring 
+employers to give notice of plant closing or mass layoff to state 
+dislocated worker unit designated or created under the Job Training 
+Partnership Act, 29 U.S.C. 1501 et seq.). 
+
+
+3 In addition to requiring notice to employee representatives and 
+employees, the WARN Act requires employers to give notice of plant 
+closings and mass layoffs to “the chief elected official of the unit of 
+local government within which [the] closing or layoff is to occur,” and 
+to “the State dislocated worker unit (designated or created under title 
+Ill of the Job Training Partnership Act ((JTPA)] (29 U.S.C. 1651 
+
+
+16 
+
+
+(“[The WARN Act] makes sense because it breaks new 
+ground in management-labor relations. * * * 
+Management and labor must forge a new relationship if 
+America is to compete against our foreign com- 
+petition.”); see also Report of the Secretary of Labor's 
+Task Force on Economic Adjustment and Worker Dis- 
+location in a Competitive Society 4 (Dec. 1986) (the Brock 
+Report) (“the most effective and successful dislocated 
+worker adjustment programs are those where the 
+employer and workers (and their unions if they are 
+present) are directly involved in the design and 
+delivery”) (emphasis added); see also S. Rep. No. 62, 
+supra, at 1045 (quoting foregoing language from Brock 
+Report)." 
+
+In addition, a central purpose of the employee-union 
+relationship that is recognized and facilitated by the 
+federal labor laws is the union’s participation in collective 
+bargaining negotiations on behalf of employees “in 
+respect to rates of pay, wages, hours of employment, or 
+other conditions of employment.” 29 U.S.C. 159%a) 
+(National Labor Relations Act); see Brock, 477 U.S. at 
+286. While an employer has no duty to bargain with its 
+employees’ union over its decision to terminate 
+operations at a given facility, or to initiate a partial shut- 
+down, First National Maintenance Corp. v. NLRB, 452 
+U.S. 666 (1981), it is required to bargain in good faith 
+
+
+et seq.]).” 29 U.S.C. 2102(aX2). Employer notice to state dislocated 
+worker units is a first step in the activation of employment and 
+training programs for dislocated workers under the JTPA. 20 C.F.R. 
+639.1(a) and (f ). 
+
+4 Supporters of the WARN Act repeatedly cited the Brock Report 
+as a source of empirical evidence of the beneficial effects of notice of 
+plant closings. See, e.g., 134 Cong. Rec. 15,518 (1988) (Sen. Gore); id. at 
+15,779 (Sen. Simon); id. at 15,782-15,784 (Sen. Riegle); S. Rep. No. 62, 
+supra, at 9. 
+
+
+17 
+
+
+regarding the effects of such a decision. Jd. at 681. 
+Where a sudden, unannounced plant closing or layoff 
+results in the termination of the employees that a union 
+represents, that role is frustrated. See Havens Realty, 
+455 U.S. at 379 & nn.20, 21 (frustration of organizational 
+function and activities sufficient to confer standing 
+where statutory right is infringed). 
+
+2. As the court of appeals correctly observed (Pet. 
+App. 6a), petitioner’s claim clearly satisfies the require- 
+ment that the injury asserted be “fairly traceable to the 
+defendant’s allegedly unlawful conduct.” Allen, 468 U.S. 
+at 751. Respondent’s failure to notify petitioner of the 
+impending plant closing at the time, and in the manner, 
+specified by the WARN Act resulted in a denial of peti- 
+tioner’s right to notice under the statute. 
+
+3. The redressability prerequisite for standing is also 
+met in this case. Just as Congress may exercise its 
+legislative power to confer statutory rights, the invasion 
+of which creates an injury within the meaning of the 
+Article III inquiry, it has authority to fashion remedies 
+that will, in its judgment, appropriately redress the 
+infringement of those rights. Indeed, where, as here, the 
+legal interest asserted did not exist prior to Congress’s 
+intervention, the right and remedy in question are 
+inextricably intertwined, and it is necessarily within Con- 
+gress’s power to create a remedial scheme that it deems 
+likely to redress a statutorily based harm.” Where Con- 
+gress expressly determines that a particular form of 
+relief will suitably compensate for or rectify the infringe- 
+ment of a right it has created, the entertainment of suits 
+
+
+% Cf. Lujan v. Defenders of Wildlife, 504 U.S. at 572 n.7 (“The 
+person who has been accorded a procedural right to protect his con- 
+crete interests can assert that right without meeting all the normal 
+standards for redressability and immediacy.”). 
+
+
+18 
+
+
+for such relief under the designated statutory framework 
+is in no way “inconsistent with the judicial function” 
+under Article III. Sierra Club, 405 U.S. at 732 n.3; see 
+Muskrat v. United States, 219 U.S. 346, 357 (1911) (cases 
+and controversies refer to “the claims of litigants brought 
+before the courts for determination by such regular 
+proceedings as are established by law or custom for the 
+protection or enforcement of rights, or the prevention, 
+redress, or punishment of wrongs”; a case exists when- 
+ever a claim “takes such form as the judicial power is 
+capable of acting upon it”). 
+
+In this case, the court of appeals found an inadequate 
+nexus between the right asserted and the remedy sought 
+because, in its view, “[aJn award of monetary damages to 
+any aggrieved employees would do nothing to remedy 
+the alleged failure of notice to [petitioner].” Pet. App. 
+7a. Contrary to the court of appeals’ assumption, how- 
+ever, the fact that the relief sought by petitioner will 
+have the effect of benefiting third parties (aggrieved 
+employees) does not lead to the conclusion that the relief 
+will not also remedy the injury alleged by petitioner. 
+See, e.g., Trafficante, 409 U.S. at 208-212 (housing 
+applicant’s statutory right not to be denied housing based 
+on race conferred on current residents a legal interest in 
+living in a racially integrated community); Lujan v. 
+Defenders of Wildlife, 504 U.S. at 578 (discussing 
+Trafficante); cf. Warth v. Seldin, 422 U.S. at 501 (where 
+Article III injury requirement is satisfied, “persons to 
+whom Congress has granted a right of action * * * may 
+have standing to seek relief on the basis of the legal 
+rights and interests of others, and, indeed, may invoke 
+the general public interest in support of their claim”). 
+
+Here, moreover, the third parties who will benefit 
+financially from the relief awarded by the court are not 
+strangers to the dispute. The WARN Act’s requirement 
+
+
+19 
+
+
+that notice be given to the union is ultimately for the 
+benefit of the employees it represents, and as we have ex- 
+plained, a primary aspect of the injury to unions in peti- 
+tioner’s position is an impairment of their ability to aid 
+aggrieved employees in obtaining retraining and place- 
+ment in new positions. See, eg., 134 Cong. Rec. 15,514 
+(1988) (Sen. Byrd) (“(The WARN Act] allows the 
+communities and the workers and management * * * 
+the opportunity to put into place retraining programs 
+while there is still time, while the workers are still getting 
+a paycheck.”) (emphasis added). The union’s ability to 
+recover for the employees the back pay and benefits 
+owed by the employer under the Act serves to make up 
+for the union’s inability to furnish timely assistance to 
+those employees, as a result of the employer’s violation. 
+The nature of the remedy in a case such as this thus is 
+precisely tailored to the nature of the violation: the 
+employer’s failure to give notice to the union for the 
+ber.efit of the employees gives rise to a suit by the union 
+for the benefit of the employees. In short, it requires no 
+leap of logie to conclude that ameliorating the 
+devastating economic impact of unannounced layoffs on 
+affected employees will also benefit the labor unions that 
+serve them. 
+
+The remedial scheme prescribed by the WARN Act 
+also has an important deterrent function that reinforces 
+the reasonableness of the remedial scheme. Cf. North 
+Star Steel, 115 S. Ct. at 1929 (referring to employer’s 
+liability for “penalties” under 29 U.S.C. 2104(a)(1)). The 
+Act’s relief provisions are designed in large part to 
+discourage employers from disregarding the advance 
+notice requirement. Cf. Laborers Health & Welfare 
+Trust Fund v. Advanced Lightweight Concrete Co., 484 
+U.S. 539, 547 (1988) (“Congress added [the Employee 
+Retirement Income Security Act’s] strict remedies to 
+
+
+20 
+
+
+give employers a strong incentive to honor their con- 
+tractual obligations to contribute” to employee pension 
+funds.). Indeed, Congress rejected an amendment to the 
+bill that would have permitted employers to provide 
+severance pay in lieu of prior notice.” 
+
+Back pay and benefits awards to affected employees 
+serve to ameliorate the damage to the union’s role in the 
+collective bargaining and worker readjustment processes 
+that results from a WARN Act violation. Unions 
+directly benefit from the availability of monetary dam- 
+ages against noncomplying employers because the pro- 
+spect of an award of damages, like an injunction, serves 
+to deter violations, and thereby to safeguard the role of 
+unions generally when plant closings and mass layoffs 
+occur. And because the employees will have dispersed 
+after the violation, the union often may be in the best 
+position to effectuate the remedial and deterrent pur- 
+poses of the Act by ensuring that the employer will not 
+avoid its liability to some or all of the employees it 
+injured. 
+
+4. Contrary to the court of appeals’ conclusion (Pet. 
+App. 7a-8a n.5), International Union v. Hoosier Cardinal 
+Corp., 383 U.S. 696 (1966), strongly supports union 
+standing in this case. In Hoosier Cardinal, the Court 
+held that a union had standing under Section 301(b) of 
+the Labor Management Relations Act” to seek wages and 
+
+
+In opposing an amendment by Senator Quayle that would have 
+permitted employers to comply with the Act by giving “severance pay 
+in lieu of notice,” 134 Cong. Rec. 15,926 (1988), Senator Metzenbaum, 
+the Act's principal sponsor in the Senate, emphasized that “the bill is 
+about giving notice. It is not a mandatory severance bill.” /d. at 
+15,928. 
+
+" Section 301(b) provides in pertinent part that “{aJny * * * labor 
+organization may sue * * * in behalf of the employees whom it 
+represents in the courts of the United States.” 29 U.S.C. 185(b). 
+
+
+21 
+
+
+vacation pay on behalf of employees for the violation of a 
+collective bargaining agreement to which the union was a 
+party. 383 U.S. at 699-700. The court below sought to 
+distinguish Hoosier Cardinal on the ground that there 
+the union alleged the breach of a collective bargaining 
+agreement, while here petitioner alleges a violation of an 
+Act of Congress. Pet. App. 7a-8a n.5. In each case, 
+however, the union relied on Congress’s determination 
+that it could sue for back pay in order to vindicate its 
+representational interests. That the right asserted by the 
+union in this case is statutory rather than contractual has 
+no bearing on the question of Article III standing.” 
+
+Indeed, the right and remedy that arise from the 
+WARN Act are comparable in significant respects to the 
+operation of third-party-beneficiary contracts. Because 
+the union’s legal interest in both situations is in securing 
+economic benefits for third parties (aggrieved employ- 
+ees), the remedy best tailored to redressing an infringe- 
+nent of the union’s interest is payment by the employer 
+to the employees of the amounts owed to them, whether 
+under a contract entered into by the union or under a 
+statute in which Congress has given the union a com- 
+parable role.” 
+
+
+Moreover, in Hoosier Cardinal, the contract the union sued to 
+enforce was itself entered into pursuant to a statute (the NLRA) 
+enacted by Congress to regulate the collective-bargaining process. 
+
+' See 2 Restatement (Second) of Contracts § 305, at 451-452 (1981): 
+
+
+The promisee of a promise for the benefit of a beneficiary has the 
+same right to performance as any other promisee, whether the 
+promise is binding because part of a bargain, because of his 
+reliance, or because of its formal characteristics. If the promisee 
+has no economic interest in the performance, as in many cases 
+involving gift promises, the ordinary remedy of damages for 
+breach of contract is an inadequate remedy, since only nominal 
+
+
+22 
+
+
+B. Petitioner's WARN Act Claim is Consistent With 
+Traditional Forms of Representational Litigation 
+
+
+Another consideration relevant to the standing inquiry 
+is the extent to which the dispute at issue is one 
+“traditionally thought to be capable of resolution through 
+the judicial process.” Allen v. Wright, 468 U.S. at 752 
+(quoting Flast v. Cohen, 392 U.S. 83, 97 (1968)); see also 
+Valley Forge Christian College v. Americans United For 
+Separation of Church and State, 454 U.S. 464, 472-473 
+(1982). A union’s cause of action under the WARN Act 
+is consistent with the many instances recognized in the 
+law in which a party is authorized to represent the 
+interests of another with whom it has a legally significant 
+relationship. “Trustees, guardians, and personal repre- 
+sentatives are familiar examples” of well accepted legal 
+surrogates, 13 C. Wright, A. Miller & E. Cooper, Federal 
+Practice and Procedure § 3531.9, at 627 (1984), as are 
+persons authorized to sue as “next friend” of a third 
+party. See Whitmore v. Arkansas, 495 U.S. 149, 161-162 
+(1990) (noting that “the concept of ‘next friend’ standing 
+* * * has long been an accepted basis for jurisdiction in 
+certain circumstances”). In each of those instances, 
+courts allow one party to sue on another’s behalf because 
+the litigant has an independent duty to pursue the third 
+party’s interests arising from “some significant relation- 
+ship” with that party. Jd. at 164. 
+
+The statutory relationship between unions and the em- 
+ployees they represent fits well within the historical 
+tradition of representational litigation. The WARN Act 
+adopts its definition of “representative” from the Na- 
+tional Labor Relations Act (NLRA), 29 U.S.C. 151 ef seg. 
+See 29 U.S.C. 2101(a)(4). Under the NLRA, unions are 
+
+
+selected by employees within a collective bargaining unit 
+through methods endorsed by Congress, see note 1, 
+supra, and they are recognized by an administrative 
+agency—the National Labor Relations Board—as the 
+exclusive representatives of those employees in the 
+collective bargaining process. 
+
+The NLRA imposes on a union a duty of fair rep- 
+resentation to unit employees that this Court has 
+described as “akin to the duty owed by other fiduciaries 
+to their beneficiaries.” Air Line Pilots v. O'Neill, 499 
+U.S. 65, 75 (1991). That duty includes “a statutory 
+obligation to serve the interests of all members without 
+hostility or discrimination toward any, to exercise its 
+discretion with complete good faith and honesty, and to 
+avoid arbitrary conduct.” Vaca v. Sipes, 386 U.S. 171, 
+177 (1967). The obligation is a continuing one and is not 
+strictly limited to matters of contract administration. 
+See, ¢.g., Breininger v. Sheet Metal Workers, 493 U.S. 67, 
+87-89 (1989) (duty applies where union operates a hiring 
+hall). 
+
+In light of that legislative background, Congress's de- 
+signation of labor unions to represent employees’ rights 
+under the WARN Act is unremarkable. A union’s inde- 
+pendent duty to represent employees’ interests in the 
+work place makes it a particularly appropriate party to 
+litigate those employees’ rights in the context of unan- 
+nounced layoffs or plant closings. Cf. Hoosier Cardinal, 
+383 U.S. at 700 (“[I)ndeed, the union's standing to 
+vindicate employee rights under §301 [of the Labor 
+Management Relations Act] implements no more than 
+the established doctrine that the union’s role in the 
+collective bargaining process does not end with the 
+making of the contract.”). 
+
+
+24 
+
+
+C. Petitioner Has Associational Standing to Sue 
+Respondent Under The Warn Act 
+
+
+For the reasons discussed above, petitioner has stand- 
+ing, both in its own right and in a statutorily conferred 
+representational capacity, to challenge respondent's fail- 
+ure to provide notice under the WARN Act and to seek 
+the statutory remedy of back pay and benefits for 
+aggrieved employees. As we shall now explain, peti- 
+tioner’s suit also satisfies the requirements of Article III 
+under the doctrine of associational standing. 
+
+“It has long been settled that ‘[e]ven in the absence of 
+injury to itself, an association may have standing solely as 
+the representative of its members.’” Brock, 477 U.S. at 
+281 (quoting Warth v. Seldin, 422 U.S. at 511). Although 
+the invocation of associational standing “does not elimi- 
+nate or attenuate the constitutional requirement of a case 
+or controversy,” Warth v. Seldin, 422 U.S. at 511, the 
+Court has held that, “under certain circumstances, injury 
+to an organization’s members will satisfy Article III and 
+allow that organization to litigate in federal court on 
+their behalf.” Brock, 477 U.S. at 281; see also Hunt v. 
+Washington State Apple Advertising Comm'n, 432 U.S. 
+333, 343 (1977); Simon v. Eastern Kentucky Welfare 
+Rights Organization, 426 U.S. 26, 40 (1976). 
+
+The Court has held that an association has standing to 
+bring suit on behalf of its members when: 
+
+(a) its members would otherwise have standing to 
+sue in their own right; (b) the interests it seeks to 
+protect are germane to the organization's purpose; 
+and (c) neither the claim asserted nor the relief 
+requested requires the participation of individual 
+members in the lawsuit. 
+
+Brock, 477 U.S. at 282. See also Hunt, 432 U.S. at 343; 
+Warth v. Seldin, 422 US. at 511. 
+
+
+In this case, the first and second requirements are 
+
+
+plainly satisfied. The aggrieved employees represented 
+by petitioner were directly affected by respondent's al- 
+legedly deficient notice, and they would unquestionably 
+benefit (in a manner contemplated by the Act) from a 
+back pay award. See Pet. App. 8a. The interests the 
+union seeks to protect through this litigation, moreover, 
+are germane both to petitioner’s role as an exclusive 
+bargaining representative, and to its status as the 
+intended recipient of plant-closing and layoff notification 
+under the WARN Act. 29 U.S.C. 2102(a)(1). See Pet. 
+App. 8a-9a. The decision to cease operations or lay off 
+employees en masse “touches on a matter of central and 
+pressing concern to the union and its member 
+employees.” First National Maintenance, 452 U.S. at 
+677. 
+
+The court of appeals concluded that the third re- 
+quirement for associational standing was not met because, 
+in its view, the back pay remedy authorized by the 
+WARN Act would require the participation of individual 
+employees in the lawsuit. Pet. App. 10a. In our view, 
+however, the concern expressed in associational standing 
+cases regarding the need for individualized proof is of 
+prudential, rather than constitutional, dimensions. Any 
+such impediment therefore is displaced in WARN Act 
+suits by Congress’s express authorization for a union to 
+bring an action for damages. 
+
+The “individual participation” rule appears to derive 
+from the concern that “[tJhe courts depend on effective 
+advocacy, and therefore should prefer to construe legal 
+rights only when the most effective advocates of those 
+rights are before them.” Singleton v. Wulff, 428 U.S. 
+106, 114 (1976) (Blackmun, J.); see also Holden v. Hardy, 
+169 U.S. 366, 397 (1898) (assertion of third parties’ rights 
+would come with “greater cogency” from the third 
+
+
+26 
+
+
+parties themselves). The Court has stated repeatedly, 
+however, that the “third-party standing” prohibition, 
+which responds to that concern, is a prudential dictate. 
+See, e.g., Valley Forge Christian College, 454 U.S. at 474; 
+Gladstone, Realtors, 441 U.S. at 99; Duke Power Co. v. 
+Carolina Environmental Study Group, 438 U.S. 59, 80 
+(1978). Accordingly, the analogous rule concerning the 
+possible need for individual participation in a_ suit 
+brought by an association is similarly prudential in nature 
+and is not a barrier when a statute such as the WARN 
+Act expressly authorizes an organization to recover a 
+money judgment for the benefit of aggrieved individuals. 
+
+In addition, the “individual participation” rule’s focus 
+on the form—as opposed to the substance—of a plaintiff's 
+proof implicates judicial management concerns charac- 
+teristic of prudential standing requirements. See Warth 
+v. Seldin, 422 U.S. 515 (noting potential difficulties of 
+administering monetary relief to aggrieved individuals in 
+an associational suit); see also 13 C. Wright, A. Miller & 
+E. Cooper, Federal Practice and Procedure § 3531.9, at 
+621 (1984) (suggesting that the individual participation 
+rule may be based on the “significant burden [that] might 
+be entailed by the need [for the court] to supervise distri- 
+bution of any recovery from the organization to its 
+injured members”). While the pragmatic issues sur- 
+rounding the litigation of claims for individualized relief 
+are clearly relevant to judicial self-governance, they do 
+not diminish “that concrete adverseness” on which Arti- 
+cle III standing depends. Brock, 477 U.S. at 289 (quoting 
+Baker v. Carr, 369 U.S. 186, 204 (1962)). 
+
+The courts frequently entertain representative litiga- 
+tion under back pay statutes created by Congress. For 
+example, in litigation under the Fair Labor Standards 
+Act, 29 U.S.C. 201 et seg., courts commonly permit the 
+testimony of a few representative employees in order to 
+
+
+27 
+
+
+provide a basis for establishing back pay awards for all 
+affected employees. See generally Anderson v. Mt. Cle- 
+mens Pottery Co., 328 U.S. 680 (1946). More generally, 
+class actions brought pursuant to Rule 23 of the Federal 
+Rules of Civil Procedure are not limited to suits for 
+declaratory or injunctive relief. Rather, named plaintiffs 
+in such suits may litigate the case on behalf of the class, 
+irrespective of whether individual class members must 
+ultimately testify as to questions of liability or relief.” 
+See, e.g., Barbara L. Schlei & Paul Grossman, Employ- 
+ment Discrimination Law 1322 & 1454 (2d ed. 1983) 
+(describing litigation of class-wide disparate treatment 
+claims under Title VII of the Civil Rights Act of 1964, 42 
+U.S.C. 2000e et seq.). While this Court has not expressly 
+passed on the adequacy of such litigation schemes under 
+Article III, their prevalence in the modern legal land- 
+escape strongly suggests that they are within Congress’s 
+authority to create. 
+
+Similarly, a number of federal statutes expressly 
+authorize federal officials or agencies to sue in federal 
+court in order to recover monetary relief for aggrieved 
+individuals. For example, in General Telephone Co. v. 
+Equal Employment Opportunity Commission, 446 U.S. 
+318 (1980), the Court held that Title VII of the Civil 
+Rights Act of 1964, 42 U.S.C. 2000e-5(f)(1), authorizes 
+the EEOC to seek back pay relief on behalf of “those 
+persons adversely affected” by unlawful employment 
+discrimination “in an amount to be proved at trial.” 446 
+U.S. at 324; see also Black Lung Benefits Act (BLBA), 30 
+
+
+» Class actions differ in significant respects from suits premised on 
+associational standing. In both categories of cases, however, 
+a representative may establish unlawful conduct and seek relief on be- 
+half of third parties in a proceeding in which individualized proof is 
+required. 
+
+
+28 
+
+
+U.S.C. 932(k) (“The Secretary shall be a party in any 
+proceeding relative to [a] claim for benefits.”); Fair 
+Labor Standards Act, 29 U.S.C. 216 (authoriz- 
+ing Secretary of Labor to bring actions “to recover the 
+amount of unpaid minimum wages or overtime com- 
+pensation and an equal amount as liquidated damages”). 
+
+In Director, Office of Workers’ Compensation Pro- 
+grams v. Newport News Shipbuilding & Dry Dock Co., 
+115 S. Ct. 1278, 1286 (1995), the Court considered 
+whether the Longshore and Harbor Workers’ Com- 
+pensation Act (LHWCA), 33 U.S.C. 901 e seq., confers 
+standing on the Director of the Office of Workers’ 
+Compensation Programs in the Department of Labor to 
+seek judicial review of the denial of disability benefits to 
+individuals by the Benefits Review Board. The Court 
+held that the Director did not fall within the definition of 
+“person{s] adversely affected or aggrieved” by the 
+Board’s decision, to whom the statute granted a right to 
+judicial review. 33 U.S.C. 921(c). The Court observed, 
+however, that Congress has the constitutional authority 
+to confer such standing on federal officials when it 
+chooses to do so. Relying on its decisions in General 
+Telephone Co., supra, and Pasadena City Bd. of Educ. v. 
+Spangler, 427 U.S. 424 (1976), the Court concluded in 
+Newport News that “[tJhose two cases certainly establish 
+that Congress could have conferred standing upon the 
+Director without infringing Article [I] of the 
+Constitution; but they do not at all establish that Congress 
+did so.” 115 S. Ct. at 1286. 
+
+In light of the separation of powers concerns that 
+underlie the doctrine of standing, see Lujan v. Defenders 
+of Wildlife, 504 U.S. at 560, and because the federal gov- 
+ernment represents the public interest in litigation to 
+which it is a party, standing principles applicable to fed- 
+eral officials and agencies may not be entirely transfer- 
+
+
+rable to suits between private parties. Nonetheless, the 
+Court’s recognition of the appropriateness of enter- 
+taining suits brought by the government for individual- 
+ized relief that benefits aggrieved third parties strongly 
+supports the conclusion that the individual participation 
+aspect of associational standing doctrine in private litiga- 
+tion is prudential in nature. 
+
+Finally, the relationship between a union and the in- 
+dividual employees it represents makes the former an 
+appropriate party to assert the latter’s interests in obtain- 
+ing monetary relief under the WARN Act. As pre- 
+viously noted, the federal labor laws impose on unions a 
+duty of fair representation. See generally Vaca v. Sipes, 
+supra; see also Hoosier Cardinal, 383 U.S. at 700. 
+Unions, moreover, bring to WARN Aet litigation “a pre- 
+existing reservoir of expertise and capital,” as well a 
+“specialized expertise and research resources relating 
+to the subject matter of the lawsuit” that in- 
+dividual plaintiffs—here, unemployed workers—often 
+lack. Brock, 477 U.S. at 286 (internal quotation marks 
+omitted).“” Where, as here, Congress has expressly 
+designated a party as a proper guardian of the rights of 
+its members before the courts, Article III] does not 
+require that that choice be rejected. 
+
+
+21 As the Court recognized in Brock, 477 U.S. at 290, there may be 
+cases in which an organization asserting associational standing will be 
+unable to represent adequately the interests of all of its injured 
+members. In such cases, the Court observed, “a judgment won against 
+[the association] might not preclude subsequent claims by the 
+association's members without offending due process principles.” /bid. 
+In the present case, however, there is no indication that the union will 
+not adequately represent the legal interests of aggrieved employees. 
+
+
+30 
+
+
+CONCLUSION 
+
+
+The judgment of the court cf appeals should be reversed, 
+and the case should be remanded for proceedings on the 
+merits of petitioner’s claims. 
+
+
+Respectfully submitted. 
+
+
+Drew §S. Days, III 
+
+
+THOMAS S. WILLIAMSON, JR. Solicitor General 
+Solicitor of Labor EDWIN S. KNEEDLER 
+ALLEN H. FELDMAN Deputy Solicitor General 
+Associate Solicitor ALAN JENKINS 
+NATHANIEL I. SPILLER Assistant to the Solicitor 
+Counsel for Appellate General 
+Litigation 
+MARK S. FLYNN 
+Senior Appellate Attorney 
+
+
+Department of Labor 
+
+
+DECEMBER 1995 
+
+

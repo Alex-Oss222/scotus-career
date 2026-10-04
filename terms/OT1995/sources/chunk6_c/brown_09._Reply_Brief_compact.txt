@@ -1,0 +1,922 @@
+FOR ARGUMENT | 
+In THE 
+Supreme Court of the United States 
+OCTOBER TERM, 1995 
+UNITED FooD AND COMMERCIAL WORKERS 
+UNION LOCAL 751, 
+. Petitioner, 
+BROWN Group, INC., d/b/a BROWN SHOE COMPANY, 
+Respondent. 
+On a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Eighth Circuit 
+REPLY BRIEF FOR PETITIONER 
+JONATHAN P. HIATT GEORGE MURPHY 
+815 16th Street, N.W. RENEE L. BOWSER 
+Washington, D.C. 20006 1775 K Street, N.W. 
+MARSHA S. BERZON Washington, D.C. 20006 
+Scott A. KRONLAND LAURENCE GOLD 
+MARY LYNNE WERLWAS (Counsel of Record) 
+177 Post Street, Suite 300 1000 Connecticut Avenue, N.W. 
+San Francisco, CA 94108 Washington, D.C. 20036 
+(202) 833-9340 
+WILSON - Eres PrinTtiNG Co., Inc. - 789-0096 - WASHINGTON, D.C. 20001 
+® £5 %. 
+° te 
+TABLE OF AUTHORITIES 
+Cases 
+Statutes 
+Page 
+Astoria Fed. Sav. & Loan Assa’n v. Solomino, 501 
+U.S. 104 (1991) | Sh A en Gl a 2 
+Blair v. Southern Clay Mfg. Co., 121 SW. 2d 570 
+Ss, SO 16 
+Croker v. New York Trust Co., 156 N.E. 81 (N.Y. 
+a aa a ne 16 
+Drewen v. Bank of Manhattan Co. of City of New 
+York, 155 A. 2d 529 (N.J. Sup. Ct. 1959) 16 
+Fast v. Cohen, 392 U.S. 83 (1968) ... 18,17 
+General Telephone Co. v. E.E.0.C., 446 U.S. 318 
+PRR LR ERIN pian Le Ge ES a ERS Pe Se 17 
+Havens Realty Corp. v. Coleman, 455 U.S. 363 
+(1982) ....... Te See FO TRIE AE MET EE intel OE 8,9 
+Hunt v. Washington State Apple Advertising 
+Comm’n, 482 U.S. 388 (1977) ................-22.....--.. . 17,19 
+International Union UAW v. Brock, 477 U.S. 274 
+(1986) . th 18 
+International ‘Union UAW | v. - Hoosier Cardinal 
+Corp., 383 U.S. 696 (1966) . 17 
+Lujan v. Defenders of Wildlife, 504 U.S. 555 
+ERR ES SEI Rice rar AOR es Cad RR EN Se ot =o BEY 12, 13, 14, 15 
+Moskal v. United States, 498 U.S. 103 (1990) ~ 
+Robles v. EPA, 484 F.2d 843 (4th Cir. 1973) 9 
+Valley Forge Christian College v. Americans 
+United for Separation of Church & State, Inc., 
+re re ee a Scien 14 
+Warth v. Seldin, 422 U.S. 490 (1975)... 17. 18, 19 
+White v. Arlen Realty Development Corp., 540 
+ae GE COED TIS CIID ccersticencsseenesseteessencindabcdininas 9 
+Worker Adjustment and Retraining Notification 
+Act, 29 U.S.C. §§ 2101-2104: 
+§ 2102(a) ........... aaa beg ben akan Sie taddi ie 9 
+I —— 
+ER He i ee OE REO ETE Ee = 1,3, 4 
+§ 2104 (a) (3) —.......... sssielbihasiesebctidalietaadatiadhdctianee mites 1,3 
+§ 2104 (a) (5) _.... sonoaheit iiaieiediiiaentenin imental passim 
+IER ER Re io a 1 
+IED scccdesctssintipihauitians ila ae i a Ps 2 
+ii 
+TABLE OF AUTHORITIES—Continued 
+Page 
+Freedom of Information Act, 5 U.S.C. § 552 et 
+NERS Nite aie Ra Ae aA a AE rc st] 
+Truth in Lending Act, 15 U.S.C. § 1601 et 8eqj......... 9 
+Constitution 
+Article IIT a ) | _... passim 
+Legislative Materials 
+H.R. 1122 (100th Cong., Ist Sess. 1987) fh 
+IL.R. 1616 (99th Cong., Ist Sess.) (March 20, 
+ED ncccocesnnes 1 
+IL.R. 1616 (99th Cong. Ist Sess.) (Oct, 29 , 1985 i. 4 
+I1.R. 1616 (99th Cong., Ist Sess.) (Nov. 14. 1985). 1 
+IL.R. Conf. Rep. No. 100-576 (100th Cong., 2d Sess. 
+1988) . cate 7 
+HW.R. Rep. No. 99-336 (99th ‘Cong., ‘Ist Sess.) 
+(1985) .............. 4 
+H.R. Rep. No. 100-285 (100th. Cong., Ist ‘Sess. 
+EE SO I SN ier aay ee 6 
+Hearings on H.R. 1122 (100th Cong., od Sess., 
+RL Oe ee en ae 8,8 
+Committee on Education and Labor, U.S. House of 
+Representatives, Legislative History of S.2527, 
+100th Congress, Worker Adjustment & Retrain- 
+ing Notification Act (1990) ......00000000000000c 10 
+S. 538 (100th Cong., Ist Sess. 1987) none 5, 6 
+Miscellaneous 
+20 C.F.R. § 689.7 (e) ................ MOST ee stat 78 a 11 
+a cn 11 
+53 Fed. Reg. 43733 (October 28,1988) 10 
+53 Fed. Reg. 49065 (December 5, 1988)... 11 
+54 Fed. Reg. 16042 (April 20,1989)... 10,12 
+54 Fed. Reg. 16059 (April 20,1989) il 
+REPLY BRIEF FOR PETITIONER 
+|. Brown Shoe'’s threshold argument is that Congress 
+did not, in the WARN Act, provide that labor organiza- 
+tions meeting the statutory definition of “representative” 
+may bring a suit such as this one. That Congress did so 
+provide could not be more clear. 
+A. WARN § 2104(a)(5) provides expressly that on a 
+violation of the Act's notice requirements, among those 
+persons who may sue “seeking to enforce [the resulting 
+statutory] liability” are a “representative of employees or 
+a unit of local government aggrieved under paragraph (1 ) 
+or (3)." Section 2104(a)(1), in turn, provides for a 
+monetary payment to cach “aggrieved employee” inthe 
+event of noncompliance with the notice provisions. “Rep- 
+resentative” is then defined elsewhere in the statute as “an 
+exclusive representative of employees.” § 2102(a)(4). 
+“Aggrieved employee” is also a defined term—"“an em- 
+ployee who .. . , as a result of the failure by the em- 
+ployer to comply with section 2102 of this title, did not 
+receive timely notice either directly or through his or her 
+representative as required by section 2102 of this title.” 
+§ 2104(a)(7). 
+The pertinent language of § 2104(a)(5), then, in terms, 
+authorizes a “representative”, as defined by the statute, of 
+“employees .. . aggrieved”, as defined by the statute, to 
+sue for “such liability” as the statute provides those em- 
+ployees when their employer does not properly notify 
+their representative of a plant closing or mass layoff. 
+Brown Shoe, however, maintains that § 2104(a)(5) 
+does not mean what it so plainly says on its face. Accord- 
+ing to respondent, the word “aggrieved” in § 2104 
+(a)(5) is intended to modify not “employees” in the 
+phrase “representative of employees” but “representative”, 
+and “a union as the statutory ‘representative of employ- 
+ees’ is not ‘aggrieved under paragraph (1)... ” Brief 
+for Respondent (Resp. Br.) at 11. But § 2104(a)(5) 
+does not depend gramatically upon the representative 
+being one of the persons § 2104(a)(1) denominates as 
+2 
+“aggrieved” and on that account entitled to the statutory 
+liability established there. Rather, it is sufficient, as re- 
+counted above, that the union be the “representative” of 
+“employees . . . aggrieved.” That Brown Shoe chooses 
+in its brief to italicize the entive ¢ 2104(a)(5) phrase 
+in question except “of employees” (Resp. Br. at 1!) be- 
+fore proceeding with its analysis of the critical statutory 
+language demonstrates that its interpretation does not 
+grammatically account for those two words but, instead, 
+proceeds as if those words were not part of the text. 
+Indeed, since there is no WARN Act lawsuit that a 
+“representative of employees,” could file other than one 
+for employee monetary relief,’ Brown Shoe's construction 
+would render a complete nullity not only the term “of 
+employees” in § 2104(a)(5), but the longer phrase “in- 
+cluding a representative of employees . . . aggrieved” as 
+well, in violation of long-established principles of statutory 
+construction. Astoria Fed. Sav. & Loan Ass'n v. Solomino, 
+SOL U.S. 104, 112 (1991) (“But of course we construe 
+Statutes, where possible so as to avoid rendering super- 
+fluous any parts thereof”). The half-hearted suggestion 
+made to meet this abnegation of express statutory lan- 
+guage—that the “reference to a ‘representative’ . . . con- 
+templated the maintenance of class actions” (Resp. Br. 
+at 13 n.5)—<does not fill the gap. Congress was, as noted, 
+careful in the WARN Act to give us the precise meaning 
+of “representative” “[a]s used in this chapter” (§ 2101 
+(a)(4))—and that meaning is nor that the “representa- 
+tive” is a class action representative.” 
+The WARN Act's language and structure, consequently, 
+lead inescapably to the conclusion that Congress meant 
+'The WARN Act expressly precludes remedies other than those 
+spelled out. 29 U.S.C. § 2104(b). 
+* Brown Shoe's suggestion as to the role of the term “representa- 
+tive” is inconsistent as well with the structure of the remainder of 
+§$ 2104/0) (5). That section goes on to provide for suits on behalf 
+of “such person or .. . other persons similarly situated.” There 
+is, of course, no point in providing twice for class litigation in a 
+single provision. 
+3 
+to permit exclusive representatives to file suit to enforce 
+the statutory liability for monetary payments to individual 
+employees in the event of employer non-compliance with 
+the statute's notification requirement.” 
+Once Brown Shoe’s manifest misreading of the statu- 
+tory language is exposed, respondent's arguments about 
+the anomalies supposedly created by a common sense 
+reading of that language collapse. The statute is com- 
+fortably read sequentially, so that the “representative of 
+employees . . . aggrieved” can sue for the liability due 
+those employees (under § 2104(a)(1)), while “a unit 
+of local government aggrieved” can sue for the penalties 
+due that unit (under § 2104(a)(3)). And, to the ob- 
+jection that the class action language does not make 
+sense as applied to suits by representatives (Resp. 
+Br. at 12), the obvious answer is that the language was 
+not intended to cover such suits but other suits, by in- 
+dividually aggrieved employees. The statute does not 
+require that cases be brought for others similarly situated, 
+and the statute therefore makes perfect sense by apply- 
+ing the class action language to employee suits and not 
+to representative suits. 
+B. Nor is it true—even if it were relevant—that the 
+provision for suits by representatives as defined in the 
+WARN Act “was not a conscious appointment of a union 
+as vindicator of its members’ rights but rather a mere rem- 
+nant of the previous proposal in which the union was 
+actually afforded its own rights and remedy.” Resp. Br. 
+*It was obvious to those concerned with the passage of the 
+WARN Act that unions could file suit for monetary relief pay- 
+able to employees. This awareness is perhaps best illustrated by 
+the fact that in the 1987 hearings on the bill, the NAM’s repre- 
+sentative complained not that unions could sue but that em- 
+ployees could also sue. See Hearings before the Subcommittees 
+on Labor-Management Relations and Employment Opportunities 
+on H.R. 1122, 100th Cong., 2d Sess. (Mar. 17, 1987) (“Hearing”) 
+at 119 (remarks of J. Bruce Johnson on behalf of the National 
+Association of Manufacturers) (‘the bill leaves open the possibility 
+that suits may be brought by employees ... even if unions or 
+other employee representatives do not sue.”) 
+4 
+at 14. The evolution of the statutory provisions confirms, 
+instead, that from an early point in the statute’s evolution 
+Congress specifically intended to permit statutory repre- 
+sentatives to bring suit for the statutory monetary pay- 
+ments due to individual employees under § 2104(a)(1). 
+So far as we can tell, the present WARN § 2104(a) 
+(5) began life in 1985, as the second sentence of what 
+is now § 2104(a)(1), worded so that the section read: 
+Any employer who orders a plant closing or mass 
+layoff in violation or this Act . . . shall be liable to 
+each employee who suffers an employment loss as a 
+result of such closing or layoff for reinstatement or 
+damages, or both. A person seeking to enforce such 
+liability (including a representative of employees) 
+may sue for himself or for other persons similiary 
+situated, or both in any district court of the United 
+States in which the violation is alleged to have oc- 
+curred or in which the employer transacts business. 
+(H.R. 1616 &§ 6(c), 99th Cong. Ist Sess., as intro- 
+duced March 20, 1985.] 
+See also H.R. 1616 § 7(b), as reported to the House of 
+Representatives (October 29, 1985) (same language): 
+H.R. Rep. No. 99-336, 99th Cong. Ist Sess. (1985) at 24 
+(summarizing the enforcement provision quoted above ); * 
+Substitute for H.R. 1616, 131 Cong. Rec. H 10213 (Nov. 
+14, 1985) §$ 7(a)(1) (same language, execpt that “rein- 
+statement” no longer appears and suit can be filed only 
+for “back pay and related benefits for each day of such 
+* The House Report refutes Brown Shoe's insistence that the pro- 
+visions regarding who may file suit are essentially venue provisions. 
+Resp. Br. at 12. The Report after stating the statutory liability 
+to each employee, states: 
+A person (including an employee representative) seeking to 
+enforce such liability may sue either for himself or for other 
+persons similarly situated. Suits may be brought in federal 
+district court for any district in which the violation is alleged 
+to have occurred .... [/d. at 24) 
+This paraphrase, by summarizing in separate sentences the stand- 
+ing and venue aspects of the paragraph, makes clear that the pro- 
+vision is more than simply a venue provision. 
+5 
+violation, not to exceed a total of 90 days.”) Under this 
+language, it was crystal clear that the “such liability” for 
+which an exclusive representative could bring suit was pre- 
+cisely the liability for monetary payments to individual 
+employees for employer failure to comply with the statute. 
+After H.R. 1616 failed (see Brief for Petitioner (Pet. 
+Br.) at 20), new bills were introduced in the next Con- 
+gress. Those bills were drafted to be more specific about 
+the nature of the monetary relief available to individual 
+employees, with the result that as now, that relief was 
+described in detail in separate, numbered subparagraphs. 
+Presumably as a result of this growing complexity, the 
+provision regarding authority to bring suit for that relief 
+was moved in the House bill into a separate, immediately 
+following subsection (H.R. 1122 (100th Cong. Ist Sess. 
+Feb. 18, 1987) §§ 355(a)(1) and (2)), and additional 
+subsections (b)(1) and (2) were added providing for 
+liability to units of local government ((1)) and for en- 
+forcement of that liability ((2)).In the Senate bill, the 
+provision regarding liability for failure to fulfill statutory 
+obligations to units of local governments became (a)(2), 
+and a new, catchall enforcement section became (a) (3).° 
+S. 538 (100th Cong. Ist Sess. Feb. 19, 1987). In both 
+instances, the term “such liability” was retained, and in 
+neither instance was there any monetary relief running 
+to the representative itself, rather than to individual em- 
+ployees and to units of government. Thus, it is apparent 
+that no pertinent change from the 1985 versions was in- 
+tended; rather, the minor alterations in the enforcement 
+section resulted from the need to take structural account 
+of the other statutory changes, not here pertinent. 
+In the Senate committee, further changes were made in 
+the enforcement provision, but of the same housekeeping 
+character: That committee added a statutory monetary 
+* That section read: 
+A person seeking to enforce such liability (including a repre- 
+sentative of employees (or a unit of local government) may 
+sue either for himself or for other persons similarly situated, 
+or both, in any district court of the United States .. . [sic). 
+6 
+penalty for failure to provide information on request to 
+the “representative of the affected employees” or the “unit 
+of local government” (S. 538 as reported, 100th Cong. 
+Ist Sess. 1987, $8 333, 334(a)(3)), and some clarifying 
+provisions regarding liability in its subsections (4) and 
+(5). The enforcement language therefore was moved to 
+subsection (6), and was drafted to read: 
+A person seeking to enforce such liability, including 
+a representative of employees or a unit of local gov- 
+ernment aggrieved under paragraph (1), (2), or (3), 
+may sue either for such person or for other persons 
+similarly situated . . . 
+Brown Shoe would have it that the intent of this langu- 
+age was to permit unions to sue only for violations of 
+(3), the provision for monetary relief for failure to pro- 
+vide requested information. But, as shown above, the 
+express authorization for statutory representatives to file 
+suit was in the legislation before there was any monetary 
+relief accorded to such representatives, and was from the 
+outset directly linked to the liability for monetary relief 
+to individual employees. Further, even taken in isolation, 
+Brown Shoe’s explanation of the Senate committee en- 
+forcement language won't wash: That language includes 
+subsection (1), the liability to individual employee sub- 
+section, among those on which “a representative of employ- 
+ees... aggrieved“ may sue. And, the inclusion of subsec- 
+tion (1) would, contrary to statutory interpretation rules, 
+have no function under Brown Shoe’s explanation.° 
+The Conference report followed, with regard to enforce- 
+ment, the basic scheme of the Senate bill. But, since the 
+bill no longer contained the section requiring that in- 
+formation be provided and therefore provided no relief 
+® The House committee did not add a statutory penalty for fail- 
+ure to provide information, and left the enforcement provision 
+authorizing suits by a “representative of employees” where it had 
+been in the House bill as introduced—immediately after, and per- 
+taining only to, the section establishing liability for monetary re- 
+lief to individual employees; separate subsections provided for 
+penalties payable to and enforcement by units of local government. 
+H.R. Rep. No. 100-285 (100th Cong., Ist Sess. 1987), at 46-47. 
+7 
+to anyone for failure to provide information, the 
+reference to such relief in the enforcement provision 
+was deleted. H.R. Conf. Rep. No. 100-576, 100th 
+Cong. 2d Sess. at 463-64. Thus, the Conference ver- 
+sion (which remained in the final bill after a veto and 
+a separate reenactment of the WARN Act) was with 
+respect to court enforcement basically a reprise of the 
+Senate bill as introduced in 1987, which in turn was 
+simply the second sentence of the original employee mone- 
+tary relief section moved and expanded as a result of 
+growing statutory complexity. The evolution of § 2104 
+(a)(5), in short, makes clear that Congress specifically 
+contemplated lawsuits like this one under the WARN 
+Act, and expressed that intent consistently in the evolv- 
+ing statutory language. 
+2. Brown Shoe repeats the same error in its assertion 
+that Congress’ reference to union enforcement in § 2104(a) 
+(5) was simply a mistake by maintaining that “the statute 
+gave a union no right . . . concerning a notice.” Resp. 
+Br. at 14." The Act in terms provides that before an em- 
+ployer orders a plant closing order, the employer must 
+* While Brown Shoe suggests that any injury to the union was 
+inadequately pleaded here, the complaint tracks the statutory 
+provisions as Congress wrote those provisions: The caption, specify- 
+ing that UFCW Local 751 is suing “as representative of the ag- 
+grieved employees” (Jt. App. 7), closely paraphrases § 2104(a) (5). 
+The complaint goes on to allege that the plaintiff is an “employee 
+representative a« defined by ... the Act”, and that “{t|he notice to 
+William R. Treece was not in compliance with § 2102(a) (1) be- 
+cause William R. Treece is not the exclusive representative of the 
+affected employees,” as well as because the notice was untimely. 
+Jt. App. 8, 9. The relief sought includes payment of backpay and 
+benefits to each of the aggrieved employees, as the statute man- 
+dates. Jt. App. at 9-10. 
+In other words, the complaint alleges that Brown Shoe was sup- 
+posed, under the statute, to provide statutory notice to the union 
+but did not, and as a result the employer owes back pay and bene- 
+fits under the Act to the employees the union represents. If, as we 
+maintain, Congress was entitled to enact the statutory scheme these 
+pleadings invoke, nothing in Article III of the Constitution requires 
+8 
+provide “written notice of such an order . . . to each 
+representative of the affected employees.” 29 U.S.C. 
+§ 2101(a). Notwithstanding these plain words, Brown 
+Shoe insists that Congress “created the statutory notice 
+requirement primarily for the benefit of non-union work- 
+ers,” and provided for notice to the statutory representa- 
+tive simply for the convenience of employers whose em- 
+ployees were organized. Resp. Br. at 14-15." 
+A. With a statute this clear, it hardly matters why 
+Congress chose to provide that the union representing 
+employees, if there is one, must be notified of a plant 
+closing, any more than it mattered in Havens Realty 
+Corp., supra, why Congress chose to mandate that ac- 
+curate information regarding the availability of real es- 
+tate be provided even to individuals who have no need of 
+that information because they are not in fact seeking to 
+more precise pleading. See Havens Realty Corp. v. Coleman, 455 
+U.S. 363, 374-75 (1982) (the Article III requirement of injury in 
+fact is satisfied by pleading “the denial of the [ plaintiff's} own sta- 
+tutory right to truthful information;” facts in addition to the de- 
+nial of a statutory right are necessary only if a party is seeking 
+to rely on another individual's statutory rights, and must therefore 
+plead facts demonstrating its own injury). 
+* Once again, Brown Shoe’s argument here is at cjds with the 
+views of the NAM representative during the legislative con- 
+sideration of the WARN Act. At that time the complaint was 
+that “some of the largest unions... are... leaders in this effort 
+to require mandated notification of plaint shutdown and layoffs” 
+in an attempt to “expand their benefits through legislation .. . 
+as proposed here” and thereby “concentrate all of their collective 
+bargaining muscle on even higher wage demands .. . with the 
+knowledge that Congress will provide the rest of the benefit pack- 
+age.” Hearing, supra, at 92 (remarks of J. Bruce Johnson on be- 
+half of the National Association of Manufacturers). 
+In any event, the fact that Congress in discussing a legislative 
+proposal focusses on an application narrower than the range of ap- 
+plications the statute’s actual language covers does not thereby 
+narrow the statute’s reach. “This Court has never required that 
+every permissible application of a statute be expressly referred to 
+in its legislative history.” Moskal v. United States, 498 U.S. 103, 
+111 (1990). 
+9 
+rent or buy. Whatever Congress’ purpose, where, as 
+here, a statute provides that certain information is to be 
+provided to specified individuals or entities, that statute 
+thereby “in terms, establishes an enforceable right to 
+truthful information;” where the requisite information is 
+not so provided, the designated individual or entity “has 
+suffered injury in precisely the form the statute was in- 
+tended to guard against, and therefore has standing. . .” 
+455 U.S. at 373-74." 
+Brown Shoe seeks to avoid the clear holding of Havens 
+Realty on the flimsy notion that in Havens Realty the stat- 
+ute declared it “unlawful” to refuse to provide the req- 
+uite information. Resp. Br. at 19. In other words, ac- 
+cording to Brown Shoe, the outcome of this case would 
+be different if, instead of mandating that “An employer 
+shall not order a plant closing” without providing the 
+requisite notice “to each representative of the affected 
+employees” (29 U.S.C. § 2102(a)), Congress had pro- 
+vided that “It shall be unlawful for an employer to order 
+a plant closing” without providing that same notice. Noth- 
+ing in Havens Realty indicates that this Court’s standing 
+holding in that case turned on such linguistic ephemera. 
+B. In any event, Congress did have cogent reasons, 
+quite aside from mere convenience to employers, for pro- 
+viding that the notice obligation runs to unions and not 
+merely to each employee in an organized plant. The 
+Act’s principal authors summarized those reasons in 
+* Federal statutes providing that certain individuals by virtue 
+of their status or actions are entitled to mandated information and 
+permitting those individuals to enforce the obligation to provide the 
+information, without any showing of injury other than the failure 
+to receive the mandated information, are common. See, e.g., Free- 
+dom of Information Act (FOIA). 5 U.S.C. §552 et seq. Robles v. 
+EPA, 484 F.2d 843, 847 (4th Cir. 1973) (right to maintain suit 
+to corapel disclosure under FOIA is not dependent “upon the in- 
+terest or lack of interest of a party seeking disclosure’); Truth 
+in Lending Act (TILA), 15 U.S.C. § 1601 et seq. White v. Arlen 
+Realty Development Corp., 540 F.2d 645, 649 (4th Cir. 1975) 
+(“injury in fact” is satisfied under TILA by failure to receive 
+information Congress required be disclosed ) . 
+10 
+a letter to the Secretary of Labor with regard to the 
+Secretary's suggestion, in an early post-Act policy state- 
+ment, that “the notice should be served on the closest or 
+most direct representative of the affected employees (i.e. 
+the local union(s).” Worker Adjustment and Retraining 
+Notification Act: Solicitation of Comments in Advance of 
+Proposed or Interim Final Rulemaking; Discussion Paper, 
+53 Fed. Reg. 43733 (October 28, 1988). The Act’s 
+authors objected that while it is desirable that local unions 
+be notified as well, “the statute requires that the exclusive 
+representative of the employees receive notice,” for “a 
+clear policy reason”: 
+As the collective bargaining agent, the exclusive 
+representative, whether it be an international union, 
+a regional union council or a local union, has the 
+responsibility and authority to address changes in 
+terms and conditions of employment, the effects of a 
+plant closing or mass layoff, and cooperative efforts 
+at worker readjustment. [Congressional Sponsors Joint 
+Letter to U.S. Department of Labor, November 10, 
+1988, at 8, reprinted in Committee on Education and 
+Labor, U.S. House of Representatives, Legislative His- 
+tory of §.2527, 100th Congress, Worker Adjustment 
+& Retraining Notification Act (1990) (“Leg. Hist.” ) 
+at 114.] 
+See also Brief for Petitioner (Pet. Br.) at 18 (sum- 
+marizing similar statements during the legislative proc- 
+ess); Brief for the United States as Amicus Curiae Sup- 
+porting Petitioner at 15 (same); Preamble to Final De- 
+partment of Labor Regulations, 54 Fed.Reg. 16042 
+(April 20, 1989) (“[T]he purpose of providing notice to 
+the parties mentioned in the Act is to allow each of them 
+to take responsible action.” ) 
+Moreover, the Department of Labor—expressly _re- 
+quired by the Act to promulgate “interpretive regulations 
+describing the methods by which employers may provide 
+for appropriate service of notice as required by this 
+chapter” (29 U.S.C. $ 2107(a))—quite emphatically re- 
+jected the contention in crafting those regulations that 
+ll 
+“the Union’s only role under WARN .. . is to serve as 
+the conduit to the affected employees for notice from the 
+employer.” Resp. Br. at 17. The final Department of 
+Labor regulations do not adopt the Department’s initial 
+suggestion that notice be provided to the local union, but 
+instead provide for notice to the exclusive representative, 
+with only the recommendation that notice be given to 
+local union officials as well if the local union is not the 
+representative.” 20 C.F.R. § 639.6; 53 Fed. Reg. 49065 
+(December 5, 1988). Those regulations also specify 
+somewhat different requirements for the content of notices 
+to exclusive representatives and to individual employees 
+(20 C.F.R. § 639.7(c) and (d)), “designed to provide 
+information necessary for each of them to take responsi- 
+ble action.” Preamble to Final WARN Regulations 
+(“Preamble”), 54 Fed. Reg. 16059 (April 20, 1989). 
+And, in response to suggestions made during the regula- 
+tory comment period that the regulations mandate notice 
+to individual employees where there is an exclusive repre- 
+sentative, the Department concluded that requiring either 
+the employer or the union to provide such notice would 
+be inappropriate: 
+[A] commenter suggested that non-members of a 
+union should receive individual notice. . . . WARN 
+provides that, where there is a representative of af- 
+fected employees as of the time of notice, an employer 
+must provide notice to that representative rather than 
+directly to the workers. Thus, [this] suggestion would 
+not be appropriate. .. . 
+A commenter suggested that the regulations should 
+provide that a union must give notice to the affected 
+employees it represents within 3-5 days and that a 
+penalty should be imposed upon the union for failure 
+to give notice. WARN contains no provisions im- 
+posing any notice obligations on unions. The sugges- 
+Had the notice to the union been intended merely as an 
+efficient way to transmit notice to the employees individually, 
+notice to local unions, without regard to their status as exclusive 
+representative, would have sufficed. 
+12 
+tion cannot, therefore, be adopted. [Preamble, supra, 
+at 46. } 
+C. In short, Congress provided exclusive representa- 
+tives with a statutory right to notice and a statutory right 
+to sue precisely because the exclusive representative is, 
+when it comes to a plant closing, a party whose legal 
+status and legal rights and interests as the employees’ 
+representative for workplace matters are directly, immedi- 
+ately, and adversely affected. For that reason, among 
+others, respondents’ invocation of Lujan v. Defenders of 
+Wildlife, 504 U.S. 555 (1992)—the only case in this 
+Court striking down a Congressional enactment as be- 
+yond Congress’ powers under Article III—is unavailing. 
+See Pet. Br. at 29-30. 
+Lujan involved a statute requiring consultation between 
+various governmental agencies, and authorizing “any per- 
+son” to sue for violation of that requirement. 504 U.S. 
+at 572. The Court noted that it has 
+consistently held that a plaintiff raising only a gen- 
+erally available grievance about government—claim- 
+ing Only harm to his and every citizen’s interest in 
+proper application of the Constitution and law, and 
+seeking relief that no more directly and tangibly bene- 
+fits him than it does the public at large—does not 
+State an Article III case or controversy. [504 U.S. at 
+573-74.] 
+Viewing the question before it as “whether the public in- 
+terest in the proper administration of the laws .. . can 
+be converted into an individual right by a statute that 
+denominates it as such,” (S04 U.S. at 576), the Court 
+concluded that Congress may not effect such a conversion: 
+If the concrete injury requirement has the separation- 
+of-powers significance we have always said, the answer 
+must be obvious: To permit Congress to convert the 
+undifferentiated public interest in executive officers’ 
+compliance with the law into an “individual right” vin- 
+dicable in the courts is to permit Congress to transfer 
+from the President to the courts the Chief Executive's 
+most important constitutional duty, to “take Care that 
+13 
+the Laws be faithfully executed,” Art. II], §3.... 
+We have always rejected that vision of our role[.| 
+{504 U.S. at 577.] 
+The standing question raised by the Lujan statute is 
+far afield from the standing question raised by the WARN 
+Act here. In the first place, the WARN Act generates 
+none of the concerns about shifting responsibility for the 
+enforcement of the jaws from the Executive Branch to 
+the Judicial Branch that underlay Lujan. Here, as in 
+Havens Realty, Congress’ sole concern was forging a cause 
+of action to enforce a federal statutory right between pri- 
+vate parties, in a context in which there is no public 
+law enforcement role whatever."' In this statutory con- 
+text, involving the authority of Congress to define private 
+rights and private causes of action to vindicate those 
+rights, the Legislature’s power is at its zenith. 
+Consequenty, this Court’s standing jurisprudence, as 
+Havens Realty illustrates, is that the only pertinent Ar- 
+ticle III concern here is whether the resulting WARN Act 
+case is presented “in an adversary context and in a form 
+historically viewed as capable of resolution through the 
+judicial process.” Flast v. Cohen, 392 U.S. 83, 93-94 
+(1968). Any greater standing limitation on Congress’ 
+™ The Court’s plurality opinion in Lujan specifically noted that 
+its holding may have no application beyond “suits against the 
+government” (504 U.S. at 578), while a concurring opinion char- 
+acterized the Court’s holding as defining only an “outer limit 
+to the power of Congress to confer rights of action,” leaving that 
+power fundamentally intact. 504 U.S. at 580 (Kennedy, J., con- 
+curring). The concurring opinion, in particular, ecmphasized that: 
+Congress has the power to define injuries and articulate 
+chains of causation that will give rise to a case or controversy 
+where none existed before, and I do not read the Courts opinion 
+to state a contrary view. [504 U.S. at 580 (Kennedy, J., con- 
+curring). | 
+12 Our point in emphasizing that this case (like Havens Realty) 
+is distinct from the main stream of the Court’s standing cases 
+because this is a case between two private parties, is not that, as 
+a result, Congress’ actions do not generate any separation of 
+powers concerns. Rather, our point is that those concerns are 
+14 
+Article I powers in this regard would raise separation of 
+powers issues of its own, by asserting an extraordinary 
+judicial authority to negate Congress’ considered views 
+concerning the distribution of rights and obligations 
+among private parties. 
+This case also differs fundamentally from Lujan in that 
+the WARN Act does not create a general cause of action 
+to sue over a “generally available grievance” concerning 
+compliance with the laws. As the concurring Lujan Jus- 
+tices pointed out, the Lujan statute simply conferred a 
+right of action that “{did] not of its own force establish 
+that there is an injury in ‘any person’. . .” 504 U.S. at 
+580 (Kennedy, J., concurring). Here, in contrast, the stat- 
+ute first provides that notice is due from the employer to 
+the employees’ exclusive representative (not to the public 
+at large or, as in Lujan, to some governmental entity), 
+and only then authorizes that representative to sue where 
+the employer does not provide the notice. Nforeover, the 
+union to whom notice is due necessarily has had previous 
+direct involvement in the affairs of the plant in question 
+through its statutory responsibility for representing the 
+workers in the plant, a role which will necessarily be 
+affected by the plant closing or mass layoff. 
+For these reasons, the union is no mere concerned by- 
+stander attempting to vindicate the public interest, or an 
+interest the union shares in common with the public at 
+large. Thus, the concerns evinced in Lujan regarding 
+litigation over claimed injuries felt equally by all mem- 
+qualitatively diffeernt—and quantatively less—than where Congress 
+authorizes judicial challenges to governmental action. 
+That cases finding a lack of Article III standing in disputes 
+that do not challenge governmental action are rare is perhaps best 
+indicated by the fact that Brown Shoe does not cite any such cases, 
+and alters the sense of the primary case that is cited by sub- 
+stituting ellipses for the phrase that makes clear that concerns 
+about challenges to governmental authority are central in standing 
+cases. Resp. Br. at 30; Valley Forge Christian College v. Ameri- 
+cans United for Separation of Church & State, Inc., 454 U.S. 464, 
+471 (1982) (emphasis supplied) (“The power to declare the rights 
+of individuals and to measure the authority of governments, this 
+Court said 90 years ago, ‘is legitimate only as a last resort...’ ”) 
+15 
+bers of the public have no application. Put another way, 
+the statute involved in Lujan would have been parallel 
+to the one in this case only if that statute had provided 
+for consultation with specified, ascertainable persons or 
+groups with an established, statutorily-mandated involve- 
+ment in the preservation of endangered species, and then 
+authorized those persons or groups to sue if they were 
+not so consulted. Nothing in either the Lujan plurality 
+opinion or Justice Kennedy's concurring Lujan opinion 
+suggests that there is any constitutional question as to 
+the validity of that kind of hypothetical statute. 
+3. As to the “redressibility” question, we noted in our 
+opening brief that where a duty flows to one person at 
+least in part to aid that person in forwarding the interests 
+of certain individuals, providing monetary relief to the 
+benefitted individuals on a suit by that person to redress 
+a breach by the defendant of that duty appropriately re- 
+dresses the plaintiffs legal injury. Pet. Br. at 32. 
+Brown Shoe objects that none of the three examples we 
+provided to illustrate this point are precisely like the 
+WARN Act. Resp. Br. at 34-35, 40-42. But we are not, 
+of course, contending, that this case is a Labor Manage- 
+ments Relations Act § 301 case like /nternational Union 
+UAW vy. Hoosier Cardinal Corp., 383 U.S. 696 (1966), 
+or a third party beneficiary case, or a case in which the 
+government is suing to protect the public interest. 
+Rather, our point is that in each of these analogous cir- 
+cumstances, as here, a recognized, separate legal interest, 
+albeit one related to forwarding the welfare of other indi- 
+viduals, is vindicated by providing appropriate monetary 
+relief to those individuals. Pet. Br. at 35. That the source 
+of the legal interest is different from that here— 
+contractual, in LMRA § 301 and third-party beneficiary 
+cases, and grounded in governmental authority and stat- 
+utory authorization in statutes such as Title VII, the 
+FLSA and ERISA granting governmental entities the 
+right to sue to advance the public interest—has no 
+16 
+bearing upon whether remedial schemes of this general 
+structure somehow run afoul of Article III.” 
+Brown Shoe misunderstands, in particular, the perti- 
+nence of the third-party beneficiary cases to this case. In 
+those cases, the promisee has traditionally been permitted 
+to enforce its legally-recognized interest in performance 
+of a promise made to the promisee through a suit ordering 
+the promisor to pay money to the third-party beneficiary, 
+even if the relief granted in the lawsuit will provide no 
+direct benefit to the plaintiff. See, e.g., Drewen v. Bank 
+of Manhattan Co. of City of New York, 155 A. 2d 529 
+(N.J. Sup. Ct. 1959), and case cited id., at 533 (seven- 
+teenth century English case holding that where A has prom- 
+ised B that A will pay a specified sum of money to C but 
+does not do so, B’s administrator can sue for performance 
+of that promise even though B's estate “ ‘should receive 
+no benefit if he did recover’); Croker v. New York Trust 
+Co., 156 N.E. 81, 82 (N.Y. 1927) (where A promises B 
+to pay money to C and D, B can sue “to enforce the 
+liability of the promisor to the third party beneficiaries;” 
+although “the promisee has suffered no pecuniary dam- 
+age by the failure of the promisee to perform [and] [h]is 
+injury at law is, therefore, purely technical”, the promisee 
+nonetheless “is interested in asserting the duty of the 
+promisor to carry out the terms of the contract”); Blair 
+v. Southern Clay Mfg. Co., 121 S.W. 2d 570, 571 (Tenn. 
+1938) (while a third party beneficiary can sue for en- 
+forcement of a promise to pay money to him, “[t}he better 
+practice . . . is a suit by [the promisee] to enforce the 
+obligation for the use of C”). Such cases, then, are “in 
+a form historically viewed as capable of resolution through 
+‘As the Court recognized in Lujan, supra, the redressibility 
+prong of the Article III standing doctrine has to be applied flexibly, 
+taking into account the nature of the legal right being enforced. 
+For example, “{[a] person who has been accorded a procedural right 
+to protect his concrete interests can assert that right without 
+meeting all the norma! standards for redressibility and immediacy.” 
+504 U.S. at 572 n.7. 
+17 
+the judicial process” (Flast v. Cohen, supra, 392 U.S. at 
+93-94), and are directly relevant to the Article III analy- 
+sis here for that reason.”* 
+4. Finally, Brown Shoe maintains that Hunt v. Wash- 
+ington State Apple Advertising Comm'n, 432 U.S. 333 
+(1977), and related cases, preclude Congress from ex- 
+pressly permitting the union as a statutorily-designated 
+representative of employees to bring suit seeking individ- 
+ual monetary relief for those employees. 
+Since the plaintiff union is both the holder of the legal 
+right the defendant employer is alleged to have violated 
+here and an authorized litigant to vindicate that right, 
+neither Hunt nor International Union, UAW, supra, nor 
+Warth v. Seldin, 422 U.S. 490 (1975)—all of which in- 
+volve situations in which the Congressional or statutory 
+4 It is, moreover, difficult to understand Brown Shoe’s remark that 
+another set of analogous cases, those involving government suits 
+to enforce the public interest which result in payment of monetary 
+relief to each of a group of individuals, suggest that Congress did 
+not intend to permit unions to bring backpay suits under WARN 
+because “the employer has no assurance that any disposition of 
+the WARN claim will preclude further litigation by employees. .. .”. 
+Resp. Br. at 42. 
+The governmental! suits certainly do not establish any principle 
+that Congress may not provide a party with a legally-cognizable 
+interest in the welfare of certain individuals, a cause of action to 
+recover monetary relief for the latter without requiring in that stat- 
+ute notice to the individuals and without affording them the right to 
+decline participation. To the contrary, General Telephone Co. v. 
+E.E.0.C., 446 U.S. 318, 333 (1980), specifically declined to impose 
+those requirements while observing that “[t]he courts are not 
+powerless to prevent undue hardship to the defendant and should 
+perform accordingly” by, inter alia, precluding double recovery and 
+requiring any individual who claims under a judgment or settle- 
+ment to relinquish the right to bring a second suit. See also Inter- 
+national Union 1'AW v. Brock, 477 U.S. 274, 290 (1986). 
+Indeed, if each of the employees proceeds individually, as 
+employees may under the WARN Act, the employer is surely much 
+more likely to face a multiplicity of suits than where the union 
+sues for monetary relief for all represented employees. 
+18 
+obligation enforced ran to individuals rather than to the 
+organization bringing suit—are on point.” 
+Moreover, even without regard to that critical differ- 
+ence in the nature of the legal right enforced, the “asso- 
+ciational standing” cases are not informative here. None 
+of those cases confronted or resolved the question whether 
+Article III, as opposed to prudential considerations, re- 
+quires a distinction between injunctive relief and the kind 
+of narrowly specified monetary relief the WARN Act 
+provides.” 
+15 We are puzzled by Brown Shoe’s suggestion that the Question 
+Presented in the Petition does not encompass the issue whether 
+the third prong of Hunt, precluding associational standing where 
+individualized relief is sought, is prudential in the sense that a 
+Congressional authorization of such relief can be sufficient to 
+satisfy Article III. Associational standing is simply a subcategory 
+of representational standing, as this Court’s cases recognize. See, 
+e.g., Warth, supra, 422 U.S. at 511 (if the requisite criteria are 
+met, an “association may be an appropriate representative of its 
+members” (emphasis supplied)); Hunt, supra, 432 U.S. at 345 
+(because it meets the requisite standards, “the Commission has 
+standing to bring this action in a representational capacity.”) 
+Since the Question Presented asks whether Article III precludes 
+Congress from permitting the plaintiff union from suing as the 
+representative of affected employees (Pet. Br. at (i)), that question 
+encompasses representational standing theories generally, including 
+a theory premised, like Hunt, on an analogy to associational stand- 
+ing. See Petition for Writ of Certiorari at 14-20 (discussing 
+Hunt and prudential standing considerations at length). 
+16 The relief sought here, moreover, is not the type of indird- 
+valized damages relief involved, for example, in Warth. 422 
+U.S. at 515 (organization of home builders may not recover for 
+business opportunities and profits lost by individual builders). 
+Rather, the relief in a WARN Act case will almost always be 
+figured from the payroll records of the defendant employer ex- 
+clusively, with no need for individual testimony by affected employ- 
+ees. (The only exception would occur if the exclusive representative 
+attempts to recover under § 2104(a)(1)(B) for medical expenses 
+incurred during an employment loss; the Warth line of ca »s, even 
+if applicable, would then require only that the particular employees 
+for whom such relief is sought be joined in the suit.) 
+19 
+Respondent insists, nonetheless, that the dicta in Hunt 
+to the effect that voluntary associations cannot bring suit 
+where “the relief requested requires the participation of 
+individual members in the lawsuit” (432 U.S. at 343) is 
+constitutionally-based, because of “the redressibility prob- 
+lem posed by associational damage suits.” Resp. Br. at 
+38." Warth, the case from which the Hunt criteria were 
+derived, however, only goes so far as to state that the first 
+of the three “associational standing” criteria—that the 
+individual members fulfill the bedrock injury-in-fact Article 
+III requirement—is constitutionally mandated. Warth, 422 
+U.S. at 511 (because “[t}he possibility of representational 
+standing . . . does not eliminate the constitutional re- 
+quirement of a case or controversy,” an association, in 
+order to represent its members, “must allege that its mem- 
+bers or any one of them are suffering immediate or threat- 
+ened injury as a result of the challenged action.” ) 
+The concern articulated in Warth as underlying the 
+individualized relief prong, in contrast—whether “it can 
+reasonably be supposed that the remedy, if granted, will 
+inure to the benefit of those members of the association 
+actually injured,” (422 U.S. at 515)— is a sensible pru- 
+dential concern that, absent a Congressional or other leg- 
+islative or traditional determination that a designated 
+representative can seek monetary relief flowing to speci- 
+fied individuals, there will be grave difficulty in deter- 
+'T Hunt was not a suit seeking individual monetary relief. More- 
+over, while Hunt did involve a state agency entrusted with ad- 
+vancing the interests of a designated group of individuals rather 
+than a voluntary association, that agency was not designated 
+by either a state or federal statute or by the federal constitutional 
+provision invoked as the authorized representative of the individual 
+apple growers for purpose of pursuing individualized monetary re- 
+lief. The genera] authority of the Washington State Apple Adver- 
+tising Commission “to sue and be sued” (432 U.S. at 338 n.3) as a 
+corporate entity does not constitute the kind of express representa- 
+tional authorization to protect the legal interests of designated 
+individuals involved here and in the various examples discussed 
+in our opening brief (at 36-43), nor is there any indication of 
+concomitant fiduciary obligations (Pet. Br. at 41). 
+20 
+mining who among a voluntary association’s members 
+is “actually injured” and in assuring that those individuals 
+receive the moneys due. Where there is such a Congres- 
+sional determination, accompanied, as here, by fiduciary 
+or analogous obligations,“* however, the long history of 
+representational litigation shows that the statutory des- 
+ignation is quite sufficient to indicate “reasonably . . . 
+that the relief if granted will inure to” the represented 
+individuals, whether the relief is injunctive or monetary. 
+Pet. Br. at 42-46.” 
+CONCLUSION 
+For the reasons stated above and in our opening brief, 
+the judgment of the United States Court of Appeals for 
+the Eighth Circuit should be reversed. 
+18 The association standing issue concern expressed in Warth with 
+regard to individualized relief—like any standing issue concern— 
+arises only if suit is actually brought, not by reason of the associa- 
+tion’s inaction. And, as noted in our opening brief, once a repre- 
+sentative does file a WARN Act suit, the duty of fair representa- 
+tion obtains. Pet. Br. at 12, n.4. 
+1” We note that Brown Shoe is quite wrong in its suggestion 
+that representational litigation depends on the representative hav- 
+ing “title.” See Uniform Probate Code §§ 3-101, 102 & comment 
+to 711; 33 C.J.S. 2d § 252 (generally executors and administrators 
+do not have title to heir’s property). In any event, Warth at most 
+suggests that any Congressional action providing representational 
+authority in a suit for individual relief be reviewed to determine 
+whether the statutory Scherne is reasonably calculated to assure 
+that the intended beneficiaries receive the relief to which they are 
+entitled. For all the reasons surveyed above and in our opening 
+Brief (at 16-27), the interrelated substantive and enforcement 
+schemes of the WARN Act meet that test. 
+JONATHAN P. HIATT 
+815 16th Street, N.W. 
+Washington, D.C. 20006 
+MARSHA S. BERZON 
+Scott A. KRONLAND 
+MARY LYNNE WERLWAS 
+177 Post Street, Suite 300 
+San Francisco, CA 94108 
+21 
+Respectfully submitted, 
+GEORGE MURPHY 
+RENEE L. BOWSER 
+1775 K Street, N.W. 
+Washington, D.C. 20006 
+LAURENCE GOLD 
+(Counsel of Record) 
+1000 Connecticut Avenue, N.W. 
+Washington, D.C. 20036 
+(202) 833-9340 

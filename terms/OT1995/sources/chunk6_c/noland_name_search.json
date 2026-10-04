@@ -1,0 +1,56 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 409,
+    "params": {
+      "query": "collection:us-supreme-court AND (text:Noland OR text:Noland OR text__reviews:Noland)",
+      "qin": "collection:us-supreme-court AND Noland",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 9,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA0438614_1170",
+        "title": "Noland v. Commissioner, 361 U.S. 885 (1959) (No. 373)"
+      },
+      {
+        "identifier": "micro_IA40385013_0646",
+        "title": "United States v. Noland, 517 U.S. 535 (1996) (No. 95-323)"
+      },
+      {
+        "identifier": "micro_IA40386415_0089",
+        "title": "Noland v. Noland, 311 U.S. 670 (1940) (No. 226)"
+      },
+      {
+        "identifier": "micro_IA40386403_0002",
+        "title": "United States Ex Rel. Noland Co. v. Irwin, 316 U.S. 23 (1942) (No. 658)"
+      },
+      {
+        "identifier": "micro_IA40386010_0776",
+        "title": "Noland v. Henderson, 532 U.S. 1019 (2001) (No. 00-1259)"
+      },
+      {
+        "identifier": "micro_IA40385606_0864",
+        "title": "Hodgin v. Noland, 408 U.S. 942 (1972) (No. 70-141)"
+      },
+      {
+        "identifier": "micro_IA40385606_1200",
+        "title": "Noland v. Desobry, 409 U.S. 934 (1972) (No. 72-145)"
+      },
+      {
+        "identifier": "micro_IA40385008_0553",
+        "title": "Cleveland v. Noland, 454 U.S. 1099 (1981) (No. 81-720)"
+      },
+      {
+        "identifier": "micro_IA40386416_2153",
+        "title": "Noland v. Westover, 337 U.S. 938 (1949) (No. 772)"
+      }
+    ]
+  }
+}

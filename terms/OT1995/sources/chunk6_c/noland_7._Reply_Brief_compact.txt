@@ -1,0 +1,329 @@
+(| 
+- CLERK 
+No. 95-323 
+In the Supreme Court of the United States 
+OCTOBER TERM, 1995 
+UNITED STATES OF AMERICA, PETITIONER 
+V. 
+THOMAS R. NOLAND, TRUSTEE FOR DEBTOR 
+First TRUCK LINES, INC. 
+ON WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS 
+FOR THE SIXTH CIRCUIT 
+REPLY BRIEF FOR THE UNITED STATES 
+Drew S. Days, III 
+Solicitor General 
+Department of Justice 
+Washington, D.C. 20520 
+(202) 514-2217 
+TABLE OF AUTHORITIES 
+Cases: 
+Boteler v. Ingels, 308 U.S. 57 (1939) . . . 
+Columbia Ribbon Co., In re, 117 F.2d 999 (3d Cir. 
+3 ————̃ Ä 
+Comstock v. Group of Institutional Investors, 
+n 
+Nicholas v. United States, 384 U.S. 678 (1966) 
+Norwest Bank Worthington v. Ahlers, 485 U.S. 
+. — 
+Simonson v. Grandquist, 369 U.S. 38 (1962) ........... 
+Stebbins v. Crocker Citizens National Bank, 516 
+F.2d 784 (9th Cir.), cert. denied, 423 U.S. 913 
+6  csscceccvecnsesonsssscecnssannantsetustapsunmnievtguamessmmasessass 
+United States v. Killoren, 119 F.2d 364 (8th Cir.), 
+cert. denied, 314 U.S. 640 (1941) 
+United States v. Sotelo, 436 U.S. 268 (1978) ........... 
+Statutes: 
+Bankruptey Act, 11 U.S.C. 101 et seq.: 
+11 U.S.C. 9300 (8 5700 (4976). . 
+. 
+I 
+Ir LETT 
+13433 — ͤ ae 
+JI rr 
+D ae 
+r dees 
+(I) 
+— 
+— e 2 — 2 18 
+In the Supreme Court of the United States 
+OcTOBER TERM, 1995 
+No. 95-323 
+UNITED STATES OF AMERICA, PETITIONER 
+v. 
+THOMAS R. NOLAND, TRUSTEE FOR DEBTOR 
+First Truck LINES, INC. 
+ON WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS 
+FOR THE SIXTH CIRCUIT 
+REPLY BRIEF FOR THE UNITED STATES 
+The court of appeals recognized that Congress— 
+writing with precision and detail—expressly provided 
+postpetition tax penalty claims of the type involved in 
+this case with a statutory “[flirst” priority in the 
+distribution of the assets of the debtor's estate (Pet. 
+App. Za). See 11 U.S.C. 503(b)1C), 507(a\1). The 
+court stated, however, that it did “not see the fairness 
+or the justice” of that legislative determination (Pet. 
+App. 19a): 
+We do not see the fairness or justice in permitt- 
+ing the * * * claim for tax penalties * * * to 
+enjoy an equal or higher priority with claims 
+based on the extension of value to the debtor * * *. 
+(1) 
+2 
+Believing that “fairness” and “justice” support the 
+view (which Congress evidently did not share) that 
+“claims based on extension of value to the debtor” 
+should be paid before postpetition tax penalty claims, 
+the court annulled and reversed the statutory priori- 
+ties that Congress provided. The court did so quite 
+emphatically and directly, by changing the priority 
+for the tax penalty claims in this case from “{flirst” 
+to “last.” 
+For the reasons detailed in our opening brief, the 
+“principles of equitable subordination” that are codi- 
+fied in Section 510(c)(1) of the Bankruptcy Code (11 
+U.S.C. 510(c)(1)) do not support this judicial reinven- 
+tion of the priority provisions of the Code. By allow- 
+ing the court’s own view of what is “fair” or “unfair” 
+to override the express congressional determination 
+of the priority to be afforded to these competing 
+claims, the court of appeals violated the fundamental 
+principle that a bankruptcy court’s equitable powers 
+“must and can only be exercised within the confines 
+of the Bankruptcy Code” (Norwest Bank Worthing- 
+ton v. Ahlers, 485 U.S. 197, 206 (1988)). Principles of 
+equitable subordination do not permit a court “to 
+contradict statutory or common law when [it] feels a 
+fairer result may be obtained by application of a 
+different rule.” Stebbins v. Crocker Citizens Na- 
+tional Bank, 516 F.2d 784, 787 (9th Cir), cert. denied. 
+423 U.S. 913 (1975). They do not permit a court to Say, 
+“in effect * * No, the distribution scheme pro- 
+vided by [Congress] is a mistake. 516 F.2d at 788. 
+As this Court summarized in Comstock v. Group of 
+Institutional Investors, 335 U.S. 211 (1948), the doc- 
+trine of equitable subordination has the quite 
+different and narrower function of punishing credi- 
+tors who engage in inequitable misconduct, by 
+3 
+“depriviing] the wrongdoer of the fruits of his 
+wrong Id. at 229. See also Pet. Br. 10-16. It is un- 
+disputed that the United States did not engage in any 
+inequitable conduct in this case. The doctrine of 
+equitable subordination therefore simply does not 
+apply. 
+Respondent advances several arguments in support 
+of the decision below. None of respondent's con- 
+tentions substantiates the untenable proposition that, 
+by codifying the preexisting “principles of equitable 
+subordination,” Congress authorized the courts to an- 
+nul and disregard the hierarchy of detailed statutory 
+priorities that Congress enacted to govern the rights 
+of innocent claimants in bankruptcy cases. All but 
+two of respondent's contentions are addressed in our 
+opening brief. We reply here to the two contentions 
+not previously addressed. 
+1. Respondent claims that there is a “bankruptcy 
+policy of favoring pecuniary loss claims over 
+nonpecuniary loss claims” and that “nonpecuniary 
+loss tax penalties * * * have traditionally been 
+disfavored” in bankruptcy (Resp. Br. 9, 20-21). These 
+assertions are neither relevant nor factually correct. 
+Even if one could identify a source (other than the 
+provisions of the Code) to determine what is “bank- 
+ruptcy policy” and what is not, such “policy” has no 
+lawful force if it has not been enacted as positive law. 
+A court’s perception of “policy” (as well as its 
+perception of “fairness” and “justice”) can not justify 
+countermanding the statutory priorities that Con- 
+gress has enacted. E.g., United States v. Killoren, 
+119 F.2d 364, 366 (8th Cir.) (At he plain mandate of the 
+law cannot be set aside because of considerations 
+which may appeal to referee or judge as falling within 
+general principles of equity jurisprudence”), cert. 
+denied, 314 U.S. 640 (1941); In re Columbia Ribbon 
+Co., 117 F.2d 999, 1002 (3d Cir. 1941) (a “court may not 
+by granting a priority which it deems equitable set 
+aside the clear congressional mandate that no such 
+priority shall be accorded”). 
+Moreover, respondent’s broad contention that 
+“bankruptcy policy” disfavors nonpecuniary loss 
+penalties is demonstrably incorrect. One need look no 
+further than to Sections 503(b)(1) and 507(a)(1) of the 
+Bankruptcy Code, which provide “{flirst” priority for 
+postpetition tax penalty claims, to see that “bank- 
+ruptcy policy” is far more complex and articulated 
+than respondent contends.’ As this Court has ex- 
+plained, by providing a statutory priority for post- 
+petition tax penalties, Congress sought to advance 
+the legislative policy of ensuring compliance with the 
+' The only category of tax penalties that is “disfavored” in 
+bankruptcy is prepetition nonpecuniary loss penalties in 
+Chapter 7 cases. See 11 U.S.C. 7264) (subordinating such 
+prepetition penalties to general unsecured claims). By con- 
+trast, as the court of appeals acknowledged, in providing a 
+first“ priority for postpetition tax penalty claims, Congress 
+did “not distinguish between tax penalties that are 
+compensatory in nature and those that are not” (Pet. App. 
+15a). As we discuss in our opening brief (Pet. Br. 19 n.6), 
+Congress has made detailed distinctions in the priorities 
+provided to tax penalty claims in various differing contexts 
+under the Bankruptcy Code. See Pet. App. I4a-l5a (“In 
+Chapter 7 cases, Congress assigned differing priorities to pre- 
+and post pt it ion penalties. 11 U.S.C. §§ 726(a)(1) and 726(a)(4). 
+Section NaN gives administrative expense priority 
+to postpetition tax penalty claims.”). The careful distinctions 
+that Congress made in providing differing bankruptcy 
+priorities for different types of tax penalty claims would be 
+rendered meaningless if courts were permitted to apply 
+“principles of equitable subordination” to disregard and annul! 
+the statutory priorities. See Pet. Br. 20-21. 
+5 
+tax laws by debtors in bankrupey and thereby ensur- 
+ing that such debtors abide by the same rules of law 
+that apply to every other business (including those 
+with whom they compete). Nicholas v. United States, 
+384 U.S. 678, 694 (1966); Boteler v. Ingels, 308 U.S. 57, 
+61 (1939).° 
+Although the court of appeals evidently disagreed 
+with the policy judgment that Congress thus made in 
+providing a Affirst“ priority for postpetition tax pen- 
+alty claims, the court was nonetheless bound by that 
+legislative determination. As this Court emphasized 
+* Respondent errs in seeking to rely on Simonson v. 
+Grandquist, 369 U.S. 38 (1962), as support for the proposition 
+that penalty claims are disfavored in bankruptcy (Resp. Br. 
+21). Prior to 1978, prepetition penalty claims had been dis- 
+allowed by statute under Section 57(j) of the Bankruptcy Act, 
+11 U.S.C. 930 (1976). See Simonson v. Granquist, 369 U.S. at 
+40. Although the Court stated in Simonson “that the language 
+of §57(j) broadly prohibits the allowance of penalty claims in 
+bankruptcy” (369 U.S. at 39), that statement was necessarily 
+limited to the prepetition tax penalties involved in that case. In 
+Boteler v. Ingels, which was decided two decades before 
+Simonson, a unanimous Court had held that Section 57(j) did 
+not bar a claim for postpetition penalties incurred by the 
+trustee. 308 U.S. at 61. And, four years after Simonson, the 
+Court reaffirmed that holding in Nicholas v. United States, in 
+concluding that the government's claim for a postpetition tax 
+penalty was allowable and entitled to first priority in 
+distribution. 384 U.S. at 694 (“the United States is entitled to 
+exact the penalties here in question as a legitimate means to 
+enforce the prompt filing of the tax returns”). As noted in our 
+opening brief (Pet. Br. 21 n.8), the majority and concurring 
+opinions in the court of appeals overlooked Nicholas and 
+Boteler and thereby erred in stating, without qualification, that 
+“prior to 1978, nonpecuniary loss tax penalty claims against the 
+estate of the bankrupt were not allowed by law” (Pet. App. 12a; 
+see id. at 22a). 
+6 
+in United States v. Sotelo, 436 U.S. 268, 279 (1978), 
+“[hJowever persuasive [alternative policy] considera- 
+tions might be in a legislative forum, we as judges 
+cannot override the specific policy judgments made by 
+Congress in enacting the statutory provisions with 
+which we are here concerned.” See also Pet. Br. 14-16 
+& n.2. 
+2. Respondent contends that, even though Con- 
+gress conferred a “[flirst” priority on postpetition tax 
+penalty claims as a matter of law, such claims should 
+be subordinated as a matter of “equity” (even “with- 
+out a finding of inequitable conduct” ( Resp. Br. 24)) in 
+order to avoid a perceived inconsistency with other 
+provisions of the Bankruptcy Code.’ Respondent 
+grounds this contention on the theory that the 
+Statutory priority for postpetition tax penalty claims 
+is “misguided” and should not be enforced (id. at 25). 
+But that assertion is nothing more than a 
+contention that courts should disregard the priorities 
+* Respondent suggests that equitable subordination of tax 
+penalty claims is “not automatic” under the analysis of the 
+court of appeals but is instead to “be determined on a case by 
+case basis” (Resp. Br. 14). That description of the decision 
+below is not correct. The court of appeals held that tax penalty 
+claims are to be subordinated solely because it would be more 
+“fair” for creditors “with claims based on the extension 
+of value to the debtor” to be paid first (Pet. App. 19a). That 
+rationale, if valid, would apply in every bankruptcy case 
+involving an estate without sufficient assets to pay the claims of 
+all creditors. In the rare case in which the estate has sufficient 
+assets to satisfy all claims, there would be no need to invoke the 
+doctrine of equitable subordination—for all claims would then 
+be paid. Moreover, even on “a case by case basis”, courts are 
+not permitted to disregard statutory priorities soley on the 
+theory that a different priority scheme might be more “fair” in 
+a particular case. See Pet. Br. 9-16. 
+7 
+enacted by Congress if they conclude that “the distri- 
+bution scheme provided by the Bankruptcy Code] is a 
+mistake” (Stebbins v. Crocker Citizens National 
+Bank, 516 F.2d at 788). It is unquestionably not the 
+function of a court of equity, however, to “contradict 
+statutory or common law” merely because the chan- 
+cellor “feels a fairer result may be obtained by appli- 
+cation of a different rule.” Id. at 787. See Pet. Br. 11. 
+17. 
+Moreover, there is nothing “misguided” about the 
+detailed and complex set of priorities that Congress 
+established in the Bankruptey Code. Respon- 
+dent complains that a “[{flirst” priority for tax penalty 
+claims would require “any party doing business or 
+extending credit postpetition to a trustee or debtor in 
+possession” to demand “superpriority status be- 
+fore providing goods or services“ (Resp. Br. 24). The 
+“superpriority” provisions of the Bankruptcy Code 
+permit a party who extends credit to the debtor after 
+the petition is filed to obtain a priority “over any or 
+all administrative expenses” but only if, inter alia, 
+the trustee is otherwise unable “to obtain unsecured 
+credit” (11 U.S.C. 3640 (1). Respondent suggests 
+that the “delays” inherent in obtaining authorization 
+for “superpriority” status from the bankruptcy court 
+“could be fatal” to a debtor, and would therefore be 
+“contrary to the strong bankruptcy policy in favor of 
+rehabilitating or reorganizing debtors” ( Resp. Br. 
+24). Respondent thus seems to contend that the prior- 
+ity that Congress established for postpetition tax 
+penalty claims will frustrate the entire object of the 
+Bankruptcy Code. 
+It could as easily be contended that, if Congress had 
+determined not to provide a first priority for post- 
+petition taxes and tax penalties, that determination 
+8 
+would have frustrated the entire object of the Internal 
+Revenue Code.“ The balancing of competing policy 
+objectives is an inherently legislative function. Con- 
+gress has performed that policy function by enacting 
+the complex and detailed scheme of priorities set 
+forth in the Bankruptcy Code. It is not the proper 
+task of the bankruptcy courts to nullify the choices 
+that Congress made based upon the court’s differing 
+perception of “fairness” and “justice” (Pet. App. 19a).° 
+In enacting the priority scheme of the Bankruptcy Code, 
+Congress obviously gave a high priority to ensuring tax law 
+compliance. It seems hardly necessary to point out that the 
+dilemma that respondent poses—the threatened frustration and 
+collapse of the entire bankruptcy scheme of reorganization—is 
+most unrealistic. Respondent’s stated concerns are obviously 
+entirely irrelevant to a debtor that complies with its lawful 
+duties under the Internal Revenue Code and thereby avoids the 
+accrual of priority postpetition tax penalties. Moreover, the 
+conditions precedent to the allowance of “superpriority” status 
+have nothing to do with the risk of tax penalties—they are 
+related to whether the credit status of the debtor is such that 
+unsecured credit is not available. See 11 U.S.C. 364(c). 
+5 Respondent's extended discussion (Resp. Br. 21-22 n.14) 
+concerning the priority to be afforded to prepetition penalty 
+claims in a case under Chapter 11 is irrelevant to this case, 
+which involves the priority to be afforded to a postpetition first 
+priority claim in a case under Chapter 7. 
+9 
+For the foregoing reasons and those set forth in 
+our opening brief, the judgment of the court of appeals 
+should be reversed. 
+Respectfully submitted. 
+Drew S. Days, III 
+Solicitor General 
+MARCH 1996 

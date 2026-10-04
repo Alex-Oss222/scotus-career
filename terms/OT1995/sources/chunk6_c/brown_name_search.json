@@ -1,0 +1,132 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 378,
+    "params": {
+      "query": "collection:us-supreme-court AND (text:&quot;United Food&quot; OR text:&quot;United Food&quot; OR text__reviews:&quot;United Food&quot;)",
+      "qin": "collection:us-supreme-court AND &quot;United Food&quot;",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 28,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385006_2420",
+        "title": "Retail Store Employees Union, Local No. 919 v. United Food & Commercial Workers International Union, 449 U.S. 831 (1980) (No. 79-1848)"
+      },
+      {
+        "identifier": "micro_IA40385017_1702",
+        "title": "Save Mart of Modesto, Inc. v. United Food & Commercial Workers Union, 470 U.S. 1050 (1985) (No. 84-770)"
+      },
+      {
+        "identifier": "micro_IA40386017_2112",
+        "title": "United Food & Commercial Workers Union, Local 1776 v. Rite Aid of Pennsylvania, Inc., 562 U.S. 838 (2010) (No. 09-1530)"
+      },
+      {
+        "identifier": "micro_IA40385019_0173",
+        "title": "John Morrell & Co. v. Local Union 304A of the United Food & Commercial Workers, 481 U.S. 1014 (1987) (No. 86-1226)"
+      },
+      {
+        "identifier": "micro_IA40386012_0865",
+        "title": "United Food & Commercial Workers Local 951 v. Mulder, 513 U.S. 1148 (1995) (No. 94-926)"
+      },
+      {
+        "identifier": "micro_IA40385012_0313",
+        "title": "National Labor Relations Board v. Financial Institution Employees, Local 1182, 471 U.S. 1098 (1985) (No. 84-1509)"
+      },
+      {
+        "identifier": "micro_IA40385013_0648",
+        "title": "Food and Commercial Workers v. Brown Group, Inc., 517 U.S. 544 (1996) (No. 95-340)"
+      },
+      {
+        "identifier": "micro_IA40386018_0836",
+        "title": "Local 227, United Food & Commercial Workers Union v. Wyandot, Inc., 531 U.S. 820 (2000) (No. 99-1961)"
+      },
+      {
+        "identifier": "micro_IA40386012_1799",
+        "title": "Gumbus v. United Food & Commercial Workers International Union, 516 U.S. 811 (1995) (No. 94-1917)"
+      },
+      {
+        "identifier": "micro_IA40386005_0577",
+        "title": "United Food & Commercial Workers Union, Local No. 324 v. K. V. Mart Co., 528 U.S. 872 (1999) (No. 99-96)"
+      },
+      {
+        "identifier": "micro_IA40386018_1454",
+        "title": "Comeaux v. United Food & Commercial Workers Local Union No. 455, 526 U.S. 1114 (1999) (No. 98-1504)"
+      },
+      {
+        "identifier": "micro_IA40385013_0749",
+        "title": "United Food & Commercial Workers Union, Local 204 v. Lundy Packing Co., 518 U.S. 1019 (1996) (No. 95-1790)"
+      },
+      {
+        "identifier": "micro_IA40386009_0574",
+        "title": "John Morrell & Co. v. United Food & Commercial Workers International Union, Local 304A, 510 U.S. 994 (1993) (No. 93-600)"
+      },
+      {
+        "identifier": "micro_IA40385009_1055",
+        "title": "Iowa Beef Processors, Inc. v. United Food & Commercial Workers, Local No. 222, 459 U.S. 1088 (1982) (No. 82-712)"
+      },
+      {
+        "identifier": "micro_IA40385018_1811",
+        "title": "United Food & Commercial Workers, Local 626 v. Kroger Co., 479 U.S. 815 (1986) (No. 85-1778)"
+      },
+      {
+        "identifier": "micro_IA40386015_1626",
+        "title": "United Food & Commercial Workers International Union v. Poland Spring Corp., 540 U.S. 818 (2003) (No. 02-1722)"
+      },
+      {
+        "identifier": "micro_IA40385009_2312",
+        "title": "Riesbeck Food Markets, Inc. v. United Food & Commercial Workers, Local Union 23, 502 U.S. 856 (1991) (No. 91-15)"
+      },
+      {
+        "identifier": "micro_IA40386002_0845",
+        "title": "Shop 'N Save Warehouse Foods, Inc. v. United Food & Commercial Workers, Local Union No. 88, 516 U.S. 1113 (1996) (No. 95-834)"
+      },
+      {
+        "identifier": "micro_IA40386012_1691",
+        "title": "United Food & Commercial Workers International Union v. John Morrell & Co., 515 U.S. 1105 (1995) (No. 94-1803)"
+      },
+      {
+        "identifier": "micro_IA40385019_1648",
+        "title": "South Central United Food & Commercial Workers Unions & Employers Health & Welfare Trust v. C & G Markets, Inc., 486 U.S. 1056 (1988) (No. 87-1745)"
+      },
+      {
+        "identifier": "micro_IA40385009_1757",
+        "title": "United Food & Commercial Workers International Union v. John Morrell & Co., 500 U.S. 905 (1991) (No. 90-1394)"
+      },
+      {
+        "identifier": "micro_IA40385018_0468",
+        "title": "Jones Dairy Farm v. Local No. P-1236, United Food & Commercial Workers International Union, 474 U.S. 845 (1985) (No. 85-90)"
+      },
+      {
+        "identifier": "micro_IA40385018_1028",
+        "title": "Michigan United Food & Commercial Workers Unions v. Baerwaldt, 474 U.S. 1059 (1986) (No. 85-810)"
+      },
+      {
+        "identifier": "micro_IA40386003_0764",
+        "title": "United Food & Commercial Workers International Union v. Aguinaga, 510 U.S. 1072 (1994) (No. 93-769)"
+      },
+      {
+        "identifier": "micro_IA40386009_0469",
+        "title": "Zady Natey, Inc. v. United Food & Commercial Workers, International Union, Local No. 27, 510 U.S. 977 (1993) (No. 93-484)"
+      },
+      {
+        "identifier": "micro_IA40385018_1431",
+        "title": "United Food & Commercial Workers International Union Local 1357 v. National Labor Relations Board, 475 U.S. 1085 (1986) (No. 85-1312)"
+      },
+      {
+        "identifier": "micro_IA40386018_1272",
+        "title": "Albertson's, Inc. v. United Food & Commercial Workers International Union, 528 U.S. 809 (1999) (No. 98-1270)"
+      },
+      {
+        "identifier": "micro_IA40385012_1097",
+        "title": "NLRB v. Food & Commercial Workers, 484 U.S. 112 (1987) (No. 86-594)"
+      }
+    ]
+  }
+}

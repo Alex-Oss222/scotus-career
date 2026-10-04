@@ -1,0 +1,957 @@
+| 
+No. 94-1039 
+IN THE 
+Supreme Court of the United States 
+OCTOBER TERM, 1995 
+Roy RoMeER, as Governor of the State of Colorado 
+and the STATE OF COLORADO, 
+. Petitioners, 
+RICHARD G. EVANS, et al., 
+Respondents. 
+On Writ of Certiorari to the 
+Supreme Court of Colorado 
+REPLY BRIEF OF PETITIONERS 
+GALE A. NORTON * REX E. LEE 
+Attorney General of Colorado CARTER G. PHILLIPS 
+STEPHEN K. ERKENBRACK Special Assistant Attorneys 
+Chief Deputy Attorney General General 
+TIMOTHY M. TYMKOVICH 2840 Iroquois Drive 
+Solicitor General Provo, Utah 84604 
+JOHN DANIEL DAILEY (801) 373-3342 
+Deputy Attorney General 
+PAUL FARLEY 
+Deputy Attorney General 
+COLORADO DEPARTMENT OF LAW 
+1525 Sherman Street, 5th Floor 
+Denver, Colorado 80203 
+(303) 866-4500 
+Attorneys for Petitioners 
+August 4, 1995 * Counsel of Record 
+WILSON - EPES PRINTING Co., INC. - 789-0096 - WASHINGTON, D.C. 20001 
+BEST AVAILABLE COPY 
+gt eee 
+ee ae re 
+TABLE OF CONTENTS 
+SR Ee QD ccnctiieinstenitinctenttsmasinmninienedinen 
+I. THE HUNTER EXCEPTION IS LIMITED TO 
+RACIAL CLASSIFICATIONS .......0.0.0.............-- 
+Il. NOTHING WARRANTS OVERRULING 
+JAMES AND BROADENING THE HUNTER 
+IE INET cesatchscicvtisenincntatsintninsenttentoetiiowcnigsendnis 
+Ill. AMENDMENT 2 RATIONALLY SERVES 
+LEGITIMATE STATE ENDS 
+CONCLUSION 
+Page 
+14 
+20 
+ii 
+TABLE OF AUTHORITIES 
+CASES Page 
+Adarand Constructors, Inc. Vv. Pena, 115 S. Ct. 
+I eee 5 
+Arthur v. City of Toledo, 782 F.2d 565 (6th Cir. 
+PATER SST SE SE Ee ve Oe 15 
+Barnes Vv. Glen Theatre, Inc., 111 S. Ct. 2456 
+REA ee eee 16 
+Board of Estimate of New York v. Morris, 489 
+a a clahisuboseinenbianiine 6 
+Burdick v. Takushi, 504 U.S. 428 (1992) —............ 19 
+Carrara Place, Ltd. v. Arapahoe County Bd. of 
+Equalization, 761 P.2d 197 (Colo. 1988) ............ 9 
+Cipriano V. City of Houma, 395 U.S. 701 (1969)... 6 
+City of Cleburne v. Cleburne Living Ctr., Inc., 473 
+ci ghintiahbabbipanien 14, 18, 19 
+City of Eastlake v. Forest City Enters., 426 U.S. 
+a ciedebbisaianunennere 5 
+City of Mobile v. Bolden, 446 U.S. 55 (1980)........ 15 
+Crawford Vv. Los Angeles Board of Educ., 458 U.S. 
+I aesdtiones 10, 15, 16, 18 
+Dandridge Vv. Williams, 397 U.S. 471 (1970) -~......... 18 
+Davis v. Bandemer, 478 U.S. 109 (1986) -.............. 4,6 
+Equality Found., Inc. vy. City of Cincinnati, 54 
+GE 11, 14 
+Erznoznik v. City of Jacksonville, 422 U.S. 205 
+Neen ssivasions 
+Eu v. San Francisco County Democratic Cent. 
+Comm., 489 U.S. 214 (1989) ..............................--. 1 
+Gomillion Vv. Lightfoot, 364 U.S. 339 (1960) _.......... 
+Gordon V. Lance, 403 U.S. 1 (1971) ........................ 
+Gregory V. Ashcroft, 501 U.S. 452 (1991) 0.0... 
+Gustafson Vv. Alloyd Co., 115 S. Ct. 1061 (1995)... 
+Heller v. Doe, 113 S. Ct. 2637 (1993) .........0000...... 
+Howlett v. Rose, 496 U.S. 356 (1990) —......000...... 
+Hughes v. Alexandria Scrap Corp., 426 U.S. 794 
+a ctcnsicemnnes win 
+Hunter v. Erickson, 393 U. S. 385 (1969) .. Se 
+INS v. National Ctr. for Immigrants’ Rights, Inc., 
+_ 
+oo 
+AIA onwwwvo 
+_— 
+no ~ 
+ST 7 
+Illinois State Bd. of Elections v. Socialist Workers 
+Party, 440 U.S. 178 (1979) ...................00-.c--00-es0e0 4 
+iii 
+TABLE OF AUTHORITIES—Continued 
+James V. Valtierra, 402 U.S. 187 (1971) —00000000...... 
+Jefferson Vv. Hackney, 406 U.S. 535 (1972) ............. 
+Kolender v. Lawson, 461 U.S. 352 (1983) ............. 
+ds neclbdinbndnncenste 
+Kramer Vv. Union Free Sch. Dist. No. 15, 395 U.S. 
+Nordlinger Vv. Hahn, 505 U.S. 1 (1992) 0.0000... 
+Ohio v. Akron Ctr. for Reprod. Health, 497 U.S. 
+i canst 
+Reynolds v. Sims, 377 U.S. 5383 (1964) 0.000000... . 
+Rust v. Sullivan, 500 U.S. 173 (1991) 0000000000000... 
+San Antonio Indep. Sch. Dist. v. Rodriguez, 411 
+th me ne 
+Storer v. Brown, 415 U.S. 724 (1974) —.....00000..... 
+Town of Lockport v. Citizens for Community Ac- 
+tion at Local Levels, Inc., 430 U.S. 259 (1977)... 
+United States R.R. Retirement Bd. v. Fritz, 449 
+EET SESS Snr NC PE OEE 
+U.S. Term Limits, Inc. v. Thornton, 115 S. Ct. 
+1842 (1995) 00... lO AON ESO 
+Union Ins. Co. Vv. Hoge, 62 U.S. (21 How.) 35 
+Tee aeinantidinniens 
+United States v. Salerno, 481 U.S _ 739 (1987) ao 
+Vance V. Bradley, 440 U.S. 93 (1979) Lt SD 
+Washington Vv. Davis, 426 U.S. 229 (1976) 0.00... 
+Washington v. Seattle Sch. Dist. No. 1, 458 U.S. 
+cece scigssdeansicetebeeoae 
+Williamson v. Lee Optical, “Ine., 348 U.S. 483 
+ss O82 eR 
+STATUTES 
+Colo. Const. art. V, § 1(2) ..............00ccccccceceeeeeeeeeeee ve 
+OTHER AUTHORITIES 
+Council of State Governments, The Book of the 
+a 
+John H. Ely, Democracy & Distrust (1980) .......... 
+Gerald Gunther, Constitutional Law (12th ed. 
+TE seca 
+Laurence H. Tribe, American Constitutional Law 
+EE eC, 
+Owen M. Fiss, Groups and the Equal Protection 
+Clause, 5 Phil. & Pub. Aff. 107 (1976) ..00000...... 
+13 
+REPLY BRIEF OF PETITIONERS 
+Stripped of rhetoric, Respondents’ arguments present 
+two themes: (1) the Court should overrule James v. 
+Valtierra and extend beyond race the narrow Hunter ex- 
+ception to rational basis review of internal state govern- 
+ment restructurings; and (2) Amendment 2 fails rational 
+basis review—that is, Amendment 2 “is so unrelated to 
+the achievement of any combination of legitimate purposes 
+that [the Court] can only conclude that the [Colorado 
+voters’] actions were irrational.” Vance v. Bradley, 440 
+U.S. 93, 97 (1979) (emphasis added ). 
+Respondents’ arguments fail because they are premised 
+not upon law, but rather upon a parade of horribles de- 
+rived from imagined interpretations and applications of 
+Amendment 2. In following this approach, Respondents 
+have simply ignored the facial nature of their challenge— 
+Amendment 2 has never been applied, much less in the 
+extreme manner hypothesized by Respondents. Amend- 
+ment 2 is facially valid so long as at least some of its 
+applications would be constitutional, see, e.g., United 
+States Vv. Salerno, 481 U.S. 739, 744-45 (1987); Re- 
+spondents’ concern that Amendment 2 might be misused 
+can be addressed only in the context of an “as applied” 
+challenge by an affected individual. 
+All that is at issue here is whether Coloradans can 
+divest their elected representatives of authority to deal 
+with a particular isswe—protections for homosexuals and 
+bisexuals that go beyond those afforded by federal law— 
+and instead insist that this question of public policy be 
+resolved solely by the people on a statewide basis. Under 
+the established jurisprudence of this Court, which stands 
+on bedrock principles of federalism, such ordering of a 
+State’s internal affairs is subject to heightened scrutiny in 
+a federal equal protection challenge on/y if it classifies on 
+the basis of race or infringes a fundamental constitutional 
+right. Amendment 2, which furthers numerous legiti- 
+mate—even compelling—state purposes, infringes no 
+2) 
+fundamental right, and Respondents unequivocally dis- 
+avow any reliance here on suspect class.’ Under settled 
+law the judgment below must be reversed. 
+I. THE HUNTER EXCEPTION IS LIMITED TO 
+RACIAL CLASSIFICATIONS. 
+Far from effectuating a sweeping reworking of the 
+American political process, Hunter v. Erickson, 393 U.S. 
+385 (1969), established a narrow exception to the tradi- 
+tional rules of judicial restraint that apply to federal equal 
+protection challenges to a State’s structuring of its own 
+government. The only area where this Court has con- 
+doned close scrutiny of such state decisions is in the con- 
+text of race. But the exceptional judicial review engen- 
+dered by racial classifications cannot lead to the conclusion 
+that every restructuring of state government, regardless 
+of the group affected, is inherently suspect. To the con- 
+trary, recognizing the “unique nature of state decisions 
+that ‘go to the heart of representative government,’ ” 
+Gregory Vv. Ashcroft, 501 U.S. 452, 461 (1991), this 
+Court has steadfastly applied the opposite presumption. 
+A. Respondents simply ignore the overriding impor- 
+tance of race in Hunter,* Washington v. Seattle School 
+District No. 1, 458 U.S. 457 (1982) and Gomillion v. 
+1 The trial court considered and rejected Respondents’ suspect 
+class claim, Pet. App. C-14 to C-19, and certified its judgment (en- 
+compassing all subsidiary rulings) for appeal under Colo. R. Civ. 
+P. 54(b). J.A. 267-68; Pet. Opp. 4, 14-15. Respondents did not 
+appeal, and thus the suspect class issue is not merely absent here; 
+it can never be a part of this case. 
+2 Respondents attack a straw man in arguing that state alloca- 
+tions of governmental power are not erempt from the Fourteenth 
+Amendment. See Resp. Br. 24-25. Petitioners argue—as this Court 
+has consistently held—that the Jere’ of “scrutiny ‘will not be so 
+demanding where we deal with matters resting firmly within a 
+State’s constitutional prerogatives.’” Gregory, 501 U.S. at 469. 
+3 Justice Harlan’s concurrence, like the Hwnter majority, focused 
+on the racial nature of the classification at issue and never sug- 
+gested that strict scrutiny be extended to non-suspect classes. See 
+393 U.S. at 294-95. And the only portion of Justice Harlan’s analy- 
+3 
+Lightfoot, 364 U.S. 339 (1960).* More fundamentally, 
+Respondents do nothing to explain why James v. Valtierra, 
+402 U.S. 137 (1971), does not control this case. In 
+James, this Court expressly rejected Respondents’ argu- 
+ment that the Hunter exception should be extended beyond 
+race. See 402 U.S. at 139. Contrary to Respondents’ 
+position, it is no answer to declare that the privilege of 
+Strict scrutiny is “limited” to those groups that are “in- 
+dependently identifiable.”*° Certainly, the poor are as 
+readily identifiable a group as homosexuals and bisexuals. 
+See James, 402 U.S. at 139; id. at 144-45 (Marshall, J.. 
+dissenting) (“[i]t is rather an explicit classification on the 
+basis of poverty”). 
+Respondents attempt to glean support for the doctrinal 
+expansion they seek by noting that this Court also engages 
+in close scrutiny of state laws that disenfranchise, dilute 
+votes, limit ballot access, or gerrymander, even when no 
+racial lines are drawn. In each of those areas, however, 
+the Court’s exacting examination expressly rested on the 
+State’s infringement of one or both of the established 
+sis adopted by the Court in Washington was his conclusion, with 
+which petitioners have no quarrel, that “the voters of the polity 
+may express their displeasure through an established legislative or 
+referendum procedure when particular legislation ‘arouses passion- 
+ate opposition.’” Washington v. Seattle Sch. Dist. No. 1, 458 U.S. 
+473, 483 (1982) (quoting Hunter, 393 U.S. at 395 (concurring 
+opinion)). In any event, Justice Harlan voted with the majority 
+in James V. Valtierra. 
+*See Pet. Br. 21-23 & n.12; Gomillion, 364 U.S. at 341 (“the 
+legislation is solely concerned with segregating white and colored 
+voters”). See also James v. Valtierra, 402 U.S. 137, 141 (1971) 
+(expressly distinguishing Gomillion as a race case). 
+* Respondents get no support from Gordon v. Lance, 403 U.S. 1 
+(1971). The popular referendum in Gordon—which like that in 
+James did not involve race—-required super-majoritarian approval 
+of increases in bond indebtedness or state tax rates. In upholding 
+that requirement, the Court held that it “single[d] out no discrete 
+and insular minority for special treatment.” Gordon, 403 U.S. at 
+5. Thus, the holding in Gordon clearly supports Petitioners’ position. 
+4 
+fundamental rights of voting and political association." 
+Neither fundamental right is implicated here—no citizen 
+has been disenfranchised, prevented from casting an equally 
+weighted vote, or in any way hindered in clecting the 
+representative of his or her choice by Amendment 2. 
+Indeed, it is difficult to comprehend how allowing every 
+voter a direct voice on an issue, rather than filtering the 
+issue through representatives, denies political participation 
+rights. As the Court has explained: 
+The equal protection principles applicable in gauging 
+the fairness of an election involving the choice of 
+legislative representatives are of limited relevance, 
+however, in analyzing the propriety of recognizing 
+distinctive voter interests in a “single-shot” referen- 
+dum. In a referendum, the expression of voter will is 
+direct, and there is no need to assure that the voters’ 
+views will be adequately represented through their 
+representatives in the legislature. The policy impact 
+of a referendum is also different in kind from the 
+impact of choosing representatives—instead of send- 
+ing legislators off to the state capitol to vote on a 
+multitude of issues, the referendum puts one discrete 
+issue to the voters. 
+Town of Lockport v. Citizens for Community Action at 
+Local Levels, Inc., 430 U.S. 259, 266 (1977). Respond- 
+ents lost a political battle, but they are free to fight it 
+again without any restriction on their voting rights.’ 
+6 See, eg., IMinois State Bd. of Elections v. Socialist Workers 
+Party, 440 U.S. 178, 184 (1979): Reynolds v. Sims, 377 U.S. 533, 
+561 (1964): Kramer v. Union Free Sch. Dist. No. 15, 395 U.S. 621, 
+626 (1969): Davis v. Bandemer, 478 U.S. 109, 118 (1986). 
+7 Respondents remain free to seek local and state legislation on 
+anything other than quota preferences and the other special pro- 
+tections addressed by Amendment 2. Further. because the votes 
+of Respondents and their supporters continue to count as much 2s 
+anyone else’s vote, elected representatives obviously will not sud- 
+denly ignore all of the concerns of thousands of voters. And even 
+on the single issue addressed by Amendment 2, those favoring 
+legislative control of anti-discrimination issues retain an avenue 
+to have the'r views adopted—Amendment 2 may be modified o- 
+repealed by a simple majority vote of the electorate. Respondents 
+5 
+B. In the abserce of any existing, relevant fundamental 
+right, Respondents would have the Court create a new 
+fundamental right of certain groups to demand that the 
+people place no limits on the policies that their elected 
+representatives can legislate. Given the strong presump- 
+tion against the creation of new rights,” the oddity of a 
+fundamental constitutional right that accrues not to all 
+individuals, but only to favored groups,’ and the inherent 
+implausibility of the idea that the Framers of the Con- 
+Stitution intended to abolish the people’s right to delimit 
+the authority of their representatives,"’ it is not surprising 
+that Respondents’ approach finds no support in any of 
+this Court’s prior decisions."’ 
+suggest that popular amendment of state constitutions is extraordi- 
+nary, but in truth it is commonplece and en integral part of the 
+normal political process—-from 1986 through 1993, for example, 
+1007 state constitutional amendments were proposed, of which 708 
+(70.3%) were adopted. See Council of State Governments, The 
+Book of the States 2 (1994). Colorado has amended its constitution 
+124 times since statehood. /4. at i9. 
+* See San Antonio Indep. Sch. Dist. v. Rodriguez, 411 U.S. 1, 33 
+(1973) (“it is not the province of this Court to create substantive 
+constitutional rights in the name of guaranteeing equal protection 
+of the laws”). 
+* See Adarand Constructors, Inc y. Pena, 115 S. Ct. 2097, 2112 
+(1995) (“the Fifth and Fourteenth Amendments to the Constitu- 
+tion protect persons, not groups”). 
+1” See City of Eastlake v. Forest City Enters., 426 U.S. 668, 672 
+(1976) (“In establishing legisletive bodies, the people can reserve 
+to themselves the power to dea! directly with matters which might 
+otherwise be assigned to the legislature’): Colo. Const. art. V, 
+§1(2) (“[the first power hereby reserved by the people is the 
+initiative’). 
+'! Respondents and their amici cannot disguise the radical de- 
+parture from established equal protection jurisprudence they pro- 
+pose by citing “neutral principles.” Neutrality is of constitutional 
+significance on!y in determining the existence or nonexistence of 
+“invidious’’—-i.e., suspec: class—discrimination by a challenged law. 
+Any broader conception of neutrality would be flatly inconsistent 
+with James, which upheld as rational a popular referendum with 
+the clear purpose of making it more difficult for the poor to obtain 
+favorable legislation. If there is no suspect class or fundamental 
+6 
+Respondents seek comfort in the Court’s references to 
+“an inalienable right to full and effective participation in 
+the political processes,” Reynolds v. Sims, 377 U.S. 533, 
+565 (1964), only by ignoring that the “political processes” 
+to which the Court was referring were the “processes by 
+which candidates are nominated and elected.” Davis v. 
+Bandemer, 478 U.S. 109, 137 (1986). Outside the 
+context of race, this Court gives close scrutiny only to 
+those internal state structures that infringe the right to 
+select elected representatives, and not to those that merely 
+affect the powers of those representatives once elected.” In 
+sum, Amendment 2 infringes no fundamental right, and 
+Respondents’ position thus stands or falls on the propriety 
+of overruling James and extending Hunter beyond the 
+unique context of race. 
+Il. NOTHING WARRANTS OVERRULING JAMES AND 
+BROADENING THE HUNTER EXCEPTION. 
+Respondents offer two reasons for ignoring James: 
+(1) their claim—supported by a parade of horribles— 
+that unless the Court facially invalidates Amendment 2, 
+homosexuals and bisexuals will be deprived of all legal 
+redress for every conceivable wrong; and (2) arguments 
+that the Court can sidestep James without revolutionizing 
+its equal protection jurisprudence and fundamentally re- 
+defining federal-state relations. Neither contention has 
+merit. 
+A. Respondents speculate that Amendment 2 could 
+deprive homosexuals and bisexuals of legal redress for any 
+possible wrong done to them by government or private 
+right involved, and the State’s classification is rational, a lack of 
+“neutrality” is utterly beside the point. See, e.g., Nordlinger V. 
+Hahn, 505 U.S. 1, 10 (1992) (“The Equal Protection Clause does 
+not forbid classifications”). 
+12 See also Board of Estimate of New York v. Morris, 489 U.S. 
+688, 692 (1989) ; Reynolds, 377 U.S. at 565. 
+18 See Kramer v. Union Free Sch. Dist. No. 15, 395 U.S. 621, 629 
+(1969) (“Our exacting examination is not necessitated by the 
+subject of the election; rather, it is required because some resident 
+citizens are permitted to participate and some are not”); Cipriano 
+v. City of Houma, 395 U.S. 701, 706 (1969). 
+7 
+citizens. See Resp. Br. 34-35; Br. for Amicus Curiae 
+Nat'l Bar Ass’n 3. The State’s consistent position and the 
+record below dispel any notion that Amendment 2 was 
+intended to, or by its terms would accomplish, such a 
+result. More fundamentally, even if putative concerns 
+about police protection, public benefits, library services, 
+and judicial indifference did not overlook the existence 
+of the Fourteenth Amendment and the Supremacy Clause, 
+see, e.g., Howlett v. Rose, 496 U.S. 356, 369-71 (1990) 
+(state courts cannot refuse to entertain a federally man- 
+dated cause of action),’’ these extreme applications of 
+Amendment 2 are wholly irrelevant to this facial challenge. 
+Outside the limited context of the First Amendment 
+(with its unique overbreadth component), a party seeking 
+facial invalidation of a statute cannot rely upon extreme 
+hypotheticals that may never occur but instead “must 
+establish that no set of circumstances exists under which 
+the Act would be constitutional.” United States v. Salerno, 
+481 U.S. 739, 745 (1987). Speculation that Amendment 
+2 might operate unconstitutionally in some conceivable 
+circumstances therefore does nothing to advance Respond- 
+ents’ case for facial invalidation. See, e.g., Ohio v. Akron 
+Ctr. for Reprod. Health, 497 U.S. 502, 514 (1990) 
+(“The Court of Appeals should not have invalidated 
+the Ohio statute on a facial challenge based upon a 
+worst-case analysis that may never occur’). Rather, 
+those concerns can be addressed only in future “as ap- 
+plied” challenges, if and when the applications Respond- 
+ents fear ever occur.” 
+'* The repeal of special protections for homosexuals and bisexuals 
+plainly will not deprive anyone of basic police services. The duty 
+of the police to protect citizens arises out of their public office 
+and not from anti-discrimination laws which have never been 
+extended to all citizens. Any concern that Amendment 2 might 
+actually be construed to sanction police discrimination ignores both 
+the State’s consistent construction and the Fourteenth Amendment, 
+which protects all persons, regardless of group affiliation, from 
+arbitrary, irrational government actions. 
+15 See, e.g., INS Vv. National Ctr. for Immigrants’ Rights, Inc., 
+502 U.S. 183, 188 (1991); Rust v. Sullivan, 500 U.S. 173, 182 
+8 
+So long as there is any possible construction of Amend- 
+ment 2 that is constitutionally permissible, it is facially 
+valid. See, e.g., Erznoznik v. City of Jacksonville, 422 
+U.S. 205, 216 (1975). Here, such a construction is not 
+only possible, but is entitled to great deference because 
+it is that of the Colorado Attorney General." 
+Read as a whole in light of the circumstances under 
+which it was enacted, Amendment 2 does not, as Re- 
+spondents contend, eliminate all legal rights for homo- 
+sexuals and bisexuals or protect those who break the law 
+by harming or threatening homosexuals and_ bisexuals; 
+rather, it merely invalidates existing, and prohibits future, 
+local and state laws providing special protections beyond 
+those required by the Fourteenth Amendment. The State 
+consistently has interpreted Amendment 2 in a manner 
+that authoritatively dispels Respondents’ extreme rhetoric 
+and confirms Amendment 2’s facial constitutionality. 
+Amendment 2 simply restores and maintains the status 
+quo ante regarding special protections for homosexuals 
+and bisexuals, thereby preserving this area of private au- 
+tonomy. By its terms, Amendment 2: (1) prohibits state 
+and local governments; (2) from enacting or enforcing 
+any law or policy; (3) recognizing a claim of minority 
+status, quota preferences, protected status, or discrimina- 
+tion, beyond those guaranteed by federal law; (4) prem- 
+ised on homosexual or bisexual orientation, conduct, prac- 
+tices, or relationships. 
+Respondents focus on the word “discrimination,” which, 
+of course, must be read in context with the “minority 
+status,” “quota preferences,” and “protected status” terms 
+which immediately precede it (and appear in the title of 
+the amendment). These terms are all commonly used in 
+(1991); Laurence H. Tribe, American Constitutional Law 1022 
+(2d ed. 1988) (“Of course, almost every law ... is potentially ap- 
+plicable to constitutionally protected acts; that danger does not 
+invalidate the law as such but merely invalidates its enforcement 
+against protected activity”). 
+16 See Kolender Vv. Lawson, 461 U.S. 352, 355 (1983) ; Union Ins. 
+Co. v. Hoge, 62 U.S. (21 How.) 35, 66 (1858). 
+9 
+the civil rights context to refer to situations where special 
+consideration or protection is accorded. Applying tradi- 
+tional principles of statutory construction, the accompany- 
+ing reference to “discrimination” should be given similar 
+import. See Gustafson v. Alloyd Co., 115 §. Ct. 1061, 
+1069 (1995) (applying principle of noscitur a sociis, i.e., 
+“a word is known by the company it keeps”). Indeed, the 
+special protections relating to sexual orientation promul- 
+gated by various Colorado entities prior to the passage of 
+Amendment 2 had themselves been phrased in terms of 
+prohibitions on “discrimination” and expressly brought 
+government regulation into a host of private disputes. 
+See J.A. 22, 32, 62, 90. It is therefore unsurprising that 
+in seeking to repeal these measures, the proponents of - 
+Amendment 2 used the same terminology." 
+That Amendment 2 would not deny homosexuals and 
+bisexuals all legal rights was made plain to the voters in 
+the widely distributed Legislative Council Analysis of 
+Ballot Proposals (“Ballot Analysis”).'" The Ballot Anal- 
+ysis noted that “[t}]he amendment would not affect the 
+anti-discrimination policies based on sexual orientation 
+that have been adopted by numerous private employers,” 
+and that homosexuals would remain “entitled to recourse 
+under the tort laws for libelous or slanderous abuse, 
+wrongful discharge, emotional distress, or similar theories.” 
+Pet. App. F-6, F-7. Amendment 2 is thus readily con- 
+strued as facially constitutional: it simply realigns the 
+'7 Respondents complain that Amendment 2 would invalidate only 
+the homosexual aspect of sexual orientation provisions. See Resp. 
+Br. 6, 10 n.11, 42. Of course, it remains to be seen whether legis- 
+lators will elect to retain sexual orientation provisions that apply 
+only to heterosexual discrimination. Even if they do, however, 
+any equal protection problem would properly be addressed in an 
+“as applied” challenge to the ordinance in question, not in this 
+facial challenge to Amendment 2. 
+1’ See Pet. App. F. The Ballot Analysis is recognized in Colorado 
+as providing important insight into the electorate’s understanding 
+of a constitutional amendment. See, e.g., Carrara Place, Ltd. v. 
+Arapahoe County Bd. of Equalization, 761 P.2d 197, 203-04 (Colo. 
+1988). 
+10 
+rights of Coloradans with those existing under federal law 
+by nullifying the effect of existing state and local laws or 
+policies, which provided special legal protections to homo- 
+sexuals or bisexuals, and ensuring that such laws are 
+adopted in the future only by statewide referendum. 
+This construction is consistent with “the State Court’s 
+view of the purpose of its own law.” U.S. Term Limits, 
+Inc. Vv. Thornton, 115 S. Ct. 1842, 1867 (1995). The 
+Colorado Supreme Court properly recognized that specu- 
+lative interpretations are improper in a facial challenge, 
+basing its decision instead solely on Amendment 2’s 
+“unambiguous[]” prohibition on “the enactment of anti- 
+discrimination laws by state or local entities.” Pet. App. 
+D-24 n.25. The court determined that Amendment 2 
+“repeal[s] existing statutes, regulations, ordinances, and 
+policies of state and local entities that barred discrimina- 
+tion based on sexual orientation,” id. at D-24 (footnote 
+omitted), and “prohibit[s] any governmental entity from 
+adopting similar, or more protective statutes, regulations, 
+ordinances, or policies in the future unless the state con- 
+stitution is first amended to permit such measures.” /d. 
+at D-25. The court expressly declined to “determine what 
+broader application Amendment 2 might have,” id. at 
+D-24 n.25, and no broader construction can be justified 
+in evaluating Respondents’ facial challenge. 
+Respondents’ parade of horribles thus provides no jus- 
+tification for overruling James (and Salerno, et al.)—if 
+an unconstitutional application ever occurs, it can be 
+remedied in an “as applied” challenge by the affected 
+individual. Respondents’ argument also establishes that 
+Amendment 2, properly construed, is plainly constitu- 
+tional. Even Respondents concede that Amendment 2’s 
+repeal of existing anti-discrimination and preference ordi- 
+nances could not violate the Fourteenth Amendment. 
+See Resp. Br. 6. And, as this Court held in Crawford 
+Vv. Los Angeles Bd. of Educ., 458 U.S. 527, 535-36 
+(1982), a State is equally free to insist that protections 
+that go beyond the requirements of the Fourteenth 
+Amendment be adopted, if at all, only by statewide 
+referendum. 
+2. tee ~ 
+1 le eee 
+11 
+B. Respondents’ claim that James can be overruled 
+with little or no impact on federal-state relations is 
+equally flawed. Extending Hunter’s narrow exception to 
+any “independently identifiable” group allows the excep- 
+tion to swallow the rule and would place final authority 
+with respect to States’ internal structurings firmly in the 
+hands of the federal judiciary. Every law classifies and 
+thus every law affects “independently identifiable” 
+groups, if the person defining the group employs any 
+imagination at all. In James, the group directly harmed 
+comprised individuals who supported subsidized housing, 
+and the readily identifiable sub-group was the poor. Here, 
+those immediately affected by Amendment 2 are voters 
+who want anti-discrimination policy set at the local level; 
+an identifiable sub-group is homosexuals and bisexuals. 
+Amendment 2 treats political issues, not individuals dif- 
+ferently, and thus reveals that once the search for “in- 
+dependently identifiable” groups is allowed to proceed 
+outside of the unique race-specific context in which it 
+arose, that inquiry becomes meaningless.'” 
+Respondents’ argument that heightened scrutiny should 
+occur “only” when a law singles out the “independently 
+identifiable” group based upon traits that are unrelated 
+to the issue addressed by the law is also boundless. Virtu- 
+ally every group affected by a legislative classification is 
+defined by characteristics distinct from how members of 
+the group voted. Gun owners, civil servants, incumbent 
+politicians, convicted felons, farmers, insurance companies, 
+hot dog vendors, and members of every other conceivable 
+interest group share common traits which make them “in- 
+1? Moreover, witnesses on both sides agreed that there is no 
+consensus or accepted definition of what constitutes homosexuality 
+or bisexuality. See R. at v. 13, p. 276; v. 14, pp. 699-700; v. 15, pp. 
+862, 869-70; v. 17, pp. 1158, 1161-62. If the group definition is 
+inherently a matter of se/f-identification, as Respondents’ evidence 
+indicated, then the test collapses upon itself, because it lacks both 
+identifiability and independence. See Equality Found., Inc. v. City 
+of Cincinnati, 54 F.3d 261, 267 (6th Cir. 1995). 
+12 
+dependently identifiable” quite apart from any legal 
+measure that adversely affects them.” 
+It is not surprising, then, that Respondents have been 
+unwilling to say who—other than homosexuals and _ bi- 
+sexuals—can invoke their new fundamental right. In 
+truth, either everyone can invoke strict scrutiny—bringing 
+popular self-government to its knees—or only homosexuals 
+and bisexuals qualify—which reveals this proposed doc- 
+trine for what it is: a backdoor means to acquire suspect 
+class treatment. 
+Respondents’ amici propose an even more radical fed- 
+eral intrusion on the States’ internal allocations of au- 
+thority. Eschewing the whole question of levels of scru- 
+tiny, these amici make the novel claim that the Equal 
+Protection Clause authorizes the Court simply to declare 
+Amendment 2 per se unconstitutional without even ex- 
+amining the State's justifications. See Br. of Amici Curiae 
+Tribe, ef al. 
+These amici candidly concede that their extraordinary 
+approach is unprecedented—even in the context of race. 
+Further, the entire argument rests on the fallacy that there 
+exists some general state law protection against discrimi- 
+nation of which only homosexuals and bisexuals are de- 
+prived by Amendment 2. Of course, just the opposite is 
+true—anti-discrimination laws (as well as quota prefer- 
+*° Nor are the express references in Amendment 2 to homosexuals 
+and bisexuals of constitutional significance. That language em- 
+bodies the description of the types of laws and ordinances repealed 
+by Amendment 2. Citing those references, as Respondents do, as 
+evidence of a purposeful intent to classify laws granting special 
+protections for homosexuals and bisexuals differently than other 
+anti-discrimination laws adds nothing. Purposeful discrimination 
+is a necessary element of an equal protection claim, see Washington 
+Vv. Davis, 426 U.S. 229 (1976), but neither the existence of this 
+classification nor the voters’ intent to create the clessification is 
+disputed here. Rather, the only issue is the appropriate /evel o/ 
+scrutiny of the State’s justifications for that classification, a ques- 
+tion which, in the absence of a suspect class, turns sole’) on the 
+existence or non-existence of a relevant fundamental constitutional! 
+right. See, e.g., Nordlinger Vv. Hahn, 505 U.S. 1, 10 (1992). 
+eta ae 
+i ane 
+i3 
+ences and minority status) cover on/y members of groups 
+who as a matter of policy have been determined to be 
+deserving of special treatment, an exercise that, by defini- 
+tion, involves line-drawing of precisely the sort reflected 
+in Amendment 2 (and in Title VII of the Civil Rights 
+Act). There certainly is no free-floating fundamental 
+right to have, or to be able to lobby for, state or local 
+quota preferences or protections against discrimination. 
+Amici attempt to conceal this defect by using the term 
+“discrimination” in a purely pejorative sense. But that 
+word, “once divested of its emotional connotation, simply 
+means to distinguish or to draw a line.” Owen M. Fiss, 
+Groups and the Equal Protection Clause, 5 Phil. & Pub. 
+Aff. 107, 109 (1976). As Respondents concede here and 
+their amici have noted elsewhere, all classifications “dis- 
+criminate.” *' And in the absence of a suspect class or a 
+fundamental right, such “discrimination” is permissible 
+if there is any rational connection between the classifi- 
+cation and legitimate state objectives. The amici’s ap- 
+proach would substitute an analysis of “important” issues 
+(in a federal court’s view) for fundamental constitutional 
+rights analysis.** 
+In the end, Respondents’ amici, like Respondents 
+themselves, are left arguing that the Court should 
+create a new fundamental constitutional right to de- 
+mand that the people place no limits on the policies that 
+21 See Resp. Br. 37 (“By definition, every classification serves the 
+purpose of discriminating against the group that the classification 
+burdens”); John H. Ely, Democracy & Distrust 30 (1980) (“Leg- 
+islation characteristically classifies, distributing certain benefits to, 
+or requiring certain behavior of, some but not others’); Gerald 
+Gunther, Constitutional Law 608 (12th ed. 1991). 
+22 Amici attempt to avoid the limitless nature of their theory by 
+claiming that Amendment 2 is sui generis in rendering a group 
+“completely ineligible” to obtein important legal protections. But 
+Amendment 2 clearly does not render supporters of special state 
+law protections for homosexus!s and bisexuals “completely in- 
+eligible” to obtain them. To the contrary, it merely alters the means 
+by which such extraconstitutional protections must he odopted in 
+Colorado-—after Amendment 2, a statewide referendum is required. 
+14 
+their elected representatives can legislate. To do so would 
+both revolutionize equal protection jurisprudence and 
+completely rewrite the federal-state balance crafted by the 
+Framers of the Constitution, as the amici States note, 
+“effectively prvhibit[ing] states from addressing many 
+substantive issues at the state level.” See Br. of Amici 
+Curiae States in Support of Petitioners 3; id. at 21-24 
+(cataloging civil service, education, public utility, abor- 
+tion funding, anti-smoking and other state measures 
+threatened by Respondents’ equal protection theory). 
+Fortunately, that result is foreclosed; under this Court’s 
+settled authority—with James v. Valtierra standing at the 
+forefront—Amendment 2 is subject to rational basis 
+scrutiny. 
+Ill. AMENDMENT 2 RATIONALLY SERVES LEGITI- 
+MATE STATE ENDS. 
+Highly deferential rational basis review “requires only 
+a rational means to serve a legitimate end.” City of 
+Cleburne v. Cleburne Living Ctr., Inc., 473 U.S. 432, 
+442 (1985). Respondents do not dispute that Amend- 
+ment 2 serves each of the State’s asserted interests; nor 
+do they argue that all of those interests are illegitimate. 
+Indeed, the lower courts found some of those interests to 
+be not only legitimate, but compelling. See Pet. App. 
+B-11, B-13, C-14.*% Respondents contend that Amend- 
+ment 2 is facially invalid because (1) it was motivated 
+in part by “antipathy,” and (2) its “fit” is not sufficiently 
+“tight” to the interests it serves. Both contentions rest on 
+fundamental misunderstandings of the law and the record. 
+Respondents are, of course, correct that a naked arbi- 
+trary desire affirmatively to harm, by itself, is not a legiti- 
+*3 See also Equality Found., Inc., 54 F.3d at 270 (finding “a 
+litany of valid community interests” supporting a similar provision, 
+including: (1) “enhanced associational liberty”; (2) “returning 
+the municipal government to a position of neutrality”; (3) reduc- 
+ing “governmental regulation” of “private social and economic 
+conduct” and “augment{ing] the degree of personal autonomy and 
+collective popular sovereignty legally permitted concerning deeply 
+personal choices and beliefs”; and (4) “cost savings for... 
+taxpayers’’). 
+I re ie tet te Hie: 
+15 
+mate purpose even for non-racial discrimination. But such 
+antipathy was not the purpose of Amendment 2. Re- 
+spondents stumble in their definition of “antipathy.” This 
+Court has repeatedly distinguished antipathy for a group 
+from a belief that, when limited public resources must be 
+allocated, one group is less deserving of those resources 
+than another. See, e.g., United States R.R. Retirement Bd. 
+v. Fritz, 449 U.S. 166, 177 (1980). The record demon- 
+strates thet Coloradans are largely tolerant of homosexual- 
+ity,** yet unwilling to support governmental action which 
+confers benefits on a relatively privileged group at the 
+expense of the less-privileged.~* 
+Respondents attempt to use carefully selected statements 
+of certain supporters of Amendment 2 to infect with a 
+sense of mean-spiritedness those 813,966 Coloradans who 
+cast votes in favor of Amendment 2. But the trial court 
+expressly rejected this condemnation of voter motives, 
+see Pet. App. E-10, and that should be the end of the 
+matter. Crawford, 458 U.S. at 545 (“we will not dispute 
+the judgment of the [lower court] or impugn the motives 
+of the State’s electorate”). In any event, there is simply 
+no basis upon which to conclude that nearly a million 
+Colorado voters were motivated by antipathy.*” Amend- 
+24In a December 1992 survey: (a) 81° agreed that, except for 
+their choice of sexual partners, homosexuals are not really different 
+from anyone else; (b) 59% thought homosexuals should be allowed 
+to serve in the military: (c) only 6° thought homosexuals were 
+more likely than heterosexuals to molest children; and (d) only 
+13% thought homosexual behavior should be illegal. See Def. 
+Ex. B. (J.A. 120, 123-25; v. 9, p. 65-70). 
+*5 Seventy-three percent of those surveyed a month after the 
+election thought Amendment 2 was enacted in opposition to laws 
+that give homosexuals a type of special or protected status. See 
+Def. Ex. B (J.A. 120; v. 18, p. 1341; v. 19, pp. 1349-51). 
+26 See, e.g., City of Mobile v. Bolden, 446 U.S. 55, 92 (1980) 
+(Stevens, J., concurring) (“a political decision that is supported 
+by valid and articulable justifications cannot be invalid simply 
+because some participants in the decision-making process were 
+motivated by a purpose to disadvantage a minority group”); 
+Arthur v. City of Toledo, 782 F.2d 565, 573-74 (6th Cir. 1986) 
+(inquiries into voter motivation permissible only in the context of 
+race). 
+16 
+ment 2 undeniably was the result of a hard-fought political 
+campaign involving instances of “extremism on both 
+sides,” R. at v. 16, p. 897," but the Amendment’s spon- 
+sors specifically disavowed “hatred” as a motive or effect 
+of the Amendment, relying instead on the basic theme 
+that 
+Amendment 2 says basically one thing: that homo- 
+sexuals, like all Americans, deserve equal rights. But 
+nothing about their circumstances, their lifestyle or 
+their political power rates them as a group in need 
+of special rights. 
+Lodging at 7. Significantly, the Ballot Analysis did not 
+include any of the fears to which Respondents now point 
+as motivating passage of the amendment. That analysis 
+fully supports the interpretation of Amendment 2 urged 
+by Petitioners. See Pet. App. F. See also Crawford, 458 
+U.S. at 543-45 (declining to look beyond the purposes 
+of the proposition as “stated in its text”). 
+Respondents’ obsession with the “fit” between Amend- 
+ment 2 and each of the individual legitimate state in- 
+terests it serves is equally misplaced. Under rational basis 
+review, a law need not represent a “[]perfect fit between 
+means and ends,” Heller v. Doe, 113 S. Ct. 2637, 2643 
+(1993), but only a “rough accommodation” of the State’s 
+interests. See, e.g., San Antonio Indep. Sch. Dist. v. 
+Rodriguez, 411 U.S. 1, 55 (1973). Respondents merely 
+assume, without analysis, that the purposes of Amendment 
+2 cannot “explain the law’s particular selectivity.” Resp. 
+Br. 38. As always, the critical question is whether there 
+is a rational reason that justifies disparate treatment. As 
+shown, the Colorado voters’ decision to focus on the issue 
+27 Respondents make much of the morality-based concerns ex- 
+pressed by certain supporters of Amendment 2. But this Court has 
+repeatedly recognized the validity of legislating on the basis of 
+moral judgment. See, ¢.g., Barnes v. Glen Theatre, Inc., 111 S. Ct. 
+2456, 2461-62 (1991) (plurality opinion) (State’s interest in “pro- 
+tecting order and morality” is “compelling; substantial; subordinat- 
+ing; paramount; cogent; strong”); id. at 2465 (Scalia, J., concur- 
+ring); id. at 2469 (Souter, J., concurring). And, in any event, 
+Amendment 2 promotes far more than a simple moral judgment. 
+ee RD. etn Cu tir, yells! 
+Bi tte niet —s —— 
+17 
+of group protections for homsexuals and bisexuals is sup- 
+ported by a number of rational bases, including a con- 
+cern that an amendment forbidding special preferences on 
+the basis of sexual orientation more generally could have 
+threatened existing marriage, tax, and other laws, thereby 
+seriously undermining legitimate state interests. 
+An additional flaw in Respondents’ analysis is their 
+failure to consider whether Amendment 2 is rationally 
+related to the State’s asserted interests considered in the 
+aggregate. This Court has repeatedly stated that it “will 
+not overturn .. . a statute unless the varying treatment 
+of different groups or persons is so unrelated to the 
+achievement of any combination of legitimate purposes 
+that we can only conclude that the legislature’s actions 
+were irrational.” Vance v. Bradley, 440 U.S. 93, 97 
+(1979) (emphasis added). Respondents’ interest-by- 
+interest approach incorrectly assumes that what could be 
+constitutionally accomplished by several more narrowly 
+tailored amendments cannot be accomplished in a single 
+amendment that promotes all of the State’s asserted inter- 
+ests simultaneously. See, e.g., Hughes v. Alexandria Scrap 
+Corp., 426 U.S. 794, 813 (1976) (“That Maryland might 
+have furthered its underlying purpose more artfully, more 
+directly, or more completely, does not warrant a conclu- 
+sion that the method it chose is unconstitutional”). That 
+portion of Amendment 2’s “sweep” not fully explained by 
+the State’s interest in promoting religious freedom, for 
+example, is easily justified by the State’s other legitimate 
+interests, including the State’s desire to use its limited 
+resources to provide the benefit of anti-discrimination laws 
+to those most in need. 
+Even assessed individually, however, each of the State’s 
+interests easily satisfies rational basis review. For ex- 
+ample, Amendment 2 is a rational response to the undis- 
+puted fact that Colorado has finite resources. While this 
+Court has held that a State need not allocate any of its 
+resources to provide members of any group with protec- 
+tions from discrimination beyond those afforded by the 
+18 
+Fourteenth Amendment, see Crawford, 458 U.S. at 535- 
+40, Colorado has chosen to provide some such benefits. 
+As the trial court found, homosexuals tend to be better 
+educated, wealthier, and possess greater political clout 
+than the public generally, and surely when compared to 
+other protected minorities. See Pet. App. B-6 n. 3, C-18. 
+The people of Colorado chose to use the State’s limited re- 
+sources for the benefit of other groups (e.g., racial minori- 
+ties) who are generally less well situated.” This Court 
+has repeatedly affirmed the rationality of this approach.” 
+Indeed, that the line drawn by the people of Colorado is 
+both rational and constitutionally legitimate is demon- 
+strated by the fact that Congress in Title VII of the 
+Civil Rights Act made a similar judgment. 
+Respondents do not even contest that Amendment 
+2 advances religious freedom or associational privacy; 
+rather, they argue only that these interests “cannot explain 
+either Amendment 2’s sweeping ban on protection or its 
+selective concentration of burdens on one group.” Resp. 
+Br. 40. But certainly, the State’s religious freedom and 
+associational privacy interests explain the repeal of exist- 
+ing special rights and the removal of the issue to the state 
+referendum process. No more is required in this facial 
+challenge.” And the people of Colorado could rationally 
+28 Respondents are simply wrong in contending that anti- 
+discrimination protections for homosexuals do not “consume gov- 
+ernmental resources.” Resp. Br. 41. Every enforcement of such 
+laws utilizes finite court time and resources, placing additional 
+costs on a system already unable speedily to consider the discrimi- 
+nation claims of the relatively less privileged. Respondent cities 
+effectively concede as much: some drew policy lines that exempted 
+small landlords and businesses, while others did not. Compare J.A. 
+33, 42 with J.A. 62, 90. 
+29 See, e.g., Jefferson Vv. Hackney, 406 U.S. 535, 549 (1972); 
+Dandridge Vv. Williams, 397 U.S. 471, 479 (1970). 
+39 In repeatedly citing City of Cleburne v. Cleburne Living Ctr. 
+Inc., 473 U.S. 432 (1985), Respondents ignore that Cleburne was 
+an “as applied” challenge, and that the Court vacated the lower 
+court’s facial invalidation of the challenged statute, affirming only 
+ee ee ee - 
+19 
+conclude that because laws granting special protections to 
+homosexuals may infringe both religious freedom and 
+privacy interests, such laws do greater damage to those 
+interests than other anti-discrimination provisions. See, 
+e.g., Williamson v. Lee Optical, Inc., 348 U.S. 483, 488- 
+89 (1955) (State may address continuum of activity that 
+differs by degrees “one step at a time”). Amendment 2 
+restores government neutrality on a difficult and divisive 
+social issue; it promotes basic liberty interests by recog- 
+nizing a diversity of views on this issue.” 
+Finally, Respondents’ claim that the State’s interest in 
+deterring factionalism—i.e., resolving an issue as a matter 
+of statewide policy—is illegitimate is foreclosed by this 
+Court’s repeated recognition that the prevention of faction- 
+alism is not only a legitimate, but a compelling State in- 
+terest.“ Respondents contend that “Amendment 2 sup- 
+presses ‘factionalism’ only by suppresing one side of the 
+political debate.” Resp. Br. 47. To the contrary, neither 
+side of the debate is suppresed; rather, Amendment 2 re- 
+quires only that views on this issue—whenever, wherever 
+and by whomever expressed—be acted upon by statewide 
+referendum. 
+ok ok ok 
+This facial challenge to the constitutionality of Amend- 
+ment 2 can be correctly decided on the basis of two simple 
+propositions. First, there is no difference between classi- 
+fications based on poverty and classifications based on 
+homosexuality or bisexuality for purposes of the Equal 
+Protection Clause’s fundamental rights analysis, and thus 
+James v. Valtierra requires this case to be decided under 
+rational basis scrutiny. Second, the same judgment that 
+a finding that a particular application was invalid because it rested 
+solely “on an irrational prejudice.” Jd. at 447, 450. 
+51 Respondents ignore that Amendment 2 repeals laws which 
+expose private individuals to substantial criminal and civil penal- 
+ties in an extraordinarily broad set of circumstances. 
+32 See, e.g., Storer Vv. Brown, 415 U.S. 724, 725, 736 (1974); 
+Eu v. San Francisco County Democratic Cent. Comm., 489 U.S. 
+214, 226 (1989); Burdick v. Takushi, 504 U.S. 428, 489 (1992). 
+20 
+motivated Congress not to extend the protections of 
+Title VII to homosexuals and bisexuals legitimately mo- 
+tivated Coloradans to repeal those same protections from 
+state agencies and local governments and to insist that the 
+issue be resolved solely, but fairly, by the electorate as 
+a whole. 
+At the end of the day, Colorado homosexuals and bi- 
+sexuals, like all individuals, retain Equal Protection Clause 
+protection from irrational government classifications (and 
+irrational or unintended applications of Amendment 2), 
+but, like most individuals, they have no right to demand 
+government intervention in purely private decisions. 
+Through Amendment 2, the people of Colorado over- 
+ruled the decisions of some of their elected representa- 
+tives to interject government in such private choices. 
+Amendment 2 accomplishes that goal in a single measure 
+without requiring repetitive repeal efforts, and under this 
+Court’s prior decisions Amendment 2 is constitutional. 
+CONCLUSION 
+The judgment of the Supreme Court of Colorado 
+should be reversed. 
+Respectfully submitted, 
+GALE A. NORTON * REX E. LEE 
+Attorney Genera! of Colorado CARTER G. PHILLIPS 
+STEPHEN K. ERKENBRACK Special Assistant Attorneys 
+Chief Deputy Attorney General General 
+TIMOTHY M. TYMKOVICH 2840 Iroquois Drive 
+Solicitor General Provo, Utah 84604 
+JOHN DANIEL DAILEY (801) 373-3342 
+Deputy Attorney General 
+PAUL FARLEY 
+Deputy Attorney General 
+COLORADO DEPARTMENT OF LAW 
+1525 Sherman Street, 5th Floor 
+Denver, Colorado 80203 
+(303) 866-4500 
+Attorneys for Petitioners 
+August 4, 1995 * Counsel of Record 
+ee 
+ean ee ae — ss) 

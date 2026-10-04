@@ -1,0 +1,258 @@
+In the Supreme Court of the Bnited States 
+OCTOBER TERM, 1995 
+UNITED STATES OF AMERICA, PETITIONER 
+v. 
+THOMAS R. NOLAND, TRUSTEE FOR DEBTOR 
+First TRUCK LINES, INC. 
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE SIXTH CIRCUIT 
+REPLY BRIEF FOR THE UNITED STATES 
+Drew S. Days, Ill 
+Solicitor General 
+Department of Justice 
+Washington, D.C. 20530 
+(202) 514-2217 
+TABLE OF AUTHORITIES 
+Cases: Page 
+Benjamin v. Diamond, 563 F.2d 692 (Sth Cir. 
+PTI cbsenaciiiemuaididistiaiasii a 4 
+Boteler v. Ingels, 308 U.S. 57 (1989) ..................... 2 
+Columbia Ribbon Co., In re, 117 F.2d 999 (3d Cir. 
+ENE TSE ERE a a aE 4,5 
+Comstock vy. Group of Institutional Investors, 
+cg SES SEES Sa 4 
+Nicholas vy. United States, 384 U.S. 678 (1966) ..... 2.3.5 
+Norwest Bank Worthington v. Ahlers, 485 U.S. 
+ETAT ESE se ee ea 2 
+Stebbins v. Crocker Citizens National Bank. 
+516 F.2d 784 (9th Cir.), cert. denied, 423 U.S. 
+SERS R SSE RATE SP ate eee a 2.4.5 
+United States v. Killoren, 119 F.2d 364 (8th Cir.), 
+cert. denied, 314 U.S. 640 (1941) .........0................ 4,5 
+United States v. Reorganized CF&I Fabricators 
+of Utah, Inc., 53 F.3d 1155 (6th Cir. 1995), 
+petition for cert. pending, No. 95-325 .................. 7 
+Statutes: 
+Bankruptey Code, 11 U.S.C. 101 ef seq.: 
+St Se a 1,3 
+UN 4,5, 6 
+i) SS ERPS a iuetidipdeeiiapanaegeeneseetes 3 
+LET TS 3 
+Internal Revenue Code (26 U.S.C.): 
+RGIS SSE TI NO COT 6 
+Miscellaneous: 
+Note, No Fault Equitable Subordination: 
+Reassuring Investors That Only Government 
+Penalty Claims Are At Risk, 34 Wm. & Mary 
+* & {: eee iptidbntbebaasibiibedinties 6 
+In the Supreme Court of the United States 
+OcTOBER TERM, 1995 
+No. 95-323 
+UNITED STATES OF AMERICA, PETITIONER 
+v. 
+THOMAS R. NOLAND, TRUSTEE FOR DEBTOR 
+First Truck LINEs, INC. 
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED BTATES COURT OF APPEALS 
+FOR THE SIXTH CIRCUIT 
+REPLY BRIEF FOR THE UNITED STATES 
+1. In this case, the court of appeals applied judge- 
+made “principles of equitable subordination” to nul- 
+lify the determination of Congress that postpetition 
+tax penalties should be given “[flirst” priority in the 
+distribution of the assets of the debtor’s estate (11 
+U.S.C, 507(a)(1)). The court predicated its decision on 
+the view that payment of the tax penalty claim on a 
+first priority basis would be “unfair” to creditors who 
+had extended value to the debtor because it would 
+reduce the assets available for distribution to them 
+(Pet. App. 19a). By allowing its views of what is “fair” 
+(1) 
+2 
+or “unfair” to override the express congressional de- 
+termination as to the priority to be afforded to these 
+competing claims, the court of appeals violated the 
+fundamental principle that a bankruptcy court’s 
+equitable powers “must and can only be exercised 
+within the confines of the Bankruptcy Code” (Nor- 
+west Bank Worthington v. Ahlers, 485 U.S. 197, 206 
+(1988)). The Sixth Circuit’s decision also conflicts 
+with the established rule that equitable subordination 
+in bankruptcy does not permit a court “to contradict 
+statutory or common law when [it] feels a fairer 
+result may be obtained by application of a different 
+rule.” Stebbins v. Crocker Citizens National Bank, 
+516 F.2d 784, 787 (9th Cir.), cert. denied, 423 U.S. 913 
+(1975). The court further compounded its error by 
+ignoring the decisions of this Court that hold that 
+claims for postpetition penalties are to be paid from 
+the assets of the estate in order to ensure compliance 
+with the laws that the penalties are designed to 
+enforce. See Nicholas v. United States, 384 U.S. 678, 
+694 (1966); Boteler v. Ingels, 308 U.S. 57, 61 (1939). ' 
+2. Respondent errs in contending (Br. in Opp. 11) 
+that the decision in this case will not result in the 
+nonpayment of postpetition tax penalty claims in 
+bankruptcy cases. The court of appeals subordinated 
+the government’s claim precisely because the estate 
+lacked sufficient assets to satisfy the claims of all 
+creditors (Pet. App. 19a). It is obvious that a similar 
+deficiency in assets exists in virtually all bankruptcy 
+cases. Moreover, in the rare case in which a bank- 
+ruptey estate has sufficient assets to satisfy all 
+' Respondent does not dispute that the court of appeals 
+erred in stating (Pet. App. 12a-13a) that all penalty claims were 
+disallowed under the former Bankruptcy Act. 
+3 
+claims, there would be no need to invoke the doctrine 
+of equitable subordination—for all claims would then 
+be paid. 
+The priority scheme of the Bankruptcy Code serves 
+a purpose only when the assets of the bankruptcy 
+estate are not sufficient to satisfy all claims. The 
+approach adopted by the court of appeals in this case 
+deviates from the priority scheme that Congress 
+enacted by nullifying the express award of first 
+priority to postpetition tax penalties under Section 
+507(a\(1) of the Bankruptcy Code. * 
+3. Respondent errs in contending (Br. in Opp. 8-9) 
+that the “plain language” of Section 726 supports the 
+decision of the court of appeals. Section 726 merely 
+provides that the priorities Congress established in 
+the Bankruptcy Code apply in Chapter 7 cases “[e]}x- 
+cept as provided in section 510” (11 U.S.C. 726(a)). 
+Section 726 does not provide any guidance on the 
+issue that is critical to this case: which is how the 
+* Respondent argues (Br. in Opp. 11 n.7) that equitable 
+subordination is appropriate to punish the IRS for failure to 
+monitor the estate’s compliance with the tax laws. That con- 
+tention is in error for several reasons. First, the statutory 
+grant of first priority is not contingent upon IRS monitoring of 
+the debtor. Second, as this Court recognized ip ‘Vicholas v. 
+United States, 384 U.S. at 694, the grant of firm priority is 
+made precisely to ensure that trustees and debtors-in-jsossession 
+comply with the tax laws. To argue, as respondent does, that 
+penalty claims should not be paid because the debtor-in- 
+possession did not comply with its obligations turns the statute 
+on its head. Moreover, it is unrealistic to suggest that the IRS 
+is in a position to monitor the internal practices of thousands of 
+bankruptcy estates. Ours is a self-reporting system of taxation, 
+which relies on penalties to assure compliance. 
+4d 
+“principles of equitable subordination” codified in — 
+Section 510(c) are to be applied. * 
+The decisions of this Court and of other courts of 
+appeals establish that “principles of equitable subor- 
+dination” require the presence of creditor miscon- 
+duct. See Comstock v. Group of Institutional Inves- 
+tors, 335 U.S. 211, 229 (1948) (“It is not mere exis- 
+tence of an opportunity to do wrong that brings the 
+rule into play; it is the unconscionable use of the 
+opportunity afforded by the domination to advantage 
+itself at the injury of the subsidiary that deprives the 
+wrongdoer of the fruits of his wrong.”); In re Colum- 
+bia Ribbon Co., 117 F.2d 999, 1002 (3d Cir. 1941); 
+Benjamin v. Diamond, 563 F.2d 692, 700 (5th Cir. 
+1977) (equitable subordination requires that “[tlhe 
+claimant must have engaged in some type of in- 
+equitable conduct”); United States v. Killoren, 119 
+F.2d 364, 366 (8th Cir.), cert. denied, 314 U.S. 640 
+(1941); Stebbins v. Crocker Citizens National Bank, 
+516 F.2d at 787. Moreover, as the petition notes (Pet. 
+17-19), in codifying these preexisting “principles of 
+equitable subordination” in Section 510(c) of the 
+Bankruptcy Code, Congress considered and rejected a 
+provision that would have granted bankruptcy courts 
+* Respondent errs in asserting (Br. in Opp. 7-8) that the 
+issue in this case is whether equitable subordination applies to 
+priority claims. We do not dispute that priority claims in 
+Chapter 7 cases may be subordinated. The question presented 
+by this case involves the circumstances under which sub- 
+ordination may be accomplished under “principles of equitable 
+subordination.” In our view, those circumstances require 
+creditor misconduct; any subordination based simply upon the 
+nature of the claim itself necessarily undertakes to reweigh the 
+competing equities that Congress itself balanced in formulating 
+the statutory priority scheme. 
+SS & 
+5 
+authority to subordinate claims on the _ broader 
+grounds asserted by the court of appeals in this case. 
+4. Respondent does not cite or discuss the de- 
+cisions of the courts of appeals under the former 
+Bankruptcy Act that established the “principles of 
+equitable subordination” that Congress codified in 
+Section 510(c) of the Bankruptcy Code. See, e.g., Jn re 
+Columbia Ribbon Co., 117 F.2d at 1002; United States 
+v. Killoren, 119 F.2d at 366; Stebbins v. Crocker 
+Citizens National Bank, 516 F.2d at 787. Moreover, 
+respondent does not dispute that the decision of the 
+court of appeals in the present case conflicts with 
+those preexisting decisions. And, except for the fact 
+that Congress codified the preexisting “principles of 
+equitable subordination” in Section 510(c) of the Code, 
+respondent offers no basis for distinguishing those 
+decisions from the conflicting decision in the present 
+case. In sum, respondent’s contention that a conflict 
+does not exist rests solely upon the untenable 
+proposition that Congress changed the preexisting 
+“principles of equitable subordination” under the 
+guise of codifying them. 
+5. Contrary to respondent’s contention (Br. in Opp. 
+13-14), the decision in the present case has ex- 
+ceptional administrative importance. Trustees and 
+debtors-in-possession often incur tax penalties dur- 
+ing the administration of a bankruptcy estate. In 
+Nicholas v. United States, 384 U.S. at 699, this Court 
+emphasized the importance of requiring payment of 
+such penalties on a first priority basis, to ensure that 
+debtors and trustees abide by the same rules of law 
+that apply to other businesses. As the petition notes 
+(Pet. 22-23), the decision in this case has recurring 
+importance not only for enforcement of federal, state 
+and local tax laws; it also threatens to undermine 
+6 
+enforcement of a broad variety of governmental reg- 
+ulations, such as health and safety rules that are 
+designed to protect workers and the public at large. 
+Moreover, as one commentator has noted, by un- 
+hinging the doctrine of equitable subordination from 
+its traditional framework, the rationale applied by 
+the court of appeals in this case affects not only 
+governmental claims; it has also sent a “chill” 
+through the financial community by threatening 
+to “eclipse the structure of bankruptcy prioritiza- 
+tion.” Note, No Fault Equitable Subordination: Re- 
+assuring Investors That Only Government Penalty 
+Claims Are At Risk, 34 Wm. & Mary L. Rev. 487, 488 
+(1993). By ignoring and nullifying the priorities that 
+Congress established, the reasoning applied by the 
+court of appeals in this case poses a serious threat to 
+the integrity of the statutory scheme that Congress 
+enacted. 
+6. As noted in the petition (Pet. 10 n.1), we suggest 
+that this case be set for argument together with 
+United States v. Reorganized CF&I Fabricators of 
+Utah. Inc., No. 95-325, in the event that certiorari is 
+granted in both cases. The second question presented 
+in the CF'&/ case is whether a prepetition excise tax 
+claim under Section 4971(a) of the Internal Revenue 
+Code, 26 U.S.C. 4971(a), may be equitably subordi- 
+nated to general unsecured claims in the absence of 
+creditor misconduct. Although respondent suggests 
+(Br. in Opp. 15) that the CF'&/ case is distinguishable, 
+the controlling question presented in both cases is 
+identical: whether Section 510(c) of the Bankruptcy 
+Code authorizes equitable subordination of claims in 
+the absence of creditor misconduct. The Tenth Cir- 
+cuit recognized the closeness of these two cases by 
+relying on the Sixth Circuit’s decision in this case in 
+its opinion in CF &/. See 53 F.3d 1155, 1158 (1995). 
+* * * * * 
+For the reasons set forth above and in the petition, 
+the petition for a writ of certiorari should be granted. 
+Respectfully submitted. 
+Drew S. Days, Ill 
+Solicitor General 
+NOVEMBER 1995 

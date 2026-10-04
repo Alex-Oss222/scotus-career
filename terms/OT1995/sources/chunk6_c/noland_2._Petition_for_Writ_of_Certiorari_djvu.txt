@@ -1,0 +1,3871 @@
+Supreme Court, U.S. 
+FILED 
+
+
+f 95.323 Aus 2 4 1995) 
+— — ͤ à4ñAvm˖ſ —— a... 
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+UNITED STATES OF AMERICA, PETITIONER 
+
+
+V. 
+
+
+THOMAS R. NOLAND, TRUSTEE FOR DEBTOR 
+FIRST TRUCK LINES, INC. 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE SIXTH CIRCUIT 
+
+
+Drew S. Days, III 
+Solicitor General 
+
+
+LORETTA C. ARGRETT 
+Assistant Attorney General 
+
+
+LAWRENCE G. WALLACE 
+Deputy Solicitor General 
+
+
+KENT L. JONES 
+Assistant to the Solicitor General 
+
+
+GARY D. GRAY 
+EDWARD T. PERELMUTER 
+Attorneys 
+
+
+Department of Justice 
+Washington, D.C. 20530 
+(202) 514-2217 
+
+
+QUESTION PRESENTED 
+
+
+Taxes and tax penalties that arise after the date 
+of a bankruptcy filing are “administrative expenses” 
+of the bankruptcy estate. 11 U.S.C. 503 (b) (1) (B) 
+and (C). As “administrative expenses,” such taxes 
+and tax penalties are entitled to first priority in the 
+distribution of the estate. 11 U.S.C. 507(a) (1). This 
+case presents the following question : 
+
+
+Whether the statutory priority that Congress con- 
+ferred on the government’s claim for post-petition 
+tax penalties may—under the “principles of equitable 
+subordination” codified in Section 510(c)(1) of the 
+Bankruptcy Code, 11 U.S.C. 510(c)(1)—be subor- 
+dinated to the claims of general unsecured creditors 
+solely because a court determines that it would en- 
+hance “fairness” and “justice” to pay the general 
+creditors first. 
+
+
+(1) 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+EE ee 1 
+D 2 ̃ A 2 
+Statutory provisions involve 2 
+r 2 
+Reasons for granting the petitio nn sy 
+D èÄÜÄð . —. ⏑ ½¼Ü— % —ↄ—M; ] g 25 
+T 1a 
+, , ! 23a 
+r .. 24a 
+EE a oe a 26a 
+r 34a 
+1 56a 
+TABLE OF AUTHORITIES 
+Cases: 
+
+Benjamin v. Diamond, 563 F.2d 693 (5th Cir. 
+Ee 16-17, 18 
+Boteler v. Ingels, 308 U.S. 57 (1939) 14, 15 
+
+Burden v. United States, 917 F.2d 11 (8d Cir. 
+ES 6, 15, 16, 17, 19 
+
+
+Carpenter v. Wabash Ry., 309 U.S. 23 (1940) 12, 18 
+Colin, In re, 44 B. R. 806 (Bankr. S.D.N.Y. 1984) 23 
+Columbia Ribbon Co., In re, 117 F.2d 999 (3d Cir. 
+
+
+re 1, 18, 16 
+
+Comstock v. Group of Institutional Investors, 835 
+r . 7... 5, 11 
+
+Credit Industrial Corp., In re, 366 F.2d 402 2d 
+D 17, 18, 21 
+New Jersey V. Anderson, 208 U.S. 483 (1906) 18 
+Nicholas v. United States, 384 U.S. 678 (1966) 9, 14, 
+15, 24 
+
+
+(111) 
+
+
+IV 
+Cases—Continued: Page 
+Norwest Bank Worthington v. Ahlers, 485 U.S. 197 
+(19885 E * 12 
+Pepper v. Litton, 308 U.S. 295 (1939) * 5, 21 
+Schultz Broadway Inn v. United States, 912 F.2d 
+230 (8th Cir. 1990) r 
+Simonson v. Granquist, 362 U.S. 38 (1962) 1 * 15 
+
+
+Stebbins v. Crocker Citizens National Bank, 516 
+F.2d 784 (9th Cir.), cert. denied, 423 U.S. 913 
+
+
+ss Cees 1 8, 9, 11, 12, 13, 18, 22 
+Stirling Homer Corp., In re, 579 F.2d 206 (2d Cir. 
+
+eee Sever wane ee AE AS 20, 21 
+Taylor v. Standard Gas & Electric Co., 306 U.S. 
+
+307 (1939) . — ae 
+United States Dep’t of Interior v. Elliott, 761 F. 2d 
+
+eee ee 24 
+United States v. Killoren, 119 F.2d 364 (8th Cir. 
+
+1941)... 17 
+
+
+United States v. Mansfield Tire & Rubber Co., 942 
+
+F.2d 1055 (6th Cir. 1991), cert. denied, 502 U.S. 
+
+1092 (1992) ... r Sa 5-6 
+United States v. New York Creditmen’s Adjust- 
+
+ment Bureau, Inc., 394 F.2d 340 (2d Cir. 1968) 15 
+United States v. Reorganized CF&I Fabricators of 
+
+Utah, Inc., 53 F.3d 1155 (10th Cir. 1995) 10, 19, 
+
+
+20, 21 
+
+Virtual Network Services Corp., In re, 902 F.2d 
+1246 (7th Cir. 1990) tactile 7, 19, 20, 22 
+
+Statutes: 
+Bankruptcy Act § 57j, 11 U.S.C 98(j) (1976) 15 
+Bankruptcy Code, 11 U.S.C. et seq.: 
+
+OE — 2, 56a 
+11 U.S.C. 508 (b) ()( 00 2, 3, 4, 8, 10, 14, 15, 56a 
+
+
+11 U.S.C. 507 (a) (ij 2, 3, 14, 562 
+11 — 
+
+
+1 —Td—— 10 
+. — T 10 
+11 U.S.C, 510 ) 8 11, 21 
+
+
+eS 2. 4, 8. 6, 8, 11, 18 
+
+
+Statutes—Continued: Page 
+Po] 3, 4, 15, 16, 17, 57a 
+11 U.S.C. 726 ........... . eee 14, 57a 
+(UC —— 2,10 
+1 EE 10, 14, 57a 
+CQ — 14, 19, 58a 
+Miscellaneous: 
+2 Collier Bankruptcy Manual (3d ed. 1995) 11 
+3 Collier on Bankruptcy (15th ed. 1995) ................ 19-20 
+124 Cong. Rec. (1978): 
+OEE 3, 6, 17 
+91111181818 ů—ů———— 15, 18 
+— ͤ — —— 3 
+— —— —— 3, 15 
+— 15, 18 
+H.R. 8200, 95th Cong., Ist Sess. (1977) * 18 
+H.R. Rep. No. 595, 95th Cong., Ist Sess. (1977) 18 
+
+
+Herzog & Zweibel, The Equitable Subordination of 
+Claims in Bankruptcy, 15 Vand L. Rev. 83 
+a 12 
+
+Note, No Fault Equitable Subordination: Reassur- 
+ing Investors That Only Government Penalty 
+Claims Are At Risk, 34 Wm. & Mary L. Rev. 487 
+— 23 
+
+Report of the Commission on the Bankruptcy Laws 
+of the United States, H.R. Doc. No. 137, 93d 
+Cong., Ist Sess. Pt. II (197) 19 
+
+8. Rep. No. 989, 95th Cong., 2d Sess. (1978) nasi 18 
+
+
+Iu the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+No. 
+UNITED STATES OF AMERICA, PETITIONER 
+. 
+
+
+THOMAS R. NOLAND, TRUSTEE FOR DEBTOR 
+First TRUCK LINES, INC. 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE SIXTH CIRCUIT 
+
+
+The Solicitor General, on behalf of the United 
+States of America, petitions for a writ of certiorari 
+to review the judgment of the United States Court 
+of Appeals for the Sixth Circuit in this case. 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (App., infra, 
+la-20a) is reported at 48 F.3d 210. The opinion of the 
+district court (App., infra, 26a-33a) is unreported. 
+The opinion of the bankruptcy court (App., infra, 
+34a-55a) is reported at 148 B. R. 332. 
+
+
+(1) 
+
+
+2 
+
+
+JURISDICTION 
+
+
+The judgment of the cou.* of appeals was filed on 
+March 2, 1995 (App., infra, 23a). A petition for 
+rehearing was denied on June 16, 1995 (App., infra, 
+24a). The jurisdiction of this Court is invoked under 
+28 U.S.C. 1254(1). 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+Sections 503(b)(1)(B) and (C), 507(a)(1), 
+510(c) and 726(a) of the Bankruptcy Code, 11 
+U.S.C. 503(b)(1)(B) and (C), 507(a)(1), 510(c) 
+and 726(a), are reproduced in the Appendix, infra, 
+
+
+at 56a-58a. 
+STATEMENT 
+
+
+1. In 1986, First Truck Lines, Inc., filed a volun- 
+tary petition for relief under Chapter 11 of the Bank- 
+ruptey Code and continued to operate its business as 
+debtor-in-possession. During the following two years, 
+the debtor failed to pay the social security and unem- 
+ployment taxes accruing from its operations. After 
+efforts to reorganize the debtor proved unsuccessful, 
+the bankruptcy case was converted to a Chapter 7 
+liquidation in 1988. Respondent was appointed 
+trustee at that time (App., infra, 2a). 
+
+The Internal Revenue Service filed a request for 
+payment of the taxes, interest and tax penalties that 
+accrued after the filing of the bankruptcy petition. 
+Respondent stipulated that the unpaid postpetition 
+taxes and interest are “administrative expenses” that 
+are entitled to first priority in the distribution of the 
+assets of the estate under Section 507(a)(1) of the 
+Bankruptcy Code, 11 U.S.C. 507(a)(1). Respondent 
+asserted, however, that postpetition tax penalties are 
+
+
+3 
+
+
+not entitled to priority in distribution. The parties 
+applied to the bankruptcy court for resolution of that 
+dispute (App., infra, 2a-3a). 
+
+2. The bankruptcy court acknowledged (App., 
+infra, 40a) that Section 503(b)(1)(C) of the Bank- 
+ruptcy Code expressly defines postpetition tax penal- 
+ties to be “administrative expenses” (11 U.S.C. 
+507(a)(1)). The court observed, however, that Sec- 
+tion 510(c)(1) of the Bankruptey Code, 11 U.S.C. 
+510(c)(1), provides that a court may (ibid.), 
+
+
+under principles of equitable subordination, sub- 
+ordinate for purposes of distribution all or part 
+of an allowed claim to all or part of another 
+allowed claim * * *. 
+
+
+Because Section 510 (e) (1) “does not expressly define 
+the phrase ‘equitable subordination,’” the court 
+stated that it would “resort to an examination of the 
+legislative history” (App., infra, 42a-43a). 
+
+At the time the Bankruptcy Code was enacted in 
+1978, the floor statement of the House sponsor stated 
+(App., infra, 43a, quoting 124 Cong. Rec. 32,398 
+(1978) (Rep. Edwards), and citing 124 Cong. Rec. 
+33,992, 33,998 (1978) (Sen. DeConcini) (emphasis 
+added by court) ) : 
+
+
+It is intended that the term “principles of equi- 
+table subordination” follow existing case law 
+and leave to the courts development of this prin- 
+ciple. To date, under existing law, a claim is 
+generally subordinated only if [the] holder of 
+such claim is guilty of inequitable conduct, ov 
+the claim is of a status susceptible to subordina- 
+tion, such as a penalty or a claim for damages 
+
+
+arising from the purchase or sale of a security 
+of the debtor. 
+
+
+4 
+
+
+The bankruptcy court concluded that this legislative 
+history evidences that Congress intended that a tax 
+“nenalty”—like any other “penalty”—would be “sus- 
+ceptible to subordination” under the “principles of 
+equitable subordination” codified in Section 510(c) 
+of the Code (App., infra, 43a). The court deemed it 
+irrelevant that in 1978 Congress provided a specific 
+statutory priority for postpetition tax “penalties” (11 
+U.S.C. 503 (b) (1) (C)). The court also found it irrel- 
+evant that the United States had not been “guilty of 
+inequitable conduct” in asserting its claim. The court 
+concluded that the government’s claim for tax penal- 
+ties is subject to equitable subordination simply be- 
+cause it is designed to enforce a “penalty” (App., 
+infra, 44a). 
+
+In applying the “principles of equitable subordina- 
+tion” codified in Section 510(c)(1) of the Bank- 
+ruptey Code, the court stated that its task is to 
+“weigh the equities of the various claims on a case- 
+by-case basis” to determine whether subordination is 
+appropriate (App., infra, 44a). The court began its 
+“weighing” or “balancing” of “the equities” by dis- 
+tinguishing between the pecuniary losses incurred by 
+general commercial creditors and the nonpecuniary 
+loss represented by statutory tax penalties. Finding 
+that the Bankruptcy Code contains a “preference for 
+compensating actual loss claims,” the court held “that 
+the equities tilt in favor of subordinating the post- 
+petition nonpecuniary loss tax penalties sought by 
+the IRS” to “the claims of general unsecured creditors 
+of the debtor” (id. at 49a-50a). Otherwise, the court 
+noted, the assets available for payment of the general 
+unsecured creditors would be reduced by the amount 
+of the tax penalties that, by statute, were given first 
+
+
+5 
+
+
+priority in distribution as administrative expenses of 
+the estate (ibid.). 
+
+3. The district court affirmed (App., infra, 26a- 
+33a). The court stated that all types of priority 
+claims—including first priority claims for adminis- 
+trative expenses—may be subordinated under the 
+“principles of equitable subordination” that Congress 
+codified in Section 510(c) of the Bankruptcy Code 
+(App., infra, 29a). The court agreed with the bank- 
+ruptcy court that the “principles of equitable subor- 
+dination” are not restricted to remedying inequitable 
+misconduct by creditors. The court held, instead, that 
+the “principles of equitable subordination” permit a 
+tax “penalty” to be subordinated solely in order to 
+promote the priority of the claims of other creditors 
+who suffered pecuniary losses from their dealings 
+with the estate (id. at 32a-33a). 
+
+The district court emphasized that “other credi- 
+tors * * * provided value to [the debtor] and will 
+not receive that for which they bargained if the 
+IRS is to be given priority for sums which do not 
+represent out of pocket losses to it” (App., infra, 
+33a). For this reason, the court concluded that “the 
+equities tip in favor of subordinating the IRS’s claim 
+for tax penalties in this case” (ibid.). 
+
+4. a. The court of appeals affirmed (App., infra, 
+la-20a). The court noted that this Court has applied 
+“principles of equitable subordination” in bank- 
+ruptey cases only in situations involving “creditor 
+misconduct” (App., inf 5a, citing Comstock v. 
+Group of Institutional Investors, 335 U.S. 211 
+(1948) ; Pepper v. Litton, 308 U.S. 295 (1939); Tay- 
+lor v. Standard Gas & Electric Co., 306 U.S. 307 
+(1939) ). The court also noted that, in United States 
+
+
+6 
+
+
+v. Mansfield Tire & Rubber Co., 942 F.2d 1055 
+(1991), cert. denied, 502 U.S. 1092 (1992), another 
+panel of that circuit held that the government’s 
+claim for prepetition excise tax liabilities—which 
+have seventh priority in distribution under Section 
+507(a)(7) of the Bankruptcy Code—is not subject 
+to equitable subordination solely in order to improve 
+the “fairness” of the distribution to other creditors 
+(App., infra, 5a-6a). The court held, however, that 
+none of these decisions is controlling in the context 
+of this case, which concerns the application of “prin- 
+ciples of equitable subordination” to a tax “penalty” 
+(id. at 6a). 
+
+The court of appeals followed the analysis of the 
+bankruptcy court in concluding that the legislative 
+history of Section 510(c) indicates that a statutory 
+“penalty” is properly subject to equitable subordina- 
+tion. The court noted that the floor statement of the 
+House sponsor of the 1978 Bankruptcy Reform Act 
+reflected that Congress intended to “follow existing 
+case law and leave to the courts development of this 
+principle” (App., infra, 11a, quoting 124 Cong. Rec. 
+at 32,398 (Rep. Edwards)). The court acknowl- 
+edged that there was no “existing case law” as of 
+1978 that supported the equitable subordination of 
+priority tax penalty claims. The court ascribed this, 
+however, to the fact that, “prior to 1978, nonpecuni- 
+ary loss tax penalty claims against the estate of the 
+bankrupt were not allowed by law” (App., infra, 
+12a). The court noted that three more recent deci- 
+sions have held that claims for prepetition nonpriority 
+tax penalties may be equitably subordinated even 
+though no governmental misconduct occurred (id. at 
+14a, citing Burden v. United States, 917 F.2d 115, 
+119-120 (3d Cir. 1990), In re Virtual Network Serv- 
+
+
+7 
+
+
+ices Corp., 902 F.2d 1246, 1248-1250 (7th Cir. 1990), 
+and Schultz Broadway Inn v. United States, 912 F.2d 
+230, 232-234 (8th Cir. 1990)). The court stated that 
+the reasoning of those decisions applied directly to 
+this case (App., infra, 19a): 
+
+
+We do not see the fairness or the justice in per- 
+mitting the Commissioner’s claim for tax penal- 
+ties, which are not being assessed because of 
+pecuniary losses to the Internal Revenue Service, 
+to enjoy an equal or higher priority with claims 
+based on the extension of value to the debtor, 
+whether secured or not. Further, assessing tax 
+penalties against the estate of a debtor no longer 
+in existence serves no punitive purpose. Because 
+of the nature of postpetition, nonpecuniary loss 
+tax penalty claims in a Chapter 7 case, we be- 
+lieve such claims are susceptible to subordina- 
+tion. To hold otherwise would be to allow credi- 
+tors who have supported the business during its 
+attempt to reorganize to be penalized once that 
+effort has failed and there is not enough to go 
+around. Furthermore, to hold otherwise could 
+result in rewarding the debtor-in-possession, the 
+party who failed to pay the taxes on time, to the 
+detriment of the creditors. The debtor-in- 
+possession remains liable individually for the 
+postpetition tax penalties. However, if the bank- 
+ruptey court cannot subordinate these penalties 
+in the appropriate case, the creditors, and not 
+the debtor-in-possession, will have borne the bur- 
+den of paying the penalties. 
+
+
+b. Judge Batchelder filed a concurring opinion 
+(App., infra, 2la-22a). She stated that the court 
+had correctly determined that the “principles of 
+equitable subordination” permit subordination of pri- 
+ority tax claims. In her view, the plain language 
+
+
+8 
+
+
+of the statute mandates that conclusion and “noth- 
+ing requires us to delve into the legislative history” 
+(id. at 22a): 
+
+
+Section 726(a) explicitly, clearly, and unam- 
+biguously makes the distribution of the property 
+of the estate subject to the provisions of § 510. 
+Postpetition nonpecuniary loss tax penalties are 
+therefore subject to equitable subordination. End 
+of story. 
+
+
+REASONS FOR GRANTING THE PETITION 
+
+
+The court of appeals held in this case that post- 
+petition tax penalties are not to be given the first 
+priority that Congress expressly provided for such 
+claims in Sections 503(b)(1)(C) and 507(a)(7) of 
+the Bankruptcy Code. The court held that claims for 
+such penalties are instead to be denied any priority 
+and are to be subordinated to general unsecured 
+claims against the debtor. The court stated that its 
+conclusion results from application of the judge-made 
+“principles of equitable subordination” that Congress 
+codified in Section 510(c) of the Bankruptcy Code. 
+
+By holding that a tax “penalty” is to be subordi- 
+nated to all other claims, the decision in this case 
+annuls and reverses the precisely opposite set of stat- 
+utory priorities that Congress enacted. The decision 
+thereby conflicts with the established rule that equi- 
+table subordination in bankruptcy does not permit a 
+court “to contradict statutory or common law when 
+[it] feels a fairer result may be obtained by applica- 
+tion of a different rule” (Stebbins v. Crocker Citizens 
+National Bank, 516 F.2d 784, 787 (9th Cir.), cert. 
+denied, 423 U.S. 913 (1975)). The doctrine of equi- 
+table subordination does not confer a power of statu- 
+tory nullification on the bankruptcy courts. Instead, 
+
+
+9 
+
+
+as this Court’s decisions reflect, the doctrine has a 
+far narrower and more appropriate role. Its func- 
+tion is to deter “conduct either in acquiring or as- 
+serting the claim which is itself inequitable” 
+(ibid.). That traditional rationale obviously would 
+not justify subordination of the tax penalty claims 
+in this case. 
+
+By assuming a broad authority to realign statu- 
+tory priorities based upon a “weighing” or “balanc- 
+ing“ of the “equities,” the court of appeals has 
+seriously misapplied the judge-made doctrine of 
+“equitable subordination” and unloosened that doc- 
+trine from its proper moorings. If courts are per- 
+mitted to determine, on a case-by-case analysis of the 
+“balance of the equities,” whose claims are to be 
+paid first and whose are to be paid last, the carefully 
+constructed scheme of priorities established in the 
+Bankruptcy Code would be made superfluous. 
+
+The decision in this case has broad recurring sig- 
+nificance. The conclusion that a prescribed tax pen- 
+alty is to be subordinated to all other claims against 
+the debtor has obvious significance for tax enforce- 
+ment. Indeed, as this Court recognized in Nicholas v. 
+United States, 384 U.S. 678, 694 (1966), Congress 
+enacted the priority for postpetition tax penalties 
+precisely because such penalties are an important 
+and necessary measure for ensuring tax compliance 
+in bankruptcy cases. 
+
+The court’s rationale that, because tax penalty 
+claims do not compensate for pecuniary loss, they 
+should be equitably subordinated to the claims o“ 
+“ereditors who suffered actual losses,” as a matter 
+of “fairness” (App., infra, 19a), places in question 
+not merely the priority of tax penalties. It will 
+spawn litigation over whether claims for other types 
+
+
+10 
+
+
+of governmental penalties, punitive damages, liqui- 
+dated damages and other non-compensatory damages 
+may be “equitably” subordinated simply because 
+those claims do not involve an outlay of funds that 
+extended “value to the debtor” (ibid.). 
+
+Because the courts of appeals are in conflict in 
+their understanding and application of the judge- 
+made doctrine of “equitable subordination,” and be- 
+cause of the importance of the issue presented, re- 
+view by this Court of the decision in this case is 
+warranted.' 
+
+1. a. A postpetition tax penalty is defined by stat- 
+ute to be an “administrative expense” of the bank- 
+ruptey estate. 11 U.S.C. 503 (b) (1) (C). As an ad- 
+ministrative expense,” such a penalty has “[f]irst” 
+priority in the distribution of the assets of the 
+estate. 11 U.S.C. 507(a)(1). See also 11 U.S.C, 
+726(a)(1). 
+
+The priorities that Congress established in the 
+Bankruptcy Code apply “[e]xcept as provided in sec- 
+tion 510” of the Code. 11 U.S.C. 726(a). Section 510 
+authorizes only three specific exceptions to the statu- 
+tory ordering of priorities. First, any claim may be 
+subordinated by agreement. 11 U.S.C. 510(a). See- 
+
+
+1The United States is concurrently filing a petition for a 
+writ of certiorari to review the decision of the Tenth Circuit 
+in United States v. Reorganized CF&I Fabricators of Utah, 
+Inc., 53 F.3d 1155 (1995), which presents issues closely 
+related to those of the present case. If, as we urge, both 
+petitions are granted, we suggest that the two cases be set 
+for argument in tandem. 
+
+We have furnished a copy of the petition in United States 
+v. Reorganized CF&I Fabricators of Utah, Inc. to counsel for 
+respondents in this case. We have also furnished a copy of 
+the petition in this case to counsel for respondents in United 
+States v. Reorganized CF&I Fabricators of Utah, Ine. 
+
+
+ond, claims seeking rescission or damages from sales 
+of the debtor’s securities may be subordinated. 11 
+U.S.C. 510 b). Third, any claim may be subordi- 
+nated to any other claim “under principles of equi- 
+table subordination * * *.” 11 U.S.C. 510(c). The 
+question presented in this case is thus not whether 
+“principles of equitable subordination” may be ap- 
+plied to priority claims; instead, it is what those 
+principles are and how they are to be applied to 
+priority claims. 
+
+b. The judge-made doctrine of equitable subordi- 
+nation has a clear origin and a limited scope (In re 
+— Ribbon Co., 117 F.2d 999, 1002 (3d Cir. 
+
+): 
+
+
+[A] court of bankruptcy under its equitable 
+powers may disallow or subordinate a particular 
+claim in bankruptcy which, because of the fraud- 
+ulent nature of the claim or the bad faith or im- 
+proper conduct of the claimant, ought not in 
+equity and good conscience to be allowed or paid 
+on a parity with other claims. 
+
+See also Stebbins v. Crocker Citizens National Bank, 
+
+516 F.2d 784, 788 (9th Cir.), cert. denied, 423 U.S. 
+
+913 (1975). The issue that is to be resolved “under 
+
+— — equitable subordination” is whether (2 
+r .ankruptcy Manual 7 510.011 
+
+(3d ed. 1995)) : va heat 
+
+
+harmful conduct [of the claimant] was di 
+at other creditors. If it was, the claim which 
+is otherwise provable and allowable should be 
+postponed until the claims of the creditors, who 
+were harmed, have been satisfied. 
+See Comstock v. Group of Institutional Investors, 335 
+U.S. 211, 229 (1948); Pepper v. Litton, 308 U.S. 
+295, 311 (1939); Taylor v. Standard Gas & Electric 
+
+
+12 
+
+
+Co., 306 U.S. 307, 323 (1939); Herzog & Zweibel, 
+The Equitable Subordination of Claims in Bank- 
+ruptey, 15 Vand. L. Rev. 83, 85 (1961). 
+
+The doctrine of equitable subordination thus pro- 
+vides a means to redress harmful misconduct of an 
+individual claimant. The deetrne does not, however, 
+authorize a court to disregard statutory priorities 
+merely because the court concludes that it would be 
+more “fair’—or would somehow be better policy— 
+to adopt a different distribution scheme. [WIhat- 
+ever equitable powers remain in the bankruptcy 
+courts must and can only be exercised within the 
+confines of the Bankruptey Code.” Norwest Bank 
+Worthington v. Ahlers, 485 U.S. 197, 206 (1988). As 
+the Ninth Circuit explained in Stebbins v. Crocker 
+Citizens National Bank, 516 F.2d at 787: 
+
+
+[I]t is important to keep in mind that the chan- 
+cellor never did, and does not now, exercise un- 
+restricted power to contradict statutory or com- 
+mon law when he feels a fairer result may be 
+obtained by application of a different rule. 
+Courts of equity have long applied standards of 
+conscience to conduct on an individual basis to 
+
+
+2 The underlying premise of any application of the doctrine 
+of “equitable subordination” to “creditor misconduct” is that 
+Congress has measured the equities of competing classes of 
+claims but has not measured the conduct of the individual 
+creditors who assert those claims. See Carpenter v. Wabash 
+Ry., 309 U.S. 23, 28 (1940). Because Congress did not (and 
+indeed cannot) take the conduct of individual creditors into 
+account in enacting a bankruptcy distribution scheme, sub- 
+ordination of a particular claim based upon the inequitable 
+conduct of the specific creditor does not contravene the legis- 
+lative judgment concerning the relative equities of the various 
+classes of claims in general. See Stebbins v. Crocker Citizens 
+National Bank, 516 F.2d at 787. 
+
+
+13 
+
+
+prevent formally p but unconscionable 
+
+plications of legal —— they have not — 
+
+in the practice of making abstract legislative 
+
+judgments about the fairness of a result contem- 
+
+8 wed 1 — statutory scheme if it 
+rw n wed in 
+
+without overreaching. * 
+
+
+— 4 also In re Columbia Ribbon Co., 117 F.2d at 
+
+
+In enacting the statutory priority scheme, Congress 
+itself made a “reasonable classification of claims as 
+entitled to priority because of superior equities” (Car- 
+penter v. Wabash N., 309 U.S. 23, 28 (1940)). 
+The categorical balancing of equities that Con- 
+gress made in adopting the Code’s priority pro- 
+visions may not categorically be displaced by the 
+courts under the guise of “equitable subordination.” 
+As the Ninth Circuit stated in Stebbins v. Crocker 
+Citizens National Bank, 516 F.2d at 788, the doctrine 
+of equitable subordination does not permit a court 
+—* — in Ka es „ ‘No, the distribution 
+
+rovi i 
+N pe: y [Bankruptcy] Act is a 
+
+
+*Similarly, in New Jersey v. A 
+(1906), the Court rejected the — „ ~~ Bam — 
+priority for state taxes should not be recognized because it 
+created an “injustice” for other creditors and gave the State 
+an undue “advantage” (id. at 490): 
+
+
+[Clonsiderations of this character, however properly 
+addressed to the legislative branch of the government, 
+can have no place in influencing judicial determination. 
+eee, meee care of the court to enforce, not to make the 
+ws, i w works inequality the i 
+
+must be had from Congress. = — 
+
+
+14 
+
+
+The decision in the present case ultimately reflects 
+an implicit policy judgment by the courts below 
+that Congress somehow erred or acted “unfairly 
+in awarding first priority to the government’s claims 
+for postpetition tax penalties under Section 503(b) 
+(1)(C) and Section 507(a)(1).* Even if there were 
+a basis to believe that it might be more “fair” to 
+pay other creditors before postpetition tax penalties 
+are paid, any dispute about the relative merits of 
+alternative priority schemes is simply irrelevant to 
+the task that the court of appeals properly had be- 
+fore it. Congress authoritatively resolved that policy 
+issue when it expressly provided a first priority for 
+postpetition tax penalty claims in 11 U.S.C. 503(b) 
+(1)(C). As this Court explained in enforcing the 
+priority for postpetition tax penalties in Nicholas v. 
+United States, 384 U.S. at 694, Congress adopted 
+that priority precisely because penalties are an im- 
+portant and “legitimate means to enforce” compli- 
+ance with the tax laws in bankruptcy cases. See also 
+Boteler v. Ingels, 308 U.S. 57, 61 (1939).° By in- 
+
+
+* While Section 726 (a) (1) preserves first priority in dis- 
+tribution for postpetition tax penalties, Section 726(a) (4) 
+expressly subordinates prepetition tax penalties to general 
+unsecured claims. Compare 11 U.S.C. 726(a)(1) with 11 
+U.S.C. 726(a) (4). The reasoning adopted by the courts below 
+is thus invalid for the additional reason that it deprives the 
+carefully crafted distinctions made by Congress in enacting 
+Section 726 of any force. 
+
+
+The court of appeals erred in relying on the suggestion of 
+Representative Edwards that “existing case law” permits 
+subordination of “a claim * * * of a status susceptible to 
+subordination, such as a penalty * * (App., infra, lla). 
+Whatever “penalty” Representative Edwards may have had 
+in mind in making that assertion, he obviously was not 
+
+
+15 
+
+
+voking “equitable subordination” as authority for 
+
+
+annulling the categorical priorities that Congress en- 
+acted, the decision in this case conflicts with the deci- 
+
+
+contemplating that postpetition tax penalty claims would 
+be subordinated under Section 510(c)(1) when Section 
+503(b)(1)(C) of the same Act provides first“ priority 
+for such claims. See 11 U.S.C. 503 (b) (1) (C). Indeed, Rep- 
+resentative Edwards went on to say in the next portion of 
+his remarks (124 Cong. Rec. at 32,416c): 
+
+
+Since the House amendment authorizes subordination of 
+claims only under principles of equitable subordination, 
+and thus incorporates principles of existing case law, a 
+tax claim would rarely be subordinated under this provi- 
+sion of the bill. 
+
+
+See also 124 Cong. Rec. 33,998, 34,016 (1978) (Sen. 
+DeConcini). 
+
+
+It is also apparent that, in suggesting that “penalty” claims 
+are subject to subordination, the floor statement of Repre- 
+sentative Edwards did not accurately describe “existing 
+case law.” Neither prepetition nor postpetition governmental 
+penalties were subordinated under “existing case law” in 
+1978. Claims for prepetition penalties were disallowed (not 
+subordinated) under Bankruptcy Act § 57j, 11 U.S.C. 936 
+(1976). See Simonson v. Granquist, 369 U.S. 38, 40 (1962). 
+Claims for postpetition penalties incurred by the trustee or 
+debtor-in-possession were allowable, however, and were en- 
+titled to first priority in distribution of the bankruptcy estate. 
+Nicholas v. United States, 384 U.S. 678, 692-695 (1966): 
+Boteler v. Ingels, 308 U.S. 57, 61 (1939); United States 
+New York Creditmen's Adjustment Bureau, Inc., 394 F.2d 
+340, 341-342 (2d Cir. 1968). 
+
+The majority and concurring opinions in this case (App., 
+infra, 12a-13a, 22a) thus erred in stating, without qualifica- 
+tion, that penalty claims were disallowed under the former 
+Bankruptcy Act. There also was no “existing case law” sub- 
+ordinating or disallowing postpetition penalty claims based 
+upon their “status.” See Burden v. United States, 917 F.2d 
+115, 123 (3d Cir. 1990) (Alito, J., concurring in part and 
+
+
+16 
+
+
+sion of the Ninth Circuit in Stebbins and with the 
+long line of cases holding that “[dJecisions about the 
+treatment of categories of claims in bankruptcy pro- 
+ceedings * * * are not dictated or illuminated by 
+principles of equity and do not fall within the judicial 
+power of equitable subordination * * *.” Burden v. 
+United States, 917 F.2d at 122 (Alito, J., concurring 
+in part and dissenting in part; emphasis added).“ 
+See, c. ., Benjamin v. Diamond, 563 F.2d 693, 700 
+
+
+dissenting in part). Any misdescription of “existing case 
+law” contained in the 1978 floor statement of Representative 
+Edwards obviously could not alter the “principles of equitable 
+subordination” that the courts had developed and that are to 
+be applied under Section 510(c) (1). 
+
+
+„he Third Circuit has placed itself on both sides of this 
+issue. In 1941, the court explained that the doctrine of 
+equitable subordination does not authorize a court to adopt 
+a priority scheme different from the statutory scheme based 
+simply upon the court’s “theory of equity.” In re Columbia 
+Ribbon Co., 117 F.2d at 1002. Instead, the court explained, 
+equitable subordination may be applied to “disallow or sub- 
+ordinate a particular claim in bankruptcy which, because of 
+the fraudulent nature of the claim or the bad faith or im- 
+proper conduct of the claimant, ought not in equity and good 
+conscience to be allowed or paid on a parity with other 
+
+claims.“ Ibid. . 
+
+In 1990, the Third Circuit acknowledged that “prior to the 
+enactment of the Bankruptcy Act of 1978,” the doctrine of 
+equitable subordination had applied “only when there has been 
+a showing of bad faith on the part of the creditor.” Burden 
+v. United States, 917 F.2d at 119. The court identified noth- 
+ing in the text or history of the 1978 legislation to justify a 
+departure from that historical understanding of equitable 
+subordination. The court stated, however, that it was “per- 
+suaded” by several recent decisions holding that “ereditor 
+misconduct is not a prerequisite for equitable subordination. 
+
+
+17 
+
+
+(5th Cir. 1977) (equitable subordination requires 
+that “(t]he claimant must have engaged in some 
+type of inequitable conduct“); In re Credit Indus- 
+trial Corp., 366 F.2d 402, 408 (2d Cir. 1966); 
+United States v. Killoren, 119 F.2d 364, 366 (8th 
+Cir. 1941) (reversing “equitable subordination” of 
+a claim for taxes, for It he plain mandate of the 
+law cannot be set aside because of considerations 
+which may appeal to referee or judge as falling 
+within general principles of equity jurisprudence”). 
+
+c. In 1978, Congress codified the judge-made doc- 
+trine of equitable subordination as Section 510(c) (1) 
+of the Bankruptcy Code. That provision states that 
+bankruptcy courts may, “under principles of equita- 
+ble subordination, subordinate for purposes of dis- 
+tribution all or part of an allowed claim to all or 
+part of another allowed claim * * *.” 11 U.S.C. 
+510(¢) (1). 
+
+That statute did not enlarge the authority that 
+courts had previously exercised. As the 1978 floor 
+statement quoted by the court of appeals emphasizes, 
+Congress intended that the term ‘principles of equi- 
+table subordination’ follow existing case law and 
+leave to the courts development of this principle” 
+(App., infra, lla, quoting 124 Cong. Rec. 32,398 
+(Rep. Edwards) ). 
+
+The emphasis in the 1978 floor statement that 
+“existing case law” is to be followed in applying 
+“principles of equitable subordination” reflects a de- 
+liberate policy determination that Congress made at 
+that time. In enacting the 1978 Act, Congress con- 
+
+
+Id. at 120-121. As described in the text, Judge Alito dis- 
+sented from that part of the court’s opinion. 
+
+
+18 
+
+
+sidered and rejected statutory language that would 
+have granted bankruptcy courts authority to subor- 
+dinate claims on much broader grounds. The bill that 
+first passed the House of Representatives contained a 
+version of Section 510(c) that would have allowed 
+any claim to be subordinated simply “on equitable 
+grounds.” H.R. 8200, 95th Cong., Ist Sess., § 510 
+(1977). The report accompanying the House bill 
+emphasized that this language differed from the ex- 
+isting doctrine of equitable subordination, for it 
+would permit the courts to order “subordination on 
+any equitable grounds.” H.R. Rep. No. 595, 95th 
+Cong., Ist Sess. 359 (1977). The broad language 
+of the House bill was deleted, however, from the 
+final legislation. The phrase “under principles of 
+equitable subordination” was substituted in its place. 
+See S. Rep. No. 989, 95th Cong., 2d Sess. 74 (1978) ; 
+124 Cong. Rec. 32,416 (1978) (Rep. Edwards); 124 
+Cong. Rec. 34,016 (1978) (Sen DeConcini). 
+
+The history of Section 510(c) thus reflects that 
+Congress consciously elected to adopt only the “exist- 
+ing“ principles of equitable subordination and re- 
+jected a broader equitable authority for the bank- 
+ruptey courts. In the present case, however, the court 
+of appeals declined to follow the “existing case law” 
+that had squarely held that “equitable subordination” 
+may not be applied categorically to reorder statutory 
+priorities. By refusing to apply that “existing case 
+law,” the court of appeals placed itself in conflict 
+with the decisions of the Fifth and Ninth Circuits in 
+Benjamin v. Diamond and Stebbins v. Crocker Citi- 
+zens National Bank. See also In re Credit Industrial 
+Corp., 366 F.2d at 408; 3 Collier on Bankruptcy 
+
+
+19 
+
+
+510.01 (15th ed. 1995) (“The law in this area is 
+of long standing, having been judicially created“). 
+d. The conflict among the courts of appeals con- 
+cerning the proper scope of the doctrine of equitable 
+subordination has recently become pronounced. In 
+conflict with the decisions of the Fifth Circuit in 
+Benjamin and the Ninth Circuit in Stebbins—as well 
+as the earlier decisions of the Third Circuit in Jn re 
+Columbia Ribbon Co. and the Eighth Circuit in Kil- 
+loren—the Third, Seventh, Eighth and Tenth Circuits 
+have joined the Sixth Circuit in holding that “prin- 
+ciples of equitable subordination” are not confined 
+to remedying creditor misconduct and instead permit 
+courts categorically to subordinate “penalty” claims 
+to the claims of other creditors who have incurred an 
+“actual loss” (App., infra, 20a). See Burden v. 
+United States, 917 F.2d 115, 119-120 (3d Cir. 1990); 
+In re Virtual Network Services Corp., 902 F.2d 1246, 
+1248-1250 (7th Cir. 1990) ; Schultz Broadway Inn v. 
+United States, 912 F.2d 230, 232-234 (8th Cir. 1990): 
+United States v. Reorganized CF&I Fabricators of 
+Utah, Inc., 53 F.3d 1155, 1158 (10th Cir. 1995). 
+
+
+N These cases from the Third, Seventh, Eighth and Tenth 
+Circuits all involve the subordination of nonpriority tax pen- 
+alty claims in cases under Chapters 11 and 13, rather than 
+Chapter 7, of the Bankruptcy Code. As we have noted (note 
+4, supra), in Chapter 7 cases, Congress expressly provided 
+priority for postpetition tax penalty claims and subordinated 
+only prepetition tax penalty claims. Compare 11 U.S.C. 
+726(a) (4). No similar provision subordinates prepetition 
+penalty claims in cases under other chapters. Indeed, Con- 
+gress rejected proposals that would have required subordina- 
+tion of prepetition tax penalty claims in cases under all chap- 
+ters. See Report of the Commission on the Bankruptcy Laws 
+of the United States, H.R. Doc. No. 137, 93d Cong., Ist Sess. 
+Pt. II, at 115, § 4406 (a) (3) (1973). 
+
+
+20 
+
+
+These courts, like the Sixth Circuit in this case, con- 
+cluded that equitable subordination of a tax penalty 
+claim is appropriate to ensure that payment of the 
+penalty does not reduce the assets available for other 
+claims. 
+
+In so holding, these courts acknowledged that, 
+prior to enactment of the Bankruptcy Code in 1978. 
+the existing case law“ had held that the doctrine of 
+equitable subordination requires a showing of cred- 
+itor misconduct. See, e.g., In re Virtual Network 
+Services Corp., 902 F.2d at 1248, citing Pepper v. 
+Litton, 308 U.S. at 304-305. The courts also recog- 
+nized that Congress intended such “existing case law 
+to apply in any future elaboration of the “principles 
+of equitable subordination” (902 F.2d at 1248; App., 
+infra, 11a). They reasoned, however, that the history 
+of the 1978 Act indicates that such older authority is 
+not necessarily binding because “Congress intended 
+courts to continue developing the principles of equi- 
+table subordination.” United States v. Reorganized 
+CF&I Fabricators of Utah, Inc., 53 F.3d at 1158, 
+citing In re Virtual Network Services Corp., 902 
+F.2d at 1249-1250. : 
+
+As evidence of the “developing” principles of equi- 
+table subordination, the courts noted that, in Jn re 
+Stirling Homex Corp., 579 F.2d 206 (1978), the Sec- 
+ond Circuit held that the claims of shareholders who 
+alleged that they were defrauded in purchasing stock 
+of the debtor should be equitably subordinated—even 
+
+in the absence of any creditor misconduct." The courts 
+
+
+8 In re Stirling Homer Corp. involved an attempt by equity 
+shareholders who allegedly were defrauded in the purchase 
+of the debtor’s securities to elevate their priority in the cor- 
+porate bankruptcy from last priority (as equity holders) to 
+
+
+21 
+
+
+concluded that, under this “developing” principle (but 
+see note 8, supra), equitable subordination should 
+be based on a “case-by-case” evaluation of the equi- 
+ties and should no longer require proof of creditor 
+misconduct (United States v. Reorganized CF&I 
+Fabricators of Utah, Inc., 53 F.3d at 1159, quoting 
+
+
+that of unsecured creditors (as tort claimants). The court 
+subordinated the shareholders’ claims to the claims of general 
+unsecured creditors because “the equities favor the conven- 
+tional general unsecured creditors rather than the allegedly 
+defrauded stockholders.” 579 F.2d at 213. 
+
+The decision in Stirling Homez did not constitute a startling 
+departure from the “existing case law,” as some of the courts 
+of appeals have assumed. Instead, that decision appears to 
+represent an application of a settled rule described in the 
+prior decision of the Second Circuit in In re Credit Industrial 
+Corp., 366 F.2d at 408-409 (emphasis added): 
+
+
+Equitable subordination, which is founded upon estoppel, 
+is the doctrine invoked by courts to deny equal treatment 
+to creditors based on some inequitable or unconscionable 
+conduct in which they have engaged, or a special position 
+which they occupy vis-a-vis the bankrupt that justifies 
+subordination of their claims. 
+
+
+That particular application of the principles of equitable sub- 
+ordination can be traced to this Court’s decision in Pepper v. 
+Litton, 308 U.S. 295 (1939). See In re Credit Industrial 
+Corp., 366 F.2d at 409. 
+
+
+Nothing in Stirling Homez provides support for the propo- 
+sition that courts may apply “equitable subordination” cate- 
+gorically to annul the priority classification schemes that 
+Congress enacted. Indeed, the rule that the Second Circuit 
+applied to shareholder claims in Stirling Homer was codified 
+in 1978 as subsection Section 510(b) of the Bankruptcy Code 
+(11 U.S.C. 510(b)), which the 1978 floor statement of Repre- 
+sentative Edwards described as an example of “existing case 
+law.” See App., infra, 11a. 
+
+
+22 
+
+
+In re Virtual Network Services Corp., 902 F.2d at 
+1250): 
+
+
+[Section] 510(c)(1) authorizes courts to equi- 
+tably subordinate claims to other claims on a 
+case-by-case basis without requiring in every 
+instance inequitable conduct on the part of the 
+creditor claiming parity among other unsecured 
+general creditors. 
+
+
+In the absence of creditor misconduct, however, 
+the doctrine of equitable subordination does not au- 
+thorize the “case-by-case” balancing of equities that 
+these courts have upheld. In particular, equitable 
+subordination does not authorize judicial disregard of 
+the categorical priorities that Congress has enacted; 
+nor does it authorize judicial nullification of the 
+statutory priority scheme. By reaching the opposite 
+conclusion in this case, the decision of the court of 
+appeals has enlarged the developing conflict and has 
+ignored the inherent limitations of any court sitting 
+in “equity.” See Stebbins v. Crocker Citizens Na- 
+tional Bank, 516 F.2d at 787: ([Tjhe chancellor 
+never did, and does not now, exercise unrestricted 
+power to contradict statutory or common law when 
+he feels a fairer result may be obtained by applica- 
+tion of a different rule.). 
+
+
+3. The proper scope of the doctrine of equitable 
+subordination is a matter of substantial recurring 
+importance. The decision in this case has significance 
+not only for the enforcement of federal, state and 
+local tax laws but also for the enforcement of many 
+other types of governmental programs. For example, 
+under the rationale applied by the court of appeals 
+
+
+23 
+
+
+in this case, penalties designed to enforce federal and 
+state health and safety regulations presumably would 
+also be subject to “equitable subordination” to the 
+claims of the general unsecured creditors who in- 
+curred an “actual loss” in their dealings with the 
+estate (App., infra, 20a). 
+
+Commentators have further noted that the “case- 
+by-case”’ evaluation of the “equities” of each claimant 
+that these decisions authorize creates harmful uncer- 
+tainties for private creditors as well. The unfettered 
+equitable authority assumed in these decisions has 
+threatened “the financial community [by calling] 
+into question the future of bankruptcy priority.” See 
+Note, No Fault Equitable Subordination: Reassur- 
+ing Investors That Only Government Penalty Claims 
+Are At Risk, 34 Wm. & Mary L. Rev. 487, 488 
+(1993).° 
+
+By effectively ensuring that claims for postpetition 
+penalties will not be paid from the assets of bank- 
+ruptcy estates, the decision in this case would allow 
+debtors-in-possession to disregard their legal obliga- 
+tions with impunity.” Allowing violations of the law 
+
+
+Under a case-by-case evaluation of the “equities” of each 
+competing, innocent claim, it is not possible to be certain 
+whether, for example, claims for punitive damages would be 
+regarded as “inequitable” (because not involving “actual 
+losses”) or “equitable” (because designed to promote the 
+public purpose of deterring malicious behavior). See Jn re 
+Colin, 44 B.R. 806, 810 (Bankr. S.D.N.Y. 1984). 
+
+
+The court of appeals erred in suggesting (App., infra, 
+19a) that the tax penalties involved in this case can be col- 
+lected by the government even if that claim is subordinated 
+in the liquidation proceedings. The court reasoned that ulti- 
+mate collection is assured because the “debtor in possession 
+remains liable individually for the postpetition tax penalties” 
+
+
+24 
+
+
+to go wunsanctioned—and undeterred—is neither 
+“fair,” nor “equitable,” nor good “policy.” As this 
+Court recognized in Boteler v. Ingels, 308 U.S. 57, 61 
+(1939), and Nicholas v. United States, 384 U.S. 678, 
+694 (1966), the priority for postpetition penalties in 
+bankruptcy exists for the very purposes of ensuring 
+that debtors abide by the same rules of law that apply 
+to every other business. See also United States Depart- 
+ment of Interior v. Elliott, 761 F.2d 168, 171 (4th 
+Cir. 1985)." In any event, as we have noted and as 
+other circuits have held, the doctrine of equitable sub- 
+ordination does not authorize a reweighing“ of the 
+balance of equities that Congress itself struck in pro- 
+viding the statutory priority for postpetition tax 
+penalty claims. 
+
+
+(ibid.). In making that statement, however, the court seems 
+to have forgotten that this case involves a liquidation under 
+Chapter 7. After such a liquidation, the debtor will have no 
+
+
+assets available to pay any unsatisfied, subordinated tax pen- 
+alty claim. 
+
+
+In United States Dep’t of Interior v. Elliott, the court ex- 
+plained why priority is granted to claims for postpetition pen- 
+alties even though such claims may deplete the assets available 
+to other creditors. Creditors may influence the debtor in pos- 
+session or trustee to prevent the accrual of such penalties and 
+should not be permitted to benefit from the false economies 
+recognized by the estate through its failure to comply with 
+applicable nonbankruptcy law. 761 F.2d at 171. 
+
+
+25 
+
+
+CONCLUSION 
+
+
+The petition for a writ of certiorari should be 
+granted. 
+
+
+Respectfully submitted. 
+
+
+Drew S. Days, III 
+
+Solicitor General 
+LORETTA C. ARGRETT 
+
+Assistant Attorney General 
+LAWRENCE G. WALLACE 
+
+Deputy Solicitor General 
+KENT L. JONES 
+
+Assistant to the Solicitor General 
+GARY D. GRAY 
+
+
+EDWARD T. PERELMUTER 
+Attorneys 
+
+
+AUGUST 1995 
+
+
+APPENDIX A 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE SIXTH CIRCUIT 
+
+
+No. 93-4311 
+
+
+IN RE: First TRUCK LINES, INC., DEBTOR 
+
+
+UNITED STATES OF AMERICA, APPELLANT 
+
+
+*. 
+
+
+THOMAS R. NOLAND, Trustee, APPELLEE 
+
+
+On Appeal from the United States District Court 
+for the Southern District of Ohio 
+
+
+Decided and Filed March 2, 1995 
+
+
+Before: MARTIN and BATCHELDER, Circuit Judges; 
+and ENSLEN, District Judge.* 
+
+
+MARTIN, J., delivered the opinion of the court, in 
+which ENSLEN, D.J., joined. BATCHELDER, J. (pp. 
+18-19), delivered a separate concurring opinion. 
+
+
+* The Honorable Richard A. Enslen, United States District 
+Judge for the Western District of Michigan, sitting by 
+
+
+(la) 
+
+
+2a 
+
+
+Boyce F. MARTIN, IR., Circuit Judge. We have 
+before us an appeal of the bankruptcy court’s decision 
+to equitably subordinate the Commissioner of Inter- 
+nal Revenue Service’s claim for postpetition, non- 
+pecuniary loss tax penalties to the claims of general 
+unsecured creditors. For the following reasons we 
+affirm the decision of the district court. 
+
+The debtor in this case, First Truck Lines, Inc., 
+voluntarily filed for relief under Chapter 11 of the 
+Bankruptcy Code on April 10, 1986. During the 
+postpetition operation of its business, the debtor-in- 
+possession did not pay to the Internal Revenue Serv- 
+ice accrued Federal Insurance Contributions Act and 
+Federal Unemployment Tax Act taxes. In June 1988, 
+the debtor moved to convert the case to a Chapter 7 
+bankruptcy, and the bankruptcy court ordered con- 
+version on August 1, 1988. Thomas R. Noland was 
+appointed the Trustee. The debtor ceased operations 
+thereafter, and liquidation of the estate assets did not 
+produce sufficient funds to pay all creditors in full. 
+The bar date for filing claims under Chapter 7 was 
+December 1, 1988. 
+
+On November 22, 1988, the Internal Revenue Serv- 
+ice filed a “Request for Payment of Administrative 
+Expenses” claim (“Claim 102”). Claim 102 was 
+comprised of accrued postpetition, preconversion 
+taxes, interest, and penalties. On April 20, 1989, the 
+Internal Revenue Service filed an additional “Request 
+for Payment of Administrative Expenses” claim 
+(“Claim 107”), amending Claim 102. The hank- 
+ruptey court permitted Claim 107 to partially amend 
+Claim 102, adding a penalty for postpetition, unpaid 
+Federal Unemployment Tax Act taxes. 
+
+Once litigation commenced, the Commissioner and 
+the Trustee stipulated that the tax and interest por- 
+
+
+3a 
+
+
+tion of Claim 102, but not the tax penalty portion, 
+were administrative expenses with priority under 11 
+U.S.C. §§ 726 (a) (1), 507 (a)(1), and 503 (b) (1) 
+(1988). We take this stipulation to mean that all 
+taxes and interest were in fact given a priority in the 
+bankruptcy estate. The issue before the bankruptcy 
+court, then, was whether administrative expense 
+priority should be accorded to the postpetition tax 
+penalties. The bankruptcy court held that, although 
+postpetition tax, interest, and penalties were “ad- 
+ministrative expenses” pursuant to 11 U.S.C. § 503 
+(b), the tax penalties were subject to the court’s 
+equitable subordination powers under 11 U.S.C. 
+$510(c) (1988). The court then interpreted and 
+applied its powers of equitable subordination to in- 
+clude the ability to subordinate a claim, not only in 
+the case of creditor misconduct, but also in the case of 
+postpetition, nonpecuniary loss tax penalties. In bal- 
+ancing the equities, the bankruptcy court reasoned 
+that the Bankruptcy Code exhibited a preference for 
+compensating actual losses, especially in a liquidation 
+proceeding. Furthermore, the bankruptcy court rea- 
+soned that, unlike business creditors who had sur- 
+rendered a valuable asset to the debtor, the United 
+States had not suffered an actual pecuniary loss with 
+regard to the penalties. The bankruptcy court con- 
+cluded that the equities of the case required subordi- 
+nation of the Commissioner’s tax penalty claim to the 
+claims of general unsecured creditors. The district 
+court agreed. 
+
+The central issue in this appeal is whether a bank- 
+ruptey court may, in a Chapter 7 case, equitably sub- 
+ordinate postpetition, nonpecuniary loss tax penalties 
+to any other claim, including the claims of general 
+unsecured creditors, in the absence of creditor mis- 
+
+
+4a 
+
+
+conduct: here, in the absence of misconduct by the 
+Commissioner. No other Circuit has addressed this 
+precise issue, although three other Circuits have de- 
+termined that prepetition, nonpecuniary loss tax 
+penalty claims could be equitably subordinated even 
+in the absence of creditor misconduct. Burden v. 
+United States, 917 F.2d 115 (3d Cir. 1990) (Chapter 
+13 case); Schultz Broadway Inn v. United States, 
+912 F.2d 230 (8th Cir. 1990) (liquidating Chapter 
+11 case); In re Virtual Network Servs. Corp., 902 
+F.2d 1246 (7th Cir. 1990) (liquidating Chapter 11 
+case). Should we decide that postpetition, nonpecu- 
+niary loss tax penalty claims are also subject to 
+equitable subordination in a Chapter 7 case even in 
+the absence of creditor misconduct, we must also 
+decide whether the bankruptcy court properly sub- 
+ordinated the tax penalty claim in this case. 
+
+The Commissioner argues that the bankruptcy 
+court does not have the power to equitably subor- 
+dinate the postpetition tax penalties in Claim 102 to 
+the claims of general unsecured creditors. The Com- 
+missioner’s primary assertion is that Congress has 
+already balanced the equities with regard to post- 
+petition tax penalty claims in a Chapter 7 case and 
+has expressly awarded administrative expense prior- 
+ity to claims for postpetition taxes, interest and 
+penalties under 11 U.S.C. §§ 726 (a) (1), 507 (a) (1), 
+and 503(b)(1)(B) and (C). The Commissioner con- 
+tends that Congress was well aware that tax penal- 
+ties, by their nature, are not related to the giving of 
+value to the debtor. Thus, knowing that the only 
+colorable argument that can be made for equitably 
+subordinating postpetition, nonpecuniary loss tax 
+penalty claims is that it is unfair and unjust to 
+award the government higher priority for a claim 
+
+
+Sa 
+
+
+not based on the extension of value to the debtor, 
+Congress still gave tax penalties administrative ex- 
+pense priority. The argument continues that a bank- 
+ruptey court may not, based on the same equitable 
+ground, disregard the will of Congress and grant 
+equitable relief to general unsecured creditors by sub- 
+ordinating the tax penalty claim. The Commissioner 
+concludes that the principles of equitable subordina- 
+tion enable a bankruptcy court to subordinate a post- 
+petition tax penalty claim only in the presence of mis- 
+conduct. 
+
+In support of this position, the Commissioner relies 
+on our decision in Jn re Mansfield Tire & Rubber Co., 
+942 F.2d 1055 (6th Cir. 1991), cert. denied, 112 S. Ct. 
+1165 (1992), and on pre-1978 Supreme Court cases 
+permitting equitable subordination of claims because 
+of creditor misconduct. See Comstock v. Group of 
+Institutional Investors, 335 U.S. 211 (1948); Pepper 
+v. Litton, 308 U.S. 295 (1939); Taylor v. Standard 
+Gas & Elec. Co., 306 U.S. 307 (1939). The Commis- 
+sioner argues that our decision in Mansfield Tire re- 
+quires us to reverse the district court. The Commis- 
+sioner construes Mansfield Tire as expressly rejecting 
+the proposition that bankruptcy courts may employ 
+equitable subordination to override Congress’s prior- 
+ity scheme based on the court’s own view of equity. 
+Id. at 1062. The view of the Commissioner, while 
+partially correct, constitutes an incomplete under- 
+standing of Mansfield Tire. This Court also said in 
+Mansfield Tire that, while a bankruptcy court may 
+not impose its own view of equity where Congress has 
+set priorities, Section 510(c) expressly permits a 
+bankruptcy court to apply the “principles of equitable 
+subordination” to subordinate a claim “otherwise 
+susceptible to subordination, such as a_ penalty.” 
+
+
+6a 
+
+
+Mansfield Tire, 942 F.2d at 1062 (citing 1978 
+U.S.C.C.A.N. 5787, 6452 (statement of Rep. Ed- 
+wards) ; 1978 U.S.C.C.A.N. 6505, 6521 (statement of 
+Sen. DeConcini) ). In Mansfield Tire, we decided only 
+whether a claim for an excise tax was the type of 
+claim susceptible to subordination, and not. whether a 
+tax penalty claim was susceptible to subordination. 
+As to the Supreme Court cases cited above, these do 
+not address the precise question this Court must an- 
+swer and do not preclude our holding that equitable 
+subordination may be proper even in the absence of 
+creditor misconduct. 
+
+The Trustee and the Commissioner agree that Con- 
+gress has given postpetition tax penalties first prior- 
+ity as administrative expenses in a Chapter 7 case. 
+11 U.S.C. §§ 726 (a) (1), 507(a) (1), 503 (b) (1) (C). 
+This Court, in the case of In re Flo-Lizer, Inc., 916 
+F.2d 363, 366 (6th Cir. 1990), reached the same con- 
+clusion, but we did not discuss the relationship between 
+Section 510(c) and Section 503(b). Although the 
+parties agree as to the priority of postpetition, non- 
+pecuniary loss tax penalty claims, the parties disagree 
+as to the effect of Section 510(c) on the tax penalty 
+claim. The Trustee argues that the statutory treat- 
+ment of a postpetition tax penalty as an administra- 
+tive expense does not necessarily mean that the claim 
+cannot be equitably subordinated under Section 
+510(c). The trustee contends that 11 U.S.C. § 726 
+(a)(1) provides that all Chapter 7 distributions 
+are subject to Section 510(c), and that Section 
+510(¢), in turn, permits equitable subordination in 
+the appropriate case. The Trustee then relies on our 
+opinion in Mansfield Tire for the proposition that tax 
+penalties are subject to equitable subordination. 
+Mansfield Tire, 942 F.2d at 1062 (distinguishing tax 
+
+
+7a 
+
+
+claims, which are not ordinarily subject to equitable 
+subordination, from penalties, which are). In his 
+brief, the Trustee sums up his position as follows: 
+
+
+[T]he IRS’s argument that equitable subordina- 
+tion ignores Congressional mandates for priority 
+in reality ignores the Congressional mandate un- 
+der 11 U.S.C. § 726 (a) that these priorities are 
+explicitly subject to 11 U.S.C. §510(c). Equita- 
+ble subordination of these penalties is not incon- 
+sistent with the Bankruptcy Code if the Code 
+itself specifically authorizes it. 
+
+
+Here, we review the decision of the district court 
+deciding questions of statutory interpretation de novo. 
+United States v. Hans, 921 F.2d 81, 82 (6th Cir. 
+1990). It is clear that the starting point for our in- 
+quiry into the meaning of the statutes at issue is the 
+language used by Congress. Estate of Floyd Cowart v. 
+Nicklos Drilling Co., 112 S. Ct. 2589, 2594 (1992) 
+(citing Demarest v. Manspeaker, 498 U.S. 184, 190 
+(1991)). “[W]hen a statute speaks with clarity to 
+an issue[,] judicial inquiry into the statute’s meaning, 
+in all but the most extraordinary circumstances, is 
+finished.” Jd.; see also United States v. Ron Pair 
+Enters., Inc., 489 U.S. 235, 242 (1989) (observing 
+that “[T]he plain meaning of legislation should be 
+conclusive, except in ‘rare cases [in which] the literal 
+application of a statute will produce a result demon- 
+strably at odds with the intention of the drafters.’ ”) 
+(citation omitted). However, when there is an am- 
+biguous term in a statute, or when a term is un- 
+defined or its meaning unclear from the context of 
+the statute, it is our duty to examine the legislative 
+history in order to render an interpretation that gives 
+
+
+effect to Congress’s intent. In re Vause, 886 F.2d 794, 
+801 (6th Cir. 1989). In this case, the interpretation 
+of the phrase “principles of equitable subordination,” 
+found in Section 510(c), is crucial to the outcome of 
+this case and is not defined by statute. Therefore, we 
+must look -to-legislative history or case law to inter- 
+pret this phrase. 
+
+First, we note, as did the bankruptcy court, that 
+the tax penalty claims here were properly charac- 
+terized as postpetition administrative expenses pur- 
+suant to 11 U.S.C. § 348 (d). Section 348 (d) states 
+that 
+
+
+a claim agair st the estate or the debtor that arises 
+after the order for relief but before conversion 
+in a case that is converted under section 1112, 
+1307, or 1208 of this title, other than a claim 
+specified in section 503(b) of this title [adminis- 
+trative expenses], shall be treated for all pur- 
+poses as if such claim had arisen immediately 
+before the date of the filing of the petition. 
+
+
+(emphasis added). Therefore, the tax penalty claim 
+in this case is a postpetition claim—a claim against 
+the estate of the bankrupt—and retains its priority 
+under Section 726 (a) (1). 
+
+In Chapter 7 cases, Congress gave first priority to 
+postpetition claims for taxes and related penalty 
+claims, as administrative expenses. However, the pri- 
+ority of the tax and penalty claims is specifically 
+subject to Section 510(c) under the terms of Section 
+726(a). Section 726(a) (1) reads in full: 
+
+
+(a) Except as provided in section 510 of thie 
+title, property of the estate shall be distributed— 
+
+
+9a 
+
+
+(1) first, in payment of claims of the kind 
+specified in, and in the order specified in, 
+section 507 of this title; 
+
+
+(emphasis added). Section 507(a)(1) specifies that 
+certain claims and expenses have priority as adminis- 
+trative expenses. Section 507(a)(1) states: 
+
+
+(a) The following expenses and claims have pri- 
+ority in the following order: 
+
+
+(1) First, administrative expenses allowed 
+under section 503 (b) of this title. 
+
+
+Section 503(b) gives the following expenses and 
+claims first priority status as administrative expenses : 
+
+
+(b) After notice and a hearing, there shall be 
+allowed, administrative expenses . . including— 
+
+
+(1)(A) the actual, necessary costs and ex- 
+penses of preserving the estate, including 
+wages, salaries, or commissions for services 
+rendered after the commencement of the 
+case; 
+
+(B) any tax— 
+
+
+(i) incurred by the estate 
+
+
+, (C) any fine, penalty, or reduction 
+in credit relating to a tax of a kind 
+specified in subparagraph (B) of this 
+paragraph; 
+
+
+Thus, a tax penalty relating to a tax incurred by 
+the estate has first priority. However, Section 726(a) 
+(1) makes the priority subject to Section 510. Subsec- 
+tion 510(c) permits equitable subordination and it 
+
+
+10a 
+
+
+(c) Notwithstanding subsections (a) and (b) of 
+
+this section, after notice and a hearing, the court 
+
+may— 
+(1) under principles of equitable subordina- 
+tion, subordinate for purposes of distribution 
+all or part of an allowed claim to all or part 
+of another allowed claim or all or part of 
+an allowed interest to all or part of another 
+allowed interest; 
+
+
+11 U.S.C. § 510 (e) (1). 
+
+Given “a normal commonsense reading“ of the stat- 
+utes to this point, United States v. X-citement Video, 
+Inc., 63 U.S.L.W. 4019, 4023 (U.S., Nov. 29, 1994) 
+(Stevens, J., concurring), the language used by Con- 
+gress gives tax penalty claims administrative expense 
+priority subject to the bankruptcy court’s equity 
+powers. However, as Section 510(c) provides, the 
+court’s power may not be exercised arbitrarily, but 
+only pursuant to the principles of equitable subordina- 
+tion. The phrase “principles of equitable subordina- 
+tion” is not, however, defined by the Bankruptcy Code. 
+Thus, in order to comprehend the scope of the bank- 
+ruptey court’s equitable subordination powers, we look 
+to any relevant case law and at the legislative history 
+to determine what Congress meant by the phrase 
+“principles of equitable subordination.” 
+
+Both the district court, and the Seventh Circuit in 
+Virtual Network Services, examined in detail the 
+legislative history of Section 510(c), as well as the 
+meaning properly accorded that history. We agree 
+with the Seventh Circuit’s view that the statements of 
+Representative Edwards and Senator DeConcini pro- 
+vide the most reliable indicia of the legislative intent 
+as to the meaning of the phrase “principles of equita- 
+ble subordination.” We recite here the oft-quoted 
+
+
+lla 
+
+
+passage from identical statements made by Represent- 
+ative Edwards and Senator DeConcini to their respec- 
+tive houses of Congress regarding Section 510(c): 
+
+
+It is intended that the term “principles of equita- 
+ble subordination” follow existing case law and 
+leave to the courts development of this principle. 
+To date, under existing law, a claim is generally 
+subordinated only if [the] holder of such claim 
+is guilty of inequitable conduct, or the claim itself 
+1s of a status susceptible to subordination, such 
+as a penalty. ... 
+
+
+Virtual Network Services, 902 F.2d at 1248; 11 
+U.S. C. A. §510(c) note (1993) (Legislative State- 
+ments) (emphasis added); 124 Cong. Rec. H11,095 
+(Sept. 28, 1978) (statement of Rep. Edwards); 124 
+Cong. Rec. 817,412 (Oct. 6, 1978) (statement of Sen. 
+DeConcini). What did Representative Edwards and 
+Senator DeConcini mean by stating that a “penalty” is 
+the type of claim susceptible to subordination? In the 
+context of the distribution scheme of Section 726(a), 
+perhaps they meant that penalties, other than tax 
+penalties, are subject to the court’s equitable subordi- 
+nation powers. Or they may have intended that only 
+tax penalties that are punitive in nature, i.e. non- 
+pecuniary loss penalties, be subject to equitable sub- 
+ordination. Despite the lack of clarity as to what 
+Congress meant by claims that are “of a status suscep- 
+tible to subordination,” we must attempt to determine 
+what claims are subject to equitable subordination. 
+In any event, the legislative history indicates that pen- 
+alty claims are susceptible to equitable subordination. 
+Because Congress intended the “principles of equita- 
+ble subordination” to follow existing case law, we turn 
+
+
+12a 
+
+
+now to such case law as it existed in 1978 when the 
+Bankruptcy Reform Act became effective. We will 
+also examine further legislative history addressing 
+what Congress may have meant when it specified a 
+“penalty” claim as the type of claim susceptible to 
+suborination. 
+
+At the time of the enactment of the Bankruptcy 
+Code (Nov. 6, 1978), the case law on the principles of 
+equitable subordination included three Supreme Court 
+cases subordinating certain claims due to creditor mis- 
+conduct and one appellate case subordinating the 
+claims of defrauded shareholders, despite the absence 
+of misconduct. Comstock, 335 U.S. 211; Pepper, 308 
+U.S. 295; Taylor, 306 U.S. 307; In re Stirling Homer 
+Corp., 579 F.2d 206, 211 (2d Cir. 1978) (affirming 
+equitable subordination of the claims of allegedly de- 
+frauded stockholders to the claims of general un- 
+secured creditors; stockholders were not guilty of mis- 
+conduct), cert. denied, 439 U.S. 1074 (1979). The 
+Commissioner argues that the principles of equitable 
+subordination should not be expanded beyond cases of 
+creditor misconduct, and certainly may not include 
+the power to subordinate a postpetition tax penalty. 
+To support this position, the Commissioner primarily 
+relies on the absence of case law permitting the equita- 
+ble suborination of tax penalty claims. 
+
+This absence of case law equitably subordinating 
+tax penalty claims is explained by the fact that prior 
+to 1978, nonpecuniary loss tax penalty claims against 
+the estate of the bankrupt were not allowed by law. 
+Under the Bankruptcy Act of 1898, and the ensuring 
+reenactment of this provision in 1952, nonpecuniary 
+loss tax penalty claims against the bankrupt’s estate 
+were simply not allowed as claims. “Debts owing to 
+
+
+13a 
+
+
+the United States .. as a penalty . . shall not be 
+allowed, except for the amount of the pecuniary loss 
+sustained. .. .” Bankruptcy Act of 1898, ch. 541, 
+§ 57(j), 30 Stat. 561; 11 U.S.C. § 93(j), 66 Stat. 424 
+(1952). In 1961, the Supreme Court interpreted Sec- 
+tion 93(j) broadly to disallow both secured and un- 
+secured claims for tax penalties against the estate of 
+
+
+the bankrupt. Simonson v. Granquist, 369 U.S. 38 
+(1962). 
+
+
+LTIhis section [57(j)/93(j)], which has been 
+part of the Bankruptcy Act since its enactment 
+in 1898, is in keeping with the broad aim of the 
+Act to provide for the conservation of the estates 
+of insolvents to the end that there may be as 
+equitable a distribution of assets as is consistent 
+with the type of claims involved. Moreover, the 
+prohibition of all tax penalties in bankruptcy is 
+wholly consistent with the policy of the penalty 
+provisions themselves. Tax penalties are imposed 
+at least in part as punitive measures against per- 
+sons who have been guilty of some default or 
+wrong. Enforcement of penalties against the 
+estates of bankrupts, however, would serve not to 
+
+
+punish the delinquent taxpayers, but rather their 
+entirely innocent creditors. 
+
+
+Id. at 40-41 (emphasis added) ; see also United States 
+v. Coleman, 344 F.2d 903, 909 (6th Cir. 1965) (not- 
+ing that “[57(j)/93(j)] plainly manifests a congres- 
+sional purpose to bar all claims of any kind against a 
+bankrupt except those based on a ‘pecuniary’ loss”). 
+
+Moreover, a few Circuits have recently developed 
+the principles of equitable subordination to recognize 
+the power of the bankruptcy court to subordinate a 
+
+
+l4a 
+
+
+prepetition, nonpecuniary loss tax penalty claim. The 
+Third, Eighth, and Seventh Circuits have held that 
+prepetition, nonpecuniary loss tax penalties are sub- 
+ject to equitable subordination in the appropriate case 
+without a showing of government misconduct. Bur- 
+den 917 F.2d at 115 (holding that prepetition, non- 
+pecuniary loss tax penalties may be suborinated in a 
+Chapter 13 case; bankruptcy court must balance equi- 
+ties; creditor misconduct not required); Schulz Broad- 
+way Inn, 912 F.2d at 230 (holding that equitable sub- 
+ordination provision applies to prepetition tax penalty 
+claims of governmental units; misconduct not re- 
+quired; general unsecured creditors suffering actual 
+losses should receive preference over Government’s 
+claim for prepetition, nonpecuniary loss penalty in 
+liquidating Chapter 11 case); Virtual Network Serv- 
+ices, 902 F.2d at 1246 (holding that bankruptcy court 
+may equitably subordinate claim of IRS for prepeti- 
+tion, nonpecuniary loss tax penalties in liquidating 
+Chapter 11 case; inequitable conduct not required). 
+While these cases all concerned, prepetition penalties, 
+the reasoning of these Circuits is equally applicable 
+to postpetition penalties because the priority of both 
+pre- and postpetition penalties is governed by 11 
+U.S.C. § 726 (a), and this entire provision is subject 
+to Section 510(c). Further, the legislative history of 
+the sections we address indicates that Congress in- 
+tended nonpecuniary loss tax penalties to be subject to 
+the bankruptcy court’s power to ensure that the dis- 
+tribution of the estate in a Chapter 7 case is equitable. 
+
+In Chapter 7 cases, Congress assigned differing 
+priorities to pre- and postpetition penalties. 11 
+U.S.C. §§ 726(a)(1) and 726(a)(4). As discussed 
+
+
+15a 
+
+
+above, Section 726 (a) (1) gives administrative ex- 
+pense priority to postpetition tax penalty claims. 
+However, unlike Section 726(a) (4), Section 726(a) (1) 
+and its related statutes (Sections 507(a)(1) and 
+503(b)) do not distinguish between tax penalties 
+that are compensatory in nature and those that are 
+not. Section 726(a)(4), however, makes such a dis- 
+tinction and gives fourth priority to claims, “for any 
+.. . penalty arising before the earlier of the 
+order for relief or the appointment of a trustee, to 
+the extent that such... penalty. . [is] not com- 
+pensation for actual pecuniary loss suffered by the 
+holder of such claim.” In other words, prepetition, 
+as well as pre-appointment of trustee claims (whether 
+pre- or postpetition), for nonpecuniary loss tax pen- 
+alties are relegated to fourth priority. What priority 
+Congress intended to give prepetition pecuniary loss 
+tax penalty claims is unclear. Nevertheless, the lan- 
+guage of Section 726(a)(4) indicates that in the col- 
+lective mind of Congress a distinction exists between 
+nonpecuniary loss (“punitive”) penalties and pecu- 
+niary loss (“compensatory”) penalties, at least so far 
+as prepetition tax penalties are concerned. 
+
+This distinction surfaces elsewhere in the Bank- 
+ruptey Code. In Section 505, for example, the bank- 
+ruptey court is empowered to determine the amount 
+or legality of any tax .. or penalty relating to tax.” 
+Prior to the approval o“ the final version of S. 2266, 
+Senator DeConcini eng ed the House amendment 
+to the Senate amendment v» Section 505: 
+
+
+The House Amendment authorizes the bank- 
+ruptey court to rule on the merits of any tax 
+claim involving an unpaid tax, fine, or penalty 
+relating to a tax, or any addition to a tax, of the 
+
+
+16a 
+
+
+debtor or the estate. This authority applies, in 
+general, whether or not the tax, penalty, fine, 
+or addition to tax had been previously assessed 
+or paid. The House amendment also adopts 
+the substance of the Senate bill rule permitting 
+the bankruptey court to determine the amount 
+of any penalty, whether punitive or pecuniary 
+in nature, over which it has jurisdiction. 
+
+
+124 Cong. Rec. S17,426-27 (Oct. 6, 1978) (state- 
+ment of Sen. DeConcini); 124 Cong. Rec. H11,110 
+(Sept. 28, 1978) (statement of Rep. Edwards) (em- 
+phasis added). The distinction between punitive and 
+pecuniary loss tax penalties also appears in Senator 
+DeConcini’s statements regarding Section 502 [Al- 
+lowance of Ciaims] and regarding the priority scheme 
+in Section 507. As to Section 502, Senator DeCon- 
+cini stated: 
+The Senate amendment allowed this reduction 
+[tax claim resulting from reduction in FUTA 
+tax credit], but would have subordinated it to 
+other claims in the distribution of the estate’s 
+assets by treating it as a punitive ( nonpecuniary 
+
+
+loss) penalty. 
+
+
+124 Cong. Rec. $17,426 (Oct. 6, 1978). The distine- 
+tion between pecuniary loss and nonpecuniary loss 
+penalties is continued in Senator DeConcini’s state- 
+ment regarding Section 507 (to which Section 726 
+(a)(1) refers). This statement implies that pecuni- 
+ary loss tax penalties have first priority: 
+
+
+The House amendment also adopts the provi- 
+sions of the Senate amendment which inelude 
+in the definition of administrative expenses un- 
+der section 503 any fine, penalty (including ad- 
+
+
+17a 
+
+
+ditions to tax” under applicable tax laws) or re- 
+duction in credit imposed on the estate. For 
+purposes of the above [Section 507] priority 
+rules, the House amendment adopts the provision 
+of the Senate bill that any tax liability which, 
+under otherwise applicable tax law, is collectible 
+in the form of a “penalty,” is to be treated in 
+the same manner as a tax liability. In bank- 
+ruptey terminology, such tax liabilities are re- 
+ferred to as pecuniary loss penalties. Thus, any 
+tax liability which under the Internal Revenue 
+Code or State or local tax law is payable as a 
+penalty,“ . . will be entitled to the priority 
+which the liability would receive if it were ex- 
+pressly labeled as a “tax” under the applicable 
+tax law. However, a tax penalty which is puni- 
+tive in nature is given subordinated treatment 
+under section 726(a)(4). 
+
+
+124 Cong. Rec. $17,428-30 (Oct. 6, 1978) (statement 
+of Sen. DeConcini); 124 Cong. Rec. H11,113 (Sept. 
+28, 1978) (statement of Rep. Edwards) (emphasis 
+added ). 
+
+The foregoing paragraph is evidence of Congress’s 
+desire to give first priority to something it calls 
+“pecuniary loss penalties,” if such things exist, and 
+to give fourth priority to tax penalties that are truly 
+penalties—i.e., that are punitive in nature. In light 
+of this legislative history, including the distinction 
+Congress has made between pecuniary loss and non- 
+pecuniary loss tax penalties, we believe that Congress 
+intended nonpecuniary loss, punitive penalties to be 
+subject to the bankruptcy court’s equitable subordina- 
+tion powers under Section 510(c). As mentioned 
+above, both Section 726(a)(1) and 726(a)(4) are 
+
+
+subject to the courts’ equitable subordination power 
+under Section 510(c). This results is in accord with 
+the Third, Seventh and Eighth Circuits’ decisions in- 
+terpreting the principles of equiable subordination to 
+include the power to subordinate nonpecuniary loss 
+tax penalties in bankruptcy cases under other chapters 
+of the Bankruptcy Code. 
+
+In drafting Section 726(a)(1) and making it sub- 
+ject to Section 510(c), Congress made postpetition, 
+nonpecuniary loss tax penalties, traditionally dis- 
+allowed in bankruptcy, subject to the bankruptcy 
+courts’ equitable subordination power. A review of 
+the sketchy legislative history of Section 510(c) re- 
+veals a statement by both of the leading legislators on 
+this issue referring to penalties as a type of claim 
+susceptible to subordination. The legislative history 
+also reveals that Congress intended the courts to con- 
+tinue to develop the principles of equitable subordina- 
+tion. Therefore, we do not believe that Congress in- 
+tended to arrest the development of the principles of 
+equitable subordination as of 1978. Neither do we be- 
+lieve that the development of this area of law is 
+restricted to cases of creditor misconduct. Compelling 
+reasons of justice and equity, as well as our interpre- 
+tation of the plain language of the statutes, and the 
+legislative history regarding the purposely undefined 
+phrase “principles of equitable subordination,” move 
+this Court to agree with the other Circuits that non- 
+pecuniary loss tax penalty claims are one type of claim 
+subject to equitable subordination. 
+
+The essence of bankruptcy is equity. While Con- 
+gress has over the years re-codified traditional notions 
+of equity, the current Code vests in the bankruptcy 
+court significant discretion and equitable powers. 
+
+
+19a 
+
+
+However, the bankruptcy court’s equitable subordina- 
+tion powers must be exercised within the confines of 
+the Bankruptcy Code. In re Granger Garage, Inc., 921 
+F.2d 74, 77 (6th Cir. 1990). An examination of the 
+Code reveals that the bankruptcy courts have the 
+power to subordinate any claim to any other claim 
+under the principles of equitable subordination; Con- 
+gress has left the development of these principles to 
+the courts. The wisdom of such a course is obvious, 
+given the many ways in which parties to a bankruptcy 
+seek advantage in recouping losses. We do not sec the 
+fairness or the justice in permitting the Commission- 
+er’s claim for tax penalties, which are not being 
+assessed because of pecuniary losses to the Internal 
+Revenue Service, to enjoy an equal or higher priority 
+with claims based on the extension of value to the 
+debtor, whether secured or not. Further, assessing 
+tax penalties against the estate of a debtor no longer 
+in existence serves no punitive purpose. Because of 
+the nature of postpetition, nonpecuniary loss tax pen- 
+alty claims in a Chapter 7 case, we believe such claims 
+are susceptible to subordination. To hold otherwise 
+would be to allow creditors who have supported the 
+business during its attempt to reorganize to be penal- 
+ized once that effort has failed and there is not enough 
+to go around. Furthermore, to hold otherwise could 
+result in rewarding the debtor-in-possession, the party 
+who failed to pay the taxes on time, to the detriment 
+of the creditors. The debtor-in-possession remains 
+liable individually for the postpetition tax penalties. 
+However, if the bankruptcy court cannot subordinate 
+these penalties in the appropriate case, the creditors, 
+and not the debtor-in-possession, will have borne the 
+burden of paying the penalties. 
+
+
+20a 
+
+
+Our decision today does not mean that every tax 
+penalty assessed by the Commissioner will be equita- 
+bly subordinated. Section 726(a) (1) does not require 
+automatic subordination, and, as we have observed, 
+there may be cases where “penalties” are not actually 
+punitive in nature but represent compensation for 
+some actual loss. Section 505 leaves this determina- 
+tion to the bankruptcy court. As with every claim for 
+equitable subordination under Section 510(c), the 
+bankruptcy court must weigh the equities involved. 
+We turn, then, to whether the bankruptcy court prop- 
+erly subordinated the tax penalty in this case. 
+
+The bankruptcy court determined that a post- 
+petition tax penalty claim could be equitably subordi- 
+nated if the equities so required. The court went on 
+to find that the equities balanced in favor of general 
+unsecured creditors who suffered actual losses, as 
+opposed to the Commissioner whose actual losses, the 
+tax and interest claims, retained their first priority 
+status. Because the parties agreed that the tax pen- 
+alty claim was for nonpecuniary loss, the bankruptcy 
+court did not have to decide that issue in balancing the 
+equities of the case. Therefore, because the bank- 
+ruptcy court did not clearly err in making its findings 
+of fact, or err in its application of the law, we believe 
+that the district court properly affirmed the decision 
+of the bankruptcy court equitably subordinating the 
+Commissioner’s postpetition tax penalty claim to the 
+claims of general unsecured creditors. We therefore 
+AFFIRM the judgment of the district court. 
+
+
+21a 
+
+
+ALICE M. BATCHELDER, Circuit Judge, concurring. 
+I write separately only to express my view that 
+11 U.S.C. § 726 (a) is clear and unambiguous and 
+therefore we have no reason to speculate about the 
+intent of particular legislators or of the Congress as 
+to what was intended by that section. As the majority 
+opinion points out, the Supreme Court has made it 
+clear that we are to look to the language of the statute 
+to determine the statute’s meaning. When the statute 
+speaks with clarity to the issue we address, our in- 
+quiry is, “in all but the most extraordinary circum- 
+stances,” over. Estate of Floyd Coward v. Nicklos 
+Drilling Co., 112 S. Ct. 2589, 2594 (1991) (citation 
+omitted), cert. denied sub nom. Barger v. Petroleum 
+Helicopters, Inc., 112 S. Ct. 3026 (1992). There are 
+no such extraordinary circumstances present here. 
+
+Section 726(a) says that except as provided in 11 
+U.S.C. § 510, property of the estate is to be distrib- 
+uted first to pay claims of the kind and in the order 
+specified in 11 U.S.C. § 507. Section 510 permits 
+equitable subordination of claims. Section 507 gov- 
+erns priorities and gives first priority to administra- 
+tive expenses allowed under § 503. Title 11 U.S.C. 
+§ 503 governs allowance of administrative expenses 
+and allows as an administrative expense any tax in- 
+curred by the estate and any penalty relating to a tax 
+incurred by the estate. By definition, penalties on 
+taxes incurred by the estate are postpetition penalties. 
+Section 503 does not set any priorities among admin- 
+istrative expenses; it simply identifies what those ex- 
+penses are. Read together, §§ 726, 507, and 503 re- 
+quire that when property is distributed in a Chapter 
+7 proceeding, it goes first to pay administrative ex- 
+penses, which include taxes incurred by the estate and 
+penalties relating to those taxes, and that this entire 
+
+
+22a 
+
+
+distribution scheme is subject to the equitable sub- 
+ordination power of the court as set out in § 510. 
+
+I have no quarrel with the majority’s exploration 
+of the legislative history behind § 510(c) in order to 
+determine what the Congress intended by the term 
+“principles of equitable subordination,“ which is no- 
+where defined in the statute. Noting the absence of 
+case law equitably subordinating tax penalty claims 
+at the time the Bankruptcy Code was adopted, the 
+majority rightly concludes that this absence of case 
+law is explained by the fact that before the Code was 
+enacted, nonpecuniary loss tax penalty claims against 
+the estate were simply not allowed at all. Further, 
+the majority looks to subsequent case law, noting that 
+that body of law permits equitable subordination to 
+prepetition nonpecuniary loss tax penalty claims. So 
+far, so good. 
+
+Having determined the meaning of “principles of 
+equitable subordination,” however, nothing requires 
+us to delve into the legislative history of § 726. Spe- 
+cifically, nothing in § 726 itself permits, much less re- 
+quires, a review of the legislative history of that sec- 
+tion as part of our analysis of whether postpetition 
+nonpecuniary loss tax penalties are subject to equita- 
+ble subordination. Section 726(a) explicitly, clearly, 
+and unambiguously makes the distribution of the 
+property of the estate subject to the provisions of 
+§510. Postpetition nonpecuniary loss tax penalties 
+are therefore subject to equitable subordination. 
+End of story. 
+
+Because the unambiguous language of § 726 per- 
+mits the equitable subordination of postpetition tax 
+penalties, it is not necessary for us to undertake any 
+further analysis. Indeed, it is necessary that we not 
+do so. 
+
+
+23a 
+
+
+APPENDIX B 
+[Filed Mar. 2, 1995] 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE SIXTH CIRCUIT 
+
+
+No.: 93-4311 
+IN RE: First TRUCK LINES, INC., DEBTOR 
+
+
+UNITED STATES OF AMERICA, APPELLANT 
+V. 
+THOMAS R. NOLAND, Trustee, APPELLEE 
+
+
+Before: MARTIN, and BATCHELDER, Circuit Judges; 
+and ENSLEN, District Judge 
+
+
+JUDGMENT 
+
+
+ON APPEAL from the United States District 
+Court for the Southern District of Ohio at Dayton. 
+
+
+THIS CAUSE was heard on the record from the 
+district court and was argued by counsel. 
+
+
+ON CONSIDERATION WHEREOF, it is OR- 
+DERED that the judgment of the district court is 
+AFFIRMED. 
+
+ENTERED BY ORDER OF THE COURT 
+
+
+/s/ Leonard Green 
+LEONARD GREEN 
+Clerk 
+
+
+Issued as Mandated: March 24, 1995 
+
+
+24a 
+APPENDIX C 
+
+
+[Filed Jun. 16, 1995] 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE SIXTH CIRCUIT 
+
+
+No. 93-4311 
+IN RE: First TRUCK LINES, DEBTOR 
+
+
+UNITED STATES OF AMERICA, IRS, 
+PLAINTIFF-APPELLANT 
+
+
+*. 
+
+
+THOMAS R. NOLAN D, TRUSTEE, DEFENDANT-APPELLEE 
+
+
+ORDER 
+
+
+Before: MARTIN, and BATCHELDER, Circuit Judges; 
+and ENSLEN,* District Judge. 
+
+
+The court having received a petition for rehearing 
+en banc, and the petition having been circulated not 
+only to the original panel members but also to all 
+other active judges of this court, and no judge of this 
+court having requested a vote on the suggestion for 
+rehearing en banc, the petition for rehearing has 
+been referred to the original hearing panel. 
+
+
+* Hon. Richard A. Enslen, Chief Judge United States Dis- 
+trict Court for the Western District of Michigan, sitting by 
+designation. 
+
+
+25a 
+
+
+The panel has further reviewed the petition for re- 
+hearing and concludes that the issues raised in the 
+petition were fully considered upon the original sub- 
+mission and decision of the case. Accordingly, the 
+petition is denied. 
+
+
+ENTERED BY ORDER OF THE COURT 
+
+
+s Leonard Green 
+LEONARD GREEN 
+Clerk 
+
+
+26a 
+APPENDIX D 
+[Filed Sep. 21, 1993] 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE SOUTHERN DISTRICT OF OHIO 
+WESTERN DIVISION 
+
+
+Case No. C-3-92-304 
+JUDGE WALTER HERBERT RICE 
+INTERNAL REVENUE SERVICE, APPELLANT 
+v8. 
+THOMAS R. NOLAND, TRUSTEE, APPELLEE 
+
+
+DECISION AND ENTRY AFFIRMING THE 
+DECISION OF THE BANKRUPTCY COURT; 
+JUDGMENT TO BE ENTERED IN FAVOR OF 
+APPELLEE AND AGAINST APPELLANT; 
+TERMINATION ENTRY 
+
+
+This is an appeal by the Internal Revenue Service 
+(“IRS”) from a decision by the United States Bank- 
+ruptey Court, subordinating the IRS’s claim of tax 
+penalties to the priority of the claims of general, un- 
+secured creditors. This appeal arises out of a bank- 
+ruptcy petition under Chapter 11 of the Bankruptcy 
+Code, which First Truck Lines (“FTL”) filed on 
+April 10, 1986. After filing the petition, FTL con- 
+tinued its business operations as a debtor in posses- 
+sion. However, during its postpetition operations, 
+FTL did not pay to the IRS the FICA and FUTA 
+
+
+27a 
+
+
+taxes which accrued. FTL discontinued business 
+operations, and, on August 1, 1988, the Bankruptcy 
+Court converted the Chapter 11 proceedings to a 
+Chapter 7 liquidation. 
+
+After this case was converted to a Chapter 7 pro- 
+ceeding, the Bankruptcy Court was called upon to 
+distribute, among the various parties filing claims, 
+
+
+_the property of FTL’s estate. The IRS had filed a 
+
+
+claim for the unpaid FICA and FUTA taxes, inter- 
+est on those taxes, as well as penalties on those taxes 
+(“tax penalties”).’ The IRS further sought to have 
+the Bankruptcy Court hold that all three components 
+of its claim were entitled to priority as administra- 
+tive expenses. The Bankruptcy Court agreed with 
+the IRS that the three components of the IRS’s claim 
+were administrative expenses; however, pursuant to 
+§$ 510(c) of the Bankruptcy Code, 11 U.S.C. § 510(c), 
+that court held that IRS’s claim for tax penalties 
+should be equitably subordinated to the status of the 
+claims of general unsecured creditors.’ Thus, the 
+IRS’s claim was given priority for the unpaid taxes 
+and for the interest on those taxes; however, its claim 
+for tax penalties was not given such priority. The 
+Bankruptcy Court subordinated the IRS’s claim for 
+tax penalties because, unlike business creditors, the 
+IRS had not suffered an actual pecuniary loss with 
+
+
+The IRS filed a claim and an amended claim for taxes, 
+interest and tax penalties, seeking the sum of $128,756.64. 
+The trustee argued before the Bankruptcy Court that the 
+amended claim was not a proper claim; however, that court 
+concluded that it was a proper claim. Accordingly, that ques- 
+tion is not before this Court, and the Court will treat the 
+two claims (original and amended) as one. 
+
+
+? The Bankruptcy Court’s decision is reported. /n re First 
+Truck Lines, Inc., 141 B.R. 621 (Bkrtcy.S.D.Ohio 1992). 
+
+
+28a 
+
+
+regard to the penalties. In other words, the IRS’s 
+claim for tax penalties, unlike those of all business 
+creditors, did not arise atfer the surrendering of a 
+valuable asset to the debtor. 
+
+Before this Court, the IRS presents two arguments, 
+to wit: 1) that administrative expenses can never 
+be equitably subordinated; and 2) that, if such ex- 
+penses can be subordinated, the Bankruptcy Court 
+improperly subordinated the tax penalties in this 
+case. As an initial matter, the Court will set forth 
+the familiar standard against which it must review 
+the Bankruptcy Court’s decision in this litigation. 
+This Court reviews the Bankruptcy Court’s findings 
+of fact under a clearly erroneous standard and con- 
+ducts a de novo review of that court’s conclusions of 
+law. In re Caldwell, 851 F.2d 852, 857 (6th Cir. 
+1988). See also, Bankruptcy Rule 8013. 
+
+First, the IRS argues that the tax penalties are 
+administrative expenses and that such expenses are 
+never subject to equitable subordination, because they 
+are given such a high priority in § 507 of the Bank- 
+ruptey Code, 11 U.S.C. § 507. Although the tax pen- 
+alties were administrative expenses, this Court does 
+not agree with the IRS that such expenses are never 
+subject to equitable subordination. This argument 
+presents a simple question of statutory construction. 
+This question, like every question of statutory con- 
+struction, compels this Court to determine the intent 
+of Congress. The starting point of that analysis is, 
+
+
+Section 507 (a) (1) provides that expenses allowed under 
+§503(b) are administrative expenses. Section 503 (b) pro- 
+vides that certain taxes and related penalties, including those 
+herein, are administrative expenses. The Appellee concedes 
+that the tax penalties are administrative penalties. See Doc. 
+#6 at 2. 
+
+
+29a 
+
+
+of course, the language of the statute. United States 
+v. Ron Pair Enterprises, Inc., 489 U.S. 235, 241 
+(1989). When construing the Bankruptcy Code (and 
+other statutes), the Supreme Court has cautioned 
+that that inquiry must end “when the statute’s lan- 
+guage is plain.” /d. The provision which this Court 
+mus’ construe is 5 726 (a) of the Bankruptcy Code, 
+11 U.S.C. § 726 (a), which governs the distribution 
+of the property in a Chapter 7 debtor’s estate. Sec- 
+tion 726(a) provides, in pertinent part: 
+
+
+Except as provided in section 510 of this title, 
+property of the estate shall be distributed— 
+
+
+(1) first, in payment of claims of the kind 
+specified in, and in the order specified in, section 
+507 of this title. 
+
+
+Section 507 is the provision by which administrative 
+expenses are given priority. Section 510(c) of the 
+Bankruptcy Code plainly confers upon the court the 
+power to equitably subordinate claims.‘ Given the 
+plain and clear language of § 726(a), it is simply not 
+possible to conclude that administrative expenses are 
+not subject to equitable subordination. Moreover, 
+other courts have concluded that administrative ex- 
+penses are subject to equitable subordination. For 
+instance, in In re Import & Mini Car Parts, Ltd., Inc., 
+
+
+* Section 510(c) provides, in pertinent part: 
+Notwithstanding subsections (a) and (b) of this section, 
+after notice and a hearing, the court may— 
+
+(1) under principles of equitable subordination, sub- 
+ordinate for purposes of distribution all or part 
+of an allowed claim to all or part of another 
+allowed claim or all or part of an allowed inter- 
+est to all or part of another allowed interest. 
+
+
+30a 
+
+
+136 B. R. 178, 181 (Bkrtcy.N.D.Ind. 1991), the court 
+rejected the proposition that administrative expenses 
+cannot be equitably subordinated, stating: 
+
+
+[The IRS first argues that section 510(c) 
+does not authorize the subordination of adminis- 
+trative expenses. Based upon the plain language 
+of section 726(a) this argument cannot prevail. 
+The distributive scheme established by § 726 is 
+expressly subject to the power of subordination 
+pursuant to § 510. 
+
+
+Accord In re F. A. Potts & Co., 114 B.R. 92 (Bkrtcy. 
+E.D.Pa. 1990). Accordingly, this Court must decline 
+the IRS’s invitation to rewrite the plain language of 
+§ 726(a) and concludes that administrative expenses 
+(in this case tax penalties) are subject to equitable 
+subordination. 
+
+Second, having determined that administrative ex- 
+penses can be equitably subordinated, the question re- 
+mains as to whether the Bankruptcy Court correctly 
+concluded that the administrative expenses (the tax 
+penalties) in this litigation should be so subordinated. 
+Section 510(c) does not expressly state when a claim 
+may be equitably subordinated; rather, that section 
+provides that claims may be subordinated “under 
+principles of equitable subordination.” The legislative 
+history to § 510(c) explains: 
+
+
+It is intended that the term “principles of equita- 
+ble subordination” follow existing case law and 
+leave to the courts the development of this princi- 
+ple. To date, under existing law, a claim is gen- 
+erally subordinated only if the holder of such 
+claim is guilty of inequitable conduct, or if the 
+
+
+3la 
+
+
+claim itself is of a status susceptible to subordina- 
+tion, such as a penalty... 
+
+
+124 Cong.Rec. H11089 (Sept. 28, 1978) (statement 
+of Rep. Edwards), reprinted in, 1978 USCC&AN 
+5787, 6452 (emphasis added); 124 Cong. Rec. 817406 
+(Oct. 6, 1978) (statement by Sen DeConcini), re- 
+printed in 1978 USCC&AN 6505, 6521 (emphasis 
+added). Herein, there is no hint or allegation that 
+the IRS was guilty of inequitable conduct; therefore, 
+the only question for this Court is whether a claim 
+for a tax penalty is of the status susceptible to sub- 
+ordination. 
+
+Although the Sixth Circuit has not addressed the 
+question,“ other circuits have consistently held that 
+claims for tax penalties are subject to equitable sub- 
+ordination, even in the absence of misconduct by the 
+government. See, e.g., Schultz Broadway Inn v. United 
+States, 912 F.2d 230 (8th Cir. 1990); Burden v. 
+United States, 917 F.2d 115 (3rd Cir. 1990); Matter 
+
+
+The Supreme Court has treated the statements, by Rep- 
+resentative Edwards and Senator DeConcini, on the Bank- 
+ruptcy Reform Act of 1978, as “persuasive evidence of con- 
+gressional intent.” Beiger v. IRS, 496 U.S. 53, 64 n. 5. See 
+also, In re Mansfield Tire & Rubber Co., 942 F.2d 1055, 1058 
+n. 3 (6th Cir. 1991). 
+
+
+*In In re Mansfield Tire & Rubber Co., 942 F.2d 1055, 1062 
+(6th Cir. 1991), the Sixth Circuit quoted the statement and 
+held that the excise tax was not subject to equitable subroga- 
+tion because the IRS was not guilty of inequitable conduct 
+and the tax was not a penalty. However, the Mansfield Tire 
+court did not suggest that a tax penalty is not subject to equi- 
+table subordination. Indeed, the Mansfield Tire court recog- 
+nized that equitable subordination is appropriate “if the claim 
+itself is of a status susceptible to subordination.” /d. 
+
+
+32a 
+
+
+of Virtual Network Services Corp., 902 F.2d 1246 
+(7th Cir. 1990). These courts have held that a court 
+must balance the equities before subordinating a tax 
+penalty. For instance, in Virtual Network, the Sev- 
+enth Circuit held that the district court correctly con- 
+cluded that the equities tipped in favor of subordina- 
+tion because it was unfair to allow the tax penalties 
+to come from the pockets of other creditors. Id. at 
+1250. In Schultz, the Eighth Circuit upheld the dis- 
+trict court’s decision to equitably subordinate tax 
+penalties and commented that the decision “accords 
+with the legislative history of the Bankruptcy Reform 
+Act, which generally prefers claims for actual losses 
+over punitive claims.” 912 F.2d at 234. 
+
+After weighing the equities, the Bankruptcy Court 
+concluded that principles of equitable subordination 
+upheld the subordination of the tax penalties in this 
+case. This Court concludes that the Bankruptcy Court 
+reached the proper balance. The IRS’s claim for tax 
+penalties is unquestionably a penalty,’ an additional 
+
+
+Before the adoption of the Bankruptcy Reform Act of 
+1978, tax penalties were specifically disallowed as claims 
+against a bankrupt’s estate. Burden, 917 F.2d at 117. In 
+Simmonson v. Granquist, 369 U.S. 38, 41 (1962), the Supreme 
+Court explained the rationale behind that disallowance: 
+
+
+Tax penalties are imposed at least in part as punitive 
+measures against persons who have been guilty of some 
+wrong. Enforcement of penalties against the estates of 
+bankrupts, however, would serve not to punish the de- 
+linquent taxpayers, but rather their entirely innocent 
+creditors. 
+
+
+See also, In re Cassidy, 983 F.2d 161, 164 (10th Cir. 1992) 
+(“The policy of protecting unsecured creditors from the bad 
+conduct of the debtor is best implemented by avoiding bur- 
+dening the claims of unsecured creditors with penalties im- 
+posed on the debtor.“) 
+
+
+33a 
+
+
+assessment, so to speak, for the debtor’s having failed 
+to pay the taxes and the interest due on the taxes in 
+a timely manner, sums which, unlike the statutory 
+penalties, represent actual losses (or the loss of the 
+use of money) to the IRS. The IRS has priority to 
+its claims for unpaid taxes and for interest on those 
+taxes; therefore, it will not suffer a pecuniary loss if 
+it does not obtain priority for the tax penalties. The 
+same cannot be said for other creditors; rather, those 
+persons provided value to FTL and will not receive 
+that for which they bargained if the IRS is to be 
+given priority for sums which do not represent out of 
+pocket losses to it. Accordingly, this Court concludes 
+that the equities tip in favor of subordinating the 
+IRS’s claim for tax penalties in this case. 
+
+Based upon the foregoing, this Court affirms the 
+Bankruptcy Court’s decision to subordinate the IRS’s 
+tax penalties to the priority of the claims of general 
+unsecured creditors. Judgment is to be entered in 
+favor of the Appellee and against the Appellant. 
+
+The captioned cause is hereby terminated upon the 
+docket records of the United States District Court for 
+the Southern District of Ohio, Western Division, at 
+
+
+Dayton. 
+
+
+s, Walter Herbert Rice 
+WALTER HERBERT RICE 
+United States District 
+
+Judge 
+
+
+34a 
+APPENDIX E 
+
+
+[Entered Jan. 25, 1992] 
+
+
+UNITED STATES BANKRUPTCY COURT 
+SOUTHERN DISTRICT OF OHIO 
+WESTERN DIVISION 
+
+
+Case No. 3-86-00925 
+Chapter 7 (Judge Waldron) 
+
+
+IN RE: First TRUCK LINES, INC., DEBTOR 
+
+
+DECISION ON ORDER ON OBJECTION 
+
+
+DATED AT DAYTON, OHIO this 25th day of 
+June, 1992: 
+
+
+This proceeding, which arises under 28 U.S.C. 
+§ 1334 (b) in a case referred to this court by the 
+Standing Order of Reference entered in this district 
+on July 30, 1984, is determined to be a core proceed- 
+ing pursuant to 28 U.S.C. § 157(b) (2) (B)—allow- 
+ance or disallowance of claims against the estate and 
+estimation of claims. 
+
+Presently before the court is an objection filed by 
+the trustee to the tax claims filed by the Internal 
+Revenue Service (Doc. 193). A hearing on this ob- 
+jection was held and this proceeding was taken under 
+advisement. 
+
+BACKGROUND 
+
+
+The parties filed a Stipulation Of The Trustee And 
+the United States Of America Relating To Allowance 
+
+
+35a 
+
+
+Or Disallowance Of Claims Of the Internal Revenue 
+Service (Doc. 216). The relevant stipulations are as 
+follows: 
+
+
+1) The parties agree that this court has jurisdic- 
+tion to determine the claims and requests of the In- 
+ternal Revenue Service (the IRS“). 
+
+2) On April 10, 1986, the debtor voluntarily filed 
+for relief under chapter 11 of the Bankruptcy Code. 
+
+3) The debtor moved to convert the case to chapter 
+7 in June, 1988. An order converting this case to 
+chapter 7 was entered on August 1, 1988. 
+
+4) The bar date for filing claims in the chapter 7 
+proceeding was December 1, 1988. 
+
+5) On November 22, 1988, the IRS filed a Request 
+for Payment of Administrative Expenses which was 
+numbered 102 by the clerk (“Claim 102”). The 
+amounts listed in Claim 102 involve claims which 
+accrued postpetition and preconversion for taxes, in- 
+terest, and penalties. Claim 102 did not inel ade any 
+claims made in previous claims or requests ‘Aled by 
+the IRS in this case. 
+
+6) On April 20, 1989, the IRS filed a Request for 
+Payment of Administrative Expenses which was num- 
+bered 107 by the clerk (“Claim 107”). 
+
+7) On August 7, 1991, the trustee filed an objec- 
+tion to Claim 102 and Claim 107. 
+
+8) In response to this objection, the United States 
+filed the United States Opposition To Trustee’s Ob- 
+jection To Allowance Of Claims Of Internal Reve- 
+nue Service (Doc. 196) and a Memorandum Of Law 
+In Support Of The United States’ Opposition To 
+Trustee’s Objection To Allowance Of Claims of In- 
+ternal Revenue Service (Doc. 210). The Trustee filed 
+a Response Of Trustee To Memorandum Of USA In 
+
+
+36a 
+
+
+Opposition To Objection To Claim (Doc. 198) and 
+a Memorandum Of Trustee Relative To Memorandum 
+Of Law In Support Filed by USA For Allowance Of 
+Claims Of The Internal Revenue Service (Doc. 211). 
+
+9) The parties agree that the tax and interest 
+amounts in Claim 102 will be allowed as an adminis- 
+trative expense claim with priority under Sections 
+503(b), 507(a)(1), and 726(a)(1). However, the 
+parties request that the court determine the priority, 
+if any, of the penalties related to Claim 102. 
+
+10) The parties agree that the tax and interest 
+claims made in Claim 107 involving quarters ending 
+December 31, 1986 (WT-FICA) for $964.80 and De- 
+cember 31, 1987 (WT-FICA) for $74,670.39 are 
+claims not raised in previous claims and should be 
+subordinated pursuant to Section 726(a)(3). How- 
+ever, the parties request that the court determine the 
+priority, if any, of the penalties related to Claim 107. 
+
+11) The parties agree that, with respect to Claim 
+107, the quarters ending September 30, 1986 (WT- 
+FICA) for $264.51, September 30, 1987 (WT-FICA) 
+for $28,039.08, March 31, 1988 (WT-FICA) for 
+$24,363.81, June 30, 1988 (WT-FICA) for $29,718.50, 
+the FUTA tax for the year 1987 for $3,709.46, and 
+the corporate income tax for the year 1987 for 
+$300.00 are the same amounts sought in previous 
+claims timely filed in these proceedings. 
+
+12) The parties agree that, with respect to Claim 
+107, the amount claimed for FUTA tax for the year 
+1988 was greater in amount than the amount claimed 
+in Claim 102 for the same year and that Claim 102 
+delineated the 1988 year as being estimated. The 
+United States maintains that the increased amount 
+for FUTA tax should be allowed as an administrative 
+
+
+37a 
+
+
+expense, but the trustee maintains that the increased 
+amount for FUTA tax should not be allowed. The 
+parties agree that, if Claim 107 is allowed as an 
+amended claim, the court should determine the pri- 
+ority, if any, of the penalties included in Claim 107. 
+
+
+ISSUES 
+
+
+Based upon the parties’ stipulations, this court finds 
+that the following issues are before this court for 
+determination: 
+
+
+1) With respect to Claim 102, what priority will 
+the tax penalties be accorded. 
+
+2) With respect to Claim 107, will a) the FUTA 
+tax be allowed as an amendment to Claim 102 and 
+
+
+allowed as an administrative expense, b) the penalty 
+
+
+related to this FUTA tax be allowed as an amend- 
+ment to Claim 102, and if so, what priority will it be 
+accorded, and c) the penalties related to FICA claims, 
+which have not been previously asserted, be allowed, 
+and if so, what priority will these penalties be ac- 
+corded. 
+
+DISCUSSION 
+
+
+The resolution of the interrelated issues of federal 
+tax priorities, penalties, and subordination requires 
+an examination of the interstices of several seem- 
+ingly contradictory provisions of the Code (11 U.S.C. 
+§ 348, § 503, § 507, § 510, and § 726). The subject of 
+an “appropriate analytical task” and an “agreed upon 
+methodology” in statutory interpretation of the Bank- 
+ruptey Code has been continually emphasized in re- 
+cent Supreme Court decisions. Patterson v. Shumate, 
+No. 91-913, 1992 U.S. LEXIS 3546, 60 U.S.L.W. 
+4550 (U.S. June 15, 1992). This methodology may 
+
+
+38a 
+
+
+be described by acknowledging that, although “canons 
+of construction are no more than rules of thumb that 
+help courts determine the meaning of legislation,” 
+Connecticut Nat’l Bank v. Germain, —— U.S. ——, 
+112 S.Ct. 1146, 1149 (1992), the initial examination 
+commences with the language of the statute. Pennsyl- 
+vania Dept. of Public Welfare v. Davenport, 495 U.S. 
+552, 110 S.Ct. 2126, 2130 (1990) (“the fundamental 
+canon [of] statutory interpretation begins with the 
+language of the statute itself.”). “[C]ourts must 
+presume that a legislature says in a statute what it 
+means and means in a statute what it says there.” 
+Germain, 112 S.Ct. at 1149. If the statutory language 
+is ambiguous a court must resort to examination of 
+legislative history. See United States v. Ron Pair 
+Enterprises, Inc., 489 U.S. 235, 109 S.Ct. 1026, 1030 
+(1989). As the Supreme Court stated in Ron Pair, 
+“[t]he plain meaning of legislation should be con- 
+clusive, except in the ‘rare cases [in which] the literal 
+application of a statute will produce a result demon- 
+strably at odds with the intention of its drafters.’ ” 
+109 S.Ct. at 1031. “In such cases, the intention of the 
+drafters, rather than the strict language, controls.” 
+109 S.Ct. at 1031. Further, it is necessary to note 
+that a court should be reluctant to “accept arguments 
+that would interpret the Code, however vague the 
+particular language under consideration might be, to 
+effect a major change in pre-Code practice that is not 
+the subject of at least some discussion in the legisla- 
+tive history.” Dewsnup v. Timm, — U.S. ——, 112 
+S.Ct. 773, 779 (1992). 
+
+
+I. Claim 10 
+
+
+The parties request that this court determine the 
+priority to be accorded the postpetition, preconver- 
+
+
+39a 
+
+
+sion non-pecuniary loss tax penalties asserted in this 
+claim. The IRS asserts that postpetition, preconver- 
+sion tax penalties are administrative expenses en- 
+titled to the priority accorded by 11 U.S.C. 
+§ 507 (a) (1). Section 507(a)(1) provides: 
+
+
+(a) The following expenses and claims have 
+priority in the following order: 
+
+
+(1) First, administrative expenses al- 
+lowed under section 503(b) of this title, 
+and any fees and charges assessed against 
+the estate under chapter 123 of title 28. 
+
+
+The administrative expenses allowed under § 503(b) 
+include the taxes incurred by a bankruptcy estate. 
+Section 503 (b) (1) provides: 
+
+
+(b) After notice and a hearing, there shall 
+be allowed administrative expenses, other than 
+claims allowed under section 502(f), of this title, 
+including— 
+
+
+(1)(A) the actual, necessary costs and 
+expenses of preserving the estate, including 
+wages, salaries, or commissions for services 
+rendered after the commencement of the 
+case: 
+
+(B) any tax— 
+
+
+(i) incurred by the estate, ex- 
+cept a tax of a kind specified in 
+section 507(a)(7) of this title: or 
+
+(ii) attributable to an excessive 
+allowance of a tentative carryback 
+adjustment that the estate re- 
+ceived, whether the taxable year to 
+which such adjustment relates 
+
+
+40a 
+
+
+ended before or after the com- 
+mencement of the case; and 
+
+
+(C) any fine, penalty, or reduction 
+in credit relating to a tax of a kind spe- 
+cified in subparagraph (B) of this 
+paragraph. 
+
+The parties have agreed that the tax and interest 
+sought in Claim 102 will be allowed as an adminis- 
+trative expense under § 503 (b). Because of the Code’s 
+express reference to taxes in § 503(b)(1)(B), this 
+court determines that the parties have stipulated that 
+the taxes will be allowed under this subsection. 
+
+As 8 503 (b) (1) (C) demonstrates, the penalties 
+related to taxes which come within the provisions of 
+503 (b) (1) (B) are administrative expenses. There- 
+fore, having been expressly defined as administrative 
+expenses, the postpetition tax penalties receive first 
+priority under § 507 (a) (1). 
+
+The trustee contends, however, that these tax pen- 
+alties should be subordinated. Initially, the trustee 
+asserts that, as a result of the conversion of this case 
+from a case under chapter 11 to a case under chapter 
+7, the provisions pertaining to distribution in liquida- 
+tion cases, specifically § 726(a) (4), dictate the prior- 
+ity of the tax penalties. Section 726 (a) (4) provides: 
+
+
+(a) Except as provided in section 510 of this 
+title, property of the estate shall be distrib- 
+uted— 
+
+
+(4) fourth, in payment of any allowed 
+claim, whether secured or unsecured, for 
+any fine, penalty, or forfeiture, or for mul- 
+tiple, exemplary, or punitive damages, aris- 
+ing before the earlier of the order for relief 
+
+
+4la 
+
+
+or the appointment of a trustee, to the ex- 
+tent that such fine, penalty, forfeiture, or 
+
+are not compensation for actual 
+pecuniary loss suffered by the holder of such 
+claim[.] 
+
+
+At first blush it appears that there is a conflict 
+between § 503 (b) (1) (C) and §726(a)(4), since 
+both sections contain the same term penalty“ but do 
+not accord it the same priority. Resolution of this 
+conflict is found in the provisions in 11 U.S.C. 
+§ 348(d). Section 348 (d), pertaining to conversion, 
+provides: 
+
+
+(d) A claim against the estate or the debtor 
+that arises after the order for relief but before 
+conversion in a case that is converted under sec- 
+tion 1112, 1307, or 1208 of this title, other than 
+a claim specified in section 503(b) of this title, 
+shall be treated for all purposes as if such claim 
+had arisen immediately before the date of the 
+filing of the petition. 
+
+
+(Emphasis supplied). 
+
+Section 348(d), by expressly omitting claims under 
+$ 503(b), prevents chapter 11 administrative claims 
+from becoming prepetition claims upon conversion. 
+United States v. Ginley (In re Johnson), 901 F.2d 
+513, 520 (6th Cir. 1990); In re Bondi’s Valu-King, 
+Inc., 102 B. R. 108, 111 (Bankr. N.D. Ohio 1989), 
+aff'd, 126 B. R. 47 (N.D. Ohio 1991); 2 Collier On 
+Bankruptcy para. 348.05 at 348-10 (15th ed. 1991). 
+Accordingly, the express statutory language indicates 
+that these penalties retain their status as administra- 
+tive claims under § 503 (b) (1) (C) and are to be paid 
+in accordance with the distribution provisions set 
+
+
+42a 
+
+
+forth in § 726(a)(1)' and § 726 (b), and not the pro- 
+visions contained in § 726(a) (4). 
+
+The trustee alternatively argues that the postpeti- 
+tion tax penalties sought by the IRS in Claim 102 
+should be equitably subordinated under 11 U.S.C. 
+§ 510(c) (1). Section 510(c) (1) provides: 
+
+
+(c) Notwithstanding subsections (a) and (b) 
+of this section, after notice and a hearing, the 
+court may— 
+
+
+(1) under principles of equitable sub- 
+ordination, subordinate for purposes of dis- 
+tribution all or part of an allowed claim to 
+all or part of another allowed claim or all 
+or part of an allowed interest to all or part 
+of another allowed interest.] 
+
+
+The Bankruptcy Code does not expressly define the 
+phrase “equitable subordination,” therefore, it is 
+
+
+1 (a) Except as provided in section 510 of this title, prop- 
+erty of the estate shall be distributed— 
+
+
+Payment on claims of a kind specified in paragraph (1), 
+or in paragraph (2), (3), (4), or (5) of subsection (a) of 
+
+
+1112, 1208 or 1307 of this title, a claim allowed under section 
+503 (b) of this title incurred under this chapter after such 
+conversion has priority over a claim allowed under section 
+503(b) of this title incurred under any other chapter of this 
+title or under this chapter before such conversion 
+any expenses of a custodian superseded under section 543 of 
+this title. 
+
+
+F 
+if 
+
+
+43a 
+
+
+necessary to resort to an examination of the legisla- 
+tive history of the Code.* Legislative history indi- 
+cates that the meaning of the phrase “equitable sub- 
+ordination” was to be developed by the courts. The 
+Congressional Record states: 
+It is intended that the term “principles of equi- 
+table subordination” follow existing case law 
+and leave to the courts development of this prin- 
+ciple. To date, under existing law, a claim is 
+generally subordinated only if holder of such 
+claim is guilty of inequitable conduct, or the 
+claim itself is of a status susceptible to subor- 
+dination, such as a penalty or a claim for dam- 
+ages arising from the purchase or sale of a 
+security of the debtor. 
+
+
+124 Cong. Rec. H11089, H11095 (1978) (emphasis 
+added) (remarks of Rep. Edwards), printed in 1978 
+U.S. Code Cong. & Admin. News 6436, 6452; see also 
+124 Cong. Rec. 817406, 817412 (1978) (remarks of 
+Sen. DeConcini), reprinted in 1978 U.S. Code Cong. 
+& Admin. News 6505, 6521. See also United States 
+v. Mansfield Tire & Rubber Co. (In re Mansfield Tire 
+& Rubber Co.), 942 F.2d 1055, 1062 (6th Cir. 1991) 
+(“We continue to recognize that equitable subordina- 
+tion in bankruptcy may be appropriate if the claim- 
+holder is guilty of inequitable conduct or if the claim 
+itself is of a status susceptible to subordination.”). 
+
+Section 510 (e) (1) has been utilized to subordinate 
+claims for non-pecuniary tax penalties. Burden „. 
+
+
+* As the Third Circuit noted in Burden, Iplrior to the 
+
+
+44a 
+
+
+United States, 917 F.2d 115 (3d Cir. 1990); Schultz 
+Broadway Inn v. United States, 912 F.2d 230 (8th 
+Cir. 1990); In re Virtual Network Services Corp., 
+902 F.2d 1246 (7th Cir. 1990); In re Manchester 
+Lakes Assocs., 117 B.R. 221, 225 (Bankr. E.D. Va. 
+1990); In re Merwede, 84 B.R. 11, 14 (Bankr. D. 
+Conn. 1988). These claims have been subordinated 
+despite the absence of creditor misconduct. Burden, 
+917 F.2d at 120; Schultz Broadway Inn, 912 F.2d at 
+233; Virtual Network Services, 902 F.2d at 1250; 
+In re Merwede, 84 B.R. at 14. The determination of 
+whether a penalty should be subordinated requires 
+the court to weigh the equities of the various claims 
+on a case-by-case basis. Burden, 917 F.2d at 120; 
+Schultz Broadway Inn, 912 F.2d at 234; Virtual Vet- 
+work Services, 902 F.2d at 1250. Otherwise, subor- 
+dination would automatically occur merely because a 
+claim is a penalty, and a major revision in the bank- 
+ruptcy law such as this would warrant explicit direc- 
+tion from Congress. Burden, 917 F.2d at 119. 
+
+The IRS acknowledges that courts have subordi- 
+nated tax penalties under g 510 (e) (1) but contends 
+that these decisions are not applicable to this proceed- 
+ing because ethey involve prepetition tax penalties, 
+and not postpetition tax penalties. In support of its 
+contention the IRS distinguishes the penalties sought 
+in this proceeding from those in Virtual Network 
+
+
+In Virtual Network Services, the Seventh Circuit 
+addressed the issue of whether prepetition non- 
+pecuniary loss tax penalties could be equitably sub- 
+ordinated under § 510(c)(1). 902 F.2d at 1247-50. 
+In examining the equities of the case before it, the 
+appeals court concluded that non-pecuniary loss tax 
+penalties could be subordinated under 11 U.S.C. 
+
+
+45a 
+
+
+5510 (e) (J). In reaching this determination, the ap- 
+peals court examined the IRS's challenges to the 
+distriet court's holding that equitable subordination 
+would be applied to the case because 1) the goal 
+of equitable subordination focuses not on the conduct 
+of the creditor but on a fairness to creditors in a 
+particular case, 2) punishing or deterring VNS’s 
+[the debtor’s] innocent creditors because of VNS's 
+wrongful conduct serves no purpose, and 3) the IRS’s 
+claims in this case are punitive in nature.” Virtual 
+Network Services, 902 F.2d at 1250. Specifically, 
+the IRS challenged the district court’s holdings on 
+grounds 2 and 3. 
+
+With respect to the district court’s holding in 
+ground 2, the IRS asserted, on appeal, that it was 
+just as innocent as the debtor’s general unsecured 
+creditors, thus it was unfair to punish it in relation to 
+those other creditors. In addressing this contention, 
+the appeals court noted that the IRS had been found 
+innocent by the district court, but that the district 
+court also emphasized “that it [the IRS] had waited 
+too long to collect its debt, therefore, making it unfair 
+for the court to shift the burden of the debt to other 
+innocent creditors.” Virtual Network Services, 902 
+F.2d at 1250. With respect to its objection to ground 
+number 3, the appeals court stated that the IRS was 
+challenging the district court’s findings that the tax 
+penalty claims were punitive by attempting to re- 
+characterize the nature of its claims as being unlike 
+other non-pecuniary loss penalties because they are 
+designed to not only punish the debtor, but to pro- 
+tect “ ‘the integrity of tax systems and to reimburse 
+the Government for . . . costs incurred as a result 
+of certain taxpayer misconduct.’” Virtual Network 
+Services, 902 F.2d at 1250. In addressing this con- 
+
+
+46a 
+
+
+tention, the appeals court noted that this argument 
+had not been properly raised to the district court by 
+the IRS; but, nonetheless, stated, “this vague asser- 
+tion is an attempt to diffuse the purpose behind the 
+tax penalties, i.e., to punish those who fail to abide 
+by the taxing structure, and to deter those who 
+might be inclined to avoid tax payment.” Id. The 
+court concluded, “allowing the IRS to recover its non- 
+pecuniary loss claims along with others who have 
+actually ‘invested’ in VNS [the debtor] and lost 
+would be unfair on these facts.” Id. The appeals 
+court further stated: 
+
+
+As for the other grounds that the district 
+court relied on in applying equitable subordina- 
+tion to the IRS’s claims, we are persuaded that 
+the district court accurately addressed the equi- 
+ties of this case. The district court correctly 
+considered that it was unfair to allow the IRS’s 
+tax penalty claims to come out of the “pockets” 
+of other general unsecured creditors who had 
+not been paid their pecuniary losses. Moreover, 
+in this case the debtor has sold most of its op- 
+erating assets and filed an amended plan for 
+liquidation. In other words, VNS [the debtor] 
+exists in name only, as an entity out of which 
+remaining funds are distributed, in this case 
+between 15-30% of that due, to its creditors. We 
+agree that the equities in this case favor the 
+subordination of the IRS’s claims to those of the 
+other general unsecured creditors. 
+
+
+902 F.2d at 1250. 
+Similarly, the Eighth Circuit, in Schultz Broadway 
+
+
+Inn, concluded that the IRS’s tax penalty claims 
+would be subordinated under § 510 (e) (1). 912 F.2d 
+
+
+47a 
+
+
+at 234. Notably, in Schultz Broadway Inn, the Gov- 
+ernment argued that subordination of non-pecuniary 
+loss penalties is precluded under chapter 11 because 
+Congress, as evidenced by its express subordination 
+of non-pecuniary loss penalty claim in § 726(a) (4), 
+intended to restrict subordination of punitive claims 
+to proceedings under chapter 7. 912 F.2d at 233. 
+The Schultz Broadway Inn court rejected the Govern- 
+ment’s argument and stated: 
+
+
+[I]n proceedings under chapter 7, Congress 
+could be certain that in most cases the debtor 
+would cease operations with assets that were in- 
+sufficient to cover the creditors’ claims in full. 
+Therefore, in the chapter 7 context, a uniform 
+rule subordinating penalty claims recognizes that 
+ordinary creditors should receive protection from 
+debtors’ punitive obligations. 
+
+The same rule, however, would be inappropri- 
+ate for proceedings under chapter 11. In chap- 
+ter 11 proceedings, Congress expected that many 
+debtors would continue their operations under a 
+reorganization plan and ultimately return to a 
+viable and profitable economic state. In such 
+cases, the debtor, quite rightly, should bear the 
+burden of its full punitive obligations. Where a 
+chapter 11 debtor opted to liquidate, however, 
+the consequences to creditors could be very simi- 
+lar to a proceeding under chapter 7. 
+
+
+912 F.2d at 233 (citation omitted). The Schultz 
+Broadway Inn court concluded that, in accordance 
+with the “legislative history of the Bankruptcy Re- 
+form Act, which generally prefers claims for actual 
+losses over purely punitive claims,” the “general un- 
+secured creditors who suffered actual losses should 
+
+
+48a 
+
+
+receive preference over the Government’s claim for a 
+non-pecuniary loss tax penalty in this liquidating 
+chapter 11.” 912 F.2d at 234. However, the court 
+noted that, despite the preference for compensating 
+creditors’ actual losses first, appropriate circum- 
+stances may exist such that the Government’s non- 
+pecuniary loss claims will not be subordinated, but 
+the “Government bears the burden of directly bring- 
+ing such equitable considerations to the bankruptcy 
+court’s attention.” Id. 
+
+As previously stated, in determining whether to 
+subordinate a claim under § 510 (e) (1), the various 
+equities of the claims must be considered, The nature 
+of the claim as arising prepetition or postpetition is 
+only one of several factors to weigh when balancing 
+the equities in a proceeding. In attempting to balance 
+the equities in its favor, the IRS has made several 
+assertions. First, the IRS asserts that it has not 
+waited too long to collect the debt owed it when the 
+debtor has been in bankruptcy. This court agrees. 
+In this proceeding, unlike in Virtual Network Serv- 
+ices, the IRS has not waited too long to collect its 
+debt. Second, the IRS asserts that requiring debtors 
+to pay penalties which are administrative expenses 
+does not punish innocent creditors, but rather insures 
+that chapter 11 debtors obey the law while they are 
+under the protection of the bankruptcy court. This 
+assertion, similar to that made by the IRS in Virtual 
+Network Services, is unpersuasive in this liquidation 
+proceeding. Penalties may punish a debtor who is 
+attempting to reorganize and may insure that the 
+debtor obeys the tax laws; however, in a Chapter 7 
+liquidation or in a liquidating chapter 11, the parties 
+who are punished are other creditors because payment 
+
+
+492 
+
+
+of penalties reduces estate assets available for dis- 
+tribution. Ti rd, ‘he IRS asserts that, although the 
+Bankruptcy Code provides for the readjustment of 
+prepetition debts, the Code requires that administra- 
+tive expenses are not to be readjusted but are to be 
+paid in ful’. The IRS’s assertion is correct but not 
+complete since ii ignores the equitable principles con- 
+tained in §510(c)(1). Under principles of equity, 
+particularly when such principles are expressly con- 
+tained in statutory enactments, the rigidity of other- 
+wise applicable law is modified to comply more ap- 
+propriately with legislative intention. Lastly, the IRS 
+asserts that it would be inequitable to allow the debtor 
+to subordinate a liability incurred by the debtor while 
+under the protection of the bankruptcy court. Al- 
+though “[t]he inclusion of penalties on postpetition 
+taxes in section 503(b) indicates that Congress was 
+willing to have the bankruptcy estate pay for ex- 
+penses that arise out of the failure of the debtor in 
+possession or the trustee to pay taxes in a timely man- 
+ner,” United States v. Flo-Lizer, Inc. (In re Flo-Lizer, 
+Inc.), 916 F.2d 363, 366 (6th Cir. 1990), again, the 
+provisions of § 510(c) (1) incorporate the principle of 
+equitable subordination and, accordingly, the court 
+must consider the equities of all claims, not just the 
+priority of the claims of the IRS. 
+
+Weighing the foregoing against the Code’s prefer- 
+ence for compensating actual loss claims, and the fact 
+that, in this liquidation proceeding, it appears the 
+total amount of assets to be distributed will fully 
+compensate only the first priority claim holders and 
+will be distributed on a pro rata basis to the second 
+priority claim holders, the court concludes that the 
+equities tilt in favor of subordinating the postpetition 
+
+
+50a 
+
+
+non-pecuniary loss tax penalties sought by the IRS. 
+See Walker v. Ferguson (In re Import & Mini Car 
+Parts, Ltd., Inc.), 136 B.R. 178, 182 (Bankr. N. D. 
+Ind. 1991) (court analyzed the decision in Virtual 
+Network, Burden, and Schultz Broadway Inn and 
+concluded that, as a result of the equities existing in 
+the proceedings, the postpetition tax penalties would 
+be subordinated) ;* In re F.A. Potts & Co., Inc., 114 
+B.R. 92, 94 (Bankr. E.D. Pa. 1990) (postpetition tax 
+penalties assessed against debtor were subordinated 
+under § 510(c)(1)). 
+
+
+II. Claim 107 
+
+
+This court must determine whether Claim 107, filed 
+after the bar date, may be allowed as an amendment. 
+Specifically, this court must determine whether the 
+FUTA tax listed in Claim 107 may be allowed as an 
+amendment to the FUTA tax listed in Claim 102 and 
+as an administrative expense. Additionally, this court 
+must determine the priority of the penalty related to 
+the additional FUTA tax and the priority, if any, of 
+the penalties related to the FICA claims not previously 
+listed in any timely filed claim. 
+
+The determination of whether to permit au amend- 
+ment to a timely filed proof of claim rests within the 
+discretion of the court. In re Wilson, 136 B.R. 719, 
+721 (Bankr. S.D. Ohio 1991); In re Parsons, 135 
+B. R. 283, 284 (Bankr. S.D. Ohio 1991); In re Me- 
+Lean Indus., Inc., 121 B. R. 704, 708 (Bankr. S. D. N. V. 
+
+
+However, unlike the courts in Virtual Network Services 
+and Schultz Broadway Inn, the bankruptcy court, as the trus- 
+tee requested, subordinated the tax penalties to the other 
+unpiad chapter 11 administrative expenses. Id. 
+
+
+Sla 
+
+
+1990); In re Milan Steel Fabricators, Inc., 113 B.R. 
+364, 368 (Bankr. N.D. Ohio 1990). In making this 
+determination courts have developed a two-part test. 
+Parsons, 135 B.R. at 284; McLean, 121 B.R. at 708; 
+Bishop v. United States (In re Leonard), 112 B.R. 67, 
+71 (Bankr. D. Conn. 1990). 
+
+Under the first prong of the test, the court must 
+determine whether the amendment reasonably relates 
+to a timely filed claim or whether it is merely an 
+attempt to file a new claim. United States v. Simon 
+(In re Bondi’s Valu-King, Inc.), 126 B.R. 47, 49 
+(N. D. Ohio 1991); Wilson, 136 B. R. at 721; McLean, 
+121 B. R. at 708; Milan Steel Fabricators, 113 B. R. at 
+367. (“[A]mendment to a claim is freely allowed 
+where the purpose is to cure a defect in the claim as 
+orignally filed, to describe the claim with greater par- 
+ticularity or to plead a new theory of recovery on 
+the facts set forth in the original claim.” Milan Steel 
+Fabricators, 113 B.R. at 368 (quoting United States v. 
+Int'l Horizons, Inc. (In re Int'l Horizons, Inc.), 751 
+F.2d 1213, 1216 (11th Cir. 1985)). Examples of 
+amendments permitted include a correction in “the 
+amount of tax, penalties or interest claimed in a 
+timely filed claim.” In re Unroe, 937 F.2d 346, 349 
+(7th Cir. 1991). However, if the claim is a new claim, 
+it will be disallowed. Milan Steel Fabricators, 113 
+B.R. at 367. 
+
+Under the second prong, the court must perform an 
+equitable analysis. McLean, 121 B.R. at 708; In re 
+Leonard, 112 B.R. at 71. In McLean, the court set 
+forth indicia to consider when balancing the equities, 
+including: 
+
+
+1) whether there is undue prejudice to an oppos- 
+ing party, 
+
+
+52a 
+
+
+2) whether there is bad faith or dilatory behavior 
+on the part of the claimant, 
+
+
+3) whether other creditors would receive a wind- 
+fall were the amendment not allowed, 
+
+
+4) whether other claimants might be harmed or 
+prejudiced, 
+
+
+5) whether there is justification for the inability 
+to file the amended claim at the time the 
+original claim was filed. 
+
+
+121 B.R. at 708. See also Parsons, 135 B.R. at 285. 
+
+
+It is undisputed that Claim 102, the original claim, 
+was timely filed. Claim 102 sets forth the FUTA tax 
+owed by the debtor for two tax periods, December 31, 
+1987 and December 31, 1988, and states at the bottom 
+of the claim: “Estimated tax claims have been filed 
+because the debtor has failed to file the return(s) for 
+the estimated periods. As soon as the debtor files the 
+return(s) with the I.R.S. as required by law, this 
+claim will be adjusted as necessary.” The parties have 
+agreed that the FUTA tax claims in Claim 102 will be 
+allowed as administrative claims. 
+
+It is undisputed that the FUTA tax for the tax 
+period December, 1987 listed in Claim 107 is iden- 
+tical to that in Claim 102, therefore, it is only the 
+FUTA tax sought for the tax period December, 1988 
+which the IRS seeks to amend. The FUTA tax listed 
+in Claim 107, the amended claim, is for an identical 
+tax period as the FUTA tax listed in Claim 102. The 
+only difference between the FUTA tax claims is the 
+amount. Further, the FUTA tax in Claim 107, listed 
+as an administrative claim, does not attempt to 
+change the character or nature of the claim. Thus, 
+
+
+53a 
+
+
+the claim for the additional FUTA tax in Claim 107 
+relates to the timely filed claim sought in Claim 102 
+and is not a new claim. For identical reasons, this 
+court finds that the penalty related to the FUTA tax 
+in Claim 107 relates to Claim 102, the timely filed 
+claim. Accordingly, with respect to the FUTA tax 
+and the penalty related to this FUTA tax, the first 
+prong of the test has been satisfied. 
+
+With respect to the penalties which relate to FICA 
+claims not previously listed in a timely filed claim, 
+this court finds that these penalties do not relate to 
+any timely filed claim. Thus, they fail to satisfy the 
+first prong of the test utilized in determining whether 
+to allow an amendment to a timely filed claim. Ac- 
+cordingly, they will be disallowed. 
+
+Having met the first prong of the test, unless equi- 
+table considerations militate strongly against this 
+amendment, the FUTA tax will be allowed. McLean, 
+121 B.R. at 709. The trustee asserts that, if this 
+claim is allowed, creditors in the same class will 
+be prejudiced because it will “reduce their dividend.” 
+(Doc. 211 at 7). In light of the policy favoring lib- 
+eral amendment, see McLean, 121 B.R. at 710, this 
+type of prejudice by itself, in this proceeding, is in- 
+sufficient. This court finds that there is no undue 
+prejudice to the trustee or any other claimant. 
+
+Moreover, there is justification for the failure to 
+file a timely claim. The IRS stated that Claim 102 
+was an estimated claim. The IRS has justified the 
+need for the statement that the tax amounts were 
+just an estimate because “the bar date fell before 
+the debtor’s 1988 tax return was due,” and no evi- 
+
+
+This court recognizes that the IRS’s amended claim was 
+not filed until approximately 5 months following the bar date. 
+
+
+S4a 
+
+
+dence in the record exists to dispute this assertion. 
+(Doc. 210 at 7). Although such a statement, stand- 
+ing alone, might not provide justification for an un- 
+timely claim, it does provide the trustee and claim- 
+ants with notice that the amounts contained in the 
+IRS’s initial claim may not be accurate and may be 
+subsequently amended. 
+
+The trustee asserts that the proposed amended 
+claim should not be allowed because it does not state 
+on its face that it is an “amendment.” As the very 
+party that has strenuously argued, and has there- 
+after benefited from the application of equitable prin- 
+ciples on the subordination issue, it is not particu- 
+larly persuasive for the trustee to attempt to prevent 
+the application of equitable principles on the amend- 
+ment issue. This court finds that Claim 107, the 
+amended claim, though not specifically designated an 
+„amendment,“ substantively constitutes an amend- 
+ment and is thus determined to be an amended claim. 
+See In re Pyramid Building Co., 87 B.R. 38, 40 
+(Bankr. N.D. Ohio 1988). “A contrary result would 
+clearly elevate form over substance and violate equi- 
+table considerations controlling amendments.” Id. 
+
+Further, with respect to the penalty related to the 
+FUTA tax, this court finds no equitable considera- 
+tions militating against its allowance; however, in 
+accordance with this court’s previous discussion of 
+equitable subordination (§510(c)(1)), this court 
+subordinates this penalty to that of the general un- 
+secured creditors. 
+
+Accordingly, this court, having initially examined 
+the plain meaning of the applicable Code provisions, 
+and, where appropriate, having consulted legislative 
+history and having found no evidence of congressional 
+intention to break with the pre-Code practice of 
+
+
+55a 
+
+
+preferring the payment of actual losses prior to the 
+payment of penalties, and having determined that 
+this result is not at odds with the intention of Con- 
+gress, the court concludes: 
+
+
+1) With respect to Claim 102: 
+
+
+a) the penalties are equitably subordinated 
+to that of the general unsecured creditors, 
+
+
+2) With respect to Claim 107: 
+
+
+a) the FUTA tax is allowed ag an amend- 
+ment to the FUTA tax in Claim 102 and is 
+allowed as an administrative expense, 
+
+
+— 1— related to this FU TA tax is 
+a : ever, this penalty is equitably 
+subordinated to that of the general unse- 
+cured creditors and 
+
+
+e) the penalties which relate to the FICA 
+claims not previously listed in a timely filed 
+claim do not amend claims in Claim 102 and 
+are disallowed. 
+
+
+An order in accordance with this decision is simul- 
+
+
+taneously entered. 
+SO ORDERED. 
+
+
+s, Thomas F. Waldron 
+THOMAS F. WALDRON 
+United States Bankruptcy Judge 
+
+
+56a 
+APPENDIX F 
+
+
+1. Section 503, 11 U.S.C. (1988), provides in rele- 
+vant part: 
+
+(b) After notice and a hearing, there shall be 
+allowed administrative expenses, other than claims 
+allowed under section 502(f) of this title, including— 
+
+
+(1) 89 „ „ 
+(B) any tax— 
+
+
+(i) incurred by the estate, except a 
+tax of a kind specified in section 507 
+(a) (7) of this title; or 
+
+(ii) attributable to an excessive al- 
+lowance of a tentative carryback ad- 
+justment that the estate received, 
+whether the taxable year to which such 
+adjustment relates ended before or 
+after the commencement of the case; 
+and 
+
+
+(C) any fine, penalty, or reduction in 
+credit relating to a tax of a kind specified 
+in subparagraph (B) of this paragraph; 
+
+2. Section 507, 11 U.S.C., provides in relevant 
+part: 
+
+(a) The following expenses and claims have 
+priority in the following order: 
+
+
+(1) First, administrative expenses allowed 
+under section 503(b) of this title, and any fees 
+and charges assessed against the estate under 
+chapter 123 of title 28. 
+
+
+57a 
+
+
+3. Section 510, 11 U.S. C., provides in relevant 
+part: 
+
+
+(e) Notwithstanding subsections (a) and (b) of 
+this section, after notice and a hearing, the court 
+may— 
+
+
+(1) under principles of equitable subordina- 
+tion, subordinate for purposes of distribution all 
+or part of an allowed claim to all or part of an- 
+other allowed claim or all or part of an allowed 
+interest to all or part of another allowed inter- 
+est; or 
+
+(2) order that any lien securing such a sub- 
+ordinated claim be transferred to the estate. 
+
+
+4. Section 726, 11 U.S.C., provides in relevant part: 
+
+
+(a) Except as provided in section 510 of this title, 
+property of the estate shall be distributed— 
+
+
+(1) first, in payment of claims of the kind 
+specified in, and in the order specified in, section 
+507 of this title; 
+
+(2) second, in payment of any allowed un- 
+secured claim, other than a claim of a kind speci- 
+fied in paragraph (1), (3), or (4) of this sub- 
+section, proof of which is— 
+
+
+(A) timely filed under section 501(a) of 
+this title; 
+
+(B) timely filed under section 501(b) or 
+501(c) of this title; or 
+
+(C) tardily filed under section 501(a) of 
+this title, if— 
+
+
+(i) the creditor that holds such claim 
+did not have notice or actual knowledge 
+
+
+58a 
+
+
+of the case in time for timely filing of a 
+proof of such claim under section 501 
+(a) of this title; and 
+
+(ii) proof of such claim is filed 
+time to permit payment of such claim; 
+
+
+(3) third, in payment of any allowed unse- 
+cured claim proof of which is tardily filed under 
+section 501(a) of this title, other than a claim of 
+the kind specified in paragraph (2)(C) of this 
+subsection ; 
+
+(4) fourth, in payment of any allowed claim, 
+whether secured or unsecured, for any fine, pen- 
+alty, or forfeiture, or for multiple, exemplary, or 
+punitive damages, arising before the earlier of 
+the order for relief or the appointment of a 
+trustee, to the extent that such fine, penalty, 
+forfeiture, or damages are not compensation for 
+actual pecuniary loss suffered by the holder of 
+such claim; 
+
+(5) fifth, in payment of interest at the legal 
+rate from the date of the filing of the petition, 
+on any claim paid under paragraph (1), (2), 
+(3), or (4) of this subsection; and 
+
+(6) sixth, to the debtor. 
+
+
+5 
+
+
+D ©. ©. covermeeer reserime orrice, to05 se7147 8620108 
+
+

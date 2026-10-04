@@ -1,0 +1,71 @@
+[
+  {
+    "name": "micro_IA40385013_0568 1. Docket.pdf",
+    "source": "derivative",
+    "pdf_module_version": "0.0.23",
+    "format": "Text PDF",
+    "original": "micro_IA40385013_0568 1. Docket_page_numbers.json",
+    "mtime": "1709580367",
+    "size": "507659",
+    "md5": "e55695aef672dd53dce3612d72d99fce",
+    "crc32": "72961ba6",
+    "sha1": "1cb1b62aab258307ec51be686ace55b1cbf78ee9"
+  },
+  {
+    "name": "micro_IA40385013_0568 1. Docket_djvu.txt",
+    "source": "derivative",
+    "format": "DjVuTXT",
+    "original": "micro_IA40385013_0568 1. Docket_djvu.xml",
+    "mtime": "1709580825",
+    "size": "4350",
+    "md5": "29f07548d5070963011037483eef9464",
+    "crc32": "c8fd04f0",
+    "sha1": "083712b9fd0d76aa447c17b5581cea5092ad3b34"
+  },
+  {
+    "name": "micro_IA40385013_0568 2. Petition for Writ of Certiorari.pdf",
+    "source": "derivative",
+    "pdf_module_version": "0.0.23",
+    "format": "Text PDF",
+    "original": "micro_IA40385013_0568 2. Petition for Writ of Certiorari_page_numbers.json",
+    "mtime": "1709580278",
+    "size": "13932863",
+    "md5": "a2ad701f224bc09e8d22c96c48af98be",
+    "crc32": "52e2f6d3",
+    "sha1": "4c552b133127729a705f3e6df592c4936cc7ae62"
+  },
+  {
+    "name": "micro_IA40385013_0568 2. Petition for Writ of Certiorari_djvu.txt",
+    "source": "derivative",
+    "format": "DjVuTXT",
+    "original": "micro_IA40385013_0568 2. Petition for Writ of Certiorari_djvu.xml",
+    "mtime": "1709580905",
+    "size": "106568",
+    "md5": "d2fc2dff4b2b1c4b1b232f7a905d9ddf",
+    "crc32": "ba4bd2a4",
+    "sha1": "9f3a764bcd87ffd356b4290514e4f9c15a4c5017"
+  },
+  {
+    "name": "micro_IA40385013_0568.pdf",
+    "source": "derivative",
+    "pdf_module_version": "0.0.23",
+    "format": "Text PDF",
+    "original": "micro_IA40385013_0568_page_numbers.json",
+    "mtime": "1709580768",
+    "size": "14432830",
+    "md5": "371d9540af5435e18b67b683c28fa1b7",
+    "crc32": "d788d973",
+    "sha1": "e58188e940a4ac6b86531dbfde9dd7ab04d1c94c"
+  },
+  {
+    "name": "micro_IA40385013_0568_djvu.txt",
+    "source": "derivative",
+    "format": "DjVuTXT",
+    "original": "micro_IA40385013_0568_djvu.xml",
+    "mtime": "1709580980",
+    "size": "110918",
+    "md5": "f8e42981d01f6c737d3e3d81c4900421",
+    "crc32": "6f030c88",
+    "sha1": "c65520a493568aec6a048f2f54d8499cec531335"
+  }
+]
