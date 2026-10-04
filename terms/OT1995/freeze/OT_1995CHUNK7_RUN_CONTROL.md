@@ -24,7 +24,7 @@ Source preparation is evidence support, not a Court action. Source-context expos
 
 ## Stage receipts
 
-Henderson is the first completed Chunk 7 Court event, committed at b34c162; its public render is in preparation. Casarotto has completed independent modeling and reconciliation and is in assembly. The remaining ten events have source preparation in progress or complete and await their actual chronological law refresh. Completed handoffs:
+Henderson, Casarotto and Pinder are completed Court events. Their three public render entries have been reviewed against mechanically generated inputs. Ornelas has a finalized neutral packet under actual completed May 21 law and is in independent modeling. The remaining eight cases have completed source preparation and clean neutral drafts awaiting their actual chronological law refresh. Completed handoffs:
 
 | Stage | Commit |
 |---|---|
@@ -47,8 +47,20 @@ Henderson is the first completed Chunk 7 Court event, committed at b34c162; its 
 | Bounded operative Loving provisions, JA132–151 | 0fd6c5e |
 | Casarotto reconciliation | 5143693 |
 | Additional bounded June10 source extracts | 994a3b0 |
+| Auciello presumption exceptions and qualifications | ea321a0 |
+| Casarotto completed Record and exact public reading copy | 0d97d6c |
+| Richards Cox finality source | 9173d25 |
+| Exxon bounded contract language and qualifications | 5dc889b |
+| Complete May 20 public-law workspace and snapshot | b467528 |
+| Pinder final neutral packet | c08a2ab |
+| Exact prior capital holdings and standards for Loving | 1a3e69d |
+| Pinder independent commitments | 36014f5 |
+| Pinder reconciliation | 5c6ca33 |
+| Pinder completed Record and exact public reading copy | 0f327bd |
+| Complete May 21 public-law workspace and snapshot | 5631263 |
+| Ornelas final neutral packet | 1f9169c |
 
-The OCC rule is effective April 1, 1996; all seventeen completed Court events on/after that date through May20 were reviewed for material effects and none was found. This admission increases sources to eight, total Records to81, while Court events remain73. It does not alter the preserved same-day baseline's substantive civil-service or arbitration rules; future relevant slices must include its exact terms. No completed adjudication or immutable earlier handoff is rewritten.
+The OCC rule is effective April 1, 1996; all seventeen completed Court events on/after that date through May20 were reviewed for material effects and none was found. At admission, this increased sources to eight and total Records to81, while Court events then remained73. It does not alter the preserved same-day baseline's substantive civil-service or arbitration rules; future relevant slices must include its exact terms. No completed adjudication or immutable earlier handoff is rewritten.
 
 ## Source boundary disclosures
 
@@ -62,3 +74,8 @@ The fresh Henderson model accidentally received the sanitized Casarotto fact por
 ## Completed-event control
 
 Henderson is a seven-to-two reversal and remand, with Scalia writing for seven and Thomas dissenting with O'Connor. Chief assignment62 is Scalia's third. The Record preserves the particular procedural supersession ground, direct congressional Rule4 enactment, qualified transition and ordinary remand. Mechanical kernel/public-identity/links/length checks pass. The initial public render fragment has been reviewed against its generated input; canonical chunk rendering awaits the remaining events. No earlier completed event is changed.
+
+
+Casarotto completes May 20 by an eight-to-one reversal and remand. Breyer writes for eight on the merits; all nine join reviewability; Thomas dissents from the merits judgment. Chief assignment63 is Breyer’s first. Pinder completes May21 by a five-to-four notice-only immunity affirmance; O’Connor writes unanimous Parts I–II and the five-Justice Part III, with Ginsburg dissenting with Stevens, Souter and Breyer. Chief assignment64 is O’Connor’s eighteenth. Exact PUBLIC, kernel, links and ordinary-explanation ceilings pass for both. Current state is76 Court events plus8 admitted sources,84 Records. Ornelas May28 uses the exact completedMay21 public snapshot; later groups await the actual intervening decisions.
+
+The protected opening baseline remains byte-identical for all6054 protected paths as checked after the May21 integration. Prepared additional modeling children receive explicit public authority inputs only and select no current positions before their finalized neutral and chronological law gates.
