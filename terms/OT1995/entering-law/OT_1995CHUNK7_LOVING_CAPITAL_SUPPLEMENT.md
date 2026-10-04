@@ -13,7 +13,7 @@
 - Invalid aggravators in capital weighing and correction of sentencing error — present operation effective Espinosa, June 29, 1992, for the influential-recommendation extension; Stringer, March 9, 1992, remains the direct-weighing source.
 - Effective capital consideration of independent culpability mitigation — present operation effective Graham, January 25, 1993; Johnson's later direct-review application is reproduced below and does not silently change the register's stated source date.
 
-The selected Standards entries identify no separate Current wording authority. Their exact source text, component support, burdens, exceptions and remedies follow. This preparatory supplement does not certify final June 3 chronology: the completed-May28 law refresh remains pending.
+The selected Standards entries identify no separate Current wording authority. Their exact source text, component support, burdens, exceptions and remedies follow. Final June 3 chronology is certified in OT_1995CHUNK7_LOVING_NEUTRAL_VALIDATED.md on the completed-May28 public-law snapshot at 7ee25af. This supplement supplies the bounded capital authorities; no copied authority text changes.
 
 **Integrity:**
 
